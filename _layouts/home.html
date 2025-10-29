@@ -1,0 +1,33 @@
+---
+layout: default
+---
+{{ content }}
+<div class="topics-list">
+  {%- assign sorted_topics = site.topics | sort: "topic" -%}
+  {%- assign current_topic = "" -%}
+
+  {%- for subtopic in sorted_topics -%}
+    {%- if subtopic.topic != current_topic -%}
+      {%- if current_topic != "" -%}
+          </ul>
+        </section>
+      {%- endif -%}
+
+      <section class="topic-group">
+        <h2 id="{{ subtopic.topic | slugify }}">{{ subtopic.topic }}</h2>
+        <ul>
+      {%- assign current_topic = subtopic.topic -%}
+    {%- endif -%}
+
+    <li>
+      <a href="{{ subtopic.url | relative_url }}">
+        {{ subtopic.title }}
+      </a>
+    </li>
+
+    {%- if forloop.last -%}
+        </ul>
+      </section>
+    {%- endif -%}
+  {%- endfor -%}
+</div>
