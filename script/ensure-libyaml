@@ -1,0 +1,20 @@
+#!/usr/bin/env bash
+
+set -e # exit if any command fails
+
+OS="$(uname)"
+if [ "$OS" == "Darwin" ]; then
+  ./script/ensure-homebrew
+  brew install libyaml
+elif [ "$OS" == "Linux" ]; then
+  . /etc/os-release
+  if [ "$ID" == "ubuntu" ]; then
+    sudo apt-get install -y -q libyaml-dev
+  else
+    echo "This script supports only ubuntu." >&2
+    exit 1
+  fi
+else
+  echo "Unsupported operating system: $OS" >&2
+  exit 1
+fi

@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+echo "Updating the project after a fresh pull"
+./script/bootstrap

@@ -1,0 +1,11 @@
+#!/usr/bin/env bash
+
+set -e # exit if any command fails
+
+if [ ! -f ".bundler-version" ]; then
+  echo "Error: .bundler-version file does not exist." >&2
+  exit 1
+fi
+
+./script/ensure-ruby
+gem install bundler -v "$(cat .bundler-version)"

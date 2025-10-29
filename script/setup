@@ -1,0 +1,4 @@
+#!/usr/bin/env bash
+
+echo "Setting up the project in an initial state"
+rm -rf ./_site ./.jekyll-cache ./.jekyll-metadata
