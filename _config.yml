@@ -1,0 +1,100 @@
+baseurl: "" # the subpath of your site, e.g. /blog
+description: >- # this means to ignore newlines until "baseurl:"
+  Navigating social services can be confusing. This project makes it simple by bringing publicly available resources together in one searchable, easy-to-use platform. Whether you’re an individual looking for help or a nonprofit guiding clients, you can quickly find the support you need.
+collections:
+  topics:
+    output: true
+    permalink: /topics/:name/
+defaults:
+    - scope:
+        path: "_topics"
+        type: "topics"
+      values:
+        layout: "page"
+email: chris@crickertech.com
+exclude:
+  - .jekyll-cache/
+  - .sass-cache/
+  - Gemfile
+  - Gemfile.lock
+  - LICENSE
+  - README.md
+  - bin/
+  - gemfiles/
+  - lib/
+  - script/
+  - vendor/
+github_username: calef
+plugins:
+  - jekyll-feed
+theme: minima
+topics:
+  Community & Social Services:
+    - Childcare
+    - Legal Aid
+    - Recreation/Community Programs
+    - Senior Services
+    - Volunteer Opportunities
+  Disabilities:
+    - Assistive Technology
+    - Early Intervention
+    - Employment
+    - Financial Support
+    - Traumatic Brain Injury Services
+  Domestic Violence:
+    - Advocacy
+    - Hotline
+    - Shelter
+  Education & Learning:
+    - Adult Education
+    - ESL Classes
+    - GED Classes
+    - Homeless Student Liaison
+    - Tutoring/Homework Help
+  Employment & Job Support:
+    - Job Search
+    - Job Seeking Skills
+    - Vocational Training
+    - Youth Employment Programs
+  Financial Assistance:
+    - Financial Counseling
+    - Move-in Assistance
+    - Rent Assistance
+    - Utility Assistance
+    - Utility Discounts
+  Food & Nutrition:
+    - Food Pantries/Banks
+    - Free Meals
+    - Grocery Delivery
+    - Home Delivered Meals
+    - Senior Meals
+  Health Care:
+    - COVID-19 Testing
+    - Dental Care
+    - Primary Care
+    - Specialized Clinics
+    - Teen Clinics
+  Mental Health & Counseling:
+    - Crisis Hotlines
+    - General Counseling Services
+    - Mental Health Evaluation
+    - Support Groups
+    - Teen Counseling
+  Personal & Household Needs:
+    - Clothing
+    - Diapers
+    - Household Goods
+    - Hygiene Items
+  Shelter & Housing:
+    - Homeless Day Centers
+    - Overnight Shelters
+    - Permanent Housing
+    - Transitional Housing
+    - Youth Shelter
+  Transportation & Mobility:
+    - Bus Fare
+    - Gas Money
+    - Local Transportation
+    - Paratransit Services
+title: King County Solutions
+url: "https://kingcounty.solutions"
