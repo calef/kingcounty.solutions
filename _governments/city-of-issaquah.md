@@ -1,6 +1,7 @@
 ---
 title: City of Issaquah
 place: Issaquah
+type: City
 website: https://www.issaquahwa.gov/
 ---
 

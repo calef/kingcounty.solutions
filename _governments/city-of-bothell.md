@@ -1,6 +1,7 @@
 ---
 title: City of Bothell
 place: Bothell
+type: City
 website: https://www.bothellwa.gov/
 ---
 

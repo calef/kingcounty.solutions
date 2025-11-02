@@ -1,6 +1,7 @@
 ---
 title: City of Auburn
 place: Auburn
+type: City
 website: https://www.auburnwa.gov/
 ---
 

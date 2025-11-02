@@ -1,6 +1,7 @@
 ---
 title: City of Pacific
 place: Pacific
+type: City
 website: https://www.pacificwa.gov/
 ---
 

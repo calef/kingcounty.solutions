@@ -1,6 +1,7 @@
 ---
 title: City of Woodinville
 place: Woodinville
+type: City
 website: https://www.ci.woodinville.wa.us/
 ---
 

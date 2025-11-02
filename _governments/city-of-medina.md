@@ -1,6 +1,7 @@
 ---
 title: City of Medina
 place: Medina
+type: City
 website: https://www.medina-wa.gov/
 ---
 

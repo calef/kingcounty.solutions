@@ -1,6 +1,7 @@
 ---
 title: City of Mercer Island
 place: Mercer Island
+type: City
 website: https://www.mercerisland.gov/
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: City of Algona
 place: Algona
+type: City
 website: https://www.algonawa.gov/
 ---
 

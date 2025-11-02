@@ -1,6 +1,7 @@
 ---
 title: City of Clyde Hill
 place: Clyde Hill
+type: City
 website: https://www.clydehill.org/
 ---
 

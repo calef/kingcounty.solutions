@@ -1,6 +1,7 @@
 ---
 title: City of Burien
 place: Burien
+type: City
 website: https://burienwa.gov/
 ---
 

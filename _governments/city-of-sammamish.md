@@ -1,6 +1,7 @@
 ---
 title: City of Sammamish
 place: Sammamish
+type: City
 website: https://www.sammamish.us/
 ---
 

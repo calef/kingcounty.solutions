@@ -1,6 +1,7 @@
 ---
 title: Town of Yarrow Point
 place: Yarrow Point
+type: Town
 website: https://www.yarrowpointwa.gov/
 ---
 

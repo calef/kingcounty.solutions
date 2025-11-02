@@ -1,6 +1,7 @@
 ---
 title: State of Washington
 place: Washington State
+type: State
 website: https://www.wa.gov/
 ---
 

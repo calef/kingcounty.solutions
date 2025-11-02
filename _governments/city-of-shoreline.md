@@ -1,6 +1,7 @@
 ---
 title: City of Shoreline
 place: Shoreline
+type: City
 website: https://www.shorelinewa.gov/
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: Town of Hunts Point
 place: Hunts Point
+type: Town
 website: https://www.huntspoint-wa.gov/
 ---
 

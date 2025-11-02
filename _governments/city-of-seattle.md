@@ -1,6 +1,7 @@
 ---
 title: City of Seattle
 place: Seattle
+type: City
 website: https://www.seattle.gov/
 ---
 

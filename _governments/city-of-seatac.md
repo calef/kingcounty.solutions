@@ -1,6 +1,7 @@
 ---
 title: City of SeaTac
 place: SeaTac
+type: City
 website: https://www.seatacwa.gov/
 ---
 

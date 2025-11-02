@@ -1,6 +1,7 @@
 ---
 title: City of Kenmore
 place: Kenmore
+type: City
 website: https://kenmorewa.gov/
 ---
 

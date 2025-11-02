@@ -1,6 +1,7 @@
 ---
 title: City of Newcastle
 place: Newcastle
+type: City
 website: https://www.newcastlewa.gov/
 ---
 

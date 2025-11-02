@@ -1,6 +1,7 @@
 ---
 title: City of Tukwila
 place: Tukwila
+type: City
 website: https://www.tukwilawa.gov/
 ---
 

@@ -1,6 +1,7 @@
 ---
 title: City of Carnation
 place: Carnation
+type: City
 website: https://www.carnationwa.gov/
 ---
 

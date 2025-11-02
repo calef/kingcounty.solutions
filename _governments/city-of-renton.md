@@ -1,6 +1,7 @@
 ---
 title: City of Renton
 place: Renton
+type: City
 website: https://rentonwa.gov/
 ---
 

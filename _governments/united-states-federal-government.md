@@ -1,6 +1,7 @@
 ---
 title: United States Federal Government
 place: United States
+type: Country
 website: https://www.usa.gov/
 ---
 

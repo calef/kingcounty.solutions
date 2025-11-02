@@ -1,6 +1,7 @@
 ---
 title: City of Kent
 place: Kent
+type: City
 website: https://www.kentwa.gov/
 ---
 

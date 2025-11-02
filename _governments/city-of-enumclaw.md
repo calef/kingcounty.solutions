@@ -1,6 +1,7 @@
 ---
 title: City of Enumclaw
 place: Enumclaw
+type: City
 website: https://www.cityofenumclaw.net/
 ---
 

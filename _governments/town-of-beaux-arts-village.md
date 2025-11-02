@@ -1,6 +1,7 @@
 ---
 title: Town of Beaux Arts Village
 place: Beaux Arts Village
+type: Town
 website: https://www.beauxarts-wa.gov/
 ---
 

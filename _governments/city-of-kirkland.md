@@ -1,6 +1,7 @@
 ---
 title: City of Kirkland
 place: Kirkland
+type: City
 website: https://www.kirklandwa.gov/
 ---
 

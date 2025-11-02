@@ -1,6 +1,7 @@
 ---
 title: City of Milton
 place: Milton
+type: City
 website: https://www.cityofmilton.net/
 ---
 

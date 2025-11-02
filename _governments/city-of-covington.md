@@ -1,6 +1,7 @@
 ---
 title: City of Covington
 place: Covington
+type: City
 website: https://www.covingtonwa.gov/
 ---
 

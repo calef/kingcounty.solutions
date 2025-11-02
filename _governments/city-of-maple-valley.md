@@ -1,6 +1,7 @@
 ---
 title: City of Maple Valley
 place: Maple Valley
+type: City
 website: https://www.maplevalleywa.gov/
 ---
 

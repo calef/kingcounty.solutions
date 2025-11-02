@@ -1,6 +1,7 @@
 ---
 title: City of Snoqualmie
 place: Snoqualmie
+type: City
 website: https://snoqualmiewa.gov/
 ---
 

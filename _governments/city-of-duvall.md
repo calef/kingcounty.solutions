@@ -1,6 +1,7 @@
 ---
 title: City of Duvall
 place: Duvall
+type: City
 website: https://www.duvallwa.gov/
 ---
 

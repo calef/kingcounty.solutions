@@ -1,6 +1,7 @@
 ---
 title: City of Lake Forest Park
 place: Lake Forest Park
+type: City
 website: https://www.cityoflfp.com/
 ---
 

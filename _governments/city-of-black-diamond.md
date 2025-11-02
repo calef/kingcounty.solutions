@@ -1,6 +1,7 @@
 ---
 title: City of Black Diamond
 place: Black Diamond
+type: City
 website: https://www.ci.blackdiamond.wa.us/
 ---
 

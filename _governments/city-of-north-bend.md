@@ -1,6 +1,7 @@
 ---
 title: City of North Bend
 place: North Bend
+type: City
 website: https://northbendwa.gov/
 ---
 

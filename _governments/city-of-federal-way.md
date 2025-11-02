@@ -1,6 +1,7 @@
 ---
 title: City of Federal Way
 place: Federal Way
+type: City
 website: https://www.cityoffederalway.com/
 ---
 
