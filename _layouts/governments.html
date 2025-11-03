@@ -30,7 +30,7 @@ layout: default
   Define preferred type order
   ==========================================================
   {% endcomment %}
-  {% assign preferred_order = "National,State,County,City,Town,School District,Special Purpose District" | split: "," %}
+  {% assign preferred_order = "Federal,State,County,City,Town,School District,Special Purpose District" | split: "," %}
 
   {% assign ordered_types = "" | split: "" %}
   {% for type in preferred_order %}
