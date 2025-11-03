@@ -1,0 +1,25 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" width="100%" height="100%">
+  <!-- Background with rounded corners -->
+  <rect x="0" y="0" width="100" height="100" rx="16" fill="#0C5033"/>
+  <!-- Inner safe area visual guide (not rendered) -->
+  <defs>
+    <style>
+      @font-face {
+        font-family: "InterUIFallback";
+        src: local("Arial");
+      }
+    </style>
+  </defs>
+  <!-- KCS text sized to fit exactly inside an 80-unit box, centered -->
+  <text x="50" y="67"
+        font-family="InterUIFallback, Arial, Helvetica, sans-serif"
+        font-size="58"
+        font-weight="800"
+        text-anchor="middle"
+        fill="#FFFFFF"
+        lengthAdjust="spacingAndGlyphs"
+        textLength="80">
+    KCS
+  </text>
+</svg>
