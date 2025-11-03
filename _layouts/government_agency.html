@@ -1,0 +1,157 @@
+---
+layout: default
+---
+
+<article class="agency">
+
+  {% comment %}
+  ==========================================================
+  Breadcrumb Navigation: Government → Parent → Title (ACRONYM)
+  ==========================================================
+  {% endcomment %}
+  <nav class="agency-breadcrumb" aria-label="Breadcrumb">
+    <p>
+      {% assign government_link = nil %}
+      {% if page.government %}
+        {% for gov in site.governments %}
+          {% if gov.title == page.government %}
+            {% assign government_link = gov.url %}
+            {% break %}
+          {% endif %}
+        {% endfor %}
+        {% if government_link %}
+          <a class="crumb" href="{{ government_link | relative_url }}">{{ page.government }}</a>
+        {% else %}
+          <span class="crumb">{{ page.government }}</span>
+        {% endif %}
+        {% if page.parent_department or page.title %}
+          <span class="crumb-sep">›</span>
+        {% endif %}
+      {% endif %}
+
+      {% assign parent_link = nil %}
+      {% if page.parent_department %}
+        {% for agency in site.government-agencies %}
+          {% if agency.title == page.parent_department %}
+            {% assign parent_link = agency.url %}
+            {% break %}
+          {% endif %}
+        {% endfor %}
+        {% if parent_link %}
+          <a class="crumb" href="{{ parent_link | relative_url }}">{{ page.parent_department }}</a>
+        {% else %}
+          <span class="crumb">{{ page.parent_department }}</span>
+        {% endif %}
+        {% if page.title %}
+          <span class="crumb-sep">›</span>
+        {% endif %}
+      {% endif %}
+
+      {% if page.title %}
+        <span class="crumb current">{{ page.title }}{% if page.acronym %} ({{ page.acronym }}){% endif %}</span>
+      {% endif %}
+    </p>
+  </nav>
+
+  <section class="agency-meta">
+    <dl>
+      {% if page.website %}
+        <dt>Website:</dt>
+        <dd><a href="{{ page.website }}" target="_blank" rel="noopener">{{ page.website }}</a></dd>
+      {% endif %}
+    </dl>
+  </section>
+
+  <section class="agency-description">
+    {{ content }}
+  </section>
+
+  {% comment %}
+  ==========================================================
+  Sub-Agencies Section — Lists agencies that have this page as their parent
+  ==========================================================
+  {% endcomment %}
+  {% assign subagencies = site.government-agencies | where: "parent_department", page.title %}
+  {% if subagencies and subagencies.size > 0 %}
+    <section class="agency-children">
+      <h2>Sub-Agencies</h2>
+      <ul>
+        {% for child in subagencies %}
+          <li>
+            <a href="{{ child.url | relative_url }}">
+              {{ child.title }}{% if child.acronym %} ({{ child.acronym }}){% endif %}
+            </a>
+          </li>
+        {% endfor %}
+      </ul>
+    </section>
+  {% endif %}
+</article>
+
+<style>
+.agency {
+  margin: 2rem 0;
+}
+.agency-breadcrumb {
+  font-size: 0.9rem;
+  color: #666;
+  margin-bottom: 1rem;
+}
+.agency-breadcrumb a {
+  color: #007acc;
+  text-decoration: none;
+}
+.agency-breadcrumb a:hover {
+  text-decoration: underline;
+}
+.crumb-sep {
+  margin: 0 0.25rem;
+  color: #aaa;
+}
+.crumb.current {
+  font-weight: bold;
+  color: #333;
+}
+.agency-meta {
+  background: #f9f9f9;
+  padding: 1rem;
+  border-left: 4px solid #007acc;
+  margin-bottom: 1.5rem;
+}
+.agency-meta dl {
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  grid-row-gap: 0.25rem;
+  grid-column-gap: 0.5rem;
+  margin: 0;
+}
+.agency-meta dt {
+  font-weight: bold;
+}
+.agency-meta dd {
+  margin: 0;
+}
+.agency-children {
+  margin-top: 2rem;
+}
+.agency-children h2 {
+  font-size: 1.25rem;
+  border-bottom: 2px solid #007acc;
+  padding-bottom: 0.25rem;
+  margin-bottom: 0.5rem;
+}
+.agency-children ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+.agency-children li {
+  margin: 0.25rem 0;
+}
+.agency-children a {
+  color: #007acc;
+  text-decoration: none;
+}
+.agency-children a:hover {
+  text-decoration: underline;
+}
+</style>
