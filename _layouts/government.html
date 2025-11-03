@@ -1,0 +1,179 @@
+---
+layout: default
+---
+
+<article class="government">
+
+  {% comment %}
+  ==========================================================
+  Breadcrumb Navigation: Governments › Title
+  ==========================================================
+  {% endcomment %}
+  <nav class="government-breadcrumb" aria-label="Breadcrumb">
+    <p>
+      <a class="crumb" href="{{ '/governments/' | relative_url }}">Governments</a>
+      {% if page.title %}
+        <span class="crumb-sep">›</span>
+        <span class="crumb current">{{ page.title }}</span>
+      {% endif %}
+    </p>
+  </nav>
+
+  <header>
+    <h1 class="post-title">{{ page.title }}</h1>
+  </header>
+
+  <section class="government-meta">
+    <dl>
+      {% if page.place %}
+        <dt>Place:</dt>
+        <dd>{{ page.place }}</dd>
+      {% endif %}
+
+      {% if page.type %}
+        <dt>Type:</dt>
+        <dd>{{ page.type }}</dd>
+      {% endif %}
+
+      {% if page.website %}
+        <dt>Website:</dt>
+        <dd><a href="{{ page.website }}" target="_blank" rel="noopener">{{ page.website }}</a></dd>
+      {% endif %}
+    </dl>
+  </section>
+
+  <section class="government-description">
+    {{ content }}
+  </section>
+
+  {% comment %}
+  ==========================================================
+  Agencies Section — Grouped by Parent Department
+  ==========================================================
+  {% endcomment %}
+  {% assign agencies = site.government-agencies | where: "government", page.title %}
+  {% if agencies and agencies.size > 0 %}
+    {% comment %}
+    Build a list of unique parent departments (including nil for top-level)
+    {% endcomment %}
+    {% assign parents = "" | split: "" %}
+    {% for agency in agencies %}
+      {% assign parent = agency.parent_department | default: "None" %}
+      {% unless parents contains parent %}
+        {% assign parents = parents | push: parent %}
+      {% endunless %}
+    {% endfor %}
+
+    <section class="government-agencies">
+      <h2>Agencies</h2>
+      {% for parent in parents %}
+        {% assign child_agencies = agencies | where: "parent_department", parent %}
+        {% if parent != "None" %}
+          <h3 class="parent-header">
+            {% assign parent_link = nil %}
+            {% for p in site.government-agencies %}
+              {% if p.title == parent %}
+                {% assign parent_link = p.url %}
+                {% break %}
+              {% endif %}
+            {% endfor %}
+            {% if parent_link %}
+              <a href="{{ parent_link | relative_url }}">{{ parent }}</a>
+            {% else %}
+              {{ parent }}
+            {% endif %}
+          </h3>
+        {% endif %}
+        <ul>
+          {% for agency in child_agencies %}
+            <li>
+              <a href="{{ agency.url | relative_url }}">
+                {{ agency.title }}{% if agency.acronym %} ({{ agency.acronym }}){% endif %}
+              </a>
+            </li>
+          {% endfor %}
+        </ul>
+      {% endfor %}
+    </section>
+  {% endif %}
+</article>
+
+<style>
+.government {
+  margin: 2rem 0;
+}
+
+/* Breadcrumb */
+.government-breadcrumb {
+  font-size: 0.9rem;
+  color: #666;
+  margin-bottom: 1rem;
+}
+.government-breadcrumb a {
+  color: #007acc;
+  text-decoration: none;
+}
+.government-breadcrumb a:hover {
+  text-decoration: underline;
+}
+.crumb-sep {
+  margin: 0 0.25rem;
+  color: #aaa;
+}
+.crumb.current {
+  font-weight: bold;
+  color: #333;
+}
+
+/* Metadata section */
+.government-meta {
+  background: #f9f9f9;
+  padding: 1rem;
+  border-left: 4px solid #007acc;
+  margin-bottom: 1.5rem;
+}
+.government-meta dl {
+  display: grid;
+  grid-template-columns: max-content 1fr;
+  grid-row-gap: 0.25rem;
+  grid-column-gap: 0.5rem;
+  margin: 0;
+}
+.government-meta dt {
+  font-weight: bold;
+}
+.government-meta dd {
+  margin: 0;
+}
+
+/* Agencies list */
+.government-agencies {
+  margin-top: 2rem;
+}
+.government-agencies h2 {
+  font-size: 1.25rem;
+  border-bottom: 2px solid #007acc;
+  padding-bottom: 0.25rem;
+  margin-bottom: 0.75rem;
+}
+.government-agencies h3.parent-header {
+  font-size: 1.1rem;
+  margin-top: 1.5rem;
+  margin-bottom: 0.25rem;
+  color: #007acc;
+}
+.government-agencies ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+.government-agencies li {
+  margin: 0.25rem 0;
+}
+.government-agencies a {
+  color: #007acc;
+  text-decoration: none;
+}
+.government-agencies a:hover {
+  text-decoration: underline;
+}
+</style>
