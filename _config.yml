@@ -28,6 +28,11 @@ defaults:
         type: "government-agencies"
       values:
         layout: "government_agency"
+    - scope:
+        path: "_governments"
+        type: "governments"
+      values:
+        layout: "government"
 email: chris@crickertech.com
 exclude:
   - .jekyll-cache/
