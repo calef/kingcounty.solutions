@@ -1,0 +1,115 @@
+---
+layout: default
+---
+
+<article class="governments">
+
+  <header>
+    <h1 class="page-title">Governments Directory</h1>
+  </header>
+
+  <section class="governments-intro">
+    <p>This directory lists all governments included in the site, grouped by their <strong>type</strong> (e.g., Country, State, County, City, Town, School District, Special Purpose District).</p>
+  </section>
+
+  {% comment %}
+  ==========================================================
+  Collect and Sort Government Types
+  ==========================================================
+  {% endcomment %}
+  {% assign sorted_governments = site.governments | sort: "title" %}
+  {% assign all_types = "" | split: "" %}
+  {% for gov in sorted_governments %}
+    {% assign gov_type = gov.type | default: "Uncategorized" %}
+    {% unless all_types contains gov_type %}
+      {% assign all_types = all_types | push: gov_type %}
+    {% endunless %}
+  {% endfor %}
+
+  {% comment %}
+  Define preferred type order
+  ==========================================================
+  {% endcomment %}
+  {% assign preferred_order = "National,State,County,City,Town,School District,Special Purpose District" | split: "," %}
+
+  {% assign ordered_types = "" | split: "" %}
+  {% for type in preferred_order %}
+    {% if all_types contains type %}
+      {% assign ordered_types = ordered_types | push: type %}
+    {% endif %}
+  {% endfor %}
+
+  {% comment %}
+  Append any remaining (non-preferred) types alphabetically
+  ==========================================================
+  {% endcomment %}
+  {% assign remaining_types = all_types | sort_natural %}
+  {% for t in remaining_types %}
+    {% unless ordered_types contains t %}
+      {% assign ordered_types = ordered_types | push: t %}
+    {% endunless %}
+  {% endfor %}
+
+  {% comment %}
+  Render each section by type
+  ==========================================================
+  {% endcomment %}
+  {% for type in ordered_types %}
+    <section class="government-type">
+      <h2 class="type-heading">{{ type }}</h2>
+      <ul class="government-list">
+        {% assign filtered = sorted_governments | where: "type", type %}
+        {% for gov in filtered %}
+          <li class="government-item">
+            <a href="{{ gov.url | relative_url }}">{{ gov.title }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+    </section>
+  {% endfor %}
+</article>
+
+<style>
+.governments {
+  margin: 2rem 0;
+}
+
+/* Intro */
+.governments-intro {
+  margin-bottom: 2rem;
+  font-size: 1.05rem;
+  color: #444;
+}
+
+/* Type sections */
+.government-type {
+  margin-top: 2.5rem;
+}
+.type-heading {
+  font-size: 1.4rem;
+  border-bottom: 2px solid #007acc;
+  padding-bottom: 0.25rem;
+  margin-bottom: 1rem;
+  color: #007acc;
+}
+
+/* List items */
+.government-list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 0.5rem 1.25rem;
+}
+.government-item {
+  margin: 0;
+}
+.government-item a {
+  color: #007acc;
+  text-decoration: none;
+}
+.government-item a:hover {
+  text-decoration: underline;
+}
+</style>
