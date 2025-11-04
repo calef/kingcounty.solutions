@@ -1,0 +1,120 @@
+---
+layout: default
+---
+
+<article class="government-agencies">
+
+  <header>
+    <h1 class="page-title">Government Agencies Directory</h1>
+  </header>
+
+  <section class="agencies-intro">
+    <p>This directory lists all government agencies included in the site, grouped by their parent <strong>government</strong>.</p>
+  </section>
+
+  {% comment %}
+  ==========================================================
+  Group agencies by their government
+  ==========================================================
+  {% endcomment %}
+  {% assign sorted_agencies = site.government-agencies | sort: "title" %}
+  {% assign governments = "" | split: "" %}
+  {% for agency in sorted_agencies %}
+    {% assign gov = agency.government | default: "Unspecified Government" %}
+    {% unless governments contains gov %}
+      {% assign governments = governments | push: gov %}
+    {% endunless %}
+  {% endfor %}
+  {% assign governments = governments | sort_natural %}
+
+  {% comment %}
+  Iterate through each government and display its agencies
+  ==========================================================
+  {% endcomment %}
+  {% for gov_title in governments %}
+    {% assign gov_obj = site.governments | where: "title", gov_title | first %}
+    {% assign agencies_for_gov = sorted_agencies | where: "government", gov_title %}
+
+    <section class="government-section">
+      <h2 class="government-heading">
+        {% if gov_obj %}
+          <a href="{{ gov_obj.url | relative_url }}">{{ gov_obj.title }}</a>
+        {% else %}
+          {{ gov_title }}
+        {% endif %}
+      </h2>
+
+      {% if agencies_for_gov and agencies_for_gov.size > 0 %}
+        <ul class="agency-list">
+          {% for agency in agencies_for_gov %}
+            <li class="agency-item">
+              <a href="{{ agency.url | relative_url }}">
+                {{ agency.title }}{% if agency.acronym %} ({{ agency.acronym }}){% endif %}
+              </a>
+            </li>
+          {% endfor %}
+        </ul>
+      {% else %}
+        <p class="no-agencies">No agencies listed under this government.</p>
+      {% endif %}
+    </section>
+  {% endfor %}
+</article>
+
+<style>
+.government-agencies {
+  margin: 2rem 0;
+}
+
+/* Intro */
+.agencies-intro {
+  margin-bottom: 2rem;
+  font-size: 1.05rem;
+  color: #444;
+}
+
+/* Government sections */
+.government-section {
+  margin-top: 2.5rem;
+}
+.government-heading {
+  font-size: 1.4rem;
+  border-bottom: 2px solid #007acc;
+  padding-bottom: 0.25rem;
+  margin-bottom: 1rem;
+  color: #007acc;
+}
+.government-heading a {
+  color: #007acc;
+  text-decoration: none;
+}
+.government-heading a:hover {
+  text-decoration: underline;
+}
+
+/* Agency list */
+.agency-list {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 0.5rem 1.25rem;
+}
+.agency-item {
+  margin: 0;
+}
+.agency-item a {
+  color: #007acc;
+  text-decoration: none;
+}
+.agency-item a:hover {
+  text-decoration: underline;
+}
+
+.no-agencies {
+  font-size: 0.9rem;
+  color: #777;
+  margin-left: 0.5rem;
+}
+</style>
