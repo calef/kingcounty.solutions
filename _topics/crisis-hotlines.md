@@ -1,5 +1,5 @@
 ---
 title: "Crisis Hotlines"
-topic: "Mental Health & Counseling"
+parent_topic: "Mental Health & Counseling"
 ---
 

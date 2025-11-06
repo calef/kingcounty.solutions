@@ -1,5 +1,5 @@
 ---
 title: "Household Goods"
-topic: "Personal & Household Needs"
+parent_topic: "Personal & Household Needs"
 ---
 

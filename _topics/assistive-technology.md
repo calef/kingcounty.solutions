@@ -1,5 +1,5 @@
 ---
 title: "Assistive Technology"
-topic: "Disabilities"
+parent_topic: "Disabilities"
 ---
 

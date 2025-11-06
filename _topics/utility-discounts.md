@@ -1,5 +1,5 @@
 ---
 title: "Utility Discounts"
-topic: "Financial Assistance"
+parent_topic: "Financial Assistance"
 ---
 

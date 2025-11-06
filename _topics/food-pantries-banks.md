@@ -1,5 +1,5 @@
 ---
 title: "Food Pantries/Banks"
-topic: "Food & Nutrition"
+parent_topic: "Food & Nutrition"
 ---
 

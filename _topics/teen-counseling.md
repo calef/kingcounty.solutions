@@ -1,5 +1,5 @@
 ---
 title: "Teen Counseling"
-topic: "Mental Health & Counseling"
+parent_topic: "Mental Health & Counseling"
 ---
 

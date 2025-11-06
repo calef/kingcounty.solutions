@@ -1,5 +1,5 @@
 ---
 title: "COVID-19 Testing"
-topic: "Health Care"
+parent_topic: "Health Care"
 ---
 

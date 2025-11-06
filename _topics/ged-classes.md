@@ -1,5 +1,5 @@
 ---
 title: "GED Classes"
-topic: "Education & Learning"
+parent_topic: "Education & Learning"
 ---
 

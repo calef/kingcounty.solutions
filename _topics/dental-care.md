@@ -1,5 +1,5 @@
 ---
 title: "Dental Care"
-topic: "Health Care"
+parent_topic: "Health Care"
 ---
 

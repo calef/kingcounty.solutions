@@ -1,5 +1,5 @@
 ---
 title: "General Counseling Services"
-topic: "Mental Health & Counseling"
+parent_topic: "Mental Health & Counseling"
 ---
 

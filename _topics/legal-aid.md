@@ -1,5 +1,5 @@
 ---
 title: "Legal Aid"
-topic: "Community & Social Services"
+parent_topic: "Community & Social Services"
 ---
 

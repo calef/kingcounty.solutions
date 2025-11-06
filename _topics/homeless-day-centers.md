@@ -1,5 +1,5 @@
 ---
 title: "Homeless Day Centers"
-topic: "Shelter & Housing"
+parent_topic: "Shelter & Housing"
 ---
 

@@ -3,20 +3,20 @@ layout: default
 ---
 {{ content }}
 <div class="topics-list">
-  {%- assign sorted_topics = site.topics | sort: "topic" -%}
+  {%- assign sorted_topics = site.topics | sort: "parent_topic" -%}
   {%- assign current_topic = "" -%}
 
   {%- for subtopic in sorted_topics -%}
-    {%- if subtopic.topic != current_topic -%}
+    {%- if subtopic.parent_topic != current_topic -%}
       {%- if current_topic != "" -%}
           </ul>
         </section>
       {%- endif -%}
 
       <section class="topic-group">
-        <h2 id="{{ subtopic.topic | slugify }}">{{ subtopic.topic }}</h2>
+        <h2 id="{{ subtopic.topic | slugify }}">{{ subtopic.parent_topic }}</h2>
         <ul>
-      {%- assign current_topic = subtopic.topic -%}
+      {%- assign current_topic = subtopic.parent_topic -%}
     {%- endif -%}
 
     <li>

@@ -1,5 +1,5 @@
 ---
 title: "Rent Assistance"
-topic: "Financial Assistance"
+parent_topic: "Financial Assistance"
 ---
 

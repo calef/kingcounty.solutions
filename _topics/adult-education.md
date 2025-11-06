@@ -1,5 +1,5 @@
 ---
 title: "Adult Education"
-topic: "Education & Learning"
+parent_topic: "Education & Learning"
 ---
 

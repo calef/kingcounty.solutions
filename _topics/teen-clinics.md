@@ -1,5 +1,5 @@
 ---
 title: "Teen Clinics"
-topic: "Health Care"
+parent_topic: "Health Care"
 ---
 
