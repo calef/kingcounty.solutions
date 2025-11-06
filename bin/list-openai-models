@@ -1,0 +1,12 @@
+#!/usr/bin/env ruby
+# frozen_string_literal: true
+
+require 'ruby/openai'
+
+client = OpenAI::Client.new(access_token: ENV.fetch('OPENAI_API_KEY'))
+
+response = client.models.list
+
+response['data'].each do |model|
+  puts(model['id'])
+end
