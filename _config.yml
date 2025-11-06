@@ -2,15 +2,9 @@ baseurl: "" # the subpath of your site, e.g. /blog
 description: >- # this means to ignore newlines until "baseurl:"
   Navigating social services can be confusing. This project makes it simple by bringing publicly available resources together in one searchable, easy-to-use platform. Whether you’re an individual looking for help or a nonprofit guiding clients, you can quickly find the support you need.
 collections:
-  community-based-organizations:
+  organizations:
     output: true
-    permalink: /community-based-organizations/:name/
-  government-agencies:
-    output: true
-    permalink: /government-agencies/:name/
-  governments:
-    output: true
-    permalink: /governments/:name/
+    permalink: /organizations/:name/
   places:
     output: true
     permalink: /places/:name/
@@ -24,15 +18,10 @@ defaults:
       values:
         layout: "page"
     - scope:
-        path: "_government-agencies"
-        type: "government-agencies"
+        path: "_organizations"
+        type: "organizations"
       values:
-        layout: "government_agency"
-    - scope:
-        path: "_governments"
-        type: "governments"
-      values:
-        layout: "government"
+        layout: "page"
 email: chris@crickertech.com
 exclude:
   - .jekyll-cache/

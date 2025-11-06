@@ -1,0 +1,18 @@
+{%- assign depth = include.depth | default: 1 -%}
+{%- assign next_depth = depth | plus: 1 -%}
+
+{%- if next_depth <= 4 -%}
+  {%- assign children = site.organizations | where: "parent_organization", include.parent | sort: "title" -%}
+  {%- if children.size > 0 -%}
+    <ul style="margin-left: {{ depth | times: 1.5 }}rem;">
+      {%- for child in children -%}
+        <li>
+          <a href="{{ child.url | relative_url }}">{{ child.title }}</a>
+          {%- if child.acronym %} ({{ child.acronym }}){%- endif -%}
+          {%- assign next_depth = depth | plus: 1 -%}
+          {%- include org-recursive.html parent=child.title depth=next_depth -%}
+        </li>
+      {%- endfor -%}
+    </ul>
+  {%- endif -%}
+{%- endif -%}
