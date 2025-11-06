@@ -21,7 +21,7 @@ defaults:
         path: "_organizations"
         type: "organizations"
       values:
-        layout: "page"
+        layout: "organization"
 email: chris@crickertech.com
 exclude:
   - .jekyll-cache/

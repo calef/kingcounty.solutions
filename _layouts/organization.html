@@ -1,0 +1,238 @@
+---
+layout: default
+---
+
+<article class="page">
+
+  {% comment %}
+  ▸ Breadcrumb trail: recursively walk up the organization hierarchy (no "Home")
+  {% endcomment %}
+  {% assign current_parent = page.parent_organization %}
+  {% assign chain = "" %}
+
+  {% for i in (0..10) %}
+    {% if current_parent %}
+      {% assign parent_doc = site.organizations | where: "title", current_parent | first %}
+      {% if parent_doc %}
+        {% capture chain %}
+          <a href="{{ parent_doc.url | relative_url }}">{{ parent_doc.title }}</a> › {{ chain }}
+        {% endcapture %}
+        {% assign current_parent = parent_doc.parent_organization %}
+      {% else %}
+        {% capture chain %}
+          {{ current_parent }} › {{ chain }}
+        {% endcapture %}
+        {% assign current_parent = nil %}
+      {% endif %}
+    {% else %}
+      {% break %}
+    {% endif %}
+  {% endfor %}
+
+  {% if chain != "" %}
+  <nav class="breadcrumbs">
+    {{ chain }}<span>{{ page.title }}</span>
+  </nav>
+  {% endif %}
+
+  <header class="page-header">
+    <h1 class="page-title">
+      {{ page.title }}
+      {% if page.acronym %}
+        <span class="org-acronym">{{ page.acronym }}</span>
+      {% endif %}
+    </h1>
+
+    {% if page.topics and page.topics.size > 0 %}
+      <div class="org-topics">
+        {% for t in page.topics %}
+          {% assign topic_doc = site.topics | where: "title", t | first %}
+          {% if topic_doc %}
+            <a class="topic-pill" href="{{ topic_doc.url | relative_url }}">{{ t }}</a>
+          {% else %}
+            <span class="topic-pill">{{ t }}</span>
+          {% endif %}
+        {% endfor %}
+      </div>
+    {% endif %}
+  </header>
+
+  <div class="page-content">
+    <table class="org-info">
+      <tbody>
+        {% if page.email %}
+        <tr>
+          <th>Email</th>
+          <td><a href="mailto:{{ page.email }}">{{ page.email }}</a></td>
+        </tr>
+        {% endif %}
+
+        {% if page.phone %}
+          {% assign tel = page.phone | replace: ' ', '' | replace: '(', '' | replace: ')', '' | replace: '-', '' %}
+          <tr>
+            <th>Phone</th>
+            <td><a href="tel:+1{{ tel }}">+1 {{ page.phone }}</a></td>
+          </tr>
+        {% endif %}
+
+        {% if page.address %}
+        <tr>
+          <th>Address</th>
+          <td>
+            {{ page.address }}<br/>
+            <a href="https://www.google.com/maps/search/?api=1&query={{ page.address | uri_escape }}" rel="noopener noreferrer">View on map</a>
+          </td>
+        </tr>
+        {% endif %}
+
+        {% if page.jurisdictions and page.jurisdictions.size > 0 %}
+        <tr>
+          <th>Jurisdictions</th>
+          <td>
+            {% for j in page.jurisdictions %}
+              {% assign place = site.places | where: "title", j | first %}
+              {% if place %}
+                <a href="{{ place.url | relative_url }}">{{ place.title }}</a>{% unless forloop.last %}, {% endunless %}
+              {% else %}
+                {{ j }}{% unless forloop.last %}, {% endunless %}
+              {% endif %}
+            {% endfor %}
+          </td>
+        </tr>
+        {% endif %}
+      </tbody>
+    </table>
+
+    {% if content %}
+      <div class="org-body">
+        {{ content }}
+      </div>
+    {% endif %}
+
+    {% if page.website %}
+      <p class="org-website">
+        For more information, see the
+        <a href="{{ page.website }}" rel="noopener noreferrer">{{ page.title }} website</a>.
+      </p>
+    {% endif %}
+
+    {% assign children = site.organizations | where: "parent_organization", page.title %}
+    {% if children and children.size > 0 %}
+      <hr/>
+      <h2>Units within {{ page.title }}</h2>
+      <ul class="org-children">
+        {% for child in children %}
+          <li>
+            <a href="{{ child.url | relative_url }}">{{ child.title }}</a>
+            {% if child.acronym %} ({{ child.acronym }}){% endif %}
+          </li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+  </div>
+</article>
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": {{ page.title | jsonify }},
+  {% if page.acronym %}"alternateName": {{ page.acronym | jsonify }},{% endif %}
+  {% if page.website %}"url": {{ page.website | jsonify }},{% endif %}
+  {% if page.email %}"email": {{ page.email | jsonify }},{% endif %}
+  {% if page.phone %}"telephone": {{ page.phone | jsonify }},{% endif %}
+  {% if page.address %}
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": {{ page.address | jsonify }}
+  },
+  {% endif %}
+  "department": [
+    {% for child in children %}
+      { "@type": "Organization", "name": {{ child.title | jsonify }} }{% if forloop.last == false %},{% endif %}
+    {% endfor %}
+  ]
+}
+</script>
+
+<style>
+/* Breadcrumb navigation */
+.breadcrumbs {
+  font-size: 0.9em;
+  margin-bottom: 1rem;
+  color: #666;
+}
+.breadcrumbs a {
+  color: inherit;
+  text-decoration: none;
+}
+.breadcrumbs a:hover {
+  text-decoration: underline;
+}
+
+/* Acronym badge */
+.org-acronym {
+  font-size: 0.6em;
+  font-weight: 600;
+  margin-left: 0.35em;
+  padding: 0.2em 0.45em;
+  border: 1px solid #ddd;
+  border-radius: 0.4em;
+}
+
+/* Topic pills */
+.org-topics {
+  margin-top: 0.3rem;
+  margin-bottom: 1rem;
+}
+.topic-pill {
+  display: inline-block;
+  margin: 0.15rem 0.35rem 0.15rem 0;
+  padding: 0.15rem 0.5rem;
+  border: 1px solid #e0e0e0;
+  border-radius: 999px;
+  font-size: 0.9em;
+  text-decoration: none;
+  color: inherit;
+}
+.topic-pill:hover {
+  border-color: #ccc;
+  text-decoration: underline;
+}
+
+/* Info table */
+.org-info {
+  border-collapse: collapse;
+  margin-bottom: 1.5rem;
+}
+.org-info th {
+  text-align: left;
+  padding: 0.25rem 0.75rem 0.25rem 0;
+  color: #666;
+  vertical-align: top;
+  white-space: nowrap;
+}
+.org-info td {
+  padding: 0.25rem 0;
+}
+
+/* Content area */
+.org-body {
+  margin-top: 1.5rem;
+}
+
+/* Website link section */
+.org-website {
+  margin-top: 1.5rem;
+  font-style: italic;
+}
+
+/* Child organization list */
+.org-children {
+  margin-top: 0.75rem;
+  padding-left: 1.25rem;
+}
+.org-children li {
+  margin-bottom: 0.25rem;
+}
+</style>
