@@ -1,20 +1,20 @@
 #!/usr/bin/env ruby
+# frozen_string_literal: true
+
 require 'yaml'
 require 'fileutils'
-require 'set'
 
-CONFIG_FILE = "_config.yml"
-TOPICS_DIR = "_topics"
+CONFIG_FILE = '_config.yml'
+TOPICS_DIR = '_topics'
 
 # --- Helper: normalize a subtopic name to a safe filename ---
 def subtopic_to_filename(subtopic)
   base = subtopic.to_s.strip.downcase
-  base = base.gsub(/[\/\\]/, '-')       # convert / and \ to -
+  base = base.gsub(%r{[/\\]}, '-') # convert / and \ to -
   base = base.gsub(/\s+/, '-')          # spaces -> hyphens
   base = base.gsub(/-+/, '-')           # collapse multiple hyphens
-  base = base.gsub(/[^a-z0-9\-]/, '')   # remove non-alphanumeric/non-hyphen
-  base = base.gsub(/^\-+|\-+$/, '')     # trim leading/trailing hyphens
-  base
+  base = base.gsub(/[^a-z0-9-]/, '') # remove non-alphanumeric/non-hyphen
+  base.gsub(/^-+|-+$/, '') # trim leading/trailing hyphens
 end
 
 # --- Load _config.yml ---
@@ -24,9 +24,9 @@ unless File.exist?(CONFIG_FILE)
 end
 
 config = YAML.load_file(CONFIG_FILE)
-topics_hash = config["topics"]
+topics_hash = config['topics']
 
-unless topics_hash && topics_hash.is_a?(Hash)
+unless topics_hash.is_a?(Hash)
   warn "Error: 'topics' key not found or invalid in #{CONFIG_FILE}."
   exit 1
 end
@@ -35,7 +35,7 @@ end
 FileUtils.mkdir_p(TOPICS_DIR)
 
 # --- Existing subtopic files ---
-existing_files = Dir.glob("#{TOPICS_DIR}/*.md").map { |f| File.basename(f, ".md") }
+existing_files = Dir.glob("#{TOPICS_DIR}/*.md").map { |f| File.basename(f, '.md') }
 
 # --- Collect subtopics and create files ---
 all_subtopic_bases = Set.new
@@ -48,15 +48,15 @@ topics_hash.each do |topic, subtopics|
     all_subtopic_bases << filename_base
     filename = File.join(TOPICS_DIR, "#{filename_base}.md")
 
-    unless File.exist?(filename)
-      puts "Creating #{filename}"
-      File.open(filename, "w") do |f|
-        f.puts("---")
-        f.puts("title: \"#{subtopic}\"")
-        f.puts("topic: \"#{topic}\"")
-        f.puts("---")
-        f.puts
-      end
+    next if File.exist?(filename)
+
+    puts "Creating #{filename}"
+    File.open(filename, 'w') do |f|
+      f.puts('---')
+      f.puts("title: \"#{subtopic}\"")
+      f.puts("parent_topic: \"#{topic}\"")
+      f.puts('---')
+      f.puts
     end
   end
 end
@@ -69,4 +69,4 @@ files_to_delete.each do |old_file|
   File.delete(path)
 end
 
-puts "Subtopic sync complete."
+puts 'Subtopic sync complete.'

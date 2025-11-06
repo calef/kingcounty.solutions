@@ -1,21 +1,27 @@
-source "https://rubygems.org"
-gem "base64"
-gem "cgi"
-gem "csv"
-gem "digest"
-gem "fileutils"
-gem "front_matter_parser"
-gem "icalendar"
-gem "jekyll"
+# frozen_string_literal: true
+
+source 'https://rubygems.org'
+gem 'base64'
+gem 'cgi'
+gem 'csv'
+gem 'digest'
+gem 'fileutils'
+gem 'front_matter_parser'
+gem 'icalendar'
+gem 'jekyll'
 group :jekyll_plugins do
-  gem "jekyll-feed"
+  gem 'jekyll-feed'
 end
-gem "minima"
-gem "nokogiri"
-gem "open-uri"
-gem "reverse_markdown"
-gem "rss"
-gem "ruby-openai"
-gem "time"
-gem "uri"
-gem "yaml"
+gem 'minima'
+gem 'nokogiri'
+gem 'open-uri'
+gem 'reverse_markdown'
+gem 'rss'
+gem 'ruby-openai'
+gem 'time'
+gem 'uri'
+gem 'yaml'
+
+group :development do
+  gem 'rubocop', require: false
+end
