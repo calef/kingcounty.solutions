@@ -3,18 +3,28 @@ layout: default
 ---
 {{ content }}
 <div class="topics-list">
-  {%- assign sorted_topics = site.topics | sort: "parent_topic" -%}
+  {%- assign sorted_topics = site.topics | where: "parent_topic", nil | sort: "title" -%}
+  {%- assign subtopics = site.topics | where_exp: "t", "t.parent_topic" -%}
+  {%- assign sorted_subtopics = subtopics | sort: "parent_topic" -%}
   {%- assign current_topic = "" -%}
 
-  {%- for subtopic in sorted_topics -%}
+  {%- for subtopic in sorted_subtopics -%}
     {%- if subtopic.parent_topic != current_topic -%}
       {%- if current_topic != "" -%}
           </ul>
         </section>
       {%- endif -%}
 
+      {%- assign parent = site.topics | where: "title", subtopic.parent_topic | first -%}
+
       <section class="topic-group">
-        <h2 id="{{ subtopic.topic | slugify }}">{{ subtopic.parent_topic }}</h2>
+        <h2 id="{{ subtopic.parent_topic | slugify }}">
+          {%- if parent -%}
+            <a href="{{ parent.url | relative_url }}">{{ subtopic.parent_topic }}</a>
+          {%- else -%}
+            {{ subtopic.parent_topic }}
+          {%- endif -%}
+        </h2>
         <ul>
       {%- assign current_topic = subtopic.parent_topic -%}
     {%- endif -%}

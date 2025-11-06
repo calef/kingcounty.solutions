@@ -3,18 +3,26 @@
 
 require 'yaml'
 require 'fileutils'
+require 'set'
 
 CONFIG_FILE = '_config.yml'
 TOPICS_DIR = '_topics'
 
-# --- Helper: normalize a subtopic name to a safe filename ---
-def subtopic_to_filename(subtopic)
-  base = subtopic.to_s.strip.downcase
-  base = base.gsub(%r{[/\\]}, '-') # convert / and \ to -
-  base = base.gsub(/\s+/, '-')          # spaces -> hyphens
-  base = base.gsub(/-+/, '-')           # collapse multiple hyphens
-  base = base.gsub(/[^a-z0-9-]/, '') # remove non-alphanumeric/non-hyphen
-  base.gsub(/^-+|-+$/, '') # trim leading/trailing hyphens
+# --- Helper: normalize a topic or subtopic name to a safe filename ---
+def topic_to_filename(name)
+  base = name.to_s.strip
+  base = base.gsub('&', 'and')             # Replace & with 'and' ONLY for filenames
+  base = base.downcase
+  base = base.gsub(%r{[/\\]}, '-')         # convert / and \ to -
+  base = base.gsub(/\s+/, '-')             # spaces -> hyphens
+  base = base.gsub(/-+/, '-')              # collapse multiple hyphens
+  base = base.gsub(/[^a-z0-9-]/, '')       # remove non-alphanumeric/non-hyphen
+  base.gsub(/^-+|-+$/, '')                 # trim leading/trailing hyphens
+end
+
+# --- Helper: leave title unchanged except trimming whitespace ---
+def normalize_title(name)
+  name.to_s.strip
 end
 
 # --- Load _config.yml ---
@@ -34,27 +42,41 @@ end
 # --- Ensure _topics directory exists ---
 FileUtils.mkdir_p(TOPICS_DIR)
 
-# --- Existing subtopic files ---
-existing_files = Dir.glob("#{TOPICS_DIR}/*.md").map { |f| File.basename(f, '.md') }
+# --- Collect all topic filenames (parent + subtopics) ---
+all_topic_bases = Set.new
 
-# --- Collect subtopics and create files ---
-all_subtopic_bases = Set.new
+topics_hash.each do |parent_topic, subtopics|
+  parent_title = normalize_title(parent_topic)
+  parent_filename_base = topic_to_filename(parent_title)
+  all_topic_bases << parent_filename_base
+  parent_filename = File.join(TOPICS_DIR, "#{parent_filename_base}.md")
 
-topics_hash.each do |topic, subtopics|
+  unless File.exist?(parent_filename)
+    puts "Creating #{parent_filename}"
+    File.open(parent_filename, 'w') do |f|
+      f.puts('---')
+      f.puts("title: \"#{parent_title}\"")
+      f.puts('---')
+      f.puts
+    end
+  end
+
+  # Create subtopic files
   next unless subtopics.is_a?(Array)
 
   subtopics.each do |subtopic|
-    filename_base = subtopic_to_filename(subtopic)
-    all_subtopic_bases << filename_base
-    filename = File.join(TOPICS_DIR, "#{filename_base}.md")
+    subtopic_title = normalize_title(subtopic)
+    subtopic_filename_base = topic_to_filename(subtopic_title)
+    all_topic_bases << subtopic_filename_base
+    subtopic_filename = File.join(TOPICS_DIR, "#{subtopic_filename_base}.md")
 
-    next if File.exist?(filename)
+    next if File.exist?(subtopic_filename)
 
-    puts "Creating #{filename}"
-    File.open(filename, 'w') do |f|
+    puts "Creating #{subtopic_filename}"
+    File.open(subtopic_filename, 'w') do |f|
       f.puts('---')
-      f.puts("title: \"#{subtopic}\"")
-      f.puts("parent_topic: \"#{topic}\"")
+      f.puts("title: \"#{subtopic_title}\"")
+      f.puts("parent_topic: \"#{parent_title}\"")
       f.puts('---')
       f.puts
     end
@@ -62,11 +84,13 @@ topics_hash.each do |topic, subtopics|
 end
 
 # --- Remove files not present in config ---
-files_to_delete = existing_files.reject { |f| all_subtopic_bases.include?(f) }
+existing_files = Dir.glob("#{TOPICS_DIR}/*.md").map { |f| File.basename(f, '.md') }
+files_to_delete = existing_files.reject { |f| all_topic_bases.include?(f) }
+
 files_to_delete.each do |old_file|
   path = File.join(TOPICS_DIR, "#{old_file}.md")
   puts "Removing #{path}"
   File.delete(path)
 end
 
-puts 'Subtopic sync complete.'
+puts 'Topic sync complete.'
