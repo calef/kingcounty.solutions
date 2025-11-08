@@ -110,6 +110,15 @@ def write_markdown(path, front_matter, body)
   File.write(path, new_content)
 end
 
+def normalize_url(s)
+  return nil if s.nil? || s.to_s.strip.empty?
+  uri = Addressable::URI.parse(s.to_s.strip)
+  return nil unless uri.scheme && uri.host
+  uri.to_s
+rescue
+  nil
+end
+
 def fetch_url_text(url, limit: 3, timeout: 15)
   return { url: url, ok: false, text: "", error: "invalid url" } unless normalize_url(url)
   uri = URI(url)
