@@ -8,4 +8,4 @@ zip_codes:
 - '98047'
 ---
 
-Pacific is a city in King County, Washington.
+Pacific is a city in King County, Washington, known for its vibrant community and scenic surroundings.

@@ -8,4 +8,4 @@ zip_codes:
 - '98042'
 ---
 
-Covington is a city in King County, Washington.
+Covington is a city in King County, Washington, known for its vibrant community and beautiful parks.

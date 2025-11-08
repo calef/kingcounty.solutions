@@ -8,4 +8,4 @@ zip_codes:
 - '98022'
 ---
 
-Enumclaw is a city in King County, Washington.
+Enumclaw is a city in King County, Washington, known for its scenic views and outdoor activities.

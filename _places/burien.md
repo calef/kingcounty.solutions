@@ -8,4 +8,4 @@ zip_codes:
 - '98166'
 ---
 
-Burien is a city in King County, Washington.
+Burien is a city located in King County, Washington, known for its vibrant community and proximity to Seattle.

@@ -8,4 +8,4 @@ zip_codes:
 - '98024'
 ---
 
-Fall City is a census-designated place in King County, Washington.
+Fall City is a census-designated place in King County, Washington, known for its scenic views and outdoor recreational activities.

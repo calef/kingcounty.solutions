@@ -8,4 +8,4 @@ zip_codes:
 - '98051'
 ---
 
-Ravensdale is known for its scenic views and proximity to recreational areas.
+Ravensdale is a Census-Designated Place known for its scenic views and proximity to recreational areas, making it a great spot for outdoor enthusiasts.

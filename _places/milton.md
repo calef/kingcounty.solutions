@@ -8,4 +8,4 @@ zip_codes:
 - '98354'
 ---
 
-Milton is a city in King County, Washington.
+Milton is a city located in King County, Washington, known for its community spirit and proximity to natural parks.

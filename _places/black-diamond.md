@@ -8,4 +8,4 @@ zip_codes:
 - '98010'
 ---
 
-Black Diamond is known for its scenic views and outdoor recreational activities.
+Black Diamond is known for its scenic views and outdoor recreational activities, making it a popular destination for nature lovers and adventure seekers.

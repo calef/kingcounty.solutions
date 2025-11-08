@@ -8,4 +8,4 @@ zip_codes:
 - '98019'
 ---
 
-Duvall is a city in King County, Washington.
+Duvall is a city in King County, Washington, known for its scenic views and community events.

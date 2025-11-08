@@ -8,4 +8,4 @@ zip_codes:
 - '98070'
 ---
 
-Vashon is a census-designated place in King County, Washington.
+Vashon is a census-designated place in King County, Washington, known for its scenic beauty and vibrant community.

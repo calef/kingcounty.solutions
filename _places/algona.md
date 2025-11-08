@@ -8,4 +8,4 @@ zip_codes:
 - '98001'
 ---
 
-Algona is a city in King County, Washington.
+Algona is a city in King County, Washington, known for its community spirit and local parks.

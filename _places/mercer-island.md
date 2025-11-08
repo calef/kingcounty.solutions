@@ -8,4 +8,4 @@ zip_codes:
 - '98040'
 ---
 
-Mercer Island is a city in King County, Washington.
+Mercer Island is a city located in King County, Washington, known for its beautiful parks and waterfront views.

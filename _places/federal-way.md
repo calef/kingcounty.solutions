@@ -9,4 +9,4 @@ zip_codes:
 - '98023'
 ---
 
-Federal Way is a city in King County, Washington.
+Federal Way is a city located in King County, Washington, known for its parks and recreational opportunities.

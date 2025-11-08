@@ -9,4 +9,4 @@ zip_codes:
 - '98077'
 ---
 
-Woodinville is a city in King County, Washington.
+Woodinville is a city in King County, Washington, known for its wineries and vibrant community.

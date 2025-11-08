@@ -1,8 +1,8 @@
 ---
 latitude: 47.6905
 longitude: -121.6192
-title: Baring
 parent_place: King County
+title: Baring
 type: Census-Designated Place
 zip_codes:
 - '98224'

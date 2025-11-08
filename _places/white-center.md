@@ -8,4 +8,4 @@ zip_codes:
 - '98146'
 ---
 
-White Center is a census-designated place in King County, Washington.
+White Center is a census-designated place in King County, Washington, known for its diverse community and proximity to Seattle.

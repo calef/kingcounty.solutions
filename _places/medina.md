@@ -8,4 +8,4 @@ zip_codes:
 - '98039'
 ---
 
-Medina is a city in King County, Washington.
+Medina is a city located in King County, Washington, known for its affluent neighborhoods and waterfront views.

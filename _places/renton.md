@@ -12,4 +12,4 @@ zip_codes:
 - '98059'
 ---
 
-Renton is a city in King County, Washington.
+Renton is a city in King County, Washington, known for its vibrant community and beautiful parks.

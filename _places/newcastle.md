@@ -8,4 +8,4 @@ zip_codes:
 - '98059'
 ---
 
-Newcastle is known for its beautiful parks and proximity to Lake Washington.
+Newcastle is known for its beautiful parks and proximity to Lake Washington, making it a desirable place to live and visit.

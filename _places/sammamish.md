@@ -9,4 +9,4 @@ zip_codes:
 - '98075'
 ---
 
-Sammamish is a city in King County, Washington.
+Sammamish is a city in King County, Washington, known for its beautiful parks and lakes.

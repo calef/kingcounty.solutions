@@ -8,4 +8,4 @@ zip_codes:
 - '98188'
 ---
 
-SeaTac is a city in King County, Washington.
+SeaTac is a city in King County, Washington, known for its proximity to Seattle-Tacoma International Airport.

@@ -8,4 +8,4 @@ zip_codes:
 - '98168'
 ---
 
-Boulevard Park is a census-designated place in King County, Washington.
+Boulevard Park is a census-designated place in King County, Washington, known for its residential community and proximity to Seattle.

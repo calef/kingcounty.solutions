@@ -8,4 +8,4 @@ zip_codes:
 - '98042'
 ---
 
-Lake Morton-Berrydale is a census-designated place in King County, Washington.
+Lake Morton-Berrydale is a census-designated place in King County, Washington, known for its serene lakes and residential communities.

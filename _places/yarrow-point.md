@@ -8,4 +8,4 @@ zip_codes:
 - '98004'
 ---
 
-Yarrow Point is a town in King County, Washington.
+Yarrow Point is a town in King County, Washington, known for its scenic waterfront and residential community.

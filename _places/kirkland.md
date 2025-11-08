@@ -9,4 +9,4 @@ zip_codes:
 - '98034'
 ---
 
-Kirkland is a city in King County, Washington.
+Kirkland is a city in King County, Washington, known for its waterfront parks and vibrant downtown area.

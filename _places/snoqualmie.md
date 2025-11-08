@@ -8,4 +8,4 @@ zip_codes:
 - '98065'
 ---
 
-Snoqualmie is known for its scenic views and outdoor recreational activities.
+Snoqualmie is known for its scenic views, including the Snoqualmie Falls, and offers a variety of outdoor recreational activities such as hiking, skiing, and mountain biking.

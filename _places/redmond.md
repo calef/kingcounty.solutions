@@ -9,4 +9,4 @@ zip_codes:
 - '98053'
 ---
 
-Redmond is a city in King County, Washington.
+Redmond is a city in King County, Washington, known for its vibrant tech industry and beautiful parks.
