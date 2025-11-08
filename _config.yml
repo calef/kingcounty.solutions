@@ -36,6 +36,122 @@ exclude:
   - script/
   - vendor/
 github_username: calef
+organizations_schema:
+  title:
+    description: 'The name of the organization.'
+    type: string
+    examples:
+    - Administration for Community Living
+    - Aging and Long-Term Support Administration
+    - Auburn School District
+    - Beehave Academy
+    - Behavioral Health Administration
+  acronym:
+    description: 'The acronym that the organization calls itself by.'
+    type: string | nilclass
+    examples:
+    - ACL
+    - ALTSA
+    - ASD
+    - BHA
+    - BSD
+  website:
+    description: "The URL for the organization's website."
+    type: string
+    examples:
+    - https://acl.gov/
+    - https://www.auburn.wednet.edu
+    - https://www.beehaveacademy.com/
+    - https://www.dshs.wa.gov/altsa
+    - https://www.dshs.wa.gov/bha
+  parent_organization:
+    description: 'The name of the parent organization, if such a parent exists.'
+    type: string
+    examples:
+    - City of Bellevue
+    - Department of Community and Human Services
+    - Department of Health and Human Services
+    - Department of Social and Health Services
+    - Puget Sound Educational Service District 121
+  type:
+    description: 'The type of organization is.'
+    type: string
+    examples:
+    - Agency
+    - Community-Based Organization
+    - Division
+    - Program
+    - School District
+  email:
+    description: 'The contact email address of the organization.'
+    type: string
+    examples:
+    - amberrae@beehaveacademy.com
+    - info@cisc-seattle.org
+  address:
+    description: 'The contact address of the organization.'
+    type: string
+    examples:
+    - 10885 NE 4th St., Ste 710 (7th Floor), Bellevue, WA 98004
+    - 179 1st Ave SE, Issaquah, WA 98027
+    - 611 S Lane St., Seattle, WA 98104
+    - 7722 Center Blvd SE, Snoqualmie, WA 98065
+    - 9050 384th Ave. SE, Snoqualmie, WA 98065
+  phone:
+    description: 'The contact North American 10 digit phone number of the organization.'
+    type: string
+    examples:
+    - 206-624-5633
+    - 425-392-4123
+    - 425-754-6276
+    - 425-888-3347
+  events_ical_url:
+    description: 'The URL for the ical events calendar of the organization.'
+    type: string
+    examples:
+    - https://cisc-seattle.org/events/?ical=1
+    - https://empoweryouthnetwork.org/events/?ical=1
+    - https://iacswa.org/events/?ical=1
+    - https://kidvantagenw.org/events/?ical=1
+    - https://togethercenter.org/events/?ical=1
+  news_rss_url:
+    description: "The URL of the RSS feed for the organization's news."
+    type: string
+    examples:
+    - https://cisc-seattle.org/feed
+  topics:
+    description: 'The topics that the organization relates to.'
+    type: array
+    possible_values:
+    - Community & Social Services
+    - Disabilities
+    - Emergency Services
+    - Financial Assistance
+    - Health Care
+    - Immigration
+    - Mental Health & Counseling
+    - Public Safety
+    - Recreation/Community Programs
+    - Safety
+    - Senior Services
+    - Shelter & Housing
+    - Transportation & Mobility
+    examples:
+    - Community & Social Services, Disabilities, Financial Assistance, Health Care,
+      Mental Health & Counseling, Senior Services, Shelter & Housing
+    - Community & Social Services, Recreation/Community Programs, Health Care
+    - Emergency Services, Public Safety, Immigration, Transportation & Mobility
+    - Health Care, Senior Services, Community & Social Services
+    - Safety, Health Care, Community & Social Services
+  jurisdictions:
+    description: 'The list of jurisdictions that the organizations operates within or supports.'
+    type: array
+    possible_values: 'Each jurisdiction is the title of a place in the places collection'
+    examples:
+    - Snoqualmie, North Bend, Fall City
+    - Eastside
+    - Seattle
+    - King County
 plugins:
   - jekyll-feed
 theme: minima
@@ -107,5 +223,24 @@ topics:
     - Gas Money
     - Local Transportation
     - Paratransit Services
+topics_schema:
+  title:
+    description: 'the name of the topic'
+    type: string
+    examples:
+    - Adult Education
+    - Advocacy
+    - Assistive Technology
+    - Bus Fare
+    - Childcare
+  parent_topic:
+    description: 'The name of the parent topic that this topic a subtopic of. If there is no parent_topic, then this topic is a top-level topic.'
+    type: string
+    examples:
+    - Community & Social Services
+    - Disabilities
+    - Domestic Violence
+    - Education & Learning
+    - Transportation & Mobility
 title: King County Solutions
 url: "https://kingcounty.solutions"
