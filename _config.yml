@@ -152,6 +152,47 @@ organizations_schema:
     - Eastside
     - Seattle
     - King County
+places_schema:
+  title:
+    description: 'The name of the place.'
+    type: string
+    examples:
+    - Algona
+    - Ames Lake
+    - Auburn
+    - Baring
+    - Beaux Arts Village
+  type:
+    description: 'The type of place.'
+    type: string
+    examples:
+    - Census-Designated Place
+    - City
+    - Country
+    - County
+    - Town
+  zip_codes:
+    description: 'The US postal service zip codes that correspond with the place.'
+    type: array
+    possible_values:
+    - '98001'
+    - '98002'
+    - '98004'
+    - '98005'
+    - '98006'
+    - '98007'
+    - '98008'
+    - '98010'
+    - '98011'
+    - '98014'
+    - '98092'
+    - '98166'
+    - '98178'
+    examples:
+    - '98001'
+    - '98004'
+    - '98053'
+    - '98224'
 plugins:
   - jekyll-feed
 theme: minima
