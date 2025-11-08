@@ -1,6 +1,7 @@
 ---
 latitude: 47.5301
 longitude: -122.0326
+parent_place: King County
 title: Issaquah
 type: City
 zip_codes:

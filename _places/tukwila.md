@@ -1,6 +1,7 @@
 ---
 latitude: 47.4625
 longitude: -122.2539
+parent_place: King County
 title: Tukwila
 type: City
 zip_codes:

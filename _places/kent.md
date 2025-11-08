@@ -1,6 +1,7 @@
 ---
 latitude: 47.3809
 longitude: -122.2348
+parent_place: King County
 title: Kent
 type: City
 zip_codes:

@@ -1,6 +1,7 @@
 ---
 latitude: 47.4009
 longitude: -121.4905
+parent_place: United States
 title: Washington State
 type: State
 ---

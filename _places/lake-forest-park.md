@@ -1,6 +1,7 @@
 ---
 latitude: 47.7581
 longitude: -122.288
+parent_place: King County
 title: Lake Forest Park
 type: City
 zip_codes:

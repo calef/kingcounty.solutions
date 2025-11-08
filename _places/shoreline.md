@@ -1,6 +1,7 @@
 ---
 latitude: 47.756
 longitude: -122.339
+parent_place: King County
 title: Shoreline
 type: City
 zip_codes:

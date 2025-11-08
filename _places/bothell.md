@@ -1,6 +1,7 @@
 ---
 latitude: 47.7617
 longitude: -122.2054
+parent_place: King County
 title: Bothell
 type: City
 zip_codes:

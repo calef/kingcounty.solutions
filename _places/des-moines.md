@@ -1,6 +1,7 @@
 ---
 latitude: 47.3978
 longitude: -122.3201
+parent_place: King County
 title: Des Moines
 type: City
 zip_codes:

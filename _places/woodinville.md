@@ -1,6 +1,7 @@
 ---
 latitude: 47.7541
 longitude: -122.1635
+parent_place: King County
 title: Woodinville
 type: City
 zip_codes:

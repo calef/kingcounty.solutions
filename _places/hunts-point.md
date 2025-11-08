@@ -1,6 +1,7 @@
 ---
 latitude: 47.6273
 longitude: -122.2325
+parent_place: King County
 title: Hunts Point
 type: Town
 zip_codes:

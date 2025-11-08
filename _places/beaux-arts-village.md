@@ -1,6 +1,7 @@
 ---
 latitude: 47.61
 longitude: -122.242
+parent_place: King County
 title: Beaux Arts Village
 type: Town
 zip_codes:

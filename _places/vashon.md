@@ -1,6 +1,7 @@
 ---
 latitude: 47.4203
 longitude: -122.4662
+parent_place: King County
 title: Vashon
 type: Census-Designated Place
 zip_codes:

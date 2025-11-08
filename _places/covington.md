@@ -1,6 +1,7 @@
 ---
 latitude: 47.3513
 longitude: -122.1819
+parent_place: King County
 title: Covington
 type: City
 zip_codes:

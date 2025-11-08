@@ -1,6 +1,7 @@
 ---
 latitude: 47.527
 longitude: -121.9346
+parent_place: King County
 title: Mirrormont
 type: Census-Designated Place
 zip_codes:

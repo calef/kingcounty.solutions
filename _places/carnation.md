@@ -1,6 +1,7 @@
 ---
 latitude: 47.68
 longitude: -121.9146
+parent_place: King County
 title: Carnation
 type: City
 zip_codes:

@@ -1,6 +1,7 @@
 ---
 latitude: 47.3669
 longitude: -122.0433
+parent_place: King County
 title: Maple Valley
 type: City
 zip_codes:

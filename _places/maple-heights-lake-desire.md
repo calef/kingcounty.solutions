@@ -1,6 +1,7 @@
 ---
 latitude: 47.3822
 longitude: -122.0207
+parent_place: King County
 title: Maple Heights-Lake Desire
 type: Census-Designated Place
 zip_codes:

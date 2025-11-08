@@ -1,6 +1,7 @@
 ---
 latitude: 47.4829
 longitude: -122.2171
+parent_place: King County
 title: Renton
 type: City
 zip_codes:

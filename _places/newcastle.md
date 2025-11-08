@@ -1,6 +1,7 @@
 ---
 latitude: 47.5731
 longitude: -122.2046
+parent_place: King County
 title: Newcastle
 type: City
 zip_codes:

@@ -1,6 +1,7 @@
 ---
 latitude: 47.6815
 longitude: -122.2087
+parent_place: King County
 title: Kirkland
 type: City
 zip_codes:

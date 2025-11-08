@@ -2,6 +2,7 @@
 latitude: 47.7397
 longitude: -122.0611
 title: Cottage Lake
+parent_place: King County
 type: Census-Designated Place
 zip_codes:
 - '98072'
