@@ -11,4 +11,4 @@ zip_codes:
 - '98042'
 ---
 
-Kent is a city in King County, Washington, known for its vibrant community and diverse culture.
+Kent is a city in King County, Washington, known for its vibrant community and diverse culture. It offers a variety of recreational activities and is home to several parks and cultural events.

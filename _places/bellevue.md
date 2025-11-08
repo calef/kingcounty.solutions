@@ -12,4 +12,4 @@ zip_codes:
 - '98008'
 ---
 
-Bellevue is a city in King County, Washington, known for its vibrant downtown and beautiful parks.
+Bellevue is a city in King County, Washington, known for its vibrant downtown, beautiful parks, and thriving tech industry.

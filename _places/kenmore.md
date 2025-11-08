@@ -8,4 +8,4 @@ zip_codes:
 - '98028'
 ---
 
-Kenmore is a city in King County, Washington, known for its beautiful parks and waterfront views.
+Kenmore is a city in King County, Washington, known for its beautiful parks and waterfront views. It offers a vibrant community and various recreational activities.

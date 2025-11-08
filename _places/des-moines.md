@@ -8,4 +8,4 @@ zip_codes:
 - '98198'
 ---
 
-Des Moines is known for its waterfront parks and recreational opportunities, making it a great destination for outdoor activities.
+Des Moines is known for its waterfront parks and recreational opportunities, making it a great destination for outdoor activities. It offers a variety of amenities and events that cater to both residents and visitors.
