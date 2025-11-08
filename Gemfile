@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 source 'https://rubygems.org'
+gem 'addressable'
 gem 'base64'
 gem 'cgi'
 gem 'csv'
@@ -15,10 +16,12 @@ end
 gem 'minima'
 gem 'nokogiri'
 gem 'open-uri'
+gem 'psych'
 gem 'reverse_markdown'
 gem 'rss'
 gem 'ruby-openai'
 gem 'time'
+gem 'toml-rb'
 gem 'uri'
 gem 'yaml'
 

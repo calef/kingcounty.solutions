@@ -1,0 +1,331 @@
+#!/usr/bin/env ruby
+# frozen_string_literal: true
+
+# Audits a Jekyll collection directory against its schema in _config.yml,
+# verifies front matter + body using website content and OpenAI,
+# and writes all corrections in place with alphabetically sorted keys.
+#
+# Usage:
+#   ruby audit_content.rb _organizations
+#
+# Example:
+#   ruby audit_content.rb _programs
+#
+# Environment:
+#   OPENAI_API_KEY must be set.
+#
+# Dependencies are expected in the Gemfile (no gem checks here).
+
+require "fileutils"
+require "json"
+require "yaml"
+require "psych"
+require "net/http"
+require "uri"
+require "nokogiri"
+require "front_matter_parser"
+require "addressable/uri"
+require "openai"
+require "time"
+
+# ----------------------------
+# Constants & Configuration
+# ----------------------------
+OPENAI_MODEL = "gpt-4o-mini"  # explicitly set model
+TARGET_DIR = ARGV[0]
+
+if TARGET_DIR.nil? || TARGET_DIR.strip.empty?
+  abort <<~USAGE
+    Usage:
+      ruby audit_content.rb _collection_dir
+
+    Example:
+      ruby audit_content.rb _organizations
+
+    Description:
+      Audits each markdown file in the given directory against its schema
+      (e.g., organizations_schema) from _config.yml. Fetches associated
+      website content, validates required and allowed fields locally,
+      calls OpenAI for additional review, and rewrites files in place.
+      Front matter keys are sorted alphabetically to minimize diffs.
+  USAGE
+end
+
+unless ENV["OPENAI_API_KEY"] && !ENV["OPENAI_API_KEY"].empty?
+  abort "Please set OPENAI_API_KEY in your environment."
+end
+
+unless Dir.exist?(TARGET_DIR)
+  abort "Directory not found: #{TARGET_DIR}"
+end
+
+SCHEMA_KEY = File.basename(TARGET_DIR).sub(/^_/, "") + "_schema"
+CONFIG_PATH = %w[_config.yml _config.yaml].find { |p| File.exist?(p) } or abort "Could not find _config.yml"
+
+REPORT_DIR = "_audit_reports"
+FileUtils.mkdir_p(REPORT_DIR)
+REPORT_PATH = File.join(REPORT_DIR, "audit-#{File.basename(TARGET_DIR)}-#{Time.now.utc.iso8601.gsub(':','-')}.json")
+
+# ----------------------------
+# Helper functions
+# ----------------------------
+def load_config_schema(config_path, key)
+  cfg = Psych.safe_load_file(config_path, aliases: true) || {}
+  schema = cfg[key]
+  unless schema
+    warn "WARNING: Schema key '#{key}' not found in #{config_path}. Proceeding with minimal schema."
+    return {}
+  end
+  schema
+end
+
+def read_markdown(path)
+  parser = FrontMatterParser::Parser.new(:md)
+  parsed = parser.call(File.read(path))
+  { path: path, front_matter: parsed.front_matter || {}, body: parsed.content.to_s }
+rescue => e
+  warn "Failed to parse #{path}: #{e.message}"
+  { path: path, front_matter: {}, body: "", error: e.message }
+end
+
+def write_markdown(path, front_matter, body)
+  # 1) Alphabetize keys for stable diffs
+  sorted_fm = front_matter.sort.to_h
+
+  # 2) Dump YAML WITHOUT leading '---' (and without trailing '...')
+  yaml = Psych.dump(sorted_fm, line_width: -1)
+  yaml = yaml.sub(/\A---\s*\n/, '')   # remove leading doc marker
+  yaml = yaml.sub(/\n?\.\.\.\s*\z/, '') # remove optional YAML terminator
+
+  # 3) Sanitize body so it can't inject another YAML fence
+  sanitized = body.to_s
+  sanitized = sanitized.sub(/\A\xEF\xBB\xBF/, '')                    # strip BOM
+  sanitized = sanitized.sub(/\A\s*---\s*\n.*?\n---\s*\n?/m, '')      # drop full FM block if present
+  sanitized = sanitized.sub(/\A\s*---\s*\n?/, '')                    # drop stray opening fence
+
+  # 4) Compose exactly one FM block, normalize extra blank lines, and ensure trailing newline
+  new_content = +"---\n#{yaml.strip}\n---\n\n#{sanitized}".gsub(/\n{3,}/, "\n\n")
+  new_content = new_content.rstrip + "\n"
+
+  File.write(path, new_content)
+end
+
+def fetch_url_text(url, limit: 3, timeout: 15)
+  return { url: url, ok: false, text: "", error: "invalid url" } unless normalize_url(url)
+  uri = URI(url)
+  http = Net::HTTP.new(uri.host, uri.port)
+  http.use_ssl = (uri.scheme == "https")
+  http.read_timeout = timeout
+  http.open_timeout = timeout
+  res = http.get(uri.request_uri, { "User-Agent" => "KCS-Auditor/1.0" })
+
+  if res.is_a?(Net::HTTPRedirection) && limit > 0
+    return fetch_url_text(res["location"], limit: limit - 1, timeout: timeout)
+  end
+
+  unless res.is_a?(Net::HTTPSuccess)
+    return { url: url, ok: false, text: "", error: "HTTP #{res.code}" }
+  end
+
+  if res["content-type"].to_s.include?("html")
+    doc = Nokogiri::HTML(res.body)
+    doc.search("script,style,noscript,header,nav,footer,svg,form").remove
+    text = doc.at("title")&.text.to_s + "\n" + doc.text
+    { url: url, ok: true, text: text.gsub(/\s+/, " ").strip[0, 60_000] }
+  else
+    { url: url, ok: true, text: res.body.to_s.strip[0, 60_000] }
+  end
+rescue => e
+  { url: url, ok: false, text: "", error: e.message }
+end
+
+def guess_website(front_matter)
+  %w[website url site homepage home_url link].each do |k|
+    return normalize_url(front_matter[k]) if front_matter[k]
+  end
+  nil
+end
+
+def summarize_text(txt, max_chars: 15000)
+  txt.length <= max_chars ? txt : txt[0, max_chars]
+end
+
+def client
+  @client ||= OpenAI::Client.new(access_token: ENV["OPENAI_API_KEY"])
+end
+
+def enforce_schema(front_matter, schema)
+  issues = []
+  corrected = front_matter.dup
+
+  if schema.is_a?(Hash)
+    required = schema["required"] || []
+    required.each do |key|
+      unless corrected.key?(key)
+        issues << { key: key, issue: "missing_required" }
+      end
+    end
+
+    props = schema["properties"] || {}
+    props.each do |key, definition|
+      next unless corrected.key?(key)
+      allowed = definition["enum"]
+      if allowed && !allowed.include?(corrected[key])
+        issues << { key: key, issue: "invalid_value", allowed: allowed, actual: corrected[key] }
+      end
+    end
+  end
+
+  [corrected, issues]
+end
+
+def openai_review(front_matter:, body:, website_text:, schema:, path:)
+  prompt = <<~PROMPT
+    You are auditing content for accuracy. Review the following markdown record
+    for correctness and completeness. Use the provided website text for validation.
+
+    SCHEMA (YAML):
+    #{schema.to_yaml}
+
+    FRONT MATTER (YAML):
+    #{front_matter.to_yaml}
+
+    BODY:
+    #{body.empty? ? "(none)" : body}
+
+    WEBSITE TEXT (truncated):
+    #{summarize_text(website_text)}
+
+    TASK:
+    - Verify each key’s value accuracy and propose updates if needed.
+    - Fill in missing values consistent with schema and text.
+    - If text body is empty or outdated, propose a replacement.
+    - Return STRICT JSON following this structure:
+
+    {
+      "frontmatter": {
+        "<key>": { "action": "keep|update|add", "proposed": <value or null>, "reason": "<why>" },
+        ...
+      },
+      "body": {
+        "action": "keep|update|add",
+        "proposed_markdown": "<markdown>",
+        "reason": "<why>"
+      }
+    }
+  PROMPT
+
+  response = client.chat(
+    parameters: {
+      model: OPENAI_MODEL,
+      temperature: 0,
+      response_format: { type: "json_object" },
+      messages: [
+        { role: "system", content: "You are a precise content auditor. Respond only with valid JSON." },
+        { role: "user", content: prompt }
+      ]
+    }
+  )
+
+  content = response.dig("choices", 0, "message", "content").to_s
+  JSON.parse(content)
+rescue => e
+  warn "OpenAI error for #{path}: #{e.message}"
+  { "error" => e.message }
+end
+
+def apply_openai_changes(front_matter, body, review)
+  fm = front_matter.dup
+  (review["frontmatter"] || {}).each do |key, data|
+    case data["action"]
+    when "add", "update"
+      fm[key] = data["proposed"] unless data["proposed"].nil?
+    end
+  end
+
+  new_body = body
+  if review["body"]
+    case review["body"]["action"]
+    when "add", "update"
+      new_body = review["body"]["proposed_markdown"] if review["body"]["proposed_markdown"].to_s.strip != ""
+    end
+  end
+
+  [fm, new_body]
+end
+
+# ----------------------------
+# Main execution
+# ----------------------------
+schema = load_config_schema(CONFIG_PATH, SCHEMA_KEY)
+files = Dir.glob(File.join(TARGET_DIR, "**", "*.md")).sort
+abort "No markdown files found in #{TARGET_DIR}" if files.empty?
+
+puts "🔍 Starting audit for #{files.size} file(s) in #{TARGET_DIR}"
+puts "   Using schema key: #{SCHEMA_KEY}"
+puts "   Writing changes directly to files..."
+puts "------------------------------------------------------------"
+
+report = {
+  directory: TARGET_DIR,
+  schema_key: SCHEMA_KEY,
+  model: OPENAI_MODEL,
+  started_at: Time.now.utc.iso8601,
+  items: []
+}
+
+files.each_with_index do |path, idx|
+  puts "\n[#{idx + 1}/#{files.size}] Processing #{path}..."
+
+  parsed = read_markdown(path)
+  fm, body = parsed[:front_matter], parsed[:body]
+
+  puts "   → Enforcing schema..."
+  fm, schema_issues = enforce_schema(fm, schema)
+  unless schema_issues.empty?
+    puts "     ⚠️  Schema issues detected: #{schema_issues.map { |i| i[:key] }.join(', ')}"
+  end
+
+  website = guess_website(fm)
+  if website
+    puts "   → Fetching website: #{website}"
+    capture = fetch_url_text(website)
+  else
+    puts "   → No website found in front matter."
+    capture = { text: "" }
+  end
+
+  puts "   → Running OpenAI review..."
+  review = openai_review(
+    front_matter: fm,
+    body: body,
+    website_text: capture[:text],
+    schema: schema,
+    path: path
+  )
+
+  new_fm, new_body = apply_openai_changes(fm, body, review)
+
+  puts "   → Writing updated file..."
+  write_markdown(path, new_fm, new_body)
+
+  report[:items] << {
+    path: path,
+    website: website,
+    schema_issues: schema_issues,
+    front_matter_before: fm,
+    front_matter_after: new_fm,
+    body_changed: new_body != body,
+    openai_review: review
+  }
+
+  puts "   ✅ Completed #{path}"
+end
+
+report[:finished_at] = Time.now.utc.iso8601
+File.write(REPORT_PATH, JSON.pretty_generate(report))
+
+puts "\n------------------------------------------------------------"
+puts "🎉 Audit complete for #{files.size} file(s)."
+puts "🗂️  Report written to #{REPORT_PATH}"
+puts "💾 All documents were updated in place with alphabetically sorted keys."

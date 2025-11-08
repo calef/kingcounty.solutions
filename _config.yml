@@ -40,6 +40,9 @@ organizations_schema:
   title:
     description: 'The name of the organization.'
     type: string
+    rules:
+    - The field is required.
+    - The field value is unique across all organizations.
     examples:
     - Administration for Community Living
     - Aging and Long-Term Support Administration
@@ -49,6 +52,9 @@ organizations_schema:
   acronym:
     description: 'The acronym that the organization calls itself by.'
     type: string | nilclass
+    rules:
+    - The field is not required.
+    - The field value is unique across all organizations.
     examples:
     - ACL
     - ALTSA
@@ -58,6 +64,10 @@ organizations_schema:
   website:
     description: "The URL for the organization's website."
     type: string
+    rules:
+    - The field is required.
+    - The string is a valid URL.
+    - The field value is unique across all organizations.
     examples:
     - https://acl.gov/
     - https://www.auburn.wednet.edu
@@ -67,6 +77,8 @@ organizations_schema:
   parent_organization:
     description: 'The name of the parent organization, if such a parent exists.'
     type: string
+    rules:
+    - The field does not exist or it is the title of another organization.
     examples:
     - City of Bellevue
     - Department of Community and Human Services
@@ -74,8 +86,10 @@ organizations_schema:
     - Department of Social and Health Services
     - Puget Sound Educational Service District 121
   type:
-    description: 'The type of organization is.'
+    description: 'The type of the organization.'
     type: string
+    rules:
+    - The field is required.
     examples:
     - Agency
     - Community-Based Organization
@@ -85,12 +99,19 @@ organizations_schema:
   email:
     description: 'The contact email address of the organization.'
     type: string
+    rules:
+    - The field is not required.
+    - The field value is an email address.
+    - The value is unique across all organizations.
     examples:
     - amberrae@beehaveacademy.com
     - info@cisc-seattle.org
   address:
     description: 'The contact address of the organization.'
     type: string
+    rules:
+    - The field is not required.
+    - The value is a valid mailing address.
     examples:
     - 10885 NE 4th St., Ste 710 (7th Floor), Bellevue, WA 98004
     - 179 1st Ave SE, Issaquah, WA 98027
@@ -99,6 +120,9 @@ organizations_schema:
     - 9050 384th Ave. SE, Snoqualmie, WA 98065
   phone:
     description: 'The contact North American 10 digit phone number of the organization.'
+    rules:
+    - The field is not required.
+    - The value is a ten digit phone number in the form 999-999-9999.
     type: string
     examples:
     - 206-624-5633
@@ -108,6 +132,10 @@ organizations_schema:
   events_ical_url:
     description: 'The URL for the ical events calendar of the organization.'
     type: string
+    rules:
+    - The field is not required.
+    - The field value is a valid URL.
+    - The contents of the URL is a valid ical file.
     examples:
     - https://cisc-seattle.org/events/?ical=1
     - https://empoweryouthnetwork.org/events/?ical=1
@@ -117,11 +145,18 @@ organizations_schema:
   news_rss_url:
     description: "The URL of the RSS feed for the organization's news."
     type: string
+    rules:
+    - The field is not required.
+    - The field value is a valid URL.
+    - The contents of the URL is an RSS feed.
     examples:
     - https://cisc-seattle.org/feed
   topics:
     description: 'The topics that the organization relates to.'
     type: array
+    rules:
+    - The field is required.
+    - The possible values in the array correspond to the titles of a topics document.
     possible_values:
     - Community & Social Services
     - Disabilities
@@ -136,26 +171,40 @@ organizations_schema:
     - Senior Services
     - Shelter & Housing
     - Transportation & Mobility
-    examples:
-    - Community & Social Services, Disabilities, Financial Assistance, Health Care,
-      Mental Health & Counseling, Senior Services, Shelter & Housing
-    - Community & Social Services, Recreation/Community Programs, Health Care
-    - Emergency Services, Public Safety, Immigration, Transportation & Mobility
-    - Health Care, Senior Services, Community & Social Services
-    - Safety, Health Care, Community & Social Services
   jurisdictions:
     description: 'The list of jurisdictions that the organizations operates within or supports.'
     type: array
-    possible_values: 'Each jurisdiction is the title of a place in the places collection'
+    rules:
+    - The field is required.
+    - Each jurisdiction value in the array is the title of a place in the places collection.
     examples:
     - Snoqualmie, North Bend, Fall City
-    - Eastside
     - Seattle
     - King County
 places_schema:
+  content:
+    description: Markdown content making up the body of the document that contains a 50-word or less description of the place.
+    type: string
+    rules:
+    - The field is not named but is the body of the document. Accordingly there is not content field in the frontmatter.
+    - The field is required.
+    - The field value is 50 words or less describing the place.
+  parent_place:
+    description: 'The name of the next larger place that this place is fully incorporated within.'
+    type: string
+    rules:
+    - The field does not exist if it does not have a parent place.
+    - The value is a title of another place.
+    examples:
+    - King County
+    - United States
+    - Washington State
   title:
     description: 'The name of the place.'
     type: string
+    rules:
+    - The field is required.
+    - The title is unique across all other places.
     examples:
     - Algona
     - Ames Lake
@@ -165,7 +214,10 @@ places_schema:
   type:
     description: 'The type of place.'
     type: string
-    examples:
+    rules:
+    - The field is required.
+    - The field value is one of the possible_values.
+    possible_values:
     - Census-Designated Place
     - City
     - Country
@@ -174,20 +226,8 @@ places_schema:
   zip_codes:
     description: 'The US postal service zip codes that correspond with the place.'
     type: array
-    possible_values:
-    - '98001'
-    - '98002'
-    - '98004'
-    - '98005'
-    - '98006'
-    - '98007'
-    - '98008'
-    - '98010'
-    - '98011'
-    - '98014'
-    - '98092'
-    - '98166'
-    - '98178'
+    rules:
+    - Each item in the array is composed of five digits.
     examples:
     - '98001'
     - '98004'
