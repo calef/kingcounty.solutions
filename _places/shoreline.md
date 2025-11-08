@@ -1,13 +1,10 @@
 ---
-title: Shoreline
-type: City
 latitude: 47.756
 longitude: -122.339
+title: Shoreline
+type: City
 zip_codes:
 - '98177'
 ---
 
-Shoreline is a city in King County, Washington.
-
-### ZIP Codes
-- 98177
+Shoreline is known for its parks and recreational facilities, providing a suburban feel with easy access to urban amenities.

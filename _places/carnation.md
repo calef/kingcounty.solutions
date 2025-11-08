@@ -1,8 +1,8 @@
 ---
-title: Carnation
-type: City
 latitude: 47.68
 longitude: -121.9146
+title: Carnation
+type: City
 zip_codes:
 - '98014'
 ---
