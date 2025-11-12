@@ -1,3 +1,4 @@
+---
 baseurl: "" # the subpath of your site, e.g. /blog
 description: >- # this means to ignore newlines until "baseurl:"
   Navigating social services can be confusing. This project makes it simple by bringing publicly available resources together in one searchable, easy-to-use platform. Whether you’re an individual looking for help or a nonprofit guiding clients, you can quickly find the support you need.
@@ -53,7 +54,7 @@ organizations_schema:
     description: 'The acronym that the organization calls itself by.'
     type: string | nilclass
     rules:
-    - The field is not required.
+    - The field is optional.
     - The field value is unique across all organizations.
     examples:
     - ACL
@@ -79,6 +80,7 @@ organizations_schema:
     type: string
     rules:
     - The field does not exist or it is the title of another organization.
+    - The field value cannot be equal to the title.
     examples:
     - City of Bellevue
     - Department of Community and Human Services
@@ -100,7 +102,7 @@ organizations_schema:
     description: 'The contact email address of the organization.'
     type: string
     rules:
-    - The field is not required.
+    - The field is optional.
     - The field value is an email address.
     - The value is unique across all organizations.
     examples:
@@ -110,7 +112,7 @@ organizations_schema:
     description: 'The contact address of the organization.'
     type: string
     rules:
-    - The field is not required.
+    - The field is optional.
     - The value is a valid mailing address.
     examples:
     - 10885 NE 4th St., Ste 710 (7th Floor), Bellevue, WA 98004
@@ -121,7 +123,7 @@ organizations_schema:
   phone:
     description: 'The contact North American 10 digit phone number of the organization.'
     rules:
-    - The field is not required.
+    - The field is optional.
     - The value is a ten digit phone number in the form 999-999-9999.
     type: string
     examples:
@@ -133,7 +135,7 @@ organizations_schema:
     description: 'The URL for the ical events calendar of the organization.'
     type: string
     rules:
-    - The field is not required.
+    - The field is optional.
     - The field value is a valid URL.
     - The contents of the URL is a valid ical file.
     examples:
@@ -146,7 +148,7 @@ organizations_schema:
     description: "The URL of the RSS feed for the organization's news."
     type: string
     rules:
-    - The field is not required.
+    - The field is optional.
     - The field value is a valid URL.
     - The contents of the URL is an RSS feed.
     examples:
@@ -156,21 +158,74 @@ organizations_schema:
     type: array
     rules:
     - The field is required.
-    - The possible values in the array correspond to the titles of a topics document.
     possible_values:
+    - Adult Education
+    - Advocacy
+    - Assistive Technology
+    - Bus Fare
+    - Childcare
+    - Clothing
     - Community & Social Services
+    - Crisis Hotlines
+    - Dental Care
+    - Diagnostic Testing
+    - Diapers
     - Disabilities
-    - Emergency Services
+    - Domestic Violence
+    - Early Intervention
+    - Education & Learning
+    - Employment
+    - Employment & Job Support
+    - ESL Classes
     - Financial Assistance
+    - Financial Counseling
+    - Financial Support
+    - Food & Nutrition
+    - Food Pantries/Banks
+    - Free Meals
+    - Gas Money
+    - GED Classes
+    - General Counseling Services
+    - Grocery Delivery
     - Health Care
-    - Immigration
+    - Home Delivered Meals
+    - Homeless Day Centers
+    - Homeless Student Liaison
+    - Hotline
+    - Household Goods
+    - Hygiene Items
+    - Job Search
+    - Job Seeking Skills
+    - Legal Aid
+    - Local Transportation
     - Mental Health & Counseling
-    - Public Safety
+    - Mental Health Evaluation
+    - Move-in Assistance
+    - Overnight Shelters
+    - Paratransit Services
+    - Permanent Housing
+    - Personal & Household Needs
+    - Primary Care
     - Recreation/Community Programs
-    - Safety
+    - Rent Assistance
+    - Senior Meals
     - Senior Services
+    - Shelter
     - Shelter & Housing
+    - Specialized Clinics
+    - Support Groups
+    - Teen Clinics
+    - Teen Counseling
+    - Transitional Housing
     - Transportation & Mobility
+    - Traumatic Brain Injury Services
+    - Tutoring/Homework Help
+    - Utility Assistance
+    - Utility Discounts
+    - Vocational Training
+    - Volunteer Opportunities
+    - Youth Employment Programs
+    - Youth Shelter
   jurisdictions:
     description: 'The list of jurisdictions that the organizations operates within or supports.'
     type: array
@@ -182,13 +237,6 @@ organizations_schema:
     - Seattle
     - King County
 places_schema:
-  content:
-    description: Markdown content making up the body of the document that contains a 50-word or less description of the place.
-    type: string
-    rules:
-    - The field is not named but is the body of the document. Accordingly there is not content field in the frontmatter.
-    - The field is required.
-    - The field value is 50 words or less describing the place.
   parent_place:
     description: 'The name of the next larger place that this place is fully incorporated within.'
     type: string
