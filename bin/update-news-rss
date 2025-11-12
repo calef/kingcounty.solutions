@@ -1,0 +1,297 @@
+#!/usr/bin/env ruby
+# frozen_string_literal: true
+
+require 'date'
+require 'nokogiri'
+require 'open-uri'
+require 'openssl'
+require 'time'
+require 'yaml'
+
+ROOT_DIR = File.expand_path('..', __dir__)
+ORG_DIR = File.join(ROOT_DIR, '_organizations')
+
+UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 13_0) AppleWebKit/537.36 ' \
+     '(KHTML, like Gecko) Chrome/125.0 Safari/537.36'
+HTML_MAX_BYTES = 1_048_576 # 1 MB
+FEED_MAX_BYTES = 524_288   # 512 KB
+REQUEST_DELAY = 0.15
+ACCEPT_HTML = 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
+ACCEPT_FEED = 'application/rss+xml, application/atom+xml, application/xml;q=0.9, ' \
+              'text/xml;q=0.8, */*;q=0.1'
+
+def split_front_matter(text)
+  lines = text.lines
+  return [nil, nil] unless lines.first&.strip == '---'
+
+  lines.shift
+  front_lines = []
+  closing_found = false
+
+  until lines.empty?
+    line = lines.shift
+    if line.strip == '---'
+      closing_found = true
+      break
+    end
+    front_lines << line
+  end
+
+  return [nil, nil] unless closing_found
+
+  [front_lines.join, lines.join]
+end
+
+def parse_front_matter(path)
+  text = File.read(path)
+  front, body = split_front_matter(text)
+  return [nil, nil] unless front
+
+  data = YAML.safe_load(front, permitted_classes: [Date, Time], aliases: true)
+  data = {} unless data.is_a?(Hash)
+  [data, body || '']
+rescue StandardError => e
+  warn "  failed to parse #{path}: #{e.message}"
+  [nil, nil]
+end
+
+def build_front_matter(data, body)
+  ordered = data.keys.sort.each_with_object({}) do |key, memo|
+    memo[key] = data[key]
+  end
+  front = YAML.dump(ordered)
+  "---\n#{front}---\n#{body}"
+end
+
+def absolutize(base_url, href)
+  return nil if href.nil?
+
+  cleaned = href.strip
+  return nil if cleaned.empty? || cleaned.start_with?('#')
+
+  downcased = cleaned.downcase
+  return nil if downcased.start_with?('javascript:', 'data:', 'mailto:')
+
+  base = URI.parse(base_url)
+  URI.join(base, cleaned).to_s
+rescue URI::Error
+  nil
+end
+
+def fetch_url(url, accept:, max_bytes:)
+  headers = {
+    'User-Agent' => UA,
+    'Accept' => accept,
+    ssl_verify_mode: OpenSSL::SSL::VERIFY_PEER,
+    read_timeout: 20,
+    open_timeout: 20,
+    redirect: true
+  }
+  data = nil
+  final_url = url
+  content_type = nil
+
+  URI.open(url, headers) do |io|
+    data = io.read(max_bytes) || +''
+    final_url = io.base_uri.to_s if io.respond_to?(:base_uri) && io.base_uri
+    content_type = io.content_type
+  end
+  sleep REQUEST_DELAY
+
+  [data, content_type, final_url]
+end
+
+def normalize_string(data)
+  return '' if data.nil?
+
+  str = data.dup
+  str.force_encoding('BINARY')
+  str = str[0, 4_000] if str.bytesize > 4_000
+  str.encode('UTF-8', invalid: :replace, undef: :replace)
+rescue EncodingError
+  str.force_encoding('UTF-8')
+end
+
+def feed_like?(data, content_type)
+  snippet = normalize_string(data)
+  preview = snippet.downcase
+  ctype = (content_type || '').downcase
+
+  return true if ctype.match?(%r{rss|atom|application/xml|text/xml}) &&
+                 preview.match?(/<(rss|feed|rdf)/)
+
+  preview.match?(/<(rss|feed|rdf)/)
+end
+
+def decode_html(data)
+  snippet = data.dup
+  snippet.force_encoding('BINARY')
+  snippet.encode('UTF-8', invalid: :replace, undef: :replace)
+rescue EncodingError
+  snippet.force_encoding('UTF-8')
+end
+
+def collect_candidates(html, final_url)
+  doc = Nokogiri::HTML(html)
+  base_href = doc.at('base')&.[]('href')
+  base_url = base_href ? (absolutize(final_url, base_href) || final_url) : final_url
+  candidates = []
+
+  doc.css('link, a').each do |node|
+    href = node['href']
+    abs_url = absolutize(base_url, href)
+    next unless abs_url
+
+    href_lower = abs_url.downcase
+    score = 0
+
+    if node.name == 'link'
+      type_attr = (node['type'] || '').downcase
+      rel_attr = (node['rel'] || '').downcase
+      title_attr = (node['title'] || '').downcase
+
+      score += 5 if type_attr.match?(/rss|atom|xml/)
+      score += 4 if rel_attr.match?(/alternate|feed|rss|atom/)
+      score += 2 if href_lower.match?(/rss|feed|atom|\.xml/)
+      score += 1 if href_lower.include?('news')
+      score += 1 if title_attr.match?(/rss|feed/)
+      score += 1 if href_lower.include?('feed/')
+      score -= 1 if href_lower.include?('comments/feed')
+
+      candidates << [score + 10, abs_url] if score.positive?
+    else
+      score += 2 if href_lower.match?(/rss|feed|atom/)
+      score += 2 if href_lower.end_with?('.xml', '.rss', '.atom')
+      score += 1 if href_lower.include?('news')
+
+      class_attr = (node['class'] || '').downcase
+      id_attr = (node['id'] || '').downcase
+      score += 1 if class_attr.match?(/rss|feed/)
+      score += 1 if id_attr.match?(/rss|feed/)
+      score += 1 if href_lower.include?('feed/')
+      score -= 1 if href_lower.include?('comments/feed')
+
+      candidates << [score, abs_url] if score.positive?
+    end
+  end
+
+  html_lower = html.downcase
+  if html_lower.include?('wordpress')
+    guessed = absolutize(base_url, '/feed/')
+    candidates << [25, guessed] if guessed
+  end
+
+  if candidates.empty?
+    html.scan(/href=["']([^"']+rss[^"']*)["']/i).each do |match|
+      guessed = absolutize(base_url, match.first)
+      candidates << [3, guessed] if guessed
+    end
+  end
+
+  dedup = {}
+  candidates.each do |score, url|
+    next unless url&.match?(%r{\Ahttps?://})
+
+    dedup[url] = [dedup[url] || score, score].max
+  end
+
+  dedup.sort_by { |url, score| [-score, url] }.map(&:first)
+end
+
+def verify_feed(url)
+  data, content_type, final_url = fetch_url(url, accept: ACCEPT_FEED, max_bytes: FEED_MAX_BYTES)
+  return final_url if feed_like?(data, content_type)
+
+  snippet = normalize_string(data)
+  stripped = snippet.strip
+  return final_url if stripped.start_with?('{') && stripped.include?('rss')
+
+  nil
+rescue StandardError => e
+  puts "    verify error for #{url}: #{e.message}"
+  nil
+end
+
+def find_feed(website)
+  data, content_type, final_url = fetch_url(website, accept: ACCEPT_HTML, max_bytes: HTML_MAX_BYTES)
+  return final_url if feed_like?(data, content_type)
+
+  html = decode_html(data)
+  candidates = collect_candidates(html, final_url)
+  candidates.first(8).each do |candidate|
+    feed_url = verify_feed(candidate)
+    return feed_url if feed_url
+  end
+  nil
+rescue StandardError => e
+  puts "  fetch error: #{e.message}"
+  nil
+end
+
+def target_set
+  raw = ENV.fetch('TARGETS', '').strip
+  return Set.new if raw.empty?
+
+  Set.new(raw.split(',').map(&:strip).reject(&:empty?))
+end
+
+def should_process?(file_name, targets)
+  return true if targets.empty?
+
+  targets.include?(file_name) || targets.include?(File.join('_organizations', file_name))
+end
+
+def main
+  unless Dir.exist?(ORG_DIR)
+    warn '_organizations directory not found'
+    exit 1
+  end
+
+  targets = target_set
+  limit_env = ENV.fetch('LIMIT', nil)
+  limit = limit_env && !limit_env.empty? ? limit_env.to_i : nil
+  dry_run = ENV['DRY_RUN'] == '1'
+
+  processed = 0
+  updated = []
+  skipped = []
+
+  Dir.children(ORG_DIR).sort.each do |file_name|
+    next unless file_name.end_with?('.md')
+    next unless should_process?(file_name, targets)
+
+    path = File.join(ORG_DIR, file_name)
+    data, body = parse_front_matter(path)
+    next unless data
+
+    website = data['website']
+    next if website.to_s.strip.empty?
+    next if data['news_rss_url']
+
+    puts "Processing #{file_name} -> #{website}"
+    feed_url = find_feed(website)
+
+    if feed_url
+      puts "  FOUND #{feed_url}"
+      unless dry_run
+        data['news_rss_url'] = feed_url
+        File.write(path, build_front_matter(data, body))
+      end
+      updated << [file_name, feed_url]
+    else
+      puts '  no feed found'
+      skipped << file_name
+    end
+
+    processed += 1
+    break if limit && processed >= limit
+  end
+
+  puts "\nSummary:"
+  puts "  Processed: #{processed}"
+  puts "  Found feeds: #{updated.length}"
+  puts "  No feed: #{skipped.length}"
+  updated.each { |name, url| puts "    #{name}: #{url}" }
+end
+
+main if $PROGRAM_NAME == __FILE__
