@@ -145,10 +145,12 @@ def enforce_schema(front_matter, schema)
   return [corrected, issues] unless schema.is_a?(Hash) && !schema.empty?
 
   # Helper lambda: true only for explicit required statements, not negatives
-  is_required_rule = ->(rules) do
+  is_required_rule = lambda do |rules|
     return false unless rules.is_a?(Array)
+
     rules.any? do |r|
       next false unless r.is_a?(String)
+
       r =~ /\b(the\s+)?field\s+(is|must be)\s+required\b/i
     end
   end
@@ -161,16 +163,16 @@ def enforce_schema(front_matter, schema)
     # Only add missing keys if they are REQUIRED
     if is_required && !corrected.key?(key)
       issues << { key: key, issue: 'missing_required' }
-      corrected[key] = (definition['type'] == 'array') ? [] : nil
+      corrected[key] = definition['type'] == 'array' ? [] : nil
       puts "     🪣 Added missing REQUIRED field: #{key} (initialized as #{corrected[key].inspect})"
     end
 
     # Validate enums/possible_values only if a value exists
-    if corrected.key?(key)
-      allowed = definition['enum'] || definition['possible_values']
-      if allowed && !allowed.include?(corrected[key])
-        issues << { key: key, issue: 'invalid_value', allowed: allowed, actual: corrected[key] }
-      end
+    next unless corrected.key?(key)
+
+    allowed = definition['enum'] || definition['possible_values']
+    if allowed && !allowed.include?(corrected[key])
+      issues << { key: key, issue: 'invalid_value', allowed: allowed, actual: corrected[key] }
     end
   end
 
@@ -179,6 +181,7 @@ end
 
 def schema_keys(schema)
   return [] unless schema.is_a?(Hash)
+
   schema.keys.map(&:to_s)
 end
 
@@ -187,14 +190,14 @@ def openai_review(front_matter:, body:, website_text:, schema:, path:)
   has_topics   = allowed_keys.include?('topics')
 
   topic_hint = if has_topics
-    <<~HINT
-      NOTE: The 'topics' field (if present in the schema) lists what kinds of services or programs
-      the organization relates to. Use the schema's possible_values to select relevant ones
-      from the description or website text.
-    HINT
-  else
-    "" # do not hint about topics when not in schema
-  end
+                 <<~HINT
+                   NOTE: The 'topics' field (if present in the schema) lists what kinds of services or programs
+                   the organization relates to. Use the schema's possible_values to select relevant ones
+                   from the description or website text.
+                 HINT
+               else
+                 '' # do not hint about topics when not in schema
+               end
 
   array_hint = <<~HINT
     For array-type fields (e.g., any fields whose type is 'array' in the schema),
@@ -292,7 +295,7 @@ def apply_openai_changes(front_matter, body, review, schema: {})
     case review['body']['action']
     when 'add', 'update'
       proposed_md = review['body']['proposed_markdown'].to_s
-      new_body = proposed_md if !proposed_md.strip.empty?
+      new_body = proposed_md unless proposed_md.strip.empty?
     end
   end
 

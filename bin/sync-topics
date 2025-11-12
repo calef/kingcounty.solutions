@@ -3,7 +3,6 @@
 
 require 'yaml'
 require 'fileutils'
-require 'set'
 
 CONFIG_FILE = '_config.yml'
 TOPICS_DIR = '_topics'

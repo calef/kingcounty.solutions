@@ -5,7 +5,7 @@ require 'yaml'
 
 # === Configuration ===
 SOURCE_DIR = ARGV[0] || '_government-entities' # Default directory
-TOP_KEY = File.basename(SOURCE_DIR).sub(/^_/, '') + '_schema'
+TOP_KEY = "#{File.basename(SOURCE_DIR).sub(/^_/, '')}_schema".freeze
 
 # Helper for Ruby < 3.2 to avoid nil.presence
 class Object
