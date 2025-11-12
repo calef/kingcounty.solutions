@@ -8,4 +8,4 @@ zip_codes:
 - '98010'
 ---
 
-Black Diamond is a city located in King County, known for its scenic views and outdoor recreational activities, making it a popular destination for nature lovers and adventure seekers.
+Black Diamond is a city located in King County, Washington, known for its scenic views and outdoor recreational activities, making it a popular destination for nature lovers and adventure seekers.

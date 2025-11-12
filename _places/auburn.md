@@ -11,4 +11,4 @@ zip_codes:
 - '98004'
 ---
 
-Auburn is a city in King County, Washington, known for its vibrant community and rich history. It offers a variety of recreational activities and cultural events, making it a great place to live and visit.
+Auburn is a city in South King County, Washington, known for its vibrant community and rich history. It offers a variety of recreational activities and cultural events, making it a great place to live and visit.
