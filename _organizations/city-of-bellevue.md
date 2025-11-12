@@ -1,9 +1,11 @@
 ---
-title: City of Bellevue
 jurisdictions:
-  - Bellevue
+- Bellevue
+title: City of Bellevue
+topics:
+- Recreation/Community Programs
 type: City
 website: https://bellevuewa.gov/
 ---
 
-City of Bellevue serves the community of **Bellevue**, Washington.
+The City of Bellevue serves the community of **Bellevue**, Washington. The City provides various services including public safety, community development, and recreational programs, aimed at enhancing the quality of life for its residents.

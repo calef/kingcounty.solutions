@@ -1,9 +1,10 @@
 ---
-title: City of Duvall
 jurisdictions:
-  - Duvall
+- Duvall
+title: City of Duvall
+topics: []
 type: City
-website: https://www.duvallwa.gov/
+website: https://www.duvallwa.gov
 ---
 
-City of Duvall serves the community of **Duvall**, Washington.
+The City of Duvall serves the community of **Duvall**, Washington, providing various local government services to its residents.

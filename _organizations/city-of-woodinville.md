@@ -1,9 +1,11 @@
 ---
-title: City of Woodinville
 jurisdictions:
-  - Woodinville
+- Woodinville
+title: City of Woodinville
+topics:
+- Community & Social Services
 type: City
 website: https://www.ci.woodinville.wa.us/
 ---
 
-City of Woodinville serves the community of **Woodinville**, Washington.
+The City of Woodinville serves the community of **Woodinville**, Washington. The City provides various services to enhance the quality of life for its residents, including community and social services.

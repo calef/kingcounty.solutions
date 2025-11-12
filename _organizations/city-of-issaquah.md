@@ -1,9 +1,10 @@
 ---
-title: City of Issaquah
 jurisdictions:
-  - Issaquah
+- Issaquah
+title: City of Issaquah
+topics: []
 type: City
 website: https://www.issaquahwa.gov/
 ---
 
-City of Issaquah serves the community of **Issaquah**, Washington.
+The City of Issaquah serves the community of **Issaquah**, Washington. The City provides various services to enhance the quality of life for its residents.

@@ -1,16 +1,21 @@
 ---
-title: Office of Public Defense
 acronym: OPD
-website: https://www.opd.wa.gov/
+jurisdictions:
+- Washington State
 parent_organization: State Judicial Branch
+title: Office of Public Defense
+topics:
+- Community & Social Services
+- Domestic Violence
+- Education & Learning
 type: Program
+website: https://www.opd.wa.gov/
 ---
 
-The **Office of Public Defense (OPD)** ensures quality legal representation for indigent defendants and parents involved in child welfare cases.  
-It aligns with the social service framework through:
+The **Office of Public Defense (OPD)** ensures quality legal representation for indigent defendants and parents involved in child welfare cases. It aligns with the social service framework through:
 
-- **Community & Social Services:** safeguarding rights for individuals in crisis  
-- **Domestic Violence:** defense and advocacy in family court contexts  
-- **Education & Learning:** training for public defenders to improve client support outcomes  
+- **Community & Social Services:** safeguarding rights for individuals in crisis
+- **Domestic Violence:** defense and advocacy in family court contexts
+- **Education & Learning:** training for public defenders to improve client support outcomes
 
 OPD strengthens Washington’s commitment to justice and equity for all residents.

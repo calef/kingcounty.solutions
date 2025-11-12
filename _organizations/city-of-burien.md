@@ -1,9 +1,11 @@
 ---
-title: City of Burien
 jurisdictions:
-  - Burien
+- Burien
+title: City of Burien
+topics:
+- Community & Social Services
 type: City
-website: https://burienwa.gov/
+website: https://www.burienwa.gov/
 ---
 
-City of Burien serves the community of **Burien**, Washington.
+The City of Burien serves the community of **Burien**, Washington. The city provides various services to enhance the quality of life for its residents, including community and social services.

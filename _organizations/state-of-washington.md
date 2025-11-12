@@ -1,7 +1,8 @@
 ---
-title: State of Washington
 jurisdictions:
-  - Washington State
+- Washington State
+title: State of Washington
+topics: []
 type: State
 website: https://www.wa.gov/
 ---

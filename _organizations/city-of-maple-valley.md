@@ -1,9 +1,10 @@
 ---
-title: City of Maple Valley
 jurisdictions:
-  - Maple Valley
+- Maple Valley
+title: City of Maple Valley
+topics: []
 type: City
 website: https://www.maplevalleywa.gov/
 ---
 
-City of Maple Valley serves the community of **Maple Valley**, Washington.
+City of Maple Valley serves the community of **Maple Valley**, Washington. The city provides various services to support its residents.

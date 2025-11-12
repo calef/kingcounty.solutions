@@ -1,7 +1,8 @@
 ---
-title: City of Des Moines
 jurisdictions:
-  - Des Moines
+- Des Moines
+title: City of Des Moines
+topics: []
 type: City
 website: https://www.desmoineswa.gov/
 ---

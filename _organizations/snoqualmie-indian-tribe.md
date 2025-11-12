@@ -1,5 +1,9 @@
 ---
+jurisdictions:
+- Snoqualmie Valley
 title: Snoqualmie Indian Tribe
+topics:
+- Community & Social Services
 type: Tribal Government
 website: https://www.snoqualmietribe.us/
 ---

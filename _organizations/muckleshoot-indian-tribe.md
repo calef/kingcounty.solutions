@@ -1,5 +1,12 @@
 ---
+jurisdictions:
+- King County
 title: Muckleshoot Indian Tribe
+topics:
+- Community & Social Services
+- Crisis Hotlines
+- Cultural Preservation
+- Economic Development
 type: Tribal Government
 website: https://www.muckleshoot.nsn.us/
 ---

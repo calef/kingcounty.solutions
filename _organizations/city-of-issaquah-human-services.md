@@ -1,7 +1,16 @@
 ---
-title: "City of Issaquah Human Services"
-website: "https://www.issaquahwa.gov/268/Human-Services"
+jurisdictions:
+- Issaquah
 parent_organization: City of Issaquah
+title: City of Issaquah Human Services
+topics:
+- Community & Social Services
+- Homeless Prevention
+- Aging Services
+- Family Support
+- Youth Programming
 type: Division
+website: https://www.issaquahwa.gov/268/Human-Services
 ---
-Issaquah’s community-services arms coordinate local efforts in homeless prevention, aging services, family support, and youth programming. Their municipal involvement strengthens the Eastside human-services network and enables collaborative responses to community needs—key aspects of AEA’s mission to research needs and bring organizations together.
+
+The City of Issaquah Human Services Division coordinates local efforts in homeless prevention, aging services, family support, and youth programming. Their municipal involvement strengthens the Eastside human-services network and enables collaborative responses to community needs, which are key aspects of their mission to research needs and bring organizations together.

@@ -1,6 +1,15 @@
 ---
-title: "Jewish Family Service Seattle (JFS Seattle)"
-website: "https://www.jfsseattle.org/"
+jurisdictions:
+- Eastside
+title: Jewish Family Service Seattle (JFS Seattle)
+topics:
+- Community & Social Services
+- Counseling
+- Senior Services
+- Refugee Resettlement
+- Employment
 type: Community-Based Organization
+website: https://www.jfsseattle.org/
 ---
-JFS Seattle offers counseling, senior services, affordable housing support, refugee resettlement, and career-service programs in the Eastside region. Their multi-generational impact—especially with elders and displaced populations—supports AEA’s mission of inclusive age-service coverage and strengthening service provider capacity.
+
+Jewish Family Service Seattle (JFS Seattle) offers a variety of services including counseling, senior services, affordable housing support, refugee resettlement, and career-service programs primarily in the Eastside region. Their multi-generational impact—especially with elders and displaced populations—supports AEA’s mission of inclusive age-service coverage and strengthening service provider capacity.

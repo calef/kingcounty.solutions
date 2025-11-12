@@ -1,7 +1,19 @@
 ---
-title: King County
 jurisdictions:
-  - King County
+- King County
+title: King County
+topics:
+- Community & Social Services
+- Financial Assistance
+- Food & Nutrition
+- Legal Aid
+- Domestic Violence
+- Disabilities
+- Mental Health & Counseling
+- Transportation & Mobility
+- Employment
+- Childcare
+- Senior Services
 type: County
 website: https://kingcounty.gov/
 ---

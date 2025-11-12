@@ -1,9 +1,10 @@
 ---
-title: City of Medina
 jurisdictions:
-  - Medina
+- Medina
+title: City of Medina
+topics: []
 type: City
 website: https://www.medina-wa.gov/
 ---
 
-City of Medina serves the community of **Medina**, Washington.
+The City of Medina serves the community of **Medina**, Washington. It provides various services to enhance the quality of life for its residents, including community engagement and local governance.

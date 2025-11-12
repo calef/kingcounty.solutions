@@ -1,9 +1,11 @@
 ---
-title: City of Snoqualmie
 jurisdictions:
-  - Snoqualmie
+- Snoqualmie
+title: City of Snoqualmie
+topics:
+- Community & Social Services
 type: City
-website: https://snoqualmiewa.gov/
+website: https://www.snoqualmiewa.gov/
 ---
 
-City of Snoqualmie serves the community of **Snoqualmie**, Washington.
+The City of Snoqualmie serves the community of **Snoqualmie**, Washington. The City provides various services to enhance the quality of life for its residents, including community and social services.

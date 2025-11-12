@@ -1,9 +1,10 @@
 ---
-title: City of Enumclaw
 jurisdictions:
-  - Enumclaw
+- Enumclaw
+title: City of Enumclaw
+topics: []
 type: City
 website: https://www.cityofenumclaw.net/
 ---
 
-City of Enumclaw serves the community of **Enumclaw**, Washington.
+The City of Enumclaw serves the community of **Enumclaw**, Washington. The City provides various services to enhance the quality of life for its residents, including community development, public safety, and recreational programs.

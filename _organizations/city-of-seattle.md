@@ -1,9 +1,12 @@
 ---
-title: City of Seattle
 jurisdictions:
-  - Seattle
+- Seattle
+title: City of Seattle
+topics:
+- Community & Social Services
+- Transportation & Mobility
 type: City
 website: https://www.seattle.gov/
 ---
 
-City of Seattle serves the community of **Seattle**, Washington.
+The City of Seattle serves the community of **Seattle**, Washington. The City provides various services including public safety, transportation, and community programs.

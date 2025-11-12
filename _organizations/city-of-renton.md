@@ -1,9 +1,10 @@
 ---
-title: City of Renton
 jurisdictions:
-  - Renton
+- Renton
+title: City of Renton
+topics: []
 type: City
-website: https://rentonwa.gov/
+website: https://rentonwa.gov
 ---
 
-City of Renton serves the community of **Renton**, Washington.
+The City of Renton serves the community of **Renton**, Washington, providing various services to enhance the quality of life for its residents.

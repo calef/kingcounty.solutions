@@ -1,9 +1,10 @@
 ---
-title: City of Sammamish
 jurisdictions:
-  - Sammamish
+- Sammamish
+title: City of Sammamish
+topics: []
 type: City
 website: https://www.sammamish.us/
 ---
 
-City of Sammamish serves the community of **Sammamish**, Washington.
+The City of Sammamish serves the community of **Sammamish**, Washington. The city provides various services to enhance the quality of life for its residents.

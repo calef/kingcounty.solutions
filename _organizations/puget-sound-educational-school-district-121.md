@@ -1,9 +1,14 @@
 ---
-title: Puget Sound Educational Service District 121
 acronym: PSESD
+jurisdictions:
+- King County
 parent_organization: Office of Superintendent of Public Instruction
-website: https://www.psesd.org/
+title: Puget Sound Educational Service District 121
+topics:
+- Education & Learning
+- Community & Social Services
 type: Regional Education Agency
+website: https://www.psesd.org/
 ---
 
-**The Office of Superintendent of Public Instruction (OSPI)** oversees K–12 public education across Washington State. It sets academic standards, administers statewide assessments, allocates funding to school districts, and supports educators and students through programs such as special education, school meals, and pupil transportation.  
+**Puget Sound Educational Service District 121** is a regional education agency that supports K–12 public education across Washington State. It collaborates with the Office of Superintendent of Public Instruction (OSPI) to set academic standards, administer statewide assessments, allocate funding to school districts, and support educators and students through various programs, including special education, school meals, and pupil transportation.

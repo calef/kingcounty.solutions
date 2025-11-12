@@ -1,16 +1,21 @@
 ---
-title: Department of Agriculture
 acronym: USDA
-website: https://www.usda.gov/
+jurisdictions:
+- United States
 parent_organization: Federal Executive Branch
+title: Department of Agriculture
+topics:
+- Food & Nutrition
+- Community & Social Services
+- Health Care
 type: Department
+website: https://www.usda.gov/
 ---
 
-The **Department of Agriculture (USDA)** supports farmers, rural communities, and food access programs.  
-Its services connect with:
+The **Department of Agriculture (USDA)** supports farmers, rural communities, and food access programs.  Its services connect with:
 
-- **Food & Nutrition:** SNAP, WIC, and school meal programs  
-- **Community & Social Services:** rural development and community facilities loans  
-- **Health Care:** nutrition and food security initiatives  
+- **Food & Nutrition:** SNAP, WIC, and school meal programs
+- **Community & Social Services:** rural development and community facilities loans
+- **Health Care:** nutrition and food security initiatives
 
 USDA strengthens food systems and reduces hunger across the nation.

@@ -1,7 +1,14 @@
 ---
-title: "Together Center"
-website: "https://togethercenter.org/"
-events_ical_url: "https://togethercenter.org/events/?ical=1"
+events_ical_url: https://togethercenter.org/events/?ical=1
+jurisdictions:
+- Snoqualmie Valley
+title: Together Center
+topics:
+- Early Intervention
+- Education & Learning
+- Community & Social Services
 type: Community-Based Organization
+website: https://togethercenter.org/
 ---
-Together Center provides high-quality preschool, before/after-school care, and community education for families in south Snoqualmie Valley—combining early-learning services with connection to other human-services supports. Their integrated model strengthens the regional network, helping AEA meet its goal of supporting all ages and optimizing provider capacity.
+
+Together Center provides high-quality preschool, before and after-school care, and community education for families in the south Snoqualmie Valley. They combine early-learning services with connections to other human services supports.

@@ -1,9 +1,10 @@
 ---
-title: City of North Bend
 jurisdictions:
-  - North Bend
+- North Bend
+title: City of North Bend
+topics: []
 type: City
 website: https://northbendwa.gov/
 ---
 
-City of North Bend serves the community of **North Bend**, Washington.
+The City of North Bend serves the community of **North Bend**, Washington. The City provides various services to enhance the quality of life for its residents, including community and social services, recreational programs, and local governance.

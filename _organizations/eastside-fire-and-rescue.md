@@ -1,19 +1,18 @@
 ---
-title: Eastside Fire & Rescue
-website: https://www.eastsidefire-rescue.org
-type: Special Purpose District
 jurisdictions:
-  - Duvall
-  - Issaquah
-  - Mercer Island
-  - North Bend
-  - Sammamish
-  - Woodinville
+- Duvall
+- Issaquah
+- Mercer Island
+- North Bend
+- Sammamish
+- Woodinville
+title: Eastside Fire & Rescue
 topics:
-  - Safety
-  - Health Care
-  - Community & Social Services
+- Community & Social Services
+- Health Care
+- Safety
+type: Agency
+website: https://www.eastsidefire-rescue.org
 ---
 
-**Eastside Fire & Rescue** provides fire protection, emergency medical response, and community safety programs for East King County.
-Formed through interlocal partnerships, it ensures **equitable and effective emergency services** across participating communities.
+**Eastside Fire & Rescue** provides fire protection, emergency medical response, and community safety programs for East King County. Formed through interlocal partnerships, it ensures equitable and effective emergency services across participating communities.

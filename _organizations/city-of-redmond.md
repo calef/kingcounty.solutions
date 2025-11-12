@@ -1,9 +1,10 @@
 ---
-title: City of Redmond
 jurisdictions:
-  - Redmond
+- Redmond
+title: City of Redmond
+topics: []
 type: City
 website: https://www.redmond.gov/
 ---
 
-City of Redmond serves the community of **Redmond**, Washington.
+The City of Redmond serves the community of **Redmond**, Washington. The City provides various services to enhance the quality of life for its residents.
