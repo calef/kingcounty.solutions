@@ -1,7 +1,7 @@
 ---
 latitude: 47.7397
 longitude: -122.0611
-parent_place: King County
+parent_place: Eastside
 title: Cottage Lake
 type: Census-Designated Place
 zip_codes:

@@ -1,7 +1,7 @@
 ---
 latitude: 47.4935
 longitude: -121.7868
-parent_place: King County
+parent_place: Snoqualmie Valley
 title: North Bend
 type: City
 zip_codes:

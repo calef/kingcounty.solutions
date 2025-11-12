@@ -1,7 +1,7 @@
 ---
 latitude: 47.2961
 longitude: -122.3254
-parent_place: King County
+parent_place: South King County
 title: Milton
 type: City
 zip_codes:

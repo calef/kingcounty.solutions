@@ -1,7 +1,7 @@
 ---
 latitude: 47.5707
 longitude: -122.2224
-parent_place: King County
+parent_place: Eastside
 title: Mercer Island
 type: City
 zip_codes:

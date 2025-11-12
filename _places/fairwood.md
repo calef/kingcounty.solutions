@@ -1,7 +1,7 @@
 ---
 latitude: 47.4606
 longitude: -122.1819
-parent_place: King County
+parent_place: South King County
 title: Fairwood
 type: Census-Designated Place
 zip_codes:

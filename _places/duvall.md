@@ -1,7 +1,7 @@
 ---
 latitude: 47.6796
 longitude: -121.97
-parent_place: King County
+parent_place: Snoqualmie Valley
 title: Duvall
 type: City
 zip_codes:

@@ -1,7 +1,7 @@
 ---
 latitude: 47.5724
 longitude: -121.914
-parent_place: King County
+parent_place: Snoqualmie Valley
 title: Fall City
 type: Census-Designated Place
 zip_codes:

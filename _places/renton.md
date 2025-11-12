@@ -1,7 +1,7 @@
 ---
 latitude: 47.4829
 longitude: -122.2171
-parent_place: King County
+parent_place: South King County
 title: Renton
 type: City
 zip_codes:
@@ -12,4 +12,4 @@ zip_codes:
 - '98059'
 ---
 
-Renton is a city in King County, Washington, known for its vibrant community and beautiful parks.
+Renton is a city located in King County, Washington. It is known for its vibrant community and beautiful parks.

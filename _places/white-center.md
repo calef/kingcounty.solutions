@@ -1,7 +1,7 @@
 ---
 latitude: 47.5116
 longitude: -122.3482
-parent_place: King County
+parent_place: South King County
 title: White Center
 type: Census-Designated Place
 zip_codes:

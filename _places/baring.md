@@ -1,7 +1,7 @@
 ---
 latitude: 47.6905
 longitude: -121.6192
-parent_place: King County
+parent_place: Eastside
 title: Baring
 type: Census-Designated Place
 zip_codes:

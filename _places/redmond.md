@@ -1,7 +1,7 @@
 ---
 latitude: 47.6739
 longitude: -122.1215
-parent_place: King County
+parent_place: Eastside
 title: Redmond
 type: City
 zip_codes:
@@ -9,4 +9,4 @@ zip_codes:
 - '98053'
 ---
 
-Redmond is a city in King County, Washington, known for its vibrant tech industry and beautiful parks.
+Redmond is a city located in King County, Washington. It is known for its vibrant tech industry and beautiful parks.

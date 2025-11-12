@@ -1,7 +1,7 @@
 ---
 latitude: 47.6279
 longitude: -122.245
-parent_place: King County
+parent_place: Eastside
 title: Medina
 type: City
 zip_codes:

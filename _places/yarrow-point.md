@@ -1,7 +1,7 @@
 ---
 latitude: 47.6377
 longitude: -122.2423
-parent_place: King County
+parent_place: Eastside
 title: Yarrow Point
 type: Town
 zip_codes:

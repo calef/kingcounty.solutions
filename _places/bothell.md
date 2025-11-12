@@ -1,7 +1,7 @@
 ---
 latitude: 47.7617
 longitude: -122.2054
-parent_place: King County
+parent_place: Eastside
 title: Bothell
 type: City
 zip_codes:
@@ -9,4 +9,4 @@ zip_codes:
 - '98021'
 ---
 
-Bothell is a city in King County, Washington. It is known for its vibrant community and beautiful parks, making it a great place to live and visit.
+Bothell is a city located in King County, Washington. It is recognized for its vibrant community, beautiful parks, and various recreational opportunities, making it an attractive place to live and visit.

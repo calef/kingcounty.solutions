@@ -1,7 +1,7 @@
 ---
 latitude: 47.712
 longitude: -121.358
-parent_place: King County
+parent_place: Eastside
 title: Skykomish
 type: Town
 zip_codes:

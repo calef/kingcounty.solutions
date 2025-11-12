@@ -1,7 +1,7 @@
 ---
 latitude: 47.5296
 longitude: -121.8369
-parent_place: King County
+parent_place: Snoqualmie Valley
 title: Snoqualmie
 type: City
 zip_codes:

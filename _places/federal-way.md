@@ -1,7 +1,7 @@
 ---
 latitude: 47.3223
 longitude: -122.3126
-parent_place: King County
+parent_place: South King County
 title: Federal Way
 type: City
 zip_codes:

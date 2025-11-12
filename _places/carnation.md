@@ -1,7 +1,7 @@
 ---
 latitude: 47.68
 longitude: -121.9146
-parent_place: King County
+parent_place: Snoqualmie Valley
 title: Carnation
 type: City
 zip_codes:
