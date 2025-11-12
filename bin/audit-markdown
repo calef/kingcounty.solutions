@@ -1,21 +1,6 @@
 #!/usr/bin/env ruby
 # frozen_string_literal: true
 
-# Audits a Jekyll collection directory against its schema in _config.yml,
-# verifies front matter + body using website content and OpenAI,
-# and writes all corrections in place with alphabetically sorted keys.
-#
-# Usage:
-#   ruby audit_content.rb _organizations
-#
-# Example:
-#   ruby audit_content.rb _programs
-#
-# Environment:
-#   OPENAI_API_KEY must be set.
-#
-# Dependencies are expected in the Gemfile (no gem checks here).
-
 require 'fileutils'
 require 'json'
 require 'yaml'
@@ -28,9 +13,6 @@ require 'addressable/uri'
 require 'openai'
 require 'time'
 
-# ----------------------------
-# Constants & Configuration
-# ----------------------------
 OPENAI_MODEL = 'gpt-4o-mini' # explicitly set model
 TARGET_DIR = ARGV[0]
 
@@ -52,7 +34,6 @@ if TARGET_DIR.nil? || TARGET_DIR.strip.empty?
 end
 
 abort 'Please set OPENAI_API_KEY in your environment.' unless ENV['OPENAI_API_KEY'] && !ENV['OPENAI_API_KEY'].empty?
-
 abort "Directory not found: #{TARGET_DIR}" unless Dir.exist?(TARGET_DIR)
 
 SCHEMA_KEY = "#{File.basename(TARGET_DIR).sub(/^_/, '')}_schema".freeze
@@ -62,9 +43,6 @@ REPORT_DIR = '_audit_reports'
 FileUtils.mkdir_p(REPORT_DIR)
 REPORT_PATH = File.join(REPORT_DIR, "audit-#{File.basename(TARGET_DIR)}-#{Time.now.utc.iso8601.gsub(':', '-')}.json")
 
-# ----------------------------
-# Helper functions
-# ----------------------------
 def load_config_schema(config_path, key)
   cfg = Psych.safe_load_file(config_path, aliases: true) || {}
   schema = cfg[key]
@@ -164,17 +142,32 @@ def enforce_schema(front_matter, schema)
   issues = []
   corrected = front_matter.dup
 
-  if schema.is_a?(Hash)
-    required = schema['required'] || []
-    required.each do |key|
-      issues << { key: key, issue: 'missing_required' } unless corrected.key?(key)
+  return [corrected, issues] unless schema.is_a?(Hash) && !schema.empty?
+
+  # Helper lambda: true only for explicit required statements, not negatives
+  is_required_rule = ->(rules) do
+    return false unless rules.is_a?(Array)
+    rules.any? do |r|
+      next false unless r.is_a?(String)
+      r =~ /\b(the\s+)?field\s+(is|must be)\s+required\b/i
+    end
+  end
+
+  schema.each do |key, definition|
+    next unless definition.is_a?(Hash)
+
+    is_required = is_required_rule.call(definition['rules'])
+
+    # Only add missing keys if they are REQUIRED
+    if is_required && !corrected.key?(key)
+      issues << { key: key, issue: 'missing_required' }
+      corrected[key] = (definition['type'] == 'array') ? [] : nil
+      puts "     🪣 Added missing REQUIRED field: #{key} (initialized as #{corrected[key].inspect})"
     end
 
-    props = schema['properties'] || {}
-    props.each do |key, definition|
-      next unless corrected.key?(key)
-
-      allowed = definition['enum']
+    # Validate enums/possible_values only if a value exists
+    if corrected.key?(key)
+      allowed = definition['enum'] || definition['possible_values']
       if allowed && !allowed.include?(corrected[key])
         issues << { key: key, issue: 'invalid_value', allowed: allowed, actual: corrected[key] }
       end
@@ -184,10 +177,38 @@ def enforce_schema(front_matter, schema)
   [corrected, issues]
 end
 
+def schema_keys(schema)
+  return [] unless schema.is_a?(Hash)
+  schema.keys.map(&:to_s)
+end
+
 def openai_review(front_matter:, body:, website_text:, schema:, path:)
+  allowed_keys = schema_keys(schema)
+  has_topics   = allowed_keys.include?('topics')
+
+  topic_hint = if has_topics
+    <<~HINT
+      NOTE: The 'topics' field (if present in the schema) lists what kinds of services or programs
+      the organization relates to. Use the schema's possible_values to select relevant ones
+      from the description or website text.
+    HINT
+  else
+    "" # do not hint about topics when not in schema
+  end
+
+  array_hint = <<~HINT
+    For array-type fields (e.g., any fields whose type is 'array' in the schema),
+    infer or construct appropriate arrays using the schema’s possible values and the provided text.
+  HINT
+
   prompt = <<~PROMPT
     You are auditing content for accuracy. Review the following markdown record
     for correctness and completeness. Use the provided website text for validation.
+
+    #{topic_hint}#{array_hint}
+
+    ALLOWED FRONT-MATTER KEYS (must not introduce keys outside this list):
+    #{allowed_keys.join(', ')}
 
     SCHEMA (YAML):
     #{schema.to_yaml}
@@ -203,9 +224,15 @@ def openai_review(front_matter:, body:, website_text:, schema:, path:)
 
     TASK:
     - Verify each key’s value accuracy and propose updates if needed.
-    - Fill in missing values consistent with schema and text.
-    - If text body is empty or outdated, propose a replacement.
-    - Return STRICT JSON following this structure:
+    - Do not change the value of a key to be less specific than the prior key. For example, changing from a region of a county to a county for a parent_place.
+    - Add all REQUIRED fields from the schema if missing.
+    - Do NOT add optional fields unless you can confidently populate them with non-empty values.
+    - For array-type fields that are REQUIRED, infer or construct arrays using schema possible_values and the provided text. If you cannot infer, use an empty array so the REQUIRED field exists.   - Do NOT introduce any new keys beyond the allowed list above.
+    - If a REQUIRED array field cannot be confidently filled, include an empty array so that the field exists.
+    - If text body is empty or outdated, propose a replacement written in markdown.
+    - Ensure that the text body is written in the third person.
+
+    Return STRICT JSON ONLY in this structure:
 
     {
       "frontmatter": {
@@ -239,12 +266,24 @@ rescue StandardError => e
   { 'error' => e.message }
 end
 
-def apply_openai_changes(front_matter, body, review)
+def apply_openai_changes(front_matter, body, review, schema: {})
+  allowed = schema_keys(schema)
   fm = front_matter.dup
+
   (review['frontmatter'] || {}).each do |key, data|
+    key_str = key.to_s
+    next unless data.is_a?(Hash)
+
+    # Only apply if key already exists OR is in schema’s allowed keys
+    next unless fm.key?(key_str) || allowed.include?(key_str)
+
     case data['action']
     when 'add', 'update'
-      fm[key] = data['proposed'] unless data['proposed'].nil?
+      proposed = data['proposed']
+      # Accept nil only if field is allowed to be nil; otherwise skip silently
+      fm[key_str] = proposed unless proposed.nil?
+    when 'keep'
+      # nothing
     end
   end
 
@@ -252,16 +291,14 @@ def apply_openai_changes(front_matter, body, review)
   if review['body']
     case review['body']['action']
     when 'add', 'update'
-      new_body = review['body']['proposed_markdown'] if review['body']['proposed_markdown'].to_s.strip != ''
+      proposed_md = review['body']['proposed_markdown'].to_s
+      new_body = proposed_md if !proposed_md.strip.empty?
     end
   end
 
   [fm, new_body]
 end
 
-# ----------------------------
-# Main execution
-# ----------------------------
 schema = load_config_schema(CONFIG_PATH, SCHEMA_KEY)
 files = Dir.glob(File.join(TARGET_DIR, '**', '*.md'))
 abort "No markdown files found in #{TARGET_DIR}" if files.empty?
