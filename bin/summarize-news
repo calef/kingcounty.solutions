@@ -1,0 +1,106 @@
+#!/usr/bin/env ruby
+# frozen_string_literal: true
+
+require 'yaml'
+require 'fileutils'
+require 'ruby/openai'
+require 'open-uri'
+require 'nokogiri'
+
+# Configure Ruby-OpenAI client
+client = OpenAI::Client.new(access_token: ENV.fetch('OPENAI_API_KEY'))
+
+NEWS_DIR = '_posts'
+
+def fetch_article_text(url)
+  html = URI.open(url, open_timeout: 10, read_timeout: 15).read
+  doc = Nokogiri::HTML(html)
+  # Remove scripts, styles, and navigation cruft
+  doc.search('script, style, nav, header, footer, noscript, iframe').remove
+  text = doc.css('article, main, body').text
+  text.strip.gsub(/\s+/, ' ')
+rescue StandardError => e
+  warn "Error fetching #{url}: #{e.class} - #{e.message}"
+  nil
+end
+
+Dir.glob("#{NEWS_DIR}/*.md").each do |file_path|
+  content = File.read(file_path)
+
+  # Split front matter and body
+  if content =~ /\A---\s*\n(.*?)\n---\s*\n/m
+    front_matter_raw = Regexp.last_match(1)
+    body = Regexp.last_match.post_match
+    front_matter = YAML.safe_load(front_matter_raw) || {}
+
+    # Skip if already summarized
+    next if front_matter['summarized'] == true
+
+    source_url = front_matter['source_url']
+    unless source_url
+      puts "Skipping #{file_path}: no source_url"
+      next
+    end
+
+    # Try to fetch and extract content from the webpage
+    article_text = fetch_article_text(source_url)
+    article_text ||= body # fallback to the original content if fetch failed
+
+    prompt = <<~PROMPT
+      Summarize the following article in 100 words or less in Markdown format.
+
+      Article URL: #{source_url}
+
+      In the summary:
+        1. Do not include a link back to the source URL.
+        2. Include an image if one is referenced in the text.
+        3. Do not include any commentary or explanation about this process.
+
+      ARTICLE CONTENT:
+      #{article_text}
+    PROMPT
+
+    begin
+      # Retry logic: up to 3 attempts in case of rate limits or temporary failures
+      attempts = 0
+      summary = nil
+      while attempts < 3 && summary.nil?
+        attempts += 1
+        begin
+          response = client.chat(
+            parameters: {
+              model: 'gpt-4',
+              messages: [
+                { role: 'system', content: 'You are a helpful assistant.' },
+                { role: 'user', content: prompt }
+              ],
+              temperature: 0.7
+            }
+          )
+          summary = response.dig('choices', 0, 'message', 'content')&.strip
+        rescue Faraday::TooManyRequestsError
+          warn "Rate limited, waiting 5 seconds before retry (attempt #{attempts})"
+          sleep 5
+        end
+      end
+
+      if summary && !summary.empty?
+        # ✅ Store the original Markdown body (not the extracted HTML)
+        front_matter['original_content'] = body.strip
+        front_matter['summarized'] = true
+
+        yaml_front_matter = YAML.dump(front_matter).sub(/\A---\s*\n/, '').strip
+        updated_content = ['---', yaml_front_matter, '---', '', summary].join("\n")
+        File.write(file_path, updated_content)
+        puts "✅ Updated #{file_path}"
+      else
+        puts "⚠️  Skipped #{file_path}: could not summarize"
+      end
+    rescue StandardError => e
+      warn "Error processing #{file_path}: #{e.class} - #{e.message}"
+    end
+
+  else
+    warn "Skipping #{file_path}: no front matter"
+  end
+end
