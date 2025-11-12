@@ -5,6 +5,7 @@ jurisdictions:
 - SeaTac
 - Maple Valley
 - Tukwila
+news_rss_url: https://pugetsoundfire.org/feed/
 title: Puget Sound Regional Fire Authority
 topics:
 - Community & Social Services

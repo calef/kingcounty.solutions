@@ -2,6 +2,7 @@
 address: 9050 384th Ave. SE, Snoqualmie, WA 98065
 jurisdictions:
 - King County
+news_rss_url: https://encompassnw.org/feed/
 phone: 425-888-3347
 title: Encompass NW
 topics:

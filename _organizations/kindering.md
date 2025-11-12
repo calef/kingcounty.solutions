@@ -1,6 +1,7 @@
 ---
 jurisdictions:
 - King County
+news_rss_url: https://kindering.org/feed/
 title: Kindering
 topics:
 - Early Intervention

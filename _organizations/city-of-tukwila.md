@@ -1,6 +1,7 @@
 ---
 jurisdictions:
 - Tukwila
+news_rss_url: https://www.tukwilawa.gov/feed/
 title: City of Tukwila
 topics: []
 type: City

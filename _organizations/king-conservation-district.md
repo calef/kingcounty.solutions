@@ -2,6 +2,7 @@
 acronym: KCD
 jurisdictions:
 - King County
+news_rss_url: https://kingcd.org/feed/
 title: King Conservation District
 topics:
 - Community & Social Services

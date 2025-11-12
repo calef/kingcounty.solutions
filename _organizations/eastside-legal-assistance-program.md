@@ -5,6 +5,7 @@ jurisdictions:
 - Eastside
 - North King County
 - South King County
+news_rss_url: https://elap.org/feed/
 title: Eastside Legal Assistance Program (ELAP)
 topics:
 - Legal Aid

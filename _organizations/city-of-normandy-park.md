@@ -1,6 +1,7 @@
 ---
 jurisdictions:
 - Normandy Park
+news_rss_url: https://normandyparkwa.gov/feed/
 title: City of Normandy Park
 topics: []
 type: City

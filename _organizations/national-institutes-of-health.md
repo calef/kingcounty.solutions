@@ -2,6 +2,7 @@
 acronym: NIH
 jurisdictions:
 - United States
+news_rss_url: https://www.nih.gov/rss.xml
 parent_organization: Department of Health and Human Services
 title: National Institutes of Health
 topics:

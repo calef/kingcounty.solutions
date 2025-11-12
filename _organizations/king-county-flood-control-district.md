@@ -1,6 +1,7 @@
 ---
 jurisdictions:
 - King County
+news_rss_url: https://kingcountyfloodcontrol.org/feed/
 title: King County Flood Control District
 topics:
 - Community & Social Services

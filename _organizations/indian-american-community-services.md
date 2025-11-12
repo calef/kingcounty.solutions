@@ -2,6 +2,7 @@
 events_ical_url: https://iacswa.org/events/?ical=1
 jurisdictions:
 - Eastside
+news_rss_url: https://iacswa.org/feed/
 title: Indian American Community Services (IACS)
 topics:
 - Community & Social Services

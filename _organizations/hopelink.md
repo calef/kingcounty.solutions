@@ -1,6 +1,7 @@
 ---
 jurisdictions:
 - Eastside
+news_rss_url: https://www.hopelink.org/feed/
 title: Hopelink
 topics:
 - Food & Nutrition

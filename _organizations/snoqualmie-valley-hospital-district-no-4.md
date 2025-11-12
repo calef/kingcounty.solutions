@@ -5,6 +5,7 @@ jurisdictions:
 - North Bend
 - Preston
 - Snoqualmie
+news_rss_url: https://snoqualmievalleyhealth.org/feed/
 title: Hospital District No. 4 (Snoqualmie Valley Hospital)
 topics:
 - Health Care

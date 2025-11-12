@@ -2,6 +2,7 @@
 acronym: SPS
 jurisdictions:
 - Seattle
+news_rss_url: https://www.seattleschools.org/feed/
 parent_organization: Puget Sound Educational Service District 121
 title: Seattle Public Schools
 topics:
