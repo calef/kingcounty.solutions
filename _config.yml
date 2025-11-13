@@ -19,6 +19,11 @@ defaults:
       values:
         layout: "page"
     - scope:
+          path: "_posts"
+          type: "posts"
+      values:
+        layout: "post"
+    - scope:
         path: "_organizations"
         type: "organizations"
       values:
