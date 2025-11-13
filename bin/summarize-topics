@@ -1,0 +1,115 @@
+#!/usr/bin/env ruby
+# frozen_string_literal: true
+
+require 'yaml'
+require 'ruby/openai'
+
+TOPICS_DIR = '_topics'
+SUMMARY_WORD_LIMIT = 50
+OPENAI_MODEL = ENV.fetch('OPENAI_SUMMARY_MODEL', 'gpt-4o-mini')
+
+client = OpenAI::Client.new(access_token: ENV.fetch('OPENAI_API_KEY'))
+
+def extract_sections(path)
+  content = File.read(path)
+  if content =~ /\A---\s*\n(.*?)\n---\s*\n/m
+    front_matter = YAML.safe_load(Regexp.last_match(1)) || {}
+    body = Regexp.last_match.post_match
+    [front_matter, body]
+  else
+    warn "Skipping #{path}: missing front matter"
+    [nil, nil]
+  end
+end
+
+def build_prompt(title, parent_topic, existing_text)
+  descriptor = existing_text.nil? || existing_text.strip.empty? ? 'No prior body text provided.' : "Existing notes:\n#{existing_text.strip}\n"
+  parent_line = parent_topic ? "The parent topic is #{parent_topic}." : ''
+  <<~PROMPT
+    You write concise topic summaries for a public resource directory in King County, Washington.
+    #{parent_line}
+    #{descriptor}
+
+    Task:
+    - Write a Markdown paragraph of at most #{SUMMARY_WORD_LIMIT} words describing the topic "#{title}" for residents seeking quick context.
+    - Use plain sentences in one paragraph, no headings, bullets, quotes, or markdown emphasis.
+    - Highlight who the topic serves and how it helps.
+    - Do not mention instructions or word counts.
+
+    Return only the short paragraph.
+  PROMPT
+end
+
+def count_words(text)
+  text.to_s.split(/\s+/).reject(&:empty?).length
+end
+
+def summarize_topic(client, title, parent_topic, body)
+  attempts = 0
+  summary = nil
+
+  while attempts < 3
+    attempts += 1
+    begin
+      prompt = build_prompt(title, parent_topic, body)
+      response = client.chat(
+        parameters: {
+          model: OPENAI_MODEL,
+          messages: [
+            { role: 'system', content: 'You are a precise editorial assistant.' },
+            { role: 'user', content: prompt }
+          ],
+          temperature: 0.4
+        }
+      )
+      summary = response.dig('choices', 0, 'message', 'content')&.strip
+
+      unless summary && !summary.empty?
+        warn "OpenAI returned empty content for #{title} (attempt #{attempts})"
+        summary = nil
+        next
+      end
+
+      word_total = count_words(summary)
+      return summary if word_total <= SUMMARY_WORD_LIMIT
+
+      warn "Received #{word_total} words for #{title}, retrying (attempt #{attempts})"
+      summary = nil
+    rescue Faraday::TooManyRequestsError
+      warn "Rate limited while summarizing #{title}, sleeping before retry"
+      sleep 5
+    rescue StandardError => e
+      warn "Error summarizing #{title}: #{e.class} - #{e.message}"
+      return nil
+    end
+  end
+
+  nil
+end
+
+Dir.glob(File.join(TOPICS_DIR, '*.md')).each do |path|
+  front_matter, body = extract_sections(path)
+  next unless front_matter
+
+  if front_matter['topic_summary_generated']
+    puts "Skipping #{path}: summary already generated"
+    next
+  end
+
+  title = front_matter['title'] || File.basename(path, '.md').tr('-', ' ').split.map(&:capitalize).join(' ')
+  parent_topic = front_matter['parent_topic']
+  summary = summarize_topic(client, title, parent_topic, body)
+
+  unless summary
+    warn "Could not create summary for #{path}"
+    next
+  end
+
+  front_matter['original_topic_body'] ||= body.strip unless body.nil? || body.strip.empty?
+  front_matter['topic_summary_generated'] = true
+
+  yaml = YAML.dump(front_matter).sub(/\A---\s*\n/, '').strip
+  output = ['---', yaml, '---', '', summary, ''].join("\n")
+  File.write(path, output)
+  puts "✅ Updated #{path}"
+end
