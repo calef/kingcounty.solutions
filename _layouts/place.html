@@ -23,9 +23,82 @@ layout: default
 
     {% assign all_places = site.places | sort: "title" %}
     {% assign child_places = all_places | where: "parent_place", page.title %}
+    {% assign all_orgs = site.organizations | sort: "title" %}
+
+    {% assign relevant_places = "" | split: "" %}
+    {% assign relevant_places = relevant_places | push: page.title %}
+    {% assign current_parent = page.parent_place %}
+    {% for i in (0..20) %}
+      {% if current_parent %}
+        {% unless relevant_places contains current_parent %}
+          {% assign relevant_places = relevant_places | push: current_parent %}
+        {% endunless %}
+        {% assign parent_doc = all_places | where: "title", current_parent | first %}
+        {% if parent_doc and parent_doc.parent_place %}
+          {% assign current_parent = parent_doc.parent_place %}
+        {% else %}
+          {% assign current_parent = nil %}
+        {% endif %}
+      {% else %}
+        {% break %}
+      {% endif %}
+    {% endfor %}
+
+    {% assign relevant_org_titles = "" | split: "" %}
+    {% for place_title in relevant_places %}
+      {% assign matched_orgs = all_orgs | where_exp: "org", "org.jurisdictions and org.jurisdictions contains place_title" %}
+      {% for org in matched_orgs %}
+        {% unless relevant_org_titles contains org.title %}
+          {% assign relevant_org_titles = relevant_org_titles | push: org.title %}
+        {% endunless %}
+      {% endfor %}
+    {% endfor %}
+
+    {% assign place_news = site.posts | where_exp: "post", "relevant_org_titles contains post.source" %}
+    {% if place_news and place_news.size > 0 %}
+      {% assign place_news = place_news | sort: "date" | reverse %}
+    {% endif %}
 
     {% if content %}
       {{ content }}
+    {% endif %}
+
+    {% if place_news and place_news.size > 0 %}
+      <section class="place-news">
+        <h2>News related to {{ page.title }}</h2>
+        <ul class="place-news-list">
+          {% for post in place_news %}
+            <li class="place-news-item">
+              <h3>
+                <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+              </h3>
+              <p class="place-news-meta">
+                <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
+                {% assign source_text = post.source | default: post.source_url %}
+                {% if source_text %}
+                  • <span class="place-news-source">
+                    {% assign matching_org = nil %}
+                    {% if post.source %}
+                      {% assign matching_org = site.organizations | where: "title", post.source | first %}
+                    {% endif %}
+                    {% if matching_org %}
+                      <a href="{{ matching_org.url | relative_url }}">{{ post.source }}</a>
+                    {% elsif post.source_url %}
+                      <a href="{{ post.source_url }}" rel="noopener noreferrer">{{ source_text }}</a>
+                    {% else %}
+                      {{ source_text }}
+                    {% endif %}
+                  </span>
+                {% endif %}
+              </p>
+              {% assign post_excerpt = post.excerpt | strip_html | strip_newlines %}
+              {% if post_excerpt %}
+                <p class="place-news-excerpt">{{ post_excerpt | truncate: 220 }}</p>
+              {% endif %}
+            </li>
+          {% endfor %}
+        </ul>
+      </section>
     {% endif %}
 
     {% if child_places and child_places.size > 0 %}
@@ -86,5 +159,50 @@ layout: default
   margin-bottom: 0.25rem;
   padding-left: 1rem;
   border-left: 1px solid #eee;
+}
+.place-news {
+  margin-top: 1.5rem;
+}
+.place-news h2 {
+  margin-bottom: 0.5rem;
+}
+.place-news-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.place-news-item {
+  margin-bottom: 0.35rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 1px solid #eee;
+}
+.place-news-item:last-child {
+  border-bottom: none;
+}
+.place-news h3 {
+  margin: 0 0 0.25rem;
+}
+.place-news a {
+  font-weight: 600;
+  text-decoration: none;
+}
+.place-news a:hover {
+  text-decoration: underline;
+}
+.place-news-meta {
+  margin: 0;
+  color: #666;
+  font-size: 0.9rem;
+}
+.place-news-meta time {
+  font-weight: 500;
+}
+.place-news-source a {
+  color: inherit;
+}
+.place-news-excerpt {
+  margin: 0.1rem 0 0.5rem;
+  color: #444;
+  font-size: 0.95em;
 }
 </style>
