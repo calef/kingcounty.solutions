@@ -14,8 +14,9 @@ layout: default
     {% if current_parent %}
       {% assign parent_doc = site.organizations | where: "title", current_parent | first %}
       {% if parent_doc %}
+        {% assign breadcrumb_label = parent_doc.acronym | default: parent_doc.title %}
         {% capture chain %}
-          <a href="{{ parent_doc.url | relative_url }}">{{ parent_doc.title }}</a> › {{ chain }}
+          <a href="{{ parent_doc.url | relative_url }}">{{ breadcrumb_label }}</a> › {{ chain }}
         {% endcapture %}
         {% assign current_parent = parent_doc.parent_organization %}
       {% else %}
@@ -29,11 +30,14 @@ layout: default
     {% endif %}
   {% endfor %}
 
-  {% if chain != "" %}
+  {% assign breadcrumb_current = page.acronym | default: page.title %}
   <nav class="breadcrumbs">
-    {{ chain }}<span>{{ page.title }}</span>
+    <a href="{{ '/organizations/' | relative_url }}">Organizations</a> ›
+    {% if chain != "" %}
+      {{ chain }}
+    {% endif %}
+    <span>{{ breadcrumb_current }}</span>
   </nav>
-  {% endif %}
 
   <header class="page-header">
     <h1 class="page-title">
@@ -57,51 +61,43 @@ layout: default
     {% endif %}
   </header>
 
-  <div class="page-content">
-    <table class="org-info">
-      <tbody>
-        {% if page.email %}
-        <tr>
-          <th>Email</th>
-          <td><a href="mailto:{{ page.email }}">{{ page.email }}</a></td>
-        </tr>
-        {% endif %}
+  {% assign has_contact_info = false %}
+  {% if page.email or page.phone or page.address %}
+    {% assign has_contact_info = true %}
+  {% endif %}
 
-        {% if page.phone %}
-          {% assign tel = page.phone | replace: ' ', '' | replace: '(', '' | replace: ')', '' | replace: '-', '' %}
+  <div class="page-content{% unless has_contact_info %} page-content--compact{% endunless %}">
+
+    {% if has_contact_info %}
+      <table class="org-info">
+        <tbody>
+          {% if page.email %}
           <tr>
-            <th>Phone</th>
-            <td><a href="tel:+1{{ tel }}">+1 {{ page.phone }}</a></td>
+            <th>Email</th>
+            <td><a href="mailto:{{ page.email }}">{{ page.email }}</a></td>
           </tr>
-        {% endif %}
+          {% endif %}
 
-        {% if page.address %}
-        <tr>
-          <th>Address</th>
-          <td>
-            {{ page.address }}<br/>
-            <a href="https://www.google.com/maps/search/?api=1&query={{ page.address | uri_escape }}" rel="noopener noreferrer">View on map</a>
-          </td>
-        </tr>
-        {% endif %}
+          {% if page.phone %}
+            {% assign tel = page.phone | replace: ' ', '' | replace: '(', '' | replace: ')', '' | replace: '-', '' %}
+            <tr>
+              <th>Phone</th>
+              <td><a href="tel:+1{{ tel }}">+1 {{ page.phone }}</a></td>
+            </tr>
+          {% endif %}
 
-        {% if page.jurisdictions and page.jurisdictions.size > 0 %}
-        <tr>
-          <th>Jurisdictions</th>
-          <td>
-            {% for j in page.jurisdictions %}
-              {% assign place = site.places | where: "title", j | first %}
-              {% if place %}
-                <a href="{{ place.url | relative_url }}">{{ place.title }}</a>{% unless forloop.last %}, {% endunless %}
-              {% else %}
-                {{ j }}{% unless forloop.last %}, {% endunless %}
-              {% endif %}
-            {% endfor %}
-          </td>
-        </tr>
-        {% endif %}
-      </tbody>
-    </table>
+          {% if page.address %}
+          <tr>
+            <th>Address</th>
+            <td>
+              {{ page.address }}<br/>
+              <a href="https://www.google.com/maps/search/?api=1&query={{ page.address | uri_escape }}" rel="noopener noreferrer">View on map</a>
+            </td>
+          </tr>
+          {% endif %}
+        </tbody>
+      </table>
+    {% endif %}
 
     {% if content %}
       <div class="org-body">
@@ -159,7 +155,7 @@ layout: default
 /* Breadcrumb navigation */
 .breadcrumbs {
   font-size: 0.9em;
-  margin-bottom: 1rem;
+  margin: 0.25rem 0 0.5rem;
   color: #666;
 }
 .breadcrumbs a {
@@ -200,6 +196,7 @@ layout: default
   text-decoration: underline;
 }
 
+
 /* Info table */
 .org-info {
   border-collapse: collapse;
@@ -219,6 +216,9 @@ layout: default
 /* Content area */
 .org-body {
   margin-top: 1.5rem;
+}
+.page-content--compact .org-body {
+  margin-top: 0.5rem;
 }
 
 /* Website link section */
