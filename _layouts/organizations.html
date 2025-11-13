@@ -7,10 +7,10 @@ title: Organizations Directory
 
 <p>
   The following directory lists government agencies, tribal governments, districts, and community-based organizations,
-  organized by level. Each section expands to show departments, divisions, and programs up to four levels deep.
+  organized by level. Each section expands to show departments, divisions, and programs across their full hierarchy.
 </p>
 
-{%- assign all = site.organizations -%}
+{%- assign all = site.organizations | sort: "title" -%}
 
 {%- comment %}
 Primary anchors (major government entities)
@@ -31,17 +31,22 @@ Primary anchors (major government entities)
 FEDERAL
 {%- endcomment -%}
 {%- if federal_root -%}
-<h2><a href="{{ federal_root.url | relative_url }}">United States Federal Government</a></h2>
-<ul>
+<section class="org-section">
+  <h2><a href="{{ federal_root.url | relative_url }}">United States Federal Government</a></h2>
   {%- assign federal_children = all | where: "parent_organization", "United States Federal Government" | sort: "title" -%}
-  {%- for entity in federal_children -%}
-    {%- assign included_urls = included_urls | push: entity.url -%}
-    <li>
-      <a href="{{ entity.url | relative_url }}">{{ entity.title }}</a>{% if entity.acronym %} ({{ entity.acronym }}){% endif %}
-      {%- include org-recursive.html parent=entity.title depth=2 -%}
-    </li>
-  {%- endfor -%}
-</ul>
+  {%- if federal_children.size > 0 -%}
+    <div class="org-tree">
+      <ul class="org-tree-list">
+        {%- for entity in federal_children -%}
+          {%- assign included_urls = included_urls | push: entity.url -%}
+          {% include org-tree.html organization=entity organizations=all %}
+        {%- endfor -%}
+      </ul>
+    </div>
+  {%- else -%}
+    <p>No organizations listed under this heading yet.</p>
+  {%- endif -%}
+</section>
 {%- assign included_urls = included_urls | push: federal_root.url -%}
 {%- endif -%}
 
@@ -49,17 +54,22 @@ FEDERAL
 STATE
 {%- endcomment -%}
 {%- if washington_root -%}
-<h2><a href="{{ washington_root.url | relative_url }}">State of Washington</a></h2>
-<ul>
+<section class="org-section">
+  <h2><a href="{{ washington_root.url | relative_url }}">State of Washington</a></h2>
   {%- assign state_children = all | where: "parent_organization", "State of Washington" | sort: "title" -%}
-  {%- for entity in state_children -%}
-    {%- assign included_urls = included_urls | push: entity.url -%}
-    <li>
-      <a href="{{ entity.url | relative_url }}">{{ entity.title }}</a>{% if entity.acronym %} ({{ entity.acronym }}){% endif %}
-      {%- include org-recursive.html parent=entity.title depth=2 -%}
-    </li>
-  {%- endfor -%}
-</ul>
+  {%- if state_children.size > 0 -%}
+    <div class="org-tree">
+      <ul class="org-tree-list">
+        {%- for entity in state_children -%}
+          {%- assign included_urls = included_urls | push: entity.url -%}
+          {% include org-tree.html organization=entity organizations=all %}
+        {%- endfor -%}
+      </ul>
+    </div>
+  {%- else -%}
+    <p>No organizations listed under this heading yet.</p>
+  {%- endif -%}
+</section>
 {%- assign included_urls = included_urls | push: washington_root.url -%}
 {%- endif -%}
 
@@ -67,17 +77,22 @@ STATE
 COUNTY
 {%- endcomment -%}
 {%- if king_county_root -%}
-<h2><a href="{{ king_county_root.url | relative_url }}">King County</a></h2>
-<ul>
+<section class="org-section">
+  <h2><a href="{{ king_county_root.url | relative_url }}">King County</a></h2>
   {%- assign county_children = all | where: "parent_organization", "King County" | sort: "title" -%}
-  {%- for entity in county_children -%}
-    {%- assign included_urls = included_urls | push: entity.url -%}
-    <li>
-      <a href="{{ entity.url | relative_url }}">{{ entity.title }}</a>{% if entity.acronym %} ({{ entity.acronym }}){% endif %}
-      {%- include org-recursive.html parent=entity.title depth=2 -%}
-    </li>
-  {%- endfor -%}
-</ul>
+  {%- if county_children.size > 0 -%}
+    <div class="org-tree">
+      <ul class="org-tree-list">
+        {%- for entity in county_children -%}
+          {%- assign included_urls = included_urls | push: entity.url -%}
+          {% include org-tree.html organization=entity organizations=all %}
+        {%- endfor -%}
+      </ul>
+    </div>
+  {%- else -%}
+    <p>No organizations listed under this heading yet.</p>
+  {%- endif -%}
+</section>
 {%- assign included_urls = included_urls | push: king_county_root.url -%}
 {%- endif -%}
 
@@ -85,82 +100,87 @@ COUNTY
 PUBLIC HOSPITAL DISTRICTS
 {%- endcomment -%}
 {%- if hospital.size > 0 -%}
-<h2>Public Hospital Districts</h2>
-<ul>
-  {%- for entity in hospital -%}
-    {%- assign included_urls = included_urls | push: entity.url -%}
-    <li>
-      <a href="{{ entity.url | relative_url }}">{{ entity.title }}</a>{% if entity.acronym %} ({{ entity.acronym }}){% endif %}
-      {%- include org-recursive.html parent=entity.title depth=2 -%}
-    </li>
-  {%- endfor -%}
-</ul>
+<section class="org-section">
+  <h2>Public Hospital Districts</h2>
+  <div class="org-tree">
+    <ul class="org-tree-list">
+      {%- for entity in hospital -%}
+        {%- assign included_urls = included_urls | push: entity.url -%}
+        {% include org-tree.html organization=entity organizations=all %}
+      {%- endfor -%}
+    </ul>
+  </div>
+</section>
 {%- endif -%}
 
 {%- comment %}
 SPECIAL PURPOSE DISTRICTS
 {%- endcomment -%}
 {%- if special.size > 0 -%}
-<h2>Special Purpose Districts</h2>
-<ul>
-  {%- for entity in special -%}
-    {%- assign included_urls = included_urls | push: entity.url -%}
-    <li>
-      <a href="{{ entity.url | relative_url }}">{{ entity.title }}</a>{% if entity.acronym %} ({{ entity.acronym }}){% endif %}
-      {%- include org-recursive.html parent=entity.title depth=2 -%}
-    </li>
-  {%- endfor -%}
-</ul>
+<section class="org-section">
+  <h2>Special Purpose Districts</h2>
+  <div class="org-tree">
+    <ul class="org-tree-list">
+      {%- for entity in special -%}
+        {%- assign included_urls = included_urls | push: entity.url -%}
+        {% include org-tree.html organization=entity organizations=all %}
+      {%- endfor -%}
+    </ul>
+  </div>
+</section>
 {%- endif -%}
 
 {%- comment %}
 TRIBAL GOVERNMENTS
 {%- endcomment -%}
 {%- if tribal.size > 0 -%}
-<h2>Tribal Governments</h2>
-<ul>
-  {%- for entity in tribal -%}
-    {%- assign included_urls = included_urls | push: entity.url -%}
-    <li>
-      <a href="{{ entity.url | relative_url }}">{{ entity.title }}</a>{% if entity.acronym %} ({{ entity.acronym }}){% endif %}
-      {%- include org-recursive.html parent=entity.title depth=2 -%}
-    </li>
-  {%- endfor -%}
-</ul>
+<section class="org-section">
+  <h2>Tribal Governments</h2>
+  <div class="org-tree">
+    <ul class="org-tree-list">
+      {%- for entity in tribal -%}
+        {%- assign included_urls = included_urls | push: entity.url -%}
+        {% include org-tree.html organization=entity organizations=all %}
+      {%- endfor -%}
+    </ul>
+  </div>
+</section>
 {%- endif -%}
 
 {%- comment %}
 CITIES & TOWNS
 {%- endcomment -%}
 {%- if cities.size > 0 -%}
-<h2>Cities and Towns</h2>
-<ul>
-  {%- for entity in cities -%}
-    {%- assign included_urls = included_urls | push: entity.url -%}
-    <li>
-      <a href="{{ entity.url | relative_url }}">{{ entity.title }}</a>{% if entity.acronym %} ({{ entity.acronym }}){% endif %}
-      {%- include org-recursive.html parent=entity.title depth=2 -%}
-    </li>
-  {%- endfor -%}
-</ul>
+<section class="org-section">
+  <h2>Cities and Towns</h2>
+  <div class="org-tree">
+    <ul class="org-tree-list">
+      {%- for entity in cities -%}
+        {%- assign included_urls = included_urls | push: entity.url -%}
+        {% include org-tree.html organization=entity organizations=all %}
+      {%- endfor -%}
+    </ul>
+  </div>
+</section>
 {%- endif -%}
 
 {%- comment %}
 COMMUNITY-BASED ORGANIZATIONS
 {%- endcomment -%}
 {%- if cbos.size > 0 -%}
-<h2>Community-Based Organizations</h2>
-<ul>
-  {%- for entity in cbos -%}
-    {%- unless included_urls contains entity.url -%}
-      {%- assign included_urls = included_urls | push: entity.url -%}
-      <li>
-        <a href="{{ entity.url | relative_url }}">{{ entity.title }}</a>{% if entity.acronym %} ({{ entity.acronym }}){% endif %}
-        {%- include org-recursive.html parent=entity.title depth=2 -%}
-      </li>
-    {%- endunless -%}
-  {%- endfor -%}
-</ul>
+<section class="org-section">
+  <h2>Community-Based Organizations</h2>
+  <div class="org-tree">
+    <ul class="org-tree-list">
+      {%- for entity in cbos -%}
+        {%- unless included_urls contains entity.url -%}
+          {%- assign included_urls = included_urls | push: entity.url -%}
+          {% include org-tree.html organization=entity organizations=all %}
+        {%- endunless -%}
+      {%- endfor -%}
+    </ul>
+  </div>
+</section>
 {%- endif -%}
 
 {%- comment %}
@@ -182,47 +202,49 @@ OTHER — remove anything whose URL is already included
 {%- capture filtered_others -%}
   {%- for entity in top_others -%}
     {%- unless included_urls contains entity.url -%}
-      <li>
-        <a href="{{ entity.url | relative_url }}">{{ entity.title }}</a>
-        {%- if entity.acronym %} ({{ entity.acronym }}){%- endif -%}
-        {%- if entity.type %} – <em>{{ entity.type }}</em>{%- endif -%}
-        {%- include org-recursive.html parent=entity.title depth=2 -%}
-      </li>
+      {%- assign included_urls = included_urls | push: entity.url -%}
+      {% include org-tree.html organization=entity organizations=all show_type=true %}
     {%- endunless -%}
   {%- endfor -%}
 {%- endcapture -%}
 
-{%- if filtered_others contains "<li>" -%}
-<h2>Other</h2>
-<ul>
-  {{ filtered_others }}
-</ul>
+{%- if filtered_others contains "org-tree-item" -%}
+<section class="org-section">
+  <h2>Other</h2>
+  <div class="org-tree">
+    <ul class="org-tree-list">
+      {{ filtered_others }}
+    </ul>
+  </div>
+</section>
 {%- endif -%}
 
 <style>
-  ul {
-    list-style-type: disc;
-    padding-left: 1.5rem;
-    margin-bottom: 1.5rem;
-  }
-
-  ul ul {
-    margin-top: 0.3em;
-    margin-bottom: 0.3em;
-  }
-
-  h2 {
-    margin-top: 2rem;
-    border-bottom: 1px solid #ccc;
-    padding-bottom: 0.2em;
-  }
-
-  h2 a {
-    text-decoration: none;
-    color: inherit;
-  }
-
-  h2 a:hover {
-    color: #0366d6;
-  }
+.org-section {
+  margin-bottom: 2rem;
+}
+.org-section h2 {
+  margin-bottom: 0.5rem;
+}
+.org-tree-list {
+  list-style: none;
+  margin: 0;
+  padding-left: 1rem;
+}
+.org-tree-list > li {
+  margin-bottom: 0.35rem;
+}
+.org-tree-item > a {
+  font-weight: 600;
+  text-decoration: none;
+}
+.org-tree-item > a:hover {
+  text-decoration: underline;
+}
+.org-tree-list ul {
+  margin-top: 0.25rem;
+  margin-bottom: 0.25rem;
+  padding-left: 1rem;
+  border-left: 1px solid #eee;
+}
 </style>
