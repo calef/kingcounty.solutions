@@ -46,7 +46,6 @@ original_content: |-
   The post [Honoring Our 2025 Mental Health Champions: Senator Manka Dhingra and Congressman Adam Smith](https://nami-eastside.org/honoring-our-2025-mental-health-champions-senator-manka-dhingra-and-congressman-adam-smith/) first appeared on [Nami-Eastside WA](https://nami-eastside.org).
 
   The post [Honoring Our 2025 Mental Health Champions: Senator Manka Dhingra and Congressman Adam Smith](https://nami-eastside.org/honoring-our-2025-mental-health-champions-senator-manka-dhingra-and-congressman-adam-smith/) appeared first on [Nami-Eastside WA](https://nami-eastside.org).
-content_checksum: d886cc48e118c7a1670aef71453d13651f23f73392ad5ed7100878fb45b5ef99
 summarized: true
 ---
 

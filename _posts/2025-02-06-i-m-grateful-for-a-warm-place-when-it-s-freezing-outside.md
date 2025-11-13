@@ -42,7 +42,6 @@ original_content: "![](https://sophiaway.org/wp-content/uploads/2025/02/Image-bl
   Way a place of hope and healing, especially when it is needed most.\n\n> \n\nThe
   post [“I’m grateful for a warm place when it’s freezing outside.”](https://sophiaway.org/winter-care/)
   first appeared on [The Sophia Way](https://sophiaway.org)."
-content_checksum: 6199d444362aa4feec18873d54e53f855d11c9d78e7840170afc59092a5c47d2
 summarized: true
 ---
 

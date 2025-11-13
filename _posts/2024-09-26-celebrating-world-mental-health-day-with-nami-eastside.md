@@ -65,7 +65,6 @@ original_content: "**World Mental Health Day is a reminder of the power we all h
   first appeared on [Nami-Eastside WA](https://nami-eastside.org).\n\nThe post [Celebrating
   World Mental Health Day with NAMI Eastside](https://nami-eastside.org/worldmentalhealthday/)
   appeared first on [Nami-Eastside WA](https://nami-eastside.org)."
-content_checksum: bd067b9e360f59aa0e617e04ec92ee13e28957b933289a0ca8e95b2b8fa927c1
 summarized: true
 ---
 

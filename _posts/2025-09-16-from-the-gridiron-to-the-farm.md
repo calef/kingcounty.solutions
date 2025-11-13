@@ -48,7 +48,6 @@ original_content: "## **From the Gridiron to the Farm:** \n\n### **Meet Jason Br
   => {\n\t\t\tlet article = document.querySelector('.block3787034518108698');\n\n\t\t\tarticle.querySelectorAll('a').forEach(elm
   => {\n\t\t\t\tif (!elm.href.search(/^(http).+(hopelink.com).+$/)) {\n\t\t\t\t\telm.target
   = '_blank';\n\t\t\t\t\telm.title = 'Opens in a new tab';\n\t\t\t\t}\n\t\t\t});\n\t\t})();\n\t</script>"
-content_checksum: 7b90ff607a6077bf146b78184e7239bc5b128232d8f2234aa2ca92ce72397bb4
 summarized: true
 ---
 

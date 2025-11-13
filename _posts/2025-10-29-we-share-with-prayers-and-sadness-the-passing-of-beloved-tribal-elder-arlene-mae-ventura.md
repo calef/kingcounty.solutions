@@ -8,7 +8,6 @@ original_content: "We share with prayers and sadness&nbsp;the passing of a belov
   Tribal Elder\n\n# Arlene Mae Ventura\n\nSunrise: 8/5/1942 Sunset: 10/29/2025\n\nWe
   will share additional information when it is available.  \nOut of respect and according
   to our policy, tribal flags are flying at half-staff.\n\n&nbsp;\n\n[![](https://snoqualmietribe.us/wp-content/uploads/2025/10/Arlene-Ventura-700x587.png)](https://snoqualmietribe.us/wp-content/uploads/2025/10/Arlene-Ventura.png)\n\n&nbsp;\n\n&nbsp;\n\n&nbsp;\n\n&nbsp;"
-content_checksum: 43e96a57a35d43eaed3e577792005638c4c762f95dedde9e654913a14d4ee44e
 summarized: true
 ---
 

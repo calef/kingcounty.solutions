@@ -68,7 +68,6 @@ original_content: "![](https://encompassnw.org/wp-content/uploads/2025/09/Confid
   more or register: [https://bit.ly/3I3dJFe](https://bit.ly/3I3dJFe)**\n\nThe post
   [Confidence Camp: Back-to-School Edition](https://encompassnw.org/confidence-camp-back-to-school-edition/)
   first appeared on [Encompass](https://encompassnw.org)."
-content_checksum: 010b41781509865958d70341d887e8764cb30a181153463307a5a5cf5a8d7aef
 summarized: true
 ---
 

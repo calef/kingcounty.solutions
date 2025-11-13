@@ -83,7 +83,6 @@ original_content: |-
   52. Sung Yang, former Chief of Staff to King County Executive Dow Constantine
 
   Ferguson’s transition work has already begun, starting with last week’s announcement of his executive leadership team. Christian Sinderman will serve as Transition Coordinator. The Transition Team will meet for the first time on Friday, November 22. Updates will be shared with the public regularly as the process unfolds.
-content_checksum: 0ce83c4b7dc58d83d26e1cd6a72f6b90bda07b995700d4d69b76cc49956dd015
 summarized: true
 ---
 

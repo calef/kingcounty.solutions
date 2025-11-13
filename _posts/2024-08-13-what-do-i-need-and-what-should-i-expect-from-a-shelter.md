@@ -57,7 +57,6 @@ original_content: "There are many reasons people need to find shelters; for exam
   phoneline available 24/7).\n\nThe post [What do I need and what should I expect
   from a shelter?](https://www.crisisconnections.org/what-do-i-need-and-what-should-i-expect-from-a-shelter/)
   appeared first on [Crisis Connections](https://www.crisisconnections.org)."
-content_checksum: e1c6d8a18c95ac6e8496d0efefb351a4817df09a90c65522837f2459b80c3f11
 summarized: true
 ---
 

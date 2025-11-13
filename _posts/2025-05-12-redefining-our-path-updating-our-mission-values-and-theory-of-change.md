@@ -80,7 +80,6 @@ original_content: "## Redefining Our Path: Updating Our Mission, Values, and The
   and the lived experiences of our community. By centering our clients and challenging
   the systems that sustain poverty, we’re building a path forward that meets immediate
   needs while driving long-term, systemic change."
-content_checksum: 8e708b7cbbff32d1cd930bc7b70f444e14c99b84486cf24d6c8abcf44a179c10
 summarized: true
 ---
 

@@ -9,7 +9,6 @@ original_content: |-
   Additional details about this process will be made available later this month if needed.
 
   [Washington DSHS FAQ on SNAP Benefits During Federal Government Shutdown (PDF)](https://snoqualmietribe.us/wp-content/uploads/2025/10/FINAL_Client_FAQ_Federal_Shutdown_SNAP-Gov.pdf)
-content_checksum: fee0428b2a1ca7cfa4f76219ff137630265003f01ecc2c8a23488df5db7ffafc
 summarized: true
 ---
 

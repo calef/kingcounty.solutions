@@ -9,7 +9,6 @@ original_content: "Service Details for Arlene Ventura\n\nWednesday, November 5th
   be open\n\nThursday, November 6th  \n10am Funeral Service, Snoqualmie Casino & Hotel
   Ballroom  \n12:30pm Graveside Service , Fall City Cemetary  \n2pm-6pm Community
   Meal and Remembrance Programming,  \nSnoqualmie Casino & Hotel Ballroom\n\n[![](https://snoqualmietribe.us/wp-content/uploads/2025/10/Service-Details-Arlene-Ventura-700x587.png)](https://snoqualmietribe.us/wp-content/uploads/2025/10/Service-Details-Arlene-Ventura.png)"
-content_checksum: a3be27ab115fa1efc643aaf61d365680b13d1c2d763ac1ccb0499332d7612f84
 summarized: true
 ---
 

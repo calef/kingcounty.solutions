@@ -25,7 +25,6 @@ original_content: |-
   Last but certainly not least, do check out our [2023 Annual Report](https://indd.adobe.com/view/dba83a92-8890-4501-b626-938380a50425), recently presented to the KCLS Board of Trustees and now available online. It tells the story of a busy and impactful year, highlighting important milestones, initiatives and the many ways we serve the public through popular programs, resources and our commitment to building communities.
 
   Enjoy summer­ and all that your local library has to offer.
-content_checksum: 461ec5d695b70f99cdef3d17f2ecf0e77f9cfcfd24144ed1e6eeb00f164b5750
 summarized: true
 ---
 

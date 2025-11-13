@@ -107,7 +107,6 @@ original_content: "## **Hopelink & King County Metro Expand Community Van** &nbs
   are welcome to apply as a driver. Drivers must meet criteria and complete training
   to be eligible and ride free for all trips when driving._ [_Click here_](https://www.hopelink.org/programs/mobility-management/community-van/)
   _to explore riding, volunteering, or booking options!&nbsp;_&nbsp;"
-content_checksum: f8639b6648e0b79cf20d43ecdffd6927a64677e8475c0109ff85ad42f6790b59
 summarized: true
 ---
 

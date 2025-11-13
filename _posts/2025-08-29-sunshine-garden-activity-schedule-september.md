@@ -17,7 +17,6 @@ original_content: |-
   &nbsp;
 
   The post [Sunshine Garden Activity Schedule – September](https://cisc-seattle.org/sunshine-garden-activity-schedule-september/) appeared first on [Chinese Information and Service Center](https://cisc-seattle.org).
-content_checksum: ae28f916cddc5f5b6420dc5962fb97950fbe85184bc997b2a3e0e7821e973b03
 summarized: true
 ---
 

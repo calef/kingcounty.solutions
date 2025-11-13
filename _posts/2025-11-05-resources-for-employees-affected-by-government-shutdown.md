@@ -4,7 +4,6 @@ date: '2025-11-05T03:23:00+00:00'
 source: City of Des Moines
 source_url: https://www.desmoineswa.gov/cms/One.aspx?portalId=17385088&pageId=21048211
 original_content: ''
-content_checksum: e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855
 summarized: true
 ---
 

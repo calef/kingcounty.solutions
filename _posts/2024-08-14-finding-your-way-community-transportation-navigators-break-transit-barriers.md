@@ -111,7 +111,6 @@ original_content: "## **Finding Your Way**\n\n### **Community Transportation Nav
   = document.querySelector('.block889308362667896');\n\n\t\t\tarticle.querySelectorAll('a').forEach(elm
   => {\n\t\t\t\tif (!elm.href.search(/^(http).+(hopelink.com).+$/)) {\n\t\t\t\t\telm.target
   = '_blank';\n\t\t\t\t\telm.title = 'Opens in a new tab';\n\t\t\t\t}\n\t\t\t});\n\t\t})();\n\t</script>"
-content_checksum: 63aa25694eddb8cd97cb92d845c10c9d3ebf244e6d2a4301cb74948f808e383e
 summarized: true
 ---
 

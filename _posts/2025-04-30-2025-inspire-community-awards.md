@@ -47,7 +47,6 @@ original_content: |-
   &nbsp;
 
   The post [2025 Inspire Community Awards](https://encompassnw.org/inspire-community-awards-2025/) first appeared on [Encompass](https://encompassnw.org).
-content_checksum: 64a9bcbde1d419fb8647f74dc4bff29a4a3ecde1dbce65df9e38a2c80a20ce47
 summarized: true
 ---
 

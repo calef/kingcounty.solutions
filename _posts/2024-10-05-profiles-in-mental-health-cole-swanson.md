@@ -143,7 +143,6 @@ original_content: |-
   The post [Profiles in Mental Health: Cole Swanson](https://nami-eastside.org/profiles-cole/) first appeared on [Nami-Eastside WA](https://nami-eastside.org).
 
   The post [Profiles in Mental Health: Cole Swanson](https://nami-eastside.org/profiles-cole/) appeared first on [Nami-Eastside WA](https://nami-eastside.org).
-content_checksum: a1282457fb8a65a462f3703f0059623d82e937cfe6799aee6ad56b45ccc77c0b
 summarized: true
 ---
 

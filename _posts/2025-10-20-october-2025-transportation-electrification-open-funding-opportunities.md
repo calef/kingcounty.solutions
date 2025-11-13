@@ -34,7 +34,6 @@ original_content: "[U.S. DOE – Advanced Technology Vehicles Manufacturing Loan
   reduce toxic diesel emissions from diesel vehicles, engines, and equipment in Washington.\n-
   **Total funding amount:** Approximately $25 million.\n- **Application due date:**
   January 8, 2026"
-content_checksum: 05cdc07bc314275632e21a4712af0e7de7297846e2fc4279eb2c28704603f000
 summarized: true
 ---
 

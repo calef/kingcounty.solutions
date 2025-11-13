@@ -9,7 +9,6 @@ original_content: |-
   Please use the below link to download the original PDF to read the letter.
 
   [Download the letter (PDF format)](https://snoqualmietribe.us/wp-content/uploads/2025/10/Federal-Shutdown-Letter-to-Membership.pdf)
-content_checksum: 2aff2388a32af9ee6c8e701ecd7889e6a4e50023cdad3afc36eb90bfcdd7fe5a
 summarized: true
 ---
 

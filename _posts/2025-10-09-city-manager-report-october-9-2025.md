@@ -8,7 +8,6 @@ original_content: 'Fall Checklist: Prevent Flooding and Protect Our Environment.
   tasks for homeowners. Taking small actions now can make a big difference in preventing
   flooding and protecting our local waterways. Here are a few simple steps to get
   your property ready for the season:'
-content_checksum: ac67ff7366acafe443924d97da8f39583312838cda8b41ba84cf9aa2a27e24e0
 summarized: true
 ---
 

@@ -16,7 +16,6 @@ original_content: "https://www.youtube.com/embed/cWD-WAX7zyo?feature=oembed\n\nT
   206-296-VOTE (8683).\n\nThe post [View the 2025 Tukwila Video Voters’ Guide for
   the November 4th Election](https://www.tukwilawa.gov/view-the-2025-tukwila-video-voters-guide-for-the-november-4th-election/)
   appeared first on [City of Tukwila](https://www.tukwilawa.gov)."
-content_checksum: d556031f1307708f64990bac9625353e188679fd981c14157bc98950c3411c31
 summarized: true
 ---
 

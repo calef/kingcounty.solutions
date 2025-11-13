@@ -38,7 +38,6 @@ original_content: "[![](https://empoweryouthnetwork.org/wp-content/uploads/legac
   there are no barriers to his mentoring and it fits easily into his life.\n\nHelp
   us get a head start on our Back-to-School Challenge, and [apply to become a mentor
   today](https://empoweryouthnetwork.org/youth-success-mentoring/)!"
-content_checksum: e285bb870703416156febf832eb7ae425296ae74d700c719eb74bf9a2bac74c6
 summarized: true
 ---
 

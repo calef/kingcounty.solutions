@@ -37,7 +37,6 @@ original_content: |-
   It can be really overwhelming to deal with laws that are new to you or inaccessible to you; we want to support you and make the process a little easier. You are not alone!
 
   The post [How to get connected to legal support in your preferred language](https://www.crisisconnections.org/how-to-get-connected-to-legal-support-in-your-preferred-language/) appeared first on [Crisis Connections](https://www.crisisconnections.org).
-content_checksum: afdf4cdd8c8977186d2056739eab3fe4d918fb9c910778eacf5a0f9d9b08632c
 summarized: true
 ---
 

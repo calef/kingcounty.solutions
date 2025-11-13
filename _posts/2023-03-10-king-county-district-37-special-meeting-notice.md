@@ -13,7 +13,6 @@ original_content: |-
   [![Share](https://static.addtoany.com/buttons/favicon.png)](https://www.addtoany.com/share#url=https%3A%2F%2Fpugetsoundfire.org%2Fpsfra%2Fking-county-district-37-special-meeting-notice%2F&title=King%20County%20District%20%2337%20Special%20Meeting%20Notice)
 
   The post [King County District #37 Special Meeting Notice](https://pugetsoundfire.org/psfra/king-county-district-37-special-meeting-notice/) first appeared on [Puget Sound Regional Fire Authority](https://pugetsoundfire.org).
-content_checksum: 6379b741100d7ece24bc74833457a221e64353a6bb9010ddf7e23b50050e0a81
 summarized: true
 ---
 

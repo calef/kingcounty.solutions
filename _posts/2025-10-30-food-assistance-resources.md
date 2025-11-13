@@ -383,7 +383,6 @@ original_content: "## Additional Food Resources\n\n![Hopelink Food Resources 10.
   defer>\n\t\t(() => {\n\t\t\tlet article = document.querySelector('.block8816230550032');\n\n\t\t\tarticle.querySelectorAll('a').forEach(elm
   => {\n\t\t\t\tif (!elm.href.search(/^(http).+(hopelink.com).+$/)) {\n\t\t\t\t\telm.target
   = '_blank';\n\t\t\t\t\telm.title = 'Opens in a new tab';\n\t\t\t\t}\n\t\t\t});\n\t\t})();\n\t</script>"
-content_checksum: dc5395d20fd2dc52d7c628246b3bfc38f510cdc324d73ec912708cc78c82ca8f
 summarized: true
 ---
 

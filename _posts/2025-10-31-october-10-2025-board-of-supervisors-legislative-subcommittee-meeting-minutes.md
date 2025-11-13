@@ -4,7 +4,6 @@ date: '2025-10-31T16:38:16+00:00'
 source: King Conservation District
 source_url: https://kingcd.org/october-10-2025-board-of-supervisors-legislative-subcommittee-meeting-minutes/
 original_content: 2025\_10\_07 KCD Legislative Meeting Minutes
-content_checksum: 2b0c1a6b5106cd3813492975178badc83f76c48415b419cf01d3cd040b2b18ba
 summarized: true
 ---
 

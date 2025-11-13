@@ -127,7 +127,6 @@ original_content: "## **Looking back on Lend a Hoping Hand 2023** &nbsp;\n\nRigh
   \"A Community Comes Through 17\")\n\n![NeuroStim Logo Cropped](https://www.hopelink.org/wp-content/uploads/2023/11/NeuroStim_Logo_Cropped.png
   \"A Community Comes Through 18\")\n\n![Whole Foods Logo](https://www.hopelink.org/wp-content/uploads/2023/11/WholeFoodsLogo.png
   \"A Community Comes Through 19\")"
-content_checksum: 31a2181f2861ccb4bafd1785a38d98f3f0388270b45982f86281e4f4373cfd50
 summarized: true
 ---
 

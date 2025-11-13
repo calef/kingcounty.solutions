@@ -56,7 +56,6 @@ original_content: "**Seattle, WA** – Suicide is in the news a lot these days, 
   2019, http://www.askhys.net/.\n\nThe post [Youth Suicide Prevention: How do we help
   teens in crisis?](https://www.crisisconnections.org/youth-suicide-prevention/) appeared
   first on [Crisis Connections](https://www.crisisconnections.org)."
-content_checksum: 2afd32e9d63925774593e79e4754f49b07d65dd9450926c83daa99fceeec8a62
 summarized: true
 ---
 

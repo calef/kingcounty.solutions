@@ -15,7 +15,6 @@ original_content: |-
   If you’re interested, learn more and sign up on our website: [elap.org/pro-bono](http://elap.org/pro-bono).
 
   The post [High need for family law attorneys](https://elap.org/high-need-for-family-law-attorneys/) appeared first on [Eastside Legal Assistance Program](https://elap.org).
-content_checksum: 4116c43eeeedb47435a9f62755d7a2c8f6ae4232b711771a59ea022856b27fb4
 summarized: true
 ---
 

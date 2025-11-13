@@ -8,7 +8,6 @@ original_content: |-
   Seattle’s Marginalized Communities and People of Color Need to Feel Safe and Respected by Seattle Police Department BELLEVUE, Wash. (September 18, 2023) – Indian American Community Services (IACS) is deeply [...]
 
   [Read More... from IACS Initiates Petition to Oversee Police Actions Against People of “Limited Value”](https://iacswa.org/iacs-initiates-petition-to-oversee-police-actions-against-people-of-limited-value/)
-content_checksum: c44df33d48f4612d2a43aacf2161cadbb22dcfd61ddc7cfc81ff0a7f2b6ffb5d
 summarized: true
 ---
 

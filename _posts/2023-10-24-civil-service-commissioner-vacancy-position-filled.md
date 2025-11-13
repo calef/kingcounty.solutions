@@ -13,7 +13,6 @@ original_content: |-
   [![Share](https://static.addtoany.com/buttons/favicon.png)](https://www.addtoany.com/share#url=https%3A%2F%2Fpugetsoundfire.org%2Fpsfra%2Fcivil-service-commissioner-vacancy%2F&title=Civil%20Service%20Commissioner%20Vacancy%20%28Position%20Filled%29)
 
   The post [Civil Service Commissioner Vacancy (Position Filled)](https://pugetsoundfire.org/psfra/civil-service-commissioner-vacancy/) first appeared on [Puget Sound Regional Fire Authority](https://pugetsoundfire.org).
-content_checksum: aba772fdfc013a479de5b1104ce2a8a7807b3b9ec0582180477c7c9a98043cda
 summarized: true
 ---
 

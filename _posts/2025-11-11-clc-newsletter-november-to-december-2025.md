@@ -13,7 +13,6 @@ original_content: |-
   &nbsp;
 
   The post [CLC Newsletter – November to December 2025](https://cisc-seattle.org/clc-newsletter-november-to-december-2025/) appeared first on [Chinese Information and Service Center](https://cisc-seattle.org).
-content_checksum: 75fcd704dc6b4aa836209b3012ec5d9e109b0d56e36a7fa61793877e3518d9b2
 summarized: true
 ---
 

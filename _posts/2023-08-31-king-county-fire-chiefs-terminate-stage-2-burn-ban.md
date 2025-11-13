@@ -9,7 +9,6 @@ original_content: |-
   [![Share](https://static.addtoany.com/buttons/favicon.png)](https://www.addtoany.com/share#url=https%3A%2F%2Fpugetsoundfire.org%2Fpsfra%2Fking-county-fire-chiefs-terminate-stage-2-burn-ban%2F&title=King%20County%20Fire%20Chiefs%20Terminate%20Stage%202%20Burn%20Ban)
 
   The post [King County Fire Chiefs Terminate Stage 2 Burn Ban](https://pugetsoundfire.org/psfra/king-county-fire-chiefs-terminate-stage-2-burn-ban/) first appeared on [Puget Sound Regional Fire Authority](https://pugetsoundfire.org).
-content_checksum: 437cc1d0d9d321fed34802fb8d3b7f5a16f276b976188807ba7153847dc90ba2
 summarized: true
 ---
 

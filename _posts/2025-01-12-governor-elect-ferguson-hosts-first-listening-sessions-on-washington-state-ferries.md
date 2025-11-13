@@ -37,7 +37,6 @@ original_content: "Governor-elect Ferguson hosts first listening sessions on Was
   Ferguson’s planned outreach and engagement to ferry-impacted communities. He will
   visit San Juan County later in 2025.\n\nFerguson will be sworn in on January 15,
   2025."
-content_checksum: 7f0ac946e0b63120376bc839fe3f3dc0b55a1850d8eab025e4fefcf52b11fce9
 summarized: true
 ---
 

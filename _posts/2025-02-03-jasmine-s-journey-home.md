@@ -15,7 +15,6 @@ original_content: |-
   Jasmine is no longer living in her car; she has a home and she couldn’t be happier!
 
   The post [Jasmine’s Journey Home!](https://sophiaway.org/jasmines-journey-home/) first appeared on [The Sophia Way](https://sophiaway.org).
-content_checksum: 6cd2cb04f17b8b52d422abf7e6f15b40986da0a4123c6c479e5ad8dd4f1883d7
 summarized: true
 ---
 

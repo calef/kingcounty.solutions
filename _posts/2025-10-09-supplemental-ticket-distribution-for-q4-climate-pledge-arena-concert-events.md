@@ -36,7 +36,6 @@ original_content: |-
   | Desiree Jai Weese | |
   | | |
   | Thomas Zackuse | Heart Sun • Nov 23, 2025 • 07:00 PM |
-content_checksum: 8823a48dade7ea2fe3877c389fa32841a3452d1a5888031c38fd706bb272d760
 summarized: true
 ---
 

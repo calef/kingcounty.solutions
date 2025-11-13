@@ -27,7 +27,6 @@ original_content: |-
   ![Dorene Cornwall explains Hopelink's Find a Ride trip planner service](https://www.hopelink.org/wp-content/uploads/2024/01/Picture9-1024x766.jpg "Dorene Cornwall explains Hopelink's Find a Ride trip planner service ")
 
   Find a Ride’s trip planner is recruiting for user testing through February 2024. Visit&nbsp;[FindARide.org](https://www.findaride.org/)&nbsp;to sign-up to provide feedback, and the chance to win a $50 gift card. Your feedback will help create a program that delivers an accessible trip planning experience. For more information, e-mail FindARide@Hopelink.org or call&nbsp;425-943-6760&nbsp;and press 3. Learn more about Find a Ride’s program roadmap on our&nbsp;[project website](https://www.kcmobility.org/ococ).
-content_checksum: 064e348759e88aa9c1e339169ddbf60ec26d973c2f01774b91731b0d6d5207ba
 summarized: true
 ---
 

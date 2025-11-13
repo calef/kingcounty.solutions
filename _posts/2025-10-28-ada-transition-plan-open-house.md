@@ -6,7 +6,6 @@ source_url: https://www.burienwa.gov/cms/One.aspx?portalId=11046019&pageId=20801
 original_content: "![](https://www.burienwa.gov/UserFiles/Servers/Server_11045935/Image/Featured_Events/2025/ADA%20Transition%20Plan%20Update%20-%20FE.png)Join
   the City of Burien's Public Works team to discuss pedestrian mobility and share
   what is most important to you."
-content_checksum: 23dbd762576753d862dcdc50757baf85a891d9a1716664e097c95fa6004b4f17
 summarized: true
 ---
 

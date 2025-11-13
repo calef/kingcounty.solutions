@@ -191,7 +191,6 @@ original_content: |-
   Mike Pusich | Nominated by&nbsp;Max Harrison
 
   _ **Thank you all for your incredible volunteer work!** _
-content_checksum: a7e1ff63b11d3ab46c1270ee43f5816a6a500b3310d2efb75fdd3efa3d8f2956
 summarized: true
 ---
 

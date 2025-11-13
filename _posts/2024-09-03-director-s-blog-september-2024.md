@@ -31,7 +31,6 @@ original_content: |-
   Public libraries have always been sources of trustworthy, impartial information to patrons so they can learn and make their own choices and decisions. With the important general election coming up November 5, KCLS is offering programs to this month and next to increase voter awareness and education. Please check our [website](https://kcls.bibliocommons.com/v2/events?q=Voter%20Registration%20Day) for various event dates and times.
 
   There are so many ways to enjoy September with KCLS. Join us!
-content_checksum: 49fc88ca645cf5086332c832aa02184df8778af412efb15defd252a2f8b2215d
 summarized: true
 ---
 

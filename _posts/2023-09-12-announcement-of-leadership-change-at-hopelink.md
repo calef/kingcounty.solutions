@@ -17,7 +17,6 @@ original_content: |-
   With appreciation,
 
   Geoff Crump, Hopelink Interim CEO
-content_checksum: 02eb6a4f83c0b8e3c7ed4f67574fc20f281ff8d54346ffbc83bccc012ffcfb01
 summarized: true
 ---
 

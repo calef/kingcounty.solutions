@@ -17,7 +17,6 @@ original_content: |-
   If you have any questions, please contact the Valley Regional Fire Authority at 253.288.5800.
 
   The post [Notice-Special Board of Governance Meeting](https://www.vrfa.org/2025/10/notice-special-board-of-governance-meeting/) appeared first on [Valley Regional Fire Authority (VRFA)](https://www.vrfa.org).
-content_checksum: 40b969b801a59e6155aeea5038fc848bf08f453092ba37a309e04843af86c83b
 summarized: true
 ---
 

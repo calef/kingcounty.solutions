@@ -22,7 +22,6 @@ original_content: "![](https://sophiaway.org/wp-content/uploads/2025/01/NL-image
   and strengthen my self-worth. They provided support and a sense of belonging. They
   made me realize that I do matter!”  \n> – Rachel\n\n> \n\nThe post [Gratitude](https://sophiaway.org/gratitude-ny/)
   first appeared on [The Sophia Way](https://sophiaway.org)."
-content_checksum: f4e179fcc7e4fa8c074e46a7f02a39e6d7810c1765dd49d56156d9ac9ddf5d0b
 summarized: true
 ---
 

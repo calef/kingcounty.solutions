@@ -59,7 +59,6 @@ original_content: "Gov. Bob Ferguson creates rapid response team to support chil
   caregivers deported or detained.\n\nThe Family Separation Rapid Response Team will
   be in regular contact with the Governor’s Office to share its findings and recommendations
   as work progresses."
-content_checksum: d5d09ea1c98b025d452d3ad835150101fda772d674899f841b3a740abd28636a
 summarized: true
 ---
 

@@ -19,7 +19,6 @@ original_content: |-
   This month, and every month, we honor the Snoqualmie Tribe and Native peoples everywhere for their resilience, leadership, and commitment to community.
 
   The post [Celebrating Native American Heritage Month](https://snoqualmievalleyhealth.org/native-american-heritage-month/) appeared first on [Snoqualmie Valley Hospital](https://snoqualmievalleyhealth.org).
-content_checksum: f88428940aa7f357164bc80c869adc8263ffdf55031918955ac005d1162d903d
 summarized: true
 ---
 

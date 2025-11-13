@@ -72,7 +72,6 @@ original_content: |-
   ## Ferguson on revenue
 
   “Washingtonians expect that we will increase revenue as a last resort,” Ferguson said. “I will not start contemplating additional revenue options until we have exhausted efforts to improve efficiency.”
-content_checksum: 669008c9ddf809cdbc925c538819caf3a1f48d72c4c71dc0d082521b19b33ffc
 summarized: true
 ---
 

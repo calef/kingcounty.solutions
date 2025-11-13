@@ -16,7 +16,6 @@ original_content: 'Improving Cell Service in Normandy Park: City Council and Pla
   areas of the City. Therefore, the most effective way to improve service is to allow
   providers to install additional infrastructure that can overcome these physical
   barriers.'
-content_checksum: cdcb22c9747f4410e1e370b8ac97f9ef4b3279465bd483f4c07a7dbef5b36df8
 summarized: true
 ---
 

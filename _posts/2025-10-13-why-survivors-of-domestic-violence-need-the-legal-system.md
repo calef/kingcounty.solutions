@@ -21,7 +21,6 @@ original_content: "October is Domestic Violence Awareness Month—a time to stan
   and a future free from violence.\n\nThe post [Why survivors of domestic violence
   need the legal system](https://elap.org/why-survivors-of-domestic-violence-need-the-legal-system/)
   appeared first on [Eastside Legal Assistance Program](https://elap.org)."
-content_checksum: c118d672be39b738bb66f973bef444dbf1ed3854feaba00ed4bd5061918c45e4
 summarized: true
 ---
 

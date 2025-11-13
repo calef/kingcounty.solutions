@@ -11,7 +11,6 @@ original_content: |-
   [![Share](https://static.addtoany.com/buttons/favicon.png)](https://www.addtoany.com/share#url=https%3A%2F%2Fpugetsoundfire.org%2Fpsfra%2Fstage-2-burn-ban-effective-august-15-2023%2F&title=Stage%202%20Burn%20Ban%20Effective%20August%2015%2C%202023)
 
   The post [Stage 2 Burn Ban Effective August 15, 2023](https://pugetsoundfire.org/psfra/stage-2-burn-ban-effective-august-15-2023/) first appeared on [Puget Sound Regional Fire Authority](https://pugetsoundfire.org).
-content_checksum: 96ea2113edbbe4c9f5f56e2ed5125e3aa60291b0490013b03b4ca589dafde02f
 summarized: true
 ---
 

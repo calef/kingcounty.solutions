@@ -31,7 +31,6 @@ original_content: |-
   Call the Pro Shop at&nbsp;206-242-4221&nbsp;to sign up!
 
   The post [Twice the Fun at Foster Golf Links July 25th](https://www.tukwilawa.gov/twice-the-fun-at-foster-golf-links-july-25th/) appeared first on [City of Tukwila](https://www.tukwilawa.gov).
-content_checksum: 1c207b6556c1addf85e30220528b48c2ca5d1146d1b778651bc73f6eb3d95547
 summarized: true
 ---
 

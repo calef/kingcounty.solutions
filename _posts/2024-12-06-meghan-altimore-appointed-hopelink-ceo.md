@@ -32,7 +32,6 @@ original_content: |-
   She’s an Advisory Board Member for Eastside Housing Roundtable and previously served as a board member with [KidVantage (FKA Eastside Baby Corner)](https://kidvantagenw.org/) and the Housing Development Consortium, as well as a Commissioner with the City of Issaquah’s Planning and Policy Commission.
 
   Meghan lives in Issaquah with Pat, her husband of 32 years, and their beloved Bernedoodle puppy, Peach. The couple have two adult children, Ally, currently living and working in Seattle after attending Colorado State University, and Sam, a student at Western Washington University.
-content_checksum: c933b2c4322ef24b68c52ef9da27e2427831b50006eebc563ec64aec304804d2
 summarized: true
 ---
 

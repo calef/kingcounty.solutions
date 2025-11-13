@@ -7,7 +7,6 @@ original_content: |-
   Title of Blog Post Paragraph Paragraph Paragraph Paragraph Paragraph Paragraph Paragraph Back to Blog Articles [...]
 
   [Read More... from Title of Blog Post](https://iacswa.org/blog-template/)
-content_checksum: a6830fc4b0e35b9fdf58272da93f9accebd4f11abb3f42e3d2d90198b07c9b3b
 summarized: true
 ---
 

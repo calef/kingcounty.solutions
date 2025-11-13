@@ -29,7 +29,6 @@ original_content: |-
   Expert neurology care is available close to home. Call Snoqualmie Valley Health at (425) 831-2313 to schedule a visit with Dr. Jimmy Young today.
 
   The post [Expert Epilepsy and Seizure Care Now Available at Snoqualmie Valley Hospital](https://snoqualmievalleyhealth.org/expert-epilepsy-and-seizure-care-now-available-at-snoqualmie-valley-hospital/) appeared first on [Snoqualmie Valley Hospital](https://snoqualmievalleyhealth.org).
-content_checksum: ed1b9c49ecdbc6bd47fc17a945f061afe0e41716f1db86944c18d90de1b5cecb
 summarized: true
 ---
 

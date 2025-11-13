@@ -11,7 +11,6 @@ original_content: |-
   &nbsp;
 
   The post [Sunshine Garden Activity Schedule – June](https://cisc-seattle.org/sunshine-garden-activity-schedule-june/) appeared first on [Chinese Information and Service Center](https://cisc-seattle.org).
-content_checksum: f4009014ddab766335c571e84245f68075b7f2379ba229b1259fd45c0d8bccd6
 summarized: true
 ---
 

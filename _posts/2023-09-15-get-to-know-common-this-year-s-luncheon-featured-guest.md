@@ -25,7 +25,6 @@ original_content: |-
   Besides getting to mingle with others who share the dedication to end poverty in our region, a delicious complementary meal, and getting to see the collaboration between Hopelink and Common come to life – you’ll get a unique insight into Hopelink’s work.
 
   If you want more details, you’ll just have to **[register](https://fundraise.hopelink.org/event/reaching-out-luncheon-2023/e490909)** and then wait and see for all the excitement we have in store! Reaching Out Luncheon is truly a magical reunion for our whole community, and whether this year is your first or your fifth time attending, we guarantee you’ll come away energized and inspired.
-content_checksum: 0fa6c0ca91a879cec1ebc30a645a2b8b1f3ea804f3df11d4ae78e995fea260aa
 summarized: true
 ---
 

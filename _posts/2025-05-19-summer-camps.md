@@ -13,7 +13,6 @@ original_content: |-
   &nbsp;
 
   The post [Summer Camps](https://www.carnationwa.gov/summer-camps/) appeared first on [Carnation, WA](https://www.carnationwa.gov).
-content_checksum: 0103e6b04ebb49a99d06b380fa0d2cbf1e26608f01ee10155257cc6e6c677aea
 summarized: true
 ---
 

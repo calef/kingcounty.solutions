@@ -44,7 +44,6 @@ original_content: "**Notice: Town Council Vacancy**\n\n[Application for Appointm
   it is a public record. Application materials received from all candidates who meet
   the minimum requirements of state law will be presented as part of the public meeting
   to select an appointee.\n\nThank you for your interest in serving our community."
-content_checksum: ca6e9bb974741fd72b0df18aa1d7443e185aefc8a6b34a14d725103d79d8e805
 summarized: true
 ---
 

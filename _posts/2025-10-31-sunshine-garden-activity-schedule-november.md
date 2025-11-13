@@ -19,7 +19,6 @@ original_content: |-
   &nbsp;
 
   The post [Sunshine Garden Activity Schedule – November](https://cisc-seattle.org/sunshine-garden-activity-schedule-november/) appeared first on [Chinese Information and Service Center](https://cisc-seattle.org).
-content_checksum: 11fbb5d071f4be8369a17f1199c36ff7d7bc52b4fbeedd300d2f97c168f7607c
 summarized: true
 ---
 

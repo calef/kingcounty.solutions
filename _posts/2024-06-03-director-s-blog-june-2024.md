@@ -39,7 +39,6 @@ original_content: |-
   In other news, the Bellevue Library, which has been offering limited services due to construction, will reopen with full services on June 8.
 
   As you can see, there is so much to enjoy this month—and every month—at KCLS. Join us for the fun!
-content_checksum: c28103edff3c388f13448d7e539cdda50915e67c02af3ffcf1039793b20ec0f3
 summarized: true
 ---
 

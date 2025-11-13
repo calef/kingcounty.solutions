@@ -51,7 +51,6 @@ original_content: |-
   1. **[Join the Circle of Hope](https://www.hopelink.org/ways-to-help/monthly-giving/):&nbsp;**By giving a set amount each month, Circle of Hope members provide sustainable support throughout the year.&nbsp;
 
   To learn more about the growing needs in our region, explore&nbsp;Hopelink’s&nbsp;recently released&nbsp;[2025 Community Needs Assessment](https://www.hopelink.org/wp-content/uploads/2023/03/Hopelink-2025-Community-Needs-Assessment-Report.pdf).&nbsp;
-content_checksum: 419f48cccbdc6d3574fa63ed4c3c4973082497e8f6cd1a56aff21d454ede24ef
 summarized: true
 ---
 

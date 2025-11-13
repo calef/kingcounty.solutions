@@ -41,7 +41,6 @@ original_content: "![Photo of Youth Success Mentors.](https://empoweryouthnetwor
   I get to see my mentee growing up and gaining confidence in himself. He is so smart
   and funny. Just a nice, cool kid.”_\n\nHelp us get a head start on our Back-to-School
   Challenge, and [apply to become a mentor today](https://empoweryouthnetwork.org/youth-success-mentoring/)!"
-content_checksum: b7a742f70250a6d3ba89b4191af11889875800e0d332f1c3fc01edecd12b51e7
 summarized: true
 ---
 

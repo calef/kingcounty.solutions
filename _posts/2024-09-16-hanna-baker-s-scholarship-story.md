@@ -23,7 +23,6 @@ original_content: |-
   As far as Hanna’s advice goes for the next students gearing up to go to college, she mainly wants to encourage them to dedicate time to the process, whether that is sitting down and powering through applications or finding a way to tour schools. She noted that she ended up submitting applications early, so everything was done around Halloween which allowed Hanna to really enjoy the holidays. She was also happy she had visited schools—CSU has been low on her list of choices, but a tour made it her top pick. Despite the occasional stress throughout the process, Hanna felt she “had it pretty easy.” Her parents were able to connect her to an advisor, and she hopes that becomes a more accessible resource for prospective college students.
 
   _Empower Youth Network (EYN) thanks Hanna Baker for all her service over the years to empower youth in Snoqualmie Valley. EYN wishes her all the best in her studies at Colorado State University. Go, Rams!_
-content_checksum: 55ce53f68e3fb9df0431e9ee92563373c9ef8612afcec8b41a3acadb9fef1d6c
 summarized: true
 ---
 

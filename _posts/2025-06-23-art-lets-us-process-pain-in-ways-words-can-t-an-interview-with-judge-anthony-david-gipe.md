@@ -118,7 +118,6 @@ original_content: |-
   The post [“Art Lets us Process Pain in Ways Words Can’t.” An Interview with Judge Anthony David Gipe](https://nami-eastside.org/art-lets-us-process-pain-in-ways-words-cant-an-interview-with-judge-anthony-david-gipe/) first appeared on [Nami-Eastside WA](https://nami-eastside.org).
 
   The post [“Art Lets us Process Pain in Ways Words Can’t.” An Interview with Judge Anthony David Gipe](https://nami-eastside.org/art-lets-us-process-pain-in-ways-words-cant-an-interview-with-judge-anthony-david-gipe/) appeared first on [Nami-Eastside WA](https://nami-eastside.org).
-content_checksum: a3a1f374f4b82d61937e52a806a73fb2b12f71f607ff9880df3c66bbe089de14
 summarized: true
 ---
 

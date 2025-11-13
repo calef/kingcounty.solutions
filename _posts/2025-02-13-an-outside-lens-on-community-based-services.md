@@ -49,7 +49,6 @@ original_content: |-
   **If you are a center provider and would like to learn more about offering Community-Based Services in your program, reach out to** [pediatrictherapy@encompassnw.org](mailto:pediatrictherapy@encompassnw.org).
 
   The post [An Outside Lens on Community-Based Services](https://encompassnw.org/an-outside-lens-on-community-based-services/) first appeared on [Encompass](https://encompassnw.org).
-content_checksum: 478f129e5b3545478057aab0f4b051980b5cbf292c3fdc056bffc632c8c6975f
 summarized: true
 ---
 

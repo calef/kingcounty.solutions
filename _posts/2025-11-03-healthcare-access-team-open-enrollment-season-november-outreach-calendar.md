@@ -19,7 +19,6 @@ original_content: |-
   &nbsp;
 
   The post [Healthcare Access Team Open enrollment season – November outreach calendar](https://cisc-seattle.org/healthcare-access-team-open-enrollment-season-november-outreach-calendar/) appeared first on [Chinese Information and Service Center](https://cisc-seattle.org).
-content_checksum: 3330a6c39d242a85a67dd12362af455667937ccfa0ddf0df254f3166668b5dab
 summarized: true
 ---
 

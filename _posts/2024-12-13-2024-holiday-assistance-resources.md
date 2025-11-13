@@ -135,7 +135,6 @@ original_content: "## 2024 Holiday Assistance Resources\n\n![A family sits down 
   defer>\n\t\t(() => {\n\t\t\tlet article = document.querySelector('.block3654438668732609');\n\n\t\t\tarticle.querySelectorAll('a').forEach(elm
   => {\n\t\t\t\tif (!elm.href.search(/^(http).+(hopelink.com).+$/)) {\n\t\t\t\t\telm.target
   = '_blank';\n\t\t\t\t\telm.title = 'Opens in a new tab';\n\t\t\t\t}\n\t\t\t});\n\t\t})();\n\t</script>"
-content_checksum: fa9e732379bfac562cd198fd9f30caf845a49f3a2a0de3339afa0792d13b52e2
 summarized: true
 ---
 

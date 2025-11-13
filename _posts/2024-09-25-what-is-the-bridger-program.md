@@ -74,7 +74,6 @@ original_content: "![](https://www.crisisconnections.org/wp-content/uploads/2024
   can help you find options near you.&nbsp;&nbsp;\n\nThe post [What is the Bridger
   Program?](https://www.crisisconnections.org/what-is-the-bridger-program/) appeared
   first on [Crisis Connections](https://www.crisisconnections.org)."
-content_checksum: 55c49d456ba14874fce054a1456f0463441e670c2a173a01c8885035172284ce
 summarized: true
 ---
 

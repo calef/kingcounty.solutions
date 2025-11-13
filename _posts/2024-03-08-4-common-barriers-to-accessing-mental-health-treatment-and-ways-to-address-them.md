@@ -104,7 +104,6 @@ original_content: "If you are struggling with your mental health, finding a ther
   Call/Text 866-789-1511&nbsp;&nbsp;\n\n&nbsp;\n\nThe post [4 Common Barriers to Accessing
   Mental Health Treatment and Ways to Address Them&nbsp;&nbsp;](https://www.crisisconnections.org/4-common-barriers-to-accessing-mental-health-treatment-and-ways-to-address-them/)
   appeared first on [Crisis Connections](https://www.crisisconnections.org)."
-content_checksum: af0278a14a2a11e5f1768a0117f1588a426d6d81095dc4c2c07c47bf79d6c128
 summarized: true
 ---
 

@@ -64,7 +64,6 @@ original_content: "**From Mission to Purpose: A Heartfelt Evolution at Encompass
   A commitment to the community.\n\nAnd most of all, it’s a commitment to generations
   to come.\n\nThe post [From Mission to Purpose: A Heartfelt Evolution at Encompass](https://encompassnw.org/from-mission-to-purpose-a-heartfelt-evolution-at-encompass/)
   first appeared on [Encompass](https://encompassnw.org)."
-content_checksum: b292a29a79c961d7ebca837c0589f15ac5527372c94b79cd348321b7d655b012
 summarized: true
 ---
 

@@ -83,7 +83,6 @@ original_content: "Governor Ferguson signs three executive orders moments after 
   — I support your legislation prohibiting the National Guard from other states from
   coming into Washington to advance any president’s agenda without our permission.
   Texas and Montana have adopted similar policies. Washington must join them.”\n\n![Speech](https://content.govdelivery.com/attachments/fancy_images/WAGOV/2025/01/10870130/5943466/dsc07736_crop.jpg)"
-content_checksum: 849a29590be2daf14f18fb1812122040b6e6b95d9c38980ed544527cfa3eec9c
 summarized: true
 ---
 

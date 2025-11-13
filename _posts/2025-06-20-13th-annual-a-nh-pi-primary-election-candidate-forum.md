@@ -11,7 +11,6 @@ original_content: |-
   ![](https://cisc-seattle.org/wp-content/uploads/2025/06/2025-ANHPI-Primary-Election-Candidate-Forum-version-2-791x1024.png)
 
   The post [13th Annual A&NH/PI Primary Election Candidate Forum](https://cisc-seattle.org/13th-annual-anhpi-primary-election-candidate-forum/) appeared first on [Chinese Information and Service Center](https://cisc-seattle.org).
-content_checksum: be33078c52690ffaa9a04b680f86bdcbf7c93f229b65992779a301bf79ae3221
 summarized: true
 ---
 

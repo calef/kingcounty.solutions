@@ -178,7 +178,6 @@ original_content: "[![Photo of 2024 Rise and Shine award recipients.](https://em
   2005. Laura has led the organization through key transitions and has provided the
   positive, collaborative leadership that has given Empower Youth Network its wings.\n\n[soliloquy
   id=”5955″]"
-content_checksum: 95386a85ca91551c569e02d5f1dfaa5f33e89f328f5c7a277bb06d1337129f77
 summarized: true
 ---
 

@@ -40,7 +40,6 @@ original_content: |-
   Please visit the **_[Tukwila Parks & Recreation website](https://www.tukwilawa.gov/departments/parks-and-recreation/)_** or follow us on our social media channels, **_[Facebook](https://www.facebook.com/TukwilaParks)_**, [**_Instagram_**](https://www.instagram.com/tukwilaparks), **_[TikTok](https://www.tiktok.com/@tukwila_parks_recreation)_**, **_[X](https://x.com/tukwilaparks)_**, and **_[Nextdoor](https://nextdoor.com/pages/city-of-tukwila?init_source=copy_link_share)_**.
 
   The post [Tukwila Community Center to Reopen to the Public Thursday, May 29](https://www.tukwilawa.gov/tukwila-community-center-to-reopen-to-the-public-thursday-may-29/) appeared first on [City of Tukwila](https://www.tukwilawa.gov).
-content_checksum: c59ba1dd5b4048a492e78ff1a9f38a15c256d0fab7ab231dc0d71920d5c906c0
 summarized: true
 ---
 

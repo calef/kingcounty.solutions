@@ -38,7 +38,6 @@ original_content: |-
   Your attendance is always encouraged.
 
   Thank you.
-content_checksum: 1a3a275568b37fc24b2083334a9d64d220c2c83a71f8ffaf90b7bb965952797d
 summarized: true
 ---
 

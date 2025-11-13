@@ -21,7 +21,6 @@ original_content: |-
   - [Apply to live at a CCEW property on their housing portal](https://mcas-proxyweb.mcas-gov.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww.housing.cceasternwa.org.mcas-gov.ms%2Fproperties%2F%3FMcasTsid%3D15600&McasCSRF=6662ea2cb013fb4ba8ca227a6715f19ad7c1e071e1b1a87c3029db646613a05a)
 
   Thanks to all who made Dominican Sisters Haven possible!&nbsp;
-content_checksum: 553246e594e0d1cd11d0b8180623e46651cd4a2c3e43b08ab86c818178f2f461
 summarized: true
 ---
 

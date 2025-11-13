@@ -46,7 +46,6 @@ original_content: |-
   [Reflective Consultation Meeting for Early Learning Professionals](https://www.eventbrite.com/e/1355353501809?aff=oddtdtcreator)
 
   The post [Nurturing the Helpers: How Reflective Consultation Transforms Early Childhood Care](https://encompassnw.org/nurturing-the-helpers-how-reflective-consultation-transforms-early-childhood-care/) first appeared on [Encompass](https://encompassnw.org).
-content_checksum: b265d2a7e1b1a4b349b68d5379462b8af9d3457660629335ead9c3986bb68b5d
 summarized: true
 ---
 

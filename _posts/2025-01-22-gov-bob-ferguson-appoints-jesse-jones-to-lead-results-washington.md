@@ -41,7 +41,6 @@ original_content: |-
   More recently, Jones’ investigation revealed a hidden 3% charge on certain concessions at Climate Pledge Arena. That work led to a class action lawsuit and subsequent action by the state Attorney General’s Office.
 
   Jones currently lives in Snohomish County with Kim, his wife of 34 years. His daughter, Cydney, attends college in Colorado.
-content_checksum: d504be34f0c7ce90ee12da7abe479d64934721b2431ba311960ef7a82ba49751
 summarized: true
 ---
 

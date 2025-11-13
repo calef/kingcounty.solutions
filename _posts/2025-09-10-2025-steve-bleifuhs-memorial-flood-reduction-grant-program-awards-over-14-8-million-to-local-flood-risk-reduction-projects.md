@@ -35,7 +35,6 @@ original_content: |-
   The King County Flood Control District (Flood Control District) is a countywide special purpose district created in 2007 to provide flood risk reduction capital projects and programs to the residents of King County. The Flood Control District is building a future to withstand flood risks where thriving King County communities and healthy ecosystems coexist in harmony with area rivers. This vision is accomplished by implementing flood risk reduction policies and projects to protect life and property while advancing various benefits including equity and social justice, sustainable livelihoods, habitat protection, salmon recovery, recreation, and resilient communities.
 
   The post [2025 Steve Bleifuhs Memorial Flood Reduction Grant Program Awards Over $14.8 Million to Local Flood Risk Reduction Projects](https://kingcountyfloodcontrol.org/2025-steve-bleifuhs-memorial-flood-reduction-grant-program-awards-over-14-8-million-to-local-flood-risk-reduction-projects/) appeared first on [King County Flood Control District](https://kingcountyfloodcontrol.org).
-content_checksum: e7ea38eb2a21650d251fc02ad6ef66b15c8ffb2628fac667d190905a8f77bd72
 summarized: true
 ---
 

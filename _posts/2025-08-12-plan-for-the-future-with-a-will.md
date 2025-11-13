@@ -19,7 +19,6 @@ original_content: |-
   Making a will is about more than planning—it’s about caring for the people and causes that matter most to you. This month, take the time to protect your legacy and strengthen our community.
 
   The post [Plan for the future with a will](https://elap.org/plan-for-the-future-with-a-will/) appeared first on [Eastside Legal Assistance Program](https://elap.org).
-content_checksum: ffa9888c9327aaf58ac4d6856309b65f9a03d0af0204ccc77df031d1838864ac
 summarized: true
 ---
 

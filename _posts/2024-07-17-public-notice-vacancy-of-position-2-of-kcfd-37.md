@@ -23,7 +23,6 @@ original_content: |-
   [![Share](https://static.addtoany.com/buttons/favicon.png)](https://www.addtoany.com/share#url=https%3A%2F%2Fpugetsoundfire.org%2Fpsfra%2Fpublic-notice-vacancy-of-position-2-of-kcfd-37%2F&title=Public%20Notice%3A%20Vacancy%20of%20Position%20%232%20of%20KCFD%20%2337)
 
   The post [Public Notice: Vacancy of Position #2 of KCFD #37](https://pugetsoundfire.org/psfra/public-notice-vacancy-of-position-2-of-kcfd-37/) first appeared on [Puget Sound Regional Fire Authority](https://pugetsoundfire.org).
-content_checksum: e2177acafec456af652b2b9ab6d52b099f48088a0d5414ac503ee61ecc468f94
 summarized: true
 ---
 

@@ -104,7 +104,6 @@ original_content: "## **A Heat Pump Keeps Your Home Cool in the Summer and Warm 
   able to offer a well-rounded, one-stop service that helps clients both upgrade their
   systems and manage their ongoing energy costs.”\n\nTo find out if getting a heat
   pump is right for you, head to the [Energy Smart Eastside website](https://www.energysmarteastside.org/).&nbsp;&nbsp;"
-content_checksum: ee08ea35ae9d347f0f86717b96dc9e1fb46a9a012c05bcbf7e6489d34e62cd39
 summarized: true
 ---
 

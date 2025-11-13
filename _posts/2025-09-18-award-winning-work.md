@@ -13,7 +13,6 @@ original_content: "It’s been a big month for our team at ELAP.\n\nWe recently 
   So these honors are much appreciated and remind us of our “why.”\n\nThe post [Award-winning
   work](https://elap.org/award-winning-work/) appeared first on [Eastside Legal Assistance
   Program](https://elap.org)."
-content_checksum: bff7eb22f2580aedb86cd05771e1673c3a46d34427df95b0038056a3eaf187ef
 summarized: true
 ---
 

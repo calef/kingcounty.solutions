@@ -78,7 +78,6 @@ original_content: "<section class=\"elementor-section elementor-top-section elem
   sizes=\"(max-width: 800px) 100vw, 800px\"> </div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>\n\nThe
   post [Reimagining September 14 Presentation](https://redmondumc.org/reimaginingseptember-14-presentation/)
   appeared first on [Redmond United Methodist Church](https://redmondumc.org)."
-content_checksum: 817bbf594556c7e08ab6c79b89721f440101c79b930e4dc9b607c9d56fa1cd20
 summarized: true
 ---
 

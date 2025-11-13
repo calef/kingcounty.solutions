@@ -27,7 +27,6 @@ original_content: |-
   “ELAP screens cases carefully,” Shaffer said. “The folks that they need attorneys for are incredibly deserving of legal help. It’s not that huge a commitment of time to do the work, and it’s very effective in terms of helping someone who really needs and deserves help.”
 
   The post [From the bench to the community](https://elap.org/from-the-bench-to-the-community/) appeared first on [Eastside Legal Assistance Program](https://elap.org).
-content_checksum: 15f02707fa30d4578fd2cb73db5bfd026b49bfedd34294045466598a7aeed759
 summarized: true
 ---
 

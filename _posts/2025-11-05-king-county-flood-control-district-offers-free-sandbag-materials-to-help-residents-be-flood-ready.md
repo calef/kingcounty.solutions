@@ -31,7 +31,6 @@ original_content: |-
   The District encourages all residents to review their flood risk and make a preparedness plan. Resources include information about flood alerts, insurance, evacuation routes, and floodplain maps, all available on the District’s [Flood Resources page](https://kingcountyfloodcontrol.org/flood-resources/).
 
   The post [King County Flood Control District Offers Free Sandbag Materials to Help Residents “Be Flood Ready”](https://kingcountyfloodcontrol.org/king-county-flood-control-district-offers-free-sandbag-materials-to-help-residents-be-flood-ready/) appeared first on [King County Flood Control District](https://kingcountyfloodcontrol.org).
-content_checksum: 9bc183e921db92eab6332c052d41faa2670cd58e943e7a172c79825622133196
 summarized: true
 ---
 

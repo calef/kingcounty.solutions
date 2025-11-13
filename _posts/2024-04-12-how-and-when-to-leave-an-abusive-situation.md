@@ -81,7 +81,6 @@ original_content: |-
   All our lines here at Crisis Connections are open to you as you process or plan, we know it is really hard and we want to support you however we can!&nbsp;&nbsp;
 
   The post [How and When to Leave an Abusive Situation](https://www.crisisconnections.org/how-and-when-to-leave-an-abusive-situation/) appeared first on [Crisis Connections](https://www.crisisconnections.org).
-content_checksum: 245144638cd6907019c563b75f1af9c13d880939c6ea922f19e4ccf8cfdaf1f2
 summarized: true
 ---
 

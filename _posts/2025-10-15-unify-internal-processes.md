@@ -9,7 +9,6 @@ original_content: |-
   LOPS and LISMs have started planning to update programming systems, setting the foundation for clearer communication that will continue to evolve in 2026. We have also taken major steps in ensuring consistent collection of data to track the success of our programs and projects by developing consistent dashboards.&nbsp;
 
   Looking ahead to 2026, we’ll continue to refine our systems with the Equity Impact Tool, ensuring decisions and policies are informed by equity at every level. These changes are laying the groundwork for a more unified, efficient, and equitable organization.&nbsp;
-content_checksum: cd5326d5fb699feee67f26f8e2e3ce385c1a6fa7b1ca3bc147a4b0c68d5f00e1
 summarized: true
 ---
 

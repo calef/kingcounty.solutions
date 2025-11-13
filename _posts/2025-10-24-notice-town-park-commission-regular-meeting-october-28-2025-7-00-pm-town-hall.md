@@ -42,7 +42,6 @@ original_content: |-
   Your attendance is always encouraged.
 
   Thank you.
-content_checksum: 9a6e2349ca5b622d834b953d403cbd148791268a1d1cc76994ebf30f31502487
 summarized: true
 ---
 

@@ -46,7 +46,6 @@ original_content: "![](https://sophiaway.org/wp-content/uploads/2025/03/Image-bl
   we extend our deepest gratitude. Your compassion and dedication make a difference
   every single day.\n\n> \n\nThe post [Empowering Women, Building Community.](https://sophiaway.org/empowering-women-building-community/)
   first appeared on [The Sophia Way](https://sophiaway.org)."
-content_checksum: a432ea11ca42cc3ddb1c0666277a081de5ec14a4194dacf3881b043e66efaa57
 summarized: true
 ---
 

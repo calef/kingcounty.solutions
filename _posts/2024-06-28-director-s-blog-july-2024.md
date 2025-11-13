@@ -33,7 +33,6 @@ original_content: |-
   &nbsp;
 
   &nbsp;
-content_checksum: bcb89107be9a32608d5176c4735eda62fcf7789ecb0f73f5f157735a384bbad0
 summarized: true
 ---
 

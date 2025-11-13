@@ -9,7 +9,6 @@ original_content: |-
   The Sno-Valley is a geographically large area that spans well over 40 miles from North Bend to Duvall, including unincorporated areas. Residents living in suburban and rural areas often face more limited access to support and resources for meeting common or everyday needs for things like transportation, housing, mental health, and beyond. Removing barriers to accessing help means that service providers have to work with each other to make a change.
 
   EYN plays a role in removing these barriers by serving students and families—with community, collaboration and connection at the center of all that we do. Learn more about our youth development resources [**here**](https://empoweryouthnetwork.org/youth-development/) and our parent/community resources [**here**](https://empoweryouthnetwork.org/community-resources/). Learn more the Snoqualmie Valley Human Service Coalition [**here**](https://snovalleyhumanservices.org/).
-content_checksum: d6be4245785b3a434deae9db017d331bec6800afdaca8ad734fb631a4c490309
 summarized: true
 ---
 

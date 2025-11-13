@@ -77,7 +77,6 @@ original_content: "## Enthusiastic Community Support Offsets Summertime Food Ins
   article = document.querySelector('.block8859906697922832');\n\n\t\t\tarticle.querySelectorAll('a').forEach(elm
   => {\n\t\t\t\tif (!elm.href.search(/^(http).+(hopelink.com).+$/)) {\n\t\t\t\t\telm.target
   = '_blank';\n\t\t\t\t\telm.title = 'Opens in a new tab';\n\t\t\t\t}\n\t\t\t});\n\t\t})();\n\t</script>"
-content_checksum: 869352fcbc6d181e0d7dc82b340b380f9439310f864f58a6b667123b570858af
 summarized: true
 ---
 

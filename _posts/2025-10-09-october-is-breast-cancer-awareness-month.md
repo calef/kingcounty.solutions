@@ -36,7 +36,6 @@ original_content: |-
   Call 425-831-3526 to schedule your mammogram today, or self-schedule through [MyChart](https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fsnoqualmievalleyhealth.org%2fmychart%2f&c=E,1,eClW24bI-0P8eCftnDzPmaRlEGHwIp2LmNjb_PBBcu5BwVj-6XHomKJQLlhu3NLThfvB8geWGGr3sNGqZTeNnFGAI0OYBKCnkbPbcWZQL6oSKCwZrxpTcmu0Qgs,&typo=1)&nbsp;if you’re over 40.
 
   The post [October is Breast Cancer Awareness Month](https://snoqualmievalleyhealth.org/october-is-breast-cancer-awareness-month/) appeared first on [Snoqualmie Valley Hospital](https://snoqualmievalleyhealth.org).
-content_checksum: 7fca36b4f339d1777751a99b2e8aef2de7afe972435775ee5fcf4fb7211d3bbb
 summarized: true
 ---
 

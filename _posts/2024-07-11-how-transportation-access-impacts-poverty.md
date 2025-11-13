@@ -85,7 +85,6 @@ original_content: "## **How Transportation Access Impacts Poverty** &nbsp;\n\nFo
   = '_blank';\n\t\t\t\t\telm.title = 'Opens in a new tab';\n\t\t\t\t}\n\t\t\t});\n\t\t})();\n\t</script>\n\nFor
   even more information about any of the transportation programs listed above, please
   visit our [Transportation web page](https://www.hopelink.org/programs/transportation/)!&nbsp;&nbsp;"
-content_checksum: 38a359cdaf705cde080e911133eff8fe27ba68ebcfb080719f5b33b8a39a977f
 summarized: true
 ---
 

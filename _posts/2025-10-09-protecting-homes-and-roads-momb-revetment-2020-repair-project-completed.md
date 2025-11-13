@@ -55,7 +55,6 @@ original_content: |-
   The project demonstrates the KCFCD’s commitment to safeguarding critical infrastructure, supporting public safety, and enhancing the natural environment.
 
   The post [Protecting Homes and Roads: Momb Revetment 2020 Repair Project Completed](https://kingcountyfloodcontrol.org/protecting-homes-and-roads-momb-revetment-2020-repair-project-completed/) appeared first on [King County Flood Control District](https://kingcountyfloodcontrol.org).
-content_checksum: 61610fe863a907a7519bc1da9ddd45d130dc5254647f0668af54c345ee2f9bc1
 summarized: true
 ---
 

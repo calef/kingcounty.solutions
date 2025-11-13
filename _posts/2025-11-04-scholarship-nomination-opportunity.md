@@ -13,7 +13,6 @@ original_content: "The City of Carnation is accepting applications for an Associ
   Deadline for Carnation Nomination:  \nJanuary 19, 2026, 5:00 PM\n\nThe post [Scholarship
   Nomination Opportunity](https://www.carnationwa.gov/scholarship-nomination-opportunity/)
   appeared first on [Carnation, WA](https://www.carnationwa.gov)."
-content_checksum: f80ad80c96e30cc7a01e3b081a1f77abcb1ac73cb6aeaef67cb1a9fd03c794b2
 summarized: true
 ---
 

@@ -191,7 +191,6 @@ original_content: "## Budget proposals would devastate regional nonprofit sector
   Promise of Community Action.](https://wapartnership.org/community-action) [Webpage]&nbsp;\n\n-
   Washington State Community Action Partnership (WSCAP). [A Unified Voice.](https://wapartnership.org/our-work)
   [Webpage]&nbsp;\n\n-"
-content_checksum: 201810942d08c1872c7d3a574a03eb5e7e8cd37e03d2da20cb28fda3567c6498
 summarized: true
 ---
 

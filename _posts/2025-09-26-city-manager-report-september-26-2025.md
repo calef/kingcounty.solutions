@@ -12,7 +12,6 @@ original_content: 'Normandy Park’s Annual Property Tax Levy: What It Means for
   is split between multiple agencies, including schools, King County, the fire district,
   the library district, and the City of Normandy Park. The City’s levy is just one
   small piece of that total bill — usually about 10–12% of what you pay each year.'
-content_checksum: 66ef74937489bad8f16c6a9be0070b066aaf9296fcd15638e64d482b402249c7
 summarized: true
 ---
 

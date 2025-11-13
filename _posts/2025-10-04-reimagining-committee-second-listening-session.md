@@ -53,7 +53,6 @@ original_content: "<section class=\"elementor-section elementor-top-section elem
   1545w\" sizes=\"(max-width: 791px) 100vw, 791px\"> </div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>\n\nThe
   post [Reimagining Committee – Second Listening Session](https://redmondumc.org/reimagining-committee-second-listening-session/)
   appeared first on [Redmond United Methodist Church](https://redmondumc.org)."
-content_checksum: 00d99efd3ed72b85f28be00c329d3ecbb3ae418c5a6fc0abd418f0be40a4acdd
 summarized: true
 ---
 

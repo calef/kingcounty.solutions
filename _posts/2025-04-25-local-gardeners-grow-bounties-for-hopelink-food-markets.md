@@ -102,7 +102,6 @@ original_content: "## **Local Gardeners Grow Bounties for Hopelink Food Markets&
   _provides fresh, nutritious food options to our community by partnering with local
   farms and harvest fields located near our five Hopelink Food Markets. If you need
   food assistance you can_ sign up through the Hopelink [Food Assistance program](https://www.hopelink.org/programs/food-program/)."
-content_checksum: a6cfd49f9b3b94f1da40f67f22260b8eecb79e03d20b2cb1871fbfba6d1576e7
 summarized: true
 ---
 

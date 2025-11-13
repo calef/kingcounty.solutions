@@ -34,7 +34,6 @@ original_content: "![](https://sophiaway.org/wp-content/uploads/2025/02/Image-BH
   local black-owned small businesses on our **[webpage here](https://sophiaway.org/bhm-drive/).&nbsp;**\n\n>
   \n\nThe post [Honoring Black History Month: A Call for Housing Equity](https://sophiaway.org/bhm-2025/)
   first appeared on [The Sophia Way](https://sophiaway.org)."
-content_checksum: a2727055f92eba587642296efac520e35cb015ff292928ff7f6ad5615ecd4100
 summarized: true
 ---
 

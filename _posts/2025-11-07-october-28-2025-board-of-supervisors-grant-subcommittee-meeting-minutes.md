@@ -4,7 +4,6 @@ date: '2025-11-07T21:03:38+00:00'
 source: King Conservation District
 source_url: https://kingcd.org/october-28-2025-board-of-supervisors-grant-subcommittee-meeting-minutes-2/
 original_content: 2025\_10\_28 KCD Grant Subcommittee Meeting Minutes
-content_checksum: d41291228016fdf9582032204158bb02955a62edd7a172738dfe69d169557a4f
 summarized: true
 ---
 

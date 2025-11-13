@@ -59,7 +59,6 @@ original_content: |-
   [44 Black Mental Health Support Resources for Anyone Who Needs Them | SELF](https://www.self.com/story/black-mental-health-resources)
 
   The post [BIPOC Mental Health Resources](https://www.crisisconnections.org/bipoc-mental-health-resources/) appeared first on [Crisis Connections](https://www.crisisconnections.org).
-content_checksum: 916e586fe74c29d2298c98e2b7b7bc561105b428172ad80bcd4b6ffefac0a212
 summarized: true
 ---
 

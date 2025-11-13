@@ -7,7 +7,6 @@ original_content: |-
   In 2025, we expanded library hours, streamlined service delivery, and prepared for the replacement of our 20-year-old central sorter machine. The new sorter, arriving in 2026, will use 85% less energy and significantly reduce wait times for materials.&nbsp; In response to community requests, we expanded hours at the Mercer Island, Vashon Island and Sammamish libraries while keeping within our existing operational costs. We also upgraded patron and staff computers at many libraries.&nbsp;
 
   In 2026, we will continue to prioritize improving patron services and experiences, shaped by community input. We will be testing new charging lockers so patrons can charge their personal electronic devices while using the library. With broad staff input, we’re developing a new customer service model strongly focused on working with communities, removing barriers to access, and ensuring that all patrons get the help they need and feel welcome in our libraries.&nbsp;&nbsp; We’re also exploring an “innovation portal” that empowers staff to brainstorm and pilot new ideas, pursue grant funding, and help scale successful projects systemwide.&nbsp;
-content_checksum: 430eb7cb538b31e2ffae68bbcbd8b48e686754e5a6330f1a7f9f8146dd83177b
 summarized: true
 ---
 

@@ -11,7 +11,6 @@ original_content: |-
   [![Share](https://static.addtoany.com/buttons/favicon.png)](https://www.addtoany.com/share#url=https%3A%2F%2Fpugetsoundfire.org%2Fpsfra%2Fpuget-sound-fire-is-seeking-a-finance-director%2F&title=Puget%20Sound%20Fire%20is%20seeking%20a%20Finance%20Director%20%28Position%20filled%29)
 
   The post [Puget Sound Fire is seeking a Finance Director (Position filled)](https://pugetsoundfire.org/psfra/puget-sound-fire-is-seeking-a-finance-director/) first appeared on [Puget Sound Regional Fire Authority](https://pugetsoundfire.org).
-content_checksum: 8e13e6afd04c4ae81ef20b0fb477388d9c127bb61826a581078d31dd9d43b1c4
 summarized: true
 ---
 

@@ -29,7 +29,6 @@ original_content: "![Issaquah city EV vehicle](https://www.commerce.wa.gov/wp-co
   secure hundreds of thousands of dollars in tax credits by providing legal and filing
   assistance for hundreds of projects.\n\n![Lawyers for Good Government logo](https://www.commerce.wa.gov/wp-content/uploads/2025/10/l4gg-color.png)\n\n![Giraffe
   logo](https://www.commerce.wa.gov/wp-content/uploads/2025/10/giraffe-logo-purple.png)"
-content_checksum: 88e29dd209204c58fb0a603f84f96d4c8d2cf9a85e2b041714b20efb82ffba81
 summarized: true
 ---
 

@@ -38,7 +38,6 @@ original_content: |-
   ## About Governor-elect Bob Ferguson&nbsp;
 
   Bob Ferguson has dedicated his career to serving the people. He is completing his third term as Washington State's Attorney General. He is committed to improving government and building a stronger future by focusing on key issues such as public safety, health care costs and housing affordability, child care, education, and economic growth.&nbsp;
-content_checksum: 871beb3db6c0d940e3bfb30c8d0338ee8c03098a893c2caaf45ef68239028d0d
 summarized: true
 ---
 

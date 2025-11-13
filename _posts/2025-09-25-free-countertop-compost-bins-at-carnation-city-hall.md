@@ -18,7 +18,6 @@ original_content: "**How to use your compost pail:**\n\n- Keep your compost kitc
   8:30 AM – 4:30 PM  \nClosed for Lunch&nbsp;Daily 12:00 PM – 1:00 PM\n\n![compost](https://storage.googleapis.com/proudcity/carnationwa/2025/09/71lgQlQgauL._UF10001000_QL80_-300x200.jpg)\n\n&nbsp;\n\nThe
   post [Free Countertop Compost Bins at Carnation City Hall](https://www.carnationwa.gov/free-countertop-compost-bins-at-carnation-city-hall/)
   appeared first on [Carnation, WA](https://www.carnationwa.gov)."
-content_checksum: cc205629ea1b54e6c15551692bb9b3296d1fc20d1843276d415d02af4474ed8b
 summarized: true
 ---
 

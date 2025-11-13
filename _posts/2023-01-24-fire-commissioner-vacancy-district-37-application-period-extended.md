@@ -23,7 +23,6 @@ original_content: |-
   [![Share](https://static.addtoany.com/buttons/favicon.png)](https://www.addtoany.com/share#url=https%3A%2F%2Fpugetsoundfire.org%2Fpsfra%2Fnotice-of-fire-commissioner-vacancy-district-37%2F&title=Fire%20Commissioner%20Vacancy%20%E2%80%93%20District%20%2337%20%E2%80%93%20Application%20Period%20Extended)
 
   The post [Fire Commissioner Vacancy – District #37 – Application Period Extended](https://pugetsoundfire.org/psfra/notice-of-fire-commissioner-vacancy-district-37/) first appeared on [Puget Sound Regional Fire Authority](https://pugetsoundfire.org).
-content_checksum: 3fd98d65054e4251767e9acda61aa7ebd51d0ecd525261daf895ee5e9c434869
 summarized: true
 ---
 

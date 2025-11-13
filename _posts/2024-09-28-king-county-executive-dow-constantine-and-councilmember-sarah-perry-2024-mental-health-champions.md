@@ -58,7 +58,6 @@ original_content: "_The Mental Health Champion Award Ceremony will be on October
   on [Nami-Eastside WA](https://nami-eastside.org).\n\nThe post [King County Executive
   Dow Constantine and Councilmember Sarah Perry: 2024 Mental Health Champions](https://nami-eastside.org/2024-champions/)
   appeared first on [Nami-Eastside WA](https://nami-eastside.org)."
-content_checksum: 00dac65b3f6cbe28428de1f9d0b1061e90af842a434114d1603f6fd40dd915b7
 summarized: true
 ---
 

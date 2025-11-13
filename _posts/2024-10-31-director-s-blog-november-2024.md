@@ -33,7 +33,6 @@ original_content: |-
   Finally, as the days get darker–and Daylight Savings Time ends November 3­–join many of our patrons who have experienced the soothing effects of reading a good book. The Washington State Library Association, in fact, is holding an online [“Bibliotheraphy in Libraries” Summit](https://www.wla.org/wla-bibliotherapy-summit) November 16 to discuss the use of reading for therapeutic purposes and how libraries can positively impact patrons’ well-being.
 
   So join us online or in person, check out a book (or movie, music or digital materials), and enjoy all that your local library is offering this month.
-content_checksum: e01f42619ef89505f54dab837afc3e140b8ffdba526dae2df2ca8fde648eceea
 summarized: true
 ---
 

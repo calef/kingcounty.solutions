@@ -56,7 +56,6 @@ original_content: "### ![](https://encompassnw.org/wp-content/uploads/2025/10/Te
   disorders. Journal of Developmental & Behavioral Pediatrics, 43(9), 569–585. https://doi.org/10.1097/DBP.0000000000001064\n\nThe
   post [Telehealth: Helping Your Child Thrive—From Home!](https://encompassnw.org/telehealth-helping-your-child-thrive-from-home/)
   first appeared on [Encompass](https://encompassnw.org)."
-content_checksum: b7c780a290b783870589d937ac5867cda92703e4c03eb413a8f3d95341d47abe
 summarized: true
 ---
 

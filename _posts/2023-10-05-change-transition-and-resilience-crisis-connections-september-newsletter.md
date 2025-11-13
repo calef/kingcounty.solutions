@@ -64,7 +64,6 @@ original_content: "![CC Full Color Logo with Tagline](https://www.crisisconnecti
   5 — **[988 Saves Local Man’s Life&nbsp;](https://www.king5.com/article/news/local/988-saved-local-mans-life-university-place/281-2edaba8e-f408-47de-bd29-666bad62397e?bbeml=tp-33PEcvT7zkeQGOSO07-Lgg.j_onz6hLO20Wi4cayuv3SIw.rGeLGSRKS40CbbzkBAbbkuQ.lD1e_q-BGC0-E70_LzRcm9w)**\n\n**[more](https://www.crisisconnections.org/news/)**\n\nThe
   post [Change, Transition and Resilience: Crisis Connections September Newsletter](https://www.crisisconnections.org/change-transition-and-resilience-crisis-connections-september-newsletter/)
   appeared first on [Crisis Connections](https://www.crisisconnections.org)."
-content_checksum: 0a8546007e349835f748b47b501d90846b543876f5d42250e4caf93504186562
 summarized: true
 ---
 

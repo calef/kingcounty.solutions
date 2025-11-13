@@ -39,7 +39,6 @@ original_content: |-
   By focusing on connection and offering soothing, supportive strategies, parents and caregivers can help their children navigate the emotional challenges of summer break with greater ease. A calm and predictable environment provides the stability children need to process their emotions and stay grounded, no matter how much their world may be shifting.&nbsp; If you or your child needs a little more support, please reach out to Encompass.&nbsp; We are here to help.
 
   The post [6 Tips to Help Kids Navigate Uncertain Times](https://encompassnw.org/6-tips-to-help-kids-navigate-uncertain-times/) first appeared on [Encompass](https://encompassnw.org).
-content_checksum: d0ea39079ce8fe9994b2ed1f8dd72085a784cbab6dd2f2a57e308cc3ca2b5047
 summarized: true
 ---
 

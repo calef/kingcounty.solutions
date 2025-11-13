@@ -5,7 +5,6 @@ source: King Conservation District
 source_url: https://kingcd.org/november-4-2025-board-of-supervisors-meeting-agenda-2/
 original_content: '2025\_11\_04 KCD BOS Meeting Agenda and Materials &nbsp; November
   4th, 2025, at 5:00 PM Hybrid Meeting In Person: 800 SW … [Continued](https://kingcd.org/november-4-2025-board-of-supervisors-meeting-agenda-2/)'
-content_checksum: 045d088b874b82f6639dae857654b461885d76a808aabffde142cb9605c67d7b
 summarized: true
 ---
 

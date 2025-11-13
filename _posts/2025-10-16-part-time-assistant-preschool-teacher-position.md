@@ -6,7 +6,6 @@ source_url: https://normandyparkwa.gov/human-resources/pre-k-preschool-teacher-p
 original_content: The City of Normandy Park is looking for an experienced early childhood
   instructor to teach our PRE-K Class. The head teacher is responsible for planning,
   presenting...
-content_checksum: ab40d02218fb8796b52e85cd5c731ce046e2c28b25d8cdb1f37af451d2e439a1
 summarized: true
 ---
 

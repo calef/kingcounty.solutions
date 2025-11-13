@@ -6,7 +6,6 @@ source_url: https://www.burienwa.gov/cms/One.aspx?portalId=11046019&pageId=20964
 original_content: "![](https://www.burienwa.gov/UserFiles/Servers/Server_11045935/Image/Featured_Events/Moshier%20Pottery%20Sale%202023%20featured%20event%20image.jpg)Find
   hundreds of items such as mugs, bowls, serving dishes, casseroles, garden art, jewelry,
   planters, and more at the annual Moshier Holiday Pottery Sale."
-content_checksum: cde98df80472e64a746b7076029827b9506fb0a1dd27c6e4c2487fda55705c51
 summarized: true
 ---
 

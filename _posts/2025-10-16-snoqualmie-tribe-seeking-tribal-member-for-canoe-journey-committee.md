@@ -9,7 +9,6 @@ original_content: "The Canoe Journey Committee will assist in the planning and e
   will hold a position for either 2 (two) or 3 (three) years. Committee Member applicants
   must apply and, if selected for consideration, interview for the position.\n\nLearn
   more and apply here:  \n[https://snoqualmietribeforms.us/cjc-application/](https://snoqualmietribeforms.us/cjc-application/)"
-content_checksum: e2a32c3f3747c1ac3456942bcff64626fdd08635378024e8f526cdf10a824123
 summarized: true
 ---
 

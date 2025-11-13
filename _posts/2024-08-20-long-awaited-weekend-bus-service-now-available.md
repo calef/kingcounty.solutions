@@ -66,7 +66,6 @@ original_content: "[![](https://empoweryouthnetwork.org/wp-content/uploads/legac
   Carnation, Duvall and Monroe. More information about Snoqualmie Valley Transportation
   can be found at: [http://svtbus.org](http://svtbus.org) or by calling 425-888-7001.\n\n[![Bus
   schedule.](https://empoweryouthnetwork.org/wp-content/uploads/legacy/2024/08/Screenshot_20-8-2024_122751_.jpeg)](https://empoweryouthnetwork.org/wp-content/uploads/legacy/2024/08/Screenshot_20-8-2024_122751_.jpeg)"
-content_checksum: f723f8e8766f659e213fde18c62f672d39dcdf72e7f42c4a041f67d894cb8131
 summarized: true
 ---
 

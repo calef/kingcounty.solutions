@@ -13,7 +13,6 @@ original_content: |-
   [![Share](https://static.addtoany.com/buttons/favicon.png)](https://www.addtoany.com/share#url=https%3A%2F%2Fpugetsoundfire.org%2Fpsfra%2Fpublic-hearing-notices-puget-sound-fire-and-fire-district-43%2F&title=Public%20Hearing%20Notices%3A%20Puget%20Sound%20Fire%20and%20Fire%20District%20%2343)
 
   The post [Public Hearing Notices: Puget Sound Fire and Fire District #43](https://pugetsoundfire.org/psfra/public-hearing-notices-puget-sound-fire-and-fire-district-43/) first appeared on [Puget Sound Regional Fire Authority](https://pugetsoundfire.org).
-content_checksum: eea2613f5c5c23575558266457e885914d6a59727041da4dca407b2849d03c08
 summarized: true
 ---
 

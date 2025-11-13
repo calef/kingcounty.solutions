@@ -11,7 +11,6 @@ original_content: |-
   [![Share](https://static.addtoany.com/buttons/favicon.png)](https://www.addtoany.com/share#url=https%3A%2F%2Fpugetsoundfire.org%2Fpsfra%2Fkcfd-43-seeks-volunteers-to-write-voter-pamphlet-statements%2F&title=KCFD%20%2343%20Seeks%20Volunteers%20to%20Write%20Voter%20Pamphlet%20Statements)
 
   The post [KCFD #43 Seeks Volunteers to Write Voter Pamphlet Statements](https://pugetsoundfire.org/psfra/kcfd-43-seeks-volunteers-to-write-voter-pamphlet-statements/) first appeared on [Puget Sound Regional Fire Authority](https://pugetsoundfire.org).
-content_checksum: 1dafb12c96ae3b6ae66dac4d87d706f525b0d46233d23d2fc9880eea334c2761
 summarized: true
 ---
 

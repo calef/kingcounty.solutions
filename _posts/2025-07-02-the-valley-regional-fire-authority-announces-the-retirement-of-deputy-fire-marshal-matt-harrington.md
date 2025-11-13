@@ -24,7 +24,6 @@ original_content: |-
   &nbsp;
 
   The post [The Valley Regional Fire Authority Announces the Retirement of Deputy Fire Marshal Matt Harrington](https://www.vrfa.org/2025/07/the-valley-regional-fire-authority-announces-the-retirement-of-deputy-fire-marshal-matt-harrington/) appeared first on [Valley Regional Fire Authority (VRFA)](https://www.vrfa.org).
-content_checksum: 8ace4693dee7afc811d1a3964e08a82c98bd98ca43bb6daea1e883ddc899be99
 summarized: true
 ---
 

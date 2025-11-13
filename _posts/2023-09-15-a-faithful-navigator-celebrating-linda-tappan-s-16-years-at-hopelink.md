@@ -57,7 +57,6 @@ original_content: |-
   #### &nbsp;
 
   Hopelink’s nine programs, including Housing and Family Development, work in tandem to fill gaps, supporting each family or individual’s unique needs. To support this work, **[click here to take action](https://www.hopelink.org/take-action/)**.
-content_checksum: 7dcf0da172d765b4bc7c8eb0a9fd4e405fdbe1ba063a3e26ea35b7b4c652b613
 summarized: true
 ---
 

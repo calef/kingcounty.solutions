@@ -59,7 +59,6 @@ original_content: |-
   For more information, please reach out to Megan Walsh, Encompass Mental Health Director, at megan.walsh@encompassnw.org
 
   The post [Sensory Adventures: The Therapeutic Summer Day Camp Your Child Deserves](https://encompassnw.org/sensory-adventures-the-therapeutic-summer-day-camp-your-child-deserves/) first appeared on [Encompass](https://encompassnw.org).
-content_checksum: 632ce6d68b85d4b0b0b3c25a8d58e4c2441ca17948e4aaf61451172e30a3ce95
 summarized: true
 ---
 

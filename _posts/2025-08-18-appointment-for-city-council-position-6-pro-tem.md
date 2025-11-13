@@ -27,7 +27,6 @@ original_content: |-
   The City Council is expected to make the appointment by the end of September.
 
   The post [Appointment for City Council Position 6 Pro Tem](https://www.tukwilawa.gov/applications-for-city-council-position-6-pro-tem/) appeared first on [City of Tukwila](https://www.tukwilawa.gov).
-content_checksum: 85baa90168a155efd69a3653bc5905ca8690da68333219fb2e8fc2a9a3a76d3b
 summarized: true
 ---
 

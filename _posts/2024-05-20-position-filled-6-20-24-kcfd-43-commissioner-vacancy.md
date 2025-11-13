@@ -25,7 +25,6 @@ original_content: "FIRE COMMISSIONER VACANCY – POSITION #1  \n  \nKing County 
   you!\n\n[![Share](https://static.addtoany.com/buttons/favicon.png)](https://www.addtoany.com/share#url=https%3A%2F%2Fpugetsoundfire.org%2Fpsfra%2Fkcfd-43-commissioner-vacancy%2F&title=Position%20filled%206%2F20%2F24%3A%20KCFD%20%2343%20Commissioner%20Vacancy)\n\nThe
   post [Position filled 6/20/24: KCFD #43 Commissioner Vacancy](https://pugetsoundfire.org/psfra/kcfd-43-commissioner-vacancy/)
   first appeared on [Puget Sound Regional Fire Authority](https://pugetsoundfire.org)."
-content_checksum: 70cc235c7a849921ed0ab5f49388c987aab995f834b28c053792520c320c63e5
 summarized: true
 ---
 

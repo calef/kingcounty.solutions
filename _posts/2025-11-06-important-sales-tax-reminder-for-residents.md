@@ -36,7 +36,6 @@ original_content: |-
   Katy
 
   &nbsp;
-content_checksum: e8f91aac48d7c5bd670037b24150253a21322a37b9fa26a4e3977baa79ad0e6b
 summarized: true
 ---
 

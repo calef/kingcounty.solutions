@@ -21,7 +21,6 @@ original_content: |-
   **[View](https://photos.app.goo.gl/TAiKgHGLx2JhwQSV8)&nbsp;some favorite images from the event.**
 
   The post [Resilience & Renewal Celebration!](https://sophiaway.org/resilience-renewal-celebration/) first appeared on [The Sophia Way](https://sophiaway.org).
-content_checksum: 8141d18626ab829c1dc0e787ac34a0df8f3fdaafb7e8032eb90d72d4d4cdea15
 summarized: true
 ---
 

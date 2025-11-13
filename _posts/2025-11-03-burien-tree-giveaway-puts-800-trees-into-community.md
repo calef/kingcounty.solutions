@@ -5,7 +5,6 @@ source: King Conservation District
 source_url: https://kingcd.org/burien-tree-giveaway-puts-800-trees-into-community/
 original_content: On an overcast Saturday in October, hundreds of Burien residents
   stopped by Hilltop Park to pick up free trees. More … [Continued](https://kingcd.org/burien-tree-giveaway-puts-800-trees-into-community/)
-content_checksum: 56c64deb6c27dd8c4dd182cfa8dfc151b11379de4cf428e99a7c5351179bb3d3
 summarized: true
 ---
 

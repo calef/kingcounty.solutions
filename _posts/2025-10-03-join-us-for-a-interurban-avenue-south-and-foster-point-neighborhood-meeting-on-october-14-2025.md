@@ -14,7 +14,6 @@ original_content: "![](https://www.tukwilawa.gov/wp-content/uploads/Print_Neighb
   post [Join us for a Interurban Avenue South and Foster Point neighborhood meeting
   on October 14, 2025](https://www.tukwilawa.gov/join-us-for-a-interurban-avenue-south-and-foster-point-neighborhood-meeting-on-october-14-2205/)
   appeared first on [City of Tukwila](https://www.tukwilawa.gov)."
-content_checksum: aff3924bbae390cfed3507157e0dc470a86c8a0227ade46041bd04a7ad8d0767
 summarized: true
 ---
 

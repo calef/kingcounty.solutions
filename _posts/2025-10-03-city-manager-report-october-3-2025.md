@@ -10,7 +10,6 @@ original_content: Help Shape the Future of Normandy Park’s Roads. Public Heari
   standards ensure that when developers, contractors, or the City itself builds or
   renovates a road, the design is safe, consistent, and supports the needs of our
   community.
-content_checksum: dd7b1b64a0516bf7b7330916f8f8f07dd735f992047e46bd8ff23b8a6bed8f92
 summarized: true
 ---
 

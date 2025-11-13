@@ -21,7 +21,6 @@ original_content: |-
   This month, and every day, we celebrate the strength and resilience of the women we walk alongside. We’re grateful for their trust and for your support in giving them shelter, safety, and stability.
 
   The post [Honoring, Remembering, and Caring](https://sophiaway.org/honoring-remembering-caring/) first appeared on [The Sophia Way](https://sophiaway.org).
-content_checksum: e3112fce9392983ac31b5d689d7bea23316482d5beaf3720da916f235a03cea7
 summarized: true
 ---
 

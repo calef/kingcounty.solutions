@@ -7,7 +7,6 @@ original_content: |-
   The Quiet Work of Finding Peace: Willem’s History Willem was born on November 29, 1941, in Bogor (then part of the Dutch East Indies), eight days before the attack on [...]
 
   [Read More... from Willem’s History](https://iacswa.org/willems-history/)
-content_checksum: 288c6149a230a9117de0e632a6b8d41a79550c7b3114f9c8f6e46d0769eb015d
 summarized: true
 ---
 

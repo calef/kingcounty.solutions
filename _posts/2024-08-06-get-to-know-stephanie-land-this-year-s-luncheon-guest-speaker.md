@@ -25,7 +25,6 @@ original_content: |-
   “Our region is at an inflection point. Too many of our neighbors are struggling to make ends meet and I believe Hopelink, along with our community, have extraordinary opportunities to grow our impact and meet these challenges,” said Altimore. “We’re thrilled to have Stephanie at our side and by joining us this October, community members can be a part of creating lasting change.”&nbsp;
 
   Tickets to attend Reaching Out Luncheon are [now available](https://www.hopelink.org/events/reaching-out-luncheon/).&nbsp;&nbsp;
-content_checksum: bc165be0ed63b326a29b9b52f474e93c5812c33c91765b68d4d0a4f5b2f8520e
 summarized: true
 ---
 

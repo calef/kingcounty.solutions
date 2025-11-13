@@ -102,7 +102,6 @@ original_content: "## Hopelink Food Program Launches Gift Card Program\n\n##### 
   [_Kirkland_](https://www.hopelink.org/locations/kirkland-northshore/)_, and_ [_Sno-Valley_](https://www.hopelink.org/locations/sno-valley/)_.
   At no cost, clients can shop at the market as they would in a typical grocery store
   by choosing the items that best fit their household needs._&nbsp;"
-content_checksum: 477b588ee4eeab78ec7af29e71124e97620eb43cac42cc3260e5d7efde1c2f4a
 summarized: true
 ---
 

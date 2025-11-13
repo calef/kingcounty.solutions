@@ -87,7 +87,6 @@ original_content: "# Rain, Wind, or Snow – Hopelink is Here\n\n![Image 9 1](ht
   article = document.querySelector('.block1698882361858631');\n\n\t\t\tarticle.querySelectorAll('a').forEach(elm
   => {\n\t\t\t\tif (!elm.href.search(/^(http).+(hopelink.com).+$/)) {\n\t\t\t\t\telm.target
   = '_blank';\n\t\t\t\t\telm.title = 'Opens in a new tab';\n\t\t\t\t}\n\t\t\t});\n\t\t})();\n\t</script>"
-content_checksum: 47ab7f67d0652fb497242c45f0b678f2ef14ab3a84c78cfa1745ced173fd6cae
 summarized: true
 ---
 

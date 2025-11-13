@@ -19,7 +19,6 @@ original_content: |-
   The Encompass Kinship Care program provides weekly virtual and monthly in-person support groups. To learn more, visit [https://encompassnw.org/program/family-enrichment/kinship/](https://encompassnw.org/program/family-enrichment/kinship/).
 
   The post [Preserving Family Ties Through Kinship Care](https://encompassnw.org/preserving-family-ties-through-kinship-care/) first appeared on [Encompass](https://encompassnw.org).
-content_checksum: aa5c448f31342edb7f37da13ec73896aa712397615aeec66046465e6e6c1fe38
 summarized: true
 ---
 

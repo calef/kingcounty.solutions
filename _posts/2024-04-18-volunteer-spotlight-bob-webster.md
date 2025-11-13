@@ -107,7 +107,6 @@ original_content: "## Volunteer Spotlight: Bob Webster\n\n![Bob and Junyi share 
   learn more about volunteering at Hopelink,** [**click here**](https://www.hopelink.org/take-action/volunteer/)
   **! To learn more about other ways to get involved, visit our** [**Take Action**](https://www.hopelink.org/take-action/)
   **page!** &nbsp;"
-content_checksum: bef0854dc7a03b78ad7a736a5b746b541084b487482bd052410ec207101d770a
 summarized: true
 ---
 

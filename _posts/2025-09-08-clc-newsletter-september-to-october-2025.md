@@ -11,7 +11,6 @@ original_content: |-
   &nbsp;
 
   The post [CLC Newsletter – September to October 2025](https://cisc-seattle.org/clc-newsletter-september-to-october-2025/) appeared first on [Chinese Information and Service Center](https://cisc-seattle.org).
-content_checksum: 63556aff255e6b343832375035a3d12b814e835069c551cec506b23723451173
 summarized: true
 ---
 

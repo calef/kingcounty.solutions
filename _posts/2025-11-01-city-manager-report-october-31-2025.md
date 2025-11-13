@@ -12,7 +12,6 @@ original_content: Whatâ€™s Next for City Hall? We often receive the question, â€
   the community well, it was never intended to function as a modern municipal facility.
   As a result, the City has been exploring options to ensure that we have a safe,
   efficient, and functional building that can continue to serve residents daily.
-content_checksum: 7a166a497b2593918ef10fb5fddc4ce08355ddf9c1eb14961ef1941bd54e058e
 summarized: true
 ---
 

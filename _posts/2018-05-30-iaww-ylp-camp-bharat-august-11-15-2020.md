@@ -7,7 +7,6 @@ original_content: |-
   IAWW Youth Leadership Program announces Camp Bharat 2020! August 11-15, 2020 [...]
 
   [Read More... from IAWW YLP- Camp Bharat- August 11-15, 2020](https://iacswa.org/camp-bharat-august-6-10-2019/)
-content_checksum: a3952d48e4e8ea3b32555670aa8138d580b8aebf43083800e80878da14dafcac
 summarized: true
 ---
 

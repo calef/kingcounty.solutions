@@ -7,7 +7,6 @@ original_content: |-
   The Journey of a Mother After a harrowing year-long wait, Durga arrived in the US from India with a meagre 200 dollars. Her daughters needed their mother – the only [...]
 
   [Read More... from The Journey of a Mother](https://iacswa.org/journey-of-a-mother/)
-content_checksum: 3f31c95e31556db0bf6fc8be54b5f37fc16907e231277d461e18f09838292af5
 summarized: true
 ---
 

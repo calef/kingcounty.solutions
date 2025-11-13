@@ -34,7 +34,6 @@ original_content: |-
   I play the bass in a band, and I run ultramarathons.
 
   The post [Meet Evan Molineux: ELAP DV staff attorney and Perkins Coie Racial Justice Fellow](https://elap.org/meet-evan-molineux-elap-dv-staff-attorney-and-perkins-coie-racial-justice-fellow/) appeared first on [Eastside Legal Assistance Program](https://elap.org).
-content_checksum: 0fa0b918c06c45487a8c16636202fd1a6544016cd6986e866eb4b7b40d9ad4cf
 summarized: true
 ---
 

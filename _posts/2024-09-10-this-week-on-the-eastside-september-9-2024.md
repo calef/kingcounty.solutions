@@ -86,7 +86,6 @@ original_content: |-
   The post [This week on the Eastside – September 9, 2024](https://nami-eastside.org/thisweek9-9-24/) first appeared on [Nami-Eastside WA](https://nami-eastside.org).
 
   The post [This week on the Eastside – September 9, 2024](https://nami-eastside.org/thisweek9-9-24/) appeared first on [Nami-Eastside WA](https://nami-eastside.org).
-content_checksum: 82ca1c59a1d7ccbbeb060ecf8d8438f12f264c2b040c7e6c1c160172b4951e02
 summarized: true
 ---
 

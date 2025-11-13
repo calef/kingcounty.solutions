@@ -21,7 +21,6 @@ original_content: |-
   From the 2022-23 school year to the 2023-24 school year, our growth in mentoring went up 32%. Our estimated projected growth for the upcoming school year is 43%! We are planning to need 72 mentors in both school districts. [**Apply to become a mentor today**](https://empoweryouthnetwork.org/youth-success-mentoring/), and stay in the know about our upcoming Back-to-School Challenge by making sure you are subscribed to our mailing list below.
 
   [![E-Newsletter Button](https://empoweryouthnetwork.org/wp-content/uploads/legacy/2015/03/E-NewsletterButton.png)](http://empoweryouthnetwork.org/e-newsletter-signup/)
-content_checksum: aacfd8d9e875007c639da1e647a51c41592a56e7948d9ef17b35a49abc7f6bc9
 summarized: true
 ---
 

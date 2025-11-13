@@ -7,7 +7,6 @@ original_content: |-
   [...]
 
   [Read More... from COMMUNITY](https://iacswa.org/community-program-news/)
-content_checksum: 5ffd0da0041d3a000305c8ca0303471de20b03cb280ec43271f3c18002cca583
 summarized: true
 published: false
 ---

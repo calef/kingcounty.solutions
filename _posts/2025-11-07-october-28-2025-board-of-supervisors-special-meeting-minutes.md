@@ -4,7 +4,6 @@ date: '2025-11-07T21:05:00+00:00'
 source: King Conservation District
 source_url: https://kingcd.org/october-28-2025-board-of-supervisors-special-meeting-minutes-2/
 original_content: 2025\_10\_28 KCD Special BOS Meeting Minutes
-content_checksum: c83dbe59635e6e5fe97a61fe9452539d3171d29f9def823980442c9e86a5fe16
 summarized: true
 ---
 

@@ -35,7 +35,6 @@ original_content: "![](https://sophiaway.org/wp-content/uploads/2025/02/Image-ms
   gratitude,\n\nDietra Clayton  \n_Executive Director_\n\n> \n\nThe post [We Will
   Adapt & Evolve](https://sophiaway.org/adapt-and-evolve/) first appeared on [The
   Sophia Way](https://sophiaway.org)."
-content_checksum: 0f41ceb758829fb0dcfd78b93791a12dd5c356ef3669ba3bb87d03b2eadeef50
 summarized: true
 ---
 

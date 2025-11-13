@@ -25,7 +25,6 @@ original_content: |-
   ![](https://sophiaway.org/wp-content/uploads/2025/05/NL-image-for-Q1-impact.jpg)
 
   The post [“The Sophia Way will always be my family.”](https://sophiaway.org/tsw-family/) first appeared on [The Sophia Way](https://sophiaway.org).
-content_checksum: 11e9218945d4da2d766480ef8eac1b181d39cd39a188d4e3a99f0700ea09fa11
 summarized: true
 ---
 

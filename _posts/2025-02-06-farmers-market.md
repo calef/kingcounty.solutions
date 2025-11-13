@@ -5,7 +5,6 @@ source: City of Burien
 source_url: https://www.burienwa.gov/cms/One.aspx?portalId=11046019&pageId=16357996
 original_content: "![](https://www.burienwa.gov/UserFiles/Servers/Server_11045935/Image/Featured_Events/farmers_market_fe.jpg)Shop
   local! Buy fresh fruits, vegetables, and original crafts."
-content_checksum: 5e500ffcc23b2bac01688afa7dcda4659e727776fa4b6baad6725eac86415388
 summarized: true
 ---
 

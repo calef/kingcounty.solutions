@@ -75,7 +75,6 @@ original_content: |-
   If you have not already, it can be very helpful and thought provoking to learn [mental health first aid](https://www.mentalhealthfirstaid.org/take-a-course/find-a-course/) and suicide intervention strategies.&nbsp;&nbsp;
 
   The post [Why suicide prevention is broader than you think it is](https://www.crisisconnections.org/why-suicide-prevention-is-broader-than-you-think-it-is/) appeared first on [Crisis Connections](https://www.crisisconnections.org).
-content_checksum: 5b28fbbd2b0d991d2b1b2a32ac9583031f2916b1fce26edda9fd4e43a233992f
 summarized: true
 ---
 

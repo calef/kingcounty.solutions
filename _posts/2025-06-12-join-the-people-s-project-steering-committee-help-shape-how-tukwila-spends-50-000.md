@@ -24,7 +24,6 @@ original_content: "![](https://www.tukwilawa.gov/wp-content/uploads/Mayor-People
   post [Join the People’s Project Steering Committee – Help Shape How Tukwila Spends
   $50,000](https://www.tukwilawa.gov/join-the-peoples-project-steering-committee-help-shape-how-tukwila-spends-50000/)
   appeared first on [City of Tukwila](https://www.tukwilawa.gov)."
-content_checksum: 9dac3ec553b8de12d2c0ba1b1787d3c70778d8427e8d566bda99d88d924f9405
 summarized: true
 ---
 

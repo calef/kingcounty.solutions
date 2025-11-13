@@ -11,7 +11,6 @@ original_content: |-
   &nbsp;
 
   The post [CLC Newsletter – July to August 2025](https://cisc-seattle.org/clc-newsletter-july-to-august-2025/) appeared first on [Chinese Information and Service Center](https://cisc-seattle.org).
-content_checksum: 2f72c544c575b225d48362fb9bfa8de7e7c981ff6873a4d748283ebddab351ad
 summarized: true
 ---
 

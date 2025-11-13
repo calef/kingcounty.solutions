@@ -33,7 +33,6 @@ original_content: |-
   Thank you to our Wednesday volunteers for making a big difference in just a few short hours.
 
   The post [Celebrating the Heart of Our Community](https://sophiaway.org/celebrating-volunteers/) first appeared on [The Sophia Way](https://sophiaway.org).
-content_checksum: 7f2d78193ca8b8032b51fec29018bf5643589ec090378a3be64efbc6e8f48b97
 summarized: true
 ---
 

@@ -31,7 +31,6 @@ original_content: |-
   &nbsp;
 
   &nbsp;
-content_checksum: d6dd680fceb6c909e2b66417b2c5058a3110fbb797b9a692ea56f388777bb2e5
 summarized: true
 ---
 

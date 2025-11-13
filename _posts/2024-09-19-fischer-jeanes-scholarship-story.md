@@ -39,7 +39,6 @@ original_content: |-
   After completing the whole process of applying for scholarships, researching schools, looking into programs, and overcoming challenges, Fischer is ready to start his next chapter. “It feels good to know what my path is.&nbsp; I feel like I am set up for success.&nbsp; It feels like I am doing something intentional with my life, instead of just hoping something will happen. I feel like I am making it happen,” he said.
 
   _Empower Youth Network (EYN) thanks Fischer Jeanes for all his service over the years to empower and inspire youth in Snoqualmie Valley. EYN wishes him all the best in his studies at Bellingham Technical College._
-content_checksum: 2ec7d311c33976d03beaa5e2357b923093f6a4dfe2101ed5011a12fd0e5dff85
 summarized: true
 ---
 

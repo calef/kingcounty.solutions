@@ -25,7 +25,6 @@ original_content: |-
   KCLS also has strong collaborations with schools, ranging from student accounts to programs that encourage and support grade-school reading and learning. Our new [Career Online High School](https://kcls.org/resource/career-online-high-school/) offers students a chance to earn a high school diploma while developing career skills. Check [www.kcls.org/back-to-school](http://www.kcls.org/back-to-school) for free library resources.
 
   There are so many ways to learn and grow at KCLS. Join us!
-content_checksum: 5f45145ebd756d65a184bd53e80893265ac3e8aa2cc6af018935ad9b21b07939
 summarized: true
 ---
 

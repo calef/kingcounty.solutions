@@ -84,7 +84,6 @@ original_content: |-
   For more information about the program and to learn when the **2026 grant application window opens in spring 2026** , please visit the [Steve Bleifuhs Memorial Flood Reduction Grants page](https://kingcountyfloodcontrol.org/grant-programs-funding/flood-reduction-grants-open/) on the King County Flood Control District website.
 
   The post [Honoring a Legacy: 2025 Steve Bleifuhs Memorial Flood Reduction Grant Program](https://kingcountyfloodcontrol.org/honoring-a-legacy-2025-steve-bleifuhs-memorial-flood-reduction-grant-program/) appeared first on [King County Flood Control District](https://kingcountyfloodcontrol.org).
-content_checksum: 301240463a571c328be752944af7899ce361fcb74d71ea764189532699870f2c
 summarized: true
 ---
 
