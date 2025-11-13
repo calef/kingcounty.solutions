@@ -1,4 +1,5 @@
 ---
+acronym: USA
 jurisdictions:
 - United States
 title: United States Federal Government

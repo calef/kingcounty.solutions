@@ -1,4 +1,5 @@
 ---
+acronym: WA State
 jurisdictions:
 - Washington State
 title: State of Washington
