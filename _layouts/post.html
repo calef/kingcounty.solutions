@@ -1,0 +1,41 @@
+---
+layout: default
+---
+
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+    <p class="post-meta">
+      <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
+        {{ page.date | date: "%B %-d, %Y" }}
+      </time>
+      {%- assign source_text = page.source | default: page.source_url -%}
+      {%- if source_text -%}
+        {%- assign matching_org = nil -%}
+        {%- if page.source -%}
+          {%- assign matching_org = site.organizations | where: "title", page.source | first -%}
+        {%- endif -%}
+        • <span class="post-source">
+          {%- if matching_org -%}
+            <a href="{{ matching_org.url | relative_url }}">{{ page.source }}</a>
+          {%- elsif page.source_url -%}
+            <a href="{{ page.source_url }}" rel="noopener noreferrer">{{ source_text }}</a>
+          {%- else -%}
+            {{ source_text }}
+          {%- endif -%}
+        </span>
+      {%- endif -%}
+      {%- if page.author -%}
+        • <span class="p-author h-card" itemprop="author">{{ page.author }}</span>
+      {%- endif -%}
+    </p>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+  {%- if site.disqus.shortname and page.comments != false -%}
+    {%- include disqus_comments.html -%}
+  {%- endif -%}
+</article>
