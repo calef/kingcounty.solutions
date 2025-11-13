@@ -55,8 +55,11 @@ layout: default
     {% endfor %}
 
     {% assign place_news = site.posts | where_exp: "post", "relevant_org_titles contains post.source" %}
+    {% assign place_news_total = 0 %}
     {% if place_news and place_news.size > 0 %}
       {% assign place_news = place_news | sort: "date" | reverse %}
+      {% assign place_news_total = place_news | size %}
+      {% assign place_news = place_news | slice: 0, 20 %}
     {% endif %}
 
     {% if content %}
@@ -98,6 +101,11 @@ layout: default
             </li>
           {% endfor %}
         </ul>
+        {% if place_news_total > 20 %}
+          <p class="place-news-more">
+            <a href="{{ '/news/' | relative_url }}">View all news</a>
+          </p>
+        {% endif %}
       </section>
     {% endif %}
 
@@ -204,5 +212,15 @@ layout: default
   margin: 0.1rem 0 0.5rem;
   color: #444;
   font-size: 0.95em;
+}
+.place-news-more {
+  margin-top: 0.5rem;
+}
+.place-news-more a {
+  font-weight: 600;
+  text-decoration: none;
+}
+.place-news-more a:hover {
+  text-decoration: underline;
 }
 </style>

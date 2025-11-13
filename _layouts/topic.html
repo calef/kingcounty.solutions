@@ -95,8 +95,11 @@ layout: default
     {% endif %}
 
     {% assign topic_news = site.posts | where_exp: "post", "topic_org_titles contains post.source" %}
+    {% assign topic_news_total = 0 %}
     {% if topic_news and topic_news.size > 0 %}
       {% assign topic_news = topic_news | sort: "date" | reverse %}
+      {% assign topic_news_total = topic_news | size %}
+      {% assign topic_news = topic_news | slice: 0, 20 %}
       <section class="topic-news">
         <h2>News related to {{ page.title }}</h2>
         <ul class="topic-news-list">
@@ -131,6 +134,11 @@ layout: default
             </li>
           {% endfor %}
         </ul>
+        {% if topic_news_total > 20 %}
+          <p class="topic-news-more">
+            <a href="{{ '/news/' | relative_url }}">View all news</a>
+          </p>
+        {% endif %}
       </section>
     {% endif %}
   </div>
@@ -251,5 +259,15 @@ layout: default
   margin: 0.1rem 0 0.5rem;
   color: #444;
   font-size: 0.95em;
+}
+.topic-news-more {
+  margin-top: 0.5rem;
+}
+.topic-news-more a {
+  font-weight: 600;
+  text-decoration: none;
+}
+.topic-news-more a:hover {
+  text-decoration: underline;
 }
 </style>
