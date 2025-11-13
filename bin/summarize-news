@@ -63,6 +63,7 @@ Dir.glob("#{NEWS_DIR}/*.md").each do |file_path|
         2. Include an image if one is referenced in the text.
         3. Do not include any commentary or explanation about this process.
         4. Focus only on the provided text (do not mention if the content was truncated).
+        5. Do not include any headings.
 
       ARTICLE CONTENT:
       #{article_text}
