@@ -4,13 +4,13 @@ jurisdictions:
 parent_organization: Federal Executive Branch
 title: Department of Education
 topics:
+- Adult Education
+- Community & Social Services
 - Education & Learning
 - Financial Assistance
-- Community & Social Services
 type: Department
 website: https://www.ed.gov/
 ---
-
 The **Department of Education** promotes educational excellence and equal access to learning.  Its social service relevance includes:
 
 - **Education & Learning:** K–12 and higher education programs, adult education, and special education

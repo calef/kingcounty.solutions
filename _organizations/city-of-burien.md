@@ -5,8 +5,9 @@ news_rss_url: https://www.burienwa.gov/syndication/rss.aspx?serverid=11045935&us
 title: City of Burien
 topics:
 - Community & Social Services
+- Food & Nutrition
+- Transportation & Mobility
 type: City
 website: https://www.burienwa.gov/
 ---
-
 The City of Burien serves the community of **Burien**, Washington. The city provides various services to enhance the quality of life for its residents, including community and social services.
