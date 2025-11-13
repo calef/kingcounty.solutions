@@ -11,7 +11,7 @@ topics:
 - Community & Social Services
 - Health Care
 - Safety
-type: Agency
+type: Special Purpose District
 website: https://www.eastsidefire-rescue.org
 ---
 
