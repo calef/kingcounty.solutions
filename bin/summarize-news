@@ -60,7 +60,7 @@ Dir.glob("#{NEWS_DIR}/*.md").each do |file_path|
 
       In the summary:
         1. Do not include a link back to the source URL.
-        2. Include an image if one is referenced in the text, however confirm that the image is retrievable.
+        2. Do not include an image if one is referenced in the text.
         3. Do not include any commentary or explanation about this process.
         4. Focus only on the provided text (do not mention if the content was truncated).
         5. Do not include any headings or code blocks.
@@ -98,8 +98,8 @@ Dir.glob("#{NEWS_DIR}/*.md").each do |file_path|
       end
 
       if summary && !summary.empty?
-        # ✅ Store the original Markdown body (not the extracted HTML)
-        front_matter['original_content'] = body.strip
+        # ✅ Preserve the original Markdown body before replacing it with the summary
+        front_matter['original_markdown_body'] ||= body.strip
         front_matter['summarized'] = true
 
         yaml_front_matter = YAML.dump(front_matter).sub(/\A---\s*\n/, '').strip
