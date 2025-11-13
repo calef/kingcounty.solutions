@@ -76,9 +76,7 @@ Dir.glob("#{SOURCES_DIR}/*.md") do |source_file|
         # Get original HTML content from RSS item
         original_html = item.respond_to?(:content_encoded) && item.content_encoded ? item.content_encoded : item.description
         original_html = original_html.to_s.strip
-        if original_html.empty? && item.link
-          original_html = fetch_article_body_html(item.link).to_s.strip
-        end
+        original_html = fetch_article_body_html(item.link).to_s.strip if original_html.empty? && item.link
 
         if original_html.empty?
           warn "No content available for #{item.link}, skipping."
