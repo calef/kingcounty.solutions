@@ -9,6 +9,7 @@ require 'fileutils'
 require 'time'
 require 'digest'
 require 'reverse_markdown'
+require 'nokogiri'
 
 NEWS_DIR = '_posts'
 SOURCES_DIR = '_organizations'
@@ -23,6 +24,40 @@ def read_frontmatter(file_path)
   else
     {}
   end
+end
+
+ARTICLE_BODY_SELECTORS = [
+  '#news_content_body',
+  '[id*="news_content_body"]',
+  '.news_content_body',
+  '[class*="news_content_body"]',
+  '.news-body',
+  '.article-body',
+  '.article__body',
+  '.news-article__body',
+  'article .body'
+].freeze
+
+def fetch_article_body_html(url)
+  html = URI.open(url).read
+  doc = Nokogiri::HTML(html)
+
+  ARTICLE_BODY_SELECTORS.each do |selector|
+    node = doc.at_css(selector)
+    next unless node
+
+    snippet = node.inner_html.to_s.strip
+    return snippet unless snippet.empty?
+  end
+
+  fallback = doc.at_css('main') || doc.at_css('#main') || doc.at_css('#content')
+  fallback&.inner_html&.strip
+rescue OpenURI::HTTPError, OpenSSL::SSL::SSLError, SocketError => e
+  warn "Failed to fetch article body (#{url}): #{e.message}"
+  nil
+rescue StandardError => e
+  warn "Unexpected error scraping #{url}: #{e.message}"
+  nil
 end
 
 # Iterate through all Markdown files in _sources
@@ -41,6 +76,14 @@ Dir.glob("#{SOURCES_DIR}/*.md") do |source_file|
         # Get original HTML content from RSS item
         original_html = item.respond_to?(:content_encoded) && item.content_encoded ? item.content_encoded : item.description
         original_html = original_html.to_s.strip
+        if original_html.empty? && item.link
+          original_html = fetch_article_body_html(item.link).to_s.strip
+        end
+
+        if original_html.empty?
+          warn "No content available for #{item.link}, skipping."
+          next
+        end
 
         # Skip if we've already imported this article (has original_content)
         existing_file = Dir.glob("#{NEWS_DIR}/*.md").find do |f|
@@ -74,7 +117,7 @@ Dir.glob("#{SOURCES_DIR}/*.md") do |source_file|
         puts "Created #{filename}"
       end
     end
-  rescue OpenURI::HTTPError => e
+  rescue OpenURI::HTTPError, SocketError => e
     warn "Failed to fetch RSS feed for source '#{source_title}' (#{rss_url}): #{e.message}"
     next
   rescue OpenSSL::SSL::SSLError => e
