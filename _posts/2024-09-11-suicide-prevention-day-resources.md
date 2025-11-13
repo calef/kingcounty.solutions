@@ -1,0 +1,80 @@
+---
+title: Suicide Prevention Day resources
+date: '2024-09-11T00:11:52+00:00'
+source: National Alliance on Mental Illness (NAMI) Eastside
+source_url: https://nami-eastside.org/suicide-prevention-day-resources/
+original_content: "**Your Life Matters**\n\nSeptember is Suicide Prevention Month.
+  For young adults ages 15 to 34, suicide is the **second leading cause of death in
+  Washington State**. Suicide remains one of the most stigmatized symptoms of mental
+  illness.\n\nEverything we do at NAMI Eastside helps to prevent the loss of more
+  lives. The power of connection heals, and it’s our goal to remind those struggling
+  that **you are not alone.**\n\nYou do not need to suffer in silence. At NAMI Eastside,
+  our programs act as suicide prevention directly and by teaching the community how
+  to recognize signs and take action. Whether you need mental health support or want
+  to learn more about advocating for others, recovery is possible. Building community
+  is crucial to sustained recovery, and we are your community for mental health support.\n\nIf
+  you or a loved one are in emotional distress or experiencing a suicidal crisis,
+  please remember that your life matters and that you are not alone. **The 988 Suicide
+  and Crisis Lifeline** is available 24/7 for anyone who needs help. You can also
+  text **HOME** to **741741** to connect with a volunteer Crisis Counselor. For LGBTQIA-specific
+  services, **The Trevor Project** is the leading suicide prevention organization
+  for LGBTQIA+ young people. Reach a trained counselor 24/7 at **866-488-7386** or
+  text **678-678**.\n\n&nbsp;\n\n**Know the Warning Signs of Suicide**\n\nOne of the
+  most powerful ways to prevent suicide is by recognizing the warning signs. By knowing
+  what to look for, we can take action and save lives.\n\n**Warning Signs of Suicide:**\n\n-
+  Feeling hopeless or trapped\n- Withdrawing from friends, family, and activities\n-
+  Giving away personal items\n- Increased use of drugs or alcohol\n- Sleeping too
+  much or too little\n- History of suicide attempts\n\n&nbsp;\n\nFor more warning
+  signs, [click here](https://afsp.org/risk-factors-protective-factors-and-warning-signs/).\n\n&nbsp;\n\n**Suicide
+  Prevention Resources**\n\nTo learn more about suicide prevention and mental health,
+  sign up for a **FREE Mental Health First Aid (MHFA)** course. These courses teach
+  how to recognize mental health crises and provide support.\n\n**Upcoming classes:**\n\n-
+  **Youth MHFA:** September 23 and 24 ([Online](https://reg.learningstream.com/reg/event_page.aspx?ek=0058-0013-d25bfe9d04394af3aee86340b8a8dccd&wp=309).
+  offered by Overlake)\n- **Adult MHFA:** November 9 and 10 (In-person. Offered by
+  NAMI Eastside at Together Center )\n\n&nbsp;\n\n**Teen Mental Health Book Club**\n\nOur
+  **Teen Mental Health Book Club** meets **September 19th** from 4-5 p.m. both online
+  and at the Sammamish Library. It’s a safe space for young people to connect, share,
+  and discuss books that explore mental health themes.\n\n[Click here to register](https://kcls.bibliocommons.com/events/66b394756982fdb26f89c0a7).\n\n&nbsp;\n\n**NAMI
+  Eastside en Español**\n\nWe are proud to offer **NAMI Eastside en Español** , including
+  our **Juntas de Resiliencia** and other resources in Spanish. To watch our latest
+  video and stay updated on our services, follow us on Facebook.\n\n[Join NAMI Eastside
+  en Español on Facebook](https://www.facebook.com/NAMIEastside).\n\n&nbsp;\n\n**Employment
+  and Suicide Prevention**\n\nEmployment and suicide prevention are closely linked.
+  Having a sense of purpose through stable, meaningful work can positively impact
+  mental health and overall well-being. NAMI Eastside offers employment support to
+  help connect job seekers with mental health resources, improve stability, and reduce
+  risk factors for suicide.\n\n**Employment can play a role in suicide prevention
+  by:**\n\n- Providing a sense of purpose\n- Offering social connections through workplace
+  relationships\n- Improving financial stability, reducing anxiety\n- Offering access
+  to resources like Employee Assistance Programs (EAPs)\n\nIf you are seeking support
+  in finding meaningful work, you can reach out to NAMI Eastside or come to Together
+  Center where employment specialists and community organizations can help you find
+  a good fit.\n\n&nbsp;\n\n&nbsp;\n\n**Upcoming Events:**\n\n- **NAMI Washington Annual
+  Conference** : September 28-29, Yakima, WA. Scholarships available.\n- **EvergreenHealth
+  Forum** : September 24, Online.\n- **NAMI SW WA – Shine the Light Suicide Prevention
+  & Awareness Summit** : September 14, 4-7 p.m.  \n[Register here](https://namiswwa.org/shine).\n\n&nbsp;\n\n&nbsp;\n\n**National
+  Recovery Month 2024: Stories of Transformation**\n\n“September is National Recovery
+  Month 2024. It’s a time to honor the resilience of those who have faced mental health
+  challenges and to recognize the importance of support systems. We celebrate inspiring
+  stories from people who have embraced recovery and are living fuller lives thanks
+  to mental health resources and community support.”\n\nClick here to read the full
+  article.\n\n&nbsp;\n\n**New National Strategy for Suicide Prevention**\n\n“More
+  than 80% of people who die by suicide interact with health care services in the
+  year before their death, often for non-psychiatric reasons. Screening only those
+  with known behavioral health disorders will miss many at risk. A comprehensive approach
+  to suicide prevention must include everyone.”\n\nClick here to read the full article.\n\n&nbsp;\n\n**You’re
+  Invited!**\n\n**October 10th** from 5:00-8:00 p.m.\n\nRedmond Marriott Hotel, Redmond,
+  WA\n\nJoin us for NAMI Eastside’s **Annual Fundraising Gala** on **World Mental
+  Health Day**. Let’s come together for a night of connection, inspiration, and support
+  for mental health services in our community. Tickets are still available, and early
+  bird pricing ends soon!\n\nClick here to register now!.\n\n&nbsp;\n\n&nbsp;\n\n**NAMI
+  Eastside** | Your Life Matters | [www.nami-eastside.org](https://nami-eastside.org)\n\nThe
+  post [Suicide Prevention Day resources](https://nami-eastside.org/suicide-prevention-day-resources/)
+  first appeared on [Nami-Eastside WA](https://nami-eastside.org).\n\nThe post [Suicide
+  Prevention Day resources](https://nami-eastside.org/suicide-prevention-day-resources/)
+  appeared first on [Nami-Eastside WA](https://nami-eastside.org)."
+content_checksum: 3bdb8a75b48c33b2253e2911862336f641aa0d009c55131933a070e71905411e
+summarized: true
+---
+
+NAMI Eastside is raising awareness during Suicide Prevention Month by offering various resources and strategies to help those struggling with mental health issues. They emphasize that connection and community are integral to recovery, offering programs to educate about suicide prevention and signs of distress. Their services include a 24/7 suicide and crisis lifeline, specific resources for the LGBTQIA+ community, and free Mental Health First Aid courses. NAMI Eastside also organizes a Teen Mental Health Book Club and provides employment support, recognizing that stable, meaningful work can significantly impact mental health and suicide prevention.

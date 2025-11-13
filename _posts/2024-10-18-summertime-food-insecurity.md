@@ -1,0 +1,86 @@
+---
+title: Summertime Food Insecurity 
+date: '2024-10-18T23:34:50+00:00'
+source: Hopelink
+source_url: https://www.hopelink.org/blog/summertime-food-insecurity/
+original_content: "## Enthusiastic Community Support Offsets Summertime Food Insecurity&nbsp;\n\nThe
+  U.S. Department of Agriculture reports that [28.5 million children](https://schoolnutrition.org/about-school-meals/school-meal-statistics/)
+  across the United States rely on school-sponsored meals. In north and east King
+  County alone, over 17,730 of these children depend on free or reduced-fee school
+  meal programs according to the [Office of Superintendent of Public Instruction](https://kingcounty.gov/en/legacy/depts/health/covid-19/data/impacts/food).
+  When school is out, these kids lose their primary source of daily nutrition.&nbsp;\n\nFor
+  parents, this means an increased financial burden to provide extra meals during
+  the summer months, [especially with rising grocery prices](https://www.bls.gov/regions/west/news-release/consumerpriceindex_seattle.htm).&nbsp;\n\n![Caption:
+  The campaign raised $281,911, exceeding the initial goal by nearly $25,000!](https://www.hopelink.org/wp-content/uploads/2024/10/ESH.24.45-Recap-Blog-Graphic-03.png
+  \"Summertime Food Insecurity  7\")\n_Caption: The campaign raised $281,911, exceeding
+  the initial goal by nearly $25,000! _\n\nHopelink’s annual End Summer Hunger campaign
+  works to bridge this nutritional gap by providing free, nutritious, and kid-friendly
+  foods from June to August. The campaign is fueled by in-kind food donations, food
+  drives, as well as monetary gifts. The campaign surpassed its goal, raising **$281,911
+  and collecting over 3,500 pounds of food!** “This year’s campaign saw our community
+  show up in a huge way as we more than doubled the number of drives held to end summer
+  hunger,” shared Suzette Hart, Hopelink Development Director, Giving.&nbsp;&nbsp;\n\nThroughout
+  the campaign, Hopelink recognized how deeply the cause resonated with community
+  members. “Hopelink’s Food Assistance team identified the most needed items, and
+  our drive partners donated many nutritious and easy-to-prepare foods that met our
+  clients’ summer needs,” said Debbie Fellows, Hopelink Development Specialist – Community
+  Engagement.&nbsp;\n\n“Many summer camps and company picnics incorporated a giving
+  element this year, partnering with Hopelink for our campaign,” added Debbie.&nbsp;\n\nThe
+  Finance Families Group at Microsoft hosted a drive for End Summer Hunger. They collected
+  125 pounds of food and utilized Hopelink’s [Amazon Wishlist](https://www.amazon.com/hz/wishlist/ls/30FK1RUVPWF4Y).&nbsp;&nbsp;\n\nHopelink’s
+  Food Assistance team observed a shift in donations this year, from canned goods
+  to more “ready-to-eat” items like rice in pouches, ramen, mac and cheese microwave
+  cups, granola bars, cereal, and oatmeal pouches. Not only are these items helpful
+  for busy parents, but their kids are often able to prepare them themselves.&nbsp;\n\n![Lutheran
+  Calvary Church donated 696 pounds of the most-needed summer food items to Hopelink
+  to fight food insecurity\n](https://www.hopelink.org/wp-content/uploads/2024/10/Calvary-Lutheran-Drive-Photo-3-1-768x1024.jpg
+  \"Summertime Food Insecurity  8\")\n\nAdditionally, youth-based groups such as the
+  Riverview School District contributed through their Knock Down Hunger Cereal Drive,
+  helping keep the [Sno-Valley Market](https://www.hopelink.org/locations/sno-valley/)
+  well-stocked with a variety of cereals.&nbsp;\n\n“Clients expressed their gratitude
+  for the additional food provided during the campaign,” shared Jodi Peña, Hopelink
+  Food Program Manager. “While some clients couldn’t use all the items due to dietary
+  restrictions, we made sure to provide suitable alternatives when possible.”&nbsp;\n\nA
+  local Brownie Troop used a list the Hopelink Food Assistance team prepared of items
+  most needed by families to select and purchase items. They then brought their donations
+  to the [Kirkland Market](https://www.hopelink.org/locations/kirkland-northshore/)
+  – where the Food Assistance program is headquartered.&nbsp;\n\nLutheran Calvary
+  Church donated 696 pounds of the most-needed summer food items to Hopelink.  \nPhoto
+  credit: Debbie Fellows, Hopelink.&nbsp;&nbsp;\n\n“It was a pleasure to see young
+  donors like the Brownie Troops at our market,” said Jodi. “They took the time to
+  help unload the donations, weigh them, and took a tour of the warehouse to learn
+  more about the program. It was amazing to see their engagement.”&nbsp;\n\n![Riverview
+  School District Food Drive 2](https://www.hopelink.org/wp-content/uploads/2024/10/Riverview-School-District-Food-Drive-2-768x1024.jpg
+  \"Summertime Food Insecurity  9\")\n\n“Organizing these drives involves a lot of
+  physical labor and planning. I’m deeply grateful for the drive partners who approach
+  this work with such joy and dedication,” said Debbie.&nbsp;&nbsp;\n\nThe enthusiastic
+  support for this campaign helped offset costs for many families as grocery prices
+  remain high, while also generating awareness of summertime food insecurity.&nbsp;\n\n“A
+  well-rounded approach to philanthropy is important as it not only recognizes financial
+  contributions but also engages employees, clients, and their customers, broadening
+  awareness for Hopelink and the services we offer,” shared Melissa Pederson, Hopelink
+  Vice President of Development, Marketing and Communications. “When we support each
+  other, it fosters a sense of belonging and connection, making the community stronger.”&nbsp;\n\nRiverview
+  School District’s cereal donations stocked at the Hopelink Sno-Valley Market.&nbsp;
+  \ \nPhoto credit: Maple Weinberg, Hopelink.&nbsp;\n\n### Thank you to our campaign
+  partners\n\n&nbsp;\n\n<script defer>\n\t\t(() => {\n\t\t\tlet article = document.querySelector('.block7527619394932556');\n\n\t\t\tarticle.querySelectorAll('a').forEach(elm
+  => {\n\t\t\t\tif (!elm.href.search(/^(http).+(hopelink.com).+$/)) {\n\t\t\t\t\telm.target
+  = '_blank';\n\t\t\t\t\telm.title = 'Opens in a new tab';\n\t\t\t\t}\n\t\t\t});\n\t\t})();\n\t</script>\n\n[![Lakeside
+  Industries](https://www.hopelink.org/wp-content/uploads/2024/04/lakeside_compressed.png
+  \"Lakeside industries Logo\")](https://lakesideindustries.com)\n\n[![Providence
+  Swedish](https://www.hopelink.org/wp-content/uploads/2024/04/providince_compressed.png
+  \"Providence Swedish\")](https://www.providence.org/lp/swedish)\n\n[![Arcora](https://www.hopelink.org/wp-content/uploads/2024/04/acora_compressed.png
+  \"Arcora\")](https://arcorafoundation.org/)\n\n[![PAC Worldwide](https://www.hopelink.org/wp-content/uploads/2023/03/pac_compressed.png
+  \"PAC Worldwide\")](https://www.pac.com)\n\n<style>\nfigcaption {\n    font-size:
+  0.8rem !important;\n    margin-top:20px!important;</p>\n<p>}\n.figcaption {\n    font-size:
+  0.8rem !important;</p>\n<p>}\n</style>\n\n<script defer>\n\t\t(() => {\n\t\t\tlet
+  article = document.querySelector('.block8859906697922832');\n\n\t\t\tarticle.querySelectorAll('a').forEach(elm
+  => {\n\t\t\t\tif (!elm.href.search(/^(http).+(hopelink.com).+$/)) {\n\t\t\t\t\telm.target
+  = '_blank';\n\t\t\t\t\telm.title = 'Opens in a new tab';\n\t\t\t\t}\n\t\t\t});\n\t\t})();\n\t</script>"
+content_checksum: 869352fcbc6d181e0d7dc82b340b380f9439310f864f58a6b667123b570858af
+summarized: true
+---
+
+Hopelink's annual End Summer Hunger campaign provides free, nutritious food for children who rely on school meals during the summer. The campaign raised $281,911 and collected over 3,500 pounds of food, exceeding its goal. Community members donated ready-to-eat items, and several groups held drives to collect food. Hopelink also partnered with summer camps, companies, and youth-based groups for in-kind donations. The campaign not only alleviated the burden of increased meal costs for parents but also raised awareness about summer food insecurity.
+
+![Riverview School District’s cereal donations stocked at the Hopelink Sno-Valley Market. Photo credit: Maple Weinberg, Hopelink.](https://www.hopelink.org/sites/default/files/styles/medium/public/2021-11/Sno-Valley%20Market%20-%20Maple%20Weinberg.jpg?itok=8c2J-dzE)

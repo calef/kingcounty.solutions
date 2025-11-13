@@ -1,0 +1,109 @@
+---
+title: Hopelink Food Program Launches Gift Card Program
+date: '2024-05-13T22:41:42+00:00'
+source: Hopelink
+source_url: https://www.hopelink.org/blog/hopelink-food-program-launches-gift-card-program/
+original_content: "## Hopelink Food Program Launches Gift Card Program\n\n##### The
+  program connects clients to local, culturally relevant grocers&nbsp;\n\n<style>\n.padding-fix
+  {\nmargin-left:-20px;\n}</p>\n</style>\n\n<script defer>\n\t\t(() => {\n\t\t\tlet
+  article = document.querySelector('.block4663644186030273');\n\n\t\t\tarticle.querySelectorAll('a').forEach(elm
+  => {\n\t\t\t\tif (!elm.href.search(/^(http).+(hopelink.com).+$/)) {\n\t\t\t\t\telm.target
+  = '_blank';\n\t\t\t\t\telm.title = 'Opens in a new tab';\n\t\t\t\t}\n\t\t\t});\n\t\t})();\n\t</script>\n\n[![La
+  Superior is a local Bellevue business specializing in Latin American products. They
+  offer baked goods, specialty Latin foods, and international calling cards among
+  other products.](https://www.hopelink.org/wp-content/uploads/2023/03/2024_Bellevue_Food_Team_Story_Square_0000_2024_Bellevue_Food_Team_Story_22-1024x945.jpg
+  \"La Superior is a local Bellevue business specializing in Latin American products.
+  They offer baked goods, specialty Latin foods, and international calling cards among
+  other products. \")](https://www.lasuperiorbellevue.com/)\n_La Superior is a local
+  Bellevue business specializing in Latin American products. They offer baked goods,
+  specialty Latin foods, and international calling cards among other products. (Photo
+  by Antonio Estrada, Hopelink)_\n\n![Ramiro, part owner of La Superior, making transactions,
+  fielding phone calls, and providing customer service.](https://www.hopelink.org/wp-content/uploads/2023/03/2024_Bellevue_Food_Team_Story_Square_0003_2024_Bellevue_Food_Team_Story_19-1024x945.jpg
+  \"Ramiro, part owner of La Superior, making transactions, fielding phone calls,
+  and providing customer service. \")\n_Ramiro, co-owner of La Superior, fields a
+  phone call while completing a transaction. (Photo by Antonio Estrada, Hopelink)_\n\nLast
+  summer, Hopelink’s Food Assistance program was awarded an American Rescue Plan Act
+  (ARPA) Grant for Food and Wellness from the City of Bellevue. The grant provided
+  funds to purchase gift cards for clients and food to support the [Bellevue Food
+  Market](https://www.hopelink.org/locations/bellevue/).&nbsp;&nbsp;\n\n“When we received
+  the grant, the notion of distributing gift cards from local businesses emerged as
+  an opportunity of choice and diversity for our clients,” said Shelby Chapman, Food
+  Program Coordinator at Hopelink’s Bellevue Food Market.&nbsp;\n\nFrom that idea,
+  the team created a unique gift card program. Instead of providing clients with a
+  gift card from one major retailer, they could get them from local businesses that
+  specialize in culturally relevant food and give clients the chance to find food
+  items they may not find at traditional grocery stores.&nbsp;\n\n![The International
+  Deli offers Eastern European delicacies, like specialty meats, seasonings, and sweets. ](https://www.hopelink.org/wp-content/uploads/2023/03/2024_Bellevue_Food_Team_Story_Square_0002_2024_Bellevue_Food_Team_Story_1-1024x945.jpg
+  \"The International Deli offers Eastern European delicacies, like specialty meats,
+  seasonings, and sweets. \")\n_The International Deli offers Eastern European delicacies,
+  like specialty meats, seasonings, and sweets. (Photo by Antonio Estrada, Hopelink) _\n\n![The
+  International Deli gives folks an authentic experience providing a variety of Eastern
+  European meats and cheeses.](https://www.hopelink.org/wp-content/uploads/2023/03/2024_Bellevue_Food_Team_Story_Square_0005_Layer-0-1024x945.jpg
+  \"The International Deli gives folks an authentic experience providing a variety
+  of Eastern European meats and cheeses. \")\n_The International Deli gives folks
+  an authentic experience providing a variety of Eastern European meats and cheeses.
+  (Photo by Antonio Estrada, Hopelink) _\n\nThe team identified three potential partners
+  who cater to diverse populations within Bellevue: The International Deli, Asian
+  Family Market, and La Superior.&nbsp;&nbsp;\n\nRenowned for its vibrant array of
+  Latin American products, La Superior is a cherished Bellevue grocery store located
+  on 160<sup>th</sup> Ave NE. For 17 years, Ramiro and his brothers have not only
+  nurtured their business but have also woven threads of connection within the community,
+  even amidst the challenges of a fluctuating market.&nbsp;\n\n“Back in 2008, when
+  the economy took a hit, we were cruising around Bellevue and noticed many empty
+  spaces. That’s when the idea of opening a store struck us,” shared Ramiro, speaking
+  in Spanish, reflecting on the evolution of their entrepreneurial journey.&nbsp;\n\nYet,
+  beyond the mere pursuit of business growth—a story of solidarity lies beneath it
+  all. “People started trickling in when several Hispanic businesses shuttered. First,
+  one closed, then another, and folks migrated to us,” said Ramiro.&nbsp;\n\n“At first
+  when Hopelink approached us about the partnership, we were apprehensive. But when
+  they explained how the program would work, we loved the idea,” continued Ramiro.
+  “In reality, the program has really helped us gain new clients and has given us
+  the opportunity to show folks all the variety of products we offer.”&nbsp;&nbsp;\n\n![The
+  Asian Family Market offers a wide selection of Asian-inspired food and sections
+  for produce, meats, and seafood.](https://www.hopelink.org/wp-content/uploads/2023/03/2024_Bellevue_Food_Team_Story_Square_0001_2024_Bellevue_Food_Team_Story_13-1024x945.jpg
+  \"The Asian Family Market offers a wide selection of Asian-inspired food and sections
+  for produce, meats, and seafood. \")\n_The Asian Family Market offers a wide selection
+  of Asian-inspired food and sections for produce, meats, and seafood. (Photo by Antonio
+  Estrada, Hopelink) _\n\n![Asian Family Market has multiple aisles, checkout lanes,
+  and huge selection of products from across Asia. ](https://www.hopelink.org/wp-content/uploads/2023/03/2024_Bellevue_Food_Team_Story_Square_0004_2024_Bellevue_Food_Team_Story_8-1024x945.jpg
+  \"Asian Family Market has multiple aisles, checkout lanes, and huge selection of
+  products from across Asia. \")\n_Asian Family Market has multiple aisles, checkout
+  lanes, and huge selection of products from across Asia. (Photo by Antonio Estrada,
+  Hopelink) _\n\nThe Asian Family Market, the largest of the three stores selected,
+  offers an array of Asian American products along with organic produce, meats, and
+  a large seafood selection. Conveniently located across the street from Hopelink’s
+  Bellevue Center on Main St., The International Deli offers Eastern European delicacies,
+  candies, and staples.&nbsp;\n\n“Our gift card partnership program was impactful
+  on multiple fronts, benefiting both Bellevue clients and the small, multi-cultural
+  businesses we partnered with,” said Hopelink Food Programs Director, Amanda Lopez-Castanon.
+  “It aimed to address unseen challenges faced by these businesses, while also breaking
+  down barriers for Hopelink clients accessing essential, culturally relevant food.”&nbsp;&nbsp;\n\nAnd
+  in just three days of distributing the cards, all 300 gift cards were accepted by
+  clients, with many of them returning to share their gratitude and appreciation for
+  this special opportunity.&nbsp;&nbsp;\n\n“Receiving the gift card was extremely
+  helpful,” shared Natalia, a Bellevue client. “I was able to get groceries that my
+  family actually liked, and I appreciated the choice we were given between the different
+  stores and gift cards.”&nbsp;&nbsp;\n\n“The Bellevue Food Market hopes to receive
+  additional funding to continue this program”, says Amanda. “By providing community
+  support and fostering new client relationships, we’ve seen tangible success, and
+  aim to continue to expand this program in the future.”&nbsp;\n\n[_La Superior_](https://www.lasuperiorbellevue.com/)
+  _is located at 900 160th Ave. NE., Bellevue, WA 98008, the_ [_Asian Family Market_](https://www.asianfamilymkt.com/)
+  _is located at 14515 NE. 20th St., and the_ [_International Deli_](https://www.yelp.com/biz/international-deli-bellevue)
+  _is located at 15015 Main St., Bellevue, WA 98007.&nbsp;_&nbsp;\n\n_Interviews with
+  La Superior Owner Ramiro were conducted in Spanish and translated by the writer,
+  a fluent Spanish speaker._&nbsp;\n\n<script defer>\n\t\t(() => {\n\t\t\tlet article
+  = document.querySelector('.block8539279807888439');\n\n\t\t\tarticle.querySelectorAll('a').forEach(elm
+  => {\n\t\t\t\tif (!elm.href.search(/^(http).+(hopelink.com).+$/)) {\n\t\t\t\t\telm.target
+  = '_blank';\n\t\t\t\t\telm.title = 'Opens in a new tab';\n\t\t\t\t}\n\t\t\t});\n\t\t})();\n\t</script>\n\n_Hopelink’s_
+  [_Food Assistance Program_](https://www.hopelink.org/programs/food-program/) _operates
+  five food markets with locations in_ [_Bellevue_](https://www.hopelink.org/locations/bellevue/)_,_
+  [_Redmond_](https://www.hopelink.org/locations/redmond-market-and-service-center/)_,_
+  [_Shoreline_](https://www.hopelink.org/locations/shoreline-market-and-service-center/)_,_
+  [_Kirkland_](https://www.hopelink.org/locations/kirkland-northshore/)_, and_ [_Sno-Valley_](https://www.hopelink.org/locations/sno-valley/)_.
+  At no cost, clients can shop at the market as they would in a typical grocery store
+  by choosing the items that best fit their household needs._&nbsp;"
+content_checksum: 477b588ee4eeab78ec7af29e71124e97620eb43cac42cc3260e5d7efde1c2f4a
+summarized: true
+---
+
+Hopelink, a community organization, has launched a gift card program for its Food Assistance program. The initiative, funded by an American Rescue Plan Act Grant, provides gift cards for local businesses that cater to diverse populations. Three businesses were identified for the program — The International Deli, Asian Family Market, and La Superior. The aim is to offer clients access to culturally relevant food they may not find at traditional grocery stores. All 300 gift cards were accepted by clients in just three days. Hopelink hopes to receive additional funding to continue the program.

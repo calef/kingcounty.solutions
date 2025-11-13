@@ -1,0 +1,11 @@
+---
+title: VETERAN’S DAY COFFEE CART! November 11, 2025/ 8:00AM-11:30AM/ Town Hall
+date: '2025-10-10T17:25:41+00:00'
+source: Town of Yarrow Point
+source_url: https://yarrowpointwa.gov/2025/10/veterans-day-coffee-cart-november-11-2025-800am-1130am-town-hall/
+original_content: "![](https://yarrowpointwa.gov/wp-content/uploads/2025/10/Veterans-Day-Coffee-Cart-2025-scaled.jpg)"
+content_checksum: 4c1564eb9ce2d2877afbdbfc77415026d928911ef7773055b2f6ce9da543e335
+summarized: true
+---
+
+The town of Yarrow Point, Washington, is hosting a Veterans Day Coffee Cart on November 11, 2025, from 8:00 am to 11:30 am at Town Hall. The announcement was made by the town administration on October 10, 2025. No further details were provided in the article.

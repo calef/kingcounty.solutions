@@ -1,0 +1,31 @@
+---
+title: Join the People’s Project Steering Committee – Help Shape How Tukwila Spends
+  $50,000
+date: '2025-06-12T21:02:28+00:00'
+source: City of Tukwila
+source_url: https://www.tukwilawa.gov/join-the-peoples-project-steering-committee-help-shape-how-tukwila-spends-50000/
+original_content: "![](https://www.tukwilawa.gov/wp-content/uploads/Mayor-PeoplesPledgeBG-300x200.png)\n\nWe’re
+  excited to share that applications are now open for **The People’s Project Steering
+  Committee** — a resident-led group that will help design Tukwila’s first-ever Participatory
+  Budgeting process. Steering Committee members will help shape a fair, inclusive
+  process that gives community members the power to directly decide how the City invests
+  in small, resident-driven projects.\n\nThis is a **paid opportunity**. Committee
+  members will receive a stipend for their time and contributions.\n\n**What’s The
+  People’s Project?**  \nThe City of Tukwila has set aside $50,000 to fund projects
+  like benches, water fountains, public art, or safety improvements. In this process,
+  residents will get to submit ideas and vote on what gets funded.\n\n**What does
+  the Steering Committee do?**\n\n- Attend monthly 1.5-hour meetings (June–December)\n-
+  Help design the idea collection and voting process\n- Provide input on outreach
+  strategies and materials\n- Help ensure the process is accessible, inclusive, and
+  community-centered\n\nWe’re looking for creative, thoughtful, and committed residents
+  who want to help shape something new in Tukwila — no prior experience required.\n\n**Youth
+  ages 16+ are especially encouraged to apply** — your voice matters!\n\n**Apply by
+  June 30**\n\nLearn more and apply at: **[Tukwilawa.gov/PeoplesProject](https://www.tukwilawa.gov/departments/mayors-office/key-city-plans-and-projects/thepeoplesproject/)**\n\nThe
+  post [Join the People’s Project Steering Committee – Help Shape How Tukwila Spends
+  $50,000](https://www.tukwilawa.gov/join-the-peoples-project-steering-committee-help-shape-how-tukwila-spends-50000/)
+  appeared first on [City of Tukwila](https://www.tukwilawa.gov)."
+content_checksum: 9dac3ec553b8de12d2c0ba1b1787d3c70778d8427e8d566bda99d88d924f9405
+summarized: true
+---
+
+The City of Tukwila, Washington, is inviting residents to join the People’s Project Steering Committee to guide the city's first Participatory Budgeting process. The committee will help shape an inclusive process that empowers community members to decide how the city invests in small, resident-driven projects. The city has allocated $50,000 for projects such as benches, water fountains, public art, or safety improvements. Committee members, who will receive a stipend for their contributions, will attend monthly meetings, design the idea collection and voting process, and ensure the process is accessible and community-centered. The deadline to apply is June 30.

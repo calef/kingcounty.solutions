@@ -1,0 +1,118 @@
+---
+title: 'Finding Your Way: Community Transportation Navigators break transit barriers'
+date: '2024-08-14T22:14:51+00:00'
+source: Hopelink
+source_url: https://www.hopelink.org/blog/finding-your-way-community-transportation-navigators-break-transit-barriers/
+original_content: "## **Finding Your Way**\n\n### **Community Transportation Navigators
+  Break Transit Barriers**\n\n![Roxanne (left), Vicky (center), and Rocel (right)
+  provide outreach materials as the three Community Transportation Navigators in the
+  Filipino Cultural Cohort.](https://www.hopelink.org/wp-content/uploads/2024/08/2024_Community_Transportation_Navigators_8-1024x771.jpg
+  \"Roxanne (left), Vicky (center), and Rocel (right) provide outreach materials as
+  the three Community Transportation Navigators in the Filipino Cultural Cohort. \")\n_Roxanne
+  (left), Vicky (center), and Rocel (right) provide outreach materials as the three
+  Community Transportation Navigators in the Filipino Cultural Cohort._\n\n“Imagine
+  being a newly arrived person, and you’re confronted with over 100 unique transportation
+  providers in King County,” said Sara Sisco, Hopelink Senior Manager of Mobility
+  Education & Outreach at Hopelink. “How does one navigate this incredibly complicated
+  system? That’s where the Community Transportation Navigators program comes in.”&nbsp;&nbsp;\n\nCommunity
+  Transportation Navigators (CTNs) is a peer-to-peer outreach strategy that utilizes
+  members within the community focusing on cultural competence and the reflection
+  of shared lived experiences. “There are a lot of other peer-to-peer models that
+  exist. But there were no peer-to-peer models focused solely on transportation access
+  for communities that are historically impacted by transportation,” said Sara.&nbsp;&nbsp;\n\nIn
+  2018, The King County Mobility Coalition and Hopelink Mobility Management Team received
+  an Inclusive Planning grant to better understand the transportation needs and gaps
+  across King County. Two programs were elevated from that – [Community Transportation
+  Navigators](https://www.kcmobility.org/community-transportation-navigators) and
+  [Find a Ride](https://www.findaride.org/).&nbsp;\n\nOver the next two years, Hopelink
+  conducted research and met with community members to identify how these programs
+  could best serve their needs. This would lead to partnerships and funding opportunities
+  for programmatic growth.&nbsp;\n\n![Folks engage with the Community Transportation
+  Navigators at outreach events to learn about transportation services available to
+  them.  ](https://www.hopelink.org/wp-content/uploads/2024/08/2024_Community_Transportation_Navigators_3-scaled-e1723495140653-1024x608.jpg
+  \"Folks engage with the Community Transportation Navigators at outreach events to
+  learn about transportation services available to them.  \")\n_Folks engage with
+  the Community Transportation Navigators at outreach events to learn about transportation
+  services available to them.  _\n\nIn 2020, King County Metro approached [Hopelink](https://hopelink.org)
+  with the opportunity to do a pilot program for the Community Transportation Navigators
+  program. Metro’s research identified and focused on engaging with the Afghani, Filipino,
+  and Somali communities. The team found these groups used transit regularly, but
+  paid in cash instead of using ORCA cards, demonstrating a knowledge gap and the
+  need for additional support.&nbsp;\n\n“The Filipino cohort, which is our first cohort,
+  is focused on supporting the Filipino community and the larger immigrant community
+  for King County” says Sandy Phan, Hopelink Community Transportation Navigators Program
+  Manager.&nbsp;&nbsp;\n\nRocel, a Navigator in the Filipino cohort, immigrated to
+  the U.S. from the Philippines in 1992. “When I hear and listen to the stories and
+  challenges of immigrants starting a new life in America, I can relate to them,”
+  she said. “I love to share my culture in the community, learning, and educating,
+  so I was fortunate enough to be connected with Hopelink back in 2022.”&nbsp;\n\nAccording
+  to current U.S. Census Data, 29.5% of individuals in King County speak languages
+  other than English at home with 12% of immigrants and refugees using public transportation
+  as their primary mode for commuting to work.&nbsp;&nbsp;\n\n![2024 Community Transportation
+  Navigators 5](https://www.hopelink.org/wp-content/uploads/2024/08/2024_Community_Transportation_Navigators_5-911x1024.jpg
+  \"Finding Your Way: Community Transportation Navigators break transit barriers 10\")\n\n“When
+  many immigrants move to the United States, they don’t have their own personal transportation,
+  so they utilize public transit,” Rocel shared. “Many in the Filipino immigrant communities
+  utilize public transportation for almost every aspect of their lives: looking for
+  a job, taking the kids to school, going to medical and dental appointments, grocery
+  shopping, and other errands.”&nbsp;&nbsp;\n\nProviding critical transportation information
+  to underserved client communities is a top priority for the Community Transportation
+  Navigators. Through the [Immigrant and Refugee Needs Assessment](https://irp-cdn.multiscreensite.com/c86a044e/files/uploaded/King%20County%20Immigrant%20and%20Refugee%20Transportation%20Needs%20Assessment%20May%202019.pdf),
+  the Hopelink Mobility team identified language barriers and cost as some of the
+  most significant challenges individuals face.&nbsp;&nbsp;\n\n_Rocel, a Navigator
+  in the Filipino cohort, enjoys providing folks with resources to connect them to
+  transportation services.&nbsp;_\n\nRocel, a Navigator in the Filipino cohort, enjoys
+  providing folks with resources to connect them to transportation services.&nbsp;\n\n“We
+  utilize tools like Language Line\\* and translate any requested materials into whatever
+  language needed,” says Sara. “By providing these communities with the translated
+  resources, transportation clients feel empowered and more confident riding public
+  transit,” added Rocel.&nbsp;&nbsp;\n\nMuch of Rocel’s outreach efforts focus on
+  educating her community on things like the cost-effective transportation options
+  available to eligible riders for a reduced fee for example. “Many times, I am educating
+  folks on what services they may be eligible for based on their specific situation,”
+  said Rocel.&nbsp; “Many are not aware of that, especially from the immigrant community.”&nbsp;&nbsp;\n\nThe
+  second Community Transportation Navigators cohort is dedicated to serving the Health
+  Through Housing (HTH) residents to increase their access to transportation.&nbsp;&nbsp;\n\nKing
+  County’s Health Through Housing Initiative supports people experiencing homelessness
+  by repurposing vacant buildings to emergency housing and permanent supportive housing.
+  This cohort provides resources to those experiencing or at risk of long-term homelessness,
+  connecting them to transportation services.&nbsp;&nbsp;\n\nHTH Navigators come to
+  the program with their unique experiences with homelessness, ready to support their
+  peers in improving their access to opportunities with transportation.&nbsp;&nbsp;\n\n“When
+  I first came to Seattle, I experienced homelessness,” shared Cedric, a HTH Community
+  Transportation Navigator. “I worked my way up, going to school, getting a job, and
+  getting my own place. I like to let folks know that if I can do it, they can too.”&nbsp;&nbsp;\n\n![Community
+  Transportation Navigators offer a variety of resources at outreach events, providing
+  folks with the many transit options available to them.  ](https://www.hopelink.org/wp-content/uploads/2024/08/2024_Community_Transportation_Navigators_1-1024x771.jpg
+  \"Community Transportation Navigators offer a variety of resources at outreach events,
+  providing folks with the many transit options available to them.  \")\n_Community
+  Transportation Navigators offer a variety of resources at outreach events, providing
+  folks with the many transit options available to them.  _\n\n“The Health Through
+  Housing and the Filipino cohorts leverage their lived experience and culturally
+  appropriate outreach methods to continue educating communities on what transit opportunities
+  are available to them,” says Sandy.&nbsp;&nbsp;\n\nThis summer, the program is launching
+  a third cohort centering the needs of Muslim women. “We know there is a gap, and
+  we know there’s a demand as many Muslim women don’t drive and rely on public transit,”
+  said Sandy.&nbsp;\n\n“We’re so excited about this Muslim cohort. This has been our
+  dream for a while,” said Sara Sisco. “Right now, we have funding for the cultural
+  cohorts until the end of this year, and the health through housing cohorts until
+  the end of next year so I want to secure funds to get us through four or five more
+  years.”&nbsp;&nbsp;\n\nTo learn more about the Community Transportation Navigators
+  click [here](https://www.kcmobility.org/community-transportation-navigators)!&nbsp;\n\n<script
+  defer>\n\t\t(() => {\n\t\t\tlet article = document.querySelector('.block5380271415504582');\n\n\t\t\tarticle.querySelectorAll('a').forEach(elm
+  => {\n\t\t\t\tif (!elm.href.search(/^(http).+(hopelink.com).+$/)) {\n\t\t\t\t\telm.target
+  = '_blank';\n\t\t\t\t\telm.title = 'Opens in a new tab';\n\t\t\t\t}\n\t\t\t});\n\t\t})();\n\t</script>\n\n_\\*Language
+  Line is an interpretation tool Hopelink uses to communicate with folks in their
+  native language. With over 240+ languages offered; Language Line offers clients
+  the ability to overcome language access barriers. This supports Hopelink’s Community
+  Guidelines in providing a more welcoming and inclusive environment for our clients.&nbsp;&nbsp;_\n\n<style>\nfigcaption
+  {\n    font-size: 0.8rem !important;</p>\n<p>}\n.figcaption {\n    font-size: 0.8rem
+  !important;</p>\n<p>}\n</style>\n\n<script defer>\n\t\t(() => {\n\t\t\tlet article
+  = document.querySelector('.block889308362667896');\n\n\t\t\tarticle.querySelectorAll('a').forEach(elm
+  => {\n\t\t\t\tif (!elm.href.search(/^(http).+(hopelink.com).+$/)) {\n\t\t\t\t\telm.target
+  = '_blank';\n\t\t\t\t\telm.title = 'Opens in a new tab';\n\t\t\t\t}\n\t\t\t});\n\t\t})();\n\t</script>"
+content_checksum: 63aa25694eddb8cd97cb92d845c10c9d3ebf244e6d2a4301cb74948f808e383e
+summarized: true
+---
+
+Hopelink's Community Transportation Navigators (CTNs) program assists communities historically impacted by transportation challenges in King County. The CTNs use peer-to-peer outreach strategies to help community members navigate the complex transit system. The initiative, funded by an Inclusive Planning grant, has so far focused on the Filipino and Health Through Housing cohorts, providing resources and support to immigrants and those experiencing homelessness. The program uses tools like the Language Line to overcome language barriers. A third cohort focusing on the needs of Muslim women is set to launch this summer. Hopelink aims to secure additional funding to sustain the program for several more years.

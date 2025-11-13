@@ -1,0 +1,51 @@
+---
+title: Town Council Vacancy
+date: '2025-11-06T19:32:02+00:00'
+source: Town of Yarrow Point
+source_url: https://yarrowpointwa.gov/2025/11/town-council-vacancy/
+original_content: "**Notice: Town Council Vacancy**\n\n[Application for Appointment
+  to Town Council](https://yarrowpointwa.gov/wp-content/uploads/2025/11/Application-for-Appointment-to-Town-Council.pdf)\n\nThe
+  Town of Yarrow Point is requesting applications from residents to fill Councilmember
+  Michael Hyman’s position on the Town Council commencing on December 9<sup>th</sup>,
+  2025, for a two-year term, ending December 31<sup>st</sup>, 2027.\n\nTo be eligible
+  for appointment to the Yarrow Point Town Council, you must have continuously resided
+  within Yarrow Point Town limits for a minimum of one year prior to your appointment,
+  as well as be a registered voter in the Town of Yarrow Point.\n\nThe timeline for
+  filling the Council vacancy is as follows:\n\n- Applications due online or with
+  the Town Deputy Clerk by **Friday, November 28, 2025 at 2:00 PM** \n- Evaluation
+  of eligibility and Q&A with Mayor are anticipated to occur December 2<sup>nd</sup>
+  – 5<sup>th</sup>, 2025.\n- Candidate final interviews, appointment and swearing
+  in will occur at the Regular Council meeting on December 9<sup>th</sup>,&nbsp; 2025\n\nInterested
+  residents may apply using an electronic fillable form (attached), print your own
+  form, or pick up an application form at Town Hall (4030 95<sup>th</sup> Ave NE).
+  Email your application to Austen via email [depclerk@yarrowpointwa.gov](mailto:depclerk@yarrowpointwa.gov)&nbsp;
+  or deliver to Austen at Town Hall.&nbsp; Applications must be received by **Friday,
+  November 28, 2025 at 2:00 PM.** Applications received after this deadline will not
+  be considered.\n\n**Details:**\n\nThe Yarrow Point Town Council is the non-partisan,
+  part-time legislative authority of the Town of Yarrow Point. The Town operates under
+  a Mayor-Council form of government. The five-member Town Council serves as the legislative
+  body of the Town. The Council is responsible for setting legislative policy, adopting
+  the annual budget, adopting laws, determining the services to be provided and the
+  funding levels for those services.\n\nThe appointed Councilmember will have the
+  same level of duty and privilege as all other Councilmembers.\n\nThe duties of a
+  Town Councilmember involve an average commitment of 8 hours per month for constituent
+  relations, preparation, participation, and attendance at various meetings. Beyond
+  the broad duties previously mentioned, Councilmember duties include, but are not
+  limited to:\n\n- Required attendance at regular council meetings held at 4:00 PM
+  on the second Tuesday of the month.\n- From time-to-time, the Town Council or Mayor
+  may call special Town Council meetings as needed. Each Councilmember may serve on
+  one or more subcommittees. These committees generally meet between regular council
+  meetings.\n- Councilmembers may also be expected to serve as liaisons to various
+  regional boards and commissions. These various meetings and functions occur normally
+  during the evenings, but may also occur on some weekends, and during some weekdays.\n-
+  Some travel may be expected locally or regionally. Travel expenses are reimbursed
+  in accordance with Town policy applicable to all employees and Town officials, subject
+  to the Council’s budgetary limit.\n\nOnce an application is filed with the Town,
+  it is a public record. Application materials received from all candidates who meet
+  the minimum requirements of state law will be presented as part of the public meeting
+  to select an appointee.\n\nThank you for your interest in serving our community."
+content_checksum: ca6e9bb974741fd72b0df18aa1d7443e185aefc8a6b34a14d725103d79d8e805
+summarized: true
+---
+
+The Town of Yarrow Point is seeking applications from residents to fill a Town Council vacancy. The position, formerly held by Councilmember Michael Hyman, commences on December 9th, 2025, for a two-year term. Eligibility requires applicants to have resided within the town limits for at least a year prior to appointment and be a registered voter. Applications are due by November 28, 2025. The role entails an average commitment of 8 hours per month attending meetings, liaising with various regional boards, and serving on subcommittees. Some local or regional travel may be required.

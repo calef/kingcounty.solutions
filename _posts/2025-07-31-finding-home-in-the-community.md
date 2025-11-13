@@ -1,0 +1,14 @@
+---
+title: Finding Home in the Community
+date: '2025-07-31T23:27:25+00:00'
+source: Indian American Community Services (IACS)
+source_url: https://iacswa.org/finding-home-in-the-community/
+original_content: |-
+  Finding Home in the Community The truth of being a part of a diaspora is best described in the words of the author Salman Rushdie, who writes — “sometimes we [...]
+
+  [Read More... from Finding Home in the Community](https://iacswa.org/finding-home-in-the-community/)
+content_checksum: 93c6890fa739d1aca9cc77e80a872ee3e22cbfc4bbe8422ef8fb0abfefd6074f
+summarized: true
+---
+
+Mukesh and Ambica, Indian Gujaratis, lived in Mombasa, Kenya, before moving to England in 1967 due to discrimination following Kenya's independence. After facing cultural shocks in England, they moved to the US in 1985. Despite finding success in their Dairy Queen franchise in Wenatchee, they felt a lack of belonging, especially after retiring and being far from their children. They found comfort in the Indian American Community Service (IACS), a community program that offered them a sense of belonging and connection. The IACS senior programs, which include yoga, tai chi, and shared lunches, provide familiarity and friendship for immigrants like Mukesh and Ambica.
