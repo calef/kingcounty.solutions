@@ -25,11 +25,6 @@ def read_frontmatter(file_path)
   end
 end
 
-# Helper to compute SHA256 checksum
-def checksum(content)
-  Digest::SHA256.hexdigest(content)
-end
-
 # Iterate through all Markdown files in _sources
 Dir.glob("#{SOURCES_DIR}/*.md") do |source_file|
   frontmatter = read_frontmatter(source_file)
@@ -47,13 +42,10 @@ Dir.glob("#{SOURCES_DIR}/*.md") do |source_file|
         original_html = item.respond_to?(:content_encoded) && item.content_encoded ? item.content_encoded : item.description
         original_html = original_html.to_s.strip
 
-        # Compute checksum on the original HTML
-        item_checksum = checksum(original_html)
-
-        # Skip if an existing news file already has this checksum
+        # Skip if we've already imported this article (has original_content)
         existing_file = Dir.glob("#{NEWS_DIR}/*.md").find do |f|
           fm = read_frontmatter(f)
-          fm['content_checksum'] == item_checksum
+          fm['original_content'] && fm['source_url'] == item.link
         end
         if existing_file
           puts "Skipping #{item.title} (already imported)"
@@ -74,8 +66,7 @@ Dir.glob("#{SOURCES_DIR}/*.md") do |source_file|
           'date' => item.pubDate ? item.pubDate.iso8601 : Time.now.iso8601,
           'source' => source_title,
           'source_url' => item.link,
-          'original_content' => original_html,
-          'content_checksum' => item_checksum
+          'original_content' => original_html
         }
 
         # Write the news file with proper single frontmatter
