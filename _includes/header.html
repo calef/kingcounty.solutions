@@ -17,7 +17,425 @@
         <a class="page-link" href="{{ '/organizations/' | relative_url }}">Organizations</a>
         <a class="page-link" href="{{ '/places/' | relative_url }}">Places</a>
         <a class="page-link" href="{{ '/news/' | relative_url }}">News</a>
+        <div class="site-search">
+          <button type="button" id="site-search-toggle" class="site-search-toggle" aria-expanded="false" aria-controls="site-search-panel">
+            <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" focusable="false">
+              <path fill="currentColor" d="M15.5 14h-.79l-.28-.27A6 6 0 1014 15.5l.27.28v.79l5 5L20.5 19zm-6 0A4.5 4.5 0 1114 9.5 4.5 4.5 0 019.5 14z"/>
+            </svg>
+            <span>Search</span>
+          </button>
+          <div class="site-search-panel" id="site-search-panel" hidden>
+            <div class="site-search-panel-inner">
+              <div class="site-search-panel-header">
+                <h2>Search the site</h2>
+                <button type="button" id="site-search-close" class="site-search-close" aria-label="Close search">&times;</button>
+              </div>
+              <div class="site-search-control">
+                <input
+                  type="search"
+                  id="site-search-input"
+                  name="site-search-input"
+                  placeholder="Search pages, news, organizations, places, and topics"
+                  autocomplete="off"
+                  autocapitalize="none"
+                  spellcheck="false"
+                  aria-describedby="site-search-status"
+                >
+                <button type="button" id="site-search-clear" class="site-search-clear" aria-label="Clear search" hidden>&times;</button>
+              </div>
+              <div class="site-search-results">
+                <p class="site-search-status" id="site-search-status" aria-live="polite">
+                  Type at least 2 characters to search the whole site.
+                </p>
+                <ul class="site-search-list" id="site-search-list"></ul>
+              </div>
+            </div>
+          </div>
+        </div>
       </div>
     </nav>
   </div>
 </header>
+
+<style>
+.site-search {
+  position: relative;
+  display: inline-block;
+  margin-left: 0.75rem;
+}
+.site-search-toggle {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+  border: 1px solid #d0d0d0;
+  border-radius: 999px;
+  padding: 0.25rem 0.75rem;
+  background: transparent;
+  color: inherit;
+  font-size: 0.9rem;
+  cursor: pointer;
+}
+.site-search-toggle:hover,
+.site-search-toggle:focus {
+  border-color: #0366d6;
+  color: #0366d6;
+  outline: none;
+}
+.site-search-panel {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.45);
+  z-index: 1000;
+}
+.site-search-panel-inner {
+  position: absolute;
+  top: 10%;
+  left: 50%;
+  transform: translateX(-50%);
+  width: min(640px, 90vw);
+  background: #fff;
+  border-radius: 0.75rem;
+  box-shadow: 0 10px 50px rgba(0, 0, 0, 0.2);
+  padding: 1.25rem;
+}
+.site-search-panel-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.75rem;
+}
+.site-search-panel-header h2 {
+  margin: 0;
+  font-size: 1.1rem;
+}
+.site-search-close {
+  border: none;
+  background: transparent;
+  font-size: 1.5rem;
+  line-height: 1;
+  cursor: pointer;
+  color: #555;
+}
+.site-search-control {
+  position: relative;
+  margin-bottom: 0.75rem;
+}
+.site-search-control input {
+  width: 100%;
+  padding: 0.75rem 2.75rem 0.75rem 0.75rem;
+  border: 1px solid #ccc;
+  border-radius: 0.45rem;
+  font-size: 1rem;
+}
+.site-search-control input:focus {
+  outline: none;
+  border-color: #0366d6;
+  box-shadow: 0 0 0 3px rgba(3, 102, 214, 0.15);
+}
+.site-search-clear {
+  position: absolute;
+  right: 0.75rem;
+  top: 50%;
+  transform: translateY(-50%);
+  border: none;
+  background: transparent;
+  font-size: 1.25rem;
+  line-height: 1;
+  cursor: pointer;
+  color: #666;
+}
+.site-search-results {
+  max-height: 50vh;
+  overflow-y: auto;
+}
+.site-search-status {
+  margin: 0 0 0.5rem;
+  color: #666;
+  font-size: 0.95rem;
+}
+.site-search-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0.25rem;
+}
+.site-search-list li {
+  border: 1px solid #e0e0e0;
+  border-radius: 0.4rem;
+  padding: 0.3rem 0.6rem 0.4rem;
+}
+.site-search-row {
+  display: flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+.site-search-list li a {
+  text-decoration: none;
+  font-weight: 600;
+  color: inherit;
+}
+.site-search-list li a:hover {
+  text-decoration: underline;
+}
+.site-search-result-meta {
+  display: block;
+  margin-top: 0.1rem;
+  color: #666;
+  font-size: 0.8rem;
+  line-height: 1.2;
+}
+.site-search-pill {
+  display: inline-block;
+  padding: 0.05rem 0.35rem;
+  border-radius: 999px;
+  background: #f0f0f0;
+  font-size: 0.7rem;
+  line-height: 1.1;
+  margin-left: 0.3rem;
+}
+@media screen and (max-width: 600px) {
+  .site-search-toggle span {
+    display: none;
+  }
+}
+</style>
+
+<script>
+(function() {
+  const MIN_QUERY = 2;
+  const MAX_RESULTS = 20;
+  const data = [
+    {%- for post in site.posts -%}
+      {%- assign post_excerpt = post.excerpt | strip_html | strip_newlines -%}
+      {%- if post_excerpt == "" or post_excerpt == nil -%}
+        {%- assign post_excerpt = post.content | strip_html | strip_newlines -%}
+      {%- endif -%}
+      {%- assign post_excerpt = post_excerpt | truncate: 160 -%}
+      {
+        "title": {{ post.title | jsonify }},
+        "url": {{ post.url | relative_url | jsonify }},
+        "category": "News",
+        "description": {{ post_excerpt | jsonify }}
+      }{% unless forloop.last %},{% endunless %}
+    {%- endfor -%}
+    {% unless site.posts == empty %},{% endunless %}
+    {%- for org in site.organizations -%}
+      {%- assign org_excerpt = org.content | strip_html | strip_newlines | truncate: 160 -%}
+      {
+        "title": {{ org.title | jsonify }},
+        "url": {{ org.url | relative_url | jsonify }},
+        "category": "Organization",
+        "description": {{ org_excerpt | jsonify }}
+      }{% unless forloop.last %},{% endunless %}
+    {%- endfor -%}
+    {% unless site.organizations == empty %},{% endunless %}
+    {%- for place in site.places -%}
+      {%- assign place_excerpt = place.content | strip_html | strip_newlines | truncate: 160 -%}
+      {
+        "title": {{ place.title | jsonify }},
+        "url": {{ place.url | relative_url | jsonify }},
+        "category": "Place",
+        "description": {{ place_excerpt | jsonify }}
+      }{% unless forloop.last %},{% endunless %}
+    {%- endfor -%}
+    {% unless site.places == empty %},{% endunless %}
+    {%- for topic in site.topics -%}
+      {%- assign topic_excerpt = topic.content | strip_html | strip_newlines | truncate: 160 -%}
+      {
+        "title": {{ topic.title | jsonify }},
+        "url": {{ topic.url | relative_url | jsonify }},
+        "category": "Topic",
+        "description": {{ topic_excerpt | jsonify }}
+      }{% unless forloop.last %},{% endunless %}
+    {%- endfor -%}
+    {% unless site.topics == empty %},{% endunless %}
+    {%- assign searchable_pages = site.pages | where_exp: "p", "p.title and p.title != ''" -%}
+    {%- for page in searchable_pages -%}
+      {%- if page.url contains '/assets/' or page.url contains '/_site/' -%}
+        {%- continue -%}
+      {%- endif -%}
+      {%- assign page_excerpt = page.content | strip_html | strip_newlines | truncate: 160 -%}
+      {
+        "title": {{ page.title | jsonify }},
+        "url": {{ page.url | relative_url | jsonify }},
+        "category": "Page",
+        "description": {{ page_excerpt | jsonify }}
+      }{% unless forloop.last %},{% endunless %}
+    {%- endfor -%}
+  ];
+
+  const categoryCounts = {};
+  data.forEach(item => {
+    const key = item.category || 'Other';
+    categoryCounts[key] = (categoryCounts[key] || 0) + 1;
+  });
+
+  const index = data.map(item => {
+    const searchText = [item.title, item.description, item.category]
+      .filter(Boolean)
+      .join(' ')
+      .toLowerCase();
+    return Object.assign({}, item, { searchText });
+  });
+
+  const toggle = document.getElementById('site-search-toggle');
+  const panel = document.getElementById('site-search-panel');
+  const input = document.getElementById('site-search-input');
+  if (!toggle || !panel || !input) return;
+  const closeBtn = document.getElementById('site-search-close');
+  const clearBtn = document.getElementById('site-search-clear');
+  const status = document.getElementById('site-search-status');
+  const list = document.getElementById('site-search-list');
+
+  function updateStatus(message) {
+    if (status) status.textContent = message;
+  }
+
+  function renderResults(items, total) {
+    if (!list) return;
+    if (items.length === 0) {
+      list.innerHTML = '';
+      updateStatus('No matches found.');
+      return;
+    }
+    const limited = items.slice(0, MAX_RESULTS);
+    list.innerHTML = limited.map(item => {
+      const meta = item.category ? `<span class="site-search-pill">${item.category}</span>` : '';
+      const desc = item.description ? `<span class="site-search-result-meta">${item.description}</span>` : '';
+      return `
+        <li>
+          <div class="site-search-row">
+            <a href="${item.url}">${item.title}</a>
+            ${meta}
+          </div>
+          ${desc}
+        </li>
+      `;
+    }).join('');
+
+    if (total > MAX_RESULTS) {
+      updateStatus(`Showing the first ${MAX_RESULTS} of ${total} matches. Refine your search for more precise results.`);
+    } else {
+      updateStatus(`Found ${total} ${total === 1 ? 'match' : 'matches'}.`);
+    }
+  }
+
+  function handleSearch() {
+    const query = input.value.trim();
+    const hasValue = query.length > 0;
+    clearBtn.hidden = !hasValue;
+
+    if (query.length < MIN_QUERY) {
+      list.innerHTML = '';
+      updateStatus('Type at least 2 characters to search the whole site.');
+      return;
+    }
+
+    const tokens = query.toLowerCase().split(/\s+/).filter(Boolean);
+    const matches = index.filter(item => tokens.every(token => item.searchText.includes(token)));
+    if (matches.length === 0) {
+      renderResults([], 0);
+      return;
+    }
+
+    const grouped = {};
+    matches.forEach(item => {
+      const key = item.category || 'Other';
+      (grouped[key] = grouped[key] || []).push(item);
+    });
+    Object.keys(grouped).forEach(key => {
+      grouped[key].sort((a, b) => a.title.localeCompare(b.title));
+    });
+
+    const categoryOrder = Object.keys(grouped).sort((a, b) => {
+      const countA = categoryCounts[a] || 0;
+      const countB = categoryCounts[b] || 0;
+      if (countA !== countB) {
+        return countA - countB;
+      }
+      return a.localeCompare(b);
+    });
+
+    const ranked = [];
+    while (ranked.length < MAX_RESULTS) {
+      let added = false;
+      for (const category of categoryOrder) {
+        const bucket = grouped[category];
+        if (bucket && bucket.length) {
+          ranked.push(bucket.shift());
+          added = true;
+          if (ranked.length >= MAX_RESULTS) {
+            break;
+          }
+        }
+      }
+      if (!added) break;
+    }
+
+    renderResults(ranked, matches.length);
+  }
+
+  function openPanel() {
+    panel.hidden = false;
+    toggle.setAttribute('aria-expanded', 'true');
+    input.focus();
+    document.body.classList.add('site-search-open');
+  }
+
+  function closePanel() {
+    panel.hidden = true;
+    toggle.setAttribute('aria-expanded', 'false');
+    clearResults();
+    document.body.classList.remove('site-search-open');
+    toggle.focus();
+  }
+
+  function clearResults() {
+    input.value = '';
+    clearBtn.hidden = true;
+    list.innerHTML = '';
+    updateStatus('Type at least 2 characters to search the whole site.');
+  }
+
+  toggle.addEventListener('click', () => {
+    if (panel.hidden) {
+      openPanel();
+    } else {
+      closePanel();
+    }
+  });
+
+  closeBtn.addEventListener('click', closePanel);
+  clearBtn.addEventListener('click', () => {
+    clearResults();
+    input.focus();
+  });
+  input.addEventListener('input', handleSearch);
+  input.addEventListener('focus', handleSearch);
+
+  panel.addEventListener('click', (event) => {
+    if (event.target === panel) {
+      closePanel();
+    }
+  });
+
+  document.addEventListener('keydown', (event) => {
+    if (event.key === 'Escape' && !panel.hidden) {
+      closePanel();
+    }
+    if ((event.metaKey || event.ctrlKey) && event.key.toLowerCase() === 'k') {
+      event.preventDefault();
+      if (panel.hidden) {
+        openPanel();
+      } else {
+        closePanel();
+      }
+    }
+  });
+})();
+</script>
