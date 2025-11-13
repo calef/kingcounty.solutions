@@ -1,0 +1,31 @@
+{% assign docs = site[include.collection] %}
+{% assign current_parent = include.item[include.parent_attr] %}
+{% assign max_depth = include.max_depth | default: 10 %}
+{% assign crumbs = "" %}
+
+{% for i in (0..max_depth) %}
+  {% if current_parent %}
+    {% assign parent_doc = docs | where: "title", current_parent | first %}
+    {% if parent_doc %}
+      {% capture crumbs %}
+        <span>› </span><a href="{{ parent_doc.url | relative_url }}">{{ parent_doc.title }}</a>{{ crumbs }}
+      {% endcapture %}
+      {% assign current_parent = parent_doc[include.parent_attr] %}
+    {% else %}
+      {% capture crumbs %}
+        <span>› </span><span>{{ current_parent }}</span>{{ crumbs }}
+      {% endcapture %}
+      {% assign current_parent = nil %}
+    {% endif %}
+  {% else %}
+    {% break %}
+  {% endif %}
+{% endfor %}
+
+{% if current_parent %}
+  {% capture crumbs %}
+    <span>› </span>{{ crumbs }}
+  {% endcapture %}
+{% endif %}
+
+{{ crumbs }}

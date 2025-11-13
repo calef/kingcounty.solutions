@@ -28,6 +28,11 @@ defaults:
         type: "organizations"
       values:
         layout: "organization"
+    - scope:
+        path: "_places"
+        type: "places"
+      values:
+        layout: "place"
 email: chris@crickertech.com
 exclude:
   - .jekyll-cache/

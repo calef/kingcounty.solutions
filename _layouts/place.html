@@ -1,0 +1,74 @@
+---
+layout: default
+---
+
+<article class="page place-page">
+  <header class="page-header">
+    <nav class="breadcrumbs">
+      <a href="{{ '/places/' | relative_url }}">Places</a>
+      {% include hierarchy-breadcrumbs.html item=page collection='places' parent_attr='parent_place' %}
+      <span>›</span>
+      <span>{{ page.title }}</span>
+    </nav>
+    <h1 class="page-title">{{ page.title }}</h1>
+    {% if page.type %}
+      <p class="place-type">{{ page.type }}</p>
+    {% endif %}
+  </header>
+
+  <div class="page-content">
+    {% if page.zip_codes %}
+      <p class="place-detail"><strong>ZIP Codes:</strong> {{ page.zip_codes | join: ', ' }}</p>
+    {% endif %}
+
+    {% if page.latitude and page.longitude %}
+      <p class="place-detail"><strong>Coordinates:</strong> {{ page.latitude }}, {{ page.longitude }}</p>
+    {% endif %}
+
+    {% assign child_places = site.places | where: "parent_place", page.title | sort: "title" %}
+
+    {% if content %}
+      {{ content }}
+    {% endif %}
+
+    {% if child_places and child_places.size > 0 %}
+      <section class="place-children">
+        <h2>Places within {{ page.title }}</h2>
+        <ul>
+          {% for child in child_places %}
+            <li><a href="{{ child.url | relative_url }}">{{ child.title }}</a></li>
+          {% endfor %}
+        </ul>
+      </section>
+    {% endif %}
+  </div>
+</article>
+
+<style>
+.breadcrumbs {
+  font-size: 0.9rem;
+  color: #666;
+}
+.breadcrumbs a {
+  text-decoration: none;
+  color: inherit;
+}
+.breadcrumbs span {
+  margin: 0 0.4rem;
+}
+.place-type {
+  margin-top: -0.5rem;
+  color: #666;
+}
+.place-detail {
+  margin: 0.25rem 0;
+  color: #444;
+}
+.place-children ul {
+  list-style: none;
+  padding-left: 0;
+}
+.place-children li {
+  margin-bottom: 0.2rem;
+}
+</style>
