@@ -25,7 +25,8 @@ layout: default
       <p class="place-detail"><strong>Coordinates:</strong> {{ page.latitude }}, {{ page.longitude }}</p>
     {% endif %}
 
-    {% assign child_places = site.places | where: "parent_place", page.title | sort: "title" %}
+    {% assign all_places = site.places | sort: "title" %}
+    {% assign child_places = all_places | where: "parent_place", page.title %}
 
     {% if content %}
       {{ content }}
@@ -34,11 +35,13 @@ layout: default
     {% if child_places and child_places.size > 0 %}
       <section class="place-children">
         <h2>Places within {{ page.title }}</h2>
-        <ul>
-          {% for child in child_places %}
-            <li><a href="{{ child.url | relative_url }}">{{ child.title }}</a></li>
-          {% endfor %}
-        </ul>
+        <div class="place-tree">
+          <ul class="places-tree-list">
+            {% for child in child_places %}
+              {% include place-tree.html place=child places=all_places %}
+            {% endfor %}
+          </ul>
+        </div>
       </section>
     {% endif %}
   </div>
@@ -64,11 +67,28 @@ layout: default
   margin: 0.25rem 0;
   color: #444;
 }
-.place-children ul {
-  list-style: none;
-  padding-left: 0;
+.place-tree {
+  margin-top: 0.75rem;
 }
-.place-children li {
-  margin-bottom: 0.2rem;
+.place-tree .places-tree-list {
+  list-style: none;
+  margin: 0;
+  padding-left: 1rem;
+}
+.place-tree .places-tree-list > li {
+  margin-bottom: 0.35rem;
+}
+.place-tree .places-tree-item > a {
+  font-weight: 600;
+  text-decoration: none;
+}
+.place-tree .places-tree-item > a:hover {
+  text-decoration: underline;
+}
+.place-tree .places-tree-list ul {
+  margin-top: 0.25rem;
+  margin-bottom: 0.25rem;
+  padding-left: 1rem;
+  border-left: 1px solid #eee;
 }
 </style>
