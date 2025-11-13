@@ -21,10 +21,6 @@ layout: default
       <p class="place-detail"><strong>ZIP Codes:</strong> {{ page.zip_codes | join: ', ' }}</p>
     {% endif %}
 
-    {% if page.latitude and page.longitude %}
-      <p class="place-detail"><strong>Coordinates:</strong> {{ page.latitude }}, {{ page.longitude }}</p>
-    {% endif %}
-
     {% assign all_places = site.places | sort: "title" %}
     {% assign child_places = all_places | where: "parent_place", page.title %}
 
