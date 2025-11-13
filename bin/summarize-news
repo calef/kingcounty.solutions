@@ -60,10 +60,10 @@ Dir.glob("#{NEWS_DIR}/*.md").each do |file_path|
 
       In the summary:
         1. Do not include a link back to the source URL.
-        2. Include an image if one is referenced in the text.
+        2. Include an image if one is referenced in the text, however confirm that the image is retrievable.
         3. Do not include any commentary or explanation about this process.
         4. Focus only on the provided text (do not mention if the content was truncated).
-        5. Do not include any headings.
+        5. Do not include any headings or code blocks.
 
       ARTICLE CONTENT:
       #{article_text}
