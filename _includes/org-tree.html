@@ -3,12 +3,17 @@
   {% if include.organization.acronym %} ({{ include.organization.acronym }}){% endif %}
   {% assign show_type = include.show_type | default: false %}
   {% if show_type and include.organization.type %} – <em>{{ include.organization.type }}</em>{% endif %}
-  {% assign children = include.organizations | where: "parent_organization", include.organization.title | sort: "title" %}
-  {% if children and children.size > 0 %}
-    <ul class="org-tree-list">
-      {% for child in children %}
-        {% include org-tree.html organization=child organizations=include.organizations show_type=false %}
-      {% endfor %}
-    </ul>
-  {% endif %}
+  {% assign ancestor_path = include.ancestors | default: "" %}
+  {% capture current_token %}|{{ include.organization.title }}|{% endcapture %}
+  {% unless ancestor_path contains current_token %}
+    {% assign children = include.organizations | where: "parent_organization", include.organization.title | sort: "title" %}
+    {% if children and children.size > 0 %}
+      {% capture next_path %}{{ ancestor_path }}{{ current_token }}{% endcapture %}
+      <ul class="org-tree-list">
+        {% for child in children %}
+          {% include org-tree.html organization=child organizations=include.organizations show_type=false ancestors=next_path %}
+        {% endfor %}
+      </ul>
+    {% endif %}
+  {% endunless %}
 </li>

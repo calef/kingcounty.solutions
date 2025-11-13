@@ -135,18 +135,18 @@ layout: default
       </p>
     {% endif %}
 
-    {% assign children = site.organizations | where: "parent_organization", page.title %}
+    {% assign all_orgs = site.organizations | sort: "title" %}
+    {% assign children = all_orgs | where: "parent_organization", page.title %}
     {% if children and children.size > 0 %}
       <hr/>
-      <h2>Units within {{ page.title }}</h2>
-      <ul class="org-children">
-        {% for child in children %}
-          <li>
-            <a href="{{ child.url | relative_url }}">{{ child.title }}</a>
-            {% if child.acronym %} ({{ child.acronym }}){% endif %}
-          </li>
-        {% endfor %}
-      </ul>
+      <h2>Units within the {{ page.title }}</h2>
+      <div class="org-tree">
+        <ul class="org-tree-list">
+          {% for child in children %}
+            {% include org-tree.html organization=child organizations=all_orgs %}
+          {% endfor %}
+        </ul>
+      </div>
     {% endif %}
   </div>
 </article>
@@ -250,13 +250,30 @@ layout: default
   font-style: italic;
 }
 
-/* Child organization list */
-.org-children {
+/* Child organization tree */
+.org-tree {
   margin-top: 0.75rem;
-  padding-left: 1.25rem;
 }
-.org-children li {
+.org-tree-list {
+  list-style: none;
+  margin: 0;
+  padding-left: 1rem;
+}
+.org-tree-list > li {
+  margin-bottom: 0.35rem;
+}
+.org-tree-item > a {
+  font-weight: 600;
+  text-decoration: none;
+}
+.org-tree-item > a:hover {
+  text-decoration: underline;
+}
+.org-tree-list ul {
+  margin-top: 0.25rem;
   margin-bottom: 0.25rem;
+  padding-left: 1rem;
+  border-left: 1px solid #eee;
 }
 
 /* News section */
