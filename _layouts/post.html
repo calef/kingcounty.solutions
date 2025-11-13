@@ -35,6 +35,13 @@ layout: default
     {{ content }}
   </div>
 
+  {%- if page.source_url -%}
+    <p class="post-source-more">
+      For more information, visit the
+      <a href="{{ page.source_url }}" rel="noopener noreferrer">original source</a>.
+    </p>
+  {%- endif -%}
+
   {%- if site.disqus.shortname and page.comments != false -%}
     {%- include disqus_comments.html -%}
   {%- endif -%}
