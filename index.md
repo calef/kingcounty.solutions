@@ -3,5 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: topics
+title: Topics
 ---
-Browse the list of parent topics and subtopics to quickly locate the services and programs that fit your needs.
+Use search or explore the hierarchy below to find the topic that best matches the services you’re looking for.
