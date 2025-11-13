@@ -2,42 +2,42 @@
 layout: default
 ---
 {{ content }}
-<div class="topics-list">
-  {%- assign sorted_topics = site.topics | where: "parent_topic", nil | sort: "title" -%}
-  {%- assign subtopics = site.topics | where_exp: "t", "t.parent_topic" -%}
-  {%- assign sorted_subtopics = subtopics | sort: "parent_topic" -%}
-  {%- assign current_topic = "" -%}
 
-  {%- for subtopic in sorted_subtopics -%}
-    {%- if subtopic.parent_topic != current_topic -%}
-      {%- if current_topic != "" -%}
-          </ul>
-        </section>
-      {%- endif -%}
+{% assign all_topics = site.topics | sort: "title" %}
+{% assign top_level_topics = all_topics | where_exp: "topic", "topic.parent_topic == nil" %}
 
-      {%- assign parent = site.topics | where: "title", subtopic.parent_topic | first -%}
-
-      <section class="topic-group">
-        <h2 id="{{ subtopic.parent_topic | slugify }}">
-          {%- if parent -%}
-            <a href="{{ parent.url | relative_url }}">{{ subtopic.parent_topic }}</a>
-          {%- else -%}
-            {{ subtopic.parent_topic }}
-          {%- endif -%}
-        </h2>
-        <ul>
-      {%- assign current_topic = subtopic.parent_topic -%}
-    {%- endif -%}
-
-    <li>
-      <a href="{{ subtopic.url | relative_url }}">
-        {{ subtopic.title }}
-      </a>
-    </li>
-
-    {%- if forloop.last -%}
-        </ul>
-      </section>
-    {%- endif -%}
-  {%- endfor -%}
+<div class="topics-tree">
+  {% if top_level_topics and top_level_topics.size > 0 %}
+    <ul class="topics-tree-list">
+      {% for topic in top_level_topics %}
+        {% include topic-tree.html topic=topic topics=all_topics %}
+      {% endfor %}
+    </ul>
+  {% else %}
+    <p>No topics have been added yet.</p>
+  {% endif %}
 </div>
+
+<style>
+.topics-tree-list {
+  list-style: none;
+  margin: 0;
+  padding-left: 1rem;
+}
+.topics-tree-list > li {
+  margin-bottom: 0.35rem;
+}
+.topics-tree-item > a {
+  font-weight: 600;
+  text-decoration: none;
+}
+.topics-tree-item > a:hover {
+  text-decoration: underline;
+}
+.topics-tree-list ul {
+  margin-top: 0.25rem;
+  margin-bottom: 0.25rem;
+  padding-left: 1rem;
+  border-left: 1px solid #eee;
+}
+</style>
