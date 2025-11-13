@@ -10,6 +10,32 @@ title: Organizations Directory
   organized by level. Each section expands to show departments, divisions, and programs across their full hierarchy.
 </p>
 
+<section class="org-search" aria-labelledby="org-search-label">
+  <div class="org-search-header">
+    <h2 id="org-search-label">Search organizations</h2>
+    <p>Type to quickly jump to an agency, division, or program.</p>
+  </div>
+  <div class="org-search-control">
+    <input
+      type="search"
+      id="org-search-input"
+      name="org-search-input"
+      placeholder="Search by name, acronym, or parent organization"
+      autocomplete="off"
+      autocapitalize="none"
+      spellcheck="false"
+      aria-describedby="org-search-status"
+    >
+    <button type="button" id="org-search-clear" class="org-search-clear" aria-label="Clear search" hidden>&times;</button>
+  </div>
+  <div class="org-search-results" id="org-search-results">
+    <p class="org-search-status" id="org-search-status" aria-live="polite">
+      Type at least 2 characters to search.
+    </p>
+    <ul class="org-search-list" id="org-search-list"></ul>
+  </div>
+</section>
+
 {%- assign all = site.organizations | sort: "title" -%}
 
 {%- comment %}
@@ -219,7 +245,186 @@ OTHER — remove anything whose URL is already included
 </section>
 {%- endif -%}
 
+<script>
+(function() {
+  const MIN_QUERY = 2;
+  const MAX_RESULTS = 20;
+  const data = [
+    {% for org in site.organizations %}
+      {
+        "title": {{ org.title | jsonify }},
+        "acronym": {{ org.acronym | jsonify }},
+        "type": {{ org.type | jsonify }},
+        "parent": {{ org.parent_organization | jsonify }},
+        "url": {{ org.url | relative_url | jsonify }}
+      }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ];
+  const index = data.map(item => {
+    const searchText = [item.title, item.acronym, item.type, item.parent]
+      .filter(Boolean)
+      .join(' ')
+      .toLowerCase();
+    return Object.assign({}, item, { searchText });
+  });
+
+  const input = document.getElementById('org-search-input');
+  if (!input) return;
+  const clearBtn = document.getElementById('org-search-clear');
+  const status = document.getElementById('org-search-status');
+  const list = document.getElementById('org-search-list');
+
+  function updateStatus(message) {
+    if (!status) return;
+    status.textContent = message;
+  }
+
+  function renderResults(items, total) {
+    if (!list) return;
+    if (items.length === 0) {
+      list.innerHTML = '';
+      updateStatus('No matches found.');
+      return;
+    }
+
+    const limited = items.slice(0, MAX_RESULTS);
+    list.innerHTML = limited.map(item => {
+      const metaParts = [];
+      if (item.type) metaParts.push(item.type);
+      if (item.parent) metaParts.push(`Within ${item.parent}`);
+      const meta = metaParts.join(' • ');
+      const acronym = item.acronym ? ` <span class="org-search-result-acronym">(${item.acronym})</span>` : '';
+      return `
+        <li>
+          <a href="${item.url}">
+            <span class="org-search-result-title">${item.title}</span>${acronym}
+          </a>
+          ${meta ? `<span class="org-search-result-meta">${meta}</span>` : ''}
+        </li>
+      `;
+    }).join('');
+
+    if (total > MAX_RESULTS) {
+      updateStatus(`Showing the first ${MAX_RESULTS} of ${total} matches. Refine your search for more precise results.`);
+    } else {
+      updateStatus(`Found ${total} ${total === 1 ? 'match' : 'matches'}.`);
+    }
+  }
+
+  function handleSearch() {
+    const query = input.value.trim();
+    const hasValue = query.length > 0;
+    clearBtn.hidden = !hasValue;
+
+    if (query.length < MIN_QUERY) {
+      list.innerHTML = '';
+      updateStatus('Type at least 2 characters to search.');
+      return;
+    }
+
+    const tokens = query.toLowerCase().split(/\s+/).filter(Boolean);
+    const matches = index.filter(item => tokens.every(token => item.searchText.includes(token)));
+    renderResults(matches, matches.length);
+  }
+
+  input.addEventListener('input', handleSearch);
+  input.addEventListener('focus', handleSearch);
+  clearBtn.addEventListener('click', () => {
+    input.value = '';
+    clearBtn.hidden = true;
+    list.innerHTML = '';
+    updateStatus('Type at least 2 characters to search.');
+    input.focus();
+  });
+})();
+</script>
+
 <style>
+.org-search {
+  margin: 1.5rem 0 2rem;
+  padding: 1rem;
+  border: 1px solid #e0e0e0;
+  border-radius: 0.5rem;
+  background: #fafafa;
+}
+.org-search-header {
+  margin-bottom: 0.75rem;
+}
+.org-search-header h2 {
+  margin: 0 0 0.25rem;
+  font-size: 1.15rem;
+}
+.org-search-control {
+  position: relative;
+  margin-bottom: 0.75rem;
+}
+.org-search-control input {
+  width: 100%;
+  padding: 0.65rem 2.5rem 0.65rem 0.75rem;
+  border: 1px solid #ccc;
+  border-radius: 0.45rem;
+  font-size: 1rem;
+}
+.org-search-control input:focus {
+  outline: none;
+  border-color: #0366d6;
+  box-shadow: 0 0 0 3px rgba(3, 102, 214, 0.15);
+}
+.org-search-clear {
+  position: absolute;
+  right: 0.5rem;
+  top: 50%;
+  transform: translateY(-50%);
+  border: none;
+  background: transparent;
+  font-size: 1.25rem;
+  line-height: 1;
+  cursor: pointer;
+  color: #666;
+}
+.org-search-clear:hover {
+  color: #222;
+}
+.org-search-results {
+  min-height: 2rem;
+}
+.org-search-status {
+  margin: 0 0 0.5rem;
+  color: #666;
+  font-size: 0.95rem;
+}
+.org-search-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  gap: 0.5rem;
+}
+.org-search-list li {
+  padding: 0.65rem 0.75rem;
+  border: 1px solid #e4e4e4;
+  border-radius: 0.45rem;
+  background: #fff;
+}
+.org-search-list li a {
+  text-decoration: none;
+  font-weight: 600;
+  color: inherit;
+}
+.org-search-list li a:hover {
+  text-decoration: underline;
+}
+.org-search-result-acronym {
+  font-weight: 400;
+  color: #444;
+  margin-left: 0.25rem;
+}
+.org-search-result-meta {
+  display: block;
+  margin-top: 0.2rem;
+  color: #666;
+  font-size: 0.9rem;
+}
 .org-section {
   margin-bottom: 2rem;
 }

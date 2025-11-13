@@ -13,6 +13,32 @@ layout: default
   <div class="page-content">
     {{ content }}
 
+    <section class="place-search" aria-labelledby="place-search-label">
+      <div class="place-search-header">
+        <h2 id="place-search-label">Search places</h2>
+        <p>Find cities, towns, and regions by name or parent.</p>
+      </div>
+      <div class="place-search-control">
+        <input
+          type="search"
+          id="place-search-input"
+          name="place-search-input"
+          placeholder="Search by place name or parent place"
+          autocomplete="off"
+          autocapitalize="none"
+          spellcheck="false"
+          aria-describedby="place-search-status"
+        >
+        <button type="button" id="place-search-clear" class="place-search-clear" aria-label="Clear search" hidden>&times;</button>
+      </div>
+      <div class="place-search-results">
+        <p class="place-search-status" id="place-search-status" aria-live="polite">
+          Type at least 2 characters to search.
+        </p>
+        <ul class="place-search-list" id="place-search-list"></ul>
+      </div>
+    </section>
+
     {% assign all_places = site.places | sort: "title" %}
     {% assign top_level_places = all_places | where_exp: "place", "place.parent_place == nil" %}
 
@@ -55,4 +81,166 @@ layout: default
 .page-description {
   color: #555;
 }
+.place-search {
+  margin: 1.5rem 0 2rem;
+  padding: 1rem;
+  border: 1px solid #e0e0e0;
+  border-radius: 0.5rem;
+  background: #fafafa;
+}
+.place-search-header {
+  margin-bottom: 0.75rem;
+}
+.place-search-control {
+  position: relative;
+  margin-bottom: 0.75rem;
+}
+.place-search-control input {
+  width: 100%;
+  padding: 0.65rem 2.5rem 0.65rem 0.75rem;
+  border: 1px solid #ccc;
+  border-radius: 0.45rem;
+  font-size: 1rem;
+}
+.place-search-control input:focus {
+  outline: none;
+  border-color: #0366d6;
+  box-shadow: 0 0 0 3px rgba(3, 102, 214, 0.15);
+}
+.place-search-clear {
+  position: absolute;
+  right: 0.5rem;
+  top: 50%;
+  transform: translateY(-50%);
+  border: none;
+  background: transparent;
+  font-size: 1.25rem;
+  line-height: 1;
+  cursor: pointer;
+  color: #666;
+}
+.place-search-results {
+  min-height: 2rem;
+}
+.place-search-status {
+  margin: 0 0 0.5rem;
+  color: #666;
+  font-size: 0.95rem;
+}
+.place-search-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  gap: 0.5rem;
+}
+.place-search-list li {
+  padding: 0.65rem 0.75rem;
+  border: 1px solid #e4e4e4;
+  border-radius: 0.45rem;
+  background: #fff;
+}
+.place-search-list li a {
+  text-decoration: none;
+  font-weight: 600;
+  color: inherit;
+}
+.place-search-list li a:hover {
+  text-decoration: underline;
+}
+.place-search-result-meta {
+  display: block;
+  margin-top: 0.2rem;
+  color: #666;
+  font-size: 0.9rem;
+}
 </style>
+
+<script>
+(function() {
+  const MIN_QUERY = 2;
+  const MAX_RESULTS = 20;
+  const data = [
+    {% for place in site.places %}
+      {
+        "title": {{ place.title | jsonify }},
+        "type": {{ place.type | jsonify }},
+        "parent": {{ place.parent_place | jsonify }},
+        "url": {{ place.url | relative_url | jsonify }}
+      }{% unless forloop.last %},{% endunless %}
+    {% endfor %}
+  ];
+  const index = data.map(item => {
+    const searchText = [item.title, item.type, item.parent]
+      .filter(Boolean)
+      .join(' ')
+      .toLowerCase();
+    return Object.assign({}, item, { searchText });
+  });
+
+  const input = document.getElementById('place-search-input');
+  if (!input) return;
+  const clearBtn = document.getElementById('place-search-clear');
+  const status = document.getElementById('place-search-status');
+  const list = document.getElementById('place-search-list');
+
+  function updateStatus(message) {
+    if (status) status.textContent = message;
+  }
+
+  function renderResults(items, total) {
+    if (!list) return;
+    if (items.length === 0) {
+      list.innerHTML = '';
+      updateStatus('No matches found.');
+      return;
+    }
+
+    const limited = items.slice(0, MAX_RESULTS);
+    list.innerHTML = limited.map(item => {
+      const metaParts = [];
+      if (item.type) metaParts.push(item.type);
+      if (item.parent) metaParts.push(`Within ${item.parent}`);
+      const meta = metaParts.join(' • ');
+      return `
+        <li>
+          <a href="${item.url}">${item.title}</a>
+          ${meta ? `<span class="place-search-result-meta">${meta}</span>` : ''}
+        </li>
+      `;
+    }).join('');
+
+    if (total > MAX_RESULTS) {
+      updateStatus(`Showing the first ${MAX_RESULTS} of ${total} matches. Refine your search for more precise results.`);
+    } else {
+      updateStatus(`Found ${total} ${total === 1 ? 'match' : 'matches'}.`);
+    }
+  }
+
+  function handleSearch() {
+    const query = input.value.trim();
+    const hasValue = query.length > 0;
+    clearBtn.hidden = !hasValue;
+
+    if (query.length < MIN_QUERY) {
+      list.innerHTML = '';
+      updateStatus('Type at least 2 characters to search.');
+      return;
+    }
+
+    const tokens = query.toLowerCase().split(/\s+/).filter(Boolean);
+    const matches = index.filter(item => tokens.every(token => item.searchText.includes(token)));
+    renderResults(matches, matches.length);
+  }
+
+  input.addEventListener('input', handleSearch);
+  input.addEventListener('focus', handleSearch);
+  clearBtn.addEventListener('click', () => {
+    input.value = '';
+    clearBtn.hidden = true;
+    list.innerHTML = '';
+    updateStatus('Type at least 2 characters to search.');
+    input.focus();
+  });
+})();
+</script>
