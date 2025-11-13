@@ -1,0 +1,163 @@
+---
+layout: default
+---
+
+<article class="page news-archive">
+  <header class="page-header">
+    <h1 class="page-title">{{ page.title | default: "News Archive" }}</h1>
+    {%- if page.subtitle -%}
+      <p class="page-subtitle">{{ page.subtitle }}</p>
+    {%- endif -%}
+  </header>
+
+  {%- if content -%}
+    <div class="page-content">
+      {{ content }}
+    </div>
+  {%- endif -%}
+
+  {%- assign pager = pagination | default: paginator -%}
+  {%- assign paginated_posts = pager.posts | default: site.posts -%}
+
+  {%- if paginated_posts and paginated_posts.size > 0 -%}
+    <ul class="news-archive-list">
+      {%- for post in paginated_posts -%}
+        <li class="news-archive-item">
+          <h2>
+            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+          </h2>
+          <p class="news-archive-meta">
+            <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
+            {%- assign source_text = post.source | default: post.source_url -%}
+            {%- if source_text -%}
+              • <span class="news-archive-source">
+                {%- assign matching_org = nil -%}
+                {%- if post.source -%}
+                  {%- assign matching_org = site.organizations | where: "title", post.source | first -%}
+                {%- endif -%}
+                {%- if matching_org -%}
+                  <a href="{{ matching_org.url | relative_url }}">{{ post.source }}</a>
+                {%- elsif post.source_url -%}
+                  <a href="{{ post.source_url }}" rel="noopener noreferrer">{{ source_text }}</a>
+                {%- else -%}
+                  {{ source_text }}
+                {%- endif -%}
+              </span>
+            {%- endif -%}
+          </p>
+          {%- assign teaser = post.excerpt | strip_html | strip_newlines -%}
+          {%- if teaser == "" or teaser == nil -%}
+            {%- assign teaser = post.content | strip_html | strip_newlines -%}
+          {%- endif -%}
+          {%- if teaser -%}
+            <p class="news-archive-excerpt">{{ teaser | truncate: 260 }}</p>
+          {%- endif -%}
+        </li>
+      {%- endfor -%}
+    </ul>
+
+    {%- if pager -%}
+      {%- assign total_pages = pager.total_pages | default: pager.page_count | default: 1 -%}
+      {%- if total_pages > 1 -%}
+        <nav class="news-pagination" aria-label="News pagination">
+          {%- assign previous_path = pager.previous_page_path | default: pager.previous -%}
+          {%- assign next_path = pager.next_page_path | default: pager.next -%}
+          <div class="news-pagination-links">
+            {%- if previous_path -%}
+              <a class="news-pagination-link" href="{{ previous_path | relative_url }}">&larr; Newer</a>
+            {%- endif -%}
+
+            {%- assign trail = pager.trail -%}
+            {%- if trail and trail.pages -%}
+              <ul class="news-pagination-trail">
+                {%- for trail_page in trail.pages -%}
+                  <li>
+                    {%- if trail_page.num == pager.page -%}
+                      <span class="is-active">{{ trail_page.num }}</span>
+                    {%- else -%}
+                      <a href="{{ trail_page.path | relative_url }}">{{ trail_page.num }}</a>
+                    {%- endif -%}
+                  </li>
+                {%- endfor -%}
+              </ul>
+            {%- else -%}
+              <span>Page {{ pager.page | default: 1 }} of {{ total_pages }}</span>
+            {%- endif -%}
+
+            {%- if next_path -%}
+              <a class="news-pagination-link" href="{{ next_path | relative_url }}">Older &rarr;</a>
+            {%- endif -%}
+          </div>
+        </nav>
+      {%- endif -%}
+    {%- endif -%}
+  {%- else -%}
+    <p>No news posts yet.</p>
+  {%- endif -%}
+</article>
+
+<style>
+.news-archive-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+.news-archive-item {
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid #e0e0e0;
+}
+.news-archive-item h2 {
+  margin: 0 0 0.25rem;
+}
+.news-archive-meta {
+  margin: 0;
+  color: #666;
+  font-size: 0.95rem;
+}
+.news-archive-source a {
+  color: inherit;
+}
+.news-archive-excerpt {
+  margin: 0.6rem 0 0;
+  color: #333;
+}
+.news-pagination {
+  margin-top: 2rem;
+  border-top: 1px solid #e0e0e0;
+  padding-top: 1rem;
+}
+.news-pagination-links {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1rem;
+}
+.news-pagination-link {
+  font-weight: 600;
+}
+.news-pagination-trail {
+  list-style: none;
+  display: flex;
+  gap: 0.4rem;
+  padding: 0;
+  margin: 0;
+}
+.news-pagination-trail li {
+  padding: 0;
+}
+.news-pagination-trail a,
+.news-pagination-trail span {
+  display: inline-block;
+  padding: 0.15rem 0.45rem;
+  border: 1px solid #ccc;
+  border-radius: 0.25rem;
+}
+.news-pagination-trail .is-active {
+  background: #000;
+  color: #fff;
+  border-color: #000;
+}
+</style>
