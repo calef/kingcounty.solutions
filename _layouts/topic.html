@@ -1,0 +1,255 @@
+---
+layout: default
+---
+
+{% assign topic_ancestors = "" | split: "" %}
+{% assign current_parent = page.parent_topic %}
+{% for i in (0..20) %}
+  {% if current_parent %}
+    {% assign topic_ancestors = topic_ancestors | push: current_parent %}
+    {% assign parent_doc = site.topics | where: "title", current_parent | first %}
+    {% if parent_doc and parent_doc.parent_topic %}
+      {% assign current_parent = parent_doc.parent_topic %}
+    {% else %}
+      {% assign current_parent = nil %}
+    {% endif %}
+  {% else %}
+    {% break %}
+  {% endif %}
+{% endfor %}
+{% assign topic_ancestors = topic_ancestors | reverse %}
+
+<article class="page topic-page">
+  <header class="page-header">
+    <nav class="breadcrumbs">
+      <a href="{{ '/topics/' | relative_url }}">Topics</a>
+      {% for ancestor in topic_ancestors %}
+        <span>›</span>
+        {% assign ancestor_doc = site.topics | where: "title", ancestor | first %}
+        {% if ancestor_doc %}
+          <a href="{{ ancestor_doc.url | relative_url }}">{{ ancestor }}</a>
+        {% else %}
+          <span>{{ ancestor }}</span>
+        {% endif %}
+      {% endfor %}
+      <span>›</span>
+      <span>{{ page.title }}</span>
+    </nav>
+
+    <h1 class="page-title">{{ page.title }}</h1>
+  </header>
+
+  {% assign all_topics = site.topics | sort: "title" %}
+  {% assign child_topics = all_topics | where: "parent_topic", page.title %}
+  {% assign all_orgs = site.organizations | sort: "title" %}
+  {% assign topic_orgs = all_orgs | where_exp: "org", "org.topics and org.topics contains page.title" %}
+  {% assign topic_org_titles = topic_orgs | map: "title" %}
+  {% assign topic_org_roots = "" | split: "" %}
+  {% for org in topic_orgs %}
+    {% assign parent_name = org.parent_organization | default: "" %}
+    {% if parent_name == "" or parent_name == nil %}
+      {% assign topic_org_roots = topic_org_roots | push: org %}
+    {% elsif topic_org_titles contains parent_name %}
+      {% continue %}
+    {% else %}
+      {% assign topic_org_roots = topic_org_roots | push: org %}
+    {% endif %}
+  {% endfor %}
+
+  <div class="page-content">
+    {% if content %}
+      <div class="topic-body">
+        {{ content }}
+      </div>
+    {% endif %}
+
+    {% if child_topics and child_topics.size > 0 %}
+      <section class="topic-children">
+        <h2>Subtopics of {{ page.title }}</h2>
+        <div class="topics-tree">
+          <ul class="topics-tree-list">
+            {% for topic in child_topics %}
+              {% include topic-tree.html topic=topic topics=all_topics %}
+            {% endfor %}
+          </ul>
+        </div>
+      </section>
+    {% endif %}
+
+    {% if topic_orgs and topic_orgs.size > 0 %}
+      <section class="topic-organizations">
+        <h2>Organizations focused on {{ page.title }}</h2>
+        <div class="org-tree">
+          <ul class="org-tree-list">
+            {% for org in topic_org_roots %}
+              {% include org-tree.html organization=org organizations=topic_orgs %}
+            {% endfor %}
+          </ul>
+        </div>
+      </section>
+    {% else %}
+      <section class="topic-organizations">
+        <h2>Organizations focused on {{ page.title }}</h2>
+        <p>No organizations have been linked to this topic yet.</p>
+      </section>
+    {% endif %}
+
+    {% assign topic_news = site.posts | where_exp: "post", "topic_org_titles contains post.source" %}
+    {% if topic_news and topic_news.size > 0 %}
+      {% assign topic_news = topic_news | sort: "date" | reverse %}
+      <section class="topic-news">
+        <h2>News related to {{ page.title }}</h2>
+        <ul class="topic-news-list">
+          {% for post in topic_news %}
+            <li class="topic-news-item">
+              <h3>
+                <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+              </h3>
+              <p class="topic-news-meta">
+                <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
+                {% assign source_text = post.source | default: post.source_url %}
+                {% if source_text %}
+                  • <span class="topic-news-source">
+                    {% assign matching_org = nil %}
+                    {% if post.source %}
+                      {% assign matching_org = site.organizations | where: "title", post.source | first %}
+                    {% endif %}
+                    {% if matching_org %}
+                      <a href="{{ matching_org.url | relative_url }}">{{ post.source }}</a>
+                    {% elsif post.source_url %}
+                      <a href="{{ post.source_url }}" rel="noopener noreferrer">{{ source_text }}</a>
+                    {% else %}
+                      {{ source_text }}
+                    {% endif %}
+                  </span>
+                {% endif %}
+              </p>
+              {% assign post_excerpt = post.excerpt | strip_html | strip_newlines %}
+              {% if post_excerpt %}
+                <p class="topic-news-excerpt">{{ post_excerpt | truncate: 220 }}</p>
+              {% endif %}
+            </li>
+          {% endfor %}
+        </ul>
+      </section>
+    {% endif %}
+  </div>
+</article>
+
+<style>
+.breadcrumbs {
+  font-size: 0.9rem;
+  color: #666;
+  margin-bottom: 0.5rem;
+}
+.breadcrumbs a {
+  text-decoration: none;
+  color: inherit;
+}
+.breadcrumbs span {
+  margin: 0 0.25rem;
+}
+.topic-body {
+  margin-bottom: 1.5rem;
+}
+.topic-children + .topic-organizations,
+.topic-body + .topic-organizations {
+  margin-top: 1.5rem;
+}
+.topics-tree {
+  margin-top: 0.75rem;
+}
+.topics-tree-list {
+  list-style: none;
+  margin: 0;
+  padding-left: 1rem;
+}
+.topics-tree-list > li {
+  margin-bottom: 0.35rem;
+}
+.topics-tree-item > a {
+  font-weight: 600;
+  text-decoration: none;
+}
+.topics-tree-item > a:hover {
+  text-decoration: underline;
+}
+.topics-tree-list ul {
+  margin-top: 0.25rem;
+  margin-bottom: 0.25rem;
+  padding-left: 1rem;
+  border-left: 1px solid #eee;
+}
+.topic-organizations {
+  margin-top: 1.5rem;
+}
+.org-tree {
+  margin-top: 0.75rem;
+}
+.org-tree-list {
+  list-style: none;
+  margin: 0;
+  padding-left: 1rem;
+}
+.org-tree-list > li {
+  margin-bottom: 0.35rem;
+}
+.org-tree-item > a {
+  font-weight: 600;
+  text-decoration: none;
+}
+.org-tree-item > a:hover {
+  text-decoration: underline;
+}
+.org-tree-list ul {
+  margin-top: 0.25rem;
+  margin-bottom: 0.25rem;
+  padding-left: 1rem;
+  border-left: 1px solid #eee;
+}
+.topic-news {
+  margin-top: 1.5rem;
+}
+.topic-news h2 {
+  margin-bottom: 0.5rem;
+}
+.topic-news-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+.topic-news-item {
+  margin-bottom: 0.35rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 1px solid #eee;
+}
+.topic-news-item:last-child {
+  border-bottom: none;
+}
+.topic-news h3 {
+  margin: 0 0 0.25rem;
+}
+.topic-news a {
+  font-weight: 600;
+  text-decoration: none;
+}
+.topic-news a:hover {
+  text-decoration: underline;
+}
+.topic-news-meta {
+  margin: 0;
+  color: #666;
+  font-size: 0.9rem;
+}
+.topic-news-meta time {
+  font-weight: 500;
+}
+.topic-news-source a {
+  color: inherit;
+}
+.topic-news-excerpt {
+  margin: 0.1rem 0 0.5rem;
+  color: #444;
+  font-size: 0.95em;
+}
+</style>
