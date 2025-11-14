@@ -2,6 +2,7 @@
 acronym: SAMHSA
 jurisdictions:
 - United States
+news_rss_url: https://www.samhsa.gov/find-help/988/press-announcements.rss
 parent_organization: Department of Health and Human Services
 title: Substance Abuse and Mental Health Services Administration
 topics:

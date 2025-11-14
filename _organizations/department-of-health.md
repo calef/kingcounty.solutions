@@ -2,6 +2,7 @@
 acronym: DOH
 jurisdictions:
 - Washington State
+news_rss_url: https://doh.wa.gov/newsroom/rss
 parent_organization: State Executive Branch
 title: Department of Health
 topics:

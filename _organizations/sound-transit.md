@@ -1,6 +1,7 @@
 ---
 jurisdictions:
 - King County
+news_rss_url: https://www.soundtransit.org/blog/platform/feed
 title: Sound Transit
 topics:
 - Transportation & Mobility

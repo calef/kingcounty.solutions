@@ -1,6 +1,7 @@
 ---
 jurisdictions:
 - Medina
+news_rss_url: https://www.medina-wa.gov/news/rss
 title: City of Medina
 topics:
 - Community & Social Services
