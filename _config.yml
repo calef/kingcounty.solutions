@@ -296,6 +296,7 @@ plugins:
   - jekyll-feed
   - jekyll-paginate-v2
 theme: minima
+future: true
 pagination:
   enabled: true
   collection: 'posts'

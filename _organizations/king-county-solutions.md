@@ -1,0 +1,76 @@
+---
+jurisdictions:
+- King County
+title: King County Solutions
+topics:
+  - Adult Education
+  - Advocacy
+  - Assistive Technology
+  - Bus Fare
+  - Childcare
+  - Clothing
+  - Community & Social Services
+  - Crisis Hotlines
+  - Dental Care
+  - Diagnostic Testing
+  - Diapers
+  - Disabilities
+  - Domestic Violence
+  - Early Intervention
+  - Education & Learning
+  - Employment
+  - Employment & Job Support
+  - ESL Classes
+  - Financial Assistance
+  - Financial Counseling
+  - Financial Support
+  - Food & Nutrition
+  - Food Pantries/Banks
+  - Free Meals
+  - Gas Money
+  - GED Classes
+  - General Counseling Services
+  - Grocery Delivery
+  - Health Care
+  - Home Delivered Meals
+  - Homeless Day Centers
+  - Homeless Student Liaison
+  - Hotline
+  - Household Goods
+  - Hygiene Items
+  - Job Search
+  - Job Seeking Skills
+  - Legal Aid
+  - Local Transportation
+  - Mental Health & Counseling
+  - Mental Health Evaluation
+  - Move-in Assistance
+  - Overnight Shelters
+  - Paratransit Services
+  - Permanent Housing
+  - Personal & Household Needs
+  - Primary Care
+  - Recreation/Community Programs
+  - Rent Assistance
+  - Senior Meals
+  - Senior Services
+  - Shelter
+  - Shelter & Housing
+  - Specialized Clinics
+  - Support Groups
+  - Teen Clinics
+  - Teen Counseling
+  - Transitional Housing
+  - Transportation & Mobility
+  - Traumatic Brain Injury Services
+  - Tutoring/Homework Help
+  - Utility Assistance
+  - Utility Discounts
+  - Vocational Training
+  - Volunteer Opportunities
+  - Youth Employment Programs
+  - Youth Shelter
+type: Community-Based Organization
+website: https://kingcountysolutions.netlify.app/
+---
+Navigating social services can be confusing. This project makes it simple by bringing publicly available resources together in one searchable, easy-to-use platform. Whether you’re an individual looking for help or a nonprofit guiding clients, you can quickly find the support you need.

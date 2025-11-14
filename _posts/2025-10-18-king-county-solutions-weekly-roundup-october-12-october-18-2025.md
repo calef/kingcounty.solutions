@@ -1,0 +1,27 @@
+---
+title: 'King County Solutions Weekly Roundup: October 12–October 18, 2025'
+date: '2025-10-18T18:00:00-08:00'
+source: King County Solutions
+summarized: true
+---
+
+This week, we published 14 posts highlighting significant developments across King County. From diversity initiatives to health regulations and community upgrades, these updates are crucial for residents seeking to stay informed about local governance and community services.
+
+### Spotlight stories
+- **[King County Diversity and Recruitment Workshop](https://www.vrfa.org/2025/10/king-county-diversity-and-recruitment-workshop/)**: Fire departments in King County are expanding recruitment efforts, particularly targeting individuals from the BIPOC community, women, and bilingual candidates. This workshop aims to provide insights into the hiring process and foster a diverse applicant pool.
+- **[A literal glow-up: We’re upgrading the lighting systems at some of our busiest light rail stations](https://www.soundtransit.org/blog/platform/literal-glow-were-upgrading-lighting-systems-some-our-busiest-light-rail-stations)**: Sound Transit is enhancing safety and visibility by upgrading lighting at key light rail stations. These improvements will not only reduce energy costs but also create a more welcoming environment for passengers.
+- **[Be Flood Ready: King County Flood Control District Expands Outreach as Flood Season Begins](https://kingcountyfloodcontrol.org/be-flood-ready-king-county-flood-control-district-expands-outreach-as-flood-season-begins/?utm_source=rss&utm_medium=rss&utm_campaign=be-flood-ready-king-county-flood-control-district-expands-outreach-as-flood-season-begins)**: As flood season approaches, the King County Flood Control District is ramping up its outreach efforts to educate the community on flood preparedness, emphasizing the importance of safety and risk reduction.
+
+### Diversity and Inclusion Initiatives
+This week, efforts to enhance diversity in recruitment and legal support were prominent. The **[King County Diversity and Recruitment Workshop](https://www.vrfa.org/2025/10/king-county-diversity-and-recruitment-workshop/)** aims to attract a diverse range of applicants for firefighter positions, particularly from underrepresented communities. Additionally, **[Evan Molineux](https://elap.org/meet-evan-molineux-elap-dv-staff-attorney-and-perkins-coie-racial-justice-fellow/?utm_source=rss&utm_medium=rss&utm_campaign=meet-evan-molineux-elap-dv-staff-attorney-and-perkins-coie-racial-justice-fellow)** has joined the Eastside Legal Assistance Program as a Domestic Violence Staff Attorney, focusing on providing legal support to victims of domestic violence, which is crucial for their safety and recovery.
+
+### Health and Safety Regulations
+Recent actions by the Washington State Department of Health underscore the importance of accountability in healthcare. The department has **[revoked or suspended licenses](https://doh.wa.gov/newsroom/state-revokes-suspends-licenses-certifications-registrations-health-care-providers-10-13-2025)** for several providers due to serious misconduct, including abuse and financial exploitation. Furthermore, the credentials of a King County counselor have been **[suspended](https://doh.wa.gov/newsroom/credentials-king-county-counselor-have-been-suspended-due-charges-second-degree-rape)** amid allegations of sexual assault, highlighting the ongoing commitment to public safety in healthcare practices.
+
+### Community Engagement and Infrastructure Upgrades
+Local agencies are making strides in enhancing community services and infrastructure. Sound Transit is **[upgrading lighting systems](https://www.soundtransit.org/blog/platform/literal-glow-were-upgrading-lighting-systems-some-our-busiest-light-rail-stations)** at major light rail stations to improve safety and energy efficiency. The King County Library System is also revitalizing its spaces, focusing on accessibility and community needs through **[reimagined library spaces](https://kcls.org/blogs/post/reimagine-library-spaces/)**. Additionally, the Flood Control District is expanding its outreach as the flood season begins, ensuring residents are prepared with **[flood readiness resources](https://kingcountyfloodcontrol.org/be-flood-ready-king-county-flood-control-district-expands-outreach-as-flood-season-begins/?utm_source=rss&utm_medium=rss&utm_campaign=be-flood-ready-king-county-flood-control-district-expands-outreach-as-flood-season-begins)**.
+
+### Other updates
+In addition to the main themes, the King County Library System has announced enhancements to staff experiences and operations, including **[elevated experiences](https://kcls.org/blogs/post/elevate-customer-experiences/)** and **[unified internal processes](https://kcls.org/blogs/post/unify-internal-processes/)**. The City of Normandy Park is hiring a **[part-time assistant preschool teacher](https://normandyparkwa.gov/human-resources/pre-k-preschool-teacher-part-time/)**, and the Snoqualmie Tribe is seeking a member for its **[Canoe Journey Committee](https://snoqualmietribe.us/snoqualmie-tribe-seeking-tribal-member-for-canoe-journey-committee/)**. Lastly, Yarrow Point will hold a **[Planning Commission meeting](https://yarrowpointwa.gov/2025/10/october-21-2025-regular-planning-commission-meeting-packet-600-pm-town-hall-virtual/)** on October 21 to discuss short-term rentals.
+
+We’ll continue to pull the most actionable updates from partner feeds each week. Let us know if there’s a topic you’d like covered in more depth.
