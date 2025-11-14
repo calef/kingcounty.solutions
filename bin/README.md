@@ -1,0 +1,222 @@
+# bin scripts
+
+Utility commands that automate content imports, auditing, and metadata maintenance live in `bin/`. Run them from the repository root so relative paths resolve correctly.
+
+## Quick reference
+
+| Script | What it does |
+| --- | --- |
+| `audit-markdown` | Audits a collection of Markdown docs against the schema in `_config.yml`, applies fixes, and saves a JSON report. |
+| `audit-organization-topics` | Uses OpenAI to reconcile each organization’s topics against recent news coverage and optionally rewrites front matter. |
+| `generate-schema-from-markdown` | Scans a collection’s front matter and emits a draft schema block that can be pasted into `_config.yml`. |
+| `generate-weekly-summary` | Builds a weekly roundup article from `_posts/`, grouping stories into themes with LLM assistance. |
+| `import-rss-news` | Pulls fresh posts from partner RSS feeds defined in `_organizations/` and writes Markdown copies into `_posts/`. |
+| `list-openai-models` | Lists available OpenAI model IDs for the current API key. |
+| `summarize-news` | Fetches source articles for `_posts/` entries missing summaries, stores the original body, and writes an AI summary. |
+| `summarize-topics` | Generates short descriptions for topic pages that lack an editorial summary. |
+| `sync-topics` | Ensures `_topics/` mirrors the parent/subtopic hierarchy defined in `_config.yml`. |
+| `update-news-rss` | Crawls organization websites to locate RSS/Atom feeds and saves them back to `news_rss_url`. |
+
+> Many scripts call the OpenAI API; export `OPENAI_API_KEY` before using them.
+
+### `audit-markdown`
+
+**Purpose**  
+Audits every Markdown file in a collection directory (e.g., `_organizations`) against the schema declared in `_config.yml` (`<collection>_schema`). It fetches each record’s website, validates required/allowed keys, calls OpenAI (`gpt-4o-mini`) for a detailed review, applies the suggested edits, alphabetizes front matter keys, and logs results under `_audit_reports/`.
+
+**Usage**
+
+- `bin/audit-markdown _organizations`
+
+**Key env/config**
+
+- `OPENAI_API_KEY` – required.
+- Schema key inferred from the target directory (e.g., `_organizations` → `organizations_schema`).
+
+**Behavior notes**
+
+- Rewrites every file in place using a normalized YAML block plus a sanitized body.
+- Generates `audit-<collection>-<timestamp>.json` detailing requested edits and schema violations.
+- Aborts if the target directory is missing or empty.
+- Fails fast if `OPENAI_API_KEY` is not exported.
+
+### `audit-organization-topics`
+
+**Purpose**  
+Reviews each `_organizations/*.md` file’s topics using `_topics/` metadata plus up to `--max-posts` recent news posts, letting OpenAI classify topics as `true`, `false`, or `unclear`. Can output a JSON report and optionally rewrite `topics` front matter entries.
+
+**Usage**
+
+- `bin/audit-organization-topics [--model MODEL] [--max-posts N] [--force] [--output report.json] [--apply]`
+
+**Key env/config**
+
+- `OPENAI_API_KEY` – required.
+- `OPENAI_TOPIC_AUDIT_MODEL` – overrides the default `gpt-4o-mini`.
+- Caches per-organization responses under `.jekyll-cache/topic_audit/`; `--force` bypasses cache.
+
+**Behavior notes**
+
+- Without `--apply`, the script only prints or writes the audit report.
+- When `--apply` is supplied, it edits each organization file by removing unsupported topics and appending new ones suggested by the audit, keeping the list sorted and unique.
+- Includes up to `--max-posts` (default 5) of the organization’s recent `_posts/` content in the LLM prompt.
+
+### `generate-schema-from-markdown`
+
+**Purpose**  
+Infers a schema definition from the front matter across every Markdown file inside a collection directory and emits YAML to stdout in the format `<collection>_schema: { ... }`.
+
+**Usage**
+
+- `bin/generate-schema-from-markdown _organizations`
+- Omit the argument to default to `_government-entities`.
+
+**Key env/config**
+
+- None. The script only relies on file contents.
+
+**Behavior notes**
+
+- Aggregates example values, guessed data types, and possible string values (including array members) for each key.
+- Limits the stored examples/possible values for readability and leaves placeholder descriptions (`TODO: ...`) so editors can fill them in after inspection.
+- Intended for piping into a file, e.g. `bin/generate-schema-from-markdown _places > tmp/schema.yml`.
+
+### `generate-weekly-summary`
+
+**Purpose**  
+Builds an editorial roundup post for the current week (Saturday–Friday window) by clustering `_posts/` entries into themes, drafting a Markdown article with OpenAI, and saving it back into `_posts/` under the ending Saturday’s date.
+
+**Usage**
+
+- `bin/generate-weekly-summary`
+
+**Key env/config**
+
+- `OPENAI_API_KEY` – required.
+- `OPENAI_MODEL` – overrides the default `gpt-4o-mini`.
+- `WEEKLY_SUMMARY_LIMIT` – caps how many posts are passed to the LLM for theme planning (default 60).
+- `WEEKLY_DATE` – optional `YYYY-MM-DD` anchor date to regenerate a specific week.
+- `FORCE_WEEKLY=1` – allows overwriting an existing summary file for the same week.
+
+**Behavior notes**
+
+- Builds a “theme plan” JSON via one LLM call, then passes that plan plus post metadata into a second prompt that produces the final article (with spotlights, themed sections, and optional “Other updates”).
+- Falls back to a deterministic, non-LLM summary if either call fails.
+- Sets front matter with `source: King County Solutions` and `summarized: true`, and adds a closing encouragement paragraph.
+
+### `import-rss-news`
+
+**Purpose**  
+Imports recent partner updates from every `_organizations/*.md` that exposes `news_rss_url`, converts each RSS item into Markdown (with the original HTML saved in front matter), and writes it under `_posts/`.
+
+**Usage**
+
+- `bin/import-rss-news`
+
+**Key env/config**
+
+- Honors `news_rss_url` and optional metadata (e.g., titles) already in each organization file.
+- Skips RSS items published more than `MAX_ITEM_AGE_DAYS` (365) days ago.
+
+**Behavior notes**
+
+- De-duplicates by checking existing `_posts/` entries whose `original_content` is present and `source_url` matches.
+- Attempts to scrape the article body directly (preferring known selectors) if the RSS item lacks `content:encoded`.
+- Converts HTML to Markdown via `ReverseMarkdown`, stores the upstream HTML in `original_content`, and saves the cleaned Markdown body beneath a single YAML front matter block.
+
+### `list-openai-models`
+
+**Purpose**  
+Simple helper that echoes every model ID visible to the configured OpenAI account—useful for confirming newer `gpt-4o` variants.
+
+**Usage**
+
+- `bin/list-openai-models`
+
+**Key env/config**
+
+- `OPENAI_API_KEY` – required.
+
+**Behavior notes**
+
+- Returns one line per model and exits; no other arguments are supported.
+
+### `summarize-news`
+
+**Purpose**  
+Backfills AI-written summaries for `_posts/` entries whose front matter lacks `summarized: true`. Preserves the original Markdown body, fetches the source article when possible, and writes a concise Markdown paragraph capped at ~100 words.
+
+**Usage**
+
+- `bin/summarize-news`
+
+**Key env/config**
+
+- `OPENAI_API_KEY` – required.
+- `OPENAI_SUMMARY_MODEL` – overrides the default `gpt-4o-mini`.
+
+**Behavior notes**
+
+- Tries to fetch the original article (scrubbing scripts/nav chrome) before sending truncated text (20k chars max) to the LLM; falls back to the stored Markdown body if the fetch fails.
+- Retries failed API calls up to three times (sleeping between rate limits).
+- Writes `original_markdown_body` once (if missing) and sets `summarized: true` in front matter.
+
+### `summarize-topics`
+
+**Purpose**  
+Generates a short, resident-friendly description for each `_topics/*.md` file that lacks the `topic_summary_generated` flag, using the existing body (if any) as context for OpenAI.
+
+**Usage**
+
+- `bin/summarize-topics`
+
+**Key env/config**
+
+- `OPENAI_API_KEY` – required.
+- `OPENAI_SUMMARY_MODEL` – overrides the default `gpt-4o-mini`.
+
+**Behavior notes**
+
+- Prompts the LLM for a single paragraph of ≤50 words and enforces the word budget by retrying up to three times.
+- Stores the previous body under `original_topic_body` before overwriting it with the generated summary and marks `topic_summary_generated: true`.
+
+### `sync-topics`
+
+**Purpose**  
+Keeps `_topics/` aligned with the `topics` structure in `_config.yml` by creating missing parent/subtopic files and pruning files that no longer appear in the config.
+
+**Usage**
+
+- `bin/sync-topics`
+
+**Key env/config**
+
+- Relies solely on `_config.yml` and the `_topics/` directory.
+
+**Behavior notes**
+
+- Filenames are derived from the topic title (lowercased, spaces → dashes, `/` → `-`, `&` → `and`, non-alphanumerics removed).
+- When creating files it writes minimal front matter (`title` and optional `parent_topic`), leaving the body blank.
+- Deletes any `_topics/*.md` whose slug is absent from the config-defined set, making the command idempotent.
+
+### `update-news-rss`
+
+**Purpose**  
+Locates RSS/Atom feeds for organizations that have a `website` but no `news_rss_url`, using heuristics over the HTML, `<link rel="alternate">` tags, common “/feed” conventions, and secondary “news/blog” pages. Writes the discovered feed URL back to the organization’s front matter.
+
+**Usage**
+
+- `bin/update-news-rss`
+
+**Key env/config**
+
+- `OPENAI_API_KEY` is **not** required.
+- `TARGETS=org-a.md,org-b.md` – restricts processing to a comma-delimited subset (filenames or `_organizations/<file>` paths).
+- `LIMIT=10` – stop after inspecting N organizations.
+- `DRY_RUN=1` – report findings without writing to disk.
+
+**Behavior notes**
+
+- Applies custom request headers, trims downloads (`HTML_MAX_BYTES`, `FEED_MAX_BYTES`), sleeps briefly between fetches, and ignores obvious comment feeds.
+- If no feed is embedded on the homepage it probes the highest-scoring “secondary pages” (links mentioning news/blog/press/etc.) before giving up.
+- Prints a summary of processed vs. updated files and lists each detected feed.
