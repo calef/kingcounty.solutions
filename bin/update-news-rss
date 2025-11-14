@@ -19,6 +19,7 @@ REQUEST_DELAY = 0.15
 ACCEPT_HTML = 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
 ACCEPT_FEED = 'application/rss+xml, application/atom+xml, application/xml;q=0.9, ' \
               'text/xml;q=0.8, */*;q=0.1'
+SECONDARY_KEYWORDS = %w[news blog stories updates press release releases media article articles feed feeds posts announcements resources impact]
 
 def split_front_matter(text)
   lines = text.lines
@@ -59,7 +60,7 @@ def build_front_matter(data, body)
   ordered = data.keys.sort.each_with_object({}) do |key, memo|
     memo[key] = data[key]
   end
-  front = YAML.dump(ordered)
+  front = YAML.dump(ordered).sub(/\A---\s*\n/, '')
   "---\n#{front}---\n#{body}"
 end
 
@@ -198,6 +199,69 @@ def collect_candidates(html, final_url)
   dedup.sort_by { |url, score| [-score, url] }.map(&:first)
 end
 
+def find_feed_in_html(html, final_url)
+  candidates = collect_candidates(html, final_url)
+  candidates.first(8).each do |candidate|
+    feed_url = verify_feed(candidate)
+    return feed_url if feed_url
+  end
+  nil
+end
+
+def secondary_page_candidates(html, final_url)
+  doc = Nokogiri::HTML(html)
+  base_href = doc.at('base')&.[]('href')
+  base_url = base_href ? (absolutize(final_url, base_href) || final_url) : final_url
+  base_host = URI.parse(base_url).host rescue nil
+
+  scored = []
+  doc.css('a[href]').each do |node|
+    abs_url = absolutize(base_url, node['href'])
+    next unless abs_url&.match?(%r{\Ahttps?://})
+
+    score = 0
+    href_lower = abs_url.downcase
+    text_lower = (node.text || '').downcase
+    class_lower = (node['class'] || '').downcase
+    id_lower = (node['id'] || '').downcase
+
+    SECONDARY_KEYWORDS.each do |keyword|
+      score += 3 if href_lower.include?(keyword)
+      score += 2 if text_lower.include?(keyword)
+      score += 1 if class_lower.include?(keyword) || id_lower.include?(keyword)
+    end
+
+    begin
+      score += 1 if base_host && URI.parse(abs_url).host == base_host
+    rescue URI::Error
+      # ignore
+    end
+
+    scored << [score, abs_url] if score.positive?
+  end
+
+  dedup = {}
+  scored.each do |score, url|
+    dedup[url] = [dedup[url] || score, score].max
+  end
+  dedup.sort_by { |url, score| [-score, url] }.map(&:first)
+end
+
+def find_feed_in_secondary_pages(html, final_url)
+  secondary_page_candidates(html, final_url).first(3).each do |secondary_url|
+    puts "  probing #{secondary_url}"
+    data, content_type, page_final = fetch_url(secondary_url, accept: ACCEPT_HTML, max_bytes: HTML_MAX_BYTES)
+    return page_final if feed_like?(data, content_type)
+
+    page_html = decode_html(data)
+    feed_url = find_feed_in_html(page_html, page_final)
+    return feed_url if feed_url
+  rescue StandardError => e
+    puts "    secondary page error for #{secondary_url}: #{e.message}"
+  end
+  nil
+end
+
 def verify_feed(url)
   data, content_type, final_url = fetch_url(url, accept: ACCEPT_FEED, max_bytes: FEED_MAX_BYTES)
   return final_url if feed_like?(data, content_type)
@@ -217,11 +281,12 @@ def find_feed(website)
   return final_url if feed_like?(data, content_type)
 
   html = decode_html(data)
-  candidates = collect_candidates(html, final_url)
-  candidates.first(8).each do |candidate|
-    feed_url = verify_feed(candidate)
-    return feed_url if feed_url
-  end
+  feed_url = find_feed_in_html(html, final_url)
+  return feed_url if feed_url
+
+  feed_url = find_feed_in_secondary_pages(html, final_url)
+  return feed_url if feed_url
+
   nil
 rescue StandardError => e
   puts "  fetch error: #{e.message}"
