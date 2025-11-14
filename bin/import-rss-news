@@ -13,6 +13,7 @@ require 'nokogiri'
 
 NEWS_DIR = '_posts'
 SOURCES_DIR = '_organizations'
+MAX_ITEM_AGE_DAYS = 365
 
 FileUtils.mkdir_p(NEWS_DIR)
 
@@ -60,6 +61,30 @@ rescue StandardError => e
   nil
 end
 
+def published_at(item)
+  candidates = []
+  candidates << item.pubDate if item.respond_to?(:pubDate)
+  candidates << item.dc_date if item.respond_to?(:dc_date)
+  candidates << item.updated if item.respond_to?(:updated)
+  candidates << item.date if item.respond_to?(:date)
+
+  value = candidates.compact.first
+  return value if value.is_a?(Time)
+
+  if value.respond_to?(:to_time)
+    value.to_time
+  elsif value
+    Time.parse(value.to_s)
+  end
+rescue StandardError
+  nil
+end
+
+def stale_item?(published_time)
+  cutoff = Time.now - (MAX_ITEM_AGE_DAYS * 24 * 60 * 60)
+  published_time < cutoff
+end
+
 # Iterate through all Markdown files in _sources
 Dir.glob("#{SOURCES_DIR}/*.md") do |source_file|
   frontmatter = read_frontmatter(source_file)
@@ -73,6 +98,17 @@ Dir.glob("#{SOURCES_DIR}/*.md") do |source_file|
       feed = RSS::Parser.parse(rss, false)
 
       feed.items.each do |item|
+        published_time = published_at(item)
+        unless published_time
+          warn "Skipping #{item.link || item.title} (missing publish date)"
+          next
+        end
+
+        if stale_item?(published_time)
+          puts "Skipping #{item.link || item.title} (older than #{MAX_ITEM_AGE_DAYS} days)"
+          next
+        end
+
         # Get original HTML content from RSS item
         original_html = item.respond_to?(:content_encoded) && item.content_encoded ? item.content_encoded : item.description
         original_html = original_html.to_s.strip
@@ -97,14 +133,14 @@ Dir.glob("#{SOURCES_DIR}/*.md") do |source_file|
         content_md = ReverseMarkdown.convert(original_html)
 
         # Generate a safe filename
-        date_prefix = item.pubDate ? item.pubDate.strftime('%Y-%m-%d') : Time.now.strftime('%Y-%m-%d')
+        date_prefix = published_time.strftime('%Y-%m-%d')
         title_slug = item.title.downcase.gsub(/[^a-z0-9]+/, '-').gsub(/^-|-$/, '')
         filename = "#{NEWS_DIR}/#{date_prefix}-#{title_slug}.md"
 
         # Build frontmatter
         news_frontmatter = {
           'title' => item.title,
-          'date' => item.pubDate ? item.pubDate.iso8601 : Time.now.iso8601,
+          'date' => published_time.iso8601,
           'source' => source_title,
           'source_url' => item.link,
           'original_content' => original_html
