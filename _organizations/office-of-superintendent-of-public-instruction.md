@@ -5,7 +5,7 @@ jurisdictions:
 parent_organization: State Executive Branch
 title: Office of Superintendent of Public Instruction
 topics:
-- Childcare
+- Community & Social Services
 - Education & Learning
 - Financial Assistance
 - Food & Nutrition

@@ -6,7 +6,6 @@ parent_organization: King County
 title: Department of Natural Resources and Parks
 topics:
 - Community & Social Services
-- Recreation/Community Programs
 - Transportation & Mobility
 type: Department
 website: https://kingcounty.gov/depts/dnrp.aspx

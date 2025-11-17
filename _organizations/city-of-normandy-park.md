@@ -4,7 +4,6 @@ jurisdictions:
 news_rss_url: https://normandyparkwa.gov/feed/
 title: City of Normandy Park
 topics:
-- Childcare
 - Community & Social Services
 - Education & Learning
 type: City

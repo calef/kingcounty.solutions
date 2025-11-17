@@ -7,7 +7,6 @@ title: King County Library System
 topics:
 - Education & Learning
 - Community & Social Services
-- Recreation/Community Programs
 type: Special Purpose District
 website: https://kcls.org
 ---

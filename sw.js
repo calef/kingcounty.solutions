@@ -11,7 +11,6 @@ const PRECACHE_URLS = [
   '{{ "/topics/" | relative_url }}',
   '{{ "/places/" | relative_url }}',
   '{{ "/organizations/" | relative_url }}',
-  '{{ "/news/" | relative_url }}',
   '{{ "/assets/main.css" | relative_url }}',
   '{{ "/assets/js/pwa.js" | relative_url }}',
   '{{ "/assets/manifest.webmanifest" | relative_url }}',

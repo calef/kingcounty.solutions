@@ -5,8 +5,7 @@ jurisdictions:
 news_rss_url: https://kidvantagenw.org/feed/
 title: KidVantage
 topics:
-- Clothing
-- Diapers
+- Personal & Household Needs
 - School Supplies
 - Community & Social Services
 type: Community-Based Organization

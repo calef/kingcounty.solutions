@@ -8,7 +8,6 @@ title: Beehave Academy
 topics:
 - Community & Social Services
 - Disabilities
-- Early Intervention
 - Mental Health & Counseling
 type: Community-Based Organization
 website: https://www.beehaveacademy.com/

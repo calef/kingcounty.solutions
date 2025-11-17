@@ -2,45 +2,12 @@
 layout: default
 ---
 
-{% assign topic_ancestors = "" | split: "" %}
-{% assign current_parent = page.parent_topic %}
-{% for i in (0..20) %}
-  {% if current_parent %}
-    {% assign topic_ancestors = topic_ancestors | push: current_parent %}
-    {% assign parent_doc = site.topics | where: "title", current_parent | first %}
-    {% if parent_doc and parent_doc.parent_topic %}
-      {% assign current_parent = parent_doc.parent_topic %}
-    {% else %}
-      {% assign current_parent = nil %}
-    {% endif %}
-  {% else %}
-    {% break %}
-  {% endif %}
-{% endfor %}
-{% assign topic_ancestors = topic_ancestors | reverse %}
-
 <article class="page topic-page">
   <header class="page-header">
-    <nav class="breadcrumbs">
-      <a href="{{ '/topics/' | relative_url }}">Topics</a>
-      {% for ancestor in topic_ancestors %}
-        <span>›</span>
-        {% assign ancestor_doc = site.topics | where: "title", ancestor | first %}
-        {% if ancestor_doc %}
-          <a href="{{ ancestor_doc.url | relative_url }}">{{ ancestor }}</a>
-        {% else %}
-          <span>{{ ancestor }}</span>
-        {% endif %}
-      {% endfor %}
-      <span>›</span>
-      <span>{{ page.title }}</span>
-    </nav>
-
     <h1 class="page-title">{{ page.title }}</h1>
   </header>
 
   {% assign all_topics = site.topics | sort: "title" %}
-  {% assign child_topics = all_topics | where: "parent_topic", page.title %}
   {% assign all_orgs = site.organizations | sort: "title" %}
   {% assign topic_orgs = all_orgs | where_exp: "org", "org.topics and org.topics contains page.title" %}
   {% assign topic_org_titles = topic_orgs | map: "title" %}
@@ -61,19 +28,6 @@ layout: default
       <div class="topic-body">
         {{ content }}
       </div>
-    {% endif %}
-
-    {% if child_topics and child_topics.size > 0 %}
-      <section class="topic-children">
-        <h2>Subtopics of {{ page.title }}</h2>
-        <div class="topics-tree">
-          <ul class="topics-tree-list">
-            {% for topic in child_topics %}
-              {% include topic-tree.html topic=topic topics=all_topics %}
-            {% endfor %}
-          </ul>
-        </div>
-      </section>
     {% endif %}
 
     {% if topic_orgs and topic_orgs.size > 0 %}
@@ -136,7 +90,7 @@ layout: default
         </ul>
         {% if topic_news_total > 20 %}
           <p class="topic-news-more">
-            <a href="{{ '/news/' | relative_url }}">View all news</a>
+            <a href="{{ '/' | relative_url }}">View all news</a>
           </p>
         {% endif %}
       </section>
@@ -145,18 +99,6 @@ layout: default
 </article>
 
 <style>
-.breadcrumbs {
-  font-size: 0.9rem;
-  color: #666;
-  margin-bottom: 0.5rem;
-}
-.breadcrumbs a {
-  text-decoration: none;
-  color: inherit;
-}
-.breadcrumbs span {
-  margin: 0 0.25rem;
-}
 .topic-body {
   margin-bottom: 1.5rem;
 }

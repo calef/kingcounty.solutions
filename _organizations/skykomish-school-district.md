@@ -6,8 +6,6 @@ parent_organization: Puget Sound Educational Service District 121
 title: Skykomish School District
 topics:
 - Education & Learning
-- Homeless Student Liaison
-- Tutoring/Homework Help
 type: School District
 website: https://www.skykomish.wednet.edu
 ---

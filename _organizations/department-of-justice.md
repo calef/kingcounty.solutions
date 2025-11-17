@@ -5,9 +5,8 @@ jurisdictions:
 parent_organization: Federal Executive Branch
 title: Department of Justice
 topics:
-- Legal Aid
-- Domestic Violence
 - Community & Social Services
+- Domestic Violence
 type: Department
 website: https://www.justice.gov/
 ---

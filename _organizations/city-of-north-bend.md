@@ -4,7 +4,6 @@ jurisdictions:
 title: City of North Bend
 topics:
 - Community & Social Services
-- Recreation/Community Programs
 type: City
 website: https://northbendwa.gov/
 ---

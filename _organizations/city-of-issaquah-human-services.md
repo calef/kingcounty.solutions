@@ -7,11 +7,8 @@ topics:
 - Aging Services
 - Community & Social Services
 - Family Support
-- Homeless Day Centers
+- Shelter & Housing
 - Homeless Prevention
-- Permanent Housing
-- Senior Services
-- Transitional Housing
 - Youth Programming
 type: Division
 website: https://www.issaquahwa.gov/268/Human-Services

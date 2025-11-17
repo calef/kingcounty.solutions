@@ -5,14 +5,12 @@ jurisdictions:
 parent_organization: Department of Social and Health Services
 title: Department of Social and Health Services
 topics:
-- Childcare
 - Community & Social Services
 - Disabilities
 - Financial Assistance
 - Food & Nutrition
 - Health Care
 - Mental Health & Counseling
-- Senior Services
 - Shelter & Housing
 type: Department
 website: https://www.dshs.wa.gov/

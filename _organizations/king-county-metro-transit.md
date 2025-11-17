@@ -4,7 +4,6 @@ jurisdictions:
 title: King County Metro Transit
 topics:
 - Community & Social Services
-- Paratransit Services
 - Transportation & Mobility
 type: Special Purpose District
 website: https://kingcounty.gov/metro

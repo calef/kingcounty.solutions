@@ -4,7 +4,7 @@ jurisdictions:
 news_rss_url: https://www.tukwilawa.gov/feed/
 title: City of Tukwila
 topics:
-- Advocacy
+- Domestic Violence
 - Community & Social Services
 - Transportation & Mobility
 type: City

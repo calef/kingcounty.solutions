@@ -3,12 +3,12 @@ address: 16540 NE 80th St, Redmond, WA 98052
 jurisdictions:
 - King County
 news_rss_url: https://redmondumc.org/feed/
-title: Redmond United Methodist Church – Social Ministries
+title: "Redmond United Methodist Church \u2013 Social Ministries"
 topics:
 - Food & Nutrition
 - Housing Support
 - Counseling
-- Advocacy
+- Domestic Violence
 type: Community-Based Organization
 website: https://redmondumc.org/
 ---

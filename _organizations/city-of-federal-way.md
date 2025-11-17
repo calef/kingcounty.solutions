@@ -4,7 +4,6 @@ jurisdictions:
 title: City of Federal Way
 topics:
 - Community & Social Services
-- Recreation/Community Programs
 type: City
 website: https://www.cityoffederalway.com/
 ---

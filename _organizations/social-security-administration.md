@@ -1,12 +1,12 @@
 ---
 acronym: SSA
 jurisdictions:
-  - United States
+- United States
 parent_organization: Federal Executive Branch
 title: Social Security Administration
 topics:
 - Financial Assistance
-- Senior Services
+- Community & Social Services
 - Disabilities
 type: Agency
 website: https://www.ssa.gov/

@@ -7,12 +7,7 @@ jurisdictions:
 parent_organization: Puget Sound Educational Service District 121
 title: Snoqualmie Valley School District
 topics:
-- Adult Education
-- ESL Classes
 - Education & Learning
-- GED Classes
-- Homeless Student Liaison
-- Tutoring/Homework Help
 type: School District
 website: https://www.svsd410.org
 ---

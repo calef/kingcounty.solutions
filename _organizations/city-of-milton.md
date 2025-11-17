@@ -4,8 +4,6 @@ jurisdictions:
 title: City of Milton
 topics:
 - Community & Social Services
-- Recreation/Community Programs
-- Volunteer Opportunities
 type: City
 website: https://www.cityofmilton.net/
 ---

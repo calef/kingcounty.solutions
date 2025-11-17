@@ -5,7 +5,7 @@ jurisdictions:
 parent_organization: Federal Executive Branch
 title: Legal Services Corporation
 topics:
-- Legal Aid
+- Community & Social Services
 - Domestic Violence
 - Financial Assistance
 type: Independent Federal Agency

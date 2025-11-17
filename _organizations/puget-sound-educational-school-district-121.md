@@ -5,9 +5,8 @@ jurisdictions:
 parent_organization: Office of Superintendent of Public Instruction
 title: Puget Sound Educational Service District 121
 topics:
-- Childcare
 - Community & Social Services
-- Early Intervention
+- Disabilities
 - Education & Learning
 - Employment & Job Support
 - Food & Nutrition

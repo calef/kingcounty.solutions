@@ -4,7 +4,6 @@ jurisdictions:
 news_rss_url: https://www.hopelink.org/feed/
 title: Hopelink
 topics:
-- Employment
 - Employment & Job Support
 - Financial Assistance
 - Food & Nutrition

@@ -6,14 +6,10 @@ topics:
 - Community & Social Services
 - Financial Assistance
 - Food & Nutrition
-- Legal Aid
 - Domestic Violence
 - Disabilities
 - Mental Health & Counseling
 - Transportation & Mobility
-- Employment
-- Childcare
-- Senior Services
 type: County
 website: https://kingcounty.gov/
 ---

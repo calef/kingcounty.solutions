@@ -7,7 +7,6 @@ title: Seattle Housing Authority
 topics:
 - Community & Social Services
 - Financial Assistance
-- Senior Services
 - Shelter & Housing
 type: Agency
 website: https://www.seattlehousing.org

@@ -5,10 +5,8 @@ jurisdictions:
 parent_organization: Puget Sound Educational Service District 121
 title: Renton School District
 topics:
-- Childcare
+- Community & Social Services
 - Education & Learning
-- Homeless Student Liaison
-- Tutoring/Homework Help
 type: School District
 website: https://www.rentonschools.us
 ---

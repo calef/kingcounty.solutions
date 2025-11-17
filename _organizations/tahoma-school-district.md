@@ -6,12 +6,8 @@ jurisdictions:
 parent_organization: Puget Sound Educational Service District 121
 title: Tahoma School District
 topics:
-- Childcare
-- ESL Classes
+- Community & Social Services
 - Education & Learning
-- GED Classes
-- Homeless Student Liaison
-- Tutoring/Homework Help
 type: School District
 website: https://www.tahomasd.us
 ---

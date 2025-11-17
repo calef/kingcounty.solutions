@@ -5,10 +5,9 @@ jurisdictions:
 news_rss_url: https://empoweryouthnetwork.org/feed/
 title: Empower Youth Network
 topics:
-- Youth Employment Programs
+- Employment & Job Support
 - Education & Learning
 - Mentoring
-- Job Seeking Skills
 type: Community-Based Organization
 website: https://empoweryouthnetwork.org/
 ---

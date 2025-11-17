@@ -2,5 +2,4 @@
 title: Shelter & Housing
 topic_summary_generated: true
 ---
-
-Shelter and housing services in King County provide essential support for individuals and families experiencing homelessness or housing instability. These resources help residents access temporary shelters, affordable housing options, and assistance programs, ensuring they have a safe place to live and the necessary support to regain stability.
+Shelter & Housing includes emergency and youth shelters, transitional housing, permanent housing supports, and homeless day centers. These resources provide immediate safety while helping people move toward stable, long-term housing.

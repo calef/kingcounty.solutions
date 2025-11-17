@@ -2,5 +2,4 @@
 title: Community & Social Services
 topic_summary_generated: true
 ---
-
-Community and Social Services in King County provide essential support to residents in need, including housing assistance, food programs, mental health resources, and youth services. These programs aim to enhance the well-being of individuals and families, fostering a stronger, more connected community.
+Community and Social Services connect residents to essentials like childcare, legal aid, recreation programs, senior services, and volunteer opportunities alongside housing, food, and mental health supports. These resources help families stay stable, engaged, and connected to the networks that strengthen community wellbeing.

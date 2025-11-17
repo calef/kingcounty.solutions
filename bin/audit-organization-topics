@@ -3,227 +3,303 @@
 
 require 'json'
 require 'yaml'
-require 'fileutils'
 require 'ruby/openai'
 require 'optparse'
+require 'fileutils'
+require 'set'
 
 ORG_DIR = '_organizations'
 TOPIC_DIR = '_topics'
 POSTS_DIR = '_posts'
 CACHE_DIR = File.join('.jekyll-cache', 'topic_audit')
 DEFAULT_MODEL = ENV.fetch('OPENAI_TOPIC_AUDIT_MODEL', 'gpt-4o-mini')
+DEFAULT_MAX_POSTS = 5
 
-FileUtils.mkdir_p(CACHE_DIR)
-
-options = {
-  model: DEFAULT_MODEL,
-  max_posts: 5,
-  force: false,
-  output: nil,
-  apply: false
-}
-
-OptionParser.new do |opts|
-  opts.banner = 'Usage: bin/audit-topics [options]'
-
-  opts.on('--model MODEL', 'OpenAI model (default: gpt-4o-mini)') { |m| options[:model] = m }
-  opts.on('--max-posts N', Integer, 'Number of recent posts per org to include (default: 5)') { |n| options[:max_posts] = n }
-  opts.on('--force', 'Ignore cached responses and re-run audit') { options[:force] = true }
-  opts.on('--output FILE', 'Write JSON report to FILE') { |f| options[:output] = f }
-  opts.on('--apply', 'Update organization topic lists in-place') { options[:apply] = true }
-end.parse!
-
-client = OpenAI::Client.new(access_token: ENV.fetch('OPENAI_API_KEY'))
-
-def load_topics
-  topics = {}
-  Dir.glob(File.join(TOPIC_DIR, '*.md')).each do |path|
-    fm, = read_front_matter(path)
-    next unless fm
-    title = fm['title'] || File.basename(path, '.md').tr('-', ' ')
-    topics[title] = {
-      'title' => title,
-      'parent' => fm['parent_topic'],
-      'summary' => fm['summary'] || fm['description']
-    }
+class AuditOrganizationTopics
+  def initialize(client:, options:)
+    @client = client
+    @model = options[:model]
+    @max_posts = options[:max_posts]
+    @force = options[:force]
+    @output = options[:output]
+    @apply = options[:apply]
+    @report = []
   end
-  topics
-end
 
-def write_front_matter(path, front_matter, body)
-  yaml = YAML.dump(front_matter).sub(/\A---\s*\n/, '').strip
-  output = ['---', yaml, '---', body].join("\n")
-  File.write(path, output)
-end
+  def run
+    FileUtils.mkdir_p(CACHE_DIR)
+    topics = load_topics
+    organizations = load_organizations
 
-def read_front_matter(path)
-  content = File.read(path)
-  if content =~ /\A---\s*\n(.*?)\n---\s*\n/m
-    front_matter = YAML.safe_load(Regexp.last_match(1)) || {}
-    body = Regexp.last_match.post_match
-    [front_matter, body]
-  else
-    warn "Skipping #{path}: missing front matter"
-    [nil, nil]
+    organizations.each do |org|
+      process_org(org, topics)
+    end
+
+    write_report
   end
-end
 
-def load_recent_posts(org_title, max_count)
-  posts = Dir.glob(File.join(POSTS_DIR, '**', '*.md')).filter_map do |path|
-    fm, body = read_front_matter(path)
-    next unless fm
-    next unless fm['source'] == org_title
-    {
-      'title' => fm['title'],
-      'date' => fm['date'],
-      'excerpt' => (body || '').strip
-    }
-  end
-  posts.sort_by { |p| p['date'].to_s }.reverse.first(max_count)
-end
+  private
 
-def build_prompt(org, topics, posts)
-  topic_catalog = topics.map do |title, meta|
-    summary = meta['summary'] || 'No summary provided.'
-    parent = meta['parent'] ? "Parent: #{meta['parent']}." : ''
-    "- #{title}: #{summary} #{parent}".strip
-  end.join("\n")
+  def load_topics
+    Dir.glob(File.join(TOPIC_DIR, '*.md')).sort.each_with_object({}) do |path, acc|
+      fm, body = read_front_matter(path)
+      next unless fm
 
-  post_lines = posts.map do |post|
-    title = post['title'] || 'Untitled'
-    date = post['date'] || 'Unknown date'
-    snippet = post['excerpt']&.split(/\s+/)&.first(80)&.join(' ')
-    "• #{title} (#{date}): #{snippet}"
-  end.join("\n")
-
-  org_desc = [org['description'], org['content']&.strip].compact.join("\n\n")
-
-  <<~PROMPT
-    You are auditing topic coverage for organizations in a public social-service directory.
-
-    Topic catalog:
-    #{topic_catalog}
-
-    Organization: #{org['title']}
-    Existing topics: #{(org['topics'] || []).join(', ')}
-    Description:
-    #{org_desc}
-
-    Recent news:
-    #{post_lines.empty? ? 'No recent posts.' : post_lines}
-
-    Task: Determine which topics the organization currently provides based on the description and recent news. Only pick topics that clearly align; omit those without evidence. Return JSON with keys:
-    {
-      "topics_true": ["Topic Title", ...],
-      "topics_false": ["Topic Title", ...],
-      "topics_unclear": ["Topic Title", ...],
-      "notes": "Optional rationale"
-    }
-    "topics_true" should include all topics you are confident the organization covers (even if not currently listed). "topics_false" should list topics in the existing list that are unsupported. Use "topics_unclear" for anything ambiguous.
-    Respond with JSON only.
-  PROMPT
-end
-
-def audit_org(client, org, topics, posts, model, cache_path, force)
-  unless force
-    if File.exist?(cache_path)
-      cached = JSON.parse(File.read(cache_path)) rescue nil
-      return cached if cached
+      title = fm['title'] || default_title(path)
+      summary = (body || '').strip
+      acc[title] = {
+        'title' => title,
+        'summary' => summary
+      }
     end
   end
 
-  prompt = build_prompt(org, topics, posts)
-  response = client.chat(
-    parameters: {
-      model: model,
-      messages: [
-        { role: 'system', content: 'You are a precise classification assistant who responds with JSON only.' },
-        { role: 'user', content: prompt }
-      ],
-      temperature: 0.2
-    }
-  )
+  def load_organizations
+    Dir.glob(File.join(ORG_DIR, '*.md')).sort.filter_map do |path|
+      fm, body = read_front_matter(path)
+      next unless fm
 
-  content = response.dig('choices', 0, 'message', 'content')
-  raise 'LLM returned empty response' unless content
+      {
+        'path' => path,
+        'title' => fm['title'] || default_title(path),
+        'topics' => Array(fm['topics']).dup,
+        'description' => [fm['summary'], fm['description']].compact.join(' '),
+        'content' => body,
+        'website' => fm['website']
+      }
+    end
+  end
 
-  begin
-    parsed = JSON.parse(content)
-    File.write(cache_path, JSON.pretty_generate(parsed))
-    parsed
+  def read_front_matter(path)
+    content = File.read(path)
+    if content =~ /\A---\s*\n(.*?)\n---\s*\n/m
+      front_matter = YAML.safe_load(Regexp.last_match(1), aliases: true) || {}
+      body = Regexp.last_match.post_match
+      [front_matter, body]
+    else
+      warn "Skipping #{path}: missing front matter"
+      [nil, nil]
+    end
+  end
+
+  def write_front_matter(path, front_matter, body)
+    yaml = YAML.dump(front_matter).sub(/\A---\s*\n/, '').strip
+    output = ['---', yaml, '---', body].join("\n")
+    File.write(path, output)
+  end
+
+  def load_recent_posts(org_title)
+    Dir.glob(File.join(POSTS_DIR, '**', '*.md')).sort.filter_map do |path|
+      fm, body = read_front_matter(path)
+      next unless fm
+      next unless fm['source'] == org_title
+
+      {
+        'title' => fm['title'],
+        'date' => fm['date'],
+        'excerpt' => (body || '').strip
+      }
+    end.sort_by { |post| post['date'].to_s }.reverse.first(@max_posts)
+  end
+
+  def process_org(org, topics)
+    cache_file = File.join(CACHE_DIR, cache_key(org['title']))
+    posts = load_recent_posts(org['title'])
+
+    puts "Auditing #{org['title']}..."
+    result = audit_org(org, topics, posts, cache_file)
+    unless result
+      warn "Skipping #{org['title']} due to parse errors"
+      return
+    end
+
+    record_report(org, result)
+    return unless @apply
+
+    apply_changes(org, result)
+  end
+
+  def audit_org(org, topics, posts, cache_path)
+    allowed_titles = topics.keys
+    cached = cached_response(cache_path)
+    filtered_cached = filter_result(cached, allowed_titles) if cached
+    return filtered_cached if filtered_cached && !@force
+
+    prompt = build_prompt(org, topics, posts)
+    response = @client.chat(
+      parameters: {
+        model: @model,
+        messages: [
+          { role: 'system', content: 'You are a precise classification assistant who responds with JSON only.' },
+          { role: 'user', content: prompt }
+        ],
+        temperature: 0.2
+      }
+    )
+
+    content = response.dig('choices', 0, 'message', 'content')
+    raise 'LLM returned empty response' unless content
+
+    parsed = safe_parse_json(content, org['title'])
+    filtered = filter_result(parsed, allowed_titles)
+    File.write(cache_path, JSON.pretty_generate(filtered)) if filtered
+    filtered
+  end
+
+  def cached_response(cache_path)
+    return unless File.exist?(cache_path)
+
+    JSON.parse(File.read(cache_path))
   rescue JSON::ParserError
-    warn "Non-JSON response for #{org['title']}: #{content.inspect}"
     nil
   end
-end
 
-topics_map = load_topics
-
-organizations = Dir.glob(File.join(ORG_DIR, '*.md')).map do |path|
-  fm, body = read_front_matter(path)
-  next unless fm
-  {
-    'path' => path,
-    'title' => fm['title'] || File.basename(path, '.md').tr('-', ' '),
-    'topics' => (fm['topics'] || []).dup,
-    'description' => [fm['summary'], fm['description']].compact.join(' '),
-    'content' => body,
-    'website' => fm['website']
-  }
-end.compact
-
-report = []
-
-organizations.each do |org|
-  cache_file = File.join(CACHE_DIR, "#{org['title'].downcase.gsub(/[^a-z0-9]+/, '_')}.json")
-  posts = load_recent_posts(org['title'], options[:max_posts])
-  puts "Auditing #{org['title']}..."
-  result = audit_org(client, org, topics_map, posts, options[:model], cache_file, options[:force])
-  unless result
-    warn "Skipping #{org['title']} due to parse errors"
-    next
+  def safe_parse_json(content, org_title)
+    JSON.parse(content)
+  rescue JSON::ParserError
+    warn "Non-JSON response for #{org_title}: #{content.inspect}"
+    nil
   end
 
-  current = org['topics'] || []
-  true_topics = Array(result['topics_true'])
-  false_topics = Array(result['topics_false'])
-  unclear = Array(result['topics_unclear'])
+  def build_prompt(org, topics, posts)
+    topic_catalog = topics.map do |title, meta|
+      summary = meta['summary'] || 'No summary provided.'
+      "- #{title}: #{summary}".strip
+    end.join("\n")
 
-  additions = true_topics - current
-  removals = false_topics & current
+    post_lines = posts.map do |post|
+      title = post['title'] || 'Untitled'
+      date = post['date'] || 'Unknown date'
+      snippet = post['excerpt']&.split(/\s+/)&.first(80)&.join(' ')
+      "• #{title} (#{date}): #{snippet}"
+    end.join("\n")
 
-  report << {
-    org: org['title'],
-    additions: additions,
-    removals: removals,
-    unclear: unclear,
-    notes: result['notes']
-  }
+    org_desc = [org['description'], org['content']&.strip].compact.join("\n\n")
 
-  next unless options[:apply]
+    <<~PROMPT
+      You are auditing topic coverage for organizations in a public social-service directory.
 
-  next if additions.empty? && removals.empty?
+      Topic catalog:
+      #{topic_catalog}
 
-  fm, body = read_front_matter(org['path'])
-  next unless fm
+      Organization: #{org['title']}
+      Existing topics: #{Array(org['topics']).join(', ')}
+      Description:
+      #{org_desc}
 
-  updated_topics = (Array(fm['topics']) - removals + additions).uniq.sort
-  fm['topics'] = updated_topics
-  write_front_matter(org['path'], fm, body)
-  puts "  -> Updated #{org['path']} topics: #{updated_topics.join(', ')}"
-end
+      Recent news:
+      #{post_lines.empty? ? 'No recent posts.' : post_lines}
 
-if options[:output]
-  File.write(options[:output], JSON.pretty_generate(report))
-  puts "Report written to #{options[:output]}"
-else
-  report.each do |entry|
-    puts "\n== #{entry[:org]} =="
-    puts "Add:" + (entry[:additions].empty? ? ' (none)' : " #{entry[:additions].join(', ')}")
-    puts "Remove:" + (entry[:removals].empty? ? ' (none)' : " #{entry[:removals].join(', ')}")
-    unless entry[:unclear].empty?
-      puts "Unclear: #{entry[:unclear].join(', ')}"
+      Task: Determine which topics the organization currently provides based on the description and recent news. Only pick topics that clearly align; omit those without evidence. Return JSON with keys:
+      {
+        "topics_true": ["Topic Title", ...],
+        "topics_false": ["Topic Title", ...],
+        "topics_unclear": ["Topic Title", ...],
+        "notes": "Optional rationale"
+      }
+      Only use topic titles from the catalog above; do not invent new topic names.
+      Use only topic titles from the catalog above; do not invent new topic names.
+      "topics_true" should include all topics you are confident the organization covers (even if not currently listed). "topics_false" should list topics in the existing list that are unsupported. Use "topics_unclear" for anything ambiguous.
+      Respond with JSON only.
+    PROMPT
+  end
+
+  def filter_result(result, allowed_titles)
+    return nil unless result.is_a?(Hash)
+
+    allow = allowed_titles.to_set
+    {
+      'topics_true' => Array(result['topics_true']).select { |t| allow.include?(t) },
+      'topics_false' => Array(result['topics_false']).select { |t| allow.include?(t) },
+      'topics_unclear' => Array(result['topics_unclear']).select { |t| allow.include?(t) },
+      'notes' => result['notes']
+    }
+  end
+
+  def record_report(org, result)
+    current = org['topics'] || []
+    true_topics = Array(result['topics_true'])
+    false_topics = Array(result['topics_false'])
+    unclear = Array(result['topics_unclear'])
+
+    additions = true_topics - current
+    removals = false_topics & current
+
+    @report << {
+      org: org['title'],
+      additions: additions,
+      removals: removals,
+      unclear: unclear,
+      notes: result['notes']
+    }
+  end
+
+  def apply_changes(org, result)
+    additions = Array(result['topics_true']) - Array(org['topics'])
+    removals = Array(result['topics_false']) & Array(org['topics'])
+    return if additions.empty? && removals.empty?
+
+    fm, body = read_front_matter(org['path'])
+    return unless fm
+
+    updated_topics = (Array(fm['topics']) - removals + additions).uniq.sort
+    fm['topics'] = updated_topics
+    write_front_matter(org['path'], fm, body)
+    puts "  -> Updated #{org['path']} topics: #{updated_topics.join(', ')}"
+  end
+
+  def write_report
+    if @output
+      File.write(@output, JSON.pretty_generate(@report))
+      puts "Report written to #{@output}"
+    else
+      print_report
     end
-    puts "Notes: #{entry[:notes]}" if entry[:notes]
   end
+
+  def print_report
+    @report.each do |entry|
+      puts "\n== #{entry[:org]} =="
+      puts "Add:" + (entry[:additions].empty? ? ' (none)' : " #{entry[:additions].join(', ')}")
+      puts "Remove:" + (entry[:removals].empty? ? ' (none)' : " #{entry[:removals].join(', ')}")
+      puts "Unclear: #{entry[:unclear].join(', ')}" unless entry[:unclear].empty?
+      puts "Notes: #{entry[:notes]}" if entry[:notes]
+    end
+  end
+
+  def cache_key(title)
+    "#{title.downcase.gsub(/[^a-z0-9]+/, '_')}.json"
+  end
+
+  def default_title(path)
+    File.basename(path, '.md').tr('-', ' ')
+  end
+end
+
+def parse_options
+  options = {
+    model: DEFAULT_MODEL,
+    max_posts: DEFAULT_MAX_POSTS,
+    force: false,
+    output: nil,
+    apply: false
+  }
+
+  OptionParser.new do |opts|
+    opts.banner = 'Usage: bin/audit-topics [options]'
+
+    opts.on('--model MODEL', 'OpenAI model (default: gpt-4o-mini)') { |model| options[:model] = model }
+    opts.on('--max-posts N', Integer, 'Number of recent posts per org to include (default: 5)') { |n| options[:max_posts] = n }
+    opts.on('--force', 'Ignore cached responses and re-run audit') { options[:force] = true }
+    opts.on('--output FILE', 'Write JSON report to FILE') { |file| options[:output] = file }
+    opts.on('--apply', 'Update organization topic lists in-place') { options[:apply] = true }
+  end.parse!
+
+  options
+end
+
+if $PROGRAM_NAME == __FILE__
+  options = parse_options
+  client = OpenAI::Client.new(access_token: ENV.fetch('OPENAI_API_KEY'))
+  AuditOrganizationTopics.new(client: client, options: options).run
 end

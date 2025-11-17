@@ -6,7 +6,7 @@ phone: 425-392-4123
 title: Issaquah Food & Clothing Bank
 topics:
 - Food & Nutrition
-- Clothing
+- Personal & Household Needs
 - Community & Social Services
 type: Community-Based Organization
 website: https://issaquahfoodbank.org/

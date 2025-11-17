@@ -2,5 +2,4 @@
 title: Disabilities
 topic_summary_generated: true
 ---
-
-Disabilities encompass a range of physical, mental, and developmental conditions that affect daily life. Resources in King County support individuals with disabilities and their families by providing access to services, advocacy, and community programs. These resources aim to enhance independence, promote inclusion, and improve overall quality of life for residents.
+Disability services span assistive technology, early intervention, employment support, financial help, and traumatic brain injury resources. Together with advocacy and community programs, they aim to foster independence, inclusion, and a better quality of life for people with disabilities and their families.

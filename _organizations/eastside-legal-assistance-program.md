@@ -10,7 +10,6 @@ title: Eastside Legal Assistance Program (ELAP)
 topics:
 - Community & Social Services
 - Domestic Violence
-- Legal Aid
 type: Community-Based Organization
 website: https://elap.org/
 ---

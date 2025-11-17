@@ -9,11 +9,10 @@ news_rss_url: https://cisc-seattle.org/feed
 phone: 206-624-5633
 title: Chinese Information & Service Center (CISC)
 topics:
-- Advocacy
+- Domestic Violence
 - Community & Social Services
 - Food & Nutrition
 - Health Care
-- Senior Services
 type: Community-Based Organization
 website: https://cisc-seattle.org/
 ---

@@ -6,9 +6,8 @@ title: Jewish Family Service Seattle (JFS Seattle)
 topics:
 - Community & Social Services
 - Counseling
-- Senior Services
 - Refugee Resettlement
-- Employment
+- Disabilities
 type: Community-Based Organization
 website: https://www.jfsseattle.org/
 ---

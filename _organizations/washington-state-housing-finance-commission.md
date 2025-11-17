@@ -1,13 +1,13 @@
 ---
 acronym: WSHFC
 jurisdictions:
-  - Washington State
+- Washington State
 parent_organization: State Executive Branch
 title: Washington State Housing Finance Commission
 topics:
 - Financial Assistance
 - Shelter & Housing
-- Senior Services
+- Community & Social Services
 type: Agency
 website: https://www.wshfc.org/
 ---

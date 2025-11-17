@@ -4,9 +4,8 @@ jurisdictions:
 parent_organization: Federal Executive Branch
 title: Department of Education
 topics:
-- Adult Education
-- Community & Social Services
 - Education & Learning
+- Community & Social Services
 - Financial Assistance
 type: Department
 website: https://www.ed.gov/

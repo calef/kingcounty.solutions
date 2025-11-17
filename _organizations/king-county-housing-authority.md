@@ -7,7 +7,6 @@ title: King County Housing Authority
 topics:
 - Shelter & Housing
 - Financial Assistance
-- Senior Services
 - Community & Social Services
 type: Independent Public Corporation
 website: https://www.kcha.org/

@@ -5,11 +5,8 @@ parent_organization: City of Redmond
 title: City of Redmond Housing, Homelessness and Human Services Division
 topics:
 - Community & Social Services
-- Homeless Day Centers
-- Homelessness Prevention
-- Permanent Housing
 - Shelter & Housing
-- Transitional Housing
+- Homelessness Prevention
 type: Division
 website: https://www.redmond.gov/892/Housing-Homelessness-Human-Services
 ---

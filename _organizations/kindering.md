@@ -4,7 +4,6 @@ jurisdictions:
 news_rss_url: https://kindering.org/feed/
 title: Kindering
 topics:
-- Early Intervention
 - Disabilities
 - Community & Social Services
 type: Community-Based Organization

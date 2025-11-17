@@ -1,13 +1,13 @@
 ---
 acronym: CMS
 jurisdictions:
-  - United States
+- United States
 parent_organization: Department of Health and Human Services
 title: Centers for Medicare & Medicaid Services
 topics:
 - Health Care
 - Financial Assistance
-- Senior Services
+- Community & Social Services
 type: Agency
 website: https://www.cms.gov/
 ---

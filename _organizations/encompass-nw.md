@@ -6,9 +6,8 @@ news_rss_url: https://encompassnw.org/feed/
 phone: 425-888-3347
 title: Encompass NW
 topics:
-- Childcare
 - Community & Social Services
-- Early Intervention
+- Disabilities
 - Health Care
 - Mental Health & Counseling
 type: Community-Based Organization

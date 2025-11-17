@@ -13,40 +13,16 @@ layout: default
   <div class="page-content">
     {{ content }}
 
-    <section class="topic-search" aria-labelledby="topic-search-label">
-      <div class="topic-search-header">
-        <h2 id="topic-search-label">Search topics</h2>
-        <p>Find a topic by name or parent topic.</p>
-      </div>
-      <div class="topic-search-control">
-        <input
-          type="search"
-          id="topic-search-input"
-          name="topic-search-input"
-          placeholder="Search by topic name or parent"
-          autocomplete="off"
-          autocapitalize="none"
-          spellcheck="false"
-          aria-describedby="topic-search-status"
-        >
-        <button type="button" id="topic-search-clear" class="topic-search-clear" aria-label="Clear search" hidden>&times;</button>
-      </div>
-      <div class="topic-search-results">
-        <p class="topic-search-status" id="topic-search-status" aria-live="polite">
-          Type at least 2 characters to search all topics.
-        </p>
-        <ul class="topic-search-list" id="topic-search-list"></ul>
-      </div>
-    </section>
 
     {% assign all_topics = site.topics | sort: "title" %}
-    {% assign top_level_topics = all_topics | where_exp: "topic", "topic.parent_topic == nil" %}
 
-    <div class="topics-tree">
-      {% if top_level_topics and top_level_topics.size > 0 %}
-        <ul class="topics-tree-list">
-          {% for topic in top_level_topics %}
-            {% include topic-tree.html topic=topic topics=all_topics %}
+    <div class="topics-list">
+      {% if all_topics and all_topics.size > 0 %}
+        <ul class="topics-list-grid">
+          {% for topic in all_topics %}
+            <li>
+              <a href="{{ topic.url | relative_url }}">{{ topic.title }}</a>
+            </li>
           {% endfor %}
         </ul>
       {% else %}
@@ -57,193 +33,30 @@ layout: default
 </article>
 
 <style>
-.topic-search {
-  margin: 1.5rem 0 2rem;
-  padding: 1rem;
-  border: 1px solid #e0e0e0;
-  border-radius: 0.5rem;
-  background: #fafafa;
+.topics-list {
+  margin-top: 1rem;
 }
-.topic-search-header {
-  margin-bottom: 0.75rem;
-}
-.topic-search-control {
-  position: relative;
-  margin-bottom: 0.75rem;
-}
-.topic-search-control input {
-  width: 100%;
-  padding: 0.65rem 2.5rem 0.65rem 0.75rem;
-  border: 1px solid #ccc;
-  border-radius: 0.45rem;
-  font-size: 1rem;
-}
-.topic-search-control input:focus {
-  outline: none;
-  border-color: #0366d6;
-  box-shadow: 0 0 0 3px rgba(3, 102, 214, 0.15);
-}
-.topic-search-clear {
-  position: absolute;
-  right: 0.5rem;
-  top: 50%;
-  transform: translateY(-50%);
-  border: none;
-  background: transparent;
-  font-size: 1.25rem;
-  line-height: 1;
-  cursor: pointer;
-  color: #666;
-}
-.topic-search-results {
-  min-height: 2rem;
-}
-.topic-search-status {
-  margin: 0 0 0.5rem;
-  color: #666;
-  font-size: 0.95rem;
-}
-.topic-search-list {
+.topics-list-grid {
   list-style: none;
-  padding: 0;
   margin: 0;
+  padding: 0;
   display: grid;
   gap: 0.5rem;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
 }
-.topic-search-list li {
-  padding: 0.65rem 0.75rem;
+.topics-list-grid li a {
+  display: block;
+  padding: 0.5rem 0.6rem;
   border: 1px solid #e4e4e4;
   border-radius: 0.45rem;
-  background: #fff;
-}
-.topic-search-list li a {
   text-decoration: none;
   font-weight: 600;
   color: inherit;
 }
-.topic-search-list li a:hover {
+.topics-list-grid li a:hover {
   text-decoration: underline;
-}
-.topic-search-result-meta {
-  display: block;
-  margin-top: 0.2rem;
-  color: #666;
-  font-size: 0.9rem;
-}
-.topics-tree {
-  margin-top: 1rem;
-}
-.topics-tree-list {
-  list-style: none;
-  margin: 0;
-  padding-left: 1rem;
-}
-.topics-tree-list > li {
-  margin-bottom: 0.35rem;
-}
-.topics-tree-item > a {
-  font-weight: 600;
-  text-decoration: none;
-}
-.topics-tree-item > a:hover {
-  text-decoration: underline;
-}
-.topics-tree-list ul {
-  margin-top: 0.25rem;
-  margin-bottom: 0.25rem;
-  padding-left: 1rem;
-  border-left: 1px solid #eee;
 }
 .page-description {
   color: #555;
 }
 </style>
-
-<script>
-(function() {
-  const MIN_QUERY = 2;
-  const MAX_RESULTS = 20;
-  const data = [
-    {% for topic in site.topics %}
-      {
-        "title": {{ topic.title | jsonify }},
-        "parent": {{ topic.parent_topic | jsonify }},
-        "url": {{ topic.url | relative_url | jsonify }},
-        "summary": {{ topic.content | strip_html | strip_newlines | truncate: 200 | jsonify }}
-      }{% unless forloop.last %},{% endunless %}
-    {% endfor %}
-  ];
-  const index = data.map(item => {
-    const searchText = [item.title, item.parent, item.summary]
-      .filter(Boolean)
-      .join(' ')
-      .toLowerCase();
-    return Object.assign({}, item, { searchText });
-  });
-
-  const input = document.getElementById('topic-search-input');
-  if (!input) return;
-  const clearBtn = document.getElementById('topic-search-clear');
-  const status = document.getElementById('topic-search-status');
-  const list = document.getElementById('topic-search-list');
-
-  function updateStatus(message) {
-    if (status) status.textContent = message;
-  }
-
-  function renderResults(items, total) {
-    if (!list) return;
-    if (items.length === 0) {
-      list.innerHTML = '';
-      updateStatus('No matches found.');
-      return;
-    }
-    const limited = items.slice(0, MAX_RESULTS);
-    list.innerHTML = limited.map(item => {
-      const metaParts = [];
-      if (item.parent) metaParts.push(`Parent: ${item.parent}`);
-      const meta = metaParts.join(' • ');
-      const summary = item.summary ? `<span class="topic-search-result-meta">${item.summary}</span>` : '';
-      return `
-        <li>
-          <a href="${item.url}">${item.title}</a>
-          ${meta ? `<span class="topic-search-result-meta">${meta}</span>` : ''}
-          ${summary}
-        </li>
-      `;
-    }).join('');
-
-    if (total > MAX_RESULTS) {
-      updateStatus(`Showing the first ${MAX_RESULTS} of ${total} matches. Refine your search for more precise results.`);
-    } else {
-      updateStatus(`Found ${total} ${total === 1 ? 'match' : 'matches'}.`);
-    }
-  }
-
-  function handleSearch() {
-    const query = input.value.trim();
-    const hasValue = query.length > 0;
-    clearBtn.hidden = !hasValue;
-
-    if (query.length < MIN_QUERY) {
-      list.innerHTML = '';
-      updateStatus('Type at least 2 characters to search all topics.');
-      return;
-    }
-
-    const tokens = query.toLowerCase().split(/\s+/).filter(Boolean);
-    const matches = index.filter(item => tokens.every(token => item.searchText.includes(token)));
-    renderResults(matches, matches.length);
-  }
-
-  input.addEventListener('input', handleSearch);
-  input.addEventListener('focus', handleSearch);
-  clearBtn.addEventListener('click', () => {
-    input.value = '';
-    clearBtn.hidden = true;
-    list.innerHTML = '';
-    updateStatus('Type at least 2 characters to search all topics.');
-    input.focus();
-  });
-})();
-</script>

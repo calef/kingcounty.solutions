@@ -3,7 +3,7 @@ jurisdictions:
 - Seattle
 title: Duwamish Tribe
 topics:
-- Advocacy
+- Domestic Violence
 - Community & Social Services
 - Education & Learning
 type: Tribal Government

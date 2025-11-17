@@ -1,11 +1,11 @@
 ---
 acronym: ALTSA
 jurisdictions:
-  - United States
+- United States
 parent_organization: Department of Social and Health Services
 title: Aging and Long-Term Support Administration
 topics:
-- Senior Services
+- Community & Social Services
 - Disabilities
 - Health Care
 type: Division

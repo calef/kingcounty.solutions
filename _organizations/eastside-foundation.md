@@ -7,7 +7,7 @@ topics:
 - Community & Social Services
 - Housing
 - Mental Health & Counseling
-- Advocacy
+- Domestic Violence
 type: Community-Based Organization
 website: https://eastside-foundation.org/
 ---

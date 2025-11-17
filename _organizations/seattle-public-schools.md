@@ -6,11 +6,7 @@ news_rss_url: https://www.seattleschools.org/feed/
 parent_organization: Puget Sound Educational Service District 121
 title: Seattle Public Schools
 topics:
-- ESL Classes
 - Education & Learning
-- GED Classes
-- Homeless Student Liaison
-- Tutoring/Homework Help
 type: School District
 website: https://www.seattleschools.org
 ---

@@ -2,5 +2,4 @@
 title: Mental Health & Counseling
 topic_summary_generated: true
 ---
-
-Mental health and counseling services in King County support individuals and families facing emotional, psychological, or behavioral challenges. These services offer therapy, support groups, and crisis intervention, helping residents improve their mental well-being, cope with stress, and develop healthier coping strategies for daily life.
+Mental Health & Counseling offers general counseling, crisis hotlines, mental health evaluations, support groups, and teen counseling. These services help residents manage stress, navigate crises, and build healthier coping strategies.

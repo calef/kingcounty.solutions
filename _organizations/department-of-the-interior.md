@@ -1,13 +1,12 @@
 ---
 acronym: DOI
 jurisdictions:
-  - United States
+- United States
 parent_organization: Federal Executive Branch
 title: Department of the Interior
 topics:
 - Community & Social Services
 - Education & Learning
-- Recreation/Community Programs
 type: Department
 website: https://www.doi.gov/
 ---

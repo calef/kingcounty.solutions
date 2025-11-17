@@ -4,7 +4,6 @@ jurisdictions:
 title: City of Bellevue
 topics:
 - Community & Social Services
-- Recreation/Community Programs
 type: City
 website: https://bellevuewa.gov/
 ---

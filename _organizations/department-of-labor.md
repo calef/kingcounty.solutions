@@ -6,7 +6,7 @@ parent_organization: Federal Executive Branch
 title: Department of Labor
 topics:
 - Community & Social Services
-- Employment
+- Disabilities
 - Employment & Job Support
 - Financial Assistance
 type: Department

@@ -5,11 +5,12 @@ jurisdictions:
 news_rss_url: https://togethercenter.org/feed/
 title: Together Center
 topics:
-- Early Intervention
-- Education & Learning
 - Community & Social Services
+- Disabilities
+- Education & Learning
+- Food & Nutrition
+- Mental Health & Counseling
 type: Community-Based Organization
 website: https://togethercenter.org/
 ---
-
 Together Center provides high-quality preschool, before and after-school care, and community education for families in the south Snoqualmie Valley. They combine early-learning services with connections to other human services supports.

@@ -8,12 +8,10 @@ phone: 206-461-3210
 title: Crisis Connections
 topics:
 - Community & Social Services
-- Crisis Hotlines
+- Mental Health & Counseling
 - Domestic Violence
 - Financial Assistance
-- Mental Health & Counseling
 - Shelter & Housing
-- Support Groups
 type: Community-Based Organization
 website: https://www.crisisconnections.org/
 ---

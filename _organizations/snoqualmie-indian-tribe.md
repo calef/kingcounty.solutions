@@ -6,7 +6,7 @@ title: Snoqualmie Indian Tribe
 topics:
 - Community & Social Services
 - Financial Assistance
-- Food Pantries/Banks
+- Food & Nutrition
 type: Tribal Government
 website: https://www.snoqualmietribe.us/
 ---
