@@ -7,7 +7,6 @@ Utility commands that automate content imports, auditing, and metadata maintenan
 | Script | What it does |
 | --- | --- |
 | `audit-organization-topics` | Uses OpenAI to reconcile each organization’s topics against recent news coverage and optionally rewrites front matter. |
-| `generate-schema-from-markdown` | Scans a collection’s front matter and emits a draft schema block that can be pasted into `_config.yml`. |
 | `generate-weekly-summary` | Builds a weekly roundup article from `_posts/`, grouping stories into themes with LLM assistance. |
 | `import-rss-news` | Pulls fresh posts from partner RSS feeds defined in `_organizations/` and writes Markdown copies into `_posts/`. |
 | `list-openai-models` | Lists available OpenAI model IDs for the current API key. |
@@ -38,26 +37,6 @@ Reviews each `_organizations/*.md` file’s topics using `_topics/` metadata plu
 - Without `--apply`, the script only prints or writes the audit report.
 - When `--apply` is supplied, it edits each organization file by removing unsupported topics and appending new ones suggested by the audit, keeping the list sorted and unique.
 - Includes up to `--max-posts` (default 5) of the organization’s recent `_posts/` content in the LLM prompt.
-
-### `generate-schema-from-markdown`
-
-**Purpose**  
-Infers a schema definition from the front matter across every Markdown file inside a collection directory and emits YAML to stdout in the format `<collection>_schema: { ... }`.
-
-**Usage**
-
-- `bin/generate-schema-from-markdown _organizations`
-- Omit the argument to default to `_government-entities`.
-
-**Key env/config**
-
-- None. The script only relies on file contents.
-
-**Behavior notes**
-
-- Aggregates example values, guessed data types, and possible string values (including array members) for each key.
-- Limits the stored examples/possible values for readability and leaves placeholder descriptions (`TODO: ...`) so editors can fill them in after inspection.
-- Intended for piping into a file, e.g. `bin/generate-schema-from-markdown _places > tmp/schema.yml`.
 
 ### `generate-weekly-summary`
 
