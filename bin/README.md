@@ -12,7 +12,6 @@ Utility commands that automate content imports, auditing, and metadata maintenan
 | `list-openai-models` | Lists available OpenAI model IDs for the current API key. |
 | `summarize-news` | Fetches source articles for `_posts/` entries missing summaries, stores the original body, and writes an AI summary. |
 | `summarize-topics` | Generates short descriptions for topic pages that lack an editorial summary. |
-| `sync-topics` | Ensures `_topics/` mirrors the parent/subtopic hierarchy defined in `_config.yml`. |
 | `update-news-rss` | Crawls organization websites to locate RSS/Atom feeds and saves them back to `news_rss_url`. |
 
 > Many scripts call the OpenAI API; export `OPENAI_API_KEY` before using them.
@@ -136,25 +135,6 @@ Generates a short, resident-friendly description for each `_topics/*.md` file th
 
 - Prompts the LLM for a single paragraph of ≤50 words and enforces the word budget by retrying up to three times.
 - Stores the previous body under `original_topic_body` before overwriting it with the generated summary and marks `topic_summary_generated: true`.
-
-### `sync-topics`
-
-**Purpose**  
-Keeps `_topics/` aligned with the `topics` structure in `_config.yml` by creating missing parent/subtopic files and pruning files that no longer appear in the config.
-
-**Usage**
-
-- `bin/sync-topics`
-
-**Key env/config**
-
-- Relies solely on `_config.yml` and the `_topics/` directory.
-
-**Behavior notes**
-
-- Filenames are derived from the topic title (lowercased, spaces → dashes, `/` → `-`, `&` → `and`, non-alphanumerics removed).
-- When creating files it writes minimal front matter (`title` and optional `parent_topic`), leaving the body blank.
-- Deletes any `_topics/*.md` whose slug is absent from the config-defined set, making the command idempotent.
 
 ### `update-news-rss`
 
