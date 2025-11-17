@@ -1,16 +1,9 @@
 ---
-layout: null
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: topics
 permalink: /topics/
+title: Topics
 ---
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="utf-8">
-    <title>Redirecting…</title>
-    <meta http-equiv="refresh" content="0; url={{ '/' | relative_url }}">
-    <link rel="canonical" href="{{ '/' | relative_url }}">
-  </head>
-  <body>
-    <p>If you are not redirected automatically, <a href="{{ '/' | relative_url }}">visit the homepage</a>.</p>
-  </body>
-</html>
+Use search or explore the hierarchy below to find the topic that best matches the services you’re looking for.

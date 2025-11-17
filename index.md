@@ -1,8 +1,15 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
-layout: topics
-title: Topics
+layout: news_archive
+permalink: /
+pagination:
+  enabled: true
+  collection: 'posts'
+  per_page: 20
+  permalink: '/page:num/'
+  sort_field: 'date'
+  sort_reverse: true
+  trail:
+    before: 2
+    after: 2
 ---
-Use search or explore the hierarchy below to find the topic that best matches the services you’re looking for.
+Browse every news update collected from organizations that support King County.
