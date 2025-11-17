@@ -6,7 +6,6 @@ Utility commands that automate content imports, auditing, and metadata maintenan
 
 | Script | What it does |
 | --- | --- |
-| `audit-markdown` | Audits a collection of Markdown docs against the schema in `_config.yml`, applies fixes, and saves a JSON report. |
 | `audit-organization-topics` | Uses OpenAI to reconcile each organization’s topics against recent news coverage and optionally rewrites front matter. |
 | `generate-schema-from-markdown` | Scans a collection’s front matter and emits a draft schema block that can be pasted into `_config.yml`. |
 | `generate-weekly-summary` | Builds a weekly roundup article from `_posts/`, grouping stories into themes with LLM assistance. |
@@ -18,27 +17,6 @@ Utility commands that automate content imports, auditing, and metadata maintenan
 | `update-news-rss` | Crawls organization websites to locate RSS/Atom feeds and saves them back to `news_rss_url`. |
 
 > Many scripts call the OpenAI API; export `OPENAI_API_KEY` before using them.
-
-### `audit-markdown`
-
-**Purpose**  
-Audits every Markdown file in a collection directory (e.g., `_organizations`) against the schema declared in `_config.yml` (`<collection>_schema`). It fetches each record’s website, validates required/allowed keys, calls OpenAI (`gpt-4o-mini`) for a detailed review, applies the suggested edits, alphabetizes front matter keys, and logs results under `_audit_reports/`.
-
-**Usage**
-
-- `bin/audit-markdown _organizations`
-
-**Key env/config**
-
-- `OPENAI_API_KEY` – required.
-- Schema key inferred from the target directory (e.g., `_organizations` → `organizations_schema`).
-
-**Behavior notes**
-
-- Rewrites every file in place using a normalized YAML block plus a sanitized body.
-- Generates `audit-<collection>-<timestamp>.json` detailing requested edits and schema violations.
-- Aborts if the target directory is missing or empty.
-- Fails fast if `OPENAI_API_KEY` is not exported.
 
 ### `audit-organization-topics`
 
