@@ -103,6 +103,7 @@ def classify_topics(client, text, topics)
       warn "Non-JSON response while classifying topics: #{content.inspect}"
       next
     end
+
   end
 
   []
@@ -129,12 +130,17 @@ Dir.glob("#{NEWS_DIR}/*.md").each do |file_path|
   next unless needs_summary || needs_topics
 
   source_url = front_matter['source_url']
-  unless source_url
+  if needs_summary && source_url.nil?
     puts "Skipping #{file_path}: no source_url"
     next
   end
 
-  article_text = fetch_article_text(source_url)
+  article_text =
+    if source_url
+      fetch_article_text(source_url)
+    else
+      body
+    end
   article_text ||= body # fallback to the original content if fetch failed
 
   if article_text&.length.to_i > MAX_ARTICLE_CHARS
@@ -142,7 +148,7 @@ Dir.glob("#{NEWS_DIR}/*.md").each do |file_path|
     article_text = article_text[0, MAX_ARTICLE_CHARS]
   end
 
-  summary_text = needs_summary ? nil : body&.strip
+  summary_text = needs_summary ? nil : (body&.strip || article_text&.strip)
 
   prompt = <<~PROMPT
     Summarize the following article in 200 words or less in Markdown format.
@@ -202,7 +208,9 @@ Dir.glob("#{NEWS_DIR}/*.md").each do |file_path|
       warn "⚠️  No topics matched for #{file_path}" if classified_topics.empty?
     end
 
-    front_matter['published'] = false
+    if needs_topics && Array(front_matter['topics']).empty?
+      front_matter['published'] = false
+    end
 
     yaml_front_matter = YAML.dump(front_matter).sub(/\A---\s*\n/, '').strip
     updated_content = ['---', yaml_front_matter, '---', '', summary_text].join("\n")
