@@ -4,13 +4,33 @@ layout: default
 
 <article class="page place-page">
   <header class="page-header">
-    <nav class="breadcrumbs">
-      <a href="{{ '/places/' | relative_url }}">Places</a>
-      {% include hierarchy-breadcrumbs.html item=page collection='places' parent_attr='parent_place' %}
-      <span>›</span>
-      <span>{{ page.title }}</span>
-    </nav>
-    <h1 class="page-title">{{ page.title }}</h1>
+    {% assign breadcrumb_parents = "" | split: "" %}
+    {% assign current_parent = page.parent_place %}
+    {% assign all_places_for_breadcrumbs = site.places %}
+    {% for i in (0..10) %}
+      {% if current_parent %}
+        {% assign parent_doc = all_places_for_breadcrumbs | where: "title", current_parent | first %}
+        {% if parent_doc %}
+          {% if parent_doc.title %}
+            {% assign breadcrumb_parents = breadcrumb_parents | push: parent_doc %}
+          {% endif %}
+          {% assign current_parent = parent_doc.parent_place %}
+        {% else %}
+          {% capture missing_parent %}
+            {{ current_parent }}
+          {% endcapture %}
+          {% assign missing_parent = missing_parent | strip %}
+          {% if missing_parent != "" %}
+            {% assign breadcrumb_parents = breadcrumb_parents | push: missing_parent %}
+          {% endif %}
+          {% assign current_parent = nil %}
+        {% endif %}
+      {% else %}
+        {% break %}
+      {% endif %}
+    {% endfor %}
+    {% assign breadcrumb_parents = breadcrumb_parents | reverse %}
+    {% include breadcrumbs.html root_label="Places" root_url="/places/" trail=breadcrumb_parents current=page.title %}
     {% if page.type %}
       <p class="place-type">{{ page.type }}</p>
     {% endif %}
@@ -123,104 +143,3 @@ layout: default
     {% endif %}
   </div>
 </article>
-
-<style>
-.breadcrumbs {
-  font-size: 0.9rem;
-  color: #666;
-}
-.breadcrumbs a {
-  text-decoration: none;
-  color: inherit;
-}
-.breadcrumbs span {
-  margin: 0 0.4rem;
-}
-.place-type {
-  margin-top: -0.5rem;
-  color: #666;
-}
-.place-detail {
-  margin: 0.25rem 0;
-  color: #444;
-}
-.place-tree {
-  margin-top: 0.75rem;
-}
-.place-tree .places-tree-list {
-  list-style: none;
-  margin: 0;
-  padding-left: 1rem;
-}
-.place-tree .places-tree-list > li {
-  margin-bottom: 0.35rem;
-}
-.place-tree .places-tree-item > a {
-  font-weight: 600;
-  text-decoration: none;
-}
-.place-tree .places-tree-item > a:hover {
-  text-decoration: underline;
-}
-.place-tree .places-tree-list ul {
-  margin-top: 0.25rem;
-  margin-bottom: 0.25rem;
-  padding-left: 1rem;
-  border-left: 1px solid #eee;
-}
-.place-news {
-  margin-top: 1.5rem;
-}
-.place-news h2 {
-  margin-bottom: 0.5rem;
-}
-.place-news-list {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-.place-news-item {
-  margin-bottom: 0.35rem;
-  padding-bottom: 0.75rem;
-  border-bottom: 1px solid #eee;
-}
-.place-news-item:last-child {
-  border-bottom: none;
-}
-.place-news h3 {
-  margin: 0 0 0.25rem;
-}
-.place-news a {
-  font-weight: 600;
-  text-decoration: none;
-}
-.place-news a:hover {
-  text-decoration: underline;
-}
-.place-news-meta {
-  margin: 0;
-  color: #666;
-  font-size: 0.9rem;
-}
-.place-news-meta time {
-  font-weight: 500;
-}
-.place-news-source a {
-  color: inherit;
-}
-.place-news-excerpt {
-  margin: 0.1rem 0 0.5rem;
-  color: #444;
-  font-size: 0.95em;
-}
-.place-news-more {
-  margin-top: 0.5rem;
-}
-.place-news-more a {
-  font-weight: 600;
-  text-decoration: none;
-}
-.place-news-more a:hover {
-  text-decoration: underline;
-}
-</style>

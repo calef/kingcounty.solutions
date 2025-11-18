@@ -4,7 +4,8 @@ layout: default
 
 <article class="page places-page">
   <header class="page-header">
-    <h1 class="page-title">{{ page.title | default: "Places" }}</h1>
+    {% assign places_label = page.title | default: "Places" %}
+    {% include breadcrumbs.html root_label=places_label root_url="/places/" %}
     {% if page.description %}
       <p class="page-description">{{ page.description }}</p>
     {% endif %}
@@ -55,106 +56,6 @@ layout: default
     </div>
   </div>
 </article>
-
-<style>
-.places-tree-list {
-  list-style: none;
-  margin: 0;
-  padding-left: 1rem;
-}
-.places-tree-list > li {
-  margin-bottom: 0.35rem;
-}
-.places-tree-item > a {
-  font-weight: 600;
-  text-decoration: none;
-}
-.places-tree-item > a:hover {
-  text-decoration: underline;
-}
-.places-tree-list ul {
-  margin-top: 0.25rem;
-  margin-bottom: 0.25rem;
-  padding-left: 1rem;
-  border-left: 1px solid #eee;
-}
-.page-description {
-  color: #555;
-}
-.place-search {
-  margin: 1.5rem 0 2rem;
-  padding: 1rem;
-  border: 1px solid #e0e0e0;
-  border-radius: 0.5rem;
-  background: #fafafa;
-}
-.place-search-header {
-  margin-bottom: 0.75rem;
-}
-.place-search-control {
-  position: relative;
-  margin-bottom: 0.75rem;
-}
-.place-search-control input {
-  width: 100%;
-  padding: 0.65rem 2.5rem 0.65rem 0.75rem;
-  border: 1px solid #ccc;
-  border-radius: 0.45rem;
-  font-size: 1rem;
-}
-.place-search-control input:focus {
-  outline: none;
-  border-color: #0366d6;
-  box-shadow: 0 0 0 3px rgba(3, 102, 214, 0.15);
-}
-.place-search-clear {
-  position: absolute;
-  right: 0.5rem;
-  top: 50%;
-  transform: translateY(-50%);
-  border: none;
-  background: transparent;
-  font-size: 1.25rem;
-  line-height: 1;
-  cursor: pointer;
-  color: #666;
-}
-.place-search-results {
-  min-height: 2rem;
-}
-.place-search-status {
-  margin: 0 0 0.5rem;
-  color: #666;
-  font-size: 0.95rem;
-}
-.place-search-list {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-  display: grid;
-  gap: 0.5rem;
-}
-.place-search-list li {
-  padding: 0.65rem 0.75rem;
-  border: 1px solid #e4e4e4;
-  border-radius: 0.45rem;
-  background: #fff;
-}
-.place-search-list li a {
-  text-decoration: none;
-  font-weight: 600;
-  color: inherit;
-}
-.place-search-list li a:hover {
-  text-decoration: underline;
-}
-.place-search-result-meta {
-  display: block;
-  margin-top: 0.2rem;
-  color: #666;
-  font-size: 0.9rem;
-}
-</style>
 
 <script>
 (function() {

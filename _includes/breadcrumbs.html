@@ -1,0 +1,48 @@
+{% assign root_url = include.root_url %}
+{% assign root_label = include.root_label %}
+{% assign trail = include.trail | default: "" %}
+{% assign rendered = "" | split: "" %}
+
+{% if root_label %}
+  {% capture root_snippet %}
+    <a href="{{ root_url | relative_url }}">{{ root_label }}</a>
+  {% endcapture %}
+  {% assign rendered = rendered | push: root_snippet %}
+{% endif %}
+
+{% if trail and trail != "" %}
+  {% for crumb in trail %}
+    {% assign crumb_title = crumb.title | default: crumb | strip %}
+    {% if crumb_title != "" %}
+      {% capture crumb_snippet %}
+        {% if crumb.url %}
+          <a href="{{ crumb.url | relative_url }}">{{ crumb_title }}</a>
+        {% else %}
+          <span>{{ crumb_title }}</span>
+        {% endif %}
+      {% endcapture %}
+      {% assign rendered = rendered | push: crumb_snippet %}
+    {% endif %}
+  {% endfor %}
+{% endif %}
+
+{% if include.trail_html != blank %}
+  {% capture html_snippet %}{{ include.trail_html | strip }}{% endcapture %}
+  {% if html_snippet != "" %}
+    {% assign rendered = rendered | push: html_snippet %}
+  {% endif %}
+{% endif %}
+
+{% if include.current %}
+  {% capture current_snippet %}
+    <span class="breadcrumbs-current">{{ include.current }}</span>
+  {% endcapture %}
+  {% assign rendered = rendered | push: current_snippet %}
+{% endif %}
+
+<nav class="breadcrumbs" aria-label="Breadcrumb">
+  {% for snippet in rendered %}
+    {% if forloop.first == false %}<span aria-hidden="true">›</span>{% endif %}
+    {{ snippet | strip }}
+  {% endfor %}
+</nav>

@@ -8,21 +8,17 @@ layout: default
   ▸ Breadcrumb trail: recursively walk up the organization hierarchy (no "Home")
   {% endcomment %}
   {% assign current_parent = page.parent_organization %}
-  {% assign chain = "" %}
+  {% assign chain = "" | split: "" %}
 
   {% for i in (0..10) %}
     {% if current_parent %}
       {% assign parent_doc = site.organizations | where: "title", current_parent | first %}
       {% if parent_doc %}
         {% assign breadcrumb_label = parent_doc.acronym | default: parent_doc.title %}
-        {% capture chain %}
-          <a href="{{ parent_doc.url | relative_url }}">{{ breadcrumb_label }}</a> › {{ chain }}
-        {% endcapture %}
+        {% assign chain = chain | push: parent_doc %}
         {% assign current_parent = parent_doc.parent_organization %}
       {% else %}
-        {% capture chain %}
-          {{ current_parent }} › {{ chain }}
-        {% endcapture %}
+        {% assign chain = chain | push: current_parent %}
         {% assign current_parent = nil %}
       {% endif %}
     {% else %}
@@ -30,23 +26,24 @@ layout: default
     {% endif %}
   {% endfor %}
 
+  {% assign chain = chain | reverse %}
   {% assign breadcrumb_current = page.acronym | default: page.title %}
-  <nav class="breadcrumbs">
-    <a href="{{ '/organizations/' | relative_url }}">Organizations</a> ›
-    {% if chain != "" %}
-      {{ chain }}
-    {% endif %}
-    <span>{{ breadcrumb_current }}</span>
-  </nav>
+  {% assign org_trail = "" | split: "" %}
+  {% if chain and chain.size > 0 %}
+    {% for crumb in chain %}
+      {% if crumb.title %}
+        {% assign org_trail = org_trail | push: crumb %}
+      {% else %}
+        {% assign crumb_text = crumb | strip %}
+        {% if crumb_text != "" %}
+          {% assign org_trail = org_trail | push: crumb_text %}
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+  {% endif %}
+  {% include breadcrumbs.html root_label="Organizations" root_url="/organizations/" trail=org_trail current=breadcrumb_current %}
 
   <header class="page-header">
-    <h1 class="page-title">
-      {{ page.title }}
-      {% if page.acronym %}
-        <span class="org-acronym">{{ page.acronym }}</span>
-      {% endif %}
-    </h1>
-
     {% if page.topics and page.topics.size > 0 %}
       <div class="org-topics">
         {% for t in page.topics %}
@@ -173,140 +170,3 @@ layout: default
   ]
 }
 </script>
-
-<style>
-/* Breadcrumb navigation */
-.breadcrumbs {
-  font-size: 0.9em;
-  margin: 0.25rem 0 0.5rem;
-  color: #666;
-}
-.breadcrumbs a {
-  color: inherit;
-  text-decoration: none;
-}
-.breadcrumbs a:hover {
-  text-decoration: underline;
-}
-
-/* Acronym badge */
-.org-acronym {
-  font-size: 0.6em;
-  font-weight: 600;
-  margin-left: 0.35em;
-  padding: 0.2em 0.45em;
-  border: 1px solid #ddd;
-  border-radius: 0.4em;
-}
-
-/* Topic pills */
-.org-topics {
-  margin-top: 0.3rem;
-  margin-bottom: 1rem;
-}
-.topic-pill {
-  display: inline-block;
-  margin: 0.15rem 0.35rem 0.15rem 0;
-  padding: 0.15rem 0.5rem;
-  border: 1px solid #e0e0e0;
-  border-radius: 999px;
-  font-size: 0.9em;
-  text-decoration: none;
-  color: inherit;
-}
-.topic-pill:hover {
-  border-color: #ccc;
-  text-decoration: underline;
-}
-
-
-/* Info table */
-.org-info {
-  border-collapse: collapse;
-  margin-bottom: 1.5rem;
-}
-.org-info th {
-  text-align: left;
-  padding: 0.25rem 0.75rem 0.25rem 0;
-  color: #666;
-  vertical-align: top;
-  white-space: nowrap;
-}
-.org-info td {
-  padding: 0.25rem 0;
-}
-
-/* Content area */
-.org-body {
-  margin-top: 1.5rem;
-}
-.page-content--compact .org-body {
-  margin-top: 0.5rem;
-}
-
-/* Website link section */
-.org-website {
-  margin-top: 1.5rem;
-  font-style: italic;
-}
-
-/* Child organization tree */
-.org-tree {
-  margin-top: 0.75rem;
-}
-.org-tree-list {
-  list-style: none;
-  margin: 0;
-  padding-left: 1rem;
-}
-.org-tree-list > li {
-  margin-bottom: 0.35rem;
-}
-.org-tree-item > a {
-  font-weight: 600;
-  text-decoration: none;
-}
-.org-tree-item > a:hover {
-  text-decoration: underline;
-}
-.org-tree-list ul {
-  margin-top: 0.25rem;
-  margin-bottom: 0.25rem;
-  padding-left: 1rem;
-  border-left: 1px solid #eee;
-}
-
-/* News section */
-.org-news {
-  margin-top: 1.5rem;
-}
-.org-news h2 {
-  margin-bottom: 0.5rem;
-}
-.org-news ul {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-.org-news li {
-  margin-bottom: 0.35rem;
-}
-.org-news a {
-  font-weight: 600;
-  text-decoration: none;
-}
-.org-news a:hover {
-  text-decoration: underline;
-}
-.org-news-date {
-  display: inline-block;
-  margin-left: 0.5rem;
-  color: #666;
-  font-size: 0.9em;
-}
-.org-news-excerpt {
-  margin: 0.1rem 0 0.5rem;
-  color: #444;
-  font-size: 0.95em;
-}
-</style>

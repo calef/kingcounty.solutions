@@ -1,5 +1,6 @@
 ---
 layout: news_archive
+title: News
 permalink: /
 pagination:
   enabled: true

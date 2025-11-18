@@ -4,7 +4,8 @@ layout: default
 
 <article class="page news-archive">
   <header class="page-header">
-    <h1 class="page-title">{{ page.title | default: "News Archive" }}</h1>
+    {% assign news_label = page.title | default: "News" %}
+    {% include breadcrumbs.html root_label=news_label root_url="/" %}
     {%- if page.subtitle -%}
       <p class="page-subtitle">{{ page.subtitle }}</p>
     {%- endif -%}
@@ -121,148 +122,6 @@ layout: default
     <p>No news posts yet.</p>
   {%- endif -%}
 </article>
-
-<style>
-.news-search {
-  margin: 1.5rem 0 2rem;
-  padding: 1rem;
-  border: 1px solid #e0e0e0;
-  border-radius: 0.5rem;
-  background: #fafafa;
-}
-.news-search-header {
-  margin-bottom: 0.75rem;
-}
-.news-search-control {
-  position: relative;
-  margin-bottom: 0.75rem;
-}
-.news-search-control input {
-  width: 100%;
-  padding: 0.65rem 2.5rem 0.65rem 0.75rem;
-  border: 1px solid #ccc;
-  border-radius: 0.45rem;
-  font-size: 1rem;
-}
-.news-search-control input:focus {
-  outline: none;
-  border-color: #0366d6;
-  box-shadow: 0 0 0 3px rgba(3, 102, 214, 0.15);
-}
-.news-search-clear {
-  position: absolute;
-  right: 0.5rem;
-  top: 50%;
-  transform: translateY(-50%);
-  border: none;
-  background: transparent;
-  font-size: 1.25rem;
-  line-height: 1;
-  cursor: pointer;
-  color: #666;
-}
-.news-search-results {
-  min-height: 2rem;
-}
-.news-search-status {
-  margin: 0 0 0.5rem;
-  color: #666;
-  font-size: 0.95rem;
-}
-.news-search-list {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-  display: grid;
-  gap: 0.5rem;
-}
-.news-search-list li {
-  padding: 0.65rem 0.75rem;
-  border: 1px solid #e4e4e4;
-  border-radius: 0.45rem;
-  background: #fff;
-}
-.news-search-list li a {
-  text-decoration: none;
-  font-weight: 600;
-  color: inherit;
-}
-.news-search-list li a:hover {
-  text-decoration: underline;
-}
-.news-search-result-meta {
-  display: block;
-  margin-top: 0.2rem;
-  color: #666;
-  font-size: 0.9rem;
-}
-.news-search-source {
-  font-weight: 500;
-}
-.news-archive-list {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-  display: flex;
-  flex-direction: column;
-  gap: 2rem;
-}
-.news-archive-item {
-  padding-bottom: 1.5rem;
-  border-bottom: 1px solid #e0e0e0;
-}
-.news-archive-item h2 {
-  margin: 0 0 0.25rem;
-}
-.news-archive-meta {
-  margin: 0;
-  color: #666;
-  font-size: 0.95rem;
-}
-.news-archive-source a {
-  color: inherit;
-}
-.news-archive-excerpt {
-  margin: 0.6rem 0 0;
-  color: #333;
-}
-.news-pagination {
-  margin-top: 2rem;
-  border-top: 1px solid #e0e0e0;
-  padding-top: 1rem;
-}
-.news-pagination-links {
-  display: flex;
-  flex-wrap: wrap;
-  align-items: center;
-  gap: 1rem;
-}
-.news-pagination-link {
-  font-weight: 600;
-}
-.news-pagination-trail {
-  list-style: none;
-  display: flex;
-  gap: 0.4rem;
-  padding: 0;
-  margin: 0;
-}
-.news-pagination-trail li {
-  padding: 0;
-}
-.news-pagination-trail a,
-.news-pagination-trail span {
-  display: inline-block;
-  padding: 0.15rem 0.45rem;
-  border: 1px solid #ccc;
-  border-radius: 0.25rem;
-}
-.news-pagination-trail .is-active {
-  background: #000;
-  color: #fff;
-  border-color: #000;
-}
-</style>
 
 <script>
 (function() {

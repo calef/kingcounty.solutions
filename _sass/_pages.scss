@@ -1,0 +1,508 @@
+.breadcrumbs {
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 0.35rem;
+  font-size: 0.9rem;
+  color: #666;
+  margin: 0 0 0.75rem;
+}
+
+.breadcrumbs a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.breadcrumbs a:hover {
+  text-decoration: underline;
+}
+
+.breadcrumbs-current {
+  font-weight: 600;
+}
+
+.page-description,
+.page-subtitle {
+  color: #555;
+}
+
+.page-content {
+  margin-top: 0.5rem;
+}
+
+.place-type {
+  margin-top: -0.35rem;
+  color: #666;
+}
+
+.place-detail {
+  margin: 0.25rem 0;
+  color: #444;
+}
+
+.place-tree,
+.org-tree {
+  margin-top: 0.75rem;
+}
+
+.place-tree .places-tree-list,
+.org-tree-list,
+.topics-tree-list {
+  list-style: none;
+  margin: 0;
+  padding-left: 1rem;
+}
+
+.place-tree .places-tree-list > li,
+.org-tree-list > li,
+.topics-tree-list > li {
+  margin-bottom: 0.35rem;
+}
+
+.place-tree .places-tree-item > a,
+.org-tree-item > a,
+.topics-tree-item > a {
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.place-tree .places-tree-item > a:hover,
+.org-tree-item > a:hover,
+.topics-tree-item > a:hover {
+  text-decoration: underline;
+}
+
+.place-tree .places-tree-list ul,
+.org-tree-list ul,
+.topics-tree-list ul {
+  margin-top: 0.25rem;
+  margin-bottom: 0.25rem;
+  padding-left: 1rem;
+  border-left: 1px solid #eee;
+}
+
+.place-news,
+.topic-news,
+.topic-organizations,
+.org-news {
+  margin-top: 1.5rem;
+}
+
+.place-news h2,
+.topic-news h2,
+.org-news h2 {
+  margin-bottom: 0.5rem;
+}
+
+.place-news-list,
+.topic-news-list,
+.org-news ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.place-news-item,
+.topic-news-item {
+  margin-bottom: 0.35rem;
+  padding-bottom: 0.75rem;
+  border-bottom: 1px solid #eee;
+}
+
+.place-news-item:last-child,
+.topic-news-item:last-child {
+  border-bottom: none;
+}
+
+.place-news h3,
+.topic-news h3 {
+  margin: 0 0 0.25rem;
+}
+
+.place-news a,
+.topic-news a,
+.org-news a {
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.place-news a:hover,
+.topic-news a:hover,
+.org-news a:hover {
+  text-decoration: underline;
+}
+
+.place-news-meta,
+.topic-news-meta {
+  margin: 0;
+  color: #666;
+  font-size: 0.9rem;
+}
+
+.place-news-meta time,
+.topic-news-meta time {
+  font-weight: 500;
+}
+
+.place-news-source a,
+.topic-news-source a {
+  color: inherit;
+}
+
+.place-news-excerpt,
+.topic-news-excerpt,
+.org-news-excerpt {
+  margin: 0.1rem 0 0.5rem;
+  color: #444;
+  font-size: 0.95em;
+}
+
+.place-news-more,
+.topic-news-more {
+  margin-top: 0.5rem;
+}
+
+.place-news-more a,
+.topic-news-more a {
+  font-weight: 600;
+  text-decoration: none;
+}
+
+.place-news-more a:hover,
+.topic-news-more a:hover {
+  text-decoration: underline;
+}
+
+.topics-list {
+  margin-top: 1rem;
+}
+
+.topics-list-grid {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 0.5rem;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+}
+
+.topics-list-grid li a {
+  display: block;
+  padding: 0.5rem 0.6rem;
+  border: 1px solid #e4e4e4;
+  border-radius: 0.45rem;
+  text-decoration: none;
+  font-weight: 600;
+  color: inherit;
+}
+
+.topics-list-grid li a:hover {
+  text-decoration: underline;
+}
+
+.place-search,
+.news-search,
+.org-search {
+  margin: 1.5rem 0 2rem;
+  padding: 1rem;
+  border: 1px solid #e0e0e0;
+  border-radius: 0.5rem;
+  background: #fafafa;
+}
+
+.place-search-header,
+.news-search-header,
+.org-search-header {
+  margin-bottom: 0.75rem;
+}
+
+.org-search-header h2 {
+  margin: 0 0 0.25rem;
+  font-size: 1.15rem;
+}
+
+.place-search-control,
+.news-search-control,
+.org-search-control {
+  position: relative;
+  margin-bottom: 0.75rem;
+}
+
+.place-search-control input,
+.news-search-control input,
+.org-search-control input {
+  width: 100%;
+  padding: 0.65rem 2.5rem 0.65rem 0.75rem;
+  border: 1px solid #ccc;
+  border-radius: 0.45rem;
+  font-size: 1rem;
+}
+
+.place-search-control input:focus,
+.news-search-control input:focus,
+.org-search-control input:focus {
+  outline: none;
+  border-color: #0366d6;
+  box-shadow: 0 0 0 3px rgba(3, 102, 214, 0.15);
+}
+
+.place-search-clear,
+.news-search-clear,
+.org-search-clear {
+  position: absolute;
+  right: 0.5rem;
+  top: 50%;
+  transform: translateY(-50%);
+  border: none;
+  background: transparent;
+  font-size: 1.25rem;
+  line-height: 1;
+  cursor: pointer;
+  color: #666;
+}
+
+.place-search-results,
+.news-search-results,
+.org-search-results {
+  min-height: 2rem;
+}
+
+.place-search-status,
+.news-search-status,
+.org-search-status {
+  margin: 0 0 0.5rem;
+  color: #666;
+  font-size: 0.95rem;
+}
+
+.place-search-list,
+.news-search-list,
+.org-search-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  gap: 0.5rem;
+}
+
+.place-search-list li,
+.news-search-list li,
+.org-search-list li {
+  padding: 0.65rem 0.75rem;
+  border: 1px solid #e4e4e4;
+  border-radius: 0.45rem;
+  background: #fff;
+}
+
+.place-search-list li a,
+.news-search-list li a,
+.org-search-list li a {
+  text-decoration: none;
+  font-weight: 600;
+  color: inherit;
+}
+
+.place-search-list li a:hover,
+.news-search-list li a:hover,
+.org-search-list li a:hover {
+  text-decoration: underline;
+}
+
+.place-search-result-meta,
+.news-search-result-meta,
+.org-search-result-meta {
+  display: block;
+  margin-top: 0.2rem;
+  color: #666;
+  font-size: 0.9rem;
+}
+
+.org-search-clear:hover {
+  color: #222;
+}
+
+.org-search-result-acronym {
+  font-weight: 400;
+  color: #444;
+  margin-left: 0.25rem;
+}
+
+.org-section {
+  margin-bottom: 2rem;
+}
+
+.org-section h2 {
+  margin-bottom: 0.5rem;
+}
+
+.org-acronym {
+  font-size: 0.6em;
+  font-weight: 600;
+  margin-left: 0.35em;
+  padding: 0.2em 0.45em;
+  border: 1px solid #ddd;
+  border-radius: 0.4em;
+}
+
+.org-topics {
+  margin-top: 0.3rem;
+  margin-bottom: 1rem;
+}
+
+.topic-pill {
+  display: inline-block;
+  margin: 0.15rem 0.35rem 0.15rem 0;
+  padding: 0.15rem 0.5rem;
+  border: 1px solid #e0e0e0;
+  border-radius: 999px;
+  font-size: 0.9em;
+  text-decoration: none;
+  color: inherit;
+}
+
+.topic-pill:hover {
+  border-color: #ccc;
+  text-decoration: underline;
+}
+
+.org-info {
+  border-collapse: collapse;
+  margin-bottom: 1.5rem;
+}
+
+.org-info th {
+  text-align: left;
+  padding: 0.25rem 0.75rem 0.25rem 0;
+  color: #666;
+  vertical-align: top;
+  white-space: nowrap;
+}
+
+.org-info td {
+  padding: 0.25rem 0;
+}
+
+.org-body {
+  margin-top: 1.5rem;
+}
+
+.page-content--compact .org-body {
+  margin-top: 0.5rem;
+}
+
+.org-website {
+  margin-top: 1.5rem;
+  font-style: italic;
+}
+
+.topic-body {
+  margin-bottom: 1.5rem;
+}
+
+.topics-tree {
+  margin-top: 0.75rem;
+}
+
+.topic-children + .topic-organizations,
+.topic-body + .topic-organizations {
+  margin-top: 1.5rem;
+}
+
+.news-search-source {
+  font-weight: 500;
+}
+
+.news-archive-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 2rem;
+}
+
+.news-archive-item {
+  padding-bottom: 1.5rem;
+  border-bottom: 1px solid #e0e0e0;
+}
+
+.news-archive-item h2 {
+  margin: 0 0 0.25rem;
+}
+
+.news-archive-meta {
+  margin: 0;
+  color: #666;
+  font-size: 0.95rem;
+}
+
+.news-archive-source a {
+  color: inherit;
+}
+
+.news-archive-excerpt {
+  margin: 0.6rem 0 0;
+  color: #333;
+}
+
+.news-pagination {
+  margin-top: 2rem;
+  border-top: 1px solid #e0e0e0;
+  padding-top: 1rem;
+}
+
+.news-pagination-links {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 1rem;
+}
+
+.news-pagination-link {
+  font-weight: 600;
+}
+
+.news-pagination-trail {
+  list-style: none;
+  display: flex;
+  gap: 0.4rem;
+  padding: 0;
+  margin: 0;
+}
+
+.news-pagination-trail li {
+  padding: 0;
+}
+
+.news-pagination-trail a,
+.news-pagination-trail span {
+  display: inline-block;
+  padding: 0.15rem 0.45rem;
+  border: 1px solid #ccc;
+  border-radius: 0.25rem;
+}
+
+.news-pagination-trail .is-active {
+  background: #000;
+  color: #fff;
+  border-color: #000;
+}
+
+.post-breadcrumbs {
+  font-size: 0.9rem;
+  color: #666;
+  margin-bottom: 0.5rem;
+}
+
+.post-breadcrumbs a {
+  color: inherit;
+  text-decoration: none;
+}
+
+.post-breadcrumbs a:hover {
+  text-decoration: underline;
+}
+
+.post-breadcrumbs span + span {
+  margin-left: 0.35rem;
+}
