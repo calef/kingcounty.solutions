@@ -1,0 +1,39 @@
+<footer class="site-footer" role="contentinfo">
+  <div class="wrapper footer-inner">
+    <div class="footer-links">
+      <a href="{{ '/conditions-of-use/' | relative_url }}">Conditions of use</a>
+      <a href="{{ '/privacy-notice/' | relative_url }}">Privacy notice</a>
+    </div>
+    <p class="footer-meta">
+      &copy; 2025 Chris Alef. MIT License.
+    </p>
+  </div>
+</footer>
+
+<style>
+.footer-inner {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  gap: 0.5rem 1rem;
+  padding-top: 1rem;
+  margin-top: 2rem;
+}
+.footer-links {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+.footer-links a {
+  text-decoration: none;
+}
+.footer-links a:hover,
+.footer-links a:focus {
+  text-decoration: underline;
+}
+.footer-meta {
+  margin: 0;
+  color: #666;
+}
+</style>
