@@ -1,0 +1,70 @@
+---
+layout: null
+permalink: /assets/search-index.json
+---
+[
+{%- assign first = true -%}
+{%- for post in site.posts -%}
+  {%- assign post_excerpt = post.excerpt | strip_html | strip_newlines -%}
+  {%- if post_excerpt == "" or post_excerpt == nil -%}
+    {%- assign post_excerpt = post.content | strip_html | strip_newlines -%}
+  {%- endif -%}
+  {%- assign post_excerpt = post_excerpt | truncate: 160 -%}
+  {%- unless first -%},{%- endunless -%}
+  {%- assign first = false -%}
+  {
+    "title": {{ post.title | jsonify }},
+    "url": {{ post.url | relative_url | jsonify }},
+    "category": "News",
+    "description": {{ post_excerpt | jsonify }}
+  }
+{%- endfor -%}
+{%- for org in site.organizations -%}
+  {%- assign org_excerpt = org.content | strip_html | strip_newlines | truncate: 160 -%}
+  {%- unless first -%},{%- endunless -%}
+  {%- assign first = false -%}
+  {
+    "title": {{ org.title | jsonify }},
+    "url": {{ org.url | relative_url | jsonify }},
+    "category": "Organization",
+    "description": {{ org_excerpt | jsonify }}
+  }
+{%- endfor -%}
+{%- for place in site.places -%}
+  {%- assign place_excerpt = place.content | strip_html | strip_newlines | truncate: 160 -%}
+  {%- unless first -%},{%- endunless -%}
+  {%- assign first = false -%}
+  {
+    "title": {{ place.title | jsonify }},
+    "url": {{ place.url | relative_url | jsonify }},
+    "category": "Place",
+    "description": {{ place_excerpt | jsonify }}
+  }
+{%- endfor -%}
+{%- for topic in site.topics -%}
+  {%- assign topic_excerpt = topic.content | strip_html | strip_newlines | truncate: 160 -%}
+  {%- unless first -%},{%- endunless -%}
+  {%- assign first = false -%}
+  {
+    "title": {{ topic.title | jsonify }},
+    "url": {{ topic.url | relative_url | jsonify }},
+    "category": "Topic",
+    "description": {{ topic_excerpt | jsonify }}
+  }
+{%- endfor -%}
+{%- assign searchable_pages = site.pages | where_exp: "p", "p.title and p.title != ''" -%}
+{%- for page in searchable_pages -%}
+  {%- if page.url contains '/assets/' or page.url contains '/_site/' -%}
+    {%- continue -%}
+  {%- endif -%}
+  {%- assign page_excerpt = page.content | strip_html | strip_newlines | truncate: 160 -%}
+  {%- unless first -%},{%- endunless -%}
+  {%- assign first = false -%}
+  {
+    "title": {{ page.title | jsonify }},
+    "url": {{ page.url | relative_url | jsonify }},
+    "category": "Page",
+    "description": {{ page_excerpt | jsonify }}
+  }
+{%- endfor -%}
+]

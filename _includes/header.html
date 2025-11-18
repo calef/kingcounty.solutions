@@ -14,7 +14,7 @@
       </label>
 
       <div class="trigger">
-        <div class="site-search" role="search">
+        <div class="site-search" role="search" data-search-index="{{ '/assets/search-index.json' | relative_url }}">
           <label class="sr-only" for="site-search-input">Search the site</label>
           <div class="site-search-control">
             <input
@@ -26,12 +26,15 @@
               autocapitalize="none"
               spellcheck="false"
               aria-describedby="site-search-status"
+              aria-controls="site-search-list"
+              aria-expanded="false"
+              aria-autocomplete="list"
             >
             <button type="button" id="site-search-clear" class="site-search-clear" aria-label="Clear search" hidden>&times;</button>
           </div>
-          <div class="site-search-results" hidden>
+          <div class="site-search-results" id="site-search-results" hidden>
             <p class="site-search-status" id="site-search-status" aria-live="polite"></p>
-            <ul class="site-search-list" id="site-search-list"></ul>
+            <ul class="site-search-list" id="site-search-list" role="listbox"></ul>
           </div>
         </div>
         <a class="page-link" href="{{ '/organizations/' | relative_url }}">Organizations</a>
@@ -109,6 +112,9 @@
 .site-search-list li {
   padding: 0;
 }
+.site-search-list li.is-active {
+  background: #f1f5ff;
+}
 .site-search-row {
   display: flex;
   align-items: center;
@@ -142,6 +148,9 @@
   font-size: 0.7rem;
   line-height: 1.1;
   margin-left: 0.3rem;
+}
+.site-search-row a:focus-visible {
+  outline-offset: 4px;
 }
 .sr-only {
   position: absolute;
@@ -182,215 +191,4 @@
   }
 }
 </style>
-
-<script>
-(function() {
-  const MIN_QUERY = 2;
-  const MAX_RESULTS = 20;
-  const data = [
-    {%- for post in site.posts -%}
-      {%- assign post_excerpt = post.excerpt | strip_html | strip_newlines -%}
-      {%- if post_excerpt == "" or post_excerpt == nil -%}
-        {%- assign post_excerpt = post.content | strip_html | strip_newlines -%}
-      {%- endif -%}
-      {%- assign post_excerpt = post_excerpt | truncate: 160 -%}
-      {
-        "title": {{ post.title | jsonify }},
-        "url": {{ post.url | relative_url | jsonify }},
-        "category": "News",
-        "description": {{ post_excerpt | jsonify }}
-      }{% unless forloop.last %},{% endunless %}
-    {%- endfor -%}
-    {% unless site.posts == empty %},{% endunless %}
-    {%- for org in site.organizations -%}
-      {%- assign org_excerpt = org.content | strip_html | strip_newlines | truncate: 160 -%}
-      {
-        "title": {{ org.title | jsonify }},
-        "url": {{ org.url | relative_url | jsonify }},
-        "category": "Organization",
-        "description": {{ org_excerpt | jsonify }}
-      }{% unless forloop.last %},{% endunless %}
-    {%- endfor -%}
-    {% unless site.organizations == empty %},{% endunless %}
-    {%- for place in site.places -%}
-      {%- assign place_excerpt = place.content | strip_html | strip_newlines | truncate: 160 -%}
-      {
-        "title": {{ place.title | jsonify }},
-        "url": {{ place.url | relative_url | jsonify }},
-        "category": "Place",
-        "description": {{ place_excerpt | jsonify }}
-      }{% unless forloop.last %},{% endunless %}
-    {%- endfor -%}
-    {% unless site.places == empty %},{% endunless %}
-    {%- for topic in site.topics -%}
-      {%- assign topic_excerpt = topic.content | strip_html | strip_newlines | truncate: 160 -%}
-      {
-        "title": {{ topic.title | jsonify }},
-        "url": {{ topic.url | relative_url | jsonify }},
-        "category": "Topic",
-        "description": {{ topic_excerpt | jsonify }}
-      }{% unless forloop.last %},{% endunless %}
-    {%- endfor -%}
-    {% unless site.topics == empty %},{% endunless %}
-    {%- assign searchable_pages = site.pages | where_exp: "p", "p.title and p.title != ''" -%}
-    {%- for page in searchable_pages -%}
-      {%- if page.url contains '/assets/' or page.url contains '/_site/' -%}
-        {%- continue -%}
-      {%- endif -%}
-      {%- assign page_excerpt = page.content | strip_html | strip_newlines | truncate: 160 -%}
-      {
-        "title": {{ page.title | jsonify }},
-        "url": {{ page.url | relative_url | jsonify }},
-        "category": "Page",
-        "description": {{ page_excerpt | jsonify }}
-      }{% unless forloop.last %},{% endunless %}
-    {%- endfor -%}
-  ];
-
-  const categoryCounts = {};
-  data.forEach(item => {
-    const key = item.category || 'Other';
-    categoryCounts[key] = (categoryCounts[key] || 0) + 1;
-  });
-
-  const index = data.map(item => {
-    const searchText = [item.title, item.description, item.category]
-      .filter(Boolean)
-      .join(' ')
-      .toLowerCase();
-    return Object.assign({}, item, { searchText });
-  });
-
-  const input = document.getElementById('site-search-input');
-  if (!input) return;
-  const clearBtn = document.getElementById('site-search-clear');
-  const status = document.getElementById('site-search-status');
-  const list = document.getElementById('site-search-list');
-  const results = document.querySelector('.site-search-results');
-
-  function updateStatus(message) {
-    if (status) status.textContent = message;
-  }
-
-  function setResultsPosition() {
-    if (!results || results.hidden) return;
-    const nav = document.querySelector('.site-header .site-nav');
-    const rect = nav ? nav.getBoundingClientRect() : input.getBoundingClientRect();
-    const width = window.innerWidth * 0.75;
-    const left = (window.innerWidth - width) / 2;
-    const top = rect.bottom + window.scrollY + 12;
-    results.style.setProperty('--site-search-left', `${left}px`);
-    results.style.setProperty('--site-search-top', `${top}px`);
-    results.style.setProperty('--site-search-width', `${width}px`);
-  }
-
-  function renderResults(items, total) {
-    if (results) results.hidden = false;
-    setResultsPosition();
-    if (!list) return;
-    if (items.length === 0) {
-      list.innerHTML = '';
-      updateStatus('No matches found.');
-      return;
-    }
-    const limited = items.slice(0, MAX_RESULTS);
-    list.innerHTML = limited.map(item => {
-      const meta = item.category ? `<span class="site-search-pill">${item.category}</span>` : '';
-      return `
-        <li>
-          <div class="site-search-row">
-            <a href="${item.url}">${item.title}</a>
-            ${meta}
-          </div>
-        </li>
-      `;
-    }).join('');
-
-    updateStatus('');
-  }
-
-  function handleSearch() {
-    const query = input.value.trim();
-    const hasValue = query.length > 0;
-    clearBtn.hidden = !hasValue;
-
-    if (query.length < MIN_QUERY) {
-      if (results) results.hidden = true;
-      list.innerHTML = '';
-      updateStatus('');
-      return;
-    }
-
-    const tokens = query.toLowerCase().split(/\s+/).filter(Boolean);
-    const matches = index.filter(item => tokens.every(token => item.searchText.includes(token)));
-    if (matches.length === 0) {
-      renderResults([], 0);
-      return;
-    }
-
-    const grouped = {};
-    matches.forEach(item => {
-      const key = item.category || 'Other';
-      (grouped[key] = grouped[key] || []).push(item);
-    });
-    Object.keys(grouped).forEach(key => {
-      grouped[key].sort((a, b) => a.title.localeCompare(b.title));
-    });
-
-    const categoryOrder = Object.keys(grouped).sort((a, b) => {
-      const countA = categoryCounts[a] || 0;
-      const countB = categoryCounts[b] || 0;
-      if (countA !== countB) {
-        return countA - countB;
-      }
-      return a.localeCompare(b);
-    });
-
-    const ranked = [];
-    while (ranked.length < MAX_RESULTS) {
-      let added = false;
-      for (const category of categoryOrder) {
-        const bucket = grouped[category];
-        if (bucket && bucket.length) {
-          ranked.push(bucket.shift());
-          added = true;
-          if (ranked.length >= MAX_RESULTS) {
-            break;
-          }
-        }
-      }
-      if (!added) break;
-    }
-
-    renderResults(ranked, matches.length);
-  }
-
-  function clearResults() {
-    input.value = '';
-    clearBtn.hidden = true;
-    list.innerHTML = '';
-    updateStatus('');
-    if (results) results.hidden = true;
-  }
-
-  clearBtn.addEventListener('click', () => {
-    clearResults();
-    input.focus();
-  });
-  input.addEventListener('input', handleSearch);
-  input.addEventListener('focus', handleSearch);
-
-  document.addEventListener('keydown', (event) => {
-    if ((event.metaKey || event.ctrlKey) && event.key.toLowerCase() === 'k') {
-      event.preventDefault();
-      input.focus();
-    }
-    if (event.key === 'Escape' && document.activeElement === input) {
-      clearResults();
-    }
-  });
-
-  window.addEventListener('resize', setResultsPosition);
-  window.addEventListener('scroll', setResultsPosition, { passive: true });
-})();
-</script>
+<script src="{{ '/assets/js/search.js' | relative_url }}" defer></script>
