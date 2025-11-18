@@ -9,12 +9,17 @@ layout: default
   {% endcomment %}
   {% assign current_parent = page.parent_organization %}
   {% assign chain = "" | split: "" %}
+  {% assign visited = "" | split: "" %}
 
-  {% for i in (0..10) %}
+  {% assign max_depth = 500 %}
+  {% for i in (1..max_depth) %}
     {% if current_parent %}
+      {% if visited contains current_parent %}
+        {% break %}
+      {% endif %}
+      {% assign visited = visited | push: current_parent %}
       {% assign parent_doc = site.organizations | where: "title", current_parent | first %}
       {% if parent_doc %}
-        {% assign breadcrumb_label = parent_doc.acronym | default: parent_doc.title %}
         {% assign chain = chain | push: parent_doc %}
         {% assign current_parent = parent_doc.parent_organization %}
       {% else %}
@@ -27,7 +32,7 @@ layout: default
   {% endfor %}
 
   {% assign chain = chain | reverse %}
-  {% assign breadcrumb_current = page.acronym | default: page.title %}
+  {% assign breadcrumb_current = page.title %}
   {% assign org_trail = "" | split: "" %}
   {% if chain and chain.size > 0 %}
     {% for crumb in chain %}

@@ -12,7 +12,7 @@
 
 {% if trail and trail != "" %}
   {% for crumb in trail %}
-    {% assign crumb_title = crumb.title | default: crumb | strip %}
+    {% assign crumb_title = crumb.acronym | default: crumb.title | default: crumb | strip %}
     {% if crumb_title != "" %}
       {% capture crumb_snippet %}
         {% if crumb.url %}
