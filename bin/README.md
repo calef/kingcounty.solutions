@@ -56,7 +56,7 @@ Builds an editorial roundup post for the current week (Saturday–Friday window)
 
 **Behavior notes**
 
-- Builds a “theme plan” JSON via one LLM call, then passes that plan plus post metadata into a second prompt that produces the final article (with spotlights, themed sections, and optional “Other updates”).
+- Builds a “theme plan” JSON via one LLM call, then passes that plan plus post metadata into a second prompt that produces the final article (with themed sections and optional “Other updates”).
 - Falls back to a deterministic, non-LLM summary if either call fails.
 - Sets front matter with `source: King County Solutions` and `summarized: true`, and adds a closing encouragement paragraph.
 

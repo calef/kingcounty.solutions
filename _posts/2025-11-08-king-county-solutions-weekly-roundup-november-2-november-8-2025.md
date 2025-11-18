@@ -3,6 +3,12 @@ title: 'King County Solutions Weekly Roundup: November 2–November 8, 2025'
 date: '2025-11-08T18:00:00-08:00'
 source: King County Solutions
 summarized: true
+topics:
+- Community & Social Services
+- Food & Nutrition
+- Health Care
+- Mental Health & Counseling
+- Transportation & Mobility
 ---
 
 This week, we published 19 posts highlighting significant initiatives and updates across King County, emphasizing community support, health, transit development, and public safety. These updates are crucial as we approach the holiday season, a time when many residents seek resources and engagement opportunities.

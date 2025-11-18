@@ -3,6 +3,11 @@ title: 'King County Solutions Weekly Roundup: November 9–November 15, 2025'
 date: '2025-11-15T18:00:00-08:00'
 source: King County Solutions
 summarized: true
+topics:
+- Community & Social Services
+- Food & Nutrition
+- Health Care
+- Employment & Job Support
 ---
 
 This week, King County Solutions published 20 posts highlighting important community initiatives and updates. With the holiday season approaching, local efforts to support businesses, enhance public health, and combat food insecurity are particularly relevant, fostering a sense of community and resilience.

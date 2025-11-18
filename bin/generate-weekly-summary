@@ -53,6 +53,7 @@ def weekly_posts(start_date, end_date)
     raw = File.read(path)
     data, body = parse_front_matter(raw)
     next unless data
+    next if data['published'] == false
 
     memo << {
       id: basename,
@@ -91,7 +92,6 @@ def build_context(posts, start_date, end_date, plan)
     'top_sources' => top_sources,
     'themes' => themes,
     'other_posts' => plan.fetch('other_ids', []).map { |id| lookup[id] }.compact,
-    'spotlights' => plan.fetch('spotlight_ids', []).map { |id| lookup[id] }.compact,
     'catalog' => lookup,
     'theme_plan' => plan
   }
@@ -116,9 +116,7 @@ def build_theme_plan(posts)
     Given the JSON array of posts below, create 3-4 high-level themes that capture the major narratives.
     Requirements:
       * Return a JSON object with keys:
-          - "themes": array of objects { "title": string, "summary": string, "post_ids": [post_id, ...] }.
-            Each theme should reference at least two unique post_ids.
-          - "spotlight_ids": array of 3 post_ids that represent standout stories.
+          - "themes": array of objects { "title": string, "summary": string, "post_ids": [post_id, ...] }. Each theme should reference at least two unique post_ids.
           - "other_ids": array of remaining post_ids that didn't fit the main themes.
       * Keep titles concise (max 60 chars) and summaries under 200 chars.
       * Use each post_id at most once across themes + other_ids.
@@ -153,7 +151,6 @@ def fallback_theme_plan(posts)
         'post_ids' => post_ids.first(6)
       }
     ],
-    'spotlight_ids' => post_ids.first(3),
     'other_ids' => post_ids.drop(6)
   }
 end
@@ -209,9 +206,8 @@ def build_prompt(context)
     • Use each post's `url` value for inline links.
     • Write an engaging markdown article with the following structure:
       1. An opening paragraph summarizing how many posts we published and why this week matters.
-      2. A "### Spotlight stories" section with 3 concise bullet paragraphs drawn from the provided `spotlights` list. Each bullet should call out a standout story, include inline markdown links, and explain impact or next steps.
-      3. One section per theme (use the provided titles). Each section should have 1–2 short paragraphs weaving together the posts listed for that theme with inline links and context on why they matter.
-      4. If `other_posts` is non-empty, add a short "### Other updates" paragraph covering them.
+      2. One section per theme (use the provided titles). Each section should have 1–2 short paragraphs weaving together the posts listed for that theme with inline links and context on why they matter.
+      3. If `other_posts` is non-empty, add a short "### Other updates" paragraph covering them.
     • Keep the tone factual yet accessible, mirroring a newsroom briefing.
     • Mention source organizations in-line where relevant.
     • Do NOT fabricate links—only use the provided URLs.

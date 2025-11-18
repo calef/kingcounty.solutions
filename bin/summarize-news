@@ -1,6 +1,7 @@
 #!/usr/bin/env ruby
 # frozen_string_literal: true
 
+require 'json'
 require 'yaml'
 require 'fileutils'
 require 'ruby/openai'
@@ -11,8 +12,10 @@ require 'nokogiri'
 client = OpenAI::Client.new(access_token: ENV.fetch('OPENAI_API_KEY'))
 
 NEWS_DIR = '_posts'
+TOPIC_DIR = '_topics'
 MAX_ARTICLE_CHARS = 20_000
 OPENAI_MODEL = ENV.fetch('OPENAI_SUMMARY_MODEL', 'gpt-4o-mini')
+OPENAI_TOPIC_MODEL = ENV.fetch('OPENAI_TOPIC_MODEL', OPENAI_MODEL)
 
 def fetch_article_text(url)
   html = URI.open(url, open_timeout: 10, read_timeout: 15).read
@@ -26,94 +29,186 @@ rescue StandardError => e
   nil
 end
 
+def read_front_matter(content)
+  return [nil, nil] unless content =~ /\A---\s*\n(.*?)\n---\s*\n/m
+
+  [YAML.safe_load(Regexp.last_match(1)) || {}, Regexp.last_match.post_match]
+end
+
+def default_title(path)
+  File.basename(path, '.md').tr('-', ' ')
+end
+
+def load_topics
+  Dir.glob("#{TOPIC_DIR}/*.md").sort.filter_map do |path|
+    content = File.read(path)
+    front_matter, body = read_front_matter(content)
+    next unless front_matter
+
+    title = front_matter['title'] || default_title(path)
+    summary = (body || '').strip
+    { 'title' => title, 'summary' => summary }
+  end
+end
+
+def classify_topics(client, text, topics)
+  return [] if text.to_s.strip.empty? || topics.empty?
+
+  catalog_lines = topics.map do |topic|
+    summary = topic['summary']
+    "- #{topic['title']}: #{summary&.empty? ? 'No summary provided.' : summary}"
+  end
+  allowed_titles = topics.map { |topic| topic['title'] }
+
+  prompt = <<~PROMPT
+    You are selecting topics for a local news post.
+
+    Topic catalog:
+    #{catalog_lines.join("\n")}
+
+    News content:
+    #{text.strip}
+
+    Return a JSON array of topic titles from the catalog above that clearly apply to this news post.
+    Only use titles from the catalog; do not invent new topics.
+    Exclude topics that are only weakly related or unclear.
+  PROMPT
+
+  attempts = 0
+  while attempts < 3
+    attempts += 1
+    begin
+      response = client.chat(
+        parameters: {
+          model: OPENAI_TOPIC_MODEL,
+          messages: [
+            { role: 'system', content: 'You are a precise classification assistant who responds with JSON arrays.' },
+            { role: 'user', content: prompt }
+          ],
+          temperature: 0.2
+        }
+      )
+
+      content = response.dig('choices', 0, 'message', 'content')
+      next unless content
+
+      cleaned = content.gsub(/\A```json\s*/i, '').gsub(/```\s*\z/, '')
+      parsed = JSON.parse(cleaned)
+      selected = Array(parsed).map(&:to_s).select { |title| allowed_titles.include?(title) }.uniq
+      return selected
+    rescue Faraday::TooManyRequestsError
+      warn "Rate limited during topic classification, waiting 5 seconds before retry (attempt #{attempts})"
+      sleep 5
+    rescue JSON::ParserError
+      warn "Non-JSON response while classifying topics: #{content.inspect}"
+      next
+    end
+  end
+
+  []
+end
+
+topics = load_topics
+
 Dir.glob("#{NEWS_DIR}/*.md").each do |file_path|
   content = File.read(file_path)
 
-  # Split front matter and body
-  if content =~ /\A---\s*\n(.*?)\n---\s*\n/m
-    front_matter_raw = Regexp.last_match(1)
-    body = Regexp.last_match.post_match
-    front_matter = YAML.safe_load(front_matter_raw) || {}
+  front_matter, body = read_front_matter(content)
+  unless front_matter
+    warn "Skipping #{file_path}: no front matter"
+    next
+  end
 
-    # Skip if already summarized
-    next if front_matter['summarized'] == true
+  if front_matter['published'] == false
+    warn "Skipping #{file_path}: published is false"
+    next
+  end
 
-    source_url = front_matter['source_url']
-    unless source_url
-      puts "Skipping #{file_path}: no source_url"
+  needs_summary = front_matter['summarized'] != true
+  needs_topics = Array(front_matter['topics']).empty?
+  next unless needs_summary || needs_topics
+
+  source_url = front_matter['source_url']
+  unless source_url
+    puts "Skipping #{file_path}: no source_url"
+    next
+  end
+
+  article_text = fetch_article_text(source_url)
+  article_text ||= body # fallback to the original content if fetch failed
+
+  if article_text&.length.to_i > MAX_ARTICLE_CHARS
+    warn "[info] Truncating #{file_path} article text from #{article_text.length} to #{MAX_ARTICLE_CHARS} chars"
+    article_text = article_text[0, MAX_ARTICLE_CHARS]
+  end
+
+  summary_text = needs_summary ? nil : body&.strip
+
+  prompt = <<~PROMPT
+    Summarize the following article in 200 words or less in Markdown format.
+
+    Article URL: #{source_url}
+
+    In the summary:
+      1. Do not include a link back to the source URL.
+      2. Do not include an image if one is referenced in the text.
+      3. Do not include any commentary or explanation about this process.
+      4. Focus only on the provided text (do not mention if the content was truncated).
+      5. Do not include any headings or code blocks.
+
+    ARTICLE CONTENT:
+    #{article_text}
+  PROMPT
+
+  begin
+    # Retry logic: up to 3 attempts in case of rate limits or temporary failures
+    attempts = 0
+    while needs_summary && attempts < 3 && summary_text.nil?
+      attempts += 1
+      begin
+        response = client.chat(
+          parameters: {
+            model: OPENAI_MODEL,
+            messages: [
+              { role: 'system', content: 'You are a helpful assistant.' },
+              { role: 'user', content: prompt }
+            ],
+            temperature: 0.7
+          }
+        )
+        if (error_message = response.dig('error', 'message'))
+          warn "OpenAI error for #{file_path}: #{error_message}"
+          break
+        end
+        summary_text = response.dig('choices', 0, 'message', 'content')&.strip
+      rescue Faraday::TooManyRequestsError
+        warn "Rate limited, waiting 5 seconds before retry (attempt #{attempts})"
+        sleep 5
+      end
+    end
+
+    if needs_summary && (summary_text.nil? || summary_text.empty?)
+      puts "⚠️  Skipped #{file_path}: could not summarize"
       next
     end
 
-    # Try to fetch and extract content from the webpage
-    article_text = fetch_article_text(source_url)
-    article_text ||= body # fallback to the original content if fetch failed
+    front_matter['original_markdown_body'] ||= body&.strip if needs_summary
+    front_matter['summarized'] = true if needs_summary
+    summary_text ||= body&.strip || ''
 
-    if article_text&.length.to_i > MAX_ARTICLE_CHARS
-      warn "[info] Truncating #{file_path} article text from #{article_text.length} to #{MAX_ARTICLE_CHARS} chars"
-      article_text = article_text[0, MAX_ARTICLE_CHARS]
+    if needs_topics
+      classified_topics = classify_topics(client, summary_text, topics)
+      front_matter['topics'] = classified_topics
+      warn "⚠️  No topics matched for #{file_path}" if classified_topics.empty?
     end
 
-    prompt = <<~PROMPT
-      Summarize the following article in 200 words or less in Markdown format.
+    front_matter['published'] = false
 
-      Article URL: #{source_url}
-
-      In the summary:
-        1. Do not include a link back to the source URL.
-        2. Do not include an image if one is referenced in the text.
-        3. Do not include any commentary or explanation about this process.
-        4. Focus only on the provided text (do not mention if the content was truncated).
-        5. Do not include any headings or code blocks.
-
-      ARTICLE CONTENT:
-      #{article_text}
-    PROMPT
-
-    begin
-      # Retry logic: up to 3 attempts in case of rate limits or temporary failures
-      attempts = 0
-      summary = nil
-      while attempts < 3 && summary.nil?
-        attempts += 1
-        begin
-          response = client.chat(
-            parameters: {
-              model: OPENAI_MODEL,
-              messages: [
-                { role: 'system', content: 'You are a helpful assistant.' },
-                { role: 'user', content: prompt }
-              ],
-              temperature: 0.7
-            }
-          )
-          if (error_message = response.dig('error', 'message'))
-            warn "OpenAI error for #{file_path}: #{error_message}"
-            break
-          end
-          summary = response.dig('choices', 0, 'message', 'content')&.strip
-        rescue Faraday::TooManyRequestsError
-          warn "Rate limited, waiting 5 seconds before retry (attempt #{attempts})"
-          sleep 5
-        end
-      end
-
-      if summary && !summary.empty?
-        # ✅ Preserve the original Markdown body before replacing it with the summary
-        front_matter['original_markdown_body'] ||= body.strip
-        front_matter['summarized'] = true
-
-        yaml_front_matter = YAML.dump(front_matter).sub(/\A---\s*\n/, '').strip
-        updated_content = ['---', yaml_front_matter, '---', '', summary].join("\n")
-        File.write(file_path, updated_content)
-        puts "✅ Updated #{file_path}"
-      else
-        puts "⚠️  Skipped #{file_path}: could not summarize"
-      end
-    rescue StandardError => e
-      warn "Error processing #{file_path}: #{e.class} - #{e.message}"
-    end
-
-  else
-    warn "Skipping #{file_path}: no front matter"
+    yaml_front_matter = YAML.dump(front_matter).sub(/\A---\s*\n/, '').strip
+    updated_content = ['---', yaml_front_matter, '---', '', summary_text].join("\n")
+    File.write(file_path, updated_content)
+    puts "✅ Updated #{file_path}"
+  rescue StandardError => e
+    warn "Error processing #{file_path}: #{e.class} - #{e.message}"
   end
 end
