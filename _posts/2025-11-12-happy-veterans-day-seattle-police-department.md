@@ -12,6 +12,8 @@ original_markdown_body: Today, we take time to honor the brave men and women who
   to serve our community with the same integrity, dedication, honor, and courage —
   thank you. Your service to...
 summarized: true
+topics: []
+published: false
 ---
 
 Today, we honor the brave men and women who have served our country in uniform. A special thank you goes to veterans who continue to serve our community with integrity, dedication, honor, and courage. Your service is deeply appreciated.

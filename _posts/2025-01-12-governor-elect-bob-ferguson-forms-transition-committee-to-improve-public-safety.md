@@ -36,6 +36,8 @@ original_content: |-
 
   Bob Ferguson has dedicated his career to serving the people. He is completing his third term as Washington State's Attorney General. He is committed to improving government and building a stronger future by focusing on key issues such as public safety, health care costs and housing affordability, child care, education, and economic growth.&nbsp;&nbsp;
 summarized: true
+topics: []
+published: false
 ---
 
 Governor-elect Bob Ferguson has announced the formation of a transition committee to improve public safety in Washington State. The committee will be chaired by State Senator and former Snohomish County Sheriff John Lovick. It will focus on empowering the state's law enforcement through measures such as a $100 million grant program for local governments to hire more well-trained police officers, increasing resources to pursue individuals who evade court supervision, and developing a crisis response plan to handle the state's fentanyl epidemic. The committee will include members of Ferguson’s bipartisan, 55-member Transition Team and other appointees.

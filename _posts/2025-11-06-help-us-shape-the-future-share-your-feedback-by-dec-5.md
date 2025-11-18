@@ -14,6 +14,8 @@ original_markdown_body: |-
 
   [Take the survey here!](https://thepollingplace.qualtrics.com/jfe/form/SV_bE2H4G9LBkmqNoO)
 summarized: true
+topics:
+- Transportation & Mobility
 ---
 
 Sound Transit has launched its 2025 Passenger Experience Survey, open from November 6 to December 5. Feedback is crucial for improving Link light rail, Sounder trains, and ST Express buses. Participants can win gift cards as a thank you. Previous surveys indicated a consistent overall satisfaction rating of B+, with a rise in likelihood to recommend the service from 7.8 to 8.2. Key strengths include dependable service and vehicle maintenance, while opportunities for improvement focus on communication during disruptions and enhancing safety and cleanliness. The agency continues to refine its survey methods for better insights into rider experiences.

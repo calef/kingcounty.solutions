@@ -44,6 +44,9 @@ original_content: |-
 
   _Empower Youth Network (EYN) thanks_ Henry Erhnman _for all his service over the years to empower and inspire youth in Snoqualmie Valley. EYN wishes him all the best in his studies at the University of Washington._
 summarized: true
+topics:
+- Community & Social Services
+- Education & Learning
 ---
 
 Henry Ehrnman, a 2025 Mount Si High School graduate, received the Sophie Theriault Empower Youth Voice Scholarship for his exceptional community service. He has logged over 74 activities for community service, including his role as a Student Representative on the Snoqualmie Valley School District Board, where he advocated for student voices in decision-making processes. Ehrnman co-founded Valley Digital Age, a group addressing the digital divide by empowering seniors with technology skills. Despite being off to university, Ehrnman is hopeful about the future of the organization and is actively looking for successors. He aspires to enter banking and start his own business.

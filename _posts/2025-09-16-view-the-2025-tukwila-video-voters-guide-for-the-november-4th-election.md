@@ -17,6 +17,8 @@ original_content: "https://www.youtube.com/embed/cWD-WAX7zyo?feature=oembed\n\nT
   the November 4th Election](https://www.tukwilawa.gov/view-the-2025-tukwila-video-voters-guide-for-the-november-4th-election/)
   appeared first on [City of Tukwila](https://www.tukwilawa.gov)."
 summarized: true
+topics: []
+published: false
 ---
 
 The City of Tukwila has released a Video Voters' Guide for the upcoming general elections on November 4, 2025. The guide, aimed at helping Tukwila residents familiarize themselves with the candidates for the Council positions, features a two-minute statement by each candidate. Residents can register to vote until 8 days before the election online, by mail, or in-person through Election Day at the King County Elections headquarters. The registration forms, available in multiple languages, must be received, not postmarked, by the 8-day deadline.

@@ -103,6 +103,9 @@ original_content: "## Hopelink Food Program Launches Gift Card Program\n\n##### 
   At no cost, clients can shop at the market as they would in a typical grocery store
   by choosing the items that best fit their household needs._&nbsp;"
 summarized: true
+topics:
+- Food & Nutrition
+- Financial Assistance
 ---
 
 Hopelink, a community organization, has launched a gift card program for its Food Assistance program. The initiative, funded by an American Rescue Plan Act Grant, provides gift cards for local businesses that cater to diverse populations. Three businesses were identified for the program — The International Deli, Asian Family Market, and La Superior. The aim is to offer clients access to culturally relevant food they may not find at traditional grocery stores. All 300 gift cards were accepted by clients in just three days. Hopelink hopes to receive additional funding to continue the program.

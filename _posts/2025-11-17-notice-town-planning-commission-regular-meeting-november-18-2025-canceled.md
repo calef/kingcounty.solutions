@@ -11,6 +11,8 @@ original_markdown_body: |-
 
   &nbsp;
 summarized: true
+topics: []
+published: false
 ---
 
 The regular Town Planning Commission meeting set for November 18, 2025, has been canceled due to a lack of quorum. The next meeting is scheduled for December 16, 2025, at 6:00 PM at Town Hall.

@@ -87,6 +87,9 @@ original_content: |-
 
   The post [This week on the Eastside – September 9, 2024](https://nami-eastside.org/thisweek9-9-24/) appeared first on [Nami-Eastside WA](https://nami-eastside.org).
 summarized: true
+topics:
+- Mental Health & Counseling
+- Community & Social Services
 ---
 
 September is National Suicide Prevention Month, and various events were held in the week of September 9-24, 2024, to raise awareness and provide resources for suicide prevention. These included safeTALK Suicide Prevention training and the recognition of the importance of the week by the cities of Bothell and Kenmore. The NAMI Eastside offered several support group meetings, Mental Health First Aid classes, and other resources like free suicide prevention education and youth mental health resources provided by Overlake and their partners. A series of events were also scheduled for the rest of September and October, focusing on mental health and well-being.

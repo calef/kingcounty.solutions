@@ -12,6 +12,9 @@ original_markdown_body: We are excited to announce a new opportunity for develop
   We are seeking qualified affordable housing developers to partner with us on the
   Henderson Street development...
 summarized: true
+topics:
+- Shelter & Housing
+- Community & Social Services
 ---
 
 The Seattle Office of Housing is inviting applications for Requests for Qualifications for the development of affordable housing at 14th Ave S and S Henderson St in South Park. They seek qualified developers with experience in multi-family and mixed-use projects, particularly those financed through the Low-Income Housing Tax Credit. The project aims to create a vibrant community space with affordable apartments and commercial facilities. Non-profits and Women and Minority-Owned Business developers are encouraged to apply. The submission deadline is December 5, 2025.

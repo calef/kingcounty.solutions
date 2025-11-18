@@ -49,6 +49,9 @@ original_content: "## **From the Gridiron to the Farm:** \n\n### **Meet Jason Br
   => {\n\t\t\t\tif (!elm.href.search(/^(http).+(hopelink.com).+$/)) {\n\t\t\t\t\telm.target
   = '_blank';\n\t\t\t\t\telm.title = 'Opens in a new tab';\n\t\t\t\t}\n\t\t\t});\n\t\t})();\n\t</script>"
 summarized: true
+topics:
+- Food & Nutrition
+- Community & Social Services
 ---
 
 Hopelink will provide extra food during visits to its Food Markets starting November 3. The organization welcomes Jason Brown, former NFL offensive lineman who left his career to establish First Fruits Farm, as the keynote speaker for its 30th Annual 'Reaching Out' Celebration. Brown's farm has donated over 2 million pounds of fresh food to communities in need. His story aligns with Hopelink's mission of providing access to healthy food, reflected in their Food Assistance program and Hopelink Harvest initiative. The celebration will be held at the Meydenbauer Center on October 16, 2025, featuring stories from Hopelink's service users and staff.

@@ -67,6 +67,8 @@ original_content: "[![](https://empoweryouthnetwork.org/wp-content/uploads/legac
   can be found at: [http://svtbus.org](http://svtbus.org) or by calling 425-888-7001.\n\n[![Bus
   schedule.](https://empoweryouthnetwork.org/wp-content/uploads/legacy/2024/08/Screenshot_20-8-2024_122751_.jpeg)](https://empoweryouthnetwork.org/wp-content/uploads/legacy/2024/08/Screenshot_20-8-2024_122751_.jpeg)"
 summarized: true
+topics:
+- Transportation & Mobility
 ---
 
 Snoqualmie Valley Transportation's (SVT) Valley Shuttle, the bus route connecting North Bend and Duvall, Washington, and all points in between, has begun weekend services. SVT, a program of Mt. Si Senior Center, partnered with the Washington State Department of Transportation, King County Metro, and the Snoqualmie Tribe to make this happen. The service will operate from 6 a.m. to 9:15 p.m., with buses approximately every 90 minutes. The service expansion is expected to increase accessibility for residents and visitors, promote sustainable tourism, and support local businesses. The Valley Shuttle had previously provided around 12,000 rides to local residents in 2023.

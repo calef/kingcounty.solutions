@@ -10,6 +10,8 @@ original_markdown_body: When you ride Link light rail, you’re already making a
   choice. Public transit offers a cleaner way to travel while reducing air pollution
   and GHG emissions. &nbsp;
 summarized: true
+topics:
+- Transportation & Mobility
 ---
 
 Sound Transit’s new South King County stations prioritize sustainability in their design and construction. Set to open on December 6, these stations enhance regional mobility by connecting various transit options and promoting low-carbon commuting. They feature universal access, support for low-income riders, and environmentally friendly materials, with over 20% of construction materials being recycled. The stations are designed to save energy and water, achieving energy use 18% lower than average. Recognized with Envision Platinum and LEED silver certifications, they embody a commitment to environmental stewardship and community benefit.

@@ -69,6 +69,9 @@ original_markdown_body: |-
 
   ###
 summarized: true
+topics:
+- Health Care
+- Mental Health & Counseling
 ---
 
 The Washington Department of Health has issued a notice of intent to deny the license application for Peninsula Counseling due to allegations that a person with a previous enforcement action is involved in its operations, including financial management and clinical supervision. This situation could lead to a denial of credentials under specific regulations. Peninsula Counseling has 28 days to respond to the charges. The public will be updated on any further developments, and legal documents related to the case are available online. Complaints regarding health care facilities can be reported to the Department of Health.

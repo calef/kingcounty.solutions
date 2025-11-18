@@ -14,6 +14,9 @@ original_content: "It’s been a big month for our team at ELAP.\n\nWe recently 
   work](https://elap.org/award-winning-work/) appeared first on [Eastside Legal Assistance
   Program](https://elap.org)."
 summarized: true
+topics:
+- Community & Social Services
+- Disabilities
 ---
 
 ELAP, a team providing free legal services, has received two awards for their hard work and dedication. The first award was presented by the City of Kirkland, which recognized the team's support towards the immigrant community in collaboration with the city. The second award, People Over Profit, was delivered by Washington State Insurance Commissioner Patty Kuderer, who honored ELAP for serving vulnerable community members. These awards serve as a reminder of the team's purpose and are highly appreciated.

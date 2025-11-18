@@ -47,6 +47,9 @@ original_content: |-
 
   The post [Nurturing the Helpers: How Reflective Consultation Transforms Early Childhood Care](https://encompassnw.org/nurturing-the-helpers-how-reflective-consultation-transforms-early-childhood-care/) first appeared on [Encompass](https://encompassnw.org).
 summarized: true
+topics:
+- Education & Learning
+- Community & Social Services
 ---
 
 Reflective Consultation, a relationship-based, collaborative process, helps early childhood professionals by providing a safe space to explore emotional responses, examine their relationships with families, and develop deeper insights into their work. This method, developed by Encompass over the past 7 years, acknowledges that caring for young children is emotionally demanding work. Regular, consistent meetings focus on relationships, emotional safety, and reflective thinking. Studies show that practitioners who receive regular reflective consultation show increased job satisfaction, reduced burnout, and reduced staff turnover. For families, the benefits include more sensitive caregiving, stronger relationships with service providers, and better engagement in services.

@@ -18,6 +18,8 @@ original_content: |-
 
   The post [Notice-Special Board of Governance Meeting](https://www.vrfa.org/2025/10/notice-special-board-of-governance-meeting/) appeared first on [Valley Regional Fire Authority (VRFA)](https://www.vrfa.org).
 summarized: true
+topics: []
+published: false
 ---
 
 The Valley Regional Fire Authority (VRFA) has announced a Special Board of Governance Meeting scheduled for October 28, 2025, at 5:00 p.m. The meeting's purpose is to review and discuss the Preliminary 2026 Budgets. The VRFA's preliminary budgets for 2025 are available for public inspection at the Headquarters Station in Auburn, WA, during regular business hours. For further information, contact Stefanie Harper, Authority Clerk of the Board, at 253-288-5800 or Stefanie.Harper@vrfa.org. The meeting can also be viewed virtually via Zoom, with login directions available at www.vrfa.org.

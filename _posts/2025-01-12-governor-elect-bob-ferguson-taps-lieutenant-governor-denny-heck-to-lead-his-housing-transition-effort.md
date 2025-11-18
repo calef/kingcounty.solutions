@@ -39,6 +39,9 @@ original_content: |-
 
   Bob Ferguson has dedicated his career to serving the people. He is completing his third term as Washington State's Attorney General. He is committed to improving government and building a stronger future by focusing on key issues such as public safety, health care costs and housing affordability, child care, education, and economic growth.&nbsp;
 summarized: true
+topics:
+- Shelter & Housing
+- Community & Social Services
 ---
 
 Governor-elect Bob Ferguson has appointed Lieutenant Governor Denny Heck to lead the housing transition effort, focusing on Ferguson's housing priorities for the first 100 days of his term. The Housing Subcommittee will consist of members from Ferguson's bipartisan Transition Team and key stakeholders from across the state. The team will work on increasing housing supply, implementing permitting and zoning reforms, passing eviction reforms, and safeguarding renters from predatory rent increases. Ferguson, who has pledged to build 200,000 housing units during his term, asserts that housing affordability is a crisis in every corner of Washington state requiring immediate statewide action.

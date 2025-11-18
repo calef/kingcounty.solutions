@@ -104,6 +104,8 @@ original_content: "**Begins**\n\nBy Steven Schauer, Deputy Executive Director\n\
   Season Begins](https://kingcountyfloodcontrol.org/be-flood-ready-king-county-flood-control-district-expands-outreach-as-flood-season-begins/)
   appeared first on [King County Flood Control District](https://kingcountyfloodcontrol.org)."
 summarized: true
+topics: []
+published: false
 ---
 
 The King County Flood Control District (KCFCD) is enhancing its flood preparedness outreach and education efforts as the flood season starts. The KCFCD Board of Supervisors unanimously approved the expansion, which will offer additional resources for flood risk reduction and boost community engagement. The district will also update its 'Be Flood Ready' resources, including an expanded brochure, a new video, and additional outreach along the Duwamish River. The KCFCD is also researching further ways to improve flood preparedness, including strengthening community engagement and developing more best-practice resources for reducing flood risk.

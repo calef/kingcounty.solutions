@@ -197,6 +197,10 @@ original_content: |-
 
   The post [2025 Subregional Opportunity Fund Project](https://kingcountyfloodcontrol.org/2025-subregional-opportunity-fund-project/) appeared first on [King County Flood Control District](https://kingcountyfloodcontrol.org).
 summarized: true
+topics:
+- Community & Social Services
+- Health Care
+published: false
 ---
 
 # King County Flood Control District's 2025 Subregional Opportunity Fund

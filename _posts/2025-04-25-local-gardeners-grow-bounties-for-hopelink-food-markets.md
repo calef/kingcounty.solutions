@@ -103,6 +103,9 @@ original_content: "## **Local Gardeners Grow Bounties for Hopelink Food Markets&
   farms and harvest fields located near our five Hopelink Food Markets. If you need
   food assistance you can_ sign up through the Hopelink [Food Assistance program](https://www.hopelink.org/programs/food-program/)."
 summarized: true
+topics:
+- Food & Nutrition
+- Community & Social Services
 ---
 
 Hopelink's Harvest Program is working to combat food insecurity in King County by partnering with local farmers, gardeners, and gleaning groups to provide fresh produce to their food markets. The program, which yielded 191,000 pounds of produce in 2023, aims to change the perception that food banks only provide canned goods. Instead, Hopelink offers a range of fresh vegetables, meat, eggs, and milk. St. John Vianney Catholic Church and Viva Farms are among those contributing produce. Hopelink encourages more garden donors and coordinates with partners to meet specific needs of its Food Markets.

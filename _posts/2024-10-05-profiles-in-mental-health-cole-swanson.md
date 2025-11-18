@@ -144,6 +144,9 @@ original_content: |-
 
   The post [Profiles in Mental Health: Cole Swanson](https://nami-eastside.org/profiles-cole/) appeared first on [Nami-Eastside WA](https://nami-eastside.org).
 summarized: true
+topics:
+- Mental Health & Counseling
+- Community & Social Services
 ---
 
 ![Cole Swanson](https://nami-eastside.org/wp-content/uploads/2022/05/Cole-Swanson-Profile-Image.jpg)

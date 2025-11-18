@@ -12,6 +12,8 @@ original_markdown_body: Happy America Recycles Day! While it’s always importan
   our planet. Here at SPU, we’ll be celebrating with you and sharing tips and tricks
   to help you recycle righ...
 summarized: true
+topics: []
+published: false
 ---
 
 Happy America Recycles Day! November 15th is a special day to focus on recycling and celebrate our planet. SPU will join in the festivities by sharing tips and tricks for effective recycling, emphasizing the importance of small actions that can lead to a big impact on the environment.

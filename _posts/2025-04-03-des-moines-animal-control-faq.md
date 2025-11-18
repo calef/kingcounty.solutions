@@ -107,6 +107,8 @@ original_markdown_body: "**Des Moines Animal Control FAQ**\n\n3 April 2025\n\nTh
   a contract with a firm to administer pet licensing. All proceeds would go to expand
   animal control services.&nbsp;"
 summarized: true
+topics: []
+published: false
 ---
 
 The City of Des Moines has reduced animal control services due to budget cuts exceeding $4 million for the 2025-26 budget. This resulted in staff layoffs and reduced funding for various services, including a dedicated animal control officer. Currently, animal control is contracted with Burien CARES, covering only essential services like responding to dangerous dogs. The police department is unable to assist with stray animals due to staffing shortages. Residents are encouraged to utilize community platforms for lost or found pets. The City is exploring options to restore services, including improving pet licensing enforcement.

@@ -34,6 +34,10 @@ original_content: |-
 
   The post [Celebrating the Heart of Our Community](https://sophiaway.org/celebrating-volunteers/) first appeared on [The Sophia Way](https://sophiaway.org).
 summarized: true
+topics:
+- Community & Social Services
+- Food & Nutrition
+- Shelter & Housing
 ---
 
 The Sophia Way, an organization dedicated to helping women experiencing homelessness, has been celebrating the commitment of its volunteers. The non-profit organization, which has grown from a small group of individuals to a large community, provides a place of hope and change for women in need. Volunteers contribute by preparing meals, organizing donation drives, supporting staff, and being there for the women every day. The group of volunteers who gather at The Sophia Way's Donation Center every Wednesday are especially highlighted for their hard work. A special event to celebrate the volunteers is planned for July.

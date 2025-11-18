@@ -105,6 +105,10 @@ original_content: "## **A Heat Pump Keeps Your Home Cool in the Summer and Warm 
   systems and manage their ongoing energy costs.”\n\nTo find out if getting a heat
   pump is right for you, head to the [Energy Smart Eastside website](https://www.energysmarteastside.org/).&nbsp;&nbsp;"
 summarized: true
+topics:
+- Community & Social Services
+- Financial Assistance
+- Health Care
 ---
 
 The Energy Smart Eastside initiative, in collaboration with Hopelink, is providing energy-efficient heat pumps to low-income households in north and east King County. Heat pumps, which are carbon-free and can help reduce electric bills, relocate heat out of homes in the summer and into homes in the winter. The initiative is part of efforts by local cities and the East Side Climate Partnership to increase energy sustainability, and is supported by former President Biden's Climate Initiative Act and former Governor Inslee's electrification work. Since its inception, the program has installed over 490 heat pumps, averting over 2,000 metric tons of CO₂.

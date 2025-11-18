@@ -13,6 +13,8 @@ original_markdown_body: 'The Basics How long have you worked at City Light? 12 y
   Division is made up of several teams, including Customer Engineering, which is responsible
   for supporting custome...'
 summarized: true
+topics: []
+published: false
 ---
 
 Katie Zook is a supervisor for King Electric Service at Seattle City Light, where she has worked for 12 years in the Customer Operations Division. Her role involves overseeing Customer Engineering, which supports customer needs and ensures efficient service delivery. Zook emphasizes the importance of teamwork and communication in her position, aiming to enhance customer experiences and address their concerns effectively. Her commitment to service excellence reflects the division's goals in maintaining reliable electric services for the community.

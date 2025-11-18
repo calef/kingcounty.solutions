@@ -128,6 +128,11 @@ original_content: "## **Looking back on Lend a Hoping Hand 2023** &nbsp;\n\nRigh
   \"A Community Comes Through 18\")\n\n![Whole Foods Logo](https://www.hopelink.org/wp-content/uploads/2023/11/WholeFoodsLogo.png
   \"A Community Comes Through 19\")"
 summarized: true
+topics:
+- Food & Nutrition
+- Shelter & Housing
+- Financial Assistance
+- Community & Social Services
 ---
 
 Hopelink's annual Lend a Hoping Hand campaign raised over $1.47 million and 49,000 pounds of food in 2023, setting a record for fund and food drive participation. The campaign benefits families in north and east King County, Washington, some of the most expensive regions in the state, by providing food, warmth, and shelter, especially during winter. Donations directly benefited Hopelink services, such as the Family Development program, which helps clients find safe shelter, and the Energy Assistance program, which ensures clients stay warm during winter. The campaign also positively impacted Hopelink Food Markets, with a significant increase in donated baking items.

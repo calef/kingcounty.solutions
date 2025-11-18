@@ -98,6 +98,8 @@ original_content: |-
 
   The post [Celebrating World Rivers Day: Honoring King County’s Rivers](https://kingcountyfloodcontrol.org/celebrating-world-rivers-day-honoring-king-countys-rivers/) appeared first on [King County Flood Control District](https://kingcountyfloodcontrol.org).
 summarized: true
+topics: []
+published: false
 ---
 
 The King County Flood Control District (KCFCD) is set to celebrate World Rivers Day on September 28, 2025. The global event, initiated in 2005, aims to raise awareness about the significance of rivers and motivate stewardship. KCFDC uses the occasion to honor local rivers, including the Cedar, Green & Duwamish, Sammamish, Snoqualmie, South Fork Skykomish, and White, all of which are critical for ecosystems, supporting wildlife, and shaping communities. The District also provides information on various watersheds in the county and encourages residents to engage in activities such as river clean-ups, exploration, salmon recovery, and stormwater reduction.

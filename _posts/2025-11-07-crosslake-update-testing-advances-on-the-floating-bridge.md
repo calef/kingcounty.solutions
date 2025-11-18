@@ -14,6 +14,8 @@ original_markdown_body: |-
 
   Yet here at Sound Transit, momentum is only ramping up toward connecting the Eastside and Seattle across the I-90 floating bridge as crews remain hard at work testing the 2 Line’s Crosslake Connection.
 summarized: true
+topics: []
+published: false
 ---
 
 Sound Transit is progressing with the 2 Line's Crosslake Connection, set to open in early 2026. Recent testing includes successful operations with a four-car train at full speed on the I-90 floating bridge. System integration testing is underway, focusing on the overhead power system, signals, and communications, primarily at night to allow daytime repairs. Additionally, preparations for increased train frequency between Seattle and Lynnwood are ongoing, with intermittent trials planned. Riders should anticipate weekend closures in December for advanced signaling upgrades, which will support future service enhancements.

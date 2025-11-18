@@ -86,6 +86,12 @@ original_content: "## **How Transportation Access Impacts Poverty** &nbsp;\n\nFo
   even more information about any of the transportation programs listed above, please
   visit our [Transportation web page](https://www.hopelink.org/programs/transportation/)!&nbsp;&nbsp;"
 summarized: true
+topics:
+- Transportation & Mobility
+- Community & Social Services
+- Employment & Job Support
+- Food & Nutrition
+- Health Care
 ---
 
 Hopelink, a non-profit organization, emphasizes the importance of transportation access for individuals facing poverty. As transportation is vital for accessing essential services like food, healthcare, and employment, Hopelink offers several transportation programs to support this need. These include the Community Van and Dial-A-Ride Transit (DART) services, operated by Hopelink in collaboration with King County Metro. The organization also offers a trip planner on findaride.org, supported by multiple partners, to help overcome mobility barriers. Additionally, Hopelink advocates for legislative changes, promoting community and transit-oriented housing development during the 2024 Washington State Legislative Session.

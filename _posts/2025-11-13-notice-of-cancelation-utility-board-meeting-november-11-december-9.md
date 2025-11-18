@@ -15,6 +15,8 @@ original_markdown_body: "Notice is hereby given that the Utility Board Regular M
   is scheduled for January 13, 2026.\n\n&nbsp;\n\nFrancesca Zager  \nSr. Administrative
   Assistant\n\n**Notice:**"
 summarized: true
+topics: []
+published: false
 ---
 
 Notice is given that the Utility Board Regular Meetings scheduled for November 11 and December 9, 2025, are canceled. The Utility Board typically meets on the second Tuesday of each month at 5:00 pm. The next Regular Meeting is planned for January 13, 2026.

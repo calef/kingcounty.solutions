@@ -154,6 +154,9 @@ original_content: "## \n\n## **“When people come to work they don’t just com
   WA](https://nami-eastside.org).\n\nThe post [Profiles in Mental Health: Donna Lurie](https://nami-eastside.org/profiles-donna/)
   appeared first on [Nami-Eastside WA](https://nami-eastside.org)."
 summarized: true
+topics:
+- Mental Health & Counseling
+- Employment & Job Support
 ---
 
 Donna Lurie, a NAMI Eastside board member, employment law attorney, and owner of Lurie Workplace Solutions, advocates for mental health awareness, especially in the workplace. Drawing from personal experiences, including her own struggle with seasonal affective disorder, Lurie emphasizes the importance of communication and access to proper mental health resources. She dispels common misconceptions about mental health in the workplace and advises companies to foster a safe environment for open discussions about mental health. Lurie also highlights NAMI's role in providing support and resources for those with mental health conditions, including veterans and those in the workforce.

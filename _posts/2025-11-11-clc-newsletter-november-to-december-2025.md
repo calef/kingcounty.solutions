@@ -14,6 +14,10 @@ original_content: |-
 
   The post [CLC Newsletter – November to December 2025](https://cisc-seattle.org/clc-newsletter-november-to-december-2025/) appeared first on [Chinese Information and Service Center](https://cisc-seattle.org).
 summarized: true
+topics:
+- Community & Social Services
+- Disabilities
+- Mental Health & Counseling
 ---
 
 The Community Living Connections (CLC) network in King County has released its November to December 2025 newsletter. The CLC, with the CISC as a provider, shares this newsletter periodically, offering useful information and resources for older adults. The newsletter is part of the CLC's ongoing efforts to support and assist the elderly population. 

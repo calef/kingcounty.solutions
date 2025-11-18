@@ -101,6 +101,8 @@ original_markdown_body: "Infant formula recalled because of possible link to inf
   [website](https://doh.wa.gov/) is your source for a healthy dose of information.
   Get updates by following us on [social media](/about-us/contact-us/social-media).\n\n###"
 summarized: true
+topics: []
+published: false
 ---
 
 The CDC, FDA, and Washington State Department of Health are investigating an outbreak of infant botulism linked to ByHeart powdered infant formula. Thirteen infants across ten states, including one from Washington, have been affected. ByHeart has voluntarily recalled the formula, urging consumers to discard it and wash surfaces that may have come into contact with it. Symptoms of infant botulism, which can develop weeks later, include poor feeding and difficulty swallowing. Parents are advised to seek medical attention if their infants show any signs. This situation remains under active investigation.

@@ -60,6 +60,9 @@ original_content: |-
 
   The post [BIPOC Mental Health Resources](https://www.crisisconnections.org/bipoc-mental-health-resources/) appeared first on [Crisis Connections](https://www.crisisconnections.org).
 summarized: true
+topics:
+- Mental Health & Counseling
+- Community & Social Services
 ---
 
 The BIPOC community often feels unseen in the mental health care system, facing barriers such as systemic oppression and lack of culturally competent care. Understanding cultural and racial identities plays a crucial role in mental health care. In 2021, over 80% of psychologists were white, and 56% of white healthcare providers reported no cultural competency training. For those seeking therapists, there are directories that can connect you to a culturally competent provider, regardless of their background. Assessing cultural competence is important, and questions to help gauge this understanding are suggested. Several support lines aimed at different communities are also provided.

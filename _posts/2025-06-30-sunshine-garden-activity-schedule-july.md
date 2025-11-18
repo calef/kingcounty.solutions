@@ -14,6 +14,11 @@ original_content: |-
 
   The post [Sunshine Garden Activity Schedule – July](https://cisc-seattle.org/sunshine-garden-activity-schedule-july/) appeared first on [Chinese Information and Service Center](https://cisc-seattle.org).
 summarized: true
+topics:
+- Community & Social Services
+- Food & Nutrition
+- Health Care
+- Education & Learning
 ---
 
 Sunshine Garden, a platform for older adults, has released its activity schedule for July. The program offers a range of culturally relevant activities focusing on various aspects like food and nutrition, health, wellness, fitness, education, recreation, socialization, and personal growth. The detailed schedule can be accessed for more information. The initiative is part of an effort to engage the elderly in meaningful and nurturing activities for their overall well-being.

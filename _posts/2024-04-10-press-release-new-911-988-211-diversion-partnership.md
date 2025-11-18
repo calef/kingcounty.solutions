@@ -65,6 +65,9 @@ original_content: "### **Valley Communications Center and Crisis Connections par
   post [PRESS RELEASE: New 911-988-211 Diversion Partnership](https://www.crisisconnections.org/diversion-partnership/)
   appeared first on [Crisis Connections](https://www.crisisconnections.org)."
 summarized: true
+topics:
+- Mental Health & Counseling
+- Community & Social Services
 ---
 
 Valley Communications Center (Valley Com 911) and Crisis Connections have launched a new Diversion Program in South King County. This first-of-its-kind service integrates 911 emergency response with mental health and social services support, enabling faster and better assistance for those in crisis or in need of support. The program aims to improve the efficiency of emergency responses and provide comprehensive, tailored care for individuals. The co-location of 911, 988 (mental health professionals), and 211 (social service information specialists) operations is expected to enhance communication and coordination among service providers, while also building trust with marginalized populations accessing these services.

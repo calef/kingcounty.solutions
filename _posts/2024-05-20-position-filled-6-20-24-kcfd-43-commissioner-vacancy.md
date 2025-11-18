@@ -26,6 +26,8 @@ original_content: "FIRE COMMISSIONER VACANCY – POSITION #1  \n  \nKing County 
   post [Position filled 6/20/24: KCFD #43 Commissioner Vacancy](https://pugetsoundfire.org/psfra/kcfd-43-commissioner-vacancy/)
   first appeared on [Puget Sound Regional Fire Authority](https://pugetsoundfire.org)."
 summarized: true
+topics: []
+published: false
 ---
 
 King County Fire District No. 43 (KCFD #43) has announced a vacancy in Commissioner Position #1. The position will be filled via appointment, with the term lasting until the November 2025 General Election. The KCFD #43 Board of Commissioners has nominated Mark Mulich for the position, but additional nominations are accepted from District registered voters. Applicants must be registered voters residing within KCFD #43 or Maple Valley city limits. Applications must be submitted no later than 3:00 pm on June 6, 2024. All qualified candidates will be interviewed by the Board of Fire Commissioners during the District's regular meeting on June 20th.

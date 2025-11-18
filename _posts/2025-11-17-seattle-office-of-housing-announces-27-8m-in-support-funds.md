@@ -11,6 +11,9 @@ original_markdown_body: The Seattle Office of Housing is announcing a new opport
   million in stabilization funding available to help organizations facing financial
   challenges.
 summarized: true
+topics:
+- Shelter & Housing
+- Financial Assistance
 ---
 
 The Seattle Office of Housing is offering up to $27.8 million in stabilization funding to support affordable housing organizations facing financial challenges. This Urgent Operating Support (UOS) funding aims to address rising operational costs and revenue shortfalls, ensuring properties remain safe and stable for residents. Eligible organizations must have previously partnered with the Office of Housing. Funds can be used for essential operational costs, such as rent arrears, security, maintenance, and insurance. A mandatory virtual information session is scheduled for November 20, 2025, with applications due by December 18, 2025.

@@ -16,6 +16,11 @@ original_content: |-
 
   The post [Sunshine Garden Activity Schedule – August](https://cisc-seattle.org/sunshine-garden-activity-schedule-august/) appeared first on [Chinese Information and Service Center](https://cisc-seattle.org).
 summarized: true
+topics:
+- Food & Nutrition
+- Health Care
+- Education & Learning
+- Community & Social Services
 ---
 
 The Sunshine Garden program is offering a range of culturally relevant activities for older adults throughout August. These activities are designed to promote food and nutrition, health, wellness, fitness, education, recreation, socialization, and personal growth. There was no image referenced in the text.

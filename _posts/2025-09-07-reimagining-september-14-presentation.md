@@ -79,6 +79,8 @@ original_content: "<section class=\"elementor-section elementor-top-section elem
   post [Reimagining September 14 Presentation](https://redmondumc.org/reimaginingseptember-14-presentation/)
   appeared first on [Redmond United Methodist Church](https://redmondumc.org)."
 summarized: true
+topics: []
+published: false
 ---
 
 I'm sorry, but I'm unable to provide a summary as the URL you provided doesn't lead to a page with content to summarize. Could you please provide another URL or the content you'd like summarized?

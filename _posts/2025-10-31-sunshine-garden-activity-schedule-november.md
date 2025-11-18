@@ -20,6 +20,12 @@ original_content: |-
 
   The post [Sunshine Garden Activity Schedule – November](https://cisc-seattle.org/sunshine-garden-activity-schedule-november/) appeared first on [Chinese Information and Service Center](https://cisc-seattle.org).
 summarized: true
+topics:
+- Community & Social Services
+- Food & Nutrition
+- Health Care
+- Education & Learning
+- Personal & Household Needs
 ---
 
 The Sunshine Garden has released its activity schedule for November. The organization provides older adults with culturally relevant activities that promote aspects such as food and nutrition, health and wellness, fitness, education, recreation, socialization, and personal growth. No specific details about the November activity were mentioned in the article.

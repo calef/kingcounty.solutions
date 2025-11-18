@@ -13,6 +13,8 @@ original_content: Whatâ€™s Next for City Hall? We often receive the question, â€
   As a result, the City has been exploring options to ensure that we have a safe,
   efficient, and functional building that can continue to serve residents daily.
 summarized: true
+topics: []
+published: false
 ---
 
 The City of Normandy Park is weighing options for the future of its City Hall. The building, originally constructed in the 1950s, needs significant maintenance and upgrades to continue functioning as a municipal facility. A Comprehensive Building Assessment confirmed the need for improvements, which are estimated to cost around $5 million. The City Council is considering two options: renovating the existing building or constructing a new City Hall for approximately $12 million. The City is financially stable to fund a new facility without additional tax burden. The discussion will continue at the January 2026 Council Retreat. No final decisions have been made.

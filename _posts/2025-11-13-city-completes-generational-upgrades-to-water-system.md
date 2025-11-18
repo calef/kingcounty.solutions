@@ -14,6 +14,8 @@ original_markdown_body: The City of Mercer Island recently wrapped up a four-yea
   out through a series of coordinated projects, has greatly improved resilience and
   reliability, ensuring high quality water service for Island residents and businesses.
 summarized: true
+topics: []
+published: false
 ---
 
 The City of Mercer Island has completed a four-year modernization of its water system, improving resilience and reliability in response to a 2014 E. coli contamination incident. Key upgrades include the installation of five high-capacity pumps, a new emergency generator, recoating of water reservoirs, and the construction of a chlorination booster station. The city also replaced over 7,000 water meters with smart meters as part of an Advanced Metering Infrastructure system. These investments aim to provide safe, reliable water service to residents and businesses for decades while enhancing infrastructure and safety features.

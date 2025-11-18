@@ -10,6 +10,10 @@ original_markdown_body: '![](https://www.burienwa.gov/UserFiles/Servers/Server_1
   us for free light refreshments at our "City Chat" on Thursday, November 20 at the
   Burien Library and City Hall multipurpose room!'
 summarized: true
+topics:
+- Community & Social Services
+- Food & Nutrition
+- Shelter & Housing
 ---
 
 Join the "City Chat" on November 20 from 5:30 to 6:30 p.m. at the Burien Library Multipurpose Room. Meet the Economic Development and Human Services staff and learn about their community support work. Free light refreshments will be provided. Attendees are encouraged to bring non-perishable food and winter coat donations to help support local neighbors.

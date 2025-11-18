@@ -24,6 +24,10 @@ original_markdown_body: |-
 
    ![](https://track.hubspot.com/__ptq.gif?a=532040&k=14&r=https%3A%2F%2Fblog.usa.gov%2Ffive-quick-tips-for-sharing-information-during-an-emergency-2&bu=https%253A%252F%252Fblog.usa.gov&bvt=rss)
 summarized: true
+topics:
+- Community & Social Services
+- Mental Health & Counseling
+- Transportation & Mobility
 ---
 
 During emergencies, effective communication is crucial. Here are five tips for organizations: 1) Encourage followers to sign up for local emergency alerts for real-time updates. 2) Prepare a content bank with useful information and resources tailored to specific disasters. 3) Follow FEMA’s social media for timely updates. 4) Ensure content is easily accessible, even with low connectivity, by including essential information directly in posts. 5) Create diverse messaging for various audiences, considering different demographics and needs. These strategies help ensure timely and effective communication during crises.

@@ -12,6 +12,8 @@ original_markdown_body: Following an attempted armed carjacking, Seattle police 
   morning. At about 3:30 a.m., patrol officers responded to a shooting in the 2200
   block of 1st Avenue....
 summarized: true
+topics: []
+published: false
 ---
 
 Seattle police are investigating an attempted armed carjacking in Queen Anne, where a legally armed victim shot two suspects early this morning. The incident occurred around 3:30 a.m. in the 2200 block of 1st Avenue. Both suspects have been hospitalized following the shooting.

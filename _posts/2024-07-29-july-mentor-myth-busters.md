@@ -42,6 +42,10 @@ original_content: "![Photo of Youth Success Mentors.](https://empoweryouthnetwor
   and funny. Just a nice, cool kid.”_\n\nHelp us get a head start on our Back-to-School
   Challenge, and [apply to become a mentor today](https://empoweryouthnetwork.org/youth-success-mentoring/)!"
 summarized: true
+topics:
+- Community & Social Services
+- Education & Learning
+- Employment & Job Support
 ---
 
 The Empower Youth Network (EYN) addresses common misconceptions about becoming a Youth Success Mentor with their 'Mentor Myth Busters' initiative. Many potential mentors often worry about time commitment and effort, but testimonials from current mentors show that mentoring is feasible and rewarding. They share that the commitment is about an hour a week, with flexibility for vacations or other commitments. The key is clear and respectful communication with all parties involved. Mentors find the experience fulfilling, forming meaningful connections with mentees and feeling part of something positive in their community. EYN encourages more people to become mentors.

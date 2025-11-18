@@ -12,6 +12,8 @@ original_markdown_body: Seattle police officers arrested a 31-year-old man for c
   at about 11:30 p.m., a patrol officer near Fauntleroy Way Southwest and Southwest
   Juneau Street saw a truck ...
 summarized: true
+topics: []
+published: false
 ---
 
 Seattle police arrested a 31-year-old man after he crashed a stolen truck and fled from officers in West Seattle on November 6. The incident occurred around 11:30 p.m. when a patrol officer spotted the truck. The driver attempted to evade capture but was ultimately apprehended.

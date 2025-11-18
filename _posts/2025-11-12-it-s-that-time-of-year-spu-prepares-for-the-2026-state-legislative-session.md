@@ -12,6 +12,8 @@ original_markdown_body: After a landmark 2025 session, Seattle Public Utilities 
   to struggle with declining revenues and negative budget impacts from the federal
   government. Beginning...
 summarized: true
+topics: []
+published: false
 ---
 
 Seattle Public Utilities (SPU) is gearing up for the 2026 state legislative session, which will last 60 days. Lawmakers are anticipated to face challenges due to declining revenues and adverse budget effects stemming from federal government actions. The upcoming session follows a significant 2025 legislative period, setting the stage for complex discussions and negotiations regarding state funding and resources.

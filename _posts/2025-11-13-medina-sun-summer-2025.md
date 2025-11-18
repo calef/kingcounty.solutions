@@ -9,6 +9,8 @@ original_content: |-
 original_markdown_body: Medina Residents! Be sure to catch the latest in what's happening
   in your community! The summer edition of the Medina Sun newsletter is out now.
 summarized: true
+topics: []
+published: false
 ---
 
 The article contains a PDF file that appears to be a document related to Medina, Washington. It includes various metadata and binary data but does not provide any textual content or summaries. The content seems to be encoded in a format that is not directly readable, suggesting it may contain information intended for specific software or purposes rather than general consumption.

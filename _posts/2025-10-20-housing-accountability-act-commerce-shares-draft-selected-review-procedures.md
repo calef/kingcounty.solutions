@@ -16,6 +16,9 @@ original_content: "[The Housing Accountability Act](https://lawfilesext.leg.wa.g
   changes, may not deny affordable or moderate-income housing development and would
   be ineligible for certain state infrastructure grants and loans.\n\n[![](https://www.commerce.wa.gov/wp-content/uploads/2025/10/Selected-Review-procedure-cover.jpeg)](https://deptofcommerce.app.box.com/file/2010239759433?s=d4uluw4s4kpys8a7y2588vyt3ihp3nyu)"
 summarized: true
+topics:
+- Shelter & Housing
+- Community & Social Services
 ---
 
 The Washington State Department of Commerce has shared the draft review procedures for the Housing Accountability Act (HAA). The HAA allows for voluntary and selected approval processes for local government housing regulations. The Department can select up to 10 cities or counties each year for review, based on certain criteria. The draft procedures are open for public review and feedback until November 14. If a jurisdiction's housing regulations are found to be inconsistent with state law, it must work with the Department to make changes and could be ineligible for certain state grants and loans.

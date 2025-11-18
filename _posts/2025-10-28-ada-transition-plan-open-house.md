@@ -7,6 +7,9 @@ original_content: "![](https://www.burienwa.gov/UserFiles/Servers/Server_1104593
   the City of Burien's Public Works team to discuss pedestrian mobility and share
   what is most important to you."
 summarized: true
+topics:
+- Disabilities
+- Transportation & Mobility
 ---
 
 The City of Burien's Public Works team is hosting an ADA Transition Plan Open House on Wednesday, November 19, from 5:30 p.m. to 6:30 p.m. The event will be held in the multipurpose room on the first floor of Burien Library and City Hall. Participants will discuss pedestrian mobility and are encouraged to share their thoughts on current priority projects and accessibility needs around the city.

@@ -13,6 +13,8 @@ original_markdown_body: The Cascade foothills are home to the small but importan
   the project’s license with the Federal Energy Regulatory Commission (FERC). This
   process takes several years. A...
 summarized: true
+topics: []
+published: false
 ---
 
 The South Fork Tolt Hydroelectric Project is undergoing a relicensing process with the Federal Energy Regulatory Commission (FERC), which involves years of research to fill knowledge gaps. The Tolt Fishery Advisory Committee (TFAC) collaborates with the City, state, federal agencies, and the Tulalip Tribes to conduct studies focusing on river and fish habitat needs. This adaptive management approach has led to successful habitat restoration efforts, including the strategic placement of large woody debris to improve fish habitats. The City plans further studies in 2026 to inform their new license application, expected by July 2027.

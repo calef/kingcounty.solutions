@@ -42,6 +42,8 @@ original_content: |-
 
   Jones currently lives in Snohomish County with Kim, his wife of 34 years. His daughter, Cydney, attends college in Colorado.
 summarized: true
+topics: []
+published: false
 ---
 
 **Gov. Bob Ferguson Appoints Jesse Jones as Director of Results Washington**

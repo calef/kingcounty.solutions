@@ -54,6 +54,8 @@ original_content: "<section class=\"elementor-section elementor-top-section elem
   post [Reimagining Committee – Second Listening Session](https://redmondumc.org/reimagining-committee-second-listening-session/)
   appeared first on [Redmond United Methodist Church](https://redmondumc.org)."
 summarized: true
+topics: []
+published: false
 ---
 
 Unfortunately, the provided article does not contain enough information to create a summary. The text mainly consists of titles and dates for past and future presentations by the Reimagining Committee at Redmond United Methodist Church, without any elaboration or description of the events or the committee's work. Relevant information such as the content of the presentations, the objectives, or the outcomes of the listening sessions are not provided.

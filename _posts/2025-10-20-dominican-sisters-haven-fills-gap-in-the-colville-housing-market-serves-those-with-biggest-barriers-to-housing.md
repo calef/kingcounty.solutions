@@ -22,6 +22,9 @@ original_content: |-
 
   Thanks to all who made Dominican Sisters Haven possible!&nbsp;
 summarized: true
+topics:
+- Shelter & Housing
+- Community & Social Services
 ---
 
 Dominican Sisters Haven, a new housing community in Steven County, Washington, opened in September. The community offers 70 affordable housing units specifically designed for families with children, with 35 units reserved for households experiencing homelessness. The units vary in size, including one, two, and three-bedroom options. To qualify, potential residents must earn no more than 60% of the area median income. The project, a response to the scarcity of affordable housing in Colville, was a collaboration between Catholic Charities of Eastern Washington, Rural Resources Community Action, and Spokane Housing Authority, funded by the State Housing Trust Fund and Washington State Housing Finance Commission.

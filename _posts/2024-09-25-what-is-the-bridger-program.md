@@ -75,6 +75,9 @@ original_content: "![](https://www.crisisconnections.org/wp-content/uploads/2024
   Program?](https://www.crisisconnections.org/what-is-the-bridger-program/) appeared
   first on [Crisis Connections](https://www.crisisconnections.org)."
 summarized: true
+topics:
+- Mental Health & Counseling
+- Community & Social Services
 ---
 
 The Bridger Program is designed to support those struggling with substance use, with physicians providing resources to help manage withdrawal symptoms and encourage recovery. The program also promotes harm reduction strategies, such as using clean needles and administering Narcan to those who have overdosed. The Washington Recovery Helpline aids in scheduling follow-up care with appropriate clinics, allowing physicians to provide a "bridger dose" to alleviate withdrawal symptoms. The Helpline also provides emotional support and resources for those struggling with substance use, gambling problems, or mental health challenges. The Bridger Program is one of only two programs in the U.S. offering such services.

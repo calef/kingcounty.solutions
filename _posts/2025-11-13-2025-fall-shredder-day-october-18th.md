@@ -10,6 +10,8 @@ original_content: |-
 original_markdown_body: "Medina Residents!  \nMake plans to attend this semi-annual
   community event sponsored by the Medina Police Department..."
 summarized: true
+topics: []
+published: false
 ---
 
 Medina will host its Fall Shredder Day on October 18th, providing residents an opportunity to safely dispose of sensitive documents. The event will take place in the West Parking Lot of Medina Park, located at NE 12th St. Residents are encouraged to participate to protect their personal information. For more details, residents can contact Police Captain Austin Gidlof at 425-233-6430 or via email.

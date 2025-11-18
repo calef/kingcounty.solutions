@@ -12,6 +12,8 @@ original_markdown_body: Seattle police detectives are investigating a homicide i
   shooting inside of an apartment building in the 3600 block of 33rd Avenue South.
   There officers found a man in his...
 summarized: true
+topics: []
+published: false
 ---
 
 Seattle police are investigating a homicide that occurred on November 18, 2025, around 10:00 p.m. in an apartment building on 33rd Avenue South. Officers found a man in his 60s with a fatal gunshot wound; he was pronounced dead despite medical aid. The suspect fled the scene, and police are currently working to gather evidence and speak to witnesses. The King County Medical Examiner will identify the victim and determine the cause of death. Authorities encourage anyone with information to contact the SPD Violent Crimes Tip Line.

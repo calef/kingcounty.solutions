@@ -79,6 +79,8 @@ original_content: |-
 
   The post [Celebrate Salmon Season in King County: Protecting a Northwest Icon](https://kingcountyfloodcontrol.org/celebrate-salmon-season-in-king-county-protecting-a-northwest-icon/) appeared first on [King County Flood Control District](https://kingcountyfloodcontrol.org).
 summarized: true
+topics: []
+published: false
 ---
 
 The King County Flood Control District (KCFCD) is urging the community to celebrate and support the salmon season, a crucial event for the health of the region's environment and communities. Salmon, a keystone species, reflects the overall health of the environment, supports local economies, and is deeply intertwined with the culture and traditions of the Indigenous peoples of the region. However, salmon populations are declining due to habitat loss, pollution, migration barriers, and climate change. The KCFCD invests in habitat restoration and encourages community members to support salmon recovery through sustainable practices and active engagement in salmon recovery projects.

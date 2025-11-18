@@ -35,6 +35,8 @@ original_content: |-
 
   The post [Meet Evan Molineux: ELAP DV staff attorney and Perkins Coie Racial Justice Fellow](https://elap.org/meet-evan-molineux-elap-dv-staff-attorney-and-perkins-coie-racial-justice-fellow/) appeared first on [Eastside Legal Assistance Program](https://elap.org).
 summarized: true
+topics:
+- Domestic Violence
 ---
 
 Evan Molineux has joined the ELAP team as a Domestic Violence Staff Attorney, as part of Perkins Coie's Racial Justice Fellowship. The Fellowship offers first- and second-year associates six months of full-time pro bono work at a community-based organization. Molineux, a Georgetown law school graduate, expressed his commitment to domestic violence work, having previously volunteered at shelters and legal aid organizations. He hopes to learn the most effective ways to help victims of domestic violence during his time at ELAP, and to contribute to other family law issues. Molineux also emphasized the importance of understanding the complex dynamics at the core of domestic violence for effective advocacy.

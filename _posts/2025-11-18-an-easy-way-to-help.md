@@ -41,6 +41,11 @@ original_markdown_body: |-
 
   The post [An easy way to help](https://elap.org/an-easy-way-to-help/) appeared first on [Eastside Legal Assistance Program](https://elap.org).
 summarized: true
+topics:
+- Domestic Violence
+- Financial Assistance
+- Health Care
+- Shelter & Housing
 ---
 
 ELAP is a community-based nonprofit focused on addressing the urgent needs of individuals facing challenges such as domestic violence, housing, financial issues, healthcare, and immigration. Their dedicated staff and pro bono attorneys provide essential legal assistance to those in need. To continue their mission of offering free legal help in King County, financial support from donors is vital. The organization encourages contributions in honor of Giving Tuesday, which is on December 2, emphasizing that donations can be made at any time to make an immediate impact. This initiative allows individuals to take proactive steps toward helping their community during uncertain times.

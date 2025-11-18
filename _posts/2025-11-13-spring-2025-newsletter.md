@@ -9,6 +9,8 @@ original_content: |-
 original_markdown_body: Medina Residents - be sure to read about the latest in the
   Spring 2025 issue of the Medina Sun newsletter.
 summarized: true
+topics: []
+published: false
 ---
 
 The article contains information that appears to be a corrupted or improperly formatted PDF document, as it does not provide any readable content related to the Spring 2025 newsletter from Medina, WA. Consequently, no meaningful summary can be derived from the provided text.

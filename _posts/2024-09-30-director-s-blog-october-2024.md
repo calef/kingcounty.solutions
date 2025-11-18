@@ -26,6 +26,8 @@ original_content: |-
 
   There are so many ways to learn and grow at KCLS. Join us!
 summarized: true
+topics:
+- Education & Learning
 ---
 
 The King County Library System (KCLS) is offering various programs and learning opportunities in October including voter information, author events, and back-to-school assistance. Libraries will close for a day in October for staff meetings. KCLS is partnering with King County Elections for Voting Rights & Registration Workshops and has ballot boxes at 24 libraries. Hispanic/Latinx Heritage Month celebrations include Hispanic author events and a cultural celebration. KCLS is also hosting a talk by Patrick Flores-Scott. The library is providing back-to-school programs like K-12 Study Zone, Math Club, Reading Buddies, and a Career Online High School for students to earn a diploma and develop career skills.

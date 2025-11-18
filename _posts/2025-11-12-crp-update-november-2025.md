@@ -46,6 +46,10 @@ original_content: "In the coming weeks, the Community Reinvestment Program (CRP)
   [CRP Implementation Report 2023-2025 (PDF)](https://deptofcommerce.app.box.com/s/i5a8dxflmkupghuis6eq9ikm9m6l31ut)\n-
   [Community Feedback Results – October 2025 (PDF)](https://deptofcommerce.box.com/s/mcim9q6gt5s77i81ug8sody2ld8eq8pg)"
 summarized: true
+topics:
+- Community & Social Services
+- Employment & Job Support
+- Financial Assistance
 ---
 
 The Washington State Department of Commerce's Community Reinvestment Program (CRP) is launching three funding opportunities. These grants are region-based, with one grantee selected per region. The grants are for organizations serving individuals, not individuals themselves. The three grants are for Reentry Services, providing wraparound services before and after release; Legal Assistance Services, supporting post-conviction relief and case assistance; and Local Advisory Teams, supporting the creation of teams to distribute funding to community partners. Awards range from $67,000 to $1,232,000 depending on the grant. Further details will be posted on Commerce’s contracting webpage.

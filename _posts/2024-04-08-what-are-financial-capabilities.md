@@ -106,6 +106,9 @@ original_content: "## **What Are “Financial Capabilities” & Why Are They Imp
   coaching sessions with individuals, offers virtual financial drop-in sessions every
   Tuesday, and community workshops across the region.&nbsp;_&nbsp;"
 summarized: true
+topics:
+- Financial Assistance
+- Community & Social Services
 ---
 
 Hopelink's Financial Capabilities program helps individuals manage their money and achieve greater financial well-being. The program defines financial capability as the ability to understand and navigate financial systems. It focuses on three components: financial education, skills building through financial coaching, and providing information about safe, effective, and affordable financial products and services. The program offers classes, workshops, and one-on-one coaching sessions to help individuals understand their financial behaviors and create stability and security. The program also addresses common misconceptions about finance, such as the need for money or a certain income to budget finances. The main benefit of the program is providing access to a financial coach in a safe, nonjudgmental space.

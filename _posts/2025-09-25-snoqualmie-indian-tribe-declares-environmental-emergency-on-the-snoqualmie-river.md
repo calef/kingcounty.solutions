@@ -15,6 +15,8 @@ original_content: |-
 
   _The Snoqualmie Indian Tribe is a federally recognized tribe in the Puget Sound region of Washington State. Known as the People of the Moon, Snoqualmie were signatories to the Treaty of Point Elliott in 1855. For more information visit www.snoqualmietribe.us_
 summarized: true
+topics: []
+published: false
 ---
 
 The Snoqualmie Indian Tribe has declared an environmental emergency on the Snoqualmie River. The Tribal Council determined that the river's conditions have worsened significantly, with record low flow levels, unmet minimum instream flows for many years, and water usage exceeding the natural supply. The ecosystem's health is deteriorating due to persistent drought and low snowpack. These conditions pose a significant threat to the tribe's health, safety, and welfare, interfere with their rights, and impede the Tribal Council’s regulation of its own affairs. The tribe urges partners to support their efforts to protect and restore the river.

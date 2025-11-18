@@ -38,6 +38,10 @@ original_content: |-
 
   The post [How to get connected to legal support in your preferred language](https://www.crisisconnections.org/how-to-get-connected-to-legal-support-in-your-preferred-language/) appeared first on [Crisis Connections](https://www.crisisconnections.org).
 summarized: true
+topics:
+- Community & Social Services
+- Education & Learning
+- Employment & Job Support
 ---
 
 The 211 service offers assistance to individuals struggling to navigate the legal system due to a language barrier. When you call 211, you can request a translator in your preferred language. The service does not provide legal advice, but connects you to resources that can help you. Relevant information about your situation and legal goals are necessary to get the most out of the call. The service also supports recent immigrants and asylum seekers with information about work permits, direct benefits, and more. It urges users to reach out early as legal processes take time.

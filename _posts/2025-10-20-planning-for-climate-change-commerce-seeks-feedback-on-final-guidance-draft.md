@@ -18,6 +18,8 @@ original_content: "The Department of Commerce is seeking feedback as it finalize
   comment, changes to statewide rulemaking, and changes to federal programs and resources.
   \ \n  \nFor questions, contact Ananda Gordon-Peabody at [Ananda.Gordon-Peabody@commerce.wa.gov](mailto:Ananda.Gordon-Peabody@commerce.wa.gov).\n\n[![](https://www.commerce.wa.gov/wp-content/uploads/2025/10/ClimateGuiebookCover.png)](https://deptofcommerce.app.box.com/file/2009332238159?s=l9c7t6sy9xpka49p1uyd88f6i0k31m7x)"
 summarized: true
+topics: []
+published: false
 ---
 
 The Washington State Department of Commerce is seeking public feedback on its final Climate Element Planning Guidance document until November 15. The guidance is designed to help communities plan for the impacts of climate change. It was developed in response to updates to the Growth Management Act (GMA) passed in 2023, which require counties and cities to include a climate element in their comprehensive plans. The document offers a step-by-step process for the development and adoption of this climate element. This is the third iteration of the guidance, incorporating previous public comments, changes to state and federal rules, and resources.

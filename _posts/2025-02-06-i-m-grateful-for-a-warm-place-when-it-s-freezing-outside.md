@@ -43,6 +43,11 @@ original_content: "![](https://sophiaway.org/wp-content/uploads/2025/02/Image-bl
   post [“I’m grateful for a warm place when it’s freezing outside.”](https://sophiaway.org/winter-care/)
   first appeared on [The Sophia Way](https://sophiaway.org)."
 summarized: true
+topics:
+- Shelter & Housing
+- Food & Nutrition
+- Health Care
+- Community & Social Services
 ---
 
 During severe winter conditions, The Sophia Way, a shelter in King County, extends its capacity to accommodate more women experiencing homelessness. The shelter extends its operating hours and adds extra beds to provide a warm, safe space. The staff ensures that there is extra food, warm clothing, and medical assistance if needed. Despite the emotional stress the cold weather brings, the shelter staff uses a trauma-informed approach to create a calm, supportive environment. The shelter’s services, fueled by community support, offer more than physical warmth, providing compassion, stability, and dignity to those in need.

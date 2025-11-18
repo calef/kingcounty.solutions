@@ -136,6 +136,9 @@ original_content: "## 2024 Holiday Assistance Resources\n\n![A family sits down 
   => {\n\t\t\t\tif (!elm.href.search(/^(http).+(hopelink.com).+$/)) {\n\t\t\t\t\telm.target
   = '_blank';\n\t\t\t\t\telm.title = 'Opens in a new tab';\n\t\t\t\t}\n\t\t\t});\n\t\t})();\n\t</script>"
 summarized: true
+topics:
+- Food & Nutrition
+- Community & Social Services
 ---
 
 Hopelink is offering additional food assistance from November 3 due to increased community hardships. During the holiday season, Hopelink's Food Markets will provide special seasonal foods such as squashes, pumpkins, spices, stuffing mixes, cranberries, baking supplies, and proteins. Numerous other organizations are also providing assistance, including the Forgotten Children's Fund, United Methodist in Kirkland, Snoqualmie Kiwanis, USPS Operation Santa, Salvation Army's Angel Tree, King County Toys for Tots, and others. These organizations offer a variety of help, from food and gift distribution to holiday events and festivities.

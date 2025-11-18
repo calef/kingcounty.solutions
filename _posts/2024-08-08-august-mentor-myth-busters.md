@@ -39,6 +39,9 @@ original_content: "[![](https://empoweryouthnetwork.org/wp-content/uploads/legac
   us get a head start on our Back-to-School Challenge, and [apply to become a mentor
   today](https://empoweryouthnetwork.org/youth-success-mentoring/)!"
 summarized: true
+topics:
+- Education & Learning
+- Employment & Job Support
 ---
 
 Empower Youth Network (EYN) is addressing common misconceptions about the time commitment and effort required to become a Youth Success Mentor (YSM) through their 'Mentor Myth Busters' initiative. This is part of their Back-to-School Challenge aiming to recruit 70 mentors. Testimonials from mentors like Karen, Pam, Sandy, Sharissa, and Michael attest to the flexibility and support provided by EYN, enabling them to balance mentoring with other commitments. Mentoring sessions can be as short as 30 minutes, and resources such as STEM kits and games are provided to enrich meetings with mentees. EYN encourages potential mentors to apply.

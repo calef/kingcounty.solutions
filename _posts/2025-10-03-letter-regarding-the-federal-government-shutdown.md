@@ -10,6 +10,8 @@ original_content: |-
 
   [Download the letter (PDF format)](https://snoqualmietribe.us/wp-content/uploads/2025/10/Federal-Shutdown-Letter-to-Membership.pdf)
 summarized: true
+topics: []
+published: false
 ---
 
 The Snoqualmie Tribe issued a letter regarding the Federal Government Shutdown, which is being sent to all Tribal Members. This decision was made amid USPS slowdowns and the ongoing postal strike in Canada. The letter is also available on the tribe's website for quick access. The content of the letter is not specified in the article.

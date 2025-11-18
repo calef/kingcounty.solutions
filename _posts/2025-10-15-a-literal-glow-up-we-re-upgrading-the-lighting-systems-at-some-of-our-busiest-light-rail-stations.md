@@ -15,6 +15,8 @@ original_markdown_body: |-
 
   In fact, if you’re a regular 1 Line rider, you’ve probably already noticed lighting upgrades at some of Seattle’s downtown stations — they’re hard to miss!&nbsp;&nbsp;
 summarized: true
+topics: []
+published: false
 ---
 
 Sound Transit is upgrading the lighting systems at several key light rail stations in Seattle, including Pioneer Square, Symphony, and Westlake. These enhancements involve replacing older fixtures with energy-efficient LED options for improved safety and visibility. The upgrades will reduce energy and maintenance costs while creating a more welcoming environment for passengers. Additional lighting will also be installed in various locations. Further projects are planned ahead of the FIFA World Cup in June, including outdoor lighting improvements at International District/Chinatown Station and upgrades at Pioneer Square Station.

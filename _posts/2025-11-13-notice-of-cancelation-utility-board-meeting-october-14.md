@@ -15,6 +15,8 @@ original_markdown_body: "Notice is hereby given that the Utility Board Regular M
   Tuesday of each month at 5:00 pm.** A special hybrid meeting is scheduled for October
   28, 2025, at MICEC.\n\nFrancesca Zager  \nSr. Administrative Assistant\n\n**Notice:**"
 summarized: true
+topics: []
+published: false
 ---
 
 Notice is given that the Utility Board Regular Meeting scheduled for October 14, 2025, is canceled. The Utility Board typically meets on the second Tuesday of each month at 5:00 pm. A special hybrid meeting will be held on October 28, 2025, at MICEC.

@@ -60,6 +60,10 @@ original_content: "Gov. Bob Ferguson creates rapid response team to support chil
   be in regular contact with the Governor’s Office to share its findings and recommendations
   as work progresses."
 summarized: true
+topics:
+- Community & Social Services
+- Education & Learning
+- Domestic Violence
 ---
 
 Gov. Bob Ferguson of Washington has established a rapid response team to counter potential harm to children from President Donald Trump's immigration enforcement policies. The Family Separation Rapid Response Team is tasked with developing policies to support children separated from their deported or detained parents or caregivers. The team includes professionals from the Department of Children, Youth, and Families, Washington State Patrol, the Office of Refugee and Immigrant Assistance, the Attorney General’s Office, and representatives of the Governor’s Office. They will consult with immigration and child welfare experts and work to ensure uninterrupted access to education for affected children.

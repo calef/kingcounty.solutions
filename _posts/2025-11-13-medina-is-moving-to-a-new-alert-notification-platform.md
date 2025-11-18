@@ -13,6 +13,8 @@ original_markdown_body: "**The City of Medina is transitioning to a new alert an
   Notification System.** This change means we will no longer use our current system
   to send emergency alerts or routine city updates."
 summarized: true
+topics: []
+published: false
 ---
 
 The City of Medina is transitioning to the CivicPlus Mass Notification System for alerts and notifications. Residents are encouraged to sign up for this new system to continue receiving emergency alerts and city updates. The current system will be discontinued after August 30, 2025. To register, visit the Mass Notification System Sign-Up Page or text MedinaWA to 38276. For questions, residents can call the city’s office at (425) 233-6400.

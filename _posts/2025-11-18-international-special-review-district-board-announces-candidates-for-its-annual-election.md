@@ -13,6 +13,9 @@ original_markdown_body: The International Special Review District (ISRD) Board i
   to help guide the future of the Chinatown International District (CID). The election
   is conducted by ma...
 summarized: true
+topics:
+- Community & Social Services
+- Education & Learning
 ---
 
 The International Special Review District (ISRD) Board is inviting community members to participate in its annual board election, crucial for shaping the future of the Chinatown International District (CID). The election will be conducted via mail-in ballots, with a new deadline set for December 2, 2025, due to an error in the initially mailed ballots. New ballots and pre-stamped envelopes will be sent to registered voters, and voters are encouraged to return them promptly. Special office hours will be held on December 2 at Hing Hay Coworks for ballot submission and interpretation services.

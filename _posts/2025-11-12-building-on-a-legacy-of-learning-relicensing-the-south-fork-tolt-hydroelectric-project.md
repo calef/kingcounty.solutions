@@ -13,6 +13,8 @@ original_markdown_body: The Cascade foothills are home to the small but importan
   the project’s license with the Federal Energy Regulatory Commission (FERC). This
   process takes several years. A...
 summarized: true
+topics: []
+published: false
 ---
 
 The South Fork Tolt Hydroelectric Project, located in the Cascade foothills, is undergoing a license renewal with the Federal Energy Regulatory Commission (FERC). This lengthy process is crucial for maintaining the project’s operation and ensuring its contributions to energy generation and environmental stewardship continue into the future.

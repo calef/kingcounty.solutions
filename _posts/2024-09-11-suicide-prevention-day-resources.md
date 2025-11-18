@@ -74,6 +74,9 @@ original_content: "**Your Life Matters**\n\nSeptember is Suicide Prevention Mont
   Prevention Day resources](https://nami-eastside.org/suicide-prevention-day-resources/)
   appeared first on [Nami-Eastside WA](https://nami-eastside.org)."
 summarized: true
+topics:
+- Mental Health & Counseling
+- Employment & Job Support
 ---
 
 NAMI Eastside is raising awareness during Suicide Prevention Month by offering various resources and strategies to help those struggling with mental health issues. They emphasize that connection and community are integral to recovery, offering programs to educate about suicide prevention and signs of distress. Their services include a 24/7 suicide and crisis lifeline, specific resources for the LGBTQIA+ community, and free Mental Health First Aid courses. NAMI Eastside also organizes a Teen Mental Health Book Club and provides employment support, recognizing that stable, meaningful work can significantly impact mental health and suicide prevention.

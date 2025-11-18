@@ -99,6 +99,8 @@ original_markdown_body: "State revokes, suspends licenses, certifications, regis
   an osteopathic physician.\n\nOur [website](https://www.doh.wa.gov/) is your source
   for a healthy dose of information. Get updates by following us on [social media](https://doh.wa.gov/about-us/contact-us/social-media).\n\n###"
 summarized: true
+topics:
+- Health Care
 ---
 
 The Washington State Department of Health has revoked or suspended the licenses and certifications of several health care providers. This includes Shaun Clifton Stoops, whose nursing assistant credential was suspended due to physical abuse of a vulnerable adult; Kenny Duane Scribner, whose home care aide credential was suspended following charges of second-degree rape; and Benjamin Philip Johnson, whose nursing assistant credential was suspended for financial abuse. Additionally, Aman Kanti Patel's osteopathic physician credential was indefinitely suspended after his Texas medical license was revoked. The department also suspends the credentials of individuals prohibited from practicing in other states.

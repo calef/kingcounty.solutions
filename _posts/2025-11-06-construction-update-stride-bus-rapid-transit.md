@@ -11,6 +11,8 @@ original_markdown_body: You know Sound Transit for our Link light rail, Sounder 
   and ST Express bus service across the region, but a new high-capacity transit mode
   will also join the family as part of our voter-approved ST3 expansion.
 summarized: true
+topics:
+- Transportation & Mobility
 ---
 
 Sound Transit is launching the Stride bus rapid transit system, set to open in 2028 and 2029, connecting communities around Lake Washington. The S1, S2, and S3 lines will utilize dedicated bus lanes and transit priority measures to enhance travel times and efficiency. Key features include inline freeway stations, off-board payment systems, and frequent service every 10-15 minutes. The network spans approximately 48 miles with 25 stations and involves partnerships with local cities and WSDOT for infrastructure improvements. The fleet will include battery-electric buses, significantly reducing emissions and noise pollution. Construction is underway, with various contracts approved for development.

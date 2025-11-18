@@ -45,6 +45,8 @@ original_content: "**Notice: Town Council Vacancy**\n\n[Application for Appointm
   the minimum requirements of state law will be presented as part of the public meeting
   to select an appointee.\n\nThank you for your interest in serving our community."
 summarized: true
+topics: []
+published: false
 ---
 
 The Town of Yarrow Point is seeking applications from residents to fill a Town Council vacancy. The position, formerly held by Councilmember Michael Hyman, commences on December 9th, 2025, for a two-year term. Eligibility requires applicants to have resided within the town limits for at least a year prior to appointment and be a registered voter. Applications are due by November 28, 2025. The role entails an average commitment of 8 hours per month attending meetings, liaising with various regional boards, and serving on subcommittees. Some local or regional travel may be required.

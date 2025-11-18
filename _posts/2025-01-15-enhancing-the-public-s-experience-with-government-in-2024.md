@@ -23,6 +23,9 @@ original_markdown_body: |-
 
    ![](https://track.hubspot.com/__ptq.gif?a=532040&k=14&r=https%3A%2F%2Fblog.usa.gov%2Fenhancing-the-publics-experience-with-government-in-2024&bu=https%253A%252F%252Fblog.usa.gov&bvt=rss)
 summarized: true
+topics:
+- Disabilities
+- Community & Social Services
 ---
 
 The Public Experience (PX) Portfolio focused on improving government services in 2024. Key achievements included supporting the Department of State during global crises, enhancing the USAGov benefits finder tool, and effectively communicating vital information during hurricanes. They launched a new search feature on Search.gov, revamped a scam reporting tool, and implemented backend changes to improve user experience on USA.gov. Additionally, they prioritized accessibility for users with disabilities, achieving a 96.1% accessibility score. These efforts aimed to better connect citizens with government resources and information, setting a foundation for continued improvements in 2025.

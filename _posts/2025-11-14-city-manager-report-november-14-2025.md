@@ -26,6 +26,8 @@ original_markdown_body: City Council Meeting Roundup on Wednesday, November 12th
   Even with the approved increases, this agreement is still the most affordable option
   available to us for our short-term commitments.
 summarized: true
+topics: []
+published: false
 ---
 
 On November 12, 2025, the Normandy Park City Council met to discuss various actions. The City received a $750,000 Flood Control District grant for Marine View Park expansion. An updated Interlocal Agreement with SCORE Jail was approved to cover jail costs. The Council adopted updated Road Design and Construction Standards through Ordinances #1081 and #1082. Resident Tod Haggard was appointed to the Parks Commission. The first reading of Ordinance #1085 amended the 2025-2026 budget, while Resolution #1028 set the 2026 property tax levy rate at 1.60. Franchise agreements with Forged Fiber and Astound were also introduced.

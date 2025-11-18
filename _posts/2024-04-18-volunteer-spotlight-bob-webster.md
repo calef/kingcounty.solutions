@@ -108,6 +108,9 @@ original_content: "## Volunteer Spotlight: Bob Webster\n\n![Bob and Junyi share 
   **! To learn more about other ways to get involved, visit our** [**Take Action**](https://www.hopelink.org/take-action/)
   **page!** &nbsp;"
 summarized: true
+topics:
+- Education & Learning
+- Community & Social Services
 ---
 
 ```markdown

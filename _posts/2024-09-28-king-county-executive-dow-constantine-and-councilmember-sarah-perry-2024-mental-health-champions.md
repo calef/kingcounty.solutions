@@ -59,6 +59,9 @@ original_content: "_The Mental Health Champion Award Ceremony will be on October
   Dow Constantine and Councilmember Sarah Perry: 2024 Mental Health Champions](https://nami-eastside.org/2024-champions/)
   appeared first on [Nami-Eastside WA](https://nami-eastside.org)."
 summarized: true
+topics:
+- Mental Health & Counseling
+- Community & Social Services
 ---
 
 **NAMI Eastside 2024 Mental Health Champion Award Winners Announced**

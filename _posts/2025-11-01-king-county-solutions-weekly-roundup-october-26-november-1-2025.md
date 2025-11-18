@@ -5,28 +5,31 @@ source: King County Solutions
 summarized: true
 ---
 
-This week, King County Solutions published 15 posts, highlighting critical updates that impact our community. From food assistance amid a government shutdown to honoring the legacy of Tribal Elder Arlene Ventura, these stories reflect the resilience and support within our region.
+This week, King County Solutions published 9 posts, highlighting critical updates that affect our community. With the ongoing government shutdown impacting vital services, particularly SNAP benefits, community support is more crucial than ever. Additionally, we focus on health regulations, civic engagement opportunities, and honoring community leaders, all of which are essential for fostering a resilient and connected community.
 
-### Spotlight stories
-- **[What to Know About SNAP Benefits & the Government Shutdown](https://www.hopelink.org/blog/what-to-know-about-snap-benefits-and-the-government-shutdown/)**: With the government shutdown affecting SNAP benefits, Hopelink anticipates increased visits to its food markets. The organization is preparing to provide additional food and encourages community support through donations and volunteering.
-  
-- **[We share with prayers and sadness the passing of beloved Tribal Elder Arlene Mae Ventura](https://snoqualmietribe.us/we-share-with-prayers-and-sadness-the-passing-of-beloved-tribal-elder-arlene-mae-ventura/)**: The Snoqualmie Tribe announced the passing of Elder Ventura, with memorial services planned for November 6. The community is invited to honor her legacy during this time of mourning.
+### Community Support Amid Government Shutdown
+The government shutdown has significant implications for SNAP benefits, as detailed in [Hopelink's post](https://www.hopelink.org/blog/what-to-know-about-snap-benefits-and-the-government-shutdown/). Starting November 1, the Washington Department of Social & Human Services will be unable to administer these benefits, potentially affecting nearly 1 million residents. In response, Hopelink is preparing to expand its food markets to assist those in need and is calling for community support through donations and volunteering.
 
-- **[🎃 Don’t Get Spooked by Flood Season: Be Flood Ready This Halloween](https://kingcountyfloodcontrol.org/%f0%9f%8e%83-dont-get-spooked-by-flood-season-be-flood-ready-this-halloween/?utm_source=rss&utm_medium=rss&utm_campaign=%25f0%259f%258e%2583-dont-get-spooked-by-flood-season-be-flood-ready-this-halloween)**: As flood season approaches, the King County Flood Control District urges residents to prepare by knowing their flood risk and creating emergency plans. This proactive approach is crucial for community safety.
+To further aid those facing food insecurity, Hopelink has compiled a list of [food assistance resources](https://www.hopelink.org/blog/food-assistance-resources/) available across King County. This includes various community partners offering groceries and meals, ensuring that help is accessible to all who need it.
 
-### Community Support and Food Assistance
-With the government shutdown impacting SNAP benefits, local organizations like [Hopelink](https://www.hopelink.org/blog/what-to-know-about-snap-benefits-and-the-government-shutdown/) are stepping up to provide food assistance. They will offer additional food at their markets starting November 3, as many families face increased food insecurity. The community is encouraged to support these efforts through donations and volunteering. For more resources, check out [Food Assistance Resources](https://www.hopelink.org/blog/food-assistance-resources/), which lists various local food support options.
+### Health and Safety Regulations in Focus
+The Washington Department of Health has issued a notice regarding the potential denial of a license application for Peninsula Counseling due to regulatory issues. This situation underscores the importance of compliance in behavioral health services, as detailed in their [official announcement](https://doh.wa.gov/newsroom/department-health-issues-notice-intent-deny-license-application-behavioral-health-agency). Peninsula Counseling has 28 days to respond to the allegations, and updates will be provided as the situation develops.
 
-### Tribute to Tribal Elder Arlene Ventura
-The community is mourning the loss of [Tribal Elder Arlene Ventura](https://snoqualmietribe.us/we-share-with-prayers-and-sadness-the-passing-of-beloved-tribal-elder-arlene-mae-ventura/), who passed away on October 29. Her funeral services are scheduled for November 6, with a viewing on November 5. Ventura's legacy will be honored by many, reflecting her significant impact on the Snoqualmie Tribe and the broader community.
+In light of the upcoming flood season, the [King County Flood Control District](https://kingcountyfloodcontrol.org/%f0%9f%8e%83-dont-get-spooked-by-flood-season-be-flood-ready-this-halloween/?utm_source=rss&utm_medium=rss&utm_campaign=%25f0%259f%258e%2583-dont-get-spooked-by-flood-season-be-flood-ready-this-halloween) is urging residents to prepare. With flooding being the most common natural disaster in the area, residents are advised to understand their flood risk and take necessary precautions.
 
-### Environmental Preparedness and Safety
-As flood season approaches, the [King County Flood Control District](https://kingcountyfloodcontrol.org/%f0%9f%8e%83-dont-get-spooked-by-flood-season-be-flood-ready-this-halloween/?utm_source=rss&utm_medium=rss&utm_campaign=%25f0%259f%258e%2583-dont-get-spooked-by-flood-season-be-flood-ready-this-halloween) emphasizes the need for residents to prepare for potential flooding. Additionally, the [City of Normandy Park](https://normandyparkwa.gov/city-news/public-works/storm-debris-pickup/) has announced a storm debris yard waste pickup service, allowing residents to dispose of storm debris at no extra charge on designated dates.
+### Civic Engagement and Community Events
+The City of Burien is hosting an [ADA Transition Plan Open House](https://www.burienwa.gov/cms/One.aspx?portalId=11046019&pageId=20801695) on November 19, inviting community members to discuss pedestrian mobility and accessibility needs. This event is an excellent opportunity for residents to engage with local government and voice their concerns.
 
-### City Infrastructure and Planning
-The [City of Normandy Park](https://normandyparkwa.gov/city-news/city-manager/city-manager-report-october-31-2025/) is evaluating options for its aging City Hall, with potential renovation or new construction on the table. Meanwhile, the [City of Issaquah](https://www.commerce.wa.gov/cetcap-helps-city-of-issaquah-cut-ev-fleet-costs-by-12-using-federal-credit/) has successfully reduced costs for its electric vehicle fleet by 12% through federal credits, paving the way for future sustainability initiatives.
+Additionally, the [King Conservation District](https://kingcd.org/november-4-2025-board-of-supervisors-meeting-agenda-2/) will hold a Board of Supervisors meeting on November 4. This hybrid event allows for both in-person and remote participation, encouraging community involvement in conservation efforts.
+
+### Honoring Community Leaders
+The Snoqualmie Indian Tribe is honoring the life of Tribal Elder Arlene Ventura with memorial services scheduled for November 5 and 6. The community is invited to pay their respects, as detailed in the [Snoqualmie Tribe's announcement](https://snoqualmietribe.us/we-respectfully-share-these-details-about-the-upcoming-services-for-tribal-elder-arlene-ventura/).
+
+Furthermore, the [Sunshine Garden](https://cisc-seattle.org/sunshine-garden-activity-schedule-november/?utm_source=rss&utm_medium=rss&utm_campaign=sunshine-garden-activity-schedule-november) has released its activity schedule for November, providing culturally relevant programs for older adults that promote wellness and socialization.
 
 ### Other updates
-Additional updates include the [ADA Transition Plan Open House](https://www.burienwa.gov/cms/One.aspx?portalId=11046019&pageId=20801695) in Burien, the Department of Health's intent to deny a behavioral health agency's license application, and various meeting agendas and minutes from the King Conservation District. For details, visit the respective links.
+In addition to the main themes, the King Conservation District has published the [minutes from the September 9 Board of Supervisors meeting](https://kingcd.org/september-09-2025-board-of-supervisors-meeting-minutes/), although specific details regarding the discussions are not provided. 
+
+Stay informed and engaged, King County!
 
 We’ll continue to pull the most actionable updates from partner feeds each week. Let us know if there’s a topic you’d like covered in more depth.

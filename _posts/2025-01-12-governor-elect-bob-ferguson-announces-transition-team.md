@@ -84,6 +84,8 @@ original_content: |-
 
   Ferguson’s transition work has already begun, starting with last week’s announcement of his executive leadership team. Christian Sinderman will serve as Transition Coordinator. The Transition Team will meet for the first time on Friday, November 22. Updates will be shared with the public regularly as the process unfolds.
 summarized: true
+topics: []
+published: false
 ---
 
 Washington Governor-Elect Bob Ferguson has announced the formation of a Transition Team to ensure a seamless transition into the new administration. The team, comprising experienced professionals and community leaders from every region of the state, will assist with all aspects of transitioning, including developing strategies to implement Ferguson's key budget and policy priorities, recommending reforms to better deliver services, and identifying talented professionals for Ferguson's cabinet. The Transition Team will also work on strategies to safeguard Washingtonians from potential harms of another Trump administration and Project 2025. The team will meet for the first time on November 22.

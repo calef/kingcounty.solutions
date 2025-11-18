@@ -32,6 +32,9 @@ original_content: |-
 
   There are so many ways to enjoy September with KCLS. Join us!
 summarized: true
+topics:
+- Education & Learning
+- Community & Social Services
 ---
 
 In September 2024, King County Library System (KCLS) plans to host a range of events to celebrate the new school year, the last days of summer, and National Library Card Month. The activities include a library anniversary party, special author talks, an opera recital, and outdoor StoryWalks. They will also celebrate Welcoming Week and National Hispanic Heritage Month. KCLS is moving its 1 Million Reads Challenge to 3 Million Reads Challenge, encouraging patrons to keep tracking their reading minutes. The library is also hosting voter awareness and education programs ahead of the general election in November.

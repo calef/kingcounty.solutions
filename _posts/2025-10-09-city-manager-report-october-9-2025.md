@@ -9,6 +9,8 @@ original_content: 'Fall Checklist: Prevent Flooding and Protect Our Environment.
   flooding and protecting our local waterways. Here are a few simple steps to get
   your property ready for the season:'
 summarized: true
+topics: []
+published: false
 ---
 
 **Normandy Park City Manager Reports - Oct/Nov 2025**

@@ -29,6 +29,9 @@ original_content: "Hispanic Heritage Month is a time to honor the histories, cul
   Healthcare](https://snoqualmievalleyhealth.org/hispanic-heritage-month/) appeared
   first on [Snoqualmie Valley Hospital](https://snoqualmievalleyhealth.org)."
 summarized: true
+topics:
+- Health Care
+- Community & Social Services
 ---
 
 Snoqualmie Valley Health is celebrating Hispanic Heritage Month, honoring the contributions of Hispanic and Latino individuals to healthcare. The organization highlights figures like Dr. Antonia Novello, the first woman and Hispanic U.S. Surgeon General, who played a significant role in improving health outcomes for minority communities. The institution emphasizes the continuing role of Hispanic and Latino healthcare workers in providing culturally sensitive care and contributing to medical research and patient advocacy. The community is encouraged to engage in cultural events, explore stories of Hispanic contributions, and appreciate Hispanic healthcare providers during this month.

@@ -384,6 +384,9 @@ original_content: "## Additional Food Resources\n\n![Hopelink Food Resources 10.
   => {\n\t\t\t\tif (!elm.href.search(/^(http).+(hopelink.com).+$/)) {\n\t\t\t\t\telm.target
   = '_blank';\n\t\t\t\t\telm.title = 'Opens in a new tab';\n\t\t\t\t}\n\t\t\t});\n\t\t})();\n\t</script>"
 summarized: true
+topics:
+- Food & Nutrition
+- Community & Social Services
 ---
 
 ```markdown

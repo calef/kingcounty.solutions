@@ -34,6 +34,8 @@ original_content: |-
 
   &nbsp;
 summarized: true
+topics:
+- Education & Learning
 ---
 
 The King County Library System (KCLS) is hosting a variety of summer activities, including a Summer Reading Program encouraging patrons to track their reading minutes. KCLS is also hosting a Summer Reading in the Park event at Steel Lake Park in Federal Way on July 24. The Bellevue Library has reopened after a window replacement project, and the Carnation Library will celebrate its centennial on July 13. KCLS' Library2Go bookmobiles will visit local farmer's markets and participate in parades, providing access to books and other materials. Please note, KCLS libraries will be closed on July 4 for Independence Day.

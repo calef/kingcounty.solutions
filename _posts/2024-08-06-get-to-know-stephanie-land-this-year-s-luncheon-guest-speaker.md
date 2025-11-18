@@ -26,6 +26,10 @@ original_content: |-
 
   Tickets to attend Reaching Out Luncheon are [now available](https://www.hopelink.org/events/reaching-out-luncheon/).&nbsp;&nbsp;
 summarized: true
+topics:
+- Community & Social Services
+- Financial Assistance
+- Shelter & Housing
 ---
 
 Stephanie Land, author of 'Maid: Hard Work, Low Pay, and a Mother’s Will to Survive', will be the keynote speaker at Hopelink’s 29th Annual Reaching Out Luncheon on October 21. Land's memoir, which illustrates her journey from homelessness to becoming a celebrated writer, was adapted into an Emmy and Golden Globe-nominated Netflix series. The luncheon aims to raise $1 million to support Hopelink's growing impact in addressing poverty in north and east King County. Attendees will receive a copy of one of Land's books, and will also hear stories from residents who've partnered with Hopelink to exit poverty.

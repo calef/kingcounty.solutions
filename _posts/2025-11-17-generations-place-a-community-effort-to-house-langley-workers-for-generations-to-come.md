@@ -116,6 +116,9 @@ original_markdown_body: |-
 
   [You can learn more about Island Roots Housing on their website](https://islandrootshousing.org/).
 summarized: true
+topics:
+- Shelter & Housing
+- Community & Social Services
 ---
 
 Commerce, Island County, and the U.S. Department of Housing and Urban Development have funded the construction of 14 new homes at Generations Place in Langley, marking the first affordable housing development in 35 years. Initiated by Island Roots Housing, the project addresses the needs highlighted in Langley’s 2022 Housing Needs Assessment, where many residents face high housing costs. The homes will cater to those earning 60-80% of the area median income. The project aims to prevent homelessness and support families, with collaborative funding efforts from various state and local organizations. Island Roots plans to develop more affordable housing in the future.

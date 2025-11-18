@@ -13,6 +13,9 @@ original_markdown_body: Seattle Department of Neighborhoods (DON) is excited to 
   the Technology Matching Fund (TMF) grant program and application process.&nbsp;&nbsp;This
   collaboration aims to ...
 summarized: true
+topics:
+- Community & Social Services
+- Education & Learning
 ---
 
 The Seattle Department of Neighborhoods has partnered with Seattle Information Technology to enhance the Technology Matching Fund grant program and its application process. This initiative is designed to support community organizations by providing resources and funding to improve technology access and capacity. The partnership aims to foster greater engagement and innovation within Seattle’s neighborhoods through technology initiatives.

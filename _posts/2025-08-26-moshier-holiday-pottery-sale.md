@@ -7,6 +7,8 @@ original_content: "![](https://www.burienwa.gov/UserFiles/Servers/Server_1104593
   hundreds of items such as mugs, bowls, serving dishes, casseroles, garden art, jewelry,
   planters, and more at the annual Moshier Holiday Pottery Sale."
 summarized: true
+topics: []
+published: false
 ---
 
 The Moshier Community Art Center is hosting its biannual Moshier Holiday Pottery Sale on Saturday, December 6, 2025, from 10 a.m. to 3 p.m. at the Burien Community Center. The sale will feature hundreds of handmade items, including mugs, bowls, serving dishes, casseroles, garden art, jewelry, and planters. Attendees are encouraged to arrive early for the best selection and can make purchases using credit cards or cash.

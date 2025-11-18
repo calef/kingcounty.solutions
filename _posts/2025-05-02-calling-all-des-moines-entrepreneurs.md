@@ -14,6 +14,8 @@ original_markdown_body: |-
 
   Click [here](https://desmoineswa.hosted.civiclive.com/UserFiles/Servers/Server_17385004/File/2025%20Comcast%20Rise%20Fact%20Sheet.pdf "here")for more information.
 summarized: true
+topics:
+- Employment & Job Support
 ---
 
 Des Moines entrepreneurs can now apply for the #ComcastRISE grant program, which is open until May 31. Comcast will provide grant packages to 500 small businesses, with 100 available in King County. This initiative aims to support small businesses and help them thrive.

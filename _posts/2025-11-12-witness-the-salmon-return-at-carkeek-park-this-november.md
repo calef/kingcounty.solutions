@@ -12,6 +12,8 @@ original_markdown_body: It’s that time of year again! The much-anticipated Sal
   alive with the incredible journey of salmon returning to their home streams to spawn.
   You have a fron...
 summarized: true
+topics: []
+published: false
 ---
 
 This November, Seattle's Carkeek Park invites visitors to witness the annual salmon return, a remarkable event as salmon journey back to their spawning grounds. This seasonal phenomenon showcases the vibrant life of local waterways, highlighting the importance of salmon in the ecosystem. Visitors can enjoy educational programs and guided tours to learn more about this natural spectacle.

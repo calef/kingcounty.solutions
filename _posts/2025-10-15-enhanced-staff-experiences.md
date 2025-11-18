@@ -8,6 +8,8 @@ original_content: |-
 
   In 2026, we're building on this momentum. We're enhancing onboarding to foster deeper belonging and piloting innovative positions with on-the-job training and development. We’re also expanding beyond traditional career ladders to explore diverse pathways and alternative routes to promotion. Through all our staffing strategies, we remain committed to one goal: empowering every team member to thrive.&nbsp;
 summarized: true
+topics: []
+published: false
 ---
 
 In 2025, the King County Library System (KCLS) implemented key changes to improve staff experiences and responses to emergencies. These included standardizing emergency support, launching an alert system, and formalizing crisis debriefing procedures. The staff accommodation process was enhanced, and biannual regional librarian retreats were established. In addition, the Operational Staffing Support (OSS) program resolved staffing issues by allowing managers to fill shifts with substitutes across regions. Plans for 2026 include enhancing onboarding, piloting new on-the-job training positions, and exploring alternative career pathways. The ultimate goal is to empower every team member to thrive.

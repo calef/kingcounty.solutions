@@ -24,6 +24,8 @@ original_markdown_body: |-
 
    ![](https://track.hubspot.com/__ptq.gif?a=532040&k=14&r=https%3A%2F%2Fblog.usa.gov%2Fhow-our-developers-and-accessibility-specialists-work-together&bu=https%253A%252F%252Fblog.usa.gov&bvt=rss)
 summarized: true
+topics: []
+published: false
 ---
 
 Ensuring accessibility for USA.gov and USAGov en Español is a priority, with developers and accessibility specialists collaborating from project inception. This approach minimizes rework and delays. Accessibility experts guide developers on compliance with standards like WCAG and Section 508. They employ shared tools for designing and testing, including manual and automated evaluations to identify and address accessibility issues early. The teams work in sprints, refining tasks and maintaining communication to streamline development. Regular retrospectives foster continuous improvement, enhancing the collaborative relationship and ensuring government information remains accessible to all users.

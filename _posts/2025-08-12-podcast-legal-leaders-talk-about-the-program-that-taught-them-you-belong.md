@@ -28,6 +28,9 @@ original_content: |-
 
   The post [Podcast: Legal leaders talk about the program that taught them “you belong”](https://elap.org/podcast-legal-leaders-talk-about-the-program-that-taught-them-you-belong/) appeared first on [Eastside Legal Assistance Program](https://elap.org).
 summarized: true
+topics:
+- Education & Learning
+- Community & Social Services
 ---
 
 The Washington Leadership Institute (WLI), a project between the Washington Bar Association and the UW School of Law, released a podcast celebrating 20 years of fostering the next generation of legal leaders. The podcast series aims to share the knowledge, unity, and empowerment integral to WLI's programs. WLI connects established legal professionals with aspiring ones, particularly those from underrepresented backgrounds. The podcast features interviews with past graduates, recounting how WLI created a supportive network and inspired them to leadership. The podcast, titled "Voices that Move Us," is the project of WLI's 2025 graduating cohort and is available on Spotify, YouTube, and Apple Music.

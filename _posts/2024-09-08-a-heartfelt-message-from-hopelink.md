@@ -29,6 +29,10 @@ original_content: |-
 
   _The Hopelink Board of Directors has appointed Chief Operating Officer Meghan Altimore as Interim CEO. All Hopelink services will continue while Hopelink provides grief support for its staff. Community members who wish to send sympathies may do so on this&nbsp;[**online memorial**](https://www.kudoboard.com/boards/HnLFTSx4)._
 summarized: true
+topics:
+- Community & Social Services
+- Financial Assistance
+- Employment & Job Support
 ---
 
 Hopelink, a non-profit organization, announced the passing of its CEO, Geoff Crump. Known for his dedication to serving the community, he spent over 20 years fighting poverty. He began his tenure with Hopelink in 2004, eventually becoming CEO. Under his leadership, Hopelink expanded its services, reaching hundreds of thousands of people. The Hopelink community mourns his loss and remembers him for his dedication to ending poverty and advocating for his staff. Chief Operating Officer Meghan Altimore has been appointed as Interim CEO. The organization continues to provide services and support for its staff during this grieving period.

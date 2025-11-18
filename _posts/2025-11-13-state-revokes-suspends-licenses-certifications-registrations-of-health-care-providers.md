@@ -175,6 +175,9 @@ original_markdown_body: "State revokes, suspends licenses, certifications, regis
   for information.\n\nOur [website](https://www.doh.wa.gov/) is your source for a
   healthy dose of information. Get updates by following us on [social media](https://doh.wa.gov/about-us/contact-us/social-media).\n\n###"
 summarized: true
+topics:
+- Health Care
+- Mental Health & Counseling
 ---
 
 The Washington State Department of Health has revoked or suspended the licenses and certifications of several health care providers due to serious misconduct, including abuse of vulnerable adults and substance misuse. Notable cases include Wendy Amelia Kurinzi and Constance M. Morris, both suspended for abuse, and others facing similar actions across various counties. Some providers are barred from practicing due to being placed on the long-term care abuse and neglect registry. The department emphasizes the importance of reporting unprofessional conduct by health care providers. Further details can be found through the department's resources.

@@ -18,6 +18,10 @@ original_content: |-
 
   The post [Welcome Bianca and Deyanira](https://elap.org/welcome-bianca-and-deyanira/) appeared first on [Eastside Legal Assistance Program](https://elap.org).
 summarized: true
+topics:
+- Community & Social Services
+- Domestic Violence
+- Employment & Job Support
 ---
 
 The Eastside Legal Assistance Program (ELAP) has added two Bilingual Legal Services Coordinators to its team. Bianca Reynaga, who previously worked at the Washington State Department of Social and Health Services, joined in June. Deyanira Armenta Gonzalez, who has experience as a Domestic Violence Case Manager for Consejo Counseling & Referral Services, is the latest addition. They will manage intakes and referrals for Spanish-speaking clients, use interpreter services for non-native English speakers, and liaise with community partners. They will also handle case management tasks like obtaining client documents, sending out reminders and surveys, and entering case notes into the legal database.

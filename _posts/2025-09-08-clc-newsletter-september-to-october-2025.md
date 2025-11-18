@@ -12,6 +12,12 @@ original_content: |-
 
   The post [CLC Newsletter – September to October 2025](https://cisc-seattle.org/clc-newsletter-september-to-october-2025/) appeared first on [Chinese Information and Service Center](https://cisc-seattle.org).
 summarized: true
+topics:
+- Community & Social Services
+- Education & Learning
+- Health Care
+- Mental Health & Counseling
+- Personal & Household Needs
 ---
 
 The Community Living Connections (CLC) network, in which CISC is a provider, periodically releases a newsletter for older adults in King County. The September to October 2025 edition of the CLC newsletter is now available. The newsletter aims to provide valuable information and resources for older adults.

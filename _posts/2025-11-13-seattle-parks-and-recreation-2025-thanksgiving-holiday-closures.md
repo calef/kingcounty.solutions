@@ -12,6 +12,8 @@ original_markdown_body: 'Many Seattle Parks and Recreation facilities will be cl
   and services are CLOSED on both Thursday, Nov. 27 and Friday, Nov. 28: These facilities
   are OPEN regular hours:...'
 summarized: true
+topics: []
+published: false
 ---
 
 Many Seattle Parks and Recreation facilities will be closed for one or more days during the Thanksgiving holiday. Specifically, these facilities and services will be closed on Thursday, Nov. 27, and Friday, Nov. 28. However, some facilities will remain open during their regular hours.

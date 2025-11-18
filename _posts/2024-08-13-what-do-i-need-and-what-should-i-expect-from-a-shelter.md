@@ -58,6 +58,9 @@ original_content: "There are many reasons people need to find shelters; for exam
   from a shelter?](https://www.crisisconnections.org/what-do-i-need-and-what-should-i-expect-from-a-shelter/)
   appeared first on [Crisis Connections](https://www.crisisconnections.org)."
 summarized: true
+topics:
+- Shelter & Housing
+- Community & Social Services
 ---
 
 Hemergency shelters, transitional housing, rapid re-housing, and permanent supportive housing are primary housing/shelter options for the homeless. Emergency shelters are typically for short-term support, while transitional housing allows for a stay of up to two years. Rapid re-housing helps people return to permanent housing, and permanent supportive housing provides indefinite stay for those needing comprehensive support services. Resources like the United States Department of Housing and Urban Development’s locator tool and 211 can help find nearby programs. Once a suitable place is found, individuals need to contact the shelter for availability and possibly undergo an assessment. If full, some shelters maintain a waitlist.

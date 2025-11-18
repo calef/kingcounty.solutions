@@ -23,6 +23,9 @@ original_content: "![](https://sophiaway.org/wp-content/uploads/2025/01/NL-image
   made me realize that I do matter!”  \n> – Rachel\n\n> \n\nThe post [Gratitude](https://sophiaway.org/gratitude-ny/)
   first appeared on [The Sophia Way](https://sophiaway.org)."
 summarized: true
+topics:
+- Community & Social Services
+- Shelter & Housing
 ---
 
 The Sophia Way, a community organization, expressed gratitude for the support received in helping homeless women on the Eastside. In 2024, the organization provided shelter and safety for over 500 women, and helped over 120 women find a stable home. The organization plans to continue supporting over 400 women annually in 2025. This goal will require the combined efforts of staff, partners, and community, aiming to provide women with safe shelter, personalized case management, and resources to empower them towards stability. The organization appreciates the community’s belief in their mission and their continued support.

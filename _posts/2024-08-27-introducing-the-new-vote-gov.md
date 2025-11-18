@@ -25,6 +25,8 @@ original_markdown_body: |-
 
    ![](https://track.hubspot.com/__ptq.gif?a=532040&k=14&r=https%3A%2F%2Fblog.usa.gov%2Fintroducing-the-new-vote.gov&bu=https%253A%252F%252Fblog.usa.gov&bvt=rss)
 summarized: true
+topics: []
+published: false
 ---
 
 The updated vote.gov, launched in 2016, now features a modern design with enhanced accessibility and expanded voter information. It is available in 19 languages, covering 96% of the American population, following Executive Order 14019 aimed at improving voting access. The site offers guidance on the registration and voting process and directs users to their state election websites for specific information. These changes reflect feedback from voters and aim to facilitate a better voting experience.

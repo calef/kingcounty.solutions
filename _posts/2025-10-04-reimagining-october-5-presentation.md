@@ -114,6 +114,8 @@ original_content: "<section class=\"elementor-section elementor-top-section elem
   post [Reimagining October 5 Presentation](https://redmondumc.org/reimagining-october-5-presentation/)
   appeared first on [Redmond United Methodist Church](https://redmondumc.org)."
 summarized: true
+topics: []
+published: false
 ---
 
 I'm sorry, but it's not possible to summarize the article as there's no content available on the given URL.

@@ -40,6 +40,9 @@ original_content: |-
 
   _Empower Youth Network (EYN) thanks Fischer Jeanes for all his service over the years to empower and inspire youth in Snoqualmie Valley. EYN wishes him all the best in his studies at Bellingham Technical College._
 summarized: true
+topics:
+- Education & Learning
+- Employment & Job Support
 ---
 
 Fischer Jeanes, a 2024 graduate from Cedarcrest High School, is a recipient of the Tanner Electric Cooperative Scholarship. Over the summer, he set up his apartment and is planning to work part-time as a deckhand while attending Bellingham Technical College (BTC) for an AAS Electrician program. The program involves hands-on lab training and classroom instruction, after which he will go into a paid electrician apprenticeship. Fischer emphasizes the importance of vocational schools and the opportunities they offer. He encourages future graduates to explore trades and skilled work, and to make use of the resources and programs available on technical school websites.

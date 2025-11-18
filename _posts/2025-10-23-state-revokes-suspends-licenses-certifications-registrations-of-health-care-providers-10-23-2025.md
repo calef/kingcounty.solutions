@@ -122,6 +122,9 @@ original_markdown_body: "State revokes, suspends licenses, certifications, regis
   is your source for a healthy dose of information. Get updates by following us on
   [social media](https://doh.wa.gov/about-us/contact-us/social-media).\n\n###"
 summarized: true
+topics:
+- Health Care
+- Community & Social Services
 ---
 
 The Washington State Department of Health has revoked or suspended the licenses and certifications of several health care providers due to serious misconduct, including financial exploitation and neglect of vulnerable adults. Key cases include Jose Antonio Vasquez and Nicole Jean Barrera, both suspended for exploiting vulnerable adults, and Daniel Kamau Joseph, who faced suspension for inappropriate conduct. Other providers, such as Ashley Leighann Heppner and Johnshia Juetaun Chatman, were also suspended for similar offenses. The department aims to ensure the safety and well-being of vulnerable populations through these actions.

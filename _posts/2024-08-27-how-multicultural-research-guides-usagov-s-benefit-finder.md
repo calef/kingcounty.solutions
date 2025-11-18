@@ -29,6 +29,10 @@ original_markdown_body: |-
 
    ![](https://track.hubspot.com/__ptq.gif?a=532040&k=14&r=https%3A%2F%2Fblog.usa.gov%2Fhow-multicultural-research-guides-usagovs-benefit-finder&bu=https%253A%252F%252Fblog.usa.gov&bvt=rss)
 summarized: true
+topics:
+- Community & Social Services
+- Education & Learning
+- Employment & Job Support
 ---
 
 USAGov's benefit finder is being developed to better serve Spanish-speaking users through transcreation rather than direct translation. A bilingual team conducts iterative user research, focusing on cultural nuances and mobile usability. Employing ABC testing, multiple content versions are evaluated to gather diverse feedback. Recruitment emphasizes inclusivity, engaging a wide array of Spanish speakers and underrepresented groups. Challenges include onboarding complexities and the tendency of some Spanish speakers to prefer English websites. Ongoing research efforts aim to refine the benefit finder’s effectiveness, ensuring it meets the needs of all users seeking government benefits.

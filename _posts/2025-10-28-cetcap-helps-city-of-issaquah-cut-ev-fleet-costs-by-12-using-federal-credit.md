@@ -30,6 +30,8 @@ original_content: "![Issaquah city EV vehicle](https://www.commerce.wa.gov/wp-co
   assistance for hundreds of projects.\n\n![Lawyers for Good Government logo](https://www.commerce.wa.gov/wp-content/uploads/2025/10/l4gg-color.png)\n\n![Giraffe
   logo](https://www.commerce.wa.gov/wp-content/uploads/2025/10/giraffe-logo-purple.png)"
 summarized: true
+topics: []
+published: false
 ---
 
 The City of Issaquah, in partnership with the Washington Clean Energy Tax Credit Assistance Program (CETCAP), Lawyers for Good Government, and Giraffe Financial, has managed to cut their electric vehicle (EV) fleet costs by 12% using federal credit. The city filed for $52,200, representing 12% of the total project cost, by qualifying for the Internal Revenue 45W: commercial clean vehicle credit. The funding has sparked discussions about expanding the city's EV fleet, installing charging stations, and developing solar projects. The city plans to submit more applications for these initiatives in 2026.

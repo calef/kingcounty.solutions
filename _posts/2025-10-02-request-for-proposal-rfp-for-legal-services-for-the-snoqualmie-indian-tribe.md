@@ -47,6 +47,8 @@ original_content: "The Tribe seeks to retain the services of an experienced law 
   at the above address.\n\n[Download the full RFP with additional information (PDF
   Format)](https://snoqualmietribe.us/wp-content/uploads/2025/10/Snoqualmie-Legal-Services-RFP.pdf)"
 summarized: true
+topics: []
+published: false
 ---
 
 The Snoqualmie Indian Tribe has issued a Request for Proposal (RFP) for legal services. The Tribe is seeking an experienced law firm to provide a wide range of legal services for a three-year term, including but not limited to business law, civil litigation, criminal law, and environmental law. The chosen firm will serve as the Tribe’s primary legal resource and must be licensed to practice law in Washington State. Proposals must be submitted by 5PM Pacific Standard Time on October 31, 2025. Amber Holloway will serve as the primary contact for the review process for the proposals.

@@ -91,6 +91,11 @@ original_content: "## **Highlights from the 29<sup>th</sup> Annual Reaching Out 
   programs and services. Details for the 30__<sup>th</sup>_ _Annual Reaching Out Luncheon
   in October 2025 will be announced in coming months._&nbsp;"
 summarized: true
+topics:
+- Community & Social Services
+- Education & Learning
+- Employment & Job Support
+- Financial Assistance
 ---
 
 Hopelink's 29th Annual Reaching Out Luncheon celebrated the power of storytelling and the value of individual experiences. It highlighted the organization's mission to combat poverty, showcasing stories of resilience and determination from program participants. Victor Londoño Quintero, Hopelink's NEMT Contracts Manager, shared his journey from an English for Work participant to a leadership role. Keynote speaker, Stephanie Land, author of 'Maid: Hard Work, Low Pay, and a Mother’s Will to Survive', shared her experiences of poverty as a single mother in Washington State. The event also featured a book signing by Land and emphasized the importance of community support in the fight against poverty.

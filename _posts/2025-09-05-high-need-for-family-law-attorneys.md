@@ -16,6 +16,10 @@ original_content: |-
 
   The post [High need for family law attorneys](https://elap.org/high-need-for-family-law-attorneys/) appeared first on [Eastside Legal Assistance Program](https://elap.org).
 summarized: true
+topics:
+- Community & Social Services
+- Domestic Violence
+- Financial Assistance
 ---
 
 ELAP (Eastside Legal Assistance Program) is facing a high demand for family law attorneys and is unable to meet the current need in its virtual family law clinics. The organization is calling for pro bono attorneys to volunteer 1-3 hours per month from their home or office. ELAP provides on-boarding and ongoing support to volunteers. By volunteering, attorneys would be providing free legal aid to those in King County who cannot afford a lawyer. Those interested in volunteering can sign up on the ELAP website.

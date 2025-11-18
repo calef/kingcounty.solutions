@@ -14,6 +14,8 @@ original_markdown_body: |-
 
   That’s because we’re making big investments to make it easier to take Sounder, Sound Transit’s popular regional train service that celebrated its 25th anniversary this fall.
 summarized: true
+topics:
+- Transportation & Mobility
 ---
 
 Construction is underway for new parking garages at Sumner, Auburn, and Kent stations, enhancing access for Sound Transit riders. The Sumner Station garage will feature 600 stalls and electric vehicle charging, with expected completion in 2026. Auburn's new six-story garage will provide 675 spaces, opening in early 2027, and will include artwork by local artist Samuel Obrovac. Kent's four-story garage will have 465 spaces and is scheduled for spring 2027. These projects aim to improve mobility and safety, incorporating pedestrian and bicycle enhancements around the stations.

@@ -179,6 +179,9 @@ original_content: "[![Photo of 2024 Rise and Shine award recipients.](https://em
   positive, collaborative leadership that has given Empower Youth Network its wings.\n\n[soliloquy
   id=”5955″]"
 summarized: true
+topics:
+- Community & Social Services
+- Education & Learning
 ---
 
 The Empower Youth Network held its 27th annual Rise and Shine breakfast on June 5, 2024, to celebrate the invaluable volunteer efforts of community members. Award recipients included Zach Llenza, Karis Paul, and Jan Formisano among others. The award categories spanned youth nominees, volunteer nominees, business nominees, and community nominees. Notably, Karis Paul was awarded a $9,000 Healthy Youth grant for her contribution to substance abuse educational events. Businesses like Remlinger Farms and The Giving Canvas were also recognized for their roles in empowering the youth. Laura Smith, the Executive Director of Empower Youth Network since 2012, was nominated for the Lifetime Achievement Award.

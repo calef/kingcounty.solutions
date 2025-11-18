@@ -9,6 +9,8 @@ original_content: |-
 original_markdown_body: Sponsored by the Medina Police Department, this event is held
   from 9am to 12 noon at the Medina Park parking lot located on NE 12th St.
 summarized: true
+topics: []
+published: false
 ---
 
 The Medina Police Department is hosting a semi-annual Spring Shredder Day on April 19th, from 9 AM to 12 noon. The event will take place at the Medina Park parking lot on NE 12th St.

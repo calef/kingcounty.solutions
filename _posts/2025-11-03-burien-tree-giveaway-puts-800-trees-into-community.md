@@ -6,6 +6,8 @@ source_url: https://kingcd.org/burien-tree-giveaway-puts-800-trees-into-communit
 original_content: On an overcast Saturday in October, hundreds of Burien residents
   stopped by Hilltop Park to pick up free trees. More … [Continued](https://kingcd.org/burien-tree-giveaway-puts-800-trees-into-community/)
 summarized: true
+topics: []
+published: false
 ---
 
 In a move to increase its tree canopy from 30% to 40% by 2038, the City of Burien, in collaboration with KCD, gave away over 800 trees to more than 400 residents. The giveaway, which took place at Hilltop Park in October, offered 15 varieties of native, near-native, and fruiting trees. While these efforts often occur on public land, this project encouraged new plantings on private property. Trees improve community health by enhancing water quality, reducing flooding, providing shade, and increasing happiness. They also provide habitat and food for wildlife. Missed participants were directed to KCD's Native Plant Sale to purchase trees.

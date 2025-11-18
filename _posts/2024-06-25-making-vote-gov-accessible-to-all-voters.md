@@ -39,6 +39,9 @@ original_markdown_body: |-
 
    ![](https://track.hubspot.com/__ptq.gif?a=532040&k=14&r=https%3A%2F%2Fblog.usa.gov%2Fmaking-vote.gov-accessible-to-all-voters&bu=https%253A%252F%252Fblog.usa.gov&bvt=rss)
 summarized: true
+topics:
+- Disabilities
+- Education & Learning
 ---
 
 Federal laws protect voting rights for people with disabilities, yet barriers persist, resulting in lower voting rates. After the 2022 midterms, the Election Assistance Commission reported that if disabled voters had participated at the same rate as others, 2 million more votes could have been cast. To enhance accessibility, vote.gov is improving its website design, including screen reader compatibility and a digital form filler tool for voter registration. Collaboration with disability advocacy groups and ongoing user testing will continue to inform these developments, ensuring all voters can access their voting rights and options effectively.

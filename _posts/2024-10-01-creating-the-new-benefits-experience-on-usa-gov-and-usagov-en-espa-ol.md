@@ -32,6 +32,11 @@ original_markdown_body: |-
 
    ![](https://track.hubspot.com/__ptq.gif?a=532040&k=14&r=https%3A%2F%2Fblog.usa.gov%2Fcreating-the-new-benefits-experience-on-usa.gov-and-usagov-en-espa%C3%B1ol&bu=https%253A%252F%252Fblog.usa.gov&bvt=rss)
 summarized: true
+topics:
+- Health Care
+- Food & Nutrition
+- Financial Assistance
+- Shelter & Housing
 ---
 
 The new benefits experience on USA.gov and USAGov en Español features a redesigned benefit finder tool, streamlining access to government benefits for health care, housing, food, and unemployment. This update follows the closure of Benefits.gov and related sites, transitioning federal benefits information to USAGov. A dedicated product team conducted a content audit, prioritized topics, and created new materials while implementing a redirect plan for over 1,500 pages. Usability testing led to improvements in content structure and the addition of a category filter. The team continues to analyze user data to enhance personalization and accessibility of benefits information.

@@ -12,6 +12,8 @@ original_markdown_body: Seattle police officers arrested two teens, 15 and 17, f
   officers responded to an armed carjacking by multiple suspects in the 6200 block
   of Northeast Radford Drive. ...
 summarized: true
+topics: []
+published: false
 ---
 
 Seattle police arrested two teenagers, aged 15 and 17, for armed carjacking in North Seattle on November 8. The incident occurred around 9:30 p.m. when officers responded to reports of an armed carjacking involving multiple suspects in the 6200 block of Northeast Radford Drive.

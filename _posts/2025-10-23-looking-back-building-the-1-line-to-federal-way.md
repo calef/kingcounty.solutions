@@ -13,6 +13,8 @@ original_markdown_body: It’s been a long journey from groundbreaking to nearly
   Des Moines, Star Lake, and Federal Way Downtown](https://www.soundtransit.org/southkinglink),
   we’re taking a look back at the years of progress that brought us here.&nbsp;
 summarized: true
+topics:
+- Transportation & Mobility
 ---
 
 Sound Transit is nearing the completion of the 1 Line extension to Federal Way, set to open on December 6, 2025. The project began with a virtual groundbreaking in July 2020 and has faced challenges, including a landslide that necessitated the construction of Structure C, a long-span bridge. The extension adds nearly eight miles of elevated tracks and 3,200 parking spaces, enhancing connectivity from Federal Way to Lynnwood. As of 2025, significant milestones have been achieved, including the opening of a new bus loop and the commencement of train testing, celebrating the hard work of involved teams.

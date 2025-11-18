@@ -25,6 +25,9 @@ original_markdown_body: |-
 
    ![](https://track.hubspot.com/__ptq.gif?a=532040&k=14&r=https%3A%2F%2Fblog.usa.gov%2Fdesigning-for-people-with-disabilities&bu=https%253A%252F%252Fblog.usa.gov&bvt=rss)
 summarized: true
+topics:
+- Disabilities
+- Community & Social Services
 ---
 
 The Public Experience Portfolio's UX team conducted a study to better understand the needs of the disability community regarding accessibility on USA.gov. Engaging a diverse group using assistive technology, they identified key habits, such as a preference for familiar sites and mobile formats. The study confirmed the importance of clear headings, specific link descriptions, and matching accessible names with on-screen text. They emphasized using ARIA labels to improve navigation for assistive technology users. The findings will guide future improvements in product design and enhance government service accessibility for all users.

@@ -5,6 +5,10 @@ source: King Conservation District
 source_url: https://kingcd.org/september-09-2025-board-of-supervisors-meeting-minutes/
 original_content: 2025\_09\_09 KCD BOS Meeting Minutes
 summarized: true
+topics:
+- Community & Social Services
+- Education & Learning
+- Food & Nutrition
 ---
 
 The article does not provide specific information or content regarding the King Conservation District (KCD) Board of Supervisors meeting that took place on September 09, 2025. The text only mentions several categories and tags related to the organization's activities, such as community agriculture, education, forestry, grants, and regional food system program. There's a reference to native plant sales and orca recovery day, but no details about the meeting's agenda, discussion points, decisions, or outcomes. An image or more detailed information from the text is not provided.

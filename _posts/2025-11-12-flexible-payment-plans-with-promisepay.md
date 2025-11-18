@@ -12,6 +12,8 @@ original_markdown_body: Paying your utility bill just got easier.&nbsp;&nbsp; Se
   catch up on past-due balances and stay current, with no fees, no interest, and no
   late fees. PromisePay gives...
 summarized: true
+topics:
+- Financial Assistance
 ---
 
 Seattle Public Utilities (SPU) has introduced PromisePay, a long-term payment plan designed to help customers manage past-due utility bills. This program allows users to catch up on overdue balances while remaining current on future payments. PromisePay features no fees, no interest, and no late fees, making it a flexible option for those in need of financial assistance.

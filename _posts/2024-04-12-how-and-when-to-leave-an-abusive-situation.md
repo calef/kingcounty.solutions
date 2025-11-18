@@ -82,6 +82,8 @@ original_content: |-
 
   The post [How and When to Leave an Abusive Situation](https://www.crisisconnections.org/how-and-when-to-leave-an-abusive-situation/) appeared first on [Crisis Connections](https://www.crisisconnections.org).
 summarized: true
+topics:
+- Domestic Violence
 ---
 
 Identifying and escaping an abusive situation can be challenging, but support is available. Recognizing signs of abuse can be complex, but organizations like New Beginnings provide resources for identification. Leaving an abusive situation requires careful planning with privacy and security in mind. Multiple hotlines and websites offer help in creating a safety plan. Children can accompany parents to shelters, and emergency custody may be feasible. Programs exist to foster pets during the transition. Numerous helplines and resources, such as the National Domestic Violence Hotline and DV Hopeline, are available 24/7. Legal assistance is available through organizations like WomensLaw and the Northwest Justice Project.

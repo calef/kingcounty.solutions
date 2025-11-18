@@ -10,6 +10,9 @@ original_content: |-
 
   The post [King County Diversity and Recruitment Workshop](https://www.vrfa.org/2025/10/king-county-diversity-and-recruitment-workshop/) appeared first on [Valley Regional Fire Authority (VRFA)](https://www.vrfa.org).
 summarized: true
+topics:
+- Employment & Job Support
+- Community & Social Services
 ---
 
 **King County Diversity and Recruitment Workshop**

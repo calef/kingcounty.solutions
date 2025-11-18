@@ -170,6 +170,8 @@ original_markdown_body: "State disciplines health care providers (10-20-2025)\n<
   is your source for a healthy dose of information. Get updates by following us on
   [social media](https://doh.wa.gov/about-us/contact-us/social-media).\n\n###"
 summarized: true
+topics:
+- Health Care
 ---
 
 The Washington State Department of Health has disciplined various health care providers, including withdrawing charges against some. Key cases include massage therapist Kyle Stephen Pierce, who pleaded guilty to indecent liberties, and Elizabeth Aleman, ordered to cease unlicensed practice. Other actions included the denial of applications and charges against providers for unprofessional conduct or failing to disclose criminal history. The department emphasizes that consumers can report unprofessional behavior, and providers have 20 days to respond to charges. Information on disciplinary actions and provider statuses is available on the department's website.

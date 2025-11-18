@@ -11,6 +11,8 @@ original_content: Help Shape the Future of Normandy Park’s Roads. Public Heari
   renovates a road, the design is safe, consistent, and supports the needs of our
   community.
 summarized: true
+topics: []
+published: false
 ---
 
 The City of Normandy Park is updating its Road Design and Construction Standards and is seeking public opinion before making any decisions. The standards will impact roadways, sidewalks, street layouts, bike paths, and landscaping. A public hearing will be held on October 14, 2025, where residents can attend in person or virtually to contribute comments. In other news, the city is also discussing the future of the City Hall, which was originally built in the 1950s and later converted to City Hall in the late 1980s. Lastly, the city is looking to improve cell service by modernizing the City Code to allow wireless providers to install additional infrastructure.
