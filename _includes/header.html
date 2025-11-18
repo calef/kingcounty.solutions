@@ -14,44 +14,29 @@
       </label>
 
       <div class="trigger">
+        <div class="site-search" role="search">
+          <label class="sr-only" for="site-search-input">Search the site</label>
+          <div class="site-search-control">
+            <input
+              type="search"
+              id="site-search-input"
+              name="site-search-input"
+              placeholder="Search {{ site.title }}"
+              autocomplete="off"
+              autocapitalize="none"
+              spellcheck="false"
+              aria-describedby="site-search-status"
+            >
+            <button type="button" id="site-search-clear" class="site-search-clear" aria-label="Clear search" hidden>&times;</button>
+          </div>
+          <div class="site-search-results" hidden>
+            <p class="site-search-status" id="site-search-status" aria-live="polite"></p>
+            <ul class="site-search-list" id="site-search-list"></ul>
+          </div>
+        </div>
         <a class="page-link" href="{{ '/organizations/' | relative_url }}">Organizations</a>
         <a class="page-link" href="{{ '/places/' | relative_url }}">Places</a>
         <a class="page-link" href="{{ '/topics/' | relative_url }}">Topics</a>
-        <div class="site-search">
-          <button type="button" id="site-search-toggle" class="site-search-toggle" aria-expanded="false" aria-controls="site-search-panel">
-            <svg viewBox="0 0 24 24" width="18" height="18" aria-hidden="true" focusable="false">
-              <path fill="currentColor" d="M15.5 14h-.79l-.28-.27A6 6 0 1014 15.5l.27.28v.79l5 5L20.5 19zm-6 0A4.5 4.5 0 1114 9.5 4.5 4.5 0 019.5 14z"/>
-            </svg>
-            <span>Search</span>
-          </button>
-          <div class="site-search-panel" id="site-search-panel" hidden>
-            <div class="site-search-panel-inner">
-              <div class="site-search-panel-header">
-                <h2>Search the site</h2>
-                <button type="button" id="site-search-close" class="site-search-close" aria-label="Close search">&times;</button>
-              </div>
-              <div class="site-search-control">
-                <input
-                  type="search"
-                  id="site-search-input"
-                  name="site-search-input"
-                  placeholder="Search pages, news, organizations, places, and topics"
-                  autocomplete="off"
-                  autocapitalize="none"
-                  spellcheck="false"
-                  aria-describedby="site-search-status"
-                >
-                <button type="button" id="site-search-clear" class="site-search-clear" aria-label="Clear search" hidden>&times;</button>
-              </div>
-              <div class="site-search-results">
-                <p class="site-search-status" id="site-search-status" aria-live="polite">
-                  Type at least 2 characters to search the whole site.
-                </p>
-                <ul class="site-search-list" id="site-search-list"></ul>
-              </div>
-            </div>
-          </div>
-        </div>
       </div>
     </nav>
   </div>
@@ -61,74 +46,22 @@
 .site-search {
   position: relative;
   display: inline-block;
-  margin-left: 0.75rem;
-}
-.site-search-toggle {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.35rem;
-  border: 1px solid #d0d0d0;
-  border-radius: 999px;
-  padding: 0.25rem 0.75rem;
-  background: transparent;
-  color: inherit;
-  font-size: 0.9rem;
-  cursor: pointer;
-}
-.site-search-toggle:hover,
-.site-search-toggle:focus {
-  border-color: #0366d6;
-  color: #0366d6;
-  outline: none;
-}
-.site-search-panel {
-  position: fixed;
-  top: 0;
-  left: 0;
-  right: 0;
-  bottom: 0;
-  background: rgba(0, 0, 0, 0.45);
-  z-index: 1000;
-}
-.site-search-panel-inner {
-  position: absolute;
-  top: 10%;
-  left: 50%;
-  transform: translateX(-50%);
-  width: min(640px, 90vw);
-  background: #fff;
-  border-radius: 0.75rem;
-  box-shadow: 0 10px 50px rgba(0, 0, 0, 0.2);
-  padding: 1.25rem;
-}
-.site-search-panel-header {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-  margin-bottom: 0.75rem;
-}
-.site-search-panel-header h2 {
-  margin: 0;
-  font-size: 1.1rem;
-}
-.site-search-close {
-  border: none;
-  background: transparent;
-  font-size: 1.5rem;
-  line-height: 1;
-  cursor: pointer;
-  color: #555;
+  margin: 0 1rem 0 0;
+  max-width: none;
+  width: 100%;
+  flex: 1 1 auto;
+  white-space: nowrap;
 }
 .site-search-control {
   position: relative;
-  margin-bottom: 0.75rem;
+  margin-bottom: 0.4rem;
 }
 .site-search-control input {
   width: 100%;
-  padding: 0.75rem 2.75rem 0.75rem 0.75rem;
-  border: 1px solid #ccc;
-  border-radius: 0.45rem;
-  font-size: 1rem;
+  padding: 0.55rem 2.25rem 0.55rem 0.75rem;
+  border-radius: 999px;
+  border: 1px solid #d0d0d0;
+  font-size: 0.9rem;
 }
 .site-search-control input:focus {
   outline: none;
@@ -148,7 +81,17 @@
   color: #666;
 }
 .site-search-results {
-  max-height: 50vh;
+  position: fixed;
+  left: var(--site-search-left, 0);
+  top: var(--site-search-top, 0);
+  width: var(--site-search-width, 75vw);
+  z-index: 10;
+  background: #fff;
+  border: 1px solid #e0e0e0;
+  border-radius: 0.6rem;
+  box-shadow: 0 12px 30px rgba(0, 0, 0, 0.08);
+  padding: 0.15rem;
+  max-height: 60vh;
   overflow-y: auto;
 }
 .site-search-status {
@@ -162,22 +105,25 @@
   padding: 0;
   display: flex;
   flex-direction: column;
-  gap: 0.25rem;
+  gap: 0;
 }
 .site-search-list li {
-  border: 1px solid #e0e0e0;
-  border-radius: 0.4rem;
-  padding: 0.3rem 0.6rem 0.4rem;
+  padding: 0;
 }
 .site-search-row {
   display: flex;
   align-items: center;
-  gap: 0.35rem;
+  gap: 0;
 }
 .site-search-list li a {
   text-decoration: none;
   font-weight: 600;
   color: inherit;
+  flex: 1 1 auto;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
 }
 .site-search-list li a:hover {
   text-decoration: underline;
@@ -198,9 +144,42 @@
   line-height: 1.1;
   margin-left: 0.3rem;
 }
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+@media screen and (min-width: 601px) {
+  .site-nav .trigger {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    flex-wrap: nowrap;
+    justify-content: flex-end;
+  }
+  .site-search {
+    flex: 1 1 auto;
+    min-width: 0;
+    width: 100%;
+    margin-right: 0.75rem;
+  }
+  .site-nav .page-link {
+    white-space: nowrap;
+  }
+}
 @media screen and (max-width: 600px) {
-  .site-search-toggle span {
-    display: none;
+  .site-search {
+    flex: 1 1 auto;
+    width: 100%;
+    max-width: none;
+    min-width: 0;
+    margin: 0 0.75rem 0 0;
   }
 }
 </style>
@@ -283,20 +262,32 @@
     return Object.assign({}, item, { searchText });
   });
 
-  const toggle = document.getElementById('site-search-toggle');
-  const panel = document.getElementById('site-search-panel');
   const input = document.getElementById('site-search-input');
-  if (!toggle || !panel || !input) return;
-  const closeBtn = document.getElementById('site-search-close');
+  if (!input) return;
   const clearBtn = document.getElementById('site-search-clear');
   const status = document.getElementById('site-search-status');
   const list = document.getElementById('site-search-list');
+  const results = document.querySelector('.site-search-results');
 
   function updateStatus(message) {
     if (status) status.textContent = message;
   }
 
+  function setResultsPosition() {
+    if (!results || results.hidden) return;
+    const nav = document.querySelector('.site-header .site-nav');
+    const rect = nav ? nav.getBoundingClientRect() : input.getBoundingClientRect();
+    const width = window.innerWidth * 0.75;
+    const left = (window.innerWidth - width) / 2;
+    const top = rect.bottom + window.scrollY + 12;
+    results.style.setProperty('--site-search-left', `${left}px`);
+    results.style.setProperty('--site-search-top', `${top}px`);
+    results.style.setProperty('--site-search-width', `${width}px`);
+  }
+
   function renderResults(items, total) {
+    if (results) results.hidden = false;
+    setResultsPosition();
     if (!list) return;
     if (items.length === 0) {
       list.innerHTML = '';
@@ -306,23 +297,17 @@
     const limited = items.slice(0, MAX_RESULTS);
     list.innerHTML = limited.map(item => {
       const meta = item.category ? `<span class="site-search-pill">${item.category}</span>` : '';
-      const desc = item.description ? `<span class="site-search-result-meta">${item.description}</span>` : '';
       return `
         <li>
           <div class="site-search-row">
             <a href="${item.url}">${item.title}</a>
             ${meta}
           </div>
-          ${desc}
         </li>
       `;
     }).join('');
 
-    if (total > MAX_RESULTS) {
-      updateStatus(`Showing the first ${MAX_RESULTS} of ${total} matches. Refine your search for more precise results.`);
-    } else {
-      updateStatus(`Found ${total} ${total === 1 ? 'match' : 'matches'}.`);
-    }
+    updateStatus('');
   }
 
   function handleSearch() {
@@ -331,8 +316,9 @@
     clearBtn.hidden = !hasValue;
 
     if (query.length < MIN_QUERY) {
+      if (results) results.hidden = true;
       list.innerHTML = '';
-      updateStatus('Type at least 2 characters to search the whole site.');
+      updateStatus('');
       return;
     }
 
@@ -380,37 +366,14 @@
     renderResults(ranked, matches.length);
   }
 
-  function openPanel() {
-    panel.hidden = false;
-    toggle.setAttribute('aria-expanded', 'true');
-    input.focus();
-    document.body.classList.add('site-search-open');
-  }
-
-  function closePanel() {
-    panel.hidden = true;
-    toggle.setAttribute('aria-expanded', 'false');
-    clearResults();
-    document.body.classList.remove('site-search-open');
-    toggle.focus();
-  }
-
   function clearResults() {
     input.value = '';
     clearBtn.hidden = true;
     list.innerHTML = '';
-    updateStatus('Type at least 2 characters to search the whole site.');
+    updateStatus('');
+    if (results) results.hidden = true;
   }
 
-  toggle.addEventListener('click', () => {
-    if (panel.hidden) {
-      openPanel();
-    } else {
-      closePanel();
-    }
-  });
-
-  closeBtn.addEventListener('click', closePanel);
   clearBtn.addEventListener('click', () => {
     clearResults();
     input.focus();
@@ -418,24 +381,17 @@
   input.addEventListener('input', handleSearch);
   input.addEventListener('focus', handleSearch);
 
-  panel.addEventListener('click', (event) => {
-    if (event.target === panel) {
-      closePanel();
+  document.addEventListener('keydown', (event) => {
+    if ((event.metaKey || event.ctrlKey) && event.key.toLowerCase() === 'k') {
+      event.preventDefault();
+      input.focus();
+    }
+    if (event.key === 'Escape' && document.activeElement === input) {
+      clearResults();
     }
   });
 
-  document.addEventListener('keydown', (event) => {
-    if (event.key === 'Escape' && !panel.hidden) {
-      closePanel();
-    }
-    if ((event.metaKey || event.ctrlKey) && event.key.toLowerCase() === 'k') {
-      event.preventDefault();
-      if (panel.hidden) {
-        openPanel();
-      } else {
-        closePanel();
-      }
-    }
-  });
+  window.addEventListener('resize', setResultsPosition);
+  window.addEventListener('scroll', setResultsPosition, { passive: true });
 })();
 </script>

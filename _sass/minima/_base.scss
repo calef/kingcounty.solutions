@@ -177,20 +177,14 @@ pre {
  * Wrapper
  */
 .wrapper {
-  max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
-  max-width:         calc(#{$content-width} - (#{$spacing-unit} * 2));
-  margin-right: auto;
-  margin-left: auto;
+  box-sizing: border-box;
+  width: 100%;
+  max-width: 100vw;
+  margin-right: 0;
+  margin-left: 0;
   padding-right: $spacing-unit;
   padding-left: $spacing-unit;
   @extend %clearfix;
-
-  @include media-query($on-laptop) {
-    max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
-    max-width:         calc(#{$content-width} - (#{$spacing-unit}));
-    padding-right: $spacing-unit * 0.5;
-    padding-left: $spacing-unit * 0.5;
-  }
 }
 /**
  * Icons
