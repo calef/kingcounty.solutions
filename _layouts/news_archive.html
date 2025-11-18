@@ -6,16 +6,11 @@ layout: default
   <header class="page-header">
     {% assign news_label = page.title | default: "News" %}
     {% include breadcrumbs.html root_label=news_label root_url="/" %}
-    {%- if page.subtitle -%}
-      <p class="page-subtitle">{{ page.subtitle }}</p>
-    {%- endif -%}
   </header>
 
-  {%- if content -%}
-    <div class="page-content">
-      {{ content }}
-    </div>
-  {%- endif -%}
+  <div class="page-content">
+    {{ content }}
+  </div>
 
   {%- assign pager = pagination | default: paginator -%}
   {%- assign paginated_posts = pager.posts | default: site.posts -%}

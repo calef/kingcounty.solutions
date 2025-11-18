@@ -41,9 +41,8 @@ layout: default
       {% endif %}
     {% endfor %}
   {% endif %}
-  {% include breadcrumbs.html root_label="Organizations" root_url="/organizations/" trail=org_trail current=breadcrumb_current %}
-
   <header class="page-header">
+    {% include breadcrumbs.html root_label="Organizations" root_url="/organizations/" trail=org_trail current=breadcrumb_current %}
     {% if page.topics and page.topics.size > 0 %}
       <div class="org-topics">
         {% for t in page.topics %}

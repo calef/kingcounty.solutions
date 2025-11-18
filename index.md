@@ -13,4 +13,4 @@ pagination:
     before: 2
     after: 2
 ---
-Browse every news update collected from organizations that support King County.
+{{ site.description }}

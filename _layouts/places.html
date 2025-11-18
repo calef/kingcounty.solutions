@@ -6,9 +6,6 @@ layout: default
   <header class="page-header">
     {% assign places_label = page.title | default: "Places" %}
     {% include breadcrumbs.html root_label=places_label root_url="/places/" %}
-    {% if page.description %}
-      <p class="page-description">{{ page.description }}</p>
-    {% endif %}
   </header>
 
   <div class="page-content">

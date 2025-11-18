@@ -31,9 +31,6 @@ layout: default
     {% endfor %}
     {% assign breadcrumb_parents = breadcrumb_parents | reverse %}
     {% include breadcrumbs.html root_label="Places" root_url="/places/" trail=breadcrumb_parents current=page.title %}
-    {% if page.type %}
-      <p class="place-type">{{ page.type }}</p>
-    {% endif %}
   </header>
 
   <div class="page-content">

@@ -9,338 +9,334 @@ title: Organizations Directory
   </header>
 
   <div class="page-content">
-    <p>
-      The following directory lists government agencies, tribal governments, districts, and community-based organizations,
-      organized by level. Each section expands to show departments, divisions, and programs across their full hierarchy.
-    </p>
+      {{ content }}
+  </div>
+  <section class="org-search" aria-labelledby="org-search-label">
+    <div class="org-search-header">
+      <h2 id="org-search-label">Search organizations</h2>
+      <p>Type to quickly jump to an agency, division, or program.</p>
+    </div>
+    <div class="org-search-control">
+      <input
+        type="search"
+        id="org-search-input"
+        name="org-search-input"
+        placeholder="Search by name, acronym, or parent organization"
+        autocomplete="off"
+        autocapitalize="none"
+        spellcheck="false"
+        aria-describedby="org-search-status"
+      >
+      <button type="button" id="org-search-clear" class="org-search-clear" aria-label="Clear search" hidden>&times;</button>
+    </div>
+    <div class="org-search-results" id="org-search-results">
+      <p class="org-search-status" id="org-search-status" aria-live="polite">
+        Type at least 2 characters to search.
+      </p>
+      <ul class="org-search-list" id="org-search-list"></ul>
+    </div>
+  </section>
 
-    <section class="org-search" aria-labelledby="org-search-label">
-      <div class="org-search-header">
-        <h2 id="org-search-label">Search organizations</h2>
-        <p>Type to quickly jump to an agency, division, or program.</p>
-      </div>
-      <div class="org-search-control">
-        <input
-          type="search"
-          id="org-search-input"
-          name="org-search-input"
-          placeholder="Search by name, acronym, or parent organization"
-          autocomplete="off"
-          autocapitalize="none"
-          spellcheck="false"
-          aria-describedby="org-search-status"
-        >
-        <button type="button" id="org-search-clear" class="org-search-clear" aria-label="Clear search" hidden>&times;</button>
-      </div>
-      <div class="org-search-results" id="org-search-results">
-        <p class="org-search-status" id="org-search-status" aria-live="polite">
-          Type at least 2 characters to search.
-        </p>
-        <ul class="org-search-list" id="org-search-list"></ul>
+  {%- assign all = site.organizations | sort: "title" -%}
+
+  {%- comment %}
+  Primary anchors (major government entities)
+  {%- endcomment -%}
+  {%- assign federal_root    = all | where: "title", "United States Federal Government" | first -%}
+  {%- assign washington_root = all | where: "title", "State of Washington" | first -%}
+  {%- assign king_county_root = all | where: "title", "King County" | first -%}
+
+  {%- assign hospital = all | where: "type", "Public Hospital District" | sort: "title" -%}
+  {%- assign special  = all | where: "type", "Special Purpose District" | sort: "title" -%}
+  {%- assign tribal   = all | where: "type", "Tribal Government" | sort: "title" -%}
+  {%- assign cities   = all | where_exp: "i", "i.type == 'City' or i.type == 'Town'" | sort: "title" -%}
+  {%- assign cbos     = all | where: "type", "Community-Based Organization" | sort: "title" -%}
+
+  {%- assign included_urls = "" | split: "" -%}
+
+  {%- comment %}
+  FEDERAL
+  {%- endcomment -%}
+  {%- if federal_root -%}
+    <section class="org-section">
+      <h2><a href="{{ federal_root.url | relative_url }}">United States Federal Government</a></h2>
+      {%- assign federal_children = all | where: "parent_organization", "United States Federal Government" | sort: "title" -%}
+      {%- if federal_children.size > 0 -%}
+        <div class="org-tree">
+          <ul class="org-tree-list">
+            {%- for entity in federal_children -%}
+              {%- assign included_urls = included_urls | push: entity.url -%}
+              {% include org-tree.html organization=entity organizations=all %}
+            {%- endfor -%}
+          </ul>
+        </div>
+      {%- else -%}
+        <p>No organizations listed under this heading yet.</p>
+      {%- endif -%}
+    </section>
+    {%- assign included_urls = included_urls | push: federal_root.url -%}
+  {%- endif -%}
+
+  {%- comment %}
+  STATE
+  {%- endcomment -%}
+  {%- if washington_root -%}
+    <section class="org-section">
+      <h2><a href="{{ washington_root.url | relative_url }}">State of Washington</a></h2>
+      {%- assign state_children = all | where: "parent_organization", "State of Washington" | sort: "title" -%}
+      {%- if state_children.size > 0 -%}
+        <div class="org-tree">
+          <ul class="org-tree-list">
+            {%- for entity in state_children -%}
+              {%- assign included_urls = included_urls | push: entity.url -%}
+              {% include org-tree.html organization=entity organizations=all %}
+            {%- endfor -%}
+          </ul>
+        </div>
+      {%- else -%}
+        <p>No organizations listed under this heading yet.</p>
+      {%- endif -%}
+    </section>
+    {%- assign included_urls = included_urls | push: washington_root.url -%}
+  {%- endif -%}
+
+  {%- comment %}
+  COUNTY
+  {%- endcomment -%}
+  {%- if king_county_root -%}
+    <section class="org-section">
+      <h2><a href="{{ king_county_root.url | relative_url }}">King County</a></h2>
+      {%- assign county_children = all | where: "parent_organization", "King County" | sort: "title" -%}
+      {%- if county_children.size > 0 -%}
+        <div class="org-tree">
+          <ul class="org-tree-list">
+            {%- for entity in county_children -%}
+              {%- assign included_urls = included_urls | push: entity.url -%}
+              {% include org-tree.html organization=entity organizations=all %}
+            {%- endfor -%}
+          </ul>
+        </div>
+      {%- else -%}
+        <p>No organizations listed under this heading yet.</p>
+      {%- endif -%}
+    </section>
+    {%- assign included_urls = included_urls | push: king_county_root.url -%}
+  {%- endif -%}
+
+  {%- comment %}
+  PUBLIC HOSPITAL DISTRICTS
+  {%- endcomment -%}
+  {%- if hospital.size > 0 -%}
+    <section class="org-section">
+      <h2>Public Hospital Districts</h2>
+      <div class="org-tree">
+        <ul class="org-tree-list">
+          {%- for entity in hospital -%}
+            {%- assign included_urls = included_urls | push: entity.url -%}
+            {% include org-tree.html organization=entity organizations=all %}
+          {%- endfor -%}
+        </ul>
       </div>
     </section>
+  {%- endif -%}
 
-{%- assign all = site.organizations | sort: "title" -%}
+  {%- comment %}
+  SPECIAL PURPOSE DISTRICTS
+  {%- endcomment -%}
+  {%- if special.size > 0 -%}
+    <section class="org-section">
+      <h2>Special Purpose Districts</h2>
+      <div class="org-tree">
+        <ul class="org-tree-list">
+          {%- for entity in special -%}
+            {%- assign included_urls = included_urls | push: entity.url -%}
+            {% include org-tree.html organization=entity organizations=all %}
+          {%- endfor -%}
+        </ul>
+      </div>
+    </section>
+  {%- endif -%}
 
-{%- comment %}
-Primary anchors (major government entities)
-{%- endcomment -%}
-{%- assign federal_root    = all | where: "title", "United States Federal Government" | first -%}
-{%- assign washington_root = all | where: "title", "State of Washington" | first -%}
-{%- assign king_county_root = all | where: "title", "King County" | first -%}
+  {%- comment %}
+  TRIBAL GOVERNMENTS
+  {%- endcomment -%}
+  {%- if tribal.size > 0 -%}
+    <section class="org-section">
+      <h2>Tribal Governments</h2>
+      <div class="org-tree">
+        <ul class="org-tree-list">
+          {%- for entity in tribal -%}
+            {%- assign included_urls = included_urls | push: entity.url -%}
+            {% include org-tree.html organization=entity organizations=all %}
+          {%- endfor -%}
+        </ul>
+      </div>
+    </section>
+  {%- endif -%}
 
-{%- assign hospital = all | where: "type", "Public Hospital District" | sort: "title" -%}
-{%- assign special  = all | where: "type", "Special Purpose District" | sort: "title" -%}
-{%- assign tribal   = all | where: "type", "Tribal Government" | sort: "title" -%}
-{%- assign cities   = all | where_exp: "i", "i.type == 'City' or i.type == 'Town'" | sort: "title" -%}
-{%- assign cbos     = all | where: "type", "Community-Based Organization" | sort: "title" -%}
+  {%- comment %}
+  CITIES & TOWNS
+  {%- endcomment -%}
+  {%- if cities.size > 0 -%}
+    <section class="org-section">
+      <h2>Cities and Towns</h2>
+      <div class="org-tree">
+        <ul class="org-tree-list">
+          {%- for entity in cities -%}
+            {%- assign included_urls = included_urls | push: entity.url -%}
+            {% include org-tree.html organization=entity organizations=all %}
+          {%- endfor -%}
+        </ul>
+      </div>
+    </section>
+  {%- endif -%}
 
-{%- assign included_urls = "" | split: "" -%}
-
-{%- comment %}
-FEDERAL
-{%- endcomment -%}
-{%- if federal_root -%}
-<section class="org-section">
-  <h2><a href="{{ federal_root.url | relative_url }}">United States Federal Government</a></h2>
-  {%- assign federal_children = all | where: "parent_organization", "United States Federal Government" | sort: "title" -%}
-  {%- if federal_children.size > 0 -%}
+  {%- comment %}
+  COMMUNITY-BASED ORGANIZATIONS
+  {%- endcomment -%}
+  {%- if cbos.size > 0 -%}
+  <section class="org-section">
+    <h2>Community-Based Organizations</h2>
     <div class="org-tree">
       <ul class="org-tree-list">
-        {%- for entity in federal_children -%}
-          {%- assign included_urls = included_urls | push: entity.url -%}
-          {% include org-tree.html organization=entity organizations=all %}
+        {%- for entity in cbos -%}
+          {%- unless included_urls contains entity.url -%}
+            {%- assign included_urls = included_urls | push: entity.url -%}
+            {% include org-tree.html organization=entity organizations=all %}
+          {%- endunless -%}
         {%- endfor -%}
       </ul>
     </div>
-  {%- else -%}
-    <p>No organizations listed under this heading yet.</p>
+  </section>
   {%- endif -%}
-</section>
-{%- assign included_urls = included_urls | push: federal_root.url -%}
-{%- endif -%}
 
-{%- comment %}
-STATE
-{%- endcomment -%}
-{%- if washington_root -%}
-<section class="org-section">
-  <h2><a href="{{ washington_root.url | relative_url }}">State of Washington</a></h2>
-  {%- assign state_children = all | where: "parent_organization", "State of Washington" | sort: "title" -%}
-  {%- if state_children.size > 0 -%}
-    <div class="org-tree">
-      <ul class="org-tree-list">
-        {%- for entity in state_children -%}
-          {%- assign included_urls = included_urls | push: entity.url -%}
-          {% include org-tree.html organization=entity organizations=all %}
-        {%- endfor -%}
-      </ul>
-    </div>
-  {%- else -%}
-    <p>No organizations listed under this heading yet.</p>
+  {%- comment %}
+  OTHER — remove anything whose URL is already included
+  {%- endcomment -%}
+  {%- assign top_others = all
+    | where_exp: "i", "i.parent_organization == nil or i.parent_organization == ''"
+    | reject: "type", "Federal"
+    | reject: "type", "State"
+    | reject: "type", "County"
+    | reject: "type", "City"
+    | reject: "type", "Town"
+    | reject: "type", "Public Hospital District"
+    | reject: "type", "Special Purpose District"
+    | reject: "type", "Community-Based Organization"
+    | reject: "type", "Tribal Government"
+    | sort: "title" -%}
+
+  {%- capture filtered_others -%}
+    {%- for entity in top_others -%}
+      {%- unless included_urls contains entity.url -%}
+        {%- assign included_urls = included_urls | push: entity.url -%}
+        {% include org-tree.html organization=entity organizations=all show_type=true %}
+      {%- endunless -%}
+    {%- endfor -%}
+  {%- endcapture -%}
+
+  {%- if filtered_others contains "org-tree-item" -%}
+    <section class="org-section">
+      <h2>Other</h2>
+      <div class="org-tree">
+        <ul class="org-tree-list">
+          {{ filtered_others }}
+        </ul>
+      </div>
+    </section>
   {%- endif -%}
-</section>
-{%- assign included_urls = included_urls | push: washington_root.url -%}
-{%- endif -%}
 
-{%- comment %}
-COUNTY
-{%- endcomment -%}
-{%- if king_county_root -%}
-<section class="org-section">
-  <h2><a href="{{ king_county_root.url | relative_url }}">King County</a></h2>
-  {%- assign county_children = all | where: "parent_organization", "King County" | sort: "title" -%}
-  {%- if county_children.size > 0 -%}
-    <div class="org-tree">
-      <ul class="org-tree-list">
-        {%- for entity in county_children -%}
-          {%- assign included_urls = included_urls | push: entity.url -%}
-          {% include org-tree.html organization=entity organizations=all %}
-        {%- endfor -%}
-      </ul>
-    </div>
-  {%- else -%}
-    <p>No organizations listed under this heading yet.</p>
-  {%- endif -%}
-</section>
-{%- assign included_urls = included_urls | push: king_county_root.url -%}
-{%- endif -%}
+  <script>
+    (function() {
+      const MIN_QUERY = 2;
+      const MAX_RESULTS = 20;
+      const data = [
+        {% for org in site.organizations %}
+          {
+            "title": {{ org.title | jsonify }},
+            "acronym": {{ org.acronym | jsonify }},
+            "type": {{ org.type | jsonify }},
+            "parent": {{ org.parent_organization | jsonify }},
+            "url": {{ org.url | relative_url | jsonify }}
+          }{% unless forloop.last %},{% endunless %}
+        {% endfor %}
+      ];
+      const index = data.map(item => {
+        const searchText = [item.title, item.acronym, item.type, item.parent]
+          .filter(Boolean)
+          .join(' ')
+          .toLowerCase();
+        return Object.assign({}, item, { searchText });
+      });
 
-{%- comment %}
-PUBLIC HOSPITAL DISTRICTS
-{%- endcomment -%}
-{%- if hospital.size > 0 -%}
-<section class="org-section">
-  <h2>Public Hospital Districts</h2>
-  <div class="org-tree">
-    <ul class="org-tree-list">
-      {%- for entity in hospital -%}
-        {%- assign included_urls = included_urls | push: entity.url -%}
-        {% include org-tree.html organization=entity organizations=all %}
-      {%- endfor -%}
-    </ul>
-  </div>
-</section>
-{%- endif -%}
+      const input = document.getElementById('org-search-input');
+      if (!input) return;
+      const clearBtn = document.getElementById('org-search-clear');
+      const status = document.getElementById('org-search-status');
+      const list = document.getElementById('org-search-list');
 
-{%- comment %}
-SPECIAL PURPOSE DISTRICTS
-{%- endcomment -%}
-{%- if special.size > 0 -%}
-<section class="org-section">
-  <h2>Special Purpose Districts</h2>
-  <div class="org-tree">
-    <ul class="org-tree-list">
-      {%- for entity in special -%}
-        {%- assign included_urls = included_urls | push: entity.url -%}
-        {% include org-tree.html organization=entity organizations=all %}
-      {%- endfor -%}
-    </ul>
-  </div>
-</section>
-{%- endif -%}
+      function updateStatus(message) {
+        if (!status) return;
+        status.textContent = message;
+      }
 
-{%- comment %}
-TRIBAL GOVERNMENTS
-{%- endcomment -%}
-{%- if tribal.size > 0 -%}
-<section class="org-section">
-  <h2>Tribal Governments</h2>
-  <div class="org-tree">
-    <ul class="org-tree-list">
-      {%- for entity in tribal -%}
-        {%- assign included_urls = included_urls | push: entity.url -%}
-        {% include org-tree.html organization=entity organizations=all %}
-      {%- endfor -%}
-    </ul>
-  </div>
-</section>
-{%- endif -%}
+      function renderResults(items, total) {
+        if (!list) return;
+        if (items.length === 0) {
+          list.innerHTML = '';
+          updateStatus('No matches found.');
+          return;
+        }
 
-{%- comment %}
-CITIES & TOWNS
-{%- endcomment -%}
-{%- if cities.size > 0 -%}
-<section class="org-section">
-  <h2>Cities and Towns</h2>
-  <div class="org-tree">
-    <ul class="org-tree-list">
-      {%- for entity in cities -%}
-        {%- assign included_urls = included_urls | push: entity.url -%}
-        {% include org-tree.html organization=entity organizations=all %}
-      {%- endfor -%}
-    </ul>
-  </div>
-</section>
-{%- endif -%}
+        const limited = items.slice(0, MAX_RESULTS);
+        list.innerHTML = limited.map(item => {
+          const metaParts = [];
+          if (item.type) metaParts.push(item.type);
+          if (item.parent) metaParts.push(`Within ${item.parent}`);
+          const meta = metaParts.join(' • ');
+          const acronym = item.acronym ? ` <span class="org-search-result-acronym">(${item.acronym})</span>` : '';
+          return `
+            <li>
+              <a href="${item.url}">
+                <span class="org-search-result-title">${item.title}</span>${acronym}
+              </a>
+              ${meta ? `<span class="org-search-result-meta">${meta}</span>` : ''}
+            </li>
+          `;
+        }).join('');
 
-{%- comment %}
-COMMUNITY-BASED ORGANIZATIONS
-{%- endcomment -%}
-{%- if cbos.size > 0 -%}
-<section class="org-section">
-  <h2>Community-Based Organizations</h2>
-  <div class="org-tree">
-    <ul class="org-tree-list">
-      {%- for entity in cbos -%}
-        {%- unless included_urls contains entity.url -%}
-          {%- assign included_urls = included_urls | push: entity.url -%}
-          {% include org-tree.html organization=entity organizations=all %}
-        {%- endunless -%}
-      {%- endfor -%}
-    </ul>
-  </div>
-</section>
-{%- endif -%}
+        if (total > MAX_RESULTS) {
+          updateStatus(`Showing the first ${MAX_RESULTS} of ${total} matches. Refine your search for more precise results.`);
+        } else {
+          updateStatus(`Found ${total} ${total === 1 ? 'match' : 'matches'}.`);
+        }
+      }
 
-{%- comment %}
-OTHER — remove anything whose URL is already included
-{%- endcomment -%}
-{%- assign top_others = all
-  | where_exp: "i", "i.parent_organization == nil or i.parent_organization == ''"
-  | reject: "type", "Federal"
-  | reject: "type", "State"
-  | reject: "type", "County"
-  | reject: "type", "City"
-  | reject: "type", "Town"
-  | reject: "type", "Public Hospital District"
-  | reject: "type", "Special Purpose District"
-  | reject: "type", "Community-Based Organization"
-  | reject: "type", "Tribal Government"
-  | sort: "title" -%}
+      function handleSearch() {
+        const query = input.value.trim();
+        const hasValue = query.length > 0;
+        clearBtn.hidden = !hasValue;
 
-{%- capture filtered_others -%}
-  {%- for entity in top_others -%}
-    {%- unless included_urls contains entity.url -%}
-      {%- assign included_urls = included_urls | push: entity.url -%}
-      {% include org-tree.html organization=entity organizations=all show_type=true %}
-    {%- endunless -%}
-  {%- endfor -%}
-{%- endcapture -%}
+        if (query.length < MIN_QUERY) {
+          list.innerHTML = '';
+          updateStatus('Type at least 2 characters to search.');
+          return;
+        }
 
-{%- if filtered_others contains "org-tree-item" -%}
-<section class="org-section">
-  <h2>Other</h2>
-  <div class="org-tree">
-    <ul class="org-tree-list">
-      {{ filtered_others }}
-    </ul>
-  </div>
-</section>
-{%- endif -%}
+        const tokens = query.toLowerCase().split(/\s+/).filter(Boolean);
+        const matches = index.filter(item => tokens.every(token => item.searchText.includes(token)));
+        renderResults(matches, matches.length);
+      }
 
-<script>
-(function() {
-  const MIN_QUERY = 2;
-  const MAX_RESULTS = 20;
-  const data = [
-    {% for org in site.organizations %}
-      {
-        "title": {{ org.title | jsonify }},
-        "acronym": {{ org.acronym | jsonify }},
-        "type": {{ org.type | jsonify }},
-        "parent": {{ org.parent_organization | jsonify }},
-        "url": {{ org.url | relative_url | jsonify }}
-      }{% unless forloop.last %},{% endunless %}
-    {% endfor %}
-  ];
-  const index = data.map(item => {
-    const searchText = [item.title, item.acronym, item.type, item.parent]
-      .filter(Boolean)
-      .join(' ')
-      .toLowerCase();
-    return Object.assign({}, item, { searchText });
-  });
-
-  const input = document.getElementById('org-search-input');
-  if (!input) return;
-  const clearBtn = document.getElementById('org-search-clear');
-  const status = document.getElementById('org-search-status');
-  const list = document.getElementById('org-search-list');
-
-  function updateStatus(message) {
-    if (!status) return;
-    status.textContent = message;
-  }
-
-  function renderResults(items, total) {
-    if (!list) return;
-    if (items.length === 0) {
-      list.innerHTML = '';
-      updateStatus('No matches found.');
-      return;
-    }
-
-    const limited = items.slice(0, MAX_RESULTS);
-    list.innerHTML = limited.map(item => {
-      const metaParts = [];
-      if (item.type) metaParts.push(item.type);
-      if (item.parent) metaParts.push(`Within ${item.parent}`);
-      const meta = metaParts.join(' • ');
-      const acronym = item.acronym ? ` <span class="org-search-result-acronym">(${item.acronym})</span>` : '';
-      return `
-        <li>
-          <a href="${item.url}">
-            <span class="org-search-result-title">${item.title}</span>${acronym}
-          </a>
-          ${meta ? `<span class="org-search-result-meta">${meta}</span>` : ''}
-        </li>
-      `;
-    }).join('');
-
-    if (total > MAX_RESULTS) {
-      updateStatus(`Showing the first ${MAX_RESULTS} of ${total} matches. Refine your search for more precise results.`);
-    } else {
-      updateStatus(`Found ${total} ${total === 1 ? 'match' : 'matches'}.`);
-    }
-  }
-
-  function handleSearch() {
-    const query = input.value.trim();
-    const hasValue = query.length > 0;
-    clearBtn.hidden = !hasValue;
-
-    if (query.length < MIN_QUERY) {
-      list.innerHTML = '';
-      updateStatus('Type at least 2 characters to search.');
-      return;
-    }
-
-    const tokens = query.toLowerCase().split(/\s+/).filter(Boolean);
-    const matches = index.filter(item => tokens.every(token => item.searchText.includes(token)));
-    renderResults(matches, matches.length);
-  }
-
-  input.addEventListener('input', handleSearch);
-  input.addEventListener('focus', handleSearch);
-  clearBtn.addEventListener('click', () => {
-    input.value = '';
-    clearBtn.hidden = true;
-    list.innerHTML = '';
-    updateStatus('Type at least 2 characters to search.');
-    input.focus();
-  });
-})();
-</script>
-</div>
+      input.addEventListener('input', handleSearch);
+      input.addEventListener('focus', handleSearch);
+      clearBtn.addEventListener('click', () => {
+        input.value = '';
+        clearBtn.hidden = true;
+        list.innerHTML = '';
+        updateStatus('Type at least 2 characters to search.');
+        input.focus();
+      });
+    })();
+  </script>
 </article>
