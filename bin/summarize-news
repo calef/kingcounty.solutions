@@ -54,7 +54,7 @@ Dir.glob("#{NEWS_DIR}/*.md").each do |file_path|
     end
 
     prompt = <<~PROMPT
-      Summarize the following article in 100 words or less in Markdown format.
+      Summarize the following article in 200 words or less in Markdown format.
 
       Article URL: #{source_url}
 
