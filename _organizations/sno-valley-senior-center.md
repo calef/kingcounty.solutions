@@ -1,0 +1,14 @@
+---
+address: 4610 Stephens Avenue, Carnation, WA 98014
+email: svsc@soundgenerations.org
+jurisdictions:
+- Carnation
+phone: 425-333-4152
+title: Sno-Valley Senior Center
+topics:
+- Food & Nutrition
+- Community & Social Services
+type: Community-Based Organization
+website: https://snovalleysenior.org/services/food-and-dining/
+---
+Sno-Valley Senior Center offers community dining and nutrition services in Carnation. Lunch is served at noon Monday–Friday (suggested donation for ages 60+; fee for under 60), with special birthday lunches monthly. The center also connects eligible older adults across King County to Meals on Wheels for home-delivered frozen meals, and provides information on diapers and hygiene supplies during visits. Reservations are required for on-site lunches; contact the center for details.
