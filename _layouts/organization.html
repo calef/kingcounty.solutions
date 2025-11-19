@@ -49,7 +49,7 @@ layout: default
   <header class="page-header">
     {% include breadcrumbs.html root_label="Organizations" root_url="/organizations/" trail=org_trail current=breadcrumb_current %}
     {% if page.topics and page.topics.size > 0 %}
-      <div class="org-topics">
+      <div class="topic-tags">
         {% for t in page.topics %}
           {% assign topic_doc = site.topics | where: "title", t | first %}
           {% if topic_doc %}

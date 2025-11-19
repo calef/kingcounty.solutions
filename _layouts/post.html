@@ -30,6 +30,18 @@ layout: default
         • <span class="p-author h-card" itemprop="author">{{ page.author }}</span>
       {%- endif -%}
     </p>
+    {% if page.topics and page.topics.size > 0 %}
+      <div class="topic-tags">
+        {% for t in page.topics %}
+          {% assign topic_doc = site.topics | where: "title", t | first %}
+          {% if topic_doc %}
+            <a class="topic-pill" href="{{ topic_doc.url | relative_url }}">{{ t }}</a>
+          {% else %}
+            <span class="topic-pill">{{ t }}</span>
+          {% endif %}
+        {% endfor %}
+      </div>
+    {% endif %}
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
