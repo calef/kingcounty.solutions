@@ -1,7 +1,7 @@
 ---
 title: 'Youth & young adults: Know your rights'
 date: '2025-08-11T21:57:54+00:00'
-source: Eastside Legal Assistance Program (ELAP)
+source: Eastside Legal Assistance Program
 source_url: https://elap.org/youth-young-adults-know-your-rights/?utm_source=rss&utm_medium=rss&utm_campaign=youth-young-adults-know-your-rights
 original_content: |-
   Navigating the immigration system can be overwhelming—especially for youth and young adults who may be facing it for the first time.

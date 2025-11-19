@@ -1,7 +1,7 @@
 ---
 title: Plan for the future with a will
 date: '2025-08-12T16:21:54+00:00'
-source: Eastside Legal Assistance Program (ELAP)
+source: Eastside Legal Assistance Program
 source_url: https://elap.org/plan-for-the-future-with-a-will/?utm_source=rss&utm_medium=rss&utm_campaign=plan-for-the-future-with-a-will
 original_content: |-
   August is National Make-A-Will Month, so it’s a good time to double-check that you have an up-to-date will.

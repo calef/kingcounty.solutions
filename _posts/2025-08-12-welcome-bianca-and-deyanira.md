@@ -1,7 +1,7 @@
 ---
 title: Welcome Bianca and Deyanira
 date: '2025-08-12T20:56:37+00:00'
-source: Eastside Legal Assistance Program (ELAP)
+source: Eastside Legal Assistance Program
 source_url: https://elap.org/welcome-bianca-and-deyanira/?utm_source=rss&utm_medium=rss&utm_campaign=welcome-bianca-and-deyanira
 original_content: |-
   We have two new Bilingual Legal Services Coordinators on the ELAP team!

@@ -1,7 +1,7 @@
 ---
 title: Healthcare Access Team Open enrollment season – November outreach calendar
 date: '2025-11-03T22:44:02+00:00'
-source: Chinese Information & Service Center (CISC)
+source: Chinese Information & Service Center
 source_url: https://cisc-seattle.org/healthcare-access-team-open-enrollment-season-november-outreach-calendar/?utm_source=rss&utm_medium=rss&utm_campaign=healthcare-access-team-open-enrollment-season-november-outreach-calendar
 original_content: |-
   Our Healthcare Access Team is dedicated to providing person-centered assistance to enable clients to make informed decisions about their healthcare coverage.

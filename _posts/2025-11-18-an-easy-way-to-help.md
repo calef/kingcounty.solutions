@@ -1,7 +1,7 @@
 ---
 title: An easy way to help
 date: '2025-11-18T19:07:12+00:00'
-source: Eastside Legal Assistance Program (ELAP)
+source: Eastside Legal Assistance Program
 source_url: https://elap.org/an-easy-way-to-help/?utm_source=rss&utm_medium=rss&utm_campaign=an-easy-way-to-help
 original_content: |-
   <p>If you&#8217;re looking for an easy way to make an impact, you&#8217;ve come to the right place!  </p>

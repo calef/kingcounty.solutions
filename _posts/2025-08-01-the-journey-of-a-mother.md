@@ -1,7 +1,7 @@
 ---
 title: The Journey of a Mother
 date: '2025-08-01T23:04:12+00:00'
-source: Indian American Community Services (IACS)
+source: Indian American Community Services
 source_url: https://iacswa.org/journey-of-a-mother/
 original_content: |-
   The Journey of a Mother After a harrowing year-long wait, Durga arrived in the US from India with a meagre 200 dollars. Her daughters needed their mother – the only [...]

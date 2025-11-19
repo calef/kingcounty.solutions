@@ -1,7 +1,7 @@
 ---
 title: Award-winning work
 date: '2025-09-18T21:24:31+00:00'
-source: Eastside Legal Assistance Program (ELAP)
+source: Eastside Legal Assistance Program
 source_url: https://elap.org/award-winning-work/?utm_source=rss&utm_medium=rss&utm_campaign=award-winning-work
 original_content: "It’s been a big month for our team at ELAP.\n\nWe recently received
   two (!) awards commemorating our work.\n\n![\U0001F3C6](https://s.w.org/images/core/emoji/14.0.0/72x72/1f3c6.png)

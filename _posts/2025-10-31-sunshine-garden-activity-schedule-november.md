@@ -1,7 +1,7 @@
 ---
 title: Sunshine Garden Activity Schedule – November
 date: '2025-10-31T21:26:13+00:00'
-source: Chinese Information & Service Center (CISC)
+source: Chinese Information & Service Center
 source_url: https://cisc-seattle.org/sunshine-garden-activity-schedule-november/?utm_source=rss&utm_medium=rss&utm_campaign=sunshine-garden-activity-schedule-november
 original_content: |-
   Sunshine Garden offers older adults culturally relevant activities that promote food and nutrition, health, wellness, and fitness, education, recreation, and socialization, and personal growth.

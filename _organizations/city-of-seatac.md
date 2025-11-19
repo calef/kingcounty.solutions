@@ -1,5 +1,4 @@
 ---
-acronym: SeaTac
 jurisdictions:
 - SeaTac
 title: City of SeaTac

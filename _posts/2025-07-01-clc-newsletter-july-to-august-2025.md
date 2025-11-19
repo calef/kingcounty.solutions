@@ -1,7 +1,7 @@
 ---
 title: CLC Newsletter – July to August 2025
 date: '2025-07-01T16:25:58+00:00'
-source: Chinese Information & Service Center (CISC)
+source: Chinese Information & Service Center
 source_url: https://cisc-seattle.org/clc-newsletter-july-to-august-2025/?utm_source=rss&utm_medium=rss&utm_campaign=clc-newsletter-july-to-august-2025
 original_content: |-
   CISC is a provider in the Community Living Connections (CLC) network in King County. Periodically, we produce a CLC Newsletter that provides helpful information and resources for older adults.

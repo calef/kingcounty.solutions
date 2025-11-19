@@ -1,8 +1,9 @@
 ---
+acronym: MIYFS
 jurisdictions:
 - Mercer Island
 parent_organization: City of Mercer Island
-title: Mercer Island Youth & Family Services (MIYFS)
+title: Mercer Island Youth & Family Services
 topics:
 - Community & Social Services
 - Counseling

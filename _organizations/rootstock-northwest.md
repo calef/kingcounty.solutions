@@ -1,5 +1,4 @@
 ---
-acronym: Rootstock NW
 jurisdictions:
 - King County
 title: Rootstock Northwest

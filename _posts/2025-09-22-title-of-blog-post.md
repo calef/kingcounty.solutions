@@ -1,7 +1,7 @@
 ---
 title: Title of Blog Post
 date: '2025-09-22T20:58:16+00:00'
-source: Indian American Community Services (IACS)
+source: Indian American Community Services
 source_url: https://iacswa.org/blog-template/
 original_content: |-
   Title of Blog Post Paragraph Paragraph Paragraph Paragraph Paragraph Paragraph Paragraph Back to Blog Articles [...]

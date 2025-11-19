@@ -1,7 +1,7 @@
 ---
 title: 13th Annual A&NH/PI Primary Election Candidate Forum
 date: '2025-06-20T17:02:21+00:00'
-source: Chinese Information & Service Center (CISC)
+source: Chinese Information & Service Center
 source_url: https://cisc-seattle.org/13th-annual-anhpi-primary-election-candidate-forum/?utm_source=rss&utm_medium=rss&utm_campaign=13th-annual-anhpi-primary-election-candidate-forum
 original_content: |-
   Join us for the upcoming 13th Annual A&NH/PI Primary Election Candidate Forum at the historic Wing Luke Museum on Wednesday, July 23rd 5:30-7:30pm! The forum will feature candidates for&nbsp;Seattle City Council District 2 and At-Large seats 8 and 9. The Seattle City Council makes decisions that impact issues like housing affordability, funding for human services, protecting immigrants, public safety, and much more.

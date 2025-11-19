@@ -1,7 +1,7 @@
 ---
 title: Finding Home in the Community
 date: '2025-07-31T23:27:25+00:00'
-source: Indian American Community Services (IACS)
+source: Indian American Community Services
 source_url: https://iacswa.org/finding-home-in-the-community/
 original_content: |-
   Finding Home in the Community The truth of being a part of a diaspora is best described in the words of the author Salman Rushdie, who writes — “sometimes we [...]

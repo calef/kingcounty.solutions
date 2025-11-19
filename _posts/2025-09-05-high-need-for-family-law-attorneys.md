@@ -1,7 +1,7 @@
 ---
 title: High need for family law attorneys
 date: '2025-09-05T06:45:00+00:00'
-source: Eastside Legal Assistance Program (ELAP)
+source: Eastside Legal Assistance Program
 source_url: https://elap.org/high-need-for-family-law-attorneys/?utm_source=rss&utm_medium=rss&utm_campaign=high-need-for-family-law-attorneys
 original_content: |-
   We are unable to meet the current demand in our family law clinics. Help us fill these critical slots by signing up to be a pro bono attorney!

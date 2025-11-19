@@ -1,7 +1,7 @@
 ---
 title: Why survivors of domestic violence need the legal system
 date: '2025-10-13T17:10:01+00:00'
-source: Eastside Legal Assistance Program (ELAP)
+source: Eastside Legal Assistance Program
 source_url: https://elap.org/why-survivors-of-domestic-violence-need-the-legal-system/?utm_source=rss&utm_medium=rss&utm_campaign=why-survivors-of-domestic-violence-need-the-legal-system
 original_content: "October is Domestic Violence Awareness Month—a time to stand with
   survivors, honor their strength, and shine a light on the challenges they face when

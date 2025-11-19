@@ -1,7 +1,7 @@
 ---
 title: Willem’s History
 date: '2025-10-23T19:07:19+00:00'
-source: Indian American Community Services (IACS)
+source: Indian American Community Services
 source_url: https://iacswa.org/willems-history/
 original_content: |-
   The Quiet Work of Finding Peace: Willem’s History Willem was born on November 29, 1941, in Bogor (then part of the Dutch East Indies), eight days before the attack on [...]

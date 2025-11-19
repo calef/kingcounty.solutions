@@ -1,7 +1,7 @@
 ---
 title: From the bench to the community
 date: '2025-09-18T21:48:08+00:00'
-source: Eastside Legal Assistance Program (ELAP)
+source: Eastside Legal Assistance Program
 source_url: https://elap.org/from-the-bench-to-the-community/?utm_source=rss&utm_medium=rss&utm_campaign=from-the-bench-to-the-community
 original_content: |-
   By ELAP intern Annika Hauer
