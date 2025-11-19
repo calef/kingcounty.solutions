@@ -16,6 +16,7 @@ group :jekyll_plugins do
 end
 gem 'minima'
 gem 'minitest'
+gem 'simplecov', require: false
 gem 'nokogiri'
 gem 'open-uri'
 gem 'psych'
