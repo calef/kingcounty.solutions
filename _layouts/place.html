@@ -84,19 +84,19 @@ layout: default
     {% endif %}
 
     {% if place_news and place_news.size > 0 %}
-      <section class="place-news">
+      <section class="news-section">
         <h2>News related to {{ page.title }}</h2>
-        <ul class="place-news-list">
+        <ul class="news-list">
           {% for post in place_news %}
-            <li class="place-news-item">
-              <h3>
+            <li class="news-item">
+              <h3 class="news-title">
                 <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
               </h3>
-              <p class="place-news-meta">
+              <p class="news-meta">
                 <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
                 {% assign source_text = post.source | default: post.source_url %}
                 {% if source_text %}
-                  • <span class="place-news-source">
+                  • <span class="news-source">
                     {% assign matching_org = nil %}
                     {% if post.source %}
                       {% assign matching_org = site.organizations | where: "title", post.source | first %}
@@ -113,13 +113,13 @@ layout: default
               </p>
               {% assign post_excerpt = post.excerpt | strip_html | strip_newlines %}
               {% if post_excerpt %}
-                <p class="place-news-excerpt">{{ post_excerpt | truncate: 220 }}</p>
+                <p class="news-excerpt">{{ post_excerpt | truncate: 220 }}</p>
               {% endif %}
             </li>
           {% endfor %}
         </ul>
         {% if place_news_total > 20 %}
-          <p class="place-news-more">
+          <p class="news-more">
             <a href="{{ '/' | relative_url }}">View all news</a>
           </p>
         {% endif %}

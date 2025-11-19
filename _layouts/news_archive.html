@@ -16,41 +16,43 @@ layout: default
   {%- assign paginated_posts = pager.posts | default: site.posts -%}
 
   {%- if paginated_posts and paginated_posts.size > 0 -%}
-    <ul class="news-archive-list">
-      {%- for post in paginated_posts -%}
-        <li class="news-archive-item">
-          <h2>
-            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-          </h2>
-          <p class="news-archive-meta">
-            <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
-            {%- assign source_text = post.source | default: post.source_url -%}
-            {%- if source_text -%}
-              • <span class="news-archive-source">
-                {%- assign matching_org = nil -%}
-                {%- if post.source -%}
-                  {%- assign matching_org = site.organizations | where: "title", post.source | first -%}
-                {%- endif -%}
-                {%- if matching_org -%}
-                  <a href="{{ matching_org.url | relative_url }}">{{ post.source }}</a>
-                {%- elsif post.source_url -%}
-                  <a href="{{ post.source_url }}" rel="noopener noreferrer">{{ source_text }}</a>
-                {%- else -%}
-                  {{ source_text }}
-                {%- endif -%}
-              </span>
+    <section class="news-section">
+      <ul class="news-list">
+        {%- for post in paginated_posts -%}
+          <li class="news-item">
+            <h3 class="news-title">
+              <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+            </h3>
+            <p class="news-meta">
+              <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
+              {%- assign source_text = post.source | default: post.source_url -%}
+              {%- if source_text -%}
+                • <span class="news-source">
+                  {%- assign matching_org = nil -%}
+                  {%- if post.source -%}
+                    {%- assign matching_org = site.organizations | where: "title", post.source | first -%}
+                  {%- endif -%}
+                  {%- if matching_org -%}
+                    <a href="{{ matching_org.url | relative_url }}">{{ post.source }}</a>
+                  {%- elsif post.source_url -%}
+                    <a href="{{ post.source_url }}" rel="noopener noreferrer">{{ source_text }}</a>
+                  {%- else -%}
+                    {{ source_text }}
+                  {%- endif -%}
+                </span>
+              {%- endif -%}
+            </p>
+            {%- assign teaser = post.excerpt | strip_html | strip_newlines -%}
+            {%- if teaser == "" or teaser == nil -%}
+              {%- assign teaser = post.content | strip_html | strip_newlines -%}
             {%- endif -%}
-          </p>
-          {%- assign teaser = post.excerpt | strip_html | strip_newlines -%}
-          {%- if teaser == "" or teaser == nil -%}
-            {%- assign teaser = post.content | strip_html | strip_newlines -%}
-          {%- endif -%}
-          {%- if teaser -%}
-            <p class="news-archive-excerpt">{{ teaser | truncate: 260 }}</p>
-          {%- endif -%}
-        </li>
-      {%- endfor -%}
-    </ul>
+            {%- if teaser -%}
+              <p class="news-excerpt">{{ teaser | truncate: 260 }}</p>
+            {%- endif -%}
+          </li>
+        {%- endfor -%}
+      </ul>
+    </section>
 
     {%- if pager -%}
       {%- assign total_pages = pager.total_pages | default: pager.page_count | default: 1 -%}

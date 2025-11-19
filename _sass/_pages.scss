@@ -79,95 +79,77 @@
   border-left: 1px solid #eee;
 }
 
-.place-news,
-.topic-news,
-.topic-organizations,
-.org-news {
+.topic-organizations {
   margin-top: 1.5rem;
 }
 
-.place-news h2,
-.topic-news h2,
-.org-news h2 {
+.news-section {
+  margin-top: 1.5rem;
+}
+
+.news-section h2 {
   margin-bottom: 0.5rem;
 }
 
-.place-news-list,
-.topic-news-list,
-.org-news ul {
+.news-list {
   list-style: none;
   padding: 0;
   margin: 0;
 }
 
-.place-news-item,
-.topic-news-item {
+.news-item {
   margin-bottom: 0.35rem;
   padding-bottom: 0.75rem;
   border-bottom: 1px solid #eee;
 }
 
-.place-news-item:last-child,
-.topic-news-item:last-child {
+.news-item:last-child {
   border-bottom: none;
 }
 
-.place-news h3,
-.topic-news h3 {
+.news-title {
   margin: 0 0 0.25rem;
 }
 
-.place-news a,
-.topic-news a,
-.org-news a {
+.news-title a {
   font-weight: 600;
   text-decoration: none;
 }
 
-.place-news a:hover,
-.topic-news a:hover,
-.org-news a:hover {
+.news-title a:hover {
   text-decoration: underline;
 }
 
-.place-news-meta,
-.topic-news-meta {
+.news-meta {
   margin: 0;
   color: #666;
   font-size: 0.9rem;
 }
 
-.place-news-meta time,
-.topic-news-meta time {
+.news-meta time {
   font-weight: 500;
 }
 
-.place-news-source a,
-.topic-news-source a {
+.news-source a {
   color: inherit;
 }
 
-.place-news-excerpt,
-.topic-news-excerpt,
-.org-news-excerpt {
+.news-excerpt {
   margin: 0.1rem 0 0.5rem;
   color: #444;
   font-size: 0.95em;
 }
 
-.place-news-more,
-.topic-news-more {
+.news-more {
   margin-top: 0.5rem;
 }
 
-.place-news-more a,
-.topic-news-more a {
+.news-more a {
   font-weight: 600;
   text-decoration: none;
 }
 
-.place-news-more a:hover,
-.topic-news-more a:hover {
+.news-more a:hover {
   text-decoration: underline;
 }
 
@@ -381,39 +363,6 @@
 
 .news-search-source {
   font-weight: 500;
-}
-
-.news-archive-list {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-  display: flex;
-  flex-direction: column;
-  gap: 2rem;
-}
-
-.news-archive-item {
-  padding-bottom: 1.5rem;
-  border-bottom: 1px solid #e0e0e0;
-}
-
-.news-archive-item h2 {
-  margin: 0 0 0.25rem;
-}
-
-.news-archive-meta {
-  margin: 0;
-  color: #666;
-  font-size: 0.95rem;
-}
-
-.news-archive-source a {
-  color: inherit;
-}
-
-.news-archive-excerpt {
-  margin: 0.6rem 0 0;
-  color: #333;
 }
 
 .news-pagination {

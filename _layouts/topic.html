@@ -54,19 +54,19 @@ layout: default
       {% assign topic_news = topic_news | sort: "date" | reverse %}
       {% assign topic_news_total = topic_news | size %}
       {% assign topic_news = topic_news | slice: 0, 20 %}
-      <section class="topic-news">
+      <section class="news-section">
         <h2>News related to {{ page.title }}</h2>
-        <ul class="topic-news-list">
+        <ul class="news-list">
           {% for post in topic_news %}
-            <li class="topic-news-item">
-              <h3>
+            <li class="news-item">
+              <h3 class="news-title">
                 <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
               </h3>
-              <p class="topic-news-meta">
+              <p class="news-meta">
                 <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
                 {% assign source_text = post.source | default: post.source_url %}
                 {% if source_text %}
-                  • <span class="topic-news-source">
+                  • <span class="news-source">
                     {% assign matching_org = nil %}
                     {% if post.source %}
                       {% assign matching_org = site.organizations | where: "title", post.source | first %}
@@ -83,13 +83,13 @@ layout: default
               </p>
               {% assign post_excerpt = post.excerpt | strip_html | strip_newlines %}
               {% if post_excerpt %}
-                <p class="topic-news-excerpt">{{ post_excerpt | truncate: 220 }}</p>
+                <p class="news-excerpt">{{ post_excerpt | truncate: 220 }}</p>
               {% endif %}
             </li>
           {% endfor %}
         </ul>
         {% if topic_news_total > 20 %}
-          <p class="topic-news-more">
+          <p class="news-more">
             <a href="{{ '/' | relative_url }}">View all news</a>
           </p>
         {% endif %}

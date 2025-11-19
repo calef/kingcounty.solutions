@@ -112,16 +112,20 @@ layout: default
     {% endif %}
 
     {% if org_news_posts and org_news_posts.size > 0 %}
-      <section class="org-news">
-        <h2>{{ page.title }} News</h2>
-        <ul>
+      <section class="news-section">
+        <h2>News related to {{ page.title }}</h2>
+        <ul class="news-list">
           {% for post in org_news_posts %}
-            <li>
-              <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-              <span class="org-news-date">{{ post.date | date: "%b %-d, %Y" }}</span>
+            <li class="news-item">
+              <h3 class="news-title">
+                <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+              </h3>
+              <p class="news-meta">
+                <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
+              </p>
               {% assign news_excerpt = post.excerpt | strip_html | strip_newlines %}
               {% if news_excerpt %}
-                <p class="org-news-excerpt">{{ news_excerpt | truncate: 220 }}</p>
+                <p class="news-excerpt">{{ news_excerpt | truncate: 220 }}</p>
               {% endif %}
             </li>
           {% endfor %}
