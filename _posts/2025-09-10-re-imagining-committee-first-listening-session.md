@@ -1,7 +1,7 @@
 ---
 title: Re-Imagining Committee – First Listening Session
 date: '2025-09-10T23:58:31+00:00'
-source: Redmond United Methodist Church – Social Ministries
+source: Redmond United Methodist Church - Social Ministries
 source_url: https://redmondumc.org/re-imagining-committee-first-listening-session/
 original_content: "<section class=\"elementor-section elementor-top-section elementor-element
   elementor-element-a3ed10d ang-section-padding-no elementor-section-boxed elementor-section-height-default
