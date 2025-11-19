@@ -1,22 +1,19 @@
 # frozen_string_literal: true
 
 require 'test_helper'
-require 'fileutils'
 require 'pathname'
 require 'nokogiri'
 require 'nokogiri/html5'
-require 'jekyll'
-require 'jekyll/commands/build'
+require_relative 'support/site_build_helper'
 
 class SiteHtmlTest < Minitest::Test
-  DESTINATION = File.expand_path('_site', Dir.pwd)
-
   def setup
-    self.class.ensure_site_built
+    SiteBuildHelper.ensure_site_built
   end
 
   def test_generated_html_is_well_formed
-    html_files = Dir.glob(File.join(DESTINATION, '**', '*.html'))
+    destination = SiteBuildHelper.destination
+    html_files = Dir.glob(File.join(destination, '**', '*.html'))
     refute_empty html_files, 'Expected jekyll build to produce HTML files'
 
     html_files.each do |path|
@@ -27,25 +24,10 @@ class SiteHtmlTest < Minitest::Test
     end
   end
 
-  def self.ensure_site_built
-    return if @site_built
-
-    FileUtils.rm_rf(DESTINATION)
-    config = Jekyll.configuration(
-      'source' => Dir.pwd,
-      'destination' => DESTINATION,
-      'quiet' => true,
-      'incremental' => false
-    )
-
-    Jekyll::Commands::Build.process(config)
-    @site_built = true
-  end
-
   private
 
   def relative_path(path)
-    Pathname.new(path).relative_path_from(Pathname.new(DESTINATION)).to_s
+    Pathname.new(path).relative_path_from(Pathname.new(SiteBuildHelper.destination)).to_s
   end
 
   def html_error_message(path, errors)
