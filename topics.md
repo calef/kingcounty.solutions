@@ -6,4 +6,4 @@ layout: topics
 permalink: /topics/
 title: Topics
 ---
-Explore the services below to find the services you’re looking for.
+Explore the topics below to find the services you’re looking for.

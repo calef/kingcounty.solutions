@@ -16,11 +16,11 @@ layout: default
 
     {% assign all_topics = site.topics | sort: "title" %}
 
-    <div class="topics-list">
+    <div class="hierarchy-tree">
       {% if all_topics and all_topics.size > 0 %}
-        <ul class="topics-list-grid">
+        <ul class="hierarchy-tree-list">
           {% for topic in all_topics %}
-            <li>
+            <li class="hierarchy-tree-item">
               <a href="{{ topic.url | relative_url }}">{{ topic.title }}</a>
             </li>
           {% endfor %}

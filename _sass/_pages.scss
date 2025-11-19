@@ -171,33 +171,6 @@
   text-decoration: underline;
 }
 
-.topics-list {
-  margin-top: 1rem;
-}
-
-.topics-list-grid {
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  display: grid;
-  gap: 0.5rem;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-}
-
-.topics-list-grid li a {
-  display: block;
-  padding: 0.5rem 0.6rem;
-  border: 1px solid #e4e4e4;
-  border-radius: 0.45rem;
-  text-decoration: none;
-  font-weight: 600;
-  color: inherit;
-}
-
-.topics-list-grid li a:hover {
-  text-decoration: underline;
-}
-
 .place-search,
 .news-search,
 .org-search {
