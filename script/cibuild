@@ -3,3 +3,4 @@
 echo "Building the site"
 ./script/setup
 JEKYLL_ENV=production bundle exec jekyll build --drafts
+bundle exec rake test

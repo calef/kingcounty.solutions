@@ -15,6 +15,7 @@ group :jekyll_plugins do
   gem 'jekyll-paginate-v2'
 end
 gem 'minima'
+gem 'minitest'
 gem 'nokogiri'
 gem 'open-uri'
 gem 'psych'
