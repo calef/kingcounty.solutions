@@ -2,6 +2,7 @@
 address: 15670 NE 85th St, Redmond, WA 98052
 jurisdictions:
 - Redmond
+parent_organization: City of Redmond
 phone: 425-556-2300
 title: Redmond Senior Lunch
 topics:

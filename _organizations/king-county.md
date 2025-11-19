@@ -1,6 +1,7 @@
 ---
 jurisdictions:
 - King County
+news_rss_url: https://medium.com/feed/@kcexec
 title: King County
 topics:
 - Community & Social Services

@@ -3,6 +3,7 @@ address: 4610 Stephens Avenue, Carnation, WA 98014
 email: svsc@soundgenerations.org
 jurisdictions:
 - Carnation
+news_rss_url: https://snovalleysenior.org/feed/
 phone: 425-333-4152
 title: Sno-Valley Senior Center
 topics:

@@ -3,6 +3,8 @@ address: 180 E. Sunset Way, Issaquah, WA 98027
 email: ccskingcountyinfo@ccsww.org
 jurisdictions:
 - Issaquah
+news_rss_url: https://ccsww.org/feed/
+parent_organization: Catholic Community Services of Western Washington
 phone: 425-679-0342
 title: Issaquah Meals
 topics:

@@ -2,6 +2,7 @@
 acronym: DOJ
 jurisdictions:
 - United States
+news_rss_url: https://www.justice.gov/news/rss?type=press_release&m=1
 parent_organization: Federal Executive Branch
 title: Department of Justice
 topics:

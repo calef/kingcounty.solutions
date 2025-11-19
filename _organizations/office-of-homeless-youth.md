@@ -10,9 +10,9 @@ topics:
 - Employment & Job Support
 - Mental Health & Counseling
 type: Program
-website: https://www.commerce.wa.gov/serving-communities/homelessness/office-of-homeless-youth/
----
+website: https://www.commerce.wa.gov/homelessness-response/ohy/
 
+---
 The **Office of Homeless Youth (OHY)** works to ensure youth and young adults have safe, stable housing and access to supportive services.
 It focuses on:
 

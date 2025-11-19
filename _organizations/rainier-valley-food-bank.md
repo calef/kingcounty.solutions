@@ -3,6 +3,7 @@ address: 9021 Rainier Ave S, Seattle, WA 98118
 email: info@rvfb.org
 jurisdictions:
 - Seattle
+news_rss_url: https://www.rvfb.org/blog?format=rss
 phone: 206-723-4105
 title: Rainier Valley Food Bank
 topics:
