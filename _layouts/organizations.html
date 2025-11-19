@@ -169,12 +169,13 @@ title: Organizations Directory
   {%- comment %}
   COMMUNITY-BASED ORGANIZATIONS
   {%- endcomment -%}
-  {%- if cbos.size > 0 -%}
+  {%- assign top_level_cbos = cbos | where_exp: "i", "i.parent_organization == nil or i.parent_organization == ''" -%}
+  {%- if top_level_cbos.size > 0 -%}
   <section class="org-section">
     <h2>Community-Based Organizations</h2>
     <div class="hierarchy-tree">
       <ul class="hierarchy-tree-list">
-        {%- for entity in cbos -%}
+        {%- for entity in top_level_cbos -%}
           {%- unless included_urls contains entity.url -%}
             {%- assign included_urls = included_urls | push: entity.url -%}
             {% include org-tree.html organization=entity organizations=all %}
