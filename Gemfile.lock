@@ -137,6 +137,10 @@ GEM
     rubocop-ast (1.48.0)
       parser (>= 3.3.7.2)
       prism (~> 1.4)
+    rubocop-minitest (0.38.2)
+      lint_roller (~> 1.1)
+      rubocop (>= 1.75.0, < 2.0)
+      rubocop-ast (>= 1.38.0, < 2.0)
     ruby-openai (8.3.0)
       event_stream_parser (>= 0.3.0, < 2.0.0)
       faraday (>= 1)
@@ -181,6 +185,7 @@ DEPENDENCIES
   reverse_markdown
   rss
   rubocop
+  rubocop-minitest
   ruby-openai
   time
   toml-rb
