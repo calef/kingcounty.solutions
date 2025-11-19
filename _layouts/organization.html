@@ -50,7 +50,8 @@ layout: default
     {% include breadcrumbs.html trail=org_trail current=breadcrumb_current %}
     {% if page.topics and page.topics.size > 0 %}
       <div class="topic-tags">
-        {% for t in page.topics %}
+        {% assign sorted_topics = page.topics | sort %}
+        {% for t in sorted_topics %}
           {% assign topic_doc = site.topics | where: "title", t | first %}
           {% if topic_doc %}
             <a class="topic-pill" href="{{ topic_doc.url | relative_url }}">{{ t }}</a>
