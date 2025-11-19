@@ -1,8 +1,8 @@
-<li class="places-tree-item">
+<li class="hierarchy-tree-item">
   <a href="{{ include.place.url | relative_url }}">{{ include.place.title }}</a>
   {% assign children = include.places | where: "parent_place", include.place.title | sort: "title" %}
   {% if children and children.size > 0 %}
-    <ul class="places-tree-list">
+    <ul class="hierarchy-tree-list">
       {% for child in children %}
         {% include place-tree.html place=child places=include.places %}
       {% endfor %}

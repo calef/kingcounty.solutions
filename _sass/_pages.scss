@@ -40,40 +40,38 @@
   color: #444;
 }
 
-.place-tree,
-.org-tree {
+.hierarchy-tree {
   margin-top: 0.75rem;
 }
 
-.place-tree .places-tree-list,
-.org-tree-list,
-.topics-tree-list {
+.hierarchy-tree .hierarchy-tree-list,
+.hierarchy-tree-list {
   list-style: none;
   margin: 0;
   padding-left: 1rem;
 }
 
-.place-tree .places-tree-list > li,
-.org-tree-list > li,
+.hierarchy-tree .hierarchy-tree-list > li,
+.hierarchy-tree-list > li,
 .topics-tree-list > li {
   margin-bottom: 0.35rem;
 }
 
-.place-tree .places-tree-item > a,
-.org-tree-item > a,
+.hierarchy-tree .hierarchy-tree-item > a,
+.hierarchy-tree-item > a,
 .topics-tree-item > a {
   font-weight: 600;
   text-decoration: none;
 }
 
-.place-tree .places-tree-item > a:hover,
-.org-tree-item > a:hover,
+.hierarchy-tree .hierarchy-tree-item > a:hover,
+.hierarchy-tree-item > a:hover,
 .topics-tree-item > a:hover {
   text-decoration: underline;
 }
 
-.place-tree .places-tree-list ul,
-.org-tree-list ul,
+.hierarchy-tree .hierarchy-tree-list ul,
+.hierarchy-tree-list ul,
 .topics-tree-list ul {
   margin-top: 0.25rem;
   margin-bottom: 0.25rem;

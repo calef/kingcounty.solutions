@@ -14,9 +14,9 @@ layout: default
     {% assign all_places = site.places | sort: "title" %}
     {% assign top_level_places = all_places | where_exp: "place", "place.parent_place == nil" %}
 
-    <div class="places-tree">
+    <div class="hierarchy-tree">
       {% if top_level_places and top_level_places.size > 0 %}
-        <ul class="places-tree-list">
+        <ul class="hierarchy-tree-list">
           {% for place in top_level_places %}
             {% include place-tree.html place=place places=all_places %}
           {% endfor %}

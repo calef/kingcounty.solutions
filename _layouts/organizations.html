@@ -37,8 +37,8 @@ title: Organizations Directory
       <h2><a href="{{ federal_root.url | relative_url }}">United States Federal Government</a></h2>
       {%- assign federal_children = all | where: "parent_organization", "United States Federal Government" | sort: "title" -%}
       {%- if federal_children.size > 0 -%}
-        <div class="org-tree">
-          <ul class="org-tree-list">
+        <div class="hierarchy-tree">
+          <ul class="hierarchy-tree-list">
             {%- for entity in federal_children -%}
               {%- assign included_urls = included_urls | push: entity.url -%}
               {% include org-tree.html organization=entity organizations=all %}
@@ -60,8 +60,8 @@ title: Organizations Directory
       <h2><a href="{{ washington_root.url | relative_url }}">State of Washington</a></h2>
       {%- assign state_children = all | where: "parent_organization", "State of Washington" | sort: "title" -%}
       {%- if state_children.size > 0 -%}
-        <div class="org-tree">
-          <ul class="org-tree-list">
+        <div class="hierarchy-tree">
+          <ul class="hierarchy-tree-list">
             {%- for entity in state_children -%}
               {%- assign included_urls = included_urls | push: entity.url -%}
               {% include org-tree.html organization=entity organizations=all %}
@@ -83,8 +83,8 @@ title: Organizations Directory
       <h2><a href="{{ king_county_root.url | relative_url }}">King County</a></h2>
       {%- assign county_children = all | where: "parent_organization", "King County" | sort: "title" -%}
       {%- if county_children.size > 0 -%}
-        <div class="org-tree">
-          <ul class="org-tree-list">
+        <div class="hierarchy-tree">
+          <ul class="hierarchy-tree-list">
             {%- for entity in county_children -%}
               {%- assign included_urls = included_urls | push: entity.url -%}
               {% include org-tree.html organization=entity organizations=all %}
@@ -104,8 +104,8 @@ title: Organizations Directory
   {%- if hospital.size > 0 -%}
     <section class="org-section">
       <h2>Public Hospital Districts</h2>
-      <div class="org-tree">
-        <ul class="org-tree-list">
+      <div class="hierarchy-tree">
+        <ul class="hierarchy-tree-list">
           {%- for entity in hospital -%}
             {%- assign included_urls = included_urls | push: entity.url -%}
             {% include org-tree.html organization=entity organizations=all %}
@@ -121,8 +121,8 @@ title: Organizations Directory
   {%- if special.size > 0 -%}
     <section class="org-section">
       <h2>Special Purpose Districts</h2>
-      <div class="org-tree">
-        <ul class="org-tree-list">
+      <div class="hierarchy-tree">
+        <ul class="hierarchy-tree-list">
           {%- for entity in special -%}
             {%- assign included_urls = included_urls | push: entity.url -%}
             {% include org-tree.html organization=entity organizations=all %}
@@ -138,8 +138,8 @@ title: Organizations Directory
   {%- if tribal.size > 0 -%}
     <section class="org-section">
       <h2>Tribal Governments</h2>
-      <div class="org-tree">
-        <ul class="org-tree-list">
+      <div class="hierarchy-tree">
+        <ul class="hierarchy-tree-list">
           {%- for entity in tribal -%}
             {%- assign included_urls = included_urls | push: entity.url -%}
             {% include org-tree.html organization=entity organizations=all %}
@@ -155,8 +155,8 @@ title: Organizations Directory
   {%- if cities.size > 0 -%}
     <section class="org-section">
       <h2>Cities and Towns</h2>
-      <div class="org-tree">
-        <ul class="org-tree-list">
+      <div class="hierarchy-tree">
+        <ul class="hierarchy-tree-list">
           {%- for entity in cities -%}
             {%- assign included_urls = included_urls | push: entity.url -%}
             {% include org-tree.html organization=entity organizations=all %}
@@ -172,8 +172,8 @@ title: Organizations Directory
   {%- if cbos.size > 0 -%}
   <section class="org-section">
     <h2>Community-Based Organizations</h2>
-    <div class="org-tree">
-      <ul class="org-tree-list">
+    <div class="hierarchy-tree">
+      <ul class="hierarchy-tree-list">
         {%- for entity in cbos -%}
           {%- unless included_urls contains entity.url -%}
             {%- assign included_urls = included_urls | push: entity.url -%}
@@ -210,11 +210,11 @@ title: Organizations Directory
     {%- endfor -%}
   {%- endcapture -%}
 
-  {%- if filtered_others contains "org-tree-item" -%}
+  {%- if filtered_others contains "hierarchy-tree-item" -%}
     <section class="org-section">
       <h2>Other</h2>
-      <div class="org-tree">
-        <ul class="org-tree-list">
+      <div class="hierarchy-tree">
+        <ul class="hierarchy-tree-list">
           {{ filtered_others }}
         </ul>
       </div>

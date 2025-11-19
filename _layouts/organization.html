@@ -141,13 +141,13 @@ layout: default
     {% if children and children.size > 0 %}
       <hr/>
       <h2>Units within the {{ page.title }}</h2>
-      <div class="org-tree">
-        <ul class="org-tree-list">
-          {% for child in children %}
-            {% include org-tree.html organization=child organizations=all_orgs %}
-          {% endfor %}
-        </ul>
-      </div>
+    <div class="hierarchy-tree">
+      <ul class="hierarchy-tree-list">
+        {% for child in children %}
+          {% include org-tree.html organization=child organizations=all_orgs %}
+        {% endfor %}
+      </ul>
+    </div>
     {% endif %}
   </div>
 </article>

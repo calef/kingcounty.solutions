@@ -33,8 +33,8 @@ layout: default
     {% if topic_orgs and topic_orgs.size > 0 %}
       <section class="topic-organizations">
         <h2>Organizations focused on {{ page.title }}</h2>
-        <div class="org-tree">
-          <ul class="org-tree-list">
+        <div class="hierarchy-tree">
+          <ul class="hierarchy-tree-list">
             {% for org in topic_org_roots %}
               {% include org-tree.html organization=org organizations=topic_orgs %}
             {% endfor %}

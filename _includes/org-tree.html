@@ -1,4 +1,4 @@
-<li class="org-tree-item">
+<li class="hierarchy-tree-item">
   <a href="{{ include.organization.url | relative_url }}">{{ include.organization.title }}</a>
   {% if include.organization.acronym %} ({{ include.organization.acronym }}){% endif %}
   {% assign show_type = include.show_type | default: false %}
@@ -9,7 +9,7 @@
     {% assign children = include.organizations | where: "parent_organization", include.organization.title | sort: "title" %}
     {% if children and children.size > 0 %}
       {% capture next_path %}{{ ancestor_path }}{{ current_token }}{% endcapture %}
-      <ul class="org-tree-list">
+      <ul class="hierarchy-tree-list">
         {% for child in children %}
           {% include org-tree.html organization=child organizations=include.organizations show_type=false ancestors=next_path %}
         {% endfor %}
