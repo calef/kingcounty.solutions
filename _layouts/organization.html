@@ -47,7 +47,7 @@ layout: default
     {% endfor %}
   {% endif %}
   <header class="page-header">
-    {% include breadcrumbs.html root_label="Organizations" root_url="/organizations/" trail=org_trail current=breadcrumb_current %}
+    {% include breadcrumbs.html trail=org_trail current=breadcrumb_current %}
     {% if page.topics and page.topics.size > 0 %}
       <div class="topic-tags">
         {% for t in page.topics %}
@@ -111,6 +111,13 @@ layout: default
       </div>
     {% endif %}
 
+    {% if page.website %}
+      <p class="org-website">
+        For more information, see the
+        <a href="{{ page.website }}" rel="noopener noreferrer">{{ page.title }} website</a>.
+      </p>
+    {% endif %}
+
     {% if org_news_posts and org_news_posts.size > 0 %}
       <section class="news-section">
         <h2>News related to {{ page.title }}</h2>
@@ -131,13 +138,6 @@ layout: default
           {% endfor %}
         </ul>
       </section>
-    {% endif %}
-
-    {% if page.website %}
-      <p class="org-website">
-        For more information, see the
-        <a href="{{ page.website }}" rel="noopener noreferrer">{{ page.title }} website</a>.
-      </p>
     {% endif %}
 
     {% assign all_orgs = site.organizations | sort: "title" %}

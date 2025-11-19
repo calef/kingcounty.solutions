@@ -4,7 +4,7 @@ layout: default
 
 <article class="page topic-page">
   <header class="page-header">
-    {% include breadcrumbs.html root_label="Topics" root_url="/topics/" current=page.title %}
+    {% include breadcrumbs.html current=page.title %}
   </header>
 
   {% assign all_topics = site.topics | sort: "title" %}
