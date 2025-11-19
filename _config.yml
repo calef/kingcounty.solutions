@@ -49,6 +49,7 @@ exclude:
   - script/
   - vendor/
   - coverage/
+  - Rakefile
 github_username: calef
 plugins:
   - jekyll-feed
