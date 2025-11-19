@@ -14,6 +14,7 @@ require 'nokogiri'
 NEWS_DIR = '_posts'
 SOURCES_DIR = '_organizations'
 MAX_ITEM_AGE_DAYS = 365
+MAX_FILENAME_BYTES = 255
 
 FileUtils.mkdir_p(NEWS_DIR)
 
@@ -85,6 +86,29 @@ def stale_item?(published_time)
   published_time < cutoff
 end
 
+def sanitized_slug(text)
+  text.to_s.downcase.gsub(/[^a-z0-9]+/, '-').gsub(/^-|-$/, '')
+end
+
+def filename_slug(title, link, date_prefix)
+  base_slug = sanitized_slug(title)
+  fallback_slug = Digest::SHA1.hexdigest(link.to_s)[0, 12]
+  base_slug = fallback_slug if base_slug.empty?
+
+  max_slug_length = MAX_FILENAME_BYTES - "#{date_prefix}-".length - '.md'.length
+  max_slug_length = 1 if max_slug_length < 1
+
+  return base_slug if base_slug.length <= max_slug_length
+
+  digest = Digest::SHA1.hexdigest(link.to_s)[0, 8]
+  truncated_length = max_slug_length - digest.length - 1
+  truncated_length = 0 if truncated_length.negative?
+  truncated = base_slug[0, truncated_length]
+  slug = [truncated, digest].reject(&:empty?).join('-')
+  slug = fallback_slug if slug.empty?
+  slug.length > max_slug_length ? slug[0, max_slug_length] : slug
+end
+
 # Iterate through all Markdown files in _sources
 Dir.glob("#{SOURCES_DIR}/*.md") do |source_file|
   frontmatter = read_frontmatter(source_file)
@@ -134,7 +158,7 @@ Dir.glob("#{SOURCES_DIR}/*.md") do |source_file|
 
         # Generate a safe filename
         date_prefix = published_time.strftime('%Y-%m-%d')
-        title_slug = item.title.downcase.gsub(/[^a-z0-9]+/, '-').gsub(/^-|-$/, '')
+        title_slug = filename_slug(item.title, item.link, date_prefix)
         filename = "#{NEWS_DIR}/#{date_prefix}-#{title_slug}.md"
 
         # Build frontmatter
