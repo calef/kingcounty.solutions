@@ -48,7 +48,7 @@ layout: default
       </section>
     {% endif %}
 
-    {% assign topic_news = site.posts | where_exp: "post", "topic_org_titles contains post.source" %}
+    {% assign topic_news = site.posts | where_exp: "post", "post.topics and post.topics contains page.title" %}
     {% assign topic_news_total = 0 %}
     {% if topic_news and topic_news.size > 0 %}
       {% assign topic_news = topic_news | sort: "date" | reverse %}
