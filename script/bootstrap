@@ -1,4 +1,13 @@
 #!/usr/bin/env bash
 
+set -euo pipefail
+
 ./script/ensure-bundler
+
+# Ensure development tools like rubocop are installed even if a user previously
+# excluded them via `bundle config set without`.
+if bundle config list | grep -q 'without'; then
+  bundle config unset without
+fi
+
 bundle install
