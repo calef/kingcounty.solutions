@@ -48,6 +48,7 @@ exclude:
   - lib/
   - script/
   - vendor/
+  - coverage/
 github_username: calef
 plugins:
   - jekyll-feed
