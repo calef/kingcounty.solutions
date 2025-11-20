@@ -1,5 +1,5 @@
 ---
-layout: news_archive
+layout: posts
 title: News
 permalink: /
 pagination:
