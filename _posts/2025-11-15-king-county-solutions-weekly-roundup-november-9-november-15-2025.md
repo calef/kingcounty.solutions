@@ -4,6 +4,12 @@ date: '2025-11-15T18:00:00-08:00'
 source: King County Solutions
 summarized: true
 openai_model: gpt-5.1
+topics:
+- Food & Nutrition
+- Shelter & Housing
+- Transportation & Mobility
+- Community & Social Services
+- Disabilities
 ---
 
 This week, King County Solutions tracked 29 public-sector updates for November 9–15. With a federal shutdown and SNAP disruptions squeezing household budgets, local governments, nonprofits, and transit agencies are moving quickly to shore up food access, housing stability, and mobility as we head into the holidays.
