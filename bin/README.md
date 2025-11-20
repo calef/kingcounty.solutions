@@ -52,13 +52,12 @@ Builds an editorial roundup post for the current week (Saturday–Friday window)
 - `OPENAI_MODEL` – overrides the default `gpt-4o-mini`.
 - `WEEKLY_SUMMARY_LIMIT` – caps how many posts are passed to the LLM for theme planning (default 60).
 - `WEEKLY_DATE` – optional `YYYY-MM-DD` anchor date to regenerate a specific week.
-- `FORCE_WEEKLY=1` – allows overwriting an existing summary file for the same week.
 
 **Behavior notes**
 
 - Builds a “theme plan” JSON via one LLM call, then passes that plan plus post metadata into a second prompt that produces the final article (with themed sections and optional “Other updates”).
 - Falls back to a deterministic, non-LLM summary if either call fails.
-- Sets front matter with `source: King County Solutions` and `summarized: true`, and adds a closing encouragement paragraph.
+- Sets front matter with `source: King County Solutions`, `summarized: true`, and `openai_model` (or `fallback` if heuristics kick in), and adds a closing encouragement paragraph.
 
 ### `import-rss-news`
 

@@ -11,7 +11,7 @@ require 'yaml'
 ROOT = File.expand_path('..', __dir__)
 POSTS_DIR = File.join(ROOT, '_posts')
 
-DEFAULT_MODEL = ENV.fetch('OPENAI_MODEL', 'gpt-4o-mini')
+DEFAULT_MODEL = ENV.fetch('OPENAI_MODEL', 'gpt-5.1')
 LLM_MAX_POSTS = ENV.fetch('WEEKLY_SUMMARY_LIMIT', '60').to_i
 
 def current_week_range(today = Date.today)
@@ -206,7 +206,7 @@ def build_prompt(context)
     • Use each post's `url` value for inline links.
     • Write an engaging markdown article with the following structure:
       1. An opening paragraph summarizing how many posts we published and why this week matters.
-      2. One section per theme (use the provided titles). Each section should have 1–2 short paragraphs weaving together the posts listed for that theme with inline links and context on why they matter.
+      2. One section per theme (use the provided titles). Each section should have 1–2 short paragraphs weaving together the posts listed for that theme with inline links and context on why they matter. The inline links should not be within parentheses but linked from within the text.
       3. If `other_posts` is non-empty, add a short "### Other updates" paragraph covering them.
     • Keep the tone factual yet accessible, mirroring a newsroom briefing.
     • Mention source organizations in-line where relevant.
@@ -275,16 +275,11 @@ def fallback_summary(posts, start_date, end_date, plan = nil)
   lines.join("\n")
 end
 
-def write_summary(start_date, end_date, body)
+def write_summary(start_date, end_date, body, model_used)
   title = "King County Solutions Weekly Roundup: #{human_range(start_date, end_date)}"
   slug = slugify(title)
   filename = "#{end_date}-#{slug}.md"
   dest = File.join(POSTS_DIR, filename)
-
-  if File.exist?(dest) && ENV['FORCE_WEEKLY'] != '1'
-    warn "Summary for #{start_date}–#{end_date} already exists at #{dest}"
-    return dest
-  end
 
   timezone_offset = Time.now.utc_offset
   publish_time = Time.new(end_date.year, end_date.month, end_date.day, 18, 0, 0, timezone_offset)
@@ -293,7 +288,8 @@ def write_summary(start_date, end_date, body)
     'title' => title,
     'date' => publish_time.iso8601,
     'source' => 'King County Solutions',
-    'summarized' => true
+    'summarized' => true,
+    'openai_model' => model_used
   }
 
   contents = +"---\n"
@@ -342,14 +338,14 @@ def main
   context = build_context(posts, start_date, end_date, plan)
   prompt = build_prompt(context)
 
-  body = begin
-    call_llm(prompt).strip
+  body, model_used = begin
+    [call_llm(prompt).strip, DEFAULT_MODEL]
   rescue StandardError => e
     warn "LLM generation failed (#{e.message}). Falling back to heuristic summary."
-    fallback_summary(posts, start_date, end_date, plan)
+    [fallback_summary(posts, start_date, end_date, plan), 'fallback']
   end
 
-  summary_path = write_summary(start_date, end_date, body)
+  summary_path = write_summary(start_date, end_date, body, model_used)
   puts "Created weekly summary: #{summary_path}"
 end
 
