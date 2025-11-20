@@ -54,8 +54,8 @@ github_username: calef
 plugins:
   - jekyll-feed
   - jekyll-paginate-v2
+  - jekyll-seo-tag
   - jekyll-sitemap
-theme: minima
 future: true
 pagination:
   enabled: true

@@ -87,10 +87,6 @@ GEM
       rb-inotify (~> 0.9, >= 0.9.10)
     logger (1.7.0)
     mercenary (0.4.0)
-    minima (2.5.2)
-      jekyll (>= 3.5, < 5.0)
-      jekyll-feed (~> 0.9)
-      jekyll-seo-tag (~> 2.1)
     minitest (5.26.2)
     multipart-post (2.4.1)
     net-http (0.8.0)
@@ -186,8 +182,8 @@ DEPENDENCIES
   jekyll
   jekyll-feed
   jekyll-paginate-v2
+  jekyll-seo-tag
   jekyll-sitemap
-  minima
   minitest
   nokogiri
   open-uri
