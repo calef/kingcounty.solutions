@@ -56,6 +56,53 @@ layout: default
     </p>
   {%- endif -%}
 
+  {%- assign all_posts = site.posts -%}
+  {%- assign total_posts = all_posts | size -%}
+  {%- assign current_post_index = nil -%}
+  {%- for post in all_posts -%}
+    {%- if post.url == page.url -%}
+      {%- assign current_post_index = forloop.index0 -%}
+      {%- break -%}
+    {%- endif -%}
+  {%- endfor -%}
+  {%- if total_posts > 1 and current_post_index != nil -%}
+    {%- assign newer_index = current_post_index | minus: 1 -%}
+    {%- assign older_index = current_post_index | plus: 1 -%}
+    {%- assign newer_post = nil -%}
+    {%- assign older_post = nil -%}
+    {%- if newer_index >= 0 -%}
+      {%- assign newer_post = all_posts[newer_index] -%}
+    {%- endif -%}
+    {%- if older_index < total_posts -%}
+      {%- assign older_post = all_posts[older_index] -%}
+    {%- endif -%}
+    <nav class="news-pagination" aria-label="News pagination">
+      <div class="news-pagination-links">
+        <div class="news-pagination-group news-pagination-left">
+          {%- if newer_post -%}
+            <a class="news-pagination-link" href="{{ newer_post.url | relative_url }}">&larr; Newer</a>
+          {%- else -%}
+            <span class="news-pagination-link is-disabled" aria-hidden="true">&larr; Newer</span>
+          {%- endif -%}
+        </div>
+
+        <div class="news-pagination-group news-pagination-center">
+          <span class="news-pagination-page-count">
+            Page {{ current_post_index | plus: 1 }} of {{ total_posts }}
+          </span>
+        </div>
+
+        <div class="news-pagination-group news-pagination-right">
+          {%- if older_post -%}
+            <a class="news-pagination-link" href="{{ older_post.url | relative_url }}">Older &rarr;</a>
+          {%- else -%}
+            <span class="news-pagination-link is-disabled" aria-hidden="true">Older &rarr;</span>
+          {%- endif -%}
+        </div>
+      </div>
+    </nav>
+  {%- endif -%}
+
   {%- if site.disqus.shortname and page.comments != false -%}
     {%- include disqus_comments.html -%}
   {%- endif -%}
