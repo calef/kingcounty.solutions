@@ -16,8 +16,8 @@ layout: default
   {%- assign paginated_posts = pager.posts | default: site.posts -%}
 
   {%- if paginated_posts and paginated_posts.size > 0 -%}
-    <section class="news-section">
-      <ul class="news-list">
+    <section>
+      <ul>
         {%- for post in paginated_posts -%}
           <li class="news-item">
             <h3>

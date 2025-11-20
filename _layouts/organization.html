@@ -90,7 +90,7 @@ layout: default
     {% endif %}
 
     {% if org_news_posts and org_news_posts.size > 0 %}
-      <section class="news-section">
+      <section>
         <h2>News related to {{ page.title }}</h2>
         <ul class="news-list">
           {% for post in org_news_posts %}
@@ -114,15 +114,16 @@ layout: default
     {% assign all_orgs = site.organizations | sort: "title" %}
     {% assign children = all_orgs | where: "parent_organization", page.title %}
     {% if children and children.size > 0 %}
-      <hr/>
-      <h2>Units within the {{ page.title }}</h2>
-    <div class="hierarchy-tree">
-      <ul class="hierarchy-tree-list">
-        {% for child in children %}
-          {% include org-tree.html organization=child organizations=all_orgs %}
-        {% endfor %}
-      </ul>
-    </div>
+      <section>
+        <h2>Units within the {{ page.title }}</h2>
+        <div class="hierarchy-tree">
+          <ul class="hierarchy-tree-list">
+            {% for child in children %}
+              {% include org-tree.html organization=child organizations=all_orgs %}
+            {% endfor %}
+          </ul>
+        </div>
+      </section>
     {% endif %}
   </div>
 </article>

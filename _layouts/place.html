@@ -35,10 +35,6 @@ layout: default
   </header>
 
   <div class="page-content">
-    {% if page.zip_codes %}
-      <p class="place-detail"><strong>ZIP Codes:</strong> {{ page.zip_codes | join: ', ' }}</p>
-    {% endif %}
-
     {% assign all_places = site.places | sort: "title" %}
     {% assign child_places = all_places | where: "parent_place", page.title %}
     {% assign all_orgs = site.organizations | sort: "title" %}
@@ -85,7 +81,7 @@ layout: default
     {% endif %}
 
     {% if place_news and place_news.size > 0 %}
-      <section class="news-section">
+      <section>
         <h2>News related to {{ page.title }}</h2>
         <ul class="news-list">
           {% for post in place_news %}
