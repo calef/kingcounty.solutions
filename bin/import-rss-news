@@ -15,6 +15,7 @@ NEWS_DIR = '_posts'
 SOURCES_DIR = '_organizations'
 MAX_ITEM_AGE_DAYS = 365
 MAX_FILENAME_BYTES = 255
+CHECKSUM_FILE = File.expand_path('feed_checksums.yml', __dir__)
 
 FileUtils.mkdir_p(NEWS_DIR)
 
@@ -109,6 +110,22 @@ def filename_slug(title, link, date_prefix)
   slug.length > max_slug_length ? slug[0, max_slug_length] : slug
 end
 
+def load_feed_checksums
+  return {} unless File.exist?(CHECKSUM_FILE)
+
+  data = YAML.safe_load(File.read(CHECKSUM_FILE))
+  data.is_a?(Hash) ? data : {}
+rescue StandardError => e
+  warn "Failed to load feed checksum cache (#{CHECKSUM_FILE}): #{e.message}"
+  {}
+end
+
+def save_feed_checksums(data)
+  File.write(CHECKSUM_FILE, data.to_yaml)
+end
+
+feed_checksums = load_feed_checksums
+
 # Iterate through all Markdown files in _sources
 Dir.glob("#{SOURCES_DIR}/*.md") do |source_file|
   frontmatter = read_frontmatter(source_file)
@@ -118,10 +135,17 @@ Dir.glob("#{SOURCES_DIR}/*.md") do |source_file|
   next unless rss_url # Skip if no RSS URL
 
   begin
-    URI.open(rss_url) do |rss|
-      feed = RSS::Parser.parse(rss, false)
+    rss_content = URI.open(rss_url, &:read)
+    checksum = Digest::SHA256.hexdigest(rss_content)
 
-      feed.items.each do |item|
+    if feed_checksums[rss_url] == checksum
+      puts "Skipping #{source_title} (feed unchanged)"
+      next
+    end
+
+    feed = RSS::Parser.parse(rss_content, false)
+
+    feed.items.each do |item|
         published_time = published_at(item)
         unless published_time
           warn "Skipping #{item.link || item.title} (missing publish date)"
@@ -174,7 +198,8 @@ Dir.glob("#{SOURCES_DIR}/*.md") do |source_file|
         File.write(filename, "---\n#{news_frontmatter.to_yaml.sub(/\A---\s*\n/, '')}---\n\n#{content_md}")
         puts "Created #{filename}"
       end
-    end
+
+    feed_checksums[rss_url] = checksum
   rescue OpenURI::HTTPError, SocketError => e
     warn "Failed to fetch RSS feed for source '#{source_title}' (#{rss_url}): #{e.message}"
     next
@@ -186,3 +211,5 @@ Dir.glob("#{SOURCES_DIR}/*.md") do |source_file|
     next
   end
 end
+
+save_feed_checksums(feed_checksums)

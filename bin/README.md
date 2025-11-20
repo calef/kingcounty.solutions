@@ -78,6 +78,7 @@ Imports recent partner updates from every `_organizations/*.md` that exposes `ne
 - De-duplicates by checking existing `_posts/` entries whose `original_content` is present and `source_url` matches.
 - Attempts to scrape the article body directly (preferring known selectors) if the RSS item lacks `content:encoded`.
 - Converts HTML to Markdown via `ReverseMarkdown`, stores the upstream HTML in `original_content`, and saves the cleaned Markdown body beneath a single YAML front matter block.
+- Stores SHA256 checksums for each feed in `bin/feed_checksums.yml` and skips reprocessing feeds whose checksum has not changed since the previous run.
 
 ### `list-openai-models`
 
