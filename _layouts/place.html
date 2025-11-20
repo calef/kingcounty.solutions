@@ -2,8 +2,8 @@
 layout: default
 ---
 
-<article class="page place-page">
-  <header class="page-header">
+<article>
+  <header>
     {% assign breadcrumb_parents = "" | split: "" %}
     {% assign current_parent = page.parent_place %}
     {% assign all_places_for_breadcrumbs = site.places %}
@@ -31,6 +31,7 @@ layout: default
     {% endfor %}
     {% assign breadcrumb_parents = breadcrumb_parents | reverse %}
     {% include breadcrumbs.html trail=breadcrumb_parents current=page.title %}
+    <h1>{{ page.title }}</h1>
   </header>
 
   <div class="page-content">
@@ -89,7 +90,7 @@ layout: default
         <ul class="news-list">
           {% for post in place_news %}
             <li class="news-item">
-              <h3 class="news-title">
+              <h3>
                 <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
               </h3>
               <p class="news-meta">
@@ -127,7 +128,7 @@ layout: default
     {% endif %}
 
     {% if child_places and child_places.size > 0 %}
-      <section class="place-children">
+      <section>
         <h2>Places within {{ page.title }}</h2>
         <div class="hierarchy-tree">
           <ul class="hierarchy-tree-list">

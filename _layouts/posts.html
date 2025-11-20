@@ -2,9 +2,10 @@
 layout: default
 ---
 
-<article class="page news-archive">
-  <header class="page-header">
+<article>
+  <header>
     {% include breadcrumbs.html %}
+    <h1>{{ page.title }}</h1>
   </header>
 
   <div class="page-content">
@@ -19,7 +20,7 @@ layout: default
       <ul class="news-list">
         {%- for post in paginated_posts -%}
           <li class="news-item">
-            <h3 class="news-title">
+            <h3>
               <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
             </h3>
             <p class="news-meta">

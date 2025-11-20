@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<article class="page">
+<article>
 
   {% comment %}
   ▸ Breadcrumb trail: recursively walk up the organization hierarchy (no "Home")
@@ -46,8 +46,9 @@ layout: default
       {% endif %}
     {% endfor %}
   {% endif %}
-  <header class="page-header">
+  <header>
     {% include breadcrumbs.html trail=org_trail current=breadcrumb_current %}
+    <h1>{{ page.title }}</h1>
     {% if page.topics and page.topics.size > 0 %}
       <div class="topic-tags">
         {% assign sorted_topics = page.topics | sort %}
@@ -73,38 +74,7 @@ layout: default
     {% assign has_contact_info = true %}
   {% endif %}
 
-  <div class="page-content{% unless has_contact_info %} page-content--compact{% endunless %}">
-
-    {% if has_contact_info %}
-      <table class="org-info">
-        <tbody>
-          {% if page.email %}
-          <tr>
-            <th>Email</th>
-            <td><a href="mailto:{{ page.email }}">{{ page.email }}</a></td>
-          </tr>
-          {% endif %}
-
-          {% if page.phone %}
-            {% assign tel = page.phone | replace: ' ', '' | replace: '(', '' | replace: ')', '' | replace: '-', '' %}
-            <tr>
-              <th>Phone</th>
-              <td><a href="tel:+1{{ tel }}">+1 {{ page.phone }}</a></td>
-            </tr>
-          {% endif %}
-
-          {% if page.address %}
-          <tr>
-            <th>Address</th>
-            <td>
-              {{ page.address }}<br/>
-              <a href="https://www.google.com/maps/search/?api=1&query={{ page.address | uri_escape }}" rel="noopener noreferrer">View on map</a>
-            </td>
-          </tr>
-          {% endif %}
-        </tbody>
-      </table>
-    {% endif %}
+  <div class="page-content">
 
     {% if content %}
       <div class="org-body">
@@ -125,7 +95,7 @@ layout: default
         <ul class="news-list">
           {% for post in org_news_posts %}
             <li class="news-item">
-              <h3 class="news-title">
+              <h3>
                 <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
               </h3>
               <p class="news-meta">
