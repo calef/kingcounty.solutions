@@ -4,6 +4,6 @@
 
 layout: topics
 permalink: /topics/
-title: Topics
+title: Services
 ---
 Explore the services below.
