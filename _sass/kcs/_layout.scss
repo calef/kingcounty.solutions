@@ -244,16 +244,6 @@
 }
 
 /**
- * Page content
- */
-.page-content {
-  padding: $spacing-unit 0;
-  margin-top: 0;
-  padding-top: 0;
-  flex: 1;
-}
-
-/**
  * Posts
  */
 .post-header {
@@ -337,29 +327,8 @@
 /**
  * Topics and organizations
  */
-.topic-organizations {
-  margin-top: 1.5rem;
-}
-
-.org-section {
-  margin-bottom: 2rem;
-}
-
-.org-body {
-  margin-top: 1.5rem;
-}
-
-.org-website {
-  margin-top: 1.5rem;
-  font-style: italic;
-}
-
 .topic-body {
   margin-bottom: 1.5rem;
-}
-
-.topic-body + .topic-organizations {
-  margin-top: 1.5rem;
 }
 
 .topic-tags {
@@ -385,24 +354,6 @@
 /**
  * News listings
  */
-.news-list {
-  list-style: none;
-  padding: 0;
-  margin: 0;
-}
-
-.news-item {
-  margin-bottom: 0.35rem;
-  padding-bottom: 0.75rem;
-  border-bottom: 1px solid #eee;
-}
-
-.news-item:last-child {
-  border-bottom: none;
-  margin-bottom: 0;
-  padding-bottom: 0;
-}
-
 .news-meta {
   margin: 0;
   color: #666;
@@ -421,10 +372,6 @@
   margin: 0.1rem 0 0.5rem;
   color: #444;
   font-size: 0.95em;
-}
-
-.news-more {
-  margin-top: 0.5rem;
 }
 
 .news-pagination {

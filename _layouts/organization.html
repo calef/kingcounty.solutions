@@ -74,58 +74,57 @@ layout: default
     {% assign has_contact_info = true %}
   {% endif %}
 
-  <div class="page-content">
 
-    {% if content %}
-      <div class="org-body">
-        {{ content }}
-      </div>
-    {% endif %}
+  {{ content }}
 
-    {% if page.website %}
-      <p class="org-website">
-        For more information, see the
-        <a href="{{ page.website }}" rel="noopener noreferrer">{{ page.title }} website</a>.
-      </p>
-    {% endif %}
+  {% if page.website %}
+    <p>
+      For more information, see the
+      <a href="{{ page.website }}" rel="noopener noreferrer">{{ page.title }} website</a>.
+    </p>
+  {% endif %}
 
-    {% if org_news_posts and org_news_posts.size > 0 %}
-      <section>
+  {% if org_news_posts and org_news_posts.size > 0 %}
+    <section>
+      <header>
         <h2>News related to {{ page.title }}</h2>
-        <ul class="news-list">
-          {% for post in org_news_posts %}
-            <li class="news-item">
-              <h3>
-                <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-              </h3>
-              <p class="news-meta">
-                <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
-              </p>
-              {% assign news_excerpt = post.excerpt | strip_html | strip_newlines %}
-              {% if news_excerpt %}
-                <p class="news-excerpt">{{ news_excerpt | truncate: 220 }}</p>
-              {% endif %}
-            </li>
+      </header>
+      {% for post in org_news_posts %}
+        <article>
+          <header>
+            <h3>
+              <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+            </h3>
+            <p class="news-meta">
+              <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
+            </p>
+          </header>
+          {% assign news_excerpt = post.excerpt | strip_html | strip_newlines %}
+          {% if news_excerpt %}
+            <p class="news-excerpt">{{ news_excerpt | truncate: 220 }}</p>
+          {% endif %}
+        </article>
+      {% endfor %}
+    </section>
+  {% endif %}
+
+  {% assign all_orgs = site.organizations | sort: "title" %}
+  {% assign children = all_orgs | where: "parent_organization", page.title %}
+  {% if children and children.size > 0 %}
+    <section>
+      <header>
+        <h2>Units within the {{ page.title }}</h2>
+      </header>
+      <div class="hierarchy-tree">
+        <ul class="hierarchy-tree-list">
+          {% for child in children %}
+            {% include org-tree.html organization=child organizations=all_orgs %}
           {% endfor %}
         </ul>
-      </section>
-    {% endif %}
+      </div>
+    </section>
+  {% endif %}
 
-    {% assign all_orgs = site.organizations | sort: "title" %}
-    {% assign children = all_orgs | where: "parent_organization", page.title %}
-    {% if children and children.size > 0 %}
-      <section>
-        <h2>Units within the {{ page.title }}</h2>
-        <div class="hierarchy-tree">
-          <ul class="hierarchy-tree-list">
-            {% for child in children %}
-              {% include org-tree.html organization=child organizations=all_orgs %}
-            {% endfor %}
-          </ul>
-        </div>
-      </section>
-    {% endif %}
-  </div>
 </article>
 
 <script type="application/ld+json">

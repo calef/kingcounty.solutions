@@ -8,9 +8,7 @@ title: Organizations Directory
     {% include breadcrumbs.html %}
     <h1>{{ page.title }}</h1>
   </header>
-  <div class="page-content">
-      {{ content }}
-  </div>
+  {{ content }}
 
   {%- assign all = site.organizations | sort: "title" -%}
 
@@ -33,8 +31,12 @@ title: Organizations Directory
   FEDERAL
   {%- endcomment -%}
   {%- if federal_root -%}
-    <section class="org-section">
-      <h2><a href="{{ federal_root.url | relative_url }}">United States Federal Government</a></h2>
+    <section>
+      <header>
+        <h2>
+          <a href="{{ federal_root.url | relative_url }}">United States Federal Government</a>
+        </h2>
+      </header>
       {%- assign federal_children = all | where: "parent_organization", "United States Federal Government" | sort: "title" -%}
       {%- if federal_children.size > 0 -%}
         <div class="hierarchy-tree">
@@ -56,8 +58,12 @@ title: Organizations Directory
   STATE
   {%- endcomment -%}
   {%- if washington_root -%}
-    <section class="org-section">
-      <h2><a href="{{ washington_root.url | relative_url }}">State of Washington</a></h2>
+    <section>
+      <header>
+        <h2>
+          <a href="{{ washington_root.url | relative_url }}">State of Washington</a>
+        </h2>
+      </header>
       {%- assign state_children = all | where: "parent_organization", "State of Washington" | sort: "title" -%}
       {%- if state_children.size > 0 -%}
         <div class="hierarchy-tree">
@@ -79,8 +85,10 @@ title: Organizations Directory
   COUNTY
   {%- endcomment -%}
   {%- if king_county_root -%}
-    <section class="org-section">
-      <h2><a href="{{ king_county_root.url | relative_url }}">King County</a></h2>
+    <section>
+      <header>
+        <h2><a href="{{ king_county_root.url | relative_url }}">King County</a></h2>
+      </header>
       {%- assign county_children = all | where: "parent_organization", "King County" | sort: "title" -%}
       {%- if county_children.size > 0 -%}
         <div class="hierarchy-tree">
@@ -102,8 +110,10 @@ title: Organizations Directory
   PUBLIC HOSPITAL DISTRICTS
   {%- endcomment -%}
   {%- if hospital.size > 0 -%}
-    <section class="org-section">
-      <h2>Public Hospital Districts</h2>
+    <section>
+      <header>
+        <h2>Public Hospital Districts</h2>
+      </header>
       <div class="hierarchy-tree">
         <ul class="hierarchy-tree-list">
           {%- for entity in hospital -%}
@@ -119,8 +129,10 @@ title: Organizations Directory
   SPECIAL PURPOSE DISTRICTS
   {%- endcomment -%}
   {%- if special.size > 0 -%}
-    <section class="org-section">
-      <h2>Special Purpose Districts</h2>
+    <section>
+      <header>
+        <h2>Special Purpose Districts</h2>
+      </header>
       <div class="hierarchy-tree">
         <ul class="hierarchy-tree-list">
           {%- for entity in special -%}
@@ -136,8 +148,10 @@ title: Organizations Directory
   TRIBAL GOVERNMENTS
   {%- endcomment -%}
   {%- if tribal.size > 0 -%}
-    <section class="org-section">
-      <h2>Tribal Governments</h2>
+    <section>
+      <header>
+        <h2>Tribal Governments</h2>
+      </header>
       <div class="hierarchy-tree">
         <ul class="hierarchy-tree-list">
           {%- for entity in tribal -%}
@@ -153,8 +167,10 @@ title: Organizations Directory
   CITIES & TOWNS
   {%- endcomment -%}
   {%- if cities.size > 0 -%}
-    <section class="org-section">
-      <h2>Cities and Towns</h2>
+    <section>
+      <header>
+        <h2>Cities and Towns</h2>
+      </header>
       <div class="hierarchy-tree">
         <ul class="hierarchy-tree-list">
           {%- for entity in cities -%}
@@ -171,8 +187,10 @@ title: Organizations Directory
   {%- endcomment -%}
   {%- assign top_level_cbos = cbos | where_exp: "i", "i.parent_organization == nil or i.parent_organization == ''" -%}
   {%- if top_level_cbos.size > 0 -%}
-  <section class="org-section">
-    <h2>Community-Based Organizations</h2>
+  <section>
+    <header>
+      <h2>Community-Based Organizations</h2>
+    </header>
     <div class="hierarchy-tree">
       <ul class="hierarchy-tree-list">
         {%- for entity in top_level_cbos -%}
@@ -212,8 +230,10 @@ title: Organizations Directory
   {%- endcapture -%}
 
   {%- if filtered_others contains "hierarchy-tree-item" -%}
-    <section class="org-section">
-      <h2>Other</h2>
+    <section>
+      <header>
+        <h2>Other</h2>
+      </header>
       <div class="hierarchy-tree">
         <ul class="hierarchy-tree-list">
           {{ filtered_others }}

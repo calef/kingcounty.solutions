@@ -8,22 +8,20 @@ layout: default
     <h1>{{ page.title }}</h1>
   </header>
 
-  <div class="page-content">
-    {{ content }}
+  {{ content }}
 
-    {% assign all_places = site.places | sort: "title" %}
-    {% assign top_level_places = all_places | where_exp: "place", "place.parent_place == nil" %}
+  {% assign all_places = site.places | sort: "title" %}
+  {% assign top_level_places = all_places | where_exp: "place", "place.parent_place == nil" %}
 
-    <div class="hierarchy-tree">
-      {% if top_level_places and top_level_places.size > 0 %}
-        <ul class="hierarchy-tree-list">
-          {% for place in top_level_places %}
-            {% include place-tree.html place=place places=all_places %}
-          {% endfor %}
-        </ul>
-      {% else %}
-        <p>No places have been added yet.</p>
-      {% endif %}
-    </div>
+  <div class="hierarchy-tree">
+    {% if top_level_places and top_level_places.size > 0 %}
+      <ul class="hierarchy-tree-list">
+        {% for place in top_level_places %}
+          {% include place-tree.html place=place places=all_places %}
+        {% endfor %}
+      </ul>
+    {% else %}
+      <p>No places have been added yet.</p>
+    {% endif %}
   </div>
 </article>

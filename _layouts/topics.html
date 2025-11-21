@@ -8,24 +8,20 @@ layout: default
     <h1>{{ page.title }}</h1>
   </header>
 
-  <div class="page-content">
-    {{ content }}
+  {{ content }}
 
 
-    {% assign all_topics = site.topics | sort: "title" %}
+  {% assign all_topics = site.topics | sort: "title" %}
 
-    <div class="hierarchy-tree">
-      {% if all_topics and all_topics.size > 0 %}
-        <ul class="hierarchy-tree-list">
-          {% for topic in all_topics %}
-            <li class="hierarchy-tree-item">
-              <a href="{{ topic.url | relative_url }}">{{ topic.title }}</a>
-            </li>
-          {% endfor %}
-        </ul>
-      {% else %}
-        <p>No topics have been added yet.</p>
-      {% endif %}
-    </div>
+  <div class="hierarchy-tree">
+    {% if all_topics and all_topics.size > 0 %}
+      <ul class="hierarchy-tree-list">
+        {% for topic in all_topics %}
+          <li class="hierarchy-tree-item">
+            <a href="{{ topic.url | relative_url }}">{{ topic.title }}</a>
+          </li>
+        {% endfor %}
+      </ul>
+    {% endif %}
   </div>
 </article>

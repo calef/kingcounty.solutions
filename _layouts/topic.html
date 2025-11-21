@@ -24,77 +24,69 @@ layout: default
     {% endif %}
   {% endfor %}
 
-  <div class="page-content">
-    {% if content %}
-      <div class="topic-body">
-        {{ content }}
-      </div>
-    {% endif %}
+  {{ content }}
 
-    {% if topic_orgs and topic_orgs.size > 0 %}
-      <section class="topic-organizations">
-        <h2>Organizations focused on {{ page.title }}</h2>
-        <div class="hierarchy-tree">
-          <ul class="hierarchy-tree-list">
-            {% for org in topic_org_roots %}
-              {% include org-tree.html organization=org organizations=topic_orgs %}
-            {% endfor %}
-          </ul>
-        </div>
-      </section>
-    {% else %}
-      <section class="topic-organizations">
-        <h2>Organizations focused on {{ page.title }}</h2>
-        <p>No organizations have been linked to this topic yet.</p>
-      </section>
-    {% endif %}
-
-    {% assign topic_news = site.posts | where_exp: "post", "post.topics and post.topics contains page.title" %}
-    {% assign topic_news_total = 0 %}
-    {% if topic_news and topic_news.size > 0 %}
-      {% assign topic_news = topic_news | sort: "date" | reverse %}
-      {% assign topic_news_total = topic_news | size %}
-      {% assign topic_news = topic_news | slice: 0, 20 %}
-      <section>
+  {% assign topic_news = site.posts | where_exp: "post", "post.topics and post.topics contains page.title" %}
+  {% assign topic_news_total = 0 %}
+  {% if topic_news and topic_news.size > 0 %}
+    {% assign topic_news = topic_news | sort: "date" | reverse %}
+    {% assign topic_news_total = topic_news | size %}
+    {% assign topic_news = topic_news | slice: 0, 20 %}
+    <section>
+      <header>
         <h2>News related to {{ page.title }}</h2>
-        <ul class="news-list">
-          {% for post in topic_news %}
-            <li class="news-item">
-              <h3>
-                <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-              </h3>
-              <p class="news-meta">
-                <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
-                {% assign source_text = post.source | default: post.source_url %}
-                {% if source_text %}
-                  • <span class="news-source">
-                    {% assign matching_org = nil %}
-                    {% if post.source %}
-                      {% assign matching_org = site.organizations | where: "title", post.source | first %}
-                    {% endif %}
-                    {% if matching_org %}
-                      <a href="{{ matching_org.url | relative_url }}">{{ post.source }}</a>
-                    {% elsif post.source_url %}
-                      <a href="{{ post.source_url }}" rel="noopener noreferrer">{{ source_text }}</a>
-                    {% else %}
-                      {{ source_text }}
-                    {% endif %}
-                  </span>
-                {% endif %}
-              </p>
-              {% assign post_excerpt = post.excerpt | strip_html | strip_newlines %}
-              {% if post_excerpt %}
-                <p class="news-excerpt">{{ post_excerpt | truncate: 220 }}</p>
+      </header>
+      {% for post in topic_news %}
+        <article>
+          <header>
+            <h3>
+              <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+            </h3>
+            <p class="news-meta">
+              <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
+              {% assign source_text = post.source | default: post.source_url %}
+              {% if source_text %}
+                • <span class="news-source">
+                  {% assign matching_org = nil %}
+                  {% if post.source %}
+                    {% assign matching_org = site.organizations | where: "title", post.source | first %}
+                  {% endif %}
+                  {% if matching_org %}
+                    <a href="{{ matching_org.url | relative_url }}">{{ post.source }}</a>
+                  {% elsif post.source_url %}
+                    <a href="{{ post.source_url }}" rel="noopener noreferrer">{{ source_text }}</a>
+                  {% else %}
+                    {{ source_text }}
+                  {% endif %}
+                </span>
               {% endif %}
-            </li>
+            </p>
+          </header>
+          {% assign post_excerpt = post.excerpt | strip_html | strip_newlines %}
+          {% if post_excerpt %}
+            <p class="news-excerpt">{{ post_excerpt | truncate: 220 }}</p>
+          {% endif %}
+        </article>
+      {% endfor %}
+      {% if topic_news_total > 20 %}
+        <p>
+          <a href="{{ '/' | relative_url }}">View all news</a>
+        </p>
+      {% endif %}
+    </section>
+  {% endif %}
+  {% if topic_orgs and topic_orgs.size > 0 %}
+    <section>
+      <header>
+        <h2>Organizations focused on {{ page.title }}</h2>
+      </header>
+      <div class="hierarchy-tree">
+        <ul class="hierarchy-tree-list">
+          {% for org in topic_org_roots %}
+            {% include org-tree.html organization=org organizations=topic_orgs %}
           {% endfor %}
         </ul>
-        {% if topic_news_total > 20 %}
-          <p class="news-more">
-            <a href="{{ '/' | relative_url }}">View all news</a>
-          </p>
-        {% endif %}
-      </section>
-    {% endif %}
-  </div>
+      </div>
+    </section>
+  {% endif %}
 </article>
