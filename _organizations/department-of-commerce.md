@@ -6,9 +6,7 @@ parent_organization: State Executive Branch
 title: Department of Commerce
 topics:
 - Community & Social Services
-- Economic Development
 - Financial Assistance
-- Housing Stability
 - Transportation & Mobility
 type: Department
 website: https://www.commerce.wa.gov/
