@@ -7,6 +7,7 @@ Utility commands that automate content imports, auditing, and metadata maintenan
 | Script | What it does |
 | --- | --- |
 | `audit-organization-topics` | Uses OpenAI to reconcile each organization’s topics against recent news coverage and optionally rewrites front matter. |
+| `generate-organization-from-url` | Scrapes a site, asks OpenAI for metadata, and creates a new `_organizations/*.md` entry. |
 | `generate-weekly-summary` | Builds a weekly roundup article from `_posts/`, grouping stories into themes with LLM assistance. |
 | `import-rss-news` | Pulls fresh posts from partner RSS feeds defined in `_organizations/` and writes Markdown copies into `_posts/`. |
 | `list-openai-models` | Lists available OpenAI model IDs for the current API key. |
@@ -36,6 +37,31 @@ Reviews each `_organizations/*.md` file’s topics using `_topics/` metadata plu
 - Without `--apply`, the script only prints or writes the audit report.
 - When `--apply` is supplied, it edits each organization file by removing unsupported topics and appending new ones suggested by the audit, keeping the list sorted and unique.
 - Includes up to `--max-posts` (default 5) of the organization’s recent `_posts/` content in the LLM prompt.
+
+### `generate-organization-from-url`
+
+**Purpose**  
+Scrapes a single organization website (following same-host links) and asks OpenAI to draft front matter and a short summary, then writes a new `_organizations/<slug>.md` entry.
+
+**Usage**
+
+- `bin/generate-organization-from-url https://example.org`
+
+**Key env/config**
+
+- `OPENAI_API_KEY` – required.
+- `OPENAI_ORG_MODEL` – overrides the default `gpt-4o-mini`.
+- `ORG_SCRAPER_MAX_PAGES` – how many same-host pages to crawl (default 5).
+- `ORG_SCRAPER_PAGE_SNIPPET` – max characters of text per page sent to the prompt (default 3000).
+- `ORG_SCRAPER_TIMEOUT` – HTTP open/read timeout in seconds (default 10).
+
+**Behavior notes**
+
+- Skips creation if an existing `_organizations/*.md` already lists the same normalized `website`.
+- Crawls up to the configured page limit on the target host, strips nav/scripts, and feeds truncated text to the LLM along with allowed topics/types inferred from existing files.
+- Filters `jurisdictions` to known place titles (defaults to `King County` when the model returns unusable values), coerces `type` to the known set or falls back to `Community-Based Organization`, and keeps acronyms only if they are short uppercase strings.
+- Attempts to auto-detect RSS/Atom and iCal links while scraping and fills `news_rss_url` / `events_ical_url` when absent.
+- Generates a slug from the title, ensures uniqueness, writes ordered front matter plus a 100-word-capped summary body, and prints the created path.
 
 ### `generate-weekly-summary`
 
