@@ -1,0 +1,99 @@
+---
+title: Neighborhood Store Steps Up
+date: '2025-11-13T19:48:56+00:00'
+source: Atlantic Street Center
+source_url: https://atlanticstreetcenter.org/2025/11/13/neighborhood-store-steps-up/?utm_source=rss&utm_medium=rss&utm_campaign=neighborhood-store-steps-up
+original_content: "<div data-elementor-type=\"wp-post\" data-elementor-id=\"9578\"
+  class=\"elementor elementor-9578\">\n\t\t\t\t<div class=\"elementor-element elementor-element-3cb6c0e
+  e-flex e-con-boxed e-con e-parent\" data-id=\"3cb6c0e\" data-element_type=\"container\">\n\t\t\t\t\t<div
+  class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-1ee2625
+  elementor-widget elementor-widget-text-editor\" data-id=\"1ee2625\" data-element_type=\"widget\"
+  data-widget_type=\"text-editor.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p>With
+  so many expensive grocery stores throughout King County, it can be challenging for
+  any family to find ingredients that are affordable and fit their cultural and taste
+  needs. And when you factor in allergies, intolerances, and the price of gas or transportation,
+  our communities continue to face barriers for their most basic need: eating.</p><p>Thanks
+  to a new and delectable friendship with our local Trader Joe’s, more of our families
+  have found access to great prices and products. With assistance from knowledgeable
+  Crew Members, our Atlantic Street Center families have also discovered new recipes,
+  specifically our Kinship Care Support Group participants!</p><p><img fetchpriority=\"high\"
+  decoding=\"async\" class=\"alignleft wp-image-9600 size-medium\" src=\"https://atlanticstreetcenter.org/wp-content/uploads/2025/11/pngIMG_3482-285x300.jpg\"
+  alt=\"\" width=\"285\" height=\"300\" /></p><p>There are 18,000 kinship caregivers
+  in King County, which means that many older adults of retirement age are raising
+  children.<a href=\"#_ftn1\" name=\"_ftnref1\">[1]</a> Additionally, 10% of seniors
+  in King County are below the poverty line.<a href=\"#_ftn2\" name=\"_ftnref2\">[2]</a>
+  Atlantic Street Center (ASC) must allocate as many resources as possible for the
+  participants we serve.</p><p>When Trader Joe’s in Burien stepped up to support,
+  they created a true shopping adventure for our grandparents and their families.
+  ASC participants were invited to the store to learn more about Trader Joe&#8217;s
+  branded items, and how certain groceries could be helpful and nutritious additions
+  to their homes.</p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t<div
+  class=\"elementor-element elementor-element-be23450 e-flex e-con-boxed e-con e-parent\"
+  data-id=\"be23450\" data-element_type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div
+  class=\"elementor-element elementor-element-0d51815 elementor-widget elementor-widget-heading\"
+  data-id=\"0d51815\" data-element_type=\"widget\" data-widget_type=\"heading.default\">\n\t\t\t\t<div
+  class=\"elementor-widget-container\">\n\t\t\t\t\t<h2 class=\"elementor-heading-title
+  elementor-size-default\"><h2 data-elementor-setting-key=\"title\" data-pen-placeholder=\"Type
+  Here...\" style=\"font-family: Roboto, sans-serif;font-weight: 600\">“This was an
+  amazing experience,” said participant Mary.&nbsp;“I learned a lot about how to read
+  the tags for gluten free, vegan and organic food options. The items the store staff
+  displayed helped me put together a healthy meal for under $10 dollars.”<span></span></h2></h2>\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t<div
+  class=\"elementor-element elementor-element-589b4e3 e-flex e-con-boxed e-con e-parent\"
+  data-id=\"589b4e3\" data-element_type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div
+  class=\"elementor-element elementor-element-bee9453 elementor-widget elementor-widget-text-editor\"
+  data-id=\"bee9453\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div
+  class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p><img decoding=\"async\"
+  class=\"alignright size-medium wp-image-9599\" src=\"https://atlanticstreetcenter.org/wp-content/uploads/2025/11/pngIMG_3468-271x300.jpg\"
+  alt=\"\" width=\"271\" height=\"300\" />The Trader Joe’s Crew Members treated us
+  to some amazing samples (yum!) and showed us exactly where to find each ingredient
+  in the store. They made the experience even better by walking us through how each
+  item is made and what goes into it.</p><p>Value is vital, especially when food accessibility
+  is shrinking. By Trader Joe’s hosting our Kinship Care Support Group, our families
+  now have uncovered their own resource they can visit again and again. Having the
+  ability to purchase affordable and tasty food is not just helpful; it is survival.</p><p>Thank
+  you, Trader Joe’s! This is one way the community can work to help families go from
+  surviving to thriving.</p><p><img decoding=\"async\" class=\"aligncenter wp-image-9602
+  size-large\" src=\"https://atlanticstreetcenter.org/wp-content/uploads/2025/11/pngIMG_3661-1024x805.jpg\"
+  alt=\"\" width=\"1024\" height=\"805\" /></p><p><a href=\"#_ftnref1\" name=\"_ftn1\">[1]</a>
+  Catholic Community Services of Western Washington &#8211; Kinship Care Services,
+  King County – 2023 | <strong><a href=\"https://ccsww.org/services/kinship-services/\">LINK</a></strong></p><p><a
+  href=\"#_ftnref2\" name=\"_ftn2\">[2]</a> Census Reporter – King County, WA – 2023
+  | <strong><a href=\"https://censusreporter.org/profiles/05000US53033-king-county-wa/\">LINK</a></strong></p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>"
+original_markdown_body: "With so many expensive grocery stores throughout King County,
+  it can be challenging for any family to find ingredients that are affordable and
+  fit their cultural and taste needs. And when you factor in allergies, intolerances,
+  and the price of gas or transportation, our communities continue to face barriers
+  for their most basic need: eating.\n\nThanks to a new and delectable friendship
+  with our local Trader Joe’s, more of our families have found access to great prices
+  and products. With assistance from knowledgeable Crew Members, our Atlantic Street
+  Center families have also discovered new recipes, specifically our Kinship Care
+  Support Group participants!\n\n![](https://atlanticstreetcenter.org/wp-content/uploads/2025/11/pngIMG_3482-285x300.jpg)\n\nThere
+  are 18,000 kinship caregivers in King County, which means that many older adults
+  of retirement age are raising children.[[1]](#_ftn1) Additionally, 10% of seniors
+  in King County are below the poverty line.[[2]](#_ftn2) Atlantic Street Center (ASC)
+  must allocate as many resources as possible for the participants we serve.\n\nWhen
+  Trader Joe’s in Burien stepped up to support, they created a true shopping adventure
+  for our grandparents and their families. ASC participants were invited to the store
+  to learn more about Trader Joe’s branded items, and how certain groceries could
+  be helpful and nutritious additions to their homes.\n\n## \n## “This was an amazing
+  experience,” said participant Mary.&nbsp;“I learned a lot about how to read the
+  tags for gluten free, vegan and organic food options. The items the store staff
+  displayed helped me put together a healthy meal for under $10 dollars.”\n\n![](https://atlanticstreetcenter.org/wp-content/uploads/2025/11/pngIMG_3468-271x300.jpg)The
+  Trader Joe’s Crew Members treated us to some amazing samples (yum!) and showed us
+  exactly where to find each ingredient in the store. They made the experience even
+  better by walking us through how each item is made and what goes into it.\n\nValue
+  is vital, especially when food accessibility is shrinking. By Trader Joe’s hosting
+  our Kinship Care Support Group, our families now have uncovered their own resource
+  they can visit again and again. Having the ability to purchase affordable and tasty
+  food is not just helpful; it is survival.\n\nThank you, Trader Joe’s! This is one
+  way the community can work to help families go from surviving to thriving.\n\n![](https://atlanticstreetcenter.org/wp-content/uploads/2025/11/pngIMG_3661-1024x805.jpg)\n\n[[1]](#_ftnref1)
+  Catholic Community Services of Western Washington – Kinship Care Services, King
+  County – 2023 | **[LINK](https://ccsww.org/services/kinship-services/)**\n\n[[2]](#_ftnref2)
+  Census Reporter – King County, WA – 2023 | **[LINK](https://censusreporter.org/profiles/05000US53033-king-county-wa/)**"
+summarized: true
+topics:
+- Food & Nutrition
+- Community & Social Services
+---
+
+With rising grocery costs in King County, many families struggle to find affordable food that meets their dietary needs. In response, Trader Joe’s in Burien has partnered with the Atlantic Street Center (ASC) to support families, particularly kinship caregivers, who often face financial challenges. This collaboration allowed participants to explore Trader Joe’s products, learn about healthy meal preparation, and receive guidance from store Crew Members. Many older adults in King County are raising children, with a significant portion living below the poverty line. The event created a shopping adventure for ASC families, where they discovered how to choose nutritious options and prepare meals on a budget. Participants expressed appreciation for the experience, highlighting the importance of understanding food labels and making healthy choices. The initiative emphasizes the critical need for accessible, affordable food in the community, helping families transition from merely surviving to thriving. Trader Joe’s commitment to supporting these families not only enhances food accessibility but also fosters a sense of community and resourcefulness among participants.

@@ -1,0 +1,108 @@
+---
+title: Keeping Students in Foster Care on Track
+date: '2025-09-11T22:48:59+00:00'
+source: Treehouse
+source_url: https://www.treehouseforkids.org/keeping-students-in-foster-care-on-track/
+original_content: |-
+  <p><span data-contrast="auto"><img loading="lazy" decoding="async" class="aligncenter wp-image-195933 size-large" src="https://www.treehouseforkids.org/wp-content/uploads/2025/09/Untitled-design-7-1024x665.png" alt="" width="1024" height="665" />The back-to-school sales are over, and students are settling into their new seats. But paving the way to educational success is work that never stops. That&#8217;s especially true for students experiencing foster care, who are at the center of a crowded, chaotic hub of bureaucratic systems—child welfare, legal, education, and others depending on the circumstances. Ironically, it’s easy for youth in foster care to get overlooked in the mix.</span><span data-ccp-props="{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335559738&quot;:0,&quot;335559739&quot;:0}"> </span></p>
+  <p><span data-contrast="auto">That’s where Treehouse’s <a href="https://www.treehouseforkids.org/our-services/educational-advocacy/" target="_blank" rel="noopener">Educational Advocacy</a> program steps in. </span><span data-ccp-props="{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335559738&quot;:0,&quot;335559739&quot;:0}"> </span></p>
+  <h3><b><span data-contrast="auto">What Does Educational Advocacy Do?</span></b><span data-ccp-props="{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335559738&quot;:0,&quot;335559739&quot;:0}"> </span></h3>
+  <p><span data-contrast="auto">Educational Advocacy’s </span><i><span data-contrast="auto">only</span></i><span data-contrast="auto"> focus is addressing educational issues for students in foster care. These issues can look like disciplinary exclusions (a.k.a. suspensions and emergency removals), lack of academic progress, and being unenrolled or unable to attend school. And they do it by corralling the student’s network of adults. That includes people like foster parents, parents, social workers, school staff, and more. </span><span data-ccp-props="{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335559738&quot;:0,&quot;335559739&quot;:0}"> </span></p>
+  <table style="border-collapse: collapse; width: 100%;">
+  <tbody>
+  <tr>
+  <td style="width: 50%;">
+  <p><div id="attachment_191242" style="width: 310px" class="wp-caption alignleft"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-191242" class="wp-image-191242 size-medium" src="https://www.treehouseforkids.org/wp-content/uploads/2023/04/Amber-1-300x300.png" alt="" width="300" height="300" srcset="https://www.treehouseforkids.org/wp-content/uploads/2023/04/Amber-1-300x300.png 300w, https://www.treehouseforkids.org/wp-content/uploads/2023/04/Amber-1-150x150.png 150w, https://www.treehouseforkids.org/wp-content/uploads/2023/04/Amber-1.png 600w" sizes="auto, (max-width: 300px) 100vw, 300px" /><p id="caption-attachment-191242" class="wp-caption-text">Amber Alvarez, Director of Educational Advocacy</p></div></td>
+  <td style="width: 50%;"><span data-contrast="auto">“W</span><span data-contrast="none">e get the privilege, as Educational Advocates, to live and breathe Educational Advocacy,” says Amber Alvarez, Director of Educational Advocacy. “Whereas a caregiver has three other kids at home and they work full-time; and a social worker has 20 other families with court dates; and a teacher has 28 other kids in the classroom. A huge part of how we manage and keep it straight is remembering what our lane is and staying in our lane.”</span><span data-ccp-props="{&quot;335572071&quot;:0,&quot;335572072&quot;:0,&quot;335572073&quot;:0,&quot;335572075&quot;:0,&quot;335572076&quot;:0,&quot;335572077&quot;:0,&quot;335572079&quot;:0,&quot;335572080&quot;:0,&quot;335572081&quot;:0,&quot;335572083&quot;:0,&quot;335572084&quot;:0,&quot;335572085&quot;:0,&quot;335572087&quot;:0,&quot;335572088&quot;:0,&quot;335572089&quot;:0,&quot;469789798&quot;:&quot;nil&quot;,&quot;469789802&quot;:&quot;nil&quot;,&quot;469789806&quot;:&quot;nil&quot;,&quot;469789810&quot;:&quot;nil&quot;,&quot;469789814&quot;:&quot;nil&quot;}"> </span></td>
+  </tr>
+  </tbody>
+  </table>
+  <p data-ccp-border-between="0px none #000000" data-ccp-padding-between="0px"><span data-contrast="none">In the 2024–2025 program year, Treehouse advocated for the educational rights of 1,140 youth in Washington state. Last program year, 31% of Educational Advocacy cases created or improved Special Education accommodations, and 15% prevented or expedited school transfers for students in foster care. </span><span data-ccp-props="{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;201341983&quot;:0,&quot;335551550&quot;:1,&quot;335551620&quot;:1,&quot;335559685&quot;:0,&quot;335559737&quot;:0,&quot;335559738&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:279,&quot;335572071&quot;:0,&quot;335572072&quot;:0,&quot;335572073&quot;:0,&quot;335572075&quot;:0,&quot;335572076&quot;:0,&quot;335572077&quot;:0,&quot;335572079&quot;:0,&quot;335572080&quot;:0,&quot;335572081&quot;:0,&quot;335572083&quot;:0,&quot;335572084&quot;:0,&quot;335572085&quot;:0,&quot;335572087&quot;:0,&quot;335572088&quot;:0,&quot;335572089&quot;:0,&quot;469789798&quot;:&quot;nil&quot;,&quot;469789802&quot;:&quot;nil&quot;,&quot;469789806&quot;:&quot;nil&quot;,&quot;469789810&quot;:&quot;nil&quot;,&quot;469789814&quot;:&quot;nil&quot;}"> </span></p>
+  <p><span data-contrast="auto">The job requires an almost encyclopedic knowledge of education codes and laws, how the various systems operate, and best practices for school success. Educational Advocates synthesize all this knowledge and bring everyone to the table. The goal is to ensure students in foster care are getting a fair chance at a good education. </span><span data-ccp-props="{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;201341983&quot;:0,&quot;335551550&quot;:1,&quot;335551620&quot;:1,&quot;335559685&quot;:0,&quot;335559737&quot;:0,&quot;335559738&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:279}"> </span></p>
+  <hr />
+  <h3><b><span data-contrast="auto">Educational Advocacy in Action</span></b><span data-ccp-props="{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;201341983&quot;:0,&quot;335551550&quot;:1,&quot;335551620&quot;:1,&quot;335559685&quot;:0,&quot;335559737&quot;:0,&quot;335559738&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:279}"> </span></h3>
+  <p><em>“A second grader with a diagnosis of ADHD did not have a 504 Plan or IEP on file. The student was suspended twice, and the foster parent was being called almost weekly to pick the student up early due to behaviors.  </em></p>
+  <p><em>The social worker referred them to Treehouse, and an Educational Advocate spoke with the foster parent. They agreed a 504 Plan was needed to outline needed accommodations and to protect the student from being overly disciplined, since their medical diagnosis qualifies as a disability.  </em></p>
+  <p><em>The student received multiple in-class movement breaks a day and started getting daily support from the school’s behavior intervention specialist, including repairing the student’s relationships with peers.  </em></p>
+  <p><em>Since implementing the Educational Advocate’s plan, the student&#8217;s behaviors drastically improved. Thanks to the 504 Plan, their accommodations are documented and will provide extra protection in school.” </em></p>
+  <hr />
+  <h3>Resources for Students in Foster Care</h3>
+  <p><span data-contrast="none">In the state of Washington, students in foster care are entitled to many supports. The trick is making sure the grown-ups in charge are also aware of it. Treehouse created a </span><a href="https://www.treehouseforkids.org/resource-center/" target="_blank" rel="noopener"><span data-contrast="none">Resource Center</span></a><span data-contrast="none"> everyone can access, which includes: </span><span data-ccp-props="{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;201341983&quot;:0,&quot;335551550&quot;:1,&quot;335551620&quot;:1,&quot;335559685&quot;:0,&quot;335559737&quot;:0,&quot;335559738&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:279}"> </span></p>
+  <ul>
+  <li aria-setsize="-1" data-leveltext="-" data-font="Aptos" data-listid="2" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559683&quot;:0,&quot;335559684&quot;:-2,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Aptos&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;-&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-aria-posinset="1" data-aria-level="1"><a href="https://www.treehouseforkids.org/resource-center/pre-k-high-school-academic-resources" target="_blank" rel="noopener"><span data-contrast="none">K–12 education resources</span></a><span data-ccp-props="{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;201341983&quot;:0,&quot;335551550&quot;:1,&quot;335551620&quot;:1,&quot;335559737&quot;:0,&quot;335559738&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:279}"> </span></li>
+  </ul>
+  <ul>
+  <li aria-setsize="-1" data-leveltext="-" data-font="Aptos" data-listid="2" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559683&quot;:0,&quot;335559684&quot;:-2,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Aptos&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;-&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-aria-posinset="2" data-aria-level="1"><a href="https://www.treehouseforkids.org/resource-center/family-supports/" target="_blank" rel="noopener"><span data-contrast="none">Parent and caregiver resources</span></a><span data-ccp-props="{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;201341983&quot;:0,&quot;335551550&quot;:1,&quot;335551620&quot;:1,&quot;335559737&quot;:0,&quot;335559738&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:279}"> </span></li>
+  </ul>
+  <ul>
+  <li aria-setsize="-1" data-leveltext="-" data-font="Aptos" data-listid="2" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559683&quot;:0,&quot;335559684&quot;:-2,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Aptos&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;-&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-aria-posinset="3" data-aria-level="1"><a href="https://www.treehouseforkids.org/resource-center/employment-and-college-resources/" target="_blank" rel="noopener"><span data-contrast="none">Employment and college resources</span></a></li>
+  </ul>
+  <p data-ccp-border-bottom="0px none #000000" data-ccp-padding-bottom="0px" data-ccp-border-between="0px none #000000" data-ccp-padding-between="0px"><span data-contrast="none">“Even though we&#8217;re not directly working with young people, we&#8217;re making just as huge an impact,” says Amber. “We get to provide resources to the adults, so then they can help other young people in their care, on their caseloads, and in their schools.”</span><span data-ccp-props="{&quot;335572071&quot;:0,&quot;335572072&quot;:0,&quot;335572073&quot;:0,&quot;335572075&quot;:0,&quot;335572076&quot;:0,&quot;335572077&quot;:0,&quot;335572079&quot;:0,&quot;335572080&quot;:0,&quot;335572081&quot;:0,&quot;335572083&quot;:0,&quot;335572084&quot;:0,&quot;335572085&quot;:0,&quot;335572087&quot;:0,&quot;335572088&quot;:0,&quot;335572089&quot;:0,&quot;469789798&quot;:&quot;nil&quot;,&quot;469789802&quot;:&quot;nil&quot;,&quot;469789806&quot;:&quot;nil&quot;,&quot;469789810&quot;:&quot;nil&quot;,&quot;469789814&quot;:&quot;nil&quot;}"> </span></p>
+  <h5 data-ccp-border-between="0px none #000000" data-ccp-padding-between="0px"><strong><i>Join our </i><a href="https://www.treehouseforkids.org/take-action/advocate/advocacy-action-center/#/signup/go/" target="_blank" rel="noopener"><i>Advocacy Action Center</i></a><i> to stay updated on education policies Treehouse supports.</i> </strong></h5>
+  <p>The post <a href="https://www.treehouseforkids.org/keeping-students-in-foster-care-on-track/">Keeping Students in Foster Care on Track</a> appeared first on <a href="https://www.treehouseforkids.org">Treehouse</a>.</p>
+original_markdown_body: "![](https://www.treehouseforkids.org/wp-content/uploads/2025/09/Untitled-design-7-1024x665.png)The
+  back-to-school sales are over, and students are settling into their new seats. But
+  paving the way to educational success is work that never stops. That’s especially
+  true for students experiencing foster care, who are at the center of a crowded,
+  chaotic hub of bureaucratic systems—child welfare, legal, education, and others
+  depending on the circumstances. Ironically, it’s easy for youth in foster care to
+  get overlooked in the mix.&nbsp;\n\nThat’s where Treehouse’s [Educational Advocacy](https://www.treehouseforkids.org/our-services/educational-advocacy/)
+  program steps in. &nbsp;\n\n### **What Does Educational Advocacy Do?** &nbsp;\n\nEducational
+  Advocacy’s _only_ focus is addressing educational issues for students in foster
+  care. These issues can look like disciplinary exclusions (a.k.a. suspensions and
+  emergency removals), lack of academic progress, and being unenrolled or unable to
+  attend school. And they do it by corralling the student’s network of adults. That
+  includes people like foster parents, parents, social workers, school staff, and
+  more. &nbsp;\n\n| \n\n ![](https://www.treehouseforkids.org/wp-content/uploads/2023/04/Amber-1-300x300.png)\n\nAmber
+  Alvarez, Director of Educational Advocacy\n\n | “We get the privilege, as Educational
+  Advocates, to live and breathe Educational Advocacy,” says Amber Alvarez, Director
+  of Educational Advocacy. “Whereas a caregiver has three other kids at home and they
+  work full-time; and a social worker has 20 other families with court dates; and
+  a teacher has 28 other kids in the classroom. A huge part of how we manage and keep
+  it straight is remembering what our lane is and staying in our lane.”&nbsp; |\n\nIn
+  the 2024–2025 program year, Treehouse advocated for the educational rights of 1,140
+  youth in Washington state. Last program year, 31% of Educational Advocacy cases
+  created or improved Special Education accommodations, and 15% prevented or expedited
+  school transfers for students in foster care. &nbsp;\n\nThe job requires an almost
+  encyclopedic knowledge of education codes and laws, how the various systems operate,
+  and best practices for school success. Educational Advocates synthesize all this
+  knowledge and bring everyone to the table. The goal is to ensure students in foster
+  care are getting a fair chance at a good education. &nbsp;\n\n* * *\n\n### **Educational
+  Advocacy in Action** &nbsp;\n\n_“A second grader with a diagnosis of ADHD did not
+  have a 504 Plan or IEP on file. The student was suspended twice, and the&nbsp;foster
+  parent was being called almost weekly to pick the student up early due to behaviors.
+  &nbsp;_\n\n_The social worker referred them to Treehouse, and an Educational Advocate
+  spoke with the foster parent. They agreed a 504 Plan was needed to outline needed
+  accommodations and to protect the student from being overly disciplined, since their
+  medical diagnosis qualifies as a disability. &nbsp;_\n\n_The student received multiple
+  in-class movement breaks a day and started getting daily support from the school’s
+  behavior intervention specialist, including repairing the student’s relationships
+  with peers.&nbsp;&nbsp;_\n\n_Since implementing the Educational Advocate’s plan,
+  the student’s behaviors drastically improved. Thanks to the 504 Plan, their accommodations
+  are documented&nbsp;and will provide extra protection in school.”&nbsp;_\n\n* *
+  *\n\n### Resources for Students in Foster Care\n\nIn the state of Washington, students
+  in foster care are entitled to many supports. The trick is making sure the grown-ups
+  in charge are also aware of it. Treehouse created a [Resource Center](https://www.treehouseforkids.org/resource-center/)
+  everyone can access, which includes: &nbsp;\n\n- [K–12 education resources](https://www.treehouseforkids.org/resource-center/pre-k-high-school-academic-resources)&nbsp;\n\n-
+  [Parent and caregiver resources](https://www.treehouseforkids.org/resource-center/family-supports/)&nbsp;\n\n-
+  [Employment and college resources](https://www.treehouseforkids.org/resource-center/employment-and-college-resources/)\n\n“Even
+  though we’re not directly working with young people, we’re making just as huge an
+  impact,” says Amber. “We get to provide resources to the adults, so then they can
+  help other young people in their care, on their caseloads, and in their schools.”&nbsp;\n\n#####
+  **_Join our_ [_Advocacy Action Center_](https://www.treehouseforkids.org/take-action/advocate/advocacy-action-center/#/signup/go/)
+  _to stay updated on education policies Treehouse supports._&nbsp;**\n\nThe post
+  [Keeping Students in Foster Care on Track](https://www.treehouseforkids.org/keeping-students-in-foster-care-on-track/)
+  appeared first on [Treehouse](https://www.treehouseforkids.org)."
+summarized: true
+topics:
+- Education & Learning
+- Community & Social Services
+---
+
+Students in foster care often face significant barriers to educational success due to the complex bureaucracy surrounding child welfare and education systems. Treehouse's Educational Advocacy program is dedicated to addressing these issues by coordinating support among foster parents, social workers, and school staff. The program focuses on problems like disciplinary exclusions, lack of academic progress, and difficulties in school enrollment.
+
+In the 2024–2025 program year, Treehouse advocated for the educational rights of 1,140 youth in Washington state, significantly improving special education accommodations for 31% of cases and preventing school transfers for 15%. Educational Advocates, equipped with in-depth knowledge of education laws, work to ensure that students in foster care receive a fair chance at quality education.
+
+One case involved a second grader with ADHD who lacked a 504 Plan, resulting in repeated suspensions. After intervention from an Educational Advocate, a 504 Plan was established, leading to necessary accommodations and support that improved the student’s behavior and school experience.
+
+In Washington, students in foster care are entitled to various educational supports, and Treehouse has created a Resource Center to help caregivers and educators access these resources effectively.

@@ -1,0 +1,45 @@
+---
+title: Umpqua Santa Event 2024
+date: '2025-01-03T21:34:55+00:00'
+source: Launch Learning
+source_url: https://launchlearning.org/umpqua-santa-event-2024/
+original_content: "<p><div class=\"et_pb_section et_pb_section_1 et_section_regular\"
+  >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_row
+  et_pb_row_2\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4 et_pb_column_2
+  \ et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div
+  class=\"et_pb_module et_pb_heading et_pb_heading_1 et_pb_bg_layout_\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div
+  class=\"et_pb_heading_container\"><h1 class=\"et_pb_module_heading\">Umpqua Santa
+  Event 2024</h1></div>\n\t\t\t</div><div class=\"et_pb_module et_pb_image et_pb_image_1\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<span
+  class=\"et_pb_image_wrap \"><img decoding=\"async\" width=\"2560\" height=\"1707\"
+  src=\"http://launchlearning.org/wp-content/uploads/2025/01/UMPQUA_Santa2024-78-scaled.jpg\"
+  alt=\"\" title=\"UMPQUA_Santa2024-78\" srcset=\"https://launchlearning.org/wp-content/uploads/2025/01/UMPQUA_Santa2024-78-scaled.jpg
+  2560w, https://launchlearning.org/wp-content/uploads/2025/01/UMPQUA_Santa2024-78-1280x854.jpg
+  1280w, https://launchlearning.org/wp-content/uploads/2025/01/UMPQUA_Santa2024-78-980x653.jpg
+  980w, https://launchlearning.org/wp-content/uploads/2025/01/UMPQUA_Santa2024-78-480x320.jpg
+  480w\" sizes=\"(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px)
+  and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px,
+  (min-width: 1281px) 2560px, 100vw\" class=\"wp-image-25877681\" /></span>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div><div
+  class=\"et_pb_row et_pb_row_3\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4
+  et_pb_column_3  et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div
+  class=\"et_pb_module et_pb_text et_pb_text_1  et_pb_text_align_left et_pb_bg_layout_light\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div
+  class=\"et_pb_text_inner\"><p>Launch families were treated to a very special evening
+  with Santa, courtesy of Umpqua Bank&#8217;s South Lake Union Branch! For the third
+  year in a row, Umpqua turned the branch into a winter wonderland featuring &#8220;snowballs,&#8221;
+  crafts, cookies, games, gingerbread house decorating, and photos with Old Saint
+  Nick himself. Santa even treated the kids to some quality storytime in the snow!
+  We were thrilled to spend the evening with so many of our incredible Launch families
+  and our special community. A big thank you to the staff at Umpqua &#8211; South
+  Lake Union for providing another year of joy for our families!</p></div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div></p>"
+original_markdown_body: |-
+  # Umpqua Santa Event 2024
+
+   ![](http://launchlearning.org/wp-content/uploads/2025/01/UMPQUA_Santa2024-78-scaled.jpg "UMPQUA\_Santa2024-78")
+
+  Launch families were treated to a very special evening with Santa, courtesy of Umpqua Bank’s South Lake Union Branch! For the third year in a row, Umpqua turned the branch into a winter wonderland featuring “snowballs,” crafts, cookies, games, gingerbread house decorating, and photos with Old Saint Nick himself. Santa even treated the kids to some quality storytime in the snow! We were thrilled to spend the evening with so many of our incredible Launch families and our special community. A big thank you to the staff at Umpqua – South Lake Union for providing another year of joy for our families!
+summarized: true
+topics:
+- Community & Social Services
+published: false
+---
+
+Umpqua Bank’s South Lake Union Branch hosted the Umpqua Santa Event 2024, transforming the branch into a festive winter wonderland for Launch families. This year marked the third annual celebration, featuring activities such as crafts, games, gingerbread house decorating, and cookie decorating. Families enjoyed “snowballs” and had the opportunity to take photos with Santa, who also engaged children with delightful storytime in the snow. The evening fostered a sense of community and joy, with many families participating in the celebrations. A heartfelt thanks was extended to the staff at Umpqua – South Lake Union for their efforts in creating a memorable experience for everyone involved.

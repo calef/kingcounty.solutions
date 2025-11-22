@@ -1,0 +1,99 @@
+---
+title: 'Interpreter Hub Monthly Offerings: November'
+date: '2025-10-15T21:20:16+00:00'
+source: Washington Center for Deaf and Hard of Hearing Youth
+source_url: https://www.cdhy.wa.gov/interpreter-hub-monthly-offerings-november/
+original_content: |-
+  <p><img fetchpriority="high" decoding="async" id="longdesc-return-11223" class="aligncenter wp-image-11223" tabindex="-1" src="https://www.cdhy.wa.gov/wp-content/uploads/2025/10/Offerings-from-CDHY-Interpreter-Hub-1-791x1024.png" alt="Flyer for CDHY Interpreter Hub November 2025, featuring seedlings, event details, and offerings." width="660" height="854" longdesc="https://www.cdhy.wa.gov?longdesc=11223&amp;referrer=11225" srcset="https://www.cdhy.wa.gov/wp-content/uploads/2025/10/Offerings-from-CDHY-Interpreter-Hub-1-200x259.png 200w, https://www.cdhy.wa.gov/wp-content/uploads/2025/10/Offerings-from-CDHY-Interpreter-Hub-1-232x300.png 232w, https://www.cdhy.wa.gov/wp-content/uploads/2025/10/Offerings-from-CDHY-Interpreter-Hub-1-400x518.png 400w, https://www.cdhy.wa.gov/wp-content/uploads/2025/10/Offerings-from-CDHY-Interpreter-Hub-1-600x777.png 600w, https://www.cdhy.wa.gov/wp-content/uploads/2025/10/Offerings-from-CDHY-Interpreter-Hub-1-768x994.png 768w, https://www.cdhy.wa.gov/wp-content/uploads/2025/10/Offerings-from-CDHY-Interpreter-Hub-1-791x1024.png 791w, https://www.cdhy.wa.gov/wp-content/uploads/2025/10/Offerings-from-CDHY-Interpreter-Hub-1-800x1036.png 800w, https://www.cdhy.wa.gov/wp-content/uploads/2025/10/Offerings-from-CDHY-Interpreter-Hub-1-1187x1536.png 1187w, https://www.cdhy.wa.gov/wp-content/uploads/2025/10/Offerings-from-CDHY-Interpreter-Hub-1-1200x1553.png 1200w, https://www.cdhy.wa.gov/wp-content/uploads/2025/10/Offerings-from-CDHY-Interpreter-Hub-1.png 1545w" sizes="(max-width: 660px) 100vw, 660px" /></p>
+  <h2 style="text-align: center;">CDHY Interpreter Hub Monthly Offerings</h2>
+  <p style="text-align: center;"><span style="font-size: 28px;">Becoming:</span> <em><span style="font-size: 24px;">The Reflective Practitioner</span></em></p>
+  <p style="text-align: center;">This year&#8217;s theme, Becoming, reflects our commitment to growth, transformation, and possibility. Interpreters are always evolving and developing new skills, deepening understanding, and stepping into the next version of themselves. Becoming is about honoring that journey and creating space for continual growth, both personally and professionally.</p>
+  <p style="text-align: center;"><strong><span style="font-size: 21px;">November 2025 Offerings:</span></strong></p>
+  <p style="text-align: center;">&#8211; 1:1 with Deaf Mentors<br />
+  &#8211; 1:1 with Interpreter Mentors<br />
+  &#8211; Mock Interpreting Practice<br />
+  &#8211; Classroom Observations<br />
+  &#8211; Book Club Kits<br />
+  &#8211; Workshops</p>
+  <p align="center"><strong>Registration for 1:1 and Mock sessions will close on Tuesday, November 25<sup>th</sup> (workshops will remain open)</strong></p>
+  <hr />
+  <h3 align="center"><img decoding="async" id="longdesc-return-11222" class="aligncenter wp-image-11222" tabindex="-1" src="https://www.cdhy.wa.gov/wp-content/uploads/2025/10/Becoming-The-Speaker-724x1024.png" alt="Promotional flyer for &quot;BECOMING: The Speaker&quot; event by CDHY Interpreter Hub on November 5th via Zoom." width="564" height="798" longdesc="https://www.cdhy.wa.gov?longdesc=11222&amp;referrer=11225" srcset="https://www.cdhy.wa.gov/wp-content/uploads/2025/10/Becoming-The-Speaker-200x283.png 200w, https://www.cdhy.wa.gov/wp-content/uploads/2025/10/Becoming-The-Speaker-212x300.png 212w, https://www.cdhy.wa.gov/wp-content/uploads/2025/10/Becoming-The-Speaker-400x566.png 400w, https://www.cdhy.wa.gov/wp-content/uploads/2025/10/Becoming-The-Speaker-600x849.png 600w, https://www.cdhy.wa.gov/wp-content/uploads/2025/10/Becoming-The-Speaker-724x1024.png 724w, https://www.cdhy.wa.gov/wp-content/uploads/2025/10/Becoming-The-Speaker-768x1086.png 768w, https://www.cdhy.wa.gov/wp-content/uploads/2025/10/Becoming-The-Speaker-800x1132.png 800w, https://www.cdhy.wa.gov/wp-content/uploads/2025/10/Becoming-The-Speaker-1086x1536.png 1086w, https://www.cdhy.wa.gov/wp-content/uploads/2025/10/Becoming-The-Speaker-1200x1697.png 1200w, https://www.cdhy.wa.gov/wp-content/uploads/2025/10/Becoming-The-Speaker.png 1414w" sizes="(max-width: 564px) 100vw, 564px" /></h3>
+  <h3 align="center"><span data-ogsc="black">Becoming: The Speaker</span></h3>
+  <p style="text-align: center;">A Practical Look at Your Interpreting</p>
+  <p style="text-align: center;"><em>Presented by: Melissa Klindtworth &amp; Charlene Williams</em></p>
+  <p align="center"><span data-ogsc="black">Step into the speaker’s shoes. This interactive <i>Becoming </i>workshop invites interpreters to engage in reflective practices designed to deepen alignment with the speaker’s intent. You will explore how well your interpreted message reflects the original speaker’s tone, affect, and communicative goal. This session is especially valuable for interpreters preparing for national certification exams or anyone aiming to enhance the fidelity and impact of their interpretations.</span></p>
+  <p class="p1" style="text-align: center;"><strong>Learning Objectives:</strong></p>
+  <p style="text-align: center;">&#8211; Identify and evaluate key elements of tone, affect, and intent in source messages</p>
+  <p style="text-align: center;">&#8211; Apply self-assessment strategies to determine how effectively their interpretation mirrors the speaker</p>
+  <p style="text-align: center;">&#8211; Practice reviewing interpretations as a tool for ongoing skill development</p>
+  <p style="text-align: center;">&#8211; Recognize areas for growth in aligning with speaker purpose and delivery style</p>
+  <p style="text-align: center;">&#8211;</p>
+  <p align="center"><strong>When:</strong> Wednesday, November 5, 2025 — 5pm to 6:30pm</p>
+  <p align="center"><strong>Where:</strong> Zoom</p>
+  <p align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdACYija70_47FMAFPP0dTlt4U4QoOOuvQmNMo8qXkTnYylLQ/viewform">Link to Register</a></p>
+  <p align="center"><strong>Questions?</strong> Contact Melissa Klindtworth at melissa.klindtworth@cdhy.wa.gov</p>
+  <hr />
+  <h3 align="center">Becoming: The Wink, The Pause, and The Punchline</h3>
+  <p align="center">Decoding Humor: Understanding Nuances and Hidden Meanings in ASL Interpreting</p>
+  <p align="center"><em>Presented by: Taralynn Petrites Ph.D., Kaycee Watson, and Kai Winchester</em></p>
+  <p align="center"><span data-ogsc="black">Explore the serious side of laughter. This <i>Becoming</i> workshop focuses on how humor, sarcasm, and playfulness influence communication and Deaf students’ experiences in the classroom. Build your skill in recognizing and representing nuanced language with clarity and cultural sensitivity.</span></p>
+  <p style="text-align: center;"><strong>What to Expect:</strong></p>
+  <p style="text-align: center;">&#8211; Examine how humor is used in the classroom and its impact on Deaf students</p>
+  <p style="text-align: center;">&#8211; Refine understanding of how playfulness and sarcasm are represented in ASL</p>
+  <p style="text-align: center;">&#8211; Expand your skill set to more accurately represent nuanced language</p>
+  <p style="text-align: center;">&#8211;</p>
+  <p align="center"><strong>When:</strong> Saturday, November 8, 2025 — 9am to 3pm</p>
+  <p align="center"><strong>Where:</strong> CDHY Federal Way Office</p>
+  <p align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdACYija70_47FMAFPP0dTlt4U4QoOOuvQmNMo8qXkTnYylLQ/viewform">Link to Register</a></p>
+  <p align="center"><strong>Questions?</strong> Contact Melissa Klindtworth at melissa.klindtworth@cdhy.wa.gov</p>
+  <p align="center">
+original_markdown_body: "![Flyer for CDHY Interpreter Hub November 2025, featuring
+  seedlings, event details, and offerings.](https://www.cdhy.wa.gov/wp-content/uploads/2025/10/Offerings-from-CDHY-Interpreter-Hub-1-791x1024.png)\n\n##
+  CDHY Interpreter Hub Monthly Offerings\n\nBecoming: _The Reflective Practitioner_\n\nThis
+  year’s theme, Becoming, reflects our commitment to growth, transformation, and possibility.
+  Interpreters are always evolving and developing new skills, deepening understanding,
+  and stepping into the next version of themselves. Becoming is about honoring that
+  journey and creating space for continual growth, both personally and professionally.\n\n**November
+  2025 Offerings:**\n\n– 1:1 with Deaf Mentors  \n– 1:1 with Interpreter Mentors  \n–
+  Mock Interpreting Practice  \n– Classroom Observations  \n– Book Club Kits  \n–
+  Workshops\n\n**Registration for 1:1 and Mock sessions will close on Tuesday, November
+  25<sup>th</sup> (workshops will remain open)**\n\n* * *\n\n### ![Promotional flyer
+  for \"BECOMING: The Speaker\" event by CDHY Interpreter Hub on November 5th via
+  Zoom.](https://www.cdhy.wa.gov/wp-content/uploads/2025/10/Becoming-The-Speaker-724x1024.png)\n\n###
+  Becoming: The Speaker\n\nA Practical Look at Your Interpreting\n\n_Presented by:
+  Melissa Klindtworth & Charlene Williams_\n\nStep into the speaker’s shoes. This
+  interactive _Becoming_ workshop invites interpreters to engage in reflective practices
+  designed to deepen alignment with the speaker’s intent. You will explore how well
+  your interpreted message reflects the original speaker’s tone, affect, and communicative
+  goal. This session is especially valuable for interpreters preparing for national
+  certification exams or anyone aiming to enhance the fidelity and impact of their
+  interpretations.\n\n**Learning Objectives:**\n\n– Identify and evaluate key elements
+  of tone, affect, and intent in source messages\n\n– Apply self-assessment strategies
+  to determine how effectively their interpretation mirrors the speaker\n\n– Practice
+  reviewing interpretations as a tool for ongoing skill development\n\n– Recognize
+  areas for growth in aligning with speaker purpose and delivery style\n\n–\n\n**When:**
+  Wednesday, November 5, 2025 — 5pm to 6:30pm\n\n**Where:** Zoom\n\n[Link to Register](https://docs.google.com/forms/d/e/1FAIpQLSdACYija70_47FMAFPP0dTlt4U4QoOOuvQmNMo8qXkTnYylLQ/viewform)\n\n**Questions?**
+  Contact Melissa Klindtworth at melissa.klindtworth@cdhy.wa.gov\n\n* * *\n\n### Becoming:
+  The Wink, The Pause, and The Punchline\n\nDecoding Humor: Understanding Nuances
+  and Hidden Meanings in ASL Interpreting\n\n_Presented by: Taralynn Petrites Ph.D.,
+  Kaycee Watson, and Kai Winchester_\n\nExplore the serious side of laughter. This
+  _Becoming_ workshop focuses on how humor, sarcasm, and playfulness influence communication
+  and Deaf students’ experiences in the classroom. Build your skill in recognizing
+  and representing nuanced language with clarity and cultural sensitivity.\n\n**What
+  to Expect:**\n\n– Examine how humor is used in the classroom and its impact on Deaf
+  students\n\n– Refine understanding of how playfulness and sarcasm are represented
+  in ASL\n\n– Expand your skill set to more accurately represent nuanced language\n\n–\n\n**When:**
+  Saturday, November 8, 2025 — 9am to 3pm\n\n**Where:** CDHY Federal Way Office\n\n[Link
+  to Register](https://docs.google.com/forms/d/e/1FAIpQLSdACYija70_47FMAFPP0dTlt4U4QoOOuvQmNMo8qXkTnYylLQ/viewform)\n\n**Questions?**
+  Contact Melissa Klindtworth at melissa.klindtworth@cdhy.wa.gov"
+summarized: true
+topics:
+- Education & Learning
+- Disabilities
+---
+
+November offerings from the CDHY Interpreter Hub focus on the theme "Becoming," emphasizing growth and professional development for interpreters. Key activities include one-on-one sessions with Deaf and Interpreter mentors, mock interpreting practice, classroom observations, and book club kits. Registration for one-on-one sessions and mock practices will close on November 25, while workshops remain open.
+
+Two notable workshops include "Becoming: The Speaker," presented by Melissa Klindtworth and Charlene Williams, scheduled for November 5. This interactive session aims to enhance interpreters' ability to align their interpretations with the speaker's tone and intent, particularly beneficial for those preparing for national certification exams.
+
+Another workshop, "Becoming: The Wink, The Pause, and The Punchline," led by Taralynn Petrites, Kaycee Watson, and Kai Winchester, will take place on November 8. This workshop delves into the nuances of humor and sarcasm in ASL interpreting, focusing on their impact on Deaf students in the classroom, helping interpreters represent nuanced language with cultural sensitivity.

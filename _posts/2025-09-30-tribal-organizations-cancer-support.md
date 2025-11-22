@@ -1,0 +1,65 @@
+---
+title: Tribal Organizations & Cancer Support
+date: '2025-09-30T23:05:34+00:00'
+source: Cancer Lifeline Financial Assistance for Cancer Patients
+source_url: https://cancerlifeline.org/cancer-lifeline-partners-with-tribal-organization-for-cancer-support/
+original_content: "<p>On a cool September morning along the southern waters of Hood
+  Canal, the rhythm of paddles striking water carried more than momentum — it carried
+  prayers. For the ninth year, Pacific Northwest canoe families came together for
+  <strong>Paddle for the Battle, an event where every pull of the oar is lifted as
+  a prayer for the health of the people of the Salish Sea, and where they honor their
+  cancer survivors.</strong></p>\n<p> </p>\n\n\nThis year, 11 canoes launched into
+  the fjord that is the heart of the traditional territory of the Twana people, each
+  carrying not only their paddlers but also cancer champions in the royalty seats
+  — survivors, warriors, and loved ones honored for their strength. <strong>Skippers
+  led with songs of gratitude and offered prayers of healing as the canoes approached
+  shore.</strong></p>\r\n<p>\n\n\n</p>\n<p>\n\n\nWhen they landed, they were welcomed
+  to the ancestral lands of the Skokomish Tribe, greeted with songs and drumming that
+  echoed across the water. The gathering that followed reflected the spirit of community
+  and healing. <strong>More than 300 guests and tribal members shared a meal which
+  included traditional foods, affirming both cultural continuity and collective resilience.</strong></p>\r\n<p>\n\n\n</p>\n<p>\n\n\nThe
+  event raised critical funds to support tribal members across the region — helping
+  them travel to appointments, cover basic needs, and ease the weight of cancer’s
+  financial burden.</p>\r\n<p>\n\n\n</p>\n<p>\n\n\nBehind the scenes, strong partnerships
+  made this possible. <a href=\"https://bgxkmmqab.cc.rs6.net/tn.jsp?f=001CfcN2zfAX72ZBQ3cWBRCgy0taPJ9-o2wv2jw4RZjFiPdE6QDoJr9XyqSbkTsqiGNhqo3jB05t2LrcZQAmJr7hnwrejN0PDb6okoj92BpYaGty5EPpVyEZ00eJAfddAmrI5PqbkY9Um3c6bM5JkOdriVBc0n4CxaOjBV53U5ntrw=&amp;c=5SIBc2DDEcBDljCExveLaYXflPcoLZIedzgvqG6T8QVH07hgajepaQ==&amp;ch=ou-auNqNmOXFfamDsortl1FCQS4qs3JL5PH5qHKFB1gZs5X59366MA==\"
+  target=\"_blank\" rel=\"noreferrer noopener\"><strong>Native Journeywoman</strong></a><strong>,
+  the event’s fiscal sponsor, continues its mission of promoting indigenous women’s
+  health and wellness. </strong>Along with other organizations, Cancer Lifeline has
+  supported this event through its Harmony Retreats program since it began. The event
+  was also generously supported by grants from multiple tribal entities across the
+  region. To be invited as an ally in this work is a profound privilege. Standing
+  in solidarity with Indigenous communities, we are reminded that raising awareness
+  about cancer screening and support is not only a medical effort but also a cultural
+  and spiritual one. <strong>Every prayer, every paddle, and every shared meal strengthens
+  the movement to end health disparities among these precious communities of the Salish
+  Sea.</strong></p>\r\n<p><em><strong>Every Pull a Prayer: 9th Annual Paddle for the
+  Battle: </strong></em><strong><a href=\"https://bgxkmmqab.cc.rs6.net/tn.jsp?f=001CfcN2zfAX72ZBQ3cWBRCgy0taPJ9-o2wv2jw4RZjFiPdE6QDoJr9XyqSbkTsqiGNCZ1W0FZF7S7YmFhJCd1_sr06mohhtQw9xiatBSF9vzMjTQ4AjiaY80JaRmRS5EgC_1GXjyHHXU5vaaaz69_LeNuVlYpmUej6&amp;c=5SIBc2DDEcBDljCExveLaYXflPcoLZIedzgvqG6T8QVH07hgajepaQ==&amp;ch=ou-auNqNmOXFfamDsortl1FCQS4qs3JL5PH5qHKFB1gZs5X59366MA==\">C</a></strong><strong><a
+  href=\"https://bgxkmmqab.cc.rs6.net/tn.jsp?f=001CfcN2zfAX72ZBQ3cWBRCgy0taPJ9-o2wv2jw4RZjFiPdE6QDoJr9XyqSbkTsqiGNCZ1W0FZF7S7YmFhJCd1_sr06mohhtQw9xiatBSF9vzMjTQ4AjiaY80JaRmRS5EgC_1GXjyHHXU5vaaaz69_LeNuVlYpmUej6&amp;c=5SIBc2DDEcBDljCExveLaYXflPcoLZIedzgvqG6T8QVH07hgajepaQ==&amp;ch=ou-auNqNmOXFfamDsortl1FCQS4qs3JL5PH5qHKFB1gZs5X59366MA==\">lick
+  Here</a></strong><strong> to see a video of this amazing event</strong></p>\r\n<p>\n\n\n</p>\n<p>\n\n\n*Hood
+  Canal is the ancestral territory of the Twana (Skokomish) people. The traditional
+  name for this body of water is “tuwaduq sidaqʷ” [too-wah-duke SEE-dock], which means
+  &#8216;the Twana people&#8217;s saltwater&#8217;.</p>\r\n<p>"
+original_markdown_body: |-
+  On a cool September morning along the southern waters of Hood Canal, the rhythm of paddles striking water carried more than momentum — it carried prayers. For the ninth year, Pacific Northwest canoe families came together for **Paddle for the Battle, an event where every pull of the oar is lifted as a prayer for the health of the people of the Salish Sea, and where they honor their cancer survivors.**
+
+  &nbsp;
+
+  This year, 11 canoes launched into the fjord that is the heart of the traditional territory of the Twana people, each carrying not only their paddlers but also cancer champions in the royalty seats — survivors, warriors, and loved ones honored for their strength. **Skippers led with songs of gratitude and offered prayers of healing as the canoes approached shore.**
+
+  When they landed, they were welcomed to the ancestral lands of the Skokomish Tribe, greeted with songs and drumming that echoed across the water. The gathering that followed reflected the spirit of community and healing. **More than 300 guests and tribal members shared a meal which included traditional foods, affirming both cultural continuity and collective resilience.**
+
+  The event raised critical funds to support tribal members across the region — helping them travel to appointments, cover basic needs, and ease the weight of cancer’s financial burden.
+
+  Behind the scenes, strong partnerships made this possible. [**Native Journeywoman**](https://bgxkmmqab.cc.rs6.net/tn.jsp?f=001CfcN2zfAX72ZBQ3cWBRCgy0taPJ9-o2wv2jw4RZjFiPdE6QDoJr9XyqSbkTsqiGNhqo3jB05t2LrcZQAmJr7hnwrejN0PDb6okoj92BpYaGty5EPpVyEZ00eJAfddAmrI5PqbkY9Um3c6bM5JkOdriVBc0n4CxaOjBV53U5ntrw=&c=5SIBc2DDEcBDljCExveLaYXflPcoLZIedzgvqG6T8QVH07hgajepaQ==&ch=ou-auNqNmOXFfamDsortl1FCQS4qs3JL5PH5qHKFB1gZs5X59366MA==) **, the event’s fiscal sponsor, continues its mission of promoting indigenous women’s health and wellness.** Along with other organizations, Cancer Lifeline has supported this event through its Harmony Retreats program since it began. The event was also generously supported by grants from multiple tribal entities across the region. To be invited as an ally in this work is a profound privilege. Standing in solidarity with Indigenous communities, we are reminded that raising awareness about cancer screening and support is not only a medical effort but also a cultural and spiritual one. **Every prayer, every paddle, and every shared meal strengthens the movement to end health disparities among these precious communities of the Salish Sea.**
+
+  _ **Every Pull a Prayer: 9th Annual Paddle for the Battle:** _ **[C](https://bgxkmmqab.cc.rs6.net/tn.jsp?f=001CfcN2zfAX72ZBQ3cWBRCgy0taPJ9-o2wv2jw4RZjFiPdE6QDoJr9XyqSbkTsqiGNCZ1W0FZF7S7YmFhJCd1_sr06mohhtQw9xiatBSF9vzMjTQ4AjiaY80JaRmRS5EgC_1GXjyHHXU5vaaaz69_LeNuVlYpmUej6&c=5SIBc2DDEcBDljCExveLaYXflPcoLZIedzgvqG6T8QVH07hgajepaQ==&ch=ou-auNqNmOXFfamDsortl1FCQS4qs3JL5PH5qHKFB1gZs5X59366MA==)****[lick Here](https://bgxkmmqab.cc.rs6.net/tn.jsp?f=001CfcN2zfAX72ZBQ3cWBRCgy0taPJ9-o2wv2jw4RZjFiPdE6QDoJr9XyqSbkTsqiGNCZ1W0FZF7S7YmFhJCd1_sr06mohhtQw9xiatBSF9vzMjTQ4AjiaY80JaRmRS5EgC_1GXjyHHXU5vaaaz69_LeNuVlYpmUej6&c=5SIBc2DDEcBDljCExveLaYXflPcoLZIedzgvqG6T8QVH07hgajepaQ==&ch=ou-auNqNmOXFfamDsortl1FCQS4qs3JL5PH5qHKFB1gZs5X59366MA==) **** to see a video of this amazing event**
+
+  \*Hood Canal is the ancestral territory of the Twana (Skokomish) people. The traditional name for this body of water is “tuwaduq sidaqʷ” [too-wah-duke SEE-dock], which means ‘the Twana people’s saltwater’.
+summarized: true
+topics:
+- Health Care
+- Financial Assistance
+- Community & Social Services
+---
+
+On a cool September morning, Pacific Northwest canoe families gathered for the ninth annual Paddle for the Battle event along Hood Canal, honoring cancer survivors and raising prayers for the health of the Salish Sea community. Eleven canoes launched, each carrying cancer champions—survivors and loved ones—while skippers led with songs and prayers of healing. Upon reaching the ancestral lands of the Skokomish Tribe, participants were welcomed with traditional songs and drumming. The event drew over 300 guests and tribal members who shared a meal featuring traditional foods, promoting cultural continuity and resilience. Funds raised during the event will assist tribal members with travel to medical appointments and alleviate some financial burdens associated with cancer. This successful gathering was made possible through strong partnerships, including support from Native Journeywoman and Cancer Lifeline's Harmony Retreats program. Additionally, multiple tribal grants contributed to the event's success. The Paddle for the Battle reflects the importance of raising awareness about cancer screening and support as a cultural and spiritual effort, reinforcing solidarity with Indigenous communities and addressing health disparities among them.
