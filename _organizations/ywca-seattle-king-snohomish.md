@@ -6,14 +6,17 @@ jurisdictions:
 phone: 206-461-4888
 title: YWCA Seattle | King | Snohomish
 topics:
-  - Community & Social Services
-  - Shelter & Housing
-  - Domestic Violence
-  - Mental Health & Counseling
-  - Health Care
-  - Employment & Job Support
-  - Financial Assistance
-  - Personal & Household Needs
+- Community & Social Services
+- Disabilities
+- Domestic Violence
+- Education & Learning
+- Employment & Job Support
+- Financial Assistance
+- Food & Nutrition
+- Health Care
+- Mental Health & Counseling
+- Personal & Household Needs
+- Shelter & Housing
 type: Community-Based Organization
 website: https://www.ywcaworks.org/
 ---

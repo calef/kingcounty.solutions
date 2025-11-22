@@ -1,7 +1,6 @@
 ---
 jurisdictions:
   - United States
-news_rss_url: https://blog.usa.gov/rss.xml
 parent_organization: United States Federal Government
 title: Federal Executive Branch
 topics: []

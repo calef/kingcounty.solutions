@@ -1,0 +1,16 @@
+---
+jurisdictions:
+- Seattle
+- King County
+phone: 206.762.3730
+address: 8720 14th Avenue S, Seattle, WA 98108
+title: Sea Mar Community Health Centers - Seattle Medical Clinic
+topics:
+- Health Care
+- Mental Health & Counseling
+- Community & Social Services
+type: Community-Based Organization
+website: https://www.seamar.org/king-medical-seattle.html
+---
+
+Sea Mar Community Health Centers provides comprehensive health services including physical exams, immunizations, chronic disease management, and preventive care. They serve diverse communities, specializing in care for Latinos, and offer additional resources for housing, education, and social services.
