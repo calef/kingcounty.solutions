@@ -23,10 +23,13 @@ FileUtils.mkdir_p(NEWS_DIR)
 def read_frontmatter(file_path)
   content = File.read(file_path)
   if content =~ /\A---\s*\n(.*?\n?)^---\s*$\n?/m
-    YAML.safe_load(Regexp.last_match(1)) || {}
+    YAML.safe_load(Regexp.last_match(1), permitted_classes: [Date, Time]) || {}
   else
     {}
   end
+rescue Psych::DisallowedClass => e
+  warn "Skipping frontmatter in #{file_path}: #{e.message}"
+  {}
 end
 
 ARTICLE_BODY_SELECTORS = [
@@ -124,6 +127,27 @@ def save_feed_checksums(data)
   File.write(CHECKSUM_FILE, data.to_yaml)
 end
 
+def item_content_html(item)
+  return item.content_encoded if item.respond_to?(:content_encoded) && item.content_encoded
+  return item.description if item.respond_to?(:description) && item.description
+  return item.summary if item.respond_to?(:summary) && item.summary
+
+  content = item.content if item.respond_to?(:content)
+  return content.content if content.respond_to?(:content) && content.content
+  content if content.is_a?(String)
+rescue StandardError => e
+  warn "Failed to read content for #{item.link || item.title}: #{e.message}"
+  nil
+end
+
+def item_title_text(item)
+  title = item.title if item.respond_to?(:title)
+  return title.content if title.respond_to?(:content)
+  title.to_s
+rescue StandardError
+  item.link || 'Untitled'
+end
+
 feed_checksums = load_feed_checksums
 
 # Iterate through all Markdown files in _sources
@@ -146,58 +170,57 @@ Dir.glob("#{SOURCES_DIR}/*.md") do |source_file|
     feed = RSS::Parser.parse(rss_content, false)
 
     feed.items.each do |item|
-        published_time = published_at(item)
-        unless published_time
-          warn "Skipping #{item.link || item.title} (missing publish date)"
-          next
-        end
-
-        if stale_item?(published_time)
-          puts "Skipping #{item.link || item.title} (older than #{MAX_ITEM_AGE_DAYS} days)"
-          next
-        end
-
-        # Get original HTML content from RSS item
-        original_html = item.respond_to?(:content_encoded) && item.content_encoded ? item.content_encoded : item.description
-        original_html = original_html.to_s.strip
-        original_html = fetch_article_body_html(item.link).to_s.strip if original_html.empty? && item.link
-
-        if original_html.empty?
-          warn "No content available for #{item.link}, skipping."
-          next
-        end
-
-        # Skip if we've already imported this article (has original_content)
-        existing_file = Dir.glob("#{NEWS_DIR}/*.md").find do |f|
-          fm = read_frontmatter(f)
-          fm['original_content'] && fm['source_url'] == item.link
-        end
-        if existing_file
-          puts "Skipping #{item.title} (already imported)"
-          next
-        end
-
-        # Convert HTML to Markdown for content body
-        content_md = ReverseMarkdown.convert(original_html)
-
-        # Generate a safe filename
-        date_prefix = published_time.strftime('%Y-%m-%d')
-        title_slug = filename_slug(item.title, item.link, date_prefix)
-        filename = "#{NEWS_DIR}/#{date_prefix}-#{title_slug}.md"
-
-        # Build frontmatter
-        news_frontmatter = {
-          'title' => item.title,
-          'date' => published_time.iso8601,
-          'source' => source_title,
-          'source_url' => item.link,
-          'original_content' => original_html
-        }
-
-        # Write the news file with proper single frontmatter
-        File.write(filename, "---\n#{news_frontmatter.to_yaml.sub(/\A---\s*\n/, '')}---\n\n#{content_md}")
-        puts "Created #{filename}"
+      published_time = published_at(item)
+      unless published_time
+        warn "Skipping #{item.link || item.title} (missing publish date)"
+        next
       end
+
+      if stale_item?(published_time)
+        puts "Skipping #{item.link || item.title} (older than #{MAX_ITEM_AGE_DAYS} days)"
+        next
+      end
+
+      # Get original HTML content from RSS item
+      original_html = item_content_html(item).to_s.strip
+      original_html = fetch_article_body_html(item.link).to_s.strip if original_html.empty? && item.link
+
+      if original_html.empty?
+        warn "No content available for #{item.link || item.title}, skipping."
+        next
+      end
+
+      # Skip if we've already imported this article (has original_content)
+      existing_file = Dir.glob("#{NEWS_DIR}/*.md").find do |f|
+        fm = read_frontmatter(f)
+        fm['original_content'] && fm['source_url'] == item.link
+      end
+      if existing_file
+        puts "Skipping #{item.title} (already imported)"
+        next
+      end
+
+      # Convert HTML to Markdown for content body
+      content_md = ReverseMarkdown.convert(original_html)
+
+      # Generate a safe filename
+      date_prefix = published_time.strftime('%Y-%m-%d')
+      title_slug = filename_slug(item_title_text(item), item.link, date_prefix)
+      filename = "#{NEWS_DIR}/#{date_prefix}-#{title_slug}.md"
+
+      # Build frontmatter
+      news_frontmatter = {
+        'title' => item_title_text(item),
+        'date' => published_time.iso8601,
+        'source' => source_title,
+        'source_url' => item.link,
+        'original_content' => original_html
+      }
+
+      # Write the news file with proper single frontmatter
+      File.write(filename, "---\n#{news_frontmatter.to_yaml.sub(/\A---\s*\n/, '')}---\n\n#{content_md}")
+      puts "Created #{filename}"
+    end
 
     feed_checksums[rss_url] = checksum
   rescue OpenURI::HTTPError, SocketError => e
