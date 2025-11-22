@@ -151,7 +151,7 @@ Dir.glob("#{NEWS_DIR}/*.md").each do |file_path|
   summary_text = needs_summary ? nil : (body&.strip || article_text&.strip)
 
   prompt = <<~PROMPT
-    Summarize the following article in 200 words or less in Markdown format.
+    Summarize the following article in 200 words or less in Markdown format for a new aggregator blog.
 
     Article URL: #{source_url}
 
@@ -161,6 +161,7 @@ Dir.glob("#{NEWS_DIR}/*.md").each do |file_path|
       3. Do not include any commentary or explanation about this process.
       4. Focus only on the provided text (do not mention if the content was truncated).
       5. Do not include any headings or code blocks.
+      6. Do not write that the article says something, just write what the article says. Do not write "The article discusses..." or "The article outlines...". Do write a summary of the article content.
 
     ARTICLE CONTENT:
     #{article_text}
