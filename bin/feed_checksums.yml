@@ -47,7 +47,7 @@ https://www.nih.gov/rss.xml: 0ef6a9ac5e708dd6af2f66ce12edefd314e7c0f46da93bb314e
 https://www.phinneycenter.org/feed/: 7d1c35dace5787132a990cc7e11db3f99091a333ed87be499a6a17d0015e8f56
 https://pugetsoundfire.org/feed/: e03101980f00e1c067883a4c0a0c5e4650e8071e621a439eae8e7c108252cc2a
 https://www.rvfb.org/blog?format=rss: 63dcb6b23be85d631f7ca7e5f75d3b1c8dcd971fd3bc8c109a375bef85d216d9
-https://redmondumc.org/feed/: 0e47399709ec633fa3cf90ca7b24f617c02b4e7c42d73785cbb79543682f380a
+https://redmondumc.org/feed/: '0855e3e1f296b92b40331e337f589d95038661ce3a95b146ab22fc15d88eeb98'
 https://www.seattlefreshbucks.org/feed/: ce3176aa808e31018af40e1025e3a397de21cac4792b17b61c152c96af94b788
 https://www.seattleschools.org/feed/: c1b2ac8bbeee70011209888bc3ff480d1764b18b439b22a38383f77e25530d2c
 https://snovalleysenior.org/feed/: cfb5e4b363b35cf894478400a3ec0e34501a8281cb2ffb13ddd65bb78b1185d9
@@ -56,7 +56,7 @@ https://www.snoqualmievalleyfoodbank.org/blog-feed.xml: 282af4d22723617fabdc0101
 https://snoqualmievalleyhealth.org/feed/: fc0c71f147eeb76fcd401862ce1477fdbd0ff3008453478d541d99dadf12fd3a
 https://svtbus.org/feed/: '039a8e1e72ce3e331b1161bb84450336734ad7709bb064ff62b68a954a57c4c5'
 https://www.soundtransit.org/blog/platform/feed: 1f334f83e28b14a61db108180cc88e3426ab37c8053c68187847ddb10c48ceac
-https://stpetersumc.net/feed/: b61aa5d5ebb976bf1e2f25783f51e80969b80ce8771caa1a02d2ec6fa96758f7
+https://stpetersumc.net/feed/: 6f2bc8dbf962691486d56e760c19c5168a99b17e070348ceb6c3838ec4d9b524
 https://governor.wa.gov/rss/news.xml: baf0667caf5bce4f44bffb37cf8ff7c2ab24bbf43914d14ef4820a45e93047be
 https://www.samhsa.gov/find-help/988/press-announcements.rss: 965f6540330259fb62fa2291ef120aa960c669920543639a0521f3c8d39801b8
 https://techaccess.org/feed/: b8b5c611c5994f962aa2304223725c46c53aa15a5cbf580762cff4c3d9e5ffcc
@@ -65,7 +65,7 @@ https://togethercenter.org/feed/: 416d42d972bab7b60caa244e1e7f70e3af35427a7599d8
 https://toltucc.org/feed/: 1cb3802f83613e3b97c6892e906db1aec91b435df3665521daaf14ebdcd87cd1
 https://yarrowpointwa.gov/feed/: 5a23b7fd6abc34a504edb7b379b6069d5ad1c772cb6c4fbabf059adabb6f96f7
 https://www.uwkc.org/feed/: 6177ed934dd63c8c38c016dfa29afa9977b19fb3c797cadcf801e52c1aac4303
-https://www.udistrictfoodbank.org/feed/: acbe324665bc0b2deadd0fdef42dccd0aac7bd5770fb890ddd199abed7287436
+https://www.udistrictfoodbank.org/feed/: c84b2232389c7d1e9984b96b79970065155e1b164c0fcfd9e0c8391660a39976
 https://valleygirlsandguys.org/feed/: 734eb8c8c9cb2435cdcb569c46472691b3ee7cdf8e53faaa507aa124724108e5
 https://blog.valleymed.org/feed/: e1008d2857f90b2665c40da69410d650334567581438d1b4f8433307d7178190
 https://www.vrfa.org/feed/: 6416ba881127b3eb3badc98590a8a4fd350c8b122690b0e8bcdc9f5cdb58d0dc
@@ -131,7 +131,7 @@ https://houseofmercyministries.net/feed/: 2f1911029325e5362e9ef52bca2074fc45657e
 https://hungerintervention.org/feed/: 16b0613c1820338f713497f808f44d0c9f1a226a6cdd510c63abad27407dc2e8
 https://wellbeing.uw.edu/feed/: 469cf2c70ead7be18e0675b9c960db7f7770dabdcf64e82ac43d3de5b319aafb
 https://www.icsseattle.org/feed/: e7c3ad7c83beb50695de6117c20309e7fd73de410aa073606aa0436f906b3db9
-https://ihdd.org/feed/: c111f42e50b9313c7782d259b6b03d0762b8489f1b509810b860166c4586119e
+https://ihdd.org/feed/: c3e66951376f52a9c38fe855c23f05a7b217071057c6765b4d8d4e9cd718682d
 https://ifchvashon.org/feed/: aa575917d559a971264702f7a93ea86074cad9c46680232edbc13ccda6faae39
 https://www.internetfirst.com/feed/: 5ec4f2d722e6eab7b65da7f762496782b5b30f51909fe16f2c0a28779ce10d7a
 https://www.irccw.org/blog-feed.xml: 8797031b77c2b8bf8768f373063c410c2489c407068cadeb9c8f4293ce0ede60
@@ -173,7 +173,7 @@ https://www.operationfirstresponse.org/feed/rss/: cb6c11ada14717a70a815dc5196e04
 https://www.pacificmedicalcenters.org/feed/: 527f2d8289f26ae2f65550428165cfc8021a8a481ad6540ecd3163514087b562
 https://www.peerkent.org/blog-feed.xml: de9c354a9f05164d30f8f6671cf7f198a1d3f22995fa4c2ef54f3ca1e13b2b1b
 https://www.peerwa.org/blog-feed.xml: 889bbd8a3b925529c74dc7fa4083c35371a270652d9415ea95c4f7cf4243ce14
-https://pimsavvy.com/feed/: 67258e77f92cfde7749750101f2fad1e23ec479ce5ee43c05633f8d6a06b00f1
+https://pimsavvy.com/feed/: 31a1475aa369006c5bdf01c5f2474728aec8d98933f591b183dd86f3d1900a2a
 https://pmi.edu/on-campus-programs/feed/: b24703b8d2b502855652dea3d1ab9d94e31192889fa7fa38068caa777e2634c7
 https://porchlightcares.org/feed/: 2238c444c9afd46d7c3a6d735f14f605969f842ca0d16e05c69a52ff8ec1aec7
 https://praisealujah.org/f.atom: d0e1a056f905befba72284e7a336a3fb768515798f979f03b0f0f8fd79666f7d
@@ -225,7 +225,7 @@ https://wslc.org/feed/: 2cfb00b8f38e87359459beb550921902299abcd3bf18c8108f208c15
 https://westseattlefoodbank.org/feed/: a760cd6748df9956d0ca14f35c2ad503649413d88db42978e87718824f7855bc
 https://westsideneighborsshelter.org/feed/: ef7a882d38302b6439e0b7b3b5a2d834341619fa1df98ef3c037263c58347744
 https://womenswkfirst.highline.edu/feed/: 178ccb7ffd58e47d2e8fdf4411087ff144211f62600db69b9be753d4d14ab9f0
-https://wonderlandkids.org/feed/: b8ca588d01c69c4a748ee6f37f539a88073ea6218ebfdc6f78c14c5897599289
+https://wonderlandkids.org/feed/: 0ac3bdc6ba53df24e137d2d2dac26464b0f7311918875cd763261b7fd6d6eb7b
 https://worksourceskc.org/feed/: d92eb0454d7a615ade18fba3f79a38814d987897f54942b250a69156107fae0b
 https://www.youtheastsideservices.org/feed/: fd643b1f759656d8c78b0db81da641df70339c6a658d64260dabdc1a5583d631
 https://youthcare.org/feed/: f3a1f1c78c5cd4ce1c18a91434533c19ed97dac4d38a7217b8e84a7325e5e217
