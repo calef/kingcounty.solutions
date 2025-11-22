@@ -106,63 +106,68 @@ original_content: "<div class=\"et_pb_section et_pb_section_0 et_section_regular
   post <a href=\"https://hungerintervention.org/2025/11/14/hip-responds-to-the-usda-witholding-snap-benefits/\">HIP
   Responds to the USDA Withholding SNAP Benefits</a> appeared first on <a href=\"https://hungerintervention.org\">Hunger
   Intervention Program</a>.</p>"
+original_markdown_body: |-
+  _One of three vans full of groceries bound for food-insecure Seniors._
+
+  On November 1st, the Trump Administration’s US Department of Agriculture (USDA) decided to withhold emergency benefits previously set aside by Congress to ensure Supplemental Nutrition Assistance Program (SNAP) benefits can continue to flow in case of a government shutdown. Through a tumultuous legal battle, the status of SNAP benefits remained a looming question for over two weeks. For around half of Washington’s 500,000 SNAP recipients, benefits were not guaranteed.
+
+  These cuts hit our program participants hard. Guadalupe, one of our Senior Meals participants, said, “SNAP is very necessary for us.” Though she is retired and receives Social Security, she still has mortgage and medical bills to pay, leaving SNAP as her primary source of food.
+
+  HIP immediately noticed the effect and stepped into action. On the first day of SNAP cuts, we began receiving [emergency hunger relief funds from the City of Seattle](https://harrell.seattle.gov/2025/11/03/seattle-is-providing-up-to-8m-in-emergency-food-assistance-to-local-food-banks-and-meal-services-during-snap-funding-uncertainty/) to address the gap in benefits. Here is how we responded:
+
+  1. All existing programs received a temporary budget increase to enable them to feed more people. This meant an increase in the amount of food in our typical meals and HIP Packs. It also meant providing more avenues for people to receive food through our programs, such as take-away grocery bags.&nbsp;
+  2. HIP reached out to its partners in the area (e.g., low-income housing units, community organizations, schools, and Tent City 4) to assess their needs. We then provided free groceries, meals, and sandwiches to everyone who needed them.
+
+  As a result, we sent tons of groceries and meals throughout North King County to those in need. We are thankful to all of the volunteers and community members who helped us distribute this unprecedented amount of food. Though the federal government may have reopened, the fight against hunger continues. Together, we can ensure that nobody goes hungry.
+
+  If you have any questions, please contact [info@hungerintervention.org](mailto:info@hungerintervention.org).
+
+  #### CONTACT
+
+  3841 NE 123rd Street
+
+  Seattle, WA 98125
+
+  206.538.6567
+
+  info@hungerintervention.org
+
+  - [Follow](https://www.facebook.com/HungerInterventionProgram "Follow on Facebook")
+  - [Follow](https://twitter.com/hip "Follow on X")
+  - [Follow](https://www.linkedin.com/company/hunger-intervention-program/about/ "Follow on LinkedIn")
+  - [Follow](https://www.instagram.com/hungerintervention/ "Follow on Instagram")
+
+  #### ABOUT
+
+  [Mission, Vision, History](https://hungerintervention.org/mission-vision-history/)
+
+  [Our Values](https://hungerintervention.org/our-values/)
+
+  [HIP Staff](https://hungerintervention.org/hip-staff/)
+
+  [HIP Board of Directors](https://hungerintervention.org/hip-board-of-directors/)
+
+  #### GET INVOLVED
+
+  [Volunteer](https://hungerintervention.org/volunteer/)
+
+  [Take Action](https://hungerintervention.org/take-action/)
+
+  [Donate](https://hungerintervention.org/donate/)
+
+  #### NEWSLETTER
+
+  [Subscribe](https://hungerintervention.org/newsletter-signup/)
+
+  COPYRIGHT 2020 – HUNGER INTERVENTION PROGRAM – SITE BY&nbsp;[RAINY DAY PROSPER](https://rainydayprosper.com/)
+
+  [Login](https://hungerintervention.org/login/)
+
+  The post [HIP Responds to the USDA Withholding SNAP Benefits](https://hungerintervention.org/2025/11/14/hip-responds-to-the-usda-witholding-snap-benefits/) appeared first on [Hunger Intervention Program](https://hungerintervention.org).
+summarized: true
+topics:
+- Food & Nutrition
+- Community & Social Services
 ---
 
-_One of three vans full of groceries bound for food-insecure Seniors._
-
-On November 1st, the Trump Administration’s US Department of Agriculture (USDA) decided to withhold emergency benefits previously set aside by Congress to ensure Supplemental Nutrition Assistance Program (SNAP) benefits can continue to flow in case of a government shutdown. Through a tumultuous legal battle, the status of SNAP benefits remained a looming question for over two weeks. For around half of Washington’s 500,000 SNAP recipients, benefits were not guaranteed.
-
-These cuts hit our program participants hard. Guadalupe, one of our Senior Meals participants, said, “SNAP is very necessary for us.” Though she is retired and receives Social Security, she still has mortgage and medical bills to pay, leaving SNAP as her primary source of food.
-
-HIP immediately noticed the effect and stepped into action. On the first day of SNAP cuts, we began receiving [emergency hunger relief funds from the City of Seattle](https://harrell.seattle.gov/2025/11/03/seattle-is-providing-up-to-8m-in-emergency-food-assistance-to-local-food-banks-and-meal-services-during-snap-funding-uncertainty/) to address the gap in benefits. Here is how we responded:
-
-1. All existing programs received a temporary budget increase to enable them to feed more people. This meant an increase in the amount of food in our typical meals and HIP Packs. It also meant providing more avenues for people to receive food through our programs, such as take-away grocery bags.&nbsp;
-2. HIP reached out to its partners in the area (e.g., low-income housing units, community organizations, schools, and Tent City 4) to assess their needs. We then provided free groceries, meals, and sandwiches to everyone who needed them.
-
-As a result, we sent tons of groceries and meals throughout North King County to those in need. We are thankful to all of the volunteers and community members who helped us distribute this unprecedented amount of food. Though the federal government may have reopened, the fight against hunger continues. Together, we can ensure that nobody goes hungry.
-
-If you have any questions, please contact [info@hungerintervention.org](mailto:info@hungerintervention.org).
-
-#### CONTACT
-
-3841 NE 123rd Street
-
-Seattle, WA 98125
-
-206.538.6567
-
-info@hungerintervention.org
-
-- [Follow](https://www.facebook.com/HungerInterventionProgram "Follow on Facebook")
-- [Follow](https://twitter.com/hip "Follow on X")
-- [Follow](https://www.linkedin.com/company/hunger-intervention-program/about/ "Follow on LinkedIn")
-- [Follow](https://www.instagram.com/hungerintervention/ "Follow on Instagram")
-
-#### ABOUT
-
-[Mission, Vision, History](https://hungerintervention.org/mission-vision-history/)
-
-[Our Values](https://hungerintervention.org/our-values/)
-
-[HIP Staff](https://hungerintervention.org/hip-staff/)
-
-[HIP Board of Directors](https://hungerintervention.org/hip-board-of-directors/)
-
-#### GET INVOLVED
-
-[Volunteer](https://hungerintervention.org/volunteer/)
-
-[Take Action](https://hungerintervention.org/take-action/)
-
-[Donate](https://hungerintervention.org/donate/)
-
-#### NEWSLETTER
-
-[Subscribe](https://hungerintervention.org/newsletter-signup/)
-
-COPYRIGHT 2020 – HUNGER INTERVENTION PROGRAM – SITE BY&nbsp;[RAINY DAY PROSPER](https://rainydayprosper.com/)
-
-[Login](https://hungerintervention.org/login/)
-
-The post [HIP Responds to the USDA Withholding SNAP Benefits](https://hungerintervention.org/2025/11/14/hip-responds-to-the-usda-witholding-snap-benefits/) appeared first on [Hunger Intervention Program](https://hungerintervention.org).
-
+On November 1, 2025, the USDA decided to withhold emergency SNAP benefits, causing uncertainty for approximately half of Washington's 500,000 SNAP recipients. This decision severely impacted many participants, including seniors like Guadalupe, who rely on SNAP for food security. In response to the cuts, the Hunger Intervention Program (HIP) received emergency funding from the City of Seattle to mitigate the effects. HIP increased budgets for all existing programs, allowing them to provide more food in meals and HIP Packs, as well as offering additional food distribution methods, such as take-away grocery bags. They reached out to local partners, including low-income housing units and community organizations, to assess needs and supplied free groceries, meals, and sandwiches to those affected. The initiative resulted in significant food distribution throughout North King County, thanks to the efforts of volunteers and community members. Despite the federal government reopening, HIP emphasizes that the battle against hunger persists, urging collective action to ensure that no one goes hungry.

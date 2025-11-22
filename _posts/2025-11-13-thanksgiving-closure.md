@@ -17,16 +17,21 @@ original_content: |-
 
 
   <p>Thursday, November 27 &#8211; &hellip;</p></a>
+original_markdown_body: |-
+  [
+
+  Mark your calendar!
+
+  We will be closed on these upcoming dates for the Thanksgiving holiday.
+
+  Wednesday, November 26: The Center will close early at 3:30 p.m.
+
+  Thursday, November 27 – …
+
+  ](https://wscenter.org/thanksgiving-closure/)
+summarized: true
+topics: []
+published: false
 ---
 
-[
-
-Mark your calendar!
-
-We will be closed on these upcoming dates for the Thanksgiving holiday.
-
-Wednesday, November 26: The Center will close early at 3:30 p.m.
-
-Thursday, November 27 – …
-
-](https://wscenter.org/thanksgiving-closure/)
+The Center for Active Living will be closed for the Thanksgiving holiday on the following dates: Wednesday, November 26, with an early closure at 3:30 p.m., and from Thursday, November 27 to Friday, November 28. The staff wishes everyone a happy Thanksgiving.
