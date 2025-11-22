@@ -10,12 +10,14 @@ require 'time'
 require 'digest'
 require 'reverse_markdown'
 require 'nokogiri'
+require 'thread'
 
 NEWS_DIR = '_posts'
 SOURCES_DIR = '_organizations'
 MAX_ITEM_AGE_DAYS = 365
 MAX_FILENAME_BYTES = 255
 CHECKSUM_FILE = File.expand_path('feed_checksums.yml', __dir__)
+MAX_WORKERS = Integer(ENV.fetch('RSS_WORKERS', '6')) rescue 6
 
 FileUtils.mkdir_p(NEWS_DIR)
 
@@ -170,95 +172,103 @@ rescue StandardError => e
 end
 
 feed_checksums = load_feed_checksums
+queue = Queue.new
+Dir.glob("#{SOURCES_DIR}/*.md").each { |source_file| queue << source_file }
+lock = Mutex.new
+log_lock = Mutex.new
 
-# Iterate through all Markdown files in _sources
-Dir.glob("#{SOURCES_DIR}/*.md") do |source_file|
-  frontmatter = read_frontmatter(source_file)
-  rss_url = frontmatter['news_rss_url']
-  source_title = frontmatter['title']
+workers = Array.new([MAX_WORKERS, 1].max) do
+  Thread.new do
+    loop do
+      source_file = begin
+        queue.pop(true)
+      rescue ThreadError
+        break
+      end
 
-  next unless rss_url # Skip if no RSS URL
+      frontmatter = read_frontmatter(source_file)
+      rss_url = frontmatter['news_rss_url']
+      source_title = frontmatter['title']
+      next unless rss_url
 
-  begin
-    rss_content = URI.open(rss_url, &:read)
-    checksum = Digest::SHA256.hexdigest(rss_content)
+      begin
+        rss_content = URI.open(rss_url, open_timeout: 5, read_timeout: 10, &:read)
+        checksum = Digest::SHA256.hexdigest(rss_content)
 
-    if feed_checksums[rss_url] == checksum
-      puts "Skipping #{source_title} (feed unchanged)"
-      next
+        skip = lock.synchronize { feed_checksums[rss_url] == checksum }
+        if skip
+          log_lock.synchronize { puts "Skipping #{source_title} (feed unchanged)" }
+          next
+        end
+
+        feed = RSS::Parser.parse(rss_content, false)
+
+        feed.items.each do |item|
+          link_url = item_link_url(item)
+          if link_url.to_s.strip.empty?
+            log_lock.synchronize { warn "Skipping #{item.respond_to?(:title) ? item.title : 'item with no title'} (missing link URL)" }
+            next
+          end
+          published_time = published_at(item)
+          unless published_time
+            log_lock.synchronize { warn "Skipping #{item.link || item.title} (missing publish date)" }
+            next
+          end
+
+          if stale_item?(published_time)
+            log_lock.synchronize { puts "Skipping #{item.link || item.title} (older than #{MAX_ITEM_AGE_DAYS} days)" }
+            next
+          end
+
+          original_html = item_content_html(item).to_s.strip
+          original_html = fetch_article_body_html(item.link).to_s.strip if original_html.empty? && item.link
+
+          if original_html.empty?
+            log_lock.synchronize { warn "No content available for #{item.link || item.title}, skipping." }
+            next
+          end
+
+          existing_file = Dir.glob("#{NEWS_DIR}/*.md").find do |f|
+            fm = read_frontmatter(f)
+            fm['original_content'] && fm['source_url'].to_s == link_url.to_s
+          end
+          if existing_file
+            log_lock.synchronize { puts "Skipping #{item.title} (already imported)" }
+            next
+          end
+
+          content_md = ReverseMarkdown.convert(original_html)
+
+          date_prefix = published_time.strftime('%Y-%m-%d')
+          title_slug = filename_slug(item_title_text(item), link_url, date_prefix)
+          filename = "#{NEWS_DIR}/#{date_prefix}-#{title_slug}.md"
+
+          news_frontmatter = {
+            'title' => item_title_text(item),
+            'date' => published_time.iso8601,
+            'source' => source_title,
+            'source_url' => link_url.to_s,
+            'original_content' => original_html
+          }
+
+          File.write(filename, "---\n#{news_frontmatter.to_yaml.sub(/\A---\s*\n/, '')}---\n\n#{content_md}")
+          log_lock.synchronize { puts "Created #{filename}" }
+        end
+
+        lock.synchronize { feed_checksums[rss_url] = checksum }
+      rescue OpenURI::HTTPError, SocketError => e
+        log_lock.synchronize { warn "Failed to fetch RSS feed for source '#{source_title}' (#{rss_url}): #{e.message}" }
+        next
+      rescue OpenSSL::SSL::SSLError => e
+        log_lock.synchronize { warn "SSL error for source '#{source_title}' (#{rss_url}): #{e.message}" }
+        next
+      rescue RSS::NotWellFormedError => e
+        log_lock.synchronize { warn "Failed to parse RSS feed for source '#{source_title}' (#{rss_url}): #{e.message}" }
+        next
+      end
     end
-
-    feed = RSS::Parser.parse(rss_content, false)
-
-    feed.items.each do |item|
-      link_url = item_link_url(item)
-      if link_url.to_s.strip.empty?
-        warn "Skipping #{item.respond_to?(:title) ? item.title : 'item with no title'} (missing link URL)"
-        next
-      end
-      published_time = published_at(item)
-      unless published_time
-        warn "Skipping #{item.link || item.title} (missing publish date)"
-        next
-      end
-
-      if stale_item?(published_time)
-        puts "Skipping #{item.link || item.title} (older than #{MAX_ITEM_AGE_DAYS} days)"
-        next
-      end
-
-      # Get original HTML content from RSS item
-      original_html = item_content_html(item).to_s.strip
-      original_html = fetch_article_body_html(item.link).to_s.strip if original_html.empty? && item.link
-
-      if original_html.empty?
-        warn "No content available for #{item.link || item.title}, skipping."
-        next
-      end
-
-      # Skip if we've already imported this article (has original_content)
-      existing_file = Dir.glob("#{NEWS_DIR}/*.md").find do |f|
-        fm = read_frontmatter(f)
-        fm['original_content'] && fm['source_url'].to_s == link_url.to_s
-      end
-      if existing_file
-        puts "Skipping #{item.title} (already imported)"
-        next
-      end
-
-      # Convert HTML to Markdown for content body
-      content_md = ReverseMarkdown.convert(original_html)
-
-      # Generate a safe filename
-      date_prefix = published_time.strftime('%Y-%m-%d')
-      title_slug = filename_slug(item_title_text(item), link_url, date_prefix)
-      filename = "#{NEWS_DIR}/#{date_prefix}-#{title_slug}.md"
-
-      # Build frontmatter
-      news_frontmatter = {
-        'title' => item_title_text(item),
-        'date' => published_time.iso8601,
-        'source' => source_title,
-        'source_url' => link_url.to_s,
-        'original_content' => original_html
-      }
-
-      # Write the news file with proper single frontmatter
-      File.write(filename, "---\n#{news_frontmatter.to_yaml.sub(/\A---\s*\n/, '')}---\n\n#{content_md}")
-      puts "Created #{filename}"
-    end
-
-    feed_checksums[rss_url] = checksum
-  rescue OpenURI::HTTPError, SocketError => e
-    warn "Failed to fetch RSS feed for source '#{source_title}' (#{rss_url}): #{e.message}"
-    next
-  rescue OpenSSL::SSL::SSLError => e
-    warn "SSL error for source '#{source_title}' (#{rss_url}): #{e.message}"
-    next
-  rescue RSS::NotWellFormedError => e
-    warn "Failed to parse RSS feed for source '#{source_title}' (#{rss_url}): #{e.message}"
-    next
   end
 end
 
+workers.each(&:join)
 save_feed_checksums(feed_checksums)

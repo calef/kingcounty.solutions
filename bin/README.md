@@ -98,6 +98,7 @@ Imports recent partner updates from every `_organizations/*.md` that exposes `ne
 
 - Honors `news_rss_url` and optional metadata (e.g., titles) already in each organization file.
 - Skips RSS items published more than `MAX_ITEM_AGE_DAYS` (365) days ago.
+- `RSS_WORKERS` – how many threads to use for fetching/parsing feeds in parallel (default 6). Use a smaller number if you want to be gentler on source servers.
 
 **Behavior notes**
 
@@ -105,6 +106,7 @@ Imports recent partner updates from every `_organizations/*.md` that exposes `ne
 - Attempts to scrape the article body directly (preferring known selectors) if the RSS item lacks `content:encoded`.
 - Converts HTML to Markdown via `ReverseMarkdown`, stores the upstream HTML in `original_content`, and saves the cleaned Markdown body beneath a single YAML front matter block.
 - Stores SHA256 checksums for each feed in `bin/feed_checksums.yml` and skips reprocessing feeds whose checksum has not changed since the previous run.
+- Fetches feeds concurrently using a small thread pool; logs and checksum updates are synchronized to avoid races.
 
 ### `list-openai-models`
 
