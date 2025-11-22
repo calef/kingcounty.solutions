@@ -1,6 +1,7 @@
 ---
 jurisdictions:
 - King County
+parent_organization: Sea Mar Community Health Centers
 phone: 360.788.7101
 address: 4455 Cordata Parkway, Bellingham, WA 98226
 title: Sea Mar Community Health Centers - Bellingham Dental Clinic

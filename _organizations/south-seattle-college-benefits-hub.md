@@ -3,7 +3,7 @@ parent_organization: South Seattle College
 phone: 206.649.8124
 email: BenefitsHubSSC@seattlecolleges.edu
 address: Robert Smith Building (RSB 79), South Seattle College
-title: Benefits Hub
+title: South Seattle College Benefits Hub
 topics:
 - Financial Assistance
 - Food & Nutrition

@@ -2,6 +2,7 @@
 jurisdictions:
 - Bellevue
 - King County
+parent_organization: Sea Mar Community Health Centers
 phone: 425.460.7125
 address: 1811 156th Ave NE, Suite 2, Bellevue, WA 98007
 title: Sea Mar Community Health Centers - Bellevue Behavioral Health Child & Family

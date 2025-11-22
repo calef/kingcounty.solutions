@@ -2,6 +2,7 @@
 jurisdictions:
 - Kent
 - King County
+parent_organization: Sea Mar Community Health Centers
 phone: 206.436.6380
 address: 233 2nd Avenue S, Kent, WA 98032
 title: Sea Mar Community Health Centers - Kent Medical Clinic

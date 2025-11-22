@@ -1,6 +1,7 @@
 ---
 jurisdictions:
 - King County
+parent_organization: Sea Mar Community Health Centers
 phone: 360.282.3900
 address: 17707 West Main Street (2nd Floor), Monroe, WA 98272
 title: Sea Mar Community Health Centers - Monroe Dental Clinic
