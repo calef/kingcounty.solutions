@@ -148,6 +148,27 @@ rescue StandardError
   item.link || 'Untitled'
 end
 
+def item_link_url(item)
+  if item.respond_to?(:link)
+    link = item.link
+    return link.href if link.respond_to?(:href)
+    return link.to_s unless link.is_a?(RSS::Atom::Feed::Link) # avoid dumping object graphs
+  end
+
+  if item.respond_to?(:links) && item.links.respond_to?(:each)
+    alternate = item.links.find { |l| l.respond_to?(:rel) && l.rel == 'alternate' }
+    return alternate.href if alternate && alternate.respond_to?(:href)
+
+    first = item.links.first
+    return first.href if first && first.respond_to?(:href)
+  end
+
+  item.respond_to?(:url) ? item.url.to_s : nil
+rescue StandardError => e
+  warn "Failed to read link for #{item.respond_to?(:title) ? item.title : 'unknown item'}: #{e.message}"
+  nil
+end
+
 feed_checksums = load_feed_checksums
 
 # Iterate through all Markdown files in _sources
@@ -170,6 +191,11 @@ Dir.glob("#{SOURCES_DIR}/*.md") do |source_file|
     feed = RSS::Parser.parse(rss_content, false)
 
     feed.items.each do |item|
+      link_url = item_link_url(item)
+      if link_url.to_s.strip.empty?
+        warn "Skipping #{item.respond_to?(:title) ? item.title : 'item with no title'} (missing link URL)"
+        next
+      end
       published_time = published_at(item)
       unless published_time
         warn "Skipping #{item.link || item.title} (missing publish date)"
@@ -193,7 +219,7 @@ Dir.glob("#{SOURCES_DIR}/*.md") do |source_file|
       # Skip if we've already imported this article (has original_content)
       existing_file = Dir.glob("#{NEWS_DIR}/*.md").find do |f|
         fm = read_frontmatter(f)
-        fm['original_content'] && fm['source_url'] == item.link
+        fm['original_content'] && fm['source_url'].to_s == link_url.to_s
       end
       if existing_file
         puts "Skipping #{item.title} (already imported)"
@@ -205,7 +231,7 @@ Dir.glob("#{SOURCES_DIR}/*.md") do |source_file|
 
       # Generate a safe filename
       date_prefix = published_time.strftime('%Y-%m-%d')
-      title_slug = filename_slug(item_title_text(item), item.link, date_prefix)
+      title_slug = filename_slug(item_title_text(item), link_url, date_prefix)
       filename = "#{NEWS_DIR}/#{date_prefix}-#{title_slug}.md"
 
       # Build frontmatter
@@ -213,7 +239,7 @@ Dir.glob("#{SOURCES_DIR}/*.md") do |source_file|
         'title' => item_title_text(item),
         'date' => published_time.iso8601,
         'source' => source_title,
-        'source_url' => item.link,
+        'source_url' => link_url.to_s,
         'original_content' => original_html
       }
 
