@@ -35,47 +35,12 @@ original_content: |-
 
 
   <p><strong>How will the move to the new Cancer Center, starting with ASMC and later the Oncology &amp; Hematology Clinic affect patient care and experience?</strong><br><em>With the addition of more APPs and expansion of the ASMC to the Infusion Center, we will be able to offer this service to our patients 7 days a week allowing for prompt assessment and treatment, and when appropriate, keeping them out of the emergency department and urgent care setting. </em></p>
-original_markdown_body: "A part of Valley’s new Cancer Center is a clinic specially
-  designed for cancer patients–the Acute Symptom Management Clinic (ASMC). The ASMC
-  is part of the Oncology & Hematology Clinic, and will be expanding to support patients
-  at the Infusion & Immunotherapy Center in the East Pavilion. We asked Kendra Hahn,
-  Nurse Manager of the **[Oncology & Hematology Clinic](https://www.valleymed.org/services/all-specialties/cancer-treatment--support)**
-  which the ASMC is a part of, to tell us about the clinic. Interview has been edited
-  for length and clarity.\n\n**In your own words, how would you describe the Acute
-  Symptom Management Clinic?** &nbsp;  \n_The Acute Symptom Management Clinic is a
-  vital element of the care we provide to our patients within our comprehensive cancer
-  services program.&nbsp;Through the coordination of our Oncology Nurse Navigators,
-  they connect symptomatic cancer patients with our Oncology Nurse Practitioner for
-  prompt assessment and treatment as appropriate.&nbsp; This clinic allows for patients
-  to receive timely care when it is most critical._\n\n**How does the ASMC support
-  cancer patients? In what situations might a patient with cancer need to be seen
-  in the ASMC?**   \n_By having the ASMC available to cancer patients, patients do
-  not have to go to an urgent care or emergency department for non-life-threatening
-  situations that can be managed by a Licensed Independent Practitioner.&nbsp;For
-  patients this decreases lengthy waiting room wait times, risk for exposure to infectious
-  disease, patient insurance co-pays, and enhances patient experience as they are
-  being cared for by the outstanding clinical team they have grown to know and trust._\n\n**Can
-  you give an example of how the clinic works?**  \n_Cancer patient sends MyChart
-  message to the clinic reporting that they are experiencing the following symptoms:
-  body aches, mild fever, and redness and tenderness around a recently placed port-a-cath.
-  The Oncology Nurse Navigator received the MyChart message, triaged the patient message,
-  and arranged for the patient to be seen in the ASMC.&nbsp;Patient was assessed and
-  started on antibiotics for an infection.&nbsp;Within a few days this patient’s symptoms
-  had fully resolved.&nbsp;The Oncology Nurse Practitioner arranged for the patient
-  to follow up with their oncologist the following week, never needing to visit an
-  urgent care clinic or the emergency department._\n\n**How many staff work in the
-  ASMC? What are their roles?**  \n_We currently have one ARNP, Jaycee Wong, who runs
-  the ASMC. This month, we are expanding to three advanced practice providers (APPs),
-  and we expand this service to the Infusion & Immunotherapy Center._\n\n![](http://blog.valleymed.org/wp-content/uploads/2025/01/Wong_Jaycee-bio.jpg)\n_Jaycee
-  Wong, ARNP, runs the Acute Symptom Management Clinic_\n\n**How will the move to
-  the new Cancer Center, starting with ASMC and later the Oncology & Hematology Clinic
-  affect patient care and experience?**  \n_With the addition of more APPs and expansion
-  of the ASMC to the Infusion Center, we will be able to offer this service to our
-  patients 7 days a week allowing for prompt assessment and treatment, and when appropriate,
-  keeping them out of the emergency department and urgent care setting._"
+original_markdown_body: "A part of Valley’s new Cancer Center is a clinic specially designed for cancer patients–the Acute Symptom Management Clinic (ASMC). The ASMC is part of the Oncology & Hematology Clinic, and will be expanding to support patients at the Infusion & Immunotherapy Center in the East Pavilion. We asked Kendra Hahn, Nurse Manager of the **[Oncology & Hematology Clinic](https://www.valleymed.org/services/all-specialties/cancer-treatment--support)** which the ASMC is a part of, to tell us about the clinic. Interview has been edited for length and clarity.\n\n**In your own words, how would you describe the Acute Symptom Management Clinic?** &nbsp;  \n_The Acute Symptom Management Clinic is a vital element of the care we provide to our patients within our comprehensive cancer services program.&nbsp;Through the coordination of our Oncology Nurse Navigators, they connect symptomatic cancer patients with our Oncology Nurse Practitioner for prompt assessment and treatment as appropriate.&nbsp; This clinic allows for patients to receive timely care when it is most critical._\n\n**How does the ASMC support cancer patients? In what situations might a patient with cancer need to be seen in the ASMC?**   \n_By having the ASMC available to cancer patients, patients do not have to go to an urgent care or emergency department for non-life-threatening situations that can be managed by a Licensed Independent Practitioner.&nbsp;For patients this decreases lengthy waiting room wait times, risk for exposure to infectious disease, patient insurance co-pays, and enhances patient experience as they are being cared for by the outstanding clinical team they have grown to know and trust._\n\n**Can you give an example of how the clinic works?**  \n_Cancer patient sends MyChart message to the clinic reporting that they are experiencing the following symptoms: body aches, mild fever, and redness and tenderness around a recently placed port-a-cath. The Oncology Nurse Navigator received the MyChart message, triaged the patient message, and arranged for the patient to be seen in the ASMC.&nbsp;Patient was assessed and started on antibiotics for an infection.&nbsp;Within a few days this patient’s symptoms had fully resolved.&nbsp;The Oncology Nurse Practitioner arranged for the patient to follow up with their oncologist the following week, never needing to visit an urgent care clinic or the emergency department._\n\n**How many staff work in the ASMC? What are their roles?**  \n_We currently have one ARNP, Jaycee Wong, who runs the ASMC. This month, we are expanding to three advanced practice providers (APPs), and we expand this service to the Infusion & Immunotherapy Center._\n\n![](http://blog.valleymed.org/wp-content/uploads/2025/01/Wong_Jaycee-bio.jpg)\n_Jaycee Wong, ARNP, runs the Acute Symptom Management Clinic_\n\n**How will the move to the new Cancer Center, starting with ASMC and later the Oncology & Hematology Clinic affect patient care and experience?**  \n_With the addition of more APPs and expansion of the ASMC to the Infusion Center, we will be able to offer this service to our patients 7 days a week allowing for prompt assessment and treatment, and when appropriate, keeping them out of the emergency department and urgent care setting._"
 summarized: true
 topics:
 - Health Care
+images:
+- a32bb859472ed195046f5300a311c442b8ee409effbb1056026b7cc349f296f0
 ---
 
 The Acute Symptom Management Clinic (ASMC) at Valley’s Cancer Center is designed to provide critical support for cancer patients experiencing non-life-threatening symptoms. This clinic, part of the Oncology & Hematology Clinic, allows for prompt assessment and treatment through coordination with Oncology Nurse Navigators and Nurse Practitioners. By offering timely care, the ASMC helps patients avoid long waits at urgent care or emergency departments, reducing their risk of infections and lowering out-of-pocket costs.

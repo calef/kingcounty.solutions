@@ -31,6 +31,8 @@ original_markdown_body: |-
 summarized: true
 topics:
 - Health Care
+images:
+- 80590b9d600b872501cd7360f877a9976c8f68ef41c8228511ed5e4571f964fb
 ---
 
 Valley Medical Center has received a $6 million grant from The Norcliffe Foundation to advance the expansion of its new Cancer Center, which recently opened to patients. This funding will facilitate the transition to Phase 1B, enhancing services and care for cancer patients in South King County. CEO Jeannine Erickson Grinnell expressed excitement about this support, stating it represents hope for many in the community. The Cancer Center has been in development for over seven years, benefiting from the backing of donors, healthcare professionals, and local residents. The opening of the Infusion Center is a pivotal step in improving access to advanced cancer treatments. The grant from The Norcliffe Foundation brings the project closer to the $10 million goal needed for completing Phase 1B, which will include new facilities such as an Oncology & Hematology Clinic, a Multidisciplinary Clinic, a Laboratory, and a Café.

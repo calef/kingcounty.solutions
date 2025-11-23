@@ -163,6 +163,10 @@ topics:
 - Employment & Job Support
 - Food & Nutrition
 - Community & Social Services
+images:
+- e946436502031ea3ebdc8bad3a71c04654fa7bb121c28456747d97bf55713e7c
+- c4d0cfcc1f50c13f5abc5e6548264999c542c349180fd06a67fba559cc6621ab
+- 111b1eeda30df495df4092ec1c12b8c12527bd8f2793efaab2dd2e7a242f070a
 ---
 
 Today, Michelle and Brent have a stable home for their family, including their 9-month-old son, after a challenging journey from homelessness. Less than two years ago, they faced unsheltered living and substance use disorders. Upon learning of Michelle's pregnancy, they committed to treatment and sought stable housing. Initially, they moved in with Brent's brother, but soon faced homelessness again after the landlord lost the property.

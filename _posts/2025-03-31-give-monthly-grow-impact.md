@@ -57,6 +57,8 @@ topics:
 - Community & Social Services
 - Food & Nutrition
 - Shelter & Housing
+images:
+- 6d14a6b6b7fa3fe01f3191a354dbee7cad7e90781c3ab2ce02f13cfe39705f0f
 ---
 
 Spring symbolizes renewal and growth, emphasizing the impact of small, consistent actions. Joining the Circle of Compassion monthly giving program offers ongoing support to individuals and families experiencing homelessness, helping them build brighter futures. Monthly contributions ensure access to safe shelter, nourishing meals, and essential services year-round.

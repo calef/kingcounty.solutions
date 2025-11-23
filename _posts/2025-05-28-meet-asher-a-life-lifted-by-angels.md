@@ -112,6 +112,14 @@ topics:
 - Health Care
 - Transportation & Mobility
 - Community & Social Services
+images:
+- 2f516b500702c9fe4854e5e7ec4d1c9956403f1f25214c56141af5131a37b4ee
+- 23898c410b83891b80d431d291eacf84fcd3dd5bb8393c5d4770c00908e915eb
+- 5394579d7367e4ea464b8165b8b8f3a3f841d5340e57450087d381513a160eb5
+- ce393871e1edb60bef94e8d679625ea59bc2e5aedc1fec014d03238230d41e02
+- dc06d924bf8ace3dcbe9463ee5f9d10ffc75795b0ef7f18155612b705db0720b
+- 4e83a7aa95486c1c344614aa896d9d72de2557a490fddf102fcebe31055c3cee
+- 82ab414ea12795293ca78595c794f70c29fd96fdfbde08310d3d47e03d360618
 ---
 
 Asher, born prematurely at 25 weeks and weighing only 1 lb. 14 oz., has faced numerous health challenges, spending 164 days in the neonatal intensive care unit. Throughout his life, he has undergone multiple medical procedures, including a tracheotomy, a feeding device placement, and heart surgery. Now 11 years old, he has spent over 640 days in hospitals due to complications such as vocal cord paralysis, airway damage, and chronic lung disease. 

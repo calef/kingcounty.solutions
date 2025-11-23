@@ -65,6 +65,9 @@ topics:
 - Education & Learning
 - Mental Health & Counseling
 - Employment & Job Support
+images:
+- 27ea9b75f5d702bf35da51bad5e1c305a1d5c9b053b83ce21c9b28c793fb137b
+- cd817bdc14fd42cb4e7d4f668ae8d8053ab9982067b9139af6ce7a3b1c74c7f1
 ---
 
 Meet Kendrie, a Beyond the Cure Ambassador Scholarship recipient from 2018 to 2023. At just four years old, Kendrie was diagnosed with acute lymphoblastic leukemia, leading to a challenging 2½ years of treatment, including surgeries and chemotherapy. Despite the hardships, she found strength in her journey and developed a passion for supporting others facing similar challenges. After completing treatment, Kendrie enjoyed a normal childhood, participating in sports and music during high school. 

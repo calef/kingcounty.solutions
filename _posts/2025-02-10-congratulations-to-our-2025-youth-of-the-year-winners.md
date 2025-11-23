@@ -68,6 +68,10 @@ topics:
 - Employment & Job Support
 - Mental Health & Counseling
 - Shelter & Housing
+images:
+- ccd81b5041201dfd5053401a59190c033fdbcb31b07ebfb127d955eb5896c7a9
+- b4a533186941b93def30dd7599e89a45203d3aca0a234aa50e883e9ccf13e8fe
+- 709dd14c3b8a1ba215d87dc7e4178dd44e3fea96975f7070c378a128f0373b83
 ---
 
 Congratulations to the 2025 Youth of the Year winners, Youseff and Adele, recognized for their exceptional service and leadership at the Boys & Girls Clubs of King County. The awards ceremony, held on February 8, celebrated 10 outstanding candidates with over 200 community members in attendance. Youseff, from the Kirkland Club, began his journey in second grade and has become a mentor and Youth Development Professional, aiming to lead the organization as president. Adele, from the Mercer Island Club, has created an inclusive environment while enhancing her leadership through advocacy and volunteerism. 

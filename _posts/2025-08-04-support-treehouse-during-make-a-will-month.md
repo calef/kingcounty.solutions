@@ -41,6 +41,8 @@ summarized: true
 topics:
 - Community & Social Services
 - Education & Learning
+images:
+- 543dd6843c83e60e0f5b79ee9f38f493e79efc803af338ed329402f3f3c8649c
 ---
 
 August is National Make-a-Will Month, and Treehouse encourages supporters to participate through a partnership with FreeWill, allowing them to create a will at no cost. Darian Lindle, a supporter of Treehouse, shares her experience of updating her will and including a donation to the organization. Inspired by Treehouse’s mission and its impact on children in foster care, she decided to contribute, realizing that even small donations can make a difference. The process on FreeWill was straightforward, with information for Treehouse auto-populating as she filled out her will. Darian expresses gratitude for Treehouse and its role in supporting students in foster care, emphasizing the importance of legacy giving. Treehouse appreciates contributions from supporters like Darian, as these gifts help ensure that their services remain accessible to students in need. For more information on planned or legacy giving, individuals can reach out via the provided contact.

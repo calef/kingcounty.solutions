@@ -40,77 +40,15 @@ original_content: |-
   <p><b>Want to share your time and skills with the Solid Ground community? </b><a href="https://www.solid-ground.org/get-involved/volunteer/"><b>Volunteer with us!</b></a></p>
   <hr />
   <p class="tmc-caption"><strong><span style="color: #363636;">Image at top:</span></strong> Nikita Sharma, Broadview children&#8217;s program volunteer (photo by Clarissa Magdich)</p>The post <a href="https://www.solid-ground.org/volunteering-to-be-a-safe-place-for-kids/">Volunteering to be a ‘safe place’ for kids </a> appeared first on <a href="https://www.solid-ground.org">Solid Ground</a>.
-original_markdown_body: "![A young woman wearing a brown, orange, and blue knit-sweater
-  poses by a wall of windows .](https://s14621.pcdn.co/wp-content/uploads/2025/04/NikitaSharma-CM-04.10.25-1-801x-361x255.jpg)\n\nIf
-  you ask Nikita Sharma what she loves most about her volunteer work at [Broadview
-  Shelter and Transitional Housing](https://www.solid-ground.org/our-impact/housing-homelessness/#broadview),
-  she’ll tell you it’s something that would stress most adults out: when kids get
-  rowdy.\n\n“They get loud, they make a mess, but I get really excited because it
-  means they finally feel safe enough to behave like a kid,” she says. “It’s really
-  gratifying.”&nbsp;\n\nNikita is one of the more than 1,100 volunteers who made moments
-  like this possible last year by donating their skills and time – nearly 23,000 hours
-  total – toward our vision of a future beyond poverty. Whether they’re harvesting
-  turnips at Marra Farm or tutoring high school students at Sand Point, every volunteer
-  plays a critical role in helping our neighbors live happier, healthier, and more
-  fulfilling lives.\n\n#### April is Volunteer Appreciation Month! \n\n###### _Here
-  are just a few current Solid Ground volunteer opportunities:&nbsp;_\n\n- [Youth
-  Hip Hop Dance Instructor](https://www.solid-ground.org/volunteer/hip-hop-instructor/)&nbsp;\n-
-  [After-school Youth Tutor](https://www.solid-ground.org/volunteer/sand-point-tutor/)&nbsp;\n-
-  [Marra Farm Giving Gardener](https://www.solid-ground.org/volunteer/marra-farm-gardener/)&nbsp;\n-
-  [Special Events Volunteer](https://www.solid-ground.org/volunteer/special-events-vol/)&nbsp;\n-
-  [Summer Meals Distribution Volunteer](https://www.solid-ground.org/volunteer/summer-meals-broadview/)&nbsp;\n-
-  [Office & Finance Support Volunteer](https://www.solid-ground.org/volunteer/broadview-office-volunteer/)&nbsp;\n\nAt
-  Broadview, a safe haven for parents and children escaping the dual traumas of domestic
-  violence and homelessness, Nikita does a little bit of everything, from answering
-  phones and passing out lunches to chaperoning field trips and keeping kids cool
-  in the summer heat. Nikita says she loves it all, but especially her work with children.&nbsp;\n\n>
-  “They get loud, they make a mess, but I get really excited because it means they
-  finally feel safe enough to behave like a kid.”\n> \n> ~Nikita Sharma, volunteer\n\nKim
-  S., a Children’s Advocate at Broadview, says the feeling is mutual. “The kids just
-  love her,” she says. “She’s always running around, flying kites with them outside,
-  playing Simon Says on the playground, doing crafts in the playroom, playing dress
-  up, playing Uno – anything and everything. She just connects with them so well,
-  it’s incredible.”&nbsp;\n\nNikita started volunteering at Broadview about a year
-  and a half ago, when she had just moved to Seattle for a new software engineering
-  job and was looking for ways to connect with her new community. When she later had
-  to leave her job because of health issues, the hours spent at Broadview became even
-  more important to her.&nbsp;\n\n“It gave me some structure to my time and gave me
-  some meaning,” she says. “When a lot of things in my life were difficult, this was
-  a source of stability.”&nbsp;\n\n ![A cropped shop showing the legs of adults and
-  kids practicing soccer drills on a synthetic turf field.](https://s14621.pcdn.co/wp-content/uploads/2025/04/BV-kids-soccer-CM-08.27.24-x400.jpg)\n\nBroadview
-  children practice soccer drills with staff and volunteers (photo by Clarissa Magdich).\n\nNikita
-  helped provide stability for dozens of children and parents as well. She started
-  out packing and passing out sack lunches for kids in the summer, then switched to
-  helping them with homework when they went back to school in the fall. She provided
-  childcare so mothers could focus on rebuilding their lives, and helped lead fun
-  activities for children to help them experience healthy relationships and build
-  social-emotional skills for life.&nbsp;\n\n“She’s able to pick up on different needs
-  so quickly – she knows where to step in. She’ll just pop right into whatever we’re
-  doing,” says Kim. “She’s one of those people that you know when they’re coming in,
-  it’s going make the day a lot easier.”&nbsp;\n\nNikita says she loves being part
-  of the Broadview team as well. “I’ve loved getting to know the people who work here
-  too,” she says. “I showed up so often that I’ve built wonderful relationships with
-  them, and they’ve all been so welcoming of me.” &nbsp;\n\n> “She’s one of those
-  people that you know when they’re coming in, it’s going make the day a lot easier.”\n>
-  \n> ~Kim S., Children’s Advocate\n\nBut Nikita, who’s now back at work but still
-  volunteers her time at Broadview, says it’s the relationships she built with kids
-  that she cherishes most. &nbsp;\n\n“A lot of the kids – especially when they’ve
-  just arrived – are scared and they don’t want to engage,” she says. “And I just
-  love when they start to feel safe and you can see the change. They’ll open up a
-  lot about what’s going on in their life.&nbsp;\n\n“And those are some of the hardest
-  conversations, when they’ll come up to me and are like, ‘Hey, can we talk?’ I have
-  immense gratitude for the parts of their story these children choose to share with
-  me, and I deeply value knowing that I can be a safe place for them.”&nbsp;\n\n**Want
-  to share your time and skills with the Solid Ground community?** [**Volunteer with
-  us!**](https://www.solid-ground.org/get-involved/volunteer/)\n\n* * *\n\n**Image
-  at top:** Nikita Sharma, Broadview children’s program volunteer (photo by Clarissa
-  Magdich)\n\nThe post [Volunteering to be a ‘safe place’ for kids&nbsp;](https://www.solid-ground.org/volunteering-to-be-a-safe-place-for-kids/)
-  appeared first on [Solid Ground](https://www.solid-ground.org)."
+original_markdown_body: "![A young woman wearing a brown, orange, and blue knit-sweater poses by a wall of windows .](https://s14621.pcdn.co/wp-content/uploads/2025/04/NikitaSharma-CM-04.10.25-1-801x-361x255.jpg)\n\nIf you ask Nikita Sharma what she loves most about her volunteer work at [Broadview Shelter and Transitional Housing](https://www.solid-ground.org/our-impact/housing-homelessness/#broadview), she’ll tell you it’s something that would stress most adults out: when kids get rowdy.\n\n“They get loud, they make a mess, but I get really excited because it means they finally feel safe enough to behave like a kid,” she says. “It’s really gratifying.”&nbsp;\n\nNikita is one of the more than 1,100 volunteers who made moments like this possible last year by donating their skills and time – nearly 23,000 hours total – toward our vision of a future beyond poverty. Whether they’re harvesting turnips at Marra Farm or tutoring high school students at Sand Point, every volunteer plays a critical role in helping our neighbors live happier, healthier, and more fulfilling lives.\n\n#### April is Volunteer Appreciation Month! \n\n###### _Here are just a few current Solid Ground volunteer opportunities:&nbsp;_\n\n- [Youth Hip Hop Dance Instructor](https://www.solid-ground.org/volunteer/hip-hop-instructor/)&nbsp;\n- [After-school Youth Tutor](https://www.solid-ground.org/volunteer/sand-point-tutor/)&nbsp;\n- [Marra Farm Giving Gardener](https://www.solid-ground.org/volunteer/marra-farm-gardener/)&nbsp;\n- [Special Events Volunteer](https://www.solid-ground.org/volunteer/special-events-vol/)&nbsp;\n- [Summer Meals Distribution Volunteer](https://www.solid-ground.org/volunteer/summer-meals-broadview/)&nbsp;\n- [Office & Finance Support Volunteer](https://www.solid-ground.org/volunteer/broadview-office-volunteer/)&nbsp;\n\nAt Broadview, a safe haven for parents and children escaping the dual traumas of domestic violence and homelessness, Nikita does a little bit of everything, from answering phones and passing out lunches to chaperoning field trips and keeping kids cool in the summer heat. Nikita says she loves it all, but especially her work with children.&nbsp;\n\n> “They get loud, they make a mess, but I get really excited because it means they finally feel safe enough to behave like a kid.”\n> \n> ~Nikita Sharma, volunteer\n\nKim S., a Children’s Advocate at Broadview, says the feeling is mutual. “The kids just love her,” she says. “She’s always running around, flying kites with them outside, playing Simon Says on the playground, doing crafts in the playroom, playing dress up, playing Uno – anything and everything. She just connects with them so well, it’s incredible.”&nbsp;\n\nNikita started volunteering at Broadview about a year and a half ago, when she had just moved to Seattle for a new software engineering job and was looking for ways to connect with her new community. When she later had to leave her job because of health issues, the hours spent at Broadview became even more important to her.&nbsp;\n\n“It gave me some structure to my time and gave me some meaning,” she says. “When a lot of things in my life were difficult, this was a source of stability.”&nbsp;\n\n ![A cropped shop showing the legs of adults and kids practicing soccer drills on a synthetic turf field.](https://s14621.pcdn.co/wp-content/uploads/2025/04/BV-kids-soccer-CM-08.27.24-x400.jpg)\n\nBroadview children practice soccer drills with staff and volunteers (photo by Clarissa Magdich).\n\nNikita helped provide stability for dozens of children and parents as well. She started out packing and passing out sack lunches for kids in the summer, then switched to helping them with homework when they went back to school in the fall. She provided childcare so mothers could focus on rebuilding their lives, and helped lead fun activities for children to help them experience healthy relationships and build social-emotional skills for life.&nbsp;\n\n“She’s able to pick up on different needs so quickly – she knows where to step in. She’ll just pop right into whatever we’re doing,” says Kim. “She’s one of those people that you know when they’re coming in, it’s going make the day a lot easier.”&nbsp;\n\nNikita says she loves being part of the Broadview team as well. “I’ve loved getting to know the people who work here too,” she says. “I showed up so often that I’ve built wonderful relationships with them, and they’ve all been so welcoming of me.” &nbsp;\n\n> “She’s one of those people that you know when they’re coming in, it’s going make the day a lot easier.”\n> \n> ~Kim S., Children’s Advocate\n\nBut Nikita, who’s now back at work but still volunteers her time at Broadview, says it’s the relationships she built with kids that she cherishes most. &nbsp;\n\n“A lot of the kids – especially when they’ve just arrived – are scared and they don’t want to engage,” she says. “And I just love when they start to feel safe and you can see the change. They’ll open up a lot about what’s going on in their life.&nbsp;\n\n“And those are some of the hardest conversations, when they’ll come up to me and are like, ‘Hey, can we talk?’ I have immense gratitude for the parts of their story these children choose to share with me, and I deeply value knowing that I can be a safe place for them.”&nbsp;\n\n**Want to share your time and skills with the Solid Ground community?** [**Volunteer with us!**](https://www.solid-ground.org/get-involved/volunteer/)\n\n* * *\n\n**Image at top:** Nikita Sharma, Broadview children’s program volunteer (photo by Clarissa Magdich)\n\nThe post [Volunteering to be a ‘safe place’ for kids&nbsp;](https://www.solid-ground.org/volunteering-to-be-a-safe-place-for-kids/) appeared first on [Solid Ground](https://www.solid-ground.org)."
 summarized: true
 topics:
 - Community & Social Services
 - Domestic Violence
 - Shelter & Housing
+images:
+- 64374e8dce453dac2a578a1b829ca51769d80cfaeafc532ff5eb4a38ccbc0005
+- 010be920b741461bc3937e0eccb3c8de39abeb56111d94c903d130fcec5a919e
 ---
 
 Nikita Sharma volunteers at Broadview Shelter and Transitional Housing, where she supports children and parents escaping domestic violence and homelessness. Her favorite part of volunteering is when children feel safe enough to express themselves freely, even if it means getting rowdy. Over 1,100 volunteers contributed nearly 23,000 hours to various projects, including tutoring and gardening, to help the community. Nikita, who started volunteering after relocating to Seattle for work, found meaning and stability during a challenging period in her life. She engages in diverse activities like distributing lunches, tutoring, and leading fun games to foster healthy relationships and social-emotional skills among children. Her efforts are appreciated by both the children, who enjoy her presence, and her colleagues, who recognize her ability to connect and adapt to various needs. Nikita values the relationships she has built, especially with the children who initially struggle to engage. She finds it rewarding to be a safe space for them, cherishing the trust they place in her when they share their stories. Despite returning to work, she continues to volunteer, emphasizing the importance of the community and the connections she has made at Broadview.

@@ -23,33 +23,16 @@ original_content: |-
   <p>&nbsp;</p>
   <p aria-hidden="true">
   <p>The post <a href="https://positiveplace.org/spring-soiree/">Spring Soiree!</a> appeared first on <a href="https://positiveplace.org">Boys &amp; Girls Clubs</a>.</p>
-original_markdown_body: "# ![](https://positiveplace.org/wp-content/uploads/2025/04/Spring-Soiree_2025-300x150.jpg)\n\n#
-  **Join us on Friday, May 16th, for the Spring Soiree, an evening of delicious food,
-  games, and good cheer!**\n\n&nbsp;\n\n#### The event supports Club youth in Kirkland,
-  Redmond, and Sammamish. You’ll learn what makes our Eastside Boys & Girls Clubs,
-  and our Club community, so special.\n\n#### \n\n#### Funds raised will support scholarships
-  for Eastside youth to attend the Club. Scholarships provide access to after-school
-  programs, athletics, and day camps, enabling kids to explore new interests and make
-  friends in a safe, fun, and supportive environment with trusted adult mentors.\n\n####
-  \n\n# [![Right arrow](https://statics.teams.cdn.office.net/evergreen-assets/personal-expressions/v2/assets/emoticons/27a1_blackrightwardsarrow/default/20_f.png?v=v9)
-  ![Right arrow](https://statics.teams.cdn.office.net/evergreen-assets/personal-expressions/v2/assets/emoticons/27a1_blackrightwardsarrow/default/20_f.png?v=v9)
-  ![Right arrow](https://statics.teams.cdn.office.net/evergreen-assets/personal-expressions/v2/assets/emoticons/27a1_blackrightwardsarrow/default/20_f.png?v=v9)
-  ![Right arrow](https://statics.teams.cdn.office.net/evergreen-assets/personal-expressions/v2/assets/emoticons/27a1_blackrightwardsarrow/default/20_f.png?v=v9)CLICK
-  HERE TO GET YOUR TICKETS! ![Left arrow](https://statics.teams.cdn.office.net/evergreen-assets/personal-expressions/v2/assets/emoticons/2b05_leftwardsblackarrow/default/20_f.png?v=v10)
-  ![Left arrow](https://statics.teams.cdn.office.net/evergreen-assets/personal-expressions/v2/assets/emoticons/2b05_leftwardsblackarrow/default/20_f.png?v=v10)
-  ![Left arrow](https://statics.teams.cdn.office.net/evergreen-assets/personal-expressions/v2/assets/emoticons/2b05_leftwardsblackarrow/default/20_f.png?v=v10)
-  ![Left arrow](https://statics.teams.cdn.office.net/evergreen-assets/personal-expressions/v2/assets/emoticons/2b05_leftwardsblackarrow/default/20_f.png?v=v10)](https://positiveplace.ejoinme.org/springsoiree2025)\n\n####
-  \n\n## Event Details\n\n##### When: Friday, May 16, 2025\n\n##### Where:&nbsp;[Woodmark
-  Hotel](https://www.thewoodmark.com/ \"https://www.thewoodmark.com/\")&nbsp;| 1200
-  Carilion Point, Kirkland\n\n##### Schedule of Activities:\n\n##### • 6pm – Registration
-  & Social Hour\n\n##### • 7pm – Dinner & Program\n\n##### • 9pm – Event ends\n\n&nbsp;\n\nThe
-  post [Spring Soiree!](https://positiveplace.org/spring-soiree/) appeared first on
-  [Boys & Girls Clubs](https://positiveplace.org)."
+original_markdown_body: "# ![](https://positiveplace.org/wp-content/uploads/2025/04/Spring-Soiree_2025-300x150.jpg)\n\n# **Join us on Friday, May 16th, for the Spring Soiree, an evening of delicious food, games, and good cheer!**\n\n&nbsp;\n\n#### The event supports Club youth in Kirkland, Redmond, and Sammamish. You’ll learn what makes our Eastside Boys & Girls Clubs, and our Club community, so special.\n\n#### \n\n#### Funds raised will support scholarships for Eastside youth to attend the Club. Scholarships provide access to after-school programs, athletics, and day camps, enabling kids to explore new interests and make friends in a safe, fun, and supportive environment with trusted adult mentors.\n\n#### \n\n# [![Right arrow](https://statics.teams.cdn.office.net/evergreen-assets/personal-expressions/v2/assets/emoticons/27a1_blackrightwardsarrow/default/20_f.png?v=v9) ![Right arrow](https://statics.teams.cdn.office.net/evergreen-assets/personal-expressions/v2/assets/emoticons/27a1_blackrightwardsarrow/default/20_f.png?v=v9) ![Right arrow](https://statics.teams.cdn.office.net/evergreen-assets/personal-expressions/v2/assets/emoticons/27a1_blackrightwardsarrow/default/20_f.png?v=v9) ![Right arrow](https://statics.teams.cdn.office.net/evergreen-assets/personal-expressions/v2/assets/emoticons/27a1_blackrightwardsarrow/default/20_f.png?v=v9)CLICK HERE TO GET YOUR TICKETS! ![Left arrow](https://statics.teams.cdn.office.net/evergreen-assets/personal-expressions/v2/assets/emoticons/2b05_leftwardsblackarrow/default/20_f.png?v=v10) ![Left arrow](https://statics.teams.cdn.office.net/evergreen-assets/personal-expressions/v2/assets/emoticons/2b05_leftwardsblackarrow/default/20_f.png?v=v10) ![Left arrow](https://statics.teams.cdn.office.net/evergreen-assets/personal-expressions/v2/assets/emoticons/2b05_leftwardsblackarrow/default/20_f.png?v=v10) ![Left arrow](https://statics.teams.cdn.office.net/evergreen-assets/personal-expressions/v2/assets/emoticons/2b05_leftwardsblackarrow/default/20_f.png?v=v10)](https://positiveplace.ejoinme.org/springsoiree2025)\n\n#### \n\n## Event Details\n\n##### When: Friday, May 16, 2025\n\n##### Where:&nbsp;[Woodmark Hotel](https://www.thewoodmark.com/ \"https://www.thewoodmark.com/\")&nbsp;| 1200 Carilion Point, Kirkland\n\n##### Schedule of Activities:\n\n##### • 6pm – Registration & Social Hour\n\n##### • 7pm – Dinner & Program\n\n##### • 9pm – Event ends\n\n&nbsp;\n\nThe post [Spring Soiree!](https://positiveplace.org/spring-soiree/) appeared first on [Boys & Girls Clubs](https://positiveplace.org)."
 summarized: true
 topics:
 - Community & Social Services
 - Education & Learning
 - Employment & Job Support
+images:
+- d12335cd7e8eb73bc5f0b83c07317e638377873afa5332e379f81b2f4b10e1b5
+- dca2160f8e9fd48c497036c708ba1ea48a22c879510ae4a16ef2a0dd13f42394
+- e81c97a29a17d5d92a046b898371e6b286cc0b9a3f2d0b13e05684514d7a7467
 ---
 
 Join the Spring Soiree on Friday, May 16, 2025, at the Woodmark Hotel in Kirkland for an evening filled with delicious food, games, and camaraderie, all supporting the youth of Kirkland, Redmond, and Sammamish. This event highlights the unique aspects of the Eastside Boys & Girls Clubs and aims to raise funds for scholarships that enable local youth to participate in after-school programs, athletics, and day camps. These scholarships help kids explore new interests and foster friendships in a safe and supportive environment with trusted adult mentors. The schedule for the evening includes registration and social hour at 6 PM, followed by dinner and a program at 7 PM, concluding at 9 PM. This is a wonderful opportunity to contribute to the community and learn more about the impactful programs offered by the Boys & Girls Clubs of King County.

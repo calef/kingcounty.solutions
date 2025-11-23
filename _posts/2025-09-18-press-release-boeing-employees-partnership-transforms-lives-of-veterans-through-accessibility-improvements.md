@@ -1,6 +1,5 @@
 ---
-title: 'Press Release: Boeing Employees’ Partnership Transforms Lives of Veterans
-  Through Accessibility Improvements'
+title: 'Press Release: Boeing Employees’ Partnership Transforms Lives of Veterans Through Accessibility Improvements'
 date: '2025-09-18T01:05:09+00:00'
 source: Compass Housing Alliance
 source_url: https://www.compasshousingalliance.org/2025/09/press-release-boeing-employees-partnership-transforms-lives-of-veterans-through-accessibility-improvements/
@@ -95,6 +94,9 @@ summarized: true
 topics:
 - Disabilities
 - Community & Social Services
+images:
+- 28aa5963501290e088445406097b94c5af65c2100fb0e05bc6937e4a4c6fc829
+- 7ea10f2416634f1ab080ce50419c6ca07189fdee0eb83a659ee3ae4f37d761cd
 ---
 
 Compass Housing Alliance’s Shoreline Veterans Center (SVC) enhances the lives of Veterans through a partnership with the Employees Community Fund of Boeing (ECF), which has invested over $275,000 since 2008. This collaboration has facilitated vital accessibility improvements, including upgrades to garden pathways, door access, kitchen flooring, and the installation of a wheelchair lift in the community van. Program manager Shree Vigil highlights the ECF's understanding of Veterans' needs and their responsiveness to requests.

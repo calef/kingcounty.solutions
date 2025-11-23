@@ -50,6 +50,9 @@ summarized: true
 topics:
 - Education & Learning
 - Community & Social Services
+images:
+- fb3319aad1d4326b463444c05f970cf48612818994504a124bb547015cd4aa65
+- 293404bd783127736986ddb7aa7fb7134a1e3dea516098659ff534d73bf3f32c
 ---
 
 In honor of National Foster Care Month, Treehouse highlights the story of Mateo, a senior who has committed to pursuing a degree in music education at a Washington university. Initially uncertain about his future during his junior year, Mateo found common ground with a Graduation Success Education Specialist, who shared his passion for music. This connection helped shift Mateo's focus towards collegiate music programs. With support from Just-in-Time Funding, he enrolled in Running Start at a local community college and participated in his first drum corps summer tour. By his senior year, Mateo's motivation grew, and he began to consider educating others in music. Recently, he earned a spot in the university’s wind ensemble after a successful audition and is preparing for another drum corps tour. The specialist reflects on the joy of witnessing Mateo's growth and the importance of the support network that helped him thrive.

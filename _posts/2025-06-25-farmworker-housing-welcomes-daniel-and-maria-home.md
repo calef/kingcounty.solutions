@@ -135,6 +135,9 @@ summarized: true
 topics:
 - Shelter & Housing
 - Community & Social Services
+images:
+- 0fba3a460c400f547769c87db884625a65a6440876aa122d1434d83649ede1db
+- c9c9b012407dc893c24808605db8d2fa67cd2def666672b14f86ac0cd5b48516
 ---
 
 Maria and Daniel, a farmworker family newly relocated to Washington state, faced challenges finding safe and affordable housing for their infant son. After hearing about Catholic Housing Services (CHS) and their dedicated housing for farmworkers, they applied and moved into their new apartment in September 2023. This transition marked a significant improvement in their quality of life, allowing them to thrive as a family. CHS provides permanent housing to agricultural workers across Western Washington, supporting essential workers who often earn low wages. With 13 properties offering 520 units, CHS enables families like Maria and Daniel's to establish roots in a supportive community. The couple recently celebrated the birth of their second child and their first Christmas in their new home, signifying the stability and joy that comes with permanent housing. Daniel expressed his hopes for their children to grow and play in the community, highlighting the importance of this safe environment for their family’s future. The CHS apartment has become more than just a roof over their heads; it is a nurturing space where they can envision a lasting home for their children.

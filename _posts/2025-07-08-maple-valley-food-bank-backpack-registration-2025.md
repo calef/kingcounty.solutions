@@ -213,6 +213,9 @@ summarized: true
 topics:
 - Food & Nutrition
 - Community & Social Services
+images:
+- da7c609bcffa0f1157fdc3b572883fe244674ebe51ca65cd6e8ab7c478226190
+- 71bb3b6bd9365a5147f83afc6aad31a6f71fd9026df051be6805654ae66f4346
 ---
 
 Maple Valley Food Bank is preparing for its 2025 Backpack Program, which assists families with school supplies before the academic year begins. Registration runs from July 8 to July 30, 2025, during market hours: Tuesdays from 10:30 AM to 6 PM and Wednesdays from 10:30 AM to 1 PM. To be eligible, participants must be active clients of the food bank, residing in Maple Valley, Selleck, or within the Tahoma School District, and have school-aged children (K-12) living in their household. Documentation is required for children enrolled in the Tahoma School District, and proof of address and ID for all children must be provided. 

@@ -10,6 +10,8 @@ topics:
 - Food & Nutrition
 - Shelter & Housing
 - Community & Social Services
+images:
+- 66a25ea8e887846fecc260ce8e5bb104f5694748e6292a4fb37a8b3b3c5bb0cf
 ---
 
 Praisealujah offers essential services such as food, housing, and recovery programs for those in need. Their initiatives include a monthly "Church Beyond the 4 Walls" free drivethru food giveaway held on the first Sunday of every month at Les Schwab Tire Center in Burien, WA, from 11 AM to 1 PM. Additionally, they host Sunday services at New Beginnings Christian Fellowship Church, including a Praise & Worship session at 11 AM and an "Hour of Power" at 6 PM. 

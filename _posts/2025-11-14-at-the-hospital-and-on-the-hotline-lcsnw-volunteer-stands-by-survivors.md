@@ -3,104 +3,7 @@ title: At the hospital and on the hotline, LCSNW volunteer stands by survivors
 date: '2025-11-14T00:20:20+00:00'
 source: Lutheran Community Services Northwest
 source_url: https://lcsnw.org/2025/11/lcsnw-volunteer-stands-by-survivors/
-original_content: "<p><div class=\"et_pb_section et_pb_section_0 blog-post-type et_section_regular\"
-  >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_row
-  et_pb_row_0\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4 et_pb_column_0
-  \ et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div
-  class=\"et_pb_module et_pb_post_title et_pb_post_title_0 et_pb_bg_layout_light  et_pb_text_align_left\"
-  \  >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_title_container\">\n\t\t\t\t\t<h1
-  class=\"entry-title\">At the hospital and on the hotline, LCSNW volunteer stands
-  by survivors</h1>\n\t\t\t\t</div>\n\t\t\t\t\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div><div
-  class=\"et_pb_row et_pb_row_1 custom_row\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_2_3
-  et_pb_column_1 second-on-mobile  et_pb_css_mix_blend_mode_passthrough\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div
-  class=\"et_pb_with_border et_pb_module et_pb_text et_pb_text_0  et_pb_text_align_left
-  et_pb_bg_layout_light\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_text_inner\"><div
-  class=\"fui-FluentProvider fui-FluentProvider338 ___13yoiqc f19n0e5 f3e3pzq f1o700av
-  fk6fouc fkhj508 figsok6 f1g96gwp\" dir=\"ltr\">\n<div class=\"b_c_cb6f7c2e b_c_cb6f7c2e
-  root-159 CanvasZone row CanvasZone--alignment CanvasZone--noMargin CanvasZone--read\"
-  data-automation-id=\"CanvasZone\" data-theme-emphasis=\"0\">\n<div class=\"CanvasZoneSectionContainer
-  k_c_cb6f7c2e i_c_cb6f7c2e j_c_cb6f7c2e q_c_cb6f7c2e\" data-automation-id=\"CanvasZone-SectionContainer\">\n<div
-  class=\"b_e_cb6f7c2e v_e_cb6f7c2e CanvasSection CanvasSection-col CanvasSection-sm12
-  CanvasSection--read CanvasSection-xl8\" data-automation-id=\"CanvasSection\">\n<div>\n<div
-  id=\"6f9230af-2a98-4952-b205-9ede4f9ef548\" class=\"ControlZone ControlZone--clean
-  b_b_cb6f7c2e\" data-automation-id=\"CanvasControl\">\n<div class=\"ControlZone--control\">\n<div
-  class=\"rte-webpart rte--ck5 rte--read-ck5 rte--paragraphSpacing LightMode rte--headingSpacing
-  rte--indentation rte--list-rtl css-162\" dir=\"auto\" data-sp-feature-tag=\"Rich
-  Text Editor\" data-sp-feature-instance-id=\"6f9230af-2a98-4952-b205-9ede4f9ef548\">\n<div
-  class=\"ck-content rteEmphasis root-160 css-161 fixFocusIndicator\" data-automation-id=\"textBox\">\n<p><span
-  class=\"fontSizeXLarge\"><i><span dir=\"ltr\" lang=\"EN-US\">This is one in a series
-  of volunteer spotlight stories by Volunteer Manager Alex Power.</span></i></span></p>\n<p><span
-  class=\"fontSizeXLarge\"><span dir=\"ltr\" lang=\"EN-US\">As a Crisis Response Advocate
-  (CRA) volunteer in Spokane, <strong>Wendy Bachman</strong> believes in the power
-  of showing up for others during their most vulnerable moments.  Wendy, and all the
-  CRA volunteers, support individuals experiencing trauma, crisis, or violence by
-  sharing compassion and courage through every call they answer.</span> </span></p>\n<p><span
-  class=\"fontSizeXLarge\"><span dir=\"ltr\" lang=\"EN-US\">“Every time I help someone,
-  I’m reminded that kindness and connection can be life-changing, for them and for
-  me,” Wendy said.</span> </span></p>\n<p class=\"lineHeight1_2 noSpacingAbove noSpacingBelow\"
-  data-text-type=\"noSpacing\"><span class=\"fontSizeXLarge\"><span dir=\"ltr\" lang=\"EN-US\">As
-  part of LCSNW&#8217;s Community Sexual Assault Program, CRA volunteers provide one-of-a-kind
-  support. They answer the 24/7 sexual assault support line after hours and provide
-  relief for staff during business hours by answering calls.</span></span></p>\n<p
-  class=\"lineHeight1_2 noSpacingAbove noSpacingBelow\" data-text-type=\"noSpacing\"><span
-  class=\"fontSizeXLarge\"><span dir=\"ltr\" lang=\"EN-US\">Volunteers respond in
-  person to hospital calls when a survivor of sexual assault goes to the ER for medical
-  care or evidence collection. No matter the time of day, these volunteers are available. </span> </span></p>\n<p
-  class=\"lineHeight1_2 noSpacingAbove noSpacingBelow\" data-text-type=\"noSpacing\"><span
-  class=\"fontSizeXLarge\"><span dir=\"ltr\" lang=\"EN-US\">Wendy&#8217;s numbers
-  are impressive: 500 on-call hours, 40 hotline calls, and 15 hospital calls. </span></span></p>\n<p
-  class=\"lineHeight1_2 noSpacingAbove noSpacingBelow\" data-text-type=\"noSpacing\"><span
-  class=\"fontSizeXLarge\"><span dir=\"ltr\" lang=\"EN-US\">Whether managing calls
-  or supporting survivors through immediate crises, Wendy consistently demonstrates
-  empathy, strength, and a deep commitment to advocacy. Drawing from her nursing background
-  and personal experiences, Wendy offers support and empowerment to those impacted
-  by sexual assault. Her calm presence and thoughtful communication have made a meaningful
-  difference in the lives of many.</span></span></p>\n<p class=\"lineHeight1_2 noSpacingAbove
-  noSpacingBelow\" data-text-type=\"noSpacing\"><span class=\"fontSizeXLarge\"> </span><span
-  class=\"fontSizeXLarge\"><span dir=\"ltr\" lang=\"EN-US\">Wendy recently celebrated
-  5 years as a CRA volunteer and shared that she is continuously blown away by the
-  resilience and strength of the survivors she works with. Their power inspires her
-  to continue volunteering and be a steady presence for them. </span> </span></p>\n<p
-  class=\"lineHeight1_2 noSpacingAbove noSpacingBelow\" data-text-type=\"noSpacing\"><span
-  class=\"fontSizeXLarge\"><span dir=\"ltr\" lang=\"EN-US\">Volunteering has not only
-  strengthened Wendy’s sense of purpose, but it’s also improved her own well-being.
-  She strongly encourages others to take the leap and reach out about volunteering.</span></span></p>\n<p
-  class=\"lineHeight1_2 noSpacingAbove noSpacingBelow\" data-text-type=\"noSpacing\"><span
-  class=\"fontSizeXLarge\"><span dir=\"ltr\" lang=\"EN-US\">“You might just find that
-  helping others helps you, too,&#8221; she said.</span></span></p>\n<p class=\"lineHeight1_2
-  noSpacingAbove noSpacingBelow\" data-text-type=\"noSpacing\"><span class=\"fontSizeXLarge\"><span
-  dir=\"ltr\" lang=\"EN-US\">Thank you, Wendy, for showing up when it matters most.
-  Your work embodies the heart of what it means to advocate for survivors and support
-  our communities in times of need.</span></span></p>\n<p><strong>Interested in volunteering
-  for LCSNW?</strong></p>\n<p>Please go to our volunteer webpage at <a id=\"OWA00fc20ad-62df-24a1-b95d-e92e9df22d94\"
-  class=\"x_x_x_x_x_OWAAutoLink\" title=\"Original URL: https://lcsnw.org/make-a-difference/volunteer/.
-  Click or tap if you trust this link.\" href=\"https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Flcsnw.org%2Fmake-a-difference%2Fvolunteer%2F&amp;data=05%7C02%7CMMisterek%40lcsnw.org%7C1b3585cf7dc841ba134908ddd50df209%7Cebde5e19b4234db3a6aa702f10df1177%7C0%7C0%7C638900978155945735%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C4000%7C%7C%7C&amp;sdata=9Bs%2FuvcZdttbLD8MgABPrUr9fvPyY4fxin14JIvu49Q%3D&amp;reserved=0\"
-  data-auth=\"NotApplicable\" data-linkindex=\"6\">https://lcsnw.org/make-a-difference/volunteer/</a> or
-  email lcsnw-volunteers@lcsnw.org</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div></div>\n\t\t\t</div>\n\t\t\t</div><div
-  class=\"et_pb_column et_pb_column_1_3 et_pb_column_2 first-on-mobile  et_pb_css_mix_blend_mode_passthrough
-  et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_module
-  et_pb_image et_pb_image_0\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<span
-  class=\"et_pb_image_wrap \"><img fetchpriority=\"high\" decoding=\"async\" width=\"780\"
-  height=\"664\" src=\"https://lcsnw.org/wp-content/uploads/2025/11/WendyBachman3.jpg\"
-  alt=\"Teenagers and young adults stand in a group discussion\" title=\"WendyBachman3\"
-  srcset=\"https://lcsnw.org/wp-content/uploads/2025/11/WendyBachman3.jpg 780w, https://lcsnw.org/wp-content/uploads/2025/11/WendyBachman3-480x409.jpg
-  480w\" sizes=\"(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px)
-  780px, 100vw\" class=\"wp-image-49552\" /></span>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div><div
-  class=\"et_pb_row et_pb_row_2\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4
-  et_pb_column_3  et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div
-  class=\"et_pb_module et_pb_text et_pb_text_1  et_pb_text_align_left et_pb_bg_layout_light\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div><div
-  class=\"et_pb_row et_pb_row_3\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_1_3
-  et_pb_column_4  et_pb_css_mix_blend_mode_passthrough et_pb_column_empty\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div><div
-  class=\"et_pb_column et_pb_column_1_3 et_pb_column_5  et_pb_css_mix_blend_mode_passthrough
-  et_pb_column_empty\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div><div
-  class=\"et_pb_column et_pb_column_1_3 et_pb_column_6  et_pb_css_mix_blend_mode_passthrough
-  et-last-child et_pb_column_empty\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div><div
-  class=\"et_pb_section et_pb_section_1 et_section_regular\" >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div
-  class=\"et_pb_row et_pb_row_4\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4
-  et_pb_column_7  et_pb_css_mix_blend_mode_passthrough et-last-child et_pb_column_empty\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div></p>\n<p>The
-  post <a href=\"https://lcsnw.org/2025/11/lcsnw-volunteer-stands-by-survivors/\">At
-  the hospital and on the hotline, LCSNW volunteer stands by survivors</a> appeared
-  first on <a href=\"https://lcsnw.org\">LCSNW</a>.</p>"
+original_content: "<p><div class=\"et_pb_section et_pb_section_0 blog-post-type et_section_regular\" >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_row et_pb_row_0\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4 et_pb_column_0  et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_module et_pb_post_title et_pb_post_title_0 et_pb_bg_layout_light  et_pb_text_align_left\"   >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_title_container\">\n\t\t\t\t\t<h1 class=\"entry-title\">At the hospital and on the hotline, LCSNW volunteer stands by survivors</h1>\n\t\t\t\t</div>\n\t\t\t\t\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div><div class=\"et_pb_row et_pb_row_1 custom_row\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_2_3 et_pb_column_1 second-on-mobile  et_pb_css_mix_blend_mode_passthrough\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_with_border et_pb_module et_pb_text et_pb_text_0  et_pb_text_align_left et_pb_bg_layout_light\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_text_inner\"><div class=\"fui-FluentProvider fui-FluentProvider338 ___13yoiqc f19n0e5 f3e3pzq f1o700av fk6fouc fkhj508 figsok6 f1g96gwp\" dir=\"ltr\">\n<div class=\"b_c_cb6f7c2e b_c_cb6f7c2e root-159 CanvasZone row CanvasZone--alignment CanvasZone--noMargin CanvasZone--read\" data-automation-id=\"CanvasZone\" data-theme-emphasis=\"0\">\n<div class=\"CanvasZoneSectionContainer k_c_cb6f7c2e i_c_cb6f7c2e j_c_cb6f7c2e q_c_cb6f7c2e\" data-automation-id=\"CanvasZone-SectionContainer\">\n<div class=\"b_e_cb6f7c2e v_e_cb6f7c2e CanvasSection CanvasSection-col CanvasSection-sm12 CanvasSection--read CanvasSection-xl8\" data-automation-id=\"CanvasSection\">\n<div>\n<div id=\"6f9230af-2a98-4952-b205-9ede4f9ef548\" class=\"ControlZone ControlZone--clean b_b_cb6f7c2e\" data-automation-id=\"CanvasControl\">\n<div class=\"ControlZone--control\">\n<div class=\"rte-webpart rte--ck5 rte--read-ck5 rte--paragraphSpacing LightMode rte--headingSpacing rte--indentation rte--list-rtl css-162\" dir=\"auto\" data-sp-feature-tag=\"Rich Text Editor\" data-sp-feature-instance-id=\"6f9230af-2a98-4952-b205-9ede4f9ef548\">\n<div class=\"ck-content rteEmphasis root-160 css-161 fixFocusIndicator\" data-automation-id=\"textBox\">\n<p><span class=\"fontSizeXLarge\"><i><span dir=\"ltr\" lang=\"EN-US\">This is one in a series of volunteer spotlight stories by Volunteer Manager Alex Power.</span></i></span></p>\n<p><span class=\"fontSizeXLarge\"><span dir=\"ltr\" lang=\"EN-US\">As a Crisis Response Advocate (CRA) volunteer in Spokane, <strong>Wendy Bachman</strong> believes in the power of showing up for others during their most vulnerable moments.  Wendy, and all the CRA volunteers, support individuals experiencing trauma, crisis, or violence by sharing compassion and courage through every call they answer.</span> </span></p>\n<p><span class=\"fontSizeXLarge\"><span dir=\"ltr\" lang=\"EN-US\">“Every time I help someone, I’m reminded that kindness and connection can be life-changing, for them and for me,” Wendy said.</span> </span></p>\n<p class=\"lineHeight1_2 noSpacingAbove noSpacingBelow\" data-text-type=\"noSpacing\"><span class=\"fontSizeXLarge\"><span dir=\"ltr\" lang=\"EN-US\">As part of LCSNW&#8217;s Community Sexual Assault Program, CRA volunteers provide one-of-a-kind support. They answer the 24/7 sexual assault support line after hours and provide relief for staff during business hours by answering calls.</span></span></p>\n<p class=\"lineHeight1_2 noSpacingAbove noSpacingBelow\" data-text-type=\"noSpacing\"><span class=\"fontSizeXLarge\"><span dir=\"ltr\" lang=\"EN-US\">Volunteers respond in person to hospital calls when a survivor of sexual assault goes to the ER for medical care or evidence collection. No matter the time of day, these volunteers are available. </span> </span></p>\n<p class=\"lineHeight1_2 noSpacingAbove noSpacingBelow\" data-text-type=\"noSpacing\"><span class=\"fontSizeXLarge\"><span dir=\"ltr\" lang=\"EN-US\">Wendy&#8217;s numbers are impressive: 500 on-call hours, 40 hotline calls, and 15 hospital calls. </span></span></p>\n<p class=\"lineHeight1_2 noSpacingAbove noSpacingBelow\" data-text-type=\"noSpacing\"><span class=\"fontSizeXLarge\"><span dir=\"ltr\" lang=\"EN-US\">Whether managing calls or supporting survivors through immediate crises, Wendy consistently demonstrates empathy, strength, and a deep commitment to advocacy. Drawing from her nursing background and personal experiences, Wendy offers support and empowerment to those impacted by sexual assault. Her calm presence and thoughtful communication have made a meaningful difference in the lives of many.</span></span></p>\n<p class=\"lineHeight1_2 noSpacingAbove noSpacingBelow\" data-text-type=\"noSpacing\"><span class=\"fontSizeXLarge\"> </span><span class=\"fontSizeXLarge\"><span dir=\"ltr\" lang=\"EN-US\">Wendy recently celebrated 5 years as a CRA volunteer and shared that she is continuously blown away by the resilience and strength of the survivors she works with. Their power inspires her to continue volunteering and be a steady presence for them. </span> </span></p>\n<p class=\"lineHeight1_2 noSpacingAbove noSpacingBelow\" data-text-type=\"noSpacing\"><span class=\"fontSizeXLarge\"><span dir=\"ltr\" lang=\"EN-US\">Volunteering has not only strengthened Wendy’s sense of purpose, but it’s also improved her own well-being. She strongly encourages others to take the leap and reach out about volunteering.</span></span></p>\n<p class=\"lineHeight1_2 noSpacingAbove noSpacingBelow\" data-text-type=\"noSpacing\"><span class=\"fontSizeXLarge\"><span dir=\"ltr\" lang=\"EN-US\">“You might just find that helping others helps you, too,&#8221; she said.</span></span></p>\n<p class=\"lineHeight1_2 noSpacingAbove noSpacingBelow\" data-text-type=\"noSpacing\"><span class=\"fontSizeXLarge\"><span dir=\"ltr\" lang=\"EN-US\">Thank you, Wendy, for showing up when it matters most. Your work embodies the heart of what it means to advocate for survivors and support our communities in times of need.</span></span></p>\n<p><strong>Interested in volunteering for LCSNW?</strong></p>\n<p>Please go to our volunteer webpage at <a id=\"OWA00fc20ad-62df-24a1-b95d-e92e9df22d94\" class=\"x_x_x_x_x_OWAAutoLink\" title=\"Original URL: https://lcsnw.org/make-a-difference/volunteer/. Click or tap if you trust this link.\" href=\"https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Flcsnw.org%2Fmake-a-difference%2Fvolunteer%2F&amp;data=05%7C02%7CMMisterek%40lcsnw.org%7C1b3585cf7dc841ba134908ddd50df209%7Cebde5e19b4234db3a6aa702f10df1177%7C0%7C0%7C638900978155945735%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C4000%7C%7C%7C&amp;sdata=9Bs%2FuvcZdttbLD8MgABPrUr9fvPyY4fxin14JIvu49Q%3D&amp;reserved=0\" data-auth=\"NotApplicable\" data-linkindex=\"6\">https://lcsnw.org/make-a-difference/volunteer/</a> or email lcsnw-volunteers@lcsnw.org</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div></div>\n\t\t\t</div>\n\t\t\t</div><div class=\"et_pb_column et_pb_column_1_3 et_pb_column_2 first-on-mobile  et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_module et_pb_image et_pb_image_0\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<span class=\"et_pb_image_wrap \"><img fetchpriority=\"high\" decoding=\"async\" width=\"780\" height=\"664\" src=\"https://lcsnw.org/wp-content/uploads/2025/11/WendyBachman3.jpg\" alt=\"Teenagers and young adults stand in a group discussion\" title=\"WendyBachman3\" srcset=\"https://lcsnw.org/wp-content/uploads/2025/11/WendyBachman3.jpg 780w, https://lcsnw.org/wp-content/uploads/2025/11/WendyBachman3-480x409.jpg 480w\" sizes=\"(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) 780px, 100vw\" class=\"wp-image-49552\" /></span>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div><div class=\"et_pb_row et_pb_row_2\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4 et_pb_column_3  et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_module et_pb_text et_pb_text_1  et_pb_text_align_left et_pb_bg_layout_light\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div><div class=\"et_pb_row et_pb_row_3\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_1_3 et_pb_column_4  et_pb_css_mix_blend_mode_passthrough et_pb_column_empty\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div><div class=\"et_pb_column et_pb_column_1_3 et_pb_column_5  et_pb_css_mix_blend_mode_passthrough et_pb_column_empty\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div><div class=\"et_pb_column et_pb_column_1_3 et_pb_column_6  et_pb_css_mix_blend_mode_passthrough et-last-child et_pb_column_empty\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div><div class=\"et_pb_section et_pb_section_1 et_section_regular\" >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_row et_pb_row_4\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4 et_pb_column_7  et_pb_css_mix_blend_mode_passthrough et-last-child et_pb_column_empty\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div></p>\n<p>The post <a href=\"https://lcsnw.org/2025/11/lcsnw-volunteer-stands-by-survivors/\">At the hospital and on the hotline, LCSNW volunteer stands by survivors</a> appeared first on <a href=\"https://lcsnw.org\">LCSNW</a>.</p>"
 original_markdown_body: |-
   # At the hospital and on the hotline, LCSNW volunteer stands by survivors
 
@@ -138,6 +41,8 @@ topics:
 - Community & Social Services
 - Domestic Violence
 - Mental Health & Counseling
+images:
+- 2721b6d734f7def27320be02e7965a8a5b0b6b608a5253a47b72f301e3e75fc1
 ---
 
 Wendy Bachman, a Crisis Response Advocate (CRA) volunteer with LCSNW in Spokane, exemplifies the power of compassion during vulnerable moments for survivors of sexual assault. As part of the Community Sexual Assault Program, Wendy and her fellow volunteers provide critical support by answering a 24/7 hotline and responding to hospital calls when survivors seek medical care. Over her five years of volunteering, Wendy has logged impressive numbers: 500 on-call hours, 40 hotline calls, and 15 hospital visits. Her nursing background and personal experiences enable her to offer empathy and empowerment to those affected by trauma. Wendy is inspired by the resilience of the survivors and finds that her volunteer work not only fulfills her sense of purpose but also enhances her well-being. She encourages others to consider volunteering, emphasizing that helping others can be beneficial for oneself as well. Wendy's commitment to advocacy and support has made a significant impact on the lives of many survivors, showcasing the heart of community service and the importance of standing by those in need.

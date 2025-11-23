@@ -1,6 +1,5 @@
 ---
-title: Where Do I Start? Free Session Offers Resources for How to Take Charge of Your
-  Health through Small Lifestyle Changes
+title: Where Do I Start? Free Session Offers Resources for How to Take Charge of Your Health through Small Lifestyle Changes
 date: '2025-05-23T19:12:55+00:00'
 source: Hospital District No. 1 (Valley Medical Center)
 source_url: https://blog.valleymed.org/2025/05/23/where-do-i-start-free-session-offers-resources-for-how-to-take-charge-of-your-health-through-small-lifestyle-changes/?utm_source=rss&utm_medium=rss&utm_campaign=where-do-i-start-free-session-offers-resources-for-how-to-take-charge-of-your-health-through-small-lifestyle-changes
@@ -53,29 +52,14 @@ original_content: |-
 
 
   <p></p>
-original_markdown_body: "![](https://blog.valleymed.org/wp-content/uploads/2025/05/LifestyleMed-WhereDoIStart-300x188.jpg)\n\nOnly
-  3% of Americans follow all four key habits for a healthy life: physical activity,
-  diet, avoiding tobacco, and body weight.   \n_(Mayo Clinic Proceedings, 2016)_\n\nThat
-  means nearly 97% of us are missing the mark—not because we don’t care, but because
-  life is busy, health is complex, and change is hard.\n\nThat’s why our **[Lifestyle
-  Medicine](http://valleymed.org/lifestylemed)** team created **[HealthyCare](http://valleymed.org/healthycare)**,
-  a free 60-minute community session designed to explore what’s really holding us
-  back from living healthier lives.\n\n**What to Expect:**\n\n- Three short, powerful
-  videos that shed light on the invisible challenges many of us face—things like stress,
-  culture, and time constraints.\n- A guided conversation with fellow community members
-  to reflect on what we saw and how it applies to our lives.\n- A friendly introduction
-  to the services available through Valley’s **[Lifestyle Medicine](http://valleymed.org/lifestylemed)**
-  clinics, like **[Lifestyle365](http://valleymed.org/lifestyle365)**, physical therapy,
-  and nutrition counseling.\n\nThis isn’t a sales pitch—it’s a real conversation about
-  health, guided by data, and grounded in empathy.\n\nIf you’ve ever felt like you’re
-  trying your best but not seeing the results you want—HealthyCare is for you.\n\nJoin
-  us. Let’s shift the conversation from blame to understanding—and from confusion
-  to action.\n\n[**Click here to reserve your spot.**](http://valleymed.org/healthycare)"
+original_markdown_body: "![](https://blog.valleymed.org/wp-content/uploads/2025/05/LifestyleMed-WhereDoIStart-300x188.jpg)\n\nOnly 3% of Americans follow all four key habits for a healthy life: physical activity, diet, avoiding tobacco, and body weight.   \n_(Mayo Clinic Proceedings, 2016)_\n\nThat means nearly 97% of us are missing the mark—not because we don’t care, but because life is busy, health is complex, and change is hard.\n\nThat’s why our **[Lifestyle Medicine](http://valleymed.org/lifestylemed)** team created **[HealthyCare](http://valleymed.org/healthycare)**, a free 60-minute community session designed to explore what’s really holding us back from living healthier lives.\n\n**What to Expect:**\n\n- Three short, powerful videos that shed light on the invisible challenges many of us face—things like stress, culture, and time constraints.\n- A guided conversation with fellow community members to reflect on what we saw and how it applies to our lives.\n- A friendly introduction to the services available through Valley’s **[Lifestyle Medicine](http://valleymed.org/lifestylemed)** clinics, like **[Lifestyle365](http://valleymed.org/lifestyle365)**, physical therapy, and nutrition counseling.\n\nThis isn’t a sales pitch—it’s a real conversation about health, guided by data, and grounded in empathy.\n\nIf you’ve ever felt like you’re trying your best but not seeing the results you want—HealthyCare is for you.\n\nJoin us. Let’s shift the conversation from blame to understanding—and from confusion to action.\n\n[**Click here to reserve your spot.**](http://valleymed.org/healthycare)"
 summarized: true
 topics:
 - Health Care
 - Mental Health & Counseling
 - Food & Nutrition
+images:
+- 78703962c468666f7e94bf509254a8e32e7efcd60bd68a8f062dc7d0132ae0b3
 ---
 
 Only 3% of Americans adhere to the four key habits for a healthy lifestyle: physical activity, diet, avoiding tobacco, and maintaining a healthy body weight. Recognizing that many people struggle with health due to busy lives and complex challenges, Valley's Lifestyle Medicine team has launched HealthyCare, a free 60-minute community session aimed at addressing these barriers. The session includes three impactful videos highlighting common obstacles like stress and time constraints, followed by a guided discussion among participants to reflect on these issues and their relevance to personal health. Additionally, attendees will be introduced to the services offered by Valley’s Lifestyle Medicine clinics, including Lifestyle365, physical therapy, and nutrition counseling. HealthyCare is positioned as an open dialogue about health, emphasizing understanding and actionable steps rather than a sales pitch. It invites those feeling frustrated with their health efforts to participate and fosters a shift from blame to empathy and from confusion to proactive change.

@@ -39,6 +39,8 @@ topics:
 - Community & Social Services
 - Food & Nutrition
 - Shelter & Housing
+images:
+- 5d576e2f7e535ddf58620baf46118bf37d85503a95a6a606bf028532561e85da
 ---
 
 For December, Lauren is featured as a volunteer spotlight. She discovered Hunger Intervention Program (HIP) through a family member and describes her first day as highly memorable, feeling welcomed and comfortable in the kitchen. With her background as a chef, she finds her role in the Shelter Meals program meaningful, knowing that her efforts help provide nutritious meals to at least 60 people. Although retired, Lauren's journey to volunteering was delayed by her previous demanding career and business ownership. She has always wanted to give back but found that direct involvement felt more impactful than monetary donations. She appreciates the support from Shelter Meals Leads Alyssa and Rachel, noting their kindness and the program's organization. Lauren aims to ease their workload during her volunteer shifts, acknowledging their hard work. Her contributions to the Shelter Meals program are invaluable, and the organization expresses deep gratitude for her efforts.

@@ -82,6 +82,8 @@ topics:
 - Mental Health & Counseling
 - Shelter & Housing
 - Education & Learning
+images:
+- 5657735786d51fa130e71b72eb32539a3fec390be7bdde286d61445e9aadd283
 ---
 
 Karen Lee, a vibrant individual known for her warmth and generosity, has been deeply committed to supporting youth and families through Youth Eastside Services (YES) for over a decade. Her journey began after attending the Invest in Youth Breakfast in 2012, where she was profoundly moved by the courageous stories of young people. This experience inspired her to become a Table Host, allowing her to engage more actively with the organization.

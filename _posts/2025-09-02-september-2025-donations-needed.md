@@ -41,24 +41,18 @@ original_content: |-
 
 
   <p></p>
-original_markdown_body: "When you enter Hospitality House, one of the first thing
-  you’ll see are bins of items generously donated by YOU! Items purchased from our
-  Amazon Donations Needed list are sent directly to Hospitality House, processed,
-  and stored where they are available for residents to “shop,” giving them the autonomy
-  and dignity they so deserve.\n\nResidents are encouraged to take what they need.
-  No one should have to worry about access to shampoo or deodorant while they search
-  for a job or a place to live. Your generosity is visible & so appreciated each &
-  every day! THANK YOU! ![\U0001F49A](https://static.xx.fbcdn.net/images/emoji.php/v9/t94/1/16/1f49a.png)\n\n[**CLICK
-  HERE to shop our needs!**](https://a.co/9eo400U)\n\n![](https://hospitalityhousesouthking.org/wp-content/uploads/2025/09/9.-September-2025-1024x791.png)\n\n![](https://hospitalityhousesouthking.org/wp-content/uploads/2025/09/IMG_8273-1024x768.jpg)\n\n![](https://hospitalityhousesouthking.org/wp-content/uploads/2025/09/thumbnail_IMG_8272-663x1024.jpg)\n\n![](https://hospitalityhousesouthking.org/wp-content/uploads/2025/09/thumbnail_IMG_8274-1-1024x768.jpg)\n\n<object
-  data-wp-bind--hidden=\"!state.hasPdfPreview\" hidden class=\"wp-block-file__embed\"
-  data=\"https://hospitalityhousesouthking.org/wp-content/uploads/2025/09/9.-September-2025.pdf\"
-  type=\"application/pdf\" style=\"width:100%;height:600px\" aria-label=\"Embed of
-  9. September 2025.\"></object>[9. September 2025](https://hospitalityhousesouthking.org/wp-content/uploads/2025/09/9.-September-2025.pdf)[Download](https://hospitalityhousesouthking.org/wp-content/uploads/2025/09/9.-September-2025.pdf)"
+original_markdown_body: "When you enter Hospitality House, one of the first thing you’ll see are bins of items generously donated by YOU! Items purchased from our Amazon Donations Needed list are sent directly to Hospitality House, processed, and stored where they are available for residents to “shop,” giving them the autonomy and dignity they so deserve.\n\nResidents are encouraged to take what they need. No one should have to worry about access to shampoo or deodorant while they search for a job or a place to live. Your generosity is visible & so appreciated each & every day! THANK YOU! ![\U0001F49A](https://static.xx.fbcdn.net/images/emoji.php/v9/t94/1/16/1f49a.png)\n\n[**CLICK HERE to shop our needs!**](https://a.co/9eo400U)\n\n![](https://hospitalityhousesouthking.org/wp-content/uploads/2025/09/9.-September-2025-1024x791.png)\n\n![](https://hospitalityhousesouthking.org/wp-content/uploads/2025/09/IMG_8273-1024x768.jpg)\n\n![](https://hospitalityhousesouthking.org/wp-content/uploads/2025/09/thumbnail_IMG_8272-663x1024.jpg)\n\n![](https://hospitalityhousesouthking.org/wp-content/uploads/2025/09/thumbnail_IMG_8274-1-1024x768.jpg)\n\n<object data-wp-bind--hidden=\"!state.hasPdfPreview\" hidden class=\"wp-block-file__embed\" data=\"https://hospitalityhousesouthking.org/wp-content/uploads/2025/09/9.-September-2025.pdf\" type=\"application/pdf\" style=\"width:100%;height:600px\" aria-label=\"Embed of 9. September 2025.\"></object>[9. September 2025](https://hospitalityhousesouthking.org/wp-content/uploads/2025/09/9.-September-2025.pdf)[Download](https://hospitalityhousesouthking.org/wp-content/uploads/2025/09/9.-September-2025.pdf)"
 summarized: true
 topics:
 - Community & Social Services
 - Personal & Household Needs
 - Shelter & Housing
+images:
+- 3d8395483637d1291bbf8dd463aef7f8374eb9d3d0ffa545e2a53db7657d1f61
+- 89e0361bced73728798e9cd33eb4c666692c577f5e315a7f60431915711274f2
+- 2d9cf5984c7fde8709185bcace3313632956742a40ce226691ad51099d8492f9
+- 96caf1853caa0ce3663388dace359668c643bcbd15a3b13ae3388140991d5800
+- 3152018d737c5b35605f10e7988828e7e88ad35fb3aa7423238da5fcfe6a122b
 ---
 
 Hospitality House welcomes donations that directly benefit its residents. When entering, visitors see bins filled with items donated by the community. These items, sourced from an Amazon Donations Needed list, are sent to Hospitality House, processed, and organized for residents to access. This setup allows residents to choose what they need, promoting their autonomy and dignity. The organization emphasizes that no one should struggle to obtain basic necessities like shampoo or deodorant while they are seeking employment or housing. The community's generosity plays a crucial role in supporting residents, and their contributions are greatly appreciated. Thank you for your support.

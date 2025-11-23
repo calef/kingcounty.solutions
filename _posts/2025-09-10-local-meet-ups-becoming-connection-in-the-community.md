@@ -20,41 +20,13 @@ original_content: |-
   <p style="font-weight: 400;"><strong><span data-ogsc="rgb(11, 118, 159)">Spokane – </span></strong><span data-ogsc="rgb(11, 118, 159)"><a href="https://newlovecoffee.com/" data-ogsc="" data-outlook-id="be6280ad-4ea9-4e1d-89c4-a24e272b8113">New Love Coffee + Bean &amp; Pie </a><strong>– </strong></span><span data-ogsc="rgb(11, 118, 159)"><a href="https://share.google/kLWHIKNRZhXIsWyng" data-ogsc="" data-outlook-id="4c3f92c1-dd2a-44f0-b8c8-5fff3cdf1831">(102 W Summit Pkwy Suite 102, Spokane, WA 99201)</a></span></p>
   <p style="font-weight: 400;"><strong><span data-ogsc="rgb(11, 118, 159)">Tacoma – </span></strong><span data-ogsc="rgb(11, 118, 159)"><a href="https://bluebeardcoffee.com/pages/visit" data-ogsc="" data-outlook-id="d26d4b6f-3116-4c8b-99f8-c14703bd6038">Bluebeard Coffee on 6th Avenue </a></span><span data-ogsc="rgb(11, 118, 159)"><strong>–</strong> <a href="https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fmaps.app.goo.gl%2fasJaqp316MFqy12M9&amp;c=E,1,PBDEtZ13o-JyqrxOO6tyzbWwyXD-gEQkH-CuBc6wzE2GbIovIrD4BAEWxQdAh3bUJRclBzyHbN86FfvfcdVSrRucsYnc7yQvZBJdqhtxpIA,&amp;typo=1" data-ogsc="" data-outlook-id="3d644ae7-65e9-4ea8-8a21-38c49ddfd503">(2201 6th Ave, Tacoma, WA 98403)</a></span></p>
   <p style="font-weight: 400;"><strong><span data-ogsc="rgb(11, 118, 159)">Vancouver – </span></strong><span data-ogsc="rgb(11, 118, 159)"><a href="https://www.wsd.wa.gov/" data-ogsc="" data-outlook-id="86c91044-558f-4e78-80f1-93ebe1cdb63a">Washington School for the Deaf </a><strong>– </strong></span><a href="https://www.google.com/maps/dir/44.0467456,-122.896384/3107+E+Evergreen+Blvd,+Vancouver,+WA+98661/@44.8299139,-124.1902169,8z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x5495af5789d36e59:0x47ec108882805375!2m2!1d-122.6379999!2d45.625979?entry=ttu&amp;g_ep=EgoyMDI1MDkwNy4wIKXMDSoASAFQAw%3D%3D"><span data-ogsc="rgb(11, 118, 159)">(3107 E Evergreen Blvd, Vancouver, WA 98661)</span></a></p>
-original_markdown_body: "![The image is a promotional flyer for \"Local Meet-Ups\"
-  aimed at connecting the local DHH and interpreting community. At the top, the text
-  \"BECOMING: CONNECTION IN THE COMMUNITY\" is in bold, with \"CONNECTION IN THE COMMUNITY\"
-  curved and in red. Below, the details of an event scheduled for Saturday, September
-  20th, from 9 to 10:30 AM are presented. It invites people who know sign language
-  to join. Underneath, a list of locations and their addresses are provided for cities
-  such as Bellevue, Ellensburg, Lacey, Lake Forest Park, Spokane, Tacoma, and Vancouver.
-  Each location is associated with a local coffee shop or library for the meet-ups.
-  On the bottom left, an illustration features a diverse group of people gesturing,
-  some with hands raised in what appears to be sign language. On the right side, a
-  simple map of Washington state with green shading marks the locations of the meet-ups
-  with blue dots. At the bottom, there is a QR code and a logo for the Educational
-  Interpreter Hub. The flyer’s color scheme includes whites, reds, and greens with
-  bold black text.](https://www.cdhy.wa.gov/wp-content/uploads/2025/09/Connection-in-the-Community-Flyer-791x1024.png)\n\n###
-  **Becoming:**  \nConnection in the Community\n\nSaturday, September 20, 2025 | 9am
-  to 10:30am\n\nCome and connect with your local DHH and interpreting community.\n\n**If
-  you know sign language, you’re invited!**\n\n(Please note: This is a “no-host” event
-  – Everyone is responsible for their own food and beverage.)\n\n**Meet-up Locations:**\n\n**Bellevue
-  –** [5 Stones Coffee **–**](https://5stonescoffeeco.com/) (2649 Landerholm Cir SE,
-  Bellevue, WA 98007)\n\n**Ellensburg –** [Starbucks](https://www.starbucks.com/menu)
-  near the university **–** [(908 E 10th Ave, Ellensburg, WA 98926)](https://maps.app.goo.gl/DjKBWBrKgyN6svwc9)\n\n**Lacey
-  –** &nbsp;[Fog and Fern](https://www.fogandferncoffeehouse.com/) **–** [(4219 6th
-  Ave SE, Suite A Lacey, Washington 98503)](https://maps.app.goo.gl/dUwnZDAWSvbSXinf7)\n\n**Lake
-  Forest Park –** [Third Place Books](https://www.thirdplacebooks.com/lake-forest-park)
-  **–** [(17171 Bothell Way NE, #A101 Lake Forest Park, WA 98155)](https://maps.app.goo.gl/yeDSmEQcy1tSKoqx9)\n\n**Spokane
-  –** [New Love Coffee + Bean & Pie](https://newlovecoffee.com/) **–** [(102 W Summit
-  Pkwy Suite 102, Spokane, WA 99201)](https://share.google/kLWHIKNRZhXIsWyng)\n\n**Tacoma
-  –** [Bluebeard Coffee on 6th Avenue](https://bluebeardcoffee.com/pages/visit) **–**
-  [(2201 6th Ave, Tacoma, WA 98403)](https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fmaps.app.goo.gl%2fasJaqp316MFqy12M9&c=E,1,PBDEtZ13o-JyqrxOO6tyzbWwyXD-gEQkH-CuBc6wzE2GbIovIrD4BAEWxQdAh3bUJRclBzyHbN86FfvfcdVSrRucsYnc7yQvZBJdqhtxpIA,&typo=1)\n\n**Vancouver
-  –** [Washington School for the Deaf](https://www.wsd.wa.gov/) **–** [(3107 E Evergreen
-  Blvd, Vancouver, WA 98661)](https://www.google.com/maps/dir/44.0467456,-122.896384/3107+E+Evergreen+Blvd,+Vancouver,+WA+98661/@44.8299139,-124.1902169,8z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x5495af5789d36e59:0x47ec108882805375!2m2!1d-122.6379999!2d45.625979?entry=ttu&g_ep=EgoyMDI1MDkwNy4wIKXMDSoASAFQAw%3D%3D)"
+original_markdown_body: "![The image is a promotional flyer for \"Local Meet-Ups\" aimed at connecting the local DHH and interpreting community. At the top, the text \"BECOMING: CONNECTION IN THE COMMUNITY\" is in bold, with \"CONNECTION IN THE COMMUNITY\" curved and in red. Below, the details of an event scheduled for Saturday, September 20th, from 9 to 10:30 AM are presented. It invites people who know sign language to join. Underneath, a list of locations and their addresses are provided for cities such as Bellevue, Ellensburg, Lacey, Lake Forest Park, Spokane, Tacoma, and Vancouver. Each location is associated with a local coffee shop or library for the meet-ups. On the bottom left, an illustration features a diverse group of people gesturing, some with hands raised in what appears to be sign language. On the right side, a simple map of Washington state with green shading marks the locations of the meet-ups with blue dots. At the bottom, there is a QR code and a logo for the Educational Interpreter Hub. The flyer’s color scheme includes whites, reds, and greens with bold black text.](https://www.cdhy.wa.gov/wp-content/uploads/2025/09/Connection-in-the-Community-Flyer-791x1024.png)\n\n### **Becoming:**  \nConnection in the Community\n\nSaturday, September 20, 2025 | 9am to 10:30am\n\nCome and connect with your local DHH and interpreting community.\n\n**If you know sign language, you’re invited!**\n\n(Please note: This is a “no-host” event – Everyone is responsible for their own food and beverage.)\n\n**Meet-up Locations:**\n\n**Bellevue –** [5 Stones Coffee **–**](https://5stonescoffeeco.com/) (2649 Landerholm Cir SE, Bellevue, WA 98007)\n\n**Ellensburg –** [Starbucks](https://www.starbucks.com/menu) near the university **–** [(908 E 10th Ave, Ellensburg, WA 98926)](https://maps.app.goo.gl/DjKBWBrKgyN6svwc9)\n\n**Lacey –** &nbsp;[Fog and Fern](https://www.fogandferncoffeehouse.com/) **–** [(4219 6th Ave SE, Suite A Lacey, Washington 98503)](https://maps.app.goo.gl/dUwnZDAWSvbSXinf7)\n\n**Lake Forest Park –** [Third Place Books](https://www.thirdplacebooks.com/lake-forest-park) **–** [(17171 Bothell Way NE, #A101 Lake Forest Park, WA 98155)](https://maps.app.goo.gl/yeDSmEQcy1tSKoqx9)\n\n**Spokane –** [New Love Coffee + Bean & Pie](https://newlovecoffee.com/) **–** [(102 W Summit Pkwy Suite 102, Spokane, WA 99201)](https://share.google/kLWHIKNRZhXIsWyng)\n\n**Tacoma –** [Bluebeard Coffee on 6th Avenue](https://bluebeardcoffee.com/pages/visit) **–** [(2201 6th Ave, Tacoma, WA 98403)](https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fmaps.app.goo.gl%2fasJaqp316MFqy12M9&c=E,1,PBDEtZ13o-JyqrxOO6tyzbWwyXD-gEQkH-CuBc6wzE2GbIovIrD4BAEWxQdAh3bUJRclBzyHbN86FfvfcdVSrRucsYnc7yQvZBJdqhtxpIA,&typo=1)\n\n**Vancouver –** [Washington School for the Deaf](https://www.wsd.wa.gov/) **–** [(3107 E Evergreen Blvd, Vancouver, WA 98661)](https://www.google.com/maps/dir/44.0467456,-122.896384/3107+E+Evergreen+Blvd,+Vancouver,+WA+98661/@44.8299139,-124.1902169,8z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x5495af5789d36e59:0x47ec108882805375!2m2!1d-122.6379999!2d45.625979?entry=ttu&g_ep=EgoyMDI1MDkwNy4wIKXMDSoASAFQAw%3D%3D)"
 summarized: true
 topics:
 - Disabilities
 - Community & Social Services
+images:
+- c999218b4043e02e548f69ba351e637e4077059e0fbea81b84df2b3cf250fbbf
 ---
 
 Join the local Deaf and Hard of Hearing (DHH) and interpreting community for a meet-up on September 20, 2025, from 9 AM to 10:30 AM. All sign language users are welcome to connect at various locations across Washington. This “no-host” event requires attendees to cover their own food and beverages. 

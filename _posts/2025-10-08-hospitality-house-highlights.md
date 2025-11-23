@@ -29,6 +29,10 @@ summarized: true
 topics:
 - Community & Social Services
 - Shelter & Housing
+images:
+- d261c68b85fb3632fd55a8426258dca9ac93dc23a874088f4ed879dcc81ead4e
+- e837cfb5ad4dacc66f656f5c8dbabbb0d482920370828e72d3856cad13b8c2e9
+- 6f6ec7382c7157c46c7300ffeab0014ce6f9d758783cfadb7545d5cc09f40b08
 ---
 
 Hospitality House is dedicated to providing temporary housing and support for families facing medical crises. The organization highlights its impact through various initiatives, emphasizing the importance of community involvement and donations. Recent events include outreach programs and fundraising efforts aimed at raising awareness and resources for families in need. The house fosters a supportive environment where families can stay close to their loved ones receiving treatment, alleviating some of the burdens during difficult times. Volunteer opportunities are available, allowing community members to contribute directly to the mission of Hospitality House. Through collaboration and compassion, the organization continues to make a significant difference in the lives of those it serves.

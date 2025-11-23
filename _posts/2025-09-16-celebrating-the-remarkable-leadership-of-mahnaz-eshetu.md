@@ -98,6 +98,13 @@ topics:
 - Employment & Job Support
 - Education & Learning
 - Shelter & Housing
+images:
+- b2f7878e787fbc4cf1d2266cf654385a0fd26be4d9417750413fd217ae880061
+- 96ef35e0eaafa2ae7739fe084088d92b7c02dd596e0645ed144db3e0c8c301de
+- dc3e899987a97df080b177287b9eb0f31541fda847a7fcf043b524b761a805c2
+- c8dbf814438c3b4222bfb4984f9a8858e4a17b73b2f796eaae955813a344ff06
+- 0f2df158feff8c9930ea85105c79535c4e66c3f3a3f1a2b5062493a57bc903e8
+- d2dc4ab1abf3ed38c22ebb4a323a5be6f0e79c567b9e52456ab7aa0abc072f56
 ---
 
 On September 3, 2025, the Refugee Women’s Alliance (ReWA) celebrated the remarkable leadership of Executive Director Mahnaz Eshetu as she prepared for retirement. Mahnaz joined ReWA over 18 years ago, initially serving seven years on the Board of Directors before becoming Executive Director. Throughout her 11 years in this role, she has been a passionate advocate for immigrant and refugee communities in Seattle and King County. Her leadership has been instrumental in expanding ReWA’s programs and enhancing services that empower hundreds of families annually. Under her guidance, ReWA has provided essential resources, including early learning, employment training, legal assistance, and housing support, solidifying its status as a trusted partner for those starting anew in the community. Shevanthi Daniel-Rabkin, Chair of ReWA’s Board of Directors, expressed deep gratitude for Mahnaz's vision and leadership. As she transitions into retirement, the organization wishes her happiness in this new chapter of her life, acknowledging her significant contributions to the community.

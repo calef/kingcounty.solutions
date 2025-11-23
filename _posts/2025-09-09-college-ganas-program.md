@@ -156,44 +156,14 @@ original_content: |-
   </div>
   </div>
   <p>The post <a href="https://www.elcentrodelaraza.org/college-ganas-program/">College GANAS Program</a> appeared first on <a href="https://www.elcentrodelaraza.org">El Centro de la Raza</a>.</p>
-original_markdown_body: "![](https://www.elcentrodelaraza.org/wp-content/uploads/2025/09/2e0358be-6833-4c04-b788-b04e6e760819.jpg)\n\n#
-  College Ganas Program\n\nEmpowering and fostering ganas in youth on their pursuit
-  of higher education.\n\n[Sign Up Now](https://forms.office.com/pages/responsepage.aspx?id=3WlTYBb4pUWsg3KRI3DSAg09nZilj29NqpSTaB-05ShUQjFIMjlWVzRCV0c5ODZBRks4OTg3Rk9KOC4u)\n\nEmpowering
-  and fostering ganas in youth on their pursuit of higher education. Our overall goal
-  is to increase access to higher education. Our program highlights the cultural aspect
-  of “GANAS” in the Latino community, which can be translated as the desire to advance,
-  to accomplish their dreams. Thus, through our program, our advisors will support
-  our scholars to turn their GANAS into reality.&nbsp;&nbsp;\n\nOur advisors provide
-  workshops at the schools focused on college readiness and career planning grounded
-  in community and ethnic studies. In addition to our workshops, we also provide field
-  trip opportunities to different colleges in the area, scholarship application and
-  financial aid support. We acknowledge the importance of scholars envisioning themselves
-  on campus and the value of individualized mentorship.&nbsp;\n\nWhile our focus is
-  to support our youth, we also provide workshops for caregivers to support the development
-  of generational knowledge. We understand that many of our students and families
-  face a variety of barriers, making it difficult to always attend our large gatherings.
-  Therefore, we provide 1;1 support for youth and their families to receive the support
-  they need.&nbsp;&nbsp;\n\n![](https://www.elcentrodelaraza.org/wp-content/uploads/2025/09/8c4c8fc2-6981-40c2-8699-e30e2a170e87.jpg)\n\n##
-  Eligibility Requirement\n\n- High School students enrolled at Seattle Public Schools
-  or Auburn School District&nbsp;&nbsp;\n- If you are based out of Seattle, feel free&nbsp;to
-  contact Leslie Jacobo\n- If you are based out of Auburn, feel free to contact Isabel
-  Corona-Campiz\n\n## Program Managers\n\n### Leslie Jacobo\n\n(617) 798-1057  \n[ljacobo@elcentrodelaraza.org](mailto:ljacobo@elcentrodelaraza.org)\n\n###
-  ISABEL corona-campiz\n\n(206) 222-8426  \n[iccampiz@elcentrodelaraza.org](mailto:iccampiz@elcentrodelaraza.org)\n\nIt’s
-  simple to get started with College GANAS!\n\n[Sign Up Now](https://forms.office.com/pages/responsepage.aspx?id=3WlTYBb4pUWsg3KRI3DSAg09nZilj29NqpSTaB-05ShUQjFIMjlWVzRCV0c5ODZBRks4OTg3Rk9KOC4u)\n\n##
-  Frequently Asked Questions\n\n### Cost for the program?\n\nThis program is free
-  for all youth and families.&nbsp;&nbsp;\n\n### When should I start applying to college?\n\nSenior
-  year is when you should officially start applying. College application dates may
-  vary.\n\n### When should I start planning for college?&nbsp;&nbsp;\n\nYou can submit
-  your application during your senior year. However, it is never too early to start
-  thinking about it.&nbsp;\n\n### How can I pay for college?\n\nCollege can be paid
-  for using a combination of FAFSA/WASFA, scholarships, Work Study award, grants and
-  loans depending on what you are eligible for. &nbsp;\n\n## Stay In Touch\n\nThe
-  post [College GANAS Program](https://www.elcentrodelaraza.org/college-ganas-program/)
-  appeared first on [El Centro de la Raza](https://www.elcentrodelaraza.org)."
+original_markdown_body: "![](https://www.elcentrodelaraza.org/wp-content/uploads/2025/09/2e0358be-6833-4c04-b788-b04e6e760819.jpg)\n\n# College Ganas Program\n\nEmpowering and fostering ganas in youth on their pursuit of higher education.\n\n[Sign Up Now](https://forms.office.com/pages/responsepage.aspx?id=3WlTYBb4pUWsg3KRI3DSAg09nZilj29NqpSTaB-05ShUQjFIMjlWVzRCV0c5ODZBRks4OTg3Rk9KOC4u)\n\nEmpowering and fostering ganas in youth on their pursuit of higher education. Our overall goal is to increase access to higher education. Our program highlights the cultural aspect of “GANAS” in the Latino community, which can be translated as the desire to advance, to accomplish their dreams. Thus, through our program, our advisors will support our scholars to turn their GANAS into reality.&nbsp;&nbsp;\n\nOur advisors provide workshops at the schools focused on college readiness and career planning grounded in community and ethnic studies. In addition to our workshops, we also provide field trip opportunities to different colleges in the area, scholarship application and financial aid support. We acknowledge the importance of scholars envisioning themselves on campus and the value of individualized mentorship.&nbsp;\n\nWhile our focus is to support our youth, we also provide workshops for caregivers to support the development of generational knowledge. We understand that many of our students and families face a variety of barriers, making it difficult to always attend our large gatherings. Therefore, we provide 1;1 support for youth and their families to receive the support they need.&nbsp;&nbsp;\n\n![](https://www.elcentrodelaraza.org/wp-content/uploads/2025/09/8c4c8fc2-6981-40c2-8699-e30e2a170e87.jpg)\n\n## Eligibility Requirement\n\n- High School students enrolled at Seattle Public Schools or Auburn School District&nbsp;&nbsp;\n- If you are based out of Seattle, feel free&nbsp;to contact Leslie Jacobo\n- If you are based out of Auburn, feel free to contact Isabel Corona-Campiz\n\n## Program Managers\n\n### Leslie Jacobo\n\n(617) 798-1057  \n[ljacobo@elcentrodelaraza.org](mailto:ljacobo@elcentrodelaraza.org)\n\n### ISABEL corona-campiz\n\n(206) 222-8426  \n[iccampiz@elcentrodelaraza.org](mailto:iccampiz@elcentrodelaraza.org)\n\nIt’s simple to get started with College GANAS!\n\n[Sign Up Now](https://forms.office.com/pages/responsepage.aspx?id=3WlTYBb4pUWsg3KRI3DSAg09nZilj29NqpSTaB-05ShUQjFIMjlWVzRCV0c5ODZBRks4OTg3Rk9KOC4u)\n\n## Frequently Asked Questions\n\n### Cost for the program?\n\nThis program is free for all youth and families.&nbsp;&nbsp;\n\n### When should I start applying to college?\n\nSenior year is when you should officially start applying. College application dates may vary.\n\n### When should I start planning for college?&nbsp;&nbsp;\n\nYou can submit your application during your senior year. However, it is never too early to start thinking about it.&nbsp;\n\n### How can I pay for college?\n\nCollege can be paid for using a combination of FAFSA/WASFA, scholarships, Work Study award, grants and loans depending on what you are eligible for. &nbsp;\n\n## Stay In Touch\n\nThe post [College GANAS Program](https://www.elcentrodelaraza.org/college-ganas-program/) appeared first on [El Centro de la Raza](https://www.elcentrodelaraza.org)."
 summarized: true
 topics:
 - Education & Learning
 - Financial Assistance
+images:
+- 81c86b2d2b998878317dc5fa2c8ff6bf45df957e3438a1a48dc55152fd49a09d
+- 7c9ca413ae1b49fc8fd09eefb2c2bb226865577367f1ebf4bd6c76cba7a99485
 ---
 
 The College Ganas Program aims to empower Latino youth in their pursuit of higher education by fostering the cultural concept of "GANAS," which signifies the desire to succeed and achieve dreams. The program provides various forms of support, including workshops focused on college readiness and career planning, field trips to colleges, and assistance with scholarship applications and financial aid. Individual mentorship is emphasized to help students visualize their future on campus. The program also offers workshops for caregivers, recognizing the barriers faced by many families that may hinder participation in larger events. Eligibility is open to high school students in Seattle Public Schools or Auburn School District. The program is free for all youth and families, encouraging early planning for college, typically starting in the senior year. Financial support options include FAFSA/WASFA, scholarships, grants, and work-study opportunities. Contact information for program managers is provided for those in Seattle and Auburn to facilitate engagement.

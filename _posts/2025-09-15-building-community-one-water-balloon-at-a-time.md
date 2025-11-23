@@ -62,84 +62,16 @@ original_content: |-
   <p style="text-align: center;"><a class="btn btn-md btn-info" href="https://www.solid-ground.org/donate/">Learn About Ways to Give to Solid Ground</a>
   </div>
   <p class="tmc-caption"><strong>All images by Rachael Green</strong></p>The post <a href="https://www.solid-ground.org/building-community-one-water-balloon-at-a-time/">Building community, one water balloon at a time </a> appeared first on <a href="https://www.solid-ground.org">Solid Ground</a>.
-original_markdown_body: "![A teenage girl clutches a water balloon amid a crowd of
-  adults and children, all sopping wet, as droplets of water fly through the air](https://s14621.pcdn.co/wp-content/uploads/2025/08/SandPointSummerParty-RG-07.30.2025-1801x566-1-361x255.jpg)\n\nJoy
-  was in the air this summer at Solid Ground’s [Sand Point Housing](https://www.solid-ground.org/what-we-do/housing-homelessness/#sandpointhousing)
-  – sometimes literally, in the form of flying water balloons.&nbsp;&nbsp;&nbsp;\n\nAfter
-  nearly coming to a halt amid safety concerns during the pandemic, youth programs
-  at Sand Point are once again alive with laughter, movement, and learning. And beneath
-  all the fun, something even deeper is happening: Community connections are being
-  built.&nbsp;\n\n#### The heartbeat of the Sand Point community&nbsp;\n\n![A young
-  child in shorts holds up a water balloon in one hand while sticking out their tongue
-  and making a funny face.](https://s14621.pcdn.co/wp-content/uploads/2025/08/SandPointSummerParty-RG-07.30.2025-10-400x.jpg)Perched
-  on a small hill overlooking Magnuson Park and Lake Washington beyond it, our Sand
-  Point Housing campus is home to nearly 200 families and individuals who’ve experienced
-  the trauma of homelessness, including more than 130 children, teenagers, and young
-  adults. &nbsp;\n\nThis community offers more than just permanent housing – it provides
-  a foundation for growth and healing. Families benefit from personalized case management,
-  community celebrations, and strengths-based youth programs that empower kids to
-  thrive in school and in life.&nbsp;&nbsp;\n\nSummer is the liveliest season at Sand
-  Point, a time when staff team up with partners from across Seattle to keep young
-  minds active, inspired, and safe long after the final school bell rings. While most
-  activities are designed specifically for Solid Ground residents, some are also open
-  to the larger Sand Point community through partnerships with nearby organizations,
-  including Mercy Magnuson Place, Magnuson Community Center, and the City of Seattle.
-  These growing collaborations support a more connected community while continuing
-  to prioritize services for Sand Point youth and families.&nbsp;&nbsp;&nbsp;\n\n#####
-  **_Highlights of this year’s summer activities include:_&nbsp;**\n\n- **Cooking
-  Tuesdays with Kai and Bela** , a weekly hands-on culinary adventure provided by
-  Solid Ground’s [**Community Food Education**](https://www.solid-ground.org/what-we-do/food-access-education/).\n\n-
-  **A 6-week dance series** , developed in collaboration with community members of
-  all ages.&nbsp;\n\n- **On-campus activities** like build-a-bike workshops and lake
-  outings, plus field trips to a day camp at Camp Edwards and a drift racing event
-  in Monroe.&nbsp;\n\n- **Museum partnerships** that bring hands-on exhibits from
-  the Burke Museum and staff from the Museum of Flight directly to kids at Sand Point.&nbsp;\n\n-
-  **The annual National Night Out celebration** , co-hosted with the Seattle Police
-  Department, ctv, and Mercy Housing.&nbsp;\n\nFriday nights are especially popular,
-  with movie screenings, music production, and open creative workshops, often led
-  by Scott Moorhouse, Sand Point’s Family & Children’s Program Manager, whose infectious
-  energy encourages kids to dream, explore, and express themselves. &nbsp;\n\n####
-  A space for healing and belonging&nbsp;\n\nInside a new teen space at Sand Point’s
-  Lowry Community Center, youth find not only entertainment but also safety, autonomy,
-  and support. This trauma-informed, culturally responsive environment allows teens
-  to relax, build trust, and engage in healing through music, art, and community.
-  Whether it’s karaoke, beat-making, or simply having a space to talk, it sends the
-  message: **_You belong here._** &nbsp;\n\n> **“They’re exploring more – they want
-  to learn.”**\n> \n> _~Scott Moorhouse, Sand Point Family & Children’s Program Manager_&nbsp;\n\nThanks
-  to **Seattle Children’s** and the commitment of our dedicated Children’s Program
-  staff, emotional and mental health support is woven into every aspect of programming,
-  with a specific focus on building social-emotional skills like empathy and navigating
-  conflict. Onsite therapy access, financial literacy classes, and one-on-one support
-  help kids build both life skills and confidence that promote long-term success.&nbsp;\n\nParents
-  have shared that they’ve seen real change in their children, including improved
-  emotional regulation, fewer behavioral incidents, and stronger connections among
-  children who call the Sand Point Housing campus home.&nbsp;\n\n#### Leadership in
-  action&nbsp;\n\nOur partners’ investments in these programs feed a cycle of personal
-  growth. Older youth who have participated in Sand Point programs for years are stepping
-  into leadership roles, mentoring younger kids, and co-creating events like cultural
-  dinners and neighborhood celebrations through our Family & Youth Council, supported
-  by the City of Seattle. Even meals have become learning opportunities, as youth
-  help prepare and serve food, developing responsibility and pride in the process.&nbsp;\n\n>
-  **“If you build it, they will come … and shape it into what they need.”**\n> \n>
-  _~Scott Moorhouse_&nbsp;\n\nBut our work is far from done. With ongoing support
-  from our invaluable partners, we aim to expand mentorship opportunities, enhance
-  academic and creative offerings, and grow spaces where every young person feels
-  safe, valued, and empowered. Because when youth are given consistency, care, and
-  community, they don’t just show up – they thrive. &nbsp;\n\n* * *\n\n##### **_With
-  heartfelt thanks to all who helped make our work possible this past quarter:_**
-  &nbsp;\n\n- **Biella Foundation**\n- **Horizons Foundation**\n- **Hugh & Jane Ferguson
-  Foundation**\n- **Legal Foundation of Washington**\n\n- **Liberty Mutual Foundation**\n-
-  **NW Children’s Foundation**\n- **Turner Foundation**\n- **William E. Wockner Foundation**\n\n#####
-  _Want to help us build more pathways beyond poverty?_\n\n[Learn About Ways to Give
-  to Solid Ground](https://www.solid-ground.org/donate/)\n\n**All images by Rachael
-  Green**\n\nThe post [Building community, one water balloon at a time&nbsp;](https://www.solid-ground.org/building-community-one-water-balloon-at-a-time/)
-  appeared first on [Solid Ground](https://www.solid-ground.org)."
+original_markdown_body: "![A teenage girl clutches a water balloon amid a crowd of adults and children, all sopping wet, as droplets of water fly through the air](https://s14621.pcdn.co/wp-content/uploads/2025/08/SandPointSummerParty-RG-07.30.2025-1801x566-1-361x255.jpg)\n\nJoy was in the air this summer at Solid Ground’s [Sand Point Housing](https://www.solid-ground.org/what-we-do/housing-homelessness/#sandpointhousing) – sometimes literally, in the form of flying water balloons.&nbsp;&nbsp;&nbsp;\n\nAfter nearly coming to a halt amid safety concerns during the pandemic, youth programs at Sand Point are once again alive with laughter, movement, and learning. And beneath all the fun, something even deeper is happening: Community connections are being built.&nbsp;\n\n#### The heartbeat of the Sand Point community&nbsp;\n\n![A young child in shorts holds up a water balloon in one hand while sticking out their tongue and making a funny face.](https://s14621.pcdn.co/wp-content/uploads/2025/08/SandPointSummerParty-RG-07.30.2025-10-400x.jpg)Perched on a small hill overlooking Magnuson Park and Lake Washington beyond it, our Sand Point Housing campus is home to nearly 200 families and individuals who’ve experienced the trauma of homelessness, including more than 130 children, teenagers, and young adults. &nbsp;\n\nThis community offers more than just permanent housing – it provides a foundation for growth and healing. Families benefit from personalized case management, community celebrations, and strengths-based youth programs that empower kids to thrive in school and in life.&nbsp;&nbsp;\n\nSummer is the liveliest season at Sand Point, a time when staff team up with partners from across Seattle to keep young minds active, inspired, and safe long after the final school bell rings. While most activities are designed specifically for Solid Ground residents, some are also open to the larger Sand Point community through partnerships with nearby organizations, including Mercy Magnuson Place, Magnuson Community Center, and the City of Seattle. These growing collaborations support a more connected community while continuing to prioritize services for Sand Point youth and families.&nbsp;&nbsp;&nbsp;\n\n##### **_Highlights of this year’s summer activities include:_&nbsp;**\n\n- **Cooking Tuesdays with Kai and Bela** , a weekly hands-on culinary adventure provided by Solid Ground’s [**Community Food Education**](https://www.solid-ground.org/what-we-do/food-access-education/).\n\n- **A 6-week dance series** , developed in collaboration with community members of all ages.&nbsp;\n\n- **On-campus activities** like build-a-bike workshops and lake outings, plus field trips to a day camp at Camp Edwards and a drift racing event in Monroe.&nbsp;\n\n- **Museum partnerships** that bring hands-on exhibits from the Burke Museum and staff from the Museum of Flight directly to kids at Sand Point.&nbsp;\n\n- **The annual National Night Out celebration** , co-hosted with the Seattle Police Department, ctv, and Mercy Housing.&nbsp;\n\nFriday nights are especially popular, with movie screenings, music production, and open creative workshops, often led by Scott Moorhouse, Sand Point’s Family & Children’s Program Manager, whose infectious energy encourages kids to dream, explore, and express themselves. &nbsp;\n\n#### A space for healing and belonging&nbsp;\n\nInside a new teen space at Sand Point’s Lowry Community Center, youth find not only entertainment but also safety, autonomy, and support. This trauma-informed, culturally responsive environment allows teens to relax, build trust, and engage in healing through music, art, and community. Whether it’s karaoke, beat-making, or simply having a space to talk, it sends the message: **_You belong here._** &nbsp;\n\n> **“They’re exploring more – they want to learn.”**\n> \n> _~Scott Moorhouse, Sand Point Family & Children’s Program Manager_&nbsp;\n\nThanks to **Seattle Children’s** and the commitment of our dedicated Children’s Program staff, emotional and mental health support is woven into every aspect of programming, with a specific focus on building social-emotional skills like empathy and navigating conflict. Onsite therapy access, financial literacy classes, and one-on-one support help kids build both life skills and confidence that promote long-term success.&nbsp;\n\nParents have shared that they’ve seen real change in their children, including improved emotional regulation, fewer behavioral incidents, and stronger connections among children who call the Sand Point Housing campus home.&nbsp;\n\n#### Leadership in action&nbsp;\n\nOur partners’ investments in these programs feed a cycle of personal growth. Older youth who have participated in Sand Point programs for years are stepping into leadership roles, mentoring younger kids, and co-creating events like cultural dinners and neighborhood celebrations through our Family & Youth Council, supported by the City of Seattle. Even meals have become learning opportunities, as youth help prepare and serve food, developing responsibility and pride in the process.&nbsp;\n\n> **“If you build it, they will come … and shape it into what they need.”**\n> \n> _~Scott Moorhouse_&nbsp;\n\nBut our work is far from done. With ongoing support from our invaluable partners, we aim to expand mentorship opportunities, enhance academic and creative offerings, and grow spaces where every young person feels safe, valued, and empowered. Because when youth are given consistency, care, and community, they don’t just show up – they thrive. &nbsp;\n\n* * *\n\n##### **_With heartfelt thanks to all who helped make our work possible this past quarter:_** &nbsp;\n\n- **Biella Foundation**\n- **Horizons Foundation**\n- **Hugh & Jane Ferguson Foundation**\n- **Legal Foundation of Washington**\n\n- **Liberty Mutual Foundation**\n- **NW Children’s Foundation**\n- **Turner Foundation**\n- **William E. Wockner Foundation**\n\n##### _Want to help us build more pathways beyond poverty?_\n\n[Learn About Ways to Give to Solid Ground](https://www.solid-ground.org/donate/)\n\n**All images by Rachael Green**\n\nThe post [Building community, one water balloon at a time&nbsp;](https://www.solid-ground.org/building-community-one-water-balloon-at-a-time/) appeared first on [Solid Ground](https://www.solid-ground.org)."
 summarized: true
 topics:
 - Community & Social Services
 - Education & Learning
 - Mental Health & Counseling
 - Employment & Job Support
+images:
+- 5b6f77e23837c812958765d6bbcb97eb7ba9e8496e26951982611bd16f19a05f
+- 7bfc719b6f4134c80f79f2e15fd049659ed4910d84c121f451fe41fdcc05cc4f
 ---
 
 Joy returned to Solid Ground's Sand Point Housing this summer as youth programs resumed, fostering laughter and community connections after pandemic disruptions. The Sand Point campus supports nearly 200 families, including over 130 children, offering not just housing but also essential services like personalized case management and strengths-based youth programs.

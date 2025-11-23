@@ -26,6 +26,8 @@ topics:
 - Community & Social Services
 - Food & Nutrition
 - Personal & Household Needs
+images:
+- 5902484a78694d738e531a2ef1cf3055b4ce873ba791bd6255f1d2692fb0719a
 ---
 
 Hospitality House South King is seeking donations for June 2025. They encourage individuals to shop for their needs and contribute to the cause. The organization provides a link for donors to access a list of required items. Donations are essential for supporting their mission and helping those in need within the community.

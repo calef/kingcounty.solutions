@@ -1,6 +1,5 @@
 ---
-title: Carbon-rich waters are becoming even more acidic as atmospheric CO2 levels
-  rise
+title: Carbon-rich waters are becoming even more acidic as atmospheric CO2 levels rise
 date: '2025-11-13T15:20:42+00:00'
 source: University of Washington
 source_url: https://www.washington.edu/news/2025/11/13/carbon-rich-waters-are-becoming-more-acidic-faster/

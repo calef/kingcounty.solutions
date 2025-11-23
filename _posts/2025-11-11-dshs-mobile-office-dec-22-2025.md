@@ -19,6 +19,8 @@ topics:
 - Financial Assistance
 - Food & Nutrition
 - Disabilities
+images:
+- ba7f4b3cccad6220cbad9211bb38c644b09394d05d5ffa5148730f4f9d23c8cd
 ---
 
 The DSHS Mobile Community Services Office will be available to the community on December 22, 2025. Services offered include assistance with applications, changes, ID vouchers, and support for programs such as lifeline phone plans, food and cash assistance, Medicare Savings Program, and Disability Medical Assistance. Additionally, information about other community resources will be provided. This service is free and does not require registration.

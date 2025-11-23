@@ -100,6 +100,11 @@ summarized: true
 topics:
 - Community & Social Services
 - Transportation & Mobility
+images:
+- afc6d2b76236f67ccae9139d07c3ec3cddc5876be7b80c4bc0c92b34bd9eafe6
+- 2c3fb742df64e3759d934d344b2a82cc5543e40a44684c2424ce411a0c1b68b6
+- 7e1268dfc21b5270555afa72db2d6c0b9adf14309650a128e0bef8826b8f7dfe
+- 4aadefce983a57e6c29fa59e4ec13646eb7bac828ee7afeb6e5b76d561f552a7
 ---
 
 On average, Bike Works receives seventeen bicycles daily through donations and partnerships with the City of Seattle and King County. Bikes often come from dumpsters or the King County Surplus, with varying conditions indicating their history. Staff members from the Recycle & Reuse department, like Seth and Rebekah, identify potentially stolen bikes by their condition and features. They use the Bike Index, a global database, to check serial numbers and reunite bikes with their owners. 

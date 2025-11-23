@@ -1,6 +1,5 @@
 ---
-title: King County Flood Control District Adopts 2026 Budget, Advancing Strategic
-  Planning and Flood Risk Reduction Efforts
+title: King County Flood Control District Adopts 2026 Budget, Advancing Strategic Planning and Flood Risk Reduction Efforts
 date: '2025-11-13T17:00:00+00:00'
 source: King County Flood Control District
 source_url: https://kingcountyfloodcontrol.org/king-county-flood-control-district-adopts-2026-budget-advancing-strategic-planning-and-flood-risk-reduction-efforts/?utm_source=rss&utm_medium=rss&utm_campaign=king-county-flood-control-district-adopts-2026-budget-advancing-strategic-planning-and-flood-risk-reduction-efforts

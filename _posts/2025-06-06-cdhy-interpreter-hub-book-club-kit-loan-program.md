@@ -30,6 +30,8 @@ original_markdown_body: |-
 summarized: true
 topics:
 - Education & Learning
+images:
+- 2041e60ffbd74a23534ae97f83f550bea109f50ac7af34c4e008da64897d0a45
 ---
 
 CDHY Interpreter HUB offers a Book Club Kit Loan Program designed to facilitate the creation of book clubs. The program provides pre-assembled kits that make it simple to gather individuals for engaging discussions around selected readings. These kits are suitable for diverse groups, including colleagues from different fields or small, close-knit teams, with the aim of fostering meaningful conversations from various perspectives. Interested participants can register for the program through a provided link. For further inquiries, individuals can reach out via email to Charlene Williams or Melissa Klindtworth.

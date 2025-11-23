@@ -83,6 +83,13 @@ original_markdown_body: |-
 summarized: true
 topics:
 - Education & Learning
+images:
+- 3db19e8900aa9a72b39baca430e5d0339664aabe7680455c7178a2749018bcce
+- 43c8c0599d6188e644fcf1700a7a00e75252157f29390fa87dd1dacb8ecfea51
+- d53f95a64b23683cbcd0717d69353b6a47a034c5ef07df7defa6b211b8836f33
+- 8017fe082619fe67333c23f4d5a62fe51bca22036d47f79fe9b7881f308adf3f
+- e433c51c861151f47839f7ee30c2dd08aefbc8e2e5c6f2d5d63126a3766890e7
+- 49e8ad7a99d3d52a649ab935e9007efa5a0605f869e5a6e18bd64f20c547b67c
 ---
 
 Partnering with Amazon has significantly enhanced ReWA’s Youth Program by incorporating advanced robotics into the STEAM curriculum. Students, particularly those with limited access to technology, are acquiring vital 21st-century skills in coding, engineering, and automation through hands-on experiences with the Path-Following Robot. The afterschool program promotes deeper engagement via interactive projects and mentorship from Amazon volunteers. A recent field trip to an Amazon facility allowed students to work alongside engineers to build and test robots, igniting their curiosity about STEAM careers. The Path-Following Robot teaches middle and high school students foundational concepts in electronics, sensors, and Arduino programming. With user-friendly components and customizable coding challenges, students learn how programmable hardware interacts with the physical world, honing their problem-solving, teamwork, and computational thinking abilities. This partnership opens up exciting possibilities and demonstrates gratitude for Amazon’s role in inspiring the next generation of innovators.

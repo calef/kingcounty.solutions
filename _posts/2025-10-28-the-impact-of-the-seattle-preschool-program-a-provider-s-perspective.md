@@ -114,6 +114,8 @@ summarized: true
 topics:
 - Community & Social Services
 - Education & Learning
+images:
+- 39bd0fb3a3bee19da62a540dbb24a0928e52cbad967dfe4d0c28ab9d33b6da70
 ---
 
 This year, significant state cuts to early learning programs have left many families without access to quality child care. However, Seattle voters can still support early learning by renewing the Family, Education, Preschool, and Promise (FEPP) levy in November. This levy aims to raise over $650 million for early learning initiatives, including the Seattle Preschool Program (SPP), which serves low-income families with a nationally-accredited curriculum and coaching for child care providers. 

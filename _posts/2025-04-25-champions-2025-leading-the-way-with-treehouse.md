@@ -25,59 +25,16 @@ original_content: |-
   <span data-contrast="none">And our deepest gratitude to our 2025 sponsors who made this event happen!</span><span data-ccp-props="{}"> </span></p>
   <h5><strong><i>To learn how you can get involved, visit our </i><a href="https://www.treehouseforkids.org/take-action/"><i>Take Action</i></a><i> page.</i></strong></h5>
   <p>The post <a href="https://www.treehouseforkids.org/champions-2025-leading-the-way-treehouse/">Champions 2025: Leading the Way with Treehouse</a> appeared first on <a href="https://www.treehouseforkids.org">Treehouse</a>.</p>
-original_markdown_body: "![](https://www.treehouseforkids.org/wp-content/uploads/2025/05/Treehouse__25_792-1024x683.jpg)\n\nTreehouse
-  CEO Dawn Rains gives speech at Champions 2025.\n\nOn April 1, 2025, 742 attendees
-  joined Treehouse at Champions 2025, our annual fundraising event. Long-time supporters—like
-  our keynote speaker Attorney General Nick Brown—and new faces gathered at the Sheraton
-  Grand Seattle to hear what this year’s theme, “Leading the Way,” means for youth
-  experiencing foster care and the community at large.&nbsp;&nbsp;\n\n### **What Does
-  “Leading the Way” Mean?** &nbsp;\n\n“Leading the Way” is a multi-pronged call to
-  action for everyone. When youth in foster care are empowered with proper support
-  and resources, they are more than capable of leading the way toward the life of
-  their dreams. But it takes all of us to get them there.&nbsp;&nbsp;\n\nFor youth
-  experiencing foster care, it’s a reminder to believe in and bet on themselves. For
-  Treehouse, it’s a promise to continue advocating for and _with_ youth in foster
-  care, setting an example for systems change across the country. And for the wider
-  community, it’s an invitation to join us in leading the way toward a more just world.&nbsp;\n\n
-  ![](https://www.treehouseforkids.org/wp-content/uploads/2025/05/Treehouse__25_669-1024x683.jpg)\n\nSome
-  Treehouse staff members attending Champions.\n\n### **Tree-mendous Work in Action**
-  &nbsp;\n\nFour Treehouse direct-service staff members—including the event emcee,
-  Jesse Becerra, who is known for Treehouse-themed puns—from across the organization
-  and state shared stories from the field so guests could see what “Leading the Way”
-  looks like in practice.&nbsp;&nbsp;\n\nEach staff member represented the various
-  ways Treehouse supports youth—through long-term coaching, educational problem solving,
-  and financial and material resources. Yet each story underscored the importance
-  of consistency and patience in allowing the youth to stabilize, flourish, and take
-  things from there.&nbsp;&nbsp;\n\n### **Committed to the Long Haul** &nbsp;\n\nCelebrating
-  16 years at Treehouse, CEO Dawn Rains used her time on stage to address the challenges
-  ahead and emphasize Treehouse’s firm dedication to students in foster care. She
-  reported on the increased demand for services since our statewide expansion in 2023;
-  Treehouse’s work at the federal level to provide best-practice guidance serving
-  students in foster care; and the importance of community support and involvement.\n\n//www.youtube.com/embed/qgRoiIh4M0I?si=fBMTBqpcHOfxcPPL&start=210\n\nDawn
-  also shared how the Washington state budget crisis could endanger Treehouse funding
-  and educational gains. Since students in foster care are legal guardians of the
-  state, Treehouse has relied on state investment for 40% of its operating budget
-  and raised the other 60% through community support and fundraising efforts.&nbsp;\n\n“We
-  are at another turning point in Treehouse’s history—a time to step up, to advocate
-  boldly . . . And we are calling on all of you to take the next leap with us.”&nbsp;\n\n###
-  **Thanks to Our Community** &nbsp;\n\nNow more than ever, it’s on us to step up
-  for students in foster care. We’re so grateful to our event co-chairs, Linda Spain
-  and Terri Olson-Miller, for their support and guidance in making this event a success.&nbsp;&nbsp;\n\nA
-  hearty thank you to the Challenge Pool, who matched and doubled gifts made during
-  Champions: Aldarra Foundation, The Biella Foundation, Chip and Julie Kelly, Craig
-  and Susan Bruya, David and Catherine Skinner, Dawn Rains and Allison Markus, Gibson
-  Family Foundation, Kris and Chris Nelson, Linda and Phil Hunter, Lisa and Norm Bontje,
-  Michael Hallman, Sue and Dave Holt, Tom and Terri Olson Miller, Val Robinson, and
-  Zan Brookshire and Bert Green.&nbsp;\n\n![](https://www.treehouseforkids.org/wp-content/uploads/2025/05/Champions-2025-Sponsors_Final-1024x768.png)
-  \ \nAnd our deepest gratitude to our 2025 sponsors who made this event happen!&nbsp;\n\n#####
-  **_To learn how you can get involved, visit our_ [_Take Action_](https://www.treehouseforkids.org/take-action/)
-  _page._**\n\nThe post [Champions 2025: Leading the Way with Treehouse](https://www.treehouseforkids.org/champions-2025-leading-the-way-treehouse/)
-  appeared first on [Treehouse](https://www.treehouseforkids.org)."
+original_markdown_body: "![](https://www.treehouseforkids.org/wp-content/uploads/2025/05/Treehouse__25_792-1024x683.jpg)\n\nTreehouse CEO Dawn Rains gives speech at Champions 2025.\n\nOn April 1, 2025, 742 attendees joined Treehouse at Champions 2025, our annual fundraising event. Long-time supporters—like our keynote speaker Attorney General Nick Brown—and new faces gathered at the Sheraton Grand Seattle to hear what this year’s theme, “Leading the Way,” means for youth experiencing foster care and the community at large.&nbsp;&nbsp;\n\n### **What Does “Leading the Way” Mean?** &nbsp;\n\n“Leading the Way” is a multi-pronged call to action for everyone. When youth in foster care are empowered with proper support and resources, they are more than capable of leading the way toward the life of their dreams. But it takes all of us to get them there.&nbsp;&nbsp;\n\nFor youth experiencing foster care, it’s a reminder to believe in and bet on themselves. For Treehouse, it’s a promise to continue advocating for and _with_ youth in foster care, setting an example for systems change across the country. And for the wider community, it’s an invitation to join us in leading the way toward a more just world.&nbsp;\n\n ![](https://www.treehouseforkids.org/wp-content/uploads/2025/05/Treehouse__25_669-1024x683.jpg)\n\nSome Treehouse staff members attending Champions.\n\n### **Tree-mendous Work in Action** &nbsp;\n\nFour Treehouse direct-service staff members—including the event emcee, Jesse Becerra, who is known for Treehouse-themed puns—from across the organization and state shared stories from the field so guests could see what “Leading the Way” looks like in practice.&nbsp;&nbsp;\n\nEach staff member represented the various ways Treehouse supports youth—through long-term coaching, educational problem solving, and financial and material resources. Yet each story underscored the importance of consistency and patience in allowing the youth to stabilize, flourish, and take things from there.&nbsp;&nbsp;\n\n### **Committed to the Long Haul** &nbsp;\n\nCelebrating 16 years at Treehouse, CEO Dawn Rains used her time on stage to address the challenges ahead and emphasize Treehouse’s firm dedication to students in foster care. She reported on the increased demand for services since our statewide expansion in 2023; Treehouse’s work at the federal level to provide best-practice guidance serving students in foster care; and the importance of community support and involvement.\n\n//www.youtube.com/embed/qgRoiIh4M0I?si=fBMTBqpcHOfxcPPL&start=210\n\nDawn also shared how the Washington state budget crisis could endanger Treehouse funding and educational gains. Since students in foster care are legal guardians of the state, Treehouse has relied on state investment for 40% of its operating budget and raised the other 60% through community support and fundraising efforts.&nbsp;\n\n“We are at another turning point in Treehouse’s history—a time to step up, to advocate boldly . . . And we are calling on all of you to take the next leap with us.”&nbsp;\n\n### **Thanks to Our Community** &nbsp;\n\nNow more than ever, it’s on us to step up for students in foster care. We’re so grateful to our event co-chairs, Linda Spain and Terri Olson-Miller, for their support and guidance in making this event a success.&nbsp;&nbsp;\n\nA hearty thank you to the Challenge Pool, who matched and doubled gifts made during Champions: Aldarra Foundation, The Biella Foundation, Chip and Julie Kelly, Craig and Susan Bruya, David and Catherine Skinner, Dawn Rains and Allison Markus, Gibson Family Foundation, Kris and Chris Nelson, Linda and Phil Hunter, Lisa and Norm Bontje, Michael Hallman, Sue and Dave Holt, Tom and Terri Olson Miller, Val Robinson, and Zan Brookshire and Bert Green.&nbsp;\n\n![](https://www.treehouseforkids.org/wp-content/uploads/2025/05/Champions-2025-Sponsors_Final-1024x768.png)  \nAnd our deepest gratitude to our 2025 sponsors who made this event happen!&nbsp;\n\n##### **_To learn how you can get involved, visit our_ [_Take Action_](https://www.treehouseforkids.org/take-action/) _page._**\n\nThe post [Champions 2025: Leading the Way with Treehouse](https://www.treehouseforkids.org/champions-2025-leading-the-way-treehouse/) appeared first on [Treehouse](https://www.treehouseforkids.org)."
 summarized: true
 topics:
 - Community & Social Services
 - Education & Learning
 - Employment & Job Support
+images:
+- 12b54b9c43f57b9797f0621df1aea158b67f5e935dc8ce60f7ab27c94875b8a9
+- 31657e6096671c37b1d8fd02533ef17cbffe33306d2e5d7089b1940a1728fa24
+- a4c1eaf6ad82c821c20a07fd82dc8360367387629b5a12106a0a9f0f3c87edee
 ---
 
 On April 1, 2025, Treehouse hosted its annual fundraising event, Champions 2025, at the Sheraton Grand Seattle, attracting 742 attendees including keynote speaker Attorney General Nick Brown. The theme, “Leading the Way,” emphasizes empowering youth in foster care through support and resources, enabling them to pursue their dreams. Treehouse commits to advocating for these youth and invites the community to participate in fostering a more just world.

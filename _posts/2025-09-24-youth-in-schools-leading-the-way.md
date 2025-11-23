@@ -120,6 +120,8 @@ summarized: true
 topics:
 - Mental Health & Counseling
 - Education & Learning
+images:
+- 63a611a932ae1ff9d07112ca3fd070546d572e0e69a76614c9f38c70c41eb31f
 ---
 
 At Tesla STEM High School, the Mental Health Club, co-led by Naomi and Dhaani, has become a vital space for students to discuss mental health and support one another. In their first meeting of the school year, members shared personal experiences related to summer activities, academic pressures, and family dynamics, creating a foundation for open dialogue. The club aims to raise awareness about mental health and foster community connections, with sessions dedicated to topics like test anxiety and sleep. Members also engage in community outreach by volunteering with NAMI and advocating for mental health awareness.

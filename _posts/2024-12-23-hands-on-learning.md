@@ -41,6 +41,8 @@ summarized: true
 topics:
 - Education & Learning
 - Disabilities
+images:
+- c484a6c5086ee0dc009caf9db63145dd6d4e4a39e6b36cdda9a6fcdf5f7f8041
 ---
 
 Join the Hands On Learning workshop on February 8, 2025, from 9:00 am to 3:00 pm, focused on immersive art and science experiences from a Deaf perspective. Participants will have the opportunity to engage with professionals from the Deaf and Hard of Hearing community and learn directly from Deaf experts in these fields. The workshop will be conducted in American Sign Language (ASL) without interpretation. All necessary supplies for art and science projects will be provided, along with light snacks for attendees. The event will take place at the Centre Building located at 2505 S 320th Street, Ste 640, Federal Way, WA. For registration and further inquiries, contact Melissa Klindtworth via email.

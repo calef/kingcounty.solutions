@@ -19,6 +19,8 @@ original_markdown_body: |-
 summarized: true
 topics:
 - Community & Social Services
+images:
+- a6730a08ea8bf434f5af28c831ba8971c04c1580a285ab3910cfbe7a676e9d46
 ---
 
 The Ice Cream Social marked a delightful start to the year, bringing together many familiar faces and welcoming new attendees. The event was an opportunity for connection and conversation, highlighting the importance of community engagement. Attendees enjoyed a variety of delicious ice cream treats, contributing to the festive atmosphere. The gathering fostered a sense of togetherness, making it a memorable evening for all participants.

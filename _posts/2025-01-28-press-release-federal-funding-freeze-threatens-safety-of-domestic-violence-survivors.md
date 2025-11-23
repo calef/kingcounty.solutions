@@ -1,6 +1,5 @@
 ---
-title: 'Press Release: Federal Funding Freeze Threatens Safety of Domestic Violence
-  Survivors'
+title: 'Press Release: Federal Funding Freeze Threatens Safety of Domestic Violence Survivors'
 date: '2025-01-28T21:42:34+00:00'
 source: LifeWire
 source_url: https://www.lifewire.org/press-release-federal-funding-freeze-threatens-safety-of-domestic-violence-survivors/?utm_source=rss&utm_medium=rss&utm_campaign=press-release-federal-funding-freeze-threatens-safety-of-domestic-violence-survivors
@@ -56,46 +55,14 @@ original_content: |-
 
   <p></p>
   <p>The post <a href="https://www.lifewire.org/press-release-federal-funding-freeze-threatens-safety-of-domestic-violence-survivors/">Press Release: Federal Funding Freeze Threatens Safety of Domestic Violence Survivors</a> appeared first on <a href="https://www.lifewire.org">LifeWire</a>.</p>
-original_markdown_body: "**FOR IMMEDIATE RELEASE**  \nJan. 28, 2025\n\n**Contact:**
-  Patrick Martin  \nDirector of Community Relations  \n425-457-1039  \npatrickm@lifewire.org\n\n![LifeWire](https://www.lifewire.org/wp-content/uploads/2024/07/LW-Logo-CMYK.png)\n\n**EASTSIDE
-  KING COUNTY** – LifeWire, Washington State’s leading nonprofit provider of shelter
-  and services for domestic violence survivors, expressed deep concern over President
-  Trump’s executive order freezing federal financial support. Public funding, including
-  contracts from the Department of Justice and Department of Housing and Urban Development,
-  makes up over two-thirds of LifeWire’s budget; It is essential to supporting survivors
-  fleeing high-lethality situations.\n\n“With just two pages, a vital four-decade
-  partnership between our organization and &nbsp;the federal government to ensure
-  safety and stability for survivors has been abruptly undermined, leaving critical
-  services in jeopardy,” said Janeira Bencosme-Gil, Interim Executive Director. “A
-  freeze on federal grant payments means catastrophic consequences for survivors and
-  their children, imperiling LifeWire’s work to meet their urgent needs. This places
-  their safety and wellbeing directly at risk.”\n\nFederal funding is the backbone
-  of LifeWire’s capacity to provide critical housing, basic needs, and advocacy services
-  to survivors of domestic violence. A disruption to this funding threatens to leave
-  survivors without essential, lifesaving support. According to the National Domestic
-  Violence Hotline, 1 in 4 women and 1 in 7 men will experience physical violence
-  from a partner in their lifetime.\n\nThe scope of the executive order, which halts
-  federal grants and contracts to “ensure alignment with administration priorities,”
-  has created chaos and uncertainty across the nonprofit sector. Diane Yentel, President
-  of the National Council of Nonprofits, warned it could “decimate thousands of organizations
-  and leave neighbors without the services they need.”\n\n“This is far more than a
-  budgetary concern – it is a matter of life and death for the survivors and families
-  we serve,” said Janeira. “We call on the administration to immediately reverse this
-  order and safeguard the programs that are vital to protecting families and saving
-  lives. LifeWire stands firmly opposed to any action so blatantly aimed at ending
-  federal investment in the safety, wellness, and survival of the most vulnerable
-  members of our community.”\n\n**About LifeWire**\n\nLifeWire is Washington State’s
-  leading provider of services for survivors of domestic violence. Since 1982, LifeWire
-  has helped over 165,000 survivors and their children build safer, healthier lives
-  through housing support, advocacy, and community outreach. Learn more at www.lifewire.org.\n\nThe
-  post [Press Release: Federal Funding Freeze Threatens Safety of Domestic Violence
-  Survivors](https://www.lifewire.org/press-release-federal-funding-freeze-threatens-safety-of-domestic-violence-survivors/)
-  appeared first on [LifeWire](https://www.lifewire.org)."
+original_markdown_body: "**FOR IMMEDIATE RELEASE**  \nJan. 28, 2025\n\n**Contact:** Patrick Martin  \nDirector of Community Relations  \n425-457-1039  \npatrickm@lifewire.org\n\n![LifeWire](https://www.lifewire.org/wp-content/uploads/2024/07/LW-Logo-CMYK.png)\n\n**EASTSIDE KING COUNTY** – LifeWire, Washington State’s leading nonprofit provider of shelter and services for domestic violence survivors, expressed deep concern over President Trump’s executive order freezing federal financial support. Public funding, including contracts from the Department of Justice and Department of Housing and Urban Development, makes up over two-thirds of LifeWire’s budget; It is essential to supporting survivors fleeing high-lethality situations.\n\n“With just two pages, a vital four-decade partnership between our organization and &nbsp;the federal government to ensure safety and stability for survivors has been abruptly undermined, leaving critical services in jeopardy,” said Janeira Bencosme-Gil, Interim Executive Director. “A freeze on federal grant payments means catastrophic consequences for survivors and their children, imperiling LifeWire’s work to meet their urgent needs. This places their safety and wellbeing directly at risk.”\n\nFederal funding is the backbone of LifeWire’s capacity to provide critical housing, basic needs, and advocacy services to survivors of domestic violence. A disruption to this funding threatens to leave survivors without essential, lifesaving support. According to the National Domestic Violence Hotline, 1 in 4 women and 1 in 7 men will experience physical violence from a partner in their lifetime.\n\nThe scope of the executive order, which halts federal grants and contracts to “ensure alignment with administration priorities,” has created chaos and uncertainty across the nonprofit sector. Diane Yentel, President of the National Council of Nonprofits, warned it could “decimate thousands of organizations and leave neighbors without the services they need.”\n\n“This is far more than a budgetary concern – it is a matter of life and death for the survivors and families we serve,” said Janeira. “We call on the administration to immediately reverse this order and safeguard the programs that are vital to protecting families and saving lives. LifeWire stands firmly opposed to any action so blatantly aimed at ending federal investment in the safety, wellness, and survival of the most vulnerable members of our community.”\n\n**About LifeWire**\n\nLifeWire is Washington State’s leading provider of services for survivors of domestic violence. Since 1982, LifeWire has helped over 165,000 survivors and their children build safer, healthier lives through housing support, advocacy, and community outreach. Learn more at www.lifewire.org.\n\nThe post [Press Release: Federal Funding Freeze Threatens Safety of Domestic Violence Survivors](https://www.lifewire.org/press-release-federal-funding-freeze-threatens-safety-of-domestic-violence-survivors/) appeared first on [LifeWire](https://www.lifewire.org)."
 summarized: true
 topics:
 - Domestic Violence
 - Shelter & Housing
 - Community & Social Services
+images:
+- b20ff36afb2a4df5aa45ad424885e436f6f89ec680e88b2019b0bd8d2e8e8655
 ---
 
 LifeWire, a nonprofit organization in Washington State dedicated to assisting domestic violence survivors, has raised alarms over President Trump's executive order that freezes federal funding. This funding, which constitutes over two-thirds of LifeWire's budget, is critical for providing shelter, housing, and support services for survivors at risk of high-lethality situations. Janeira Bencosme-Gil, the Interim Executive Director, emphasized that this sudden halt jeopardizes essential services, placing the safety and well-being of survivors and their children at serious risk. According to the National Domestic Violence Hotline, 1 in 4 women and 1 in 7 men experience physical violence from a partner during their lifetime. The executive order's scope, which aims to align federal grants with administration priorities, has caused widespread uncertainty within the nonprofit sector, with Diane Yentel, President of the National Council of Nonprofits, warning it could severely disrupt thousands of organizations. LifeWire has called for immediate reversal of the order, highlighting that the issue transcends budgetary concerns and is fundamentally about protecting vulnerable families and saving lives. LifeWire has been serving survivors since 1982, helping over 165,000 individuals through various support programs.

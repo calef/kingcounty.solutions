@@ -49,6 +49,8 @@ summarized: true
 topics:
 - Food & Nutrition
 - Community & Social Services
+images:
+- 1a07c13c2031956ca1d2f4bd841c97e4870811e1fc380d77968a20a48e4de1a8
 ---
 
 Catholic Charities USA (CCUSA) announced on October 30 that it will provide immediate food assistance in response to increased demand from SNAP benefit cuts and the federal government shutdown. Over the coming weeks, various programs through Catholic Community Services of Western Washington (CCSWW) will receive 14 pallets of produce to distribute to those in need. The Queen Anne Food Bank has experienced a 70% increase in demand recently, serving an additional 375 clients with existing supplies. Erin Maguire, King County Agency Director, expressed gratitude for CCUSA's support, emphasizing its importance in serving the community compassionately during urgent times. Katie O’Neill, from the Queen Anne Food Bank, highlighted the vital role of CCUSA’s donation in continuing their efforts to feed the hungry. Additionally, The Community Kitchen in Olympia has been assembling food boxes with donated ingredients, distributing 200 boxes to clients this week to address the growing food insecurity exacerbated by reduced SNAP benefits. Gabe Ash, Director of Housing and Homeless Services, noted that these efforts will be strengthened by the donations from CCUSA, particularly benefiting rural farm worker communities facing increased challenges.

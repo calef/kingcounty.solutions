@@ -47,32 +47,17 @@ original_content: |-
 
 
   <figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="694" src="https://angelflightwest.org/wp-content/uploads/2025/09/mission_photo_2025-04-04_Ambrosini_Bennett_11984-1024x694.jpg" alt="" class="wp-image-62080" srcset="https://angelflightwest.org/wp-content/uploads/2025/09/mission_photo_2025-04-04_Ambrosini_Bennett_11984-1024x694.jpg 1024w, https://angelflightwest.org/wp-content/uploads/2025/09/mission_photo_2025-04-04_Ambrosini_Bennett_11984-300x203.jpg 300w, https://angelflightwest.org/wp-content/uploads/2025/09/mission_photo_2025-04-04_Ambrosini_Bennett_11984-768x521.jpg 768w, https://angelflightwest.org/wp-content/uploads/2025/09/mission_photo_2025-04-04_Ambrosini_Bennett_11984-1536x1041.jpg 1536w, https://angelflightwest.org/wp-content/uploads/2025/09/mission_photo_2025-04-04_Ambrosini_Bennett_11984.jpg 2019w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure><p>The post <a href="https://angelflightwest.org/news/celebrating-700-missions-command-pilot-chris-bennett/">Celebrating 700 Missions: Command Pilot Chris Bennett</a> first appeared on <a href="https://angelflightwest.org">Angel Flight West</a>.</p>
-original_markdown_body: "Chris Bennett joined Angel Flight West on February 6, 2014,
-  completing his orientation just three days later and flying his very first mission
-  on February 14. Since then, he has completed an extraordinary 705 missions, flying
-  a Diamond Star 40 out of San Jose (SJC).&nbsp;\n\nOne of his deepest connections
-  has been with Eileen, who has flown with Chris 323 times. Eileen lovingly calls
-  herself the president of the “Chris Bennett Fan Club.”&nbsp;\n\n![](https://angelflightwest.org/wp-content/uploads/2025/10/mission_photo_2019-07-31_Ambrosini_Bennett_5701-1024x744.jpg)\n\n![](https://angelflightwest.org/wp-content/uploads/2025/10/mission_photo_2020-07-27_Ambrosini_Bennett_6959-1024x576.jpg)\n\n![](https://angelflightwest.org/wp-content/uploads/2025/10/mission_photo_2020-08-10_Ambrosini_Bennett_7038-1024x764.jpg)\n\n**Eileen
-  captured Chris’s impact beautifully in her heartfelt words during his 700**** <sup>th</sup>
-  ****-mission celebration:&nbsp;** &nbsp;\n\n_You have been the link between home
-  and medical care for hundreds of people. The passengers you fly are all patients
-  in need of the advantages offered by a large medical facility with a multitude of
-  medical specialists.&nbsp;_\n\n_What sets you apart is that you have been flying
-  as an AFW pilot long enough to have accumulated over 700 missions. And that is what
-  today’s get-together is about: to honor you – who have volunteered your time, your
-  plane, fuel and most importantly, your expertise, professionalism, warmth and empathy
-  to countless people in need. What a way to give back!&nbsp;_\n\n_You and I have
-  become a team. I have a feeling that is true for the myriad of other lives you have
-  touched and continue to touch.&nbsp;_  \n&nbsp;  \n_On behalf of Angel Flight West,
-  me and all the others: a heartfelt thank you!_\n\nChris’ story is a reminder of
-  the power of volunteerism and the difference one person can make.&nbsp;\n\n![](https://angelflightwest.org/wp-content/uploads/2025/09/mission_photo_2025-04-04_Ambrosini_Bennett_11984-1024x694.jpg)\n\nThe
-  post [Celebrating 700 Missions: Command Pilot Chris Bennett](https://angelflightwest.org/news/celebrating-700-missions-command-pilot-chris-bennett/)
-  first appeared on [Angel Flight West](https://angelflightwest.org)."
+original_markdown_body: "Chris Bennett joined Angel Flight West on February 6, 2014, completing his orientation just three days later and flying his very first mission on February 14. Since then, he has completed an extraordinary 705 missions, flying a Diamond Star 40 out of San Jose (SJC).&nbsp;\n\nOne of his deepest connections has been with Eileen, who has flown with Chris 323 times. Eileen lovingly calls herself the president of the “Chris Bennett Fan Club.”&nbsp;\n\n![](https://angelflightwest.org/wp-content/uploads/2025/10/mission_photo_2019-07-31_Ambrosini_Bennett_5701-1024x744.jpg)\n\n![](https://angelflightwest.org/wp-content/uploads/2025/10/mission_photo_2020-07-27_Ambrosini_Bennett_6959-1024x576.jpg)\n\n![](https://angelflightwest.org/wp-content/uploads/2025/10/mission_photo_2020-08-10_Ambrosini_Bennett_7038-1024x764.jpg)\n\n**Eileen captured Chris’s impact beautifully in her heartfelt words during his 700**** <sup>th</sup> ****-mission celebration:&nbsp;** &nbsp;\n\n_You have been the link between home and medical care for hundreds of people. The passengers you fly are all patients in need of the advantages offered by a large medical facility with a multitude of medical specialists.&nbsp;_\n\n_What sets you apart is that you have been flying as an AFW pilot long enough to have accumulated over 700 missions. And that is what today’s get-together is about: to honor you – who have volunteered your time, your plane, fuel and most importantly, your expertise, professionalism, warmth and empathy to countless people in need. What a way to give back!&nbsp;_\n\n_You and I have become a team. I have a feeling that is true for the myriad of other lives you have touched and continue to touch.&nbsp;_  \n&nbsp;  \n_On behalf of Angel Flight West, me and all the others: a heartfelt thank you!_\n\nChris’ story is a reminder of the power of volunteerism and the difference one person can make.&nbsp;\n\n![](https://angelflightwest.org/wp-content/uploads/2025/09/mission_photo_2025-04-04_Ambrosini_Bennett_11984-1024x694.jpg)\n\nThe post [Celebrating 700 Missions: Command Pilot Chris Bennett](https://angelflightwest.org/news/celebrating-700-missions-command-pilot-chris-bennett/) first appeared on [Angel Flight West](https://angelflightwest.org)."
 summarized: true
 topics:
 - Community & Social Services
 - Health Care
 - Transportation & Mobility
+images:
+- b03e12e1b2f2822bdd1f6d2c030d402532936daa66215f9be1f3155b2e98ee03
+- 6729b1311a84093e3eae1741e09c39deca5127f470e75aaaf01e8bf041c935a5
+- e7b0c2a4521ebf045bf093260f81ecdfc06005ef8d2e31605925b1cee048c597
+- f064095e64b9b46d611b4997aff7924877c963a59adcf74d796f0194c4b0acd7
 ---
 
 Chris Bennett, a command pilot with Angel Flight West since February 6, 2014, has reached an impressive milestone of 705 missions. He completed his first flight just days after his orientation and primarily operates a Diamond Star 40 from San Jose (SJC). A significant connection has developed between Chris and a frequent passenger, Eileen, who has flown with him 323 times and affectionately refers to herself as the president of the "Chris Bennett Fan Club." During the celebration of his 700th mission, Eileen expressed gratitude for Chris's profound impact on the lives of many, stating he serves as a vital link between home and essential medical care for numerous patients requiring specialized treatment. She highlighted his dedication, noting the time, resources, and compassion he has devoted to helping those in need. Eileen emphasized the strong bond Chris has formed with his passengers, illustrating the transformative power of volunteerism and the significant difference one individual can make in the lives of others. Angel Flight West and the community extend heartfelt thanks to Chris for his remarkable service and commitment.

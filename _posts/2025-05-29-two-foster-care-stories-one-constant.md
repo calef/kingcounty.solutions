@@ -71,6 +71,8 @@ summarized: true
 topics:
 - Education & Learning
 - Community & Social Services
+images:
+- 4818446847b9b28de41a343b6fc44e30b7ad932704ccf9e2ff546e8e171b5899
 ---
 
 In honor of National Foster Care Month, Treehouse shares inspiring stories from Jeniece Driver, a dedicated Education Specialist who has worked extensively with youth in foster care. With a background in psychology and years of experience in child welfare, Jeniece highlights the resilience of two students she has supported.

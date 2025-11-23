@@ -131,6 +131,8 @@ topics:
 - Community & Social Services
 - Employment & Job Support
 - Shelter & Housing
+images:
+- 52e0f681cdef4c723a5e1f0e133c60447796ca20fe3ac2f34bfc26edd96a3766
 ---
 
 Welcome to CONNECTIONS, YouthCare’s monthly newsletter highlighting the organization's work and achievements. Interim CEO Marty Hartman leads a transition team focused on stabilizing YouthCare operationally and financially by engaging with youth, staff, and community stakeholders. The aim is to strengthen the financial foundation and enhance organizational stability while protecting vital programs for young people.

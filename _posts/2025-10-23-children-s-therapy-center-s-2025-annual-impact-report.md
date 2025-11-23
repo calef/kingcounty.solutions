@@ -35,6 +35,8 @@ original_markdown_body: |-
 summarized: true
 topics:
 - Disabilities
+images:
+- 3ea8fab0578b35cea1ae0ad0d06457b6e4a0e8acb13f720bbeb17c7dc5961cfd
 ---
 
 Children’s Therapy Center released its 2025 Annual Impact Report, highlighting the achievements of the past year made possible by the support of its community. The report emphasizes the organization's commitment to maximizing the potential of children with disabilities. Gratitude is expressed towards all supporters who contributed to these efforts. The center looks forward to continued progress and success in the upcoming year.

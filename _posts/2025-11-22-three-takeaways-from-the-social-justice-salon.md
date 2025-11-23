@@ -91,144 +91,36 @@ original_content: |-
   <p class="tmc-caption" style="padding-left: 40px;"><strong><span style="color: #ed7a09;" data-contrast="auto">1) <span style="color: #595959;">New York Times:</span> </span></strong><a href="https://www.nytimes.com/2025/11/12/us/politics/trump-homeless-funding.html"><span data-contrast="none">Trump Administration Expected to Drastically Cut Housing Grants</span></a><span data-ccp-props="{}"> </span></p>
   <p class="tmc-caption" style="padding-left: 40px;"><span style="color: #ed7a09;"><strong>2) <span style="color: #595959;">New York Times:</span> </strong></span><a href="https://www.nytimes.com/interactive/2025/03/07/us/trump-federal-agencies-websites-words-dei.html"><span data-contrast="none">These Words Are Disappearing in the New Trump Administration</span></a><span data-ccp-props="{}"> </span></p>
   <p class="tmc-caption"><strong>All photos by Clarissa Magdich</strong></p>The post <a href="https://www.solid-ground.org/three-takeaways-from-the-social-justice-salon/">Three takeaways from the Social Justice Salon </a> appeared first on <a href="https://www.solid-ground.org">Solid Ground</a>.
-original_markdown_body: "![Five women sit on chairs on a stage acros from a packed
-  audience in a darkened room.](https://s14621.pcdn.co/wp-content/uploads/2025/11/Panelists-Stage-SJS-CM-10.15.25-1-801x566-2-361x255.jpg)\n\nLast
-  month, Solid Ground gathered four&nbsp;community&nbsp;leaders at its annual Social
-  Justice Salon – titled [“Responding&nbsp;to&nbsp;the Moment:&nbsp;Social Justice,
-  Federal Actions, and the future of Human Services”](https://www.solid-ground.org/get-involved/social-justice-salons/#upcoming)
-  – and hosted a packed crowd for a much needed conversation about the future of social
-  justice, safety-net organizations, and the communities we serve together.&nbsp;\n\nModerated
-  by Naomi&nbsp;Ishisaka, Assistant Managing Editor for Diversity and Inclusion and
-  Social Justice Columnist for [The Seattle Times](https://www.seattletimes.com/author/naomi-ishisaka/),
-  the panel included:&nbsp;\n\n- Rhonda Banchero,&nbsp;Director of Organizational
-  Equity and Inclusion&nbsp;at&nbsp;[Downtown Emergency Service Center&nbsp;(DESC)](https://www.desc.org/)&nbsp;\n\n-
-  Shalimar Gonzales,&nbsp;CEO of&nbsp;[Solid Ground](https://www.solid-ground.org/)&nbsp;\n\n-
-  Regina Malveaux,&nbsp;Chief Impact Officer at&nbsp;[United Way of King County&nbsp;(UWKC)](https://www.uwkc.org/)&nbsp;\n\n-
-  Estela&nbsp;Ortega,&nbsp;Executive&nbsp;Director&nbsp;at&nbsp;[El Centro de la Raza](https://www.elcentrodelaraza.org/)&nbsp;\n\nThis
-  panel discussion came in the wake of a massive federal spending and tax bill that
-  preserves and increases tax cuts for the wealthy by slashing food and health care
-  programs for families and individuals who are already struggling to get by. Already,
-  the cuts have begun to hit nonprofit organizations that serve these communities.&nbsp;\n\nhttps://www.youtube.com/embed/xNQSxHGp_IM?feature=oembed\n\n####
-  **Takeaway #1:&nbsp;Hundreds of thousands&nbsp;of&nbsp;lives&nbsp;will be&nbsp;impacted,
-  and housing is next** &nbsp;\n\nIn March, after the current administration first
-  attempted to block funding for food banks and other nutritional programs, Regina
-  said United Way of King County sent a survey to neighborhood food banks across the
-  county to better understand the impact of lost federal funding. Of the 44 responses,
-  36 said they relied on funding from the federal government, making up at least 60
-  percent of their budgets. At DESC, which provides shelter and critical services
-  for people experiencing homelessness in King County, Rhonda said the organization
-  has lost about $4 million in funding already. At Solid Ground, which relies less
-  heavily on federal funding, Shalimar said the loss has been about $500,000 – with
-  more expected to come.&nbsp;\n\n ![A woman sitting on a dark stage speaks as two
-  others look on.](https://s14621.pcdn.co/wp-content/uploads/2025/11/Shalimar-Rhonda-Naomi-SJS-CM-10.15.25-11-01-1000x.jpg)\n\nShalimar,
-  left, talks about her work at Solid Ground as Rhonda, center, and Naomi look on.\n\n“These
-  are the drastic and&nbsp;kind&nbsp;of&nbsp;draconian things that our nonprofits
-  are facing,” Regina&nbsp;said.&nbsp;\n\nAnd housing services are likely next. As
-  Rhonda pointed out, the legislative blueprint known as Project 2025 specifically
-  targets Housing First and harm-reduction approaches to addressing homelessness and
-  substance abuse. (Plans have since surfaced indicating that the administration plans
-  to slash funding for permanent housing as soon as January 2026 **¹**.)&nbsp;\n\n“If
-  we go away, or if we have major cuts, that impact is going to be felt pretty much
-  all over the county,” Rhonda said. “We’re going to be talking about thousands of
-  people who are currently housed in one of our DESC properties that are going to
-  be unhoused, so what will that do&nbsp;to&nbsp;the&nbsp;communities and what those
-  communities will shape into?”&nbsp;\n\nAs&nbsp;Rhonda and other&nbsp;panelists made
-  clear, what’s at stake in this conversation is not just the future of&nbsp;critical&nbsp;safety-net&nbsp;organizations,
-  but the wellbeing of the hundreds of&nbsp;thousands&nbsp;of people they serve —
-  people who rely on them to get the food, housing, education, and health care they
-  need.&nbsp;\n\n“We’re talking about infants potentially starving in this country,”
-  Shalimar said.&nbsp;“We’re talking about seniors and adults and families not having
-  enough food in this country — and in a country that should have plenty of it.&nbsp;But
-  yet&nbsp;somehow&nbsp;we&nbsp;don’t&nbsp;have enough to go&nbsp;around. Those are
-  all policy choices.”&nbsp;\n\n#### **Takeaway #2: We need to stick to our values**
-  &nbsp;\n\nThe panelists&nbsp;all&nbsp;agreed,&nbsp;the one thing they will not do
-  is abandon the values that guide their work.&nbsp;\n\n ![A woman seated in a chari
-  gestures as she speaks while another woman looks on.](https://s14621.pcdn.co/wp-content/uploads/2025/11/Estela-Regina-SJS-CM-10.15.25-021000x.jpg)\n\nEstela,
-  left, describes the impact of El Centro’s work as Regina and others look on.\n\n“Racial
-  equity is embedded into our mission, into the work that we do, and we feel we cannot
-  address economic injustices and poverty in this country without talking about the
-  systems of oppression that created those things,” Shalimar said. “That includes
-  talking about racism, because if we can’t talk about it, we can’t do anything about
-  it.”&nbsp;\n\nThe inextricability of language and values in human services work
-  became even more clear earlier this year when nonprofits began seeing documents
-  **²** &nbsp;indicating&nbsp;which&nbsp;words&nbsp;could cause organizations to lose
-  federal support. The lists included terms like “accessible,” “bias,” “ethnicity,”
-  and “systemic.”&nbsp;&nbsp;\n\n“I mean our website would have been blank,” said
-  Rhonda. “We’re proud to help marginalized people, which applies broadly to so many
-  people, including white folks. We’re not going to back down – we can’t back down
-  – because if we’re not fighting for them, fighting those for those marginalized
-  folks, and the folks who are unhoused, who is fighting for them? What’s going to
-  happen to them?”&nbsp;\n\nNot that&nbsp;it’s&nbsp;easy, or that there&nbsp;aren’t&nbsp;risks
-  involved. Estela said El Centro&nbsp;recently began having conversations about whether
-  it should remove the names of staff members from&nbsp;its&nbsp;website for their
-  safety.&nbsp;\n\n“But in terms of changing what’s on our website, and what we believe
-  in and what we work on, no,&nbsp;we’re&nbsp;not going to do that.”&nbsp;she&nbsp;said.
-  “That’s not who&nbsp;we are.”&nbsp;\n\nSome organizations, however,&nbsp;are more
-  vulnerable than others, and&nbsp;Regina said that&nbsp;organizations like UWKC,
-  which&nbsp;rely less on&nbsp;federal funding,&nbsp;recognize they&nbsp;have a special
-  responsibility to stand up&nbsp;in&nbsp;this moment.&nbsp;\n\n“We essentially said,
-  ‘If it’s not safe for us to stand in our values, then who can?’” she said. “If you
-  have that kind of privilege, you absolute have to use that as an opportunity.”&nbsp;\n\n####
-  Takeaway #3:&nbsp;Our community gives us hope&nbsp;\n\nDespite the threats to the
-  wellbeing of our neighbors, the panelists all saw reasons to hope&nbsp;–&nbsp;that
-  we&nbsp;have the capacity&nbsp;and will as a community&nbsp;to shepherd&nbsp;our&nbsp;neighbors
-  through this moment of crisis.&nbsp;\n\n ![Five woman pose for a photo on a stage](https://s14621.pcdn.co/wp-content/uploads/2025/11/Panelists-SJS-CM-10.15.25-2-1000x.jpg)\n\nFrom
-  left: Rhonda, Regina, Shalimar, Estela, and Naomi.\n\n“The only thing we can do
-  really is put our hope back into community… to say ‘How can we come together as
-  one to continue to support neighbors that are in need?’” Shalimar said. “Saying,
-  ‘These are our neighbors, and I don’t want my neighbors to starve. I don’t want
-  my neighbors to be homeless. I don’t want my neighbor to not have health care. So
-  I’m going to do what we need to do.’”&nbsp;\n\nRegina said&nbsp;she’s&nbsp;been
-  encouraged by how the&nbsp;larger King County community has already responded to
-  the threats we face&nbsp;with collaboration and creativity. That, she said, will
-  be a critical part of the path forward.&nbsp;\n\n“One of the moments of hope and
-  moments of pride I’ve seen across grantee&nbsp;organizations is&nbsp;the&nbsp;adaptation&nbsp;that
-  many are having through partnership,” Regina said. “Not to say folks&nbsp;didn’t&nbsp;already&nbsp;collaborate,
-  but&nbsp;there’s&nbsp;a new level of&nbsp;collaboration,&nbsp;recognizing,&nbsp;‘Oh
-  were going to have to figure&nbsp;out&nbsp;how to work&nbsp;together to stretch,
-  to&nbsp;do more with less.’”&nbsp;\n\nPanelists said this&nbsp;kind of collaboration
-  is only the beginning of what will be&nbsp;required&nbsp;from our communities if
-  we hope to continue to safeguard the wellbeing of our neighbors when the federal
-  government no longer does.&nbsp;&nbsp;\n\nThe bottom line, panelists said, is this:
-  We can only&nbsp;meet&nbsp;this moment by standing together in support of one another.&nbsp;\n\nAs
-  Estela said:&nbsp;“My hope&nbsp;is&nbsp;that we will build a strong movement in
-  our&nbsp;city&nbsp;and&nbsp;in Washington&nbsp;state,&nbsp;that we&nbsp;will&nbsp;not
-  allow ourselves to be&nbsp;silenced, that&nbsp;we&nbsp;will&nbsp;not&nbsp;allow&nbsp;ourselves
-  to be&nbsp;intimidated.”&nbsp;\n\n&nbsp;\n\n### _Thanks to Our Sponsors!_\n\n#####
-  \n\n##### VISIONARY SPONSOR[![B | E | C | U logo, white lettering on a red background](https://s14621.pcdn.co/wp-content/uploads/2024/02/BECU-Logo-Horizontal-RGB-300x140.jpg)](https://www.becu.org/)\n\n#####
-  MEDIA SPONSOR  \n[![The Seattle Times logo with black lettering](https://s14621.pcdn.co/wp-content/uploads/2025/05/TheSeattleTimes-logo_bw-1400x504-1.jpg)](https://www.seattletimes.com/)
-  \ \n\n* * *\n\n[![Alaska AIRLINES logo, blue text on white background.](https://s14621.pcdn.co/wp-content/uploads/2025/02/AlaskaAirlines-Med_Official_AS_Wordmark_logo_rgb-300x156.jpg)](https://www.alaskaair.com/)\n\n&nbsp;\n\n[![ARCORA
-  Foundation logo, green and black text, with the tagline: Bending the Arc of Oral
-  Health Toward Equity](https://s14621.pcdn.co/wp-content/uploads/2023/04/ArcoraLogo2022-equity-tagline-300x107.jpg)](https://arcorafoundation.org/)[![BROWN-FORMAN
-  logo with a circular brown graphic with a white wine glass inside it.](https://s14621.pcdn.co/wp-content/uploads/2025/04/Brown–Forman-Logo.wine_-300x200.png)](https://brown-forman.com/)[![Cambia
-  Health Foundation logo in green, blue, and black](https://s14621.pcdn.co/wp-content/uploads/2025/09/CambiaHealthFoundation-logo-300x183.jpg)](https://www.cambiahealthfoundation.org/)[![The
-  CoHo Team of Windermere Agents logo](https://s14621.pcdn.co/wp-content/uploads/2011/08/thecohoteamlogo-e1689104922791-300x142.jpg)](https://cohorealty.com/)\n\n[![Blue,
-  square DCG ONE logo with white lettering](https://s14621.pcdn.co/wp-content/uploads/2025/04/DCGONE_Logo_Primary-150x150.png)](https://www.dcgone.com/)\n\n[![HomeStreet
-  Bank logo in black and blue text](https://s14621.pcdn.co/wp-content/uploads/2025/04/HSB_logo_no-tag_bank-wht-250x76-1.jpg)](https://www.homestreet.com/)\n\n[![Blue
-  KAISER PERMANENTE logo with a graphic of 3 people behind a sunburst](https://s14621.pcdn.co/wp-content/uploads/2024/04/kaiser-permanente-logo-png-transparent-e1712267527875-300x114.png)](https://healthy.kaiserpermanente.org/washington/front-door/)\n\n&nbsp;\n\n[![Microsoft
-  logo with red, green, blue, and yellow cubes and grey lettering](https://s14621.pcdn.co/wp-content/uploads/2021/02/MicrosoftLogo2018-300x64.png)](https://www.microsoft.com/en-us/)\n\n&nbsp;\n\n[![NWPS
-  - Northwest Plan Services logo, aqua with black letters](https://s14621.pcdn.co/wp-content/uploads/2022/03/nwps-new-logo-Medium-300x56.jpg)](https://www.nwpsbenefits.com/)\n\n&nbsp;\n\n[![Blue
-  and grey logo with a Liberty Bell graphic and text reading PHILADELPHIA INSURANCE
-  Companies, A Member of the Tokio Marine Group](https://s14621.pcdn.co/wp-content/uploads/2025/04/Philadelphia-Insurance-Logo-transparent-1987x579-1-300x87.png)](https://www.phly.com/Home/Index.aspx)\n\n&nbsp;\n\n[![Seattle
-  Children's logo, MEDICAL, RESEARCH, FOUNDATION, with a round graphic of a teal momma
-  whale with her tail wrapped around an orange baby whale.](https://s14621.pcdn.co/wp-content/uploads/2025/04/seattle-childrens-lgV-logo-transparent-RGB-300x157.png)](https://www.seattlechildrens.org/)\n\n&nbsp;\n\n[![Red,
-  gray, and black logo reading 20 SOCIUS LAW GROUP.](https://s14621.pcdn.co/wp-content/uploads/2024/07/Socius-20th-Logo-513x108-1-300x63.jpg)](https://www.sociuslaw.com/)\n\n&nbsp;\n\n[![Sprague
-  Israel Giles (sig) INSURANCE logo, green](https://s14621.pcdn.co/wp-content/uploads/2015/09/SIGLogoGreenGrey300x46.jpg)](https://www.siginsures.com/)\n\n&nbsp;\n\n[![US
-  Bank logo in red, white, and blue](https://s14621.pcdn.co/wp-content/uploads/2015/09/40USBankLogo_RGB-300x75.jpg)](https://www.usbank.com/index.html)\n\n&nbsp;\n\n[![UNITED
-  WAY King County logo with blue text and a circular graphic of an orange person standing
-  on a blue outstretched hand under a gold sunburst.](https://s14621.pcdn.co/wp-content/uploads/2025/04/UWKC-1-LINE-CMYK-600x207-1-300x104.png)](https://www.uwkc.org/)\n\n[![Virginia
-  Mason Franciscan Health logo with a blue and green icon](https://s14621.pcdn.co/wp-content/uploads/2023/03/VMFH_Logo_Hori_Full_Color_RGB-300x83.png)](https://www.vmfh.org/our-hospitals/virginia-mason-medical-center)\n\n*
-  * *\n\n**&nbsp;Sources&nbsp;**\n\n**1) New York Times:** [Trump Administration Expected
-  to Drastically Cut Housing Grants](https://www.nytimes.com/2025/11/12/us/politics/trump-homeless-funding.html)&nbsp;\n\n**2)
-  New York Times:** [These Words Are Disappearing in the New Trump Administration](https://www.nytimes.com/interactive/2025/03/07/us/trump-federal-agencies-websites-words-dei.html)&nbsp;\n\n**All
-  photos by Clarissa Magdich**\n\nThe post [Three takeaways from the Social Justice&nbsp;Salon&nbsp;](https://www.solid-ground.org/three-takeaways-from-the-social-justice-salon/)
-  appeared first on [Solid Ground](https://www.solid-ground.org)."
+original_markdown_body: "![Five women sit on chairs on a stage acros from a packed audience in a darkened room.](https://s14621.pcdn.co/wp-content/uploads/2025/11/Panelists-Stage-SJS-CM-10.15.25-1-801x566-2-361x255.jpg)\n\nLast month, Solid Ground gathered four&nbsp;community&nbsp;leaders at its annual Social Justice Salon – titled [“Responding&nbsp;to&nbsp;the Moment:&nbsp;Social Justice, Federal Actions, and the future of Human Services”](https://www.solid-ground.org/get-involved/social-justice-salons/#upcoming) – and hosted a packed crowd for a much needed conversation about the future of social justice, safety-net organizations, and the communities we serve together.&nbsp;\n\nModerated by Naomi&nbsp;Ishisaka, Assistant Managing Editor for Diversity and Inclusion and Social Justice Columnist for [The Seattle Times](https://www.seattletimes.com/author/naomi-ishisaka/), the panel included:&nbsp;\n\n- Rhonda Banchero,&nbsp;Director of Organizational Equity and Inclusion&nbsp;at&nbsp;[Downtown Emergency Service Center&nbsp;(DESC)](https://www.desc.org/)&nbsp;\n\n- Shalimar Gonzales,&nbsp;CEO of&nbsp;[Solid Ground](https://www.solid-ground.org/)&nbsp;\n\n- Regina Malveaux,&nbsp;Chief Impact Officer at&nbsp;[United Way of King County&nbsp;(UWKC)](https://www.uwkc.org/)&nbsp;\n\n- Estela&nbsp;Ortega,&nbsp;Executive&nbsp;Director&nbsp;at&nbsp;[El Centro de la Raza](https://www.elcentrodelaraza.org/)&nbsp;\n\nThis panel discussion came in the wake of a massive federal spending and tax bill that preserves and increases tax cuts for the wealthy by slashing food and health care programs for families and individuals who are already struggling to get by. Already, the cuts have begun to hit nonprofit organizations that serve these communities.&nbsp;\n\nhttps://www.youtube.com/embed/xNQSxHGp_IM?feature=oembed\n\n#### **Takeaway #1:&nbsp;Hundreds of thousands&nbsp;of&nbsp;lives&nbsp;will be&nbsp;impacted, and housing is next** &nbsp;\n\nIn March, after the current administration first attempted to block funding for food banks and other nutritional programs, Regina said United Way of King County sent a survey to neighborhood food banks across the county to better understand the impact of lost federal funding. Of the 44 responses, 36 said they relied on funding from the federal government, making up at least 60 percent of their budgets. At DESC, which provides shelter and critical services for people experiencing homelessness in King County, Rhonda said the organization has lost about $4 million in funding already. At Solid Ground, which relies less heavily on federal funding, Shalimar said the loss has been about $500,000 – with more expected to come.&nbsp;\n\n ![A woman sitting on a dark stage speaks as two others look on.](https://s14621.pcdn.co/wp-content/uploads/2025/11/Shalimar-Rhonda-Naomi-SJS-CM-10.15.25-11-01-1000x.jpg)\n\nShalimar, left, talks about her work at Solid Ground as Rhonda, center, and Naomi look on.\n\n“These are the drastic and&nbsp;kind&nbsp;of&nbsp;draconian things that our nonprofits are facing,” Regina&nbsp;said.&nbsp;\n\nAnd housing services are likely next. As Rhonda pointed out, the legislative blueprint known as Project 2025 specifically targets Housing First and harm-reduction approaches to addressing homelessness and substance abuse. (Plans have since surfaced indicating that the administration plans to slash funding for permanent housing as soon as January 2026 **¹**.)&nbsp;\n\n“If we go away, or if we have major cuts, that impact is going to be felt pretty much all over the county,” Rhonda said. “We’re going to be talking about thousands of people who are currently housed in one of our DESC properties that are going to be unhoused, so what will that do&nbsp;to&nbsp;the&nbsp;communities and what those communities will shape into?”&nbsp;\n\nAs&nbsp;Rhonda and other&nbsp;panelists made clear, what’s at stake in this conversation is not just the future of&nbsp;critical&nbsp;safety-net&nbsp;organizations, but the wellbeing of the hundreds of&nbsp;thousands&nbsp;of people they serve — people who rely on them to get the food, housing, education, and health care they need.&nbsp;\n\n“We’re talking about infants potentially starving in this country,” Shalimar said.&nbsp;“We’re talking about seniors and adults and families not having enough food in this country — and in a country that should have plenty of it.&nbsp;But yet&nbsp;somehow&nbsp;we&nbsp;don’t&nbsp;have enough to go&nbsp;around. Those are all policy choices.”&nbsp;\n\n#### **Takeaway #2: We need to stick to our values** &nbsp;\n\nThe panelists&nbsp;all&nbsp;agreed,&nbsp;the one thing they will not do is abandon the values that guide their work.&nbsp;\n\n ![A woman seated in a chari gestures as she speaks while another woman looks on.](https://s14621.pcdn.co/wp-content/uploads/2025/11/Estela-Regina-SJS-CM-10.15.25-021000x.jpg)\n\nEstela, left, describes the impact of El Centro’s work as Regina and others look on.\n\n“Racial equity is embedded into our mission, into the work that we do, and we feel we cannot address economic injustices and poverty in this country without talking about the systems of oppression that created those things,” Shalimar said. “That includes talking about racism, because if we can’t talk about it, we can’t do anything about it.”&nbsp;\n\nThe inextricability of language and values in human services work became even more clear earlier this year when nonprofits began seeing documents **²** &nbsp;indicating&nbsp;which&nbsp;words&nbsp;could cause organizations to lose federal support. The lists included terms like “accessible,” “bias,” “ethnicity,” and “systemic.”&nbsp;&nbsp;\n\n“I mean our website would have been blank,” said Rhonda. “We’re proud to help marginalized people, which applies broadly to so many people, including white folks. We’re not going to back down – we can’t back down – because if we’re not fighting for them, fighting those for those marginalized folks, and the folks who are unhoused, who is fighting for them? What’s going to happen to them?”&nbsp;\n\nNot that&nbsp;it’s&nbsp;easy, or that there&nbsp;aren’t&nbsp;risks involved. Estela said El Centro&nbsp;recently began having conversations about whether it should remove the names of staff members from&nbsp;its&nbsp;website for their safety.&nbsp;\n\n“But in terms of changing what’s on our website, and what we believe in and what we work on, no,&nbsp;we’re&nbsp;not going to do that.”&nbsp;she&nbsp;said. “That’s not who&nbsp;we are.”&nbsp;\n\nSome organizations, however,&nbsp;are more vulnerable than others, and&nbsp;Regina said that&nbsp;organizations like UWKC, which&nbsp;rely less on&nbsp;federal funding,&nbsp;recognize they&nbsp;have a special responsibility to stand up&nbsp;in&nbsp;this moment.&nbsp;\n\n“We essentially said, ‘If it’s not safe for us to stand in our values, then who can?’” she said. “If you have that kind of privilege, you absolute have to use that as an opportunity.”&nbsp;\n\n#### Takeaway #3:&nbsp;Our community gives us hope&nbsp;\n\nDespite the threats to the wellbeing of our neighbors, the panelists all saw reasons to hope&nbsp;–&nbsp;that we&nbsp;have the capacity&nbsp;and will as a community&nbsp;to shepherd&nbsp;our&nbsp;neighbors through this moment of crisis.&nbsp;\n\n ![Five woman pose for a photo on a stage](https://s14621.pcdn.co/wp-content/uploads/2025/11/Panelists-SJS-CM-10.15.25-2-1000x.jpg)\n\nFrom left: Rhonda, Regina, Shalimar, Estela, and Naomi.\n\n“The only thing we can do really is put our hope back into community… to say ‘How can we come together as one to continue to support neighbors that are in need?’” Shalimar said. “Saying, ‘These are our neighbors, and I don’t want my neighbors to starve. I don’t want my neighbors to be homeless. I don’t want my neighbor to not have health care. So I’m going to do what we need to do.’”&nbsp;\n\nRegina said&nbsp;she’s&nbsp;been encouraged by how the&nbsp;larger King County community has already responded to the threats we face&nbsp;with collaboration and creativity. That, she said, will be a critical part of the path forward.&nbsp;\n\n“One of the moments of hope and moments of pride I’ve seen across grantee&nbsp;organizations is&nbsp;the&nbsp;adaptation&nbsp;that many are having through partnership,” Regina said. “Not to say folks&nbsp;didn’t&nbsp;already&nbsp;collaborate, but&nbsp;there’s&nbsp;a new level of&nbsp;collaboration,&nbsp;recognizing,&nbsp;‘Oh were going to have to figure&nbsp;out&nbsp;how to work&nbsp;together to stretch, to&nbsp;do more with less.’”&nbsp;\n\nPanelists said this&nbsp;kind of collaboration is only the beginning of what will be&nbsp;required&nbsp;from our communities if we hope to continue to safeguard the wellbeing of our neighbors when the federal government no longer does.&nbsp;&nbsp;\n\nThe bottom line, panelists said, is this: We can only&nbsp;meet&nbsp;this moment by standing together in support of one another.&nbsp;\n\nAs Estela said:&nbsp;“My hope&nbsp;is&nbsp;that we will build a strong movement in our&nbsp;city&nbsp;and&nbsp;in Washington&nbsp;state,&nbsp;that we&nbsp;will&nbsp;not allow ourselves to be&nbsp;silenced, that&nbsp;we&nbsp;will&nbsp;not&nbsp;allow&nbsp;ourselves to be&nbsp;intimidated.”&nbsp;\n\n&nbsp;\n\n### _Thanks to Our Sponsors!_\n\n##### \n\n##### VISIONARY SPONSOR[![B | E | C | U logo, white lettering on a red background](https://s14621.pcdn.co/wp-content/uploads/2024/02/BECU-Logo-Horizontal-RGB-300x140.jpg)](https://www.becu.org/)\n\n##### MEDIA SPONSOR  \n[![The Seattle Times logo with black lettering](https://s14621.pcdn.co/wp-content/uploads/2025/05/TheSeattleTimes-logo_bw-1400x504-1.jpg)](https://www.seattletimes.com/)  \n\n* * *\n\n[![Alaska AIRLINES logo, blue text on white background.](https://s14621.pcdn.co/wp-content/uploads/2025/02/AlaskaAirlines-Med_Official_AS_Wordmark_logo_rgb-300x156.jpg)](https://www.alaskaair.com/)\n\n&nbsp;\n\n[![ARCORA Foundation logo, green and black text, with the tagline: Bending the Arc of Oral Health Toward Equity](https://s14621.pcdn.co/wp-content/uploads/2023/04/ArcoraLogo2022-equity-tagline-300x107.jpg)](https://arcorafoundation.org/)[![BROWN-FORMAN logo with a circular brown graphic with a white wine glass inside it.](https://s14621.pcdn.co/wp-content/uploads/2025/04/Brown–Forman-Logo.wine_-300x200.png)](https://brown-forman.com/)[![Cambia Health Foundation logo in green, blue, and black](https://s14621.pcdn.co/wp-content/uploads/2025/09/CambiaHealthFoundation-logo-300x183.jpg)](https://www.cambiahealthfoundation.org/)[![The CoHo Team of Windermere Agents logo](https://s14621.pcdn.co/wp-content/uploads/2011/08/thecohoteamlogo-e1689104922791-300x142.jpg)](https://cohorealty.com/)\n\n[![Blue, square DCG ONE logo with white lettering](https://s14621.pcdn.co/wp-content/uploads/2025/04/DCGONE_Logo_Primary-150x150.png)](https://www.dcgone.com/)\n\n[![HomeStreet Bank logo in black and blue text](https://s14621.pcdn.co/wp-content/uploads/2025/04/HSB_logo_no-tag_bank-wht-250x76-1.jpg)](https://www.homestreet.com/)\n\n[![Blue KAISER PERMANENTE logo with a graphic of 3 people behind a sunburst](https://s14621.pcdn.co/wp-content/uploads/2024/04/kaiser-permanente-logo-png-transparent-e1712267527875-300x114.png)](https://healthy.kaiserpermanente.org/washington/front-door/)\n\n&nbsp;\n\n[![Microsoft logo with red, green, blue, and yellow cubes and grey lettering](https://s14621.pcdn.co/wp-content/uploads/2021/02/MicrosoftLogo2018-300x64.png)](https://www.microsoft.com/en-us/)\n\n&nbsp;\n\n[![NWPS - Northwest Plan Services logo, aqua with black letters](https://s14621.pcdn.co/wp-content/uploads/2022/03/nwps-new-logo-Medium-300x56.jpg)](https://www.nwpsbenefits.com/)\n\n&nbsp;\n\n[![Blue and grey logo with a Liberty Bell graphic and text reading PHILADELPHIA INSURANCE Companies, A Member of the Tokio Marine Group](https://s14621.pcdn.co/wp-content/uploads/2025/04/Philadelphia-Insurance-Logo-transparent-1987x579-1-300x87.png)](https://www.phly.com/Home/Index.aspx)\n\n&nbsp;\n\n[![Seattle Children's logo, MEDICAL, RESEARCH, FOUNDATION, with a round graphic of a teal momma whale with her tail wrapped around an orange baby whale.](https://s14621.pcdn.co/wp-content/uploads/2025/04/seattle-childrens-lgV-logo-transparent-RGB-300x157.png)](https://www.seattlechildrens.org/)\n\n&nbsp;\n\n[![Red, gray, and black logo reading 20 SOCIUS LAW GROUP.](https://s14621.pcdn.co/wp-content/uploads/2024/07/Socius-20th-Logo-513x108-1-300x63.jpg)](https://www.sociuslaw.com/)\n\n&nbsp;\n\n[![Sprague Israel Giles (sig) INSURANCE logo, green](https://s14621.pcdn.co/wp-content/uploads/2015/09/SIGLogoGreenGrey300x46.jpg)](https://www.siginsures.com/)\n\n&nbsp;\n\n[![US Bank logo in red, white, and blue](https://s14621.pcdn.co/wp-content/uploads/2015/09/40USBankLogo_RGB-300x75.jpg)](https://www.usbank.com/index.html)\n\n&nbsp;\n\n[![UNITED WAY King County logo with blue text and a circular graphic of an orange person standing on a blue outstretched hand under a gold sunburst.](https://s14621.pcdn.co/wp-content/uploads/2025/04/UWKC-1-LINE-CMYK-600x207-1-300x104.png)](https://www.uwkc.org/)\n\n[![Virginia Mason Franciscan Health logo with a blue and green icon](https://s14621.pcdn.co/wp-content/uploads/2023/03/VMFH_Logo_Hori_Full_Color_RGB-300x83.png)](https://www.vmfh.org/our-hospitals/virginia-mason-medical-center)\n\n* * *\n\n**&nbsp;Sources&nbsp;**\n\n**1) New York Times:** [Trump Administration Expected to Drastically Cut Housing Grants](https://www.nytimes.com/2025/11/12/us/politics/trump-homeless-funding.html)&nbsp;\n\n**2) New York Times:** [These Words Are Disappearing in the New Trump Administration](https://www.nytimes.com/interactive/2025/03/07/us/trump-federal-agencies-websites-words-dei.html)&nbsp;\n\n**All photos by Clarissa Magdich**\n\nThe post [Three takeaways from the Social Justice&nbsp;Salon&nbsp;](https://www.solid-ground.org/three-takeaways-from-the-social-justice-salon/) appeared first on [Solid Ground](https://www.solid-ground.org)."
 summarized: true
 topics:
 - Community & Social Services
 - Food & Nutrition
 - Health Care
 - Shelter & Housing
+images:
+- 8f9f4d919f1b1274c88749b03253f3b3596fc5333d6c34eb118fa1dc1a0a409c
+- 1fbc9c6c311fb2997968a1787fd23df4e412c00b838a69f866ff6b3ba7b6950b
+- 6d0208ece23863caf0f40ff327e200fe122b20a8c9b9704149e80712caf5262e
+- c51663da480223bb17eb2b1d04cd9adf1c21be9101712b54d92dab9eb8c8daac
+- 925a5f8c9142fecec59f2c20322052410ef37591529e04a4fa63995d9369f9cf
+- 4d114e424a3786f0eecf2ce482464cf727284b1de53d84367a4c83889d907a2b
+- f54e3f980ee8b72cc7b755ed8a7fe7d764fee33c0619cdfe4ebf491ad9b80efd
+- 113da5e1bf9146f8a1de4609ec3ba2175e3033b7790358973a703e389bfd66c9
+- 4d2d30890abf0131d96627513ff7869a81ee04e399679361afa8187f946bd360
+- 692b390abbf0d872b8c04fd802aba74602f42acf6027b7e7f4f9143793e323b3
+- fbb6394ff77eae151afa57fda7d8699ed4f194d81a108ae72aa7678eecf7f230
+- 23a467a65a04d33c7441f246388c9e2941a9f801a2cffdd29ba086f4c0af690d
+- 43b57a52120aef09f2104fb5237c19aa0e7d6be1ffab6e82d1570de3c8aa51ca
+- 25fcd34c7b294831204e080583036370a9b39fe3eb81aa26e4dc3e34275483ff
+- f121b0f61b9e66df167c08e6bd0847ea34f6f34d5aa792cb87a61a3176cc8bca
+- 610393028f9c8015c1aa4157dc0832f4102a415f28397f0b40c495e808772c75
+- 30599e07b97e0e1c41e81f76bc5f36e60c57d585e70dd85172bad0218eb42179
+- 20730df47225a7a6d33b91b75a195022f1aa8fde8c4fecc7522e1f6191fc6236
+- 9ce51ac8406c1d001a256d1971f0eacf1b832816bdd4f379586eac577b783084
+- 315d6fe442d31ddc2c12a7e29a52eea75cef60a6e277ab3fef9bbcff5967b351
+- e2569f52423d97785e27347d5148dadcf6f93321ff8340ffc7ac6dd87383b5d6
+- 8e151db0a05ed7096c62af4816e991f30a83e96a2a2bb55115e370d71fae1c58
 ---
 
 Solid Ground hosted its annual Social Justice Salon, focusing on the impact of recent federal spending cuts on social justice and safety-net organizations. Panelists included community leaders from various organizations discussing the dire consequences of these cuts, which threaten food and healthcare programs that support struggling families. Hundreds of thousands of lives are at stake, with significant funding losses already reported by organizations such as Downtown Emergency Service Center and Solid Ground. The legislative agenda is poised to further target housing services, potentially displacing many individuals currently housed.

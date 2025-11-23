@@ -93,6 +93,9 @@ summarized: true
 topics:
 - Education & Learning
 - Community & Social Services
+images:
+- e0919046e715a47496bc98e97c30e8c6b23d50397f7c77d3c4685527423a06be
+- c9e6547593c2709c7ce1e48d7504cb7340e1717a5d5dbc0de75c285c08027b96
 ---
 
 For nearly 40 years, Treehouse has supported children and youth in foster care, striving to ensure they graduate high school equipped for adulthood. Recently, the Washington State Legislature cut $7.46 million from Treehouse's funding, significantly affecting its budget. Despite this challenge, Treehouse remains committed to its mission, focusing on helping foster youth graduate at rates comparable to their peers. With support from OSPI Superintendent Chris Reykdal, who redirected $1.4 million in discretionary funding, Treehouse aims to sustain its services.

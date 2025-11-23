@@ -1,6 +1,5 @@
 ---
-title: "$10M gift from Charles and Lisa Simonyi establishes AI@UW to advance artificial
-  intelligence and emerging technologies"
+title: "$10M gift from Charles and Lisa Simonyi establishes AI@UW to advance artificial intelligence and emerging technologies"
 date: '2025-11-18T17:02:43+00:00'
 source: University of Washington
 source_url: https://www.washington.edu/news/2025/11/18/10-million-gift-from-charles-and-lisa-simonyi-establishes-aiuw-to-advance-artificial-intelligence-and-emerging-technologies/

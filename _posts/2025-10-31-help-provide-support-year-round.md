@@ -62,35 +62,15 @@ original_content: |-
 
   <p></p>
   <p>The post <a href="https://www.brightspark.org/2025/10/help-provide-support-year-round/">Help Provide Support Year-Round!</a> appeared first on <a href="https://www.brightspark.org">BrightSpark</a>.</p>
-original_markdown_body: "![](https://www.brightspark.org/wp-content/uploads/2025/10/Fund-Dev-Newsletter-Banners-4-1.png
-  \"Fund Dev Newsletter Banners (4)\")\n\n## **Your workplace gift makes a real difference!**\n\n|
-  Last week, we shared how workplace giving and matching gifts can help your donation
-  go twice as far. But did you know these gifts make up one of the most reliable,
-  year-round sources of support for BrightSpark’s work?  \n  \nWhen you give through
-  payroll deduction or a company match, you’re helping ensure we can keep showing
-  up for children, families, and early learning providers, not just in moments of
-  crisis, but every day of the year.  \n  \nThese consistent gifts help us:  \n  \nProvide
-  training and resources for early educators  \nAdvocate for equitable access to quality
-  early learning  \nSupport families navigating complex childcare systems  \n  \nEven
-  small recurring gifts, when combined with employer matches, add up to lasting change
-  for kids in our community.  \n  \nIf you haven’t yet checked, it only takes a minute
-  to see if your employer participates and to make your next gift go even further.
-  |\n\n[Check To See If Your Company Offers A Matching Gift Program!](https://www.brightspark.org/wp-content/uploads/2025/10/WPG-Companies.pdf)\n\n|
-  Thank you for helping all children learn, grow, and thrive, today and into the future!
-  \ \n  \nWarmly,  \nThe BrightSpark Team |\n\n| **There’s More than One Way to Give!**
-  \ \n  \nBrightSpark accepts donations in many forms: cash, credit cards, fund transfers,
-  checks, money orders, stocks, bonds, mutual funds, donor-advised funds, and more!
-  If you have any questions or would like more information on ways to give, please
-  get in touch with our fund development department at&nbsp;[getinvolved@childcare.org](mailto:getinvolved@childcare.org).
-  |\n\n![](https://www.brightspark.org/wp-content/uploads/2025/10/Thank-you-to-our-sponsors-Blog-Banner-2-1024x576.png)\n\n_All
-  photos on this email are credited to ©LisaBontjePhotography_\n\nThe post [Help Provide
-  Support Year-Round!](https://www.brightspark.org/2025/10/help-provide-support-year-round/)
-  appeared first on [BrightSpark](https://www.brightspark.org)."
+original_markdown_body: "![](https://www.brightspark.org/wp-content/uploads/2025/10/Fund-Dev-Newsletter-Banners-4-1.png \"Fund Dev Newsletter Banners (4)\")\n\n## **Your workplace gift makes a real difference!**\n\n| Last week, we shared how workplace giving and matching gifts can help your donation go twice as far. But did you know these gifts make up one of the most reliable, year-round sources of support for BrightSpark’s work?  \n  \nWhen you give through payroll deduction or a company match, you’re helping ensure we can keep showing up for children, families, and early learning providers, not just in moments of crisis, but every day of the year.  \n  \nThese consistent gifts help us:  \n  \nProvide training and resources for early educators  \nAdvocate for equitable access to quality early learning  \nSupport families navigating complex childcare systems  \n  \nEven small recurring gifts, when combined with employer matches, add up to lasting change for kids in our community.  \n  \nIf you haven’t yet checked, it only takes a minute to see if your employer participates and to make your next gift go even further. |\n\n[Check To See If Your Company Offers A Matching Gift Program!](https://www.brightspark.org/wp-content/uploads/2025/10/WPG-Companies.pdf)\n\n| Thank you for helping all children learn, grow, and thrive, today and into the future!  \n  \nWarmly,  \nThe BrightSpark Team |\n\n| **There’s More than One Way to Give!**  \n  \nBrightSpark accepts donations in many forms: cash, credit cards, fund transfers, checks, money orders, stocks, bonds, mutual funds, donor-advised funds, and more! If you have any questions or would like more information on ways to give, please get in touch with our fund development department at&nbsp;[getinvolved@childcare.org](mailto:getinvolved@childcare.org). |\n\n![](https://www.brightspark.org/wp-content/uploads/2025/10/Thank-you-to-our-sponsors-Blog-Banner-2-1024x576.png)\n\n_All photos on this email are credited to ©LisaBontjePhotography_\n\nThe post [Help Provide Support Year-Round!](https://www.brightspark.org/2025/10/help-provide-support-year-round/) appeared first on [BrightSpark](https://www.brightspark.org)."
 summarized: true
 topics:
 - Community & Social Services
 - Education & Learning
 - Financial Assistance
+images:
+- a30aeb6f7648c424dcf850043aec610378274d8952f8a070b071860b55b16d33
+- f0a13e33bdc2e10cc6ba5b69c3dafd18f73fb8add88c6b072ec4ebc76e9cb8a2
 ---
 
 BrightSpark emphasizes the importance of workplace giving and matching gifts as a reliable source of year-round support for their initiatives. By participating in payroll deductions or company matching programs, donors can significantly contribute to BrightSpark's mission to support children, families, and early learning providers consistently throughout the year. These donations help provide essential training and resources for early educators, advocate for equitable access to quality early learning, and assist families navigating complex childcare systems. Even small recurring donations can lead to substantial changes in the community, especially when paired with employer matches. Donors are encouraged to check if their employers offer matching gift programs to maximize their contributions. BrightSpark accepts various forms of donations, including cash, credit cards, stocks, and donor-advised funds. The organization expresses gratitude to contributors for helping all children learn, grow, and thrive both now and in the future. For more information on donation methods, individuals can reach out to BrightSpark’s fund development department.

@@ -103,6 +103,9 @@ summarized: true
 topics:
 - Education & Learning
 - Community & Social Services
+images:
+- d5e430c0b3417345e39052679b14c414c0c9fb83582a816959143f98a1766566
+- 6d7409d466f2c884085d1ec69a475d0870a15d666d72dba2290a3343737eeb7d
 ---
 
 The Catholic Community Services Youth Tutoring Program (YTP) in Seattle provides vital academic support and mentorship to over 300 students from low-income and public housing. Celebrating its 30-year legacy, YTP relies on more than 200 volunteers, including high school and college students, to help scholars improve in reading and math. Reports show that 95% of parents note positive changes in their children's academic performance, with 100% of last year's high school seniors graduating and continuing their education. 

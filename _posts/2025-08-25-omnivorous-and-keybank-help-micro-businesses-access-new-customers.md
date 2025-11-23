@@ -45,6 +45,8 @@ topics:
 - Community & Social Services
 - Food & Nutrition
 - Shelter & Housing
+images:
+- 661ee0e7c021d580e6f7d3d46622365a7751aa866a1eaf7659f82d48405e2db2
 ---
 
 Community Roots Housing is hosting Omnivorous, an annual tasting benefit in September that celebrates Seattle's food scene while supporting affordable housing. The event features local bars, bakeries, distilleries, and food vendors, with a majority being micro-businesses that employ fewer than six people. Over 90% of the vendors are BIPOC and women-owned, contributing to the neighborhood's character. Some vendors are also Community Roots residents, highlighting the personal connection to the mission of affordable housing. KeyBank sponsors this year’s event, providing each vendor with a $700 stipend to help cover costs associated with participation. This support allows micro-businesses to access new markets and gain valuable exposure through marketing and professional photography. Community Roots emphasizes the link between housing stability and small business success, noting that affordable housing helps create a diverse and accessible community. Omnivorous showcases the cultural richness of Seattle's food scene and fosters connections among residents, emphasizing the importance of making the community a place where everyone can thrive.

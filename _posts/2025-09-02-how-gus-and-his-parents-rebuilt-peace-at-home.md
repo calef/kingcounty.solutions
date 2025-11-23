@@ -60,6 +60,8 @@ topics:
 - Community & Social Services
 - Mental Health & Counseling
 - Education & Learning
+images:
+- 5657735786d51fa130e71b72eb32539a3fec390be7bdde286d61445e9aadd283
 ---
 
 Mia and Max faced challenges when they relocated their family from Brooklyn to Seattle, particularly affecting their 3-year-old son, Gus. The transition disrupted Gus's familiar routines, leading to behavioral issues, including physical meltdowns and defiance. In search of help, the family sought guidance from their pediatrician, who recommended the Parent-Child Interaction Therapy (PCIT) program offered by YES. This evidence-based therapy aims to strengthen the parent-child bond while improving children's behavior. During sessions, parents receive real-time coaching from a therapist while interacting with their child in a specially designed room.

@@ -35,41 +35,15 @@ original_content: |-
   <p>&nbsp;</p>
   <p><img loading="lazy" decoding="async" class="aligncenter wp-image-11446" title="boys and girls club gala" src="https://positiveplace.org/wp-content/uploads/2025/08/gala-photo-collage-updated-300x240.png" alt="a collage of images from the 2024 great futures gala &amp; auction" width="968" height="774" srcset="https://positiveplace.org/wp-content/uploads/2025/08/gala-photo-collage-updated-300x240.png 300w, https://positiveplace.org/wp-content/uploads/2025/08/gala-photo-collage-updated-1024x819.png 1024w, https://positiveplace.org/wp-content/uploads/2025/08/gala-photo-collage-updated-768x614.png 768w, https://positiveplace.org/wp-content/uploads/2025/08/gala-photo-collage-updated-1536x1229.png 1536w, https://positiveplace.org/wp-content/uploads/2025/08/gala-photo-collage-updated-100x80.png 100w, https://positiveplace.org/wp-content/uploads/2025/08/gala-photo-collage-updated-1200x960.png 1200w, https://positiveplace.org/wp-content/uploads/2025/08/gala-photo-collage-updated.png 2000w" sizes="auto, (max-width: 968px) 100vw, 968px" /></p>
   <p>The post <a href="https://positiveplace.org/boys-and-girls-club-gala/">Boys &#038; Girls Club Gala: A Roaring Night of Glamour &#038; Giving</a> appeared first on <a href="https://positiveplace.org">Boys &amp; Girls Clubs</a>.</p>
-original_markdown_body: "# **Our online silent auction is open!**\n\n**[Click here
-  to view and bid on auction lots](https://greatfutures25.ggo.bid/bidding/package-browse)**\n\n&nbsp;\n\nSeize
-  this opportunity to secure exclusive experiences and must-have items!&nbsp;Every
-  dollar raised&nbsp;empowers Club kids&nbsp;to excel in school, become active community
-  members, and lead healthy, productive lives.\n\n_Anyone can bid online_, regardless
-  of whether they’re attending the in-person event. Winners will be responsible for
-  any shipping costs.\n\n**Online bidding ends on Friday, October 3rd, at 7:15 p.m.&nbsp;**\n\nDuring
-  the week, we’ll be adding new auction lots and exciting surprises, so be sure to
-  check back often to see what’s new!\n\n![](https://positiveplace.org/wp-content/uploads/2025/08/44-300x300.png)\n\n#
-  **Join us at Club 206 for a night to remember!**\n\n&nbsp;\n\nDon your finest threads
-  and step behind the velvet ropes into an unforgettable evening at Club 206, a glamorous,
-  1920s-inspired fundraising gala supporting **[Boys & Girls Clubs of King County](https://positiveplace.org/).**\n\n**Date**
-  : Friday, October 3, 2025 (_note NEW DAY of week_)\n\n**Time** : 5:00 – 10:00 pm\n\n**Location**
-  : Hyatt Regency Seattle\n\n**Cost** : $325 individual ticket or $3,250 for a table
-  of 10\n\n**[  \n ![boys and girls club gala ticket](https://positiveplace.org/wp-content/uploads/2025/08/ticket-300x94.png
-  \"boys and girls club gala\") ![](https://positiveplace.org/wp-content/uploads/2025/08/44-300x300.png)](https://positiveplace.ejoinme.org/gfga25tickets)
-  **** The Evening’s Festivities**\n\n1920s-themed cocktail reception with games and
-  photobooth\n\nAn insider look at how the Club transforms lives\n\nGourmet multi-course
-  meal\n\nExciting auction packages, including once-in-a-lifetime experiences\n\n21+
-  Older Event | 1920s theme party attire encouraged!\n\n![](https://positiveplace.org/wp-content/uploads/2025/08/44-300x300.png)\n\n**Live
-  Auction** : Friday, October 3, 2025 | 7:00 pm\n\n**Silent Auction** : Opens Friday,
-  September 26, 2025 at 10 am PT and closes Friday, October 3, 2025 at 7:15 pm PT.\n\n**Silent
-  Wine Auction** : Opens Friday, October 3, 2025, at 9 am PT and closes Friday, October
-  3, 2025, at 7:15 pm PT.\n\n![](https://positiveplace.org/wp-content/uploads/2025/08/44-300x300.png)
-  \ \nClub 206 is your golden ticket to making a difference for Club Kids and having
-  a roaring good time doing it. It’s going to be the bee’s knees, and you won’t want
-  to miss it!\n\n&nbsp;\n\n![a collage of images from the 2024 great futures gala
-  & auction](https://positiveplace.org/wp-content/uploads/2025/08/gala-photo-collage-updated-300x240.png
-  \"boys and girls club gala\")\n\nThe post [Boys & Girls Club Gala: A Roaring Night
-  of Glamour & Giving](https://positiveplace.org/boys-and-girls-club-gala/) appeared
-  first on [Boys & Girls Clubs](https://positiveplace.org)."
+original_markdown_body: "# **Our online silent auction is open!**\n\n**[Click here to view and bid on auction lots](https://greatfutures25.ggo.bid/bidding/package-browse)**\n\n&nbsp;\n\nSeize this opportunity to secure exclusive experiences and must-have items!&nbsp;Every dollar raised&nbsp;empowers Club kids&nbsp;to excel in school, become active community members, and lead healthy, productive lives.\n\n_Anyone can bid online_, regardless of whether they’re attending the in-person event. Winners will be responsible for any shipping costs.\n\n**Online bidding ends on Friday, October 3rd, at 7:15 p.m.&nbsp;**\n\nDuring the week, we’ll be adding new auction lots and exciting surprises, so be sure to check back often to see what’s new!\n\n![](https://positiveplace.org/wp-content/uploads/2025/08/44-300x300.png)\n\n# **Join us at Club 206 for a night to remember!**\n\n&nbsp;\n\nDon your finest threads and step behind the velvet ropes into an unforgettable evening at Club 206, a glamorous, 1920s-inspired fundraising gala supporting **[Boys & Girls Clubs of King County](https://positiveplace.org/).**\n\n**Date** : Friday, October 3, 2025 (_note NEW DAY of week_)\n\n**Time** : 5:00 – 10:00 pm\n\n**Location** : Hyatt Regency Seattle\n\n**Cost** : $325 individual ticket or $3,250 for a table of 10\n\n**[  \n ![boys and girls club gala ticket](https://positiveplace.org/wp-content/uploads/2025/08/ticket-300x94.png \"boys and girls club gala\") ![](https://positiveplace.org/wp-content/uploads/2025/08/44-300x300.png)](https://positiveplace.ejoinme.org/gfga25tickets) **** The Evening’s Festivities**\n\n1920s-themed cocktail reception with games and photobooth\n\nAn insider look at how the Club transforms lives\n\nGourmet multi-course meal\n\nExciting auction packages, including once-in-a-lifetime experiences\n\n21+ Older Event | 1920s theme party attire encouraged!\n\n![](https://positiveplace.org/wp-content/uploads/2025/08/44-300x300.png)\n\n**Live Auction** : Friday, October 3, 2025 | 7:00 pm\n\n**Silent Auction** : Opens Friday, September 26, 2025 at 10 am PT and closes Friday, October 3, 2025 at 7:15 pm PT.\n\n**Silent Wine Auction** : Opens Friday, October 3, 2025, at 9 am PT and closes Friday, October 3, 2025, at 7:15 pm PT.\n\n![](https://positiveplace.org/wp-content/uploads/2025/08/44-300x300.png)  \nClub 206 is your golden ticket to making a difference for Club Kids and having a roaring good time doing it. It’s going to be the bee’s knees, and you won’t want to miss it!\n\n&nbsp;\n\n![a collage of images from the 2024 great futures gala & auction](https://positiveplace.org/wp-content/uploads/2025/08/gala-photo-collage-updated-300x240.png \"boys and girls club gala\")\n\nThe post [Boys & Girls Club Gala: A Roaring Night of Glamour & Giving](https://positiveplace.org/boys-and-girls-club-gala/) appeared first on [Boys & Girls Clubs](https://positiveplace.org)."
 summarized: true
 topics:
 - Education & Learning
 - Community & Social Services
+images:
+- 798dfbf63e394813fb8a64afa50dbda34984b65f18c86e84d618e3570de4b1ee
+- bfe560429095619a7475704acda8eff72e35ce381d94bf27e375c40b59ae16d3
+- b354454291f2903abf69573e3e37bc979a1b2c8daf6c9b8567cd2f820ede6431
 ---
 
 Join the Boys & Girls Club on October 3, 2025, for a glamorous, 1920s-inspired fundraising gala at the Hyatt Regency Seattle from 5:00 PM to 10:00 PM. Individual tickets are priced at $325, while a table of ten costs $3,250. The evening features a cocktail reception with games and a photo booth, a gourmet multi-course meal, and a live auction showcasing exciting packages, including exclusive experiences. 

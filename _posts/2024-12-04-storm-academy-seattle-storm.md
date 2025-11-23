@@ -59,6 +59,13 @@ topics:
 - Education & Learning
 - Employment & Job Support
 - Financial Assistance
+images:
+- 6d5d9145754c87f0977e1f73914202b748518c8555b20762ee185712e53290a8
+- 792e1743b2921182280a14fe84e5662bbbe2feaf1427ffeb77c84cc5f46ac0b9
+- daf4471ea9534dec88b2539231fa9732b4aac9b6d098d4a8b8dabc7b793eff6d
+- 0e57fcd24e261434197efa26e416343f65e9c31e0705c5034f59014abb51f213
+- 40a5d8cb03900518df97985a7ff9206af1d6ad92d07e2ad7baa6d0ea933a9388
+- 1a1e9a9c1277f43842f24335eabd203fa4e986d13ea94900399f0c2a169afc59
 ---
 
 Last weekend, 20 girls from Federal Way Public Schools attended a conference organized by the Seattle Storm focused on financial literacy, leadership, and building a confident mindset. During the event, Storm Guard Nika Muhl shared her insights with the students. The conference was made possible through a partnership with BECU and the Seattle Storm, aimed at empowering the next generation of leaders.

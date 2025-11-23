@@ -61,34 +61,18 @@ original_content: |-
 
 
   <p>Email olivia@hospitalityhousesouthking.org with questions <img loading="lazy" decoding="async" height="16" width="16" alt="&#x1f49a;" src="https://static.xx.fbcdn.net/images/emoji.php/v9/t33/2/16/1f49a.png"></p>
-original_markdown_body: "![](https://hospitalityhousesouthking.org/wp-content/uploads/2025/07/Dear-1.png)\n\n**FAQ**![\U0001F64B‍♀](https://static.xx.fbcdn.net/images/emoji.php/v9/t89/2/16/1f64b_200d_2640.png)\n\n**Q:**
-  Why does Hospitality House need a PO Box?\n\n**A:** During the Spring we became
-  aware that we were not receiving mail. Pieces were being sent back to the sender
-  with a yellow forwarding sticker advising the sender that Hospitality House had
-  a new address in Renton (we do not), but the address was invalid, so it went back
-  to the sender. Sending cash/check donations to the PO Box means everyone can rest
-  assured that we will continue to receive their donations toward providing home,
-  health, and hope!\n\n**Q:** Can Amazon Wish List items be sent to the PO Box?\n\n**A:**
-  No need! Since Amazon packages don’t get delivered through USPS, we haven’t had
-  an issue receiving them. We also have a camera at our entry so we know when packages
-  arrive. All tangible donations should still be sent to our physical address.\n\n**Q:**
-  Does this mean you’ll no longer receive mail to your physical address (1419 SW 150th
-  St)?\n\n**A:** No, the mailbox for our physical address will still be checked regularly.
-  There are no plans for this to change, as our residents receive mail here & this
-  is where we receive tangible donations!\n\n**Q:** Will you still accept a donation
-  of cash or check if I bring it to your office?\n\n**A:** Of course! Please bring
-  donations to the staff or volunteer in the office. If the office door is closed,
-  knock or slide it under the door! Please ask the name of whoever you hand your donation
-  to so we know who received it.\n\n![\U0001F3E1](https://static.xx.fbcdn.net/images/emoji.php/v9/t16/2/16/1f3e1.png)
-  **Physical Address (still the same!):**\n\n    1419 SW 150th St,\n    Burien, WA
-  98166\n\n![\U0001F4EB](https://static.xx.fbcdn.net/images/emoji.php/v9/t8/2/16/1f4eb.png)
-  **PO Box for cash/check donations:**\n\nPO Box 236  \nSeahurst, WA 98062\n\nEmail
-  olivia@hospitalityhousesouthking.org with questions ![\U0001F49A](https://static.xx.fbcdn.net/images/emoji.php/v9/t33/2/16/1f49a.png)"
+original_markdown_body: "![](https://hospitalityhousesouthking.org/wp-content/uploads/2025/07/Dear-1.png)\n\n**FAQ**![\U0001F64B‍♀](https://static.xx.fbcdn.net/images/emoji.php/v9/t89/2/16/1f64b_200d_2640.png)\n\n**Q:** Why does Hospitality House need a PO Box?\n\n**A:** During the Spring we became aware that we were not receiving mail. Pieces were being sent back to the sender with a yellow forwarding sticker advising the sender that Hospitality House had a new address in Renton (we do not), but the address was invalid, so it went back to the sender. Sending cash/check donations to the PO Box means everyone can rest assured that we will continue to receive their donations toward providing home, health, and hope!\n\n**Q:** Can Amazon Wish List items be sent to the PO Box?\n\n**A:** No need! Since Amazon packages don’t get delivered through USPS, we haven’t had an issue receiving them. We also have a camera at our entry so we know when packages arrive. All tangible donations should still be sent to our physical address.\n\n**Q:** Does this mean you’ll no longer receive mail to your physical address (1419 SW 150th St)?\n\n**A:** No, the mailbox for our physical address will still be checked regularly. There are no plans for this to change, as our residents receive mail here & this is where we receive tangible donations!\n\n**Q:** Will you still accept a donation of cash or check if I bring it to your office?\n\n**A:** Of course! Please bring donations to the staff or volunteer in the office. If the office door is closed, knock or slide it under the door! Please ask the name of whoever you hand your donation to so we know who received it.\n\n![\U0001F3E1](https://static.xx.fbcdn.net/images/emoji.php/v9/t16/2/16/1f3e1.png) **Physical Address (still the same!):**\n\n    1419 SW 150th St,\n    Burien, WA 98166\n\n![\U0001F4EB](https://static.xx.fbcdn.net/images/emoji.php/v9/t8/2/16/1f4eb.png) **PO Box for cash/check donations:**\n\nPO Box 236  \nSeahurst, WA 98062\n\nEmail olivia@hospitalityhousesouthking.org with questions ![\U0001F49A](https://static.xx.fbcdn.net/images/emoji.php/v9/t33/2/16/1f49a.png)"
 summarized: true
 topics:
 - Community & Social Services
 - Food & Nutrition
 - Shelter & Housing
+images:
+- af471ff41507ffb7662e9269908ca9272f071a04621528c355a89acc98809224
+- a8446325f11a6240beb3cfc940cdb43be8ee405d24900f89d2c6460f85df0989
+- 5f3eae6314149e6c872ce59ea1cb2fdee2baf8738f06db95ecfb0c1dd282671a
+- 2f8220aa61043e736a9a1728ad79dce17bcccf400ccd3d444967eaf62cc1f44f
+- bcee69336b29745efacb2fd48934665c4f57b95830b3748e4e2aa9a6ade33b32
 ---
 
 Hospitality House has established a PO Box for cash and check donations due to issues with mail delivery. In the spring, mail was being returned to senders with a forwarding sticker indicating an incorrect new address in Renton, which is not valid. The PO Box ensures continuous receipt of donations for their mission of providing home, health, and hope. Amazon Wish List items do not need to be sent to the PO Box, as they are delivered directly to the physical address without issues. The physical address at 1419 SW 150th St, Burien, WA, will still be regularly checked for mail and tangible donations, as residents receive mail there. Donations can also be made in person at the office. If the office door is closed, donors may knock or slide their donations under the door and should ask for the name of the staff member receiving the donation for record-keeping. The PO Box address for cash/check donations is PO Box 236, Seahurst, WA 98062. Questions can be directed to olivia@hospitalityhousesouthking.org.

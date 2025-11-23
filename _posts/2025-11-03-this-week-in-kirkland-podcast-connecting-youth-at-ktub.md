@@ -151,6 +151,8 @@ topics:
 - Education & Learning
 - Mental Health & Counseling
 - Community & Social Services
+images:
+- 5657735786d51fa130e71b72eb32539a3fec390be7bdde286d61445e9aadd283
 ---
 
 Katelyn Mullinkin, a YES Counselor at the Kirkland Teen Union Building (KTUB), was featured on the City of Kirkland’s “This Week in Kirkland” podcast. The episode highlights the importance of KTUB as a free after-school drop-in center dedicated to teens, providing a safe space for them to socialize, learn, and access mental health support. Mullinkin emphasizes that not all teens feel comfortable seeking help in traditional settings like clinics or schools, making KTUB's informal environment crucial for accessibility.

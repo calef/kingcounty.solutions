@@ -19,6 +19,9 @@ topics:
 - Health Care
 - Food & Nutrition
 - Shelter & Housing
+images:
+- 68fc701a8e07ba3de475750dc7f1e46d389f5729e55ba7b9a49a2284c806f3b3
+- de90c35df0e08e3ea6b68867b05c66a6f3072da7498f825ac27f6ae76bfbba12
 ---
 
 WA 211 has announced the selection of a new statewide call center aimed at improving access to essential services for Washington residents. This initiative is part of a broader effort to streamline assistance and provide support for individuals in need. The call center will serve as a centralized resource for information on various services, including housing, healthcare, and food assistance. The decision to establish this call center reflects a commitment to enhancing service delivery and ensuring that residents can easily find the help they require. With this initiative, WA 211 aims to foster a more connected community and provide timely support to those facing challenges. The center will be operational soon, with trained staff ready to assist callers and guide them to the appropriate resources. This development is expected to significantly improve the efficiency of service provision in the state and address the pressing needs of its residents.

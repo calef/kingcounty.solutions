@@ -124,81 +124,7 @@ original_content: |-
 
   <p></p>
   <p>The post <a href="https://youthcare.org/blog/connections-november-25/">CONNECTIONS &#8211; November 25</a> appeared first on <a href="https://youthcare.org">YouthCare</a>.</p>
-original_markdown_body: "![](https://i0.wp.com/youthcare.org/wp-content/uploads/2025/10/Connections-in-blk.png?resize=825%2C122&ssl=1)\n\n**We’re
-  on a Mission to Save our Shelters**\n\nMy name is Jose Pizarro, and I serve as the
-  Interim Program Director at YouthCare, where I’ve helped young people build stability
-  and take their first steps toward independence for over a decade. For me, this work
-  is deeply personal. As an immigrant who once faced homelessness myself, I know what
-  it feels like to start with nothing, scared and alone, and fighting to survive in
-  a system not designed for people like me. &nbsp;In some ways, that’s where YouthCare
-  finds itself today. And that’s why I’m reaching out to you with a heartfelt plea
-  for help.&nbsp;\n\nEvery night, hundreds of young people sleep outside on the streets
-  of Seattle huddled under overpasses, in doorways, or in makeshift tents, trying
-  to stay warm and dry as relentless rain soaks through their clothes. As winter approaches,
-  survival becomes a battle against the elements. For many, each night without shelter
-  is a test of endurance no one should ever have to face. And for decades, YouthCare
-  has been a constant in the storm—a dependable and critical part of the solution
-  that says: that test is over.&nbsp;\n\n**Here’s the truth: Our shelters and life-changing
-  services, and the futures of the youth who depend on them, rest in the hands of
-  people like you who refuse to look away.&nbsp;**\n\nYour gift today, no matter the
-  amount, symbolizes refuge from the storm. It’s a bed for a 12-year-old who hasn’t
-  slept indoors in weeks. It’s a hot meal for someone who hasn’t felt full in days.
-  It’s a steady, compassionate presence that helps a young person believe in a future
-  for themselves.\n\nThank you for standing with us and believing in our youth.&nbsp;\n\nWith
-  gratitude,&nbsp;\n\nJose Pizarro&nbsp;  \nInterim Program Director, YouthCare\n\n[Donate
-  Today](https://youthcare.org/donate/)\n\n**A 15 Year Old’s Journey in Our Adolescent
-  Shelter**\n\nWhen 15-year-old Carrie arrived at one of YouthCare’s shelters in May,
-  she arrived carrying more than the contents of her backpack. She had been carrying
-  the tremendous weight of years of housing instability, sharing with us during intake
-  that the last time she felt truly safe and stable at home was when she was 7 years
-  old.&nbsp;\n\nCarrie’s home life had long been unpredictable and unsafe. Her mom
-  was battling addiction and serious health challenges, and over time, her mom became
-  abusive—sometimes physically, and often verbally and emotionally. For Carrie, every
-  day felt like a challenge to stay out of the line of fire and find a moment of peace.
-  By the time she arrived at YouthCare, she had been in and out of her home more than
-  a dozen times, often with nowhere safe to go. She felt anything was better than
-  going home.&nbsp;\n\nThe weight of her past showed up in many ways: anxiety, depression,
-  symptoms of PTSD, and the deep exhaustion that comes from years of instability.
-  She had stopped taking her behavioral health medications, fallen behind in school,
-  and struggled with self-care. At YouthCare, she began to rebuild. With support from
-  her case manager, she reconnected with a doctor and a therapist, restarted her medications,
-  and got up to date on medical, dental, and vision care. For the first time in years,
-  Carrie began to feel cared, and capable of caring for herself. She enrolled in summer
-  and online classes, determined to catch up and move forward on her own terms.&nbsp;&nbsp;\n\nAs
-  Carrie regained her footing, YouthCare’s team began working closely with her and
-  her mom toward a shared goal: rebuilding trust and creating a safer home for her
-  to return to. Through family counseling and gradual overnight visits, both took
-  courageous steps toward healing and reunification. By August, just three months
-  after Carrie arrived, she and her mom found themselves in a place where hope felt
-  possible again, and they were ready for a fresh start.&nbsp;\n\nOn August 10, Carrie
-  packed her things—not because she had to leave, but because she finally had somewhere
-  safe to return to. &nbsp;\n\nCarrie’s story is one of many that remind us what’s
-  possible when young people are met with safety, compassion, and opportunity. With
-  YouthCare’s support, Carrie found healing, stability, confidence, and the courage
-  to find a path forward.&nbsp;\n\n(Client’s name has been changed to protect their
-  privacy)\n\n**Some Volunteers Work Behind the Scenes**\n\nNot all volunteers can
-  be seen helping out so this month we would like to recognize an amazing group of
-  volunteers who deliver meals to the Orion center and our Isis and James Place housing
-  programs. Be it an individual or a food-related company, up to five days a week,
-  52 weeks a year, meals are being carefully planned and delivered so our young people
-  have access to fresh food. Please join us in thanking these amazing volunteers who
-  quietly go about their days, supporting our youth.\n\nWould you like to help our
-  young people by serving or delivering meals to them? To learn more, visit our website
-  [**HERE**](https://youthcare.org/individual-volunteer-opportunities/) and join our
-  unsung heroes today!\n\n**Thank You City of Seattle&nbsp;**\n\nYouthCare was awarded
-  a City of Seattle Certificate of Appreciation this month. This award was presented
-  at the 2025 DV Awareness Month Event, at the Bertha Knight Landes Room in City Hall
-  on Tuesday, October 28, 2025, in recognition of our agency’s exemplary partnership
-  and steadfast commitment in supporting survivors of gender-based violence and their
-  families.\n\nWe are grateful to the City for recognizing the amazing work that our
-  program staff provide to these vulnerable young people.\n\n**Winter Items Now Needed**\n\nAs
-  winter approaches, the needs of our young people increase. Here is a list of high
-  need supplies for our clients during this upcoming cold season. Donations can be
-  made through our Amazon Wishlist [**HERE**](https://www.amazon.com/hz/wishlist/ls/ZLNKQ0G9EP8R)
-  or delivered to our Admin office located at 2500 NE 54th Street in the University
-  district.\n\nTents, Sleeping bags, Blankets, Winter coats, Gloves, Beanies, Socks/thick
-  socks, Raincoats, and Ponchos\n\nThe post [CONNECTIONS – November 25](https://youthcare.org/blog/connections-november-25/)
-  appeared first on [YouthCare](https://youthcare.org)."
+original_markdown_body: "![](https://i0.wp.com/youthcare.org/wp-content/uploads/2025/10/Connections-in-blk.png?resize=825%2C122&ssl=1)\n\n**We’re on a Mission to Save our Shelters**\n\nMy name is Jose Pizarro, and I serve as the Interim Program Director at YouthCare, where I’ve helped young people build stability and take their first steps toward independence for over a decade. For me, this work is deeply personal. As an immigrant who once faced homelessness myself, I know what it feels like to start with nothing, scared and alone, and fighting to survive in a system not designed for people like me. &nbsp;In some ways, that’s where YouthCare finds itself today. And that’s why I’m reaching out to you with a heartfelt plea for help.&nbsp;\n\nEvery night, hundreds of young people sleep outside on the streets of Seattle huddled under overpasses, in doorways, or in makeshift tents, trying to stay warm and dry as relentless rain soaks through their clothes. As winter approaches, survival becomes a battle against the elements. For many, each night without shelter is a test of endurance no one should ever have to face. And for decades, YouthCare has been a constant in the storm—a dependable and critical part of the solution that says: that test is over.&nbsp;\n\n**Here’s the truth: Our shelters and life-changing services, and the futures of the youth who depend on them, rest in the hands of people like you who refuse to look away.&nbsp;**\n\nYour gift today, no matter the amount, symbolizes refuge from the storm. It’s a bed for a 12-year-old who hasn’t slept indoors in weeks. It’s a hot meal for someone who hasn’t felt full in days. It’s a steady, compassionate presence that helps a young person believe in a future for themselves.\n\nThank you for standing with us and believing in our youth.&nbsp;\n\nWith gratitude,&nbsp;\n\nJose Pizarro&nbsp;  \nInterim Program Director, YouthCare\n\n[Donate Today](https://youthcare.org/donate/)\n\n**A 15 Year Old’s Journey in Our Adolescent Shelter**\n\nWhen 15-year-old Carrie arrived at one of YouthCare’s shelters in May, she arrived carrying more than the contents of her backpack. She had been carrying the tremendous weight of years of housing instability, sharing with us during intake that the last time she felt truly safe and stable at home was when she was 7 years old.&nbsp;\n\nCarrie’s home life had long been unpredictable and unsafe. Her mom was battling addiction and serious health challenges, and over time, her mom became abusive—sometimes physically, and often verbally and emotionally. For Carrie, every day felt like a challenge to stay out of the line of fire and find a moment of peace. By the time she arrived at YouthCare, she had been in and out of her home more than a dozen times, often with nowhere safe to go. She felt anything was better than going home.&nbsp;\n\nThe weight of her past showed up in many ways: anxiety, depression, symptoms of PTSD, and the deep exhaustion that comes from years of instability. She had stopped taking her behavioral health medications, fallen behind in school, and struggled with self-care. At YouthCare, she began to rebuild. With support from her case manager, she reconnected with a doctor and a therapist, restarted her medications, and got up to date on medical, dental, and vision care. For the first time in years, Carrie began to feel cared, and capable of caring for herself. She enrolled in summer and online classes, determined to catch up and move forward on her own terms.&nbsp;&nbsp;\n\nAs Carrie regained her footing, YouthCare’s team began working closely with her and her mom toward a shared goal: rebuilding trust and creating a safer home for her to return to. Through family counseling and gradual overnight visits, both took courageous steps toward healing and reunification. By August, just three months after Carrie arrived, she and her mom found themselves in a place where hope felt possible again, and they were ready for a fresh start.&nbsp;\n\nOn August 10, Carrie packed her things—not because she had to leave, but because she finally had somewhere safe to return to. &nbsp;\n\nCarrie’s story is one of many that remind us what’s possible when young people are met with safety, compassion, and opportunity. With YouthCare’s support, Carrie found healing, stability, confidence, and the courage to find a path forward.&nbsp;\n\n(Client’s name has been changed to protect their privacy)\n\n**Some Volunteers Work Behind the Scenes**\n\nNot all volunteers can be seen helping out so this month we would like to recognize an amazing group of volunteers who deliver meals to the Orion center and our Isis and James Place housing programs. Be it an individual or a food-related company, up to five days a week, 52 weeks a year, meals are being carefully planned and delivered so our young people have access to fresh food. Please join us in thanking these amazing volunteers who quietly go about their days, supporting our youth.\n\nWould you like to help our young people by serving or delivering meals to them? To learn more, visit our website [**HERE**](https://youthcare.org/individual-volunteer-opportunities/) and join our unsung heroes today!\n\n**Thank You City of Seattle&nbsp;**\n\nYouthCare was awarded a City of Seattle Certificate of Appreciation this month. This award was presented at the 2025 DV Awareness Month Event, at the Bertha Knight Landes Room in City Hall on Tuesday, October 28, 2025, in recognition of our agency’s exemplary partnership and steadfast commitment in supporting survivors of gender-based violence and their families.\n\nWe are grateful to the City for recognizing the amazing work that our program staff provide to these vulnerable young people.\n\n**Winter Items Now Needed**\n\nAs winter approaches, the needs of our young people increase. Here is a list of high need supplies for our clients during this upcoming cold season. Donations can be made through our Amazon Wishlist [**HERE**](https://www.amazon.com/hz/wishlist/ls/ZLNKQ0G9EP8R) or delivered to our Admin office located at 2500 NE 54th Street in the University district.\n\nTents, Sleeping bags, Blankets, Winter coats, Gloves, Beanies, Socks/thick socks, Raincoats, and Ponchos\n\nThe post [CONNECTIONS – November 25](https://youthcare.org/blog/connections-november-25/) appeared first on [YouthCare](https://youthcare.org)."
 summarized: true
 topics:
 - Shelter & Housing
@@ -206,6 +132,8 @@ topics:
 - Food & Nutrition
 - Mental Health & Counseling
 - Domestic Violence
+images:
+- 52e0f681cdef4c723a5e1f0e133c60447796ca20fe3ac2f34bfc26edd96a3766
 ---
 
 Jose Pizarro, Interim Program Director at YouthCare, shares a personal plea for support as winter approaches, highlighting the plight of hundreds of young people in Seattle experiencing homelessness. Many sleep outside in harsh conditions, and YouthCare has long been a vital resource for these youth, providing shelter and life-changing services. Donations are crucial for continuing this support, symbolizing hope and security for those in need.

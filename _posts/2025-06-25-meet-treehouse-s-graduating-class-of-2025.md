@@ -152,6 +152,17 @@ summarized: true
 topics:
 - Education & Learning
 - Community & Social Services
+images:
+- cf3d1de8eea4c90fbf5c4969f22562699486886f39a238282183621ca0b46934
+- 18c3ba05c9aa5b5f35afd2f58d685f16d271d7bcaa7fa0ecb8db3a625b30eb88
+- 758b20b9cc2b2a645423cbe348f4cc08a3695278b6bd69657f6d059ed1350042
+- 689fc44e4b83ee325ac9641a5ca952ec98c147c50d1c8eada000f7b8f818d382
+- 9c8bc1fcae296323e3225fd05ed0b92626c5137721f4afd9c0bba2308e84d8f4
+- a5ff5f27f51a1ac87bdaabe5de4ad7cd5086af4d83441bf370803b46f590939a
+- 9865613a86d5a6e34519f1ae8f29368e500a30110d600169501246fab8f861ca
+- 6d68238abcdc8702df96cb48c96378e561b47a2716cabd553276abcca3a477df
+- 628600d1c903e9ddd7d93ff448b5a8f86be27b59d26e4d2cf6f25eb0f1750b50
+- 0dc39ca37737fb6e972ce5c01b109947694f3fba6332c2a7adb141cab50cb854
 ---
 
 Treehouse is proud to celebrate over 140 students in foster care graduating from high school, obtaining their GED, or completing apprenticeships in 2025. Education is a vital part of Treehouse’s mission, as it helps these youths achieve long-term stability and independence. The Graduation Success program provides one-on-one support to facilitate academic progress. Graduates share their experiences and aspirations: 

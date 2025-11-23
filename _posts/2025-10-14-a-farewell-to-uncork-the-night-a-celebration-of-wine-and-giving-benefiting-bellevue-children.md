@@ -1,6 +1,5 @@
 ---
-title: A Farewell to Uncork the Night | A Celebration of Wine and Giving Benefiting
-  Bellevue Children
+title: A Farewell to Uncork the Night | A Celebration of Wine and Giving Benefiting Bellevue Children
 date: '2025-10-14T20:53:58+00:00'
 source: Bellevue LifeSpring
 source_url: https://www.bellevuelifespring.org/general/a-farewell-to-uncork-the-night/?utm_source=rss&utm_medium=rss&utm_campaign=a-farewell-to-uncork-the-night
@@ -127,6 +126,14 @@ topics:
 - Community & Social Services
 - Food & Nutrition
 - Shelter & Housing
+images:
+- b05d113b785ce0b9818eefec365a25f0554f3e3aee50716ed378222091618d8b
+- 850338a97cef4fd8ebd8262107564706040b4e3675e4357bbaea634cff1b1b78
+- c5fe4b90ae06d700432e1fc5bdfb62393d8008f69a7a5d5340d2a0802bb3a6d1
+- 8dcd0561e476784ee6feb584465d8a815d6f04707371a3ffdec2123b46acb4c6
+- 9593918b47dd330bc4362869b5bfb34150f8d62664bfcc38f239c50b84abf0bb
+- 52a5955439a206516d08392fc271549b44c77db8333466d14c25281bd54cbc2a
+- 8172181a6a453477d75fd0cb23893f967f37aa3c7fb5edb43681ffdb232eb2d4
 ---
 
 On October 4, the final Uncork the Night gala was held, celebrating wine and giving while bringing together neighbors and friends. The event featured tastings from local wineries and a lively auction, generating nearly $500,000 to help break the cycle of poverty for Bellevue families and provide essential resources for children to succeed. Over its two-decade history, Uncork the Night evolved from a love of wine into a meaningful community tradition centered on compassion and support. The farewell gathering reflected on the legacy of the event and highlighted the ongoing mission to create brighter futures for children and families facing hunger and homelessness. Gratitude was expressed to the 2025 event sponsors, including Amazon and The Bellevue Collection, for their support in making the evening possible. The organization also recognized the contributions of community members, local businesses, and donors who have made Uncork the Night impactful. Although the event has concluded, the commitment to making a difference continues, with plans to explore new ways to support the mission and uplift every child in the community.

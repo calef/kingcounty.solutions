@@ -150,69 +150,16 @@ original_content: |-
 
   <p></p>
   <p>The post <a href="https://www.brightspark.org/2025/11/invest-in-kids-invest-in-communities-and-its-working/">Invest in Kids, Invest in Communities — and It’s Working</a> appeared first on <a href="https://www.brightspark.org">BrightSpark</a>.</p>
-original_markdown_body: "![](https://www.brightspark.org/wp-content/uploads/2025/11/Fund-Dev-Newsletter-Banners-5.png
-  \"Fund Dev Newsletter Banners (5)\")\n\n### **Invest in Kids, Invest in Communities:
-  \ \n_A Win for Access and Advocacy in Early Learning_**  \n\nWe’re celebrating a
-  big win for families and early learners across Seattle!  \n  \nThis fall, Seattle
-  voters overwhelmingly approved the renewal and expansion of the [Family, Education,
-  Preschool, and Promise (FEPP) Levy](https://www.brightspark.org/2025/11/capitol-courier-its-time-to-celebrate/)
-  , also known as Proposal 1, with a remarkable 77% support rate.  \n  \nThat means
-  thousands more children will have access to high-quality, affordable early learning
-  through the [Seattle Preschool Program (SPP)](https://www.brightspark.org/seattle-preschool-program/),
-  a key initiative funded through the FEPP Levy and program offered at BrightSpark.
-  Over the next seven years, this investment will provide preschool access to 3,000
-  children from low-income families and continue to support the providers who make
-  it all possible through child care subsidies and staff retention payments.  \n  \nThis
-  victory didn’t happen on its own. It’s the result of tireless advocacy and community
-  partnership. From families sharing their stories to early educators showing up for
-  policy conversations, these collective voices helped shape public understanding
-  of why access to child care and preschool matters for everyone.\n\n[Keep the Momentum
-  Going! Donate Today!](https://bit.ly/4oCHqgm)\n\n![](https://www.brightspark.org/wp-content/uploads/2025/11/SPP-Quotes-4-1024x576.png
-  \"SPP Quotes (4)\")\n\n> > _“As a provider and teacher, my experience with the SPP
-  program has been extremely enriching. **This support has allowed me to offer families
-  in my community a**  **high-quality preschool program that is accessible to all,
-  regardless of their economic situation.** It is very important to me to be able
-  to guarantee an educational environment that fosters meaningful learning, creativity,
-  and the social and emotional development of children. **Thanks to the SPP grant**
-  , I am able to maintain a trained staff, quality materials, and an environment that
-  inspires curiosity and a love of learning. Being able to provide these opportunities
-  to families is one of the reasons I love what I do.”_ **-Fabiola, Early Learning
-  Provider**\n\nWhen you donate to BrightSpark, you fund this kind of advocacy work
-  AND your support helps parents and providers raise their voices, influence local
-  policy, and protect programs like SPP that make high-quality child care possible
-  for working families.  \n  \nBecause when we invest in kids, we invest in communities
-  and that’s how change takes root. **Help us keep up the momentum!** Your gift today
-  sustains advocacy, partnerships, and programs that expand access to child care and
-  strengthen our communities.\n\n[Donate Now to Invest in Kids and Communities](https://bit.ly/4oCHqgm)\n\n![](https://www.brightspark.org/wp-content/uploads/2025/11/SPP-Quotes-3-1024x576.png
-  \"SPP Quotes (3)\")\n\n> _“As a mom, my experience having my daughter Simone in
-  the SPP program has been incredibly positive. I have seen her curiosity, creativity,
-  and ability to express herself grow so much since she started preschool. It makes
-  me so happy to see her excited every morning to go to school, spend time with her
-  classmates, and learn new things. **Thanks to the SPP subsidy, I have been able
-  to provide her with a high-quality program that would have been difficult to access
-  otherwise.** It means so much to me to know that Simone is in a place where she
-  feels safe, supported, and motivated to grow.”_ **-Elisabeth, SPP Parent**\n\nTogether,
-  we can make sure every child has the opportunity to learn, grow, and thrive, starting
-  with access to early learning.\n\nThank you for standing with us,  \n**The BrightSpark
-  Team**\n\n![](https://www.brightspark.org/wp-content/uploads/2025/11/We-are-all-here-for-the-same-reasons-—-we-all-love-our-children-we-all-love-our-communities-and-we-all-love-our-country.-—-Alexis-Cortes-1024x1024.png
-  \"“We are all here for the same reasons — we all love our children, we all love
-  our communities, and we all love our country.” — Alexis Cortes\")\n\n## Sneak Peek!\n\nLater
-  this month, we’ll share how one BrightSpark parent, Alexis Cortes, turned her personal
-  journey into powerful advocacy at the local and national level.\n\n[Click Here To
-  Read Her Story!](https://www.brightspark.org/2025/09/advocate-spotlight-alexis-cortes/)\n\n**Follow
-  Along on Social Media For Updates!**\n\nBrightSpark accepts donations in many forms:
-  cash, credit cards, fund transfers, checks, money orders, stocks, bonds, mutual
-  funds, donor-advised funds, and more! If you have any questions or would like more
-  information on ways to give, please get in touch with our fund development department
-  at&nbsp;[getinvolved@childcare.org](mailto:getinvolved@childcare.org).\n\n![](https://www.brightspark.org/wp-content/uploads/2025/10/Thank-you-to-our-sponsors-Blog-Banner-2-1024x576.png)\n\n[Make
-  A Donation Today!](https://bit.ly/4oCHqgm)\n\n_All photos on this email are credited
-  to ©LisaBontjePhotography_\n\nThe post [Invest in Kids, Invest in Communities —
-  and It’s Working](https://www.brightspark.org/2025/11/invest-in-kids-invest-in-communities-and-its-working/)
-  appeared first on [BrightSpark](https://www.brightspark.org)."
+original_markdown_body: "![](https://www.brightspark.org/wp-content/uploads/2025/11/Fund-Dev-Newsletter-Banners-5.png \"Fund Dev Newsletter Banners (5)\")\n\n### **Invest in Kids, Invest in Communities:  \n_A Win for Access and Advocacy in Early Learning_**  \n\nWe’re celebrating a big win for families and early learners across Seattle!  \n  \nThis fall, Seattle voters overwhelmingly approved the renewal and expansion of the [Family, Education, Preschool, and Promise (FEPP) Levy](https://www.brightspark.org/2025/11/capitol-courier-its-time-to-celebrate/) , also known as Proposal 1, with a remarkable 77% support rate.  \n  \nThat means thousands more children will have access to high-quality, affordable early learning through the [Seattle Preschool Program (SPP)](https://www.brightspark.org/seattle-preschool-program/), a key initiative funded through the FEPP Levy and program offered at BrightSpark. Over the next seven years, this investment will provide preschool access to 3,000 children from low-income families and continue to support the providers who make it all possible through child care subsidies and staff retention payments.  \n  \nThis victory didn’t happen on its own. It’s the result of tireless advocacy and community partnership. From families sharing their stories to early educators showing up for policy conversations, these collective voices helped shape public understanding of why access to child care and preschool matters for everyone.\n\n[Keep the Momentum Going! Donate Today!](https://bit.ly/4oCHqgm)\n\n![](https://www.brightspark.org/wp-content/uploads/2025/11/SPP-Quotes-4-1024x576.png \"SPP Quotes (4)\")\n\n> > _“As a provider and teacher, my experience with the SPP program has been extremely enriching. **This support has allowed me to offer families in my community a**  **high-quality preschool program that is accessible to all, regardless of their economic situation.** It is very important to me to be able to guarantee an educational environment that fosters meaningful learning, creativity, and the social and emotional development of children. **Thanks to the SPP grant** , I am able to maintain a trained staff, quality materials, and an environment that inspires curiosity and a love of learning. Being able to provide these opportunities to families is one of the reasons I love what I do.”_ **-Fabiola, Early Learning Provider**\n\nWhen you donate to BrightSpark, you fund this kind of advocacy work AND your support helps parents and providers raise their voices, influence local policy, and protect programs like SPP that make high-quality child care possible for working families.  \n  \nBecause when we invest in kids, we invest in communities and that’s how change takes root. **Help us keep up the momentum!** Your gift today sustains advocacy, partnerships, and programs that expand access to child care and strengthen our communities.\n\n[Donate Now to Invest in Kids and Communities](https://bit.ly/4oCHqgm)\n\n![](https://www.brightspark.org/wp-content/uploads/2025/11/SPP-Quotes-3-1024x576.png \"SPP Quotes (3)\")\n\n> _“As a mom, my experience having my daughter Simone in the SPP program has been incredibly positive. I have seen her curiosity, creativity, and ability to express herself grow so much since she started preschool. It makes me so happy to see her excited every morning to go to school, spend time with her classmates, and learn new things. **Thanks to the SPP subsidy, I have been able to provide her with a high-quality program that would have been difficult to access otherwise.** It means so much to me to know that Simone is in a place where she feels safe, supported, and motivated to grow.”_ **-Elisabeth, SPP Parent**\n\nTogether, we can make sure every child has the opportunity to learn, grow, and thrive, starting with access to early learning.\n\nThank you for standing with us,  \n**The BrightSpark Team**\n\n![](https://www.brightspark.org/wp-content/uploads/2025/11/We-are-all-here-for-the-same-reasons-—-we-all-love-our-children-we-all-love-our-communities-and-we-all-love-our-country.-—-Alexis-Cortes-1024x1024.png \"“We are all here for the same reasons — we all love our children, we all love our communities, and we all love our country.” — Alexis Cortes\")\n\n## Sneak Peek!\n\nLater this month, we’ll share how one BrightSpark parent, Alexis Cortes, turned her personal journey into powerful advocacy at the local and national level.\n\n[Click Here To Read Her Story!](https://www.brightspark.org/2025/09/advocate-spotlight-alexis-cortes/)\n\n**Follow Along on Social Media For Updates!**\n\nBrightSpark accepts donations in many forms: cash, credit cards, fund transfers, checks, money orders, stocks, bonds, mutual funds, donor-advised funds, and more! If you have any questions or would like more information on ways to give, please get in touch with our fund development department at&nbsp;[getinvolved@childcare.org](mailto:getinvolved@childcare.org).\n\n![](https://www.brightspark.org/wp-content/uploads/2025/10/Thank-you-to-our-sponsors-Blog-Banner-2-1024x576.png)\n\n[Make A Donation Today!](https://bit.ly/4oCHqgm)\n\n_All photos on this email are credited to ©LisaBontjePhotography_\n\nThe post [Invest in Kids, Invest in Communities — and It’s Working](https://www.brightspark.org/2025/11/invest-in-kids-invest-in-communities-and-its-working/) appeared first on [BrightSpark](https://www.brightspark.org)."
 summarized: true
 topics:
 - Education & Learning
 - Community & Social Services
+images:
+- 9c9cd3fdcca6992272f91cf73818136b0d0f5ae00ba02d28756c3559eb7a524a
+- 545762cd475aeccf14e2e38005a1af20143902d788ceadc0a92d2b7e504d860c
+- d698be558ccbe56086e51b18cc1aac223378e7092d2bb969a4c4ec89954da52c
+- f0a13e33bdc2e10cc6ba5b69c3dafd18f73fb8add88c6b072ec4ebc76e9cb8a2
 ---
 
 Seattle voters recently approved the renewal and expansion of the Family, Education, Preschool, and Promise (FEPP) Levy with a remarkable 77% support. This initiative will enhance access to high-quality, affordable early learning through the Seattle Preschool Program (SPP), providing preschool for 3,000 children from low-income families over the next seven years. The success of this initiative is attributed to strong community advocacy, with families and early educators playing pivotal roles in shaping public understanding of the importance of accessible child care and preschool.

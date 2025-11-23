@@ -111,6 +111,11 @@ topics:
 - Education & Learning
 - Community & Social Services
 - Transportation & Mobility
+images:
+- 92e270e672ab2dbf5aaf33923357a7bd45a1034fee8100ec3217899e3b5a8a9f
+- 6d7788f82593ed33972a04247500eb701f08321191be155d44e1c9241ab89105
+- a1a4c11a22d8f679c2dbaf46b6d6cec5c0a72e10f99ac874278e5c42c41b117b
+- f8d3916f311e128f951f6e72060d4e69b878ef4b0ac39adda1e180edde9ece82
 ---
 
 A recent experience transformed a young girl's perspective on cycling and urban infrastructure. After attending the Black Girls Bike camp, presented by Young Women Empowered in partnership with Bike Works, a 13-year-old girl expressed her desire for more protected bike lanes in her neighborhood. This shift in attitude resulted from her firsthand experience biking in South Seattle, leading her to understand the impact of urban design on safety and accessibility. The article emphasizes the importance of youth bike camps and education programs in fostering future advocates for cycling. Research indicates that young people who engage in active transportation are more likely to continue doing so into adulthood. Bike Works is set to host three more camps this summer and will resume its bike education programs in local high schools in the fall. The initiative aims to inspire more children to embrace cycling, contributing to a safer and more bike-friendly Seattle. The call for donations supports the ongoing development of these programs, which have already impacted thousands of young cyclists.

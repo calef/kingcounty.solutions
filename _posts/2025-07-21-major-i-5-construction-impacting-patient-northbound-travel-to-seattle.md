@@ -61,6 +61,8 @@ summarized: true
 topics:
 - Health Care
 - Transportation & Mobility
+images:
+- 9c96cfc1f939b3b71dedceb446f29fd72786da31b4f73ed088505edf03f12578
 ---
 
 Significant delays are expected for PacMed patients traveling north to Seattle due to ongoing construction on the I-5 Ship Canal Bridge. The northbound Express Lanes will be closed for four weeks, leading to major traffic backups during peak hours. As of July 21, 2025, delays reached 45 minutes, with congestion extending back to the Mountlake Terrace exit by midday. This construction phase is set to last until August 15. Additionally, a southbound I-5 closure is planned for Fall/Winter 2025 as part of the Revive I-5 Ship Canal Bridge Preservation Project, which will continue through 2027. Patients are advised to allow extra travel time for appointments, consider alternate routes or public transit, and reschedule non-urgent visits if necessary. PacMed emphasizes the importance of health and time, thanking patients for their patience during this period.

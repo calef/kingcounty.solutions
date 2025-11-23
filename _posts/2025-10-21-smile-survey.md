@@ -139,6 +139,8 @@ summarized: true
 topics:
 - Health Care
 - Education & Learning
+images:
+- b1cd041b1aa14c28a44859f1fd596e61e6eee08f81742675825d431d1f945d05
 ---
 
 The Washington Smile Survey 2023–2024 is a collaborative effort involving the Washington State Department of Health, the Office of Superintendent of Public Instruction, local health jurisdictions, and oral health professionals, supported by the Arcora Foundation. Conducted every five years, this survey provides an in-depth analysis of children's oral health in Washington. 

@@ -1,6 +1,5 @@
 ---
-title: 'Sharper, straighter, stiffer, stronger: Male green hermit hummingbirds have
-  bills evolved for fighting'
+title: 'Sharper, straighter, stiffer, stronger: Male green hermit hummingbirds have bills evolved for fighting'
 date: '2025-11-21T17:51:10+00:00'
 source: University of Washington
 source_url: https://www.washington.edu/news/2025/11/21/sharper-straighter-stiffer-stronger-male-green-hermit-hummingbirds-have-bills-evolved-for-fighting/
