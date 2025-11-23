@@ -7,6 +7,7 @@
 
 ## Build, Test, and Development Commands
 - `script/bootstrap` — preferred entry point; installs Ruby/Bundler via mise helpers and runs `bundle install`.
+- Toolchains are managed with `mise`; if you open a new shell run `mise exec ruby@$(cat .ruby-version) -- <command>` (or source its activation line) so Ruby/Bundler versions match `.ruby-version`/`.bundler-version`.
 - `script/server` — wraps `bundle exec jekyll serve --livereload` so you can preview at `http://127.0.0.1:4000`.
 - `script/cibuild` — invokes `bundle exec jekyll build` plus any future CI checks; run locally before PRs.
 - `bin/import-rss-news` — pulls latest partner news into `_posts/`. Delete a post’s `original_content` to force re-import.
