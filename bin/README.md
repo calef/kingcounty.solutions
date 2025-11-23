@@ -9,6 +9,7 @@ Utility commands that automate content imports, auditing, and metadata maintenan
 | `audit-organization-topics` | Uses OpenAI to reconcile each organization’s topics against recent news coverage and optionally rewrites front matter. |
 | `generate-organization-from-url` | Scrapes a site, asks OpenAI for metadata, and creates a new `_organizations/*.md` entry. |
 | `generate-weekly-summary` | Builds a weekly roundup article from `_posts/`, grouping stories into themes with LLM assistance. |
+| `extract-post-images` | Pulls image URLs from `original_markdown_body`, downloads them into `assets/images`, hashes/renames files, and links image IDs into `_posts/` and `_images/`. |
 | `import-rss-news` | Pulls fresh posts from partner RSS feeds defined in `_organizations/` and writes Markdown copies into `_posts/`. |
 | `list-openai-models` | Lists available OpenAI model IDs for the current API key. |
 | `summarize-news` | Fetches source articles for `_posts/` entries missing summaries, stores the original body, and writes an AI summary. |
@@ -85,6 +86,27 @@ Builds an editorial roundup post for the current week (Saturday–Friday window)
 - Falls back to a deterministic, non-LLM summary if either call fails.
 - Sets front matter with `source: King County Solutions`, `summarized: true`, and `openai_model` (or `fallback` if heuristics kick in), and adds a closing encouragement paragraph.
 
+### `extract-post-images`
+
+**Purpose**  
+Downloads images referenced in each post’s `original_markdown_body`, renames them to their SHA256 checksum plus extension, writes `_images/<checksum>.md` entries, and stores the related image checksums back into the post front matter.
+
+**Usage**
+
+- `bin/extract-post-images`
+
+**Key env/config**
+
+- `IMAGE_OPEN_TIMEOUT` – HTTP open timeout in seconds (default 10).
+- `IMAGE_READ_TIMEOUT` – HTTP read timeout in seconds (default 30).
+
+**Behavior notes**
+
+- Skips posts without `original_markdown_body` or without image references; supports Markdown `![]()` and `<img>` tags with `http/https` sources.
+- Skips posts that already have an `images` front matter attribute; intended for one-time population.
+- Avoids redownloading the same URL within a run; writes files under `assets/images/<checksum>.<ext>`.
+- Creates `_images/<checksum>.md` with `checksum`, optional `title` (set only when the image had alt text), `image_url`, `source_url`, and copies `source`/`date` from the originating post; appends discovered checksums to a post’s `images` array without removing existing entries.
+
 ### `import-rss-news`
 
 **Purpose**  
@@ -99,6 +121,7 @@ Imports recent partner updates from every `_organizations/*.md` that exposes `ne
 - Honors `news_rss_url` and optional metadata (e.g., titles) already in each organization file.
 - Skips RSS items published more than `MAX_ITEM_AGE_DAYS` (365) days ago.
 - `RSS_WORKERS` – how many threads to use for fetching/parsing feeds in parallel (default 6). Use a smaller number if you want to be gentler on source servers.
+- `RSS_OPEN_TIMEOUT` / `RSS_READ_TIMEOUT` – per-request open/read timeouts in seconds (defaults 5/10) for both feed fetches and article-body scraping. Increase slightly if you see false positives, or lower to bail out faster on slow sites.
 
 **Behavior notes**
 
@@ -107,6 +130,7 @@ Imports recent partner updates from every `_organizations/*.md` that exposes `ne
 - Converts HTML to Markdown via `ReverseMarkdown`, stores the upstream HTML in `original_content`, and saves the cleaned Markdown body beneath a single YAML front matter block.
 - Stores SHA256 checksums for each feed in `bin/feed_checksums.yml` and skips reprocessing feeds whose checksum has not changed since the previous run.
 - Fetches feeds concurrently using a small thread pool; logs and checksum updates are synchronized to avoid races.
+- Network errors (HTTP failures, SSL issues, socket errors, or timeouts) are logged per-source and skipped so one flakey feed doesn’t halt the full import run.
 
 ### `list-openai-models`
 
