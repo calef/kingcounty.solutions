@@ -18,6 +18,7 @@ class ImageDocumentsTest < Minitest::Test
   def setup
     @image_docs = Dir['_images/*.md'].map { |path| { path:, data: load_front_matter(path) } }
     @organization_titles = load_organization_titles
+    @post_image_references = load_post_image_references
   end
 
   def test_required_fields_are_present
@@ -120,6 +121,22 @@ class ImageDocumentsTest < Minitest::Test
     assert errors.empty?, errors.join("\n")
   end
 
+  def test_each_image_document_is_referenced_by_a_post
+    errors = @image_docs.filter_map do |doc|
+      checksum = doc[:data]['checksum']
+      next unless checksum.is_a?(String)
+
+      normalized = checksum.strip
+      next if normalized.empty?
+
+      posts = @post_image_references[normalized]
+      next if posts && !posts.empty?
+
+      "#{relative_path(doc[:path])}: expected at least one _posts/*.md to reference checksum #{normalized}"
+    end
+    assert errors.empty?, errors.join("\n")
+  end
+
   private
 
   def load_organization_titles
@@ -149,6 +166,25 @@ class ImageDocumentsTest < Minitest::Test
     ) || {}
   rescue Psych::SyntaxError => e
     flunk "#{path} has invalid YAML front matter: #{e.message}"
+  end
+
+  def load_post_image_references
+    references_with_default = Hash.new { |hash, key| hash[key] = Set.new }
+    Dir['_posts/*.md'].each do |path|
+      data = load_front_matter(path)
+      Array(data['images']).each do |checksum|
+        next unless checksum.is_a?(String)
+
+        normalized = checksum.strip
+        next if normalized.empty?
+
+        references_with_default[normalized] << relative_path(path)
+      end
+    end
+
+    references_with_default.each_with_object({}) do |(checksum, posts), memo|
+      memo[checksum] = posts
+    end
   end
 
   def present_string?(value)
