@@ -1,4 +1,6 @@
 ---
+jurisdictions:
+- Seattle
 news_rss_url: https://thegivingroomseattle.org/feed/
 title: The Giving Room
 topics:

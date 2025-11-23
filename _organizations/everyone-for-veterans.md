@@ -1,4 +1,6 @@
 ---
+jurisdictions:
+- United States
 acronym: E4V
 title: Everyone for Veterans
 topics:

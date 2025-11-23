@@ -1,4 +1,6 @@
 ---
+jurisdictions:
+- United States
 acronym: OFR
 news_rss_url: https://www.operationfirstresponse.org/feed/rss/
 events_ical_url: https://www.operationfirstresponse.org/events/?ical=1

@@ -1,4 +1,6 @@
 ---
+jurisdictions:
+- Washington State
 acronym: VMFH
 parent_organization: CommonSpirit Health
 phone: 877-333-0122

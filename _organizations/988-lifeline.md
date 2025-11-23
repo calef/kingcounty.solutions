@@ -1,4 +1,6 @@
 ---
+jurisdictions:
+- United States
 phone: '988'
 title: 988 Lifeline
 topics:

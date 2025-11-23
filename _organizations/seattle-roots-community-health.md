@@ -1,4 +1,6 @@
 ---
+jurisdictions:
+- Seattle
 news_rss_url: https://seattleroots.org/feed/
 title: Seattle Roots Community Health
 topics:

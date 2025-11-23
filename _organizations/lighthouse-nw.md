@@ -1,4 +1,6 @@
 ---
+jurisdictions:
+- Federal Way
 news_rss_url: https://lighthousenw.org/rss.xml
 title: Lighthouse NW
 topics:

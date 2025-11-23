@@ -1,4 +1,6 @@
 ---
+jurisdictions:
+- Seattle
 acronym: CMCH
 phone: "(206) 461-6910"
 email: selam.getahun@cschc.org

@@ -1,4 +1,6 @@
 ---
+jurisdictions:
+- Seattle
 news_rss_url: https://www.bethanypc.org/feed/
 email: leslier@bethanypc.org
 title: Bethany Presbyterian Church

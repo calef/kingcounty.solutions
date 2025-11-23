@@ -1,4 +1,6 @@
 ---
+jurisdictions:
+- United States
 acronym: AMR
 parent_organization: Global Medical Response
 title: American Medical Response (AMR)

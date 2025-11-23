@@ -1,4 +1,6 @@
 ---
+jurisdictions:
+- United States
 acronym: NCCS
 news_rss_url: https://thenccs.org/category/scholars-in-action/feed/
 events_ical_url: https://thenccs.org/eventstest/?ical=1

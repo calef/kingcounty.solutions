@@ -1,4 +1,6 @@
 ---
+jurisdictions:
+- United States
 acronym: DAV
 news_rss_url: https://www.dav.org/feed/
 events_ical_url: https://www.dav.org/events-calendar/?ical=1

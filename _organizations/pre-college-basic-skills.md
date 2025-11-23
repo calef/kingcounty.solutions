@@ -1,4 +1,6 @@
 ---
+jurisdictions:
+- Auburn
 parent_organization: Green River College
 phone: 253-351-6680
 title: Pre-College & Basic Skills

@@ -1,4 +1,6 @@
 ---
+jurisdictions:
+- Kirkland
 title: Lake Washington Institute of Technology
 topics:
 - Education & Learning

@@ -1,4 +1,6 @@
 ---
+jurisdictions:
+- United States
 acronym: HCF
 email: info@honorandcourage.org
 title: Honor and Courage Foundation

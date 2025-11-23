@@ -1,4 +1,6 @@
 ---
+jurisdictions:
+- Duvall
 news_rss_url: https://acresofdiamonds.org/feed/
 title: Acres of Diamonds
 topics:

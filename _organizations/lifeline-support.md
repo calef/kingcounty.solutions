@@ -1,4 +1,6 @@
 ---
+jurisdictions:
+- United States
 news_rss_url: https://www.lifelinesupport.org/feed/
 parent_organization: Universal Service Administrative Company
 phone: 800-234-9473

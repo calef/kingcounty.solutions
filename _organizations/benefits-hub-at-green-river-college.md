@@ -1,4 +1,6 @@
 ---
+jurisdictions:
+- Auburn
 parent_organization: Green River College
 title: Benefits Hub at Green River College
 topics:

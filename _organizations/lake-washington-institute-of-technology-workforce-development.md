@@ -1,4 +1,6 @@
 ---
+jurisdictions:
+- Kirkland
 phone: "(425) 739-8339"
 email: WFD@LWTech.edu
 title: Lake Washington Institute of Technology Workforce Development

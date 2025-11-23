@@ -1,4 +1,6 @@
 ---
+jurisdictions:
+- Washington State
 parent_organization: Department of Social and Health Services
 title: Basic Food Employment & Training (BFET) Providers
 topics:

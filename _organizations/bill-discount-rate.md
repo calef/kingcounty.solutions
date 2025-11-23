@@ -1,4 +1,6 @@
 ---
+jurisdictions:
+- Washington State
 acronym: PSE
 phone: 888-225-5773
 email: billdiscount@pse.com

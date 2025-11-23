@@ -1,4 +1,6 @@
 ---
+jurisdictions:
+- Seattle
 acronym: YC
 news_rss_url: https://youthcare.org/feed/
 events_ical_url: https://youthcare.org/events/?ical=1

@@ -1,4 +1,6 @@
 ---
+jurisdictions:
+- United States
 news_rss_url: https://www.usac.org/feed/
 title: Universal Service Administrative Company
 topics:

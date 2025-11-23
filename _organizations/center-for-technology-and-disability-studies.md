@@ -1,4 +1,6 @@
 ---
+jurisdictions:
+- Washington State
 title: Center for Technology and Disability Studies
 topics:
 - Disabilities

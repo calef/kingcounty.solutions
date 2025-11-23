@@ -1,4 +1,6 @@
 ---
+jurisdictions:
+- Washington State
 news_rss_url: https://smilemobilewa.org/feed/
 events_ical_url: https://smilemobilewa.org/events/?ical=1
 parent_organization: Arcora Foundation

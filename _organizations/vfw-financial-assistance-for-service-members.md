@@ -1,4 +1,6 @@
 ---
+jurisdictions:
+- United States
 acronym: VFW
 phone: 1.866.789.6333
 title: VFW Financial Assistance for Service Members

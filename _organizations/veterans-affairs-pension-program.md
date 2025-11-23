@@ -1,4 +1,6 @@
 ---
+jurisdictions:
+- United States
 title: Veterans Affairs Pension Program
 topics:
 - Financial Assistance

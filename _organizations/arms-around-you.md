@@ -1,4 +1,6 @@
 ---
+jurisdictions:
+- King County
 acronym: AAY
 news_rss_url: https://www.armsaroundyou.org/blog-feed.xml
 phone: 206.322.1992

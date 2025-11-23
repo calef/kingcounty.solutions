@@ -1,4 +1,6 @@
 ---
+jurisdictions:
+- United States
 title: NAACP
 topics:
 - Community & Social Services

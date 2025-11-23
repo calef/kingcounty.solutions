@@ -1,4 +1,6 @@
 ---
+jurisdictions:
+- United States
 news_rss_url: https://www.antioch.edu/feed/
 events_ical_url: https://www.antioch.edu/events/?ical=1
 phone: "(310) 340-7634"

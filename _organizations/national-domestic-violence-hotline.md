@@ -1,4 +1,6 @@
 ---
+jurisdictions:
+- United States
 acronym: NDVH
 news_rss_url: https://www.thehotline.org/feed/
 phone: 800.799.SAFE (7233)

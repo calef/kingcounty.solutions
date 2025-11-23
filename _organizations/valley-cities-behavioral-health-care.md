@@ -1,4 +1,6 @@
 ---
+jurisdictions:
+- King County
 acronym: VC
 news_rss_url: https://valleycities.org/feed/
 phone: "(253) 833-7444"

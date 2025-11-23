@@ -1,4 +1,6 @@
 ---
+jurisdictions:
+- Seattle
 news_rss_url: https://www.spseniors.org/feed/
 events_ical_url: https://www.spseniors.org/events/?ical=1
 phone: "(206) 579-6607"
