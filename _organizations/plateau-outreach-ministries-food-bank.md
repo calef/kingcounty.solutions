@@ -4,7 +4,7 @@ jurisdictions:
 - Black Diamond
 - Ravensdale
 phone: 360-825-8961
-address: 1720 1/2 Wells Street, Enumclaw
+address: 1720 1/2 Wells Street, Enumclaw, WA 98022
 title: Plateau Outreach Ministries Food Bank
 topics:
 - Food & Nutrition

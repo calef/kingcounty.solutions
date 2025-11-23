@@ -14,8 +14,6 @@ topics:
 - Financial Assistance
 - Health Care
 - Shelter & Housing
-- Youth Services
-- Aging Services
 type: Community-Based Organization
 website: https://nhwa.org/
 ---

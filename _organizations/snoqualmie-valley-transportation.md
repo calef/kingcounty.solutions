@@ -8,7 +8,6 @@ jurisdictions:
 - Preston
 - Carnation
 - Duvall
-- Monroe
 news_rss_url: https://svtbus.org/feed/
 phone: 425-888-7001
 title: Snoqualmie Valley Transportation

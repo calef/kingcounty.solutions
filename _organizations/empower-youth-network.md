@@ -7,7 +7,6 @@ title: Empower Youth Network
 topics:
 - Employment & Job Support
 - Education & Learning
-- Mentoring
 type: Community-Based Organization
 website: https://empoweryouthnetwork.org/
 ---

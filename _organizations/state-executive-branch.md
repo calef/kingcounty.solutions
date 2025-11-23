@@ -8,7 +8,6 @@ topics:
 - Community & Social Services
 - Education & Learning
 - Health Care
-- Natural Resources
 - Transportation & Mobility
 type: Agency
 website: https://governor.wa.gov/

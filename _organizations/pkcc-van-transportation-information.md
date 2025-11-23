@@ -3,7 +3,7 @@ jurisdictions:
 - Kirkland
 phone: 425-286-1026
 email: Eparks@kirklandwa.gov
-address: 352 Kirkland Avenue, Kirkland, WA
+address: 352 Kirkland Avenue, Kirkland, WA 98033
 title: PKCC Van & Transportation Information
 topics:
 - Transportation & Mobility

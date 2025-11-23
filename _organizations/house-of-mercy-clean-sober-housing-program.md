@@ -13,7 +13,6 @@ title: House of Mercy - Clean & Sober Housing Program
 topics:
 - Shelter & Housing
 - Mental Health & Counseling
-- Substance Abuse
 type: Community-Based Organization
 website: https://houseofmercyministries.net
 ---

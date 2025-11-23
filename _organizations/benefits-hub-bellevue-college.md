@@ -3,7 +3,6 @@ acronym: BCH
 jurisdictions:
 - Bellevue
 email: benefitshub@bellevuecollege.edu
-address: U-Building, U217, Bellevue College
 title: Benefits Hub - Bellevue College
 topics:
 - Food & Nutrition

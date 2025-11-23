@@ -4,7 +4,7 @@ jurisdictions:
 - King County
 phone: 206-245-1026
 email: afc@marysplaceseattle.org
-address: 3190 S. Martin Luther King Jr Way, Seattle
+address: 3190 S. Martin Luther King Jr Way, Seattle, WA 98144
 title: Mary's Place
 topics:
 - Shelter & Housing

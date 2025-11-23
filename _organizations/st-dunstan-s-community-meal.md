@@ -4,7 +4,6 @@ jurisdictions:
 news_rss_url: https://www.sdchp.org/feed/
 phone: 206-363-4319
 email: office@sdchp.org
-address: N. 145th St. between Aurora and Greenwood Avenues, Shoreline, Washington
 title: St. Dunstan’s Community Meal
 topics:
 - Food & Nutrition

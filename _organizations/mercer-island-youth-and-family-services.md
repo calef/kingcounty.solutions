@@ -6,9 +6,7 @@ parent_organization: City of Mercer Island
 title: Mercer Island Youth & Family Services
 topics:
 - Community & Social Services
-- Counseling
 - Mental Health & Counseling
-- Youth Services
 type: Program
 website: https://www.mercerisland.gov/yfs
 ---

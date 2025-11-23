@@ -7,7 +7,6 @@ topics:
 - Employment & Job Support
 - Financial Assistance
 - Food & Nutrition
-- Housing
 - Shelter & Housing
 - Transportation & Mobility
 type: Community-Based Organization

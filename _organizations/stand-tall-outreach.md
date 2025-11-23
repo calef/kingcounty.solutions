@@ -10,7 +10,6 @@ topics:
   - Food & Nutrition
   - Mental Health & Counseling
   - Personal & Household Needs
-  - Youth & Education
 type: Community-Based Organization
 website: https://www.standtalloutreach.org/
 ---

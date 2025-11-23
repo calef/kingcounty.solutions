@@ -6,7 +6,6 @@ title: The Sophia Way
 topics:
 - Community & Social Services
 - Food & Nutrition
-- Homelessness
 - Mental Health & Counseling
 - Personal & Household Needs
 - Shelter & Housing

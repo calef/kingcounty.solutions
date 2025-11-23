@@ -7,8 +7,6 @@ jurisdictions:
 phone: 253-277-2726
 title: Glover Empower Mentoring
 topics:
-- Mentoring
-- Youth Services
 - Education & Learning
 - Community & Social Services
 type: Community-Based Organization

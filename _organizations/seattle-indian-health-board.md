@@ -3,7 +3,7 @@ acronym: SIHB
 jurisdictions:
 - Seattle
 news_rss_url: https://www.sihb.org/feed/
-phone: "(206) 324–9360"
+phone: 206-324-9360
 email: info@sihb.org
 address: 611 12th Avenue South, Seattle, WA 98144
 title: Seattle Indian Health Board

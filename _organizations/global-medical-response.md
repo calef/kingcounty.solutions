@@ -5,7 +5,6 @@ email: Investor.Relations@GMR.net
 title: Global Medical Response
 topics:
 - Health Care
-- Emergency Medical Services
 type: Corporation
 website: https://www.globalmedicalresponse.com/
 ---

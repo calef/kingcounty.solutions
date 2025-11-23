@@ -8,7 +8,6 @@ title: Consejo Counseling & Referral Services
 topics:
 - Mental Health & Counseling
 - Domestic Violence
-- Substance Use
 - Shelter & Housing
 type: Community-Based Organization
 website: https://www.consejocounseling.org/

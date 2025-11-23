@@ -5,7 +5,6 @@ jurisdictions:
 - SeaTac
 parent_organization: International Rescue Committee
 phone: 206-623-2105
-email: Email us
 address: 1200 South 192nd Street, Suite 101, SeaTac, WA 98148
 title: International Rescue Committee - Seattle
 topics:

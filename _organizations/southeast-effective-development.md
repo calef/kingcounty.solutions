@@ -7,7 +7,6 @@ title: SouthEast Effective Development
 topics:
 - Shelter & Housing
 - Community & Social Services
-- Economic Development
 type: Community-Based Organization
 website: https://www.seedseattle.org/affordable-housing
 ---

@@ -9,7 +9,6 @@ news_rss_url: https://pugetsoundfire.org/feed/
 title: Puget Sound Regional Fire Authority
 topics:
 - Community & Social Services
-- Safety
 type: Special Purpose District
 website: https://www.pugetsoundfire.org
 ---

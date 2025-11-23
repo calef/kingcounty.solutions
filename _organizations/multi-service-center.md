@@ -13,9 +13,7 @@ topics:
   - Employment & Job Support
   - Financial Assistance
   - Food & Nutrition
-  - Immigrant & Refugee Services
   - Shelter & Housing
-  - Youth Services
 type: Community-Based Organization
 website: https://mschelps.org/
 ---

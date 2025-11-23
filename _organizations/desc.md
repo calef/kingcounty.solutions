@@ -1,5 +1,4 @@
 ---
-acronym: DESC
 jurisdictions:
 - Seattle
 - Burien

@@ -1,8 +1,6 @@
 ---
 jurisdictions:
 - Seattle
-address: All Pilgrims Christian Church, Corner of Broadway and Republican, Seattle,
-  WA
 title: Community Lunch on Capitol Hill
 topics:
 - Food & Nutrition

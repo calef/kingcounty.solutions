@@ -9,7 +9,6 @@ topics:
 - Community & Social Services
 - Health Care
 - Mental Health & Counseling
-- Safety
 type: Special Purpose District
 website: https://www.vrfa.org
 ---

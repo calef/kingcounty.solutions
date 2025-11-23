@@ -8,7 +8,6 @@ address: 31405 18th Ave. S, Federal Way, WA 98003
 title: Sea Mar Community Health Centers - Federal Way Dental Clinic
 topics:
 - Health Care
-- Dental Care
 - Community & Social Services
 type: Community-Based Organization
 website: https://www.seamar.org/king-dental-federalway.html

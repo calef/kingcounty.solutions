@@ -4,10 +4,6 @@ jurisdictions:
 - United States
 parent_organization: Federal Executive Branch
 title: Department of Homeland Security
-topics:
-- Emergency Services
-- Public Safety
-- Immigration
 type: Department
 website: https://www.dhs.gov/
 ---

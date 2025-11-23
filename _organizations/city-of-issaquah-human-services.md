@@ -4,12 +4,8 @@ jurisdictions:
 parent_organization: City of Issaquah
 title: City of Issaquah Human Services
 topics:
-- Aging Services
 - Community & Social Services
-- Family Support
 - Shelter & Housing
-- Homeless Prevention
-- Youth Programming
 type: Division
 website: https://www.issaquahwa.gov/268/Human-Services
 ---

@@ -5,7 +5,7 @@ jurisdictions:
 - Black Diamond
 news_rss_url: https://rfwellnessfoundation.org/feed/
 phone: 360-802-3206
-address: 1304 Griffin Ave, Enumclaw
+address: 1304 Griffin Ave, Enumclaw, WA 98022
 title: Rainier Foothills Wellness Foundation
 topics:
 - Food & Nutrition

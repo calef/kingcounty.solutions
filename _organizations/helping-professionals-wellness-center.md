@@ -4,7 +4,6 @@ news_rss_url: https://hpwellnesscenter.com/feed/
 title: Helping Professionals Wellness Center
 topics:
 - Mental Health & Counseling
-- Substance Use Disorder Treatment
 - Domestic Violence
 type: Community-Based Organization
 website: https://www.hpwellnesscenter.com/

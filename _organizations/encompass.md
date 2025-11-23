@@ -1,5 +1,4 @@
 ---
-acronym: ENCOMPASS
 jurisdictions:
 - Snoqualmie Valley
 - Issaquah
@@ -11,7 +10,6 @@ topics:
 - Education & Learning
 - Disabilities
 - Mental Health & Counseling
-- Family Enrichment
 type: Community-Based Organization
 website: https://www.encompassnw.org/
 ---

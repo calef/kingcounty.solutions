@@ -4,7 +4,6 @@ jurisdictions:
 title: Muckleshoot Indian Tribe
 topics:
 - Community & Social Services
-- Cultural Preservation
 type: Tribal Government
 website: https://www.muckleshoot.nsn.us/
 ---

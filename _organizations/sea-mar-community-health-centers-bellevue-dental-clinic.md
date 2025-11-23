@@ -8,7 +8,6 @@ address: 3801 150th Ave SE, Bellevue, WA 98006
 title: Sea Mar Community Health Centers - Bellevue Dental Clinic
 topics:
 - Health Care
-- Dental Care
 type: Community-Based Organization
 website: https://www.seamar.org/king-dental-bellevue.html
 ---

@@ -4,7 +4,7 @@ jurisdictions:
 news_rss_url: https://www.rfsc.org/feed/
 events_ical_url: https://www.rfsc.org/events/?ical=1
 phone: 253-852-5150
-address: 1209 Central Ave. South, Kent, Washington
+address: 1209 Central Ave. South, Kent, WA 98032
 title: Refugee Federation Service Center
 topics:
 - Employment & Job Support

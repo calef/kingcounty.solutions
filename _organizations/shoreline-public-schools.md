@@ -1,5 +1,4 @@
 ---
-acronym: Shoreline SD
 jurisdictions:
 - Shoreline
 parent_organization: Puget Sound Educational Service District 121

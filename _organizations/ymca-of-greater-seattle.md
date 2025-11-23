@@ -7,8 +7,6 @@ phone: 206-382-5022
 title: YMCA of Greater Seattle
 topics:
   - Community & Social Services
-  - Youth Programming
-  - Youth & Education
   - Shelter & Housing
   - Mental Health & Counseling
   - Employment & Job Support

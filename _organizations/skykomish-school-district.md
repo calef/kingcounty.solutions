@@ -1,5 +1,4 @@
 ---
-acronym: Skykomish SD
 jurisdictions:
 - Skykomish
 parent_organization: Puget Sound Educational Service District 121

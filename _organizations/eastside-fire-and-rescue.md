@@ -10,7 +10,6 @@ title: Eastside Fire & Rescue
 topics:
 - Community & Social Services
 - Health Care
-- Safety
 type: Special Purpose District
 website: https://www.eastsidefire-rescue.org
 ---

@@ -6,7 +6,6 @@ news_rss_url: https://sessc.org/feed/
 events_ical_url: https://sessc.org/events/?ical=1
 phone: "(206) 722-0317"
 email: bradyr@sessc.org
-address: Rainier Ave. S and S. Holly St., Seattle, WA
 title: SouthEast Seattle Senior Center
 topics:
 - Food & Nutrition

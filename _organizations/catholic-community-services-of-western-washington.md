@@ -14,7 +14,6 @@ topics:
   - Financial Assistance
   - Food & Nutrition
   - Health Care
-  - Homelessness
   - Mental Health & Counseling
   - Personal & Household Needs
   - Shelter & Housing

@@ -11,7 +11,6 @@ topics:
   - Financial Assistance
   - Food & Nutrition
   - Personal & Household Needs
-  - Youth & Education
 type: Community-Based Organization
 website: https://seattletemple.salvationarmy.org/
 ---

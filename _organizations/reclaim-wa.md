@@ -1,7 +1,7 @@
 ---
 jurisdictions:
 - Washington State
-phone: "(414) 850 - 0417"
+phone: "(414) 850-0417"
 email: info@reclaimwa.org
 address: 3815 S. Othello St, Suite 100, Seattle, WA 98118
 title: RECLAIM

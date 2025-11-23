@@ -8,8 +8,6 @@ phone: 425-883-7553
 title: Redmond United Methodist Church - Social Ministries
 topics:
 - Food & Nutrition
-- Housing Support
-- Counseling
 - Domestic Violence
 type: Community-Based Organization
 website: https://redmondumc.org/

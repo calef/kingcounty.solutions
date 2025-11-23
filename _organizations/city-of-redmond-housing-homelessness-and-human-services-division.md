@@ -6,7 +6,6 @@ title: City of Redmond Housing, Homelessness and Human Services Division
 topics:
 - Community & Social Services
 - Shelter & Housing
-- Homelessness Prevention
 type: Division
 website: https://www.redmond.gov/892/Housing-Homelessness-Human-Services
 ---

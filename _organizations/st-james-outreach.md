@@ -1,7 +1,6 @@
 ---
 jurisdictions:
 - Kent
-phone: not provided
 email: jacinta@stjameskent.org
 title: St. James Outreach
 topics:

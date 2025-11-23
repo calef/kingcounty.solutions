@@ -4,7 +4,6 @@ jurisdictions:
 parent_organization: Seattle Central College
 phone: 206.934.4180
 email: btsinfo@seattlecolleges.edu
-address: Broadway Campus BE3122
 title: Basic and Transitional Studies
 topics:
 - Education & Learning

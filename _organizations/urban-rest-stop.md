@@ -6,7 +6,7 @@ news_rss_url: https://urbanreststop.org/feed/
 parent_organization: Low Income Housing Institute
 phone: "(206) 332-0110"
 email: ballardurs@lihi.org
-address: 2014B NW 57th St., Seattle, WA
+address: 2014B NW 57th St., Seattle, WA  98107
 title: Urban Rest Stop
 topics:
 - Personal & Household Needs

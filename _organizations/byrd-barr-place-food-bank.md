@@ -1,6 +1,5 @@
 ---
 address: 722 18th Avenue, Seattle, WA 98122
-email: info@byrdbarr.place
 jurisdictions:
 - Seattle
 phone: 206-812-4940

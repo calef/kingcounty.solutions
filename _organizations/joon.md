@@ -1,5 +1,4 @@
 ---
-acronym: JOON
 jurisdictions:
 - Seattle
 phone: 425-600-6425

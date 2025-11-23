@@ -2,7 +2,6 @@
 jurisdictions:
 - King County
 parent_organization: Kent Lutheran Church
-phone: 253-852-2057
 address: 336 2nd Ave S, Kent, WA 98032
 title: Kent Community Supper
 topics:

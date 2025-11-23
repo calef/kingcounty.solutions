@@ -7,7 +7,6 @@ phone: 206-267-7070
 address: 1200 5th Ave, Suite 700, Seattle, WA 98101
 title: Neighborhood Legal Clinics
 topics:
-- Legal Assistance
 - Community & Social Services
 type: Program
 website: https://www.kcba.org/For-the-Public/Free-Legal-Assistance/Neighborhood-Legal-Clinics

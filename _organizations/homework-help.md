@@ -2,7 +2,6 @@
 jurisdictions:
 - Seattle
 parent_organization: The Seattle Public Library
-phone: 206-386-4636
 address: 1000 Fourth Ave., Seattle, WA 98104
 title: Homework Help
 topics:

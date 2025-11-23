@@ -1,5 +1,4 @@
 ---
-acronym: POCAAN
 jurisdictions:
 - Seattle
 - King County

@@ -2,7 +2,6 @@
 parent_organization: Cascadia College
 phone: 425.352.5190
 email: hawrc@uw.edu
-address: ARC-120
 title: Health and Wellness Resource Center
 topics:
 - Health Care

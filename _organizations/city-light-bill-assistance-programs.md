@@ -1,7 +1,7 @@
 ---
 jurisdictions:
 - Seattle
-phone: "(206) 684-3000"
+parent_organization: Seattle Public Utilities
 email: SCL_ExternalComms@seattle.gov
 address: 700 5th Ave, Seattle, WA, 98104
 title: City Light Bill Assistance Programs

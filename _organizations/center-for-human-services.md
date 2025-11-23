@@ -8,8 +8,6 @@ address: 17018 15th Ave NE, Shoreline, WA 98155
 title: Center for Human Services
 topics:
 - Mental Health & Counseling
-- Substance Use Disorders
-- Family Support
 - Community & Social Services
 type: Community-Based Organization
 website: https://www.chs-nw.org/

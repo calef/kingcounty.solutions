@@ -1,5 +1,4 @@
 ---
-acronym: NAACP
 title: NAACP
 topics:
 - Community & Social Services

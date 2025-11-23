@@ -1,6 +1,7 @@
 ---
 acronym: CSH
-jurisdiction: United States
+jurisdictions:
+  - United States
 phone: 602-851-2120
 title: CommonSpirit Health
 topics:

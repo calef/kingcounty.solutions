@@ -1,10 +1,8 @@
 ---
 address: 4851 Tolt Avenue, Carnation, WA 98014
-email: tolt@toltucc.org
 jurisdictions:
 - Carnation
 parent_organization: Tolt Congregational United Church of Christ
-phone: 425-333-4254
 title: Tolt Congregational UCC Food Program
 topics:
 - Food & Nutrition

@@ -4,7 +4,7 @@ jurisdictions:
 - Kent
 - King County
 phone: "(253) 859-2357"
-parent_organizations: Kent Youth & Family Services
+parent_organization: Kent Youth and Family Services
 address: 20500 106th Ave SE, Kent, WA 98030
 title: Kent Youth & Family Services After School Program
 topics:

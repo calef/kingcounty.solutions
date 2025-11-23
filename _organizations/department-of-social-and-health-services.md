@@ -2,7 +2,7 @@
 acronym: DSHS
 jurisdictions:
 - Washington State
-parent_organization: Department of Social and Health Services
+parent_organization: State Executive Branch
 title: Department of Social and Health Services
 topics:
 - Community & Social Services

@@ -4,7 +4,6 @@ jurisdictions:
 parent_organization: South Seattle College
 phone: 206.934.5363
 email: SouthTS@seattlecolleges.edu
-address: Cascade Hall (CAH 311), South Seattle College
 title: English as a Second Language (ESL)
 topics:
 - Education & Learning
