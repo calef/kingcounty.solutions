@@ -14,8 +14,7 @@ collections:
     output: true
     permalink: /topics/:name/
   images:
-    output: true
-    permalink: /images/:name/
+    output: false
 defaults:
     - scope:
         path: "_topics"
@@ -37,11 +36,6 @@ defaults:
         type: "places"
       values:
         layout: "place"
-    - scope:
-        path: "_images"
-        type: "images"
-      values:
-        layout: "default"
 email: chris@crickertech.com
 exclude:
   - .jekyll-cache/
