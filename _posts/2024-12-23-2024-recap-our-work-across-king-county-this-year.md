@@ -123,7 +123,6 @@ images:
 - 153973221f3eaaae1411d889ca15beb296cf8d109c54faa0643c6c9232194b19
 - 6e22f537478e14c2549dd900f60fe28b67e42cd7a739b4d599152e9c2972e398
 - f03b80d232c81910686f6925f7427caf2218ad0a729f7ee1c4070c9a70d20f5a
-- f4eef8263281c0b26486637831251059757bc3fdc4c3a48045a8ef8646b36e8f
 ---
 
 King County's 2024 highlights include significant advancements in various community services and infrastructure. The county constructed 1,248 affordable homes and established 1,350 emergency housing units, aiding those experiencing homelessness. Efforts to combat the opioid crisis were bolstered by a 24/7 hotline and mobile treatment programs, enabling over 500 individuals to access medication for opioid use disorders. Behavioral health crisis care improved with the expansion of mobile teams and the opening of a 24/7 crisis center in Kirkland.

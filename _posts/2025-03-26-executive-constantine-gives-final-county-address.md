@@ -74,7 +74,6 @@ images:
 - 50ed5683437dfe8a9c5c60900349dca5184cebc05e96a075f4dbecac8e4487e6
 - eb6297b5f1b91518087c49c41203b97fc0fd83568861993bcc9c9a8c881f8168
 - 2f80ad2ee9f92ddf22c54cf143534ada36e299af107a947078fd05376eb45bc9
-- f4eef8263281c0b26486637831251059757bc3fdc4c3a48045a8ef8646b36e8f
 ---
 
 King County Executive Dow Constantine delivered his final State of the County address, reflecting on his 16 years in office. He expressed gratitude to the residents for their trust and engagement, emphasizing the importance of building a just community. Constantine highlighted key accomplishments, including the protection of 30,000 acres of land, the restoration of 500 acres of natural habitat, and significant efforts to revive the kokanee salmon population. He also discussed climate initiatives such as carbon reduction, transitioning to electric vehicles, and the expansion of green jobs. Transportation improvements were noted, with the launch of eight new Metro RapidRide routes and the ongoing development of a 62-mile light rail system. Additionally, he mentioned the expansion of mental health services through new crisis care centers and the creation of over 3,800 affordable housing units. With a focus on safety, the number of transit security officers was increased, and Operation Safe Transit was launched to enhance safety in transit corridors. Constantine concluded by expressing confidence that the future administration would build upon the foundation established during his tenure.

@@ -111,7 +111,6 @@ images:
 - 8249e2652d721c9ad708d2224ba1c30a4d7b4fb6340df7956188bf9ebec905a2
 - c10165357453032d5bf49898885199b5bc34060cf6d1db1b8d17ae0fdd1a6c4b
 - 18426b394ecf9ab181dfe4c4e91b289846143cb5854f9024964a99a35426e92e
-- f4eef8263281c0b26486637831251059757bc3fdc4c3a48045a8ef8646b36e8f
 ---
 
 King County Executive Shannon Braddock has introduced an ambitious 200-Day Plan aimed at effectively guiding her administration. This plan focuses on delivering results for residents, preparing a responsible and balanced budget, and ensuring a smooth transition to the next administration. Key priorities include developing a values-driven budget that protects essential services and enhancing emergency preparedness. Braddock seeks to defend King County against harmful federal actions, while also prioritizing initiatives that directly benefit children, working families, and vulnerable populations.

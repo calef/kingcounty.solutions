@@ -11,7 +11,6 @@ topics:
 - Employment & Job Support
 - Health Care
 images:
-- 19ed471775f38ea0d6a3a58d639e4e2b6e314032b2588a81a71da3206fae774d
 - 5688a25b1766e8f34eefaab58ecf7bbad87d1067699f95a581f0fc7e4bf56c67
 - b28cc66d6760bdbd188b3ee4632460587af97e0706e6e3f00b3cbafffdddf474
 - 821b238a9b3c45bc08558ce38bb37c6248c1cae774a2af93f188a80aea2d7411
@@ -27,7 +26,7 @@ images:
 - 748a4afe52ff87da9812cae3415ef41c44915b76990a1facc7c8aa5c492f0659
 ---
 
-Pima Medical Institute offers an Advanced Emergency Medical Technician (AEMT) certificate program designed to enhance the skills of certified Emergency Medical Technicians (EMTs). This on-campus program lasts approximately 15 weeks and focuses on real-world training to equip students with advanced patient management techniques and transportation skills. The curriculum covers anatomy, advanced patient assessment, trauma care, medical emergencies, and disaster response. 
+Pima Medical Institute offers an Advanced Emergency Medical Technician (AEMT) certificate program designed to enhance the skills of certified Emergency Medical Technicians (EMTs). This on-campus program lasts approximately 15 weeks and focuses on real-world training to equip students with advanced patient management techniques and transportation skills. The curriculum covers anatomy, advanced patient assessment, trauma care, medical emergencies, and disaster response.
 
 AEMTs provide essential emergency medical care and transportation for patients in critical conditions, operating under medical oversight with advanced equipment typically found in ambulances. Graduates will learn vital techniques including airway management, intravenous therapy, and emergency medication administration. After completing the program, students can apply to take the National Registry of Emergency Medical Technicians (NREMT) exam and seek state AEMT certification.
 

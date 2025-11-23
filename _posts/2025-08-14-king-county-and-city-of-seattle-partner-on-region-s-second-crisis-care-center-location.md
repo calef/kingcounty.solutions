@@ -51,8 +51,6 @@ summarized: true
 topics:
 - Mental Health & Counseling
 - Community & Social Services
-images:
-- f4eef8263281c0b26486637831251059757bc3fdc4c3a48045a8ef8646b36e8f
 ---
 
 King County and the City of Seattle are advancing plans for a second Crisis Care Center to address rising behavioral health and substance use crises in the region. Following a supportive letter from Seattle Mayor Bruce Harrell, King County Executive Shannon Braddock proposed establishing the center at the former Polyclinic building on Broadway. This initiative aligns with the 2023 voter-approved Crisis Care Centers Initiative, which aims to create five accessible centers for immediate behavioral health care.

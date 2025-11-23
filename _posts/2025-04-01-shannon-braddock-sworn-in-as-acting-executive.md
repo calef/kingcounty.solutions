@@ -66,7 +66,6 @@ images:
 - c10165357453032d5bf49898885199b5bc34060cf6d1db1b8d17ae0fdd1a6c4b
 - 18426b394ecf9ab181dfe4c4e91b289846143cb5854f9024964a99a35426e92e
 - e534f711d4f383200bdc09eeecb1f7b2ecc080bf71764f390a1369662df499c6
-- f4eef8263281c0b26486637831251059757bc3fdc4c3a48045a8ef8646b36e8f
 ---
 
 Shannon Braddock was sworn in as acting King County Executive following a unanimous vote by the County Council. She is the first woman to hold this position and has a background as Deputy County Executive, bringing 15 years of local government experience. Braddock expressed her commitment to strong leadership and essential services for the community, including public transit, health, and safety. She plans to collaborate with various stakeholders, including county leaders and community partners.
