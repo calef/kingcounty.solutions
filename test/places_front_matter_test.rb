@@ -157,6 +157,19 @@ class PlacesFrontMatterTest < Minitest::Test
     assert errors.empty?, "Filename issues:\n#{errors.join("\n")}"
   end
 
+  def test_topic_summary_generated_if_present_is_true
+    errors = []
+
+    places.each do |doc|
+      next unless doc[:data].key?('topic_summary_generated')
+
+      value = doc[:data]['topic_summary_generated']
+      errors << "#{doc[:path]} topic_summary_generated must be true if present" unless value == true
+    end
+
+    assert errors.empty?, "Topic summary issues:\n#{errors.join("\n")}"
+  end
+
   private
 
   attr_reader :places, :place_title_map
