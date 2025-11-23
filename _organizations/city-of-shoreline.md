@@ -2,8 +2,6 @@
 jurisdictions:
 - Shoreline
 title: City of Shoreline
-topics:
-- Community & Social Services
 type: City
 website: https://www.shorelinewa.gov/
 ---

@@ -35,7 +35,6 @@ original_markdown_body: "This high-energy event supports CISC’s Early Learning
   appeared first on [Chinese Information and Service Center](https://cisc-seattle.org)."
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 ---
 

@@ -34,7 +34,6 @@ original_markdown_body: |-
   The post [Get that GIVING feeling during GiveBIG on May 6-7!](https://westsideneighborsshelter.org/get-that-giving-feeling-during-givebig-on-may-6-7/) appeared first on [Westside Neighbors Shelter](https://westsideneighborsshelter.org).
 summarized: true
 topics:
-- Community & Social Services
 - Food & Nutrition
 - Personal & Household Needs
 - Shelter & Housing

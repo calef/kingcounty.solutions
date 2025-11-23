@@ -10,7 +10,6 @@ original_markdown_body: '2025\_11\_18 KCD Grant Subcommittee Meeting Agenda and 
   Time: Grant Subcommittee meeting starts at 5:00 PM Pacific Time &nbsp; Zoom … [Continued](https://kingcd.org/november-18-2025-board-of-supervisors-grant-subcommittee-meeting-agenda-2/)'
 summarized: true
 topics:
-- Community & Social Services
 - Food & Nutrition
 ---
 

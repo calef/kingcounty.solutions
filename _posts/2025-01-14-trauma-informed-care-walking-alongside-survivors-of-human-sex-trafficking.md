@@ -140,7 +140,6 @@ original_markdown_body: "TRAUMA-INFORMED CARE: WALKING ALONGSIDE SURVIVORS OF HU
   first appeared on [Olive Crest](https://www.olivecrest.org)."
 summarized: true
 topics:
-- Community & Social Services
 - Domestic Violence
 - Mental Health & Counseling
 - Shelter & Housing

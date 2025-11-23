@@ -2,8 +2,6 @@
 jurisdictions:
 - Milton
 title: City of Milton
-topics:
-- Community & Social Services
 type: City
 website: https://www.cityofmilton.net/
 ---

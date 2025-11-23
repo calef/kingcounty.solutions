@@ -73,7 +73,6 @@ original_markdown_body: |-
 summarized: true
 topics:
 - Food & Nutrition
-- Community & Social Services
 images:
 - c48d81f6e36f99e62c6cb83cd9987a9fa9503ca547723a59fdf1a07e46f29b41
 ---

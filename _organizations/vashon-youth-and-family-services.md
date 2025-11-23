@@ -8,7 +8,6 @@ title: Vashon Youth and Family Services
 topics:
 - Mental Health & Counseling
 - Education & Learning
-- Community & Social Services
 type: Community-Based Organization
 website: https://vyfs.org
 ---

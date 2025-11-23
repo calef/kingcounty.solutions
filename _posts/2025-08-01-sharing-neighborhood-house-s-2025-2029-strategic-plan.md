@@ -15,7 +15,6 @@ original_markdown_body: |-
   The post [Sharing Neighborhood House’s 2025-2029 Strategic Plan](https://nhwa.org/2025/08/01/sharing-neighborhood-houses-2025-2029-strategic-plan/) appeared first on [Neighborhood House](https://nhwa.org).
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 - Employment & Job Support
 - Health Care

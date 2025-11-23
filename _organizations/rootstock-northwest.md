@@ -4,7 +4,6 @@ jurisdictions:
 title: Rootstock Northwest
 topics:
 - Food & Nutrition
-- Community & Social Services
 type: Community-Based Organization
 website: https://rootstocknw.org/
 ---

@@ -7,7 +7,7 @@ address: 500 30th Avenue South, Seattle, WA 98144
 title: Central Area Senior Center
 topics:
 - Food & Nutrition
-- Community & Social Services
+- Senior Services
 type: Community-Based Organization
 website: https://www.casrcenter.org/food-dining
 ---

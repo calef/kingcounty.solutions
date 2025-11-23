@@ -42,7 +42,6 @@ original_markdown_body: |-
   The post [Ed Ewing on ‘The Day with Trae’](https://bikeworks.org/ed-ewing-on-the-day-with-trae/) appeared first on [Bike Works](https://bikeworks.org).
 summarized: true
 topics:
-- Community & Social Services
 - Disabilities
 - Education & Learning
 ---

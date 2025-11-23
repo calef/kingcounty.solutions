@@ -9,7 +9,6 @@ news_rss_url: https://www.elcentrodelaraza.org/feed/
 phone: 206-957-4634
 title: El Centro de la Raza
 topics:
-- Community & Social Services
 - Education & Learning
 - Employment & Job Support
 - Financial Assistance

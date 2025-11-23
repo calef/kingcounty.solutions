@@ -9,7 +9,6 @@ original_markdown_body: Little Saigon has become the most crime-ridden area in a
   of King County, with ongoing issues such as criminal activities, open-air drug...
 summarized: true
 topics:
-- Community & Social Services
 - Shelter & Housing
 - Financial Assistance
 - Employment & Job Support

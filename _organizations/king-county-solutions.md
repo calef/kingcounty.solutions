@@ -3,7 +3,6 @@ jurisdictions:
 - King County
 title: King County Solutions
 topics:
-- Community & Social Services
 - Domestic Violence
 - Disabilities
 - Education & Learning

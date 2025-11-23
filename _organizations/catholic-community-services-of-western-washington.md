@@ -4,19 +4,18 @@ address: 100 23rd Avenue S, Seattle, WA 98144
 email: info@ccsww.org
 events_ical_url: https://ccsww.org/events/?ical=1
 jurisdictions:
-  - King County
+- King County
 news_rss_url: https://ccsww.org/feed/
 phone: 206-328-5696
 title: Catholic Community Services of Western Washington
 topics:
-  - Community & Social Services
-  - Disabilities
-  - Financial Assistance
-  - Food & Nutrition
-  - Health Care
-  - Mental Health & Counseling
-  - Personal & Household Needs
-  - Shelter & Housing
+- Disabilities
+- Financial Assistance
+- Food & Nutrition
+- Health Care
+- Mental Health & Counseling
+- Personal & Household Needs
+- Shelter & Housing
 type: Community-Based Organization
 website: https://ccsww.org/
 ---

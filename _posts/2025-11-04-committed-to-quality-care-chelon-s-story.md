@@ -166,7 +166,6 @@ original_markdown_body: |-
   The post [Committed to Quality Care: Chelon’s Story](https://www.brightspark.org/2025/11/committed-to-quality-care-chelons-story/) appeared first on [BrightSpark](https://www.brightspark.org).
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 ---
 

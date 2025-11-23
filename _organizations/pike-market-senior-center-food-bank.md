@@ -6,8 +6,8 @@ address: 85 Pike Street, LaSalle Hotel building, Seattle, WA 98101
 title: Pike Market Senior Center & Food Bank
 topics:
 - Food & Nutrition
-- Community & Social Services
 - Shelter & Housing
+- Senior Services
 type: Community-Based Organization
 website: https://www.pmsc-fb.org/
 ---

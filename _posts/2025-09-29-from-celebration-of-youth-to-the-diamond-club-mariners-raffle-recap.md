@@ -9,7 +9,6 @@ original_markdown_body: At this year’s Celebration of Youth Foster Care event,
   Liner-Sanders took home our raffle prize, two Diamond Club Mariners...
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 ---
 

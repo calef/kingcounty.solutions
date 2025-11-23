@@ -7,7 +7,6 @@ email: NBCC@bellevuewa.gov
 address: 4063 148th Ave NE, Bellevue, WA 98007
 title: North Bellevue Community Center
 topics:
-- Community & Social Services
 - Health Care
 - Education & Learning
 type: City

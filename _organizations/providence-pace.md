@@ -6,7 +6,6 @@ parent_organization: Providence
 title: Providence PACE
 topics:
 - Health Care
-- Community & Social Services
 - Disabilities
 type: Program
 website: https://providence.org/elderplace

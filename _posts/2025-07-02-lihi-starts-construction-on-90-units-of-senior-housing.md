@@ -9,7 +9,6 @@ original_markdown_body: Rendering by Runberg Architecture Group LIHI is pleased 
   announce that construction is set to start on 125th Senior Housing, a 90-unit,...
 summarized: true
 topics:
-- Community & Social Services
 - Shelter & Housing
 ---
 

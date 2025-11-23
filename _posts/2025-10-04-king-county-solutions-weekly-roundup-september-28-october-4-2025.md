@@ -5,7 +5,6 @@ source: King County Solutions
 summarized: true
 topics:
 - Health Care
-- Community & Social Services
 - Education & Learning
 - Transportation & Mobility
 ---

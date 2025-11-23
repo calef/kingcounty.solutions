@@ -5,7 +5,6 @@ news_rss_url: https://www.bethanypc.org/feed/
 email: leslier@bethanypc.org
 title: Bethany Presbyterian Church
 topics:
-- Community & Social Services
 - Mental Health & Counseling
 type: Community-Based Organization
 website: https://www.bethanypc.org/

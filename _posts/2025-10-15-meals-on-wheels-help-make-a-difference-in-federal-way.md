@@ -55,7 +55,6 @@ original_markdown_body: "**Program:** &nbsp;Meals on Wheels  \n**Location:** &nb
   appeared first on [Sound Generations](https://soundgenerations.org)."
 summarized: true
 topics:
-- Community & Social Services
 - Food & Nutrition
 - Personal & Household Needs
 ---

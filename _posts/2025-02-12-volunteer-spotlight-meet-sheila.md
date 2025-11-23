@@ -47,7 +47,6 @@ original_markdown_body: |-
   The post [Volunteer Spotlight: Meet Sheila](https://hungerintervention.org/2025/02/11/volunteer-spotlight-meet-sheila/) appeared first on [Hunger Intervention Program](https://hungerintervention.org).
 summarized: true
 topics:
-- Community & Social Services
 - Food & Nutrition
 ---
 

@@ -16,7 +16,6 @@ original_markdown_body: |-
 summarized: true
 topics:
 - Shelter & Housing
-- Community & Social Services
 ---
 
 The Housing Washington 2025 Conference, held on September 29-30 in Bellevue, WA, gathered housing advocates, developers, policymakers, and service providers to discuss affordable housing's future. The event featured keynote speakers Brian Goldstone and Keeanga-Yamahtta Taylor, who addressed the systemic issues contributing to housing insecurity. Attendees engaged in breakout sessions covering various topics, including advocacy, homeownership, and strategies to combat homelessness. Workshops and "Learning Labs" provided practical tools for implementing fair housing policies and strengthening community development efforts.

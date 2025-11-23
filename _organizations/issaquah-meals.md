@@ -9,7 +9,6 @@ title: Issaquah Meals
 topics:
 - Food & Nutrition
 - Shelter & Housing
-- Community & Social Services
 type: Program
 website: https://ccsww.org/services/issaquah-meals/
 ---

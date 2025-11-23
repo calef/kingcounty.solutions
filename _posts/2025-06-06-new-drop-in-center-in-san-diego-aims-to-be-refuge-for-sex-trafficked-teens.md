@@ -10,7 +10,6 @@ original_markdown_body: |-
   The post [New Drop-In Center in San Diego Aims to be Refuge for Sex-Trafficked Teens](https://www.olivecrest.org/21253-2/) first appeared on [Olive Crest](https://www.olivecrest.org).
 summarized: true
 topics:
-- Community & Social Services
 - Domestic Violence
 images:
 - 3c50d39602d90c4150335341f3f7012bc1d811fcf9a64c1fbd3f7fd439387c55

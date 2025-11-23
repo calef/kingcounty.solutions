@@ -71,7 +71,6 @@ original_markdown_body: |-
   To learn more and follow Commerce’s work with tribal nations and communities within Washington, visit the [Office of Tribal Relations webpage](https://www.commerce.wa.gov/tribal-relations/).
 summarized: true
 topics:
-- Community & Social Services
 - Shelter & Housing
 images:
 - b92c2ee9f6d038cf6ffddb13a169f719e2e6ed9bd7696e75c2f3800c7d69ebbe

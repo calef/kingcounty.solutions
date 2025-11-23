@@ -2,8 +2,6 @@
 jurisdictions:
 - Bellevue
 title: City of Bellevue
-topics:
-- Community & Social Services
 type: City
 website: https://bellevuewa.gov/
 ---

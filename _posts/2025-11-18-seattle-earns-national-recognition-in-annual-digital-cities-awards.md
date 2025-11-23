@@ -15,7 +15,6 @@ summarized: true
 topics:
 - Shelter & Housing
 - Transportation & Mobility
-- Community & Social Services
 ---
 
 The City of Seattle has achieved 4th place in the 25th Annual Digital Cities Survey, conducted by the Center for Digital Government, marking its second consecutive year in the top four. This recognition highlights Seattle's innovative use of technology to address urban challenges such as public safety, budget issues, and homelessness. The award underscores the city's commitment to strategic priorities set by the Mayor and City Council, focusing on safety, housing, health, and economic opportunities.

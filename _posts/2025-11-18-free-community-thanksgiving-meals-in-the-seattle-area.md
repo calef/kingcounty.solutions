@@ -117,7 +117,6 @@ original_markdown_body: "The holidays are just around the corner! Explore these 
 summarized: true
 topics:
 - Food & Nutrition
-- Community & Social Services
 ---
 
 This article lists various free Thanksgiving meal events in the Seattle area, providing details on time, location, and offerings. 

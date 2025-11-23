@@ -9,7 +9,6 @@ original_markdown_body: Aging is something we all do, but for those walking thro
   its later chapters, it’s not just about wrinkles or slower steps—it’s about a...
 summarized: true
 topics:
-- Community & Social Services
 - Mental Health & Counseling
 - Disabilities
 ---

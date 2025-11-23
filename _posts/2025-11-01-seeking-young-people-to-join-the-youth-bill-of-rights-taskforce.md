@@ -13,7 +13,6 @@ original_markdown_body: The Youth Bill of Rights Task Force is recruiting young 
   your networks. An application for joining is available through the provided link.
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 - Employment & Job Support
 ---

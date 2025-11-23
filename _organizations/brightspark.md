@@ -1,14 +1,14 @@
 ---
 address: 555 S. Renton Village Place Suite 280, Renton, WA 98057
 jurisdictions:
-  - King County
+- King County
 news_rss_url: https://www.brightspark.org/feed/
 phone: 206-329-1011
 title: BrightSpark
 topics:
-  - Education & Learning
-  - Community & Social Services
-  - Personal & Household Needs
+- Education & Learning
+- Personal & Household Needs
+- Childcare
 type: Community-Based Organization
 website: https://www.brightspark.org/
 ---

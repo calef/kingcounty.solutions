@@ -10,7 +10,6 @@ original_markdown_body: We are excited to share our 2024 Impact Report sharing t
 summarized: true
 topics:
 - Domestic Violence
-- Community & Social Services
 ---
 
 The 2024 Impact Report highlights the achievements made through the collaboration of donors and corporate partners dedicated to ending violence and enhancing community resilience. The report showcases the progress achieved in various initiatives aimed at promoting safety and support within communities. It emphasizes the importance of collective efforts in driving positive change and outlines the measurable impacts of the contributions received. The report is available for viewing online and can also be downloaded in PDF format.

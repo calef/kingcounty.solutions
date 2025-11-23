@@ -7,7 +7,6 @@ title: Centers for Medicare & Medicaid Services
 topics:
 - Health Care
 - Financial Assistance
-- Community & Social Services
 type: Agency
 website: https://www.cms.gov/
 ---

@@ -73,7 +73,6 @@ original_markdown_body: |-
   The post [Staff Corner: June 2025](https://www.elcentrodelaraza.org/staff-corner-june-2025/) appeared first on [El Centro de la Raza](https://www.elcentrodelaraza.org).
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 - Employment & Job Support
 images:

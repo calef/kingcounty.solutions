@@ -10,7 +10,6 @@ original_markdown_body: The post [Enterprise Nexus](https://worksourceskc.org/en
   appeared first on [WorkSource Seattle-King County](https://worksourceskc.org).
 summarized: true
 topics:
-- Community & Social Services
 - Employment & Job Support
 ---
 

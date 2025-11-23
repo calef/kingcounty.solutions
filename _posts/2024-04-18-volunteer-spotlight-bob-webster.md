@@ -110,7 +110,6 @@ original_content: "## Volunteer Spotlight: Bob Webster\n\n![Bob and Junyi share 
 summarized: true
 topics:
 - Education & Learning
-- Community & Social Services
 ---
 
 ```markdown

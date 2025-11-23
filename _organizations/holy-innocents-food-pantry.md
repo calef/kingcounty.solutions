@@ -8,7 +8,6 @@ phone: 425-788-1400
 title: Holy Innocents Food Pantry
 topics:
 - Food & Nutrition
-- Community & Social Services
 type: Community-Based Organization
 website: https://www.holyinn.org/holy-innocents-food-pantry
 ---

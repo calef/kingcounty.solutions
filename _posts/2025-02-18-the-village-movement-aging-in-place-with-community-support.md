@@ -9,7 +9,6 @@ original_markdown_body: Aging in place—the ability to remain in one's home and
   as we grow older—is a goal for many older adults. However, challenges...
 summarized: true
 topics:
-- Community & Social Services
 - Disabilities
 - Transportation & Mobility
 ---

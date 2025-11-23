@@ -12,7 +12,6 @@ original_markdown_body: This op-ed originally appeared in Passenger Transport, t
 summarized: true
 topics:
 - Transportation & Mobility
-- Community & Social Services
 ---
 
 The article reflects on the importance of communication and marketing strategies at King County Metro, drawing from personal experiences with public transportation. The author emphasizes the significance of conveying a long-term vision, especially during challenging times like the pandemic. Despite funding instability and workforce shortages, Metro maintained its commitment to serving riders and fostering hope. Campaigns such as “It’s a great day to ride Metro” showcased the beauty of transit and aimed to enhance public optimism.

@@ -36,7 +36,6 @@ original_markdown_body: |-
   The post [Volunteer Spotlight: Meet Lauren](https://hungerintervention.org/2024/12/11/volunteer-spotlight-lauren/) appeared first on [Hunger Intervention Program](https://hungerintervention.org).
 summarized: true
 topics:
-- Community & Social Services
 - Food & Nutrition
 - Shelter & Housing
 images:

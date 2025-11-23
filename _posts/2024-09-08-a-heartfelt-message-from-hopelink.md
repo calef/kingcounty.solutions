@@ -30,7 +30,6 @@ original_content: |-
   _The Hopelink Board of Directors has appointed Chief Operating Officer Meghan Altimore as Interim CEO. All Hopelink services will continue while Hopelink provides grief support for its staff. Community members who wish to send sympathies may do so on this&nbsp;[**online memorial**](https://www.kudoboard.com/boards/HnLFTSx4)._
 summarized: true
 topics:
-- Community & Social Services
 - Financial Assistance
 - Employment & Job Support
 ---

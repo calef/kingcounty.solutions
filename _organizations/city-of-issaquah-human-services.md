@@ -3,9 +3,6 @@ jurisdictions:
 - Issaquah
 parent_organization: City of Issaquah
 title: City of Issaquah Human Services
-topics:
-- Community & Social Services
-- Shelter & Housing
 type: Division
 website: https://www.issaquahwa.gov/268/Human-Services
 ---

@@ -8,7 +8,6 @@ original_markdown_body: "#### \n\n**Often, education services look like play!** 
 summarized: true
 topics:
 - Education & Learning
-- Community & Social Services
 images:
 - fb7efacda1fffb27fd6894e4aa3d9f70bf42efa11ee5bcfa75983bcc0c4fc43d
 - ad234276a37c2d45df7225f1fb492ef034ece7f1fd3da007270c2b6f4be9b073

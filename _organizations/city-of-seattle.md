@@ -4,7 +4,6 @@ jurisdictions:
 news_rss_url: https://news.seattle.gov/feed/
 title: City of Seattle
 topics:
-- Community & Social Services
 - Shelter & Housing
 - Transportation & Mobility
 type: City

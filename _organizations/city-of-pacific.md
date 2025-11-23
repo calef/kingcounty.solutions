@@ -4,9 +4,6 @@ jurisdictions:
 phone: 253-929-1100
 address: 100 3rd Ave SE, Pacific, WA 98047
 title: City of Pacific
-topics:
-- Community & Social Services
-- Personal & Household Needs
 type: City
 website: https://www.pacificwa.gov/services
 ---

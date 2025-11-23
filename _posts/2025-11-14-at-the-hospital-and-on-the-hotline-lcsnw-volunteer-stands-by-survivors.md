@@ -38,7 +38,6 @@ original_markdown_body: |-
   The post [At the hospital and on the hotline, LCSNW volunteer stands by survivors](https://lcsnw.org/2025/11/lcsnw-volunteer-stands-by-survivors/) appeared first on [LCSNW](https://lcsnw.org).
 summarized: true
 topics:
-- Community & Social Services
 - Domestic Violence
 - Mental Health & Counseling
 images:

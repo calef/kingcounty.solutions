@@ -19,7 +19,6 @@ original_markdown_body: December 2024The sights, sounds, and delicious smells of
   being safe. It's a tangible
 summarized: true
 topics:
-- Community & Social Services
 - Shelter & Housing
 ---
 

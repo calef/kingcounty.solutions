@@ -7,7 +7,6 @@ phone: 425-736-8132
 title: Renewal Food Bank
 topics:
 - Food & Nutrition
-- Community & Social Services
 type: Community-Based Organization
 website: https://renewalfoodbank.org/
 ---

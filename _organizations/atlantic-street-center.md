@@ -7,7 +7,6 @@ news_rss_url: https://atlanticstreetcenter.org/feed/
 email: referrals@atlanticstreet.org
 title: Atlantic Street Center
 topics:
-- Community & Social Services
 - Education & Learning
 - Mental Health & Counseling
 type: Community-Based Organization

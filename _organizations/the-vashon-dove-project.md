@@ -8,7 +8,6 @@ title: The Vashon DOVE Project
 topics:
 - Domestic Violence
 - Mental Health & Counseling
-- Community & Social Services
 type: Community-Based Organization
 website: https://www.vashondoveproject.org
 ---

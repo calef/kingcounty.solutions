@@ -8,7 +8,6 @@ topics:
 - Food & Nutrition
 - Financial Assistance
 - Shelter & Housing
-- Community & Social Services
 type: Community-Based Organization
 website: https://plateauoutreach.org
 ---

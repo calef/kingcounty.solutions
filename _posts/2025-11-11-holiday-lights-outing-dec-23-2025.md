@@ -15,7 +15,6 @@ original_markdown_body: |-
   Join us on a drive around Candy Cane Lane! Meet at WCSC for some cookies and hot chocolate beforehand, and then hop on the van to view the famous street of holiday lights. $2 for members, $4 for non-members
 summarized: true
 topics:
-- Community & Social Services
 images:
 - a16ada7abc2eb36c6ef3aca9c8104fe4651a09c7c3157506cbc39d1b5e1ac8bc
 ---

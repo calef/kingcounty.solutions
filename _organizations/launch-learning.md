@@ -12,6 +12,7 @@ topics:
 - Education & Learning
 - Food & Nutrition
 - Financial Assistance
+- Childcare
 type: Community-Based Organization
 website: https://launchlearning.org
 ---

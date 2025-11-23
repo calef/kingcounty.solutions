@@ -22,7 +22,6 @@ original_markdown_body: "In late July, Ballard Boys & Girls Club field was full 
 summarized: true
 topics:
 - Education & Learning
-- Community & Social Services
 images:
 - 6823564847db3b6f64cdb2c6bd4ac507e00c147d386420ead85cb88340105e2d
 - 2d9a784a22c7e207edfff60e26e0057019d0f9c1787a56f311c1a5be16a28475

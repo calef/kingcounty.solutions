@@ -7,7 +7,6 @@ events_ical_url: https://skc.ciswa.org/events/?ical=1
 title: Communities In Schools of South King County
 topics:
 - Education & Learning
-- Community & Social Services
 type: Community-Based Organization
 website: https://federalway.ciswa.org/
 ---

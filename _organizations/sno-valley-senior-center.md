@@ -8,7 +8,7 @@ phone: 425-333-4152
 title: Sno-Valley Senior Center
 topics:
 - Food & Nutrition
-- Community & Social Services
+- Senior Services
 type: Community-Based Organization
 website: https://snovalleysenior.org/services/food-and-dining/
 ---

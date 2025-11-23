@@ -6,7 +6,6 @@ news_rss_url: https://kcls.org/feed/
 title: King County Library System
 topics:
 - Education & Learning
-- Community & Social Services
 type: Special Purpose District
 website: https://kcls.org
 ---

@@ -2,7 +2,6 @@
 jurisdictions:
 - Renton
 title: City of Renton
-topics: []
 type: City
 website: https://rentonwa.gov
 ---

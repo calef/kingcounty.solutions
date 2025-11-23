@@ -15,7 +15,6 @@ original_markdown_body: Budget proposals would devastate regional nonprofit sect
   Neighborhood House, and Solid Ground are together calling for [...]
 summarized: true
 topics:
-- Community & Social Services
 - Financial Assistance
 - Food & Nutrition
 - Shelter & Housing

@@ -7,7 +7,6 @@ email: aca@seattlearch.org
 address: PO Box 14964, Seattle, WA 98114
 title: Archdiocese of Seattle
 topics:
-- Community & Social Services
 - Disabilities
 - Domestic Violence
 - Education & Learning

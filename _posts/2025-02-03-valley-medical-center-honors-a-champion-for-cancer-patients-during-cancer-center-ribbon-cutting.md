@@ -56,7 +56,6 @@ original_markdown_body: |-
   _Photo credit: Timothy Aguero Photography_
 summarized: true
 topics:
-- Community & Social Services
 - Health Care
 images:
 - 00b214fa45eb928fd09ed6bf585ea2b73aed1bfbc31145f4e5e65b2b14aec569

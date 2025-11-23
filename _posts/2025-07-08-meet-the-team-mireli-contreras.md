@@ -67,7 +67,6 @@ original_markdown_body: "Join us in welcoming Mireli to the Bellevue LifeSpring 
   appeared first on [Bellevue LifeSpring](https://www.bellevuelifespring.org)."
 summarized: true
 topics:
-- Community & Social Services
 - Employment & Job Support
 ---
 

@@ -196,7 +196,6 @@ original_markdown_body: "IR-2025-51, April 16, 2025\n\nWASHINGTON — The Intern
 summarized: true
 topics:
 - Financial Assistance
-- Community & Social Services
 - Employment & Job Support
 ---
 

@@ -7,7 +7,6 @@ original_content: '<figure class="wp-block-image size-large"><img fetchpriority=
 original_markdown_body: "![](https://wallingfordseniors.org/wp-content/uploads/2025/11/2025.12-Lunch-Menu-791x1024.png)"
 summarized: true
 topics:
-- Community & Social Services
 - Food & Nutrition
 images:
 - fd4d5b3ffcb1da049f6214707063bbb2ae0d5d39b9d93a57c7b477359242853b

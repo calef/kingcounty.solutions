@@ -14,7 +14,6 @@ original_markdown_body: There’s going to be a celebration on the Seattle Water
   to the…
 summarized: true
 topics:
-- Community & Social Services
 - Transportation & Mobility
 ---
 

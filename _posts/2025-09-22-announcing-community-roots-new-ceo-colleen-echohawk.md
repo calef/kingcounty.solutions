@@ -24,7 +24,6 @@ original_markdown_body: |-
   The post [Announcing Community Roots’ new CEO, Colleen Echohawk](https://communityrootshousing.org/2025/09/announcing-ceo-colleen-echohawk/) appeared first on [Community Roots Housing](https://communityrootshousing.org).
 summarized: true
 topics:
-- Community & Social Services
 - Shelter & Housing
 ---
 

@@ -95,7 +95,6 @@ original_markdown_body: |-
   **View the Full Executive Summary button at the top of the page.**
 summarized: true
 topics:
-- Community & Social Services
 - Employment & Job Support
 - Financial Assistance
 - Health Care

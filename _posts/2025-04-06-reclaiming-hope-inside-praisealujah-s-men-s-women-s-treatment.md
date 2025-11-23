@@ -10,7 +10,6 @@ original_markdown_body: |-
   Reclaiming Hope: Inside Praisealujah’s Men’s and Women’s Treatment Programs
 summarized: true
 topics:
-- Community & Social Services
 - Food & Nutrition
 - Shelter & Housing
 images:

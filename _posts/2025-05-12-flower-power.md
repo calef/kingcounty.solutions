@@ -28,7 +28,6 @@ original_markdown_body: |-
    ![](https://atlanticstreetcenter.org/wp-content/uploads/2025/05/IMG_4653-683x1024.jpg)
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 images:
 - c3448d72fe92301715c09b23737f9f1e7f814266440633d32fc58804195818a1

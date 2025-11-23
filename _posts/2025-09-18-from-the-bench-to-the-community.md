@@ -30,7 +30,6 @@ original_content: |-
 summarized: true
 topics:
 - Domestic Violence
-- Community & Social Services
 ---
 
 After retiring as a King County Superior Court Judge, Catherine Shaffer began volunteering as a pro bono attorney for ELAP's family law clinics. She focuses specifically on cases involving domestic violence survivors, utilizing her decades of experience in the field. Shaffer spends a few hours each month consulting with clients over Zoom and occasionally takes on longer-term cases. She finds the work rewarding and encourages others to volunteer, emphasizing that the commitment is manageable and effective in serving those who truly need and deserve legal aid.

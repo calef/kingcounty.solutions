@@ -119,7 +119,6 @@ original_markdown_body: |-
   The post [New Hub Location Unlocked](https://www.bellevuelifespring.org/general/new-hub-location/) appeared first on [Bellevue LifeSpring](https://www.bellevuelifespring.org).
 summarized: true
 topics:
-- Community & Social Services
 - Food & Nutrition
 - Financial Assistance
 - Education & Learning

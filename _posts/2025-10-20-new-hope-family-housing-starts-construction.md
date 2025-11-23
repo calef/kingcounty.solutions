@@ -19,7 +19,6 @@ original_markdown_body: "New Hope West Building - Rendering by Weber Thompson Se
 summarized: true
 topics:
 - Shelter & Housing
-- Community & Social Services
 ---
 
 Construction has commenced for New Hope Family Housing in Seattle's Central Area, led by the New Hope Community Development Institute (NHCDI) and the Low Income Housing Institute (LIHI). The development will be situated on two properties owned by the New Hope Missionary Baptist Church at 114 and 123 21st Ave, featuring a total of 92 affordable apartments, including studio, one, and two-bedroom units, aimed at families and individuals earning up to 50% and 60% of the area median income (AMI). Additionally, the project will include office space for NHCDI and Clean Greens, a nonprofit produce market.

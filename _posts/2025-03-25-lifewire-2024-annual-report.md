@@ -22,7 +22,6 @@ original_markdown_body: "![](https://www.lifewire.org/wp-content/uploads/2025/03
 summarized: true
 topics:
 - Domestic Violence
-- Community & Social Services
 images:
 - 6a962ccd78b8bd01ea2d7ba0b33db3ef594d914859d5518b30b61c8305efaba3
 ---

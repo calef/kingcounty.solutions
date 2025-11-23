@@ -9,7 +9,6 @@ original_markdown_body: Kim Donovan lives with MS. For her, affordable housing i
   Seattle wasn’t just shelter. It restored her independence, dignity, and community.
 summarized: true
 topics:
-- Community & Social Services
 - Disabilities
 - Shelter & Housing
 ---

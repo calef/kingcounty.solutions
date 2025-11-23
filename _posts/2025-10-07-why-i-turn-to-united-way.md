@@ -13,7 +13,6 @@ original_markdown_body: |-
 summarized: true
 topics:
 - Financial Assistance
-- Community & Social Services
 - Employment & Job Support
 ---
 

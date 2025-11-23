@@ -112,7 +112,6 @@ original_markdown_body: |-
   The post [&nbsp;South Coast-Area Pilot Helps Patients Reach Lifesaving Care and Earns National Recognition](https://angelflightwest.org/news/south-coast-area-pilot-helps-patients-reach-lifesaving-care-and-earns-national-recognition/) first appeared on [Angel Flight West](https://angelflightwest.org).
 summarized: true
 topics:
-- Community & Social Services
 - Health Care
 - Transportation & Mobility
 ---

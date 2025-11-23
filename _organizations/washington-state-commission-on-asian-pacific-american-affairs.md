@@ -7,7 +7,6 @@ jurisdictions:
 parent_organization: State Executive Branch
 title: Washington State Commission on Asian Pacific American Affairs
 topics:
-- Community & Social Services
 - Education & Learning
 type: Agency
 website: https://capaa.wa.gov/

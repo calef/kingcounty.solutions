@@ -24,7 +24,6 @@ original_markdown_body: "![The image is a promotional flyer for \"Local Meet-Ups
 summarized: true
 topics:
 - Disabilities
-- Community & Social Services
 images:
 - c999218b4043e02e548f69ba351e637e4077059e0fbea81b84df2b3cf250fbbf
 ---

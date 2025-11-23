@@ -4,7 +4,6 @@ jurisdictions:
 parent_organization: City of Bellevue
 title: City of Bellevue Human Services Division
 topics:
-- Community & Social Services
 - Disabilities
 - Food & Nutrition
 - Mental Health & Counseling

@@ -14,7 +14,6 @@ summarized: true
 topics:
 - Employment & Job Support
 - Food & Nutrition
-- Community & Social Services
 ---
 
 Earlier this year, Sacramento's Empress Tavern underwent a transformation under the management of Alchemist Community Development Corporation, aiming to create a neighborhood-centric event space that highlights local food culture and supports equitable access to good food. Partnering with Juma, a nonprofit that empowers youth, the tavern provides opportunities for Juma youth to gain experience in hospitality through entry-level roles. 

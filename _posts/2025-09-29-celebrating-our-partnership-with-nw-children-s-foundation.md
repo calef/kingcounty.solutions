@@ -9,7 +9,6 @@ original_markdown_body: We are thrilled to celebrate NW Children’s Foundation 
   their continued partnership and commitment to young people in our community . &nbsp;...
 summarized: true
 topics:
-- Community & Social Services
 - Shelter & Housing
 - Education & Learning
 - Employment & Job Support

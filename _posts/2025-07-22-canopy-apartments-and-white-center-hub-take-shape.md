@@ -30,7 +30,6 @@ original_markdown_body: |-
   The post [Canopy Apartments and White Center HUB take shape](https://communityrootshousing.org/2025/07/canopy-apartments-white-center-hub/) appeared first on [Community Roots Housing](https://communityrootshousing.org).
 summarized: true
 topics:
-- Community & Social Services
 - Shelter & Housing
 images:
 - 6635637f4017d1b2017b59a93e54ca3d3bfd44888ee72d4e6f4e10e0069841fd

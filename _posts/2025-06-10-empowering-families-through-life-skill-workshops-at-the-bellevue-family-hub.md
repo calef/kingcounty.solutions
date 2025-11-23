@@ -77,7 +77,6 @@ original_markdown_body: |-
   The post [Empowering Families Through Life-Skill Workshops at the Bellevue Family Hub](https://www.bellevuelifespring.org/education/life-skill-workshops/) appeared first on [Bellevue LifeSpring](https://www.bellevuelifespring.org).
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 - Shelter & Housing
 ---

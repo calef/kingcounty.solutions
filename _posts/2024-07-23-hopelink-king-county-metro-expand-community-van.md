@@ -110,7 +110,6 @@ original_content: "## **Hopelink & King County Metro Expand Community Van** &nbs
 summarized: true
 topics:
 - Transportation & Mobility
-- Community & Social Services
 ---
 
 King County Metro's Community Van, a ridesharing service in partnership with Hopelink, is expanding to fill transportation gaps in areas underserved by traditional transit. The service, launched in 2019, has expanded into Redmond and plans to cover the entire Snoqualmie Valley area. The Community Van is driven by volunteer community members and provides a flexible, cost-effective, and environmentally friendly transport option. It's accessible to individuals with mobility challenges and offers a lifeline for seniors. The service is available 24/7 and can be reserved by phone, text, email, or online.

@@ -211,7 +211,6 @@ original_markdown_body: |-
   The post [How Do I Tell My Parents I’m Pregnant?](https://carenetps.org/how-do-i-tell-my-parents-im-pregnant/) first appeared on [Care Net of Puget Sound](https://carenetps.org).
 summarized: true
 topics:
-- Community & Social Services
 - Mental Health & Counseling
 - Financial Assistance
 - Health Care

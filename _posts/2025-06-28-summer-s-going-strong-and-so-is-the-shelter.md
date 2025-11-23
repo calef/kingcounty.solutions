@@ -25,7 +25,6 @@ topics:
 - Food & Nutrition
 - Personal & Household Needs
 - Shelter & Housing
-- Community & Social Services
 ---
 
 Even with warmer weather, people experiencing homelessness still require access to food and hygiene facilities. Westside Neighbors Shelter remains open year-round as a breakfast and warm-up center from 7 to 11 am. Currently, the shelter serves approximately 30 regular clients and 15 drop-in guests each morning, providing a hot breakfast and shower facilities. The shelter is actively seeking volunteers to assist with various tasks, including preparing breakfast, laundering towels, and sorting donations. Community involvement is crucial to supporting those in need.

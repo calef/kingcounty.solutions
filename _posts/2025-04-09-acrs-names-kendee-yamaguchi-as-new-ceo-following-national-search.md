@@ -65,7 +65,6 @@ original_markdown_body: "SEATTLE — After an extensive national search, Asian C
   appeared first on [ACRS](https://acrs.org)."
 summarized: true
 topics:
-- Community & Social Services
 - Disabilities
 - Domestic Violence
 - Education & Learning

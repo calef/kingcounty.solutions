@@ -195,7 +195,6 @@ original_markdown_body: "Diversity, Equity, and Inclusion (DEI) policies are und
   appeared first on [Bike Works](https://bikeworks.org)."
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 - Employment & Job Support
 ---

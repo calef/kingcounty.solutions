@@ -7,7 +7,6 @@ phone: 206-323-3152
 email: greg@rroseattle.org
 title: Diocese of Olympia Refugee Resettlement Office
 topics:
-- Community & Social Services
 - Employment & Job Support
 - Education & Learning
 type: Community-Based Organization

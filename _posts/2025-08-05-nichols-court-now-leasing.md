@@ -10,7 +10,6 @@ original_markdown_body: We are pleased to announce that Nichols Court is ready f
 summarized: true
 topics:
 - Shelter & Housing
-- Community & Social Services
 - Education & Learning
 ---
 

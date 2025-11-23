@@ -59,7 +59,6 @@ original_markdown_body: |-
   The post [Free backpacks, food and fun at Valley Cities’ National Night Out in Auburn](https://valleycities.org/free-backpacks-food-and-fun-at-valley-cities-national-night-out-in-auburn/) appeared first on [Valley Cities Behavioral Health Care](https://valleycities.org).
 summarized: true
 topics:
-- Community & Social Services
 - Mental Health & Counseling
 - Shelter & Housing
 - Education & Learning

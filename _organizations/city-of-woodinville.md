@@ -2,8 +2,6 @@
 jurisdictions:
 - Woodinville
 title: City of Woodinville
-topics:
-- Community & Social Services
 type: City
 website: https://www.ci.woodinville.wa.us/
 ---

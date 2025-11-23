@@ -61,7 +61,6 @@ original_content: "_The Mental Health Champion Award Ceremony will be on October
 summarized: true
 topics:
 - Mental Health & Counseling
-- Community & Social Services
 ---
 
 **NAMI Eastside 2024 Mental Health Champion Award Winners Announced**

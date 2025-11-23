@@ -180,7 +180,6 @@ original_content: "[![Photo of 2024 Rise and Shine award recipients.](https://em
   id=”5955″]"
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 ---
 

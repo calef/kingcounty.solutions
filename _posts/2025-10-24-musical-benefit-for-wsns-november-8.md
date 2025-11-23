@@ -28,7 +28,6 @@ original_markdown_body: |-
   The post [Musical benefit for WSNS November 8](https://westsideneighborsshelter.org/musical-benefit-for-wsns-november-8/) appeared first on [Westside Neighbors Shelter](https://westsideneighborsshelter.org).
 summarized: true
 topics:
-- Community & Social Services
 - Shelter & Housing
 ---
 

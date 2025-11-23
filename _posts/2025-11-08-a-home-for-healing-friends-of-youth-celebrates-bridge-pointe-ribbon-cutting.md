@@ -21,7 +21,6 @@ summarized: true
 topics:
 - Shelter & Housing
 - Mental Health & Counseling
-- Community & Social Services
 - Employment & Job Support
 - Education & Learning
 ---

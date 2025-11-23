@@ -7,7 +7,6 @@ email: sec@sjvkirkland.org
 address: 12600 84th Avenue NE, Kirkland, WA 98034
 title: St. John Vianney Catholic Church
 topics:
-- Community & Social Services
 - Education & Learning
 type: Community-Based Organization
 website: https://www.sjvkirkland.org

@@ -9,7 +9,6 @@ original_markdown_body: DESC is almost ready to have clients move into Steven's 
   and we need your help to make our 109 incoming residents feel at home.
 summarized: true
 topics:
-- Community & Social Services
 - Personal & Household Needs
 - Shelter & Housing
 ---

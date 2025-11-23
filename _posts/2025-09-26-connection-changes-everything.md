@@ -9,7 +9,6 @@ original_markdown_body: For older adults, isolation can have serious consequence
   Studies show that loneliness can lead to depression, cognitive decline, and...
 summarized: true
 topics:
-- Community & Social Services
 - Mental Health & Counseling
 - Transportation & Mobility
 ---

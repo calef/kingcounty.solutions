@@ -20,7 +20,6 @@ summarized: true
 topics:
 - Domestic Violence
 - Shelter & Housing
-- Community & Social Services
 images:
 - d6a3e45242dc0d345e87df78d25c15259dac58b63c5b6dd08cbb70ef303145b4
 ---

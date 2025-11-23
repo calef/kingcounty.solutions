@@ -84,7 +84,6 @@ original_markdown_body: |-
 summarized: true
 topics:
 - Health Care
-- Community & Social Services
 - Financial Assistance
 images:
 - '0589523612458773cc330320377e307f77635752e5d787a2be722b6501434b16'

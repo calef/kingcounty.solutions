@@ -98,7 +98,6 @@ original_markdown_body: |-
   The post [Our emergency services Case Managers are foundational](https://www.compasshousingalliance.org/2025/06/our-emergency-services-case-managers-are-foundational/) appeared first on [Compass Housing Alliance](https://www.compasshousingalliance.org).
 summarized: true
 topics:
-- Community & Social Services
 - Shelter & Housing
 - Employment & Job Support
 ---

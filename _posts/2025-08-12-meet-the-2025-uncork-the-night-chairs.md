@@ -175,7 +175,6 @@ original_markdown_body: |-
   The post [Meet the 2025 Uncork the Night Chairs](https://www.bellevuelifespring.org/general/2025-uncork-the-night-chairs/) appeared first on [Bellevue LifeSpring](https://www.bellevuelifespring.org).
 summarized: true
 topics:
-- Community & Social Services
 - Food & Nutrition
 - Shelter & Housing
 images:

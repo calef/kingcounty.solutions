@@ -128,7 +128,6 @@ original_markdown_body: |-
   The post [CONNECTIONS – October, 2025](https://youthcare.org/blog/connections-october-2025/) appeared first on [YouthCare](https://youthcare.org).
 summarized: true
 topics:
-- Community & Social Services
 - Employment & Job Support
 - Shelter & Housing
 images:

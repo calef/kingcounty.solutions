@@ -14,7 +14,6 @@ original_markdown_body: |-
    ![](https://track.hubspot.com/__ptq.gif?a=532040&k=14&r=https%3A%2F%2Fblog.usa.gov%2Ffive-quick-tips-for-sharing-information-during-an-emergency-2&bu=https%253A%252F%252Fblog.usa.gov&bvt=rss)
 summarized: true
 topics:
-- Community & Social Services
 - Mental Health & Counseling
 - Transportation & Mobility
 images:

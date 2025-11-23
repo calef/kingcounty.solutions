@@ -12,7 +12,6 @@ original_content: 'Public Hearing: Setting Normandy Park’s Property Tax Levy T
   rate will not exceed $1.60 per $1,000 of assessed value.'
 summarized: true
 topics:
-- Community & Social Services
 ---
 
 The City of Normandy Park has issued a public hearing on November 12, 2025, to discuss the proposed 2026 property tax levy. The levy, which will not exceed $1.60 per $1,000 of assessed value, determines the amount of revenue to be collected to support essential city services, including policing, permitting & planning, public works, and community services. Residents can attend in person or via Zoom to provide verbal testimony or submit written comments. The levy amount, once adopted, is certified to King County and included in the annual tax bill. The city encourages residents to join the hearing and stay informed.

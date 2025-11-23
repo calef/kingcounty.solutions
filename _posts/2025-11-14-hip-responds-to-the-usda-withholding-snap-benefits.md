@@ -167,7 +167,6 @@ original_markdown_body: |-
 summarized: true
 topics:
 - Food & Nutrition
-- Community & Social Services
 ---
 
 On November 1, 2025, the USDA decided to withhold emergency SNAP benefits, causing uncertainty for approximately half of Washington's 500,000 SNAP recipients. This decision severely impacted many participants, including seniors like Guadalupe, who rely on SNAP for food security. In response to the cuts, the Hunger Intervention Program (HIP) received emergency funding from the City of Seattle to mitigate the effects. HIP increased budgets for all existing programs, allowing them to provide more food in meals and HIP Packs, as well as offering additional food distribution methods, such as take-away grocery bags. They reached out to local partners, including low-income housing units and community organizations, to assess needs and supplied free groceries, meals, and sandwiches to those affected. The initiative resulted in significant food distribution throughout North King County, thanks to the efforts of volunteers and community members. Despite the federal government reopening, HIP emphasizes that the battle against hunger persists, urging collective action to ensure that no one goes hungry.

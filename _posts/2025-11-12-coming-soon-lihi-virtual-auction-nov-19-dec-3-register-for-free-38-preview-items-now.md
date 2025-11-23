@@ -21,7 +21,6 @@ original_markdown_body: LIHI's Virtual Auction is our big annual public fundrais
 summarized: true
 topics:
 - Shelter & Housing
-- Community & Social Services
 ---
 
 LIHI's Virtual Auction is an upcoming annual public fundraiser supporting Tiny Houses and Urban Rest Stops. The event will take place from November 19th to December 3rd, offering participants the chance to bid on a variety of exciting items. Registration for the auction is free, and attendees can preview items in advance. There is still an opportunity to donate items for the auction or to become a sponsor. Interested parties can find more information about donating items or sponsorship opportunities. For inquiries regarding sponsorship or item donations, contact Aaron via email.

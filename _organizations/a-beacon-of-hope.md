@@ -4,7 +4,6 @@ jurisdictions:
 phone: 253-632-2543
 title: A Beacon of Hope
 topics:
-- Community & Social Services
 - Disabilities
 - Food & Nutrition
 - Personal & Household Needs

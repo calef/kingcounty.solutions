@@ -18,7 +18,6 @@ original_markdown_body: Dearest friends in Vancouver BC, Our hearts ache with yo
   Vancouver Filipino
 summarized: true
 topics:
-- Community & Social Services
 - Domestic Violence
 ---
 

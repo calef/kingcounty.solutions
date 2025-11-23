@@ -7,7 +7,6 @@ original_content: "<p>ACRS, ABAW, and KCBA relaunch Rainier Valley Legal Clinic.
 original_markdown_body: ACRS, ABAW, and KCBA relaunch Rainier Valley Legal Clinic.
 summarized: true
 topics:
-- Community & Social Services
 - Domestic Violence
 - Education & Learning
 - Employment & Job Support

@@ -9,7 +9,6 @@ original_markdown_body: Youth and young adults are heading back to school this m
   and we are asking for school supplies, hygiene items, and snacks to get...
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 - Personal & Household Needs
 ---

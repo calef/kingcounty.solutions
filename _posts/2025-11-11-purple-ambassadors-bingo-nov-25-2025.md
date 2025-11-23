@@ -15,7 +15,6 @@ original_markdown_body: |-
   The Purple Ambassadors, a youth program within the Alzheimer’s Association, is working on increasing youth engagement with the senior community! Join these university students for a fun game of Thanksgiving-themed bingo while winning prizes and learning about the students!
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 images:
 - 79bb4e638bacdb4786f4003a1b2071316a282cfe04d972e2e16653ee15e08b3a

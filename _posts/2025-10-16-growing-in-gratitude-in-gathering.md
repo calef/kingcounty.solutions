@@ -12,7 +12,6 @@ original_markdown_body: |-
   The post [Growing in Gratitude In-Gathering](https://stlukesseattle.org/2025/10/16/growing-in-gratitude-in-gathering/) appeared first on [St. Luke Episcopal Church](https://stlukesseattle.org).
 summarized: true
 topics:
-- Community & Social Services
 ---
 
 Join St. Luke’s on Sunday, October 26, to conclude the Growing in Gratitude campaign with a special worship service followed by a catered lunch from Tutta Bella. During the service, attendees will have the opportunity to submit their “estimate of giving” cards. Afterward, everyone is invited to gather around the tables to share stories of gratitude related to their experiences at St. Luke’s. The event will feature the unveiling of the completed collective artwork from the campaign, along with a small takeaway for attendees to help inspire ongoing gratitude throughout the year. This gathering aims to foster community and reflection on the blessings and support within the St. Luke’s community.

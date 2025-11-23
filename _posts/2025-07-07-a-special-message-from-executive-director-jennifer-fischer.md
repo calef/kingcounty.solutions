@@ -31,7 +31,6 @@ original_markdown_body: |-
   The post [A special message from Executive Director Jennifer Fischer](https://www.bellevuelifespring.org/impact/special-message/) appeared first on [Bellevue LifeSpring](https://www.bellevuelifespring.org).
 summarized: true
 topics:
-- Community & Social Services
 - Food & Nutrition
 - Employment & Job Support
 ---

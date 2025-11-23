@@ -10,7 +10,6 @@ topics:
 - Food & Nutrition
 - Shelter & Housing
 - Financial Assistance
-- Community & Social Services
 - Education & Learning
 type: Community-Based Organization
 website: https://www.bellevuelifespring.org/

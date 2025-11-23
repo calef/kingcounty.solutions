@@ -67,7 +67,6 @@ topics:
 - Financial Assistance
 - Education & Learning
 - Health Care
-- Community & Social Services
 images:
 - 1176cae284e7a82856900021a721e3d740fdd7bfd49e54fa388198b51971fe29
 - 4d75830d004db581c44f6e5113729de3f1a45bb4996e7a227b05fedb222ac2fe

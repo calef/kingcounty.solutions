@@ -25,7 +25,6 @@ original_markdown_body: "Beginning this August, a stroll down Bellingham’s wat
 summarized: true
 published: false
 topics:
-- Community & Social Services
 - Shelter & Housing
 ---
 

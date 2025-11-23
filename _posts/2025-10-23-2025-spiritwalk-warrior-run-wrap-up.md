@@ -12,7 +12,6 @@ original_markdown_body: |-
   The post [2025 SpiritWalk & Warrior Run wrap-up](https://www.sihb.org/2025/10/2025-spiritwalk-warrior-run-wrap-up/) appeared first on [Seattle Indian Health Board](https://www.sihb.org).
 summarized: true
 topics:
-- Community & Social Services
 - Health Care
 ---
 

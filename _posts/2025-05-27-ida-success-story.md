@@ -9,7 +9,6 @@ original_markdown_body: Sayed and his family of 7 came to the US when the Taliba
   took over in Afghanistan in 2019. When he first arrived, there were many things...
 summarized: true
 topics:
-- Community & Social Services
 - Employment & Job Support
 - Financial Assistance
 - Food & Nutrition

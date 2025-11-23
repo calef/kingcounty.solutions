@@ -27,7 +27,6 @@ original_content: |-
   The post [“The Sophia Way will always be my family.”](https://sophiaway.org/tsw-family/) first appeared on [The Sophia Way](https://sophiaway.org).
 summarized: true
 topics:
-- Community & Social Services
 - Shelter & Housing
 ---
 

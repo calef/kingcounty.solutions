@@ -6,7 +6,6 @@ parent_organization: Archdiocese of Seattle
 phone: 253-631-1940
 title: St. Stephen the Martyr Church
 topics:
-- Community & Social Services
 - Education & Learning
 type: Community-Based Organization
 website: https://ststephenslife.com

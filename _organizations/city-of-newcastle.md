@@ -2,8 +2,6 @@
 jurisdictions:
 - Newcastle
 title: City of Newcastle
-topics:
-- Community & Social Services
 type: City
 website: https://www.newcastlewa.gov/
 ---

@@ -111,7 +111,6 @@ original_markdown_body: "PIM Savvy VITA now offers Virtual Tax Preparation servi
 summarized: true
 topics:
 - Financial Assistance
-- Community & Social Services
 - Employment & Job Support
 ---
 

@@ -15,7 +15,6 @@ original_markdown_body: Zheng Zhou just celebrated his two-year anniversary of w
   Human Services? As an Administrative Specialist […]
 summarized: true
 topics:
-- Community & Social Services
 - Food & Nutrition
 - Mental Health & Counseling
 ---

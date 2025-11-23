@@ -1,13 +1,12 @@
 ---
 acronym: DDA
 jurisdictions:
-  - Washington State
+- Washington State
 parent_organization: Department of Social and Health Services
 title: Developmental Disabilities Administration
 topics:
 - Disabilities
 - Employment & Job Support
-- Community & Social Services
 type: Division
 website: https://www.dshs.wa.gov/dda
 ---

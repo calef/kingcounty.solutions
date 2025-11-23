@@ -27,7 +27,6 @@ original_markdown_body: |-
   <object data-wp-bind--hidden="!state.hasPdfPreview" hidden class="wp-block-file__embed" data="https://hospitalityhousesouthking.org/wp-content/uploads/2025/07/7.-July-2025-2.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="Embed of 7. July 2025 (2)."></object>[7. July 2025 (2)](https://hospitalityhousesouthking.org/wp-content/uploads/2025/07/7.-July-2025-2.pdf)[Download](https://hospitalityhousesouthking.org/wp-content/uploads/2025/07/7.-July-2025-2.pdf)
 summarized: true
 topics:
-- Community & Social Services
 - Personal & Household Needs
 images:
 - 54918c78aff99a8390cb0f792bbcb9a404415f0513854717a6a463c406ef2f2c

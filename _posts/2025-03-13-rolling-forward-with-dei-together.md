@@ -90,7 +90,6 @@ original_markdown_body: |-
   The post [Rolling Forward with DEI, together&nbsp;](https://bikeworks.org/rolling-forward-with-dei/) appeared first on [Bike Works](https://bikeworks.org).
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 - Employment & Job Support
 ---

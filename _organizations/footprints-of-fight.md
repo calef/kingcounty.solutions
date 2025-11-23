@@ -6,7 +6,6 @@ news_rss_url: https://www.footprintsoffight.org/feed/
 email: info@footprintsoffight.org
 title: Footprints of Fight
 topics:
-- Community & Social Services
 - Health Care
 type: Community-Based Organization
 website: https://www.footprintsoffight.org/

@@ -12,7 +12,6 @@ topics:
 - Transportation & Mobility
 - Health Care
 - Mental Health & Counseling
-- Community & Social Services
 type: Community-Based Organization
 website: https://rfwellnessfoundation.org/get-help/
 ---

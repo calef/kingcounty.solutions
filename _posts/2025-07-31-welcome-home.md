@@ -20,7 +20,6 @@ original_markdown_body: July 2025We are so grateful for your generosity in provi
 summarized: true
 topics:
 - Mental Health & Counseling
-- Community & Social Services
 ---
 
 Lighthouse Northwest has opened a new long-term residential program for adult women with mental health and substance use challenges. The program aims to provide a safe, supportive environment where residents can focus on recovery and personal growth. It emphasizes a holistic approach to treatment, integrating mental health support with substance use recovery, and is designed to promote independence and stability. 

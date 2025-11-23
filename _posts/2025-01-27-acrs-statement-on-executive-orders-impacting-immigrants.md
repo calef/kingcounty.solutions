@@ -21,7 +21,6 @@ original_markdown_body: |-
   The post [ACRS Statement on Executive Orders Impacting Immigrants](https://acrs.org/acrs-statement-on-executive-orders-impacting-immigrants/) appeared first on [ACRS](https://acrs.org).
 summarized: true
 topics:
-- Community & Social Services
 - Health Care
 - Mental Health & Counseling
 ---

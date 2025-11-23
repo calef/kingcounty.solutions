@@ -40,7 +40,6 @@ original_markdown_body: "**Position:** Delivery Driver&nbsp; &nbsp; &nbsp; &nbsp
 summarized: true
 topics:
 - Food & Nutrition
-- Community & Social Services
 - Transportation & Mobility
 ---
 

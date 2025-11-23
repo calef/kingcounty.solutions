@@ -24,7 +24,6 @@ original_content: "![](https://sophiaway.org/wp-content/uploads/2025/01/NL-image
   first appeared on [The Sophia Way](https://sophiaway.org)."
 summarized: true
 topics:
-- Community & Social Services
 - Shelter & Housing
 ---
 

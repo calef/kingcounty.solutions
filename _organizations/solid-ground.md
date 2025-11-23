@@ -3,17 +3,16 @@ address: 1501 North 45th Street, Seattle, WA 98103
 email: info@solid-ground.org
 events_ical_url: https://www.solid-ground.org/events/?ical=1
 jurisdictions:
-  - Seattle
-  - King County
+- Seattle
+- King County
 news_rss_url: https://www.solid-ground.org/feed/
 phone: 206-694-6700
 title: Solid Ground
 topics:
-  - Community & Social Services
-  - Financial Assistance
-  - Food & Nutrition
-  - Shelter & Housing
-  - Transportation & Mobility
+- Financial Assistance
+- Food & Nutrition
+- Shelter & Housing
+- Transportation & Mobility
 type: Community-Based Organization
 website: https://www.solid-ground.org/
 ---

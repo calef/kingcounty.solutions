@@ -2,9 +2,6 @@
 jurisdictions:
 - Kent
 title: City of Kent
-topics:
-- Community & Social Services
-- Transportation & Mobility
 type: City
 website: https://www.kentwa.gov/
 ---

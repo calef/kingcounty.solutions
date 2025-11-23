@@ -69,7 +69,6 @@ original_markdown_body: "The holidays are around the corner and can stir up many
   on the shortest days.\n\n**Because no one should face cancer alone.**\n\n&nbsp;"
 summarized: true
 topics:
-- Community & Social Services
 - Mental Health & Counseling
 ---
 

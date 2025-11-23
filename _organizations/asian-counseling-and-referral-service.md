@@ -10,7 +10,6 @@ title: Asian Counseling and Referral Service
 topics:
 - Mental Health & Counseling
 - Employment & Job Support
-- Community & Social Services
 - Health Care
 type: Community-Based Organization
 website: https://acrs.org/

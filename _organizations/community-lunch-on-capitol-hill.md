@@ -4,7 +4,6 @@ jurisdictions:
 title: Community Lunch on Capitol Hill
 topics:
 - Food & Nutrition
-- Community & Social Services
 type: Community-Based Organization
 website: https://communitylunch.org
 ---

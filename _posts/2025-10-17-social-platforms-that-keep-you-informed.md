@@ -12,7 +12,6 @@ original_markdown_body: |-
   [Source](https://www.uwkc.org/news/social-platforms-that-keep-you-informed/)
 summarized: true
 topics:
-- Community & Social Services
 - Food & Nutrition
 - Shelter & Housing
 - Education & Learning

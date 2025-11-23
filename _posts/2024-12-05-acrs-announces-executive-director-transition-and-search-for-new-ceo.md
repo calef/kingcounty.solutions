@@ -61,7 +61,6 @@ original_markdown_body: "SEATTLE – Asian Counseling and Referral Service (ACRS
   appeared first on [ACRS](https://acrs.org)."
 summarized: true
 topics:
-- Community & Social Services
 ---
 
 ACRS has announced that Executive Director Michael Byun will be transitioning from his role, with the search for a new Chief Executive Officer (CEO) commencing in December 2024. Byun has led ACRS for nearly seven years, navigating significant milestones including the organization’s 50th anniversary and challenges like the global pandemic and racial justice movements. He expressed pride in the resilience of ACRS and its community, emphasizing the importance of collaborative efforts in facing potential threats to the communities served.

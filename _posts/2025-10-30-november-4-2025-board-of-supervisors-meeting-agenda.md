@@ -7,7 +7,6 @@ original_content: '2025\_11\_04 KCD BOS Meeting Agenda and Materials &nbsp; Nove
   4th, 2025, at 5:00 PM Hybrid Meeting In Person: 800 SW … [Continued](https://kingcd.org/november-4-2025-board-of-supervisors-meeting-agenda-2/)'
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 ---
 

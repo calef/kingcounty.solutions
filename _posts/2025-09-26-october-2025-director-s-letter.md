@@ -56,7 +56,6 @@ original_markdown_body: "Ahoy! The Sno-Valley Senior Center Gala & Auction is co
   appeared first on [Sno-Valley Senior Center](https://snovalleysenior.org)."
 summarized: true
 topics:
-- Community & Social Services
 - Food & Nutrition
 - Employment & Job Support
 ---

@@ -9,7 +9,6 @@ original_content: |-
   [Read More... from Willem’s History](https://iacswa.org/willems-history/)
 summarized: true
 topics:
-- Community & Social Services
 - Disabilities
 - Mental Health & Counseling
 ---

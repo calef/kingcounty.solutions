@@ -26,7 +26,6 @@ original_markdown_body: "In 1925, the [Devonshire Apartments](https://communityr
 summarized: true
 topics:
 - Shelter & Housing
-- Community & Social Services
 images:
 - 37d89dc511c8acc66691ba7d840aef5d454fe53e073614c927570cf45662865f
 - 8f7791535c32b1b5bd897099205fb91890f83092cf189a920b464e94def22a0b

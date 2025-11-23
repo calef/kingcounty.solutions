@@ -6,7 +6,6 @@ address: 5515 Phinney Ave N, Seattle, WA 98103
 title: PNA Hot Meal Program
 topics:
 - Food & Nutrition
-- Community & Social Services
 type: Program
 website: https://www.phinneycenter.org/hotmeal/
 ---

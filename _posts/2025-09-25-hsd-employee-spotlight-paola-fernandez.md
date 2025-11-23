@@ -15,7 +15,6 @@ original_markdown_body: Paola Fernandez joined the Human Services Department’s
   role at Seattle Human Services? As a Counselor/Case Manager […]
 summarized: true
 topics:
-- Community & Social Services
 - Disabilities
 - Domestic Violence
 - Mental Health & Counseling

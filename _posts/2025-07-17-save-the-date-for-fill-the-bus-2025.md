@@ -12,7 +12,6 @@ original_markdown_body: |-
   You just read [Save the Date for Fill the Bus 2025](https://skc.ciswa.org/news/save-the-date-for-fill-the-bus-2025/) on [Communities In Schools of South King County](https://skc.ciswa.org).
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 ---
 

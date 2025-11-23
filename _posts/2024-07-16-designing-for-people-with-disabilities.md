@@ -13,7 +13,6 @@ original_markdown_body: |-
 summarized: true
 topics:
 - Disabilities
-- Community & Social Services
 images:
 - cd8b46fe953cbe0e1dacdc04c7cb82688ae28b19cc7d9ad208fa02d3b1637d2b
 - dc111a70984a9eda00752b06277113029ef288f1125c31eff2477413e15e8aa4

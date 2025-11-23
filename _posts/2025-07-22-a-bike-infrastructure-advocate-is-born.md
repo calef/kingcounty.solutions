@@ -109,7 +109,6 @@ original_markdown_body: |-
 summarized: true
 topics:
 - Education & Learning
-- Community & Social Services
 - Transportation & Mobility
 images:
 - 92e270e672ab2dbf5aaf33923357a7bd45a1034fee8100ec3217899e3b5a8a9f

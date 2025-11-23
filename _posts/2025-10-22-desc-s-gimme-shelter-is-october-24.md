@@ -15,7 +15,6 @@ original_markdown_body: DESC’s annual benefit concert and program spotlight, G
   with a FREE Program Spotlight focused […]
 summarized: true
 topics:
-- Community & Social Services
 - Shelter & Housing
 - Health Care
 - Mental Health & Counseling

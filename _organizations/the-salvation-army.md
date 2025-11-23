@@ -4,7 +4,6 @@ jurisdictions:
 acronym: TSA
 title: The Salvation Army
 topics:
-- Community & Social Services
 - Food & Nutrition
 - Shelter & Housing
 - Financial Assistance

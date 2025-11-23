@@ -7,7 +7,6 @@ original_content: <img src="https://www.burienwa.gov/UserFiles/Servers/Server_11
 original_markdown_body: '![](https://www.burienwa.gov/UserFiles/Servers/Server_11045935/Image/Featured_Events/City%20Chat%20ED-HS%20-%20FE.png)Join us for free light refreshments at our "City Chat" on Thursday, November 20 at the Burien Library and City Hall multipurpose room!'
 summarized: true
 topics:
-- Community & Social Services
 - Food & Nutrition
 - Shelter & Housing
 images:

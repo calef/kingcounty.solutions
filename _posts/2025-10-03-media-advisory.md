@@ -15,7 +15,6 @@ original_markdown_body: |-
   The post [\*MEDIA ADVISORY\*&nbsp;&nbsp;](https://nhwa.org/2025/10/03/wilcox-media-advisory/) appeared first on [Neighborhood House](https://nhwa.org).
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 ---
 

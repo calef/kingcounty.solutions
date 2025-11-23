@@ -8,7 +8,6 @@ title: Sea Mar Community Health Centers - Bellingham Dental Clinic
 topics:
 - Health Care
 - Mental Health & Counseling
-- Community & Social Services
 type: Community-Based Organization
 website: https://www.seamar.org/whatcom-dental-bellingham.html
 ---

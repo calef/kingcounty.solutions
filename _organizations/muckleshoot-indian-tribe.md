@@ -3,7 +3,7 @@ jurisdictions:
 - King County
 title: Muckleshoot Indian Tribe
 topics:
-- Community & Social Services
+- Shelter & Housing
 type: Tribe
 website: https://www.muckleshoot.nsn.us/
 ---

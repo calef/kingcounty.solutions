@@ -12,7 +12,6 @@ original_markdown_body: |-
   The post [November Warm Clothing Drive](https://stlukesseattle.org/2025/11/06/november-warm-clothing-drive/) appeared first on [St. Luke Episcopal Church](https://stlukesseattle.org).
 summarized: true
 topics:
-- Community & Social Services
 - Personal & Household Needs
 - Shelter & Housing
 ---

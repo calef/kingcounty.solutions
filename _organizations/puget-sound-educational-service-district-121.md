@@ -8,7 +8,6 @@ address: 800 Oakesdale Ave SW, Renton, WA, 98057
 title: Puget Sound Educational Service District 121
 topics:
 - Education & Learning
-- Community & Social Services
 type: Agency
 website: https://www.psesd.org/programs-services/learning-teaching-and-family-support-ltfs/enhancing-social-emotional-practices/expanded-learning
 ---

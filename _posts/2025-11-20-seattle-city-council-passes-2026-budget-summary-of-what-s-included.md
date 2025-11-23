@@ -12,7 +12,6 @@ original_markdown_body: |-
   The post [Seattle City Council Passes 2026 Budget: Summary of what’s included&nbsp;](https://council.seattle.gov/2025/11/20/seattle-city-council-passes-2026-budget-summary-of-whats-included/) appeared first on [Seattle City Council Blog](https://council.seattle.gov/).
 summarized: true
 topics:
-- Community & Social Services
 - Shelter & Housing
 - Food & Nutrition
 - Transportation & Mobility

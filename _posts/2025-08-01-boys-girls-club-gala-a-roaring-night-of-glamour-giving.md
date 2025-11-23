@@ -39,7 +39,6 @@ original_markdown_body: "# **Our online silent auction is open!**\n\n**[Click he
 summarized: true
 topics:
 - Education & Learning
-- Community & Social Services
 images:
 - 798dfbf63e394813fb8a64afa50dbda34984b65f18c86e84d618e3570de4b1ee
 - bfe560429095619a7475704acda8eff72e35ce381d94bf27e375c40b59ae16d3

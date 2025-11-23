@@ -13,7 +13,6 @@ original_markdown_body: |-
 summarized: true
 topics:
 - Shelter & Housing
-- Community & Social Services
 ---
 
 As winter approaches, the KCRHA prepares for the severe weather season, which typically begins around Thanksgiving. The organization is actively analyzing the previous season to enhance its response and has several initiatives underway, including establishing contracts for 2025 severe weather responses and preparing for the 2026 Severe Weather Response Request for Proposals. They are also collaborating with various partners and community organizations to improve shelter options. 

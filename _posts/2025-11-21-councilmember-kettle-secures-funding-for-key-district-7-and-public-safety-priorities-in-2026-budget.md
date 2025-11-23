@@ -13,7 +13,6 @@ original_markdown_body: |-
   The post [Councilmember Kettle secures funding for key District 7 and public safety priorities in 2026 budget](https://council.seattle.gov/2025/11/21/councilmember-kettle-secures-funding-for-key-district-7-and-public-safety-priorities-in-2026-budget/) appeared first on [Seattle City Council Blog](https://council.seattle.gov/).
 summarized: true
 topics:
-- Community & Social Services
 - Domestic Violence
 - Shelter & Housing
 ---

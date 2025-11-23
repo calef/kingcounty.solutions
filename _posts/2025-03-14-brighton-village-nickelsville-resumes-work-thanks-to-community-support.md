@@ -10,7 +10,6 @@ original_markdown_body: We're pleased to report that we received word yesterday 
 summarized: true
 topics:
 - Shelter & Housing
-- Community & Social Services
 ---
 
 Nickelsville has received approval from the City of Seattle's Human Services Department to resume work on the Brighton Village site. This development comes thanks to the support of community allies who signed petitions, made phone calls, and sent emails advocating for the project. With this go-ahead, Nickelsville aims to provide safe and empowering shelter for individuals experiencing homelessness in the area.

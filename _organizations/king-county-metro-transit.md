@@ -4,7 +4,6 @@ jurisdictions:
 news_rss_url: https://kingcountymetro.blog/feed/
 title: King County Metro Transit
 topics:
-- Community & Social Services
 - Transportation & Mobility
 type: Special Purpose District
 website: https://kingcountymetro.blog/

@@ -21,7 +21,6 @@ original_markdown_body: |-
   Join Valley Girls & Guys and Valley Medical Center on Sept. 20&nbsp;at the 7th annual Be&nbsp;The HOPE Walk—participate in-person or&nbsp;virtually. It’s a good time and a great cause!&nbsp;The 1.8-mile walk begins at 10 AM and supports cancer patients, oncology programs and care at Valley Medical Center and other local organizations. Hang out afterward and enjoy live entertainment, refreshments and a variety of food trucks.&nbsp;[Register today, walk with us and help generate HOPE for others in our community!](https://events.hakuapp.com/19bd42dfc8289b184669)
 summarized: true
 topics:
-- Community & Social Services
 - Health Care
 - Food & Nutrition
 images:

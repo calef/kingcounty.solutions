@@ -4,7 +4,6 @@ jurisdictions:
 news_rss_url: https://snoqualmietribe.us/feed/
 title: Snoqualmie Indian Tribe
 topics:
-- Community & Social Services
 - Financial Assistance
 - Food & Nutrition
 type: Tribe

@@ -43,7 +43,6 @@ original_markdown_body: |-
   The post [Please Support Our Neighbors Helping Neighbors Campaign](https://www.issaquahcommunityservices.org/leftsidepost/support-our-neighbors-helping-neighbors-campaign/) first appeared on [Issaquah Community Services](https://www.issaquahcommunityservices.org).
 summarized: true
 topics:
-- Community & Social Services
 - Financial Assistance
 - Shelter & Housing
 ---

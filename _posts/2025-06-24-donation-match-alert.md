@@ -21,7 +21,6 @@ original_markdown_body: |-
   ![](https://hospitalityhousesouthking.org/wp-content/uploads/2025/06/2030.png)
 summarized: true
 topics:
-- Community & Social Services
 - Financial Assistance
 images:
 - 8823bd4783fc933685278b239fe29a365e4b633a1fd3d3e7b386ee17486430fa

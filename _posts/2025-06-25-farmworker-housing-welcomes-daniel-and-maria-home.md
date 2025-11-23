@@ -134,7 +134,6 @@ original_markdown_body: |-
 summarized: true
 topics:
 - Shelter & Housing
-- Community & Social Services
 images:
 - 0fba3a460c400f547769c87db884625a65a6440876aa122d1434d83649ede1db
 - c9c9b012407dc893c24808605db8d2fa67cd2def666672b14f86ac0cd5b48516

@@ -81,7 +81,6 @@ topics:
 - Disabilities
 - Education & Learning
 - Employment & Job Support
-- Community & Social Services
 images:
 - 0cebc7896762c9bd3794070b6031b2787d90463a8722315612f6d6904e387ea0
 - 517805130b4d8c613832d1ed27173400213a127ec4b61f6637b5ab77e6891647

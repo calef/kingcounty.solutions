@@ -85,7 +85,6 @@ original_markdown_body: |-
   The post [Blooms, bubbles, bling, and giving back!](https://www.bellevuelifespring.org/general/blooms-bubbles-bling/) appeared first on [Bellevue LifeSpring](https://www.bellevuelifespring.org).
 summarized: true
 topics:
-- Community & Social Services
 - Food & Nutrition
 - Shelter & Housing
 images:

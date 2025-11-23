@@ -8,7 +8,6 @@ original_markdown_body: "On Sunday September 7th, 2025, neighbors and community 
 summarized: true
 topics:
 - Food & Nutrition
-- Community & Social Services
 images:
 - 5529c7f31f61f433384009e3b3594878599c2e58db95dfd8309b887d41c0ef34
 - dadf683e5d78e027451e82fc45ed345bc6bd27c9a0820dfbbeb9eda117a6e9ec

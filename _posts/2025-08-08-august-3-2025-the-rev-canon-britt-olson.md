@@ -12,7 +12,6 @@ original_markdown_body: |-
   The post [August 3, 2025 — The Rev Canon Britt Olson](https://stlukesseattle.org/2025/08/08/august-3-2025-the-rev-canon-britt-olson/) appeared first on [St. Luke Episcopal Church](https://stlukesseattle.org).
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 ---
 

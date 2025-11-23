@@ -33,7 +33,6 @@ original_markdown_body: |-
 summarized: true
 topics:
 - Mental Health & Counseling
-- Community & Social Services
 images:
 - 69dd1537fd66905f2e3aaeaf31b57c45139cabf6c9a48489077ee62c4a562dab
 - bc7f00968dea56be77ab677ae4c9a62bd9df1af91faee82dd8688db23f2b7550

@@ -4,7 +4,6 @@ jurisdictions:
 title: Duwamish Tribe
 topics:
 - Domestic Violence
-- Community & Social Services
 - Education & Learning
 type: Tribe
 website: https://www.duwamishtribe.org/

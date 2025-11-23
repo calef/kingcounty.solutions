@@ -2,14 +2,13 @@
 address: 97 S Main Street, Seattle, WA 98104
 email: info@breadoflifemission.org
 jurisdictions:
-  - Seattle
+- Seattle
 phone: 206-682-3579
 title: Bread of Life Mission
 topics:
-  - Community & Social Services
-  - Food & Nutrition
-  - Mental Health & Counseling
-  - Shelter & Housing
+- Food & Nutrition
+- Mental Health & Counseling
+- Shelter & Housing
 type: Community-Based Organization
 website: https://breadoflifemission.org/
 ---

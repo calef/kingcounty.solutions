@@ -34,7 +34,6 @@ original_markdown_body: |-
   The post [Youth voices shape the future: Listening sessions reveal hopes and challenges](https://lcsnw.org/2025/07/nextgen/) appeared first on [LCSNW](https://lcsnw.org).
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 - Employment & Job Support
 images:

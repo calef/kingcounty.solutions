@@ -21,7 +21,6 @@ original_content: |-
   The post [Welcoming Week](https://togethercenter.org/2025/09/20/welcoming-week/) appeared first on [Together Center](https://togethercenter.org).
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 ---
 

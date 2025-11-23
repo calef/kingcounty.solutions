@@ -12,7 +12,6 @@ original_markdown_body: |-
   [Source](https://mapsredmond.org/afnan-dallasheh-profile/)
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 - Employment & Job Support
 ---

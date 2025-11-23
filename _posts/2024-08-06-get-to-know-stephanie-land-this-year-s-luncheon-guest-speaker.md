@@ -27,7 +27,6 @@ original_content: |-
   Tickets to attend Reaching Out Luncheon are [now available](https://www.hopelink.org/events/reaching-out-luncheon/).&nbsp;&nbsp;
 summarized: true
 topics:
-- Community & Social Services
 - Financial Assistance
 - Shelter & Housing
 ---

@@ -41,7 +41,6 @@ original_content: |-
   The post [6 Tips to Help Kids Navigate Uncertain Times](https://encompassnw.org/6-tips-to-help-kids-navigate-uncertain-times/) first appeared on [Encompass](https://encompassnw.org).
 summarized: true
 topics:
-- Community & Social Services
 - Mental Health & Counseling
 - Education & Learning
 ---

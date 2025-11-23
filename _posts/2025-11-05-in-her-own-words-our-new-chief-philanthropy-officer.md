@@ -12,7 +12,6 @@ original_markdown_body: |-
   [Source](https://www.uwkc.org/racial-equity-news/in-her-own-words-our-new-chief-philanthropy-officer/)
 summarized: true
 topics:
-- Community & Social Services
 - Financial Assistance
 - Food & Nutrition
 ---

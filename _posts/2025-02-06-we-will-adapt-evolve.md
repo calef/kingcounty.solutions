@@ -38,7 +38,6 @@ original_content: "![](https://sophiaway.org/wp-content/uploads/2025/02/Image-ms
 summarized: true
 topics:
 - Shelter & Housing
-- Community & Social Services
 ---
 
 The Sophia Way, an organization dedicated to helping women journey from homelessness to safe and stable lives, is reaffirming its commitment to adapt and evolve amidst uncertain times. The organization doubled its capacity and expanded its services during events like the 2020 pandemic and the racial reckoning triggered by the killing of George Floyd. The new presidential administration's shifting policies and decisions have created turbulence, but the organization vows to continue providing shelter, safety, and stability for women. Executive Director Dietra Clayton promises open communication about any policy changes that might affect their work.

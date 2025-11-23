@@ -17,7 +17,6 @@ original_content: |-
   The post [High need for family law attorneys](https://elap.org/high-need-for-family-law-attorneys/) appeared first on [Eastside Legal Assistance Program](https://elap.org).
 summarized: true
 topics:
-- Community & Social Services
 - Domestic Violence
 - Financial Assistance
 ---

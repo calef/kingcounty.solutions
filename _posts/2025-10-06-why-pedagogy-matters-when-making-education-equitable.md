@@ -16,7 +16,6 @@ original_markdown_body: Boze Elementary Students work together through a math wo
 summarized: true
 topics:
 - Education & Learning
-- Community & Social Services
 ---
 
 In project-based learning environments like TAF, students collaborate and engage in their own learning processes rather than merely complying with traditional educational models. The article critiques conventional public education, which often prioritizes rote memorization and standardized testing, particularly affecting students of color. This outdated system tends to value correct answers over critical thinking and cultural identity. TAF aims to redefine pedagogy as a means to promote equity, seeing education as a tool for liberation rather than assimilation. 

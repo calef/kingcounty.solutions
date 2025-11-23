@@ -11,7 +11,6 @@ original_markdown_body: By Metro’s Equity, Inclusion and Belonging team Each N
   contributions of Native peoples throughout our region and...
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 ---
 

@@ -8,7 +8,6 @@ title: Women's Programs & WorkFirst
 topics:
 - Education & Learning
 - Financial Assistance
-- Community & Social Services
 type: Program
 website: https://womenswkfirst.highline.edu
 ---

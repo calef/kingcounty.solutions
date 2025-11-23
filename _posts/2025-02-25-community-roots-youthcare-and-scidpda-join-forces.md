@@ -37,7 +37,6 @@ original_markdown_body: |-
   The post [Community Roots, YouthCare, and SCIDpda join forces](https://communityrootshousing.org/2025/02/youthcare-constellation-center/) appeared first on [Community Roots Housing](https://communityrootshousing.org).
 summarized: true
 topics:
-- Community & Social Services
 - Shelter & Housing
 - Education & Learning
 - Employment & Job Support

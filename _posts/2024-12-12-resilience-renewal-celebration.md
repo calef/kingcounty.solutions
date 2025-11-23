@@ -23,7 +23,6 @@ original_content: |-
   The post [Resilience & Renewal Celebration!](https://sophiaway.org/resilience-renewal-celebration/) first appeared on [The Sophia Way](https://sophiaway.org).
 summarized: true
 topics:
-- Community & Social Services
 - Shelter & Housing
 ---
 

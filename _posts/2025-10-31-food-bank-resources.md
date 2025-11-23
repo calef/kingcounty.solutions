@@ -8,7 +8,6 @@ original_markdown_body: "![](https://www.rewa.org/wp-content/uploads/2025/10/SNA
 summarized: true
 topics:
 - Food & Nutrition
-- Community & Social Services
 images:
 - 573588f734bc14d6550ddae839a241e33b2d0035bab15661f4eb02e6d05833ab
 ---

@@ -42,7 +42,6 @@ original_content: |-
 summarized: true
 topics:
 - Education & Learning
-- Community & Social Services
 ---
 
 The King County Library System (KCLS) is launching its annual Summer Reading Program, running until August 31, with reading challenges, prizes, and activities to engage the community. The program is crucial in combating academic lag due to the COVID-19 pandemic, as studies suggest summer reading helps students keep up academically. KCLS recommends 20 minutes of daily reading, and adults are encouraged to model this behavior. The program kicks off with various celebrations across different libraries. KCLS is also observing Pride Month, Juneteenth, and World Refugee Day with curated book lists, arts and crafts programs, and special events.

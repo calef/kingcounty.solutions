@@ -15,7 +15,6 @@ original_markdown_body: Today, the Department of Justice released the [_2025 Ann
   of elder fraud accountable.
 summarized: true
 topics:
-- Community & Social Services
 - Disabilities
 - Domestic Violence
 - Health Care

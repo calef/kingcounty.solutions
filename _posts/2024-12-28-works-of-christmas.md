@@ -324,7 +324,6 @@ original_markdown_body: |-
   The post [Works of Christmas](https://firstchurchseattle.org/work-of-christmas/) appeared first on [First Church Seattle](https://firstchurchseattle.org).
 summarized: true
 topics:
-- Community & Social Services
 - Disabilities
 - Domestic Violence
 - Education & Learning

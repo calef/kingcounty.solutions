@@ -18,7 +18,6 @@ original_content: |-
 summarized: true
 topics:
 - Disabilities
-- Community & Social Services
 - Education & Learning
 - Shelter & Housing
 ---

@@ -23,7 +23,6 @@ original_content: |-
   The post [Honoring, Remembering, and Caring](https://sophiaway.org/honoring-remembering-caring/) first appeared on [The Sophia Way](https://sophiaway.org).
 summarized: true
 topics:
-- Community & Social Services
 - Shelter & Housing
 - Personal & Household Needs
 ---

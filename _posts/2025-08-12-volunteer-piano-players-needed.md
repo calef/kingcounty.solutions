@@ -11,7 +11,6 @@ original_markdown_body: The Federal Way Senior Center is looking for volunteers 
   available&nbsp; Mondays 11:30 -1:00 and Thursday’s […]
 summarized: true
 topics:
-- Community & Social Services
 ---
 
 The Federal Way Senior Center is seeking volunteer piano and guitar players for social sing-along sessions. Shifts are available on Mondays and Thursdays from 11:30 AM to 1:00 PM. Seniors enjoy traditional sing-along tunes as well as classic hits from the past. This opportunity allows musicians to share their talent and bring joy to others, with lunch provided for volunteers. No specific skill level is required; whether playing by ear, imitating styles like Liberace, or using easy play music, anyone willing to contribute is encouraged to apply. Interested individuals can complete a form for further information.

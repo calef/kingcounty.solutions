@@ -5,9 +5,9 @@ jurisdictions:
 news_rss_url: https://wallingfordseniors.org/feed/
 title: Wallingford Community Senior Center
 topics:
-- Community & Social Services
 - Education & Learning
 - Health Care
+- Senior Services
 type: Community-Based Organization
 website: https://www.wallingfordseniors.org
 ---

@@ -7,7 +7,6 @@ title: Kent Youth and Family Services
 topics:
 - Mental Health & Counseling
 - Education & Learning
-- Community & Social Services
 type: Community-Based Organization
 website: https://www.kyfs.org
 ---

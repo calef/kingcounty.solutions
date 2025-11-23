@@ -19,7 +19,6 @@ original_markdown_body: 'It''s Auction Season! Bid on gifts for the holidays & s
   gala...'
 summarized: true
 topics:
-- Community & Social Services
 - Shelter & Housing
 ---
 

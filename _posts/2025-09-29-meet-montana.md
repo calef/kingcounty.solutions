@@ -68,7 +68,6 @@ summarized: true
 topics:
 - Education & Learning
 - Health Care
-- Community & Social Services
 images:
 - bdda98f94426eea1e586cf66a2d0be7720b2a910a51d60c0a3bea4492587a589
 - d1f01a268feeca4cee043d95cfcbc38f2619fb08834528eaf519f62ca7e6e0a0

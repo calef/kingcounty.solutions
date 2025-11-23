@@ -11,7 +11,6 @@ original_markdown_body: 'We are thrilled to share a wonderful feature article fr
   The article, titled “A helping community member: Shelley Puariea,” […]'
 summarized: true
 topics:
-- Community & Social Services
 - Food & Nutrition
 - Education & Learning
 ---

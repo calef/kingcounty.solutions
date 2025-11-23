@@ -9,7 +9,6 @@ original_markdown_body: We are honoring over 20 years of unwavering support from
   Joshua P. Williams Foundation . &nbsp; Though this year marks the final chapter,...
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 ---
 

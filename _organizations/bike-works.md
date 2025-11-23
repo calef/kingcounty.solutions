@@ -9,7 +9,6 @@ email: info@bikeworks.org
 address: '3715 S Hudson St #101, Seattle, WA 98118'
 title: Bike Works
 topics:
-- Community & Social Services
 - Transportation & Mobility
 type: Community-Based Organization
 website: https://bikeworks.org

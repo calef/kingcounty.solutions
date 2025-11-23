@@ -6,7 +6,6 @@ phone: 206-793-2445
 email: development@rewa.org
 title: Refugee Women's Alliance
 topics:
-- Community & Social Services
 - Disabilities
 - Domestic Violence
 - Education & Learning

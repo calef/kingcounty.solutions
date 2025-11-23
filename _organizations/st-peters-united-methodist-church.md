@@ -2,13 +2,12 @@
 address: 17222 NE 8th St, Bellevue, WA 98008
 email: stpeters1@msn.com
 jurisdictions:
-  - Eastside
+- Eastside
 news_rss_url: https://stpetersumc.net/feed/
 phone: 425-747-3210
 title: St. Peter's United Methodist Church
 topics:
-  - Community & Social Services
-  - Shelter & Housing
+- Shelter & Housing
 type: Community-Based Organization
 website: https://stpetersumc.net/
 ---

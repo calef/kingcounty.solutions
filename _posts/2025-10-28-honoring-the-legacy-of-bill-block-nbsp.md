@@ -74,7 +74,6 @@ original_markdown_body: |-
   In expanding its reach and reimagining how a food bank can serve, Rainier Valley Food Bank continues Bill’s legacy of compassion paired with strategy—transforming systems and, in turn, transforming lives.&nbsp;
 summarized: true
 topics:
-- Community & Social Services
 - Food & Nutrition
 - Shelter & Housing
 ---

@@ -7,7 +7,6 @@ email: email@ccskent.org
 address: 1340 W Smith St, Kent, WA 98032
 title: Calvary Chapel South
 topics:
-- Community & Social Services
 - Education & Learning
 type: Community-Based Organization
 website: https://ccskent.org

@@ -13,7 +13,6 @@ topics:
 - Shelter & Housing
 - Education & Learning
 - Employment & Job Support
-- Community & Social Services
 type: Community-Based Organization
 website: https://www.uwkc.org/
 ---

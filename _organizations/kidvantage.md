@@ -6,7 +6,6 @@ news_rss_url: https://kidvantagenw.org/feed/
 title: KidVantage
 topics:
 - Personal & Household Needs
-- Community & Social Services
 type: Community-Based Organization
 website: https://kidvantagenw.org/
 ---

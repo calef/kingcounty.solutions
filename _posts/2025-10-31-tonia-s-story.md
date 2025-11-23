@@ -35,7 +35,6 @@ original_markdown_body: |-
   Her support group became a lifeline in every sense—friends who listen, share, and hold space for honesty and hope. **“There’s something irreplaceable about shared experience,” she says. “It creates permission to be real.”** From sound baths to therapy horses,&nbsp;Tonia&nbsp;found that Cancer Lifeline’s programs seem to “intuitively meet people where they are.” **Now she gives back by facilitating classes herself, helping others find what she found: a community that heals together, one day at a time.**
 summarized: true
 topics:
-- Community & Social Services
 - Health Care
 - Mental Health & Counseling
 ---

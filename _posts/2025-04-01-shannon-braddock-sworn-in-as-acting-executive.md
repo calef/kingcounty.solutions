@@ -57,7 +57,6 @@ original_markdown_body: |-
   [Shannon Braddock sworn in as acting Executive](https://medium.com/kingcounty/shannon-braddock-sworn-in-as-acting-king-county-executive-f89a801dba15) was originally published in [KingCounty](https://medium.com/kingcounty) on Medium, where people are continuing the conversation by highlighting and responding to this story.
 summarized: true
 topics:
-- Community & Social Services
 - Health Care
 - Transportation & Mobility
 images:

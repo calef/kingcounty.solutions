@@ -88,7 +88,6 @@ original_content: "## **How Transportation Access Impacts Poverty** &nbsp;\n\nFo
 summarized: true
 topics:
 - Transportation & Mobility
-- Community & Social Services
 - Employment & Job Support
 - Food & Nutrition
 - Health Care

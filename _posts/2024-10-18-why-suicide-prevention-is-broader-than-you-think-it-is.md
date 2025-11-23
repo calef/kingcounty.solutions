@@ -78,7 +78,6 @@ original_content: |-
 summarized: true
 topics:
 - Mental Health & Counseling
-- Community & Social Services
 ---
 
 Suicide prevention is broader than commonly perceived, encompassing more than hotlines, mental health professionals, and in-patient supports. It is essential to understand the context of those struggling with suicidality, and to avoid treating them as burdens to be passed along. Crisis Connections emphasizes holistic support, offering programs that connect emergency, resource, and crisis services. They also provide training to staff and volunteers to understand biases and factors contributing to mental health challenges. Prevention strategies include creating community spaces, respecting identities, providing access to healthcare, practicing anti-racism, and supporting environmental and social justice. Suicide prevention is about building support systems and striving for equity.

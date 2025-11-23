@@ -2,7 +2,6 @@
 jurisdictions:
 - Maple Valley
 title: City of Maple Valley
-topics: []
 type: City
 website: https://www.maplevalleywa.gov/
 ---

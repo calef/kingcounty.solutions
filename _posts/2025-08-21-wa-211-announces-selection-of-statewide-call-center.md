@@ -15,7 +15,6 @@ original_markdown_body: |-
   ![](https://wa211.org/wp-content/uploads/2025/10/WA211PressRelease-2-scaled-1-1200x1553.png)
 summarized: true
 topics:
-- Community & Social Services
 - Health Care
 - Food & Nutrition
 - Shelter & Housing

@@ -11,7 +11,6 @@ phone: 206-624-5633
 title: Chinese Information & Service Center
 topics:
 - Domestic Violence
-- Community & Social Services
 - Food & Nutrition
 - Health Care
 type: Community-Based Organization

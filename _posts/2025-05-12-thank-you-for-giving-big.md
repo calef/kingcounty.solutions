@@ -9,7 +9,6 @@ original_markdown_body: Dear Supporters and Friends, A heartfelt thank you for s
   up for your community and Giving BIG to LIHI! It is grassroots&nbsp;support...
 summarized: true
 topics:
-- Community & Social Services
 - Shelter & Housing
 ---
 

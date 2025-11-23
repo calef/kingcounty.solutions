@@ -4,7 +4,7 @@ jurisdictions:
 - Des Moines
 title: South King Fire & Rescue
 topics:
-- Community & Social Services
+- Health Care
 type: Special Purpose District
 website: https://www.southkingfire.org
 ---

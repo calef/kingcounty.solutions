@@ -8,7 +8,6 @@ address: 25028 104th Ave SE, Kent, WA 98030
 title: Sea Mar Community Health Centers - Kent Behavioral Health Clinic
 topics:
 - Mental Health & Counseling
-- Community & Social Services
 type: Community-Based Organization
 website: https://www.seamar.org/king-bh-kent.html
 ---

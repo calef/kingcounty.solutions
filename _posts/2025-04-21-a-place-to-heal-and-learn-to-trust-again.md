@@ -47,7 +47,6 @@ topics:
 - Domestic Violence
 - Education & Learning
 - Financial Assistance
-- Community & Social Services
 images:
 - e2b0477e94cfa068b4d43186dce865fa619fa4b2cb44474708aac260f13e0b35
 - 3f76a3b0d0f3a61c1c07e48890a272bc931149015be508a43f47202cb7912e68

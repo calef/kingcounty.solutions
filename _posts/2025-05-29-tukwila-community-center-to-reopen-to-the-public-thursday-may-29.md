@@ -42,7 +42,6 @@ original_content: |-
   The post [Tukwila Community Center to Reopen to the Public Thursday, May 29](https://www.tukwilawa.gov/tukwila-community-center-to-reopen-to-the-public-thursday-may-29/) appeared first on [City of Tukwila](https://www.tukwilawa.gov).
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 ---
 

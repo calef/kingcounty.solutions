@@ -16,7 +16,6 @@ original_markdown_body: |-
   The post [From Dreams to Dishes: Jumpin Jambalaya Brings Cajun-Creole Flavor to the Community&nbsp;](https://nhwa.org/2025/09/30/jumpin-jambalaya/) appeared first on [Neighborhood House](https://nhwa.org).
 summarized: true
 topics:
-- Community & Social Services
 - Employment & Job Support
 - Financial Assistance
 - Food & Nutrition

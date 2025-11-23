@@ -10,7 +10,6 @@ original_markdown_body: Clifford and Melinda Nichols On September 24th, friends,
 summarized: true
 topics:
 - Shelter & Housing
-- Community & Social Services
 - Education & Learning
 ---
 

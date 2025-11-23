@@ -9,7 +9,6 @@ original_markdown_body: Check out DOVE's quarterly newsletter for the latest new
   and happenings at DOVE. Newsletter Link
 summarized: true
 topics:
-- Community & Social Services
 ---
 
 DOVE's quarterly newsletter provides updates on the latest news and activities within the organization. It highlights significant achievements, upcoming events, and initiatives aimed at community engagement and support. The newsletter serves as a resource for stakeholders and the public, offering insights into DOVE's mission and ongoing efforts. Readers are encouraged to stay informed and connected through regular updates provided in the newsletter.

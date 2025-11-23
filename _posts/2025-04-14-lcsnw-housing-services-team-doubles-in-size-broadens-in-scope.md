@@ -36,7 +36,6 @@ summarized: true
 topics:
 - Shelter & Housing
 - Financial Assistance
-- Community & Social Services
 images:
 - 250b3135682fef4cb1c9c7297cf6e0c366bf7e13ec49a0774cbfaa8f68fa6436
 ---

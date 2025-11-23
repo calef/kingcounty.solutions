@@ -47,7 +47,6 @@ original_content: "In the coming weeks, the Community Reinvestment Program (CRP)
   [Community Feedback Results – October 2025 (PDF)](https://deptofcommerce.box.com/s/mcim9q6gt5s77i81ug8sody2ld8eq8pg)"
 summarized: true
 topics:
-- Community & Social Services
 - Employment & Job Support
 - Financial Assistance
 ---

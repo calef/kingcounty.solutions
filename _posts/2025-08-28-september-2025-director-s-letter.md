@@ -55,7 +55,6 @@ original_markdown_body: "50 Years! Can you believe it? Sno-Valley Senior Center 
   appeared first on [Sno-Valley Senior Center](https://snovalleysenior.org)."
 summarized: true
 topics:
-- Community & Social Services
 - Food & Nutrition
 - Mental Health & Counseling
 ---

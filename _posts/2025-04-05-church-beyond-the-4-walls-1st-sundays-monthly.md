@@ -10,7 +10,6 @@ original_markdown_body: |-
   Burien Les Schwab | 1st Sundays at 11AM
 summarized: true
 topics:
-- Community & Social Services
 - Food & Nutrition
 - Shelter & Housing
 - Mental Health & Counseling

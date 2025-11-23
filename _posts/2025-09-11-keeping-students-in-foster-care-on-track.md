@@ -44,7 +44,6 @@ original_markdown_body: "![](https://www.treehouseforkids.org/wp-content/uploads
 summarized: true
 topics:
 - Education & Learning
-- Community & Social Services
 images:
 - 4a32b3ee92600ddc18ff63b992a04eccdd5411d0a93518aecd23903a672ed4f5
 - d3cc2f0e3a50a4f37565851632cb63df70267dac6b234d6fcfa4687bea1ac8cf

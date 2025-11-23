@@ -193,7 +193,6 @@ original_content: |-
   _ **Thank you all for your incredible volunteer work!** _
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 ---
 

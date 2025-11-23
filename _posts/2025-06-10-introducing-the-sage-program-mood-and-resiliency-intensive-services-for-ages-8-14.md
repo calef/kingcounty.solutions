@@ -11,7 +11,6 @@ original_markdown_body: 'We’re excited to announce the launch of The Sage Prog
 summarized: true
 topics:
 - Mental Health & Counseling
-- Community & Social Services
 ---
 
 Ryther has launched The Sage Program, a behavioral health initiative for children aged 8–14 facing mood disorders, including depression, anger, and trauma-related distress. The program features both a Partial Hospitalization Program (PHP) and an Intensive Outpatient Program (IOP), providing the highest level of mental health care outside of residential treatment. This structure allows for personalized support tailored to each child's needs.

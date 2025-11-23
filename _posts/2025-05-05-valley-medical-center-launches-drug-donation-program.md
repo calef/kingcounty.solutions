@@ -90,7 +90,6 @@ original_markdown_body: "![](https://blog.valleymed.org/wp-content/uploads/2025/
 summarized: true
 topics:
 - Health Care
-- Community & Social Services
 images:
 - 8141573824a7415d3cec640f8136ee436d359496a6bc94f9bfe83440a86e6b8e
 ---

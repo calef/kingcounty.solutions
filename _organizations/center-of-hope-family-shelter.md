@@ -8,7 +8,6 @@ title: Center of Hope Family Shelter
 topics:
 - Shelter & Housing
 - Food & Nutrition
-- Community & Social Services
 type: Program
 website: https://reachrenton.org/center-of-hope
 ---

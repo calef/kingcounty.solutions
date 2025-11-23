@@ -8,7 +8,6 @@ original_markdown_body: "## 32 in Review:&nbsp; Looking Back to Where it All Beg
 summarized: true
 topics:
 - Shelter & Housing
-- Community & Social Services
 images:
 - 9cf1114324a6653750f0f8af7783a744e45adadca47c48844e4ee0f11df269bf
 ---

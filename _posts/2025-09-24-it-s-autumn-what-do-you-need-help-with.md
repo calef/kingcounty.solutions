@@ -15,7 +15,6 @@ topics:
 - Food & Nutrition
 - Shelter & Housing
 - Financial Assistance
-- Community & Social Services
 - Education & Learning
 ---
 

@@ -8,7 +8,6 @@ original_markdown_body: "## [Home](https://ihdd.org/)\n\n## UWAC and UW Women’
 summarized: true
 topics:
 - Disabilities
-- Community & Social Services
 images:
 - eb31e36dad254dfef2787e37172cace3957cf922bdd757d3c6486bbc90796d71
 - 687117f92907c3021654e4e3e959b8f3e655bfdc888b1fda08a6faf8026a2464

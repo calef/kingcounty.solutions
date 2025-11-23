@@ -5,7 +5,6 @@ title: REACH Renton
 topics:
 - Food & Nutrition
 - Shelter & Housing
-- Community & Social Services
 type: Community-Based Organization
 website: https://reachrenton.org/
 ---

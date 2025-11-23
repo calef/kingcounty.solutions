@@ -4,7 +4,6 @@ jurisdictions:
 title: Artspace
 topics:
 - Shelter & Housing
-- Community & Social Services
 type: Community-Based Organization
 website: https://www.artspace.org
 ---

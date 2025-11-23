@@ -9,7 +9,6 @@ original_markdown_body: On Monday, February 17, Teen Council members Raena, Sloa
   and Delilah along with TC facilitator Kelly joined hundreds of Teen Council...
 summarized: true
 topics:
-- Community & Social Services
 - Domestic Violence
 - Health Care
 - Education & Learning

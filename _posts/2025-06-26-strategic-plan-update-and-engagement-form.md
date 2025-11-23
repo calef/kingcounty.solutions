@@ -9,7 +9,6 @@ original_markdown_body: We’re thrilled to share that the results are in from o
   Community Feedback Survey! &nbsp; At Friends of Youth, we believe that the...
 summarized: true
 topics:
-- Community & Social Services
 - Mental Health & Counseling
 - Education & Learning
 - Employment & Job Support

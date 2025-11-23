@@ -54,7 +54,6 @@ original_markdown_body: |-
   The post [Give Monthly, Grow Impact](https://www.compasshousingalliance.org/2025/03/give-monthly-grow-impact/) appeared first on [Compass Housing Alliance](https://www.compasshousingalliance.org).
 summarized: true
 topics:
-- Community & Social Services
 - Food & Nutrition
 - Shelter & Housing
 images:

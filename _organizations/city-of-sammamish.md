@@ -2,7 +2,6 @@
 jurisdictions:
 - Sammamish
 title: City of Sammamish
-topics: []
 type: City
 website: https://www.sammamish.us/
 ---

@@ -111,7 +111,6 @@ summarized: true
 topics:
 - Health Care
 - Transportation & Mobility
-- Community & Social Services
 images:
 - 2f516b500702c9fe4854e5e7ec4d1c9956403f1f25214c56141af5131a37b4ee
 - 23898c410b83891b80d431d291eacf84fcd3dd5bb8393c5d4770c00908e915eb

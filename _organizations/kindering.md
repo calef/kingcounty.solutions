@@ -5,7 +5,7 @@ news_rss_url: https://kindering.org/feed/
 title: Kindering
 topics:
 - Disabilities
-- Community & Social Services
+- Childcare
 type: Community-Based Organization
 website: https://kindering.org/
 ---

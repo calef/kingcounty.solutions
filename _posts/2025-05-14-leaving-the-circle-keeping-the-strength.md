@@ -54,7 +54,6 @@ original_markdown_body: "In the world of cancer support, every journey is as uni
   full listing of groups at:**[https://cancerlifeline.org/services/support-groups/](https://cancerlifeline.org/services/support-groups/)**\n\n&nbsp;\n\n&nbsp;"
 summarized: true
 topics:
-- Community & Social Services
 - Mental Health & Counseling
 ---
 

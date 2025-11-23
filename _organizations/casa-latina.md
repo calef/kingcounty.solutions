@@ -8,7 +8,6 @@ title: Casa Latina
 topics:
 - Employment & Job Support
 - Education & Learning
-- Community & Social Services
 type: Community-Based Organization
 website: https://casa-latina.org
 ---

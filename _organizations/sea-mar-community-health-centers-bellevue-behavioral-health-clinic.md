@@ -8,7 +8,6 @@ address: 3801 150th Ave SE, Bellevue, WA 98006
 title: Sea Mar Community Health Centers - Bellevue Behavioral Health Clinic
 topics:
 - Mental Health & Counseling
-- Community & Social Services
 type: Community-Based Organization
 website: https://www.seamar.org/king-bh-bellevue.html
 ---

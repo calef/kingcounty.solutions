@@ -4,11 +4,10 @@ jurisdictions:
 - Federal Way
 - Des Moines
 - Kent
-phone: "(253) 946-7933"
+phone: (253) 946-7933
 email: erica.yang@usw.salvationarmy.org
 title: Federal Way Corps
 topics:
-- Community & Social Services
 - Food & Nutrition
 - Financial Assistance
 type: Community-Based Organization

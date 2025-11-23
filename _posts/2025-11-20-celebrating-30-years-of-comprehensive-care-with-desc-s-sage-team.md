@@ -16,7 +16,6 @@ original_markdown_body: This year, we’re celebrating 30 years of our Support, 
 summarized: true
 topics:
 - Mental Health & Counseling
-- Community & Social Services
 - Shelter & Housing
 ---
 

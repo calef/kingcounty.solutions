@@ -9,7 +9,6 @@ summarized: true
 topics:
 - Domestic Violence
 - Mental Health & Counseling
-- Community & Social Services
 images:
 - d0c5aa94cab13835ed3be5f69849405c251eeb2adaa331802c5e735c22d8b2b0
 - f74de19431df906559ae671be686cf2046030e3277c22b0e2e9c9855decf38a9

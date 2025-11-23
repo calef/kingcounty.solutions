@@ -9,7 +9,6 @@ title: Refugee Federation Service Center
 topics:
 - Employment & Job Support
 - Education & Learning
-- Community & Social Services
 type: Community-Based Organization
 website: https://www.rfsc.org/refugee-federation-service-center/lep/
 ---

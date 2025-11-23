@@ -8,7 +8,6 @@ phone: 206-789-7800
 title: Ballard Food Bank
 topics:
 - Food & Nutrition
-- Community & Social Services
 - Financial Assistance
 type: Community-Based Organization
 website: https://www.ballardfoodbank.org/

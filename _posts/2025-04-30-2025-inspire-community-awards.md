@@ -49,7 +49,6 @@ original_content: |-
   The post [2025 Inspire Community Awards](https://encompassnw.org/inspire-community-awards-2025/) first appeared on [Encompass](https://encompassnw.org).
 summarized: true
 topics:
-- Community & Social Services
 - Employment & Job Support
 ---
 

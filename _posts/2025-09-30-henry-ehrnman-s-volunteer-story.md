@@ -45,7 +45,6 @@ original_content: |-
   _Empower Youth Network (EYN) thanks_ Henry Erhnman _for all his service over the years to empower and inspire youth in Snoqualmie Valley. EYN wishes him all the best in his studies at the University of Washington._
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 ---
 

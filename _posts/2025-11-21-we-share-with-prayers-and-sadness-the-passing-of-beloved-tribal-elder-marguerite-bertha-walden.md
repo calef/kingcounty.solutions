@@ -18,7 +18,6 @@ original_content: |-
 original_markdown_body: "We share with prayers and sadness&nbsp;the passing of a beloved Tribal Elder\n\n# Marguerite Bertha Walden\n\nSunrise: 3/19/1937 Sunset: 11/21/2025\n\nWe will share additional information when it is available.  \nOut of respect and according to our policy, tribal flags are flying at half-staff.\n\n&nbsp;\n\n[![](https://snoqualmietribe.us/wp-content/uploads/2025/11/Marguerite-Bertha-Walden-700x587.png)](https://snoqualmietribe.us/wp-content/uploads/2025/11/Marguerite-Bertha-Walden.png)\n\n&nbsp;\n\n&nbsp;\n\n&nbsp;\n\n&nbsp;"
 summarized: true
 topics:
-- Community & Social Services
 - Food & Nutrition
 - Employment & Job Support
 images:

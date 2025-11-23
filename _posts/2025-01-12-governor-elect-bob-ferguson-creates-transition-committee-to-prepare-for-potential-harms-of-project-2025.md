@@ -34,7 +34,6 @@ original_content: |-
   Bob Ferguson has dedicated his career to serving the people. He is completing his third term as Washington State's Attorney General. He is committed to improving government and building a stronger future by focusing on key issues such as public safety, health care costs and housing affordability, child care, education, and economic growth.&nbsp;
 summarized: true
 topics:
-- Community & Social Services
 - Domestic Violence
 - Education & Learning
 - Employment & Job Support

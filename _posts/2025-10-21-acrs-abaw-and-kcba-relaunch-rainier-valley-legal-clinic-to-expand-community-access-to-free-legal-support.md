@@ -116,7 +116,6 @@ original_markdown_body: "**FOR IMMEDIATE RELEASE  \nOctober 20, 2025**\n\n**SEAT
   appeared first on [ACRS](https://acrs.org)."
 summarized: true
 topics:
-- Community & Social Services
 - Domestic Violence
 - Education & Learning
 - Employment & Job Support

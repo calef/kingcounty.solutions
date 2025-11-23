@@ -5,7 +5,6 @@ source: King County Solutions
 summarized: true
 topics:
 - Mental Health & Counseling
-- Community & Social Services
 - Health Care
 - Food & Nutrition
 ---

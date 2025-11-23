@@ -10,7 +10,6 @@ original_markdown_body: Building a Life at Kingway Eddie and Vanessa have called
   Apartments home for nearly 30 years. Their experience highlights the...
 summarized: true
 topics:
-- Community & Social Services
 - Shelter & Housing
 ---
 

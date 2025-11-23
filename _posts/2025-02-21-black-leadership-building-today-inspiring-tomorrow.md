@@ -39,7 +39,6 @@ original_markdown_body: |-
   The post [Black Leadership: Building Today, Inspiring Tomorrow](https://positiveplace.org/black-leadership-building-today-inspiring-tomorrow/) appeared first on [Boys & Girls Clubs](https://positiveplace.org).
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 - Employment & Job Support
 ---

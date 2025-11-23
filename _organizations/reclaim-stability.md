@@ -3,14 +3,13 @@ jurisdictions:
 - Snoqualmie Valley
 - North Bend
 - King County
-phone: "(425) 389-7114"
+phone: (425) 389-7114
 address: 8224 Railroad Avenue Southeast, Snoqualmie, Washington 98065, United States
 title: Reclaim
 topics:
 - Shelter & Housing
 - Domestic Violence
 - Food & Nutrition
-- Community & Social Services
 type: Community-Based Organization
 website: https://reclaimstability.org
 ---

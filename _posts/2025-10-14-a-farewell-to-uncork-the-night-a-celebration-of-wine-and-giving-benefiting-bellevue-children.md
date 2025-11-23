@@ -123,7 +123,6 @@ original_markdown_body: |-
   The post [A Farewell to Uncork the Night | A Celebration of Wine and Giving Benefiting Bellevue Children](https://www.bellevuelifespring.org/general/a-farewell-to-uncork-the-night/) appeared first on [Bellevue LifeSpring](https://www.bellevuelifespring.org).
 summarized: true
 topics:
-- Community & Social Services
 - Food & Nutrition
 - Shelter & Housing
 images:

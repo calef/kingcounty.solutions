@@ -1,12 +1,11 @@
 ---
 address: 1118 Fifth Ave, Seattle, WA 98101
 jurisdictions:
-  - Seattle
-  - King County
+- Seattle
+- King County
 phone: 206-461-4888
 title: YWCA Seattle | King | Snohomish
 topics:
-- Community & Social Services
 - Disabilities
 - Domestic Violence
 - Education & Learning

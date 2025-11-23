@@ -2,7 +2,6 @@
 jurisdictions:
 - Kirkland
 title: City of Kirkland
-topics: []
 type: City
 website: https://www.kirklandwa.gov/
 ---

@@ -4,7 +4,6 @@ jurisdictions:
 news_rss_url: https://www.usac.org/feed/
 title: Universal Service Administrative Company
 topics:
-- Community & Social Services
 - Health Care
 - Education & Learning
 type: Independent Federal Agency

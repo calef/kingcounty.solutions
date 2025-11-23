@@ -8,7 +8,6 @@ original_markdown_body: "## [Home](https://ihdd.org/)\n\n## Winter Sensory Frien
 summarized: true
 topics:
 - Disabilities
-- Community & Social Services
 images:
 - 97459c1f3f5abbdf2f1b30c4303f1766a086cf52e090c396a5b98cd2d4d4f916
 - 687117f92907c3021654e4e3e959b8f3e655bfdc888b1fda08a6faf8026a2464

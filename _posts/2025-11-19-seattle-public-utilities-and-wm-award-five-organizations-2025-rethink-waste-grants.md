@@ -14,7 +14,6 @@ original_markdown_body: On November 19, Seattle Public Utilities (SPU) and WM an
   circular economy in Sea...
 summarized: true
 topics:
-- Community & Social Services
 - Food & Nutrition
 ---
 

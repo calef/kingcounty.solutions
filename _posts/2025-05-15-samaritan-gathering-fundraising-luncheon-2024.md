@@ -24,7 +24,6 @@ original_markdown_body: |-
   ![849 people served in 2024. 12, 431 therapy sessions provided in 2024, 27.2% of which were in-person. 772 sessions were for couples and families, 318 were for children. 89.3% of clients did not pay full cost of care in 2024. The uncompensated care in 2024 amounted to $823,548.](https://samaritanps.org/wp-content/uploads/2024-Therapy-Stats-400x400.jpg "2024 Therapy Stats")
 summarized: true
 topics:
-- Community & Social Services
 images:
 - 6e8c94fe95ee90440e124ed904150aefa0202de4b36e04b9d95fd912439b043c
 - '03948101e72968b31d6436b8288386efdb7f83564175fc2e119899dcbe76c7c6'

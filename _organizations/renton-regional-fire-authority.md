@@ -3,7 +3,7 @@ jurisdictions:
 - Renton
 title: Renton Regional Fire Authority
 topics:
-- Community & Social Services
+- Health Care
 type: Special Purpose District
 website: https://www.rentonrfa.org
 ---

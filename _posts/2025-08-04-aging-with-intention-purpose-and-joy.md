@@ -9,7 +9,6 @@ original_markdown_body: At Eastside Friends of Seniors, we see aging not as a pr
   to solve, but rather as a life stage to honor. Every week, we witness...
 summarized: true
 topics:
-- Community & Social Services
 - Disabilities
 - Mental Health & Counseling
 ---

@@ -107,7 +107,6 @@ original_content: "If you are struggling with your mental health, finding a ther
 summarized: true
 topics:
 - Mental Health & Counseling
-- Community & Social Services
 ---
 
 Crisis Connections has outlined four common obstacles people face when accessing mental health treatment and provided tips for addressing them. These barriers include not knowing where to start, affordability concerns, finding a trustworthy therapist, and unavailability of preferred therapists. To address these, the organization suggests identifying personal therapy goals, considering cost with and without insurance, using a search engine or directory to find prospective therapists, and sending inquiries via email. For those struggling with cost, resources such as the Resource Directory or 211 can help find low-cost or sliding scale therapy options. Additionally, Crisis Connections provides several 24/7 services for immediate emotional support.

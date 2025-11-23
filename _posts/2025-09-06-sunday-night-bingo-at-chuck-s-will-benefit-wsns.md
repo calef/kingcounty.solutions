@@ -18,7 +18,6 @@ original_markdown_body: |-
   The post [Sunday night bingo at Chuck’s will benefit WSNS!](https://westsideneighborsshelter.org/sunday-night-bingo-at-chucks-will-benefit-wsns/) appeared first on [Westside Neighbors Shelter](https://westsideneighborsshelter.org).
 summarized: true
 topics:
-- Community & Social Services
 - Shelter & Housing
 ---
 

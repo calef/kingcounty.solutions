@@ -5,8 +5,8 @@ news_rss_url: https://wscenter.org/feed/
 events_ical_url: https://wscenter.org/calendar/?ical=1
 title: The Center for Active Living
 topics:
-- Community & Social Services
 - Food & Nutrition
+- Senior Services
 type: Community-Based Organization
 website: https://www.wscenter.org
 ---

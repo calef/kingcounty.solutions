@@ -34,7 +34,6 @@ original_content: |-
   Meghan lives in Issaquah with Pat, her husband of 32 years, and their beloved Bernedoodle puppy, Peach. The couple have two adult children, Ally, currently living and working in Seattle after attending Colorado State University, and Sam, a student at Western Washington University.
 summarized: true
 topics:
-- Community & Social Services
 - Employment & Job Support
 ---
 

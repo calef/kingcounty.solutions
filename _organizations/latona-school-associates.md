@@ -5,7 +5,6 @@ jurisdictions:
 title: Latona School Associates
 topics:
 - Education & Learning
-- Community & Social Services
 type: Community-Based Organization
 website: https://www.latonaschoolassociates.com/
 ---

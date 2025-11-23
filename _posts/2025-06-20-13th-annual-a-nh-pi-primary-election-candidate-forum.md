@@ -13,7 +13,6 @@ original_content: |-
   The post [13th Annual A&NH/PI Primary Election Candidate Forum](https://cisc-seattle.org/13th-annual-anhpi-primary-election-candidate-forum/) appeared first on [Chinese Information and Service Center](https://cisc-seattle.org).
 summarized: true
 topics:
-- Community & Social Services
 - Shelter & Housing
 - Employment & Job Support
 ---

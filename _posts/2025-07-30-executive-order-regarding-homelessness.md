@@ -13,7 +13,6 @@ original_markdown_body: |-
 summarized: true
 topics:
 - Shelter & Housing
-- Community & Social Services
 - Health Care
 - Mental Health & Counseling
 ---

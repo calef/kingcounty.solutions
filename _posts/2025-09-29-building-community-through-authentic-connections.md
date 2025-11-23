@@ -9,7 +9,6 @@ original_markdown_body: Equity and inclusion live in our daily choices, our rela
   and the way we show up for one another . &nbsp; Across our community,...
 summarized: true
 topics:
-- Community & Social Services
 - Disabilities
 - Domestic Violence
 - Mental Health & Counseling

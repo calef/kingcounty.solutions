@@ -9,7 +9,6 @@ original_markdown_body: My name is Hormedys, and I'm from Venezuela. Venezuela i
   a great country, located in South America, with many riches of all kinds. I was...
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 - Employment & Job Support
 ---

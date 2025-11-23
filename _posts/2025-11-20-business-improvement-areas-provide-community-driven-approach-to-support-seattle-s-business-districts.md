@@ -14,7 +14,6 @@ original_markdown_body: 'Many things contribute to the unique character or a nei
   maintaining those...'
 summarized: true
 topics:
-- Community & Social Services
 - Employment & Job Support
 ---
 

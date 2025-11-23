@@ -21,7 +21,6 @@ original_content: |-
   The post [Preserving Family Ties Through Kinship Care](https://encompassnw.org/preserving-family-ties-through-kinship-care/) first appeared on [Encompass](https://encompassnw.org).
 summarized: true
 topics:
-- Community & Social Services
 - Mental Health & Counseling
 - Health Care
 - Financial Assistance

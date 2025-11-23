@@ -60,7 +60,6 @@ original_markdown_body: "_This article was published in the September issue of t
   appeared first on [PIM Savvy](https://pimsavvy.com)."
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 - Disabilities
 ---

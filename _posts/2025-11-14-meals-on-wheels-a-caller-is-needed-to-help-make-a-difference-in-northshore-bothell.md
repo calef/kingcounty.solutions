@@ -37,7 +37,6 @@ original_markdown_body: "**Program:** &nbsp;Meals on Wheels  \n**Location:** Nor
   appeared first on [Sound Generations](https://soundgenerations.org)."
 summarized: true
 topics:
-- Community & Social Services
 - Food & Nutrition
 - Health Care
 ---

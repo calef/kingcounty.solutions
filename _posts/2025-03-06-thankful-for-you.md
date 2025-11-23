@@ -19,7 +19,6 @@ original_markdown_body: In this season of Thanksgiving, we want you to know how 
   love for you to check
 summarized: true
 topics:
-- Community & Social Services
 - Personal & Household Needs
 ---
 

@@ -48,7 +48,6 @@ original_markdown_body: |-
 summarized: true
 topics:
 - Mental Health & Counseling
-- Community & Social Services
 ---
 
 Valley Cities Behavioral Health Care is expanding its outreach efforts across King County, emphasizing the importance of connecting with individuals in their own environments, such as community centers and parks. For nearly 60 years, Valley Cities has provided care for those facing mental health challenges, substance use disorders, and housing instability. Their outreach teams actively engage in urban and rural areas to offer direct support, aiming to ensure that no one falls through the cracks.

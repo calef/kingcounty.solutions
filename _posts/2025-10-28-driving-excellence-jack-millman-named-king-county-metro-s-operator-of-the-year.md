@@ -13,7 +13,6 @@ original_markdown_body: Every day, hundreds of thousands of riders step onto Kin
 summarized: true
 topics:
 - Transportation & Mobility
-- Community & Social Services
 ---
 
 Jack Millman, a dedicated driver for King County Metro, has been named the Operator of the Year for his outstanding service over the past two decades. Recognized during a ceremony on October 28, Millman is celebrated for his calm demeanor and kindness, which have significantly improved the commuting experience for many passengers. General Manager Michelle Allison praised his commitment, highlighting a recent incident where Millman's quick actions saved a passenger's life after a severe injury. 

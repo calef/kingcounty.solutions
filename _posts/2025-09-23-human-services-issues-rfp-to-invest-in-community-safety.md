@@ -17,7 +17,6 @@ original_markdown_body: The City of Seattle Human Services Department announced 
   funding […]
 summarized: true
 topics:
-- Community & Social Services
 - Domestic Violence
 - Education & Learning
 - Employment & Job Support

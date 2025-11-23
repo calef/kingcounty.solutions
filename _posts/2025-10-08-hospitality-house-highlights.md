@@ -27,7 +27,6 @@ original_markdown_body: |-
   <object data-wp-bind--hidden="!state.hasPdfPreview" hidden class="wp-block-file__embed" data="https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/10.-October-2025-3.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="Embed of 10. October 2025 (3)."></object>[10. October 2025 (3)](https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/10.-October-2025-3.pdf)[Download](https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/10.-October-2025-3.pdf)
 summarized: true
 topics:
-- Community & Social Services
 - Shelter & Housing
 images:
 - d261c68b85fb3632fd55a8426258dca9ac93dc23a874088f4ed879dcc81ead4e

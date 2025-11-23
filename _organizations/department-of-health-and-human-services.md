@@ -7,8 +7,9 @@ title: Department of Health and Human Services
 topics:
 - Health Care
 - Mental Health & Counseling
-- Community & Social Services
 - Education & Learning
+- Childcare
+- Senior Services
 type: Department
 website: https://www.hhs.gov/
 ---
@@ -18,7 +19,8 @@ Key domains include:
 
 - **Health Care:** Medicaid, Medicare, and public health initiatives
 - **Mental Health & Counseling:** substance use prevention, treatment, and recovery through SAMHSA
-- **Community & Social Services:** family support, child welfare, and aging services
+- **Childcare:** family support and child welfare programs
+- **Senior Services:** aging services, caregiver supports, and programs that help older adults live independently
 - **Education & Learning:** public health literacy and prevention programs
 
 HHS oversees many of the nation’s major health and human service programs.

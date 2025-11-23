@@ -9,7 +9,6 @@ title: Kawabe Memorial House
 topics:
 - Shelter & Housing
 - Food & Nutrition
-- Community & Social Services
 type: Community-Based Organization
 website: https://kawabehouse.org/
 ---

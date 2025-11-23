@@ -6,7 +6,6 @@ phone: 1-888-401-0195
 email: info@skatelikeagirl.com
 title: Skate Like a Girl
 topics:
-- Community & Social Services
 - Education & Learning
 - Disabilities
 type: Community-Based Organization

@@ -16,7 +16,6 @@ original_markdown_body: Providing nutritious food for our neighbors is a vital r
 summarized: true
 topics:
 - Food & Nutrition
-- Community & Social Services
 ---
 
 MSC is updating its food bank operations to better serve the community amid declining funding and increasing demand due to inflation and rising food costs. Efforts to address the budget deficit have included launching a monthly giving program and reducing organizational expenses, including a 50% staffing reduction. Despite these efforts, funding remains insufficient to maintain previous operations.

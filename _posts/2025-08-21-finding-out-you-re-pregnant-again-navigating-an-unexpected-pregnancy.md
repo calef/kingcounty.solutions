@@ -205,7 +205,6 @@ original_markdown_body: |-
   The post [Finding Out You’re Pregnant Again: Navigating an Unexpected Pregnancy](https://carenetps.org/finding-out-youre-pregnant-again-navigating-an-unexpected-pregnancy/) first appeared on [Care Net of Puget Sound](https://carenetps.org).
 summarized: true
 topics:
-- Community & Social Services
 - Mental Health & Counseling
 - Financial Assistance
 ---

@@ -4,7 +4,6 @@ jurisdictions:
 parent_organization: City of Kirkland
 title: City of Kirkland Human Services Division
 topics:
-- Community & Social Services
 - Financial Assistance
 - Food & Nutrition
 - Mental Health & Counseling

@@ -11,7 +11,6 @@ summarized: true
 topics:
 - Shelter & Housing
 - Mental Health & Counseling
-- Community & Social Services
 ---
 
 The City of Seattle has allocated $5.9 million in its 2025 budget for the development of two new tiny house villages in partnership with LIHI, aimed at addressing homelessness. These villages will consist of over 100 homes and provide behavioral and mental health services for chronically homeless individuals. Referrals will come from the Unified Care Team and outreach partners, targeting those living in tents, parks, and RVs to offer them more stable housing options.

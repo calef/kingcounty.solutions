@@ -13,7 +13,6 @@ original_markdown_body: Zulhumor (Zulya) Halmamatova serves as a Senior Grants &
   her every day....
 summarized: true
 topics:
-- Community & Social Services
 - Shelter & Housing
 ---
 

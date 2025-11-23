@@ -2,8 +2,6 @@
 jurisdictions:
 - North Bend
 title: City of North Bend
-topics:
-- Community & Social Services
 type: City
 website: https://northbendwa.gov/
 ---

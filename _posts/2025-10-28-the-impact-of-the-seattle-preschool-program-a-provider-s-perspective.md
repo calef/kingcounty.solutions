@@ -112,7 +112,6 @@ original_markdown_body: |-
   The post [The Impact of the Seattle Preschool Program: A Provider’s Perspective](https://www.brightspark.org/2025/10/the-impact-of-the-seattle-preschool-program-a-providers-perspective/) appeared first on [BrightSpark](https://www.brightspark.org).
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 images:
 - 39bd0fb3a3bee19da62a540dbb24a0928e52cbad967dfe4d0c28ab9d33b6da70

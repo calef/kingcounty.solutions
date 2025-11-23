@@ -10,7 +10,6 @@ original_markdown_body: Every May, we celebrate Older Americans Month — a time
   honor the contributions of older adults and shine a light on the issues they...
 summarized: true
 topics:
-- Community & Social Services
 - Disabilities
 - Mental Health & Counseling
 ---

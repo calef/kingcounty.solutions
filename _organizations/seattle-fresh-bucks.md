@@ -9,7 +9,6 @@ phone: 206-256-5438
 title: Seattle Fresh Bucks
 topics:
 - Food & Nutrition
-- Community & Social Services
 - Financial Assistance
 type: Program
 website: https://www.seattlefreshbucks.org/

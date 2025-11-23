@@ -68,7 +68,6 @@ summarized: true
 topics:
 - Food & Nutrition
 - Financial Assistance
-- Community & Social Services
 images:
 - 02c810e5f9d6725801e9bdde58bca094d41dd37a0ca4c5c930c36b3fab19add1
 ---

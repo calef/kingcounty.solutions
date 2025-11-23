@@ -13,7 +13,6 @@ original_content: |-
   The post [CLC Newsletter – July to August 2025](https://cisc-seattle.org/clc-newsletter-july-to-august-2025/) appeared first on [Chinese Information and Service Center](https://cisc-seattle.org).
 summarized: true
 topics:
-- Community & Social Services
 - Disabilities
 - Health Care
 ---

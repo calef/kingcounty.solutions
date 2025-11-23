@@ -11,8 +11,8 @@ topics:
 - Food & Nutrition
 - Health Care
 - Mental Health & Counseling
-- Community & Social Services
 - Disabilities
+- Senior Services
 type: Community-Based Organization
 website: https://www.northshoreseniorcenter.org
 ---

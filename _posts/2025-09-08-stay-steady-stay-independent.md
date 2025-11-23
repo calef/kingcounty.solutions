@@ -35,7 +35,6 @@ original_content: |-
   The post [Stay Steady, Stay Independent](https://snoqualmievalleyhealth.org/stay-steady-stay-independent/) appeared first on [Snoqualmie Valley Hospital](https://snoqualmievalleyhealth.org).
 summarized: true
 topics:
-- Community & Social Services
 - Health Care
 - Mental Health & Counseling
 ---

@@ -65,7 +65,6 @@ original_content: "By Steven Schauer, Deputy Executive Director\n\nAs the ghosts
   appeared first on [King County Flood Control District](https://kingcountyfloodcontrol.org)."
 summarized: true
 topics:
-- Community & Social Services
 - Shelter & Housing
 - Transportation & Mobility
 ---

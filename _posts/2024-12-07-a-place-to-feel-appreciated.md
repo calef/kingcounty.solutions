@@ -100,7 +100,6 @@ summarized: true
 topics:
 - Shelter & Housing
 - Mental Health & Counseling
-- Community & Social Services
 images:
 - df016421da0f21ccb6e044ae4aacc9ab5d85d01a7d104f3d57c91b727759e8f3
 ---

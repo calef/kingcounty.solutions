@@ -7,7 +7,6 @@ original_content: "<p><img decoding=\"async\" class=\"aligncenter  wp-image-1087
 original_markdown_body: "![CDHY Interpreter HUB local meet ups flyer. \nSave the date for september 20, 2025. 9am to 10:30am ](https://www.cdhy.wa.gov/wp-content/uploads/2025/06/Meet-Ups-791x1024.png)\n\n### **Becoming:**  \nConnection in the Community\n\nSave the Date! Saturday, September 20, 2025 | 9am to 10:30am\n\nCDHY Interpreter HUB will be hosting multiple locations around Washington to come and connect with your local DHH and interpreting community.\n\nStay tuned for more details about locations!"
 summarized: true
 topics:
-- Community & Social Services
 - Disabilities
 images:
 - 993587be1d96b62f9ed0b1041c35c4fb22f9e37173bb9c1aa4258df1c09ba689

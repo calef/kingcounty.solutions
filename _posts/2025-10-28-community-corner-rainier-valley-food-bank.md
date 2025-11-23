@@ -16,7 +16,6 @@ original_markdown_body: Community Corner highlights the work of Seattle Human Se
 summarized: true
 topics:
 - Food & Nutrition
-- Community & Social Services
 ---
 
 Rainier Valley Food Bank, founded in 1991 and rebranded in 2008, serves over 16,700 individuals annually by providing food support and vital resources. The organization recently opened a new $17 million resource hub, part of the Room for All Campaign, aimed at creating a community food hub that offers access to nourishing food and various resources. This facility enhances the shopping experience, expands food storage, and fosters community connections while improving physical and mental health. It is particularly crucial for the diverse population of South Seattle, addressing systemic barriers faced by many residents, including people of color and immigrants.

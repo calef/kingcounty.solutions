@@ -114,7 +114,6 @@ original_content: "## **Finding Your Way**\n\n### **Community Transportation Nav
 summarized: true
 topics:
 - Transportation & Mobility
-- Community & Social Services
 ---
 
 Hopelink's Community Transportation Navigators (CTNs) program assists communities historically impacted by transportation challenges in King County. The CTNs use peer-to-peer outreach strategies to help community members navigate the complex transit system. The initiative, funded by an Inclusive Planning grant, has so far focused on the Filipino and Health Through Housing cohorts, providing resources and support to immigrants and those experiencing homelessness. The program uses tools like the Language Line to overcome language barriers. A third cohort focusing on the needs of Muslim women is set to launch this summer. Hopelink aims to secure additional funding to sustain the program for several more years.

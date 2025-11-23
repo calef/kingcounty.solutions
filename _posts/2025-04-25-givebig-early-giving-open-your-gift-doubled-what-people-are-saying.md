@@ -9,7 +9,6 @@ original_markdown_body: GiveBIG Early Giving is Open! Support Tiny Houses & Urba
   Rest Stops Your Gift Doubled! GiveBIG early giving is open! Thanks to the...
 summarized: true
 topics:
-- Community & Social Services
 - Shelter & Housing
 - Food & Nutrition
 ---

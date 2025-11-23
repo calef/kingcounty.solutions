@@ -14,7 +14,6 @@ original_markdown_body: Around the world, people may know Seattle because of the
   View, Broadview to Highlan...
 summarized: true
 topics:
-- Community & Social Services
 - Domestic Violence
 ---
 

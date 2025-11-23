@@ -6,9 +6,9 @@ phone: 425-430-6633
 email: recreation@rentonwa.gov
 title: Don Persson Renton Senior Activity Center
 topics:
-- Community & Social Services
 - Education & Learning
 - Food & Nutrition
+- Senior Services
 type: City
 website: https://www.rentonwa.gov/Government/Departments-and-Offices/Parks-and-Recreation/Things-To-Do/Community-Centers/Don-Persson-Renton-Senior-Activity-Center
 ---

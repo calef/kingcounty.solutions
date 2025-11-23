@@ -8,7 +8,6 @@ address: 8801 14th Ave S, Seattle, WA 98108
 title: Sea Mar Community Health Centers - Seattle Behavioral Health Clinic
 topics:
 - Mental Health & Counseling
-- Community & Social Services
 type: Community-Based Organization
 website: https://www.seamar.org/king-bh-seattle.html
 ---

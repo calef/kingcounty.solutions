@@ -9,7 +9,6 @@ original_markdown_body: According to AARP, nearly 80% of adults want to remain i
   their own homes as they grow older—and for good reason. Aging in place supports...
 summarized: true
 topics:
-- Community & Social Services
 - Disabilities
 - Mental Health & Counseling
 - Personal & Household Needs

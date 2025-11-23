@@ -13,7 +13,6 @@ original_markdown_body: Six months into 2025, we continue to center our communit
   know to be true—MSC has been serving the community for over 50 years, and [...]
 summarized: true
 topics:
-- Community & Social Services
 - Food & Nutrition
 - Employment & Job Support
 - Shelter & Housing

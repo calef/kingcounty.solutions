@@ -6,7 +6,6 @@ parent_organization: Federal Executive Branch
 title: Social Security Administration
 topics:
 - Financial Assistance
-- Community & Social Services
 - Disabilities
 type: Agency
 website: https://www.ssa.gov/

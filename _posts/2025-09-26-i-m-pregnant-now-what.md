@@ -275,7 +275,6 @@ original_markdown_body: |-
   The post [I’m Pregnant…Now What?](https://carenetps.org/im-pregnant-now-what/) first appeared on [Care Net of Puget Sound](https://carenetps.org).
 summarized: true
 topics:
-- Community & Social Services
 - Financial Assistance
 - Education & Learning
 - Health Care

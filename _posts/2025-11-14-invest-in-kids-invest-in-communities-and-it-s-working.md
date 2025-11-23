@@ -154,7 +154,6 @@ original_markdown_body: "![](https://www.brightspark.org/wp-content/uploads/2025
 summarized: true
 topics:
 - Education & Learning
-- Community & Social Services
 images:
 - 9c9cd3fdcca6992272f91cf73818136b0d0f5ae00ba02d28756c3559eb7a524a
 - 545762cd475aeccf14e2e38005a1af20143902d788ceadc0a92d2b7e504d860c

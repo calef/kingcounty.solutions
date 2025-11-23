@@ -14,7 +14,6 @@ original_markdown_body: |-
 
   ![](https://wa211.org/wp-content/uploads/2025/10/WA211-History-Timeline2-scaled-1-1200x1553.png)
 topics:
-- Community & Social Services
 - Employment & Job Support
 - Financial Assistance
 - Food & Nutrition

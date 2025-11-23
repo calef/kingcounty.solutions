@@ -10,7 +10,6 @@ topics:
 - Food & Nutrition
 - Health Care
 - Shelter & Housing
-- Community & Social Services
 type: Community-Based Organization
 website: https://www.lifelong.org/
 ---

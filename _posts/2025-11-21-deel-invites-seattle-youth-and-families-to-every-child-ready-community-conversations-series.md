@@ -14,7 +14,6 @@ original_markdown_body: Learn about planned FEPP Levy investments in childcare a
 summarized: true
 topics:
 - Education & Learning
-- Community & Social Services
 ---
 
 The Seattle Department of Education & Early Learning (DEEL) is hosting the Every Child Ready Community Conversations series this December to discuss the renewal of the Families, Education, Preschool & Promise Levy (FEPP). The city will implement a six-year spending plan starting in 2026 to support children, youth, and families. Community members are invited to participate in these events to learn about upcoming investments in childcare and education while sharing their priorities. 

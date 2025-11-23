@@ -6,7 +6,6 @@ events_ical_url: https://mothernation.org/events/?ical=1
 email: info@mothernation.org
 title: Mother Nation
 topics:
-- Community & Social Services
 - Disabilities
 - Domestic Violence
 - Mental Health & Counseling

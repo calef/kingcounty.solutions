@@ -19,7 +19,6 @@ original_content: |-
   The post [Welcome Bianca and Deyanira](https://elap.org/welcome-bianca-and-deyanira/) appeared first on [Eastside Legal Assistance Program](https://elap.org).
 summarized: true
 topics:
-- Community & Social Services
 - Domestic Violence
 - Employment & Job Support
 ---

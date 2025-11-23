@@ -40,7 +40,6 @@ original_content: "The City of Tukwila is assisted in its operations by the volu
   appeared first on [City of Tukwila](https://www.tukwilawa.gov)."
 summarized: true
 topics:
-- Community & Social Services
 published: false
 ---
 

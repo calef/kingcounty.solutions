@@ -386,7 +386,6 @@ original_content: "## Additional Food Resources\n\n![Hopelink Food Resources 10.
 summarized: true
 topics:
 - Food & Nutrition
-- Community & Social Services
 ---
 
 ```markdown

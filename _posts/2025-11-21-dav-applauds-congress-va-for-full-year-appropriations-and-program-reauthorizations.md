@@ -19,7 +19,6 @@ original_markdown_body: |-
   The post [DAV applauds Congress & VA for full year appropriations and program reauthorizations](https://www.dav.org/learn-more/news/2025/dav-applauds-congress-va-for-full-year-appropriations-and-program-reauthorizations/) appeared first on [DAV](https://www.dav.org).
 summarized: true
 topics:
-- Community & Social Services
 - Disabilities
 - Domestic Violence
 - Employment & Job Support

@@ -13,7 +13,6 @@ original_markdown_body: Ready to have some fun at the annual Vashon Strawberry F
   with a ride on one of the four midday sailings to Vashon…
 summarized: true
 topics:
-- Community & Social Services
 - Transportation & Mobility
 ---
 

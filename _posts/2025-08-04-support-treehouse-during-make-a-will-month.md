@@ -39,7 +39,6 @@ original_markdown_body: |-
   The post [Support Treehouse during Make-a-Will Month](https://www.treehouseforkids.org/support-treehouse-during-make-a-will-month/) appeared first on [Treehouse](https://www.treehouseforkids.org).
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 images:
 - 543dd6843c83e60e0f5b79ee9f38f493e79efc803af338ed329402f3f3c8649c

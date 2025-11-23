@@ -69,7 +69,6 @@ original_markdown_body: |-
   The post [Landon Is Taking His Shot](https://www.treehouseforkids.org/landon-is-taking-his-shot/) appeared first on [Treehouse](https://www.treehouseforkids.org).
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 - Employment & Job Support
 - Mental Health & Counseling

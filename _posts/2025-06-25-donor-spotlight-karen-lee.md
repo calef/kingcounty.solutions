@@ -78,7 +78,6 @@ original_markdown_body: |-
   The post [Donor Spotlight: Karen Lee](https://www.youtheastsideservices.org/donor-spotlight-karen-lee/) appeared first on [Youth Eastside Services](https://www.youtheastsideservices.org).
 summarized: true
 topics:
-- Community & Social Services
 - Mental Health & Counseling
 - Shelter & Housing
 - Education & Learning

@@ -8,7 +8,6 @@ address: 9650 15th Ave. S.W., Seattle, WA 98106
 title: Sea Mar Community Health Centers - White Center Behavioral Health Clinic
 topics:
 - Mental Health & Counseling
-- Community & Social Services
 type: Community-Based Organization
 website: https://www.seamar.org/king-bh-whitecenter.html
 ---

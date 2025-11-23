@@ -9,7 +9,6 @@ original_markdown_body: Vashon Youth and Family Services in Collaboration with T
   DOVE Project present Parent and Caregiver Yoga with Nyn Grey Come Join us for...
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 - Mental Health & Counseling
 ---

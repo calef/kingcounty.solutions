@@ -8,7 +8,6 @@ original_markdown_body: "# New Program Alert: Launch @ Wing Luke Elementary!\n\n
 summarized: true
 topics:
 - Education & Learning
-- Community & Social Services
 images:
 - fe27eb2b757706818357442ee6e535d3270221948bb1b7942aaed3c882fb203a
 ---

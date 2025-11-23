@@ -16,7 +16,6 @@ original_markdown_body: Approximately 200 people gathered at Seattle City Hall o
 summarized: true
 topics:
 - Domestic Violence
-- Community & Social Services
 ---
 
 Approximately 200 individuals gathered at Seattle City Hall on October 28 to honor Domestic Violence Awareness Month during the “Giving Flowers” event. Hosted by the Human Services Department’s Mayor’s Office on Sexual Assault and Domestic Violence and the Seattle Women’s Commission, the event aimed to cultivate healing and celebrate resilience among survivors of gender-based violence and their advocates. Attendees received long-stemmed roses symbolizing their support for survivors, while artwork highlighted the healing journey. A collective timeline was created, marking significant initiatives addressing gender-based violence.

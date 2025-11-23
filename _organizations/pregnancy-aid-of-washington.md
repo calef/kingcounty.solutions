@@ -4,7 +4,6 @@ jurisdictions:
 - King County
 title: Pregnancy Aid of Washington
 topics:
-- Community & Social Services
 - Personal & Household Needs
 type: Agency
 website: https://www.pregnancyaidwa.org/

@@ -9,7 +9,6 @@ summarized: true
 topics:
 - Food & Nutrition
 - Education & Learning
-- Community & Social Services
 images:
 - 6442f880875eafe5c7f78d887ad1cc6643066036facbf418c14957a83826ccb5
 - d3ba2c840b7b65fc1c66209847fb22d8f4da815fae64609dd8a0ab336eaa4d09

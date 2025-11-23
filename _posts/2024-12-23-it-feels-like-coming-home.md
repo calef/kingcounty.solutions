@@ -110,7 +110,6 @@ original_markdown_body: |-
   The post [It feels like coming home](https://www.compasshousingalliance.org/2024/12/it-feels-like-coming-home/) appeared first on [Compass Housing Alliance](https://www.compasshousingalliance.org).
 summarized: true
 topics:
-- Community & Social Services
 - Shelter & Housing
 - Financial Assistance
 ---

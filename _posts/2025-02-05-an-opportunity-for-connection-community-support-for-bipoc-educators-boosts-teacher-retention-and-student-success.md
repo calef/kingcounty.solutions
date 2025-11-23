@@ -17,7 +17,6 @@ original_markdown_body: 'Martinez Fellows gather at The University of Washington
 summarized: true
 topics:
 - Education & Learning
-- Community & Social Services
 ---
 
 The Martinez Fellowship at the University of Washington Tacoma offers a supportive community for BIPOC educators, addressing the high turnover rates among teachers of color in a predominantly white field. The program fosters connection and empowerment among educators, helping them break isolation and form supportive networks. As the population of BIPOC students grows, the number of BIPOC teachers entering and remaining in the workforce has not kept pace, leading to a disconnect in representation. The first year of teaching is particularly challenging, with BIPOC educators facing additional stressors related to isolation and discrimination. 

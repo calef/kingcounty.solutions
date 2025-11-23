@@ -15,7 +15,6 @@ original_markdown_body: |-
   The DSHS Mobile Community Services Office will be onsite and open to the community! They will be available for applications, changes, ID vouchers, help with programs such as lifeline phone plans, food and cash assistance, Medicare Savings Program, and Disability Medical Assistance. They will also be able to provide information regarding other community resources. Free, no registration required!
 summarized: true
 topics:
-- Community & Social Services
 - Financial Assistance
 - Food & Nutrition
 - Disabilities

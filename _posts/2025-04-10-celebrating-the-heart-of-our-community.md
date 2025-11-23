@@ -35,7 +35,6 @@ original_content: |-
   The post [Celebrating the Heart of Our Community](https://sophiaway.org/celebrating-volunteers/) first appeared on [The Sophia Way](https://sophiaway.org).
 summarized: true
 topics:
-- Community & Social Services
 - Food & Nutrition
 - Shelter & Housing
 ---

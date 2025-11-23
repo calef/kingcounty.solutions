@@ -3,15 +3,15 @@ jurisdictions:
 - Shoreline
 - Lake Forest Park
 news_rss_url: https://shorelinelfpseniorcenter.org/feed/
-phone: "(206) 365-1536"
+phone: (206) 365-1536
 email: phil.bennet@soundgenerations.org
 address: 18560 1st Ave NE, Bldg G, Shoreline, WA 98155
 title: Shoreline Lake Forest Park Senior Activity Center
 topics:
-- Community & Social Services
 - Education & Learning
 - Food & Nutrition
 - Health Care
+- Senior Services
 type: Community-Based Organization
 website: https://shorelinelfpseniorcenter.org/
 ---

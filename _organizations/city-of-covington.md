@@ -3,7 +3,6 @@ jurisdictions:
 - Covington
 title: City of Covington
 topics:
-- Community & Social Services
 - Transportation & Mobility
 type: City
 website: https://www.covingtonwa.gov/

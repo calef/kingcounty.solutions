@@ -15,7 +15,6 @@ original_markdown_body: 'Blog stats: 800 words | 4-minute read At-a-glance: Atte
 summarized: true
 topics:
 - Transportation & Mobility
-- Community & Social Services
 ---
 
 Phase 2 of the Rainier Ave S Bus Lane project in Seattle has been completed, extending the northbound bus lane to over 2 miles. This improvement aims to enhance the reliability of Route 7, which serves approximately 12,000 riders daily. The project includes upgraded sidewalks, ADA-accessible curb ramps, and improved street crossings for pedestrians, benefiting both transit users and the broader community. Together with King County Metro and local organizations, the Seattle Department of Transportation (SDOT) collaborated closely with residents to develop the project. 

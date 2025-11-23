@@ -8,7 +8,6 @@ original_markdown_body: "With so many expensive grocery stores throughout King C
 summarized: true
 topics:
 - Food & Nutrition
-- Community & Social Services
 images:
 - 8f832f77451275297def390dc718222cb2c0132d2af52e9f7f5c9531cabf0768
 - e503a60488e8f684da33ba69861c9be87a8610792aa8dfec0bdbaf3985c77498

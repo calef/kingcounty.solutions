@@ -96,7 +96,6 @@ original_markdown_body: |-
 summarized: true
 topics:
 - Mental Health & Counseling
-- Community & Social Services
 - Domestic Violence
 - Shelter & Housing
 images:

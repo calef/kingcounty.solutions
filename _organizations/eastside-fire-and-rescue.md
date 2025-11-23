@@ -8,7 +8,6 @@ jurisdictions:
 - Woodinville
 title: Eastside Fire & Rescue
 topics:
-- Community & Social Services
 - Health Care
 type: Special Purpose District
 website: https://www.eastsidefire-rescue.org

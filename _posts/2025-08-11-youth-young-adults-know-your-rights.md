@@ -22,7 +22,6 @@ original_content: |-
   The post [Youth & young adults: Know your rights](https://elap.org/youth-young-adults-know-your-rights/) appeared first on [Eastside Legal Assistance Program](https://elap.org).
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 - Employment & Job Support
 ---

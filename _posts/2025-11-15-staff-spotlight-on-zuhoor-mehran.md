@@ -15,7 +15,6 @@ original_markdown_body: Zuhoor joined the MSC team in 2023 and serves as a Commu
   significant challenges as they adjust to life [...]
 summarized: true
 topics:
-- Community & Social Services
 - Employment & Job Support
 - Financial Assistance
 - Shelter & Housing

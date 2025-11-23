@@ -80,7 +80,6 @@ original_content: "## Enthusiastic Community Support Offsets Summertime Food Ins
 summarized: true
 topics:
 - Food & Nutrition
-- Community & Social Services
 ---
 
 Hopelink's annual End Summer Hunger campaign provides free, nutritious food for children who rely on school meals during the summer. The campaign raised $281,911 and collected over 3,500 pounds of food, exceeding its goal. Community members donated ready-to-eat items, and several groups held drives to collect food. Hopelink also partnered with summer camps, companies, and youth-based groups for in-kind donations. The campaign not only alleviated the burden of increased meal costs for parents but also raised awareness about summer food insecurity.

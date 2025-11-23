@@ -126,7 +126,6 @@ original_markdown_body: |-
   The post [Lent Opportunities 2025](https://firstchurchseattle.org/lent-opportunities-2025/) appeared first on [First Church Seattle](https://firstchurchseattle.org).
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 - Food & Nutrition
 images:

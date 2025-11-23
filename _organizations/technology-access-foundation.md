@@ -9,7 +9,6 @@ phone: 206-725-9095
 title: Technology Access Foundation
 topics:
 - Education & Learning
-- Community & Social Services
 type: Community-Based Organization
 website: https://techaccess.org/
 ---

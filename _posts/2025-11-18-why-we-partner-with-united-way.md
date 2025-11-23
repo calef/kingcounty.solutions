@@ -13,7 +13,6 @@ original_markdown_body: |-
 summarized: true
 topics:
 - Mental Health & Counseling
-- Community & Social Services
 ---
 
 Asian Counseling and Referral Service (ACRS), established in 1973, focuses on providing culturally responsive mental health care for Asian and Native Hawaiian/Pacific Islander (A&NH/PI) communities in the Pacific Northwest. United Way of King County was instrumental in this mission, providing ACRS with its first grant to support mental health services. ACRS is dedicated to addressing the needs of BIPOC, immigrant, and refugee communities, working against systemic oppression and promoting social justice.

@@ -12,7 +12,6 @@ original_markdown_body: |-
   The post [November & December 2025 Newsletter](https://ballardseniorcenter.org/november-december-2025-newsletter/) appeared first on [Ballard Senior Center](https://ballardseniorcenter.org).
 summarized: true
 topics:
-- Community & Social Services
 - Health Care
 - Education & Learning
 ---

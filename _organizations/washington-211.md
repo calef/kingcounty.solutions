@@ -6,7 +6,6 @@ news_rss_url: https://wa211.org/feed/
 phone: 1-877-211-9274
 title: Washington 211
 topics:
-- Community & Social Services
 - Financial Assistance
 - Food & Nutrition
 - Shelter & Housing

@@ -8,7 +8,6 @@ address: 409 Maynard Ave S Ground Floor, Suite 6, Seattle, WA 98104
 title: ICHS Meal Program at Bush Asia Center
 topics:
 - Food & Nutrition
-- Community & Social Services
 type: Program
 website: https://www.ichs.com/ichs-locations/ichs-meal-program-at-bush-asia-center/
 ---

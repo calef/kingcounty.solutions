@@ -11,7 +11,6 @@ original_content: |-
   EYN plays a role in removing these barriers by serving students and families—with community, collaboration and connection at the center of all that we do. Learn more about our youth development resources [**here**](https://empoweryouthnetwork.org/youth-development/) and our parent/community resources [**here**](https://empoweryouthnetwork.org/community-resources/). Learn more the Snoqualmie Valley Human Service Coalition [**here**](https://snovalleyhumanservices.org/).
 summarized: true
 topics:
-- Community & Social Services
 - Mental Health & Counseling
 - Transportation & Mobility
 - Shelter & Housing

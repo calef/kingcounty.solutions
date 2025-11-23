@@ -82,7 +82,6 @@ original_content: "## Redefining Our Path: Updating Our Mission, Values, and The
   needs while driving long-term, systemic change."
 summarized: true
 topics:
-- Community & Social Services
 - Employment & Job Support
 - Financial Assistance
 ---

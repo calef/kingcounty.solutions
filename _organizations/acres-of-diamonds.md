@@ -6,7 +6,6 @@ title: Acres of Diamonds
 topics:
 - Shelter & Housing
 - Domestic Violence
-- Community & Social Services
 type: Program
 website: https://www.acresofdiamonds.org
 ---

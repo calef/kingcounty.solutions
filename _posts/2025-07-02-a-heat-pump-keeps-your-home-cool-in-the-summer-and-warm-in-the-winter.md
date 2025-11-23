@@ -106,7 +106,6 @@ original_content: "## **A Heat Pump Keeps Your Home Cool in the Summer and Warm 
   pump is right for you, head to the [Energy Smart Eastside website](https://www.energysmarteastside.org/).&nbsp;&nbsp;"
 summarized: true
 topics:
-- Community & Social Services
 - Financial Assistance
 - Health Care
 ---

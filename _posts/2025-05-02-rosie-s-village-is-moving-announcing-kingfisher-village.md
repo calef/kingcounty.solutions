@@ -10,7 +10,6 @@ original_markdown_body: LIHI is pleased to announce the relocation of Rosie’s 
 summarized: true
 topics:
 - Shelter & Housing
-- Community & Social Services
 - Employment & Job Support
 - Health Care
 ---

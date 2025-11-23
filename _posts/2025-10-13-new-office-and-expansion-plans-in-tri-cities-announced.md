@@ -45,7 +45,6 @@ original_markdown_body: |-
   The post [New office and expansion plans in Tri-Cities announced](https://lcsnw.org/2025/10/new-tc-location/) appeared first on [LCSNW](https://lcsnw.org).
 summarized: true
 topics:
-- Community & Social Services
 - Mental Health & Counseling
 images:
 - ba52339bcd49f08c5dc5a2e704486a2a5b910e578f7d76e73f7c5ae9c2d787ba

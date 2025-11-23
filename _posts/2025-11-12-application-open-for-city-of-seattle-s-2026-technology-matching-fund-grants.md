@@ -14,7 +14,6 @@ original_markdown_body: Funding Available for Digital Equity Projects–Apply No
   or programs focused on clos...
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 - Employment & Job Support
 ---

@@ -21,7 +21,6 @@ original_content: |-
   The post [Plan for the future with a will](https://elap.org/plan-for-the-future-with-a-will/) appeared first on [Eastside Legal Assistance Program](https://elap.org).
 summarized: true
 topics:
-- Community & Social Services
 - Domestic Violence
 - Financial Assistance
 ---

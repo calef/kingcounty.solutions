@@ -11,7 +11,6 @@ original_markdown_body: The Federal Way Senior Center and Foodbank will be close
   on Thursday, May 29, 2025. […]
 summarized: true
 topics:
-- Community & Social Services
 - Food & Nutrition
 ---
 

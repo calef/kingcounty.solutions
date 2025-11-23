@@ -51,7 +51,6 @@ original_content: |-
   The post [An Outside Lens on Community-Based Services](https://encompassnw.org/an-outside-lens-on-community-based-services/) first appeared on [Encompass](https://encompassnw.org).
 summarized: true
 topics:
-- Community & Social Services
 - Disabilities
 - Education & Learning
 ---

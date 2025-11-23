@@ -114,7 +114,6 @@ original_markdown_body: "One great part of being an organization that is over 10
   on my life and those around me."
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 - Employment & Job Support
 ---

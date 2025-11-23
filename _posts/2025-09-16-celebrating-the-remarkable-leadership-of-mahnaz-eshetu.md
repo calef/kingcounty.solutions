@@ -94,7 +94,6 @@ original_markdown_body: |-
   The post [Celebrating the Remarkable Leadership of Mahnaz Eshetu](https://www.rewa.org/celebrating-the-remarkable-leadership-of-mahnaz-eshetu/) appeared first on [Refugee Women's Alliance](https://www.rewa.org).
 summarized: true
 topics:
-- Community & Social Services
 - Employment & Job Support
 - Education & Learning
 - Shelter & Housing

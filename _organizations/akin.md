@@ -3,7 +3,6 @@ jurisdictions:
 - King County
 title: Akin
 topics:
-- Community & Social Services
 - Disabilities
 - Domestic Violence
 - Education & Learning

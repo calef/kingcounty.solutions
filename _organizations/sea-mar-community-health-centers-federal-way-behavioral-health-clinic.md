@@ -8,7 +8,6 @@ address: 31405 18th Ave. S. Federal Way, WA 98003
 title: Sea Mar Community Health Centers - Federal Way Behavioral Health Clinic
 topics:
 - Mental Health & Counseling
-- Community & Social Services
 type: Community-Based Organization
 website: https://www.seamar.org/king-bh-federalway.html
 ---

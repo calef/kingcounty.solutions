@@ -75,7 +75,6 @@ summarized: true
 topics:
 - Health Care
 - Mental Health & Counseling
-- Community & Social Services
 ---
 
 Members of the Cancer Lifeline team recently participated in the Cancer Survivorship Celebration organized by the South Puget Intertribal Planning Agency (SPIPA). This two-day event celebrated Indigenous cancer survivors, emphasizing joy, remembrance, and community resilience. It highlighted the challenges of late diagnoses, health disparities, and systemic inequities faced by Indigenous peoples. Attendees shared powerful stories of courage and cultural strength, fostering a sense of relational healing through communal gatherings. 

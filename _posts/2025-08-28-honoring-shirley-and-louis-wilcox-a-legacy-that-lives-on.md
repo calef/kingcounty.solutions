@@ -15,7 +15,6 @@ original_markdown_body: |-
   The post [Honoring Shirley and Louis Wilcox: A Legacy That Lives On&nbsp;](https://nhwa.org/2025/08/28/honoring-shirley-and-louis-wilcox/) appeared first on [Neighborhood House](https://nhwa.org).
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 - Food & Nutrition
 - Health Care

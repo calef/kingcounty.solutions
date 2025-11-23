@@ -5,7 +5,6 @@ news_rss_url: https://governor.wa.gov/rss/news.xml
 parent_organization: State of Washington
 title: State Executive Branch
 topics:
-- Community & Social Services
 - Education & Learning
 - Health Care
 - Transportation & Mobility

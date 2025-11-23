@@ -2,7 +2,6 @@
 jurisdictions:
 - Redmond
 title: City of Redmond
-topics: []
 type: City
 website: https://www.redmond.gov/
 ---

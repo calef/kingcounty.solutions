@@ -8,7 +8,6 @@ phone: 206-723-4105
 title: Rainier Valley Food Bank
 topics:
 - Food & Nutrition
-- Community & Social Services
 type: Community-Based Organization
 website: https://www.rvfb.org/
 ---

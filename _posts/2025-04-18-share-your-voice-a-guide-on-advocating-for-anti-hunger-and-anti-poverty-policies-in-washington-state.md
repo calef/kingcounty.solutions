@@ -170,7 +170,6 @@ summarized: true
 topics:
 - Food & Nutrition
 - Financial Assistance
-- Community & Social Services
 - Shelter & Housing
 ---
 

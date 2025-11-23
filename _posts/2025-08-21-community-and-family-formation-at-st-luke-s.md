@@ -12,7 +12,6 @@ original_markdown_body: |-
   The post [Community and Family Formation at St Luke’s](https://stlukesseattle.org/2025/08/21/community-and-family-formation-at-st-lukes/) appeared first on [St. Luke Episcopal Church](https://stlukesseattle.org).
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 ---
 

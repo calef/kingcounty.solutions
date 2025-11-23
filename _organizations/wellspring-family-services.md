@@ -2,12 +2,11 @@
 acronym: WFS
 jurisdictions:
 - King County
-phone: "(206) 787-8007"
+phone: (206) 787-8007
 email: donate@wellspringfs.org
 title: Wellspring Family Services
 topics:
 - Shelter & Housing
-- Community & Social Services
 type: Community-Based Organization
 website: https://wellspringfs.org/
 ---

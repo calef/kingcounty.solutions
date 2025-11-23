@@ -12,7 +12,6 @@ original_markdown_body: |-
   The post [Imagine Housing’s Commitment to Ethical Storytelling](https://imaginehousing.org/imagine-housings-commitment-to-ethical-storytelling/) appeared first on [Imagine Housing](https://imaginehousing.org).
 summarized: true
 topics:
-- Community & Social Services
 - Shelter & Housing
 ---
 

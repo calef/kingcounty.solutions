@@ -4,12 +4,11 @@ jurisdictions:
 - King County
 news_rss_url: https://dawnrising.org/feed/
 events_ical_url: https://dawnrising.org/events-calendar/?ical=1
-phone: "(425) 656-7867"
+phone: (425) 656-7867
 title: Domestic Abuse Women's Network (DAWN)
 topics:
 - Domestic Violence
 - Mental Health & Counseling
-- Community & Social Services
 type: Community-Based Organization
 website: https://dawnrising.org/
 ---

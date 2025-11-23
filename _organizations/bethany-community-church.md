@@ -3,7 +3,6 @@ jurisdictions:
 - Seattle
 title: Bethany Community Church
 topics:
-- Community & Social Services
 - Food & Nutrition
 - Mental Health & Counseling
 type: Community-Based Organization

@@ -146,7 +146,6 @@ original_content: |-
 summarized: true
 topics:
 - Mental Health & Counseling
-- Community & Social Services
 ---
 
 ![Cole Swanson](https://nami-eastside.org/wp-content/uploads/2022/05/Cole-Swanson-Profile-Image.jpg)

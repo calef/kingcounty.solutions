@@ -9,7 +9,6 @@ title: Sea Mar Community Health Centers - Seattle Medical Clinic
 topics:
 - Health Care
 - Mental Health & Counseling
-- Community & Social Services
 type: Community-Based Organization
 website: https://www.seamar.org/king-medical-seattle.html
 ---

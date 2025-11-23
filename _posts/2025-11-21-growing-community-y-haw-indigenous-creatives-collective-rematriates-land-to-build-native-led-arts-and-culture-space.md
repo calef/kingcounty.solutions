@@ -14,7 +14,6 @@ original_markdown_body: "” A long time ago, the sky was too low. Tall people k
   common to understand each other..."
 summarized: true
 topics:
-- Community & Social Services
 - Mental Health & Counseling
 - Food & Nutrition
 ---

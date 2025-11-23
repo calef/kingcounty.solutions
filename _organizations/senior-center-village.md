@@ -5,9 +5,9 @@ phone: 206-485-4335
 email: info@vashon.helpfulvillage.com
 title: Senior Center Village
 topics:
-- Community & Social Services
 - Disabilities
 - Personal & Household Needs
+- Senior Services
 type: Community-Based Organization
 website: https://vashon.helpfulvillage.com/
 ---

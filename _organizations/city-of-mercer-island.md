@@ -4,7 +4,6 @@ jurisdictions:
 news_rss_url: https://www.mercerisland.gov/news/rss
 title: City of Mercer Island
 topics:
-- Community & Social Services
 - Transportation & Mobility
 type: City
 website: https://www.mercerisland.gov/

@@ -36,7 +36,6 @@ original_markdown_body: |-
    ![](https://atlanticstreetcenter.org/wp-content/uploads/2025/07/136-DSC00998.jpg)
 summarized: true
 topics:
-- Community & Social Services
 - Food & Nutrition
 images:
 - db75ff542461a9d9a37f63352df9877fad2bfb034abf8993c36c5270b1ef083a

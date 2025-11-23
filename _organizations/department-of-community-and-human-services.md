@@ -5,7 +5,6 @@ jurisdictions:
 parent_organization: King County
 title: Department of Community and Human Services
 topics:
-- Community & Social Services
 - Employment & Job Support
 - Health Care
 - Shelter & Housing

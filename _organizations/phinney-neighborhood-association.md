@@ -4,17 +4,16 @@ address: 6532 Phinney Ave N, Seattle, WA 98103
 email: pna@phinneycenter.org
 events_ical_url: https://www.phinneycenter.org/eventscal/?ical=1
 jurisdictions:
-  - Seattle
+- Seattle
 news_rss_url: https://www.phinneycenter.org/feed/
 phone: 206-783-2244
 title: Phinney Neighborhood Association
 topics:
-  - Community & Social Services
-  - Education & Learning
-  - Food & Nutrition
-  - Health Care
-  - Mental Health & Counseling
-  - Personal & Household Needs
+- Education & Learning
+- Food & Nutrition
+- Health Care
+- Mental Health & Counseling
+- Personal & Household Needs
 type: Community-Based Organization
 website: https://www.phinneycenter.org/
 ---

@@ -23,7 +23,6 @@ original_markdown_body: |-
   <object data-wp-bind--hidden="!state.hasPdfPreview" hidden class="wp-block-file__embed" data="https://hospitalityhousesouthking.org/wp-content/uploads/2025/06/6.-June-2025-1.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="Embed of 6. June 2025 (1)."></object>[6. June 2025 (1)](https://hospitalityhousesouthking.org/wp-content/uploads/2025/06/6.-June-2025-1.pdf)[Download](https://hospitalityhousesouthking.org/wp-content/uploads/2025/06/6.-June-2025-1.pdf)
 summarized: true
 topics:
-- Community & Social Services
 - Food & Nutrition
 - Personal & Household Needs
 images:

@@ -42,7 +42,6 @@ original_markdown_body: |-
   The post [ACRS Stands in Solidarity and Defense of Immigrant Communities](https://acrs.org/acrs-stands-in-solidarity-and-defense-of-immigrant-communities/) appeared first on [ACRS](https://acrs.org).
 summarized: true
 topics:
-- Community & Social Services
 - Disabilities
 - Domestic Violence
 - Mental Health & Counseling

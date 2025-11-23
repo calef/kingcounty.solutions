@@ -74,7 +74,6 @@ original_markdown_body: |-
   The post [Together We Rise](https://youthcare.org/blog/together-we-rise/) appeared first on [YouthCare](https://youthcare.org).
 summarized: true
 topics:
-- Community & Social Services
 - Shelter & Housing
 - Mental Health & Counseling
 images:

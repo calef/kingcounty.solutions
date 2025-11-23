@@ -8,7 +8,6 @@ topics:
 - Food & Nutrition
 - Shelter & Housing
 - Transportation & Mobility
-- Community & Social Services
 - Disabilities
 ---
 

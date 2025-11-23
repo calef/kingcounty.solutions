@@ -12,7 +12,6 @@ original_markdown_body: |-
   Launch families were treated to a very special evening with Santa, courtesy of Umpqua Bank’s South Lake Union Branch! For the third year in a row, Umpqua turned the branch into a winter wonderland featuring “snowballs,” crafts, cookies, games, gingerbread house decorating, and photos with Old Saint Nick himself. Santa even treated the kids to some quality storytime in the snow! We were thrilled to spend the evening with so many of our incredible Launch families and our special community. A big thank you to the staff at Umpqua – South Lake Union for providing another year of joy for our families!
 summarized: true
 topics:
-- Community & Social Services
 published: false
 ---
 

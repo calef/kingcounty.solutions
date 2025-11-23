@@ -4,7 +4,6 @@ jurisdictions:
 - King County
 title: Redmond Parks & Recreation
 topics:
-- Community & Social Services
 - Education & Learning
 type: Department
 website: https://www.redmond.gov/Parks

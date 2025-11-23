@@ -15,7 +15,6 @@ original_markdown_body: Multi-Service Center has been chosen by the Gesa Communi
   to support the Local Heroes [...]
 summarized: true
 topics:
-- Community & Social Services
 - Employment & Job Support
 - Shelter & Housing
 ---

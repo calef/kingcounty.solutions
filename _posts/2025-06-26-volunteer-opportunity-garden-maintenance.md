@@ -9,7 +9,6 @@ original_markdown_body: Love being outdoors? We’re looking for volunteers to h
   with garden maintenance at Howard House Home ! It’s a great way to give back...
 summarized: true
 topics:
-- Community & Social Services
 - Food & Nutrition
 ---
 

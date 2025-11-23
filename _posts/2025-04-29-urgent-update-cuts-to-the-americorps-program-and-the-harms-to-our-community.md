@@ -112,7 +112,6 @@ original_markdown_body: |-
   The post [Urgent Update: Cuts to the AmeriCorps Program and the Harms to Our Community](https://hungerintervention.org/2025/04/29/urgent-update-cuts-to-the-americorps-program-and-the-harms-to-our-community/) appeared first on [Hunger Intervention Program](https://hungerintervention.org).
 summarized: true
 topics:
-- Community & Social Services
 - Food & Nutrition
 - Employment & Job Support
 ---

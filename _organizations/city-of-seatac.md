@@ -2,8 +2,6 @@
 jurisdictions:
 - SeaTac
 title: City of SeaTac
-topics:
-- Community & Social Services
 type: City
 website: https://www.seatacwa.gov/
 ---

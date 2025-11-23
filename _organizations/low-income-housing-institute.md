@@ -8,7 +8,6 @@ title: Low Income Housing Institute
 topics:
 - Shelter & Housing
 - Food & Nutrition
-- Community & Social Services
 type: Community-Based Organization
 website: https://www.lihihousing.org
 ---

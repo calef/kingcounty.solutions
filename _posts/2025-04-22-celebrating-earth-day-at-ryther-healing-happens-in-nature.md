@@ -9,7 +9,6 @@ original_markdown_body: At Ryther, Earth Day is more than just a celebration—i
   a reminder of the role nature plays in helping children heal. Nestled in the...
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 - Mental Health & Counseling
 ---

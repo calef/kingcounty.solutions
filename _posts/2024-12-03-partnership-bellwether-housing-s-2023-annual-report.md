@@ -9,7 +9,6 @@ original_markdown_body: Our achievements outlined in this annual report demonstr
   the power of partnerships.
 summarized: true
 topics:
-- Community & Social Services
 - Shelter & Housing
 ---
 

@@ -10,7 +10,6 @@ original_markdown_body: Who says growing older means growing grumpier? Science s
 summarized: true
 topics:
 - Mental Health & Counseling
-- Community & Social Services
 ---
 
 Research highlights a "paradox of aging," where older individuals often report better mental health as they age, contrary to stereotypes of increased grumpiness. Key factors contributing to this phenomenon include:

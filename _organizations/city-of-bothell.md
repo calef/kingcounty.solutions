@@ -3,7 +3,7 @@ jurisdictions:
 - Bothell
 title: City of Bothell
 topics:
-- Community & Social Services
+- Shelter & Housing
 type: City
 website: https://www.bothellwa.gov
 ---

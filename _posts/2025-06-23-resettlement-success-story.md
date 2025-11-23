@@ -9,7 +9,6 @@ original_markdown_body: One of our clients, Niloofar, resettled in Washington St
   with her family in 2023, after eight years of displacement. Originally from...
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 - Employment & Job Support
 - Food & Nutrition

@@ -28,7 +28,6 @@ original_markdown_body: |-
   The post [What happened to Resource Wire?&nbsp;](https://www.solid-ground.org/what-happened-to-resource-wire/) appeared first on [Solid Ground](https://www.solid-ground.org).
 summarized: true
 topics:
-- Community & Social Services
 - Financial Assistance
 - Food & Nutrition
 - Employment & Job Support

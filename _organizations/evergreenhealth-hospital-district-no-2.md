@@ -4,7 +4,6 @@ jurisdictions:
 title: Hospital District No. 2 (EvergreenHealth)
 topics:
 - Health Care
-- Community & Social Services
 type: Public Hospital District
 website: https://www.evergreenhealth.com
 ---

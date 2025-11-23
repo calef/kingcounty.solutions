@@ -20,7 +20,6 @@ original_markdown_body: Yesterday, the U.S. District Court for the District of N
   moved to dismiss the decree; the Justice Department supported the City’s motion.
 summarized: true
 topics:
-- Community & Social Services
 - Domestic Violence
 ---
 

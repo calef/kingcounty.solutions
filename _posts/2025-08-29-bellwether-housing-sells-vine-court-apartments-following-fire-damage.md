@@ -10,7 +10,6 @@ original_markdown_body: Bellwether Housing today announced the sale of the Vine 
 summarized: true
 topics:
 - Shelter & Housing
-- Community & Social Services
 - Financial Assistance
 ---
 

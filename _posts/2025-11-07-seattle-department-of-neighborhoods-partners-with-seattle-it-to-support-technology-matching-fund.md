@@ -14,7 +14,6 @@ original_markdown_body: Seattle Department of Neighborhoods (DON) is excited to 
   collaboration aims to ...
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 ---
 

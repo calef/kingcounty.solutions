@@ -4,7 +4,6 @@ jurisdictions:
 news_rss_url: https://www.medina-wa.gov/news/rss
 title: City of Medina
 topics:
-- Community & Social Services
 - Transportation & Mobility
 type: City
 website: https://www.medina-wa.gov/

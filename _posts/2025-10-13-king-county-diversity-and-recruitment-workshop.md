@@ -12,7 +12,6 @@ original_content: |-
 summarized: true
 topics:
 - Employment & Job Support
-- Community & Social Services
 ---
 
 **King County Diversity and Recruitment Workshop**

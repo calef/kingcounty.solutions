@@ -8,7 +8,6 @@ address: 209 100th Ave NE, Bellevue, WA 98004
 title: Boys & Girls Clubs of Bellevue
 topics:
 - Education & Learning
-- Community & Social Services
 type: Community-Based Organization
 website: https://www.bgcbellevue.org/
 ---

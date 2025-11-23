@@ -84,7 +84,6 @@ original_markdown_body: |-
   The post [There and back again](https://www.compasshousingalliance.org/2024/12/there-and-back-again/) appeared first on [Compass Housing Alliance](https://www.compasshousingalliance.org).
 summarized: true
 topics:
-- Community & Social Services
 - Shelter & Housing
 - Health Care
 - Employment & Job Support

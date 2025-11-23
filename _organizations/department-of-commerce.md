@@ -5,7 +5,6 @@ news_rss_url: https://www.commerce.wa.gov/feed/
 parent_organization: State Executive Branch
 title: Department of Commerce
 topics:
-- Community & Social Services
 - Financial Assistance
 - Transportation & Mobility
 type: Department

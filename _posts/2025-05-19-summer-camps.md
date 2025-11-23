@@ -15,7 +15,6 @@ original_content: |-
   The post [Summer Camps](https://www.carnationwa.gov/summer-camps/) appeared first on [Carnation, WA](https://www.carnationwa.gov).
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 ---
 

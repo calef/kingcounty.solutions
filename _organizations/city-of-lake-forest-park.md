@@ -2,7 +2,6 @@
 jurisdictions:
 - Lake Forest Park
 title: City of Lake Forest Park
-topics: []
 type: City
 website: https://www.cityoflfp.com/
 ---

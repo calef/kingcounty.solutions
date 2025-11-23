@@ -13,7 +13,6 @@ original_markdown_body: Seattle Parks and Recreation (SPR) is excited to share o
   project commitments for the ...
 summarized: true
 topics:
-- Community & Social Services
 - Disabilities
 - Education & Learning
 - Shelter & Housing

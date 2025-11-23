@@ -19,7 +19,6 @@ original_markdown_body: As the days grow shorter and the air turns crisp, Novemb
   direction. It doesn’t erase...
 summarized: true
 topics:
-- Community & Social Services
 - Mental Health & Counseling
 ---
 

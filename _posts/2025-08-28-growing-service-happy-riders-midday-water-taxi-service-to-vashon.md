@@ -16,7 +16,6 @@ original_markdown_body: On June 27, 2024, riders sailed from Vashon Island to do
 summarized: true
 topics:
 - Transportation & Mobility
-- Community & Social Services
 - Employment & Job Support
 ---
 

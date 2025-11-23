@@ -16,7 +16,6 @@ original_markdown_body: |-
    ![](https://atlanticstreetcenter.org/wp-content/uploads/2025/03/IMG_6492-1-1024x683.jpg)
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 - Employment & Job Support
 - Food & Nutrition

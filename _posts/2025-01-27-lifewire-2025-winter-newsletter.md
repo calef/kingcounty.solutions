@@ -252,7 +252,6 @@ original_markdown_body: "![](https://www.lifewire.org/wp-content/uploads/2025/01
 summarized: true
 topics:
 - Domestic Violence
-- Community & Social Services
 - Shelter & Housing
 images:
 - 264f032cbb306f7d21da2bcfc25967a96b1b9a0498a264fd3fa99ed0e53635e7

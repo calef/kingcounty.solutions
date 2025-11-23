@@ -12,7 +12,6 @@ original_markdown_body: |-
   [Source](https://www.uwkc.org/advocacy/perspective/)
 summarized: true
 topics:
-- Community & Social Services
 - Employment & Job Support
 - Financial Assistance
 - Food & Nutrition

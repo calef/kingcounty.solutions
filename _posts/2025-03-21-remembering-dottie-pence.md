@@ -39,7 +39,6 @@ original_markdown_body: |-
   The post [Remembering Dottie Pence](https://www.boyercc.org/family-stories/dottie/) appeared first on [Boyer Children's Clinic](https://www.boyercc.org).
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 ---
 

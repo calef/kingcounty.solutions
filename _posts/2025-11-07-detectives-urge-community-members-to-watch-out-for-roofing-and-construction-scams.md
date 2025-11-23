@@ -15,7 +15,6 @@ original_markdown_body: Seattle police detectives urge community members to be w
 summarized: true
 topics:
 - Disabilities
-- Community & Social Services
 ---
 
 Seattle police detectives are warning residents about roofing and construction scams after a 53-year-old victim lost $74,000. The victim, who has developmental delays, was targeted by scammers posing as contractors. Detectives emphasize the importance of vigilance and suggest verifying contractors' credentials and obtaining written estimates before proceeding with any work to avoid falling victim to such fraud.

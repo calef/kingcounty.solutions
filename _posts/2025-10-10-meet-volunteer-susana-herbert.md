@@ -19,7 +19,6 @@ original_markdown_body: |-
   ](https://wscenter.org/meet-volunteer-susana-herbert/)
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 - Employment & Job Support
 ---

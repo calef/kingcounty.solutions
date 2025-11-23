@@ -82,7 +82,6 @@ original_markdown_body: |-
 summarized: true
 topics:
 - Education & Learning
-- Community & Social Services
 images:
 - 918c14a94590b9611168b7fa6f33a88eb5119b046a4921c50a042a292d45efa2
 ---

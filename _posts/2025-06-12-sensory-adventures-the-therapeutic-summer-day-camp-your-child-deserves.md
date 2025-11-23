@@ -63,7 +63,6 @@ summarized: true
 topics:
 - Disabilities
 - Mental Health & Counseling
-- Community & Social Services
 ---
 
 Encompass is offering a unique day camp experience, the Sensory Adventures Therapeutic Immersion Camp, for children aged 5-8 with neurodiverse profiles or those who face challenges in traditional camp environments. The camp focuses on meeting children's emotional and developmental needs. Therapists will provide individualized support in areas such as mental health, speech, and occupational challenges. The program aims to help children manage emotions, develop social skills, and improve communication. Key aspects of the program include understanding physical cues, peer interaction, self-advocacy, trust-based relationships, and play. The camp aims to provide a supportive, understanding, and fun environment for children's emotional, social, and developmental growth.

@@ -62,7 +62,6 @@ original_markdown_body: |-
   [Executive Constantine gives final county address](https://medium.com/kingcounty/executive-constantine-gives-his-final-state-of-the-county-address-649a93a589a1) was originally published in [KingCounty](https://medium.com/kingcounty) on Medium, where people are continuing the conversation by highlighting and responding to this story.
 summarized: true
 topics:
-- Community & Social Services
 - Mental Health & Counseling
 - Shelter & Housing
 - Transportation & Mobility

@@ -11,7 +11,6 @@ original_markdown_body: We’re thrilled to announce that our director, Shelley 
   This recognition celebrates Shelley’s 35+ years of […]
 summarized: true
 topics:
-- Community & Social Services
 - Food & Nutrition
 - Health Care
 ---

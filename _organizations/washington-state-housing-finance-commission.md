@@ -7,7 +7,6 @@ title: Washington State Housing Finance Commission
 topics:
 - Financial Assistance
 - Shelter & Housing
-- Community & Social Services
 type: Agency
 website: https://www.wshfc.org/
 ---

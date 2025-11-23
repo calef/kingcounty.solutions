@@ -15,7 +15,6 @@ original_markdown_body: |-
   The post [Honoring the Black gay community’s great connector | Seattle Pride 50](https://nhwa.org/2025/10/03/honoring-the-black-gay-communitys-great-connector-seattle-pride-50/) appeared first on [Neighborhood House](https://nhwa.org).
 summarized: true
 topics:
-- Community & Social Services
 - Health Care
 - Employment & Job Support
 ---

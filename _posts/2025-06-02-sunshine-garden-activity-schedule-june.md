@@ -13,7 +13,6 @@ original_content: |-
   The post [Sunshine Garden Activity Schedule – June](https://cisc-seattle.org/sunshine-garden-activity-schedule-june/) appeared first on [Chinese Information and Service Center](https://cisc-seattle.org).
 summarized: true
 topics:
-- Community & Social Services
 - Food & Nutrition
 - Health Care
 ---

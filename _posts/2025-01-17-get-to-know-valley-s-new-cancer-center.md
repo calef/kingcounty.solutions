@@ -63,7 +63,6 @@ original_markdown_body: |-
 summarized: true
 topics:
 - Health Care
-- Community & Social Services
 images:
 - 3c48cf5e7e4643b458dbaf16a403a38fb97e0668d4f93c63a5a2ccb4bb82e595
 ---

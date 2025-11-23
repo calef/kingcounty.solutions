@@ -8,8 +8,8 @@ jurisdictions:
 news_rss_url: https://elap.org/feed/
 title: Eastside Legal Assistance Program
 topics:
-- Community & Social Services
 - Domestic Violence
+- Legal Aid
 type: Community-Based Organization
 website: https://elap.org/
 ---

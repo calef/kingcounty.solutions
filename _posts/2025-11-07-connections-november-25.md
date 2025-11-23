@@ -128,7 +128,6 @@ original_markdown_body: "![](https://i0.wp.com/youthcare.org/wp-content/uploads/
 summarized: true
 topics:
 - Shelter & Housing
-- Community & Social Services
 - Food & Nutrition
 - Mental Health & Counseling
 - Domestic Violence

@@ -5,7 +5,6 @@ parent_organization: The Salvation Army
 title: Seattle White Center
 topics:
 - Education & Learning
-- Community & Social Services
 type: Community-Based Organization
 website: https://seattlewhitecenter.salvationarmy.org/
 ---

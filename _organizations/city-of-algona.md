@@ -2,8 +2,6 @@
 jurisdictions:
 - Algona
 title: City of Algona
-topics:
-- Community & Social Services
 type: City
 website: https://www.algonawa.gov/
 ---

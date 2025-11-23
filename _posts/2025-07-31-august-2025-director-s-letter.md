@@ -48,7 +48,6 @@ original_markdown_body: |-
   The post [August 2025 Director’s Letter](https://snovalleysenior.org/august-2025-directors-letter/) appeared first on [Sno-Valley Senior Center](https://snovalleysenior.org).
 summarized: true
 topics:
-- Community & Social Services
 - Employment & Job Support
 ---
 

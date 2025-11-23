@@ -74,7 +74,6 @@ original_content: |-
   “Washingtonians expect that we will increase revenue as a last resort,” Ferguson said. “I will not start contemplating additional revenue options until we have exhausted efforts to improve efficiency.”
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 - Shelter & Housing
 ---

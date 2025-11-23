@@ -10,6 +10,7 @@ topics:
 - Disabilities
 - Financial Assistance
 - Health Care
+- Legal Aid
 type: Community-Based Organization
 website: https://benefitslawcenter.org/our-work/self-help-materials/
 ---

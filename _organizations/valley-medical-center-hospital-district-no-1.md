@@ -6,7 +6,6 @@ jurisdictions:
 news_rss_url: https://blog.valleymed.org/feed/
 title: Hospital District No. 1 (Valley Medical Center)
 topics:
-- Community & Social Services
 - Health Care
 type: Public Hospital District
 website: https://www.valleymed.org

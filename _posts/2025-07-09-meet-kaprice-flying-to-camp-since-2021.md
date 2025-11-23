@@ -110,7 +110,6 @@ original_markdown_body: |-
 summarized: true
 topics:
 - Disabilities
-- Community & Social Services
 - Health Care
 - Mental Health & Counseling
 images:

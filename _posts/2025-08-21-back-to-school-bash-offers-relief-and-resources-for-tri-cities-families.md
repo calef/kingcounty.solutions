@@ -63,7 +63,6 @@ original_markdown_body: |-
   The post [Back to School Bash offers relief and resources for Tri-Cities families](https://lcsnw.org/2025/08/back-to-school-bash/) appeared first on [LCSNW](https://lcsnw.org).
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 - Health Care
 - Personal & Household Needs

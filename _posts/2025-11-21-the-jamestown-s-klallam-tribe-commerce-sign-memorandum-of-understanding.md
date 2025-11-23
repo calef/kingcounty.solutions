@@ -85,7 +85,6 @@ original_markdown_body: |-
   To learn more and follow Commerce’s work with tribal nations and communities within Washington, visit the [Office of Tribal Relations webpage](https://www.commerce.wa.gov/tribal-relations/).
 summarized: true
 topics:
-- Community & Social Services
 - Health Care
 images:
 - 3efe7832c66305c6f4c32958d2112fccede2c5cfd94ced930a435a021b8a20b0

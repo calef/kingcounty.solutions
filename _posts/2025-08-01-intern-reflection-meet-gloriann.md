@@ -45,7 +45,6 @@ original_markdown_body: |-
   The post [Intern Reflection: Meet Gloriann](https://angelflightwest.org/news/intern-reflection-meet-gloriann/) first appeared on [Angel Flight West](https://angelflightwest.org).
 summarized: true
 topics:
-- Community & Social Services
 - Employment & Job Support
 images:
 - a315edf3e5b934320af011ee97fcf012aa5af134ec5f6aea5308b2ce4f855d34

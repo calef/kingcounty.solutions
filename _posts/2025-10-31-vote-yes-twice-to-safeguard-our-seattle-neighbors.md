@@ -65,7 +65,6 @@ original_markdown_body: |-
 summarized: true
 topics:
 - Education & Learning
-- Community & Social Services
 - Shelter & Housing
 - Financial Assistance
 images:

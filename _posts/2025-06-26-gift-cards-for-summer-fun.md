@@ -9,7 +9,6 @@ original_markdown_body: 'Want to help create joyful memories? We’re collecting
   cards for: Movie theaters Local food spots Uber rides Haircuts (Visa or...'
 summarized: true
 topics:
-- Community & Social Services
 - Food & Nutrition
 - Personal & Household Needs
 ---

@@ -8,7 +8,6 @@ original_markdown_body: "![](https://img1.wsimg.com/isteam/ip/02d99612-388e-465c
 summarized: true
 topics:
 - Food & Nutrition
-- Community & Social Services
 - Shelter & Housing
 images:
 - 66a25ea8e887846fecc260ce8e5bb104f5694748e6292a4fb37a8b3b3c5bb0cf

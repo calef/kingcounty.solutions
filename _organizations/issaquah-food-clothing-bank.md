@@ -7,7 +7,6 @@ title: Issaquah Food & Clothing Bank
 topics:
 - Food & Nutrition
 - Personal & Household Needs
-- Community & Social Services
 type: Community-Based Organization
 website: https://issaquahfoodbank.org/
 ---

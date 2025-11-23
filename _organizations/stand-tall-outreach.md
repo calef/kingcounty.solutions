@@ -1,15 +1,14 @@
 ---
 email: info@standtalloutreach.org
 jurisdictions:
-  - Seattle
-news_rss_url:
+- Seattle
+news_rss_url: null
 phone: 253-254-5685
 title: Stand Tall Outreach
 topics:
-  - Community & Social Services
-  - Food & Nutrition
-  - Mental Health & Counseling
-  - Personal & Household Needs
+- Food & Nutrition
+- Mental Health & Counseling
+- Personal & Household Needs
 type: Community-Based Organization
 website: https://www.standtalloutreach.org/
 ---

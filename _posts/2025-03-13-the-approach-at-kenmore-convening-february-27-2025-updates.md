@@ -12,7 +12,6 @@ original_markdown_body: |-
   The post [The Approach at Kenmore Convening February 27, 2025 Updates](https://imaginehousing.org/the-approach-at-kenmore-convening-february-27-2025-updates/) appeared first on [Imagine Housing](https://imaginehousing.org).
 summarized: true
 topics:
-- Community & Social Services
 - Shelter & Housing
 - Employment & Job Support
 ---

@@ -7,7 +7,6 @@ original_content: <img src="https://www.burienwa.gov/UserFiles/Servers/Server_11
 original_markdown_body: "![](https://www.burienwa.gov/UserFiles/Servers/Server_11045935/Image/Featured_Events/2025/Wondeful%20Burien%202025%20-%20FE.png)Support local businesses while enjoying the culture and small-town charm of Burien!"
 summarized: true
 topics:
-- Community & Social Services
 - Food & Nutrition
 - Employment & Job Support
 images:

@@ -5,7 +5,6 @@ jurisdictions:
 title: Disability Empowerment Center
 topics:
 - Disabilities
-- Community & Social Services
 - Employment & Job Support
 - Personal & Household Needs
 type: Community-Based Organization

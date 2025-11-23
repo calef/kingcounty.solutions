@@ -126,7 +126,6 @@ original_markdown_body: |-
 summarized: true
 topics:
 - Shelter & Housing
-- Community & Social Services
 ---
 
 Community Roots Housing is seeking a visionary Chief Executive Officer (CEO) to advance its mission of providing affordable housing in Seattle. The CEO will report to a 15-member Board, focusing on strategic vision, governance, and resource development while leading diverse programs and operations. This role involves building relationships with stakeholders, including community leaders and major donors, to enhance the organization’s impact in the affordable housing sector. The CEO will also work to diversify financial resources, manage a team of 100, and embody the values of inclusivity and transparency.

@@ -36,7 +36,6 @@ original_content: "![](https://sophiaway.org/wp-content/uploads/2025/02/Image-BH
   first appeared on [The Sophia Way](https://sophiaway.org)."
 summarized: true
 topics:
-- Community & Social Services
 - Shelter & Housing
 - Disabilities
 ---

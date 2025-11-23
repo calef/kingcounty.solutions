@@ -18,7 +18,6 @@ topics:
 - Shelter & Housing
 - Health Care
 - Mental Health & Counseling
-- Community & Social Services
 ---
 
 Recent claims regarding DESC's Bloomside site in Burien have prompted a need for clarification. Bloomside serves 95 individuals who have experienced chronic homelessness, often facing significant health challenges. DESC prioritizes tenants from Burien's homeless population and collaborates with local authorities and organizations to ensure community safety. The site has a strict zero-tolerance policy for illegal activities and tenants are required to sign a Good Neighbor Policy to maintain community standards.

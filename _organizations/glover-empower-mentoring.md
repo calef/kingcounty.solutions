@@ -8,7 +8,6 @@ phone: 253-277-2726
 title: Glover Empower Mentoring
 topics:
 - Education & Learning
-- Community & Social Services
 type: Community-Based Organization
 website: https://gemwa.org/
 ---

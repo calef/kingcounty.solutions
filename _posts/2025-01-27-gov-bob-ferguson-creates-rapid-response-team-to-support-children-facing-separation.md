@@ -61,7 +61,6 @@ original_content: "Gov. Bob Ferguson creates rapid response team to support chil
   as work progresses."
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 - Domestic Violence
 ---

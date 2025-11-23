@@ -58,7 +58,6 @@ original_markdown_body: |-
   The post [Leadership Transition Update](https://www.boyercc.org/general/2025-leadership-transition/) appeared first on [Boyer Children's Clinic](https://www.boyercc.org).
 summarized: true
 topics:
-- Community & Social Services
 - Disabilities
 - Education & Learning
 ---

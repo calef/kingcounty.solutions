@@ -4,7 +4,6 @@ date: '2025-10-18T18:00:00-08:00'
 source: King County Solutions
 summarized: true
 topics:
-- Community & Social Services
 - Domestic Violence
 - Health Care
 - Education & Learning

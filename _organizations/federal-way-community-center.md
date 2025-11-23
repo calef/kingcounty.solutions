@@ -6,7 +6,6 @@ events_ical_url: https://itallhappenshere.org/events/?ical=1
 phone: 253-835-6900
 title: Federal Way Community Center
 topics:
-- Community & Social Services
 - Education & Learning
 - Health Care
 - Food & Nutrition

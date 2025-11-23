@@ -75,7 +75,6 @@ original_markdown_body: |-
   The post [Donor Spotlight: Sarah Hamid](https://www.youtheastsideservices.org/donor-spotlight-sarah-hamid/) appeared first on [Youth Eastside Services](https://www.youtheastsideservices.org).
 summarized: true
 topics:
-- Community & Social Services
 - Mental Health & Counseling
 - Education & Learning
 images:

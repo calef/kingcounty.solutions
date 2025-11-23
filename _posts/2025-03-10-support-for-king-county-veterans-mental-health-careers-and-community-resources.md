@@ -151,7 +151,6 @@ summarized: true
 topics:
 - Mental Health & Counseling
 - Employment & Job Support
-- Community & Social Services
 ---
 
 Support for veterans in King County focuses on mental health, career opportunities, and community resources. An estimated 127,000 veterans reside in the area, with around 20,000 having faced PTSD, TBI, or MST. Many veterans hesitate to seek help, resulting in increased risks of homelessness and unemployment. Valley Cities Behavioral Health Care, particularly through the Steven A. Cohen Military Family Clinic, offers vital mental health services, including individual and group therapy, medication management, and case management aimed at holistic support.

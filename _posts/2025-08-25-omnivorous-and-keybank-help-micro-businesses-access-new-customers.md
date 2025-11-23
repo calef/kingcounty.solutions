@@ -42,7 +42,6 @@ original_markdown_body: |-
   The post [Omnivorous and KeyBank help micro-businesses access new customers](https://communityrootshousing.org/2025/08/omnivorous-keybank-help-micro-businesses/) appeared first on [Community Roots Housing](https://communityrootshousing.org).
 summarized: true
 topics:
-- Community & Social Services
 - Food & Nutrition
 - Shelter & Housing
 images:

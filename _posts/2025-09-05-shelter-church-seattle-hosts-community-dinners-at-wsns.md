@@ -24,7 +24,6 @@ original_markdown_body: |-
   The post [Shelter Church Seattle hosts community dinners at WSNS](https://westsideneighborsshelter.org/shelter-church-seattle-hosts-community-dinners-at-wsns/) appeared first on [Westside Neighbors Shelter](https://westsideneighborsshelter.org).
 summarized: true
 topics:
-- Community & Social Services
 - Food & Nutrition
 ---
 

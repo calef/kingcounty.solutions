@@ -21,7 +21,6 @@ original_content: |-
   The post [Celebrating Native American Heritage Month](https://snoqualmievalleyhealth.org/native-american-heritage-month/) appeared first on [Snoqualmie Valley Hospital](https://snoqualmievalleyhealth.org).
 summarized: true
 topics:
-- Community & Social Services
 - Health Care
 - Education & Learning
 - Mental Health & Counseling

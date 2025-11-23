@@ -2,8 +2,6 @@
 jurisdictions:
 - Federal Way
 title: City of Federal Way
-topics:
-- Community & Social Services
 type: City
 website: https://www.cityoffederalway.com/
 ---

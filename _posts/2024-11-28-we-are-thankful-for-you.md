@@ -13,7 +13,6 @@ original_markdown_body: At this time of year, we pause to reflect on everything 
   ways. Together, we provide safe and respectful spaces for women experiencing […]
 summarized: true
 topics:
-- Community & Social Services
 - Shelter & Housing
 ---
 

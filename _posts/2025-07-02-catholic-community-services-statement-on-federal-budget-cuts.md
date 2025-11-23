@@ -55,7 +55,6 @@ original_markdown_body: "We urge Congress to not abandon their constituents who 
   first appeared on [Catholic Community Services of Western Washington](https://ccsww.org)."
 summarized: true
 topics:
-- Community & Social Services
 - Food & Nutrition
 - Health Care
 - Financial Assistance

@@ -92,7 +92,6 @@ original_content: "## **Highlights from the 29<sup>th</sup> Annual Reaching Out 
   in October 2025 will be announced in coming months._&nbsp;"
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 - Employment & Job Support
 - Financial Assistance

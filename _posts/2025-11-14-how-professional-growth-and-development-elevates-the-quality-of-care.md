@@ -75,7 +75,6 @@ original_markdown_body: |-
 summarized: true
 topics:
 - Education & Learning
-- Community & Social Services
 ---
 
 For child care providers and early learning educators, ongoing education is essential for enhancing the quality of care they provide to children and families. BrightSpark’s Professional Growth and Development Team offers a range of STARS-fulfilling classes to support providers in meeting Washington State's licensing requirements, which mandate earning 10 training hours per month. These classes, available both in-person and virtually, help improve interactions, curriculum implementation, and cultural awareness among providers.

@@ -5,7 +5,6 @@ jurisdictions:
 title: Church By The Side Of The Road
 topics:
 - Food & Nutrition
-- Community & Social Services
 type: Community-Based Organization
 website: https://cbsr.org
 ---

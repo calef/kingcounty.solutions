@@ -2,8 +2,6 @@
 jurisdictions:
 - Black Diamond
 title: City of Black Diamond
-topics:
-- Community & Social Services
 type: City
 website: https://www.ci.blackdiamond.wa.us/
 ---

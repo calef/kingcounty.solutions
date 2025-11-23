@@ -162,7 +162,6 @@ topics:
 - Financial Assistance
 - Employment & Job Support
 - Food & Nutrition
-- Community & Social Services
 images:
 - e946436502031ea3ebdc8bad3a71c04654fa7bb121c28456747d97bf55713e7c
 - c4d0cfcc1f50c13f5abc5e6548264999c542c349180fd06a67fba559cc6621ab

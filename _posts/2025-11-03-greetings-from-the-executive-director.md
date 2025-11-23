@@ -14,7 +14,6 @@ original_markdown_body: |-
   ](https://wscenter.org/greetings-from-the-executive-director-3/)
 summarized: true
 topics:
-- Community & Social Services
 - Employment & Job Support
 - Financial Assistance
 ---

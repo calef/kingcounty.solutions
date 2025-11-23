@@ -42,7 +42,6 @@ original_markdown_body: |-
   The post [Volunteer Spotlight: Nga](https://hungerintervention.org/2025/03/14/volunteer-spotlight-nga/) appeared first on [Hunger Intervention Program](https://hungerintervention.org).
 summarized: true
 topics:
-- Community & Social Services
 - Food & Nutrition
 ---
 

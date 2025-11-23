@@ -13,7 +13,6 @@ original_markdown_body: Seattle IT’s Old Tech Drive, held in partnership with 
   technology and donate it to...
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 - Transportation & Mobility
 ---

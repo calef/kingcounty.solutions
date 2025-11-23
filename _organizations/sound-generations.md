@@ -6,7 +6,6 @@ news_rss_url: https://soundgenerations.org/feed/
 email: info@soundgenerations.org
 title: Sound Generations
 topics:
-- Community & Social Services
 - Disabilities
 - Food & Nutrition
 - Health Care

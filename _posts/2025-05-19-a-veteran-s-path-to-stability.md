@@ -15,7 +15,6 @@ original_markdown_body: Brian\* lived without a place to call home for two years
   Every door seemed to close before [...]
 summarized: true
 topics:
-- Community & Social Services
 - Disabilities
 - Domestic Violence
 - Employment & Job Support

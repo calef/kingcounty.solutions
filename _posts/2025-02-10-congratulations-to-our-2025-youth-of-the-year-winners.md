@@ -63,7 +63,6 @@ original_markdown_body: |-
   The post [Congratulations to our 2025 Youth of the Year Winners!](https://positiveplace.org/congratulations-to-our-2025-youth-of-the-year-winners/) appeared first on [Boys & Girls Clubs](https://positiveplace.org).
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 - Employment & Job Support
 - Mental Health & Counseling

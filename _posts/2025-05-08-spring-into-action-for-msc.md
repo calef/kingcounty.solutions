@@ -13,7 +13,6 @@ original_markdown_body: Not a lot is certain right now -- so when I’m asked to
   MSC’s funding and our services to our most vulnerable community members, [...]
 summarized: true
 topics:
-- Community & Social Services
 - Financial Assistance
 - Food & Nutrition
 - Employment & Job Support

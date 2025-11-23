@@ -12,7 +12,6 @@ original_markdown_body: |-
   The post [LATEST NEWS: Shelter closed for repairs August 18](https://westsideneighborsshelter.org/latest-news-shelter-closed-for-repairs-august-18/) appeared first on [Westside Neighbors Shelter](https://westsideneighborsshelter.org).
 summarized: true
 topics:
-- Community & Social Services
 - Shelter & Housing
 - Food & Nutrition
 ---

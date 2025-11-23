@@ -7,7 +7,6 @@ original_content: "<p>We are pleased to share that <strong>Olivia Ferrel</strong
 original_markdown_body: "We are pleased to share that **Olivia Ferrel** has been appointed as the new Executive Director of Hospitality House.\n\nGuided by care and compassion, Olivia delivers from the heart, building meaningful relationships that foster trust and comfort. Her unsurpassed dedication to our mission and values, combined with her highly organized and team-focused leadership style, make her an outstanding choice to guide our organization forward.\n\nAs Executive Director, Olivia will lead efforts in fundraising and resource development, community outreach and advocacy, staff and volunteer leadership, and program oversight—ensuring our services remain mission-driven, effective, and responsive to community needs.\n\nWe are confident Olivia’s leadership will strengthen our impact and help us better serve women in crisis. Please join us in welcoming Olivia to this important role! ![\U0001F49A](https://s.w.org/images/core/emoji/16.0.1/72x72/1f49a.png)"
 summarized: true
 topics:
-- Community & Social Services
 - Domestic Violence
 - Shelter & Housing
 images:

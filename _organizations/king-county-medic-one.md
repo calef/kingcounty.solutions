@@ -3,7 +3,6 @@ jurisdictions:
 - King County
 title: King County Medic One
 topics:
-- Community & Social Services
 - Health Care
 type: Special Purpose District
 website: https://kingcounty.gov/depts/health/emergency-medical-services.aspx

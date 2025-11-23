@@ -110,7 +110,6 @@ original_markdown_body: |-
   [2024 Recap: Our work across King County this year](https://medium.com/kingcounty/2024-recap-this-year-in-king-county-c1caf13e5da7) was originally published in [KingCounty](https://medium.com/kingcounty) on Medium, where people are continuing the conversation by highlighting and responding to this story.
 summarized: true
 topics:
-- Community & Social Services
 - Shelter & Housing
 - Health Care
 - Mental Health & Counseling

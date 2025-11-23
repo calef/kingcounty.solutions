@@ -34,7 +34,6 @@ topics:
 - Financial Assistance
 - Shelter & Housing
 - Health Care
-- Community & Social Services
 images:
 - 946cfbc089f8ec8d44be57b2d45c1e86ddbabf58fcfc3a6c1556cd4d5428b0df
 - 667ea46f9bd0a596bffc1ce3762593877b192e7ff838d9e826f3d5ae32c9eb71

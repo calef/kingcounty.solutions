@@ -9,7 +9,6 @@ original_markdown_body: We were proud to attend Bothell Pride at Moonlight on Ma
   as well as Pride Celebration at Kirkland Urban as part of our ongoing...
 summarized: true
 topics:
-- Community & Social Services
 - Disabilities
 - Domestic Violence
 - Employment & Job Support

@@ -6,7 +6,6 @@ email: takeaction@treehouseforkids.org
 title: Treehouse
 topics:
 - Education & Learning
-- Community & Social Services
 type: Community-Based Organization
 website: https://www.treehouseforkids.org/
 ---

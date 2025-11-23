@@ -9,7 +9,6 @@ summarized: true
 topics:
 - Food & Nutrition
 - Shelter & Housing
-- Community & Social Services
 images:
 - 66a25ea8e887846fecc260ce8e5bb104f5694748e6292a4fb37a8b3b3c5bb0cf
 ---

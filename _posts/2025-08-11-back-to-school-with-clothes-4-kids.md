@@ -73,7 +73,6 @@ original_markdown_body: |-
   The post [Back to school with Clothes-4-Kids](https://www.bellevuelifespring.org/general/back-to-school-with-clothes-4-kids/) appeared first on [Bellevue LifeSpring](https://www.bellevuelifespring.org).
 summarized: true
 topics:
-- Community & Social Services
 - Personal & Household Needs
 - Education & Learning
 images:

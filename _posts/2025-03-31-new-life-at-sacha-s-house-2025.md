@@ -19,7 +19,6 @@ original_markdown_body: February 2025We are so grateful for your partnership in 
   and their experience
 summarized: true
 topics:
-- Community & Social Services
 - Disabilities
 - Education & Learning
 - Mental Health & Counseling

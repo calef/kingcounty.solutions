@@ -13,7 +13,6 @@ original_markdown_body: |-
 summarized: true
 topics:
 - Shelter & Housing
-- Community & Social Services
 ---
 
 The City of Bellevue has recently updated its land-use code to facilitate the development of affordable housing, particularly on church-owned land. This change aims to reduce bureaucratic hurdles that have traditionally slowed the housing development process. Imagine Housing has partnered with HR&A Labs and the Amazon Housing Equity Fund to explore new opportunities for creating affordable homes on the Eastside. This collaboration reflects a growing recognition of the potential for faith-owned land to contribute to addressing housing shortages. The initiative highlights the importance of innovative partnerships and strategic planning in tackling the affordable housing crisis.

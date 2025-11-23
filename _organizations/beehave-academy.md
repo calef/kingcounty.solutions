@@ -6,7 +6,6 @@ jurisdictions:
 phone: 425-754-6276
 title: Beehave Academy
 topics:
-- Community & Social Services
 - Disabilities
 - Mental Health & Counseling
 type: Community-Based Organization

@@ -48,7 +48,6 @@ original_markdown_body: |-
   The post [Happy New Year from Reclaiming Our Greatness (ROG)!](https://reclaimingourgreatness.org/happy-new-year-from-reclaiming-our-greatness-rog/) appeared first on [Reclaiming Our Greatness](https://reclaimingourgreatness.org).
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 - Employment & Job Support
 - Financial Assistance

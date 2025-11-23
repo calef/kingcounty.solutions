@@ -4,13 +4,12 @@ jurisdictions:
 - King County
 - Seattle
 news_rss_url: https://kcrha.org/feed/
-phone: "(206) 930-8846"
+phone: (206) 930-8846
 email: info@kcrha.org
 address: 400 Yesler Way, Suite 600, Seattle, WA 98104
 title: King County Regional Homelessness Authority
 topics:
 - Shelter & Housing
-- Community & Social Services
 type: Agency
 website: https://kcrha.org/
 ---

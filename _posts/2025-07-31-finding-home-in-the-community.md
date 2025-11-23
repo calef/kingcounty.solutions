@@ -9,7 +9,6 @@ original_content: |-
   [Read More... from Finding Home in the Community](https://iacswa.org/finding-home-in-the-community/)
 summarized: true
 topics:
-- Community & Social Services
 - Mental Health & Counseling
 ---
 

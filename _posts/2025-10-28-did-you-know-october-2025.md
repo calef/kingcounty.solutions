@@ -91,7 +91,6 @@ original_markdown_body: "**Indigenous Peoples’ Day Speech** By Paula Matta Mar
   appeared first on [El Centro de la Raza](https://www.elcentrodelaraza.org)."
 summarized: true
 topics:
-- Community & Social Services
 - Disabilities
 - Domestic Violence
 - Education & Learning

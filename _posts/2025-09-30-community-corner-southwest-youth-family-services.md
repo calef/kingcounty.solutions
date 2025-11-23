@@ -15,7 +15,6 @@ original_markdown_body: Community Corner highlights the work of Seattle Human Se
   on Facebook, Instagram and LinkedIn). […]
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 - Employment & Job Support
 - Mental Health & Counseling

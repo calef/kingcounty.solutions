@@ -499,7 +499,6 @@ original_markdown_body: "## Budget proposals would devastate regional nonprofit 
   [Webpage]&nbsp;\n\n-"
 summarized: true
 topics:
-- Community & Social Services
 - Food & Nutrition
 - Financial Assistance
 - Shelter & Housing

@@ -18,7 +18,6 @@ original_markdown_body: Today, the U.S. District Court for the Eastern District 
   intervention; stops, searches, and arrests; and other areas.
 summarized: true
 topics:
-- Community & Social Services
 - Mental Health & Counseling
 published: false
 ---

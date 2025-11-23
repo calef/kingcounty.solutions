@@ -10,7 +10,6 @@ original_markdown_body: As we move into the heart of summer, it’s the perfect 
 summarized: true
 topics:
 - Food & Nutrition
-- Community & Social Services
 ---
 
 As summer progresses, Eastside Friends of Seniors emphasizes the importance of nutrition for older adults, highlighting how good eating habits support strength, energy, and independence. Staying hydrated and incorporating seasonal fruits and vegetables—such as strawberries, blueberries, and cucumbers—can significantly enhance well-being. Local food banks play a critical role in providing access to fresh produce and essential pantry items, making healthy choices more accessible for seniors. The organization extends gratitude to local food banks and their volunteers, whose efforts ensure that older adults have ongoing access to nutritious food.

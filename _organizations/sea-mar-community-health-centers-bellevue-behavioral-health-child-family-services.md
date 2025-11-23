@@ -9,7 +9,6 @@ title: Sea Mar Community Health Centers - Bellevue Behavioral Health Child & Fam
   Services
 topics:
 - Mental Health & Counseling
-- Community & Social Services
 type: Community-Based Organization
 website: https://www.seamar.org/king-bh-bellevue-family.html
 ---

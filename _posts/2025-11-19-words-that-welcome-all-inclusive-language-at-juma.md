@@ -12,7 +12,6 @@ original_markdown_body: |-
   The post [Words That Welcome All: Inclusive Language at Juma](https://www.juma.org/2025/11/19/words-that-welcome-all-inclusive-language-at-juma/) appeared first on [Juma](https://www.juma.org).
 summarized: true
 topics:
-- Community & Social Services
 - Disabilities
 - Education & Learning
 ---

@@ -15,7 +15,6 @@ original_markdown_body: September is Healthy Aging Month, an opportunity to rais
   65+.&nbsp; […]
 summarized: true
 topics:
-- Community & Social Services
 - Disabilities
 - Health Care
 - Mental Health & Counseling

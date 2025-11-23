@@ -9,7 +9,6 @@ original_markdown_body: A deeply meaningful part of my life these days is the ti
   I spend volunteering as a driver for Eastside Friends of Seniors. It is a...
 summarized: true
 topics:
-- Community & Social Services
 - Transportation & Mobility
 - Personal & Household Needs
 ---

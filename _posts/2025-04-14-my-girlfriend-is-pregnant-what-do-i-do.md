@@ -254,7 +254,6 @@ original_markdown_body: |-
   The post [My Girlfriend is Pregnant. What Do I Do?](https://carenetps.org/my-girlfriend-is-pregnant-what-do-i-do/) first appeared on [Care Net of Puget Sound](https://carenetps.org).
 summarized: true
 topics:
-- Community & Social Services
 - Mental Health & Counseling
 - Education & Learning
 ---

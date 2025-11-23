@@ -6,7 +6,6 @@ address: 1000 Fourth Ave., Seattle, WA 98104
 title: The Seattle Public Library
 topics:
 - Education & Learning
-- Community & Social Services
 type: Department
 website: https://www.spl.org/
 ---

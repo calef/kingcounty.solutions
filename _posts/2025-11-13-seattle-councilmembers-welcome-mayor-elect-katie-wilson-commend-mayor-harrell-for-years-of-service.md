@@ -13,7 +13,6 @@ original_markdown_body: |-
   The post [Seattle Councilmembers welcome Mayor-elect Katie Wilson, commend Mayor Harrell for years of service](https://council.seattle.gov/2025/11/13/seattle-councilmembers-welcome-mayor-elect-katie-wilson-commend-mayor-harrell-for-years-of-service/) appeared first on [Seattle City Council Blog](https://council.seattle.gov/).
 summarized: true
 topics:
-- Community & Social Services
 - Employment & Job Support
 - Shelter & Housing
 ---

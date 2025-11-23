@@ -9,7 +9,6 @@ original_markdown_body: Fifteen years ago, Loretta was searching for support aft
   being diagnosed with a degenerative eye condition that meant she had to give...
 summarized: true
 topics:
-- Community & Social Services
 - Disabilities
 - Transportation & Mobility
 ---

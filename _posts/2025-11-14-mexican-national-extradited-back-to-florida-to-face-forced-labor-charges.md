@@ -20,7 +20,6 @@ original_markdown_body: Alexander Villatoro Moreno, also known as “Quichi,” 
 summarized: true
 published: false
 topics:
-- Community & Social Services
 - Employment & Job Support
 - Domestic Violence
 ---

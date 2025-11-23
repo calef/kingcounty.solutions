@@ -12,7 +12,6 @@ email: administration@carenetps.org
 address: 1924 S Cedar St, Suite B, Tacoma, WA 98405
 title: Care Net of Puget Sound
 topics:
-- Community & Social Services
 - Education & Learning
 - Health Care
 type: Community-Based Organization

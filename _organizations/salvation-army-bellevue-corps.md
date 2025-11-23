@@ -9,7 +9,6 @@ topics:
 - Food & Nutrition
 - Shelter & Housing
 - Financial Assistance
-- Community & Social Services
 - Employment & Job Support
 type: Community-Based Organization
 website: https://bellevue.salvationarmy.org/

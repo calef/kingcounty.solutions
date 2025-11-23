@@ -11,6 +11,7 @@ topics:
 - Disabilities
 - Education & Learning
 - Mental Health & Counseling
+- Childcare
 type: Agency
 website: https://wonderlandkids.org/
 ---

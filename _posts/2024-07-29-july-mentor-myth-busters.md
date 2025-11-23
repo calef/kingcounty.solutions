@@ -43,7 +43,6 @@ original_content: "![Photo of Youth Success Mentors.](https://empoweryouthnetwor
   Challenge, and [apply to become a mentor today](https://empoweryouthnetwork.org/youth-success-mentoring/)!"
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 - Employment & Job Support
 ---

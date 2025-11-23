@@ -9,7 +9,6 @@ original_markdown_body: Checkout the 2024 recap edition of Family Tree. Click He
   to download the PDF version
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 ---
 

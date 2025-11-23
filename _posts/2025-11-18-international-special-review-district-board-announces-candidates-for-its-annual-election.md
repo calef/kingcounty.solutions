@@ -14,7 +14,6 @@ original_markdown_body: The International Special Review District (ISRD) Board i
   is conducted by ma...
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 ---
 

@@ -8,7 +8,6 @@ phone: 206-523-7060
 title: University District Food Bank
 topics:
 - Food & Nutrition
-- Community & Social Services
 type: Community-Based Organization
 website: https://www.udistrictfoodbank.org/
 ---

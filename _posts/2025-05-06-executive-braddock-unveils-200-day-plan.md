@@ -103,7 +103,6 @@ original_markdown_body: |-
   [Executive Braddock unveils 200-Day Plan](https://medium.com/kingcounty/executive-braddock-unveils-ambitious-200-day-plan-to-guide-her-term-4fe17f28c376) was originally published in [KingCounty](https://medium.com/kingcounty) on Medium, where people are continuing the conversation by highlighting and responding to this story.
 summarized: true
 topics:
-- Community & Social Services
 - Mental Health & Counseling
 - Financial Assistance
 - Shelter & Housing

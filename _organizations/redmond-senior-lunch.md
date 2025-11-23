@@ -7,7 +7,7 @@ phone: 425-556-2300
 title: Redmond Senior Lunch
 topics:
 - Food & Nutrition
-- Community & Social Services
+- Senior Services
 type: Program
 website: https://www.redmond.gov/1739/Senior-Lunch
 ---

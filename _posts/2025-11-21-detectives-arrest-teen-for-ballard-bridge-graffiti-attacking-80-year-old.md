@@ -13,7 +13,6 @@ original_markdown_body: Seattle police detectives have arrested a 17-year-old bo
   on Nov. 17 when he saw fou...
 summarized: true
 topics:
-- Community & Social Services
 - Mental Health & Counseling
 ---
 

@@ -9,7 +9,6 @@ email: donorservices@olivecrest.org
 address: 2130 E. Fourth St., Santa Ana, CA 92705
 title: Olive Crest
 topics:
-- Community & Social Services
 - Disabilities
 - Domestic Violence
 - Mental Health & Counseling

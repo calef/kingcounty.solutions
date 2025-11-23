@@ -54,7 +54,6 @@ original_markdown_body: |-
   The post [Warming the way home: Fireside Home Solutions partners with Compass Housing Alliance](https://www.compasshousingalliance.org/2025/02/warming-the-way-home-fireside-home-solutions-partners-with-compass-housing-alliance/) appeared first on [Compass Housing Alliance](https://www.compasshousingalliance.org).
 summarized: true
 topics:
-- Community & Social Services
 - Shelter & Housing
 images:
 - ff52fb66290aaf086d94309c72465cecff154d399d6db95b5cd5088e68dc285f

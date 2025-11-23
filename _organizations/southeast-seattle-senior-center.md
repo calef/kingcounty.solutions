@@ -4,14 +4,14 @@ jurisdictions:
 - Seattle
 news_rss_url: https://sessc.org/feed/
 events_ical_url: https://sessc.org/events/?ical=1
-phone: "(206) 722-0317"
+phone: (206) 722-0317
 email: bradyr@sessc.org
 title: SouthEast Seattle Senior Center
 topics:
 - Food & Nutrition
-- Community & Social Services
 - Health Care
 - Mental Health & Counseling
+- Senior Services
 type: Community-Based Organization
 website: https://sessc.org/meals/
 ---

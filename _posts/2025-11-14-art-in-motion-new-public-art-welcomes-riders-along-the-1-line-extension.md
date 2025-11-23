@@ -13,7 +13,6 @@ original_markdown_body: "[When the 1 Line opens to Federal Way on Dec. 6](https:
   public art that celebrates the spirit, history, and diversity of South King County.&nbsp;"
 summarized: true
 topics:
-- Community & Social Services
 - Transportation & Mobility
 ---
 

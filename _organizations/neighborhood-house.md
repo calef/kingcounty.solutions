@@ -8,7 +8,6 @@ news_rss_url: https://nhwa.org/feed/
 phone: 206-923-6480
 title: Neighborhood House
 topics:
-- Community & Social Services
 - Education & Learning
 - Employment & Job Support
 - Financial Assistance

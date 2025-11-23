@@ -4,7 +4,6 @@ jurisdictions:
 news_rss_url: https://www.jfsseattle.org/feed/
 title: Jewish Family Service Seattle
 topics:
-- Community & Social Services
 - Disabilities
 type: Community-Based Organization
 website: https://www.jfsseattle.org/

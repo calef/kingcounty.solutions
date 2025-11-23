@@ -39,7 +39,6 @@ original_content: |-
   The post [How to get connected to legal support in your preferred language](https://www.crisisconnections.org/how-to-get-connected-to-legal-support-in-your-preferred-language/) appeared first on [Crisis Connections](https://www.crisisconnections.org).
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 - Employment & Job Support
 ---

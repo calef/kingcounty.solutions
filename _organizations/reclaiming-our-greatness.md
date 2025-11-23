@@ -7,7 +7,6 @@ title: Reclaiming Our Greatness
 topics:
 - Shelter & Housing
 - Food & Nutrition
-- Community & Social Services
 type: Community-Based Organization
 website: https://reclaimingourgreatness.org
 ---

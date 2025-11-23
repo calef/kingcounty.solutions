@@ -36,7 +36,6 @@ original_markdown_body: |-
   The post [Honoring&nbsp;Miss&nbsp;Denise: A Legacy of Leadership & Dedication](https://positiveplace.org/honoring-miss-denise-a-legacy-of-leadership-dedication/) appeared first on [Boys & Girls Clubs](https://positiveplace.org).
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 images:
 - 7ce29674ef2908d44e7b347f731b0bb178d1d644feb6b84e5956dfaf71fd7242

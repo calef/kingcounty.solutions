@@ -15,7 +15,6 @@ summarized: true
 topics:
 - Transportation & Mobility
 - Disabilities
-- Community & Social Services
 ---
 
 King County Executive Shannon Braddock, alongside Metro, has introduced enhancements to the Access paratransit service aimed at improving trip-planning for customers, particularly seniors and individuals with disabilities in rural areas. These improvements include easier reservation processes and better on-time performance. Notably, pilot programs for grocery delivery and same-day reservations are being implemented to increase flexibility and independence for riders. 

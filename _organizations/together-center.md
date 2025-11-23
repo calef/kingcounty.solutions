@@ -5,7 +5,6 @@ jurisdictions:
 news_rss_url: https://togethercenter.org/feed/
 title: Together Center
 topics:
-- Community & Social Services
 - Disabilities
 - Education & Learning
 - Food & Nutrition

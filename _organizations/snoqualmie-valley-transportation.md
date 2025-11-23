@@ -13,7 +13,6 @@ phone: 425-888-7001
 title: Snoqualmie Valley Transportation
 topics:
 - Transportation & Mobility
-- Community & Social Services
 type: Community-Based Organization
 website: https://svtbus.org/
 ---

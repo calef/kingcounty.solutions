@@ -4,7 +4,6 @@ jurisdictions:
 news_rss_url: https://www.carnationwa.gov/feed/
 title: City of Carnation
 topics:
-- Community & Social Services
 - Employment & Job Support
 type: City
 website: https://www.carnationwa.gov/

@@ -9,7 +9,7 @@ address: 5224 Wilson Ave South Suite 201, Seattle, WA 98118
 title: Communities of Rooted Brilliance
 topics:
 - Education & Learning
-- Community & Social Services
+- Childcare
 type: Community-Based Organization
 website: https://rootedbrilliance.org/
 ---

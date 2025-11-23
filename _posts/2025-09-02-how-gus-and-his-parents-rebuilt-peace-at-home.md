@@ -57,7 +57,6 @@ original_markdown_body: |-
   The post [How Gus and His Parents Rebuilt Peace at Home](https://www.youtheastsideservices.org/gus-story-parent-child-interaction-therapy/) appeared first on [Youth Eastside Services](https://www.youtheastsideservices.org).
 summarized: true
 topics:
-- Community & Social Services
 - Mental Health & Counseling
 - Education & Learning
 images:

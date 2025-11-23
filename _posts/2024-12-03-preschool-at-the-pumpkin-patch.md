@@ -12,7 +12,6 @@ original_markdown_body: |-
   Fall in the Pacific Northwest is typically a bit soggy, but there wasn’t a raincloud in sight when our Launch preschoolers ventured out of their classrooms to the Carpinito Brothers Pumpkin Patch! Over 130 students spent a special sunny afternoon exploring the farm and meeting its residents – including ducks, pigs, goats, bunnies, turkeys, llamas, and more! The kids were treated to a hayride, where they played a game of I Spy while being pulled behind a tractor. The corn pit was a big hit – nothing like diving into thousands of dried corn kernels! We also learned about the life cycle of a pumpkin and how it grows. We are so proud of our brave, curious, and imaginative preschoolers for representing Launch on a big Fall outing! Shout out to our staff and parent volunteers (all 39 of them!) who played a big role in ensuring our students had a safe, awesome day.
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 images:
 - a1f4e61782983bce953200ff593c1016d0395c60cc27ca9e366ccba9b05b8ad9

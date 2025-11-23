@@ -6,7 +6,6 @@ jurisdictions:
 news_rss_url: https://www.vrfa.org/feed/
 title: Valley Regional Fire Authority
 topics:
-- Community & Social Services
 - Health Care
 - Mental Health & Counseling
 type: Special Purpose District

@@ -20,7 +20,6 @@ original_markdown_body: August 2024"Support group is giving me the space to refl
 summarized: true
 topics:
 - Mental Health & Counseling
-- Community & Social Services
 ---
 
 Find Healing at Rise offers a supportive environment for individuals seeking recovery from substance use and mental health challenges. The program emphasizes a holistic approach, addressing both physical and emotional well-being. Participants engage in various activities, including group therapy, wellness workshops, and mindfulness practices, designed to promote healing and personal growth.

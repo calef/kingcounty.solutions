@@ -68,7 +68,6 @@ original_content: "**World Mental Health Day is a reminder of the power we all h
 summarized: true
 topics:
 - Mental Health & Counseling
-- Community & Social Services
 ---
 
 NAMI Eastside is celebrating World Mental Health Day on October 10, 2024, with a gala themed 'Healing Through Connection'. The event aims to reduce stigma and amplify the voices of those facing mental health challenges. By attending, participants directly support NAMI Eastside's work in providing mental health education, advocacy, and support. The gala features a panel discussion on youth mental health and the impact of social media, alongside live auctions and a dessert dash. The gala, held at Seattle Marriott Redmond, is a crucial fundraising event for the organization, enabling the continued provision of essential services.

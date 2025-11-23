@@ -22,7 +22,6 @@ original_markdown_body: |-
   The post [2025 RBC Race for the Kids](https://www.boyercc.org/general/rbc2025-2/) appeared first on [Boyer Children's Clinic](https://www.boyercc.org).
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 images:
 - 6208eed21f62dcfcfa7c6a609d5da2a4036044b645fd0b47d3e47b2ca56ae8bf

@@ -7,7 +7,6 @@ phone: 425-888-7832
 title: Snoqualmie Valley Food Bank
 topics:
 - Food & Nutrition
-- Community & Social Services
 type: Community-Based Organization
 website: https://www.snoqualmievalleyfoodbank.org/
 ---

@@ -7,7 +7,6 @@ news_rss_url: https://genprideseattle.org/feed/
 phone: 206-393-3400
 title: GenPride
 topics:
-- Community & Social Services
 - Health Care
 - Education & Learning
 - Mental Health & Counseling

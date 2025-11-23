@@ -7,7 +7,6 @@ news_rss_url: https://www.crisisconnections.org/feed/
 phone: 206-461-3210
 title: Crisis Connections
 topics:
-- Community & Social Services
 - Mental Health & Counseling
 - Domestic Violence
 - Financial Assistance

@@ -4,7 +4,6 @@ date: '2025-11-01T18:00:00-08:00'
 source: King County Solutions
 summarized: true
 topics:
-- Community & Social Services
 - Food & Nutrition
 - Health Care
 - Mental Health & Counseling

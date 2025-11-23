@@ -61,7 +61,6 @@ original_markdown_body: |-
   The post [Meet Kendrie!](https://thenccs.org/meet-kendrie/) appeared first on [The NCCS](https://thenccs.org).
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 - Mental Health & Counseling
 - Employment & Job Support

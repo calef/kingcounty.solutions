@@ -3,7 +3,6 @@ jurisdictions:
 - United States
 title: NAACP
 topics:
-- Community & Social Services
 - Disabilities
 - Domestic Violence
 - Employment & Job Support

@@ -4,16 +4,15 @@ address: 1200 S 336th Street, Federal Way, WA 98003
 email: info@mschelps.org
 events_ical_url: https://mschelps.org/getinvolved/events/?ical=1
 jurisdictions:
-  - South King County
+- South King County
 news_rss_url: https://mschelps.org/feed/
 phone: 253-838-6810
 title: Multi-Service Center
 topics:
-  - Community & Social Services
-  - Employment & Job Support
-  - Financial Assistance
-  - Food & Nutrition
-  - Shelter & Housing
+- Employment & Job Support
+- Financial Assistance
+- Food & Nutrition
+- Shelter & Housing
 type: Community-Based Organization
 website: https://mschelps.org/
 ---

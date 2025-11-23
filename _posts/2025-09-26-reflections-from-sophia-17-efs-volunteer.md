@@ -9,7 +9,6 @@ original_markdown_body: June 8, 2025 was a day filled with both joy and bittersw
   goodbyes for me. The day signaled an end to a 7-month long journey of...
 summarized: true
 topics:
-- Community & Social Services
 - Personal & Household Needs
 - Shelter & Housing
 ---

@@ -42,7 +42,6 @@ original_markdown_body: "**Position:** Caller&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
   appeared first on [Sound Generations](https://soundgenerations.org)."
 summarized: true
 topics:
-- Community & Social Services
 - Food & Nutrition
 - Personal & Household Needs
 ---

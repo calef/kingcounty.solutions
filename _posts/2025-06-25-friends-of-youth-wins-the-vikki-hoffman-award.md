@@ -10,7 +10,6 @@ original_markdown_body: We are proud to share that Friends of Youth has received
 summarized: true
 topics:
 - Mental Health & Counseling
-- Community & Social Services
 - Shelter & Housing
 ---
 

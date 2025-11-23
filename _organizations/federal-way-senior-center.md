@@ -13,7 +13,7 @@ events_ical_url: https://federalwayseniorcenter.org/events/?ical=1
 title: Federal Way Senior Center
 topics:
 - Food & Nutrition
-- Community & Social Services
+- Senior Services
 type: Community-Based Organization
 website: https://www.federalwayseniorcenter.org
 ---

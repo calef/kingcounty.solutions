@@ -2,15 +2,14 @@
 address: 9501 Greenwood Avenue N, Seattle, WA 98103
 email: steve.pavlakis@usw.salvationarmy.org
 jurisdictions:
-  - North King County
-  - Seattle
+- North King County
+- Seattle
 phone: 206-783-1225
 title: The Salvation Army Seattle Temple Corps
 topics:
-  - Community & Social Services
-  - Financial Assistance
-  - Food & Nutrition
-  - Personal & Household Needs
+- Financial Assistance
+- Food & Nutrition
+- Personal & Household Needs
 type: Community-Based Organization
 website: https://seattletemple.salvationarmy.org/
 ---

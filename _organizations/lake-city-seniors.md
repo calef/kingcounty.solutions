@@ -8,11 +8,11 @@ email: lakecityseniors@soundgenerations.org
 address: 12509 27th Ave NE, Seattle, WA 98125
 title: Lake City Seniors
 topics:
-- Community & Social Services
 - Health Care
 - Mental Health & Counseling
 - Food & Nutrition
 - Education & Learning
+- Senior Services
 type: Community-Based Organization
 website: https://lakecityseniors.org/
 ---

@@ -7,9 +7,9 @@ email: info@eastsidefriendsofseniors.org
 address: 22818 SE 8th St, Sammamish, WA 98074, USA
 title: Eastside Friends of Seniors
 topics:
-- Community & Social Services
 - Transportation & Mobility
 - Personal & Household Needs
+- Senior Services
 type: Community-Based Organization
 website: https://eastsidefriendsofseniors.org
 ---

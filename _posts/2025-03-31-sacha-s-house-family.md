@@ -20,7 +20,6 @@ original_markdown_body: '"Sacha''s House is teaching me growth and healing. It''
 summarized: true
 topics:
 - Shelter & Housing
-- Community & Social Services
 - Education & Learning
 - Mental Health & Counseling
 - Employment & Job Support

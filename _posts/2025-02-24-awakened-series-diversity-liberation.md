@@ -55,7 +55,6 @@ original_markdown_body: "<section class=\"elementor-section elementor-top-sectio
   who are held captive in all sorts of ways?</p> </div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>"
 summarized: true
 topics:
-- Community & Social Services
 - Disabilities
 - Domestic Violence
 - Mental Health & Counseling

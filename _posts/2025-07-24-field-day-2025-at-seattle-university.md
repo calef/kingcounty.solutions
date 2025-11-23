@@ -46,7 +46,6 @@ original_content: |-
 original_markdown_body: "![](https://positiveplace.org/wp-content/uploads/2025/07/Field-Day-Logo_Transparent.png)\n\n**Date:** Thursday, August 21, 2025  \n**Location:** Seattle University  \n**Who:** Club members and staff from King County summer day camps  \n**Expected Attendance:** 475 youth and 75 staff and volunteers\n\nClub kids from across King County will come together for a high-energy day of games, sports, and hands-on activities—hosted in partnership with amazing community organizations.\n\n**Activity partners include:**\n\n- Seattle Seahawks\n\n- Seattle Majestics\n\n- Seattle Seawolves\n\n- Ballard FC\n\n- Salmon Bay FC\n\n- Brooks Running\n\n- First Tee Golf\n\n- Chill Foundation\n\n- Dance Aerobics\n\n- Seattle University\n\n**Volunteer Support:**  \nWe’re excited to welcome volunteers from RSM US LLP, who will be helping make the day run smoothly!\n\nThis event is an opportunity for youth to connect, move, and try something new as we wrap up an amazing summer of camp.\n\nThe post [Field Day 2025 at Seattle University](https://positiveplace.org/field-day-2025-at-seattle-university/) appeared first on [Boys & Girls Clubs](https://positiveplace.org)."
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 images:
 - 9f31bcd3a95b5eed0493fd7d7cb87c812cd5f0ccc231f183c01d0137128c4cae

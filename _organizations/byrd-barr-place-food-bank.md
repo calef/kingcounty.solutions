@@ -7,7 +7,6 @@ parent_organization: Byrd Barr Place
 title: Byrd Barr Place Food Bank
 topics:
 - Food & Nutrition
-- Community & Social Services
 type: Program
 website: https://byrdbarrplace.org/programs-services/food-bank
 ---

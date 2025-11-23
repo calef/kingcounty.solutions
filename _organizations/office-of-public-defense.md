@@ -5,16 +5,16 @@ jurisdictions:
 parent_organization: State Judicial Branch
 title: Office of Public Defense
 topics:
-- Community & Social Services
 - Domestic Violence
 - Education & Learning
+- Legal Aid
 type: Program
 website: https://www.opd.wa.gov/
 ---
 
 The **Office of Public Defense (OPD)** ensures quality legal representation for indigent defendants and parents involved in child welfare cases. It aligns with the social service framework through:
 
-- **Community & Social Services:** safeguarding rights for individuals in crisis
+- **Legal Aid:** safeguarding rights for individuals in crisis
 - **Domestic Violence:** defense and advocacy in family court contexts
 - **Education & Learning:** training for public defenders to improve client support outcomes
 

@@ -4,7 +4,6 @@ jurisdictions:
 news_rss_url: https://eastside-foundation.org/feed/
 title: Eastside Foundation
 topics:
-- Community & Social Services
 - Mental Health & Counseling
 - Domestic Violence
 type: Community-Based Organization

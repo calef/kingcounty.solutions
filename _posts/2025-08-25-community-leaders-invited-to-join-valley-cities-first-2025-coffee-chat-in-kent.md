@@ -58,7 +58,6 @@ original_markdown_body: |-
   The post [Community leaders invited to join Valley Cities’ first 2025 Coffee Chat in Kent](https://valleycities.org/community-leaders-invited-to-join-valley-cities-first-2025-coffee-chat-in-kent/) appeared first on [Valley Cities Behavioral Health Care](https://valleycities.org).
 summarized: true
 topics:
-- Community & Social Services
 - Mental Health & Counseling
 ---
 

@@ -94,7 +94,6 @@ original_markdown_body: |-
 summarized: true
 topics:
 - Mental Health & Counseling
-- Community & Social Services
 - Education & Learning
 ---
 

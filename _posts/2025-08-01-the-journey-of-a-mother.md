@@ -9,7 +9,6 @@ original_content: |-
   [Read More... from The Journey of a Mother](https://iacswa.org/journey-of-a-mother/)
 summarized: true
 topics:
-- Community & Social Services
 - Employment & Job Support
 - Education & Learning
 - Transportation & Mobility

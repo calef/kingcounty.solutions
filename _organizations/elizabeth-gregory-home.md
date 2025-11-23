@@ -9,7 +9,6 @@ title: Elizabeth Gregory Home
 topics:
 - Shelter & Housing
 - Domestic Violence
-- Community & Social Services
 type: Community-Based Organization
 website: https://eghseattle.org
 ---

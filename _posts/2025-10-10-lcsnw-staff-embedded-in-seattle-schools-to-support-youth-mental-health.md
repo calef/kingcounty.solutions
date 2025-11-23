@@ -42,7 +42,6 @@ summarized: true
 topics:
 - Mental Health & Counseling
 - Education & Learning
-- Community & Social Services
 images:
 - 5e33cf5343a6fce208508eb57aed35df0c0ed072d8ec1b9bee7097afa56192b6
 ---

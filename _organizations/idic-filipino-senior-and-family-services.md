@@ -5,7 +5,6 @@ jurisdictions:
 address: 7301 Beacon Ave S, Seattle, WA 98118
 title: IDIC Filipino Senior and Family Services
 topics:
-- Community & Social Services
 - Food & Nutrition
 - Health Care
 - Mental Health & Counseling

@@ -6,7 +6,6 @@ jurisdictions:
 phone: 206-451-0322
 title: Horn of Africa Services
 topics:
-- Community & Social Services
 - Education & Learning
 - Disabilities
 type: Community-Based Organization

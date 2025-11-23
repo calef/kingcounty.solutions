@@ -4,7 +4,6 @@ jurisdictions:
 news_rss_url: https://sophiaway.org/feed/
 title: The Sophia Way
 topics:
-- Community & Social Services
 - Food & Nutrition
 - Mental Health & Counseling
 - Personal & Household Needs

@@ -6,7 +6,6 @@ source_url: https://kingcd.org/september-09-2025-board-of-supervisors-meeting-mi
 original_content: 2025\_09\_09 KCD BOS Meeting Minutes
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 - Food & Nutrition
 ---

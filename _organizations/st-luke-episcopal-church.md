@@ -6,7 +6,6 @@ phone: 206.784.3119
 title: St. Luke Episcopal Church
 topics:
 - Food & Nutrition
-- Community & Social Services
 type: Community-Based Organization
 website: https://stlukesseattle.org
 ---

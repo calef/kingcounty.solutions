@@ -7,7 +7,6 @@ email: meggan@friendsofyouth.org
 address: 12735 Willows Road NE, Kirkland WA 98034
 title: Friends of Youth
 topics:
-- Community & Social Services
 - Disabilities
 - Mental Health & Counseling
 - Shelter & Housing

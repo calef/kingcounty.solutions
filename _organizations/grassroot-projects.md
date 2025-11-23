@@ -6,7 +6,6 @@ title: Grassroot Projects
 topics:
 - Food & Nutrition
 - Education & Learning
-- Community & Social Services
 type: Community-Based Organization
 website: https://www.grassrootprojects.org/washington.html
 ---

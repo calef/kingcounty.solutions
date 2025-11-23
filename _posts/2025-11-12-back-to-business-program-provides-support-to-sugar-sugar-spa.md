@@ -13,7 +13,6 @@ original_markdown_body: For Claudia McGinnis, her career in skincare started as 
   “What I love the most i...
 summarized: true
 topics:
-- Community & Social Services
 - Employment & Job Support
 ---
 

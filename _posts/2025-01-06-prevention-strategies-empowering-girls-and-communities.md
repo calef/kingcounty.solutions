@@ -102,7 +102,6 @@ original_markdown_body: "PREVENTION STRATEGIES: EMPOWERING GIRLS AND COMMUNITIES
   appeared on [Olive Crest](https://www.olivecrest.org)."
 summarized: true
 topics:
-- Community & Social Services
 - Disabilities
 - Domestic Violence
 - Education & Learning

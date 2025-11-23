@@ -11,7 +11,6 @@ phone: 425-269-8098
 title: Fall City Community Food Pantry
 topics:
 - Food & Nutrition
-- Community & Social Services
 type: Community-Based Organization
 website: https://www.fallcityfoodpantry.org/
 ---

@@ -6,7 +6,6 @@ jurisdictions:
 news_rss_url: https://iacswa.org/feed/
 title: Indian American Community Services
 topics:
-- Community & Social Services
 - Education & Learning
 - Employment & Job Support
 - Health Care

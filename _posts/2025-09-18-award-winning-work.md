@@ -15,7 +15,6 @@ original_content: "It’s been a big month for our team at ELAP.\n\nWe recently 
   Program](https://elap.org)."
 summarized: true
 topics:
-- Community & Social Services
 - Disabilities
 ---
 

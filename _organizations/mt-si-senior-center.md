@@ -5,10 +5,10 @@ phone: 425-888-3434
 address: 411 Main Ave S, North Bend, WA 98045
 title: Mt. Si Senior Center
 topics:
-- Community & Social Services
 - Food & Nutrition
 - Health Care
 - Mental Health & Counseling
+- Senior Services
 type: Community-Based Organization
 website: https://www.mtsiseniorcenter.org
 ---

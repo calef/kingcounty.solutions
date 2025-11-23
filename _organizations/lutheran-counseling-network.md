@@ -12,7 +12,6 @@ phone: 206-364-1046
 title: Lutheran Counseling Network
 topics:
 - Mental Health & Counseling
-- Community & Social Services
 type: Community-Based Organization
 website: https://www.lutherancounseling.net/
 ---

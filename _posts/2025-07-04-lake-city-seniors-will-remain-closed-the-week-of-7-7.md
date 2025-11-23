@@ -18,7 +18,6 @@ original_markdown_body: |-
   The post [Lake City Seniors will remain&nbsp;closed the&nbsp;week of 7/7](https://lakecityseniors.org/lake-city-seniors-will-remain-closed-the-week-of-7-7/) appeared first on [Lake City Seniors](https://lakecityseniors.org).
 summarized: true
 topics:
-- Community & Social Services
 - Shelter & Housing
 ---
 

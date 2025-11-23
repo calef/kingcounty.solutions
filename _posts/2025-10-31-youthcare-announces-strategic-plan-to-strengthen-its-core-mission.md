@@ -145,7 +145,6 @@ original_markdown_body: "For over 50 years, YouthCare has stood as a beacon of h
 summarized: true
 topics:
 - Shelter & Housing
-- Community & Social Services
 - Mental Health & Counseling
 - Employment & Job Support
 ---

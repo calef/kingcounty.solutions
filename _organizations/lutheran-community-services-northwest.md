@@ -4,12 +4,11 @@ jurisdictions:
 - King County
 news_rss_url: https://lcsnw.org/feed/
 events_ical_url: https://lcsnw.org/events/?ical=1
-phone: "(208) 509-2431"
+phone: (208) 509-2431
 email: info@lcsnw.org
 address: 2920 Cassia Street, Boise, ID 83705
 title: Lutheran Community Services Northwest
 topics:
-- Community & Social Services
 - Disabilities
 - Domestic Violence
 - Education & Learning

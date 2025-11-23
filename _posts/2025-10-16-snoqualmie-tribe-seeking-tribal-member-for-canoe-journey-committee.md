@@ -11,7 +11,6 @@ original_content: "The Canoe Journey Committee will assist in the planning and e
   more and apply here:  \n[https://snoqualmietribeforms.us/cjc-application/](https://snoqualmietribeforms.us/cjc-application/)"
 summarized: true
 topics:
-- Community & Social Services
 ---
 
 The Snoqualmie Tribe is seeking a tribal member to join the Canoe Journey Committee. This committee assists in the planning and execution of the annual Inter-Tribal Canoe Journey, an event that takes place at different hosting tribe locations every summer and requires year-round preparation. The chosen committee member will hold the position for either two or three years. Interested applicants must apply and, if shortlisted, interview for the role.

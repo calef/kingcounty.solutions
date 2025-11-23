@@ -174,7 +174,6 @@ original_markdown_body: |-
 summarized: true
 topics:
 - Food & Nutrition
-- Community & Social Services
 ---
 
 Rainier Valley Food Bank (RVFB) is inviting artists to design and create a large mural for their new facility, set to open in September 2025. This mural will be prominently displayed on the exterior of the building at 9021 Rainier Ave. S, visible from the storefront. RVFB aims to celebrate the vibrancy and diversity of the South Seattle community, incorporating themes of local history, culture, food, and mutual aid. They are looking for a local artist or artist team that can work within the project timeline and align with RVFB's vision of food justice and equity.

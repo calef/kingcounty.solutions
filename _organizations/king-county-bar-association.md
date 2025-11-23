@@ -7,7 +7,7 @@ news_rss_url: https://services.membercentral.org/?event=feed.rss&id=47FD7AB5AACE
 phone: (206) 267-7100
 title: King County Bar Association
 topics:
-- Community & Social Services
+- Legal Aid
 type: Community-Based Organization
 website: https://www.kcba.org/
 ---

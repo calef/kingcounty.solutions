@@ -6,7 +6,6 @@ source_url: https://www.desmoineswa.gov/cms/One.aspx?portalId=17385088&pageId=21
 original_content: ''
 summarized: true
 topics:
-- Community & Social Services
 - Financial Assistance
 - Food & Nutrition
 - Mental Health & Counseling

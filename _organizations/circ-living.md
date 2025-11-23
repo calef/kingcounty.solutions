@@ -14,7 +14,6 @@ topics:
 - Shelter & Housing
 - Food & Nutrition
 - Health Care
-- Community & Social Services
 type: Community-Based Organization
 website: https://circliving.org/communities/
 ---

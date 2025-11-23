@@ -14,7 +14,6 @@ original_markdown_body: By Juliana Agudelo Ariza, Seattle Youth Commissioner Eve
   people. On September 2...
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 ---
 

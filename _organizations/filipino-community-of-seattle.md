@@ -7,7 +7,6 @@ news_rss_url: https://www.filcommsea.org/blog-feed.xml
 address: 5740 Martin Luther King Jr Way S, Seattle, WA 98118, USA
 title: Filipino Community of Seattle
 topics:
-- Community & Social Services
 - Food & Nutrition
 - Shelter & Housing
 - Education & Learning

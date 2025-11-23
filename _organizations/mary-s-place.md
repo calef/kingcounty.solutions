@@ -9,7 +9,6 @@ title: Mary's Place
 topics:
 - Shelter & Housing
 - Domestic Violence
-- Community & Social Services
 type: Community-Based Organization
 website: https://marysplaceseattle.org
 ---

@@ -14,7 +14,6 @@ original_markdown_body: MSC’s mission is to increase equitable access to advoc
   year [...]
 summarized: true
 topics:
-- Community & Social Services
 - Food & Nutrition
 - Shelter & Housing
 ---

@@ -134,7 +134,6 @@ summarized: true
 topics:
 - Education & Learning
 - Health Care
-- Community & Social Services
 - Disabilities
 ---
 

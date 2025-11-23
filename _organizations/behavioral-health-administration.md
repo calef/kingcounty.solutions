@@ -1,21 +1,19 @@
 ---
 acronym: BHA
 jurisdictions:
-  - Washington State
+- Washington State
 parent_organization: Department of Social and Health Services
 title: Behavioral Health Administration
 topics:
 - Mental Health & Counseling
 - Health Care
-- Community & Social Services
 type: Division
 website: https://www.dshs.wa.gov/bha
 ---
 
 The **Behavioral Health Administration (BHA)** provides prevention, treatment, and recovery support for individuals facing mental health and substance use challenges. It relates to:
 
-- **Mental Health & Counseling:** evaluation, treatment, and crisis response
+- **Mental Health & Counseling:** evaluation, treatment, and crisis response delivered with regional behavioral health partners
 - **Health Care:** integrated care coordination across systems
-- **Community & Social Services:** partnerships with regional behavioral health organizations
 
 BHA ensures access to compassionate, evidence-based mental health services statewide.

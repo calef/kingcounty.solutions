@@ -47,7 +47,6 @@ original_markdown_body: |-
   [Learn About the YPAC](https://atlanticstreetcenter.org/young-professionals-advisory-council/)
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 ---
 

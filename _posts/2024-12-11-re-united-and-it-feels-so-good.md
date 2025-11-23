@@ -98,7 +98,6 @@ original_markdown_body: |-
   The post [Re-united and it feels so good!](https://bikeworks.org/register-your-bikes/) appeared first on [Bike Works](https://bikeworks.org).
 summarized: true
 topics:
-- Community & Social Services
 - Transportation & Mobility
 images:
 - afc6d2b76236f67ccae9139d07c3ec3cddc5876be7b80c4bc0c92b34bd9eafe6

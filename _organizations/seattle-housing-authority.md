@@ -5,7 +5,6 @@ jurisdictions:
 parent_organization: City of Seattle
 title: Seattle Housing Authority
 topics:
-- Community & Social Services
 - Financial Assistance
 - Shelter & Housing
 type: Agency

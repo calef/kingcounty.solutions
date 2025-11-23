@@ -55,7 +55,6 @@ summarized: true
 topics:
 - Health Care
 - Mental Health & Counseling
-- Community & Social Services
 images:
 - 7c2c229c1cf0dc22a88418603fae35a4304cdc724d455933169c1dd1f34f1c6b
 ---

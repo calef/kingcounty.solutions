@@ -24,7 +24,6 @@ original_markdown_body: |-
   The post [Curiosity in nonprofit retail with Ed Ewing](https://bikeworks.org/curiosity-in-nonprofit-retail-with-ed-ewing/) appeared first on [Bike Works](https://bikeworks.org).
 summarized: true
 topics:
-- Community & Social Services
 - Employment & Job Support
 - Transportation & Mobility
 ---

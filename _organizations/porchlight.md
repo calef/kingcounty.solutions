@@ -7,7 +7,6 @@ email: office@porchlightcares.org
 title: PorchLight
 topics:
 - Shelter & Housing
-- Community & Social Services
 type: Community-Based Organization
 website: https://porchlightcares.org/
 ---

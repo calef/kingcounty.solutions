@@ -9,7 +9,6 @@ original_markdown_body: On September 25, 2025, more than 750 neighbors, partners
   and friends&nbsp;of Bellwether Housing&nbsp;filled the Westin Seattle ballroom for...
 summarized: true
 topics:
-- Community & Social Services
 - Shelter & Housing
 ---
 

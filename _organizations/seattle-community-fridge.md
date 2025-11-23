@@ -5,7 +5,6 @@ jurisdictions:
 title: Seattle Community Fridge
 topics:
 - Food & Nutrition
-- Community & Social Services
 type: Community-Based Organization
 website: https://seattlecommunityfridge.org/
 ---

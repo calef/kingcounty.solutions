@@ -26,7 +26,6 @@ original_content: "![](https://www.tukwilawa.gov/wp-content/uploads/Mayor-People
   appeared first on [City of Tukwila](https://www.tukwilawa.gov)."
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 ---
 

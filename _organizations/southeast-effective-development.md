@@ -6,7 +6,6 @@ phone: 206-760-9843
 title: SouthEast Effective Development
 topics:
 - Shelter & Housing
-- Community & Social Services
 type: Community-Based Organization
 website: https://www.seedseattle.org/affordable-housing
 ---

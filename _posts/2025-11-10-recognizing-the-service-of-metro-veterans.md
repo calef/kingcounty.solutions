@@ -11,7 +11,6 @@ original_markdown_body: By&nbsp;Ernest Kandilige, Metro Deputy General Manager A
   all of Metro’s military service members, past and...
 summarized: true
 topics:
-- Community & Social Services
 - Employment & Job Support
 ---
 

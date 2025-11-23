@@ -7,7 +7,6 @@ phone: 425-823-2727
 title: Holy Spirit Community Pantry
 topics:
 - Food & Nutrition
-- Community & Social Services
 type: Community-Based Organization
 website: https://www.hslckirkland.org/community-pantry
 ---

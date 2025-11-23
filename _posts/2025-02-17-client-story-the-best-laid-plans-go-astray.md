@@ -47,7 +47,6 @@ summarized: true
 topics:
 - Financial Assistance
 - Employment & Job Support
-- Community & Social Services
 ---
 
 Amelia, a single mother and dedicated paraeducator, moved her family of four closer to her job for a fresh start. Just before the school year began, she faced an unexpected crisis when her employer lost their contract, leaving her unemployed and struggling to manage rent and expenses. Despite her financial challenges, including dwindling savings and urgent car repairs, Amelia remained optimistic and actively sought new job opportunities. 

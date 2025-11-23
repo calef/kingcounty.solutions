@@ -32,7 +32,6 @@ original_markdown_body: |-
   The post [Former LCSNW employee, now volunteer, is a champion for immigrants](https://lcsnw.org/2025/08/volunteer-is-a-champion-for-immigrants/) appeared first on [LCSNW](https://lcsnw.org).
 summarized: true
 topics:
-- Community & Social Services
 - Domestic Violence
 - Education & Learning
 - Employment & Job Support

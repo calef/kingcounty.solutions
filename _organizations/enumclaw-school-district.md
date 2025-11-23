@@ -9,7 +9,6 @@ phone: 360-802-7100
 title: Enumclaw School District
 topics:
 - Education & Learning
-- Community & Social Services
 type: School District
 website: https://www.enumclaw.wednet.edu
 ---

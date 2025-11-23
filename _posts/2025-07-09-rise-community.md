@@ -19,7 +19,6 @@ original_markdown_body: June 2025Domestic abuse thrives in secrecy. It isolates,
   not only been life
 summarized: true
 topics:
-- Community & Social Services
 - Mental Health & Counseling
 - Education & Learning
 ---

@@ -1,15 +1,14 @@
 ---
 address: 909 Fourth Ave, Seattle, WA 98104
 jurisdictions:
-  - Seattle
-  - King County
+- Seattle
+- King County
 phone: 206-382-5022
 title: YMCA of Greater Seattle
 topics:
-  - Community & Social Services
-  - Shelter & Housing
-  - Mental Health & Counseling
-  - Employment & Job Support
+- Shelter & Housing
+- Mental Health & Counseling
+- Employment & Job Support
 type: Community-Based Organization
 website: https://www.seattleymca.org/
 ---

@@ -76,7 +76,6 @@ original_markdown_body: |-
   _Pictured: At Valley Cancer Center’s Skybreaking celebration, Trapper and Samantha share their vision for the Wellbeing Support Center as Valley’s Chief Executive Officer & Chief Financial Officer Jeannine Erickson Grinnell looks on._
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 - Health Care
 - Mental Health & Counseling

@@ -79,7 +79,6 @@ original_markdown_body: |-
   The post [Rainier Valley Legal Clinic Relaunches at ACRS, Reviving a Legacy of Justice and Community Partnership](https://acrs.org/rainier-valley-legal-clinic-relaunches-at-acrs-reviving-a-legacy-of-justice-and-community-partnership/) appeared first on [ACRS](https://acrs.org).
 summarized: true
 topics:
-- Community & Social Services
 - Domestic Violence
 - Education & Learning
 - Employment & Job Support

@@ -330,7 +330,6 @@ original_markdown_body: "**Full-Time, Hourly, Non-Exempt**  \n**Reports to: Seni
 summarized: true
 topics:
 - Food & Nutrition
-- Community & Social Services
 - Employment & Job Support
 ---
 

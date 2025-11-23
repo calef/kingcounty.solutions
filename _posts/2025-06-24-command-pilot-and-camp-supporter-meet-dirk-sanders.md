@@ -81,7 +81,6 @@ original_markdown_body: |-
   The post [Command Pilot and Camp Supporter: Meet Dirk Sanders](https://angelflightwest.org/news/command-pilot-and-camp-supporter-meet-dirk-sanders/) first appeared on [Angel Flight West](https://angelflightwest.org).
 summarized: true
 topics:
-- Community & Social Services
 - Transportation & Mobility
 - Health Care
 images:

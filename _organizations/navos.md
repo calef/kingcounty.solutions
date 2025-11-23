@@ -7,7 +7,6 @@ email: ruth.tollefson@multicare.org
 title: Navos
 topics:
 - Mental Health & Counseling
-- Community & Social Services
 type: Community-Based Organization
 website: https://www.navos.org
 ---

@@ -75,7 +75,6 @@ original_markdown_body: |-
   The post [Hope, stability, and a fresh start for Raul and Katy’s family](https://www.bellevuelifespring.org/impact/fresh-start/) appeared first on [Bellevue LifeSpring](https://www.bellevuelifespring.org).
 summarized: true
 topics:
-- Community & Social Services
 - Shelter & Housing
 - Financial Assistance
 - Employment & Job Support

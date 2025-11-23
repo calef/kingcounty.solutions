@@ -6,7 +6,6 @@ parent_organization: Tolt Congregational United Church of Christ
 title: Tolt Congregational UCC Food Program
 topics:
 - Food & Nutrition
-- Community & Social Services
 type: Program
 website: https://toltucc.org/food-program/
 ---

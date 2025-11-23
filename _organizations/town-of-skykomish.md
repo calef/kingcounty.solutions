@@ -2,8 +2,7 @@
 jurisdictions:
 - Skykomish
 title: Town of Skykomish
-topics:
-- Community & Social Services
+topics: []
 type: Town
 website: https://skykomishwa.gov/
 ---

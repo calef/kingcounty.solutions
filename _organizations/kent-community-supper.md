@@ -6,7 +6,6 @@ address: 336 2nd Ave S, Kent, WA 98032
 title: Kent Community Supper
 topics:
 - Food & Nutrition
-- Community & Social Services
 type: Program
 website: https://www.kentlutheran.org/kent-community-supper.html
 ---

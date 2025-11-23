@@ -6,7 +6,7 @@ events_ical_url: https://ballardseniorcenter.org/events/?ical=1
 title: Ballard Northwest Senior Center
 topics:
 - Food & Nutrition
-- Community & Social Services
+- Senior Services
 type: Community-Based Organization
 website: https://www.ballardseniorcenter.org/
 ---

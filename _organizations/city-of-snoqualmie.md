@@ -2,8 +2,6 @@
 jurisdictions:
 - Snoqualmie
 title: City of Snoqualmie
-topics:
-- Community & Social Services
 type: City
 website: https://www.snoqualmiewa.gov/
 ---

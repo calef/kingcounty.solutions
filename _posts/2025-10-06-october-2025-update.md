@@ -151,7 +151,6 @@ original_markdown_body: "**How do you fix a broken pumpkin?**\n\n**With a pumpki
   appeared first on [Lake City Seniors](https://lakecityseniors.org)."
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 - Health Care
 - Employment & Job Support

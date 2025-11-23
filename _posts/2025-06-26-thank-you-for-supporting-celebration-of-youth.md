@@ -9,7 +9,6 @@ original_markdown_body: Celebration of Youth has come to an end, and we are exci
   to announce that we raised a total of $574,603! We are so thankful to...
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 ---
 

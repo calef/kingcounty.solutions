@@ -8,7 +8,6 @@ email: early.learning@villacomunitaria.org
 address: 8201 10th Ave South, Ste. 8, Seattle WA 98108
 title: Villa Comunitaria
 topics:
-- Community & Social Services
 - Education & Learning
 - Food & Nutrition
 - Employment & Job Support

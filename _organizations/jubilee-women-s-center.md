@@ -6,7 +6,6 @@ title: Jubilee Women's Center
 topics:
 - Shelter & Housing
 - Domestic Violence
-- Community & Social Services
 - Employment & Job Support
 type: Community-Based Organization
 website: https://jwcenter.org

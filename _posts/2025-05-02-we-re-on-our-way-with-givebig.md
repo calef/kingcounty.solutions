@@ -30,7 +30,6 @@ original_markdown_body: |-
   The post [We’re on our way with GiveBIG!](https://westsideneighborsshelter.org/were-on-our-way-with-givebig/) appeared first on [Westside Neighbors Shelter](https://westsideneighborsshelter.org).
 summarized: true
 topics:
-- Community & Social Services
 - Financial Assistance
 ---
 

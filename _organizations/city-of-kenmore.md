@@ -2,8 +2,6 @@
 jurisdictions:
 - Kenmore
 title: City of Kenmore
-topics:
-- Community & Social Services
 type: City
 website: https://www.kenmorewa.gov/
 ---

@@ -13,7 +13,6 @@ original_markdown_body: |-
 summarized: true
 topics:
 - Education & Learning
-- Community & Social Services
 - Health Care
 - Employment & Job Support
 ---

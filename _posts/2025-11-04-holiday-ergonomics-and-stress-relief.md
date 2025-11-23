@@ -87,7 +87,6 @@ original_content: |-
   The post [Holiday Ergonomics and Stress Relief](https://snoqualmievalleyhealth.org/holiday-ergonomics-and-stress-relief/) appeared first on [Snoqualmie Valley Hospital](https://snoqualmievalleyhealth.org).
 summarized: true
 topics:
-- Community & Social Services
 - Health Care
 - Mental Health & Counseling
 ---

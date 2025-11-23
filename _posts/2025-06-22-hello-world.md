@@ -9,7 +9,6 @@ original_markdown_body: Welcome to WordPress. This is your first post. Edit or d
   it, then start writing!
 summarized: true
 topics:
-- Community & Social Services
 - Financial Assistance
 - Food & Nutrition
 - Education & Learning

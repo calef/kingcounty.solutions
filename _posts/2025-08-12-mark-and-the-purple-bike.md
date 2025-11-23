@@ -81,7 +81,6 @@ original_markdown_body: "**Last month, Recycle & Reuse Director Steve Gadingan[w
 summarized: true
 topics:
 - Education & Learning
-- Community & Social Services
 images:
 - ace377b59d24c4d9a26b71e0b5c69fef552799242c07962db50f6bae11503eab
 ---

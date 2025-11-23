@@ -9,7 +9,6 @@ original_markdown_body: At The DOVE Project, we believe that conversations about
   are essential to building safe and respectful communities. That’s why...
 summarized: true
 topics:
-- Community & Social Services
 - Education & Learning
 ---
 

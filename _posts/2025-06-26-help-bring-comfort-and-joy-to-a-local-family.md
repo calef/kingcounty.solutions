@@ -9,7 +9,6 @@ original_markdown_body: At Howard House Home, we’re currently supporting a fam
   of six and could use your help to make their summer a little brighter! &nbsp; Meal...
 summarized: true
 topics:
-- Community & Social Services
 - Food & Nutrition
 - Personal & Household Needs
 ---

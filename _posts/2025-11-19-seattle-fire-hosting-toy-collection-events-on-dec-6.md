@@ -13,7 +13,6 @@ original_markdown_body: 'Seattle Fire is excited to help support the U.S. Marine
   p.m. (in Magnolia, we’ll ...'
 summarized: true
 topics:
-- Community & Social Services
 - Food & Nutrition
 ---
 
