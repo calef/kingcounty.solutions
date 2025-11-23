@@ -1,0 +1,79 @@
+{% assign carousel_items = include.images | default: empty %}
+{% assign carousel_slides = '' | split: '' %}
+{% for image_doc in carousel_items %}
+  {% if image_doc %}
+    {% assign image_url = image_doc.image_url | default: image_doc.data.image_url %}
+    {% if image_url %}
+      {% assign carousel_slides = carousel_slides | push: image_doc %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+{% assign slide_total = carousel_slides | size %}
+{% if slide_total > 0 %}
+  {% assign aria_label_text = include.aria_label | default: 'Images' %}
+  {% assign section_class = include.section_class | default: 'post-media-carousel' %}
+  <section class="{{ section_class }}" aria-label="{{ aria_label_text | escape }}">
+    <div class="post-carousel" data-post-carousel data-slide-count="{{ slide_total }}">
+      <div class="post-carousel-track" data-carousel-track tabindex="0">
+        {% for image_doc in carousel_slides %}
+          {% assign image_url = image_doc.image_url | default: image_doc.data.image_url %}
+          {% assign current_index = forloop.index0 %}
+          <figure class="post-carousel-slide" data-carousel-slide data-carousel-index="{{ current_index }}">
+            <img src="{{ image_url | relative_url }}" alt="{{ image_doc.title | default: image_doc.checksum | escape }}" loading="{% if current_index == 0 %}eager{% else %}lazy{% endif %}">
+            {% assign caption_text = image_doc.title | to_s | strip %}
+            {% if caption_text == image_doc.checksum %}
+              {% assign caption_text = '' %}
+            {% endif %}
+            {% assign source_name = image_doc.source | to_s | strip %}
+            {% assign source_url = image_doc.source_url %}
+            {% assign caption_source_org = nil %}
+            {% if source_name %}
+              {% assign caption_source_org = site.organizations | where: "title", source_name | first %}
+            {% endif %}
+            {% if caption_text or source_name or source_url %}
+              <figcaption class="post-carousel-caption">
+                {% if caption_text %}
+                  <span class="post-carousel-caption-text">{{ caption_text | escape }}</span>
+                {% endif %}
+                {% if source_name or source_url %}
+                  <span class="post-carousel-caption-source">
+                    {% if source_name %}<span class="post-carousel-caption-label">Source:</span> {% endif %}
+                    {% if caption_source_org %}
+                      <a href="{{ caption_source_org.url | relative_url }}">{{ source_name }}</a>
+                    {% elsif source_url %}
+                      <a href="{{ source_url }}" rel="noopener noreferrer">{{ source_name | default: source_url | escape }}</a>
+                    {% elsif source_name %}
+                      {{ source_name | escape }}
+                    {% else %}
+                      <a href="{{ source_url }}" rel="noopener noreferrer">{{ source_url }}</a>
+                    {% endif %}
+                  </span>
+                {% endif %}
+              </figcaption>
+            {% endif %}
+          </figure>
+        {% endfor %}
+      </div>
+      <div class="post-carousel-controls">
+        <button class="post-carousel-button" type="button" data-carousel-prev aria-label="View previous image" disabled>Previous</button>
+        <span class="post-carousel-status" data-carousel-status aria-live="polite">Image 1 of {{ slide_total }}</span>
+        <button class="post-carousel-button" type="button" data-carousel-next aria-label="View next image"{% if slide_total == 1 %} disabled{% endif %}>Next</button>
+      </div>
+      {% if slide_total > 1 and slide_total <= 30 %}
+        <div class="post-carousel-dots" role="tablist" aria-label="Select image to view">
+          {% for image_doc in carousel_slides %}
+            {% assign dot_index = forloop.index0 %}
+            <button class="post-carousel-dot{% if dot_index == 0 %} is-active{% endif %}" type="button" data-carousel-dot data-carousel-target="{{ dot_index }}" aria-label="Go to image {{ dot_index | plus: 1 }} of {{ slide_total }}" aria-current="{% if dot_index == 0 %}true{% else %}false{% endif %}">
+              <span class="sr-only">Image {{ dot_index | plus: 1 }} of {{ slide_total }}</span>
+            </button>
+          {% endfor %}
+        </div>
+      {% endif %}
+    </div>
+  </section>
+  {% if include.load_script != false %}
+    <script defer src="{{ '/assets/js/post-carousel.js' | relative_url }}"></script>
+  {% endif %}
+{% elsif include.empty_message %}
+  <p>{{ include.empty_message }}</p>
+{% endif %}
