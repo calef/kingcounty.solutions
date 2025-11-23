@@ -18,7 +18,7 @@ topics:
 - Mental Health & Counseling
 - Personal & Household Needs
 - Shelter & Housing
-type: Branch
+type: Community-Based Organization
 website: https://www.rescue.org/united-states/seattle-wa
 ---
 

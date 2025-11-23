@@ -8,7 +8,7 @@ topics:
 - Disabilities
 - Food & Nutrition
 - Personal & Household Needs
-type: Project
+type: Program
 website: https://www.ccfcharity.org/a-beacon-of-hope.html
 ---
 

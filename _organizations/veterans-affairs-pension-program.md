@@ -7,7 +7,7 @@ topics:
 - Employment & Job Support
 - Education & Learning
 - Health Care
-type: Federal
+type: Program
 website: https://www.benefits.va.gov/pension/index.asp
 ---
 

@@ -4,7 +4,7 @@ jurisdictions:
 parent_organization: United States Federal Government
 title: Federal Executive Branch
 topics: []
-type: Branch
+type: Division
 website: https://www.usa.gov/executive-branch
 ---
 

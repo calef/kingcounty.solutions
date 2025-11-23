@@ -5,7 +5,7 @@ jurisdictions:
 news_rss_url: https://blog.usa.gov/rss.xml
 title: United States Federal Government
 topics: []
-type: Federal
+type: Country
 website: https://www.usa.gov/
 ---
 

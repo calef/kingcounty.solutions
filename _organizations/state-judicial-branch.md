@@ -4,7 +4,7 @@ jurisdictions:
 parent_organization: State of Washington
 title: State Judicial Branch
 topics: []
-type: Branch
+type: Division
 website: https://www.courts.wa.gov/
 ---
 

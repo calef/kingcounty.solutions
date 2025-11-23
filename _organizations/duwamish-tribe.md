@@ -6,7 +6,7 @@ topics:
 - Domestic Violence
 - Community & Social Services
 - Education & Learning
-type: Tribal Government
+type: Tribe
 website: https://www.duwamishtribe.org/
 ---
 
