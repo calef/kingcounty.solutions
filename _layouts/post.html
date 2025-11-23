@@ -47,6 +47,101 @@ layout: default
 
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
+
+    {% if page.images and page.images.size > 0 %}
+      {% assign slide_total = 0 %}
+      {% for image_id in page.images %}
+        {% assign normalized_id = image_id | append: '' | strip %}
+        {% assign image_doc = site.images | where: "checksum", normalized_id | first %}
+        {% assign image_url = "" %}
+        {% if image_doc %}
+          {% assign image_url = image_doc.image_url | default: image_doc.data.image_url %}
+        {% endif %}
+        {% if image_doc and image_url %}
+          {% assign slide_total = slide_total | plus: 1 %}
+        {% endif %}
+      {% endfor %}
+      {% if slide_total > 0 %}
+        {% assign post_has_carousel = true %}
+        <section class="post-media-carousel" aria-label="Images for {{ page.title | escape }}">
+          <div class="post-carousel" data-post-carousel data-slide-count="{{ slide_total }}">
+            <div class="post-carousel-track" data-carousel-track tabindex="0">
+              {% assign slide_index = 0 %}
+              {% for image_id in page.images %}
+                {% assign normalized_id = image_id | append: '' | strip %}
+                {% assign image_doc = site.images | where: "checksum", normalized_id | first %}
+                {% assign image_url = "" %}
+                {% if image_doc %}
+                  {% assign image_url = image_doc.image_url | default: image_doc.data.image_url %}
+                {% endif %}
+                {% if image_doc and image_url %}
+                  {% assign current_index = slide_index %}
+                  {% assign slide_index = slide_index | plus: 1 %}
+                  <figure class="post-carousel-slide" data-carousel-slide data-carousel-index="{{ current_index }}">
+                    <img src="{{ image_url | relative_url }}" alt="{{ image_doc.title | default: page.title | escape }}" loading="{% if current_index == 0 %}eager{% else %}lazy{% endif %}">
+                    {% assign caption_text = image_doc.title | to_s | strip %}
+                    {% if caption_text == image_doc.checksum %}
+                      {% assign caption_text = '' %}
+                    {% endif %}
+                    {% assign source_name = image_doc.source | to_s | strip %}
+                    {% assign source_url = image_doc.source_url %}
+                    {% assign caption_source_org = nil %}
+                    {% if source_name %}
+                      {% assign caption_source_org = site.organizations | where: "title", source_name | first %}
+                    {% endif %}
+                    {% if caption_text or source_name or source_url %}
+                      <figcaption class="post-carousel-caption">
+                        {% if caption_text %}
+                          <span class="post-carousel-caption-text">{{ caption_text | escape }}</span>
+                        {% endif %}
+                        {% if source_name or source_url %}
+                          <span class="post-carousel-caption-source">
+                            {% if source_name %}<span class="post-carousel-caption-label">Source:</span> {% endif %}
+                            {% if caption_source_org %}
+                              <a href="{{ caption_source_org.url | relative_url }}">{{ source_name }}</a>
+                            {% elsif source_url %}
+                              <a href="{{ source_url }}" rel="noopener noreferrer">{{ source_name | default: source_url | escape }}</a>
+                            {% elsif source_name %}
+                              {{ source_name | escape }}
+                            {% else %}
+                              <a href="{{ source_url }}" rel="noopener noreferrer">{{ source_url }}</a>
+                            {% endif %}
+                          </span>
+                        {% endif %}
+                      </figcaption>
+                    {% endif %}
+                  </figure>
+                {% endif %}
+              {% endfor %}
+            </div>
+            <div class="post-carousel-controls">
+              <button class="post-carousel-button" type="button" data-carousel-prev aria-label="View previous image" disabled>Previous</button>
+              <span class="post-carousel-status" data-carousel-status aria-live="polite">Image 1 of {{ slide_total }}</span>
+              <button class="post-carousel-button" type="button" data-carousel-next aria-label="View next image"{% if slide_total == 1 %} disabled{% endif %}>Next</button>
+            </div>
+            {% if slide_total > 1 %}
+              <div class="post-carousel-dots" role="tablist" aria-label="Select image to view">
+                {% assign dot_index = 0 %}
+                {% for image_id in page.images %}
+                  {% assign normalized_id = image_id | append: '' | strip %}
+                  {% assign image_doc = site.images | where: "checksum", normalized_id | first %}
+                  {% assign image_url = "" %}
+                  {% if image_doc %}
+                    {% assign image_url = image_doc.image_url | default: image_doc.data.image_url %}
+                  {% endif %}
+                  {% if image_doc and image_url %}
+                    <button class="post-carousel-dot{% if dot_index == 0 %} is-active{% endif %}" type="button" data-carousel-dot data-carousel-target="{{ dot_index }}" aria-label="Go to image {{ dot_index | plus: 1 }} of {{ slide_total }}" aria-current="{% if dot_index == 0 %}true{% else %}false{% endif %}">
+                      <span class="sr-only">Image {{ dot_index | plus: 1 }} of {{ slide_total }}</span>
+                    </button>
+                    {% assign dot_index = dot_index | plus: 1 %}
+                  {% endif %}
+                {% endfor %}
+              </div>
+            {% endif %}
+          </div>
+        </section>
+      {% endif %}
+    {% endif %}
   </div>
 
   {%- if page.source_url -%}
@@ -107,3 +202,7 @@ layout: default
     {%- include disqus_comments.html -%}
   {%- endif -%}
 </article>
+
+{% if post_has_carousel %}
+  <script defer src="{{ '/assets/js/post-carousel.js' | relative_url }}"></script>
+{% endif %}
