@@ -20,6 +20,27 @@ class OrganizationsFrontMatterTest < Minitest::Test
     type
     website
   ].freeze
+  ALLOWED_TYPES = [
+    'Agency',
+    'City',
+    'College',
+    'Community-Based Organization',
+    'Corporation',
+    'Country',
+    'County',
+    'Department',
+    'Division',
+    'Independent Federal Agency',
+    'Independent Public Corporation',
+    'Program',
+    'Public Hospital District',
+    'School District',
+    'Special Purpose District',
+    'State',
+    'Town',
+    'Tribe',
+    'University'
+  ].freeze
   STATE_NAMES = [
     'Alabama', 'Alaska', 'Arizona', 'Arkansas', 'California', 'Colorado', 'Connecticut',
     'Delaware', 'Florida', 'Georgia', 'Hawaii', 'Idaho', 'Illinois', 'Indiana', 'Iowa',
@@ -307,6 +328,20 @@ class OrganizationsFrontMatterTest < Minitest::Test
     end
 
     assert errors.empty?, "Type issues:\n#{errors.join("\n")}"
+  end
+
+  def test_type_is_an_allowed_value
+    errors = []
+
+    organizations.each do |doc|
+      type = value_as_string(doc, 'type')
+      next if type.nil?
+      next if ALLOWED_TYPES.include?(type)
+
+      errors << "#{doc[:path]} type '#{type}' is not in the allowed list: #{ALLOWED_TYPES.join(', ')}"
+    end
+
+    assert errors.empty?, "Type whitelist issues:\n#{errors.join("\n")}"
   end
 
   def test_events_ical_url_news_rss_url_and_website_are_http_or_https
