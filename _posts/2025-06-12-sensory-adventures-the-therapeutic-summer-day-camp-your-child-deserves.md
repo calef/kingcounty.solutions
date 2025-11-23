@@ -1,7 +1,7 @@
 ---
 title: 'Sensory Adventures: The Therapeutic Summer Day Camp Your Child Deserves'
 date: '2025-06-12T17:17:23+00:00'
-source: Encompass NW
+source: Encompass
 source_url: https://encompassnw.org/sensory-adventures-the-therapeutic-summer-day-camp-your-child-deserves/
 original_content: |-
   ![](https://encompassnw.org/wp-content/uploads/2025/06/SensoryAdventures_square2-300x300.png) **As summer approaches, many parents and caregivers begin the search for the perfect day camp to provide children with a fun, enriching experience. For families of children with neurodiverse profiles or who face challenges in more traditional camp settings, this search can feel particularly daunting. The right environmental fit can make all the difference between a summer filled with joy or one of stress and frustration. Encompass is excited to offer a unique day camp experience through our Sensory Adventures Therapeutic Immersion Camp.**

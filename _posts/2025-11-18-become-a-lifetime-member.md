@@ -18,7 +18,7 @@ original_markdown_body: |-
 
   ](https://wscenter.org/become-a-lifetime-member-2/)
 summarized: true
-topics:
+topics: []
 ---
 
 Become a Lifetime member of The Center for Active Living and enjoy the convenience of never having to renew your membership again. Starting in 2026, Lifetime members will receive special benefits and invitations to exclusive events. The cost for a Lifetime membership is $999 for individuals and $1,499 for households. This membership offers a hassle-free way to engage with the community and participate in various programs and activities.

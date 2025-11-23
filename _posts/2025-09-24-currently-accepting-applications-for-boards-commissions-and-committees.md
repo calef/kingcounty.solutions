@@ -39,7 +39,7 @@ original_content: "The City of Tukwila is assisted in its operations by the volu
   post [Currently Accepting Applications for Boards, Commissions and Committees](https://www.tukwilawa.gov/currently-accepting-applications-for-boards-commissions-and-committees-2/)
   appeared first on [City of Tukwila](https://www.tukwilawa.gov)."
 summarized: true
-topics:
+topics: []
 published: false
 ---
 

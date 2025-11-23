@@ -1,7 +1,7 @@
 ---
 title: An Outside Lens on Community-Based Services
 date: '2025-02-13T21:38:19+00:00'
-source: Encompass NW
+source: Encompass
 source_url: https://encompassnw.org/an-outside-lens-on-community-based-services/
 original_content: |-
   ![](https://encompassnw.org/wp-content/uploads/2025/02/CBS_square-300x300.png) When a few King County Montessori schools began shutting down during the COVID-19 pandemic, Christine Meredith capitalized on her background in early education and founded Mosaic Montessori. As the mother of a neurodivergent child, she understood the importance of social and educational opportunities for kids and worked to make Mosaic a welcoming space for other children with neurodivergent profiles.

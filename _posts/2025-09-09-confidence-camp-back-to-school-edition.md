@@ -1,7 +1,7 @@
 ---
 title: 'Confidence Camp: Back-to-School Edition'
 date: '2025-09-09T18:54:29+00:00'
-source: Encompass NW
+source: Encompass
 source_url: https://encompassnw.org/confidence-camp-back-to-school-edition/
 original_content: "![](https://encompassnw.org/wp-content/uploads/2025/09/Confidence-Camp-Square-300x300.png)When
   a new school year approaches, many kids experience a whirlwind of mixed emotions.

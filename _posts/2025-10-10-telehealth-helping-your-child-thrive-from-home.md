@@ -1,7 +1,7 @@
 ---
 title: 'Telehealth: Helping Your Child Thrive—From Home!'
 date: '2025-10-10T17:28:10+00:00'
-source: Encompass NW
+source: Encompass
 source_url: https://encompassnw.org/telehealth-helping-your-child-thrive-from-home/
 original_content: "### ![](https://encompassnw.org/wp-content/uploads/2025/10/Telehealth_1-300x300.png)Therapy
   That Works with Your Life\n\n#### ![❄](https://s.w.org/images/core/emoji/16.0.1/72x72/2744.png)

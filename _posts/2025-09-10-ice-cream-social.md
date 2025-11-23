@@ -17,7 +17,7 @@ original_markdown_body: |-
 
   Thank you to everyone who joined us for an evening of connection, conversation, and (of course) delicious treats!
 summarized: true
-topics:
+topics: []
 images:
 - a6730a08ea8bf434f5af28c831ba8971c04c1580a285ab3910cfbe7a676e9d46
 ---

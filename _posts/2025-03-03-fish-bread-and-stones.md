@@ -54,7 +54,7 @@ original_markdown_body: "<section class=\"elementor-section elementor-top-sectio
   as we look at the story of the loaves and fishes and ask, “What does this mean for
   us on this very important day?” </span></p> </div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>"
 summarized: true
-topics:
+topics: []
 published: false
 ---
 

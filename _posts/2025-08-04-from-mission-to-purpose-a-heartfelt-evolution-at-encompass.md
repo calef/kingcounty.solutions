@@ -1,7 +1,7 @@
 ---
 title: 'From Mission to Purpose: A Heartfelt Evolution at Encompass'
 date: '2025-08-04T18:27:31+00:00'
-source: Encompass NW
+source: Encompass
 source_url: https://encompassnw.org/from-mission-to-purpose-a-heartfelt-evolution-at-encompass/
 original_content: "**From Mission to Purpose: A Heartfelt Evolution at Encompass&nbsp;**
   \ \n_By Kim Darby, Encompass Board President, and Nela Cumming, Encompass Executive

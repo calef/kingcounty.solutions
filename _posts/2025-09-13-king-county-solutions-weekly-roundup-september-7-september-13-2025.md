@@ -19,7 +19,7 @@ Additionally, the [Stay Steady, Stay Independent](https://snoqualmievalleyhealth
 ### Mental Health Awareness
 September also marks Suicide Prevention Month, and Hospital District No. 4 has shared essential insights in their post, [Suicide Prevention Month: Warning Signs, Resources & How to Help](https://snoqualmievalleyhealth.org/suicide-prevention-month-2/). This resource emphasizes recognizing warning signs of suicidal thoughts and encourages open conversations about mental health. With suicide being the 11th leading cause of death in the U.S., the availability of resources like the 988 Suicide & Crisis Lifeline is crucial for community support.
 
-Moreover, Encompass NW has organized a [Confidence Camp: Back-to-School Edition](https://encompassnw.org/confidence-camp-back-to-school-edition/) aimed at helping children build emotional resilience as they transition back to school. This camp, featuring 19 therapists, equips children with skills to express emotions and cope with challenges, fostering a supportive environment for mental health.
+Moreover, Encompass has organized a [Confidence Camp: Back-to-School Edition](https://encompassnw.org/confidence-camp-back-to-school-edition/) aimed at helping children build emotional resilience as they transition back to school. This camp, featuring 19 therapists, equips children with skills to express emotions and cope with challenges, fostering a supportive environment for mental health.
 
 ### Other updates
 There are no additional updates to report this week. 

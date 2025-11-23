@@ -1,7 +1,7 @@
 ---
 title: Preserving Family Ties Through Kinship Care
 date: '2025-03-10T20:48:14+00:00'
-source: Encompass NW
+source: Encompass
 source_url: https://encompassnw.org/preserving-family-ties-through-kinship-care/
 original_content: |-
   ![](https://encompassnw.org/wp-content/uploads/2025/03/Kinship_1-300x300.png)Considered the oldest form of family preservation, Kinship Care is an important safety net for children whose parents are either unable or unwilling to care for them. By placing them in the care of a family member, cultural, family, and community ties are maintained, and the trauma of displacement can be minimized through familiarity and continuity.

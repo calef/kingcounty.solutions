@@ -12,7 +12,7 @@ original_markdown_body: The holiday season is upon us, and Seattle is buzzing wi
   to magical park experiences, there’s something for everyone to enjoy. Check out
   the lineup of activities below p...
 summarized: true
-topics:
+topics: []
 ---
 
 Seattle Parks and Recreation is hosting a variety of festive, free or low-cost holiday events for all ages this season. Highlights include the Community Holiday Party at Garfield Community Center on December 5, the Winter Tot Carnival at Magnuson Community Center on December 6, and the Pathway of Lights at Green Lake on December 13. Other events include the Gingerbread Jubilee, Lunar New Year Celebration, and holiday-themed activities like ice skating and live music at various parks. These events offer opportunities for community engagement and holiday celebration throughout December and into early 2026.
