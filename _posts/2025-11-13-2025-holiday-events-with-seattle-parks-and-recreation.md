@@ -6,6 +6,7 @@ source_url: https://parkways.seattle.gov/2025/11/13/2025-holiday-events-with-sea
 original_content: The holiday season is upon us, and Seattle is buzzing with festive FREE or LOW-COST events for all ages! From community center celebrations to magical park experiences, there’s something for everyone to enjoy. Check out the lineup of activities below p...
 original_markdown_body: The holiday season is upon us, and Seattle is buzzing with festive FREE or LOW-COST events for all ages! From community center celebrations to magical park experiences, there’s something for everyone to enjoy. Check out the lineup of activities below p...
 summarized: true
+published: false
 topics: []
 images: []
 ---

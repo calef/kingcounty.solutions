@@ -11,6 +11,7 @@ original_markdown_body: |-
 
   The post [Outdoor Activities Club Interest Form](https://firstchurchseattle.org/outdoor-activities-club-interest-form/) appeared first on [First Church Seattle](https://firstchurchseattle.org).
 summarized: true
+published: false
 topics: []
 images: []
 ---

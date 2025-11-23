@@ -11,6 +11,7 @@ original_markdown_body: |-
 
   The post [2025 Indigenous People Festival wrap-up](https://www.sihb.org/2025/06/2025-indigenous-people-festival-wrap-up/) appeared first on [Seattle Indian Health Board](https://www.sihb.org).
 summarized: true
+published: false
 topics: []
 images: []
 ---

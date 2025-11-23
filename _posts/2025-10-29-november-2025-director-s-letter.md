@@ -45,6 +45,7 @@ original_markdown_body: |-
 
   The post [November 2025 Director’s Letter](https://snovalleysenior.org/november-2025-directors-letter/) appeared first on [Sno-Valley Senior Center](https://snovalleysenior.org).
 summarized: true
+published: false
 topics: []
 images: []
 ---

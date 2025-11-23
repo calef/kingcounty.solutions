@@ -11,6 +11,7 @@ original_markdown_body: |-
 
   The post [Growing in Gratitude In-Gathering](https://stlukesseattle.org/2025/10/16/growing-in-gratitude-in-gathering/) appeared first on [St. Luke Episcopal Church](https://stlukesseattle.org).
 summarized: true
+published: false
 topics: []
 images: []
 ---

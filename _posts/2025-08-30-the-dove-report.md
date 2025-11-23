@@ -6,6 +6,7 @@ source_url: https://www.vashondoveproject.org/post/the-dove-report
 original_content: Check out DOVE's quarterly newsletter for the latest news and happenings at DOVE. Newsletter Link
 original_markdown_body: Check out DOVE's quarterly newsletter for the latest news and happenings at DOVE. Newsletter Link
 summarized: true
+published: false
 topics: []
 images: []
 ---
