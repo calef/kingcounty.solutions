@@ -58,6 +58,7 @@ exclude:
   - vendor/
   - coverage/
   - Rakefile
+  - TODO.md
 github_username: calef
 plugins:
   - jekyll-feed
