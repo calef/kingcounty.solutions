@@ -63,8 +63,7 @@ layout: default
       {% endfor %}
       {% assign post_carousel_count = post_carousel_images | size %}
       {% if post_carousel_count > 0 %}
-        {% capture post_carousel_aria_label %}Images for {{ page.title | default: "this page" }}{% endcapture %}
-        {% include carousel.html images=post_carousel_images aria_label=post_carousel_aria_label %}
+        {% include carousel.html images=post_carousel_images %}
       {% endif %}
     {% endif %}
   </div>

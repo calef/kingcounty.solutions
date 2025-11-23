@@ -1,5 +1,5 @@
 (function() {
-  function initPostCarousel(carousel) {
+  function initMediaCarousel(carousel) {
     const track = carousel.querySelector('[data-carousel-track]');
     if (!track) return;
     const slides = Array.from(track.querySelectorAll('[data-carousel-slide]'));
@@ -84,7 +84,7 @@
   }
 
   function initAllCarousels() {
-    document.querySelectorAll('[data-post-carousel]').forEach(initPostCarousel);
+    document.querySelectorAll('[data-media-carousel]').forEach(initMediaCarousel);
   }
 
   if (document.readyState === 'loading') {

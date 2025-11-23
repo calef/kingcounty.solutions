@@ -2,83 +2,12 @@
 layout: default
 ---
 
-<section class="image-gallery">
-  <header>
-    <h1>{{ page.title | default: "Images" | escape }}</h1>
-  </header>
-  {% assign docs = paginator.docs | default: site.images %}
-  <div class="gallery-grid" aria-label="Image gallery">
-    {% for image in docs %}
-      {% assign img_url = image.image_url | default: image.data.image_url %}
-      {% if img_url %}
-        <a class="gallery-card" href="{{ image.url | relative_url }}" aria-label="{{ image.title | escape }}">
-          <div class="gallery-frame">
-            <img src="{{ img_url | relative_url }}" alt="{{ image.title | escape }}">
-          </div>
-        </a>
-      {% endif %}
-    {% endfor %}
-  </div>
-
-  {% if paginator and paginator.total_pages > 1 %}
-    <nav class="gallery-pagination" aria-label="Image pagination">
-      {% if paginator.previous_page %}
-        <a class="pager-link" href="{{ paginator.previous_page_path | relative_url }}">&larr; Newer</a>
-      {% endif %}
-      <span class="pager-status">Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
-      {% if paginator.next_page %}
-        <a class="pager-link" href="{{ paginator.next_page_path | relative_url }}">Older &rarr;</a>
-      {% endif %}
-    </nav>
-  {% endif %}
-</section>
-
-<style>
-  .image-gallery {
-    margin: 0 auto;
-  }
-
-  .gallery-grid {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
-    gap: 0;
-  }
-
-  .gallery-card {
-    display: block;
-    position: relative;
-  }
-
-  .gallery-frame {
-    position: relative;
-    width: 100%;
-    padding-top: 100%;
-    overflow: hidden;
-    background: #f5f5f5;
-  }
-
-  .gallery-frame img {
-    position: absolute;
-    inset: 0;
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-    display: block;
-  }
-
-  .gallery-pagination {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    gap: 1rem;
-    padding: 1.5rem 0;
-  }
-
-  .pager-link {
-    text-decoration: none;
-  }
-
-  .pager-status {
-    font-size: 0.95rem;
-  }
-</style>
+<header>
+  <h1>{{ page.title | default: "Images" | escape }}</h1>
+</header>
+{{ page.content }}
+{% assign docs = site.images %}
+{% assign sorted_docs = docs | sort: 'date' | reverse %}
+{% assign valid_images = sorted_docs | where_exp: 'image_doc', 'image_doc.image_url or image_doc.data.image_url' %}
+{% capture images_carousel_aria_label %}Images for {{ page.title | default: "Images" }}{% endcapture %}
+{% include carousel.html images=valid_images %}
