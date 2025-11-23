@@ -12,6 +12,7 @@ summarized: true
 topics:
 - Disabilities
 - Education & Learning
+images: []
 ---
 
 Important updates in audiology were announced on March 21, 2025, highlighting significant changes and advancements in services at the Hearing, Speech & Deaf Center (HSDC). The updates include the introduction of new staff members who bring diverse backgrounds and expertise in supporting the Deaf and hard of hearing communities. Ariele Belo has been appointed Co-Executive Director and Director of Deaf and Hard of Hearing Services, overseeing programs across multiple locations. The center emphasizes its commitment to bilingual education and community engagement, with staff members dedicated to advocacy, education, and support for families with Deaf children. 

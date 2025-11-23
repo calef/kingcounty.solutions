@@ -84,6 +84,7 @@ original_content: |-
 summarized: true
 topics:
 - Domestic Violence
+images: []
 ---
 
 Identifying and escaping an abusive situation can be challenging, but support is available. Recognizing signs of abuse can be complex, but organizations like New Beginnings provide resources for identification. Leaving an abusive situation requires careful planning with privacy and security in mind. Multiple hotlines and websites offer help in creating a safety plan. Children can accompany parents to shelters, and emergency custody may be feasible. Programs exist to foster pets during the transition. Numerous helplines and resources, such as the National Domestic Violence Hotline and DV Hopeline, are available 24/7. Legal assistance is available through organizations like WomensLaw and the Northwest Justice Project.

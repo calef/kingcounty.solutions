@@ -79,6 +79,7 @@ original_markdown_body: |-
 summarized: true
 topics:
 - Mental Health & Counseling
+images: []
 ---
 
 Depression and anxiety are the two most prevalent mental health issues in the U.S., often co-occurring and sharing overlapping symptoms such as racing thoughts, insomnia, irritability, and mood swings. These conditions can significantly affect physical health, relationships, and overall quality of life. A viable treatment option for individuals facing both disorders is dialectical behavior therapy (DBT), which combines individual and group therapy, along with on-call support from therapists. DBT focuses on coping strategies that enhance mindfulness, emotional regulation, interpersonal effectiveness, and distress tolerance.

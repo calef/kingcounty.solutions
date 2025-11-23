@@ -14,6 +14,7 @@ original_content: |-
 summarized: true
 topics:
 - Mental Health & Counseling
+images: []
 ---
 
 Emily Robinson, a second-year Master of Social Work student at the University of Washington Tacoma, has joined the VRFA CARES Team. Robinson, who also holds an undergraduate degree in Psychology and Sociology from the University of Washington Seattle, found her passion in social work during her time at Kitsap Mental Health Services. There, she saw the need for supporting low-income individuals seeking behavioral health services. Excited about her new role, Robinson is looking forward to providing meaningful support to those in need. In her spare time, she enjoys spending time with her rescue Pitbull mix, cooking, and listening to music.

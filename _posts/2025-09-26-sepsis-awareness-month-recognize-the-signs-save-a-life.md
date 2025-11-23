@@ -74,6 +74,7 @@ original_content: |-
 summarized: true
 topics: []
 published: false
+images: []
 ---
 
 September is Sepsis Awareness Month, aimed at raising awareness about one of the leading causes of death in the US. Sepsis is a severe body response to infection, which can lead to organ failure and death. Approximately 87% of sepsis cases originate outside the hospital. While anyone can develop sepsis, those over 65, infants, people with weakened immune systems, and those with chronic conditions like diabetes are more vulnerable. The Sepsis Alliance uses the acronym TIME (Temperature, Infection, Mental decline, Extremely ill) to identify the warning signs. Sepsis can be reduced by maintaining vaccinations, good hygiene, managing chronic conditions, and seeking immediate care when symptoms arise.

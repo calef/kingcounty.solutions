@@ -8,6 +8,7 @@ original_markdown_body: "<section class=\"elementor-section elementor-top-sectio
 summarized: true
 topics: []
 published: false
+images: []
 ---
 
 Work is ongoing for the locker room renovations. The men's locker room is making significant progress, with nearly complete new flooring, installed partitions, and the addition of sinks and mirrors. Updates will continue to be provided as the renovations for the remaining areas advance. Thank you for your patience during this improvement process.

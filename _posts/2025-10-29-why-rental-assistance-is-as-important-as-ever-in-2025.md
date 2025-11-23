@@ -55,6 +55,7 @@ summarized: true
 topics:
 - Financial Assistance
 - Shelter & Housing
+images: []
 ---
 
 Community Roots Housing offers vital rental assistance through two programs: the Housing Stabilization Program (HSP) and the Emergency Rental Assistance (ERA) Program. These initiatives aim to support residents facing economic hardships that could lead to homelessness due to missed rent payments. Common causes for these financial struggles include job loss, medical expenses, and caregiving responsibilities.

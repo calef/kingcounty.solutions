@@ -3,15 +3,12 @@ title: Metro Weekend Update – October 24-26, 2025
 date: '2025-10-25T01:15:51+00:00'
 source: King County Metro Transit
 source_url: https://kingcountymetro.blog/2025/10/24/metro-weekend-update-october-24-26-2025/
-original_content: Weekend Service Impacts Construction Route 8 is rerouted off E Denny
-  Way between Fairview Avenue N and E Olive Way on Saturday, October 25 at 1 a.m.
-  to 11 a.m.; Routes...
-original_markdown_body: Weekend Service Impacts Construction Route 8&nbsp;is rerouted
-  off E Denny Way between Fairview Avenue N and E Olive Way on Saturday, October 25
-  at 1 a.m. to 11 a.m.; Routes...
+original_content: Weekend Service Impacts Construction Route 8 is rerouted off E Denny Way between Fairview Avenue N and E Olive Way on Saturday, October 25 at 1 a.m. to 11 a.m.; Routes...
+original_markdown_body: Weekend Service Impacts Construction Route 8&nbsp;is rerouted off E Denny Way between Fairview Avenue N and E Olive Way on Saturday, October 25 at 1 a.m. to 11 a.m.; Routes...
 summarized: true
 topics:
 - Transportation & Mobility
+images: []
 ---
 
 Weekend service adjustments for King County Metro include reroutes for several bus routes due to construction and events. Route 8 will be rerouted off E Denny Way from 1 a.m. to 11 a.m. on Saturday, October 25. Routes 255, 271, ST 542, and ST 545 will be affected by reroutes off the SR 520 floating bridge from Friday night until Saturday morning, and again from Saturday evening through early Monday. Additionally, routes 50, 128, and RapidRide C Line will be rerouted on Sunday due to The Harvest Fest, while multiple routes will be rerouted in the Montlake area during the Husky football game on Saturday afternoon. 

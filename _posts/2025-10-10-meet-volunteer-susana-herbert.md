@@ -21,6 +21,7 @@ summarized: true
 topics:
 - Education & Learning
 - Employment & Job Support
+images: []
 ---
 
 Susana Herbert is a dedicated volunteer at The Center for Active Living, where she helps individuals navigate personal electronics. A resident of West Seattle since 1966, she originally hails from Montana and has extensive teaching experience, particularly in technology. Her interest in tech began as an English teacher when she encountered early word processors, leading her to become a tech mentor who maintained school computer labs and trained others. 

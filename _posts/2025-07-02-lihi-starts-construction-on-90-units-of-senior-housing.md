@@ -3,13 +3,12 @@ title: LIHI Starts Construction on 90 Units of Senior Housing
 date: '2025-07-02T16:33:56+00:00'
 source: Low Income Housing Institute
 source_url: https://www.lihihousing.org/post/lihi-starts-construction-on-90-units-of-senior-housing
-original_content: Rendering by Runberg Architecture Group LIHI is pleased to announce
-  that construction is set to start on 125th Senior Housing, a 90-unit,...
-original_markdown_body: Rendering by Runberg Architecture Group LIHI is pleased to
-  announce that construction is set to start on 125th Senior Housing, a 90-unit,...
+original_content: Rendering by Runberg Architecture Group LIHI is pleased to announce that construction is set to start on 125th Senior Housing, a 90-unit,...
+original_markdown_body: Rendering by Runberg Architecture Group LIHI is pleased to announce that construction is set to start on 125th Senior Housing, a 90-unit,...
 summarized: true
 topics:
 - Shelter & Housing
+images: []
 ---
 
 Construction is set to begin on 125th Senior Housing, a new seven-story building in North Seattle, which will provide 90 units for seniors earning 30-50% of the area median income. The site, previously home to LIHI’s Friendship Heights Tiny House Village, aims to continue the organization’s mission of converting tiny house sites into permanent housing. Seniors aged 62 and over will pay 30% of their income for high-quality, energy-efficient living. Located at 12245 Aurora Ave N., the building is close to essential services, grocery stores, and has access to public transportation.

@@ -17,6 +17,7 @@ topics:
 - Food & Nutrition
 - Mental Health & Counseling
 - Shelter & Housing
+images: []
 ---
 
 In a reflective piece by Dr. Catherine Cushinberry, Interim CEO of United Way of King County, the importance of perspective is highlighted through a personal anecdote about her mother’s visit to Lake Washington. While admiring the lake's beauty, her mother was surprised to learn that it is the thirty-seventh largest lake in the U.S. This moment illustrates how personal experiences and knowledge shape our understanding of reality. Cushinberry emphasizes that perspective is crucial in the work of United Way, as their mission involves engaging with diverse communities and understanding the unique challenges they face. The team at United Way must appreciate the realities of those they serve, recognizing both immediate needs and broader systemic issues. This dual focus allows them to have a more significant impact in the community. Cushinberry expresses pride in this role, underscoring the organization's commitment to bridging gaps in understanding and fostering meaningful connections with clients, supporters, and partners. The piece ultimately conveys that awareness of varied perspectives is essential for effective advocacy and support in the fight against poverty and homelessness.

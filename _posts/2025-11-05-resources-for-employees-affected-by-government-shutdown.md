@@ -10,6 +10,7 @@ topics:
 - Food & Nutrition
 - Mental Health & Counseling
 - Shelter & Housing
+images: []
 ---
 
 The City of Des Moines, WA is providing resources to support employees affected by the federal government shutdown that started on October 1, 2025. The city has gathered helpful information and links to local and federal resources, including food, housing, financial help, and mental health support. Some of the resources include the WA 211 Information Line, Backpack Brigade, Des Moines Area Food Bank, Multi-Area Service Center, Pregnancy Aid of South King County, and the Community Enrichment Services Department. Additionally, the city encourages residents who want to help to consider donating to local non-profits.

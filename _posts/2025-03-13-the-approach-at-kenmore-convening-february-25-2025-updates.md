@@ -14,6 +14,7 @@ summarized: true
 topics:
 - Disabilities
 - Shelter & Housing
+images: []
 ---
 
 On February 25, 2025, Imagine Housing conducted a virtual convening regarding the proposed development, The Approach at Kenmore, addressing community questions. The event included discussions on various topics, including volunteer opportunities with Habitat for Humanity for residents with disabilities, data on income brackets in Kenmore, and the long-term urban design vision for the 181st Street corridor. 

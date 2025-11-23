@@ -256,6 +256,7 @@ summarized: true
 topics:
 - Mental Health & Counseling
 - Education & Learning
+images: []
 ---
 
 My girlfriend has just revealed that she is pregnant, which can lead to a mix of overwhelming emotions and questions. It's important to take time to process personal feelings about the pregnancy, such as fear, anxiety, or even excitement. Understanding these emotions helps in deciding how to approach the situation collaboratively with your partner.

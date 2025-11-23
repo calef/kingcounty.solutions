@@ -12,6 +12,7 @@ original_markdown_body: |-
   The post [2025 Indigenous People Festival wrap-up](https://www.sihb.org/2025/06/2025-indigenous-people-festival-wrap-up/) appeared first on [Seattle Indian Health Board](https://www.sihb.org).
 summarized: true
 topics: []
+images: []
 ---
 
 The 2025 Indigenous People Festival celebrated community and culture, bringing together Native people from the Puget Sound region and beyond. Featuring 48 Native-owned and Native-led small businesses, the event generated over $40,000 in revenue, which will be reinvested into Indian Country, exemplifying equity in action. The festival also showcased various performers and artists, highlighting Indigenous talent. Attendees who missed the performances can find plenty of photographs from the event to relive the experience. The festival emphasizes the importance of community support and the vitality of Indigenous culture, promising a return next year for continued celebration and connection.

@@ -22,6 +22,7 @@ topics:
 - Health Care
 - Employment & Job Support
 - Shelter & Housing
+images: []
 ---
 
 Jasmine, aged 42, lived in her car for over a year following job loss and financial instability. After reaching out to the Vehicle Outreach Coordinator at a safe parking program in Kirkland, she was connected to crucial support services such as food banks, healthcare, job training programs, and housing resources. The coordinator provided encouragement and reassurance during her journey. Eventually, Jasmine found a job and started saving, leading to her finding affordable housing. With the coordinator's guidance, Jasmine is now out of her car and in her own home.

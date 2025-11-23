@@ -84,6 +84,7 @@ summarized: true
 topics:
 - Mental Health & Counseling
 - Disabilities
+images: []
 ---
 
 The National Alliance on Mental Illness (NAMI) has expressed deep concern about a new executive order issued by the White House. The order, titled "Ending Crime and Disorder on America's Streets," primarily targets individuals with serious mental illness or substance use disorders, with a focus on homelessness. NAMI criticizes the order for its emphasis on institutionalization rather than treatment. However, they also reported positive news on the 988 Suicide and Crisis Lifeline. The Federal Communications Commission (FCC) has approved georouting text messages sent to 988, a process advocated by NAMI to connect users with their nearest call center.

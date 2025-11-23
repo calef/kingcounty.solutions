@@ -90,6 +90,7 @@ original_markdown_body: |-
 summarized: true
 topics:
 - Mental Health & Counseling
+images: []
 ---
 
 The holiday season can be particularly challenging for individuals dealing with anxiety and depression, as it often brings pressure to conform to social expectations and manage complex emotions. Dialectical Behavior Therapy (DBT) offers tools to help navigate these stressful times, specifically through the "Cope Ahead" skill. This visualization exercise prepares individuals for potential stressors by identifying specific situations, recognizing emotions and thoughts that may arise, and determining which DBT skills can be utilized to cope effectively. 

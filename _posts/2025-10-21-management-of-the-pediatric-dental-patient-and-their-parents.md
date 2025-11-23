@@ -116,6 +116,7 @@ summarized: true
 topics:
 - Education & Learning
 - Health Care
+images: []
 ---
 
 This course offers behavior guidance and communication techniques for pediatric dental patients and their parents, aimed at improving treatment planning and execution in dental practices. Participants will learn to identify appropriate treatment plans based on the patient's age, needs, and behavior, as well as five non-sedation behavior management techniques. The course also examines the pros and cons of having parents present during treatment. Successful completion earns participants 1.5 continuing dental education credits. 

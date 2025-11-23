@@ -3,70 +3,11 @@ title: 'PRESS RELEASE: New 911-988-211 Diversion Partnership'
 date: '2024-04-10T23:42:09+00:00'
 source: Crisis Connections
 source_url: https://www.crisisconnections.org/diversion-partnership/
-original_content: "### **Valley Communications Center and Crisis Connections partner
-  to better serve those in crisis; 911-988-211 Services now under one roof in South
-  King County.**\n\nValley Communications Center (Valley Com 911) and Crisis Connections
-  are thrilled to announce the launch of a first-of-its-kind service that brings mental
-  health and social services support together with 911 emergency response. Under a
-  new Diversion Program, these services will be able to work seamlessly to provide
-  critical attention to those most vulnerable. It means faster, better help for people
-  in South King County facing emergencies, mental health challenges, or in need of
-  support, including navigating basic needs.\n\n**About the Program:**  \nThis innovative
-  program aims to ensure individuals in crisis or those needing immediate assistance
-  with mental health or essential services receive prompt and appropriate support.
-  When someone in crisis calls 911, dispatchers can immediately direct them to mental
-  health professionals (988) or social service information specialists (211) in the
-  same room. This initiative aims to improve the efficiency and effectiveness of the
-  response to emergencies, mental health crises, and requests for community assistance.\n\nKey
-  Benefits:\n\n- **Better and Appropriate Response** : Calls are quickly directed
-  to the appropriate service, whether it's fire, medical, or police emergency response,
-  mental health counseling, or access to community resources.\n- **Comprehensive Support:**
-  The initiative bridges the gap between emergency services and community support,
-  ensuring individuals receive holistic care tailored to their specific needs.\n-
-  **Streamlined Services** : The co-location of 911, 988, and 211 operations facilitates
-  better communication and coordination among service providers, leading to improved
-  outcomes for community members and frees up emergency services to focus on the most
-  urgent needs.\n- **Expanded Community Trust:** This collaboration aims to build
-  safety and trust with marginalized populations accessing emergency services and
-  mental health support.\n\nMichelle McDaniel, CEO of Crisis Connections: \"_Our partnership
-  with Valley Com 911 marks a significant advancement in community support, ensuring
-  individuals experiencing a crisis receive appropriate, immediate, and compassionate
-  care. We believe this program will serve as a model, illustrating the profound impact
-  of partnership and innovation to serve all community members so that the right help
-  is always within reach._\"\n\nVonnie Mayer, Executive Director of Valley Comm 911:
-  \"_This collaboration with Crisis Connections enhances our emergency response capabilities,
-  creating a more efficient and integrated system for our community. It's a proud
-  moment for us, showcasing our dedication to innovation and the safety and well-being
-  of South King County residents._\"\n\n**Valley Communications Center serves:**  \nAlgona
-  Police  \nAuburn Police  \nBlack Diamond Police  \nDes Moines Police  \nFederal
-  Way Police  \nKent Police  \nPacific Police  \nRenton Police  \nTukwila Police  \nEnumclaw
-  Fire  \nKing County International Airport ARFF  \nKCFD #2/Burien/Normandy Park Fire
-  \ \nKCFD #20/Skyway Fire  \nKCFPD #47/Kangley-Palmer Fire  \nMountain View Fire
-  & Rescue  \nNorth Highline Fire  \nPuget Sound Regional Fire Authority  \nRenton
-  Regional Fire Authority  \nSouth King Fire & Rescue  \nTukwila Fire  \nValley Regional
-  Fire Authority  \nVashon Island Fire & Rescue  \nKing County Medic One\n\n**Contact:**
-  \ \nCrisis Connections  \nSergey Smirnov  \nSr Director of Advancement and Community
-  Engagement  \n206-310-4600  \nssmirnov@crisisconnections.org\n\n&nbsp;\n\n**ABOUT
-  VALLEY COMMUNICATIONS CENTER - 911**  \nLocated in Kent, Washington, Valley Communications
-  Center is the Regional 911 Center that provides emergency communications services
-  to communities of South King County, including Auburn, Kent, Renton, Tukwila, and
-  Federal Way. Valley Com is responsible for answering emergency 911 calls and dispatching
-  resources such as police officers, firefighters, and paramedics to citizens requiring
-  assistance. Our service area spans from Seattle’s southern border to a few blocks
-  south of the Pierce County line and from Vashon Island to the foothills of the Cascade
-  Mountain Range. https://www.valleycom.org\n\n**ABOUT CRISIS CONNECTIONS – 988, 211,
-  AND OTHER PROGRAMS**  \nSince 1964, Crisis Connections has been a trusted nonprofit
-  serving Seattle, King County, and Washington State. Our mission is to foster resilience
-  and well-being for all by connecting people to accessible and compassionate support.
-  More than 500,000 people turn to us each year for help when they need it most. Our
-  core helplines include 988 and 211 in King County, 24-hour Crisis Lines in 8 counties,
-  Teen Link and Warm Line for peer support, the WA Recovery Help Line, plus support
-  after suicide programs.\n\n> [Home Page](https://www.crisisconnections.org/)\n\nhttps://www.crisisconnections.org/embed/#?secret=1FoFn6fP9Z#?secret=a5J455M8DO\n\nThe
-  post [PRESS RELEASE: New 911-988-211 Diversion Partnership](https://www.crisisconnections.org/diversion-partnership/)
-  appeared first on [Crisis Connections](https://www.crisisconnections.org)."
+original_content: "### **Valley Communications Center and Crisis Connections partner to better serve those in crisis; 911-988-211 Services now under one roof in South King County.**\n\nValley Communications Center (Valley Com 911) and Crisis Connections are thrilled to announce the launch of a first-of-its-kind service that brings mental health and social services support together with 911 emergency response. Under a new Diversion Program, these services will be able to work seamlessly to provide critical attention to those most vulnerable. It means faster, better help for people in South King County facing emergencies, mental health challenges, or in need of support, including navigating basic needs.\n\n**About the Program:**  \nThis innovative program aims to ensure individuals in crisis or those needing immediate assistance with mental health or essential services receive prompt and appropriate support. When someone in crisis calls 911, dispatchers can immediately direct them to mental health professionals (988) or social service information specialists (211) in the same room. This initiative aims to improve the efficiency and effectiveness of the response to emergencies, mental health crises, and requests for community assistance.\n\nKey Benefits:\n\n- **Better and Appropriate Response** : Calls are quickly directed to the appropriate service, whether it's fire, medical, or police emergency response, mental health counseling, or access to community resources.\n- **Comprehensive Support:** The initiative bridges the gap between emergency services and community support, ensuring individuals receive holistic care tailored to their specific needs.\n- **Streamlined Services** : The co-location of 911, 988, and 211 operations facilitates better communication and coordination among service providers, leading to improved outcomes for community members and frees up emergency services to focus on the most urgent needs.\n- **Expanded Community Trust:** This collaboration aims to build safety and trust with marginalized populations accessing emergency services and mental health support.\n\nMichelle McDaniel, CEO of Crisis Connections: \"_Our partnership with Valley Com 911 marks a significant advancement in community support, ensuring individuals experiencing a crisis receive appropriate, immediate, and compassionate care. We believe this program will serve as a model, illustrating the profound impact of partnership and innovation to serve all community members so that the right help is always within reach._\"\n\nVonnie Mayer, Executive Director of Valley Comm 911: \"_This collaboration with Crisis Connections enhances our emergency response capabilities, creating a more efficient and integrated system for our community. It's a proud moment for us, showcasing our dedication to innovation and the safety and well-being of South King County residents._\"\n\n**Valley Communications Center serves:**  \nAlgona Police  \nAuburn Police  \nBlack Diamond Police  \nDes Moines Police  \nFederal Way Police  \nKent Police  \nPacific Police  \nRenton Police  \nTukwila Police  \nEnumclaw Fire  \nKing County International Airport ARFF  \nKCFD #2/Burien/Normandy Park Fire  \nKCFD #20/Skyway Fire  \nKCFPD #47/Kangley-Palmer Fire  \nMountain View Fire & Rescue  \nNorth Highline Fire  \nPuget Sound Regional Fire Authority  \nRenton Regional Fire Authority  \nSouth King Fire & Rescue  \nTukwila Fire  \nValley Regional Fire Authority  \nVashon Island Fire & Rescue  \nKing County Medic One\n\n**Contact:**  \nCrisis Connections  \nSergey Smirnov  \nSr Director of Advancement and Community Engagement  \n206-310-4600  \nssmirnov@crisisconnections.org\n\n&nbsp;\n\n**ABOUT VALLEY COMMUNICATIONS CENTER - 911**  \nLocated in Kent, Washington, Valley Communications Center is the Regional 911 Center that provides emergency communications services to communities of South King County, including Auburn, Kent, Renton, Tukwila, and Federal Way. Valley Com is responsible for answering emergency 911 calls and dispatching resources such as police officers, firefighters, and paramedics to citizens requiring assistance. Our service area spans from Seattle’s southern border to a few blocks south of the Pierce County line and from Vashon Island to the foothills of the Cascade Mountain Range. https://www.valleycom.org\n\n**ABOUT CRISIS CONNECTIONS – 988, 211, AND OTHER PROGRAMS**  \nSince 1964, Crisis Connections has been a trusted nonprofit serving Seattle, King County, and Washington State. Our mission is to foster resilience and well-being for all by connecting people to accessible and compassionate support. More than 500,000 people turn to us each year for help when they need it most. Our core helplines include 988 and 211 in King County, 24-hour Crisis Lines in 8 counties, Teen Link and Warm Line for peer support, the WA Recovery Help Line, plus support after suicide programs.\n\n> [Home Page](https://www.crisisconnections.org/)\n\nhttps://www.crisisconnections.org/embed/#?secret=1FoFn6fP9Z#?secret=a5J455M8DO\n\nThe post [PRESS RELEASE: New 911-988-211 Diversion Partnership](https://www.crisisconnections.org/diversion-partnership/) appeared first on [Crisis Connections](https://www.crisisconnections.org)."
 summarized: true
 topics:
 - Mental Health & Counseling
+images: []
 ---
 
 Valley Communications Center (Valley Com 911) and Crisis Connections have launched a new Diversion Program in South King County. This first-of-its-kind service integrates 911 emergency response with mental health and social services support, enabling faster and better assistance for those in crisis or in need of support. The program aims to improve the efficiency of emergency responses and provide comprehensive, tailored care for individuals. The co-location of 911, 988 (mental health professionals), and 211 (social service information specialists) operations is expected to enhance communication and coordination among service providers, while also building trust with marginalized populations accessing these services.

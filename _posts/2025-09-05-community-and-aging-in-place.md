@@ -3,16 +3,15 @@ title: Community and Aging in Place
 date: '2025-09-05T20:56:25+00:00'
 source: Eastside Friends of Seniors
 source_url: https://www.eastsidefriendsofseniors.org/post/community-and-aging-in-place
-original_content: According to AARP, nearly 80% of adults want to remain in their
-  own homes as they grow older—and for good reason. Aging in place supports...
-original_markdown_body: According to AARP, nearly 80% of adults want to remain in
-  their own homes as they grow older—and for good reason. Aging in place supports...
+original_content: According to AARP, nearly 80% of adults want to remain in their own homes as they grow older—and for good reason. Aging in place supports...
+original_markdown_body: According to AARP, nearly 80% of adults want to remain in their own homes as they grow older—and for good reason. Aging in place supports...
 summarized: true
 topics:
 - Disabilities
 - Mental Health & Counseling
 - Personal & Household Needs
 - Shelter & Housing
+images: []
 ---
 
 Nearly 80% of adults prefer to remain in their own homes as they age, as aging in place promotes better health by keeping older adults active, reducing stress, and strengthening emotional well-being through connections with friends and neighbors. Research indicates that strong social ties can significantly extend life expectancy, comparable to the effects of quitting smoking. Financially, aging in place is often more affordable than assisted living or nursing facilities, which can cost between $48,000 and $100,000 annually.

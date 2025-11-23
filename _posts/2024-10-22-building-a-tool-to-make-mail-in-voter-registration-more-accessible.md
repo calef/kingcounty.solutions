@@ -13,6 +13,7 @@ original_markdown_body: |-
 summarized: true
 topics: []
 published: false
+images: []
 ---
 
 Vote.gov, in partnership with the U.S. Election Assistance Commission, has developed a new online tool to simplify the completion of the National Mail Voter Registration Form. This tool allows eligible voters to fill out their registration forms digitally before printing and mailing them. It features screen reader compatibility, customizable display options, mobile-friendly design, and state-specific instructions. The tool aims to reduce errors and improve efficiency for state election offices by ensuring complete and legible submissions. It currently supports English and Spanish, with plans for additional languages, enhancing accessibility for all voters.

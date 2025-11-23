@@ -9,6 +9,7 @@ topics:
 - Employment & Job Support
 - Financial Assistance
 - Mental Health & Counseling
+images: []
 ---
 
 This week, we published one important post highlighting the urgent need for legal assistance in family law within King County. As many residents face challenges navigating family law issues, the Eastside Legal Assistance Program (ELAP) is actively seeking pro bono attorneys to help meet this critical demand.

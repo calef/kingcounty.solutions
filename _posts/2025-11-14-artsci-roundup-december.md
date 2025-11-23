@@ -74,6 +74,7 @@ original_markdown_body: "![](https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-con
 summarized: true
 topics: []
 published: false
+images: []
 ---
 
 Explore an array of events and exhibitions happening at the University of Washington this December. The Henry Art Gallery features "Ghost(ed) Notes" by Christine Sun Kim, which merges graphic notation and American Sign Language, and "Spirit House," showcasing contemporary Asian artists addressing life and death themes. The podcast "American Prestige" continues to provide insights into U.S. foreign policy, while recent MFA graduates are making their mark in the art scene with exhibitions in local galleries.

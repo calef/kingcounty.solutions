@@ -114,6 +114,7 @@ original_markdown_body: "by Antonio Zebedeo-Abad\n\nI love my bicycle, but thatâ
 summarized: true
 topics: []
 published: false
+images: []
 ---
 
 Antonio Zebedeo-Abad shares his lifelong relationship with cycling, highlighting the practical and personal benefits of biking. He recalls his journey from riding a toddler tricycle to owning various bikes, ultimately settling on a Bike Friday Pocket Llama, which he customized for touring. His cycling lifestyle is a family affair, with his children also engaging in long-distance cycling adventures. 

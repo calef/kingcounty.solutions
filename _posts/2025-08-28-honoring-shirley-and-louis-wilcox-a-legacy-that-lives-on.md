@@ -19,6 +19,7 @@ topics:
 - Food & Nutrition
 - Health Care
 - Mental Health & Counseling
+images: []
 ---
 
 This fall, Neighborhood House will rename its Rainier Vista location The Wilcox Center in honor of Shirley and Louis Wilcox for their significant contributions to the community. Shirley, who began as a volunteer, became the first Black Board President in 1954, leading transformative changes such as the incorporation of Neighborhood House as a nonprofit and relocating its offices to Yesler Terrace, fostering partnerships between human services and public housing. She was also a founding president of Central Area Mental Health and a dedicated educator and advocate for social justice.

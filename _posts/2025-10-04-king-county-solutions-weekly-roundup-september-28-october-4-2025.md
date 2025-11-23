@@ -7,6 +7,7 @@ topics:
 - Health Care
 - Education & Learning
 - Transportation & Mobility
+images: []
 ---
 
 This week, we published five important updates for King County residents, highlighting significant advancements in community health, youth engagement, neighborhood initiatives, and transit options. These updates reflect ongoing efforts to enhance local services and foster community involvement, making it a crucial week for residents to stay informed.

@@ -112,6 +112,7 @@ summarized: true
 topics:
 - Shelter & Housing
 - Financial Assistance
+images: []
 ---
 
 Christopher Ross has returned to Compass Housing Alliance as president, emphasizing a deep commitment to the organization's mission of supporting vulnerable communities. With a history of serving on the board and as Chief Operating Officer, Ross recognizes the critical need for emergency services and affordable housing amid evolving societal challenges. Compass has provided essential support for over a century, guided by core values of love, compassion, advocacy, and community.

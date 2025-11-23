@@ -14,6 +14,7 @@ summarized: true
 topics:
 - Health Care
 - Employment & Job Support
+images: []
 ---
 
 Seattle Indian Health Board is hiring for several key positions: Medical Assistant, Dental Assistant, and Environmental Services (EVS) Assistant. 

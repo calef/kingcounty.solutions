@@ -16,6 +16,7 @@ original_markdown_body: |-
 summarized: true
 topics:
 - Education & Learning
+images: []
 ---
 
 Neighborhood House will host a celebration on October 7, 2025, to rename its Rainier Vista building as The Wilcox Center. This event honors Shirley and Louis Wilcox for their significant contributions to the community and acknowledges the ongoing efforts of Neighborhood House volunteers. The Wilcox Center will serve as a hub for Head Start and Early Head Start classrooms, caregiver support groups, resource navigation, and community spaces, reflecting the Wilcoxes' commitment to service, education, and equity.

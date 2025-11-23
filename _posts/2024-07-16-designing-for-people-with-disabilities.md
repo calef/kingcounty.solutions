@@ -15,7 +15,6 @@ topics:
 - Disabilities
 images:
 - cd8b46fe953cbe0e1dacdc04c7cb82688ae28b19cc7d9ad208fa02d3b1637d2b
-- dc111a70984a9eda00752b06277113029ef288f1125c31eff2477413e15e8aa4
 ---
 
 The Public Experience Portfolio's UX team conducted a study to better understand the needs of the disability community regarding accessibility on USA.gov. Engaging a diverse group using assistive technology, they identified key habits, such as a preference for familiar sites and mobile formats. The study confirmed the importance of clear headings, specific link descriptions, and matching accessible names with on-screen text. They emphasized using ARIA labels to improve navigation for assistive technology users. The findings will guide future improvements in product design and enhance government service accessibility for all users.

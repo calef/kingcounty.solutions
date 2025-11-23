@@ -16,8 +16,7 @@ topics:
 - Shelter & Housing
 - Food & Nutrition
 - Employment & Job Support
-images:
-- dc111a70984a9eda00752b06277113029ef288f1125c31eff2477413e15e8aa4
+images: []
 ---
 
 A new benefits experience is set to launch on USAGov this fall, replacing Benefits.gov, which will sunset at the end of September 2024. This transition aims to centralize government benefits information and enhance user experience on both USA.gov and USAGov en Español. By employing a data-driven content strategy, the initiative will simplify access to resources related to health care, housing, food, unemployment, and more, making USAGov the primary source for government benefits information. Further updates will be provided as the transition date approaches.

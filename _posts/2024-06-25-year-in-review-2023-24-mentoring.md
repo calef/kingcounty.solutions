@@ -25,6 +25,7 @@ summarized: true
 topics:
 - Education & Learning
 - Employment & Job Support
+images: []
 ---
 
 The Empower Youth Network's Youth Success Mentoring (YSM) program experienced significant growth and success during the 2023-24 school year. YSM mentors held nearly 4,500 one-on-one meetings with students, providing support through activities like games, crafts, and STEM kit explorations. The program served 166 students in the Riverview and Snoqualmie Valley School Districts. One parent praised the transformative effect of a mentor on their child. The program saw a 32% increase in mentoring from the 2022-23 to the 2023-24 school years, with a projected growth of 43% for the next school year. YSM was also recognized as a key partner with the National Quality Mentoring System.

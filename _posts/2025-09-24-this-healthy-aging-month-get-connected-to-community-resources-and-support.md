@@ -3,22 +3,15 @@ title: This Healthy Aging Month, get connected to community resources and suppor
 date: '2025-09-24T21:53:36+00:00'
 source: Seattle Human Services Department
 source_url: https://humaninterests.seattle.gov/2025/09/24/this-healthy-aging-month-get-connected-to-community-resources-and-support/
-original_content: September is Healthy Aging Month, an opportunity to raise awareness
-  about the unique needs of older adults and their caregivers. Across the nation,
-  the number of people aged 65 and older has grown nearly five times faster than the
-  general population in recent years, and 1 in 6 people in the U.S. are now 65+. 
-  [&#8230;]
-original_markdown_body: September is Healthy Aging Month, an opportunity to raise
-  awareness about the unique needs of older adults and their caregivers. Across the
-  nation, the number of people aged 65 and older has grown nearly five times faster
-  than the general population in recent years, and 1 in 6 people in the U.S. are now
-  65+.&nbsp; […]
+original_content: September is Healthy Aging Month, an opportunity to raise awareness about the unique needs of older adults and their caregivers. Across the nation, the number of people aged 65 and older has grown nearly five times faster than the general population in recent years, and 1 in 6 people in the U.S. are now 65+.  [&#8230;]
+original_markdown_body: September is Healthy Aging Month, an opportunity to raise awareness about the unique needs of older adults and their caregivers. Across the nation, the number of people aged 65 and older has grown nearly five times faster than the general population in recent years, and 1 in 6 people in the U.S. are now 65+.&nbsp; […]
 summarized: true
 topics:
 - Disabilities
 - Health Care
 - Mental Health & Counseling
 - Transportation & Mobility
+images: []
 ---
 
 September is designated as Healthy Aging Month, focusing on the needs of older adults and their caregivers. The Aging and Disability Services (ADS) division in Seattle addresses these needs by providing various long-term services and supports. The Community Living Connections (CLC) hotline offers confidential assistance to older adults and caregivers, helping them access resources such as health services and transportation. In 2024, CLC assisted over 20,000 individuals.

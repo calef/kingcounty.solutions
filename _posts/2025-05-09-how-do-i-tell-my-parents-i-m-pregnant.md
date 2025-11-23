@@ -214,6 +214,7 @@ topics:
 - Mental Health & Counseling
 - Financial Assistance
 - Health Care
+images: []
 ---
 
 Breaking the news of an unexpected pregnancy to parents can be daunting. First, process the news personally, identifying your emotions and future plans. Seek support from a partner or trusted friend to practice what to say. Choose an appropriate time and place for the discussion, ensuring your parents can focus. Start the conversation by expressing your feelings and the need for their support. 

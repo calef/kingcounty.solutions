@@ -14,6 +14,7 @@ summarized: true
 topics:
 - Employment & Job Support
 - Education & Learning
+images: []
 ---
 
 Juma Ventures expresses gratitude for the support received this quarter, which greatly impacts the youth involved in their programs. This funding enables young individuals to achieve personal and social transformation through income generation, skill development, and financial literacy. Notable supporters include the Sacramento Kings, Tulalip Tribes Charitable Contributions Fund, The Medina Foundation, TJX Foundation, M.J. Murdock Charitable Trust, and various individuals such as Skip Folds, Jane Thornton, and Michael and Tory Winnick. Other contributors include well-known organizations like Deloitte, the Golden State Warriors, and Southwest Airlines. Juma Ventures emphasizes that this financial backing is essential for empowering youth to build a better future.

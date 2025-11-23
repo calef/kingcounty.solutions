@@ -19,6 +19,7 @@ original_markdown_body: |-
 summarized: true
 topics:
 - Shelter & Housing
+images: []
 ---
 
 Lake City Seniors will remain closed during the week of July 7 due to a recent safety incident. This closure allows the team to evaluate the situation and ensure the safety of everyone involved. The center plans to reopen for programming on Monday, July 14, and will provide updates if there are any changes to this schedule. The organization emphasizes the importance of community support and prioritizes the safety of its members.

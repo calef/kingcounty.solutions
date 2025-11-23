@@ -41,6 +41,7 @@ summarized: true
 topics:
 - Education & Learning
 - Employment & Job Support
+images: []
 ---
 
 The 211 service offers assistance to individuals struggling to navigate the legal system due to a language barrier. When you call 211, you can request a translator in your preferred language. The service does not provide legal advice, but connects you to resources that can help you. Relevant information about your situation and legal goals are necessary to get the most out of the call. The service also supports recent immigrants and asylum seekers with information about work permits, direct benefits, and more. It urges users to reach out early as legal processes take time.

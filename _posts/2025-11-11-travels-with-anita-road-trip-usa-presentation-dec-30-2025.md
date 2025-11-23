@@ -16,6 +16,7 @@ original_markdown_body: |-
 summarized: true
 topics: []
 published: false
+images: []
 ---
 
 Anita's presentation, "Travels with Anita - Road Trip USA," recounts her adventurous cross-country journey taken in June 2021. Covering 16 states and 9 national parks and monuments, the trip showcases a variety of scenic landscapes and quirky roadside attractions, embodying the spirit of Americana. Anita shares her experiences, emphasizing her humor and curiosity as she explores charming small towns and indulges in local flavors. Each destination offers a unique snapshot of discovery, whether through reconnecting with nature or enjoying the simple pleasure of traveling. The presentation highlights the joy of the open road and the personal reflections that accompany such a spirited adventure.

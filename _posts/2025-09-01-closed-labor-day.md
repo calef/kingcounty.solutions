@@ -13,6 +13,7 @@ original_markdown_body: |-
 summarized: true
 topics: []
 published: false
+images: []
 ---
 
 Husky Health Center will be closed on Monday, September 1st, in observance of Labor Day. Regular business hours will resume on Tuesday, September 2nd.

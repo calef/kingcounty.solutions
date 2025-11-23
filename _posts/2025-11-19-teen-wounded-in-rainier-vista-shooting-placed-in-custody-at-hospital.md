@@ -3,17 +3,12 @@ title: Teen Wounded in Rainier Vista Shooting, Placed in Custody at Hospital
 date: '2025-11-19T16:02:00+00:00'
 source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/11/19/teen-wounded-in-rainier-vista-shooting-placed-in-custody-at-hospital/
-original_content: Seattle police detectives are investigating a shooting Tuesday evening
-  in the Rainier Vista neighborhood that left a 17-year-old boy seriously injured
-  and later placed into custody on unrelated robbery charges. At 7:10 p.m., dispatchers
-  received report...
-original_markdown_body: Seattle police detectives are investigating a shooting Tuesday
-  evening in the Rainier Vista neighborhood that left a 17-year-old boy seriously
-  injured and later placed into custody on unrelated robbery charges. At 7:10 p.m.,
-  dispatchers received report...
+original_content: Seattle police detectives are investigating a shooting Tuesday evening in the Rainier Vista neighborhood that left a 17-year-old boy seriously injured and later placed into custody on unrelated robbery charges. At 7:10 p.m., dispatchers received report...
+original_markdown_body: Seattle police detectives are investigating a shooting Tuesday evening in the Rainier Vista neighborhood that left a 17-year-old boy seriously injured and later placed into custody on unrelated robbery charges. At 7:10 p.m., dispatchers received report...
 summarized: true
 topics: []
 published: false
+images: []
 ---
 
 Seattle police are investigating a shooting that occurred in the Rainier Vista neighborhood on November 18, 2025, which left a 17-year-old boy seriously injured. At approximately 7:10 p.m., officers responded to reports of gunfire at 30th Avenue South and South Adams Street and found the teen with gunshot wounds to his back. He received medical aid from police until Seattle Fire Department medics arrived, who then transported him to Harborview Medical Center in serious condition.

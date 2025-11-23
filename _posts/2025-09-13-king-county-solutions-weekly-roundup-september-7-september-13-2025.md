@@ -7,6 +7,7 @@ topics:
 - Mental Health & Counseling
 - Health Care
 - Education & Learning
+images: []
 ---
 
 This week, King County Solutions published four important posts, focusing on resources for older adults and mental health awareness. These updates are particularly relevant as we continue to address the needs of our community, especially during September, which is recognized for both Falls Prevention Awareness and Suicide Prevention Month.

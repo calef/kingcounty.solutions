@@ -279,6 +279,7 @@ topics:
 - Education & Learning
 - Health Care
 - Mental Health & Counseling
+images: []
 ---
 
 Pregnancy can be an overwhelming surprise, raising numerous questions about next steps. Understanding how far along you are can be achieved through tracking ovulation or a viability ultrasound, which can confirm gestational age and pregnancy viability. If you’re uncertain about the father’s identity, paternity testing is an option. Communicating the news to your partner requires honesty and openness, allowing both parties to process their feelings. Telling family members can be nerve-wracking, especially for students, but preparation and support can help ease the conversation.

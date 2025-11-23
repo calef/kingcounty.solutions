@@ -14,6 +14,7 @@ original_content: |-
 summarized: true
 topics: []
 published: false
+images: []
 ---
 
 **A Happy Reunion One Year Later**

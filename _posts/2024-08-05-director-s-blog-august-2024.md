@@ -29,6 +29,7 @@ summarized: true
 topics:
 - Education & Learning
 - Food & Nutrition
+images: []
 ---
 
 The King County Library System (KCLS) has experienced a 250% increase in the use of its 24/7 lockers compared to the previous year, with 31,637 checkouts recorded. The Summer Reading initiative has seen 4,319 finishers, indicating a strong preference for both physical and digital books among patrons. The library is promoting the therapeutic benefits of reading in an upcoming "Bibliotherapy in Libraries Summit." Free Seattle Storm tickets are available for youth participants in the Summer Reading program. The Summer Meals initiative, offering free lunches, continues until August 30. The library's Author Voices series features NYT best-selling author Emiko Jean this month.

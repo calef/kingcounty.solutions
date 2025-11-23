@@ -84,57 +84,13 @@ original_content: |-
 
   <p>We look forward to seeing everyone at the program! For more information on our programming, calendar, and lunch menu, please follow the links to the right of the page.</p>
   <p>The post <a href="https://lakecityseniors.org/september-2025-update/">September 2025 Update</a> appeared first on <a href="https://lakecityseniors.org">Lake City Seniors</a>.</p>
-original_markdown_body: "**What is a tree’s least favorite month?**  \n**Sep-timber!**
-  \ \n  \n**John will be out of office on Friday September 12th. There will be no
-  tech help and no tech 101 class that day.**  \n  \nA reminder that we will not hold
-  any programming on **Monday, September 1st** in observation of Labor Day. There
-  will also be no meals served so please plan accordingly.  \n  \nOn **October 8<sup>th</sup>**
-  we will have a Medicare/Medicaid expert at the center to answer your questions.
-  If you have any specific questions that you would like to discuss during the presentation,
-  please let Syl know ahead of time to make sure we cover that topic. You can reach
-  him at 206-268-6707.  \n  \nHere’s a look at the programming we have going on this
-  month:\n\n- On **September 10<sup>th</sup> and September 24<sup>th</sup> at 1:00pm**
-  join our social worker, Syl, for Roundtable Conversations. In these social roundtables,
-  he will lead you through light, thought-provoking conversations designed to spark
-  reflection and build new friendships. Each session starts with a fun icebreaker,
-  followed by a relaxed discussion around a broad topic relevant to our lives and
-  experiences. Whether you’re a regular or new to the center, Roundtable Conversations
-  is a space to engage, listen, and share with fellow community members you may not
-  usually get to know. Everyone is welcome! This month’s topics will be: **“What’s
-  you favorite movie and why?”** and **“What’s a time that truly felt proud of an
-  accomplishment?”**\n- John will teach three tech 101 classes in September.\n  -
-  **Friday September 5th at 10am** : Digital Privacy Basics – Learn about online privacy
-  and how to better protect your personal information.\n  - **Friday September 19th
-  at 10am:** Privacy Settings 101 – Learn about settings available on your smartphone
-  or computer to help protect your privacy. We will discuss how websites and your
-  phone might track you and what you can do about it.\n  - **Friday September 26th
-  at 10am:** AI & Privacy Basics – Learn about AI on your devices and how to manage
-  what data they have access to.\n\n- On&nbsp; **Monday, September 8th** at 1:30pm
-  King County Metro will be tabling at our program. The King County Metro team will
-  answer your questions over Metro Services and provide assistance with:\n  - Getting
-  a new Senior and Disabled Regional Reduced Fare Permit (RRFPs).\n  - Replace lost
-  or damaged cards.\n  - Adding fare products and value to existing ORCA cards.\n\n-
-  On **Monday, September 15<sup>th</sup>** Humana will hold a Fall prevention Seminar.\n-
-  On **Monday, September 22nd at 1:30pm** the Pro Bono Council will hold a **Legal
-  Planning Presentation** to answer your legal planning questions. This presentation
-  will cover the standard advanced legal planning documents that everyone should have
-  in place and Information on how to connect with an attorney for free though our
-  program for legal help completing power of attorney and advance directive documents.
-  No appointment is required.\n- Birds Eye Medical will be providing health screenings
-  on **Friday, September 26<sup>th</sup> from 10:30am-2:00pm.** These screenings will
-  be walk-in only. Patients will be seen on a first come, first served basis. **Insurance
-  is not required.** The following services will be available:\n  - Blood pressure
-  and visions screenings\n  - Blood glucose screenings\n  - A1C testing\n  - BMI and
-  Telehealth\n  - Mental Health screenings\n  - Health and Vaccine Education\n\nWe
-  look forward to seeing everyone at the program! For more information on our programming,
-  calendar, and lunch menu, please follow the links to the right of the page.\n\nThe
-  post [September 2025 Update](https://lakecityseniors.org/september-2025-update/)
-  appeared first on [Lake City Seniors](https://lakecityseniors.org)."
+original_markdown_body: "**What is a tree’s least favorite month?**  \n**Sep-timber!**  \n  \n**John will be out of office on Friday September 12th. There will be no tech help and no tech 101 class that day.**  \n  \nA reminder that we will not hold any programming on **Monday, September 1st** in observation of Labor Day. There will also be no meals served so please plan accordingly.  \n  \nOn **October 8<sup>th</sup>** we will have a Medicare/Medicaid expert at the center to answer your questions. If you have any specific questions that you would like to discuss during the presentation, please let Syl know ahead of time to make sure we cover that topic. You can reach him at 206-268-6707.  \n  \nHere’s a look at the programming we have going on this month:\n\n- On **September 10<sup>th</sup> and September 24<sup>th</sup> at 1:00pm** join our social worker, Syl, for Roundtable Conversations. In these social roundtables, he will lead you through light, thought-provoking conversations designed to spark reflection and build new friendships. Each session starts with a fun icebreaker, followed by a relaxed discussion around a broad topic relevant to our lives and experiences. Whether you’re a regular or new to the center, Roundtable Conversations is a space to engage, listen, and share with fellow community members you may not usually get to know. Everyone is welcome! This month’s topics will be: **“What’s you favorite movie and why?”** and **“What’s a time that truly felt proud of an accomplishment?”**\n- John will teach three tech 101 classes in September.\n  - **Friday September 5th at 10am** : Digital Privacy Basics – Learn about online privacy and how to better protect your personal information.\n  - **Friday September 19th at 10am:** Privacy Settings 101 – Learn about settings available on your smartphone or computer to help protect your privacy. We will discuss how websites and your phone might track you and what you can do about it.\n  - **Friday September 26th at 10am:** AI & Privacy Basics – Learn about AI on your devices and how to manage what data they have access to.\n\n- On&nbsp; **Monday, September 8th** at 1:30pm King County Metro will be tabling at our program. The King County Metro team will answer your questions over Metro Services and provide assistance with:\n  - Getting a new Senior and Disabled Regional Reduced Fare Permit (RRFPs).\n  - Replace lost or damaged cards.\n  - Adding fare products and value to existing ORCA cards.\n\n- On **Monday, September 15<sup>th</sup>** Humana will hold a Fall prevention Seminar.\n- On **Monday, September 22nd at 1:30pm** the Pro Bono Council will hold a **Legal Planning Presentation** to answer your legal planning questions. This presentation will cover the standard advanced legal planning documents that everyone should have in place and Information on how to connect with an attorney for free though our program for legal help completing power of attorney and advance directive documents. No appointment is required.\n- Birds Eye Medical will be providing health screenings on **Friday, September 26<sup>th</sup> from 10:30am-2:00pm.** These screenings will be walk-in only. Patients will be seen on a first come, first served basis. **Insurance is not required.** The following services will be available:\n  - Blood pressure and visions screenings\n  - Blood glucose screenings\n  - A1C testing\n  - BMI and Telehealth\n  - Mental Health screenings\n  - Health and Vaccine Education\n\nWe look forward to seeing everyone at the program! For more information on our programming, calendar, and lunch menu, please follow the links to the right of the page.\n\nThe post [September 2025 Update](https://lakecityseniors.org/september-2025-update/) appeared first on [Lake City Seniors](https://lakecityseniors.org)."
 summarized: true
 topics:
 - Education & Learning
 - Health Care
 - Disabilities
+images: []
 ---
 
 John will be out of the office on September 12, and there will be no tech help or Tech 101 classes that day. No programming will be held on Labor Day, September 1, and no meals will be served. On October 8, a Medicare/Medicaid expert will be available to answer questions. Roundtable Conversations, led by social worker Syl, will take place on September 10 and 24 at 1:00 PM, focusing on topics like favorite movies and personal accomplishments.

@@ -3,19 +3,12 @@ title: "‘Giving Flowers’ event honors domestic violence survivors and advoca
 date: '2025-10-31T15:46:07+00:00'
 source: Seattle Human Services Department
 source_url: https://humaninterests.seattle.gov/2025/10/31/giving-flowers-event-honors-domestic-violence-survivors-and-advocates/
-original_content: Approximately 200 people gathered at Seattle City Hall on Oct. 28
-  to commemorate Domestic Violence Awareness Month and honor survivors of gender-based
-  violence, as well as service providers and advocates.   Titled “Giving Flowers,”
-  the event focused on cultivating healing and lifting up stories of resilience. It
-  was hosted by the Human Service Department (HSD)’s Mayor’s [&#8230;]
-original_markdown_body: Approximately 200 people gathered at Seattle City Hall on
-  Oct. 28 to commemorate Domestic Violence Awareness Month and honor survivors of
-  gender-based violence, as well as service providers and advocates.&nbsp;&nbsp; Titled
-  “Giving Flowers,” the event focused on cultivating healing and lifting up stories
-  of resilience. It was hosted by the Human Service Department (HSD)’s Mayor’s […]
+original_content: Approximately 200 people gathered at Seattle City Hall on Oct. 28 to commemorate Domestic Violence Awareness Month and honor survivors of gender-based violence, as well as service providers and advocates.   Titled “Giving Flowers,” the event focused on cultivating healing and lifting up stories of resilience. It was hosted by the Human Service Department (HSD)’s Mayor’s [&#8230;]
+original_markdown_body: Approximately 200 people gathered at Seattle City Hall on Oct. 28 to commemorate Domestic Violence Awareness Month and honor survivors of gender-based violence, as well as service providers and advocates.&nbsp;&nbsp; Titled “Giving Flowers,” the event focused on cultivating healing and lifting up stories of resilience. It was hosted by the Human Service Department (HSD)’s Mayor’s […]
 summarized: true
 topics:
 - Domestic Violence
+images: []
 ---
 
 Approximately 200 individuals gathered at Seattle City Hall on October 28 to honor Domestic Violence Awareness Month during the “Giving Flowers” event. Hosted by the Human Services Department’s Mayor’s Office on Sexual Assault and Domestic Violence and the Seattle Women’s Commission, the event aimed to cultivate healing and celebrate resilience among survivors of gender-based violence and their advocates. Attendees received long-stemmed roses symbolizing their support for survivors, while artwork highlighted the healing journey. A collective timeline was created, marking significant initiatives addressing gender-based violence.

@@ -91,6 +91,7 @@ original_markdown_body: |-
 summarized: true
 topics:
 - Mental Health & Counseling
+images: []
 ---
 
 Movies and media have perpetuated several myths about inpatient depression treatment, which have changed significantly over the past 40 years. 

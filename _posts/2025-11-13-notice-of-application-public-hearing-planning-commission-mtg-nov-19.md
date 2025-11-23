@@ -14,6 +14,7 @@ original_markdown_body: |-
 summarized: true
 topics: []
 published: false
+images: []
 ---
 
 The City of Mercer Island will hold a public hearing on November 19, 2025, at 6:00 PM regarding an application for a reclassification of two city-owned properties from Commercial Office and Single-Family Residential to Public Institution. The properties, located at 9601 and 9611 SE 36th St, are intended for public services and will support the construction of a new Public Safety and Maintenance Facility. Written comments can be submitted via email or in person until the public hearing concludes. The hearing will be accessible both in-person and via Zoom.

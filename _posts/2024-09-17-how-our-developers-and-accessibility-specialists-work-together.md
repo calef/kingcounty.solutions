@@ -13,6 +13,7 @@ original_markdown_body: |-
 summarized: true
 topics: []
 published: false
+images: []
 ---
 
 Ensuring accessibility for USA.gov and USAGov en Español is a priority, with developers and accessibility specialists collaborating from project inception. This approach minimizes rework and delays. Accessibility experts guide developers on compliance with standards like WCAG and Section 508. They employ shared tools for designing and testing, including manual and automated evaluations to identify and address accessibility issues early. The teams work in sprints, refining tasks and maintaining communication to streamline development. Regular retrospectives foster continuous improvement, enhancing the collaborative relationship and ensuring government information remains accessible to all users.

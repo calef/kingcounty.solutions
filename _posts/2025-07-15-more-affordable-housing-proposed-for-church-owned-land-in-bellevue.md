@@ -13,6 +13,7 @@ original_markdown_body: |-
 summarized: true
 topics:
 - Shelter & Housing
+images: []
 ---
 
 St. Peter’s Methodist Church, in collaboration with Imagine Housing, is proposing to develop a 108-unit multifamily community on its 4.6-acre property located in Bellevue’s Crossroads neighborhood. This initiative is aimed at addressing the need for affordable housing in the area. The project highlights the potential of faith-owned land to contribute to community development and housing solutions. Further details about the proposal can be found in an article from the Daily Journal of Commerce.

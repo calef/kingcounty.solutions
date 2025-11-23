@@ -90,6 +90,7 @@ topics:
 - Food & Nutrition
 - Health Care
 - Mental Health & Counseling
+images: []
 ---
 
 Eating a brain-friendly diet is essential for reducing the risk of dementia. Recommended foods include nuts, berries, leafy greens, fish, healthy fats, and whole grains, while limiting butter, fried foods, red meat, and sweets. The Mediterranean and MIND diets are noted for their brain health benefits, as those who follow these diets often experience lower cognitive decline and delayed dementia onset. Colorful berries, rich in anthocyanins, and nuts, packed with healthy fats and polyphenols, are particularly beneficial. However, a consistent overall healthy eating pattern is more effective than occasional good choices. Variety in diet supports a healthy gut microbiome, crucial for brain health.

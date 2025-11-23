@@ -13,6 +13,7 @@ original_markdown_body: |-
 summarized: true
 topics:
 - Shelter & Housing
+images: []
 ---
 
 Imagine Housing emphasizes the significance of ethical storytelling in their work. They recognize that the personal narratives shared by residents reflect profound journeys marked by challenges, resilience, and transformation. Therefore, they approach these stories with great care, ensuring the dignity and privacy of individuals are respected. While these narratives can drive change and foster empathy, Imagine Housing balances the need to share impactful stories with the potential risks of exploitation.

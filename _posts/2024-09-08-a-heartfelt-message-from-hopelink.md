@@ -32,6 +32,7 @@ summarized: true
 topics:
 - Financial Assistance
 - Employment & Job Support
+images: []
 ---
 
 Hopelink, a non-profit organization, announced the passing of its CEO, Geoff Crump. Known for his dedication to serving the community, he spent over 20 years fighting poverty. He began his tenure with Hopelink in 2004, eventually becoming CEO. Under his leadership, Hopelink expanded its services, reaching hundreds of thousands of people. The Hopelink community mourns his loss and remembers him for his dedication to ending poverty and advocating for his staff. Chief Operating Officer Meghan Altimore has been appointed as Interim CEO. The organization continues to provide services and support for its staff during this grieving period.

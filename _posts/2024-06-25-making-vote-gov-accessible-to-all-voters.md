@@ -20,7 +20,6 @@ topics:
 - Education & Learning
 images:
 - 3a02a462049b841c902eb9580484a1ec613cadcd3ef179ceaec0183657d2b581
-- dc111a70984a9eda00752b06277113029ef288f1125c31eff2477413e15e8aa4
 ---
 
 Federal laws protect voting rights for people with disabilities, yet barriers persist, resulting in lower voting rates. After the 2022 midterms, the Election Assistance Commission reported that if disabled voters had participated at the same rate as others, 2 million more votes could have been cast. To enhance accessibility, vote.gov is improving its website design, including screen reader compatibility and a digital form filler tool for voter registration. Collaboration with disability advocacy groups and ongoing user testing will continue to inform these developments, ensuring all voters can access their voting rights and options effectively.

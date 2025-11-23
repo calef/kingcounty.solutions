@@ -206,6 +206,7 @@ original_markdown_body: |-
 summarized: true
 topics: []
 published: false
+images: []
 ---
 
 The Snoqualmie Tribe has announced the distribution of tickets for the PWHL and Seattle U basketball games at Climate Pledge Arena. Tickets will be sent electronically to the email addresses on file and require a Ticketmaster account for access. Tribal members who are unable to attend their games are encouraged to notify the Tribe via email.

@@ -100,6 +100,7 @@ summarized: true
 topics:
 - Shelter & Housing
 - Employment & Job Support
+images: []
 ---
 
 Compass Housing Alliance's emergency services case managers play a crucial role in supporting guests as they work towards achieving their goals, which includes securing permanent housing and overcoming barriers. Their assistance encompasses various forms, such as helping with housing searches and obtaining essential documents, all while ensuring that each individual is treated with dignity and respect. Case managers operate across multiple emergency programs, collaborating closely with the King County Regional Homelessness Authority and the King County Veterans Program to provide specialized support.

@@ -14,6 +14,7 @@ summarized: true
 topics:
 - Disabilities
 - Education & Learning
+images: []
 ---
 
 Juma is committed to fostering an inclusive culture by creating safe and affirming environments for both its youth and staff. Recently, staff from various locations engaged in discussions about the significance of language in promoting inclusivity. This initiative began with conversations aimed at examining terminology used to describe Juma youth and their circumstances. Recognizing the diverse backgrounds and experiences of their staff, many of whom are former Juma youth, the organization sought to develop a more dynamic resource than a traditional glossary. 

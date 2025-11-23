@@ -15,6 +15,7 @@ topics:
 - Shelter & Housing
 - Mental Health & Counseling
 - Financial Assistance
+images: []
 ---
 
 Individuals and families experiencing homelessness have diverse backgrounds and unique needs that require varied solutions. The 2024 Point-in-Time Count in King County indicated that 16,868 individuals were homeless, including 3,701 from family units. Among these individuals, 47% faced substance use disorders and 37% had serious mental illnesses. Addressing the complexities of homelessness necessitates a range of resources.

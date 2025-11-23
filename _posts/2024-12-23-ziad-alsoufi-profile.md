@@ -13,6 +13,7 @@ original_markdown_body: |-
 summarized: true
 topics:
 - Health Care
+images: []
 ---
 
 Ziad is a neurologist and Section Chief in the Neuroscience Department at a local healthcare system, as well as an Assistant Clinical Professor at the University of Washington. He was recently recognized as a “Seattle Met Top Doctor for 2024.” Originally from Lebanon, Ziad lives with his wife, Moni Kraitem, and their three children: Tarek, Waseem, and Celine. Outside of his professional commitments, he enjoys hiking with his family, socializing with friends, and traveling to new destinations. Ziad has been an active member of the MAPS community for 11 years, where he has volunteered with the MCRC, participated in medical education programs, and contributed to Fajr khateeras. His involvement has allowed him to forge strong community ties and gain insights into the needs and aspirations of its members.

@@ -31,6 +31,7 @@ original_markdown_body: |-
 summarized: true
 topics: []
 published: false
+images: []
 ---
 
 Samaritan board member and retired therapist, Peggy Hansen, presents reflective questions inspired by ancient wisdom. She invites readers to contemplate four simple descriptions of wise behavior and encourages personal introspection by asking what advice they would give themselves today. The piece emphasizes connecting past learnings and beliefs with current insights, prompting individuals to explore their own guiding principles. Additionally, it references "The Four Agreements" and other works by don Miguel Ruiz, suggesting a further exploration of these themes in personal development.

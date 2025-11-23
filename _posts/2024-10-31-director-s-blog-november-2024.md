@@ -36,6 +36,7 @@ original_content: |-
 summarized: true
 topics:
 - Education & Learning
+images: []
 ---
 
 The King County Library System (KCLS) will hold a public budget hearing on November 20, reflecting its commitment to fiscal stewardship and public accountability. KCLS has retired a $172 million capital bond, approved in 2004, which funded new and remodeled libraries. The system will close for Veterans Day on November 11, with a program of events scheduled for November 9. KCLS will also celebrate family caregivers and Indigenous communities in November, with curated reading lists and a range of programs. The system offers resources for parents and caregivers of young children, and promotes the therapeutic use of reading.

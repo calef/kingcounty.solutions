@@ -91,6 +91,7 @@ original_markdown_body: |-
 summarized: true
 topics:
 - Mental Health & Counseling
+images: []
 ---
 
 Anxiety can be overwhelming, disrupting daily life with constant worry, panic attacks, and physical symptoms. Learning to manage anxiety is crucial, especially since avoiding triggers isn't feasible. The IMPROVE skill from Dialectical Behavior Therapy (DBT) is a valuable tool for coping with anxiety when it feels unbearable. Each letter in IMPROVE represents a strategy to create space, soothe the nervous system, and shift perspective.

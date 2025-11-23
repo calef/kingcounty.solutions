@@ -20,6 +20,7 @@ original_markdown_body: |-
 summarized: true
 topics:
 - Employment & Job Support
+images: []
 ---
 
 Hospitality House South King is seeking a Program Office Assistant. Interested candidates should share the job description with potential applicants. Resumes, without cover letters, should be submitted to olivia@hospitalityhousesouthking.org, ensuring to include “Program Office Assistant” in the subject line.

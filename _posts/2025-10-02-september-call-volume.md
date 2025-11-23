@@ -10,6 +10,7 @@ original_content: |-
 summarized: true
 topics: []
 published: false
+images: []
 ---
 
 In September, the Valley Regional Fire Authority (VRFA) responded to 1,305 calls for service, averaging 42.1 emergency calls per day. The majority of these calls, 84%, were for emergency medical aid.

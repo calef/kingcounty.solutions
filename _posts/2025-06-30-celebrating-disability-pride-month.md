@@ -16,6 +16,7 @@ original_markdown_body: |-
 summarized: true
 topics:
 - Disabilities
+images: []
 ---
 
 July is recognized as Disability Pride Month, a period dedicated to celebrating the history, achievements, and contributions of individuals with disabilities, while emphasizing the importance of inclusion and accessibility. This observance serves as a reminder that disability is a natural part of human diversity. More than 70 million adults in the U.S. live with a disability, and this month advocates for their acceptance and recognition.

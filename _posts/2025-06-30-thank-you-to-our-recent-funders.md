@@ -15,6 +15,7 @@ topics:
 - Employment & Job Support
 - Education & Learning
 - Financial Assistance
+images: []
 ---
 
 Juma Ventures expresses gratitude for the generous support received in the recent quarter. This funding enables youth to achieve personal and social transformation through income generation, career skill development, and financial literacy. Key supporters mentioned include SAFE Credit Union, NBA Foundation, eBay, T-Mobile Foundation, Sacramento Municipal Utility District (SMUD), Torani, Dodge & Cox, Andrea Coen, Annie E. Casey Foundation, Tipping Point Community, Golden 1 Credit Union, San Francisco Giants, Deloitte, Jason Pearl, and BECU. This collective support plays a crucial role in empowering the youth served by Juma.

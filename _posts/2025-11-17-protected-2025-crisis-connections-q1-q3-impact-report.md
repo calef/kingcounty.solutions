@@ -21,6 +21,7 @@ summarized: true
 topics:
 - Mental Health & Counseling
 - Domestic Violence
+images: []
 ---
 
 The 2025 Crisis Connections Q1-Q3 Impact Report highlights the organization's range of services, including a 24-hour crisis line, suicide prevention programs, and legal support in various languages. It emphasizes the broader aspects of suicide prevention and introduces the Bridger Program. The report aims to inform the public about available resources and encourages individuals to seek help through text alerts and other communication channels. Access to the full report requires a password.

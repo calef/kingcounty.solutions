@@ -97,6 +97,7 @@ original_markdown_body: |-
 summarized: true
 topics:
 - Health Care
+images: []
 ---
 
 A Grays Harbor County resident has preliminarily tested positive for avian influenza, marking a potential first human case in Washington for 2025. The individual, an older adult with underlying health issues, was hospitalized with symptoms including high fever and respiratory distress. Confirmatory testing is ongoing. Public health officials are investigating possible sources of infection, primarily contact with birds. The CDC considers the public risk low, but individuals in close contact with birds are advised to take precautions. Monitoring of close contacts is underway to prevent any potential spread.

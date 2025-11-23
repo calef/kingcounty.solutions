@@ -86,6 +86,7 @@ summarized: true
 topics:
 - Mental Health & Counseling
 - Education & Learning
+images: []
 ---
 
 Supporting teen mental health is crucial, as 78% of teens report signs of moderate to severe depression. A comprehensive approach to treatment involves three key steps. 

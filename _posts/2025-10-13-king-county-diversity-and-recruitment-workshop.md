@@ -12,6 +12,7 @@ original_content: |-
 summarized: true
 topics:
 - Employment & Job Support
+images: []
 ---
 
 **King County Diversity and Recruitment Workshop**

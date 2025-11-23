@@ -20,6 +20,7 @@ original_markdown_body: |-
 summarized: true
 topics: []
 published: false
+images: []
 ---
 
 Join the Holiday Afternoon Tea on December 9, 2025, to enjoy tea and snacks while learning about British holiday traditions. The event will feature scones with clotted cream and jam, finger sandwiches, and plenty of tea. Participants are encouraged to bring their favorite fun teapots or cups to showcase. RSVPs are required, with a cost of $4 for members and $6 for non-members.

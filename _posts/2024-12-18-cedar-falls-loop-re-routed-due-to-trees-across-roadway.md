@@ -31,6 +31,7 @@ original_markdown_body: |-
 summarized: true
 topics:
 - Transportation & Mobility
+images: []
 ---
 
 Cedar Falls Loop Bus Service is currently unable to access Wilderness Rim due to downed trees blocking Cedar Falls Road SE, located between Riverbend and Wilderness Rim. The service will resume once the road is cleared and reopens. In the meantime, Demand Response transportation via the Uplands may still be available for those in need. Riders can call 425-888-7001 for further information and ride requests.

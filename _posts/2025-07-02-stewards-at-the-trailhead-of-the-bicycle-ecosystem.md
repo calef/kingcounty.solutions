@@ -23,6 +23,7 @@ original_markdown_body: |-
 summarized: true
 topics: []
 published: false
+images: []
 ---
 
 Preventing bicycles from entering the waste stream is viewed as common sense rather than merely environmentalism. The Recycle & Reuse department at Bike Works has been recognized with a Green Globe award from King County Natural Resources and Parks for their efforts in this area, processing over 5,000 bicycles in 2024. However, this effort is small compared to the global bicycle industry, which produces 55,000 bikes daily. Major bicycle companies prioritize minor enhancements in performance and weight, transforming bicycles from durable machines into disposable commodities. The article questions the longevity of modern bikes, especially eBikes, and emphasizes the challenges in maintaining complex systems over time. 

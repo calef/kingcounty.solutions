@@ -27,6 +27,7 @@ original_markdown_body: |-
 summarized: true
 topics: []
 published: false
+images: []
 ---
 
 A new task force is being formed to create a Land Acknowledgement for the congregation and to plan future steps. Individuals interested in participating are encouraged to sign up. The initiative aims to engage the community in recognizing the land's history and its significance.

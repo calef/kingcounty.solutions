@@ -1,6 +1,5 @@
 ---
-title: " South Coast-Area Pilot Helps Patients Reach Lifesaving Care and Earns National
-  Recognition"
+title: " South Coast-Area Pilot Helps Patients Reach Lifesaving Care and Earns National Recognition"
 date: '2025-08-08T20:51:22+00:00'
 source: Angel Flight West
 source_url: https://angelflightwest.org/news/south-coast-area-pilot-helps-patients-reach-lifesaving-care-and-earns-national-recognition/
@@ -114,6 +113,7 @@ summarized: true
 topics:
 - Health Care
 - Transportation & Mobility
+images: []
 ---
 
 Jeff Moorhouse, a financial advisor from Ventura, California, has been recognized as one of three national finalists for the 2025 Invest in Others Volunteer of the Year Award. This honor acknowledges his significant contributions to Angel Flight West, a nonprofit that provides free air transportation for patients needing critical medical care. Since joining in 2016, Moorhouse has completed 62 missions, helping patients access essential medical appointments, particularly for cancer treatments. 

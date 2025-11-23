@@ -172,6 +172,7 @@ summarized: true
 topics:
 - Mental Health & Counseling
 - Education & Learning
+images: []
 ---
 
 Teens face significant pressures that can lead to self-harm, a concerning behavior in adolescent mental health. Self-harm often serves to express inner pain or distract from emotional distress. Factors contributing to self-harm include school pressures, traumatic life events, social issues, low self-esteem, and body image concerns. 

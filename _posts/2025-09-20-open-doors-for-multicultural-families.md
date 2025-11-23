@@ -20,6 +20,7 @@ topics:
 - Disabilities
 - Education & Learning
 - Shelter & Housing
+images: []
 ---
 
 For 16 years, ODMF has provided services to families and individuals with intellectual and developmental disabilities from various communities. The ODMF Family Resource Center offers resources, services, and programs in 23 languages. They are leading the development of The Multicultural Village at the Sound Transit Kent/Des Moines TOD Site. This will feature residential studios to 4-bedroom units, with 20% reserved for people with disabilities and their families. The village will also have an Inclusive Early Learning Center for 96 children, catering to those with and without disabilities.

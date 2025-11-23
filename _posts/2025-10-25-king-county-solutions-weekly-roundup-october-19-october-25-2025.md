@@ -7,6 +7,7 @@ topics:
 - Shelter & Housing
 - Health Care
 - Transportation & Mobility
+images: []
 ---
 
 This week, King County Solutions published 11 posts highlighting critical updates across various sectors, including housing, healthcare, public health, and transportation. As we approach the end of October, these updates are particularly significant in addressing ongoing community needs and enhancing public safety.

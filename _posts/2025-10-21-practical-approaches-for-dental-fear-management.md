@@ -122,6 +122,7 @@ summarized: true
 topics:
 - Health Care
 - Mental Health & Counseling
+images: []
 ---
 
 Dental fear is a prevalent issue that causes many patients to avoid or delay necessary treatment, leading to adverse oral, systemic, and mental health outcomes. A course is available that addresses this issue, focusing on understanding the causes and consequences of dental fear. Participants will learn to define dental fear, recognize its prevalence, and identify approaches for assessing patients experiencing such fear. The course also covers practical management techniques to be applied in the dental clinic, allowing practitioners to support fearful patients effectively. 

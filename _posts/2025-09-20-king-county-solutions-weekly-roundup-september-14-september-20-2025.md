@@ -8,6 +8,7 @@ topics:
 - Domestic Violence
 - Food & Nutrition
 - Mental Health & Counseling
+images: []
 ---
 
 This week, King County Solutions published seven posts highlighting significant community initiatives and events, emphasizing the importance of cultural contributions, legal aid, food security, and inclusivity. As we celebrate Hispanic Heritage Month, the community is encouraged to engage with diverse cultures and support local organizations working towards a more equitable society.

@@ -16,6 +16,7 @@ topics:
 - Shelter & Housing
 - Financial Assistance
 - Education & Learning
+images: []
 ---
 
 As autumn arrives, many people face challenges related to food security, housing, and financial stability. The United Way of King County provides year-round resources to assist those in need. Their website serves as a comprehensive resource for individuals seeking help with food, housing, healthcare, employment, and counseling. For immediate assistance, individuals can call 2-1-1, a free and confidential service that connects them to local support. 

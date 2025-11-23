@@ -167,6 +167,7 @@ original_markdown_body: |-
 summarized: true
 topics:
 - Education & Learning
+images: []
 ---
 
 Chelon Jackson is a dedicated child care provider and owner of Lovable Nest, an in-home family child care center for children from birth to age 5. With over 30 years of experience, Chelon continually enhances the quality of her care through partnerships with BrightSpark’s provider services programs. She participates in the Early Learning Coaching Program, receiving personalized coaching on curriculum development and business practices, which helped her achieve the highest possible Early Achievers Quality Level 5 rating.

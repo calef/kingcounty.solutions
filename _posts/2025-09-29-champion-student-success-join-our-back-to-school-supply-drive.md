@@ -3,14 +3,13 @@ title: 'champion student success: join our back-to-school supply drive'
 date: '2025-09-29T17:28:09+00:00'
 source: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/champion-student-success-join-our-back-to-school-supply-drive
-original_content: Youth and young adults are heading back to school this month, and
-  we are asking for school supplies, hygiene items, and snacks to get...
-original_markdown_body: Youth and young adults are heading back to school this month,
-  and we are asking for school supplies, hygiene items, and snacks to get...
+original_content: Youth and young adults are heading back to school this month, and we are asking for school supplies, hygiene items, and snacks to get...
+original_markdown_body: Youth and young adults are heading back to school this month, and we are asking for school supplies, hygiene items, and snacks to get...
 summarized: true
 topics:
 - Education & Learning
 - Personal & Household Needs
+images: []
 ---
 
 Youth and young adults are preparing to return to school, and there is a call for donations of school supplies, hygiene items, and snacks to support their success. Key supporters of this initiative include BECU, Foster Love, Gesa Credit Union, HopSkipDrive, Intracorp, and Trilogy for Kids, who contribute through annual donation drives. Suggested items for donation include backpacks, mechanical pencils, gel pens, notebooks, academic planners, full-size shampoo, conditioners, body wash, deodorant, and snacks to energize students during the school day. 

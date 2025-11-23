@@ -13,6 +13,7 @@ original_markdown_body: |-
 summarized: true
 topics: []
 published: false
+images: []
 ---
 
 The updated vote.gov, launched in 2016, now features a modern design with enhanced accessibility and expanded voter information. It is available in 19 languages, covering 96% of the American population, following Executive Order 14019 aimed at improving voting access. The site offers guidance on the registration and voting process and directs users to their state election websites for specific information. These changes reflect feedback from voters and aim to facilitate a better voting experience.

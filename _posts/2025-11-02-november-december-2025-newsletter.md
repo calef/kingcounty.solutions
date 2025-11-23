@@ -14,6 +14,7 @@ summarized: true
 topics:
 - Health Care
 - Education & Learning
+images: []
 ---
 
 The November-December 2025 newsletter from Ballard Senior Center highlights upcoming events and activities designed for seniors in the community. Key events include the annual Thanksgiving dinner, which will be held at the center, inviting members to gather and celebrate the holiday together. Additionally, the newsletter features various classes and workshops, such as art, fitness, and technology, aimed at enhancing skills and promoting social interaction among participants.

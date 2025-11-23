@@ -1,20 +1,14 @@
 ---
-title: International Special Review District Board Announces Candidates for its Annual
-  Election
+title: International Special Review District Board Announces Candidates for its Annual Election
 date: '2025-11-18T18:36:58+00:00'
 source: City of Seattle
 source_url: https://frontporch.seattle.gov/2025/11/18/international-special-review-district-board-announces-candidates-for-its-annual-election/
-original_content: The International Special Review District (ISRD) Board invites community
-  members to take part in its annual board election, a meaningful opportunity to help
-  guide the future of the Chinatown International District (CID). The election is
-  conducted by ma...
-original_markdown_body: The International Special Review District (ISRD) Board invites
-  community members to take part in its annual board election, a meaningful opportunity
-  to help guide the future of the Chinatown International District (CID). The election
-  is conducted by ma...
+original_content: The International Special Review District (ISRD) Board invites community members to take part in its annual board election, a meaningful opportunity to help guide the future of the Chinatown International District (CID). The election is conducted by ma...
+original_markdown_body: The International Special Review District (ISRD) Board invites community members to take part in its annual board election, a meaningful opportunity to help guide the future of the Chinatown International District (CID). The election is conducted by ma...
 summarized: true
 topics:
 - Education & Learning
+images: []
 ---
 
 The International Special Review District (ISRD) Board is inviting community members to participate in its annual board election, crucial for shaping the future of the Chinatown International District (CID). The election will be conducted via mail-in ballots, with a new deadline set for December 2, 2025, due to an error in the initially mailed ballots. New ballots and pre-stamped envelopes will be sent to registered voters, and voters are encouraged to return them promptly. Special office hours will be held on December 2 at Hing Hay Coworks for ballot submission and interpretation services.

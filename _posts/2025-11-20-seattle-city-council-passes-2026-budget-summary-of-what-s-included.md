@@ -15,6 +15,7 @@ topics:
 - Shelter & Housing
 - Food & Nutrition
 - Transportation & Mobility
+images: []
 ---
 
 The Seattle City Council's budget committee has unanimously approved the 2026 budget, emphasizing significant investments in safety and affordability for working families. Key areas of focus include affordability, homelessness, public safety, and community building. The budget allocates a record $349.5 million for affordable housing, alongside $10 million for rental assistance and increased tenant services. It also sets aside $9 million for shelters and $4 million for a new Community Solutions Initiative to combat homelessness.

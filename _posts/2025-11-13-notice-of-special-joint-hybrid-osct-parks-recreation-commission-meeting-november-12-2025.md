@@ -1,26 +1,14 @@
 ---
-title: Notice of Special Joint Hybrid OSCT & Parks & Recreation Commission Meeting
-  - November 12, 2025
+title: Notice of Special Joint Hybrid OSCT & Parks & Recreation Commission Meeting - November 12, 2025
 date: '2025-11-13T16:37:17-08:00'
 source: City of Mercer Island
 source_url: https://www.mercerisland.gov/bc-openspaceconservancytrust/page/notice-special-joint-hybrid-osct-parks-recreation-commission
-original_content: <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div
-  class="field-items"><div class="field-item even" property="content:encoded"><p><span><span><strong>October
-  28 -</strong> Notice is hereby given that the Mercer Island Open Space Conservancy
-  Trust (OSCT) and the Parks &amp; Recreation Commission will hold a Special Joint
-  Hybrid Meeting for an E-bike Regulations Study Session. The Special Hybrid Meeting
-  will be held on November 12, 2025 at 5:00PM in the Slater Room Council Chambers
-  at the Mercer Island Community and Event Center, 8236 SE 24th St., Mercer Island,
-  WA 98040, and via Zoom. </span></span></p></div></div></div>
-original_markdown_body: "**October 28 -** &nbsp;Notice is hereby given that the Mercer
-  Island Open Space Conservancy Trust (OSCT) and the Parks & Recreation Commission
-  will hold a Special Joint Hybrid Meeting for an E-bike Regulations Study Session.
-  The Special Hybrid Meeting will be held on November 12, 2025 at 5:00PM in the Slater
-  Room Council Chambers at the Mercer Island Community and Event Center, 8236 SE 24th
-  St., Mercer Island, WA 98040, and via Zoom."
+original_content: <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><span><span><strong>October 28 -</strong> Notice is hereby given that the Mercer Island Open Space Conservancy Trust (OSCT) and the Parks &amp; Recreation Commission will hold a Special Joint Hybrid Meeting for an E-bike Regulations Study Session. The Special Hybrid Meeting will be held on November 12, 2025 at 5:00PM in the Slater Room Council Chambers at the Mercer Island Community and Event Center, 8236 SE 24th St., Mercer Island, WA 98040, and via Zoom. </span></span></p></div></div></div>
+original_markdown_body: "**October 28 -** &nbsp;Notice is hereby given that the Mercer Island Open Space Conservancy Trust (OSCT) and the Parks & Recreation Commission will hold a Special Joint Hybrid Meeting for an E-bike Regulations Study Session. The Special Hybrid Meeting will be held on November 12, 2025 at 5:00PM in the Slater Room Council Chambers at the Mercer Island Community and Event Center, 8236 SE 24th St., Mercer Island, WA 98040, and via Zoom."
 summarized: true
 topics: []
 published: false
+images: []
 ---
 
 Notice is given for a Special Joint Hybrid Meeting of the Mercer Island Open Space Conservancy Trust (OSCT) and the Parks & Recreation Commission on November 12, 2025, at 5:00 PM. The meeting will focus on an E-bike Regulations Study Session and will take place in the Slater Room Council Chambers at the Mercer Island Community and Event Center, as well as via Zoom. Detailed joining instructions will be provided prior to the meeting.

@@ -44,6 +44,7 @@ summarized: true
 topics:
 - Disabilities
 - Education & Learning
+images: []
 ---
 
 In the April 7th, 2025 episode of “The Day With Trae,” host Trae Holiday interviews Ed Ewing, highlighting his contributions to the cycling community and his efforts to promote diversity and inclusion in the sport. Ewing discusses his personal journey and the challenges he has encountered in advocating for equitable access to cycling, particularly for underrepresented communities. The conversation also explores his upcoming initiatives, including the Youth Leadership Collective and the Bikecitement! event, both aimed at creating a more inclusive environment at Bike Works. Through these efforts, Ewing aims to make a significant impact on the cycling landscape, fostering greater accessibility and representation within the community.

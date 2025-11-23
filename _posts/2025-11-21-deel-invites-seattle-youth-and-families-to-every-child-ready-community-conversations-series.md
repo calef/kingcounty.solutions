@@ -3,17 +3,12 @@ title: DEEL Invites Seattle Youth and Families to Every Child Ready Community 
 date: '2025-11-21T18:12:08+00:00'
 source: City of Seattle
 source_url: https://education.seattle.gov/deel-invites-seattle-youth-and-families-to-every-child-ready-community-conversations-series/
-original_content: Learn about planned FEPP Levy investments in childcare and education,
-  and share what matters most to you! The Seattle Department of Education &#038; Early
-  Learning (DEEL) is hosting a series of Community Conversations this December about
-  the renewal of ...
-original_markdown_body: Learn about planned FEPP Levy investments in childcare and
-  education, and share what matters most to you! The Seattle Department of Education
-  & Early Learning (DEEL) is hosting a series of Community Conversations this&nbsp;December
-  about the renewal of ...
+original_content: Learn about planned FEPP Levy investments in childcare and education, and share what matters most to you! The Seattle Department of Education &#038; Early Learning (DEEL) is hosting a series of Community Conversations this December about the renewal of ...
+original_markdown_body: Learn about planned FEPP Levy investments in childcare and education, and share what matters most to you! The Seattle Department of Education & Early Learning (DEEL) is hosting a series of Community Conversations this&nbsp;December about the renewal of ...
 summarized: true
 topics:
 - Education & Learning
+images: []
 ---
 
 The Seattle Department of Education & Early Learning (DEEL) is hosting the Every Child Ready Community Conversations series this December to discuss the renewal of the Families, Education, Preschool & Promise Levy (FEPP). The city will implement a six-year spending plan starting in 2026 to support children, youth, and families. Community members are invited to participate in these events to learn about upcoming investments in childcare and education while sharing their priorities. 

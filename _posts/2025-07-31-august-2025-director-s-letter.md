@@ -49,6 +49,7 @@ original_markdown_body: |-
 summarized: true
 topics:
 - Employment & Job Support
+images: []
 ---
 
 Thank you to everyone who supported our 4th of July Event! Chefs Jim Ribail and Daniel Enciso prepared over 175 Spaghetti Dinners, while volunteers assisted in various roles, including kitchen help and raffle ticket sales. Local businesses provided generous support, and we sold 600 servings of Strawberry Shortcake, accompanied by Strawberry Lemonade. Special thanks to the volunteers who helped prepare and serve the shortcake, as well as our sponsors.

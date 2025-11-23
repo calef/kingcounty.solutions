@@ -13,6 +13,7 @@ original_markdown_body: |-
 summarized: true
 topics: []
 published: false
+images: []
 ---
 
 Rev. Rody Rowe shares his experience of celebrating his baptism day on September 18th, a practice he began two decades ago. Initially, he didn't think much of it until he sent an email to friends and family explaining his celebration and received responses wishing him a happy birthday instead. This revealed to him that many were unfamiliar with commemorating baptism days. Rowe emphasizes the importance of baptism over birthdays, suggesting that for Christians, baptism should hold significant meaning. He reflects on the moment of his baptism, recalling how it opened his heart to the knowledge of being beloved by God. Each year on his baptism day, he remembers loved ones, both past and present, who have influenced his faith journey. He likens the day to a deep well of gratitude, inviting others to discover and celebrate their own baptism days as a way to grow in grace and thankfulness.

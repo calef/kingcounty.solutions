@@ -51,6 +51,7 @@ original_markdown_body: |-
 summarized: true
 topics: []
 published: false
+images: []
 ---
 
 Male green hermit hummingbirds have evolved distinct bill characteristics for combat, primarily to secure mates. Research by the University of Washington reveals that male bills are straighter, sharper, and structurally stronger than those of females, which have curved bills better suited for feeding. These adaptations are significant, as males engage in aggressive fights over perches in forested areas, akin to a "singles bar" scenario. The study indicates that the evolution of these sexually dimorphic traits was influenced more by the need for combat than ecological factors. 

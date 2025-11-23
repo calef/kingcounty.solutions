@@ -7,6 +7,7 @@ original_content: "![](https://www.desmoineswa.gov/UserFiles/Servers/Server_1738
 summarized: true
 topics: []
 published: false
+images: []
 ---
 
 The City of Des Moines, WA has updated the look of their City Manager Report, making it easier to read and accessible via Constant Contact. The report is shared weekly to keep residents informed about city happenings. The website lists all the reports from recent dates for easy access. No other specific details or topics from the reports are mentioned in the article.

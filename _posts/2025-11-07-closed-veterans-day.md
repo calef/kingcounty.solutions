@@ -13,6 +13,7 @@ original_markdown_body: |-
 summarized: true
 topics: []
 published: false
+images: []
 ---
 
 Husky Health Center will be closed on Tuesday, November 11th, in observance of Veterans Day. Normal business hours will resume on Wednesday, November 12th.

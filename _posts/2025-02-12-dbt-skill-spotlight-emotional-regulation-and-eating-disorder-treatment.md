@@ -127,6 +127,7 @@ summarized: true
 topics:
 - Mental Health & Counseling
 - Food & Nutrition
+images: []
 ---
 
 Eating disorders are often rooted in complex mental health struggles, including family dysfunction and social pressures. Emotional regulation plays a critical role in managing these disorders, particularly for individuals facing overwhelming emotions and harsh self-criticism. Dialectical Behavior Therapy (DBT) provides essential skills to help individuals with eating disorders regulate their emotions without resorting to disordered eating behaviors.

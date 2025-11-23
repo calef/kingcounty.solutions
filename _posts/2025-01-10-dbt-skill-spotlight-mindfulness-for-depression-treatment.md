@@ -105,6 +105,7 @@ original_markdown_body: |-
 summarized: true
 topics:
 - Mental Health & Counseling
+images: []
 ---
 
 Depression presents various challenging symptoms like sadness, irritability, and feelings of hopelessness. It can disrupt daily life, but treatment is possible. Mindfulness, a key focus in Dialectical Behavior Therapy (DBT), has been shown to alleviate symptoms such as negative thinking and difficult emotions. Mindfulness encourages individuals to stay present and observe their thoughts and emotions without judgment, allowing them to experience their feelings without becoming overwhelmed.

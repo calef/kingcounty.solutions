@@ -25,6 +25,7 @@ topics:
 - Health Care
 - Education & Learning
 - Personal & Household Needs
+images: []
 ---
 
 The Sunshine Garden has released its activity schedule for November. The organization provides older adults with culturally relevant activities that promote aspects such as food and nutrition, health and wellness, fitness, education, recreation, socialization, and personal growth. No specific details about the November activity were mentioned in the article.

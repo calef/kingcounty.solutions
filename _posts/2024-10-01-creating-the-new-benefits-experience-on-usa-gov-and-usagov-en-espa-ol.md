@@ -20,7 +20,6 @@ topics:
 - Shelter & Housing
 images:
 - c71a80c683c8258ba5cc32a03106662ff4a695090c9201cf1a5d9000fd8691c2
-- dc111a70984a9eda00752b06277113029ef288f1125c31eff2477413e15e8aa4
 ---
 
 The new benefits experience on USA.gov and USAGov en Español features a redesigned benefit finder tool, streamlining access to government benefits for health care, housing, food, and unemployment. This update follows the closure of Benefits.gov and related sites, transitioning federal benefits information to USAGov. A dedicated product team conducted a content audit, prioritized topics, and created new materials while implementing a redirect plan for over 1,500 pages. Usability testing led to improvements in content structure and the addition of a category filter. The team continues to analyze user data to enhance personalization and accessibility of benefits information.

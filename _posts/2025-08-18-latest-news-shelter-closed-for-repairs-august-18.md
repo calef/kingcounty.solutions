@@ -14,6 +14,7 @@ summarized: true
 topics:
 - Shelter & Housing
 - Food & Nutrition
+images: []
 ---
 
 A main sewer line between the Legion Hall and 37th Avenue SW has broken, necessitating repairs that are set to begin at 6:30 am on Monday, August 18. As a result, the Warm Up Center and breakfast services will be canceled until the repairs are completed. Signs will be posted to inform clients about the situation, and updates will be provided regarding the shelter's reopening timeline.

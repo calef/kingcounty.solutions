@@ -44,6 +44,7 @@ original_content: |-
 summarized: true
 topics: []
 published: false
+images: []
 ---
 
 **Gov. Bob Ferguson Appoints Jesse Jones as Director of Results Washington**

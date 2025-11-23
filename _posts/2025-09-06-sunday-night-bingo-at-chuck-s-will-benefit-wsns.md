@@ -19,6 +19,7 @@ original_markdown_body: |-
 summarized: true
 topics:
 - Shelter & Housing
+images: []
 ---
 
 Join Chuck’s Hop Shop in Seward Park for a Drag Bingo event benefiting Westside Neighbors Shelter on Sunday, September 7 at 7 pm. The event will feature opportunities to drink, win prizes, and make donations to support the shelter. Attendees are encouraged to participate and contribute to this worthy cause.

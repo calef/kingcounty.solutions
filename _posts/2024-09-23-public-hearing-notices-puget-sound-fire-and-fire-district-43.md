@@ -16,6 +16,7 @@ original_content: |-
 summarized: true
 topics: []
 published: false
+images: []
 ---
 
 The Puget Sound Regional Fire Authority and King County Fire District #43 have announced public hearings on October 16 and 17, 2024 respectively. The purpose of these hearings is to review revenue sources for their 2025 expense budgets. In addition, the Puget Sound Regional Fire Authority will establish the fire benefit charge to be collected in 2025.

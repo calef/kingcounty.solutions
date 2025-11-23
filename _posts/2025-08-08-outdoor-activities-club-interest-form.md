@@ -12,6 +12,7 @@ original_markdown_body: |-
   The post [Outdoor Activities Club Interest Form](https://firstchurchseattle.org/outdoor-activities-club-interest-form/) appeared first on [First Church Seattle](https://firstchurchseattle.org).
 summarized: true
 topics: []
+images: []
 ---
 
 Are you interested in outdoor activities and looking to connect with others at First Church who share similar interests? The church is organizing an informal group for individuals who enjoy kayaking, hiking, canoeing, walking, running, cycling, and other outdoor pursuits. With summer drawing to a close, there is still time to engage in outdoor adventures. The goal is to facilitate communication among members about upcoming outdoor activities. To join this initiative and express your interests, fill out the provided form.

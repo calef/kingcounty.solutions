@@ -1,6 +1,5 @@
 ---
-title: Seattle City Council committee passes budget with historic investments in housing,
-  public safety, and affordability 
+title: Seattle City Council committee passes budget with historic investments in housing, public safety, and affordability 
 date: '2025-11-20T19:28:04+00:00'
 source: City of Seattle
 source_url: https://council.seattle.gov/2025/11/20/seattle-city-council-committee-passes-budget-with-historic-investments-in-housing-public-safety-and-affordability/
@@ -15,6 +14,7 @@ summarized: true
 topics:
 - Shelter & Housing
 - Food & Nutrition
+images: []
 ---
 
 The Seattle City Council’s budget committee has unanimously approved the 2026 budget, which features record investments aimed at enhancing safety and affordability for working families. The budget includes $349.5 million for affordable housing—more than five times what was invested in 2019—and additional funding for rental and tenant assistance. It allocates $11.8 million for new shelter and emergency housing, $2 million for support for individuals living in vehicles, and funds for programs assisting runaway and homeless youth.

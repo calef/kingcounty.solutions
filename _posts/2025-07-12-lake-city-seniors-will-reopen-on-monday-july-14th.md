@@ -13,6 +13,7 @@ original_markdown_body: |-
 summarized: true
 topics:
 - Shelter & Housing
+images: []
 ---
 
 Lake City Seniors will reopen on Monday, July 14th at 9 am, resuming regular programming. The organization expresses gratitude for the community's understanding and support during its closure.

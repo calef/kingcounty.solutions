@@ -35,6 +35,7 @@ original_content: |-
 summarized: true
 topics:
 - Employment & Job Support
+images: []
 ---
 
 Meghan Altimore has been appointed as the new CEO of Hopelink, a decision made by the organization’s Board of Directors. Altimore, who has over 20 years of leadership experience with Hopelink, was credited for helping the organization grow and ensuring the quality of its services. She was previously appointed Vice President of Community Services and later Interim Chief Operating Officer. Her first task as CEO will be to appoint a COO and lead the completion of Hopelink’s 2023 – 2025 Strategic Plan. Altimore holds a Master’s degree in Social Work and a certificate in Non-Profit Executive Leadership.

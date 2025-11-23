@@ -3,14 +3,13 @@ title: The Power of a Building a Habit
 date: '2025-06-06T19:09:14+00:00'
 source: Eastside Friends of Seniors
 source_url: https://www.eastsidefriendsofseniors.org/post/the-power-of-a-building-a-habit
-original_content: People who want to improve their health often turn to dramatic changes—such
-  as crash diets, intensive exercise routines, or taking on...
-original_markdown_body: People who want to improve their health often turn to dramatic
-  changes—such as crash diets, intensive exercise routines, or taking on...
+original_content: People who want to improve their health often turn to dramatic changes—such as crash diets, intensive exercise routines, or taking on...
+original_markdown_body: People who want to improve their health often turn to dramatic changes—such as crash diets, intensive exercise routines, or taking on...
 summarized: true
 topics:
 - Health Care
 - Mental Health & Counseling
+images: []
 ---
 
 People often seek quick fixes for health improvements, but sustainable habits are the key to lasting change. A habit is a behavior that becomes automatic through repetition, contributing to a vibrant life. Effective habits lead to significant health benefits, including improved physical and mental health, reduced decision fatigue, and lower risks of chronic diseases. 

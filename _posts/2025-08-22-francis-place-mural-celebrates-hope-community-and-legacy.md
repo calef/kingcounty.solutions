@@ -26,6 +26,7 @@ summarized: true
 published: false
 topics:
 - Shelter & Housing
+images: []
 ---
 
 Beginning in August 2025, Bellingham's waterfront Cornwall Street features a vibrant mural on the southern wall of Francis Place, a community hub by Catholic Community Services (CCS). Created by artist Joey Rose in collaboration with the Whatcom Community Foundation and Paper Whale, this mural was selected as the grand prize location for the 2024 Noisy Waters Festival. Francis Place provides 42 units of permanent supportive housing for those experiencing homelessness.

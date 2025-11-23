@@ -15,6 +15,7 @@ summarized: true
 topics:
 - Disabilities
 - Health Care
+images: []
 ---
 
 The Community Living Connections (CLC) network, provided by CISC in King County, has released its July-August 2025 newsletter. The publication routinely offers valuable information and resources specifically designed for older adults. The author of the newsletter is Lei Wu.

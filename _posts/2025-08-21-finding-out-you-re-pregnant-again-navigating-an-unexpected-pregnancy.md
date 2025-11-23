@@ -207,6 +207,7 @@ summarized: true
 topics:
 - Mental Health & Counseling
 - Financial Assistance
+images: []
 ---
 
 Finding out you're unexpectedly pregnant can evoke a range of emotions, including shock, fear, and anxiety, especially if you already have children. It's essential to acknowledge your feelings as valid and give yourself space to process them without guilt. Communication with a partner or a trusted individual can provide crucial support during this time. If you lack someone to confide in, organizations like Care Net of Puget Sound offer confidential assistance and guidance. 

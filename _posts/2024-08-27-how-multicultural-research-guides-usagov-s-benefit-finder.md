@@ -16,7 +16,6 @@ topics:
 - Employment & Job Support
 images:
 - b3232fd04f49422656d3b2bd3f6dc1c82249ce6d27eb76f90127bb0e17b7fd07
-- dc111a70984a9eda00752b06277113029ef288f1125c31eff2477413e15e8aa4
 ---
 
 USAGov's benefit finder is being developed to better serve Spanish-speaking users through transcreation rather than direct translation. A bilingual team conducts iterative user research, focusing on cultural nuances and mobile usability. Employing ABC testing, multiple content versions are evaluated to gather diverse feedback. Recruitment emphasizes inclusivity, engaging a wide array of Spanish speakers and underrepresented groups. Challenges include onboarding complexities and the tendency of some Spanish speakers to prefer English websites. Ongoing research efforts aim to refine the benefit finder’s effectiveness, ensuring it meets the needs of all users seeking government benefits.

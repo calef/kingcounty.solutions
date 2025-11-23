@@ -334,6 +334,7 @@ topics:
 - Shelter & Housing
 - Transportation & Mobility
 published: false
+images: []
 ---
 
 Christmastide, the season between Christmas and Epiphany, emphasizes the ongoing "Work of Christmas" inspired by Howard Thurman's words. This period invites reflection on the hope brought by Christ's birth, encouraging actions to care for the marginalized. Each day from December 25 to January 5, the First Church highlights various partner organizations, focusing on community service and advocacy.

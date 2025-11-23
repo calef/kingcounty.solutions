@@ -147,6 +147,7 @@ original_markdown_body: |-
 summarized: true
 topics:
 - Education & Learning
+images: []
 ---
 
 This year, Seattle voters will decide on the renewal of the Family, Education, Preschool, and Promise (FEPP) Levy, which funds essential early learning programs, particularly the Seattle Preschool Program (SPP). The SPP provides affordable preschool options for low-income families, featuring a nationally-accredited curriculum designed to prepare children for kindergarten. Providers express appreciation for the support they receive through the SPP, enabling them to offer high-quality education regardless of families' economic situations. If Proposal 1 passes, the SPP will be renewed and expanded for another seven years; failure to do so would mean the program's dissolution, resulting in over 3,000 children losing access to quality early education.

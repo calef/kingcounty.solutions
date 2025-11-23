@@ -830,6 +830,7 @@ original_markdown_body: |-
 summarized: true
 topics: []
 published: false
+images: []
 ---
 
 This report by the King County Flood Control District analyzes two significant flood events that impacted the Snoqualmie River Basin on November 1 and November 15, 2025. The first event began on November 1, when the Snoqualmie River reached Flood Phase 1 at 6,777 cubic feet per second (cfs), escalating to Flood Phase 2 by 11:57 a.m. with a peak flow of 17,400 cfs recorded on November 2. The South Fork Skykomish River also entered Flood Phase 1 that day, peaking at 8,910 cfs. The Flood Warning Center was activated to manage the situation.

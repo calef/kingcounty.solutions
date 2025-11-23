@@ -7,6 +7,7 @@ topics:
 - Mental Health & Counseling
 - Health Care
 - Food & Nutrition
+images: []
 ---
 
 This week, King County Solutions published eight posts highlighting important community initiatives and health services, underscoring the ongoing commitment to mental health advocacy, community engagement, and health awareness. These updates are vital for residents to stay informed about resources and opportunities available in their neighborhoods.

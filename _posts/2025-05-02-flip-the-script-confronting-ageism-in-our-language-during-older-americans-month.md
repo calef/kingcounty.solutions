@@ -1,17 +1,15 @@
 ---
-title: 'Flip the Script: Confronting Ageism in Our Language During Older Americans
-  Month'
+title: 'Flip the Script: Confronting Ageism in Our Language During Older Americans Month'
 date: '2025-05-02T20:03:00+00:00'
 source: Eastside Friends of Seniors
 source_url: https://www.eastsidefriendsofseniors.org/post/flip-the-script-confronting-ageism-in-our-language-during-older-americans-month
-original_content: Every May, we celebrate Older Americans Month  — a time to honor
-  the contributions of older adults and shine a light on the issues they...
-original_markdown_body: Every May, we celebrate Older Americans Month — a time to
-  honor the contributions of older adults and shine a light on the issues they...
+original_content: Every May, we celebrate Older Americans Month  — a time to honor the contributions of older adults and shine a light on the issues they...
+original_markdown_body: Every May, we celebrate Older Americans Month — a time to honor the contributions of older adults and shine a light on the issues they...
 summarized: true
 topics:
 - Disabilities
 - Mental Health & Counseling
+images: []
 ---
 
 Every May, Older Americans Month celebrates the contributions of older adults and addresses the challenges they face. This year's theme, “Flip the Script,” encourages a reevaluation of the stereotypes and outdated narratives surrounding aging. A significant aspect of ageism manifests in everyday language, where seemingly innocuous phrases can perpetuate negative perceptions. For example, the phrase “You look great… for your age!” implies that aging is a disadvantage. A more respectful alternative is simply to say, “You look great!” Similarly, expressions like “Having a senior moment” reinforce stereotypes about forgetfulness among older adults. Instead, one could say, “I’m having a forgetful moment,” emphasizing that forgetfulness is a universal human experience.

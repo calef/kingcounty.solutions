@@ -3,17 +3,12 @@ title: U.K. Citizen Indicted for $2.7M Telehealth Scheme
 date: '2025-11-21T12:00:00+00:00'
 source: Department of Justice
 source_url: https://www.justice.gov/opa/pr/uk-citizen-indicted-27m-telehealth-scheme
-original_content: A federal grand jury in the Middle District of Florida returned
-  an indictment Wednesday charging a U.K. citizen for his role in a conspiracy to
-  submit fraudulent claims for telehealth services associated with prescriptions for
-  genetic testing and for causing the submission of false Medicare enrollment documents.
-original_markdown_body: A federal grand jury in the Middle District of Florida returned
-  an indictment Wednesday charging a U.K. citizen for his role in a conspiracy to
-  submit fraudulent claims for telehealth services associated with prescriptions for
-  genetic testing and for causing the submission of false Medicare enrollment documents.
+original_content: A federal grand jury in the Middle District of Florida returned an indictment Wednesday charging a U.K. citizen for his role in a conspiracy to submit fraudulent claims for telehealth services associated with prescriptions for genetic testing and for causing the submission of false Medicare enrollment documents.
+original_markdown_body: A federal grand jury in the Middle District of Florida returned an indictment Wednesday charging a U.K. citizen for his role in a conspiracy to submit fraudulent claims for telehealth services associated with prescriptions for genetic testing and for causing the submission of false Medicare enrollment documents.
 summarized: true
 topics: []
 published: false
+images: []
 ---
 
 A federal grand jury in Florida indicted Marek Rex Vernon Harrison, a 61-year-old U.K. citizen residing in Plant City, for his involvement in a telehealth fraud scheme that defrauded Medicare of over $2.7 million. Harrison allegedly ran CTD Network LLC, a telemedicine company that employed medical providers to authorize unnecessary prescriptions for genetic tests without any prior relationship with the beneficiaries. These providers conducted telehealth consultations and generated fraudulent claims, resulting in Medicare payments exceeding $600,000 for services that were either unnecessary or not provided.

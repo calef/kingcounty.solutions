@@ -17,6 +17,7 @@ topics:
 - Health Care
 - Mental Health & Counseling
 - Personal & Household Needs
+images: []
 ---
 
 The Community Living Connections (CLC) network, in which CISC is a provider, periodically releases a newsletter for older adults in King County. The September to October 2025 edition of the CLC newsletter is now available. The newsletter aims to provide valuable information and resources for older adults.

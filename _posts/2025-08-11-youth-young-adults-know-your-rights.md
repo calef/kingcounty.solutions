@@ -24,6 +24,7 @@ summarized: true
 topics:
 - Education & Learning
 - Employment & Job Support
+images: []
 ---
 
 ELAP, a King County-based nonprofit, offers free legal aid and resources to those who can't afford a lawyer. It has gathered a collection of "Know Your Rights" resources specifically for young people aged 16–24 navigating the immigration system for the first time. These resources provide essential information on applying for DACA, understanding rights during encounters with immigration officials, and seeking help with school and employment opportunities. The resources include United We Dream, the Higher Ed Immigration Portal, and ACLU Resources for undocumented college students.

@@ -1,31 +1,14 @@
 ---
-title: 'Aesculap Implant Systems Agrees to Pay $38.5M to Resolve  False Claims Act
-  Allegations Related to Knee Implant Failures and Enters into a Non-Prosecution Agreement
-  Related to the Introduction of Two Adulterated Medical Devices into Interstate Commerce '
+title: 'Aesculap Implant Systems Agrees to Pay $38.5M to Resolve  False Claims Act Allegations Related to Knee Implant Failures and Enters into a Non-Prosecution Agreement Related to the Introduction of Two Adulterated Medical Devices into Interstate Commerce '
 date: '2025-11-17T12:00:00+00:00'
 source: Department of Justice
 source_url: https://www.justice.gov/opa/pr/aesculap-implant-systems-agrees-pay-385m-resolve-false-claims-act-allegations-related-knee
-original_content: Medical device company Aesculap Implant Systems LLC (Aesculap),
-  based in Center Valley, Pennsylvania, has agreed to pay $38.5 million to resolve
-  allegations under the False Claims Act that the company sold knee replacement devices
-  that it knew would fail prematurely at a higher than acceptable rate, resulting
-  in false claims to Medicare and Medicaid. The settlement further resolves allegations
-  that the company paid unlawful remuneration to a physician to induce him to use
-  the knee implants. Additionally, Aesculap agreed to a non-prosecution agreement
-  with the United States in connection with its distribution of two medical devices
-  without the required clearance from the U.S. Food and Drug Administration (FDA).
-original_markdown_body: Medical device company Aesculap Implant Systems LLC (Aesculap),
-  based in Center Valley, Pennsylvania, has agreed to pay $38.5 million to resolve
-  allegations under the False Claims Act that the company sold knee replacement devices
-  that it knew would fail prematurely at a higher than acceptable rate, resulting
-  in false claims to Medicare and Medicaid. The settlement further resolves allegations
-  that the company paid unlawful remuneration to a physician to induce him to use
-  the knee implants. Additionally, Aesculap agreed to a non-prosecution agreement
-  with the United States in connection with its distribution of two medical devices
-  without the required clearance from the U.S. Food and Drug Administration (FDA).
+original_content: Medical device company Aesculap Implant Systems LLC (Aesculap), based in Center Valley, Pennsylvania, has agreed to pay $38.5 million to resolve allegations under the False Claims Act that the company sold knee replacement devices that it knew would fail prematurely at a higher than acceptable rate, resulting in false claims to Medicare and Medicaid. The settlement further resolves allegations that the company paid unlawful remuneration to a physician to induce him to use the knee implants. Additionally, Aesculap agreed to a non-prosecution agreement with the United States in connection with its distribution of two medical devices without the required clearance from the U.S. Food and Drug Administration (FDA).
+original_markdown_body: Medical device company Aesculap Implant Systems LLC (Aesculap), based in Center Valley, Pennsylvania, has agreed to pay $38.5 million to resolve allegations under the False Claims Act that the company sold knee replacement devices that it knew would fail prematurely at a higher than acceptable rate, resulting in false claims to Medicare and Medicaid. The settlement further resolves allegations that the company paid unlawful remuneration to a physician to induce him to use the knee implants. Additionally, Aesculap agreed to a non-prosecution agreement with the United States in connection with its distribution of two medical devices without the required clearance from the U.S. Food and Drug Administration (FDA).
 summarized: true
 topics: []
 published: false
+images: []
 ---
 
 Medical device company Aesculap Implant Systems LLC has agreed to pay $38.5 million to settle allegations under the False Claims Act regarding the sale of knee replacement devices that were known to fail prematurely, leading to false claims to Medicare and Medicaid. The settlement also addresses claims that Aesculap made unlawful payments to a physician to promote the use of these implants. Furthermore, Aesculap entered a non-prosecution agreement related to the distribution of two medical devices that lacked necessary FDA clearance. 

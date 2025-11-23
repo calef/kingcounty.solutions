@@ -8,6 +8,7 @@ original_markdown_body: "<section class=\"elementor-section elementor-top-sectio
 summarized: true
 topics: []
 published: false
+images: []
 ---
 
 Work on the epoxy flooring in the FWCC locker room is progressing well, particularly on the men's side, where the structure is taking shape. Crews are applying additional layers to ensure a smooth and even seal that provides excellent traction. The new color and design are becoming more visible, and there is anticipation for the completed look.

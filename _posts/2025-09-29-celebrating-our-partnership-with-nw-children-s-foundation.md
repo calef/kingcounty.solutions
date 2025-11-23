@@ -3,10 +3,8 @@ title: celebrating our partnership with nw children’s foundation
 date: '2025-09-29T17:25:59+00:00'
 source: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/celebrating-our-partnership-with-nw-children-s-foundation
-original_content: We are thrilled to celebrate NW Children’s Foundation for their
-  continued partnership and commitment to young people in our community .  ...
-original_markdown_body: We are thrilled to celebrate NW Children’s Foundation for
-  their continued partnership and commitment to young people in our community . &nbsp;...
+original_content: We are thrilled to celebrate NW Children’s Foundation for their continued partnership and commitment to young people in our community .  ...
+original_markdown_body: We are thrilled to celebrate NW Children’s Foundation for their continued partnership and commitment to young people in our community . &nbsp;...
 summarized: true
 topics:
 - Shelter & Housing
@@ -14,6 +12,7 @@ topics:
 - Employment & Job Support
 - Transportation & Mobility
 - Mental Health & Counseling
+images: []
 ---
 
 NW Children's Foundation is celebrated for their ongoing partnership with Friends of Youth, particularly in supporting the New Ground Totem Lake (NGTL) Transitional Living Program (TLP). This program assists young adults aged 18 to 21 by providing up to 18 months of stable housing and essential wraparound services, including case management, education support, and access to behavioral health services. As housing costs in King County rise and homelessness among youth persists, NGTL’s services are vital for fostering stability and success.

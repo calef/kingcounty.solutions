@@ -3,13 +3,12 @@ title: 'Student Voice and Choice: From Ideas to Impact'
 date: '2025-11-05T21:47:32+00:00'
 source: Technology Access Foundation
 source_url: https://techaccess.org/student-voice-and-choice-from-ideas-to-impact/
-original_content: 'November 2025: Olympic View students learn the power of their voice
-  by advocating for new extracurricular activities.'
-original_markdown_body: 'November 2025: Olympic View students learn the power of their
-  voice by advocating for new extracurricular activities.'
+original_content: 'November 2025: Olympic View students learn the power of their voice by advocating for new extracurricular activities.'
+original_markdown_body: 'November 2025: Olympic View students learn the power of their voice by advocating for new extracurricular activities.'
 summarized: true
 topics:
 - Education & Learning
+images: []
 ---
 
 Centering student voice is essential in the STEMbyTAF model, which emphasizes equity in education. At Olympic View, Ms. Lizzy's 6th and 7th graders engaged in a project to advocate for new extracurricular activities. Collaborating with STEMbyTAF Transformation Coach Dr. Arleatha Bryant, students learned to pitch their ideas to school leadership, addressing the lack of extracurricular options at their school. They worked in groups to draft business plans, considering their target audience, budget, and execution strategies.

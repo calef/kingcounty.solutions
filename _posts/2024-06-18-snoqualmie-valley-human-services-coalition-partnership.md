@@ -14,6 +14,7 @@ topics:
 - Mental Health & Counseling
 - Transportation & Mobility
 - Shelter & Housing
+images: []
 ---
 
 The Empower Youth Network (EYN) is a key partner in the Snoqualmie Valley Human Services Coalition, a collective of organizations dedicated to connecting community members with needed resources. The coalition serves the Sno-Valley, a large geographic area with suburban and rural populations who often experience limited access to support for essential needs such as transportation, housing, and mental health services. EYN contributes to the coalition's mission by focusing on students and families, working to remove access barriers to help. Their work is centered on community, collaboration, and connection.

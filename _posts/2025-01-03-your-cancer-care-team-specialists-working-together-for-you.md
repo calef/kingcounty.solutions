@@ -76,6 +76,7 @@ original_markdown_body: |-
 summarized: true
 topics: []
 published: false
+images: []
 ---
 
 At Valley, a collaborative approach is emphasized in cancer care, ensuring personalized treatment plans for patients. The cancer care team consists of various specialists, each contributing unique expertise. Medical oncologists focus on chemotherapy and immunotherapy, serving as primary coordinators for treatment. Gynecologic oncologists treat cancers of the female reproductive system, while radiation oncologists utilize targeted radiation therapy. Pathologists analyze tissue samples to diagnose cancer and inform treatment decisions, and radiologists conduct imaging studies to monitor treatment efficacy.

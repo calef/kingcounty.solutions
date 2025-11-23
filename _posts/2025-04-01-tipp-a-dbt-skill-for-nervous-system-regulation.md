@@ -126,6 +126,7 @@ original_markdown_body: |-
 summarized: true
 topics:
 - Mental Health & Counseling
+images: []
 ---
 
 TIPP is a DBT (Dialectical Behavior Therapy) skill designed to help individuals regulate their nervous system and manage intense emotions. Emotions manifest physically through sensations like a pounding heart or cold hands, linked to the nervous system's responses. Emotional dysregulation can lead to overwhelming experiences, often triggering the sympathetic nervous system, which prepares the body for fight or flight. TIPP provides four strategies to shift the nervous system back to a calmer state: 

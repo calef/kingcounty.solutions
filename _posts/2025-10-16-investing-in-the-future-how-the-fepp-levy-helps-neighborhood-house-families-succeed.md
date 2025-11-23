@@ -1,6 +1,5 @@
 ---
-title: 'Investing in the Future: How the FEPP Levy Helps Neighborhood House Families
-  Succeed '
+title: 'Investing in the Future: How the FEPP Levy Helps Neighborhood House Families Succeed '
 date: '2025-10-16T23:36:29+00:00'
 source: Neighborhood House
 source_url: https://nhwa.org/2025/10/16/fepp-levy-prop1/
@@ -19,6 +18,7 @@ topics:
 - Education & Learning
 - Financial Assistance
 - Shelter & Housing
+images: []
 ---
 
 The Families, Education, Preschool, and Promise (FEPP) Levy in Seattle, originally approved in 2018, supports education programs from preschool to postsecondary, focusing on equity for marginalized groups. With the renewal (Proposition 1) on the ballot, voters can continue this essential funding, which aids Black, Indigenous, immigrant, refugee, and low-income youth facing barriers. The Levy funds early learning and childcare, K–12 academic and health services, and the Seattle Promise, which offers free community college tuition for graduates. The renewal proposes adding 800 new childcare slots, 600 more preschool seats, support for 5,000 childcare workers, and ongoing academic and health care services in K–12 schools.

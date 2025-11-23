@@ -34,6 +34,7 @@ original_content: |-
 summarized: true
 topics: []
 published: false
+images: []
 ---
 
 The public record for a virtual hearing is open through 10/9, allowing for comments from those who could not join due to technical or access issues. If no post-hearing comments are received, the record closes 10/9, with a decision expected by 10/23. If post-hearing comments are submitted, the staff and applicant are required to submit written responses by close of business on 10/13, the record then closes on 10/13, and the decision is expected by 10/27. All comments and responses will be forwarded to the hearing examiner via Mr. Wilcox.

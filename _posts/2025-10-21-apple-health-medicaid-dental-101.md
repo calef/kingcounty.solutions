@@ -146,6 +146,7 @@ summarized: true
 topics:
 - Health Care
 - Education & Learning
+images: []
 ---
 
 This course provides a foundational overview of the Washington Apple Health Dental program, focusing on federal and state policies, the Healthcare Authority, and practical aspects of the program. It addresses the complexities of navigating Medicaid policy and aims to dispel common myths and confusion. The course is designed for all dental team members, including non-clinical staff, and those currently enrolled or considering participation in the program. 

@@ -116,6 +116,7 @@ summarized: true
 topics:
 - Health Care
 - Mental Health & Counseling
+images: []
 ---
 
 Establishing trust is vital for effective dental care and enhancing patient experiences. A new course for dental professionals offers strategies to foster meaningful, trust-based relationships with patients through a patient-centered approach. Participants will learn the importance of empathy, active listening, clear communication, and respectful understanding in the patient-dental professional relationship. The course objectives include identifying practices that build trust and rapport, utilizing inquiry-based tools to engage patients in decision-making, and creating a dental environment that emphasizes respect, empathy, and individualized care. 

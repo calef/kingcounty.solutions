@@ -15,6 +15,7 @@ summarized: true
 topics:
 - Food & Nutrition
 - Health Care
+images: []
 ---
 
 The Sunshine Garden has released its June activity schedule. Aimed at older adults, the Sunshine Garden provides activities that are culturally relevant and promote personal growth, socialization, recreation, education, fitness, wellness, health, and food and nutrition. The specific activities included in the June schedule were not provided in the article.

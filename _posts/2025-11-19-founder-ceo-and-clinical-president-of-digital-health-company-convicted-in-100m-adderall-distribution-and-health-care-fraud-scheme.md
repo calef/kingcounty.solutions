@@ -1,28 +1,16 @@
 ---
-title: Founder/CEO and Clinical President of Digital Health Company Convicted in $100M
-  Adderall Distribution and Health Care Fraud Scheme
+title: Founder/CEO and Clinical President of Digital Health Company Convicted in $100M Adderall Distribution and Health Care Fraud Scheme
 date: '2025-11-19T12:00:00+00:00'
 source: Department of Justice
 source_url: https://www.justice.gov/opa/pr/founderceo-and-clinical-president-digital-health-company-convicted-100m-adderall
-original_content: A federal jury in San Francisco yesterday convicted Ruthia He, the
-  founder and CEO of Done, a California-based digital health company, and David Brody,
-  its clinical president, yesterday for their roles in a years-long scheme to illegally
-  distribute Adderall over the internet and conspire to commit health care fraud in
-  connection with the submission of false and fraudulent claims for reimbursement
-  for Adderall and other stimulants. Ruthia He was also convicted of conspiring to
-  obstruct justice.
-original_markdown_body: A federal jury in San Francisco yesterday convicted Ruthia
-  He, the founder and CEO of Done, a California-based digital health company, and
-  David Brody, its clinical president, yesterday for their roles in a years-long scheme
-  to illegally distribute Adderall over the internet and conspire to commit health
-  care fraud in connection with the submission of false and fraudulent claims for
-  reimbursement for Adderall and other stimulants. Ruthia He was also convicted of
-  conspiring to obstruct justice.
+original_content: A federal jury in San Francisco yesterday convicted Ruthia He, the founder and CEO of Done, a California-based digital health company, and David Brody, its clinical president, yesterday for their roles in a years-long scheme to illegally distribute Adderall over the internet and conspire to commit health care fraud in connection with the submission of false and fraudulent claims for reimbursement for Adderall and other stimulants. Ruthia He was also convicted of conspiring to obstruct justice.
+original_markdown_body: A federal jury in San Francisco yesterday convicted Ruthia He, the founder and CEO of Done, a California-based digital health company, and David Brody, its clinical president, yesterday for their roles in a years-long scheme to illegally distribute Adderall over the internet and conspire to commit health care fraud in connection with the submission of false and fraudulent claims for reimbursement for Adderall and other stimulants. Ruthia He was also convicted of conspiring to obstruct justice.
 summarized: true
 topics:
 - Health Care
 - Mental Health & Counseling
 published: false
+images: []
 ---
 
 Ruthia He, founder and CEO of the digital health company Done, and David Brody, its clinical president, were convicted by a federal jury in San Francisco for their involvement in a $100 million scheme to illegally distribute Adderall and commit health care fraud. They targeted individuals seeking drugs online, engaged in deceptive marketing, and prioritized profits over patient care, resulting in significant harm, including addiction and overdose among clients.

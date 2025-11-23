@@ -8,6 +8,7 @@ topics:
 - Health Care
 - Mental Health & Counseling
 - Transportation & Mobility
+images: []
 ---
 
 This week, we published 19 posts highlighting significant initiatives and updates across King County, emphasizing community support, health, transit development, and public safety. These updates are crucial as we approach the holiday season, a time when many residents seek resources and engagement opportunities.

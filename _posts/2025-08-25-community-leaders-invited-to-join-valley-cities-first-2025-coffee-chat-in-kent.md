@@ -1,6 +1,5 @@
 ---
-title: Community leaders invited to join Valley Cities’ first 2025 Coffee Chat in
-  Kent
+title: Community leaders invited to join Valley Cities’ first 2025 Coffee Chat in Kent
 date: '2025-08-25T19:26:17+00:00'
 source: Valley Cities Behavioral Health Care
 source_url: https://valleycities.org/community-leaders-invited-to-join-valley-cities-first-2025-coffee-chat-in-kent/
@@ -59,6 +58,7 @@ original_markdown_body: |-
 summarized: true
 topics:
 - Mental Health & Counseling
+images: []
 ---
 
 Community leaders are invited to the first Community Coffee Chat of 2025, hosted by Valley Cities Behavioral Health Care on May 21 in Kent. This event will take place at the Multi Service Center, focusing on "Responding to the Fentanyl Crisis" and discussing Valley Cities' role in addressing substance use challenges in King County. The initiative has received positive feedback since its inception, bringing together local politicians, first responders, and business owners to engage in community support efforts.

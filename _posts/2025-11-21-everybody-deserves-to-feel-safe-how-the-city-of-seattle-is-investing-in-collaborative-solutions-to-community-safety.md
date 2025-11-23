@@ -1,20 +1,14 @@
 ---
-title: 'Everybody Deserves to Feel Safe: How the City of Seattle is Investing in Collaborative
-  Solutions to Community Safety '
+title: 'Everybody Deserves to Feel Safe: How the City of Seattle is Investing in Collaborative Solutions to Community Safety '
 date: '2025-11-21T21:07:07+00:00'
 source: City of Seattle
 source_url: https://frontporch.seattle.gov/2025/11/21/everybody-deserves-to-feel-safe-how-the-city-of-seattle-is-investing-in-collaborative-solutions-to-community-safety/
-original_content: Around the world, people may know Seattle because of the Space Needle,
-  Orcas, Pike Place Market, or even the Mariners. Locally, Seattle is known for the
-  character and charm of its many neighborhoods. From Lake City to Rainier View, Broadview
-  to Highlan...
-original_markdown_body: Around the world, people may know Seattle because of the Space
-  Needle, Orcas, Pike Place Market, or even the Mariners. Locally, Seattle is known
-  for the character and charm of its many neighborhoods. From Lake City to Rainier
-  View, Broadview to Highlan...
+original_content: Around the world, people may know Seattle because of the Space Needle, Orcas, Pike Place Market, or even the Mariners. Locally, Seattle is known for the character and charm of its many neighborhoods. From Lake City to Rainier View, Broadview to Highlan...
+original_markdown_body: Around the world, people may know Seattle because of the Space Needle, Orcas, Pike Place Market, or even the Mariners. Locally, Seattle is known for the character and charm of its many neighborhoods. From Lake City to Rainier View, Broadview to Highlan...
 summarized: true
 topics:
 - Domestic Violence
+images: []
 ---
 
 The City of Seattle is enhancing community safety through collaborative efforts that prioritize resident input and culturally responsive solutions. In 2025, Denise Colvin was appointed as the Community Capacity and Safety Manager within the Seattle Department of Neighborhoods (DON), tasked with ensuring community voices are integral to public safety strategies. Colvin oversees contracts that fund community-led safety initiatives in neighborhoods like Chinatown International District, South Park, Ballard, and Capitol Hill. This approach aims to build trust between communities and police, focusing on empowering residents to voice their safety concerns and develop alternatives to traditional policing.

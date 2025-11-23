@@ -3,20 +3,13 @@ title: Celebrating 30 Years of Comprehensive Care with DESC’s SAGE Team
 date: '2025-11-20T22:31:26+00:00'
 source: DESC
 source_url: https://www.desc.org/celebrating-30-years-of-comprehensive-care-with-descs-sage-team/
-original_content: This year, we’re celebrating 30 years of our Support, Advocacy,
-  Growth + Employment (SAGE) team — a program that recognizes that to view a client
-  clinically, you must view them holistically. From therapy to medication management
-  to peer counseling, SAGE considers every client’s physical, emotional, medical,
-  social, and spiritual needs. Over the past three decades, [&#8230;]
-original_markdown_body: This year, we’re celebrating 30 years of our Support, Advocacy,
-  Growth + Employment (SAGE) team — a program that recognizes that to view a client
-  clinically, you must view them holistically. From therapy to medication management
-  to peer counseling, SAGE considers every client’s physical, emotional, medical,
-  social, and spiritual needs. Over the past three decades, […]
+original_content: This year, we’re celebrating 30 years of our Support, Advocacy, Growth + Employment (SAGE) team — a program that recognizes that to view a client clinically, you must view them holistically. From therapy to medication management to peer counseling, SAGE considers every client’s physical, emotional, medical, social, and spiritual needs. Over the past three decades, [&#8230;]
+original_markdown_body: This year, we’re celebrating 30 years of our Support, Advocacy, Growth + Employment (SAGE) team — a program that recognizes that to view a client clinically, you must view them holistically. From therapy to medication management to peer counseling, SAGE considers every client’s physical, emotional, medical, social, and spiritual needs. Over the past three decades, […]
 summarized: true
 topics:
 - Mental Health & Counseling
 - Shelter & Housing
+images: []
 ---
 
 This year marks the 30th anniversary of the Support, Advocacy, Growth + Employment (SAGE) team at DESC, which emphasizes a holistic approach to client care. SAGE integrates therapy, medication management, and peer counseling to address clients' physical, emotional, medical, social, and spiritual needs. Serving around 1,200 active clients, SAGE is the largest outpatient behavioral health program at DESC and one of the largest in King County. Its mission is to assist clients in navigating their paths to success through low-barrier continuous care and wraparound services.

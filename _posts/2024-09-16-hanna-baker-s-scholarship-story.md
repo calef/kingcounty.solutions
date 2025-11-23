@@ -27,6 +27,7 @@ summarized: true
 topics:
 - Education & Learning
 - Mental Health & Counseling
+images: []
 ---
 
 Hanna Baker, a 2024 graduate of Mount Si High School and recipient of the Sophie Theriault Empower Youth Voice Scholarship Award from the Empower Youth Network (EYN), has been an active participant in youth suicide prevention efforts. After spending her summer celebrating graduation and traveling to Italy, she is preparing for college at Colorado State University (CSU). Initially planning to study sociology, Hanna decided to focus on political science and pre-law, inspired by her passion for helping people and an impactful American Law class. Post-CSU, she intends to pursue law school, aiming for a Juris Doctor degree. Hanna advises future college students to dedicate time to the application process and consider visiting potential schools.

@@ -31,6 +31,7 @@ original_markdown_body: |-
 summarized: true
 topics:
 - Financial Assistance
+images: []
 ---
 
 Momentum is growing for the GiveBIG campaign, which aims to raise $10,000. Currently, 14% of the goal has been reached, thanks to early contributions. The main fundraising days are set for May 6 and 7, with a special incentive on May 6 where generous donors will match donations 100%. Early donors are being thanked for their support in kickstarting the campaign. Contributions can be made anytime leading up to the event.

@@ -26,6 +26,7 @@ summarized: true
 topics:
 - Health Care
 - Mental Health & Counseling
+images: []
 ---
 
 Dr. Bonnie McGregor founded the Orion Center for Integrative Medicine in 2015, driven by the belief that cancer care must encompass the whole person, integrating psychological support into standard treatment. Her research at Fred Hutchinson Cancer Research Center showed that psychological interventions can enhance mood, boost immune function, and improve survival rates for cancer survivors. To make these benefits accessible, she established a nonprofit that combines the expertise of psychologists with integrative health providers like acupuncturists and nutritionists, creating a comprehensive support system alongside traditional medical treatments such as surgery and chemotherapy.

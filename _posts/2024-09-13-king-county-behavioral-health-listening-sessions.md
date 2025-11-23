@@ -34,6 +34,7 @@ original_content: |-
 summarized: true
 topics:
 - Mental Health & Counseling
+images: []
 ---
 
 King County is seeking public input on improving its behavioral health system, which includes mental health and substance use care. Amid increasing needs for care, a workforce shortage, and an overdose crisis, the county is reaching out to the community for their experiences and concerns. Two opportunities are available for public participation: an online survey, open until October 31, and in-person listening sessions held across the county starting September 23. Feedback from these sessions will guide investment in a system that serves the county's various communities effectively. Compensation, light refreshments, and language interpretation will be available at the listening sessions.

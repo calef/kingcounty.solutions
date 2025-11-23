@@ -26,6 +26,7 @@ original_content: |-
 summarized: true
 topics: []
 published: false
+images: []
 ---
 
 The Board of Commissioners of King County Fire Protection District No. 37 has announced a vacancy on their board. Due to the board's inability to complete the appointment process within the given time frame, the King County Council will appoint a qualified person to fill this position. David Scalabrini has been recommended by the board for the vacant position, but other qualified applicants will also be considered. To apply, interested and eligible persons must submit their resume and statement of interest to the King County Council by July 30, 2024. The appointed person will take office immediately after being sworn in.
