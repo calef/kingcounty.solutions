@@ -9,5 +9,4 @@ layout: default
 {% assign docs = site.images %}
 {% assign sorted_docs = docs | sort: 'date' | reverse %}
 {% assign valid_images = sorted_docs | where_exp: 'image_doc', 'image_doc.image_url or image_doc.data.image_url' %}
-{% capture images_carousel_aria_label %}Images for {{ page.title | default: "Images" }}{% endcapture %}
 {% include carousel.html images=valid_images %}
