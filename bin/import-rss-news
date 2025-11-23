@@ -4,6 +4,7 @@
 require 'yaml'
 require 'rss'
 require 'open-uri'
+require 'net/http'
 require 'openssl'
 require 'fileutils'
 require 'time'
@@ -46,8 +47,11 @@ ARTICLE_BODY_SELECTORS = [
   'article .body'
 ].freeze
 
+DEFAULT_OPEN_TIMEOUT = Integer(ENV.fetch('RSS_OPEN_TIMEOUT', '5')) rescue 5
+DEFAULT_READ_TIMEOUT = Integer(ENV.fetch('RSS_READ_TIMEOUT', '10')) rescue 10
+
 def fetch_article_body_html(url)
-  html = URI.open(url).read
+  html = URI.open(url, open_timeout: DEFAULT_OPEN_TIMEOUT, read_timeout: DEFAULT_READ_TIMEOUT).read
   doc = Nokogiri::HTML(html)
 
   ARTICLE_BODY_SELECTORS.each do |selector|
@@ -60,7 +64,8 @@ def fetch_article_body_html(url)
 
   fallback = doc.at_css('main') || doc.at_css('#main') || doc.at_css('#content')
   fallback&.inner_html&.strip
-rescue OpenURI::HTTPError, OpenSSL::SSL::SSLError, SocketError => e
+rescue OpenURI::HTTPError, OpenSSL::SSL::SSLError, SocketError,
+       Net::OpenTimeout, Net::ReadTimeout, Timeout::Error => e
   warn "Failed to fetch article body (#{url}): #{e.message}"
   nil
 rescue StandardError => e
@@ -192,7 +197,7 @@ workers = Array.new([MAX_WORKERS, 1].max) do
       next unless rss_url
 
       begin
-        rss_content = URI.open(rss_url, open_timeout: 5, read_timeout: 10, &:read)
+        rss_content = URI.open(rss_url, open_timeout: DEFAULT_OPEN_TIMEOUT, read_timeout: DEFAULT_READ_TIMEOUT, &:read)
         checksum = Digest::SHA256.hexdigest(rss_content)
 
         skip = lock.synchronize { feed_checksums[rss_url] == checksum }
@@ -256,7 +261,7 @@ workers = Array.new([MAX_WORKERS, 1].max) do
         end
 
         lock.synchronize { feed_checksums[rss_url] = checksum }
-      rescue OpenURI::HTTPError, SocketError => e
+      rescue OpenURI::HTTPError, SocketError, Net::OpenTimeout, Net::ReadTimeout, Timeout::Error => e
         log_lock.synchronize { warn "Failed to fetch RSS feed for source '#{source_title}' (#{rss_url}): #{e.message}" }
         next
       rescue OpenSSL::SSL::SSLError => e
