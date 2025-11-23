@@ -1,5 +1,14 @@
 #!/usr/bin/env bash
 
+SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
+WARNING_FILTER="$SCRIPT_DIR/warning_filter"
+
+if [ -z "${RUBYOPT:-}" ]; then
+  export RUBYOPT="-r${WARNING_FILTER}"
+else
+  export RUBYOPT="${RUBYOPT} -r${WARNING_FILTER}"
+fi
+
 echo "Building the site"
 ./script/setup
 JEKYLL_ENV=production bundle exec jekyll build --drafts

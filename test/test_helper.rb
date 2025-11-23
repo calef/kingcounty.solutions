@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 require 'simplecov'
+require_relative '../script/warning_filter'
 
 SimpleCov.start do
   enable_coverage :branch
