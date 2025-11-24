@@ -78,6 +78,29 @@ class ImageDocumentsTest < Minitest::Test
     assert errors.empty?, errors.join("\n")
   end
 
+  def test_assets_images_have_metadata_documents
+    asset_images = Dir['assets/images/**/*'].select do |path|
+      File.file?(path) && IMAGE_EXTENSIONS.include?(File.extname(path).downcase)
+    end
+
+    referenced_images = @image_docs.filter_map do |doc|
+      image_url = doc[:data]['image_url']
+      relative = normalized_image_relative_path(image_url)
+      next unless relative
+
+      relative_path(repo_root.join(relative))
+    end.to_set
+
+    errors = asset_images.filter_map do |path|
+      relative = relative_path(path)
+      next if referenced_images.include?(relative)
+
+      "#{relative}: missing corresponding _images markdown document"
+    end
+
+    assert errors.empty?, errors.join("\n")
+  end
+
   def test_source_matches_an_organization_title
     errors = @image_docs.filter_map do |doc|
       source = doc[:data]['source']
