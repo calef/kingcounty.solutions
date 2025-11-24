@@ -155,6 +155,33 @@ class PostsFrontMatterTest < Minitest::Test
     assert errors.empty?, "Image issues:\n#{errors.join("\n")}"
   end
 
+  def test_unpublished_posts_have_no_images
+    errors = []
+
+    posts.each do |doc|
+      next unless doc[:data]['published'] == false
+      images = doc[:data]['images']
+      next if images.is_a?(Array) && images.empty?
+
+      errors << "#{doc[:path]} must not reference images when published: false"
+    end
+
+    assert errors.empty?, "Unpublished image issues:\n#{errors.join("\n")}"
+  end
+
+  def test_posts_without_topics_are_unpublished
+    errors = []
+
+    posts.each do |doc|
+      topics = doc[:data]['topics']
+      next unless topics.is_a?(Array) && topics.empty?
+
+      errors << "#{doc[:path]} must set published: false when topics list is empty" unless doc[:data]['published'] == false
+    end
+
+    assert errors.empty?, "Topic-only publish issues:\n#{errors.join("\n")}"
+  end
+
   def test_summarized_is_always_true
     errors = []
 
