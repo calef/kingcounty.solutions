@@ -21,8 +21,9 @@ title: Organizations Directory
 
   {%- assign hospital = all | where: "type", "Public Hospital District" | sort: "title" -%}
   {%- assign special  = all | where: "type", "Special Purpose District" | sort: "title" -%}
-  {%- assign tribal   = all | where: "type", "Tribal Government" | sort: "title" -%}
+  {%- assign tribal   = all | where: "type", "Tribe" | sort: "title" -%}
   {%- assign cities   = all | where_exp: "i", "i.type == 'City' or i.type == 'Town'" | sort: "title" -%}
+  {%- assign colleges = all | where_exp: "i", "i.type == 'College' or i.type == 'University'" | sort: "title" -%}
   {%- assign cbos     = all | where: "type", "Community-Based Organization" | sort: "title" -%}
 
   {%- assign included_urls = "" | split: "" -%}
@@ -145,12 +146,12 @@ title: Organizations Directory
   {%- endif -%}
 
   {%- comment %}
-  TRIBAL GOVERNMENTS
+  TRIBES
   {%- endcomment -%}
   {%- if tribal.size > 0 -%}
     <section>
       <header>
-        <h2>Tribal Governments</h2>
+        <h2>Tribes</h2>
       </header>
       <div class="hierarchy-tree">
         <ul class="hierarchy-tree-list">
@@ -176,6 +177,28 @@ title: Organizations Directory
           {%- for entity in cities -%}
             {%- assign included_urls = included_urls | push: entity.url -%}
             {% include org-tree.html organization=entity organizations=all %}
+          {%- endfor -%}
+        </ul>
+      </div>
+    </section>
+  {%- endif -%}
+
+  {%- comment %}
+  COLLEGES & UNIVERSITIES
+  {%- endcomment -%}
+  {%- assign top_level_colleges = colleges | where_exp: "i", "i.parent_organization == nil or i.parent_organization == ''" -%}
+  {%- if top_level_colleges.size > 0 -%}
+    <section>
+      <header>
+        <h2>Colleges and Universities</h2>
+      </header>
+      <div class="hierarchy-tree">
+        <ul class="hierarchy-tree-list">
+          {%- for entity in top_level_colleges -%}
+            {%- unless included_urls contains entity.url -%}
+              {%- assign included_urls = included_urls | push: entity.url -%}
+              {% include org-tree.html organization=entity organizations=all %}
+            {%- endunless -%}
           {%- endfor -%}
         </ul>
       </div>
@@ -214,6 +237,8 @@ title: Organizations Directory
     | reject: "type", "County"
     | reject: "type", "City"
     | reject: "type", "Town"
+    | reject: "type", "College"
+    | reject: "type", "University"
     | reject: "type", "Public Hospital District"
     | reject: "type", "Special Purpose District"
     | reject: "type", "Community-Based Organization"
