@@ -2,6 +2,7 @@
 acronym: PSESD
 jurisdictions:
 - King County
+parent_organization: Office of Superintendent of Public Instruction
 phone: 425-917-7602
 email: rhill@psesd.org
 address: 800 Oakesdale Ave SW, Renton, WA, 98057

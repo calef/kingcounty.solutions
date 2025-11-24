@@ -4,6 +4,7 @@ jurisdictions:
 - Carnation
 - King County
 news_rss_url: https://www.rsd407.org/blog-feed.xml
+parent_organization: Puget Sound Educational Service District 121
 phone: 425.844.4500
 email: communications@rsd407.org
 title: Riverview School District

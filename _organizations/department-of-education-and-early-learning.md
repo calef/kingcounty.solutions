@@ -1,6 +1,7 @@
 ---
 jurisdictions:
 - Seattle
+parent_organization: City of Seattle
 phone: "(206) 233-5118"
 email: education@seattle.gov
 address: 700 5th Ave, Suite 1700, Seattle, WA, 98104

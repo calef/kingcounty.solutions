@@ -6,7 +6,7 @@ topics:
 - Education & Learning
 - Employment & Job Support
 - Mental Health & Counseling
-type: Community-Based Organization
+type: College
 website: https://www.greenriver.edu/cac/
 ---
 

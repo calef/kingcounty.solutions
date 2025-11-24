@@ -9,7 +9,7 @@ topics:
 - Health Care
 - Mental Health & Counseling
 - Financial Assistance
-type: Public Hospital District
+type: Corporation
 website: https://www.seattlechildrens.org/
 ---
 

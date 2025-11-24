@@ -2,6 +2,7 @@
 jurisdictions:
 - King County
 news_rss_url: https://www.navos.org/home-2/feed/
+parent_organization: MultiCare
 phone: 206-248-8226
 email: ruth.tollefson@multicare.org
 title: Navos

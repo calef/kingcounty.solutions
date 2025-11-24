@@ -9,7 +9,7 @@ topics:
 - Education & Learning
 - Employment & Job Support
 - Financial Assistance
-type: Community-Based Organization
+type: College
 website: https://www.shoreline.edu/
 ---
 

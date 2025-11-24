@@ -8,7 +8,7 @@ title: Overlake Medical Center & Clinics
 topics:
 - Health Care
 - Mental Health & Counseling
-type: Public Hospital District
+type: Corporation
 website: https://www.overlakehospital.org/
 ---
 

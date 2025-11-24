@@ -5,7 +5,7 @@ jurisdictions:
 phone: "(858) 695-6810"
 email: info@teamstepusa.org
 address: 8320 Juniper Creek Ln, San Diego, CA 92126
-title: Support The Enlisted Project (STEP)
+title: Support The Enlisted Project
 topics:
 - Financial Assistance
 - Mental Health & Counseling

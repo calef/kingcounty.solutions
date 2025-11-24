@@ -12,7 +12,7 @@ topics:
 - Education & Learning
 - Mental Health & Counseling
 - Childcare
-type: Agency
+type: Community-Based Organization
 website: https://wonderlandkids.org/
 ---
 

@@ -1,6 +1,7 @@
 ---
 jurisdictions:
-- King County
+- Washington State
+parent_organization: State Executive Branch
 title: Washington State Department of Transportation
 topics:
 - Transportation & Mobility

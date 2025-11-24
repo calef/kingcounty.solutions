@@ -6,7 +6,7 @@ title: Cascadia College
 topics:
 - Education & Learning
 - Employment & Job Support
-type: Community-Based Organization
+type: College
 website: https://www.cascadia.edu/academic-programs/default.aspx
 ---
 

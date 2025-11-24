@@ -2,6 +2,7 @@
 acronym: UGM
 jurisdictions:
 - Seattle
+parent_organization: Seattle's Union Gospel Mission
 title: Seattle's Union Gospel Mission - Men's Recovery Program
 topics:
 - Disabilities
@@ -9,7 +10,7 @@ topics:
 - Mental Health & Counseling
 - Shelter & Housing
 - Employment & Job Support
-type: Community-Based Organization
+type: Program
 website: https://www.ugm.org/what-we-do/heal-and-reconcile/mens-recovery-program/
 ---
 

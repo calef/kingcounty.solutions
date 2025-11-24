@@ -1,5 +1,4 @@
 ---
-acronym: KYFS
 jurisdictions:
 - Kent
 - King County

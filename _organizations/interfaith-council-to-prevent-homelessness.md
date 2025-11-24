@@ -6,7 +6,7 @@ news_rss_url: https://ifchvashon.org/feed/
 phone: "(206) 643-5169"
 email: bc2vashon@centurytel.net
 address: PO Box 330, Vashon, WA 98070
-title: Interfaith Council to Prevent Homelessness (IFCH)
+title: Interfaith Council to Prevent Homelessness
 topics:
 - Shelter & Housing
 - Food & Nutrition

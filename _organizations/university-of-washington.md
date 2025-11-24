@@ -9,7 +9,7 @@ title: University of Washington
 topics:
 - Education & Learning
 - Health Care
-type: Community-Based Organization
+type: University
 website: https://www.washington.edu/
 ---
 

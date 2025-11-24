@@ -2,7 +2,7 @@
 jurisdictions:
 - Eastside
 news_rss_url: https://nami-eastside.org/feed/
-title: National Alliance on Mental Illness (NAMI) Eastside
+title: National Alliance on Mental Illness Eastside
 topics:
 - Mental Health & Counseling
 type: Community-Based Organization

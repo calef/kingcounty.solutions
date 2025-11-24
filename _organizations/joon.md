@@ -6,7 +6,7 @@ email: hello@joon.com
 title: Joon
 topics:
 - Mental Health & Counseling
-type: Community-Based Organization
+type: Corporation
 website: https://www.joon.com/partners/cityofseattle-yfe
 ---
 

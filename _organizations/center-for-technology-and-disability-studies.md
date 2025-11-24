@@ -1,6 +1,7 @@
 ---
 jurisdictions:
 - Washington State
+parent_organization: University of Washington
 title: Center for Technology and Disability Studies
 topics:
 - Disabilities

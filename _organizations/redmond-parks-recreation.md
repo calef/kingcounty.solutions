@@ -2,6 +2,7 @@
 jurisdictions:
 - Redmond
 - King County
+parent_organization: City of Redmond
 title: Redmond Parks & Recreation
 topics:
 - Education & Learning

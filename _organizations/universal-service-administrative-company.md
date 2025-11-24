@@ -2,6 +2,7 @@
 jurisdictions:
 - United States
 news_rss_url: https://www.usac.org/feed/
+parent_organization: Federal Communications Commission
 title: Universal Service Administrative Company
 topics:
 - Health Care

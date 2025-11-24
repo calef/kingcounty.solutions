@@ -3,12 +3,13 @@ acronym: ICHS
 jurisdictions:
 - Seattle
 - King County
+parent_organization: International Community Health Services
 phone: 425.373.3030
-title: International Community Health Services - Dental Care
+title: International Community Health Services Dental Care
 topics:
 - Health Care
 - Food & Nutrition
-type: Community-Based Organization
+type: Department
 website: https://www.ichs.com/health-services/dental/
 ---
 

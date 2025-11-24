@@ -3,7 +3,7 @@ jurisdictions:
 - United States
 acronym: AMR
 parent_organization: Global Medical Response
-title: American Medical Response (AMR)
+title: American Medical Response
 topics:
 - Health Care
 - Mental Health & Counseling

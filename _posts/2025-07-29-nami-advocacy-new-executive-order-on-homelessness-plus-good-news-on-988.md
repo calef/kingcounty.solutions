@@ -1,7 +1,7 @@
 ---
 title: 'NAMI Advocacy: New Executive Order on Homelessness, Plus Good News on 988'
 date: '2025-07-29T19:12:04+00:00'
-source: National Alliance on Mental Illness (NAMI) Eastside
+source: National Alliance on Mental Illness Eastside
 source_url: https://nami-eastside.org/nami-advocacy-new-executive-order-on-homelessness-plus-good-news-on-988/
 original_content: |-
   Late yesterday afternoon, Thursday, July 24, the White House released a new Executive Order from President Trump entitled “Ending Crime and Disorder on America’s Streets” (read the[full text](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fnami.us14.list-manage.com%2Ftrack%2Fclick%3Fu%3D5ed5d2d79373961d7c441f5ef%26id%3D0c46a4d014%26e%3D40503830f7&data=05%7C02%7Claura%40nami-eastside.org%7C4f4a18fd2a8e4ab3e06608ddcbbb7db9%7Cacb58c3aacf54572a3f86211daab79e1%7C0%7C0%7C638890728333160402%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=TQp6R4oUQBNtyNrTcMra9U3DhYdx1lv7LfVNkgS9mOM%3D&reserved=0) and [fact sheet](https://nami.us14.list-manage.com/track/click?u=5ed5d2d79373961d7c441f5ef&id=e4fa0091c4&e=40503830f7)). NAMI is deeply concerned about this order, which largely focuses on people with serious mental illness and/or substance use disorders. Earlier today, NAMI released a [statement](https://www.nami.org/press-releases/nami-statement-on-executive-order-targeting-homelessness-and-criminalizing-mental-illness/), and below is more context and information about the order.

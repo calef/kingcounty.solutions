@@ -1,6 +1,7 @@
 ---
 jurisdictions:
 - Kirkland
+parent_organization: Lake Washington Institute of Technology
 phone: "(425) 739-8339"
 email: WFD@LWTech.edu
 title: Lake Washington Institute of Technology Workforce Development
@@ -8,7 +9,7 @@ topics:
 - Employment & Job Support
 - Education & Learning
 - Financial Assistance
-type: Department
+type: Program
 website: https://www.lwtech.edu/wfd
 ---
 

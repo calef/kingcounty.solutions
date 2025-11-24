@@ -1,4 +1,5 @@
 ---
+address: 4016 South 352nd Street in Auburn, WA 98001
 jurisdictions:
 - South King County
 - King County

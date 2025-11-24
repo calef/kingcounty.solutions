@@ -1,10 +1,11 @@
 ---
 jurisdictions:
 - Bellevue
+parent_organization: Bellevue College
 title: English as a Second Language (ESL) - Bellevue College
 topics:
 - Education & Learning
-type: Community-Based Organization
+type: Program
 website: https://www.bellevuecollege.edu/deved/english-as-a-second-language/
 ---
 

@@ -6,7 +6,7 @@ title: South Seattle College
 topics:
 - Education & Learning
 - Employment & Job Support
-type: Community-Based Organization
+type: College
 website: https://southseattle.edu/
 ---
 

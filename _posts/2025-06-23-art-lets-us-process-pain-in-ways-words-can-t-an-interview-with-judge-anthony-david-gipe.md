@@ -1,7 +1,7 @@
 ---
 title: "“Art Lets us Process Pain in Ways Words Can’t.” An Interview with Judge Anthony David Gipe"
 date: '2025-06-23T20:58:09+00:00'
-source: National Alliance on Mental Illness (NAMI) Eastside
+source: National Alliance on Mental Illness Eastside
 source_url: https://nami-eastside.org/art-lets-us-process-pain-in-ways-words-cant-an-interview-with-judge-anthony-david-gipe/
 original_content: |-
   **_“Art Lets us Process Pain in Ways Words Can’t.”_**

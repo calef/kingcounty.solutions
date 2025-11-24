@@ -9,7 +9,7 @@ title: Antioch University
 topics:
 - Education & Learning
 - Mental Health & Counseling
-type: Community-Based Organization
+type: University
 website: https://www.antioch.edu/
 ---
 
