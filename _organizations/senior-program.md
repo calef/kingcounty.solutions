@@ -1,6 +1,7 @@
 ---
 jurisdictions:
 - King County
+parent_organization: City of Issaquah
 phone: 425-837-3070
 email: utilitybilling@issaquahwa.gov
 address: 130 E Sunset Way, Issaquah, WA 98027
@@ -8,7 +9,7 @@ title: Senior Program
 topics:
 - Financial Assistance
 - Personal & Household Needs
-type: Department
+type: Program
 website: https://www.issaquahwa.gov/3022/Senior-Program
 ---
 

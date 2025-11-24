@@ -9,7 +9,7 @@ topics:
 - Transportation & Mobility
 - Health Care
 - Mental Health & Counseling
-type: Agency
+type: Community-Based Organization
 website: https://www.dav.org/veterans/i-need-a-ride/
 ---
 

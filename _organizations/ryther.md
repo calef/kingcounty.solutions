@@ -7,7 +7,7 @@ topics:
 - Mental Health & Counseling
 - Disabilities
 - Domestic Violence
-type: Agency
+type: Community-Based Organization
 website: https://www.ryther.org/therapy-and-family-services
 ---
 

@@ -9,7 +9,7 @@ topics:
 - Education & Learning
 - Employment & Job Support
 - Mental Health & Counseling
-type: Program
+type: Division
 website: https://www.commerce.wa.gov/homelessness-response/ohy/
 
 ---

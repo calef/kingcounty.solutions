@@ -2,11 +2,12 @@
 acronym: MCBH
 jurisdictions:
 - King County
+parent_organization: MultiCare
 phone: 253-697-8400
 title: MultiCare Behavioral Health
 topics:
 - Mental Health & Counseling
-type: Agency
+type: Program
 website: https://www.multicare.org/services/mental-behavioral-health/
 ---
 

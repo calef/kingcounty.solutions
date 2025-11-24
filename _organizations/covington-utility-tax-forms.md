@@ -4,7 +4,7 @@ jurisdictions:
 title: Covington Utility Tax Forms
 topics:
 - Financial Assistance
-type: City
+type: Program
 website: https://www.covingtonwa.gov/documentcenter/utilitytaxforms.php
 ---
 

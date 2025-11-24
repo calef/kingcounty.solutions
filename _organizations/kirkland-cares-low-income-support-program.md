@@ -7,7 +7,7 @@ title: Kirkland Cares Low-Income Support Program
 topics:
 - Financial Assistance
 - Personal & Household Needs
-type: City
+type: Program
 website: https://www.kirklandwa.gov/Government/Departments/Finance-and-Administration/Kirkland-Cares-Low-Income-Support-Program
 ---
 

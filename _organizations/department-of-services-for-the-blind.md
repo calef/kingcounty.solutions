@@ -7,7 +7,7 @@ title: Department of Services for the Blind
 topics:
 - Disabilities
 - Employment & Job Support
-type: Agency
+type: Department
 website: https://dsb.wa.gov/
 ---
 

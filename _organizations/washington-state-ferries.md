@@ -5,7 +5,7 @@ parent_organization: Washington State Department of Transportation
 title: Washington State Ferries
 topics:
 - Transportation & Mobility
-type: Department
+type: Division
 website: https://wsdot.wa.gov/travel/washington-state-ferries
 ---
 

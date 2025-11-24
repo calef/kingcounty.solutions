@@ -12,7 +12,7 @@ topics:
 - Health Care
 - Mental Health & Counseling
 - Shelter & Housing
-type: Agency
+type: Community-Based Organization
 website: https://www.rescue.org/
 ---
 

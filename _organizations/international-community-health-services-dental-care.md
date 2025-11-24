@@ -9,7 +9,7 @@ title: International Community Health Services Dental Care
 topics:
 - Health Care
 - Food & Nutrition
-type: Department
+type: Program
 website: https://www.ichs.com/health-services/dental/
 ---
 

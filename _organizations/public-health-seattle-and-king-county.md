@@ -7,7 +7,7 @@ topics:
 - Health Care
 - Mental Health & Counseling
 - Food & Nutrition
-type: Agency
+type: Department
 website: https://kingcounty.gov/depts/health.aspx
 ---
 

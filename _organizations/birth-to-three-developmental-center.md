@@ -9,7 +9,7 @@ topics:
 - Education & Learning
 - Health Care
 - Mental Health & Counseling
-type: Program
+type: Community-Based Organization
 website: https://www.birthtothree.org/
 ---
 

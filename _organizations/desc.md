@@ -9,7 +9,7 @@ topics:
 - Mental Health & Counseling
 - Health Care
 - Disabilities
-type: Agency
+type: Community-Based Organization
 website: https://www.desc.org/
 ---
 

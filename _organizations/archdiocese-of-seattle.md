@@ -17,7 +17,7 @@ topics:
 - Mental Health & Counseling
 - Personal & Household Needs
 - Shelter & Housing
-type: Agency
+type: Community-Based Organization
 website: https://archseattle.org/
 ---
 

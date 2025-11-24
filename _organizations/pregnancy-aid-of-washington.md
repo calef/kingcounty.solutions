@@ -5,7 +5,7 @@ jurisdictions:
 title: Pregnancy Aid of Washington
 topics:
 - Personal & Household Needs
-type: Agency
+type: Community-Based Organization
 website: https://www.pregnancyaidwa.org/
 ---
 

@@ -8,7 +8,7 @@ topics:
 - Domestic Violence
 - Education & Learning
 - Legal Aid
-type: Program
+type: Agency
 website: https://www.opd.wa.gov/
 ---
 

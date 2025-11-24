@@ -7,7 +7,7 @@ title: Social Security Administration
 topics:
 - Financial Assistance
 - Disabilities
-type: Agency
+type: Independent Federal Agency
 website: https://www.ssa.gov/
 ---
 

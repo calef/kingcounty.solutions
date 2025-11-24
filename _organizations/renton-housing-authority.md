@@ -8,7 +8,7 @@ address: 2900 NE 10th St., Renton, WA 98056
 title: Renton Housing Authority
 topics:
 - Shelter & Housing
-type: Agency
+type: Independent Public Corporation
 website: https://rentonhousing.org
 ---
 

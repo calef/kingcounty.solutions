@@ -9,7 +9,7 @@ title: North Bellevue Community Center
 topics:
 - Health Care
 - Education & Learning
-type: City
+type: Program
 website: https://parks.bellevuewa.gov/community-centers/north-bellevue-community-center/
 ---
 

@@ -1,13 +1,14 @@
 ---
 jurisdictions:
 - Kirkland
+parent_organization: City of Kirkland
 phone: 425-286-1026
 email: Eparks@kirklandwa.gov
 address: 352 Kirkland Avenue, Kirkland, WA 98033
 title: PKCC Van & Transportation Information
 topics:
 - Transportation & Mobility
-type: City
+type: Program
 website: https://www.kirklandwa.gov/Government/Departments/Parks-and-Community-Services/Register-for-a-Recreation-Program/50-Activities-and-Services/PKCC-Van-Transportation-Information
 ---
 

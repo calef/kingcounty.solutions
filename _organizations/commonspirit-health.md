@@ -7,7 +7,7 @@ title: CommonSpirit Health
 topics:
 - Health Care
 - Mental Health & Counseling
-type: Agency
+type: Corporation
 website: https://www.commonspirit.org/
 ---
 

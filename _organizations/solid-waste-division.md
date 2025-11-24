@@ -8,7 +8,7 @@ address: 1700 Maury St, Des Moines, IA 50317
 title: Solid Waste Division
 topics:
 - Personal & Household Needs
-type: Department
+type: Division
 website: https://www.dsm.city/departments/public_works-division/garbage_collection/garbage_collection.php
 ---
 

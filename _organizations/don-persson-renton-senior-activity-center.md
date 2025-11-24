@@ -9,7 +9,7 @@ topics:
 - Education & Learning
 - Food & Nutrition
 - Senior Services
-type: City
+type: Program
 website: https://www.rentonwa.gov/Government/Departments-and-Offices/Parks-and-Recreation/Things-To-Do/Community-Centers/Don-Persson-Renton-Senior-Activity-Center
 ---
 

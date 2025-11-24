@@ -6,7 +6,7 @@ title: Career Exploration Center
 topics:
 - Employment & Job Support
 - Education & Learning
-type: Department
+type: Program
 website: https://seattlecentral.edu/campus-life/student-support-and-services/career-exploration-center
 ---
 

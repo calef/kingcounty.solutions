@@ -7,7 +7,7 @@ phone: 206-281-8901
 title: Washington State Labor Council, AFL-CIO
 topics:
 - Employment & Job Support
-type: Agency
+type: Community-Based Organization
 website: https://www.wslc.org/services/
 ---
 

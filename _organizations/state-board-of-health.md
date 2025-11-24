@@ -8,7 +8,7 @@ topics:
 - Health Care
 - Mental Health & Counseling
 - Education & Learning
-type: Department
+type: Agency
 website: https://sboh.wa.gov/
 ---
 

@@ -1,5 +1,4 @@
 ---
-acronym: TRAC
 jurisdictions:
 - Seattle
 - Kent
@@ -9,7 +8,7 @@ address: '1511 3rd Avenue, Suite # 701, Seattle, WA 98101'
 title: TRAC Associates
 topics:
 - Employment & Job Support
-type: Agency
+type: Community-Based Organization
 website: https://www.tracassoc.com
 ---
 

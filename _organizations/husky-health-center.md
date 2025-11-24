@@ -11,7 +11,7 @@ title: Husky Health Center
 topics:
 - Health Care
 - Mental Health & Counseling
-type: Department
+type: Program
 website: https://wellbeing.uw.edu/medical/primary-care/
 ---
 

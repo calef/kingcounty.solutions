@@ -10,7 +10,7 @@ title: Arcora Foundation
 topics:
 - Health Care
 - Food & Nutrition
-type: Independent Public Corporation
+type: Community-Based Organization
 website: https://arcorafoundation.org/
 ---
 

@@ -13,7 +13,7 @@ topics:
 - Personal & Household Needs
 - Shelter & Housing
 - Transportation & Mobility
-type: Department
+type: Program
 website: https://seattle.gov/courts/crc
 ---
 

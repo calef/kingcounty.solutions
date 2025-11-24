@@ -10,7 +10,7 @@ topics:
 - Employment & Job Support
 - Health Care
 - Mental Health & Counseling
-type: Agency
+type: Community-Based Organization
 website: https://www.salvationarmyusa.org/
 ---
 

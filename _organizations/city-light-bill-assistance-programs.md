@@ -8,7 +8,7 @@ title: City Light Bill Assistance Programs
 topics:
 - Financial Assistance
 - Personal & Household Needs
-type: Department
+type: Program
 website: https://seattle.gov/city-light/residential-services/billing-information/bill-assistance-programs
 ---
 

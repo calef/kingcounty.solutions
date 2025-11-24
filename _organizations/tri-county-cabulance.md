@@ -5,7 +5,7 @@ phone: 425-775-8358
 title: Tri-County Cabulance
 topics:
 - Transportation & Mobility
-type: Independent Public Corporation
+type: Corporation
 website: https://tricountycabulance.com/
 ---
 
