@@ -9,6 +9,11 @@
   {% endif %}
 {% endfor %}
 {% assign slide_total = carousel_slides | size %}
+{% if include.show_source == false %}
+  {% assign carousel_show_source = false %}
+{% else %}
+  {% assign carousel_show_source = true %}
+{% endif %}
 {% if slide_total > 0 %}
   <section class="media-carousel-section" aria-label="Images">
     <div class="media-carousel" data-media-carousel data-slide-count="{{ slide_total }}">
@@ -16,24 +21,30 @@
         {% for image_doc in carousel_slides %}
           {% assign image_url = image_doc.image_url | default: image_doc.data.image_url %}
           {% assign current_index = forloop.index0 %}
+          {% assign checksum_value = image_doc.data.checksum | default: '' | to_s | strip %}
+          {% assign caption_text = image_doc.data.title | to_s | strip %}
+          {% if caption_text == checksum_value %}
+            {% assign caption_text = '' %}
+          {% endif %}
+          {% assign alt_text = image_doc.data.alt | default: image_doc.data.alt_text | default: caption_text | default: image_doc.source | default: 'Image' %}
+          {% assign alt_text = alt_text | to_s | strip %}
+          {% if alt_text == '' or alt_text == checksum_value %}
+            {% assign alt_text = 'Image' %}
+          {% endif %}
+          {% assign source_name = image_doc.source | to_s | strip %}
+          {% assign source_url = image_doc.source_url %}
+          {% assign caption_source_org = nil %}
+          {% if source_name %}
+            {% assign caption_source_org = site.organizations | where: "title", source_name | first %}
+          {% endif %}
           <figure class="media-carousel-slide" data-carousel-slide data-carousel-index="{{ current_index }}">
-            <img src="{{ image_url | relative_url }}" alt="{{ image_doc.title | default: image_doc.checksum | escape }}" loading="{% if current_index == 0 %}eager{% else %}lazy{% endif %}">
-            {% assign caption_text = image_doc.title | to_s | strip %}
-            {% if caption_text == image_doc.checksum %}
-              {% assign caption_text = '' %}
-            {% endif %}
-            {% assign source_name = image_doc.source | to_s | strip %}
-            {% assign source_url = image_doc.source_url %}
-            {% assign caption_source_org = nil %}
-            {% if source_name %}
-              {% assign caption_source_org = site.organizations | where: "title", source_name | first %}
-            {% endif %}
-            {% if caption_text or source_name or source_url %}
+            <img src="{{ image_url | relative_url }}" alt="{{ alt_text | escape }}" loading="{% if current_index == 0 %}eager{% else %}lazy{% endif %}">
+            {% if caption_text or (carousel_show_source and (source_name or source_url)) %}
               <figcaption class="media-carousel-caption">
                 {% if caption_text %}
                   <span class="media-carousel-caption-text">{{ caption_text | escape }}</span>
                 {% endif %}
-                {% if source_name or source_url %}
+                {% if carousel_show_source and (source_name or source_url) %}
                   <span class="media-carousel-caption-source">
                     {% if source_name %}<span class="media-carousel-caption-label">Source:</span> {% endif %}
                     {% if caption_source_org %}
@@ -54,7 +65,9 @@
       </div>
       <div class="media-carousel-controls">
         <button class="media-carousel-button" type="button" data-carousel-prev aria-label="View previous image" disabled>Previous</button>
-        <span class="media-carousel-status" data-carousel-status aria-live="polite">Image 1 of {{ slide_total }}</span>
+        {% if slide_total > 1 %}
+          <span class="media-carousel-status" data-carousel-status aria-live="polite">Image 1 of {{ slide_total }}</span>
+        {% endif %}
         <button class="media-carousel-button" type="button" data-carousel-next aria-label="View next image"{% if slide_total == 1 %} disabled{% endif %}>Next</button>
       </div>
       {% if slide_total > 1 and slide_total <= 30 %}

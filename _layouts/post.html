@@ -63,7 +63,7 @@ layout: default
       {% endfor %}
       {% assign post_carousel_count = post_carousel_images | size %}
       {% if post_carousel_count > 0 %}
-        {% include carousel.html images=post_carousel_images %}
+        {% include carousel.html images=post_carousel_images show_source=false %}
       {% endif %}
     {% endif %}
   </div>
