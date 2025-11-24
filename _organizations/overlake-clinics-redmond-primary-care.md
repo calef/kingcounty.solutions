@@ -1,5 +1,4 @@
 ---
-acronym: OC
 jurisdictions:
 - King County
 parent_organization: Overlake Medical Center & Clinics

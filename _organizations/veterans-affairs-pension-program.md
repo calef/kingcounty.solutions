@@ -1,6 +1,7 @@
 ---
 jurisdictions:
 - United States
+parent_organization: Department of Veterans Affairs
 title: Veterans Affairs Pension Program
 topics:
 - Financial Assistance

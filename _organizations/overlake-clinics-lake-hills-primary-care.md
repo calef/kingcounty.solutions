@@ -1,5 +1,4 @@
 ---
-acronym: OLC
 jurisdictions:
 - Bellevue
 parent_organization: Overlake Medical Center & Clinics
