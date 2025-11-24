@@ -23,39 +23,7 @@ layout: default
 
   <section>
     {%- for post in paginated_posts -%}
-      <article>
-        <header>
-          <h3>
-            <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-          </h3>
-          <p class="news-meta">
-            <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
-            {%- assign source_text = post.source | default: post.source_url -%}
-            {%- if source_text -%}
-              • <span class="news-source">
-                {%- assign matching_org = nil -%}
-                {%- if post.source -%}
-                  {%- assign matching_org = site.organizations | where: "title", post.source | first -%}
-                {%- endif -%}
-                {%- if matching_org -%}
-                  <a href="{{ matching_org.url | relative_url }}">{{ post.source }}</a>
-                {%- elsif post.source_url -%}
-                  <a href="{{ post.source_url }}" rel="noopener noreferrer">{{ source_text }}</a>
-                {%- else -%}
-                  {{ source_text }}
-                {%- endif -%}
-              </span>
-            {%- endif -%}
-          </p>
-        </header>
-        {%- assign teaser = post.excerpt | strip_html | strip_newlines -%}
-        {%- if teaser == "" or teaser == nil -%}
-          {%- assign teaser = post.content | strip_html | strip_newlines -%}
-        {%- endif -%}
-        {%- if teaser -%}
-          <p class="news-excerpt">{{ teaser | truncate: 260 }}</p>
-        {%- endif -%}
-      </article>
+      {% include news-item.html post=post %}
     {%- endfor -%}
   </section>
 

@@ -85,36 +85,7 @@ layout: default
         <h2>News related to {{ page.title }}</h2>
       </header>
         {% for post in place_news %}
-          <article>
-            <header>
-              <h3>
-                <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-              </h3>
-              <p class="news-meta">
-                <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
-                {% assign source_text = post.source | default: post.source_url %}
-                {% if source_text %}
-                  • <span class="news-source">
-                    {% assign matching_org = nil %}
-                    {% if post.source %}
-                      {% assign matching_org = site.organizations | where: "title", post.source | first %}
-                    {% endif %}
-                    {% if matching_org %}
-                      <a href="{{ matching_org.url | relative_url }}">{{ post.source }}</a>
-                    {% elsif post.source_url %}
-                      <a href="{{ post.source_url }}" rel="noopener noreferrer">{{ source_text }}</a>
-                    {% else %}
-                      {{ source_text }}
-                    {% endif %}
-                  </span>
-                {% endif %}
-              </p>
-            </header>
-            {% assign post_excerpt = post.excerpt | strip_html | strip_newlines %}
-            {% if post_excerpt %}
-              <p class="news-excerpt">{{ post_excerpt | truncate: 220 }}</p>
-            {% endif %}
-          </article>
+          {% include news-item.html post=post %}
       {% endfor %}
       {% if place_news_total > 20 %}
         <p>
