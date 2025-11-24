@@ -1,4 +1,20 @@
-<article>
+{%- assign primary_image_id = include.image_id -%}
+{%- if (primary_image_id == nil or primary_image_id == '') and include.post.images -%}
+  {%- assign primary_image_id = include.post.images | first -%}
+{%- endif -%}
+{%- assign primary_image = nil -%}
+{%- if primary_image_id -%}
+  {%- assign primary_image = site.images | where: "checksum", primary_image_id | first -%}
+{%- endif -%}
+{%- assign primary_image_url = nil -%}
+{%- assign primary_image_alt = include.post.title -%}
+{%- if primary_image -%}
+  {%- assign primary_image_url = primary_image.image_url -%}
+  {%- if primary_image.title -%}
+    {%- assign primary_image_alt = primary_image.title -%}
+  {%- endif -%}
+{%- endif -%}
+<article class="news-item{% if primary_image_url %} news-item--has-image{% endif %}">
   <header>
     <h3>
       <a href="{{ include.post.url | relative_url }}">{{ include.post.title }}</a>
@@ -33,7 +49,18 @@
   {%- if news_excerpt -%}
     {%- assign news_excerpt = news_excerpt | strip_html | strip_newlines -%}
   {%- endif -%}
+  {%- assign truncated_excerpt = nil -%}
   {%- if news_excerpt -%}
-    <p class="news-excerpt">{{ news_excerpt | truncate: 220 }}</p>
+    {%- assign truncated_excerpt = news_excerpt | truncate: 300 -%}
+  {%- endif -%}
+  {%- if truncated_excerpt -%}
+    <div class="news-item-body{% if primary_image_url %} news-item-body--with-image{% endif %}">
+      {%- if primary_image_url -%}
+        <div class="news-item-thumb">
+          <img src="{{ primary_image_url }}" alt="{{ primary_image_alt }}" width="100" height="100" loading="lazy" decoding="async">
+        </div>
+      {%- endif -%}
+      <p class="news-excerpt">{{ truncated_excerpt }}</p>
+    </div>
   {%- endif -%}
 </article>
