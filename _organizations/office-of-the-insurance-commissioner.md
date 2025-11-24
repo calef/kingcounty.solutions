@@ -4,7 +4,6 @@ address: 5000 Capitol Blvd SE, Tumwater, WA 98501
 email: oiccodr@oic.wa.gov
 jurisdictions:
 - Washington State
-news_rss_url: https://content.govdelivery.com/accounts/WAOIC/bulletins.rss
 parent_organization: State Executive Branch
 phone: 800-562-6900
 title: Office of the Insurance Commissioner
