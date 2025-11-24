@@ -108,21 +108,7 @@ def ensure_image_doc(checksum, alt, filename, post_frontmatter, original_url)
   source = post_frontmatter['source']
   date = post_frontmatter['date']
 
-  if File.exist?(doc_path)
-    existing_data, existing_body = read_frontmatter(doc_path)
-    if existing_data
-      updated = existing_data.dup
-      updated['checksum'] = checksum unless updated['checksum'] == checksum
-      updated['image_url'] = image_url
-      updated['source_url'] = original_url
-      updated['source'] = source if source && source != existing_data['source']
-      updated['date'] = date if date && date != existing_data['date']
-      updated['title'] = alt unless alt.to_s.strip.empty?
-
-      write_with_frontmatter(doc_path, updated, existing_body) if updated != existing_data
-      return
-    end
-  end
+  return if File.exist?(doc_path)
 
   title = alt.to_s.strip
   frontmatter = {
