@@ -135,26 +135,28 @@ module Mayhem
         attempts = 0
         while attempts < 3
           attempts += 1
-          response = @client.chat(
-            parameters: {
-              model: DEFAULT_MODEL,
-              messages: [
-                { role: 'system', content: 'You are a helpful assistant.' },
-                { role: 'user', content: prompt }
-              ],
-              temperature: 0.7
-            }
-          )
-          if (error_message = response.dig('error', 'message'))
-            @logger.warn "OpenAI error for #{file_path}: #{error_message}"
-            break
-          end
+          begin
+            response = @client.chat(
+              parameters: {
+                model: DEFAULT_MODEL,
+                messages: [
+                  { role: 'system', content: 'You are a helpful assistant.' },
+                  { role: 'user', content: prompt }
+                ],
+                temperature: 0.7
+              }
+            )
+            if (error_message = response.dig('error', 'message'))
+              @logger.warn "OpenAI error for #{file_path}: #{error_message}"
+              break
+            end
 
-          summary = response.dig('choices', 0, 'message', 'content')&.strip
-          return summary unless summary.to_s.empty?
-        rescue Faraday::TooManyRequestsError
-          @logger.warn "Rate limited, waiting 5 seconds before retry (attempt #{attempts})"
-          sleep 5
+            summary = response.dig('choices', 0, 'message', 'content')&.strip
+            return summary unless summary.to_s.empty?
+          rescue Faraday::TooManyRequestsError
+            @logger.warn "Rate limited, waiting 5 seconds before retry (attempt #{attempts})"
+            sleep 5
+          end
         end
 
         @logger.warn "Skipped #{file_path}: could not summarize"
