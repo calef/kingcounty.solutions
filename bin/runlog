@@ -1,0 +1,12 @@
+#!/usr/bin/env bash
+set -euo pipefail
+
+cmd="$1"; shift
+
+timestamp=$(date +"%Y-%m-%d")
+logdir="logs"
+mkdir -p "$logdir"
+
+logfile="$logdir/${cmd##*/}-$timestamp.jsonl"
+
+"$cmd" "$@" >> "$logfile" 2>&1

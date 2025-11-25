@@ -48,6 +48,7 @@ exclude:
   - bin/
   - gemfiles/
   - lib/
+  - logs/
   - script/
   - vendor/
   - coverage/
