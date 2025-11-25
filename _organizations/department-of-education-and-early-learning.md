@@ -11,6 +11,7 @@ topics:
 - Mental Health & Counseling
 type: Department
 website: https://www.seattle.gov/education
+news_rss_url: https://education.seattle.gov/feed-xs/
 ---
 
 The Department of Education and Early Learning (DEEL) in Seattle focuses on providing equitable educational opportunities and supports for families and students. DEEL manages programs like the Seattle Preschool Program and the Families, Education, Preschool, and Promise Levy, aiming to enhance kindergarten readiness, high school graduation, and postsecondary success.

@@ -9,6 +9,7 @@ topics:
 - Food & Nutrition
 type: Community-Based Organization
 website: https://www.essentialsfirst.org/
+news_rss_url: https://www.essentialsfirst.org/blog?format=rss
 ---
 
 Essentials First empowers dignity daily by providing equitable access to personal hygiene essentials and culturally-appropriate food assistance. We support vulnerable communities, ensuring everyone has access to life-giving hygiene products and food resources.

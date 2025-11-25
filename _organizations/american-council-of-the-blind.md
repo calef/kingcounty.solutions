@@ -11,6 +11,7 @@ topics:
 - Education & Learning
 type: Community-Based Organization
 website: https://www.acb.org/home
+news_rss_url: https://pinecast.com/feed/acb-reports
 ---
 
 The American Council of the Blind (ACB) advocates for the equality and independence of people who are blind and visually impaired. ACB provides education, resources, and community connections to support individuals in their journey through vision loss.

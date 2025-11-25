@@ -9,6 +9,7 @@ topics:
 - Food & Nutrition
 type: Community-Based Organization
 website: https://camfed.org
+news_rss_url: https://camfed.org/feed/
 ---
 
 CAMFED supports vulnerable girls and young women in rural Africa through education and women's leadership. By dismantling barriers to education, CAMFED empowers girls to become independent leaders, tackling issues like child marriage and unemployment while fostering community resilience.

@@ -13,6 +13,7 @@ topics:
 - Food & Nutrition
 type: Community-Based Organization
 website: https://www.carepointonline.org
+news_rss_url: https://www.carepointonline.org/news?format=rss
 ---
 
 CarePoint Clinic provides free healthcare services to the Snoqualmie Valley, ensuring access to quality medical care regardless of financial situation. Services include wellness exams, disease management, acute care, and physical therapy, along with a mobile clinic to reach underserved communities.

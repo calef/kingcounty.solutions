@@ -11,8 +11,9 @@ topics:
 - Mental Health & Counseling
 type: Division
 website: https://www.commerce.wa.gov/homelessness-response/ohy/
-
+news_rss_url: https://www.commerce.wa.gov/feed/
 ---
+
 The **Office of Homeless Youth (OHY)** works to ensure youth and young adults have safe, stable housing and access to supportive services.
 It focuses on:
 

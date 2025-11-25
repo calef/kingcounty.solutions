@@ -10,6 +10,7 @@ topics:
 - Disabilities
 type: Community-Based Organization
 website: https://www.hilltop-house.org
+news_rss_url: https://hilltop-house.org/feed/
 ---
 
 Hilltop offers affordable housing for individuals aged 62 and older in a vibrant community setting. Residents can engage in various activities, enjoy a safe living environment, and participate in volunteer opportunities to foster independence and social connections.

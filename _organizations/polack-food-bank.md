@@ -10,6 +10,7 @@ topics:
 - Food & Nutrition
 type: Program
 website: https://www.jfsseattle.org/get-help/polack-food-bank/
+news_rss_url: https://www.jfsseattle.org/feed/
 ---
 
 The Polack Food Bank provides free access to healthy, culturally appropriate food for individuals and families in the Puget Sound region. Open three days a week, it also offers home delivery services for those with limited mobility, prioritizing Jewish households while serving the broader community.
