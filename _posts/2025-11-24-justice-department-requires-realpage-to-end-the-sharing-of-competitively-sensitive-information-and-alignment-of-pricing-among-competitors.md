@@ -8,7 +8,6 @@ original_markdown_body: The Justice Department’s Antitrust Division filed a pr
 summarized: true
 topics:
 - Shelter & Housing
-- Legal Aid
 images: []
 ---
 

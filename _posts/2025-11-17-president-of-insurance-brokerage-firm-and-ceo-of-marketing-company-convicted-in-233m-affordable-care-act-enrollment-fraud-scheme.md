@@ -8,9 +8,6 @@ original_markdown_body: A federal jury in West Palm Beach, Florida, convicted a 
 summarized: true
 topics:
 - Health Care
-- Financial Assistance
-- Mental Health & Counseling
-published: false
 images: []
 ---
 

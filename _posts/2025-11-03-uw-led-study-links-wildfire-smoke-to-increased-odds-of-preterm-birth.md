@@ -60,7 +60,6 @@ original_markdown_body: |-
 summarized: true
 topics:
 - Health Care
-published: false
 images: []
 ---
 

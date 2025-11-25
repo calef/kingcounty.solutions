@@ -7,7 +7,8 @@ original_content: A federal grand jury in the Middle District of Florida returne
 original_markdown_body: A federal grand jury in the Middle District of Florida returned an indictment Wednesday charging a U.K. citizen for his role in a conspiracy to submit fraudulent claims for telehealth services associated with prescriptions for genetic testing and for causing the submission of false Medicare enrollment documents.
 summarized: true
 topics: []
-published: false
+topics:
+  - Health Care
 images: []
 ---
 

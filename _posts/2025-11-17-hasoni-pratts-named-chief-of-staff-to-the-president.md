@@ -46,11 +46,9 @@ original_markdown_body: |-
 
   Contact Victor Balta: [balta@uw.edu](mailto:balta@uw.edu).
 summarized: true
-topics:
-- Education & Learning
-- Employment & Job Support
-images:
-- beb83a10d799e6a8aec1ae6bf8a3afdd50dfd1931aa8a3b3a3dfc18e9cb608ff
+topics: []
+images: []
+published: false
 ---
 
 Hasoni Pratts has been appointed as the chief of staff to University of Washington President Robert J. Jones. In this key leadership position, she will act as a senior advisor and is tasked with advancing the university's strategic priorities and institutional goals. Pratts has extensive experience in higher education governance and national policy advocacy, currently serving on the New York State Board of Regents and as Senior Advisor to the CEO of the National Urban League. Her expertise includes public policy, education equity, and workforce development.

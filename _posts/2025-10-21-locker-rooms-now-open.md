@@ -8,7 +8,6 @@ original_markdown_body: "<section class=\"elementor-section elementor-top-sectio
 summarized: true
 topics:
 - Disabilities
-- Health Care
 images:
 - bed353e604d4ae599f3f328894e0b35a433f9b90b4c2781932fd5b2834f5d544
 - b8f18e94e859669925f2a4ac29b1bafa43635e8059de9cb4daba35824a65cde0

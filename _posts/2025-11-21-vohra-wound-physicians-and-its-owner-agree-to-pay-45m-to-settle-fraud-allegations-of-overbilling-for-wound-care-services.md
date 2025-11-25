@@ -6,8 +6,8 @@ source_url: https://www.justice.gov/opa/pr/vohra-wound-physicians-and-its-owner-
 original_content: Dr. Ameet Vohra and his companies, including Vohra Wound Physicians Management LLC (Vohra), have agreed to pay $45 million to resolve allegations that they violated the False Claims Act by knowingly causing the submission of claims to Medicare for medically unnecessary surgical procedures, for more lucrative surgical procedures when only routine non-surgical wound management had been done, and for evaluation and management services that were not billable under Medicare coverage and coding rules.
 original_markdown_body: Dr. Ameet Vohra and his companies, including Vohra Wound Physicians Management LLC (Vohra), have agreed to pay $45 million to resolve allegations that they violated the False Claims Act by knowingly causing the submission of claims to Medicare for medically unnecessary surgical procedures, for more lucrative surgical procedures when only routine non-surgical wound management had been done, and for evaluation and management services that were not billable under Medicare coverage and coding rules.
 summarized: true
-topics: []
-published: false
+topics:
+  - Health Care
 images: []
 ---
 

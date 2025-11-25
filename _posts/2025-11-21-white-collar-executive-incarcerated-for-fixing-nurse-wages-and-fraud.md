@@ -7,7 +7,7 @@ original_content: A federal district court in Nevada sentenced Eduardo “Eddie�
 original_markdown_body: A federal district court in Nevada sentenced Eduardo “Eddie” Lopez of Las Vegas to 40 months in custody and $550,000 in criminal fines. In addition, Lopez must pay $2,496,101 in criminal restitution to the defrauded purchaser of his home healthcare company. Lopez was also ordered to forfeit $10,459,000 from the fraudulent sale of his home healthcare company.
 summarized: true
 topics:
-- Employment & Job Support
+- Health Care
 images: []
 ---
 

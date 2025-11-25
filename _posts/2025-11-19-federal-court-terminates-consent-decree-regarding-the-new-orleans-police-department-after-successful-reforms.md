@@ -6,8 +6,7 @@ source_url: https://www.justice.gov/opa/pr/federal-court-terminates-consent-decr
 original_content: Today, the U.S. District Court for the Eastern District of Louisiana terminated the consent decree covering the New Orleans Police Department (NOPD), marking the end of federal court oversight under the 2013 decree. The Justice Department and the City of New Orleans jointly moved to terminate the consent decree based on NOPD’s successful implementation of reforms related to use of force; crisis intervention; stops, searches, and arrests; and other areas.
 original_markdown_body: Today, the U.S. District Court for the Eastern District of Louisiana terminated the consent decree covering the New Orleans Police Department (NOPD), marking the end of federal court oversight under the 2013 decree. The Justice Department and the City of New Orleans jointly moved to terminate the consent decree based on NOPD’s successful implementation of reforms related to use of force; crisis intervention; stops, searches, and arrests; and other areas.
 summarized: true
-topics:
-- Mental Health & Counseling
+topics: []
 published: false
 images: []
 ---
