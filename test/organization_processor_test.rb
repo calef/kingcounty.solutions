@@ -4,7 +4,7 @@ require 'fileutils'
 require 'tmpdir'
 
 require 'test_helper'
-require 'news_rss'
+require 'mayhem/organizations/feed_updater'
 
 class OrganizationProcessorTest < Minitest::Test
   class StubFeedFinder
@@ -33,7 +33,7 @@ class OrganizationProcessorTest < Minitest::Test
     write_org('example-org', website: 'https://example.org')
     finder = StubFeedFinder.new('https://example.org' => 'https://example.org/feed')
 
-    processor = NewsRSS::OrganizationProcessor.new(
+    processor = Mayhem::Organizations::FeedUpdater.new(
       org_dir: @org_dir,
       targets: [],
       limit: nil,
@@ -56,7 +56,7 @@ class OrganizationProcessorTest < Minitest::Test
     write_org('beta', website: 'https://beta.test')
     finder = StubFeedFinder.new('https://beta.test' => nil)
 
-    processor = NewsRSS::OrganizationProcessor.new(
+    processor = Mayhem::Organizations::FeedUpdater.new(
       org_dir: @org_dir,
       targets: ['beta'],
       limit: nil,

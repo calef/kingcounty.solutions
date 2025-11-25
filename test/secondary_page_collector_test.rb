@@ -1,7 +1,9 @@
 # frozen_string_literal: true
 
 require 'test_helper'
-require 'news_rss'
+require 'mayhem/news/feed_discovery'
+
+FeedDiscovery = Mayhem::News::FeedDiscovery unless defined?(FeedDiscovery)
 
 class SecondaryPageCollectorTest < Minitest::Test
   def test_collect_prefers_same_host_results
@@ -14,7 +16,7 @@ class SecondaryPageCollectorTest < Minitest::Test
       </html>
     HTML
 
-    collector = NewsRSS::SecondaryPageCollector.new(html, 'https://example.org/home')
+    collector = FeedDiscovery::SecondaryPageCollector.new(html, 'https://example.org/home')
 
     assert_equal(
       ['https://example.org/blog', 'https://external.example.com/blog'],
@@ -32,7 +34,7 @@ class SecondaryPageCollectorTest < Minitest::Test
       </html>
     HTML
 
-    collector = NewsRSS::SecondaryPageCollector.new(html, 'https://example.org')
+    collector = FeedDiscovery::SecondaryPageCollector.new(html, 'https://example.org')
 
     assert_equal(['https://example.org/blog'], collector.collect)
   end

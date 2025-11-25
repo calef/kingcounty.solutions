@@ -3,7 +3,7 @@
 
 require 'optparse'
 require 'ruby/openai'
-require_relative '../lib/topic_audit'
+require_relative '../lib/mayhem/topics/organization_audit'
 
 def parse_options(default_model:, default_max_posts:)
   options = {
@@ -28,10 +28,19 @@ def parse_options(default_model:, default_max_posts:)
 end
 
 if $PROGRAM_NAME == __FILE__
-  options = parse_options(
-    default_model: TopicAudit::DEFAULT_MODEL,
-    default_max_posts: TopicAudit::DEFAULT_MAX_POSTS
-  )
+  defaults = {
+    default_model: Mayhem::Topics::OrganizationAudit::DEFAULT_MODEL,
+    default_max_posts: Mayhem::Topics::OrganizationAudit::DEFAULT_MAX_POSTS
+  }
+  options = parse_options(**defaults)
   client = OpenAI::Client.new(access_token: ENV.fetch('OPENAI_API_KEY'))
-  TopicAudit::OrganizationAudit.new(client: client, options: options).run
+  audit = Mayhem::Topics::OrganizationAudit.new(
+    client: client,
+    model: options[:model],
+    max_posts: options[:max_posts],
+    force: options[:force],
+    output: options[:output],
+    apply: options[:apply]
+  )
+  audit.run
 end

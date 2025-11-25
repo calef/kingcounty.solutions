@@ -1,0 +1,247 @@
+# frozen_string_literal: true
+
+require 'json'
+require 'nokogiri'
+require 'open-uri'
+require 'ruby/openai'
+require_relative '../logging'
+require_relative '../support/front_matter_document'
+
+module Mayhem
+  module News
+    class PostSummarizer
+      POSTS_DIR = '_posts'
+      TOPIC_DIR = '_topics'
+      MAX_ARTICLE_CHARS = 20_000
+      DEFAULT_MODEL = ENV.fetch('OPENAI_MODEL', 'gpt-4o-mini')
+      DEFAULT_TOPIC_MODEL = ENV.fetch('OPENAI_TOPIC_MODEL', DEFAULT_MODEL)
+
+      def initialize(
+        posts_dir: POSTS_DIR,
+        topic_dir: TOPIC_DIR,
+        client: nil,
+        logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL')
+      )
+        @posts_dir = posts_dir
+        @topic_dir = topic_dir
+        @logger = logger
+        @client = client || OpenAI::Client.new(access_token: ENV.fetch('OPENAI_API_KEY'))
+      end
+
+      def run
+        topics = load_topics
+        stats = Hash.new(0)
+        Dir.glob(File.join(@posts_dir, '*.md')).each do |file_path|
+          process_post(file_path, topics, stats)
+        end
+        log_summary(stats)
+        stats
+      end
+
+      private
+
+      def load_topics
+        Dir.glob(File.join(@topic_dir, '*.md')).sort.filter_map do |path|
+          doc = Mayhem::Support::FrontMatterDocument.load(path, logger: @logger)
+          next unless doc
+
+          title = doc.front_matter['title']
+          summary = doc.body.to_s.strip
+          next unless title
+
+          { 'title' => title, 'summary' => summary }
+        end
+      end
+
+      def process_post(file_path, topics, stats)
+        document = Mayhem::Support::FrontMatterDocument.load(file_path, logger: @logger)
+        unless document
+          stats[:skipped_no_frontmatter] += 1
+          return
+        end
+
+        front_matter = document.front_matter
+        if front_matter['published'] == false
+          @logger.debug "Skipping #{file_path}: published is false"
+          stats[:skipped_unpublished] += 1
+          return
+        end
+
+        needs_summary = front_matter['summarized'] != true
+        needs_topics = Array(front_matter['topics']).empty?
+        return unless needs_summary || needs_topics
+
+        source_url = front_matter['source_url']
+        if needs_summary && source_url.nil?
+          @logger.warn "Skipping #{file_path}: no source_url"
+          stats[:skipped_missing_source] += 1
+          return
+        end
+
+        article_text = fetch_article_text(source_url) if source_url
+        article_text ||= document.body
+        article_text = document.body if article_text.nil?
+        if article_text && article_text.length > MAX_ARTICLE_CHARS
+          @logger.info "Truncating #{file_path} article text from #{article_text.length} to #{MAX_ARTICLE_CHARS} chars"
+          article_text = article_text[0, MAX_ARTICLE_CHARS]
+        end
+
+        summary_text = needs_summary ? generate_summary(article_text, source_url, file_path, stats) : document.body&.strip
+        return if needs_summary && (summary_text.nil? || summary_text.empty?)
+
+        front_matter['original_markdown_body'] ||= document.body&.strip if needs_summary
+        front_matter['summarized'] = true if needs_summary
+        summary_text ||= document.body&.strip || ''
+
+        if needs_topics
+          classified_topics = classify_topics(summary_text, topics)
+          front_matter['topics'] = classified_topics
+          if classified_topics.empty?
+            @logger.info "No topics matched for #{file_path}"
+            stats[:missing_topics] += 1
+          end
+        end
+
+        front_matter['published'] = false if needs_topics && Array(front_matter['topics']).empty?
+
+        document.front_matter = front_matter
+        document.body = summary_text
+        document.save
+        stats[:updated] += 1
+        @logger.info "Updated #{file_path}"
+      rescue StandardError => e
+        stats[:errors] += 1
+        @logger.error "Error processing #{file_path}: #{e.class} - #{e.message}"
+      end
+
+      def generate_summary(article_text, source_url, file_path, stats)
+        prompt = <<~PROMPT
+          Summarize the following article in 200 words or less in Markdown format for a news aggregator blog.
+
+          Article URL: #{source_url}
+
+          In the summary:
+            1. Do not include a link back to the source URL.
+            2. Do not include an image if one is referenced in the text.
+            3. Do not include any commentary or explanation about this process.
+            4. Focus only on the provided text (do not mention if the content was truncated).
+            5. Do not include any headings or code blocks.
+            6. Do not write that the article says something, just write what the article says. Do not write "The article discusses..." or "The article outlines...". Do write a summary of the article content.
+
+          ARTICLE CONTENT:
+          #{article_text}
+        PROMPT
+
+        attempts = 0
+        while attempts < 3
+          attempts += 1
+          response = @client.chat(
+            parameters: {
+              model: DEFAULT_MODEL,
+              messages: [
+                { role: 'system', content: 'You are a helpful assistant.' },
+                { role: 'user', content: prompt }
+              ],
+              temperature: 0.7
+            }
+          )
+          if (error_message = response.dig('error', 'message'))
+            @logger.warn "OpenAI error for #{file_path}: #{error_message}"
+            break
+          end
+
+          summary = response.dig('choices', 0, 'message', 'content')&.strip
+          return summary unless summary.to_s.empty?
+        rescue Faraday::TooManyRequestsError
+          @logger.warn "Rate limited, waiting 5 seconds before retry (attempt #{attempts})"
+          sleep 5
+        end
+
+        @logger.warn "Skipped #{file_path}: could not summarize"
+        stats[:failed_summary] += 1
+        nil
+      end
+
+      def classify_topics(text, topics)
+        return [] if text.to_s.strip.empty? || topics.empty?
+
+        catalog_lines = topics.map do |topic|
+          summary = topic['summary']
+          "- #{topic['title']}: #{summary&.empty? ? 'No summary provided.' : summary}"
+        end
+        allowed_titles = topics.map { |topic| topic['title'] }
+
+        prompt = <<~PROMPT
+          You are selecting topics for a local news post.
+
+          Topic catalog:
+          #{catalog_lines.join("\n")}
+
+          News content:
+          #{text.strip}
+
+          Return a JSON array of topic titles from the catalog above that clearly apply to this news post.
+          Only use titles from the catalog; do not invent new topics.
+          Exclude topics that are only weakly related or unclear.
+        PROMPT
+
+        attempts = 0
+        while attempts < 3
+          attempts += 1
+          begin
+            response = @client.chat(
+              parameters: {
+                model: DEFAULT_TOPIC_MODEL,
+                messages: [
+                  { role: 'system', content: 'You are a precise classification assistant who responds with JSON arrays.' },
+                  { role: 'user', content: prompt }
+                ],
+                temperature: 0.2
+              }
+            )
+            content = response.dig('choices', 0, 'message', 'content')
+            next unless content
+
+            cleaned = content.gsub(/\A```json\s*/i, '').gsub(/```\s*\z/, '')
+            parsed = JSON.parse(cleaned)
+            selected = Array(parsed).map(&:to_s).select { |title| allowed_titles.include?(title) }.uniq
+            return selected
+          rescue Faraday::TooManyRequestsError
+            @logger.warn "Rate limited during topic classification, waiting 5 seconds before retry (attempt #{attempts})"
+            sleep 5
+          rescue JSON::ParserError
+            @logger.warn "Non-JSON response while classifying topics: #{content.inspect}"
+          end
+        end
+
+        []
+      end
+
+      def fetch_article_text(url)
+        return nil unless url
+
+        html = URI.open(url, open_timeout: 10, read_timeout: 15).read
+        doc = Nokogiri::HTML(html)
+        doc.search('script, style, nav, header, footer, noscript, iframe').remove
+        doc.css('article, main, body').text.strip.gsub(/\s+/, ' ')
+      rescue StandardError => e
+        @logger.warn "Error fetching #{url}: #{e.class} - #{e.message}"
+        nil
+      end
+
+      def log_summary(stats)
+        summary_fields = {
+          updated: stats[:updated],
+          skipped_no_frontmatter: stats[:skipped_no_frontmatter],
+          skipped_unpublished: stats[:skipped_unpublished],
+          skipped_missing_source: stats[:skipped_missing_source],
+          failed_summary: stats[:failed_summary],
+          missing_topics: stats[:missing_topics],
+          errors: stats[:errors]
+        }
+        summary_text = summary_fields.map { |key, value| "#{key}=#{value}" }.join(', ')
+        @logger.info "summarize-news complete: #{summary_text}"
+      end
+    end
+  end
+end

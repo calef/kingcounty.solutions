@@ -1,14 +1,10 @@
 #!/usr/bin/env ruby
 # frozen_string_literal: true
 
-require 'ruby/openai'
-require_relative '../lib/logging'
+$LOAD_PATH.unshift(File.expand_path('../lib', __dir__))
 
-client = OpenAI::Client.new(access_token: ENV.fetch('OPENAI_API_KEY'))
-logger = Logging.build_logger(env_var: 'LOG_LEVEL')
+require 'mayhem/openai/model_lister'
 
-response = client.models.list
-
-response['data'].each do |model|
-  logger.info(model['id'])
+if $PROGRAM_NAME == __FILE__
+  Mayhem::OpenAI::ModelLister.new.run
 end

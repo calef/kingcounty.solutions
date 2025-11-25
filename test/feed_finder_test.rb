@@ -1,7 +1,9 @@
 # frozen_string_literal: true
 
 require 'test_helper'
-require 'news_rss'
+require 'mayhem/news/feed_discovery'
+
+FeedDiscovery = Mayhem::News::FeedDiscovery unless defined?(FeedDiscovery)
 
 class FeedFinderTest < Minitest::Test
   class FakeHttp
@@ -41,15 +43,15 @@ class FeedFinderTest < Minitest::Test
     }
 
     http = FakeHttp.new(responses)
-    finder = NewsRSS::FeedFinder.new(http)
+    finder = FeedDiscovery::FeedFinder.new(http)
 
     result = finder.find('https://example.org')
 
     assert_equal 'https://example.org/feed.xml', result
     assert_equal(['https://example.org', 'https://example.org/feed.xml'],
                  http.requests.map { |req| req[:url] })
-    assert_equal NewsRSS::ACCEPT_HTML, http.requests.first[:accept]
-    assert_equal NewsRSS::ACCEPT_FEED, http.requests.last[:accept]
+    assert_equal FeedDiscovery::ACCEPT_HTML, http.requests.first[:accept]
+    assert_equal FeedDiscovery::ACCEPT_FEED, http.requests.last[:accept]
   end
 
   def test_probes_secondary_pages_when_direct_feed_is_missing
@@ -80,7 +82,7 @@ class FeedFinderTest < Minitest::Test
     }
 
     http = FakeHttp.new(responses)
-    finder = NewsRSS::FeedFinder.new(http)
+    finder = FeedDiscovery::FeedFinder.new(http)
 
     result = finder.find('https://example.org')
 
@@ -99,7 +101,7 @@ class FeedFinderTest < Minitest::Test
       end
     }
     http = FakeHttp.new(responses)
-    finder = NewsRSS::FeedFinder.new(http)
+    finder = FeedDiscovery::FeedFinder.new(http)
 
     assert_nil finder.find('https://example.org')
   end
@@ -113,14 +115,14 @@ class FeedFinderTest < Minitest::Test
       }
     }
     http = FakeHttp.new(responses)
-    finder = NewsRSS::FeedFinder.new(http)
+    finder = FeedDiscovery::FeedFinder.new(http)
 
     result = finder.send(:verify_feed, 'https://example.org/feed.json')
     assert_equal 'https://example.org/feed.json', result
   end
 
   def test_feed_like_checks_content_type_and_body
-    finder = NewsRSS::FeedFinder.new(FakeHttp.new({}))
+    finder = FeedDiscovery::FeedFinder.new(FakeHttp.new({}))
 
     assert finder.send(:feed_like?, '<rss></rss>', 'application/rss+xml')
     assert finder.send(:feed_like?, '<feed></feed>', 'text/html')
@@ -128,7 +130,7 @@ class FeedFinderTest < Minitest::Test
   end
 
   def test_decode_html_recovers_from_invalid_bytes
-    finder = NewsRSS::FeedFinder.new(FakeHttp.new({}))
+    finder = FeedDiscovery::FeedFinder.new(FakeHttp.new({}))
     binary = "\xFF\xFE\xC3".dup
     binary.force_encoding('BINARY')
 

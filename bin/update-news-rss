@@ -3,6 +3,8 @@
 
 $LOAD_PATH.unshift(File.expand_path('../lib', __dir__))
 
-require 'news_rss'
+require 'mayhem/organizations/feed_updater'
 
-NewsRSS::CLI.run if $PROGRAM_NAME == __FILE__
+if $PROGRAM_NAME == __FILE__
+  Mayhem::Organizations::FeedUpdaterCLI.run
+end

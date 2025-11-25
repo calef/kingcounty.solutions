@@ -1,7 +1,9 @@
 # frozen_string_literal: true
 
 require 'test_helper'
-require 'news_rss'
+require 'mayhem/news/feed_discovery'
+
+FeedDiscovery = Mayhem::News::FeedDiscovery unless defined?(FeedDiscovery)
 
 class CandidateCollectorTest < Minitest::Test
   def test_collect_ranks_link_candidates_and_honors_base_href
@@ -18,7 +20,7 @@ class CandidateCollectorTest < Minitest::Test
       </html>
     HTML
 
-    collector = NewsRSS::CandidateCollector.new(html, 'https://example.org/posts/index.html')
+    collector = FeedDiscovery::CandidateCollector.new(html, 'https://example.org/posts/index.html')
 
     assert_equal(
       ['https://example.org/base/feed.xml', 'https://example.org/rss.xml'],
@@ -29,7 +31,7 @@ class CandidateCollectorTest < Minitest::Test
   def test_collect_includes_wordpress_guess
     html = '<html><body><p>Powered by WordPress CMS</p></body></html>'
 
-    collector = NewsRSS::CandidateCollector.new(html, 'https://example.org/blog/post')
+    collector = FeedDiscovery::CandidateCollector.new(html, 'https://example.org/blog/post')
 
     assert_equal(['https://example.org/feed/'], collector.collect)
   end
@@ -37,7 +39,7 @@ class CandidateCollectorTest < Minitest::Test
   def test_collect_uses_fallback_scan_when_no_nodes_present
     html = '<div>Legacy markup href="feeds/updates-rss.xml"</div>'
 
-    collector = NewsRSS::CandidateCollector.new(html, 'https://example.org')
+    collector = FeedDiscovery::CandidateCollector.new(html, 'https://example.org')
 
     assert_equal(['https://example.org/feeds/updates-rss.xml'], collector.collect)
   end
