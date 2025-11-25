@@ -248,6 +248,10 @@ class ImageDocumentsTest < Minitest::Test
     combined = [uri.path, uri.query].compact.join(' ').downcase
     return true if includes_image_extension?(combined)
 
+    if uri.host&.downcase&.include?('squarespace-cdn.com') && uri.query&.match?(/format=\d+w/i)
+      return true
+    end
+
     uri.path.split('/').any? { |segment| base64_segment_references_image?(segment) }
   end
 
