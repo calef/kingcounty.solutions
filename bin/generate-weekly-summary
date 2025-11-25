@@ -222,28 +222,6 @@ def build_prompt(context)
   PROMPT
 end
 
-def call_llm(prompt)
-  client = OpenAI::Client.new(access_token: ENV.fetch('OPENAI_API_KEY'))
-  response = client.chat(
-    parameters: {
-      model: DEFAULT_MODEL,
-      temperature: 0.3,
-      messages: [
-        { role: 'system', content: 'You are a concise civic-news editor who writes weekly recaps for King County residents.' },
-        { role: 'user', content: prompt }
-      ]
-    }
-  )
-
-  if (error_message = response.dig('error', 'message'))
-    raise "LLM request failed: #{error_message}"
-  end
-
-  content = response.dig('choices', 0, 'message', 'content')
-  raise 'LLM response missing content' unless content
-  content
-end
-
 def fallback_summary(posts, start_date, end_date, plan = nil)
   total = posts.length
   lines = []
