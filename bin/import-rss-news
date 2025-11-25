@@ -18,7 +18,7 @@ NEWS_DIR = '_posts'
 SOURCES_DIR = '_organizations'
 MAX_ITEM_AGE_DAYS = 365
 MAX_FILENAME_BYTES = 255
-CHECKSUM_FILE = File.expand_path('feed_checksums.yml', __dir__)
+CHECKSUM_FILE = ENV.fetch('RSS_CHECKSUM_FILE', File.expand_path('feed_checksums.yml', __dir__))
 MAX_WORKERS = Integer(ENV.fetch('RSS_WORKERS', '6')) rescue 6
 LOGGER = Logging.build_logger(env_var: 'LOG_LEVEL')
 
