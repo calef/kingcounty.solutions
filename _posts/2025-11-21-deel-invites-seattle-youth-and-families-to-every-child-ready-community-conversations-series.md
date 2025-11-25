@@ -1,16 +1,15 @@
 ---
-title: DEEL Invites Seattle Youth and Families to Every Child Ready Community Conversations Series 
-date: '2025-11-21T18:12:08+00:00'
-source: City of Seattle
-source_url: https://education.seattle.gov/deel-invites-seattle-youth-and-families-to-every-child-ready-community-conversations-series/
-original_content: Learn about planned FEPP Levy investments in childcare and education, and share what matters most to you! The Seattle Department of Education &#038; Early Learning (DEEL) is hosting a series of Community Conversations this December about the renewal of ...
-original_markdown_body: Learn about planned FEPP Levy investments in childcare and education, and share what matters most to you! The Seattle Department of Education & Early Learning (DEEL) is hosting a series of Community Conversations this&nbsp;December about the renewal of ...
+title: DEEL Invites Seattle Youth and Families to Every Child Ready Community Conversations Series 
+date: '2025-11-21T16:00:00+00:00'
+source: King County School Health
+source_url: https://kingcountyschoolhealthdotcom.wordpress.com/2025/11/21/deel-invites-seattle-youth-and-families-to-every-child-ready-community-conversations-series/
+original_content: The Seattle Department of Education &#38; Early Learning is hosting Community Conversations in December about the renewal of the Families, Education, Preschool &#38; Promise Levy. Residents are invited to discuss investments in childcare and education, with events offering free dinner and activities for children. RSVP is required due to limited space.
+original_markdown_body: The Seattle Department of Education & Early Learning is hosting Community Conversations in December about the renewal of the Families, Education, Preschool & Promise Levy. Residents are invited to discuss investments in childcare and education, with events offering free dinner and activities for children. RSVP is required due to limited space.
 summarized: true
 topics:
+- Childcare
 - Education & Learning
 images: []
 ---
 
-The Seattle Department of Education & Early Learning (DEEL) is hosting the Every Child Ready Community Conversations series this December to discuss the renewal of the Families, Education, Preschool & Promise Levy (FEPP). The city will implement a six-year spending plan starting in 2026 to support children, youth, and families. Community members are invited to participate in these events to learn about upcoming investments in childcare and education while sharing their priorities. 
-
-The events are family-friendly, offering free dinners, interpretation services, and children's activities. Scheduled meetings are on December 2 at Magnuson Community Center, December 10 at Ballard Branch of Seattle Public Library, December 11 at Denny International Middle School, and December 16 at Rainier Community Center, all from 5:30 PM to 7:30 PM. Due to limited space, attendees are encouraged to RSVP. DEEL aims to engage the community to understand how the FEPP Levy can enhance access to affordable childcare, quality preschool, K-12 support, and college and career opportunities.
+The Seattle Department of Education & Early Learning (DEEL) is hosting a series of Community Conversations in December focused on the renewal of the Families, Education, Preschool & Promise Levy (FEPP). This initiative follows the passage of Prop 1, which will enable the City of Seattle to implement a six-year spending plan starting in 2026 to benefit children, youth, and families. The events aim to inform attendees about planned investments in childcare and education while gathering community input on priorities. The Every Child Ready Community Conversation Series will take place at four locations: Magnuson Community Center on December 2, Ballard Branch of the Seattle Public Library on December 10, Denny International Middle School on December 11, and Rainier Community Center on December 16, all from 5:30 to 7:30 PM. These family-friendly events will provide free dinner, interpretation services, and children's activities. Space is limited, and attendees are encouraged to RSVP. DEEL aims to understand community needs and enhance access to affordable childcare, high-quality preschool, K-12 supports, and college and career opportunities.
