@@ -7,12 +7,14 @@ require 'json'
 require 'ruby/openai'
 require 'time'
 require 'yaml'
+require_relative '../lib/logging'
 
 ROOT = File.expand_path('..', __dir__)
 POSTS_DIR = File.join(ROOT, '_posts')
 
 DEFAULT_MODEL = ENV.fetch('OPENAI_MODEL', 'gpt-5.1')
 LLM_MAX_POSTS = ENV.fetch('WEEKLY_SUMMARY_LIMIT', '60').to_i
+LOGGER = Logging.build_logger(env_var: 'LOG_LEVEL')
 
 def current_week_range(today = Date.today)
   days_since_saturday = (today.wday - 6) % 7
@@ -31,7 +33,7 @@ def parse_front_matter(text)
   body = parts[2].strip
   [data, body]
 rescue Psych::SyntaxError => e
-  warn "  failed to parse front matter: #{e.message}"
+  LOGGER.warn "Failed to parse front matter: #{e.message}"
   [nil, nil]
 end
 
@@ -137,7 +139,7 @@ def build_theme_plan(posts)
   sanitized = strip_markdown_code_fence(raw)
   JSON.parse(sanitized)
 rescue StandardError => e
-  warn "Theme planning failed (#{e.message}). Using fallback themes."
+  LOGGER.warn "Theme planning failed (#{e.message}). Using fallback themes."
   fallback_theme_plan(posts)
 end
 
@@ -319,7 +321,7 @@ def parsed_date(date_str)
 
   Date.parse(date_str)
 rescue ArgumentError
-  warn "Invalid date format: #{date_str}. Expected YYYY-MM-DD."
+  LOGGER.warn "Invalid date format: #{date_str}. Expected YYYY-MM-DD."
   nil
 end
 
@@ -330,7 +332,7 @@ def main
   posts = weekly_posts(start_date, end_date)
 
   if posts.empty?
-    warn 'No posts found for the current week.'
+    LOGGER.warn 'No posts found for the current week.'
     return
   end
 
@@ -341,12 +343,12 @@ def main
   body, model_used = begin
     [call_llm(prompt).strip, DEFAULT_MODEL]
   rescue StandardError => e
-    warn "LLM generation failed (#{e.message}). Falling back to heuristic summary."
+    LOGGER.warn "LLM generation failed (#{e.message}). Falling back to heuristic summary."
     [fallback_summary(posts, start_date, end_date, plan), 'fallback']
   end
 
   summary_path = write_summary(start_date, end_date, body, model_used)
-  puts "Created weekly summary: #{summary_path}"
+  LOGGER.info "Created weekly summary: #{summary_path}"
 end
 
 main if $PROGRAM_NAME == __FILE__

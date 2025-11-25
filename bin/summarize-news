@@ -7,6 +7,9 @@ require 'fileutils'
 require 'ruby/openai'
 require 'open-uri'
 require 'nokogiri'
+require_relative '../lib/logging'
+
+LOGGER = Logging.build_logger(env_var: 'LOG_LEVEL')
 
 # Configure Ruby-OpenAI client
 client = OpenAI::Client.new(access_token: ENV.fetch('OPENAI_API_KEY'))
@@ -14,7 +17,7 @@ client = OpenAI::Client.new(access_token: ENV.fetch('OPENAI_API_KEY'))
 NEWS_DIR = '_posts'
 TOPIC_DIR = '_topics'
 MAX_ARTICLE_CHARS = 20_000
-OPENAI_MODEL = ENV.fetch('OPENAI_SUMMARY_MODEL', 'gpt-4o-mini')
+OPENAI_MODEL = ENV.fetch('OPENAI_MODEL', 'gpt-4o-mini')
 OPENAI_TOPIC_MODEL = ENV.fetch('OPENAI_TOPIC_MODEL', OPENAI_MODEL)
 
 def fetch_article_text(url)
@@ -25,7 +28,7 @@ def fetch_article_text(url)
   text = doc.css('article, main, body').text
   text.strip.gsub(/\s+/, ' ')
 rescue StandardError => e
-  warn "Error fetching #{url}: #{e.class} - #{e.message}"
+  LOGGER.warn "Error fetching #{url}: #{e.class} - #{e.message}"
   nil
 end
 
@@ -97,10 +100,10 @@ def classify_topics(client, text, topics)
       selected = Array(parsed).map(&:to_s).select { |title| allowed_titles.include?(title) }.uniq
       return selected
     rescue Faraday::TooManyRequestsError
-      warn "Rate limited during topic classification, waiting 5 seconds before retry (attempt #{attempts})"
+      LOGGER.warn "Rate limited during topic classification, waiting 5 seconds before retry (attempt #{attempts})"
       sleep 5
     rescue JSON::ParserError
-      warn "Non-JSON response while classifying topics: #{content.inspect}"
+      LOGGER.warn "Non-JSON response while classifying topics: #{content.inspect}"
       next
     end
 
@@ -110,18 +113,21 @@ def classify_topics(client, text, topics)
 end
 
 topics = load_topics
+stats = Hash.new(0)
 
 Dir.glob("#{NEWS_DIR}/*.md").each do |file_path|
   content = File.read(file_path)
 
   front_matter, body = read_front_matter(content)
   unless front_matter
-    warn "Skipping #{file_path}: no front matter"
+    LOGGER.warn "Skipping #{file_path}: no front matter"
+    stats[:skipped_no_frontmatter] += 1
     next
   end
 
   if front_matter['published'] == false
-    warn "Skipping #{file_path}: published is false"
+    LOGGER.debug "Skipping #{file_path}: published is false"
+    stats[:skipped_unpublished] += 1
     next
   end
 
@@ -131,7 +137,8 @@ Dir.glob("#{NEWS_DIR}/*.md").each do |file_path|
 
   source_url = front_matter['source_url']
   if needs_summary && source_url.nil?
-    puts "Skipping #{file_path}: no source_url"
+    LOGGER.warn "Skipping #{file_path}: no source_url"
+    stats[:skipped_missing_source] += 1
     next
   end
 
@@ -144,7 +151,7 @@ Dir.glob("#{NEWS_DIR}/*.md").each do |file_path|
   article_text ||= body # fallback to the original content if fetch failed
 
   if article_text&.length.to_i > MAX_ARTICLE_CHARS
-    warn "[info] Truncating #{file_path} article text from #{article_text.length} to #{MAX_ARTICLE_CHARS} chars"
+    LOGGER.info "Truncating #{file_path} article text from #{article_text.length} to #{MAX_ARTICLE_CHARS} chars"
     article_text = article_text[0, MAX_ARTICLE_CHARS]
   end
 
@@ -184,18 +191,19 @@ Dir.glob("#{NEWS_DIR}/*.md").each do |file_path|
           }
         )
         if (error_message = response.dig('error', 'message'))
-          warn "OpenAI error for #{file_path}: #{error_message}"
+          LOGGER.warn "OpenAI error for #{file_path}: #{error_message}"
           break
         end
         summary_text = response.dig('choices', 0, 'message', 'content')&.strip
       rescue Faraday::TooManyRequestsError
-        warn "Rate limited, waiting 5 seconds before retry (attempt #{attempts})"
+        LOGGER.warn "Rate limited, waiting 5 seconds before retry (attempt #{attempts})"
         sleep 5
       end
     end
 
     if needs_summary && (summary_text.nil? || summary_text.empty?)
-      puts "⚠️  Skipped #{file_path}: could not summarize"
+      LOGGER.warn "Skipped #{file_path}: could not summarize"
+      stats[:failed_summary] += 1
       next
     end
 
@@ -206,7 +214,10 @@ Dir.glob("#{NEWS_DIR}/*.md").each do |file_path|
     if needs_topics
       classified_topics = classify_topics(client, summary_text, topics)
       front_matter['topics'] = classified_topics
-      warn "⚠️  No topics matched for #{file_path}" if classified_topics.empty?
+      if classified_topics.empty?
+        LOGGER.info "No topics matched for #{file_path}"
+        stats[:missing_topics] += 1
+      end
     end
 
     if needs_topics && Array(front_matter['topics']).empty?
@@ -216,8 +227,23 @@ Dir.glob("#{NEWS_DIR}/*.md").each do |file_path|
     yaml_front_matter = YAML.dump(front_matter).sub(/\A---\s*\n/, '').strip
     updated_content = ['---', yaml_front_matter, '---', '', summary_text].join("\n")
     File.write(file_path, updated_content)
-    puts "✅ Updated #{file_path}"
+    stats[:updated] += 1
+    LOGGER.info "Updated #{file_path}"
   rescue StandardError => e
-    warn "Error processing #{file_path}: #{e.class} - #{e.message}"
+    stats[:errors] += 1
+    LOGGER.error "Error processing #{file_path}: #{e.class} - #{e.message}"
   end
 end
+
+summary_fields = {
+  updated: stats[:updated],
+  skipped_no_frontmatter: stats[:skipped_no_frontmatter],
+  skipped_unpublished: stats[:skipped_unpublished],
+  skipped_missing_source: stats[:skipped_missing_source],
+  failed_summary: stats[:failed_summary],
+  missing_topics: stats[:missing_topics],
+  errors: stats[:errors]
+}
+
+summary_text = summary_fields.map { |key, value| "#{key}=#{value}" }.join(', ')
+LOGGER.info "summarize-news complete: #{summary_text}"

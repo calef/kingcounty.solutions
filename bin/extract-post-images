@@ -7,12 +7,14 @@ require 'fileutils'
 require 'open-uri'
 require 'uri'
 require 'yaml'
+require_relative '../lib/logging'
 
 POSTS_DIR = '_posts'
 IMAGE_DOCS_DIR = '_images'
 IMAGE_ASSET_DIR = File.join('assets', 'images')
 OPEN_TIMEOUT = Integer(ENV.fetch('IMAGE_OPEN_TIMEOUT', '10')) rescue 10
 READ_TIMEOUT = Integer(ENV.fetch('IMAGE_READ_TIMEOUT', '30')) rescue 30
+LOGGER = Logging.build_logger(env_var: 'LOG_LEVEL')
 
 FileUtils.mkdir_p(IMAGE_DOCS_DIR)
 FileUtils.mkdir_p(IMAGE_ASSET_DIR)
@@ -20,7 +22,7 @@ FileUtils.mkdir_p(IMAGE_ASSET_DIR)
 def read_frontmatter(path)
   content = File.read(path)
   unless content =~ /\A---\s*\n(.*?\n?)^---\s*$\n?/m
-    warn "Skipping #{path}: missing front matter"
+    LOGGER.warn "Skipping #{path}: missing front matter"
     return [nil, nil]
   end
 
@@ -28,7 +30,7 @@ def read_frontmatter(path)
   body = Regexp.last_match.post_match
   [data, body]
 rescue Psych::Exception => e
-  warn "Skipping #{path}: #{e.message}"
+  LOGGER.warn "Skipping #{path}: #{e.message}"
   [nil, nil]
 end
 
@@ -91,7 +93,7 @@ def download_image(url)
     { data: data, ext: ext }
   end
 rescue StandardError => e
-  warn "Failed to download #{url}: #{e.message}"
+  LOGGER.warn "Failed to download #{url}: #{e.message}"
   nil
 end
 
@@ -123,34 +125,46 @@ def ensure_image_doc(checksum, alt, filename, post_frontmatter, original_url)
   File.write(doc_path, "---\n#{frontmatter.to_yaml.sub(/\A---\s*\n/, '')}---\n")
 end
 
-def ensure_empty_images(path, frontmatter, body)
-  return if frontmatter['images'].is_a?(Array) && frontmatter['images'].empty?
+def ensure_empty_images(path, frontmatter, body, stats)
+  return false if frontmatter['images'].is_a?(Array) && frontmatter['images'].empty?
 
   frontmatter['images'] = []
   write_with_frontmatter(path, frontmatter, body)
-  puts "Updated #{path} with empty images list"
+  LOGGER.info "Set empty images list for #{path}"
+  stats[:empties_added] += 1
+  true
 end
 
-def process_post(path, cache)
+def process_post(path, cache, stats)
   frontmatter, body = read_frontmatter(path)
-  return unless frontmatter
-
-  if frontmatter['published'] == false
-    ensure_empty_images(path, frontmatter, body)
+  unless frontmatter
+    stats[:missing_frontmatter] += 1
     return
   end
 
-  return if frontmatter.key?('images')
+  if frontmatter['published'] == false
+    stats[:skipped_unpublished] += 1
+    ensure_empty_images(path, frontmatter, body, stats)
+    return
+  end
+
+  if frontmatter.key?('images')
+    stats[:already_has_images] += 1
+    LOGGER.debug "Skipping #{path}: images already present"
+    return
+  end
 
   markdown_body = frontmatter['original_markdown_body']
   unless markdown_body
-    ensure_empty_images(path, frontmatter, body)
+    stats[:missing_original_markdown] += 1
+    ensure_empty_images(path, frontmatter, body, stats)
     return
   end
 
   images = extract_images(markdown_body)
   if images.empty?
-    ensure_empty_images(path, frontmatter, body)
+    stats[:no_images_found] += 1
+    ensure_empty_images(path, frontmatter, body, stats)
     return
   end
 
@@ -164,7 +178,10 @@ def process_post(path, cache)
     end
 
     download = download_image(img[:url])
-    next unless download
+    unless download
+      stats[:download_failures] += 1
+      next
+    end
 
     checksum = Digest::SHA256.hexdigest(download[:data])
     filename = image_asset_filename(checksum, download[:ext]) { download[:data] }
@@ -176,7 +193,8 @@ def process_post(path, cache)
 
   collected_ids.uniq!
   if collected_ids.empty?
-    ensure_empty_images(path, frontmatter, body)
+    stats[:no_valid_images] += 1
+    ensure_empty_images(path, frontmatter, body, stats)
     return
   end
 
@@ -186,14 +204,30 @@ def process_post(path, cache)
 
   frontmatter['images'] = updated_ids
   write_with_frontmatter(path, frontmatter, body)
-  puts "Updated #{path} with #{collected_ids.length} image IDs"
+  stats[:posts_updated] += 1
+  LOGGER.info "Updated #{path} with #{collected_ids.length} image IDs"
 end
 
 def run
   cache = {}
+  stats = Hash.new(0)
   Dir.glob(File.join(POSTS_DIR, '*.md')).sort.each do |post_path|
-    process_post(post_path, cache)
+    process_post(post_path, cache, stats)
   end
+
+  summary_fields = {
+    posts_updated: stats[:posts_updated],
+    empties_added: stats[:empties_added],
+    skipped_unpublished: stats[:skipped_unpublished],
+    already_has_images: stats[:already_has_images],
+    missing_frontmatter: stats[:missing_frontmatter],
+    missing_original_markdown: stats[:missing_original_markdown],
+    no_images_found: stats[:no_images_found],
+    no_valid_images: stats[:no_valid_images],
+    download_failures: stats[:download_failures]
+  }
+  summary = summary_fields.map { |k, v| "#{k}=#{v}" }.join(', ')
+  LOGGER.info "extract-post-images complete: #{summary}"
 end
 
 run if $PROGRAM_NAME == __FILE__

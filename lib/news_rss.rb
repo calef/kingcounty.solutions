@@ -7,8 +7,10 @@ require 'openssl'
 require 'time'
 require 'uri'
 require 'yaml'
+require_relative 'logging'
 
 module NewsRSS
+  LOGGER = Logging.build_logger(env_var: 'LOG_LEVEL')
   ROOT_DIR = File.expand_path('..', __dir__)
   ORG_DIR = File.join(ROOT_DIR, '_organizations')
 
@@ -169,7 +171,7 @@ module NewsRSS
     def retry_without_verification(uri, accept, max_bytes, retried, error)
       return handle_terminal_ssl_error(uri, error) unless @allow_insecure_fallback && !retried
 
-      warn "  SSL error (#{error.message}), retrying without verification"
+      LOGGER.warn "SSL error (#{error.message}), retrying without verification for #{uri}"
       execute_request(
         uri,
         accept,
@@ -180,7 +182,7 @@ module NewsRSS
     end
 
     def handle_terminal_ssl_error(uri, error)
-      warn "  SSL error for #{uri}: #{error.message}"
+      LOGGER.warn "SSL error for #{uri}: #{error.message}"
       raise error
     end
 
@@ -400,7 +402,7 @@ module NewsRSS
       html = decode_html(page[:body])
       feed_from_html(html, page[:final_url])
     rescue StandardError => e
-      warn "  fetch error: #{e.message}"
+      LOGGER.warn "fetch error for #{website}: #{e.message}"
       nil
     end
 
@@ -429,14 +431,14 @@ module NewsRSS
     end
 
     def probe_secondary_page(secondary_url)
-      puts "  probing #{secondary_url}"
+      LOGGER.info "Probing #{secondary_url}"
       page = fetch_secondary_page(secondary_url)
       return page[:final_url] if feed_like?(page[:body], page[:content_type])
 
       page_html = decode_html(page[:body])
       find_feed_in_html(page_html, page[:final_url])
     rescue StandardError => e
-      warn "    secondary page error for #{secondary_url}: #{e.message}"
+      LOGGER.warn "Secondary page error for #{secondary_url}: #{e.message}"
       nil
     end
 
@@ -453,7 +455,7 @@ module NewsRSS
 
       nil
     rescue StandardError => e
-      warn "    verify error for #{url}: #{e.message}"
+      LOGGER.warn "Verify error for #{url}: #{e.message}"
       nil
     end
 
@@ -571,11 +573,11 @@ module NewsRSS
       website = valid_website(data)
       return nil unless website
 
-      puts "Processing #{file_name} -> #{website}"
+      LOGGER.info "Processing #{file_name} -> #{website}"
       feed_url = @feed_finder.find(website)
-      return record_success(path, data, body, feed_url) if feed_url
+      return record_success(file_name, path, data, body, feed_url) if feed_url
 
-      record_failure
+      record_failure(file_name, website)
     end
 
     def valid_website(data)
@@ -587,14 +589,14 @@ module NewsRSS
       site
     end
 
-    def record_success(path, data, body, feed_url)
-      puts "  FOUND #{feed_url}"
+    def record_success(file_name, path, data, body, feed_url)
+      LOGGER.info "Found feed for #{file_name}: #{feed_url}"
       update_organization_feed(path, data, body, feed_url) unless @dry_run
       { feed_url: }
     end
 
-    def record_failure
-      puts '  no feed found'
+    def record_failure(file_name, website)
+      LOGGER.info "No feed found for #{file_name} (#{website})"
       { feed_url: nil }
     end
 
@@ -612,7 +614,7 @@ module NewsRSS
       data = {} unless data.is_a?(Hash)
       [data, body || '']
     rescue StandardError => e
-      warn "  failed to parse #{path}: #{e.message}"
+      LOGGER.warn "Failed to parse #{path}: #{e.message}"
       [nil, nil]
     end
 
@@ -679,11 +681,8 @@ module NewsRSS
     end
 
     def print_summary(results)
-      puts "\nSummary:"
-      puts "  Processed: #{results[:processed]}"
-      puts "  Found feeds: #{results[:updated].length}"
-      puts "  No feed: #{results[:skipped].length}"
-      results[:updated].each { |name, url| puts "    #{name}: #{url}" }
+      LOGGER.info "Summary: processed=#{results[:processed]} found=#{results[:updated].length} none=#{results[:skipped].length}"
+      results[:updated].each { |name, url| LOGGER.info "Updated #{name}: #{url}" }
     end
   end
 end

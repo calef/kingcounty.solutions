@@ -12,6 +12,7 @@ require 'digest'
 require 'reverse_markdown'
 require 'nokogiri'
 require 'thread'
+require_relative '../lib/logging'
 
 NEWS_DIR = '_posts'
 SOURCES_DIR = '_organizations'
@@ -19,6 +20,7 @@ MAX_ITEM_AGE_DAYS = 365
 MAX_FILENAME_BYTES = 255
 CHECKSUM_FILE = File.expand_path('feed_checksums.yml', __dir__)
 MAX_WORKERS = Integer(ENV.fetch('RSS_WORKERS', '6')) rescue 6
+LOGGER = Logging.build_logger(env_var: 'LOG_LEVEL')
 
 FileUtils.mkdir_p(NEWS_DIR)
 
@@ -31,7 +33,7 @@ def read_frontmatter(file_path)
     {}
   end
 rescue Psych::DisallowedClass => e
-  warn "Skipping frontmatter in #{file_path}: #{e.message}"
+  LOGGER.warn "Skipping frontmatter in #{file_path}: #{e.message}"
   {}
 end
 
@@ -66,10 +68,10 @@ def fetch_article_body_html(url)
   fallback&.inner_html&.strip
 rescue OpenURI::HTTPError, OpenSSL::SSL::SSLError, SocketError,
        Net::OpenTimeout, Net::ReadTimeout, Timeout::Error => e
-  warn "Failed to fetch article body (#{url}): #{e.message}"
+  LOGGER.warn "Failed to fetch article body (#{url}): #{e.message}"
   nil
 rescue StandardError => e
-  warn "Unexpected error scraping #{url}: #{e.message}"
+  LOGGER.error "Unexpected error scraping #{url}: #{e.message}"
   nil
 end
 
@@ -126,7 +128,7 @@ def load_feed_checksums
   data = YAML.safe_load(File.read(CHECKSUM_FILE))
   data.is_a?(Hash) ? data : {}
 rescue StandardError => e
-  warn "Failed to load feed checksum cache (#{CHECKSUM_FILE}): #{e.message}"
+  LOGGER.warn "Failed to load feed checksum cache (#{CHECKSUM_FILE}): #{e.message}"
   {}
 end
 
@@ -143,7 +145,7 @@ def item_content_html(item)
   return content.content if content.respond_to?(:content) && content.content
   content if content.is_a?(String)
 rescue StandardError => e
-  warn "Failed to read content for #{item.link || item.title}: #{e.message}"
+  LOGGER.warn "Failed to read content for #{item.link || item.title}: #{e.message}"
   nil
 end
 
@@ -172,15 +174,34 @@ def item_link_url(item)
 
   item.respond_to?(:url) ? item.url.to_s : nil
 rescue StandardError => e
-  warn "Failed to read link for #{item.respond_to?(:title) ? item.title : 'unknown item'}: #{e.message}"
+  LOGGER.warn "Failed to read link for #{item.respond_to?(:title) ? item.title : 'unknown item'}: #{e.message}"
   nil
+end
+
+def feed_summary_line(source_title, rss_url, stats)
+  labels = {
+    created: 'created',
+    duplicates: 'duplicates',
+    stale: 'stale',
+    missing_link: 'missing_link',
+    missing_title: 'missing_title',
+    missing_publish_date: 'missing_date',
+    empty_content: 'no_content'
+  }
+
+  parts = labels.map do |key, label|
+    value = stats[key]
+    "#{label}=#{value}" if value&.positive?
+  end.compact
+
+  status = parts.empty? ? 'no_changes' : parts.join(', ')
+  "Processed '#{source_title}' (#{rss_url}): #{status}"
 end
 
 feed_checksums = load_feed_checksums
 queue = Queue.new
 Dir.glob("#{SOURCES_DIR}/*.md").each { |source_file| queue << source_file }
 lock = Mutex.new
-log_lock = Mutex.new
 
 workers = Array.new([MAX_WORKERS, 1].max) do
   Thread.new do
@@ -197,12 +218,13 @@ workers = Array.new([MAX_WORKERS, 1].max) do
       next unless rss_url
 
       begin
+        stats = Hash.new(0)
         rss_content = URI.open(rss_url, open_timeout: DEFAULT_OPEN_TIMEOUT, read_timeout: DEFAULT_READ_TIMEOUT, &:read)
         checksum = Digest::SHA256.hexdigest(rss_content)
 
         skip = lock.synchronize { feed_checksums[rss_url] == checksum }
         if skip
-          log_lock.synchronize { puts "Skipping #{source_title} (feed unchanged)" }
+          LOGGER.debug "Skipping #{source_title} (feed unchanged)"
           next
         end
 
@@ -211,23 +233,23 @@ workers = Array.new([MAX_WORKERS, 1].max) do
         feed.items.each do |item|
           link_url = item_link_url(item)
           if link_url.to_s.strip.empty?
-            log_lock.synchronize { warn "Skipping #{item.respond_to?(:title) ? item.title : 'item with no title'} (missing link URL)" }
+            stats[:missing_link] += 1
             next
           end
 
           title_text = item_title_text(item).to_s.strip
           if title_text.empty?
-            log_lock.synchronize { warn "Skipping #{link_url || 'item with no link'} (missing title)" }
+            stats[:missing_title] += 1
             next
           end
           published_time = published_at(item)
           unless published_time
-            log_lock.synchronize { warn "Skipping #{item.link || item.title} (missing publish date)" }
+            stats[:missing_publish_date] += 1
             next
           end
 
           if stale_item?(published_time)
-            log_lock.synchronize { puts "Skipping #{item.link || item.title} (older than #{MAX_ITEM_AGE_DAYS} days)" }
+            stats[:stale] += 1
             next
           end
 
@@ -235,7 +257,7 @@ workers = Array.new([MAX_WORKERS, 1].max) do
           original_html = fetch_article_body_html(item.link).to_s.strip if original_html.empty? && item.link
 
           if original_html.empty?
-            log_lock.synchronize { warn "No content available for #{item.link || item.title}, skipping." }
+            stats[:empty_content] += 1
             next
           end
 
@@ -244,7 +266,7 @@ workers = Array.new([MAX_WORKERS, 1].max) do
             fm['original_content'] && fm['source_url'].to_s == link_url.to_s
           end
           if existing_file
-            log_lock.synchronize { puts "Skipping #{item.title} (already imported)" }
+            stats[:duplicates] += 1
             next
           end
 
@@ -263,18 +285,19 @@ workers = Array.new([MAX_WORKERS, 1].max) do
           }
 
           File.write(filename, "---\n#{news_frontmatter.to_yaml.sub(/\A---\s*\n/, '')}---\n\n#{content_md}")
-          log_lock.synchronize { puts "Created #{filename}" }
+          stats[:created] += 1
         end
 
         lock.synchronize { feed_checksums[rss_url] = checksum }
+        LOGGER.info feed_summary_line(source_title, rss_url, stats)
       rescue OpenURI::HTTPError, SocketError, Net::OpenTimeout, Net::ReadTimeout, Timeout::Error => e
-        log_lock.synchronize { warn "Failed to fetch RSS feed for source '#{source_title}' (#{rss_url}): #{e.message}" }
+        LOGGER.error "Failed to fetch RSS feed for source '#{source_title}' (#{rss_url}): #{e.message}"
         next
       rescue OpenSSL::SSL::SSLError => e
-        log_lock.synchronize { warn "SSL error for source '#{source_title}' (#{rss_url}): #{e.message}" }
+        LOGGER.error "SSL error for source '#{source_title}' (#{rss_url}): #{e.message}"
         next
       rescue RSS::NotWellFormedError => e
-        log_lock.synchronize { warn "Failed to parse RSS feed for source '#{source_title}' (#{rss_url}): #{e.message}" }
+        LOGGER.error "Failed to parse RSS feed for source '#{source_title}' (#{rss_url}): #{e.message}"
         next
       end
     end

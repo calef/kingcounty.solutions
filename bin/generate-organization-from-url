@@ -8,6 +8,7 @@ require 'open-uri'
 require 'ruby/openai'
 require 'uri'
 require 'yaml'
+require_relative '../lib/logging'
 
 ORG_DIR = '_organizations'
 TOPIC_DIR = '_topics'
@@ -17,6 +18,7 @@ MAX_PAGES = Integer(ENV.fetch('ORG_SCRAPER_MAX_PAGES', 5))
 PAGE_SNIPPET = Integer(ENV.fetch('ORG_SCRAPER_PAGE_SNIPPET', 3000))
 READ_TIMEOUT = Integer(ENV.fetch('ORG_SCRAPER_TIMEOUT', 10))
 OPENAI_MODEL = ENV.fetch('OPENAI_ORG_MODEL', 'gpt-4o-mini')
+LOGGER = Logging.build_logger(env_var: 'LOG_LEVEL')
 
 def normalize_url(url)
   uri = URI(url)
@@ -57,7 +59,7 @@ def fetch_page(url)
   html = URI.open(url, open_timeout: READ_TIMEOUT, read_timeout: READ_TIMEOUT).read
   Nokogiri::HTML(html)
 rescue StandardError => e
-  warn "Skipping #{url}: #{e.class} #{e.message}"
+  LOGGER.warn "Skipping #{url}: #{e.class} #{e.message}"
   nil
 end
 
@@ -264,7 +266,7 @@ def main
   existing_websites = load_existing_websites
   existing_types = load_existing_types.to_a.sort
   if existing_websites.include?(normalized)
-    warn "Organization with website #{website_url} already exists; skipping."
+    LOGGER.info "Organization with website #{website_url} already exists; skipping."
     return
   end
 
@@ -334,7 +336,7 @@ def main
   body = word_limited.empty? ? 'Description forthcoming.' : word_limited
 
   path = write_organization_file(slug, front_matter, body)
-  puts "Created #{path}"
+  LOGGER.info "Created #{path}"
 end
 
 main if $PROGRAM_NAME == __FILE__

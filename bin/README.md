@@ -31,11 +31,12 @@ Reviews each `_organizations/*.md` file’s topics using `_topics/` metadata plu
 
 - `OPENAI_API_KEY` – required.
 - `OPENAI_TOPIC_AUDIT_MODEL` – overrides the default `gpt-4o-mini`.
+- `LOG_LEVEL` – logging level shared by all scripts (`TRACE`, `DEBUG`, `INFO`, `WARN`, `ERROR`, or `FATAL`; default `WARN`). Raise to `INFO` to see per-organization progress and summaries.
 - Caches per-organization responses under `.jekyll-cache/topic_audit/`; `--force` bypasses cache.
 
 **Behavior notes**
 
-- Without `--apply`, the script only prints or writes the audit report.
+- Without `--apply`, the script only logs or writes the audit report results.
 - When `--apply` is supplied, it edits each organization file by removing unsupported topics and appending new ones suggested by the audit, keeping the list sorted and unique.
 - Includes up to `--max-posts` (default 5) of the organization’s recent `_posts/` content in the LLM prompt.
 
@@ -55,6 +56,7 @@ Scrapes a single organization website (following same-host links) and asks OpenA
 - `ORG_SCRAPER_MAX_PAGES` – how many same-host pages to crawl (default 5).
 - `ORG_SCRAPER_PAGE_SNIPPET` – max characters of text per page sent to the prompt (default 3000).
 - `ORG_SCRAPER_TIMEOUT` – HTTP open/read timeout in seconds (default 10).
+- `LOG_LEVEL` – logging level shared by all scripts (`TRACE`, `DEBUG`, `INFO`, `WARN`, `ERROR`, or `FATAL`; default `WARN`). Set to `INFO` to see skip reasons and newly created paths.
 
 **Behavior notes**
 
@@ -62,7 +64,7 @@ Scrapes a single organization website (following same-host links) and asks OpenA
 - Crawls up to the configured page limit on the target host, strips nav/scripts, and feeds truncated text to the LLM along with allowed topics/types inferred from existing files.
 - Filters `jurisdictions` to known place titles (defaults to `King County` when the model returns unusable values), coerces `type` to the known set or falls back to `Community-Based Organization`, and keeps acronyms only if they are short uppercase strings.
 - Attempts to auto-detect RSS/Atom and iCal links while scraping and fills `news_rss_url` / `events_ical_url` when absent.
-- Generates a slug from the title, ensures uniqueness, writes ordered front matter plus a 100-word-capped summary body, and prints the created path.
+- Generates a slug from the title, ensures uniqueness, writes ordered front matter plus a 100-word-capped summary body, and logs the created path when the log level allows it.
 
 ### `generate-weekly-summary`
 
@@ -79,6 +81,7 @@ Builds an editorial roundup post for the current week (Saturday–Friday window)
 - `OPENAI_MODEL` – overrides the default `gpt-4o-mini`.
 - `WEEKLY_SUMMARY_LIMIT` – caps how many posts are passed to the LLM for theme planning (default 60).
 - `WEEKLY_DATE` – optional `YYYY-MM-DD` anchor date to regenerate a specific week.
+- `LOG_LEVEL` – logging level shared by all scripts (`TRACE`, `DEBUG`, `INFO`, `WARN`, `ERROR`, or `FATAL`; default `WARN`). Raise to `INFO` for creation notices and fallback explanations.
 
 **Behavior notes**
 
@@ -99,6 +102,7 @@ Downloads images referenced in each post’s `original_markdown_body`, renames t
 
 - `IMAGE_OPEN_TIMEOUT` – HTTP open timeout in seconds (default 10).
 - `IMAGE_READ_TIMEOUT` – HTTP read timeout in seconds (default 30).
+- `LOG_LEVEL` – logging level shared by all scripts (`TRACE`, `DEBUG`, `INFO`, `WARN`, `ERROR`, or `FATAL`; default `WARN`). Use `INFO` to see per-post updates and run summaries.
 
 **Behavior notes**
 
@@ -106,6 +110,7 @@ Downloads images referenced in each post’s `original_markdown_body`, renames t
 - Skips posts that already have an `images` front matter attribute; intended for one-time population.
 - Avoids redownloading the same URL within a run; writes files under `assets/images/<checksum>.<ext>`.
 - Creates `_images/<checksum>.md` with `checksum`, optional `title` (set only when the image had alt text), `image_url`, `source_url`, and copies `source`/`date` from the originating post; appends discovered checksums to a post’s `images` array without removing existing entries.
+- Logs WARN-level issues for missing front matter or failed downloads, INFO for updates/empty images actions, DEBUG for already-processed posts, and prints a per-run summary when the log level allows it.
 
 ### `import-rss-news`
 
@@ -122,6 +127,7 @@ Imports recent partner updates from every `_organizations/*.md` that exposes `ne
 - Skips RSS items published more than `MAX_ITEM_AGE_DAYS` (365) days ago.
 - `RSS_WORKERS` – how many threads to use for fetching/parsing feeds in parallel (default 6). Use a smaller number if you want to be gentler on source servers.
 - `RSS_OPEN_TIMEOUT` / `RSS_READ_TIMEOUT` – per-request open/read timeouts in seconds (defaults 5/10) for both feed fetches and article-body scraping. Increase slightly if you see false positives, or lower to bail out faster on slow sites.
+- `LOG_LEVEL` – logging level shared by all scripts (`TRACE`, `DEBUG`, `INFO`, `WARN`, `ERROR`, or `FATAL`; default `WARN`). Use `INFO` to show per-feed summaries or suppress routine skip notices at higher thresholds.
 
 **Behavior notes**
 
@@ -130,6 +136,7 @@ Imports recent partner updates from every `_organizations/*.md` that exposes `ne
 - Converts HTML to Markdown via `ReverseMarkdown`, stores the upstream HTML in `original_content`, and saves the cleaned Markdown body beneath a single YAML front matter block.
 - Stores SHA256 checksums for each feed in `bin/feed_checksums.yml` and skips reprocessing feeds whose checksum has not changed since the previous run.
 - Fetches feeds concurrently using a small thread pool; logs and checksum updates are synchronized to avoid races.
+- Emits one INFO summary line per feed describing how many items were imported, skipped as duplicates, stale, etc.; DEBUG level additionally logs when a feed’s checksum is unchanged.
 - Network errors (HTTP failures, SSL issues, socket errors, or timeouts) are logged per-source and skipped so one flakey feed doesn’t halt the full import run.
 
 ### `list-openai-models`
@@ -144,6 +151,7 @@ Simple helper that echoes every model ID visible to the configured OpenAI accoun
 **Key env/config**
 
 - `OPENAI_API_KEY` – required.
+- `LOG_LEVEL` – logging level shared by all scripts (`TRACE`, `DEBUG`, `INFO`, `WARN`, `ERROR`, or `FATAL`; default `WARN`). Set to `INFO` to see the model list.
 
 **Behavior notes**
 
@@ -161,13 +169,15 @@ Backfills AI-written summaries for `_posts/` entries whose front matter lacks `s
 **Key env/config**
 
 - `OPENAI_API_KEY` – required.
-- `OPENAI_SUMMARY_MODEL` – overrides the default `gpt-4o-mini`.
+- `OPENAI_MODEL` – overrides the default `gpt-4o-mini`.
+- `LOG_LEVEL` – logging level shared by all scripts (`TRACE`, `DEBUG`, `INFO`, `WARN`, `ERROR`, or `FATAL`; default `WARN`). Use `INFO` to see update summaries without surfacing all warnings.
 
 **Behavior notes**
 
 - Tries to fetch the original article (scrubbing scripts/nav chrome) before sending truncated text (20k chars max) to the LLM; falls back to the stored Markdown body if the fetch fails.
 - Retries failed API calls up to three times (sleeping between rate limits).
 - Writes `original_markdown_body` once (if missing) and sets `summarized: true` in front matter.
+- Emits WARN-level messages for data issues or API errors, INFO for truncation/updates, and prints a per-run summary when the log level allows it.
 
 ### `summarize-topics`
 
@@ -181,7 +191,7 @@ Generates a short, resident-friendly description for each `_topics/*.md` file th
 **Key env/config**
 
 - `OPENAI_API_KEY` – required.
-- `OPENAI_SUMMARY_MODEL` – overrides the default `gpt-4o-mini`.
+- `OPENAI_MODEL` – overrides the default `gpt-4o-mini`.
 
 **Behavior notes**
 
@@ -203,9 +213,10 @@ Locates RSS/Atom feeds for organizations that have a `website` but no `news_rss_
 - `TARGETS=org-a.md,org-b.md` – restricts processing to a comma-delimited subset (filenames or `_organizations/<file>` paths).
 - `LIMIT=10` – stop after inspecting N organizations.
 - `DRY_RUN=1` – report findings without writing to disk.
+- `LOG_LEVEL` – logging level shared by all scripts (`TRACE`, `DEBUG`, `INFO`, `WARN`, `ERROR`, or `FATAL`; default `WARN`). Raise to `INFO` to see per-organization progress and summaries.
 
 **Behavior notes**
 
 - Applies custom request headers, trims downloads (`HTML_MAX_BYTES`, `FEED_MAX_BYTES`), sleeps briefly between fetches, and ignores obvious comment feeds.
 - If no feed is embedded on the homepage it probes the highest-scoring “secondary pages” (links mentioning news/blog/press/etc.) before giving up.
-- Prints a summary of processed vs. updated files and lists each detected feed.
+- Logs INFO-level progress as organizations are processed along with a final summary listing each discovered feed.

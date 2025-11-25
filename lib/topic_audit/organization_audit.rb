@@ -4,6 +4,7 @@ require 'json'
 require 'yaml'
 require 'fileutils'
 require 'set'
+require_relative '../logging'
 
 module TopicAudit
   ORG_DIR = '_organizations'
@@ -12,6 +13,7 @@ module TopicAudit
   CACHE_DIR = File.join('.jekyll-cache', 'topic_audit')
   DEFAULT_MODEL = ENV.fetch('OPENAI_TOPIC_AUDIT_MODEL', 'gpt-4o-mini')
   DEFAULT_MAX_POSTS = 5
+  LOGGER = Logging.build_logger(env_var: 'LOG_LEVEL')
 
   # Audits the topics assigned to organizations and optionally updates front matter.
   class OrganizationAudit
@@ -78,7 +80,7 @@ module TopicAudit
         body = Regexp.last_match.post_match
         [front_matter, body]
       else
-        warn "Skipping #{path}: missing front matter"
+        LOGGER.warn "Skipping #{path}: missing front matter"
         [nil, nil]
       end
     end
@@ -107,10 +109,10 @@ module TopicAudit
       cache_file = File.join(@cache_dir, cache_key(org['title']))
       posts = load_recent_posts(org['title'])
 
-      puts "Auditing #{org['title']}..."
+      LOGGER.info "Auditing #{org['title']}..."
       result = audit_org(org, topics, posts, cache_file)
       unless result
-        warn "Skipping #{org['title']} due to parse errors"
+        LOGGER.warn "Skipping #{org['title']} due to parse errors"
         return
       end
 
@@ -158,7 +160,7 @@ module TopicAudit
     def safe_parse_json(content, org_title)
       JSON.parse(content)
     rescue JSON::ParserError
-      warn "Non-JSON response for #{org_title}: #{content.inspect}"
+      LOGGER.warn "Non-JSON response for #{org_title}: #{content.inspect}"
       nil
     end
 
@@ -246,13 +248,13 @@ module TopicAudit
       updated_topics = (Array(fm['topics']) - removals + additions).uniq.sort
       fm['topics'] = updated_topics
       write_front_matter(org['path'], fm, body)
-      puts "  -> Updated #{org['path']} topics: #{updated_topics.join(', ')}"
+      LOGGER.info "Updated #{org['path']} topics: #{updated_topics.join(', ')}"
     end
 
     def write_report
       if @output
         File.write(@output, JSON.pretty_generate(@report))
-        puts "Report written to #{@output}"
+        LOGGER.info "Report written to #{@output}"
       else
         print_report
       end
@@ -260,11 +262,11 @@ module TopicAudit
 
     def print_report
       @report.each do |entry|
-        puts "\n== #{entry[:org]} =="
-        puts "Add:" + (entry[:additions].empty? ? ' (none)' : " #{entry[:additions].join(', ')}")
-        puts "Remove:" + (entry[:removals].empty? ? ' (none)' : " #{entry[:removals].join(', ')}")
-        puts "Unclear: #{entry[:unclear].join(', ')}" unless entry[:unclear].empty?
-        puts "Notes: #{entry[:notes]}" if entry[:notes]
+        LOGGER.info "== #{entry[:org]} =="
+        LOGGER.info "Add:" + (entry[:additions].empty? ? ' (none)' : " #{entry[:additions].join(', ')}")
+        LOGGER.info "Remove:" + (entry[:removals].empty? ? ' (none)' : " #{entry[:removals].join(', ')}")
+        LOGGER.info "Unclear: #{entry[:unclear].join(', ')}" unless entry[:unclear].empty?
+        LOGGER.info "Notes: #{entry[:notes]}" if entry[:notes]
       end
     end
 
