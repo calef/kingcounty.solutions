@@ -1,15 +1,33 @@
 ---
-title: DEEL Invites Seattle Youth and Families to Every Child Ready Community Conversations Series 
-date: '2025-11-21T16:00:00+00:00'
-source: King County School Health
-source_url: https://kingcountyschoolhealthdotcom.wordpress.com/2025/11/21/deel-invites-seattle-youth-and-families-to-every-child-ready-community-conversations-series/
-original_content: The Seattle Department of Education &#38; Early Learning is hosting Community Conversations in December about the renewal of the Families, Education, Preschool &#38; Promise Levy. Residents are invited to discuss investments in childcare and education, with events offering free dinner and activities for children. RSVP is required due to limited space.
-original_markdown_body: The Seattle Department of Education & Early Learning is hosting Community Conversations in December about the renewal of the Families, Education, Preschool & Promise Levy. Residents are invited to discuss investments in childcare and education, with events offering free dinner and activities for children. RSVP is required due to limited space.
+title: DEEL Invites Seattle Youth and Families to Every Child Ready Community Conversations Series 
+date: '2025-11-21T18:12:08+00:00'
+source: Department of Education and Early Learning
+source_url: https://education.seattle.gov/?p=1465
+original_content: '<img width="150" height="150" src="https://education.seattle.gov/wp-content/uploads/sites/27/2025/11/FEPP-Levy-Webpage-Banner_Nov-2025-150x150.png"
+  class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom:
+  5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy"
+  srcset="https://education.seattle.gov/wp-content/uploads/sites/27/2025/11/FEPP-Levy-Webpage-Banner_Nov-2025-150x150.png
+  150w, https://education.seattle.gov/wp-content/uploads/sites/27/2025/11/FEPP-Levy-Webpage-Banner_Nov-2025-115x115.png
+  115w" sizes="auto, (max-width: 150px) 100vw, 150px" />Learn about planned FEPP Levy
+  investments in childcare and education, and share what matters most to you! The
+  Seattle Department of Education &#38; Early Learning (DEEL) is hosting a series
+  of Community Conversations this&#160;December about the renewal of the Families,
+  Education, Preschool &#38; Promise Levy (FEPP). With the passage of the Prop 1 &#8211;
+  FEPP [&#8230;]'
+original_markdown_body: "![](https://education.seattle.gov/wp-content/uploads/sites/27/2025/11/FEPP-Levy-Webpage-Banner_Nov-2025-150x150.png)Learn
+  about planned FEPP Levy investments in childcare and education, and share what matters
+  most to you! The Seattle Department of Education & Early Learning (DEEL) is hosting
+  a series of Community Conversations this&nbsp;December about the renewal of the
+  Families, Education, Preschool & Promise Levy (FEPP). With the passage of the Prop
+  1 – FEPP […]"
 summarized: true
 topics:
 - Childcare
 - Education & Learning
-images: []
+images:
+- b5bbbb0a38a83493dd24ae98066ee8697ca14483845abc9afcb9ebfcfe9e47b2
 ---
 
-The Seattle Department of Education & Early Learning (DEEL) is hosting a series of Community Conversations in December focused on the renewal of the Families, Education, Preschool & Promise Levy (FEPP). This initiative follows the passage of Prop 1, which will enable the City of Seattle to implement a six-year spending plan starting in 2026 to benefit children, youth, and families. The events aim to inform attendees about planned investments in childcare and education while gathering community input on priorities. The Every Child Ready Community Conversation Series will take place at four locations: Magnuson Community Center on December 2, Ballard Branch of the Seattle Public Library on December 10, Denny International Middle School on December 11, and Rainier Community Center on December 16, all from 5:30 to 7:30 PM. These family-friendly events will provide free dinner, interpretation services, and children's activities. Space is limited, and attendees are encouraged to RSVP. DEEL aims to understand community needs and enhance access to affordable childcare, high-quality preschool, K-12 supports, and college and career opportunities.
+The Seattle Department of Education & Early Learning (DEEL) is hosting a series of Community Conversations in December to discuss the renewal of the Families, Education, Preschool & Promise Levy (FEPP). This initiative is part of a six-year spending plan set to begin in 2026, aimed at supporting children, youth, and families in Seattle. The events will cover planned investments in childcare and education, offering families an opportunity to express their priorities. 
+
+The community events will be family-friendly, providing free dinner, interpretation services, and activities for children. Scheduled meetings will take place on December 2 at Magnuson Community Center, December 10 at Ballard Branch of the Seattle Public Library, December 11 at Denny International Middle School, and December 16 at Rainier Community Center, all from 5:30 to 7:30 PM. Due to limited space, attendees are encouraged to RSVP. DEEL aims to gather community input on how the levy can enhance access to affordable childcare, high-quality preschool, K-12 support, and college and career opportunities. More information can be found on DEEL’s levy renewal webpage or by contacting the department directly.
