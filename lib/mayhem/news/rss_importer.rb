@@ -4,6 +4,7 @@ require 'digest'
 require 'fileutils'
 require 'net/http'
 require 'nokogiri'
+require 'open-uri'
 require 'openssl'
 require 'reverse_markdown'
 require 'rss'
@@ -12,11 +13,9 @@ require_relative '../logging'
 require_relative '../support/front_matter_document'
 require_relative '../support/feed_checksum_store'
 require_relative '../support/slug_generator'
-require_relative '../http_fetcher'
 
 module Mayhem
   module News
-    # Imports RSS/Atom items into the site with metadata normalization.
     class RssImporter
       ARTICLE_BODY_SELECTORS = [
         '#news_content_body',
@@ -97,7 +96,6 @@ module Mayhem
 
       private
 
-      # rubocop:disable Lint/ShadowedException
       def process_source(source_file)
         frontmatter = Mayhem::Support::FrontMatterDocument.load(source_file, logger: @logger)
         return unless frontmatter
@@ -107,14 +105,7 @@ module Mayhem
         return unless rss_url
 
         stats = Hash.new(0)
-        response = Mayhem::HttpFetcher.fetch_response(
-          rss_url,
-          open_timeout: @open_timeout,
-          read_timeout: @read_timeout,
-          headers: { 'Accept' => 'application/rss+xml, application/atom+xml, application/xml, text/xml' }
-        )
-        return unless response.is_a?(Net::HTTPSuccess)
-        rss_content = response.body
+        rss_content = URI.open(rss_url, open_timeout: @open_timeout, read_timeout: @read_timeout, &:read)
         checksum = Digest::SHA256.hexdigest(rss_content)
         if @checksum_store[rss_url] == checksum
           @logger.debug "Skipping #{source_title} (feed unchanged)"
@@ -128,14 +119,13 @@ module Mayhem
 
         @checksum_store[rss_url] = checksum
         @logger.info feed_summary_line(source_title, rss_url, stats)
-      rescue OpenURI::HTTPError, SocketError, Net::OpenTimeout, Net::ReadTimeout, Timeout::Error => error
-        @logger.error "Failed to fetch RSS feed for source '#{source_title}' (#{rss_url}): #{error.message}"
-      rescue OpenSSL::SSL::SSLError => error
-        @logger.error "SSL error for source '#{source_title}' (#{rss_url}): #{error.message}"
-      rescue RSS::NotWellFormedError => error
-        @logger.error "Failed to parse RSS feed for source '#{source_title}' (#{rss_url}): #{error.message}"
+      rescue OpenURI::HTTPError, SocketError, Net::OpenTimeout, Net::ReadTimeout, Timeout::Error => e
+        @logger.error "Failed to fetch RSS feed for source '#{source_title}' (#{rss_url}): #{e.message}"
+      rescue OpenSSL::SSL::SSLError => e
+        @logger.error "SSL error for source '#{source_title}' (#{rss_url}): #{e.message}"
+      rescue RSS::NotWellFormedError => e
+        @logger.error "Failed to parse RSS feed for source '#{source_title}' (#{rss_url}): #{e.message}"
       end
-      # rubocop:enable Lint/ShadowedException
 
       def process_item(item, source_title, stats)
         link_url = item_link_url(item)
@@ -239,17 +229,8 @@ module Mayhem
         published_time < cutoff
       end
 
-      # rubocop:disable Lint/ShadowedException
       def fetch_article_body_html(url)
-        response = Mayhem::HttpFetcher.fetch_response(
-          url,
-          open_timeout: @open_timeout,
-          read_timeout: @read_timeout,
-          headers: { 'Accept' => 'text/html' }
-        )
-        return nil unless response.is_a?(Net::HTTPSuccess)
-
-        html = response.body
+        html = URI.open(url, open_timeout: @open_timeout, read_timeout: @read_timeout).read
         doc = Nokogiri::HTML(html)
         ARTICLE_BODY_SELECTORS.each do |selector|
           node = doc.at_css(selector)
@@ -261,14 +242,13 @@ module Mayhem
         fallback = doc.at_css('main') || doc.at_css('#main') || doc.at_css('#content')
         fallback&.inner_html&.strip
       rescue OpenURI::HTTPError, OpenSSL::SSL::SSLError, SocketError,
-             Net::OpenTimeout, Net::ReadTimeout, Timeout::Error => error
-        @logger.warn "Failed to fetch article body (#{url}): #{error.message}"
+             Net::OpenTimeout, Net::ReadTimeout, Timeout::Error => e
+        @logger.warn "Failed to fetch article body (#{url}): #{e.message}"
         nil
-      rescue StandardError => error
-        @logger.error "Unexpected error scraping #{url}: #{error.message}"
+      rescue StandardError => e
+        @logger.error "Unexpected error scraping #{url}: #{e.message}"
         nil
       end
-      # rubocop:enable Lint/ShadowedException
 
       def item_content_html(item)
         return item.content_encoded if item.respond_to?(:content_encoded) && item.content_encoded
@@ -279,8 +259,8 @@ module Mayhem
         return content.content if content.respond_to?(:content) && content.content
 
         content if content.is_a?(String)
-      rescue StandardError => error
-        @logger.warn "Failed to read content for #{item.link || item.title}: #{error.message}"
+      rescue StandardError => e
+        @logger.warn "Failed to read content for #{item.link || item.title}: #{e.message}"
         nil
       end
 
@@ -307,8 +287,8 @@ module Mayhem
           return first.href if first.respond_to?(:href)
         end
         item.respond_to?(:url) ? item.url.to_s : nil
-      rescue StandardError => error
-        @logger.warn "Failed to read link for #{item.respond_to?(:title) ? item.title : 'unknown item'}: #{error.message}"
+      rescue StandardError => e
+        @logger.warn "Failed to read link for #{item.respond_to?(:title) ? item.title : 'unknown item'}: #{e.message}"
         nil
       end
 

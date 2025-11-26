@@ -1,8 +1,8 @@
 # frozen_string_literal: true
 
+#
 # Silences noisy warnings emitted by upstream gems when Ruby runs with -w.
 
-# Filters known warning patterns so the build output remains readable.
 module WarningFilter
   SUPPRESSED_PATTERNS = [
     %r{/gems/icalendar-[^/]+/lib/icalendar/downcased_hash\.rb:.*`&' interpreted as argument prefix},

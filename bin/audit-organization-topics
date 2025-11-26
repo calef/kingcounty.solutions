@@ -6,54 +6,28 @@ require 'ruby/openai'
 require_relative '../lib/mayhem/topics/organization_audit'
 
 def parse_options(default_model:, default_max_posts:)
-  options = default_options(default_model, default_max_posts)
-
-  OptionParser.new do |opts|
-    opts.banner = 'Usage: bin/audit-topics [options]'
-
-    configure_model_option(opts, default_model, options)
-    configure_max_posts_option(opts, default_max_posts, options)
-    configure_force_option(opts, options)
-    configure_output_option(opts, options)
-    configure_apply_option(opts, options)
-  end.parse!
-
-  options
-end
-
-def default_options(default_model, default_max_posts)
-  {
+  options = {
     model: default_model,
     max_posts: default_max_posts,
     force: false,
     output: nil,
     apply: false
   }
-end
 
-def configure_model_option(opts, default_model, options)
-  opts.on('--model MODEL', "OpenAI model (default: #{default_model})") do |model|
-    options[:model] = model
-  end
-end
+  OptionParser.new do |opts|
+    opts.banner = 'Usage: bin/audit-topics [options]'
 
-def configure_max_posts_option(opts, default_max_posts, options)
-  opts.on('--max-posts N', Integer,
-          "Number of recent posts per org to include (default: #{default_max_posts})") do |n|
-    options[:max_posts] = n
-  end
-end
+    opts.on('--model MODEL', "OpenAI model (default: #{default_model})") { |model| options[:model] = model }
+    opts.on('--max-posts N', Integer,
+            "Number of recent posts per org to include (default: #{default_max_posts})") do |n|
+      options[:max_posts] = n
+    end
+    opts.on('--force', 'Ignore cached responses and re-run audit') { options[:force] = true }
+    opts.on('--output FILE', 'Write JSON report to FILE') { |file| options[:output] = file }
+    opts.on('--apply', 'Update organization topic lists in-place') { options[:apply] = true }
+  end.parse!
 
-def configure_force_option(opts, options)
-  opts.on('--force', 'Ignore cached responses and re-run audit') { options[:force] = true }
-end
-
-def configure_output_option(opts, options)
-  opts.on('--output FILE', 'Write JSON report to FILE') { |file| options[:output] = file }
-end
-
-def configure_apply_option(opts, options)
-  opts.on('--apply', 'Update organization topic lists in-place') { options[:apply] = true }
+  options
 end
 
 if $PROGRAM_NAME == __FILE__

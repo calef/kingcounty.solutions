@@ -2,12 +2,3 @@ plugins:
   - rubocop-minitest
 AllCops:
   NewCops: enable
-  Exclude:
-    - '_site/**/*'
-    - 'coverage/**/*'
-    - 'logs/**/*'
-    - 'tmp-home/**/*'
-    - 'test/**/*'
-
-Naming/RescuedExceptionsVariableName:
-  PreferredName: error

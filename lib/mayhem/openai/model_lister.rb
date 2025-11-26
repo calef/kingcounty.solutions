@@ -4,7 +4,6 @@ require 'ruby/openai'
 
 module Mayhem
   module OpenAI
-    # Queries OpenAI for available model IDs.
     class ModelLister
       def initialize(client: nil)
         @client = client || ::OpenAI::Client.new(access_token: ENV.fetch('OPENAI_API_KEY'))

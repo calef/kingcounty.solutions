@@ -27,8 +27,8 @@ module Mayhem
         rescue Errno::ENOENT
           logger&.warn("Missing file: #{path}")
           nil
-        rescue ParseError => error
-          logger&.warn("Failed to parse #{path}: #{error.message}")
+        rescue ParseError => e
+          logger&.warn("Failed to parse #{path}: #{e.message}")
           nil
         end
 
@@ -44,8 +44,8 @@ module Mayhem
 
           body = match.post_match || ''
           ParseResult.new(front_matter: data, body: body, raw: content)
-        rescue Psych::Exception => error
-          raise ParseError, error.message
+        rescue Psych::Exception => e
+          raise ParseError, e.message
         end
       end
 
