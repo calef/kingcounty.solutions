@@ -1,14 +1,14 @@
 ---
 email: GlenaAndrewsPhD@gmail.com
 jurisdictions:
-  - United States
+- United States
+news_rss_url: https://fetalalcoholsyndrome.org/blog/f.atom
+title: Fetal Alcohol Spectrum Disorder Education
 topics:
 - Disabilities
 - Education & Learning
 - Mental Health & Counseling
 type: Community-Based Organization
-news_rss_url: https://fetalalcoholsyndrome.org/blog/f.atom
-title: Fetal Alcohol Spectrum Disorder Education
 website: https://fetalalcoholsyndrome.org/
 ---
 

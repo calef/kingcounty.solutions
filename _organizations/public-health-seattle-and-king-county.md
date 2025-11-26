@@ -2,7 +2,7 @@
 jurisdictions:
 - King County
 parent_organization: King County
-title: "Public Health \u2013 Seattle & King County"
+title: Public Health – Seattle & King County
 topics:
 - Health Care
 - Mental Health & Counseling

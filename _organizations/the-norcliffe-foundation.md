@@ -1,8 +1,8 @@
 ---
+address: 600 University Street, Suite 2003, Seattle, WA 98101
 jurisdictions:
 - Washington State
 phone: "(206) 682-4820"
-address: 600 University Street, Suite 2003, Seattle, WA 98101
 title: The Norcliffe Foundation
 topics:
 - Financial Assistance

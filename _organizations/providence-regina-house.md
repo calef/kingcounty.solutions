@@ -1,9 +1,9 @@
 ---
+address: 8201 10th Ave S, Suite 6, Seattle, WA 98108
 jurisdictions:
 - King County
 parent_organization: Providence
 phone: 206-763-9204
-address: 8201 10th Ave S, Suite 6, Seattle, WA 98108
 title: Providence Regina House
 topics:
 - Food & Nutrition

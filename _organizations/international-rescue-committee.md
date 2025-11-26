@@ -1,8 +1,8 @@
 ---
 acronym: IRC
+email: communications@rescue.org
 jurisdictions:
 - United States
-email: communications@rescue.org
 title: International Rescue Committee
 topics:
 - Disabilities

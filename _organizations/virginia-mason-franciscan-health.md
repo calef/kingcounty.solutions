@@ -1,10 +1,10 @@
 ---
+acronym: VMFH
+email: referrals@vmfh.org
 jurisdictions:
 - Washington State
-acronym: VMFH
 parent_organization: CommonSpirit Health
 phone: 877-333-0122
-email: referrals@vmfh.org
 title: Virginia Mason Franciscan Health
 topics:
 - Health Care

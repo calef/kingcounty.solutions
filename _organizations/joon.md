@@ -1,8 +1,8 @@
 ---
+email: hello@joon.com
 jurisdictions:
 - Seattle
 phone: 425-600-6425
-email: hello@joon.com
 title: Joon
 topics:
 - Mental Health & Counseling

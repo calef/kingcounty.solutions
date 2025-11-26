@@ -1,11 +1,11 @@
 ---
+address: 10201 E. Riverside Drive, Bothell, WA 98011
+email: information@mynorthshore.org
 jurisdictions:
 - Bothell
 - Kenmore
 news_rss_url: https://www.northshoreseniorcenter.org/feed/
 phone: 425-487-2441
-email: information@mynorthshore.org
-address: 10201 E. Riverside Drive, Bothell, WA 98011
 title: Northshore Senior Center
 topics:
 - Food & Nutrition

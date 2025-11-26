@@ -4,12 +4,12 @@ jurisdictions:
 - Auburn
 - Seattle
 - Renton
+news_rss_url: https://lakesidemilam.com/feed/
 phone: "(800) 544-1211"
+title: Lakeside-Milam Recovery Centers
 topics:
 - Mental Health & Counseling
 type: Agency
-news_rss_url: https://lakesidemilam.com/feed/
-title: Lakeside-Milam Recovery Centers
 website: https://lakesidemilam.com/
 ---
 

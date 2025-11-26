@@ -9,6 +9,7 @@ topics:
 type: Department
 website: https://www.ed.gov/
 ---
+
 The **Department of Education** promotes educational excellence and equal access to learning.  Its social service relevance includes:
 
 - **Education & Learning:** K–12 and higher education programs, adult education, special education, and initiatives that advance educational equity and school safety

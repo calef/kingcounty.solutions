@@ -1,9 +1,9 @@
 ---
+acronym: YC
+events_ical_url: https://youthcare.org/events/?ical=1
 jurisdictions:
 - Seattle
-acronym: YC
 news_rss_url: https://youthcare.org/feed/
-events_ical_url: https://youthcare.org/events/?ical=1
 phone: 800-495-7802
 title: YouthCare
 topics:

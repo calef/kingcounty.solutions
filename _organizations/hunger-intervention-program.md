@@ -1,9 +1,9 @@
 ---
 acronym: HIP
+events_ical_url: https://hungerintervention.org/events/?ical=1
 jurisdictions:
 - King County
 news_rss_url: https://hungerintervention.org/feed/
-events_ical_url: https://hungerintervention.org/events/?ical=1
 title: Hunger Intervention Program
 topics:
 - Food & Nutrition

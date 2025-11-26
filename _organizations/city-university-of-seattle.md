@@ -1,15 +1,15 @@
 ---
+email: info@cityu.edu
 jurisdictions:
 - Seattle
+news_rss_url: https://www.cityu.edu/student-services/feed/
 phone: 888-422-4898
-email: info@cityu.edu
+title: City University of Seattle
 topics:
 - Education & Learning
 - Employment & Job Support
 - Mental Health & Counseling
 type: University
-news_rss_url: https://www.cityu.edu/student-services/feed/
-title: City University of Seattle
 website: https://www.cityu.edu/
 ---
 

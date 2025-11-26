@@ -1,8 +1,8 @@
 ---
+address: 336 2nd Ave S, Kent, WA 98032
 jurisdictions:
 - King County
 parent_organization: Kent Lutheran Church
-address: 336 2nd Ave S, Kent, WA 98032
 title: Kent Community Supper
 topics:
 - Food & Nutrition

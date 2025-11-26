@@ -9,4 +9,5 @@ topics:
 type: School District
 website: https://www.mercerislandschools.org
 ---
+
 The Mercer Island School District serves the educational needs of the Mercer Island community. It is committed to providing quality education and support for all students.

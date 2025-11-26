@@ -1,8 +1,8 @@
 ---
+address: 611 20th Ave S, Seattle, WA 98144
 jurisdictions:
 - King County
 news_rss_url: https://www.thefbsm.org/blog-feed.xml
-address: 611 20th Ave S, Seattle, WA 98144
 title: The Food Bank @ St. Mary's
 topics:
 - Food & Nutrition

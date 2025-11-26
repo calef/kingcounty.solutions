@@ -1,13 +1,13 @@
 ---
+address: 6869 Woodlawn Avenue NE, Ste 204, Seattle, WA 98115
+email: jlyonphd@gmail.com
 jurisdictions:
 - Seattle
 phone: 206.291.4173
-email: jlyonphd@gmail.com
-address: 6869 Woodlawn Avenue NE, Ste 204, Seattle, WA 98115
+title: Jordan Lyon, PhD, LLC
 topics:
 - Mental Health & Counseling
 type: Agency
-title: Jordan Lyon, PhD, LLC
 website: https://jordanlyonphd.com/
 ---
 

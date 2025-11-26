@@ -1,10 +1,10 @@
 ---
+address: 8801 14th Ave S, Seattle, WA 98108
 jurisdictions:
 - Seattle
 - King County
 parent_organization: Sea Mar Community Health Centers
 phone: 206.766.6976
-address: 8801 14th Ave S, Seattle, WA 98108
 title: Sea Mar Community Health Centers - Seattle Behavioral Health Clinic
 topics:
 - Mental Health & Counseling

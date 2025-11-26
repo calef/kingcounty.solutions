@@ -1,8 +1,8 @@
 ---
+address: 123 5th Avenue, Kirkland, WA 98033
 jurisdictions:
 - Kirkland
 phone: 425-587-3100
-address: 123 5th Avenue, Kirkland, WA 98033
 title: Kirkland Cares Low-Income Support Program
 topics:
 - Financial Assistance

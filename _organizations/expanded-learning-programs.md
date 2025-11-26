@@ -1,10 +1,10 @@
 ---
+address: 800 Oakesdale Ave. SW, Renton, WA 98057
+email: echick@psesd.org
 jurisdictions:
 - King County
 parent_organization: Puget Sound Educational Service District 121
 phone: 253-778-7940
-email: echick@psesd.org
-address: 800 Oakesdale Ave. SW, Renton, WA 98057
 title: Expanded Learning Programs
 topics:
 - Education & Learning

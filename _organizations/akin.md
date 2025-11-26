@@ -1,6 +1,7 @@
 ---
 jurisdictions:
 - King County
+news_rss_url: https://akinfamily.org/feed/
 title: Akin
 topics:
 - Disabilities
@@ -15,7 +16,6 @@ topics:
 - Shelter & Housing
 type: Community-Based Organization
 website: https://akinfamily.org/
-news_rss_url: https://akinfamily.org/feed/
 ---
 
 Akin is dedicated to supporting and strengthening families across Washington state. Through a comprehensive range of tailored services, Akin partners with children, families, and communities to improve health and well-being, disrupt cycles of inequity, and ensure families can thrive together.

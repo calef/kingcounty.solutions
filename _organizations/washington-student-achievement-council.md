@@ -1,7 +1,7 @@
 ---
 acronym: WSAC
 jurisdictions:
-  - Washington State
+- Washington State
 parent_organization: State Executive Branch
 title: Washington Student Achievement Council
 topics:

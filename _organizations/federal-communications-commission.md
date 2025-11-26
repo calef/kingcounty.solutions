@@ -13,4 +13,5 @@ topics:
 type: Independent Federal Agency
 website: https://www.fcc.gov/
 ---
+
 The Federal Communications Commission (FCC) regulates interstate communications across radio, television, wire, satellite, and cable to keep people connected and safe. It issues licenses, enforces consumer protections, expands broadband access, and keeps emergency communications reliable. Consumers can file complaints, get guidance on robocalls and billing disputes, and learn about affordability programs through the agency’s help center.

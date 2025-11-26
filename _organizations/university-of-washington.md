@@ -1,10 +1,10 @@
 ---
 acronym: UW
+events_ical_url: https://www.washington.edu/calendar/
 jurisdictions:
 - Seattle
 - Bothell
 news_rss_url: https://www.washington.edu/news/feed/
-events_ical_url: https://www.washington.edu/calendar/
 title: University of Washington
 topics:
 - Education & Learning

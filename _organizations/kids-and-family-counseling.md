@@ -4,11 +4,11 @@ jurisdictions:
 - Bellevue
 - Redmond
 - Duvall
+title: Kids And Family Counseling
 topics:
 - Mental Health & Counseling
 - Disabilities
 type: Community-Based Organization
-title: Kids And Family Counseling
 website: https://www.kidsandfamilycounseling.com/
 ---
 

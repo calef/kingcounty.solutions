@@ -1,11 +1,11 @@
 ---
 acronym: CHNW
+address: 1111 Third Ave Suite 400, Seattle, WA 98101
+email: info@chnw.chpw.org
 jurisdictions:
 - King County
 news_rss_url: https://chnw.chpw.org/feed/
 phone: 1-866-907-1906
-email: info@chnw.chpw.org
-address: 1111 Third Ave Suite 400, Seattle, WA 98101
 title: Community Health Network of Washington
 topics:
 - Health Care

@@ -1,9 +1,9 @@
 ---
+email: btsinfo@seattlecolleges.edu
 jurisdictions:
 - Seattle
 parent_organization: Seattle Central College
 phone: 206.934.4180
-email: btsinfo@seattlecolleges.edu
 title: Basic and Transitional Studies
 topics:
 - Education & Learning

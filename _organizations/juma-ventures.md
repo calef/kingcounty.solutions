@@ -1,11 +1,11 @@
 ---
+address: 131 Steuart Street, Suite 202, San Francisco, CA 94105
+email: meganh@juma.org
+events_ical_url: https://www.juma.org/events/?ical=1
 jurisdictions:
 - Seattle
 news_rss_url: https://www.juma.org/feed/
-events_ical_url: https://www.juma.org/events/?ical=1
 phone: 415.371.0727
-email: meganh@juma.org
-address: 131 Steuart Street, Suite 202, San Francisco, CA 94105
 title: Juma Ventures
 topics:
 - Employment & Job Support

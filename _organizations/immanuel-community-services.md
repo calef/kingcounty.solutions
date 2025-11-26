@@ -1,9 +1,9 @@
 ---
 acronym: ICS
+email: volunteers@icsseattle.org
 jurisdictions:
 - Seattle
 news_rss_url: https://www.icsseattle.org/feed/
-email: volunteers@icsseattle.org
 title: Immanuel Community Services
 topics:
 - Food & Nutrition

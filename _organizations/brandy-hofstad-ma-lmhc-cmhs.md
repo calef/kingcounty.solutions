@@ -1,4 +1,6 @@
 ---
+address: 410 Bellevue Way SE, Suite 303, Bellevue, WA 98004
+email: info@brandyhofstad.com
 jurisdictions:
 - Bellevue
 - Kirkland
@@ -8,13 +10,11 @@ jurisdictions:
 - Issaquah
 - Seattle
 phone: "(425) 495-3031"
-email: info@brandyhofstad.com
-address: 410 Bellevue Way SE, Suite 303, Bellevue, WA 98004
+title: Brandy Hofstad MA, LMHC, CMHS
 topics:
 - Mental Health & Counseling
 - Childcare
 type: Agency
-title: Brandy Hofstad MA, LMHC, CMHS
 website: https://www.brandyhofstad.com/
 ---
 

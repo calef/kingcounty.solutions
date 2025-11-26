@@ -1,11 +1,11 @@
 ---
 jurisdictions:
 - Seattle
+title: Momentum Nutrition
 topics:
 - Food & Nutrition
 - Mental Health & Counseling
 type: Community-Based Organization
-title: Momentum Nutrition
 website: http://www.momentum4health.com/
 ---
 

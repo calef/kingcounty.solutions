@@ -1,8 +1,8 @@
 ---
+email: leslier@bethanypc.org
 jurisdictions:
 - Seattle
 news_rss_url: https://www.bethanypc.org/feed/
-email: leslier@bethanypc.org
 title: Bethany Presbyterian Church
 topics:
 - Mental Health & Counseling

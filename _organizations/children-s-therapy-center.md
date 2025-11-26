@@ -1,10 +1,10 @@
 ---
 acronym: CTC
+email: info@ctckids.org
 jurisdictions:
 - King County
 news_rss_url: https://ctckids.org/feed/
 phone: 253.854.5660
-email: info@ctckids.org
 title: Children's Therapy Center
 topics:
 - Disabilities

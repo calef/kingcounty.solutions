@@ -1,13 +1,13 @@
 ---
 acronym: IRCCW
+address: '24401 104th Ave SE #102, Kent, WA 98030'
+email: info@irccw.org
 jurisdictions:
 - Kent
 - Seattle
 - King County
 news_rss_url: https://www.irccw.org/blog-feed.xml
-phone: (253)-243-774
-email: info@irccw.org
-address: '24401 104th Ave SE #102, Kent, WA 98030'
+phone: "(253)-243-774"
 title: Iraqi Community Center of Washington
 topics:
 - Disabilities

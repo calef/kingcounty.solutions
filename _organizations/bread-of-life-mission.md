@@ -3,6 +3,7 @@ address: 97 S Main Street, Seattle, WA 98104
 email: info@breadoflifemission.org
 jurisdictions:
 - Seattle
+news_rss_url: https://breadoflifemission.org/stories/rss.xml
 phone: 206-682-3579
 title: Bread of Life Mission
 topics:
@@ -11,7 +12,6 @@ topics:
 - Shelter & Housing
 type: Community-Based Organization
 website: https://breadoflifemission.org/
-news_rss_url: https://breadoflifemission.org/stories/rss.xml
 ---
 
 Bread of Life Mission is a faith-based nonprofit in Pioneer Square serving men experiencing homelessness, addiction, and deep poverty. Since 1939 the mission has offered low-barrier outreach, emergency meals, showers, and winter-weather mats alongside a 24/7 enhanced shelter and LifePath recovery program that pairs case management with counseling and discipleship.

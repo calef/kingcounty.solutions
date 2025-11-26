@@ -1,11 +1,11 @@
 ---
+address: 2410 E. Cherry St., Seattle, WA 98122
+email: novawellnesscenter@seattleroots.org
 jurisdictions:
 - Seattle
 news_rss_url: https://novahs.seattleschools.org/feed/
 parent_organization: Seattle Roots Community Health
 phone: 206-709-7166
-email: novawellnesscenter@seattleroots.org
-address: 2410 E. Cherry St., Seattle, WA 98122
 title: Nova Wellness Center
 topics:
 - Health Care

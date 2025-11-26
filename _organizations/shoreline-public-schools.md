@@ -8,4 +8,5 @@ topics:
 type: School District
 website: https://www.ssd412.org/
 ---
+
 Shoreline Public Schools is a school district located in Shoreline, Washington. The district is committed to providing quality education and learning opportunities for all students in the community.

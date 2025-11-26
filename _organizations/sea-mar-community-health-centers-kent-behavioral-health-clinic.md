@@ -1,10 +1,10 @@
 ---
+address: 25028 104th Ave SE, Kent, WA 98030
 jurisdictions:
 - Kent
 - King County
 parent_organization: Sea Mar Community Health Centers
 phone: 206.764.8019
-address: 25028 104th Ave SE, Kent, WA 98030
 title: Sea Mar Community Health Centers - Kent Behavioral Health Clinic
 topics:
 - Mental Health & Counseling

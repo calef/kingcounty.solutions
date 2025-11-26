@@ -1,9 +1,9 @@
 ---
+address: 700 5th Avenue, Suite 4900, Seattle, WA, 98104
 jurisdictions:
 - Seattle
 parent_organization: Seattle Public Utilities
 phone: "(206) 684-5800"
-address: 700 5th Avenue, Suite 4900, Seattle, WA, 98104
 title: Emergency Assistance Program
 topics:
 - Financial Assistance

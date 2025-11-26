@@ -1,9 +1,9 @@
 ---
+email: SouthTS@seattlecolleges.edu
 jurisdictions:
 - Seattle
 parent_organization: South Seattle College
 phone: 206.934.5363
-email: SouthTS@seattlecolleges.edu
 title: English as a Second Language (ESL)
 topics:
 - Education & Learning

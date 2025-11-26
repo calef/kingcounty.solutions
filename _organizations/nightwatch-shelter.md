@@ -1,10 +1,10 @@
 ---
+address: 302 14th Ave S, Seattle, WA 98144
+email: info@seattlenightwatch.org
 jurisdictions:
 - King County
 news_rss_url: https://www.seattlenightwatch.org/feed/
 phone: 206-323-4359
-email: info@seattlenightwatch.org
-address: 302 14th Ave S, Seattle, WA 98144
 title: Nightwatch Shelter
 topics:
 - Shelter & Housing

@@ -1,12 +1,12 @@
 ---
 jurisdictions:
 - King County
+news_rss_url: http://amysummersphd.com/new-index?format=rss
+title: Amy Summers PHD
 topics:
 - Mental Health & Counseling
 - Education & Learning
 type: Agency
-news_rss_url: http://amysummersphd.com/new-index?format=rss
-title: Amy Summers PHD
 website: https://amysummersphd.com/
 ---
 

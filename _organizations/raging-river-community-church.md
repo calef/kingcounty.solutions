@@ -1,10 +1,10 @@
 ---
+address: 31104 SE 86th St, Issaquah, WA 98027
 jurisdictions:
 - Issaquah
 - Preston
 news_rss_url: https://r2c2blog.wordpress.com/feed/
 phone: "(425) 222-5573"
-address: 31104 SE 86th St, Issaquah, WA 98027
 title: Raging River Community Church
 topics:
 - Education & Learning

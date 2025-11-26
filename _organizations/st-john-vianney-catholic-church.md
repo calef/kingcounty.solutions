@@ -1,10 +1,10 @@
 ---
+address: 12600 84th Avenue NE, Kirkland, WA 98034
+email: sec@sjvkirkland.org
 jurisdictions:
 - King County
 news_rss_url: https://sjvkirkland.org/feed/
 phone: 425-823-0787
-email: sec@sjvkirkland.org
-address: 12600 84th Avenue NE, Kirkland, WA 98034
 title: St. John Vianney Catholic Church
 topics:
 - Education & Learning

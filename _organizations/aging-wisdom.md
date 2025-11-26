@@ -3,13 +3,13 @@ jurisdictions:
 - Seattle
 - Bellevue
 - King County
+news_rss_url: https://agingwisdom.com/feed/
+title: Aging Wisdom
 topics:
 - Senior Services
 - Health Care
 - Mental Health & Counseling
 type: Community-Based Organization
-news_rss_url: https://agingwisdom.com/feed/
-title: Aging Wisdom
 website: https://agingwisdom.com/
 ---
 

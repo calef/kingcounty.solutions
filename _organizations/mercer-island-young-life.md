@@ -1,11 +1,11 @@
 ---
+email: mercerislandyounglife@gmail.com
 jurisdictions:
 - Mercer Island
-email: mercerislandyounglife@gmail.com
+title: Mercer Island Young Life
 topics:
 - Education & Learning
 type: Community-Based Organization
-title: Mercer Island Young Life
 website: https://mercerisland.younglife.org/
 ---
 

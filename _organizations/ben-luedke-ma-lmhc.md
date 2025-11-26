@@ -1,14 +1,14 @@
 ---
+address: '1611 116th Ave. NE, Office #108, Bellevue, WA 98004'
+email: ben@benluedke.com
 jurisdictions:
 - Bellevue
+news_rss_url: https://benluedke.com/?feed=rss2
 phone: 425.454.0422
-email: ben@benluedke.com
-address: '1611 116th Ave. NE, Office #108, Bellevue, WA 98004'
+title: Ben Luedke, MA, LMHC
 topics:
 - Mental Health & Counseling
 type: Independent Federal Agency
-news_rss_url: https://benluedke.com/?feed=rss2
-title: Ben Luedke, MA, LMHC
 website: https://benluedke.com/
 ---
 

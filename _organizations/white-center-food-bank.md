@@ -1,7 +1,7 @@
 ---
+email: admin@whitecenterfoodbank.org
 jurisdictions:
 - White Center
-email: admin@whitecenterfoodbank.org
 title: White Center Food Bank
 topics:
 - Food & Nutrition

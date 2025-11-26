@@ -1,9 +1,9 @@
 ---
+email: recreation@rentonwa.gov
 jurisdictions:
 - Renton
 parent_organization: City of Renton
 phone: 425-430-6633
-email: recreation@rentonwa.gov
 title: Don Persson Renton Senior Activity Center
 topics:
 - Education & Learning

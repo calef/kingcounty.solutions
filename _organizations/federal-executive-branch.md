@@ -1,6 +1,6 @@
 ---
 jurisdictions:
-  - United States
+- United States
 parent_organization: United States Federal Government
 title: Federal Executive Branch
 topics: []

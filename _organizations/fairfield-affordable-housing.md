@@ -1,8 +1,8 @@
 ---
+address: 5355 Mira Sorrento Place, Suite 100, San Diego, CA 92121
 jurisdictions:
 - King County
 phone: 858.457.2123
-address: 5355 Mira Sorrento Place, Suite 100, San Diego, CA 92121
 title: Fairfield Affordable Housing
 topics:
 - Shelter & Housing

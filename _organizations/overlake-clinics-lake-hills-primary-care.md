@@ -1,9 +1,9 @@
 ---
+address: Lake Hills Village 619 156th Ave SE, Bellevue, WA 98007
 jurisdictions:
 - Bellevue
 parent_organization: Overlake Medical Center & Clinics
 phone: "(425) 637-3270"
-address: Lake Hills Village 619 156th Ave SE, Bellevue, WA 98007
 title: Overlake Clinics - Lake Hills Primary Care
 topics:
 - Health Care

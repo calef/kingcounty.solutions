@@ -1,10 +1,10 @@
 ---
+email: Katherine@spseniors.org
+events_ical_url: https://www.spseniors.org/events/?ical=1
 jurisdictions:
 - Seattle
 news_rss_url: https://www.spseniors.org/feed/
-events_ical_url: https://www.spseniors.org/events/?ical=1
-phone: (206) 579-6607
-email: Katherine@spseniors.org
+phone: "(206) 579-6607"
 title: South Park Senior Citizens
 topics:
 - Food & Nutrition

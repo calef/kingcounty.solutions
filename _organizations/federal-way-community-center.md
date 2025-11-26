@@ -1,8 +1,8 @@
 ---
+events_ical_url: https://itallhappenshere.org/events/?ical=1
 jurisdictions:
 - Federal Way
 news_rss_url: https://itallhappenshere.org/feed/
-events_ical_url: https://itallhappenshere.org/events/?ical=1
 phone: 253-835-6900
 title: Federal Way Community Center
 topics:

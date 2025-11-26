@@ -1,5 +1,6 @@
 ---
 acronym: SHAG
+address: 9240 2nd Ave SW, Suite 200, Seattle, WA 98106
 jurisdictions:
 - Seattle
 - King County
@@ -11,7 +12,6 @@ jurisdictions:
 - Renton
 news_rss_url: https://housing4seniors.com/feed/
 phone: 844-592-SHAG (7424)
-address: 9240 2nd Ave SW, Suite 200, Seattle, WA 98106
 title: SHAG Senior Living
 topics:
 - Shelter & Housing

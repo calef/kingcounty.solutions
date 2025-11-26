@@ -1,10 +1,10 @@
 ---
+email: FindARide@hopelink.org
 jurisdictions:
 - King County
 news_rss_url: https://www.findaride.org/feed/rss2
 parent_organization: Hopelink
 phone: 1-888-697-9080
-email: FindARide@hopelink.org
 title: Find a Ride
 topics:
 - Transportation & Mobility

@@ -1,10 +1,10 @@
 ---
+address: 1200 5th Ave, Suite 700, Seattle, WA 98101
 jurisdictions:
 - Seattle
 - King County
 parent_organization: King County Bar Association
 phone: 206-267-7070
-address: 1200 5th Ave, Suite 700, Seattle, WA 98101
 title: Neighborhood Legal Clinics
 topics:
 - Legal Aid

@@ -1,8 +1,8 @@
 ---
+address: 85 Pike Street, LaSalle Hotel building, Seattle, WA 98101
 jurisdictions:
 - King County
 phone: 206-626-6462
-address: 85 Pike Street, LaSalle Hotel building, Seattle, WA 98101
 title: Pike Market Senior Center & Food Bank
 topics:
 - Food & Nutrition

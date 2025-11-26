@@ -1,8 +1,8 @@
 ---
+email: info@vinemapleplace.org
 jurisdictions:
 - South King County
 phone: 425.432.2119
-email: info@vinemapleplace.org
 title: Vine Maple Place
 topics:
 - Shelter & Housing

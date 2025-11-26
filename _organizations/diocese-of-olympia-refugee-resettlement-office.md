@@ -1,10 +1,10 @@
 ---
 acronym: RRO
+email: greg@rroseattle.org
 jurisdictions:
 - King County
 news_rss_url: https://www.dioceserroseattle.org/blog-feed.xml
 phone: 206-323-3152
-email: greg@rroseattle.org
 title: Diocese of Olympia Refugee Resettlement Office
 topics:
 - Employment & Job Support

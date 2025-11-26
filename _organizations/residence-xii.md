@@ -1,12 +1,12 @@
 ---
 jurisdictions:
 - Washington State
+news_rss_url: https://www.residencexii.org/feed/
 phone: "(858) 363-8214"
+title: Residence XII
 topics:
 - Mental Health & Counseling
 type: Community-Based Organization
-news_rss_url: https://www.residencexii.org/feed/
-title: Residence XII
 website: https://www.residencexii.org/
 ---
 

@@ -1,8 +1,8 @@
 ---
+address: 1415 North 45th Street, Seattle, WA 98103
 jurisdictions:
 - King County
 news_rss_url: https://www.assistanceleague.org/seattle/feed/
-address: 1415 North 45th Street, Seattle, WA 98103
 title: Assistance League – Seattle
 topics:
 - Education & Learning

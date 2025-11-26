@@ -1,8 +1,8 @@
 ---
+email: sponsorships@inatai.org
 jurisdictions:
 - Washington State
 news_rss_url: https://inatai.org/feed/
-email: sponsorships@inatai.org
 title: Inatai Foundation
 topics:
 - Disabilities

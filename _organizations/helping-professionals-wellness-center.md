@@ -1,7 +1,7 @@
 ---
+acronym: HPWC
 jurisdictions:
 - Washington State
-acronym: HPWC
 news_rss_url: https://hpwellnesscenter.com/feed/
 title: Helping Professionals Wellness Center
 topics:

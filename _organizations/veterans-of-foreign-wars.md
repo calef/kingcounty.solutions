@@ -1,9 +1,9 @@
 ---
 acronym: VFW
-phone: 816.756.3390
 address: 406 W. 34th Street, Kansas City, Missouri 64111
 jurisdictions:
-  - United States
+- United States
+phone: 816.756.3390
 title: Veterans of Foreign Wars
 topics:
 - Employment & Job Support

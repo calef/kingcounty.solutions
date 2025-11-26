@@ -9,4 +9,5 @@ topics:
 type: School District
 website: https://www.fwps.org
 ---
+
 Federal Way Public Schools is a school district that serves the community of Federal Way. The district is committed to providing quality education and support to its students and families.

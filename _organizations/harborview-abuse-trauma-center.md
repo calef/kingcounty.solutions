@@ -2,14 +2,14 @@
 jurisdictions:
 - Seattle
 - King County
+news_rss_url: https://depts.washington.edu/uwhatc/feed/
 parent_organization: University of Washington
 phone: 206-744-1600
+title: Harborview Abuse & Trauma Center
 topics:
 - Domestic Violence
 - Mental Health & Counseling
 type: Agency
-news_rss_url: https://depts.washington.edu/uwhatc/feed/
-title: Harborview Abuse & Trauma Center
 website: https://depts.washington.edu/uwhatc/
 ---
 

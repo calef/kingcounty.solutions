@@ -1,12 +1,12 @@
 ---
 jurisdictions:
 - King County
+news_rss_url: https://sundown.org/feed/
 phone: "(509) 457-0290"
+title: Sundown M Ranch
 topics:
 - Mental Health & Counseling
 type: Agency
-news_rss_url: https://sundown.org/feed/
-title: Sundown M Ranch
 website: https://sundown.org/
 ---
 

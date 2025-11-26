@@ -1,10 +1,10 @@
 ---
+address: 26201 180th Ave SE, Covington, WA 98042
+email: info@covingtonstorehouse.org
 jurisdictions:
 - Covington
 - Kent
 phone: 253-631-3038
-email: info@covingtonstorehouse.org
-address: 26201 180th Ave SE, Covington, WA 98042
 title: Covington Storehouse
 topics:
 - Food & Nutrition

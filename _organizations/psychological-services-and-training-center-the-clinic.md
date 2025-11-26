@@ -1,10 +1,10 @@
 ---
 acronym: PSTC
+address: Kincaid Hall Suite 410, 3751 W Stevens Way NE, Seattle, WA 98195
 jurisdictions:
 - Seattle
 parent_organization: University of Washington
 phone: 206-543-6511
-address: Kincaid Hall Suite 410, 3751 W Stevens Way NE, Seattle, WA 98195
 title: Psychological Services and Training Center (The Clinic)
 topics:
 - Mental Health & Counseling

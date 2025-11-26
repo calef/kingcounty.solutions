@@ -1,7 +1,7 @@
 ---
+email: info@southseattlecollegefoundation.org
 jurisdictions:
 - Seattle
-email: info@southseattlecollegefoundation.org
 title: South Seattle College
 topics:
 - Education & Learning

@@ -1,9 +1,9 @@
 ---
+email: Ann.Crisostomo@seattle.gov
 jurisdictions:
 - Seattle
 parent_organization: Department of Education and Early Learning
 phone: "(206) 386-1027"
-email: Ann.Crisostomo@seattle.gov
 title: Upward Bound
 topics:
 - Education & Learning

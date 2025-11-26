@@ -1,10 +1,10 @@
 ---
-jurisdictions:
-- United States
 acronym: SCL
-email: info@smileschangelives.org
 address: 'Smiles Change Lives Attn: Donor Care Coordinator PO Box 480496 Kansas City,
   MO 64148'
+email: info@smileschangelives.org
+jurisdictions:
+- United States
 title: Smiles Change Lives
 topics:
 - Health Care

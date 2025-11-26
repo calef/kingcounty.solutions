@@ -1,9 +1,9 @@
 ---
+email: familystore@wellspringfs.org
 jurisdictions:
 - Seattle
 parent_organization: Wellspring Family Services
 phone: 206-902-4270
-email: familystore@wellspringfs.org
 title: Wellspring Family Store
 topics:
 - Personal & Household Needs

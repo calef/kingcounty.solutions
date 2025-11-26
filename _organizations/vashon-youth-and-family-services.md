@@ -1,9 +1,9 @@
 ---
 acronym: VYFS
+email: vkadmin@vyfs.org
 jurisdictions:
 - Vashon
 phone: 206-463-5511
-email: vkadmin@vyfs.org
 title: Vashon Youth and Family Services
 topics:
 - Mental Health & Counseling

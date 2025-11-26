@@ -1,8 +1,8 @@
 ---
-jurisdictions:
-- United States
 acronym: HCF
 email: info@honorandcourage.org
+jurisdictions:
+- United States
 title: Honor and Courage Foundation
 topics:
 - Mental Health & Counseling

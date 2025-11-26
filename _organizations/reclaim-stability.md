@@ -1,10 +1,10 @@
 ---
+address: 8224 Railroad Avenue Southeast, Snoqualmie, Washington 98065, United States
 jurisdictions:
 - Snoqualmie Valley
 - North Bend
 - King County
-phone: (425) 389-7114
-address: 8224 Railroad Avenue Southeast, Snoqualmie, Washington 98065, United States
+phone: "(425) 389-7114"
 title: Reclaim
 topics:
 - Shelter & Housing

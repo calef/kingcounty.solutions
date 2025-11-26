@@ -1,11 +1,11 @@
 ---
 acronym: AF
+email: info@arcorafoundation.org
+events_ical_url: https://arcorafoundation.org/events/?ical=1
 jurisdictions:
 - King County
 news_rss_url: https://arcorafoundation.org/feed/
-events_ical_url: https://arcorafoundation.org/events/?ical=1
 parent_organization: Delta Dental of Washington
-email: info@arcorafoundation.org
 title: Arcora Foundation
 topics:
 - Health Care

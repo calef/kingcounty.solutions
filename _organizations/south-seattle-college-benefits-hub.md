@@ -1,9 +1,9 @@
 ---
+email: BenefitsHubSSC@seattlecolleges.edu
 jurisdictions:
 - Seattle
 parent_organization: South Seattle College
 phone: 206.649.8124
-email: BenefitsHubSSC@seattlecolleges.edu
 title: South Seattle College Benefits Hub
 topics:
 - Financial Assistance

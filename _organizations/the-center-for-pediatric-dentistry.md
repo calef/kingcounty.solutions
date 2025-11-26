@@ -1,9 +1,9 @@
 ---
+address: 6222 NE 74th St, Seattle, WA 98115
 jurisdictions:
 - Seattle
 news_rss_url: https://thecenterforpediatricdentistry.com/feed/
 phone: 206-543-5800
-address: 6222 NE 74th St, Seattle, WA 98115
 title: The Center for Pediatric Dentistry
 topics:
 - Health Care

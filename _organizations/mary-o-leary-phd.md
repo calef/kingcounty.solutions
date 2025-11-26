@@ -1,10 +1,10 @@
 ---
 jurisdictions:
 - Washington State
+title: Mary O'Leary, PhD
 topics:
 - Mental Health & Counseling
 type: Agency
-title: Mary O'Leary, PhD
 website: https://www.maryolearyphd.com/
 ---
 

@@ -1,9 +1,9 @@
 ---
 acronym: UCCWA
+address: 13470 Martin Luther King Jr Way S, Seattle, WA, United States
 jurisdictions:
 - King County
-phone: (425) 430-8229
-address: 13470 Martin Luther King Jr Way S, Seattle, WA, United States
+phone: "(425) 430-8229"
 title: Ukrainian Community Center of Washington
 topics:
 - Disabilities

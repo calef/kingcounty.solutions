@@ -1,10 +1,10 @@
 ---
+email: info@hsdc.org
+events_ical_url: https://hsdc.org/events-calendar/?ical=1
 jurisdictions:
 - King County
 news_rss_url: https://hsdc.org/feed/
-events_ical_url: https://hsdc.org/events-calendar/?ical=1
 phone: 206-323-5770
-email: info@hsdc.org
 title: Hearing, Speech & Deaf Center
 topics:
 - Disabilities

@@ -2,6 +2,7 @@
 acronym: OHY
 jurisdictions:
 - Washington State
+news_rss_url: https://www.commerce.wa.gov/feed/
 parent_organization: Department of Commerce
 title: Office of Homeless Youth
 topics:
@@ -11,7 +12,6 @@ topics:
 - Mental Health & Counseling
 type: Division
 website: https://www.commerce.wa.gov/homelessness-response/ohy/
-news_rss_url: https://www.commerce.wa.gov/feed/
 ---
 
 The **Office of Homeless Youth (OHY)** works to ensure youth and young adults have safe, stable housing and access to supportive services.

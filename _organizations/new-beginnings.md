@@ -1,11 +1,11 @@
 ---
+address: P.O. Box 75125, Seattle, WA 98175-0125
+email: info@newbegin.org
+events_ical_url: https://newbegin.org/get-involved-events/?ical=1
 jurisdictions:
 - King County
 news_rss_url: https://newbegin.org/feed/
-events_ical_url: https://newbegin.org/get-involved-events/?ical=1
 phone: 206-737-0242
-email: info@newbegin.org
-address: P.O. Box 75125, Seattle, WA 98175-0125
 title: New Beginnings
 topics:
 - Domestic Violence

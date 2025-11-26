@@ -12,4 +12,5 @@ topics:
 type: Community-Based Organization
 website: https://techaccess.org/
 ---
+
 Technology Access Foundation (TAF) advances equity in public education through STEM-centered programs and system transformation. Since 1996, TAF has provided after-school and in-school STEM experiences, partnered with school districts and higher education to redesign teaching practices, and worked to recruit and retain a diverse educator workforce. From its Bethaday Community Learning Space in West Seattle, the nonprofit supports youth and educators across Washington State with project-based learning models rooted in racial equity and real-world application.

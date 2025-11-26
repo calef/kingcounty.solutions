@@ -1,5 +1,6 @@
 ---
 address: 4016 South 352nd Street in Auburn, WA 98001
+events_ical_url: https://federalwayseniorcenter.org/events/?ical=1
 jurisdictions:
 - South King County
 - King County
@@ -10,7 +11,6 @@ jurisdictions:
 - Milton
 - Pacific
 news_rss_url: https://federalwayseniorcenter.org/feed/
-events_ical_url: https://federalwayseniorcenter.org/events/?ical=1
 title: Federal Way Senior Center
 topics:
 - Food & Nutrition

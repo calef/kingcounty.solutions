@@ -1,10 +1,10 @@
 ---
 acronym: GP
+address: P.O. Box 6449 Kent, WA 98064
+email: Info@GPSeattle.net
 jurisdictions:
 - Seattle
 phone: 206-592-2362
-email: Info@GPSeattle.net
-address: P.O. Box 6449 Kent, WA 98064
 title: The Genesis Project
 topics:
 - Domestic Violence

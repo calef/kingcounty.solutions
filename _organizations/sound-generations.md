@@ -1,9 +1,9 @@
 ---
+email: info@soundgenerations.org
 jurisdictions:
 - Seattle
 - King County
 news_rss_url: https://soundgenerations.org/feed/
-email: info@soundgenerations.org
 title: Sound Generations
 topics:
 - Disabilities

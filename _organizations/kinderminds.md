@@ -1,13 +1,13 @@
 ---
 email: elizabeth.smith@kinderminds.com
 jurisdictions:
-  - United States
+- United States
+news_rss_url: https://www.kinderminds.com/feed/
+title: Kinderminds
 topics:
 - Education & Learning
 - Disabilities
 type: Community-Based Organization
-news_rss_url: https://www.kinderminds.com/feed/
-title: Kinderminds
 website: https://www.kinderminds.com/
 ---
 

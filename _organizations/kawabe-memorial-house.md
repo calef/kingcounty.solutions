@@ -1,10 +1,10 @@
 ---
+address: 221 18th Ave South, Seattle, WA 98144
+email: info@kawabehouse.org
 jurisdictions:
 - Seattle
 news_rss_url: https://kawabehouse.org/feed/
 phone: 206-322-4550
-email: info@kawabehouse.org
-address: 221 18th Ave South, Seattle, WA 98144
 title: Kawabe Memorial House
 topics:
 - Shelter & Housing

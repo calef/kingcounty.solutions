@@ -1,8 +1,8 @@
 ---
+email: info@vashon.helpfulvillage.com
 jurisdictions:
 - King County
 phone: 206-485-4335
-email: info@vashon.helpfulvillage.com
 title: Senior Center Village
 topics:
 - Disabilities

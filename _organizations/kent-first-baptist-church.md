@@ -1,8 +1,8 @@
 ---
+address: 11420 SE 248th St, Kent, WA 98030
 jurisdictions:
 - Kent
 news_rss_url: https://www.kentfirstbaptist.org/feed/
-address: 11420 SE 248th St, Kent, WA 98030
 title: Kent First Baptist Church
 topics:
 - Food & Nutrition

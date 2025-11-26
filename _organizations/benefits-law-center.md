@@ -1,10 +1,10 @@
 ---
 acronym: BLC
+email: Huy@benefitslawcenter.org
+events_ical_url: https://benefitslawcenter.org/events/?ical=1
 jurisdictions:
 - King County
 news_rss_url: https://benefitslawcenter.org/feed/
-events_ical_url: https://benefitslawcenter.org/events/?ical=1
-email: Huy@benefitslawcenter.org
 title: Benefits Law Center
 topics:
 - Disabilities

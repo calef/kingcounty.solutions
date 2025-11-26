@@ -13,4 +13,5 @@ topics:
 type: Community-Based Organization
 website: https://bellevue.salvationarmy.org/
 ---
+
 The Salvation Army Bellevue Corps Community Center provides Eastside residents with food assistance, housing and shelter referrals, emergency financial help, workforce support, and community programs for youth and families. The corps serves Bellevue and surrounding King County communities, connecting neighbors with practical resources and spiritual care.

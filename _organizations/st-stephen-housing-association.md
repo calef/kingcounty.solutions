@@ -1,11 +1,11 @@
 ---
 acronym: SSHA
+email: HousingStability@SSHAWA.org
 jurisdictions:
 - Des Moines
 - King County
 news_rss_url: https://ststephenhousing.org/feed/
 phone: 253-638-9798
-email: HousingStability@SSHAWA.org
 title: St Stephen Housing Association
 topics:
 - Shelter & Housing

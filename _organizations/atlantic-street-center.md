@@ -1,10 +1,10 @@
 ---
 acronym: ASC
+email: referrals@atlanticstreet.org
 jurisdictions:
 - King County
 - Seattle
 news_rss_url: https://atlanticstreetcenter.org/feed/
-email: referrals@atlanticstreet.org
 title: Atlantic Street Center
 topics:
 - Education & Learning

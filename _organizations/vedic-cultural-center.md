@@ -1,11 +1,11 @@
 ---
+address: 1420, 228th AVE SE, Sammamish, WA 98075
+email: info@vedicculturalcenter.org
 jurisdictions:
 - Sammamish
 - Seattle
 news_rss_url: https://www.vedicculturalcenter.org/feed/
-phone: (206)-979-8002
-email: info@vedicculturalcenter.org
-address: 1420, 228th AVE SE, Sammamish, WA 98075
+phone: "(206)-979-8002"
 title: Vedic Cultural Center
 topics:
 - Food & Nutrition

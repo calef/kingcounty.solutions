@@ -1,10 +1,10 @@
 ---
 acronym: SHARE
+address: 3212 NE 125th, Lake City, Seattle, WA 98125
+email: meals4shelters@sharewheel.org
 jurisdictions:
 - Seattle
 phone: 206-448-7889
-email: meals4shelters@sharewheel.org
-address: 3212 NE 125th, Lake City, Seattle, WA 98125
 title: SHARE / WHEEL
 topics:
 - Shelter & Housing

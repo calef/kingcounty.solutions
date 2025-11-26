@@ -1,9 +1,9 @@
 ---
+email: nuhopeinfo@northwestu.edu
 jurisdictions:
 - King County
 parent_organization: Northwest University
 phone: "(425) 889-5261"
-email: nuhopeinfo@northwestu.edu
 title: NUhope Community Counseling Center
 topics:
 - Mental Health & Counseling

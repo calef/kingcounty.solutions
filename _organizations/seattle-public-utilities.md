@@ -1,10 +1,10 @@
 ---
+address: 700 5th Avenue, Suite 4900, Seattle, WA, 98104
+email: SPUCustomerService@seattle.gov
 jurisdictions:
 - Seattle
-phone: "(206) 684-3000"
-email: SPUCustomerService@seattle.gov
-address: 700 5th Avenue, Suite 4900, Seattle, WA, 98104
 parent_organization: City of Seattle
+phone: "(206) 684-3000"
 title: Seattle Public Utilities
 topics:
 - Food & Nutrition

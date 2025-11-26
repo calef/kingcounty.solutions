@@ -1,9 +1,9 @@
 ---
+address: 22010 SE 248th ST Maple Valley, WA 98038
+email: MapleValleyToddlerTime@gmail.com
 jurisdictions:
 - King County
-phone: (425) 432-1272
-email: MapleValleyToddlerTime@gmail.com
-address: 22010 SE 248th ST Maple Valley, WA 98038
+phone: "(425) 432-1272"
 title: Greater Maple Valley Community Center
 topics:
 - Disabilities

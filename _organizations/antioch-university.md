@@ -1,10 +1,10 @@
 ---
+email: admissions@antioch.edu
+events_ical_url: https://www.antioch.edu/events/?ical=1
 jurisdictions:
 - United States
 news_rss_url: https://www.antioch.edu/feed/
-events_ical_url: https://www.antioch.edu/events/?ical=1
 phone: "(310) 340-7634"
-email: admissions@antioch.edu
 title: Antioch University
 topics:
 - Education & Learning

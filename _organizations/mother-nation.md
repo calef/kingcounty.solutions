@@ -1,9 +1,9 @@
 ---
+email: info@mothernation.org
+events_ical_url: https://mothernation.org/events/?ical=1
 jurisdictions:
 - King County
 news_rss_url: https://mothernation.org/feed/
-events_ical_url: https://mothernation.org/events/?ical=1
-email: info@mothernation.org
 title: Mother Nation
 topics:
 - Disabilities

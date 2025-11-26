@@ -1,9 +1,9 @@
 ---
+acronym: GGG
+email: care@gogograndparent.com
 jurisdictions:
 - United States
-acronym: GGG
 phone: 1 (855) 464-6872
-email: care@gogograndparent.com
 title: GoGoGrandparent
 topics:
 - Transportation & Mobility

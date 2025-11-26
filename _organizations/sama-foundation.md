@@ -1,11 +1,11 @@
 ---
 jurisdictions:
-  - King County
+- King County
+news_rss_url: https://samafoundation.org/feed/?lang=en
+title: Sama Foundation
 topics:
 - Education & Learning
 type: Community-Based Organization
-news_rss_url: https://samafoundation.org/feed/?lang=en
-title: Sama Foundation
 website: https://samafoundation.org/?lang=en
 ---
 

@@ -1,11 +1,11 @@
 ---
 jurisdictions:
-  - King County
+- King County
+news_rss_url: https://mendinstitute.com/feed/
+title: MEND Institute
 topics:
 - Mental Health & Counseling
 type: Community-Based Organization
-news_rss_url: https://mendinstitute.com/feed/
-title: MEND Institute
 website: https://mendinstitute.com/
 ---
 

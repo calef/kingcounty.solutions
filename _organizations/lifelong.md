@@ -13,4 +13,5 @@ topics:
 type: Community-Based Organization
 website: https://www.lifelong.org/
 ---
+
 Lifelong delivers food, housing, and health services for people living with chronic illnesses, including HIV and AIDS. From its Seattle Client Service Office, the nonprofit distributes medically tailored meals and weekly groceries, provides housing support, and connects clients to care that improves health outcomes across King County.

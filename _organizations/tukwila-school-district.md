@@ -8,4 +8,5 @@ topics:
 type: School District
 website: https://www.tukwilaschools.org
 ---
+
 The Tukwila School District serves the educational needs of students in Tukwila, Washington. The district is committed to providing quality education and support services to enhance student learning and development.

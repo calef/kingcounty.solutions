@@ -1,10 +1,10 @@
 ---
 acronym: ICHS
+address: 409 Maynard Ave S Ground Floor, Suite 6, Seattle, WA 98104
 jurisdictions:
 - Seattle
 parent_organization: International Community Health Services
 phone: 206.521.4129
-address: 409 Maynard Ave S Ground Floor, Suite 6, Seattle, WA 98104
 title: ICHS Meal Program at Bush Asia Center
 topics:
 - Food & Nutrition

@@ -16,6 +16,7 @@ topics:
 type: Community-Based Organization
 website: https://mschelps.org/
 ---
+
 Multi-Service Center (MSC) is a South King County community action agency that connects people with housing stability, energy and utility assistance, and a market-style food bank anchored at its Federal Way headquarters. Case managers help families stay housed and move into MSC’s rental communities, while foreclosure counseling, resource navigation, and financial education address longer-term economic security.
 
 MSC also runs workforce development, youth and young adult programs, and tailored supports for immigrants, refugees, and seniors across Federal Way, Kent, and neighboring cities. The organization coordinates large volunteer events and year-round giving drives so residents can access wraparound services close to home.

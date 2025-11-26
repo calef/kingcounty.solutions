@@ -1,9 +1,9 @@
 ---
 acronym: IKRON
+email: ikrongreaterseattle@ikron.org
 jurisdictions:
 - King County
 phone: "(425) 968-5921"
-email: ikrongreaterseattle@ikron.org
 title: IKRON Greater Seattle
 topics:
 - Mental Health & Counseling

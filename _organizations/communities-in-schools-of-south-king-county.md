@@ -1,9 +1,9 @@
 ---
+events_ical_url: https://skc.ciswa.org/events/?ical=1
 jurisdictions:
 - Kent
 - Federal Way
 news_rss_url: https://skc.ciswa.org/feed/
-events_ical_url: https://skc.ciswa.org/events/?ical=1
 title: Communities In Schools of South King County
 topics:
 - Education & Learning

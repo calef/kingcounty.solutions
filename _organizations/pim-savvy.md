@@ -1,12 +1,12 @@
 ---
 acronym: PIM
+address: 15600 NE 8th St, Suite E1, Bellevue, WA 98008
+email: vita@pimsavvy.com
 jurisdictions:
 - Bellevue
 - King County
 news_rss_url: https://pimsavvy.com/feed/
 phone: 425-452-2800
-email: vita@pimsavvy.com
-address: 15600 NE 8th St, Suite E1, Bellevue, WA 98008
 title: PIM Savvy
 topics:
 - Financial Assistance

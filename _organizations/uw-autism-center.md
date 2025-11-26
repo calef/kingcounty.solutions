@@ -1,12 +1,12 @@
 ---
 acronym: UWAC
+email: uwautism@uw.edu
 jurisdictions:
 - Washington State
 - King County
 news_rss_url: https://depts.washington.edu/uwautism/feed/
 parent_organization: University of Washington
 phone: 206-221-6806
-email: uwautism@uw.edu
 title: UW Autism Center
 topics:
 - Disabilities

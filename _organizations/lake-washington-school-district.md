@@ -12,4 +12,5 @@ topics:
 type: School District
 website: https://www.lwsd.org
 ---
+
 The Lake Washington School District is committed to providing quality education to its students. It serves the communities within its jurisdiction, focusing on educational excellence and student support. The district offers a variety of programs and services aimed at enhancing the learning experience for all students.

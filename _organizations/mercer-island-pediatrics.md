@@ -1,15 +1,15 @@
 ---
+address: 9675 SE 36th St. STE 100, Mercer Island, WA 98040
 jurisdictions:
 - Mercer Island
 - Seattle
 phone: 206-275-2122
-address: 9675 SE 36th St. STE 100, Mercer Island, WA 98040
+title: Mercer Island Pediatrics
 topics:
 - Health Care
 - Childcare
 - Mental Health & Counseling
 type: Agency
-title: Mercer Island Pediatrics
 website: https://www.mipediatrics.com/
 ---
 

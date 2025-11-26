@@ -4,7 +4,7 @@ jurisdictions:
 - King County
 - Seattle
 news_rss_url: https://www.somcss.org/feed/
-phone: (206) 422-7074
+phone: "(206) 422-7074"
 title: Somali Community Services of Seattle
 topics:
 - Education & Learning

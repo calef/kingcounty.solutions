@@ -11,6 +11,7 @@ topics:
 type: Agency
 website: https://acl.gov/
 ---
+
 The **Administration for Community Living (ACL)** ensures older adults and people with disabilities can live independently. It focuses on:
 
 - **Senior Services:** in-home care, caregiver support, aging networks, and local partnerships that promote inclusion

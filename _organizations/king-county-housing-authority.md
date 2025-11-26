@@ -1,5 +1,7 @@
 ---
 acronym: KCHA
+address: 600 Andover Park W, Tukwila, WA 98188
+email: mtw@kcha.org
 jurisdictions:
 - King County
 - Tukwila
@@ -30,8 +32,6 @@ jurisdictions:
 - Duvall
 parent_organization: King County
 phone: "(206) 574-1100"
-email: mtw@kcha.org
-address: 600 Andover Park W, Tukwila, WA 98188
 title: King County Housing Authority
 topics:
 - Shelter & Housing

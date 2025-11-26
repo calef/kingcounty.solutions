@@ -1,17 +1,17 @@
 ---
 acronym: KCDRC
+email: jadab@kcdrc.org
+events_ical_url: https://kcdrc.org/events/?ical=1
 jurisdictions:
 - King County
+news_rss_url: https://kcdrc.org/feed/
 phone: 253-205-0468
-email: jadab@kcdrc.org
+title: Dispute Resolution Center of King County
 topics:
 - Disabilities
 - Domestic Violence
 - Shelter & Housing
 type: Community-Based Organization
-news_rss_url: https://kcdrc.org/feed/
-events_ical_url: https://kcdrc.org/events/?ical=1
-title: Dispute Resolution Center of King County
 website: https://kcdrc.org/
 ---
 

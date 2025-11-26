@@ -1,12 +1,12 @@
 ---
 acronym: EEU
+address: 1981 NE Columbia Road, Seattle, WA 98195
+email: eeu-office@uw.edu
 jurisdictions:
 - King County
 news_rss_url: https://eeuschool.org/feed/
 parent_organization: University of Washington
 phone: "(206) 543-4011"
-email: eeu-office@uw.edu
-address: 1981 NE Columbia Road, Seattle, WA 98195
 title: Experimental Education Unit (EEU)
 topics:
 - Education & Learning

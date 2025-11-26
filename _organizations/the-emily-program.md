@@ -1,11 +1,11 @@
 ---
 jurisdictions:
-  - King County
+- King County
 phone: 888-364-5977
+title: The Emily Program
 topics:
 - Mental Health & Counseling
 type: Community-Based Organization
-title: The Emily Program
 website: https://emilyprogram.com/
 ---
 

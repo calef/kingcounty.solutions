@@ -1,10 +1,10 @@
 ---
+address: 3801 150th Ave SE, Bellevue, WA 98006
 jurisdictions:
 - Bellevue
 - King County
 parent_organization: Sea Mar Community Health Centers
 phone: 425.460.7140
-address: 3801 150th Ave SE, Bellevue, WA 98006
 title: Sea Mar Community Health Centers - Bellevue Medical Clinic
 topics:
 - Health Care

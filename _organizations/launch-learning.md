@@ -1,12 +1,12 @@
 ---
 acronym: LL
+address: 3401 Rainier Avenue S, Suite A, Seattle, WA 98144
+email: enrollment@launchlearning.org
 jurisdictions:
 - Seattle
 - Renton
 news_rss_url: https://launchlearning.org/feed/
 phone: 206-726-7972
-email: enrollment@launchlearning.org
-address: 3401 Rainier Avenue S, Suite A, Seattle, WA 98144
 title: Launch Learning
 topics:
 - Education & Learning

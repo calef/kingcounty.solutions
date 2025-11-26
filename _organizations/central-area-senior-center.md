@@ -1,9 +1,9 @@
 ---
 acronym: CASC
+address: 500 30th Avenue South, Seattle, WA 98144
 jurisdictions:
 - Seattle
 phone: 206-726-4926
-address: 500 30th Avenue South, Seattle, WA 98144
 title: Central Area Senior Center
 topics:
 - Food & Nutrition

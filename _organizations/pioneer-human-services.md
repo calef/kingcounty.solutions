@@ -1,9 +1,9 @@
 ---
 acronym: PHS
+email: pioneertraining@p-h-s.com
 jurisdictions:
 - King County
 phone: 206-717-0240
-email: pioneertraining@p-h-s.com
 title: Pioneer Human Services
 topics:
 - Shelter & Housing

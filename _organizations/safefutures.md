@@ -1,9 +1,9 @@
 ---
 acronym: SFYC
+email: sorya@sfyc.net
 jurisdictions:
 - South King County
 news_rss_url: https://www.sfyc.net/blog-feed.xml
-email: sorya@sfyc.net
 title: SafeFutures
 topics:
 - Education & Learning

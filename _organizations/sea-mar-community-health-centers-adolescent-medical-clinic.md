@@ -1,10 +1,10 @@
 ---
+address: 9635 Des Moines Memorial Drive S., Suite 210, Seattle, WA 98108
 jurisdictions:
 - Seattle
 - King County
 parent_organization: Sea Mar Community Health Centers
 phone: 206.658.2175
-address: 9635 Des Moines Memorial Drive S., Suite 210, Seattle, WA 98108
 title: Sea Mar Community Health Centers - Adolescent Medical Clinic
 topics:
 - Health Care

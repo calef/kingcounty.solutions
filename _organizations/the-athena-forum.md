@@ -1,8 +1,8 @@
 ---
-title: The Athena Forum
 jurisdictions:
-  - Washington State
+- Washington State
 parent_organization: Washington State Health Care Authority
+title: The Athena Forum
 topics:
 - Mental Health & Counseling
 - Education & Learning

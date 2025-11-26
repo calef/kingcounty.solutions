@@ -1,8 +1,8 @@
 ---
+events_ical_url: https://mammashands.org/events/?ical=1
 jurisdictions:
 - Seattle
 news_rss_url: https://mammashands.org/feed/
-events_ical_url: https://mammashands.org/events/?ical=1
 title: Mamma's Hands
 topics:
 - Domestic Violence

@@ -1,8 +1,8 @@
 ---
+email: takeaction@treehouseforkids.org
 jurisdictions:
 - King County
 news_rss_url: https://www.treehouseforkids.org/feed/
-email: takeaction@treehouseforkids.org
 title: Treehouse
 topics:
 - Education & Learning

@@ -1,10 +1,10 @@
 ---
 acronym: CHS
+address: 17018 15th Ave NE, Shoreline, WA 98155
 jurisdictions:
 - King County
 news_rss_url: https://www.chs-nw.org/feed/
 phone: 206.362.7282
-address: 17018 15th Ave NE, Shoreline, WA 98155
 title: Center for Human Services
 topics:
 - Mental Health & Counseling

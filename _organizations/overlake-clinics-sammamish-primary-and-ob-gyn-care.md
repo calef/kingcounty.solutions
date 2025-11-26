@@ -1,9 +1,9 @@
 ---
+address: 22630 SE 4th St Suite 300, Sammamish, WA 98074
 jurisdictions:
 - King County
 parent_organization: Overlake Medical Center & Clinics
 phone: "(425) 635-3070"
-address: 22630 SE 4th St Suite 300, Sammamish, WA 98074
 title: Overlake Clinics - Sammamish Primary and OB/Gyn Care
 topics:
 - Health Care

@@ -1,10 +1,10 @@
 ---
+address: 180 Denny Way, Seattle, WA 98109
+email: Office@firstchurchseattle.org
 jurisdictions:
 - King County
 news_rss_url: https://firstchurchseattle.org/feed/
-phone: (206) 622-7278
-email: Office@firstchurchseattle.org
-address: 180 Denny Way, Seattle, WA 98109
+phone: "(206) 622-7278"
 title: First Church Seattle
 topics:
 - Education & Learning

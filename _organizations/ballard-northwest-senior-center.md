@@ -1,8 +1,8 @@
 ---
+events_ical_url: https://ballardseniorcenter.org/events/?ical=1
 jurisdictions:
 - Seattle
 news_rss_url: https://ballardseniorcenter.org/feed/
-events_ical_url: https://ballardseniorcenter.org/events/?ical=1
 title: Ballard Northwest Senior Center
 topics:
 - Food & Nutrition

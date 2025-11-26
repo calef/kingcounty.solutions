@@ -1,7 +1,7 @@
 ---
+acronym: TSA
 jurisdictions:
 - United States
-acronym: TSA
 title: The Salvation Army
 topics:
 - Food & Nutrition

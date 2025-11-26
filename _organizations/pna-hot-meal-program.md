@@ -1,8 +1,8 @@
 ---
+address: 5515 Phinney Ave N, Seattle, WA 98103
 jurisdictions:
 - King County
 parent_organization: Phinney Neighborhood Association
-address: 5515 Phinney Ave N, Seattle, WA 98103
 title: PNA Hot Meal Program
 topics:
 - Food & Nutrition

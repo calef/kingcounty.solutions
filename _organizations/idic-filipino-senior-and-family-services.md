@@ -1,8 +1,8 @@
 ---
 acronym: IDIC
+address: 7301 Beacon Ave S, Seattle, WA 98118
 jurisdictions:
 - King County
-address: 7301 Beacon Ave S, Seattle, WA 98118
 title: IDIC Filipino Senior and Family Services
 topics:
 - Food & Nutrition

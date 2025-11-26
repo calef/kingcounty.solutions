@@ -1,12 +1,12 @@
 ---
 acronym: CDHY
+email: PRR@cdhy.wa.gov
+events_ical_url: https://www.cdhy.wa.gov/calendar/?ical=1
 jurisdictions:
 - King County
 news_rss_url: https://www.cdhy.wa.gov/feed/
-events_ical_url: https://www.cdhy.wa.gov/calendar/?ical=1
 parent_organization: State Executive Branch
 phone: 360-334-5448
-email: PRR@cdhy.wa.gov
 title: Washington Center for Deaf and Hard of Hearing Youth
 topics:
 - Education & Learning

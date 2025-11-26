@@ -1,9 +1,9 @@
 ---
+address: 1265 South Main Street, Ste 105, Seattle, WA 98144
+email: info@seattleindiancenter.org
 jurisdictions:
 - Seattle
-phone: (206) 329-8700
-email: info@seattleindiancenter.org
-address: 1265 South Main Street, Ste 105, Seattle, WA 98144
+phone: "(206) 329-8700"
 title: Seattle Indian Center
 topics:
 - Food & Nutrition

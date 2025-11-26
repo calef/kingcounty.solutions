@@ -1,11 +1,11 @@
 ---
 acronym: SESSC
+email: bradyr@sessc.org
+events_ical_url: https://sessc.org/events/?ical=1
 jurisdictions:
 - Seattle
 news_rss_url: https://sessc.org/feed/
-events_ical_url: https://sessc.org/events/?ical=1
-phone: (206) 722-0317
-email: bradyr@sessc.org
+phone: "(206) 722-0317"
 title: SouthEast Seattle Senior Center
 topics:
 - Food & Nutrition

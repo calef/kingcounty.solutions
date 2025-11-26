@@ -9,4 +9,5 @@ topics:
 type: School District
 website: https://www.rentonschools.us
 ---
+
 The Renton School District is committed to providing quality education to its students. It serves the Renton community and focuses on fostering a supportive learning environment for all learners.

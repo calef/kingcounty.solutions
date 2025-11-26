@@ -1,9 +1,9 @@
 ---
 acronym: REACH
+email: Kevin@reachrenton.org
 jurisdictions:
 - Renton
 parent_organization: REACH Renton
-email: Kevin@reachrenton.org
 title: Center of Hope Family Shelter
 topics:
 - Shelter & Housing

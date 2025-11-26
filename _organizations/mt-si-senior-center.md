@@ -1,8 +1,8 @@
 ---
+address: 411 Main Ave S, North Bend, WA 98045
 jurisdictions:
 - Snoqualmie Valley
 phone: 425-888-3434
-address: 411 Main Ave S, North Bend, WA 98045
 title: Mt. Si Senior Center
 topics:
 - Food & Nutrition

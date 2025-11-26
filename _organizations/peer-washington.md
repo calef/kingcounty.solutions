@@ -1,9 +1,9 @@
 ---
+address: 1520 Bellevue Ave STE 100, Seattle, WA 98122
 jurisdictions:
 - King County
 news_rss_url: https://www.peerwa.org/blog-feed.xml
 phone: 206.322.2437
-address: 1520 Bellevue Ave STE 100, Seattle, WA 98122
 title: Peer Washington
 topics:
 - Mental Health & Counseling

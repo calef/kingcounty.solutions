@@ -3,10 +3,10 @@ jurisdictions:
 - Bothell
 - Issaquah
 phone: "(425) 458-5048"
+title: Eastside Psychological Associates
 topics:
 - Mental Health & Counseling
 type: Community-Based Organization
-title: Eastside Psychological Associates
 website: https://www.eastsidepsychologicalassociates.com/
 ---
 

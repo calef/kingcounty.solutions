@@ -1,5 +1,7 @@
 ---
 acronym: HOM
+address: P.O. Box 4204, Federal Way, WA 98603
+email: Office@HOMtransitions.org
 jurisdictions:
 - Des Moines
 - Seattle
@@ -7,8 +9,6 @@ jurisdictions:
 - Tukwila
 news_rss_url: https://houseofmercyministries.net/feed/
 phone: 206-651-7840
-email: Office@HOMtransitions.org
-address: P.O. Box 4204, Federal Way, WA 98603
 title: House of Mercy - Clean & Sober Housing Program
 topics:
 - Shelter & Housing

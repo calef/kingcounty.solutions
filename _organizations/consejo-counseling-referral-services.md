@@ -1,9 +1,9 @@
 ---
 acronym: CCRS
+email: frontdesk@consejocounseling.org
 jurisdictions:
 - Seattle
 phone: 206-461-4880
-email: frontdesk@consejocounseling.org
 title: Consejo Counseling & Referral Services
 topics:
 - Mental Health & Counseling

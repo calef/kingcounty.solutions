@@ -1,13 +1,13 @@
 ---
 jurisdictions:
-  - United States
+- United States
 phone: 800.272.3900
+title: Alzheimer's Association
 topics:
 - Mental Health & Counseling
 - Health Care
 - Disabilities
 type: Community-Based Organization
-title: Alzheimer's Association
 website: http://www.alz.org/
 ---
 
