@@ -1,6 +1,7 @@
 ---
 jurisdictions:
 - United States
+news_rss_url: https://news.va.gov/feed/
 parent_organization: Department of Veterans Affairs
 title: Veterans Affairs Pension Program
 topics:

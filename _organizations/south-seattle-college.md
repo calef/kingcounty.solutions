@@ -2,6 +2,7 @@
 email: info@southseattlecollegefoundation.org
 jurisdictions:
 - Seattle
+news_rss_url: https://newscenter.southseattle.edu/sites/newscenter.southseattle.edu/files/south-seattle-college-icon_1.ico
 title: South Seattle College
 topics:
 - Education & Learning

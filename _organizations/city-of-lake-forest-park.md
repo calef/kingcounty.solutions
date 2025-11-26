@@ -1,4 +1,5 @@
 ---
+events_ical_url: https://www.cityoflfp.gov/common/modules/iCalendar/iCalendar.aspx?feed=calendar&eventID=2821
 jurisdictions:
 - Lake Forest Park
 title: City of Lake Forest Park

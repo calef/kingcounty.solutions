@@ -1,6 +1,7 @@
 ---
 address: Bellevue, WA 98015
 email: info@bellevuelifespring.org
+events_ical_url: https://www.bellevuelifespring.org/events/?ical=1
 jurisdictions:
 - Bellevue
 news_rss_url: https://www.bellevuelifespring.org/feed/

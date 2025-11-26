@@ -1,4 +1,5 @@
 ---
+events_ical_url: https://www.ci.woodinville.wa.us/common/modules/iCalendar/iCalendar.aspx?feed=calendar&eventID=598
 jurisdictions:
 - Woodinville
 title: City of Woodinville

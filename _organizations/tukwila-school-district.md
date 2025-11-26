@@ -1,4 +1,5 @@
 ---
+events_ical_url: https://calendar.google.com/calendar/ical/c_56r3r8dqcojjsohujbs0s1iqho%40group.calendar.google.com/public/basic.ics
 jurisdictions:
 - Tukwila
 parent_organization: Puget Sound Educational Service District 121

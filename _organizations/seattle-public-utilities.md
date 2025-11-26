@@ -3,6 +3,7 @@ address: 700 5th Avenue, Suite 4900, Seattle, WA, 98104
 email: SPUCustomerService@seattle.gov
 jurisdictions:
 - Seattle
+news_rss_url: https://atyourservice.seattle.gov/feed/
 parent_organization: City of Seattle
 phone: "(206) 684-3000"
 title: Seattle Public Utilities
