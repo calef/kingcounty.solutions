@@ -8,6 +8,7 @@ require 'ruby/openai'
 require 'uri'
 require_relative '../logging'
 require_relative '../support/front_matter_document'
+require_relative '../feed_discovery'
 
 module Mayhem
   module Organizations
@@ -26,6 +27,7 @@ module Mayhem
         topic_dir: TOPIC_DIR,
         place_dir: PLACE_DIR,
         client: nil,
+        feed_finder: nil,
         logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL')
       )
         @org_dir = org_dir
@@ -33,6 +35,7 @@ module Mayhem
         @place_dir = place_dir
         @logger = logger
         @client = client || OpenAI::Client.new(access_token: ENV.fetch('OPENAI_API_KEY'))
+        @feed_finder = feed_finder || default_feed_finder
       end
 
       def run(raw_url)
@@ -51,7 +54,7 @@ module Mayhem
         pages = gather_pages(website_url)
         abort "No content scraped from #{website_url}" if pages.empty?
 
-        rss_candidate, ical_candidate = extract_feed_links(pages)
+        feed_result = discover_feed_urls(website_url)
         topics = load_topics
         places = load_place_titles
         types = existing_types.empty? ? [DEFAULT_TYPE] : existing_types
@@ -73,8 +76,10 @@ module Mayhem
         title = data.fetch('title', URI(website_url).host)
         slug = ensure_unique_slug(slugify(title))
         front_matter = build_front_matter(data, topics: topics, places: places, types: types)
-        front_matter['news_rss_url'] ||= rss_candidate if rss_candidate
-        front_matter['events_ical_url'] ||= ical_candidate if ical_candidate
+        if feed_result
+          front_matter['news_rss_url'] ||= feed_result.rss_url
+          front_matter['events_ical_url'] ||= feed_result.ical_url
+        end
         front_matter['title'] = title
         front_matter['website'] = website_url
 
@@ -293,33 +298,18 @@ module Mayhem
         allowed.find { |t| t.casecmp(value.to_s.strip).zero? }
       end
 
-      def extract_feed_links(pages)
-        rss = nil
-        ical = nil
-        pages.each do |page|
-          doc = page[:doc]
-          base = page[:url]
-          next unless doc
+      def default_feed_finder
+        http_client = Mayhem::FeedDiscovery::HttpClient.new(logger: @logger)
+        Mayhem::FeedDiscovery::FeedFinder.new(http_client, logger: @logger)
+      end
 
-          doc.css('link[rel="alternate"]').each do |link|
-            href = link['href']
-            type = link['type'].to_s.downcase
-            next unless href
+      def discover_feed_urls(website_url)
+        return nil unless website_url
 
-            full = absolutize(base, href)
-            rss ||= full if type.include?('rss') || type.include?('atom') || href =~ /(rss|atom|feed)/i
-            ical ||= full if type.include?('calendar') || href =~ /\.ics(\?|$)/i
-          end
-
-          doc.css('a[href]').each do |a|
-            href = a['href']
-            next unless href
-
-            full = absolutize(base, href)
-            ical ||= full if href =~ /\.ics(\?|$)/i
-          end
-        end
-        [rss, ical]
+        @feed_finder&.find(website_url)
+      rescue StandardError => e
+        @logger.warn "Feed discovery failed for #{website_url}: #{e.message}"
+        nil
       end
 
       def absolutize(base, href)

@@ -1,9 +1,9 @@
 # frozen_string_literal: true
 
 require 'test_helper'
-require 'mayhem/news/feed_discovery'
+require 'mayhem/feed_discovery'
 
-FeedDiscovery = Mayhem::News::FeedDiscovery unless defined?(FeedDiscovery)
+FeedDiscovery = Mayhem::FeedDiscovery unless defined?(FeedDiscovery)
 
 class FeedFinderTest < Minitest::Test
   class FakeHttp
@@ -47,7 +47,8 @@ class FeedFinderTest < Minitest::Test
 
     result = finder.find('https://example.org')
 
-    assert_equal 'https://example.org/feed.xml', result
+    assert_equal 'https://example.org/feed.xml', result.rss_url
+    assert_nil result.ical_url
     assert_equal(['https://example.org', 'https://example.org/feed.xml'],
                  http.requests.map { |req| req[:url] })
     assert_equal FeedDiscovery::ACCEPT_HTML, http.requests.first[:accept]
@@ -86,12 +87,42 @@ class FeedFinderTest < Minitest::Test
 
     result = finder.find('https://example.org')
 
-    assert_equal 'https://example.org/news/feed.atom', result
+    assert_equal 'https://example.org/news/feed.atom', result.rss_url
     assert_equal(['https://example.org',
                   'https://example.org/news',
                   'https://example.org/news',
                   'https://example.org/news/feed.atom'],
                  http.requests.map { |req| req[:url] })
+  end
+
+  def test_finds_ical_link_when_available
+    html = <<~HTML
+      <html>
+        <head>
+          <link rel="alternate" type="text/calendar" href="/calendar.ics" />
+        </head>
+      </html>
+    HTML
+    responses = {
+      'https://example.org' => {
+        body: html,
+        content_type: 'text/html',
+        final_url: 'https://example.org'
+      },
+      'https://example.org/calendar.ics' => {
+        body: "BEGIN:VCALENDAR\\r\\nEND:VCALENDAR",
+        content_type: 'text/calendar',
+        final_url: 'https://example.org/calendar.ics'
+      }
+    }
+
+    http = FakeHttp.new(responses)
+    finder = FeedDiscovery::FeedFinder.new(http)
+
+    result = finder.find('https://example.org')
+
+    assert_nil result.rss_url
+    assert_equal 'https://example.org/calendar.ics', result.ical_url
   end
 
   def test_find_returns_nil_when_http_errors
@@ -119,7 +150,7 @@ class FeedFinderTest < Minitest::Test
 
     result = finder.send(:verify_feed, 'https://example.org/feed.json')
 
-    assert_equal 'https://example.org/feed.json', result
+    assert_equal [:rss, 'https://example.org/feed.json'], result
   end
 
   def test_feed_like_checks_content_type_and_body
@@ -128,6 +159,14 @@ class FeedFinderTest < Minitest::Test
     assert finder.send(:feed_like?, '<rss></rss>', 'application/rss+xml')
     assert finder.send(:feed_like?, '<feed></feed>', 'text/html')
     refute finder.send(:feed_like?, '<html></html>', 'text/html')
+  end
+
+  def test_calendar_like_checks_content_type_and_body
+    finder = FeedDiscovery::FeedFinder.new(FakeHttp.new({}))
+
+    assert finder.send(:calendar_like?, 'BEGIN:VCALENDAR', 'text/calendar')
+    assert finder.send(:calendar_like?, 'BEGIN:VCALENDAR', 'text/plain')
+    refute finder.send(:calendar_like?, '<html></html>', 'text/html')
   end
 
   def test_decode_html_recovers_from_invalid_bytes

@@ -1,9 +1,9 @@
 # frozen_string_literal: true
 
 require 'test_helper'
-require 'mayhem/news/feed_discovery'
+require 'mayhem/feed_discovery'
 
-FeedDiscovery = Mayhem::News::FeedDiscovery unless defined?(FeedDiscovery)
+FeedDiscovery = Mayhem::FeedDiscovery unless defined?(FeedDiscovery)
 
 class SecondaryPageCollectorTest < Minitest::Test
   def test_collect_prefers_same_host_results

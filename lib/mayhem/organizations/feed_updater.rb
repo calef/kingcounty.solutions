@@ -3,7 +3,7 @@
 require 'date'
 require_relative '../logging'
 require_relative '../support/front_matter_document'
-require_relative '../news/feed_discovery'
+require_relative '../feed_discovery'
 
 module Mayhem
   module Organizations
@@ -65,8 +65,13 @@ module Mayhem
         result = handle_organization(file_name)
         return false unless result
 
-        bucket = result[:feed_url] ? updated : skipped
-        bucket << (result[:feed_url] ? [file_name, result[:feed_url]] : file_name)
+        if result[:feed_result]
+          bucket = updated
+          url_label = result[:feed_result].rss_url || result[:feed_result].ical_url
+          bucket << [file_name, url_label]
+        else
+          skipped << file_name
+        end
         true
       end
 
@@ -76,35 +81,51 @@ module Mayhem
         return nil unless document
 
         front_matter = document.front_matter
+        missing = missing_feed_fields(front_matter)
+        return nil if missing.empty?
+
         website = valid_website(front_matter)
         return nil unless website
 
         @logger.info "Processing #{file_name} -> #{website}"
-        feed_url = @feed_finder.find(website)
-        return record_success(document, feed_url) if feed_url
+        feed_result = @feed_finder.find(website)
+        return record_success(document, feed_result) if feed_result&.any?
 
         record_failure(file_name, website)
       end
 
       def valid_website(front_matter)
         site = front_matter['website'].to_s.strip
-        return nil if site.empty? || front_matter['news_rss_url']
-
-        site
+        site.empty? ? nil : site
       end
 
-      def record_success(document, feed_url)
+      def missing_feed_fields(front_matter)
+        [].tap do |missing|
+          missing << :rss unless present_url?(front_matter['news_rss_url'])
+          missing << :ical unless present_url?(front_matter['events_ical_url'])
+        end
+      end
+
+      def present_url?(value)
+        value && !value.to_s.strip.empty?
+      end
+
+      def record_success(document, feed_result)
         unless @dry_run
-          document.front_matter['news_rss_url'] = feed_url
+          document.front_matter['news_rss_url'] ||= feed_result.rss_url if feed_result.rss_url
+          document.front_matter['events_ical_url'] ||= feed_result.ical_url if feed_result.ical_url
           document.save
         end
-        @logger.info "Found feed for #{File.basename(document.path)}: #{feed_url}"
-        { feed_url: feed_url }
+        details = []
+        details << "news_rss_url=#{feed_result.rss_url}" if feed_result.rss_url
+        details << "events_ical_url=#{feed_result.ical_url}" if feed_result.ical_url
+        @logger.info "Found #{details.join(' and ')} for #{File.basename(document.path)}"
+        { feed_result: feed_result }
       end
 
       def record_failure(file_name, website)
         @logger.info "No feed found for #{file_name} (#{website})"
-        { feed_url: nil }
+        { feed_result: nil }
       end
     end
 
@@ -114,14 +135,14 @@ module Mayhem
       end
 
       def initialize(
-        http_client: Mayhem::News::FeedDiscovery::HttpClient.new,
+        http_client: Mayhem::FeedDiscovery::HttpClient.new,
         feed_finder: nil,
         logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL')
       )
         @logger = logger
         @http_client = http_client
         @feed_finder = feed_finder ||
-                       Mayhem::News::FeedDiscovery::FeedFinder.new(@http_client, logger: @logger)
+                       Mayhem::FeedDiscovery::FeedFinder.new(@http_client, logger: @logger)
       end
 
       def run
@@ -133,8 +154,14 @@ module Mayhem
           feed_finder: @feed_finder,
           logger: @logger
         )
-        results = updater.run
-        print_summary(results)
+        results = nil
+        begin
+          results = updater.run
+          print_summary(results)
+        rescue Interrupt
+          @logger.info 'Interrupted; exiting update run'
+          print_summary(results) if results
+        end
       end
 
       private

@@ -17,7 +17,18 @@ class OrganizationProcessorTest < Minitest::Test
 
     def find(url)
       @calls << url
-      @responses.fetch(url, nil)
+      response = @responses[url]
+      return unless response
+
+      wrap_response(response)
+    end
+
+    private
+
+    def wrap_response(response)
+      return response if response.respond_to?(:any?)
+
+      Mayhem::FeedDiscovery::FeedResult.new(response, nil)
     end
   end
 
