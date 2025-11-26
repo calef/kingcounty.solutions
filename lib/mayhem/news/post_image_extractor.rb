@@ -3,13 +3,15 @@
 require 'digest'
 require 'fileutils'
 require 'mini_magick'
-require 'open-uri'
+require 'net/http'
 require 'uri'
 require_relative '../logging'
 require_relative '../support/front_matter_document'
+require_relative '../http_fetcher'
 
 module Mayhem
   module News
+    # Downloads and validates image references defined in news posts.
     class PostImageExtractor
       IMAGE_DOCS_DIR = '_images'
       POSTS_DIR = '_posts'
@@ -64,7 +66,8 @@ module Mayhem
       private
 
       def process_post(path, cache, stats)
-        document = Mayhem::Support::FrontMatterDocument.load(path, logger:) || begin
+        document = Mayhem::Support::FrontMatterDocument.load(path, logger:)
+        unless document
           stats[:missing_frontmatter] += 1
           return
         end
@@ -168,12 +171,16 @@ module Mayhem
         uri = URI.parse(url)
         return nil unless %w[http https].include?(uri.scheme) && uri.host
 
-        URI.open(uri, open_timeout: @open_timeout, read_timeout: @read_timeout) do |io|
-          data = io.read
-          { data:, ext: image_extension(uri, io.content_type) }
-        end
-      rescue StandardError => e
-        logger.warn "Failed to download #{url}: #{e.message}"
+        response = Mayhem::HttpFetcher.fetch_response(
+          uri.to_s,
+          open_timeout: @open_timeout,
+          read_timeout: @read_timeout
+        )
+        return nil unless response.is_a?(Net::HTTPSuccess)
+
+        { data: response.body, ext: image_extension(uri, response['content-type']) }
+      rescue StandardError => error
+        logger.warn "Failed to download #{url}: #{error.message}"
         nil
       end
 
@@ -198,8 +205,8 @@ module Mayhem
         image = MiniMagick::Image.read(data)
         image.format 'webp'
         [image.to_blob, '.webp']
-      rescue StandardError => e
-        logger.warn "Failed to convert #{source_url} to WebP: #{e.message}"
+      rescue StandardError => error
+        logger.warn "Failed to convert #{source_url} to WebP: #{error.message}"
         [data, ext]
       end
 
@@ -210,12 +217,13 @@ module Mayhem
         if image.width >= MIN_IMAGE_DIMENSION && image.height >= MIN_IMAGE_DIMENSION
           true
         else
-          logger.info "Skipping #{source_url}: WebP image #{image.width}x#{image.height} smaller than #{MIN_IMAGE_DIMENSION}px"
+          logger.info "Skipping #{source_url}: WebP image #{image.width}x#{image.height} " \
+                      "smaller than #{MIN_IMAGE_DIMENSION}px"
           stats[:skipped_small_images] += 1
           false
         end
-      rescue MiniMagick::Error => e
-        logger.warn "Failed to inspect dimensions for #{source_url}: #{e.message}"
+      rescue MiniMagick::Error => error
+        logger.warn "Failed to inspect dimensions for #{source_url}: #{error.message}"
         stats[:skipped_small_images] += 1
         false
       end

@@ -2,13 +2,15 @@
 
 require 'json'
 require 'nokogiri'
-require 'open-uri'
+require 'net/http'
 require 'ruby/openai'
 require_relative '../logging'
 require_relative '../support/front_matter_document'
+require_relative '../http_fetcher'
 
 module Mayhem
   module News
+    # Generates summaries for posts and infers associated topics.
     class PostSummarizer
       POSTS_DIR = '_posts'
       TOPIC_DIR = '_topics'
@@ -114,9 +116,9 @@ module Mayhem
         document.save
         stats[:updated] += 1
         @logger.info "Updated #{file_path}"
-      rescue StandardError => e
+      rescue StandardError => error
         stats[:errors] += 1
-        @logger.error "Error processing #{file_path}: #{e.class} - #{e.message}"
+        @logger.error "Error processing #{file_path}: #{error.class} - #{error.message}"
       end
 
       def generate_summary(article_text, source_url, file_path, stats)
@@ -228,12 +230,19 @@ module Mayhem
       def fetch_article_text(url)
         return nil unless url
 
-        html = URI.open(url, open_timeout: 10, read_timeout: 15).read
+        response = Mayhem::HttpFetcher.fetch_response(
+          url,
+          open_timeout: 10,
+          read_timeout: 15,
+          headers: { 'Accept' => 'text/html' }
+        )
+        return nil unless response.is_a?(Net::HTTPSuccess)
+        html = response.body
         doc = Nokogiri::HTML(html)
         doc.search('script, style, nav, header, footer, noscript, iframe').remove
         doc.css('article, main, body').text.strip.gsub(/\s+/, ' ')
-      rescue StandardError => e
-        @logger.warn "Error fetching #{url}: #{e.class} - #{e.message}"
+      rescue StandardError => error
+        @logger.warn "Error fetching #{url}: #{error.class} - #{error.message}"
         nil
       end
 

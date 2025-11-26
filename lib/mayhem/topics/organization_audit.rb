@@ -8,6 +8,7 @@ require_relative '../support/front_matter_document'
 
 module Mayhem
   module Topics
+    # Audits organization front matter against topic data using OpenAI prompts.
     class OrganizationAudit
       ORG_DIR = '_organizations'
       TOPIC_DIR = '_topics'

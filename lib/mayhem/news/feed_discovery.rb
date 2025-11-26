@@ -43,6 +43,7 @@ module Mayhem
         posts announcements resources impact
       ].freeze
 
+      # Helpers for normalizing and parsing URLs encountered while discovering feeds.
       module UrlHelpers
         def absolutize(base_url, href)
           return nil if href.nil?
@@ -66,6 +67,7 @@ module Mayhem
         end
       end
 
+      # Handles HTTP requests with retries and feed-friendly defaults.
       class HttpClient
         include UrlHelpers
 
@@ -110,8 +112,8 @@ module Mayhem
 
         def execute_request(uri, accept, max_bytes, verify_mode: OpenSSL::SSL::VERIFY_PEER, retried: false)
           perform_http_request(uri, accept, max_bytes, verify_mode)
-        rescue OpenSSL::SSL::SSLError => e
-          retry_without_verification(uri, accept, max_bytes, retried, e)
+        rescue OpenSSL::SSL::SSLError => error
+          retry_without_verification(uri, accept, max_bytes, retried, error)
         end
 
         def follow_redirect(response, uri, accept, max_bytes, remaining_redirects)
@@ -196,6 +198,7 @@ module Mayhem
         end
       end
 
+      # Extracts candidate RSS/Atom URLs from harvested HTML documents.
       class CandidateCollector
         include UrlHelpers
 
@@ -304,6 +307,7 @@ module Mayhem
         end
       end
 
+      # Visits secondary pages linked from candidate entries to find embedded feeds.
       class SecondaryPageCollector
         include UrlHelpers
 
@@ -373,6 +377,7 @@ module Mayhem
         end
       end
 
+      # Orchestrates collecting and ranking probable feed links for a site.
       class FeedFinder
         include UrlHelpers
 
@@ -387,8 +392,8 @@ module Mayhem
 
           html = decode_html(page[:body])
           feed_from_html(html, page[:final_url])
-        rescue StandardError => e
-          @logger.warn "fetch error for #{website}: #{e.message}"
+        rescue StandardError => error
+          @logger.warn "fetch error for #{website}: #{error.message}"
           nil
         end
 
@@ -423,8 +428,8 @@ module Mayhem
 
           page_html = decode_html(page[:body])
           find_feed_in_html(page_html, page[:final_url])
-        rescue StandardError => e
-          @logger.warn "Secondary page error for #{secondary_url}: #{e.message}"
+        rescue StandardError => error
+          @logger.warn "Secondary page error for #{secondary_url}: #{error.message}"
           nil
         end
 
@@ -440,8 +445,8 @@ module Mayhem
           return response[:final_url] if snippet.start_with?('{') && snippet.include?('rss')
 
           nil
-        rescue StandardError => e
-          @logger.warn "Verify error for #{url}: #{e.message}"
+        rescue StandardError => error
+          @logger.warn "Verify error for #{url}: #{error.message}"
           nil
         end
 

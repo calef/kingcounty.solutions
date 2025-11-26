@@ -4,6 +4,7 @@ require 'digest'
 
 module Mayhem
   module Support
+    # Provides slug helpers for filenames and resource identifiers.
     module SlugGenerator
       module_function
 

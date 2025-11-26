@@ -7,6 +7,7 @@ require_relative '../news/feed_discovery'
 
 module Mayhem
   module Organizations
+    # Discovers RSS/Atom feeds for organizations and stores them in front matter.
     class FeedUpdater
       ORG_DIR = '_organizations'
 
@@ -35,7 +36,7 @@ module Mayhem
         files.each do |file_name|
           break if @limit && processed >= @limit
 
-          processed += 1 if process_organization(file_name, updated, skipped)
+          processed += 1 if process_organization?(file_name, updated, skipped)
         end
 
         {
@@ -61,7 +62,7 @@ module Mayhem
         end
       end
 
-      def process_organization(file_name, updated, skipped)
+      def process_organization?(file_name, updated, skipped)
         result = handle_organization(file_name)
         return false unless result
 
@@ -108,6 +109,7 @@ module Mayhem
       end
     end
 
+    # CLI wrapper around FeedUpdater that wires defaults and env flags.
     class FeedUpdaterCLI
       def self.run
         new.run
@@ -154,8 +156,12 @@ module Mayhem
       end
 
       def print_summary(results)
-        @logger.info "Summary: processed=#{results[:processed]} found=#{results[:updated].length} none=#{results[:skipped].length}"
-        results[:updated].each { |name, url| @logger.info "Updated #{name}: #{url}" }
+        @logger.info "Summary: processed=#{results[:processed]} " \
+                     "found=#{results[:updated].length} " \
+                     "none=#{results[:skipped].length}"
+        results[:updated].each do |name, url|
+          @logger.info "Updated #{name}: #{url}"
+        end
       end
     end
   end

@@ -3,14 +3,16 @@
 require 'fileutils'
 require 'json'
 require 'nokogiri'
-require 'open-uri'
+require 'net/http'
 require 'ruby/openai'
 require 'uri'
 require_relative '../logging'
 require_relative '../support/front_matter_document'
+require_relative '../http_fetcher'
 
 module Mayhem
   module Organizations
+    # Scrapes organization websites and synthesizes metadata via OpenAI.
     class Generator
       ORG_DIR = '_organizations'
       TOPIC_DIR = '_topics'
@@ -125,10 +127,17 @@ module Mayhem
       end
 
       def fetch_page(url)
-        html = URI.open(url, open_timeout: READ_TIMEOUT, read_timeout: READ_TIMEOUT).read
-        Nokogiri::HTML(html)
-      rescue StandardError => e
-        @logger.warn "Skipping #{url}: #{e.class} #{e.message}"
+        response = Mayhem::HttpFetcher.fetch_response(
+          url,
+          open_timeout: READ_TIMEOUT,
+          read_timeout: READ_TIMEOUT,
+          headers: { 'Accept' => 'text/html' }
+        )
+        return nil unless response.is_a?(Net::HTTPSuccess)
+
+        Nokogiri::HTML(response.body)
+      rescue StandardError => error
+        @logger.warn "Skipping #{url}: #{error.class} #{error.message}"
         nil
       end
 

@@ -10,6 +10,7 @@ require_relative '../support/slug_generator'
 
 module Mayhem
   module News
+    # Creates weekly recaps using aggregated posts and OpenAI prompts.
     class WeeklySummaryGenerator
       POSTS_DIR = '_posts'
       DEFAULT_MODEL = ENV.fetch('OPENAI_MODEL', 'gpt-5.1')
@@ -68,7 +69,7 @@ module Mayhem
       end
 
       def weekly_posts(start_date, end_date)
-        Dir.glob(File.join(@posts_dir, '*.md')).each_with_object([]) do |path, memo|
+        collected_posts = Dir.glob(File.join(@posts_dir, '*.md')).each_with_object([]) do |path, memo|
           basename = File.basename(path)
           match = basename.match(/\A(\d{4}-\d{2}-\d{2})-/)
           next unless match
@@ -93,7 +94,8 @@ module Mayhem
             source_url: front_matter['source_url'],
             summary: normalize_excerpt(document.body || '')
           }
-        end.sort_by { |post| [post[:date], post[:title]] }
+        end
+        collected_posts.sort_by { |post| [post[:date], post[:title]] }
       end
 
       def normalize_excerpt(body)
@@ -129,8 +131,8 @@ module Mayhem
         )
         sanitized = strip_markdown_code_fence(raw)
         JSON.parse(sanitized)
-      rescue StandardError => e
-        @logger.warn "Theme planning failed (#{e.message}). Using fallback themes."
+      rescue StandardError => error
+        @logger.warn "Theme planning failed (#{error.message}). Using fallback themes."
         fallback_theme_plan(posts)
       end
 
@@ -226,17 +228,18 @@ module Mayhem
           call_llm(prompt).strip,
           @model
         ]
-      rescue StandardError => e
-        @logger.warn "LLM generation failed (#{e.message}). Falling back to heuristic summary."
+      rescue StandardError => error
+        @logger.warn "LLM generation failed (#{error.message}). Falling back to heuristic summary."
         [fallback_summary(posts, start_date, end_date, plan), 'fallback']
       end
 
       def fallback_summary(posts, start_date, end_date, plan = nil)
         total = posts.length
         lines = []
-        lines << "We published #{total} partner update#{unless total == 1
-                                                          's'
-                                                        end} from #{start_date.strftime('%B %-d')} through #{end_date.strftime('%B %-d, %Y')}."
+        plural_suffix = total == 1 ? '' : 's'
+        lines << "We published #{total} partner update#{plural_suffix} " \
+                 "from #{start_date.strftime('%B %-d')} " \
+                 "through #{end_date.strftime('%B %-d, %Y')}."
         plan ||= fallback_theme_plan(posts)
         lookup = posts.to_h { |p| [p[:id], p] }
 
@@ -316,7 +319,9 @@ module Mayhem
         document = Mayhem::Support::FrontMatterDocument.new(
           path: dest,
           front_matter: front_matter,
-          body: "#{body}\n\nWe’ll continue to pull the most actionable updates from partner feeds each week. Let us know if there’s a topic you’d like covered in more depth."
+          body: "#{body}\n\n" \
+                'We’ll continue to pull the most actionable updates from partner feeds each week. ' \
+                'Let us know if there’s a topic you’d like covered in more depth.'
         )
         document.save
         dest

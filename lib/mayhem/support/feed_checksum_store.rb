@@ -44,8 +44,8 @@ module Mayhem
 
         data = YAML.safe_load_file(@path)
         data.is_a?(Hash) ? data : {}
-      rescue StandardError => e
-        @logger&.warn("Failed to load checksum file #{@path}: #{e.message}")
+      rescue StandardError => error
+        @logger&.warn("Failed to load checksum file #{@path}: #{error.message}")
         {}
       end
     end

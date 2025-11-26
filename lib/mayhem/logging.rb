@@ -5,6 +5,7 @@ require 'securerandom'
 require 'time'
 
 module Mayhem
+  # Structured logging helpers used by Mayhem services.
   module Logging
     LEVELS = {
       'TRACE' => 0,
@@ -25,6 +26,7 @@ module Mayhem
 
     DEFAULT_LEVEL = 'WARN'
 
+    # Wraps JSON-based logging semantics for shared clients.
     class Logger
       attr_reader :correlation_id
 
@@ -44,9 +46,26 @@ module Mayhem
         return unless value
         return if value < @level_value
 
-        stream = value >= LEVELS['WARN'] ? $stderr : $stdout
+        stream = log_stream(value)
+        record = build_record(level_name, message, value)
+        write_record(stream, record)
+      end
+
+      LEVELS.each_key do |level_name|
+        define_method(level_name.downcase) do |message|
+          log(level_name, message)
+        end
+      end
+
+      private
+
+      def log_stream(value)
+        value >= LEVELS['WARN'] ? $stderr : $stdout
+      end
+
+      def build_record(level_name, message, value)
         timestamp = Time.now.utc.iso8601
-        record = {
+        {
           'timestamp' => timestamp,
           'severity_text' => level_name,
           'severity_number' => SEVERITY_NUMBER[level_name] || value,
@@ -57,18 +76,13 @@ module Mayhem
             'thread' => Thread.current.object_id
           }
         }
+      end
+
+      def write_record(stream, record)
         @mutex.synchronize do
           stream.puts JSON.generate(record)
         end
       end
-
-      LEVELS.each_key do |level_name|
-        define_method(level_name.downcase) do |message|
-          log(level_name, message)
-        end
-      end
-
-      private
 
       def generate_correlation_id
         SecureRandom.uuid
