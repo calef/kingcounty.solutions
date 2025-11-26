@@ -101,7 +101,7 @@ class FeedFinderTest < Minitest::Test
       end
     }
     http = FakeHttp.new(responses)
-    finder = FeedDiscovery::FeedFinder.new(http)
+    finder = FeedDiscovery::FeedFinder.new(http, logger: error_level_logger)
 
     assert_nil finder.find('https://example.org')
   end
@@ -137,5 +137,15 @@ class FeedFinderTest < Minitest::Test
     decoded = finder.send(:decode_html, binary)
     assert_equal Encoding::UTF_8, decoded.encoding
     refute_empty decoded
+  end
+
+  private
+
+  def error_level_logger
+    original = ENV['LOG_LEVEL']
+    ENV['LOG_LEVEL'] = 'ERROR'
+    Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL', default_level: 'ERROR')
+  ensure
+    ENV['LOG_LEVEL'] = original
   end
 end
