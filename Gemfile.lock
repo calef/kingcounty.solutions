@@ -101,6 +101,8 @@ GEM
       uri
     ostruct (0.6.3)
     parallel (1.27.0)
+    parallel_tests (5.5.0)
+      parallel
     parser (3.3.10.0)
       ast (~> 2.4.1)
       racc
@@ -190,6 +192,7 @@ DEPENDENCIES
   minitest
   nokogiri
   open-uri
+  parallel_tests
   psych
   reverse_markdown
   rss

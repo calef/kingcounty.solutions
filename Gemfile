@@ -33,4 +33,5 @@ gem 'yaml'
 group :development do
   gem 'rubocop', require: false
   gem 'rubocop-minitest', require: false
+  gem 'parallel_tests', require: false
 end

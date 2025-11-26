@@ -16,15 +16,13 @@ module SiteBuildHelper
   def ensure_site_built
     return if @site_built
 
-    FileUtils.rm_rf(DESTINATION)
-    config = Jekyll.configuration(
-      'source' => Dir.pwd,
-      'destination' => DESTINATION,
-      'quiet' => true,
-      'incremental' => false
-    )
+    unless Dir.exist?(DESTINATION)
+      raise(<<~MSG)
+        Expected #{DESTINATION} to already contain a generated site.
+        Run `./script/cibuild` (or `bundle exec jekyll build`) before running the tests.
+      MSG
+    end
 
-    Jekyll::Commands::Build.process(config)
     @site_built = true
   end
 end
