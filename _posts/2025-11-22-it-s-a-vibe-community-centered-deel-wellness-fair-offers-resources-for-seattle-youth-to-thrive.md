@@ -2,29 +2,16 @@
 title: 'It’s a Vibe: Community-Centered DEEL Wellness Fair Offers Resources for Seattle
   Youth to Thrive  '
 date: '2025-11-22T01:02:33+00:00'
-source: Department of Education and Early Learning
-source_url: https://education.seattle.gov/?p=1469
-original_content: '<img width="150" height="150" src="https://education.seattle.gov/wp-content/uploads/sites/27/2025/11/DEEL-YMH_wellness-fair_BlogHeader-150x150.png"
-  class="webfeedsFeaturedVisual wp-post-image" alt="Intergenerational Black event
-  attendees pose joyfully with photo booth props including a loudspeaker, microphone,
-  feather boa, and sunglasses. Text overlay reads, &quot;Thrive and Vibe.&quot;" style="display:
-  block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async"
-  loading="lazy" srcset="https://education.seattle.gov/wp-content/uploads/sites/27/2025/11/DEEL-YMH_wellness-fair_BlogHeader-150x150.png
-  150w, https://education.seattle.gov/wp-content/uploads/sites/27/2025/11/DEEL-YMH_wellness-fair_BlogHeader-115x115.png
-  115w" sizes="auto, (max-width: 150px) 100vw, 150px" />Intergenerational attendees
-  participated in wellness activities, heard from Seahawks legend guest, and learned
-  about free mental health programs&#160; On Saturday, October 25, the Department
-  of Education and Early Learning (DEEL) hosted “Thrive &#38; Vibe: A Youth Health
-  and Wellness Celebration” at El Centro de la Raza’s Centilia Cultural Center in
-  Beacon Hill. The event highlighted [&#8230;]'
-original_markdown_body: '![Intergenerational Black event attendees pose joyfully with
-  photo booth props including a loudspeaker, microphone, feather boa, and sunglasses.
-  Text overlay reads, "Thrive and Vibe."](https://education.seattle.gov/wp-content/uploads/sites/27/2025/11/DEEL-YMH_wellness-fair_BlogHeader-150x150.png)Intergenerational
-  attendees participated in wellness activities, heard from Seahawks legend guest,
-  and learned about free mental health programs&nbsp; On Saturday, October 25, the
-  Department of Education and Early Learning (DEEL) hosted “Thrive & Vibe: A Youth
-  Health and Wellness Celebration” at El Centro de la Raza’s Centilia Cultural Center
-  in Beacon Hill. The event highlighted […]'
+source: City of Seattle
+source_url: https://education.seattle.gov/deel-wellness-fair-offers-resources-for-seattle-youth-to-thrive/
+original_content: Intergenerational attendees participated in wellness activities,
+  heard from Seahawks legend guest, and learned about free mental health programs&#160;
+  On Saturday, October 25, the Department of Education and Early Learning (DEEL) hosted
+  “Thrive &#038; V...
+original_markdown_body: Intergenerational attendees participated in wellness activities,
+  heard from Seahawks legend guest, and learned about free mental health programs&nbsp;
+  On Saturday, October 25, the Department of Education and Early Learning (DEEL) hosted
+  “Thrive & V...
 summarized: true
 topics:
 - Mental Health & Counseling
@@ -32,4 +19,4 @@ topics:
 images: []
 ---
 
-On October 25, the Department of Education and Early Learning (DEEL) hosted “Thrive & Vibe: A Youth Health and Wellness Celebration” at El Centro de la Raza’s Centilia Cultural Center in Beacon Hill. The event emphasized youth access to free mental wellness resources funded by the city and featured activities such as youth performances, a resource fair, wellness workshops, and a keynote from former Seattle Seahawks linebacker Ray Roberts. Roberts highlighted the importance of community support and seeking help for mental health, sharing his personal journey and encouraging youth to reach out for assistance. Attendees engaged in fitness activities, mindfulness, yoga, and creative workshops aimed at promoting self-care and community building. The event showcased partner organizations like Celebrating Roots and The Good Foot Arts Collective, which focus on creating supportive environments for youth. Participants also received wellness swag giveaways and had the opportunity to learn about available mental health resources for those ages 13 to 24 in Seattle. The celebration aimed to foster confidence, creativity, and a sense of community among young attendees.
+On October 25, the Department of Education and Early Learning (DEEL) hosted the “Thrive & Vibe: A Youth Health and Wellness Celebration” at El Centro de la Raza’s Centilia Cultural Center in Beacon Hill, focusing on youth access to free mental wellness resources. The event featured youth performances, a resource fair, wellness workshops, and a keynote from Ray Roberts, a former Seattle Seahawks linebacker and mental health advocate. Participants engaged in various activities including fitness sessions led by Shontia Whitehead, mindfulness and yoga with Tai Mattox, and guided painting with Stephanie Morales, promoting self-care and community building. The resource fair included organizations like Celebrating Roots, NAMI Seattle, and Talkspace, providing information on mental health support for youth aged 13 to 24. Roberts emphasized the importance of seeking help, sharing his personal journey to mental wellness and encouraging youth to reach out for support. Attendees received wellness swag giveaways, including items from the Seahawks, and enjoyed a positive environment aimed at fostering confidence and collective wellness among Seattle's youth.
