@@ -1,15 +1,17 @@
 ---
-title: Job Search Success Story
 date: '2025-07-31T17:24:30+00:00'
+images: []
+original_content: My name is Hormedys, and I'm from Venezuela. Venezuela is a great
+  country, located in South America, with many riches of all kinds. I was...
+original_markdown_body: My name is Hormedys, and I'm from Venezuela. Venezuela is
+  a great country, located in South America, with many riches of all kinds. I was...
 source: Diocese of Olympia Refugee Resettlement Office
 source_url: https://www.dioceserroseattle.org/post/job-search-success-story-1
-original_content: My name is Hormedys, and I'm from Venezuela. Venezuela is a great country, located in South America, with many riches of all kinds. I was...
-original_markdown_body: My name is Hormedys, and I'm from Venezuela. Venezuela is a great country, located in South America, with many riches of all kinds. I was...
 summarized: true
+title: Job Search Success Story
 topics:
 - Education & Learning
 - Employment & Job Support
-images: []
 ---
 
 Hormedys, originally from Venezuela, shares her journey of resilience and hope. After living under a repressive government that made daily life unbearable, she and her husband decided to leave for Colombia in January 2017. They sold their assets and departed, leaving behind family and dreams. In Colombia, they were welcomed and Hormedys established residency while starting small businesses. However, the worsening situation in Venezuela prompted them to seek asylum in the United States, which was granted in December 2023. They arrived in the U.S. in May 2024, marking a new beginning for their family.

@@ -1,8 +1,7 @@
 ---
-title: New Drop-In Center in San Diego Aims to be Refuge for Sex-Trafficked Teens
 date: '2025-06-06T23:00:42+00:00'
-source: Olive Crest
-source_url: https://www.olivecrest.org/21253-2/
+images:
+- c314fd45c9e9ce91d1fd906ed181265505711b726a664c6727b19432bd87803b
 original_content: "<div class=\"vc_row wpb_row vc_row-fluid\"><div class=\"wpb_column
   vc_column_container vc_col-sm-12\"><div class=\"vc_column-inner\"><div class=\"wpb_wrapper\">\n\t<div
   \ class=\"wpb_single_image wpb_content_element vc_align_\">\n\t\t\n\t\t<figure class=\"wpb_wrapper
@@ -22,11 +21,12 @@ original_markdown_body: |-
   ![](https://www.olivecrest.org/wp-content/uploads/2025/06/Olive-Crest-San-Diego-Union-Tribune-Print-Clip-Jpeg-scaled.jpg)
 
   The post [New Drop-In Center in San Diego Aims to be Refuge for Sex-Trafficked Teens](https://www.olivecrest.org/21253-2/) first appeared on [Olive Crest](https://www.olivecrest.org).
+source: Olive Crest
+source_url: https://www.olivecrest.org/21253-2/
 summarized: true
+title: New Drop-In Center in San Diego Aims to be Refuge for Sex-Trafficked Teens
 topics:
 - Domestic Violence
-images:
-- c314fd45c9e9ce91d1fd906ed181265505711b726a664c6727b19432bd87803b
 ---
 
 Olive Crest is dedicated to preventing child abuse and helping at-risk children and families through various programs and services. Celebrating its 50th anniversary, the organization emphasizes the importance of community involvement and support. It offers opportunities for individuals, churches, and businesses to engage, including fostering, becoming host families, and participating in cause marketing initiatives. The organization aims to raise awareness about child abuse and its prevention, showcasing its commitment to making a positive impact in the lives of children and families. Olive Crest invites everyone to join their mission and contribute to the cause, reinforcing that child abuse stops with community action and support.

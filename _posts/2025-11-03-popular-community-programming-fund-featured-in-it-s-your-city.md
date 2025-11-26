@@ -1,8 +1,6 @@
 ---
-title: Popular Community Programming Fund featured in It's Your City
 date: '2025-11-03T18:17:21+00:00'
-source: City of Bellevue
-source_url: https://bellevuewa.gov/city-news/iyc-11-25
+images: []
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Popular
   Community Programming Fund featured in It's Your City</span>\n<span class=\"field
   field--name-uid field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"
@@ -72,10 +70,12 @@ original_markdown_body: |-
   [It’s Your City](https://bellevuewa.gov/city-government/departments/city-managers-office/communications/its-your-city "It's Your City"), the resident newsletter, goes to all residential and business addresses in Bellevue three times a year. The next issue of It’s Your City will come out in early spring. If you have questions or comments, please contact Claude Iosso, the editor, at [ciosso@bellevuewa.gov](mailto:ciosso@bellevuewa.gov).&nbsp;
 
   <time datetime="2025-11-05T12:00:00Z" class="datetime">November 5 2025</time>
-summarized: true
-topics: []
 published: false
-images: []
+source: City of Bellevue
+source_url: https://bellevuewa.gov/city-news/iyc-11-25
+summarized: true
+title: Popular Community Programming Fund featured in It's Your City
+topics: []
 ---
 
 Bellevue's Community Programming Fund (CPF) has successfully supported nearly 40 events this year, including a book giveaway at Downtown Park and a night market in BelRed. The CPF aims to foster community engagement in public spaces along the Grand Connection corridor, offering grants of up to $15,000. The program is expected to return next year with a focus on series-based activities and World Cup themes. 

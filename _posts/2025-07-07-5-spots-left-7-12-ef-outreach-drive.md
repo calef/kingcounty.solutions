@@ -1,8 +1,7 @@
 ---
-title: "*5 SPOTS LEFT* 7/12 EF Outreach Drive"
 date: '2025-07-07T21:55:15+00:00'
-source: Essentials First
-source_url: https://www.essentialsfirst.org/blog/coming-up-614-ef-outreach-drive
+images:
+- f55c4aeb9c4bc72fe180a9edf7b7ae2ae9a21baed592a41042329223973105fd
 original_content: "<p class=\"\">Join us for a day of in-person community-building
   and connection! Come help distribute hygiene kits and snack bags to our unhoused
   neighbors in Downtown Seattle.<br><br>Please contact Marryam Ali at marryamali@essentialsfirst.org
@@ -32,13 +31,14 @@ original_markdown_body: "Join us for a day of in-person community-building and c
   Seattle.  \n  \nPlease contact Marryam Ali at marryamali@essentialsfirst.org with
   any questions.\n\nWhen: July 12, 2025 at 12 noon\n\nWhere: meet in Pioneer Square\n\n[RSVP
   here](https://lp.constantcontactpages.com/ev/reg/km3f3up/lp/b6ed9d14-ed9d-41b4-b744-e49fc254ccb5)!\n\n![](https://images.squarespace-cdn.com/content/v1/6244ce6a3e335a451b9540a9/49ec93a9-39f2-43ee-b5d9-bdfcada004b2/484049002_965257205719711_5624098662318760822_n.jpg?format=1000w)"
+source: Essentials First
+source_url: https://www.essentialsfirst.org/blog/coming-up-614-ef-outreach-drive
 summarized: true
+title: "*5 SPOTS LEFT* 7/12 EF Outreach Drive"
 topics:
 - Personal & Household Needs
 - Food & Nutrition
 - Shelter & Housing
-images:
-- f55c4aeb9c4bc72fe180a9edf7b7ae2ae9a21baed592a41042329223973105fd
 ---
 
 Join the EF Outreach Drive on July 12, 2025, at 12 noon in Pioneer Square, Downtown Seattle. This event focuses on community-building and aims to distribute hygiene kits and snack bags to unhoused neighbors. There are only five spots left for participants. For any inquiries, contact Marryam Ali via email.

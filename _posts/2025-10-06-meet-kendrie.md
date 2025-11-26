@@ -1,8 +1,8 @@
 ---
-title: Meet Kendrie!
 date: '2025-10-06T17:29:42+00:00'
-source: The National Children's Cancer Society - Financial Assistance
-source_url: https://thenccs.org/meet-kendrie/
+images:
+- 535b8547fb01147f868f099b428ef2e85c04d59de7a7ecb828922b0f9e53ecfa
+- e787e0eb278b04808b153ba0d41a999ffc624af6784500e5a8262647c7bbfc25
 original_content: |-
   <h1 style="text-align: center;">Meet Kendrie!</h1>
   <p style="text-align: center;"><em>Beyond the Cure Ambassador Scholarship Recipient, 2018–2023</em></p>
@@ -59,14 +59,14 @@ original_markdown_body: |-
   If you would like to support other childhood cancer survivors in reaching their educational goals through the Beyond the Cure Ambassador Scholarship Program, [click here](https://nc.thenccs.org/donate-scholarship).
 
   The post [Meet Kendrie!](https://thenccs.org/meet-kendrie/) appeared first on [The NCCS](https://thenccs.org).
+source: The National Children's Cancer Society - Financial Assistance
+source_url: https://thenccs.org/meet-kendrie/
 summarized: true
+title: Meet Kendrie!
 topics:
 - Education & Learning
 - Mental Health & Counseling
 - Employment & Job Support
-images:
-- 535b8547fb01147f868f099b428ef2e85c04d59de7a7ecb828922b0f9e53ecfa
-- e787e0eb278b04808b153ba0d41a999ffc624af6784500e5a8262647c7bbfc25
 ---
 
 Meet Kendrie, a Beyond the Cure Ambassador Scholarship recipient from 2018 to 2023. At just four years old, Kendrie was diagnosed with acute lymphoblastic leukemia, leading to a challenging 2½ years of treatment, including surgeries and chemotherapy. Despite the hardships, she found strength in her journey and developed a passion for supporting others facing similar challenges. After completing treatment, Kendrie enjoyed a normal childhood, participating in sports and music during high school. 

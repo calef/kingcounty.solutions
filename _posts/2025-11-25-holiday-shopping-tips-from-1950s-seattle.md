@@ -1,8 +1,6 @@
 ---
-title: Holiday Shopping Tips From 1950s Seattle
 date: '2025-11-25T23:12:08+00:00'
-source: City of Seattle
-source_url: https://spdblotter.seattle.gov/2025/11/25/holiday-shopping-tips-from-1950s-seattle/
+images: []
 original_content: As the holidays approach at a blistering pace we decided to slow
   down and take a look back to the 50’s for some safety tips. So, grab a hot cocoa,
   cozy up next to the space heater, and take a brief look back at this Blotter post
@@ -11,10 +9,12 @@ original_markdown_body: As the holidays approach at a blistering pace we decided
   slow down and take a look back to the 50’s for some safety tips. So, grab a hot
   cocoa, cozy up next to the space heater, and take a brief look back at this Blotter
   post from November 31st, 195...
-summarized: true
-topics: []
 published: false
-images: []
+source: City of Seattle
+source_url: https://spdblotter.seattle.gov/2025/11/25/holiday-shopping-tips-from-1950s-seattle/
+summarized: true
+title: Holiday Shopping Tips From 1950s Seattle
+topics: []
 ---
 
 As the holiday season approaches, a nostalgic look back at shopping in 1950s Seattle offers timeless safety tips for modern shoppers. Key recommendations include keeping a firm grip on packages to avoid accidents and protecting personal belongings from potential pickpockets. Shoppers are advised to secure their wallets in front pockets and hold handbags closely, especially near store entrances and holiday displays. 

@@ -1,8 +1,6 @@
 ---
-title: 'Capitol Courier: Prop 1 and the Seattle FEPP Levy'
 date: '2025-10-02T23:12:53+00:00'
-source: BrightSpark
-source_url: https://www.brightspark.org/2025/10/capitol-courier-prop-1-and-the-seattle-fepp-levy/
+images: []
 original_content: |-
   <p>This year, the Seattle Family, Education, Preschool, and Promise (FEPP) Levy is up for renewal. This means that on Election Day, Seattle voters will have the chance to vote whether or not to extend this levy for 7 more years. This levy funds many critical early learning programs throughout the city, most notably the Seattle Preschool Program (SPP).</p>
 
@@ -144,10 +142,12 @@ original_markdown_body: |-
   [**Check your voter registration status or get registered today.**](https://voter.votewa.gov/portal2023/login.aspx)
 
   The post [Capitol Courier: Prop 1 and the Seattle FEPP Levy](https://www.brightspark.org/2025/10/capitol-courier-prop-1-and-the-seattle-fepp-levy/) appeared first on [BrightSpark](https://www.brightspark.org).
+source: BrightSpark
+source_url: https://www.brightspark.org/2025/10/capitol-courier-prop-1-and-the-seattle-fepp-levy/
 summarized: true
+title: 'Capitol Courier: Prop 1 and the Seattle FEPP Levy'
 topics:
 - Education & Learning
-images: []
 ---
 
 This year, Seattle voters will decide on the renewal of the Family, Education, Preschool, and Promise (FEPP) Levy, which funds essential early learning programs, particularly the Seattle Preschool Program (SPP). The SPP provides affordable preschool options for low-income families, featuring a nationally-accredited curriculum designed to prepare children for kindergarten. Providers express appreciation for the support they receive through the SPP, enabling them to offer high-quality education regardless of families' economic situations. If Proposal 1 passes, the SPP will be renewed and expanded for another seven years; failure to do so would mean the program's dissolution, resulting in over 3,000 children losing access to quality early education.

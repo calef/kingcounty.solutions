@@ -1,8 +1,6 @@
 ---
-title: 'Words That Welcome All: Inclusive Language at Juma'
 date: '2025-11-19T18:36:49+00:00'
-source: Juma Ventures
-source_url: https://www.juma.org/2025/11/19/words-that-welcome-all-inclusive-language-at-juma/
+images: []
 original_content: |-
   <p>We strive to make inclusivity a pillar of the Juma culture. Providing safe, inclusive, and affirming work environments for both Juma youth and our staff is a core component of [&#8230;]</p>
   <p>The post <a href="https://www.juma.org/2025/11/19/words-that-welcome-all-inclusive-language-at-juma/">Words That Welcome All: Inclusive Language at Juma</a> appeared first on <a href="https://www.juma.org">Juma</a>.</p>
@@ -10,11 +8,13 @@ original_markdown_body: |-
   We strive to make inclusivity a pillar of the Juma culture. Providing safe, inclusive, and affirming work environments for both Juma youth and our staff is a core component of […]
 
   The post [Words That Welcome All: Inclusive Language at Juma](https://www.juma.org/2025/11/19/words-that-welcome-all-inclusive-language-at-juma/) appeared first on [Juma](https://www.juma.org).
+source: Juma Ventures
+source_url: https://www.juma.org/2025/11/19/words-that-welcome-all-inclusive-language-at-juma/
 summarized: true
+title: 'Words That Welcome All: Inclusive Language at Juma'
 topics:
 - Disabilities
 - Education & Learning
-images: []
 ---
 
 Juma is committed to fostering an inclusive culture by creating safe and affirming environments for both its youth and staff. Recently, staff from various locations engaged in discussions about the significance of language in promoting inclusivity. This initiative began with conversations aimed at examining terminology used to describe Juma youth and their circumstances. Recognizing the diverse backgrounds and experiences of their staff, many of whom are former Juma youth, the organization sought to develop a more dynamic resource than a traditional glossary. 

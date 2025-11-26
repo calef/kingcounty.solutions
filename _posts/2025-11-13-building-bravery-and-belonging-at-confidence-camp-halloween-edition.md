@@ -1,8 +1,7 @@
 ---
-title: 'Building Bravery and Belonging at Confidence Camp: Halloween Edition'
 date: '2025-11-13T19:44:07+00:00'
-source: Encompass
-source_url: https://encompassnw.org/building-bravery-and-belonging-at-confidence-camp-halloween-edition/
+images:
+- 3b78e36104794a6048f1fc06ff6d3b3870bc12c2d25c247ee9145778af3ab8bb
 original_content: |-
   <p><img fetchpriority="high" decoding="async" class="size-medium wp-image-25621 alignleft" src="https://encompassnw.org/wp-content/uploads/2025/11/img-blog-cc-halloween-02-300x300.jpg" alt="" width="300" height="300" srcset="https://encompassnw.org/wp-content/uploads/2025/11/img-blog-cc-halloween-02-300x300.jpg 300w, https://encompassnw.org/wp-content/uploads/2025/11/img-blog-cc-halloween-02-1024x1024.jpg 1024w, https://encompassnw.org/wp-content/uploads/2025/11/img-blog-cc-halloween-02-150x150.jpg 150w, https://encompassnw.org/wp-content/uploads/2025/11/img-blog-cc-halloween-02-768x768.jpg 768w, https://encompassnw.org/wp-content/uploads/2025/11/img-blog-cc-halloween-02.jpg 1080w" sizes="(max-width: 300px) 100vw, 300px" />Halloween can be full of excitement, surprises, and sometimes a few spooky nerves, especially for neurodiverse kids navigating the sounds, textures, and social moments of trick-or-treating. This year’s <strong>Confidence Camp: Halloween Edition</strong> offered a fun and therapeutic way to prepare children ages 3–10 for the big night, helping them feel more confident, calm, and connected.</p>
   <p>Over the course of an hour, a multidisciplinary team of mental health, occupational therapy, and speech therapy professionals guided kids through a series of playful, skill-building activities, all wrapped in Halloween magic.</p>
@@ -30,13 +29,14 @@ original_markdown_body: |-
   **Confidence Camp: Halloween Edition** reminded families that every child can shine on Halloween when they have the tools to communicate, self-regulate, and set boundaries. Most importantly, it created space for kids to celebrate exactly who they are.
 
   The post [Building Bravery and Belonging at Confidence Camp: Halloween Edition](https://encompassnw.org/building-bravery-and-belonging-at-confidence-camp-halloween-edition/) first appeared on [Encompass](https://encompassnw.org).
+source: Encompass
+source_url: https://encompassnw.org/building-bravery-and-belonging-at-confidence-camp-halloween-edition/
 summarized: true
+title: 'Building Bravery and Belonging at Confidence Camp: Halloween Edition'
 topics:
 - Disabilities
 - Mental Health & Counseling
 - Education & Learning
-images:
-- 3b78e36104794a6048f1fc06ff6d3b3870bc12c2d25c247ee9145778af3ab8bb
 ---
 
 Encompass hosted Confidence Camp: Halloween Edition to help neurodiverse children, ages 3-10, prepare for Halloween, addressing nerves around trick-or-treating. The camp featured activities led by mental health and therapy professionals, including a "Halloween Feelings Check-In" and communication skills training for trick-or-treating. Children engaged in the Candy Dish Challenge to enhance fine motor skills and self-control while exploring coping strategies during a "Spooky Decorations Walk." The event concluded with a Halloween Parade where kids showcased their costumes and newfound confidence. The camp emphasized that every child can enjoy Halloween with the right tools for communication and self-regulation.

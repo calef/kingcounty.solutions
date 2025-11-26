@@ -1,8 +1,7 @@
 ---
-title: Bellevue is ‘Better Together’ in State of the City presentation
 date: '2025-04-25T00:52:14+00:00'
-source: City of Bellevue
-source_url: https://bellevuewa.gov/city-news/better-together
+images:
+- 11cae81b7f0ef41110d3dc466281b54f8baa2f7443aabfe3db882ef9d7e677b9
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Bellevue
   is ‘Better Together’ in State of the City presentation</span>\n<span class=\"field
   field--name-uid field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"
@@ -69,13 +68,14 @@ original_markdown_body: |-
   Known as a “City in a Park” with nearly 100 parks and a vast network of trails and greenbelts, Bellevue is the fifth largest city in Washington. The Eastside city spans 33.5 square miles from Lake Washington to Lake Sammamish. As part of the Innovation Triangle, Bellevue is the high-tech and retail center with a downtown skyline of gleaming high-rises, a diverse population of more than 150,000 and schools that are consistently rated among the best in the country.&nbsp;
 
   <time datetime="2025-04-24T12:00:00Z" class="datetime">April 24 2025</time>
+source: City of Bellevue
+source_url: https://bellevuewa.gov/city-news/better-together
 summarized: true
+title: Bellevue is ‘Better Together’ in State of the City presentation
 topics:
 - Shelter & Housing
 - Employment & Job Support
 - Transportation & Mobility
-images:
-- 11cae81b7f0ef41110d3dc466281b54f8baa2f7443aabfe3db882ef9d7e677b9
 ---
 
 Members of Bellevue’s City Council recently presented the annual State of the City at the Meydenbauer Center, emphasizing the theme "Better Together." Mayor Lynne Robinson highlighted the importance of partnerships in achieving the city’s innovations and successes. Key advancements over the past year include a 25% reduction in crime, the introduction of 29 new or expanded businesses, and the creation of 6,000 new jobs. The city has initiated a new Office of Housing to enhance support for community housing needs, made strides in acquiring properties for parks, and increased funding for arts, culture, and large events. During a 40-minute Q&A session with BDA President Patrick Bannon, Robinson and Deputy Mayor Mo Malakoutian discussed strategies for future resiliency and addressed various community concerns. Bellevue, known for its extensive parks and trails, is the fifth largest city in Washington, covering 33.5 square miles and featuring a diverse population of over 150,000. The city is recognized as a high-tech and retail center within the Innovation Triangle.

@@ -1,8 +1,6 @@
 ---
-title: Bellevue to evaluate installing new speed safety cameras
 date: '2025-07-30T23:41:43+00:00'
-source: City of Bellevue
-source_url: https://bellevuewa.gov/city-news/more-speed-cameras
+images: []
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Bellevue
   to evaluate installing new speed safety cameras</span>\n<span class=\"field field--name-uid
   field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"
@@ -96,10 +94,12 @@ original_markdown_body: |-
   Community members are also encouraged to share their feedback by completing a questionnaire now available on the city’s [Engaging Bellevue platform](https://www.engagingbellevue.com/speed-safety-cameras). To learn more or participate in the questionnaire, visit [Speed Safety Cameras](https://bellevuewa.gov/speed-safety-cameras "Speed Safety Cameras").&nbsp;
 
   <time datetime="2025-07-31T12:00:00Z" class="datetime">July 31 2025</time>
-summarized: true
-topics: []
 published: false
-images: []
+source: City of Bellevue
+source_url: https://bellevuewa.gov/city-news/more-speed-cameras
+summarized: true
+title: Bellevue to evaluate installing new speed safety cameras
+topics: []
 ---
 
 The City of Bellevue is planning to expand its use of speed safety cameras to enhance traffic safety, in accordance with new state legislation. The initiative aims to address speeding, a leading cause of fatal and serious crashes, and supports Bellevue's Vision Zero goal to eliminate severe accidents by 2030. Since 2009, speed safety cameras have been operational in specific school zones and intersections. The updated state law permits the installation of cameras in additional high-risk areas, including near parks and hospitals.

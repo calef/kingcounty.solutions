@@ -1,8 +1,6 @@
 ---
-title: October is Breast Cancer Awareness Month
 date: '2025-10-09T15:37:01+00:00'
-source: Hospital District No. 4 (Snoqualmie Valley Hospital)
-source_url: https://snoqualmievalleyhealth.org/october-is-breast-cancer-awareness-month/
+images: []
 original_content: |-
   Breast Cancer Awareness Month is a time to reflect, learn, and take action. Every October, communities around the world come together to raise awareness of breast cancer, honor those who have been impacted, and emphasize the importance of early detection. At Snoqualmie Valley Health, we are proud to support this mission by offering advanced screening technology close to home.
 
@@ -36,10 +34,12 @@ original_content: |-
   Call 425-831-3526 to schedule your mammogram today, or self-schedule through [MyChart](https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fsnoqualmievalleyhealth.org%2fmychart%2f&c=E,1,eClW24bI-0P8eCftnDzPmaRlEGHwIp2LmNjb_PBBcu5BwVj-6XHomKJQLlhu3NLThfvB8geWGGr3sNGqZTeNnFGAI0OYBKCnkbPbcWZQL6oSKCwZrxpTcmu0Qgs,&typo=1)&nbsp;if you’re over 40.
 
   The post [October is Breast Cancer Awareness Month](https://snoqualmievalleyhealth.org/october-is-breast-cancer-awareness-month/) appeared first on [Snoqualmie Valley Hospital](https://snoqualmievalleyhealth.org).
+source: Hospital District No. 4 (Snoqualmie Valley Hospital)
+source_url: https://snoqualmievalleyhealth.org/october-is-breast-cancer-awareness-month/
 summarized: true
+title: October is Breast Cancer Awareness Month
 topics:
 - Health Care
-images: []
 ---
 
 October is recognized as Breast Cancer Awareness Month, a time dedicated to raising awareness and emphasizing the importance of early detection of breast cancer. Snoqualmie Valley Health supports this mission and offers advanced screening technology. Regular mammograms, often recommended yearly starting at age 40, are effective in early detection. This year, Snoqualmie Valley Health introduced 3D mammography, also known as digital breast tomosynthesis, providing a detailed view of breast tissue and aiding in early and accurate detection. They also use AI technology to enhance detection and a special system for patient comfort. The community is encouraged to schedule their mammograms.

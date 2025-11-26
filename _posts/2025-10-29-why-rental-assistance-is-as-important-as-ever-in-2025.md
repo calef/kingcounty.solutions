@@ -1,8 +1,6 @@
 ---
-title: Why rental assistance is as important as ever in 2025
 date: '2025-10-29T23:30:23+00:00'
-source: Community Roots Housing
-source_url: https://communityrootshousing.org/2025/10/rental-assistance-programs/
+images: []
 original_content: |-
   <p>We have all been hit with an unplanned bill or put in an unexpected financial situation at what seems like the worst possible time. When the impact is great enough — especially for those living on low incomes — it can cause someone to miss their next rent payment, or worse: it can kickstart a spiral into homelessness.</p>
   <p>The most common reasons for missing rent payments include:</p>
@@ -51,11 +49,13 @@ original_markdown_body: |-
   Both the HSP and ERA are made possible through philanthropic grants from a number of private family foundations and U.S. Bank, as well as from individual donors. Your support is crucial now more than ever to keep our residents stably housed. [Donate today](https://communityrootshousing.org/donate/) or stay on the lookout for more information about our rental assistance programs in the coming months!
 
   The post [Why rental assistance is as important as ever in 2025](https://communityrootshousing.org/2025/10/rental-assistance-programs/) appeared first on [Community Roots Housing](https://communityrootshousing.org).
+source: Community Roots Housing
+source_url: https://communityrootshousing.org/2025/10/rental-assistance-programs/
 summarized: true
+title: Why rental assistance is as important as ever in 2025
 topics:
 - Financial Assistance
 - Shelter & Housing
-images: []
 ---
 
 Community Roots Housing offers vital rental assistance through two programs: the Housing Stabilization Program (HSP) and the Emergency Rental Assistance (ERA) Program. These initiatives aim to support residents facing economic hardships that could lead to homelessness due to missed rent payments. Common causes for these financial struggles include job loss, medical expenses, and caregiving responsibilities.

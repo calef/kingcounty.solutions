@@ -1,8 +1,8 @@
 ---
-title: Boeing Grant Helps CCS HEN Program Deliver Essential Supplies
 date: '2025-11-14T17:22:12+00:00'
-source: Catholic Community Services of Western Washington
-source_url: https://ccsww.org/boeing-grant-helps-ccs-hen-program-deliver-essential-supplies/?utm_source=rss&utm_medium=rss&utm_campaign=boeing-grant-helps-ccs-hen-program-deliver-essential-supplies
+images:
+- a9b1c8beb3d69cbb379637b1ee240dd4be5322d1be1b8bb1d61571dace733c43
+- 6bf5bf4a66ae093fa9072a5acdbd0b81cea4bece903b5c449bcfc9077b53f4bd
 original_content: |-
   <p>Catholic Community Services&nbsp;(CCS)&nbsp;is grateful to the Boeing Employees Community Fund Puget Sound Chapter for a generous $50,000 grant supporting our Housing and Essential Needs (HEN) program. This funding&nbsp;allowed HEN to&nbsp;purchase&nbsp;a new cargo van, strengthening their impact&nbsp;in&nbsp;our community and delivering supplies and support to those who need them most.&nbsp;</p>
 
@@ -81,15 +81,15 @@ original_markdown_body: "Catholic Community Services&nbsp;(CCS)&nbsp;is grateful
   \ \n[Michael’s Story: The Power of Perseverance and Positivity | CCSWW](https://ccsww.org/michaels-story-the-power-of-perseverance-and-positivity/)&nbsp;\n\nThe
   post [Boeing Grant&nbsp;Helps CCS HEN Program Deliver Essential Supplies](https://ccsww.org/boeing-grant-helps-ccs-hen-program-deliver-essential-supplies/)
   first appeared on [Catholic Community Services of Western Washington](https://ccsww.org)."
+source: Catholic Community Services of Western Washington
+source_url: https://ccsww.org/boeing-grant-helps-ccs-hen-program-deliver-essential-supplies/?utm_source=rss&utm_medium=rss&utm_campaign=boeing-grant-helps-ccs-hen-program-deliver-essential-supplies
 summarized: true
+title: Boeing Grant Helps CCS HEN Program Deliver Essential Supplies
 topics:
 - Disabilities
 - Financial Assistance
 - Personal & Household Needs
 - Shelter & Housing
-images:
-- a9b1c8beb3d69cbb379637b1ee240dd4be5322d1be1b8bb1d61571dace733c43
-- 6bf5bf4a66ae093fa9072a5acdbd0b81cea4bece903b5c449bcfc9077b53f4bd
 ---
 
 Catholic Community Services (CCS) has received a $50,000 grant from the Boeing Employees Community Fund Puget Sound Chapter to enhance its Housing and Essential Needs (HEN) program. This funding enabled the purchase of a new cargo van, allowing HEN to improve its delivery of essential supplies and support to individuals in King County who cannot work due to disabilities. The program currently assists over 4,000 people, providing rental and utility aid, hygiene and cleaning supplies, and ORCA Lift cards. 

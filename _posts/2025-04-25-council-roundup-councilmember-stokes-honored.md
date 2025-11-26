@@ -1,8 +1,6 @@
 ---
-title: 'Council Roundup: Councilmember Stokes honored'
 date: '2025-04-25T17:50:55+00:00'
-source: City of Bellevue
-source_url: https://bellevuewa.gov/city-news/council-roundup-4-22-25
+images: []
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Council
   Roundup: Councilmember Stokes honored</span>\n<span class=\"field field--name-uid
   field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"
@@ -130,10 +128,12 @@ original_markdown_body: |-
   _ **Note:** The next council meeting will be Tuesday, May 6. The council does not meet on the fifth week of the month._&nbsp;
 
   <time datetime="2025-04-25T12:00:00Z" class="datetime">April 25 2025</time>
-summarized: true
-topics: []
 published: false
-images: []
+source: City of Bellevue
+source_url: https://bellevuewa.gov/city-news/council-roundup-4-22-25
+summarized: true
+title: 'Council Roundup: Councilmember Stokes honored'
+topics: []
 ---
 
 The Bellevue City Council recently honored outgoing Councilmember John Stokes for his 14 years of service, coinciding with his retirement announcement. The council received updates on the Neighborhood Enhancement Program, which allows residents to propose small capital improvements, with $445,000 available for Bridle Trails and $380,000 for Northwest Bellevue in 2025. Planning for Ashwood Park is progressing, with community feedback favoring a master plan that includes an open lawn, amphitheater-style seating, and other amenities. The council will conduct an environmental review before formally adopting the plan. Additionally, updates on the Comprehensive Plan amendments for the Crossroads and Newport neighborhoods highlighted community desires for increased green spaces and improved connectivity. Sandra Martinez Osorio was appointed to the Arts Commission for a term expiring in 2028. The council issued proclamations for Earth Day, Missing and Murdered Indigenous Women and Girls, and International Firefighters’ Day. The next council meeting is scheduled for May 6, with no meeting held during the fifth week of the month.

@@ -1,8 +1,6 @@
 ---
-title: 'Another leap forward: DAV expands training platform to volunteers'
 date: '2025-11-25T15:16:24+00:00'
-source: Disabled American Veterans
-source_url: https://www.dav.org/learn-more/news/2025/another-leap-forward-dav-expands-training-platform-to-volunteers/
+images: []
 original_content: "<div class=\"editor clearfix\">\n\n    \n    <p><img fetchpriority=\"high\"
   decoding=\"async\" class=\"alignleft wp-image-54347 size-medium\" src=\"https://www.dav.org/wp-content/uploads/iTRAK_1_Featured-300x211.jpg\"
   alt=\"\" width=\"300\" height=\"211\" srcset=\"https://www.dav.org/wp-content/uploads/iTRAK_1_Featured-300x211.jpg
@@ -42,7 +40,6 @@ original_content: "<div class=\"editor clearfix\">\n\n    \n    <p><img fetchpri
   to evolve.</p>\n\n</div><p>The post <a href=\"https://www.dav.org/learn-more/news/2025/another-leap-forward-dav-expands-training-platform-to-volunteers/\">Another
   leap forward: DAV expands training platform to volunteers</a> appeared first on
   <a href=\"https://www.dav.org\">DAV</a>.</p>"
-images: []
 original_markdown_body: |-
   ![](https://www.dav.org/wp-content/uploads/iTRAK_1_Featured-300x211.jpg)Representing veterans for their benefits claims has been DAV’s cornerstone for more than a century. But to remain the leader among veterans organizations, we must always look for areas to grow and evolve.
 
@@ -65,7 +62,10 @@ original_markdown_body: |-
   When it comes to serving those who served us all, staying on the right track means continuing to evolve.
 
   The post [Another leap forward: DAV expands training platform to volunteers](https://www.dav.org/learn-more/news/2025/another-leap-forward-dav-expands-training-platform-to-volunteers/) appeared first on [DAV](https://www.dav.org).
+source: Disabled American Veterans
+source_url: https://www.dav.org/learn-more/news/2025/another-leap-forward-dav-expands-training-platform-to-volunteers/
 summarized: true
+title: 'Another leap forward: DAV expands training platform to volunteers'
 topics:
 - Disabilities
 - Employment & Job Support

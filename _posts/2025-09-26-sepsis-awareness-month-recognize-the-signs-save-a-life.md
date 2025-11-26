@@ -1,8 +1,6 @@
 ---
-title: 'Sepsis Awareness Month: Recognize the Signs, Save a Life'
 date: '2025-09-26T21:41:35+00:00'
-source: Hospital District No. 4 (Snoqualmie Valley Hospital)
-source_url: https://snoqualmievalleyhealth.org/sepsis-awareness-month-recognize-the-signs/
+images: []
 original_content: |-
   September is Sepsis Awareness Month, a time to shine a spotlight on one of the leading causes of death in the United States—and one of the least recognized. Sepsis occurs when the body has an extreme response to infection, leading to organ failure and, if not treated quickly, death.
 
@@ -71,10 +69,12 @@ original_content: |-
   This September, let’s work together to raise awareness about sepsis. By knowing the signs, acting quickly, and spreading the word, we can save lives right here in our Valley.
 
   The post [Sepsis Awareness Month: Recognize the Signs, Save a Life](https://snoqualmievalleyhealth.org/sepsis-awareness-month-recognize-the-signs/) appeared first on [Snoqualmie Valley Hospital](https://snoqualmievalleyhealth.org).
-summarized: true
-topics: []
 published: false
-images: []
+source: Hospital District No. 4 (Snoqualmie Valley Hospital)
+source_url: https://snoqualmievalleyhealth.org/sepsis-awareness-month-recognize-the-signs/
+summarized: true
+title: 'Sepsis Awareness Month: Recognize the Signs, Save a Life'
+topics: []
 ---
 
 September is Sepsis Awareness Month, aimed at raising awareness about one of the leading causes of death in the US. Sepsis is a severe body response to infection, which can lead to organ failure and death. Approximately 87% of sepsis cases originate outside the hospital. While anyone can develop sepsis, those over 65, infants, people with weakened immune systems, and those with chronic conditions like diabetes are more vulnerable. The Sepsis Alliance uses the acronym TIME (Temperature, Infection, Mental decline, Extremely ill) to identify the warning signs. Sepsis can be reduced by maintaining vaccinations, good hygiene, managing chronic conditions, and seeking immediate care when symptoms arise.

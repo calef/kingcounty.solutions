@@ -1,8 +1,7 @@
 ---
-title: BellHop shuttle service wins 2025 Vision Award
 date: '2025-04-29T18:46:46+00:00'
-source: City of Bellevue
-source_url: https://bellevuewa.gov/city-news/bellhop-vision-award
+images:
+- bf73c9ea775515b4513c944abb6592a5777b24f5d66d1c8dd48c4003ac2c3657
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">BellHop
   shuttle service wins 2025 Vision Award </span>\n<span class=\"field field--name-uid
   field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"
@@ -74,11 +73,12 @@ original_markdown_body: |-
   BellHop exemplifies sustainable innovation in the transportation sector in alignment with the ideals of the [Seattle 2030 District](https://2030districts.org/seattle/), a public-private partnership that supports reductions in the environmental impacts of buildings and vehicles.&nbsp;
 
   <time datetime="2025-04-29T12:00:00Z" class="datetime">April 29 2025</time>
+source: City of Bellevue
+source_url: https://bellevuewa.gov/city-news/bellhop-vision-award
 summarized: true
+title: BellHop shuttle service wins 2025 Vision Award
 topics:
 - Transportation & Mobility
-images:
-- bf73c9ea775515b4513c944abb6592a5777b24f5d66d1c8dd48c4003ac2c3657
 ---
 
 BellHop, a free shuttle service in Bellevue, has been awarded the 2025 Transportation Vision Award by the Seattle and Bellevue 2030 Districts. Launched in 2023, BellHop has quickly become an essential part of the city's urban mobility, providing nearly 115,000 rides to over 150,000 passengers and reducing greenhouse gas emissions by over 100 metric tons. The program, funded through hotel room fees and partner support, features all-electric point-to-point shuttles that make transportation accessible and sustainable.

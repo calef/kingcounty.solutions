@@ -1,8 +1,6 @@
 ---
-title: 'High-Functioning Burnout: When Success Comes at a Cost'
 date: '2025-11-10T21:17:41+00:00'
-source: Talkspace Free Online Therapy for Seattle Youth
-source_url: https://www.talkspace.com/blog/high-functioning-burnout/
+images: []
 original_content: |-
   <div class="is-layout-constrained wp-block-group"><div class="wp-block-group__inner-container">
   <p>Looking like you have everything together doesn’t mean you aren’t exhausted, overwhelmed, or disconnected. Even if you’re excelling at work, managing obligations and expectations, and keeping up with your routines, you might still be burned out. High-functioning burnout is a hidden struggle that allows many successful people to excel while quietly feeling depleted on the inside.</p>
@@ -460,10 +458,12 @@ original_markdown_body: "Looking like you have everything together doesn’t mea
   Accessed September 29, 2025._\n\nThe post [High-Functioning Burnout: When Success
   Comes at a Cost](https://www.talkspace.com/blog/high-functioning-burnout/) appeared
   first on [Talkspace](https://www.talkspace.com/blog)."
+source: Talkspace Free Online Therapy for Seattle Youth
+source_url: https://www.talkspace.com/blog/high-functioning-burnout/
 summarized: true
+title: 'High-Functioning Burnout: When Success Comes at a Cost'
 topics:
 - Mental Health & Counseling
-images: []
 ---
 
 High-functioning burnout is a form of chronic stress where individuals appear successful and productive while experiencing profound internal exhaustion. Unlike typical burnout, those affected continue to meet job demands but at a significant cost to their well-being. Symptoms include emotional numbness, anxiety, and difficulty finding joy in work or personal life, coupled with physical signs like persistent fatigue and sleep disturbances. Contributing factors include perfectionism, workplace culture prioritizing constant productivity, and neglect of self-care. The hidden costs of high-functioning burnout can lead to mental health issues such as anxiety and depression, along with strained relationships due to emotional distance and irritability. Recovery is possible through acknowledgment of the problem, setting boundaries, prioritizing rest, and reconnecting with personal joy and purpose. Seeking professional help, such as therapy, can provide essential tools for managing and overcoming burnout. Small but consistent changes can lead to significant improvements in well-being, allowing individuals to achieve success without sacrificing their mental and physical health.

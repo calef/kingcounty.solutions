@@ -1,8 +1,6 @@
 ---
-title: Six Stages of Grooming
 date: '2025-04-17T12:02:26+00:00'
-source: The Deaf Hotline
-source_url: https://www.thedeafhotline.org/blog/six-stages-of-grooming/
+images: []
 original_content: |-
   <p>Grooming is a type of abuse where a person is manipulated into being isolated and dependent on the groomer. This can lead to serious harm. I will be sharing six stages of grooming, illustrating each with examples from a fictional story to help you identify potential warning signs. </p>
 
@@ -97,11 +95,13 @@ original_markdown_body: |-
   If you or someone you know has been groomed, it is important to remember that it is absolutely not your fault. Grooming is a deliberate and manipulative process used by abusers to gain control over victims. You are not weak. This is a complex form of abuse that can happen to anyone. Groomers are skilled manipulators and often plan their actions carefully and take advantage of the vulnerabilities of their victims.&nbsp;&nbsp;
 
   If you suspect you or someone you know may be a victim of grooming, please reach out for help. There are many resources available, including the Deaf Hotline.&nbsp;
+source: The Deaf Hotline
+source_url: https://www.thedeafhotline.org/blog/six-stages-of-grooming/
 summarized: true
+title: Six Stages of Grooming
 topics:
 - Domestic Violence
 - Mental Health & Counseling
-images: []
 ---
 
 Grooming is a manipulative process where an individual is led into isolation and dependence on the groomer, resulting in potential serious harm. The process consists of six stages. 

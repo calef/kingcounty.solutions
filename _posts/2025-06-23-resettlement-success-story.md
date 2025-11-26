@@ -1,17 +1,19 @@
 ---
-title: Resettlement Success Story
 date: '2025-06-23T22:36:42+00:00'
+images: []
+original_content: One of our clients, Niloofar, resettled in Washington State with
+  her family in 2023, after eight years of displacement. Originally from...
+original_markdown_body: One of our clients, Niloofar, resettled in Washington State
+  with her family in 2023, after eight years of displacement. Originally from...
 source: Diocese of Olympia Refugee Resettlement Office
 source_url: https://www.dioceserroseattle.org/post/resettlement-success-story
-original_content: One of our clients, Niloofar, resettled in Washington State with her family in 2023, after eight years of displacement. Originally from...
-original_markdown_body: One of our clients, Niloofar, resettled in Washington State with her family in 2023, after eight years of displacement. Originally from...
 summarized: true
+title: Resettlement Success Story
 topics:
 - Education & Learning
 - Employment & Job Support
 - Food & Nutrition
 - Shelter & Housing
-images: []
 ---
 
 Niloofar, originally from Iran, resettled in Washington State with her family in 2023 after eight years of displacement. They initially fled to Kayseri, Turkey in 2015, where they faced poor living conditions and community scrutiny while seeking refugee status from the UNHCR. Niloofar pursued her education at Erciyes University and Dokuz Eylul University, studying American Culture and Literature, while also supporting newly arrived refugees. After years of effort, her family obtained refugee status and were accepted into the U.S. resettlement program.

@@ -1,9 +1,7 @@
 ---
-title: Mission Advancement Officer Anne Jannetti expresses her thankfulness to two
-  of our long-time supporters, Alysun Deckert and Mike Bailey  
 date: '2025-11-13T00:48:44+00:00'
-source: Compass Housing Alliance
-source_url: https://www.compasshousingalliance.org/2025/11/mission-advancement-officer-anne-jannetti-expresses-her-thankfulness-to-two-of-our-long-time-supporters-alysun-deckert-and-mike-bailey/
+images:
+- 728a3df36a3c6a91c1e001740b25d8dec75ad163d64ca990bd97fbb0d7c32777
 original_content: |-
   <p>Alysun Deckert and Mike Bailey are caring neighbors! And they inspire, lead, and collaborate with many other caring neighbors to provide a lovingly prepared dinner meal for families and individuals at Compass Broadview.  </p>
 
@@ -71,11 +69,13 @@ original_markdown_body: |-
   p.s. _You, too, can join Alysun and Mike on the Broadview meals team – or start your own “meals team” for another Compass Housing Alliance program. Contact Anne Jannetti at_ [_ajannetti@compasshousingalliance.org_](mailto:ajannetti@compasshousingalliance.org) _or 206.485.3223._&nbsp;
 
   The post [Mission Advancement Officer Anne Jannetti expresses her thankfulness to two of our long-time supporters, Alysun Deckert and Mike Bailey &nbsp;](https://www.compasshousingalliance.org/2025/11/mission-advancement-officer-anne-jannetti-expresses-her-thankfulness-to-two-of-our-long-time-supporters-alysun-deckert-and-mike-bailey/) appeared first on [Compass Housing Alliance](https://www.compasshousingalliance.org).
+source: Compass Housing Alliance
+source_url: https://www.compasshousingalliance.org/2025/11/mission-advancement-officer-anne-jannetti-expresses-her-thankfulness-to-two-of-our-long-time-supporters-alysun-deckert-and-mike-bailey/
 summarized: true
+title: Mission Advancement Officer Anne Jannetti expresses her thankfulness to two
+  of our long-time supporters, Alysun Deckert and Mike Bailey  
 topics:
 - Food & Nutrition
-images:
-- 728a3df36a3c6a91c1e001740b25d8dec75ad163d64ca990bd97fbb0d7c32777
 ---
 
 Mission Advancement Officer Anne Jannetti expresses gratitude for Alysun Deckert and Mike Bailey, long-time supporters who have dedicated themselves to providing meals for families at Compass Broadview. For five years, they have coordinated volunteers to deliver lovingly prepared meals every Thursday, without missing a week. Their commitment extends beyond just food; during the holidays, they also distribute special gift cards to the households they serve. Alysun and Mike, both professionals at the University of Washington and former elite athletes, inspire a community of cooks of all ages to participate in this initiative, fostering a sense of belonging and care among neighbors. The meals serve as a nourishing gift, allowing families to enjoy quality time together while reflecting on daily challenges and blessings. Behind this effort is meticulous planning to accommodate dietary preferences and logistics, demonstrating a strong community spirit. Jannetti highlights the quiet yet impactful love expressed through these meals, emphasizing the appreciation for Alysun, Mike, and all volunteers involved. The article invites others to join this effort or create their own meals team to support Compass Housing Alliance programs.

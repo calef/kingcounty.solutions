@@ -1,8 +1,7 @@
 ---
-title: Two Foster Care Stories, One Constant
 date: '2025-05-29T22:28:41+00:00'
-source: Treehouse
-source_url: https://www.treehouseforkids.org/two-foster-care-stories-one-constant/
+images:
+- f49e086da496abd3de3920f877482e13b85219a6872ca3bf3966baf3ac971baf
 original_content: |-
   <p><img loading="lazy" decoding="async" class="aligncenter wp-image-195644 size-large" src="https://www.treehouseforkids.org/wp-content/uploads/2025/05/Untitled-design-3-1024x1024.png" alt="Two real stories to celebrate National Foster Care Month" width="1024" height="1024" srcset="https://www.treehouseforkids.org/wp-content/uploads/2025/05/Untitled-design-3-1024x1024.png 1024w, https://www.treehouseforkids.org/wp-content/uploads/2025/05/Untitled-design-3-300x300.png 300w, https://www.treehouseforkids.org/wp-content/uploads/2025/05/Untitled-design-3-150x150.png 150w, https://www.treehouseforkids.org/wp-content/uploads/2025/05/Untitled-design-3-1536x1536.png 1536w, https://www.treehouseforkids.org/wp-content/uploads/2025/05/Untitled-design-3.png 2025w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></p>
   <h3 style="text-align: center;"><strong><span style="color: #0aaf46;"><em><span class="TextRun SCXW196648202 BCX8" lang="EN-US" xml:lang="EN-US" data-contrast="none"><span class="NormalTextRun SCXW196648202 BCX8">In honor of National Foster Care </span></span></em></span></strong><strong><span style="color: #0aaf46;"><em><span class="TextRun SCXW196648202 BCX8" lang="EN-US" xml:lang="EN-US" data-contrast="none"><span class="NormalTextRun SCXW196648202 BCX8">Month, we are sharing day-in-the-life stories from the Treehouse community. These stories are about all the ways Treehouse makes a difference for y</span></span></em></span></strong><strong><span style="color: #0aaf46;"><em><span class="TextRun SCXW196648202 BCX8" lang="EN-US" xml:lang="EN-US" data-contrast="none"><span class="NormalTextRun SCXW196648202 BCX8">outh in foster care so they can thrive</span><span class="NormalTextRun SCXW196648202 BCX8">.</span></span></em></span></strong></h3>
@@ -67,11 +66,12 @@ original_markdown_body: |-
   ###### **_Bring support like this to youth in foster care across Washington state. Learn how you can [take action](https://www.treehouseforkids.org/take-action/).&nbsp;&nbsp;&nbsp;_**
 
   The post [Two Foster Care Stories, One Constant](https://www.treehouseforkids.org/two-foster-care-stories-one-constant/) appeared first on [Treehouse](https://www.treehouseforkids.org).
+source: Treehouse
+source_url: https://www.treehouseforkids.org/two-foster-care-stories-one-constant/
 summarized: true
+title: Two Foster Care Stories, One Constant
 topics:
 - Education & Learning
-images:
-- f49e086da496abd3de3920f877482e13b85219a6872ca3bf3966baf3ac971baf
 ---
 
 In honor of National Foster Care Month, Treehouse shares inspiring stories from Jeniece Driver, a dedicated Education Specialist who has worked extensively with youth in foster care. With a background in psychology and years of experience in child welfare, Jeniece highlights the resilience of two students she has supported.

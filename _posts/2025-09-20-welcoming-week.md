@@ -1,8 +1,6 @@
 ---
-title: Welcoming Week
 date: '2025-09-20T13:10:57+00:00'
-source: Together Center
-source_url: https://togethercenter.org/2025/09/20/welcoming-week/
+images: []
 original_content: |-
   Guillermo Rivera, [guillermo@eastsideforall.org](mailto:guillermo@eastsideforall.org)
 
@@ -19,10 +17,12 @@ original_content: |-
   - 9/18 5:30-7:30pm @ Redmond Senior & Community Center – One Table, Many Stories [Flyer attached]
 
   The post [Welcoming Week](https://togethercenter.org/2025/09/20/welcoming-week/) appeared first on [Together Center](https://togethercenter.org).
+source: Together Center
+source_url: https://togethercenter.org/2025/09/20/welcoming-week/
 summarized: true
+title: Welcoming Week
 topics:
 - Education & Learning
-images: []
 ---
 
 East King County celebrated its annual Welcoming Week from September 12-21. The campaign encouraged mutual understanding between immigrants and non-immigrants through a series of events and activities, fostering a sense of belonging for all. This year's theme was "Stories We Tell". Among the events held in Redmond were a "Sweet Swap" at the Together Center, and "One Table, Many Stories" at the Redmond Senior and Community Center.

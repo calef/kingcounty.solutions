@@ -1,8 +1,6 @@
 ---
-title: Snoqualmie Valley Health Expands Access to Care with New North Bend Clinic
 date: '2025-09-30T22:49:09+00:00'
-source: Hospital District No. 4 (Snoqualmie Valley Hospital)
-source_url: https://snoqualmievalleyhealth.org/svh-expands-access-to-care-with-new-north-bend-clinic/
+images: []
 original_content: |-
   **SNOQUALMIE, WA** – Snoqualmie Valley Health is proud to announce the opening of its new North Bend Clinic, expanding access to care for residents across the Valley. The clinic will welcome its first patients on Monday, October 20, 2025., with a Grand Opening Celebration to be announced.&nbsp;
 
@@ -23,10 +21,12 @@ original_content: |-
   Read the full press release [here](https://snoqualmievalleyhealth.org/wp-content/uploads/2025/09/9.30.2025-Snoqualmie-Valley-Health-Expands-Access-to-Care-with-New-North-Bend-Clinic-003-1.pdf).&nbsp;
 
   The post [Snoqualmie Valley Health Expands Access to Care with New North Bend Clinic](https://snoqualmievalleyhealth.org/svh-expands-access-to-care-with-new-north-bend-clinic/) appeared first on [Snoqualmie Valley Hospital](https://snoqualmievalleyhealth.org).
+source: Hospital District No. 4 (Snoqualmie Valley Hospital)
+source_url: https://snoqualmievalleyhealth.org/svh-expands-access-to-care-with-new-north-bend-clinic/
 summarized: true
+title: Snoqualmie Valley Health Expands Access to Care with New North Bend Clinic
 topics:
 - Health Care
-images: []
 ---
 
 Snoqualmie Valley Health has opened a new clinic in North Bend, Washington, located at the former Chase Bank Building. The clinic features six exam rooms and aims to expand access to care for residents across the Valley. It launched with primary care services led by Dr. Shantal Postiglione, a nurse practitioner. In the future, the clinic plans to host rotating specialty services to increase access to healthcare in the rural community. This move aligns with Snoqualmie Valley Health’s mission to bring care closer to home and reflects their commitment to expanding healthcare options and reducing travel barriers.

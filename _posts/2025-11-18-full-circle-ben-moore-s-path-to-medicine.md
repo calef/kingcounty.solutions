@@ -1,8 +1,8 @@
 ---
-title: 'Full Circle: Ben Moore’s Path to Medicine'
 date: '2025-11-18T00:11:25+00:00'
-source: Institute on Human Development and Disability
-source_url: https://ihdd.org/2025/11/17/full-circle-ben-moores-path-to-medicine/
+images:
+- c1daea9878c55828d97a15e27185c8678436e1c6e6c05f30457bf937f89c147e
+- a0ca0accd85a1c856ba7c5313a263bbad7f4473638f4749d10524c75e8af146d
 original_content: "<div class=\"wpb-content-wrapper\">\r\n<div  data-mk-stretch-content=\"true\"
   class=\"wpb_row vc_row vc_row-fluid jupiter-donut- mk-fullwidth-false  attched-false
   \    js-master-row  mk-grid\">\r\n\t\t\t\t\r\n<div class=\"vc_col-sm-9 wpb_column
@@ -287,14 +287,14 @@ original_markdown_body: "## [Home](https://ihdd.org/)\n\n## Full Circle: Ben Moo
   class=\"mk-padding-divider jupiter-donut- jupiter-donut-clearfix\"></div>\r\n\r\n</span></div></section>\t</div>\r\n</aside>\n\nThe
   post [Full Circle: Ben Moore’s Path to Medicine](https://ihdd.org/2025/11/17/full-circle-ben-moores-path-to-medicine/)
   appeared first on [UW IHDD](https://ihdd.org)."
+source: Institute on Human Development and Disability
+source_url: https://ihdd.org/2025/11/17/full-circle-ben-moores-path-to-medicine/
 summarized: true
+title: 'Full Circle: Ben Moore’s Path to Medicine'
 topics:
 - Disabilities
 - Education & Learning
 - Health Care
-images:
-- c1daea9878c55828d97a15e27185c8678436e1c6e6c05f30457bf937f89c147e
-- a0ca0accd85a1c856ba7c5313a263bbad7f4473638f4749d10524c75e8af146d
 ---
 
 Ben Moore's journey to medicine began in early childhood, participating in programs at what is now the Institute on Human Development and Disability (IHDD) at the University of Washington (UW). He later re-engaged with the UW community through the UW LEND program, initially as a self-advocate trainee. Leveraging his personal experiences with disability, he focused on advocacy and leadership, eventually becoming the Self-Advocate Discipline Lead, where he mentored trainees and emphasized the importance of self-advocate leadership.

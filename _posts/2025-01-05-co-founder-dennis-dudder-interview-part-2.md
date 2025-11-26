@@ -1,8 +1,6 @@
 ---
-title: Co-founder Dennis Dudder Interview – Part 2
 date: '2025-01-05T20:01:28+00:00'
-source: Changes Parent Support Network
-source_url: https://cpsn.org/co-founder-dennis-dudder-interview-part-2/?utm_source=rss&utm_medium=rss&utm_campaign=co-founder-dennis-dudder-interview-part-2
+images: []
 original_content: |-
   <p><em>We have traditionally created a Fall newsletter to communicate to current and alumni Changes members, as well as to the community at large.  </em></p>
   <p><em>With the creation of this website blog, we are moving from periodic newsletter-style communication to a more regular as-needed rhythm.  So consider this to be a delayed part 2 of what would have been our Fall ’24 Changing Times newsletter.  </em></p>
@@ -49,7 +47,10 @@ original_markdown_body: |-
   **Q: When you created Changes, did you or the other founders have any idea how long it would last?** &nbsp;
 
   Not really.&nbsp; We all committed to 3 or 4 years, and that we’ll continue what we were doing.&nbsp; We had a lot more groups back then, too. We were active in Snohomish, Bellingham, a couple of different meetings on the peninsula, and we even had a group in Tacoma.&nbsp; The Kent and Des Moines group were offshoots of the Seattle group, but some of the others were independent parent groups that joined as word got around.&nbsp; [Editor’s note: our meetings used to be in person _in the Seattle area__, so chapters were created and disbanded as needs and resources ebbed and flowed.]&nbsp;_&nbsp;
+source: Changes Parent Support Network
+source_url: https://cpsn.org/co-founder-dennis-dudder-interview-part-2/?utm_source=rss&utm_medium=rss&utm_campaign=co-founder-dennis-dudder-interview-part-2
 summarized: true
+title: Co-founder Dennis Dudder Interview – Part 2
 topics:
 - Childcare
 - Domestic Violence
@@ -57,7 +58,6 @@ topics:
 - Employment & Job Support
 - Mental Health & Counseling
 - Shelter & Housing
-images: []
 ---
 
 Co-founder Dennis Dudder reflects on nearly 30 years of involvement with Changes in a recent interview. He observes that issues surrounding youth behavior have remained consistent since the 1970s, particularly regarding a Washington state law that allowed 13-year-olds in divorce situations to decide their living arrangements. This law inadvertently led to many young people living on the streets, a problem that persists today. Dudder has been actively involved in various roles at Changes, including serving on the Board of Directors and as a representative for the Everett meeting. He highlights the importance of grant writing in the organization's early days, collaborating with fellow founders to secure funding for their initiatives. Dudder also expresses his enjoyment in conducting orientations for new members. When asked about the longevity of Changes, Dudder admits that the founders initially only committed to three or four years, unaware of the organization's potential growth. Over the years, Changes expanded its reach, establishing multiple groups throughout Washington state, although some have since disbanded as needs changed.

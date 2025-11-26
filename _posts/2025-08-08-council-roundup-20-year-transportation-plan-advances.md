@@ -1,8 +1,6 @@
 ---
-title: 'Council Roundup: 20-year transportation plan advances'
 date: '2025-08-08T21:52:28+00:00'
-source: City of Bellevue
-source_url: https://bellevuewa.gov/city-news/council-roundup-8-4-25
+images: []
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Council
   Roundup: 20-year transportation plan advances  </span>\n<span class=\"field field--name-uid
   field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"
@@ -115,10 +113,12 @@ original_markdown_body: "Council Roundup: 20-year transportation plan advances C
   on [Bellevue Television replay](https://bellevue.legistar.com/Calendar.aspx).\n\n_
   **Note:** The next council meeting will be Tuesday, Sept. 9._&nbsp;\n\n<time datetime=\"2025-08-08T12:00:00Z\"
   class=\"datetime\">August 8 2025</time>"
+source: City of Bellevue
+source_url: https://bellevuewa.gov/city-news/council-roundup-8-4-25
 summarized: true
+title: 'Council Roundup: 20-year transportation plan advances'
 topics:
 - Transportation & Mobility
-images: []
 ---
 
 The Bellevue City Council has given preliminary approval to a 20-year transportation plan, which includes projects from the Downtown Transportation Plan Update, Transit Master Plan, and Mobility Implementation Plan. This plan, part of the draft 2026-2045 Transportation Facilities Plan, will replace the current 2022-2033 plan. The council has instructed the Transportation Commission and staff to extend the plan's timeframe and conduct a State Environmental Policy Act review.

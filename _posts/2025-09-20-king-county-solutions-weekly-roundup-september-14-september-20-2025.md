@@ -1,14 +1,14 @@
 ---
-title: 'King County Solutions Weekly Roundup: September 14–September 20, 2025'
 date: '2025-09-20T18:00:00-08:00'
+images: []
 source: King County Solutions
 summarized: true
+title: 'King County Solutions Weekly Roundup: September 14–September 20, 2025'
 topics:
 - Disabilities
 - Domestic Violence
 - Food & Nutrition
 - Mental Health & Counseling
-images: []
 ---
 
 This week, King County Solutions published seven posts highlighting significant community initiatives and events, emphasizing the importance of cultural contributions, legal aid, food security, and inclusivity. As we celebrate Hispanic Heritage Month, the community is encouraged to engage with diverse cultures and support local organizations working towards a more equitable society.

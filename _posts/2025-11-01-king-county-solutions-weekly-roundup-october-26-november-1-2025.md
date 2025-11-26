@@ -1,14 +1,14 @@
 ---
-title: 'King County Solutions Weekly Roundup: October 26–November 1, 2025'
 date: '2025-11-01T18:00:00-08:00'
+images: []
 source: King County Solutions
 summarized: true
+title: 'King County Solutions Weekly Roundup: October 26–November 1, 2025'
 topics:
 - Food & Nutrition
 - Health Care
 - Mental Health & Counseling
 - Transportation & Mobility
-images: []
 ---
 
 This week, King County Solutions published 9 posts, highlighting critical updates that affect our community. With the ongoing government shutdown impacting vital services, particularly SNAP benefits, community support is more crucial than ever. Additionally, we focus on health regulations, civic engagement opportunities, and honoring community leaders, all of which are essential for fostering a resilient and connected community.

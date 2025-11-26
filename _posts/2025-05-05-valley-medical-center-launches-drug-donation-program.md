@@ -1,8 +1,6 @@
 ---
-title: Valley Medical Center Launches Drug Donation Program
 date: '2025-05-05T19:58:21+00:00'
-source: Hospital District No. 1 (Valley Medical Center)
-source_url: https://blog.valleymed.org/2025/05/05/valley-medical-center-drug-donation-program-launches-may-8-2025/?utm_source=rss&utm_medium=rss&utm_campaign=valley-medical-center-drug-donation-program-launches-may-8-2025
+images: []
 original_content: |-
   <p><img width="300" height="163" src="https://blog.valleymed.org/wp-content/uploads/2025/05/Drug-Donation-program-blog-header-800x500-1-300x163.png" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://blog.valleymed.org/wp-content/uploads/2025/05/Drug-Donation-program-blog-header-800x500-1-300x163.png 300w, https://blog.valleymed.org/wp-content/uploads/2025/05/Drug-Donation-program-blog-header-800x500-1.png 600w" sizes="auto, (max-width: 300px) 100vw, 300px" /></p>
   <p>To reduce medication waste and support patients in need, Valley Medical Center launched a <strong>Drug Donation Program</strong>. One survey has shown two-thirds of prescription drugs in U.S. households go unused—this program offers a way to put those medications to good use.</p>
@@ -105,10 +103,12 @@ original_markdown_body: "![](https://blog.valleymed.org/wp-content/uploads/2025/
   we can’t accept can still be safely discarded using our **Medication Take Back Kiosks**
   at both pharmacy locations.\n\n**Need Assistance?**  \nIf you’re a Valley patient
   and would like to request donated medications, please contact your provider directly."
+source: Hospital District No. 1 (Valley Medical Center)
+source_url: https://blog.valleymed.org/2025/05/05/valley-medical-center-drug-donation-program-launches-may-8-2025/?utm_source=rss&utm_medium=rss&utm_campaign=valley-medical-center-drug-donation-program-launches-may-8-2025
 summarized: true
+title: Valley Medical Center Launches Drug Donation Program
 topics:
 - Health Care
-images: []
 ---
 
 To reduce medication waste and support patients in need, Valley Medical Center is launching a Drug Donation Program on May 8, 2025. This initiative aims to repurpose unused prescription medications, as surveys indicate that two-thirds of such drugs in U.S. households remain unutilized. Patients can donate sealed, unexpired prescription medications, which will be reviewed for eligibility and redistributed at no cost to Valley patients requiring temporary supplies.

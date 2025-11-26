@@ -1,8 +1,6 @@
 ---
-title: Snoqualmie Tribe Expands Support for Families Impacted by Federal SNAP Suspension
 date: '2025-11-08T16:30:03+00:00'
-source: Snoqualmie Indian Tribe
-source_url: https://snoqualmietribe.us/snoqualmie-indian-tribe-donates-over-1-million-in-charitable-donations-in-2025/
+images: []
 original_content: |-
   _The Tribe donated $130,000 to community organizations providing food services and has expanded efforts in partnership with the Snoqualmie Casino & Resort and Snoqualmie Valley Food Bank_
 
@@ -35,11 +33,13 @@ original_content: |-
   For all 501c3 organizations both awarded, and not awarded this year, the 2026 application cycle will open on January 1st, 2026, and close March 31st, 2022. To learn more, visit&nbsp;[www.snoqualmietribedonations.us](https://snoqualmietribedonations.us/).
 
   _The Snoqualmie Indian Tribe is a federally recognized tribe in the Puget Sound region of Washington State. Known as the People of the Moon, Snoqualmie were signatories to the Treaty of Point Elliott in 1855. For more information visit_ [_www.snoqualmietribe.us_](http://www.snoqualmietribe.us)
+source: Snoqualmie Indian Tribe
+source_url: https://snoqualmietribe.us/snoqualmie-indian-tribe-donates-over-1-million-in-charitable-donations-in-2025/
 summarized: true
+title: Snoqualmie Tribe Expands Support for Families Impacted by Federal SNAP Suspension
 topics:
 - Food & Nutrition
 - Financial Assistance
-images: []
 ---
 
 The Snoqualmie Indian Tribe has donated over $1 million to various nonprofit organizations in Washington State, with a focus on arts and culture, native services, family and veterans services, environmental education, and community services. The tribe also donated $130,000 to organizations providing free food access for people reliant on SNAP and EBT. In response to the government shutdown and reduced SNAP funding, the tribe is expanding its efforts to support local food banks and providers, including partnering with Snoqualmie Casino & Resort to donate surplus food. Other initiatives include a gas discount at Crescent Market, turkey donations, and grants for licensed childcare facilities to support youth food access.

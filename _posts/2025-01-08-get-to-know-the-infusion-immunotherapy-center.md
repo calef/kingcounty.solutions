@@ -1,8 +1,7 @@
 ---
-title: Get to Know the Infusion & Immunotherapy Center
 date: '2025-01-08T19:32:20+00:00'
-source: Hospital District No. 1 (Valley Medical Center)
-source_url: https://blog.valleymed.org/2025/01/08/get-to-know-the-infusion-immunotherapy-center/?utm_source=rss&utm_medium=rss&utm_campaign=get-to-know-the-infusion-immunotherapy-center
+images:
+- f8fcfadb4d001c913eccd573c82bc8fa561fc11cd966234b86563ce3b307eb13
 original_content: |-
   <div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-9d6595d7 wp-block-columns-is-layout-flex">
   <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
@@ -140,12 +139,13 @@ original_markdown_body: "Valley’s **[Infusion & Immunotherapy Center](http://v
   \ \n_The patients and their families, and the very passionate/compassionate staff
   that serves the patients every day.&nbsp;We have an excellent team of people who
   are focused on providing exceptional care to our patients and families._"
+source: Hospital District No. 1 (Valley Medical Center)
+source_url: https://blog.valleymed.org/2025/01/08/get-to-know-the-infusion-immunotherapy-center/?utm_source=rss&utm_medium=rss&utm_campaign=get-to-know-the-infusion-immunotherapy-center
 summarized: true
+title: Get to Know the Infusion & Immunotherapy Center
 topics:
 - Health Care
 - Mental Health & Counseling
-images:
-- f8fcfadb4d001c913eccd573c82bc8fa561fc11cd966234b86563ce3b307eb13
 ---
 
 Valley's Infusion & Immunotherapy Center is a specialized outpatient clinic that provided care to over 24,500 patients in FY 2024, with expectations to exceed 27,000 in FY 2025. Managed by Chermaine Wulff, the center focuses on delivering a comfortable and safe environment for infusion therapy, including treatments like chemotherapy, immunotherapy, IV antibiotics, blood transfusions, and hydration therapy. The new facility in the East Pavilion prioritizes patient comfort, featuring spacious treatment areas and advanced medical equipment.

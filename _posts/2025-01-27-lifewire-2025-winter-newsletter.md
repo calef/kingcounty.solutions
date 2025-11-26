@@ -1,8 +1,17 @@
 ---
-title: LifeWire 2025 Winter Newsletter
 date: '2025-01-27T20:43:22+00:00'
-source: LifeWire
-source_url: https://www.lifewire.org/lifewire-2025-winter-newsletter/?utm_source=rss&utm_medium=rss&utm_campaign=lifewire-2025-winter-newsletter
+images:
+- 003d99fecdeb2f387847bf7afef90d82fc5456f48862de8e9809dda898708b15
+- 21e14244ecfd566eb59827da0b8835016a34f8f9f9c7d0ea5e383594a5b55fb2
+- 904a56ebffa431256852dd2436654fe34cb96a5eddf33c881e1e699496c5e0cf
+- 89aceb63bb1065b011922bcb48d0793fb812e0ef572d3fff46852c1c9d2f54ae
+- efa76c19ae7212aba377a1d2db8a1eb1b7e7055f7721611fa37a97eee050abbe
+- 78c5e3cc6500365d483f6fae927a523020d878337d7aa5ac61b6fc1471a8b3b8
+- 1100c39324a46965040458b66a657a93622494b6c2e8a224d78a7c21c0a4f8b5
+- bcf94ac1536886d32998ff9e5e2a15b8eae559a9dbd8cf10dfa87446c26eb8b8
+- b34496bcc718797b6987f2e98090be07ad428b2c39224c7babecab2859a48cf9
+- 2bf64470cfc4e53d4df820cdbe4a66ab18ce695db0fcc89f051fefcb10b5f90a
+- eeec0f8d230e4e8a92711cce9e5f17cccb840a1fcc97fc95eeb9c8baa3f07e7f
 original_content: |-
   <figure class="wp-block-image size-full"><img decoding="async" width="1200" height="546" data-attachment-id="8648" data-permalink="https://www.lifewire.org/lifewire-2025-winter-newsletter/header-3/" data-orig-file="https://www.lifewire.org/wp-content/uploads/2025/01/Header-1.jpg" data-orig-size="1200,546" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Header" data-image-description="" data-image-caption="" data-medium-file="https://www.lifewire.org/wp-content/uploads/2025/01/Header-1-600x273.jpg" data-large-file="https://www.lifewire.org/wp-content/uploads/2025/01/Header-1.jpg" src="https://www.lifewire.org/wp-content/uploads/2025/01/Header-1.jpg" alt="" class="wp-image-8648" srcset="https://www.lifewire.org/wp-content/uploads/2025/01/Header-1.jpg 1200w, https://www.lifewire.org/wp-content/uploads/2025/01/Header-1-600x273.jpg 600w, https://www.lifewire.org/wp-content/uploads/2025/01/Header-1-300x137.jpg 300w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
 
@@ -378,22 +387,13 @@ original_markdown_body: "![](https://www.lifewire.org/wp-content/uploads/2025/01
   under Janeira’s capable leadership!\n\n* * *\n\n[Donate today!](https://www.lifewire.org/donate/)\n\nThe
   post [LifeWire 2025 Winter Newsletter](https://www.lifewire.org/lifewire-2025-winter-newsletter/)
   appeared first on [LifeWire](https://www.lifewire.org)."
+source: LifeWire
+source_url: https://www.lifewire.org/lifewire-2025-winter-newsletter/?utm_source=rss&utm_medium=rss&utm_campaign=lifewire-2025-winter-newsletter
 summarized: true
+title: LifeWire 2025 Winter Newsletter
 topics:
 - Domestic Violence
 - Shelter & Housing
-images:
-- 003d99fecdeb2f387847bf7afef90d82fc5456f48862de8e9809dda898708b15
-- 21e14244ecfd566eb59827da0b8835016a34f8f9f9c7d0ea5e383594a5b55fb2
-- 904a56ebffa431256852dd2436654fe34cb96a5eddf33c881e1e699496c5e0cf
-- 89aceb63bb1065b011922bcb48d0793fb812e0ef572d3fff46852c1c9d2f54ae
-- efa76c19ae7212aba377a1d2db8a1eb1b7e7055f7721611fa37a97eee050abbe
-- 78c5e3cc6500365d483f6fae927a523020d878337d7aa5ac61b6fc1471a8b3b8
-- 1100c39324a46965040458b66a657a93622494b6c2e8a224d78a7c21c0a4f8b5
-- bcf94ac1536886d32998ff9e5e2a15b8eae559a9dbd8cf10dfa87446c26eb8b8
-- b34496bcc718797b6987f2e98090be07ad428b2c39224c7babecab2859a48cf9
-- 2bf64470cfc4e53d4df820cdbe4a66ab18ce695db0fcc89f051fefcb10b5f90a
-- eeec0f8d230e4e8a92711cce9e5f17cccb840a1fcc97fc95eeb9c8baa3f07e7f
 ---
 
 LifeWire's 2025 Winter Newsletter highlights the impact of community support on survivors of domestic violence. The story of Erica, who relocated with her two daughters to escape an abusive relationship, emphasizes the crucial assistance provided by LifeWire, including help with housing and essential documentation. The newsletter also celebrates the success of the 1980s-themed World of Hope Gala, which raised over $312,000 to support families affected by domestic violence. The event featured nostalgic entertainment and generous contributions from attendees. 

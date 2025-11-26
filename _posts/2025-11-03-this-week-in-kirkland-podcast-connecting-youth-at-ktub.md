@@ -1,8 +1,6 @@
 ---
-title: "“This Week in Kirkland” Podcast: Connecting Youth at KTUB"
 date: '2025-11-03T23:30:07+00:00'
-source: Youth Eastside Services
-source_url: https://www.youtheastsideservices.org/podcast-ktub/?utm_source=rss&utm_medium=rss&utm_campaign=podcast-ktub
+images: []
 original_content: |-
   <p data-start="161" data-end="670"><em>We’re excited to share that YES Counselor at the <span style="color: #ff6600;"><a style="color: #ff6600;" href="https://www.kirklandwa.gov/Government/Departments/Parks-and-Community-Services/Kirkland-Teen-Union-Building" target="_blank" rel="noopener">Kirkland Teen Union Building (KTUB</a></span>), Katelyn Mullinkin, was featured on the City of Kirkland’s &#8220;This Week in Kirkland&#8221; podcast, and it is such a fun listen. The episode is full of laughter, quick banter, surprising insights, and genuinely animated conversation about teen life, creativity, connectedness, and how KTUB provides a space where young people can belong, be themselves, and access mental health support right in their own neighborhood.</em></p>
   <p data-start="672" data-end="840"><em>Below, we’re highlighting just a few of the great topics and quotes shared in the interview, but we highly recommend listening to the whole episode.</em></p>
@@ -146,11 +144,13 @@ original_markdown_body: |-
   [![donate to youth mental health](https://www.youtheastsideservices.org/wp-content/uploads/2022/08/Fall-2020-Event-Donation-Header.png)](https://interland3.donorperfect.net/weblink/WebLink.aspx?name=yes&id=64)
 
   The post [“This Week in Kirkland” Podcast: Connecting Youth at KTUB](https://www.youtheastsideservices.org/podcast-ktub/) appeared first on [Youth Eastside Services](https://www.youtheastsideservices.org).
+source: Youth Eastside Services
+source_url: https://www.youtheastsideservices.org/podcast-ktub/?utm_source=rss&utm_medium=rss&utm_campaign=podcast-ktub
 summarized: true
+title: "“This Week in Kirkland” Podcast: Connecting Youth at KTUB"
 topics:
 - Education & Learning
 - Mental Health & Counseling
-images: []
 ---
 
 Katelyn Mullinkin, a YES Counselor at the Kirkland Teen Union Building (KTUB), was featured on the City of Kirkland’s “This Week in Kirkland” podcast. The episode highlights the importance of KTUB as a free after-school drop-in center dedicated to teens, providing a safe space for them to socialize, learn, and access mental health support. Mullinkin emphasizes that not all teens feel comfortable seeking help in traditional settings like clinics or schools, making KTUB's informal environment crucial for accessibility.

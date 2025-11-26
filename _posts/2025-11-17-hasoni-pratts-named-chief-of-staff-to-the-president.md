@@ -1,8 +1,6 @@
 ---
-title: Hasoni Pratts named chief of staff to the president
 date: '2025-11-17T20:14:29+00:00'
-source: University of Washington
-source_url: https://www.washington.edu/news/2025/11/17/hasoni-pratts-named-chief-of-staff-to-the-president/
+images: []
 original_content: |-
   <p><span data-contrast="none">University of Washington President Robert J. Jones today appointed Hasoni Pratts to the position of chief of staff to the president. In this pivotal leadership role, Pratts will serve as a senior advisor to the President and play a critical role in advancing the university&#8217;s strategic priorities and institutional goals.</span><span data-ccp-props="{&quot;201341983&quot;:0,&quot;335557856&quot;:16777215,&quot;335559739&quot;:0,&quot;335559740&quot;:240}"> </span></p>
   <div id="attachment_89918" class="wp-caption alignright" style="width: 385px"><img loading="lazy" decoding="async" class="size-half wp-image-89918" src="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/17121023/Hasoni-Pratts-375x377.jpg" alt="Hasoni Pratts" width="375" height="377" srcset="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/17121023/Hasoni-Pratts-375x377.jpg 375w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/17121023/Hasoni-Pratts-298x300.jpg 298w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/17121023/Hasoni-Pratts-1017x1024.jpg 1017w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/17121023/Hasoni-Pratts-150x150.jpg 150w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/17121023/Hasoni-Pratts-768x773.jpg 768w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/17121023/Hasoni-Pratts-1526x1536.jpg 1526w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/17121023/Hasoni-Pratts-2035x2048.jpg 2035w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/17121023/Hasoni-Pratts-750x755.jpg 750w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/17121023/Hasoni-Pratts-1140x1147.jpg 1140w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/17121023/Hasoni-Pratts-50x50.jpg 50w" sizes="auto, (max-width: 375px) 100vw, 375px" /></p>
@@ -45,10 +43,12 @@ original_markdown_body: |-
   &nbsp;# # #
 
   Contact Victor Balta: [balta@uw.edu](mailto:balta@uw.edu).
-summarized: true
-topics: []
-images: []
 published: false
+source: University of Washington
+source_url: https://www.washington.edu/news/2025/11/17/hasoni-pratts-named-chief-of-staff-to-the-president/
+summarized: true
+title: Hasoni Pratts named chief of staff to the president
+topics: []
 ---
 
 Hasoni Pratts has been appointed as the chief of staff to University of Washington President Robert J. Jones. In this key leadership position, she will act as a senior advisor and is tasked with advancing the university's strategic priorities and institutional goals. Pratts has extensive experience in higher education governance and national policy advocacy, currently serving on the New York State Board of Regents and as Senior Advisor to the CEO of the National Urban League. Her expertise includes public policy, education equity, and workforce development.

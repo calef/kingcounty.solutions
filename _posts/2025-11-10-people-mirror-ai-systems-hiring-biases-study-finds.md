@@ -1,8 +1,6 @@
 ---
-title: People mirror AI systems’ hiring biases, study finds
 date: '2025-11-10T15:46:33+00:00'
-source: University of Washington
-source_url: https://www.washington.edu/news/2025/11/10/people-mirror-ai-systems-hiring-biases-study-finds/
+images: []
 original_content: |-
   <div id="attachment_89411" class="wp-caption aligncenter" style="width: 1150px"><img loading="lazy" decoding="async" class="wp-image-89411 size-page" src="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/09/25111643/iStock-1352603244-1140x655.jpg" alt="A person's hands type on a laptop." width="1140" height="655" srcset="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/09/25111643/iStock-1352603244-1140x655.jpg 1140w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/09/25111643/iStock-1352603244-300x172.jpg 300w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/09/25111643/iStock-1352603244-1024x589.jpg 1024w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/09/25111643/iStock-1352603244-768x441.jpg 768w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/09/25111643/iStock-1352603244-1536x883.jpg 1536w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/09/25111643/iStock-1352603244-2048x1177.jpg 2048w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/09/25111643/iStock-1352603244-375x216.jpg 375w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/09/25111643/iStock-1352603244-750x431.jpg 750w" sizes="auto, (max-width: 1140px) 100vw, 1140px" /></p>
   <p class="wp-caption-text">In a new University of Washington study, 528 people worked with simulated LLMs to pick candidates for 16 different jobs, from computer systems analyst to nurse practitioner to housekeeper. The researchers simulated different levels of racial biases in LLM recommendations for resumes from equally qualified white, Black, Hispanic and Asian men.<span class="wp-media-credit">Delmaine Donson/iStock</span></span></p>
@@ -79,10 +77,12 @@ original_markdown_body: |-
   [_Anna-Maria Gueorguieva_](https://www.linkedin.com/in/anna-gueorguieva-a60183196/)_, a UW doctoral student in the Information School, and_ [_Mattea Sim_](https://prism.eng.ufl.edu/about-us/students/)_, a postdoctoral scholar at Indiana University, are also co-authors on this paper. This research was funded by The U.S. National Institute of Standards and Technology._
 
   _For more information, contact Wilson at_ [_kywi@uw.edu_](mailto:kywi@uw.edu) _and Caliskan at_ [_aylin@uw.edu_](mailto:aylin@uw.edu)_._
-summarized: true
-topics: []
 published: false
-images: []
+source: University of Washington
+source_url: https://www.washington.edu/news/2025/11/10/people-mirror-ai-systems-hiring-biases-study-finds/
+summarized: true
+title: People mirror AI systems’ hiring biases, study finds
+topics: []
 ---
 
 A study by the University of Washington found that human hiring decisions closely mirror the biases present in artificial intelligence (AI) systems. Involving 528 participants who evaluated candidates for various jobs, the research simulated different levels of racial bias in AI recommendations. When participants made hiring decisions without AI assistance or with neutral AI, their choices showed little bias. However, when using a moderately biased AI, participants adopted the AI's preferences, favoring non-white candidates if the AI did, and vice versa. In cases of severe bias, participants' decisions aligned nearly 90% with the AI's recommendations.

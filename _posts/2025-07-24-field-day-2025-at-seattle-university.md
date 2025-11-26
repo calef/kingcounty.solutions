@@ -1,8 +1,7 @@
 ---
-title: Field Day 2025 at Seattle University
 date: '2025-07-24T18:31:04+00:00'
-source: Boys & Girls Clubs of King County
-source_url: https://positiveplace.org/field-day-2025-at-seattle-university/
+images:
+- 937847eec74bf197055367e4dc7bba4fbd8ddcc2dacc28b1e12a43f77d52d8c4
 original_content: |-
   <p data-start="156" data-end="361"><img loading="lazy" decoding="async" class="size-full wp-image-11368 aligncenter" src="https://positiveplace.org/wp-content/uploads/2025/07/Field-Day-Logo_Transparent.png" alt="" width="500" height="500" srcset="https://positiveplace.org/wp-content/uploads/2025/07/Field-Day-Logo_Transparent.png 500w, https://positiveplace.org/wp-content/uploads/2025/07/Field-Day-Logo_Transparent-300x300.png 300w, https://positiveplace.org/wp-content/uploads/2025/07/Field-Day-Logo_Transparent-150x150.png 150w, https://positiveplace.org/wp-content/uploads/2025/07/Field-Day-Logo_Transparent-60x60.png 60w, https://positiveplace.org/wp-content/uploads/2025/07/Field-Day-Logo_Transparent-100x100.png 100w" sizes="auto, (max-width: 500px) 100vw, 500px" /></p>
   <p data-start="156" data-end="361"><strong data-start="156" data-end="165">Date:</strong> Thursday, August 21, 2025<br data-start="191" data-end="194" /><strong data-start="194" data-end="207">Location:</strong> Seattle University<br data-start="226" data-end="229" /><strong data-start="229" data-end="237">Who:</strong> Club members and staff from King County summer day camps<br data-start="294" data-end="297" /><strong data-start="297" data-end="321">Expected Attendance:</strong> 475 youth and 75 staff and volunteers</p>
@@ -56,11 +55,12 @@ original_markdown_body: "![](https://positiveplace.org/wp-content/uploads/2025/0
   event is an opportunity for youth to connect, move, and try something new as we
   wrap up an amazing summer of camp.\n\nThe post [Field Day 2025 at Seattle University](https://positiveplace.org/field-day-2025-at-seattle-university/)
   appeared first on [Boys & Girls Clubs](https://positiveplace.org)."
+source: Boys & Girls Clubs of King County
+source_url: https://positiveplace.org/field-day-2025-at-seattle-university/
 summarized: true
+title: Field Day 2025 at Seattle University
 topics:
 - Education & Learning
-images:
-- 937847eec74bf197055367e4dc7bba4fbd8ddcc2dacc28b1e12a43f77d52d8c4
 ---
 
 Field Day 2025 will take place at Seattle University on August 21, 2025, bringing together Club members and staff from King County summer day camps. An expected 475 youth and 75 staff and volunteers will participate in a day filled with games, sports, and hands-on activities, organized in collaboration with various community organizations. Notable activity partners include the Seattle Seahawks, Seattle Majestics, Seattle Seawolves, Ballard FC, Salmon Bay FC, Brooks Running, First Tee Golf, Chill Foundation, and Dance Aerobics. Volunteers from RSM US LLP will provide support to ensure the event runs smoothly. This event aims to foster connections among youth, encourage movement, and offer new experiences as the summer camp season concludes.

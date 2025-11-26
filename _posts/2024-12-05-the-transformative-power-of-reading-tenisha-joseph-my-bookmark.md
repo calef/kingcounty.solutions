@@ -1,19 +1,19 @@
 ---
-title: 'The transformative power of reading: Tenisha Joseph | My Bookmark'
 date: '2024-12-05T20:44:07+00:00'
-source: Reading Partners Seattle
-source_url: https://readingpartners.org/blog/transformative-power-of-reading-my-bookmark/
+images: []
 original_content: '<p>The post <a href="https://readingpartners.org/blog/transformative-power-of-reading-my-bookmark/">The
   transformative power of reading: Tenisha Joseph | My Bookmark</a> appeared first
   on <a href="https://readingpartners.org">Reading Partners</a>.</p>'
 original_markdown_body: 'The post [The transformative power of reading: Tenisha Joseph
   | My Bookmark](https://readingpartners.org/blog/transformative-power-of-reading-my-bookmark/)
   appeared first on [Reading Partners](https://readingpartners.org).'
+source: Reading Partners Seattle
+source_url: https://readingpartners.org/blog/transformative-power-of-reading-my-bookmark/
 summarized: true
+title: 'The transformative power of reading: Tenisha Joseph | My Bookmark'
 topics:
 - Childcare
 - Education & Learning
-images: []
 ---
 
 Tenisha Joseph, talent manager at Reading Partners, reflects on her transformative relationship with reading. Her earliest memory is from Pre-K, where her teacher, Ms. Flood, captivated her class with storytelling. Joseph loved "The Rainbow Fish" for its beautiful illustrations and meaningful lessons about friendship and happiness. As she grew, her reading preferences evolved toward more complex themes, focusing on character development and diverse perspectives.

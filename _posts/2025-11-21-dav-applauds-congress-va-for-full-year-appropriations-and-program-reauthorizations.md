@@ -1,8 +1,7 @@
 ---
-title: DAV applauds Congress & VA for full year appropriations and program reauthorizations
 date: '2025-11-21T16:17:19+00:00'
-source: Disabled American Veterans
-source_url: https://www.dav.org/learn-more/news/2025/dav-applauds-congress-va-for-full-year-appropriations-and-program-reauthorizations/
+images:
+- db94e72c4837a19cae513d61ded92a68f2f4398f61c148a290f153f1250849af
 original_content: "<div class=\"editor clearfix\">\n\n    \n    <figure id=\"attachment_54651\"
   aria-describedby=\"caption-attachment-54651\" style=\"width: 300px\" class=\"wp-caption
   alignleft\"><img fetchpriority=\"high\" decoding=\"async\" class=\"wp-image-54651
@@ -39,7 +38,10 @@ original_markdown_body: |-
   DAV applauds Congress and VA for working together to pass VA’s full year appropriation that will help keep the promise to America’s veterans.
 
   The post [DAV applauds Congress & VA for full year appropriations and program reauthorizations](https://www.dav.org/learn-more/news/2025/dav-applauds-congress-va-for-full-year-appropriations-and-program-reauthorizations/) appeared first on [DAV](https://www.dav.org).
+source: Disabled American Veterans
+source_url: https://www.dav.org/learn-more/news/2025/dav-applauds-congress-va-for-full-year-appropriations-and-program-reauthorizations/
 summarized: true
+title: DAV applauds Congress & VA for full year appropriations and program reauthorizations
 topics:
 - Disabilities
 - Domestic Violence
@@ -48,8 +50,6 @@ topics:
 - Health Care
 - Mental Health & Counseling
 - Shelter & Housing
-images:
-- db94e72c4837a19cae513d61ded92a68f2f4398f61c148a290f153f1250849af
 ---
 
 On November 12, Congress passed legislation to temporarily reopen the federal government, which includes full funding for the Department of Veterans Affairs (VA) for fiscal year 2026, preventing any further funding lapses or furloughs. This action provides immediate relief to veterans, their families, caregivers, and survivors affected by the recent government shutdown. The legislation also reauthorizes critical programs that had expired in September, addressing issues such as homelessness among veterans, suicide prevention, and long-term nursing home care for severely disabled individuals. DAV National Commander Coleman Nee expressed appreciation for the collaboration between Congress and the VA in securing these vital appropriations and program reauthorizations, emphasizing their importance in fulfilling the promise made to America’s veterans.

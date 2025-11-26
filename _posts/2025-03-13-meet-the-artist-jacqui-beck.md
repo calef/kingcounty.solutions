@@ -1,8 +1,6 @@
 ---
-title: 'Meet the Artist: Jacqui Beck'
 date: '2025-03-13T20:02:13+00:00'
-source: SouthEast Effective Development
-source_url: https://www.seedseattle.org/meet-the-artist-jacqui-beck/
+images: []
 original_content: |-
   <p>Jacqui Beck creates paintings using acrylics &amp; mixed media in her <a href="https://www.seedseattle.org/seedarts-studios/">SEEDArts studio</a>. She is also a member artist of <a href="https://columbiacitygallery.com/" target="_blank" rel="noreferrer noopener">Columbia City Gallery</a>.</p>
 
@@ -36,10 +34,12 @@ original_markdown_body: |-
   [Learn more about Jacqui.](http://www.jacquibeck.com/)
 
   The post [Meet the Artist: Jacqui Beck](https://www.seedseattle.org/meet-the-artist-jacqui-beck/) appeared first on [SouthEast Effective Development](https://www.seedseattle.org).
-summarized: true
-topics: []
 published: false
-images: []
+source: SouthEast Effective Development
+source_url: https://www.seedseattle.org/meet-the-artist-jacqui-beck/
+summarized: true
+title: 'Meet the Artist: Jacqui Beck'
+topics: []
 ---
 
 Jacqui Beck is an artist based in the SEEDArts studio, known for her colorful and expressive acrylic and mixed media paintings. As a member of the Columbia City Gallery, her work often features animal totem protectors that symbolize the strength of individuals and their loved ones. Beck emphasizes a blend of depth and whimsy in her art, incorporating elements of paradox, irony, and humor. She highlights that true protectors may not always be recognizable and can take on various forms, including whimsical or imaginary animals. Her creative process reflects the unpredictability of life, as she navigates between intention and spontaneity, deciding which elements to enhance or remove. Through her artwork, Beck examines profound themes such as strength, fear, confusion, curiosity, and joy, making her paintings a personal exploration of the human experience.

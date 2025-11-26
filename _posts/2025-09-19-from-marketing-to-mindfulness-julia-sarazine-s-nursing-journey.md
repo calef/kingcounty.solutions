@@ -1,8 +1,6 @@
 ---
-title: 'From Marketing to Mindfulness: Julia Sarazine’s Nursing Journey '
 date: '2025-09-19T23:13:09+00:00'
-source: Shoreline Community College
-source_url: https://news.shoreline.edu/2025/09/19/from-marketing-to-mindfulness-julia-sarazines-nursing-journey/
+images: []
 original_content: '<div class="wp-rss-image" style="margin-bottom:20px;max-width:
   600px !important;padding-top: 0.75em;"><img width="214" height="300" src="https://i0.wp.com/news.shoreline.edu/wp-content/uploads/2025/09/Julia-Sarazine-headshot-1.jpg?fit=214%2C300&amp;ssl=1"
   class="attachment-medium size-medium wp-post-image" alt="" decoding="async" loading="lazy"
@@ -25,11 +23,13 @@ original_content: '<div class="wp-rss-image" style="margin-bottom:20px;max-width
 original_markdown_body: |-
   ![](https://i0.wp.com/news.shoreline.edu/wp-content/uploads/2025/09/Julia-Sarazine-headshot-1.jpg?fit=214%2C300&ssl=1)
   Class of 1993&nbsp; After a soul-searching cross-country bicycle trip in 1990, former business marketing professional, Julia Sarazine knew she wanted a career rooted in service, flexibility, and human connection. That journey led her to Shoreline Community College’s Nursing Program, where she found not only a top-tier education but also lifelong friendships and a strong foundation …
+source: Shoreline Community College
+source_url: https://news.shoreline.edu/2025/09/19/from-marketing-to-mindfulness-julia-sarazines-nursing-journey/
 summarized: true
+title: 'From Marketing to Mindfulness: Julia Sarazine’s Nursing Journey '
 topics:
 - Education & Learning
 - Health Care
-images: []
 ---
 
 Julia Sarazine, a Class of 1993 graduate, transitioned from a marketing career to nursing after a transformative bike trip across the U.S. in 1990, seeking a vocation that emphasized service and human connection. She enrolled in Shoreline Community College’s Nursing Program, where she gained a solid education and forged lasting friendships. Julia became a board-certified family nurse practitioner, earning her doctorate and working in various fields, including general medicine and palliative care. She later founded Sarazine Mindfulness, LLC, teaching mindfulness to over 3,500 individuals, including healthcare professionals and veterans.

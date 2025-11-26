@@ -1,8 +1,6 @@
 ---
-title: Valley Medical Center Makes Operational Changes in Response to Financial Challenges
 date: '2025-05-16T00:10:48+00:00'
-source: Hospital District No. 1 (Valley Medical Center)
-source_url: https://blog.valleymed.org/2025/05/15/valley-medical-center-makes-operational-changes-in-response-to-financial-challenges/?utm_source=rss&utm_medium=rss&utm_campaign=valley-medical-center-makes-operational-changes-in-response-to-financial-challenges
+images: []
 original_content: |-
   <p><img width="300" height="163" src="https://blog.valleymed.org/wp-content/uploads/2025/05/Valley-Medical-Center-Exterior-800x500-1-300x163.png" class="attachment-medium size-medium wp-post-image" alt="Exterior shot of the Valley Medical Center hospital building with the sun setting behind it" decoding="async" loading="lazy" srcset="https://blog.valleymed.org/wp-content/uploads/2025/05/Valley-Medical-Center-Exterior-800x500-1-300x163.png 300w, https://blog.valleymed.org/wp-content/uploads/2025/05/Valley-Medical-Center-Exterior-800x500-1.png 600w" sizes="auto, (max-width: 300px) 100vw, 300px" /></p>
   <p><em>Last updated 6/4/25 &#8211; Scroll down for answers to Frequently Asked Questions</em></p>
@@ -638,11 +636,13 @@ original_markdown_body: "![Exterior shot of the Valley Medical Center hospital b
   central number to call for help navigating this change?**\n\n**A:** We are asking
   patients to call the clinic where they receive care. If your concerns are still
   not resolved, you can contact Patient Relations at 425.690.3403."
+source: Hospital District No. 1 (Valley Medical Center)
+source_url: https://blog.valleymed.org/2025/05/15/valley-medical-center-makes-operational-changes-in-response-to-financial-challenges/?utm_source=rss&utm_medium=rss&utm_campaign=valley-medical-center-makes-operational-changes-in-response-to-financial-challenges
 summarized: true
+title: Valley Medical Center Makes Operational Changes in Response to Financial Challenges
 topics:
 - Health Care
 - Financial Assistance
-images: []
 ---
 
 On May 12, 2025, Valley Medical Center announced operational changes due to significant financial challenges, including a year-to-date operating loss of $25 million. To address these issues, the center will restructure its workforce and consolidate or close several clinics and departments over the next two months. More than 50% of staff will transition from part-time to full-time roles, with employees encouraged to apply for open positions or consider relocation options. Key units closing include the Northwest Pavilion and Pediatric Inpatient services, while various clinics, such as Kent Primary Care and the Maternal Fetal Medicine Clinic, will close or consolidate with other locations.

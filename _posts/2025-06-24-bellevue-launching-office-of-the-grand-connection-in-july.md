@@ -1,8 +1,6 @@
 ---
-title: Bellevue launching Office of the Grand Connection in July
 date: '2025-06-24T22:03:57+00:00'
-source: City of Bellevue
-source_url: https://bellevuewa.gov/city-news/bellevue-launching-office-grand-connection-july
+images: []
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Bellevue
   launching Office of the Grand Connection in July </span>\n<span class=\"field field--name-uid
   field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/mdegrand\"
@@ -114,10 +112,12 @@ original_markdown_body: |-
   More information is available at [Bellevue Grand Connection](https://www.bellevuegrandconnection.com/ "Link to city website").
 
   <time datetime="2025-06-24T12:00:00Z" class="datetime">June 24 2025</time>
-summarized: true
-topics: []
 published: false
-images: []
+source: City of Bellevue
+source_url: https://bellevuewa.gov/city-news/bellevue-launching-office-grand-connection-july
+summarized: true
+title: Bellevue launching Office of the Grand Connection in July
+topics: []
 ---
 
 The City of Bellevue will launch the Office of the Grand Connection on July 16, aimed at enhancing the city's main pedestrian corridor and advancing the design of the Grand Connection Crossing over Interstate 405 to Eastrail. Nathan Torgelson, an experienced leader in urban planning and land use, will direct the office starting June 30, overseeing all aspects of the Grand Connection program. The crossing is pivotal for improving connectivity in the downtown core and has already achieved a 30% design milestone.

@@ -1,8 +1,7 @@
 ---
-title: 'Turning the Page Together: Light the Way 2025 Recap'
 date: '2025-10-15T23:53:11+00:00'
-source: PorchLight
-source_url: https://porchlightcares.org/2025/10/turning-the-page-together-light-the-way-2025-recap/
+images:
+- 4fdf634f8e2d9acd0422227e42b3947d305b989a74b3670d8df4da23b7be127d
 original_content: "<div data-elementor-type=\"wp-post\" data-elementor-id=\"10836\"
   class=\"elementor elementor-10836\" data-elementor-post-type=\"post\">\n\t\t\t\t\t\t<section
   class=\"has_eae_slider elementor-section elementor-top-section elementor-element
@@ -140,12 +139,13 @@ original_markdown_body: "<section class=\"has_eae_slider elementor-section eleme
   class=\"elementor-button elementor-button-link elementor-size-sm\" href=\"https://secure.lglforms.com/form_engine/s/OgZbpNNEGGXJDCTrN6Zc2A?t=1760572398\">\n\t\t\t\t\t\t<span
   class=\"elementor-button-content-wrapper\">\n\t\t\t\t\t\t\t\t\t<span class=\"elementor-button-text\">Donate
   Now and Help Rewrite the Story</span>\n\t\t\t\t\t</span>\n\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>"
+source: PorchLight
+source_url: https://porchlightcares.org/2025/10/turning-the-page-together-light-the-way-2025-recap/
 summarized: true
+title: 'Turning the Page Together: Light the Way 2025 Recap'
 topics:
 - Shelter & Housing
 - Food & Nutrition
-images:
-- 4fdf634f8e2d9acd0422227e42b3947d305b989a74b3670d8df4da23b7be127d
 ---
 
 The annual Light the Way Luncheon celebrated community impact and the resilience of those experiencing homelessness. Attendees shared powerful stories, including Programs Coordinator Aania Simpkin's personal experience with homelessness and Glen's transition from living in his car to securing a home. These narratives underscored the potential for transformation through compassion and community support. The event highlighted the importance of collaboration among guests, donors, volunteers, and staff, all united by the belief that everyone deserves a chance for a better life. 

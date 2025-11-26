@@ -1,8 +1,7 @@
 ---
-title: 'Meet Dr. Jody Rhoades: Primary Care that Comes to You!'
 date: '2025-11-07T18:36:41+00:00'
-source: Pacific Medical Centers
-source_url: https://www.pacificmedicalcenters.org/news/meet-dr-jody-rhoades-primary-care-that-comes-to-you/
+images:
+- da795fb72933fa9fccff8682259895746ad58d120aa7698e113f3fcf36ed3528
 original_content: |-
   <h3><strong>Wherever Life Takes You, Care Is Just a Click Away</strong></h3>
   <p><img fetchpriority="high" decoding="async" class="wp-image-11595 size-medium alignleft" src="https://www.pacificmedicalcenters.org/wp-content/uploads/2025/11/RHOADES-4-300x300.jpg" alt="" width="300" height="300" srcset="https://www.pacificmedicalcenters.org/wp-content/uploads/2025/11/RHOADES-4-300x300.jpg 300w, https://www.pacificmedicalcenters.org/wp-content/uploads/2025/11/RHOADES-4-1024x1024.jpg 1024w, https://www.pacificmedicalcenters.org/wp-content/uploads/2025/11/RHOADES-4-150x150.jpg 150w, https://www.pacificmedicalcenters.org/wp-content/uploads/2025/11/RHOADES-4-768x768.jpg 768w, https://www.pacificmedicalcenters.org/wp-content/uploads/2025/11/RHOADES-4-1536x1536.jpg 1536w, https://www.pacificmedicalcenters.org/wp-content/uploads/2025/11/RHOADES-4.jpg 1632w" sizes="(max-width: 300px) 100vw, 300px" /></p>
@@ -63,11 +62,12 @@ original_markdown_body: |-
   - Motor Vehicle Accident (MVA) claims
 
   The post [Meet Dr. Jody Rhoades: Primary Care that Comes to You!](https://www.pacificmedicalcenters.org/news/meet-dr-jody-rhoades-primary-care-that-comes-to-you/) appeared first on [Pacific Medical Centers](https://www.pacificmedicalcenters.org).
+source: Pacific Medical Centers
+source_url: https://www.pacificmedicalcenters.org/news/meet-dr-jody-rhoades-primary-care-that-comes-to-you/
 summarized: true
+title: 'Meet Dr. Jody Rhoades: Primary Care that Comes to You!'
 topics:
 - Health Care
-images:
-- da795fb72933fa9fccff8682259895746ad58d120aa7698e113f3fcf36ed3528
 ---
 
 Dr. Jody Rhoades offers virtual primary care services for established patients at PacMed, providing accessible health care through Connected Video Visits. She emphasizes a collaborative approach, empowering patients to take charge of their health and work towards a happy, healthy lifestyle. Licensed in Arizona, New Mexico, and Washington, Dr. Rhoades is available for various services, including acute urgent visits, chronic condition management, and hospital follow-ups, all appropriate for video appointments. However, she does not accept new patients, conduct annual physical exams, refill controlled substances, or handle specific claims like Labor & Industries (L&I) or motor vehicle accidents. Established PacMed patients can schedule appointments with Dr. Rhoades by calling 1.888.472.2633 or using MyChart.

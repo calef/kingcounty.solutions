@@ -1,9 +1,7 @@
 ---
-title: 'Council Roundup: Updates provided on Affordable Housing progress and the Multifamily
-  Tax Exemption Program'
 date: '2025-10-27T03:10:52+00:00'
-source: City of Bellevue
-source_url: https://bellevuewa.gov/city-news/council-roundup-updates-provided-affordable-housing-progress-multifamily-tax-exemption-program
+images:
+- 5d4593d7334a078570bfaf06b17cc2f4e9abab7c2fcaa467737392306cf3ea0c
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Council
   Roundup: Updates provided on Affordable Housing progress and the Multifamily Tax
   Exemption Program</span>\n<span class=\"field field--name-uid field--type-entity-reference
@@ -121,12 +119,14 @@ original_markdown_body: "Council Roundup: Updates provided on Affordable Housing
   safety and services.\n\nThe full presentation and discussion is available on [Bellevue
   Television](https://youtu.be/tbrU6EJyQaQ?t=1458).  \n&nbsp;\n\n<time datetime=\"2025-10-24T12:00:00Z\"
   class=\"datetime\">October 24 2025</time>"
+source: City of Bellevue
+source_url: https://bellevuewa.gov/city-news/council-roundup-updates-provided-affordable-housing-progress-multifamily-tax-exemption-program
 summarized: true
+title: 'Council Roundup: Updates provided on Affordable Housing progress and the Multifamily
+  Tax Exemption Program'
 topics:
 - Shelter & Housing
 - Financial Assistance
-images:
-- 5d4593d7334a078570bfaf06b17cc2f4e9abab7c2fcaa467737392306cf3ea0c
 ---
 
 At a recent City Council meeting, updates were provided on Bellevue's Affordable Housing Strategy and the Multifamily Tax Exemption (MFTE) program. The Affordable Housing Strategy aims to build or preserve 5,700 affordable units over the next decade, with a focus on new housing opportunities in the next seven years. Community engagement has reached over 450 residents and 50 organizations, including events like the Affordable Housing Better Cities Film Festival. A draft of the strategy will be presented to the Council in January 2026.

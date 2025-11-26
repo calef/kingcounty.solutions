@@ -1,8 +1,6 @@
 ---
-title: Movies under the stars at Downtown and Crossroads parks
 date: '2025-07-15T23:57:20+00:00'
-source: City of Bellevue
-source_url: https://bellevuewa.gov/city-news/outdoor-movies-25
+images: []
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Movies
   under the stars at Downtown and Crossroads parks</span>\n<span class=\"field field--name-uid
   field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"
@@ -70,10 +68,12 @@ original_markdown_body: "Movies under the stars at Downtown and Crossroads parks
   SPIRIT 105.3. Crossroads Movies in the Park is being sponsored by the Crossroads
   Bellevue Shopping Center.\n\n<time datetime=\"2025-07-15T12:00:00Z\" class=\"datetime\">July
   15 2025</time>"
-summarized: true
-topics: []
 published: false
-images: []
+source: City of Bellevue
+source_url: https://bellevuewa.gov/city-news/outdoor-movies-25
+summarized: true
+title: Movies under the stars at Downtown and Crossroads parks
+topics: []
 ---
 
 Movies in the Park returns to Bellevue with screenings at Downtown Park and Crossroads Park. Downtown Park will host films on Tuesdays from July 15 to August 12, while Crossroads Park will feature movies on Thursdays from July 31 to August 21. Each event will start with pre-movie entertainment including local musicians and vendors at 7 p.m., followed by the movie screening at dusk.

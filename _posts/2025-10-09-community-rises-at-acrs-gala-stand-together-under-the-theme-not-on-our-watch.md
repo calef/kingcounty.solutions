@@ -1,8 +1,6 @@
 ---
-title: Community Rises at ACRS Gala, Stand Together Under the Theme ‘Not On Our Watch’
 date: '2025-10-09T17:24:19+00:00'
-source: Asian Counseling and Referral Service
-source_url: https://acrs.org/community-rises-at-2025-acrs-gala-as-ceo-kendee-yamaguchi-announces-relaunch-of-legal-clinic/
+images: []
 original_content: |-
   <p data-start="431" data-end="723"><strong data-start="431" data-end="468">BELLEVUE, Wash. — October 6, 2025</strong> — More than 350 community members, advocates, and supporters gathered for the <strong data-start="547" data-end="595">Asian Counseling and Referral Service (ACRS)</strong> Annual Benefit Gala on <strong data-start="619" data-end="632">October 4</strong> at the <strong data-start="640" data-end="666">Hyatt Regency Bellevue</strong>, coming together under the theme <em data-start="700" data-end="721">“Not on Our Watch.”</em></p>
   <p data-start="725" data-end="1081">The evening was filled with powerful performances, moving stories, and a collective spirit of resilience — culminating in an address by <strong data-start="861" data-end="897">ACRS’s new CEO, Kendee Yamaguchi</strong>, who announced the <strong data-start="917" data-end="952">relaunch of ACRS’s Legal Clinic</strong> this fall in partnership with the <strong data-start="987" data-end="1033">Asian Bar Association of Washington (ABAW)</strong> and the <strong data-start="1042" data-end="1080">King County Bar Association (KCBA)</strong>.</p>
@@ -112,7 +110,10 @@ original_markdown_body: "**BELLEVUE, Wash. — October 6, 2025** — More than 3
   credit: Charissa Soriano\n\nThe post [Community Rises at ACRS Gala, Stand Together
   Under the Theme ‘Not On Our Watch’](https://acrs.org/community-rises-at-2025-acrs-gala-as-ceo-kendee-yamaguchi-announces-relaunch-of-legal-clinic/)
   appeared first on [ACRS](https://acrs.org)."
+source: Asian Counseling and Referral Service
+source_url: https://acrs.org/community-rises-at-2025-acrs-gala-as-ceo-kendee-yamaguchi-announces-relaunch-of-legal-clinic/
 summarized: true
+title: Community Rises at ACRS Gala, Stand Together Under the Theme ‘Not On Our Watch’
 topics:
 - Disabilities
 - Domestic Violence
@@ -120,7 +121,6 @@ topics:
 - Health Care
 - Mental Health & Counseling
 - Shelter & Housing
-images: []
 ---
 
 More than 350 community members gathered at the Asian Counseling and Referral Service (ACRS) Annual Benefit Gala in Bellevue, Washington, on October 4, 2025, under the theme “Not on Our Watch.” The event featured performances and speeches that emphasized resilience and community spirit. Kendee Yamaguchi, ACRS’s new CEO, announced the relaunch of ACRS's Legal Clinic, which aims to provide support to families facing challenges like deportation and discrimination, in partnership with the Asian Bar Association of Washington and the King County Bar Association. Yamaguchi highlighted ACRS’s commitment to equity and justice, stating, “No one faces those challenges alone.” The gala included performances from Seattle Kokon Taiko and the Massive Monkees, and featured guest speaker Tessa Hulls, who shared her family's journey through trauma and the importance of community care. The evening honored the contributions of John Chen Beckwith and Dean Wong, recognizing their dedication to ACRS and the community. ACRS expressed gratitude to sponsors, including TMS, Amazon, and Microsoft, whose support enables the organization to provide vital services to immigrant and refugee communities across the region. ACRS serves nearly 30,000 individuals annually through various programs focused on health and well-being.

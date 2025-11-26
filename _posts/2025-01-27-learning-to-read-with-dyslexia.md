@@ -1,17 +1,17 @@
 ---
-title: Learning to read with dyslexia
 date: '2025-01-27T23:49:40+00:00'
-source: Reading Partners Seattle
-source_url: https://readingpartners.org/blog/learning-to-read-with-dyslexia/
+images: []
 original_content: <p>The post <a href="https://readingpartners.org/blog/learning-to-read-with-dyslexia/">Learning
   to read with dyslexia</a> appeared first on <a href="https://readingpartners.org">Reading
   Partners</a>.</p>
 original_markdown_body: The post [Learning to read with dyslexia](https://readingpartners.org/blog/learning-to-read-with-dyslexia/)
   appeared first on [Reading Partners](https://readingpartners.org).
+source: Reading Partners Seattle
+source_url: https://readingpartners.org/blog/learning-to-read-with-dyslexia/
 summarized: true
+title: Learning to read with dyslexia
 topics:
 - Education & Learning
-images: []
 ---
 
 Dyslexia is a learning deficit that affects language processing, making reading, spelling, and writing challenging. Students with dyslexia often struggle with remembering letter names and sounds, blending sounds, and recognizing sight words. They may substitute words while reading aloud or confuse letters that look or sound similar. Despite these difficulties, learners with dyslexia can succeed in reading through creative and individualized instruction that emphasizes their strengths. 

@@ -1,8 +1,7 @@
 ---
-title: 'The Impact of the Seattle Preschool Program: A Provider’s Perspective'
 date: '2025-10-28T19:30:17+00:00'
-source: BrightSpark
-source_url: https://www.brightspark.org/2025/10/the-impact-of-the-seattle-preschool-program-a-providers-perspective/
+images:
+- 73520e997ab6792a12cca20582b7d604b2734e0c28a9275feaf07de86f84d31e
 original_content: |-
   <p>This year, state legislators made major cuts to many critical statewide early learning programs, leaving countless children and families without access to high-quality care. However, Seattle voters still have the opportunity to protect and expand early learning opportunities within the city by renewing the Family, Education, Preschool, and Promise (FEPP) levy in November.</p>
 
@@ -110,11 +109,12 @@ original_markdown_body: |-
   [**Learn more about Proposal 1, the FEPP Levy, and SPP here!**](http://brightspark.org/fepp)
 
   The post [The Impact of the Seattle Preschool Program: A Provider’s Perspective](https://www.brightspark.org/2025/10/the-impact-of-the-seattle-preschool-program-a-providers-perspective/) appeared first on [BrightSpark](https://www.brightspark.org).
+source: BrightSpark
+source_url: https://www.brightspark.org/2025/10/the-impact-of-the-seattle-preschool-program-a-providers-perspective/
 summarized: true
+title: 'The Impact of the Seattle Preschool Program: A Provider’s Perspective'
 topics:
 - Education & Learning
-images:
-- 73520e997ab6792a12cca20582b7d604b2734e0c28a9275feaf07de86f84d31e
 ---
 
 This year, significant state cuts to early learning programs have left many families without access to quality child care. However, Seattle voters can still support early learning by renewing the Family, Education, Preschool, and Promise (FEPP) levy in November. This levy aims to raise over $650 million for early learning initiatives, including the Seattle Preschool Program (SPP), which serves low-income families with a nationally-accredited curriculum and coaching for child care providers. 

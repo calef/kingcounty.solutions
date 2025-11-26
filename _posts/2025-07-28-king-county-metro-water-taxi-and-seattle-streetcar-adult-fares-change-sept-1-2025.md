@@ -1,14 +1,23 @@
 ---
-title: King County Metro, Water Taxi and Seattle Streetcar adult fares change Sept. 1, 2025
 date: '2025-07-28T22:52:32+00:00'
+images: []
+original_content: Adult fares are changing Sept. 1, 2025, on King County Metro buses,
+  Metro Flex, both Seattle Streetcar lines and both King County Water Taxi routes.
+  ORCA LIFT fares on both Water Taxi routes are also changing. Reduced fare rates
+  for Senior, Disabled, Youth, and ORCA LIFT riders will remain unchanged everywhere
+  else. The new adult&#8230;
+original_markdown_body: Adult fares are changing Sept. 1, 2025, on King County Metro
+  buses, Metro Flex, both Seattle Streetcar lines and both King County Water Taxi
+  routes. ORCA LIFT fares on both Water Taxi routes are also changing. Reduced fare
+  rates for Senior, Disabled, Youth, and ORCA LIFT riders will remain unchanged everywhere
+  else. The new adult…
 source: King County Ferry District
 source_url: https://kingcountywatertaxiblog.com/2025/07/28/king-county-metro-water-taxi-and-seattle-streetcar-adult-fares-change-sept-1-2025/
-original_content: Adult fares are changing Sept. 1, 2025, on King County Metro buses, Metro Flex, both Seattle Streetcar lines and both King County Water Taxi routes. ORCA LIFT fares on both Water Taxi routes are also changing. Reduced fare rates for Senior, Disabled, Youth, and ORCA LIFT riders will remain unchanged everywhere else. The new adult&#8230;
-original_markdown_body: Adult fares are changing Sept. 1, 2025, on King County Metro buses, Metro Flex, both Seattle Streetcar lines and both King County Water Taxi routes. ORCA LIFT fares on both Water Taxi routes are also changing. Reduced fare rates for Senior, Disabled, Youth, and ORCA LIFT riders will remain unchanged everywhere else. The new adult…
 summarized: true
+title: King County Metro, Water Taxi and Seattle Streetcar adult fares change Sept.
+  1, 2025
 topics:
 - Transportation & Mobility
-images: []
 ---
 
 Adult fares for King County Metro buses, Metro Flex, Seattle Streetcar lines, and King County Water Taxi routes will increase on September 1, 2025. The new adult fare will be $3, aligning with Sound Transit’s flat fare. The Metro Vanpool/Transit pass will rise from $99 to $108. This marks the first adult fare increase for Metro buses since 2018. 

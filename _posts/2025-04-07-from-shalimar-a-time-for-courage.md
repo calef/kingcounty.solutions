@@ -1,8 +1,6 @@
 ---
-title: 'From Shalimar: A time for courage'
 date: '2025-04-07T20:46:48+00:00'
-source: Solid Ground
-source_url: https://www.solid-ground.org/from-shalimar-a-time-for-courage/
+images: []
 original_content: |-
   <p><img width="361" height="255" src="https://s14621.pcdn.co/wp-content/uploads/2025/04/ShalimarGonzales-50thGala_Converge-JS_5.8.24-41x801-1-361x255.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="A woman in a bright yellow sports coat gestures with her hands while speaking at a lecturn." decoding="async" srcset="https://s14621.pcdn.co/wp-content/uploads/2025/04/ShalimarGonzales-50thGala_Converge-JS_5.8.24-41x801-1-361x255.jpg 361w, https://s14621.pcdn.co/wp-content/uploads/2025/04/ShalimarGonzales-50thGala_Converge-JS_5.8.24-41x801-1-300x212.jpg 300w, https://s14621.pcdn.co/wp-content/uploads/2025/04/ShalimarGonzales-50thGala_Converge-JS_5.8.24-41x801-1-768x543.jpg 768w, https://s14621.pcdn.co/wp-content/uploads/2025/04/ShalimarGonzales-50thGala_Converge-JS_5.8.24-41x801-1.jpg 801w" sizes="(max-width: 361px) 100vw, 361px" data-attachment-id="69013" data-permalink="https://www.solid-ground.org/from-shalimar-a-time-for-courage/shalimargonzales-50thgala_converge-js_5-8-24-41x801/" data-orig-file="https://s14621.pcdn.co/wp-content/uploads/2025/04/ShalimarGonzales-50thGala_Converge-JS_5.8.24-41x801-1.jpg" data-orig-size="801,566" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;X-H2S&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1715219571&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;119.2&quot;,&quot;iso&quot;:&quot;1600&quot;,&quot;shutter_speed&quot;:&quot;0.008&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="ShalimarGonzales-50thGala_Converge-JS_5.8.24-41&#215;801" data-image-description="" data-image-caption="&lt;p&gt;Shalimar Gonzales at Solid Ground&#8217;s 50th Anniversary Gala in 2024. (Photo by Jordan Somers, Converge Media)&lt;/p&gt;
   " data-medium-file="https://s14621.pcdn.co/wp-content/uploads/2025/04/ShalimarGonzales-50thGala_Converge-JS_5.8.24-41x801-1-300x212.jpg" data-large-file="https://s14621.pcdn.co/wp-content/uploads/2025/04/ShalimarGonzales-50thGala_Converge-JS_5.8.24-41x801-1.jpg" /></p><h4 class="tmc-medium"><span style="color: #4d5909;"><em>Dear friends, </em></span></h4>
@@ -79,12 +77,14 @@ original_markdown_body: "![A woman in a bright yellow sports coat gestures with 
   Solid Ground’s 50th Anniversary Gala in 2024 (photo by Jordan Somers, Converge Media)\n\nThe
   post [From Shalimar: A time for courage](https://www.solid-ground.org/from-shalimar-a-time-for-courage/)
   appeared first on [Solid Ground](https://www.solid-ground.org)."
+source: Solid Ground
+source_url: https://www.solid-ground.org/from-shalimar-a-time-for-courage/
+summarized: true
+title: 'From Shalimar: A time for courage'
 topics:
 - Food & Nutrition
 - Mental Health & Counseling
 - Shelter & Housing
-summarized: true
-images: []
 ---
 
 In a heartfelt message, Shalimar Gonzales, CEO of Solid Ground, addresses the pressing challenges faced by marginalized communities, particularly immigrants, LGBTQ individuals, and BIPOC populations. She expresses the fear and anger that many feel in response to recent threats from the federal government, including executive orders and funding cuts that jeopardize vital services for vulnerable neighbors. Gonzales emphasizes the need for courage in these times, asserting Solid Ground's unwavering commitment to countering racism and oppression. Despite facing potential cuts to federal funding, which could significantly impact their ability to provide essential support in King County, Solid Ground plans to enhance community partnerships and services, like food access and behavioral health support. Gonzales calls for solidarity and courage from the community to resist these threats and ensure that Solid Ground remains steadfast in its mission, regardless of the challenges ahead. She concludes by urging everyone to stand together, highlighting the importance of courage during such critical moments.

@@ -1,8 +1,6 @@
 ---
-title: Carbon-rich waters are becoming even more acidic as atmospheric CO2 levels rise
 date: '2025-11-13T15:20:42+00:00'
-source: University of Washington
-source_url: https://www.washington.edu/news/2025/11/13/carbon-rich-waters-are-becoming-more-acidic-faster/
+images: []
 original_content: |-
   <div id="attachment_89854" class="wp-caption aligncenter" style="width: 760px"><img loading="lazy" decoding="async" class="wp-image-89854 size-full-content" src="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/12120444/z-40.jpg-clean-resized-750x505.jpg" alt="Bright orange corals growing on dark rocks in the ocean." width="750" height="505" srcset="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/12120444/z-40.jpg-clean-resized-750x505.jpg 750w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/12120444/z-40.jpg-clean-resized-300x202.jpg 300w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/12120444/z-40.jpg-clean-resized-1024x690.jpg 1024w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/12120444/z-40.jpg-clean-resized-768x517.jpg 768w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/12120444/z-40.jpg-clean-resized-1536x1035.jpg 1536w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/12120444/z-40.jpg-clean-resized-375x253.jpg 375w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/12120444/z-40.jpg-clean-resized-1140x768.jpg 1140w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/12120444/z-40.jpg-clean-resized.jpg 1700w" sizes="auto, (max-width: 750px) 100vw, 750px" /></p>
   <p class="wp-caption-text">Orange cup corals, pictured growing on rocks above, are native to the Pacific Ocean. As they grow, corals incorporate minerals from seawater, leaving a valuable historical record in their skeletons. In this University of Washington-led study, researchers compare preindustrial corals to modern specimens to show how quickly the ocean is acidifying.<a href="http://bobevansphotography.com"><span class="wp-media-credit">Bob Evans</span></a></span></p>
@@ -88,10 +86,13 @@ original_markdown_body: |-
   _Co-authors include_ [_Curtis A. Deutsch_](https://geosciences.princeton.edu/people/curtis-deutsch) _at Princeton;_ [_Hana Jurikova_](https://www.st-andrews.ac.uk/earth-sciences/people/hj43/) _and_ [_James W.B. Rae_](https://www.jameswbrae.com/) _at the University of St. Andrews;_ [_Hartmut Frenzel_](https://www.pmel.noaa.gov/people/hartmut-frenzel) _and_ [_Simone R. Alin_](https://www.pmel.noaa.gov/people/dr-simone-alin) _at NOAA’s Pacific Marine Environmental Laboratory and_ [_Anne M. Gothmann_](https://www.stolaf.edu/profile/gothma1) _at St. Olaf College._
 
   _This study was funded by the Washington Ocean Acidification Center, the University of Washington Program on Climate Change, the Northwest Straits Foundation Caroline Gibson Scholarship, the National Science Foundation, the National Oceanic and Atmospheric Administration, and the Gordon and Betty Moore Foundation, the Leverhulme Trust Early Career Fellowship, and a European Research Council Horizon 2020 research and innovation program grant._
-summarized: true
-topics: []
 published: false
-images: []
+source: University of Washington
+source_url: https://www.washington.edu/news/2025/11/13/carbon-rich-waters-are-becoming-more-acidic-faster/
+summarized: true
+title: Carbon-rich waters are becoming even more acidic as atmospheric CO2 levels
+  rise
+topics: []
 ---
 
 Recent research indicates that the Northeastern Pacific Ocean is acidifying at an alarming rate due to rising atmospheric CO2 levels. Since the industrial revolution, ocean acidity has increased by approximately 30%, affecting marine organisms like corals and clams that rely on carbonate minerals for their shells and skeletons. The study, published in Nature Communications, highlights that the region's naturally higher acidity makes it more susceptible to further changes from human activities. Analyzing coral skeletal records from the past century, researchers found that CO2 levels in North American waters are rising faster than in the atmosphere, leading to significant acidification. The study utilized historical coral samples collected between 1888 and 1932, comparing them to modern specimens to track changes in ocean chemistry. Findings suggest that acidification is more pronounced 100 to 200 meters below the surface, challenging traditional assumptions about ocean acidification being primarily a surface phenomenon. While the results are concerning, researchers emphasize the potential for corrective actions to mitigate future impacts, stressing the importance of understanding regional changes in ocean acidity as a precursor to global trends.

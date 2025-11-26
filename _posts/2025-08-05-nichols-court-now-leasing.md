@@ -1,15 +1,17 @@
 ---
-title: Nichols Court now leasing!
 date: '2025-08-05T21:01:32+00:00'
+images: []
+original_content: We are pleased to announce that Nichols Court is ready for lease
+  up and has received its Temporary Certificate of Occupancy. Please see...
+original_markdown_body: We are pleased to announce that Nichols Court is ready for
+  lease up and has received its Temporary Certificate of Occupancy.&nbsp;Please see...
 source: Low Income Housing Institute
 source_url: https://www.lihihousing.org/post/nichols-court-now-leasing
-original_content: We are pleased to announce that Nichols Court is ready for lease up and has received its Temporary Certificate of Occupancy. Please see...
-original_markdown_body: We are pleased to announce that Nichols Court is ready for lease up and has received its Temporary Certificate of Occupancy.&nbsp;Please see...
 summarized: true
+title: Nichols Court now leasing!
 topics:
 - Shelter & Housing
 - Education & Learning
-images: []
 ---
 
 Nichols Court is now leasing and has received its Temporary Certificate of Occupancy. Located at 7544 Martin Luther King Jr. Way S., near the Othello Light Rail Station, this 6-story building offers 148 affordable housing units for families and individuals. The housing options range from studios to three-bedroom apartments, targeting those with incomes up to 50% and 60% of the Area Median Income. On-site amenities include a community room, children's play area, fitness center, resource room, and an outdoor courtyard. The building also features an early learning center operated by the Refugee Women’s Alliance, accommodating over 100 infants, toddlers, and preschoolers.

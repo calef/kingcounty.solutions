@@ -1,8 +1,7 @@
 ---
-title: 'Finding His Voice: Omar’s Story of Healing and Hope'
 date: '2025-08-13T21:29:53+00:00'
-source: Youth Eastside Services
-source_url: https://www.youtheastsideservices.org/omars-story/?utm_source=rss&utm_medium=rss&utm_campaign=omars-story
+images:
+- ffec31c149c17f4382104ab1a4295792807ce91f9cb77443f729ee94070031da
 original_content: |-
   <h2>“By writing this poem, I found freedom.”</h2>
   <p>For most of his life, Omar* felt invisible. <img decoding="async" class="alignright wp-image-13022 size-large" src="https://www.youtheastsideservices.org/wp-content/uploads/2025/08/Omars-Poem-3-501x1025.png" alt="The Invisible Kid a poem by YES client Omar" width="501" height="1025" srcset="https://www.youtheastsideservices.org/wp-content/uploads/2025/08/Omars-Poem-3-501x1025.png 501w, https://www.youtheastsideservices.org/wp-content/uploads/2025/08/Omars-Poem-3-147x300.png 147w, https://www.youtheastsideservices.org/wp-content/uploads/2025/08/Omars-Poem-3-768x1570.png 768w, https://www.youtheastsideservices.org/wp-content/uploads/2025/08/Omars-Poem-3-751x1536.png 751w, https://www.youtheastsideservices.org/wp-content/uploads/2025/08/Omars-Poem-3-1002x2048.png 1002w, https://www.youtheastsideservices.org/wp-content/uploads/2025/08/Omars-Poem-3.png 1080w" sizes="(max-width: 501px) 100vw, 501px" /></p>
@@ -58,13 +57,14 @@ original_markdown_body: |-
   [![donate to youth mental health](https://www.youtheastsideservices.org/wp-content/uploads/2022/08/Fall-2020-Event-Donation-Header.png)](https://interland3.donorperfect.net/weblink/WebLink.aspx?name=yes&id=64)
 
   The post [Finding His Voice: Omar’s Story of Healing and Hope](https://www.youtheastsideservices.org/omars-story/) appeared first on [Youth Eastside Services](https://www.youtheastsideservices.org).
+source: Youth Eastside Services
+source_url: https://www.youtheastsideservices.org/omars-story/?utm_source=rss&utm_medium=rss&utm_campaign=omars-story
 summarized: true
+title: 'Finding His Voice: Omar’s Story of Healing and Hope'
 topics:
 - Disabilities
 - Mental Health & Counseling
 - Education & Learning
-images:
-- ffec31c149c17f4382104ab1a4295792807ce91f9cb77443f729ee94070031da
 ---
 
 Omar, a young man from El Salvador, faced relentless bullying throughout his childhood due to a physical difference affecting one of his ears. This led to deep emotional pain, panic attacks, and a strained relationship with his father, who viewed vulnerability as weakness. To cope, Omar suppressed his feelings and resorted to self-harm. On New Year’s Eve 2022, he resolved to change his life after feeling isolated during celebrations. Encouraged by a friend, he sought help from Youth Eastside Services (YES), where he met a bilingual counselor. This marked a turning point for Omar, as he began to unpack years of trauma through poetry. His first poem, "The Invisible Kid," allowed him to express his loneliness and recognize his past pain. Now studying to be a dental hygienist and on the National Dean's List, Omar embraces his emotions, shares his poetry on social media, and helps others feel less alone. He acknowledges that while sadness still exists, he has learned to process his feelings in healthier ways, marking a significant journey of healing and self-acceptance. The support of donors has been crucial in providing such transformative services to youth like Omar.

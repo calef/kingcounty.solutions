@@ -1,8 +1,6 @@
 ---
-title: My Girlfriend is Pregnant. What Do I Do?
 date: '2025-04-14T19:11:38+00:00'
-source: Care Net of Puget Sound
-source_url: https://carenetps.org/my-girlfriend-is-pregnant-what-do-i-do/?utm_source=rss&utm_medium=rss&utm_campaign=my-girlfriend-is-pregnant-what-do-i-do
+images: []
 original_content: |-
   <p>She told you she’s pregnant&#8230;now you might be freaking out.&nbsp;</p>
 
@@ -252,11 +250,13 @@ original_markdown_body: |-
   [Book No-Cost Appointment](https://carenetps.org/make-appointment/)
 
   The post [My Girlfriend is Pregnant. What Do I Do?](https://carenetps.org/my-girlfriend-is-pregnant-what-do-i-do/) first appeared on [Care Net of Puget Sound](https://carenetps.org).
+source: Care Net of Puget Sound
+source_url: https://carenetps.org/my-girlfriend-is-pregnant-what-do-i-do/?utm_source=rss&utm_medium=rss&utm_campaign=my-girlfriend-is-pregnant-what-do-i-do
 summarized: true
+title: My Girlfriend is Pregnant. What Do I Do?
 topics:
 - Mental Health & Counseling
 - Education & Learning
-images: []
 ---
 
 My girlfriend has just revealed that she is pregnant, which can lead to a mix of overwhelming emotions and questions. It's important to take time to process personal feelings about the pregnancy, such as fear, anxiety, or even excitement. Understanding these emotions helps in deciding how to approach the situation collaboratively with your partner.

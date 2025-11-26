@@ -1,8 +1,7 @@
 ---
-title: How Does the Acute Symptom Management Clinic Support Cancer Patients?
 date: '2025-01-08T18:19:16+00:00'
-source: Hospital District No. 1 (Valley Medical Center)
-source_url: https://blog.valleymed.org/2025/01/08/how-does-the-acute-symptom-management-clinic-support-cancer-patients/?utm_source=rss&utm_medium=rss&utm_campaign=how-does-the-acute-symptom-management-clinic-support-cancer-patients
+images:
+- 4d149776db48cab0f529b27ec98e3a50ef9a25fc8e8d4d84574506f209eb054f
 original_content: |-
   <p>A part of Valley&#8217;s new Cancer Center is a clinic specially designed for cancer patients&#8211;the Acute Symptom Management Clinic (ASMC). The ASMC is part of the Oncology &amp; Hematology Clinic, and will be expanding to support patients at the Infusion &amp; Immunotherapy Center in the East Pavilion. We asked Kendra Hahn, Nurse Manager of the<strong> <span style="text-decoration: underline;"><a href="https://www.valleymed.org/services/all-specialties/cancer-treatment--support" data-type="link" data-id="https://www.valleymed.org/services/all-specialties/cancer-treatment--support" target="_blank" rel="noreferrer noopener">Oncology &amp; Hematology Clinic</a></span></strong> which the ASMC is a part of, to tell us about the clinic. Interview has been edited for length and clarity.</p>
 
@@ -73,11 +72,12 @@ original_markdown_body: "A part of Valley’s new Cancer Center is a clinic spec
   of the ASMC to the Infusion Center, we will be able to offer this service to our
   patients 7 days a week allowing for prompt assessment and treatment, and when appropriate,
   keeping them out of the emergency department and urgent care setting._"
+source: Hospital District No. 1 (Valley Medical Center)
+source_url: https://blog.valleymed.org/2025/01/08/how-does-the-acute-symptom-management-clinic-support-cancer-patients/?utm_source=rss&utm_medium=rss&utm_campaign=how-does-the-acute-symptom-management-clinic-support-cancer-patients
 summarized: true
+title: How Does the Acute Symptom Management Clinic Support Cancer Patients?
 topics:
 - Health Care
-images:
-- 4d149776db48cab0f529b27ec98e3a50ef9a25fc8e8d4d84574506f209eb054f
 ---
 
 The Acute Symptom Management Clinic (ASMC) at Valley’s Cancer Center is designed to provide critical support for cancer patients experiencing non-life-threatening symptoms. This clinic, part of the Oncology & Hematology Clinic, allows for prompt assessment and treatment through coordination with Oncology Nurse Navigators and Nurse Practitioners. By offering timely care, the ASMC helps patients avoid long waits at urgent care or emergency departments, reducing their risk of infections and lowering out-of-pocket costs.

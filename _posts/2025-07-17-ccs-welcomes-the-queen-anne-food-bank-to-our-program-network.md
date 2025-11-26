@@ -1,8 +1,8 @@
 ---
-title: CCS Welcomes the Queen Anne Food Bank to Our Program Network 
 date: '2025-07-17T16:42:20+00:00'
-source: Catholic Community Services of Western Washington
-source_url: https://ccsww.org/ccs-welcomes-the-queen-anne-food-bank-to-our-program-network/?utm_source=rss&utm_medium=rss&utm_campaign=ccs-welcomes-the-queen-anne-food-bank-to-our-program-network
+images:
+- 722fde6680dc51b5e7df806de22c9d92a80b900cd3a4718132652a68ee89eb17
+- 9999eae0009b82bb6aed01af80badd5ea5d01d3aa14e7e4ed6e7a3e0fcb44ea6
 original_content: |-
   <p>On a warm July afternoon, the Queen Anne Food Bank opens its doors wide to a line of neighbors that winds through the parking lot and down the block. Everyone is welcomed with a smile by Food Bank staff and volunteers, leaving with a nourishing bag of groceries handed to them by a member of the Food Bank team.&nbsp;</p>
 
@@ -71,12 +71,12 @@ original_markdown_body: |-
   **Volunteer Opportunity:** The Queen Anne Food Bank is seeking volunteers to help prepare and serve meals on weekdays. If you are interested in volunteering, please email Queen Anne Food Bank at QueenAnneFoodBank@ccsww.org.&nbsp;
 
   The post [CCS Welcomes the Queen Anne Food Bank to Our Program Network&nbsp;](https://ccsww.org/ccs-welcomes-the-queen-anne-food-bank-to-our-program-network/) first appeared on [Catholic Community Services of Western Washington](https://ccsww.org).
+source: Catholic Community Services of Western Washington
+source_url: https://ccsww.org/ccs-welcomes-the-queen-anne-food-bank-to-our-program-network/?utm_source=rss&utm_medium=rss&utm_campaign=ccs-welcomes-the-queen-anne-food-bank-to-our-program-network
 summarized: true
+title: CCS Welcomes the Queen Anne Food Bank to Our Program Network 
 topics:
 - Food & Nutrition
-images:
-- 722fde6680dc51b5e7df806de22c9d92a80b900cd3a4718132652a68ee89eb17
-- 9999eae0009b82bb6aed01af80badd5ea5d01d3aa14e7e4ed6e7a3e0fcb44ea6
 ---
 
 On July 1, 2025, the Queen Anne Food Bank officially joined Catholic Community Services (CCS), becoming part of a network of over 190 programs across Western Washington. Located in Seattle's Queen Anne neighborhood, the Food Bank serves around 125 people daily, providing weekly grocery pickups and daily fresh meals. Its mission is to support those in need with a warm invitation: “Come if you’re hungry.” This partnership with CCS aims to enhance and sustain the Food Bank's essential services, connecting guests to additional resources like shelters and mental health services.

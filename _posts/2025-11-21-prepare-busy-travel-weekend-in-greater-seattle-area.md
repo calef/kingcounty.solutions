@@ -1,16 +1,16 @@
 ---
-title: 'Prepare: Busy travel weekend in greater Seattle area'
 date: '2025-11-21T01:24:09-08:00'
-source: Washington State Department of Transportation
-source_url: https://wsdot.wa.gov/about/news/2025/prepare-busy-travel-weekend-greater-seattle-area
+images: []
 original_content: SEATTLE – Work includes Revive I-5 lane reductions, an eastbound
   SR 520 closure to Montlake and I-405/SR 522 ramp closures
 original_markdown_body: SEATTLE – Work includes Revive I-5 lane reductions, an eastbound
   SR 520 closure to Montlake and I-405/SR 522 ramp closures
-summarized: true
-topics: []
 published: false
-images: []
+source: Washington State Department of Transportation
+source_url: https://wsdot.wa.gov/about/news/2025/prepare-busy-travel-weekend-greater-seattle-area
+summarized: true
+title: 'Prepare: Busy travel weekend in greater Seattle area'
+topics: []
 ---
 
 Travelers in the greater Seattle area should prepare for significant delays and road closures starting late Friday evening, November 21, through early Monday, November 24. Key construction activities include lane reductions on southbound Interstate 5 over the Ship Canal Bridge, ramp closures at the I-405/State Route 522 interchange, and the closure of eastbound SR 520 from I-5 to Montlake Boulevard. 

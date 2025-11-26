@@ -1,8 +1,8 @@
 ---
-title: 'A Century in the making: The Devonshire’s Grand Reopening'
 date: '2025-06-16T20:25:02+00:00'
-source: Community Roots Housing
-source_url: https://communityrootshousing.org/2025/06/devonshires-reopening/
+images:
+- 19a3b3c2db18c12669015431ca2f6b9cca5a146cae27428f6d591ccc580e0cbf
+- 9da3aae8d2c701c3bac2013dec2e9cd41534a6d8ae7d8125aed1f7c2da37c556
 original_content: |-
   <p>In 1925, the <a href="https://communityrootshousing.org/building/devonshire/">Devonshire Apartments</a> opened its doors in Seattle&#8217;s Belltown neighborhood. With its distinctive brick façade, the Devonshire, designed by architect Herbert Bittman, combined functionality and form: the courtyard capped the garage. Since then, more than 1,300 residents have called Devonshire home.</p>
   <h3>From crisis to catalyst</h3>
@@ -76,12 +76,12 @@ original_markdown_body: "In 1925, the [Devonshire Apartments](https://communityr
   the next generation of Seattleites. The ribbon has been cut, but the work continues.**\n\nThe
   post [A Century in the making: The Devonshire’s Grand Reopening](https://communityrootshousing.org/2025/06/devonshires-reopening/)
   appeared first on [Community Roots Housing](https://communityrootshousing.org)."
+source: Community Roots Housing
+source_url: https://communityrootshousing.org/2025/06/devonshires-reopening/
 summarized: true
+title: 'A Century in the making: The Devonshire’s Grand Reopening'
 topics:
 - Shelter & Housing
-images:
-- 19a3b3c2db18c12669015431ca2f6b9cca5a146cae27428f6d591ccc580e0cbf
-- 9da3aae8d2c701c3bac2013dec2e9cd41534a6d8ae7d8125aed1f7c2da37c556
 ---
 
 Community Roots Housing has completed a major renovation of the historic Devonshire Apartments in Seattle's Belltown neighborhood, originally opened in 1925. Acquired by Community Roots in 1993, the Devonshire has served as affordable housing, but faced challenges when its hot water system failed in 2023. Instead of a simple fix, a comprehensive gut rehabilitation was undertaken in partnership with the City of Seattle Office of Housing, modernizing the building while preserving its historic charm.

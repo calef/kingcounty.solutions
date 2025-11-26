@@ -1,8 +1,6 @@
 ---
-title: "Tell Your Lawmakers: \uFEFFReinstate TANF Time Limit Exemptions!"
 date: '2025-02-11T01:11:00+00:00'
-source: Essentials First
-source_url: https://www.essentialsfirst.org/blog/hb1463
+images: []
 original_content: '<p class="">Since 2024 Essentials First has been co-convening the
   <a href="https://potrwldbb.cc.rs6.net/tn.jsp?f=001xkR55rdWInxwuVvfJZOV0CyV6KexL-nEfvm6I2ICDC2ItTWhikyTziiGJI4OUz2lddbgSc3hqtwhzFO7fen4yGzU9dqYw-AQpVaVWc507_lvFrJ-ymc6U89p5Hmy6JgLiL4fmibKUayxozDhhz3KzZj93y1QYT-9UtqpNX4iI3Y=&amp;c=iypnl_92r7C03LELHe6SeiVIySNP_JZaR11Zz-YZvhB2ogVnrFDlEw==&amp;ch=cglZg9RqJlkJGUUQOziNkylT-93tWEhADvWJEcYyz558GOvnwOXTow=="
   title="https://potrwldbb.cc.rs6.net/tn.jsp?f=001xkR55rdWInxwuVvfJZOV0CyV6KexL-nEfvm6I2ICDC2ItTWhikyTziiGJI4OUz2lddbgSc3hqtwhzFO7fen4yGzU9dqYw-AQpVaVWc507_lvFrJ-ymc6U89p5Hmy6JgLiL4fmibKUayxozDhhz3KzZj93y1QYT-9UtqpNX4iI3Y=&amp;c=iypnl_92r7C03LELHe6SeiVIySNP_JZaR11Zz-YZvhB2ogVnrFDlEw==&amp;ch=cglZg9RqJlkJGUUQOziNkylT-93tWEhADvWJEcYyz558GOvnwOXTow=="
@@ -101,11 +99,13 @@ original_markdown_body: |-
   [**Subscribe to the Essential Needs Coalition email list**](https://potrwldbb.cc.rs6.net/tn.jsp?f=001xkR55rdWInxwuVvfJZOV0CyV6KexL-nEfvm6I2ICDC2ItTWhikyTzuh6MU55WVyLPl7F-FmKU_PGbrLJ0jcDMzeIJQvCi9OcEfql5P2MLFZAJeJMI0AE0QKYsria25PISRugMulJ_T4uXIOppz6M6CoBVknm8XjJbiL867OJrOvwPf6-kAvMsaII9BNbvntMT7zKFeZkKQqQ_jYpbhDz7n50zgsXM8Tn6yfKqX7fSJnUZmD2Y_xHYzeIdiy3dOtWIHt78zBI-oPO0oKcoY87V8CdXbsk58mUPYftYnYzjV1sghd2WJk-UbOLHr67IAniMtQLPt2ME16cPAxEXklGBy5NIGdZbFOEZZiNz55v9NAD0yduS_Q6ag==&c=iypnl_92r7C03LELHe6SeiVIySNP_JZaR11Zz-YZvhB2ogVnrFDlEw==&ch=cglZg9RqJlkJGUUQOziNkylT-93tWEhADvWJEcYyz558GOvnwOXTow== "https://potrwldbb.cc.rs6.net/tn.jsp?f=001xkR55rdWInxwuVvfJZOV0CyV6KexL-nEfvm6I2ICDC2ItTWhikyTzuh6MU55WVyLPl7F-FmKU\_PGbrLJ0jcDMzeIJQvCi9OcEfql5P2MLFZAJeJMI0AE0QKYsria25PISRugMulJ\_T4uXIOppz6M6CoBVknm8XjJbiL867OJrOvwPf6-kAvMsaII9BNbvntMT7zKFeZkKQqQ\_jYpbhDz7n50zgsXM8Tn6yfKqX7fSJnUZmD2Y\_xHYzeIdiy3dOtWIHt78zBI-oPO0oKcoY87V8CdXbsk58mUPYftYnYzjV1sghd2WJk-UbOLHr67IAniMtQLPt2ME16cPAxEXklGBy5NIGdZbFOEZZiNz55v9NAD0yduS\_Q6ag==&c=iypnl\_92r7C03LELHe6SeiVIySNP\_JZaR11Zz-YZvhB2ogVnrFDlEw==&ch=cglZg9RqJlkJGUUQOziNkylT-93tWEhADvWJEcYyz558GOvnwOXTow==") to learn more and stay informed
 
   **Thank you for your support!**
+source: Essentials First
+source_url: https://www.essentialsfirst.org/blog/hb1463
 summarized: true
+title: "Tell Your Lawmakers: \uFEFFReinstate TANF Time Limit Exemptions!"
 topics:
 - Financial Assistance
 - Personal & Household Needs
-images: []
 ---
 
 Essentials First has been advocating for improved access to hygiene and basic needs through the Essential Needs Coalition. This Washington State Legislative Session, the coalition supports two bills to enhance the Temporary Assistance for Needy Families (TANF) program, HB 1463 and HB 1845. A hearing for HB 1463 is scheduled for February 11, 2025. TANF serves as a critical resource for families in need, providing cash assistance to help meet basic needs and protect children from deep poverty. 

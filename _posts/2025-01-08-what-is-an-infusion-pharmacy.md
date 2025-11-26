@@ -1,8 +1,7 @@
 ---
-title: What is an Infusion Pharmacy?
 date: '2025-01-08T18:27:30+00:00'
-source: Hospital District No. 1 (Valley Medical Center)
-source_url: https://blog.valleymed.org/2025/01/08/what-is-an-infusion-pharmacy/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-an-infusion-pharmacy
+images:
+- 1c664e78b1251480cab7dd3a1ba81ca94cae696fc3f6adb4797fb3126ea09f44
 original_content: |-
   <div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-9d6595d7 wp-block-columns-is-layout-flex">
   <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
@@ -70,11 +69,12 @@ original_markdown_body: "We’re familiar with visits to the pharmacy to pick up
   a variety of hazardous medications.&nbsp;In addition, the new Infusion Pharmacy
   will prepare all drugs for patients in the Infusion Center with the intended goal
   of improving efficiency and timeliness for patient throughput.&nbsp;_"
+source: Hospital District No. 1 (Valley Medical Center)
+source_url: https://blog.valleymed.org/2025/01/08/what-is-an-infusion-pharmacy/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-an-infusion-pharmacy
 summarized: true
+title: What is an Infusion Pharmacy?
 topics:
 - Health Care
-images:
-- 1c664e78b1251480cab7dd3a1ba81ca94cae696fc3f6adb4797fb3126ea09f44
 ---
 
 An infusion pharmacy is a specialized facility that prepares medications for injection or infusion, including routine antibiotics and complex chemotherapy drugs. Valley's new Infusion Pharmacy, set to open on February 3, 2025, is located within its Cancer Center to enhance patient care. The pharmacy is staffed with clinical pharmacists and pharmacy technicians who ensure patients receive the correct medications and dosages based on their diagnoses. This setup promotes collaboration among healthcare professionals, which is essential for managing complex patient treatments that require vigilant monitoring and frequent adjustments.

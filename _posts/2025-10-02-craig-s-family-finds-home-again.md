@@ -1,8 +1,7 @@
 ---
-title: craig’s family finds home again
 date: '2025-10-02T18:09:02+00:00'
-source: Mary's Place
-source_url: https://www.marysplaceseattle.org/blog/finding-home-again-craigs-story
+images:
+- 75a1637b9041eba2a14a5983c17a7af3fa77b5a38c627baafa06484ca9e6a25f
 original_content: "<p class=\"\">For Craig, home had always been the apartment where
   he was raising his two kids, Tanner and Ellie. It was where the kids’ height was
   marked on the wall each year, where birthday candles were blown out, and where the
@@ -75,13 +74,14 @@ original_markdown_body: |-
   Craig’s story is a reminder of just how quickly life can change — and how, with community support, families don’t have to face those challenges alone.
 
   [give today to support families like craig's](https://give.marysplaceseattle.org/campaign/673342/donate?utm_source=website&utm_medium=blog&utm_campaign=blogs-public&c_src=blogs-public&c_src2=blog)
+source: Mary's Place
+source_url: https://www.marysplaceseattle.org/blog/finding-home-again-craigs-story
 summarized: true
+title: craig’s family finds home again
 topics:
 - Shelter & Housing
 - Financial Assistance
 - Childcare
-images:
-- 75a1637b9041eba2a14a5983c17a7af3fa77b5a38c627baafa06484ca9e6a25f
 ---
 
 Craig's life changed dramatically when severe water damage rendered his apartment unlivable, forcing him and his two children, Tanner and Ellie, out of their home. The family lost many cherished belongings and faced significant housing debt, leading them to a difficult period of instability. They moved between hotels, stayed with friends, and eventually slept in their car, struggling to stay warm and safe. Despite holding a full-time job, Craig’s income was too high for low-income housing assistance, yet insufficient for market-rate apartments, leaving him feeling stuck and desperate.

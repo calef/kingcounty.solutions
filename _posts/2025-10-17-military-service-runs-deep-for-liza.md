@@ -1,8 +1,7 @@
 ---
-title: Military Service Runs Deep for Liza 
 date: '2025-10-17T15:27:49+00:00'
-source: Operation Homefront - Critical Financial Assistance Program
-source_url: https://operationhomefront.org/military-service-runs-deep-for-liza/
+images:
+- '0099e25e342567a496c07e4fad2d2d65f75ad7cb0ba65c0b6157f7a18b0237cd'
 original_content: |-
   <p class="has-text-align-center"><em><strong><strong>From Air Force Kid to Army Veteran, Military Service Runs Deep for Liza</strong></strong></em></p>
 
@@ -136,12 +135,13 @@ original_markdown_body: |-
   Because of you, we can work every day toward our vision of having every military and veteran family strong and resilient and supported through the gratitude and generosity of the American people.&nbsp;
 
   The post [Military Service Runs Deep for Liza&nbsp;](https://operationhomefront.org/military-service-runs-deep-for-liza/) appeared first on [Operation Homefront](https://operationhomefront.org).
+source: Operation Homefront - Critical Financial Assistance Program
+source_url: https://operationhomefront.org/military-service-runs-deep-for-liza/
 summarized: true
+title: Military Service Runs Deep for Liza 
 topics:
 - Financial Assistance
 - Education & Learning
-images:
-- '0099e25e342567a496c07e4fad2d2d65f75ad7cb0ba65c0b6157f7a18b0237cd'
 ---
 
 Liza, an Army veteran and former Air Force child, emphasizes the reciprocal nature of military service, reflecting on her 23 years in the Army's preventive medicine career field. She believes that serving allows her to contribute to something larger than herself while also gaining personal fulfillment. In her role at Operation Homefront, Liza assists staff with their work-life challenges, enabling them to better support military families. She acknowledges the sacrifices made by service members and the importance of community support, noting that not all families have a robust support system like she did.

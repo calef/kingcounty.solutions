@@ -1,8 +1,6 @@
 ---
-title: 'Finding Out You’re Pregnant Again: Navigating an Unexpected Pregnancy'
 date: '2025-08-21T15:00:31+00:00'
-source: Care Net of Puget Sound
-source_url: https://carenetps.org/finding-out-youre-pregnant-again-navigating-an-unexpected-pregnancy/?utm_source=rss&utm_medium=rss&utm_campaign=finding-out-youre-pregnant-again-navigating-an-unexpected-pregnancy
+images: []
 original_content: |-
   <p>Finding out you’re pregnant again when you weren’t planning on it can bring a whirlwind of emotions like shock, fear, anxiety, and even anger. If you already have children you&#8217;re working hard to provide for, those feelings might feel even heavier. You may be asking yourself, <em>How can I do this again? How will I provide for another child when I’m already stretched so thin?</em>&nbsp;</p>
 
@@ -203,11 +201,13 @@ original_markdown_body: |-
   [Get Support Today](https://carenetps.org/make-appointment/)
 
   The post [Finding Out You’re Pregnant Again: Navigating an Unexpected Pregnancy](https://carenetps.org/finding-out-youre-pregnant-again-navigating-an-unexpected-pregnancy/) first appeared on [Care Net of Puget Sound](https://carenetps.org).
+source: Care Net of Puget Sound
+source_url: https://carenetps.org/finding-out-youre-pregnant-again-navigating-an-unexpected-pregnancy/?utm_source=rss&utm_medium=rss&utm_campaign=finding-out-youre-pregnant-again-navigating-an-unexpected-pregnancy
 summarized: true
+title: 'Finding Out You’re Pregnant Again: Navigating an Unexpected Pregnancy'
 topics:
 - Mental Health & Counseling
 - Financial Assistance
-images: []
 ---
 
 Finding out you're unexpectedly pregnant can evoke a range of emotions, including shock, fear, and anxiety, especially if you already have children. It's essential to acknowledge your feelings as valid and give yourself space to process them without guilt. Communication with a partner or a trusted individual can provide crucial support during this time. If you lack someone to confide in, organizations like Care Net of Puget Sound offer confidential assistance and guidance. 

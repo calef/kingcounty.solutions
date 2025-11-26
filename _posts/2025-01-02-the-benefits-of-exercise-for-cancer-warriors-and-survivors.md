@@ -1,8 +1,6 @@
 ---
-title: The Benefits of Exercise for Cancer Warriors and Survivors
 date: '2025-01-02T19:05:44+00:00'
-source: Hospital District No. 1 (Valley Medical Center)
-source_url: https://blog.valleymed.org/2025/01/02/the-benefits-of-exercise-for-cancer-warriors-and-survivors/?utm_source=rss&utm_medium=rss&utm_campaign=the-benefits-of-exercise-for-cancer-warriors-and-survivors
+images: []
 original_content: |-
   <p><img width="300" height="188" src="https://blog.valleymed.org/wp-content/uploads/2020/10/Seniors-Walking_SS_526061074_blog-300x188.jpg" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://blog.valleymed.org/wp-content/uploads/2020/10/Seniors-Walking_SS_526061074_blog-300x188.jpg 300w, https://blog.valleymed.org/wp-content/uploads/2020/10/Seniors-Walking_SS_526061074_blog-600x375.jpg 600w, https://blog.valleymed.org/wp-content/uploads/2020/10/Seniors-Walking_SS_526061074_blog-768x480.jpg 768w, https://blog.valleymed.org/wp-content/uploads/2020/10/Seniors-Walking_SS_526061074_blog.jpg 800w" sizes="auto, (max-width: 300px) 100vw, 300px" /></p>
   <p>Exercise is a powerful tool for improving the quality of life for people fighting cancer and survivors alike. Whether during treatment or in recovery, engaging in regular physical activity can offer a wide range of physical, emotional, and psychological benefits.</p>
@@ -61,11 +59,13 @@ original_markdown_body: "![](https://blog.valleymed.org/wp-content/uploads/2020/
   Learn more about our services at **[valleymed.org/lifestylemed](http://valleymed.org/lifestylemed)**.&nbsp;\n\n_Content
   for this article is for educational purposes only and is not a substitute for professional
   medical advice._"
+source: Hospital District No. 1 (Valley Medical Center)
+source_url: https://blog.valleymed.org/2025/01/02/the-benefits-of-exercise-for-cancer-warriors-and-survivors/?utm_source=rss&utm_medium=rss&utm_campaign=the-benefits-of-exercise-for-cancer-warriors-and-survivors
 summarized: true
+title: The Benefits of Exercise for Cancer Warriors and Survivors
 topics:
 - Health Care
 - Mental Health & Counseling
-images: []
 ---
 
 Exercise plays a crucial role in enhancing the quality of life for cancer patients and survivors, offering numerous physical, emotional, and psychological benefits. Physically, it helps alleviate side effects of cancer treatment such as fatigue, muscle loss, and weight fluctuations, while improving cardiovascular health and mobility. Regular activity is associated with a reduced risk of cancer recurrence, particularly in breast and colon cancers. 

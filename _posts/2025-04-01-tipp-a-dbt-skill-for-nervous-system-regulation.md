@@ -1,8 +1,6 @@
 ---
-title: 'TIPP: A DBT Skill For Nervous System Regulation'
 date: '2025-04-01T02:37:59+00:00'
-source: THIRA Health
-source_url: https://thirahealth.com/2025/04/01/tipp-a-dbt-skill-for-nervous-system-regulation/?utm_source=rss&utm_medium=rss&utm_campaign=tipp-a-dbt-skill-for-nervous-system-regulation
+images: []
 original_content: |-
   <h2>Emotions aren’t just in your head</h2>
   <p>Have you ever wondered why emotions are also often called “feelings”? We use this term because we literally feel them in our bodies. Those butterflies in your stomach, a pounding heart, ice-cold hands and feet, blushing, getting overheated, feeling warm and fuzzy, a boost of energy, relaxation? All of these physical sensations can be ways emotions manifest in your body.</p>
@@ -123,10 +121,12 @@ original_markdown_body: |-
   DBT mental health treatment programs combine individual therapy, group therapy with DBT skill practice, and in-the-moment phone support from your therapist when day-to-day life gets tough.
 
   THIRA Health is a Bellevue mental health clinic where we welcome adolescent girls, women, and gender-nonconforming individuals. TIPP is one of many DBT distress tolerance skills we use, alongside mindfulness, emotional regulation, and interpersonal effectiveness DBT skills in our holistic, empathetic, and effective DBT treatment program. If you’re ready to make real change in your life, including using your nervous system to support your emotional well-being, [connect with us today to get started](https://thirahealth.com/contact/).
+source: THIRA Health
+source_url: https://thirahealth.com/2025/04/01/tipp-a-dbt-skill-for-nervous-system-regulation/?utm_source=rss&utm_medium=rss&utm_campaign=tipp-a-dbt-skill-for-nervous-system-regulation
 summarized: true
+title: 'TIPP: A DBT Skill For Nervous System Regulation'
 topics:
 - Mental Health & Counseling
-images: []
 ---
 
 TIPP is a DBT (Dialectical Behavior Therapy) skill designed to help individuals regulate their nervous system and manage intense emotions. Emotions manifest physically through sensations like a pounding heart or cold hands, linked to the nervous system's responses. Emotional dysregulation can lead to overwhelming experiences, often triggering the sympathetic nervous system, which prepares the body for fight or flight. TIPP provides four strategies to shift the nervous system back to a calmer state: 

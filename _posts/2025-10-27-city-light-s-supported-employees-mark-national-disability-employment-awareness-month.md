@@ -1,9 +1,6 @@
 ---
-title: City Light’s Supported Employees mark National Disability Employment Awareness
-  Month
 date: '2025-10-27T20:57:56+00:00'
-source: City Light Bill Assistance Programs
-source_url: https://powerlines.seattle.gov/2025/10/27/city-lights-supported-employees-mark-national-disability-employment-awareness-month/
+images: []
 original_content: '<img width="150" height="150" src="https://powerlines.seattle.gov/wp-content/uploads/sites/17/2025/10/Powerlines-Featured-Images-13-150x150.png"
   class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom:
   5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy"
@@ -21,11 +18,14 @@ original_markdown_body: "![](https://powerlines.seattle.gov/wp-content/uploads/s
   the skills and contributions that employees with disabilities bring to our workforce.
   This year’s theme, “Celebrating Value and Talent,” underscores that inclusive access
   to meaningful work strengthens the entire […]"
+source: City Light Bill Assistance Programs
+source_url: https://powerlines.seattle.gov/2025/10/27/city-lights-supported-employees-mark-national-disability-employment-awareness-month/
 summarized: true
+title: City Light’s Supported Employees mark National Disability Employment Awareness
+  Month
 topics:
 - Disabilities
 - Employment & Job Support
-images: []
 ---
 
 October marks National Disability Employment Awareness Month, celebrating the contributions of employees with disabilities. This year's theme, "Celebrating Value and Talent," emphasizes the importance of inclusive access to meaningful work. The City of Seattle's Supported Employment Program, initiated in 1998, has created paid job opportunities for individuals with developmental disabilities, with Seattle City Light being an early participant. 

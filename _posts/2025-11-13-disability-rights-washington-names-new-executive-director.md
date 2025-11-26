@@ -1,8 +1,7 @@
 ---
-title: Disability Rights Washington Names New Executive Director
 date: '2025-11-13T19:06:19+00:00'
-source: Institute on Human Development and Disability
-source_url: https://ihdd.org/2025/11/13/disability-rights-washington-names-new-executive-director/
+images:
+- 70bea257be39ca903a42ec248efe8daf8d3deb8ccf3ee2d0ef271ce773528cf0
 original_content: "<div class=\"wpb-content-wrapper\">\r\n<div  data-mk-stretch-content=\"true\"
   class=\"wpb_row vc_row vc_row-fluid jupiter-donut- mk-fullwidth-false  attched-false
   \    js-master-row  mk-grid\">\r\n\t\t\t\t\r\n<div class=\"vc_col-sm-9 wpb_column
@@ -232,11 +231,12 @@ original_markdown_body: "## [Home](https://ihdd.org/)\n\n## Disability Rights Wa
   class=\"mk-padding-divider jupiter-donut- jupiter-donut-clearfix\"></div>\r\n\r\n</span></div></section>\t</div>\r\n</aside>\n\nThe
   post [Disability Rights Washington Names New Executive Director](https://ihdd.org/2025/11/13/disability-rights-washington-names-new-executive-director/)
   appeared first on [UW IHDD](https://ihdd.org)."
+source: Institute on Human Development and Disability
+source_url: https://ihdd.org/2025/11/13/disability-rights-washington-names-new-executive-director/
 summarized: true
+title: Disability Rights Washington Names New Executive Director
 topics:
 - Disabilities
-images:
-- 70bea257be39ca903a42ec248efe8daf8d3deb8ccf3ee2d0ef271ce773528cf0
 ---
 
 Disability Rights Washington (DRW) has appointed Wallace (“Wally”) Tablit as its new Executive Director. Tablit brings nearly thirty years of experience in disability rights and justice, with a strong background in competitive and integrated employment, organizational development, leadership, talent management, and person-centered planning. His previous leadership roles include positions at Atwork, RespectAbility (now Disability Belongs), the Association of People Supporting Employment First (APSE), and Relay Resources. DRW Board Chair Camesha Little expressed the board's confidence in Tablit’s leadership abilities. Wally expressed excitement, humility, and honor in taking on the role, emphasizing his commitment to centering the voices of people with disabilities and enhancing community partnerships.

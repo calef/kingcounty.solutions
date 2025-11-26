@@ -1,9 +1,6 @@
 ---
-title: Samaritan and MultiCare approve affiliation to strengthen community-based care
-  across the Pacific Northwest
 date: '2025-10-22T17:30:59+00:00'
-source: MultiCare
-source_url: https://www.multicare.org/newsroom/2025/10/samaritan-and-multicare-approve-affiliation-to-strengthen-community-based-care-across-the-pacific-northwest/
+images: []
 original_content: |-
   <p>CORVALLIS, Ore. — The boards of directors for the Corvallis-based Samaritan Health Services and Tacoma-based MultiCare Health System have approved an affiliation between the two organizations, marking a major milestone in advancing access to high-quality, community-based health care across Oregon and the Pacific Northwest.</p>
   <p>In the coming weeks, Samaritan and MultiCare will sign the formal affiliation agreement, paving the way for Samaritan to become part of MultiCare. The two organizations will now begin taking the next steps needed to bring the affiliation to completion, which is expected to occur in mid-2026.</p>
@@ -32,11 +29,14 @@ original_markdown_body: |-
   To learn more about this affiliation, visit [samhealth.org/affiliation](https://samhealth.org/Affiliation).
 
   The post [Samaritan and MultiCare approve affiliation to strengthen community-based care across the Pacific Northwest](https://www.multicare.org/newsroom/2025/10/samaritan-and-multicare-approve-affiliation-to-strengthen-community-based-care-across-the-pacific-northwest/) appeared first on [MultiCare](https://www.multicare.org).
+source: MultiCare
+source_url: https://www.multicare.org/newsroom/2025/10/samaritan-and-multicare-approve-affiliation-to-strengthen-community-based-care-across-the-pacific-northwest/
 summarized: true
+title: Samaritan and MultiCare approve affiliation to strengthen community-based care
+  across the Pacific Northwest
 topics:
 - Health Care
 - Mental Health & Counseling
-images: []
 ---
 
 The boards of directors for Samaritan Health Services in Corvallis, Oregon, and MultiCare Health System in Tacoma, Washington, have approved an affiliation aimed at enhancing community-based healthcare across the Pacific Northwest. This affiliation, expected to be finalized by mid-2026, will allow Samaritan to integrate with MultiCare, reinforcing their commitment to nonprofit, community-driven care. MultiCare plans to invest significantly over the next decade to modernize Samaritan’s facilities, expand primary and specialty care, and enhance technology, including telehealth services. This collaboration is intended to improve healthcare quality, affordability, and equity in the region. The affiliation will also introduce MultiCare's extensive behavioral health network to Samaritan's service area, increasing access to mental health resources. Despite the changes, Samaritan will continue to operate independently for now, maintaining its local governance and community focus. Once the affiliation is complete, it will provide expanded services and greater stability for the communities served by Samaritan.

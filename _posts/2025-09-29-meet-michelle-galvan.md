@@ -1,14 +1,110 @@
 ---
-title: Meet Michelle Galvan
 date: '2025-09-29T21:01:47+00:00'
+images: []
+original_content: "<div class=\"et_pb_section et_pb_section_8 et_section_regular\"
+  >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_row
+  et_pb_row_16\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4 et_pb_column_16
+  \ et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div
+  class=\"et_pb_module et_pb_image et_pb_image_8 et_pb_image_sticky\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<span
+  class=\"et_pb_image_wrap \"><img loading=\"lazy\" decoding=\"async\" width=\"1200\"
+  height=\"628\" src=\"https://inatai.org/wp-content/uploads/2025/09/Michelle-Galvan-1200x628-1.png\"
+  alt=\"\" title=\"Michelle Galvan 1200x628\" srcset=\"https://inatai.org/wp-content/uploads/2025/09/Michelle-Galvan-1200x628-1.png
+  1200w, https://inatai.org/wp-content/uploads/2025/09/Michelle-Galvan-1200x628-1-980x513.png
+  980w, https://inatai.org/wp-content/uploads/2025/09/Michelle-Galvan-1200x628-1-480x251.png
+  480w\" sizes=\"(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px)
+  and (max-width: 980px) 980px, (min-width: 981px) 1200px, 100vw\" class=\"wp-image-14543\"
+  /></span>\n\t\t\t</div><div class=\"et_pb_module et_pb_text et_pb_text_15  et_pb_text_align_left
+  et_pb_bg_layout_light\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div><div
+  class=\"et_pb_row et_pb_row_17\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4
+  et_pb_column_17  et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div
+  class=\"et_pb_module et_pb_text et_pb_text_16  et_pb_text_align_left et_pb_bg_layout_light\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div
+  class=\"et_pb_text_inner\"><p><em>Michelle Galvan, Accountant at Inatai Foundation,
+  soaks in the sun on a lovely Seattle summer day.</em></p>\n<p>&nbsp;</p>\n<p><a
+  href=\"https://inatai.org/team/michelle-galvan/\">Michelle Galvan</a> (she/her)
+  joins us as an Accountant. We asked Michelle 10 questions to learn more about her
+  background, community, and how she connects to our work at Inatai.</p>\n<p><strong>Name:</strong>Michelle
+  Galvan<br /><strong>Pronouns:</strong>  she/her<br /><strong>Role: </strong> Accountant<br
+  /><strong>Home: </strong> Yakima County</p>\n<p><strong>1. What are three words that describe
+  you?  </strong></p>\n<p>Reliable, considerate, and caring.</p>\n<p><strong>2. What
+  is the “long story short” of how you landed at Inatai </strong></p>\n<p>I learned
+  about Inatai through our amazing Event Planner, Gabriela “Gabby” Ramos! Gabby mentioned Inatai’s great
+  work in past conversations, so I was curious to learn more when she shared the job
+  opening. I was more drawn to this role when I landed on Inatai’s website. Let’s just
+  say I was blown away! I spent the rest of my afternoon that day learning about the
+  work Inatai does for our communities in Washington and that was the moment I knew
+  I wanted to be part of this team.</p>\n<p><strong>3. What excites you most about
+  being part of Team Inatai?  </strong></p>\n<p>What excites me most about being part
+  of Inatai is the opportunity to be part of meaningful change across Washington.
+  I am surrounded by passionate and dedicated colleagues who inspire me to grow. It’s exciting
+  to know the work Inatai is doing is making a real difference in people’s lives.
+  I can’t wait to see what the future holds!</p>\n<p><strong>4. Tell us about the
+  community or communities you belong to.  </strong></p>\n<p>I belong to the Mexican
+  American community. My roots and family have shaped who I am and how I show up in
+  the world. My community keeps me grounded and reminds me of the importance of hard
+  work, resilience, and unity. I’m also part of the Yakima Valley community, where
+  I grew up and deeply value the local relationships I’ve built.</p>\n<p><strong>5. Inatai’s strategies
+  are underlined by a 50-Year Vision informed by communities. What is it about your
+  community that keeps you hopeful for the future?  </strong></p>\n<p>In the Yakima Valley,
+  I see people working hard for change, building connections, and wanting better for
+  the next generation. This makes me feel so proud and hopeful for the future.</p>\n<p><strong>6. Finish this
+  sentence: The Inatai value the most resonates with me is&#8230; </strong></p>\n<p>Racial
+  Justice</p>\n<p><strong>7. What is your favorite fact about Washington? </strong></p>\n<p>We
+  are known as the Evergreen state! I absolutely love the scenery we are blessed with
+  in Washington.</p>\n<p><strong>8. Where is your favorite place in Washington?  </strong></p>\n<p>Colchuck Lake
+  is so beautiful! I love nature, water, and a good hike!</p>\n<p><strong>9. What
+  is the last thing you read, watched, or listened to that you would recommend? Why?  </strong></p>\n<p>I
+  listen to a wellness and mental health podcast called, “In Hindzsight,” especially in
+  the mornings when I’m feeling a bit off. Its calming tone and thoughtful insights
+  help me pause, breathe, and feel more centered.</p>\n<p><strong>10. What do you
+  like to do when you’re not at work?  </strong></p>\n<p>I enjoy spending time with
+  my family and husband —traveling, attending gatherings, or just relaxing at home with
+  takeout. In the summer, I love being outdoors, whether it’s walking, running, or
+  soaking up the sun by a lake, river, or beach.</p></div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>"
+original_markdown_body: "![](https://inatai.org/wp-content/uploads/2025/09/Michelle-Galvan-1200x628-1.png
+  \"Michelle Galvan 1200x628\")\n\n_Michelle Galvan, Accountant at Inatai Foundation,
+  soaks in the sun on a lovely Seattle summer day._\n\n&nbsp;\n\n[Michelle Galvan](https://inatai.org/team/michelle-galvan/)
+  (she/her) joins us as an Accountant. We asked Michelle 10 questions to learn more
+  about her background, community, and how she connects to our work at Inatai.\n\n**Name:**
+  Michelle Galvan  \n**Pronouns:**  she/her  \n**Role: ** Accountant  \n**Home: **
+  Yakima County\n\n**1. What are three words that describe you?  **\n\nReliable, considerate, and caring.\n\n**2. What
+  is the “long story short” of how you landed at Inatai **\n\nI learned about Inatai through
+  our amazing Event Planner, Gabriela “Gabby” Ramos! Gabby mentioned Inatai’s great
+  work in past conversations, so I was curious to learn more when she shared the job
+  opening. I was more drawn to this role when I landed on Inatai’s website. Let’s just
+  say I was blown away! I spent the rest of my afternoon that day learning about the
+  work Inatai does for our communities in Washington and that was the moment I knew
+  I wanted to be part of this team.\n\n**3. What excites you most about being part
+  of Team Inatai?  **\n\nWhat excites me most about being part of Inatai is the opportunity
+  to be part of meaningful change across Washington. I am surrounded by passionate
+  and dedicated colleagues who inspire me to grow. It’s exciting to know the work Inatai is
+  doing is making a real difference in people’s lives. I can’t wait to see what the
+  future holds!\n\n**4. Tell us about the community or communities you belong to.  **\n\nI
+  belong to the Mexican American community. My roots and family have shaped who I
+  am and how I show up in the world. My community keeps me grounded and reminds me
+  of the importance of hard work, resilience, and unity. I’m also part of the Yakima Valley community,
+  where I grew up and deeply value the local relationships I’ve built.\n\n**5. Inatai’s strategies
+  are underlined by a 50-Year Vision informed by communities. What is it about your
+  community that keeps you hopeful for the future?  **\n\nIn the Yakima Valley, I
+  see people working hard for change, building connections, and wanting better for
+  the next generation. This makes me feel so proud and hopeful for the future.\n\n**6. Finish this
+  sentence: The Inatai value the most resonates with me is… **\n\nRacial Justice\n\n**7.
+  What is your favorite fact about Washington? **\n\nWe are known as the Evergreen
+  state! I absolutely love the scenery we are blessed with in Washington.\n\n**8.
+  Where is your favorite place in Washington?  **\n\nColchuck Lake is so beautiful! I
+  love nature, water, and a good hike!\n\n**9. What is the last thing you read, watched,
+  or listened to that you would recommend? Why?  **\n\nI listen to a wellness and
+  mental health podcast called, “In Hindzsight,” especially in the mornings when I’m feeling
+  a bit off. Its calming tone and thoughtful insights help me pause, breathe, and
+  feel more centered.\n\n**10. What do you like to do when you’re not at work?  **\n\nI
+  enjoy spending time with my family and husband —traveling, attending gatherings,
+  or just relaxing at home with takeout. In the summer, I love being outdoors, whether it’s walking,
+  running, or soaking up the sun by a lake, river, or beach."
+published: false
 source: Inatai Foundation
 source_url: https://inatai.org/news/meet-michelle-galvan/
-original_content: "<div class=\"et_pb_section et_pb_section_8 et_section_regular\" >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_row et_pb_row_16\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4 et_pb_column_16  et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_module et_pb_image et_pb_image_8 et_pb_image_sticky\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<span class=\"et_pb_image_wrap \"><img loading=\"lazy\" decoding=\"async\" width=\"1200\" height=\"628\" src=\"https://inatai.org/wp-content/uploads/2025/09/Michelle-Galvan-1200x628-1.png\" alt=\"\" title=\"Michelle Galvan 1200x628\" srcset=\"https://inatai.org/wp-content/uploads/2025/09/Michelle-Galvan-1200x628-1.png 1200w, https://inatai.org/wp-content/uploads/2025/09/Michelle-Galvan-1200x628-1-980x513.png 980w, https://inatai.org/wp-content/uploads/2025/09/Michelle-Galvan-1200x628-1-480x251.png 480w\" sizes=\"(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) 1200px, 100vw\" class=\"wp-image-14543\" /></span>\n\t\t\t</div><div class=\"et_pb_module et_pb_text et_pb_text_15  et_pb_text_align_left et_pb_bg_layout_light\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div><div class=\"et_pb_row et_pb_row_17\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4 et_pb_column_17  et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_module et_pb_text et_pb_text_16  et_pb_text_align_left et_pb_bg_layout_light\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_text_inner\"><p><em>Michelle Galvan, Accountant at Inatai Foundation, soaks in the sun on a lovely Seattle summer day.</em></p>\n<p>&nbsp;</p>\n<p><a href=\"https://inatai.org/team/michelle-galvan/\">Michelle Galvan</a> (she/her) joins us as an Accountant. We asked Michelle 10 questions to learn more about her background, community, and how she connects to our work at Inatai.</p>\n<p><strong>Name:</strong>Michelle Galvan<br /><strong>Pronouns:</strong>  she/her<br /><strong>Role: </strong> Accountant<br /><strong>Home: </strong> Yakima County</p>\n<p><strong>1. What are three words that describe you?  </strong></p>\n<p>Reliable, considerate, and caring.</p>\n<p><strong>2. What is the “long story short” of how you landed at Inatai </strong></p>\n<p>I learned about Inatai through our amazing Event Planner, Gabriela “Gabby” Ramos! Gabby mentioned Inatai’s great work in past conversations, so I was curious to learn more when she shared the job opening. I was more drawn to this role when I landed on Inatai’s website. Let’s just say I was blown away! I spent the rest of my afternoon that day learning about the work Inatai does for our communities in Washington and that was the moment I knew I wanted to be part of this team.</p>\n<p><strong>3. What excites you most about being part of Team Inatai?  </strong></p>\n<p>What excites me most about being part of Inatai is the opportunity to be part of meaningful change across Washington. I am surrounded by passionate and dedicated colleagues who inspire me to grow. It’s exciting to know the work Inatai is doing is making a real difference in people’s lives. I can’t wait to see what the future holds!</p>\n<p><strong>4. Tell us about the community or communities you belong to.  </strong></p>\n<p>I belong to the Mexican American community. My roots and family have shaped who I am and how I show up in the world. My community keeps me grounded and reminds me of the importance of hard work, resilience, and unity. I’m also part of the Yakima Valley community, where I grew up and deeply value the local relationships I’ve built.</p>\n<p><strong>5. Inatai’s strategies are underlined by a 50-Year Vision informed by communities. What is it about your community that keeps you hopeful for the future?  </strong></p>\n<p>In the Yakima Valley, I see people working hard for change, building connections, and wanting better for the next generation. This makes me feel so proud and hopeful for the future.</p>\n<p><strong>6. Finish this sentence: The Inatai value the most resonates with me is&#8230; </strong></p>\n<p>Racial Justice</p>\n<p><strong>7. What is your favorite fact about Washington? </strong></p>\n<p>We are known as the Evergreen state! I absolutely love the scenery we are blessed with in Washington.</p>\n<p><strong>8. Where is your favorite place in Washington?  </strong></p>\n<p>Colchuck Lake is so beautiful! I love nature, water, and a good hike!</p>\n<p><strong>9. What is the last thing you read, watched, or listened to that you would recommend? Why?  </strong></p>\n<p>I listen to a wellness and mental health podcast called, “In Hindzsight,” especially in the mornings when I’m feeling a bit off. Its calming tone and thoughtful insights help me pause, breathe, and feel more centered.</p>\n<p><strong>10. What do you like to do when you’re not at work?  </strong></p>\n<p>I enjoy spending time with my family and husband —traveling, attending gatherings, or just relaxing at home with takeout. In the summer, I love being outdoors, whether it’s walking, running, or soaking up the sun by a lake, river, or beach.</p></div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>"
-original_markdown_body: "![](https://inatai.org/wp-content/uploads/2025/09/Michelle-Galvan-1200x628-1.png \"Michelle Galvan 1200x628\")\n\n_Michelle Galvan, Accountant at Inatai Foundation, soaks in the sun on a lovely Seattle summer day._\n\n&nbsp;\n\n[Michelle Galvan](https://inatai.org/team/michelle-galvan/) (she/her) joins us as an Accountant. We asked Michelle 10 questions to learn more about her background, community, and how she connects to our work at Inatai.\n\n**Name:** Michelle Galvan  \n**Pronouns:**  she/her  \n**Role: ** Accountant  \n**Home: ** Yakima County\n\n**1. What are three words that describe you?  **\n\nReliable, considerate, and caring.\n\n**2. What is the “long story short” of how you landed at Inatai **\n\nI learned about Inatai through our amazing Event Planner, Gabriela “Gabby” Ramos! Gabby mentioned Inatai’s great work in past conversations, so I was curious to learn more when she shared the job opening. I was more drawn to this role when I landed on Inatai’s website. Let’s just say I was blown away! I spent the rest of my afternoon that day learning about the work Inatai does for our communities in Washington and that was the moment I knew I wanted to be part of this team.\n\n**3. What excites you most about being part of Team Inatai?  **\n\nWhat excites me most about being part of Inatai is the opportunity to be part of meaningful change across Washington. I am surrounded by passionate and dedicated colleagues who inspire me to grow. It’s exciting to know the work Inatai is doing is making a real difference in people’s lives. I can’t wait to see what the future holds!\n\n**4. Tell us about the community or communities you belong to.  **\n\nI belong to the Mexican American community. My roots and family have shaped who I am and how I show up in the world. My community keeps me grounded and reminds me of the importance of hard work, resilience, and unity. I’m also part of the Yakima Valley community, where I grew up and deeply value the local relationships I’ve built.\n\n**5. Inatai’s strategies are underlined by a 50-Year Vision informed by communities. What is it about your community that keeps you hopeful for the future?  **\n\nIn the Yakima Valley, I see people working hard for change, building connections, and wanting better for the next generation. This makes me feel so proud and hopeful for the future.\n\n**6. Finish this sentence: The Inatai value the most resonates with me is… **\n\nRacial Justice\n\n**7. What is your favorite fact about Washington? **\n\nWe are known as the Evergreen state! I absolutely love the scenery we are blessed with in Washington.\n\n**8. Where is your favorite place in Washington?  **\n\nColchuck Lake is so beautiful! I love nature, water, and a good hike!\n\n**9. What is the last thing you read, watched, or listened to that you would recommend? Why?  **\n\nI listen to a wellness and mental health podcast called, “In Hindzsight,” especially in the mornings when I’m feeling a bit off. Its calming tone and thoughtful insights help me pause, breathe, and feel more centered.\n\n**10. What do you like to do when you’re not at work?  **\n\nI enjoy spending time with my family and husband —traveling, attending gatherings, or just relaxing at home with takeout. In the summer, I love being outdoors, whether it’s walking, running, or soaking up the sun by a lake, river, or beach."
 summarized: true
+title: Meet Michelle Galvan
 topics: []
-images: []
-published: false
 ---
 
 Michelle Galvan has joined the Inatai Foundation as an Accountant, bringing her reliable, considerate, and caring nature to the team. Originally from Yakima County, she discovered Inatai through Event Planner Gabriela “Gabby” Ramos, who highlighted the organization’s impactful work in Washington. Galvan was inspired by Inatai's mission and felt a strong desire to contribute after exploring their website.

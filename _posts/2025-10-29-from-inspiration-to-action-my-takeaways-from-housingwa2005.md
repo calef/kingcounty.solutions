@@ -1,8 +1,6 @@
 ---
-title: 'From Inspiration to Action: My Takeaways from HousingWA2005'
 date: '2025-10-29T10:00:00+00:00'
-source: Neighborhood House
-source_url: https://nhwa.org/2025/10/29/housing-washington-2025/
+images: []
 original_content: |-
   <p>Big ideas, real conversations, and moments that hit home.  Written by: Rose M. &#8211; Housing Advocate&#160; I had the amazing opportunity to attend HousingWA2025 in Bellevue, WA, and it was unforgettable! From inspiring speakers to real, emotional conversations about housing legislation, every moment made me stop and reflect. I even teared up, thinking about my ... </p>
   <p class="read-more-container"><a title="From Inspiration to Action: My Takeaways from HousingWA2005" class="read-more button" href="https://nhwa.org/2025/10/29/housing-washington-2025/#more-25325" aria-label="Read more about From Inspiration to Action: My Takeaways from HousingWA2005">Read more</a></p>
@@ -13,10 +11,12 @@ original_markdown_body: |-
   [Read more](https://nhwa.org/2025/10/29/housing-washington-2025/#more-25325 "From Inspiration to Action: My Takeaways from HousingWA2005")
 
   The post [From Inspiration to Action: My Takeaways from HousingWA2005](https://nhwa.org/2025/10/29/housing-washington-2025/) appeared first on [Neighborhood House](https://nhwa.org).
+source: Neighborhood House
+source_url: https://nhwa.org/2025/10/29/housing-washington-2025/
 summarized: true
+title: 'From Inspiration to Action: My Takeaways from HousingWA2005'
 topics:
 - Shelter & Housing
-images: []
 ---
 
 The Housing Washington 2025 Conference, held on September 29-30 in Bellevue, WA, gathered housing advocates, developers, policymakers, and service providers to discuss affordable housing's future. The event featured keynote speakers Brian Goldstone and Keeanga-Yamahtta Taylor, who addressed the systemic issues contributing to housing insecurity. Attendees engaged in breakout sessions covering various topics, including advocacy, homeownership, and strategies to combat homelessness. Workshops and "Learning Labs" provided practical tools for implementing fair housing policies and strengthening community development efforts.

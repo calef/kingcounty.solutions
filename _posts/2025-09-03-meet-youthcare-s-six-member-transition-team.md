@@ -1,8 +1,7 @@
 ---
-title: Meet YouthCare’s Six-Member Transition Team
 date: '2025-09-03T15:57:01+00:00'
-source: YouthCare
-source_url: https://youthcare.org/blog/meet-youthcares-six-member-transition-team/
+images:
+- b050654cd7f222f54cc00bef5c295884fcc368679ad0a1f2b308c115dea608fc
 original_content: |-
   <div class="wp-block-image">
   <figure class="alignright size-large is-resized"><img data-recalc-dims="1" loading="lazy" decoding="async" width="825" height="1237" data-attachment-id="9229" data-permalink="https://youthcare.org/marty-hartman-new-headshot/" data-orig-file="https://i0.wp.com/youthcare.org/wp-content/uploads/2025/09/Marty-Hartman-new-headshot-scaled.jpg?fit=1707%2C2560&amp;ssl=1" data-orig-size="1707,2560" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;11&quot;,&quot;credit&quot;:&quot;Tara Gimmer&quot;,&quot;camera&quot;:&quot;Canon EOS 5D Mark IV&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1524481270&quot;,&quot;copyright&quot;:&quot;Tara Gimmer 2015&quot;,&quot;focal_length&quot;:&quot;105&quot;,&quot;iso&quot;:&quot;100&quot;,&quot;shutter_speed&quot;:&quot;0.008&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Marty Hartman new headshot" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/youthcare.org/wp-content/uploads/2025/09/Marty-Hartman-new-headshot-scaled.jpg?fit=400%2C600&amp;ssl=1" data-large-file="https://i0.wp.com/youthcare.org/wp-content/uploads/2025/09/Marty-Hartman-new-headshot-scaled.jpg?fit=825%2C1237&amp;ssl=1" src="https://i0.wp.com/youthcare.org/wp-content/uploads/2025/09/Marty-Hartman-new-headshot.jpg?resize=825%2C1237&#038;ssl=1" alt="" class="wp-image-9229" style="width:273px;height:auto" srcset="https://i0.wp.com/youthcare.org/wp-content/uploads/2025/09/Marty-Hartman-new-headshot-scaled.jpg?resize=825%2C1237&amp;ssl=1 825w, https://i0.wp.com/youthcare.org/wp-content/uploads/2025/09/Marty-Hartman-new-headshot-scaled.jpg?resize=400%2C600&amp;ssl=1 400w, https://i0.wp.com/youthcare.org/wp-content/uploads/2025/09/Marty-Hartman-new-headshot-scaled.jpg?resize=768%2C1152&amp;ssl=1 768w, https://i0.wp.com/youthcare.org/wp-content/uploads/2025/09/Marty-Hartman-new-headshot-scaled.jpg?resize=1024%2C1536&amp;ssl=1 1024w, https://i0.wp.com/youthcare.org/wp-content/uploads/2025/09/Marty-Hartman-new-headshot-scaled.jpg?resize=1365%2C2048&amp;ssl=1 1365w, https://i0.wp.com/youthcare.org/wp-content/uploads/2025/09/Marty-Hartman-new-headshot-scaled.jpg?w=1707&amp;ssl=1 1707w, https://i0.wp.com/youthcare.org/wp-content/uploads/2025/09/Marty-Hartman-new-headshot-scaled.jpg?w=1650&amp;ssl=1 1650w" sizes="auto, (max-width: 825px) 100vw, 825px" /></figure></div>
@@ -164,12 +163,13 @@ original_markdown_body: "![](https://i0.wp.com/youthcare.org/wp-content/uploads/
   leadership development.&nbsp;\n\nRead the full press release [here](https://youthcare.org/wp-content/uploads/2025/09/YouthCare-Transition-Team-Announcement_FINAL-DESIGNED.pdf).\n\nThe
   post [Meet YouthCare’s&nbsp;Six-Member Transition Team](https://youthcare.org/blog/meet-youthcares-six-member-transition-team/)
   appeared first on [YouthCare](https://youthcare.org)."
+source: YouthCare
+source_url: https://youthcare.org/blog/meet-youthcares-six-member-transition-team/
 summarized: true
+title: Meet YouthCare’s Six-Member Transition Team
 topics:
 - Shelter & Housing
 - Employment & Job Support
-images:
-- b050654cd7f222f54cc00bef5c295884fcc368679ad0a1f2b308c115dea608fc
 ---
 
 YouthCare has announced the formation of a six-member transition team to enhance its programmatic efforts and financial systems, aligning them with its core mission of addressing youth homelessness. Interim CEO Marty Hartman will lead this team, which includes notable community leaders: Alison Dean, Jackie Liao, Rob Stewart, Kristi Tollner, and William J. Wiggins. The team aims to develop a clear strategy over the next 60 days, engaging with various stakeholders including city and county leaders, community members, and unhoused youth. This initiative is part of YouthCare's commitment to transparency and revitalization, continuing its legacy of serving young people since its founding in 1974. The organization offers comprehensive support to over 1,500 young people annually, focusing on housing access, basic needs, and workforce training. Each member of the transition team brings extensive experience in nonprofit leadership and social impact, poised to drive sustainable change and foster collaboration within the community. Hartman emphasizes the importance of open communication and looks forward to connecting with supporters as YouthCare embarks on this new journey towards stability and hope for the youth it serves.

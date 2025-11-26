@@ -1,8 +1,7 @@
 ---
-title: Responding to the SNAP food benefits crisis 
 date: '2025-11-19T23:57:40+00:00'
-source: Solid Ground
-source_url: https://www.solid-ground.org/responding-to-the-snap-food-benefits-crisis/
+images:
+- 38fede4aaf8df686a831932b028eca13dbf02cd66dfc37c2de038890cb9f677b
 original_content: |-
   <p><img width="361" height="255" src="https://s14621.pcdn.co/wp-content/uploads/2025/11/FSSdelivery-CharlesKendrick-MBM-2025.09.24_15-361x255.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="A man wearing a hat and a sweater stands behind the open cap of a white box truck with the Solid Ground logo painted on the side." decoding="async" srcset="https://s14621.pcdn.co/wp-content/uploads/2025/11/FSSdelivery-CharlesKendrick-MBM-2025.09.24_15-361x255.jpg 361w, https://s14621.pcdn.co/wp-content/uploads/2025/11/FSSdelivery-CharlesKendrick-MBM-2025.09.24_15-300x212.jpg 300w, https://s14621.pcdn.co/wp-content/uploads/2025/11/FSSdelivery-CharlesKendrick-MBM-2025.09.24_15-768x543.jpg 768w, https://s14621.pcdn.co/wp-content/uploads/2025/11/FSSdelivery-CharlesKendrick-MBM-2025.09.24_15.jpg 801w" sizes="(max-width: 361px) 100vw, 361px" data-attachment-id="72336" data-permalink="https://www.solid-ground.org/responding-to-the-snap-food-benefits-crisis/fssdelivery-charleskendrick-mbm-2025-09-24_15/" data-orig-file="https://s14621.pcdn.co/wp-content/uploads/2025/11/FSSdelivery-CharlesKendrick-MBM-2025.09.24_15.jpg" data-orig-size="801,566" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;4.8&quot;,&quot;credit&quot;:&quot;Michael B. Maine&quot;,&quot;camera&quot;:&quot;LEICA M11&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1758711992&quot;,&quot;copyright&quot;:&quot;Michael B. Maine&quot;,&quot;focal_length&quot;:&quot;35&quot;,&quot;iso&quot;:&quot;400&quot;,&quot;shutter_speed&quot;:&quot;0.0005&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="FSSdelivery-CharlesKendrick-(MBM)-2025.09.24_15" data-image-description="" data-image-caption="&lt;p&gt;Charles Kendrick, a Solid Ground Food System Support driver (Credit: Michael B. Maine)&lt;/p&gt;
   " data-medium-file="https://s14621.pcdn.co/wp-content/uploads/2025/11/FSSdelivery-CharlesKendrick-MBM-2025.09.24_15-300x212.jpg" data-large-file="https://s14621.pcdn.co/wp-content/uploads/2025/11/FSSdelivery-CharlesKendrick-MBM-2025.09.24_15.jpg" /></p><p class="tmc-intro">For several scary days this month, more than half a million Washington state families were left to wonder how they’d get food on the table.</p>
@@ -102,11 +101,12 @@ original_markdown_body: |-
   Image at top: Charles Kendrick, a Solid Ground Food System Support driver (Credit: Michael B. Maine)
 
   The post [Responding to the SNAP&nbsp;food benefits&nbsp;crisis&nbsp;](https://www.solid-ground.org/responding-to-the-snap-food-benefits-crisis/) appeared first on [Solid Ground](https://www.solid-ground.org).
+source: Solid Ground
+source_url: https://www.solid-ground.org/responding-to-the-snap-food-benefits-crisis/
 summarized: true
+title: Responding to the SNAP food benefits crisis 
 topics:
 - Food & Nutrition
-images:
-- 38fede4aaf8df686a831932b028eca13dbf02cd66dfc37c2de038890cb9f677b
 ---
 
 For about 12 days in November 2025, over half a million families in Washington state faced uncertainty regarding their food security as payments from the Supplemental Nutrition Assistance Program (SNAP) were halted. Fortunately, following the reopening of the federal government on November 12, the Department of Social and Health Services resumed monthly payments. In response to the crisis, Solid Ground mobilized quickly, supporting local food banks through real-time assessments and emergency funding, distributing grocery store gift cards to residents, coordinating shuttle services to grocery stores, and providing nonperishable food supplies.

@@ -1,8 +1,6 @@
 ---
-title: Robinswood Park sports field improvements kick off
 date: '2025-11-24T17:25:47+00:00'
-source: City of Bellevue
-source_url: https://bellevuewa.gov/city-news/robinswood-park-sports-field-improvements-kick
+images: []
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Robinswood
   Park sports field improvements kick off</span>\n<span class=\"field field--name-uid
   field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/lmilstead\"
@@ -46,10 +44,12 @@ original_markdown_body: |-
   With a life span of 10 years, the synthetic turf is reaching the end of its life cycle. This spring, the fields will reopen for play. Meanwhile, improved, energy-efficient lights will be placed around the perimeter of the fields.&nbsp;
 
   <time datetime="2025-11-24T12:00:00Z" class="datetime">November 24 2025</time>
-summarized: true
-topics: []
 published: false
-images: []
+source: City of Bellevue
+source_url: https://bellevuewa.gov/city-news/robinswood-park-sports-field-improvements-kick
+summarized: true
+title: Robinswood Park sports field improvements kick off
+topics: []
 ---
 
 Construction at Robinswood Park is set to begin on December 1, focusing on installing new synthetic turf for two sports fields and upgrading the field lighting. Parks & Community Services Director Michael Shiosaki noted that these fields are the most utilized in the park system. The project is partially funded by the 2022 Parks and Open Space Levy, thanks to voter support. Upon completion in spring, the renovated fields will support various sports, including soccer and lacrosse, and will introduce a new cricket pitch to cater to Bellevue's diverse community. During the construction period, most programs will be relocated to other fields. The sports fields, located at 14919 SE 22nd St, recorded 2,000 reservations from 35 community groups, schools, and families in 2025, alongside additional usage from city youth sports programs. The existing synthetic turf, nearing the end of its 10-year lifespan, will be replaced, and energy-efficient lighting will be installed around the fields' perimeter. The fields are anticipated to reopen for play in the spring.

@@ -1,8 +1,6 @@
 ---
-title: Completing the Circle of Care
 date: '2025-09-04T23:01:58+00:00'
-source: Cancer Lifeline Financial Assistance for Cancer Patients
-source_url: https://cancerlifeline.org/completing-the-circle-of-care-why-i-founded-the-orion-center-for-integrative-medicine-dr-bonnie-mcgregor/
+images: []
 original_content: |-
   <p data-start="52" data-end="444">When Dr. Bonnie McGregor founded the Orion Center for Integrative Medicine in 2015, it was with one clear conviction: cancer care must treat the whole person. As a psychologist, researcher, and advocate, Dr. McGregor has long been passionate about bringing integrative and psychological care into the standard of cancer treatment—not as an afterthought, but as an essential part of healing.</p>
   <p data-start="446" data-end="1027">Earlier in a career at Fred Hutchinson Cancer Research Center, Dr. McGregor had the privilege of conducting research that demonstrated something profound: psychological interventions don’t just improve mood, they can also strengthen immune function and even extend survival among cancer survivors. The evidence was clear, but the challenge remained—how could these interventions be moved off the shelf and into the lives of real people? Dr. McGregor believed that creating a nonprofit was the best way to deliver evidence-based integrative care directly to patients and families.</p>
@@ -22,11 +20,13 @@ original_markdown_body: |-
   What Dr. McGregor finds most fulfilling is accompanying people through these transitions—supporting patients and families at a time when life feels uncertain, yet also full of possibility for growth. In 2025, Orion merged with Cancer Lifeline, an organization Dr. McGregor had admired for years as a close neighbor in the Dorothy O’Brien Center. Joining forces has been a gift, combining their strengths to expand access and deepen the impact of integrative care across the community. Together, they are ensuring that cancer care addresses not only the body, but also the mind, spirit, and whole person.
 
   &nbsp;
+source: Cancer Lifeline Financial Assistance for Cancer Patients
+source_url: https://cancerlifeline.org/completing-the-circle-of-care-why-i-founded-the-orion-center-for-integrative-medicine-dr-bonnie-mcgregor/
 summarized: true
+title: Completing the Circle of Care
 topics:
 - Health Care
 - Mental Health & Counseling
-images: []
 ---
 
 Dr. Bonnie McGregor founded the Orion Center for Integrative Medicine in 2015, driven by the belief that cancer care must encompass the whole person, integrating psychological support into standard treatment. Her research at Fred Hutchinson Cancer Research Center showed that psychological interventions can enhance mood, boost immune function, and improve survival rates for cancer survivors. To make these benefits accessible, she established a nonprofit that combines the expertise of psychologists with integrative health providers like acupuncturists and nutritionists, creating a comprehensive support system alongside traditional medical treatments such as surgery and chemotherapy.

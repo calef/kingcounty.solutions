@@ -1,8 +1,6 @@
 ---
-title: This Solid Ground volunteer is ready to answer the call(s) 
 date: '2025-04-03T23:21:55+00:00'
-source: Solid Ground
-source_url: https://www.solid-ground.org/this-solid-ground-volunteer-is-ready-to-answer-the-calls/
+images: []
 original_content: |-
   <p><img width="361" height="255" src="https://s14621.pcdn.co/wp-content/uploads/2025/04/AndreaMann-CM-03.26.25-2-801x-361x255.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="A wiling woman sits behind a computer monitor at an office desk." decoding="async" srcset="https://s14621.pcdn.co/wp-content/uploads/2025/04/AndreaMann-CM-03.26.25-2-801x-361x255.jpg 361w, https://s14621.pcdn.co/wp-content/uploads/2025/04/AndreaMann-CM-03.26.25-2-801x-300x212.jpg 300w, https://s14621.pcdn.co/wp-content/uploads/2025/04/AndreaMann-CM-03.26.25-2-801x-768x543.jpg 768w, https://s14621.pcdn.co/wp-content/uploads/2025/04/AndreaMann-CM-03.26.25-2-801x.jpg 801w" sizes="(max-width: 361px) 100vw, 361px" data-attachment-id="68967" data-permalink="https://www.solid-ground.org/this-solid-ground-volunteer-is-ready-to-answer-the-calls/andreamann-cm-03-26-25-2-801x/" data-orig-file="https://s14621.pcdn.co/wp-content/uploads/2025/04/AndreaMann-CM-03.26.25-2-801x.jpg" data-orig-size="801,566" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;6.3&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;NIKON D5600&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1742955144&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;31&quot;,&quot;iso&quot;:&quot;1250&quot;,&quot;shutter_speed&quot;:&quot;0.016666666666667&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="AndreaMann-(CM)-03.26.25-2-801x" data-image-description="" data-image-caption="" data-medium-file="https://s14621.pcdn.co/wp-content/uploads/2025/04/AndreaMann-CM-03.26.25-2-801x-300x212.jpg" data-large-file="https://s14621.pcdn.co/wp-content/uploads/2025/04/AndreaMann-CM-03.26.25-2-801x.jpg" /></p><p class="tmc-intro">When people call Solid Ground or walk into our Wallingford office seeking help, there’s a good chance the first face they see, or voice they hear, will be that of Andrea Mann.</p>
   <p><span data-contrast="auto">Andrea volunteers her time nearly every week at our front desk, where she’s often the person people encounter when they come to Solid Ground for help with issues ranging from housing to public benefits. Working with our staff, it’s her job to listen carefully to everyone’s story to better connect them with the right programs or services to address their needs.</span><span data-ccp-props="{}"> </span></p>
@@ -107,11 +105,13 @@ original_markdown_body: "![A wiling woman sits behind a computer monitor at an o
   Solid Ground community?_** [**_Volunteer with us!_**](https://www.solid-ground.org/get-involved/volunteer/)&nbsp;\n\nThe
   post [This Solid Ground volunteer is ready to answer the call(s)&nbsp;](https://www.solid-ground.org/this-solid-ground-volunteer-is-ready-to-answer-the-calls/)
   appeared first on [Solid Ground](https://www.solid-ground.org)."
+source: Solid Ground
+source_url: https://www.solid-ground.org/this-solid-ground-volunteer-is-ready-to-answer-the-calls/
 summarized: true
+title: This Solid Ground volunteer is ready to answer the call(s) 
 topics:
 - Shelter & Housing
 - Financial Assistance
-images: []
 ---
 
 Andrea Mann is a dedicated volunteer at Solid Ground, where she assists individuals seeking help with issues like housing and public benefits. Operating the front desk, she listens to clients' stories and connects them with appropriate services. Her empathetic approach has earned her praise from colleagues, including Administrative Services Supervisor Shelby Lunderman, who highlights Andrea’s ability to explain complex topics in accessible terms. 

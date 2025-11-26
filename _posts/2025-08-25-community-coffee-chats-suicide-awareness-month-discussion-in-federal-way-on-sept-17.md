@@ -1,8 +1,6 @@
 ---
-title: 'Community Coffee Chats: Suicide Awareness Month discussion in Federal Way on Sept. 17'
 date: '2025-08-25T20:34:46+00:00'
-source: Valley Cities Behavioral Health Care
-source_url: https://valleycities.org/community-coffee-chats-suicide-awareness-month-discussion-in-federal-way-on-sept-17/
+images: []
 original_content: |-
   <p>As seen in the Federal Way Mirror</p>
   <p>In recognition of Suicide Awareness Month, <a href="https://valleycities.org/" target="_blank" rel="nofollow noopener" data-mrf-link="https://valleycities.org/">Valley Cities Behavioral Health Care</a> invites community members to a <a href="https://www.eventbrite.com/e/community-coffee-chat-with-valley-cities-suicide-awareness-tickets-1591947651279?fbclid=IwY2xjawMSCY5leHRuA2FlbQIxMABicmlkETFlUkJNVjF4VGdTOE56MnI1AR7Vmz8Tf5cD-9gSOJeDcCxQLbqMBudFoRhH5zWr0FcpBADv_BuKMFM_31WBGw_aem_D9q0vdW5TgxMrwZtZY_mxg" target="_blank" rel="nofollow noopener" data-mrf-link="https://www.eventbrite.com/e/community-coffee-chat-with-valley-cities-suicide-awareness-tickets-1591947651279?fbclid=IwY2xjawMSCY5leHRuA2FlbQIxMABicmlkETFlUkJNVjF4VGdTOE56MnI1AR7Vmz8Tf5cD-9gSOJeDcCxQLbqMBudFoRhH5zWr0FcpBADv_BuKMFM_31WBGw_aem_D9q0vdW5TgxMrwZtZY_mxg">Coffee Chat in Federal Way</a> on Wednesday, Sept. 17, from 9 to 10:30 a.m. at <a href="https://www.google.com/maps/place/Valley+Cities+Behavioral+Health+Care/@47.302479,-122.3258149,809m/data=!3m1!1e3!4m15!1m8!3m7!1s0x549057a4681a8b39:0xd2de0a25dd36d0ec!2s33405+8th+Ave+S,+Federal+Way,+WA+98003,+USA!3b1!8m2!3d47.302479!4d-122.3258149!16s%2Fg%2F11c43tg960!3m5!1s0x549057a4660d38e9:0x65a314cc0926e635!8m2!3d47.3025342!4d-122.3255459!16s%2Fg%2F11cs36gx6k?entry=ttu&amp;g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D" target="_blank" rel="nofollow noopener" data-mrf-link="https://www.google.com/maps/place/Valley+Cities+Behavioral+Health+Care/@47.302479,-122.3258149,809m/data=!3m1!1e3!4m15!1m8!3m7!1s0x549057a4681a8b39:0xd2de0a25dd36d0ec!2s33405+8th+Ave+S,+Federal+Way,+WA+98003,+USA!3b1!8m2!3d47.302479!4d-122.3258149!16s%2Fg%2F11c43tg960!3m5!1s0x549057a4660d38e9:0x65a314cc0926e635!8m2!3d47.3025342!4d-122.3255459!16s%2Fg%2F11cs36gx6k?entry=ttu&amp;g_ep=EgoyMDI1MDgxNy4wIKXMDSoASAFQAw%3D%3D">33405 8th Ave S</a>.</p>
@@ -55,10 +53,13 @@ original_markdown_body: |-
   _If you or someone you know is currently struggling with mental health and/or addiction, contact the Valley Cities team by phone at 253-833-7444 or in person at your local Valley Cities location. You can also call the 24 hour crisis line at 206-461-3222 or toll free at 866-427-4747._
 
   The post [Community Coffee Chats: Suicide Awareness Month discussion in Federal Way on Sept. 17](https://valleycities.org/community-coffee-chats-suicide-awareness-month-discussion-in-federal-way-on-sept-17/) appeared first on [Valley Cities Behavioral Health Care](https://valleycities.org).
+source: Valley Cities Behavioral Health Care
+source_url: https://valleycities.org/community-coffee-chats-suicide-awareness-month-discussion-in-federal-way-on-sept-17/
 summarized: true
+title: 'Community Coffee Chats: Suicide Awareness Month discussion in Federal Way
+  on Sept. 17'
 topics:
 - Mental Health & Counseling
-images: []
 ---
 
 Valley Cities Behavioral Health Care is hosting a Coffee Chat in Federal Way on September 17 from 9 to 10:30 a.m. at 33405 8th Ave S, in observance of Suicide Awareness Month. The event aims to educate attendees on suicide prevention, bringing together community members and experts to discuss warning signs, risk factors, and support resources. Presenters include Valley Cities clinicians, crisis response professionals, and local law enforcement. The event will consist of sign-in, introductions, and a discussion with a Q&A session for participants to engage with the experts. Valley Cities emphasizes compassion and evidence-based strategies in suicide prevention and has partnered with King County since 2022 to implement a Zero Suicide Framework in its programs. This Coffee Chat aims to foster open dialogue about mental health, reduce stigma, and create a supportive community environment. All residents, families, and community partners are encouraged to attend. Valley Cities is also open to donations to sustain its services and offers support to those dealing with mental health and addiction challenges, including a 24-hour crisis line.

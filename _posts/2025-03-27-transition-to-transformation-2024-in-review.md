@@ -1,8 +1,6 @@
 ---
-title: 'Transition to Transformation: 2024 in Review'
 date: '2025-03-27T19:51:02+00:00'
-source: Wellspring Family Services
-source_url: https://wellspringfs.org/2024inreview/
+images: []
 original_content: |-
   <p>With your incredible support, we expanded housing services, secured new dedicated resources for veterans and their families, leveraged our expertise, integrated our unique support services to transform and expand resident care models within the affordable housing landscape, and celebrated our rapid rehousing program’s zero percent return-to-homelessness rate for four consecutive years! Our Family Store provided more than 2,200 families with essential items—clothing, diapers, hygiene products, and household supplies—helping them stretch limited resources and direct their finances toward critical expenses that keep them safely and stably housed. At the same time, our Employee Stability Program (ESP) officially began service. It is now in full swing, equipping employers with the tools to help their employees navigate crises and maintain or regain housing stability. Our Early Learning Center proudly graduated eleven children prepared to succeed in kindergarten and beyond, and equipped their parents and caregivers with the support and resources they need to continue their journey towards a stronger future.</p>
   <p>None of this would have been possible without your support. Through change and challenge, you have remained unwavering in your commitment to the families we serve, ensuring that Wellspring remains a source of stability and support.</p>
@@ -59,13 +57,15 @@ original_markdown_body: "With your incredible support, we expanded housing servi
   \ \nPeter Schultz  \nInterim CEO\n\n![](https://wellspringfs.org/wp-content/uploads/2025/03/MichaelaKaySignature-300x135.png)
   \ \nMichaela Kay  \nBoard Chair\n\nThe post [Transition to Transformation: 2024
   in Review](https://wellspringfs.org/2024inreview/) appeared first on [Wellspring](https://wellspringfs.org)."
+source: Wellspring Family Services
+source_url: https://wellspringfs.org/2024inreview/
 summarized: true
+title: 'Transition to Transformation: 2024 in Review'
 topics:
 - Shelter & Housing
 - Childcare
 - Employment & Job Support
 - Financial Assistance
-images: []
 ---
 
 With community support, Wellspring expanded its housing services and resources for veterans and families, achieving a zero percent return-to-homelessness rate in its rapid rehousing program for four years. The Family Store assisted over 2,200 families with essential items, while the Employee Stability Program (ESP) equipped employers to help employees maintain housing stability. The Early Learning Center graduated eleven children, providing resources for their families to enhance their future. Despite facing significant challenges, including leadership transitions and program shifts, Wellspring took decisive actions to strengthen its foundation and commitment to the families it serves. As 2025 approaches, the board is initiating a strategic planning process and searching for a permanent CEO, recognizing the growing need for its services amid increasing housing instability. Wellspring aims to expand its affordable housing support while navigating uncertainties in government funding and policy changes. By enhancing partnerships and diversifying strategies, Wellspring is positioned to maintain robust services and continue its mission of providing stable housing for families. The organization expresses gratitude for community support, emphasizing the collective effort in shaping a future where every child and family has safe and stable housing.

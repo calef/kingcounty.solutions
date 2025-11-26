@@ -1,8 +1,6 @@
 ---
-title: 'stories that connect: exploring technology’s role in sharing family journeys'
 date: '2025-09-17T19:38:23+00:00'
-source: Mary's Place
-source_url: https://www.marysplaceseattle.org/blog/stories-that-connect-exploring-technologys-role-in-sharing-family-journeys
+images: []
 original_content: "<p class=\"\">At Mary's Place, we're always excited to explore
   new ways to share the powerful stories of the families we're honored to serve. Recently,
   we had an exciting opportunity to team up with Alson.AI on an AI-enhanced storytelling
@@ -51,13 +49,15 @@ original_markdown_body: |-
   Organizations interested in exploring similar exciting possibilities can connect with the wonderful team at Alson.AI at [social@alson.ai](mailto:social@alson.ai "mailto:social@alson.ai").
 
   https://heyzine.com/flip-book/e657ddd138.html
+source: Mary's Place
+source_url: https://www.marysplaceseattle.org/blog/stories-that-connect-exploring-technologys-role-in-sharing-family-journeys
 summarized: true
+title: 'stories that connect: exploring technology’s role in sharing family journeys'
 topics:
 - Shelter & Housing
 - Domestic Violence
 - Financial Assistance
 - Childcare
-images: []
 ---
 
 Mary's Place recently collaborated with Alson.AI on an AI-enhanced storytelling project to share the story of Sara, a mother living in her car with her two children while seeking a safe home. This partnership aimed to explore how technology can amplify the impactful narratives of the families served by the organization. Starting with Sara's outline, the collaboration involved refining the narrative to authentically represent her journey, with a focus on her resilience.

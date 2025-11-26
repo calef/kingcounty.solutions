@@ -1,8 +1,6 @@
 ---
-title: 'DBT Skill Spotlight: IMPROVE Skill for Anxiety'
 date: '2025-10-15T16:13:14+00:00'
-source: THIRA Health
-source_url: https://thirahealth.com/2025/10/15/dbt-skill-spotlight-improve-skill-for-anxiety/?utm_source=rss&utm_medium=rss&utm_campaign=dbt-skill-spotlight-improve-skill-for-anxiety
+images: []
 original_content: |-
   <p class="p1">Anxiety symptoms are often loud and impossible to ignore. At its best, <a href="https://www.nimh.nih.gov/health/topics/anxiety-disorders%23:~:text=Anxiety%2520disorder%2520symptoms%2520can%2520interfere%2520with%2520daily,encounters,%2520or%2520refuse%2520to%2520leave%2520their%2520home."><span class="s1">anxiety can keep us alert and prepared</span></a>—like the nerves that sharpen focus before a test or the quick response that helps us avoid danger. But when anxiety lingers too long or shows up too often, it stops being useful. Instead, it becomes disruptive, exhausting, and overwhelming.</p>
   <p class="p1">If you live with an anxiety disorder, you know how much it can interfere with daily life. Constant worry, racing thoughts, panic attacks, insomnia, and even physical symptoms like stomach issues or a pounding heart can leave you feeling trapped in distress. <a href="https://dbtselfhelp.com/improve-the-moment/"><span class="s1">Avoiding every trigger isn’t realistic</span></a>, so learning how to manage anxiety in the moment becomes essential.</p>
@@ -88,10 +86,12 @@ original_markdown_body: |-
   IMPROVE is one of many distress tolerance DBT skills that are used in THIRA Health anxiety treatment program, alongside DBT skills that support mindfulness, interpersonal effectiveness, and emotional regulation to reduce the impact anxiety has on your life.
 
   If you or a loved one are struggling with anxiety, [contact THIRA Health today](https://thirahealth.com/contact/) to start working with our expert therapists. At THRIA Health’s Bellevue mental health treatment center, our comprehensive DBT programs [take a holistic approach to mental health](https://thirahealth.com/2024/10/09/how-do-holistic-mental-health-treatments-help/), using DBT, mindful movement, family support, community involvement, and artistic expression to help you not only cope with the extremes of anxiety but to thrive.
+source: THIRA Health
+source_url: https://thirahealth.com/2025/10/15/dbt-skill-spotlight-improve-skill-for-anxiety/?utm_source=rss&utm_medium=rss&utm_campaign=dbt-skill-spotlight-improve-skill-for-anxiety
 summarized: true
+title: 'DBT Skill Spotlight: IMPROVE Skill for Anxiety'
 topics:
 - Mental Health & Counseling
-images: []
 ---
 
 Anxiety can be overwhelming, disrupting daily life with constant worry, panic attacks, and physical symptoms. Learning to manage anxiety is crucial, especially since avoiding triggers isn't feasible. The IMPROVE skill from Dialectical Behavior Therapy (DBT) is a valuable tool for coping with anxiety when it feels unbearable. Each letter in IMPROVE represents a strategy to create space, soothe the nervous system, and shift perspective.

@@ -1,8 +1,6 @@
 ---
-title: 'Mossback’s Northwest: Early Roots of Seattle’s Libraries'
 date: '2025-11-21T20:14:04+00:00'
-source: Homework Help
-source_url: https://blog.spl.org/2025/11/21/mossbacks-northwest-early-roots-of-seattles-libraries/
+images: []
 original_content: |-
   <p>How did Seattle become a literary city? The roots to that accomplishment began &#8220;in the muck and mire of the frontier city,&#8221; says Cascade PBS host of Mossback&#8217;s Northwest, Knute Berger (aka Mossback).</p>
   <p>Mossback recently aired a <a href="https://www.youtube.com/watch?v=ZnNva0_VnZE&amp;list=PL18y1vgsGPLb3VLSg4y7E-PKU_A1uMu23&amp;index=3&amp;pp=iAQB">fascinating episode</a> on the city&#8217;s literary roots, and its connection to Skid Road. It was filmed partly in the Central Library&#8217;s Seattle Room, a treasure chest of early Seattle artifacts and historical documents.</p>
@@ -34,10 +32,12 @@ original_markdown_body: |-
   &nbsp;
 
   &nbsp;
-summarized: true
-topics: []
 published: false
-images: []
+source: Homework Help
+source_url: https://blog.spl.org/2025/11/21/mossbacks-northwest-early-roots-of-seattles-libraries/
+summarized: true
+title: 'Mossback’s Northwest: Early Roots of Seattle’s Libraries'
+topics: []
 ---
 
 Mossback’s Northwest recently highlighted the early literary roots of Seattle in an episode hosted by Knute Berger. The program explores how the city evolved into a literary hub, tracing its origins back to its frontier days and its connection to Skid Road. A notable feature of the episode is an 1889 book ledger from the Central Library’s Seattle Room, showcasing some of the library's earliest volumes. The episode also reveals an intriguing link between Seattle and Jack London, the author of "Call of the Wild." The Seattle Room, located on Level 10 of the Central Library, is open to the public, allowing visitors to explore its extensive collections, which include over 50,000 items reflecting Seattle’s diverse history. Open hours are Tuesdays, Wednesdays, and Thursdays from 1 to 5 p.m., and appointments can be made for specific research topics or general exploration. The episode runs for about seven minutes and offers a captivating glimpse into the city’s literary heritage.

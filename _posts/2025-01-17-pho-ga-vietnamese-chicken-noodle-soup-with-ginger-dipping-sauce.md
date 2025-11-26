@@ -1,14 +1,149 @@
 ---
-title: Pho Ga (Vietnamese Chicken Noodle Soup) with Ginger Dipping Sauce
 date: '2025-01-17T19:28:00+00:00'
+images: []
+original_content: "<p class=\"\">Shared by <a href=\"https://thepantryseattle.com/\"
+  target=\"_blank\"><em>The Pantry Seattle</em></a></p><p class=\"\">Recipe adapted
+  from Michelle Nguyen </p><p class=\"\">Yield: 4 serving</p><h3>Ingredients</h3><h4>Broth</h4><p
+  class=\"\">1 whole yellow onion</p><p class=\"\">4 whole shallots</p><p class=\"\">4-inch
+  fresh ginger</p><p class=\"\">1 whole chicken, about 4 pounds, excess fat and tail
+  removed</p><p class=\"\">4 quarts water</p><p class=\"\">1 1/2 tablespoons of kosher
+  salt, plus more for exfoliating the chicken</p><p class=\"\">3 tablespoons fish
+  sauce</p><p class=\"\">1-inch chunk of rock sugar, about 1 ounce</p><p class=\"\">2
+  tablespoons toasted coriander seeds</p><p class=\"\">4 toasted whole cloves</p><p
+  class=\"\">2 toasted whole star anise</p><p class=\"\">1 cinnamon stick</p><p class=\"\">1/4
+  bunch of cilantro, tied with kitchen twine</p><h4>Fried shallots</h4><p class=\"\">1/2
+  cup neutral high temperature oil, such as canola or safflower</p><p class=\"\">1/4
+  cup dried shallots</p><p class=\"\">Pickled onions and serrano peppers:</p><p class=\"\">1/2
+  cup rice vinegar</p><p class=\"\">1 tablespoon water</p><p class=\"\">1 tablespoon
+  sugar</p><p class=\"\">1/2 white onion, sliced paper thin, soak in cold water for
+  30 minutes, then drain</p><p class=\"\">3 red serrano peppers</p><h4>Garnishes</h4><p
+  class=\"\">2 scallions</p><p class=\"\">1/3 cup cilantro</p><p class=\"\">1/3 cup
+  Thai basil leaves</p><p class=\"\">1 lime</p><h4>Ginger Fish Sauce Dipping Sauce</h4><p
+  class=\"\">2-inch piece fresh ginger, peeled</p><p class=\"\">5 garlic cloves, peeled</p><p
+  class=\"\">1-2 red chili peppers, such as Thai bird or serrano</p><p class=\"\">1/4
+  cup fish sauce</p><p class=\"\">1/3 cup granulated white sugar</p><p class=\"\">Juice
+  of 1 lime</p><h4>For the Bowls</h4><p class=\"\">1-pound flat rice noodles (banh
+  pho), fresh or dried</p><p class=\"\">Freshly ground black pepper, to taste</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+  \ \n  \n\n\n\n\n\n\n  <h3>Instructions </h3><h4>Make the broth</h4><p class=\"\">Preheat
+  oven to 400 F. Place whole onion, shallots, and ginger on a baking sheet and roast
+  for 15 minutes. This will allow the sweetness to come through. Once done, peel any
+  charred skin off.</p><p class=\"\">Clean the chicken: Sprinkle the chicken with
+  a generous amount of salt. Give it a full exfoliating body scrub then rinse under
+  cold running water. Drain and pat dry.</p><p class=\"\">Place the chicken in a large
+  stock pot and add 4 quarts of water to (make sure it will fit the chicken without
+  overflowing). Add the roasted onion, shallots, and ginger. Add the 1 1/2 tablespoons
+  kosher salt, fish sauce, rock sugar, coriander, cloves, star anise, cinnamon stick,
+  and tied cilantro to the pot. Bring the water to a boil, once boiled turn down the
+  heat to simmer. Cook stock pot for 30 minutes on a low simmer.</p><p class=\"\">Test
+  the chicken for doneness after 30 minutes. Pierce chicken with a chopstick in between
+  the joint of the breast and leg. If water runs clear, chicken is done. Transfer
+  chicken to an ice bath. When cool enough to handle, slice chicken into thin strips.
+  Return all bones back to the stockpot.</p><p class=\"\">Continue to cook the broth
+  for one full hour, remove all solids from the stock pot and discard them after one
+  hour. Season the stock with salt, rock sugar, and fish sauce. It's best to season
+  a little at a time to your liking. Like all noodle soups, you want the flavors to
+  be strong and bold. Once noodles are added, flavor will mellow out quite a bit.
+  </p><h4>Fry the shallots</h4><p class=\"\">Heat 1/2 cup of oil in a small pot on
+  medium high. Once the oil comes up to 325 F, put the dried shallots in the hot oil
+  and fry until golden. This should be no more than 30 seconds. Strain the fried shallots
+  and set aside for garnish.</p><h4>Pickle the onions and serrano peppers</h4><p class=\"\">Mix
+  the rice vinegar, water, and sugar. Place the thinly sliced onions and serranos
+  in the pickling liquid. Set aside.</p><h4>Prep the garnishes</h4><p class=\"\">Slice
+  the scallions into thin rounds. Roughly chop the cilantro. Slice lime into wedges.
+  Set aside.</p><h4>Make dipping sauce</h4><p class=\"\">Cut the ginger into a fine
+  julienne. Mince the garlic and thinly slice the chili peppers. Put the julienned
+  ginger in a small mixing bowl and add the rest of the ingredients together. Mix
+  until the sugar dissolves.</p><h4>Assemble the Pho Ga bowls</h4><p class=\"\">If
+  using dried noodles, cover them with hot tap water and let soak for 15 to 20 minutes,
+  or until they are pliable and opaque. Drain in a colander. If using fresh rice noodles,
+  untangle them, and portion them.</p><p class=\"\">Cut the cooked chicken into slices
+  about 1/4 inch thick, cutting the meat off the bone as necessary. If you don’t want
+  to eat the skin, discard it first. Set the chicken aside. Ready the scallions and
+  cilantro for adding to the bowls. Arrange the garnishes on a plate and put on the
+  table.</p><p class=\"\">To ensure good timing, bring the broth to a simmer over
+  medium heat as you are assembling the bowls. At </p><p class=\"\">the same time,
+  fill a large pot with water and bring to a rolling boil.</p><p class=\"\">For each
+  bowl, place a portion of the noodles on a vertical-handle strainer (or mesh sieve)
+  and dunk the noodles in the boiling water. As soon as they have collapsed and lost
+  their stiffness (10 to 20 seconds), pull the strainer from the water, letting the
+  water drain back into the pot. Empty the noodles into a bowl.</p><p class=\"\">Top
+  each bowl of noodles with chicken, arranging the slices flat. Place a mound of pickled
+  onion and serranos in the center and then shower some scallion and cilantro on top.
+  Finish with a sprinkle of black pepper.</p><p class=\"\">Raise the heat and bring
+  the broth to a rolling boil. Do a final tasting and make any last-minute flavor
+  adjustments. Ladle about 2 cups of broth into each bowl, distributing the hot liquid
+  evenly to warm all the ingredients. Serve immediately with the garnishes. Use the
+  ginger fish dipping sauce with the pieces of chicken meat.</p>"
+original_markdown_body: "Shared by [_The Pantry Seattle_](https://thepantryseattle.com/)\n\nRecipe
+  adapted from Michelle Nguyen\n\nYield: 4 serving\n\n### Ingredients\n\n#### Broth\n\n1
+  whole yellow onion\n\n4 whole shallots\n\n4-inch fresh ginger\n\n1 whole chicken,
+  about 4 pounds, excess fat and tail removed\n\n4 quarts water\n\n1 1/2 tablespoons
+  of kosher salt, plus more for exfoliating the chicken\n\n3 tablespoons fish sauce\n\n1-inch
+  chunk of rock sugar, about 1 ounce\n\n2 tablespoons toasted coriander seeds\n\n4
+  toasted whole cloves\n\n2 toasted whole star anise\n\n1 cinnamon stick\n\n1/4 bunch
+  of cilantro, tied with kitchen twine\n\n#### Fried shallots\n\n1/2 cup neutral high
+  temperature oil, such as canola or safflower\n\n1/4 cup dried shallots\n\nPickled
+  onions and serrano peppers:\n\n1/2 cup rice vinegar\n\n1 tablespoon water\n\n1 tablespoon
+  sugar\n\n1/2 white onion, sliced paper thin, soak in cold water for 30 minutes,
+  then drain\n\n3 red serrano peppers\n\n#### Garnishes\n\n2 scallions\n\n1/3 cup
+  cilantro\n\n1/3 cup Thai basil leaves\n\n1 lime\n\n#### Ginger Fish Sauce Dipping
+  Sauce\n\n2-inch piece fresh ginger, peeled\n\n5 garlic cloves, peeled\n\n1-2 red
+  chili peppers, such as Thai bird or serrano\n\n1/4 cup fish sauce\n\n1/3 cup granulated
+  white sugar\n\nJuice of 1 lime\n\n#### For the Bowls\n\n1-pound flat rice noodles
+  (banh pho), fresh or dried\n\nFreshly ground black pepper, to taste\n\n### Instructions
+  \n\n#### Make the broth\n\nPreheat oven to 400 F. Place whole onion, shallots, and
+  ginger on a baking sheet and roast for 15 minutes. This will allow the sweetness
+  to come through. Once done, peel any charred skin off.\n\nClean the chicken: Sprinkle
+  the chicken with a generous amount of salt. Give it a full exfoliating body scrub
+  then rinse under cold running water. Drain and pat dry.\n\nPlace the chicken in
+  a large stock pot and add 4 quarts of water to (make sure it will fit the chicken
+  without overflowing). Add the roasted onion, shallots, and ginger. Add the 1 1/2
+  tablespoons kosher salt, fish sauce, rock sugar, coriander, cloves, star anise,
+  cinnamon stick, and tied cilantro to the pot. Bring the water to a boil, once boiled
+  turn down the heat to simmer. Cook stock pot for 30 minutes on a low simmer.\n\nTest
+  the chicken for doneness after 30 minutes. Pierce chicken with a chopstick in between
+  the joint of the breast and leg. If water runs clear, chicken is done. Transfer
+  chicken to an ice bath. When cool enough to handle, slice chicken into thin strips.
+  Return all bones back to the stockpot.\n\nContinue to cook the broth for one full
+  hour, remove all solids from the stock pot and discard them after one hour. Season
+  the stock with salt, rock sugar, and fish sauce. It's best to season a little at
+  a time to your liking. Like all noodle soups, you want the flavors to be strong
+  and bold. Once noodles are added, flavor will mellow out quite a bit.\n\n#### Fry
+  the shallots\n\nHeat 1/2 cup of oil in a small pot on medium high. Once the oil
+  comes up to 325 F, put the dried shallots in the hot oil and fry until golden. This
+  should be no more than 30 seconds. Strain the fried shallots and set aside for garnish.\n\n####
+  Pickle the onions and serrano peppers\n\nMix the rice vinegar, water, and sugar.
+  Place the thinly sliced onions and serranos in the pickling liquid. Set aside.\n\n####
+  Prep the garnishes\n\nSlice the scallions into thin rounds. Roughly chop the cilantro.
+  Slice lime into wedges. Set aside.\n\n#### Make dipping sauce\n\nCut the ginger
+  into a fine julienne. Mince the garlic and thinly slice the chili peppers. Put the
+  julienned ginger in a small mixing bowl and add the rest of the ingredients together.
+  Mix until the sugar dissolves.\n\n#### Assemble the Pho Ga bowls\n\nIf using dried
+  noodles, cover them with hot tap water and let soak for 15 to 20 minutes, or until
+  they are pliable and opaque. Drain in a colander. If using fresh rice noodles, untangle
+  them, and portion them.\n\nCut the cooked chicken into slices about 1/4 inch thick,
+  cutting the meat off the bone as necessary. If you don’t want to eat the skin, discard
+  it first. Set the chicken aside. Ready the scallions and cilantro for adding to
+  the bowls. Arrange the garnishes on a plate and put on the table.\n\nTo ensure good
+  timing, bring the broth to a simmer over medium heat as you are assembling the bowls.
+  At\n\nthe same time, fill a large pot with water and bring to a rolling boil.\n\nFor
+  each bowl, place a portion of the noodles on a vertical-handle strainer (or mesh
+  sieve) and dunk the noodles in the boiling water. As soon as they have collapsed
+  and lost their stiffness (10 to 20 seconds), pull the strainer from the water, letting
+  the water drain back into the pot. Empty the noodles into a bowl.\n\nTop each bowl
+  of noodles with chicken, arranging the slices flat. Place a mound of pickled onion
+  and serranos in the center and then shower some scallion and cilantro on top. Finish
+  with a sprinkle of black pepper.\n\nRaise the heat and bring the broth to a rolling
+  boil. Do a final tasting and make any last-minute flavor adjustments. Ladle about
+  2 cups of broth into each bowl, distributing the hot liquid evenly to warm all the
+  ingredients. Serve immediately with the garnishes. Use the ginger fish dipping sauce
+  with the pieces of chicken meat."
+published: false
 source: Rainier Valley Food Bank
 source_url: https://www.rvfb.org/blog/pho-ga-vietnamese-chicken-noodle-soup-with-ginger-dipping-sauce
-original_content: "<p class=\"\">Shared by <a href=\"https://thepantryseattle.com/\" target=\"_blank\"><em>The Pantry Seattle</em></a></p><p class=\"\">Recipe adapted from Michelle Nguyen </p><p class=\"\">Yield: 4 serving</p><h3>Ingredients</h3><h4>Broth</h4><p class=\"\">1 whole yellow onion</p><p class=\"\">4 whole shallots</p><p class=\"\">4-inch fresh ginger</p><p class=\"\">1 whole chicken, about 4 pounds, excess fat and tail removed</p><p class=\"\">4 quarts water</p><p class=\"\">1 1/2 tablespoons of kosher salt, plus more for exfoliating the chicken</p><p class=\"\">3 tablespoons fish sauce</p><p class=\"\">1-inch chunk of rock sugar, about 1 ounce</p><p class=\"\">2 tablespoons toasted coriander seeds</p><p class=\"\">4 toasted whole cloves</p><p class=\"\">2 toasted whole star anise</p><p class=\"\">1 cinnamon stick</p><p class=\"\">1/4 bunch of cilantro, tied with kitchen twine</p><h4>Fried shallots</h4><p class=\"\">1/2 cup neutral high temperature oil, such as canola or safflower</p><p class=\"\">1/4 cup dried shallots</p><p class=\"\">Pickled onions and serrano peppers:</p><p class=\"\">1/2 cup rice vinegar</p><p class=\"\">1 tablespoon water</p><p class=\"\">1 tablespoon sugar</p><p class=\"\">1/2 white onion, sliced paper thin, soak in cold water for 30 minutes, then drain</p><p class=\"\">3 red serrano peppers</p><h4>Garnishes</h4><p class=\"\">2 scallions</p><p class=\"\">1/3 cup cilantro</p><p class=\"\">1/3 cup Thai basil leaves</p><p class=\"\">1 lime</p><h4>Ginger Fish Sauce Dipping Sauce</h4><p class=\"\">2-inch piece fresh ginger, peeled</p><p class=\"\">5 garlic cloves, peeled</p><p class=\"\">1-2 red chili peppers, such as Thai bird or serrano</p><p class=\"\">1/4 cup fish sauce</p><p class=\"\">1/3 cup granulated white sugar</p><p class=\"\">Juice of 1 lime</p><h4>For the Bowls</h4><p class=\"\">1-pound flat rice noodles (banh pho), fresh or dried</p><p class=\"\">Freshly ground black pepper, to taste</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n  \n\n\n\n\n\n\n  <h3>Instructions </h3><h4>Make the broth</h4><p class=\"\">Preheat oven to 400 F. Place whole onion, shallots, and ginger on a baking sheet and roast for 15 minutes. This will allow the sweetness to come through. Once done, peel any charred skin off.</p><p class=\"\">Clean the chicken: Sprinkle the chicken with a generous amount of salt. Give it a full exfoliating body scrub then rinse under cold running water. Drain and pat dry.</p><p class=\"\">Place the chicken in a large stock pot and add 4 quarts of water to (make sure it will fit the chicken without overflowing). Add the roasted onion, shallots, and ginger. Add the 1 1/2 tablespoons kosher salt, fish sauce, rock sugar, coriander, cloves, star anise, cinnamon stick, and tied cilantro to the pot. Bring the water to a boil, once boiled turn down the heat to simmer. Cook stock pot for 30 minutes on a low simmer.</p><p class=\"\">Test the chicken for doneness after 30 minutes. Pierce chicken with a chopstick in between the joint of the breast and leg. If water runs clear, chicken is done. Transfer chicken to an ice bath. When cool enough to handle, slice chicken into thin strips. Return all bones back to the stockpot.</p><p class=\"\">Continue to cook the broth for one full hour, remove all solids from the stock pot and discard them after one hour. Season the stock with salt, rock sugar, and fish sauce. It's best to season a little at a time to your liking. Like all noodle soups, you want the flavors to be strong and bold. Once noodles are added, flavor will mellow out quite a bit. </p><h4>Fry the shallots</h4><p class=\"\">Heat 1/2 cup of oil in a small pot on medium high. Once the oil comes up to 325 F, put the dried shallots in the hot oil and fry until golden. This should be no more than 30 seconds. Strain the fried shallots and set aside for garnish.</p><h4>Pickle the onions and serrano peppers</h4><p class=\"\">Mix the rice vinegar, water, and sugar. Place the thinly sliced onions and serranos in the pickling liquid. Set aside.</p><h4>Prep the garnishes</h4><p class=\"\">Slice the scallions into thin rounds. Roughly chop the cilantro. Slice lime into wedges. Set aside.</p><h4>Make dipping sauce</h4><p class=\"\">Cut the ginger into a fine julienne. Mince the garlic and thinly slice the chili peppers. Put the julienned ginger in a small mixing bowl and add the rest of the ingredients together. Mix until the sugar dissolves.</p><h4>Assemble the Pho Ga bowls</h4><p class=\"\">If using dried noodles, cover them with hot tap water and let soak for 15 to 20 minutes, or until they are pliable and opaque. Drain in a colander. If using fresh rice noodles, untangle them, and portion them.</p><p class=\"\">Cut the cooked chicken into slices about 1/4 inch thick, cutting the meat off the bone as necessary. If you don’t want to eat the skin, discard it first. Set the chicken aside. Ready the scallions and cilantro for adding to the bowls. Arrange the garnishes on a plate and put on the table.</p><p class=\"\">To ensure good timing, bring the broth to a simmer over medium heat as you are assembling the bowls. At </p><p class=\"\">the same time, fill a large pot with water and bring to a rolling boil.</p><p class=\"\">For each bowl, place a portion of the noodles on a vertical-handle strainer (or mesh sieve) and dunk the noodles in the boiling water. As soon as they have collapsed and lost their stiffness (10 to 20 seconds), pull the strainer from the water, letting the water drain back into the pot. Empty the noodles into a bowl.</p><p class=\"\">Top each bowl of noodles with chicken, arranging the slices flat. Place a mound of pickled onion and serranos in the center and then shower some scallion and cilantro on top. Finish with a sprinkle of black pepper.</p><p class=\"\">Raise the heat and bring the broth to a rolling boil. Do a final tasting and make any last-minute flavor adjustments. Ladle about 2 cups of broth into each bowl, distributing the hot liquid evenly to warm all the ingredients. Serve immediately with the garnishes. Use the ginger fish dipping sauce with the pieces of chicken meat.</p>"
-original_markdown_body: "Shared by [_The Pantry Seattle_](https://thepantryseattle.com/)\n\nRecipe adapted from Michelle Nguyen\n\nYield: 4 serving\n\n### Ingredients\n\n#### Broth\n\n1 whole yellow onion\n\n4 whole shallots\n\n4-inch fresh ginger\n\n1 whole chicken, about 4 pounds, excess fat and tail removed\n\n4 quarts water\n\n1 1/2 tablespoons of kosher salt, plus more for exfoliating the chicken\n\n3 tablespoons fish sauce\n\n1-inch chunk of rock sugar, about 1 ounce\n\n2 tablespoons toasted coriander seeds\n\n4 toasted whole cloves\n\n2 toasted whole star anise\n\n1 cinnamon stick\n\n1/4 bunch of cilantro, tied with kitchen twine\n\n#### Fried shallots\n\n1/2 cup neutral high temperature oil, such as canola or safflower\n\n1/4 cup dried shallots\n\nPickled onions and serrano peppers:\n\n1/2 cup rice vinegar\n\n1 tablespoon water\n\n1 tablespoon sugar\n\n1/2 white onion, sliced paper thin, soak in cold water for 30 minutes, then drain\n\n3 red serrano peppers\n\n#### Garnishes\n\n2 scallions\n\n1/3 cup cilantro\n\n1/3 cup Thai basil leaves\n\n1 lime\n\n#### Ginger Fish Sauce Dipping Sauce\n\n2-inch piece fresh ginger, peeled\n\n5 garlic cloves, peeled\n\n1-2 red chili peppers, such as Thai bird or serrano\n\n1/4 cup fish sauce\n\n1/3 cup granulated white sugar\n\nJuice of 1 lime\n\n#### For the Bowls\n\n1-pound flat rice noodles (banh pho), fresh or dried\n\nFreshly ground black pepper, to taste\n\n### Instructions \n\n#### Make the broth\n\nPreheat oven to 400 F. Place whole onion, shallots, and ginger on a baking sheet and roast for 15 minutes. This will allow the sweetness to come through. Once done, peel any charred skin off.\n\nClean the chicken: Sprinkle the chicken with a generous amount of salt. Give it a full exfoliating body scrub then rinse under cold running water. Drain and pat dry.\n\nPlace the chicken in a large stock pot and add 4 quarts of water to (make sure it will fit the chicken without overflowing). Add the roasted onion, shallots, and ginger. Add the 1 1/2 tablespoons kosher salt, fish sauce, rock sugar, coriander, cloves, star anise, cinnamon stick, and tied cilantro to the pot. Bring the water to a boil, once boiled turn down the heat to simmer. Cook stock pot for 30 minutes on a low simmer.\n\nTest the chicken for doneness after 30 minutes. Pierce chicken with a chopstick in between the joint of the breast and leg. If water runs clear, chicken is done. Transfer chicken to an ice bath. When cool enough to handle, slice chicken into thin strips. Return all bones back to the stockpot.\n\nContinue to cook the broth for one full hour, remove all solids from the stock pot and discard them after one hour. Season the stock with salt, rock sugar, and fish sauce. It's best to season a little at a time to your liking. Like all noodle soups, you want the flavors to be strong and bold. Once noodles are added, flavor will mellow out quite a bit.\n\n#### Fry the shallots\n\nHeat 1/2 cup of oil in a small pot on medium high. Once the oil comes up to 325 F, put the dried shallots in the hot oil and fry until golden. This should be no more than 30 seconds. Strain the fried shallots and set aside for garnish.\n\n#### Pickle the onions and serrano peppers\n\nMix the rice vinegar, water, and sugar. Place the thinly sliced onions and serranos in the pickling liquid. Set aside.\n\n#### Prep the garnishes\n\nSlice the scallions into thin rounds. Roughly chop the cilantro. Slice lime into wedges. Set aside.\n\n#### Make dipping sauce\n\nCut the ginger into a fine julienne. Mince the garlic and thinly slice the chili peppers. Put the julienned ginger in a small mixing bowl and add the rest of the ingredients together. Mix until the sugar dissolves.\n\n#### Assemble the Pho Ga bowls\n\nIf using dried noodles, cover them with hot tap water and let soak for 15 to 20 minutes, or until they are pliable and opaque. Drain in a colander. If using fresh rice noodles, untangle them, and portion them.\n\nCut the cooked chicken into slices about 1/4 inch thick, cutting the meat off the bone as necessary. If you don’t want to eat the skin, discard it first. Set the chicken aside. Ready the scallions and cilantro for adding to the bowls. Arrange the garnishes on a plate and put on the table.\n\nTo ensure good timing, bring the broth to a simmer over medium heat as you are assembling the bowls. At\n\nthe same time, fill a large pot with water and bring to a rolling boil.\n\nFor each bowl, place a portion of the noodles on a vertical-handle strainer (or mesh sieve) and dunk the noodles in the boiling water. As soon as they have collapsed and lost their stiffness (10 to 20 seconds), pull the strainer from the water, letting the water drain back into the pot. Empty the noodles into a bowl.\n\nTop each bowl of noodles with chicken, arranging the slices flat. Place a mound of pickled onion and serranos in the center and then shower some scallion and cilantro on top. Finish with a sprinkle of black pepper.\n\nRaise the heat and bring the broth to a rolling boil. Do a final tasting and make any last-minute flavor adjustments. Ladle about 2 cups of broth into each bowl, distributing the hot liquid evenly to warm all the ingredients. Serve immediately with the garnishes. Use the ginger fish dipping sauce with the pieces of chicken meat."
 summarized: true
+title: Pho Ga (Vietnamese Chicken Noodle Soup) with Ginger Dipping Sauce
 topics: []
-published: false
-images: []
 ---
 
 Pho Ga is a Vietnamese chicken noodle soup accompanied by a ginger dipping sauce, yielding four servings. The recipe requires a whole chicken, fresh ginger, shallots, and various spices to create a flavorful broth. After roasting the onion, shallots, and ginger, the chicken is cleaned and simmered with the aromatics and seasonings for about 30 minutes, then cooled and sliced. The broth is further cooked for an hour, strained, and seasoned to taste.

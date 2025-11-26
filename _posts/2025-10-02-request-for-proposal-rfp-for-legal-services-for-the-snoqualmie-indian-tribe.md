@@ -1,13 +1,55 @@
 ---
-title: Request for Proposal (RFP) for Legal Services For the Snoqualmie Indian Tribe
 date: '2025-10-02T21:50:56+00:00'
+images: []
+original_content: "The Tribe seeks to retain the services of an experienced law firm
+  to provide legal services for a three-year term.\n\nThe successful respondent will,
+  in accordance with the highest legal, ethical and professional standards, at the
+  direction of the Tribal Council, provide legal services including but not limited
+  to the following: business law, civil/litigation law, criminal law, environment
+  and natural resources law, family and juvenile law, health law, insurance, intergovernmental
+  relations, labor laws, law and policy drafting, personal injury law, real estate
+  law, treat rights, tax law, and other legal services needed. The successful respondent
+  will need to be available to represent the Tribe in judicial and administrative
+  proceeding as requested and to meet with the Snoqualmie Tribal Council when requested.\n\nThe
+  list of services is intended as a general guide and is not intended to be a complete
+  list of all the work necessary to provide the requested services. The successful
+  proposer will have demonstrated knowledge and expertise to service the unique needs
+  of the Tribe.\n\n**The Tribe does not currently employ in-house legal counsel.&nbsp;
+  Accordingly, the selected attorney or firm will serve as the Tribe’s primary legal
+  resource and will be expected to provide comprehensive legal support on an as-needed
+  basis.**\n\n**Qualifications and Experience**\n\nThe successful proposer shall have
+  demonstrated knowledge and expertise to serve the unique needs of the Tribe. Legal
+  services may include, but are not limited to:\n\n- Advising Tribal Council and departments
+  on legal matters.\n- Drafting and reviewing contracts, ordinances, policies, and
+  resolutions.\n- Providing counsel on tribal sovereignty, jurisdiction, and intergovernmental
+  relations.\n- Representing the Tribe in litigation, administrative hearings, or
+  negotiations.\n- Supporting land, housing, environmental, or natural resource matters.\n-
+  Advising on employment law, personnel issues, and HR policy.\n- Ensuring compliance
+  with federal grants and funding requirements.\n\nTo be eligible to respond to this
+  RFP, the proposer(s) must demonstrate that they have successfully performed the
+  services in the Scope of Services section of this RFP.\n\nThe ideal Firm will have
+  the following qualifications and legal experience:\n\n- have five (5) years minimum
+  experience working with tribal government settings;\n- identify its relevant experience
+  in Indian Country; and\n- sign confidentiality waiver.\n\n**Bar Admission and Good
+  Standing**\n\n**&nbsp;** Respondent must be licensed to practice law in Washington
+  State and must submit proof of current bar membership and good standing issued by
+  the relevant state bar association or licensing authority within the past 90 days.\n\n**Professional
+  Liability Insurance**\n\n**&nbsp;** Respondents shall provide a certificate of insurance
+  or other documentation demonstrating current professional liability coverage.\n\n**Submission
+  of Proposals**\n\nPlease remit an electronic version of the consultant’s proposal
+  no later than 5PM Pacific Standard Time on October 31,, 2025 to:\n\nSnoqualmie Tribal
+  Council  \nC/O Office of the Secretary  \nSnoqualmie Indian Tribe  \nPO Box 969
+  \ \nSnoqualmie WA 98065  \nEmail: <u>Secretary</u>@SnoqualmieTribe.us\n\nAmber Holloway
+  will serve as the primary contact for the review process for the proposals. Any
+  questions regarding this RFP should be addressed to Amber Holloway through email
+  at the above address.\n\n[Download the full RFP with additional information (PDF
+  Format)](https://snoqualmietribe.us/wp-content/uploads/2025/10/Snoqualmie-Legal-Services-RFP.pdf)"
+published: false
 source: Snoqualmie Indian Tribe
 source_url: https://snoqualmietribe.us/request-for-proposal-rfp-for-legal-services-for-the-snoqualmie-indian-tribe/
-original_content: "The Tribe seeks to retain the services of an experienced law firm to provide legal services for a three-year term.\n\nThe successful respondent will, in accordance with the highest legal, ethical and professional standards, at the direction of the Tribal Council, provide legal services including but not limited to the following: business law, civil/litigation law, criminal law, environment and natural resources law, family and juvenile law, health law, insurance, intergovernmental relations, labor laws, law and policy drafting, personal injury law, real estate law, treat rights, tax law, and other legal services needed. The successful respondent will need to be available to represent the Tribe in judicial and administrative proceeding as requested and to meet with the Snoqualmie Tribal Council when requested.\n\nThe list of services is intended as a general guide and is not intended to be a complete list of all the work necessary to provide the requested services. The successful proposer will have demonstrated knowledge and expertise to service the unique needs of the Tribe.\n\n**The Tribe does not currently employ in-house legal counsel.&nbsp; Accordingly, the selected attorney or firm will serve as the Tribe’s primary legal resource and will be expected to provide comprehensive legal support on an as-needed basis.**\n\n**Qualifications and Experience**\n\nThe successful proposer shall have demonstrated knowledge and expertise to serve the unique needs of the Tribe. Legal services may include, but are not limited to:\n\n- Advising Tribal Council and departments on legal matters.\n- Drafting and reviewing contracts, ordinances, policies, and resolutions.\n- Providing counsel on tribal sovereignty, jurisdiction, and intergovernmental relations.\n- Representing the Tribe in litigation, administrative hearings, or negotiations.\n- Supporting land, housing, environmental, or natural resource matters.\n- Advising on employment law, personnel issues, and HR policy.\n- Ensuring compliance with federal grants and funding requirements.\n\nTo be eligible to respond to this RFP, the proposer(s) must demonstrate that they have successfully performed the services in the Scope of Services section of this RFP.\n\nThe ideal Firm will have the following qualifications and legal experience:\n\n- have five (5) years minimum experience working with tribal government settings;\n- identify its relevant experience in Indian Country; and\n- sign confidentiality waiver.\n\n**Bar Admission and Good Standing**\n\n**&nbsp;** Respondent must be licensed to practice law in Washington State and must submit proof of current bar membership and good standing issued by the relevant state bar association or licensing authority within the past 90 days.\n\n**Professional Liability Insurance**\n\n**&nbsp;** Respondents shall provide a certificate of insurance or other documentation demonstrating current professional liability coverage.\n\n**Submission of Proposals**\n\nPlease remit an electronic version of the consultant’s proposal no later than 5PM Pacific Standard Time on October 31,, 2025 to:\n\nSnoqualmie Tribal Council  \nC/O Office of the Secretary  \nSnoqualmie Indian Tribe  \nPO Box 969  \nSnoqualmie WA 98065  \nEmail: <u>Secretary</u>@SnoqualmieTribe.us\n\nAmber Holloway will serve as the primary contact for the review process for the proposals. Any questions regarding this RFP should be addressed to Amber Holloway through email at the above address.\n\n[Download the full RFP with additional information (PDF Format)](https://snoqualmietribe.us/wp-content/uploads/2025/10/Snoqualmie-Legal-Services-RFP.pdf)"
 summarized: true
+title: Request for Proposal (RFP) for Legal Services For the Snoqualmie Indian Tribe
 topics: []
-published: false
-images: []
 ---
 
 The Snoqualmie Indian Tribe has issued a Request for Proposal (RFP) for legal services. The Tribe is seeking an experienced law firm to provide a wide range of legal services for a three-year term, including but not limited to business law, civil litigation, criminal law, and environmental law. The chosen firm will serve as the Tribe’s primary legal resource and must be licensed to practice law in Washington State. Proposals must be submitted by 5PM Pacific Standard Time on October 31, 2025. Amber Holloway will serve as the primary contact for the review process for the proposals.

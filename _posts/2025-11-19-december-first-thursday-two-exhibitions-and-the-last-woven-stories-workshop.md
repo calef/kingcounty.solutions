@@ -1,14 +1,20 @@
 ---
-title: 'December First Thursday: Two exhibitions and the last Woven Stories workshop!'
 date: '2025-11-19T00:22:33+00:00'
+images: []
+original_content: 'Join us at ARTS at King Street Station on December 4 for Pioneer
+  Square’s First Thursday Artwalk! We&#8217;ll be celebrating the opening of Living
+  &#038; Loving Under the Carceral State, and getting another look at Welcome to Paradise:
+  ¡Viva Puerto Rico...'
+original_markdown_body: 'Join us at ARTS at King Street Station on December 4 for
+  Pioneer Square’s First Thursday Artwalk! We’ll be celebrating the opening of Living
+  & Loving Under the Carceral State, and getting another look at Welcome to Paradise:
+  ¡Viva Puerto Rico...'
+published: false
 source: City of Seattle
 source_url: https://artbeat.seattle.gov/2025/11/18/december-first-thursday-two-exhibitions-and-the-last-woven-stories-workshop/
-original_content: 'Join us at ARTS at King Street Station on December 4 for Pioneer Square’s First Thursday Artwalk! We&#8217;ll be celebrating the opening of Living &#038; Loving Under the Carceral State, and getting another look at Welcome to Paradise: ¡Viva Puerto Rico...'
-original_markdown_body: 'Join us at ARTS at King Street Station on December 4 for Pioneer Square’s First Thursday Artwalk! We’ll be celebrating the opening of Living & Loving Under the Carceral State, and getting another look at Welcome to Paradise: ¡Viva Puerto Rico...'
 summarized: true
+title: 'December First Thursday: Two exhibitions and the last Woven Stories workshop!'
 topics: []
-published: false
-images: []
 ---
 
 Join the festivities at ARTS at King Street Station on December 4 for Pioneer Square's First Thursday Artwalk, featuring the opening of two exhibitions: "Living & Loving Under the Carceral State" and "Welcome to Paradise: ¡Viva Puerto Rico Libre!". The evening will also include the final workshop in the Woven Stories series, where participants can create Huichol Ojos de Dios, guided by Alicia Mullikin.

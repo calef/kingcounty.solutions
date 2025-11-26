@@ -1,8 +1,7 @@
 ---
-title: 'ACTION ALERT: Tell King County to Fund Hygiene Access for All!'
 date: '2025-11-11T00:31:06+00:00'
-source: Essentials First
-source_url: https://www.essentialsfirst.org/blog/budget
+images:
+- fdeef3207d36ffb4c16b09e078eba32db9a771f854d378087f13733f283346b4
 original_content: "<p class=\"\">Thousands of King County residents struggle to afford
   basic hygiene items — soap, toothpaste, laundry detergent, menstrual products —
   essentials most of us take for granted.</p><p class=\"\"><strong>Good news:</strong>&nbsp;The
@@ -105,12 +104,13 @@ original_markdown_body: "Thousands of King County residents struggle to afford b
   Thank You for Standing with Us**\n\nTogether, we can make hygiene a human right
   for every person in King County.  \nWe won’t stop until everyone in our community
   has access to hygiene essentials — and the dignity they empower.\n\n![](https://images.squarespace-cdn.com/content/v1/6244ce6a3e335a451b9540a9/4363f478-3abd-437b-ae76-0f79e1e28a64/ACTIONALERT_KCBudget2627+%281%29.png?format=1000w)"
+source: Essentials First
+source_url: https://www.essentialsfirst.org/blog/budget
 summarized: true
+title: 'ACTION ALERT: Tell King County to Fund Hygiene Access for All!'
 topics:
 - Personal & Household Needs
 - Financial Assistance
-images:
-- fdeef3207d36ffb4c16b09e078eba32db9a771f854d378087f13733f283346b4
 ---
 
 Thousands of King County residents face challenges affording basic hygiene items such as soap, toothpaste, laundry detergent, and menstrual products. The King County Council is currently considering a $50,000 proviso in the 2026–2027 budget to study hygiene poverty and develop data-driven solutions. This initiative aims to address hygiene poverty and establish a foundation for sustainable recommendations in future budget cycles, promoting equitable access to hygiene products. 

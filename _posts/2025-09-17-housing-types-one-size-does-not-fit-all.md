@@ -1,8 +1,6 @@
 ---
-title: 'Housing Types: One Size Does Not Fit All'
 date: '2025-09-17T18:23:15+00:00'
-source: King County Regional Homelessness Authority
-source_url: https://kcrha.org/news-housing-types-one-size-does-not-fit-all/
+images: []
 original_content: |-
   <p>Individuals and families who are experiencing homelessness come from a plethora of backgrounds and have varied and unique immediate and long-term needs. If we are [&#8230;]</p>
   <p>The post <a href="https://kcrha.org/news-housing-types-one-size-does-not-fit-all/">Housing Types: One Size Does Not Fit All</a> appeared first on <a href="https://kcrha.org">KCRHA</a>.</p>
@@ -10,12 +8,14 @@ original_markdown_body: |-
   Individuals and families who are experiencing homelessness come from a plethora of backgrounds and have varied and unique immediate and long-term needs. If we are […]
 
   The post [Housing Types: One Size Does Not Fit All](https://kcrha.org/news-housing-types-one-size-does-not-fit-all/) appeared first on [KCRHA](https://kcrha.org).
+source: King County Regional Homelessness Authority
+source_url: https://kcrha.org/news-housing-types-one-size-does-not-fit-all/
 summarized: true
+title: 'Housing Types: One Size Does Not Fit All'
 topics:
 - Shelter & Housing
 - Mental Health & Counseling
 - Financial Assistance
-images: []
 ---
 
 Individuals and families experiencing homelessness have diverse backgrounds and unique needs that require varied solutions. The 2024 Point-in-Time Count in King County indicated that 16,868 individuals were homeless, including 3,701 from family units. Among these individuals, 47% faced substance use disorders and 37% had serious mental illnesses. Addressing the complexities of homelessness necessitates a range of resources.

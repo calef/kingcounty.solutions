@@ -1,8 +1,7 @@
 ---
-title: Together We Rise
 date: '2025-10-09T23:56:01+00:00'
-source: YouthCare
-source_url: https://youthcare.org/blog/together-we-rise/
+images:
+- 84a209de96a1eeef9202aed66d9f94c173d33930526ca07c8230cc1de4c25fdc
 original_content: |-
   <figure class="wp-block-image size-large is-resized"><img data-recalc-dims="1" decoding="async" width="825" height="456" data-attachment-id="9315" data-permalink="https://youthcare.org/blog/twr-graphic/" data-orig-file="https://i0.wp.com/youthcare.org/wp-content/uploads/2025/10/TWR-Graphic.png?fit=2520%2C1393&amp;ssl=1" data-orig-size="2520,1393" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="TWR Graphic" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/youthcare.org/wp-content/uploads/2025/10/TWR-Graphic.png?fit=400%2C221&amp;ssl=1" data-large-file="https://i0.wp.com/youthcare.org/wp-content/uploads/2025/10/TWR-Graphic.png?fit=825%2C456&amp;ssl=1" src="https://i0.wp.com/youthcare.org/wp-content/uploads/2025/10/TWR-Graphic.png?resize=825%2C456&#038;ssl=1" alt="" class="wp-image-9315" style="object-fit:cover;width:480px;height:260px" srcset="https://i0.wp.com/youthcare.org/wp-content/uploads/2025/10/TWR-Graphic.png?resize=825%2C456&amp;ssl=1 825w, https://i0.wp.com/youthcare.org/wp-content/uploads/2025/10/TWR-Graphic.png?resize=400%2C221&amp;ssl=1 400w, https://i0.wp.com/youthcare.org/wp-content/uploads/2025/10/TWR-Graphic.png?resize=768%2C425&amp;ssl=1 768w, https://i0.wp.com/youthcare.org/wp-content/uploads/2025/10/TWR-Graphic.png?resize=1536%2C849&amp;ssl=1 1536w, https://i0.wp.com/youthcare.org/wp-content/uploads/2025/10/TWR-Graphic.png?resize=2048%2C1132&amp;ssl=1 2048w, https://i0.wp.com/youthcare.org/wp-content/uploads/2025/10/TWR-Graphic.png?w=1650&amp;ssl=1 1650w, https://i0.wp.com/youthcare.org/wp-content/uploads/2025/10/TWR-Graphic.png?w=2475&amp;ssl=1 2475w" sizes="(max-width: 825px) 100vw, 825px" /></figure>
 
@@ -72,12 +71,13 @@ original_markdown_body: |-
   1828 Yale Ave, Seattle
 
   The post [Together We Rise](https://youthcare.org/blog/together-we-rise/) appeared first on [YouthCare](https://youthcare.org).
+source: YouthCare
+source_url: https://youthcare.org/blog/together-we-rise/
 summarized: true
+title: Together We Rise
 topics:
 - Shelter & Housing
 - Mental Health & Counseling
-images:
-- 84a209de96a1eeef9202aed66d9f94c173d33930526ca07c8230cc1de4c25fdc
 ---
 
 On December 3, YouthCare invites the community to the Orion Center instead of a traditional hotel venue. The Orion Center has been a vital resource since 1984, providing a safe haven for youth aged 12-24, with services including meals, showers, clothing, case management, mental health care, and shelter. This gathering aims to celebrate YouthCare's mission during a time when essential services are under pressure. The iconic green building symbolizes safety and opportunity for thousands of young people. Attendees will come together to show support for youth experiencing homelessness, emphasizing the importance of community action. The event encourages collective efforts to provide stability and security for youth in King County. Tickets are priced at $40, with doors opening at 5 PM and the program starting at 6:30 PM at the Orion Center, located at 1828 Yale Ave, Seattle.

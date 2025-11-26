@@ -1,8 +1,7 @@
 ---
-title: "“I penalized myself by keeping it in.”"
 date: '2025-11-25T18:05:19+00:00'
-source: Compass Housing Alliance
-source_url: https://www.compasshousingalliance.org/2025/11/i-penalized-myself-by-keeping-it-in/
+images:
+- 3a309fc1d9633eeeed828078067f5701396d06366e7f979a5d3c77ac579a7331
 original_content: |-
   <figure class="wp-block-image size-full"><a href="https://www.compasshousingalliance.org/wp-content/uploads/2025/11/1762895817796.jpg"><img fetchpriority="high" decoding="async" width="2048" height="1365" src="https://www.compasshousingalliance.org/wp-content/uploads/2025/11/1762895817796.jpg" alt="" class="wp-image-12484" srcset="https://www.compasshousingalliance.org/wp-content/uploads/2025/11/1762895817796.jpg 2048w, https://www.compasshousingalliance.org/wp-content/uploads/2025/11/1762895817796-300x200.jpg 300w, https://www.compasshousingalliance.org/wp-content/uploads/2025/11/1762895817796-1024x683.jpg 1024w, https://www.compasshousingalliance.org/wp-content/uploads/2025/11/1762895817796-768x512.jpg 768w, https://www.compasshousingalliance.org/wp-content/uploads/2025/11/1762895817796-1536x1024.jpg 1536w" sizes="(max-width: 2048px) 100vw, 2048px" /></a></figure>
 
@@ -46,14 +45,15 @@ original_markdown_body: |-
   On November 9th, Frank’s purpose took center stage when Boeing and the Seattle Seahawks recognized Compass Housing Alliance with the “Honoring Our Heroes” award. Frank and his colleagues will hold the U.S. flag during the national anthem at Lumen Field—a full-circle moment from serving his country, through homelessness and struggle, to now helping other veterans find their path forward.
 
   The post [“I penalized myself by keeping it in.”](https://www.compasshousingalliance.org/2025/11/i-penalized-myself-by-keeping-it-in/) appeared first on [Compass Housing Alliance](https://www.compasshousingalliance.org).
+source: Compass Housing Alliance
+source_url: https://www.compasshousingalliance.org/2025/11/i-penalized-myself-by-keeping-it-in/
 summarized: true
+title: "“I penalized myself by keeping it in.”"
 topics:
 - Disabilities
 - Mental Health & Counseling
 - Shelter & Housing
 - Employment & Job Support
-images:
-- 3a309fc1d9633eeeed828078067f5701396d06366e7f979a5d3c77ac579a7331
 ---
 
 Frank, a veteran who served in the Air Force and was embedded with the Army during the Iraq campaign, faced significant challenges after returning home. Despite initially pursuing a career as a veterinary technician, he struggled with unresolved PTSD, leading to a downward spiral that included health deterioration and homelessness. After years of hardship, Frank found healing in Seattle, where he now works at Compass Housing Alliance's Blaine Veterans Center. There, he assists other veterans experiencing homelessness, drawing from his own experiences to provide support. Frank emphasizes the importance of self-acceptance and coping with one's challenges to move forward. His journey took a significant turn when he was recognized with the “Honoring Our Heroes” award by Boeing and the Seattle Seahawks, culminating in a moment where he and his colleagues will hold the U.S. flag during the national anthem at Lumen Field. This recognition symbolizes his transition from serving his country, navigating personal struggles, to now helping fellow veterans find their way.

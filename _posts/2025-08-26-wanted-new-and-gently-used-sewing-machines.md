@@ -1,8 +1,8 @@
 ---
-title: 'WANTED: New and gently used sewing machines'
 date: '2025-08-26T21:45:51+00:00'
-source: Essentials First
-source_url: https://www.essentialsfirst.org/blog/jmdktpaqrir8bwhatpeb17ucwmyt8j
+images:
+- 52871b2cd8c1267017523dc6f53682b58ecfd117bc1ebf4da894ed98ffffd79a
+- 329ed2b5e5f5ec1b587dd9bb444fd75c5d87465fdaeb15c53d6424b3c997687a
 original_content: "<p class=\"\">Sewing machines are needed to accommodate the growing
   number of students in the EF Essential Skills program. </p><p class=\"\">Essential
   Skills programs provide skill-building and build community connections for refugees,
@@ -56,14 +56,14 @@ original_markdown_body: |-
   ![](https://images.squarespace-cdn.com/content/v1/6244ce6a3e335a451b9540a9/e0ea1d37-5acc-4383-90c0-9ddbee68ab5c/Copy+of+WANTED+%282%29.png?format=1000w)
 
   ![](https://images.squarespace-cdn.com/content/v1/6244ce6a3e335a451b9540a9/abe612c9-d74c-4ccb-b8f1-de3873061201/533683886_1075715481340549_114320793488421605_n.jpg?format=1000w)
+source: Essentials First
+source_url: https://www.essentialsfirst.org/blog/jmdktpaqrir8bwhatpeb17ucwmyt8j
 summarized: true
+title: 'WANTED: New and gently used sewing machines'
 topics:
 - Education & Learning
 - Senior Services
 - Personal & Household Needs
-images:
-- 52871b2cd8c1267017523dc6f53682b58ecfd117bc1ebf4da894ed98ffffd79a
-- 329ed2b5e5f5ec1b587dd9bb444fd75c5d87465fdaeb15c53d6424b3c997687a
 ---
 
 New and gently used sewing machines are urgently needed for the EF Essential Skills program, which supports a growing number of students. This program focuses on skill-building and fostering community connections for refugees, seniors, and individuals facing social isolation. Contributions can be made by delivering sewing machines directly to EF Kent or by purchasing them through an Amazon Wish List.

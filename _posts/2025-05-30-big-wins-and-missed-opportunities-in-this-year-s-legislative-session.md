@@ -1,8 +1,7 @@
 ---
-title: Big wins and missed opportunities in this year’s legislative session 
 date: '2025-05-30T22:46:00+00:00'
-source: Solid Ground
-source_url: https://www.solid-ground.org/big-wins-and-missed-opportunities-in-this-years-legislative-session/
+images:
+- 4fbad87bb7c85b49a2eabbc91d2a610df895a49f687e9cd0f31fa96d26620e8d
 original_content: |-
   <p><img width="361" height="255" src="https://s14621.pcdn.co/wp-content/uploads/2025/01/Main-Image-1080x717-1-361x255.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="A purple-hued illustration of people maintaining a pathway through a forest beneath a mountain range. Some are laying stones, some are carrying boards of wood toward a bridge, and others are planting flowers." decoding="async" srcset="https://s14621.pcdn.co/wp-content/uploads/2025/01/Main-Image-1080x717-1-361x255.jpg 361w, https://s14621.pcdn.co/wp-content/uploads/2025/01/Main-Image-1080x717-1-300x212.jpg 300w, https://s14621.pcdn.co/wp-content/uploads/2025/01/Main-Image-1080x717-1-768x543.jpg 768w, https://s14621.pcdn.co/wp-content/uploads/2025/01/Main-Image-1080x717-1.jpg 801w" sizes="(max-width: 361px) 100vw, 361px" data-attachment-id="67830" data-permalink="https://www.solid-ground.org/what-were-doing-in-olympia-to-clear-the-pathway-out-of-poverty/main-image-1080x717/" data-orig-file="https://s14621.pcdn.co/wp-content/uploads/2025/01/Main-Image-1080x717-1.jpg" data-orig-size="801,566" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Main-Image-1080&#215;717" data-image-description="" data-image-caption="" data-medium-file="https://s14621.pcdn.co/wp-content/uploads/2025/01/Main-Image-1080x717-1-300x212.jpg" data-large-file="https://s14621.pcdn.co/wp-content/uploads/2025/01/Main-Image-1080x717-1.jpg" /></p><p class="tmc-intro">As is often the case, this year’s legislative session in Olympia ended up being a mixed bag for families living on low incomes in Washington state.</p>
   <p><span data-contrast="auto">On one hand, lawmakers passed a historic rent stabilization bill and avoided the worst potential cuts to services while working to overcome a $16 billion deficit. On the other </span><span data-contrast="auto">hand</span><span data-contrast="auto">,</span><span data-contrast="auto"> the legislature still made $5.9 billion in cuts to services that Washington residents rely on, halved Medicaid Dental reimbursement rates, and missed an opportunity to help address our state’s regressive tax structure by implementing a new wealth tax.</span><span data-ccp-props="{}"> </span></p>
@@ -29,13 +28,14 @@ original_markdown_body: |-
   Members of the Poverty Action team fighting for progressive revenue in Olympia.
 
   The post [Big wins and missed opportunities in this year’s legislative session&nbsp;](https://www.solid-ground.org/big-wins-and-missed-opportunities-in-this-years-legislative-session/) appeared first on [Solid Ground](https://www.solid-ground.org).
+source: Solid Ground
+source_url: https://www.solid-ground.org/big-wins-and-missed-opportunities-in-this-years-legislative-session/
 summarized: true
+title: Big wins and missed opportunities in this year’s legislative session 
 topics:
 - Financial Assistance
 - Shelter & Housing
 - Health Care
-images:
-- 4fbad87bb7c85b49a2eabbc91d2a610df895a49f687e9cd0f31fa96d26620e8d
 ---
 
 This year's legislative session in Olympia resulted in mixed outcomes for low-income families in Washington state. Lawmakers successfully passed a historic rent stabilization bill and avoided the most severe cuts to services while addressing a $16 billion budget deficit. However, the legislature still enacted $5.9 billion in cuts to essential services, reduced Medicaid Dental reimbursement rates by half, and failed to implement a new wealth tax that could have addressed the state's regressive tax structure. Ultimately, the burden of budget balancing fell disproportionately on struggling families, though not as severely as initially feared. The session highlights both significant achievements and missed opportunities in addressing the needs of vulnerable populations in the state.

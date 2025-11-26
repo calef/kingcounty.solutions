@@ -1,8 +1,6 @@
 ---
-title: A New Era in Cancer Care Begins at Valley
 date: '2025-01-02T23:33:58+00:00'
-source: Hospital District No. 1 (Valley Medical Center)
-source_url: https://blog.valleymed.org/2025/01/02/a-new-era-in-cancer-care-begins-at-valley/?utm_source=rss&utm_medium=rss&utm_campaign=a-new-era-in-cancer-care-begins-at-valley
+images: []
 original_content: |-
   <p><img width="300" height="188" src="https://blog.valleymed.org/wp-content/uploads/2025/01/InfusionCtr-blog-300x188.png" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://blog.valleymed.org/wp-content/uploads/2025/01/InfusionCtr-blog-300x188.png 300w, https://blog.valleymed.org/wp-content/uploads/2025/01/InfusionCtr-blog-768x480.png 768w, https://blog.valleymed.org/wp-content/uploads/2025/01/InfusionCtr-blog-600x375.png 600w, https://blog.valleymed.org/wp-content/uploads/2025/01/InfusionCtr-blog.png 800w" sizes="auto, (max-width: 300px) 100vw, 300px" /></p>
   <p><strong>State-of-the-Art Facility Will Treat 40% More Patients</strong></p>
@@ -98,11 +96,13 @@ original_markdown_body: |-
   To learn more about our Cancer Center project and how you can help, please visit **[valleymed.org/cancercenter](http://valleymed.org/cancercenter)**.
 
   _A version of this article appeared in the December 16, 2024 Renton Reporter._
+source: Hospital District No. 1 (Valley Medical Center)
+source_url: https://blog.valleymed.org/2025/01/02/a-new-era-in-cancer-care-begins-at-valley/?utm_source=rss&utm_medium=rss&utm_campaign=a-new-era-in-cancer-care-begins-at-valley
 summarized: true
+title: A New Era in Cancer Care Begins at Valley
 topics:
 - Health Care
 - Mental Health & Counseling
-images: []
 ---
 
 February 3, 2025, marks the opening of Phase One of Valley Medical Center's new comprehensive Cancer Center in South King County, designed to accommodate 40% more patients. This state-of-the-art facility will centralize nationally recognized cancer programs and services, providing patients with convenient access to advanced treatment options without the need to travel to Seattle or Tacoma. The region has seen a 25% increase in cancer patients over the past five years, emphasizing the need for localized care.

@@ -1,8 +1,6 @@
 ---
-title: Tukwila Community Center to Reopen to the Public Thursday, May 29
 date: '2025-05-29T00:42:29+00:00'
-source: City of Tukwila
-source_url: https://www.tukwilawa.gov/tukwila-community-center-to-reopen-to-the-public-thursday-may-29/
+images: []
 original_content: |-
   ![](https://www.tukwilawa.gov/wp-content/uploads/UPDATED-TCC-Closed-1.gif)
 
@@ -40,10 +38,12 @@ original_content: |-
   Please visit the **_[Tukwila Parks & Recreation website](https://www.tukwilawa.gov/departments/parks-and-recreation/)_** or follow us on our social media channels, **_[Facebook](https://www.facebook.com/TukwilaParks)_**, [**_Instagram_**](https://www.instagram.com/tukwilaparks), **_[TikTok](https://www.tiktok.com/@tukwila_parks_recreation)_**, **_[X](https://x.com/tukwilaparks)_**, and **_[Nextdoor](https://nextdoor.com/pages/city-of-tukwila?init_source=copy_link_share)_**.
 
   The post [Tukwila Community Center to Reopen to the Public Thursday, May 29](https://www.tukwilawa.gov/tukwila-community-center-to-reopen-to-the-public-thursday-may-29/) appeared first on [City of Tukwila](https://www.tukwilawa.gov).
+source: City of Tukwila
+source_url: https://www.tukwilawa.gov/tukwila-community-center-to-reopen-to-the-public-thursday-may-29/
 summarized: true
+title: Tukwila Community Center to Reopen to the Public Thursday, May 29
 topics:
 - Education & Learning
-images: []
 ---
 
 The Tukwila Community Center is set to reopen following a temporary closure caused by flooding from a burst pipe. However, some areas of the center, including the lobby, teen room, meeting rooms, dance studio, and fitness center, will remain closed until further notice. In the meantime, select recreation programs will be held in the community center's gym and the west wing of the building. The center's revised opening hours are Thursday, May 29, from 9 a.m. to 8 p.m. and Friday, May 30, from 9 a.m. to 5 p.m. Future plans for the center's operations will be communicated to the public.

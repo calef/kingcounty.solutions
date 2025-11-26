@@ -1,8 +1,7 @@
 ---
-title: 'a long journey home: Nikki and Sara’s story'
 date: '2025-08-03T18:03:00+00:00'
-source: Mary's Place
-source_url: https://www.marysplaceseattle.org/blog/a-long-journey-home-nikki-and-saras-story
+images:
+- 1a4f38456fffb57c119095542f0d8069053ccbafb504095f8b59017a9ea4d141
 original_content: "<figure class=\"\n              sqs-block-image-figure\n              intrinsic\n
   \           \"\n        >\n          \n        \n        \n\n        \n          \n
   \           \n          \n            \n                \n                \n                \n
@@ -56,14 +55,15 @@ original_markdown_body: |-
   Today, Nikki and Sara are safe in their own home. Their story is one of heartbreak and resilience—but also of community. Because of your support, families like Nikki’s never have to walk through hardship alone.&nbsp;
 
   [Make a gift to help more families like Nikki and Sara's](https://give.marysplaceseattle.org/campaign/673342/donate?utm_source=website&utm_medium=blog&utm_campaign=blogs-public&c_src=blogs-public&c_src2=blog)
+source: Mary's Place
+source_url: https://www.marysplaceseattle.org/blog/a-long-journey-home-nikki-and-saras-story
 summarized: true
+title: 'a long journey home: Nikki and Sara’s story'
 topics:
 - Employment & Job Support
 - Financial Assistance
 - Food & Nutrition
 - Shelter & Housing
-images:
-- 1a4f38456fffb57c119095542f0d8069053ccbafb504095f8b59017a9ea4d141
 ---
 
 Nikki and her daughter Sara moved from Louisiana to Washington after a tragic loss due to gun violence. In their new home, Nikki secured stable employment at a fulfillment warehouse, and Sara thrived in school. However, Nikki's health issues led to unpaid time off, resulting in financial strain and ultimately homelessness. For months, they lived in their car, facing harsh conditions while Nikki worked tirelessly to protect her daughter.

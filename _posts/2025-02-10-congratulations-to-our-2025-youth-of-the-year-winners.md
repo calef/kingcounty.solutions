@@ -1,8 +1,9 @@
 ---
-title: Congratulations to our 2025 Youth of the Year Winners!
 date: '2025-02-10T20:24:06+00:00'
-source: Boys & Girls Clubs of King County
-source_url: https://positiveplace.org/congratulations-to-our-2025-youth-of-the-year-winners/
+images:
+- 2d35323c1e1f6aa500faed1793005816488b835a2b6844b184768a55b7363394
+- 372527aeac059d5aecaf59956ef30a9036207dde516a77ac4f3dbd9221046c3e
+- 2fb67ad62cc84a71d5735e61927570d9cf2991dc8bea55dd103a1f67dcb39522
 original_content: |-
   <p>Thank you to everyone who joined on Saturday, February 8, to celebrate our 2025 Youth of the Year candidates!  More than 200 Boys &amp; Girls Clubs community and family members came together to recognize the 10 outstanding candidates from around the county.</p>
   <p>Each year, the event recognizes two teens with the<strong> Quincy Robertson Service and Leadership Award</strong> and the <strong>Boys &amp; Girls Clubs of King County Youth of the Year Award</strong>. Surprisingly, the judges awarded two teens with the Quincy Robertson Service award.</p>
@@ -61,16 +62,15 @@ original_markdown_body: |-
   Thank you to&nbsp;our&nbsp; **youth development professionals, Teen Directors, YouthForce team, and all&nbsp;who tirelessly support all our outstanding teens**. Your dedication ensures Boys & Girls Clubs of King County remains a place where young people can grow into their best selves.
 
   The post [Congratulations to our 2025 Youth of the Year Winners!](https://positiveplace.org/congratulations-to-our-2025-youth-of-the-year-winners/) appeared first on [Boys & Girls Clubs](https://positiveplace.org).
+source: Boys & Girls Clubs of King County
+source_url: https://positiveplace.org/congratulations-to-our-2025-youth-of-the-year-winners/
 summarized: true
+title: Congratulations to our 2025 Youth of the Year Winners!
 topics:
 - Education & Learning
 - Employment & Job Support
 - Mental Health & Counseling
 - Shelter & Housing
-images:
-- 2d35323c1e1f6aa500faed1793005816488b835a2b6844b184768a55b7363394
-- 372527aeac059d5aecaf59956ef30a9036207dde516a77ac4f3dbd9221046c3e
-- 2fb67ad62cc84a71d5735e61927570d9cf2991dc8bea55dd103a1f67dcb39522
 ---
 
 Congratulations to the 2025 Youth of the Year winners, Youseff and Adele, recognized for their exceptional service and leadership at the Boys & Girls Clubs of King County. The awards ceremony, held on February 8, celebrated 10 outstanding candidates with over 200 community members in attendance. Youseff, from the Kirkland Club, began his journey in second grade and has become a mentor and Youth Development Professional, aiming to lead the organization as president. Adele, from the Mercer Island Club, has created an inclusive environment while enhancing her leadership through advocacy and volunteerism. 

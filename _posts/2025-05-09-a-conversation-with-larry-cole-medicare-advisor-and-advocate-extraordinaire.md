@@ -1,9 +1,7 @@
 ---
-title: A conversation with Larry Cole, Medicare advisor and advocate extraordinaire
-   
 date: '2025-05-09T18:12:06+00:00'
-source: Solid Ground
-source_url: https://www.solid-ground.org/a-conversation-with-larry-cole-medicare-advisor-and-advocate-extraordinaire/
+images:
+- 79b3165be36e66757fe8ebebfaf28aa054a28f81ecc75d4268be6b2432d16970
 original_content: |-
   <p><img width="361" height="255" src="https://s14621.pcdn.co/wp-content/uploads/2025/05/1.31.24-LarryCole-SHIBA-RachaelGreen-6965-801x566-lightened-361x255.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="A man giving a presentation in front of a seated audience gestures at the top of a flow chart labeled &quot;Decide how you want to get your Medicare.&quot;" decoding="async" srcset="https://s14621.pcdn.co/wp-content/uploads/2025/05/1.31.24-LarryCole-SHIBA-RachaelGreen-6965-801x566-lightened-361x255.jpg 361w, https://s14621.pcdn.co/wp-content/uploads/2025/05/1.31.24-LarryCole-SHIBA-RachaelGreen-6965-801x566-lightened-300x212.jpg 300w, https://s14621.pcdn.co/wp-content/uploads/2025/05/1.31.24-LarryCole-SHIBA-RachaelGreen-6965-801x566-lightened-768x543.jpg 768w, https://s14621.pcdn.co/wp-content/uploads/2025/05/1.31.24-LarryCole-SHIBA-RachaelGreen-6965-801x566-lightened.jpg 801w" sizes="(max-width: 361px) 100vw, 361px" data-attachment-id="69372" data-permalink="https://www.solid-ground.org/a-conversation-with-larry-cole-medicare-advisor-and-advocate-extraordinaire/1-31-24-larrycole-shiba-rachaelgreen-6965-801x566-lightened/" data-orig-file="https://s14621.pcdn.co/wp-content/uploads/2025/05/1.31.24-LarryCole-SHIBA-RachaelGreen-6965-801x566-lightened.jpg" data-orig-size="801,566" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;4.5&quot;,&quot;credit&quot;:&quot;Rachael Green&quot;,&quot;camera&quot;:&quot;Canon EOS 60D&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1706711927&quot;,&quot;copyright&quot;:&quot;2024 Rachael Green&quot;,&quot;focal_length&quot;:&quot;70&quot;,&quot;iso&quot;:&quot;500&quot;,&quot;shutter_speed&quot;:&quot;0.008&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="1.31.24-LarryCole-SHIBA-(RachaelGreen)-6965-801&#215;566-lightened" data-image-description="" data-image-caption="&lt;p&gt;Larry leads a &#8220;Welcome to Medicare&#8221; presentation (photo by Rachael Green). &lt;/p&gt;
   " data-medium-file="https://s14621.pcdn.co/wp-content/uploads/2025/05/1.31.24-LarryCole-SHIBA-RachaelGreen-6965-801x566-lightened-300x212.jpg" data-large-file="https://s14621.pcdn.co/wp-content/uploads/2025/05/1.31.24-LarryCole-SHIBA-RachaelGreen-6965-801x566-lightened.jpg" /></p><p class="tmc-intro">At Solid Ground, we believe in supporting people who are trapped within oppressive systems at the same time that we work to dismantle those systems. And so does Larry Cole.</p>
@@ -85,12 +83,14 @@ original_markdown_body: |-
   **Image at top:** Larry leads a “Welcome to Medicare” presentation (photo by Rachael Green).&nbsp;
 
   The post [A conversation with Larry Cole, Medicare&nbsp;advisor and advocate extraordinaire &nbsp;](https://www.solid-ground.org/a-conversation-with-larry-cole-medicare-advisor-and-advocate-extraordinaire/) appeared first on [Solid Ground](https://www.solid-ground.org).
+source: Solid Ground
+source_url: https://www.solid-ground.org/a-conversation-with-larry-cole-medicare-advisor-and-advocate-extraordinaire/
 summarized: true
+title: A conversation with Larry Cole, Medicare advisor and advocate extraordinaire
+   
 topics:
 - Health Care
 - Mental Health & Counseling
-images:
-- 79b3165be36e66757fe8ebebfaf28aa054a28f81ecc75d4268be6b2432d16970
 ---
 
 Larry Cole is a dedicated volunteer with the Statewide Health Insurance Benefits Advisors (SHIBA), helping individuals navigate the complexities of Medicare. A retired mental health counselor with a background at Boeing, Larry's passion for health care advocacy stems from personal experiences, including his mother's work as a Medicare Manager. He aims to simplify Medicare for those without family support, particularly older adults and disabled individuals who struggle with understanding insurance policies.

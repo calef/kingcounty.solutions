@@ -1,9 +1,6 @@
 ---
-title: 'Council Roundup: Council draws $600,000 from its contingency to support urgent
-  community needs'
 date: '2025-11-14T02:54:38+00:00'
-source: City of Bellevue
-source_url: https://bellevuewa.gov/city-news/council-roundup-11-12-25
+images: []
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Council
   Roundup: Council draws $600,000 from its contingency to support urgent community
   needs</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span
@@ -106,12 +103,15 @@ original_markdown_body: |-
   The council also issued a proclamation for&nbsp;[Transgender Awareness Week and Transgender Day of Remembrance](https://bellevue.legistar.com/View.ashx?M=F&ID=14918884&GUID=E71F2188-FE90-486A-B6DD-3EA03AEE42E2). &nbsp;
 
   <time datetime="2025-11-13T12:00:00Z" class="datetime">November 13 2025</time>
+source: City of Bellevue
+source_url: https://bellevuewa.gov/city-news/council-roundup-11-12-25
 summarized: true
+title: 'Council Roundup: Council draws $600,000 from its contingency to support urgent
+  community needs'
 topics:
 - Legal Aid
 - Food & Nutrition
 - Financial Assistance
-images: []
 ---
 
 The Bellevue City Council unanimously approved a $600,000 allocation from its contingency fund to assist organizations providing legal aid for immigrants and refugees, along with urgent food and financial support. This decision follows community requests during a public hearing concerning the 2025-2026 budget adjustments. The funding will be distributed equally among the three areas of assistance, complementing an earlier $235,000 approved for immediate food aid. 

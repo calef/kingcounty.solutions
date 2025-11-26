@@ -1,8 +1,7 @@
 ---
-title: 'Council Roundup: Update on middle housing and Meydenbauer Bay Park expansion'
 date: '2025-05-18T21:06:39+00:00'
-source: City of Bellevue
-source_url: https://bellevuewa.gov/city-news/council-roundup-update-middle-housing-meydenbauer-bay-park-expansion
+images:
+- 996c63501ba67731534051a8a9025a298a590937a4dd1d17959d6673354937d6
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Council
   Roundup: Update on middle housing and Meydenbauer Bay Park expansion</span>\n<span
   class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span
@@ -153,13 +152,14 @@ original_markdown_body: "Council Roundup: Update on middle housing and Meydenbau
   and Equal Opportunity Officer at [ADATitleVI@bellevuewa.gov](mailto:ADATitleVI@bellevuewa.gov).&nbsp;
   \ \n&nbsp;\n\n<time datetime=\"2025-05-18T12:00:00Z\" class=\"datetime\">May 18
   2025</time>"
+source: City of Bellevue
+source_url: https://bellevuewa.gov/city-news/council-roundup-update-middle-housing-meydenbauer-bay-park-expansion
 summarized: true
+title: 'Council Roundup: Update on middle housing and Meydenbauer Bay Park expansion'
 topics:
 - Shelter & Housing
 - Transportation & Mobility
 - Senior Services
-images:
-- 996c63501ba67731534051a8a9025a298a590937a4dd1d17959d6673354937d6
 ---
 
 The Bellevue City Council held a meeting on May 18, 2025, discussing proposed land use code amendments aimed at supporting middle housing development in compliance with recent state legislation. Washington's House Bills 1110 and 1337 mandate that cities increase housing types and density in residential zones to enhance affordability and supply. Bellevue's amendments will allow a minimum number of units per lot, six types of middle housing, and two accessory dwelling units (ADUs) per lot. The council will continue discussions on these proposals in future sessions.

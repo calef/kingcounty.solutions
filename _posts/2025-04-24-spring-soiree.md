@@ -1,8 +1,6 @@
 ---
-title: Spring Soiree!
 date: '2025-04-24T20:53:26+00:00'
-source: Boys & Girls Clubs of King County
-source_url: https://positiveplace.org/spring-soiree/
+images: []
 original_content: |-
   <h1 style="text-align: center;"><img loading="lazy" decoding="async" class=" wp-image-11287 aligncenter" src="https://positiveplace.org/wp-content/uploads/2025/04/Spring-Soiree_2025-300x150.jpg" alt="" width="808" height="404" srcset="https://positiveplace.org/wp-content/uploads/2025/04/Spring-Soiree_2025-300x150.jpg 300w, https://positiveplace.org/wp-content/uploads/2025/04/Spring-Soiree_2025-768x384.jpg 768w, https://positiveplace.org/wp-content/uploads/2025/04/Spring-Soiree_2025-100x50.jpg 100w, https://positiveplace.org/wp-content/uploads/2025/04/Spring-Soiree_2025.jpg 800w" sizes="auto, (max-width: 808px) 100vw, 808px" /></h1>
   <h1 style="text-align: center;"><b data-olk-copy-source="MessageBody">Join us on Friday, May 16th, for the Spring Soiree, an evening of delicious food, games, and good cheer!</b></h1>
@@ -45,11 +43,13 @@ original_markdown_body: "# ![](https://positiveplace.org/wp-content/uploads/2025
   & Social Hour\n\n##### • 7pm – Dinner & Program\n\n##### • 9pm – Event ends\n\n&nbsp;\n\nThe
   post [Spring Soiree!](https://positiveplace.org/spring-soiree/) appeared first on
   [Boys & Girls Clubs](https://positiveplace.org)."
+source: Boys & Girls Clubs of King County
+source_url: https://positiveplace.org/spring-soiree/
 summarized: true
+title: Spring Soiree!
 topics:
 - Education & Learning
 - Employment & Job Support
-images: []
 ---
 
 Join the Spring Soiree on Friday, May 16, 2025, at the Woodmark Hotel in Kirkland for an evening filled with delicious food, games, and camaraderie, all supporting the youth of Kirkland, Redmond, and Sammamish. This event highlights the unique aspects of the Eastside Boys & Girls Clubs and aims to raise funds for scholarships that enable local youth to participate in after-school programs, athletics, and day camps. These scholarships help kids explore new interests and foster friendships in a safe and supportive environment with trusted adult mentors. The schedule for the evening includes registration and social hour at 6 PM, followed by dinner and a program at 7 PM, concluding at 9 PM. This is a wonderful opportunity to contribute to the community and learn more about the impactful programs offered by the Boys & Girls Clubs of King County.

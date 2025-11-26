@@ -1,8 +1,7 @@
 ---
-title: Food Bank Resources
 date: '2025-10-31T18:54:45+00:00'
-source: Refugee Women's Alliance
-source_url: https://www.rewa.org/food-bank-resources/?utm_source=rss&utm_medium=rss&utm_campaign=food-bank-resources
+images:
+- 247574ba3dc5de1f82fe04272317e2b297ca0267bdb36fe5ebd7918fab51c1e0
 original_content: "<div class=\"wp-block-image\">\n<figure class=\"alignright size-large
   is-resized\"><img fetchpriority=\"high\" decoding=\"async\" width=\"600\" height=\"384\"
   src=\"https://www.rewa.org/wp-content/uploads/2025/10/SNAP-logo-comp-1200-600x384.jpg\"
@@ -201,11 +200,12 @@ original_markdown_body: "![](https://www.rewa.org/wp-content/uploads/2025/10/SNA
   Here for More Food Bank Locations](https://www.rewa.org/wp-content/uploads/2025/11/Food-Banks.pptx.pdf)\n\nThe
   post [Food Bank Resources](https://www.rewa.org/food-bank-resources/) appeared first
   on [Refugee Women's Alliance](https://www.rewa.org)."
+source: Refugee Women's Alliance
+source_url: https://www.rewa.org/food-bank-resources/?utm_source=rss&utm_medium=rss&utm_campaign=food-bank-resources
 summarized: true
+title: Food Bank Resources
 topics:
 - Food & Nutrition
-images:
-- 247574ba3dc5de1f82fe04272317e2b297ca0267bdb36fe5ebd7918fab51c1e0
 ---
 
 As SNAP benefits conclude on November 1st, many families may experience diminished food support. ReWA recognizes the importance of access to nutritious food and has assembled a list of local food bank resources for individuals and families. Various food programs are available to ensure access to healthy meals, fostering community empowerment.

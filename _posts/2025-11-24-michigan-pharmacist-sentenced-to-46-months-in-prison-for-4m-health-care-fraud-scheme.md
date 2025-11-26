@@ -1,14 +1,276 @@
 ---
-title: Michigan Pharmacist Sentenced to 46 Months in Prison  for $4M Health Care Fraud Scheme
 date: '2025-11-24T12:00:00+00:00'
+images: []
+original_content: "<div class=\"usdoj_overlay below-header\"></div>\n\n    <a id=\"main-content\"
+  tabindex=\"-1\"></a>\n    <div class=\"grid-container\">\n\n                        <div
+  class=\"breadcrumb-wrapper display-none tablet-lg:display-block\">\n            <div
+  class=\"grid-row\">\n                <div>\n        <div id=\"block-breadcrumbs\"
+  class=\"settings-tray-editable block block- block-system block-system-breadcrumb-block
+  bg-full-width\" data-drupal-settingstray=\"editable\">\n    \n        \n              <nav
+  class=\"usa-breadcrumb\" role=\"navigation\" aria-labelledby=\"system-breadcrumb\">\n
+  \       <h2 id=\"system-breadcrumb\" class=\"usa-sr-only\">Breadcrumb</h2>\n        <ol
+  class=\"usa-breadcrumb__list\">\n                            <li class=\"usa-breadcrumb__list-item\">\n
+  \                                           <a href=\"/\" class=\"usa-breadcrumb__link\"><span>Justice.gov</span></a>\n
+  \                                   </li>\n                            <li class=\"usa-breadcrumb__list-item\">\n
+  \                                           <a href=\"/opa\" class=\"usa-breadcrumb__link\"><span>Office
+  of Public Affairs</span></a>\n                                    </li>\n                            <li
+  class=\"usa-breadcrumb__list-item\">\n                                            <a
+  href=\"https://www.justice.gov/news\" class=\"usa-breadcrumb__link\"><span>News</span></a>\n
+  \                                   </li>\n                            <li class=\"usa-breadcrumb__list-item\">\n
+  \                                           <a href=\"https://www.justice.gov/news/press-releases\"
+  class=\"usa-breadcrumb__link\"><span>Press Releases</span></a>\n                                    </li>\n
+  \                           <li class=\"usa-breadcrumb__list-item\">\n                                            <span>Michigan
+  Pharmacist Sentenced To 46 Months In Prison For $4M Health Care Fraud Scheme</span>\n
+  \                                   </li>\n                    </ol>\n    </nav>\n\n
+  \     </div>\n\n  </div>\n\n            </div>\n          </div>\n        \n                  <div
+  class=\"\">\n            \n          </div>\n        \n                      \n
+  \     <div class=\"grid-row grid-gap a11y-natural-flow\">\n                                <div
+  class=\"usa-layout-docs__sidenav tablet-lg:grid-col-3 layout-sidebar-first\">\n
+  \   <div id=\"block-news\" class=\"settings-tray-editable block block- block-system
+  block-system-menu-blocknews block-grouped-menu wrapper-sidenav tablet-lg:margin-top-3
+  margin-bottom-4 tablet-lg:accordion-leave-open\" data-drupal-settingstray=\"editable\">\n
+  \ \n  \n            <div class=\"group-wrapper\">\n            <div class=\"usa-accordion\"
+  aria-multiselectable=\"true\">\n                <!-- Use the accurate heading level
+  to maintain the document outline -->\n                                                    <h3
+  class=\"usa-accordion__heading group-wrapper__heading font-body-l text-primary-darker
+  text-bold\">\n                        <button class=\"usa-accordion__button\" aria-expanded=\"false\"
+  aria-controls=\"usdoj-grouped-sidebar-menu-news\">\n                            <span
+  class=\"complementary-menu-label tablet-lg:display-none display-block font-body-2xs
+  margin-bottom-1 display-none\">MENU</span>\n                            News\n                        </button>\n
+  \                   </h3>\n                                <div id=\"usdoj-grouped-sidebar-menu-news\"
+  class=\"usa-accordion__content usa-prose group-wrapper__content group-wrapper__content__menu\">\n\n
+  \                                                         \n                \n    \n
+  \                   <ul class=\"usa-nav__sidebar usa-nav__sidebar__first usa-accordion\">\n
+  \       \n                                                \n                            <li
+  class=\"usa-nav__primary-item \">\n            \n            \n            \n                            \n
+  \               <a href=\"/news\" class=\"usa-nav__link \">\n                    <span>All
+  News</span>\n                </a>\n                            \n                            </li>\n
+  \           \n                                                \n                            <li
+  class=\"usa-nav__primary-item \">\n            \n            \n            \n                            \n
+  \               <a href=\"/news/blogs\" class=\"usa-nav__link \">\n                    <span>Blogs</span>\n
+  \               </a>\n                            \n                            </li>\n
+  \           \n                                                \n                            <li
+  class=\"usa-nav__primary-item \">\n            \n            \n            \n                            \n
+  \               <a href=\"/news/photo-galleries\" class=\"usa-nav__link \">\n                    <span>Photo
+  Galleries</span>\n                </a>\n                            \n                            </li>\n
+  \           \n                                                \n                            <li
+  class=\"usa-nav__primary-item \">\n            \n            \n            \n                            \n
+  \               <a href=\"/news/podcasts\" class=\"usa-nav__link \">\n                    <span>Podcasts</span>\n
+  \               </a>\n                            \n                            </li>\n
+  \           \n                                                \n                            <li
+  class=\"usa-nav__primary-item \">\n            \n            \n            \n                            \n
+  \               <a href=\"/news/press-releases\" class=\"usa-nav__link \">\n                    <span>Press
+  Releases</span>\n                </a>\n                            \n                            </li>\n
+  \           \n                                                \n                            <li
+  class=\"usa-nav__primary-item \">\n            \n            \n            \n                            \n
+  \               <a href=\"/news/speeches\" class=\"usa-nav__link \">\n                    <span>Speeches</span>\n
+  \               </a>\n                            \n                            </li>\n
+  \           \n                                                \n                            <li
+  class=\"usa-nav__primary-item \">\n            \n            \n            \n                            \n
+  \               <a href=\"/news/videos\" class=\"usa-nav__link \">\n                    <span>Videos</span>\n
+  \               </a>\n                            \n                            </li>\n
+  \           \n        \n                    </ul>\n        \n    \n\n\n                </div>\n
+  \           </div>\n        </div>\n    </div>\n\n\n\n<div id=\"block-archivedpressreleases\"
+  class=\"settings-tray-editable block block-general block-block-content block-block-content449acd90-b462-4d67-b9aa-a81f42ee3205
+  bg-full-width bg-none block_full_width\" data-drupal-settingstray=\"editable\">\n\n
+  \ \n      <h2 class=\"block-title\">Archived Press Releases</h2>\n    \n      <div
+  class=\"block-content\">\n      <div class=\"block-general__innerWrapper\">\n                          <div
+  class=\"block-body\">\n              \n                  <div>\n        <div class=\"field-formatter--text-default
+  field-text-format--wysiwyg text-formatted body\"><p><a href=\"https://www.justice.gov/archives/news-archive\"><strong>Archived
+  News</strong></a></p></div>\n      </div>\n            \n          </div>\n              </div>\n
+  \   </div>\n  </div>\n\n  </div>\n\n                  \n                <div class=\"usa-layout-docs__main
+  tablet-lg:grid-col-fill\">\n              <div data-drupal-messages-fallback class=\"hidden\"></div>\n\n\n\n\n<article
+  class=\"grid-row grid-gap\">\n    <div class=\"node-content node-press-release\">\n\n
+  \   <div class=\"node-type\">Press Release</div>\n\n    \n    <h1 class=\"page-title\">\n<span
+  class=\"field-formatter--string\">Michigan Pharmacist Sentenced to 46 Months in
+  Prison  for $4M Health Care Fraud Scheme</span>\n</h1>\n    \n\n    <div class=\"node-top\">\n
+  \     <div class=\"node-top-left\">\n        <div class=\"node-language-switcher\"></div>\n
+  \       <div class=\"node-date\">  \n                  <div>\n        <div class=\"field-formatter--datetime-default
+  field_date\">\n<time datetime=\"2025-11-24T12:00:00Z\">Monday, November 24, 2025</time>\n</div>\n
+  \     </div>\n            </div>\n          <div class=\"node-share\">\n\n<div>\n\n
+  \   <div class=\"usdoj-sharing\">\n<button type=\"button\" class=\"usdoj-sharing-toggle\"
+  tabindex=\"0\" aria-label=\"Share\" aria-expanded=\"false\" aria-controls=\"sharing-links\">\n\t<span
+  class=\"toggle-text\">Share</span>\n\t<span class=\"toggle-icon\"><img src=\"/themes/custom/usdoj_uswds/svg/angle-arrow-right-white.svg\"
+  alt=\"right caret\" width=\"6\" height=\"6\" aria-hidden=\"true\"></span>\n</button>\n\n\n
+  \       <ul style=\"display:none;\" id=\"sharing-links\">\n            <li>\n                <a
+  href=\"http://www.facebook.com/sharer/sharer.php?u=https://www.justice.gov/opa/pr/michigan-pharmacist-sentenced-46-months-prison-4m-health-care-fraud-scheme\"
+  target=\"_blank\" title=\"Share on Facebook\" data-event-label=\"Share on Facebook\">Facebook</a>\n
+  \           </li>\n            <li>\n                <a href=\"http://twitter.com/intent/tweet?url=https://www.justice.gov/opa/pr/michigan-pharmacist-sentenced-46-months-prison-4m-health-care-fraud-scheme&amp;text=Michigan%20Pharmacist%20Sentenced%20to%2046%20Months%20in%20Prison%20%20for%20$4M%20Health%20Care%20Fraud%20Scheme\"
+  target=\"_blank\" title=\"Share on X\" data-event-label=\"Share on X\">X</a>\n            </li>\n
+  \           <li>\n                <a href=\"http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.justice.gov/opa/pr/michigan-pharmacist-sentenced-46-months-prison-4m-health-care-fraud-scheme&amp;title=Michigan%20Pharmacist%20Sentenced%20to%2046%20Months%20in%20Prison%20%20for%20$4M%20Health%20Care%20Fraud%20Scheme\"
+  target=\"_blank\" title=\"Share on LinkedIn\" data-event-label=\"Share on LinkedIn\">LinkedIn</a>\n
+  \           </li>\n            <li>\n                <a href=\"mailto:?body=https://www.justice.gov/opa/pr/michigan-pharmacist-sentenced-46-months-prison-4m-health-care-fraud-scheme&amp;subject=Michigan%20Pharmacist%20Sentenced%20to%2046%20Months%20in%20Prison%20%20for%20$4M%20Health%20Care%20Fraud%20Scheme\"
+  title=\"Email\" data-event-label=\"Email\">Email</a>\n            </li>\n        </ul>\n
+  \   </div>\n\n</div>\n</div>\n      </div>\n\n      <div class=\"node-top-right\">\n
+  \       <div class=\"node-info-box\">\n          <strong>For Immediate Release</strong>\n
+  \                     <div class=\"node-office\">\n                            Office
+  of Public Affairs\n            </div>\n                    \n                  </div>\n
+  \     </div>\n    </div>\n\n    \n    <div class=\"node-body\">\n        \n                  <div>\n
+  \       <div class=\"field-formatter--text-default field-text-format--wysiwyg text-formatted
+  field_body\">\n<p>A former Michigan pharmacist was sentenced today to 46 months
+  in prison for his role in a health care fraud scheme at a pharmacy he operated.
+  He was also ordered to pay $4 million in restitution and to forfeit four real estate
+  properties and $726,364.96.</p>\n<p>According to court documents, from approximately
+  2011 to 2017, Nabil Fakih, 50, of Wayne County, billed Medicare for prescription
+  medications that he did not dispense at the pharmacy he owned and operated in Dearborn
+  Heights, Michigan. As part of the scheme, Fakih submitted fraudulent claims for
+  reimbursement to Medicare for high-reimbursing prescription medications, such as
+  blood thinners and lung disease inhalers that his pharmacy did not even have the
+  inventory to dispense. He concealed his fraud by manipulating the inventory purchases
+  at his pharmacy, as well as the receipt and transfer of the proceeds from the fraud,
+  diverting the proceeds for his own personal use and benefit. As a result of his
+  crime, Fakih caused a total of approximately $4 million of loss to Medicare.</p>\n<p>In
+  August 2024, Fakih pleaded guilty to one count of health care fraud before a federal
+  judge in the Eastern District of Michigan.</p>\n<p>Acting Assistant Attorney General
+  Matthew R. Galeotti of the Justice Department’s Criminal Division; Special Agent
+  in Charge Jennifer Runyan of the FBI Detroit Field Office; and Special Agent in
+  Charge Mario Pinto of the Department of Health and Human Services Office of Inspector
+  General (HHS-OIG) made the announcement.</p>\n<p>FBI and HHS-OIG investigated the
+  case.</p>\n<p>Trial Attorney Andres Q. Almendarez of the Criminal Division’s Fraud
+  Section prosecuted the case.</p>\n<p>The Fraud Section leads the Criminal Division’s
+  efforts to combat health care fraud through the Health Care Fraud Strike Force Program.
+  Since March 2007, this program, currently comprised of 9 strike forces operating
+  in 27 federal districts, has charged more than 5,800 defendants who collectively
+  have billed federal health care programs and private insurers more than $30 billion.
+  In addition, the Centers for Medicare and Medicaid Services, working in conjunction
+  with HHS-OIG, are taking steps to hold providers accountable for their involvement
+  in health care fraud schemes. More information can be found at www.justice.gov/criminal-fraud/health-care-fraud-unit.</p>\n</div>\n
+  \     </div>\n            \n      </div>\n\n    \n    <div class=\"node-updated-date\">Updated
+  November 24, 2025</div>\n\n    <hr>\n\n        \n    \n                <div class=\"node-topics\">\n<div><strong>Topic</strong></div>
+  \ \n            <div class=\"field-formatter--entity-reference-label field__items\">\n
+  \                 <div class=\"field__item\">Health Care Fraud</div>\n              </div>\n
+  \     </div>\n    \n        <div class=\"node-component\">\n      <div class=\"label
+  text-bold margin-bottom-1\">\n                Components      </div>\n            <div
+  class=\"field__item\">\n        <a href=\"http://www.justice.gov/criminal/\">\n
+  \         Criminal Division\n        </a>\n      </div>\n            <div class=\"field__item\">\n
+  \       <a href=\"/criminal/criminal-fraud\">\n          Criminal - Criminal Fraud
+  Section\n        </a>\n      </div>\n          </div>\n    \n        <span>Press
+  Release Number:</span> 25-1109<br>\n      </div>\n\n</article>\n\n\n          </div>
+  \       \n              </div>\n\n            <div class=\"grid-row grid-gap\">\n
+  \                 <div class=\"post-content-region\">\n              <div>\n        <div
+  class=\"views-element-container settings-tray-editable block block- block-views
+  block-views-blockrelated-content--related-content-block bg-full-width bg-none\"
+  id=\"block-views-block-related-content-related-content-block\" data-drupal-settingstray=\"editable\">\n
+  \   \n          <h2 class=\"block-title\">Related Content </h2>\n        \n          <div>\n<div
+  class=\"related-content-display js-view-dom-id-6cab32c03321d1e5d483b7826c5a91e75ef5051bae644bd040844749e31646a5\">\n
+  \ \n  \n  \n\n  \n  \n  \n\n      <div class=\"views-view-grid horizontal cols-3
+  clearfix\">\n            <div class=\"views-row clearfix row-1\">\n                  <div
+  class=\"views-col col-1\">\n<div class=\"views-field views-field-type\"><span class=\"field-content\">Press
+  Release</span></div>\n<div class=\"views-field views-field-title\"><span class=\"field-content\"><a
+  href=\"/opa/pr/pharmacist-and-brother-sentenced-prison-15m-health-care-and-wire-fraud-scheme\"
+  hreflang=\"en\">Pharmacist and Brother Sentenced to Prison for $15M Health Care
+  \ and Wire Fraud Scheme</a></span></div>\n<div class=\"views-field views-field-field-teaser\"><span
+  class=\"field-content\">  <p>A former Michigan pharmacist and his brother were sentenced
+  yesterday to eight years in prison and five years in prison, respectively, for their
+  roles in a conspiracy to commit health...</p>\n\n</span></div>\n<div class=\"views-field
+  views-field-field-date\"><span class=\"field-content\"><time datetime=\"2025-11-21T12:00:00Z\">November
+  21, 2025</time>\n</span></div>\n</div>\n                  <div class=\"views-col
+  col-2\">\n<div class=\"views-field views-field-type\"><span class=\"field-content\">Press
+  Release</span></div>\n<div class=\"views-field views-field-title\"><span class=\"field-content\"><a
+  href=\"/opa/pr/uk-citizen-indicted-27m-telehealth-scheme\" hreflang=\"en\">U.K.
+  Citizen Indicted for $2.7M Telehealth Scheme</a></span></div>\n<div class=\"views-field
+  views-field-field-teaser\"><span class=\"field-content\">  <p>A federal grand jury
+  in the Middle District of Florida returned an indictment Wednesday charging a U.K.
+  citizen for his role in a conspiracy to submit fraudulent claims for telehealth...</p>\n\n</span></div>\n<div
+  class=\"views-field views-field-field-date\"><span class=\"field-content\"><time
+  datetime=\"2025-11-21T12:00:00Z\">November 21, 2025</time>\n</span></div>\n</div>\n
+  \                 <div class=\"views-col col-3\">\n<div class=\"views-field views-field-type\"><span
+  class=\"field-content\">Press Release</span></div>\n<div class=\"views-field views-field-title\"><span
+  class=\"field-content\"><a href=\"/opa/pr/mississippi-businessman-pleads-guilty-19m-health-care-fraud-conspiracy\"
+  hreflang=\"en\">Mississippi Businessman Pleads Guilty to $19M Health Care Fraud
+  Conspiracy</a></span></div>\n<div class=\"views-field views-field-field-teaser\"><span
+  class=\"field-content\">  <p>A Mississippi businessman pleaded guilty today to participating
+  in a scheme to defraud Medicare by paying kickbacks for fraudulent doctors’ orders
+  and then using those orders to bill the government...</p>\n\n</span></div>\n<div
+  class=\"views-field views-field-field-date\"><span class=\"field-content\"><time
+  datetime=\"2025-11-20T12:00:00Z\">November 20, 2025</time>\n</span></div>\n</div>\n
+  \             </div>\n      </div>\n\n    \n\n  \n  \n\n  \n  \n</div>\n</div>\n\n
+  \     </div>\n\n  </div>\n\n          </div>\n              </div>\n          </div>"
+original_markdown_body: "<nav class=\"usa-breadcrumb\" role=\"navigation\" aria-labelledby=\"system-breadcrumb\">\n
+  \       <h2 id=\"system-breadcrumb\" class=\"usa-sr-only\">Breadcrumb</h2>\n        <ol
+  class=\"usa-breadcrumb__list\">\n                            <li class=\"usa-breadcrumb__list-item\">\n
+  \                                           <a href=\"/\" class=\"usa-breadcrumb__link\"><span>Justice.gov</span></a>\n
+  \                                   </li>\n                            <li class=\"usa-breadcrumb__list-item\">\n
+  \                                           <a href=\"/opa\" class=\"usa-breadcrumb__link\"><span>Office
+  of Public Affairs</span></a>\n                                    </li>\n                            <li
+  class=\"usa-breadcrumb__list-item\">\n                                            <a
+  href=\"https://www.justice.gov/news\" class=\"usa-breadcrumb__link\"><span>News</span></a>\n
+  \                                   </li>\n                            <li class=\"usa-breadcrumb__list-item\">\n
+  \                                           <a href=\"https://www.justice.gov/news/press-releases\"
+  class=\"usa-breadcrumb__link\"><span>Press Releases</span></a>\n                                    </li>\n
+  \                           <li class=\"usa-breadcrumb__list-item\">\n                                            <span>Michigan
+  Pharmacist Sentenced To 46 Months In Prison For $4M Health Care Fraud Scheme</span>\n
+  \                                   </li>\n                    </ol>\n    </nav>\n\n<!--
+  Use the accurate heading level to maintain the document outline -->\n### <button
+  class=\"usa-accordion__button\" aria-expanded=\"false\" aria-controls=\"usdoj-grouped-sidebar-menu-news\">\n
+  \                           <span class=\"complementary-menu-label tablet-lg:display-none
+  display-block font-body-2xs margin-bottom-1 display-none\">MENU</span>\n                            News\n
+  \                       </button>\n\n- [All News](/news)\n- [Blogs](/news/blogs)\n-
+  [Photo Galleries](/news/photo-galleries)\n- [Podcasts](/news/podcasts)\n- [Press
+  Releases](/news/press-releases)\n- [Speeches](/news/speeches)\n- [Videos](/news/videos)\n\n##
+  Archived Press Releases\n\n[**Archived News**](https://www.justice.gov/archives/news-archive)\n\nPress
+  Release\n\n# Michigan Pharmacist Sentenced to 46 Months in Prison for $4M Health
+  Care Fraud Scheme\n\n<time datetime=\"2025-11-24T12:00:00Z\">Monday, November 24,
+  2025</time>\n\n<button type=\"button\" class=\"usdoj-sharing-toggle\" tabindex=\"0\"
+  aria-label=\"Share\" aria-expanded=\"false\" aria-controls=\"sharing-links\">\n\t<span
+  class=\"toggle-text\">Share</span>\n\t<span class=\"toggle-icon\"><img src=\"/themes/custom/usdoj_uswds/svg/angle-arrow-right-white.svg\"
+  alt=\"right caret\" width=\"6\" height=\"6\" aria-hidden=\"true\"></span>\n</button>\n-
+  [Facebook](http://www.facebook.com/sharer/sharer.php?u=https://www.justice.gov/opa/pr/michigan-pharmacist-sentenced-46-months-prison-4m-health-care-fraud-scheme
+  \"Share on Facebook\")\n- [X](http://twitter.com/intent/tweet?url=https://www.justice.gov/opa/pr/michigan-pharmacist-sentenced-46-months-prison-4m-health-care-fraud-scheme&text=Michigan%20Pharmacist%20Sentenced%20to%2046%20Months%20in%20Prison%20%20for%20$4M%20Health%20Care%20Fraud%20Scheme
+  \"Share on X\")\n- [LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://www.justice.gov/opa/pr/michigan-pharmacist-sentenced-46-months-prison-4m-health-care-fraud-scheme&title=Michigan%20Pharmacist%20Sentenced%20to%2046%20Months%20in%20Prison%20%20for%20$4M%20Health%20Care%20Fraud%20Scheme
+  \"Share on LinkedIn\")\n- [Email](mailto:?body=https://www.justice.gov/opa/pr/michigan-pharmacist-sentenced-46-months-prison-4m-health-care-fraud-scheme&subject=Michigan%20Pharmacist%20Sentenced%20to%2046%20Months%20in%20Prison%20%20for%20$4M%20Health%20Care%20Fraud%20Scheme
+  \"Email\")\n\n**For Immediate Release**\n Office of Public Affairs \n\nA former
+  Michigan pharmacist was sentenced today to 46 months in prison for his role in a
+  health care fraud scheme at a pharmacy he operated. He was also ordered to pay $4
+  million in restitution and to forfeit four real estate properties and $726,364.96.\n\nAccording
+  to court documents, from approximately 2011 to 2017, Nabil Fakih, 50, of Wayne County,
+  billed Medicare for prescription medications that he did not dispense at the pharmacy
+  he owned and operated in Dearborn Heights, Michigan. As part of the scheme, Fakih
+  submitted fraudulent claims for reimbursement to Medicare for high-reimbursing prescription
+  medications, such as blood thinners and lung disease inhalers that his pharmacy
+  did not even have the inventory to dispense. He concealed his fraud by manipulating
+  the inventory purchases at his pharmacy, as well as the receipt and transfer of
+  the proceeds from the fraud, diverting the proceeds for his own personal use and
+  benefit. As a result of his crime, Fakih caused a total of approximately $4 million
+  of loss to Medicare.\n\nIn August 2024, Fakih pleaded guilty to one count of health
+  care fraud before a federal judge in the Eastern District of Michigan.\n\nActing
+  Assistant Attorney&nbsp;General Matthew R. Galeotti of the Justice Department’s
+  Criminal Division; Special Agent in Charge Jennifer Runyan of the FBI Detroit Field
+  Office; and Special Agent in Charge Mario Pinto of the Department of Health and
+  Human Services Office of Inspector General (HHS-OIG) made the announcement.\n\nFBI
+  and HHS-OIG investigated the case.\n\nTrial Attorney Andres Q. Almendarez of the
+  Criminal Division’s Fraud Section prosecuted the case.\n\nThe Fraud Section leads
+  the Criminal Division’s efforts to combat health care fraud through the Health Care
+  Fraud Strike Force Program. Since March 2007, this program, currently comprised
+  of 9 strike forces operating in 27 federal districts, has charged more than 5,800
+  defendants who collectively have billed federal health care programs and private
+  insurers more than $30 billion. In addition, the Centers for Medicare and Medicaid
+  Services, working in conjunction with HHS-OIG, are taking steps to hold providers
+  accountable for their involvement in health care fraud schemes. More information
+  can be found at www.justice.gov/criminal-fraud/health-care-fraud-unit.\n\nUpdated
+  November 24, 2025\n\n* * *\n\n**Topic**\n\nHealth Care Fraud\n\n Components \n\n[Criminal
+  Division](http://www.justice.gov/criminal/)\n\n[Criminal - Criminal Fraud Section](/criminal/criminal-fraud)\n\nPress
+  Release Number: 25-1109  \n\n## Related Content \n\nPress Release\n\n[Pharmacist
+  and Brother Sentenced to Prison for $15M Health Care and Wire Fraud Scheme](/opa/pr/pharmacist-and-brother-sentenced-prison-15m-health-care-and-wire-fraud-scheme)\n\nA
+  former Michigan pharmacist and his brother were sentenced yesterday to eight years
+  in prison and five years in prison, respectively, for their roles in a conspiracy
+  to commit health...\n\n<time datetime=\"2025-11-21T12:00:00Z\">November 21, 2025</time>\n\nPress
+  Release\n\n[U.K. Citizen Indicted for $2.7M Telehealth Scheme](/opa/pr/uk-citizen-indicted-27m-telehealth-scheme)\n\nA
+  federal grand jury in the Middle District of Florida returned an indictment Wednesday
+  charging a U.K. citizen for his role in a conspiracy to submit fraudulent claims
+  for telehealth...\n\n<time datetime=\"2025-11-21T12:00:00Z\">November 21, 2025</time>\n\nPress
+  Release\n\n[Mississippi Businessman Pleads Guilty to $19M Health Care Fraud Conspiracy](/opa/pr/mississippi-businessman-pleads-guilty-19m-health-care-fraud-conspiracy)\n\nA
+  Mississippi businessman pleaded guilty today to participating in a scheme to defraud
+  Medicare by paying kickbacks for fraudulent doctors’ orders and then using those
+  orders to bill the government...\n\n<time datetime=\"2025-11-20T12:00:00Z\">November
+  20, 2025</time>"
 source: Department of Justice
 source_url: https://www.justice.gov/opa/pr/michigan-pharmacist-sentenced-46-months-prison-4m-health-care-fraud-scheme
-original_content: "<div class=\"usdoj_overlay below-header\"></div>\n\n    <a id=\"main-content\" tabindex=\"-1\"></a>\n    <div class=\"grid-container\">\n\n                        <div class=\"breadcrumb-wrapper display-none tablet-lg:display-block\">\n            <div class=\"grid-row\">\n                <div>\n        <div id=\"block-breadcrumbs\" class=\"settings-tray-editable block block- block-system block-system-breadcrumb-block bg-full-width\" data-drupal-settingstray=\"editable\">\n    \n        \n              <nav class=\"usa-breadcrumb\" role=\"navigation\" aria-labelledby=\"system-breadcrumb\">\n        <h2 id=\"system-breadcrumb\" class=\"usa-sr-only\">Breadcrumb</h2>\n        <ol class=\"usa-breadcrumb__list\">\n                            <li class=\"usa-breadcrumb__list-item\">\n                                            <a href=\"/\" class=\"usa-breadcrumb__link\"><span>Justice.gov</span></a>\n                                    </li>\n                            <li class=\"usa-breadcrumb__list-item\">\n                                            <a href=\"/opa\" class=\"usa-breadcrumb__link\"><span>Office of Public Affairs</span></a>\n                                    </li>\n                            <li class=\"usa-breadcrumb__list-item\">\n                                            <a href=\"https://www.justice.gov/news\" class=\"usa-breadcrumb__link\"><span>News</span></a>\n                                    </li>\n                            <li class=\"usa-breadcrumb__list-item\">\n                                            <a href=\"https://www.justice.gov/news/press-releases\" class=\"usa-breadcrumb__link\"><span>Press Releases</span></a>\n                                    </li>\n                            <li class=\"usa-breadcrumb__list-item\">\n                                            <span>Michigan Pharmacist Sentenced To 46 Months In Prison For $4M Health Care Fraud Scheme</span>\n                                    </li>\n                    </ol>\n    </nav>\n\n      </div>\n\n  </div>\n\n            </div>\n          </div>\n        \n                  <div class=\"\">\n            \n          </div>\n        \n                      \n      <div class=\"grid-row grid-gap a11y-natural-flow\">\n                                <div class=\"usa-layout-docs__sidenav tablet-lg:grid-col-3 layout-sidebar-first\">\n    <div id=\"block-news\" class=\"settings-tray-editable block block- block-system block-system-menu-blocknews block-grouped-menu wrapper-sidenav tablet-lg:margin-top-3 margin-bottom-4 tablet-lg:accordion-leave-open\" data-drupal-settingstray=\"editable\">\n  \n  \n            <div class=\"group-wrapper\">\n            <div class=\"usa-accordion\" aria-multiselectable=\"true\">\n                <!-- Use the accurate heading level to maintain the document outline -->\n                                                    <h3 class=\"usa-accordion__heading group-wrapper__heading font-body-l text-primary-darker text-bold\">\n                        <button class=\"usa-accordion__button\" aria-expanded=\"false\" aria-controls=\"usdoj-grouped-sidebar-menu-news\">\n                            <span class=\"complementary-menu-label tablet-lg:display-none display-block font-body-2xs margin-bottom-1 display-none\">MENU</span>\n                            News\n                        </button>\n                    </h3>\n                                <div id=\"usdoj-grouped-sidebar-menu-news\" class=\"usa-accordion__content usa-prose group-wrapper__content group-wrapper__content__menu\">\n\n                                                          \n                \n    \n                    <ul class=\"usa-nav__sidebar usa-nav__sidebar__first usa-accordion\">\n        \n                                                \n                            <li class=\"usa-nav__primary-item \">\n            \n            \n            \n                            \n                <a href=\"/news\" class=\"usa-nav__link \">\n                    <span>All News</span>\n                </a>\n                            \n                            </li>\n            \n                                                \n                            <li class=\"usa-nav__primary-item \">\n            \n            \n            \n                            \n                <a href=\"/news/blogs\" class=\"usa-nav__link \">\n                    <span>Blogs</span>\n                </a>\n                            \n                            </li>\n            \n                                                \n                            <li class=\"usa-nav__primary-item \">\n            \n            \n            \n                            \n                <a href=\"/news/photo-galleries\" class=\"usa-nav__link \">\n                    <span>Photo Galleries</span>\n                </a>\n                            \n                            </li>\n            \n                                                \n                            <li class=\"usa-nav__primary-item \">\n            \n            \n            \n                            \n                <a href=\"/news/podcasts\" class=\"usa-nav__link \">\n                    <span>Podcasts</span>\n                </a>\n                            \n                            </li>\n            \n                                                \n                            <li class=\"usa-nav__primary-item \">\n            \n            \n            \n                            \n                <a href=\"/news/press-releases\" class=\"usa-nav__link \">\n                    <span>Press Releases</span>\n                </a>\n                            \n                            </li>\n            \n                                                \n                            <li class=\"usa-nav__primary-item \">\n            \n            \n            \n                            \n                <a href=\"/news/speeches\" class=\"usa-nav__link \">\n                    <span>Speeches</span>\n                </a>\n                            \n                            </li>\n            \n                                                \n                            <li class=\"usa-nav__primary-item \">\n            \n            \n            \n                            \n                <a href=\"/news/videos\" class=\"usa-nav__link \">\n                    <span>Videos</span>\n                </a>\n                            \n                            </li>\n            \n        \n                    </ul>\n        \n    \n\n\n                </div>\n            </div>\n        </div>\n    </div>\n\n\n\n<div id=\"block-archivedpressreleases\" class=\"settings-tray-editable block block-general block-block-content block-block-content449acd90-b462-4d67-b9aa-a81f42ee3205 bg-full-width bg-none block_full_width\" data-drupal-settingstray=\"editable\">\n\n  \n      <h2 class=\"block-title\">Archived Press Releases</h2>\n    \n      <div class=\"block-content\">\n      <div class=\"block-general__innerWrapper\">\n                          <div class=\"block-body\">\n              \n                  <div>\n        <div class=\"field-formatter--text-default field-text-format--wysiwyg text-formatted body\"><p><a href=\"https://www.justice.gov/archives/news-archive\"><strong>Archived News</strong></a></p></div>\n      </div>\n            \n          </div>\n              </div>\n    </div>\n  </div>\n\n  </div>\n\n                  \n                <div class=\"usa-layout-docs__main tablet-lg:grid-col-fill\">\n              <div data-drupal-messages-fallback class=\"hidden\"></div>\n\n\n\n\n<article class=\"grid-row grid-gap\">\n    <div class=\"node-content node-press-release\">\n\n    <div class=\"node-type\">Press Release</div>\n\n    \n    <h1 class=\"page-title\">\n<span class=\"field-formatter--string\">Michigan Pharmacist Sentenced to 46 Months in Prison  for $4M Health Care Fraud Scheme</span>\n</h1>\n    \n\n    <div class=\"node-top\">\n      <div class=\"node-top-left\">\n        <div class=\"node-language-switcher\"></div>\n        <div class=\"node-date\">  \n                  <div>\n        <div class=\"field-formatter--datetime-default field_date\">\n<time datetime=\"2025-11-24T12:00:00Z\">Monday, November 24, 2025</time>\n</div>\n      </div>\n            </div>\n          <div class=\"node-share\">\n\n<div>\n\n    <div class=\"usdoj-sharing\">\n<button type=\"button\" class=\"usdoj-sharing-toggle\" tabindex=\"0\" aria-label=\"Share\" aria-expanded=\"false\" aria-controls=\"sharing-links\">\n\t<span class=\"toggle-text\">Share</span>\n\t<span class=\"toggle-icon\"><img src=\"/themes/custom/usdoj_uswds/svg/angle-arrow-right-white.svg\" alt=\"right caret\" width=\"6\" height=\"6\" aria-hidden=\"true\"></span>\n</button>\n\n\n        <ul style=\"display:none;\" id=\"sharing-links\">\n            <li>\n                <a href=\"http://www.facebook.com/sharer/sharer.php?u=https://www.justice.gov/opa/pr/michigan-pharmacist-sentenced-46-months-prison-4m-health-care-fraud-scheme\" target=\"_blank\" title=\"Share on Facebook\" data-event-label=\"Share on Facebook\">Facebook</a>\n            </li>\n            <li>\n                <a href=\"http://twitter.com/intent/tweet?url=https://www.justice.gov/opa/pr/michigan-pharmacist-sentenced-46-months-prison-4m-health-care-fraud-scheme&amp;text=Michigan%20Pharmacist%20Sentenced%20to%2046%20Months%20in%20Prison%20%20for%20$4M%20Health%20Care%20Fraud%20Scheme\" target=\"_blank\" title=\"Share on X\" data-event-label=\"Share on X\">X</a>\n            </li>\n            <li>\n                <a href=\"http://www.linkedin.com/shareArticle?mini=true&amp;url=https://www.justice.gov/opa/pr/michigan-pharmacist-sentenced-46-months-prison-4m-health-care-fraud-scheme&amp;title=Michigan%20Pharmacist%20Sentenced%20to%2046%20Months%20in%20Prison%20%20for%20$4M%20Health%20Care%20Fraud%20Scheme\" target=\"_blank\" title=\"Share on LinkedIn\" data-event-label=\"Share on LinkedIn\">LinkedIn</a>\n            </li>\n            <li>\n                <a href=\"mailto:?body=https://www.justice.gov/opa/pr/michigan-pharmacist-sentenced-46-months-prison-4m-health-care-fraud-scheme&amp;subject=Michigan%20Pharmacist%20Sentenced%20to%2046%20Months%20in%20Prison%20%20for%20$4M%20Health%20Care%20Fraud%20Scheme\" title=\"Email\" data-event-label=\"Email\">Email</a>\n            </li>\n        </ul>\n    </div>\n\n</div>\n</div>\n      </div>\n\n      <div class=\"node-top-right\">\n        <div class=\"node-info-box\">\n          <strong>For Immediate Release</strong>\n                      <div class=\"node-office\">\n                            Office of Public Affairs\n            </div>\n                    \n                  </div>\n      </div>\n    </div>\n\n    \n    <div class=\"node-body\">\n        \n                  <div>\n        <div class=\"field-formatter--text-default field-text-format--wysiwyg text-formatted field_body\">\n<p>A former Michigan pharmacist was sentenced today to 46 months in prison for his role in a health care fraud scheme at a pharmacy he operated. He was also ordered to pay $4 million in restitution and to forfeit four real estate properties and $726,364.96.</p>\n<p>According to court documents, from approximately 2011 to 2017, Nabil Fakih, 50, of Wayne County, billed Medicare for prescription medications that he did not dispense at the pharmacy he owned and operated in Dearborn Heights, Michigan. As part of the scheme, Fakih submitted fraudulent claims for reimbursement to Medicare for high-reimbursing prescription medications, such as blood thinners and lung disease inhalers that his pharmacy did not even have the inventory to dispense. He concealed his fraud by manipulating the inventory purchases at his pharmacy, as well as the receipt and transfer of the proceeds from the fraud, diverting the proceeds for his own personal use and benefit. As a result of his crime, Fakih caused a total of approximately $4 million of loss to Medicare.</p>\n<p>In August 2024, Fakih pleaded guilty to one count of health care fraud before a federal judge in the Eastern District of Michigan.</p>\n<p>Acting Assistant Attorney General Matthew R. Galeotti of the Justice Department’s Criminal Division; Special Agent in Charge Jennifer Runyan of the FBI Detroit Field Office; and Special Agent in Charge Mario Pinto of the Department of Health and Human Services Office of Inspector General (HHS-OIG) made the announcement.</p>\n<p>FBI and HHS-OIG investigated the case.</p>\n<p>Trial Attorney Andres Q. Almendarez of the Criminal Division’s Fraud Section prosecuted the case.</p>\n<p>The Fraud Section leads the Criminal Division’s efforts to combat health care fraud through the Health Care Fraud Strike Force Program. Since March 2007, this program, currently comprised of 9 strike forces operating in 27 federal districts, has charged more than 5,800 defendants who collectively have billed federal health care programs and private insurers more than $30 billion. In addition, the Centers for Medicare and Medicaid Services, working in conjunction with HHS-OIG, are taking steps to hold providers accountable for their involvement in health care fraud schemes. More information can be found at www.justice.gov/criminal-fraud/health-care-fraud-unit.</p>\n</div>\n      </div>\n            \n      </div>\n\n    \n    <div class=\"node-updated-date\">Updated November 24, 2025</div>\n\n    <hr>\n\n        \n    \n                <div class=\"node-topics\">\n<div><strong>Topic</strong></div>  \n            <div class=\"field-formatter--entity-reference-label field__items\">\n                  <div class=\"field__item\">Health Care Fraud</div>\n              </div>\n      </div>\n    \n        <div class=\"node-component\">\n      <div class=\"label text-bold margin-bottom-1\">\n                Components      </div>\n            <div class=\"field__item\">\n        <a href=\"http://www.justice.gov/criminal/\">\n          Criminal Division\n        </a>\n      </div>\n            <div class=\"field__item\">\n        <a href=\"/criminal/criminal-fraud\">\n          Criminal - Criminal Fraud Section\n        </a>\n      </div>\n          </div>\n    \n        <span>Press Release Number:</span> 25-1109<br>\n      </div>\n\n</article>\n\n\n          </div>        \n              </div>\n\n            <div class=\"grid-row grid-gap\">\n                  <div class=\"post-content-region\">\n              <div>\n        <div class=\"views-element-container settings-tray-editable block block- block-views block-views-blockrelated-content--related-content-block bg-full-width bg-none\" id=\"block-views-block-related-content-related-content-block\" data-drupal-settingstray=\"editable\">\n    \n          <h2 class=\"block-title\">Related Content </h2>\n        \n          <div>\n<div class=\"related-content-display js-view-dom-id-6cab32c03321d1e5d483b7826c5a91e75ef5051bae644bd040844749e31646a5\">\n  \n  \n  \n\n  \n  \n  \n\n      <div class=\"views-view-grid horizontal cols-3 clearfix\">\n            <div class=\"views-row clearfix row-1\">\n                  <div class=\"views-col col-1\">\n<div class=\"views-field views-field-type\"><span class=\"field-content\">Press Release</span></div>\n<div class=\"views-field views-field-title\"><span class=\"field-content\"><a href=\"/opa/pr/pharmacist-and-brother-sentenced-prison-15m-health-care-and-wire-fraud-scheme\" hreflang=\"en\">Pharmacist and Brother Sentenced to Prison for $15M Health Care  and Wire Fraud Scheme</a></span></div>\n<div class=\"views-field views-field-field-teaser\"><span class=\"field-content\">  <p>A former Michigan pharmacist and his brother were sentenced yesterday to eight years in prison and five years in prison, respectively, for their roles in a conspiracy to commit health...</p>\n\n</span></div>\n<div class=\"views-field views-field-field-date\"><span class=\"field-content\"><time datetime=\"2025-11-21T12:00:00Z\">November 21, 2025</time>\n</span></div>\n</div>\n                  <div class=\"views-col col-2\">\n<div class=\"views-field views-field-type\"><span class=\"field-content\">Press Release</span></div>\n<div class=\"views-field views-field-title\"><span class=\"field-content\"><a href=\"/opa/pr/uk-citizen-indicted-27m-telehealth-scheme\" hreflang=\"en\">U.K. Citizen Indicted for $2.7M Telehealth Scheme</a></span></div>\n<div class=\"views-field views-field-field-teaser\"><span class=\"field-content\">  <p>A federal grand jury in the Middle District of Florida returned an indictment Wednesday charging a U.K. citizen for his role in a conspiracy to submit fraudulent claims for telehealth...</p>\n\n</span></div>\n<div class=\"views-field views-field-field-date\"><span class=\"field-content\"><time datetime=\"2025-11-21T12:00:00Z\">November 21, 2025</time>\n</span></div>\n</div>\n                  <div class=\"views-col col-3\">\n<div class=\"views-field views-field-type\"><span class=\"field-content\">Press Release</span></div>\n<div class=\"views-field views-field-title\"><span class=\"field-content\"><a href=\"/opa/pr/mississippi-businessman-pleads-guilty-19m-health-care-fraud-conspiracy\" hreflang=\"en\">Mississippi Businessman Pleads Guilty to $19M Health Care Fraud Conspiracy</a></span></div>\n<div class=\"views-field views-field-field-teaser\"><span class=\"field-content\">  <p>A Mississippi businessman pleaded guilty today to participating in a scheme to defraud Medicare by paying kickbacks for fraudulent doctors’ orders and then using those orders to bill the government...</p>\n\n</span></div>\n<div class=\"views-field views-field-field-date\"><span class=\"field-content\"><time datetime=\"2025-11-20T12:00:00Z\">November 20, 2025</time>\n</span></div>\n</div>\n              </div>\n      </div>\n\n    \n\n  \n  \n\n  \n  \n</div>\n</div>\n\n      </div>\n\n  </div>\n\n          </div>\n              </div>\n          </div>"
-original_markdown_body: "<nav class=\"usa-breadcrumb\" role=\"navigation\" aria-labelledby=\"system-breadcrumb\">\n        <h2 id=\"system-breadcrumb\" class=\"usa-sr-only\">Breadcrumb</h2>\n        <ol class=\"usa-breadcrumb__list\">\n                            <li class=\"usa-breadcrumb__list-item\">\n                                            <a href=\"/\" class=\"usa-breadcrumb__link\"><span>Justice.gov</span></a>\n                                    </li>\n                            <li class=\"usa-breadcrumb__list-item\">\n                                            <a href=\"/opa\" class=\"usa-breadcrumb__link\"><span>Office of Public Affairs</span></a>\n                                    </li>\n                            <li class=\"usa-breadcrumb__list-item\">\n                                            <a href=\"https://www.justice.gov/news\" class=\"usa-breadcrumb__link\"><span>News</span></a>\n                                    </li>\n                            <li class=\"usa-breadcrumb__list-item\">\n                                            <a href=\"https://www.justice.gov/news/press-releases\" class=\"usa-breadcrumb__link\"><span>Press Releases</span></a>\n                                    </li>\n                            <li class=\"usa-breadcrumb__list-item\">\n                                            <span>Michigan Pharmacist Sentenced To 46 Months In Prison For $4M Health Care Fraud Scheme</span>\n                                    </li>\n                    </ol>\n    </nav>\n\n<!-- Use the accurate heading level to maintain the document outline -->\n### <button class=\"usa-accordion__button\" aria-expanded=\"false\" aria-controls=\"usdoj-grouped-sidebar-menu-news\">\n                            <span class=\"complementary-menu-label tablet-lg:display-none display-block font-body-2xs margin-bottom-1 display-none\">MENU</span>\n                            News\n                        </button>\n\n- [All News](/news)\n- [Blogs](/news/blogs)\n- [Photo Galleries](/news/photo-galleries)\n- [Podcasts](/news/podcasts)\n- [Press Releases](/news/press-releases)\n- [Speeches](/news/speeches)\n- [Videos](/news/videos)\n\n## Archived Press Releases\n\n[**Archived News**](https://www.justice.gov/archives/news-archive)\n\nPress Release\n\n# Michigan Pharmacist Sentenced to 46 Months in Prison for $4M Health Care Fraud Scheme\n\n<time datetime=\"2025-11-24T12:00:00Z\">Monday, November 24, 2025</time>\n\n<button type=\"button\" class=\"usdoj-sharing-toggle\" tabindex=\"0\" aria-label=\"Share\" aria-expanded=\"false\" aria-controls=\"sharing-links\">\n\t<span class=\"toggle-text\">Share</span>\n\t<span class=\"toggle-icon\"><img src=\"/themes/custom/usdoj_uswds/svg/angle-arrow-right-white.svg\" alt=\"right caret\" width=\"6\" height=\"6\" aria-hidden=\"true\"></span>\n</button>\n- [Facebook](http://www.facebook.com/sharer/sharer.php?u=https://www.justice.gov/opa/pr/michigan-pharmacist-sentenced-46-months-prison-4m-health-care-fraud-scheme \"Share on Facebook\")\n- [X](http://twitter.com/intent/tweet?url=https://www.justice.gov/opa/pr/michigan-pharmacist-sentenced-46-months-prison-4m-health-care-fraud-scheme&text=Michigan%20Pharmacist%20Sentenced%20to%2046%20Months%20in%20Prison%20%20for%20$4M%20Health%20Care%20Fraud%20Scheme \"Share on X\")\n- [LinkedIn](http://www.linkedin.com/shareArticle?mini=true&url=https://www.justice.gov/opa/pr/michigan-pharmacist-sentenced-46-months-prison-4m-health-care-fraud-scheme&title=Michigan%20Pharmacist%20Sentenced%20to%2046%20Months%20in%20Prison%20%20for%20$4M%20Health%20Care%20Fraud%20Scheme \"Share on LinkedIn\")\n- [Email](mailto:?body=https://www.justice.gov/opa/pr/michigan-pharmacist-sentenced-46-months-prison-4m-health-care-fraud-scheme&subject=Michigan%20Pharmacist%20Sentenced%20to%2046%20Months%20in%20Prison%20%20for%20$4M%20Health%20Care%20Fraud%20Scheme \"Email\")\n\n**For Immediate Release**\n Office of Public Affairs \n\nA former Michigan pharmacist was sentenced today to 46 months in prison for his role in a health care fraud scheme at a pharmacy he operated. He was also ordered to pay $4 million in restitution and to forfeit four real estate properties and $726,364.96.\n\nAccording to court documents, from approximately 2011 to 2017, Nabil Fakih, 50, of Wayne County, billed Medicare for prescription medications that he did not dispense at the pharmacy he owned and operated in Dearborn Heights, Michigan. As part of the scheme, Fakih submitted fraudulent claims for reimbursement to Medicare for high-reimbursing prescription medications, such as blood thinners and lung disease inhalers that his pharmacy did not even have the inventory to dispense. He concealed his fraud by manipulating the inventory purchases at his pharmacy, as well as the receipt and transfer of the proceeds from the fraud, diverting the proceeds for his own personal use and benefit. As a result of his crime, Fakih caused a total of approximately $4 million of loss to Medicare.\n\nIn August 2024, Fakih pleaded guilty to one count of health care fraud before a federal judge in the Eastern District of Michigan.\n\nActing Assistant Attorney&nbsp;General Matthew R. Galeotti of the Justice Department’s Criminal Division; Special Agent in Charge Jennifer Runyan of the FBI Detroit Field Office; and Special Agent in Charge Mario Pinto of the Department of Health and Human Services Office of Inspector General (HHS-OIG) made the announcement.\n\nFBI and HHS-OIG investigated the case.\n\nTrial Attorney Andres Q. Almendarez of the Criminal Division’s Fraud Section prosecuted the case.\n\nThe Fraud Section leads the Criminal Division’s efforts to combat health care fraud through the Health Care Fraud Strike Force Program. Since March 2007, this program, currently comprised of 9 strike forces operating in 27 federal districts, has charged more than 5,800 defendants who collectively have billed federal health care programs and private insurers more than $30 billion. In addition, the Centers for Medicare and Medicaid Services, working in conjunction with HHS-OIG, are taking steps to hold providers accountable for their involvement in health care fraud schemes. More information can be found at www.justice.gov/criminal-fraud/health-care-fraud-unit.\n\nUpdated November 24, 2025\n\n* * *\n\n**Topic**\n\nHealth Care Fraud\n\n Components \n\n[Criminal Division](http://www.justice.gov/criminal/)\n\n[Criminal - Criminal Fraud Section](/criminal/criminal-fraud)\n\nPress Release Number: 25-1109  \n\n## Related Content \n\nPress Release\n\n[Pharmacist and Brother Sentenced to Prison for $15M Health Care and Wire Fraud Scheme](/opa/pr/pharmacist-and-brother-sentenced-prison-15m-health-care-and-wire-fraud-scheme)\n\nA former Michigan pharmacist and his brother were sentenced yesterday to eight years in prison and five years in prison, respectively, for their roles in a conspiracy to commit health...\n\n<time datetime=\"2025-11-21T12:00:00Z\">November 21, 2025</time>\n\nPress Release\n\n[U.K. Citizen Indicted for $2.7M Telehealth Scheme](/opa/pr/uk-citizen-indicted-27m-telehealth-scheme)\n\nA federal grand jury in the Middle District of Florida returned an indictment Wednesday charging a U.K. citizen for his role in a conspiracy to submit fraudulent claims for telehealth...\n\n<time datetime=\"2025-11-21T12:00:00Z\">November 21, 2025</time>\n\nPress Release\n\n[Mississippi Businessman Pleads Guilty to $19M Health Care Fraud Conspiracy](/opa/pr/mississippi-businessman-pleads-guilty-19m-health-care-fraud-conspiracy)\n\nA Mississippi businessman pleaded guilty today to participating in a scheme to defraud Medicare by paying kickbacks for fraudulent doctors’ orders and then using those orders to bill the government...\n\n<time datetime=\"2025-11-20T12:00:00Z\">November 20, 2025</time>"
 summarized: true
+title: Michigan Pharmacist Sentenced to 46 Months in Prison  for $4M Health Care Fraud
+  Scheme
 topics:
 - Health Care
-images: []
 ---
 
 A former Michigan pharmacist, Nabil Fakih, was sentenced to 46 months in prison for his involvement in a health care fraud scheme that resulted in a loss of approximately $4 million to Medicare. In addition to his prison sentence, Fakih was ordered to pay $4 million in restitution and forfeit four real estate properties and $726,364.96. From 2011 to 2017, he billed Medicare for prescription medications that were never dispensed at his pharmacy in Dearborn Heights. Fakih submitted fraudulent claims for high-reimbursing medications, such as blood thinners and inhalers, despite not having the inventory to fulfill these claims. He concealed his fraudulent activities by manipulating inventory purchases and diverting the proceeds for personal benefit. In August 2024, Fakih pleaded guilty to one count of health care fraud in federal court. The investigation was conducted by the FBI and the Department of Health and Human Services Office of Inspector General, with prosecution led by Trial Attorney Andres Q. Almendarez from the Criminal Division’s Fraud Section, which combats health care fraud through the Health Care Fraud Strike Force Program.

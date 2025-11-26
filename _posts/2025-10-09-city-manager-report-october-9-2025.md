@@ -1,13 +1,17 @@
 ---
-title: City Manager Report – October 9, 2025
 date: '2025-10-09T18:55:20+00:00'
+images: []
+original_content: 'Fall Checklist: Prevent Flooding and Protect Our Environment. As
+  fall settles in, colorful leaves and cooler weather also bring a few important maintenance
+  tasks for homeowners. Taking small actions now can make a big difference in preventing
+  flooding and protecting our local waterways. Here are a few simple steps to get
+  your property ready for the season:'
+published: false
 source: City of Normandy Park
 source_url: https://normandyparkwa.gov/city-news/city-manager/city-manager-report-october-9-2025/
-original_content: 'Fall Checklist: Prevent Flooding and Protect Our Environment. As fall settles in, colorful leaves and cooler weather also bring a few important maintenance tasks for homeowners. Taking small actions now can make a big difference in preventing flooding and protecting our local waterways. Here are a few simple steps to get your property ready for the season:'
 summarized: true
+title: City Manager Report – October 9, 2025
 topics: []
-published: false
-images: []
 ---
 
 **Normandy Park City Manager Reports - Oct/Nov 2025**

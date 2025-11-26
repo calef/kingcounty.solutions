@@ -1,18 +1,18 @@
 ---
-title: 10 kids’ books that were made into wintertime movies
 date: '2024-12-19T14:54:11+00:00'
-source: Reading Partners Seattle
-source_url: https://readingpartners.org/blog/10-kids-books-that-were-made-into-wintertime-movies/
+images: []
 original_content: <p>The post <a href="https://readingpartners.org/blog/10-kids-books-that-were-made-into-wintertime-movies/">10
   kids&#8217; books that were made into wintertime movies</a> appeared first on <a
   href="https://readingpartners.org">Reading Partners</a>.</p>
 original_markdown_body: The post [10 kids’ books that were made into wintertime movies](https://readingpartners.org/blog/10-kids-books-that-were-made-into-wintertime-movies/)
   appeared first on [Reading Partners](https://readingpartners.org).
+source: Reading Partners Seattle
+source_url: https://readingpartners.org/blog/10-kids-books-that-were-made-into-wintertime-movies/
 summarized: true
+title: 10 kids’ books that were made into wintertime movies
 topics:
 - Childcare
 - Education & Learning
-images: []
 ---
 
 As winter approaches and schools close, families can engage children in reading by watching movies adapted from beloved wintertime books. This activity not only entertains but also fosters comprehension skills through discussions about differences between the book and its film version. Suggested stories include:

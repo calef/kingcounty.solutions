@@ -1,8 +1,7 @@
 ---
-title: There and back again
 date: '2024-12-18T18:19:02+00:00'
-source: Compass Housing Alliance
-source_url: https://www.compasshousingalliance.org/2024/12/there-and-back-again/
+images:
+- 04bc3e6035511879bcfa699d22850ddc0ae7289adb1be0503be4ea11faaf2d1c
 original_content: |-
   <figure class="wp-block-image size-large"><a href="https://www.compasshousingalliance.org/donate/"><img loading="lazy" decoding="async" width="1024" height="379" src="https://www.compasshousingalliance.org/wp-content/uploads/2024/12/Compass-News-1080-x-400-px-18-1024x379.png" alt="" class="wp-image-12223" srcset="https://www.compasshousingalliance.org/wp-content/uploads/2024/12/Compass-News-1080-x-400-px-18-1024x379.png 1024w, https://www.compasshousingalliance.org/wp-content/uploads/2024/12/Compass-News-1080-x-400-px-18-300x111.png 300w, https://www.compasshousingalliance.org/wp-content/uploads/2024/12/Compass-News-1080-x-400-px-18-768x284.png 768w, https://www.compasshousingalliance.org/wp-content/uploads/2024/12/Compass-News-1080-x-400-px-18.png 1080w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></a></figure>
 
@@ -82,13 +81,14 @@ original_markdown_body: |-
   Our priorities are unwavering: we focus on providing services, enhanced emergency shelters, and affordable housing so everyone has a safe place to call home — even if it takes them years to make it to us.
 
   The post [There and back again](https://www.compasshousingalliance.org/2024/12/there-and-back-again/) appeared first on [Compass Housing Alliance](https://www.compasshousingalliance.org).
+source: Compass Housing Alliance
+source_url: https://www.compasshousingalliance.org/2024/12/there-and-back-again/
 summarized: true
+title: There and back again
 topics:
 - Shelter & Housing
 - Health Care
 - Employment & Job Support
-images:
-- 04bc3e6035511879bcfa699d22850ddc0ae7289adb1be0503be4ea11faaf2d1c
 ---
 
 Justin, who now works for a nonprofit assisting people experiencing homelessness, reflects on his own journey from living on the streets to finding stability. After nearly a decade of homelessness, he discovered Compass while seeking resources like showers. Though he didn't find housing immediately, Compass remained a trusted resource for him. The presence of a chapel at the Compass Center resonated deeply with Justin, reinforcing his faith during difficult times.

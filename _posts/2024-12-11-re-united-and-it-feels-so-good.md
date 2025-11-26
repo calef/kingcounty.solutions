@@ -1,8 +1,10 @@
 ---
-title: Re-united and it feels so good!
 date: '2024-12-11T18:01:59+00:00'
-source: Bike Works
-source_url: https://bikeworks.org/register-your-bikes/?utm_source=rss&utm_medium=rss&utm_campaign=register-your-bikes
+images:
+- 98346b5eb5426646a4606152c2b3a801acc787a97497d9ede5d17f31e71cd976
+- a31d96dc0e09b33e051e814c349bc62e18ebf005a9fd42c44307dc41f4abb506
+- 2299c4e49042969c8d4e1caf8b6194cd0cbcc3a24d19c43f03f3e2fe14212c15
+- 529fd4d4c987159150e27f790520f14fe365f555df056f5660fca96040aac263
 original_content: |-
   <figure class="wp-block-image size-large"><img data-recalc-dims="1" decoding="async" width="625" height="406" data-attachment-id="14881" data-permalink="https://bikeworks.org/bike-index/" data-orig-file="https://i0.wp.com/bikeworks.org/wp-content/uploads/2024/12/bike-index.jpg?fit=735%2C477&amp;ssl=1" data-orig-size="735,477" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="bike index" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/bikeworks.org/wp-content/uploads/2024/12/bike-index.jpg?fit=320%2C208&amp;ssl=1" data-large-file="https://i0.wp.com/bikeworks.org/wp-content/uploads/2024/12/bike-index.jpg?fit=625%2C406&amp;ssl=1" src="https://i0.wp.com/bikeworks.org/wp-content/uploads/2024/12/bike-index.jpg?resize=625%2C406&#038;ssl=1" alt="gmail chat from seth to rod, notifying rod about the arrival of a bike that was reported stolen." class="wp-image-14881" srcset="https://i0.wp.com/bikeworks.org/wp-content/uploads/2024/12/bike-index.jpg?resize=716%2C465&amp;ssl=1 716w, https://i0.wp.com/bikeworks.org/wp-content/uploads/2024/12/bike-index.jpg?resize=320%2C208&amp;ssl=1 320w, https://i0.wp.com/bikeworks.org/wp-content/uploads/2024/12/bike-index.jpg?resize=180%2C117&amp;ssl=1 180w, https://i0.wp.com/bikeworks.org/wp-content/uploads/2024/12/bike-index.jpg?resize=624%2C405&amp;ssl=1 624w, https://i0.wp.com/bikeworks.org/wp-content/uploads/2024/12/bike-index.jpg?w=735&amp;ssl=1 735w" sizes="(max-width: 625px) 100vw, 625px" /></figure>
 
@@ -96,14 +98,12 @@ original_markdown_body: |-
   Rebekah says locking your bike securely is a best practice, “However the big message is to register your bikes.” Locks aren’t failsafe, but a digital record of your bicycle will definitely help with insurance, and it may even help Bike Works get your bike back to you.
 
   The post [Re-united and it feels so good!](https://bikeworks.org/register-your-bikes/) appeared first on [Bike Works](https://bikeworks.org).
+source: Bike Works
+source_url: https://bikeworks.org/register-your-bikes/?utm_source=rss&utm_medium=rss&utm_campaign=register-your-bikes
 summarized: true
+title: Re-united and it feels so good!
 topics:
 - Transportation & Mobility
-images:
-- 98346b5eb5426646a4606152c2b3a801acc787a97497d9ede5d17f31e71cd976
-- a31d96dc0e09b33e051e814c349bc62e18ebf005a9fd42c44307dc41f4abb506
-- 2299c4e49042969c8d4e1caf8b6194cd0cbcc3a24d19c43f03f3e2fe14212c15
-- 529fd4d4c987159150e27f790520f14fe365f555df056f5660fca96040aac263
 ---
 
 On average, Bike Works receives seventeen bicycles daily through donations and partnerships with the City of Seattle and King County. Bikes often come from dumpsters or the King County Surplus, with varying conditions indicating their history. Staff members from the Recycle & Reuse department, like Seth and Rebekah, identify potentially stolen bikes by their condition and features. They use the Bike Index, a global database, to check serial numbers and reunite bikes with their owners. 

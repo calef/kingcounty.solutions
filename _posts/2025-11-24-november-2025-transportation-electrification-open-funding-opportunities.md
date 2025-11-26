@@ -1,8 +1,6 @@
 ---
-title: November 2025 transportation electrification open funding opportunities
 date: '2025-11-24T21:56:43+00:00'
-source: Department of Commerce
-source_url: https://www.commerce.wa.gov/november-2025-transportation-electrification-open-funding-opportunities/
+images: []
 original_content: |-
   <p><a href="https://www.energy.gov/lpo/articles/doe-announces-availability-10-billion-loan-authority-automotive-manufacturing">U.S. DOE – Advanced Technology Vehicles Manufacturing Loan Program</a></p>
 
@@ -71,11 +69,37 @@ original_content: |-
 
 
   <p>For a list of previous and future funding opportunities please refer to the <a href="https://deptofcommerce.app.box.com/s/vz1hswfpvgp814de8q85vs2jpaxk1kjg">EV Council Program Catalog.</a></p>
-original_markdown_body: "[U.S. DOE – Advanced Technology Vehicles Manufacturing Loan Program](https://www.energy.gov/lpo/articles/doe-announces-availability-10-billion-loan-authority-automotive-manufacturing)\n\n- **Qualifying applicants: ** &nbsp;Manufacturers of advanced technology vehicles that achieve defined fuel economy targets and producers of components or materials that enhance eligible vehicles’ fuel economy and emissions performance. \n- **Qualifying projects:****  **&nbsp;Must 1) manufacture eligible vehicles or components that are used in eligible vehicles, 2) build new facilities; reequip, modernize or expand existing facilities, and/or support engineering integration performed in the U.S. related to the manufacturing of eligible vehicles or components, 3) be located in the U.S., and 4) provide a reasonable prospect of repayment.\n- **Total funding amount:****  **&nbsp;$10 billion.\n- **Application due date:** &nbsp; Rolling applications.\n\n[WA Dept. of Commerce – WA EV Charging Program 2 (WAEVCP 2)](https://www.commerce.wa.gov/funding/19-4-million-available-for-installation-of-electric-vehicle-charging-stations-across-washington/)\n\n- **Who can apply:&nbsp;** Public agencies, tribal entities, retail electric utilities, nonprofits, and private entities.\n- **Qualifying projects:****  **Funds multifamily residential, publicly accessible, fleet, or workplace charging.\n- **Total funding amount:** &nbsp;$19.4 million\n- **Application due date:&nbsp;** December 18, 2025, by 4 p.m.\n\n[WA Dept. of Ecology – Rails, Keels, and Wheels](https://ecology.wa.gov/about-us/payments-contracts-grants/grants-loans/find-a-grant-or-loan/volkswagen-enforcement-action-grants)\n\n- **Who can apply:**  Organizations licensed in Washington state. State, local or tribal governments and related entities in Washington.\n- **Qualifying projects:**  Available to transition switcher locomotives, tugboats, emergency vehicles, paratransit, and other medium-and heavy-duty local freight vehicles to all-electric models to reduce toxic diesel emissions from diesel vehicles, engines, and equipment in Washington.\n- **Total funding amount:&nbsp;** Approximately $25 million.\n- **Application due date:** &nbsp;January 8, 2026\n\nFor a list of previous and future funding opportunities please refer to the [EV Council Program Catalog.](https://deptofcommerce.app.box.com/s/vz1hswfpvgp814de8q85vs2jpaxk1kjg)"
+original_markdown_body: "[U.S. DOE – Advanced Technology Vehicles Manufacturing Loan
+  Program](https://www.energy.gov/lpo/articles/doe-announces-availability-10-billion-loan-authority-automotive-manufacturing)\n\n-
+  **Qualifying applicants: ** &nbsp;Manufacturers of advanced technology vehicles
+  that achieve defined fuel economy targets and producers of components or materials
+  that enhance eligible vehicles’ fuel economy and emissions performance. \n- **Qualifying
+  projects:****  **&nbsp;Must 1) manufacture eligible vehicles or components that
+  are used in eligible vehicles, 2) build new facilities; reequip, modernize or expand
+  existing facilities, and/or support engineering integration performed in the U.S.
+  related to the manufacturing of eligible vehicles or components, 3) be located in
+  the U.S., and 4) provide a reasonable prospect of repayment.\n- **Total funding
+  amount:****  **&nbsp;$10 billion.\n- **Application due date:** &nbsp; Rolling applications.\n\n[WA
+  Dept. of Commerce – WA EV Charging Program 2 (WAEVCP 2)](https://www.commerce.wa.gov/funding/19-4-million-available-for-installation-of-electric-vehicle-charging-stations-across-washington/)\n\n-
+  **Who can apply:&nbsp;** Public agencies, tribal entities, retail electric utilities,
+  nonprofits, and private entities.\n- **Qualifying projects:****  **Funds multifamily
+  residential, publicly accessible, fleet, or workplace charging.\n- **Total funding
+  amount:** &nbsp;$19.4 million\n- **Application due date:&nbsp;** December 18, 2025,
+  by 4 p.m.\n\n[WA Dept. of Ecology – Rails, Keels, and Wheels](https://ecology.wa.gov/about-us/payments-contracts-grants/grants-loans/find-a-grant-or-loan/volkswagen-enforcement-action-grants)\n\n-
+  **Who can apply:**  Organizations licensed in Washington state. State, local or
+  tribal governments and related entities in Washington.\n- **Qualifying projects:**
+   Available to transition switcher locomotives, tugboats, emergency vehicles, paratransit,
+  and other medium-and heavy-duty local freight vehicles to all-electric models to
+  reduce toxic diesel emissions from diesel vehicles, engines, and equipment in Washington.\n-
+  **Total funding amount:&nbsp;** Approximately $25 million.\n- **Application due
+  date:** &nbsp;January 8, 2026\n\nFor a list of previous and future funding opportunities
+  please refer to the [EV Council Program Catalog.](https://deptofcommerce.app.box.com/s/vz1hswfpvgp814de8q85vs2jpaxk1kjg)"
+source: Department of Commerce
+source_url: https://www.commerce.wa.gov/november-2025-transportation-electrification-open-funding-opportunities/
 summarized: true
+title: November 2025 transportation electrification open funding opportunities
 topics:
 - Transportation & Mobility
-images: []
 ---
 
 Washington State is offering several funding opportunities for transportation electrification. The U.S. Department of Energy (DOE) has launched the Advanced Technology Vehicles Manufacturing Loan Program, providing $10 billion to manufacturers of advanced technology vehicles and components that meet specific fuel economy targets. Applications are accepted on a rolling basis.

@@ -1,8 +1,6 @@
 ---
-title: Get to Know Valley’s New Cancer Center
 date: '2025-01-17T18:18:54+00:00'
-source: Hospital District No. 1 (Valley Medical Center)
-source_url: https://blog.valleymed.org/2025/01/17/get-to-know-valleys-new-cancer-center/?utm_source=rss&utm_medium=rss&utm_campaign=get-to-know-valleys-new-cancer-center
+images: []
 original_content: |-
   <p><img width="300" height="188" src="https://blog.valleymed.org/wp-content/uploads/2025/01/Inside-The-Cancer-Center-300x188.png" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://blog.valleymed.org/wp-content/uploads/2025/01/Inside-The-Cancer-Center-300x188.png 300w, https://blog.valleymed.org/wp-content/uploads/2025/01/Inside-The-Cancer-Center-768x480.png 768w, https://blog.valleymed.org/wp-content/uploads/2025/01/Inside-The-Cancer-Center-600x375.png 600w, https://blog.valleymed.org/wp-content/uploads/2025/01/Inside-The-Cancer-Center.png 800w" sizes="auto, (max-width: 300px) 100vw, 300px" /></p>
   <p>February 3, 2025, marks the beginning of a new era in cancer care as we welcome patients to Phase 1A of our comprehensive Cancer Center—a major step forward for South King County. Located in the East Pavilion on Valley’s main campus, this state-of-the-art facility will bring together our nationally recognized cancer programs and services. Learn more about the services offered in the new space and our cancer care team in the articles below:</p>
@@ -60,10 +58,12 @@ original_markdown_body: |-
   ## Help us build phases 1B and 2!
 
   While we have come so far, there is still more work to be done, and fundraising continues for the remaining $45M needed to complete the last two phases: Phase 1B: New Oncology & Hematology Clinic, Multidisciplinary Clinic, Laboratory, and Café on the third floor Phase 2: Radiation Therapy and Oncology Imaging on the first floor Please consider making a tax-deductible donation today! With questions or for more information, please contact Carrie Murayama, Director of Philanthropy & Volunteer Services, at carrie\_murayama@valleymed.org or 425.690.5956.
+source: Hospital District No. 1 (Valley Medical Center)
+source_url: https://blog.valleymed.org/2025/01/17/get-to-know-valleys-new-cancer-center/?utm_source=rss&utm_medium=rss&utm_campaign=get-to-know-valleys-new-cancer-center
 summarized: true
+title: Get to Know Valley’s New Cancer Center
 topics:
 - Health Care
-images: []
 ---
 
 February 3, 2025, marks a significant advancement in cancer care with the opening of Phase 1A of Valley's comprehensive Cancer Center in South King County. Situated in the East Pavilion of Valley’s main campus, this modern facility consolidates the hospital's renowned cancer programs and services. The center will provide various offerings, including a dedicated infusion and immunotherapy center, an acute symptom management clinic, and a wellbeing support center for cancer patients. 

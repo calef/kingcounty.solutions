@@ -1,8 +1,6 @@
 ---
-title: Bellevue celebrates new public art additions with artist reception
 date: '2025-06-26T19:13:13+00:00'
-source: City of Bellevue
-source_url: https://bellevuewa.gov/city-news/new-portable-art-25
+images: []
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Bellevue
   celebrates new public art additions with artist reception</span>\n<span class=\"field
   field--name-uid field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"
@@ -55,10 +53,12 @@ original_markdown_body: |-
   The vision of the Public Art Collection is to serve as a leading community resource for cultural exchange, enhancing public spaces, fostering pride and belonging, and showcasing the diverse identities and cultures of Bellevue residents. Since 2020, the Arts Commission has added 65 new works to the portable collection, with calls for new artwork roughly every two years.&nbsp;
 
   <time datetime="2025-06-26T12:00:00Z" class="datetime">June 26 2025</time>
-summarized: true
-topics: []
 published: false
-images: []
+source: City of Bellevue
+source_url: https://bellevuewa.gov/city-news/new-portable-art-25
+summarized: true
+title: Bellevue celebrates new public art additions with artist reception
+topics: []
 ---
 
 The City of Bellevue has expanded its public art collection by adding 15 new artworks selected from over 200 submissions by local artists. This initiative reinforces the city’s dedication to supporting local artists and celebrating community creativity. A free reception is scheduled for 6 p.m. on Wednesday, July 9, at City Hall, featuring live music by cellist Gretchen Yanover, remarks from city leaders, and light refreshments. The new artworks, which are two-dimensional paintings, are currently displayed on the second floor of City Hall and are part of the Portable Artworks collection. This collection is designed for rotating exhibitions throughout various public spaces in Bellevue, including libraries and city buildings. The Public Art Collection aims to enhance public spaces, foster pride and belonging, and reflect the diverse identities and cultures of Bellevue residents. Since 2020, the Arts Commission has incorporated 65 new works into the portable collection, with new calls for artwork approximately every two years.

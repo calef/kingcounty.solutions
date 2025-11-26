@@ -1,8 +1,6 @@
 ---
-title: Our emergency services Case Managers are foundational
 date: '2025-06-30T21:09:53+00:00'
-source: Compass Housing Alliance
-source_url: https://www.compasshousingalliance.org/2025/06/our-emergency-services-case-managers-are-foundational/
+images: []
 original_content: |-
   <p>Our Compass Housing Alliance emergency services case managers work with our guests to help them achieve their goals. This assistance can take many forms, from housing search assistance to securing vital documents, all while treating each person with dignity and respect.</p>
 
@@ -96,11 +94,13 @@ original_markdown_body: |-
   > “I do the work because it makes me feel more connected to my community, and I believe housing is a human right.” – Vance, case manager
 
   The post [Our emergency services Case Managers are foundational](https://www.compasshousingalliance.org/2025/06/our-emergency-services-case-managers-are-foundational/) appeared first on [Compass Housing Alliance](https://www.compasshousingalliance.org).
+source: Compass Housing Alliance
+source_url: https://www.compasshousingalliance.org/2025/06/our-emergency-services-case-managers-are-foundational/
 summarized: true
+title: Our emergency services Case Managers are foundational
 topics:
 - Shelter & Housing
 - Employment & Job Support
-images: []
 ---
 
 Compass Housing Alliance's emergency services case managers play a crucial role in supporting guests as they work towards achieving their goals, which includes securing permanent housing and overcoming barriers. Their assistance encompasses various forms, such as helping with housing searches and obtaining essential documents, all while ensuring that each individual is treated with dignity and respect. Case managers operate across multiple emergency programs, collaborating closely with the King County Regional Homelessness Authority and the King County Veterans Program to provide specialized support.

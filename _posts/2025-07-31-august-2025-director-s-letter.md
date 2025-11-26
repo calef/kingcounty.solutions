@@ -1,8 +1,6 @@
 ---
-title: August 2025 Director’s Letter
 date: '2025-07-31T15:40:51+00:00'
-source: Sno-Valley Senior Center
-source_url: https://snovalleysenior.org/august-2025-directors-letter/
+images: []
 original_content: |-
   <p>I want to say thank you to everyone who contributed to our 4th of July Event! Our chefs for the event, Jim Ribail and Daniel Enciso, prepared over 175 delicious Spaghetti Dinners on Thursday, July 3rd. Our volunteers were wonderful help in the kitchen, dining room, checking people in, and selling raffle tickets. We also had great support from local businesses and donors, including Duvall Family Grocer, Duvall Safeway, Carnation Market, Farmhouse Market, and Susan &amp; JJ Schmoll.</p>
   <p>We sold 600 servings of Strawberry Shortcake, as well as delicious Strawberry Lemonade and quilt raffle tickets. Thank you to Delores Ulrich, Leslie &amp; Charles Day, and Diane Amos, for coming to the senior center early in the morning to get the shortcake ready, as well as all of the volunteers who served shortcake, cleared tables, and cashiered in the lobby. Remlinger Farms provided the delicious strawberries and our event had support from generous sponsors, including the Duvall Civic Club, Humana, and Farmers Insurance Hauglie Agency.</p>
@@ -46,10 +44,12 @@ original_markdown_body: |-
   &nbsp;
 
   The post [August 2025 Director’s Letter](https://snovalleysenior.org/august-2025-directors-letter/) appeared first on [Sno-Valley Senior Center](https://snovalleysenior.org).
+source: Sno-Valley Senior Center
+source_url: https://snovalleysenior.org/august-2025-directors-letter/
 summarized: true
+title: August 2025 Director’s Letter
 topics:
 - Employment & Job Support
-images: []
 ---
 
 Thank you to everyone who supported our 4th of July Event! Chefs Jim Ribail and Daniel Enciso prepared over 175 Spaghetti Dinners, while volunteers assisted in various roles, including kitchen help and raffle ticket sales. Local businesses provided generous support, and we sold 600 servings of Strawberry Shortcake, accompanied by Strawberry Lemonade. Special thanks to the volunteers who helped prepare and serve the shortcake, as well as our sponsors.

@@ -1,8 +1,7 @@
 ---
-title: 'Council Roundup: Office of Housing makes early progress'
 date: '2025-05-10T00:54:44+00:00'
-source: City of Bellevue
-source_url: https://bellevuewa.gov/city-news/council-roundup-office-housing-makes-early-progress
+images:
+- 17352124dba834371eb31a0a1c6805fc342760f8d281aea7a95b4ab439d97918
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Council
   Roundup: Office of Housing makes early progress</span>\n<span class=\"field field--name-uid
   field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/mdegrand\"
@@ -120,12 +119,13 @@ original_markdown_body: |-
   At the start of the meeting, the council proclaimed May as [Jewish American Heritage Month](https://bellevue.legistar.com/View.ashx?M=F&ID=14129615&GUID=A749EFAD-4A1E-46C5-95F0-357B2D367CB5 "Link to Jewish American Heritage Month proclamation") and also recognized [Affordable Housing Week](https://bellevue.legistar.com/View.ashx?M=F&ID=14129616&GUID=EDC51ED3-995E-475D-8B63-AC56BEF85E6A "Link to Affordable Housing Week proclamation"), [National Police Week](https://bellevue.legistar.com/View.ashx?M=F&ID=14129617&GUID=04C23D13-9427-4D1E-ADFB-C2B932561597 "Link to National Police Week proclamation") and [Public Service Recognition Week](https://bellevue.legistar.com/View.ashx?M=F&ID=14129618&GUID=A53F0FE0-6FDD-4B10-88AD-10E60D1EDCC9 "Link to Public Service Recognition Week proclamation").
 
   <time datetime="2025-05-09T12:00:00Z" class="datetime">May 9 2025</time>
+source: City of Bellevue
+source_url: https://bellevuewa.gov/city-news/council-roundup-office-housing-makes-early-progress
 summarized: true
+title: 'Council Roundup: Office of Housing makes early progress'
 topics:
 - Shelter & Housing
 - Financial Assistance
-images:
-- 17352124dba834371eb31a0a1c6805fc342760f8d281aea7a95b4ab439d97918
 ---
 
 At a recent City Council meeting, an update was provided on the newly established Office of Housing, launched in February to enhance affordable housing initiatives in Bellevue. This office is working on the Affordable Housing Strategy update, the homelessness outreach program, and the Multi-Family Tax Exemption (MFTE) program. It has already solicited residential development proposals for city-owned sites in Wilburton and BelRed, aiming to create up to 400 affordable housing units.

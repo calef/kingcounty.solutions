@@ -1,8 +1,6 @@
 ---
-title: Preserving Family Ties Through Kinship Care
 date: '2025-03-10T20:48:14+00:00'
-source: Encompass
-source_url: https://encompassnw.org/preserving-family-ties-through-kinship-care/
+images: []
 original_content: |-
   ![](https://encompassnw.org/wp-content/uploads/2025/03/Kinship_1-300x300.png)Considered the oldest form of family preservation, Kinship Care is an important safety net for children whose parents are either unable or unwilling to care for them. By placing them in the care of a family member, cultural, family, and community ties are maintained, and the trauma of displacement can be minimized through familiarity and continuity.
 
@@ -19,13 +17,15 @@ original_content: |-
   The Encompass Kinship Care program provides weekly virtual and monthly in-person support groups. To learn more, visit [https://encompassnw.org/program/family-enrichment/kinship/](https://encompassnw.org/program/family-enrichment/kinship/).
 
   The post [Preserving Family Ties Through Kinship Care](https://encompassnw.org/preserving-family-ties-through-kinship-care/) first appeared on [Encompass](https://encompassnw.org).
+source: Encompass
+source_url: https://encompassnw.org/preserving-family-ties-through-kinship-care/
 summarized: true
+title: Preserving Family Ties Through Kinship Care
 topics:
 - Mental Health & Counseling
 - Health Care
 - Financial Assistance
 - Education & Learning
-images: []
 ---
 
 The Encompass Kinship Care program offers essential support and resources for kinship families, where children are placed in the care of a family member due to their parents' inability or unwillingness to care for them. This program helps maintain cultural, family, and community ties for the children, minimizing the trauma of displacement. The sudden change to full-time caregiving can be overwhelming for kinship providers, and Encompass steps in to provide help with legal services, counseling, parenting classes, healthcare, and emergency funding for basic needs. They also offer support to help children adapt to their new circumstances, including specialized therapy and activities.

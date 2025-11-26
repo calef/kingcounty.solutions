@@ -1,8 +1,6 @@
 ---
-title: Practical Approaches for Dental Fear Management
 date: '2025-10-21T19:04:57+00:00'
-source: Arcora Foundation
-source_url: https://arcorafoundation.org/practical-approaches-for-dental-fear-management/
+images: []
 original_content: |-
   <p><a href="https://ohlh.talentlms.com/plus/catalog/courses/187">Start the Course</a></p>
 
@@ -118,11 +116,13 @@ original_markdown_body: |-
   [Start the Course](https://ohlh.talentlms.com/plus/catalog/courses/187)
 
   The post [Practical Approaches for Dental Fear Management](https://arcorafoundation.org/practical-approaches-for-dental-fear-management/) appeared first on [Arcora Foundation](https://arcorafoundation.org).
+source: Arcora Foundation
+source_url: https://arcorafoundation.org/practical-approaches-for-dental-fear-management/
 summarized: true
+title: Practical Approaches for Dental Fear Management
 topics:
 - Health Care
 - Mental Health & Counseling
-images: []
 ---
 
 Dental fear is a prevalent issue that causes many patients to avoid or delay necessary treatment, leading to adverse oral, systemic, and mental health outcomes. A course is available that addresses this issue, focusing on understanding the causes and consequences of dental fear. Participants will learn to define dental fear, recognize its prevalence, and identify approaches for assessing patients experiencing such fear. The course also covers practical management techniques to be applied in the dental clinic, allowing practitioners to support fearful patients effectively. 

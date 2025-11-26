@@ -1,8 +1,6 @@
 ---
-title: 'YES in the News: Teens and AI Companions'
 date: '2025-09-25T17:25:02+00:00'
-source: Youth Eastside Services
-source_url: https://www.youtheastsideservices.org/teens-and-ai-companions/?utm_source=rss&utm_medium=rss&utm_campaign=teens-and-ai-companions
+images: []
 original_content: |-
   <p data-start="129" data-end="414"><em>We’re proud to share that YES Co-Occurring Disorders Therapist Noble and Agency-Based Director Debbie recently contributed their insights to a <strong data-start="300" data-end="331">CNET article by Alex Valdes</strong> exploring a trend that is shaping the lives of today’s youth: teens turning to AI for companionship. </em></p>
   <p data-start="129" data-end="414"><em>We’re incredibly grateful for this important coverage and the opportunity to help raise awareness about the challenges and needs facing young people today.</em></p>
@@ -37,11 +35,13 @@ original_markdown_body: |-
   [Read the full article on CNET »](https://www.cnet.com/tech/services-and-software/more-than-half-of-teens-surveyed-use-ai-for-companionship-why-thats-not-ideal/)
 
   The post [YES in the News: Teens and AI Companions](https://www.youtheastsideservices.org/teens-and-ai-companions/) appeared first on [Youth Eastside Services](https://www.youtheastsideservices.org).
+source: Youth Eastside Services
+source_url: https://www.youtheastsideservices.org/teens-and-ai-companions/?utm_source=rss&utm_medium=rss&utm_campaign=teens-and-ai-companions
 summarized: true
+title: 'YES in the News: Teens and AI Companions'
 topics:
 - Mental Health & Counseling
 - Education & Learning
-images: []
 ---
 
 More than half of surveyed teens are using AI companions, finding them supportive and meaningful, akin to interactions with friends. These digital tools provide a safe space for discussing feelings and alleviating loneliness. However, mental health experts caution against reliance on AI, noting that it can blur emotional boundaries and foster dependency, detracting from real human relationships. AI lacks the depth and empathy necessary for healthy development, which trusted friends and trained counselors can provide. YES Co-Occurring Disorders Therapist Noble and Agency-Based Director Debbie emphasize that while AI can serve as a tool, it should not replace authentic relationships or professional support. They advocate for the importance of real connections in fostering resilience and healing among youth. As this trend continues to grow, YES is committed to promoting safe and supportive environments where young people can establish meaningful connections with peers and trusted adults who comprehend their challenges.

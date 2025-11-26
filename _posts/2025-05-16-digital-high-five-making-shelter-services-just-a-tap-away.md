@@ -1,8 +1,7 @@
 ---
-title: digital high five - making shelter services just a tap away
 date: '2025-05-16T19:39:10+00:00'
-source: Mary's Place
-source_url: https://www.marysplaceseattle.org/blog/digital-high-five-making-shelter-services-just-a-tap-away
+images:
+- 563feef0ed65d717fabeb6903ae47a4ef3452d6e00c119759e676d2ace7d45fe
 original_content: "<p class=\"\">With hundreds of families staying in our emergency
   shelters, a lively drop-in family resource center, and guests who speak dozens of
   languages, there’s never a slow moment at Mary’s Place. Families are doing laundry,
@@ -95,13 +94,14 @@ original_markdown_body: |-
   We’re grateful to our partners, like Comcast, for making it easier for families to access the support they need—when they need it—so they can focus on building brighter futures.&nbsp;
 
   [Donate today so support programs at Mary's Place!](https://give.marysplaceseattle.org/campaign/673342/donate?utm_source=website&utm_medium=blog&utm_campaign=blogs-public&c_src=blogs-public&c_src2=blog)
+source: Mary's Place
+source_url: https://www.marysplaceseattle.org/blog/digital-high-five-making-shelter-services-just-a-tap-away
 summarized: true
+title: digital high five - making shelter services just a tap away
 topics:
 - Shelter & Housing
 - Legal Aid
 - Childcare
-images:
-- 563feef0ed65d717fabeb6903ae47a4ef3452d6e00c119759e676d2ace7d45fe
 ---
 
 Mary's Place has introduced user-friendly, self-service digital kiosks at its emergency shelters and the Allen Family Center, enhancing access to essential resources for families in need. Supported by funding from Comcast, these kiosks feature universal symbols and customizable language options, making it easier for guests, including those facing language barriers, to navigate services such as scheduling appointments and accessing legal assistance. Brian Carlson, IT Director at Mary’s Place, describes the kiosks as digital assistants that streamline daily tasks for guests.

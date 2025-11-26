@@ -1,9 +1,6 @@
 ---
-title: Seattle Expands Youth Mental Health Supports with Launch of Talkspace Virtual
-  Therapy
 date: '2024-12-10T17:07:04+00:00'
-source: Department of Education and Early Learning
-source_url: https://education.seattle.gov/?p=1290
+images: []
 original_content: '<img width="150" height="150" src="https://education.seattle.gov/wp-content/uploads/sites/27/2024/12/Talkspace-postcard-single-150x150.png"
   class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom:
   5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy"
@@ -18,11 +15,14 @@ original_markdown_body: "![](https://education.seattle.gov/wp-content/uploads/si
   – Today, the City of Seattle announced a new partnership between the Department
   of Education and Early Learning (DEEL) and Talkspace, a leading online behavioral
   health care company, to expand virtual therapy and […]"
+source: Department of Education and Early Learning
+source_url: https://education.seattle.gov/?p=1290
 summarized: true
+title: Seattle Expands Youth Mental Health Supports with Launch of Talkspace Virtual
+  Therapy
 topics:
 - Mental Health & Counseling
 - Education & Learning
-images: []
 ---
 
 Seattle has launched a partnership between the Department of Education and Early Learning (DEEL) and Talkspace to enhance mental health support for local teens and young adults. This initiative provides free online therapy to over 55,000 residents aged 13 to 24, addressing the urgent need for accessible mental health care. Participants can access confidential services through Talkspace’s secure platform, including unlimited messaging therapy and one live video session per month, alongside 24/7 access to Talkspace Go, a self-guided mental health program.

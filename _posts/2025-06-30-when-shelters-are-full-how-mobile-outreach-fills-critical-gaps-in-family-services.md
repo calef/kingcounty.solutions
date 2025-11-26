@@ -1,9 +1,6 @@
 ---
-title: 'when shelters are full: how mobile outreach fills critical gaps in family
-  services'
 date: '2025-06-30T22:39:00+00:00'
-source: Mary's Place
-source_url: https://www.marysplaceseattle.org/blog/when-shelters-are-full-how-community-outreach-fills-critical-gaps-in-family-services
+images: []
 original_content: "<p class=\"\">Every day, the King County Family Intake Line, operated
   by Mary’s Place, receives an average of  <strong>50-60 calls from families seeking
   a safe place to come inside</strong>. Unfortunately, across all the shelters in
@@ -138,7 +135,11 @@ original_markdown_body: |-
   Want to hear more from Jessica, Kyle, and Keianna? Check out the panel discussion recording:
 
   //www.youtube.com/embed/Bx8cv44rIT4?wmode=opaque
+source: Mary's Place
+source_url: https://www.marysplaceseattle.org/blog/when-shelters-are-full-how-community-outreach-fills-critical-gaps-in-family-services
 summarized: true
+title: 'when shelters are full: how mobile outreach fills critical gaps in family
+  services'
 topics:
 - Shelter & Housing
 - Food & Nutrition
@@ -146,7 +147,6 @@ topics:
 - Employment & Job Support
 - Childcare
 - Senior Services
-images: []
 ---
 
 Every day, the King County Family Intake Line operated by Mary’s Place receives 50-60 calls from families seeking shelter, but local shelters can accommodate only two to three families at a time. To address this critical gap, Mary’s Place has a mobile outreach team that provides support directly to families living in cars, tents, or encampments. The outreach team prioritizes building trust and understanding each family's unique needs to create personalized plans for stability. They offer essential supplies, including food, hygiene kits, and prepaid phones, while also facilitating access to temporary housing and resources for long-term solutions.

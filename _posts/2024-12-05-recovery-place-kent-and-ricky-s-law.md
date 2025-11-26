@@ -1,8 +1,8 @@
 ---
-title: Recovery Place Kent and Ricky’s Law
 date: '2024-12-05T18:36:24+00:00'
-source: Valley Cities Behavioral Health Care
-source_url: https://valleycities.org/recovery-place-kent-and-rickys-law/
+images:
+- 50e325b555bf9c6c5933e59c9b90ba43854b7d9fd1785bb378072979fb4aa386
+- fb753675e68d7f0c7cc2703c73f08d8d4c13a1a67a4b938ffc264a4d566649ab
 original_content: "<div class=\"et_pb_section et_pb_section_4 et_section_regular\"
   >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_row
   et_pb_row_4\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_1_2 et_pb_column_4
@@ -91,12 +91,12 @@ original_markdown_body: |-
   #### Recovery Place Kent, Valley Cities' 32 bed involuntary commitment facility.
 
   The post [Recovery Place Kent and Ricky’s Law](https://valleycities.org/recovery-place-kent-and-rickys-law/) appeared first on [Valley Cities Behavioral Health Care](https://valleycities.org).
+source: Valley Cities Behavioral Health Care
+source_url: https://valleycities.org/recovery-place-kent-and-rickys-law/
 summarized: true
+title: Recovery Place Kent and Ricky’s Law
 topics:
 - Mental Health & Counseling
-images:
-- 50e325b555bf9c6c5933e59c9b90ba43854b7d9fd1785bb378072979fb4aa386
-- fb753675e68d7f0c7cc2703c73f08d8d4c13a1a67a4b938ffc264a4d566649ab
 ---
 
 Recovery Place Kent, directed by Teri Hardy, is one of four facilities in Washington state that provides involuntary treatment under Ricky's Law, which allows for the detainment of individuals with addictions who pose a risk to themselves or others. Patients can initially be held for 120 hours, with possible extensions up to 90 days following court approval. Hardy emphasizes the importance of intervening when individuals are in crisis and unable to seek help themselves. 

@@ -1,8 +1,6 @@
 ---
-title: 'Hope on the move: Valley Cities reaches communities where they are'
 date: '2025-08-25T19:29:10+00:00'
-source: Valley Cities Behavioral Health Care
-source_url: https://valleycities.org/hope-on-the-move-valley-cities-reaches-communities-where-they-are/
+images: []
 original_content: |-
   <p>As seen in the Kent and Renton Reporters</p>
   <p>steps on the road to recovery. <a href="https://valleycities.org/" target="_blank" rel="nofollow noopener" data-mrf-link="https://valleycities.org/">Valley Cities Behavioral Health Care</a> knows that recovery often begins with connection and it’s why their outreach efforts across King County continue to grow.</p>
@@ -45,10 +43,12 @@ original_markdown_body: |-
   _If you or someone you know is currently struggling with mental health and/or addiction, contact the Valley Cities team by phone at 253-833-7444 or in person at your local Valley Cities location. You can also call the 24 hour crisis line at 206-461-3222 or toll free at 866-427-4747._
 
   The post [Hope on the move: Valley Cities reaches communities where they are](https://valleycities.org/hope-on-the-move-valley-cities-reaches-communities-where-they-are/) appeared first on [Valley Cities Behavioral Health Care](https://valleycities.org).
+source: Valley Cities Behavioral Health Care
+source_url: https://valleycities.org/hope-on-the-move-valley-cities-reaches-communities-where-they-are/
 summarized: true
+title: 'Hope on the move: Valley Cities reaches communities where they are'
 topics:
 - Mental Health & Counseling
-images: []
 ---
 
 Valley Cities Behavioral Health Care is expanding its outreach efforts across King County, emphasizing the importance of connecting with individuals in their own environments, such as community centers and parks. For nearly 60 years, Valley Cities has provided care for those facing mental health challenges, substance use disorders, and housing instability. Their outreach teams actively engage in urban and rural areas to offer direct support, aiming to ensure that no one falls through the cracks.

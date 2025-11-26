@@ -1,8 +1,6 @@
 ---
-title: Flood Event Report for November 1 and November 15, 2025
 date: '2025-11-20T20:37:40+00:00'
-source: King County Flood Control District
-source_url: https://kingcountyfloodcontrol.org/flood-event-report-for-november-1-and-november-15-2025/?utm_source=rss&utm_medium=rss&utm_campaign=flood-event-report-for-november-1-and-november-15-2025
+images: []
 original_content: |-
   <p>Issued by the King County Flood Control District on November 20, 2025</p>
 
@@ -827,10 +825,12 @@ original_markdown_body: |-
   The KCFCD would like to recognize and show appreciation for the dedicated public services provided by those who work at National Weather Service, King County, and at cities throughout the county. These talented professionals work long hours during flood events, occasionally at risk to their own safety, to ensure the best possible outcomes for the citizens of King County.
 
   The post [Flood Event Report for November 1 and November 15, 2025](https://kingcountyfloodcontrol.org/flood-event-report-for-november-1-and-november-15-2025/) appeared first on [King County Flood Control District](https://kingcountyfloodcontrol.org).
-summarized: true
-topics: []
 published: false
-images: []
+source: King County Flood Control District
+source_url: https://kingcountyfloodcontrol.org/flood-event-report-for-november-1-and-november-15-2025/?utm_source=rss&utm_medium=rss&utm_campaign=flood-event-report-for-november-1-and-november-15-2025
+summarized: true
+title: Flood Event Report for November 1 and November 15, 2025
+topics: []
 ---
 
 This report by the King County Flood Control District analyzes two significant flood events that impacted the Snoqualmie River Basin on November 1 and November 15, 2025. The first event began on November 1, when the Snoqualmie River reached Flood Phase 1 at 6,777 cubic feet per second (cfs), escalating to Flood Phase 2 by 11:57 a.m. with a peak flow of 17,400 cfs recorded on November 2. The South Fork Skykomish River also entered Flood Phase 1 that day, peaking at 8,910 cfs. The Flood Warning Center was activated to manage the situation.

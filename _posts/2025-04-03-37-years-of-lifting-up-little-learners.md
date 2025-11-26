@@ -1,8 +1,6 @@
 ---
-title: 37 Years of Lifting Up Little Learners
 date: '2025-04-03T23:46:12+00:00'
-source: Wellspring Family Services
-source_url: https://wellspringfs.org/37-years-of-lifting-up-little-learners/
+images: []
 original_content: |-
   <p>Today, Wellspring’s Early Learning Center (ELC) remains the only program in Washington State specializing in serving children ages one through five who are experiencing the traumatic effects of homelessness.</p>
   <p>Over the past decade, the ELC has served 344 children and 253 families, offering far more than just a safe place to learn. It’s a place where children build resilience, experience stability, and develop the critical skills they need to thrive.</p>
@@ -73,13 +71,15 @@ original_markdown_body: |-
   _4. Administration for Children and Families (2023). Considerations for Trauma-Informed Child Care and Early Education Systems. https://www.acf.hhs.gov/opre/report/considerations-trauma-informed-child-care-and-early-education-systems_
 
   The post [37 Years of Lifting Up Little Learners](https://wellspringfs.org/37-years-of-lifting-up-little-learners/) appeared first on [Wellspring](https://wellspringfs.org).
+source: Wellspring Family Services
+source_url: https://wellspringfs.org/37-years-of-lifting-up-little-learners/
 summarized: true
+title: 37 Years of Lifting Up Little Learners
 topics:
 - Childcare
 - Mental Health & Counseling
 - Food & Nutrition
 - Shelter & Housing
-images: []
 ---
 
 In March 1988, Wellspring Family Services launched a unique program, the Morningsong Homeless Families Support Center, which has evolved into the Wellspring Early Learning Center (ELC). Now, 37 years later, the ELC remains the only program in Washington State dedicated to children ages one to five affected by homelessness. Over the past decade, it has served 344 children and 253 families, emphasizing resilience, stability, and essential developmental skills. Children exiting the ELC typically gain 53 skills across various domains, including social-emotional growth and school readiness.

@@ -1,14 +1,16 @@
 ---
-title: 'The Birth of Pickleball: From Backyard Fun to National Craze'
 date: '2025-03-11T07:09:45+00:00'
+images: []
+original_content: Pickleball is sweeping the country, quickly becoming one of the
+  fastest-growing sports in the U.S. Across the nation—especially in the...
+original_markdown_body: Pickleball is sweeping the country, quickly becoming one of
+  the fastest-growing sports in the U.S. Across the nation—especially in the...
+published: false
 source: Eastside Friends of Seniors
 source_url: https://www.eastsidefriendsofseniors.org/post/the-birth-of-pickleball-from-backyard-fun-to-national-craze
-original_content: Pickleball is sweeping the country, quickly becoming one of the fastest-growing sports in the U.S. Across the nation—especially in the...
-original_markdown_body: Pickleball is sweeping the country, quickly becoming one of the fastest-growing sports in the U.S. Across the nation—especially in the...
 summarized: true
+title: 'The Birth of Pickleball: From Backyard Fun to National Craze'
 topics: []
-published: false
-images: []
 ---
 
 Pickleball is rapidly gaining popularity across the U.S., becoming one of the fastest-growing sports, especially in the Pacific Northwest. This engaging game blends elements of badminton, ping pong, and tennis, making it accessible and enjoyable for players of all ages. Its social nature and low-impact physical activity appeal to many, prompting cities to invest in dedicated courts and leagues.

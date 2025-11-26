@@ -1,14 +1,21 @@
 ---
-title: South Florida Congresswoman Charged with Stealing $5 Million in FEMA Funds and Making Illegal Campaign Contributions
 date: '2025-11-19T12:00:00+00:00'
+images: []
+original_content: MIAMI – A federal grand jury in Miami has returned an indictment
+  charging Congresswoman Sheila Cherfilus-McCormick and several co-defendants with
+  stealing federal disaster funds, laundering the proceeds, and using the money to
+  support her 2021 congressional campaign.
+original_markdown_body: MIAMI – A federal grand jury in Miami has returned an indictment
+  charging Congresswoman Sheila Cherfilus-McCormick and several co-defendants with
+  stealing federal disaster funds, laundering the proceeds, and using the money to
+  support her 2021 congressional campaign.
+published: false
 source: Department of Justice
 source_url: https://www.justice.gov/opa/pr/south-florida-congresswoman-charged-stealing-5-million-fema-funds-and-making-illegal
-original_content: MIAMI – A federal grand jury in Miami has returned an indictment charging Congresswoman Sheila Cherfilus-McCormick and several co-defendants with stealing federal disaster funds, laundering the proceeds, and using the money to support her 2021 congressional campaign.
-original_markdown_body: MIAMI – A federal grand jury in Miami has returned an indictment charging Congresswoman Sheila Cherfilus-McCormick and several co-defendants with stealing federal disaster funds, laundering the proceeds, and using the money to support her 2021 congressional campaign.
 summarized: true
+title: South Florida Congresswoman Charged with Stealing $5 Million in FEMA Funds
+  and Making Illegal Campaign Contributions
 topics: []
-published: false
-images: []
 ---
 
 A federal grand jury in Miami has indicted Congresswoman Sheila Cherfilus-McCormick and several co-defendants for stealing $5 million in FEMA disaster funds. The indictment alleges that Cherfilus-McCormick, 46, and her brother Edwin Cherfilus, 51, misappropriated these funds through a family health-care company's FEMA-funded COVID-19 vaccination staffing contract. They reportedly conspired to launder the stolen money, using a portion for campaign contributions to Cherfilus-McCormick's 2021 congressional bid and for personal gain.

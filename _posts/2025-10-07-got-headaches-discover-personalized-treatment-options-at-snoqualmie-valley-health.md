@@ -1,8 +1,6 @@
 ---
-title: Got Headaches? Discover Personalized Treatment Options at Snoqualmie Valley Health
 date: '2025-10-07T16:44:39+00:00'
-source: Hospital District No. 4 (Snoqualmie Valley Hospital)
-source_url: https://snoqualmievalleyhealth.org/got-headaches-discover-personalized-treatment-options-at-snoqualmie-valley-health/
+images: []
 original_content: |-
   While many headaches are short-lived, for some people they can become frequent, severe, and disruptive to daily life. In fact, headaches are the number one reason patients seek neurological care—highlighting just how common and impactful they are. The most frequent types are primary headache syndromes, such as migraine and tension-type headaches. Less common but equally important to recognize are the trigeminal autonomic cephalalgias, a group of rare but extremely painful disorders that include cluster headaches. By contrast, secondary headaches arise from another medical issue or injury and require careful evaluation to identify the underlying cause.
 
@@ -33,10 +31,13 @@ original_content: |-
   &nbsp;
 
   The post [Got Headaches? Discover Personalized Treatment Options at Snoqualmie Valley Health](https://snoqualmievalleyhealth.org/got-headaches-discover-personalized-treatment-options-at-snoqualmie-valley-health/) appeared first on [Snoqualmie Valley Hospital](https://snoqualmievalleyhealth.org).
+source: Hospital District No. 4 (Snoqualmie Valley Hospital)
+source_url: https://snoqualmievalleyhealth.org/got-headaches-discover-personalized-treatment-options-at-snoqualmie-valley-health/
 summarized: true
+title: Got Headaches? Discover Personalized Treatment Options at Snoqualmie Valley
+  Health
 topics:
 - Health Care
-images: []
 ---
 
 Snoqualmie Valley Health offers personalized treatment options for patients suffering from headaches, which are the main reason patients seek neurological care. Most common are primary headache syndromes like migraines and tension-type headaches, while others stem from other medical issues or injuries. Diagnosis involves a detailed medical history, physical examination, and potentially advanced neuroimaging. Treatment involves a combination of preventive and abortive treatments, possibly including prescription medications, natural supplements, and FDA-approved noninvasive devices that calm brain activity. Additional treatments, such as Botox injections or management of TMJ-related headaches, can be provided in-house. Dr. Jimmy Young, MD, provides comprehensive evaluation and treatment.

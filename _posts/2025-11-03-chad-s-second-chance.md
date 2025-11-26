@@ -1,8 +1,6 @@
 ---
-title: Chad’s second chance
 date: '2025-11-03T17:48:56+00:00'
-source: Mercy Housing
-source_url: https://www.mercyhousing.org/2025/11/chads-second-chance/
+images: []
 original_content: |-
   <p><!--StartFragment --></p>
   <p><span class="cf0">At an early age, Chad enjoyed taking things apart and putting them back together. It’s no surprise that when he entered the U.S. Marine Corps, he was assigned to work on CH53C Stallion helicopters as an engine mechanic. “We tore them down, rebuilt them and tested them, and then they would be installed on the aircraft…I enjoyed it thoroughly,” reflected Chad on his military service. </span></p>
@@ -40,13 +38,15 @@ original_markdown_body: |-
   <!--EndFragment -->
 
   The post [Chad’s second chance](https://www.mercyhousing.org/2025/11/chads-second-chance/) appeared first on [Mercy Housing](https://www.mercyhousing.org).
+source: Mercy Housing
+source_url: https://www.mercyhousing.org/2025/11/chads-second-chance/
 summarized: true
+title: Chad’s second chance
 topics:
 - Disabilities
 - Mental Health & Counseling
 - Shelter & Housing
 - Employment & Job Support
-images: []
 ---
 
 Chad, a former U.S. Marine Corps mechanic, faced severe challenges after developing a substance use disorder linked to a heavy drinking culture during his military service. Despite excelling academically at the National Aviation Academy, his addiction spiraled out of control, leading to a tragic DUI incident that resulted in a fatal motorcycle accident and subsequent imprisonment. After experiencing two suicide attempts, Chad was hospitalized at the VA Hospital in Danville, Illinois, where he found support through a therapeutic housing and work program, marking the beginning of his recovery.

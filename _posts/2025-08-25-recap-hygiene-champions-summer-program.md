@@ -1,8 +1,8 @@
 ---
-title: 'Recap: Hygiene Champions Summer Program'
 date: '2025-08-25T21:52:00+00:00'
-source: Essentials First
-source_url: https://www.essentialsfirst.org/blog/x6fbag35a54h6xwsgd7ssjuh90fb18
+images:
+- b146a1d0434b674d1ce7548d3b447ea1988ef5115de890da31899f186008bc0b
+- 3b7d6693c7847bf7455a782888fb9bb2e49e15b061241e60d198baa3e972526b
 original_content: "<p class=\"\">This summer, our Hygiene Champions, a group of amazing
   middle and high school students, stepped up to lead a community fundraiser supporting
   Essentials First’s mission, ensuring everyone has access to basic hygiene essentials
@@ -98,13 +98,13 @@ original_markdown_body: |-
   ![](https://images.squarespace-cdn.com/content/v1/6244ce6a3e335a451b9540a9/e8f53333-f62c-4cc8-a7e2-57b267b9e5b5/528329050_1067936628785101_49593423554339011_n.jpg?format=1000w)
 
   ![](https://images.squarespace-cdn.com/content/v1/6244ce6a3e335a451b9540a9/d1b7aa45-f408-48bb-a8dc-2b52a9301b08/528305030_1067936462118451_2541067880283278295_n.jpg?format=1000w)
+source: Essentials First
+source_url: https://www.essentialsfirst.org/blog/x6fbag35a54h6xwsgd7ssjuh90fb18
 summarized: true
+title: 'Recap: Hygiene Champions Summer Program'
 topics:
 - Personal & Household Needs
 - Food & Nutrition
-images:
-- b146a1d0434b674d1ce7548d3b447ea1988ef5115de890da31899f186008bc0b
-- 3b7d6693c7847bf7455a782888fb9bb2e49e15b061241e60d198baa3e972526b
 ---
 
 This summer, a group of middle and high school students known as the Hygiene Champions organized a community fundraiser to support Essentials First’s mission of providing access to basic hygiene essentials. Over several weeks, these students demonstrated strong leadership through various teams: the Operations Team managed logistics and activities; the Food & Decor Team set up the event space and hosted a bake sale; the Marketing Team created promotional materials; the Fundraising Team led hygiene drives and engaged local businesses; and the Entertainment Team coordinated performances and activities.

@@ -1,9 +1,6 @@
 ---
-title: 'shining a light this Diwali: how one family turned celebration into community
-  impact'
 date: '2025-11-06T02:37:26+00:00'
-source: Mary's Place
-source_url: https://www.marysplaceseattle.org/blog/shining-a-light-this-diwali-how-one-family-turned-celebration-into-community-impact
+images: []
 original_content: "<p class=\"\">When Mohit and Ojaswani Suley first began hosting
   their annual&nbsp;Diwali celebration in Seattle, they never imagined it would grow
   into a powerful tradition of giving back! Four years ago, they decided to make the
@@ -47,11 +44,14 @@ original_markdown_body: |-
   Diwali is often called&nbsp;_the festival of light_, and Mohit and Ojaswani are truly a light in our community. Their generosity reminds us that when we share our light, we make the world brighter for everyone.&nbsp;
 
   [Make a gift to join the Suleys in supporting Mary's Place!](https://give.marysplaceseattle.org/campaign/673342/donate?utm_source=website&utm_medium=blog&utm_campaign=blogs-public&c_src=blogs-public&c_src2=blog)
+source: Mary's Place
+source_url: https://www.marysplaceseattle.org/blog/shining-a-light-this-diwali-how-one-family-turned-celebration-into-community-impact
 summarized: true
+title: 'shining a light this Diwali: how one family turned celebration into community
+  impact'
 topics:
 - Shelter & Housing
 - Financial Assistance
-images: []
 ---
 
 Mohit and Ojaswani Suley have transformed their annual Diwali celebration in Seattle into a significant fundraiser for families experiencing homelessness at Mary’s Place. Four years ago, they decided to enhance the festival of lights by combining their cultural celebration with community giving. Inspired by Mary’s Place’s mission to ensure no child sleeps outside, the Suleys, both Microsoft employees, learned about the organization during Microsoft’s GIVE Month. They wanted to make a difference in their local community, stating that change begins at home.

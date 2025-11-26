@@ -1,8 +1,6 @@
 ---
-title: 'Council Roundup: Bellevue gets World Cup-ready'
 date: '2025-10-10T22:08:16+00:00'
-source: City of Bellevue
-source_url: https://bellevuewa.gov/city-news/council-roundup-10-7-25
+images: []
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Council
   Roundup: Bellevue gets World Cup-ready</span>\n<span class=\"field field--name-uid
   field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"
@@ -73,10 +71,12 @@ original_markdown_body: |-
   The council issued proclamations for&nbsp;[Indigenous Peoples' Day](https://bellevue.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=11235),&nbsp;[Walk and Roll to School Day](https://bellevue.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=11233) and&nbsp;[Pregnancy and Infant Loss Awareness Month](https://bellevue.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=11233).
 
   <time datetime="2025-10-10T12:00:00Z" class="datetime">October 10 2025</time>
-summarized: true
-topics: []
 published: false
-images: []
+source: City of Bellevue
+source_url: https://bellevuewa.gov/city-news/council-roundup-10-7-25
+summarized: true
+title: 'Council Roundup: Bellevue gets World Cup-ready'
+topics: []
 ---
 
 The Bellevue City Council discussed preparations for the upcoming World Cup, anticipating an influx of 15,000 visitors during the tournament, which is expected to generate $23 million in economic impact. To accommodate the expected tourists, the Economic Development team plans to host World Cup-themed celebrations along the light rail's 2 Line corridor, providing support and funding to small businesses, artists, and cultural organizations for engaging activities. Additionally, curated tourism trails will be promoted on non-match days.

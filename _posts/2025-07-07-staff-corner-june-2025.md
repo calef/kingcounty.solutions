@@ -1,8 +1,10 @@
 ---
-title: 'Staff Corner: June 2025'
 date: '2025-07-07T20:49:10+00:00'
-source: El Centro de la Raza
-source_url: https://www.elcentrodelaraza.org/staff-corner-june-2025/?utm_source=rss&utm_medium=rss&utm_campaign=staff-corner-june-2025
+images:
+- ef90d0d359f88f129564b23d39c519fc63d1f2079792ff41bac4ad2bad6a613b
+- feadd195dfdb37c60ca994486e67b21dc72a3253b2eaae870178c1b235966aa1
+- bd0388d6702b850377ea4b4c6b23019dbfb42001e6db12a9718002042ba60758
+- e4f10f0042c4f9c7b3105f4810dfdab888e8d041e8ea645a5fe3f64073bad43e
 original_content: |-
   <p><strong>Internship and Work-Study Programs </strong></p>
 
@@ -71,15 +73,13 @@ original_markdown_body: |-
   El Centro de la Raza
 
   The post [Staff Corner: June 2025](https://www.elcentrodelaraza.org/staff-corner-june-2025/) appeared first on [El Centro de la Raza](https://www.elcentrodelaraza.org).
+source: El Centro de la Raza
+source_url: https://www.elcentrodelaraza.org/staff-corner-june-2025/?utm_source=rss&utm_medium=rss&utm_campaign=staff-corner-june-2025
 summarized: true
+title: 'Staff Corner: June 2025'
 topics:
 - Education & Learning
 - Employment & Job Support
-images:
-- ef90d0d359f88f129564b23d39c519fc63d1f2079792ff41bac4ad2bad6a613b
-- feadd195dfdb37c60ca994486e67b21dc72a3253b2eaae870178c1b235966aa1
-- bd0388d6702b850377ea4b4c6b23019dbfb42001e6db12a9718002042ba60758
-- e4f10f0042c4f9c7b3105f4810dfdab888e8d041e8ea645a5fe3f64073bad43e
 ---
 
 El Centro de la Raza recently welcomed exceptional students from the University of Washington and Seattle University into their Internship and Work-Study programs. These students contributed significantly to various projects, enhancing El Centro's mission across multiple departments. Their engagement allowed the organization to expand its outreach, strengthen community ties, and improve programming effectiveness. 

@@ -1,8 +1,7 @@
 ---
-title: Personal journeys drive compassionate care at Valley Cities
 date: '2025-01-07T19:50:13+00:00'
-source: Valley Cities Behavioral Health Care
-source_url: https://valleycities.org/personal-journeys-drive-compassionate-care-at-valley-cities/
+images:
+- 1290d1508ca84c7222b90c17d52f5c3bc2056b8d713a797b5d201c78f5f562ad
 original_content: "<div class=\"et_pb_section et_pb_section_3 et_section_regular\"
   >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_row
   et_pb_row_3\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4 et_pb_column_3
@@ -102,11 +101,12 @@ original_markdown_body: |-
   _To learn more about the services offered at Valley Cities, visit&nbsp;[valleycities.org](https://valleycities.org/wrap-seminars/). If you or someone you know is currently struggling with mental health and/or addiction, contact the Valley Cities team by phone at 253-833-7444 or in person at your local&nbsp;[Valley Cities&nbsp;](https://valleycities.org/locations/)[location](https://valleycities.org/locations/). You can also call the&nbsp;[24 hour crisis line](https://valleycities.org/crisis-contact/)&nbsp;at 206-461-3222 or toll free at 866-427-4747._
 
   The post [Personal journeys drive compassionate care at Valley Cities](https://valleycities.org/personal-journeys-drive-compassionate-care-at-valley-cities/) appeared first on [Valley Cities Behavioral Health Care](https://valleycities.org).
+source: Valley Cities Behavioral Health Care
+source_url: https://valleycities.org/personal-journeys-drive-compassionate-care-at-valley-cities/
 summarized: true
+title: Personal journeys drive compassionate care at Valley Cities
 topics:
 - Mental Health & Counseling
-images:
-- 1290d1508ca84c7222b90c17d52f5c3bc2056b8d713a797b5d201c78f5f562ad
 ---
 
 Valley Cities Behavioral Health Care emphasizes the importance of personal experiences in providing compassionate care. Team members often draw from their own struggles with mental health or substance use to connect with and support clients facing similar challenges. John Grossman, the Director of Development, highlights how understanding their "why" helps staff remain motivated and focused on client needs.

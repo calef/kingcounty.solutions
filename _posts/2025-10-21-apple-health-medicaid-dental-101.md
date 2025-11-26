@@ -1,8 +1,6 @@
 ---
-title: Apple Health (Medicaid) Dental 101
 date: '2025-10-21T19:09:20+00:00'
-source: Arcora Foundation
-source_url: https://arcorafoundation.org/apple-health-medicaid-dental-101/
+images: []
 original_content: |-
   <p><a href="https://ohlh.talentlms.com/plus/catalog/courses/184">Start the Course</a></p>
 
@@ -142,11 +140,13 @@ original_markdown_body: |-
   [Start the Course](https://ohlh.talentlms.com/plus/catalog/courses/184)
 
   The post [Apple Health (Medicaid) Dental 101](https://arcorafoundation.org/apple-health-medicaid-dental-101/) appeared first on [Arcora Foundation](https://arcorafoundation.org).
+source: Arcora Foundation
+source_url: https://arcorafoundation.org/apple-health-medicaid-dental-101/
 summarized: true
+title: Apple Health (Medicaid) Dental 101
 topics:
 - Health Care
 - Education & Learning
-images: []
 ---
 
 This course provides a foundational overview of the Washington Apple Health Dental program, focusing on federal and state policies, the Healthcare Authority, and practical aspects of the program. It addresses the complexities of navigating Medicaid policy and aims to dispel common myths and confusion. The course is designed for all dental team members, including non-clinical staff, and those currently enrolled or considering participation in the program. 

@@ -1,14 +1,57 @@
 ---
-title: Peperoni Alla Salernitana (Braised Peppers with Potato and Basil)
 date: '2025-09-22T17:28:18+00:00'
+images: []
+original_content: '<p class="">Recipe shared in partnership with <a href="https://thepantryseattle.com/"
+  target="_blank">the Pantry</a>.&nbsp;</p><p class="">Recipe adapted from Marie Rutherford</p><p
+  class="">Yield: 4 servings </p><p data-rte-preserve-empty="true" class=""></p><h3>Ingredients
+  </h3><p class="">4 red bell peppers</p><p class="">4 large Yukon Gold potatoes,
+  peeled and cut into 3/4-inch dice</p><p class="">1/4 cup olive oil</p><p class="">4
+  cloves garlic, peeled and smashed</p><p class="">1/4 cup red wine vinegar</p><p
+  class="">About 1 cup basil leaves</p><p class="">Kosher salt, for boiling potatoes
+  and seasoning </p><p data-rte-preserve-empty="true" class=""></p><h3>Instructions
+  </h3><p class="">- Roast 2 peppers over an open flame on the stovetop. You want
+  to blacken the pepper, while still allowing the shape to not collapse on itself.
+  If the pepper overcooks, the flesh will start to almost melt away. We want to only
+  peel away the skin, leaving the pepper flesh still firm.</p><p class="">- Once the
+  peppers have darkened thoroughly on all sides, place them in a bowl and cover with
+  plastic wrap. Once the peppers are cool to touch, peel the skin away and discard.
+  Remove the seeds and chop the peppers into a 3/4-inch dice.</p><p class="">- Cut
+  the remaining 2 raw peppers into the same size as the roasted peppers.</p><p class="">-
+  Bring a medium pot of water to a boil. Once it reaches a boil, heavily salt the
+  water and cook the potatoes for 10 minutes, or until tender when pricked with a
+  fork. Drain the potatoes and spread evenly onto a baking sheet to cool.</p><p class="">-
+  In a heavy bottomed pan, warm the olive oil over medium heat. Add the raw peppers
+  and saute a few minutes until fragrant. Add the smashed garlic, the roasted peppers,
+  and the vinegar. Turn the heat down to a medium low and allow the mixture to simmer
+  for 25 minutes.</p><p class="">- Add the cooked potatoes and basil leaves. Season
+  to taste with salt. Continue to cook until the potatoes have warmed through. </p>'
+original_markdown_body: "Recipe shared in partnership with [the Pantry](https://thepantryseattle.com/).&nbsp;\n\nRecipe
+  adapted from Marie Rutherford\n\nYield: 4 servings\n\n### Ingredients \n\n4 red
+  bell peppers\n\n4 large Yukon Gold potatoes, peeled and cut into 3/4-inch dice\n\n1/4
+  cup olive oil\n\n4 cloves garlic, peeled and smashed\n\n1/4 cup red wine vinegar\n\nAbout
+  1 cup basil leaves\n\nKosher salt, for boiling potatoes and seasoning\n\n### Instructions
+  \n\n- Roast 2 peppers over an open flame on the stovetop. You want to blacken the
+  pepper, while still allowing the shape to not collapse on itself. If the pepper
+  overcooks, the flesh will start to almost melt away. We want to only peel away the
+  skin, leaving the pepper flesh still firm.\n\n- Once the peppers have darkened thoroughly
+  on all sides, place them in a bowl and cover with plastic wrap. Once the peppers
+  are cool to touch, peel the skin away and discard. Remove the seeds and chop the
+  peppers into a 3/4-inch dice.\n\n- Cut the remaining 2 raw peppers into the same
+  size as the roasted peppers.\n\n- Bring a medium pot of water to a boil. Once it
+  reaches a boil, heavily salt the water and cook the potatoes for 10 minutes, or
+  until tender when pricked with a fork. Drain the potatoes and spread evenly onto
+  a baking sheet to cool.\n\n- In a heavy bottomed pan, warm the olive oil over medium
+  heat. Add the raw peppers and saute a few minutes until fragrant. Add the smashed
+  garlic, the roasted peppers, and the vinegar. Turn the heat down to a medium low
+  and allow the mixture to simmer for 25 minutes.\n\n- Add the cooked potatoes and
+  basil leaves. Season to taste with salt. Continue to cook until the potatoes have
+  warmed through."
+published: false
 source: Rainier Valley Food Bank
 source_url: https://www.rvfb.org/blog/peperoni-alla-salernitana-braised-peppers-with-potato-and-basil
-original_content: '<p class="">Recipe shared in partnership with <a href="https://thepantryseattle.com/" target="_blank">the Pantry</a>.&nbsp;</p><p class="">Recipe adapted from Marie Rutherford</p><p class="">Yield: 4 servings </p><p data-rte-preserve-empty="true" class=""></p><h3>Ingredients </h3><p class="">4 red bell peppers</p><p class="">4 large Yukon Gold potatoes, peeled and cut into 3/4-inch dice</p><p class="">1/4 cup olive oil</p><p class="">4 cloves garlic, peeled and smashed</p><p class="">1/4 cup red wine vinegar</p><p class="">About 1 cup basil leaves</p><p class="">Kosher salt, for boiling potatoes and seasoning </p><p data-rte-preserve-empty="true" class=""></p><h3>Instructions </h3><p class="">- Roast 2 peppers over an open flame on the stovetop. You want to blacken the pepper, while still allowing the shape to not collapse on itself. If the pepper overcooks, the flesh will start to almost melt away. We want to only peel away the skin, leaving the pepper flesh still firm.</p><p class="">- Once the peppers have darkened thoroughly on all sides, place them in a bowl and cover with plastic wrap. Once the peppers are cool to touch, peel the skin away and discard. Remove the seeds and chop the peppers into a 3/4-inch dice.</p><p class="">- Cut the remaining 2 raw peppers into the same size as the roasted peppers.</p><p class="">- Bring a medium pot of water to a boil. Once it reaches a boil, heavily salt the water and cook the potatoes for 10 minutes, or until tender when pricked with a fork. Drain the potatoes and spread evenly onto a baking sheet to cool.</p><p class="">- In a heavy bottomed pan, warm the olive oil over medium heat. Add the raw peppers and saute a few minutes until fragrant. Add the smashed garlic, the roasted peppers, and the vinegar. Turn the heat down to a medium low and allow the mixture to simmer for 25 minutes.</p><p class="">- Add the cooked potatoes and basil leaves. Season to taste with salt. Continue to cook until the potatoes have warmed through. </p>'
-original_markdown_body: "Recipe shared in partnership with [the Pantry](https://thepantryseattle.com/).&nbsp;\n\nRecipe adapted from Marie Rutherford\n\nYield: 4 servings\n\n### Ingredients \n\n4 red bell peppers\n\n4 large Yukon Gold potatoes, peeled and cut into 3/4-inch dice\n\n1/4 cup olive oil\n\n4 cloves garlic, peeled and smashed\n\n1/4 cup red wine vinegar\n\nAbout 1 cup basil leaves\n\nKosher salt, for boiling potatoes and seasoning\n\n### Instructions \n\n- Roast 2 peppers over an open flame on the stovetop. You want to blacken the pepper, while still allowing the shape to not collapse on itself. If the pepper overcooks, the flesh will start to almost melt away. We want to only peel away the skin, leaving the pepper flesh still firm.\n\n- Once the peppers have darkened thoroughly on all sides, place them in a bowl and cover with plastic wrap. Once the peppers are cool to touch, peel the skin away and discard. Remove the seeds and chop the peppers into a 3/4-inch dice.\n\n- Cut the remaining 2 raw peppers into the same size as the roasted peppers.\n\n- Bring a medium pot of water to a boil. Once it reaches a boil, heavily salt the water and cook the potatoes for 10 minutes, or until tender when pricked with a fork. Drain the potatoes and spread evenly onto a baking sheet to cool.\n\n- In a heavy bottomed pan, warm the olive oil over medium heat. Add the raw peppers and saute a few minutes until fragrant. Add the smashed garlic, the roasted peppers, and the vinegar. Turn the heat down to a medium low and allow the mixture to simmer for 25 minutes.\n\n- Add the cooked potatoes and basil leaves. Season to taste with salt. Continue to cook until the potatoes have warmed through."
 summarized: true
+title: Peperoni Alla Salernitana (Braised Peppers with Potato and Basil)
 topics: []
-published: false
-images: []
 ---
 
 Peperoni Alla Salernitana, or Braised Peppers with Potato and Basil, is a flavorful dish that serves four. The recipe requires four red bell peppers, four large Yukon Gold potatoes (peeled and diced), olive oil, garlic, red wine vinegar, basil leaves, and kosher salt. 

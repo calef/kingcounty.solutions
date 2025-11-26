@@ -1,18 +1,18 @@
 ---
-title: Programming updates in Colorado and Silicon Valley
 date: '2025-11-03T23:34:40+00:00'
-source: Reading Partners Seattle
-source_url: https://readingpartners.org/blog/programming-updates-co-and-sv/
+images: []
 original_content: <p>The post <a href="https://readingpartners.org/blog/programming-updates-co-and-sv/">Programming
   updates in Colorado and Silicon Valley</a> appeared first on <a href="https://readingpartners.org">Reading
   Partners</a>.</p>
 original_markdown_body: The post [Programming updates in Colorado and Silicon Valley](https://readingpartners.org/blog/programming-updates-co-and-sv/)
   appeared first on [Reading Partners](https://readingpartners.org).
+source: Reading Partners Seattle
+source_url: https://readingpartners.org/blog/programming-updates-co-and-sv/
 summarized: true
+title: Programming updates in Colorado and Silicon Valley
 topics:
 - Education & Learning
 - Childcare
-images: []
 ---
 
 Reading Partners has transitioned from direct tutoring programs in public schools in Colorado and Silicon Valley to a new community-based model focusing on local partnerships. This change aims to maintain their commitment to improving literacy for students. Collaborations with libraries allow Reading Partners to deliver personalized tutoring using their Reading Partners Connects curriculum. They are training library and school staff to provide high-quality literacy support, empowering local leaders to take charge of the programs. 

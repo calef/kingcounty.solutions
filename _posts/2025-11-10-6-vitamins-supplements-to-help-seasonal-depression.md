@@ -1,8 +1,6 @@
 ---
-title: 6 Vitamins & Supplements to Help Seasonal Depression
 date: '2025-11-10T21:18:17+00:00'
-source: Talkspace Free Online Therapy for Seattle Youth
-source_url: https://www.talkspace.com/blog/vitamins-for-seasonal-depression/
+images: []
 original_content: |-
   <div class="is-layout-constrained wp-block-group"><div class="wp-block-group__inner-container">
   <p>Seasonal depression—or <a target="_blank" rel="noopener" href="https://www.talkspace.com/mental-health/conditions/seasonal-affective-disorder/">seasonal affective disorder</a> (SAD)—is a type of depression that appears in the winter months, when days are shorter, colder, and darker. If you’ve noticed a heavy sadness, loss of energy, or shifts in sleep and appetite patterns during the cool seasons, you might be experiencing seasonal depression.&nbsp;</p>
@@ -307,11 +305,13 @@ original_markdown_body: "Seasonal depression—or [seasonal affective disorder](
   Accessed September 28, 2025._\n\nThe post [6 Vitamins & Supplements to Help Seasonal
   Depression](https://www.talkspace.com/blog/vitamins-for-seasonal-depression/) appeared
   first on [Talkspace](https://www.talkspace.com/blog)."
+source: Talkspace Free Online Therapy for Seattle Youth
+source_url: https://www.talkspace.com/blog/vitamins-for-seasonal-depression/
 summarized: true
+title: 6 Vitamins & Supplements to Help Seasonal Depression
 topics:
 - Mental Health & Counseling
 - Health Care
-images: []
 ---
 
 Seasonal depression, or seasonal affective disorder (SAD), is a type of depression that typically occurs in winter months due to shorter days and reduced sunlight. Symptoms may include sadness, loss of energy, and changes in sleep and appetite. While light therapy, lifestyle changes, and counseling are common treatments, certain vitamins and supplements may also provide relief.

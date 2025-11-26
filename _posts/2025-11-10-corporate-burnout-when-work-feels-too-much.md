@@ -1,8 +1,6 @@
 ---
-title: 'Corporate Burnout: When Work Feels Too Much'
 date: '2025-11-10T21:23:02+00:00'
-source: Talkspace Free Online Therapy for Seattle Youth
-source_url: https://www.talkspace.com/blog/corporate-burnout/
+images: []
 original_content: |-
   <div class="is-layout-constrained wp-block-group"><div class="wp-block-group__inner-container">
   <p>If you feel like you’re drowning under constant pressure, tight deadlines, and endless meetings, you might be experiencing corporate burnout. Work can demand a lot from you. Over time, the constant grind comes at a cost, leaving you feeling drained, stressed, and questioning your ability to keep going.&nbsp;</p>
@@ -527,11 +525,13 @@ original_markdown_body: "If you feel like you’re drowning under constant press
   2024;13(16):e032414. doi:10.1161/JAHA.123.032414 [https://www.ahajournals.org/doi/10.1161/JAHA.123.032414](https://www.ahajournals.org/doi/10.1161/JAHA.123.032414)\n\nThe
   post [Corporate Burnout: When Work Feels Too Much](https://www.talkspace.com/blog/corporate-burnout/)
   appeared first on [Talkspace](https://www.talkspace.com/blog)."
+source: Talkspace Free Online Therapy for Seattle Youth
+source_url: https://www.talkspace.com/blog/corporate-burnout/
 summarized: true
+title: 'Corporate Burnout: When Work Feels Too Much'
 topics:
 - Mental Health & Counseling
 - Employment & Job Support
-images: []
 ---
 
 Corporate burnout is a state of physical, emotional, and mental exhaustion caused by prolonged work-related stress. It manifests as emotional exhaustion, cynicism, and a sense of reduced personal achievement. Unlike regular stress, burnout symptoms persist and worsen over time, making it crucial to identify early signs to seek help.

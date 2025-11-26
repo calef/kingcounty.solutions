@@ -1,8 +1,7 @@
 ---
-title: Happy Hauler helps families make-a-home
 date: '2025-05-21T19:03:45+00:00'
-source: Mary's Place
-source_url: https://www.marysplaceseattle.org/blog/from-floors-to-foundations-happy-haulers-helps-families-make-a-home
+images:
+- a51dfddf5b5f64f6ba8244fad7053beaeeb83c1b96a04879d3943ca5a1b690e7
 original_content: "<p class=\"\">A bed to sleep in instead of a bare floor.&nbsp;&nbsp;</p><p
   class=\"\">A kitchen table for enjoying family meals.&nbsp;&nbsp;</p><p class=\"\">A
   comfy couch for family movie nights and bedtime stories.&nbsp;&nbsp;</p><p class=\"\">For
@@ -111,13 +110,14 @@ original_markdown_body: |-
   Want to learn more about the partnership between Make-a-Home and Happy Hauler? Check out a recent episode of the Home Matters podcast featuring Olga and John! In this episode they share their personal stories and their “why” for furnishing homes for families! [Listen here.](https://podcastaddict.com/episode/https%3A%2F%2Fpds.cdnstream1.com%2Fp%2Fbonneville%2Fhome-matters%2Fhappy-hauler-362128%2Faudio.mp3&podcastId=4627237)
 
   [I want to Make-a-Home!](https://www.marysplaceseattle.org/get-involved/make-a-home)
+source: Mary's Place
+source_url: https://www.marysplaceseattle.org/blog/from-floors-to-foundations-happy-haulers-helps-families-make-a-home
 summarized: true
+title: Happy Hauler helps families make-a-home
 topics:
 - Shelter & Housing
 - Personal & Household Needs
 - Domestic Violence
-images:
-- a51dfddf5b5f64f6ba8244fad7053beaeeb83c1b96a04879d3943ca5a1b690e7
 ---
 
 Mary's Place Make-a-Home program provides essential furnishings to families transitioning from homelessness to permanent housing, helping over 25 families each month. Many families, despite securing housing, find themselves without basic necessities, often sleeping on bare floors. The program addresses this gap, as some families lack transportation for furniture and must prioritize rent and food. Happy Hauler, led by owner John, is a key partner in this initiative, quickly delivering complete home furnishing sets on moving day. John emphasizes the importance of providing these items promptly, recognizing the significant impact a furnished home has on families’ well-being. 

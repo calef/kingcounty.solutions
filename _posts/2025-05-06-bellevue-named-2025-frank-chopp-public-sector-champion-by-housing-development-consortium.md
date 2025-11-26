@@ -1,9 +1,7 @@
 ---
-title: Bellevue named 2025 Frank Chopp Public Sector Champion by Housing Development
-  Consortium
 date: '2025-05-06T20:09:48+00:00'
-source: City of Bellevue
-source_url: https://bellevuewa.gov/city-news/housing-award
+images:
+- d31d07af37aebc4714e0adfb018a0b2f6de7aa33f4c659931e56f1b48e8a41f5
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Bellevue
   named 2025 Frank Chopp Public Sector Champion by Housing Development Consortium</span>\n<span
   class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span
@@ -82,12 +80,14 @@ original_markdown_body: |-
   “Bellevue continues to lead with purpose – aligning closely with the [Housing Development Consortium](https://www.housingconsortium.org/)’s mission to ensure all people live in safe, healthy and affordable homes in thriving communities,” said HDC’s executive director Patience Malaba. “We congratulate the city on this well-deserved recognition and look forward to continuing this impactful work together.”
 
   <time datetime="2025-05-06T12:00:00Z" class="datetime">May 6 2025</time>
+source: City of Bellevue
+source_url: https://bellevuewa.gov/city-news/housing-award
 summarized: true
+title: Bellevue named 2025 Frank Chopp Public Sector Champion by Housing Development
+  Consortium
 topics:
 - Shelter & Housing
 - Financial Assistance
-images:
-- d31d07af37aebc4714e0adfb018a0b2f6de7aa33f4c659931e56f1b48e8a41f5
 ---
 
 The City of Bellevue has been awarded the 2025 Frank Chopp Public Sector Champion title by the Housing Development Consortium of Seattle-King County for its strong commitment to affordable housing. This recognition underscores Bellevue's proactive approach in addressing housing challenges, particularly through the establishment of a new Office of Housing aimed at supporting community housing needs. Director Bianca Siegl emphasized the city's focus on providing safe and affordable homes for all residents.

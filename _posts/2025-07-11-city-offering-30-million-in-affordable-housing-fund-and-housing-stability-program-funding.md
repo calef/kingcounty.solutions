@@ -1,9 +1,6 @@
 ---
-title: City offering $30 million in Affordable Housing Fund and Housing Stability
-  Program funding
 date: '2025-07-11T16:13:22+00:00'
-source: City of Bellevue
-source_url: https://bellevuewa.gov/city-news/city-offering-affordable-housing-funding
+images: []
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">City
   offering $30 million in Affordable Housing Fund and Housing Stability Program funding</span>\n<span
   class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span
@@ -67,11 +64,14 @@ original_markdown_body: |-
   Application details are available at [Housing Stability Program RFP](https://bellevuewa.gov/city-government/departments/city-managers-office/office-housing/housing-affordability/affordable-housing-solicitations/housing-stability-program-affordable-housing-fund-combined-rfp "Housing Stability Program and Affordable Housing Fund, Combined RFP"). For more information on either the Housing Stability Program or the Affordable Housing Fund, please contact Sabrina Velarde at [svelarde@bellevuewa.gov](mailto:svelarde@bellevuewa.gov) or 425-229-6511.
 
   <time datetime="2025-07-11T12:00:00Z" class="datetime">July 11 2025</time>
+source: City of Bellevue
+source_url: https://bellevuewa.gov/city-news/city-offering-affordable-housing-funding
 summarized: true
+title: City offering $30 million in Affordable Housing Fund and Housing Stability
+  Program funding
 topics:
 - Shelter & Housing
 - Financial Assistance
-images: []
 ---
 
 The City of Bellevue is offering a total of $30 million in funding to support affordable housing initiatives. This includes up to $20 million from the Housing Stability Program, funded by a 0.1% sales and use tax approved in 2022, and $10 million from the Affordable Housing Fund. Affordable housing developers and operators are invited to submit project proposals by noon on September 9, 2025, with a pre-application conference required by August 22.

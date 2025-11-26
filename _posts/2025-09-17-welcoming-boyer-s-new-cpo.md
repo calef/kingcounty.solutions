@@ -1,8 +1,6 @@
 ---
-title: Welcoming Boyer’s New CPO
 date: '2025-09-17T20:15:46+00:00'
-source: Boyer Children's Clinic
-source_url: https://www.boyercc.org/news/megan-beers/
+images: []
 original_content: "<div  class=\"wpb_row vc_row vc_row-fluid  mk-fullwidth-false  attched-false
   \    js-master-row \">\n\t\t\n\t\t\t\n<div style=\"\" class=\"vc_col-sm-12 wpb_column
   column_container  _ height-full\">\n\t\t<div class=\" vc_custom_1758139747099\">\n\n<div
@@ -56,11 +54,13 @@ original_markdown_body: "Following a comprehensive nation-wide search, we are th
   first appeared on [Boyer Children's Clinic](https://www.boyercc.org).\n\nThe post
   [Welcoming Boyer’s New CPO](https://www.boyercc.org/news/megan-beers/) appeared
   first on [Boyer Children's Clinic](https://www.boyercc.org)."
+source: Boyer Children's Clinic
+source_url: https://www.boyercc.org/news/megan-beers/
 summarized: true
+title: Welcoming Boyer’s New CPO
 topics:
 - Education & Learning
 - Disabilities
-images: []
 ---
 
 Dr. Megan Beers has been appointed as the new Chief Program Officer of Boyer Children’s Clinic following a comprehensive national search. Joining the team in late May, Megan brings over 17 years of leadership experience in early childhood systems of care. As a licensed clinical psychologist, she has a strong background in organizational transformation and the development of trauma-informed, equity-centered frameworks that benefit young children and families. Her previous executive roles include positions at Childhaven and Wellspring Family Services, and she most recently served as a Senior Consultant at Health Management Associates.

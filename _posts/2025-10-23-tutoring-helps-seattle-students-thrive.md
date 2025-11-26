@@ -1,8 +1,8 @@
 ---
-title: Tutoring Helps Seattle Students Thrive 
 date: '2025-10-23T19:51:52+00:00'
-source: Catholic Community Services of Western Washington
-source_url: https://ccsww.org/tutoring-helps-seattle-students-thrive/?utm_source=rss&utm_medium=rss&utm_campaign=tutoring-helps-seattle-students-thrive
+images:
+- d5e430c0b3417345e39052679b14c414c0c9fb83582a816959143f98a1766566
+- f86b1e9ff00330e4fecfe5946117c7a0f04c05d871fab386b85c0d7093c4a440
 original_content: |-
   <p>With the leaves changing and temperatures dropping, students are settling into the school&nbsp;year. Our Seattle-based Youth Tutoring Program is&nbsp;reflecting on a productive summer of learning and adventure and celebrating a successful start to the new school year.&nbsp;</p>
 
@@ -99,12 +99,12 @@ original_markdown_body: |-
   This fall, YTP has introduced a new curriculum software that will enhance learning and provide even more personalized support. With the support of our generous community of staff, volunteers, and donors, YTP offers these transformational tools and experiences, empowering every scholar at YTP to grow thrive, and reach their full potential.&nbsp;
 
   The post [Tutoring&nbsp;Helps&nbsp;Seattle Students&nbsp;Thrive&nbsp;](https://ccsww.org/tutoring-helps-seattle-students-thrive/) first appeared on [Catholic Community Services of Western Washington](https://ccsww.org).
+source: Catholic Community Services of Western Washington
+source_url: https://ccsww.org/tutoring-helps-seattle-students-thrive/?utm_source=rss&utm_medium=rss&utm_campaign=tutoring-helps-seattle-students-thrive
 summarized: true
+title: Tutoring Helps Seattle Students Thrive 
 topics:
 - Education & Learning
-images:
-- d5e430c0b3417345e39052679b14c414c0c9fb83582a816959143f98a1766566
-- f86b1e9ff00330e4fecfe5946117c7a0f04c05d871fab386b85c0d7093c4a440
 ---
 
 The Catholic Community Services Youth Tutoring Program (YTP) in Seattle provides vital academic support and mentorship to over 300 students from low-income and public housing. Celebrating its 30-year legacy, YTP relies on more than 200 volunteers, including high school and college students, to help scholars improve in reading and math. Reports show that 95% of parents note positive changes in their children's academic performance, with 100% of last year's high school seniors graduating and continuing their education. 

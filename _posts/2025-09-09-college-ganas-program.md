@@ -1,8 +1,8 @@
 ---
-title: College GANAS Program
 date: '2025-09-09T21:04:58+00:00'
-source: El Centro de la Raza
-source_url: https://www.elcentrodelaraza.org/college-ganas-program/?utm_source=rss&utm_medium=rss&utm_campaign=college-ganas-program
+images:
+- 01a2b18d1828e9e744151ac028d8dbf1628b20a7d9b72599b20bc05acebe2c13
+- 9b94f1b278d7a91a6e0ba84e2fe6c64d86cb3232c51e03b5b8441762ec6f8b43
 original_content: |-
   <div class="wp-block-cover alignfull is-light"><img loading="lazy" decoding="async" width="800" height="600" data-attachment-id="21163" data-permalink="https://www.elcentrodelaraza.org/college-ganas-program/2e0358be-6833-4c04-b788-b04e6e760819/" data-orig-file="https://www.elcentrodelaraza.org/wp-content/uploads/2025/09/2e0358be-6833-4c04-b788-b04e6e760819.jpg" data-orig-size="800,600" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="2e0358be-6833-4c04-b788-b04e6e760819" data-image-description="" data-image-caption="" data-medium-file="https://www.elcentrodelaraza.org/wp-content/uploads/2025/09/2e0358be-6833-4c04-b788-b04e6e760819-467x350.jpg" data-large-file="https://www.elcentrodelaraza.org/wp-content/uploads/2025/09/2e0358be-6833-4c04-b788-b04e6e760819.jpg" class="wp-block-cover__image-background wp-image-21163 size-full" alt="" src="https://www.elcentrodelaraza.org/wp-content/uploads/2025/09/2e0358be-6833-4c04-b788-b04e6e760819.jpg" data-object-fit="cover" srcset="https://www.elcentrodelaraza.org/wp-content/uploads/2025/09/2e0358be-6833-4c04-b788-b04e6e760819.jpg 800w, https://www.elcentrodelaraza.org/wp-content/uploads/2025/09/2e0358be-6833-4c04-b788-b04e6e760819-467x350.jpg 467w, https://www.elcentrodelaraza.org/wp-content/uploads/2025/09/2e0358be-6833-4c04-b788-b04e6e760819-160x120.jpg 160w, https://www.elcentrodelaraza.org/wp-content/uploads/2025/09/2e0358be-6833-4c04-b788-b04e6e760819-768x576.jpg 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><span aria-hidden="true" class="wp-block-cover__background has-background-dim-30 has-background-dim" style="background-color:#80757a"></span><div class="wp-block-cover__inner-container is-layout-flow wp-block-cover-is-layout-flow">
   <div class="wp-block-group alignwide"><div class="wp-block-group__inner-container is-layout-constrained wp-block-group-is-layout-constrained">
@@ -190,13 +190,13 @@ original_markdown_body: "![](https://www.elcentrodelaraza.org/wp-content/uploads
   loans depending on what you are eligible for. &nbsp;\n\n## Stay In Touch\n\nThe
   post [College GANAS Program](https://www.elcentrodelaraza.org/college-ganas-program/)
   appeared first on [El Centro de la Raza](https://www.elcentrodelaraza.org)."
+source: El Centro de la Raza
+source_url: https://www.elcentrodelaraza.org/college-ganas-program/?utm_source=rss&utm_medium=rss&utm_campaign=college-ganas-program
 summarized: true
+title: College GANAS Program
 topics:
 - Education & Learning
 - Financial Assistance
-images:
-- 01a2b18d1828e9e744151ac028d8dbf1628b20a7d9b72599b20bc05acebe2c13
-- 9b94f1b278d7a91a6e0ba84e2fe6c64d86cb3232c51e03b5b8441762ec6f8b43
 ---
 
 The College Ganas Program aims to empower Latino youth in their pursuit of higher education by fostering the cultural concept of "GANAS," which signifies the desire to succeed and achieve dreams. The program provides various forms of support, including workshops focused on college readiness and career planning, field trips to colleges, and assistance with scholarship applications and financial aid. Individual mentorship is emphasized to help students visualize their future on campus. The program also offers workshops for caregivers, recognizing the barriers faced by many families that may hinder participation in larger events. Eligibility is open to high school students in Seattle Public Schools or Auburn School District. The program is free for all youth and families, encouraging early planning for college, typically starting in the senior year. Financial support options include FAFSA/WASFA, scholarships, grants, and work-study opportunities. Contact information for program managers is provided for those in Seattle and Auburn to facilitate engagement.

@@ -1,8 +1,8 @@
 ---
-title: 'the power of connection: Kristi’s approach to giving back'
 date: '2025-09-25T16:00:00+00:00'
-source: Mary's Place
-source_url: https://www.marysplaceseattle.org/blog/the-power-of-connection-kristis-approach-to-giving-back
+images:
+- f913e63d0f1687246aa3e056fa5c8cdfc76aae1d23c91e7db71d89e740c07303
+- c6d344def156695d5eeb4f251c22e65fc09fc7c8a03bd269557d5640a08cace6
 original_content: "<figure class=\"\n              sqs-block-image-figure\n              intrinsic\n
   \           \"\n        >\n          \n        \n        \n\n        \n          \n
   \           \n          \n            \n                \n                \n                \n
@@ -94,14 +94,14 @@ original_markdown_body: |-
   _“He kept looking back at me, so I made a heart with my hands. Just a simple way to say, ‘I see you. You matter,' and he got a huge smile on his face. It reminded me that it doesn’t always take big things to make a difference. Even small gestures—eye contact, kindness, acknowledgment—can remind people that they're worthy, capable, and loved."_
 
   As the creator and designer of Posh Beauty Bar and an online coaching platform, Kristi is passionate about helping people’s inner beauty, love, and potential shine through. It’s no surprise that she also has a gift for uplifting families during their most challenging moments—with just a smile! We’re grateful that Kristi shares her warmth, compassion, and smile with families at Mary’s Place, using her entrepreneurial skills to raise both support and awareness for our work to end family homelessness. _“I believe together we're stronger and we can all do our part in helping “Raise the Vibe” with kindness, passion, purpose, connection, and community.”_
+source: Mary's Place
+source_url: https://www.marysplaceseattle.org/blog/the-power-of-connection-kristis-approach-to-giving-back
 summarized: true
+title: 'the power of connection: Kristi’s approach to giving back'
 topics:
 - Food & Nutrition
 - Personal & Household Needs
 - Shelter & Housing
-images:
-- f913e63d0f1687246aa3e056fa5c8cdfc76aae1d23c91e7db71d89e740c07303
-- c6d344def156695d5eeb4f251c22e65fc09fc7c8a03bd269557d5640a08cace6
 ---
 
 Kristi Hanna-Cruz embodies the spirit of giving back, shaped by her upbringing where generosity was paramount. She actively participates in Raise Your Vibe, an event for women entrepreneurs to connect and support charitable causes. At a recent gathering at Posh Beauty Bar, Kristi donated a portion of her proceeds to Mary’s Place, where Bhavani Kotha shared inspiring stories about the organization's mission to assist women and families in need. The event fostered engagement and connection among attendees. Kristi also organized a shopping trip, resulting in 17 bags of new clothes and essentials for families, enhancing their confidence and well-being. A memorable moment for Kristi occurred while delivering donations to a family shelter, where she connected with a young boy through a simple hand gesture, reminding her of the profound impact small acts of kindness can have. As the creator of Posh Beauty Bar and an online coach, Kristi is passionate about uplifting others. She emphasizes the power of community and believes that collective efforts can significantly improve lives, encouraging everyone to contribute to spreading kindness and support.

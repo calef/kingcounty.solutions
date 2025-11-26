@@ -1,8 +1,6 @@
 ---
-title: 'Super Kids, Super Futures: Celebrating Our 2025 ELC Graduates'
 date: '2025-07-15T18:58:32+00:00'
-source: Wellspring Family Services
-source_url: https://wellspringfs.org/super-kids-super-futures-celebrating-our-2025-elc-graduates/
+images: []
 original_content: |-
   <p><span data-preserver-spaces="true">On June 27, Wellspring&#8217;s Community Room transformed into a place of joy, pride, and tiny capes as 11 young learners marched across the stage in caps, gowns, and superhero masks. It was a momentous day for our 2025 graduates and their families, marking the culmination of their journey in Wellspring&#8217;s Early Learning Center (ELC), where early education meets stability and wraparound support for the whole family.</span></p>
   <p><span data-preserver-spaces="true">This year&#8217;s graduation theme, </span><em><span data-preserver-spaces="true">Superhero!</span></em><span data-preserver-spaces="true">, was more than just fun. It was a celebration of the strength, imagination, and resilience that each child brought to the classroom every day. </span><em><span data-preserver-spaces="true">&#8220;Every child who walks through our doors has superpowers—curiosity, creativity, and an ability to overcome</span></em><span data-preserver-spaces="true">,&#8221; said Kelly Shepherd-Martin, Director of the Early Learning Center. &#8220;</span><em><span data-preserver-spaces="true">Graduation isn&#8217;t just about what they&#8217;ve learned—it&#8217;s about what&#8217;s possible when children and families </span><span data-preserver-spaces="true">are surrounded</span><span data-preserver-spaces="true"> by care, community, and opportunity.&#8221;</span></em></p>
@@ -31,12 +29,14 @@ original_markdown_body: |-
   .
 
   The post [Super Kids, Super Futures: Celebrating Our 2025 ELC Graduates](https://wellspringfs.org/super-kids-super-futures-celebrating-our-2025-elc-graduates/) appeared first on [Wellspring](https://wellspringfs.org).
+source: Wellspring Family Services
+source_url: https://wellspringfs.org/super-kids-super-futures-celebrating-our-2025-elc-graduates/
 summarized: true
+title: 'Super Kids, Super Futures: Celebrating Our 2025 ELC Graduates'
 topics:
 - Childcare
 - Education & Learning
 - Financial Assistance
-images: []
 ---
 
 On June 27, Wellspring’s Community Room hosted a joyful graduation ceremony for 11 young learners from the Early Learning Center (ELC), themed "Superhero!" Graduates donned caps, gowns, and superhero masks, celebrating their journey in a program that provides early education alongside stability and support for families facing housing instability. Director Kelly Shepherd-Martin emphasized that each child possesses unique "superpowers" such as curiosity and creativity, and that graduation represents the potential realized through community care and opportunity.

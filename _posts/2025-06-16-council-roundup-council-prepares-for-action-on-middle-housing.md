@@ -1,8 +1,6 @@
 ---
-title: 'Council Roundup: Council prepares for action on middle housing'
 date: '2025-06-16T07:22:46+00:00'
-source: City of Bellevue
-source_url: https://bellevuewa.gov/city-news/council-roundup-6-10-25
+images: []
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Council
   Roundup: Council prepares for action on middle housing </span>\n<span class=\"field
   field--name-uid field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"
@@ -73,11 +71,13 @@ original_markdown_body: "Council Roundup: Council prepares for action on middle 
   the increasing and serious problem that affects health and human rights of older
   adults in our community.  \n&nbsp;\n\n<time datetime=\"2025-06-13T12:00:00Z\" class=\"datetime\">June
   13 2025</time>"
+source: City of Bellevue
+source_url: https://bellevuewa.gov/city-news/council-roundup-6-10-25
 summarized: true
+title: 'Council Roundup: Council prepares for action on middle housing'
 topics:
 - Shelter & Housing
 - Senior Services
-images: []
 ---
 
 The Bellevue City Council discussed proposed code changes to align housing policies with new state middle housing legislation during a meeting on June 10, 2025. This follows the Washington State Legislature's 2023 passage of House Bills 1110 and 1337, which mandate cities to allow more housing types and increased density in residential areas to enhance affordability and supply. Bellevue must adopt these code changes by June 30. The council reviewed land use code amendments recommended by the Planning Commission that support citywide middle housing development. After discussing the state’s minimum requirements versus the Planning Commission’s suggestions, councilmembers provided direction for the final ordinance to incorporate these changes, with final action expected in a future meeting.

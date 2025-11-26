@@ -1,8 +1,6 @@
 ---
-title: Empowering veterans as business founders
 date: '2025-11-25T16:25:20+00:00'
-source: Disabled American Veterans
-source_url: https://www.dav.org/learn-more/news/2025/empowering-veterans-as-business-founders/
+images: []
 original_content: "<div class=\"editor clearfix\">\n\n    \n    <p><img fetchpriority=\"high\"
   decoding=\"async\" class=\"size-full wp-image-55468 alignleft\" src=\"https://www.dav.org/wp-content/uploads/PBC_Group.jpg\"
   alt=\"\" width=\"300\" height=\"198\" />Last October, I had the privilege of leading
@@ -42,7 +40,6 @@ original_content: "<div class=\"editor clearfix\">\n\n    \n    <p><img fetchpri
   Applications are open year-round, but the deadline to be considered for DAV’s annual
   employer awards is Feb. 28.</em></p>\n\n</div><p>The post <a href=\"https://www.dav.org/learn-more/news/2025/empowering-veterans-as-business-founders/\">Empowering
   veterans as business founders</a> appeared first on <a href=\"https://www.dav.org\">DAV</a>.</p>"
-images: []
 original_markdown_body: |-
   ![](https://www.dav.org/wp-content/uploads/PBC_Group.jpg)Last October, I had the privilege of leading our latest cohort of [DAV Patriot Boot Camp](https://patriotbootcamp.org/) for founders in the military and veteran community, including spouses. It was my first time hosting the three-day boot camp since becoming program director and the energy and transformation that took place were nothing short of inspiring. &nbsp;&nbsp;&nbsp; `
 
@@ -61,7 +58,10 @@ original_markdown_body: |-
   _P.S. – Do you know someone who employs and supports veterans in the workplace? Encourage them to apply to be a DAV Patriot Employer at_ [_patriotemployer.org_](https://www.dav.org/get-involved/hire-veterans/dav-patriot-employer-recognition-program/)_. Applications are open year-round, but the deadline to be considered for DAV’s annual employer awards is Feb. 28._
 
   The post [Empowering veterans as business founders](https://www.dav.org/learn-more/news/2025/empowering-veterans-as-business-founders/) appeared first on [DAV](https://www.dav.org).
+source: Disabled American Veterans
+source_url: https://www.dav.org/learn-more/news/2025/empowering-veterans-as-business-founders/
 summarized: true
+title: Empowering veterans as business founders
 topics:
 - Employment & Job Support
 ---

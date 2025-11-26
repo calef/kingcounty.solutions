@@ -1,8 +1,6 @@
 ---
-title: PIM Savvy CAA and ITIN Services
 date: '2025-02-07T09:00:24+00:00'
-source: PIM Savvy
-source_url: https://pimsavvy.com/pim-savvy-caa-and-itin-services/
+images: []
 original_content: |-
   <p>PIM Savvy VITA now offers Certifying Acceptance Agent (CAA) services to individuals and families in Washington State! We partnered with the Internal Revenue Service (IRS) so we can assist alien individuals and other foreign persons obtain Individual Taxpayer Identification Numbers (ITIN).</p>
 
@@ -34,10 +32,12 @@ original_markdown_body: |-
   For more information about our FREE CAA and ITIN services or to start the ITIN appointment process go to [pimsavvy.com/itin](http://pimsavvy.com/itin). Appointments are required for all CAA and ITIN services. PIM Savvy VITA provides ITIN services free of charge in King County and Snohomish County at many of our VITA events. To see a list of PIM Savvy VITA events, visit [pimsavvy.com/vita](http://pimsavvy.com/vita).
 
   The post [PIM Savvy CAA and ITIN Services](https://pimsavvy.com/pim-savvy-caa-and-itin-services/) appeared first on [PIM Savvy](https://pimsavvy.com).
+source: PIM Savvy
+source_url: https://pimsavvy.com/pim-savvy-caa-and-itin-services/
 summarized: true
+title: PIM Savvy CAA and ITIN Services
 topics:
 - Financial Assistance
-images: []
 ---
 
 PIM Savvy VITA has launched Certifying Acceptance Agent (CAA) services in Washington State, partnering with the IRS to assist alien individuals and foreign persons in obtaining Individual Taxpayer Identification Numbers (ITIN). Recognizing the unique challenges faced by resilient populations, PIM Savvy aims to alleviate these burdens by offering free ITIN application and renewal services, along with complimentary tax preparation for qualifying individuals. The CAAs will ensure that the necessary documentation meets IRS criteria without requiring clients to mail proof of identity or foreign status to the IRS. PIM Savvy VITA prioritizes helping those in need and is committed to addressing the challenges faced by these communities. ITIN services are available at no cost in King County and Snohomish County through various VITA events, with appointments required for all CAA and ITIN services. Interested individuals can begin the appointment process through the PIM Savvy website, where they can also find a list of VITA events.

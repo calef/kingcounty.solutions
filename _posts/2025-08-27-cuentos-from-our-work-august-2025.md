@@ -1,8 +1,70 @@
 ---
-title: 'Cuentos from Our Work: August 2025'
 date: '2025-08-27T18:04:20+00:00'
-source: El Centro de la Raza
-source_url: https://www.elcentrodelaraza.org/cuentos-from-our-work-august-2025/?utm_source=rss&utm_medium=rss&utm_campaign=cuentos-from-our-work-august-2025
+images:
+- cbe8cbcd761a59d867953a97dae902c9d62c07d8695884a0faaf67a95750e4d6
+- 70fda73808200aa7fee7cf632197fb3a650008d03fb841e336d47bbb59cbf8be
+- 28771e491afa7642fd4848a50ab046cad74346a9243367f4319e86a959f9e7b7
+- c9820934fc056e8fefceab280517c23dcdd7695d57dc91e0afc729aa0be423b0
+- 4b014a8ceb5f231af11c7d8118a1a5488babf44e17660cf9a8820c659377b44f
+- fcedead03d9f6049af9d8a0f9926d2c41a61c54bf59d3d19ce5ad335b6173130
+- b84693b09c0bcc243cdcb9d624bd6710acd5fbef9f8a74ad971fcd52bf905f25
+- ffff94f0a91830cba4afcc9c18f6f87b1938cea7be733e023851ec030570bfe9
+- 92e7773e44401e1a1dfe343c102cb51168703773da589ca1216073db778a67bb
+- e210d9109214a814e63017d44f852bd74205ffadd821dd334b7aca0f53440762
+- e32c2cd7b9be4e98ac47f9809a8e64e59914b6ed09c7e09e6bf8a2b6e73e57a9
+- 7c1cd58556adff4300a239a484ddf0dfde44541a31b3c531f1f09962117362bc
+- 4e4a93d24c4fe3b5cf19d324e0df00c0ce2c0366556591fffbfe1a6da2190126
+- cbbf3a6a6c8a392286b34aef083b15ec0f8402abc564b7e501a2ccda7957f06e
+- 5ce9b1ee713caf071e289a9b8545bd65015ae64ea8dc1afff491979255dbdcac
+- 5b4b1cdb8048a81ce5d627cef2760e4921409d818cc035504c01586480012f52
+- ca8b604c45c2b88cefc0e41705bc819b1d04027896c1639381d5665d1943b321
+- 1031851ee4cf9760c03188419543bfcbe0913652dfb06ab5b9c361ce9e2d234b
+- 4531db7210d3b5c17951a18db57666e407337b928cf65903ac6185abe306e742
+- fb1282b241f43134637bb268a5424504cf125c7c4cf24233d84a2f4a508124f0
+- 8960c80da696b75cbd3c0190e5fde64c5bfc14dbf6f3e07c2cfa27b8a26b9f3d
+- 1ca0be7ad06eb8df5729f646ea5007f3e7f309ccdb3a39da8992d817d624494d
+- 3ffbf48c20561379cf8a6ea7689448bac7b0968ba6840c0a1b892798a1a608b3
+- 3d5e53a2f49e9ae45f6fdc557db77e28d62713c3aa8003fdd66727b288e81147
+- 60dbeacd725b4282eb0eb3e21b2b71a70382d8d3e03510ab0dd3264cc48e6a67
+- 365b4072137f35472c91e7f692d8fcdff10de835b6b9e1fdcaa3fbc7a64b4669
+- e8e7017d562a17ac9ce40ce892d8bfa4b9bb595e0a301aed2f27c76df57548b8
+- a0012c8e3280285cd221816e19d5dbf64a1cebccb32b4c9c35910a78034f1647
+- 78ad19780fd92da4a62183db6ad8a670dc6297d13061a1e1aad20b70c92c578a
+- 513bb5695dd2ffaebe276298a8322e60bdf5ac8639ffd8eb7c7c7e73b018a283
+- d878941cefe2ff1e8a9116c13a4e0fc9696f3829470390c58d997ae212f88053
+- 8a7b61596aa39983c937fc1362a7d43befc5a01254dbe1f384e295ff483bbc3c
+- 9e97c1c72c60b3070c62849cb6ed11237332ebd5f2aeef4c6075c3f54789a0c6
+- 9a48f9d2f94faa27e7f2c9f34e15aacd74a9deac245143ff3a0a89017f1cc0a2
+- ce4787b88914168552687f8d8327a80b9fb12ea64171cee026b3f109d1d9e9c4
+- 6094fe59d8b1dd349157110fab6ef56172ee85672781cdb4302ef803cb06e965
+- 67c47cbb3c73d6ad9ae600afc2c078e3c3ad224e6b62de9ec3902471b702ffe1
+- 145c97753baba76e046fbbc122dc37bdb9f68571b1d02577a9746c671df8234c
+- 59b5a1db70937eb22879c97209b273ca669eccd2a5bca24ae0e277a030df4712
+- 1147d4bc7ba25352012311036c5341e76ece497e86120c56bc002cb4b20d5e79
+- c982f935bf545abbff8d0861cd53aa62879258fca778431c0fc198f376fa6213
+- 816d507aa028d85d9ee79ee5c0d1efc92b43e5cae57fbf407272179a2393b608
+- 2a20a03c4872e88de84600d57ea70f7d106f49991e87d79305cdf9cc0b4d34cf
+- 64097e1945e761ac261e6c3b1c313625bd0635f07d9c4ff17fa132f2a4723ad9
+- 654b4cd2ce42d6bb1fe9cc6eaf7c454f14e2a5a2825ceaf9330e677b5a2e55d0
+- 79a9dbbfbce4724bd1ca6e3f24aa77e4bd0867b929442bc253df47df3898b6b4
+- 8035c181070841249650f4bc42f3a9193fe82327985b33361f7a9cd40c7b6344
+- 041b553ed0904a427199a5fd7c9f6e1034c9c65fd35eba76f0afd851cf8f768a
+- 5856e6fcad4f7e3cf98f2fa6903a862f3f90ea1d5f3f2c04bb11fd5e2924a58c
+- b1aecc09533290cd2f70e1494c2342b2ba1d928120972b6989adb6e4ec3751d0
+- 13c136dbc23dc268339919efcaf06659f325d91c59ef0cd663c5fc737a7da5b8
+- d7a4c4fa91bec0f00020638a0a3f869bd2cdf9b6087b8a409522ac6d1ae48b49
+- 70028de68adc4a33687f9178745c19cb36b934688462d9358c07b48f8fee5bac
+- f2ccae46f7662d0e597925e3c385019f27ecd94d014737b957d87f906f748789
+- 0ebacf73f6b42abf06575792b0310d64be132ca4ebc0f96b079cfe4e81ac6046
+- 66e5c34c940ed8925391a1023fb6b63a49dc083a0077bf8214761bd9783769d8
+- 6e17e2b955c4a8a86c57dde9cd10d9eb19a773a292e0750759aba368061b8d1b
+- 7f9c7d399eea6366ffcbdbfbfaa0707cd367f7c12eab5d6dfcee47708401d2b0
+- 1e870ba227ff19c06ea04e0afd7f8af7c89ed67f24a1420cdf1a80f9bf8cf064
+- 2ac8341898b330b16a52cca70a4557347f605dec3545f1c42b16707d21dc9f39
+- acd9a6dcda32ecc86b8352afefbb17cda0a35dc244ce519f8534ad2e0a714180
+- df216f7b7493d39bc33e1459f96bf6ee6cec06133a2ae290819d90ec6da20460
+- 1accd8453366ea4c75b0f651276bfcd86020b4a8d413f3de9720e551f21033db
+- 283cd3c81353964056bf8456819c2c5f70657296e3cce7944d355109544dfa8f
 original_content: "<div class=\"wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-8cf370e7
   wp-block-group-is-layout-flex\">\n<p><strong>Child &amp; Family Services – ParentChild+
   Graduation Celebration</strong></p>\n\n\n\n<p>On August 20, 2025, our ParentChild+
@@ -1486,75 +1548,13 @@ original_markdown_body: "**Child & Family Services – ParentChild+ Graduation C
   continues to inspire and uplift our community.\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/08/1-1-566x707.jpg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/08/2-1-566x707.jpg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/08/5-566x707.jpg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/08/11-566x707.jpg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/08/13-566x707.jpg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/08/14-566x707.jpg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/08/15-566x707.jpg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/08/16-566x707.jpg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/08/17-566x707.jpg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/08/18-566x707.jpg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/08/19-566x707.jpg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/08/20-566x707.jpg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/08/21-566x707.jpg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/08/22-566x707.jpg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/08/24-566x707.jpg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/08/26-566x707.jpg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/08/27-566x707.jpg?ssl=1)\n\nThe
   post [Cuentos from Our Work: August 2025](https://www.elcentrodelaraza.org/cuentos-from-our-work-august-2025/)
   appeared first on [El Centro de la Raza](https://www.elcentrodelaraza.org)."
+source: El Centro de la Raza
+source_url: https://www.elcentrodelaraza.org/cuentos-from-our-work-august-2025/?utm_source=rss&utm_medium=rss&utm_campaign=cuentos-from-our-work-august-2025
 summarized: true
+title: 'Cuentos from Our Work: August 2025'
 topics:
 - Education & Learning
 - Health Care
-images:
-- cbe8cbcd761a59d867953a97dae902c9d62c07d8695884a0faaf67a95750e4d6
-- 70fda73808200aa7fee7cf632197fb3a650008d03fb841e336d47bbb59cbf8be
-- 28771e491afa7642fd4848a50ab046cad74346a9243367f4319e86a959f9e7b7
-- c9820934fc056e8fefceab280517c23dcdd7695d57dc91e0afc729aa0be423b0
-- 4b014a8ceb5f231af11c7d8118a1a5488babf44e17660cf9a8820c659377b44f
-- fcedead03d9f6049af9d8a0f9926d2c41a61c54bf59d3d19ce5ad335b6173130
-- b84693b09c0bcc243cdcb9d624bd6710acd5fbef9f8a74ad971fcd52bf905f25
-- ffff94f0a91830cba4afcc9c18f6f87b1938cea7be733e023851ec030570bfe9
-- 92e7773e44401e1a1dfe343c102cb51168703773da589ca1216073db778a67bb
-- e210d9109214a814e63017d44f852bd74205ffadd821dd334b7aca0f53440762
-- e32c2cd7b9be4e98ac47f9809a8e64e59914b6ed09c7e09e6bf8a2b6e73e57a9
-- 7c1cd58556adff4300a239a484ddf0dfde44541a31b3c531f1f09962117362bc
-- 4e4a93d24c4fe3b5cf19d324e0df00c0ce2c0366556591fffbfe1a6da2190126
-- cbbf3a6a6c8a392286b34aef083b15ec0f8402abc564b7e501a2ccda7957f06e
-- 5ce9b1ee713caf071e289a9b8545bd65015ae64ea8dc1afff491979255dbdcac
-- 5b4b1cdb8048a81ce5d627cef2760e4921409d818cc035504c01586480012f52
-- ca8b604c45c2b88cefc0e41705bc819b1d04027896c1639381d5665d1943b321
-- 1031851ee4cf9760c03188419543bfcbe0913652dfb06ab5b9c361ce9e2d234b
-- 4531db7210d3b5c17951a18db57666e407337b928cf65903ac6185abe306e742
-- fb1282b241f43134637bb268a5424504cf125c7c4cf24233d84a2f4a508124f0
-- 8960c80da696b75cbd3c0190e5fde64c5bfc14dbf6f3e07c2cfa27b8a26b9f3d
-- 1ca0be7ad06eb8df5729f646ea5007f3e7f309ccdb3a39da8992d817d624494d
-- 3ffbf48c20561379cf8a6ea7689448bac7b0968ba6840c0a1b892798a1a608b3
-- 3d5e53a2f49e9ae45f6fdc557db77e28d62713c3aa8003fdd66727b288e81147
-- 60dbeacd725b4282eb0eb3e21b2b71a70382d8d3e03510ab0dd3264cc48e6a67
-- 365b4072137f35472c91e7f692d8fcdff10de835b6b9e1fdcaa3fbc7a64b4669
-- e8e7017d562a17ac9ce40ce892d8bfa4b9bb595e0a301aed2f27c76df57548b8
-- a0012c8e3280285cd221816e19d5dbf64a1cebccb32b4c9c35910a78034f1647
-- 78ad19780fd92da4a62183db6ad8a670dc6297d13061a1e1aad20b70c92c578a
-- 513bb5695dd2ffaebe276298a8322e60bdf5ac8639ffd8eb7c7c7e73b018a283
-- d878941cefe2ff1e8a9116c13a4e0fc9696f3829470390c58d997ae212f88053
-- 8a7b61596aa39983c937fc1362a7d43befc5a01254dbe1f384e295ff483bbc3c
-- 9e97c1c72c60b3070c62849cb6ed11237332ebd5f2aeef4c6075c3f54789a0c6
-- 9a48f9d2f94faa27e7f2c9f34e15aacd74a9deac245143ff3a0a89017f1cc0a2
-- ce4787b88914168552687f8d8327a80b9fb12ea64171cee026b3f109d1d9e9c4
-- 6094fe59d8b1dd349157110fab6ef56172ee85672781cdb4302ef803cb06e965
-- 67c47cbb3c73d6ad9ae600afc2c078e3c3ad224e6b62de9ec3902471b702ffe1
-- 145c97753baba76e046fbbc122dc37bdb9f68571b1d02577a9746c671df8234c
-- 59b5a1db70937eb22879c97209b273ca669eccd2a5bca24ae0e277a030df4712
-- 1147d4bc7ba25352012311036c5341e76ece497e86120c56bc002cb4b20d5e79
-- c982f935bf545abbff8d0861cd53aa62879258fca778431c0fc198f376fa6213
-- 816d507aa028d85d9ee79ee5c0d1efc92b43e5cae57fbf407272179a2393b608
-- 2a20a03c4872e88de84600d57ea70f7d106f49991e87d79305cdf9cc0b4d34cf
-- 64097e1945e761ac261e6c3b1c313625bd0635f07d9c4ff17fa132f2a4723ad9
-- 654b4cd2ce42d6bb1fe9cc6eaf7c454f14e2a5a2825ceaf9330e677b5a2e55d0
-- 79a9dbbfbce4724bd1ca6e3f24aa77e4bd0867b929442bc253df47df3898b6b4
-- 8035c181070841249650f4bc42f3a9193fe82327985b33361f7a9cd40c7b6344
-- 041b553ed0904a427199a5fd7c9f6e1034c9c65fd35eba76f0afd851cf8f768a
-- 5856e6fcad4f7e3cf98f2fa6903a862f3f90ea1d5f3f2c04bb11fd5e2924a58c
-- b1aecc09533290cd2f70e1494c2342b2ba1d928120972b6989adb6e4ec3751d0
-- 13c136dbc23dc268339919efcaf06659f325d91c59ef0cd663c5fc737a7da5b8
-- d7a4c4fa91bec0f00020638a0a3f869bd2cdf9b6087b8a409522ac6d1ae48b49
-- 70028de68adc4a33687f9178745c19cb36b934688462d9358c07b48f8fee5bac
-- f2ccae46f7662d0e597925e3c385019f27ecd94d014737b957d87f906f748789
-- 0ebacf73f6b42abf06575792b0310d64be132ca4ebc0f96b079cfe4e81ac6046
-- 66e5c34c940ed8925391a1023fb6b63a49dc083a0077bf8214761bd9783769d8
-- 6e17e2b955c4a8a86c57dde9cd10d9eb19a773a292e0750759aba368061b8d1b
-- 7f9c7d399eea6366ffcbdbfbfaa0707cd367f7c12eab5d6dfcee47708401d2b0
-- 1e870ba227ff19c06ea04e0afd7f8af7c89ed67f24a1420cdf1a80f9bf8cf064
-- 2ac8341898b330b16a52cca70a4557347f605dec3545f1c42b16707d21dc9f39
-- acd9a6dcda32ecc86b8352afefbb17cda0a35dc244ce519f8534ad2e0a714180
-- df216f7b7493d39bc33e1459f96bf6ee6cec06133a2ae290819d90ec6da20460
-- 1accd8453366ea4c75b0f651276bfcd86020b4a8d413f3de9720e551f21033db
-- 283cd3c81353964056bf8456819c2c5f70657296e3cce7944d355109544dfa8f
 ---
 
 On August 20, 2025, El Centro de la Raza celebrated the graduation of 50 children from its ParentChild+ Program, which supports early childhood development and school readiness through home visits. The event took place in a local park, fostering community joy and togetherness. The organization also hosted a successful King County Adult Dental Program event, providing essential dental care to diverse community members and highlighting the importance of language access. KeyBank supported back-to-school efforts by collecting supplies for K-8 students, ensuring they are well-prepared for the school year. Additionally, Comcast Family Summer Movie Nights at Plaza Roberto Maestas offered community bonding through performances and outdoor films. The Bank of America Student Leaders® cohort toured El Centro, engaging with staff and exploring programs that promote leadership and community service. College GANAS students visited Western Washington University, gaining insight into college life to inspire their academic goals. The article emphasizes the importance of community partnership and support in empowering families and youth through various programs and celebrations, showcasing El Centro de la Raza's commitment to building strong, connected communities.

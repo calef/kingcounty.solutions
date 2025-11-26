@@ -1,8 +1,6 @@
 ---
-title: 'South King Link: How to ride and transfer'
 date: '2025-11-25T14:40:54-08:00'
-source: Sound Transit
-source_url: https://www.soundtransit.org/blog/platform/south-king-link-how-to-ride-transfer
+images: []
 original_content: <p data-start="308" data-end="376">The countdown is on — <a href="https://www.soundtransit.org/southkinglink"
   data-entity-type="external">the 1 Line is about to extend with three new stations</a>!&nbsp;</p><p
   data-start="378" data-end="673">The opening on Dec. 6 will bring fast, frequent
@@ -16,10 +14,12 @@ original_markdown_body: |-
   The opening on Dec. 6 will bring fast, frequent connections in Kent Des Moines, Star Lake, and Federal Way Downtown.&nbsp;
 
   If you’re new to Link (or just need a refresher), here’s how to pay, how to transfer, and how to make your ride smooth from start to finish.
+source: Sound Transit
+source_url: https://www.soundtransit.org/blog/platform/south-king-link-how-to-ride-transfer
 summarized: true
+title: 'South King Link: How to ride and transfer'
 topics:
 - Transportation & Mobility
-images: []
 ---
 
 The 1 Line extension will open on December 6, adding three new stations in Kent Des Moines, Star Lake, and Federal Way Downtown, enhancing connectivity in the region. Link trains operate from early morning to late at night, with schedules varying by station. The best way to pay for rides is with an ORCA card, available for $3 from ticket machines or through Google Wallet. Adult one-way fares are $3, with reduced fares for seniors, low-income riders, and people with disabilities. 

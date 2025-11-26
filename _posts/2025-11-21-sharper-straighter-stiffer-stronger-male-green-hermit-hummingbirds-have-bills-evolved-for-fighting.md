@@ -1,8 +1,6 @@
 ---
-title: 'Sharper, straighter, stiffer, stronger: Male green hermit hummingbirds have bills evolved for fighting'
 date: '2025-11-21T17:51:10+00:00'
-source: University of Washington
-source_url: https://www.washington.edu/news/2025/11/21/sharper-straighter-stiffer-stronger-male-green-hermit-hummingbirds-have-bills-evolved-for-fighting/
+images: []
 original_content: |-
   <div id="attachment_89932" class="wp-caption alignnone" style="width: 760px"><img fetchpriority="high" decoding="async" class="wp-image-89932 size-full-content" src="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/21094902/JLenaertPic2-750x783.jpg" alt="Alt text: A hummingbird hovers in front of a flower with its wings outstretched. " width="750" height="783" srcset="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/21094902/JLenaertPic2-750x783.jpg 750w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/21094902/JLenaertPic2-287x300.jpg 287w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/21094902/JLenaertPic2-981x1024.jpg 981w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/21094902/JLenaertPic2-768x802.jpg 768w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/21094902/JLenaertPic2-1471x1536.jpg 1471w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/21094902/JLenaertPic2-1961x2048.jpg 1961w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/21094902/JLenaertPic2-375x392.jpg 375w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/21094902/JLenaertPic2-1140x1190.jpg 1140w" sizes="(max-width: 750px) 100vw, 750px" /></p>
   <p class="wp-caption-text">A female green hermit hummingbird hovers before a flower. <em>Credit: Jan Lenaert.</em></span></p>
@@ -48,10 +46,13 @@ original_markdown_body: |-
   _Co-authors include_ [_Felipe Garzón-Agudelo_](https://www.researchgate.net/profile/Felipe-Garzon-Agudelo) _of the Centro de Investigación Colibrı́ Gorriazul in Colombia and_ [_Kevin Epperly,_](https://www.researchgate.net/scientific-contributions/Kevin-Epperly-2123734664) _Ornithology Collections Manager at the UW Burke Museum. This research was funded by a Walt Halperin Endowed Professorship at the UW Department of Biology and by the Washington Research Foundation.&nbsp;_
 
   _For more information or to contact the researchers, email Alden Woods at_ [_acwoods@uw.edu_](mailto:acwoods@uw.edu)_.&nbsp;_
-summarized: true
-topics: []
 published: false
-images: []
+source: University of Washington
+source_url: https://www.washington.edu/news/2025/11/21/sharper-straighter-stiffer-stronger-male-green-hermit-hummingbirds-have-bills-evolved-for-fighting/
+summarized: true
+title: 'Sharper, straighter, stiffer, stronger: Male green hermit hummingbirds have
+  bills evolved for fighting'
+topics: []
 ---
 
 Male green hermit hummingbirds have evolved distinct bill characteristics for combat, primarily to secure mates. Research by the University of Washington reveals that male bills are straighter, sharper, and structurally stronger than those of females, which have curved bills better suited for feeding. These adaptations are significant, as males engage in aggressive fights over perches in forested areas, akin to a "singles bar" scenario. The study indicates that the evolution of these sexually dimorphic traits was influenced more by the need for combat than ecological factors. 

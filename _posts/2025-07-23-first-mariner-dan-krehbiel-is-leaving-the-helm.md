@@ -1,14 +1,20 @@
 ---
-title: "‘First Mariner’ Dan Krehbiel is leaving the helm"
 date: '2025-07-23T14:59:51+00:00'
+images: []
+original_content: Growing up in Alaska, Hawai’i and the Northwest, Dan Krehbiel has
+  been on or near the water most of his life. While working at his parent’s fuel depot
+  in Juneau, Alaska, he thought he could “make a living on the water.” After decades
+  of piloting tour boats and fast ferries from Trinidad and the Caribbean&#8230;
+original_markdown_body: Growing up in Alaska, Hawai’i and the Northwest, Dan Krehbiel
+  has been on or near the water most of his life. While working at his parent’s fuel
+  depot in Juneau, Alaska, he thought he could “make a living on the water.” After
+  decades of piloting tour boats and fast ferries from Trinidad and the Caribbean…
+published: false
 source: King County Ferry District
 source_url: https://kingcountywatertaxiblog.com/2025/07/23/first-mariner-dan-krehbiel-is-leaving-the-helm/
-original_content: Growing up in Alaska, Hawai’i and the Northwest, Dan Krehbiel has been on or near the water most of his life. While working at his parent’s fuel depot in Juneau, Alaska, he thought he could “make a living on the water.” After decades of piloting tour boats and fast ferries from Trinidad and the Caribbean&#8230;
-original_markdown_body: Growing up in Alaska, Hawai’i and the Northwest, Dan Krehbiel has been on or near the water most of his life. While working at his parent’s fuel depot in Juneau, Alaska, he thought he could “make a living on the water.” After decades of piloting tour boats and fast ferries from Trinidad and the Caribbean…
 summarized: true
+title: "‘First Mariner’ Dan Krehbiel is leaving the helm"
 topics: []
-published: false
-images: []
 ---
 
 Dan Krehbiel, known as "Captain Dan," is retiring after 16 years as the first captain of the King County Water Taxi in Seattle. His maritime career began in Alaska and spanned various locations and vessels, leading him to a position that has grown the Water Taxi service from one leased catamaran in 2009 to a fleet that now includes two dedicated boats and a staff of 40. The Water Taxi operates two routes, serving thousands of passengers daily between downtown Seattle and Vashon and Maury Islands.

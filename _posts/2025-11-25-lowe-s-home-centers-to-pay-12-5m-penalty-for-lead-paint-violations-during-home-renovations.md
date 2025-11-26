@@ -1,9 +1,6 @@
 ---
-title: Lowe’s Home Centers to Pay $12.5M Penalty for Lead Paint Violations During
-  Home Renovations
 date: '2025-11-25T12:00:00+00:00'
-source: Department of Justice
-source_url: https://www.justice.gov/opa/pr/lowes-home-centers-pay-125m-penalty-lead-paint-violations-during-home-renovations
+images: []
 original_content: The Justice Department and the Environmental Protection Agency (EPA)
   announced a proposed nationwide settlement with Lowe’s Home Centers LLC — a subsidiary
   of Lowe’s Companies Inc. — to resolve alleged violations of EPA’s Lead Renovation,
@@ -20,12 +17,15 @@ original_markdown_body: The Justice Department and the Environmental Protection 
   2019 and 2021. As part of the settlement, Lowe’s will pay a $12.5 million penalty
   and improve its compliance program for renovations in homes that may contain lead-based
   paint.
+source: Department of Justice
+source_url: https://www.justice.gov/opa/pr/lowes-home-centers-pay-125m-penalty-lead-paint-violations-during-home-renovations
 summarized: true
+title: Lowe’s Home Centers to Pay $12.5M Penalty for Lead Paint Violations During
+  Home Renovations
 topics:
 - Childcare
 - Health Care
 - Mental Health & Counseling
-images: []
 ---
 
 Lowe’s Home Centers LLC has agreed to pay a $12.5 million penalty to settle allegations of violating the EPA’s Lead Renovation, Repair and Painting (RRP) rule. These violations occurred during renovation work conducted by Lowe’s contractors at numerous homes across the U.S. from 2019 to 2021. The settlement mandates that Lowe’s enhance its compliance program to ensure that all renovation work in homes potentially containing lead-based paint is performed by certified contractors trained in lead-safe practices.

@@ -1,8 +1,6 @@
 ---
-title: A Typical Day at Day Camp
 date: '2025-03-19T17:59:56+00:00'
-source: Boys & Girls Clubs of King County
-source_url: https://positiveplace.org/a-typical-day-at-day-camp/
+images: []
 original_content: |-
   <h3>Boys &amp; Girls Clubs Summer Camps help kids grow and have fun by exploring the outdoors, building self-confidence and independence, learning core values, developing life skills, and—most importantly—being active.</h3>
   <h3>Each week, imaginative themes and activities provide an engaging atmosphere for hands-on learning and exploration. While camp is packed with fun activities, we also make sure to supply enough choice time that gives kids the chance to build new friendships or simply hang out with their favorite counselor.</h3>
@@ -84,10 +82,12 @@ original_markdown_body: "### Boys & Girls Clubs Summer Camps help kids grow and 
   us for an unforgettable summer of fun, learning, and adventure at the Boys & Girls
   Clubs of King County!\n\nThe post [A Typical Day at Day Camp](https://positiveplace.org/a-typical-day-at-day-camp/)
   appeared first on [Boys & Girls Clubs](https://positiveplace.org)."
+source: Boys & Girls Clubs of King County
+source_url: https://positiveplace.org/a-typical-day-at-day-camp/
 summarized: true
+title: A Typical Day at Day Camp
 topics:
 - Education & Learning
-images: []
 ---
 
 Boys & Girls Clubs Summer Camps offer children an enriching experience through outdoor exploration, skill development, and active play. Each week features imaginative themes and structured activities that promote hands-on learning and social interaction. A typical day starts at 7:00 am with Arrival and Choice Time, allowing campers to engage in structured free time. At 9:30 am, campers participate in group meetings and icebreakers to foster connections. By 10:00 am, they engage in group outside games designed to enhance teamwork and communication. At 10:45 am, Summer Brain Gain activities, including journaling and math games, keep minds active over the summer. After a lunch break at 11:45 am, the afternoon from 12:30 pm to 4:00 pm is filled with various activities such as water play, crafts, and field trips. The day concludes at 4:00 pm with Extended Camp, allowing for further exploration of interests. This structured yet flexible schedule promotes independence, creativity, and friendships among campers, ensuring a memorable summer experience.

@@ -1,9 +1,6 @@
 ---
-title: Overlake and MultiCare open state-of-the-art neighborhood emergency department
-  in Lynnwood
 date: '2025-10-06T15:00:16+00:00'
-source: MultiCare
-source_url: https://www.multicare.org/newsroom/2025/10/overlake-and-multicare-open-state-of-the-art-neighborhood-emergency-department-in-lynnwood/
+images: []
 original_content: |-
   <p>LYNNWOOD, Wash. — Overlake Medical Center &amp; Clinics and MultiCare Health System are proud to announce the opening of their new, 11,000-square-foot neighborhood emergency department in Lynnwood. Located at 3011 196th St SW, this state-of-the-art facility brings high-quality, 24/7 emergency care closer to home for residents of the north Puget Sound region.</p>
   <p><a href="https://multicareer.org/locations/lynnwood/" target="_blank" rel="noopener external noreferrer" data-wpel-link="external" class="wpel-icon-right">Overlake MultiCare Emergency &#8211; Lynnwood<span class="wpel-icon wpel-image wpel-icon-6"></span></a> comes at a time of rapid regional growth, bringing much-needed access to emergency services in the region.</p>
@@ -32,10 +29,13 @@ original_markdown_body: |-
   Overlake and MultiCare also partnered with [Emerus](https://www.emerus.com/), a national leader in building and operating small-format hospitals and off-campus emergency departments. Emerus is renowned for its commitment to transforming emergency services by designing care around the patient and family allowing them an exceptional patient experience in a cost-efficient manner.
 
   The post [Overlake and MultiCare open state-of-the-art neighborhood emergency department in Lynnwood](https://www.multicare.org/newsroom/2025/10/overlake-and-multicare-open-state-of-the-art-neighborhood-emergency-department-in-lynnwood/) appeared first on [MultiCare](https://www.multicare.org).
+source: MultiCare
+source_url: https://www.multicare.org/newsroom/2025/10/overlake-and-multicare-open-state-of-the-art-neighborhood-emergency-department-in-lynnwood/
 summarized: true
+title: Overlake and MultiCare open state-of-the-art neighborhood emergency department
+  in Lynnwood
 topics:
 - Health Care
-images: []
 ---
 
 Overlake Medical Center & Clinics and MultiCare Health System have opened a new 11,000-square-foot neighborhood emergency department in Lynnwood, Washington. Situated at 3011 196th St SW, this facility provides 24/7 emergency care to residents in the north Puget Sound region, addressing the growing demand for emergency services. The standalone department features 12 exam rooms, on-site radiology, a point-of-care testing lab, and pharmacy services, enabling comprehensive treatment for various emergencies. 

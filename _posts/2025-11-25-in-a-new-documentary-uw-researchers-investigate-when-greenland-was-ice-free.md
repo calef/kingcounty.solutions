@@ -1,8 +1,6 @@
 ---
-title: In a new documentary, UW researchers investigate when Greenland was ice-free
 date: '2025-11-25T19:33:17+00:00'
-source: University of Washington
-source_url: https://www.washington.edu/news/2025/11/25/in-a-new-documentary-uw-researchers-investigate-when-greenland-was-ice-free/
+images: []
 original_content: |-
   <div id="attachment_89951" class="wp-caption aligncenter" style="width: 760px"><img fetchpriority="high" decoding="async" class="size-full-content wp-image-89951" src="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/25105717/Greenland_ice_sheet_USGS-750x496.jpg" alt="A large expanse of ice surrounded by blue water" width="750" height="496" srcset="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/25105717/Greenland_ice_sheet_USGS-750x496.jpg 750w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/25105717/Greenland_ice_sheet_USGS-300x198.jpg 300w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/25105717/Greenland_ice_sheet_USGS-1024x677.jpg 1024w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/25105717/Greenland_ice_sheet_USGS-768x508.jpg 768w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/25105717/Greenland_ice_sheet_USGS-1536x1016.jpg 1536w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/25105717/Greenland_ice_sheet_USGS-375x248.jpg 375w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/25105717/Greenland_ice_sheet_USGS-1140x754.jpg 1140w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/25105717/Greenland_ice_sheet_USGS.jpg 1600w" sizes="(max-width: 750px) 100vw, 750px" /></p>
   <p class="wp-caption-text">The Greenland Ice Sheet from space, taken by a NASA satellite.<a href="https://www.usgs.gov/media/images/greenland-ice-sheet-seen-space"><span class="wp-media-credit">USGS</span></a></span></p>
@@ -110,10 +108,12 @@ original_markdown_body: "![A large expanse of ice surrounded by blue water](http
   when there was less ice, because that is where we are heading. The film captures
   this shift from studying cold periods to studying warm ones.\n\n_For more information,
   contact Steig at_ [_steig@uw.edu_](mailto:steig@uw.edu)_._"
-summarized: true
-topics: []
 published: false
-images: []
+source: University of Washington
+source_url: https://www.washington.edu/news/2025/11/25/in-a-new-documentary-uw-researchers-investigate-when-greenland-was-ice-free/
+summarized: true
+title: In a new documentary, UW researchers investigate when Greenland was ice-free
+topics: []
 ---
 
 In a new documentary titled "The Memory of Darkness, Light and Ice," researchers from the University of Washington explore Greenland's climate history, particularly when parts of the region were ice-free approximately 400,000 years ago. The documentary highlights findings from sediment and ice samples collected during the 1960s at Camp Century, a U.S. military base in Greenland. These samples were rediscovered in 2019, leading to collaborative research aimed at understanding climate change over extended periods.

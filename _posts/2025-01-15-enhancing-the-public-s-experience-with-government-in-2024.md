@@ -1,8 +1,7 @@
 ---
-title: Enhancing the public’s experience with government in 2024
 date: '2025-01-15T17:06:53+00:00'
-source: United States Federal Government
-source_url: https://blog.usa.gov/enhancing-the-publics-experience-with-government-in-2024
+images:
+- 3e1cb5f07d6624bcbf5be58636b5939205df1150014bc2fcc2b5860dd76ab9d8
 original_content: "<div class=\"hs-featured-image-wrapper\"> \n <a href=\"https://blog.usa.gov/enhancing-the-publics-experience-with-government-in-2024\"
   title=\"\" class=\"hs-featured-image-link\"> <img src=\"https://blog.usa.gov/hubfs/Enhancing%20the%20publics%20experience%20with%20government%20in%202024%20DRAFT%201-13.png\"
   alt=\"The title &quot;Enhancing the public’s experience with government in 2024&quot;
@@ -22,11 +21,12 @@ original_markdown_body: |-
   We asked our teams to share the work they were most proud of in 2024:
 
    ![](https://track.hubspot.com/__ptq.gif?a=532040&k=14&r=https%3A%2F%2Fblog.usa.gov%2Fenhancing-the-publics-experience-with-government-in-2024&bu=https%253A%252F%252Fblog.usa.gov&bvt=rss)
+source: United States Federal Government
+source_url: https://blog.usa.gov/enhancing-the-publics-experience-with-government-in-2024
 summarized: true
+title: Enhancing the public’s experience with government in 2024
 topics:
 - Disabilities
-images:
-- 3e1cb5f07d6624bcbf5be58636b5939205df1150014bc2fcc2b5860dd76ab9d8
 ---
 
 The Public Experience (PX) Portfolio focused on improving government services in 2024. Key achievements included supporting the Department of State during global crises, enhancing the USAGov benefits finder tool, and effectively communicating vital information during hurricanes. They launched a new search feature on Search.gov, revamped a scam reporting tool, and implemented backend changes to improve user experience on USA.gov. Additionally, they prioritized accessibility for users with disabilities, achieving a 96.1% accessibility score. These efforts aimed to better connect citizens with government resources and information, setting a foundation for continued improvements in 2025.

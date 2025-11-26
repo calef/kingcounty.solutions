@@ -1,8 +1,6 @@
 ---
-title: An Outside Lens on Community-Based Services
 date: '2025-02-13T21:38:19+00:00'
-source: Encompass
-source_url: https://encompassnw.org/an-outside-lens-on-community-based-services/
+images: []
 original_content: |-
   ![](https://encompassnw.org/wp-content/uploads/2025/02/CBS_square-300x300.png) When a few King County Montessori schools began shutting down during the COVID-19 pandemic, Christine Meredith capitalized on her background in early education and founded Mosaic Montessori. As the mother of a neurodivergent child, she understood the importance of social and educational opportunities for kids and worked to make Mosaic a welcoming space for other children with neurodivergent profiles.
 
@@ -49,11 +47,13 @@ original_content: |-
   **If you are a center provider and would like to learn more about offering Community-Based Services in your program, reach out to** [pediatrictherapy@encompassnw.org](mailto:pediatrictherapy@encompassnw.org).
 
   The post [An Outside Lens on Community-Based Services](https://encompassnw.org/an-outside-lens-on-community-based-services/) first appeared on [Encompass](https://encompassnw.org).
+source: Encompass
+source_url: https://encompassnw.org/an-outside-lens-on-community-based-services/
 summarized: true
+title: An Outside Lens on Community-Based Services
 topics:
 - Disabilities
 - Education & Learning
-images: []
 ---
 
 Christine Meredith, a mother of a neurodivergent child and founder of Mosaic Montessori, partnered with Encompass Child Care Health Consultation (CCHC) to provide support for neurodivergent children. The Encompass Community-Based Services (CBS) program provides therapy services in a child's natural environment and reduces access barriers. Initially starting with two-days-a-week visits, Encompass expanded to four days, with over half of Mosaic's students receiving services. The program fosters collaboration between therapists and educators, leading to personalized support strategies. Benefits of CBS include normalization of therapy and enhanced support for neurodivergent students, making Mosaic Montessori a refuge for many.

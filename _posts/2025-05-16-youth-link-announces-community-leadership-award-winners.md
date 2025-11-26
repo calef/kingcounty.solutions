@@ -1,8 +1,6 @@
 ---
-title: Youth Link announces Community Leadership Award winners
 date: '2025-05-16T23:11:04+00:00'
-source: City of Bellevue
-source_url: https://bellevuewa.gov/city-news/cla-winners-25
+images: []
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Youth
   Link announces Community Leadership Award winners </span>\n<span class=\"field field--name-uid
   field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"
@@ -134,12 +132,14 @@ original_markdown_body: "Youth Link announces Community Leadership Award winners
   is open to the general public with advanced registration. Please [RSVP](https://www.eventbrite.com/e/youth-link-35th-annual-community-leadership-awards-tickets-1218318556599?aff=oddtdtcreator).
   For more event information, please email [youthlink@bellevuewa.gov](mailto:youthlink@bellevuewa.gov).&nbsp;\n\n<time
   datetime=\"2025-05-16T12:00:00Z\" class=\"datetime\">May 16 2025</time>"
+source: City of Bellevue
+source_url: https://bellevuewa.gov/city-news/cla-winners-25
 summarized: true
+title: Youth Link announces Community Leadership Award winners
 topics:
 - Education & Learning
 - Mental Health & Counseling
 - Disabilities
-images: []
 ---
 
 Bellevue Youth Link will host the 35th annual Community Leadership Awards on May 28 from 6-8 p.m. at City Hall to honor children and teens for their contributions to the community. Award categories and winners include:

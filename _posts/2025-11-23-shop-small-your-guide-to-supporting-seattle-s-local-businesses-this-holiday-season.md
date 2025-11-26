@@ -1,14 +1,21 @@
 ---
-title: 'Shop small: Your guide to supporting Seattle’s local businesses this holiday season'
 date: '2025-11-23T17:00:00+00:00'
+images: []
+original_content: Support small businesses this Small Business Saturday Small businesses
+  are what makes Seattle’s economy great. They showcase the creative energy, diverse
+  culture, and entrepreneurial drive that makes our city one of a kind. Small Business
+  Saturday, and...
+original_markdown_body: Support small businesses this Small Business Saturday Small
+  businesses are what makes Seattle’s economy great. They showcase the creative energy,
+  diverse culture, and entrepreneurial drive that makes our city one of a kind. Small
+  Business Saturday, and...
+published: false
 source: City of Seattle
 source_url: https://bottomline.seattle.gov/2025/11/23/shop-small-your-guide-to-supporting-seattles-local-businesses-this-holiday-season/
-original_content: Support small businesses this Small Business Saturday Small businesses are what makes Seattle’s economy great. They showcase the creative energy, diverse culture, and entrepreneurial drive that makes our city one of a kind. Small Business Saturday, and...
-original_markdown_body: Support small businesses this Small Business Saturday Small businesses are what makes Seattle’s economy great. They showcase the creative energy, diverse culture, and entrepreneurial drive that makes our city one of a kind. Small Business Saturday, and...
 summarized: true
+title: 'Shop small: Your guide to supporting Seattle’s local businesses this holiday
+  season'
 topics: []
-published: false
-images: []
 ---
 
 Support Seattle's small businesses this holiday season by participating in Small Business Saturday on November 29. Established in 2010, this day encourages shoppers to visit local shops and restaurants, celebrating the unique contributions of small businesses to the community and economy. For every $100 spent at a local business, an estimated $48 is reinvested in the community, generating significant local wealth.

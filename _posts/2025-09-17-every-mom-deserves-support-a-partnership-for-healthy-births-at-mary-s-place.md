@@ -1,8 +1,7 @@
 ---
-title: 'every mom deserves support: a partnership for healthy births at mary’s place'
 date: '2025-09-17T23:31:06+00:00'
-source: Mary's Place
-source_url: https://www.marysplaceseattle.org/blog/every-mom-deserves-support-a-partnership-for-healthy-births-at-marys-place
+images:
+- cb5a9635dead2951c8347a6061e3224ed5fc8bd2b7f8aa37e219f4473ec3cdb1
 original_content: "<p class=\"\">Pregnancy and childbirth can be both beautiful and
   challenging—especially for women experiencing homelessness, language barriers, or
   cultural isolation. That’s why our partnership with&nbsp;<a href=\"https://www.ayanmaternitylove.org/\"
@@ -107,14 +106,15 @@ original_markdown_body: "Pregnancy and childbirth can be both beautiful and chal
   Maternity Healthcare Support for standing beside our families and working with us
   to ensure that every mother has the chance for a safe, supported, and healthy birth.\n\n####
   **check out or Mary’s Place moment with Ayan!** \n//www.youtube.com/embed/mmFN3HZFnp0?wmode=opaque"
+source: Mary's Place
+source_url: https://www.marysplaceseattle.org/blog/every-mom-deserves-support-a-partnership-for-healthy-births-at-marys-place
 summarized: true
+title: 'every mom deserves support: a partnership for healthy births at mary’s place'
 topics:
 - Health Care
 - Mental Health & Counseling
 - Childcare
 - Senior Services
-images:
-- cb5a9635dead2951c8347a6061e3224ed5fc8bd2b7f8aa37e219f4473ec3cdb1
 ---
 
 Mary's Place has partnered with Ayan Maternity Healthcare Support, founded by Ayan Abdulahi, to provide essential support for pregnant women, particularly those facing homelessness, language barriers, or cultural isolation. Ayan, a dedicated doula with nearly 30 years of experience, aims to ensure that every woman receives the guidance and care she deserves throughout pregnancy, childbirth, and postpartum. Doulas offer emotional support, education, and advocacy, acting as trusted partners for mothers.

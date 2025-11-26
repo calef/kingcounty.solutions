@@ -1,13 +1,62 @@
 ---
-title: Reimagining Committee – Second Listening Session
 date: '2025-10-04T18:17:09+00:00'
+images: []
+original_content: "<section class=\"elementor-section elementor-top-section elementor-element
+  elementor-element-a3ed10d ang-section-padding-no elementor-section-boxed elementor-section-height-default
+  elementor-section-height-default elementor-repeater-item-none elementor-repeater-item-none_hover\"
+  data-id=\"a3ed10d\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container
+  elementor-column-gap-no\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100
+  elementor-top-column elementor-element elementor-element-cb277d2 elementor-repeater-item-none
+  elementor-repeater-item-none_hover\" data-id=\"cb277d2\" data-element_type=\"column\">\n\t\t\t<div
+  class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element
+  elementor-element-ae99130 external_elementor-repeater-item-none_external elementor-repeater-item-none
+  elementor-repeater-item-none_hover elementor-widget elementor-widget-image\" data-id=\"ae99130\"
+  data-element_type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img
+  fetchpriority=\"high\" decoding=\"async\" width=\"791\" height=\"1024\" src=\"https://redmondumc.org/wp-content/uploads/2025/10/1-791x1024.png\"
+  class=\"attachment-large size-large wp-image-6251\" alt=\"\" srcset=\"https://redmondumc.org/wp-content/uploads/2025/10/1-791x1024.png
+  791w, https://redmondumc.org/wp-content/uploads/2025/10/1-232x300.png 232w, https://redmondumc.org/wp-content/uploads/2025/10/1-768x994.png
+  768w, https://redmondumc.org/wp-content/uploads/2025/10/1-1187x1536.png 1187w, https://redmondumc.org/wp-content/uploads/2025/10/1.png
+  1545w\" sizes=\"(max-width: 791px) 100vw, 791px\"> </div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section><section
+  class=\"elementor-section elementor-top-section elementor-element elementor-element-a5a3a7c
+  ang-section-padding-no elementor-section-boxed elementor-section-height-default
+  elementor-section-height-default elementor-repeater-item-none elementor-repeater-item-none_hover\"
+  data-id=\"a5a3a7c\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container
+  elementor-column-gap-no\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100
+  elementor-top-column elementor-element elementor-element-e8e06cf elementor-repeater-item-none
+  elementor-repeater-item-none_hover\" data-id=\"e8e06cf\" data-element_type=\"column\">\n\t\t\t<div
+  class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element
+  elementor-element-9e43526 external_elementor-repeater-item-none_external elementor-repeater-item-none
+  elementor-repeater-item-none_hover elementor-widget elementor-widget-image\" data-id=\"9e43526\"
+  data-element_type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img
+  decoding=\"async\" width=\"791\" height=\"1024\" src=\"https://redmondumc.org/wp-content/uploads/2025/10/2-791x1024.png\"
+  class=\"attachment-large size-large wp-image-6252\" alt=\"\" srcset=\"https://redmondumc.org/wp-content/uploads/2025/10/2-791x1024.png
+  791w, https://redmondumc.org/wp-content/uploads/2025/10/2-232x300.png 232w, https://redmondumc.org/wp-content/uploads/2025/10/2-768x994.png
+  768w, https://redmondumc.org/wp-content/uploads/2025/10/2-1187x1536.png 1187w, https://redmondumc.org/wp-content/uploads/2025/10/2.png
+  1545w\" sizes=\"(max-width: 791px) 100vw, 791px\"> </div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section><section
+  class=\"elementor-section elementor-top-section elementor-element elementor-element-3fbec00
+  ang-section-padding-no elementor-section-boxed elementor-section-height-default
+  elementor-section-height-default elementor-repeater-item-none elementor-repeater-item-none_hover\"
+  data-id=\"3fbec00\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container
+  elementor-column-gap-no\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100
+  elementor-top-column elementor-element elementor-element-c6380a8 elementor-repeater-item-none
+  elementor-repeater-item-none_hover\" data-id=\"c6380a8\" data-element_type=\"column\">\n\t\t\t<div
+  class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element
+  elementor-element-f9625a7 external_elementor-repeater-item-none_external elementor-repeater-item-none
+  elementor-repeater-item-none_hover elementor-widget elementor-widget-image\" data-id=\"f9625a7\"
+  data-element_type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img
+  decoding=\"async\" width=\"791\" height=\"1024\" src=\"https://redmondumc.org/wp-content/uploads/2025/10/3-791x1024.png\"
+  class=\"attachment-large size-large wp-image-6253\" alt=\"\" srcset=\"https://redmondumc.org/wp-content/uploads/2025/10/3-791x1024.png
+  791w, https://redmondumc.org/wp-content/uploads/2025/10/3-232x300.png 232w, https://redmondumc.org/wp-content/uploads/2025/10/3-768x994.png
+  768w, https://redmondumc.org/wp-content/uploads/2025/10/3-1187x1536.png 1187w, https://redmondumc.org/wp-content/uploads/2025/10/3.png
+  1545w\" sizes=\"(max-width: 791px) 100vw, 791px\"> </div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>\n\nThe
+  post [Reimagining Committee – Second Listening Session](https://redmondumc.org/reimagining-committee-second-listening-session/)
+  appeared first on [Redmond United Methodist Church](https://redmondumc.org)."
+published: false
 source: Redmond United Methodist Church - Social Ministries
 source_url: https://redmondumc.org/reimagining-committee-second-listening-session/
-original_content: "<section class=\"elementor-section elementor-top-section elementor-element elementor-element-a3ed10d ang-section-padding-no elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-repeater-item-none elementor-repeater-item-none_hover\" data-id=\"a3ed10d\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-no\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-cb277d2 elementor-repeater-item-none elementor-repeater-item-none_hover\" data-id=\"cb277d2\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-ae99130 external_elementor-repeater-item-none_external elementor-repeater-item-none elementor-repeater-item-none_hover elementor-widget elementor-widget-image\" data-id=\"ae99130\" data-element_type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img fetchpriority=\"high\" decoding=\"async\" width=\"791\" height=\"1024\" src=\"https://redmondumc.org/wp-content/uploads/2025/10/1-791x1024.png\" class=\"attachment-large size-large wp-image-6251\" alt=\"\" srcset=\"https://redmondumc.org/wp-content/uploads/2025/10/1-791x1024.png 791w, https://redmondumc.org/wp-content/uploads/2025/10/1-232x300.png 232w, https://redmondumc.org/wp-content/uploads/2025/10/1-768x994.png 768w, https://redmondumc.org/wp-content/uploads/2025/10/1-1187x1536.png 1187w, https://redmondumc.org/wp-content/uploads/2025/10/1.png 1545w\" sizes=\"(max-width: 791px) 100vw, 791px\"> </div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section><section class=\"elementor-section elementor-top-section elementor-element elementor-element-a5a3a7c ang-section-padding-no elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-repeater-item-none elementor-repeater-item-none_hover\" data-id=\"a5a3a7c\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-no\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-e8e06cf elementor-repeater-item-none elementor-repeater-item-none_hover\" data-id=\"e8e06cf\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-9e43526 external_elementor-repeater-item-none_external elementor-repeater-item-none elementor-repeater-item-none_hover elementor-widget elementor-widget-image\" data-id=\"9e43526\" data-element_type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img decoding=\"async\" width=\"791\" height=\"1024\" src=\"https://redmondumc.org/wp-content/uploads/2025/10/2-791x1024.png\" class=\"attachment-large size-large wp-image-6252\" alt=\"\" srcset=\"https://redmondumc.org/wp-content/uploads/2025/10/2-791x1024.png 791w, https://redmondumc.org/wp-content/uploads/2025/10/2-232x300.png 232w, https://redmondumc.org/wp-content/uploads/2025/10/2-768x994.png 768w, https://redmondumc.org/wp-content/uploads/2025/10/2-1187x1536.png 1187w, https://redmondumc.org/wp-content/uploads/2025/10/2.png 1545w\" sizes=\"(max-width: 791px) 100vw, 791px\"> </div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section><section class=\"elementor-section elementor-top-section elementor-element elementor-element-3fbec00 ang-section-padding-no elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-repeater-item-none elementor-repeater-item-none_hover\" data-id=\"3fbec00\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container elementor-column-gap-no\">\n\t\t\t\t\t<div class=\"elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-c6380a8 elementor-repeater-item-none elementor-repeater-item-none_hover\" data-id=\"c6380a8\" data-element_type=\"column\">\n\t\t\t<div class=\"elementor-widget-wrap elementor-element-populated\">\n\t\t\t\t\t\t<div class=\"elementor-element elementor-element-f9625a7 external_elementor-repeater-item-none_external elementor-repeater-item-none elementor-repeater-item-none_hover elementor-widget elementor-widget-image\" data-id=\"f9625a7\" data-element_type=\"widget\" data-widget_type=\"image.default\">\n\t\t\t\t<div class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t<img decoding=\"async\" width=\"791\" height=\"1024\" src=\"https://redmondumc.org/wp-content/uploads/2025/10/3-791x1024.png\" class=\"attachment-large size-large wp-image-6253\" alt=\"\" srcset=\"https://redmondumc.org/wp-content/uploads/2025/10/3-791x1024.png 791w, https://redmondumc.org/wp-content/uploads/2025/10/3-232x300.png 232w, https://redmondumc.org/wp-content/uploads/2025/10/3-768x994.png 768w, https://redmondumc.org/wp-content/uploads/2025/10/3-1187x1536.png 1187w, https://redmondumc.org/wp-content/uploads/2025/10/3.png 1545w\" sizes=\"(max-width: 791px) 100vw, 791px\"> </div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>\n\nThe post [Reimagining Committee – Second Listening Session](https://redmondumc.org/reimagining-committee-second-listening-session/) appeared first on [Redmond United Methodist Church](https://redmondumc.org)."
 summarized: true
+title: Reimagining Committee – Second Listening Session
 topics: []
-published: false
-images: []
 ---
 
 Unfortunately, the provided article does not contain enough information to create a summary. The text mainly consists of titles and dates for past and future presentations by the Reimagining Committee at Redmond United Methodist Church, without any elaboration or description of the events or the committee's work. Relevant information such as the content of the presentations, the objectives, or the outcomes of the listening sessions are not provided.

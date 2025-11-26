@@ -1,8 +1,6 @@
 ---
-title: How To Practice Self-Care During the Holidays
 date: '2025-11-10T21:24:00+00:00'
-source: Talkspace Free Online Therapy for Seattle Youth
-source_url: https://www.talkspace.com/blog/holiday-self-care/
+images: []
 original_content: |-
   <div class="is-layout-constrained wp-block-group"><div class="wp-block-group__inner-container">
   <p>While the holidays can be a time of joy, celebration, and togetherness, they can also feel stressful, overwhelming, or lonely. You might be dealing with packed schedules, financial pressure, or family tensions that can negatively impact your well-being during the holidays.&nbsp;</p>
@@ -412,11 +410,13 @@ original_markdown_body: "While the holidays can be a time of joy, celebration, a
   _Br J Sports Med_. 2023;57:1203-1209. doi:10.1136/bjsports-2022-106195 [https://bjsm.bmj.com/content/57/18/1203](https://bjsm.bmj.com/content/57/18/1203)\n\nThe
   post [How To Practice Self-Care During the Holidays](https://www.talkspace.com/blog/holiday-self-care/)
   appeared first on [Talkspace](https://www.talkspace.com/blog)."
+source: Talkspace Free Online Therapy for Seattle Youth
+source_url: https://www.talkspace.com/blog/holiday-self-care/
 summarized: true
+title: How To Practice Self-Care During the Holidays
 topics:
 - Mental Health & Counseling
 - Food & Nutrition
-images: []
 ---
 
 While the holidays can bring joy and togetherness, they may also lead to stress, loneliness, and anxiety. To maintain mental health during this busy season, practicing self-care is essential. Simple, intentional actions can help manage stress and enhance enjoyment of the holidays. 

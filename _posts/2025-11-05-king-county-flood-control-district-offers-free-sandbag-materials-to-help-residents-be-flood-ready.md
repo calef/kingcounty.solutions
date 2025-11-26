@@ -1,8 +1,6 @@
 ---
-title: King County Flood Control District Offers Free Sandbag Materials to Help Residents “Be Flood Ready”
 date: '2025-11-05T22:21:27+00:00'
-source: King County Flood Control District
-source_url: https://kingcountyfloodcontrol.org/king-county-flood-control-district-offers-free-sandbag-materials-to-help-residents-be-flood-ready/?utm_source=rss&utm_medium=rss&utm_campaign=king-county-flood-control-district-offers-free-sandbag-materials-to-help-residents-be-flood-ready
+images: []
 original_content: |-
   Flood season is here, and the King County Flood Control District (District) is reminding residents that sandbag materials are available **free of charge** to help protect homes, businesses, and property from potential flooding. This program is part of the District’s ongoing commitment to help residents prepare, respond, and recover from flood events as part of its **Be Flood Ready** campaign.
 
@@ -30,10 +28,13 @@ original_content: |-
   The District encourages all residents to review their flood risk and make a preparedness plan. Resources include information about flood alerts, insurance, evacuation routes, and floodplain maps, all available on the District’s [Flood Resources page](https://kingcountyfloodcontrol.org/flood-resources/).
 
   The post [King County Flood Control District Offers Free Sandbag Materials to Help Residents “Be Flood Ready”](https://kingcountyfloodcontrol.org/king-county-flood-control-district-offers-free-sandbag-materials-to-help-residents-be-flood-ready/) appeared first on [King County Flood Control District](https://kingcountyfloodcontrol.org).
-summarized: true
-topics: []
 published: false
-images: []
+source: King County Flood Control District
+source_url: https://kingcountyfloodcontrol.org/king-county-flood-control-district-offers-free-sandbag-materials-to-help-residents-be-flood-ready/?utm_source=rss&utm_medium=rss&utm_campaign=king-county-flood-control-district-offers-free-sandbag-materials-to-help-residents-be-flood-ready
+summarized: true
+title: King County Flood Control District Offers Free Sandbag Materials to Help Residents
+  “Be Flood Ready”
+topics: []
 ---
 
 The King County Flood Control District is providing free sandbag materials to help residents protect their properties from potential flooding. This initiative is part of the District's 'Be Flood Ready' campaign. The materials are available at various locations across the county, particularly in flood-prone areas along the Snoqualmie, Tolt, Green, Cedar, and Duwamish rivers. The District also encourages residents to be prepared for flood risks, especially near the Duwamish River where high tides can amplify flood threats. Residents are urged to utilize the free sandbag program and make a preparedness plan. The District provides resources on flood alerts, insurance, evacuation routes, and floodplain maps on its website.

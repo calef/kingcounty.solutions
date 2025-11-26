@@ -1,8 +1,6 @@
 ---
-title: 'Council Roundup: Grand Connection approaches new milestones'
 date: '2025-07-25T23:55:05+00:00'
-source: City of Bellevue
-source_url: https://bellevuewa.gov/city-news/council-roundup-7-22-25
+images: []
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Council
   Roundup: Grand Connection approaches new milestones</span>\n<span class=\"field
   field--name-uid field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"
@@ -138,10 +136,12 @@ original_markdown_body: |-
   _ **The council does not meet on the fifth Tuesday of a month, so no meeting is scheduled for July 29. The council's next meeting is Monday, Aug. 4.** _
 
   <time datetime="2025-07-25T12:00:00Z" class="datetime">July 25 2025</time>
-summarized: true
-topics: []
 published: false
-images: []
+source: City of Bellevue
+source_url: https://bellevuewa.gov/city-news/council-roundup-7-22-25
+summarized: true
+title: 'Council Roundup: Grand Connection approaches new milestones'
+topics: []
 ---
 
 The Bellevue City Council provided updates on several initiatives during its recent meeting. Key developments include the Grand Connection program, aimed at enhancing the pedestrian experience in downtown Bellevue. The city has established the Office of the Grand Connection for better coordination and will seek state approval for the Grand Connection Crossing over Interstate 405, employing a construction management method to keep the project within scope and budget.

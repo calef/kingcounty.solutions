@@ -1,8 +1,6 @@
 ---
-title: what really works to prevent family homelessness?
 date: '2025-06-02T23:12:00+00:00'
-source: Mary's Place
-source_url: https://www.marysplaceseattle.org/blog/7lket1cvbq07j2j4es4f8vwufa92km
+images: []
 original_content: "<p class=\"\">At Mary’s Place, we believe that no child should
   sleep outside, and every child deserves a warm bed, a stable home, and a chance
   to thrive. We have committed to a three-pronged approach of&nbsp;emergency shelter,&nbsp;mobile
@@ -259,12 +257,14 @@ original_markdown_body: "At Mary’s Place, we believe that no child should slee
   to support mary's place](https://give.marysplaceseattle.org/campaign/673342/donate?utm_source=website&utm_medium=blog&utm_campaign=blogs-public&c_src=blogs-public&c_src2=blog)\n*
   * *\n\n**Want to hear more from Chad, Miriam, and David? Check out their full panel
   discussion from September 2024:**\n\n//www.youtube.com/embed/sPmD7ozURk0?wmode=opaque"
+source: Mary's Place
+source_url: https://www.marysplaceseattle.org/blog/7lket1cvbq07j2j4es4f8vwufa92km
 summarized: true
+title: what really works to prevent family homelessness?
 topics:
 - Shelter & Housing
 - Financial Assistance
 - Childcare
-images: []
 ---
 
 Mary's Place is dedicated to preventing family homelessness in King County, where the crisis has reached alarming levels. Their strategy includes emergency shelter, mobile outreach, and a strong focus on prevention. With family shelters filled to capacity, they receive 50-60 calls daily from families in need, but can only accommodate a fraction. The organization has been inspired by a successful model from Santa Clara County, which integrated 20 nonprofits to provide flexible, needs-based financial assistance. Since implementing their system, 93% of those helped have remained stably housed.

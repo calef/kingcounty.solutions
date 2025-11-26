@@ -1,17 +1,17 @@
 ---
-title: Lorna’s Blog
 date: '2025-10-16T17:21:04+00:00'
-source: King County Sexual Assault Resource Center
-source_url: https://www.kcsarc.org/en/lornas-blog-2/
+images: []
 original_content: <p>The post <a href="https://www.kcsarc.org/en/lornas-blog-2/">Lorna&#8217;s
   Blog</a> appeared first on <a href="https://www.kcsarc.org/en/">KCSARC</a>.</p>
 original_markdown_body: The post [Lorna’s Blog](https://www.kcsarc.org/en/lornas-blog-2/)
   appeared first on [KCSARC](https://www.kcsarc.org/en/).
+source: King County Sexual Assault Resource Center
+source_url: https://www.kcsarc.org/en/lornas-blog-2/
 summarized: true
+title: Lorna’s Blog
 topics:
 - Domestic Violence
 - Mental Health & Counseling
-images: []
 ---
 
 Life can be particularly challenging for those who have experienced sexual assault, leading many to seek safety in withdrawal and isolation. An author recounts her childhood, marked by abuse from family members, which instilled a deep sense of fear and mistrust. This isolation was a coping mechanism, yet it ultimately trapped her in loneliness and despair, affecting her relationships and enjoyment of life. The author emphasizes that such feelings are common among survivors, who often perceive judgment from others and remain haunted by their trauma.

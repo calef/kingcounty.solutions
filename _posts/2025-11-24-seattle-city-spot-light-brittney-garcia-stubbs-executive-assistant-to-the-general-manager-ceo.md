@@ -1,14 +1,21 @@
 ---
-title: 'Seattle City (spot)Light: Brittney Garcia Stubbs, Executive Assistant to the General Manager & CEO'
 date: '2025-11-24T17:00:00+00:00'
+images: []
+original_content: 'The Basics Division: Office of the General Manager How long have
+  you been at City Light? Since August 2024 Tell us about your role. I do any and
+  all things for the office of our General Manager &#038; CEO Dawn Lindell! This includes
+  the basics like sche...'
+original_markdown_body: 'The Basics Division: Office of the General Manager How long
+  have you been at City Light? Since August 2024 Tell us about your role. I do any
+  and all things for the office of our General Manager & CEO Dawn Lindell! This includes
+  the basics like sche...'
+published: false
 source: City of Seattle
 source_url: https://powerlines.seattle.gov/2025/11/24/seattle-city-spotlight-brittney-garcia-stubbs-executive-assistant-to-the-general-manager-ceo/
-original_content: 'The Basics Division: Office of the General Manager How long have you been at City Light? Since August 2024 Tell us about your role. I do any and all things for the office of our General Manager &#038; CEO Dawn Lindell! This includes the basics like sche...'
-original_markdown_body: 'The Basics Division: Office of the General Manager How long have you been at City Light? Since August 2024 Tell us about your role. I do any and all things for the office of our General Manager & CEO Dawn Lindell! This includes the basics like sche...'
 summarized: true
+title: 'Seattle City (spot)Light: Brittney Garcia Stubbs, Executive Assistant to the
+  General Manager & CEO'
 topics: []
-published: false
-images: []
 ---
 
 Brittney Garcia Stubbs serves as the Executive Assistant to the General Manager and CEO of Seattle City Light, a role she has held since August 2024. Her responsibilities encompass a wide range of tasks, including scheduling, travel arrangements, and document management, while also facilitating collaboration with the Executive and Leadership Teams to address significant challenges and develop forward-thinking solutions. She coordinates efforts with various Seattle City Light Business Units, the Mayor’s Office, City Council, and other city departments, reflecting the dynamic nature of her role.

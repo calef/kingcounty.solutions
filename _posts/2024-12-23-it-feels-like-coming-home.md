@@ -1,8 +1,6 @@
 ---
-title: It feels like coming home
 date: '2024-12-23T19:46:21+00:00'
-source: Compass Housing Alliance
-source_url: https://www.compasshousingalliance.org/2024/12/it-feels-like-coming-home/
+images: []
 original_content: |-
   <p>My name is Christopher Ross, and it is my honor to serve as the president of Compass Housing Alliance. Having served on Compass’s board from 2016 to 2017 and as Chief Operating Officer from 2019 to 2021, I feel a deep connection to Compass.</p>
 
@@ -108,11 +106,13 @@ original_markdown_body: |-
   Please consider giving today.
 
   The post [It feels like coming home](https://www.compasshousingalliance.org/2024/12/it-feels-like-coming-home/) appeared first on [Compass Housing Alliance](https://www.compasshousingalliance.org).
+source: Compass Housing Alliance
+source_url: https://www.compasshousingalliance.org/2024/12/it-feels-like-coming-home/
 summarized: true
+title: It feels like coming home
 topics:
 - Shelter & Housing
 - Financial Assistance
-images: []
 ---
 
 Christopher Ross has returned to Compass Housing Alliance as president, emphasizing a deep commitment to the organization's mission of supporting vulnerable communities. With a history of serving on the board and as Chief Operating Officer, Ross recognizes the critical need for emergency services and affordable housing amid evolving societal challenges. Compass has provided essential support for over a century, guided by core values of love, compassion, advocacy, and community.

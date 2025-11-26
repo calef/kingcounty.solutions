@@ -1,8 +1,6 @@
 ---
-title: November 2025 Newsletter
 date: '2025-11-14T22:36:00+00:00'
-source: CarePoint Clinic
-source_url: https://www.carepointonline.org/news/cjs3nmb1sgjnwig08hd5u4peh0zwnw-j4cj8-bpmhr-k43fa-7a5ma-swlke-2g5kz-k9c5t-jz292-yg2ex-cz466
+images: []
 original_content: "<figure class=\"\n              sqs-block-image-figure\n              intrinsic\n
   \           \"\n        >\n          \n        \n        \n\n        \n          <a
   class=\"\n                sqs-block-image-link\n                \n          \n        \n
@@ -29,10 +27,12 @@ original_markdown_body: |-
   [![](https://images.squarespace-cdn.com/content/v1/65c1886a315e4b1ef7f00c6a/7211414a-8bc0-44fa-a75e-418eeaf08bdf/November+2025+Newsletter?format=1000w)](https://carepointclinic.dm.networkforgood.com/emails/4296363?recipient_id=gKmitG8yqD88wZ7BRslDrA||ZGVzaXJlZXN3YW5zb25AZ21haWwuY29t)
 
   Be sure to take a peek at the November 2025 newsletter [HERE!](https://carepointclinic.dm.networkforgood.com/emails/4296363?recipient_id=gKmitG8yqD88wZ7BRslDrA||ZGVzaXJlZXN3YW5zb25AZ21haWwuY29t)
-summarized: true
-topics: []
 published: false
-images: []
+source: CarePoint Clinic
+source_url: https://www.carepointonline.org/news/cjs3nmb1sgjnwig08hd5u4peh0zwnw-j4cj8-bpmhr-k43fa-7a5ma-swlke-2g5kz-k9c5t-jz292-yg2ex-cz466
+summarized: true
+title: November 2025 Newsletter
+topics: []
 ---
 
 The November 2025 newsletter has been released, written by Desiree Swanson. Readers are encouraged to take a look at the latest updates and information included in this edition. Additionally, a CarePoint Blood Drive is scheduled for December 3, 2025. The newsletter serves as a valuable resource for the community, providing insights into ongoing initiatives and events.

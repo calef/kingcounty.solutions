@@ -1,8 +1,6 @@
 ---
-title: 'Your Education Visit: What to Know!'
 date: '2025-03-19T17:06:48+00:00'
-source: Boyer Children's Clinic
-source_url: https://www.boyercc.org/general/ed-visit/
+images: []
 original_content: "<div  class=\"wpb_row vc_row vc_row-fluid  mk-fullwidth-false  attched-false
   \    js-master-row \">\n\t\t\n\t\t\t\n<div style=\"\" class=\"vc_col-sm-12 wpb_column
   column_container  _ height-full\">\n\t<h4 style=\"text-align: center\" class=\"vc_custom_heading
@@ -78,10 +76,12 @@ original_markdown_body: "#### \n\n**Often, education services look like play!** 
   to Know!](https://www.boyercc.org/general/ed-visit/) first appeared on [Boyer Children's
   Clinic](https://www.boyercc.org).\n\nThe post [Your Education Visit: What to Know!](https://www.boyercc.org/general/ed-visit/)
   appeared first on [Boyer Children's Clinic](https://www.boyercc.org)."
+source: Boyer Children's Clinic
+source_url: https://www.boyercc.org/general/ed-visit/
 summarized: true
+title: 'Your Education Visit: What to Know!'
 topics:
 - Education & Learning
-images: []
 ---
 
 Your education visit focuses on engaging with children through play, which is essential for their learning. During the visit, there is no need for special toys; any home items that interest the child can be used. At the conclusion, goals may be established for future visits, and parents will receive advice on how to support their child's progress at home.

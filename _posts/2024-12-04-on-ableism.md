@@ -1,8 +1,6 @@
 ---
-title: On Ableism
 date: '2024-12-04T17:52:56+00:00'
-source: The Deaf Hotline
-source_url: https://www.thedeafhotline.org/blog/on-ableism/
+images: []
 original_content: |-
   <p>We are aware that the world is inherently ableist because it was not designed with people with disabilities in mind. Ableism is rooted in the assumption that disabled people require “fixing” and defines people by their disability.  What can ableism look like? It can take many forms. Here are few examples of what ableism can look like in different ways.  </p>
 
@@ -55,11 +53,13 @@ original_markdown_body: |-
   Older people with disabilities also deal with ageism on top of ableism, which can keep them from joining in important decisions in these organizations.&nbsp;
 
   Be kind to others.&nbsp;&nbsp;
+source: The Deaf Hotline
+source_url: https://www.thedeafhotline.org/blog/on-ableism/
 summarized: true
+title: On Ableism
 topics:
 - Disabilities
 - Education & Learning
-images: []
 ---
 
 Ableism pervades society, as the world is largely designed without consideration for people with disabilities. It stems from the belief that disabled individuals need to be "fixed" and often reduces them to their disabilities. Various forms of ableism exist: 

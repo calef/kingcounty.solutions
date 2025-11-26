@@ -1,8 +1,7 @@
 ---
-title: From Car to Home
 date: '2025-03-27T19:27:17+00:00'
-source: Atlantic Street Center
-source_url: https://atlanticstreetcenter.org/2025/03/27/from-car-to-home/?utm_source=rss&utm_medium=rss&utm_campaign=from-car-to-home
+images:
+- b0a2d5d81ee9a282abd75c05f3c3f0d3a611c9efb3268c73374619cc0a4e387a
 original_content: "<div data-elementor-type=\"wp-post\" data-elementor-id=\"8606\"
   class=\"elementor elementor-8606\">\n\t\t\t\t<div class=\"elementor-element elementor-element-cf0b25e
   e-con-full e-flex e-con e-parent\" data-id=\"cf0b25e\" data-element_type=\"container\">\n\t\t\t\t<div
@@ -69,12 +68,13 @@ original_markdown_body: |-
   _If you, or someone you know, is in need of support due to gender-based violence, contact our team GBV Advocate at (206) 637-6967, or via&nbsp;[email](https://atlanticstreetcenter.org/blog-post/from-car-to-home/DV@atlanticstreet.org). Para servicios en español, por favor llame a (206) 349-6197. Visit our Gender-Based Violence Support&nbsp;[webpage here](https://atlanticstreetcenter.org/programs/gender-based-violence/)._
 
   [Learn More About Gender-Based Violence](https://atlanticstreetcenter.org/programs/gender-based-violence/)
+source: Atlantic Street Center
+source_url: https://atlanticstreetcenter.org/2025/03/27/from-car-to-home/?utm_source=rss&utm_medium=rss&utm_campaign=from-car-to-home
 summarized: true
+title: From Car to Home
 topics:
 - Domestic Violence
 - Shelter & Housing
-images:
-- b0a2d5d81ee9a282abd75c05f3c3f0d3a611c9efb3268c73374619cc0a4e387a
 ---
 
 On average, victims of domestic violence attempt to leave their abusive situations seven times before succeeding. After escaping violence, many face new challenges, including living conditions. One participant from the Atlantic Street Center found herself living in her car due to a low credit score, which deterred landlords from renting to her. The harsh reality for many is choosing homelessness over staying with an abuser, as shelters often have long waiting lists and may not provide long-term support.

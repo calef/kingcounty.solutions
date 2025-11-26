@@ -1,8 +1,6 @@
 ---
-title: 'Staff Spotlight: Meet Our Incredible Cancer Services Team'
 date: '2025-01-07T21:53:44+00:00'
-source: Hospital District No. 1 (Valley Medical Center)
-source_url: https://blog.valleymed.org/2025/01/07/staff-spotlight-meet-our-incredible-cancer-services-team/?utm_source=rss&utm_medium=rss&utm_campaign=staff-spotlight-meet-our-incredible-cancer-services-team
+images: []
 original_content: |-
   <p><img width="300" height="188" src="https://blog.valleymed.org/wp-content/uploads/2025/01/Cancer-Center-Team-blog-300x188.jpg" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://blog.valleymed.org/wp-content/uploads/2025/01/Cancer-Center-Team-blog-300x188.jpg 300w, https://blog.valleymed.org/wp-content/uploads/2025/01/Cancer-Center-Team-blog-768x480.jpg 768w, https://blog.valleymed.org/wp-content/uploads/2025/01/Cancer-Center-Team-blog-600x375.jpg 600w, https://blog.valleymed.org/wp-content/uploads/2025/01/Cancer-Center-Team-blog.jpg 800w" sizes="auto, (max-width: 300px) 100vw, 300px" /></p>
   <p>At Valley Medical Center, we pride ourselves on providing something extra with the care you receive. Our mission is to care for our community like family, and our staff truly lives by it. In the world of cancer care, with high stakes diagnoses and a rollercoaster of emotions, the extra heart you receive from your caregivers is more important than ever.</p>
@@ -211,12 +209,14 @@ original_markdown_body: "![](https://blog.valleymed.org/wp-content/uploads/2025/
   above: Members of the Cancer Services team during the Skybreaking event in December
   2023._\n\n## To hear more from our amazing Cancer Services team, we invite you to
   watch this video spotlight from 2022:\n\nhttps://www.youtube.com/embed/j6HF4VzhRP4?feature=oembed"
+source: Hospital District No. 1 (Valley Medical Center)
+source_url: https://blog.valleymed.org/2025/01/07/staff-spotlight-meet-our-incredible-cancer-services-team/?utm_source=rss&utm_medium=rss&utm_campaign=staff-spotlight-meet-our-incredible-cancer-services-team
 summarized: true
+title: 'Staff Spotlight: Meet Our Incredible Cancer Services Team'
 topics:
 - Health Care
 - Mental Health & Counseling
 - Financial Assistance
-images: []
 ---
 
 At Valley Medical Center, the Cancer Services team exemplifies a commitment to compassionate care, treating patients like family during their challenging journeys. Chermaine Wulff, the Infusion Center Manager, praises the team's dedication and expresses excitement for the future as they expand their capacity to help more patients. Staff members share their motivations for working in oncology, highlighting the importance of building long-term relationships with patients and navigating financial barriers to treatment. They emphasize that the team's strong bond and collective passion enhance patient care, creating a supportive and comforting environment.

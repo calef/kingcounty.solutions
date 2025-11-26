@@ -1,8 +1,7 @@
 ---
-title: 'A Letter From Our Founder: Remebering Rory Dunn'
 date: '2025-04-24T16:21:34+00:00'
-source: Everyone for Veterans
-source_url: https://www.everyoneforveterans.org/blog/a-letter-from-our-founder-remebering-rory-dunn
+images:
+- c30c392e3b7fd31941c323a865ad01dbd107adb73a6e251ed45c20fc7a3949f2
 original_content: '<div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
   <a> <img src="https://www.everyoneforveterans.org/uploads/2/8/1/3/28134129/published/a-letter-from-our-founder.png?1745511758"
   alt="Picture" style="width:705;max-width:100%" /> </a> <div style="display:block;font-size:90%"></div>
@@ -89,13 +88,14 @@ original_markdown_body: "![Picture](https://www.everyoneforveterans.org/uploads/
   away peacefully on March 18th—taken far too soon. He will be deeply missed. But
   his legacy lives on, in every smile we help restore, in every life touched by compassion
   born from his story.  \n  \n​~Dr. Theresa Cheng  \n\n [Rory's Obituary](https://www.dignitymemorial.com/obituaries/renton-wa/rory-dunn-12293064)"
+source: Everyone for Veterans
+source_url: https://www.everyoneforveterans.org/blog/a-letter-from-our-founder-remebering-rory-dunn
 summarized: true
+title: 'A Letter From Our Founder: Remebering Rory Dunn'
 topics:
 - Health Care
 - Mental Health & Counseling
 - Disabilities
-images:
-- c30c392e3b7fd31941c323a865ad01dbd107adb73a6e251ed45c20fc7a3949f2
 ---
 
 A pivotal moment for Dr. Theresa Cheng came upon reading an article about Rory Dunn's survival and his mother, Cynthia Lefever's, advocacy. Cheng felt a strong emotional connection as a mother and recognized an opportunity to serve veterans through her dental practice. Inspired by Rory's story, she began providing free dental care to the families of injured veterans, realizing that many veterans lacked access to dental services through the VA.

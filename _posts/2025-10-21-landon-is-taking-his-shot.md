@@ -1,8 +1,8 @@
 ---
-title: Landon Is Taking His Shot
 date: '2025-10-21T20:58:53+00:00'
-source: Treehouse
-source_url: https://www.treehouseforkids.org/landon-is-taking-his-shot/
+images:
+- 760e41e8d4f6b74d8717cf1ab6c43a50aa4e3cf62a0b9d342b94d8464d7d3805
+- d59b6b79a5cd34756ecb81d9b55d5d8b3e5108ddf7524cfd85a0007a80acf5d2
 original_content: |-
   <p><span data-contrast="none"><img fetchpriority="high" decoding="async" class="aligncenter wp-image-196100 size-large" src="https://www.treehouseforkids.org/wp-content/uploads/2025/10/TreehouseParticipant2025-1-scaled-e1761076050357-1024x575.jpeg" alt="" width="1024" height="575" /></span></p>
   <p><span data-contrast="none">Landon’s always been athletic—he’s done soccer and cross country, and he’s been participating in </span><a href="https://www.spokanehoopfest.net/"><span data-contrast="none">Spokane’s Hoopfest basketball tournament</span></a><span data-contrast="none"> since he was 6 years old. But those came too easily for this young man who likes a challenge. </span><span data-ccp-props="{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;201341983&quot;:0,&quot;335551550&quot;:1,&quot;335551620&quot;:1,&quot;335559685&quot;:0,&quot;335559737&quot;:0,&quot;335559738&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:279}"> </span></p>
@@ -67,14 +67,14 @@ original_markdown_body: |-
   “Try to keep close with your friends—to have a way out of your family life, or to talk to someone outside of that. Anyone can help you, even one person,” he says. “My hockey career is almost over—it’s kind of sad to think about—but appreciate the people that you’ve been with and grew up with.”&nbsp;
 
   The post [Landon Is Taking His Shot](https://www.treehouseforkids.org/landon-is-taking-his-shot/) appeared first on [Treehouse](https://www.treehouseforkids.org).
+source: Treehouse
+source_url: https://www.treehouseforkids.org/landon-is-taking-his-shot/
 summarized: true
+title: Landon Is Taking His Shot
 topics:
 - Education & Learning
 - Employment & Job Support
 - Mental Health & Counseling
-images:
-- 760e41e8d4f6b74d8717cf1ab6c43a50aa4e3cf62a0b9d342b94d8464d7d3805
-- d59b6b79a5cd34756ecb81d9b55d5d8b3e5108ddf7524cfd85a0007a80acf5d2
 ---
 
 Landon, an athletic young man, has transitioned from soccer and cross country to hockey, which he started at age 10 despite initial struggles. His involvement in youth hockey leagues provided crucial support during challenging times in foster care, especially during the COVID-19 pandemic when he faced significant disruptions in his life. Practicing hockey outdoors helped him cope with stress, and he benefited from a supportive foster family.

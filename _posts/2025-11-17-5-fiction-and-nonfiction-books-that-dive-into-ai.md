@@ -1,8 +1,6 @@
 ---
-title: 5 Fiction and Nonfiction Books that Dive Into AI
 date: '2025-11-17T19:35:02+00:00'
-source: Homework Help
-source_url: https://blog.spl.org/2025/11/17/5-fiction-and-nonfiction-books-that-dive-into-ai/
+images: []
 original_content: |-
   <p>If representations of AI in fiction are starting to feel eerily plausible to you, you’re not alone! AI suddenly seems to be everywhere — in your phone, in your browser, offering tech support and an uncanny form of virtual friendship.</p>
   <p>How did this happen, where is it headed and what will it mean for humanity? In <strong>“<a class="content-link external" href="https://seattle.bibliocommons.com/v2/record/S30C4043179" target="_blank" rel="noopener" data-mrf-link="https://seattle.bibliocommons.com/v2/record/S30C4043179">Empire of AI</a>,”</strong> author Karen Hao sets out to answer those questions. Hao is an award-winning journalist who embedded with the company OpenAI, maker of ChatGPT, in 2019. Drawing from personal experience and dozens of insider interviews, Hao takes us behind the scenes in the race to create a dominant commercial AI model.</p>
@@ -85,10 +83,12 @@ original_markdown_body: |-
   _ **By Misha Stone and Anne Cisney** :&nbsp;Misha Stone is a Reader Services librarian for The Seattle Public Library._ _Anne Cisney is a librarian in the Business, Science and Technology department at The Seattle Public Library.&nbsp;_
 
   _This column was&nbsp;[originally published](https://www.seattletimes.com/entertainment/books/5-books-that-grapple-with-the-reality-of-ai/)&nbsp;in the Seattle Times as part of our monthly column, and is reprinted here with permission._
-summarized: true
-topics: []
 published: false
-images: []
+source: Homework Help
+source_url: https://blog.spl.org/2025/11/17/5-fiction-and-nonfiction-books-that-dive-into-ai/
+summarized: true
+title: 5 Fiction and Nonfiction Books that Dive Into AI
+topics: []
 ---
 
 Five notable books explore the implications of artificial intelligence, both in fiction and nonfiction. "Empire of AI" by Karen Hao provides an insider's look into the development of commercial AI, drawing from her experiences with OpenAI. It examines how AI influences lives globally and offers insights on consumer roles in shaping its future. Reid Hoffman’s "Superagency: What Could Possibly Go Right With our AI Future?" encourages optimism, likening AI's emergence to transformative inventions like the automobile and the internet.

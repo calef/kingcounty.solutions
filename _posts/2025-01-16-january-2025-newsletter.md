@@ -1,8 +1,6 @@
 ---
-title: January 2025 Newsletter
 date: '2025-01-16T20:27:00+00:00'
-source: CarePoint Clinic
-source_url: https://www.carepointonline.org/news/cjs3nmb1sgjnwig08hd5u4peh0zwnw-j4cj8-bpmhr-k43fa-naegg-5rtkr
+images: []
 original_content: "<figure class=\"\n              sqs-block-image-figure\n              intrinsic\n
   \           \"\n        >\n          \n        \n        \n\n        \n          <a
   class=\"\n                sqs-block-image-link\n                \n          \n        \n
@@ -28,10 +26,12 @@ original_markdown_body: |-
   [![](https://images.squarespace-cdn.com/content/v1/65c1886a315e4b1ef7f00c6a/b4eecda7-bfa3-4f41-9b64-48fd4a94c13c/January2025Newsletter.jpg?format=1000w)](https://carepointclinic.dm.networkforgood.com/emails/3791386?recipient_id=gKmitG8yqD88wZ7BRslDrA||ZGVzaXJlZXN3YW5zb25AZ21haWwuY29t)
 
   New Year, new [newsletter!](https://carepointclinic.dm.networkforgood.com/emails/3791386?recipient_id=gKmitG8yqD88wZ7BRslDrA||ZGVzaXJlZXN3YW5zb25AZ21haWwuY29t)
-summarized: true
-topics: []
 published: false
-images: []
+source: CarePoint Clinic
+source_url: https://www.carepointonline.org/news/cjs3nmb1sgjnwig08hd5u4peh0zwnw-j4cj8-bpmhr-k43fa-naegg-5rtkr
+summarized: true
+title: January 2025 Newsletter
+topics: []
 ---
 
 New Year brings a fresh edition of the newsletter, authored by Desiree Swanson. The January 2025 Newsletter features updates and highlights, marking the start of the year with new information for readers. The newsletter is part of a series, with previous editions including the December 2024 Newsletter and the upcoming February 2025 Newsletter.

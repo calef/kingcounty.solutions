@@ -1,8 +1,6 @@
 ---
-title: 'Donor Spotlight: Matt and Mary-Pat Beattie'
 date: '2025-09-03T20:52:32+00:00'
-source: Youth Eastside Services
-source_url: https://www.youtheastsideservices.org/beattie-story/?utm_source=rss&utm_medium=rss&utm_campaign=beattie-story
+images: []
 original_content: |-
   <p>For Matt and Mary-Pat Beattie, supporting YES is deeply personal. Their connection to YES began years ago when their son Jack, 13 at the time, was referred by his school for early substance use counseling. What started as a one-time visit became a lasting relationship with the organization that offered Jack and his entire family a safe place through his <span style="color: #ff6600;"><a style="color: #ff6600;" href="https://www.youtheastsideservices.org/services/substance-use-treatment/">journey with substance use</a></span> and mental health challenges.</p>
   <blockquote><p>“YES was always the one place Jack actually liked going,” Matt recalls. “He trusted his counselor. He even made friends there. That’s a big deal.”</p></blockquote>
@@ -46,10 +44,12 @@ original_markdown_body: |-
   &nbsp;
 
   The post [Donor Spotlight: Matt and Mary-Pat Beattie](https://www.youtheastsideservices.org/beattie-story/) appeared first on [Youth Eastside Services](https://www.youtheastsideservices.org).
+source: Youth Eastside Services
+source_url: https://www.youtheastsideservices.org/beattie-story/?utm_source=rss&utm_medium=rss&utm_campaign=beattie-story
 summarized: true
+title: 'Donor Spotlight: Matt and Mary-Pat Beattie'
 topics:
 - Mental Health & Counseling
-images: []
 ---
 
 Matt and Mary-Pat Beattie have a personal connection to Youth Eastside Services (YES), stemming from their son Jack's journey with substance use and mental health challenges. Initially referred for counseling at 13, Jack developed a trusting relationship with his counselor and found a supportive community at YES. After being diagnosed with bipolar disorder at 19, he continued to seek help but tragically passed away from an accidental overdose at 20, amid rising fentanyl-related fatalities.

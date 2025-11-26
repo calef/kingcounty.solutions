@@ -1,8 +1,8 @@
 ---
-title: MAPLE VALLEY FOOD BANK – BACKPACK REGISTRATION 2025
 date: '2025-07-08T15:00:16+00:00'
-source: Maple Valley Food Bank
-source_url: https://www.maplevalleyfoodbank.org/maple-valley-food-bank-backpack-registration-2025/
+images:
+- cc115e4e3a65ff2d52eced798f195ea284877f5373b1d2329bca8eb96a0dcfa9
+- 31f7675e68a0e86b3866ac572c231b180c33f2867318b4f31d9f787b4e01d235
 original_content: |-
   <figure class="wp-block-image aligncenter size-large is-resized"><img fetchpriority="high" decoding="async" width="1030" height="582" src="https://www.maplevalleyfoodbank.org/wp-content/uploads/2024/01/Blog-Post-Photos-backpack-2-1030x582.jpg" alt="Backpack Program Maple Valley Food Bank" class="wp-image-1030" style="width:261px;height:auto" srcset="https://www.maplevalleyfoodbank.org/wp-content/uploads/2024/01/Blog-Post-Photos-backpack-2-1030x582.jpg 1030w, https://www.maplevalleyfoodbank.org/wp-content/uploads/2024/01/Blog-Post-Photos-backpack-2-300x169.jpg 300w, https://www.maplevalleyfoodbank.org/wp-content/uploads/2024/01/Blog-Post-Photos-backpack-2-768x434.jpg 768w, https://www.maplevalleyfoodbank.org/wp-content/uploads/2024/01/Blog-Post-Photos-backpack-2-1536x868.jpg 1536w, https://www.maplevalleyfoodbank.org/wp-content/uploads/2024/01/Blog-Post-Photos-backpack-2-1500x847.jpg 1500w, https://www.maplevalleyfoodbank.org/wp-content/uploads/2024/01/Blog-Post-Photos-backpack-2-705x398.jpg 705w, https://www.maplevalleyfoodbank.org/wp-content/uploads/2024/01/Blog-Post-Photos-backpack-2.jpg 1540w" sizes="(max-width: 1030px) 100vw, 1030px" /></figure>
 
@@ -209,12 +209,12 @@ original_markdown_body: |-
     - Renton Schools Foundation: 425-269-9027
 
     - Salvation Army Renton Corps/Rent Food Bank: 425-255-5974
+source: Maple Valley Food Bank
+source_url: https://www.maplevalleyfoodbank.org/maple-valley-food-bank-backpack-registration-2025/
 summarized: true
+title: MAPLE VALLEY FOOD BANK – BACKPACK REGISTRATION 2025
 topics:
 - Food & Nutrition
-images:
-- cc115e4e3a65ff2d52eced798f195ea284877f5373b1d2329bca8eb96a0dcfa9
-- 31f7675e68a0e86b3866ac572c231b180c33f2867318b4f31d9f787b4e01d235
 ---
 
 Maple Valley Food Bank is preparing for its 2025 Backpack Program, which assists families with school supplies before the academic year begins. Registration runs from July 8 to July 30, 2025, during market hours: Tuesdays from 10:30 AM to 6 PM and Wednesdays from 10:30 AM to 1 PM. To be eligible, participants must be active clients of the food bank, residing in Maple Valley, Selleck, or within the Tahoma School District, and have school-aged children (K-12) living in their household. Documentation is required for children enrolled in the Tahoma School District, and proof of address and ID for all children must be provided. 

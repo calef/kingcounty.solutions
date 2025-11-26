@@ -1,8 +1,7 @@
 ---
-title: Fireworks, festivities to dazzle at Bellevue Family 4th
 date: '2025-06-16T15:36:17+00:00'
-source: City of Bellevue
-source_url: https://bellevuewa.gov/city-news/family-4th-25
+images:
+- 21936f4a7c21c4d94137788c267617a535fcbf9a14f0dbf65d9e3dea0411e3dc
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Fireworks,
   festivities to dazzle at Bellevue Family 4th</span>\n<span class=\"field field--name-uid
   field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"
@@ -119,11 +118,12 @@ original_markdown_body: "Fireworks, festivities to dazzle at Bellevue Family 4th
   area. Small tents or canopies are allowed at the park until 8 p.m., when all tents
   must come down.\n\n<time datetime=\"2025-06-16T12:00:00Z\" class=\"datetime\">June
   16 2025</time>"
+source: City of Bellevue
+source_url: https://bellevuewa.gov/city-news/family-4th-25
 summarized: true
+title: Fireworks, festivities to dazzle at Bellevue Family 4th
 topics:
 - Transportation & Mobility
-images:
-- 21936f4a7c21c4d94137788c267617a535fcbf9a14f0dbf65d9e3dea0411e3dc
 ---
 
 Celebrate Independence Day at the Bellevue Family 4th, the Eastside's largest fireworks event, on July 4 from 5 to 10:30 p.m. at Downtown Park. The event features live music, family entertainment, and fireworks at 10:05 p.m. performed by the Bellevue Youth Symphony Orchestra. The lineup includes rock band MiSSMANAGED at 5 p.m. and dance party group The Nines! at 7 p.m. Attendees can enjoy yard games, activities for children, and food and beverage vendors starting at 5 p.m. Bellevue Utilities will provide a mobile water station for hydration.

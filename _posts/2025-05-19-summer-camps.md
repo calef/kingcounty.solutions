@@ -1,8 +1,6 @@
 ---
-title: Summer Camps
 date: '2025-05-19T21:21:01+00:00'
-source: City of Carnation
-source_url: https://www.carnationwa.gov/summer-camps/
+images: []
 original_content: |-
   Carnation summer sports camps are returning this year! The City is partnering with Skyhawks Sports Academy to bring sports camps to Valley Memorial Park. Spots are available for kids 4-12.
 
@@ -13,10 +11,12 @@ original_content: |-
   &nbsp;
 
   The post [Summer Camps](https://www.carnationwa.gov/summer-camps/) appeared first on [Carnation, WA](https://www.carnationwa.gov).
+source: City of Carnation
+source_url: https://www.carnationwa.gov/summer-camps/
 summarized: true
+title: Summer Camps
 topics:
 - Education & Learning
-images: []
 ---
 
 Carnation City is bringing back its summer sports camps in partnership with Skyhawks Sports Academy, to be held at Valley Memorial Park. The camps are open to children between the ages of 4 and 12. A $25 discount on registration fees is available for those who sign up by June 1, using the code 25SUMMER. Only one discount is allowed per camper.

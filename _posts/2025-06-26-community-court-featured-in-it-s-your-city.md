@@ -1,8 +1,6 @@
 ---
-title: Community Court featured in It's Your City
 date: '2025-06-26T20:46:23+00:00'
-source: City of Bellevue
-source_url: https://bellevuewa.gov/city-news/its-your-city-6-25
+images: []
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Community
   Court featured in It's Your City</span>\n<span class=\"field field--name-uid field--type-entity-reference
   field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\" typeof=\"schema:Person\"
@@ -59,10 +57,12 @@ original_markdown_body: |-
   It's Your City comes out three times a year, usually in February, June and October. You can view back issues at [It's Your City](https://bellevuewa.gov/city-government/departments/city-managers-office/communications/its-your-city "It's Your City"). Please send questions or comments to Claude Iosso ([ciosso@bellevuewa.gov](mailto:ciosso@bellevuewa.gov)).&nbsp;
 
   <time datetime="2025-06-26T12:00:00Z" class="datetime">June 26 2025</time>
-summarized: true
-topics: []
 published: false
-images: []
+source: City of Bellevue
+source_url: https://bellevuewa.gov/city-news/its-your-city-6-25
+summarized: true
+title: Community Court featured in It's Your City
+topics: []
 ---
 
 The City of Bellevue and King County District Court are launching Bellevue Community Court, an alternative to traditional court aimed at enhancing community safety by holding clients accountable while assisting them in improving their lives. This initiative is set to open in mid-July and is featured in the summer edition of "It's Your City." Other highlights from the newsletter include the opening of a new Adventure Park at Eastgate Park, which replaces the old challenge course with aerial features and a climbing wall. Residents can also look forward to the Bellevue Family 4th celebration, featuring live music and family entertainment, with a reminder to leave fireworks to professionals. Additionally, applications for Bellevue’s fifth annual Tree Giveaway will open on July 25, with updates aimed at increasing tree canopy in underserved areas of the city. "It's Your City" is published three times a year, in February, June, and October.

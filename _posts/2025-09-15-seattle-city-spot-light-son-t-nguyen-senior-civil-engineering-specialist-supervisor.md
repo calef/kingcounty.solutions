@@ -1,9 +1,6 @@
 ---
-title: 'Seattle City (spot)Light: Son T. Nguyen, Senior Civil Engineering Specialist
-  Supervisor'
 date: '2025-09-15T16:00:00+00:00'
-source: City Light Bill Assistance Programs
-source_url: https://powerlines.seattle.gov/2025/09/15/seattle-city-spotlight-son-t-nguyen-senior-civil-engineering-specialist-supervisor/
+images: []
 original_content: '<img width="150" height="150" src="https://powerlines.seattle.gov/wp-content/uploads/sites/17/2025/09/nguyen_spotlight-150x150.png"
   class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom:
   5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy"
@@ -22,10 +19,13 @@ original_markdown_body: "![](https://powerlines.seattle.gov/wp-content/uploads/s
   and Technology Operations Tell us about your role. For the last 22 years, it has
   been a great pleasure to work and grow in the Technical Resources Unit. In my current
   role, I manage a talented and skilled team of Computer-Aided Design […]"
-summarized: true
-topics: []
 published: false
-images: []
+source: City Light Bill Assistance Programs
+source_url: https://powerlines.seattle.gov/2025/09/15/seattle-city-spotlight-son-t-nguyen-senior-civil-engineering-specialist-supervisor/
+summarized: true
+title: 'Seattle City (spot)Light: Son T. Nguyen, Senior Civil Engineering Specialist
+  Supervisor'
+topics: []
 ---
 
 Son T. Nguyen, a Senior Civil Engineering Specialist Supervisor at Seattle City Light, has dedicated 22 years to the organization. He manages a talented team in the Technical Resources Unit, providing design and engineering support to the Generation and Substation Engineering team. Their work includes creating detailed visual representations of engineering designs, facilitating efficient project workflows from planning to construction. Nguyen's projects range from relocating transmission towers to fabricating communication towers and installing bridges. They utilize advanced technologies like 3D laser scanning to enhance design accuracy and efficiency, aiming to create digital twins of physical assets for real-time data tracking.

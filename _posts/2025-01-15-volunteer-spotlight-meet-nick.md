@@ -1,8 +1,7 @@
 ---
-title: 'Volunteer Spotlight: Meet Nick'
 date: '2025-01-15T21:09:57+00:00'
-source: Hunger Intervention Program
-source_url: https://hungerintervention.org/2025/01/15/volunteer-spotlight-meet-nick/?utm_source=rss&utm_medium=rss&utm_campaign=volunteer-spotlight-meet-nick
+images:
+- 9aee2eaaf5a08f125aecd823fdcc36349b12a7a372c4b277d9702c17a12f853d
 original_content: "<p><div class=\"et_pb_section et_pb_section_7 et_section_regular\"
   >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_row
   et_pb_row_6\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4 et_pb_column_10
@@ -50,11 +49,12 @@ original_markdown_body: "As the first spotlight of the year, we would like to hi
   face every Monday, Wednesday, and Friday. Thank you Nick for all that you do!\n\nThe
   post [Volunteer Spotlight: Meet Nick](https://hungerintervention.org/2025/01/15/volunteer-spotlight-meet-nick/)
   appeared first on [Hunger Intervention Program](https://hungerintervention.org)."
+source: Hunger Intervention Program
+source_url: https://hungerintervention.org/2025/01/15/volunteer-spotlight-meet-nick/?utm_source=rss&utm_medium=rss&utm_campaign=volunteer-spotlight-meet-nick
 summarized: true
+title: 'Volunteer Spotlight: Meet Nick'
 topics:
 - Food & Nutrition
-images:
-- 9aee2eaaf5a08f125aecd823fdcc36349b12a7a372c4b277d9702c17a12f853d
 ---
 
 Volunteer Nick has made significant contributions to the Senior Community Meal program for nearly eight years. He became involved after learning about Hunger Intervention Program (HIP) through founder Jerry Berger at his church. Volunteering has become a vital routine for Nick in his retirement, providing him with social interaction and a sense of purpose. As a front-facing volunteer, he engages with seniors, witnessing their developing relationships and interactions. Nick enjoys the camaraderie among HIP staff and fellow volunteers, and he appreciates the physical activity involved in setting up and taking down tables. He encourages others to consider volunteering, especially retirees looking to stay active and engaged in their communities. Nick’s dedicated presence is felt every Monday, Wednesday, and Friday, and his story serves as an inspiration for community involvement.

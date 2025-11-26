@@ -1,8 +1,6 @@
 ---
-title: 'Council Roundup: Financial forecast update'
 date: '2025-07-18T19:15:23+00:00'
-source: City of Bellevue
-source_url: https://bellevuewa.gov/city-news/council-roundup-7-15-25
+images: []
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Council
   Roundup: Financial forecast update</span>\n<span class=\"field field--name-uid field--type-entity-reference
   field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\" typeof=\"schema:Person\"
@@ -119,10 +117,12 @@ original_markdown_body: |-
   More information can be found at Boards and Commissions.
 
   <time datetime="2025-07-18T12:00:00Z" class="datetime">July 18 2025</time>
-summarized: true
-topics: []
 published: false
-images: []
+source: City of Bellevue
+source_url: https://bellevuewa.gov/city-news/council-roundup-7-15-25
+summarized: true
+title: 'Council Roundup: Financial forecast update'
+topics: []
 ---
 
 The Bellevue City Council recently reviewed a mid-biennium financial outlook, noting stable tax revenues but increased uncertainty due to inflation, reduced consumer confidence, and higher operating costs. Significant economic growth isn't anticipated until at least 2027, prompting a recommendation to maintain the current biennial budget while closely monitoring the economy. 

@@ -1,8 +1,10 @@
 ---
-title: Three takeaways from the Social Justice Salon 
 date: '2025-11-22T00:08:29+00:00'
-source: Solid Ground
-source_url: https://www.solid-ground.org/three-takeaways-from-the-social-justice-salon/
+images:
+- e8235522f37c0262ad1d34ab74788ce46e0982a9320aae2b60fd1f2370c35595
+- '069dbdcb7a756e4ad98318128c738cdded42f386712a997429779100d614c7af'
+- 4af2db0fe41e7893671f141f6b59af6170b1cd9654471984b3d2dfd5650d9f62
+- ee5a9ace1e9bec823f23ed409ffda670594dbb3dfd9f807adb2ebedfecee0fb4
 original_content: |-
   <p><img width="361" height="255" src="https://s14621.pcdn.co/wp-content/uploads/2025/11/Panelists-Stage-SJS-CM-10.15.25-1-801x566-2-361x255.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Five women sit on chairs on a stage acros from a packed audience in a darkened room." decoding="async" srcset="https://s14621.pcdn.co/wp-content/uploads/2025/11/Panelists-Stage-SJS-CM-10.15.25-1-801x566-2-361x255.jpg 361w, https://s14621.pcdn.co/wp-content/uploads/2025/11/Panelists-Stage-SJS-CM-10.15.25-1-801x566-2-300x212.jpg 300w, https://s14621.pcdn.co/wp-content/uploads/2025/11/Panelists-Stage-SJS-CM-10.15.25-1-801x566-2-768x543.jpg 768w, https://s14621.pcdn.co/wp-content/uploads/2025/11/Panelists-Stage-SJS-CM-10.15.25-1-801x566-2.jpg 801w" sizes="(max-width: 361px) 100vw, 361px" data-attachment-id="72373" data-permalink="https://www.solid-ground.org/three-takeaways-from-the-social-justice-salon/panelists-stage-sjs-cm-10-15-25-1-801x566-2/" data-orig-file="https://s14621.pcdn.co/wp-content/uploads/2025/11/Panelists-Stage-SJS-CM-10.15.25-1-801x566-2.jpg" data-orig-size="801,566" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;NIKON D5600&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1760506344&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;25&quot;,&quot;iso&quot;:&quot;8000&quot;,&quot;shutter_speed&quot;:&quot;0.016666666666667&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="Panelists-Stage-SJS-(CM)-10.15.25-1-801&#215;566-2" data-image-description="" data-image-caption="" data-medium-file="https://s14621.pcdn.co/wp-content/uploads/2025/11/Panelists-Stage-SJS-CM-10.15.25-1-801x566-2-300x212.jpg" data-large-file="https://s14621.pcdn.co/wp-content/uploads/2025/11/Panelists-Stage-SJS-CM-10.15.25-1-801x566-2.jpg" /></p><p class="tmc-intro"><span data-contrast="auto">Last month, Solid Ground gathered four community leaders at its annual Social Justice Salon – titled <a href="https://www.solid-ground.org/get-involved/social-justice-salons/#upcoming">“Responding to the Moment: Social Justice, Federal Actions, and the future of Human Services”</a> – and hosted a packed crowd for a much needed conversation about the future of social justice, safety-net organizations, and the communities we serve together.</span><span data-ccp-props="{}"> </span></p>
   <p><span data-contrast="auto">Moderated by Naomi Ishisaka, Assistant Managing Editor for Diversity and Inclusion and Social Justice Columnist for <a href="https://www.seattletimes.com/author/naomi-ishisaka/">The Seattle Times</a>, the panel included:</span><span data-ccp-props="{}"> </span></p>
@@ -223,16 +225,14 @@ original_markdown_body: "![Five women sit on chairs on a stage acros from a pack
   New York Times:** [These Words Are Disappearing in the New Trump Administration](https://www.nytimes.com/interactive/2025/03/07/us/trump-federal-agencies-websites-words-dei.html)&nbsp;\n\n**All
   photos by Clarissa Magdich**\n\nThe post [Three takeaways from the Social Justice&nbsp;Salon&nbsp;](https://www.solid-ground.org/three-takeaways-from-the-social-justice-salon/)
   appeared first on [Solid Ground](https://www.solid-ground.org)."
+source: Solid Ground
+source_url: https://www.solid-ground.org/three-takeaways-from-the-social-justice-salon/
 summarized: true
+title: Three takeaways from the Social Justice Salon 
 topics:
 - Food & Nutrition
 - Health Care
 - Shelter & Housing
-images:
-- e8235522f37c0262ad1d34ab74788ce46e0982a9320aae2b60fd1f2370c35595
-- '069dbdcb7a756e4ad98318128c738cdded42f386712a997429779100d614c7af'
-- 4af2db0fe41e7893671f141f6b59af6170b1cd9654471984b3d2dfd5650d9f62
-- ee5a9ace1e9bec823f23ed409ffda670594dbb3dfd9f807adb2ebedfecee0fb4
 ---
 
 Solid Ground hosted its annual Social Justice Salon, focusing on the impact of recent federal spending cuts on social justice and safety-net organizations. Panelists included community leaders from various organizations discussing the dire consequences of these cuts, which threaten food and healthcare programs that support struggling families. Hundreds of thousands of lives are at stake, with significant funding losses already reported by organizations such as Downtown Emergency Service Center and Solid Ground. The legislative agenda is poised to further target housing services, potentially displacing many individuals currently housed.

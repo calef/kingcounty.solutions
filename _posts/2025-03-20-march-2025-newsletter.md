@@ -1,8 +1,6 @@
 ---
-title: March 2025 Newsletter
 date: '2025-03-20T19:01:00+00:00'
-source: CarePoint Clinic
-source_url: https://www.carepointonline.org/news/cjs3nmb1sgjnwig08hd5u4peh0zwnw-j4cj8-bpmhr-k43fa-ke2h4
+images: []
 original_content: "<figure class=\"\n              sqs-block-image-figure\n              intrinsic\n
   \           \"\n        >\n          \n        \n        \n\n        \n          <a
   class=\"\n                sqs-block-image-link\n                \n          \n        \n
@@ -29,10 +27,12 @@ original_markdown_body: |-
   [![](https://images.squarespace-cdn.com/content/v1/65c1886a315e4b1ef7f00c6a/37faccd0-af9d-4d41-8490-dbebe37f61e1/March2025Newsletter.jpg?format=1000w)](https://carepointclinic.dm.networkforgood.com/emails/3886455?recipient_id=gKmitG8yqD88wZ7BRslDrA||ZGVzaXJlZXN3YW5zb25AZ21haWwuY29t)
 
   Grab the March newsletter [HERE](https://carepointclinic.dm.networkforgood.com/emails/3886455?recipient_id=gKmitG8yqD88wZ7BRslDrA||ZGVzaXJlZXN3YW5zb25AZ21haWwuY29t)!
-summarized: true
-topics: []
 published: false
-images: []
+source: CarePoint Clinic
+source_url: https://www.carepointonline.org/news/cjs3nmb1sgjnwig08hd5u4peh0zwnw-j4cj8-bpmhr-k43fa-ke2h4
+summarized: true
+title: March 2025 Newsletter
+topics: []
 ---
 
 The March 2025 newsletter has been released, featuring updates and information relevant to the community. It is authored by Desiree Swanson and emphasizes the importance of staying informed through the newsletter. The March edition is available for readers to access, with additional newsletters from previous months, including February and April 2025, mentioned for context. The newsletter serves as a resource for the community to keep up with news and events.

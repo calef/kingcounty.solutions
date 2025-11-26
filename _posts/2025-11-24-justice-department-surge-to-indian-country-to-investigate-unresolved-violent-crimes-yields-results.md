@@ -1,14 +1,19 @@
 ---
-title: Justice Department Surge to Indian Country to Investigate Unresolved Violent Crimes Yields Results
 date: '2025-11-24T12:00:00+00:00'
+images: []
+original_content: The Justice Department today announced results from its six-month
+  surge of FBI assets across the country to address violent crime in Indian Country,
+  including crimes relating to missing or murdered Indigenous persons.
+original_markdown_body: The Justice Department today announced results from its six-month
+  surge of FBI assets across the country to address violent crime in Indian Country,
+  including crimes relating to missing or murdered Indigenous persons.
 source: Department of Justice
 source_url: https://www.justice.gov/opa/pr/justice-department-surge-indian-country-investigate-unresolved-violent-crimes-yields-results
-original_content: The Justice Department today announced results from its six-month surge of FBI assets across the country to address violent crime in Indian Country, including crimes relating to missing or murdered Indigenous persons.
-original_markdown_body: The Justice Department today announced results from its six-month surge of FBI assets across the country to address violent crime in Indian Country, including crimes relating to missing or murdered Indigenous persons.
 summarized: true
+title: Justice Department Surge to Indian Country to Investigate Unresolved Violent
+  Crimes Yields Results
 topics:
 - Domestic Violence
-images: []
 ---
 
 The Justice Department has announced significant progress from its six-month initiative, Operation Not Forgotten, aimed at investigating violent crimes in Indian Country, particularly those involving missing and murdered Indigenous persons. The FBI deployed 64 personnel across ten field offices, collaborating with the Bureau of Indian Affairs and Tribal law enforcement. This operation marked the most extensive national deployment of FBI resources to address such crimes.

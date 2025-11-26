@@ -1,8 +1,8 @@
 ---
-title: 'breaking the cycle: supporting children experiencing homelessness'
 date: '2025-11-25T00:42:59+00:00'
-source: Mary's Place
-source_url: https://www.marysplaceseattle.org/blog/breaking-the-cycle-supporting-children-experiencing-homelessnessnbsp
+images:
+- 438f99d54cf9f1c0b89fd4e090932f2c5cc592e448a6dda08bbd17b38cece635
+- 2ab801c85fc78ca1a76964de6c5956a6966b536a693a2c79635db3d0b52b2cab
 original_content: "<p class=\"\">Homelessness is devastating at any age—but for children,
   the impacts can shape the course of their entire lives. Mary’s Place and our partners
   are working to minimize trauma and build pathways to stability for families, breaking
@@ -243,15 +243,15 @@ original_markdown_body: |-
   _“At Mary’s Place, we’re using a three-pronged approach of emergency shelter, mobile outreach, and prevention to address family homelessness. Our prevention program keeps families in their hard-won homes with rental assistance and stability supports before an eviction occurs,”_ shares Dominique Alex.&nbsp;
 
   _“Prevention doesn’t just keep families housed—it protects children’s developing brains, strengthens their educational outcomes, reduces long-term health impacts, and increases their chances of thriving into adulthood. By investing in stability today, we can change the trajectory of a child’s life.”_&nbsp;
+source: Mary's Place
+source_url: https://www.marysplaceseattle.org/blog/breaking-the-cycle-supporting-children-experiencing-homelessnessnbsp
 summarized: true
+title: 'breaking the cycle: supporting children experiencing homelessness'
 topics:
 - Childcare
 - Shelter & Housing
 - Education & Learning
 - Mental Health & Counseling
-images:
-- 438f99d54cf9f1c0b89fd4e090932f2c5cc592e448a6dda08bbd17b38cece635
-- 2ab801c85fc78ca1a76964de6c5956a6966b536a693a2c79635db3d0b52b2cab
 ---
 
 Homelessness profoundly affects children, impacting their health and development. Mary’s Place and its partners aim to reduce trauma and create stable pathways for families, addressing the generational cycles of homelessness. During a recent panel, experts highlighted that 90% of a child's brain develops by age five, and experiencing homelessness during this time can lead to severe developmental delays and emotional distress. Children without stable housing are four times more likely to fall ill and face significant delays in language and social skills. Additionally, frequent relocations contribute to heightened anxiety and behavioral issues, making it challenging to build trust and security.

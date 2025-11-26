@@ -1,8 +1,6 @@
 ---
-title: What to Know About SNAP Benefits & the Government Shutdown
 date: '2025-10-29T19:51:41+00:00'
-source: Hopelink
-source_url: https://www.hopelink.org/blog/what-to-know-about-snap-benefits-and-the-government-shutdown/
+images: []
 original_content: |-
   ## What to Know About SNAP Benefits & the Government Shutdown
 
@@ -51,10 +49,12 @@ original_content: |-
   1. **[Join the Circle of Hope](https://www.hopelink.org/ways-to-help/monthly-giving/):&nbsp;**By giving a set amount each month, Circle of Hope members provide sustainable support throughout the year.&nbsp;
 
   To learn more about the growing needs in our region, explore&nbsp;Hopelink’s&nbsp;recently released&nbsp;[2025 Community Needs Assessment](https://www.hopelink.org/wp-content/uploads/2023/03/Hopelink-2025-Community-Needs-Assessment-Report.pdf).&nbsp;
+source: Hopelink
+source_url: https://www.hopelink.org/blog/what-to-know-about-snap-benefits-and-the-government-shutdown/
 summarized: true
+title: What to Know About SNAP Benefits & the Government Shutdown
 topics:
 - Food & Nutrition
-images: []
 ---
 
 Due to the ongoing government shutdown, the Washington Department of Social & Human Services (DSHS) has alerted social service organizations such as Hopelink that they will be unable to administer SNAP food benefits starting November 1, without federal funding. This may affect nearly 1 million Washingtonians and 41.7 million people nationwide who depend on SNAP. Hopelink anticipates increased visits to its food markets as a result. The organization is preparing to offer additional food to all shoppers and encourages community support through monetary contributions, food donations, and volunteering.

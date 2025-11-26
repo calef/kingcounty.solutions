@@ -1,8 +1,6 @@
 ---
-title: City Council Initiates City Manager Contract Negotiation
 date: '2025-11-13T16:37:16-08:00'
-source: City of Medina
-source_url: https://www.medina-wa.gov/financeandhr/page/city-council-initiates-city-manager-contract-negotiation
+images: []
 original_content: |-
   <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><span><span>At its June 9, 2025 meeting, the City Council authorized staff to begin contract negotiations with Interim City Manager Jeff Swanson for the permanent City Manager position.</span></span></p>
   <p><span><span>Updates will be shared here as the process moves forward. Please check back for the latest information. </span></span></p>
@@ -13,10 +11,12 @@ original_markdown_body: |-
   Updates will be shared here as the process moves forward. Please check back for the latest information.&nbsp;
 
   &nbsp;
-summarized: true
-topics: []
 published: false
-images: []
+source: City of Medina
+source_url: https://www.medina-wa.gov/financeandhr/page/city-council-initiates-city-manager-contract-negotiation
+summarized: true
+title: City Council Initiates City Manager Contract Negotiation
+topics: []
 ---
 
 The Medina City Council has authorized staff to negotiate a contract with Interim City Manager Jeff Swanson for the permanent position. This decision was made during the June 9, 2025 meeting. Swanson has 26 years of experience in various roles in Washington, including City Manager and Interim Finance Director. He currently manages a consulting firm and has previously served as City Manager in Battleground, WA. Swanson holds multiple degrees from Portland University, including coursework towards a Ph.D. in Systems Science & Theory, and has a Bachelor's Degree in Economics. Updates will be provided as the process progresses.

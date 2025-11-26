@@ -1,8 +1,7 @@
 ---
-title: from my cocoon of grief to spreading my wings
 date: '2025-05-29T20:10:46+00:00'
-source: Mary's Place
-source_url: https://www.marysplaceseattle.org/blog/from-my-cocoon-of-grief-to-spreading-my-wingsnbsp
+images:
+- 5bcc2d84f308e1297cc480bb11500dd071107b9ff7916f425d2037a4f130e8b2
 original_content: "<p class=\"\"><strong><em>By Nikita</em></strong>&nbsp;</p><p class=\"\">If
   you told me a few years ago that I’d be living in a three-bedroom apartment with
   my three kids, thriving in my preschool teaching career, and excitedly planning
@@ -135,15 +134,16 @@ original_markdown_body: |-
   After everything we’ve been through, I’m so proud of how far we’ve come, and it all started with a place that gave me more than just a place to sleep. When I got to Mary’s Place things were so dark, but they gave me space to grieve, heal, and grow. They gave me a community, a team, and helped me see a bright future again.&nbsp;My kids and I are currently planning our first vacation, just the three of us - we’re truly feeling excited about life again!
 
   [Donate to Support MARY'S PLACE](https://give.marysplaceseattle.org/campaign/673342/donate?utm_source=website&utm_medium=blog&utm_campaign=blogs-public&c_src=blogs-public&c_src2=blog)
+source: Mary's Place
+source_url: https://www.marysplaceseattle.org/blog/from-my-cocoon-of-grief-to-spreading-my-wingsnbsp
 summarized: true
+title: from my cocoon of grief to spreading my wings
 topics:
 - Domestic Violence
 - Shelter & Housing
 - Childcare
 - Employment & Job Support
 - Mental Health & Counseling
-images:
-- 5bcc2d84f308e1297cc480bb11500dd071107b9ff7916f425d2037a4f130e8b2
 ---
 
 A mother of three, Nikita, reflects on her journey from grief to healing after the tragic loss of her partner, Thomas, who died following a car accident during a family visit to Washington. Initially living with her mother, Nikita faced homelessness after being asked to leave. She and her children experienced days of sleeping in their car and staying with acquaintances before finding shelter at Mary’s Place, which provided them with a private room, meals, and essential resources for recovery.

@@ -1,9 +1,8 @@
 ---
-title: Executive Braddock announces her 2026–2027 budget proposal, preventing devastating
-  cuts while…
 date: '2025-09-23T21:26:51+00:00'
-source: King County
-source_url: https://medium.com/@kcexec/executive-braddock-announces-her-2026-2027-budget-proposal-preventing-devastating-cuts-while-3aa2bf07bbde?source=rss-cc0752750177------2
+images:
+- f881516c601c5df1d89935bbfbf19902c550037ebaaedc5d9a80c8a17bb64ace
+- 8b9947e6ed2a9707245563558cde800315bf02af12d3d11e89804bfddd6dfa06
 original_content: '<h3>Executive Braddock announces her 2026–2027 budget proposal,
   preventing devastating cuts while further investing in public safety, housing, homelessness
   response, and behavioral health</h3><p><strong>Summary</strong></p><p>Today, King
@@ -142,15 +141,16 @@ original_markdown_body: |-
   Executive Braddock’s [proposed 2026–2027 budget](http://www.kingcounty.gov/budget) has been transmitted to the King County Council for further consideration, including [public comment](https://kingcounty.gov/en/dept/council/governance-leadership/county-council/budget-review-2026-27). Final budget approval is anticipated in November.
 
   https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F1121333456%3Fapp_id%3D122963&dntp=1&display_name=Vimeo&url=https%3A%2F%2Fvimeo.com%2F1121333456&image=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F2062364558-4de98f656dfcdcffc3d847c50addd7ec5a04d577a3f3dc9146bad9dc87d148c5-d_1280%3Fregion%3Dus&type=text%2Fhtml&schema=vimeo ![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=3aa2bf07bbde)
+source: King County
+source_url: https://medium.com/@kcexec/executive-braddock-announces-her-2026-2027-budget-proposal-preventing-devastating-cuts-while-3aa2bf07bbde?source=rss-cc0752750177------2
 summarized: true
+title: Executive Braddock announces her 2026–2027 budget proposal, preventing devastating
+  cuts while…
 topics:
 - Shelter & Housing
 - Food & Nutrition
 - Health Care
 - Transportation & Mobility
-images:
-- f881516c601c5df1d89935bbfbf19902c550037ebaaedc5d9a80c8a17bb64ace
-- 8b9947e6ed2a9707245563558cde800315bf02af12d3d11e89804bfddd6dfa06
 ---
 
 King County Executive Shannon Braddock has proposed a biennial budget for 2026–2027 totaling $19.7 billion, aimed at preventing significant cuts to critical services while enhancing investments in public safety, housing, homelessness response, and behavioral health. The budget addresses a $175 million General Fund shortfall and utilizes a new criminal justice sales tax to safeguard services in the Sheriff’s Office, Prosecutor’s Office, and public health sectors. Key elements include $175 million for public safety staff, nearly $30 million for improving the justice system, and $5 million to maintain the SoDo shelter. Additionally, $4 million is earmarked to increase food security, while $31 million is allocated to protect healthcare against potential federal funding cuts. The budget also proposes restoring over 400,000 hours of bus service and enhancing various transit options. Emphasizing accountability, $10 million is designated for financial management improvements, and nearly $3 million for developing an Artificial Intelligence policy. Executive Braddock's budget aims to create a sustainable and effective framework for King County, with final approval expected in November after public review.

@@ -1,8 +1,6 @@
 ---
-title: 2025 Subregional Opportunity Fund Project
 date: '2025-10-23T18:03:53+00:00'
-source: King County Flood Control District
-source_url: https://kingcountyfloodcontrol.org/2025-subregional-opportunity-fund-project/?utm_source=rss&utm_medium=rss&utm_campaign=2025-subregional-opportunity-fund-project
+images: []
 original_content: |-
   By Steven Schauer, Deputy Executive Director
 
@@ -196,11 +194,13 @@ original_content: |-
   The project will clean debris and blockage out of storm lines and camera along 94TH AVE NE and 47TH ST; as well as 36TH ST, 90TH AVE NE, 91ST AVE NE, and 34TH ST. The project will address the stormwater management and maintenance needed for the noted areas, as outlined in the Storm Camera and Clean Schedule. The proposed activity will remove any build-up or debris within the stormwater system, increasing efficiency and maintaining the infrastructure.
 
   The post [2025 Subregional Opportunity Fund Project](https://kingcountyfloodcontrol.org/2025-subregional-opportunity-fund-project/) appeared first on [King County Flood Control District](https://kingcountyfloodcontrol.org).
+published: false
+source: King County Flood Control District
+source_url: https://kingcountyfloodcontrol.org/2025-subregional-opportunity-fund-project/?utm_source=rss&utm_medium=rss&utm_campaign=2025-subregional-opportunity-fund-project
 summarized: true
+title: 2025 Subregional Opportunity Fund Project
 topics:
 - Health Care
-published: false
-images: []
 ---
 
 # King County Flood Control District's 2025 Subregional Opportunity Fund

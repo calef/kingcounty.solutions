@@ -1,9 +1,7 @@
 ---
-title: 'Five years with Rubén Peralta: Authenticity creates powerful leaders, cultures,
-  and communities'
 date: '2025-11-05T19:52:14+00:00'
-source: Inatai Foundation
-source_url: https://inatai.org/news/five-years-with-ruben-peralta/
+images:
+- f972abe53ac67d0aab41f107ddaf5b00fa037e409d4ae872d5f5657e0df1429a
 original_content: "<div class=\"et_pb_section et_pb_section_1 et_section_regular\"
   >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_row
   et_pb_row_2\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4 et_pb_column_2
@@ -86,15 +84,17 @@ original_markdown_body: |-
   **5. What is your favorite fact about your home county in Washington?**
 
   Franklin County, Pasco specifically, is the place many Mexicans/Latinx from throughout the state come to feel like they are back home in México. We have the largest flea market in the Northwest and possibly the West, two Safeway sized Mexican grocery stores, the oldest and largest Cinco de Mayo celebration in Eastern Washington, and other vibrant traditional Mexican celebrations. Most of all, we have the most authentic Mexican food in the state. You cannot find lengua, tripa, and cabeza tacos and menudo in just any city in Washington.
+source: Inatai Foundation
+source_url: https://inatai.org/news/five-years-with-ruben-peralta/
 summarized: true
+title: 'Five years with Rubén Peralta: Authenticity creates powerful leaders, cultures,
+  and communities'
 topics:
 - Education & Learning
 - Employment & Job Support
 - Disabilities
 - Domestic Violence
 - Mental Health & Counseling
-images:
-- f972abe53ac67d0aab41f107ddaf5b00fa037e409d4ae872d5f5657e0df1429a
 ---
 
 Rubén Peralta reflects on his five years as a Program Officer at Inatai Foundation, highlighting the importance of authenticity in leadership and community engagement. He emphasizes the value of joy, stating it strengthens the pursuit of other values, even through challenges. Peralta shares a significant lesson learned: Inatai encourages him to embrace his identity, including his name's pronunciation, which fosters a sense of belonging. He appreciates that his diverse experiences as a formerly undocumented immigrant and bilingual educator are valued alongside his professional background. 

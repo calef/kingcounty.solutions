@@ -1,15 +1,17 @@
 ---
-title: Community Celebrates Nichols Court Grand Opening!
 date: '2025-09-26T20:04:35+00:00'
+images: []
+original_content: Clifford and Melinda Nichols On September 24th, friends, family,
+  and colleagues of Melinda and Clifford Nichols, along with affordable...
+original_markdown_body: Clifford and Melinda Nichols On September 24th, friends, family,
+  and colleagues of Melinda and Clifford Nichols, along with affordable...
 source: Low Income Housing Institute
 source_url: https://www.lihihousing.org/post/community-celebrates-nichols-court-grand-opening
-original_content: Clifford and Melinda Nichols On September 24th, friends, family, and colleagues of Melinda and Clifford Nichols, along with affordable...
-original_markdown_body: Clifford and Melinda Nichols On September 24th, friends, family, and colleagues of Melinda and Clifford Nichols, along with affordable...
 summarized: true
+title: Community Celebrates Nichols Court Grand Opening!
 topics:
 - Shelter & Housing
 - Education & Learning
-images: []
 ---
 
 On September 24th, a grand opening ceremony for Nichols Court, a new six-story affordable housing building in Seattle's Othello neighborhood, was held. The building features 148 units and is located on the site of the former Othello Tiny House Village. The celebration included performances by musician Laura Love and a blessing from Rev. Lawrence Willis, who praised Melinda and Clifford Nichols for their commitment to affordable housing and community service. LIHI Executive Director Sharon Lee highlighted the Nichols' extensive contributions, including Melinda's efforts in rallying support for tiny houses and her long-standing dedication to LIHI's mission.

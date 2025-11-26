@@ -1,8 +1,7 @@
 ---
-title: A Place to Grow
 date: '2025-03-27T19:42:46+00:00'
-source: Atlantic Street Center
-source_url: https://atlanticstreetcenter.org/2025/03/27/a-place-to-grow/?utm_source=rss&utm_medium=rss&utm_campaign=a-place-to-grow
+images:
+- 3bda4e03e702bb43482fbc505b0cce566779647144fa61448467e73a491942c5
 original_content: "<div data-elementor-type=\"wp-post\" data-elementor-id=\"8613\"
   class=\"elementor elementor-8613\">\n\t\t\t\t<div class=\"elementor-element elementor-element-9af322
   e-flex e-con-boxed e-con e-parent\" data-id=\"9af322\" data-element_type=\"container\">\n\t\t\t\t\t<div
@@ -48,11 +47,12 @@ original_markdown_body: |-
   He couldn’t be more correct! We have seen Moses expand his talents tremendously with Atlantic Street Center. In addition to collaborating with his peers over shared home work and countless rounds of trivia, Moses signed himself up for our Slam Poetry Night. He got dressed up alongside his brother and sang his heart out. That kind of fearlessness and confidence is something we love to see and help nurture. Thank you for sharing your gifts with us, Moses! ![](https://atlanticstreetcenter.org/wp-content/uploads/2025/03/IMG_1710-1024x683.jpg)
 
   [Check Out The After-School Program](https://atlanticstreetcenter.org/programs/youth-development/afterschool-programs/)
+source: Atlantic Street Center
+source_url: https://atlanticstreetcenter.org/2025/03/27/a-place-to-grow/?utm_source=rss&utm_medium=rss&utm_campaign=a-place-to-grow
 summarized: true
+title: A Place to Grow
 topics:
 - Education & Learning
-images:
-- 3bda4e03e702bb43482fbc505b0cce566779647144fa61448467e73a491942c5
 ---
 
 The After-School Program provides local youth with a supportive environment to build meaningful relationships, engage in enriching activities, and complete homework. Guided by dedicated Youth Coordinators, children enjoy outdoor play, snacks, and continued learning after school hours. Operating in line with the Seattle school calendar, the program takes a summer break but culminates in an annual moving-on ceremony to celebrate participants' achievements. Families are invited to enjoy performances, barbecues, and speeches from the children, showcasing their personal growth throughout the year. One participant, Moses, expressed his appreciation for the program, stating, “I love ASC because it helps me build grown-up skills!” His experience exemplifies the program's impact, as he has developed his talents and confidence, participating in activities like the Slam Poetry Night. This nurturing environment fosters fearlessness and personal development, helping children thrive both socially and academically.

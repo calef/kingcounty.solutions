@@ -1,8 +1,7 @@
 ---
-title: A Therapist’s Review of K-Pop Demon Hunters
 date: '2025-10-20T19:25:57+00:00'
-source: Samaritan Center of Puget Sound
-source_url: https://samaritanps.org/a-therapists-review-of-k-pop-demon-hunters/?utm_source=rss&utm_medium=rss&utm_campaign=a-therapists-review-of-k-pop-demon-hunters
+images:
+- 929fcf43b4f7030575df87192a4f085af2dc33ac308626b53cfac33425c6b178
 original_content: "<div class=\"wpb-content-wrapper\"><div class=\"\"><div class=\"container\"><div
   class=\"vc_row wpb_row vc_row-fluid\" ><div class=\"wpb_column vc_column_container
   vc_col-sm-12\"><div class=\"vc_column-inner\"><div class=\"wpb_wrapper\">\n\t<div
@@ -148,11 +147,12 @@ original_markdown_body: |-
   My voice without the lies, this is what it sounds like”
 
   The sentiment expressed in this song is the key to defeating shame, namely, being able to see the parts of ourselves that are broken or considered not good enough and accept that they are indeed a part of us. In psychological terms, this idea is called “radical acceptance.” The practice of radical acceptance is the act of being honest regarding what is real about ourselves or a situation without judgement. It does not mean that one likes what they see or that things can’t change, but rather, it is taking a position of being open to where things are now so that things can honestly be addressed and deep change can occur. When a person can find that acceptance, it frees them up because there is nothing to hide; they are able to express themselves fully and genuinely and experience closeness and intimacy with others. It also builds resiliency because they learn they can survive hard things and so know it’s okay to make mistakes in the future. When one can face their shame and accept the truth of reality it gives them back their voice and, perhaps, allows a person to truly show the soul within themselves.
+source: Samaritan Center of Puget Sound
+source_url: https://samaritanps.org/a-therapists-review-of-k-pop-demon-hunters/?utm_source=rss&utm_medium=rss&utm_campaign=a-therapists-review-of-k-pop-demon-hunters
 summarized: true
+title: A Therapist’s Review of K-Pop Demon Hunters
 topics:
 - Mental Health & Counseling
-images:
-- 929fcf43b4f7030575df87192a4f085af2dc33ac308626b53cfac33425c6b178
 ---
 
 Netflix's K-Pop Demon Hunters, released in June 2025, has become a cultural phenomenon, attracting 314 million views and drawing comparisons to Frozen. The show is celebrated for its cultural authenticity, vibrant art style, and catchy music, with its hit song "Golden" topping the Billboard Hot 100 for seven consecutive weeks. A therapist reviews how the film addresses shame and confronting inner demons, highlighting four key insights.

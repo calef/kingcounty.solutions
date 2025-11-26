@@ -1,8 +1,6 @@
 ---
-title: 11 Signs of Self-Harm in Teens and How to Help
 date: '2025-03-26T03:00:00+00:00'
-source: THIRA Health
-source_url: https://thirahealth.com/2025/03/26/11-signs-of-self-harm-in-teens-and-how-to-help/?utm_source=rss&utm_medium=rss&utm_campaign=11-signs-of-self-harm-in-teens-and-how-to-help
+images: []
 original_content: |-
   <p>When you have a teen in your life, you’re bound to feel protective. Teens are faced with big life decisions and challenges, often for the first time in their lives, and you want to help. Social pressures, friend and romantic relationships, academic worries, concerns about their future, changing hormones, changing mental health, and more can make the teen years tough.</p>
   <p>Because the teen years can be so intense and the emotions so vivid, teens need coping mechanisms to turn to. Some are healthy, like pursuing interests in sports or spending lots of time with friends. But teens are also exposed to behaviors that hurt more than help, and sometimes, these behaviors feel like the only option a teen has. Self-harm is one of those behaviors.</p>
@@ -168,11 +166,13 @@ original_markdown_body: |-
   - [Residential treatment centers](https://thirahealth.com/rtc-housing/) where your teen moves to the adolescent mental health center where they receive teen [depression treatment](https://www.thirahealth.com/depression-treatment/), giving them access to 24/7 support and highly structured, holistic adolescent mental health treatment.
 
   THIRA Health offers IOP, PHP, and residential treatment centers for adolescent mental health. We can help your teen leave self-harm behind, guiding them to learn and use healthier coping strategies as they build their self-esteem and process the traumatic and stressful experiences that led them to self-harm in the first place. [Connect with us today](https://thirahealth.com/contact/) to get started on helping your teen build a life worth living!
+source: THIRA Health
+source_url: https://thirahealth.com/2025/03/26/11-signs-of-self-harm-in-teens-and-how-to-help/?utm_source=rss&utm_medium=rss&utm_campaign=11-signs-of-self-harm-in-teens-and-how-to-help
 summarized: true
+title: 11 Signs of Self-Harm in Teens and How to Help
 topics:
 - Mental Health & Counseling
 - Education & Learning
-images: []
 ---
 
 Teens face significant pressures that can lead to self-harm, a concerning behavior in adolescent mental health. Self-harm often serves to express inner pain or distract from emotional distress. Factors contributing to self-harm include school pressures, traumatic life events, social issues, low self-esteem, and body image concerns. 

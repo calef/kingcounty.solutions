@@ -1,8 +1,6 @@
 ---
-title: Bellevue launches AI-powered collaboration to streamline permitting
 date: '2025-08-06T21:35:16+00:00'
-source: City of Bellevue
-source_url: https://bellevuewa.gov/city-news/govstreamai-partnership
+images: []
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Bellevue
   launches AI-powered collaboration to streamline permitting</span>\n<span class=\"field
   field--name-uid field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"
@@ -95,10 +93,12 @@ original_markdown_body: |-
   This public-private design partnership served as a model for a recent [City Council resolution](https://bellevue.legistar.com/LegislationDetail.aspx?ID=7477785&GUID=80817B24-D987-4A07-B96B-A83069A52F8D) establishing policy for future technological collaborations. More information on the city’s partnership with Govstream.ai is at [Govstream.ai Partnership](https://bellevuewa.gov/city-government/departments/ITD/innovation-programs/innovation-partnerships/innovation-partnership-govstreamai "Innovation Partnership with Govstream.ai"). More details about this partnership will be presented at the [Innovation Forum](https://bellevuewa.gov/city-government/departments/ITD/innovation-programs/events-meetings "Events and Meetings") in October.
 
   <time datetime="2025-08-06T12:00:00Z" class="datetime">August 6 2025</time>
-summarized: true
-topics: []
 published: false
-images: []
+source: City of Bellevue
+source_url: https://bellevuewa.gov/city-news/govstreamai-partnership
+summarized: true
+title: Bellevue launches AI-powered collaboration to streamline permitting
+topics: []
 ---
 
 The City of Bellevue has partnered with Govstream.ai to pilot AI tools aimed at streamlining and accelerating the city's permitting processes. As Bellevue continues to grow, the initiative seeks to enhance efficiency and create a user-friendly experience for residents. The initial phase will support permitting staff, helping them access accurate information and navigate complexities more effectively. This partnership aligns with Bellevue’s goals of fostering a thriving community while maintaining high standards of livability.

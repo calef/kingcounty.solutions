@@ -1,8 +1,7 @@
 ---
-title: Research Study for Parents of Teens Who Use AAC
 date: '2025-11-17T19:43:38+00:00'
-source: Institute on Human Development and Disability
-source_url: https://ihdd.org/2025/11/17/research-study-for-parents-of-teens-who-use-aac/
+images:
+- 53321c83715bb8bcec0eb7c78be2d9767c797023490df36e70feb81de06a3e39
 original_content: "<div class=\"wpb-content-wrapper\">\r\n<div  data-mk-stretch-content=\"true\"
   class=\"wpb_row vc_row vc_row-fluid jupiter-donut- mk-fullwidth-false  attched-false
   \    js-master-row  mk-grid\">\r\n\t\t\t\t\r\n<div class=\"vc_col-sm-9 wpb_column
@@ -149,12 +148,13 @@ original_markdown_body: "## [Home](https://ihdd.org/)\n\n## Research Study for P
   \       \n        </ul>\n        </section>\t</div>\r\n</aside>\n\nThe post [Research
   Study for Parents of Teens Who Use AAC](https://ihdd.org/2025/11/17/research-study-for-parents-of-teens-who-use-aac/)
   appeared first on [UW IHDD](https://ihdd.org)."
+source: Institute on Human Development and Disability
+source_url: https://ihdd.org/2025/11/17/research-study-for-parents-of-teens-who-use-aac/
 summarized: true
+title: Research Study for Parents of Teens Who Use AAC
 topics:
 - Disabilities
 - Education & Learning
-images:
-- 53321c83715bb8bcec0eb7c78be2d9767c797023490df36e70feb81de06a3e39
 ---
 
 The Language, Assistive Technology, and Autism (LATA) Lab at The Ohio State University is conducting a research study aimed at parents and legal guardians of transition-age AAC (Augmentative and Alternative Communication) users, specifically those aged 14 to 22. This study, approved by the OSU Institutional Review Board, investigates family experiences during the transition from school to adult life.

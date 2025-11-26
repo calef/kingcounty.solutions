@@ -1,8 +1,7 @@
 ---
-title: Smile Survey
 date: '2025-10-21T22:22:31+00:00'
-source: Arcora Foundation
-source_url: https://arcorafoundation.org/smile-survey/
+images:
+- 596b3bb8797565f3d97f4d83a9e334646442834fe6f09ea35f58a048827f1924
 original_content: |-
   <h4 class="wp-block-heading"><strong>Washington Smile Survey 2023–2024: Tracking Trends in Children’s Oral Health</strong></h4>
 
@@ -135,12 +134,13 @@ original_markdown_body: |-
   </center>
 
   The post [Smile Survey](https://arcorafoundation.org/smile-survey/) appeared first on [Arcora Foundation](https://arcorafoundation.org).
+source: Arcora Foundation
+source_url: https://arcorafoundation.org/smile-survey/
 summarized: true
+title: Smile Survey
 topics:
 - Health Care
 - Education & Learning
-images:
-- 596b3bb8797565f3d97f4d83a9e334646442834fe6f09ea35f58a048827f1924
 ---
 
 The Washington Smile Survey 2023–2024 is a collaborative effort involving the Washington State Department of Health, the Office of Superintendent of Public Instruction, local health jurisdictions, and oral health professionals, supported by the Arcora Foundation. Conducted every five years, this survey provides an in-depth analysis of children's oral health in Washington. 

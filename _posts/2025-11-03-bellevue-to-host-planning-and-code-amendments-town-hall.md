@@ -1,8 +1,6 @@
 ---
-title: Bellevue to host planning and code amendments town hall
 date: '2025-11-03T19:55:14+00:00'
-source: City of Bellevue
-source_url: https://bellevuewa.gov/city-news/bellevue-host-planning-code-amendments-town-hall
+images: []
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Bellevue
   to host planning and code amendments town hall </span>\n<span class=\"field field--name-uid
   field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/arich\"
@@ -41,11 +39,13 @@ original_markdown_body: |-
   This event supports the city's ongoing work to make development and land use processes more accessible to the community. [Register to join via Eventbrite](https://www.eventbrite.com/e/bellevue-code-and-policy-town-hall-tickets-1867137230719?aff=oddtdtcreator "go to eventbrite registration") and explore current code amendment projects and engagement opportunities at [BellevueWA.gov/code-amendments](https://bellevuewa.gov/code-amendments "go to page").&nbsp;
 
   <time datetime="2025-11-03T12:00:00Z" class="datetime">November 3 2025</time>
+source: City of Bellevue
+source_url: https://bellevuewa.gov/city-news/bellevue-host-planning-code-amendments-town-hall
 summarized: true
+title: Bellevue to host planning and code amendments town hall
 topics:
 - Shelter & Housing
 - Transportation & Mobility
-images: []
 ---
 
 The City of Bellevue will host a hybrid town hall on November 17, focusing on proposed code amendments that will influence development and housing. The Code and Policy team will present an overview of ongoing projects and those set to begin in early 2026. Community members can participate in person or online to learn about upcoming planning processes and how to engage. The agenda includes a summary of near-term code updates and a "Code 101" session explaining the development code and its updates. Attendees will also have the opportunity to engage in a live Q&A with the Code and Policy team to ask questions about city regulations. This event aims to enhance accessibility in development and land use processes for the community. Registration is available via Eventbrite.

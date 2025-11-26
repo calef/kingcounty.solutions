@@ -1,8 +1,7 @@
 ---
-title: 'a new beginning: Melody’s journey to housing and stability'
 date: '2025-09-22T21:08:00+00:00'
-source: Mary's Place
-source_url: https://www.marysplaceseattle.org/blog/a-new-beginning-melodys-journey-to-stability
+images:
+- 26f09885b03d9be8b02e307f17aea3e8907fbef69e27517d95760be6d843d2f4
 original_content: "<p class=\"\">When Melody found out she was pregnant, she knew
   one thing for certain—she wanted to be close to family. She returned to Seattle,
   hopeful for a fresh start. But like so many families, she found the severe lack
@@ -81,13 +80,14 @@ original_markdown_body: |-
   **Because of your generosity, moms like Melody don’t have to face homelessness alone. Together, we can ensure that no child sleeps outside!**
 
   [make a gift to help families like Melody's!](https://give.marysplaceseattle.org/campaign/673342/donate?utm_source=website&utm_medium=blog&utm_campaign=blogs-public&c_src=blogs-public&c_src2=blog)
+source: Mary's Place
+source_url: https://www.marysplaceseattle.org/blog/a-new-beginning-melodys-journey-to-stability
 summarized: true
+title: 'a new beginning: Melody’s journey to housing and stability'
 topics:
 - Shelter & Housing
 - Financial Assistance
 - Employment & Job Support
-images:
-- 26f09885b03d9be8b02e307f17aea3e8907fbef69e27517d95760be6d843d2f4
 ---
 
 Melody returned to Seattle during her pregnancy, seeking a fresh start near family. However, the lack of affordable housing made stability elusive. King County requires 44,000 affordable homes for low-income families, yet only 1,595 units had been created by May 2021. Melody and her baby, Jordan, faced months of uncertainty, moving between friends' couches and preparing to sleep in her car. Just as hope faded, she received a call from Mary’s Place, offering shelter. Once settled, Melody worked with a housing specialist to create a plan and find a permanent home. She was overjoyed when she received the keys to her new apartment, equipped with furniture and essentials through the Make-a-Home program. This space provided a safe environment for her and Jordan, fostering hope for their future. Now, Melody is training for a job at a local nonprofit, using her experiences to assist others transitioning from homelessness to stability. Her journey exemplifies how community support can transform lives, ensuring that families like hers have the opportunity to thrive without facing homelessness alone.

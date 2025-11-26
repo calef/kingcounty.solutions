@@ -1,8 +1,6 @@
 ---
-title: 'Protected: Down Syndrome-Connect Research Study Roundup'
 date: '2025-11-25T19:58:09+00:00'
-source: Institute on Human Development and Disability
-source_url: https://ihdd.org/2025/11/25/down-syndrome-connect-research-study-roundup/
+images: []
 original_content: |-
   <form action="https://ihdd.org/wp-login.php?action=postpass" class="post-password-form" method="post"><input type="hidden" name="redirect_to" value="https://ihdd.org/2025/11/25/down-syndrome-connect-research-study-roundup/" /></p>
   <p>This content is password protected. To view it please enter your password below:</p>
@@ -17,11 +15,13 @@ original_markdown_body: |-
   </form>
 
   The post [Protected: Down Syndrome-Connect Research Study Roundup](https://ihdd.org/2025/11/25/down-syndrome-connect-research-study-roundup/) appeared first on [UW IHDD](https://ihdd.org).
+source: Institute on Human Development and Disability
+source_url: https://ihdd.org/2025/11/25/down-syndrome-connect-research-study-roundup/
 summarized: true
+title: 'Protected: Down Syndrome-Connect Research Study Roundup'
 topics:
 - Disabilities
 - Mental Health & Counseling
-images: []
 ---
 
 This content is password protected. To view it please enter your password below: Password: Protected: Down Syndrome-Connect Research Study Roundup.

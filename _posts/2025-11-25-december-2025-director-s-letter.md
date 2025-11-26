@@ -1,8 +1,6 @@
 ---
-title: December 2025 Director’s Letter
 date: '2025-11-25T16:55:51+00:00'
-source: Sno-Valley Senior Center
-source_url: https://snovalleysenior.org/december-2025-directors-letter/
+images: []
 original_content: |-
   <p>Happy Holidays!</p>
   <p>The holiday season is my favorite time of the year and I hope that you have a happy holiday season knowing that your support as members, donors, volunteers, sponsors, etc. makes the work of the Sno-Valley Senior Center possible!</p>
@@ -61,10 +59,12 @@ original_markdown_body: "Happy Holidays!\n\nThe holiday season is my favorite ti
   24 to January 4. We look forward to seeing you in the new year on January 5!\n\nKira
   Avery, Executive Director\n\n&nbsp;\n\nThe post [December 2025 Director’s Letter](https://snovalleysenior.org/december-2025-directors-letter/)
   appeared first on [Sno-Valley Senior Center](https://snovalleysenior.org)."
+source: Sno-Valley Senior Center
+source_url: https://snovalleysenior.org/december-2025-directors-letter/
 summarized: true
+title: December 2025 Director’s Letter
 topics:
 - Senior Services
-images: []
 ---
 
 Happy Holidays! The Sno-Valley Senior Center celebrates the support from its members, donors, and volunteers that makes its work possible. With a 45-year affiliation with Sound Generations, the center is set to become fully independent in the next three years. It is well-prepared for this transition, holding its own 501c3 status, ownership of its building, and a solid financial reserve. There will be no immediate changes to programs, and a gradual transition is planned.

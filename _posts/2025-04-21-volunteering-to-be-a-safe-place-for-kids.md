@@ -1,8 +1,6 @@
 ---
-title: Volunteering to be a ‘safe place’ for kids 
 date: '2025-04-21T15:02:14+00:00'
-source: Solid Ground
-source_url: https://www.solid-ground.org/volunteering-to-be-a-safe-place-for-kids/
+images: []
 original_content: |-
   <p><img width="361" height="255" src="https://s14621.pcdn.co/wp-content/uploads/2025/04/NikitaSharma-CM-04.10.25-1-801x-361x255.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="A young woman wearing a brown, orange, and blue knit-sweater poses by a wall of windows ." decoding="async" srcset="https://s14621.pcdn.co/wp-content/uploads/2025/04/NikitaSharma-CM-04.10.25-1-801x-361x255.jpg 361w, https://s14621.pcdn.co/wp-content/uploads/2025/04/NikitaSharma-CM-04.10.25-1-801x-300x212.jpg 300w, https://s14621.pcdn.co/wp-content/uploads/2025/04/NikitaSharma-CM-04.10.25-1-801x-768x543.jpg 768w, https://s14621.pcdn.co/wp-content/uploads/2025/04/NikitaSharma-CM-04.10.25-1-801x.jpg 801w" sizes="(max-width: 361px) 100vw, 361px" data-attachment-id="69126" data-permalink="https://www.solid-ground.org/volunteering-to-be-a-safe-place-for-kids/nikitasharma-cm-04-10-25-1-801x/" data-orig-file="https://s14621.pcdn.co/wp-content/uploads/2025/04/NikitaSharma-CM-04.10.25-1-801x.jpg" data-orig-size="801,566" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;5&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;NIKON D5600&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1744256335&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;45&quot;,&quot;iso&quot;:&quot;500&quot;,&quot;shutter_speed&quot;:&quot;0.016666666666667&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="NikitaSharma-(CM)-04.10.25-1-801x" data-image-description="" data-image-caption="" data-medium-file="https://s14621.pcdn.co/wp-content/uploads/2025/04/NikitaSharma-CM-04.10.25-1-801x-300x212.jpg" data-large-file="https://s14621.pcdn.co/wp-content/uploads/2025/04/NikitaSharma-CM-04.10.25-1-801x.jpg" /></p><p class="tmc-intro">If you ask Nikita Sharma what she loves most about her volunteer work at <a href="https://www.solid-ground.org/our-impact/housing-homelessness/#broadview">Broadview Shelter and Transitional Housing</a>, she&#8217;ll tell you it’s something that would stress most adults out: when kids get rowdy.</p>
   <p><span data-contrast="auto">“They get loud, they make a mess, but I get really excited because it means they finally feel safe enough to behave like a kid,” she says. “It’s really gratifying.”</span><span data-ccp-props="{}"> </span></p>
@@ -106,11 +104,13 @@ original_markdown_body: "![A young woman wearing a brown, orange, and blue knit-
   at top:** Nikita Sharma, Broadview children’s program volunteer (photo by Clarissa
   Magdich)\n\nThe post [Volunteering to be a ‘safe place’ for kids&nbsp;](https://www.solid-ground.org/volunteering-to-be-a-safe-place-for-kids/)
   appeared first on [Solid Ground](https://www.solid-ground.org)."
+source: Solid Ground
+source_url: https://www.solid-ground.org/volunteering-to-be-a-safe-place-for-kids/
 summarized: true
+title: Volunteering to be a ‘safe place’ for kids 
 topics:
 - Domestic Violence
 - Shelter & Housing
-images: []
 ---
 
 Nikita Sharma volunteers at Broadview Shelter and Transitional Housing, where she supports children and parents escaping domestic violence and homelessness. Her favorite part of volunteering is when children feel safe enough to express themselves freely, even if it means getting rowdy. Over 1,100 volunteers contributed nearly 23,000 hours to various projects, including tutoring and gardening, to help the community. Nikita, who started volunteering after relocating to Seattle for work, found meaning and stability during a challenging period in her life. She engages in diverse activities like distributing lunches, tutoring, and leading fun games to foster healthy relationships and social-emotional skills among children. Her efforts are appreciated by both the children, who enjoy her presence, and her colleagues, who recognize her ability to connect and adapt to various needs. Nikita values the relationships she has built, especially with the children who initially struggle to engage. She finds it rewarding to be a safe space for them, cherishing the trust they place in her when they share their stories. Despite returning to work, she continues to volunteer, emphasizing the importance of the community and the connections she has made at Broadview.

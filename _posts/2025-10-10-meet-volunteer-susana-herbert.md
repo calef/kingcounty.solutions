@@ -1,8 +1,6 @@
 ---
-title: 'Meet Volunteer: Susana Herbert'
 date: '2025-10-10T15:42:58+00:00'
-source: The Center for Active Living
-source_url: https://wscenter.org/meet-volunteer-susana-herbert/
+images: []
 original_content: |-
   <a href="https://wscenter.org/meet-volunteer-susana-herbert/"><p>With a passion for learning and a heart for service, Susana Herbert guides people through the often-intimidating world of personal electronics in her volunteer role at The Center. </p>
 
@@ -17,11 +15,13 @@ original_markdown_body: |-
   Originally from …
 
   ](https://wscenter.org/meet-volunteer-susana-herbert/)
+source: The Center for Active Living
+source_url: https://wscenter.org/meet-volunteer-susana-herbert/
 summarized: true
+title: 'Meet Volunteer: Susana Herbert'
 topics:
 - Education & Learning
 - Employment & Job Support
-images: []
 ---
 
 Susana Herbert is a dedicated volunteer at The Center for Active Living, where she helps individuals navigate personal electronics. A resident of West Seattle since 1966, she originally hails from Montana and has extensive teaching experience, particularly in technology. Her interest in tech began as an English teacher when she encountered early word processors, leading her to become a tech mentor who maintained school computer labs and trained others. 

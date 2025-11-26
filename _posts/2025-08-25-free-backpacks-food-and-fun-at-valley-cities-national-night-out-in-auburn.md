@@ -1,8 +1,6 @@
 ---
-title: Free backpacks, food and fun at Valley Cities’ National Night Out in Auburn
 date: '2025-08-25T19:31:07+00:00'
-source: Valley Cities Behavioral Health Care
-source_url: https://valleycities.org/free-backpacks-food-and-fun-at-valley-cities-national-night-out-in-auburn/
+images: []
 original_content: |-
   <p>As seen in the Kent and Auburn Reporters</p>
   <p><a href="https://valleycities.org/" target="_blank" rel="nofollow noopener" data-mrf-link="https://valleycities.org/">Valley Cities Behavioral Health Care</a> is inviting the community to come together for an afternoon of connection, celebration and support at its <a href="https://www.facebook.com/events/744644797947516/?rdid=ujXFVb89EhGdax4Q&amp;share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1Js3LZ3XwV%2F" target="_blank" rel="nofollow noopener" data-mrf-link="https://www.facebook.com/events/744644797947516/?rdid=ujXFVb89EhGdax4Q&amp;share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1Js3LZ3XwV%2F">National Night Out event in Auburn</a> on Tuesday, Aug. 5.</p>
@@ -57,12 +55,14 @@ original_markdown_body: |-
   _If you or someone you know is currently struggling with mental health and/or addiction, contact the Valley Cities team by phone at 253-833-7444 or in person at your local Valley Cities location. You can also call the 24 hour crisis line at 206-461-3222 or toll free at 866-427-4747._
 
   The post [Free backpacks, food and fun at Valley Cities’ National Night Out in Auburn](https://valleycities.org/free-backpacks-food-and-fun-at-valley-cities-national-night-out-in-auburn/) appeared first on [Valley Cities Behavioral Health Care](https://valleycities.org).
+source: Valley Cities Behavioral Health Care
+source_url: https://valleycities.org/free-backpacks-food-and-fun-at-valley-cities-national-night-out-in-auburn/
 summarized: true
+title: Free backpacks, food and fun at Valley Cities’ National Night Out in Auburn
 topics:
 - Mental Health & Counseling
 - Shelter & Housing
 - Education & Learning
-images: []
 ---
 
 Valley Cities Behavioral Health Care is hosting a National Night Out event on August 5 in Auburn, Washington, from 3 to 6 p.m. at 915 26th St NE. This community gathering aims to promote connection and support, featuring free backpacks and school supplies for children, along with family-friendly activities, music, and light refreshments. The event is a collaborative effort among Valley Cities’ clinics in Auburn, Kent, and Federal Way. Local organizations will provide resources related to mental health, housing, youth programs, and primary care. Payton Standfill, Marketing Specialist at Valley Cities, emphasizes the importance of supporting families during the back-to-school season and creating a welcoming environment. National Night Out traditionally strengthens community ties and enhances safety. The event not only offers fun but also connects attendees with valuable services, alleviating some of the pressures families face at this time of year.

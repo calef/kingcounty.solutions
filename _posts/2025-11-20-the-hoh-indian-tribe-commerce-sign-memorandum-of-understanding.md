@@ -1,8 +1,7 @@
 ---
-title: The Hoh Indian Tribe, Commerce sign memorandum of understanding
 date: '2025-11-20T19:38:42+00:00'
-source: Department of Commerce
-source_url: https://www.commerce.wa.gov/the-hoh-indian-tribe-commerce-sign-memorandum-of-understanding/
+images:
+- 301704c2e04ecf8a8887a8e7439eddcf855539d504d34ef36078a972f2405e09
 original_content: |-
   <p class="has-medium-font-size">MOU will establish government-to-government relations between the sovereign nation and state agency</p>
 
@@ -69,11 +68,12 @@ original_markdown_body: |-
   To learn more about The Hoh Indian Tribe, visit the [Tribe’s website](https://hohtribe-nsn.org).
 
   To learn more and follow Commerce’s work with tribal nations and communities within Washington, visit the [Office of Tribal Relations webpage](https://www.commerce.wa.gov/tribal-relations/).
+source: Department of Commerce
+source_url: https://www.commerce.wa.gov/the-hoh-indian-tribe-commerce-sign-memorandum-of-understanding/
 summarized: true
+title: The Hoh Indian Tribe, Commerce sign memorandum of understanding
 topics:
 - Shelter & Housing
-images:
-- 301704c2e04ecf8a8887a8e7439eddcf855539d504d34ef36078a972f2405e09
 ---
 
 The Hoh Indian Tribe and the Washington State Department of Commerce have signed a historic memorandum of understanding (MOU) establishing government-to-government relations. This agreement aims to remove administrative barriers, enhance communication, and implement culturally appropriate data privacy and security measures. Signed by Hoh Tribal Chairwoman Darlene Hollum and Commerce Director Joe Nguyễn, the MOU reflects a commitment to respect and collaboration, as well as the sovereignty of the Hoh Tribe. As the Tribe relocates its village to higher ground for safety, this partnership ensures their voices are heard. 

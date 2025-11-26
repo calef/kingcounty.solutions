@@ -1,8 +1,7 @@
 ---
-title: Joe Mantegna supports America’s veterans
 date: '2025-11-18T14:41:14+00:00'
-source: Disabled American Veterans
-source_url: https://www.dav.org/learn-more/news/2025/joe-mantegna-supports-americas-veterans/
+images:
+- 036b742a57d78c535ec5a3566af1459bc7e05c6478a5a6bc6c5bfbced346f04a
 original_content: "<div class=\"editor clearfix\">\n\n    \n    <figure id=\"attachment_55365\"
   aria-describedby=\"caption-attachment-55365\" style=\"width: 300px\" class=\"wp-caption
   alignleft\"><img decoding=\"async\" class=\"size-full wp-image-55365\" src=\"https://www.dav.org/wp-content/uploads/Nick-Koulchar_PBC.jpg\"
@@ -80,12 +79,13 @@ original_markdown_body: |-
   To donate today, visit [helpdav.org](https://help.dav.org/page/52572/donate/1?ea.tracking.id=fund_sem&en_txn6=B25FN044AANAANSA&utm_campaign=fund&utm_medium=cpc&utm_source=google&gclsrc=aw.ds&&utm_term=disabled%20veterans%20of%20america&matchtype=b&gad_source=1&gad_campaignid=20727867044&gbraid=0AAAAADut3XU88tLTmF1Z4IZov6y9qmJbM&gclid=CjwKCAiAw9vIBhBBEiwAraSATog1olzB64TmFz2qUgLOT6tso4vz9STrZy7X4Bp8H1QK8B7XCNx64xoCXXsQAvD_BwE) or call 888-984-4493.
 
   The post [Joe Mantegna supports America’s veterans](https://www.dav.org/learn-more/news/2025/joe-mantegna-supports-americas-veterans/) appeared first on [DAV](https://www.dav.org).
+source: Disabled American Veterans
+source_url: https://www.dav.org/learn-more/news/2025/joe-mantegna-supports-americas-veterans/
 summarized: true
+title: Joe Mantegna supports America’s veterans
 topics:
 - Disabilities
 - Employment & Job Support
-images:
-- 036b742a57d78c535ec5a3566af1459bc7e05c6478a5a6bc6c5bfbced346f04a
 ---
 
 Nick Koulchar, an Army veteran, has inspired many, including actor Joe Mantegna, through his remarkable journey of resilience after losing both legs to an IED explosion in Iraq in 2008. Koulchar, who joined the Army in 2006, has since completed over 20 marathons and various CrossFit competitions, proving that he can overcome physical challenges. As a benefits advocate for Disabled American Veterans, he assists fellow veterans in obtaining their earned benefits, highlighting the organization's vital support in providing stability and purpose to injured veterans.

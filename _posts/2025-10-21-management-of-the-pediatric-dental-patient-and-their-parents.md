@@ -1,8 +1,6 @@
 ---
-title: Management of the Pediatric Dental Patient (and their parents)
 date: '2025-10-21T16:41:10+00:00'
-source: Arcora Foundation
-source_url: https://arcorafoundation.org/management-of-the-pediatric-dental-patient-and-their-parents/
+images: []
 original_content: |-
   <p><a href="https://ohlh.talentlms.com/plus/catalog/courses/190">Start the Course</a></p>
 
@@ -112,11 +110,13 @@ original_markdown_body: |-
   [Start the Course](https://ohlh.talentlms.com/plus/catalog/courses/190)
 
   The post [Management of the Pediatric Dental Patient (and their parents)](https://arcorafoundation.org/management-of-the-pediatric-dental-patient-and-their-parents/) appeared first on [Arcora Foundation](https://arcorafoundation.org).
+source: Arcora Foundation
+source_url: https://arcorafoundation.org/management-of-the-pediatric-dental-patient-and-their-parents/
 summarized: true
+title: Management of the Pediatric Dental Patient (and their parents)
 topics:
 - Education & Learning
 - Health Care
-images: []
 ---
 
 This course offers behavior guidance and communication techniques for pediatric dental patients and their parents, aimed at improving treatment planning and execution in dental practices. Participants will learn to identify appropriate treatment plans based on the patient's age, needs, and behavior, as well as five non-sedation behavior management techniques. The course also examines the pros and cons of having parents present during treatment. Successful completion earns participants 1.5 continuing dental education credits. 

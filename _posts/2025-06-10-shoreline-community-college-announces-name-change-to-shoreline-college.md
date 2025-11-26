@@ -1,8 +1,6 @@
 ---
-title: Shoreline Community College Announces Name Change to Shoreline College 
 date: '2025-06-10T16:55:50+00:00'
-source: Shoreline Community College
-source_url: https://news.shoreline.edu/2025/06/10/shoreline-community-college-announces-name-change-to-shoreline-college/
+images: []
 original_content: '<div class="wp-rss-image" style="margin-bottom:20px;max-width:
   600px !important;padding-top: 0.75em;"><img width="400" height="267" src="https://i0.wp.com/news.shoreline.edu/wp-content/uploads/2025/06/Catalog-1-scaled.jpg?fit=400%2C267&amp;ssl=1"
   class="attachment-medium size-medium wp-post-image" alt="This is an image of a pathway
@@ -26,10 +24,12 @@ original_content: '<div class="wp-rss-image" style="margin-bottom:20px;max-width
 original_markdown_body: |-
   ![This is an image of a pathway at Shoreline framed by blossoming spring foliage.](https://i0.wp.com/news.shoreline.edu/wp-content/uploads/2025/06/Catalog-1-scaled.jpg?fit=400%2C267&ssl=1)
   At the May 2025 Board meeting, the Shoreline Community College Board of Trustees voted to officially change the institution’s name to Shoreline College, a strategic change that reflects the College’s growth, while reaffirming its deep commitment to student success, equity, and community engagement. This decision came after a community-wide survey was conducted asking participants to …
+source: Shoreline Community College
+source_url: https://news.shoreline.edu/2025/06/10/shoreline-community-college-announces-name-change-to-shoreline-college/
 summarized: true
+title: Shoreline Community College Announces Name Change to Shoreline College 
 topics:
 - Education & Learning
-images: []
 ---
 
 At its May 2025 Board meeting, the Shoreline Community College Board of Trustees voted to change the institution's name to Shoreline College. This strategic shift reflects the college's growth and commitment to student success, equity, and community engagement, following a community-wide survey that favored the name change. President Jack Kahn expressed enthusiasm about the strong majority support for the change, viewing it as an opportunity to strengthen the college's identity. The new name emphasizes accessibility, student voice, and equity while simplifying recognition, particularly for international audiences. This change aligns with a national trend among two-year institutions adopting more inclusive names that reflect diverse pathways to success, including transfer degrees and professional certificates. The college recently obtained approval to offer a Bachelor of Applied Science in Dental Hygiene. A new logo and visual identity are in development, with community participation planned for the selection process this fall. The complete brand launch, including updated signage, is set for the first half of 2026. During the transition, the college will begin using "Shoreline College" in select communications while continuing to reference "Shoreline Community College" in broader materials. President Kahn assured that the commitment to community remains unchanged.

@@ -1,8 +1,7 @@
 ---
-title: Mark and the purple bike
 date: '2025-08-12T18:29:01+00:00'
-source: Bike Works
-source_url: https://bikeworks.org/mark-and-the-purple-bike/?utm_source=rss&utm_medium=rss&utm_campaign=mark-and-the-purple-bike
+images:
+- ad87ac70308ef8061067946ed8c46011cfead35c5bc67485080c0f292691a7be
 original_content: |-
   <p><strong>Last month, Recycle &amp; Reuse Director Steve Gadingan<a href="https://bikeworks.org/steves-manifesto/"> wrote an essay</a> about the increasingly wasteful bicycle industry and the concept of a forever bike, a bike that is resistant to wear and tear and if treated well, will last, well, forever. What follows is the story of a Bike Works customer and his purple forever bike. </strong></p>
 
@@ -147,11 +146,12 @@ original_markdown_body: "**Last month, Recycle & Reuse Director Steve Gadingan[w
   minutes here and there. “Now, my former students are teaching. But kids have always
   been the best teachers.”&nbsp;\n\nThe post [Mark and the purple bike](https://bikeworks.org/mark-and-the-purple-bike/)
   appeared first on [Bike Works](https://bikeworks.org)."
+source: Bike Works
+source_url: https://bikeworks.org/mark-and-the-purple-bike/?utm_source=rss&utm_medium=rss&utm_campaign=mark-and-the-purple-bike
 summarized: true
+title: Mark and the purple bike
 topics:
 - Education & Learning
-images:
-- ad87ac70308ef8061067946ed8c46011cfead35c5bc67485080c0f292691a7be
 ---
 
 Mark Epstein, a retired history teacher from Rainier Beach High School, reflects on his legacy of cycling as he shares the story of his enduring Trek 920 bike, which he purchased in 1998 from Bike Works, South Seattle's only bike shop. Mark rides his bike to school daily, emphasizing its significance in his life and his efforts to engage students in understanding the world. His bike, which he affectionately refers to as his "purple forever bike," has been meticulously maintained by Bike Works, which has replaced various components over the years. This commitment to repair and reuse aligns with Bike Works' mission of diverting around 6,000 bicycles from waste each year, promoting a sustainable cycling culture.

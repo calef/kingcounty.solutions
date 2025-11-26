@@ -1,8 +1,7 @@
 ---
-title: LCSNW staff embedded in Seattle schools to support youth mental health
 date: '2025-10-10T22:37:16+00:00'
-source: Lutheran Community Services Northwest
-source_url: https://lcsnw.org/2025/10/lcsnw-staff-embedded-in-seattle-schools/
+images:
+- 418dcd99cbbb28502ade967ed693d63ea82a542575b304600572819766bdad2c
 original_content: "<div class=\"et_pb_section et_pb_section_5 blog-post-type et_section_regular\"
   >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_row
   et_pb_row_18\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4 et_pb_column_26
@@ -117,12 +116,13 @@ original_markdown_body: |-
    ![Two youth picking out school supplies at the free event](https://lcsnw.org/wp-content/uploads/2025/10/iStock-826212368-scaled.jpg "iStock-826212368")
 
   The post [LCSNW staff embedded in Seattle schools to support youth mental health](https://lcsnw.org/2025/10/lcsnw-staff-embedded-in-seattle-schools/) appeared first on [LCSNW](https://lcsnw.org).
+source: Lutheran Community Services Northwest
+source_url: https://lcsnw.org/2025/10/lcsnw-staff-embedded-in-seattle-schools/
 summarized: true
+title: LCSNW staff embedded in Seattle schools to support youth mental health
 topics:
 - Mental Health & Counseling
 - Education & Learning
-images:
-- 418dcd99cbbb28502ade967ed693d63ea82a542575b304600572819766bdad2c
 ---
 
 Lutheran Community Services Northwest (LCSNW) has launched a new initiative in Seattle schools to address the youth mental health crisis exacerbated by the COVID-19 pandemic. Funded by the City of Seattle, this program has nearly doubled the number of school-based mental health therapists and added 21 Behavioral Health Coordinators (BHCs) through community partnerships. Eight BHCs are placed in Seattle middle and high schools, marking a significant expansion for LCSNW in the Greater Puget Sound District. 

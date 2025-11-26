@@ -1,17 +1,17 @@
 ---
-title: Nick’s Blog
 date: '2025-06-26T21:38:54+00:00'
-source: King County Sexual Assault Resource Center
-source_url: https://www.kcsarc.org/en/nicks-blog/
+images: []
 original_content: <p>The post <a href="https://www.kcsarc.org/en/nicks-blog/">Nick&#8217;s
   Blog</a> appeared first on <a href="https://www.kcsarc.org/en/">KCSARC</a>.</p>
 original_markdown_body: The post [Nick’s Blog](https://www.kcsarc.org/en/nicks-blog/)
   appeared first on [KCSARC](https://www.kcsarc.org/en/).
+source: King County Sexual Assault Resource Center
+source_url: https://www.kcsarc.org/en/nicks-blog/
 summarized: true
+title: Nick’s Blog
 topics:
 - Mental Health & Counseling
 - Domestic Violence
-images: []
 ---
 
 By the time counseling began with KCSARC, the author had struggled for over a decade with the aftermath of sexual assault. Recent life changes, including a move and new job, triggered overwhelming anxiety linked to past trauma. Despite attempts to cope, social situations became increasingly difficult, prompting concerned friends to suggest counseling. The author discovered that while many KCSARC clients are male, men often feel isolated and ashamed about seeking help due to societal expectations. This internal struggle can lead to feelings of inadequacy and a shame spiral, which can exacerbate isolation and increase mental health risks, including suicide.

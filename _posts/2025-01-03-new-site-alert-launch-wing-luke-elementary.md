@@ -1,8 +1,7 @@
 ---
-title: 'New Site Alert: Launch @ Wing Luke Elementary!'
 date: '2025-01-03T21:50:00+00:00'
-source: Launch Learning
-source_url: https://launchlearning.org/coming-soon-launch-wing-luke-elementary/
+images:
+- 92a6a7e881d56f239242d5d6e3244d85aebf609f34de52375836e894c6ce198f
 original_content: "<div class=\"et_pb_section et_pb_section_0 et_section_regular\"
   >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_row
   et_pb_row_0\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4 et_pb_column_0
@@ -55,11 +54,12 @@ original_markdown_body: "# New Program Alert: Launch @ Wing Luke Elementary!\n\n
   forms are completed, you will receive either a waitlist or confirmation email for
   your student. You can also download your child’s immunization form directly from&nbsp;[myIRmobile.com](https://myirmobile.com/)&nbsp;and
   email it into us.\n\nIf you have questions or need support, please contact&nbsp;[enrollment@launchlearning.org](mailto:enrollment@launchlearning.org)."
+source: Launch Learning
+source_url: https://launchlearning.org/coming-soon-launch-wing-luke-elementary/
 summarized: true
+title: 'New Site Alert: Launch @ Wing Luke Elementary!'
 topics:
 - Education & Learning
-images:
-- 92a6a7e881d56f239242d5d6e3244d85aebf609f34de52375836e894c6ce198f
 ---
 
 Launch Learning is excited to announce the opening of a new afterschool program at Wing Luke Elementary School in early 2025. This program will operate from school dismissal until 6:00 p.m. and aims to provide students with nutritious snacks, academic support, outdoor play, and engaging enrichment activities. Additionally, full-day care will be available during school breaks and in-service days from 8:00 a.m. to 6:00 p.m., potentially at a different location.

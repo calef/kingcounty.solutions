@@ -1,9 +1,7 @@
 ---
-title: Fresh Bucks Now Accepted at Skyway Farmers Market — A New Option for South
-  Seattle Shoppers
 date: '2025-05-21T18:55:46+00:00'
-source: Seattle Fresh Bucks
-source_url: https://www.seattlefreshbucks.org/2025/05/21/fresh-bucks-now-accepted-at-skyway-farmers-market-a-new-option-for-south-seattle-shoppers/?utm_source=rss&utm_medium=rss&utm_campaign=fresh-bucks-now-accepted-at-skyway-farmers-market-a-new-option-for-south-seattle-shoppers
+images:
+- 24ff111a0035610da790c47f37250168e20b94c2e8213035f9c4450f6238d77a
 original_content: "<div class=\"et_pb_section et_pb_section_1 et_section_regular\"
   >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_row
   et_pb_row_2\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_2_3 et_pb_column_3
@@ -63,11 +61,13 @@ original_markdown_body: |-
   - August 10 and 31
   - September 14 and 28
   - October 12 and 26
+source: Seattle Fresh Bucks
+source_url: https://www.seattlefreshbucks.org/2025/05/21/fresh-bucks-now-accepted-at-skyway-farmers-market-a-new-option-for-south-seattle-shoppers/?utm_source=rss&utm_medium=rss&utm_campaign=fresh-bucks-now-accepted-at-skyway-farmers-market-a-new-option-for-south-seattle-shoppers
 summarized: true
+title: Fresh Bucks Now Accepted at Skyway Farmers Market — A New Option for South
+  Seattle Shoppers
 topics:
 - Food & Nutrition
-images:
-- 24ff111a0035610da790c47f37250168e20b94c2e8213035f9c4450f6238d77a
 ---
 
 Good news for Fresh Bucks customers in South Seattle: the Skyway Farmers Market is now accepting Fresh Bucks, providing a new option for shopping. Located in the Skyway community, this market supports BIPOC farmers and grassroots food justice initiatives. Established in response to food access challenges during the COVID-19 pandemic, the market has evolved into a monthly event that fosters community spirit.

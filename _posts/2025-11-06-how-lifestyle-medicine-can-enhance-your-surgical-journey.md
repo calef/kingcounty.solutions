@@ -1,8 +1,6 @@
 ---
-title: How Lifestyle Medicine Can Enhance Your Surgical Journey
 date: '2025-11-06T23:04:18+00:00'
-source: Hospital District No. 1 (Valley Medical Center)
-source_url: https://blog.valleymed.org/2025/11/06/how-lifestyle-medicine-supports-your-surgical-journey/?utm_source=rss&utm_medium=rss&utm_campaign=how-lifestyle-medicine-supports-your-surgical-journey
+images: []
 original_content: |-
   <p><img width="300" height="188" src="https://blog.valleymed.org/wp-content/uploads/2025/11/medium-BIOCIRCUITELDERLYImage-2-Blog-300x188.jpg" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://blog.valleymed.org/wp-content/uploads/2025/11/medium-BIOCIRCUITELDERLYImage-2-Blog-300x188.jpg 300w, https://blog.valleymed.org/wp-content/uploads/2025/11/medium-BIOCIRCUITELDERLYImage-2-Blog-768x480.jpg 768w, https://blog.valleymed.org/wp-content/uploads/2025/11/medium-BIOCIRCUITELDERLYImage-2-Blog-600x375.jpg 600w, https://blog.valleymed.org/wp-content/uploads/2025/11/medium-BIOCIRCUITELDERLYImage-2-Blog.jpg 800w" sizes="auto, (max-width: 300px) 100vw, 300px" /></p>
   <p>Having surgery can be one of the hardest things a person goes through, both physically and emotionally. Whether it’s a joint replacement, cardiac procedure, or another type of operation, patients need to prepare their body for surgery and recovery afterward. Increasingly, healthcare professionals are turning to lifestyle medicine—with a focus on exercise, nutrition counseling, diabetes management, and physical therapy—to help patients strengthen their health before surgery and regain function after.</p>
@@ -114,11 +112,13 @@ original_markdown_body: "![](https://blog.valleymed.org/wp-content/uploads/2025/
   Medicine](http://valleymed.org/lifestylemed)** and **[Outpatient Therapy Services](http://valleymed.org/rehab)**
   webpages.\n\n_Thomas Hammett, DPT, DipACLM, is Director of Operations for Valley’s
   Lifestyle Medicine clinics._"
+source: Hospital District No. 1 (Valley Medical Center)
+source_url: https://blog.valleymed.org/2025/11/06/how-lifestyle-medicine-supports-your-surgical-journey/?utm_source=rss&utm_medium=rss&utm_campaign=how-lifestyle-medicine-supports-your-surgical-journey
 summarized: true
+title: How Lifestyle Medicine Can Enhance Your Surgical Journey
 topics:
 - Health Care
 - Mental Health & Counseling
-images: []
 ---
 
 Having surgery can be challenging both physically and emotionally, necessitating preparation for both the procedure and recovery. Healthcare professionals increasingly utilize lifestyle medicine, emphasizing exercise, nutrition counseling, diabetes management, and physical therapy, to enhance patients' health prior to surgery and facilitate recovery afterward. Prehabilitation (prehab) is a key component, promoting muscle strengthening and heart health, which leads to quicker recoveries. Research indicates that active patients experience fewer complications and shorter hospital stays.

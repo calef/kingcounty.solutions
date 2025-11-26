@@ -1,9 +1,10 @@
 ---
-title: 'King County Solutions Weekly Roundup: November 16–November 22, 2025'
 date: '2025-11-22T18:00:00-08:00'
+images: []
+openai_model: gpt-5.1
 source: King County Solutions
 summarized: true
-openai_model: gpt-5.1
+title: 'King County Solutions Weekly Roundup: November 16–November 22, 2025'
 topics:
 - Shelter & Housing
 - Transportation & Mobility
@@ -15,7 +16,6 @@ topics:
 - Senior Services
 - Financial Assistance
 - Employment & Job Support
-images: []
 ---
 
 King County Solutions tracked 82 public-sector updates for the week ending November 22, spanning housing, transit, food security, health, and youth support. With winter setting in and federal funding disruptions still rippling through safety-net systems, this week’s news shows local governments and nonprofits racing to stabilize essentials: homes, meals, and mental health care.

@@ -1,8 +1,6 @@
 ---
-title: Maple Valley Food Bank Service Area Change (Black Diamond)
 date: '2025-01-20T18:54:48+00:00'
-source: Maple Valley Food Bank
-source_url: https://www.maplevalleyfoodbank.org/serviceareachangebd/
+images: []
 original_content: |-
   <div  class='flex_column av-1lv165-0cadd99f474670ac83375aa7bbdc0deb av_one_full  avia-builder-el-0  el_before_av_one_full  avia-builder-el-first  first flex_column_div  '     ><style type="text/css" data-created_by="avia_inline_auto" id="style-css-av-lpmx0wr7-5231e82aec8021c9100be012019ee6fb">
   .avia-image-container.av-lpmx0wr7-5231e82aec8021c9100be012019ee6fb img.avia_image{
@@ -106,11 +104,13 @@ original_markdown_body: "<style type=\"text/css\" data-created_by=\"avia_inline_
   is the Executive Director of the Maple Valley Food Bank</span> located in Maple
   Valley, Washington. To reach Jon, call (425) 432-8633, Ext. 103 or email: <a href=\"mailto:info@maplevalleyfoodbank.org\"
   target=\"_blank\" rel=\"noopener\">info@maplevalleyfoodbank.org</a>.</p>\n</div></section>"
+source: Maple Valley Food Bank
+source_url: https://www.maplevalleyfoodbank.org/serviceareachangebd/
 summarized: true
+title: Maple Valley Food Bank Service Area Change (Black Diamond)
 topics:
 - Food & Nutrition
 - Financial Assistance
-images: []
 ---
 
 Maple Valley Food Bank has announced a change in its service area, effective February 1, 2025. The entire City of Black Diamond will no longer be included in the service area, meaning residents outside the Tahoma School District will lose access to additional programs such as Rent/Mortgage Assistance, Holiday Gifts, Holiday Food, and School Supplies. This decision, made by the Maple Valley Food Bank Board of Directors, was influenced by the availability of other food banks serving Black Diamond, specifically Plateau Outreach Ministries and the Black Diamond Community Center.

@@ -1,8 +1,6 @@
 ---
-title: Progressive WA needs a progressive tax structure to match
 date: '2025-03-29T00:15:18+00:00'
-source: Solid Ground
-source_url: https://www.solid-ground.org/progressive-wa-needs-a-progressive-tax-structure-to-match/
+images: []
 original_content: |-
   <p><img width="361" height="255" src="https://s14621.pcdn.co/wp-content/uploads/2025/03/PovertyActionRevenuRally-1-361x255.jpeg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Four people standing on steps infront of a state legislative building holding signs that read &quot;Poverty is a policy choice: Pass Progrressive Revenue For All.&quot;" decoding="async" srcset="https://s14621.pcdn.co/wp-content/uploads/2025/03/PovertyActionRevenuRally-1-361x255.jpeg 361w, https://s14621.pcdn.co/wp-content/uploads/2025/03/PovertyActionRevenuRally-1-300x212.jpeg 300w, https://s14621.pcdn.co/wp-content/uploads/2025/03/PovertyActionRevenuRally-1-768x543.jpeg 768w, https://s14621.pcdn.co/wp-content/uploads/2025/03/PovertyActionRevenuRally-1.jpeg 801w" sizes="(max-width: 361px) 100vw, 361px" data-attachment-id="68880" data-permalink="https://www.solid-ground.org/progressive-wa-needs-a-progressive-tax-structure-to-match/povertyactionrevenurally-2/" data-orig-file="https://s14621.pcdn.co/wp-content/uploads/2025/03/PovertyActionRevenuRally-1.jpeg" data-orig-size="801,566" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="PovertyAction_RevenueRally_(unknown)_03.17.25" data-image-description="" data-image-caption="&lt;p&gt;Members of the Poverty Action team fighting for progressive revenue in Olympia.&lt;/p&gt;
   " data-medium-file="https://s14621.pcdn.co/wp-content/uploads/2025/03/PovertyActionRevenuRally-1-300x212.jpeg" data-large-file="https://s14621.pcdn.co/wp-content/uploads/2025/03/PovertyActionRevenuRally-1.jpeg" /></p><div>
@@ -106,11 +104,13 @@ original_markdown_body: "![Four people standing on steps infront of a state legi
   is on the left.\n\nThe post [Progressive WA needs a progressive tax structure to
   match](https://www.solid-ground.org/progressive-wa-needs-a-progressive-tax-structure-to-match/)
   appeared first on [Solid Ground](https://www.solid-ground.org)."
+source: Solid Ground
+source_url: https://www.solid-ground.org/progressive-wa-needs-a-progressive-tax-structure-to-match/
+summarized: true
+title: Progressive WA needs a progressive tax structure to match
 topics:
 - Financial Assistance
 - Employment & Job Support
-summarized: true
-images: []
 ---
 
 Washington state faces a critical decision regarding its tax structure, which is among the most regressive in the nation. Wealthy individuals pay a lower tax rate compared to low-income residents, exacerbating income inequality. Many families struggle under confusing and insufficient benefits systems, which fail to provide the necessary support. Lawmakers are at a crossroads: they can either make severe budget cuts to vital services or embrace progressive tax proposals that would fairly distribute the tax burden.

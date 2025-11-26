@@ -1,14 +1,18 @@
 ---
-title: Recognizing the service of Metro veterans
 date: '2025-11-10T20:57:22+00:00'
+images: []
+original_content: By Ernest Kandilige, Metro Deputy General Manager As Veterans Day
+  (Nov. 11) approaches, I want to take a moment to recognize and thank all of Metro’s
+  military service members, past and...
+original_markdown_body: By&nbsp;Ernest Kandilige, Metro Deputy General Manager As
+  Veterans Day (Nov. 11) approaches, I want to take a moment to recognize and thank
+  all of Metro’s military service members, past and...
 source: King County Metro Transit
 source_url: https://kingcountymetro.blog/2025/11/10/recognizing-the-service-of-metro-veterans/
-original_content: By Ernest Kandilige, Metro Deputy General Manager As Veterans Day (Nov. 11) approaches, I want to take a moment to recognize and thank all of Metro’s military service members, past and...
-original_markdown_body: By&nbsp;Ernest Kandilige, Metro Deputy General Manager As Veterans Day (Nov. 11) approaches, I want to take a moment to recognize and thank all of Metro’s military service members, past and...
 summarized: true
+title: Recognizing the service of Metro veterans
 topics:
 - Employment & Job Support
-images: []
 ---
 
 As Veterans Day approaches, Metro recognizes the service of its military members, both past and present. A ceremonial flag raising took place on November 10 to honor veterans and their families. The article highlights the stories of four Metro employees who are veterans: Nicholas Warren, Ruy Diaz, Scott Peterson, and William Herbert. 

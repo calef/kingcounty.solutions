@@ -1,8 +1,6 @@
 ---
-title: 'Strengthening Wellspring’s Mission: A Strategic Transition of EAP'
 date: '2024-12-05T23:27:42+00:00'
-source: Wellspring Family Services
-source_url: https://wellspringfs.org/strengthening-wellsprings-mission-a-strategic-transition-of-eap/
+images: []
 original_content: |-
   <p>Wellspring Family Services has made the strategic decision to transition its Employee Assistance Program (EAP) to <a href="https://curalinc.com/">CuraLinc Healthcare</a>, effective December 2, 2024, marking a significant milestone in its commitment to preventing and ending family homelessness.</p>
   <p>For more than a century, Wellspring has evolved to meet the community&#8217;s changing needs. The decision to transition the EAP reflects this legacy of adaptability, enabling the organization to strengthen its core mission. Programs like <a href="https://wellspringfs.org/services/housing/">Housing Services</a>, the <a href="https://wellspringfs.org/services/early-learning/">Early Learning Center</a>, the free <a href="https://wellspringfs.org/services/family-store/">Family Store,</a> and <a href="https://wellspringfs.org/services/employee-stability-program/">Employee Stability Program</a> remain at the heart of Wellspring&#8217;s work and will continue providing vital support that helps families achieve lasting stability.</p>
@@ -22,12 +20,14 @@ original_markdown_body: |-
   This decision underscores Wellspring’s dedication to its mission and ability to adapt to meet the community’s needs. With a renewed focus on its family services programs and a stable financial foundation, Wellspring is well-positioned to grow its impact and support families in crisis for years to come.
 
   The post [Strengthening Wellspring’s Mission: A Strategic Transition of EAP](https://wellspringfs.org/strengthening-wellsprings-mission-a-strategic-transition-of-eap/) appeared first on [Wellspring](https://wellspringfs.org).
+source: Wellspring Family Services
+source_url: https://wellspringfs.org/strengthening-wellsprings-mission-a-strategic-transition-of-eap/
 summarized: true
+title: 'Strengthening Wellspring’s Mission: A Strategic Transition of EAP'
 topics:
 - Childcare
 - Shelter & Housing
 - Employment & Job Support
-images: []
 ---
 
 Wellspring Family Services is transitioning its Employee Assistance Program (EAP) to CuraLinc Healthcare, effective December 2, 2024. This decision reflects Wellspring's long-standing commitment to preventing and ending family homelessness while adapting to the evolving needs of the community. The transition aims to enhance the EAP's legacy of care and excellence, ensuring continuity of support for client organizations and their employees. Peter Schultz, interim CEO of Wellspring, highlighted that CuraLinc was selected due to its alignment with Wellspring's values and its reputation for compassionate support. The EAP, which has been integral to Wellspring's mission for decades, will now operate under CuraLinc, allowing Wellspring to concentrate on its core services, including Housing Services, the Early Learning Center, the Family Store, and the Employee Stability Program. This strategic move positions Wellspring to further its impact and support families in crisis, backed by a stable financial foundation and a renewed focus on its family services.

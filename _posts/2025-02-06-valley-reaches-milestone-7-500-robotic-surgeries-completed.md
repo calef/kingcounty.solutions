@@ -1,8 +1,6 @@
 ---
-title: 'Valley Reaches Milestone: 7,500 Robotic Surgeries Completed'
 date: '2025-02-06T01:12:08+00:00'
-source: Hospital District No. 1 (Valley Medical Center)
-source_url: https://blog.valleymed.org/2025/02/05/valley-reaches-milestone-7500-robotic-surgeries-completed/?utm_source=rss&utm_medium=rss&utm_campaign=valley-reaches-milestone-7500-robotic-surgeries-completed
+images: []
 original_content: |-
   <p><img width="300" height="188" src="https://blog.valleymed.org/wp-content/uploads/2023/10/Robotic-Surgery-Center-of-Excellence-Header-300x188.png" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://blog.valleymed.org/wp-content/uploads/2023/10/Robotic-Surgery-Center-of-Excellence-Header-300x188.png 300w, https://blog.valleymed.org/wp-content/uploads/2023/10/Robotic-Surgery-Center-of-Excellence-Header-600x375.png 600w, https://blog.valleymed.org/wp-content/uploads/2023/10/Robotic-Surgery-Center-of-Excellence-Header-768x480.png 768w, https://blog.valleymed.org/wp-content/uploads/2023/10/Robotic-Surgery-Center-of-Excellence-Header.png 800w" sizes="auto, (max-width: 300px) 100vw, 300px" /></p>
   <p>Valley Medical Center is celebrating a major achievement in surgical innovation, having successfully completed its 7,500th robotic-assisted surgery. Since first adopting robotic-assisted surgery in 2009, Valley has remained at the forefront of advanced surgical care, improving patient outcomes through cutting-edge technology.</p>
@@ -56,10 +54,12 @@ original_markdown_body: |-
   With ongoing investments in robotic technology and surgeon training, Valley Medical Center remains committed to providing patients with the highest level of surgical care.
 
   For more information about robotic-assisted surgery at Valley Medical Center, visit **[valleymed.org/roboticsurgery.](http://valleymed.org/roboticsurgery)**
+source: Hospital District No. 1 (Valley Medical Center)
+source_url: https://blog.valleymed.org/2025/02/05/valley-reaches-milestone-7500-robotic-surgeries-completed/?utm_source=rss&utm_medium=rss&utm_campaign=valley-reaches-milestone-7500-robotic-surgeries-completed
 summarized: true
+title: 'Valley Reaches Milestone: 7,500 Robotic Surgeries Completed'
 topics:
 - Health Care
-images: []
 ---
 
 Valley Medical Center has achieved a significant milestone by completing its 7,500th robotic-assisted surgery since introducing the technology in 2009. The center has been recognized as a Center of Excellence in Robotic Surgery by the Surgical Review Corporation in 2023 and has expanded its facilities from one to two robotic operating rooms to meet growing demand for minimally invasive procedures. Valley ranks in the 75th percentile for robotic surgery use, exceeding the national average by 14%. Dr. Greta Bernier, Medical Director of Robotic Surgery, highlights that robotic-assisted surgery provides benefits such as smaller incisions, reduced pain, quicker recovery times, and improved overall outcomes. The program includes high-volume specialties like general and gynecologic surgery, with additional procedures in colorectal, endocrine, surgical oncology, urology, and urogynecology. Dr. Heather Wheeler, Medical Director for Perioperative Services, emphasizes the commitment to providing advanced minimally invasive surgery, supported by 19 surgeons across eight specialties. In 2024, Valley completed 910 robotic-assisted surgeries, making up over 14% of its surgical volumes, and continues to invest in both technology and training to enhance surgical care.

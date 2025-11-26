@@ -1,8 +1,7 @@
 ---
-title: 'Local Meet-Ups – Becoming: Connection in the Community'
 date: '2025-09-10T15:49:20+00:00'
-source: Washington Center for Deaf and Hard of Hearing Youth
-source_url: https://www.cdhy.wa.gov/local-meet-ups-becoming-connection-in-the-community/
+images:
+- 193f75649a4e1c1194a33cb38cd34a2f1193ab9ba829edf9bd66e253bae3f833
 original_content: |-
   <div class="wp-block-image"><img decoding="async" class="wpa-warning wpa-long-alt aligncenter wp-image-11160" src="https://www.cdhy.wa.gov/wp-content/uploads/2025/09/Connection-in-the-Community-Flyer-791x1024.png" alt="The image is a promotional flyer for &quot;Local Meet-Ups&quot; aimed at connecting the local DHH and interpreting community. At the top, the text &quot;BECOMING: CONNECTION IN THE COMMUNITY&quot; is in bold, with &quot;CONNECTION IN THE COMMUNITY&quot; curved and in red. Below, the details of an event scheduled for Saturday, September 20th, from 9 to 10:30 AM are presented. It invites people who know sign language to join. Underneath, a list of locations and their addresses are provided for cities such as Bellevue, Ellensburg, Lacey, Lake Forest Park, Spokane, Tacoma, and Vancouver. Each location is associated with a local coffee shop or library for the meet-ups. On the bottom left, an illustration features a diverse group of people gesturing, some with hands raised in what appears to be sign language. On the right side, a simple map of Washington state with green shading marks the locations of the meet-ups with blue dots. At the bottom, there is a QR code and a logo for the Educational Interpreter Hub. The flyer’s color scheme includes whites, reds, and greens with bold black text." width="643" height="832" data-warning="Long alt text" srcset="https://www.cdhy.wa.gov/wp-content/uploads/2025/09/Connection-in-the-Community-Flyer-200x259.png 200w, https://www.cdhy.wa.gov/wp-content/uploads/2025/09/Connection-in-the-Community-Flyer-232x300.png 232w, https://www.cdhy.wa.gov/wp-content/uploads/2025/09/Connection-in-the-Community-Flyer-400x518.png 400w, https://www.cdhy.wa.gov/wp-content/uploads/2025/09/Connection-in-the-Community-Flyer-600x777.png 600w, https://www.cdhy.wa.gov/wp-content/uploads/2025/09/Connection-in-the-Community-Flyer-768x994.png 768w, https://www.cdhy.wa.gov/wp-content/uploads/2025/09/Connection-in-the-Community-Flyer-791x1024.png 791w, https://www.cdhy.wa.gov/wp-content/uploads/2025/09/Connection-in-the-Community-Flyer-800x1036.png 800w, https://www.cdhy.wa.gov/wp-content/uploads/2025/09/Connection-in-the-Community-Flyer-1187x1536.png 1187w, https://www.cdhy.wa.gov/wp-content/uploads/2025/09/Connection-in-the-Community-Flyer-1200x1553.png 1200w, https://www.cdhy.wa.gov/wp-content/uploads/2025/09/Connection-in-the-Community-Flyer.png 1545w" sizes="(max-width: 643px) 100vw, 643px" /></div>
   <h3 style="text-align: center;"><strong><span style="font-family: 'Book Antiqua', Palatino; font-size: 28px;"><span style="font-size: 36px;">Becoming:</span><br />
@@ -51,11 +50,12 @@ original_markdown_body: "![The image is a promotional flyer for \"Local Meet-Ups
   [(2201 6th Ave, Tacoma, WA 98403)](https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fmaps.app.goo.gl%2fasJaqp316MFqy12M9&c=E,1,PBDEtZ13o-JyqrxOO6tyzbWwyXD-gEQkH-CuBc6wzE2GbIovIrD4BAEWxQdAh3bUJRclBzyHbN86FfvfcdVSrRucsYnc7yQvZBJdqhtxpIA,&typo=1)\n\n**Vancouver
   –** [Washington School for the Deaf](https://www.wsd.wa.gov/) **–** [(3107 E Evergreen
   Blvd, Vancouver, WA 98661)](https://www.google.com/maps/dir/44.0467456,-122.896384/3107+E+Evergreen+Blvd,+Vancouver,+WA+98661/@44.8299139,-124.1902169,8z/data=!3m1!4b1!4m9!4m8!1m1!4e1!1m5!1m1!1s0x5495af5789d36e59:0x47ec108882805375!2m2!1d-122.6379999!2d45.625979?entry=ttu&g_ep=EgoyMDI1MDkwNy4wIKXMDSoASAFQAw%3D%3D)"
+source: Washington Center for Deaf and Hard of Hearing Youth
+source_url: https://www.cdhy.wa.gov/local-meet-ups-becoming-connection-in-the-community/
 summarized: true
+title: 'Local Meet-Ups – Becoming: Connection in the Community'
 topics:
 - Disabilities
-images:
-- 193f75649a4e1c1194a33cb38cd34a2f1193ab9ba829edf9bd66e253bae3f833
 ---
 
 Join the local Deaf and Hard of Hearing (DHH) and interpreting community for a meet-up on September 20, 2025, from 9 AM to 10:30 AM. All sign language users are welcome to connect at various locations across Washington. This “no-host” event requires attendees to cover their own food and beverages. 

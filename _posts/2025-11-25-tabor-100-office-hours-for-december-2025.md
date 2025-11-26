@@ -1,8 +1,6 @@
 ---
-title: Tabor 100 Office Hours for December 2025
 date: '2025-11-25T21:59:05+00:00'
-source: City of Seattle
-source_url: https://consultants.seattle.gov/2025/11/25/tabor-100-office-hours-for-december-2025/
+images: []
 original_content: Do you want to learn more about doing business with the City? Do
   you want to know about how the City of Seattle works with women- and minority-owned
   businesses? Do you have questions about working with unions on City construction
@@ -11,10 +9,12 @@ original_markdown_body: Do you want to learn more about doing business with the 
   Do you want to know about how the City of Seattle works with women- and minority-owned
   businesses? Do you have questions about working with unions on City construction
   projects? Do you want ...
+source: City of Seattle
+source_url: https://consultants.seattle.gov/2025/11/25/tabor-100-office-hours-for-december-2025/
 summarized: true
+title: Tabor 100 Office Hours for December 2025
 topics:
 - Employment & Job Support
-images: []
 ---
 
 The City of Seattle's Tabor 100 Hub will host office hours in December 2025 for individuals interested in doing business with the City, particularly women- and minority-owned businesses. Staff from the Department of Finance and Administrative Services will be available for consultations without the need for appointments. The office is located at 7100 Fort Dent Way, Suite 100, Tukwila, WA 98188.

@@ -1,8 +1,6 @@
 ---
-title: The Dangers of ChatGPT Hallucinations
 date: '2025-11-10T21:17:00+00:00'
-source: Talkspace Free Online Therapy for Seattle Youth
-source_url: https://www.talkspace.com/blog/chatgpt-hallucinations/
+images: []
 original_content: |-
   <div class="is-layout-constrained wp-block-group"><div class="wp-block-group__inner-container">
   <p><strong>A note about AI: </strong><em>On the Talkspace blog we aim to provide trustworthy coverage of all the mental health topics people might be curious about, by delivering science-backed, clinician-reviewed information. Our articles on artificial intelligence (AI) and how this emerging technology may intersect with mental health and healthcare are designed to educate and add insights to this cultural conversation. We believe that therapy, at its core, is focused around the therapeutic connection between human therapists and our members. At Talkspace we only use ethical and responsible AI tools that are developed in partnership with our human clinicians. These tools aren’t designed to replace qualified therapists, but to enhance their ability to keep delivering high-quality care.</em> <em>To learn more, visit our </em><a href="https://www.talkspace.com/ai-at-talkspace" target="_blank" rel="noopener"><em>AI-supported therapy page</em></a><em>.</em></p>
@@ -413,11 +411,13 @@ original_markdown_body: "**A note about AI:** _On the Talkspace blog we aim to p
   [https://arxiv.org/abs/2506.08872](https://arxiv.org/abs/2506.08872)\n\nThe post
   [The Dangers of ChatGPT Hallucinations](https://www.talkspace.com/blog/chatgpt-hallucinations/)
   appeared first on [Talkspace](https://www.talkspace.com/blog)."
+source: Talkspace Free Online Therapy for Seattle Youth
+source_url: https://www.talkspace.com/blog/chatgpt-hallucinations/
 summarized: true
+title: The Dangers of ChatGPT Hallucinations
 topics:
 - Mental Health & Counseling
 - Legal Aid
-images: []
 ---
 
 Artificial intelligence tools like ChatGPT have become integral in daily tasks, but they can produce misleading or false information, referred to as AI hallucinations. These hallucinations occur when the AI generates responses that sound credible but are incorrect or unverifiable. There are two types: intrinsic hallucinations, which misrepresent existing information, and extrinsic hallucinations, which create unverifiable facts. The polished and confident delivery of these responses can make it hard to discern their accuracy.

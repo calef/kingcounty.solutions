@@ -1,8 +1,6 @@
 ---
-title: "*MEDIA ADVISORY*  "
 date: '2025-10-03T23:25:13+00:00'
-source: Neighborhood House
-source_url: https://nhwa.org/2025/10/03/wilcox-media-advisory/
+images: []
 original_content: |-
   <p>FOR IMMEDIATE RELEASE Neighborhood House to Rename Rainier Vista Site as The Wilcox Center  Event honors Shirley and Louis Wilcox, community icons and lifelong volunteers   What: &#160;Neighborhood House will host a celebration to rename its Rainier Vista building as The Wilcox Center, honoring Shirley and Louis Wilcox for their extraordinary contributions to the community. The ... </p>
   <p class="read-more-container"><a title="*MEDIA ADVISORY*  " class="read-more button" href="https://nhwa.org/2025/10/03/wilcox-media-advisory/#more-25295" aria-label="Read more about *MEDIA ADVISORY*  ">Read more</a></p>
@@ -13,10 +11,12 @@ original_markdown_body: |-
   [Read more](https://nhwa.org/2025/10/03/wilcox-media-advisory/#more-25295 "\*MEDIA ADVISORY\*  ")
 
   The post [\*MEDIA ADVISORY\*&nbsp;&nbsp;](https://nhwa.org/2025/10/03/wilcox-media-advisory/) appeared first on [Neighborhood House](https://nhwa.org).
+source: Neighborhood House
+source_url: https://nhwa.org/2025/10/03/wilcox-media-advisory/
 summarized: true
+title: "*MEDIA ADVISORY*  "
 topics:
 - Education & Learning
-images: []
 ---
 
 Neighborhood House will host a celebration on October 7, 2025, to rename its Rainier Vista building as The Wilcox Center. This event honors Shirley and Louis Wilcox for their significant contributions to the community and acknowledges the ongoing efforts of Neighborhood House volunteers. The Wilcox Center will serve as a hub for Head Start and Early Head Start classrooms, caregiver support groups, resource navigation, and community spaces, reflecting the Wilcoxes' commitment to service, education, and equity.

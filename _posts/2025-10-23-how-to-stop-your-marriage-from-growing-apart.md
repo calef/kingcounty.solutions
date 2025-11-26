@@ -1,8 +1,6 @@
 ---
-title: How To Stop Your Marriage From Growing Apart
 date: '2025-10-23T19:43:45+00:00'
-source: Talkspace Free Online Therapy for Seattle Youth
-source_url: https://www.talkspace.com/blog/growing-apart-in-marriage/
+images: []
 original_content: |-
   <div class="is-layout-constrained wp-block-group"><div class="wp-block-group__inner-container">
   <h2>Quick Summary</h2>
@@ -471,10 +469,12 @@ original_markdown_body: "## Quick Summary\n\n- Emotional distance in marriage ca
   doi:10.1177/0146167221993349 [https://pmc.ncbi.nlm.nih.gov/articles/PMC8801651/](https://pmc.ncbi.nlm.nih.gov/articles/PMC8801651/)&nbsp;\n\nThe
   post [How To Stop Your Marriage From Growing Apart](https://www.talkspace.com/blog/growing-apart-in-marriage/)
   appeared first on [Talkspace](https://www.talkspace.com/blog)."
+source: Talkspace Free Online Therapy for Seattle Youth
+source_url: https://www.talkspace.com/blog/growing-apart-in-marriage/
 summarized: true
+title: How To Stop Your Marriage From Growing Apart
 topics:
 - Mental Health & Counseling
-images: []
 ---
 
 Emotional distance in marriages can develop gradually due to life transitions, stress, poor communication, or differing values. Signs of growing apart include superficial conversations, decreased intimacy, spending more time separately, and avoiding discussions about future plans. Couples can address this distance by openly communicating, prioritizing quality time, rebuilding intimacy, and aligning shared goals. Therapy can provide valuable tools for strengthening relationships and may help couples decide if separation is necessary.

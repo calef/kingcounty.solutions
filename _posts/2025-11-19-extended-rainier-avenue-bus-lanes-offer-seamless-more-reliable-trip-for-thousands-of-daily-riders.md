@@ -1,14 +1,19 @@
 ---
-title: Extended Rainier Avenue bus lanes offer seamless, more reliable trip for thousands of daily riders
 date: '2025-11-19T23:25:15+00:00'
+images: []
+original_content: "(This story was crossposted from the SDOT Blog.) Attention, all
+  Route 7 riders. We’re now arriving at the next stop of our citywide investment in
+  transit: completion of the Rainier..."
+original_markdown_body: "(This story was crossposted from the SDOT Blog.) Attention,
+  all Route 7 riders. We’re now arriving at the next stop of our citywide investment
+  in transit: completion of the Rainier..."
 source: King County Metro Transit
 source_url: https://kingcountymetro.blog/2025/11/19/extended-rainier-avenue-bus-lanes-offer-seamless-more-reliable-trip-for-thousands-of-daily-riders/
-original_content: "(This story was crossposted from the SDOT Blog.) Attention, all Route 7 riders. We’re now arriving at the next stop of our citywide investment in transit: completion of the Rainier..."
-original_markdown_body: "(This story was crossposted from the SDOT Blog.) Attention, all Route 7 riders. We’re now arriving at the next stop of our citywide investment in transit: completion of the Rainier..."
 summarized: true
+title: Extended Rainier Avenue bus lanes offer seamless, more reliable trip for thousands
+  of daily riders
 topics:
 - Transportation & Mobility
-images: []
 ---
 
 The completion of the Rainier Avenue South Bus Lane project has been announced, extending the northbound bus-only lane from South Walden Street to South Grand Street. This initiative by the Seattle Department of Transportation aims to enhance the reliability of Route 7, which serves an average of 12,000 daily riders. The project includes repairs to sidewalks, the addition of marked crosswalks and signals, improved sidewalks, ADA-accessible curb ramps, and new streetlights to boost safety and accessibility. It is expected to save riders nearly 5 minutes per trip during peak morning hours.

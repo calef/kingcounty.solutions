@@ -1,8 +1,6 @@
 ---
-title: CONNECTIONS – November 25
 date: '2025-11-07T01:21:16+00:00'
-source: YouthCare
-source_url: https://youthcare.org/blog/connections-november-25/
+images: []
 original_content: |-
   <p></p>
 
@@ -199,13 +197,15 @@ original_markdown_body: "![](https://i0.wp.com/youthcare.org/wp-content/uploads/
   district.\n\nTents, Sleeping bags, Blankets, Winter coats, Gloves, Beanies, Socks/thick
   socks, Raincoats, and Ponchos\n\nThe post [CONNECTIONS – November 25](https://youthcare.org/blog/connections-november-25/)
   appeared first on [YouthCare](https://youthcare.org)."
+source: YouthCare
+source_url: https://youthcare.org/blog/connections-november-25/
 summarized: true
+title: CONNECTIONS – November 25
 topics:
 - Shelter & Housing
 - Food & Nutrition
 - Mental Health & Counseling
 - Domestic Violence
-images: []
 ---
 
 Jose Pizarro, Interim Program Director at YouthCare, shares a personal plea for support as winter approaches, highlighting the plight of hundreds of young people in Seattle experiencing homelessness. Many sleep outside in harsh conditions, and YouthCare has long been a vital resource for these youth, providing shelter and life-changing services. Donations are crucial for continuing this support, symbolizing hope and security for those in need.

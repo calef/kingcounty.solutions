@@ -1,8 +1,7 @@
 ---
-title: Building community, one water balloon at a time 
 date: '2025-09-15T21:27:46+00:00'
-source: Solid Ground
-source_url: https://www.solid-ground.org/building-community-one-water-balloon-at-a-time/
+images:
+- 78452c620499bef2349b2eceb5488e1589ddf2dfa7e8ee134d5f51817b1894ae
 original_content: |-
   <p><img width="361" height="255" src="https://s14621.pcdn.co/wp-content/uploads/2025/08/SandPointSummerParty-RG-07.30.2025-1801x566-1-361x255.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="A teenage girl clutches a water balloon amid a crowd of adults and children, all sopping wet, as droplets of water fly through the air" decoding="async" srcset="https://s14621.pcdn.co/wp-content/uploads/2025/08/SandPointSummerParty-RG-07.30.2025-1801x566-1-361x255.jpg 361w, https://s14621.pcdn.co/wp-content/uploads/2025/08/SandPointSummerParty-RG-07.30.2025-1801x566-1-300x212.jpg 300w, https://s14621.pcdn.co/wp-content/uploads/2025/08/SandPointSummerParty-RG-07.30.2025-1801x566-1-768x543.jpg 768w, https://s14621.pcdn.co/wp-content/uploads/2025/08/SandPointSummerParty-RG-07.30.2025-1801x566-1.jpg 801w" sizes="(max-width: 361px) 100vw, 361px" data-attachment-id="70873" data-permalink="https://www.solid-ground.org/building-community-one-water-balloon-at-a-time/sandpointsummerparty-rg-07-30-2025-1801x566/" data-orig-file="https://s14621.pcdn.co/wp-content/uploads/2025/08/SandPointSummerParty-RG-07.30.2025-1801x566-1.jpg" data-orig-size="801,566" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;4.5&quot;,&quot;credit&quot;:&quot;Rachael Green&quot;,&quot;camera&quot;:&quot;Canon EOS 6D Mark II&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1753922987&quot;,&quot;copyright&quot;:&quot;2025 Rachael Green&quot;,&quot;focal_length&quot;:&quot;58&quot;,&quot;iso&quot;:&quot;2000&quot;,&quot;shutter_speed&quot;:&quot;0.0005&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="SandPointSummerParty-(RG)-07.30.2025- (1)801&#215;566" data-image-description="" data-image-caption="" data-medium-file="https://s14621.pcdn.co/wp-content/uploads/2025/08/SandPointSummerParty-RG-07.30.2025-1801x566-1-300x212.jpg" data-large-file="https://s14621.pcdn.co/wp-content/uploads/2025/08/SandPointSummerParty-RG-07.30.2025-1801x566-1.jpg" /></p><p class="tmc-intro">Joy was in the air this summer at Solid Ground’s <a href="https://www.solid-ground.org/what-we-do/housing-homelessness/#sandpointhousing">Sand Point Housing</a> – sometimes literally, in the form of flying water balloons.  <span data-ccp-props="{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559740&quot;:240}"> </span></p>
   <p><span data-contrast="auto">After nearly coming to a halt amid safety concerns during the pandemic, youth programs at </span><span data-contrast="auto">Sand Point </span><span data-contrast="auto">are once again alive with laughter, movement, and learning. And beneath all the fun, something even deeper is happening: Community connections are</span><span data-contrast="auto"> being built.</span><span data-ccp-props="{&quot;134233117&quot;:true,&quot;134233118&quot;:true,&quot;201341983&quot;:0,&quot;335559740&quot;:240}"> </span></p>
@@ -134,13 +133,14 @@ original_markdown_body: "![A teenage girl clutches a water balloon amid a crowd 
   to Solid Ground](https://www.solid-ground.org/donate/)\n\n**All images by Rachael
   Green**\n\nThe post [Building community, one water balloon at a time&nbsp;](https://www.solid-ground.org/building-community-one-water-balloon-at-a-time/)
   appeared first on [Solid Ground](https://www.solid-ground.org)."
+source: Solid Ground
+source_url: https://www.solid-ground.org/building-community-one-water-balloon-at-a-time/
 summarized: true
+title: Building community, one water balloon at a time 
 topics:
 - Education & Learning
 - Mental Health & Counseling
 - Employment & Job Support
-images:
-- 78452c620499bef2349b2eceb5488e1589ddf2dfa7e8ee134d5f51817b1894ae
 ---
 
 Joy returned to Solid Ground's Sand Point Housing this summer as youth programs resumed, fostering laughter and community connections after pandemic disruptions. The Sand Point campus supports nearly 200 families, including over 130 children, offering not just housing but also essential services like personalized case management and strengths-based youth programs.

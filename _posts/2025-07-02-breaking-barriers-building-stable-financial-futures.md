@@ -1,8 +1,6 @@
 ---
-title: breaking barriers, building stable financial futures
 date: '2025-07-02T20:55:02+00:00'
-source: Mary's Place
-source_url: https://www.marysplaceseattle.org/blog/breaking-barriers-building-stable-futures-financial-literacy-for-all
+images: []
 original_content: "<p class=\"\">Too often, navigating the banking system, budgeting,
   and building credit can feel overwhelming. These skills are usually not taught in
   school and can be especially challenging for those whose native language isn’t English
@@ -63,11 +61,13 @@ original_markdown_body: |-
   _“Our goal with this pilot class series was to ensure every single guest could fully grasp the financial tools and protection strategies we were sharing. Being able to offer these classes in their native languages was critical to making that happen—and it will have a lasting impact,”_ shares Tyler Hutchinson, Economic Advancement Coordinator at Mary’s Place. _“This pilot was just the beginning. By meeting people where they are—linguistically and culturally—we’re building a future where financial knowledge is a right, not a privilege. We’re excited to expand this model and continue working toward a world where every family has the tools they need to thrive.”_
 
   [donate to support programs at Mary's Place](https://give.marysplaceseattle.org/campaign/673342/donate?utm_source=website&utm_medium=blog&utm_campaign=blogs-public&c_src=blogs-public&c_src2=blog)
+source: Mary's Place
+source_url: https://www.marysplaceseattle.org/blog/breaking-barriers-building-stable-futures-financial-literacy-for-all
 summarized: true
+title: breaking barriers, building stable financial futures
 topics:
 - Financial Assistance
 - Employment & Job Support
-images: []
 ---
 
 Navigating the banking system, budgeting, and building credit can be overwhelming, especially for those unfamiliar with financial concepts or who speak different languages. To address this, a Financial Literacy Class Series was launched to provide essential financial skills to all, regardless of background. In collaboration with Bank of America, Umpqua Bank, and Sound Credit Union, the program aims to empower individuals and families at Mary’s Place.

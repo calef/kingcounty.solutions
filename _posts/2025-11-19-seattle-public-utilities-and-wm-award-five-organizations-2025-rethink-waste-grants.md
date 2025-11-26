@@ -1,14 +1,21 @@
 ---
-title: Seattle Public Utilities and WM Award Five Organizations 2025 ReThink Waste Grants
 date: '2025-11-19T18:00:00+00:00'
+images: []
+original_content: On November 19, Seattle Public Utilities (SPU) and WM announced
+  the recipients of the 2025 ReThink Waste Grants, supporting community-based projects
+  that are designed to prevent waste, promote recycling, composting and advance a
+  circular economy in Sea...
+original_markdown_body: On November 19, Seattle Public Utilities (SPU) and WM announced
+  the recipients of the 2025 ReThink Waste Grants, supporting community-based projects
+  that are designed to prevent waste, promote recycling, composting and advance a
+  circular economy in Sea...
 source: City of Seattle
 source_url: https://atyourservice.seattle.gov/2025/11/19/seattle-public-utilities-and-wm-award-five-organizations-2025-rethink-waste-grants/
-original_content: On November 19, Seattle Public Utilities (SPU) and WM announced the recipients of the 2025 ReThink Waste Grants, supporting community-based projects that are designed to prevent waste, promote recycling, composting and advance a circular economy in Sea...
-original_markdown_body: On November 19, Seattle Public Utilities (SPU) and WM announced the recipients of the 2025 ReThink Waste Grants, supporting community-based projects that are designed to prevent waste, promote recycling, composting and advance a circular economy in Sea...
 summarized: true
+title: Seattle Public Utilities and WM Award Five Organizations 2025 ReThink Waste
+  Grants
 topics:
 - Food & Nutrition
-images: []
 ---
 
 On November 19, Seattle Public Utilities (SPU) and WM announced the winners of the 2025 ReThink Waste Grants, which support local initiatives aimed at waste prevention, recycling, and promoting a circular economy. This year's program, now in its seventh year, will allocate $10,000 to five organizations recognized for their innovative approaches to sustainability. The recipients include:

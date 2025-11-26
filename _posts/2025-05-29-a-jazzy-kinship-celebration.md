@@ -1,8 +1,12 @@
 ---
-title: A Jazzy Kinship Celebration
 date: '2025-05-29T18:44:44+00:00'
-source: Atlantic Street Center
-source_url: https://atlanticstreetcenter.org/2025/05/29/a-jazzy-kinship-celebration/?utm_source=rss&utm_medium=rss&utm_campaign=a-jazzy-kinship-celebration
+images:
+- da62fca417c5e4f3205da6a5e160b1450d9f0e4e6f08d1e7ff3bdd97fc40b03e
+- 0e1fcccf34540083f362ef0747f8a98c18e5ab272972f759a6f119b6181763b7
+- 967dc050b5f92cfccd3796895e0f7da08ac20abb17792c52f8d006448071223c
+- b2f0ab6be9794b125efc7aa2306600caf7eeb4f658daa02fcd0a5690114d82fe
+- 5d8239be6dce2d081427fddd86bac3326002388ede72182aa70115997177b821
+- 8a365077d5ab2929eaacd7f44fa5b79d363c275b49f7b67f6ff8faed72f07e60
 original_content: "<div data-elementor-type=\"wp-post\" data-elementor-id=\"9113\"
   class=\"elementor elementor-9113\">\n\t\t\t\t<div class=\"elementor-element elementor-element-3d0c44a
   e-flex e-con-boxed e-con e-parent\" data-id=\"3d0c44a\" data-element_type=\"container\">\n\t\t\t\t\t<div
@@ -117,16 +121,12 @@ original_markdown_body: |-
   <svg aria-hidden="true" class="e-font-icon-svg e-eicon-chevron-left" viewbox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M646 125C629 125 613 133 604 142L308 442C296 454 292 471 292 487 292 504 296 521 308 533L604 854C617 867 629 875 646 875 663 875 679 871 692 858 704 846 713 829 713 812 713 796 708 779 692 767L438 487 692 225C700 217 708 204 708 187 708 171 704 154 692 142 675 129 663 125 646 125Z"></path></svg>
 
   <svg aria-hidden="true" class="e-font-icon-svg e-eicon-chevron-right" viewbox="0 0 1000 1000" xmlns="http://www.w3.org/2000/svg"><path d="M696 533C708 521 713 504 713 487 713 471 708 454 696 446L400 146C388 133 375 125 354 125 338 125 325 129 313 142 300 154 292 171 292 187 292 204 296 221 308 233L563 492 304 771C292 783 288 800 288 817 288 833 296 850 308 863 321 871 338 875 354 875 371 875 388 867 400 854L696 533Z"></path></svg>
+source: Atlantic Street Center
+source_url: https://atlanticstreetcenter.org/2025/05/29/a-jazzy-kinship-celebration/?utm_source=rss&utm_medium=rss&utm_campaign=a-jazzy-kinship-celebration
 summarized: true
+title: A Jazzy Kinship Celebration
 topics:
 - Personal & Household Needs
-images:
-- da62fca417c5e4f3205da6a5e160b1450d9f0e4e6f08d1e7ff3bdd97fc40b03e
-- 0e1fcccf34540083f362ef0747f8a98c18e5ab272972f759a6f119b6181763b7
-- 967dc050b5f92cfccd3796895e0f7da08ac20abb17792c52f8d006448071223c
-- b2f0ab6be9794b125efc7aa2306600caf7eeb4f658daa02fcd0a5690114d82fe
-- 5d8239be6dce2d081427fddd86bac3326002388ede72182aa70115997177b821
-- 8a365077d5ab2929eaacd7f44fa5b79d363c275b49f7b67f6ff8faed72f07e60
 ---
 
 At Atlantic Street Center (ASC), recognition is given to older caregivers who face numerous challenges while raising young children. For over thirty years, the Kinship Care Support Group has provided essential resources to families, advocating for kinship care rights, including support for Senate Bill 5151, which allows relatives to foster children. May 21st is now officially recognized as Kinship Caregiver Day in Washington state, celebrating the contributions of these caregivers.

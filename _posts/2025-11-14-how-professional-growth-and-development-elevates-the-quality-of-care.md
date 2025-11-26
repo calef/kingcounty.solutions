@@ -1,8 +1,6 @@
 ---
-title: How Professional Growth and Development Elevates the Quality of Care
 date: '2025-11-14T23:24:34+00:00'
-source: BrightSpark
-source_url: https://www.brightspark.org/2025/11/elevating-the-quality-of-care-how-access-to-professional-growth-and-development-opportunities-positively-impacts-providers/
+images: []
 original_content: |-
   <p>For child care providers and early learning educators, serving the children and families in their community requires a commitment to lifelong learning. To elevate the quality of their care, it is important that providers have access to holistic, engaging, and culturally relevant continuous learning opportunities.</p>
 
@@ -72,10 +70,12 @@ original_markdown_body: |-
   _Photos in this article courtesy of Lil’ People’s World._
 
   The post [How Professional Growth and Development Elevates the Quality of Care](https://www.brightspark.org/2025/11/elevating-the-quality-of-care-how-access-to-professional-growth-and-development-opportunities-positively-impacts-providers/) appeared first on [BrightSpark](https://www.brightspark.org).
+source: BrightSpark
+source_url: https://www.brightspark.org/2025/11/elevating-the-quality-of-care-how-access-to-professional-growth-and-development-opportunities-positively-impacts-providers/
 summarized: true
+title: How Professional Growth and Development Elevates the Quality of Care
 topics:
 - Education & Learning
-images: []
 ---
 
 For child care providers and early learning educators, ongoing education is essential for enhancing the quality of care they provide to children and families. BrightSpark’s Professional Growth and Development Team offers a range of STARS-fulfilling classes to support providers in meeting Washington State's licensing requirements, which mandate earning 10 training hours per month. These classes, available both in-person and virtually, help improve interactions, curriculum implementation, and cultural awareness among providers.

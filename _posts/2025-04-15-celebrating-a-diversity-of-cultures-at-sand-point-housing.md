@@ -1,8 +1,9 @@
 ---
-title: Celebrating a diversity of cultures at Sand Point Housing
 date: '2025-04-15T00:06:17+00:00'
-source: Solid Ground
-source_url: https://www.solid-ground.org/celebrating-a-diversity-of-cultures-at-sand-point-housing/
+images:
+- ae6c8345a8dcd5d1e911598e3c54523c867afe1e8a7401bc2333c50e20ba6c40
+- 402ba98ab8cce26b2046c1b543670893d0ab5c930e4ce1f978a9fa27ff127b5e
+- 6c5eb79264107e3f88d5bf16106f453701fd9eaba1851deb22cdcfb44e3368e8
 original_content: |-
   <p><img width="361" height="255" src="https://s14621.pcdn.co/wp-content/uploads/2025/04/SandPoint_GirlsReading_NS_02.2025_801x-361x255.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Two young girls behind a microphone reading from a picture book." decoding="async" srcset="https://s14621.pcdn.co/wp-content/uploads/2025/04/SandPoint_GirlsReading_NS_02.2025_801x-361x255.jpg 361w, https://s14621.pcdn.co/wp-content/uploads/2025/04/SandPoint_GirlsReading_NS_02.2025_801x-300x212.jpg 300w, https://s14621.pcdn.co/wp-content/uploads/2025/04/SandPoint_GirlsReading_NS_02.2025_801x-768x543.jpg 768w, https://s14621.pcdn.co/wp-content/uploads/2025/04/SandPoint_GirlsReading_NS_02.2025_801x.jpg 801w" sizes="(max-width: 361px) 100vw, 361px" data-attachment-id="68981" data-permalink="https://www.solid-ground.org/celebrating-a-diversity-of-cultures-at-sand-point-housing/sandpoint_girlsreading_ns_02-2025_801x/" data-orig-file="https://s14621.pcdn.co/wp-content/uploads/2025/04/SandPoint_GirlsReading_NS_02.2025_801x.jpg" data-orig-size="801,566" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;iPhone X&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1738863229&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;6&quot;,&quot;iso&quot;:&quot;100&quot;,&quot;shutter_speed&quot;:&quot;0.032258064516129&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="SandPoint_GirlsReading_(NS)_02.2025_801x" data-image-description="" data-image-caption="&lt;p&gt;Two young Sand Point residents read from &#8220;The boy who never gave up!&#8221;, an OHBD picture book in English and Tigrinya.&lt;/p&gt;
   " data-medium-file="https://s14621.pcdn.co/wp-content/uploads/2025/04/SandPoint_GirlsReading_NS_02.2025_801x-300x212.jpg" data-large-file="https://s14621.pcdn.co/wp-content/uploads/2025/04/SandPoint_GirlsReading_NS_02.2025_801x.jpg" /></p><p class="tmc-intro">On a recent evening at Solid Ground’s Sand Point Housing, a young boy leaned toward a microphone and hesitantly began to read aloud from a children’s book about butterfly migration <span data-contrast="auto">–</span> first in English and then in Arabic:</p>
@@ -98,13 +99,12 @@ original_markdown_body: |-
   - **_Interested in partnering with Solid Ground? Email_** [**_simonem@solid-ground.org_**](mailto:simonem@solid-ground.org) **_._** &nbsp;
 
   The post [Celebrating a diversity of cultures at Sand Point&nbsp;Housing](https://www.solid-ground.org/celebrating-a-diversity-of-cultures-at-sand-point-housing/) appeared first on [Solid Ground](https://www.solid-ground.org).
+source: Solid Ground
+source_url: https://www.solid-ground.org/celebrating-a-diversity-of-cultures-at-sand-point-housing/
 summarized: true
+title: Celebrating a diversity of cultures at Sand Point Housing
 topics:
 - Education & Learning
-images:
-- ae6c8345a8dcd5d1e911598e3c54523c867afe1e8a7401bc2333c50e20ba6c40
-- 402ba98ab8cce26b2046c1b543670893d0ab5c930e4ce1f978a9fa27ff127b5e
-- 6c5eb79264107e3f88d5bf16106f453701fd9eaba1851deb22cdcfb44e3368e8
 ---
 
 At Solid Ground’s Sand Point Housing, a recent event highlighted the importance of cultural representation in children's literature. A young boy began reading a children's book about butterfly migration in both English and Arabic, followed by other children sharing stories in Tigrinya, Spanish, and Amharic. This celebration was made possible by Open Hearts Big Dreams (OHBD), a nonprofit founded by Ellenore Angelidis, which aims to enhance children's literacy globally by providing culturally relevant books. OHBD donated a collection of multilingual children’s books to Sand Point, where about 25% of residents are refugees or recent immigrants, mainly from East Africa. The event featured readings, cultural games, and food from various backgrounds, emphasizing the significance of recognizing and respecting diverse cultures. OHBD, established in 2017, has published over 175 children’s titles in 26 languages, addressing the lack of African stories and languages in literature. The donated books include illustrations and stories about migration and cultural proverbs, serving as tools for children to learn about and embrace different cultures. Ellenore stresses that relatable stories foster a sense of belonging and understanding among children from diverse backgrounds.

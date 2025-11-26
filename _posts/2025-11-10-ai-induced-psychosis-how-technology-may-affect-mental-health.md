@@ -1,8 +1,6 @@
 ---
-title: 'AI-Induced Psychosis: How Technology May Affect Mental Health'
 date: '2025-11-10T21:17:23+00:00'
-source: Talkspace Free Online Therapy for Seattle Youth
-source_url: https://www.talkspace.com/blog/ai-psychosis/
+images: []
 original_content: |-
   <div class="is-layout-constrained wp-block-group"><div class="wp-block-group__inner-container">
   <p><strong>A note about AI: </strong><em>On the Talkspace blog we aim to provide trustworthy coverage of all the mental health topics people might be curious about, by delivering science-backed, clinician-reviewed information. Our articles on artificial intelligence (AI) and how this emerging technology may intersect with mental health and healthcare are designed to educate and add insights to this cultural conversation. We believe that therapy, at its core, is focused around the therapeutic connection between human therapists and our members. At Talkspace we only use ethical and responsible AI tools that are developed in partnership with our human clinicians. These tools aren’t designed to replace qualified therapists, but to enhance their ability to keep delivering high-quality care.</em> <em>To learn more, visit our </em><a href="https://www.talkspace.com/ai-at-talkspace" target="_blank" rel="noopener"><em>AI-supported therapy page</em></a><em>.</em></p>
@@ -458,10 +456,12 @@ original_markdown_body: "**A note about AI:** _On the Talkspace blog we aim to p
   on Mental Illness website. Updated May 9, 2025. Accessed September 29, 2025. [https://helplinefaqs.nami.org/article/284-how-can-i-help-my-loved-one-during-a-psychosis-related-crisis](https://helplinefaqs.nami.org/article/284-how-can-i-help-my-loved-one-during-a-psychosis-related-crisis)\n\nThe
   post [AI-Induced Psychosis: How Technology May Affect Mental Health](https://www.talkspace.com/blog/ai-psychosis/)
   appeared first on [Talkspace](https://www.talkspace.com/blog)."
+source: Talkspace Free Online Therapy for Seattle Youth
+source_url: https://www.talkspace.com/blog/ai-psychosis/
 summarized: true
+title: 'AI-Induced Psychosis: How Technology May Affect Mental Health'
 topics:
 - Mental Health & Counseling
-images: []
 ---
 
 AI-induced psychosis refers to a phenomenon where excessive interactions with artificial intelligence (AI), such as chatbots, lead to distorted thinking or detachment from reality. This emerging issue has been noted particularly among individuals with pre-existing mental health conditions. Symptoms may include strongly held false beliefs about AI, such as seeing it as a god-like entity or believing it has special insights into reality. Factors contributing to this condition include the constant availability of AI, emotional attachment to chatbots, and existing vulnerabilities in users. The ease of engaging with AI can lead to compulsive use, further blurring the lines between reality and AI-generated interactions.

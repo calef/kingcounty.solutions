@@ -1,8 +1,7 @@
 ---
-title: 'Council Roundup: Mid-biennium budget discussions begin'
 date: '2025-10-30T19:41:22+00:00'
-source: City of Bellevue
-source_url: https://bellevuewa.gov/city-news/council-roundup-mid-biennium-budget-discussions-begin
+images:
+- bbf7f9e56798fc52748be6ac101fa80f380466e77160f52419486b01b20e08cd
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Council
   Roundup: Mid-biennium budget discussions begin</span>\n<span class=\"field field--name-uid
   field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/mdegrand\"
@@ -135,13 +134,14 @@ original_markdown_body: |-
   &nbsp;
 
   <time datetime="2025-10-30T12:00:00Z" class="datetime">October 30 2025</time>
+source: City of Bellevue
+source_url: https://bellevuewa.gov/city-news/council-roundup-mid-biennium-budget-discussions-begin
 summarized: true
+title: 'Council Roundup: Mid-biennium budget discussions begin'
 topics:
 - Financial Assistance
 - Shelter & Housing
 - Transportation & Mobility
-images:
-- bbf7f9e56798fc52748be6ac101fa80f380466e77160f52419486b01b20e08cd
 ---
 
 The Bellevue City Council recently began discussions on mid-biennium budget adjustments for the 2025-2026 biennial budget, focusing on the implications of the current economic outlook. Proposed adjustments aim to support major council priorities, with updates reflecting revised revenue projections and expenditure changes. A 1% property tax increase for 2026 is included, translating to a $15 rise for a $1.5 million property. The adjustments also introduce new fee schedules, including an increase in the sewer rate from 7.6% to 7.9% due to higher wholesale wastewater treatment costs. Changes to permitting and review fees are proposed to keep services competitive. Additionally, impact fees for local school districts have been reduced to zero due to lower student enrollment. 

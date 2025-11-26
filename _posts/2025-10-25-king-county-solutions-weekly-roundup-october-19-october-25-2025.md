@@ -1,13 +1,13 @@
 ---
-title: 'King County Solutions Weekly Roundup: October 19–October 25, 2025'
 date: '2025-10-25T18:00:00-08:00'
+images: []
 source: King County Solutions
 summarized: true
+title: 'King County Solutions Weekly Roundup: October 19–October 25, 2025'
 topics:
 - Shelter & Housing
 - Health Care
 - Transportation & Mobility
-images: []
 ---
 
 This week, King County Solutions published 11 posts highlighting critical updates across various sectors, including housing, healthcare, public health, and transportation. As we approach the end of October, these updates are particularly significant in addressing ongoing community needs and enhancing public safety.

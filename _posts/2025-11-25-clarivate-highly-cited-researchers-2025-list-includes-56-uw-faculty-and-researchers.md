@@ -1,8 +1,6 @@
 ---
-title: Clarivate Highly Cited Researchers 2025 list includes 56 UW faculty and researchers
 date: '2025-11-25T18:05:25+00:00'
-source: University of Washington
-source_url: https://www.washington.edu/news/2025/11/25/clarivate-highly-cited-researchers-2025-list-includes-56-uw-faculty-and-researchers/
+images: []
 original_content: |-
   <div id="attachment_89948" class="wp-caption aligncenter" style="width: 2570px"><img decoding="async" class="size-full wp-image-89948" src="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/25094132/20251027_October-Fall-Color-Aerials_018-scaled.jpg" alt="aerial view of a college campus in autumn" width="2560" height="1917" srcset="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/25094132/20251027_October-Fall-Color-Aerials_018-scaled.jpg 2560w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/25094132/20251027_October-Fall-Color-Aerials_018-300x225.jpg 300w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/25094132/20251027_October-Fall-Color-Aerials_018-1024x767.jpg 1024w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/25094132/20251027_October-Fall-Color-Aerials_018-768x575.jpg 768w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/25094132/20251027_October-Fall-Color-Aerials_018-1536x1150.jpg 1536w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/25094132/20251027_October-Fall-Color-Aerials_018-2048x1534.jpg 2048w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/25094132/20251027_October-Fall-Color-Aerials_018-375x281.jpg 375w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/25094132/20251027_October-Fall-Color-Aerials_018-750x562.jpg 750w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/25094132/20251027_October-Fall-Color-Aerials_018-1140x854.jpg 1140w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/25094132/20251027_October-Fall-Color-Aerials_018-108x81.jpg 108w" sizes="(max-width: 2560px) 100vw, 2560px" /></p>
   <p class="wp-caption-text">TheUW has 56 faculty and researchers named on the Highly Cited Researchers 2025 list from Clarivate.<span class="wp-media-credit">Mark Stone/University of Washington</span></span></p>
@@ -198,10 +196,12 @@ original_markdown_body: |-
   Xiaodong Xu
 
   Jihui Yang
-summarized: true
-topics: []
 published: false
-images: []
+source: University of Washington
+source_url: https://www.washington.edu/news/2025/11/25/clarivate-highly-cited-researchers-2025-list-includes-56-uw-faculty-and-researchers/
+summarized: true
+title: Clarivate Highly Cited Researchers 2025 list includes 56 UW faculty and researchers
+topics: []
 ---
 
 The University of Washington (UW) has announced that 56 of its faculty and researchers have been recognized in the Highly Cited Researchers 2025 list by Clarivate. This prestigious annual list highlights researchers who have made significant impacts in their fields through the publication of highly cited papers over the last decade. The selection represents a small fraction of global researchers, with only 7,131 individuals from over 1,300 institutions across 60 countries included in the list. These researchers are noted for their contributions to advancing knowledge and fostering innovations that enhance global health and sustainability. The list comprises individuals affiliated primarily with UW, as well as some associated with the Fred Hutch Cancer Center and the Institute for Health Metrics and Evaluation. Some individuals listed may no longer be with UW, and their current affiliations are mentioned. The determination of this list is based on bibliometric analyses conducted by experts at the Institute for Scientific Information at Clarivate.

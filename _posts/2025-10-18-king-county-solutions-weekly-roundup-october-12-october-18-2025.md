@@ -1,14 +1,14 @@
 ---
-title: 'King County Solutions Weekly Roundup: October 12–October 18, 2025'
 date: '2025-10-18T18:00:00-08:00'
+images: []
 source: King County Solutions
 summarized: true
+title: 'King County Solutions Weekly Roundup: October 12–October 18, 2025'
 topics:
 - Domestic Violence
 - Health Care
 - Education & Learning
 - Employment & Job Support
-images: []
 ---
 
 This week, King County Solutions published nine important posts that highlight community initiatives, health care accountability, library enhancements, and job opportunities. These updates reflect ongoing efforts to improve services, support diversity, and ensure public safety, making this week particularly significant for residents.

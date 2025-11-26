@@ -1,8 +1,6 @@
 ---
-title: Rainier Valley Legal Clinic Relaunches at ACRS, Reviving a Legacy of Justice and Community Partnership
 date: '2025-10-23T19:21:54+00:00'
-source: Asian Counseling and Referral Service
-source_url: https://acrs.org/rainier-valley-legal-clinic-relaunches-at-acrs-reviving-a-legacy-of-justice-and-community-partnership/
+images: []
 original_content: |-
   <p data-start="541" data-end="1247"><strong data-start="541" data-end="571">SEATTLE — October 22, 2025</strong> — The return of the <strong data-start="592" data-end="623">Rainier Valley Legal Clinic</strong> at Asian Counseling and Referral Service (ACRS) quietly marked a powerful milestone in community justice. On its opening night, three volunteer attorneys from the <strong data-start="787" data-end="833">Asian Bar Association of Washington (ABAW)</strong> and <strong data-start="838" data-end="876">King County Bar Association (KCBA)</strong> met one-on-one with clients seeking free legal advice — from housing and family issues to consumer concerns — in private rooms at ACRS’s main office. Joined by ACRS CEO <strong data-start="1046" data-end="1066">Kendee Yamaguchi</strong> and Deputy Director <strong data-start="1087" data-end="1102">G De Castro</strong>, the evening reflected the heart of the clinic’s mission: restoring access to justice through compassion, expertise, and cultural understanding.</p>
   <p data-start="1285" data-end="1716">The relaunch marks the revival of one of ACRS’s earliest initiatives for equal access to justice — a legacy that began decades ago when volunteer attorney John Chen Beckwith helped the organization provide pro bono legal assistance to Asian, Native Hawaiian, and Pacific Islander (A&amp;NH/PI) and other communities in South Seattle. Today’s clinic builds on that foundation, continuing the spirit of community advocacy that has long been part of ACRS’s DNA.</p>
@@ -76,7 +74,11 @@ original_markdown_body: |-
   - **Volunteer Opportunities:** Attorneys and law students interested in volunteering can contact **Charles Chen (charleschen.esq@gmail.com)** or **Danielle Kim (danielleeunkim@gmail.com)**
 
   The post [Rainier Valley Legal Clinic Relaunches at ACRS, Reviving a Legacy of Justice and Community Partnership](https://acrs.org/rainier-valley-legal-clinic-relaunches-at-acrs-reviving-a-legacy-of-justice-and-community-partnership/) appeared first on [ACRS](https://acrs.org).
+source: Asian Counseling and Referral Service
+source_url: https://acrs.org/rainier-valley-legal-clinic-relaunches-at-acrs-reviving-a-legacy-of-justice-and-community-partnership/
 summarized: true
+title: Rainier Valley Legal Clinic Relaunches at ACRS, Reviving a Legacy of Justice
+  and Community Partnership
 topics:
 - Domestic Violence
 - Education & Learning
@@ -84,7 +86,6 @@ topics:
 - Financial Assistance
 - Mental Health & Counseling
 - Shelter & Housing
-images: []
 ---
 
 The Rainier Valley Legal Clinic has relaunched at the Asian Counseling and Referral Service (ACRS), marking an important milestone in community justice. On its opening night, volunteer attorneys from the Asian Bar Association of Washington and King County Bar Association provided free legal advice on housing, family, and consumer issues to clients in South Seattle. This clinic revives ACRS's long-standing commitment to ensuring equal access to justice, a legacy initiated by volunteer attorney John Chen Beckwith decades ago. ACRS emphasizes that access to justice should not depend on income, immigration status, or language ability. The clinic, which had been on hold during the COVID-19 pandemic, aims to serve diverse immigrant and refugee communities in the area. Operated under the KCBA Neighborhood Legal Clinics program, the clinic offers 30–60 minute consultations by appointment. While it does not handle immigration cases directly, it provides referrals to trusted resources. Future clinics will be held on the third Wednesday of each month. Interpretation services are available in multiple languages, reinforcing the clinic's commitment to culturally responsive assistance. Volunteers, including attorneys and law students, are encouraged to participate.

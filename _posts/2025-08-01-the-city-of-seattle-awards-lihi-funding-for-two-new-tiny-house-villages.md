@@ -1,15 +1,17 @@
 ---
-title: The City of Seattle Awards LIHI Funding for Two New Tiny House Villages
 date: '2025-08-01T20:47:11+00:00'
+images: []
+original_content: The City of Seattle has allocated $5.9 million in its 2025 budget
+  to cover the permitting, construction, and operational costs for new...
+original_markdown_body: The City of Seattle has allocated $5.9 million in its 2025
+  budget to cover the permitting, construction, and operational costs for new...
 source: Low Income Housing Institute
 source_url: https://www.lihihousing.org/post/the-city-of-seattle-awards-lihi-funding-for-two-new-tiny-house-villages
-original_content: The City of Seattle has allocated $5.9 million in its 2025 budget to cover the permitting, construction, and operational costs for new...
-original_markdown_body: The City of Seattle has allocated $5.9 million in its 2025 budget to cover the permitting, construction, and operational costs for new...
 summarized: true
+title: The City of Seattle Awards LIHI Funding for Two New Tiny House Villages
 topics:
 - Shelter & Housing
 - Mental Health & Counseling
-images: []
 ---
 
 The City of Seattle has allocated $5.9 million in its 2025 budget for the development of two new tiny house villages in partnership with LIHI, aimed at addressing homelessness. These villages will consist of over 100 homes and provide behavioral and mental health services for chronically homeless individuals. Referrals will come from the Unified Care Team and outreach partners, targeting those living in tents, parks, and RVs to offer them more stable housing options.

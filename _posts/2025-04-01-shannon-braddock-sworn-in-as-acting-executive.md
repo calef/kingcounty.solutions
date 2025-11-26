@@ -1,8 +1,11 @@
 ---
-title: Shannon Braddock sworn in as acting Executive
 date: '2025-04-01T21:39:16+00:00'
-source: King County
-source_url: https://medium.com/kingcounty/shannon-braddock-sworn-in-as-acting-king-county-executive-f89a801dba15?source=rss-cc0752750177------2
+images:
+- 53fd7729a23314eee41d455a7c96392962ae37e49e1e791c89a0f076576b7ab8
+- 2ca037309b1f5ab8593314acb72a9c523505c7b0c8738458d4c8c3c64488c139
+- da6a8f0e318635885485928e8169c5172f74690f80f41672fc81e71366ce8980
+- bb2031c0e94a281cb47a21c8075db9a068da457da89660cc86222e833c24068b
+- d29f10edba5c3040df68e8933aa43e89d79b15090d3dead009a5e8a8f5b4d5d3
 original_content: <h3>Shannon Braddock sworn in as acting King County Executive</h3><p>Today,
   Shannon Braddock was sworn in as acting King County Executive after a unanimous
   vote by the County Council. King County voters will elect a new Executive in November.</p><figure><img
@@ -112,16 +115,13 @@ original_markdown_body: |-
   * * *
 
   [Shannon Braddock sworn in as acting Executive](https://medium.com/kingcounty/shannon-braddock-sworn-in-as-acting-king-county-executive-f89a801dba15) was originally published in [KingCounty](https://medium.com/kingcounty) on Medium, where people are continuing the conversation by highlighting and responding to this story.
+source: King County
+source_url: https://medium.com/kingcounty/shannon-braddock-sworn-in-as-acting-king-county-executive-f89a801dba15?source=rss-cc0752750177------2
 summarized: true
+title: Shannon Braddock sworn in as acting Executive
 topics:
 - Health Care
 - Transportation & Mobility
-images:
-- 53fd7729a23314eee41d455a7c96392962ae37e49e1e791c89a0f076576b7ab8
-- 2ca037309b1f5ab8593314acb72a9c523505c7b0c8738458d4c8c3c64488c139
-- da6a8f0e318635885485928e8169c5172f74690f80f41672fc81e71366ce8980
-- bb2031c0e94a281cb47a21c8075db9a068da457da89660cc86222e833c24068b
-- d29f10edba5c3040df68e8933aa43e89d79b15090d3dead009a5e8a8f5b4d5d3
 ---
 
 Shannon Braddock was sworn in as acting King County Executive following a unanimous vote by the County Council. She is the first woman to hold this position and has a background as Deputy County Executive, bringing 15 years of local government experience. Braddock expressed her commitment to strong leadership and essential services for the community, including public transit, health, and safety. She plans to collaborate with various stakeholders, including county leaders and community partners.

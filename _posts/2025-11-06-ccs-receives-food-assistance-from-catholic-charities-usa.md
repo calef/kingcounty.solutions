@@ -1,8 +1,7 @@
 ---
-title: CCS Receives Food Assistance from Catholic Charities USA
 date: '2025-11-06T23:10:52+00:00'
-source: Catholic Community Services of Western Washington
-source_url: https://ccsww.org/ccs-receives-food-assistance-from-ccusa/?utm_source=rss&utm_medium=rss&utm_campaign=ccs-receives-food-assistance-from-ccusa
+images:
+- 968fabcbe49a40edce87c15d5157130a134fda196bebdf2ac6bafcbb51c62cd7
 original_content: |-
   <p>In an October 30 press release, Catholic Charities USA (CCUSA) announced immediate nationwide food assistance in response to rising demand caused by SNAP benefit cuts and the federal government shutdown. Over the next few weeks, several CCSWW programs — including the Queen Anne Food Bank, King County, the Tri-Parrish Food Bank, Burlington, and The Community Kitchen, Thurston County — will receive 14 pallets of produce from CCUSA to distribute to clients and others affected by the delay.</p>
 
@@ -45,11 +44,12 @@ original_markdown_body: |-
   “At The Community Kitchen in Olympia, Kitchen Supervisor Christian Serrania has led a dedicated team of volunteers in assembling food boxes filled with donated ingredients. Each box includes recipe cards designed to help recipients prepare nutritious meals using the provided items. In response to the recent loss in SNAP benefits, 200 food boxes were distributed this week to Catholic Community Services clients across Thurston County, offering vital support to households facing increased food insecurity. &nbsp;This effort will be fortified by the CCUSA donations.” – Gabe Ash, Director of Housing and Homeless Services Southwest
 
   The post [CCS Receives Food Assistance from Catholic Charities USA](https://ccsww.org/ccs-receives-food-assistance-from-ccusa/) first appeared on [Catholic Community Services of Western Washington](https://ccsww.org).
+source: Catholic Community Services of Western Washington
+source_url: https://ccsww.org/ccs-receives-food-assistance-from-ccusa/?utm_source=rss&utm_medium=rss&utm_campaign=ccs-receives-food-assistance-from-ccusa
 summarized: true
+title: CCS Receives Food Assistance from Catholic Charities USA
 topics:
 - Food & Nutrition
-images:
-- 968fabcbe49a40edce87c15d5157130a134fda196bebdf2ac6bafcbb51c62cd7
 ---
 
 Catholic Charities USA (CCUSA) announced on October 30 that it will provide immediate food assistance in response to increased demand from SNAP benefit cuts and the federal government shutdown. Over the coming weeks, various programs through Catholic Community Services of Western Washington (CCSWW) will receive 14 pallets of produce to distribute to those in need. The Queen Anne Food Bank has experienced a 70% increase in demand recently, serving an additional 375 clients with existing supplies. Erin Maguire, King County Agency Director, expressed gratitude for CCUSA's support, emphasizing its importance in serving the community compassionately during urgent times. Katie O’Neill, from the Queen Anne Food Bank, highlighted the vital role of CCUSA’s donation in continuing their efforts to feed the hungry. Additionally, The Community Kitchen in Olympia has been assembling food boxes with donated ingredients, distributing 200 boxes to clients this week to address the growing food insecurity exacerbated by reduced SNAP benefits. Gabe Ash, Director of Housing and Homeless Services, noted that these efforts will be strengthened by the donations from CCUSA, particularly benefiting rural farm worker communities facing increased challenges.

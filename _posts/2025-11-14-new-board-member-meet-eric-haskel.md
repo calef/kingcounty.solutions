@@ -1,8 +1,6 @@
 ---
-title: 'New Board Member: Meet Eric Haskel'
 date: '2025-11-14T20:18:02+00:00'
-source: Angel Flight West
-source_url: https://angelflightwest.org/news/new-board-member-meet-eric-haskel/
+images: []
 original_content: |-
   <figure class="wp-block-image size-large is-resized"><img fetchpriority="high" decoding="async" width="1024" height="768" src="http://angelflightwest.org/wp-content/uploads/2025/11/Press-Kit-and-Photo-Crops_Ongoing-14-1024x768.png" alt="" class="wp-image-62163" style="width:339px;height:auto" srcset="https://angelflightwest.org/wp-content/uploads/2025/11/Press-Kit-and-Photo-Crops_Ongoing-14-1024x768.png 1024w, https://angelflightwest.org/wp-content/uploads/2025/11/Press-Kit-and-Photo-Crops_Ongoing-14-300x225.png 300w, https://angelflightwest.org/wp-content/uploads/2025/11/Press-Kit-and-Photo-Crops_Ongoing-14-768x576.png 768w, https://angelflightwest.org/wp-content/uploads/2025/11/Press-Kit-and-Photo-Crops_Ongoing-14-1536x1152.png 1536w, https://angelflightwest.org/wp-content/uploads/2025/11/Press-Kit-and-Photo-Crops_Ongoing-14.png 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
@@ -39,10 +37,12 @@ original_markdown_body: |-
   Welcome to the board, Eric!
 
   The post [New Board Member: Meet Eric Haskel](https://angelflightwest.org/news/new-board-member-meet-eric-haskel/) first appeared on [Angel Flight West](https://angelflightwest.org).
-summarized: true
-topics: []
 published: false
-images: []
+source: Angel Flight West
+source_url: https://angelflightwest.org/news/new-board-member-meet-eric-haskel/
+summarized: true
+title: 'New Board Member: Meet Eric Haskel'
+topics: []
 ---
 
 Angel Flight West welcomes Eric Haskel as its newest board member. Haskel is the Head of Aviation at Hillspire, LLC, a family office based in Los Angeles, where he manages aviation operations and aerospace strategies. His previous experience includes executive roles at Walton Enterprises and various investment firms. Haskel holds a degree in Aeronautical Engineering from Arizona State University and an MBA from the University of San Diego. He is also involved with Game Aerospace, a U.S. airplane manufacturer, as a board member. Haskel is a licensed commercial pilot for both fixed-wing aircraft and helicopters and resides in the Los Angeles area.

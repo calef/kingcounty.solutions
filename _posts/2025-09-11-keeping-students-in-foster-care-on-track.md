@@ -1,8 +1,8 @@
 ---
-title: Keeping Students in Foster Care on Track
 date: '2025-09-11T22:48:59+00:00'
-source: Treehouse
-source_url: https://www.treehouseforkids.org/keeping-students-in-foster-care-on-track/
+images:
+- b5b70577939aa2ab3a47f8edd60c6711df8b63942e26a50df4bcb4cdd08d1431
+- 7f7e04552d1c9929d5d2c048852b7b88a403b7124ba3570a0a7ac668be687998
 original_content: |-
   <p><span data-contrast="auto"><img loading="lazy" decoding="async" class="aligncenter wp-image-195933 size-large" src="https://www.treehouseforkids.org/wp-content/uploads/2025/09/Untitled-design-7-1024x665.png" alt="" width="1024" height="665" />The back-to-school sales are over, and students are settling into their new seats. But paving the way to educational success is work that never stops. That&#8217;s especially true for students experiencing foster care, who are at the center of a crowded, chaotic hub of bureaucratic systems—child welfare, legal, education, and others depending on the circumstances. Ironically, it’s easy for youth in foster care to get overlooked in the mix.</span><span data-ccp-props="{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335559738&quot;:0,&quot;335559739&quot;:0}"> </span></p>
   <p><span data-contrast="auto">That’s where Treehouse’s <a href="https://www.treehouseforkids.org/our-services/educational-advocacy/" target="_blank" rel="noopener">Educational Advocacy</a> program steps in. </span><span data-ccp-props="{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335559738&quot;:0,&quot;335559739&quot;:0}"> </span></p>
@@ -93,12 +93,12 @@ original_markdown_body: "![](https://www.treehouseforkids.org/wp-content/uploads
   _to stay updated on education policies Treehouse supports._&nbsp;**\n\nThe post
   [Keeping Students in Foster Care on Track](https://www.treehouseforkids.org/keeping-students-in-foster-care-on-track/)
   appeared first on [Treehouse](https://www.treehouseforkids.org)."
+source: Treehouse
+source_url: https://www.treehouseforkids.org/keeping-students-in-foster-care-on-track/
 summarized: true
+title: Keeping Students in Foster Care on Track
 topics:
 - Education & Learning
-images:
-- b5b70577939aa2ab3a47f8edd60c6711df8b63942e26a50df4bcb4cdd08d1431
-- 7f7e04552d1c9929d5d2c048852b7b88a403b7124ba3570a0a7ac668be687998
 ---
 
 Students in foster care often face significant barriers to educational success due to the complex bureaucracy surrounding child welfare and education systems. Treehouse's Educational Advocacy program is dedicated to addressing these issues by coordinating support among foster parents, social workers, and school staff. The program focuses on problems like disciplinary exclusions, lack of academic progress, and difficulties in school enrollment.

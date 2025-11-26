@@ -1,8 +1,10 @@
 ---
-title: Meet the 2025 Uncork the Night Chairs
 date: '2025-08-12T19:10:54+00:00'
-source: Bellevue LifeSpring
-source_url: https://www.bellevuelifespring.org/general/2025-uncork-the-night-chairs/?utm_source=rss&utm_medium=rss&utm_campaign=2025-uncork-the-night-chairs
+images:
+- 490e8aac0771143fc429567f3d6c5518ad7629dc44a6d3797dfa1531bc142ad1
+- 359c981ac0c478972e7ed230189a6acfe36a47d673d4ce3b5dd0c0978ce85277
+- 6afb541efe96d349a8ebf382af431c52ed61643bcd3e8b8528e7091697c5585f
+- 119c087614e953e9a28a965bd4dc6d9f4fae9abda6926df4c0a7729ceb999af6
 original_content: |-
   <p><strong>Raise a glass! Tickets are officially on sale (and going fast!) for the grand finale of <em><a href="https://www.bellevuelifespring.org/event/uncorkthenight/" target="_blank" rel="noreferrer noopener">Uncork the Night</a></em>. Our final celebration of wine and giving is happening on October 4 at the W Bellevue, and we hope you can make it.</strong></p>
 
@@ -173,15 +175,13 @@ original_markdown_body: |-
   The post [Meet the 2025 Uncork the Night Chairs](https://www.bellevuelifespring.org/general/2025-uncork-the-night-chairs/) first appeared on [Bellevue LifeSpring](https://www.bellevuelifespring.org).
 
   The post [Meet the 2025 Uncork the Night Chairs](https://www.bellevuelifespring.org/general/2025-uncork-the-night-chairs/) appeared first on [Bellevue LifeSpring](https://www.bellevuelifespring.org).
+source: Bellevue LifeSpring
+source_url: https://www.bellevuelifespring.org/general/2025-uncork-the-night-chairs/?utm_source=rss&utm_medium=rss&utm_campaign=2025-uncork-the-night-chairs
 summarized: true
+title: Meet the 2025 Uncork the Night Chairs
 topics:
 - Food & Nutrition
 - Shelter & Housing
-images:
-- 490e8aac0771143fc429567f3d6c5518ad7629dc44a6d3797dfa1531bc142ad1
-- 359c981ac0c478972e7ed230189a6acfe36a47d673d4ce3b5dd0c0978ce85277
-- 6afb541efe96d349a8ebf382af431c52ed61643bcd3e8b8528e7091697c5585f
-- 119c087614e953e9a28a965bd4dc6d9f4fae9abda6926df4c0a7729ceb999af6
 ---
 
 Tickets are now available for the final Uncork the Night event, set for October 4 at the W Bellevue. The event will be led by Lindsay Rucker from Greet West Bellevue Magazine and Sophia Siu, a Bellevue LifeSpring Board Member. This gala marks the conclusion of a 20-year tradition that has raised funds for essential programs supporting local children facing hunger and homelessness. Both chairs are deeply invested in the cause, with Sophia emphasizing the growing needs in Bellevue and Lindsay sharing her personal journey as a single mother who benefited from community support.

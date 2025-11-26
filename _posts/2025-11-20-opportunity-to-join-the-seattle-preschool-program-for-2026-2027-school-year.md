@@ -1,8 +1,6 @@
 ---
-title: Opportunity to Join the Seattle Preschool Program for 2026-2027 School Year
 date: '2025-11-20T00:59:10+00:00'
-source: Department of Education and Early Learning
-source_url: https://education.seattle.gov/?p=1457
+images: []
 original_content: '<img width="150" height="150" src="https://education.seattle.gov/wp-content/uploads/sites/27/2025/11/2026-27_SPP.-RFQ-web-header-150x150.png"
   class="webfeedsFeaturedVisual wp-post-image" alt="Preschoolers engage in learning
   activity with their teacher." style="display: block; margin-bottom: 5px; clear:both;max-width:
@@ -16,11 +14,13 @@ original_markdown_body: "![Preschoolers engage in learning activity with their t
   Seattle Department of Education & Early Learning is accepting applications from early
   learning provider, and entities seeking to join the Seattle Preschool Program (SPP)
   for the 2026-2027 school year."
+source: Department of Education and Early Learning
+source_url: https://education.seattle.gov/?p=1457
 summarized: true
+title: Opportunity to Join the Seattle Preschool Program for 2026-2027 School Year
 topics:
 - Childcare
 - Education & Learning
-images: []
 ---
 
 The Seattle Department of Education & Early Learning (DEEL) is inviting applications for early learning providers to join the Seattle Preschool Program (SPP) for the 2026-2027 school year. The Request for Qualifications (RFQ) is open until December 17, 2025, at 11:59 p.m. PST, and applications must be submitted online. This RFQ is targeted at new SPP classrooms in school or center-based programs that are not already contracted with SPP. Existing contractors should not apply. Family Child Care programs are also ineligible for this application and should contact specific FCC Hub administrators for more information.

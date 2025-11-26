@@ -1,8 +1,6 @@
 ---
-title: 'Reducing Flood Risk: A Look Back at Completed Flood Risk Reduction Projects'
 date: '2025-09-25T18:29:54+00:00'
-source: King County Flood Control District
-source_url: https://kingcountyfloodcontrol.org/reducing-flood-risk-a-look-back-at-completed-flood-risk-reduction-projects-6/?utm_source=rss&utm_medium=rss&utm_campaign=reducing-flood-risk-a-look-back-at-completed-flood-risk-reduction-projects-6
+images: []
 original_content: |-
   By Steven Schauer, Deputy Executive Director, and King County Staff
 
@@ -66,10 +64,12 @@ original_content: |-
   The Irwin Right Bank Revetment Repair is a reminder of how proactive flood risk reduction measures can prevent future crises, reduce risks, and sustain communities for generations to come.
 
   The post [Reducing Flood Risk: A Look Back at Completed Flood Risk Reduction Projects](https://kingcountyfloodcontrol.org/reducing-flood-risk-a-look-back-at-completed-flood-risk-reduction-projects-6/) appeared first on [King County Flood Control District](https://kingcountyfloodcontrol.org).
-summarized: true
-topics: []
 published: false
-images: []
+source: King County Flood Control District
+source_url: https://kingcountyfloodcontrol.org/reducing-flood-risk-a-look-back-at-completed-flood-risk-reduction-projects-6/?utm_source=rss&utm_medium=rss&utm_campaign=reducing-flood-risk-a-look-back-at-completed-flood-risk-reduction-projects-6
+summarized: true
+title: 'Reducing Flood Risk: A Look Back at Completed Flood Risk Reduction Projects'
+topics: []
 ---
 
 The King County Flood Control District (KCFCD) has successfully completed the Irwin Right Bank Revetment 2020 Repair Project along Issaquah Creek. The project was initiated following significant damage caused by heavy flooding in February 2020. The repair work, finalized in September 2022, restored critical flood protection, ensuring safe access for residents and commuters. In addition to reinforcing the bank with large rock and reducing the risk of potential failure, the project incorporated large wood to enhance wildlife and fish habitats. The KCFCD's efforts safeguarded vital infrastructure and secured peace of mind for local residents dependent on the area's access points. The repair underscores KCFCD's broader commitment to protecting King County residents and infrastructure from flood risks. 

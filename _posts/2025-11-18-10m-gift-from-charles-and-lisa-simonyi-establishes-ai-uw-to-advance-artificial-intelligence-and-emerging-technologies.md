@@ -1,8 +1,6 @@
 ---
-title: "$10M gift from Charles and Lisa Simonyi establishes AI@UW to advance artificial intelligence and emerging technologies"
 date: '2025-11-18T17:02:43+00:00'
-source: University of Washington
-source_url: https://www.washington.edu/news/2025/11/18/10-million-gift-from-charles-and-lisa-simonyi-establishes-aiuw-to-advance-artificial-intelligence-and-emerging-technologies/
+images: []
 original_content: |-
   <div id="attachment_89915" class="wp-caption aligncenter" style="width: 1043px"><img decoding="async" class="size-full wp-image-89915" src="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/17102843/Simonyi.jpg.jpeg" alt="a man and a woman sitting together" width="1033" height="735" srcset="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/17102843/Simonyi.jpg.jpeg 1033w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/17102843/Simonyi.jpg-300x213.jpeg 300w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/17102843/Simonyi.jpg-1024x729.jpeg 1024w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/17102843/Simonyi.jpg-768x546.jpeg 768w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/17102843/Simonyi.jpg-375x267.jpeg 375w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/17102843/Simonyi.jpg-750x534.jpeg 750w" sizes="(max-width: 1033px) 100vw, 1033px" /></p>
   <p class="wp-caption-text">The UW announced a foundational $10 million gift from philanthropists Charles and Lisa Simonyi to support work in artificial intelligence and emerging technologies.<span class="wp-media-credit">University of Washington</span></span></p>
@@ -63,10 +61,13 @@ original_markdown_body: |-
   “The UW’s people are already leading the way in shaping universities in the time of AI,” Smith said. “While its rapid rise has been surprising, as an AI researcher and teacher I’m energized by the chance to promote AI literacy, explore how AI can enrich learning across disciplines and help steer AI’s development in ways that are most useful to the University’s mission.”
 
   _Contact Smith at nasmith@cs.washington.edu._
-summarized: true
-topics: []
 published: false
-images: []
+source: University of Washington
+source_url: https://www.washington.edu/news/2025/11/18/10-million-gift-from-charles-and-lisa-simonyi-establishes-aiuw-to-advance-artificial-intelligence-and-emerging-technologies/
+summarized: true
+title: "$10M gift from Charles and Lisa Simonyi establishes AI@UW to advance artificial
+  intelligence and emerging technologies"
+topics: []
 ---
 
 The University of Washington (UW) has received a $10 million donation from philanthropists Charles and Lisa Simonyi to establish AI@UW, an initiative focused on advancing artificial intelligence and emerging technologies. This gift will enhance UW's leadership in AI and machine learning, with Noah A. Smith appointed as the vice provost for artificial intelligence and the first Charles and Lisa Simonyi Endowed Chair for Artificial Intelligence and Emerging Technologies, pending Board of Regents approval. The funding will support the creation of an AI governance committee, student scholarships, and investments in computing resources. The Simonyis, long-time supporters of UW, emphasized the importance of AI in transforming education and driving innovation. In the near term, the initiative will launch a SEED-AI grant program to fund faculty-led projects that explore AI's role in enhancing learning. UW President Robert J. Jones highlighted the gift as a foundational investment that reflects the university's commitment to developing AI responsibly. Smith expressed excitement about promoting AI literacy and ensuring that AI development aligns with the university's mission.

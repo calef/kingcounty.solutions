@@ -1,8 +1,6 @@
 ---
-title: April 2025 Newsletter
 date: '2025-04-17T18:47:34+00:00'
-source: CarePoint Clinic
-source_url: https://www.carepointonline.org/news/cjs3nmb1sgjnwig08hd5u4peh0zwnw-j4cj8-bpmhr-k43fa
+images: []
 original_content: "<figure class=\"\n              sqs-block-image-figure\n              intrinsic\n
   \           \"\n        >\n          \n        \n        \n\n        \n          <a
   class=\"\n                sqs-block-image-link\n                \n          \n        \n
@@ -29,10 +27,12 @@ original_markdown_body: |-
   [![](https://images.squarespace-cdn.com/content/v1/65c1886a315e4b1ef7f00c6a/f61bf0e2-b8f6-4f8b-8703-9fa7b057a696/AprilNewsletter.jpg?format=1000w)](https://carepointclinic.dm.networkforgood.com/emails/3949191?recipient_id=gKmitG8yqD88wZ7BRslDrA||ZGVzaXJlZXN3YW5zb25AZ21haWwuY29t)
 
   Spring has arrived, and so has our April newsletter! Read it [HERE](https://carepointclinic.dm.networkforgood.com/emails/3949191?recipient_id=gKmitG8yqD88wZ7BRslDrA||ZGVzaXJlZXN3YW5zb25AZ21haWwuY29t)!
-summarized: true
-topics: []
 published: false
-images: []
+source: CarePoint Clinic
+source_url: https://www.carepointonline.org/news/cjs3nmb1sgjnwig08hd5u4peh0zwnw-j4cj8-bpmhr-k43fa
+summarized: true
+title: April 2025 Newsletter
+topics: []
 ---
 
 Spring has arrived, bringing with it the April 2025 newsletter. The newsletter is authored by Desiree Swanson and highlights various updates and events. One key announcement is the CarePoint Blood Drive scheduled for June 4th. The newsletter serves to keep the community informed about ongoing initiatives and upcoming activities.

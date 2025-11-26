@@ -1,15 +1,17 @@
 ---
-title: Reflections from Sophia (17) - EFS Volunteer
 date: '2025-09-26T00:59:54+00:00'
+images: []
+original_content: June 8, 2025 was a day filled with both joy and bittersweet goodbyes
+  for me. The day signaled an end to a 7-month long journey of...
+original_markdown_body: June 8, 2025 was a day filled with both joy and bittersweet
+  goodbyes for me. The day signaled an end to a 7-month long journey of...
 source: Eastside Friends of Seniors
 source_url: https://www.eastsidefriendsofseniors.org/post/reflections-from-sophia-efs-volunteer
-original_content: June 8, 2025 was a day filled with both joy and bittersweet goodbyes for me. The day signaled an end to a 7-month long journey of...
-original_markdown_body: June 8, 2025 was a day filled with both joy and bittersweet goodbyes for me. The day signaled an end to a 7-month long journey of...
 summarized: true
+title: Reflections from Sophia (17) - EFS Volunteer
 topics:
 - Personal & Household Needs
 - Shelter & Housing
-images: []
 ---
 
 June 8, 2025, marked the end of a rewarding seven-month volunteering journey with a local senior through Eastside Friends of Seniors, an organization that offers essential services to the elderly. The final visit was a time for reflection, highlighting the personal connections formed and the valuable insights gained about the challenges seniors face, including isolation and financial difficulties. Despite the presence of community support programs, many needs remain unmet.

@@ -1,8 +1,6 @@
 ---
-title: A Happy Reunion One Year Later!
 date: '2025-09-30T15:50:23+00:00'
-source: Valley Regional Fire Authority
-source_url: https://www.vrfa.org/2025/09/a-happy-reunion-one-year-later/
+images: []
 original_content: |-
   One year ago, Engine 338 and Aid 331 responded to an unforgettable call along Highway 167. A mother en route to the hospital found herself welcoming her baby boy sooner than expected. Our crews were happy to assist and welcome him safely into the world, where King County Medics then transported baby and mom to the hospital.
 
@@ -11,10 +9,12 @@ original_content: |-
   Happy 1st Birthday AJ!
 
   The post [A Happy Reunion One Year Later!](https://www.vrfa.org/2025/09/a-happy-reunion-one-year-later/) appeared first on [Valley Regional Fire Authority (VRFA)](https://www.vrfa.org).
-summarized: true
-topics: []
 published: false
-images: []
+source: Valley Regional Fire Authority
+source_url: https://www.vrfa.org/2025/09/a-happy-reunion-one-year-later/
+summarized: true
+title: A Happy Reunion One Year Later!
+topics: []
 ---
 
 **A Happy Reunion One Year Later**

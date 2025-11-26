@@ -1,8 +1,6 @@
 ---
-title: CarePoint Blood Drive - Dec 18th
 date: '2024-12-05T23:48:00+00:00'
-source: CarePoint Clinic
-source_url: https://www.carepointonline.org/news/carepoint-blood-drive-ttpgs
+images: []
 original_content: "<figure class=\"\n              sqs-block-image-figure\n              intrinsic\n
   \           \"\n        >\n          \n        \n        \n\n        \n          <a
   class=\"\n                sqs-block-image-link\n                \n          \n        \n
@@ -42,10 +40,12 @@ original_markdown_body: |-
   December 18th 9a-3p
 
   Sign up [HERE](https://donate.bloodworksnw.org/donor/schedules/drive_schedule/85615)
-summarized: true
-topics: []
 published: false
-images: []
+source: CarePoint Clinic
+source_url: https://www.carepointonline.org/news/carepoint-blood-drive-ttpgs
+summarized: true
+title: CarePoint Blood Drive - Dec 18th
+topics: []
 ---
 
 CarePoint is organizing its second blood drive on December 18th, in collaboration with BloodWorks NW. The event aims to address the critically low regional blood supply, providing an opportunity for the community to contribute by donating blood. The blood drive will take place at the SVA Family Life Center Gym from 9 AM to 3 PM. Organizers encourage the community to sign up and help fill all available appointment slots, with hopes of making this a regular event in the future.

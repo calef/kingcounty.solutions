@@ -1,8 +1,6 @@
 ---
-title: Announcing Community Roots’ new CEO, Colleen Echohawk
 date: '2025-09-22T03:18:49+00:00'
-source: Community Roots Housing
-source_url: https://communityrootshousing.org/2025/09/announcing-ceo-colleen-echohawk/
+images: []
 original_content: |-
   <p>We are excited to announce the appointment of <strong>Colleen Echohawk</strong> as the new Chief Executive Officer of Community Roots Housing! Colleen will start her new role on October 6, in anticipation of the retirement of longtime CEO <a href="https://communityrootshousing.org/team/christopher-persons/">Chris Persons</a> at the end of October.</p>
   <p><a href="https://www.linkedin.com/in/colleen-echohawk-baa1845a/" target="_blank" rel="noopener">Colleen Echohawk</a> brings over 20 years of experience as an executive leader, small business owner, and community organizer to the role. This includes serving as Executive Director of Chief Seattle Club, where she led the effort to create nearly $100 million in new affordable housing in Seattle, and CEO of <a href="https://eighthgeneration.com/" target="_blank" rel="noopener">Eighth Generation</a>, a Native-designed art and lifestyle brand. She is an active member of the board of trustees for both Seattle Foundation and Seattle Colleges. An established champion of Seattle’s Native and under-resourced populations, Echohawk is an enrolled member of the Kithehaki Band of the Pawnee Nation and a member of the Upper Athabascan people of Mentasta Lake. As CEO of Community Roots, Colleen will help to advance our mission to create inclusive affordable housing and foster thriving, just communities.</p>
@@ -22,10 +20,12 @@ original_markdown_body: |-
   Please join us in welcoming [Colleen Echohawk](https://www.instagram.com/cechohawk) to Community Roots Housing!
 
   The post [Announcing Community Roots’ new CEO, Colleen Echohawk](https://communityrootshousing.org/2025/09/announcing-ceo-colleen-echohawk/) appeared first on [Community Roots Housing](https://communityrootshousing.org).
+source: Community Roots Housing
+source_url: https://communityrootshousing.org/2025/09/announcing-ceo-colleen-echohawk/
 summarized: true
+title: Announcing Community Roots’ new CEO, Colleen Echohawk
 topics:
 - Shelter & Housing
-images: []
 ---
 
 Community Roots Housing has appointed Colleen Echohawk as its new Chief Executive Officer, effective October 6, following the retirement of longtime CEO Chris Persons at the end of the month. Echohawk brings over 20 years of experience, having previously served as Executive Director of Chief Seattle Club, where she was instrumental in creating nearly $100 million in affordable housing in Seattle. She is also the CEO of Eighth Generation, a Native-designed art and lifestyle brand, and is actively involved with the Seattle Foundation and Seattle Colleges. As an enrolled member of the Kithehaki Band of the Pawnee Nation and the Upper Athabascan people, Echohawk is dedicated to advocating for Seattle’s Native and under-resourced communities. She expressed gratitude for the opportunity to lead Community Roots, emphasizing the importance of affordable housing as a pressing social justice issue. Under her leadership, Community Roots is set to expand significantly, with projects such as Copperleaf Northgate, which will add 232 affordable apartments, and the White Center HUB development, which includes a community center and 76 family-sized apartments. Additionally, the Constellation Center on Capitol Hill will feature a resource hub and new affordable housing for youth exiting homelessness.

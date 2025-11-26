@@ -1,9 +1,7 @@
 ---
-title: 'Council Roundup: Updates on public safety statistics and Eastgate Housing
-  Campus'
 date: '2025-09-19T23:55:46+00:00'
-source: City of Bellevue
-source_url: https://bellevuewa.gov/city-news/council-roundup-updates-public-safety-statistics-eastgate-housing-campus
+images:
+- 1a0fed4ba3beae5d97bfd3a6ae1dbf6cbe8393527303f3904af05f5d51dfd8ef
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Council
   Roundup: Updates on public safety statistics and Eastgate Housing Campus</span>\n<span
   class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span
@@ -127,13 +125,15 @@ original_markdown_body: "Council Roundup: Updates on public safety statistics an
   and [National Diaper Need Awareness Week](https://bellevue.legistar.com/View.ashx?M=F&ID=14773993&GUID=37F42A65-E6DE-422B-B1FB-1595B0658242).&nbsp;
   \ \n&nbsp;\n\n<time datetime=\"2025-09-19T12:00:00Z\" class=\"datetime\">September
   19 2025</time>"
+source: City of Bellevue
+source_url: https://bellevuewa.gov/city-news/council-roundup-updates-public-safety-statistics-eastgate-housing-campus
 summarized: true
+title: 'Council Roundup: Updates on public safety statistics and Eastgate Housing
+  Campus'
 topics:
 - Shelter & Housing
 - Mental Health & Counseling
 - Transportation & Mobility
-images:
-- 1a0fed4ba3beae5d97bfd3a6ae1dbf6cbe8393527303f3904af05f5d51dfd8ef
 ---
 
 At the recent Bellevue City Council meeting, police reported a 28% reduction in overall crime and a 21% decrease in traffic collisions in 2025. Speeding tickets rose by 117%, with an average police response time of under four minutes. The Bellevue Police emphasized the importance of community partnerships in maintaining these positive trends and addressed issues related to speeding and racing. 

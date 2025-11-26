@@ -1,8 +1,6 @@
 ---
-title: 'Backpacks, Basics & Belonging: A Season of Strong Starts'
 date: '2025-08-22T18:03:24+00:00'
-source: Wellspring Family Services
-source_url: https://wellspringfs.org/backpacks-basics-belonging-a-season-of-strong-starts/
+images: []
 original_content: |-
   <p>When families feel surrounded by people who care, children step into the classroom with more than pencils and paper. They walk in with confidence, hope, and a sense of belonging.</p>
   <p>This August, that spirit of belonging has been alive across the Wellspring community, showing how much is possible when neighbors, partners, and supporters come together.</p>
@@ -45,14 +43,16 @@ original_markdown_body: |-
   Together, we are creating more than strong starts. We are creating a stronger community.
 
   The post [Backpacks, Basics & Belonging: A Season of Strong Starts](https://wellspringfs.org/backpacks-basics-belonging-a-season-of-strong-starts/) appeared first on [Wellspring](https://wellspringfs.org).
+source: Wellspring Family Services
+source_url: https://wellspringfs.org/backpacks-basics-belonging-a-season-of-strong-starts/
 summarized: true
+title: 'Backpacks, Basics & Belonging: A Season of Strong Starts'
 topics:
 - Childcare
 - Education & Learning
 - Food & Nutrition
 - Senior Services
 - Shelter & Housing
-images: []
 ---
 
 Starting strong in the new school year requires more than just supplies; it necessitates a supportive community. The Wellspring community exemplified this during its annual Back-to-School Family Resource Fair on August 16, where families received backpacks and school supplies, fostering a sense of belonging. The event not only provided essentials but also connected families to resources and support, helping children enter the classroom with confidence and hope. Karly Lee, Associate Director of the Family Store & Volunteer Engagement, highlighted the importance of seeing a community rally around families during this time.

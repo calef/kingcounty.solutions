@@ -1,8 +1,7 @@
 ---
-title: 'Council Roundup: Wilburton code update and rezone reviewed'
 date: '2025-05-23T18:49:05+00:00'
-source: City of Bellevue
-source_url: https://bellevuewa.gov/city-news/council-roundup-5-20-25
+images:
+- 9c8a70d49cff03e17a2b40da1f70473522623ea595617db1ceec2f4ae1f3ecd7
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Council
   Roundup: Wilburton code update and rezone reviewed</span>\n<span class=\"field field--name-uid
   field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"
@@ -105,12 +104,13 @@ original_markdown_body: "Council Roundup: Wilburton code update and rezone revie
   Health Awareness Month](https://bellevue.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=10954)
   and&nbsp;[Public Works Week](https://bellevue.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=10955).&nbsp;\n\n<time
   datetime=\"2025-05-23T12:00:00Z\" class=\"datetime\">May 23 2025</time>"
+source: City of Bellevue
+source_url: https://bellevuewa.gov/city-news/council-roundup-5-20-25
 summarized: true
+title: 'Council Roundup: Wilburton code update and rezone reviewed'
 topics:
 - Transportation & Mobility
 - Mental Health & Counseling
-images:
-- 9c8a70d49cff03e17a2b40da1f70473522623ea595617db1ceec2f4ae1f3ecd7
 ---
 
 The Bellevue City Council continued discussions on the Wilburton Transit-Oriented Development (TOD) land use code amendment, aimed at establishing new mixed-use districts in the 300-acre area, reflecting community goals from the 2024 Wilburton Comprehensive Plan. The council focused on stakeholder proposals and staff recommendations, with final action anticipated at a future meeting. 

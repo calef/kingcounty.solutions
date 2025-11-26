@@ -1,8 +1,6 @@
 ---
-title: Bellevue’s fleet ranks among best in North America
 date: '2025-05-28T23:16:54+00:00'
-source: City of Bellevue
-source_url: https://bellevuewa.gov/city-news/fleet-among-best
+images: []
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Bellevue’s
   fleet ranks among best in North America</span>\n<span class=\"field field--name-uid
   field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"
@@ -66,10 +64,12 @@ original_markdown_body: |-
   The award also recognized the city’s commitment to long-term financial sustainability in its fleet management and concerted efforts to promote staff development and retention. More information about Bellevue’s fleet operations can be found at [Fleet and Communications](https://bellevuewa.gov/city-government/departments/finance/fleet-communications "Fleet and Communications").
 
   <time datetime="2025-05-28T12:00:00Z" class="datetime">May 28 2025</time>
-summarized: true
-topics: []
 published: false
-images: []
+source: City of Bellevue
+source_url: https://bellevuewa.gov/city-news/fleet-among-best
+summarized: true
+title: Bellevue’s fleet ranks among best in North America
+topics: []
 ---
 
 The City of Bellevue’s vehicle fleet has been recognized as the 22nd best in North America by the National Association of Fleet Administrators, marking the highest ranking for any organization in Washington state on the annual top 100 fleets list. This recognition is attributed to Bellevue's dedication to continuous improvement and its leading use of electric vehicles. The 100 Best Fleets in the Americas program aims to highlight high-performing fleet operations that foster innovation and performance enhancement.

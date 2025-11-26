@@ -1,8 +1,6 @@
 ---
-title: Special PDA board meeting
 date: '2025-09-04T20:42:27+00:00'
-source: Community Roots Housing
-source_url: https://communityrootshousing.org/2025/09/special-pda-board-meeting-2/
+images: []
 original_content: |-
   <p>Community Roots Housing has scheduled a special PDA Board Meeting to be held electronically on Friday, September 5, 2025, from 3:00 p.m. to 3:35 p.m. The meeting information is below.</p>
   <p>Please join using this link:</p>
@@ -22,11 +20,13 @@ original_markdown_body: |-
   Passcode:&nbsp; &nbsp; &nbsp; &nbsp;398267
 
   The post [Special PDA board meeting](https://communityrootshousing.org/2025/09/special-pda-board-meeting-2/) appeared first on [Community Roots Housing](https://communityrootshousing.org).
+source: Community Roots Housing
+source_url: https://communityrootshousing.org/2025/09/special-pda-board-meeting-2/
 summarized: true
+title: Special PDA board meeting
 topics:
 - Financial Assistance
 - Shelter & Housing
-images: []
 ---
 
 Community Roots Housing has scheduled a special PDA Board Meeting to take place electronically on Friday, September 5, 2025, from 3:00 p.m. to 3:35 p.m. Participants can join the meeting using the provided Zoom link. The meeting ID is 931 6943 7365, and the passcode is 398267. Additionally, Community Roots Housing is seeking donations for rental assistance to support 25 households during times of crisis and transition.

@@ -1,8 +1,6 @@
 ---
-title: A Time of Personal Change for our Board President
 date: '2025-01-05T19:46:03+00:00'
-source: Changes Parent Support Network
-source_url: https://cpsn.org/personal-change/?utm_source=rss&utm_medium=rss&utm_campaign=personal-change
+images: []
 original_content: |-
   <p><em>We have traditionally created a Fall newsletter to communicate to current and alumni Changes members, as well as to the community at large.  </em></p>
   <p><em>With the creation of this website blog, we are moving from periodic newsletter-style communication to a more regular as-needed rhythm.  So consider this to be a delayed part 1 of what would have been our Fall ’24 Changing Times newsletter.  </em></p>
@@ -34,10 +32,12 @@ original_markdown_body: |-
   Eleanor Roosevelt liked to say, “A woman is like a tea bag.&nbsp;You never know how strong it is until it’s in hot water.”&nbsp; Like most new Changes members, I was at full boil when I discovered this dynamic organization. Thanks to the skills and techniques I learned in Changes, I know I can stand up to the water no matter how hot it gets.
 
   Though I am leaving the Board, I will continue to repay my debt to Changes by serving on committees and hope you will join me.&nbsp; Support your fellow tea bags and become a Changes volunteer!
-summarized: true
-topics: []
 published: false
-images: []
+source: Changes Parent Support Network
+source_url: https://cpsn.org/personal-change/?utm_source=rss&utm_medium=rss&utm_campaign=personal-change
+summarized: true
+title: A Time of Personal Change for our Board President
+topics: []
 ---
 
 Karen Gustafson is stepping down as President of the Board of Directors after three transformative years at Changes, a nonprofit organization. Her leadership coincided with a significant shift from an in-person, Northwest-centric group to a fully online entity serving members across 18 states. This transition involved extensive volunteer efforts to revamp communications and materials for online use, resulting in a new logo and website. Gustafson emphasizes that the true strength of Changes lies with its members and their contributions, urging others to get involved in committees or volunteer roles. Stephanie Mannion will assume the presidency for 2025, supported by several new board members. Gustafson reflects on her journey with the organization, expressing gratitude for the skills and resilience gained through her experience. She plans to continue her involvement by serving on committees and encourages others to join her in supporting the community through volunteerism.

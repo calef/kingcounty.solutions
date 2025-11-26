@@ -1,8 +1,6 @@
 ---
-title: Twice the Fun at Foster Golf Links July 25th
 date: '2025-07-08T17:23:50+00:00'
-source: City of Tukwila
-source_url: https://www.tukwilawa.gov/twice-the-fun-at-foster-golf-links-july-25th/
+images: []
 original_content: |-
   ###### ![](https://www.tukwilawa.gov/wp-content/uploads/Glow-Ball-at-Foster-Golf-Links-1-1.png)
 
@@ -31,10 +29,12 @@ original_content: |-
   Call the Pro Shop at&nbsp;206-242-4221&nbsp;to sign up!
 
   The post [Twice the Fun at Foster Golf Links July 25th](https://www.tukwilawa.gov/twice-the-fun-at-foster-golf-links-july-25th/) appeared first on [City of Tukwila](https://www.tukwilawa.gov).
-summarized: true
-topics: []
 published: false
-images: []
+source: City of Tukwila
+source_url: https://www.tukwilawa.gov/twice-the-fun-at-foster-golf-links-july-25th/
+summarized: true
+title: Twice the Fun at Foster Golf Links July 25th
+topics: []
 ---
 
 Foster Golf Links is hosting a centennial celebration featuring a free screening of the movie "Happy Gilmore" and an 'Anything But a Driver' competition. The event starts at 7:45 p.m., with the movie commencing at approximately 9 p.m. The course restaurant, Billy Baroo's, will remain open until 10 p.m. For golf enthusiasts, a round of Glow Ball begins with a Shotgun Start at 8:45 p.m. The competition includes two-person teams, alternate shot format, and a $60 per person fee that covers 9 holes, glow balls, glow swag, and a $10 Billy Baroo’s gift card. Sign-up can be done by calling the Pro Shop at 206-242-4221.

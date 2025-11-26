@@ -1,8 +1,6 @@
 ---
-title: Final Call for 2026 MCOY Nominations
 date: '2025-11-24T11:00:00+00:00'
-source: Operation Homefront - Critical Financial Assistance Program
-source_url: https://operationhomefront.org/final-call-for-2026-mcoy-nominations/
+images: []
 original_content: |-
   <p class="has-text-align-center"><strong>Final Call for Nominations for 2026 Military Child of the Year® Awards </strong> <br><em>Seven military children will receive $10,000 and attend a D.C. gala in their honor</em></p>
 
@@ -76,11 +74,13 @@ original_markdown_body: "**Final&nbsp;Call for&nbsp;Nominations for 2026&nbsp;Mi
   Integrated Public Relations  \n[Email Erin](mailto:Erin.Burgy@OperationHomefront.org)
   or (469) 934-7131\n\nThe post [Final Call for 2026 MCOY Nominations](https://operationhomefront.org/final-call-for-2026-mcoy-nominations/)
   appeared first on [Operation Homefront](https://operationhomefront.org)."
+source: Operation Homefront - Critical Financial Assistance Program
+source_url: https://operationhomefront.org/final-call-for-2026-mcoy-nominations/
 summarized: true
+title: Final Call for 2026 MCOY Nominations
 topics:
 - Financial Assistance
 - Shelter & Housing
-images: []
 ---
 
 Just one week remains to submit nominations for the 2026 Military Child of the Year® Award, hosted by Operation Homefront. The deadline for nominations is 11:59 p.m. CST on Monday, December 2. This prestigious award honors seven military children who exemplify resilience and strength in the face of military life challenges. The recipients, representing each branch of the U.S. Armed Forces, will be recognized for their academic excellence, community involvement, and leadership.

@@ -1,8 +1,9 @@
 ---
-title: 'Champions 2025: Leading the Way with Treehouse'
 date: '2025-04-25T18:31:28+00:00'
-source: Treehouse
-source_url: https://www.treehouseforkids.org/champions-2025-leading-the-way-treehouse/
+images:
+- 1f17e1d9773a2d2ad290fee264e10d50bbc07b4788b7e7987b1bc337f43573f6
+- 5e46efef5cc360991db13234407a6be0aec2a7ebc863b54237111fcf3ad627cb
+- 00f8e077edbfa8f65d6d81727a534c4a69b9456afa0cda5461bd81ffe8d6afe2
 original_content: |-
   <div id="attachment_195519" style="width: 1034px" class="wp-caption aligncenter"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-195519" class="wp-image-195519 size-large" src="https://www.treehouseforkids.org/wp-content/uploads/2025/05/Treehouse__25_792-1024x683.jpg" alt="" width="1024" height="683" /><p id="caption-attachment-195519" class="wp-caption-text">Treehouse CEO Dawn Rains gives speech at Champions 2025.</p></div>
   <p><span class="TextRun SCXW249170831 BCX0" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun SCXW249170831 BCX0">On April 1, 2025,</span> </span><span class="TextRun SCXW249170831 BCX0" lang="EN-US" xml:lang="EN-US" data-contrast="none"><span class="NormalTextRun SCXW249170831 BCX0">742</span></span><span class="TextRun SCXW249170831 BCX0" lang="EN-US" xml:lang="EN-US" data-contrast="auto"> <span class="NormalTextRun SCXW249170831 BCX0">attendees joined Treehouse </span><span class="NormalTextRun SCXW249170831 BCX0">at</span> <span class="NormalTextRun SCXW249170831 BCX0">Champions </span><span class="NormalTextRun SCXW249170831 BCX0">2025, our annual fundraising </span><span class="NormalTextRun SCXW249170831 BCX0">event</span><span class="NormalTextRun SCXW249170831 BCX0">. Long-time supporters</span><span class="NormalTextRun SCXW249170831 BCX0">—</span><span class="NormalTextRun SCXW249170831 BCX0">like our keynote speaker Attorney General Nick Brown</span><span class="NormalTextRun SCXW249170831 BCX0">—</span><span class="NormalTextRun SCXW249170831 BCX0">and </span><span class="NormalTextRun SCXW249170831 BCX0">new faces</span><span class="NormalTextRun SCXW249170831 BCX0"> gathered at the Sheraton </span><span class="NormalTextRun ContextualSpellingAndGrammarErrorV2Themed SCXW249170831 BCX0">Grand</span><span class="NormalTextRun SCXW249170831 BCX0"> Seattle </span><span class="NormalTextRun SCXW249170831 BCX0">to hear</span> <span class="NormalTextRun SCXW249170831 BCX0">what this year’s </span><span class="NormalTextRun SCXW249170831 BCX0">theme</span><span class="NormalTextRun SCXW249170831 BCX0">,</span><span class="NormalTextRun SCXW249170831 BCX0"> “Leading the Way</span><span class="NormalTextRun SCXW249170831 BCX0">,</span><span class="NormalTextRun SCXW249170831 BCX0">” </span><span class="NormalTextRun SCXW249170831 BCX0">means</span><span class="NormalTextRun SCXW249170831 BCX0"> for youth experiencing foster care and the community at large. </span></span><span class="EOP SCXW249170831 BCX0" data-ccp-props="{}"> </span></p>
@@ -73,14 +74,13 @@ original_markdown_body: "![](https://www.treehouseforkids.org/wp-content/uploads
   **_To learn how you can get involved, visit our_ [_Take Action_](https://www.treehouseforkids.org/take-action/)
   _page._**\n\nThe post [Champions 2025: Leading the Way with Treehouse](https://www.treehouseforkids.org/champions-2025-leading-the-way-treehouse/)
   appeared first on [Treehouse](https://www.treehouseforkids.org)."
+source: Treehouse
+source_url: https://www.treehouseforkids.org/champions-2025-leading-the-way-treehouse/
 summarized: true
+title: 'Champions 2025: Leading the Way with Treehouse'
 topics:
 - Education & Learning
 - Employment & Job Support
-images:
-- 1f17e1d9773a2d2ad290fee264e10d50bbc07b4788b7e7987b1bc337f43573f6
-- 5e46efef5cc360991db13234407a6be0aec2a7ebc863b54237111fcf3ad627cb
-- 00f8e077edbfa8f65d6d81727a534c4a69b9456afa0cda5461bd81ffe8d6afe2
 ---
 
 On April 1, 2025, Treehouse hosted its annual fundraising event, Champions 2025, at the Sheraton Grand Seattle, attracting 742 attendees including keynote speaker Attorney General Nick Brown. The theme, “Leading the Way,” emphasizes empowering youth in foster care through support and resources, enabling them to pursue their dreams. Treehouse commits to advocating for these youth and invites the community to participate in fostering a more just world.

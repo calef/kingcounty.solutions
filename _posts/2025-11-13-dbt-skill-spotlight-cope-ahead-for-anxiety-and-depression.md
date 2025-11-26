@@ -1,8 +1,6 @@
 ---
-title: 'DBT Skill Spotlight: Cope Ahead for Anxiety and Depression'
 date: '2025-11-13T18:48:38+00:00'
-source: THIRA Health
-source_url: https://thirahealth.com/2025/11/13/dbt-skill-spotlight-cope-ahead-for-anxiety-and-depression/?utm_source=rss&utm_medium=rss&utm_campaign=dbt-skill-spotlight-cope-ahead-for-anxiety-and-depression
+images: []
 original_content: |-
   <p class="p1">The holiday season is an intense time of year. There’s a lot of pressure to enjoy yourself, to spend time with people (even if you have a difficult relationship the rest of the year), and to cram your schedule with activities. Many of us have complicated feelings or painful memories about the holidays;<a href="https://www.va.gov/marion-health-care/stories/surviving-the-holidays-how-to-mind-our-mental-health/"><span class="s1"> it is a time of year that has a negative impact</span></a> on the mental health of a lot of people, especially those who already struggle with anxiety and depression.</p>
   <h2 class="p2">Anxiety and depression make stressful situations even harder</h2>
@@ -87,10 +85,12 @@ original_markdown_body: |-
   ## Intensive mental health treatment with THIRA Health can help you manage anxiety and depression this holiday season
 
   You don’t have to face the holiday season alone. Cope Ahead is one of many DBT skills that can support people with anxiety and depression in making it through the disruption and pressure of the holiday season.[We welcome you to connect with us](https://thirahealth.com/contact/) to get started today. This can be a holiday season where you can transcend the emotional dysregulation of anxiety and depression, creating for yourself a season of hope and renewal that reflects your needs and wants. [THIRA Health](https://thirahealth.com/overview/) offers holistic, comprehensive DBT-based intensive mental health treatment for teens and adults that provides the DBT life skills, therapeutic support, and community that can help those with anxiety and depression to feel that life is worth living every day!
+source: THIRA Health
+source_url: https://thirahealth.com/2025/11/13/dbt-skill-spotlight-cope-ahead-for-anxiety-and-depression/?utm_source=rss&utm_medium=rss&utm_campaign=dbt-skill-spotlight-cope-ahead-for-anxiety-and-depression
 summarized: true
+title: 'DBT Skill Spotlight: Cope Ahead for Anxiety and Depression'
 topics:
 - Mental Health & Counseling
-images: []
 ---
 
 The holiday season can be particularly challenging for individuals dealing with anxiety and depression, as it often brings pressure to conform to social expectations and manage complex emotions. Dialectical Behavior Therapy (DBT) offers tools to help navigate these stressful times, specifically through the "Cope Ahead" skill. This visualization exercise prepares individuals for potential stressors by identifying specific situations, recognizing emotions and thoughts that may arise, and determining which DBT skills can be utilized to cope effectively. 

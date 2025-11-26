@@ -1,8 +1,6 @@
 ---
-title: 'Suicide Prevention Month: Warning Signs, Resources & How to Help'
 date: '2025-09-10T20:54:30+00:00'
-source: Hospital District No. 4 (Snoqualmie Valley Hospital)
-source_url: https://snoqualmievalleyhealth.org/suicide-prevention-month-2/
+images: []
 original_content: |-
   September brings us the introduction to fall vibes, breaking out the cozy sweaters and for those who partake, the pumpkin spice. It is also our back-to-school season, with fresh books and new teachers and friends. With all the excitement of the changing seasons, it’s easy to forget that some people find these transitions stressful, scary, or even impossible.
 
@@ -48,10 +46,12 @@ original_content: |-
   - **Immediate help:** If you or your loved one is not safe, Call **911** or the **SVH Emergency Department** for psychiatric help and monitoring.
 
   The post [Suicide Prevention Month: Warning Signs, Resources & How to Help](https://snoqualmievalleyhealth.org/suicide-prevention-month-2/) appeared first on [Snoqualmie Valley Hospital](https://snoqualmievalleyhealth.org).
+source: Hospital District No. 4 (Snoqualmie Valley Hospital)
+source_url: https://snoqualmievalleyhealth.org/suicide-prevention-month-2/
 summarized: true
+title: 'Suicide Prevention Month: Warning Signs, Resources & How to Help'
 topics:
 - Mental Health & Counseling
-images: []
 ---
 
 September is recognized as Suicide Prevention Month, emphasizing the importance of mental health and strong communities. Suicide is the 11th leading cause of death in the U.S., with certain demographics being more at risk. Warning signs of suicidal thoughts include expressions of hopelessness, increased physical symptoms of distress, withdrawal from social connections, mood swings, and reckless behavior. Strategies for assistance include reaching out for help, encouraging open conversations about mental health, and connecting with professional support. Various resources are available, including the 988 Suicide & Crisis Lifeline, the Jed Foundation, and more. Immediate help can be sought through 911 or local emergency departments.

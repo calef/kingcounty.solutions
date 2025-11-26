@@ -1,8 +1,6 @@
 ---
-title: 'Your Cancer Care Team: Specialists Working Together for You'
 date: '2025-01-03T23:51:05+00:00'
-source: Hospital District No. 1 (Valley Medical Center)
-source_url: https://blog.valleymed.org/2025/01/03/your-cancer-care-team-specialists-working-together-for-you/?utm_source=rss&utm_medium=rss&utm_campaign=your-cancer-care-team-specialists-working-together-for-you
+images: []
 original_content: |-
   <p><img width="300" height="188" src="https://blog.valleymed.org/wp-content/uploads/2024/09/Janette-Swensen-blog-300x188.jpg" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://blog.valleymed.org/wp-content/uploads/2024/09/Janette-Swensen-blog-300x188.jpg 300w, https://blog.valleymed.org/wp-content/uploads/2024/09/Janette-Swensen-blog-768x480.jpg 768w, https://blog.valleymed.org/wp-content/uploads/2024/09/Janette-Swensen-blog-600x375.jpg 600w, https://blog.valleymed.org/wp-content/uploads/2024/09/Janette-Swensen-blog.jpg 800w" sizes="auto, (max-width: 300px) 100vw, 300px" /></p>
   <p>At Valley, we believe in the power of collaboration. Our specialists work together to create personalized treatment plans for our patients, ensuring they receive the best care possible. Here are some of the specialized team members who may be part of a patient’s cancer journey at Valley:</p>
@@ -73,10 +71,12 @@ original_markdown_body: |-
   _*diagnose, treat, perform surgery/procedures, co-manage ongoing care_
 
   _Pictured: Patient Janette with Gynecologic Oncologist **[Ron Swensen, MD](https://www.valleymed.org/find-a-provider/s/ron-e-swensen)**. **[Watch Janette’s story.](https://blog.valleymed.org/2024/09/09/janettes-story-gynecologic-cancer-care-at-valley/)**_
-summarized: true
-topics: []
 published: false
-images: []
+source: Hospital District No. 1 (Valley Medical Center)
+source_url: https://blog.valleymed.org/2025/01/03/your-cancer-care-team-specialists-working-together-for-you/?utm_source=rss&utm_medium=rss&utm_campaign=your-cancer-care-team-specialists-working-together-for-you
+summarized: true
+title: 'Your Cancer Care Team: Specialists Working Together for You'
+topics: []
 ---
 
 At Valley, a collaborative approach is emphasized in cancer care, ensuring personalized treatment plans for patients. The cancer care team consists of various specialists, each contributing unique expertise. Medical oncologists focus on chemotherapy and immunotherapy, serving as primary coordinators for treatment. Gynecologic oncologists treat cancers of the female reproductive system, while radiation oncologists utilize targeted radiation therapy. Pathologists analyze tissue samples to diagnose cancer and inform treatment decisions, and radiologists conduct imaging studies to monitor treatment efficacy.

@@ -1,8 +1,7 @@
 ---
-title: June Donations Needed
 date: '2025-06-01T15:00:00+00:00'
-source: Hospitality House
-source_url: https://hospitalityhousesouthking.org/june-donations-needed/
+images:
+- d5cf05fd6ab8f1cb3e27c7846a75d5d0281015b33f8d7235c2337a4ebe508238
 original_content: |-
   <div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-16018d1d wp-block-buttons-is-layout-flex">
   <div class="wp-block-button has-custom-width wp-block-button__width-75 is-style-outline is-style-outline--2"><a class="wp-block-button__link has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background has-background has-large-font-size has-custom-font-size wp-element-button" href="https://www.amazon.com/hz/wishlist/ls/1BMTT8YXQ8TJI?ref_=wl_share">CLICK HERE to shop our needs!</a></div>
@@ -21,12 +20,13 @@ original_markdown_body: |-
   ![](https://hospitalityhousesouthking.org/wp-content/uploads/2025/06/6.-June-2025-1.png)
 
   <object data-wp-bind--hidden="!state.hasPdfPreview" hidden class="wp-block-file__embed" data="https://hospitalityhousesouthking.org/wp-content/uploads/2025/06/6.-June-2025-1.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="Embed of 6. June 2025 (1)."></object>[6. June 2025 (1)](https://hospitalityhousesouthking.org/wp-content/uploads/2025/06/6.-June-2025-1.pdf)[Download](https://hospitalityhousesouthking.org/wp-content/uploads/2025/06/6.-June-2025-1.pdf)
+source: Hospitality House
+source_url: https://hospitalityhousesouthking.org/june-donations-needed/
 summarized: true
+title: June Donations Needed
 topics:
 - Food & Nutrition
 - Personal & Household Needs
-images:
-- d5cf05fd6ab8f1cb3e27c7846a75d5d0281015b33f8d7235c2337a4ebe508238
 ---
 
 Hospitality House South King is seeking donations for June 2025. They encourage individuals to shop for their needs and contribute to the cause. The organization provides a link for donors to access a list of required items. Donations are essential for supporting their mission and helping those in need within the community.

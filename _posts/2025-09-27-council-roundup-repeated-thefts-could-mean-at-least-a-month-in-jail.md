@@ -1,8 +1,6 @@
 ---
-title: 'Council Roundup: Repeated thefts could mean at least a month in jail'
 date: '2025-09-27T18:53:27+00:00'
-source: City of Bellevue
-source_url: https://bellevuewa.gov/city-news/council-roundup-repeated-thefts-could-mean-least-month-jail
+images: []
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Council
   Roundup: Repeated thefts could mean at least a month in jail</span>\n<span class=\"field
   field--name-uid field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/mdegrand\"
@@ -112,13 +110,15 @@ original_markdown_body: "Council Roundup: Repeated thefts could mean at least a 
   are not held on the fifth week of the month. The next Bellevue City Council meeting
   will be held on Tuesday, Oct. 7.&nbsp;  \n&nbsp;\n\n<time datetime=\"2025-09-27T12:00:00Z\"
   class=\"datetime\">September 27 2025</time>"
+source: City of Bellevue
+source_url: https://bellevuewa.gov/city-news/council-roundup-repeated-thefts-could-mean-least-month-jail
 summarized: true
+title: 'Council Roundup: Repeated thefts could mean at least a month in jail'
 topics:
 - Domestic Violence
 - Shelter & Housing
 - Disabilities
 - Employment & Job Support
-images: []
 ---
 
 The Bellevue City Council has voted to prepare an ordinance that mandates a minimum 30-day jail sentence for repeat offenders of third-degree theft crimes, including shoplifting. This applies to individuals with two or more prior theft convictions in Washington state within the last two years. Exceptions to this minimum sentence include participation in diversion programs, community court, and mental health or substance abuse treatment, as well as cases where there is a substantial risk of harm, allowing for electronic home monitoring instead. The council approved this measure with a 6-1 vote, and a check-in on the ordinance is planned after one year.

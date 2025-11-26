@@ -1,8 +1,6 @@
 ---
-title: Rolling Forward with DEI, together 
 date: '2025-03-13T22:24:54+00:00'
-source: Bike Works
-source_url: https://bikeworks.org/rolling-forward-with-dei/?utm_source=rss&utm_medium=rss&utm_campaign=rolling-forward-with-dei
+images: []
 original_content: |-
   <p></p>
 
@@ -88,11 +86,13 @@ original_markdown_body: |-
   Bike Works has been serving the Seattle community since 1996, providing accessible bike education, affordable transportation, and a welcoming space for riders of all backgrounds. Through bike repair programs, youth leadership initiatives, and community events, Bike Works is committed to using bicycles as a vehicle for social change.&nbsp;
 
   The post [Rolling Forward with DEI, together&nbsp;](https://bikeworks.org/rolling-forward-with-dei/) appeared first on [Bike Works](https://bikeworks.org).
+source: Bike Works
+source_url: https://bikeworks.org/rolling-forward-with-dei/?utm_source=rss&utm_medium=rss&utm_campaign=rolling-forward-with-dei
 summarized: true
+title: Rolling Forward with DEI, together 
 topics:
 - Education & Learning
 - Employment & Job Support
-images: []
 ---
 
 Bike Works is advancing its commitment to diversity, equity, and inclusion (DEI) in cycling despite national setbacks. The organization emphasizes anti-racism and racial equity in its mission, celebrating Black joy and trans inclusion while fostering a welcoming environment for all. DEI efforts focus on dismantling barriers for underrepresented communities, ensuring safety and accessibility in cycling for individuals of all backgrounds. 

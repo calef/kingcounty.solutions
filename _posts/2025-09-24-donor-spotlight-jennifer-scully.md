@@ -1,8 +1,6 @@
 ---
-title: 'Donor Spotlight: Jennifer Scully'
 date: '2025-09-24T20:30:40+00:00'
-source: Youth Eastside Services
-source_url: https://www.youtheastsideservices.org/donor-spotlight-jennifer-scully/?utm_source=rss&utm_medium=rss&utm_campaign=donor-spotlight-jennifer-scully
+images: []
 original_content: |-
   <h2><strong>Donor Spotlight: Jennifer’s Story – Investing in Hope, Year After Year</strong></h2>
   <p>Fourteen years ago, Jennifer attended her first <span style="color: #ff6600;"><a style="color: #ff6600;" href="https://youtheastsideservices.org/investinyouth"><em>Invest in Youth Breakfast</em></a></span> at the invitation of her friend and YES board member, Jennifer Ivan. She had no idea then how much that one morning would shape her ongoing commitment to youth mental health in our community.</p>
@@ -67,10 +65,12 @@ original_markdown_body: |-
   &nbsp;
 
   The post [Donor Spotlight: Jennifer Scully](https://www.youtheastsideservices.org/donor-spotlight-jennifer-scully/) appeared first on [Youth Eastside Services](https://www.youtheastsideservices.org).
+source: Youth Eastside Services
+source_url: https://www.youtheastsideservices.org/donor-spotlight-jennifer-scully/?utm_source=rss&utm_medium=rss&utm_campaign=donor-spotlight-jennifer-scully
 summarized: true
+title: 'Donor Spotlight: Jennifer Scully'
 topics:
 - Mental Health & Counseling
-images: []
 ---
 
 Jennifer Scully has been a committed supporter of youth mental health for fourteen years, inspired by her attendance at the Invest in Youth Breakfast, an event organized by Youth Eastside Services (YES). Each year, she finds the event transformative, particularly moved by the youth speakers who share their personal challenges and messages of hope. Cherished memories include engaging moments with actor Sean Astin and author Cheryl Strayed. As a mother, Jennifer has witnessed the significant mental health struggles faced by young people, especially during the pandemic, and emphasizes the importance of providing support. She encourages potential donors to invest in the community's future, asserting that every contribution, regardless of size, is impactful. Jennifer expresses confidence in YES, believing that donations are used effectively to sustain vital programs. She hopes for a future where more youth feel empowered to seek help and recognize the care from their community. The article concludes by inviting others to join Jennifer in supporting children and families, highlighting the convenience of making monthly donations to ensure consistent assistance.

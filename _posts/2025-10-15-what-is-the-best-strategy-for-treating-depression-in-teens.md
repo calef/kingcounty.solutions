@@ -1,8 +1,6 @@
 ---
-title: What is the Best Strategy for Treating Depression in Teens?
 date: '2025-10-15T16:25:09+00:00'
-source: THIRA Health
-source_url: https://thirahealth.com/2025/10/15/what-is-the-best-strategy-for-treating-depression-in-teens/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-the-best-strategy-for-treating-depression-in-teens
+images: []
 original_content: |-
   <p class="p1">You probably remember your own teenage years, and may even breathe a sigh of relief that those days are behind you. The drama, the pressure to fit in, the constant juggling of school, friendships, and figuring out who you were becoming—it wasn’t easy.</p>
   <p class="p1">Now, as a parent, you’re watching your teen step into that same turbulent season, knowing that these experiences will shape who they become. Between school demands, social media, changing friendships, and the uncertainty of what lies ahead, it’s hard to know when to step in and when to let them “figure it out.”</p>
@@ -82,11 +80,13 @@ original_markdown_body: |-
   Together with the therapists at THIRA Health, you play a vital part in helping your teen create and sustain “a life worth living.” Your involvement not only supports their immediate progress but also strengthens the foundation for long-term mental well-being.
 
   If you’re ready to [get started with THIRA Health](https://thirahealth.com/contact/), we welcome you to get in touch today.
+source: THIRA Health
+source_url: https://thirahealth.com/2025/10/15/what-is-the-best-strategy-for-treating-depression-in-teens/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-the-best-strategy-for-treating-depression-in-teens
 summarized: true
+title: What is the Best Strategy for Treating Depression in Teens?
 topics:
 - Mental Health & Counseling
 - Education & Learning
-images: []
 ---
 
 Supporting teen mental health is crucial, as 78% of teens report signs of moderate to severe depression. A comprehensive approach to treatment involves three key steps. 

@@ -1,8 +1,6 @@
 ---
-title: UW-led study links wildfire smoke to increased odds of preterm birth
 date: '2025-11-03T18:19:32+00:00'
-source: University of Washington
-source_url: https://www.washington.edu/news/2025/11/03/uw-led-study-links-wildfire-smoke-to-increased-odds-of-preterm-birth/
+images: []
 original_content: |-
   <div id="attachment_89682" class="wp-caption alignnone" style="width: 760px"><img loading="lazy" decoding="async" class="size-full-content wp-image-89682" src="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/10/21141920/20200917_Seattle-Wildfire-Smoke-Sept_051-750x500.jpg" alt="A thin haze of wildfire smoke covers downtown Seattle." width="750" height="500" srcset="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/10/21141920/20200917_Seattle-Wildfire-Smoke-Sept_051-750x500.jpg 750w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/10/21141920/20200917_Seattle-Wildfire-Smoke-Sept_051-300x200.jpg 300w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/10/21141920/20200917_Seattle-Wildfire-Smoke-Sept_051-1024x683.jpg 1024w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/10/21141920/20200917_Seattle-Wildfire-Smoke-Sept_051-768x512.jpg 768w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/10/21141920/20200917_Seattle-Wildfire-Smoke-Sept_051-1536x1024.jpg 1536w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/10/21141920/20200917_Seattle-Wildfire-Smoke-Sept_051-2048x1365.jpg 2048w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/10/21141920/20200917_Seattle-Wildfire-Smoke-Sept_051-375x250.jpg 375w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/10/21141920/20200917_Seattle-Wildfire-Smoke-Sept_051-1140x760.jpg 1140w" sizes="auto, (max-width: 750px) 100vw, 750px" /></p>
   <p class="wp-caption-text">Wildfire smoke blankets the Seattle skyline in 2020. A new study finds that pregnant people who are exposed to wildfire smoke are more likely to give birth prematurely.</span></p>
@@ -57,10 +55,12 @@ original_markdown_body: |-
   _This research was funded by the Environmental influences on Child Health Outcomes (ECHO) program at the National Institutes of Health under multiple awards. A full list of ECHO funding awards is included with the paper.&nbsp;_
 
   _For more information or to contact the researchers, email Alden Woods at acwoods@uw.edu._
+source: University of Washington
+source_url: https://www.washington.edu/news/2025/11/03/uw-led-study-links-wildfire-smoke-to-increased-odds-of-preterm-birth/
 summarized: true
+title: UW-led study links wildfire smoke to increased odds of preterm birth
 topics:
 - Health Care
-images: []
 ---
 
 A study led by the University of Washington reveals a significant link between exposure to wildfire smoke and an increased likelihood of preterm birth among pregnant individuals. Analyzing data from over 20,000 births between 2006 and 2020, researchers found that exposure to fine particulate matter (PM2.5) from wildfire smoke heightens the risk of giving birth before 37 weeks, a condition affecting approximately 10% of American babies. The risk was notably higher during the second trimester, particularly around the 21st week of gestation. In regions like the Western U.S., where wildfire smoke exposure is more intense, the correlation was strongest. The study suggests that tiny smoke particles could interfere with placental health, impacting fetal development. Researchers advocate for targeted public health messaging to support pregnant individuals during smoke events, emphasizing the need for further investigation into the mechanisms behind this association. The findings, published in The Lancet Planetary Health, underscore the urgent need for measures to protect maternal and infant health amidst rising air pollution from wildfires.

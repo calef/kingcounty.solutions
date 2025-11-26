@@ -1,8 +1,7 @@
 ---
-title: Winter Sensory Friendly Events in Washington
 date: '2025-11-19T19:42:58+00:00'
-source: Institute on Human Development and Disability
-source_url: https://ihdd.org/2025/11/19/winter-sensory-friendly-events-in-washington/
+images:
+- 8ec2b364c37134695d74e659e83b7c3f9f5b957e9945b9a03ba718fe7dc0cf8b
 original_content: "<div class=\"wpb-content-wrapper\">\r\n<div  data-mk-stretch-content=\"true\"
   class=\"wpb_row vc_row vc_row-fluid jupiter-donut- mk-fullwidth-false  attched-false
   \    js-master-row  mk-grid\">\r\n\t\t\t\t\r\n<div class=\"vc_col-sm-9 wpb_column
@@ -245,11 +244,12 @@ original_markdown_body: "## [Home](https://ihdd.org/)\n\n## Winter Sensory Frien
   class=\"mk-padding-divider jupiter-donut- jupiter-donut-clearfix\"></div>\r\n\r\n</span></div></section>\t</div>\r\n</aside>\n\nThe
   post [Winter Sensory Friendly Events in Washington](https://ihdd.org/2025/11/19/winter-sensory-friendly-events-in-washington/)
   appeared first on [UW IHDD](https://ihdd.org)."
+source: Institute on Human Development and Disability
+source_url: https://ihdd.org/2025/11/19/winter-sensory-friendly-events-in-washington/
 summarized: true
+title: Winter Sensory Friendly Events in Washington
 topics:
 - Disabilities
-images:
-- 8ec2b364c37134695d74e659e83b7c3f9f5b957e9945b9a03ba718fe7dc0cf8b
 ---
 
 Families in Washington seeking inclusive winter activities can explore a range of sensory friendly events designed to accommodate those with sensory sensitivities. These events feature adaptations such as softer lighting, lower sound levels, and quiet break spaces. Highlights include:

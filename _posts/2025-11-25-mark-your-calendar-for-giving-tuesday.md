@@ -1,8 +1,6 @@
 ---
-title: Mark your calendar for Giving Tuesday
 date: '2025-11-25T14:19:00+00:00'
-source: The Center for Active Living
-source_url: https://wscenter.org/mark-your-calendar-for-giving-tuesday/
+images: []
 original_content: |-
   <a href="https://wscenter.org/mark-your-calendar-for-giving-tuesday/"><p>The biggest annual day of giving is coming up soon! </p>
 
@@ -13,7 +11,6 @@ original_content: |-
 
 
   <p>At The &hellip;</p></a>
-images: []
 original_markdown_body: |-
   [
 
@@ -24,7 +21,10 @@ original_markdown_body: |-
   At The …
 
   ](https://wscenter.org/mark-your-calendar-for-giving-tuesday/)
+source: The Center for Active Living
+source_url: https://wscenter.org/mark-your-calendar-for-giving-tuesday/
 summarized: true
+title: Mark your calendar for Giving Tuesday
 topics:
 - Financial Assistance
 - Personal & Household Needs

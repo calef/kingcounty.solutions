@@ -1,8 +1,8 @@
 ---
-title: 'Interpreter Hub Monthly Offerings: November'
 date: '2025-10-15T21:20:16+00:00'
-source: Washington Center for Deaf and Hard of Hearing Youth
-source_url: https://www.cdhy.wa.gov/interpreter-hub-monthly-offerings-november/
+images:
+- 030117ac8f02615f535297e3630b3e11b8a3798b1c76260870b4fc02c4d9405a
+- ed78799bf3eeb61db6dd74d1cbe16bf04a4083a2c9b269aede350f24519120b9
 original_content: |-
   <p><img fetchpriority="high" decoding="async" id="longdesc-return-11223" class="aligncenter wp-image-11223" tabindex="-1" src="https://www.cdhy.wa.gov/wp-content/uploads/2025/10/Offerings-from-CDHY-Interpreter-Hub-1-791x1024.png" alt="Flyer for CDHY Interpreter Hub November 2025, featuring seedlings, event details, and offerings." width="660" height="854" longdesc="https://www.cdhy.wa.gov?longdesc=11223&amp;referrer=11225" srcset="https://www.cdhy.wa.gov/wp-content/uploads/2025/10/Offerings-from-CDHY-Interpreter-Hub-1-200x259.png 200w, https://www.cdhy.wa.gov/wp-content/uploads/2025/10/Offerings-from-CDHY-Interpreter-Hub-1-232x300.png 232w, https://www.cdhy.wa.gov/wp-content/uploads/2025/10/Offerings-from-CDHY-Interpreter-Hub-1-400x518.png 400w, https://www.cdhy.wa.gov/wp-content/uploads/2025/10/Offerings-from-CDHY-Interpreter-Hub-1-600x777.png 600w, https://www.cdhy.wa.gov/wp-content/uploads/2025/10/Offerings-from-CDHY-Interpreter-Hub-1-768x994.png 768w, https://www.cdhy.wa.gov/wp-content/uploads/2025/10/Offerings-from-CDHY-Interpreter-Hub-1-791x1024.png 791w, https://www.cdhy.wa.gov/wp-content/uploads/2025/10/Offerings-from-CDHY-Interpreter-Hub-1-800x1036.png 800w, https://www.cdhy.wa.gov/wp-content/uploads/2025/10/Offerings-from-CDHY-Interpreter-Hub-1-1187x1536.png 1187w, https://www.cdhy.wa.gov/wp-content/uploads/2025/10/Offerings-from-CDHY-Interpreter-Hub-1-1200x1553.png 1200w, https://www.cdhy.wa.gov/wp-content/uploads/2025/10/Offerings-from-CDHY-Interpreter-Hub-1.png 1545w" sizes="(max-width: 660px) 100vw, 660px" /></p>
   <h2 style="text-align: center;">CDHY Interpreter Hub Monthly Offerings</h2>
@@ -86,13 +86,13 @@ original_markdown_body: "![Flyer for CDHY Interpreter Hub November 2025, featuri
   Saturday, November 8, 2025 — 9am to 3pm\n\n**Where:** CDHY Federal Way Office\n\n[Link
   to Register](https://docs.google.com/forms/d/e/1FAIpQLSdACYija70_47FMAFPP0dTlt4U4QoOOuvQmNMo8qXkTnYylLQ/viewform)\n\n**Questions?**
   Contact Melissa Klindtworth at melissa.klindtworth@cdhy.wa.gov"
+source: Washington Center for Deaf and Hard of Hearing Youth
+source_url: https://www.cdhy.wa.gov/interpreter-hub-monthly-offerings-november/
 summarized: true
+title: 'Interpreter Hub Monthly Offerings: November'
 topics:
 - Education & Learning
 - Disabilities
-images:
-- 030117ac8f02615f535297e3630b3e11b8a3798b1c76260870b4fc02c4d9405a
-- ed78799bf3eeb61db6dd74d1cbe16bf04a4083a2c9b269aede350f24519120b9
 ---
 
 November offerings from the CDHY Interpreter Hub focus on the theme "Becoming," emphasizing growth and professional development for interpreters. Key activities include one-on-one sessions with Deaf and Interpreter mentors, mock interpreting practice, classroom observations, and book club kits. Registration for one-on-one sessions and mock practices will close on November 25, while workshops remain open.

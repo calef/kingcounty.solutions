@@ -1,8 +1,6 @@
 ---
-title: 28th Annual Rise and Shine Volunteer Awards
 date: '2025-06-27T03:06:57+00:00'
-source: Empower Youth Network
-source_url: https://empoweryouthnetwork.org/28th-annual-rise-and-shine-volunteer-awards/
+images: []
 original_content: |-
   All too often the volunteer efforts of engaged citizens remain unseen or forgotten. The 28th Annual Rise & Shine Volunteer Recognition Celebration was an opportunity to recognize the generosity of so many eligible volunteers who work in the service of youth and families in the Snoqualmie Valley. Over one hundred community members showed up bright and early to honor this year’s award-winning volunteers while enjoying a delicious breakfast catered by [Carnation Café](https://carnationcafe.com/). Please see below this year’s award recipients! Photos from the Award Ceremony on Wednesday, June 4 can be accessed here:&nbsp;[Public Photo Access Folder](https://snoqvcn.sharepoint.com/:f:/s/EYN/ErSvkaksM6BLi1zC77caYVsBoxZ-e0l_oIKJ7FzjpfQpEQ?e=dYdIto).
 
@@ -191,10 +189,12 @@ original_content: |-
   Mike Pusich | Nominated by&nbsp;Max Harrison
 
   _ **Thank you all for your incredible volunteer work!** _
+source: Empower Youth Network
+source_url: https://empoweryouthnetwork.org/28th-annual-rise-and-shine-volunteer-awards/
 summarized: true
+title: 28th Annual Rise and Shine Volunteer Awards
 topics:
 - Education & Learning
-images: []
 ---
 
 The 28th Annual Rise & Shine Volunteer Recognition Celebration recognized the efforts of numerous volunteers serving youth and families in the Snoqualmie Valley. In attendance were over a hundred community members, who enjoyed a breakfast catered by Carnation Café. The event honored this year's award-winning volunteers and also presented the 2025 Scholarship Awards to Apollo Andrews and Henry Ehrnman. The awards were divided into Youth, Community, Business, and Champion categories, with multiple recipients in each. The event organizers encouraged community members to recognize and appreciate the ongoing volunteer work in their vicinity. The nomination process will reopen next year.

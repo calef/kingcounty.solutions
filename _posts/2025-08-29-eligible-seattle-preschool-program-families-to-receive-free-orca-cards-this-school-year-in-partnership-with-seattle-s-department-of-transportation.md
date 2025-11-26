@@ -1,9 +1,6 @@
 ---
-title: Eligible Seattle Preschool Program families to receive free ORCA cards this
-  school year, in partnership with Seattle’s Department of Transportation
 date: '2025-08-29T18:40:16+00:00'
-source: Department of Education and Early Learning
-source_url: https://education.seattle.gov/?p=1423
+images: []
 original_content: '<img width="150" height="150" src="https://education.seattle.gov/wp-content/uploads/sites/27/2025/08/IMG_7129-150x150.jpg"
   class="webfeedsFeaturedVisual wp-post-image" alt="Children follow their teacher
   for outdoor playtime." style="display: block; margin-bottom: 5px; clear:both;max-width:
@@ -15,12 +12,15 @@ original_content: '<img width="150" height="150" src="https://education.seattle.
 original_markdown_body: "![Children follow their teacher for outdoor playtime.](https://education.seattle.gov/wp-content/uploads/sites/27/2025/08/IMG_7129-150x150.jpg)SDOT
   and DEEL are partnering for a third year to provide eligible Seattle Preschool Program
   families with no-cost ORCA cards to help meet their transportation needs."
+source: Department of Education and Early Learning
+source_url: https://education.seattle.gov/?p=1423
 summarized: true
+title: Eligible Seattle Preschool Program families to receive free ORCA cards this
+  school year, in partnership with Seattle’s Department of Transportation
 topics:
 - Childcare
 - Transportation & Mobility
 - Education & Learning
-images: []
 ---
 
 Eligible families in the Seattle Preschool Program (SPP) will receive free ORCA cards this school year, thanks to a partnership between the Seattle Department of Education and Early Learning (DEEL) and the Seattle Department of Transportation (SDOT). Funded by the voter-approved Seattle Transit Measure, this initiative aims to alleviate transportation costs for families, helping them access high-quality preschool education. Families whose incomes meet the eligibility criteria will receive their ORCA cards by mail, providing unlimited public transit access until August 31, 2026.

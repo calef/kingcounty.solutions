@@ -1,8 +1,7 @@
 ---
-title: 'Interpreter HUB: Local Meet Ups'
 date: '2025-06-06T15:29:15+00:00'
-source: Washington Center for Deaf and Hard of Hearing Youth
-source_url: https://www.cdhy.wa.gov/local-meet-ups/
+images:
+- e9c5d3095b56a91ee78a291e6072b5941200f913621a4e95cddefcfe1502bdbb
 original_content: "<p><img decoding=\"async\" class=\"aligncenter  wp-image-10879\"
   src=\"https://www.cdhy.wa.gov/wp-content/uploads/2025/06/Meet-Ups-791x1024.png\"
   alt=\"CDHY Interpreter HUB local meet ups flyer. \nSave the date for september 20,
@@ -28,11 +27,12 @@ original_markdown_body: "![CDHY Interpreter HUB local meet ups flyer. \nSave the
   20, 2025 | 9am to 10:30am\n\nCDHY Interpreter HUB will be hosting multiple locations
   around Washington to come and connect with your local DHH and interpreting community.\n\nStay
   tuned for more details about locations!"
+source: Washington Center for Deaf and Hard of Hearing Youth
+source_url: https://www.cdhy.wa.gov/local-meet-ups/
 summarized: true
+title: 'Interpreter HUB: Local Meet Ups'
 topics:
 - Disabilities
-images:
-- e9c5d3095b56a91ee78a291e6072b5941200f913621a4e95cddefcfe1502bdbb
 ---
 
 CDHY Interpreter HUB is organizing local meet-ups across Washington on Saturday, September 20, 2025, from 9 AM to 10:30 AM. These events aim to foster connections within the Deaf, Hard of Hearing (DHH), and interpreting communities. Participants are encouraged to stay tuned for upcoming details regarding specific locations for the meet-ups.

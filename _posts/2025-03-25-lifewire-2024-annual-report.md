@@ -1,8 +1,7 @@
 ---
-title: LifeWire 2024 Annual Report
 date: '2025-03-25T22:19:55+00:00'
-source: LifeWire
-source_url: https://www.lifewire.org/lifewire-2024-annual-report/?utm_source=rss&utm_medium=rss&utm_campaign=lifewire-2024-annual-report
+images:
+- e563f9f0225038ab88822ce9be7e37137499734d55bbec4cfa39601896fc3168
 original_content: |-
   <figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1080" height="540" data-attachment-id="8907" data-permalink="https://www.lifewire.org/lifewire-2024-annual-report/untitled-design-23/" data-orig-file="https://www.lifewire.org/wp-content/uploads/2025/03/Untitled-design-23.png" data-orig-size="1080,540" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Untitled design (23)" data-image-description="" data-image-caption="" data-medium-file="https://www.lifewire.org/wp-content/uploads/2025/03/Untitled-design-23-600x300.png" data-large-file="https://www.lifewire.org/wp-content/uploads/2025/03/Untitled-design-23.png" src="https://www.lifewire.org/wp-content/uploads/2025/03/Untitled-design-23.png" alt="" class="wp-image-8907" srcset="https://www.lifewire.org/wp-content/uploads/2025/03/Untitled-design-23.png 1080w, https://www.lifewire.org/wp-content/uploads/2025/03/Untitled-design-23-600x300.png 600w, https://www.lifewire.org/wp-content/uploads/2025/03/Untitled-design-23-300x150.png 300w" sizes="(max-width: 1080px) 100vw, 1080px" /></figure>
 
@@ -31,11 +30,12 @@ original_markdown_body: "![](https://www.lifewire.org/wp-content/uploads/2025/03
   LW 2024 Annual Report.\"></object>[LW 2024 Annual Report](https://www.lifewire.org/wp-content/uploads/2025/03/LW-2024-Annual-Report-1.pdf)[Download](https://www.lifewire.org/wp-content/uploads/2025/03/LW-2024-Annual-Report-1.pdf)\n\nThe
   post [LifeWire 2024 Annual Report](https://www.lifewire.org/lifewire-2024-annual-report/)
   appeared first on [LifeWire](https://www.lifewire.org)."
+source: LifeWire
+source_url: https://www.lifewire.org/lifewire-2024-annual-report/?utm_source=rss&utm_medium=rss&utm_campaign=lifewire-2024-annual-report
 summarized: true
+title: LifeWire 2024 Annual Report
 topics:
 - Domestic Violence
-images:
-- e563f9f0225038ab88822ce9be7e37137499734d55bbec4cfa39601896fc3168
 ---
 
 Nearly 7,000 survivors of domestic violence in nine counties of Western Washington received vital support in 2024, thanks to the generosity of donors, corporate sponsors, and volunteers. This assistance has provided survivors with safety, stability, and healing. The LifeWire 2024 Annual Report highlights the significant impact of this support through stories of resilience, notable milestones, and families working towards brighter futures. The gratitude expressed by The LifeWire Team emphasizes the importance of community partnerships in facilitating these life-changing outcomes for survivors.

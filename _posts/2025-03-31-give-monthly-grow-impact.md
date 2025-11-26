@@ -1,8 +1,7 @@
 ---
-title: Give Monthly, Grow Impact
 date: '2025-03-31T22:29:42+00:00'
-source: Compass Housing Alliance
-source_url: https://www.compasshousingalliance.org/2025/03/give-monthly-grow-impact/
+images:
+- da043e841dd321050e5b0143aeedc19dba56454a6f23ebb0454e3f7788b1fdc3
 original_content: |-
   <figure class="wp-block-image size-large"><a href="https://www.compasshousingalliance.org/how-you-can-help/monthly-giving-program-circle-of-compassion/"><img loading="lazy" decoding="async" width="1024" height="379" src="https://www.compasshousingalliance.org/wp-content/uploads/2025/03/Spring-2025-Circle-of-Compassion-1080-x-400-px-1-1024x379.png" alt="" class="wp-image-12291" srcset="https://www.compasshousingalliance.org/wp-content/uploads/2025/03/Spring-2025-Circle-of-Compassion-1080-x-400-px-1-1024x379.png 1024w, https://www.compasshousingalliance.org/wp-content/uploads/2025/03/Spring-2025-Circle-of-Compassion-1080-x-400-px-1-300x111.png 300w, https://www.compasshousingalliance.org/wp-content/uploads/2025/03/Spring-2025-Circle-of-Compassion-1080-x-400-px-1-768x284.png 768w, https://www.compasshousingalliance.org/wp-content/uploads/2025/03/Spring-2025-Circle-of-Compassion-1080-x-400-px-1.png 1080w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></a></figure>
 
@@ -52,12 +51,13 @@ original_markdown_body: |-
   **[Start your monthly gift today and help us grow stronger together!](https://www.compasshousingalliance.org/how-you-can-help/monthly-giving-program-circle-of-compassion/)** Thank you for being part of a community that believes Everyone Deserves a Home.&nbsp;&nbsp;
 
   The post [Give Monthly, Grow Impact](https://www.compasshousingalliance.org/2025/03/give-monthly-grow-impact/) appeared first on [Compass Housing Alliance](https://www.compasshousingalliance.org).
+source: Compass Housing Alliance
+source_url: https://www.compasshousingalliance.org/2025/03/give-monthly-grow-impact/
 summarized: true
+title: Give Monthly, Grow Impact
 topics:
 - Food & Nutrition
 - Shelter & Housing
-images:
-- da043e841dd321050e5b0143aeedc19dba56454a6f23ebb0454e3f7788b1fdc3
 ---
 
 Spring symbolizes renewal and growth, emphasizing the impact of small, consistent actions. Joining the Circle of Compassion monthly giving program offers ongoing support to individuals and families experiencing homelessness, helping them build brighter futures. Monthly contributions ensure access to safe shelter, nourishing meals, and essential services year-round.

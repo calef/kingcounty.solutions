@@ -1,9 +1,6 @@
 ---
-title: Valley Medical Center Honors a Champion for Cancer Patients During Cancer Center
-  Ribbon Cutting
 date: '2025-02-03T22:44:50+00:00'
-source: Hospital District No. 1 (Valley Medical Center)
-source_url: https://blog.valleymed.org/2025/02/03/valley-medical-center-honors-a-champion-for-cancer-patients-during-cancer-center-ribbon-cutting/?utm_source=rss&utm_medium=rss&utm_campaign=valley-medical-center-honors-a-champion-for-cancer-patients-during-cancer-center-ribbon-cutting
+images: []
 original_content: |-
   <p><img width="300" height="188" src="https://blog.valleymed.org/wp-content/uploads/2025/02/RibbonCutting-blog-300x188.jpg" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://blog.valleymed.org/wp-content/uploads/2025/02/RibbonCutting-blog-300x188.jpg 300w, https://blog.valleymed.org/wp-content/uploads/2025/02/RibbonCutting-blog-768x480.jpg 768w, https://blog.valleymed.org/wp-content/uploads/2025/02/RibbonCutting-blog-600x375.jpg 600w, https://blog.valleymed.org/wp-content/uploads/2025/02/RibbonCutting-blog.jpg 800w" sizes="auto, (max-width: 300px) 100vw, 300px" /></p>
   <p><em><strong>New Tina McDonough &amp; Family Infusion &amp; Immunotherapy Center Celebrates Her Dedication to Cancer Care</strong></em></p>
@@ -55,10 +52,13 @@ original_markdown_body: |-
   https://www.youtube.com/embed/4vul79EblYA?feature=oembed
 
   _Photo credit: Timothy Aguero Photography_
+source: Hospital District No. 1 (Valley Medical Center)
+source_url: https://blog.valleymed.org/2025/02/03/valley-medical-center-honors-a-champion-for-cancer-patients-during-cancer-center-ribbon-cutting/?utm_source=rss&utm_medium=rss&utm_campaign=valley-medical-center-honors-a-champion-for-cancer-patients-during-cancer-center-ribbon-cutting
 summarized: true
+title: Valley Medical Center Honors a Champion for Cancer Patients During Cancer Center
+  Ribbon Cutting
 topics:
 - Health Care
-images: []
 ---
 
 Valley Medical Center celebrated the dedication of its new Cancer Center with a ribbon-cutting ceremony on January 16, marking a significant milestone for the community. The center, which opened to patients on February 3, is the first of its kind in South King County. The event honored Tina McDonough, founder of the local non-profit Valley Girls & Guys, for her relentless commitment to cancer care. In recognition of her contributions, the new Infusion & Immunotherapy Center was named "Tina McDonough & Family Infusion & Immunotherapy Center." Tina expressed her gratitude, stating she was "overjoyed and deeply humbled" by the honor, while emphasizing her focus on future efforts to support patients and families. The celebration highlighted the importance of community involvement and philanthropy in enhancing cancer services at Valley Medical Center.

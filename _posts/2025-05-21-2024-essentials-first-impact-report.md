@@ -1,8 +1,6 @@
 ---
-title: 2024 Essentials First Impact Report
 date: '2025-05-21T22:38:06+00:00'
-source: Essentials First
-source_url: https://www.essentialsfirst.org/blog/impact2024
+images: []
 original_content: "<p class=\"\">You’ve seen the pictures and heard the updates all
   year long - now you can see the whole story of 2024 at Essentials First all in one
   place. Featuring program and finance information, words from our leadership, partner
@@ -168,10 +166,12 @@ original_markdown_body: "You’ve seen the pictures and heard the updates all ye
   \ \n ![17.png](https://images.squarespace-cdn.com/content/v1/6244ce6a3e335a451b9540a9/1747867043981-2XXIKD4B6SX4HIREX4AJ/17.png?format=1000w)
   \ \n ![18.png](https://images.squarespace-cdn.com/content/v1/6244ce6a3e335a451b9540a9/1747867033887-84QMV9V9DFFLVMCBVF5R/18.png?format=1000w)
   \ \n ![19.png](https://images.squarespace-cdn.com/content/v1/6244ce6a3e335a451b9540a9/1747867045084-W5V7LQXFJHW5672O4GAC/19.png?format=1000w)"
-summarized: true
-topics: []
 published: false
-images: []
+source: Essentials First
+source_url: https://www.essentialsfirst.org/blog/impact2024
+summarized: true
+title: 2024 Essentials First Impact Report
+topics: []
 ---
 
 The 2024 Essentials First Impact Report provides a comprehensive overview of the organization's achievements and activities throughout the year. It includes detailed program and finance information, insights from leadership, and features on various partners. The report aims to highlight the dedication and love of the community that contributed to significant impacts across the region in 2024. Readers can explore the report for a complete narrative of the organization's efforts and outcomes this year.

@@ -1,8 +1,6 @@
 ---
-title: 'It’s Autumn: What Do You Need Help With?'
 date: '2025-09-24T23:22:28+00:00'
-source: United Way of King County
-source_url: https://www.uwkc.org/access-to-resources/its-autumn-what-do-you-need-help-with/
+images: []
 original_content: |-
   <p>For many, autumn (or fall) brings the satisfying feeling of cooler temperatures, the scrumptious tastes of comfort foods like apple pie and pumpkin spice lattes, and the picturesque foliage sights. For some, however, it is another period of challenges: Having enough resources to put food on the table, pay the rent, and keep the lights on doesn&rsquo;t take a break when the seasons change.</p>
   <p><a href="https://www.uwkc.org/access-to-resources/its-autumn-what-do-you-need-help-with/" rel="nofollow">Source</a></p>
@@ -10,13 +8,15 @@ original_markdown_body: |-
   For many, autumn (or fall) brings the satisfying feeling of cooler temperatures, the scrumptious tastes of comfort foods like apple pie and pumpkin spice lattes, and the picturesque foliage sights. For some, however, it is another period of challenges: Having enough resources to put food on the table, pay the rent, and keep the lights on doesn’t take a break when the seasons change.
 
   [Source](https://www.uwkc.org/access-to-resources/its-autumn-what-do-you-need-help-with/)
+source: United Way of King County
+source_url: https://www.uwkc.org/access-to-resources/its-autumn-what-do-you-need-help-with/
 summarized: true
+title: 'It’s Autumn: What Do You Need Help With?'
 topics:
 - Food & Nutrition
 - Shelter & Housing
 - Financial Assistance
 - Education & Learning
-images: []
 ---
 
 As autumn arrives, many people face challenges related to food security, housing, and financial stability. The United Way of King County provides year-round resources to assist those in need. Their website serves as a comprehensive resource for individuals seeking help with food, housing, healthcare, employment, and counseling. For immediate assistance, individuals can call 2-1-1, a free and confidential service that connects them to local support. 

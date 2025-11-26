@@ -1,8 +1,6 @@
 ---
-title: The Long-Term Effects of Adderall Use
 date: '2025-11-10T21:18:46+00:00'
-source: Talkspace Free Online Therapy for Seattle Youth
-source_url: https://www.talkspace.com/blog/long-term-effects-of-adderall/
+images: []
 original_content: |-
   <div class="is-layout-constrained wp-block-group"><div class="wp-block-group__inner-container">
   <p>Adderall can be very effective in <a target="_blank" rel="noopener" href="https://www.talkspace.com/mental-health/conditions/attention-deficit-hyperactivity-disorder/medications/">treating attention deficit hyperactivity disorder</a> (ADHD) and conditions like narcolepsy, but it’s important to be aware of the long-term side effects of this medication. Adderall is a commonly prescribed drug for boosting focus, helping you stay on task, and improving day-to-day functioning. Despite its known efficacy, just like any other drug you take, it’s essential to understand the risks of prolonged use or misuse of Adderall.</p>
@@ -405,11 +403,13 @@ original_markdown_body: "Adderall can be very effective in [treating attention d
   193-195. https://pmc.ncbi.nlm.nih.gov/articles/PMC2690554/ ._ [_https://doi.org/10.1093/pch/14.3.193_](https://doi.org/10.1093/pch/14.3.193)_.
   Accessed October 30, 2025._\n\nThe post [The Long-Term Effects of Adderall Use](https://www.talkspace.com/blog/long-term-effects-of-adderall/)
   appeared first on [Talkspace](https://www.talkspace.com/blog)."
+source: Talkspace Free Online Therapy for Seattle Youth
+source_url: https://www.talkspace.com/blog/long-term-effects-of-adderall/
 summarized: true
+title: The Long-Term Effects of Adderall Use
 topics:
 - Health Care
 - Mental Health & Counseling
-images: []
 ---
 
 Adderall is an effective treatment for ADHD and narcolepsy, but long-term use can lead to serious side effects. Users may experience cardiovascular issues, including increased heart rate and blood pressure, raising the risk of hypertension, stroke, or heart attack. Sleep disturbances, particularly insomnia, are common, often leading to fatigue and irritability. Additionally, Adderall can suppress appetite, resulting in unintended weight loss and digestive issues. Neurologically, misuse or high doses may alter brain structure and dopamine function, increasing dependence and affecting cognitive processes such as memory and decision-making.

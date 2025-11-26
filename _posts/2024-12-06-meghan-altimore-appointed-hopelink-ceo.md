@@ -1,8 +1,6 @@
 ---
-title: Meghan Altimore Appointed Hopelink CEO
 date: '2024-12-06T00:00:10+00:00'
-source: Hopelink
-source_url: https://www.hopelink.org/blog/meghan-altimore-appointed-hopelink-ceo/
+images: []
 original_content: |-
   ## Meghan Altimore Appointed Hopelink CEO
 
@@ -32,10 +30,12 @@ original_content: |-
   She’s an Advisory Board Member for Eastside Housing Roundtable and previously served as a board member with [KidVantage (FKA Eastside Baby Corner)](https://kidvantagenw.org/) and the Housing Development Consortium, as well as a Commissioner with the City of Issaquah’s Planning and Policy Commission.
 
   Meghan lives in Issaquah with Pat, her husband of 32 years, and their beloved Bernedoodle puppy, Peach. The couple have two adult children, Ally, currently living and working in Seattle after attending Colorado State University, and Sam, a student at Western Washington University.
+source: Hopelink
+source_url: https://www.hopelink.org/blog/meghan-altimore-appointed-hopelink-ceo/
 summarized: true
+title: Meghan Altimore Appointed Hopelink CEO
 topics:
 - Employment & Job Support
-images: []
 ---
 
 Meghan Altimore has been appointed as the new CEO of Hopelink, a decision made by the organization’s Board of Directors. Altimore, who has over 20 years of leadership experience with Hopelink, was credited for helping the organization grow and ensuring the quality of its services. She was previously appointed Vice President of Community Services and later Interim Chief Operating Officer. Her first task as CEO will be to appoint a COO and lead the completion of Hopelink’s 2023 – 2025 Strategic Plan. Altimore holds a Master’s degree in Social Work and a certificate in Non-Profit Executive Leadership.

@@ -1,8 +1,7 @@
 ---
-title: 'A Message from our CEO: Why We’re Making Changes – and What We’re Protecting'
 date: '2025-06-27T19:37:38+00:00'
-source: YouthCare
-source_url: https://youthcare.org/blog/a-message-from-our-ceo-why-were-making-changes-and-what-were-protecting/
+images:
+- 67a62d84448ed7e80d33b7ba83c1a2fe6c0f2fc33464e5424f77658eeb9bcc06
 original_content: |-
   <p></p>
 
@@ -270,13 +269,14 @@ original_markdown_body: "![degale headshot](https://i0.wp.com/youthcare.org/wp-c
   and resolve,**\n\nDegale Cooper  \nCEO, YouthCare\n\nThe post [A Message from our
   CEO: Why We’re Making Changes – and What We’re Protecting](https://youthcare.org/blog/a-message-from-our-ceo-why-were-making-changes-and-what-were-protecting/)
   appeared first on [YouthCare](https://youthcare.org)."
+source: YouthCare
+source_url: https://youthcare.org/blog/a-message-from-our-ceo-why-were-making-changes-and-what-were-protecting/
 summarized: true
+title: 'A Message from our CEO: Why We’re Making Changes – and What We’re Protecting'
 topics:
 - Shelter & Housing
 - Education & Learning
 - Employment & Job Support
-images:
-- 67a62d84448ed7e80d33b7ba83c1a2fe6c0f2fc33464e5424f77658eeb9bcc06
 ---
 
 Federal funding challenges are prompting YouthCare to make significant changes to ensure the sustainability of its services for youth in crisis in King County. The organization will close two programs: Casa de los Amigos, a shelter for undocumented immigrant youth, due to reduced referrals and funding uncertainty, and YouthGrow, a stay-in-school initiative, reallocating its resources to a new workforce initiative. Two additional programs will evolve, focusing on GED access and computer technology training.

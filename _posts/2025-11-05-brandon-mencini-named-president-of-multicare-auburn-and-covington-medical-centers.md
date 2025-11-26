@@ -1,8 +1,6 @@
 ---
-title: Brandon Mencini named president of MultiCare Auburn and Covington medical centers
 date: '2025-11-05T21:19:04+00:00'
-source: MultiCare
-source_url: https://www.multicare.org/newsroom/2025/11/brandon-mencini-named-president-of-multicare-auburn-and-covington-medical-centers/
+images: []
 original_content: |-
   <p>TACOMA, Wash. —  Brandon Mencini has been named president of <a href="https://www.multicare.org/location/auburn-medical-center/" data-wpel-link="internal">MultiCare Auburn</a> and <a href="https://www.multicare.org/location/covington-medical-center/" data-wpel-link="internal">MultiCare Covington</a> medical centers and market leader for South King County. He joins MultiCare Health System from Asante Rogue Regional Medical Center and Asante Ashland Community Hospital in southern Oregon, where he served as chief executive officer.</p>
   <p>Mencini will be responsible for building out MultiCare’s South King strategy and the overall performance of both medical centers. He’ll also be in charge of driving sustainable growth, enhancing patient care and building high-performing teams.</p>
@@ -25,10 +23,12 @@ original_markdown_body: |-
   Mencini’s first day at MultiCare was Monday, Nov. 3.
 
   The post [Brandon Mencini named president of MultiCare Auburn and Covington medical centers](https://www.multicare.org/newsroom/2025/11/brandon-mencini-named-president-of-multicare-auburn-and-covington-medical-centers/) appeared first on [MultiCare](https://www.multicare.org).
+source: MultiCare
+source_url: https://www.multicare.org/newsroom/2025/11/brandon-mencini-named-president-of-multicare-auburn-and-covington-medical-centers/
 summarized: true
+title: Brandon Mencini named president of MultiCare Auburn and Covington medical centers
 topics:
 - Health Care
-images: []
 ---
 
 Brandon Mencini has been appointed president of MultiCare Auburn and MultiCare Covington medical centers, as well as market leader for South King County. He comes to MultiCare Health System from Asante Rogue Regional Medical Center and Asante Ashland Community Hospital in Oregon, where he served as CEO. Mencini will focus on enhancing the performance of both medical centers, developing MultiCare’s South King strategy, driving sustainable growth, and improving patient care while fostering high-performing teams. Tim Holmes, MultiCare's chief executive of the South Sound Region, expressed confidence in Mencini's operational expertise and leadership style. Mencini has previously held leadership roles, including CEO at Mercy Hospital in Colorado and COO at Chippenham Hospital in Virginia. He holds a master's in health administration from Webster University. Mencini emphasized the importance of MultiCare in supporting healthy communities in South King County and looks forward to collaborating with staff and physicians to expand services and enhance patient care. His tenure at MultiCare began on November 3. MultiCare Health System operates 13 hospitals and employs over 28,000 team members, focusing on delivering exceptional health outcomes and experiences.

@@ -1,8 +1,6 @@
 ---
-title: PWHL & Seattle U Basketball Games Ticket Distribution
 date: '2025-11-19T22:08:05+00:00'
-source: Snoqualmie Indian Tribe
-source_url: https://snoqualmietribe.us/pwhl-seattle-u-basketball-games-ticket-distribution/
+images: []
 original_content: |-
   <p>The following Tribal Members will receive tickets to PWHL &amp; Seattle U Basketball al Games at Climate Pledge Arena</p>
   <p>All tickets will be distributed electronically to the email on file and do require a Ticketmaster account. If you are unable to attend your game please email <strong>TCR@snoqualmietribe.us</strong> at your earliest convenience.</p>
@@ -203,10 +201,12 @@ original_markdown_body: |-
   | Summer Larson | |
   | Megan Roy | |
   | | |
-summarized: true
-topics: []
 published: false
-images: []
+source: Snoqualmie Indian Tribe
+source_url: https://snoqualmietribe.us/pwhl-seattle-u-basketball-games-ticket-distribution/
+summarized: true
+title: PWHL & Seattle U Basketball Games Ticket Distribution
+topics: []
 ---
 
 The Snoqualmie Tribe has announced the distribution of tickets for the PWHL and Seattle U basketball games at Climate Pledge Arena. Tickets will be sent electronically to the email addresses on file and require a Ticketmaster account for access. Tribal members who are unable to attend their games are encouraged to notify the Tribe via email.

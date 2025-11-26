@@ -1,8 +1,6 @@
 ---
-title: 6 Tips to Help Kids Navigate Uncertain Times
 date: '2025-07-03T19:35:58+00:00'
-source: Encompass
-source_url: https://encompassnw.org/6-tips-to-help-kids-navigate-uncertain-times/
+images: []
 original_content: |-
   **![](https://encompassnw.org/wp-content/uploads/2025/06/img-blog-6ways-square-300x300.jpg)The Impact of Community Stress and Changes in Routine on Kids’ Nervous Systems During Summer Break**
 
@@ -39,11 +37,13 @@ original_content: |-
   By focusing on connection and offering soothing, supportive strategies, parents and caregivers can help their children navigate the emotional challenges of summer break with greater ease. A calm and predictable environment provides the stability children need to process their emotions and stay grounded, no matter how much their world may be shifting.&nbsp; If you or your child needs a little more support, please reach out to Encompass.&nbsp; We are here to help.
 
   The post [6 Tips to Help Kids Navigate Uncertain Times](https://encompassnw.org/6-tips-to-help-kids-navigate-uncertain-times/) first appeared on [Encompass](https://encompassnw.org).
+source: Encompass
+source_url: https://encompassnw.org/6-tips-to-help-kids-navigate-uncertain-times/
 summarized: true
+title: 6 Tips to Help Kids Navigate Uncertain Times
 topics:
 - Mental Health & Counseling
 - Education & Learning
-images: []
 ---
 
 The article discusses the impact of summer break and community stress on children's emotional and physical well-being. It provides six strategies for parents and caregivers to support children during this transition. These include creating predictable routines, engaging in calming activities together, practicing active listening, modeling calmness and emotional regulation, offering simple choices to empower kids, and offering redos consistently. These strategies aim to soothe the nervous system, help children feel safe and secure, and assist them in processing their emotions in a calm and predictable environment. The article emphasizes the importance of connection-based strategies in helping kids navigate through uncertain times.

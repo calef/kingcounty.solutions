@@ -1,8 +1,8 @@
 ---
-title: Pamela Gives Back to Veterans’ Lives
 date: '2025-10-16T18:24:53+00:00'
-source: Operation Homefront - Critical Financial Assistance Program
-source_url: https://operationhomefront.org/pamela-gives-back-to-veterans-lives/
+images:
+- 535bbe53ed15a2bde96361a1153c8db599dd68fe0b042b9fb4aac2592cf2dd8b
+- a24e8c0b4775c492b00e222b07f97abfaf73d90c36be58585dc4491fbcd53500
 original_content: |-
   <p class="has-text-align-center"><em><strong>Pamela Gives Back to Ensure Veterans’ Lives Are the Best They Can Be</strong></em></p>
 
@@ -112,14 +112,14 @@ original_markdown_body: |-
   Thank you to our Veterans Day campaign partners: CarMax, Hilton Grand Vacation, The Home Depot Foundation, Impossible Foods, Love’s, Meritage Homes, Northrop Grumman, PulteGroup Inc., Walmart, Bob’s Discount Furniture, and Homefront Brands.&nbsp;
 
   The post [Pamela Gives Back to Veterans’ Lives](https://operationhomefront.org/pamela-gives-back-to-veterans-lives/) appeared first on [Operation Homefront](https://operationhomefront.org).
+source: Operation Homefront - Critical Financial Assistance Program
+source_url: https://operationhomefront.org/pamela-gives-back-to-veterans-lives/
 summarized: true
+title: Pamela Gives Back to Veterans’ Lives
 topics:
 - Financial Assistance
 - Employment & Job Support
 - Mental Health & Counseling
-images:
-- 535bbe53ed15a2bde96361a1153c8db599dd68fe0b042b9fb4aac2592cf2dd8b
-- a24e8c0b4775c492b00e222b07f97abfaf73d90c36be58585dc4491fbcd53500
 ---
 
 Pamela, a dedicated advocate for military families, shares her passion for giving back through her work with Operation Homefront. With a rich military background—both her grandparents served in the Navy, and her parents were Marine Corps drill instructors—Pamela joined the Air Force after high school but faced a life-altering setback when she was medically separated due to injuries. As a military spouse and caregiver, she understands the struggles that service members and their families face. 

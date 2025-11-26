@@ -1,8 +1,7 @@
 ---
-title: Support Treehouse during Make-a-Will Month
 date: '2025-08-04T21:09:50+00:00'
-source: Treehouse
-source_url: https://www.treehouseforkids.org/support-treehouse-during-make-a-will-month/
+images:
+- d1e4e905960b1bf87b62d308bea7a0697ecd62c7cc0c7135fb0115f0c5daad92
 original_content: |-
   <p><img loading="lazy" decoding="async" class="aligncenter wp-image-195847 size-large" src="https://www.treehouseforkids.org/wp-content/uploads/2025/08/Untitled-design-3-1024x1024.png" alt="A Treehouse supporter uses our make-a-will partnership" width="1024" height="1024" srcset="https://www.treehouseforkids.org/wp-content/uploads/2025/08/Untitled-design-3-1024x1024.png 1024w, https://www.treehouseforkids.org/wp-content/uploads/2025/08/Untitled-design-3-300x300.png 300w, https://www.treehouseforkids.org/wp-content/uploads/2025/08/Untitled-design-3-150x150.png 150w, https://www.treehouseforkids.org/wp-content/uploads/2025/08/Untitled-design-3-1536x1536.png 1536w, https://www.treehouseforkids.org/wp-content/uploads/2025/08/Untitled-design-3.png 1620w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></p>
   <p><span data-contrast="auto">Did you kn</span><span data-contrast="auto">ow August is Nati</span><span data-contrast="auto">onal Make-a-Will Month? We did! Thanks to our partnership with </span><a href="https://www.freewill.com/treehouse" target="_blank" rel="noopener"><span data-contrast="none">FreeWill</span></a><span data-contrast="auto">, </span><span data-contrast="auto">you can make an act of care for your family—and maybe even students in foster care—in one easy move for free.</span><span data-ccp-props="{}"> </span></p>
@@ -37,11 +36,12 @@ original_markdown_body: |-
   **_To learn more about planned giving or legacy giving, contact [plannedgiving@treehouseforkids.org.](mailto:plannedgiving@treehouseforkids.org)_**
 
   The post [Support Treehouse during Make-a-Will Month](https://www.treehouseforkids.org/support-treehouse-during-make-a-will-month/) appeared first on [Treehouse](https://www.treehouseforkids.org).
+source: Treehouse
+source_url: https://www.treehouseforkids.org/support-treehouse-during-make-a-will-month/
 summarized: true
+title: Support Treehouse during Make-a-Will Month
 topics:
 - Education & Learning
-images:
-- d1e4e905960b1bf87b62d308bea7a0697ecd62c7cc0c7135fb0115f0c5daad92
 ---
 
 August is National Make-a-Will Month, and Treehouse encourages supporters to participate through a partnership with FreeWill, allowing them to create a will at no cost. Darian Lindle, a supporter of Treehouse, shares her experience of updating her will and including a donation to the organization. Inspired by Treehouse’s mission and its impact on children in foster care, she decided to contribute, realizing that even small donations can make a difference. The process on FreeWill was straightforward, with information for Treehouse auto-populating as she filled out her will. Darian expresses gratitude for Treehouse and its role in supporting students in foster care, emphasizing the importance of legacy giving. Treehouse appreciates contributions from supporters like Darian, as these gifts help ensure that their services remain accessible to students in need. For more information on planned or legacy giving, individuals can reach out via the provided contact.

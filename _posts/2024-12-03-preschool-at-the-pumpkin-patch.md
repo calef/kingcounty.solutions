@@ -1,8 +1,7 @@
 ---
-title: Preschool at the Pumpkin Patch!
 date: '2024-12-03T17:38:00+00:00'
-source: Launch Learning
-source_url: https://launchlearning.org/update-your-identity/
+images:
+- cdc6e10335cf40762914bf28767a8d8d2ef116002aa64ead4b866d2d61e99f87
 original_content: "<p><div class=\"et_pb_section et_pb_section_2 et_section_regular\"
   >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_row
   et_pb_row_4\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4 et_pb_column_4
@@ -37,11 +36,12 @@ original_markdown_body: |-
    ![](http://launchlearning.org/wp-content/uploads/2025/01/Pumpkin-Patch-Blog.png "Pumpkin Patch Blog")
 
   Fall in the Pacific Northwest is typically a bit soggy, but there wasn’t a raincloud in sight when our Launch preschoolers ventured out of their classrooms to the Carpinito Brothers Pumpkin Patch! Over 130 students spent a special sunny afternoon exploring the farm and meeting its residents – including ducks, pigs, goats, bunnies, turkeys, llamas, and more! The kids were treated to a hayride, where they played a game of I Spy while being pulled behind a tractor. The corn pit was a big hit – nothing like diving into thousands of dried corn kernels! We also learned about the life cycle of a pumpkin and how it grows. We are so proud of our brave, curious, and imaginative preschoolers for representing Launch on a big Fall outing! Shout out to our staff and parent volunteers (all 39 of them!) who played a big role in ensuring our students had a safe, awesome day.
+source: Launch Learning
+source_url: https://launchlearning.org/update-your-identity/
 summarized: true
+title: Preschool at the Pumpkin Patch!
 topics:
 - Education & Learning
-images:
-- cdc6e10335cf40762914bf28767a8d8d2ef116002aa64ead4b866d2d61e99f87
 ---
 
 Preschoolers from Launch enjoyed a sunny day at the Carpinito Brothers Pumpkin Patch, despite the typically soggy fall weather in the Pacific Northwest. Over 130 students participated in the outing, exploring the farm and interacting with various animals, including ducks, pigs, goats, bunnies, turkeys, and llamas. The children experienced a hayride, playing a game of I Spy while being towed by a tractor. A highlight of the trip was the corn pit, where kids had fun diving into dried corn kernels. The group also learned about the pumpkin life cycle and its growth process. Special thanks were given to the 39 staff members and parent volunteers who helped ensure a safe and enjoyable experience for all participants.

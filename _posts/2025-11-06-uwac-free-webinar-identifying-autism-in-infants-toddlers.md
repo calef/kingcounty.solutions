@@ -1,8 +1,7 @@
 ---
-title: 'UWAC Free Webinar: Identifying Autism in Infants & Toddlers'
 date: '2025-11-06T20:04:24+00:00'
-source: Institute on Human Development and Disability
-source_url: https://ihdd.org/2025/11/06/uwac-free-webinar-identifying-autism-in-infants-toddlers/
+images:
+- 0b5bd77843c14a1074e4c2cb905d8457a33e5c4abb3d675fd2272110ef43b1d3
 original_content: "<div class=\"wpb-content-wrapper\">\r\n<div  data-mk-stretch-content=\"true\"
   class=\"wpb_row vc_row vc_row-fluid jupiter-donut- mk-fullwidth-false  attched-false
   \    js-master-row  mk-grid\">\r\n\t\t\t\t\r\n<div class=\"vc_col-sm-9 wpb_column
@@ -226,12 +225,13 @@ original_markdown_body: "## [Home](https://ihdd.org/)\n\n## UWAC Free Webinar: I
   class=\"mk-padding-divider jupiter-donut- jupiter-donut-clearfix\"></div>\r\n\r\n</span></div></section>\t</div>\r\n</aside>\n\nThe
   post [UWAC Free Webinar: Identifying Autism in Infants & Toddlers](https://ihdd.org/2025/11/06/uwac-free-webinar-identifying-autism-in-infants-toddlers/)
   appeared first on [UW IHDD](https://ihdd.org)."
+source: Institute on Human Development and Disability
+source_url: https://ihdd.org/2025/11/06/uwac-free-webinar-identifying-autism-in-infants-toddlers/
 summarized: true
+title: 'UWAC Free Webinar: Identifying Autism in Infants & Toddlers'
 topics:
 - Disabilities
 - Education & Learning
-images:
-- 0b5bd77843c14a1074e4c2cb905d8457a33e5c4abb3d675fd2272110ef43b1d3
 ---
 
 Join a free webinar hosted by the UW Autism Center (UWAC) focused on identifying and differentiating autism symptoms in infants and toddlers. Led by two psychology residents, the session will equip participants with the skills to recognize early signs of autism in social, communication, and behavioral domains. It will also address what parents and providers can observe during daily routines and interactions. The webinar aims to help distinguish typical developmental variations from early red flags that may require further evaluation or referral. However, the webinar on Identification & Differentiation of Autism Symptoms has been postponed, and a new date and time will be announced soon. Participants are encouraged to register via REDCap.

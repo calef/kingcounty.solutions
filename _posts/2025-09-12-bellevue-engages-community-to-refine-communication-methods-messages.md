@@ -1,8 +1,6 @@
 ---
-title: Bellevue engages community to refine communication methods, messages
 date: '2025-09-12T00:55:15+00:00'
-source: City of Bellevue
-source_url: https://bellevuewa.gov/city-news/bellevue-engages-community-refine-communication-methods-messages
+images: []
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Bellevue
   engages community to refine communication methods, messages </span>\n<span class=\"field
   field--name-uid field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/mdegrand\"
@@ -86,10 +84,12 @@ original_markdown_body: "Bellevue engages community to refine communication meth
   at [Brand Identity Assessment](https://bellevuewa.gov/city-government/departments/city-managers-office/communications/brand-identity-assessment
   \"Brand Identity Assessment\"). &nbsp;\n\n<time datetime=\"2025-09-11T12:00:00Z\"
   class=\"datetime\">September 11 2025</time>"
-summarized: true
-topics: []
 published: false
-images: []
+source: City of Bellevue
+source_url: https://bellevuewa.gov/city-news/bellevue-engages-community-refine-communication-methods-messages
+summarized: true
+title: Bellevue engages community to refine communication methods, messages
+topics: []
 ---
 
 The City of Bellevue is engaging the community to enhance its communication methods and messages. Residents are invited to participate in a community listening session titled "Exploring Bellevue’s Identity Together," scheduled for September 25 from 6 to 7:30 p.m. at City Hall. This session aims to gather feedback on community perceptions, values, and communication preferences, which will influence future city communications and engagement strategies.

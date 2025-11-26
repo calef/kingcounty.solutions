@@ -1,8 +1,6 @@
 ---
-title: King County investigation into Aug. 8, 2025 officer-involved shooting
 date: '2025-08-22T01:28:07+00:00'
-source: City of Bellevue
-source_url: https://bellevuewa.gov/city-news/officer-involved-shooting-8-8-25-investigation
+images: []
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">King
   County investigation into Aug. 8, 2025 officer-involved shooting</span>\n<span class=\"field
   field--name-uid field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"
@@ -59,10 +57,12 @@ original_markdown_body: |-
   &nbsp;
 
   <time datetime="2025-08-21T12:00:00Z" class="datetime">August 21 2025</time>
-summarized: true
-topics: []
 published: false
-images: []
+source: City of Bellevue
+source_url: https://bellevuewa.gov/city-news/officer-involved-shooting-8-8-25-investigation
+summarized: true
+title: King County investigation into Aug. 8, 2025 officer-involved shooting
+topics: []
 ---
 
 At approximately 12:31 a.m. on August 8, 2025, an officer-involved shooting occurred involving a Bellevue Police Officer on the 15800 block of Northup Way. Fortunately, no officers or community members sustained injuries during this incident. The King County Independent Force Investigation Team (KC-IFIT) has been tasked with the investigation. Further information regarding the investigation will be released by KC-IFIT as it progresses, with updates provided periodically.

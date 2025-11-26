@@ -1,9 +1,6 @@
 ---
-title: PacMed & UW SHPEP Partner to Empower Future Health Leaders Through Clinical
-  Shadowing
 date: '2025-07-29T17:56:12+00:00'
-source: Pacific Medical Centers
-source_url: https://www.pacificmedicalcenters.org/news/pacmed-uw-shpep-partner-to-empower-future-health-leaders-through-clinical-shadowing/
+images: []
 original_content: |-
   <figure id="attachment_11452" aria-describedby="caption-attachment-11452" style="width: 257px" class="wp-caption alignleft"><img decoding="async" class="wp-image-11452" src="https://www.pacificmedicalcenters.org/wp-content/uploads/2025/07/UW-SHPEP-225x300.png" alt="" width="257" height="343" /><figcaption id="caption-attachment-11452" class="wp-caption-text">From left to right: <a href="https://www.providence.org/doctors/family-medicine/wa/renton/sonja-maddox-1295732113">Dr. Sonja Maddox</a> with student Jamila Pend Gomez, and student Shalom Ayele with <a href="https://www.providence.org/doctors/family-medicine/wa/renton/soumya-choudhury-1871117754">Dr. Soumya Choudhury</a>.</figcaption></figure>
   <p>This summer, Pacific Medical Centers (PacMed) proudly partnered with the <a href="https://equity.uwmedicine.org/shpep/">University of Washington’s Summer Health Professions Education Program (SHPEP)</a> to provide immersive clinical shadowing experiences for aspiring health professionals.</p>
@@ -30,11 +27,14 @@ original_markdown_body: |-
   By opening its clinics to SHPEP scholars, PacMed is helping bridge the gap between classroom learning and real-world clinical experience. This partnership not only supports students’ academic and professional journeys but also strengthens the pipeline of diverse talent entering the health professions. It is a powerful example of how mentorship and community investment can shape the future of medicine—one student at a time.
 
   The post [PacMed & UW SHPEP Partner to Empower Future Health Leaders Through Clinical Shadowing](https://www.pacificmedicalcenters.org/news/pacmed-uw-shpep-partner-to-empower-future-health-leaders-through-clinical-shadowing/) appeared first on [Pacific Medical Centers](https://www.pacificmedicalcenters.org).
+source: Pacific Medical Centers
+source_url: https://www.pacificmedicalcenters.org/news/pacmed-uw-shpep-partner-to-empower-future-health-leaders-through-clinical-shadowing/
 summarized: true
+title: PacMed & UW SHPEP Partner to Empower Future Health Leaders Through Clinical
+  Shadowing
 topics:
 - Education & Learning
 - Health Care
-images: []
 ---
 
 Pacific Medical Centers (PacMed) has partnered with the University of Washington’s Summer Health Professions Education Program (SHPEP) to provide clinical shadowing experiences for aspiring health professionals. This six-week enrichment program is designed for college students from backgrounds underrepresented in health professions, offering academic enrichment in subjects such as biology and chemistry, along with career development and hands-on learning. SHPEP scholars investigate social determinants of health and health disparities, preparing for health professions school applications. 

@@ -1,8 +1,6 @@
 ---
-title: 'Seattle City (spot)Light: Dani Yovine, Electrical Engineer Associate'
 date: '2025-10-14T16:00:00+00:00'
-source: City Light Bill Assistance Programs
-source_url: https://powerlines.seattle.gov/2025/10/14/seattle-city-spotlight-dani-yovine-electrical-engineer-associate/
+images: []
 original_content: '<img width="150" height="150" src="https://powerlines.seattle.gov/wp-content/uploads/sites/17/2025/10/yovine_spotlight-1-150x150.png"
   class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom:
   5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy"
@@ -22,10 +20,12 @@ original_markdown_body: "![](https://powerlines.seattle.gov/wp-content/uploads/s
   the Generation team. We work in the planning, design, construction, operation, and
   maintenance of City Light’s hydroelectric generation facilities. My favorite thing
   about my role is that […]"
-summarized: true
-topics: []
 published: false
-images: []
+source: City Light Bill Assistance Programs
+source_url: https://powerlines.seattle.gov/2025/10/14/seattle-city-spotlight-dani-yovine-electrical-engineer-associate/
+summarized: true
+title: 'Seattle City (spot)Light: Dani Yovine, Electrical Engineer Associate'
+topics: []
 ---
 
 Dani Yovine, an electrical engineer associate at Seattle City Light (SCL), has been with the organization for nearly three years. As part of the Generation team, Yovine contributes to the planning, design, construction, operation, and maintenance of hydroelectric generation facilities. They appreciate the variety in their daily work, which includes both office tasks and travel to powerhouses.

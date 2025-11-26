@@ -1,8 +1,6 @@
 ---
-title: 'Council Roundup: Mid-bi budget adopted'
 date: '2025-11-21T00:30:01+00:00'
-source: City of Bellevue
-source_url: https://bellevuewa.gov/city-news/council-roundup-11-18-25
+images: []
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Council
   Roundup: Mid-bi budget adopted</span>\n<span class=\"field field--name-uid field--type-entity-reference
   field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\" typeof=\"schema:Person\"
@@ -101,11 +99,13 @@ original_markdown_body: |-
   The council also issued a proclamation for [World Day of Remembrance for Road Traffic Victims](https://bellevue.legistar.com/View.ashx?M=F&ID=14950743&GUID=10DAC5ED-719D-4F2E-95BA-5B2D949C23B6).
 
   <time datetime="2025-11-20T12:00:00Z" class="datetime">November 20 2025</time>
+source: City of Bellevue
+source_url: https://bellevuewa.gov/city-news/council-roundup-11-18-25
 summarized: true
+title: 'Council Roundup: Mid-bi budget adopted'
 topics:
 - Transportation & Mobility
 - Shelter & Housing
-images: []
 ---
 
 The Bellevue City Council unanimously adopted modifications to the 2025-2026 Budget and the 2025-2030 Capital Improvement Program, including updates to employee pay plans, wireless communication fees, and sewer rates. They approved the Human Services Commission's recommendations for federal Community Development Block Grant funds and a resolution to bank unused property tax levy capacity for future needs. The council voted 4-2 to approve a property tax levy for 2026 with a 1% adjustment.

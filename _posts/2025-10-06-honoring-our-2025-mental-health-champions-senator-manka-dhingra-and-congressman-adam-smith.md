@@ -1,8 +1,6 @@
 ---
-title: 'Honoring Our 2025 Mental Health Champions: Senator Manka Dhingra and Congressman Adam Smith'
 date: '2025-10-06T22:26:55+00:00'
-source: National Alliance on Mental Illness Eastside
-source_url: https://nami-eastside.org/honoring-our-2025-mental-health-champions-senator-manka-dhingra-and-congressman-adam-smith/
+images: []
 original_content: |-
   As NAMI Eastside prepares to celebrate our annual Gala on **Friday, October 10, 2025** , ([tickets are still available here](https://event.auctria.com/75bd6ac6-ca3f-4b3d-b431-972a7827ba20/)) we are proud to recognize two extraordinary leaders as this year’s **Mental Health Champions** — **Senator Manka Dhingra** and **Congressman Adam Smith**.
 
@@ -45,10 +43,13 @@ original_content: |-
   The post [Honoring Our 2025 Mental Health Champions: Senator Manka Dhingra and Congressman Adam Smith](https://nami-eastside.org/honoring-our-2025-mental-health-champions-senator-manka-dhingra-and-congressman-adam-smith/) first appeared on [Nami-Eastside WA](https://nami-eastside.org).
 
   The post [Honoring Our 2025 Mental Health Champions: Senator Manka Dhingra and Congressman Adam Smith](https://nami-eastside.org/honoring-our-2025-mental-health-champions-senator-manka-dhingra-and-congressman-adam-smith/) appeared first on [Nami-Eastside WA](https://nami-eastside.org).
+source: National Alliance on Mental Illness Eastside
+source_url: https://nami-eastside.org/honoring-our-2025-mental-health-champions-senator-manka-dhingra-and-congressman-adam-smith/
 summarized: true
+title: 'Honoring Our 2025 Mental Health Champions: Senator Manka Dhingra and Congressman
+  Adam Smith'
 topics:
 - Mental Health & Counseling
-images: []
 ---
 
 NAMI Eastside has recognized Senator Manka Dhingra and Congressman Adam Smith as Mental Health Champions in their annual Gala. Senator Dhingra has been instrumental in improving behavioral health systems in Washington, with an emphasis on culturally responsive, patient-centered care. Her contributions include modernizing the Involuntary Treatment Act and advocating for alternatives to incarceration for people with serious mental illness. Congressman Smith has led with authenticity, sharing his own mental health experiences and advocating for expanded access to care, insurance parity, and more federal investment in mental health services. Their recognition celebrates a shared vision of accessible, equitable, and compassionate mental health care.

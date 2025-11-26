@@ -1,8 +1,6 @@
 ---
-title: Critical wastewater repairs coming to the cities of Pateros and Wapato
 date: '2025-11-03T20:30:00+00:00'
-source: Department of Commerce
-source_url: https://www.commerce.wa.gov/critical-wastewater-repairs-coming-to-the-cities-of-pateros-and-wapato/
+images: []
 original_content: |-
   ### Public Works Board announces $734,310 to emergency infrastructure failures
 
@@ -26,10 +24,12 @@ original_content: |-
   Ed Stern, board member and deputy mayor of Poulsbo, emphasized the unique role the board plays in infrastructure emergencies. “This is a perfect example of how PWB remains the sole first responder for emergency infrastructure failure in the state,” Stern said. “Our ability to pivot and meet the need in short order is unparalleled.” &nbsp;
 
   Applications for the PWB emergency and pre-construction funding programs remain open until funds are exhausted. &nbsp;As of October 2025, $6.8 million in emergency funding remains available for the 2025-27 biennium.
-summarized: true
-topics: []
 published: false
-images: []
+source: Department of Commerce
+source_url: https://www.commerce.wa.gov/critical-wastewater-repairs-coming-to-the-cities-of-pateros-and-wapato/
+summarized: true
+title: Critical wastewater repairs coming to the cities of Pateros and Wapato
+topics: []
 ---
 
 The Washington State Public Works Board (PWB) has granted $734,310 in emergency loans to Pateros and Wapato for critical infrastructure repairs. In Pateros, a collapsed sewer line under two apartment buildings has caused a sinkhole and building damage, prompting a state of emergency. The PWB has approved $305,000 to install a new sewer line and repair sidewalks. In Wapato, a power outage led to wastewater treatment failure, leaving the city to transport waste off-site. Wapato received a $429,310 loan to replace electrical equipment and evaluate long-term improvements. The PWB still has $6.8 million in emergency funds for the 2025-27 biennium.

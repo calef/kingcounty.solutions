@@ -1,15 +1,15 @@
 ---
-title: 'King County Solutions Weekly Roundup: August 31–September 6, 2025'
 date: '2025-09-06T18:00:00-08:00'
+images: []
 source: King County Solutions
 summarized: true
+title: 'King County Solutions Weekly Roundup: August 31–September 6, 2025'
 topics:
 - Domestic Violence
 - Education & Learning
 - Employment & Job Support
 - Financial Assistance
 - Mental Health & Counseling
-images: []
 ---
 
 This week, we published one important post highlighting the urgent need for legal assistance in family law within King County. As many residents face challenges navigating family law issues, the Eastside Legal Assistance Program (ELAP) is actively seeking pro bono attorneys to help meet this critical demand.

@@ -1,8 +1,7 @@
 ---
-title: A Reminder to Love Myself
 date: '2025-03-27T21:31:06+00:00'
-source: Atlantic Street Center
-source_url: https://atlanticstreetcenter.org/2025/03/27/a-reminder-to-love-myself/?utm_source=rss&utm_medium=rss&utm_campaign=a-reminder-to-love-myself
+images:
+- f03d6abaa718d151a4d8ce1f614c0108ad7f5dca3b9217fefeab7017b54b6d8b
 original_content: "<div data-elementor-type=\"wp-post\" data-elementor-id=\"8634\"
   class=\"elementor elementor-8634\">\n\t\t\t\t<div class=\"elementor-element elementor-element-b519f37
   e-flex e-con-boxed e-con e-parent\" data-id=\"b519f37\" data-element_type=\"container\">\n\t\t\t\t\t<div
@@ -43,14 +42,15 @@ original_markdown_body: |-
   The support that Atlantic Street Center provides to youth and families is fluid and flexible. Of course, we work with participants to help them with objectives like job hunting, finding open and equitable preschools, and even with food accessibility. There is still a need to create comfort and a sense of community. These programs are a safe haven for our participants to honor themselves and intentionally slow down.&nbsp;&nbsp;
 
    ![](https://atlanticstreetcenter.org/wp-content/uploads/2025/03/IMG_6492-1-1024x683.jpg)
+source: Atlantic Street Center
+source_url: https://atlanticstreetcenter.org/2025/03/27/a-reminder-to-love-myself/?utm_source=rss&utm_medium=rss&utm_campaign=a-reminder-to-love-myself
 summarized: true
+title: A Reminder to Love Myself
 topics:
 - Education & Learning
 - Employment & Job Support
 - Food & Nutrition
 - Mental Health & Counseling
-images:
-- f03d6abaa718d151a4d8ce1f614c0108ad7f5dca3b9217fefeab7017b54b6d8b
 ---
 
 Celebrating Mother’s Day at Atlantic Street Center emphasizes community building and self-value for families. In 2024, the Teens as Young Parents Program and Kinship Care Support Group experienced special "days of beauty," featuring aestheticians who provided eyelash applications, makeup, and facials. Local spa Holistic Coalition contributed by offering massages, including prenatal options. A participant expressed gratitude, noting it was her first experience with eyelash extensions, which made her feel positive and special. The relaxing facial and hand massage served as a reminder of the importance of self-care. Atlantic Street Center's support for youth and families is adaptable, addressing practical needs like job hunting, preschool access, and food availability, while also fostering a nurturing environment. These initiatives create a safe space for participants to honor themselves and take a moment to slow down amidst their busy lives.

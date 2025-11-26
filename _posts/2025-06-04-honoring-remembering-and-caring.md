@@ -1,8 +1,6 @@
 ---
-title: Honoring, Remembering, and Caring
 date: '2025-06-04T19:28:35+00:00'
-source: The Sophia Way
-source_url: https://sophiaway.org/honoring-remembering-caring/?utm_source=rss&utm_medium=rss&utm_campaign=honoring-remembering-caring
+images: []
 original_content: |-
   ![](https://sophiaway.org/wp-content/uploads/2025/06/NL-image-for-blog-06.png)
 
@@ -21,11 +19,13 @@ original_content: |-
   This month, and every day, we celebrate the strength and resilience of the women we walk alongside. We’re grateful for their trust and for your support in giving them shelter, safety, and stability.
 
   The post [Honoring, Remembering, and Caring](https://sophiaway.org/honoring-remembering-caring/) first appeared on [The Sophia Way](https://sophiaway.org).
+source: The Sophia Way
+source_url: https://sophiaway.org/honoring-remembering-caring/?utm_source=rss&utm_medium=rss&utm_campaign=honoring-remembering-caring
 summarized: true
+title: Honoring, Remembering, and Caring
 topics:
 - Shelter & Housing
 - Personal & Household Needs
-images: []
 ---
 
 The Sophia Way, an organization assisting women out of homelessness, is expanding its efforts to support Black women facing housing instability. With over half of their clients being women of color, they are now focusing on the unique needs of Black women. One request often heard in their shelters is for hair products specifically for Black hair. In response, The Sophia Way is hosting a Black Hair Care Drive throughout June, in partnership with five organizations. The aim is not only to meet practical needs but also to honor the identity, confidence, and cultural pride associated with Black women's hair care.

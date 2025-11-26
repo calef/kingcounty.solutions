@@ -1,8 +1,6 @@
 ---
-title: 'Council Roundup: Meydenbauer Bay Park expansion moves forward'
 date: '2025-06-07T23:46:41+00:00'
-source: City of Bellevue
-source_url: https://bellevuewa.gov/city-news/council-roundup-meydenbauer-bay-park-expansion-moves-forward
+images: []
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Council
   Roundup: Meydenbauer Bay Park expansion moves forward</span>\n<span class=\"field
   field--name-uid field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/mdegrand\"
@@ -138,10 +136,12 @@ original_markdown_body: "Council Roundup: Meydenbauer Bay Park expansion moves f
   \"Link to Pride proclamation\") and June 9-15 as [Men’s Health Week](https://bellevue.legistar.com/View.ashx?M=F&ID=14252637&GUID=9A62DE30-2AAE-4898-8C3D-C324395E2AA8
   \"Link to Men's Health proclamation\").  \n&nbsp;\n\n<time datetime=\"2025-06-07T12:00:00Z\"
   class=\"datetime\">June 7 2025</time>"
-summarized: true
-topics: []
 published: false
-images: []
+source: City of Bellevue
+source_url: https://bellevuewa.gov/city-news/council-roundup-meydenbauer-bay-park-expansion-moves-forward
+summarized: true
+title: 'Council Roundup: Meydenbauer Bay Park expansion moves forward'
+topics: []
 ---
 
 At the recent City Council meeting, plans for the Meydenbauer Bay Park Expansion project progressed, with councilmembers discussing design considerations such as minimizing parking disruption during construction, enhancing bay views, and ensuring universal accessibility. The proposed Phase 2 scope includes improvements to the Main Street and 110th Avenue intersection, a new Gateway Plaza, expanded parking, a Canopy Walk, and a pedestrian trail connecting to the existing park. The council unanimously voted to advance to the architectural and engineering design stage for this phase.

@@ -1,8 +1,7 @@
 ---
-title: Educational Interpreter Hub- January 2025 Offerings
 date: '2024-12-17T18:39:22+00:00'
-source: Washington Center for Deaf and Hard of Hearing Youth
-source_url: https://www.cdhy.wa.gov/educational-interpreter-hub-january-2025-offerings/
+images:
+- 578770021a803316de59d7a8bc1a7a0929f139c4aa0a4c4acc4991484aee5854
 original_content: |-
   <div class="wp-block-image"></div>
   <div><img decoding="async" class="aligncenter wp-image-9772" src="https://www.cdhy.wa.gov/wp-content/uploads/2024/12/Ed.-Interpreter-Hub-December-2024-1.png" alt="Educational Interpreter Hub. January 2025 professional development flyer." width="635" height="822" srcset="https://www.cdhy.wa.gov/wp-content/uploads/2024/12/Ed.-Interpreter-Hub-December-2024-1-200x259.png 200w, https://www.cdhy.wa.gov/wp-content/uploads/2024/12/Ed.-Interpreter-Hub-December-2024-1-232x300.png 232w, https://www.cdhy.wa.gov/wp-content/uploads/2024/12/Ed.-Interpreter-Hub-December-2024-1-400x518.png 400w, https://www.cdhy.wa.gov/wp-content/uploads/2024/12/Ed.-Interpreter-Hub-December-2024-1-600x777.png 600w, https://www.cdhy.wa.gov/wp-content/uploads/2024/12/Ed.-Interpreter-Hub-December-2024-1-768x994.png 768w, https://www.cdhy.wa.gov/wp-content/uploads/2024/12/Ed.-Interpreter-Hub-December-2024-1-791x1024.png 791w, https://www.cdhy.wa.gov/wp-content/uploads/2024/12/Ed.-Interpreter-Hub-December-2024-1-800x1036.png 800w, https://www.cdhy.wa.gov/wp-content/uploads/2024/12/Ed.-Interpreter-Hub-December-2024-1-1187x1536.png 1187w, https://www.cdhy.wa.gov/wp-content/uploads/2024/12/Ed.-Interpreter-Hub-December-2024-1-1200x1553.png 1200w, https://www.cdhy.wa.gov/wp-content/uploads/2024/12/Ed.-Interpreter-Hub-December-2024-1.png 1545w" sizes="(max-width: 635px) 100vw, 635px" /></div>
@@ -30,12 +29,13 @@ original_markdown_body: "![Educational Interpreter Hub. January 2025 professiona
   * *\n\nPlease contact the CDHY Interpreter Hub Coordinator with any questions  \nMelissa
   Klindtworth | [Melissa.klindtworth@cdhy.wa.gov](mailto:Melissa.klindtworth@cdhy.wa.gov
   \"mailto:Melissa.klindtworth@cdhy.wa.gov\") | 360.952.2906"
+source: Washington Center for Deaf and Hard of Hearing Youth
+source_url: https://www.cdhy.wa.gov/educational-interpreter-hub-january-2025-offerings/
 summarized: true
+title: Educational Interpreter Hub- January 2025 Offerings
 topics:
 - Education & Learning
 - Disabilities
-images:
-- 578770021a803316de59d7a8bc1a7a0929f139c4aa0a4c4acc4991484aee5854
 ---
 
 The CDHY Educational Interpreter Hub is offering professional development (PD) opportunities for the educational interpreter community in January 2025. Participants are encouraged to meet with mentors and set goals for the new year. Registration for these offerings must be completed before Friday, December 27th, with a deadline set for noon on that day. For any inquiries, individuals can reach out to the CDHY Interpreter Hub Coordinator, Melissa Klindtworth, via email or phone.

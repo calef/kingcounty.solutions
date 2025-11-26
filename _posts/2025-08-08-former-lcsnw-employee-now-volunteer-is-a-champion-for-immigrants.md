@@ -1,8 +1,7 @@
 ---
-title: Former LCSNW employee, now volunteer, is a champion for immigrants
 date: '2025-08-08T19:42:47+00:00'
-source: Lutheran Community Services Northwest
-source_url: https://lcsnw.org/2025/08/volunteer-is-a-champion-for-immigrants/
+images:
+- aee9befd6ba48493a1a03904e7fce1a3a13d45ab28e36dc9afde24c88b9f2bc0
 original_content: "<p><div class=\"et_pb_section et_pb_section_7 blog-post-type et_section_regular\"
   >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_row
   et_pb_row_24\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4 et_pb_column_34
@@ -112,7 +111,10 @@ original_markdown_body: |-
    ![Teenagers and young adults stand in a group discussion](https://lcsnw.org/wp-content/uploads/2025/08/Kinzapic.jpg "Kinzapic")
 
   The post [Former LCSNW employee, now volunteer, is a champion for immigrants](https://lcsnw.org/2025/08/volunteer-is-a-champion-for-immigrants/) appeared first on [LCSNW](https://lcsnw.org).
+source: Lutheran Community Services Northwest
+source_url: https://lcsnw.org/2025/08/volunteer-is-a-champion-for-immigrants/
 summarized: true
+title: Former LCSNW employee, now volunteer, is a champion for immigrants
 topics:
 - Domestic Violence
 - Education & Learning
@@ -121,8 +123,6 @@ topics:
 - Health Care
 - Mental Health & Counseling
 - Shelter & Housing
-images:
-- aee9befd6ba48493a1a03904e7fce1a3a13d45ab28e36dc9afde24c88b9f2bc0
 ---
 
 Former LCSNW employee Kinza Schuyler is now a dedicated volunteer, serving as a Department of Justice Accredited Immigration Representative. She provides essential support to immigrants and refugees navigating the complex U.S. immigration system, which often includes daunting paperwork and legal challenges. Kinza's commitment stems from her background as Director of Operations at a non-profit on the East Coast, leading her to discover her passion for immigration work when she moved to Seattle in the early 2000s. After volunteering with LCSNW for 2.5 years, she took on a leadership role in the immigration program before returning to volunteer status in 2017. Currently handling over 200 cases, Kinza has increased her volunteering to three days a week, viewing her role as a puzzle to solve for each individual client. She emphasizes the importance of honoring and respecting those who come to the U.S. seeking a better life, stating, “Nothing makes you feel better than helping others.” LCSNW celebrates the impactful contributions of volunteers like Kinza, who embody the organization's mission of health, justice, and hope.

@@ -1,8 +1,8 @@
 ---
-title: We have so much to be thankful for and you’re part of it!
 date: '2025-11-20T02:26:21+00:00'
-source: BrightSpark
-source_url: https://www.brightspark.org/2025/11/we-have-so-much-to-be-thankful-for-and-youre-part-of-it/
+images:
+- a3d032154560a5a7985f8222a409a0d1d4c0e0591f2b76f26ec666839958a708
+- b7da5b7b1e746b71fc95c4fa06b91cc0f4e7fa94b6a71fd1286b3989152b2839
 original_content: |-
   <div class="wp-block-uagb-image uagb-block-db8ab62f wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure class="wp-block-uagb-image__figure"><img decoding="async" src="https://www.brightspark.org/wp-content/uploads/2025/11/Fund-Dev-Newsletter-Banners-5.png" alt="" class="uag-image-9593" width="768" height="256" title="Fund Dev Newsletter Banners (5)" loading="lazy" role="img" /></figure></div>
 
@@ -129,12 +129,12 @@ original_markdown_body: "![](https://www.brightspark.org/wp-content/uploads/2025
   to ©LisaBontjePhotography_\n\nThe post [We have so much to be thankful for and you’re
   part of it!](https://www.brightspark.org/2025/11/we-have-so-much-to-be-thankful-for-and-youre-part-of-it/)
   appeared first on [BrightSpark](https://www.brightspark.org)."
+source: BrightSpark
+source_url: https://www.brightspark.org/2025/11/we-have-so-much-to-be-thankful-for-and-youre-part-of-it/
 summarized: true
+title: We have so much to be thankful for and you’re part of it!
 topics:
 - Education & Learning
-images:
-- a3d032154560a5a7985f8222a409a0d1d4c0e0591f2b76f26ec666839958a708
-- b7da5b7b1e746b71fc95c4fa06b91cc0f4e7fa94b6a71fd1286b3989152b2839
 ---
 
 Next week, BrightSpark will celebrate Gratitude Week, a time to reflect on the successes made possible by their community of supporters. As the holiday season approaches, BrightSpark invites families, providers, partners, and advocates to join in this celebration. The organization emphasizes the importance of community support in helping families access quality early learning and providing essential resources to early learning providers. Throughout Gratitude Week, BrightSpark will share inspiring stories of impact and community on their social channels.

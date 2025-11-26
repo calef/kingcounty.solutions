@@ -1,8 +1,6 @@
 ---
-title: 2025 Inspire Community Awards
 date: '2025-04-30T19:05:55+00:00'
-source: Encompass
-source_url: https://encompassnw.org/inspire-community-awards-2025/
+images: []
 original_content: |-
   ![](https://encompassnw.org/wp-content/uploads/2025/04/InspireAwards-300x157.png)A highlight of our Inspire Breakfast each year is our Community Awards segment, which honors a business, a community organization, and a volunteer who all share in our vision of a community where ALL children thrive. &nbsp;This year’s awards were presented by Honorary Chair Nancy Whitaker and Encompass Executive Director Nela Cumming.
 
@@ -47,10 +45,12 @@ original_content: |-
   &nbsp;
 
   The post [2025 Inspire Community Awards](https://encompassnw.org/inspire-community-awards-2025/) first appeared on [Encompass](https://encompassnw.org).
+source: Encompass
+source_url: https://encompassnw.org/inspire-community-awards-2025/
 summarized: true
+title: 2025 Inspire Community Awards
 topics:
 - Employment & Job Support
-images: []
 ---
 
 Encompass honored Symetra, Snoqualmie Valley Alliance Church (SVA), and Madison Chess with awards at their Inspire Breakfast. Symetra received the John Castle Corporate Partner of the Year award for its commitment to community service and support of Encompass through corporate giving and volunteering. SVA was recognized as the Community Partner of the Year for their support of children and families and for providing a space for Encompass therapists and families. Madison Chess was named the Inspire Volunteer of the Year for her dedication to the Encompass volunteer program, helping with gala planning and recruitment, and her commitment to the community.

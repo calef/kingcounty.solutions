@@ -1,8 +1,6 @@
 ---
-title: Learn how all those pretty cones make a difference on Lake to Lake
 date: '2025-06-17T21:14:04+00:00'
-source: City of Bellevue
-source_url: https://bellevuewa.gov/city-news/lake-to-lake-6-25
+images: []
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Learn
   how all those pretty cones make a difference on Lake to Lake</span>\n<span class=\"field
   field--name-uid field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"
@@ -40,10 +38,12 @@ original_markdown_body: |-
   You'll also learn how AI can help us make our streets safer for people who walk or bike, and how community members can report hate crimes or bias incidents. Lake to Lake is produced by Bellevue Television ([btv@bellevuewa.gov](mailto:btv@bellevuewa.gov)). &nbsp;
 
   <time datetime="2025-06-17T12:00:00Z" class="datetime">June 17 2025</time>
-summarized: true
-topics: []
 published: false
-images: []
+source: City of Bellevue
+source_url: https://bellevuewa.gov/city-news/lake-to-lake-6-25
+summarized: true
+title: Learn how all those pretty cones make a difference on Lake to Lake
+topics: []
 ---
 
 Bellevue staff have significantly reduced workplace driving accidents by over 40% due to hands-on defensive driving training, as highlighted in the latest Lake to Lake news show. The program also explores how artificial intelligence can enhance safety for pedestrians and cyclists on city streets. Additionally, it provides information on how community members can report hate crimes or bias incidents. Lake to Lake is produced by Bellevue Television.

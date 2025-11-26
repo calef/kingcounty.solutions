@@ -1,8 +1,6 @@
 ---
-title: September 2025 Newsletter
 date: '2025-09-15T18:01:00+00:00'
-source: CarePoint Clinic
-source_url: https://www.carepointonline.org/news/cjs3nmb1sgjnwig08hd5u4peh0zwnw-j4cj8-bpmhr-k43fa-7a5ma-swlke-2g5kz-k9c5t-jz292
+images: []
 original_content: "<figure class=\"\n              sqs-block-image-figure\n              intrinsic\n
   \           \"\n        >\n          \n        \n        \n\n        \n          <a
   class=\"\n                sqs-block-image-link\n                \n          \n        \n
@@ -29,10 +27,12 @@ original_markdown_body: |-
   [![](https://images.squarespace-cdn.com/content/v1/65c1886a315e4b1ef7f00c6a/c171c738-d3d3-4e0c-a82b-6b61acf1acc5/September2025.jpg?format=1000w)](https://carepointclinic.dm.networkforgood.com/emails/4190700?recipient_id=gKmitG8yqD88wZ7BRslDrA||ZGVzaXJlZXN3YW5zb25AZ21haWwuY29t)
 
   Read our September 2025 newsletter is [HERE!](https://carepointclinic.dm.networkforgood.com/emails/4190700?recipient_id=gKmitG8yqD88wZ7BRslDrA||ZGVzaXJlZXN3YW5zb25AZ21haWwuY29t)
-summarized: true
-topics: []
 published: false
-images: []
+source: CarePoint Clinic
+source_url: https://www.carepointonline.org/news/cjs3nmb1sgjnwig08hd5u4peh0zwnw-j4cj8-bpmhr-k43fa-7a5ma-swlke-2g5kz-k9c5t-jz292
+summarized: true
+title: September 2025 Newsletter
+topics: []
 ---
 
 The September 2025 newsletter has been released, authored by Desiree Swanson. It includes important updates and information for the month. Additionally, a CarePoint Blood Drive took place on September 10, 2025, encouraging community participation in this essential health initiative. The newsletter serves as a resource for keeping the community informed about events and activities.

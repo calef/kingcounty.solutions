@@ -1,9 +1,6 @@
 ---
-title: 'Trapper & Samantha Wellbeing Support Center: Enriching the Lives of Those
-  Navigating a Cancer Journey'
 date: '2025-01-03T23:57:42+00:00'
-source: Hospital District No. 1 (Valley Medical Center)
-source_url: https://blog.valleymed.org/2025/01/03/trapper-samantha-wellbeing-support-center-enriching-the-lives-of-those-navigating-a-cancer-journey/?utm_source=rss&utm_medium=rss&utm_campaign=trapper-samantha-wellbeing-support-center-enriching-the-lives-of-those-navigating-a-cancer-journey
+images: []
 original_content: |-
   <p><img width="300" height="188" src="https://blog.valleymed.org/wp-content/uploads/2024/12/Trapper-Samantha_blog-300x188.jpg" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://blog.valleymed.org/wp-content/uploads/2024/12/Trapper-Samantha_blog-300x188.jpg 300w, https://blog.valleymed.org/wp-content/uploads/2024/12/Trapper-Samantha_blog-768x480.jpg 768w, https://blog.valleymed.org/wp-content/uploads/2024/12/Trapper-Samantha_blog-600x375.jpg 600w, https://blog.valleymed.org/wp-content/uploads/2024/12/Trapper-Samantha_blog.jpg 800w" sizes="auto, (max-width: 300px) 100vw, 300px" /></p>
   <p>A cherished resource, the Trapper &amp; Samantha Wellbeing Support Cart has brought comfort and resources to countless patients undergoing cancer treatment at Valley. It is now growing into something even more extraordinary—an inspiring, dedicated suite in our new Cancer Center that opens on February 3.</p>
@@ -75,14 +72,17 @@ original_markdown_body: |-
   The Trapper & Samantha Wellbeing Support Center reflects Valley’s vision: the best cancer care embraces hope and healing by supporting every aspect of an individual’s wellbeing—physical, emotional, educational, and social.
 
   _Pictured: At Valley Cancer Center’s Skybreaking celebration, Trapper and Samantha share their vision for the Wellbeing Support Center as Valley’s Chief Executive Officer & Chief Financial Officer Jeannine Erickson Grinnell looks on._
+source: Hospital District No. 1 (Valley Medical Center)
+source_url: https://blog.valleymed.org/2025/01/03/trapper-samantha-wellbeing-support-center-enriching-the-lives-of-those-navigating-a-cancer-journey/?utm_source=rss&utm_medium=rss&utm_campaign=trapper-samantha-wellbeing-support-center-enriching-the-lives-of-those-navigating-a-cancer-journey
 summarized: true
+title: 'Trapper & Samantha Wellbeing Support Center: Enriching the Lives of Those
+  Navigating a Cancer Journey'
 topics:
 - Education & Learning
 - Health Care
 - Mental Health & Counseling
 - Personal & Household Needs
 - Transportation & Mobility
-images: []
 ---
 
 The Trapper & Samantha Wellbeing Support Center is a new initiative at Valley's Cancer Center, set to open on February 3. It aims to assist cancer patients and their families through various resources, including comfort items, educational programs, and specialized support. This center is part of Valley's commitment to provide comprehensive, compassionate care right from the start of a patient's treatment journey. 

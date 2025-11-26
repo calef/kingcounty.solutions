@@ -1,8 +1,6 @@
 ---
-title: Community Corner—African American Reach and Teach Health Ministry (AARTH)
 date: '2025-11-25T17:03:14+00:00'
-source: City of Seattle
-source_url: https://humaninterests.seattle.gov/2025/11/25/community-corner-african-american-reach-and-teach-health-ministry-aarth/
+images: []
 original_content: Community Corner highlights the work of Seattle Human Services’
   community partners in their own words. Our goal is to gather stories and photos
   that illustrate their amazing work on behalf of the people of Seattle. This post
@@ -11,11 +9,13 @@ original_markdown_body: Community Corner highlights the work of Seattle Human Se
   community partners in their own words. Our goal is to gather stories and photos
   that illustrate their amazing work on behalf of the people of Seattle. This post
   was provided by Kathleen Wi...
+source: City of Seattle
+source_url: https://humaninterests.seattle.gov/2025/11/25/community-corner-african-american-reach-and-teach-health-ministry-aarth/
 summarized: true
+title: Community Corner—African American Reach and Teach Health Ministry (AARTH)
 topics:
 - Health Care
 - Mental Health & Counseling
-images: []
 ---
 
 African American Reach and Teach Health Ministry (AARTH), founded in 2002 by African American faith leaders, addresses cultural gaps in health education and advocacy within Seattle’s Black communities. Amid ongoing health disparities and mistrust of mainstream health systems, AARTH serves as a culturally relevant resource, promoting wellness and empowering Black voices in health decisions.

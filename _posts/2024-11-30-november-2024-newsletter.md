@@ -1,8 +1,6 @@
 ---
-title: November 2024 Newsletter
 date: '2024-11-30T00:11:00+00:00'
-source: CarePoint Clinic
-source_url: https://www.carepointonline.org/news/cjs3nmb1sgjnwig08hd5u4peh0zwnw-j4cj8
+images: []
 original_content: "<figure class=\"\n              sqs-block-image-figure\n              intrinsic\n
   \           \"\n        >\n          \n        \n        \n\n        \n          \n
   \           \n          \n            \n                \n                \n                \n
@@ -27,10 +25,12 @@ original_markdown_body: |-
   ![](https://images.squarespace-cdn.com/content/v1/65c1886a315e4b1ef7f00c6a/a9baf72d-ef45-48d1-b2be-55347ea94c78/NovemberNewsletter.jpg?format=1000w)
 
   The November newsletter has arrived! Read it [HERE](https://carepointclinic.dm.networkforgood.com/emails/3613800?recipient_id=gKmitG8yqD88wZ7BRslDrA||ZGVzaXJlZXN3YW5zb25AZ21haWwuY29t)!
-summarized: true
-topics: []
 published: false
-images: []
+source: CarePoint Clinic
+source_url: https://www.carepointonline.org/news/cjs3nmb1sgjnwig08hd5u4peh0zwnw-j4cj8
+summarized: true
+title: November 2024 Newsletter
+topics: []
 ---
 
 The November 2024 newsletter has been released. It includes various updates and announcements relevant to the community. Key highlights include a reminder about the upcoming CarePoint Blood Drive scheduled for December 18th. The newsletter serves as a resource for staying informed about ongoing events and initiatives within CarePoint.

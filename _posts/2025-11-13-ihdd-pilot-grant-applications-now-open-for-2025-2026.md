@@ -1,8 +1,7 @@
 ---
-title: IHDD Pilot Grant Applications Now Open for 2025–2026
 date: '2025-11-13T19:20:05+00:00'
-source: Institute on Human Development and Disability
-source_url: https://ihdd.org/2025/11/13/ihdd-pilot-grant-applications-now-open-for-2025-2026/
+images:
+- db3c2a5e52079ff2ccb80017173131e0529d0b31bdc32da49a1ff65f71fa6426
 original_content: "<div class=\"wpb-content-wrapper\">\r\n<div  data-mk-stretch-content=\"true\"
   class=\"wpb_row vc_row vc_row-fluid jupiter-donut- mk-fullwidth-false  attched-false
   \    js-master-row  mk-grid\">\r\n\t\t\t\t\r\n<div class=\"vc_col-sm-9 wpb_column
@@ -226,11 +225,12 @@ original_markdown_body: "## [Home](https://ihdd.org/)\n\n## IHDD Pilot Grant App
   class=\"mk-padding-divider jupiter-donut- jupiter-donut-clearfix\"></div>\r\n\r\n</span></div></section>\t</div>\r\n</aside>\n\nThe
   post [IHDD Pilot Grant Applications Now Open for 2025–2026](https://ihdd.org/2025/11/13/ihdd-pilot-grant-applications-now-open-for-2025-2026/)
   appeared first on [UW IHDD](https://ihdd.org)."
+source: Institute on Human Development and Disability
+source_url: https://ihdd.org/2025/11/13/ihdd-pilot-grant-applications-now-open-for-2025-2026/
 summarized: true
+title: IHDD Pilot Grant Applications Now Open for 2025–2026
 topics:
 - Disabilities
-images:
-- db3c2a5e52079ff2ccb80017173131e0529d0b31bdc32da49a1ff65f71fa6426
 ---
 
 The IHDD is accepting applications for the 2025-2026 Pilot Grant Program, which offers up to $10,000 to support innovative research in intellectual and developmental disabilities (IDD). Projects must utilize one or more of the IDDRC Cores: Brain Structure and Function, Genomics, and Clinical Translational. The deadline for applications is January 1, 2026. Researchers can find full details and submit their proposals through the updated application page on IHDD.org.

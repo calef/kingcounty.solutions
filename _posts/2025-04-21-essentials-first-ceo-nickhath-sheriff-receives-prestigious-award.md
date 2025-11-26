@@ -1,8 +1,6 @@
 ---
-title: Essentials First CEO Nickhath Sheriff receives prestigious award
 date: '2025-04-21T23:42:00+00:00'
-source: Essentials First
-source_url: https://www.essentialsfirst.org/blog/izo8rkk2n5k2xtfvsuip2pge7tflz2
+images: []
 original_content: "<p class=\"\">We’re incredibly proud to share that our CEO, Nickhath
   (Nicky) Sheriff, was recently honored with the 2024 “Light of Christ” Humanitarian
   Award by The Church of Jesus Christ of Latter-day Saints - Western Washington.</p><p
@@ -38,10 +36,12 @@ original_markdown_body: |-
   Her 30+ years of leadership in humanitarian services continues to inspire us as we work to provide dignity-centered care and support to those who need it most. Congratulations, Nicky, on this well-deserved recognition!
 
   ![](https://images.squarespace-cdn.com/content/v1/6244ce6a3e335a451b9540a9/a04acdbb-ae3d-416c-ac35-fd088da98b60/491445614_18063500866997225_1211038361218335255_n.jpg?format=1000w)
-summarized: true
-topics: []
 published: false
-images: []
+source: Essentials First
+source_url: https://www.essentialsfirst.org/blog/izo8rkk2n5k2xtfvsuip2pge7tflz2
+summarized: true
+title: Essentials First CEO Nickhath Sheriff receives prestigious award
+topics: []
 ---
 
 Essentials First CEO Nickhath Sheriff has been awarded the 2024 “Light of Christ” Humanitarian Award by The Church of Jesus Christ of Latter-day Saints - Western Washington. This honor is presented to individuals who exemplify extraordinary compassion, selfless service, and a commitment to uplifting their communities. Nicky Sheriff embodies these qualities through her work at Essentials First, where she has over 30 years of experience in humanitarian services. Her leadership continues to inspire the organization as it strives to provide dignity-centered care and support to those in need. Congratulations are extended to Nicky for this well-deserved recognition.

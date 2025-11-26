@@ -1,8 +1,6 @@
 ---
-title: Bellevue Innovation Exchange to showcase civic technology advancements
 date: '2025-09-19T20:30:04+00:00'
-source: City of Bellevue
-source_url: https://bellevuewa.gov/city-news/innovation-exchange
+images: []
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Bellevue
   Innovation Exchange to showcase civic technology advancements </span>\n<span class=\"field
   field--name-uid field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"
@@ -96,10 +94,12 @@ original_markdown_body: |-
   For alternate formats, interpreters or reasonable accommodations, please phone at least 48 hours in advance 425-452-7855 or email [diversity@bellevuewa.gov](mailto:diversity@bellevuewa.gov). For complaints regarding accommodations, contact the city’s ADA, Title VI and equal opportunity officer at 425-452-6168.&nbsp;
 
   <time datetime="2025-09-19T12:00:00Z" class="datetime">September 19 2025</time>
-summarized: true
-topics: []
 published: false
-images: []
+source: City of Bellevue
+source_url: https://bellevuewa.gov/city-news/innovation-exchange
+summarized: true
+title: Bellevue Innovation Exchange to showcase civic technology advancements
+topics: []
 ---
 
 The City of Bellevue will host an Innovation Exchange event on October 16, aimed at showcasing civic technology advancements and promoting community collaboration. This free, daylong event will take place at Bellevue City Hall and will feature demonstrations, presentations, and interactive exhibits from educators, entrepreneurs, and municipal tech experts. The day session will run from 9 a.m. to 4:30 p.m., followed by an evening celebration with refreshments and music from 4:30 p.m. to 7 p.m. 

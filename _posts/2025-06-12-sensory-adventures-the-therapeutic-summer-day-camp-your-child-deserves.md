@@ -1,8 +1,6 @@
 ---
-title: 'Sensory Adventures: The Therapeutic Summer Day Camp Your Child Deserves'
 date: '2025-06-12T17:17:23+00:00'
-source: Encompass
-source_url: https://encompassnw.org/sensory-adventures-the-therapeutic-summer-day-camp-your-child-deserves/
+images: []
 original_content: |-
   ![](https://encompassnw.org/wp-content/uploads/2025/06/SensoryAdventures_square2-300x300.png) **As summer approaches, many parents and caregivers begin the search for the perfect day camp to provide children with a fun, enriching experience. For families of children with neurodiverse profiles or who face challenges in more traditional camp settings, this search can feel particularly daunting. The right environmental fit can make all the difference between a summer filled with joy or one of stress and frustration. Encompass is excited to offer a unique day camp experience through our Sensory Adventures Therapeutic Immersion Camp.**
 
@@ -59,11 +57,13 @@ original_content: |-
   For more information, please reach out to Megan Walsh, Encompass Mental Health Director, at megan.walsh@encompassnw.org
 
   The post [Sensory Adventures: The Therapeutic Summer Day Camp Your Child Deserves](https://encompassnw.org/sensory-adventures-the-therapeutic-summer-day-camp-your-child-deserves/) first appeared on [Encompass](https://encompassnw.org).
+source: Encompass
+source_url: https://encompassnw.org/sensory-adventures-the-therapeutic-summer-day-camp-your-child-deserves/
 summarized: true
+title: 'Sensory Adventures: The Therapeutic Summer Day Camp Your Child Deserves'
 topics:
 - Disabilities
 - Mental Health & Counseling
-images: []
 ---
 
 Encompass is offering a unique day camp experience, the Sensory Adventures Therapeutic Immersion Camp, for children aged 5-8 with neurodiverse profiles or those who face challenges in traditional camp environments. The camp focuses on meeting children's emotional and developmental needs. Therapists will provide individualized support in areas such as mental health, speech, and occupational challenges. The program aims to help children manage emotions, develop social skills, and improve communication. Key aspects of the program include understanding physical cues, peer interaction, self-advocacy, trust-based relationships, and play. The camp aims to provide a supportive, understanding, and fun environment for children's emotional, social, and developmental growth.

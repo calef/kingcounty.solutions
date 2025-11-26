@@ -1,8 +1,7 @@
 ---
-title: 2025 Holiday Assistance Resources
 date: '2024-12-13T00:30:59+00:00'
-source: Hopelink
-source_url: https://www.hopelink.org/blog/2025-holiday-assistance-resources/
+images:
+- 52d30367c20604216cf5a109646e761b8edd73aa1c5680c3d088109d8bfd7bc5
 original_content: "<div class=\"wp-block-columns container-narrow has-1-columns is-layout-flex
   wp-container-28 wp-block-columns-is-layout-flex\">\n<div class=\"wp-block-column
   is-layout-flow wp-block-column-is-layout-flow\">\n<h2 class=\"wp-block-heading\">2025
@@ -849,12 +848,13 @@ original_markdown_body: "## 2025 Holiday Assistance Resources\n\n![A family sits
   defer>\n\t\t(() => {\n\t\t\tlet article = document.querySelector('.block504896895008727');\n\n\t\t\tarticle.querySelectorAll('a').forEach(elm
   => {\n\t\t\t\tif (!elm.href.search(/^(http).+(hopelink.com).+$/)) {\n\t\t\t\t\telm.target
   = '_blank';\n\t\t\t\t\telm.title = 'Opens in a new tab';\n\t\t\t\t}\n\t\t\t});\n\t\t})();\n\t</script>"
+source: Hopelink
+source_url: https://www.hopelink.org/blog/2025-holiday-assistance-resources/
 summarized: true
+title: 2025 Holiday Assistance Resources
 topics:
 - Food & Nutrition
 - Financial Assistance
-images:
-- 52d30367c20604216cf5a109646e761b8edd73aa1c5680c3d088109d8bfd7bc5
 ---
 
 A comprehensive list of holiday assistance resources for 2025 has been compiled to assist families during the November and December season. Hopelink's Food Markets will provide seasonal foods, including turkeys and groceries, on a first-come, first-served basis at various locations. Key events include a Thanksgiving dinner hosted by Holy Family Parish on November 27, and community meals at St. John’s Episcopal Church and the Bread of Life Mission. Eastridge Church plans to distribute 1,500 turkeys and bags of groceries on November 22.

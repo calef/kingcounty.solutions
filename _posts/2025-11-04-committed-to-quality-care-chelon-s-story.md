@@ -1,8 +1,6 @@
 ---
-title: 'Committed to Quality Care: Chelon’s Story'
 date: '2025-11-04T20:46:00+00:00'
-source: BrightSpark
-source_url: https://www.brightspark.org/2025/11/committed-to-quality-care-chelons-story/
+images: []
 original_content: |-
   <p>Chelon Jackson is a child care provider who exemplifies what it means to provide high-quality early learning experiences. Chelon is the owner and preschool teacher at Lovable Nest, an in-home family child care center serving children from birth to age 5. She has been providing care for children in her community for over 30 years.</p>
 
@@ -164,10 +162,12 @@ original_markdown_body: |-
   “The most rewarding thing is when a child comes back to me and I can see the rewards I implemented into them. That is very humbling for me. I have several kids who have left me and then came back to say ‘hi’ and it makes me feel good.”
 
   The post [Committed to Quality Care: Chelon’s Story](https://www.brightspark.org/2025/11/committed-to-quality-care-chelons-story/) appeared first on [BrightSpark](https://www.brightspark.org).
+source: BrightSpark
+source_url: https://www.brightspark.org/2025/11/committed-to-quality-care-chelons-story/
 summarized: true
+title: 'Committed to Quality Care: Chelon’s Story'
 topics:
 - Education & Learning
-images: []
 ---
 
 Chelon Jackson is a dedicated child care provider and owner of Lovable Nest, an in-home family child care center for children from birth to age 5. With over 30 years of experience, Chelon continually enhances the quality of her care through partnerships with BrightSpark’s provider services programs. She participates in the Early Learning Coaching Program, receiving personalized coaching on curriculum development and business practices, which helped her achieve the highest possible Early Achievers Quality Level 5 rating.

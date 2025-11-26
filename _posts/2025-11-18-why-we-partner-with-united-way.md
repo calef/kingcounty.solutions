@@ -1,8 +1,6 @@
 ---
-title: Why [We Partner With] United Way?
 date: '2025-11-18T18:28:02+00:00'
-source: United Way of King County
-source_url: https://www.uwkc.org/news/why-we-partner-with-united-way/
+images: []
 original_content: |-
   <p>This blog post was written by Leslie Stewart, Youth Development Director of Asian Counseling and Referral Service. Asian Counseling and Referral Service (ACRS) was founded in 1973 by a small group of community volunteers, social workers, and students with the explicit goal of delivering culturally responsive, community&#x2d;based mental health care for Asian and Native Hawaiian/</p>
   <p><a href="https://www.uwkc.org/news/why-we-partner-with-united-way/" rel="nofollow">Source</a></p>
@@ -10,10 +8,12 @@ original_markdown_body: |-
   This blog post was written by Leslie Stewart, Youth Development Director of Asian Counseling and Referral Service. Asian Counseling and Referral Service (ACRS) was founded in 1973 by a small group of community volunteers, social workers, and students with the explicit goal of delivering culturally responsive, community-based mental health care for Asian and Native Hawaiian/
 
   [Source](https://www.uwkc.org/news/why-we-partner-with-united-way/)
+source: United Way of King County
+source_url: https://www.uwkc.org/news/why-we-partner-with-united-way/
 summarized: true
+title: Why [We Partner With] United Way?
 topics:
 - Mental Health & Counseling
-images: []
 ---
 
 Asian Counseling and Referral Service (ACRS), established in 1973, focuses on providing culturally responsive mental health care for Asian and Native Hawaiian/Pacific Islander (A&NH/PI) communities in the Pacific Northwest. United Way of King County was instrumental in this mission, providing ACRS with its first grant to support mental health services. ACRS is dedicated to addressing the needs of BIPOC, immigrant, and refugee communities, working against systemic oppression and promoting social justice.

@@ -1,8 +1,6 @@
 ---
-title: Tina McDonough Unites Community with Heart and Hope
 date: '2025-01-31T23:53:32+00:00'
-source: Hospital District No. 1 (Valley Medical Center)
-source_url: https://blog.valleymed.org/2025/01/31/tina-mcdonough-unites-community-with-heart-and-hope/?utm_source=rss&utm_medium=rss&utm_campaign=tina-mcdonough-unites-community-with-heart-and-hope
+images: []
 original_content: |-
   <p><img width="300" height="188" src="https://blog.valleymed.org/wp-content/uploads/2025/01/TinaMcDonough-1.16.2025-blog-300x188.jpg" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://blog.valleymed.org/wp-content/uploads/2025/01/TinaMcDonough-1.16.2025-blog-300x188.jpg 300w, https://blog.valleymed.org/wp-content/uploads/2025/01/TinaMcDonough-1.16.2025-blog-768x480.jpg 768w, https://blog.valleymed.org/wp-content/uploads/2025/01/TinaMcDonough-1.16.2025-blog-600x375.jpg 600w, https://blog.valleymed.org/wp-content/uploads/2025/01/TinaMcDonough-1.16.2025-blog.jpg 800w" sizes="auto, (max-width: 300px) 100vw, 300px" /></p>
   <p>When Tina McDonough lost a close friend to cancer in 2007, she turned her heartbreak into a mission to bring hope and support to others. As the fearless founder of the local non-profit <strong><span style="text-decoration: underline;"><a href="http://valleygirlsandguys.org" target="_blank" rel="noreferrer noopener">Valley Girls &amp; Guys</a></span></strong>, Tina has created a remarkable community that champions cancer patients and their families through every step of their courageous journey.  </p>
@@ -102,11 +100,13 @@ original_markdown_body: "![](https://blog.valleymed.org/wp-content/uploads/2025/
   that brought the new Cancer Center to life, reaffirming her commitment to support
   patients and families throughout their cancer journey._   \n_Photo credit: Timothy
   Aguero Photography_"
+source: Hospital District No. 1 (Valley Medical Center)
+source_url: https://blog.valleymed.org/2025/01/31/tina-mcdonough-unites-community-with-heart-and-hope/?utm_source=rss&utm_medium=rss&utm_campaign=tina-mcdonough-unites-community-with-heart-and-hope
 summarized: true
+title: Tina McDonough Unites Community with Heart and Hope
 topics:
 - Health Care
 - Mental Health & Counseling
-images: []
 ---
 
 Tina McDonough founded the non-profit Valley Girls & Guys after losing a close friend to cancer in 2007, aiming to support cancer patients and their families. The organization has built a compassionate community of survivors, caregivers, and supporters, significantly impacting local cancer care. In January 2024, the new Infusion & Immunotherapy Center was named in her honor, recognizing the group's dedication to improving cancer treatment experiences. Tina's personal journey, particularly her mother’s cancer experience in 2020, fueled her commitment to ease the burdens faced by families navigating treatment. Valley Girls & Guys has raised over $2.7 million to enhance patient care at the new Cancer Center, including funding for vital resources like the HOPE Patient Assistance Fund and life-saving mammograms. Their initiatives, such as the annual Be the Hope Walk, unite the community in support of those affected by cancer. Tina’s efforts have earned her national recognition, yet she remains focused on her local community, emphasizing the importance of support and compassion in fostering hope and healing. Her message, encapsulated in #BeTheHopeXOXO, inspires collective action to improve lives and transform cancer care.

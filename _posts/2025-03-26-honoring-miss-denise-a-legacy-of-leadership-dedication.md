@@ -1,8 +1,7 @@
 ---
-title: 'Honoring Miss Denise: A Legacy of Leadership & Dedication'
 date: '2025-03-26T20:12:52+00:00'
-source: Boys & Girls Clubs of King County
-source_url: https://positiveplace.org/honoring-miss-denise-a-legacy-of-leadership-dedication/
+images:
+- 90d15bc25f771b27d57ac42353e741a78166d7714438a974ba3275c46b1f2b27
 original_content: |-
   <p>As we celebrate Women’s History Month, we recognize the incredible women who have shaped the Boys &amp; Girls Clubs of King County; few people have more history than Denise Overton-Lewis. With 40 years of service to the Clubs leads with passion, touching the lives of countless youth, families, and staff members.</p>
   <p>When she first walked into a Boys &amp; Girls Club, Denise knew she had found her second home. <em>“The staff, Club members, and volunteers felt like one big family,”</em> she reflects. <em>“I bleed Boys &amp; Girls Club through and through. The mission, the values of leadership, character building, compassion, and inclusiveness—I wouldn’t change this journey for the world.”</em></p>
@@ -34,11 +33,12 @@ original_markdown_body: |-
   ![](https://positiveplace.org/wp-content/uploads/2025/03/Celebrating-Ms-Denise-1-300x300.png)
 
   The post [Honoring&nbsp;Miss&nbsp;Denise: A Legacy of Leadership & Dedication](https://positiveplace.org/honoring-miss-denise-a-legacy-of-leadership-dedication/) appeared first on [Boys & Girls Clubs](https://positiveplace.org).
+source: Boys & Girls Clubs of King County
+source_url: https://positiveplace.org/honoring-miss-denise-a-legacy-of-leadership-dedication/
 summarized: true
+title: 'Honoring Miss Denise: A Legacy of Leadership & Dedication'
 topics:
 - Education & Learning
-images:
-- 90d15bc25f771b27d57ac42353e741a78166d7714438a974ba3275c46b1f2b27
 ---
 
 As part of Women’s History Month, the Boys & Girls Clubs of King County honors Denise Overton-Lewis for her remarkable 40 years of dedicated service. Denise considers the Clubs her second home, describing the community as a family. Her commitment to leadership, character building, and inclusiveness has profoundly impacted youth, families, and staff alike. Area Director Kendrick Davis highlights Denise's passion and unwavering support for countless individuals, while Education Director Are’onna Williams praises her caring nature and reliability. Denise's leadership fosters a culture of empowerment, focusing on mentorship, celebrating achievements, and providing staff with a voice. Her approach blends strength and gentleness, making her a cherished figure among her colleagues. As she approaches retirement, Denise plans to continue her legacy by mentoring future leaders and giving back to the community she loves. Her enduring impact exemplifies resilience, dedication, and a deep commitment to the mission of the Boys & Girls Clubs, ensuring her influence will resonate for years to come. The community expresses gratitude for her heartwarming leadership and the love she has shared throughout her journey.

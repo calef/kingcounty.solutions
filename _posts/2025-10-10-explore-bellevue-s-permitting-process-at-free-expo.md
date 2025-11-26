@@ -1,8 +1,6 @@
 ---
-title: Explore Bellevue’s permitting process at free expo
 date: '2025-10-10T16:31:28+00:00'
-source: City of Bellevue
-source_url: https://bellevuewa.gov/city-news/permitting-expo-25
+images: []
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Explore
   Bellevue’s permitting process at free expo</span>\n<span class=\"field field--name-uid
   field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"
@@ -63,10 +61,12 @@ original_markdown_body: |-
   City Hall is accessible by light rail, walking or rolling, and free visitor parking is available. [Registration](https://www.eventbrite.com/e/bellevue-residential-permitting-expo-tickets-1685559787699) is encouraged, but not required.&nbsp;
 
   <time datetime="2025-10-10T12:00:00Z" class="datetime">October 10 2025</time>
-summarized: true
-topics: []
 published: false
-images: []
+source: City of Bellevue
+source_url: https://bellevuewa.gov/city-news/permitting-expo-25
+summarized: true
+title: Explore Bellevue’s permitting process at free expo
+topics: []
 ---
 
 Community members are invited to the Residential Permitting Expo hosted by the City of Bellevue on Saturday, October 25, from 10 a.m. to 1 p.m. at City Hall. This free, family-friendly event aims to educate attendees about the permitting process, including remodels, additions, and accessory dwelling units (ADUs). Participants can engage with city experts, ask questions, and receive practical guidance on topics such as code updates, permit reviews, and inspections.

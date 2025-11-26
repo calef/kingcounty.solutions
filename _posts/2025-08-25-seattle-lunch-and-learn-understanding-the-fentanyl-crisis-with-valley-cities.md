@@ -1,8 +1,6 @@
 ---
-title: 'Seattle Lunch and Learn: Understanding the fentanyl crisis with Valley Cities'
 date: '2025-08-25T20:39:49+00:00'
-source: Valley Cities Behavioral Health Care
-source_url: https://valleycities.org/seattle-lunch-and-learn-understanding-the-fentanyl-crisis-with-valley-cities/
+images: []
 original_content: |-
   <p>As seen in Seattle Weekly.</p>
   <p>The fentanyl crisis continues to impact families and communities across the Seattle area and throughout King County. To shed light on this growing community crisis, <a href="https://valleycities.org/" target="_blank" rel="nofollow noopener" data-mrf-link="https://valleycities.org/">Valley Cities Behavioral Health Care</a> is hosting a <a href="https://www.eventbrite.com/e/lunch-and-learn-valley-cities-behavioral-health-care-tickets-1608058950609?aff=oddtdtcreator" target="_blank" rel="nofollow noopener" data-mrf-link="https://www.eventbrite.com/e/lunch-and-learn-valley-cities-behavioral-health-care-tickets-1608058950609?aff=oddtdtcreator"><strong>Lunch &amp; Learn at the World Trade Center Seattle</strong></a> on Wednesday, Sept. 24, from 11 a.m. to 12:15 p.m.</p>
@@ -69,10 +67,12 @@ original_markdown_body: |-
   _If you or someone you know is currently struggling with mental health and/or addiction, contact the Valley Cities team by phone at 253-833-7444 or in person at your local Valley Cities location. You can also call the 24 hour crisis line at 206-461-3222 or toll free at 866-427-4747._
 
   The post [Seattle Lunch and Learn: Understanding the fentanyl crisis with Valley Cities](https://valleycities.org/seattle-lunch-and-learn-understanding-the-fentanyl-crisis-with-valley-cities/) appeared first on [Valley Cities Behavioral Health Care](https://valleycities.org).
+source: Valley Cities Behavioral Health Care
+source_url: https://valleycities.org/seattle-lunch-and-learn-understanding-the-fentanyl-crisis-with-valley-cities/
 summarized: true
+title: 'Seattle Lunch and Learn: Understanding the fentanyl crisis with Valley Cities'
 topics:
 - Mental Health & Counseling
-images: []
 ---
 
 Valley Cities Behavioral Health Care is hosting a Lunch & Learn event on September 24 at the World Trade Center Seattle, focusing on the fentanyl crisis affecting King County. The event aims to provide insights from clinical leaders about the realities of treatment and recovery. Presenters from Recovery Place Seattle and Recovery Place Kent will share their experiences, highlighting both the challenges and potential for community support in addressing this crisis. The session encourages open dialogue, with time allocated for audience questions, and is limited to 15 attendees. Tickets are free and available on a first-come, first-served basis. Lunch will be provided for a fee of $24, which includes a beverage, starter, and entrée, along with complimentary valet parking. Valley Cities emphasizes the importance of community involvement in combating the crisis and encourages attendees to share knowledge and connect others to resources. Those in need of support can reach out to Valley Cities for mental health and addiction services.

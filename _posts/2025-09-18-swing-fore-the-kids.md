@@ -1,8 +1,6 @@
 ---
-title: "“Swing Fore the Kids”"
 date: '2025-09-18T17:27:10+00:00'
-source: Boyer Children's Clinic
-source_url: https://www.boyercc.org/events/golf-tournament-2026/
+images: []
 original_content: "<div  class=\"wpb_row vc_row vc_row-fluid  mk-fullwidth-false  attched-false
   \    js-master-row \">\n\t\t\n\t\t\t\n<div style=\"\" class=\"vc_col-sm-12 wpb_column
   column_container  _ height-full\">\n\t\n<div id=\"text-block-5\" class=\"mk-text-block
@@ -91,10 +89,12 @@ original_markdown_body: "Join us for the **inaugural “Swing Fore the Kids” G
   first appeared on [Boyer Children's Clinic](https://www.boyercc.org).\n\nThe post
   [“Swing Fore the Kids”](https://www.boyercc.org/events/golf-tournament-2026/) appeared
   first on [Boyer Children's Clinic](https://www.boyercc.org)."
+source: Boyer Children's Clinic
+source_url: https://www.boyercc.org/events/golf-tournament-2026/
 summarized: true
+title: "“Swing Fore the Kids”"
 topics:
 - Disabilities
-images: []
 ---
 
 Join the inaugural "Swing Fore the Kids" Golf Outing benefiting Boyer Children's Clinic from June 18-20, 2026, at the Pronghorn Golf Club in Bend, Oregon. This exclusive three-day event includes four rounds of championship golf on the Tom Fazio Championship Course and the Jack Nicklaus Signature Course, offering a premium golf experience alongside luxury accommodations. Participants can enjoy a weekend of camaraderie and community while supporting Boyer's mission to aid children and families in need.

@@ -1,8 +1,6 @@
 ---
-title: My cycling romance
 date: '2025-05-12T20:28:30+00:00'
-source: Bike Works
-source_url: https://bikeworks.org/my-cycling-romance/?utm_source=rss&utm_medium=rss&utm_campaign=my-cycling-romance
+images: []
 original_content: |-
   <p>by Antonio Zebedeo-Abad</p>
 
@@ -110,11 +108,131 @@ original_content: |-
 
   <p>Please open the link to the pictures: <a href="https://photos.app.goo.gl/3kaw5qihxJ3RHcmp8">My Cycling Romance</a></p>
   <p>The post <a href="https://bikeworks.org/my-cycling-romance/">My cycling romance</a> appeared first on <a href="https://bikeworks.org">Bike Works</a>.</p>
-original_markdown_body: "by Antonio Zebedeo-Abad\n\nI love my bicycle, but that’s not the same as saying I’m in love with my bicycle. I use things and love people, not the other way around. Now that I’ve mentioned that noun to clarify what it means, I can say bike here, which implies a bicycle, not a motorcycle. I don’t baby it, wiping every dirt that comes upon it, or adjusting the mechanisms to the nth degree. I have also only had one bike at a time, not several. Having a bicycle frees me from many travel constraints, although it can also present travel challenges with multi-modal transportation.\n\n![](https://i0.wp.com/bikeworks.org/wp-content/uploads/2025/05/PXL_20230523_105211397.jpg?resize=625%2C352&ssl=1)\n\n# My Bikes Through My Life\n\nI’ve biked practically all my life, starting with a toddler tricycle. Then, I had a kid’s single-speed bike that I learned to balance in the late ’60s. It had a spring-loaded leather saddle, which was standard at that time, and a handlebar basket, handy for all the things I needed to carry.&nbsp;\n\nIn my teens, I had a stylish teen bike with raised handlebars. After graduating from college, I bought a 12-speed road bike with drop handlebars for commuting when I started working. With a young family, I had a tandem bike to take Jim along behind me.\n\n> “My lifetime bike is a [Bike Friday Pocket Llama](https://www.bikeradar.com/reviews/bikes/folding-bikes/bike-friday-pocket-llama-review) built for a lifetime of rugged touring and travel, which I bought reconditioned by Bike Works.”&nbsp;\n> \n> <cite> Antonio Zebedeo-Abad</cite>\n\nI was saving up for a new Bike Friday when my son Jim brought the reconditioned Bike Friday Pocket Llama at Bike Works to my attention, and I saved over $1,000 over the price of a new model. It was a slightly bigger frame for both of us, but he compensated with a Surly Moloko handlebar that raked further back. While I was still working, I rode it around town. Later, I wanted to add a pedal-assist motor for touring on hilly terrain. I sent it to Bike Friday for the motor conversion. They changed the gearing to suit the pedal-assist, and I ordered the touring package, a Samsonite suitcase that converted to a trailer. Bike Friday doesn’t have a fold that is as convenient and elegant as Brompton, but they build bikes with larger 20” wheels for touring and have the only travel system suitcase and the only traveling e-bike batteries..\n\n# Cycling Lifestyle\n\nWe’re a cycling family. Jim’s older brother Gus cycled self-supported from Washington State to Maine in 110 days, solo for half the trip. Jim had entered a 24-hour race alone and continues to race regularly on the gravel circuits. They had cycled multiple times from Seattle to San Diego and led groups from Seattle to Portland. I said that when I go cycle touring, it will be Dad-style. Ride around town, put the bike on a train, ride around the next city, and repeat. Seriously, I save my energy for choice activities. It’s a personal choice. I see no point in biking endless stretches of road or hills for miles just to get from one place to another.\n\nBicycle use has grown tremendously, especially during the COVID-19 Pandemic, when public transportation was shut down. People get healthier with activity, less noise, and less pollution from less motorized vehicle use, lessening our need for fossil fuels. As much as possible, I plan my life around getting around on the bike, placing myself within biking distance of where I regularly go, and using multi-modal transport as needed.\n\nIn 2015, after our two-week group pilgrimage to Saint Teresa sites in Spain, I made my own eight-day pilgrimage and rented a car. Even in the smaller cities, parking was horrendously difficult to find, one time taking an hour and a half! The next day, I left the car parked and rented a bike to get around town. So, I learned that a good way to travel around Europe is to use extensive and efficient public transport and connect the transport lines with a bike.\n\nI also lived in many places in the USA for forty years. When I lived full-time in a motorhome, I had my Bike Friday folded in the cargo compartment. I park the rig in a campsite close to town, then use the bike for local transportation and carrying groceries in pannier bags. That way, I don’t have to drive the rig around and keep on disconnecting and connecting the electric, water, and sewer lines. Many senior RVers opt instead for electric scooters. But I like to stay active in my ‘60s and beyond. I still swim long-distance in open water, being a Red Cross Certified Lifeguard and an active sailor. Biking and hiking around the Arizona-Utah deserts, I have well-developed leg muscles and a gorgeous, desert golden tan that even young guys envy.\n\n# Planning the Pilgrimage to Spain\n\nI was born and raised in the Philippines, which was under Spanish rule for 330 years, then under the USA for 48 years. I really wanted to visit Spain to experience the roots of our culture, seek our ancestry, and trace the Medieval Period paths of the Carmelite Saints Teresa of Jesus STJ and John of the Cross SJC.&nbsp;\n\nWe planned a lot of enhancements to the bike for the tour, such as bags, a spring-loaded seatpost, a bike computer, rear-facing radar, etc. I worked with the local bike shop to determine what spare parts I should bring, just to get me to the nearest bike shop if I’m stuck in a remote area. I secured spare parts for my trailer from the hardware store. Finally, I only had recreational apparel. I needed apparel to protect me in 3-season weather conditions, including storms.\n\nAs a landscape photographer, I really wanted to photograph the northern coast. But that is also part of the Camino del Norte to Santiago, so I made that part of my itinerary. My paternal heritage is from the Basque Country in the north, so I started that section from San Sebastián, where there is a concentration of ancestral family. My maternal heritage is from the historic town of Lugo (Luke) in Galicia, so I switched from the Camino del Norte at Vilalba to the Primitivo route at Lugo, staying for three nights to savor the cuisine, culture, museums, and just being there.\n\nMy knees are certainly not up to doing a pilgrimage on foot. Being on foot also gets you acquainted with all kinds of people whom you may or may not like. This was intended to be a 90-day extended pilgrimage and silent retreat. Riding solo on the bike gives me that solitude. The provincial buses will take me through the highway routes in air-conditioned comfort. Being on a bike takes me through ancient rural roads where SJC actually traveled through and savor the scent of the olive plantations just as SJC experienced. And having a bike makes interesting side-trips much more convenient.\n\nI inquired about renting a bike, but they had a two-week limit for the Camino, and they did not allow switching routes. That means I had to do 80-120 km (50-75 m) per day. I wasn’t physically capable of covering that distance in very hilly terrain, and besides, I wanted to take my time taking photos. I found that my comfortable distance in very hilly terrain is 30 km (20 m), and flat terrain is about 80-100 km (50-60 m). I find that the time estimate of RideWithGPS is very accurate, and for me, I multiply the time estimate by 2 to account for catching my breath and taking pictures.\n\nI used RideWithGPS for route planning on my phone and downloaded the route to my Wahoo computer. RideWithGPS, when set to bike mode, can take you through mountain bike routes that can be very muddy, so I learned to switch between automobile and bike mode to find my best route. I also had to specify highways, or it would take me through extremely hilly rural roads that required pushing the bike with a trailer. I only went through the rural roads if something was interesting there. There is an official bike route for the popular route Camino Francés, but not for the other routes. The hiking route is unsuitable, as there are places where you would have to carry the bike over some rocky passes, or the route enters a one-way street.\n\nI was in Spain for three months, following the spring weather from south to north. In late March, I started in the Andalucía region in the south through Granada, Córdoba, Sevilla, and other small cities. I then went to Málaga to follow the Mediterranean coast through Murcia, Valencia, and Barcelona. I went inland to Zaragoza in Aragón and Pamplona in Navarra. I stayed in San Sebastián on the northern coast for a week of beautiful weather to prepare for the Camino del Norte and Primitivo and visit our ancestral family. I started the Camino in cold, stormy weather on May 9th, traveling through the Basque Country, Cantábria, Asturias, and Galicia, finishing at the shores of Muxía on June 2nd. I then took an 8-hour bus ride to Castile, visited various cities there, and finally went to Madrid. I departed in late June as the hot weather was settling in.\n\n![](https://i0.wp.com/bikeworks.org/wp-content/uploads/2025/05/PXL_20230601_151244004.jpg?resize=403%2C716&ssl=1)\n\n# Future Plans\n\nTaking a bike by air is a significant and expensive undertaking. Now that I’m in the Philippines, I’m limiting myself to places I can reach by land and sea. Next time, I would consider renting a bike in each city on the tour, especially in several countries in South America. I ride my bike daily. It keeps my large leg muscles pumping and burning calories. With my all-weather apparel, I no longer have any excuse for foul weather, except winter. I’ll keep riding my bike until I am no longer physically capable. Thanks to my son Jim for all his support and encouragement for my tour, and for him and Rod encouraging me to share a part of my cycling story with Bike Works.\n\nPlease open the link to the pictures: [My Cycling Romance](https://photos.app.goo.gl/3kaw5qihxJ3RHcmp8)\n\nThe post [My cycling romance](https://bikeworks.org/my-cycling-romance/) appeared first on [Bike Works](https://bikeworks.org)."
-summarized: true
-topics: []
+original_markdown_body: "by Antonio Zebedeo-Abad\n\nI love my bicycle, but that’s
+  not the same as saying I’m in love with my bicycle. I use things and love people,
+  not the other way around. Now that I’ve mentioned that noun to clarify what it means,
+  I can say bike here, which implies a bicycle, not a motorcycle. I don’t baby it,
+  wiping every dirt that comes upon it, or adjusting the mechanisms to the nth degree.
+  I have also only had one bike at a time, not several. Having a bicycle frees me
+  from many travel constraints, although it can also present travel challenges with
+  multi-modal transportation.\n\n![](https://i0.wp.com/bikeworks.org/wp-content/uploads/2025/05/PXL_20230523_105211397.jpg?resize=625%2C352&ssl=1)\n\n#
+  My Bikes Through My Life\n\nI’ve biked practically all my life, starting with a
+  toddler tricycle. Then, I had a kid’s single-speed bike that I learned to balance
+  in the late ’60s. It had a spring-loaded leather saddle, which was standard at that
+  time, and a handlebar basket, handy for all the things I needed to carry.&nbsp;\n\nIn
+  my teens, I had a stylish teen bike with raised handlebars. After graduating from
+  college, I bought a 12-speed road bike with drop handlebars for commuting when I
+  started working. With a young family, I had a tandem bike to take Jim along behind
+  me.\n\n> “My lifetime bike is a [Bike Friday Pocket Llama](https://www.bikeradar.com/reviews/bikes/folding-bikes/bike-friday-pocket-llama-review)
+  built for a lifetime of rugged touring and travel, which I bought reconditioned
+  by Bike Works.”&nbsp;\n> \n> <cite> Antonio Zebedeo-Abad</cite>\n\nI was saving
+  up for a new Bike Friday when my son Jim brought the reconditioned Bike Friday Pocket
+  Llama at Bike Works to my attention, and I saved over $1,000 over the price of a
+  new model. It was a slightly bigger frame for both of us, but he compensated with
+  a Surly Moloko handlebar that raked further back. While I was still working, I rode
+  it around town. Later, I wanted to add a pedal-assist motor for touring on hilly
+  terrain. I sent it to Bike Friday for the motor conversion. They changed the gearing
+  to suit the pedal-assist, and I ordered the touring package, a Samsonite suitcase
+  that converted to a trailer. Bike Friday doesn’t have a fold that is as convenient
+  and elegant as Brompton, but they build bikes with larger 20” wheels for touring
+  and have the only travel system suitcase and the only traveling e-bike batteries..\n\n#
+  Cycling Lifestyle\n\nWe’re a cycling family. Jim’s older brother Gus cycled self-supported
+  from Washington State to Maine in 110 days, solo for half the trip. Jim had entered
+  a 24-hour race alone and continues to race regularly on the gravel circuits. They
+  had cycled multiple times from Seattle to San Diego and led groups from Seattle
+  to Portland. I said that when I go cycle touring, it will be Dad-style. Ride around
+  town, put the bike on a train, ride around the next city, and repeat. Seriously,
+  I save my energy for choice activities. It’s a personal choice. I see no point in
+  biking endless stretches of road or hills for miles just to get from one place to
+  another.\n\nBicycle use has grown tremendously, especially during the COVID-19 Pandemic,
+  when public transportation was shut down. People get healthier with activity, less
+  noise, and less pollution from less motorized vehicle use, lessening our need for
+  fossil fuels. As much as possible, I plan my life around getting around on the bike,
+  placing myself within biking distance of where I regularly go, and using multi-modal
+  transport as needed.\n\nIn 2015, after our two-week group pilgrimage to Saint Teresa
+  sites in Spain, I made my own eight-day pilgrimage and rented a car. Even in the
+  smaller cities, parking was horrendously difficult to find, one time taking an hour
+  and a half! The next day, I left the car parked and rented a bike to get around
+  town. So, I learned that a good way to travel around Europe is to use extensive
+  and efficient public transport and connect the transport lines with a bike.\n\nI
+  also lived in many places in the USA for forty years. When I lived full-time in
+  a motorhome, I had my Bike Friday folded in the cargo compartment. I park the rig
+  in a campsite close to town, then use the bike for local transportation and carrying
+  groceries in pannier bags. That way, I don’t have to drive the rig around and keep
+  on disconnecting and connecting the electric, water, and sewer lines. Many senior
+  RVers opt instead for electric scooters. But I like to stay active in my ‘60s and
+  beyond. I still swim long-distance in open water, being a Red Cross Certified Lifeguard
+  and an active sailor. Biking and hiking around the Arizona-Utah deserts, I have
+  well-developed leg muscles and a gorgeous, desert golden tan that even young guys
+  envy.\n\n# Planning the Pilgrimage to Spain\n\nI was born and raised in the Philippines,
+  which was under Spanish rule for 330 years, then under the USA for 48 years. I really
+  wanted to visit Spain to experience the roots of our culture, seek our ancestry,
+  and trace the Medieval Period paths of the Carmelite Saints Teresa of Jesus STJ
+  and John of the Cross SJC.&nbsp;\n\nWe planned a lot of enhancements to the bike
+  for the tour, such as bags, a spring-loaded seatpost, a bike computer, rear-facing
+  radar, etc. I worked with the local bike shop to determine what spare parts I should
+  bring, just to get me to the nearest bike shop if I’m stuck in a remote area. I
+  secured spare parts for my trailer from the hardware store. Finally, I only had
+  recreational apparel. I needed apparel to protect me in 3-season weather conditions,
+  including storms.\n\nAs a landscape photographer, I really wanted to photograph
+  the northern coast. But that is also part of the Camino del Norte to Santiago, so
+  I made that part of my itinerary. My paternal heritage is from the Basque Country
+  in the north, so I started that section from San Sebastián, where there is a concentration
+  of ancestral family. My maternal heritage is from the historic town of Lugo (Luke)
+  in Galicia, so I switched from the Camino del Norte at Vilalba to the Primitivo
+  route at Lugo, staying for three nights to savor the cuisine, culture, museums,
+  and just being there.\n\nMy knees are certainly not up to doing a pilgrimage on
+  foot. Being on foot also gets you acquainted with all kinds of people whom you may
+  or may not like. This was intended to be a 90-day extended pilgrimage and silent
+  retreat. Riding solo on the bike gives me that solitude. The provincial buses will
+  take me through the highway routes in air-conditioned comfort. Being on a bike takes
+  me through ancient rural roads where SJC actually traveled through and savor the
+  scent of the olive plantations just as SJC experienced. And having a bike makes
+  interesting side-trips much more convenient.\n\nI inquired about renting a bike,
+  but they had a two-week limit for the Camino, and they did not allow switching routes.
+  That means I had to do 80-120 km (50-75 m) per day. I wasn’t physically capable
+  of covering that distance in very hilly terrain, and besides, I wanted to take my
+  time taking photos. I found that my comfortable distance in very hilly terrain is
+  30 km (20 m), and flat terrain is about 80-100 km (50-60 m). I find that the time
+  estimate of RideWithGPS is very accurate, and for me, I multiply the time estimate
+  by 2 to account for catching my breath and taking pictures.\n\nI used RideWithGPS
+  for route planning on my phone and downloaded the route to my Wahoo computer. RideWithGPS,
+  when set to bike mode, can take you through mountain bike routes that can be very
+  muddy, so I learned to switch between automobile and bike mode to find my best route.
+  I also had to specify highways, or it would take me through extremely hilly rural
+  roads that required pushing the bike with a trailer. I only went through the rural
+  roads if something was interesting there. There is an official bike route for the
+  popular route Camino Francés, but not for the other routes. The hiking route is
+  unsuitable, as there are places where you would have to carry the bike over some
+  rocky passes, or the route enters a one-way street.\n\nI was in Spain for three
+  months, following the spring weather from south to north. In late March, I started
+  in the Andalucía region in the south through Granada, Córdoba, Sevilla, and other
+  small cities. I then went to Málaga to follow the Mediterranean coast through Murcia,
+  Valencia, and Barcelona. I went inland to Zaragoza in Aragón and Pamplona in Navarra.
+  I stayed in San Sebastián on the northern coast for a week of beautiful weather
+  to prepare for the Camino del Norte and Primitivo and visit our ancestral family.
+  I started the Camino in cold, stormy weather on May 9th, traveling through the Basque
+  Country, Cantábria, Asturias, and Galicia, finishing at the shores of Muxía on June
+  2nd. I then took an 8-hour bus ride to Castile, visited various cities there, and
+  finally went to Madrid. I departed in late June as the hot weather was settling
+  in.\n\n![](https://i0.wp.com/bikeworks.org/wp-content/uploads/2025/05/PXL_20230601_151244004.jpg?resize=403%2C716&ssl=1)\n\n#
+  Future Plans\n\nTaking a bike by air is a significant and expensive undertaking.
+  Now that I’m in the Philippines, I’m limiting myself to places I can reach by land
+  and sea. Next time, I would consider renting a bike in each city on the tour, especially
+  in several countries in South America. I ride my bike daily. It keeps my large leg
+  muscles pumping and burning calories. With my all-weather apparel, I no longer have
+  any excuse for foul weather, except winter. I’ll keep riding my bike until I am
+  no longer physically capable. Thanks to my son Jim for all his support and encouragement
+  for my tour, and for him and Rod encouraging me to share a part of my cycling story
+  with Bike Works.\n\nPlease open the link to the pictures: [My Cycling Romance](https://photos.app.goo.gl/3kaw5qihxJ3RHcmp8)\n\nThe
+  post [My cycling romance](https://bikeworks.org/my-cycling-romance/) appeared first
+  on [Bike Works](https://bikeworks.org)."
 published: false
-images: []
+source: Bike Works
+source_url: https://bikeworks.org/my-cycling-romance/?utm_source=rss&utm_medium=rss&utm_campaign=my-cycling-romance
+summarized: true
+title: My cycling romance
+topics: []
 ---
 
 Antonio Zebedeo-Abad shares his lifelong relationship with cycling, highlighting the practical and personal benefits of biking. He recalls his journey from riding a toddler tricycle to owning various bikes, ultimately settling on a Bike Friday Pocket Llama, which he customized for touring. His cycling lifestyle is a family affair, with his children also engaging in long-distance cycling adventures. 

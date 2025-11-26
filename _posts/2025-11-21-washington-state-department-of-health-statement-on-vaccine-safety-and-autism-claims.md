@@ -1,8 +1,6 @@
 ---
-title: Washington State Department of Health statement on vaccine safety and autism claims
 date: '2025-11-21T16:54:13+00:00'
-source: Department of Health
-source_url: https://doh.wa.gov/newsroom/washington-state-department-health-statement-vaccine-safety-and-autism-claims
+images: []
 original_content: |-
   <span class="field field--name-title field--type-string field--label-hidden">Washington State Department of Health statement on vaccine safety and autism claims</span>
 
@@ -58,10 +56,13 @@ original_markdown_body: |-
   Our&nbsp;[website](https://www.doh.wa.gov/)&nbsp;is your source for a healthy dose of information. Get updates by following us on&nbsp;[social media](https://doh.wa.gov/about-us/contact-us/social-media).
 
   ###
+source: Department of Health
+source_url: https://doh.wa.gov/newsroom/washington-state-department-health-statement-vaccine-safety-and-autism-claims
 summarized: true
+title: Washington State Department of Health statement on vaccine safety and autism
+  claims
 topics:
 - Health Care
-images: []
 ---
 
 The Washington State Department of Health (DOH) emphasizes the importance of vaccines as a vital tool for public health. It asserts that there is no credible scientific evidence linking vaccines to autism, aligning with national health organizations such as the American Academy of Pediatrics and the Autism Science Foundation. Extensive research has consistently shown no connection between vaccination and an increased risk of autism, a complex condition influenced by various genetic and environmental factors. Misattributing autism to vaccinations is described as inaccurate and misleading. Vaccines undergo thorough testing and are recognized as one of the greatest public health achievements, having saved millions of lives and preventing diseases and disabilities. Misinformation linking vaccines to autism can undermine public trust, lower immunization rates, and lead to outbreaks of vaccine-preventable diseases. The DOH encourages Washington residents to adhere to recommended vaccination schedules and consult healthcare providers with any questions or concerns. They also promote their website and social media channels as resources for reliable health information.

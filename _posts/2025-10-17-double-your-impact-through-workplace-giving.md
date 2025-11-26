@@ -1,8 +1,7 @@
 ---
-title: Double Your Impact Through Workplace Giving!
 date: '2025-10-17T21:13:03+00:00'
-source: BrightSpark
-source_url: https://www.brightspark.org/2025/10/double-your-impact-through-workplace-giving/
+images:
+- b39ca577375854575f6d3e201b3ab878451a24c67f882ad43131b497457c7c6f
 original_content: |-
   <div class="wp-block-uagb-image uagb-block-db8ab62f wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure class="wp-block-uagb-image__figure"><img decoding="async" src="https://www.brightspark.org/wp-content/uploads/2025/10/Fund-Dev-Newsletter-Banners-4-1.png" alt="" class="uag-image-9367" width="768" height="256" title="Fund Dev Newsletter Banners (4)" loading="lazy" role="img" /></figure></div>
 
@@ -86,11 +85,12 @@ original_markdown_body: "![](https://www.brightspark.org/wp-content/uploads/2025
   photos on this email are credited to ©LisaBontjePhotography_\n\nThe post [Double
   Your Impact Through Workplace Giving!](https://www.brightspark.org/2025/10/double-your-impact-through-workplace-giving/)
   appeared first on [BrightSpark](https://www.brightspark.org)."
+source: BrightSpark
+source_url: https://www.brightspark.org/2025/10/double-your-impact-through-workplace-giving/
 summarized: true
+title: Double Your Impact Through Workplace Giving!
 topics:
 - Education & Learning
-images:
-- b39ca577375854575f6d3e201b3ab878451a24c67f882ad43131b497457c7c6f
 ---
 
 Many employers offer matching gift programs or workplace giving options that can double your donations to BrightSpark, benefiting children, families, and early learning providers in King and Pierce Counties. By donating through your company's giving platform or requesting a match after your contribution, you significantly enhance your support. Workplace giving not only simplifies the donation process but also provides a sustainable funding source for BrightSpark's efforts in improving access, quality, and advocacy in early learning. To participate, check with your HR department to see if your employer provides matching gifts or payroll giving options, and designate BrightSpark Early Learning Services (EIN: 94-1465046) as your nonprofit of choice. BrightSpark accepts various donation methods, including cash, credit cards, fund transfers, checks, money orders, stocks, bonds, and donor-advised funds. For more information about giving options, you can contact their fund development department. Together, we can reinforce child-centered, antiracist early learning initiatives in our community.

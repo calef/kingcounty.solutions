@@ -1,8 +1,6 @@
 ---
-title: 'DBT Skill Spotlight: Mindfulness for Depression Treatment'
 date: '2025-01-10T01:59:31+00:00'
-source: THIRA Health
-source_url: https://thirahealth.com/2025/01/10/dbt-skill-spotlight-mindfulness-for-depression-treatment/?utm_source=rss&utm_medium=rss&utm_campaign=dbt-skill-spotlight-mindfulness-for-depression-treatment
+images: []
 original_content: |-
   <p>Depression is a tough mental health condition with a variety of unpleasant symptoms that disrupt everyday life. <a href="https://www.nimh.nih.gov/health/topics/depression#:~:text=Depression%20(also%20known%20as%20major,during%20the%20spring%20and%20summer." target="_blank" rel="noopener">People with depression</a> may deal with deep sadness and negative thought patterns, irritability or anger, disinterest in things they previously enjoyed, feelings of hopelessness, changes in sleeping and eating, physical pains, brain fog, and more. Reading that list, you can see why people reach out for help when they’re struggling with depression.</p>
   <p>Thankfully, depression is treatable, even when you may feel like it’s hopeless and there’s no point in trying. That hopelessness is depression talking, and starting a holistic intensive <a href="https://thirahealth.com/depression-treatment/">depression treatment</a> program can help muffle that unsettling voice of depression and give you back your life.</p>
@@ -102,10 +100,12 @@ original_markdown_body: |-
   Mindfulness is just one of four DBT skill sets that can help with depression, along with emotional regulation, distress tolerance, and interpersonal effectiveness. [While you can gain some benefit](https://thirahealth.com/2024/03/19/is-it-possible-to-learn-dbt-skills-independently-or-is-professional-guidance-necessary/) from practicing DBT skills on your own, it’s worth investing in to work with a trained DBT practitioner to get the most out of the process. A trained DBT therapist can help you gain more from each skill you practice and can help you process difficult life experiences that lie at the root of your mental health challenges.
 
   [DBT programs have been proven](https://www.yalemedicine.org/conditions/dialectical-behavior-therapy-dbt#:~:text=Research%20has%20shown%20significant%20improvements,often%20see%20the%20most%20benefit.) to help with depression by helping people manage their symptoms and develop an approach to life that supports them instead of hindering them. When you look for an intensive depression treatment program, look for one that [integrates all aspects of DBT](https://thirahealth.com/2023/02/15/dbt-and-the-treatment-of-depression-a-guide/), including individual therapy, group therapy, DBT skills practice, and on-call therapist support. THIRA Health uses DBT as a cornerstone of our holistic intensive depression treatment approach, and we welcome you to [get in touch with us](https://thirahealth.com/contact/) to learn more about how we can help you get started on a life worth living.
+source: THIRA Health
+source_url: https://thirahealth.com/2025/01/10/dbt-skill-spotlight-mindfulness-for-depression-treatment/?utm_source=rss&utm_medium=rss&utm_campaign=dbt-skill-spotlight-mindfulness-for-depression-treatment
 summarized: true
+title: 'DBT Skill Spotlight: Mindfulness for Depression Treatment'
 topics:
 - Mental Health & Counseling
-images: []
 ---
 
 Depression presents various challenging symptoms like sadness, irritability, and feelings of hopelessness. It can disrupt daily life, but treatment is possible. Mindfulness, a key focus in Dialectical Behavior Therapy (DBT), has been shown to alleviate symptoms such as negative thinking and difficult emotions. Mindfulness encourages individuals to stay present and observe their thoughts and emotions without judgment, allowing them to experience their feelings without becoming overwhelmed.

@@ -1,9 +1,7 @@
 ---
-title: 'Strollin’ Through the Colon: Outreach Event Showcases Importance of Colon
-  Health'
 date: '2025-01-02T23:07:43+00:00'
-source: Hospital District No. 1 (Valley Medical Center)
-source_url: https://blog.valleymed.org/2025/01/02/strollin-through-the-colon-outreach-event-showcases-importance-of-colon-health/?utm_source=rss&utm_medium=rss&utm_campaign=strollin-through-the-colon-outreach-event-showcases-importance-of-colon-health
+images:
+- b42b1b7b58c9684fcffa44c7625774c3ca75f2bade6c8807558dbc1cc8a5e87d
 original_content: |-
   <p><img width="300" height="188" src="https://blog.valleymed.org/wp-content/uploads/2024/12/Dr.Roberts-StrollinColon-300x188.jpg" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://blog.valleymed.org/wp-content/uploads/2024/12/Dr.Roberts-StrollinColon-300x188.jpg 300w, https://blog.valleymed.org/wp-content/uploads/2024/12/Dr.Roberts-StrollinColon-768x480.jpg 768w, https://blog.valleymed.org/wp-content/uploads/2024/12/Dr.Roberts-StrollinColon-600x375.jpg 600w, https://blog.valleymed.org/wp-content/uploads/2024/12/Dr.Roberts-StrollinColon.jpg 800w" sizes="auto, (max-width: 300px) 100vw, 300px" /></p>
   <p>Staff and visitors to Valley got an immersive lesson on colorectal health in December, thanks to a stroll through a 20-foot inflatable colon.</p>
@@ -55,12 +53,14 @@ original_markdown_body: "![](https://blog.valleymed.org/wp-content/uploads/2024/
   at age 45. Learn more about screening colonoscopies at **[valleymed.org/colonoscopy](http://valleymed.org/colonoscopy?fbclid=IwZXh0bgNhZW0CMTAAAR3ceFg5-98l9pEhJvMf2LJIA96slSjxgRL1U326U0JoEBSE4SsISJFGVnY_aem_doGGxeD1OsjIlr0d95G8UQ).**\n\n![](http://blog.valleymed.org/wp-content/uploads/2024/12/StrollinColon-team.jpg)\n\n_Pictured
   at top: Joseph Roberts, MD, inside the Strollin’ Colon._  \n_Pictured above: Valley
   team members who supported the Strollin’ Colon event._"
+source: Hospital District No. 1 (Valley Medical Center)
+source_url: https://blog.valleymed.org/2025/01/02/strollin-through-the-colon-outreach-event-showcases-importance-of-colon-health/?utm_source=rss&utm_medium=rss&utm_campaign=strollin-through-the-colon-outreach-event-showcases-importance-of-colon-health
 summarized: true
+title: 'Strollin’ Through the Colon: Outreach Event Showcases Importance of Colon
+  Health'
 topics:
 - Health Care
 - Education & Learning
-images:
-- b42b1b7b58c9684fcffa44c7625774c3ca75f2bade6c8807558dbc1cc8a5e87d
 ---
 
 Staff and visitors at Valley Medical Center participated in an educational outreach event in December, featuring a 20-foot inflatable colon designed to promote awareness of colorectal health. In collaboration with Colon Cancer Stars, the immersive experience aimed to provide information on the importance of colon health and encourage discussions about screening options with healthcare professionals from Gastroenterology, Colorectal Surgery, and Medical Oncology. Dr. Joseph Roberts emphasized the event's goal of alleviating fears associated with colonoscopies by highlighting the advantages of early detection and polyp removal. The event also featured the LAUNCH program from the Lifestyle Medicine team, which focuses on safe exercise practices, alongside dietitian Natalia Zakharova sharing recipes rich in vegetables and whole grains. Colorectal cancer remains the second-leading cause of cancer-related deaths in the U.S., yet it is often preventable and treatable when detected early through screening. Current recommendations suggest that individuals at average risk should begin screening at age 45 to enhance early detection efforts.

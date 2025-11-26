@@ -1,8 +1,6 @@
 ---
-title: Works of Christmas
 date: '2024-12-28T00:56:46+00:00'
-source: First Church Seattle
-source_url: https://firstchurchseattle.org/work-of-christmas/
+images: []
 original_content: |-
   <p class="has-text-align-center"><strong>The Work of Christmas | Christmastide Season 2024-2025</strong></p>
 
@@ -322,7 +320,11 @@ original_markdown_body: |-
   **Action:** Consider participating in our First Church “in their own words” book study group, or get a group together to visit art exhibits that represent cultures other than your own, or attend an event held by Seattle Arts and Lectures to hear from artists, poets, and authors about their life experiences.
 
   The post [Works of Christmas](https://firstchurchseattle.org/work-of-christmas/) appeared first on [First Church Seattle](https://firstchurchseattle.org).
+published: false
+source: First Church Seattle
+source_url: https://firstchurchseattle.org/work-of-christmas/
 summarized: true
+title: Works of Christmas
 topics:
 - Disabilities
 - Domestic Violence
@@ -333,8 +335,6 @@ topics:
 - Personal & Household Needs
 - Shelter & Housing
 - Transportation & Mobility
-published: false
-images: []
 ---
 
 Christmastide, the season between Christmas and Epiphany, emphasizes the ongoing "Work of Christmas" inspired by Howard Thurman's words. This period invites reflection on the hope brought by Christ's birth, encouraging actions to care for the marginalized. Each day from December 25 to January 5, the First Church highlights various partner organizations, focusing on community service and advocacy.

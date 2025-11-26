@@ -1,9 +1,6 @@
 ---
-title: 'Community Hub: Free Summer Arts Activities & Therapy Resources for Seattle
-  Teens at Community Centers now through August 23! '
 date: '2025-07-24T00:50:25+00:00'
-source: Department of Education and Early Learning
-source_url: https://education.seattle.gov/?p=1390
+images: []
 original_content: '<img width="150" height="150" src="https://education.seattle.gov/wp-content/uploads/sites/27/2025/07/CH_web-header_FINAL-150x150.png"
   class="webfeedsFeaturedVisual wp-post-image" alt="Graphic of diverse teens standing
   together holding hands, with text that states &quot;Community Hub: We&#039;re healing
@@ -24,11 +21,14 @@ original_markdown_body: '![Graphic of diverse teens standing together holding ha
   From July 21 through August 23, 2025, Seattle youth and young adults ages 13 to
   19 can participate in Community Hub programs—a series of free, drop-in programming
   at 7 […]'
+source: Department of Education and Early Learning
+source_url: https://education.seattle.gov/?p=1390
 summarized: true
+title: 'Community Hub: Free Summer Arts Activities & Therapy Resources for Seattle
+  Teens at Community Centers now through August 23! '
 topics:
 - Mental Health & Counseling
 - Education & Learning
-images: []
 ---
 
 Free summer arts activities and mental health resources for Seattle teens are available at local community centers from July 21 to August 23, 2025, as part of Mayor Harrell’s Reach Out Initiative. Teens aged 13 to 19 can engage in Community Hub programs, featuring arts-based classes led by local teaching artists. Offered at seven citywide locations, these classes include various cultural arts opportunities such as dance, jewelry-making, and singing/songwriting.

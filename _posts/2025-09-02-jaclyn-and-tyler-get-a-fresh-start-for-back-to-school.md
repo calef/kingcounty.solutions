@@ -1,8 +1,7 @@
 ---
-title: Jaclyn and Tyler get a fresh start for back-to-school
 date: '2025-09-02T20:38:00+00:00'
-source: Mary's Place
-source_url: https://www.marysplaceseattle.org/blog/vn6buflo7xrt3qsqzpbu3idvdsbi8x
+images:
+- cfa117e2a26e7244cead9d863a59f13fa09efb5b50663ee56df7de0e0a60ed21
 original_content: "<p class=\"\">For weeks, Jaclyn and her son, Tyler, had been experiencing
   homelessness. The summer heat made every day unbearable - there was no escape from
   the sun, no cool place to rest, and no stability. </p><p class=\"\">When she reached
@@ -72,13 +71,14 @@ original_markdown_body: |-
   With your support, Mary’s Place is using an innovative three-pronged approach - shelter, outreach, and prevention - to end family homelessness, along with advocacy for policies that make housing, resources, and shelter space more equitable and accessible for families.
 
   [support our work!](https://give.marysplaceseattle.org/campaign/673342/donate?utm_source=website&utm_medium=blog&utm_campaign=blogs-public&c_src=blogs-public&c_src2=blog)
+source: Mary's Place
+source_url: https://www.marysplaceseattle.org/blog/vn6buflo7xrt3qsqzpbu3idvdsbi8x
 summarized: true
+title: Jaclyn and Tyler get a fresh start for back-to-school
 topics:
 - Shelter & Housing
 - Disabilities
 - Financial Assistance
-images:
-- cfa117e2a26e7244cead9d863a59f13fa09efb5b50663ee56df7de0e0a60ed21
 ---
 
 Jaclyn and her son, Tyler, recently overcame a challenging period of homelessness, exacerbated by the summer heat and lack of stability. After reaching out to Mary’s Place, they received dedicated support from an outreach specialist who helped them search for a safe home suitable for their family, including their two dogs. Despite Jaclyn's disability complicating the housing search, their persistence paid off when they found a pet-friendly apartment near Tyler's school just before the new school year started. Tyler is now enjoying his new space, complete with a kitchen table for homework and a bedroom for friends. While this success story highlights community generosity, the article emphasizes the ongoing housing crisis in King County, where nearly half of renter households are cost-burdened. Among low-income families, the situation is even more dire, with 70% paying over 30% of their income on housing. Unexpected expenses can easily destabilize these families. Mary’s Place is committed to ending family homelessness through a three-pronged approach of shelter, outreach, and prevention, along with advocating for equitable housing policies.

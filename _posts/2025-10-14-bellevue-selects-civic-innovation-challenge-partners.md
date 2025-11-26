@@ -1,8 +1,6 @@
 ---
-title: Bellevue selects Civic Innovation Challenge partners
 date: '2025-10-14T20:21:08+00:00'
-source: City of Bellevue
-source_url: https://bellevuewa.gov/city-news/innovation-challenge-partners
+images: []
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Bellevue
   selects Civic Innovation Challenge partners</span>\n<span class=\"field field--name-uid
   field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"
@@ -84,10 +82,12 @@ original_markdown_body: |-
   This month the City of Bellevue has adopted an updated AI policy, which establishes a governance framework for the ethical, transparent and responsible use of artificial intelligence. The policy outlines how AI systems will be evaluated, managed and implemented across city operations, with a strong emphasis on transparency, privacy, inclusion and innovation to ensure AI enhances public services while protecting community trust.&nbsp;
 
   <time datetime="2025-10-14T12:00:00Z" class="datetime">October 14 2025</time>
-summarized: true
-topics: []
 published: false
-images: []
+source: City of Bellevue
+source_url: https://bellevuewa.gov/city-news/innovation-challenge-partners
+summarized: true
+title: Bellevue selects Civic Innovation Challenge partners
+topics: []
 ---
 
 The City of Bellevue has chosen four technology innovators to participate in its Civic Innovation Challenge, aimed at developing AI solutions for municipal challenges. The selected partners are Certivo, Legislaide, Juganu, and FindIt, each piloting projects that will be tested in real-world environments at the city or Bellevue College. Certivo offers an AI platform for real-time vendor compliance monitoring. Legislaide employs AI to simplify legislative research by analyzing municipal codes and state statutes. Juganu's smart lighting system aims to enhance transportation and safety by monitoring curbside activity. FindIt, created by a local student, is an AI solution for efficiently locating lost items on campus.

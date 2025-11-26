@@ -1,9 +1,7 @@
 ---
-title: We share with prayers and sadness the passing of beloved Tribal Elder Marguerite
-  Bertha Walden
 date: '2025-11-21T21:13:26+00:00'
-source: Snoqualmie Indian Tribe
-source_url: https://snoqualmietribe.us/we-share-with-prayers-and-sadness-the-passing-of-beloved-tribal-elder-marguerite-bertha-walden/
+images:
+- 5c765aa2bed4fd3baed75d861343449b131dbd20dfa1a80888d8af1627038493
 original_content: |-
   <p class="cvGsUA direction-ltr align-center para-style-body"><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">We share with prayers and sadness </span><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">the passing of a beloved Tribal Elder</span></p>
   <h1><span class="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">Marguerite Bertha Walden</span></h1>
@@ -20,12 +18,14 @@ original_markdown_body: "We share with prayers and sadness&nbsp;the passing of a
   Tribal Elder\n\n# Marguerite Bertha Walden\n\nSunrise: 3/19/1937 Sunset: 11/21/2025\n\nWe
   will share additional information when it is available.  \nOut of respect and according
   to our policy, tribal flags are flying at half-staff.\n\n&nbsp;\n\n[![](https://snoqualmietribe.us/wp-content/uploads/2025/11/Marguerite-Bertha-Walden-700x587.png)](https://snoqualmietribe.us/wp-content/uploads/2025/11/Marguerite-Bertha-Walden.png)\n\n&nbsp;\n\n&nbsp;\n\n&nbsp;\n\n&nbsp;"
+source: Snoqualmie Indian Tribe
+source_url: https://snoqualmietribe.us/we-share-with-prayers-and-sadness-the-passing-of-beloved-tribal-elder-marguerite-bertha-walden/
 summarized: true
+title: We share with prayers and sadness the passing of beloved Tribal Elder Marguerite
+  Bertha Walden
 topics:
 - Food & Nutrition
 - Employment & Job Support
-images:
-- 5c765aa2bed4fd3baed75d861343449b131dbd20dfa1a80888d8af1627038493
 ---
 
 We share with prayers and sadness the passing of beloved Tribal Elder Marguerite Bertha Walden, who was born on March 19, 1937, and passed away on November 21, 2025. In honor of her memory and in accordance with tribal policy, flags are flying at half-staff. Additional information regarding her passing and memorial services will be provided when available. The Snoqualmie Tribe also announces recent and upcoming events, including ticket distribution for PWHL and Seattle U basketball games, support for families affected by the federal SNAP suspension, and details about the funeral service for another Tribal Elder, Arlene Ventura. Upcoming cultural events include a beginning beading class on November 22, a Thanksgiving break, a Christmas tree thinning gathering on December 6, a Tribal Christmas party on December 13, and a holiday break starting December 24.

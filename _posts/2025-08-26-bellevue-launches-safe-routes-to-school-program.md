@@ -1,8 +1,7 @@
 ---
-title: Bellevue launches Safe Routes to School program
 date: '2025-08-26T16:08:23+00:00'
-source: City of Bellevue
-source_url: https://bellevuewa.gov/city-news/safe-routes-to-school
+images:
+- 570f8162b84bd1d2828fefa1365a83adb0207b37aa42e98a513255bc235df11a
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Bellevue
   launches Safe Routes to School program</span>\n<span class=\"field field--name-uid
   field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"
@@ -76,13 +75,14 @@ original_markdown_body: |-
   If you are commuting, consider alternative routes around schools to avoid traffic congestion during arrival and dismissal time. Our [Tips for Safe Cycling flyer](https://bellevuewa.gov/sites/default/files/media/pdf_document/2024/etiquette_flyer_new_skyline_wheel_12_19_24a_smaller-photos.pdf "(opens in a new window)") has information to follow when biking. More information on staying safe near schools, no matter how you’re travelling, is available at [School Traffic Safety](https://bellevuewa.gov/city-government/departments/transportation/safety-and-maintenance/traffic-safety/neighborhood-traffic-safety-services/safe-routes-school/school-traffic-safety "School Traffic Safety").
 
   <time datetime="2025-08-26T12:00:00Z" class="datetime">August 26 2025</time>
+source: City of Bellevue
+source_url: https://bellevuewa.gov/city-news/safe-routes-to-school
 summarized: true
+title: Bellevue launches Safe Routes to School program
 topics:
 - Childcare
 - Education & Learning
 - Transportation & Mobility
-images:
-- 570f8162b84bd1d2828fefa1365a83adb0207b37aa42e98a513255bc235df11a
 ---
 
 The City of Bellevue has launched the Safe Routes to School program to enhance safety and convenience for students walking, biking, or rolling to school. This initiative is part of a national effort and will involve funding for street improvements near schools, increased traffic safety education, and community events. The City Council has allocated funds in the 2025-26 budget specifically for traffic safety and engagement in schools, aligning with the city's active transportation and environmental sustainability goals.

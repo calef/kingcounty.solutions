@@ -1,8 +1,6 @@
 ---
-title: 'DBT Skill Spotlight: Emotional Regulation and Eating Disorder Treatment'
 date: '2025-02-12T06:00:23+00:00'
-source: THIRA Health
-source_url: https://thirahealth.com/2025/02/12/dbt-skill-spotlight-emotional-regulation-and-eating-disorder-treatment/?utm_source=rss&utm_medium=rss&utm_campaign=dbt-skill-spotlight-emotional-regulation-and-eating-disorder-treatment
+images: []
 original_content: |-
   <p><a href="https://www.verywellmind.com/what-causes-eating-disorders-4121047" target="_blank" rel="noopener">Eating disorders</a> are about so much more than just food. Eating behaviors in eating disorders are the tip of the iceberg, the visible part of a mental health struggle that is often rooted in family dysfunction, rejection, and bullying, impossible/unhealthy social expectations, and co-occuring mental health disorders like <a href="https://thirahealth.com/2023/07/12/anxiety-and-binge-eating/">anxiety</a>, depression, OCD, BPD, and PTSD.</p>
   <p>Eating disorders serve as a way to fit in, especially in social settings where abuse and dysfunction are considered the norm. They also serve as a source of control in out-of-control environments, where eating behaviors are used to soothe mental health symptoms. This intersection of extreme social rejection and mental health struggles is where emotional regulation comes into play for <a href="https://thirahealth.com/2024/11/27/how-to-help-your-teen-when-they-show-signs-of-an-eating-disorder/">eating disorders</a>.</p>
@@ -123,11 +121,13 @@ original_markdown_body: |-
   [The structure of DBT](https://pmc.ncbi.nlm.nih.gov/articles/PMC6897497/) offers girls, women, and gender-diverse people with eating disorders a broad base of support for shifting eating behavior while also addressing underlying mental health concerns. DBT’s group therapy to practice skills and develop a healthier understanding of what social groups should feel like. Individual therapy helps you process the roots of trauma and dysfunction that led to an eating disorder, and helps you choose where and how to apply DBT skills to cope effectively. Finally, DBT is designed to help you live a fulfilling life. By becoming your own agent of change in life, you learn to trust yourself, and you learn that bullying, peer pressure, and abuse can hurt, but they don’t have to shake your own love and trust for yourself.
 
   [THIRA Health](https://thirahealth.com/contact/) offers an inpatient [mental health treatment](https://thirahealth.com/mental-health-treatment/) program that incorporates DBT to help those with eating disorders to find a new, healthy approach to both eating, and other behaviors in their life that tie into their disordered eating. If you’re ready to get started on living a life worth living, connect with us today to learn more.
+source: THIRA Health
+source_url: https://thirahealth.com/2025/02/12/dbt-skill-spotlight-emotional-regulation-and-eating-disorder-treatment/?utm_source=rss&utm_medium=rss&utm_campaign=dbt-skill-spotlight-emotional-regulation-and-eating-disorder-treatment
 summarized: true
+title: 'DBT Skill Spotlight: Emotional Regulation and Eating Disorder Treatment'
 topics:
 - Mental Health & Counseling
 - Food & Nutrition
-images: []
 ---
 
 Eating disorders are often rooted in complex mental health struggles, including family dysfunction and social pressures. Emotional regulation plays a critical role in managing these disorders, particularly for individuals facing overwhelming emotions and harsh self-criticism. Dialectical Behavior Therapy (DBT) provides essential skills to help individuals with eating disorders regulate their emotions without resorting to disordered eating behaviors.

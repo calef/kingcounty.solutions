@@ -1,8 +1,9 @@
 ---
-title: Invest in Kids, Invest in Communities — and It’s Working
 date: '2025-11-14T17:22:28+00:00'
-source: BrightSpark
-source_url: https://www.brightspark.org/2025/11/invest-in-kids-invest-in-communities-and-its-working/
+images:
+- 395cfb90c1226ef4e989401855c44fc5ed79100da07f23e0eb6c2331b600c254
+- 3389e147155d4d192db905a489b5e65cce38d73b4d5a54fce2014d15ae08ae0d
+- b7da5b7b1e746b71fc95c4fa06b91cc0f4e7fa94b6a71fd1286b3989152b2839
 original_content: |-
   <div class="wp-block-uagb-image uagb-block-db8ab62f wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure class="wp-block-uagb-image__figure"><img decoding="async" src="https://www.brightspark.org/wp-content/uploads/2025/11/Fund-Dev-Newsletter-Banners-5.png" alt="" class="uag-image-9593" width="768" height="256" title="Fund Dev Newsletter Banners (5)" loading="lazy" role="img" /></figure></div>
 
@@ -209,13 +210,12 @@ original_markdown_body: "![](https://www.brightspark.org/wp-content/uploads/2025
   to ©LisaBontjePhotography_\n\nThe post [Invest in Kids, Invest in Communities —
   and It’s Working](https://www.brightspark.org/2025/11/invest-in-kids-invest-in-communities-and-its-working/)
   appeared first on [BrightSpark](https://www.brightspark.org)."
+source: BrightSpark
+source_url: https://www.brightspark.org/2025/11/invest-in-kids-invest-in-communities-and-its-working/
 summarized: true
+title: Invest in Kids, Invest in Communities — and It’s Working
 topics:
 - Education & Learning
-images:
-- 395cfb90c1226ef4e989401855c44fc5ed79100da07f23e0eb6c2331b600c254
-- 3389e147155d4d192db905a489b5e65cce38d73b4d5a54fce2014d15ae08ae0d
-- b7da5b7b1e746b71fc95c4fa06b91cc0f4e7fa94b6a71fd1286b3989152b2839
 ---
 
 Seattle voters recently approved the renewal and expansion of the Family, Education, Preschool, and Promise (FEPP) Levy with a remarkable 77% support. This initiative will enhance access to high-quality, affordable early learning through the Seattle Preschool Program (SPP), providing preschool for 3,000 children from low-income families over the next seven years. The success of this initiative is attributed to strong community advocacy, with families and early educators playing pivotal roles in shaping public understanding of the importance of accessible child care and preschool.

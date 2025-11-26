@@ -1,8 +1,6 @@
 ---
-title: Safer Signals on Lake to Lake
 date: '2025-08-26T23:11:07+00:00'
-source: City of Bellevue
-source_url: https://bellevuewa.gov/city-news/lake-to-lake-8-25
+images: []
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Safer
   Signals on Lake to Lake</span>\n<span class=\"field field--name-uid field--type-entity-reference
   field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\" typeof=\"schema:Person\"
@@ -40,10 +38,12 @@ original_markdown_body: |-
   Safer Signals is featured on this month's [Lake to Lake news show](https://youtu.be/ErdmeOElpaY), along with our second annual Bellevue International Festival, which drew a crowd to Crossroads Park, and Safe Speeds Bellevue, a project exploring lowering speed limits on many Bellevue streets.
 
   <time datetime="2025-08-26T12:00:00Z" class="datetime">August 26 2025</time>
-summarized: true
-topics: []
 published: false
-images: []
+source: City of Bellevue
+source_url: https://bellevuewa.gov/city-news/lake-to-lake-8-25
+summarized: true
+title: Safer Signals on Lake to Lake
+topics: []
 ---
 
 Safer Signals is a pilot program in Bellevue utilizing LIDAR technology to enhance pedestrian safety at selected intersections. This technology tracks vehicles and individuals biking or walking, adjusting walk signal durations in real time for slower pedestrians. The initiative aims to improve safety and accessibility for all road users. Additionally, the latest Lake to Lake news show highlights the second annual Bellevue International Festival, which successfully attracted a large audience at Crossroads Park. Another focus is the Safe Speeds Bellevue project, which is examining the potential for lowering speed limits across various streets in Bellevue to enhance community safety.

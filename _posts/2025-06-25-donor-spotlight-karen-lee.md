@@ -1,8 +1,6 @@
 ---
-title: 'Donor Spotlight: Karen Lee'
 date: '2025-06-25T20:46:13+00:00'
-source: Youth Eastside Services
-source_url: https://www.youtheastsideservices.org/donor-spotlight-karen-lee/?utm_source=rss&utm_medium=rss&utm_campaign=donor-spotlight-karen-lee
+images: []
 original_content: |-
   <h2><strong>Turning Points That Change Lives</strong></h2>
   <p>Karen Lee is the kind of person who lights up a room and often fills it, too. Whether she’s entertaining close friends or planning the next great party, her warmth and generosity extend far beyond her social circle. A proud grandmother, frequent traveler, and devoted dog mom to her miniature long-haired dachshund Theodora, Karen lives a vibrant life rooted in connection.</p>
@@ -76,12 +74,14 @@ original_markdown_body: |-
   [![donate to youth mental health](https://www.youtheastsideservices.org/wp-content/uploads/2022/08/Fall-2020-Event-Donation-Header.png)](https://interland3.donorperfect.net/weblink/WebLink.aspx?name=yes&id=64)
 
   The post [Donor Spotlight: Karen Lee](https://www.youtheastsideservices.org/donor-spotlight-karen-lee/) appeared first on [Youth Eastside Services](https://www.youtheastsideservices.org).
+source: Youth Eastside Services
+source_url: https://www.youtheastsideservices.org/donor-spotlight-karen-lee/?utm_source=rss&utm_medium=rss&utm_campaign=donor-spotlight-karen-lee
 summarized: true
+title: 'Donor Spotlight: Karen Lee'
 topics:
 - Mental Health & Counseling
 - Shelter & Housing
 - Education & Learning
-images: []
 ---
 
 Karen Lee, a vibrant individual known for her warmth and generosity, has been deeply committed to supporting youth and families through Youth Eastside Services (YES) for over a decade. Her journey began after attending the Invest in Youth Breakfast in 2012, where she was profoundly moved by the courageous stories of young people. This experience inspired her to become a Table Host, allowing her to engage more actively with the organization.

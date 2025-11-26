@@ -1,8 +1,6 @@
 ---
-title: Neighborhood Walks at BelRed Arts District, Eastgate and Cougar Mountain/Lakemont
 date: '2025-07-03T23:04:51+00:00'
-source: City of Bellevue
-source_url: https://bellevuewa.gov/city-news/neighborhood-walks-25
+images: []
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Neighborhood
   Walks at BelRed Arts District, Eastgate and Cougar Mountain/Lakemont</span>\n<span
   class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span
@@ -69,10 +67,12 @@ original_markdown_body: "Neighborhood Walks at BelRed Arts District, Eastgate an
   more information, visit [Neighborhood Walks](https://bellevuewa.gov/city-government/departments/community-development/neighborhoods/neighborhood-walks
   \"Neighborhood Walks\") or contact [neighborhoodoutreach@bellevuewa.gov](mailto:neighborhoodoutreach@bellevuewa.gov).\n\n<time
   datetime=\"2025-07-03T12:00:00Z\" class=\"datetime\">July 3 2025</time>"
-summarized: true
-topics: []
 published: false
-images: []
+source: City of Bellevue
+source_url: https://bellevuewa.gov/city-news/neighborhood-walks-25
+summarized: true
+title: Neighborhood Walks at BelRed Arts District, Eastgate and Cougar Mountain/Lakemont
+topics: []
 ---
 
 Bellevue’s summer Neighborhood Walks series is returning for its ninth year, offering residents a chance to engage with city staff and discuss neighborhood issues. Scheduled for July 10, 23, and 24, the walks will take place in the BelRed Arts District, Cougar Mountain/Lakemont, and Eastgate areas, respectively. Each walk lasts about 90 minutes and covers approximately 1.5 miles. Community members are encouraged to join, even if they do not plan to walk the route, to meet neighbors and staff at the starting points.

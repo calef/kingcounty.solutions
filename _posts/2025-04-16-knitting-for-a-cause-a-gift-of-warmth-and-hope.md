@@ -1,8 +1,7 @@
 ---
-title: 'Knitting for a Cause: A Gift of Warmth and Hope'
 date: '2025-04-16T21:09:44+00:00'
-source: Hospital District No. 1 (Valley Medical Center)
-source_url: https://blog.valleymed.org/2025/04/16/knitting-for-a-cause-a-gift-of-warmth-and-hope/?utm_source=rss&utm_medium=rss&utm_campaign=knitting-for-a-cause-a-gift-of-warmth-and-hope
+images:
+- d650bfae9e376c9123ddf8023c94f88d476c28cbe8678a7e58b09c626ff4e37b
 original_content: |-
   <p><img width="300" height="188" src="https://blog.valleymed.org/wp-content/uploads/2025/04/IMG_2386_Knitting-for-a-Cause-300x188.jpg" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://blog.valleymed.org/wp-content/uploads/2025/04/IMG_2386_Knitting-for-a-Cause-300x188.jpg 300w, https://blog.valleymed.org/wp-content/uploads/2025/04/IMG_2386_Knitting-for-a-Cause-768x480.jpg 768w, https://blog.valleymed.org/wp-content/uploads/2025/04/IMG_2386_Knitting-for-a-Cause-600x375.jpg 600w, https://blog.valleymed.org/wp-content/uploads/2025/04/IMG_2386_Knitting-for-a-Cause.jpg 800w" sizes="auto, (max-width: 300px) 100vw, 300px" /></p>
   <p>For Shirley Apeland, a single knitted hat carried warmth far beyond its stitches. During her own cancer treatment 10 years ago, losing her hair was one of the hardest challenges she faced. But when she received a knitted hat, it wasn’t just about keeping warm—it was a gesture of kindness, a reminder that someone cared and understood. That act of generosity stayed with her, and in time, she felt called to do the same for others.</p>
@@ -84,12 +83,13 @@ original_markdown_body: "![](https://blog.valleymed.org/wp-content/uploads/2025/
   \  \n_Top: The Knitting for a Cause group shares its time and talents to touch hearts
   and lives._\n\n_Middle: Shirley and Annette deliver handcrafted gifts to our Birth
   Center, NICU, and Cancer Center patients, spreading hope and kindness._"
+source: Hospital District No. 1 (Valley Medical Center)
+source_url: https://blog.valleymed.org/2025/04/16/knitting-for-a-cause-a-gift-of-warmth-and-hope/?utm_source=rss&utm_medium=rss&utm_campaign=knitting-for-a-cause-a-gift-of-warmth-and-hope
 summarized: true
+title: 'Knitting for a Cause: A Gift of Warmth and Hope'
 topics:
 - Health Care
 - Mental Health & Counseling
-images:
-- d650bfae9e376c9123ddf8023c94f88d476c28cbe8678a7e58b09c626ff4e37b
 ---
 
 For Shirley Apeland, a knitted hat symbolizes warmth and kindness. After facing her own cancer treatment a decade ago, receiving a knitted hat helped her cope with the loss of her hair and reminded her that she was not alone. Inspired by this gesture and the care her granddaughter received in the NICU, Shirley began knitting six years ago and launched "Knitting for a Cause" with support from Church For All in Federal Way. This initiative brings together a group of ten women who create hats and baby booties for patients in the Birth Center, NICU, and Cancer Center. Each month, they gather for potluck dinners, sharing stories while crafting gifts that provide comfort and hope to those in need. Shirley emphasizes their motto, “We do our best to give our best,” reflecting their commitment to making recipients feel valued. She credits Annette Beltrand for her creativity and organizational skills, which have been vital to the project's success. Looking ahead, the group plans to include inspirational messages in their hats and create feeding tube pouches for patients. Their work is a heartfelt reminder that compassion can be stitched into every item they donate.

@@ -1,8 +1,8 @@
 ---
-title: 2025 Letter from the ED
 date: '2025-02-18T14:43:03+00:00'
-source: Wonderland Child & Family Services
-source_url: https://wonderlandkids.org/2025-letter-from-the-ed/
+images:
+- fb79273188201b481d8ccfabe5edc9651bb95f68c63b3f3802057bcabcd10d4f
+- 14dfc0df50d70c2c57a124964fd1cc06a8b9fa7c22f957cd28ed51ad9009845b
 original_content: "<div id=\"fws_692139bba4fcb\"  data-column-margin=\"default\" data-midnight=\"dark\"
   \ class=\"wpb_row vc_row-fluid vc_row\"  style=\"padding-top: 0px; padding-bottom:
   0px; \"><div class=\"row-bg-wrap\" data-bg-animation=\"none\" data-bg-animation-delay=\"\"
@@ -176,13 +176,13 @@ original_markdown_body: "## Letter from the Executive Director\n\n&nbsp;\n\nItâ€
   ![](https://wonderlandkids.org/wp-content/uploads/2023/07/MaryK.jpg)\n\n ![](https://wonderlandkids.org/wp-content/uploads/2019/01/Marys-Signature.jpg)\n\nMary
   Kirchoff  \nExecutive Director, CEO\n\nThe post [2025 Letter from the ED](https://wonderlandkids.org/2025-letter-from-the-ed/)
   appeared first on [Wonderland Child & Family Services](https://wonderlandkids.org)."
+source: Wonderland Child & Family Services
+source_url: https://wonderlandkids.org/2025-letter-from-the-ed/
 summarized: true
+title: 2025 Letter from the ED
 topics:
 - Disabilities
 - Mental Health & Counseling
-images:
-- fb79273188201b481d8ccfabe5edc9651bb95f68c63b3f3802057bcabcd10d4f
-- 14dfc0df50d70c2c57a124964fd1cc06a8b9fa7c22f957cd28ed51ad9009845b
 ---
 
 In a letter from Executive Director Mary Kirchoff, the achievements and future goals of Wonderland and the Hope Rising Clinic are highlighted. The past year, 2024, demonstrated the power of community support, resulting in transformative services for children and families affected by developmental challenges and prenatal substance exposure (PSE). A significant milestone was achieved with the Season of Wonder campaign, which unlocked a $150,000 match from an anonymous donor. In 2024, 1,156 children were served, with 86% of families reporting improved relationships with their children. The clinic launched a Caregiver Education Program and designed training curricula for clinicians, expanding its reach and impact.

@@ -1,8 +1,6 @@
 ---
-title: Celebrate Pride Month at City Hall Plaza June 4
 date: '2025-05-16T21:30:01+00:00'
-source: City of Bellevue
-source_url: https://bellevuewa.gov/city-news/pride-25
+images: []
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Celebrate
   Pride Month at City Hall Plaza June 4</span>\n<span class=\"field field--name-uid
   field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"
@@ -75,10 +73,12 @@ original_markdown_body: |-
   For alternate formats, interpreters or reasonable accommodations, please phone at least 48 hours in advance at 425-452-7881 (voice) or email [diversity@bellevuewa.gov](mailto:diversity@bellevuewa.gov). For complaints regarding accommodations, contact the city’s ADA/Title VI administrator at 425-452-6168 (voice). If you are deaf or hard of hearing, dial 711.
 
   <time datetime="2025-05-27T12:00:00Z" class="datetime">May 27 2025</time>
-summarized: true
-topics: []
 published: false
-images: []
+source: City of Bellevue
+source_url: https://bellevuewa.gov/city-news/pride-25
+summarized: true
+title: Celebrate Pride Month at City Hall Plaza June 4
+topics: []
 ---
 
 In celebration of Pride Month, the City of Bellevue and Pride Across the Bridge are hosting "Pride on the Plaza" on June 4 from noon to 2 p.m. at City Hall. The free event will feature music, food, and performances showcasing local queer artists. It will begin with a pride flag raising ceremony and remarks from city leaders, including a keynote address by Edgar Longoria, executive director of Entre Hermanos. Attendees can enjoy music from a live DJ and light refreshments, as well as visit resource tables offering information to support the LGBTQIA+ community.

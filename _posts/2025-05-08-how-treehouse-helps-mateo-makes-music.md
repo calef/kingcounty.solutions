@@ -1,8 +1,8 @@
 ---
-title: 'How Treehouse Helps: Mateo Makes Music'
 date: '2025-05-08T19:14:43+00:00'
-source: Treehouse
-source_url: https://www.treehouseforkids.org/how-treehouse-helps-mateo-makes-music/
+images:
+- f9fcca4e8d392802290cf938b37a40d305cc1729136a33557ed2e19c61238fdb
+- cc23f4404cf9aca8dff884f31cfc25f65d287a0c086d61aba9f3c989d5f0ca1e
 original_content: |-
   <div class='author-name' style='font-size: 18px; width: 100%; padding: .5em 0;'><p>By Gina Cariño</p></div><h3><img loading="lazy" decoding="async" class="aligncenter wp-image-195548 size-large" src="https://www.treehouseforkids.org/wp-content/uploads/2025/05/Untitled-design-1-1024x603.png" alt="" width="1024" height="603" /></h3>
   <h3 style="text-align: center;"><strong><i>In honor of National Foster Care Month, we are sharing day-in-the-life stories from the Treehouse community. These stories are all about how Treehouse helps makes a difference for youth in foster care so they can thrive. </i> </strong></h3>
@@ -46,12 +46,12 @@ original_markdown_body: |-
   * * *
 
   The post [How Treehouse Helps: Mateo Makes Music](https://www.treehouseforkids.org/how-treehouse-helps-mateo-makes-music/) appeared first on [Treehouse](https://www.treehouseforkids.org).
+source: Treehouse
+source_url: https://www.treehouseforkids.org/how-treehouse-helps-mateo-makes-music/
 summarized: true
+title: 'How Treehouse Helps: Mateo Makes Music'
 topics:
 - Education & Learning
-images:
-- f9fcca4e8d392802290cf938b37a40d305cc1729136a33557ed2e19c61238fdb
-- cc23f4404cf9aca8dff884f31cfc25f65d287a0c086d61aba9f3c989d5f0ca1e
 ---
 
 In honor of National Foster Care Month, Treehouse highlights the story of Mateo, a senior who has committed to pursuing a degree in music education at a Washington university. Initially uncertain about his future during his junior year, Mateo found common ground with a Graduation Success Education Specialist, who shared his passion for music. This connection helped shift Mateo's focus towards collegiate music programs. With support from Just-in-Time Funding, he enrolled in Running Start at a local community college and participated in his first drum corps summer tour. By his senior year, Mateo's motivation grew, and he began to consider educating others in music. Recently, he earned a spot in the university’s wind ensemble after a successful audition and is preparing for another drum corps tour. The specialist reflects on the joy of witnessing Mateo's growth and the importance of the support network that helped him thrive.

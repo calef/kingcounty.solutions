@@ -1,8 +1,6 @@
 ---
-title: The chilling effect of air pollution
 date: '2025-11-05T15:16:00+00:00'
-source: University of Washington
-source_url: https://www.washington.edu/news/2025/11/05/the-chilling-effect-of-air-pollution/
+images: []
 original_content: |-
   <div id="attachment_89791" class="wp-caption aligncenter" style="width: 760px"><img loading="lazy" decoding="async" class="wp-image-89791 size-full-content" src="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/04144254/ship-tracks-750x563.jpg" alt="White streaks in the clouds above Earth show where ships have passed." width="750" height="563" srcset="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/04144254/ship-tracks-750x563.jpg 750w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/04144254/ship-tracks-300x225.jpg 300w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/04144254/ship-tracks-1024x768.jpg 1024w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/04144254/ship-tracks-768x576.jpg 768w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/04144254/ship-tracks-1536x1152.jpg 1536w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/04144254/ship-tracks-2048x1536.jpg 2048w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/04144254/ship-tracks-375x281.jpg 375w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/04144254/ship-tracks-1140x855.jpg 1140w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/04144254/ship-tracks-108x81.jpg 108w" sizes="auto, (max-width: 750px) 100vw, 750px" /></p>
   <p class="wp-caption-text">The streaks in this satellite image are from ships, which emit sulfate aerosols that can be toxic to humans and the environment. Aerosols also make the clouds more reflective. Efforts to curb pollution have reduced the amount of sunlight Earth reflects and accelerated warming, a new University of Washington study shows.<a href="https://earthobservatory.nasa.gov/images/3275/ship-tracks-off-europes-atlantic-coast"><span class="wp-media-credit">NASA</span></a></span></p>
@@ -89,10 +87,12 @@ original_markdown_body: |-
   _This study was funded by the University of Washington Marine Cloud Brightening Research Program, Environment and Climate Change Canada, the National Oceanic and Atmospheric Administration, an Imperial College Junior Research Fellowship and a Royal Society University Research Fellowship._
 
   _For more information, contact von Salzen at_ [_kvsalzen@uw.edu_](mailto:kvsalzen@uw.edu)_, Doherty at_ [_sdoherty@uw.edu_](mailto:sdoherty@uw.edu) _or Wood at_ [_robwood2@uw.edu_](mailto:robwood2@uw.edu)_.&nbsp;_
-summarized: true
-topics: []
 published: false
-images: []
+source: University of Washington
+source_url: https://www.washington.edu/news/2025/11/05/the-chilling-effect-of-air-pollution/
+summarized: true
+title: The chilling effect of air pollution
+topics: []
 ---
 
 A new University of Washington study reveals that efforts to reduce air pollution have inadvertently led to decreased cloud reflectivity, exacerbating global warming. Between 2003 and 2022, marine clouds over the Northeastern Pacific and Atlantic oceans became nearly 3% less reflective per decade, largely due to the reduction of sulfate aerosols, which play a critical role in cloud formation and longevity. As these aerosols diminish, cloud droplet size increases, leading to fewer, larger droplets that fall more quickly as precipitation, reducing cloud cover.

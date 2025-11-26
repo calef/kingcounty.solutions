@@ -1,15 +1,86 @@
 ---
-title: Abby’s Story
 date: '2025-07-25T17:23:45+00:00'
+images: []
+original_content: "<p><strong>From a To-Do List to a Lifeline: Abby’s Journey with
+  Cancer Lifeline</strong></p>\r\n\r\n\r\n\r\n<p>For Abby, getting a mammogram was
+  simply another item on her “to-do” list—something quicker and easier than updating
+  her family’s will. <strong>At 48, with no family history of breast cancer, she wasn’t
+  expecting anything unusual. </strong>But after nearly a decade without screening,
+  she figured it was time. What she didn’t anticipate was that this routine visit
+  would launch her into one of life’s most profound learning curves.</p>\r\n\r\n\r\n\r\n<p>The
+  diagnosis led to a lumpectomy, positive sentinel node removal, and six weeks of
+  radiation in 2023. Hormone-blocking medication became part of her daily life, as
+  did long hours on the tennis court—her way of staying active and grounded. <strong>It
+  wasn’t until nearly a year later, in November 2024, that she discovered Cancer Lifeline,
+  thanks to a passing comment from a yoga teacher during a virtual class.</strong>
+  Curious and always eager to learn, Abby decided to look up the organization—and
+  found more than she ever imagined.<br /><br />With an overwhelming amount of cancer
+  information online, Abby was relieved to find a place offering high-quality, free
+  programs that didn’t require her to be the expert or navigate everything alone.
+  She began taking evening and weekend classes, both online and in person, finding
+  solace in a community of others who were walking similar paths. In each class, she
+  felt safe, seen, and encouraged to ask questions—something she values deeply.</p>\r\n\r\n\r\n\r\n<p><strong>One
+  of Abby’s most powerful realizations on this journey has been how little people
+  know about the randomness of cancer.</strong> “I wish I had known earlier,” she
+  says, “that only 15% of breast cancers are familial—85% are random cell mutations.”
+  It helped her release the guilt of not getting screened sooner. “With cancer, some
+  cells divide slowly, others aggressively. The science behind distinguishing and
+  treating them is truly remarkable.” <strong>When she needs grounding, she turns
+  to a quote by Teresa of Avila: “You are exactly where you are meant to be.” It gives
+  her strength and peace.</strong></p>\r\n\r\n\r\n\r\n<p>Among her favorite Cancer
+  Lifeline experiences are Yoga Nidra—a guided meditation practice that’s given her
+  a level of deep rest she hadn’t felt in years—and Visual Journaling for Self-Discovery,
+  where she created a board reflecting her personal sources of wonder and certainty.
+  Sitting with scissors and magazines, reflecting on her identity and journey, she
+  found new clarity in just a few hours.</p>\r\n\r\n\r\n\r\n<p><strong>Abby’s journey
+  began with a routine task, but it led her to a vibrant, supportive community—and
+  a deeper understanding of herself. “Thank you, Cancer Lifeline,” she says, “for
+  helping me process the last two years of my life in ways I hadn’t before.”</strong>
+  Would you like to share your Cancer Lifeline or Harmony Retreats story with us?
+  <a href=\"mailto:victrinia@harmonyhill.org\" target=\"_blank\" rel=\"noreferrer
+  noopener\">Contact Our Communications Team</a></p>"
+original_markdown_body: "**From a To-Do List to a Lifeline: Abby’s Journey with Cancer
+  Lifeline**\n\nFor Abby, getting a mammogram was simply another item on her “to-do”
+  list—something quicker and easier than updating her family’s will. **At 48, with
+  no family history of breast cancer, she wasn’t expecting anything unusual.** But
+  after nearly a decade without screening, she figured it was time. What she didn’t
+  anticipate was that this routine visit would launch her into one of life’s most
+  profound learning curves.\n\nThe diagnosis led to a lumpectomy, positive sentinel
+  node removal, and six weeks of radiation in 2023. Hormone-blocking medication became
+  part of her daily life, as did long hours on the tennis court—her way of staying
+  active and grounded. **It wasn’t until nearly a year later, in November 2024, that
+  she discovered Cancer Lifeline, thanks to a passing comment from a yoga teacher
+  during a virtual class.** Curious and always eager to learn, Abby decided to look
+  up the organization—and found more than she ever imagined.  \n  \nWith an overwhelming
+  amount of cancer information online, Abby was relieved to find a place offering
+  high-quality, free programs that didn’t require her to be the expert or navigate
+  everything alone. She began taking evening and weekend classes, both online and
+  in person, finding solace in a community of others who were walking similar paths.
+  In each class, she felt safe, seen, and encouraged to ask questions—something she
+  values deeply.\n\n**One of Abby’s most powerful realizations on this journey has
+  been how little people know about the randomness of cancer.** “I wish I had known
+  earlier,” she says, “that only 15% of breast cancers are familial—85% are random
+  cell mutations.” It helped her release the guilt of not getting screened sooner.
+  “With cancer, some cells divide slowly, others aggressively. The science behind
+  distinguishing and treating them is truly remarkable.” **When she needs grounding,
+  she turns to a quote by Teresa of Avila: “You are exactly where you are meant to
+  be.” It gives her strength and peace.**\n\nAmong her favorite Cancer Lifeline experiences
+  are Yoga Nidra—a guided meditation practice that’s given her a level of deep rest
+  she hadn’t felt in years—and Visual Journaling for Self-Discovery, where she created
+  a board reflecting her personal sources of wonder and certainty. Sitting with scissors
+  and magazines, reflecting on her identity and journey, she found new clarity in
+  just a few hours.\n\n**Abby’s journey began with a routine task, but it led her
+  to a vibrant, supportive community—and a deeper understanding of herself. “Thank
+  you, Cancer Lifeline,” she says, “for helping me process the last two years of my
+  life in ways I hadn’t before.”** Would you like to share your Cancer Lifeline or
+  Harmony Retreats story with us? [Contact Our Communications Team](mailto:victrinia@harmonyhill.org)"
 source: Cancer Lifeline Financial Assistance for Cancer Patients
 source_url: https://cancerlifeline.org/abbys-story/
-original_content: "<p><strong>From a To-Do List to a Lifeline: Abby’s Journey with Cancer Lifeline</strong></p>\r\n\r\n\r\n\r\n<p>For Abby, getting a mammogram was simply another item on her “to-do” list—something quicker and easier than updating her family’s will. <strong>At 48, with no family history of breast cancer, she wasn’t expecting anything unusual. </strong>But after nearly a decade without screening, she figured it was time. What she didn’t anticipate was that this routine visit would launch her into one of life’s most profound learning curves.</p>\r\n\r\n\r\n\r\n<p>The diagnosis led to a lumpectomy, positive sentinel node removal, and six weeks of radiation in 2023. Hormone-blocking medication became part of her daily life, as did long hours on the tennis court—her way of staying active and grounded. <strong>It wasn’t until nearly a year later, in November 2024, that she discovered Cancer Lifeline, thanks to a passing comment from a yoga teacher during a virtual class.</strong> Curious and always eager to learn, Abby decided to look up the organization—and found more than she ever imagined.<br /><br />With an overwhelming amount of cancer information online, Abby was relieved to find a place offering high-quality, free programs that didn’t require her to be the expert or navigate everything alone. She began taking evening and weekend classes, both online and in person, finding solace in a community of others who were walking similar paths. In each class, she felt safe, seen, and encouraged to ask questions—something she values deeply.</p>\r\n\r\n\r\n\r\n<p><strong>One of Abby’s most powerful realizations on this journey has been how little people know about the randomness of cancer.</strong> “I wish I had known earlier,” she says, “that only 15% of breast cancers are familial—85% are random cell mutations.” It helped her release the guilt of not getting screened sooner. “With cancer, some cells divide slowly, others aggressively. The science behind distinguishing and treating them is truly remarkable.” <strong>When she needs grounding, she turns to a quote by Teresa of Avila: “You are exactly where you are meant to be.” It gives her strength and peace.</strong></p>\r\n\r\n\r\n\r\n<p>Among her favorite Cancer Lifeline experiences are Yoga Nidra—a guided meditation practice that’s given her a level of deep rest she hadn’t felt in years—and Visual Journaling for Self-Discovery, where she created a board reflecting her personal sources of wonder and certainty. Sitting with scissors and magazines, reflecting on her identity and journey, she found new clarity in just a few hours.</p>\r\n\r\n\r\n\r\n<p><strong>Abby’s journey began with a routine task, but it led her to a vibrant, supportive community—and a deeper understanding of herself. “Thank you, Cancer Lifeline,” she says, “for helping me process the last two years of my life in ways I hadn’t before.”</strong> Would you like to share your Cancer Lifeline or Harmony Retreats story with us? <a href=\"mailto:victrinia@harmonyhill.org\" target=\"_blank\" rel=\"noreferrer noopener\">Contact Our Communications Team</a></p>"
-original_markdown_body: "**From a To-Do List to a Lifeline: Abby’s Journey with Cancer Lifeline**\n\nFor Abby, getting a mammogram was simply another item on her “to-do” list—something quicker and easier than updating her family’s will. **At 48, with no family history of breast cancer, she wasn’t expecting anything unusual.** But after nearly a decade without screening, she figured it was time. What she didn’t anticipate was that this routine visit would launch her into one of life’s most profound learning curves.\n\nThe diagnosis led to a lumpectomy, positive sentinel node removal, and six weeks of radiation in 2023. Hormone-blocking medication became part of her daily life, as did long hours on the tennis court—her way of staying active and grounded. **It wasn’t until nearly a year later, in November 2024, that she discovered Cancer Lifeline, thanks to a passing comment from a yoga teacher during a virtual class.** Curious and always eager to learn, Abby decided to look up the organization—and found more than she ever imagined.  \n  \nWith an overwhelming amount of cancer information online, Abby was relieved to find a place offering high-quality, free programs that didn’t require her to be the expert or navigate everything alone. She began taking evening and weekend classes, both online and in person, finding solace in a community of others who were walking similar paths. In each class, she felt safe, seen, and encouraged to ask questions—something she values deeply.\n\n**One of Abby’s most powerful realizations on this journey has been how little people know about the randomness of cancer.** “I wish I had known earlier,” she says, “that only 15% of breast cancers are familial—85% are random cell mutations.” It helped her release the guilt of not getting screened sooner. “With cancer, some cells divide slowly, others aggressively. The science behind distinguishing and treating them is truly remarkable.” **When she needs grounding, she turns to a quote by Teresa of Avila: “You are exactly where you are meant to be.” It gives her strength and peace.**\n\nAmong her favorite Cancer Lifeline experiences are Yoga Nidra—a guided meditation practice that’s given her a level of deep rest she hadn’t felt in years—and Visual Journaling for Self-Discovery, where she created a board reflecting her personal sources of wonder and certainty. Sitting with scissors and magazines, reflecting on her identity and journey, she found new clarity in just a few hours.\n\n**Abby’s journey began with a routine task, but it led her to a vibrant, supportive community—and a deeper understanding of herself. “Thank you, Cancer Lifeline,” she says, “for helping me process the last two years of my life in ways I hadn’t before.”** Would you like to share your Cancer Lifeline or Harmony Retreats story with us? [Contact Our Communications Team](mailto:victrinia@harmonyhill.org)"
 summarized: true
+title: Abby’s Story
 topics:
 - Health Care
 - Mental Health & Counseling
-images: []
 ---
 
 At 48, Abby approached her first mammogram as just another item on her to-do list, not anticipating the life-changing diagnosis of breast cancer. Following a lumpectomy and radiation treatment in 2023, she began taking hormone-blocking medication while remaining active through tennis. Almost a year later, she learned about Cancer Lifeline from a yoga teacher's comment and discovered a wealth of high-quality, free programs that provided support and community. Abby joined classes where she felt safe and encouraged to learn, realizing that 85% of breast cancers are caused by random cell mutations rather than family history. This knowledge alleviated her guilt about not screening sooner. Among her most impactful experiences at Cancer Lifeline were Yoga Nidra, which offered deep rest, and Visual Journaling for Self-Discovery, where she explored her identity and found clarity. Abby's journey transformed from a routine task into a profound exploration of self and community support. She expresses gratitude to Cancer Lifeline for helping her process the last two years of her life in meaningful ways.

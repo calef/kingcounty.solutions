@@ -1,8 +1,7 @@
 ---
-title: Important Mail Update!
 date: '2025-07-02T22:51:31+00:00'
-source: Hospitality House
-source_url: https://hospitalityhousesouthking.org/important-mail-update/
+images:
+- 6b455008971a0c35c22fb1cef581433309da36b6c866951b520e4e9596ffa1ed
 original_content: |-
   <figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="2048" height="1366" src="https://hospitalityhousesouthking.org/wp-content/uploads/2025/07/Dear-1.png" alt="" class="wp-image-3730" srcset="https://hospitalityhousesouthking.org/wp-content/uploads/2025/07/Dear-1.png 2048w, https://hospitalityhousesouthking.org/wp-content/uploads/2025/07/Dear-1-768x512.png 768w" sizes="auto, (max-width: 2048px) 100vw, 2048px" /></figure>
 
@@ -84,12 +83,13 @@ original_markdown_body: "![](https://hospitalityhousesouthking.org/wp-content/up
   98166\n\n![\U0001F4EB](https://static.xx.fbcdn.net/images/emoji.php/v9/t8/2/16/1f4eb.png)
   **PO Box for cash/check donations:**\n\nPO Box 236  \nSeahurst, WA 98062\n\nEmail
   olivia@hospitalityhousesouthking.org with questions ![\U0001F49A](https://static.xx.fbcdn.net/images/emoji.php/v9/t33/2/16/1f49a.png)"
+source: Hospitality House
+source_url: https://hospitalityhousesouthking.org/important-mail-update/
 summarized: true
+title: Important Mail Update!
 topics:
 - Food & Nutrition
 - Shelter & Housing
-images:
-- 6b455008971a0c35c22fb1cef581433309da36b6c866951b520e4e9596ffa1ed
 ---
 
 Hospitality House has established a PO Box for cash and check donations due to issues with mail delivery. In the spring, mail was being returned to senders with a forwarding sticker indicating an incorrect new address in Renton, which is not valid. The PO Box ensures continuous receipt of donations for their mission of providing home, health, and hope. Amazon Wish List items do not need to be sent to the PO Box, as they are delivered directly to the physical address without issues. The physical address at 1419 SW 150th St, Burien, WA, will still be regularly checked for mail and tangible donations, as residents receive mail there. Donations can also be made in person at the office. If the office door is closed, donors may knock or slide their donations under the door and should ask for the name of the staff member receiving the donation for record-keeping. The PO Box address for cash/check donations is PO Box 236, Seahurst, WA 98062. Questions can be directed to olivia@hospitalityhousesouthking.org.

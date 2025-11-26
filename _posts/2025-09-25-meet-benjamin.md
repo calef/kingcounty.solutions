@@ -1,8 +1,7 @@
 ---
-title: Meet Benjamin!
 date: '2025-09-25T19:27:15+00:00'
-source: The National Children's Cancer Society - Financial Assistance
-source_url: https://thenccs.org/meet-benjamin/
+images:
+- 719f0076e5bc7cbcf4c82a40f751f8292f140dec447a0874804e626a4891bdfb
 original_content: |-
   <h1 style="text-align: center;">Meet Benjamin!</h1>
   <p style="text-align: center;"><em>Beyond the Cure Ambassador Scholarship Recipient, 2011–2015</em></p>
@@ -51,12 +50,13 @@ original_markdown_body: |-
   If you would like to support other childhood cancer survivors in reaching their educational goals through the Beyond the Cure Ambassador Scholarship Program, [click here](https://nc.thenccs.org/donate-scholarship).
 
   The post [Meet Benjamin!](https://thenccs.org/meet-benjamin/) appeared first on [The NCCS](https://thenccs.org).
+source: The National Children's Cancer Society - Financial Assistance
+source_url: https://thenccs.org/meet-benjamin/
 summarized: true
+title: Meet Benjamin!
 topics:
 - Health Care
 - Mental Health & Counseling
-images:
-- 719f0076e5bc7cbcf4c82a40f751f8292f140dec447a0874804e626a4891bdfb
 ---
 
 Meet Benjamin, a remarkable individual who overcame acute lymphoblastic leukemia diagnosed at just 3 years old. His treatment journey, filled with chemotherapy and numerous medical procedures, forged deep connections with his caregivers, which remain strong to this day. These experiences cultivated Benjamin's resilience and maturity, fueling his desire to help others. After surviving cancer, he pursued a career in medicine, attending Mississippi College for Biology and Medical Sciences, and later graduate school, supported by the NCCS Beyond the Cure Ambassador Scholarship, which alleviated his student debt.

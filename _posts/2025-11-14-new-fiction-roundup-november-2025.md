@@ -1,8 +1,6 @@
 ---
-title: New Fiction Roundup, November 2025
 date: '2025-11-14T18:00:37+00:00'
-source: Homework Help
-source_url: https://blog.spl.org/2025/11/14/new-fiction-roundup-november-2025/
+images: []
 original_content: "<p>Surreal stories, character studies, family sagas and more await
   you in November&#8217;s new releases. </p>\r\n\r\n\r\n\r\n<p>11/4: <a href=\"https://seattle.bibliocommons.com/v2/record/S30C4089587\"><strong>Bitter
   Honey</strong></a> by Lolá Ákínmádé </p>\r\n<p>In 1978, Nancy immigrates from Gambia
@@ -256,10 +254,12 @@ original_markdown_body: |-
   Beginning in 1592 and spanning centuries, a&nbsp;witch&nbsp;and a&nbsp;demon match wits&nbsp;over the fate of a powerful soul. (fantasy)&nbsp;
 
   _~ posted by Andrea G._
-summarized: true
-topics: []
 published: false
-images: []
+source: Homework Help
+source_url: https://blog.spl.org/2025/11/14/new-fiction-roundup-november-2025/
+summarized: true
+title: New Fiction Roundup, November 2025
+topics: []
 ---
 
 November 2025 brings a diverse selection of new fiction releases. Notable titles include **Bitter Honey** by Lolá Ákínmádé, which explores the complexities of a mother-daughter relationship against a backdrop of immigration and secrets. **Cursed Daughters** by Oyinkan Braithwaite tells the story of Eniiyi, who grapples with familial curses and reincarnation. Salman Rushdie's **The Eleventh Hour** features five stories reflecting on mortality across different cultures. **The Land in Winter** by Andrew Miller delves into the struggles of two pregnant couples facing a harsh winter in England, while **Lightbreakers** by Aja Gabel examines a couple's confrontation with their grief through a time-traveling project.

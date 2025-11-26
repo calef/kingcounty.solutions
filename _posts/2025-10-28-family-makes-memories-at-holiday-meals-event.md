@@ -1,8 +1,6 @@
 ---
-title: Family Makes Memories at Holiday Meals Event
 date: '2025-10-28T13:00:00+00:00'
-source: Operation Homefront - Critical Financial Assistance Program
-source_url: https://operationhomefront.org/family-makes-memories-at-holiday-meals-event/
+images: []
 original_content: |-
   <p class="has-text-align-center"><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong>Family Makes Core Memories at Holiday Meals for Military Event</strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></p>
 
@@ -106,14 +104,16 @@ original_markdown_body: |-
   Since 2010, Operation Homefront’s HMFM has provided more than 210,000 holiday meals to military and veteran families. Forty families registered for the Delray Beach event, which was one of 1,800 events planned throughout 2025.
 
   The post [Family Makes Memories at Holiday Meals Event](https://operationhomefront.org/family-makes-memories-at-holiday-meals-event/) appeared first on [Operation Homefront](https://operationhomefront.org).
+source: Operation Homefront - Critical Financial Assistance Program
+source_url: https://operationhomefront.org/family-makes-memories-at-holiday-meals-event/
 summarized: true
+title: Family Makes Memories at Holiday Meals Event
 topics:
 - Disabilities
 - Employment & Job Support
 - Food & Nutrition
 - Personal & Household Needs
 - Senior Services
-images: []
 ---
 
 Army veteran David Gonzalez and his family attended the Holiday Meals for Military® (HMFM) event in Delray, Florida, on April 5, where they enjoyed pony rides, crafts, and games. Each family received a $75 gift card and a box of household goods. David’s son, Xzavier, experienced his first horseback ride, and the event reminded Melanie, David’s wife, of her childhood in Nicaragua. David expressed gratitude towards Operation Homefront and the volunteers who made the day special, stating it was a memorable experience for his family.

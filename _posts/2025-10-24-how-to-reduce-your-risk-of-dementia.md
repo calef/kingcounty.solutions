@@ -1,8 +1,6 @@
 ---
-title: How to Reduce Your Risk of Dementia
 date: '2025-10-24T22:48:42+00:00'
-source: Pacific Medical Centers
-source_url: https://www.pacificmedicalcenters.org/healthy-every-day/how-to-reduce-your-risk-of-dementia/
+images: []
 original_content: |-
   <p><em>Written by Elham Rezvanian, MD &#8212; Neurology and Sleep Medicine specialist at PacMed</em></p>
   <p>Eating well is one of the most important things you can do for your brain health.</p>
@@ -85,12 +83,14 @@ original_markdown_body: |-
   15. **Keep blood sugar levels in check** , especially if you’re at risk for diabetes.
 
   The post [How to Reduce Your Risk of Dementia](https://www.pacificmedicalcenters.org/healthy-every-day/how-to-reduce-your-risk-of-dementia/) appeared first on [Pacific Medical Centers](https://www.pacificmedicalcenters.org).
+source: Pacific Medical Centers
+source_url: https://www.pacificmedicalcenters.org/healthy-every-day/how-to-reduce-your-risk-of-dementia/
 summarized: true
+title: How to Reduce Your Risk of Dementia
 topics:
 - Food & Nutrition
 - Health Care
 - Mental Health & Counseling
-images: []
 ---
 
 Eating a brain-friendly diet is essential for reducing the risk of dementia. Recommended foods include nuts, berries, leafy greens, fish, healthy fats, and whole grains, while limiting butter, fried foods, red meat, and sweets. The Mediterranean and MIND diets are noted for their brain health benefits, as those who follow these diets often experience lower cognitive decline and delayed dementia onset. Colorful berries, rich in anthocyanins, and nuts, packed with healthy fats and polyphenols, are particularly beneficial. However, a consistent overall healthy eating pattern is more effective than occasional good choices. Variety in diet supports a healthy gut microbiome, crucial for brain health.

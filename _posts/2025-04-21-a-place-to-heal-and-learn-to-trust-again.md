@@ -1,8 +1,8 @@
 ---
-title: A place to heal – and learn to trust again
 date: '2025-04-21T14:55:39+00:00'
-source: Solid Ground
-source_url: https://www.solid-ground.org/a-place-to-heal/
+images:
+- d6ef5cae09cf8b02c78a849bf36a567880bd6005e05f17cec468c6b529c73d94
+- 959f200450debb22d4c95fcbb446ba4c5b741c7cea7008a364742c8653bd3265
 original_content: |-
   <p><img width="361" height="255" src="https://s14621.pcdn.co/wp-content/uploads/2025/04/Talia-AmyH-CM-03.31.25-3-801x566-1-361x255.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Two women hug with single beds showing in the background. The one facing away has dark brown hair and wears a red blouse. The one facing forward has grey hair and glasses, with her eyes closed, and wears a grey sweater." decoding="async" srcset="https://s14621.pcdn.co/wp-content/uploads/2025/04/Talia-AmyH-CM-03.31.25-3-801x566-1-361x255.jpg 361w, https://s14621.pcdn.co/wp-content/uploads/2025/04/Talia-AmyH-CM-03.31.25-3-801x566-1-300x212.jpg 300w, https://s14621.pcdn.co/wp-content/uploads/2025/04/Talia-AmyH-CM-03.31.25-3-801x566-1-768x543.jpg 768w, https://s14621.pcdn.co/wp-content/uploads/2025/04/Talia-AmyH-CM-03.31.25-3-801x566-1.jpg 801w" sizes="(max-width: 361px) 100vw, 361px" data-attachment-id="69261" data-permalink="https://www.solid-ground.org/a-place-to-heal/talia-amyh-cm-03-31-25-3-801x566/" data-orig-file="https://s14621.pcdn.co/wp-content/uploads/2025/04/Talia-AmyH-CM-03.31.25-3-801x566-1.jpg" data-orig-size="801,566" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="&#8216;Talia&#8217;-AmyH-(CM)-03.31.25-3-801&#215;566" data-image-description="" data-image-caption="&lt;p&gt;Talia (left) hugs Amy H (right), Broadview Children’s Services Supervisor (photos in this story by Clarissa Magdich).&lt;/p&gt;
   " data-medium-file="https://s14621.pcdn.co/wp-content/uploads/2025/04/Talia-AmyH-CM-03.31.25-3-801x566-1-300x212.jpg" data-large-file="https://s14621.pcdn.co/wp-content/uploads/2025/04/Talia-AmyH-CM-03.31.25-3-801x566-1.jpg" /></p><p><span class="tmc-serif-subhead" style="color: #595959;">Ask Talia<span style="color: #ed7a09;">*</span> what life is like these days, and she’ll likely give you a one-word answer: <span style="color: #4d5909;"><em>QUIET</em></span>. “Everyone says it’s really good when your life is quiet,” she reflects. “But when you’ve had so much chaos throughout your life, it really means something.”</span></p>
@@ -129,14 +129,14 @@ original_markdown_body: "![Two women hug with single beds showing in the backgro
   Vouchers](https://www.seattlehousing.org/housing/housing-choice-vouchers)\n\n&nbsp;\n\nThe
   post [A place to heal – and learn to trust again](https://www.solid-ground.org/a-place-to-heal/)
   appeared first on [Solid Ground](https://www.solid-ground.org)."
+source: Solid Ground
+source_url: https://www.solid-ground.org/a-place-to-heal/
 summarized: true
+title: A place to heal – and learn to trust again
 topics:
 - Domestic Violence
 - Education & Learning
 - Financial Assistance
-images:
-- d6ef5cae09cf8b02c78a849bf36a567880bd6005e05f17cec468c6b529c73d94
-- 959f200450debb22d4c95fcbb446ba4c5b741c7cea7008a364742c8653bd3265
 ---
 
 Talia, a 27-year-old mother, reflects on her journey from chaos to calm after seeking help at Solid Ground’s Broadview Shelter and Transitional Housing for domestic violence survivors. Having experienced cycles of homelessness and abuse in her youth, she was determined to provide a stable life for her two young sons and her unborn daughter. Three and a half years ago, she reached out to Broadview, recalling it as a safe haven from her childhood when she and her mother sought refuge there. 

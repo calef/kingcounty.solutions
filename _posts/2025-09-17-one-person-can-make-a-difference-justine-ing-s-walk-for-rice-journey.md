@@ -1,8 +1,6 @@
 ---
-title: 'One Person Can Make A Difference:  Justine Ing’s Walk for Rice Journey'
 date: '2025-09-17T23:58:27+00:00'
-source: Asian Counseling and Referral Service
-source_url: https://acrs.org/supporter-spotlight-justine-ing-walk-for-rice-champion/
+images: []
 original_content: |-
   <p data-start="264" data-end="465">In these times, when our communities are facing so many challenges, it’s easy to feel helpless as one person. But stories like <strong data-start="391" data-end="407">Justine Ing’s</strong> remind us that each of us can—and do—make a difference.</p>
   <p data-start="467" data-end="933">Justine was only eight years old when she joined her first <strong data-start="526" data-end="543">Walk for Rice</strong> in 2014. A year later, at just nine, she became a team captain. Her inspiration came from her grandmother, who had walked in Walk for Rice alongside her grandfather for many years. When her grandmother passed away in 2014, Justine decided to carry forward her legacy. She has walked every year since, leading with the same heart and commitment to community that her grandmother embodied.</p>
@@ -51,10 +49,12 @@ original_markdown_body: |-
   Justine’s journey is proof that the actions of one person, rooted in love and legacy, ripple outward to strengthen an entire community. She is a reminder that when we step forward—whether in memory of a loved one, or to tackle an issue like food insecurity—we are never walking alone.
 
   The post [One Person Can Make A Difference: Justine Ing’s Walk for Rice Journey](https://acrs.org/supporter-spotlight-justine-ing-walk-for-rice-champion/) appeared first on [ACRS](https://acrs.org).
+source: Asian Counseling and Referral Service
+source_url: https://acrs.org/supporter-spotlight-justine-ing-walk-for-rice-champion/
 summarized: true
+title: 'One Person Can Make A Difference:  Justine Ing’s Walk for Rice Journey'
 topics:
 - Food & Nutrition
-images: []
 ---
 
 Justine Ing's journey with the Walk for Rice began at the age of eight in 2014, inspired by her grandmother, a long-time participant and community activist. After her grandmother's passing that same year, Justine took on the role of team captain and has since walked annually, honoring her grandmother's legacy while addressing food insecurity within the community. Justine emphasizes the importance of the ACRS Food Bank for the Asian American and Pacific Islander (AAPI) community and encourages others to join by sharing personal stories about the walk's significance. 

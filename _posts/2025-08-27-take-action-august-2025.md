@@ -1,8 +1,6 @@
 ---
-title: 'Take Action: August 2025'
 date: '2025-08-27T18:14:42+00:00'
-source: El Centro de la Raza
-source_url: https://www.elcentrodelaraza.org/take-action-august-2025/?utm_source=rss&utm_medium=rss&utm_campaign=take-action-august-2025
+images: []
 original_content: |-
   <p>Washington State: Voting &amp; Registration — What You Need to Know</p>
 
@@ -187,10 +185,12 @@ original_markdown_body: |-
   3. **Take advantage of NVRD events** on **September 16** —great for outreach and support, especially if it’s your first time or you need to update.
 
   The post [Take Action: August 2025](https://www.elcentrodelaraza.org/take-action-august-2025/) appeared first on [El Centro de la Raza](https://www.elcentrodelaraza.org).
-summarized: true
-topics: []
 published: false
-images: []
+source: El Centro de la Raza
+source_url: https://www.elcentrodelaraza.org/take-action-august-2025/?utm_source=rss&utm_medium=rss&utm_campaign=take-action-august-2025
+summarized: true
+title: 'Take Action: August 2025'
+topics: []
 ---
 
 Washington State offers various methods for voter registration, including online, by mail, and in person. To register online, individuals need a valid Washington driver’s license, ID card, or the last four digits of their Social Security number. Registrations must be submitted at least 8 days before Election Day to be counted. For mail registrations, forms must also arrive by this deadline. In-person registration is available until 8 p.m. on Election Day.

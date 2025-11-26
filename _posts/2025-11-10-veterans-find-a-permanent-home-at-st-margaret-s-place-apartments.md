@@ -1,8 +1,8 @@
 ---
-title: Veterans Find a Permanent Home at St. Margaret’s Place Apartments 
 date: '2025-11-10T22:30:52+00:00'
-source: Catholic Community Services of Western Washington
-source_url: https://ccsww.org/veterans-find-a-permanent-home-at-st-margarets-place-apartments/?utm_source=rss&utm_medium=rss&utm_campaign=veterans-find-a-permanent-home-at-st-margarets-place-apartments
+images:
+- dc3c28c77162dea23a14b3fd408c51045d882575aa92361d1a9e08f3f07f217f
+- 277b7eceba286876a1995117eb7d0c0a7bb09e14a71395cb7fc969f5e13e4122
 original_content: |-
   <p>This November, Catholic Community Services’ (CCS)&nbsp;St. Margaret’s&nbsp;Place&nbsp;Apartments celebrates two years since opening, and residents who&nbsp;moved in at opening are celebrating two years of permanent affordable housing.&nbsp;&nbsp;</p>
 
@@ -113,13 +113,13 @@ original_markdown_body: |-
   **Read more about St. Margaret’s:** &nbsp;[Celebrating St. Margaret’s Place: Transforming Lives Through Permanent Supportive Housing | Catholic Community Services of Western Washington](https://ccsww.org/st-margarets-place-blessing-and-dedication/)&nbsp;
 
   The post [Veterans&nbsp;Find a Permanent Home at St. Margaret’s&nbsp;Place&nbsp;Apartments&nbsp;](https://ccsww.org/veterans-find-a-permanent-home-at-st-margarets-place-apartments/) first appeared on [Catholic Community Services of Western Washington](https://ccsww.org).
+source: Catholic Community Services of Western Washington
+source_url: https://ccsww.org/veterans-find-a-permanent-home-at-st-margarets-place-apartments/?utm_source=rss&utm_medium=rss&utm_campaign=veterans-find-a-permanent-home-at-st-margarets-place-apartments
 summarized: true
+title: Veterans Find a Permanent Home at St. Margaret’s Place Apartments 
 topics:
 - Shelter & Housing
 - Disabilities
-images:
-- dc3c28c77162dea23a14b3fd408c51045d882575aa92361d1a9e08f3f07f217f
-- 277b7eceba286876a1995117eb7d0c0a7bb09e14a71395cb7fc969f5e13e4122
 ---
 
 This November marks the second anniversary of St. Margaret’s Place Apartments, a permanent affordable housing facility in Shoreline operated by Catholic Community Services (CCS). Among its 100 apartments, 20 units are designated for veterans. Residents Malcolm and Andrew, who moved in at the opening, share their journeys of overcoming homelessness. After facing significant life challenges, including relationship breakdowns and unstable housing situations, both found stability at St. Margaret’s. They have formed a close friendship, supporting each other through their transitions.

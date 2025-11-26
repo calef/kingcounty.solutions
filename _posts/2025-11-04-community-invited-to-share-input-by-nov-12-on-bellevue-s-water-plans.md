@@ -1,8 +1,6 @@
 ---
-title: Community invited to share input by Nov. 12 on Bellevue’s water plans
 date: '2025-11-04T21:01:37+00:00'
-source: City of Bellevue
-source_url: https://bellevuewa.gov/city-news/community-invited-share-input-nov-12-bellevues-water-plans
+images: []
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Community
   invited to share input by Nov. 12 on Bellevue’s water plans </span>\n<span class=\"field
   field--name-uid field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/arich\"
@@ -50,10 +48,12 @@ original_markdown_body: |-
   Visit the project website at [BellevueWA.gov/ssw-plan](https://bellevuewa.gov/city-government/departments/utilities/utilities-projects-plans-standards/utilities-plans-and-reports/storm-and-surface-water-system-plan "go to page") to learn more about the plans, take the survey or apply to participate in a focus group.&nbsp;
 
   <time datetime="2025-11-04T12:00:00Z" class="datetime">November 4 2025</time>
-summarized: true
-topics: []
 published: false
-images: []
+source: City of Bellevue
+source_url: https://bellevuewa.gov/city-news/community-invited-share-input-nov-12-bellevues-water-plans
+summarized: true
+title: Community invited to share input by Nov. 12 on Bellevue’s water plans
+topics: []
 ---
 
 Bellevue Utilities is updating three key plans that manage the city's storm and surface water, drinking water, and wastewater systems. These updates aim to ensure reliable services, environmental protection, and community well-being. Utilities Director Lucy Liu emphasized the importance of resident input, stating, “No one likes flooded streets, polluted waterways, or declining plant and animal habitats.” To gather community feedback, residents are invited to participate in a short online survey and apply for a focus group by November 12. This initiative seeks to align city water management strategies with the priorities and values of Bellevue residents. More information is available on the project website, where residents can access the survey and focus group application.

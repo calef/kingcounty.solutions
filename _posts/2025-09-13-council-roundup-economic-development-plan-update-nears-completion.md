@@ -1,8 +1,6 @@
 ---
-title: 'Council Roundup: Economic Development Plan update nears completion'
 date: '2025-09-13T01:01:07+00:00'
-source: City of Bellevue
-source_url: https://bellevuewa.gov/city-news/council-roundup-9-9-25
+images: []
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Council
   Roundup: Economic Development Plan update nears completion</span>\n<span class=\"field
   field--name-uid field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"
@@ -128,10 +126,12 @@ original_markdown_body: |-
   The council also proclaimed [Eastside Welcoming Week](https://bellevue.legistar.com/View.ashx?M=F&ID=14754676&GUID=7CBD4625-C4AD-40C6-A9A1-67121170326E) in Bellevue, with a number of activities and events planned from Sept. 15-21, presented a proclamation for&nbsp;[National Service Dog Month](https://bellevue.legistar.com/View.ashx?M=F&ID=14754679&GUID=BAEA0362-7E60-4CFA-B03A-357FBE1A623A) and welcomed a special guest to the council chamber to accept the distinction, and declared September as&nbsp;[Hunger Action and Awareness Month](https://bellevue.legistar.com/View.ashx?M=F&ID=14754678&GUID=3B93D391-AAE5-430B-B144-AD3FFDD3B1AC).
 
   <time datetime="2025-09-12T12:00:00Z" class="datetime">September 12 2025</time>
-summarized: true
-topics: []
 published: false
-images: []
+source: City of Bellevue
+source_url: https://bellevuewa.gov/city-news/council-roundup-9-9-25
+summarized: true
+title: 'Council Roundup: Economic Development Plan update nears completion'
+topics: []
 ---
 
 The Bellevue City Council recently reviewed updates to the Economic Development Plan, aiming for adoption in December. The plan highlights a 39% rise in median household income from 2018 to 2023, adding over 10,000 jobs, particularly in downtown, which has seen substantial growth in office space. The creative economy remains a significant contributor, accounting for 37% of the region's gross product, with potential growth in sectors like life sciences and AI. 

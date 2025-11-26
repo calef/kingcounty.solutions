@@ -1,8 +1,6 @@
 ---
-title: October 2025 Newsletter
 date: '2025-10-16T16:05:48+00:00'
-source: CarePoint Clinic
-source_url: https://www.carepointonline.org/news/cjs3nmb1sgjnwig08hd5u4peh0zwnw-j4cj8-bpmhr-k43fa-7a5ma-swlke-2g5kz-k9c5t-jz292-yg2ex
+images: []
 original_content: "<figure class=\"\n              sqs-block-image-figure\n              intrinsic\n
   \           \"\n        >\n          \n        \n        \n\n        \n          <a
   class=\"\n                sqs-block-image-link\n                \n          \n        \n
@@ -29,10 +27,12 @@ original_markdown_body: |-
   [![](https://images.squarespace-cdn.com/content/v1/65c1886a315e4b1ef7f00c6a/565c1082-590e-49d4-9a96-971aefcffff3/October2025.jpg?format=1000w)](https://carepointclinic.dm.networkforgood.com/emails/4243406?recipient_id=gKmitG8yqD88wZ7BRslDrA||ZGVzaXJlZXN3YW5zb25AZ21haWwuY29t)
 
   Read our October 2025 newsletter [HERE!](https://carepointclinic.dm.networkforgood.com/emails/4243406?recipient_id=gKmitG8yqD88wZ7BRslDrA||ZGVzaXJlZXN3YW5zb25AZ21haWwuY29t)
-summarized: true
-topics: []
 published: false
-images: []
+source: CarePoint Clinic
+source_url: https://www.carepointonline.org/news/cjs3nmb1sgjnwig08hd5u4peh0zwnw-j4cj8-bpmhr-k43fa-7a5ma-swlke-2g5kz-k9c5t-jz292-yg2ex
+summarized: true
+title: October 2025 Newsletter
+topics: []
 ---
 
 The October 2025 newsletter, written by Desiree Swanson, has been released. It includes updates and highlights relevant to the CarePoint community. Readers are encouraged to engage with the newsletter for important information and announcements. The newsletter is accessible for those interested in staying informed about recent developments.

@@ -1,8 +1,6 @@
 ---
-title: Ed Ewing on ‘The Day with Trae’
 date: '2025-04-07T22:48:45+00:00'
-source: Bike Works
-source_url: https://bikeworks.org/ed-ewing-on-the-day-with-trae/?utm_source=rss&utm_medium=rss&utm_campaign=ed-ewing-on-the-day-with-trae
+images: []
 original_content: |-
   <p></p>
 
@@ -40,11 +38,13 @@ original_markdown_body: |-
   ​In the April 7th, 2025 episode of “[The Day With Trae](https://www.whereweconverge.com/the-day-with-trae),” host Trae Holiday interviews Ed Ewing, focusing on his contributions to the cycling community and his initiatives promoting diversity and inclusion within the sport. Ewing shares insights into his journey, the challenges faced in advocating for equitable access to cycling, and the impact of his work on underrepresented communities. The conversation also touches upon upcoming projects like the Youth Leadership Collective and events like [Bikecitement!](https://bikeworks.org/bikecitement/), aimed at fostering a more inclusive environment internally and externally at Bike Works. Check it out!
 
   The post [Ed Ewing on ‘The Day with Trae’](https://bikeworks.org/ed-ewing-on-the-day-with-trae/) appeared first on [Bike Works](https://bikeworks.org).
+source: Bike Works
+source_url: https://bikeworks.org/ed-ewing-on-the-day-with-trae/?utm_source=rss&utm_medium=rss&utm_campaign=ed-ewing-on-the-day-with-trae
 summarized: true
+title: Ed Ewing on ‘The Day with Trae’
 topics:
 - Disabilities
 - Education & Learning
-images: []
 ---
 
 In the April 7th, 2025 episode of “The Day With Trae,” host Trae Holiday interviews Ed Ewing, highlighting his contributions to the cycling community and his efforts to promote diversity and inclusion in the sport. Ewing discusses his personal journey and the challenges he has encountered in advocating for equitable access to cycling, particularly for underrepresented communities. The conversation also explores his upcoming initiatives, including the Youth Leadership Collective and the Bikecitement! event, both aimed at creating a more inclusive environment at Bike Works. Through these efforts, Ewing aims to make a significant impact on the cycling landscape, fostering greater accessibility and representation within the community.

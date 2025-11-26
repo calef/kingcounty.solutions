@@ -1,17 +1,19 @@
 ---
-title: IDA Success Story
 date: '2025-05-27T16:47:44+00:00'
+images: []
+original_content: Sayed and his family of 7 came to the US when the Taliban took over
+  in Afghanistan in 2019. When he first arrived, there were many things...
+original_markdown_body: Sayed and his family of 7 came to the US when the Taliban
+  took over in Afghanistan in 2019. When he first arrived, there were many things...
 source: Diocese of Olympia Refugee Resettlement Office
 source_url: https://www.dioceserroseattle.org/post/ida-success-story
-original_content: Sayed and his family of 7 came to the US when the Taliban took over in Afghanistan in 2019. When he first arrived, there were many things...
-original_markdown_body: Sayed and his family of 7 came to the US when the Taliban took over in Afghanistan in 2019. When he first arrived, there were many things...
 summarized: true
+title: IDA Success Story
 topics:
 - Employment & Job Support
 - Financial Assistance
 - Food & Nutrition
 - Shelter & Housing
-images: []
 ---
 
 Sayed and his family of seven resettled in the U.S. in 2019 after the Taliban took over Afghanistan. They chose Washington for its good schools, despite California's more abundant resources for newcomers. Before settling, they traveled across the U.S. to explore various states. Now, Sayed's children are thriving in school and pursuing their dreams, with one son excelling in soccer and another achieving top grades.

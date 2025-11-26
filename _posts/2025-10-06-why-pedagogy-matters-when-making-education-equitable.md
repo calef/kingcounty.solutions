@@ -1,14 +1,22 @@
 ---
-title: Why Pedagogy Matters When Making Education Equitable
 date: '2025-10-06T23:21:44+00:00'
+images: []
+original_content: Boze Elementary Students work together through a math worksheet.
+  In a project-based learning environment, students are encouraged to lean on one
+  another and find their own way of learning and absorbing information. The definition
+  of pedagogy is the practice of teaching, and the methodology used to influence children’s
+  learning and development.   How this applies [&#8230;]
+original_markdown_body: Boze Elementary Students work together through a math worksheet.
+  In a project-based learning environment, students are encouraged to lean on one
+  another and find their own way of learning and absorbing information. The definition
+  of pedagogy is the practice of teaching, and the methodology used to influence children’s
+  learning and development. &nbsp; How this applies […]
 source: Technology Access Foundation
 source_url: https://techaccess.org/why-pedagogy-matters-when-making-education-equitable/?utm_source=rss&utm_medium=rss&utm_campaign=why-pedagogy-matters-when-making-education-equitable
-original_content: Boze Elementary Students work together through a math worksheet. In a project-based learning environment, students are encouraged to lean on one another and find their own way of learning and absorbing information. The definition of pedagogy is the practice of teaching, and the methodology used to influence children’s learning and development.   How this applies [&#8230;]
-original_markdown_body: Boze Elementary Students work together through a math worksheet. In a project-based learning environment, students are encouraged to lean on one another and find their own way of learning and absorbing information. The definition of pedagogy is the practice of teaching, and the methodology used to influence children’s learning and development. &nbsp; How this applies […]
 summarized: true
+title: Why Pedagogy Matters When Making Education Equitable
 topics:
 - Education & Learning
-images: []
 ---
 
 Boze Elementary students engage in project-based learning, emphasizing collaboration and individual exploration. Pedagogy, the practice of teaching, varies among educators and has traditionally emphasized compliance through rote memorization and standardized testing, particularly in schools serving students of color. This outdated system prioritizes correct answers over critical thinking and conformity over cultural identity. TAF aims to transform pedagogy by focusing on equity and liberation, moving away from mere test preparation to empowering students to effect change within their communities.

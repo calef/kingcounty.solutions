@@ -1,8 +1,6 @@
 ---
-title: Bellevue to launch innovation challenge at June 4 forum
 date: '2025-05-29T23:22:04+00:00'
-source: City of Bellevue
-source_url: https://bellevuewa.gov/city-news/innovation-challenge
+images: []
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Bellevue
   to launch innovation challenge at June 4 forum</span>\n<span class=\"field field--name-uid
   field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"
@@ -82,10 +80,12 @@ original_markdown_body: "Bellevue to launch innovation challenge at June 4 forum
   to [Inclusive Innovation Forum](https://bellevuewa.gov/city-government/departments/ITD/innovation-programs
   \"Innovation Programs\").&nbsp;\n\n<time datetime=\"2025-05-29T12:00:00Z\" class=\"datetime\">May
   29 2025</time>"
-summarized: true
-topics: []
 published: false
-images: []
+source: City of Bellevue
+source_url: https://bellevuewa.gov/city-news/innovation-challenge
+summarized: true
+title: Bellevue to launch innovation challenge at June 4 forum
+topics: []
 ---
 
 During its third Inclusive Innovation Forum on June 4, 2025, the City of Bellevue will introduce a Civic Innovation Challenge aimed at fostering collaboration on civic technology solutions. The forum, scheduled from 6 to 8 p.m. at City Hall, targets local government, businesses, nonprofits, and community members to enhance innovation across city services. Nadia Hansen from Salesforce will deliver a keynote focused on inclusive innovation and the role of startups and civic tech in evolving digital government.

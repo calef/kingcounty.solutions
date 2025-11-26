@@ -1,8 +1,6 @@
 ---
-title: How Gus and His Parents Rebuilt Peace at Home
 date: '2025-09-02T22:39:04+00:00'
-source: Youth Eastside Services
-source_url: https://www.youtheastsideservices.org/gus-story-parent-child-interaction-therapy/?utm_source=rss&utm_medium=rss&utm_campaign=gus-story-parent-child-interaction-therapy
+images: []
 original_content: |-
   <p>When Mia and Max moved their young family from Brooklyn to the Seattle area, they knew life would be different. What they didn’t expect was just how hard the transition would hit their 3-year-old son, Gus*.</p>
   <p>In a matter of months, Gus lost the familiar rhythms of home, his school, caretakers, neighborhood, and even his bedroom, and the arrival of a new sibling was too much for a little boy to process.</p>
@@ -55,11 +53,13 @@ original_markdown_body: |-
   [![donate to youth mental health](https://www.youtheastsideservices.org/wp-content/uploads/2022/08/Fall-2020-Event-Donation-Header.png)](https://interland3.donorperfect.net/weblink/WebLink.aspx?name=yes&id=64)
 
   The post [How Gus and His Parents Rebuilt Peace at Home](https://www.youtheastsideservices.org/gus-story-parent-child-interaction-therapy/) appeared first on [Youth Eastside Services](https://www.youtheastsideservices.org).
+source: Youth Eastside Services
+source_url: https://www.youtheastsideservices.org/gus-story-parent-child-interaction-therapy/?utm_source=rss&utm_medium=rss&utm_campaign=gus-story-parent-child-interaction-therapy
 summarized: true
+title: How Gus and His Parents Rebuilt Peace at Home
 topics:
 - Mental Health & Counseling
 - Education & Learning
-images: []
 ---
 
 Mia and Max faced challenges when they relocated their family from Brooklyn to Seattle, particularly affecting their 3-year-old son, Gus. The transition disrupted Gus's familiar routines, leading to behavioral issues, including physical meltdowns and defiance. In search of help, the family sought guidance from their pediatrician, who recommended the Parent-Child Interaction Therapy (PCIT) program offered by YES. This evidence-based therapy aims to strengthen the parent-child bond while improving children's behavior. During sessions, parents receive real-time coaching from a therapist while interacting with their child in a specially designed room.

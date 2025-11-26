@@ -1,8 +1,6 @@
 ---
-title: Staying Abreast of Breast Cancer Screening Guidelines
 date: '2025-03-05T22:49:33+00:00'
-source: Hospital District No. 1 (Valley Medical Center)
-source_url: https://blog.valleymed.org/2025/03/05/staying-abreast-of-breast-cancer-screening-guidelines/?utm_source=rss&utm_medium=rss&utm_campaign=staying-abreast-of-breast-cancer-screening-guidelines
+images: []
 original_content: |-
   <p><img width="300" height="188" src="https://blog.valleymed.org/wp-content/uploads/2025/03/Schedule_mammogram-300x188.png" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://blog.valleymed.org/wp-content/uploads/2025/03/Schedule_mammogram-300x188.png 300w, https://blog.valleymed.org/wp-content/uploads/2025/03/Schedule_mammogram-768x480.png 768w, https://blog.valleymed.org/wp-content/uploads/2025/03/Schedule_mammogram-600x375.png 600w, https://blog.valleymed.org/wp-content/uploads/2025/03/Schedule_mammogram.png 800w" sizes="auto, (max-width: 300px) 100vw, 300px" /></p>
   <p>What are the current screening guidelines for mammograms? What is the role of a radiologist? If you&#8217;re told you have dense breasts, what does that mean? Get the answers to these questions and more from <strong><a href="https://www.valleymed.org/find-a-provider/p/thuy-pham" target="_blank" rel="noreferrer noopener"><span style="text-decoration: underline;">Thuy Pham, MD,</span></a> </strong>a primary care provider at Valley&#8217;s <strong><span style="text-decoration: underline;"><a href="https://www.valleymed.org/find-a-location/l/lake-wilderness-primary-care" data-type="link" data-id="https://www.valleymed.org/find-a-location/l/lake-wilderness-primary-care" target="_blank" rel="noreferrer noopener">Lake Wilderness Clinic</a></span></strong>, and <strong><a href="https://www.valleymed.org/find-a-provider/m/jason-k-mann" target="_blank" rel="noreferrer noopener"><span style="text-decoration: underline;">Jason Mann, MD,</span></a></strong> medical director for Valley&#8217;s <strong><a href="http://valleymed.org/breastcenter" target="_blank" rel="noreferrer noopener">Breast Center</a></strong>, in this video below. A summary of the conversation can be found below the video. </p>
@@ -116,10 +114,12 @@ original_markdown_body: "![](https://blog.valleymed.org/wp-content/uploads/2025/
   in the video, and additional information might only be in the video format. Our
   goal is to inform, educate, and inspire healthier living. If you have any questions
   about the video content, please&nbsp;**[contact us HERE](https://www.valleymed.org/forms/contact-us-form).**_"
+source: Hospital District No. 1 (Valley Medical Center)
+source_url: https://blog.valleymed.org/2025/03/05/staying-abreast-of-breast-cancer-screening-guidelines/?utm_source=rss&utm_medium=rss&utm_campaign=staying-abreast-of-breast-cancer-screening-guidelines
 summarized: true
+title: Staying Abreast of Breast Cancer Screening Guidelines
 topics:
 - Health Care
-images: []
 ---
 
 Breast cancer screening guidelines recommend that most women begin mammograms at age 40, with Valley Medical Center suggesting annual screenings. Primary care providers play a crucial role by discussing personal health, family history, and cancer risks during annual check-ups, while radiologists analyze mammograms for signs of cancer and collaborate with healthcare providers to address results. Approximately 13% of women in the U.S. will be diagnosed with breast cancer in their lifetime, making it the second most common cancer among females. While clinical breast exams and self-exams are not proven to significantly enhance detection rates, women should be familiar with their breasts and report any noticeable changes to their PCP. Dense breast tissue, indicated in mammogram reports, suggests a higher risk for breast cancer due to the increased presence of glandular tissue. During a breast imaging appointment, patients can expect a comfortable environment where technologists take images for radiologists to review. Results from screening mammograms are typically communicated via letter, email, or MyChart, while diagnostic results are provided on the same day. Appointments can be scheduled through MyChart or by calling the Breast Center.

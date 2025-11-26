@@ -1,8 +1,6 @@
 ---
-title: 'The Empress Tavern: A New Opportunity for Juma Sacramento Youth'
 date: '2025-11-19T18:19:46+00:00'
-source: Juma Ventures
-source_url: https://www.juma.org/2025/11/19/the-empress-tavern-a-new-opportunity-for-juma-sacramento-youth/
+images: []
 original_content: |-
   <p>Earlier this year, a new presence at Sacramento’s Empress Tavern turned on the lights in the historic venue with a vision for a neighborhood-centric event space. Alchemist Community Development Corporation, [&#8230;]</p>
   <p>The post <a href="https://www.juma.org/2025/11/19/the-empress-tavern-a-new-opportunity-for-juma-sacramento-youth/">The Empress Tavern: A New Opportunity for Juma Sacramento Youth</a> appeared first on <a href="https://www.juma.org">Juma</a>.</p>
@@ -10,11 +8,13 @@ original_markdown_body: |-
   Earlier this year, a new presence at Sacramento’s Empress Tavern turned on the lights in the historic venue with a vision for a neighborhood-centric event space. Alchemist Community Development Corporation, […]
 
   The post [The Empress Tavern: A New Opportunity for Juma Sacramento Youth](https://www.juma.org/2025/11/19/the-empress-tavern-a-new-opportunity-for-juma-sacramento-youth/) appeared first on [Juma](https://www.juma.org).
+source: Juma Ventures
+source_url: https://www.juma.org/2025/11/19/the-empress-tavern-a-new-opportunity-for-juma-sacramento-youth/
 summarized: true
+title: 'The Empress Tavern: A New Opportunity for Juma Sacramento Youth'
 topics:
 - Employment & Job Support
 - Food & Nutrition
-images: []
 ---
 
 Earlier this year, Sacramento's Empress Tavern underwent a transformation under the management of Alchemist Community Development Corporation, aiming to create a neighborhood-centric event space that highlights local food culture and supports equitable access to good food. Partnering with Juma, a nonprofit that empowers youth, the tavern provides opportunities for Juma youth to gain experience in hospitality through entry-level roles. 

@@ -1,16 +1,24 @@
 ---
-title: Upcoming SBHA Training
 date: '2025-10-22T17:50:59+00:00'
+images: []
+original_content: The upcoming webinars focus on preventing substance use and addressing
+  childhood chronic diseases in adolescents. Hosted by Futures Without Violence and
+  the School-Based Health Alliance, these sessions aim to equip health professionals
+  with strategies for prevention and education, fostering collaboration among various
+  stakeholders to improve adolescent health outcomes.
+original_markdown_body: The upcoming webinars focus on preventing substance use and
+  addressing childhood chronic diseases in adolescents. Hosted by Futures Without
+  Violence and the School-Based Health Alliance, these sessions aim to equip health
+  professionals with strategies for prevention and education, fostering collaboration
+  among various stakeholders to improve adolescent health outcomes.
 source: King County School Health
 source_url: https://kingcountyschoolhealthdotcom.wordpress.com/2025/10/22/upcoming-sbha-training/
-original_content: The upcoming webinars focus on preventing substance use and addressing childhood chronic diseases in adolescents. Hosted by Futures Without Violence and the School-Based Health Alliance, these sessions aim to equip health professionals with strategies for prevention and education, fostering collaboration among various stakeholders to improve adolescent health outcomes.
-original_markdown_body: The upcoming webinars focus on preventing substance use and addressing childhood chronic diseases in adolescents. Hosted by Futures Without Violence and the School-Based Health Alliance, these sessions aim to equip health professionals with strategies for prevention and education, fostering collaboration among various stakeholders to improve adolescent health outcomes.
 summarized: true
+title: Upcoming SBHA Training
 topics:
 - Education & Learning
 - Health Care
 - Mental Health & Counseling
-images: []
 ---
 
 A webinar titled "Preventing Substance Use and Exploitation in Adolescence" is scheduled for December 3, from 3:00 – 4:00 pm ET, hosted by Futures Without Violence and the School-Based Health Alliance. This session aims to equip health center providers and administrators with strategies to combat substance use, adolescent relationship abuse, and exploitation. Presenters will share clinical and community-based approaches to enhance prevention and response efforts, emphasizing the importance of universal education for all adolescent patients. Participants will learn to collaborate with youth, families, schools, and community organizations to create safer and healthier environments for adolescents.

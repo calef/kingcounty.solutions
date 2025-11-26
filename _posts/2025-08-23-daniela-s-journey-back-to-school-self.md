@@ -1,8 +1,7 @@
 ---
-title: Daniela’s Journey Back to School & Self
 date: '2025-08-23T00:30:36+00:00'
-source: Treehouse
-source_url: https://www.treehouseforkids.org/danielas-journey-back-to-school-self/
+images:
+- ce5f6f66e1ac01d11fe5de77d31d285ae30aae04012f1c4e2e57a3036828b785
 original_content: |-
   <p><img loading="lazy" decoding="async" class="aligncenter wp-image-195704" src="https://www.treehouseforkids.org/wp-content/uploads/2025/06/Screenshot-87.png" alt="" width="700" height="700" srcset="https://www.treehouseforkids.org/wp-content/uploads/2025/06/Screenshot-87.png 975w, https://www.treehouseforkids.org/wp-content/uploads/2025/06/Screenshot-87-300x300.png 300w, https://www.treehouseforkids.org/wp-content/uploads/2025/06/Screenshot-87-150x150.png 150w" sizes="auto, (max-width: 700px) 100vw, 700px" /></p>
   <p><span data-contrast="none">“I&#8217;ve always been really smart, but my life was just always getting in the way,” says Daniela. She is one of the </span><a href="https://youtu.be/5AUSVLg6Go0?si=zwdtbqryYUS9xVW7" target="_blank" rel="noopener"><span data-contrast="none">Class of 2025 graduates</span></a><span data-contrast="none"> Treehouse celebrated earlier this year; this is her story leading up to that milestone and the beginning of her journey as a young adult.</span><span data-ccp-props="{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;201341983&quot;:0,&quot;335551550&quot;:1,&quot;335551620&quot;:1,&quot;335559685&quot;:0,&quot;335559737&quot;:0,&quot;335559738&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:240}"> </span></p>
@@ -79,11 +78,12 @@ original_markdown_body: |-
   ##### **To support students get back to school, see how you can [take action](https://www.treehouseforkids.org/take-action/)!&nbsp;**
 
   The post [Daniela’s Journey Back to School & Self](https://www.treehouseforkids.org/danielas-journey-back-to-school-self/) appeared first on [Treehouse](https://www.treehouseforkids.org).
+source: Treehouse
+source_url: https://www.treehouseforkids.org/danielas-journey-back-to-school-self/
 summarized: true
+title: Daniela’s Journey Back to School & Self
 topics:
 - Education & Learning
-images:
-- ce5f6f66e1ac01d11fe5de77d31d285ae30aae04012f1c4e2e57a3036828b785
 ---
 
 Daniela, a Class of 2025 graduate, shares her journey from a challenging childhood to embracing her education and self-identity. Raised by a single mother who struggled to provide, Daniela found support from a caring teacher and later entered foster care after being a crime victim. Despite the upheaval, she maintained her academic performance. In 10th grade, feeling lost and influenced by peers, she realized the importance of education and self-care. With encouragement from her chosen sister, Daniela focused on her well-being and re-engaged with her studies.

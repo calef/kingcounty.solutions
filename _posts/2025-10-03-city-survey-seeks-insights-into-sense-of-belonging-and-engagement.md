@@ -1,8 +1,6 @@
 ---
-title: City survey seeks insights into sense of belonging and engagement
 date: '2025-10-03T16:06:25+00:00'
-source: City of Bellevue
-source_url: https://bellevuewa.gov/city-news/community-survey-25
+images: []
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">City
   survey seeks insights into sense of belonging and engagement</span>\n<span class=\"field
   field--name-uid field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"
@@ -60,10 +58,12 @@ original_markdown_body: |-
   In a related effort, community members can participate in a [separate survey](https://bellevue.az1.qualtrics.com/jfe/form/SV_1YBpsvL24r0ixoy) open until Oct. 5 about the city’s brand identity and communications methods.&nbsp;
 
   <time datetime="2025-10-03T12:00:00Z" class="datetime">October 3 2025</time>
-summarized: true
-topics: []
 published: false
-images: []
+source: City of Bellevue
+source_url: https://bellevuewa.gov/city-news/community-survey-25
+summarized: true
+title: City survey seeks insights into sense of belonging and engagement
+topics: []
 ---
 
 The City of Bellevue is conducting a survey to assess community members' feelings about living in the city and to evaluate whether it meets the diverse needs of its residents. The findings will help the city understand the effectiveness of its services and identify areas for improvement. The survey, available in multiple languages, is open until October 31 and includes questions from previous years to track changes over time. Bellevue has partnered with the independent research firm ReconMR to administer the survey. Additionally, a separate survey focused on the city’s brand identity and communication methods is available until October 5. Community members can reach out to Micah Philips, the city’s performance and outreach coordinator, for any questions regarding the surveys.

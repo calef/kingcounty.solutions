@@ -1,8 +1,6 @@
 ---
-title: 'Council Roundup: New five-year Sustainable Bellevue Plan'
 date: '2025-10-17T15:42:42+00:00'
-source: City of Bellevue
-source_url: https://bellevuewa.gov/city-news/council-roundup-10-14-25
+images: []
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Council
   Roundup: New five-year Sustainable Bellevue Plan</span>\n<span class=\"field field--name-uid
   field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"
@@ -168,11 +166,13 @@ original_markdown_body: "Council Roundup: New five-year Sustainable Bellevue Pla
   in recognition of the significant contributions of Hindu Americans and the special
   meaning October has in Hindu culture.&nbsp;\n\n<time datetime=\"2025-10-17T12:00:00Z\"
   class=\"datetime\">October 17 2025</time>"
+source: City of Bellevue
+source_url: https://bellevuewa.gov/city-news/council-roundup-10-14-25
 summarized: true
+title: 'Council Roundup: New five-year Sustainable Bellevue Plan'
 topics:
 - Shelter & Housing
 - Transportation & Mobility
-images: []
 ---
 
 On October 14, 2025, the Bellevue City Council unanimously adopted the 2026-2030 Sustainable Bellevue Plan, marking the second major update since its original approval in 2021. This plan aims to reduce greenhouse gas emissions and achieve carbon neutrality by 2050, featuring strategies focused on climate change, energy, mobility, waste, and natural systems. Key actions include expanding the Energy Smart Eastside program and promoting building decarbonization.

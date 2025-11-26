@@ -1,9 +1,6 @@
 ---
-title: 'Seattle City (spot)Light: Kristina Pham, Enterprise Organizational Change
-  Manager'
 date: '2025-09-29T16:00:00+00:00'
-source: City Light Bill Assistance Programs
-source_url: https://powerlines.seattle.gov/2025/09/29/seattle-city-spotlight-kristina-pham-enterprise-organizational-change-manager/
+images: []
 original_content: '<img width="150" height="150" src="https://powerlines.seattle.gov/wp-content/uploads/sites/17/2025/09/pham_spotlight_4x3-150x150.png"
   class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom:
   5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy"
@@ -19,10 +16,13 @@ original_markdown_body: "![](https://powerlines.seattle.gov/wp-content/uploads/s
   4 years &nbsp; Tell us about your role: My role is to ensure City Light employees
   are supported through organizational change initiatives. As the Organizational Change
   Manager, I lead a team of four in developing and implementing strategies and […]"
-summarized: true
-topics: []
 published: false
-images: []
+source: City Light Bill Assistance Programs
+source_url: https://powerlines.seattle.gov/2025/09/29/seattle-city-spotlight-kristina-pham-enterprise-organizational-change-manager/
+summarized: true
+title: 'Seattle City (spot)Light: Kristina Pham, Enterprise Organizational Change
+  Manager'
+topics: []
 ---
 
 Kristina Pham serves as the Enterprise Organizational Change Manager at Seattle City Light, where she has worked for four years. Her primary role involves leading a team focused on supporting employees during organizational change initiatives. They develop and implement strategies to ensure smooth transitions, particularly during technology implementations and process changes. Pham holds a degree in business management with a minor in information technology from George Mason University and hails from Fairfax, Virginia. 

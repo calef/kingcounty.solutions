@@ -1,8 +1,6 @@
 ---
-title: Traumatic events in communities can make organizations more risk-averse
 date: '2025-11-24T20:04:18+00:00'
-source: University of Washington
-source_url: https://www.washington.edu/news/2025/11/24/traumatic-events-in-communities-can-make-organizations-more-risk-averse/
+images: []
 original_content: |-
   <div id="attachment_89937" class="wp-caption aligncenter" style="width: 1290px"><img fetchpriority="high" decoding="async" class="size-full wp-image-89937" src="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/24105640/office-1516329_1280.jpg" alt="Empty office chairs at a table with an open laptop computer on it" width="1280" height="848" srcset="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/24105640/office-1516329_1280.jpg 1280w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/24105640/office-1516329_1280-300x199.jpg 300w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/24105640/office-1516329_1280-1024x678.jpg 1024w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/24105640/office-1516329_1280-768x509.jpg 768w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/24105640/office-1516329_1280-375x248.jpg 375w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/24105640/office-1516329_1280-750x497.jpg 750w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/24105640/office-1516329_1280-1140x755.jpg 1140w" sizes="(max-width: 1280px) 100vw, 1280px" /></p>
   <p class="wp-caption-text">New research shows that violent traumatic events in local communities make decision-makers less focused on pursuing lofty objectives.<span class="wp-media-credit">Pixabay</span></span></p>
@@ -57,10 +55,12 @@ original_markdown_body: |-
   _Other co-authors were_ [_Christian Schumacher_](https://www.wu.ac.at/en/ism/team/christian-schumacher-phd) _of Vienna University of Economics and Business and_ [_Steffen Keck_](https://strategy.univie.ac.at/people/steffen-keck/) _of the University of Vienna._
 
   _For more information, contact Gupta at_ [_abhinavg@uw.edu_](mailto:abhinavg@uw.edu)_._
-summarized: true
-topics: []
 published: false
-images: []
+source: University of Washington
+source_url: https://www.washington.edu/news/2025/11/24/traumatic-events-in-communities-can-make-organizations-more-risk-averse/
+summarized: true
+title: Traumatic events in communities can make organizations more risk-averse
+topics: []
 ---
 
 New research from the University of Washington reveals that violent traumatic events in communities, such as mass shootings, significantly reduce organizational risk-taking. This study, published in the Academy of Management Journal, challenges the notion that decision-makers are purely rational and unaffected by external emotional states. It demonstrates that emotional experiences in the community can influence workplace decisions, leading to a decreased focus on ambitious goals. 

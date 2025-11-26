@@ -1,8 +1,6 @@
 ---
-title: Community leaders invited to join Valley Cities’ first 2025 Coffee Chat in Kent
 date: '2025-08-25T19:26:17+00:00'
-source: Valley Cities Behavioral Health Care
-source_url: https://valleycities.org/community-leaders-invited-to-join-valley-cities-first-2025-coffee-chat-in-kent/
+images: []
 original_content: |-
   <p>As seen in the Kent and Auburn Reporters</p>
   <p>Since launching the Community Coffee Chats initiative,<a href="https://valleycities.org/" target="_blank" rel="nofollow noopener" data-mrf-link="https://valleycities.org/"> Valley Cities Behavioral Health Care</a> has received overwhelmingly positive feedback from the communities it serves.</p>
@@ -55,10 +53,13 @@ original_markdown_body: |-
   _If you or someone you know is currently struggling with mental health and/or addiction, contact the Valley Cities team by phone at 253-833-7444 or in person at your local Valley Cities location. You can also call the 24 hour crisis line at 206-461-3222 or toll free at 866-427-4747._
 
   The post [Community leaders invited to join Valley Cities’ first 2025 Coffee Chat in Kent](https://valleycities.org/community-leaders-invited-to-join-valley-cities-first-2025-coffee-chat-in-kent/) appeared first on [Valley Cities Behavioral Health Care](https://valleycities.org).
+source: Valley Cities Behavioral Health Care
+source_url: https://valleycities.org/community-leaders-invited-to-join-valley-cities-first-2025-coffee-chat-in-kent/
 summarized: true
+title: Community leaders invited to join Valley Cities’ first 2025 Coffee Chat in
+  Kent
 topics:
 - Mental Health & Counseling
-images: []
 ---
 
 Community leaders are invited to the first Community Coffee Chat of 2025, hosted by Valley Cities Behavioral Health Care on May 21 in Kent. This event will take place at the Multi Service Center, focusing on "Responding to the Fentanyl Crisis" and discussing Valley Cities' role in addressing substance use challenges in King County. The initiative has received positive feedback since its inception, bringing together local politicians, first responders, and business owners to engage in community support efforts.

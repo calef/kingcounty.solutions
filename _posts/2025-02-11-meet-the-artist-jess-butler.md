@@ -1,8 +1,6 @@
 ---
-title: 'Meet the Artist: Jess Butler'
 date: '2025-02-11T17:32:29+00:00'
-source: SouthEast Effective Development
-source_url: https://www.seedseattle.org/meet-the-artist-jess-butler/
+images: []
 original_content: |-
   <div class="wp-block-media-text is-stacked-on-mobile is-vertically-aligned-center" style="grid-template-columns:30% auto"><figure class="wp-block-media-text__media"><img loading="lazy" decoding="async" width="711" height="1024" src="https://www.seedseattle.org/wp-content/uploads/2025/02/Jess-Butler-photo-711x1024.jpg" alt="" class="wp-image-3027 size-full" srcset="https://www.seedseattle.org/wp-content/uploads/2025/02/Jess-Butler-photo-711x1024.jpg 711w, https://www.seedseattle.org/wp-content/uploads/2025/02/Jess-Butler-photo-208x300.jpg 208w, https://www.seedseattle.org/wp-content/uploads/2025/02/Jess-Butler-photo-768x1106.jpg 768w, https://www.seedseattle.org/wp-content/uploads/2025/02/Jess-Butler-photo.jpg 793w" sizes="auto, (max-width: 711px) 100vw, 711px" /></figure><div class="wp-block-media-text__content">
   <p>Jess Butler (she/her) is a multidisciplinary artist, practicing oil painting and rug tufting in her <a href="https://www.seedseattle.org/seedarts-studios/">SEEDArts studio</a>. She also designs high-end maternity and loungewear apparel for her budding brand &#8220;by jess&#8221; in her sewing studio at home. Jess received her BFA in painting, drawing, and printmaking from Western Washington University, where she began creating large scale seascapes on walls and canvases. She learned fashion design through the Apparel Design &amp; Development program at Seattle Central College. Her work shares common threads between mediums where she explores concepts of vulnerability and sensation in encompassing transitory surroundings through texture, color, and scale. </p>
@@ -60,10 +58,12 @@ original_markdown_body: |-
   She loves working in South Seattle and has a soft spot for soft stuff and sneakers. [Learn more about Jess.](http://byjess.xyz/)
 
   The post [Meet the Artist: Jess Butler](https://www.seedseattle.org/meet-the-artist-jess-butler/) appeared first on [SouthEast Effective Development](https://www.seedseattle.org).
-summarized: true
-topics: []
 published: false
-images: []
+source: SouthEast Effective Development
+source_url: https://www.seedseattle.org/meet-the-artist-jess-butler/
+summarized: true
+title: 'Meet the Artist: Jess Butler'
+topics: []
 ---
 
 Jess Butler is a multidisciplinary artist based in South Seattle, known for her oil painting and rug tufting, which she practices in her SEEDArts studio. In addition to her art, she runs a budding brand called “by jess,” focusing on high-end maternity and loungewear apparel, crafted in her home sewing studio. Butler earned her BFA in painting, drawing, and printmaking from Western Washington University, where she began creating large-scale seascapes. She also studied fashion design through the Apparel Design & Development program at Seattle Central College. Her artistic work interweaves various mediums, exploring themes of vulnerability and sensation in relation to transitory environments, emphasizing texture, color, and scale. Butler expresses a particular fondness for soft materials and sneakers, reflecting her personal style and creative influences.

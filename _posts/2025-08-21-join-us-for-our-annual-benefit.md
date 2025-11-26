@@ -1,8 +1,7 @@
 ---
-title: Join us for our Annual Benefit!
 date: '2025-08-21T18:23:00+00:00'
-source: CarePoint Clinic
-source_url: https://www.carepointonline.org/news/cjs3nmb1sgjnwig08hd5u4peh0zwnw-j4cj8-bpmhr-k43fa-7a5ma-swlke-2g5kz-ydpck
+images:
+- ba1e40fd96f6b1348fa1985f21d659d6e293a0a65f23780425faa25a378d76df
 original_content: "<figure class=\"\n              sqs-block-image-figure\n              intrinsic\n
   \           \"\n        >\n          \n        \n        \n\n        \n          <a
   class=\"\n                sqs-block-image-link\n                \n          \n        \n
@@ -34,13 +33,14 @@ original_markdown_body: |-
   Its almost here! Bring a friend and join us for the Healthcare on the Move Annual Benefit - An evening of food, drinks, live music and celebration! Take a tour of our mobile unit, learn more about CarePoint’s mission and discover how we're making a difference in the Snoqualmie Valley. Together, we can keep the wheels turning!
 
   [RESERVE YOUR TICKET HERE!](https://carepointclinic.networkforgood.com/events/88936-healthcare-on-the-move-annual-benefit)
+source: CarePoint Clinic
+source_url: https://www.carepointonline.org/news/cjs3nmb1sgjnwig08hd5u4peh0zwnw-j4cj8-bpmhr-k43fa-7a5ma-swlke-2g5kz-ydpck
 summarized: true
+title: Join us for our Annual Benefit!
 topics:
 - Health Care
 - Food & Nutrition
 - Transportation & Mobility
-images:
-- ba1e40fd96f6b1348fa1985f21d659d6e293a0a65f23780425faa25a378d76df
 ---
 
 Join CarePoint for the Healthcare on the Move Annual Benefit on August 21. This event promises an evening filled with food, drinks, live music, and celebration. Attendees will have the opportunity to tour CarePoint's mobile unit, learn about the organization's mission, and see how they are making a positive impact in the Snoqualmie Valley. The event aims to foster community support and engagement. Tickets are available for those interested in participating in this meaningful occasion.

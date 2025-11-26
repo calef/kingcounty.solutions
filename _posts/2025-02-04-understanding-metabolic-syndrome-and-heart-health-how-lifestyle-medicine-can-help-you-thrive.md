@@ -1,9 +1,6 @@
 ---
-title: 'Understanding Metabolic Syndrome and Heart Health: How Lifestyle Medicine
-  Can Help You Thrive'
 date: '2025-02-04T00:09:56+00:00'
-source: Hospital District No. 1 (Valley Medical Center)
-source_url: https://blog.valleymed.org/2025/02/03/understanding-metabolic-syndrome-and-heart-health-how-lifestyle-medicine-can-help-you-thrive/?utm_source=rss&utm_medium=rss&utm_campaign=understanding-metabolic-syndrome-and-heart-health-how-lifestyle-medicine-can-help-you-thrive
+images: []
 original_content: |-
   <p><img width="300" height="188" src="https://blog.valleymed.org/wp-content/uploads/2025/01/pedometer-blog-300x188.jpg" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://blog.valleymed.org/wp-content/uploads/2025/01/pedometer-blog-300x188.jpg 300w, https://blog.valleymed.org/wp-content/uploads/2025/01/pedometer-blog-768x480.jpg 768w, https://blog.valleymed.org/wp-content/uploads/2025/01/pedometer-blog-600x375.jpg 600w, https://blog.valleymed.org/wp-content/uploads/2025/01/pedometer-blog.jpg 800w" sizes="auto, (max-width: 300px) 100vw, 300px" /></p>
   <p>Metabolic syndrome and heart health are important topics that impact millions of people. In fact, about 1 in 3 adults in the U.S. has metabolic syndrome, which increases the risk of heart disease, stroke, and type 2 diabetes. The good news? You can take steps to improve your health, and Valley’s <strong><span style="text-decoration: underline;"><a href="http://valleymed.org/lifestylemed" target="_blank" rel="noreferrer noopener">Lifestyle Medicine</a></span></strong> team is here to help.</p>
@@ -187,11 +184,14 @@ original_markdown_body: "![](https://blog.valleymed.org/wp-content/uploads/2025/
   with a provider about your own healthcare conditions. Our goal is to inform, educate,
   and inspire healthier living. If you have any questions about the article content,
   please&nbsp;**[contact us HERE](https://www.valleymed.org/forms/contact-us-form).**_"
+source: Hospital District No. 1 (Valley Medical Center)
+source_url: https://blog.valleymed.org/2025/02/03/understanding-metabolic-syndrome-and-heart-health-how-lifestyle-medicine-can-help-you-thrive/?utm_source=rss&utm_medium=rss&utm_campaign=understanding-metabolic-syndrome-and-heart-health-how-lifestyle-medicine-can-help-you-thrive
 summarized: true
+title: 'Understanding Metabolic Syndrome and Heart Health: How Lifestyle Medicine
+  Can Help You Thrive'
 topics:
 - Health Care
 - Mental Health & Counseling
-images: []
 ---
 
 Metabolic syndrome affects approximately one in three adults in the U.S., significantly increasing the risk of heart disease, stroke, and type 2 diabetes. Defined by a cluster of conditions such as abdominal obesity, high blood pressure, elevated blood sugar, and abnormal cholesterol levels, it can lead to serious health complications if left unmanaged. The syndrome contributes to blood vessel damage, inflammation, and plaque buildup in arteries, heightening the risk of heart attacks and strokes.

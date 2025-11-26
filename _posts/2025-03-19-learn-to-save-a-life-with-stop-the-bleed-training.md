@@ -1,8 +1,6 @@
 ---
-title: Learn to Save a Life with STOP THE BLEED® Training
 date: '2025-03-19T18:20:49+00:00'
-source: Hospital District No. 1 (Valley Medical Center)
-source_url: https://blog.valleymed.org/2025/03/19/learn-to-save-a-life-with-stop-the-bleed-training/?utm_source=rss&utm_medium=rss&utm_campaign=learn-to-save-a-life-with-stop-the-bleed-training
+images: []
 original_content: |-
   <p><img width="300" height="188" src="https://blog.valleymed.org/wp-content/uploads/2025/03/2025_Stop-the-Bleed-300x188.png" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://blog.valleymed.org/wp-content/uploads/2025/03/2025_Stop-the-Bleed-300x188.png 300w, https://blog.valleymed.org/wp-content/uploads/2025/03/2025_Stop-the-Bleed-768x480.png 768w, https://blog.valleymed.org/wp-content/uploads/2025/03/2025_Stop-the-Bleed-600x375.png 600w, https://blog.valleymed.org/wp-content/uploads/2025/03/2025_Stop-the-Bleed.png 800w" sizes="auto, (max-width: 300px) 100vw, 300px" /></p>
   <p>Did you know that uncontrolled bleeding is the leading cause of preventable death in trauma? Valley Medical Center&#8217;s Trauma Services is proud to offer <strong>FREE</strong> <a href="https://www.stopthebleed.org/"><strong><span style="text-decoration: underline;">STOP THE BLEED®</span></strong></a> training to our community! In this exciting 1-hour, hands-on class, you&#8217;ll learn simple yet effective techniques to control severe bleeding using direct pressure, wound packing, and tourniquet application. This skill can save lives in everyday emergencies — car accidents, falls, or unexpected injuries. </p>
@@ -62,10 +60,12 @@ original_markdown_body: |-
   - [**Friday, April 18 from 9 – 10 AM**](https://valleymeddirect.my.site.com/s/lt-event?id=a2PDo000001JJvtMAG)
   - [**Friday, June 27 from 9 – 10 AM**](https://valleymeddirect.my.site.com/s/lt-event?id=a2PDo000001JK1XMAW)
   - [**Friday, August 29 from 9 – 10 AM**](https://valleymeddirect.my.site.com/s/lt-event?id=a2PDo000001JK1cMAG)
+source: Hospital District No. 1 (Valley Medical Center)
+source_url: https://blog.valleymed.org/2025/03/19/learn-to-save-a-life-with-stop-the-bleed-training/?utm_source=rss&utm_medium=rss&utm_campaign=learn-to-save-a-life-with-stop-the-bleed-training
 summarized: true
+title: Learn to Save a Life with STOP THE BLEED® Training
 topics:
 - Health Care
-images: []
 ---
 
 Valley Medical Center's Trauma Services is offering FREE STOP THE BLEED® training to the community, focusing on preventing deaths from uncontrolled bleeding, the leading cause of preventable death in trauma. This hands-on, one-hour class teaches participants effective techniques for controlling severe bleeding through direct pressure, wound packing, and tourniquet application. These skills are vital in emergencies such as car accidents and unexpected injuries. The training is open to individuals aged 18 and older, with classes limited to 15 participants and a minimum of 8 required to proceed. Those unable to attend are encouraged to cancel at least 24 hours in advance to allow others to participate. With over 2.1 million people trained, this is an opportunity to learn life-saving skills. Upcoming sessions are scheduled for April 18, June 27, and August 29, each from 9 to 10 AM.

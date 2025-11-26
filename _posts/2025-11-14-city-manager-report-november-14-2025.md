@@ -1,14 +1,34 @@
 ---
-title: City Manager Report – November 14, 2025
 date: '2025-11-14T23:44:51+00:00'
+images: []
+original_content: City Council Meeting Roundup on Wednesday, November 12th, the Normandy
+  Park City Council held its regular monthly meeting. Below is a summary of key actions
+  and discussions. The City has accepted a Flood Control District Flood Reduction
+  Grant - The City is receiving a $750,000 grant award that will be used towards the
+  purchase of property to expand Marine View Park. The Interlocal Agreement with the
+  South Correctional Entity (SCORE) Jail was updated – The City Council approved specific
+  financial adjustments to help cover jail costs. Approving this amendment will enable
+  the City of Normandy Park to continue uninterrupted jail services that work seamlessly
+  with our Court and provide the most benefit to Normandy Park residents. Even with
+  the approved increases, this agreement is still the most affordable option available
+  to us for our short-term commitments.
+original_markdown_body: City Council Meeting Roundup on Wednesday, November 12th,
+  the Normandy Park City Council held its regular monthly meeting. Below is a summary
+  of key actions and discussions. The City has accepted a Flood Control District Flood
+  Reduction Grant - The City is receiving a $750,000 grant award that will be used
+  towards the purchase of property to expand Marine View Park. The Interlocal Agreement
+  with the South Correctional Entity (SCORE) Jail was updated – The City Council approved
+  specific financial adjustments to help cover jail costs. Approving this amendment
+  will enable the City of Normandy Park to continue uninterrupted jail services that
+  work seamlessly with our Court and provide the most benefit to Normandy Park residents.
+  Even with the approved increases, this agreement is still the most affordable option
+  available to us for our short-term commitments.
+published: false
 source: City of Normandy Park
 source_url: https://normandyparkwa.gov/city-news/city-manager/city-manager-report-november-14-2025/
-original_content: City Council Meeting Roundup on Wednesday, November 12th, the Normandy Park City Council held its regular monthly meeting. Below is a summary of key actions and discussions. The City has accepted a Flood Control District Flood Reduction Grant - The City is receiving a $750,000 grant award that will be used towards the purchase of property to expand Marine View Park. The Interlocal Agreement with the South Correctional Entity (SCORE) Jail was updated – The City Council approved specific financial adjustments to help cover jail costs. Approving this amendment will enable the City of Normandy Park to continue uninterrupted jail services that work seamlessly with our Court and provide the most benefit to Normandy Park residents. Even with the approved increases, this agreement is still the most affordable option available to us for our short-term commitments.
-original_markdown_body: City Council Meeting Roundup on Wednesday, November 12th, the Normandy Park City Council held its regular monthly meeting. Below is a summary of key actions and discussions. The City has accepted a Flood Control District Flood Reduction Grant - The City is receiving a $750,000 grant award that will be used towards the purchase of property to expand Marine View Park. The Interlocal Agreement with the South Correctional Entity (SCORE) Jail was updated – The City Council approved specific financial adjustments to help cover jail costs. Approving this amendment will enable the City of Normandy Park to continue uninterrupted jail services that work seamlessly with our Court and provide the most benefit to Normandy Park residents. Even with the approved increases, this agreement is still the most affordable option available to us for our short-term commitments.
 summarized: true
+title: City Manager Report – November 14, 2025
 topics: []
-published: false
-images: []
 ---
 
 On November 12, 2025, the Normandy Park City Council met to discuss various actions. The City received a $750,000 Flood Control District grant for Marine View Park expansion. An updated Interlocal Agreement with SCORE Jail was approved to cover jail costs. The Council adopted updated Road Design and Construction Standards through Ordinances #1081 and #1082. Resident Tod Haggard was appointed to the Parks Commission. The first reading of Ordinance #1085 amended the 2025-2026 budget, while Resolution #1028 set the 2026 property tax levy rate at 1.60. Franchise agreements with Forged Fiber and Astound were also introduced.

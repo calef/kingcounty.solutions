@@ -1,8 +1,6 @@
 ---
-title: CONNECTIONS – October, 2025
 date: '2025-10-16T17:08:03+00:00'
-source: YouthCare
-source_url: https://youthcare.org/blog/connections-october-2025/
+images: []
 original_content: |-
   <p></p>
 
@@ -126,11 +124,13 @@ original_markdown_body: |-
   Are you interested in getting involved with YouthCare? We have an array of ways that you can get involved, from serving meals at our Orion Center to organizing in-kind donations. Visit our website to learn more or reach out to our volunteer department&nbsp;**[HERE.](mailto:volunteers@youthcare.org)**
 
   The post [CONNECTIONS – October, 2025](https://youthcare.org/blog/connections-october-2025/) appeared first on [YouthCare](https://youthcare.org).
+source: YouthCare
+source_url: https://youthcare.org/blog/connections-october-2025/
 summarized: true
+title: CONNECTIONS – October, 2025
 topics:
 - Employment & Job Support
 - Shelter & Housing
-images: []
 ---
 
 Welcome to CONNECTIONS, YouthCare’s monthly newsletter highlighting the organization's work and achievements. Interim CEO Marty Hartman leads a transition team focused on stabilizing YouthCare operationally and financially by engaging with youth, staff, and community stakeholders. The aim is to strengthen the financial foundation and enhance organizational stability while protecting vital programs for young people.
