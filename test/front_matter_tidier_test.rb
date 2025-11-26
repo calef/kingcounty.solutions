@@ -55,4 +55,19 @@ class FrontMatterTidierTest < Minitest::Test
       assert_equal 'No front matter here', File.read(file)
     end
   end
+
+  def test_tidy_markdown_uses_two_space_indents
+    original = <<~MD
+      ---
+      nested:
+            child: value
+      ---
+      Body
+    MD
+
+    result = @tidier.tidy_markdown(original)
+
+    assert_includes result, "  child: value"
+    refute_includes result, "    child: value"
+  end
 end

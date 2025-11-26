@@ -85,7 +85,7 @@ module Mayhem
     def build_yaml_segment(front_matter)
       return '' if front_matter.empty?
 
-      segment = YAML.dump(front_matter)
+      segment = YAML.dump(front_matter, indentation: 2)
       segment = segment.sub(/\A---\s*\n/, '')
       segment = segment.sub(/\.\.\.\s*\n\z/, '')
       segment.rstrip
