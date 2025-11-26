@@ -4,6 +4,8 @@ jurisdictions:
 - Bellevue
 parent_organization: Puget Sound Educational Service District 121
 title: Bellevue School District
+phone: "(425) 456-4010"
+address: 12011 NE 1st Street, Bellevue, WA 98005
 topics:
 - Education & Learning
 type: School District
