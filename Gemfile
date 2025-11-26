@@ -19,6 +19,7 @@ end
 gem 'minitest'
 gem 'simplecov', require: false
 gem 'nokogiri'
+gem 'mini_magick'
 gem 'open-uri'
 gem 'psych'
 gem 'reverse_markdown'

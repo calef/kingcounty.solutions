@@ -2,6 +2,7 @@
 
 require 'digest'
 require 'fileutils'
+require 'mini_magick'
 require 'open-uri'
 require 'uri'
 require_relative '../logging'
@@ -15,6 +16,8 @@ module Mayhem
       IMAGE_ASSET_DIR = File.join('assets', 'images')
       DEFAULT_OPEN_TIMEOUT = Integer(ENV.fetch('IMAGE_OPEN_TIMEOUT', '10')) rescue 10
       DEFAULT_READ_TIMEOUT = Integer(ENV.fetch('IMAGE_READ_TIMEOUT', '30')) rescue 30
+      RASTER_EXTENSIONS = %w[.jpg .jpeg .png .gif .bmp .tif .tiff].freeze
+      MIN_IMAGE_DIMENSION = Integer(ENV.fetch('IMAGE_MIN_DIMENSION', '300')) rescue 300
 
       attr_reader :logger
 
@@ -137,8 +140,12 @@ module Mayhem
             next
           end
 
-          checksum = Digest::SHA256.hexdigest(downloaded[:data])
-          filename = image_asset_filename(checksum, downloaded[:ext]) { downloaded[:data] }
+          converted_data, converted_ext = convert_to_webp(downloaded[:data], downloaded[:ext], img[:url])
+          if converted_ext == '.webp' && !meets_minimum_dimensions?(converted_data, img[:url], stats)
+            next
+          end
+          checksum = Digest::SHA256.hexdigest(converted_data)
+          filename = image_asset_filename(checksum, converted_ext) { converted_data }
           ensure_image_doc(checksum, img[:alt], filename, frontmatter, img[:url])
           cache[img[:url]] = checksum
           collected_ids << checksum
@@ -171,6 +178,35 @@ module Mayhem
         when 'image/svg+xml' then '.svg'
         else '.img'
         end
+      end
+
+      def convert_to_webp(data, ext, source_url)
+        ext = ext.to_s.downcase
+        return [data, ext] unless RASTER_EXTENSIONS.include?(ext)
+
+        image = MiniMagick::Image.read(data)
+        image.format 'webp'
+        [image.to_blob, '.webp']
+      rescue StandardError => e
+        logger.warn "Failed to convert #{source_url} to WebP: #{e.message}"
+        [data, ext]
+      end
+
+      def meets_minimum_dimensions?(data, source_url, stats)
+        return true unless MIN_IMAGE_DIMENSION.positive?
+
+        image = MiniMagick::Image.read(data)
+        if image.width >= MIN_IMAGE_DIMENSION && image.height >= MIN_IMAGE_DIMENSION
+          true
+        else
+          logger.info "Skipping #{source_url}: WebP image #{image.width}x#{image.height} smaller than #{MIN_IMAGE_DIMENSION}px"
+          stats[:skipped_small_images] += 1
+          false
+        end
+      rescue MiniMagick::Error => e
+        logger.warn "Failed to inspect dimensions for #{source_url}: #{e.message}"
+        stats[:skipped_small_images] += 1
+        false
       end
 
       def image_asset_filename(checksum, ext)
@@ -212,7 +248,8 @@ module Mayhem
           missing_original_markdown: stats[:missing_original_markdown],
           no_images_found: stats[:no_images_found],
           no_valid_images: stats[:no_valid_images],
-          download_failures: stats[:download_failures]
+          download_failures: stats[:download_failures],
+          skipped_small_images: stats[:skipped_small_images]
         }
         summary = summary_fields.map { |k, v| "#{k}=#{v}" }.join(', ')
         logger.info "extract-post-images complete: #{summary}"

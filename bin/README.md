@@ -102,15 +102,18 @@ Downloads images referenced in each post’s `original_markdown_body`, renames t
 
 - `IMAGE_OPEN_TIMEOUT` – HTTP open timeout in seconds (default 10).
 - `IMAGE_READ_TIMEOUT` – HTTP read timeout in seconds (default 30).
+- `IMAGE_MIN_DIMENSION` – minimum width/height in pixels for WebP conversions (default 300). Assets smaller than this threshold are skipped.
 - `LOG_LEVEL` – logging level shared by all scripts (`TRACE`, `DEBUG`, `INFO`, `WARN`, `ERROR`, or `FATAL`; default `WARN`). Use `INFO` to see per-post updates and run summaries.
 
 **Behavior notes**
 
 - Skips posts without `original_markdown_body` or without image references; supports Markdown `![]()` and `<img>` tags with `http/https` sources.
 - Skips posts that already have an `images` front matter attribute; intended for one-time population.
-- Avoids redownloading the same URL within a run; writes files under `assets/images/<checksum>.<ext>`.
+- Avoids redownloading the same URL within a run; writes files under `assets/images/<checksum>.webp` (or the original extension when conversion fails).
+- Converts raster image downloads (JPEG/PNG/GIF/BMP/TIFF) into WebP via ImageMagick (`mini_magick` must be bundled and ImageMagick’s `magick`/`convert` binary available); non-raster/media or failed conversions leave the original bytes/extension untouched.
+- Skips storing WebP assets whose dimensions fall below `IMAGE_MIN_DIMENSION`, logging a per-post warning and incrementing the run summary’s `skipped_small_images` counter.
 - Creates `_images/<checksum>.md` with `checksum`, optional `title` (set only when the image had alt text), `image_url`, `source_url`, and copies `source`/`date` from the originating post; appends discovered checksums to a post’s `images` array without removing existing entries.
-- Logs WARN-level issues for missing front matter or failed downloads, INFO for updates/empty images actions, DEBUG for already-processed posts, and prints a per-run summary when the log level allows it.
+- Logs WARN-level issues for missing front matter or failed downloads/conversions, INFO for updates/empty images actions, DEBUG for already-processed posts, and prints a per-run summary when the log level allows it.
 
 ### `import-rss-news`
 
