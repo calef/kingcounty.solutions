@@ -60,6 +60,7 @@ plugins:
   - jekyll-paginate-v2
   - jekyll-seo-tag
   - jekyll-sitemap
+  - jekyll-last-modified-at
 future: true
 pagination:
   enabled: true
