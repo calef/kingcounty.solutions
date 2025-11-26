@@ -1,7 +1,6 @@
 ---
 date: '2025-03-19T19:51:49+00:00'
-images:
-- 8c0a94a4479d0e8d9efa18dd989acfddcc61043198fd0ee57676528ddd0477ad
+images: []
 original_content: |-
   <h4 data-pm-slice="1 1 []"><strong>Empowering Youth Through Peer Mediation: A Year in Review</strong></h4>
   <p>We take a moment to celebrate the incredible progress of our Peer Mediation program and reflect on the positive impact it has had on students, staff, and the broader school community. This year, we have seen an increase in student engagement, skill development, and meaningful conflict resolution through peer-led mediations.</p>
@@ -98,7 +97,7 @@ topics:
 - Education & Learning
 ---
 
-The Peer Mediation program has made significant strides this year, enhancing student engagement and conflict resolution within the school community. Students have developed essential skills through training sessions focusing on negotiation techniques and effective questioning, learning the importance of understanding underlying needs through interactive stories, such as the classic "orange story." This approach emphasizes uncovering root causes to create win-win solutions. 
+The Peer Mediation program has made significant strides this year, enhancing student engagement and conflict resolution within the school community. Students have developed essential skills through training sessions focusing on negotiation techniques and effective questioning, learning the importance of understanding underlying needs through interactive stories, such as the classic "orange story." This approach emphasizes uncovering root causes to create win-win solutions.
 
 Engagement in peer mediation has increased at Showalter Middle School, with all participants involved in multiple mediations, leading to reconciliations among students. The rise in referrals is attributed to improved coordination with school administrators and the active presence of mediation staff, making mediation a trusted resource. Students value the program for fostering leadership skills and a positive school culture, expressing a desire for a welcoming mediation environment.
 
