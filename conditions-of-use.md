@@ -1,8 +1,9 @@
 ---
 layout: default
+permalink: "/conditions-of-use/"
 title: Conditions of Use
-permalink: /conditions-of-use/
 ---
+
 ## Purpose
 King County Solutions provides publicly available information to help practitioners navigate regional services. Content is for informational purposes only and does not replace professional advice, 211 services, or emergency assistance.
 

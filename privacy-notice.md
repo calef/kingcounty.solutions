@@ -1,8 +1,9 @@
 ---
 layout: default
+permalink: "/privacy-notice/"
 title: Privacy Notice
-permalink: /privacy-notice/
 ---
+
 ## Information collected
 This site does not require accounts or collect form submissions. Standard web server logs from our hosting provider may include your IP address, browser information, and the pages you access; we use this aggregated data to monitor site performance and abuse.
 
