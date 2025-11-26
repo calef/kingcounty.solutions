@@ -1,6 +1,9 @@
 # frozen_string_literal: true
 
 require 'date'
+require 'etc'
+require 'set'
+require 'thread'
 require_relative '../logging'
 require_relative '../support/front_matter_document'
 require_relative '../feed_discovery'
@@ -16,6 +19,7 @@ module Mayhem
         targets: [],
         limit: nil,
         dry_run: false,
+        concurrency: Etc.nprocessors,
         logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL')
       )
         @feed_finder = feed_finder
@@ -23,20 +27,41 @@ module Mayhem
         @targets = targets
         @limit = limit
         @dry_run = dry_run
+        @concurrency = [1, (concurrency || Etc.nprocessors).to_i].max
         @logger = logger
+        @used_feeds = { rss: Set.new, ical: Set.new }
+        @used_mutex = Mutex.new
       end
 
       def run
         validate_org_dir!
 
+        file_list = files
+        populate_used_feeds(file_list)
+        queue = build_file_queue(file_list)
         processed = 0
+        processed_mutex = Mutex.new
+        results_mutex = Mutex.new
         updated = []
         skipped = []
-        files.each do |file_name|
-          break if @limit && processed >= @limit
 
-          processed += 1 if process_organization(file_name, updated, skipped)
+        thread_count = [[file_list.size, 1].max, @concurrency].min
+        workers = Array.new(thread_count) do
+          Thread.new do
+            loop do
+              break if limit_reached?(processed_mutex, processed)
+              file_name = next_file(queue)
+              break unless file_name
+              break if limit_reached?(processed_mutex, processed)
+
+              if process_organization(file_name, updated, skipped, results_mutex)
+                processed_mutex.synchronize { processed += 1 }
+              end
+            end
+          end
         end
+
+        workers.each(&:join)
 
         {
           processed: processed,
@@ -61,18 +86,35 @@ module Mayhem
         end
       end
 
-      def process_organization(file_name, updated, skipped)
+      def process_organization(file_name, updated, skipped, mutex)
         result = handle_organization(file_name)
         return false unless result
 
         if result[:feed_result]
-          bucket = updated
           url_label = result[:feed_result].rss_url || result[:feed_result].ical_url
-          bucket << [file_name, url_label]
+          mutex.synchronize { updated << [file_name, url_label] }
         else
-          skipped << file_name
+          mutex.synchronize { skipped << file_name }
         end
         true
+      end
+
+      def build_file_queue(file_list)
+        queue = Queue.new
+        file_list.each { |file_name| queue << file_name }
+        queue
+      end
+
+      def next_file(queue)
+        queue.pop(true)
+      rescue ThreadError
+        nil
+      end
+
+      def limit_reached?(mutex, processed)
+        return false unless @limit
+
+        mutex.synchronize { processed >= @limit }
       end
 
       def handle_organization(file_name)
@@ -89,7 +131,8 @@ module Mayhem
 
         @logger.info "Processing #{file_name} -> #{website}"
         feed_result = @feed_finder.find(website)
-        return record_success(document, feed_result) if feed_result&.any?
+        unique_result = filter_unique_feed_result(feed_result, file_name)
+        return record_success(document, unique_result) if unique_result&.any?
 
         record_failure(file_name, website)
       end
@@ -108,6 +151,69 @@ module Mayhem
 
       def present_url?(value)
         value && !value.to_s.strip.empty?
+      end
+
+      def populate_used_feeds(file_names)
+        file_names.each do |file_name|
+          path = File.join(@org_dir, file_name)
+          document = Mayhem::Support::FrontMatterDocument.load(path, logger: @logger)
+          next unless document
+
+          register_existing_feed(:rss, document.front_matter['news_rss_url'])
+          register_existing_feed(:ical, document.front_matter['events_ical_url'])
+        end
+      end
+
+      def register_existing_feed(type, url)
+        normalized = normalize_feed_url(url)
+        return unless normalized
+
+        @used_mutex.synchronize { @used_feeds[type] << normalized }
+      end
+
+      def filter_unique_feed_result(feed_result, file_name)
+        return nil unless feed_result
+
+        filtered = Mayhem::FeedDiscovery::FeedResult.new
+        if feed_result.rss_url && reserve_feed(:rss, feed_result.rss_url, file_name)
+          filtered.rss_url = feed_result.rss_url
+        end
+        if feed_result.ical_url && reserve_feed(:ical, feed_result.ical_url, file_name)
+          filtered.ical_url = feed_result.ical_url
+        end
+        filtered.any? ? filtered : nil
+      end
+
+      def reserve_feed(type, url, file_name)
+        normalized = normalize_feed_url(url)
+        return false unless normalized
+
+        @used_mutex.synchronize do
+          if @used_feeds[type].include?(normalized)
+            @logger.info "#{feed_key(type)} already claimed; skipping #{file_name}"
+            return false
+          end
+          @used_feeds[type] << normalized
+          true
+        end
+      end
+
+      def normalize_feed_url(url)
+        return nil unless url
+
+        canonical = url.to_s.strip
+        return nil if canonical.empty?
+
+        URI.parse(canonical).then do |uri|
+          uri.fragment = nil
+          uri.to_s
+        end
+      rescue URI::InvalidURIError
+        canonical
+      end
+
+      def feed_key(type)
+        type == :rss ? 'news_rss_url' : 'events_ical_url'
       end
 
       def record_success(document, feed_result)
@@ -152,6 +258,7 @@ module Mayhem
           limit: limit_value,
           dry_run: ENV['DRY_RUN'] == '1',
           feed_finder: @feed_finder,
+          concurrency: concurrency_value,
           logger: @logger
         )
         results = nil
@@ -175,6 +282,13 @@ module Mayhem
 
       def limit_value
         raw = ENV.fetch('LIMIT', '').strip
+        return nil if raw.empty?
+
+        raw.to_i
+      end
+
+      def concurrency_value
+        raw = ENV.fetch('CONCURRENCY', '').strip
         return nil if raw.empty?
 
         raw.to_i

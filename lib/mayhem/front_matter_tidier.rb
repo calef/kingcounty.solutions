@@ -1,6 +1,5 @@
 # frozen_string_literal: true
 
-require 'yaml'
 require 'mayhem/logging'
 require 'mayhem/support/front_matter_document'
 
@@ -22,9 +21,7 @@ module Mayhem
     # Public helper that normalizes a Markdown string according to the tidy rules.
     def tidy_markdown(content)
       result = Mayhem::Support::FrontMatterDocument.parse(content)
-      front_matter = sorted_front_matter(result.front_matter)
-      body = normalize_body(result.body)
-      build_document(front_matter, body)
+      Mayhem::Support::FrontMatterDocument.build_markdown(result.front_matter, result.body)
     end
 
     private
@@ -63,32 +60,5 @@ module Mayhem
       File.file?(path) && path.downcase.end_with?('.md')
     end
 
-    def sorted_front_matter(front_matter)
-      front_matter.to_a.sort_by { |key, _| key.to_s }.to_h
-    end
-
-    def normalize_body(body)
-      body.to_s.sub(/\A\n+/, '')
-    end
-
-    def build_document(front_matter, body)
-      yaml_segment = build_yaml_segment(front_matter)
-      body_segment = body.to_s
-
-      sections = ['---', yaml_segment, '---', '']
-      sections << body_segment unless body_segment.empty?
-      content = sections.join("\n")
-      content << "\n" unless content.end_with?("\n")
-      content
-    end
-
-    def build_yaml_segment(front_matter)
-      return '' if front_matter.empty?
-
-      segment = YAML.dump(front_matter, indentation: 2)
-      segment = segment.sub(/\A---\s*\n/, '')
-      segment = segment.sub(/\.\.\.\s*\n\z/, '')
-      segment.rstrip
-    end
   end
 end

@@ -1,7 +1,9 @@
 # frozen_string_literal: true
 
+require 'logger'
 require 'pathname'
 require 'test_helper'
+require 'mayhem/front_matter_tidier'
 require_relative 'support/site_build_helper'
 
 class FrontMatterStructureTest < Minitest::Test
@@ -10,12 +12,27 @@ class FrontMatterStructureTest < Minitest::Test
   def setup
     @site = load_site
     @source_root = Pathname.new(@site.source)
+    @tidier = Mayhem::FrontMatterTidier.new(logger: Logger.new(IO::NULL))
   end
 
   def test_markdown_documents_have_single_front_matter
     errors = markdown_entry_paths(@site).filter_map { |path| front_matter_error(path) }
 
     assert_empty errors, "Front matter issues detected:\n#{errors.join("\n")}"
+  end
+
+  def test_markdown_documents_are_tidy
+    entries = markdown_entry_paths(site)
+    errors = entries.filter_map do |path|
+      next if front_matter_error(path)
+
+      content = File.read(path)
+      next if content == @tidier.tidy_markdown(content)
+
+      "#{relative_path(path)} is not tidy"
+    end
+
+    assert_empty errors, "Untidy front matter detected:\n#{errors.join("\n")}"
   end
 
   private

@@ -41,6 +41,10 @@ module Mayhem
       news blog stories updates press release releases media article articles feed feeds
       posts announcements resources impact calendar
     ].freeze
+    NON_FEED_URL_PATTERNS = [
+      %r{\.(pdf|docx?|xlsx?|pptx?|zip)(\?|$)}i,
+      %r{DocumentCenter/(View|Download)/}i
+    ].freeze
 
     FeedResult = Struct.new(:rss_url, :ical_url) do
       def add(kind, url)
@@ -105,6 +109,25 @@ module Mayhem
         URI.parse(url).host
       rescue URI::Error
         nil
+      end
+
+      def enforce_https(base_url, candidate_url)
+        return candidate_url unless candidate_url&.match?(%r{\Ahttps?://})
+        return candidate_url if candidate_url.start_with?('https://')
+
+        return candidate_url unless base_url&.start_with?('https://')
+
+        candidate_host = parse_host(candidate_url)
+        base_host = parse_host(base_url)
+        return candidate_url unless candidate_host && base_host && candidate_host == base_host
+
+        candidate_url.sub(%r{\Ahttp:}, 'https:')
+      end
+
+      def non_feed_url?(url)
+        return false unless url
+
+        NON_FEED_URL_PATTERNS.any? { |pattern| url.match?(pattern) }
       end
     end
 
@@ -227,11 +250,10 @@ module Mayhem
       def read_response_body(response, max_bytes)
         body = +''
         response.read_body do |chunk|
-          break if body.bytesize >= max_bytes
+          next if body.bytesize >= max_bytes
 
           needed = max_bytes - body.bytesize
           body << chunk.byteslice(0, needed)
-          break if body.bytesize >= max_bytes
         end
         body.force_encoding('BINARY')
         body
@@ -265,7 +287,10 @@ module Mayhem
       def gather_node_candidates(base_url)
         @doc.css('link, a').each_with_object([]) do |node, memo|
           abs_url = absolutize(base_url, node['href'])
+          abs_url = enforce_https(base_url, abs_url)
           next unless abs_url
+          next unless abs_url.start_with?('https://')
+          next if non_feed_url?(abs_url)
 
           score = node_candidate_score(node, abs_url.downcase)
           memo << [score, abs_url] if score&.positive?
@@ -330,7 +355,11 @@ module Mayhem
 
         @html.scan(/href=["']([^"']+rss[^"']*)["']/i).each do |match|
           guessed = absolutize(base_url, match.first)
-          candidates << [3, guessed] if guessed
+          guessed = enforce_https(base_url, guessed)
+          next unless guessed
+          next unless guessed.start_with?('https://')
+          next if non_feed_url?(guessed)
+          candidates << [3, guessed]
         end
       end
 
@@ -361,7 +390,9 @@ module Mayhem
 
         scored = @doc.css('a[href]').each_with_object([]) do |node, memo|
           abs_url = absolutize(base_url, node['href'])
+          abs_url = enforce_https(base_url, abs_url)
           next unless abs_url&.match?(%r{\Ahttps?://})
+          next if non_feed_url?(abs_url)
 
           score = score_secondary_link(abs_url, node, base_host)
           memo << [score, abs_url] if score.positive?

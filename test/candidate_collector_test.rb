@@ -43,4 +43,18 @@ class CandidateCollectorTest < Minitest::Test
 
     assert_equal(['https://example.org/feeds/updates-rss.xml'], collector.collect)
   end
+
+  def test_http_links_are_converted_to_https_for_same_host
+    html = <<~HTML
+      <html>
+        <head>
+          <link rel="alternate" type="application/rss+xml" href="http://example.org/feed.xml" />
+        </head>
+      </html>
+    HTML
+
+    collector = FeedDiscovery::CandidateCollector.new(html, 'https://example.org/news')
+
+    assert_equal(['https://example.org/feed.xml'], collector.collect)
+  end
 end

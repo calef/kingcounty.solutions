@@ -53,6 +53,32 @@ module Support
       end
     end
 
+    def test_save_produces_sorted_front_matter_and_blank_line
+      Dir.mktmpdir do |dir|
+        path = File.join(dir, 'sorted.md')
+        File.write(
+          path,
+          <<~MD
+            ---
+            zeta: last
+            alpha: first
+            ---
+            Original
+          MD
+        )
+
+        doc = Mayhem::Support::FrontMatterDocument.load(path)
+        doc['beta'] = 'middle'
+        doc.body = 'Updated body'
+        doc.save
+
+        content = File.read(path)
+
+        assert_match(/alpha: first\nbeta: middle\nzeta: last/, content)
+        assert_match(/\n---\n\nUpdated body\n\z/, content)
+      end
+    end
+
     def test_load_returns_nil_for_missing_front_matter
       Dir.mktmpdir do |dir|
         path = File.join(dir, 'sample.md')

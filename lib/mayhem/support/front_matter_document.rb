@@ -47,6 +47,42 @@ module Mayhem
         rescue Psych::Exception => e
           raise ParseError, e.message
         end
+
+        def build_markdown(front_matter, body)
+          normalized_front_matter = normalize_front_matter(front_matter)
+          yaml_segment = build_yaml_segment(normalized_front_matter)
+          body_segment = normalize_body(body)
+          build_document(yaml_segment, body_segment)
+        end
+
+        private
+
+        def normalize_front_matter(front_matter)
+          return {} unless front_matter
+
+          front_matter.to_a.sort_by { |key, _| key.to_s }.to_h
+        end
+
+        def build_yaml_segment(front_matter)
+          return '' if front_matter.empty?
+
+          segment = YAML.dump(front_matter, indentation: 2)
+          segment = segment.sub(/\A---\s*\n/, '')
+          segment = segment.sub(/\.\.\.\s*\n\z/, '')
+          segment.rstrip
+        end
+
+        def normalize_body(body)
+          body.to_s.sub(/\A\n+/, '')
+        end
+
+        def build_document(yaml_segment, body_segment)
+          sections = ['---', yaml_segment, '---', '']
+          sections << body_segment unless body_segment.empty?
+          content = sections.join("\n")
+          content << "\n" unless content.end_with?("\n")
+          content
+        end
       end
 
       def initialize(path:, front_matter:, body:)
@@ -70,16 +106,7 @@ module Mayhem
       private
 
       def serialized_content
-        yaml_segment = YAML.dump(@front_matter).sub(/\A---\s*\n/, '')
-        normalized_body = @body.to_s
-        normalized_body = "\n#{normalized_body}" if needs_leading_newline?(normalized_body)
-        "---\n#{yaml_segment}---\n#{normalized_body}"
-      end
-
-      def needs_leading_newline?(body)
-        return false if body.empty?
-
-        !body.start_with?("\n")
+        self.class.build_markdown(@front_matter, @body)
       end
     end
   end
