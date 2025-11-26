@@ -141,7 +141,7 @@ topics:
 - Financial Assistance
 - Education & Learning
 images:
-- 0b4eded9b77d143939ed8083f7b0a7c088de92b9ec62890df3661b20b6a15757
+- '0099e25e342567a496c07e4fad2d2d65f75ad7cb0ba65c0b6157f7a18b0237cd'
 ---
 
 Liza, an Army veteran and former Air Force child, emphasizes the reciprocal nature of military service, reflecting on her 23 years in the Army's preventive medicine career field. She believes that serving allows her to contribute to something larger than herself while also gaining personal fulfillment. In her role at Operation Homefront, Liza assists staff with their work-life challenges, enabling them to better support military families. She acknowledges the sacrifices made by service members and the importance of community support, noting that not all families have a robust support system like she did.

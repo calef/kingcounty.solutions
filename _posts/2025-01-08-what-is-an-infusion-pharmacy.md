@@ -35,12 +35,46 @@ original_content: |-
 
 
   <p><strong>Any features (new or otherwise) that will be in the new Infusion Pharmacy space that you&#8217;re especially excited for?</strong><br><em>The new Infusion Pharmacy is state-of-the-art, with an emphasis on prioritizing staff safety while they prepare a variety of hazardous medications.&nbsp;In addition, the new Infusion Pharmacy will prepare all drugs for patients in the Infusion Center with the intended goal of improving efficiency and timeliness for patient throughput.&nbsp;</em></p>
-original_markdown_body: "We’re familiar with visits to the pharmacy to pick up a prescription or some over-the-counter meds, but what is an infusion pharmacy and why is it located within Valley’s new Cancer Center? We caught up with Ken Kenyon, Vice President of Pharmacy Services at Valley, to learn about the Infusion Pharmacy and how it serves patients. Interview has been edited for length and clarity.\n\n![](http://blog.valleymed.org/wp-content/uploads/2025/01/InfusionPharmacy-1024x768.jpg)\n_A peek inside Valley’s new Infusion Pharmacy as final preparations are made for the Feb. 3, 2025 opening._\n\n**In your own words, can you explain what an infusion pharmacy is?**  \n_An infusion pharmacy is a specialized pharmacy that prepares medications for injection or infusion.&nbsp;These medications can range from routine such as an antibiotic to highly complex biologic or hazardous drugs such chemotherapy that require specialized expertise in preparation for patient administration._\n\n**How does Valley’s Infusion Pharmacy support patients?**  \n_In addition to preparing injectable or infusion medications, infusion pharmacies are staffed by pharmacists that provide clinical oversight of patients receiving infusion therapies, ensuring patients receive the correct medication at the proper dose based on their diagnosis through collaboration as part of the patients’ health care team._\n\n**What are the benefits for our patients of having the new pharmacy location within our Cancer Center**?  \n_Infusion services require a highly collaborative environment across multiple healthcare disciplines as patient treatments are often complex, require vigilant monitoring, and frequent adjustments.&nbsp;Having the Infusion Pharmacy within the Cancer Center supports the necessary collaboration to promote a safe and efficient care environment for our patients._\n\n**Who works in the Infusion Pharmacy? How do they help take care of our patients?**  \n_The Infusion Pharmacy is staffed by clinical pharmacists and pharmacy technicians.&nbsp;The pharmacy technicians in the Infusion Center are trained to safely prepare complex and hazardous medications for subsequent patient administration. Clinical pharmacists ensure patients receive the correct medication based on evidence-based treatment guidelines, and the medication is dosed appropriately based on the patient’s diagnosis and clinical status.&nbsp;The clinical pharmacist also ensures the medications are prepared correctly by the pharmacy technicians._\n\n**Any features (new or otherwise) that will be in the new Infusion Pharmacy space that you’re especially excited for?**  \n_The new Infusion Pharmacy is state-of-the-art, with an emphasis on prioritizing staff safety while they prepare a variety of hazardous medications.&nbsp;In addition, the new Infusion Pharmacy will prepare all drugs for patients in the Infusion Center with the intended goal of improving efficiency and timeliness for patient throughput.&nbsp;_"
+original_markdown_body: "We’re familiar with visits to the pharmacy to pick up a prescription
+  or some over-the-counter meds, but what is an infusion pharmacy and why is it located
+  within Valley’s new Cancer Center? We caught up with Ken Kenyon, Vice President
+  of Pharmacy Services at Valley, to learn about the Infusion Pharmacy and how it
+  serves patients. Interview has been edited for length and clarity.\n\n![](http://blog.valleymed.org/wp-content/uploads/2025/01/InfusionPharmacy-1024x768.jpg)\n_A
+  peek inside Valley’s new Infusion Pharmacy as final preparations are made for the
+  Feb. 3, 2025 opening._\n\n**In your own words, can you explain what an infusion
+  pharmacy is?**  \n_An infusion pharmacy is a specialized pharmacy that prepares
+  medications for injection or infusion.&nbsp;These medications can range from routine
+  such as an antibiotic to highly complex biologic or hazardous drugs such chemotherapy
+  that require specialized expertise in preparation for patient administration._\n\n**How
+  does Valley’s Infusion Pharmacy support patients?**  \n_In addition to preparing
+  injectable or infusion medications, infusion pharmacies are staffed by pharmacists
+  that provide clinical oversight of patients receiving infusion therapies, ensuring
+  patients receive the correct medication at the proper dose based on their diagnosis
+  through collaboration as part of the patients’ health care team._\n\n**What are
+  the benefits for our patients of having the new pharmacy location within our Cancer
+  Center**?  \n_Infusion services require a highly collaborative environment across
+  multiple healthcare disciplines as patient treatments are often complex, require
+  vigilant monitoring, and frequent adjustments.&nbsp;Having the Infusion Pharmacy
+  within the Cancer Center supports the necessary collaboration to promote a safe
+  and efficient care environment for our patients._\n\n**Who works in the Infusion
+  Pharmacy? How do they help take care of our patients?**  \n_The Infusion Pharmacy
+  is staffed by clinical pharmacists and pharmacy technicians.&nbsp;The pharmacy technicians
+  in the Infusion Center are trained to safely prepare complex and hazardous medications
+  for subsequent patient administration. Clinical pharmacists ensure patients receive
+  the correct medication based on evidence-based treatment guidelines, and the medication
+  is dosed appropriately based on the patient’s diagnosis and clinical status.&nbsp;The
+  clinical pharmacist also ensures the medications are prepared correctly by the pharmacy
+  technicians._\n\n**Any features (new or otherwise) that will be in the new Infusion
+  Pharmacy space that you’re especially excited for?**  \n_The new Infusion Pharmacy
+  is state-of-the-art, with an emphasis on prioritizing staff safety while they prepare
+  a variety of hazardous medications.&nbsp;In addition, the new Infusion Pharmacy
+  will prepare all drugs for patients in the Infusion Center with the intended goal
+  of improving efficiency and timeliness for patient throughput.&nbsp;_"
 summarized: true
 topics:
 - Health Care
 images:
-- 53b39547eba6a0710d5c9f982dd1d8da9dcc7969625063bbed9c788f97115d56
+- 1c664e78b1251480cab7dd3a1ba81ca94cae696fc3f6adb4797fb3126ea09f44
 ---
 
 An infusion pharmacy is a specialized facility that prepares medications for injection or infusion, including routine antibiotics and complex chemotherapy drugs. Valley's new Infusion Pharmacy, set to open on February 3, 2025, is located within its Cancer Center to enhance patient care. The pharmacy is staffed with clinical pharmacists and pharmacy technicians who ensure patients receive the correct medications and dosages based on their diagnoses. This setup promotes collaboration among healthcare professionals, which is essential for managing complex patient treatments that require vigilant monitoring and frequent adjustments.

@@ -3,7 +3,89 @@ title: Former LCSNW employee, now volunteer, is a champion for immigrants
 date: '2025-08-08T19:42:47+00:00'
 source: Lutheran Community Services Northwest
 source_url: https://lcsnw.org/2025/08/volunteer-is-a-champion-for-immigrants/
-original_content: "<p><div class=\"et_pb_section et_pb_section_7 blog-post-type et_section_regular\" >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_row et_pb_row_24\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4 et_pb_column_34  et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_module et_pb_post_title et_pb_post_title_6 et_pb_bg_layout_light  et_pb_text_align_left\"   >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_title_container\">\n\t\t\t\t\t<h1 class=\"entry-title\">Former LCSNW employee, now volunteer, is a champion for immigrants</h1>\n\t\t\t\t</div>\n\t\t\t\t\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div><div class=\"et_pb_row et_pb_row_25 custom_row\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_2_3 et_pb_column_35 second-on-mobile  et_pb_css_mix_blend_mode_passthrough\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_with_border et_pb_module et_pb_text et_pb_text_12  et_pb_text_align_left et_pb_bg_layout_light\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_text_inner\"><div class=\"fui-FluentProvider fui-FluentProvider338 ___13yoiqc f19n0e5 f3e3pzq f1o700av fk6fouc fkhj508 figsok6 f1g96gwp\" dir=\"ltr\">\n<div class=\"b_c_cb6f7c2e b_c_cb6f7c2e root-159 CanvasZone row CanvasZone--alignment CanvasZone--noMargin CanvasZone--read\" data-automation-id=\"CanvasZone\" data-theme-emphasis=\"0\">\n<div class=\"CanvasZoneSectionContainer k_c_cb6f7c2e i_c_cb6f7c2e j_c_cb6f7c2e q_c_cb6f7c2e\" data-automation-id=\"CanvasZone-SectionContainer\">\n<div class=\"b_e_cb6f7c2e v_e_cb6f7c2e CanvasSection CanvasSection-col CanvasSection-sm12 CanvasSection--read CanvasSection-xl8\" data-automation-id=\"CanvasSection\">\n<div>\n<div id=\"6f9230af-2a98-4952-b205-9ede4f9ef548\" class=\"ControlZone ControlZone--clean b_b_cb6f7c2e\" data-automation-id=\"CanvasControl\">\n<div class=\"ControlZone--control\">\n<div class=\"rte-webpart rte--ck5 rte--read-ck5 rte--paragraphSpacing LightMode rte--headingSpacing rte--indentation rte--list-rtl css-162\" dir=\"auto\" data-sp-feature-tag=\"Rich Text Editor\" data-sp-feature-instance-id=\"6f9230af-2a98-4952-b205-9ede4f9ef548\">\n<div class=\"ck-content rteEmphasis root-160 css-161 fixFocusIndicator\" data-automation-id=\"textBox\">\n<p><span data-contrast=\"none\">Navigating the immigration system can be overwhelming, beyond simply starting a new life far from home. Immigrants come to the U.S. in search of safety, stability, and a chance to rebuild. </span></p>\n<p><span data-contrast=\"none\">That’s where dedicated LCSNW volunteers like Kinza Schuyler make all the difference. </span><span data-ccp-props=\"{&quot;335559738&quot;:240,&quot;335559739&quot;:240}\"> </span></p>\n<p><span data-contrast=\"none\">As a Department of Justice Accredited Immigration Representative, Kinza offers critical guidance to refugees and immigrants facing a maze of paperwork, deadlines, and legal uncertainty. With a thorough understanding of policy and a deep well of compassion, Kinza strives to help her clients go “from adversity to success.” </span><span data-ccp-props=\"{&quot;335559738&quot;:240,&quot;335559739&quot;:240}\"> </span></p>\n<p><span data-contrast=\"none\">Kinza found her passion for immigration through her work as Director of Operations for a small non-profit on the East Coast before moving to Seattle in the early 2000s. She volunteered for LCSNW for 2 ½ years before being hired to lead our immigration program in Seattle.</span><span data-ccp-props=\"{&quot;335559738&quot;:240,&quot;335559739&quot;:240}\"> </span></p>\n<p><span data-contrast=\"none\">In 2017, Kinza transitioned back to volunteering for Immigration Services at the SeaTac office. Since then, she has been a champion for her clients and believes that “when someone has nothing, the least you can do is honor them, respect them.”</span><span data-ccp-props=\"{&quot;335559738&quot;:240,&quot;335559739&quot;:240}\"> </span></p>\n<p><span data-contrast=\"none\">With a workload of over 200 cases, Kinza recently added a day of volunteering, upping it to three days a week. She sees her work as a puzzle that needs solving, and she strives to make it work for the person sitting in front of her.</span><span data-ccp-props=\"{&quot;335559738&quot;:240,&quot;335559739&quot;:240}\"> </span></p>\n<p><span data-contrast=\"none\">“Nothing makes you feel better than helping others,” Kinza said about volunteering.</span><span data-ccp-props=\"{&quot;335559738&quot;:240,&quot;335559739&quot;:240}\"> </span></p>\n<p><span data-contrast=\"none\">LCSNW is honored to have incredible volunteers like Kinza Schuyler, who help us carry out our mission of health, justice, and hope.</span><span data-ccp-props=\"{&quot;335559738&quot;:240,&quot;335559739&quot;:240}\"> </span></p>\n<p><strong>Interested in volunteering for LCSNW?</strong></p>\n<p>Please go to our volunteer webpage at <a id=\"OWA00fc20ad-62df-24a1-b95d-e92e9df22d94\" class=\"x_x_x_x_x_OWAAutoLink\" title=\"Original URL: https://lcsnw.org/make-a-difference/volunteer/. Click or tap if you trust this link.\" href=\"https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Flcsnw.org%2Fmake-a-difference%2Fvolunteer%2F&amp;data=05%7C02%7CMMisterek%40lcsnw.org%7C1b3585cf7dc841ba134908ddd50df209%7Cebde5e19b4234db3a6aa702f10df1177%7C0%7C0%7C638900978155945735%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C4000%7C%7C%7C&amp;sdata=9Bs%2FuvcZdttbLD8MgABPrUr9fvPyY4fxin14JIvu49Q%3D&amp;reserved=0\" data-auth=\"NotApplicable\" data-linkindex=\"6\">https://lcsnw.org/make-a-difference/volunteer/</a> or email lcsnw-volunteers@lcsnw.org</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div></div>\n\t\t\t</div>\n\t\t\t</div><div class=\"et_pb_column et_pb_column_1_3 et_pb_column_36 first-on-mobile  et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_module et_pb_image et_pb_image_9\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<span class=\"et_pb_image_wrap \"><img loading=\"lazy\" decoding=\"async\" width=\"1920\" height=\"1080\" src=\"https://lcsnw.org/wp-content/uploads/2025/08/Kinzapic.jpg\" alt=\"Teenagers and young adults stand in a group discussion\" title=\"Kinzapic\" srcset=\"https://lcsnw.org/wp-content/uploads/2025/08/Kinzapic.jpg 1920w, https://lcsnw.org/wp-content/uploads/2025/08/Kinzapic-1280x720.jpg 1280w, https://lcsnw.org/wp-content/uploads/2025/08/Kinzapic-980x551.jpg 980w, https://lcsnw.org/wp-content/uploads/2025/08/Kinzapic-480x270.jpg 480w\" sizes=\"(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px) and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px, (min-width: 1281px) 1920px, 100vw\" class=\"wp-image-49273\" /></span>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div><div class=\"et_pb_row et_pb_row_26\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4 et_pb_column_37  et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_module et_pb_text et_pb_text_13  et_pb_text_align_left et_pb_bg_layout_light\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div><div class=\"et_pb_row et_pb_row_27\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_1_3 et_pb_column_38  et_pb_css_mix_blend_mode_passthrough et_pb_column_empty\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div><div class=\"et_pb_column et_pb_column_1_3 et_pb_column_39  et_pb_css_mix_blend_mode_passthrough et_pb_column_empty\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div><div class=\"et_pb_column et_pb_column_1_3 et_pb_column_40  et_pb_css_mix_blend_mode_passthrough et-last-child et_pb_column_empty\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div><div class=\"et_pb_section et_pb_section_8 et_section_regular\" >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_row et_pb_row_28\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4 et_pb_column_41  et_pb_css_mix_blend_mode_passthrough et-last-child et_pb_column_empty\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div></p>\n<p>The post <a href=\"https://lcsnw.org/2025/08/volunteer-is-a-champion-for-immigrants/\">Former LCSNW employee, now volunteer, is a champion for immigrants</a> appeared first on <a href=\"https://lcsnw.org\">LCSNW</a>.</p>"
+original_content: "<p><div class=\"et_pb_section et_pb_section_7 blog-post-type et_section_regular\"
+  >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_row
+  et_pb_row_24\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4 et_pb_column_34
+  \ et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div
+  class=\"et_pb_module et_pb_post_title et_pb_post_title_6 et_pb_bg_layout_light  et_pb_text_align_left\"
+  \  >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_title_container\">\n\t\t\t\t\t<h1
+  class=\"entry-title\">Former LCSNW employee, now volunteer, is a champion for immigrants</h1>\n\t\t\t\t</div>\n\t\t\t\t\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div><div
+  class=\"et_pb_row et_pb_row_25 custom_row\">\n\t\t\t\t<div class=\"et_pb_column
+  et_pb_column_2_3 et_pb_column_35 second-on-mobile  et_pb_css_mix_blend_mode_passthrough\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div
+  class=\"et_pb_with_border et_pb_module et_pb_text et_pb_text_12  et_pb_text_align_left
+  et_pb_bg_layout_light\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_text_inner\"><div
+  class=\"fui-FluentProvider fui-FluentProvider338 ___13yoiqc f19n0e5 f3e3pzq f1o700av
+  fk6fouc fkhj508 figsok6 f1g96gwp\" dir=\"ltr\">\n<div class=\"b_c_cb6f7c2e b_c_cb6f7c2e
+  root-159 CanvasZone row CanvasZone--alignment CanvasZone--noMargin CanvasZone--read\"
+  data-automation-id=\"CanvasZone\" data-theme-emphasis=\"0\">\n<div class=\"CanvasZoneSectionContainer
+  k_c_cb6f7c2e i_c_cb6f7c2e j_c_cb6f7c2e q_c_cb6f7c2e\" data-automation-id=\"CanvasZone-SectionContainer\">\n<div
+  class=\"b_e_cb6f7c2e v_e_cb6f7c2e CanvasSection CanvasSection-col CanvasSection-sm12
+  CanvasSection--read CanvasSection-xl8\" data-automation-id=\"CanvasSection\">\n<div>\n<div
+  id=\"6f9230af-2a98-4952-b205-9ede4f9ef548\" class=\"ControlZone ControlZone--clean
+  b_b_cb6f7c2e\" data-automation-id=\"CanvasControl\">\n<div class=\"ControlZone--control\">\n<div
+  class=\"rte-webpart rte--ck5 rte--read-ck5 rte--paragraphSpacing LightMode rte--headingSpacing
+  rte--indentation rte--list-rtl css-162\" dir=\"auto\" data-sp-feature-tag=\"Rich
+  Text Editor\" data-sp-feature-instance-id=\"6f9230af-2a98-4952-b205-9ede4f9ef548\">\n<div
+  class=\"ck-content rteEmphasis root-160 css-161 fixFocusIndicator\" data-automation-id=\"textBox\">\n<p><span
+  data-contrast=\"none\">Navigating the immigration system can be overwhelming, beyond
+  simply starting a new life far from home. Immigrants come to the U.S. in search
+  of safety, stability, and a chance to rebuild. </span></p>\n<p><span data-contrast=\"none\">That’s
+  where dedicated LCSNW volunteers like Kinza Schuyler make all the difference. </span><span
+  data-ccp-props=\"{&quot;335559738&quot;:240,&quot;335559739&quot;:240}\"> </span></p>\n<p><span
+  data-contrast=\"none\">As a Department of Justice Accredited Immigration Representative,
+  Kinza offers critical guidance to refugees and immigrants facing a maze of paperwork,
+  deadlines, and legal uncertainty. With a thorough understanding of policy and a
+  deep well of compassion, Kinza strives to help her clients go “from adversity to
+  success.” </span><span data-ccp-props=\"{&quot;335559738&quot;:240,&quot;335559739&quot;:240}\"> </span></p>\n<p><span
+  data-contrast=\"none\">Kinza found her passion for immigration through her work
+  as Director of Operations for a small non-profit on the East Coast before moving
+  to Seattle in the early 2000s. She volunteered for LCSNW for 2 ½ years before being
+  hired to lead our immigration program in Seattle.</span><span data-ccp-props=\"{&quot;335559738&quot;:240,&quot;335559739&quot;:240}\"> </span></p>\n<p><span
+  data-contrast=\"none\">In 2017, Kinza transitioned back to volunteering for Immigration
+  Services at the SeaTac office. Since then, she has been a champion for her clients
+  and believes that “when someone has nothing, the least you can do is honor them,
+  respect them.”</span><span data-ccp-props=\"{&quot;335559738&quot;:240,&quot;335559739&quot;:240}\"> </span></p>\n<p><span
+  data-contrast=\"none\">With a workload of over 200 cases, Kinza recently added a
+  day of volunteering, upping it to three days a week. She sees her work as a puzzle
+  that needs solving, and she strives to make it work for the person sitting in front
+  of her.</span><span data-ccp-props=\"{&quot;335559738&quot;:240,&quot;335559739&quot;:240}\"> </span></p>\n<p><span
+  data-contrast=\"none\">“Nothing makes you feel better than helping others,” Kinza
+  said about volunteering.</span><span data-ccp-props=\"{&quot;335559738&quot;:240,&quot;335559739&quot;:240}\"> </span></p>\n<p><span
+  data-contrast=\"none\">LCSNW is honored to have incredible volunteers like Kinza
+  Schuyler, who help us carry out our mission of health, justice, and hope.</span><span
+  data-ccp-props=\"{&quot;335559738&quot;:240,&quot;335559739&quot;:240}\"> </span></p>\n<p><strong>Interested
+  in volunteering for LCSNW?</strong></p>\n<p>Please go to our volunteer webpage at
+  <a id=\"OWA00fc20ad-62df-24a1-b95d-e92e9df22d94\" class=\"x_x_x_x_x_OWAAutoLink\"
+  title=\"Original URL: https://lcsnw.org/make-a-difference/volunteer/. Click or tap
+  if you trust this link.\" href=\"https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Flcsnw.org%2Fmake-a-difference%2Fvolunteer%2F&amp;data=05%7C02%7CMMisterek%40lcsnw.org%7C1b3585cf7dc841ba134908ddd50df209%7Cebde5e19b4234db3a6aa702f10df1177%7C0%7C0%7C638900978155945735%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C4000%7C%7C%7C&amp;sdata=9Bs%2FuvcZdttbLD8MgABPrUr9fvPyY4fxin14JIvu49Q%3D&amp;reserved=0\"
+  data-auth=\"NotApplicable\" data-linkindex=\"6\">https://lcsnw.org/make-a-difference/volunteer/</a> or
+  email lcsnw-volunteers@lcsnw.org</p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div></div>\n\t\t\t</div>\n\t\t\t</div><div
+  class=\"et_pb_column et_pb_column_1_3 et_pb_column_36 first-on-mobile  et_pb_css_mix_blend_mode_passthrough
+  et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_module
+  et_pb_image et_pb_image_9\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<span
+  class=\"et_pb_image_wrap \"><img loading=\"lazy\" decoding=\"async\" width=\"1920\"
+  height=\"1080\" src=\"https://lcsnw.org/wp-content/uploads/2025/08/Kinzapic.jpg\"
+  alt=\"Teenagers and young adults stand in a group discussion\" title=\"Kinzapic\"
+  srcset=\"https://lcsnw.org/wp-content/uploads/2025/08/Kinzapic.jpg 1920w, https://lcsnw.org/wp-content/uploads/2025/08/Kinzapic-1280x720.jpg
+  1280w, https://lcsnw.org/wp-content/uploads/2025/08/Kinzapic-980x551.jpg 980w, https://lcsnw.org/wp-content/uploads/2025/08/Kinzapic-480x270.jpg
+  480w\" sizes=\"(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px)
+  and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px,
+  (min-width: 1281px) 1920px, 100vw\" class=\"wp-image-49273\" /></span>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div><div
+  class=\"et_pb_row et_pb_row_26\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4
+  et_pb_column_37  et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div
+  class=\"et_pb_module et_pb_text et_pb_text_13  et_pb_text_align_left et_pb_bg_layout_light\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div><div
+  class=\"et_pb_row et_pb_row_27\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_1_3
+  et_pb_column_38  et_pb_css_mix_blend_mode_passthrough et_pb_column_empty\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div><div
+  class=\"et_pb_column et_pb_column_1_3 et_pb_column_39  et_pb_css_mix_blend_mode_passthrough
+  et_pb_column_empty\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div><div
+  class=\"et_pb_column et_pb_column_1_3 et_pb_column_40  et_pb_css_mix_blend_mode_passthrough
+  et-last-child et_pb_column_empty\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div><div
+  class=\"et_pb_section et_pb_section_8 et_section_regular\" >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div
+  class=\"et_pb_row et_pb_row_28\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4
+  et_pb_column_41  et_pb_css_mix_blend_mode_passthrough et-last-child et_pb_column_empty\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div></p>\n<p>The
+  post <a href=\"https://lcsnw.org/2025/08/volunteer-is-a-champion-for-immigrants/\">Former
+  LCSNW employee, now volunteer, is a champion for immigrants</a> appeared first on
+  <a href=\"https://lcsnw.org\">LCSNW</a>.</p>"
 original_markdown_body: |-
   # Former LCSNW employee, now volunteer, is a champion for immigrants
 
@@ -40,7 +122,7 @@ topics:
 - Mental Health & Counseling
 - Shelter & Housing
 images:
-- 272cd541a77eae97243cb46d655e4e677aaa867b9bd308f93f3c1647d5279355
+- aee9befd6ba48493a1a03904e7fce1a3a13d45ab28e36dc9afde24c88b9f2bc0
 ---
 
 Former LCSNW employee Kinza Schuyler is now a dedicated volunteer, serving as a Department of Justice Accredited Immigration Representative. She provides essential support to immigrants and refugees navigating the complex U.S. immigration system, which often includes daunting paperwork and legal challenges. Kinza's commitment stems from her background as Director of Operations at a non-profit on the East Coast, leading her to discover her passion for immigration work when she moved to Seattle in the early 2000s. After volunteering with LCSNW for 2.5 years, she took on a leadership role in the immigration program before returning to volunteer status in 2017. Currently handling over 200 cases, Kinza has increased her volunteering to three days a week, viewing her role as a puzzle to solve for each individual client. She emphasizes the importance of honoring and respecting those who come to the U.S. seeking a better life, stating, “Nothing makes you feel better than helping others.” LCSNW celebrates the impactful contributions of volunteers like Kinza, who embody the organization's mission of health, justice, and hope.

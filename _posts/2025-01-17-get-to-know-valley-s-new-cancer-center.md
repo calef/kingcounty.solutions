@@ -64,7 +64,7 @@ summarized: true
 topics:
 - Health Care
 images:
-- 3c48cf5e7e4643b458dbaf16a403a38fb97e0668d4f93c63a5a2ccb4bb82e595
+- 360e6bf046e3d3647720deffe4506ca931660f4a4f07744c320336f155188cf5
 ---
 
 February 3, 2025, marks a significant advancement in cancer care with the opening of Phase 1A of Valley's comprehensive Cancer Center in South King County. Situated in the East Pavilion of Valley’s main campus, this modern facility consolidates the hospital's renowned cancer programs and services. The center will provide various offerings, including a dedicated infusion and immunotherapy center, an acute symptom management clinic, and a wellbeing support center for cancer patients. 

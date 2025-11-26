@@ -82,7 +82,7 @@ topics:
 - Education & Learning
 - Transportation & Mobility
 images:
-- 932239d15cc3278763913ee795bc4f78a83c8af641e7201a4ebe6e0fdf71d7f7
+- 570f8162b84bd1d2828fefa1365a83adb0207b37aa42e98a513255bc235df11a
 ---
 
 The City of Bellevue has launched the Safe Routes to School program to enhance safety and convenience for students walking, biking, or rolling to school. This initiative is part of a national effort and will involve funding for street improvements near schools, increased traffic safety education, and community events. The City Council has allocated funds in the 2025-26 budget specifically for traffic safety and engagement in schools, aligning with the city's active transportation and environmental sustainability goals.

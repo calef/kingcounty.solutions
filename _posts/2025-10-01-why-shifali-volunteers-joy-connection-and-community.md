@@ -113,7 +113,7 @@ topics:
 - Food & Nutrition
 - Shelter & Housing
 images:
-- 61d4ffa9362a78a0131ef677b6231a151dfd35d5d54fa2113ee897af555da18f
+- 2f913eff6348b576ac8db4ee09184ae9bf3906afac0bed178231a162a1f9eb0d
 ---
 
 Shifali, a volunteer at Mary’s Place in Seattle, sought a way to give back and connect with her community after moving to the city. Initially drawn to the organization, she quickly became involved in activities with children at the shelter, particularly during her "Friday Fitness Hour," where she led engaging HIIT-style workouts followed by meaningful discussions. Over time, her role expanded to include Sunday afternoons spent with kids of various ages, engaging in reading, math, and games that foster joy and friendship.

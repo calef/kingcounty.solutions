@@ -118,8 +118,8 @@ topics:
 - Shelter & Housing
 - Disabilities
 images:
-- aa7acd29066051c5eb2d49c702f2d04c9281c8dc06c061d43fbfaae14b7ffa54
-- '0578f8c91672bd9f7dcc03440d75c62fb4ffe7388d8f39836eeeac3580f24822'
+- dc3c28c77162dea23a14b3fd408c51045d882575aa92361d1a9e08f3f07f217f
+- 277b7eceba286876a1995117eb7d0c0a7bb09e14a71395cb7fc969f5e13e4122
 ---
 
 This November marks the second anniversary of St. Margaret’s Place Apartments, a permanent affordable housing facility in Shoreline operated by Catholic Community Services (CCS). Among its 100 apartments, 20 units are designated for veterans. Residents Malcolm and Andrew, who moved in at the opening, share their journeys of overcoming homelessness. After facing significant life challenges, including relationship breakdowns and unstable housing situations, both found stability at St. Margaret’s. They have formed a close friendship, supporting each other through their transitions.

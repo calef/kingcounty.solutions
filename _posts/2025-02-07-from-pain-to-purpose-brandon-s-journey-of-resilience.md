@@ -82,10 +82,10 @@ topics:
 - Education & Learning
 - Employment & Job Support
 images:
-- 0cebc7896762c9bd3794070b6031b2787d90463a8722315612f6d6904e387ea0
-- 517805130b4d8c613832d1ed27173400213a127ec4b61f6637b5ab77e6891647
-- c4ae2d85b9dee6f649bb17bd3fccdfb4ba689d33d60c37678d3f1173caaf77d5
-- 42cc8ee4f3cb78cb1c8bb82e5d54d12a7be087661f7bf4804bada637694d45cf
+- 26d224ad010661b87a98dd1382f482fdac06daaa8fc1e60ed7bd4115a707f728
+- d56d0b0df0e9af1aa5898858295aacf8d626467fe7f110d20e6ff8eeac18c625
+- 6e7c8c77503ef774f086563c63549634f3ca97cd988fbfd397e7d18137d37a91
+- bb29c5afa134dc2d649b9fcc7acaa4f62048079686a67af4f2b9f8c180983159
 ---
 
 Brandon's life embodies remarkable resilience, shaped by profound loss and unwavering hope. Growing up in New Orleans, he faced the harsh realities of his environment, losing his cousin to a drive-by shooting, which taught him about life's fragility. A life-altering car accident left him wheelchair-bound, and the subsequent tragic death of his son pushed him to transform his pain into purpose. Seeking assistance from YouthCare, Brandon's determination was evident. He famously states, “My wheelchair isn’t my limitation – it’s my tool,” reflecting his strength in confronting challenges. Now a student at Seattle Central College, he aspires to become a professor, aiming to inspire young people facing homelessness and hardship, proving that their struggles do not dictate their futures. His daily routine includes workouts at the gym, where he has become an inspiring figure. Living independently in a space adapted to his needs, Brandon's infectious optimism leaves a lasting impression on YouthCare staff and his academic advisor, who sees him as a little brother. Brandon's journey, from New Orleans to Seattle, illustrates that resilience is not merely about survival, but about thriving and using personal experiences to illuminate the path for others.

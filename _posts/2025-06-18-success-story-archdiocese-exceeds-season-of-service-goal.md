@@ -154,22 +154,98 @@ original_content: |-
 
 
   <p></p>The post <a href="https://ccsww.org/success-story-archdiocese-exceeds-season-of-service-goal/">Success Story: Archdiocese Exceeds Season of Service Goal</a> first appeared on <a href="https://ccsww.org">Catholic Community Services of Western Washington</a>.
-original_markdown_body: "### Celebrating the Season of Service at CCS\n\nTo celebrate the 175th anniversary of the Archdiocese of Seattle, Catholics across Western Washington between March to May 2025 came together to volunteer with a goal of 175,000 hours. Catholic Community Services of Western Washington, joined in this effort. We partnered with the Archdiocese to host service days throughout Western Washington coordinated through our Network Builder team and various program staff.&nbsp;\n\nWe are excited to share that throughout the Archdiocese at various projects with CCS, parishes, schools, and other places we reached over 300,000 service hours! We celebrated the Season of Service and the Archdiocese’s 175th anniversary at the commemorative Anniversary Mass hosted at St. James Cathedral on May 31<sup>st</sup>.&nbsp;\n\nThese service hours are a demonstration of our faithful commitment to caring for our neighbors, especially the most vulnerable. We are so grateful to all our CCS staff and volunteers who helped make this possible by enthusiastically embracing the opportunity to participate in the Season of Service.&nbsp;\n\n![](https://ccsww.org/wp-content/uploads/2025/06/1164499903-Season-of-Service-thermometer-final-May-31-2025_I2-min.png)\n\n**Learn about just some of the various service projects CCS hosted during the Season of Service!&nbsp;**\n\n![](https://ccsww.org/wp-content/uploads/2025/06/2968354709-tri-parish-food-bank-min.png)\n\n### Tri Parish Food Bank \n\nThere were many Days of Service hosted in our Northwest region that we could highlight. The Tri Parish Food Bank hosted two, bringing together 60 volunteers for a total of 420 hours of service. Volunteers helped support all the needs of operating the food bank on the days they were there.&nbsp;\n\n* * *\n\n### Farm Worker Center\n\nAnother highlight in the region was at our Farm Worker Center, which hosted three Days of Service. Each opportunity provided time to gather over a meal and space to reflect on the necessary and important work of the Farm Worker Center while hearing stories of the personal impact the Farm Worker Center has on clients, staff, and volunteers. One project was supporting the FMC Art Studio in a cultural art experience where volunteers supported 10 moms and 20 children at the FMC. The time together was energetic and creative. Volunteers visiting the FMC center also helped organize the emergency clothes closet and beautified the outside landscaping. Finally, volunteers also had an evening focused on education including working with students on basic literacy and Spanish tutoring.&nbsp;\n\n* * *\n\n### Volunteer Services&nbsp;\n\n![](https://ccsww.org/wp-content/uploads/2025/06/24559774-SOS-Picture-1-VS-KC-edited-1.jpg)\n\nVolunteer Services hosted multiple service days during the Season of Service. We cannot highlight all of them, but we wanted to lift up one partnership that was strengthened in Volunteer Services King County through the Season of Service.&nbsp;\n\nFor several years, Volunteer Services and O’Dea High School have come together for various volunteer projects. During the Season of Service, O’Dea hosted six Season of Service projects with Volunteer Services!&nbsp;\n\nGriffin Cole, the Program Manager for VS King County shared “O’Dea High School has been a wonderful partner with Volunteer Services. Whether it’s faculty or students, the volunteers are always of good cheer and show who they help how much they care. To team with O’Dea during Season of Service was very special.”&nbsp;\n\nThese six projects combined brought an estimated 125 students and faculty to serve our clients for more than 350 hours of service. They served clients in West Seattle, Shoreline, Burien, SeaTac, and Redmond providing a helping hand with needed yard work projects. Students and staff did everything from mowing lawns and raking leaves to pulling ivy. The hours spent were not just hours of yard work, they were hours of faithful service to others.&nbsp;\n\n* * *\n\n### Sebastian Place\n\n![](https://ccsww.org/wp-content/uploads/2025/06/2400979196-Sebastian-place-4.jpg)\n\nOn Saturday, May 17 Sebastian Place welcomed a group of volunteers to support resident Veterans. The volunteers’ patience, understanding, and sensitivity to the realities Veterans face ensured that they prioritized their needs while engaging with compassion and respect. While the weather changed the original plan for the day, that did not stop these volunteers from finding projects to help with. Volunteers helped with office organization, meal service, and provided a beautiful ministry of presence. Volunteers and Veterans had the chance to eat together and volunteers also took the time to bring the food to the Veterans who felt more comfortable eating in their apartments. Throughout the day there were opportunities for fellowship and joy in each other’s presence. It was a great gift to be able to come together.&nbsp;\n\n* * *\n\n### The Josephinum\n\n![](https://ccsww.org/wp-content/uploads/2025/06/2064717431-SOS2-Jo-photo_1749139125893.jpg)\n\nWhere might 60 youth volunteers go during the Season of Service? To the Josephinum! Over Memorial Day Weekend, the Josephinum had the pleasure to welcome youth volunteers and chaperones for the Season of Service. One special highlight of the day was that two residents of the Josephinum, Mary and Jerome, welcoming the volunteers into their home through songs and praise. Mary one of the singers shared how important it was that she come down and share the gift of song that God gave her.\n\nThe volunteers helped with a variety of ministry of presence activities with the residents of the Josephinum – bingo, arts & crafts, games, memory bracelet making, and lunch. Ministry of presence activities are important through the Service of Service. As Shane Hall, CCS employee, at the Josephinum, shared “it was absolutely amazing to act as a bridge between our youth and our residents here at the Josephinum, all in the name of compassion, humanity, love and light.”\n\nPenny Boyd-Hall, Lead Case Manager at the Josephinum, witnessed one of those beautiful bridge moments. During lunch, one of the youth volunteers came up and asked if he could play the piano for the residents during the reflection after lunch. Penny confirms that it was not just an amazing ballad; it was an inspiration to share your gifts with others and to come together in community. &nbsp;\n\n* * *\n\n### Photos of Season of Service\n\n![](https://ccsww.org/wp-content/uploads/2025/06/2257165640SOS-Picture-2-VS-KC-1400x1050.jpg)\n\n![](https://ccsww.org/wp-content/uploads/2025/06/1343368685Sebastian-place-6.jpg)\n\n![](https://ccsww.org/wp-content/uploads/2025/06/1227399932-Sebastian-place-1.jpg)\n\n![](https://ccsww.org/wp-content/uploads/2025/06/2400979196-Sebastian-place-4.jpg)\n\n![](https://ccsww.org/wp-content/uploads/2025/06/2696159816Sebastian-place-5.jpg)\n\n![](https://ccsww.org/wp-content/uploads/2025/06/3208865421Sebastian-place-2.jpg)\n\nThe post [Success Story: Archdiocese Exceeds Season of Service Goal](https://ccsww.org/success-story-archdiocese-exceeds-season-of-service-goal/) first appeared on [Catholic Community Services of Western Washington](https://ccsww.org)."
+original_markdown_body: "### Celebrating the Season of Service at CCS\n\nTo celebrate
+  the 175th anniversary of the Archdiocese of Seattle, Catholics across Western Washington
+  between March to May 2025 came together to volunteer with a goal of 175,000 hours.
+  Catholic Community Services of Western Washington, joined in this effort. We partnered
+  with the Archdiocese to host service days throughout Western Washington coordinated
+  through our Network Builder team and various program staff.&nbsp;\n\nWe are excited
+  to share that throughout the Archdiocese at various projects with CCS, parishes,
+  schools, and other places we reached over 300,000 service hours! We celebrated the
+  Season of Service and the Archdiocese’s 175th anniversary at the commemorative Anniversary
+  Mass hosted at St. James Cathedral on May 31<sup>st</sup>.&nbsp;\n\nThese service
+  hours are a demonstration of our faithful commitment to caring for our neighbors,
+  especially the most vulnerable. We are so grateful to all our CCS staff and volunteers
+  who helped make this possible by enthusiastically embracing the opportunity to participate
+  in the Season of Service.&nbsp;\n\n![](https://ccsww.org/wp-content/uploads/2025/06/1164499903-Season-of-Service-thermometer-final-May-31-2025_I2-min.png)\n\n**Learn
+  about just some of the various service projects CCS hosted during the Season of
+  Service!&nbsp;**\n\n![](https://ccsww.org/wp-content/uploads/2025/06/2968354709-tri-parish-food-bank-min.png)\n\n###
+  Tri Parish Food Bank \n\nThere were many Days of Service hosted in our Northwest
+  region that we could highlight. The Tri Parish Food Bank hosted two, bringing together
+  60 volunteers for a total of 420 hours of service. Volunteers helped support all
+  the needs of operating the food bank on the days they were there.&nbsp;\n\n* * *\n\n###
+  Farm Worker Center\n\nAnother highlight in the region was at our Farm Worker Center,
+  which hosted three Days of Service. Each opportunity provided time to gather over
+  a meal and space to reflect on the necessary and important work of the Farm Worker
+  Center while hearing stories of the personal impact the Farm Worker Center has on
+  clients, staff, and volunteers. One project was supporting the FMC Art Studio in
+  a cultural art experience where volunteers supported 10 moms and 20 children at
+  the FMC. The time together was energetic and creative. Volunteers visiting the FMC
+  center also helped organize the emergency clothes closet and beautified the outside
+  landscaping. Finally, volunteers also had an evening focused on education including
+  working with students on basic literacy and Spanish tutoring.&nbsp;\n\n* * *\n\n###
+  Volunteer Services&nbsp;\n\n![](https://ccsww.org/wp-content/uploads/2025/06/24559774-SOS-Picture-1-VS-KC-edited-1.jpg)\n\nVolunteer
+  Services hosted multiple service days during the Season of Service. We cannot highlight
+  all of them, but we wanted to lift up one partnership that was strengthened in Volunteer
+  Services King County through the Season of Service.&nbsp;\n\nFor several years,
+  Volunteer Services and O’Dea High School have come together for various volunteer
+  projects. During the Season of Service, O’Dea hosted six Season of Service projects
+  with Volunteer Services!&nbsp;\n\nGriffin Cole, the Program Manager for VS King
+  County shared “O’Dea High School has been a wonderful partner with Volunteer Services.
+  Whether it’s faculty or students, the volunteers are always of good cheer and show
+  who they help how much they care. To team with O’Dea during Season of Service was
+  very special.”&nbsp;\n\nThese six projects combined brought an estimated 125 students
+  and faculty to serve our clients for more than 350 hours of service. They served
+  clients in West Seattle, Shoreline, Burien, SeaTac, and Redmond providing a helping
+  hand with needed yard work projects. Students and staff did everything from mowing
+  lawns and raking leaves to pulling ivy. The hours spent were not just hours of yard
+  work, they were hours of faithful service to others.&nbsp;\n\n* * *\n\n### Sebastian
+  Place\n\n![](https://ccsww.org/wp-content/uploads/2025/06/2400979196-Sebastian-place-4.jpg)\n\nOn
+  Saturday, May 17 Sebastian Place welcomed a group of volunteers to support resident
+  Veterans. The volunteers’ patience, understanding, and sensitivity to the realities
+  Veterans face ensured that they prioritized their needs while engaging with compassion
+  and respect. While the weather changed the original plan for the day, that did not
+  stop these volunteers from finding projects to help with. Volunteers helped with
+  office organization, meal service, and provided a beautiful ministry of presence.
+  Volunteers and Veterans had the chance to eat together and volunteers also took
+  the time to bring the food to the Veterans who felt more comfortable eating in their
+  apartments. Throughout the day there were opportunities for fellowship and joy in
+  each other’s presence. It was a great gift to be able to come together.&nbsp;\n\n*
+  * *\n\n### The Josephinum\n\n![](https://ccsww.org/wp-content/uploads/2025/06/2064717431-SOS2-Jo-photo_1749139125893.jpg)\n\nWhere
+  might 60 youth volunteers go during the Season of Service? To the Josephinum! Over
+  Memorial Day Weekend, the Josephinum had the pleasure to welcome youth volunteers
+  and chaperones for the Season of Service. One special highlight of the day was that
+  two residents of the Josephinum, Mary and Jerome, welcoming the volunteers into
+  their home through songs and praise. Mary one of the singers shared how important
+  it was that she come down and share the gift of song that God gave her.\n\nThe volunteers
+  helped with a variety of ministry of presence activities with the residents of the
+  Josephinum – bingo, arts & crafts, games, memory bracelet making, and lunch. Ministry
+  of presence activities are important through the Service of Service. As Shane Hall,
+  CCS employee, at the Josephinum, shared “it was absolutely amazing to act as a bridge
+  between our youth and our residents here at the Josephinum, all in the name of compassion,
+  humanity, love and light.”\n\nPenny Boyd-Hall, Lead Case Manager at the Josephinum,
+  witnessed one of those beautiful bridge moments. During lunch, one of the youth
+  volunteers came up and asked if he could play the piano for the residents during
+  the reflection after lunch. Penny confirms that it was not just an amazing ballad;
+  it was an inspiration to share your gifts with others and to come together in community.
+  &nbsp;\n\n* * *\n\n### Photos of Season of Service\n\n![](https://ccsww.org/wp-content/uploads/2025/06/2257165640SOS-Picture-2-VS-KC-1400x1050.jpg)\n\n![](https://ccsww.org/wp-content/uploads/2025/06/1343368685Sebastian-place-6.jpg)\n\n![](https://ccsww.org/wp-content/uploads/2025/06/1227399932-Sebastian-place-1.jpg)\n\n![](https://ccsww.org/wp-content/uploads/2025/06/2400979196-Sebastian-place-4.jpg)\n\n![](https://ccsww.org/wp-content/uploads/2025/06/2696159816Sebastian-place-5.jpg)\n\n![](https://ccsww.org/wp-content/uploads/2025/06/3208865421Sebastian-place-2.jpg)\n\nThe
+  post [Success Story: Archdiocese Exceeds Season of Service Goal](https://ccsww.org/success-story-archdiocese-exceeds-season-of-service-goal/)
+  first appeared on [Catholic Community Services of Western Washington](https://ccsww.org)."
 summarized: true
 topics:
 - Food & Nutrition
 - Employment & Job Support
 images:
-- 267fb6f0aa176e4cf8542eb7e09c8bd0de1c7cbaa99388f5faf41ff4d210016a
-- a9904538506b7ea6dc6cbf870023c8ca779f8b21e590fc05ca01fe2011035c90
-- 759d304d685de7186c7aaaf6537fe1be51171654abf368e7a7b643c7954970e1
-- 9760b24c6caf176cadb550c3b037f53bf41cd52e01faffb9e249e8ded60f8765
-- f1e470ca3a1cb7bc7d7678578f87c4b2c2bac9a449102bf0ae418f2b5a0ec503
-- 15b5bb38b376997da461bc5bc319f3bbfcf78ca60d06471a894dd866b7570089
-- 2c262e766347a67fdb949462f2179659cc3c3d6a451153635c777dfed403a5ac
-- fb47ec05f1c2f4b31c7d1e88461b53cd28670b8de643386b5a80786b5ad56210
-- d54578fa7f4634a50da89bea86ae2a9a9bc67e863f2adf3f9277ba8dad38f500
-- 1a717810f86bf20714d26b1372f72dace88926c9c6a282c5d22cd393d0aa79c6
+- f6656d3b5faaade36e5bd9d74b1fd4f13f64d4fe77882a721265b31d43bf9db1
+- ce7a83bd7cafaa4ded2077d5cb40c1c4d90839e230c065c40fd95aeb22fdb997
+- f310c11b9eb7da2cd38fc10beb441bea76f8d72490ae0498736c116871c7b776
+- 04a620a95d52b9bde806515c7f7c0a03f83bf9f4e2ebb2e9f0d76062fd059839
+- e1b6ef43c8dc326ba6b9ebafb849b47d3bf8ff989cbdb5e5d821f5c9333b9160
+- a60be433aef4949c4a85f23b89bb2adedcb713de0c29f31901b5761f6c6cdd65
+- 74cec7ef4bcaefaa5ca1173d1f5f73ec592246f6c74da7bc71d99b48f76200e3
+- a9ba4f6a967a31b72cb656cb2391c39e65ec85d4a3c85cbcdda04a8ce11fb595
+- 986a20dcb89c8e7d246e6699c826e805efd32a2bffc01df98a6290ecba9a1ed5
+- 5d915b57f66ee81f0c29f2226afa57eb25fcd8d09d005a04187ceb16f76380a1
 ---
 
 To celebrate the 175th anniversary of the Archdiocese of Seattle, Catholics across Western Washington volunteered for the "Season of Service" from March to May 2025, aiming for 175,000 service hours. Catholic Community Services (CCS) collaborated with the Archdiocese to organize various projects, ultimately surpassing the goal by achieving over 300,000 service hours. The initiative culminated in a commemorative Anniversary Mass at St. James Cathedral on May 31st, highlighting the commitment to supporting vulnerable communities.

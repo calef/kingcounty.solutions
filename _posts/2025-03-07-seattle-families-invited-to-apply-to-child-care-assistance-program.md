@@ -25,7 +25,7 @@ topics:
 - Childcare
 - Financial Assistance
 images:
-- 054aa806049adb26a91d8636f339503c32aabd7440045ba88c7d96fc0cc2f972
+- df7f93159a7e009d4cb81b952ebb3067672c1b96aef6232a2e2e0ae248c6953e
 ---
 
 Seattle's Department of Education and Early Learning (DEEL) has expanded the Child Care Assistance Program (CCAP) to support more families with child care costs. Families residing in Seattle can apply for financial assistance through the online portal, which benefits those with children aged one month to 12 years. On average, participating families save $7,500 annually. Eligibility criteria include living within Seattle city limits, having an income below 94% of the State Median Income, and demonstrating a need for child care due to work, school, or training obligations.

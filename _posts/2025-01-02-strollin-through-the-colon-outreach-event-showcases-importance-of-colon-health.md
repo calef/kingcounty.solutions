@@ -1,5 +1,6 @@
 ---
-title: 'Strollin’ Through the Colon: Outreach Event Showcases Importance of Colon Health'
+title: 'Strollin’ Through the Colon: Outreach Event Showcases Importance of Colon
+  Health'
 date: '2025-01-02T23:07:43+00:00'
 source: Hospital District No. 1 (Valley Medical Center)
 source_url: https://blog.valleymed.org/2025/01/02/strollin-through-the-colon-outreach-event-showcases-importance-of-colon-health/?utm_source=rss&utm_medium=rss&utm_campaign=strollin-through-the-colon-outreach-event-showcases-importance-of-colon-health
@@ -32,14 +33,35 @@ original_content: |-
 
 
   <p><em>Pictured at top: Joseph Roberts, MD, inside the Strollin&#8217; Colon.</em><br><em>Pictured above: Valley team members who supported the Strollin&#8217; Colon event.</em> <em> </em><br></p>
-original_markdown_body: "![](https://blog.valleymed.org/wp-content/uploads/2024/12/Dr.Roberts-StrollinColon-300x188.jpg)\n\nStaff and visitors to Valley got an immersive lesson on colorectal health in December, thanks to a stroll through a 20-foot inflatable colon.\n\nIn partnership with **[Colon Cancer Stars](https://www.facebook.com/colonstars? __cft__ [0]=AZVxK3V91LSteKmU0p_IuNy6zGsMwoYGGfqNhuElEenb3_NKu2dkvGTyosTIiRWRhLWM_-8XupLOpU3vsYFkA12y2B2FbRpXllAXUg6UGud3KjQx_uIrNSDVPAxljpoHnS1fFyPqyhnxTnr-nA9_m8GxbeGpIunQ7JM-EdFCBP45_T6gTpAzTHwaYZxZWg27Cuk& __tn__ =-]K-R),** a unique, fun and informational inflatable walk-thru colon provided valuable information about colon health. Valley’s **[Gastroenterology](https://www.valleymed.org/services/all-specialties/digestive)**, **[Colorectal Surgery](https://www.valleymed.org/find-a-location/c/colorectal-surgery-clinic)**, and **[Medical Oncology](https://www.valleymed.org/services/all-specialties/cancer-treatment--support)** teams were available to discuss screening options.\n\n“Our hope is that this event (helped) to lessen the fear of colonoscopy by showing the benefits of early detection and polyp removal,” said **[Joseph Roberts, MD,](https://www.valleymed.org/find-a-provider/r/joseph-r-roberts)** a gastroenterologist at Valley.\n\nExercise and healthy habits, such as diets high in vegetables, fruits, and whole grains, support a healthy colon. **[Lifestyle Medicine](http://valleymed.org/lifestylemed)** team members presented our **[LAUNCH program,](https://blog.valleymed.org/2024/12/12/5-essential-health-metrics-you-should-check-every-year-but-probably-arent/)** designed to help you get started with exercise in a safe and practical way, and dietician Natalia Zakharova offered recipes high in vegetables and whole grains.\n\nColorectal cancer is the second-leading cause of cancer mortality in the U.S. The good news is that unlike many cancers, it is often preventable and treatable when caught early through screening. People at average risk are now advised to begin getting screened at age 45. Learn more about screening colonoscopies at **[valleymed.org/colonoscopy](http://valleymed.org/colonoscopy?fbclid=IwZXh0bgNhZW0CMTAAAR3ceFg5-98l9pEhJvMf2LJIA96slSjxgRL1U326U0JoEBSE4SsISJFGVnY_aem_doGGxeD1OsjIlr0d95G8UQ).**\n\n![](http://blog.valleymed.org/wp-content/uploads/2024/12/StrollinColon-team.jpg)\n\n_Pictured at top: Joseph Roberts, MD, inside the Strollin’ Colon._  \n_Pictured above: Valley team members who supported the Strollin’ Colon event._"
+original_markdown_body: "![](https://blog.valleymed.org/wp-content/uploads/2024/12/Dr.Roberts-StrollinColon-300x188.jpg)\n\nStaff
+  and visitors to Valley got an immersive lesson on colorectal health in December,
+  thanks to a stroll through a 20-foot inflatable colon.\n\nIn partnership with **[Colon
+  Cancer Stars](https://www.facebook.com/colonstars? __cft__ [0]=AZVxK3V91LSteKmU0p_IuNy6zGsMwoYGGfqNhuElEenb3_NKu2dkvGTyosTIiRWRhLWM_-8XupLOpU3vsYFkA12y2B2FbRpXllAXUg6UGud3KjQx_uIrNSDVPAxljpoHnS1fFyPqyhnxTnr-nA9_m8GxbeGpIunQ7JM-EdFCBP45_T6gTpAzTHwaYZxZWg27Cuk&
+  __tn__ =-]K-R),** a unique, fun and informational inflatable walk-thru colon provided
+  valuable information about colon health. Valley’s **[Gastroenterology](https://www.valleymed.org/services/all-specialties/digestive)**,
+  **[Colorectal Surgery](https://www.valleymed.org/find-a-location/c/colorectal-surgery-clinic)**,
+  and **[Medical Oncology](https://www.valleymed.org/services/all-specialties/cancer-treatment--support)**
+  teams were available to discuss screening options.\n\n“Our hope is that this event
+  (helped) to lessen the fear of colonoscopy by showing the benefits of early detection
+  and polyp removal,” said **[Joseph Roberts, MD,](https://www.valleymed.org/find-a-provider/r/joseph-r-roberts)**
+  a gastroenterologist at Valley.\n\nExercise and healthy habits, such as diets high
+  in vegetables, fruits, and whole grains, support a healthy colon. **[Lifestyle Medicine](http://valleymed.org/lifestylemed)**
+  team members presented our **[LAUNCH program,](https://blog.valleymed.org/2024/12/12/5-essential-health-metrics-you-should-check-every-year-but-probably-arent/)**
+  designed to help you get started with exercise in a safe and practical way, and
+  dietician Natalia Zakharova offered recipes high in vegetables and whole grains.\n\nColorectal
+  cancer is the second-leading cause of cancer mortality in the U.S. The good news
+  is that unlike many cancers, it is often preventable and treatable when caught early
+  through screening. People at average risk are now advised to begin getting screened
+  at age 45. Learn more about screening colonoscopies at **[valleymed.org/colonoscopy](http://valleymed.org/colonoscopy?fbclid=IwZXh0bgNhZW0CMTAAAR3ceFg5-98l9pEhJvMf2LJIA96slSjxgRL1U326U0JoEBSE4SsISJFGVnY_aem_doGGxeD1OsjIlr0d95G8UQ).**\n\n![](http://blog.valleymed.org/wp-content/uploads/2024/12/StrollinColon-team.jpg)\n\n_Pictured
+  at top: Joseph Roberts, MD, inside the Strollin’ Colon._  \n_Pictured above: Valley
+  team members who supported the Strollin’ Colon event._"
 summarized: true
 topics:
 - Health Care
 - Education & Learning
 images:
-- 2687541329ce4febad704beabe6652307654275534d942fd98c04272457e9b6a
-- a19352ea8e36e27002a52e88f143caf805352cfd12303eb0a6b4d3fe1687b7b7
+- c05582ce54ca02fb9dcb0670f87b365a7c1e8c50e7f4be2f5f269d5d7b8ddd18
+- b42b1b7b58c9684fcffa44c7625774c3ca75f2bade6c8807558dbc1cc8a5e87d
 ---
 
 Staff and visitors at Valley Medical Center participated in an educational outreach event in December, featuring a 20-foot inflatable colon designed to promote awareness of colorectal health. In collaboration with Colon Cancer Stars, the immersive experience aimed to provide information on the importance of colon health and encourage discussions about screening options with healthcare professionals from Gastroenterology, Colorectal Surgery, and Medical Oncology. Dr. Joseph Roberts emphasized the event's goal of alleviating fears associated with colonoscopies by highlighting the advantages of early detection and polyp removal. The event also featured the LAUNCH program from the Lifestyle Medicine team, which focuses on safe exercise practices, alongside dietitian Natalia Zakharova sharing recipes rich in vegetables and whole grains. Colorectal cancer remains the second-leading cause of cancer-related deaths in the U.S., yet it is often preventable and treatable when detected early through screening. Current recommendations suggest that individuals at average risk should begin screening at age 45 to enhance early detection efforts.

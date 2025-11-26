@@ -125,7 +125,7 @@ topics:
 - Shelter & Housing
 - Financial Assistance
 images:
-- f5f1d5e542e3263a95e83a3f22286d30f6a219ccdc9c5f61eb763f57ac20a522
+- 17352124dba834371eb31a0a1c6805fc342760f8d281aea7a95b4ab439d97918
 ---
 
 At a recent City Council meeting, an update was provided on the newly established Office of Housing, launched in February to enhance affordable housing initiatives in Bellevue. This office is working on the Affordable Housing Strategy update, the homelessness outreach program, and the Multi-Family Tax Exemption (MFTE) program. It has already solicited residential development proposals for city-owned sites in Wilburton and BelRed, aiming to create up to 400 affordable housing units.

@@ -3,7 +3,75 @@ title: Executive Constantine gives final county address
 date: '2025-03-26T22:15:37+00:00'
 source: King County
 source_url: https://medium.com/kingcounty/executive-constantine-gives-his-final-state-of-the-county-address-649a93a589a1?source=rss-cc0752750177------2
-original_content: '<h3>Executive Constantine gives his final State of the County address</h3><p>Today King County Executive Dow Constantine delivered his <a href="https://vimeo.com/1069749528/8441a681a4?ts=0&amp;share=copy">final State of the County address</a>, looking back on successes over the past 16 years, as well as challenges faced during his time in office and opportunities ahead for the next administration.</p><p>“I am honored to have served as executive of one of the largest and most forward-thinking regions in the country. To the people of King County, thank you. Your trust, engagement and commitment to building a stronger, more just community and a better future have made progress possible,” said <strong>Executive Constantine</strong>. “The work ahead is as critical as ever. I know the next chapter will unfold on the solid foundation we built.”</p><figure><img alt="" src="https://cdn-images-1.medium.com/max/1024/1*TR3_LKUYBO-204am7Q5MYw.jpeg" /></figure><p>At the start of his administration in 2009, Constantine laid out a vision for King County government: to be responsive, effective and accountable to the people we serve — a county that invests in transportation, prioritizes the health and well-being of the most vulnerable and partners with cities, businesses and labor unions to create opportunity.</p><p>Now, four terms later, he reflected on his years as executive and the ability to deliver accomplishments thanks to the dedicated public servants who show up to serve the people of King County every day.</p><p>“At its heart, our work is about creating a high-functioning enterprise that delivers for the people who call this place home. We value the people we serve, and we value the public employees who devote their lives to serving the people — always staying focused on our True North in everything we do: Making Martin Luther King County a welcoming community where every person can thrive,” <strong>Constantine added</strong>.</p><p>Constantine highlighted progress made throughout his administration during today’s speech at Kerry Hall on Capitol Hill:</p><ul><li>Protected 30,000 acres of forests, farmland, river corridors and urban greenspace through the Land Conservation Initiative.</li><li>Completed large restoration projects along the Green, Cedar and Duwamish rivers, restoring 500 acres of fish and wildlife habitat while protecting homes, farms and roads from flooding and erosion.</li><li>Launched extraordinary measures to bring kokanee salmon back from the brink of extinction. Over 8,000 kokanee returned to their spawning grounds last season. In 2018, just 19 kokanee returned to spawn.</li><li>Taking urgent action to tackle climate change including carbon reduction through the Re+ zero-waste initiative, transitioning to electric vehicle and bus fleets, expanding high-wage green jobs and readying for climate impacts like extreme heat and wildfires.</li></ul><figure><img alt="" src="https://cdn-images-1.medium.com/max/1024/1*1pPrboh0hX-LTjKcQVNhyQ.jpeg" /></figure><figure><img alt="" src="https://cdn-images-1.medium.com/max/1024/1*A1bL0maKehJHW9LrwNXfNA.jpeg" /></figure><ul><li>Launched eight Metro RapidRide routes, with four more on the way, creating frequent, reliable service across the county.</li><li>Building a world-class rail network that is the spine of a comprehensive transit system. By next Spring, we will have grown the light rail system to 62 miles of track and 51 stations. And last year, we celebrated the opening of EastLink and extended light rail into Snohomish County.</li></ul><figure><img alt="" src="https://cdn-images-1.medium.com/max/1024/1*7KaGnjuMv17MMOtB_RXI5A.jpeg" /></figure><figure><img alt="" src="https://cdn-images-1.medium.com/max/1024/1*kR76OmsOqCQ7IkDacJLQLg.jpeg" /></figure><ul><li>Expanding mental health and addiction services through the Crisis Care Centers initiative. Last month, King County announced the Connections Kirkland facility as the first crisis center in the new countywide network, and we will open four more crisis centers, including one for youth.</li></ul><iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FMDMwovIMdjI%3Ffeature%3Doembed&amp;display_name=YouTube&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DMDMwovIMdjI&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FMDMwovIMdjI%2Fhqdefault.jpg&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" frameborder="0" scrolling="no"><a href="https://medium.com/media/eb6d75e1a7891e84ae88cdea20b84875/href">https://medium.com/media/eb6d75e1a7891e84ae88cdea20b84875/href</a></iframe><ul><li>Creating over 3,800 units of affordable housing. Just last year, King County helped families, seniors and veterans open the doors to nearly 1,800 new affordable homes.</li><li>Advancing multiple strategies to bring more people inside, including through Health Through Housing. We have secured over 1,400 units across 11 buildings in Auburn, Burien, Redmond, Renton and Seattle. This year, we’re opening three more buildings in Federal Way, Kirkland and Capitol Hill.</li></ul><iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FtNjkdbhH4A8%3Ffeature%3Doembed&amp;display_name=YouTube&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtNjkdbhH4A8&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FtNjkdbhH4A8%2Fhqdefault.jpg&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" frameborder="0" scrolling="no"><a href="https://medium.com/media/bbfb2a0a0f09e68bbae1cd061621a947/href">https://medium.com/media/bbfb2a0a0f09e68bbae1cd061621a947/href</a></iframe><ul><li>More than doubled the number of transit security officers to 175 and are on track to hire 20 more commissioned transit police.</li><li>Launched Operation Safe Transit, a coordinated effort of law enforcement and human services professionals, with an emphasis on hot spots like the 3rd Ave Transit Corridor. Sheriff deputies have made over 520 arrests, while also connecting hundreds more people to behavioral health and housing assistance.</li></ul><iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FfyH4eKQxsFQ%3Ffeature%3Doembed&amp;display_name=YouTube&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DfyH4eKQxsFQ&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FfyH4eKQxsFQ%2Fhqdefault.jpg&amp;type=text%2Fhtml&amp;schema=youtube" width="854" height="480" frameborder="0" scrolling="no"><a href="https://medium.com/media/a517a90f9981d54141da7efbc9263372/href">https://medium.com/media/a517a90f9981d54141da7efbc9263372/href</a></iframe><p><strong>Multimedia</strong></p><ul><li><a href="https://vimeo.com/1069749528/8441a681a4?ts=0&amp;share=copy">Video: Watch the full speech</a>.</li></ul><figure><img alt="" src="https://cdn-images-1.medium.com/max/1024/1*Ai802Tng5cf3Z957xcW2Hg.jpeg" /></figure><figure><img alt="" src="https://cdn-images-1.medium.com/max/1024/1*2PPrRLJJcOZtc0lYJmUM3w.jpeg" /></figure><img src="https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=649a93a589a1" width="1" height="1" alt=""><hr><p><a href="https://medium.com/kingcounty/executive-constantine-gives-his-final-state-of-the-county-address-649a93a589a1">Executive Constantine gives final county address</a> was originally published in <a href="https://medium.com/kingcounty">KingCounty</a> on Medium, where people are continuing the conversation by highlighting and responding to this story.</p>'
+original_content: '<h3>Executive Constantine gives his final State of the County address</h3><p>Today
+  King County Executive Dow Constantine delivered his <a href="https://vimeo.com/1069749528/8441a681a4?ts=0&amp;share=copy">final
+  State of the County address</a>, looking back on successes over the past 16 years,
+  as well as challenges faced during his time in office and opportunities ahead for
+  the next administration.</p><p>“I am honored to have served as executive of one
+  of the largest and most forward-thinking regions in the country. To the people of
+  King County, thank you. Your trust, engagement and commitment to building a stronger,
+  more just community and a better future have made progress possible,” said <strong>Executive
+  Constantine</strong>. “The work ahead is as critical as ever. I know the next chapter
+  will unfold on the solid foundation we built.”</p><figure><img alt="" src="https://cdn-images-1.medium.com/max/1024/1*TR3_LKUYBO-204am7Q5MYw.jpeg"
+  /></figure><p>At the start of his administration in 2009, Constantine laid out a
+  vision for King County government: to be responsive, effective and accountable to
+  the people we serve — a county that invests in transportation, prioritizes the health
+  and well-being of the most vulnerable and partners with cities, businesses and labor
+  unions to create opportunity.</p><p>Now, four terms later, he reflected on his years
+  as executive and the ability to deliver accomplishments thanks to the dedicated
+  public servants who show up to serve the people of King County every day.</p><p>“At
+  its heart, our work is about creating a high-functioning enterprise that delivers
+  for the people who call this place home. We value the people we serve, and we value
+  the public employees who devote their lives to serving the people — always staying
+  focused on our True North in everything we do: Making Martin Luther King County
+  a welcoming community where every person can thrive,” <strong>Constantine added</strong>.</p><p>Constantine
+  highlighted progress made throughout his administration during today’s speech at
+  Kerry Hall on Capitol Hill:</p><ul><li>Protected 30,000 acres of forests, farmland,
+  river corridors and urban greenspace through the Land Conservation Initiative.</li><li>Completed
+  large restoration projects along the Green, Cedar and Duwamish rivers, restoring
+  500 acres of fish and wildlife habitat while protecting homes, farms and roads from
+  flooding and erosion.</li><li>Launched extraordinary measures to bring kokanee salmon
+  back from the brink of extinction. Over 8,000 kokanee returned to their spawning
+  grounds last season. In 2018, just 19 kokanee returned to spawn.</li><li>Taking
+  urgent action to tackle climate change including carbon reduction through the Re+
+  zero-waste initiative, transitioning to electric vehicle and bus fleets, expanding
+  high-wage green jobs and readying for climate impacts like extreme heat and wildfires.</li></ul><figure><img
+  alt="" src="https://cdn-images-1.medium.com/max/1024/1*1pPrboh0hX-LTjKcQVNhyQ.jpeg"
+  /></figure><figure><img alt="" src="https://cdn-images-1.medium.com/max/1024/1*A1bL0maKehJHW9LrwNXfNA.jpeg"
+  /></figure><ul><li>Launched eight Metro RapidRide routes, with four more on the
+  way, creating frequent, reliable service across the county.</li><li>Building a world-class
+  rail network that is the spine of a comprehensive transit system. By next Spring,
+  we will have grown the light rail system to 62 miles of track and 51 stations. And
+  last year, we celebrated the opening of EastLink and extended light rail into Snohomish
+  County.</li></ul><figure><img alt="" src="https://cdn-images-1.medium.com/max/1024/1*7KaGnjuMv17MMOtB_RXI5A.jpeg"
+  /></figure><figure><img alt="" src="https://cdn-images-1.medium.com/max/1024/1*kR76OmsOqCQ7IkDacJLQLg.jpeg"
+  /></figure><ul><li>Expanding mental health and addiction services through the Crisis
+  Care Centers initiative. Last month, King County announced the Connections Kirkland
+  facility as the first crisis center in the new countywide network, and we will open
+  four more crisis centers, including one for youth.</li></ul><iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FMDMwovIMdjI%3Ffeature%3Doembed&amp;display_name=YouTube&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DMDMwovIMdjI&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FMDMwovIMdjI%2Fhqdefault.jpg&amp;type=text%2Fhtml&amp;schema=youtube"
+  width="854" height="480" frameborder="0" scrolling="no"><a href="https://medium.com/media/eb6d75e1a7891e84ae88cdea20b84875/href">https://medium.com/media/eb6d75e1a7891e84ae88cdea20b84875/href</a></iframe><ul><li>Creating
+  over 3,800 units of affordable housing. Just last year, King County helped families,
+  seniors and veterans open the doors to nearly 1,800 new affordable homes.</li><li>Advancing
+  multiple strategies to bring more people inside, including through Health Through
+  Housing. We have secured over 1,400 units across 11 buildings in Auburn, Burien,
+  Redmond, Renton and Seattle. This year, we’re opening three more buildings in Federal
+  Way, Kirkland and Capitol Hill.</li></ul><iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FtNjkdbhH4A8%3Ffeature%3Doembed&amp;display_name=YouTube&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DtNjkdbhH4A8&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FtNjkdbhH4A8%2Fhqdefault.jpg&amp;type=text%2Fhtml&amp;schema=youtube"
+  width="854" height="480" frameborder="0" scrolling="no"><a href="https://medium.com/media/bbfb2a0a0f09e68bbae1cd061621a947/href">https://medium.com/media/bbfb2a0a0f09e68bbae1cd061621a947/href</a></iframe><ul><li>More
+  than doubled the number of transit security officers to 175 and are on track to
+  hire 20 more commissioned transit police.</li><li>Launched Operation Safe Transit,
+  a coordinated effort of law enforcement and human services professionals, with an
+  emphasis on hot spots like the 3rd Ave Transit Corridor. Sheriff deputies have made
+  over 520 arrests, while also connecting hundreds more people to behavioral health
+  and housing assistance.</li></ul><iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fwww.youtube.com%2Fembed%2FfyH4eKQxsFQ%3Ffeature%3Doembed&amp;display_name=YouTube&amp;url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DfyH4eKQxsFQ&amp;image=https%3A%2F%2Fi.ytimg.com%2Fvi%2FfyH4eKQxsFQ%2Fhqdefault.jpg&amp;type=text%2Fhtml&amp;schema=youtube"
+  width="854" height="480" frameborder="0" scrolling="no"><a href="https://medium.com/media/a517a90f9981d54141da7efbc9263372/href">https://medium.com/media/a517a90f9981d54141da7efbc9263372/href</a></iframe><p><strong>Multimedia</strong></p><ul><li><a
+  href="https://vimeo.com/1069749528/8441a681a4?ts=0&amp;share=copy">Video: Watch
+  the full speech</a>.</li></ul><figure><img alt="" src="https://cdn-images-1.medium.com/max/1024/1*Ai802Tng5cf3Z957xcW2Hg.jpeg"
+  /></figure><figure><img alt="" src="https://cdn-images-1.medium.com/max/1024/1*2PPrRLJJcOZtc0lYJmUM3w.jpeg"
+  /></figure><img src="https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=649a93a589a1"
+  width="1" height="1" alt=""><hr><p><a href="https://medium.com/kingcounty/executive-constantine-gives-his-final-state-of-the-county-address-649a93a589a1">Executive
+  Constantine gives final county address</a> was originally published in <a href="https://medium.com/kingcounty">KingCounty</a>
+  on Medium, where people are continuing the conversation by highlighting and responding
+  to this story.</p>'
 original_markdown_body: |-
   ### Executive Constantine gives his final State of the County&nbsp;address
 
@@ -66,13 +134,13 @@ topics:
 - Shelter & Housing
 - Transportation & Mobility
 images:
-- c2f27e60f92111ef5a4add86950bff3329a103426fc4de29c0e7acc296adaf13
-- 1d171e9687df141672cc2c8fc5687a00306f91b2f537194fef557434052d12b7
-- '08ad37589dd7b641d2bc5b0a0315a81b8425adad4695018b358defeb229ad3b6'
-- b4f7f81959f3f5f7b184b346ec5e2567e9cae61bc3d7a214e59446fe5868ae24
-- 50ed5683437dfe8a9c5c60900349dca5184cebc05e96a075f4dbecac8e4487e6
-- eb6297b5f1b91518087c49c41203b97fc0fd83568861993bcc9c9a8c881f8168
-- 2f80ad2ee9f92ddf22c54cf143534ada36e299af107a947078fd05376eb45bc9
+- c8fb8cb03fe4e0b9779a22cc0cc61f31dad7c4c60ac8b49f58049c8881bbad87
+- 8fe36cac2612f6739c15e209ac3782d215c2240bdf9bea0c82cda1be28058e0c
+- 0c63c40ae2c681c9191ecf49cb2f41dd92b09f284a4139b165b971ecba3d0c8d
+- 8ab8a5c3553c943ce7d195131245e2cab69a172920b6dcc33364bf0a41c63ac9
+- '0654038a8d207099c552ffcd5ff3cae1ac44fca9ed45a58ed186d71dcf1ef397'
+- 4247b3de5ccd460cd8fb8076d28574be8a6541d5649dbd1d12bf2523bd93b180
+- ca20f6e4c1ab4a7c138125381f6a2cf162ba2213a11cb544d3d1cf3bc8337a59
 ---
 
 King County Executive Dow Constantine delivered his final State of the County address, reflecting on his 16 years in office. He expressed gratitude to the residents for their trust and engagement, emphasizing the importance of building a just community. Constantine highlighted key accomplishments, including the protection of 30,000 acres of land, the restoration of 500 acres of natural habitat, and significant efforts to revive the kokanee salmon population. He also discussed climate initiatives such as carbon reduction, transitioning to electric vehicles, and the expansion of green jobs. Transportation improvements were noted, with the launch of eight new Metro RapidRide routes and the ongoing development of a 62-mile light rail system. Additionally, he mentioned the expansion of mental health services through new crisis care centers and the creation of over 3,800 affordable housing units. With a focus on safety, the number of transit security officers was increased, and Operation Safe Transit was launched to enhance safety in transit corridors. Constantine concluded by expressing confidence that the future administration would build upon the foundation established during his tenure.

@@ -56,7 +56,7 @@ topics:
 - Health Care
 - Mental Health & Counseling
 images:
-- 7c2c229c1cf0dc22a88418603fae35a4304cdc724d455933169c1dd1f34f1c6b
+- 719f0076e5bc7cbcf4c82a40f751f8292f140dec447a0874804e626a4891bdfb
 ---
 
 Meet Benjamin, a remarkable individual who overcame acute lymphoblastic leukemia diagnosed at just 3 years old. His treatment journey, filled with chemotherapy and numerous medical procedures, forged deep connections with his caregivers, which remain strong to this day. These experiences cultivated Benjamin's resilience and maturity, fueling his desire to help others. After surviving cancer, he pursued a career in medicine, attending Mississippi College for Biology and Medical Sciences, and later graduate school, supported by the NCCS Beyond the Cure Ambassador Scholarship, which alleviated his student debt.

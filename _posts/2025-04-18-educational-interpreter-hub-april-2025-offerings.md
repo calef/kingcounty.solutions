@@ -40,13 +40,44 @@ original_content: |-
   <div style="text-align: center;">Please contact the CDHY Interpreter Hub Coordinator with any questions<br />
   Melissa Klindtworth | <a title="mailto:Melissa.klindtworth@cdhy.wa.gov" href="mailto:Melissa.klindtworth@cdhy.wa.gov" data-ogsc="">Melissa.klindtworth@cdhy.wa.gov</a> | 360-952-2906</div>
   <div></div>
-original_markdown_body: "![Upcoming Professional Development Opportunities\n\nBuilding Bridges: Five-Week Receptive Skills Training with Deaf Professionals\nPresented by: Richard Jacobs and Dr. Taralynn Petrites\nInterpreters will have the opportunity to enhance both their receptive and expressive skills through interaction with two Deaf professionals over the course of five weeks. The sessions will take place via Zoom on Wednesdays from 5:30 PM to 7:00 PM. Each interpreter will schedule 4 to 6 individual 30-minute sessions with Deaf mentor(s). The mentors will address topics tailored to the interpreters' needs, including fingerspelling, ASL storytelling, Deaf culture, and much more. This is a unique opportunity to prepare for the EIPA exam.\n\nOpen house in Federal Way! We are opening a new EIPA performance test site in Federal Way starting in April 2025! If you would like to come take a look at the testing environment and look at some practice EIPA materials, join us!\n- Tuesday, March 25th 5-7pm\n- Wednesday, March 26th 4-6pm\nPlease contact the CDHY Interpreter Hub Coordinator with any questions.\nMelissa Klindtworth Melissa.klindtworth@cdhy.wa.gov 360-952-2906](https://www.cdhy.wa.gov/wp-content/uploads/2025/04/April-2025-Flyer.png)\n\n**Upcoming Professional Development Opportunities**\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n**Building Bridges: Five-Week Receptive Skills Training with Deaf Professionals**\n\n_Presented by: Richard Jacobs and Dr. Taralynn Petrites_\n\nInterpreters will have the opportunity to enhance both their receptive and expressive skills through interaction with two Deaf professionals over the course of five weeks. The sessions will take place via Zoom on Wednesdays from 5:30 PM to 7:00 PM. Each interpreter will schedule 4 to 6 individual 30-minute sessions with Deaf mentor(s). The mentors will address topics tailored to the interpreters’ needs, including fingerspelling, ASL storytelling, Deaf culture, and much more. This is a unique opportunity to prepare for the EIPA exam.\n\n[**Registration**](https://docs.google.com/forms/d/e/1FAIpQLSebwyKalp4Kiy5IZrOSqi7muFXPH_W1XmroV35Mwl2GVZhvOQ/closedform)\n\n* * *\n\n**Open house in Federal Way!**\n\nWe are opening a new EIPA performance test site in Federal Way starting in April 2025!\n\nIf you would like to come take a look at the testing environment and look at some practice EIPA materials, join us!\n\n– Tuesday, March 25th 5-7pm\n\n– Wednesday, March 26th 4-6pm\n\n* * *\n\nPlease contact the CDHY Interpreter Hub Coordinator with any questions  \nMelissa Klindtworth | [Melissa.klindtworth@cdhy.wa.gov](mailto:Melissa.klindtworth@cdhy.wa.gov \"mailto:Melissa.klindtworth@cdhy.wa.gov\") | 360-952-2906"
+original_markdown_body: "![Upcoming Professional Development Opportunities\n\nBuilding
+  Bridges: Five-Week Receptive Skills Training with Deaf Professionals\nPresented
+  by: Richard Jacobs and Dr. Taralynn Petrites\nInterpreters will have the opportunity
+  to enhance both their receptive and expressive skills through interaction with two
+  Deaf professionals over the course of five weeks. The sessions will take place via
+  Zoom on Wednesdays from 5:30 PM to 7:00 PM. Each interpreter will schedule 4 to
+  6 individual 30-minute sessions with Deaf mentor(s). The mentors will address topics
+  tailored to the interpreters' needs, including fingerspelling, ASL storytelling,
+  Deaf culture, and much more. This is a unique opportunity to prepare for the EIPA
+  exam.\n\nOpen house in Federal Way! We are opening a new EIPA performance test site
+  in Federal Way starting in April 2025! If you would like to come take a look at
+  the testing environment and look at some practice EIPA materials, join us!\n- Tuesday,
+  March 25th 5-7pm\n- Wednesday, March 26th 4-6pm\nPlease contact the CDHY Interpreter
+  Hub Coordinator with any questions.\nMelissa Klindtworth Melissa.klindtworth@cdhy.wa.gov
+  360-952-2906](https://www.cdhy.wa.gov/wp-content/uploads/2025/04/April-2025-Flyer.png)\n\n**Upcoming
+  Professional Development Opportunities**\n\n\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\\_\n\n**Building
+  Bridges: Five-Week Receptive Skills Training with Deaf Professionals**\n\n_Presented
+  by: Richard Jacobs and Dr. Taralynn Petrites_\n\nInterpreters will have the opportunity
+  to enhance both their receptive and expressive skills through interaction with two
+  Deaf professionals over the course of five weeks. The sessions will take place via
+  Zoom on Wednesdays from 5:30 PM to 7:00 PM. Each interpreter will schedule 4 to
+  6 individual 30-minute sessions with Deaf mentor(s). The mentors will address topics
+  tailored to the interpreters’ needs, including fingerspelling, ASL storytelling,
+  Deaf culture, and much more. This is a unique opportunity to prepare for the EIPA
+  exam.\n\n[**Registration**](https://docs.google.com/forms/d/e/1FAIpQLSebwyKalp4Kiy5IZrOSqi7muFXPH_W1XmroV35Mwl2GVZhvOQ/closedform)\n\n*
+  * *\n\n**Open house in Federal Way!**\n\nWe are opening a new EIPA performance test
+  site in Federal Way starting in April 2025!\n\nIf you would like to come take a
+  look at the testing environment and look at some practice EIPA materials, join us!\n\n–
+  Tuesday, March 25th 5-7pm\n\n– Wednesday, March 26th 4-6pm\n\n* * *\n\nPlease contact
+  the CDHY Interpreter Hub Coordinator with any questions  \nMelissa Klindtworth |
+  [Melissa.klindtworth@cdhy.wa.gov](mailto:Melissa.klindtworth@cdhy.wa.gov \"mailto:Melissa.klindtworth@cdhy.wa.gov\")
+  | 360-952-2906"
 summarized: true
 topics:
 - Education & Learning
 - Disabilities
 images:
-- 6a485cacc3303188aa910836c53930f2d1f9b889cb58df8ed80bf7a3891cb7a6
+- d3e00ff523633e02c33f944c50c3ce753cc8488f6d32ea073e21ace704849588
 ---
 
 Upcoming professional development opportunities include the "Building Bridges: Five-Week Receptive Skills Training" for interpreters, led by Richard Jacobs and Dr. Taralynn Petrites. This program allows interpreters to enhance their receptive and expressive skills through interaction with Deaf professionals. Sessions will occur via Zoom on Wednesdays from 5:30 PM to 7:00 PM, where participants can schedule 4 to 6 individual 30-minute sessions with Deaf mentors. These mentors will cover topics such as fingerspelling, ASL storytelling, and Deaf culture, offering a valuable preparation opportunity for the EIPA exam.

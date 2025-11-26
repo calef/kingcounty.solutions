@@ -36,8 +36,8 @@ topics:
 - Mental Health & Counseling
 - Education & Learning
 images:
-- ba4ea0cdb31da9f3a3759246465c9db3ee32b57c01cf8654f0c22a868d0ada5e
-- 912e8e51a0ebae1f0043a1159e38c7f07a522987572eeb28a496033c4f764bf7
+- 3b78e36104794a6048f1fc06ff6d3b3870bc12c2d25c247ee9145778af3ab8bb
+- 16424f9941336fffe374019a5f441829409152e602519030d9316679dbaeaf86
 ---
 
 Encompass hosted Confidence Camp: Halloween Edition to help neurodiverse children, ages 3-10, prepare for Halloween, addressing nerves around trick-or-treating. The camp featured activities led by mental health and therapy professionals, including a "Halloween Feelings Check-In" and communication skills training for trick-or-treating. Children engaged in the Candy Dish Challenge to enhance fine motor skills and self-control while exploring coping strategies during a "Spooky Decorations Walk." The event concluded with a Halloween Parade where kids showcased their costumes and newfound confidence. The camp emphasized that every child can enjoy Halloween with the right tools for communication and self-regulation.

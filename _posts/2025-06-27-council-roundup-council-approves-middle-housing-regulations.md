@@ -117,7 +117,7 @@ topics:
 - Shelter & Housing
 - Disabilities
 images:
-- 8b598d8f89355b52190ec119b30c2b63a538f356e2b2e2725be623661d4d8146
+- 34a9ecd566e623cf6581f456034d1a644326745b861352243937b7b1792c7823
 ---
 
 The Bellevue City Council approved updates to the city’s housing policies to comply with new state laws aimed at expanding housing options. These changes align with House Bills 1110 and 1337, which mandate greater residential density and a variety of housing types. Key amendments include reducing the distance near transit for building six units, lowering maximum building heights for middle housing, and limiting the size of cottage housing. A fee-in-lieu option for developers was also established, allowing them to pay to build up to six units while maintaining parking requirements with exemptions near major transit.

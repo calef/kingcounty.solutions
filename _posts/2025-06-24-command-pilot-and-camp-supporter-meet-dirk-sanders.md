@@ -84,11 +84,11 @@ topics:
 - Transportation & Mobility
 - Health Care
 images:
-- 480c768460a745fb57d7683b23f5bae6af57ca87f1442ad6f5ae89b08be51abb
-- c4157b099ccfbbe70f97ada949f26621acd2a80cc646957fb441c98de8d2406e
-- 8335ecb5d3252053ebd4d0e81b02116b2ef84e1e7ad40b43dcee3560a2af9e90
-- 61741286cb33b8c1ec86245623da6903dd1127e357d81a267c62228c10d2db1c
-- b64c6e47deca965b4f9db7bd6ee44556a1c6d497652216a5aa8c8bc7f19ff091
+- 62fe216e55718d31057a0428b464f202b3ae0cc3a06f2ab261621588b8a0732e
+- 60edd00aad4fddb09880b2882b79932630b35ce7bed44eedcdc304c42e041c56
+- ef38588c48a88372388f69caf4c75725abf173bc7c43dd2ee3c9e6ce565856ca
+- 81a1615fce06f040dcaa380afa4d10ce23cce98788c81adf6f78967c85cb215a
+- 29e2fbf8ea92e7950f7733638fe293469e5f269eefc9824ec4f87ba30268cee1
 ---
 
 Dirk Sanders developed a passion for aviation at a young age, influenced by his experiences flying with his great-uncle and attending airshows in Idaho. After moving to Moses Lake, Washington, he was inspired by Boeing test flights and earned his Private Pilot License in 2009. Initially volunteering as an Earth Angel driver for Angel Flight West (AFW), Dirk aimed to become a Command Pilot. Since his first mission in February 2023, he has completed 28 flights, using a rented Cirrus SR22 to transport children to camps and patients to medical appointments. One notable passenger was Rebecca, a breast cancer survivor, whose journey inspired Dirk's commitment to helping others. This year, he is supporting AFW's camp season through a matching gift initiative via his company, One Three Right Studios, pledging to match donations up to $5,000 from June 23 to June 30. Dirk emphasizes the importance of giving back and views supporting AFW as a way to pay forward the joy he finds in flying.

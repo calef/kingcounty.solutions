@@ -57,7 +57,7 @@ summarized: true
 topics:
 - Transportation & Mobility
 images:
-- ff718c62b2dd1f4a32b061a0bd57b32d083184b1ddc4afd80b307a22fe9e9ab2
+- 54b2194cee32cf79de9f69c90e4cd73bda2ca4953238e2c9d467f54ca8adda82
 ---
 
 City planners are seeking public input on the Grand Connection corridor, a non-motorized route from Meydenbauer Bay Park through downtown Bellevue to Eastrail in Wilburton. Residents can share their thoughts on activities along the corridor by scanning QR codes on sidewalk decals featuring Belle the Bobcat. The latest episode of Lake to Lake highlights current attractions along the Grand Connection and discusses future placemaking initiatives. Transportation Director Andrew Singelakis will provide insights into the planning of improvements for streets and sidewalks in the area. Additionally, the episode showcases the recent Kelsey Creek Farm Fair, featuring ponies, pumpkins, and hay wagon rides, capturing the community's enjoyment of local events.

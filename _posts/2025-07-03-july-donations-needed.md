@@ -29,7 +29,7 @@ summarized: true
 topics:
 - Personal & Household Needs
 images:
-- 54918c78aff99a8390cb0f792bbcb9a404415f0513854717a6a463c406ef2f2c
+- 35d260c9b6bdd225f07a2dd042f380ebc74fa7c3786a5297bbed66ae09260953
 ---
 
 Hospitality House South King is seeking donations for the month of July 2025. They have specific needs that can be fulfilled by shopping for items on their list. Community support is crucial to help meet these needs and ensure the continuation of their services. Individuals interested in contributing can easily access the donation list through their website. The organization emphasizes the importance of these contributions to assist those in need.

@@ -35,8 +35,8 @@ topics:
 - Shelter & Housing
 - Health Care
 images:
-- 946cfbc089f8ec8d44be57b2d45c1e86ddbabf58fcfc3a6c1556cd4d5428b0df
-- 667ea46f9bd0a596bffc1ce3762593877b192e7ff838d9e826f3d5ae32c9eb71
+- 38a3031732a010916586a194eb09c32030721be01a4119babad70e480a5e2a1e
+- 4fbad87bb7c85b49a2eabbc91d2a610df895a49f687e9cd0f31fa96d26620e8d
 ---
 
 This year's legislative session in Olympia resulted in mixed outcomes for low-income families in Washington state. Lawmakers successfully passed a historic rent stabilization bill and avoided the most severe cuts to services while addressing a $16 billion budget deficit. However, the legislature still enacted $5.9 billion in cuts to essential services, reduced Medicaid Dental reimbursement rates by half, and failed to implement a new wealth tax that could have addressed the state's regressive tax structure. Ultimately, the burden of budget balancing fell disproportionately on struggling families, though not as severely as initially feared. The session highlights both significant achievements and missed opportunities in addressing the needs of vulnerable populations in the state.

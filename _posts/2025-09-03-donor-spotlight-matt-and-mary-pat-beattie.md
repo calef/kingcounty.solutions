@@ -50,7 +50,7 @@ summarized: true
 topics:
 - Mental Health & Counseling
 images:
-- 5657735786d51fa130e71b72eb32539a3fec390be7bdde286d61445e9aadd283
+- 9d273a518a07081f9c8e68c04a363162acfd68e2a5a922c56ced8cc9e15a0f3a
 ---
 
 Matt and Mary-Pat Beattie have a personal connection to Youth Eastside Services (YES), stemming from their son Jack's journey with substance use and mental health challenges. Initially referred for counseling at 13, Jack developed a trusting relationship with his counselor and found a supportive community at YES. After being diagnosed with bipolar disorder at 19, he continued to seek help but tragically passed away from an accidental overdose at 20, amid rising fentanyl-related fatalities.

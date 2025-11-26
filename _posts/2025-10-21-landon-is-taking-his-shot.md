@@ -73,8 +73,8 @@ topics:
 - Employment & Job Support
 - Mental Health & Counseling
 images:
-- e042a37555cb11a7a915b317d97f6fc7d9afbdca73e21b40ab7d0aa0c5631d39
-- 82ec843d53c579efe32a5ddf823c0a75dbea603f19a69192038529c0f77a4dc4
+- 760e41e8d4f6b74d8717cf1ab6c43a50aa4e3cf62a0b9d342b94d8464d7d3805
+- d59b6b79a5cd34756ecb81d9b55d5d8b3e5108ddf7524cfd85a0007a80acf5d2
 ---
 
 Landon, an athletic young man, has transitioned from soccer and cross country to hockey, which he started at age 10 despite initial struggles. His involvement in youth hockey leagues provided crucial support during challenging times in foster care, especially during the COVID-19 pandemic when he faced significant disruptions in his life. Practicing hockey outdoors helped him cope with stress, and he benefited from a supportive foster family.

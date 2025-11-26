@@ -123,7 +123,7 @@ summarized: true
 topics:
 - Transportation & Mobility
 images:
-- d9f1ea32e76811b309441e5db854d79bae2ce21c63e4714f507160f5652857f7
+- 21936f4a7c21c4d94137788c267617a535fcbf9a14f0dbf65d9e3dea0411e3dc
 ---
 
 Celebrate Independence Day at the Bellevue Family 4th, the Eastside's largest fireworks event, on July 4 from 5 to 10:30 p.m. at Downtown Park. The event features live music, family entertainment, and fireworks at 10:05 p.m. performed by the Bellevue Youth Symphony Orchestra. The lineup includes rock band MiSSMANAGED at 5 p.m. and dance party group The Nines! at 7 p.m. Attendees can enjoy yard games, activities for children, and food and beverage vendors starting at 5 p.m. Bellevue Utilities will provide a mobile water station for hydration.

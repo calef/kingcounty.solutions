@@ -76,10 +76,10 @@ topics:
 - Education & Learning
 - Employment & Job Support
 images:
-- 419f48d1e366bb81303297fba1ed237a66c63f8bc5ba953942ed0ae2fcffdb37
-- efbd867a3652c509f5706c8bcfc022c41de5d21abcdad644ccb5081825e5764f
-- 8defdeb970ba90fcb1e016b03aa49179f180faf5e5461bc56e171fc76f3d692d
-- d508186348a1d8bb8a77bc782c0166ce30dcb2a0847e111fe5576f66ba625c59
+- ef90d0d359f88f129564b23d39c519fc63d1f2079792ff41bac4ad2bad6a613b
+- feadd195dfdb37c60ca994486e67b21dc72a3253b2eaae870178c1b235966aa1
+- bd0388d6702b850377ea4b4c6b23019dbfb42001e6db12a9718002042ba60758
+- e4f10f0042c4f9c7b3105f4810dfdab888e8d041e8ea645a5fe3f64073bad43e
 ---
 
 El Centro de la Raza recently welcomed exceptional students from the University of Washington and Seattle University into their Internship and Work-Study programs. These students contributed significantly to various projects, enhancing El Centro's mission across multiple departments. Their engagement allowed the organization to expand its outreach, strengthen community ties, and improve programming effectiveness. 

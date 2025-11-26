@@ -60,7 +60,7 @@ summarized: true
 topics:
 - Health Care
 images:
-- d1009cc4632b3e5b76394ca91e337a465ebf515538df9a1bf5b62d63d2adf02c
+- 78280ac02385cc3f623a97daef368df898aabf7093f228f0c85da9bcc4e591cb
 ---
 
 Valley Medical Center has achieved a significant milestone by completing its 7,500th robotic-assisted surgery since introducing the technology in 2009. The center has been recognized as a Center of Excellence in Robotic Surgery by the Surgical Review Corporation in 2023 and has expanded its facilities from one to two robotic operating rooms to meet growing demand for minimally invasive procedures. Valley ranks in the 75th percentile for robotic surgery use, exceeding the national average by 14%. Dr. Greta Bernier, Medical Director of Robotic Surgery, highlights that robotic-assisted surgery provides benefits such as smaller incisions, reduced pain, quicker recovery times, and improved overall outcomes. The program includes high-volume specialties like general and gynecologic surgery, with additional procedures in colorectal, endocrine, surgical oncology, urology, and urogynecology. Dr. Heather Wheeler, Medical Director for Perioperative Services, emphasizes the commitment to providing advanced minimally invasive surgery, supported by 19 surgeons across eight specialties. In 2024, Valley completed 910 robotic-assisted surgeries, making up over 14% of its surgical volumes, and continues to invest in both technology and training to enhance surgical care.

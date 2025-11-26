@@ -65,7 +65,7 @@ topics:
 - Health Care
 - Education & Learning
 images:
-- f513cc66379676e88ad14e47419f2025ccb62e4bda0dfc722e5b96ecb182c4fe
+- 112749304f833114d7ca416757cad1a4e30be843199cb4011d47119e43c937de
 ---
 
 Celebrating the grand opening of two new affordable housing communities, Amani and Nia, in San Francisco marks a significant milestone in the Sunnydale HOPE SF revitalization project. The event featured community leaders and stakeholders, including Secretary Tomiquia Moss and Mayor Daniel Lurie. Amani offers 80 apartments and 21,000 square feet of retail space, while Nia contains 90 apartments alongside 4,000 square feet of retail. These developments provide homes for low-income families earning between 30% to 60% of the Area Median Income, with 75% of units reserved for existing Sunnydale public housing residents. The initiative aims to transform Sunnydale into a vibrant neighborhood, integrating community services like a grocery store, health center, and early childhood education facility. In addition, the groundbreaking for two new buildings, Luca and Cielo, will create 184 more affordable apartments. Overall, the project plans to deliver approximately 1,700 new homes, reflecting a collaborative effort among various public and private partners to improve the quality of life for residents in the area. Community access to amenities, parks, and educational resources is integral to this transformation, with significant financing support from multiple institutions.

@@ -66,8 +66,8 @@ topics:
 - Employment & Job Support
 - Financial Assistance
 images:
-- bb677cb466840a2e89484b5cd7eed5cc6cdd0cf485f124ed477f12fa4eed1e62
-- 2042c3a3972e54fc9ba794760ad28398f01c20e4e5376fa19525fe2cd5652fcc
+- 1ece87877fd0c99ad3f0b97a41b207f4b9fb51356dd62d3df5ed879bcf50120f
+- ba5de3315e92c0ded14f07584354e56e370791fa290f8c5faa08b9ea207e36bc
 ---
 
 With community support, Wellspring expanded its housing services and resources for veterans and families, achieving a zero percent return-to-homelessness rate in its rapid rehousing program for four years. The Family Store assisted over 2,200 families with essential items, while the Employee Stability Program (ESP) equipped employers to help employees maintain housing stability. The Early Learning Center graduated eleven children, providing resources for their families to enhance their future. Despite facing significant challenges, including leadership transitions and program shifts, Wellspring took decisive actions to strengthen its foundation and commitment to the families it serves. As 2025 approaches, the board is initiating a strategic planning process and searching for a permanent CEO, recognizing the growing need for its services amid increasing housing instability. Wellspring aims to expand its affordable housing support while navigating uncertainties in government funding and policy changes. By enhancing partnerships and diversifying strategies, Wellspring is positioned to maintain robust services and continue its mission of providing stable housing for families. The organization expresses gratitude for community support, emphasizing the collective effort in shaping a future where every child and family has safe and stable housing.

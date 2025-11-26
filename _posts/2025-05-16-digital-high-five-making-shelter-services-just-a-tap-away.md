@@ -101,7 +101,7 @@ topics:
 - Legal Aid
 - Childcare
 images:
-- dbfe9c5f89244d776ef0328d8c61988ebe735246a37fe9da41d89153ff877c88
+- 563feef0ed65d717fabeb6903ae47a4ef3452d6e00c119759e676d2ace7d45fe
 ---
 
 Mary's Place has introduced user-friendly, self-service digital kiosks at its emergency shelters and the Allen Family Center, enhancing access to essential resources for families in need. Supported by funding from Comcast, these kiosks feature universal symbols and customizable language options, making it easier for guests, including those facing language barriers, to navigate services such as scheduling appointments and accessing legal assistance. Brian Carlson, IT Director at Mary’s Place, describes the kiosks as digital assistants that streamline daily tasks for guests.

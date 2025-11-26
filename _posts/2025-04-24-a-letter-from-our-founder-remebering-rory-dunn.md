@@ -95,7 +95,7 @@ topics:
 - Mental Health & Counseling
 - Disabilities
 images:
-- da8add24b975b30f8f91a8c838a4e9b7a6118aa7eb39b6eb889f35c3c1370f7c
+- c30c392e3b7fd31941c323a865ad01dbd107adb73a6e251ed45c20fc7a3949f2
 ---
 
 A pivotal moment for Dr. Theresa Cheng came upon reading an article about Rory Dunn's survival and his mother, Cynthia Lefever's, advocacy. Cheng felt a strong emotional connection as a mother and recognized an opportunity to serve veterans through her dental practice. Inspired by Rory's story, she began providing free dental care to the families of injured veterans, realizing that many veterans lacked access to dental services through the VA.

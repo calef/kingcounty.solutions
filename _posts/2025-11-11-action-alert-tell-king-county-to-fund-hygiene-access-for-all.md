@@ -110,7 +110,7 @@ topics:
 - Personal & Household Needs
 - Financial Assistance
 images:
-- e4ec48c9b0bf09a71828df291b9384edecf63623a854e6168b9cb0b2daa6056e
+- fdeef3207d36ffb4c16b09e078eba32db9a771f854d378087f13733f283346b4
 ---
 
 Thousands of King County residents face challenges affording basic hygiene items such as soap, toothpaste, laundry detergent, and menstrual products. The King County Council is currently considering a $50,000 proviso in the 2026–2027 budget to study hygiene poverty and develop data-driven solutions. This initiative aims to address hygiene poverty and establish a foundation for sustainable recommendations in future budget cycles, promoting equitable access to hygiene products. 

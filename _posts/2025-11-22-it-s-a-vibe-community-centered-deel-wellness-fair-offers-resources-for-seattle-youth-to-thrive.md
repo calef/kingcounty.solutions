@@ -30,7 +30,7 @@ topics:
 - Mental Health & Counseling
 - Education & Learning
 images:
-- 83dfdf7719a130d7914cab227fbac2f34f25c2d85b7bd0951c35de6fe446f71f
+- f22f2f4760c4e77202ae8acc1e12480c78ecef1356f8f454f837141bafb15269
 ---
 
 On October 25, the Department of Education and Early Learning (DEEL) hosted “Thrive & Vibe: A Youth Health and Wellness Celebration” at El Centro de la Raza’s Centilia Cultural Center in Beacon Hill. The event emphasized youth access to free mental wellness resources funded by the city and featured activities such as youth performances, a resource fair, wellness workshops, and a keynote from former Seattle Seahawks linebacker Ray Roberts. Roberts highlighted the importance of community support and seeking help for mental health, sharing his personal journey and encouraging youth to reach out for assistance. Attendees engaged in fitness activities, mindfulness, yoga, and creative workshops aimed at promoting self-care and community building. The event showcased partner organizations like Celebrating Roots and The Good Foot Arts Collective, which focus on creating supportive environments for youth. Participants also received wellness swag giveaways and had the opportunity to learn about available mental health resources for those ages 13 to 24 in Seattle. The celebration aimed to foster confidence, creativity, and a sense of community among young attendees.

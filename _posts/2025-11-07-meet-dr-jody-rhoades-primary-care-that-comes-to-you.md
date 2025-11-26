@@ -67,7 +67,7 @@ summarized: true
 topics:
 - Health Care
 images:
-- b65f297ae8bf15329a2c75bdb24986b62a71441e48165f80fd63e9bad575862b
+- da795fb72933fa9fccff8682259895746ad58d120aa7698e113f3fcf36ed3528
 ---
 
 Dr. Jody Rhoades offers virtual primary care services for established patients at PacMed, providing accessible health care through Connected Video Visits. She emphasizes a collaborative approach, empowering patients to take charge of their health and work towards a happy, healthy lifestyle. Licensed in Arizona, New Mexico, and Washington, Dr. Rhoades is available for various services, including acute urgent visits, chronic condition management, and hospital follow-ups, all appropriate for video appointments. However, she does not accept new patients, conduct annual physical exams, refill controlled substances, or handle specific claims like Labor & Industries (L&I) or motor vehicle accidents. Established PacMed patients can schedule appointments with Dr. Rhoades by calling 1.888.472.2633 or using MyChart.

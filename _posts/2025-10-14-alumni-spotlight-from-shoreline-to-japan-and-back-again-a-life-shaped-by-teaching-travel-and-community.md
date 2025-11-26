@@ -25,7 +25,7 @@ summarized: true
 topics:
 - Education & Learning
 images:
-- '078892dec5b893934c097b2ceb0e83b845cdd0a131d18b1d38f531f10a169104'
+- 5482324fdb3ffcb64a3d53dd907a1874756a7b22a867ddf1a91f6db771190f22
 ---
 
 Susan Henderson, a Shoreline Community College alumna from the class of 1975, shares her inspiring journey shaped by education, travel, and community. Her mother’s pursuit of a nursing degree at Shoreline in the late 1960s instilled in Susan a deep connection to the college. A transformative summer abroad program led by Professor Amy Mates introduced Susan to international perspectives and friendships, particularly with Hiroko, a Japanese student who encouraged her to become a teacher. Overcoming her shyness, Susan moved to Japan to teach English, discovering her passion for education and cultural exchange. After earning her master’s degree, she returned to Japan for another year before dedicating 26 years to teaching ESL at Edmonds College.

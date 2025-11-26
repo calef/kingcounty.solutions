@@ -129,13 +129,13 @@ topics:
 - Education & Learning
 - Food & Nutrition
 images:
-- a317b5e858f2f4f0610d0c02abddce5add1d0eb3ab63d189cfa74e23e2110e43
-- 7d1cfccff03266473328cb78c224297f1fde3ce229e1b4792b0c52940edfa5c5
-- 346994e8e0e3b1c6bbb3255c9d767ecdcaa12eec67f63737a99249c9bb88d4f4
-- 37b2760c3de7f2d8854acba35be1c131c3f43b98e348c47d43e62cdfb26aab07
-- 9dd071f96f594aee26f30e3b3f4589161bf20f1efa0d77db52cef69df23c5338
-- b2fa5ab766b458cfa0f5f1f88857f8cdf4e11888f1010a3e2dfab2b1757ea711
-- ebd5a80463b34b189015064b35ee2108e24e094529c968609677ce6c78498530
+- 0a7cdbb1e0af471ebf55a6c3e0d18db0dbe7cca480c319825f328fb0165365a4
+- 97e8fea58cb36f12efe83bc2ca38b83067eecab73ca7c4ea5a73c1a82731278f
+- 045167e3e3c0c5e10993a8bfda5d5996953d8ba40b985592f881e70b98e01f30
+- 227d98ff6f821b98e666bb760ea3646d9e1fe7fd65c8766b0caccad797f640eb
+- d015c014437ec4a48cf1790ce91580e7a40ef96e1e025376358c9ef655edd995
+- 51394d21af7cfa20176274f9031a0fcff78a9b593d975f724ce67299595e1478
+- 00a823d5f87ad231ac30c6668f763a678a08cc5a73396873cda33a42d91f2b22
 ---
 
 For Lent 2025, Elisabeth Ellis, the Music Director, will create a daily improvisation on a hymn, sharing it on a Soundcloud playlist for church members to listen to and reflect upon. The initiative aims to provide a calming and sacred musical experience throughout Lent, encouraging members to meditate on hymn lyrics. Pastor Wongee will lead discussions on James Cone's book, *The Cross and the Lynching Tree*, on March 16, 23, 30, and April 6, with lunch provided. Participation in person or virtually is available, and prior reading of the book is encouraged. Kids can engage in the "Coins for Lent" activity, collecting coins for donation to a chosen organization after Easter, fostering a spirit of almsgiving. The Global Missions Team will collaborate with Neighborhood House to assemble Welcome Kits for families in need during Lent. Items for these kits will be collected throughout the season. Additionally, on Ash Wednesday, March 5th, Pastor Wongee and Pastor Jackie will offer the imposition of ashes at the International Fountain. An International Women’s Day event will also take place at the Museum of Pop Culture from 1-4:30 PM.

@@ -87,7 +87,7 @@ topics:
 - Shelter & Housing
 - Financial Assistance
 images:
-- e283479a86b24c5036fa3cbd96aa4f969ff2f2c2292917908aa26f519fd11fbd
+- d31d07af37aebc4714e0adfb018a0b2f6de7aa33f4c659931e56f1b48e8a41f5
 ---
 
 The City of Bellevue has been awarded the 2025 Frank Chopp Public Sector Champion title by the Housing Development Consortium of Seattle-King County for its strong commitment to affordable housing. This recognition underscores Bellevue's proactive approach in addressing housing challenges, particularly through the establishment of a new Office of Housing aimed at supporting community housing needs. Director Bianca Siegl emphasized the city's focus on providing safe and affordable homes for all residents.

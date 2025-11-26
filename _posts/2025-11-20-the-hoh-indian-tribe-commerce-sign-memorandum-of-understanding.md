@@ -73,7 +73,7 @@ summarized: true
 topics:
 - Shelter & Housing
 images:
-- b92c2ee9f6d038cf6ffddb13a169f719e2e6ed9bd7696e75c2f3800c7d69ebbe
+- 301704c2e04ecf8a8887a8e7439eddcf855539d504d34ef36078a972f2405e09
 ---
 
 The Hoh Indian Tribe and the Washington State Department of Commerce have signed a historic memorandum of understanding (MOU) establishing government-to-government relations. This agreement aims to remove administrative barriers, enhance communication, and implement culturally appropriate data privacy and security measures. Signed by Hoh Tribal Chairwoman Darlene Hollum and Commerce Director Joe Nguyễn, the MOU reflects a commitment to respect and collaboration, as well as the sovereignty of the Hoh Tribe. As the Tribe relocates its village to higher ground for safety, this partnership ensures their voices are heard. 

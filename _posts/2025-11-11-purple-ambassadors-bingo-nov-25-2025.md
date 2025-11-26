@@ -17,7 +17,7 @@ summarized: true
 topics:
 - Education & Learning
 images:
-- 79bb4e638bacdb4786f4003a1b2071316a282cfe04d972e2e16653ee15e08b3a
+- d4661b20f31e47790a47533fdc6d61bd95dc4bbb154d8d2fb9440494eca725f5
 ---
 
 Join the Purple Ambassadors, a youth program of the Alzheimer’s Association, on November 25, 2025, for a Thanksgiving-themed bingo event aimed at boosting youth engagement with the senior community. University students will host the event, offering participants a chance to win prizes while getting to know the students involved. The initiative emphasizes fostering connections between young people and seniors, promoting interaction and understanding within the community. This event is part of a series of activities organized by the Purple Ambassadors to enhance intergenerational relationships.

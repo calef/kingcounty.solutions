@@ -83,7 +83,7 @@ summarized: true
 topics:
 - Education & Learning
 images:
-- 918c14a94590b9611168b7fa6f33a88eb5119b046a4921c50a042a292d45efa2
+- ce5f6f66e1ac01d11fe5de77d31d285ae30aae04012f1c4e2e57a3036828b785
 ---
 
 Daniela, a Class of 2025 graduate, shares her journey from a challenging childhood to embracing her education and self-identity. Raised by a single mother who struggled to provide, Daniela found support from a caring teacher and later entered foster care after being a crime victim. Despite the upheaval, she maintained her academic performance. In 10th grade, feeling lost and influenced by peers, she realized the importance of education and self-care. With encouragement from her chosen sister, Daniela focused on her well-being and re-engaged with her studies.

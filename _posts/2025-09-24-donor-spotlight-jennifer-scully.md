@@ -71,7 +71,7 @@ summarized: true
 topics:
 - Mental Health & Counseling
 images:
-- 5657735786d51fa130e71b72eb32539a3fec390be7bdde286d61445e9aadd283
+- 9d273a518a07081f9c8e68c04a363162acfd68e2a5a922c56ced8cc9e15a0f3a
 ---
 
 Jennifer Scully has been a committed supporter of youth mental health for fourteen years, inspired by her attendance at the Invest in Youth Breakfast, an event organized by Youth Eastside Services (YES). Each year, she finds the event transformative, particularly moved by the youth speakers who share their personal challenges and messages of hope. Cherished memories include engaging moments with actor Sean Astin and author Cheryl Strayed. As a mother, Jennifer has witnessed the significant mental health struggles faced by young people, especially during the pandemic, and emphasizes the importance of providing support. She encourages potential donors to invest in the community's future, asserting that every contribution, regardless of size, is impactful. Jennifer expresses confidence in YES, believing that donations are used effectively to sustain vital programs. She hopes for a future where more youth feel empowered to seek help and recognize the care from their community. The article concludes by inviting others to join Jennifer in supporting children and families, highlighting the convenience of making monthly donations to ensure consistent assistance.

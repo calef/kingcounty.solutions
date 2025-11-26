@@ -75,8 +75,8 @@ summarized: true
 topics:
 - Food & Nutrition
 images:
-- f3821318d04ff62fa62b3835f2021cf332c2224122b810a6046410c2e7c80e7e
-- 0a560bae71a8ecf652c88d86422b93b604633af25fa1e46c27bb7d1f8920bb75
+- 722fde6680dc51b5e7df806de22c9d92a80b900cd3a4718132652a68ee89eb17
+- 9999eae0009b82bb6aed01af80badd5ea5d01d3aa14e7e4ed6e7a3e0fcb44ea6
 ---
 
 On July 1, 2025, the Queen Anne Food Bank officially joined Catholic Community Services (CCS), becoming part of a network of over 190 programs across Western Washington. Located in Seattle's Queen Anne neighborhood, the Food Bank serves around 125 people daily, providing weekly grocery pickups and daily fresh meals. Its mission is to support those in need with a warm invitation: “Come if you’re hungry.” This partnership with CCS aims to enhance and sustain the Food Bank's essential services, connecting guests to additional resources like shelters and mental health services.

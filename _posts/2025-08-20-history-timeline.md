@@ -22,8 +22,8 @@ topics:
 - Shelter & Housing
 summarized: true
 images:
-- 84825232276fba3917edb5af34da64407c1a5bb431e026ef3c179c55b2927db9
-- 208b4c99492c7b315fd6c3e38ee14ad65ca9acec060506fb000425e8fd0f0541
+- 88d157c90fec4762266d22ae8325a5bf491254cec3f3d16b60784dee447d2f12
+- f7783642a368850036bb493cc001bfd98ff56830d601beb33c5e3ab518648575
 ---
 
 The history timeline of 2-1-1 in Washington highlights significant milestones in the development of this vital resource. The service was first established in 2000 to provide easy access to social services and information. In 2005, the 2-1-1 service expanded its reach, becoming a crucial tool for connecting individuals with community resources. By 2010, 2-1-1 had become widely recognized, leading to enhanced partnerships with various agencies. 

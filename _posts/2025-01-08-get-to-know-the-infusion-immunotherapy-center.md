@@ -81,13 +81,71 @@ original_content: |-
 
 
   <p><strong>What is your favorite part of working in the infusion center?</strong><br><em>The patients and their families, and the very passionate/compassionate staff that serves the patients every day.&nbsp;We have an excellent team of people who are focused on providing exceptional care to our patients and families. </em></p>
-original_markdown_body: "Valley’s **[Infusion & Immunotherapy Center](http://valleymed.org/infusion)** saw more than 24,500 patients in FY 2024, and is on track to see more than 27,000 patients in FY 2025. To learn about our Infusion & Immunotherapy Center, we sat down with Chermaine Wulff, Manager of Infusion Center. Interview has been edited for length and clarity.\n\n![](http://blog.valleymed.org/wp-content/uploads/2025/01/InfusionChair-reclined.jpg)\n_An infusion chair in the new Infusion & Immunotherapy Center._\n\n**What is an infusion and immunotherapy center?**  \n_An infusion center is an outpatient clinic that is certified to provide infusion therapy to patients. At our Infusion Center, we utilize advanced medical equipment and rely on a skilled team of healthcare professionals who specialize in administering a wide range of infusion treatments. Our primary goal is to offer patients a comfortable, safe, and efficient environment for receiving necessary treatments that can range from chemotherapy to hydration therapy._\n\n_The new facility (in the East Pavilion) has been designed with one priority in mind: **you, the patient**. We believe that a comfortable and welcoming environment can play a significant role in the healing process. With updated, spacious treatment spaces, advanced equipment, and enhanced amenities, our new Center is a place where patients can receive the care they need with greater ease and dignity._\n\n**Who can be referred to the Infusion Center and what types of treatments are offered?**  \n_Our Infusion Center provides services to patients who have been referred by a variety of specialists and clinics including (but not limited to) oncology, hematology, rheumatology, gynecology, cardiology, infectious disease, nephrology, neurology, and primary care._\n\n_Treatments include:_\n\n- _Chemotherapy, immunotherapy, and biotherapy: These treatments are commonly used to treat cancer, autoimmune disorders, and other conditions that require the modulation of the immune system._\n- _IV Antibiotics: administered to patients with infections that require more direct and potent treatment through intravenous delivery._\n- _Blood and platelet transfusions: Essential for patients with conditions such as blood disorders or anemia, or those undergoing treatments like chemotherapy that affect blood production._\n- _Plasmapheresis: A procedure to remove harmful substances from the blood, often used for autoimmune diseases and certain neurological conditions._\n- _Phlebotomy: The removal of blood for diagnostic or therapeutic purposes, often performed to manage iron overload or certain blood disorders._\n- _Hydration therapy: A treatment to replenish fluids and electrolytes, particularly for patients dealing with dehydration or undergoing treatments that cause fluid loss._\n- _Electrolyte replacements: Vital for patients who are experiencing an imbalance in their electrolytes due to illness, medication, or other medical conditions._\n- _Injections: Various medications are administered via injection to help manage conditions such as arthritis, infections, and chronic diseases._\n\n**How many staff work in the Infusion Center? Do they have special training?**  \n_There are currently 46 team members in the Infusion Center and more are being hired for the new East Pavilion space. All nurses are required to have Chemotherapy/Immunotherapy certification as well as Oncology-Certified Nursing (ONC) certification)._\n\n**How do volunteers support the Infusion Center and its patients?**  \n_Volunteers at the Infusion Center often serve as a source of emotional support, offering a listening ear, companionship, and comfort to patients during their treatment sessions. Infusion treatments, especially for conditions like cancer or chronic illness, can be long and exhausting, and having a volunteer available to talk to or simply provide companionship can significantly improve a patient’s emotional well-being. Volunteers may also assist with non-medical tasks, like helping patients get settled in, offering blankets or pillows, and providing light refreshments, ensuring that the patient’s experience is as comfortable as possible._\n\n**How will the new Cancer Center impact the patient experience at Valley?**  \n_The new Cancer Center at Valley is set to transform the patient experience, offering a more integrated, comfortable, and compassionate approach to cancer care. With a focus on patient-centered care, and a dedicated, multidisciplinary team, the Cancer Center will have a profound impact on how patients experience their journey through diagnosis and treatment._\n\n**What is your favorite part of working in the infusion center?**  \n_The patients and their families, and the very passionate/compassionate staff that serves the patients every day.&nbsp;We have an excellent team of people who are focused on providing exceptional care to our patients and families._"
+original_markdown_body: "Valley’s **[Infusion & Immunotherapy Center](http://valleymed.org/infusion)**
+  saw more than 24,500 patients in FY 2024, and is on track to see more than 27,000
+  patients in FY 2025. To learn about our Infusion & Immunotherapy Center, we sat
+  down with Chermaine Wulff, Manager of Infusion Center. Interview has been edited
+  for length and clarity.\n\n![](http://blog.valleymed.org/wp-content/uploads/2025/01/InfusionChair-reclined.jpg)\n_An
+  infusion chair in the new Infusion & Immunotherapy Center._\n\n**What is an infusion
+  and immunotherapy center?**  \n_An infusion center is an outpatient clinic that
+  is certified to provide infusion therapy to patients. At our Infusion Center, we
+  utilize advanced medical equipment and rely on a skilled team of healthcare professionals
+  who specialize in administering a wide range of infusion treatments. Our primary
+  goal is to offer patients a comfortable, safe, and efficient environment for receiving
+  necessary treatments that can range from chemotherapy to hydration therapy._\n\n_The
+  new facility (in the East Pavilion) has been designed with one priority in mind:
+  **you, the patient**. We believe that a comfortable and welcoming environment can
+  play a significant role in the healing process. With updated, spacious treatment
+  spaces, advanced equipment, and enhanced amenities, our new Center is a place where
+  patients can receive the care they need with greater ease and dignity._\n\n**Who
+  can be referred to the Infusion Center and what types of treatments are offered?**
+  \ \n_Our Infusion Center provides services to patients who have been referred by
+  a variety of specialists and clinics including (but not limited to) oncology, hematology,
+  rheumatology, gynecology, cardiology, infectious disease, nephrology, neurology,
+  and primary care._\n\n_Treatments include:_\n\n- _Chemotherapy, immunotherapy, and
+  biotherapy: These treatments are commonly used to treat cancer, autoimmune disorders,
+  and other conditions that require the modulation of the immune system._\n- _IV Antibiotics:
+  administered to patients with infections that require more direct and potent treatment
+  through intravenous delivery._\n- _Blood and platelet transfusions: Essential for
+  patients with conditions such as blood disorders or anemia, or those undergoing
+  treatments like chemotherapy that affect blood production._\n- _Plasmapheresis:
+  A procedure to remove harmful substances from the blood, often used for autoimmune
+  diseases and certain neurological conditions._\n- _Phlebotomy: The removal of blood
+  for diagnostic or therapeutic purposes, often performed to manage iron overload
+  or certain blood disorders._\n- _Hydration therapy: A treatment to replenish fluids
+  and electrolytes, particularly for patients dealing with dehydration or undergoing
+  treatments that cause fluid loss._\n- _Electrolyte replacements: Vital for patients
+  who are experiencing an imbalance in their electrolytes due to illness, medication,
+  or other medical conditions._\n- _Injections: Various medications are administered
+  via injection to help manage conditions such as arthritis, infections, and chronic
+  diseases._\n\n**How many staff work in the Infusion Center? Do they have special
+  training?**  \n_There are currently 46 team members in the Infusion Center and more
+  are being hired for the new East Pavilion space. All nurses are required to have
+  Chemotherapy/Immunotherapy certification as well as Oncology-Certified Nursing (ONC)
+  certification)._\n\n**How do volunteers support the Infusion Center and its patients?**
+  \ \n_Volunteers at the Infusion Center often serve as a source of emotional support,
+  offering a listening ear, companionship, and comfort to patients during their treatment
+  sessions. Infusion treatments, especially for conditions like cancer or chronic
+  illness, can be long and exhausting, and having a volunteer available to talk to
+  or simply provide companionship can significantly improve a patient’s emotional
+  well-being. Volunteers may also assist with non-medical tasks, like helping patients
+  get settled in, offering blankets or pillows, and providing light refreshments,
+  ensuring that the patient’s experience is as comfortable as possible._\n\n**How
+  will the new Cancer Center impact the patient experience at Valley?**  \n_The new
+  Cancer Center at Valley is set to transform the patient experience, offering a more
+  integrated, comfortable, and compassionate approach to cancer care. With a focus
+  on patient-centered care, and a dedicated, multidisciplinary team, the Cancer Center
+  will have a profound impact on how patients experience their journey through diagnosis
+  and treatment._\n\n**What is your favorite part of working in the infusion center?**
+  \ \n_The patients and their families, and the very passionate/compassionate staff
+  that serves the patients every day.&nbsp;We have an excellent team of people who
+  are focused on providing exceptional care to our patients and families._"
 summarized: true
 topics:
 - Health Care
 - Mental Health & Counseling
 images:
-- f1186e9f2b46042e22acfcbbaf0fc347fc0875ee385b7e50432f1bd747258f0c
+- f8fcfadb4d001c913eccd573c82bc8fa561fc11cd966234b86563ce3b307eb13
 ---
 
 Valley's Infusion & Immunotherapy Center is a specialized outpatient clinic that provided care to over 24,500 patients in FY 2024, with expectations to exceed 27,000 in FY 2025. Managed by Chermaine Wulff, the center focuses on delivering a comfortable and safe environment for infusion therapy, including treatments like chemotherapy, immunotherapy, IV antibiotics, blood transfusions, and hydration therapy. The new facility in the East Pavilion prioritizes patient comfort, featuring spacious treatment areas and advanced medical equipment.

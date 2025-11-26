@@ -63,7 +63,7 @@ topics:
 - Food & Nutrition
 - Shelter & Housing
 images:
-- 749ce825faaa5e2db0d9c019bdefd9578d48418325c328cee77d13da7c27710f
+- 1a4f38456fffb57c119095542f0d8069053ccbafb504095f8b59017a9ea4d141
 ---
 
 Nikki and her daughter Sara moved from Louisiana to Washington after a tragic loss due to gun violence. In their new home, Nikki secured stable employment at a fulfillment warehouse, and Sara thrived in school. However, Nikki's health issues led to unpaid time off, resulting in financial strain and ultimately homelessness. For months, they lived in their car, facing harsh conditions while Nikki worked tirelessly to protect her daughter.

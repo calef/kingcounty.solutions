@@ -114,7 +114,7 @@ topics:
 - Childcare
 - Senior Services
 images:
-- acf68280c402255a79c04f108afd766a426caf9053fe2d7da8ceb495481fea09
+- cb5a9635dead2951c8347a6061e3224ed5fc8bd2b7f8aa37e219f4473ec3cdb1
 ---
 
 Mary's Place has partnered with Ayan Maternity Healthcare Support, founded by Ayan Abdulahi, to provide essential support for pregnant women, particularly those facing homelessness, language barriers, or cultural isolation. Ayan, a dedicated doula with nearly 30 years of experience, aims to ensure that every woman receives the guidance and care she deserves throughout pregnancy, childbirth, and postpartum. Doulas offer emotional support, education, and advocacy, acting as trusted partners for mothers.

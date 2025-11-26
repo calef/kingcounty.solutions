@@ -71,7 +71,7 @@ summarized: true
 topics:
 - Health Care
 images:
-- 70894efac20d0d1345a56202776d10afdf2178dff1041291e821f48edc35a7c0
+- 69705e476ee0e34a45388fa926675c9129901f407851a95648758d032f15afe4
 ---
 
 Valley Medical Center’s Trauma Services and GoldenCare teams will host a fall prevention resource event on October 30, 2025. The event features a screening of SAGES Theater Inc.'s play "Denying Gravity," which addresses fall prevention in an educational and humorous manner. Following the play, there will be a Q&A session with medical professionals who will provide insights on preventing falls in everyday life. Attendees can enjoy light refreshments and coffee, generously provided by Chateau at Valley Center. The schedule includes doors opening at 8:30 AM, the play screening from 9:15 to 10:15 AM, a stretch and refreshment break, and the Q&A session from 10:30 to 11 AM. Various Valley teams and community partners, including the American Cancer Society and the Neuroscience Institute, will be represented, offering information about relevant programs and resources. This collaborative event aims to raise awareness about fall prevention and provide valuable resources to the community.

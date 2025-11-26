@@ -117,7 +117,7 @@ topics:
 - Personal & Household Needs
 - Domestic Violence
 images:
-- ee3bfe79075a7841f4f9fa987d3bb765606c1dabf6ab67390a5e4840bb608b9c
+- a51dfddf5b5f64f6ba8244fad7053beaeeb83c1b96a04879d3943ca5a1b690e7
 ---
 
 Mary's Place Make-a-Home program provides essential furnishings to families transitioning from homelessness to permanent housing, helping over 25 families each month. Many families, despite securing housing, find themselves without basic necessities, often sleeping on bare floors. The program addresses this gap, as some families lack transportation for furniture and must prioritize rent and food. Happy Hauler, led by owner John, is a key partner in this initiative, quickly delivering complete home furnishing sets on moving day. John emphasizes the importance of providing these items promptly, recognizing the significant impact a furnished home has on families’ well-being. 

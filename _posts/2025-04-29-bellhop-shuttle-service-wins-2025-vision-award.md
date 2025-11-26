@@ -78,7 +78,7 @@ summarized: true
 topics:
 - Transportation & Mobility
 images:
-- 5071bd8d2087b4a906ac4e5c83b9a04f3d27f07b8938022c7394d856fe1b895d
+- bf73c9ea775515b4513c944abb6592a5777b24f5d66d1c8dd48c4003ac2c3657
 ---
 
 BellHop, a free shuttle service in Bellevue, has been awarded the 2025 Transportation Vision Award by the Seattle and Bellevue 2030 Districts. Launched in 2023, BellHop has quickly become an essential part of the city's urban mobility, providing nearly 115,000 rides to over 150,000 passengers and reducing greenhouse gas emissions by over 100 metric tons. The program, funded through hotel room fees and partner support, features all-electric point-to-point shuttles that make transportation accessible and sustainable.

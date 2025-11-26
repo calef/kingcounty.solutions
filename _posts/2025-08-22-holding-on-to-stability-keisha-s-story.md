@@ -64,7 +64,7 @@ topics:
 - Financial Assistance
 - Shelter & Housing
 images:
-- f30e64e6b4f7d6647fba32fdee6fa24f25f08cad3cbf7366d62c495e37d0c0c7
+- 68ee3e88914cd2fbe6d75610b050fd085e233bbfb83d44796138d4ada80d85cc
 ---
 
 Keisha, a single mother of three, faced significant challenges in maintaining stability for her family, particularly for her oldest child with autism who thrives on routine. After years of hard work, she had created a stable life, but when her childcare fell through, she lost her job, leading to mounting bills and the fear of homelessness. Concerned about uprooting her children and reversing her progress, Keisha sought help from Mary’s Place. The organization’s prevention team intervened by covering her rent, ensuring her housing remained secure. This support allowed Keisha the necessary time to focus on her family and search for a suitable job. Her experience highlights the fragility of stability for many families, where a job loss or unexpected changes can lead to potential homelessness. Mary’s Place plays a crucial role in assisting families like Keisha’s during critical moments, helping to keep children safe and housed.

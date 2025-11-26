@@ -94,36 +94,78 @@ original_content: |-
 
   <p></p>
   <p>The post <a href="https://www.elcentrodelaraza.org/cuentos-from-our-work-june-2025/">Cuentos from Our Work: June 2025</a> appeared first on <a href="https://www.elcentrodelaraza.org">El Centro de la Raza</a>.</p>
-original_markdown_body: "**Seattle No Kings Rally and March** – June 16th, 2025\n\nSeattle Showed Up for Democracy.  \n  \nOn June 14, hundreds gathered at Cal Anderson Park for the Seattle No Kings Rally and March—a peaceful and powerful stand against authoritarianism and for a future rooted in justice and democracy.From Cal Anderson to Seattle Center, voices from across Seattle united—marching for equity, people-powered leadership, and protection of democratic values. Organized by Seattle Indivisible, OneAmerica, Planned Parenthood Action, Common Power, and others, Seattle joined nearly 2,000 No Kings Day events nationwide Organizers estimate millions attended. Peaceful. Massive. Unignorable.\n\n![](https://www.elcentrodelaraza.org/wp-content/uploads/2025/06/Image-16-530x707.jpg)\n\n![](https://www.elcentrodelaraza.org/wp-content/uploads/2025/06/Image-14-530x707.jpg)\n\n![](https://www.elcentrodelaraza.org/wp-content/uploads/2025/06/Image-13-530x707.jpg)\n\n![](https://www.elcentrodelaraza.org/wp-content/uploads/2025/06/Image-12-Copy-Copy-899x707.jpg)\n\n**José Martí Child Development Center at our Four Amigos&nbsp;**\n\nHonoring Workers & Everyday Heroe This spring, our little learners at the José Martí Child Development Center at our Four Amigos site took a deep dive into the world of workers—from the uniforms they wear to the tools they use. Through immersive, bilingual lessons in English and Spanish, children are expanding their imaginations, building vocabulary, and growing their respect for the essential workers who keep our communities moving.\n\n![](https://www.elcentrodelaraza.org/wp-content/uploads/2025/06/Image-25.jpg)\n\n&nbsp;\n\n**King County Councilmember Pete von Reichbauer on Tuesday awarded Estela Ortega with the Martin Luther King Jr. Medal of Distinguished Service** – June 17, 2025\n\nKing County Councilmember Pete von Reichbauer on Tuesday awarded Estela Ortega with the Martin Luther King Jr. Medal of Distinguished Service, an award that recognizes individuals whose work has answered the question asked by Dr. Martin Luther King, Jr. “What are you doing for others?”\n\n“As the Co-Founder and Executive Director of El Centro de la Raza, The Center for People of All Races, Estela Ortega has responded to Dr. MLK Jr.’s question through her unwavering commitment over five decades to bringing people together and creating spaces where they can celebrate their unique backgrounds,” said Councilmember von Reichbauer.\n\nUnder her leadership, El Centro has grown into a vital hub for social justice, providing human services, education, housing, economic development, cultural enrichment, and advocacy. In 2024 alone, the organization served over 21,333 individuals through 43 unique programs, with a staff of 215 and 752 volunteers contributing over 13,000 hours.\n\nThis marks the 10th year that councilmembers have each selected someone from their district whose work embodies the spirit of King’s question.\n\n![](https://www.elcentrodelaraza.org/wp-content/uploads/2025/06/1-Copy-2-566x707.png)\n\n**Graduation Season 2025**\n\nAt El Centro de la Raza, we proudly celebrated over 100 graduates from our José Martí Child Development Center (JMCDC), where children ages 15 months to 5 years old begin their lifelong journey of learning. With a bilingual, bicultural curriculum rooted in cultural pride, family involvement, and social justice, JMCDC prepares our youngest scholars for kindergarten and beyond—nurturing not just cognitive development, but compassion, resilience, and a deep sense of community.\n\nWe also honored the achievements of over 50 high school students from across the Auburn, Federal Way, and Seattle School Districts who participated in our youth programs that blend education with civic action. These young leaders are learning that their voices matter—and that they can shape the world around them.\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/06/IMG_5320-1-943x707.jpg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/06/IMG_5305-1-Copy-530x707.jpg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/06/DSC_0882-1-1060x707.jpg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/06/DSC_0864-Copy-1060x707.jpg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/06/PHOTO-2025-06-25-17-38-03-Copy-530x707.jpeg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/06/IMG_5369-530x707.jpg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/06/IMG_5368-530x707.jpg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/06/IMG_5367-530x707.jpg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/06/IMG_5364-530x707.jpg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/06/IMG_5363-Copy-530x707.jpg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/06/IMG_5362-Copy-530x707.jpg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/06/IMG_5358-530x707.jpg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/06/IMG_5347-530x707.jpg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/06/IMG_5338-530x707.jpg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/06/IMG_5318-530x707.jpg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/06/IMG_5319-530x707.jpg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/06/IMG_5308-530x707.jpg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/06/IMG_5305-530x707.jpg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/06/IMG_5304-530x707.jpg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/06/IMG_5303-530x707.jpg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/06/IMG_5288-943x707.jpg?ssl=1)\n\nThe post [Cuentos from Our Work: June 2025](https://www.elcentrodelaraza.org/cuentos-from-our-work-june-2025/) appeared first on [El Centro de la Raza](https://www.elcentrodelaraza.org)."
+original_markdown_body: "**Seattle No Kings Rally and March** – June 16th, 2025\n\nSeattle
+  Showed Up for Democracy.  \n  \nOn June 14, hundreds gathered at Cal Anderson Park
+  for the Seattle No Kings Rally and March—a peaceful and powerful stand against authoritarianism
+  and for a future rooted in justice and democracy.From Cal Anderson to Seattle Center,
+  voices from across Seattle united—marching for equity, people-powered leadership,
+  and protection of democratic values. Organized by Seattle Indivisible, OneAmerica,
+  Planned Parenthood Action, Common Power, and others, Seattle joined nearly 2,000
+  No Kings Day events nationwide Organizers estimate millions attended. Peaceful.
+  Massive. Unignorable.\n\n![](https://www.elcentrodelaraza.org/wp-content/uploads/2025/06/Image-16-530x707.jpg)\n\n![](https://www.elcentrodelaraza.org/wp-content/uploads/2025/06/Image-14-530x707.jpg)\n\n![](https://www.elcentrodelaraza.org/wp-content/uploads/2025/06/Image-13-530x707.jpg)\n\n![](https://www.elcentrodelaraza.org/wp-content/uploads/2025/06/Image-12-Copy-Copy-899x707.jpg)\n\n**José
+  Martí Child Development Center at our Four Amigos&nbsp;**\n\nHonoring Workers &
+  Everyday Heroe This spring, our little learners at the José Martí Child Development
+  Center at our Four Amigos site took a deep dive into the world of workers—from the
+  uniforms they wear to the tools they use. Through immersive, bilingual lessons in
+  English and Spanish, children are expanding their imaginations, building vocabulary,
+  and growing their respect for the essential workers who keep our communities moving.\n\n![](https://www.elcentrodelaraza.org/wp-content/uploads/2025/06/Image-25.jpg)\n\n&nbsp;\n\n**King
+  County Councilmember Pete von Reichbauer on Tuesday awarded Estela Ortega with the
+  Martin Luther King Jr. Medal of Distinguished Service** – June 17, 2025\n\nKing
+  County Councilmember Pete von Reichbauer on Tuesday awarded Estela Ortega with the
+  Martin Luther King Jr. Medal of Distinguished Service, an award that recognizes
+  individuals whose work has answered the question asked by Dr. Martin Luther King,
+  Jr. “What are you doing for others?”\n\n“As the Co-Founder and Executive Director
+  of El Centro de la Raza, The Center for People of All Races, Estela Ortega has responded
+  to Dr. MLK Jr.’s question through her unwavering commitment over five decades to
+  bringing people together and creating spaces where they can celebrate their unique
+  backgrounds,” said Councilmember von Reichbauer.\n\nUnder her leadership, El Centro
+  has grown into a vital hub for social justice, providing human services, education,
+  housing, economic development, cultural enrichment, and advocacy. In 2024 alone,
+  the organization served over 21,333 individuals through 43 unique programs, with
+  a staff of 215 and 752 volunteers contributing over 13,000 hours.\n\nThis marks
+  the 10th year that councilmembers have each selected someone from their district
+  whose work embodies the spirit of King’s question.\n\n![](https://www.elcentrodelaraza.org/wp-content/uploads/2025/06/1-Copy-2-566x707.png)\n\n**Graduation
+  Season 2025**\n\nAt El Centro de la Raza, we proudly celebrated over 100 graduates
+  from our José Martí Child Development Center (JMCDC), where children ages 15 months
+  to 5 years old begin their lifelong journey of learning. With a bilingual, bicultural
+  curriculum rooted in cultural pride, family involvement, and social justice, JMCDC
+  prepares our youngest scholars for kindergarten and beyond—nurturing not just cognitive
+  development, but compassion, resilience, and a deep sense of community.\n\nWe also
+  honored the achievements of over 50 high school students from across the Auburn,
+  Federal Way, and Seattle School Districts who participated in our youth programs
+  that blend education with civic action. These young leaders are learning that their
+  voices matter—and that they can shape the world around them.\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/06/IMG_5320-1-943x707.jpg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/06/IMG_5305-1-Copy-530x707.jpg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/06/DSC_0882-1-1060x707.jpg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/06/DSC_0864-Copy-1060x707.jpg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/06/PHOTO-2025-06-25-17-38-03-Copy-530x707.jpeg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/06/IMG_5369-530x707.jpg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/06/IMG_5368-530x707.jpg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/06/IMG_5367-530x707.jpg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/06/IMG_5364-530x707.jpg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/06/IMG_5363-Copy-530x707.jpg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/06/IMG_5362-Copy-530x707.jpg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/06/IMG_5358-530x707.jpg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/06/IMG_5347-530x707.jpg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/06/IMG_5338-530x707.jpg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/06/IMG_5318-530x707.jpg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/06/IMG_5319-530x707.jpg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/06/IMG_5308-530x707.jpg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/06/IMG_5305-530x707.jpg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/06/IMG_5304-530x707.jpg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/06/IMG_5303-530x707.jpg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/06/IMG_5288-943x707.jpg?ssl=1)\n\nThe
+  post [Cuentos from Our Work: June 2025](https://www.elcentrodelaraza.org/cuentos-from-our-work-june-2025/)
+  appeared first on [El Centro de la Raza](https://www.elcentrodelaraza.org)."
 summarized: true
 topics:
 - Education & Learning
 images:
-- 5febcda1e6d99066a75fa2a8eba2706cf31ccda6610d0f50a5f77bf6bcf1d2b9
-- c212e28515569063bce2b3a32f64bbe2919fba62907cbdccc1937a180d03c096
-- d52b99031731a1dea45e0015edff0813d994a1eaffb1acb0b23bb18792d32d50
-- 30aefed0b8a7cbb38aa233155e75df1e12065a3573a66a6b5d1c6488662b5495
-- f6ee703cb27f3364a53f0d65e02808bef7f5a07d6dc199dbda898c0bb7776add
-- 292280524b54a0edc96a2253e13a4cab511d077e971b647b1af203cb327ca003
-- 1b80175cfc0ffc43b5efa133dbd6ec0e7bf677dba8cfc952626351d6d6d4095a
-- 2b421f1c297475c3a7e6189d65088ee7bd6bc3855f0bfc306ce78b5998ff3c70
-- 762708805fe7c080df99e1cb92d73b58b90eb1bd00096707c63a25a80d3ef5c5
-- 5638b849534448a91ccf676e41d4f621222a9e6ed85dbd24689a106d94cd3845
-- d6075737de189d7482c32ba8da185765a1f88a2b3fa1e924b2fcf2e47e73b76f
-- a1a87972cf92875f7e89658b75e9876264d7295d8a928bc34be125311173aa75
-- 64b411c61d5ba56acd58d5715158418e9e59f03b5f78620415d74f7b5668d64e
-- 0405bfce834081eef31ad0217cc7902510332747b4028b13e2af7a136e0e0d23
-- 59e0e1439da616a2dc37407bef565502df4c13296fe7d4091bab08d142daaa3e
-- fe632d138f24328f10177a8c54c8b20ac188ee617629b84a8fe629ef3ec72087
-- 7145f80a8892c51952c8fa31c008864253e8e1b3661c5f301dbcde64157ed4a4
-- dbbf9c13aa2bf019f321847611006927a4830639ab5b83f2100da2718a495ff3
-- 3915c30c6f803c7755c464825594bdeeaa89812be1c5f7ae4a9bf204e3cca259
-- 49614f1639513422c102889912fad1c2829cd36b13407f2bfa9e93661e22c347
-- 9bb5f17764b8c36ffce70f1e7f125bdf741935f6c1f0ac784a0dc6c3df94a581
-- 86be8e687e241d7062cbee87321f9258846f34ebd38d75ff18dd4f299de67063
-- 075aec9a5ba87690f76308bf46fe30aa272bbc03dd5613a8d8f028f8fb7958e9
-- 58bc6fc48d420660f8e8b368689e73ad540ef8bca54832f8030d975fa9399d2a
-- a7f999d099ac7dcc70efe788b3cbfaad017f40e37c9a9d5c79f4d909a697ac25
+- c2bccff762b7fa8182a899a1d13ae7f454495f56e2d2a87d1ad6d50845937817
+- 85a254cd8acd129d1099bbd803a55e863097c4fe3abc6a1803aa90e48f18f6ce
+- 5497d0d81d1b4fbd0d43b4b35e5deda9ec50f0d392acbc50c661db4c4911abe6
+- 4d95e9a6b82a71b67909e1f2142429e43380d251f5aa56adda5f938e9ed6e700
+- 035a6c110fb2d4d62421c6fd074910246c844bd7e08005a8109b3e91696187d9
+- d2d23b7cecb09d929f9793f63d62e54a51f6bb57f18f55160718bdcd677ab779
+- be29052ab45be798f5a6dccebcbbbd9deabdd443af381e695d9946eace4986fc
+- 017f75e77f78af98a7984340fa886685f28618671137f61b23d9b6484c333926
+- adaa5568a3749b96258652e2a6e65cf203ed7ec491e182ef02b38422e23ac611
+- 69b28af9a6fea2e7ed2463d4b898c5e20e45030f3e080ae6d01f4ed115e7a4ac
+- da31cba3311fd68cfde5fd2f19c18d6ad555343db38dbe98e5ff031fb1fabe53
+- 242b8d628ec6bfc86cd271a7e3e3898358ed53b7b82c3f32a1f3686aae3e0a55
+- 2962b445b38c6f685df1635feddace8127d0b2a833002d19c8e9121c14730ff1
+- b6969d269768b216d316434c131bbd14b6ddc6e90529ab691881e2a84091888f
+- 4b9fdc7d60df8d9de2152ca31da99bf0fa074aa06dd955734d58b61ab51918c8
+- 704cc766f7062315dfa761ac8adedbf6d8fefa8dea4f954adf3009c941189b0c
+- 511d6f019b0858dea1f0ce38dba4944ce66ff6009aa83d256ba067706f71e19f
+- 7dfc686bba014aac0a2f448d50706e270b35141e8ba233113af33a21fa60c848
+- 4a59f1f175514f8566e98f53f5043cdb4a4ef9542b426f9005a27d3420f6a20e
+- c0aacd6b5752edb1e29da1b5c667d791eddac4e92333355ca188a19c233b5bec
+- ad8172acdb159cbfe9818ce3375caa0e3379dcaa6d02a405eaa77fc641d4adbf
+- c2b8d012220da9783b91fe6297af612643339140cf209cfd1ba2087be2034a38
+- 4d007ce8e96bbe8c474fead49ac756117869d4f8604bee946480b1559e014a08
+- 5b3c9293bf045eea5f8ab5bba1fd7b6fd79fc3b233dc7d299603f836a23c696c
+- b801e3b6a7ef1cce823f6373178022b80c16b6a70c2f7006f71a833afa76ff5b
 ---
 
 On June 14, 2025, the Seattle No Kings Rally and March took place at Cal Anderson Park, where hundreds gathered to advocate for democracy, justice, and equity. Organized by various groups, the event was part of a nationwide movement featuring nearly 2,000 No Kings Day events, estimated to have drawn millions of participants. 

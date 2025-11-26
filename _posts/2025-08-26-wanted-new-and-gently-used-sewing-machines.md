@@ -62,8 +62,8 @@ topics:
 - Senior Services
 - Personal & Household Needs
 images:
-- 48e572c52440a2416af22efdb196a62d04885e2239b55ae3e14da1f21491a164
-- 0b76f19a2769bc5b3f7d5367a5501a4693d0938a470d96e51a76b64de789d167
+- 52871b2cd8c1267017523dc6f53682b58ecfd117bc1ebf4da894ed98ffffd79a
+- 329ed2b5e5f5ec1b587dd9bb444fd75c5d87465fdaeb15c53d6424b3c997687a
 ---
 
 New and gently used sewing machines are urgently needed for the EF Essential Skills program, which supports a growing number of students. This program focuses on skill-building and fostering community connections for refugees, seniors, and individuals facing social isolation. Contributions can be made by delivering sewing machines directly to EF Kent or by purchasing them through an Amazon Wish List.

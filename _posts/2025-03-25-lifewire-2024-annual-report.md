@@ -18,12 +18,24 @@ original_content: |-
 
   <p></p>
   <p>The post <a href="https://www.lifewire.org/lifewire-2024-annual-report/">LifeWire 2024 Annual Report</a> appeared first on <a href="https://www.lifewire.org">LifeWire</a>.</p>
-original_markdown_body: "![](https://www.lifewire.org/wp-content/uploads/2025/03/Untitled-design-23.png)\n\nDear Friends,   \n  \nBecause of you, **nearly 7,000 survivors of domestic violence** across nine counties in Western Washington had access to safety, stability, and healing in 2024. The support of our donors, corporate sponsors, and volunteers has been more than a gift – it has been a lifeline.  \n  \nInside our Annual Report, you’ll see the real impact of your generosity: stories of resilience, incredible milestones, and families building strong futures thanks to partners like you.   \n  \nWith gratitude,   \nThe LifeWire Team\n\n<object data-wp-bind--hidden=\"!state.hasPdfPreview\" hidden class=\"wp-block-file__embed\" data=\"https://www.lifewire.org/wp-content/uploads/2025/03/LW-2024-Annual-Report-1.pdf\" type=\"application/pdf\" style=\"width:100%;height:600px\" aria-label=\"Embed of LW 2024 Annual Report.\"></object>[LW 2024 Annual Report](https://www.lifewire.org/wp-content/uploads/2025/03/LW-2024-Annual-Report-1.pdf)[Download](https://www.lifewire.org/wp-content/uploads/2025/03/LW-2024-Annual-Report-1.pdf)\n\nThe post [LifeWire 2024 Annual Report](https://www.lifewire.org/lifewire-2024-annual-report/) appeared first on [LifeWire](https://www.lifewire.org)."
+original_markdown_body: "![](https://www.lifewire.org/wp-content/uploads/2025/03/Untitled-design-23.png)\n\nDear
+  Friends,   \n  \nBecause of you, **nearly 7,000 survivors of domestic violence**
+  across nine counties in Western Washington had access to safety, stability, and
+  healing in 2024. The support of our donors, corporate sponsors, and volunteers has
+  been more than a gift – it has been a lifeline.  \n  \nInside our Annual Report,
+  you’ll see the real impact of your generosity: stories of resilience, incredible
+  milestones, and families building strong futures thanks to partners like you.   \n
+  \ \nWith gratitude,   \nThe LifeWire Team\n\n<object data-wp-bind--hidden=\"!state.hasPdfPreview\"
+  hidden class=\"wp-block-file__embed\" data=\"https://www.lifewire.org/wp-content/uploads/2025/03/LW-2024-Annual-Report-1.pdf\"
+  type=\"application/pdf\" style=\"width:100%;height:600px\" aria-label=\"Embed of
+  LW 2024 Annual Report.\"></object>[LW 2024 Annual Report](https://www.lifewire.org/wp-content/uploads/2025/03/LW-2024-Annual-Report-1.pdf)[Download](https://www.lifewire.org/wp-content/uploads/2025/03/LW-2024-Annual-Report-1.pdf)\n\nThe
+  post [LifeWire 2024 Annual Report](https://www.lifewire.org/lifewire-2024-annual-report/)
+  appeared first on [LifeWire](https://www.lifewire.org)."
 summarized: true
 topics:
 - Domestic Violence
 images:
-- 6a962ccd78b8bd01ea2d7ba0b33db3ef594d914859d5518b30b61c8305efaba3
+- e563f9f0225038ab88822ce9be7e37137499734d55bbec4cfa39601896fc3168
 ---
 
 Nearly 7,000 survivors of domestic violence in nine counties of Western Washington received vital support in 2024, thanks to the generosity of donors, corporate sponsors, and volunteers. This assistance has provided survivors with safety, stability, and healing. The LifeWire 2024 Annual Report highlights the significant impact of this support through stories of resilience, notable milestones, and families working towards brighter futures. The gratitude expressed by The LifeWire Team emphasizes the importance of community partnerships in facilitating these life-changing outcomes for survivors.

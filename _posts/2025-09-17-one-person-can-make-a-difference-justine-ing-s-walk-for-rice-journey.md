@@ -55,8 +55,8 @@ summarized: true
 topics:
 - Food & Nutrition
 images:
-- 9bbc0df2d51b8187b4e47d6ba4b00621d6dd9f3d44e36c8769f05d05426451b0
-- 55c496983e976e049a54ac7d5c88a195f3ea34a37c7dddbd3df1a62792c37bf0
+- fdf8e5089190bce28e0d0ce118e3b36930349a070ae92e8756ffc90bc442b958
+- b0da6bd1c604f6da8213b2410a12183c06d0d5519e46a80afeb39e9dbfdc41cd
 ---
 
 Justine Ing's journey with the Walk for Rice began at the age of eight in 2014, inspired by her grandmother, a long-time participant and community activist. After her grandmother's passing that same year, Justine took on the role of team captain and has since walked annually, honoring her grandmother's legacy while addressing food insecurity within the community. Justine emphasizes the importance of the ACRS Food Bank for the Asian American and Pacific Islander (AAPI) community and encourages others to join by sharing personal stories about the walk's significance. 

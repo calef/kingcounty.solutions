@@ -133,7 +133,7 @@ topics:
 - Mental Health & Counseling
 - Transportation & Mobility
 images:
-- 8d8481d2bef84f9f1b77263972076e9d27c162d7b35a137ab79f4b83598bde46
+- 1a0fed4ba3beae5d97bfd3a6ae1dbf6cbe8393527303f3904af05f5d51dfd8ef
 ---
 
 At the recent Bellevue City Council meeting, police reported a 28% reduction in overall crime and a 21% decrease in traffic collisions in 2025. Speeding tickets rose by 117%, with an average police response time of under four minutes. The Bellevue Police emphasized the importance of community partnerships in maintaining these positive trends and addressed issues related to speeding and racing. 

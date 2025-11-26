@@ -159,7 +159,7 @@ topics:
 - Transportation & Mobility
 - Senior Services
 images:
-- dd75cd19cca4fd050b087125dde4972aac9222dcfbde50e0fb9cbc7cd8129a57
+- 996c63501ba67731534051a8a9025a298a590937a4dd1d17959d6673354937d6
 ---
 
 The Bellevue City Council held a meeting on May 18, 2025, discussing proposed land use code amendments aimed at supporting middle housing development in compliance with recent state legislation. Washington's House Bills 1110 and 1337 mandate that cities increase housing types and density in residential zones to enhance affordability and supply. Bellevue's amendments will allow a minimum number of units per lot, six types of middle housing, and two accessory dwelling units (ADUs) per lot. The council will continue discussions on these proposals in future sessions.

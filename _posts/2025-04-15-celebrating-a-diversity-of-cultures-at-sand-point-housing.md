@@ -102,10 +102,10 @@ summarized: true
 topics:
 - Education & Learning
 images:
-- 5c333bc55af997b20ba3a4817639c3800a91dd8ee2250c87fd1586189d9b1961
-- 031227c9f807f671a0f1dc680cb307b58f90e5108f85ea9a048850ecd7f7cc9d
-- 693dc92128aa0d25cefb4f642efb5ba296e3f9802730a120e2fbfe70f1c30fc0
-- 6b37731b7bacaea8eed49106fe45430e866f1440bcbc317def8e73d19c1e1471
+- 644d8480dcc1d0be2216959d3da3f8eefe7fe3c8da9c5653eee0daba87c62d6d
+- ae6c8345a8dcd5d1e911598e3c54523c867afe1e8a7401bc2333c50e20ba6c40
+- 402ba98ab8cce26b2046c1b543670893d0ab5c930e4ce1f978a9fa27ff127b5e
+- 6c5eb79264107e3f88d5bf16106f453701fd9eaba1851deb22cdcfb44e3368e8
 ---
 
 At Solid Ground’s Sand Point Housing, a recent event highlighted the importance of cultural representation in children's literature. A young boy began reading a children's book about butterfly migration in both English and Arabic, followed by other children sharing stories in Tigrinya, Spanish, and Amharic. This celebration was made possible by Open Hearts Big Dreams (OHBD), a nonprofit founded by Ellenore Angelidis, which aims to enhance children's literacy globally by providing culturally relevant books. OHBD donated a collection of multilingual children’s books to Sand Point, where about 25% of residents are refugees or recent immigrants, mainly from East Africa. The event featured readings, cultural games, and food from various backgrounds, emphasizing the significance of recognizing and respecting diverse cultures. OHBD, established in 2017, has published over 175 children’s titles in 26 languages, addressing the lack of African stories and languages in literature. The donated books include illustrations and stories about migration and cultural proverbs, serving as tools for children to learn about and embrace different cultures. Ellenore stresses that relatable stories foster a sense of belonging and understanding among children from diverse backgrounds.

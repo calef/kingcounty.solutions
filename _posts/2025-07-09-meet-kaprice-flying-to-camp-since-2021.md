@@ -113,10 +113,10 @@ topics:
 - Health Care
 - Mental Health & Counseling
 images:
-- 15b3bca5c5c468ef9d86f9745c0436596e4878dd2e94ee1016a0454b9edb6a2c
-- 3f0c12cc86edfcd154cac27d3c64a86c861ce806405165f4c4298706573997a1
-- a8ba71fb566ca117ac90fd85bf78592bcb538a312704bf13d207d16b7c65731b
-- 1333a1e3274de76c56f3ef5fd9afb8f50cd764f9dcd64b982a27cb9edfd4fbeb
+- ec43e6ecbe1de7395f846b7ec60d3c866ca977958bfbf605a4e042a14a152b27
+- d7133b981f19d440d30e7b2754700550d35642978d177a944834767e6c01f123
+- 8a76fe20acf87ed0fecd0e2165bfc64e0627347cc7ebe4604c1231261273ff1b
+- dce3ac3d891eafcd7e77440c53dc8db28855a60689e5bcfc3c0e4ffe25cf5481
 ---
 
 In 2016, nine-year-old Kaprice suffered severe injuries after being hit by a speeding car, requiring extensive hospitalization and rehabilitation. His recovery was supported by the burn community, including the Alisa Ann Ruch Burn Foundation (AARBF), which provides crucial services for burn survivors. Kaprice transitioned back to school with the help of a care manager and was able to attend AARBF's Champ Camp, a therapeutic program for young burn survivors. Since 2021, Angel Flight West's volunteer pilots have flown Kaprice from Moreno Valley to Sanger, California, for this camp, providing him with 12 flights. Kaprice expresses that the camp environment fosters comfort and community, stating, “People don’t stare at camp. You feel like you’re home.” This year, he aspires to become a counselor-in-training to assist younger kids facing similar challenges. Kaprice's mother, Krista, appreciates the support from UCI, AARBF, and Angel Flight West, highlighting the trust and compassion of the volunteer pilots who ensure Kaprice's safety during his travels.

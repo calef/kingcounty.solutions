@@ -24,8 +24,8 @@ topics:
 - Health Care
 - Food & Nutrition
 images:
-- d5f54f65095cd694abdac86c9d26468e56bcd89fc068c37b9b26a4a863a44f70
-- 48585f11d707e15705d39efcc3fa7dd0638018e07d1e38f364b34bbfdf75f23a
+- 05ee05d7196c27c2bcfac3d5b34faa1107197103260e790f4d28451eb3d665e8
+- '0820f6600cfa085c690884c7259ad0209475e37099cfd4922645afb4ebc2c22c'
 ---
 
 Join Valley Girls & Guys and Valley Medical Center on September 20 for the 7th annual Be The HOPE Walk, available for participation both in-person and virtually. The event features a 1.8-mile walk starting at 10 AM, aimed at supporting cancer patients, oncology programs, and care at Valley Medical Center and other local organizations. After the walk, participants can enjoy live entertainment, refreshments, and a selection of food trucks. This is not only a fun event but also a meaningful opportunity to generate hope for members of the community affected by cancer. Register today to be part of this inspiring day!

@@ -86,10 +86,10 @@ topics:
 - Health Care
 - Financial Assistance
 images:
-- '0589523612458773cc330320377e307f77635752e5d787a2be722b6501434b16'
-- d6dbe7a18e53b218c9996f179e48fd403992a6477a3d36a6e80f7364675552cd
-- 0752db52327264f87a37be0711fade04c8be41cc1ea502d62b0f835b0dd94dde
-- 48fb036a506af9b8d17aa5c96f60065f86de2c9d5cd9cba4f46443140e109ead
+- 3f3f4dd66b28212838949ab0a46d14f4e19a89e08008f3d395d42e9db6d54930
+- b5d464b5a3c52df770f987144e1d4c93aa8d139f591dc2fdda128d3a1d6902e8
+- a3e132c3386e660d6c59274cddd0481c91a5136c511dd680644e852cde270c3d
+- 790d7b4e287cde057881c676460bf09a67a08df166986753cbfcb4f7f64b45b4
 ---
 
 Dylan, a nine-year-old, experienced severe migraines and numbness, prompting his mother, Vanessa, to take him to the emergency room. After ten hours of tests, a CT scan revealed an arteriovenous malformation (AVM) in his brain. Following this diagnosis, Dylan was airlifted to UCSF for further treatment. The medical team opted for Gamma Knife radiation instead of surgery, and after a week, he was discharged to await treatment.

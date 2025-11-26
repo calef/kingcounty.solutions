@@ -25,7 +25,7 @@ topics:
 - Health Care
 - Employment & Job Support
 images:
-- eaf56b0e53757f40aa7ca0269b56b6df0e6c96e404609d930ff32bc44496b0d7
+- a1d1adf12a58ad9a7ce0cb60d13bbb2e567b037cca4b3e092d473e6d464519c5
 ---
 
 MultiCare Health System has been named one of America’s Greatest Workplaces in Health Care 2025 by Newsweek and Plant-A Insights group. This recognition is based on a thorough assessment that includes employee interviews, company reviews, and an analysis of over 120 key performance indicators. MultiCare excelled in areas such as employee work-life balance, job security, and compensation/benefits. The health system received high marks for employee satisfaction and advocacy, with more than 80% of employees rating their experience positively in terms of community and belonging. Mary Wills, senior vice president and chief human potential officer, expressed pride in the recognition, highlighting MultiCare's commitment to fostering an environment where employees feel valued and can grow. MultiCare Health System operates as a not-for-profit organization with 13 hospitals and over 28,000 team members, focusing on delivering exceptional health outcomes and experiences as one of Washington state's largest community-based health systems.

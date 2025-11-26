@@ -86,12 +86,30 @@ original_content: |-
 
 
   <p></p>
-original_markdown_body: "![](https://blog.valleymed.org/wp-content/uploads/2025/05/Drug-Donation-program-blog-header-800x500-1-300x163.png)\n\nTo reduce medication waste and support patients in need, Valley Medical Center launched a **Drug Donation Program**. One survey has shown two-thirds of prescription drugs in U.S. households go unused—this program offers a way to put those medications to good use.\n\n**How It Works:** Patients can donate _sealed, unexpired_ prescription medications. Donations will be reviewed and, if eligible, redistributed at no cost to Valley patients in need of a temporary supply.\n\nStarting May 8, 2025, donations are accepted during regular business hours at:\n\n**Prescription Pad Pharmacy North**  \n3915 Talbot Rd S, Suite 201, Renton, WA 98055  \nMon–Fri, 8 AM – 6 PM\n\n**Prescription Pad Pharmacy South**  \n400 Talbot Rd S, Renton, WA 98055  \nInside the main hospital, across from the Emergency Room  \nDaily, 8 AM – 2 AM\n\n**What We Accept:**\n\n- Sealed, unused medication bottles\n- Individually packaged (unit-dose) medications\n- Sealed, unused creams and ointments\n- Sealed, unused inhalers\n- Must have **at least 6 months until expiration**\n\n**Not Accepted:**\n\n- Injectable medications (e.g., insulin)\n- Medications in pharmacy-dispensed amber vials\n- Controlled substances\n- Eye drops\n- Over-the-counter medications (e.g., Tylenol, ibuprofen, vitamins)\n\nItems we can’t accept can still be safely discarded using our **Medication Take Back Kiosks** at both pharmacy locations.\n\n**Need Assistance?**  \nIf you’re a Valley patient and would like to request donated medications, please contact your provider directly."
+original_markdown_body: "![](https://blog.valleymed.org/wp-content/uploads/2025/05/Drug-Donation-program-blog-header-800x500-1-300x163.png)\n\nTo
+  reduce medication waste and support patients in need, Valley Medical Center launched
+  a **Drug Donation Program**. One survey has shown two-thirds of prescription drugs
+  in U.S. households go unused—this program offers a way to put those medications
+  to good use.\n\n**How It Works:** Patients can donate _sealed, unexpired_ prescription
+  medications. Donations will be reviewed and, if eligible, redistributed at no cost
+  to Valley patients in need of a temporary supply.\n\nStarting May 8, 2025, donations
+  are accepted during regular business hours at:\n\n**Prescription Pad Pharmacy North**
+  \ \n3915 Talbot Rd S, Suite 201, Renton, WA 98055  \nMon–Fri, 8 AM – 6 PM\n\n**Prescription
+  Pad Pharmacy South**  \n400 Talbot Rd S, Renton, WA 98055  \nInside the main hospital,
+  across from the Emergency Room  \nDaily, 8 AM – 2 AM\n\n**What We Accept:**\n\n-
+  Sealed, unused medication bottles\n- Individually packaged (unit-dose) medications\n-
+  Sealed, unused creams and ointments\n- Sealed, unused inhalers\n- Must have **at
+  least 6 months until expiration**\n\n**Not Accepted:**\n\n- Injectable medications
+  (e.g., insulin)\n- Medications in pharmacy-dispensed amber vials\n- Controlled substances\n-
+  Eye drops\n- Over-the-counter medications (e.g., Tylenol, ibuprofen, vitamins)\n\nItems
+  we can’t accept can still be safely discarded using our **Medication Take Back Kiosks**
+  at both pharmacy locations.\n\n**Need Assistance?**  \nIf you’re a Valley patient
+  and would like to request donated medications, please contact your provider directly."
 summarized: true
 topics:
 - Health Care
 images:
-- 8141573824a7415d3cec640f8136ee436d359496a6bc94f9bfe83440a86e6b8e
+- f39c16f400af5289bf2c1df3a11da796fe8501fc4267d78844d2a62aec36d8da
 ---
 
 To reduce medication waste and support patients in need, Valley Medical Center is launching a Drug Donation Program on May 8, 2025. This initiative aims to repurpose unused prescription medications, as surveys indicate that two-thirds of such drugs in U.S. households remain unutilized. Patients can donate sealed, unexpired prescription medications, which will be reviewed for eligibility and redistributed at no cost to Valley patients requiring temporary supplies.

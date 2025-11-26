@@ -54,7 +54,7 @@ topics:
 - Personal & Household Needs
 - Financial Assistance
 images:
-- 527da47173ff0fb1c80fe72cdc9f83bf2a6961372c7375e2da0f3cb5d50b4402
+- ad1adc17ebb849aaaff97f1f7052e7e6e0aac478d475e7ea156aae0b7011be2f
 ---
 
 Eid Mubarak! Thanks to the generous support of the community, over $91,000 was raised during Ramadan, surpassing the fundraising goal within 30 days. These funds will be reinvested back into the community, emphasizing Ramadan's spirit of empathy and generosity. This campaign serves as a reminder that blessings should be shared, and it showcases the community's commitment to supporting one another, even during challenging times. Contributions to Essentials First have helped uplift those most in need, reinforcing the importance of caring for each other. The organization looks forward to continuing its mission to empower dignity daily by advocating for essential hygiene access for all.

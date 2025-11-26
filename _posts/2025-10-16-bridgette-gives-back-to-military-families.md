@@ -144,8 +144,8 @@ topics:
 - Food & Nutrition
 - Senior Services
 images:
-- a0bb442c4e877af1a9c2a99a9ee9720e94662fdd340b185d09325a271fd99a13
-- 96b846723faf83dbff703ce7cd51daec4b672d11f119e8c897fee82255b9821e
+- e2e65d74c0ec332331aa5e7e6476954b4b4639340754f8b5f94b2c0b8f905793
+- 6d4952cd9cfe313e50c1e9e081baa9ac5b1936ef03c849fe2a2ebd49389849f3
 ---
 
 Bridgette, a dedicated Marine Corps spouse and employee of Operation Homefront, expresses her passion for supporting military families through various initiatives. She shares her personal experiences of military life, emphasizing the challenges and joys she encountered while her husband was deployed. After 17 years, her military career transitioned into life as a veteran spouse, and she takes pride in her role at an organization that values all stages of military life.

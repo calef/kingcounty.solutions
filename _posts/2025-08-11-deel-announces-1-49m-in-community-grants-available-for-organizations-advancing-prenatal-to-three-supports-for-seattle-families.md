@@ -19,7 +19,7 @@ topics:
 - Childcare
 - Education & Learning
 images:
-- e04817a07d7c2460551492def35929012380e9636cac9316bd3285295b5c23c3
+- d881ec3c0c1b99bdac7c20c752bd09404dda0cceb7efd833a63e9b01debb4cac
 ---
 
 The Seattle Department of Education and Early Learning (DEEL) has announced the availability of $1.49 million in community grants for organizations focused on prenatal-to-three supports. Applications are open until September 8 for funding amounts up to $298,000, aimed at enhancing healthy birth outcomes and early childhood development for children aged birth to three and their caregivers. The grants, funded by the City’s Sweetened Beverage Tax, prioritize organizations that demonstrate a commitment to racial equity and serve underrepresented populations. 

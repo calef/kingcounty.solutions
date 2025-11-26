@@ -14,12 +14,16 @@ original_content: |-
   <div style="text-align: center;">Please contact the CDHY Interpreter Hub Coordinator with any questions<br />
   Melissa Klindtworth | <a title="mailto:Melissa.klindtworth@cdhy.wa.gov" href="mailto:Melissa.klindtworth@cdhy.wa.gov" data-ogsc="">Melissa.klindtworth@cdhy.wa.gov</a> | 360.952.2906</div>
   <div></div>
-original_markdown_body: "![March 2025 educational interpreter hub flyer.](https://www.cdhy.wa.gov/wp-content/uploads/2025/02/March-2025-HUB-flyer.png)\n\n**How can we serve you better?**\n\nIf you have any ideas or specific needs, please reach out. We’d love to partner with you!\n\n* * *\n\nPlease contact the CDHY Interpreter Hub Coordinator with any questions  \nMelissa Klindtworth | [Melissa.klindtworth@cdhy.wa.gov](mailto:Melissa.klindtworth@cdhy.wa.gov \"mailto:Melissa.klindtworth@cdhy.wa.gov\") | 360.952.2906"
+original_markdown_body: "![March 2025 educational interpreter hub flyer.](https://www.cdhy.wa.gov/wp-content/uploads/2025/02/March-2025-HUB-flyer.png)\n\n**How
+  can we serve you better?**\n\nIf you have any ideas or specific needs, please reach
+  out. We’d love to partner with you!\n\n* * *\n\nPlease contact the CDHY Interpreter
+  Hub Coordinator with any questions  \nMelissa Klindtworth | [Melissa.klindtworth@cdhy.wa.gov](mailto:Melissa.klindtworth@cdhy.wa.gov
+  \"mailto:Melissa.klindtworth@cdhy.wa.gov\") | 360.952.2906"
 summarized: true
 topics:
 - Education & Learning
 images:
-- 94a29ac5b6e92eae7d1c56274a874a19b0bc032e086099ed43d472b00a582d24
+- ea4b5f6bbec56c61cdaff5fb92656f9fd1206442e4376a2cb84d54d2324b6071
 ---
 
 The Educational Interpreter Hub is reaching out to the community to enhance its services and offerings for March 2025. They encourage individuals to share their ideas or specific needs to foster collaboration and improve support. For inquiries or suggestions, the contact person is Melissa Klindtworth, who can be reached via email or phone. The Hub is committed to serving the community effectively and is open to partnerships that could enhance their educational interpreter services.

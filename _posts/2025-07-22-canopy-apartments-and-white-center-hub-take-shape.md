@@ -32,8 +32,8 @@ summarized: true
 topics:
 - Shelter & Housing
 images:
-- 6635637f4017d1b2017b59a93e54ca3d3bfd44888ee72d4e6f4e10e0069841fd
-- 0cbea0c6d0a3aabd7bfa5a46cd1e049d28255e6621928cff98ff04b375e89e81
+- d442e9d82d5b52eb7481d169f261af242ce7578fcaf83d32b1fc0de6e6db04d8
+- b45e64ac007acff2f77ef050672efa69c64ce0b93bf3258b24c91eed4e32ee85
 ---
 
 Canopy Apartments in White Center is an affordable housing development aimed at fostering community and providing high-quality living spaces for families. The initiative addresses rising housing costs and the lack of new affordable apartments in the region. In collaboration with the White Center Community Development Association (CDA), Community Roots began this project, which includes both housing and a family resource center. The development, which broke ground in 2024, will feature the White Center HUB, a center offering services from organizations like Southwest Youth and Family Services and HealthPoint, alongside amenities such as a coffee shop, recording studio, and playground.

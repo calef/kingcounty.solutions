@@ -133,16 +133,16 @@ summarized: true
 topics:
 - Personal & Household Needs
 images:
-- ad5a5e5c2e7f635c06e7507130b665bec6f675c43bcc8162ed4381ad2525dbce
-- 58635a7d43249f56db2faef3954f39245e6281fcea76910cd759855b593bcefa
-- bd2650815b43870a9490e5d5a6dcaff676154a75b01a38fd4d3a2a3a4ae03a1d
-- 7df0ba36f89a69554bb2753cb538ca6672ea8b4a53138ca1dcdedd3836975e1a
-- '09aff85506371f94298135a688aaae1aa05740903965a503b0f94f0f9788b908'
-- 48e476c84ffe4f0d544184c30d7dc9a6d1a11070e507291e3381395f99bf9ed5
-- '0078736f6e5c662c649c2eb17d76f7ad20503cabd1663058c4e242ea5f70798c'
-- c3f919a8c43bd15c87d8de3e474a8917eb2cbdb8a7fa93e187575783f73fc9c4
-- 16611cfd006231dc5ce8caffa3804e5733457197774cca076244315db5a1325f
-- 12361d2d88e3d2c28586e2e5ebd29ae1dcc9dd3e53541a4be758f40e98d3f4e1
+- a3ad5672c0415ab3b55f50df22fff0eb2d8e5ad135b61b438a2e6651893dbbb3
+- 68bd3f001b178ff6d0e0c3012f4a3720a2409d0e6f2a53acb93479924465bdf6
+- 8bc9233385f60341e774b2f4982ef28ae6d50c2578e0cbd6dec37efd6c9de381
+- 6f9cfb376a49bd9cabdd93cebb5aa7cd42962597942e0dfc959c64d5bc91b2f3
+- 950f08aef0fd7d4e7250e0882bfdd21310231f92f708960103d1ada0099ff0e0
+- ecf24ea7ceb575fd5ec2981b9a0c5a4a5e64609e84864cde9c6418f37c835d19
+- ce26e10161e37e15b5b22be0b75e946fee9c971a9e2a075b100be613a4444e6c
+- 614dee1bc32cd263be84ee074c0a2686dcc832171176426794f9890928efcd64
+- 708284183d471b1744ed1f2093aaea60aaf93aea6df885ffced8101a298d459f
+- 3860b62fcf07ff8878ab648ea82ae1c3569406aec417cb982afddcb983107dc4
 ---
 
 A youth-led fundraiser, part of the EF Hygiene Champions Summer Youth Program, successfully raised over $75,000 to support Essentials First's mission of providing hygiene access. Gratitude was expressed to all participants, including generous donors, Essentials First Programs & Operations Manager Marryam Ali, parent volunteers, and staff who helped bring the event to fruition. Special thanks were given to the Together Center for hosting and the Rotary Club of Woodinville for sponsoring the Dessert Dash. Washington State Representative Osman Salahuddin shared an inspiring message, while the Sheriff family was acknowledged for their ongoing support in the fight against hygiene poverty. The organizers praised the Hygiene Champions for their creativity, passion, and commitment, highlighting the importance of youth leadership in addressing community needs.

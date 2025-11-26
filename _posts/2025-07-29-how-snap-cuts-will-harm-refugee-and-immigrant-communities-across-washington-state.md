@@ -1,5 +1,6 @@
 ---
-title: How SNAP Cuts Will Harm Refugee and Immigrant Communities Across Washington State
+title: How SNAP Cuts Will Harm Refugee and Immigrant Communities Across Washington
+  State
 date: '2025-07-29T15:55:45+00:00'
 source: Refugee Women's Alliance
 source_url: https://www.rewa.org/snap-cuts/?utm_source=rss&utm_medium=rss&utm_campaign=snap-cuts
@@ -69,7 +70,7 @@ topics:
 - Food & Nutrition
 - Financial Assistance
 images:
-- 02c810e5f9d6725801e9bdde58bca094d41dd37a0ca4c5c930c36b3fab19add1
+- 63b40a6812bd904337339cd0e0cecc1180aec19798e3ff7f4b6ecfe77d6e8a73
 ---
 
 On July 4, 2025, the federal government enacted H.R.1, known as the One Big Beautiful Bill, which imposes significant cuts to the Supplemental Nutrition Assistance Program (SNAP), jeopardizing food security for nearly one million residents in Washington state. This includes thousands of refugee and immigrant families who rely on SNAP as they adapt to life in the U.S. The law reduces average SNAP benefits by approximately $56 per household monthly, potentially resulting in skipped meals and decreased access to nutritious food. An estimated 130,000 Washingtonians face the risk of losing their benefits entirely.

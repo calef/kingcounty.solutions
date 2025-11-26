@@ -47,7 +47,7 @@ summarized: true
 topics:
 - Employment & Job Support
 images:
-- a315edf3e5b934320af011ee97fcf012aa5af134ec5f6aea5308b2ce4f855d34
+- 388f4503c5de6c9dd35af4b8345e039f724b9fcd28a5132a2a6a640ec0ca2a4b
 ---
 
 My name is Gloriann Figueroa, and I am a Marketing and Communications Intern at Angel Flight West (AFW). I graduated with a BA in Nonprofit Management from the University of North Texas in May and have been applying my skills in a meaningful way through this internship. My background in social media, writing, and campaigning drew me to AFW, where I have gained valuable experience in nonprofit communications.

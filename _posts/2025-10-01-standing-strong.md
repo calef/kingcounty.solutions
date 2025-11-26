@@ -27,7 +27,21 @@ original_content: |-
 
   <p></p>
   <p>The post <a href="https://www.rewa.org/standing-strong/">Standing Strong</a> appeared first on <a href="https://www.rewa.org">Refugee Women&#039;s Alliance</a>.</p>
-original_markdown_body: "The Seattle Times recently published an article _[How a Seattle immigration leader is reacting to Trump’s agenda](https://www.seattletimes.com/seattle-news/politics/how-a-seattle-immigration-leader-is-reacting-to-trumps-agenda/)_ highlighting how a local Seattle immigration leader, Hamdi Mohamed is responding to shifting federal agendas. The piece talks about what many of us know well – when national policies change, immigrant and refugee families feel the impact, from job insecurity to fear of family separation.\n\n![](https://www.rewa.org/wp-content/uploads/2025/10/Screenshot-2025-10-01-095518-1-600x385.jpg)\n_Hamdi Mohamed_\n\nThis reality is why Refugee Women’s Alliance (ReWA) is so vital. For more than 40 years, ReWA has been a trusted anchor in Seattle’s immigrant and refugee communities, offering wraparound services that go far beyond legal support. From English classes and job readiness training, to housing, domestic violence counseling, and early childhood education, ReWA helps families build stability and self-sufficiency, especially during uncertain times.\n\n##   \nTo read the Seattle Times article, click the button below:\n\n[Click Here to Read the Seattle Times Article](https://www.seattletimes.com/seattle-news/politics/how-a-seattle-immigration-leader-is-reacting-to-trumps-agenda/)\n\nThe post [Standing Strong](https://www.rewa.org/standing-strong/) appeared first on [Refugee Women's Alliance](https://www.rewa.org)."
+original_markdown_body: "The Seattle Times recently published an article _[How a Seattle
+  immigration leader is reacting to Trump’s agenda](https://www.seattletimes.com/seattle-news/politics/how-a-seattle-immigration-leader-is-reacting-to-trumps-agenda/)_
+  highlighting how a local Seattle immigration leader, Hamdi Mohamed is responding
+  to shifting federal agendas. The piece talks about what many of us know well – when
+  national policies change, immigrant and refugee families feel the impact, from job
+  insecurity to fear of family separation.\n\n![](https://www.rewa.org/wp-content/uploads/2025/10/Screenshot-2025-10-01-095518-1-600x385.jpg)\n_Hamdi
+  Mohamed_\n\nThis reality is why Refugee Women’s Alliance (ReWA) is so vital. For
+  more than 40 years, ReWA has been a trusted anchor in Seattle’s immigrant and refugee
+  communities, offering wraparound services that go far beyond legal support. From
+  English classes and job readiness training, to housing, domestic violence counseling,
+  and early childhood education, ReWA helps families build stability and self-sufficiency,
+  especially during uncertain times.\n\n##   \nTo read the Seattle Times article,
+  click the button below:\n\n[Click Here to Read the Seattle Times Article](https://www.seattletimes.com/seattle-news/politics/how-a-seattle-immigration-leader-is-reacting-to-trumps-agenda/)\n\nThe
+  post [Standing Strong](https://www.rewa.org/standing-strong/) appeared first on
+  [Refugee Women's Alliance](https://www.rewa.org)."
 summarized: true
 topics:
 - Education & Learning
@@ -35,7 +49,7 @@ topics:
 - Domestic Violence
 - Shelter & Housing
 images:
-- 5f7cdff47534b806b974207b1fa32f79de7c5d61d820bd5f647511f11a5cd978
+- 938c390db8974ab1918e231beee88f0ad14149398b20896bfbf236d4def0e076
 ---
 
 Hamdi Mohamed, a local immigration leader in Seattle, is responding to the impacts of shifting federal policies on immigrant and refugee families. The recent article highlights the challenges these families face, including job insecurity and fear of separation. The Refugee Women’s Alliance (ReWA) plays a crucial role in this context, having served Seattle's immigrant communities for over 40 years. ReWA provides comprehensive support services that extend beyond legal assistance, including English language classes, job readiness training, housing support, domestic violence counseling, and early childhood education. These resources are essential for helping families achieve stability and self-sufficiency during uncertain times.

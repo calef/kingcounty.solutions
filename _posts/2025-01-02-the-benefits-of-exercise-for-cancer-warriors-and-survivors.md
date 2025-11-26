@@ -30,13 +30,43 @@ original_content: |-
 
 
   <p><em>Content for this article is for educational purposes only and is not a substitute for professional medical advice.</em></p>
-original_markdown_body: "![](https://blog.valleymed.org/wp-content/uploads/2020/10/Seniors-Walking_SS_526061074_blog-300x188.jpg)\n\nExercise is a powerful tool for improving the quality of life for people fighting cancer and survivors alike. Whether during treatment or in recovery, engaging in regular physical activity can offer a wide range of physical, emotional, and psychological benefits.\n\n**Physical Benefits**  \nExercise can help combat some of the most challenging side effects of cancer treatment, such as fatigue, loss of muscle strength, and weight changes. It improves cardiovascular health, enhances mobility, and reduces the risk of developing other chronic diseases like diabetes and heart disease. Studies have also shown that regular physical activity may help reduce the risk of cancer recurrence in some types of cancer, such as breast and colon cancer.\n\n**Emotional and Psychological Benefits**  \nCancer treatment can take a toll on mental health, often leading to anxiety, depression, or feelings of isolation. Exercise releases endorphins, the body’s natural mood elevators, helping to reduce stress and improve overall mental well-being. Group fitness classes or walking with friends can also provide a sense of community and support, combating feelings of loneliness.\n\n**Improved Treatment Tolerance and Recovery**  \nStaying active during treatment has been linked to improved tolerance of therapies like chemotherapy and radiation. It may help reduce treatment-related side effects and improve recovery times. For survivors, physical activity supports the body’s healing process and enhances long-term vitality.\n\n**Starting Safely**  \nIt’s essential for cancer patients and survivors to consult their healthcare team before starting or modifying an exercise routine. Programs should be tailored to individual needs, considering the type and stage of cancer, treatment status, and overall health.\n\nIncorporating exercise into daily life doesn’t just strengthen the body—it fosters hope, resilience, and a sense of control during and after the cancer journey. Valley Medical Center is proud to offer specialists in exercise programming through our Lifestyle Medicine Centers in Covington, Maple Valley, and Renton. Our team of certified fitness professionals work to ensure your exercise prescription ties in seamlessly with the care directed by your healthcare team. Learn more about our services at **[valleymed.org/lifestylemed](http://valleymed.org/lifestylemed)**.&nbsp;\n\n_Content for this article is for educational purposes only and is not a substitute for professional medical advice._"
+original_markdown_body: "![](https://blog.valleymed.org/wp-content/uploads/2020/10/Seniors-Walking_SS_526061074_blog-300x188.jpg)\n\nExercise
+  is a powerful tool for improving the quality of life for people fighting cancer
+  and survivors alike. Whether during treatment or in recovery, engaging in regular
+  physical activity can offer a wide range of physical, emotional, and psychological
+  benefits.\n\n**Physical Benefits**  \nExercise can help combat some of the most
+  challenging side effects of cancer treatment, such as fatigue, loss of muscle strength,
+  and weight changes. It improves cardiovascular health, enhances mobility, and reduces
+  the risk of developing other chronic diseases like diabetes and heart disease. Studies
+  have also shown that regular physical activity may help reduce the risk of cancer
+  recurrence in some types of cancer, such as breast and colon cancer.\n\n**Emotional
+  and Psychological Benefits**  \nCancer treatment can take a toll on mental health,
+  often leading to anxiety, depression, or feelings of isolation. Exercise releases
+  endorphins, the body’s natural mood elevators, helping to reduce stress and improve
+  overall mental well-being. Group fitness classes or walking with friends can also
+  provide a sense of community and support, combating feelings of loneliness.\n\n**Improved
+  Treatment Tolerance and Recovery**  \nStaying active during treatment has been linked
+  to improved tolerance of therapies like chemotherapy and radiation. It may help
+  reduce treatment-related side effects and improve recovery times. For survivors,
+  physical activity supports the body’s healing process and enhances long-term vitality.\n\n**Starting
+  Safely**  \nIt’s essential for cancer patients and survivors to consult their healthcare
+  team before starting or modifying an exercise routine. Programs should be tailored
+  to individual needs, considering the type and stage of cancer, treatment status,
+  and overall health.\n\nIncorporating exercise into daily life doesn’t just strengthen
+  the body—it fosters hope, resilience, and a sense of control during and after the
+  cancer journey. Valley Medical Center is proud to offer specialists in exercise
+  programming through our Lifestyle Medicine Centers in Covington, Maple Valley, and
+  Renton. Our team of certified fitness professionals work to ensure your exercise
+  prescription ties in seamlessly with the care directed by your healthcare team.
+  Learn more about our services at **[valleymed.org/lifestylemed](http://valleymed.org/lifestylemed)**.&nbsp;\n\n_Content
+  for this article is for educational purposes only and is not a substitute for professional
+  medical advice._"
 summarized: true
 topics:
 - Health Care
 - Mental Health & Counseling
 images:
-- fdfcc6bf24d354d0c8d1c0f81ebed3be358c091052b3ce22ef309523fced2e54
+- ed1f9e4c69b313c10fa1235dc6215d47de0577ea3e66adfb032fc4c9d83d981b
 ---
 
 Exercise plays a crucial role in enhancing the quality of life for cancer patients and survivors, offering numerous physical, emotional, and psychological benefits. Physically, it helps alleviate side effects of cancer treatment such as fatigue, muscle loss, and weight fluctuations, while improving cardiovascular health and mobility. Regular activity is associated with a reduced risk of cancer recurrence, particularly in breast and colon cancers. 

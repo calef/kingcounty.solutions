@@ -1,5 +1,6 @@
 ---
-title: A conversation with Larry Cole, Medicare advisor and advocate extraordinaire  
+title: A conversation with Larry Cole, Medicare advisor and advocate extraordinaire
+   
 date: '2025-05-09T18:12:06+00:00'
 source: Solid Ground
 source_url: https://www.solid-ground.org/a-conversation-with-larry-cole-medicare-advisor-and-advocate-extraordinaire/
@@ -89,8 +90,8 @@ topics:
 - Health Care
 - Mental Health & Counseling
 images:
-- 3e78544666bfceec314ec02f456e83ae8611de5d8ece8801da0d4f6fe95a5acc
-- 23bbb1df6b930cd521a71532baabfe05773ac326ac4bbd09c0679e1ac7217521
+- 38243f237411ab6ee4f8c8a514ef2159a6210c41850c85bcdea68374b95c8b9c
+- 79b3165be36e66757fe8ebebfaf28aa054a28f81ecc75d4268be6b2432d16970
 ---
 
 Larry Cole is a dedicated volunteer with the Statewide Health Insurance Benefits Advisors (SHIBA), helping individuals navigate the complexities of Medicare. A retired mental health counselor with a background at Boeing, Larry's passion for health care advocacy stems from personal experiences, including his mother's work as a Medicare Manager. He aims to simplify Medicare for those without family support, particularly older adults and disabled individuals who struggle with understanding insurance policies.

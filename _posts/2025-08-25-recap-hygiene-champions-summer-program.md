@@ -103,8 +103,8 @@ topics:
 - Personal & Household Needs
 - Food & Nutrition
 images:
-- 406ae641e971f4bb7ad1cffcf17876e111ac2bac7ba5ee74a493030921bce880
-- cc3aea95edfd743ddcc225a61ef2d9b9df13f7c7e8cee1e587ca01977492848a
+- b146a1d0434b674d1ce7548d3b447ea1988ef5115de890da31899f186008bc0b
+- 3b7d6693c7847bf7455a782888fb9bb2e49e15b061241e60d198baa3e972526b
 ---
 
 This summer, a group of middle and high school students known as the Hygiene Champions organized a community fundraiser to support Essentials First’s mission of providing access to basic hygiene essentials. Over several weeks, these students demonstrated strong leadership through various teams: the Operations Team managed logistics and activities; the Food & Decor Team set up the event space and hosted a bake sale; the Marketing Team created promotional materials; the Fundraising Team led hygiene drives and engaged local businesses; and the Entertainment Team coordinated performances and activities.

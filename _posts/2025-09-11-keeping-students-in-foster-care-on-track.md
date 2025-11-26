@@ -40,13 +40,65 @@ original_content: |-
   <p data-ccp-border-bottom="0px none #000000" data-ccp-padding-bottom="0px" data-ccp-border-between="0px none #000000" data-ccp-padding-between="0px"><span data-contrast="none">“Even though we&#8217;re not directly working with young people, we&#8217;re making just as huge an impact,” says Amber. “We get to provide resources to the adults, so then they can help other young people in their care, on their caseloads, and in their schools.”</span><span data-ccp-props="{&quot;335572071&quot;:0,&quot;335572072&quot;:0,&quot;335572073&quot;:0,&quot;335572075&quot;:0,&quot;335572076&quot;:0,&quot;335572077&quot;:0,&quot;335572079&quot;:0,&quot;335572080&quot;:0,&quot;335572081&quot;:0,&quot;335572083&quot;:0,&quot;335572084&quot;:0,&quot;335572085&quot;:0,&quot;335572087&quot;:0,&quot;335572088&quot;:0,&quot;335572089&quot;:0,&quot;469789798&quot;:&quot;nil&quot;,&quot;469789802&quot;:&quot;nil&quot;,&quot;469789806&quot;:&quot;nil&quot;,&quot;469789810&quot;:&quot;nil&quot;,&quot;469789814&quot;:&quot;nil&quot;}"> </span></p>
   <h5 data-ccp-border-between="0px none #000000" data-ccp-padding-between="0px"><strong><i>Join our </i><a href="https://www.treehouseforkids.org/take-action/advocate/advocacy-action-center/#/signup/go/" target="_blank" rel="noopener"><i>Advocacy Action Center</i></a><i> to stay updated on education policies Treehouse supports.</i> </strong></h5>
   <p>The post <a href="https://www.treehouseforkids.org/keeping-students-in-foster-care-on-track/">Keeping Students in Foster Care on Track</a> appeared first on <a href="https://www.treehouseforkids.org">Treehouse</a>.</p>
-original_markdown_body: "![](https://www.treehouseforkids.org/wp-content/uploads/2025/09/Untitled-design-7-1024x665.png)The back-to-school sales are over, and students are settling into their new seats. But paving the way to educational success is work that never stops. That’s especially true for students experiencing foster care, who are at the center of a crowded, chaotic hub of bureaucratic systems—child welfare, legal, education, and others depending on the circumstances. Ironically, it’s easy for youth in foster care to get overlooked in the mix.&nbsp;\n\nThat’s where Treehouse’s [Educational Advocacy](https://www.treehouseforkids.org/our-services/educational-advocacy/) program steps in. &nbsp;\n\n### **What Does Educational Advocacy Do?** &nbsp;\n\nEducational Advocacy’s _only_ focus is addressing educational issues for students in foster care. These issues can look like disciplinary exclusions (a.k.a. suspensions and emergency removals), lack of academic progress, and being unenrolled or unable to attend school. And they do it by corralling the student’s network of adults. That includes people like foster parents, parents, social workers, school staff, and more. &nbsp;\n\n| \n\n ![](https://www.treehouseforkids.org/wp-content/uploads/2023/04/Amber-1-300x300.png)\n\nAmber Alvarez, Director of Educational Advocacy\n\n | “We get the privilege, as Educational Advocates, to live and breathe Educational Advocacy,” says Amber Alvarez, Director of Educational Advocacy. “Whereas a caregiver has three other kids at home and they work full-time; and a social worker has 20 other families with court dates; and a teacher has 28 other kids in the classroom. A huge part of how we manage and keep it straight is remembering what our lane is and staying in our lane.”&nbsp; |\n\nIn the 2024–2025 program year, Treehouse advocated for the educational rights of 1,140 youth in Washington state. Last program year, 31% of Educational Advocacy cases created or improved Special Education accommodations, and 15% prevented or expedited school transfers for students in foster care. &nbsp;\n\nThe job requires an almost encyclopedic knowledge of education codes and laws, how the various systems operate, and best practices for school success. Educational Advocates synthesize all this knowledge and bring everyone to the table. The goal is to ensure students in foster care are getting a fair chance at a good education. &nbsp;\n\n* * *\n\n### **Educational Advocacy in Action** &nbsp;\n\n_“A second grader with a diagnosis of ADHD did not have a 504 Plan or IEP on file. The student was suspended twice, and the&nbsp;foster parent was being called almost weekly to pick the student up early due to behaviors. &nbsp;_\n\n_The social worker referred them to Treehouse, and an Educational Advocate spoke with the foster parent. They agreed a 504 Plan was needed to outline needed accommodations and to protect the student from being overly disciplined, since their medical diagnosis qualifies as a disability. &nbsp;_\n\n_The student received multiple in-class movement breaks a day and started getting daily support from the school’s behavior intervention specialist, including repairing the student’s relationships with peers.&nbsp;&nbsp;_\n\n_Since implementing the Educational Advocate’s plan, the student’s behaviors drastically improved. Thanks to the 504 Plan, their accommodations are documented&nbsp;and will provide extra protection in school.”&nbsp;_\n\n* * *\n\n### Resources for Students in Foster Care\n\nIn the state of Washington, students in foster care are entitled to many supports. The trick is making sure the grown-ups in charge are also aware of it. Treehouse created a [Resource Center](https://www.treehouseforkids.org/resource-center/) everyone can access, which includes: &nbsp;\n\n- [K–12 education resources](https://www.treehouseforkids.org/resource-center/pre-k-high-school-academic-resources)&nbsp;\n\n- [Parent and caregiver resources](https://www.treehouseforkids.org/resource-center/family-supports/)&nbsp;\n\n- [Employment and college resources](https://www.treehouseforkids.org/resource-center/employment-and-college-resources/)\n\n“Even though we’re not directly working with young people, we’re making just as huge an impact,” says Amber. “We get to provide resources to the adults, so then they can help other young people in their care, on their caseloads, and in their schools.”&nbsp;\n\n##### **_Join our_ [_Advocacy Action Center_](https://www.treehouseforkids.org/take-action/advocate/advocacy-action-center/#/signup/go/) _to stay updated on education policies Treehouse supports._&nbsp;**\n\nThe post [Keeping Students in Foster Care on Track](https://www.treehouseforkids.org/keeping-students-in-foster-care-on-track/) appeared first on [Treehouse](https://www.treehouseforkids.org)."
+original_markdown_body: "![](https://www.treehouseforkids.org/wp-content/uploads/2025/09/Untitled-design-7-1024x665.png)The
+  back-to-school sales are over, and students are settling into their new seats. But
+  paving the way to educational success is work that never stops. That’s especially
+  true for students experiencing foster care, who are at the center of a crowded,
+  chaotic hub of bureaucratic systems—child welfare, legal, education, and others
+  depending on the circumstances. Ironically, it’s easy for youth in foster care to
+  get overlooked in the mix.&nbsp;\n\nThat’s where Treehouse’s [Educational Advocacy](https://www.treehouseforkids.org/our-services/educational-advocacy/)
+  program steps in. &nbsp;\n\n### **What Does Educational Advocacy Do?** &nbsp;\n\nEducational
+  Advocacy’s _only_ focus is addressing educational issues for students in foster
+  care. These issues can look like disciplinary exclusions (a.k.a. suspensions and
+  emergency removals), lack of academic progress, and being unenrolled or unable to
+  attend school. And they do it by corralling the student’s network of adults. That
+  includes people like foster parents, parents, social workers, school staff, and
+  more. &nbsp;\n\n| \n\n ![](https://www.treehouseforkids.org/wp-content/uploads/2023/04/Amber-1-300x300.png)\n\nAmber
+  Alvarez, Director of Educational Advocacy\n\n | “We get the privilege, as Educational
+  Advocates, to live and breathe Educational Advocacy,” says Amber Alvarez, Director
+  of Educational Advocacy. “Whereas a caregiver has three other kids at home and they
+  work full-time; and a social worker has 20 other families with court dates; and
+  a teacher has 28 other kids in the classroom. A huge part of how we manage and keep
+  it straight is remembering what our lane is and staying in our lane.”&nbsp; |\n\nIn
+  the 2024–2025 program year, Treehouse advocated for the educational rights of 1,140
+  youth in Washington state. Last program year, 31% of Educational Advocacy cases
+  created or improved Special Education accommodations, and 15% prevented or expedited
+  school transfers for students in foster care. &nbsp;\n\nThe job requires an almost
+  encyclopedic knowledge of education codes and laws, how the various systems operate,
+  and best practices for school success. Educational Advocates synthesize all this
+  knowledge and bring everyone to the table. The goal is to ensure students in foster
+  care are getting a fair chance at a good education. &nbsp;\n\n* * *\n\n### **Educational
+  Advocacy in Action** &nbsp;\n\n_“A second grader with a diagnosis of ADHD did not
+  have a 504 Plan or IEP on file. The student was suspended twice, and the&nbsp;foster
+  parent was being called almost weekly to pick the student up early due to behaviors.
+  &nbsp;_\n\n_The social worker referred them to Treehouse, and an Educational Advocate
+  spoke with the foster parent. They agreed a 504 Plan was needed to outline needed
+  accommodations and to protect the student from being overly disciplined, since their
+  medical diagnosis qualifies as a disability. &nbsp;_\n\n_The student received multiple
+  in-class movement breaks a day and started getting daily support from the school’s
+  behavior intervention specialist, including repairing the student’s relationships
+  with peers.&nbsp;&nbsp;_\n\n_Since implementing the Educational Advocate’s plan,
+  the student’s behaviors drastically improved. Thanks to the 504 Plan, their accommodations
+  are documented&nbsp;and will provide extra protection in school.”&nbsp;_\n\n* *
+  *\n\n### Resources for Students in Foster Care\n\nIn the state of Washington, students
+  in foster care are entitled to many supports. The trick is making sure the grown-ups
+  in charge are also aware of it. Treehouse created a [Resource Center](https://www.treehouseforkids.org/resource-center/)
+  everyone can access, which includes: &nbsp;\n\n- [K–12 education resources](https://www.treehouseforkids.org/resource-center/pre-k-high-school-academic-resources)&nbsp;\n\n-
+  [Parent and caregiver resources](https://www.treehouseforkids.org/resource-center/family-supports/)&nbsp;\n\n-
+  [Employment and college resources](https://www.treehouseforkids.org/resource-center/employment-and-college-resources/)\n\n“Even
+  though we’re not directly working with young people, we’re making just as huge an
+  impact,” says Amber. “We get to provide resources to the adults, so then they can
+  help other young people in their care, on their caseloads, and in their schools.”&nbsp;\n\n#####
+  **_Join our_ [_Advocacy Action Center_](https://www.treehouseforkids.org/take-action/advocate/advocacy-action-center/#/signup/go/)
+  _to stay updated on education policies Treehouse supports._&nbsp;**\n\nThe post
+  [Keeping Students in Foster Care on Track](https://www.treehouseforkids.org/keeping-students-in-foster-care-on-track/)
+  appeared first on [Treehouse](https://www.treehouseforkids.org)."
 summarized: true
 topics:
 - Education & Learning
 images:
-- 4a32b3ee92600ddc18ff63b992a04eccdd5411d0a93518aecd23903a672ed4f5
-- d3cc2f0e3a50a4f37565851632cb63df70267dac6b234d6fcfa4687bea1ac8cf
+- b5b70577939aa2ab3a47f8edd60c6711df8b63942e26a50df4bcb4cdd08d1431
+- 7f7e04552d1c9929d5d2c048852b7b88a403b7124ba3570a0a7ac668be687998
 ---
 
 Students in foster care often face significant barriers to educational success due to the complex bureaucracy surrounding child welfare and education systems. Treehouse's Educational Advocacy program is dedicated to addressing these issues by coordinating support among foster parents, social workers, and school staff. The program focuses on problems like disciplinary exclusions, lack of academic progress, and difficulties in school enrollment.

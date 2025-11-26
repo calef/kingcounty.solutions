@@ -36,7 +36,7 @@ topics:
 - Financial Assistance
 - Senior Services
 images:
-- b64c9bbe8dece9bf7cd2dce14b74fffdd7e559d183b0345e5b98d0e88bc4de80
+- 85e164f20119611d0e0aa580b0fe0c6aaa88b31dcbe06a0cc0a481626ce06956
 ---
 
 Shoreline Community College has received a $697,300 grant through the Supporting Student Veterans and Their Families initiative, funded by the King County Veterans, Seniors and Human Services Levy. This grant will help launch the Veteran Success Through Education program, a two-year pilot aimed at providing comprehensive support for veterans and their families, especially those from marginalized communities. The program, running from July 2025 to June 2027, will offer culturally responsive case management, academic and financial assistance, and wraparound services for eligible students. 

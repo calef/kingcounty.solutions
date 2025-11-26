@@ -154,15 +154,57 @@ original_content: |-
 
   <p></p>
   <p>The post <a href="https://www.brightspark.org/2025/11/this-gratitude-week-we-are-celebrating-leaders-like-alexis/">This Gratitude Week We Are Celebrating Leaders Like Alexis!</a> appeared first on <a href="https://www.brightspark.org">BrightSpark</a>.</p>
-original_markdown_body: "![](https://www.brightspark.org/wp-content/uploads/2025/11/Fund-Dev-Newsletter-Banners-5.png \"Fund Dev Newsletter Banners (5)\")\n\n### **Invest in Kids, Invest in Communities**\n\nAs we kick off **Gratitude Week** , a time when BrightSpark reflects on the moments, people, and partnerships we’re most thankful for, one story stands out. A story that reminds us why this work matters and why your support is such a gift to our communities.\n\n![](https://www.brightspark.org/wp-content/uploads/2025/11/Phoebe-Sade-Ex-1-819x1024.png \"Phoebe Sade Ex (1)\")\n\n**We Are Grateful for Alexis Cortes!**\n\nAlexis is a loving mother of four (soon to be five), a devoted student, and a courageous advocate. Her journey with BrightSpark began at a simple community event at her oldest child’s school, where she connected with our Early Head Start team. **From that first interaction, she felt something rare: patience, encouragement, and a team committed to helping her family succeed.**\n\nAs she enrolled two of her children in Early Head Start, while preparing for a new baby and returning to school, BrightSpark was there to walk alongside her. “They showed a lot of patience, which you don’t always see nowadays,” she said.\n\nWhen her daughter was later diagnosed with autism, Alexis became a tireless champion for her needs. That advocacy spirit led her to join our Early Head Start Policy Council in 2023; and then to be elected Chair just a year later! Today, she is a respected leader who helps review program finances, strengthen outreach, and build community among families.\n\n[Watch Alexis’ Full Story Here!](https://youtu.be/nH05EoGt0Qg?si=-xHFrryakJLWs5br)\n\n![](https://www.brightspark.org/wp-content/uploads/2025/11/We-are-all-here-for-the-same-reasons-—-we-all-love-our-children-we-all-love-our-communities-and-we-all-love-our-country.-—-Alexis-Cortes-1-1024x1024.png \"“We are all here for the same reasons — we all love our children, we all love our communities, and we all love our country.” — Alexis Cortes\")\n\n**This Week, We Are Grateful for…**\n\nStories like Alexis’s that are fueled by our community of supporters and the collective belief that investing in early learning, in families, and in community is when we see real change.\n\nBy supporting BrightSpark:\n\n- Families can access quality care that supports housing stability, economic mobility and thriving communities;\n- Parents and caregivers like Alexis are supported to grow into advocates who shape policy at every level;\n- Children get the strong, equitable start they deserve;\n- And community voices are elevated and build momentum for change.\n\nThis Gratitude Week, we want to express how deeply grateful we are for your partnership. Together, we are helping families thrive, leaders emerge, and ensuring that stories like Alexis’s are not the exception but the expectation. Together we make high-quality, accessible, affordable early learning possible.\n\nThank you for standing with us, believing in families, and championing early learning throughout King and Pierce Counties.\n\nWe are grateful for you, this week and always!  \n  \nWith gratitude,  \nThe BrightSpark Team\n\n**Follow Along on Social Media For Updates!**\n\nBrightSpark accepts donations in many forms: cash, credit cards, fund transfers, checks, money orders, stocks, bonds, mutual funds, donor-advised funds, and more! If you have any questions or would like more information on ways to give, please get in touch with our fund development department at&nbsp;[getinvolved@childcare.org](mailto:getinvolved@childcare.org).\n\n![](https://www.brightspark.org/wp-content/uploads/2025/10/Thank-you-to-our-sponsors-Blog-Banner-2-1024x576.png)\n\n[Make A Donation Today!](https://bit.ly/4oCHqgm)\n\n_All photos on this email are credited to ©LisaBontjePhotography_\n\nThe post [This Gratitude Week We Are Celebrating Leaders Like Alexis!](https://www.brightspark.org/2025/11/this-gratitude-week-we-are-celebrating-leaders-like-alexis/) appeared first on [BrightSpark](https://www.brightspark.org)."
+original_markdown_body: "![](https://www.brightspark.org/wp-content/uploads/2025/11/Fund-Dev-Newsletter-Banners-5.png
+  \"Fund Dev Newsletter Banners (5)\")\n\n### **Invest in Kids, Invest in Communities**\n\nAs
+  we kick off **Gratitude Week** , a time when BrightSpark reflects on the moments,
+  people, and partnerships we’re most thankful for, one story stands out. A story
+  that reminds us why this work matters and why your support is such a gift to our
+  communities.\n\n![](https://www.brightspark.org/wp-content/uploads/2025/11/Phoebe-Sade-Ex-1-819x1024.png
+  \"Phoebe Sade Ex (1)\")\n\n**We Are Grateful for Alexis Cortes!**\n\nAlexis is a
+  loving mother of four (soon to be five), a devoted student, and a courageous advocate.
+  Her journey with BrightSpark began at a simple community event at her oldest child’s
+  school, where she connected with our Early Head Start team. **From that first interaction,
+  she felt something rare: patience, encouragement, and a team committed to helping
+  her family succeed.**\n\nAs she enrolled two of her children in Early Head Start,
+  while preparing for a new baby and returning to school, BrightSpark was there to
+  walk alongside her. “They showed a lot of patience, which you don’t always see nowadays,”
+  she said.\n\nWhen her daughter was later diagnosed with autism, Alexis became a
+  tireless champion for her needs. That advocacy spirit led her to join our Early
+  Head Start Policy Council in 2023; and then to be elected Chair just a year later!
+  Today, she is a respected leader who helps review program finances, strengthen outreach,
+  and build community among families.\n\n[Watch Alexis’ Full Story Here!](https://youtu.be/nH05EoGt0Qg?si=-xHFrryakJLWs5br)\n\n![](https://www.brightspark.org/wp-content/uploads/2025/11/We-are-all-here-for-the-same-reasons-—-we-all-love-our-children-we-all-love-our-communities-and-we-all-love-our-country.-—-Alexis-Cortes-1-1024x1024.png
+  \"“We are all here for the same reasons — we all love our children, we all love
+  our communities, and we all love our country.” — Alexis Cortes\")\n\n**This Week,
+  We Are Grateful for…**\n\nStories like Alexis’s that are fueled by our community
+  of supporters and the collective belief that investing in early learning, in families,
+  and in community is when we see real change.\n\nBy supporting BrightSpark:\n\n-
+  Families can access quality care that supports housing stability, economic mobility
+  and thriving communities;\n- Parents and caregivers like Alexis are supported to
+  grow into advocates who shape policy at every level;\n- Children get the strong,
+  equitable start they deserve;\n- And community voices are elevated and build momentum
+  for change.\n\nThis Gratitude Week, we want to express how deeply grateful we are
+  for your partnership. Together, we are helping families thrive, leaders emerge,
+  and ensuring that stories like Alexis’s are not the exception but the expectation.
+  Together we make high-quality, accessible, affordable early learning possible.\n\nThank
+  you for standing with us, believing in families, and championing early learning
+  throughout King and Pierce Counties.\n\nWe are grateful for you, this week and always!
+  \ \n  \nWith gratitude,  \nThe BrightSpark Team\n\n**Follow Along on Social Media
+  For Updates!**\n\nBrightSpark accepts donations in many forms: cash, credit cards,
+  fund transfers, checks, money orders, stocks, bonds, mutual funds, donor-advised
+  funds, and more! If you have any questions or would like more information on ways
+  to give, please get in touch with our fund development department at&nbsp;[getinvolved@childcare.org](mailto:getinvolved@childcare.org).\n\n![](https://www.brightspark.org/wp-content/uploads/2025/10/Thank-you-to-our-sponsors-Blog-Banner-2-1024x576.png)\n\n[Make
+  A Donation Today!](https://bit.ly/4oCHqgm)\n\n_All photos on this email are credited
+  to ©LisaBontjePhotography_\n\nThe post [This Gratitude Week We Are Celebrating Leaders
+  Like Alexis!](https://www.brightspark.org/2025/11/this-gratitude-week-we-are-celebrating-leaders-like-alexis/)
+  appeared first on [BrightSpark](https://www.brightspark.org)."
 summarized: true
 topics:
 - Childcare
 - Education & Learning
 images:
-- 9c9cd3fdcca6992272f91cf73818136b0d0f5ae00ba02d28756c3559eb7a524a
-- bce915f2c89b5c30be3850f8860e8e0fdcb2630c5d1580e978a2869e1b64a161
-- f0a13e33bdc2e10cc6ba5b69c3dafd18f73fb8add88c6b072ec4ebc76e9cb8a2
+- 32d201f71c5394e86ef7e785bd9e4877763ba3839c7be2d0693dec60e64e07a0
+- d177c2f2ec221b089b55f5eb3cb2640dfd91300c1abc11689c8c63756b0abce1
+- b7da5b7b1e746b71fc95c4fa06b91cc0f4e7fa94b6a71fd1286b3989152b2839
 ---
 
 As Gratitude Week begins, BrightSpark celebrates leaders like Alexis Cortes, a dedicated mother and advocate. Her journey with BrightSpark began at a community event, where she found support from the Early Head Start team. Enrolling two children in the program while preparing for a new baby and returning to school, Alexis experienced the team's patience and encouragement. After her daughter was diagnosed with autism, she became an advocate for her child's needs, eventually joining the Early Head Start Policy Council and being elected Chair within a year. Today, Alexis plays a crucial role in reviewing program finances, enhancing outreach, and fostering community among families. BrightSpark emphasizes the importance of stories like Alexis's, showcasing how community support can drive real change in early learning. Through their programs, families gain access to quality care, parents become advocates, children receive equitable starts, and community voices are amplified. This week, BrightSpark expresses gratitude for its supporters, highlighting their collective impact on creating accessible and affordable early learning opportunities across King and Pierce Counties.

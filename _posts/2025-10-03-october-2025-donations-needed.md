@@ -31,16 +31,31 @@ original_content: |-
 
 
   <div data-wp-interactive="core/file" class="wp-block-file"><object data-wp-bind--hidden="!state.hasPdfPreview" hidden class="wp-block-file__embed" data="https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/10.-October-2025-2.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="Embed of 10. October 2025 (2)."></object><a id="wp-block-file--media-1be1bfee-ab03-4720-9da6-4fdb32c66dc6" href="https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/10.-October-2025-2.pdf">10. October 2025 (2)</a><a href="https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/10.-October-2025-2.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-1be1bfee-ab03-4720-9da6-4fdb32c66dc6">Download</a></div>
-original_markdown_body: "Happy October! ![\U0001F342](https://static.xx.fbcdn.net/images/emoji.php/v9/t89/1/16/1f342.png) The weather is changing, and so are our needs for residents. Items in bold are things we’re really low on, our out of! ![\U0001F628](https://static.xx.fbcdn.net/images/emoji.php/v9/t14/1/16/1f628.png) Here’s how you can help:\n\n![\U0001F449\U0001F3FC](https://static.xx.fbcdn.net/images/emoji.php/v9/t8d/1/16/1f449_1f3fc.png) Shop directly from our Amazon wishlist! Items disappear from the list when they’ve been purchased in the quantity we need, so if it’s still there, we still need it! ![\U0001F517](https://static.xx.fbcdn.net/images/emoji.php/v9/tb3/1/16/1f517.png)[https://a.co/9eo400U](https://a.co/9eo400U?fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExQkpUWDBnVFlZYldFM2daagEeVjDnABdAn-M3sMhU-AcvXdkZsTZWDdEbVfmfaKQP9mW60Mluo5RWdEf70rw_aem_7tzIAI47Z8PGp9tMnUjaGg)\n\n[Click HERE to visit our Amazon wish list](https://a.co/9eo400U?fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExQkpUWDBnVFlZYldFM2daagEeVjDnABdAn-M3sMhU-AcvXdkZsTZWDdEbVfmfaKQP9mW60Mluo5RWdEf70rw_aem_7tzIAI47Z8PGp9tMnUjaGg)\n\n![\U0001F449\U0001F3FC](https://static.xx.fbcdn.net/images/emoji.php/v9/t8d/1/16/1f449_1f3fc.png) Think of us while you’re running your errands this weekend! Maybe you’ll see some good deals on pajamas, remember us when you see travel toiletries by the checkout, or grab us an extra pack of paper towels if you’re able!\n\n![\U0001F449\U0001F3FC](https://static.xx.fbcdn.net/images/emoji.php/v9/t8d/1/16/1f449_1f3fc.png) SHARE THIS LIST to help us reach as many people as we can!\n\n![](https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/10.-October-2025-2.png)\n\n<object data-wp-bind--hidden=\"!state.hasPdfPreview\" hidden class=\"wp-block-file__embed\" data=\"https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/10.-October-2025-2.pdf\" type=\"application/pdf\" style=\"width:100%;height:600px\" aria-label=\"Embed of 10. October 2025 (2).\"></object>[10. October 2025 (2)](https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/10.-October-2025-2.pdf)[Download](https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/10.-October-2025-2.pdf)"
+original_markdown_body: "Happy October! ![\U0001F342](https://static.xx.fbcdn.net/images/emoji.php/v9/t89/1/16/1f342.png)
+  The weather is changing, and so are our needs for residents. Items in bold are things
+  we’re really low on, our out of! ![\U0001F628](https://static.xx.fbcdn.net/images/emoji.php/v9/t14/1/16/1f628.png)
+  Here’s how you can help:\n\n![\U0001F449\U0001F3FC](https://static.xx.fbcdn.net/images/emoji.php/v9/t8d/1/16/1f449_1f3fc.png)
+  Shop directly from our Amazon wishlist! Items disappear from the list when they’ve
+  been purchased in the quantity we need, so if it’s still there, we still need it!
+  ![\U0001F517](https://static.xx.fbcdn.net/images/emoji.php/v9/tb3/1/16/1f517.png)[https://a.co/9eo400U](https://a.co/9eo400U?fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExQkpUWDBnVFlZYldFM2daagEeVjDnABdAn-M3sMhU-AcvXdkZsTZWDdEbVfmfaKQP9mW60Mluo5RWdEf70rw_aem_7tzIAI47Z8PGp9tMnUjaGg)\n\n[Click
+  HERE to visit our Amazon wish list](https://a.co/9eo400U?fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExQkpUWDBnVFlZYldFM2daagEeVjDnABdAn-M3sMhU-AcvXdkZsTZWDdEbVfmfaKQP9mW60Mluo5RWdEf70rw_aem_7tzIAI47Z8PGp9tMnUjaGg)\n\n![\U0001F449\U0001F3FC](https://static.xx.fbcdn.net/images/emoji.php/v9/t8d/1/16/1f449_1f3fc.png)
+  Think of us while you’re running your errands this weekend! Maybe you’ll see some
+  good deals on pajamas, remember us when you see travel toiletries by the checkout,
+  or grab us an extra pack of paper towels if you’re able!\n\n![\U0001F449\U0001F3FC](https://static.xx.fbcdn.net/images/emoji.php/v9/t8d/1/16/1f449_1f3fc.png)
+  SHARE THIS LIST to help us reach as many people as we can!\n\n![](https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/10.-October-2025-2.png)\n\n<object
+  data-wp-bind--hidden=\"!state.hasPdfPreview\" hidden class=\"wp-block-file__embed\"
+  data=\"https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/10.-October-2025-2.pdf\"
+  type=\"application/pdf\" style=\"width:100%;height:600px\" aria-label=\"Embed of
+  10. October 2025 (2).\"></object>[10. October 2025 (2)](https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/10.-October-2025-2.pdf)[Download](https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/10.-October-2025-2.pdf)"
 summarized: true
 topics:
 - Personal & Household Needs
 images:
-- ebbedcce3f271b5cfb4ee21761efa1b7c2bef1f3d703833455d80337ef59e609
-- 73dc04b317897d0cd8c57651ed733fce2613cb3e6725fc5bb0ca53ca2b3fcba3
-- 9464defa7c25521e5db86c05a4b800ed40699dc4b54586334b96f383917e29b8
-- d2dd1fe55e58ff989bca5b99d8e94645108eff2856ae2f0069864b5577f3d401
-- b8c00792d9e43610ee78e8101382ab5892c965eaa954f34f4d193df6e7e181f2
+- 27f42e610843158b26c7b919c44c234050f9b85aa386c9ddc6d7ddb8cfebf235
+- 18d1602c946a58a4d64b63d59a08f587b88acb0e67ab960f83273dbd3e8fb524
+- 2c6073e425d960df79289b09405d6d8e441f8c32d4222da0e3a8c9ac9b2357e9
+- 9a86423dcace824ce1d5289969aec67a9e02d72516335b75f9feef9ce21d8913
+- dbf6eb1c6e20a4db839dfd9be3a5447df7d81f5afc0527d4fda6cbe658f5e104
 ---
 
 Happy October! As the weather changes, so do the needs of residents. There is a particular shortage of essential items, marked in bold. To assist, donations can be made through the organization's Amazon wishlist, where items are removed as they are purchased. If an item remains on the list, it is still needed. While out running errands, consider picking up pajamas, travel toiletries, or extra packs of paper towels. Sharing the wishlist can help reach more people and increase support for those in need.

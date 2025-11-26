@@ -44,18 +44,57 @@ original_content: |-
   <h3></h3>
   <h3 style="text-align: center;">Join us for an unforgettable summer of fun, learning, and adventure at the Boys &amp; Girls Clubs of King County!</h3>
   <p>The post <a href="https://positiveplace.org/a-typical-day-at-day-camp/">A Typical Day at Day Camp</a> appeared first on <a href="https://positiveplace.org">Boys &amp; Girls Clubs</a>.</p>
-original_markdown_body: "### Boys & Girls Clubs Summer Camps help kids grow and have fun by exploring the outdoors, building self-confidence and independence, learning core values, developing life skills, and—most importantly—being active.\n\n### Each week, imaginative themes and activities provide an engaging atmosphere for hands-on learning and exploration. While camp is packed with fun activities, we also make sure to supply enough choice time that gives kids the chance to build new friendships or simply hang out with their favorite counselor.\n\n### Although each camp varies, you can expect these types of activities throughout the summer.\n\n### ![](https://positiveplace.org/wp-content/uploads/2023/01/Bontje763-0196-589x640-1-276x300.jpg)7:00 am – **&nbsp;**** Arrival and Choice Time: ****&nbsp;** Think of Choice time as a more structured free time.\n\n### \n\n### \n\n### \n\n### \n\n### \n\n### \n\n### ![](https://positiveplace.org/wp-content/uploads/2023/12/MicrosoftTeams-image-280-1-300x169.png)\n\n### 9:30 a.m. –&nbsp; **Group meeting and Icebreakers:** This is the perfect way to get to know fellow campers and counselors and build excitement for the day’s adventures\n\n### \n\n### \n\n### \n\n&nbsp;\n\n### ![](https://positiveplace.org/wp-content/uploads/2025/03/IMG_0416-300x200.jpg)\n\n### 10:00 am – **Group Outside Games:&nbsp;** Whether it’s an epic game of tag, Sharks and Minos, or team-building challenges, Group Games are about fostering teamwork, movement, and fun! These games help campers develop coordination, communication, and problem-solving skills in a playful and supportive setting while enjoying the outdoors.\n\n### ![](https://positiveplace.org/wp-content/uploads/2024/09/IMG_4897-300x200.jpg)\n\n### \n\n### \n\n### \n\n### 10:45 am –&nbsp; **Summer Brain Gain:** &nbsp;To keep young minds sharp, campers participate in literacy activities such as; journaling, interactive reading puzzles, and math games that promote summer learning. These activities are designed to be fun and engaging, ensuring kids continue to grow academically over summer break.\n\n### \n\n### ![](https://positiveplace.org/wp-content/uploads/2023/06/MicrosoftTeams-image-123-225x300.jpg)11:45 am –&nbsp; **Lunch:** Campers get to refuel, relax, and connect with friends.\n\n### \n\n### \n\n### \n\n### ![](https://positiveplace.org/wp-content/uploads/2024/08/IMG_0510-300x200.jpg)12:30 pm – 4:00 pm –&nbsp; **Daily Group Activities & Field Trips:**** &nbsp;**Afternoons at camp are packed with exciting group activities! Depending on the day, campers may participate in water play, craft hours, science experiments, or enjoy visits from special guests. Many clubs also use this time for off-site field trips to explore new places and experiences. Whether splashing in the sun, discovering new hobbies, or going on an adventure, afternoons at camp are full of fun and discovery.\n\n### \n\n### \n\n### ![](https://positiveplace.org/wp-content/uploads/2024/11/website-front-page-photo-SW-talent-show-5-300x169.png)4:00 pm – Close –&nbsp; **Extended Camp:** &nbsp;as the day winds down, this choice time period allows Campers to explore their interests, whether it’s playing a game, reading, or participating in an outdoor adventure. Choice time fosters independence, creativity, and social connections.\n\n### \n\n### \n\n### \n\n### \n\n### \n\n### \n\n### Join us for an unforgettable summer of fun, learning, and adventure at the Boys & Girls Clubs of King County!\n\nThe post [A Typical Day at Day Camp](https://positiveplace.org/a-typical-day-at-day-camp/) appeared first on [Boys & Girls Clubs](https://positiveplace.org)."
+original_markdown_body: "### Boys & Girls Clubs Summer Camps help kids grow and have
+  fun by exploring the outdoors, building self-confidence and independence, learning
+  core values, developing life skills, and—most importantly—being active.\n\n### Each
+  week, imaginative themes and activities provide an engaging atmosphere for hands-on
+  learning and exploration. While camp is packed with fun activities, we also make
+  sure to supply enough choice time that gives kids the chance to build new friendships
+  or simply hang out with their favorite counselor.\n\n### Although each camp varies,
+  you can expect these types of activities throughout the summer.\n\n### ![](https://positiveplace.org/wp-content/uploads/2023/01/Bontje763-0196-589x640-1-276x300.jpg)7:00
+  am – **&nbsp;**** Arrival and Choice Time: ****&nbsp;** Think of Choice time as
+  a more structured free time.\n\n### \n\n### \n\n### \n\n### \n\n### \n\n### \n\n###
+  ![](https://positiveplace.org/wp-content/uploads/2023/12/MicrosoftTeams-image-280-1-300x169.png)\n\n###
+  9:30 a.m. –&nbsp; **Group meeting and Icebreakers:** This is the perfect way to
+  get to know fellow campers and counselors and build excitement for the day’s adventures\n\n###
+  \n\n### \n\n### \n\n&nbsp;\n\n### ![](https://positiveplace.org/wp-content/uploads/2025/03/IMG_0416-300x200.jpg)\n\n###
+  10:00 am – **Group Outside Games:&nbsp;** Whether it’s an epic game of tag, Sharks
+  and Minos, or team-building challenges, Group Games are about fostering teamwork,
+  movement, and fun! These games help campers develop coordination, communication,
+  and problem-solving skills in a playful and supportive setting while enjoying the
+  outdoors.\n\n### ![](https://positiveplace.org/wp-content/uploads/2024/09/IMG_4897-300x200.jpg)\n\n###
+  \n\n### \n\n### \n\n### 10:45 am –&nbsp; **Summer Brain Gain:** &nbsp;To keep young
+  minds sharp, campers participate in literacy activities such as; journaling, interactive
+  reading puzzles, and math games that promote summer learning. These activities are
+  designed to be fun and engaging, ensuring kids continue to grow academically over
+  summer break.\n\n### \n\n### ![](https://positiveplace.org/wp-content/uploads/2023/06/MicrosoftTeams-image-123-225x300.jpg)11:45
+  am –&nbsp; **Lunch:** Campers get to refuel, relax, and connect with friends.\n\n###
+  \n\n### \n\n### \n\n### ![](https://positiveplace.org/wp-content/uploads/2024/08/IMG_0510-300x200.jpg)12:30
+  pm – 4:00 pm –&nbsp; **Daily Group Activities & Field Trips:**** &nbsp;**Afternoons
+  at camp are packed with exciting group activities! Depending on the day, campers
+  may participate in water play, craft hours, science experiments, or enjoy visits
+  from special guests. Many clubs also use this time for off-site field trips to explore
+  new places and experiences. Whether splashing in the sun, discovering new hobbies,
+  or going on an adventure, afternoons at camp are full of fun and discovery.\n\n###
+  \n\n### \n\n### ![](https://positiveplace.org/wp-content/uploads/2024/11/website-front-page-photo-SW-talent-show-5-300x169.png)4:00
+  pm – Close –&nbsp; **Extended Camp:** &nbsp;as the day winds down, this choice time
+  period allows Campers to explore their interests, whether it’s playing a game, reading,
+  or participating in an outdoor adventure. Choice time fosters independence, creativity,
+  and social connections.\n\n### \n\n### \n\n### \n\n### \n\n### \n\n### \n\n### Join
+  us for an unforgettable summer of fun, learning, and adventure at the Boys & Girls
+  Clubs of King County!\n\nThe post [A Typical Day at Day Camp](https://positiveplace.org/a-typical-day-at-day-camp/)
+  appeared first on [Boys & Girls Clubs](https://positiveplace.org)."
 summarized: true
 topics:
 - Education & Learning
 images:
-- e29a2c55af000833e185ba3a1e15c5384a492c30387b8a3ce817e26a0e8cd155
-- 15331ea8a536e18dbd0d857a4f3e79f75346a3fe309f1330c1ec315f8c1a1cfc
-- b374508e0f5cc53e6420549694873234380a6c555b01dbc1c9d20321b52b8422
-- fcdff3bb8bdc58b6637e1bac39fd22bd41d6be77452fb81c687a64bb66f883d3
-- 6e9499ca5541f83e0b0358b45c379339e6489b2705d2da50ccfc627f28e12e6e
-- cd3e51c25c99c066e25f47e6a70b20584698ad588b3298f48e1b4e346f7e32e5
-- 7e60cffae086e7ad3d2d47110606d01102f23f1f80e9ee7e888dfaa85a1fb919
+- 3c6e8df8c72e21fdb87e736a11ddd46944cb0b792f9df5fa22e76d13667fec10
+- 0c6bf284a167213297074026ce48911c1abd09371de4e6e751eb7c76365a5c75
+- 9d8a682ddeddebef7800a89ba3ecb5477a719eb60a3ff6bddcaaf9d149b9e59c
+- a3b02cdcd498315b5108a3422068aa42ea64f05507d50664b66bec5918dc2289
+- af9df1f0fc99ae41b45d32b33e41f55cd774e2ae27f372faf320ac159245a844
+- 5e3969dfd8756619cdf0b5bdf12b08289beb18aea9b5058a2be7bdad6b20b17e
+- a0bcfcfce965babe3a4bd197e2875835375ce51fc26aff946d2dc940bccc5ed7
 ---
 
 Boys & Girls Clubs Summer Camps offer children an enriching experience through outdoor exploration, skill development, and active play. Each week features imaginative themes and structured activities that promote hands-on learning and social interaction. A typical day starts at 7:00 am with Arrival and Choice Time, allowing campers to engage in structured free time. At 9:30 am, campers participate in group meetings and icebreakers to foster connections. By 10:00 am, they engage in group outside games designed to enhance teamwork and communication. At 10:45 am, Summer Brain Gain activities, including journaling and math games, keep minds active over the summer. After a lunch break at 11:45 am, the afternoon from 12:30 pm to 4:00 pm is filled with various activities such as water play, crafts, and field trips. The day concludes at 4:00 pm with Extended Camp, allowing for further exploration of interests. This structured yet flexible schedule promotes independence, creativity, and friendships among campers, ensuring a memorable summer experience.

@@ -126,7 +126,7 @@ topics:
 - Shelter & Housing
 - Financial Assistance
 images:
-- 1542ebafb2b9a9b4133dff983b3aa26613e72c8496d005c3a0ccd10ef8b3a459
+- 5d4593d7334a078570bfaf06b17cc2f4e9abab7c2fcaa467737392306cf3ea0c
 ---
 
 At a recent City Council meeting, updates were provided on Bellevue's Affordable Housing Strategy and the Multifamily Tax Exemption (MFTE) program. The Affordable Housing Strategy aims to build or preserve 5,700 affordable units over the next decade, with a focus on new housing opportunities in the next seven years. Community engagement has reached over 450 residents and 50 organizations, including events like the Affordable Housing Better Cities Film Festival. A draft of the strategy will be presented to the Council in January 2026.

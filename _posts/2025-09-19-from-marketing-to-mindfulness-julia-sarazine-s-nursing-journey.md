@@ -30,7 +30,7 @@ topics:
 - Education & Learning
 - Health Care
 images:
-- 7734f35750db2b59af8e6bac5a7b7c63e3ba6fe4160c5e6e28321bc74960ebfc
+- 2e72a1b5ff208ce29743508640b7cd7611421f55beba49dbeb2648a6ad3e5e46
 ---
 
 Julia Sarazine, a Class of 1993 graduate, transitioned from a marketing career to nursing after a transformative bike trip across the U.S. in 1990, seeking a vocation that emphasized service and human connection. She enrolled in Shoreline Community College’s Nursing Program, where she gained a solid education and forged lasting friendships. Julia became a board-certified family nurse practitioner, earning her doctorate and working in various fields, including general medicine and palliative care. She later founded Sarazine Mindfulness, LLC, teaching mindfulness to over 3,500 individuals, including healthcare professionals and veterans.

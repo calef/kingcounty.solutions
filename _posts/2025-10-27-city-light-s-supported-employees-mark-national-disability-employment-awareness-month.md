@@ -26,7 +26,7 @@ topics:
 - Disabilities
 - Employment & Job Support
 images:
-- b77497e18820210d2605875871bb2522030373812888e0889a44ba789846d0c7
+- 0ea96559b914160834ebe42d64aa32784aca6970a0baf0ae721e6076462d5957
 ---
 
 October marks National Disability Employment Awareness Month, celebrating the contributions of employees with disabilities. This year's theme, "Celebrating Value and Talent," emphasizes the importance of inclusive access to meaningful work. The City of Seattle's Supported Employment Program, initiated in 1998, has created paid job opportunities for individuals with developmental disabilities, with Seattle City Light being an early participant. 

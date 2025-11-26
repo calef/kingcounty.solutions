@@ -88,7 +88,7 @@ topics:
 - Health Care
 - Employment & Job Support
 images:
-- 04ea44d936a81624f91c115cccdb82efea5fae9f2013c02276bf6168e339adbf
+- 04bc3e6035511879bcfa699d22850ddc0ae7289adb1be0503be4ea11faaf2d1c
 ---
 
 Justin, who now works for a nonprofit assisting people experiencing homelessness, reflects on his own journey from living on the streets to finding stability. After nearly a decade of homelessness, he discovered Compass while seeking resources like showers. Though he didn't find housing immediately, Compass remained a trusted resource for him. The presence of a chapel at the Compass Center resonated deeply with Justin, reinforcing his faith during difficult times.

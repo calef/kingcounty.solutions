@@ -90,7 +90,7 @@ topics:
 - Employment & Job Support
 - Food & Nutrition
 images:
-- 86a353c946b84a94eb9de6f1ef18044b8ce31231db60d3c9233601b6a6b9959a
+- 63abec4f311eac921476eaec9c04865ea20ed4acc3ba5e50c3dd0b42d1da9f49
 ---
 
 The City of Bellevue has chosen BRIDGE Housing and Su Development to create multifamily housing complexes in the BelRed Arts District, focusing on affordable housing and artist amenities. These transit-oriented developments, located near the BelRed light rail station, support Bellevue’s Affordable Housing Strategy and broader goals for housing and economic development. BRIDGE Housing will develop a 1.15-acre site into an affordable community with at least 172 homes for families earning below 80% of the area median income, incorporating arts and cultural spaces. Su Development will convert a park-and-ride lot into a complex featuring a 302-stall parking garage, a mix of market-rate and affordable housing, and a ground-floor arts hub with retail spaces for artists and a public arts plaza. The developments aim to enhance the BelRed Arts District, which is home to over 100 creative businesses, fostering a vibrant community that promotes living, working, and cultural engagement. The BelRed Arts District Community Alliance has played a vital role in realizing this vision, contributing to the area's transformation into a hub of connectivity and creativity.

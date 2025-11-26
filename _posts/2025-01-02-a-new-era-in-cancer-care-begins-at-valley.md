@@ -103,7 +103,7 @@ topics:
 - Health Care
 - Mental Health & Counseling
 images:
-- 22aa4dca6796ad61bc137e90827e84f47400858089c8053cea390040ad907800
+- f8fe759c274e9c1552d9a7938bd837a6c7ad3137a5aae5317d1c7c0d7e815a72
 ---
 
 February 3, 2025, marks the opening of Phase One of Valley Medical Center's new comprehensive Cancer Center in South King County, designed to accommodate 40% more patients. This state-of-the-art facility will centralize nationally recognized cancer programs and services, providing patients with convenient access to advanced treatment options without the need to travel to Seattle or Tacoma. The region has seen a 25% increase in cancer patients over the past five years, emphasizing the need for localized care.

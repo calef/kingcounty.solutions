@@ -19,13 +19,23 @@ original_content: |-
   <div style="text-align: center;">Please contact the CDHY Interpreter Hub Coordinator with any questions<br />
   Melissa Klindtworth | <a title="mailto:Melissa.klindtworth@cdhy.wa.gov" href="mailto:Melissa.klindtworth@cdhy.wa.gov" data-ogsc="">Melissa.klindtworth@cdhy.wa.gov</a> | 360.952.2906</div>
   <div></div>
-original_markdown_body: "![Educational Interpreter Hub. January 2025 professional development flyer.](https://www.cdhy.wa.gov/wp-content/uploads/2024/12/Ed.-Interpreter-Hub-December-2024-1.png)\n\n**2025 is here!**\n\n**Thinking about starting the new year off with some professional Development?**\n\n&nbsp;\n\nEvery month we bring new opportunities for PD in the Educational Interpreter Community! We are excited to announce some wonderful opportunities provided to you for January by the CDHY Educational Interpreter HUB. Make time to meet with a mentor and set goals for 2025!  \n**[JANUARY REGISTATION HERE](https://docs.google.com/forms/d/e/1FAIpQLSez0r2Aa4HANWEL_mZ6HqccskNVNZwxPdf6MdDY6X9j0DXFNg/viewform?usp=sf_link)**\n\nPlease register BEFORE FRIDAY, DECEMBER 27<sup>TH</sup>\n\nRegistration will close at noon\n\n* * *\n\nPlease contact the CDHY Interpreter Hub Coordinator with any questions  \nMelissa Klindtworth | [Melissa.klindtworth@cdhy.wa.gov](mailto:Melissa.klindtworth@cdhy.wa.gov \"mailto:Melissa.klindtworth@cdhy.wa.gov\") | 360.952.2906"
+original_markdown_body: "![Educational Interpreter Hub. January 2025 professional
+  development flyer.](https://www.cdhy.wa.gov/wp-content/uploads/2024/12/Ed.-Interpreter-Hub-December-2024-1.png)\n\n**2025
+  is here!**\n\n**Thinking about starting the new year off with some professional
+  Development?**\n\n&nbsp;\n\nEvery month we bring new opportunities for PD in the
+  Educational Interpreter Community! We are excited to announce some wonderful opportunities
+  provided to you for January by the CDHY Educational Interpreter HUB. Make time to
+  meet with a mentor and set goals for 2025!  \n**[JANUARY REGISTATION HERE](https://docs.google.com/forms/d/e/1FAIpQLSez0r2Aa4HANWEL_mZ6HqccskNVNZwxPdf6MdDY6X9j0DXFNg/viewform?usp=sf_link)**\n\nPlease
+  register BEFORE FRIDAY, DECEMBER 27<sup>TH</sup>\n\nRegistration will close at noon\n\n*
+  * *\n\nPlease contact the CDHY Interpreter Hub Coordinator with any questions  \nMelissa
+  Klindtworth | [Melissa.klindtworth@cdhy.wa.gov](mailto:Melissa.klindtworth@cdhy.wa.gov
+  \"mailto:Melissa.klindtworth@cdhy.wa.gov\") | 360.952.2906"
 summarized: true
 topics:
 - Education & Learning
 - Disabilities
 images:
-- d5eab973d9ef4e3280d3e8dff8dc0a3e3a84eb1ddd36fc4f10662c2a2380f542
+- 578770021a803316de59d7a8bc1a7a0929f139c4aa0a4c4acc4991484aee5854
 ---
 
 The CDHY Educational Interpreter Hub is offering professional development (PD) opportunities for the educational interpreter community in January 2025. Participants are encouraged to meet with mentors and set goals for the new year. Registration for these offerings must be completed before Friday, December 27th, with a deadline set for noon on that day. For any inquiries, individuals can reach out to the CDHY Interpreter Hub Coordinator, Melissa Klindtworth, via email or phone.

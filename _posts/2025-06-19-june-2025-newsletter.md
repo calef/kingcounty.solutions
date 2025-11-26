@@ -33,7 +33,7 @@ summarized: true
 topics:
 - Food & Nutrition
 images:
-- 4e107137a87c4ab75fca508e08ee8e119d735a535870a55baa970a08a4f2650f
+- a46f0924a6d1d59e9d223eb958b4d89497fe136dea30997eb03be40d97697d42
 ---
 
 The June 2025 newsletter has been released, featuring updates and announcements. Desiree Swanson is the author of the newsletter, which highlights the ongoing Summer Food Drive, encouraging community participation. Additional previous newsletters, including the May 2025 edition, are also mentioned, indicating a continuous effort to keep the community informed and engaged. The newsletter serves as a resource for sharing important information and fostering community involvement in local initiatives.

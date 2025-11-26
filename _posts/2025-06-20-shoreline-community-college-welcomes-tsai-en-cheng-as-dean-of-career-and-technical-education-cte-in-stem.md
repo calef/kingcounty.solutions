@@ -26,7 +26,7 @@ topics:
 - Education & Learning
 - Employment & Job Support
 images:
-- b20fc3a9c4fae4fdf58b4baef7a9df303e160fb012792c61d49ea3e4c483ae0c
+- 54982d8028c73f48580ca8fa9d4af40902edf92e582affa63f1c2c72433b8ccc
 ---
 
 Shoreline Community College has appointed Tsai-En Cheng as the new Dean of Career and Technical Education (CTE) in STEM, effective September 1, 2025. Cheng brings over 20 years of leadership experience in higher education and workforce development, recognized for her student-centered and equity-driven approach. Previously, she served as Dean of Branch Locations for Academic and Program Development and Interim Dean of Instruction at Green River College, overseeing a range of credit and non-credit programs. Under her leadership, programs in cybersecurity, aviation, software development, and nursing were expanded to meet regional workforce demands.

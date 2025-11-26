@@ -34,7 +34,7 @@ topics:
 - Health Care
 - Mental Health & Counseling
 images:
-- 8878526434ef6cb16924221c4c2fe3d0bcfeacdd951a1534d69a02b46fe35b28
+- b9e18bd01c9e1a375f9b745e9927f053c0d8d0d05b3f974d18d8e2120ad76f91
 ---
 
 In the July 2025 newsletter, Desiree Swanson highlights important upcoming events and topics of interest. The newsletter emphasizes the organization's Annual Benefit, inviting community members to participate. Additionally, it features a local student's perspective on the concept of healthcare as a human right, reflecting on personal experiences and opinions regarding access to medical services. The newsletter serves as a platform for sharing community insights and promoting active engagement in healthcare discussions.

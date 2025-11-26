@@ -153,8 +153,8 @@ summarized: true
 topics:
 - Food & Nutrition
 images:
-- 0ab726bd9961f0c7ea494176e557e12ee57966d82152fe4c13982ccac9c76193
-- 65bc26342a888368a43ef8b778c027f5a91dcb354589f3f055e3351e8956868c
+- 88660ade4a815d9648d123543b5a045730a57f38504cccd2bb63e5b723579675
+- a7b66aded8d7ae566ec714030120d89f446be8adfcefe0a5ac21337cae92e874
 ---
 
 Every other Thursday, Sarada eagerly awaits the delivery of meals from Eileen, her driver from Catholic Community Services (CCS). This service, known as Home Delivered Meals, has been crucial for Sarada and many seniors, providing not just food but also companionship and dignity. Following a serious heart condition that forced her into early retirement, Sarada struggled with daily tasks and nutrition. After surgery, she reached out to her insurance caseworker, who connected her to CCS for meal assistance. 

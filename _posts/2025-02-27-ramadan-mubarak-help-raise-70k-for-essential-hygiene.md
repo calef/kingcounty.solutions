@@ -48,7 +48,7 @@ topics:
 - Personal & Household Needs
 - Financial Assistance
 images:
-- '0443358167b61682d49198c73396e7d632dbe2fe5f30cdc4abb0850d204ac383'
+- 4b128c252aeeebe6e8cb6631b110a7eb94449d872fa42f34263baa45d31596a2
 ---
 
 Ramadan Mubarak! Essentials First is launching a fundraising campaign to raise $70,000 for essential hygiene supplies and culturally appropriate food for those in need during Ramadan. Many of the organization's clients are immigrants and refugees striving for a better life. At the new location in Kent, over 90% of clients in 2024 were refugees or asylum seekers. The initiative encourages the community to welcome these new neighbors with dignity. Contributions made are eligible for Sadaqa and Zakat and will directly support programs that assist local community members.

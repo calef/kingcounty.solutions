@@ -200,10 +200,10 @@ topics:
 - Health Care
 - Education & Learning
 images:
-- e4752450068e6d6e5a16447b5acc3fab16568a0dd33500a2caf5b9d764fc3b4b
-- 5e2eecd254731fdc355d52038468923ccca3b49e37bc74a7bacb379337807bed
-- 6698497ca8ae4f28161a8a4562772f8a3d62146095970c720afc53ad7dd0434c
-- 57c24f153f36e4f1f471466fd8ae91eef0fcc8257666c9e5cc503922d4e7118a
+- 9f7ce5e2d5fa9ff65d4d1461e6f243125e6e78bc665a8e47e1ce34658563be32
+- 50184272493ba42cbdc505429f4dc3bc4c447f968f8dfde3d8b2fb41ec74fae2
+- 9e9d4937681200cc8a35e4b67219a4b6b66cd5030a81761e275eb2968bea6376
+- 7ce4a8c04aea13b425ca379f41ff5337fd3c64a2f3cf493432b71af42b8c9361
 ---
 
 On September 19, 2025, Mary’s Place and Mercy Housing Northwest broke ground on a transformative campus in Burien, designed to provide emergency family shelter alongside permanently affordable housing. This initiative aims to address family homelessness through a model that combines immediate shelter, long-term housing options, and supportive services, all informed by community input. The project will feature a shelter capable of housing up to 200 individuals each night, with private rooms and access to on-site services including health care, education, and community-building programs. Recreational facilities will include a mini soccer pitch and a basketball half-court, fostering a supportive community environment.

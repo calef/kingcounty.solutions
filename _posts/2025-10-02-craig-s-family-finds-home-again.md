@@ -81,7 +81,7 @@ topics:
 - Financial Assistance
 - Childcare
 images:
-- 0f131679ad481b23e7f68a57802b05311021625115a470b92c0871f6bae419af
+- 75a1637b9041eba2a14a5983c17a7af3fa77b5a38c627baafa06484ca9e6a25f
 ---
 
 Craig's life changed dramatically when severe water damage rendered his apartment unlivable, forcing him and his two children, Tanner and Ellie, out of their home. The family lost many cherished belongings and faced significant housing debt, leading them to a difficult period of instability. They moved between hotels, stayed with friends, and eventually slept in their car, struggling to stay warm and safe. Despite holding a full-time job, Craig’s income was too high for low-income housing assistance, yet insufficient for market-rate apartments, leaving him feeling stuck and desperate.

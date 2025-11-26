@@ -39,7 +39,7 @@ topics:
 - Shelter & Housing
 - Transportation & Mobility
 images:
-- a209dddfa74a0a786025a429e418d990568859b8f2c6770916a965752deadcc7
+- 7b3cabbdcdd526cb40e87ae58c6ee80f333272592f7cbbe1b7b7cb9a12d9eb3e
 ---
 
 At Mercy Housing California, The Kelsey Civic Center is a newly developed community recognized as a finalist for Affordable Housing Finance’s Readers’ Choice Awards in the Urban category. This innovative facility prioritizes accessibility and inclusion, featuring an onsite Inclusion Concierge team to support diverse resident needs. Located in a city celebrated for its commitment to sustainability and disability justice, The Kelsey Civic Center symbolizes these values. Resident Rory shares his positive experience, highlighting the community's friendly atmosphere and the opportunity for personal growth. He appreciates the location, which offers scenic views and proximity to public transit, and he values the friendships he has formed with neighbors of varying abilities. Rory's sentiments reflect the community's mission to foster inclusive environments where everyone feels a sense of belonging.

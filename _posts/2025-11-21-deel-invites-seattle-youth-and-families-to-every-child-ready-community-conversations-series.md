@@ -25,7 +25,7 @@ topics:
 - Childcare
 - Education & Learning
 images:
-- b5bbbb0a38a83493dd24ae98066ee8697ca14483845abc9afcb9ebfcfe9e47b2
+- 3e404e22ddd6b391f9112923e4162036f066abb8305d8a5a17713490152462da
 ---
 
 The Seattle Department of Education & Early Learning (DEEL) is hosting a series of Community Conversations in December to discuss the renewal of the Families, Education, Preschool & Promise Levy (FEPP). This initiative is part of a six-year spending plan set to begin in 2026, aimed at supporting children, youth, and families in Seattle. The events will cover planned investments in childcare and education, offering families an opportunity to express their priorities. 

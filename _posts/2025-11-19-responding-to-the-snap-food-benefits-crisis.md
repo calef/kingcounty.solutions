@@ -106,8 +106,8 @@ summarized: true
 topics:
 - Food & Nutrition
 images:
-- fcdf3c354eb6ec68a97eb037b1c2733d16fa84d501beedf8ff16ebcb6baa1736
-- 594583f6a77d95ff22fc084dae967ec07f33c23daf6806234bac088ad427f169
+- a90c93666fcded22afcfba601aa0f7346b83cbaec77c035978fdf7c2071c336f
+- 38fede4aaf8df686a831932b028eca13dbf02cd66dfc37c2de038890cb9f677b
 ---
 
 For about 12 days in November 2025, over half a million families in Washington state faced uncertainty regarding their food security as payments from the Supplemental Nutrition Assistance Program (SNAP) were halted. Fortunately, following the reopening of the federal government on November 12, the Department of Social and Health Services resumed monthly payments. In response to the crisis, Solid Ground mobilized quickly, supporting local food banks through real-time assessments and emergency funding, distributing grocery store gift cards to residents, coordinating shuttle services to grocery stores, and providing nonperishable food supplies.

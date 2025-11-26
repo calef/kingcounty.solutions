@@ -118,8 +118,8 @@ topics:
 - Employment & Job Support
 - Mental Health & Counseling
 images:
-- f67f0d82e2397c14fcd99b3f3bbe15d17c797b5bccb0aa2f936d871362310c97
-- 13304ed1807dafbe9b4c409ea11a36ee38cc6e212d6856a85fc168a08439afe9
+- 535bbe53ed15a2bde96361a1153c8db599dd68fe0b042b9fb4aac2592cf2dd8b
+- a24e8c0b4775c492b00e222b07f97abfaf73d90c36be58585dc4491fbcd53500
 ---
 
 Pamela, a dedicated advocate for military families, shares her passion for giving back through her work with Operation Homefront. With a rich military background—both her grandparents served in the Navy, and her parents were Marine Corps drill instructors—Pamela joined the Air Force after high school but faced a life-altering setback when she was medically separated due to injuries. As a military spouse and caregiver, she understands the struggles that service members and their families face. 
