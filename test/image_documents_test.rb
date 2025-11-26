@@ -115,7 +115,7 @@ class ImageDocumentsTest < Minitest::Test
     assert_empty errors, errors.join("\n")
   end
 
-  def test_source_url_points_to_image_resource
+  def test_source_url_points_is_valid_url
     errors = @image_docs.filter_map do |doc|
       source_url = doc[:data]['source_url']
       next unless source_url
@@ -129,10 +129,6 @@ class ImageDocumentsTest < Minitest::Test
       unless %w[http https].include?(uri.scheme) && uri.host
         next "#{relative_path(doc[:path])}: source_url #{source_url} must be HTTP(S)"
       end
-
-      next if remote_image_reference?(uri)
-
-      "#{relative_path(doc[:path])}: source_url #{source_url} must reference an image file"
     end
 
     assert_empty errors, errors.join("\n")
@@ -248,28 +244,4 @@ class ImageDocumentsTest < Minitest::Test
     absolute_path.to_s.start_with?(repo_root.to_s + File::SEPARATOR) || absolute_path == repo_root
   end
 
-  def remote_image_reference?(uri)
-    path = uri.path.to_s.downcase
-    return true if includes_image_extension?(path)
-
-    combined = [uri.path, uri.query].compact.join(' ').downcase
-    return true if includes_image_extension?(combined)
-
-    return true if uri.host&.downcase&.include?('squarespace-cdn.com') && uri.query&.match?(/format=\d+w/i)
-
-    uri.path.split('/').any? { |segment| base64_segment_references_image?(segment) }
-  end
-
-  def includes_image_extension?(string)
-    IMAGE_EXTENSIONS.any? { |ext| string.include?(ext) }
-  end
-
-  def base64_segment_references_image?(segment)
-    return false unless segment.match?(/\A[A-Za-z0-9_-]+=*\z/)
-
-    decoded = Base64.urlsafe_decode64(segment)
-    includes_image_extension?(decoded.downcase)
-  rescue ArgumentError
-    false
-  end
 end

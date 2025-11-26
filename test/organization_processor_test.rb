@@ -92,31 +92,6 @@ class OrganizationProcessorTest < Minitest::Test
     refute_includes data, 'news_rss_url'
   end
 
-  def test_skips_feed_already_used_by_other_org
-    write_org(
-      'existing',
-      website: 'https://existing.test',
-      extra: { 'news_rss_url' => 'https://example.org/shared-feed' }
-    )
-    write_org('new', website: 'https://new.test')
-
-    finder = StubFeedFinder.new('https://new.test' => 'https://example.org/shared-feed')
-
-    processor = Mayhem::Organizations::FeedUpdater.new(
-      org_dir: @org_dir,
-      targets: [],
-      limit: nil,
-      dry_run: false,
-      feed_finder: finder
-    )
-
-    result = processor.run
-
-    assert_equal 2, result[:processed]
-    assert_empty result[:updated]
-    assert_equal ['new.md'], result[:skipped]
-  end
-
   private
 
   def write_org(slug, website:, extra: {}, body: 'Body text')

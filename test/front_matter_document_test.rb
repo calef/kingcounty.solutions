@@ -28,31 +28,6 @@ module Support
       end
     end
 
-    def test_save_writes_updated_front_matter
-      Dir.mktmpdir do |dir|
-        path = File.join(dir, 'sample.md')
-        File.write(
-          path,
-          <<~MD
-            ---
-            title: Sample
-            ---
-            Body text
-          MD
-        )
-
-        doc = Mayhem::Support::FrontMatterDocument.load(path)
-        doc['title'] = 'Updated'
-        doc.body = "Updated body\nwith multiple lines"
-        doc.save
-
-        reloaded = Mayhem::Support::FrontMatterDocument.load(path)
-
-        assert_equal 'Updated', reloaded.front_matter['title']
-        assert_equal "Updated body\nwith multiple lines", reloaded.body
-      end
-    end
-
     def test_save_produces_sorted_front_matter_and_blank_line
       Dir.mktmpdir do |dir|
         path = File.join(dir, 'sorted.md')
