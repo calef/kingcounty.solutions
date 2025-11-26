@@ -14,7 +14,8 @@ Utility commands that automate content imports, auditing, and metadata maintenan
 | `list-openai-models` | Lists available OpenAI model IDs for the current API key. |
 | `summarize-news` | Fetches source articles for `_posts/` entries missing summaries, stores the original body, and writes an AI summary. |
 | `summarize-topics` | Generates short descriptions for topic pages that lack an editorial summary. |
-| `update-news-rss` | Crawls organization websites to locate RSS/Atom feeds and saves them back to `news_rss_url`. |
+| `update-organization-feed-urls` | Crawls organization websites to locate RSS/Atom and iCal feeds, updating `news_rss_url` and `events_ical_url`. |
+| `tidy-frontmatter` | Normalizes Markdown front matter (sorted keys, consistent delimiters, and tidy spacing between the delimiter and body). |
 
 > Many scripts call the OpenAI API; export `OPENAI_API_KEY` before using them.
 
@@ -201,14 +202,14 @@ Generates a short, resident-friendly description for each `_topics/*.md` file th
 - Prompts the LLM for a single paragraph of ≤50 words and enforces the word budget by retrying up to three times.
 - Stores the previous body under `original_topic_body` before overwriting it with the generated summary and marks `topic_summary_generated: true`.
 
-### `update-news-rss`
+### `update-organization-feed-urls`
 
 **Purpose**  
-Locates RSS/Atom feeds for organizations that have a `website` but no `news_rss_url`, using heuristics over the HTML, `<link rel="alternate">` tags, common “/feed” conventions, and secondary “news/blog” pages. Writes the discovered feed URL back to the organization’s front matter.
+Locates RSS/Atom and iCal feeds for organizations that have a `website` but are missing either `news_rss_url` or `events_ical_url`, using heuristics over the HTML, `<link rel="alternate">` tags, common “/feed” conventions, and secondary “news/blog”/calendar pages. Writes any newly discovered URLs back to the organization’s front matter; skips files that already expose both fields.
 
 **Usage**
 
-- `bin/update-news-rss`
+- `bin/update-organization-feed-urls`
 
 **Key env/config**
 
@@ -222,4 +223,19 @@ Locates RSS/Atom feeds for organizations that have a `website` but no `news_rss_
 
 - Applies custom request headers, trims downloads (`HTML_MAX_BYTES`, `FEED_MAX_BYTES`), sleeps briefly between fetches, and ignores obvious comment feeds.
 - If no feed is embedded on the homepage it probes the highest-scoring “secondary pages” (links mentioning news/blog/press/etc.) before giving up.
-- Logs INFO-level progress as organizations are processed along with a final summary listing each discovered feed.
+- Updates either `news_rss_url` or `events_ical_url` (or both) with the newly discovered URLs and skips organizations that already expose both fields; logs INFO-level progress as organizations are processed along with a final summary listing each feed type it wrote.
+
+### `tidy-frontmatter`
+
+**Purpose**  
+Enforces a tidy YAML front-matter block for Markdown files so other scripts can process a consistent format.
+
+**Usage**
+
+- `bin/tidy-frontmatter PATH...`
+
+**Behavior notes**
+
+- `PATH` accepts a single Markdown file or directory; directories are processed recursively.
+- The tidier sorts YAML keys alphabetically, trims duplicate delimiters, and leaves a single blank line between the closing `---` and the Markdown body.
+- Runs via `Mayhem::FrontMatterTidier`, so other scripts can call `tidy_markdown` before writing Markdown files.
