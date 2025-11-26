@@ -1,7 +1,6 @@
 # frozen_string_literal: true
 
 require 'yaml'
-require 'thread'
 
 module Mayhem
   module Support
@@ -43,10 +42,10 @@ module Mayhem
       def load_file
         return {} unless File.exist?(@path)
 
-        data = YAML.safe_load(File.read(@path))
+        data = YAML.safe_load_file(@path)
         data.is_a?(Hash) ? data : {}
       rescue StandardError => e
-        @logger&.warn("Failed to load checksum file #{@path}: #{e.message}") if @logger
+        @logger&.warn("Failed to load checksum file #{@path}: #{e.message}")
         {}
       end
     end

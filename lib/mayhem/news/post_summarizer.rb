@@ -41,7 +41,7 @@ module Mayhem
       private
 
       def load_topics
-        Dir.glob(File.join(@topic_dir, '*.md')).sort.filter_map do |path|
+        Dir.glob(File.join(@topic_dir, '*.md')).filter_map do |path|
           doc = Mayhem::Support::FrontMatterDocument.load(path, logger: @logger)
           next unless doc
 
@@ -86,7 +86,12 @@ module Mayhem
           article_text = article_text[0, MAX_ARTICLE_CHARS]
         end
 
-        summary_text = needs_summary ? generate_summary(article_text, source_url, file_path, stats) : document.body&.strip
+        summary_text = if needs_summary
+                         generate_summary(article_text, source_url, file_path,
+                                          stats)
+                       else
+                         document.body&.strip
+                       end
         return if needs_summary && (summary_text.nil? || summary_text.empty?)
 
         front_matter['original_markdown_body'] ||= document.body&.strip if needs_summary
@@ -195,7 +200,8 @@ module Mayhem
               parameters: {
                 model: DEFAULT_TOPIC_MODEL,
                 messages: [
-                  { role: 'system', content: 'You are a precise classification assistant who responds with JSON arrays.' },
+                  { role: 'system',
+                    content: 'You are a precise classification assistant who responds with JSON arrays.' },
                   { role: 'user', content: prompt }
                 ],
                 temperature: 0.2

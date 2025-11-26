@@ -3,7 +3,6 @@
 require 'json'
 require 'yaml'
 require 'fileutils'
-require 'set'
 require_relative '../logging'
 require_relative '../support/front_matter_document'
 
@@ -58,7 +57,7 @@ module Mayhem
       private
 
       def load_topics
-        Dir.glob(File.join(@topic_dir, '*.md')).sort.each_with_object({}) do |path, acc|
+        Dir.glob(File.join(@topic_dir, '*.md')).each_with_object({}) do |path, acc|
           document = Mayhem::Support::FrontMatterDocument.load(path, logger: @logger)
           next unless document
 
@@ -72,7 +71,7 @@ module Mayhem
       end
 
       def load_organizations
-        Dir.glob(File.join(@org_dir, '*.md')).sort.filter_map do |path|
+        Dir.glob(File.join(@org_dir, '*.md')).filter_map do |path|
           document = Mayhem::Support::FrontMatterDocument.load(path, logger: @logger)
           next unless document
 
@@ -89,7 +88,7 @@ module Mayhem
       end
 
       def load_recent_posts(org_title)
-        Dir.glob(File.join(@posts_dir, '**', '*.md')).sort.filter_map do |path|
+        Dir.glob(File.join(@posts_dir, '**', '*.md')).filter_map do |path|
           document = Mayhem::Support::FrontMatterDocument.load(path, logger: @logger)
           next unless document
 
@@ -261,8 +260,8 @@ module Mayhem
       def print_report
         @report.each do |entry|
           @logger.info "== #{entry[:org]} =="
-          @logger.info "Add:" + (entry[:additions].empty? ? ' (none)' : " #{entry[:additions].join(', ')}")
-          @logger.info "Remove:" + (entry[:removals].empty? ? ' (none)' : " #{entry[:removals].join(', ')}")
+          @logger.info "Add:#{entry[:additions].empty? ? ' (none)' : " #{entry[:additions].join(', ')}"}"
+          @logger.info "Remove:#{entry[:removals].empty? ? ' (none)' : " #{entry[:removals].join(', ')}"}"
           @logger.info "Unclear: #{entry[:unclear].join(', ')}" unless entry[:unclear].empty?
           @logger.info "Notes: #{entry[:notes]}" if entry[:notes]
         end

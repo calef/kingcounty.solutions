@@ -1,6 +1,5 @@
 # frozen_string_literal: true
 
-require 'set'
 require 'uri'
 require 'yaml'
 require 'test_helper'
@@ -80,7 +79,7 @@ class OrganizationsFrontMatterTest < Minitest::Test
       errors << "#{doc[:path]} has unsupported fields: #{extra_fields.join(', ')}"
     end
 
-    assert errors.empty?, "Unexpected front matter fields:\n#{errors.join("\n")}"
+    assert_empty errors, "Unexpected front matter fields:\n#{errors.join("\n")}"
   end
 
   def test_title_is_present_and_unique
@@ -102,7 +101,7 @@ class OrganizationsFrontMatterTest < Minitest::Test
       errors << "title '#{title}' appears in #{paths.join(', ')}"
     end
 
-    assert errors.empty?, "Title issues:\n#{errors.join("\n")}"
+    assert_empty errors, "Title issues:\n#{errors.join("\n")}"
   end
 
   def test_website_is_present_valid_and_unique
@@ -115,9 +114,7 @@ class OrganizationsFrontMatterTest < Minitest::Test
         errors << "#{doc[:path]} missing required website"
         next
       end
-      unless valid_url?(website)
-        errors << "#{doc[:path]} has invalid website URL: #{website}"
-      end
+      errors << "#{doc[:path]} has invalid website URL: #{website}" unless valid_url?(website)
 
       normalized = website.strip.downcase
       if seen.key?(normalized)
@@ -127,7 +124,7 @@ class OrganizationsFrontMatterTest < Minitest::Test
       end
     end
 
-    assert errors.empty?, "Website issues:\n#{errors.join("\n")}"
+    assert_empty errors, "Website issues:\n#{errors.join("\n")}"
   end
 
   def test_acronym_if_present_is_uppercase_abbreviation
@@ -137,18 +134,19 @@ class OrganizationsFrontMatterTest < Minitest::Test
       acronym = value_as_string(doc, 'acronym')
       next if acronym.nil?
 
-      unless acronym.match?(/\A[A-Z0-9][A-Z0-9.&()\/-]*(?: [A-Z0-9][A-Z0-9.&()\/-]*)*\z/)
+      unless acronym.match?(%r{\A[A-Z0-9][A-Z0-9.&()/-]*(?: [A-Z0-9][A-Z0-9.&()/-]*)*\z})
         errors << "#{doc[:path]} acronym '#{acronym}' is not an uppercase abbreviation"
       end
 
       title = value_as_string(doc, 'title')
       next unless title
+
       if acronym.length >= title.length
         errors << "#{doc[:path]} acronym '#{acronym}' should be shorter than the title '#{title}'"
       end
     end
 
-    assert errors.empty?, "Acronym issues:\n#{errors.join("\n")}"
+    assert_empty errors, "Acronym issues:\n#{errors.join("\n")}"
   end
 
   def test_address_if_present_resembles_usable_us_address
@@ -163,7 +161,7 @@ class OrganizationsFrontMatterTest < Minitest::Test
       end
     end
 
-    assert errors.empty?, "Address issues:\n#{errors.join("\n")}"
+    assert_empty errors, "Address issues:\n#{errors.join("\n")}"
   end
 
   def test_email_if_present_is_unique_and_valid
@@ -174,9 +172,7 @@ class OrganizationsFrontMatterTest < Minitest::Test
       email = value_as_string(doc, 'email')
       next if email.nil?
 
-      unless email.match?(URI::MailTo::EMAIL_REGEXP)
-        errors << "#{doc[:path]} email '#{email}' is not a valid address"
-      end
+      errors << "#{doc[:path]} email '#{email}' is not a valid address" unless email.match?(URI::MailTo::EMAIL_REGEXP)
 
       normalized = email.downcase
       if seen.key?(normalized)
@@ -186,7 +182,7 @@ class OrganizationsFrontMatterTest < Minitest::Test
       end
     end
 
-    assert errors.empty?, "Email issues:\n#{errors.join("\n")}"
+    assert_empty errors, "Email issues:\n#{errors.join("\n")}"
   end
 
   def test_events_ical_url_if_present_is_valid_and_unique
@@ -197,9 +193,7 @@ class OrganizationsFrontMatterTest < Minitest::Test
       url = value_as_string(doc, 'events_ical_url')
       next if url.nil?
 
-      unless valid_url?(url)
-        errors << "#{doc[:path]} events_ical_url '#{url}' is not a valid URL"
-      end
+      errors << "#{doc[:path]} events_ical_url '#{url}' is not a valid URL" unless valid_url?(url)
 
       normalized = url.strip.downcase
       if seen.key?(normalized)
@@ -209,7 +203,7 @@ class OrganizationsFrontMatterTest < Minitest::Test
       end
     end
 
-    assert errors.empty?, "events_ical_url issues:\n#{errors.join("\n")}"
+    assert_empty errors, "events_ical_url issues:\n#{errors.join("\n")}"
   end
 
   def test_jurisdictions_are_present_and_reference_known_places
@@ -229,7 +223,7 @@ class OrganizationsFrontMatterTest < Minitest::Test
       end
     end
 
-    assert errors.empty?, "Jurisdiction issues:\n#{errors.join("\n")}"
+    assert_empty errors, "Jurisdiction issues:\n#{errors.join("\n")}"
   end
 
   def test_news_rss_url_if_present_is_valid
@@ -242,7 +236,7 @@ class OrganizationsFrontMatterTest < Minitest::Test
       errors << "#{doc[:path]} news_rss_url '#{url}' is not a valid URL" unless valid_url?(url)
     end
 
-    assert errors.empty?, "news_rss_url issues:\n#{errors.join("\n")}"
+    assert_empty errors, "news_rss_url issues:\n#{errors.join("\n")}"
   end
 
   def test_parent_organization_if_present_matches_existing_title
@@ -258,12 +252,10 @@ class OrganizationsFrontMatterTest < Minitest::Test
       end
 
       title = value_as_string(doc, 'title')
-      if title && title == parent
-        errors << "#{doc[:path]} parent_organization must not reference itself"
-      end
+      errors << "#{doc[:path]} parent_organization must not reference itself" if title && title == parent
     end
 
-    assert errors.empty?, "parent_organization issues:\n#{errors.join("\n")}"
+    assert_empty errors, "parent_organization issues:\n#{errors.join("\n")}"
   end
 
   def test_phone_if_present_is_unique_and_resembles_number
@@ -274,11 +266,9 @@ class OrganizationsFrontMatterTest < Minitest::Test
       phone = value_as_string(doc, 'phone')
       next if phone.nil?
 
-      unless phone.match?(/\d/)
-        errors << "#{doc[:path]} phone '#{phone}' must contain digits"
-      end
+      errors << "#{doc[:path]} phone '#{phone}' must contain digits" unless phone.match?(/\d/)
 
-      unless phone.match?(/\A[0-9A-Za-z+().\-\s\/]*?(?:ext[:.]?\s?\d+|x\d+)?\z/)
+      unless phone.match?(%r{\A[0-9A-Za-z+().\-\s/]*?(?:ext[:.]?\s?\d+|x\d+)?\z})
         errors << "#{doc[:path]} phone '#{phone}' contains unsupported characters"
       end
 
@@ -292,7 +282,7 @@ class OrganizationsFrontMatterTest < Minitest::Test
       end
     end
 
-    assert errors.empty?, "Phone issues:\n#{errors.join("\n")}"
+    assert_empty errors, "Phone issues:\n#{errors.join("\n")}"
   end
 
   def test_topics_if_present_reference_known_topics
@@ -301,6 +291,7 @@ class OrganizationsFrontMatterTest < Minitest::Test
     organizations.each do |doc|
       topics_value = doc[:data]['topics']
       next if topics_value.nil?
+
       unless topics_value.is_a?(Array) && topics_value.all? { |topic| topic.is_a?(String) }
         errors << "#{doc[:path]} topics must be a list of strings"
         next
@@ -311,7 +302,7 @@ class OrganizationsFrontMatterTest < Minitest::Test
       end
     end
 
-    assert errors.empty?, "Topic issues:\n#{errors.join("\n")}"
+    assert_empty errors, "Topic issues:\n#{errors.join("\n")}"
   end
 
   def test_type_is_present_and_capitalized_words
@@ -327,7 +318,7 @@ class OrganizationsFrontMatterTest < Minitest::Test
       errors << "#{doc[:path]} type '#{type}' must be capitalized words" unless type.match?(TYPE_PATTERN)
     end
 
-    assert errors.empty?, "Type issues:\n#{errors.join("\n")}"
+    assert_empty errors, "Type issues:\n#{errors.join("\n")}"
   end
 
   def test_type_is_an_allowed_value
@@ -341,7 +332,7 @@ class OrganizationsFrontMatterTest < Minitest::Test
       errors << "#{doc[:path]} type '#{type}' is not in the allowed list: #{ALLOWED_TYPES.join(', ')}"
     end
 
-    assert errors.empty?, "Type whitelist issues:\n#{errors.join("\n")}"
+    assert_empty errors, "Type whitelist issues:\n#{errors.join("\n")}"
   end
 
   def test_events_ical_url_news_rss_url_and_website_are_http_or_https
@@ -352,6 +343,7 @@ class OrganizationsFrontMatterTest < Minitest::Test
       fields.each do |field|
         url = value_as_string(doc, field)
         next if url.nil?
+
         uri = parse_uri(url)
         next if uri && %w[http https].include?(uri.scheme)
 
@@ -359,7 +351,7 @@ class OrganizationsFrontMatterTest < Minitest::Test
       end
     end
 
-    assert errors.empty?, "URL scheme issues:\n#{errors.join("\n")}"
+    assert_empty errors, "URL scheme issues:\n#{errors.join("\n")}"
   end
 
   private
@@ -367,7 +359,7 @@ class OrganizationsFrontMatterTest < Minitest::Test
   attr_reader :organizations, :organization_titles, :places, :topics
 
   def load_documents(glob)
-    Dir[glob].sort.map do |path|
+    Dir[glob].map do |path|
       { path: path, data: read_front_matter(path) }
     end
   end
@@ -399,7 +391,7 @@ class OrganizationsFrontMatterTest < Minitest::Test
 
   def valid_url?(value)
     uri = parse_uri(value)
-    uri && uri.host && %w[http https].include?(uri.scheme)
+    uri&.host && %w[http https].include?(uri.scheme)
   end
 
   def parse_uri(value)
@@ -410,6 +402,7 @@ class OrganizationsFrontMatterTest < Minitest::Test
 
   def valid_street_address?(value)
     return false unless value.match?(/\d/)
+
     has_state = value.match?(STATE_ABBREVIATION_REGEX) || value.match?(STATE_NAME_REGEX)
     has_zip = value.match?(/\b\d{5}(?:-\d{4})?\b/)
     has_city_separator = value.include?(',')

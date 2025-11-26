@@ -48,12 +48,14 @@ module News
 
         document = Mayhem::Support::FrontMatterDocument.load(post_path)
         checksums = document.front_matter['images']
+
         refute_nil checksums
         assert_equal 1, checksums.length
 
         checksum = Digest::SHA256.hexdigest('image-data')
         image_doc_path = File.join(images_dir, "#{checksum}.md")
-        assert File.exist?(image_doc_path), 'expected image document to be created'
+
+        assert_path_exists image_doc_path, 'expected image document to be created'
       end
     end
   end

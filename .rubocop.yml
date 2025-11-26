@@ -1,5 +1,4 @@
-require:
+plugins:
   - rubocop-minitest
-
 AllCops:
   NewCops: enable

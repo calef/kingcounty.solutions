@@ -14,10 +14,22 @@ module Mayhem
       IMAGE_DOCS_DIR = '_images'
       POSTS_DIR = '_posts'
       IMAGE_ASSET_DIR = File.join('assets', 'images')
-      DEFAULT_OPEN_TIMEOUT = Integer(ENV.fetch('IMAGE_OPEN_TIMEOUT', '10')) rescue 10
-      DEFAULT_READ_TIMEOUT = Integer(ENV.fetch('IMAGE_READ_TIMEOUT', '30')) rescue 30
+      DEFAULT_OPEN_TIMEOUT = begin
+        Integer(ENV.fetch('IMAGE_OPEN_TIMEOUT', '10'))
+      rescue StandardError
+        10
+      end
+      DEFAULT_READ_TIMEOUT = begin
+        Integer(ENV.fetch('IMAGE_READ_TIMEOUT', '30'))
+      rescue StandardError
+        30
+      end
       RASTER_EXTENSIONS = %w[.jpg .jpeg .png .gif .bmp .tif .tiff].freeze
-      MIN_IMAGE_DIMENSION = Integer(ENV.fetch('IMAGE_MIN_DIMENSION', '300')) rescue 300
+      MIN_IMAGE_DIMENSION = begin
+        Integer(ENV.fetch('IMAGE_MIN_DIMENSION', '300'))
+      rescue StandardError
+        300
+      end
 
       attr_reader :logger
 
@@ -42,7 +54,7 @@ module Mayhem
       def run
         cache = {}
         stats = Hash.new(0)
-        Dir.glob(File.join(@posts_dir, '*.md')).sort.each do |path|
+        Dir.glob(File.join(@posts_dir, '*.md')).each do |path|
           process_post(path, cache, stats)
         end
         log_summary(stats)
@@ -141,9 +153,8 @@ module Mayhem
           end
 
           converted_data, converted_ext = convert_to_webp(downloaded[:data], downloaded[:ext], img[:url])
-          if converted_ext == '.webp' && !meets_minimum_dimensions?(converted_data, img[:url], stats)
-            next
-          end
+          next if converted_ext == '.webp' && !meets_minimum_dimensions?(converted_data, img[:url], stats)
+
           checksum = Digest::SHA256.hexdigest(converted_data)
           filename = image_asset_filename(checksum, converted_ext) { converted_data }
           ensure_image_doc(checksum, img[:alt], filename, frontmatter, img[:url])

@@ -6,6 +6,7 @@ require 'test_helper'
 class ConfigSmokeTest < Minitest::Test
   def test_config_is_loadable
     config = YAML.load_file('_config.yml')
-    assert config.is_a?(Hash), 'Expected _config.yml to parse to a Hash'
+
+    assert_kind_of Hash, config, 'Expected _config.yml to parse to a Hash'
   end
 end

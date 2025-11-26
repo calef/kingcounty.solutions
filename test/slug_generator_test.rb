@@ -9,6 +9,7 @@ module Support
 
     def test_sanitized_slug_downcases_and_strips_characters
       slug = SlugGenerator.sanitized_slug('Hello, World!')
+
       assert_equal 'hello-world', slug
     end
 
@@ -19,8 +20,9 @@ module Support
         date_prefix: '2024-05-01',
         max_bytes: 32
       )
-      refute slug.include?(' ')
-      assert slug.bytesize <= 32
+
+      refute_includes slug, ' '
+      assert_operator slug.bytesize, :<=, 32
     end
   end
 end

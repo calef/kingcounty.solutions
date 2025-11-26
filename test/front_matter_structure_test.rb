@@ -5,7 +5,7 @@ require 'test_helper'
 require_relative 'support/site_build_helper'
 
 class FrontMatterStructureTest < Minitest::Test
-  DELIMITER = /\A---\s*\z/.freeze
+  DELIMITER = /\A---\s*\z/
 
   def setup
     @site = load_site
@@ -14,7 +14,8 @@ class FrontMatterStructureTest < Minitest::Test
 
   def test_markdown_documents_have_single_front_matter
     errors = markdown_entry_paths(@site).filter_map { |path| front_matter_error(path) }
-    assert errors.empty?, "Front matter issues detected:\n#{errors.join("\n")}"
+
+    assert_empty errors, "Front matter issues detected:\n#{errors.join("\n")}"
   end
 
   private
@@ -42,8 +43,8 @@ class FrontMatterStructureTest < Minitest::Test
                 .select { |path| extensions.include?(File.extname(path).downcase) }
 
     static_paths = site.static_files
-                      .map(&:path)
-                      .select { |path| extensions.include?(File.extname(path).downcase) }
+                       .map(&:path)
+                       .select { |path| extensions.include?(File.extname(path).downcase) }
 
     (doc_paths + static_paths).map { |path| absolute_path(path) }.uniq
   end

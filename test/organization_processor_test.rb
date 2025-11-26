@@ -48,6 +48,7 @@ class OrganizationProcessorTest < Minitest::Test
     assert_empty result[:skipped]
 
     data = File.read(File.join(@org_dir, 'example-org.md'))
+
     assert_includes data, 'news_rss_url: https://example.org/feed'
   end
 
@@ -71,6 +72,7 @@ class OrganizationProcessorTest < Minitest::Test
     assert_equal ['beta.md'], result[:skipped]
 
     data = File.read(File.join(@org_dir, 'beta.md'))
+
     refute_includes data, 'news_rss_url'
   end
 

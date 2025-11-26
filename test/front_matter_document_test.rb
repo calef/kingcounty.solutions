@@ -47,6 +47,7 @@ module Support
         doc.save
 
         reloaded = Mayhem::Support::FrontMatterDocument.load(path)
+
         assert_equal 'Updated', reloaded.front_matter['title']
         assert_equal "Updated body\nwith multiple lines", reloaded.body
       end
@@ -58,6 +59,7 @@ module Support
         File.write(path, 'No front matter present')
 
         doc = Mayhem::Support::FrontMatterDocument.load(path)
+
         assert_nil doc
       end
     end

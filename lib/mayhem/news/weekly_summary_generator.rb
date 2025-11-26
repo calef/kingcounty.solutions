@@ -30,7 +30,7 @@ module Mayhem
       end
 
       def run
-        override_date = parsed_date(ENV['WEEKLY_DATE'])
+        override_date = parsed_date(ENV.fetch('WEEKLY_DATE', nil))
         week_reference = override_date || Date.today
         start_date, end_date = current_week_range(week_reference)
         posts = weekly_posts(start_date, end_date)
@@ -74,10 +74,11 @@ module Mayhem
           next unless match
 
           post_date = Date.parse(match[1])
-          next unless post_date >= start_date && post_date <= end_date
+          next unless post_date.between?(start_date, end_date)
 
           document = Mayhem::Support::FrontMatterDocument.load(path, logger: @logger)
           next unless document
+
           front_matter = document.front_matter
           next if front_matter['published'] == false
 
@@ -158,7 +159,7 @@ module Mayhem
       end
 
       def build_context(posts, start_date, end_date, plan)
-        lookup = posts.map { |p| [p[:id], post_payload(p)] }.to_h
+        lookup = posts.to_h { |p| [p[:id], post_payload(p)] }
         counts = Hash.new(0)
         posts.each { |post| counts[post[:source]] += 1 }
         top_sources = counts.sort_by { |_k, v| -v }.first(10).map do |source, count|
@@ -233,9 +234,11 @@ module Mayhem
       def fallback_summary(posts, start_date, end_date, plan = nil)
         total = posts.length
         lines = []
-        lines << "We published #{total} partner update#{'s' unless total == 1} from #{start_date.strftime('%B %-d')} through #{end_date.strftime('%B %-d, %Y')}."
+        lines << "We published #{total} partner update#{unless total == 1
+                                                          's'
+                                                        end} from #{start_date.strftime('%B %-d')} through #{end_date.strftime('%B %-d, %Y')}."
         plan ||= fallback_theme_plan(posts)
-        lookup = posts.map { |p| [p[:id], p] }.to_h
+        lookup = posts.to_h { |p| [p[:id], p] }
 
         plan['themes'].each do |theme|
           refs = theme['post_ids'].map { |id| lookup[id] }.compact.first(4).map do |post|
@@ -266,7 +269,8 @@ module Mayhem
       def call_llm(prompt)
         call_llm_chat(
           [
-            { role: 'system', content: 'You are a concise civic-news editor who writes weekly recaps for King County residents.' },
+            { role: 'system',
+              content: 'You are a concise civic-news editor who writes weekly recaps for King County residents.' },
             { role: 'user', content: prompt }
           ],
           temperature: 0.3
@@ -284,6 +288,7 @@ module Mayhem
         if (error_message = response.dig('error', 'message'))
           raise "LLM request failed: #{error_message}"
         end
+
         content = response.dig('choices', 0, 'message', 'content')
         raise 'LLM response missing content' unless content
 

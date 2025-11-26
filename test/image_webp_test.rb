@@ -16,7 +16,7 @@ class ImageWebPTest < Minitest::Test
       "#{path}: expected WebP or SVG asset filename"
     end
 
-    assert errors.empty?, errors.join("\n")
+    assert_empty errors, errors.join("\n")
   end
 
   def test_image_documents_reference_webp_assets
@@ -30,15 +30,13 @@ class ImageWebPTest < Minitest::Test
       relative_path = image_url.sub(%r{\A/+}, '')
       asset_path = Pathname.new(relative_path).cleanpath
       asset_path = Pathname.pwd.join(asset_path) unless asset_path.absolute?
-      unless asset_path.file?
-        next "#{path}: referenced asset #{image_url} does not exist"
-      end
+      next "#{path}: referenced asset #{image_url} does not exist" unless asset_path.file?
 
       next if PERMITTED_EXTENSIONS.include?(asset_path.extname.downcase)
 
       "#{path}: image_url #{image_url} must reference a WebP or SVG asset"
     end
 
-    assert errors.empty?, errors.join("\n")
+    assert_empty errors, errors.join("\n")
   end
 end

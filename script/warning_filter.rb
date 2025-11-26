@@ -1,4 +1,5 @@
 # frozen_string_literal: true
+
 #
 # Silences noisy warnings emitted by upstream gems when Ruby runs with -w.
 

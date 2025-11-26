@@ -118,6 +118,7 @@ class FeedFinderTest < Minitest::Test
     finder = FeedDiscovery::FeedFinder.new(http)
 
     result = finder.send(:verify_feed, 'https://example.org/feed.json')
+
     assert_equal 'https://example.org/feed.json', result
   end
 
@@ -135,6 +136,7 @@ class FeedFinderTest < Minitest::Test
     binary.force_encoding('BINARY')
 
     decoded = finder.send(:decode_html, binary)
+
     assert_equal Encoding::UTF_8, decoded.encoding
     refute_empty decoded
   end
@@ -142,7 +144,7 @@ class FeedFinderTest < Minitest::Test
   private
 
   def error_level_logger
-    original = ENV['LOG_LEVEL']
+    original = ENV.fetch('LOG_LEVEL', nil)
     ENV['LOG_LEVEL'] = 'ERROR'
     Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL', default_level: 'ERROR')
   ensure

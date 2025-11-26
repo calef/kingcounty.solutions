@@ -8,7 +8,6 @@ require 'open-uri'
 require 'openssl'
 require 'reverse_markdown'
 require 'rss'
-require 'thread'
 require 'time'
 require_relative '../logging'
 require_relative '../support/front_matter_document'
@@ -35,9 +34,21 @@ module Mayhem
       DEFAULT_NEWS_DIR = '_posts'
       DEFAULT_SOURCES_DIR = '_organizations'
       DEFAULT_CHECKSUM_FILE = File.expand_path('../../../bin/feed_checksums.yml', __dir__)
-      DEFAULT_MAX_WORKERS = Integer(ENV.fetch('RSS_WORKERS', '6')) rescue 6
-      DEFAULT_OPEN_TIMEOUT = Integer(ENV.fetch('RSS_OPEN_TIMEOUT', '5')) rescue 5
-      DEFAULT_READ_TIMEOUT = Integer(ENV.fetch('RSS_READ_TIMEOUT', '10')) rescue 10
+      DEFAULT_MAX_WORKERS = begin
+        Integer(ENV.fetch('RSS_WORKERS', '6'))
+      rescue StandardError
+        6
+      end
+      DEFAULT_OPEN_TIMEOUT = begin
+        Integer(ENV.fetch('RSS_OPEN_TIMEOUT', '5'))
+      rescue StandardError
+        5
+      end
+      DEFAULT_READ_TIMEOUT = begin
+        Integer(ENV.fetch('RSS_READ_TIMEOUT', '10'))
+      rescue StandardError
+        10
+      end
 
       def initialize(
         news_dir: DEFAULT_NEWS_DIR,
@@ -207,6 +218,7 @@ module Mayhem
         value = candidates.compact.first
         return value if value.is_a?(Time)
         return value.to_time if value.respond_to?(:to_time)
+
         Time.parse(value.to_s) if value
       rescue StandardError
         nil
@@ -245,6 +257,7 @@ module Mayhem
 
         content = item.content if item.respond_to?(:content)
         return content.content if content.respond_to?(:content) && content.content
+
         content if content.is_a?(String)
       rescue StandardError => e
         @logger.warn "Failed to read content for #{item.link || item.title}: #{e.message}"
@@ -254,6 +267,7 @@ module Mayhem
       def item_title_text(item)
         title = item.title if item.respond_to?(:title)
         return title.content if title.respond_to?(:content)
+
         title.to_s
       rescue StandardError
         item_link_url(item) || 'Untitled'
@@ -267,9 +281,10 @@ module Mayhem
         end
         if item.respond_to?(:links) && item.links.respond_to?(:each)
           alternate = item.links.find { |l| l.respond_to?(:rel) && l.rel == 'alternate' }
-          return alternate.href if alternate&.respond_to?(:href)
+          return alternate.href if alternate.respond_to?(:href)
+
           first = item.links.first
-          return first.href if first&.respond_to?(:href)
+          return first.href if first.respond_to?(:href)
         end
         item.respond_to?(:url) ? item.url.to_s : nil
       rescue StandardError => e

@@ -5,6 +5,4 @@ $LOAD_PATH.unshift(File.expand_path('../lib', __dir__))
 
 require 'mayhem/organizations/feed_updater'
 
-if $PROGRAM_NAME == __FILE__
-  Mayhem::Organizations::FeedUpdaterCLI.run
-end
+Mayhem::Organizations::FeedUpdaterCLI.run if $PROGRAM_NAME == __FILE__

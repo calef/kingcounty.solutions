@@ -1,6 +1,5 @@
 # frozen_string_literal: true
 
-require 'set'
 require 'time'
 require 'uri'
 require 'yaml'
@@ -24,7 +23,7 @@ class PostsFrontMatterTest < Minitest::Test
       errors << "#{doc[:path]} missing required title"
     end
 
-    assert errors.empty?, "Title issues:\n#{errors.join("\n")}"
+    assert_empty errors, "Title issues:\n#{errors.join("\n")}"
   end
 
   def test_date_is_timestamp
@@ -38,12 +37,10 @@ class PostsFrontMatterTest < Minitest::Test
       end
 
       date_string = value.is_a?(String) ? value : value.to_s
-      unless timestamp?(date_string)
-        errors << "#{doc[:path]} date '#{date_string}' must be an ISO8601 timestamp"
-      end
+      errors << "#{doc[:path]} date '#{date_string}' must be an ISO8601 timestamp" unless timestamp?(date_string)
     end
 
-    assert errors.empty?, "Date issues:\n#{errors.join("\n")}"
+    assert_empty errors, "Date issues:\n#{errors.join("\n")}"
   end
 
   def test_source_matches_an_organization_title
@@ -61,7 +58,7 @@ class PostsFrontMatterTest < Minitest::Test
       errors << "#{doc[:path]} source '#{source}' is not a known organization title"
     end
 
-    assert errors.empty?, "Source issues:\n#{errors.join("\n")}"
+    assert_empty errors, "Source issues:\n#{errors.join("\n")}"
   end
 
   def test_source_url_is_optional_but_valid_if_present
@@ -75,7 +72,7 @@ class PostsFrontMatterTest < Minitest::Test
       errors << "#{doc[:path]} source_url '#{source_url}' must be a valid URL"
     end
 
-    assert errors.empty?, "Source URL issues:\n#{errors.join("\n")}"
+    assert_empty errors, "Source URL issues:\n#{errors.join("\n")}"
   end
 
   def test_original_content_is_optional_string
@@ -83,13 +80,14 @@ class PostsFrontMatterTest < Minitest::Test
 
     posts.each do |doc|
       next unless doc[:data].key?('original_content')
+
       value = doc[:data]['original_content']
       next if value.is_a?(String)
 
       errors << "#{doc[:path]} original_content must be a string"
     end
 
-    assert errors.empty?, "Original content issues:\n#{errors.join("\n")}"
+    assert_empty errors, "Original content issues:\n#{errors.join("\n")}"
   end
 
   def test_original_markdown_body_is_optional_string
@@ -97,13 +95,14 @@ class PostsFrontMatterTest < Minitest::Test
 
     posts.each do |doc|
       next unless doc[:data].key?('original_markdown_body')
+
       value = doc[:data]['original_markdown_body']
       next if value.is_a?(String)
 
       errors << "#{doc[:path]} original_markdown_body must be a string"
     end
 
-    assert errors.empty?, "Original markdown issues:\n#{errors.join("\n")}"
+    assert_empty errors, "Original markdown issues:\n#{errors.join("\n")}"
   end
 
   def test_topics_reference_known_topics
@@ -127,7 +126,7 @@ class PostsFrontMatterTest < Minitest::Test
       end
     end
 
-    assert errors.empty?, "Topic issues:\n#{errors.join("\n")}"
+    assert_empty errors, "Topic issues:\n#{errors.join("\n")}"
   end
 
   def test_images_reference_known_checksums
@@ -152,7 +151,7 @@ class PostsFrontMatterTest < Minitest::Test
       end
     end
 
-    assert errors.empty?, "Image issues:\n#{errors.join("\n")}"
+    assert_empty errors, "Image issues:\n#{errors.join("\n")}"
   end
 
   def test_unpublished_posts_have_no_images
@@ -160,13 +159,14 @@ class PostsFrontMatterTest < Minitest::Test
 
     posts.each do |doc|
       next unless doc[:data]['published'] == false
+
       images = doc[:data]['images']
       next if images.is_a?(Array) && images.empty?
 
       errors << "#{doc[:path]} must not reference images when published: false"
     end
 
-    assert errors.empty?, "Unpublished image issues:\n#{errors.join("\n")}"
+    assert_empty errors, "Unpublished image issues:\n#{errors.join("\n")}"
   end
 
   def test_posts_without_topics_are_unpublished
@@ -176,10 +176,12 @@ class PostsFrontMatterTest < Minitest::Test
       topics = doc[:data]['topics']
       next unless topics.is_a?(Array) && topics.empty?
 
-      errors << "#{doc[:path]} must set published: false when topics list is empty" unless doc[:data]['published'] == false
+      unless doc[:data]['published'] == false
+        errors << "#{doc[:path]} must set published: false when topics list is empty"
+      end
     end
 
-    assert errors.empty?, "Topic-only publish issues:\n#{errors.join("\n")}"
+    assert_empty errors, "Topic-only publish issues:\n#{errors.join("\n")}"
   end
 
   def test_summarized_is_always_true
@@ -190,7 +192,7 @@ class PostsFrontMatterTest < Minitest::Test
       errors << "#{doc[:path]} summarized must be true" unless value == true
     end
 
-    assert errors.empty?, "Summarized flag issues:\n#{errors.join("\n")}"
+    assert_empty errors, "Summarized flag issues:\n#{errors.join("\n")}"
   end
 
   def test_openai_model_if_present_is_string
@@ -203,7 +205,7 @@ class PostsFrontMatterTest < Minitest::Test
       errors << "#{doc[:path]} openai_model must be a string"
     end
 
-    assert errors.empty?, "openai_model issues:\n#{errors.join("\n")}"
+    assert_empty errors, "openai_model issues:\n#{errors.join("\n")}"
   end
 
   def test_published_if_present_is_false
@@ -211,10 +213,11 @@ class PostsFrontMatterTest < Minitest::Test
 
     posts.each do |doc|
       next unless doc[:data].key?('published')
+
       errors << "#{doc[:path]} published must be false" unless doc[:data]['published'] == false
     end
 
-    assert errors.empty?, "Published flag issues:\n#{errors.join("\n")}"
+    assert_empty errors, "Published flag issues:\n#{errors.join("\n")}"
   end
 
   private
@@ -222,7 +225,7 @@ class PostsFrontMatterTest < Minitest::Test
   attr_reader :posts, :organization_titles, :topic_titles, :image_checksums
 
   def load_documents(glob)
-    Dir[glob].sort.map do |path|
+    Dir[glob].map do |path|
       { path: path, data: read_front_matter(path) }
     end
   end

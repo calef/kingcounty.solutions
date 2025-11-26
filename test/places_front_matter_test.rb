@@ -1,6 +1,5 @@
 # frozen_string_literal: true
 
-require 'set'
 require 'yaml'
 require 'test_helper'
 
@@ -31,7 +30,7 @@ class PlacesFrontMatterTest < Minitest::Test
       errors << "#{doc[:path]} latitude '#{latitude}' must be numeric" unless latitude.is_a?(Numeric)
     end
 
-    assert errors.empty?, "Latitude issues:\n#{errors.join("\n")}"
+    assert_empty errors, "Latitude issues:\n#{errors.join("\n")}"
   end
 
   def test_longitude_if_present_is_numeric
@@ -44,7 +43,7 @@ class PlacesFrontMatterTest < Minitest::Test
       errors << "#{doc[:path]} longitude '#{longitude}' must be numeric" unless longitude.is_a?(Numeric)
     end
 
-    assert errors.empty?, "Longitude issues:\n#{errors.join("\n")}"
+    assert_empty errors, "Longitude issues:\n#{errors.join("\n")}"
   end
 
   def test_parent_place_if_present_matches_a_place
@@ -65,7 +64,7 @@ class PlacesFrontMatterTest < Minitest::Test
       end
     end
 
-    assert errors.empty?, "Parent place issues:\n#{errors.join("\n")}"
+    assert_empty errors, "Parent place issues:\n#{errors.join("\n")}"
   end
 
   def test_title_is_present_unique_and_string
@@ -88,7 +87,7 @@ class PlacesFrontMatterTest < Minitest::Test
       errors << "title '#{title}' appears in #{paths.join(', ')}"
     end
 
-    assert errors.empty?, "Title issues:\n#{errors.join("\n")}"
+    assert_empty errors, "Title issues:\n#{errors.join("\n")}"
   end
 
   def test_type_is_present_string_and_allowed
@@ -106,7 +105,7 @@ class PlacesFrontMatterTest < Minitest::Test
       end
     end
 
-    assert errors.empty?, "Type issues:\n#{errors.join("\n")}"
+    assert_empty errors, "Type issues:\n#{errors.join("\n")}"
   end
 
   def test_zip_codes_if_present_are_valid_and_unique
@@ -137,7 +136,7 @@ class PlacesFrontMatterTest < Minitest::Test
       end
     end
 
-    assert errors.empty?, "ZIP code issues:\n#{errors.join("\n")}"
+    assert_empty errors, "ZIP code issues:\n#{errors.join("\n")}"
   end
 
   def test_filename_matches_title_slug
@@ -154,7 +153,7 @@ class PlacesFrontMatterTest < Minitest::Test
       errors << "#{doc[:path]} filename '#{actual_slug}' should be '#{expected_slug}'"
     end
 
-    assert errors.empty?, "Filename issues:\n#{errors.join("\n")}"
+    assert_empty errors, "Filename issues:\n#{errors.join("\n")}"
   end
 
   def test_topic_summary_generated_if_present_is_true
@@ -167,7 +166,7 @@ class PlacesFrontMatterTest < Minitest::Test
       errors << "#{doc[:path]} topic_summary_generated must be true if present" unless value == true
     end
 
-    assert errors.empty?, "Topic summary issues:\n#{errors.join("\n")}"
+    assert_empty errors, "Topic summary issues:\n#{errors.join("\n")}"
   end
 
   private
@@ -175,7 +174,7 @@ class PlacesFrontMatterTest < Minitest::Test
   attr_reader :places, :place_title_map
 
   def load_documents(glob)
-    Dir[glob].sort.map { |path| { path: path, data: read_front_matter(path) } }
+    Dir[glob].map { |path| { path: path, data: read_front_matter(path) } }
   end
 
   def load_title_map(glob)

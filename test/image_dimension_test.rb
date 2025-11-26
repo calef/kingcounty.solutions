@@ -19,6 +19,6 @@ class ImageDimensionTest < Minitest::Test
       "#{path}: unable to read dimensions (#{e.message})"
     end
 
-    assert errors.empty?, errors.join("\n")
+    assert_empty errors, errors.join("\n")
   end
 end

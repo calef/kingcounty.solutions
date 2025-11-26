@@ -14,6 +14,7 @@ module Support
         store.save
 
         reloaded = Mayhem::Support::FeedChecksumStore.new(path:)
+
         assert_equal 'abc', reloaded['http://example.com']
       end
     end

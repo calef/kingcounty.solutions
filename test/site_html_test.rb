@@ -14,12 +14,14 @@ class SiteHtmlTest < Minitest::Test
   def test_generated_html_is_well_formed
     destination = SiteBuildHelper.destination
     html_files = Dir.glob(File.join(destination, '**', '*.html'))
+
     refute_empty html_files, 'Expected jekyll build to produce HTML files'
 
     html_files.each do |path|
       document = Nokogiri::HTML5.parse(File.read(path))
       errors = document.errors
-      assert errors.empty?, html_error_message(path, errors)
+
+      assert_empty errors, html_error_message(path, errors)
       refute_nil document.at('html'), "Missing <html> tag in #{relative_path(path)}"
     end
   end

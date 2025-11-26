@@ -2,7 +2,6 @@
 
 require 'json'
 require 'securerandom'
-require 'thread'
 require 'time'
 
 module Mayhem
@@ -63,7 +62,7 @@ module Mayhem
         end
       end
 
-      LEVELS.keys.each do |level_name|
+      LEVELS.each_key do |level_name|
         define_method(level_name.downcase) do |message|
           log(level_name, message)
         end

@@ -48,11 +48,11 @@ class OrganizationAuditTest < Minitest::Test
     write_post('2024-01-01-update', title: 'Update', date: '2024-01-01', source: 'Help Center')
 
     client = StubClient.new({
-                              topics_true: ['Housing'],
-                              topics_false: [],
-                              topics_unclear: [],
-                              notes: 'Focuses on housing'
-                            }.to_json)
+      topics_true: ['Housing'],
+      topics_false: [],
+      topics_unclear: [],
+      notes: 'Focuses on housing'
+    }.to_json)
 
     audit = Mayhem::Topics::OrganizationAudit.new(
       client: client,
@@ -71,8 +71,9 @@ class OrganizationAuditTest < Minitest::Test
     audit.run
 
     document = Mayhem::Support::FrontMatterDocument.load(File.join(@org_dir, 'help-center.md'))
+
     assert_equal ['Housing'], document.front_matter['topics']
-    assert File.exist?(File.join(@cache_dir, 'help_center.json')), 'expected cache file to be written'
+    assert_path_exists File.join(@cache_dir, 'help_center.json'), 'expected cache file to be written'
   end
 
   private

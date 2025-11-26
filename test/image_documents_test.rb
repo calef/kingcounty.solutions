@@ -2,7 +2,6 @@
 
 require 'base64'
 require 'pathname'
-require 'set'
 require 'time'
 require 'uri'
 require 'yaml'
@@ -10,7 +9,7 @@ require 'test_helper'
 
 class ImageDocumentsTest < Minitest::Test
   REQUIRED_FIELDS = %w[checksum date image_url source source_url].freeze
-  CHECKSUM_REGEX = /\A[0-9a-f]{64}\z/.freeze
+  CHECKSUM_REGEX = /\A[0-9a-f]{64}\z/
   IMAGE_EXTENSIONS = %w[
     .avif .bmp .gif .heic .jpeg .jpg .png .svg .tif .tiff .webp
   ].freeze
@@ -26,7 +25,8 @@ class ImageDocumentsTest < Minitest::Test
       missing = REQUIRED_FIELDS.reject { |field| present_string?(doc[:data][field]) }
       missing.map { |field| "#{relative_path(doc[:path])}: missing required field #{field}" }
     end
-    assert errors.empty?, errors.join("\n")
+
+    assert_empty errors, errors.join("\n")
   end
 
   def test_checksum_format
@@ -36,7 +36,8 @@ class ImageDocumentsTest < Minitest::Test
 
       "#{relative_path(doc[:path])}: checksum must be a 64-character hexadecimal string"
     end
-    assert errors.empty?, errors.join("\n")
+
+    assert_empty errors, errors.join("\n")
   end
 
   def test_date_parses_as_iso8601
@@ -49,7 +50,8 @@ class ImageDocumentsTest < Minitest::Test
         "#{relative_path(doc[:path])}: date must be an ISO8601 timestamp"
       end
     end
-    assert errors.empty?, errors.join("\n")
+
+    assert_empty errors, errors.join("\n")
   end
 
   def test_image_url_points_to_local_image
@@ -75,7 +77,8 @@ class ImageDocumentsTest < Minitest::Test
 
       "#{relative_path(doc[:path])}: image_url #{image_url} must reference a known image extension"
     end
-    assert errors.empty?, errors.join("\n")
+
+    assert_empty errors, errors.join("\n")
   end
 
   def test_assets_images_have_metadata_documents
@@ -98,7 +101,7 @@ class ImageDocumentsTest < Minitest::Test
       "#{relative}: missing corresponding _images markdown document"
     end
 
-    assert errors.empty?, errors.join("\n")
+    assert_empty errors, errors.join("\n")
   end
 
   def test_source_matches_an_organization_title
@@ -108,7 +111,8 @@ class ImageDocumentsTest < Minitest::Test
 
       "#{relative_path(doc[:path])}: source must match an organization title"
     end
-    assert errors.empty?, errors.join("\n")
+
+    assert_empty errors, errors.join("\n")
   end
 
   def test_source_url_points_to_image_resource
@@ -130,7 +134,8 @@ class ImageDocumentsTest < Minitest::Test
 
       "#{relative_path(doc[:path])}: source_url #{source_url} must reference an image file"
     end
-    assert errors.empty?, errors.join("\n")
+
+    assert_empty errors, errors.join("\n")
   end
 
   def test_title_is_descriptive_when_present
@@ -141,7 +146,8 @@ class ImageDocumentsTest < Minitest::Test
 
       "#{relative_path(doc[:path])}: title must be descriptive text when provided"
     end
-    assert errors.empty?, errors.join("\n")
+
+    assert_empty errors, errors.join("\n")
   end
 
   def test_each_image_document_is_referenced_by_a_post
@@ -157,7 +163,8 @@ class ImageDocumentsTest < Minitest::Test
 
       "#{relative_path(doc[:path])}: expected at least one _posts/*.md to reference checksum #{normalized}"
     end
-    assert errors.empty?, errors.join("\n")
+
+    assert_empty errors, errors.join("\n")
   end
 
   private
@@ -230,7 +237,7 @@ class ImageDocumentsTest < Minitest::Test
     return unless image_url.is_a?(String)
 
     path = Pathname.new(image_url.strip)
-    path = Pathname.new("/").join(path) unless path.absolute?
+    path = Pathname.new('/').join(path) unless path.absolute?
     clean = path.cleanpath
     return unless clean.to_s.start_with?('/')
 
@@ -248,9 +255,7 @@ class ImageDocumentsTest < Minitest::Test
     combined = [uri.path, uri.query].compact.join(' ').downcase
     return true if includes_image_extension?(combined)
 
-    if uri.host&.downcase&.include?('squarespace-cdn.com') && uri.query&.match?(/format=\d+w/i)
-      return true
-    end
+    return true if uri.host&.downcase&.include?('squarespace-cdn.com') && uri.query&.match?(/format=\d+w/i)
 
     uri.path.split('/').any? { |segment| base64_segment_references_image?(segment) }
   end
@@ -260,7 +265,7 @@ class ImageDocumentsTest < Minitest::Test
   end
 
   def base64_segment_references_image?(segment)
-    return false unless segment.match?(/\A[A-Za-z0-9_\-]+=*\z/)
+    return false unless segment.match?(/\A[A-Za-z0-9_-]+=*\z/)
 
     decoded = Base64.urlsafe_decode64(segment)
     includes_image_extension?(decoded.downcase)

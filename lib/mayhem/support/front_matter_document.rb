@@ -21,14 +21,14 @@ module Mayhem
 
       class << self
         def load(path, logger: nil, permitted_classes: PERMITTED_CLASSES)
-          parse(File.read(path), permitted_classes:).yield_self do |result|
+          parse(File.read(path), permitted_classes:).then do |result|
             new(path:, front_matter: result.front_matter, body: result.body)
           end
         rescue Errno::ENOENT
-          logger&.warn("Missing file: #{path}") if logger
+          logger&.warn("Missing file: #{path}")
           nil
         rescue ParseError => e
-          logger&.warn("Failed to parse #{path}: #{e.message}") if logger
+          logger&.warn("Failed to parse #{path}: #{e.message}")
           nil
         end
 
@@ -73,7 +73,7 @@ module Mayhem
         yaml_segment = YAML.dump(@front_matter).sub(/\A---\s*\n/, '')
         normalized_body = @body.to_s
         normalized_body = "\n#{normalized_body}" if needs_leading_newline?(normalized_body)
-        +"---\n#{yaml_segment}---\n#{normalized_body}"
+        "---\n#{yaml_segment}---\n#{normalized_body}"
       end
 
       def needs_leading_newline?(body)

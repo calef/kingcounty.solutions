@@ -8,7 +8,8 @@ class PottymouthWordsTest < Minitest::Test
 
   def test_markdown_files_are_free_of_pottymouth_words
     offenses = markdown_paths.flat_map { |path| offenses_in_file(path) }
-    assert offenses.empty?, "Pottymouth words detected:\n#{offenses.join("\n")}"
+
+    assert_empty offenses, "Pottymouth words detected:\n#{offenses.join("\n")}"
   end
 
   private
