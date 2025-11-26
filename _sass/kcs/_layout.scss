@@ -315,6 +315,13 @@
   display: block;
 }
 
+.media-carousel-slide img[src$=".svg"] {
+  min-height: 300px;
+  max-height: none;
+  height: auto;
+  width: auto;
+}
+
 .media-carousel-caption {
   margin: 0;
   padding: 0.75rem 1rem 1rem;
