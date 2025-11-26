@@ -58,8 +58,7 @@ original_markdown_body: |-
 summarized: true
 topics:
 - Health Care
-images:
-- 9ceddc448feb5643c36729bc9324fc923b5e70f04ff943838bbd0a9416a857c0
+images: []
 ---
 
 Valley Medical Center celebrated the dedication of its new Cancer Center with a ribbon-cutting ceremony on January 16, marking a significant milestone for the community. The center, which opened to patients on February 3, is the first of its kind in South King County. The event honored Tina McDonough, founder of the local non-profit Valley Girls & Guys, for her relentless commitment to cancer care. In recognition of her contributions, the new Infusion & Immunotherapy Center was named "Tina McDonough & Family Infusion & Immunotherapy Center." Tina expressed her gratitude, stating she was "overjoyed and deeply humbled" by the honor, while emphasizing her focus on future efforts to support patients and families. The celebration highlighted the importance of community involvement and philanthropy in enhancing cancer services at Valley Medical Center.

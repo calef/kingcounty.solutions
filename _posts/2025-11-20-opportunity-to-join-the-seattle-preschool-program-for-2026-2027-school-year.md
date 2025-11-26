@@ -20,8 +20,7 @@ summarized: true
 topics:
 - Childcare
 - Education & Learning
-images:
-- 276d09d6339d143fe1f1ac00c6376e8eaaf402ec018ae68c4ae33b8af2ec2646
+images: []
 ---
 
 The Seattle Department of Education & Early Learning (DEEL) is inviting applications for early learning providers to join the Seattle Preschool Program (SPP) for the 2026-2027 school year. The Request for Qualifications (RFQ) is open until December 17, 2025, at 11:59 p.m. PST, and applications must be submitted online. This RFQ is targeted at new SPP classrooms in school or center-based programs that are not already contracted with SPP. Existing contractors should not apply. Family Child Care programs are also ineligible for this application and should contact specific FCC Hub administrators for more information.

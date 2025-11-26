@@ -60,9 +60,7 @@ summarized: true
 topics:
 - Shelter & Housing
 - Financial Assistance
-images:
-- 9fde4a23806a57f91d81ae4b6524c643015094fea07efa53e92992886eb138e1
-- 306df555e448600319c1c8bdc95be6f5b582069795f65fb4f45aaf052b1576f0
+images: []
 ---
 
 The recent government funding freeze has created uncertainty for many nonprofits, including PorchLight, which serves vulnerable communities. Despite these challenges, PorchLight remains operationally stable due to effective financial planning and a diversified funding strategy. The Board of Directors and Senior Leadership Team are actively assessing the potential long-term impacts of the freeze. They are strengthening partnerships with private foundations and corporate sponsors, reassessing operational models for greater efficiency, and conducting regular financial reviews to maintain stability.

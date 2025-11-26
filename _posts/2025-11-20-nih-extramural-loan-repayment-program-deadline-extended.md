@@ -251,10 +251,6 @@ topics:
 - Employment & Job Support
 images:
 - 72b038e14ac55aa495a4303ce4ae23b4d8fa6b9e6cd9428650de2b2905fd1f8d
-- d61606e2f3d2b12debc2e92a8cb81a3723ac88fed597c6d70df20b472fb824bb
-- 6ab3534a10aafe6d266a3662db9f318aa013ac7a74e55af8e34dd25a792a6c94
-- e6aca0054b32e8a560ea22c6462c88fe4f308418f2aefbc0aa630aa79f9c5c99
-- 70cab736f16db594e0d2b2a8b1662cc438b4478d3a6b3b259253054554d40d7f
 ---
 
 The NIH Extramural Loan Repayment Program deadline has been extended to December 4, 2025. Eligible awardees can receive up to $100,000 for qualified educational debt repayment over a two-year award period, with an additional 39% for tax payments. There are no limits on the number of renewal applications if eligibility criteria are met. To qualify, applicants must be U.S. Citizens, Nationals, or Permanent Residents with a doctoral degree or equivalent. Certain predoctoral applicants and allied health professionals can also apply. Applicants need to have educational loan debt of at least 20% of their annual base income and must receive research funding from a domestic nonprofit institution, including government agencies or universities. NIH funding is not a requirement for application. Candidates must commit at least 20 hours per week to conducting qualified research. For more information about eligibility and application details, interested individuals are encouraged to visit the LRP website or contact lrp@nih.gov for assistance. It is advised to consult with the NICHD LRP team to ensure alignment with NICHD and NIH priorities before applying.

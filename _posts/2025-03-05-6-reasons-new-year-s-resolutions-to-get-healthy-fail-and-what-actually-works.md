@@ -261,8 +261,7 @@ topics:
 - Health Care
 - Mental Health & Counseling
 - Food & Nutrition
-images:
-- abe214f0c37384b9a626b7c52d7ba3a54b1641aad0e72be8ee2bbe192ac8fe8f
+images: []
 ---
 
 Every year, many people set New Year's resolutions to get healthier, but most give up by February. The failure often stems from common pitfalls rather than a lack of willpower. Here are six reasons resolutions fail and effective strategies to achieve lasting progress:

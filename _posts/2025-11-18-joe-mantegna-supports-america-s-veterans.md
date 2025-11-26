@@ -86,7 +86,6 @@ topics:
 - Employment & Job Support
 images:
 - 036b742a57d78c535ec5a3566af1459bc7e05c6478a5a6bc6c5bfbced346f04a
-- ebf761be33e70df8c58b15ad1210f98bdb0d7947bcfe077b79ef4911b1ae2fae
 ---
 
 Nick Koulchar, an Army veteran, has inspired many, including actor Joe Mantegna, through his remarkable journey of resilience after losing both legs to an IED explosion in Iraq in 2008. Koulchar, who joined the Army in 2006, has since completed over 20 marathons and various CrossFit competitions, proving that he can overcome physical challenges. As a benefits advocate for Disabled American Veterans, he assists fellow veterans in obtaining their earned benefits, highlighting the organization's vital support in providing stability and purpose to injured veterans.

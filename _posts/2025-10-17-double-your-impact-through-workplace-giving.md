@@ -90,7 +90,6 @@ summarized: true
 topics:
 - Education & Learning
 images:
-- 715365bfac9747ec236ccaf46b25d7a4e430ae8725d370765f22c109b4546997
 - b39ca577375854575f6d3e201b3ab878451a24c67f882ad43131b497457c7c6f
 ---
 

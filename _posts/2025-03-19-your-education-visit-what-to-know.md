@@ -81,10 +81,7 @@ original_markdown_body: "#### \n\n**Often, education services look like play!** 
 summarized: true
 topics:
 - Education & Learning
-images:
-- d79b79d531caf3cf235226d7f9f030d313e7e050ec664c425ca352a221cc2962
-- d1f822daa41e4c9d2318a44b519c18475e750cca8b42fcbc730791a834d783e2
-- dd2054d6ec1d0646b2ceaa573be40aa61c175bb01f7e1bcabee2938f15a95e56
+images: []
 ---
 
 Your education visit focuses on engaging with children through play, which is essential for their learning. During the visit, there is no need for special toys; any home items that interest the child can be used. At the conclusion, goals may be established for future visits, and parents will receive advice on how to support their child's progress at home.

@@ -67,8 +67,7 @@ topics:
 - Education & Learning
 - Shelter & Housing
 - Financial Assistance
-images:
-- 8b423ef3b9b6b4174a7e9945f0a0cfca73e297af6fabeb517955b33ddccc221b
+images: []
 ---
 
 Seattle voters are presented with two critical propositions on the November 4 ballot aimed at addressing the city's budget deficit and protecting essential services. Proposition 1 seeks to double the Families, Education, Preschool, and Promise (FEPP) Levy, expected to generate $1.3 billion over six years for educational and family support programs. Proposition 2, known as the Seattle Shield Initiative, aims to restructure the Business and Occupancy Tax, generating approximately $80 million annually while reducing tax burdens on small businesses. This initiative would increase tax exemptions for businesses earning up to $2 million, ensuring that the majority pay less, while larger companies contribute more.

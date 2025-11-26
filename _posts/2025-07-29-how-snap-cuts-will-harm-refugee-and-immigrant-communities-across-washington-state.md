@@ -69,8 +69,7 @@ summarized: true
 topics:
 - Food & Nutrition
 - Financial Assistance
-images:
-- 63b40a6812bd904337339cd0e0cecc1180aec19798e3ff7f4b6ecfe77d6e8a73
+images: []
 ---
 
 On July 4, 2025, the federal government enacted H.R.1, known as the One Big Beautiful Bill, which imposes significant cuts to the Supplemental Nutrition Assistance Program (SNAP), jeopardizing food security for nearly one million residents in Washington state. This includes thousands of refugee and immigrant families who rely on SNAP as they adapt to life in the U.S. The law reduces average SNAP benefits by approximately $56 per household monthly, potentially resulting in skipped meals and decreased access to nutritious food. An estimated 130,000 Washingtonians face the risk of losing their benefits entirely.

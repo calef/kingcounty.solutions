@@ -21,8 +21,7 @@ summarized: true
 topics:
 - Childcare
 - Financial Assistance
-images:
-- 7d67254498d993fe536ef5f57a7f0c2d9a4c3caac2dfcc9817d4e636c474fdca
+images: []
 ---
 
 New Income Eligibility Guidelines have been introduced for Seattle's Child Care Assistance Program (CCAP), allowing an additional 2,000 families to qualify for licensed child care co-pay support. Families can save up to $807 a month on child care costs through this program, which aims to alleviate financial burdens as the holiday season approaches. The income eligibility threshold has been raised to align with the Area Median Income, enabling families earning up to $128,724 for a family of three and $153,244 for a family of four to apply. The CCAP program, administered by the Department of Education and Early Learning (DEEL), is designed to support working families and child care providers, many of whom are women, minority, or small business owners. Families can access care for children ages zero to 13 at over 290 licensed provider sites across Seattle. Applications can be submitted online, and assistance is available in multiple languages. The CCAP aims to provide financial relief while enhancing access to quality early learning opportunities for children, particularly those from underrepresented communities.

@@ -34,10 +34,7 @@ original_markdown_body: |-
 summarized: true
 topics:
 - Mental Health & Counseling
-images:
-- a0e2969a928468e6e1640d187d1f5ed21965e754d7fedaa7f8cc27a9061235df
-- a666833dd517e72831dd5c936bda62115d66dbd95537e8a6b8daf825e47e36c7
-- 6b171a9911321d6053dd36ffe10ab5a2eccf58339fe06242620ce776adf56642
+images: []
 ---
 
 In honor of Asian and Native Hawaiian/Pacific Islander Heritage Month and Mental Health Awareness Month, the Asian Counseling and Referral Service (ACRS) collaborated with HAVI to host a Lunch & Learn focused on mental wellness, cultural identity, and workplace stress. The event featured ACRS clinicians Steve Chon and Vivienne Bae in a Q&A session moderated by HAVI’s Ambika Rajyagor. Over 110 HAVI employees participated, with 20 attending in person and nearly 90 joining virtually from various locations, achieving the highest attendance for the company to date. The discussion introduced cultural frameworks such as Maslow’s Hierarchy of Needs and the "stress bucket" model, emphasizing how culture and identity influence mental health and stress management. Participants found the session impactful and appreciated the opportunity for reflection. ACRS expressed pride in partnering with HAVI to foster dialogue and learning, and looks forward to future collaborations that will further explore advocacy and empowerment within the A&NHPI community.

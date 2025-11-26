@@ -183,7 +183,6 @@ topics:
 images:
 - fb79273188201b481d8ccfabe5edc9651bb95f68c63b3f3802057bcabcd10d4f
 - 14dfc0df50d70c2c57a124964fd1cc06a8b9fa7c22f957cd28ed51ad9009845b
-- 8e68d9fa288404c45f4c34ea95c3dc8dcae6af128feea311ba35f652377c6800
 ---
 
 In a letter from Executive Director Mary Kirchoff, the achievements and future goals of Wonderland and the Hope Rising Clinic are highlighted. The past year, 2024, demonstrated the power of community support, resulting in transformative services for children and families affected by developmental challenges and prenatal substance exposure (PSE). A significant milestone was achieved with the Season of Wonder campaign, which unlocked a $150,000 match from an anonymous donor. In 2024, 1,156 children were served, with 86% of families reporting improved relationships with their children. The clinic launched a Caregiver Education Program and designed training curricula for clinicians, expanding its reach and impact.

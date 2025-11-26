@@ -49,10 +49,7 @@ summarized: true
 topics:
 - Education & Learning
 - Employment & Job Support
-images:
-- ef8af73ab8bf295cf65b291f5cb2858791c540a0078be9183b07835d1db59434
-- a5ffb910590925eb77df861aa8ec76b51619028809574c3970e3ea5d87dddd36
-- 371e3f810afa3ceabaf8693f1f2427b12158d0c1fa31e850401ee0c5b0281afe
+images: []
 ---
 
 Join the Spring Soiree on Friday, May 16, 2025, at the Woodmark Hotel in Kirkland for an evening filled with delicious food, games, and camaraderie, all supporting the youth of Kirkland, Redmond, and Sammamish. This event highlights the unique aspects of the Eastside Boys & Girls Clubs and aims to raise funds for scholarships that enable local youth to participate in after-school programs, athletics, and day camps. These scholarships help kids explore new interests and foster friendships in a safe and supportive environment with trusted adult mentors. The schedule for the evening includes registration and social hour at 6 PM, followed by dinner and a program at 7 PM, concluding at 9 PM. This is a wonderful opportunity to contribute to the community and learn more about the impactful programs offered by the Boys & Girls Clubs of King County.

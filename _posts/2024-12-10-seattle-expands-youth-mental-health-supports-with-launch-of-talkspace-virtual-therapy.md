@@ -22,8 +22,7 @@ summarized: true
 topics:
 - Mental Health & Counseling
 - Education & Learning
-images:
-- 4e05b0a1dcc646a7303e27f0aa1e72290e2fef9d17d6d38f42f1c318e876258d
+images: []
 ---
 
 Seattle has launched a partnership between the Department of Education and Early Learning (DEEL) and Talkspace to enhance mental health support for local teens and young adults. This initiative provides free online therapy to over 55,000 residents aged 13 to 24, addressing the urgent need for accessible mental health care. Participants can access confidential services through Talkspace’s secure platform, including unlimited messaging therapy and one live video session per month, alongside 24/7 access to Talkspace Go, a self-guided mental health program.

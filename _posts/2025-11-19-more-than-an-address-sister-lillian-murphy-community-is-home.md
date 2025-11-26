@@ -42,8 +42,7 @@ summarized: true
 topics:
 - Shelter & Housing
 - Childcare
-images:
-- 5416d5a7b46ecee7a8e6852635177854bfbc81766190a3ff38e1999fdd00cc4a
+images: []
 ---
 
 The Sister Lillian Murphy Community in San Francisco has received the Urban Land Institute (ULI) Americas Award for Excellence, highlighting the pride of its residents. Hazel, a resident, reflects on her journey from viewing her apartment as merely an address to embracing it as a home. She appreciates the community’s clean, modern environment, with features such as bamboo trees, a daycare center, and views of Sutro Tower. Hazel enjoys the convenience of nearby amenities and has found joy in activities like learning guitar at a music school within the building. She emphasizes the importance of being a supportive neighbor and expresses gratitude for her living situation, recognizing that affordable housing transcends shelter, fostering a sense of belonging. Mercy Housing California takes pride in developing such award-winning communities that are recognized for their excellence and role in enhancing residents' lives.

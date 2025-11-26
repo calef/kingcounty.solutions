@@ -106,7 +106,6 @@ summarized: true
 topics:
 - Food & Nutrition
 images:
-- a90c93666fcded22afcfba601aa0f7346b83cbaec77c035978fdf7c2071c336f
 - 38fede4aaf8df686a831932b028eca13dbf02cd66dfc37c2de038890cb9f677b
 ---
 

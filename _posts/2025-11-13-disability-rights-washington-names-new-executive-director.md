@@ -237,10 +237,6 @@ topics:
 - Disabilities
 images:
 - 70bea257be39ca903a42ec248efe8daf8d3deb8ccf3ee2d0ef271ce773528cf0
-- d61606e2f3d2b12debc2e92a8cb81a3723ac88fed597c6d70df20b472fb824bb
-- 6ab3534a10aafe6d266a3662db9f318aa013ac7a74e55af8e34dd25a792a6c94
-- e6aca0054b32e8a560ea22c6462c88fe4f308418f2aefbc0aa630aa79f9c5c99
-- 70cab736f16db594e0d2b2a8b1662cc438b4478d3a6b3b259253054554d40d7f
 ---
 
 Disability Rights Washington (DRW) has appointed Wallace (“Wally”) Tablit as its new Executive Director. Tablit brings nearly thirty years of experience in disability rights and justice, with a strong background in competitive and integrated employment, organizational development, leadership, talent management, and person-centered planning. His previous leadership roles include positions at Atwork, RespectAbility (now Disability Belongs), the Association of People Supporting Employment First (APSE), and Relay Resources. DRW Board Chair Camesha Little expressed the board's confidence in Tablit’s leadership abilities. Wally expressed excitement, humility, and honor in taking on the role, emphasizing his commitment to centering the voices of people with disabilities and enhancing community partnerships.

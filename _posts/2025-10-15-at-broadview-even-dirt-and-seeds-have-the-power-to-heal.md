@@ -778,29 +778,7 @@ topics:
 - Domestic Violence
 - Mental Health & Counseling
 images:
-- ff9432860388b676fc6d690cd5d7546a6eeb70c90bceb6920305f255ef5e3905
-- 65771b7ff02d7a79f531ecda7a8e002d437eeb9ac40e71f402db52ddb9061baa
-- bbd8023ae7ea7e0de22a25192b35778a48b8ef720bd81f59a08838742c63272a
-- 0a37994075d5b7e4de81f2a83b958a3d66fde87ce5a1a520ea3133d63055736a
-- 90a0a2f941f8347ef28fa4baaafa6f70829aabe46c67cec418a32bca43dc71cf
-- c045d95df70fca803f7226485f9d31449911d4bffc7ed57dca19cded22f9bbbc
 - 2b116907ea0e3d5645544de9846b2a6430acb0987ddc7779fd1d660cff5fcde6
-- 82f4442fa241b77ddb9de4a069f28c7bafb3280bb403efba814e7ca0e2a44487
-- 7253505c42152a90ff4b910722b8dfe6c0afd9ed521f33c0d154912901d19e1c
-- 6e455e5d96a94c4ecd5dca2b63f914d04a7a8ba58689da82c4bf148c2498f35f
-- 821c0ffc9f9ac29b20498982da3afa504ca39d829efa2c077f6b398e24e83bff
-- 0e1906248032d0e5b2a03309da0b6ba517c5c8a80035326d393b5a1eb909177f
-- eff7e30818b5a5fa36fb4e231c93d60bfcb0fb0ca241d5203bd0c89facbc43a5
-- f39a6772c3836108d8e8731babae566d4643a52f1249dbe3e67da9e54e5a781f
-- f0950ba8ac2db3c7bf41c49523ac9d483b90f4db33b7739bf1702e966329d497
-- 29499646bc8cb70951d5b899f0ae808044324dd1fa92071bbbb50c0de5173ba6
-- 296df8db9588450381c514ec10d6dc821d26b974d65ad029254b34539a35a5a9
-- cc9213701fe082a240fdd99985ce21fe0133424a5192d471a26b431501143001
-- a84f03f504c1421fb8454bce69688ed5a20505817ef3b7d9b086c1db8eabfb00
-- 8b0e1ee34ce04e7ad6cba86c51356b9d4c6e5f7b8b2ef5ef9e9f3fbe35561b94
-- 51b11acf542d20a644ff54a643cdc2e357bc42dcb4406888db4488b48cc0bc92
-- dbf2a97fc4cbae254836ef05731b4dd93968936bb1eecbfe23b9f4c7996c7502
-- 52ece78badbe47b2d749a2852a19eee1d0c53c2b99cc48c252d69e8bd1237a99
 ---
 
 On a cloudy August morning, women and children at Broadview Shelter & Transitional Housing engaged in therapeutic gardening, reflecting on hope and progress. Survivors of domestic violence participated in weekly sessions where they planted seeds, symbolizing intentions for healing and growth. The garden, developed in partnership with Rooted Hands Collective, offers a space for families to connect with nature while addressing the complexities of their lives. Therapeutic horticulture, which combines gardening with mental health support, has been shown to alleviate stress and foster community bonds. Cheyenne Schultz and Abbey Loos, founders of the collective, emphasize the healing potential of nature, describing gardening as a collaborative and empowering experience. The sessions include art projects and moments for mothers and children to bond, creating a sense of belonging and accomplishment. Participants have found joy in gardening, with children discovering the pleasure of playing in the dirt. As the garden flourishes, so do the connections among families, providing a peaceful environment for personal growth. The initiative illustrates how simple acts like planting seeds can lead to significant emotional transformations for those rebuilding their lives after trauma.

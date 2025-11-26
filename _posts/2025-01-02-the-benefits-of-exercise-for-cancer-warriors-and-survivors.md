@@ -65,8 +65,7 @@ summarized: true
 topics:
 - Health Care
 - Mental Health & Counseling
-images:
-- ed1f9e4c69b313c10fa1235dc6215d47de0577ea3e66adfb032fc4c9d83d981b
+images: []
 ---
 
 Exercise plays a crucial role in enhancing the quality of life for cancer patients and survivors, offering numerous physical, emotional, and psychological benefits. Physically, it helps alleviate side effects of cancer treatment such as fatigue, muscle loss, and weight fluctuations, while improving cardiovascular health and mobility. Regular activity is associated with a reduced risk of cancer recurrence, particularly in breast and colon cancers. 

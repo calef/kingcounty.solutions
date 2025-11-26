@@ -230,10 +230,6 @@ topics:
 - Mental Health & Counseling
 images:
 - bf974eb65d293fcbef512f4dbee6bf9c2d7838807a8c043d1dcc7f22fbd3b811
-- d61606e2f3d2b12debc2e92a8cb81a3723ac88fed597c6d70df20b472fb824bb
-- 6ab3534a10aafe6d266a3662db9f318aa013ac7a74e55af8e34dd25a792a6c94
-- e6aca0054b32e8a560ea22c6462c88fe4f308418f2aefbc0aa630aa79f9c5c99
-- 70cab736f16db594e0d2b2a8b1662cc438b4478d3a6b3b259253054554d40d7f
 ---
 
 KUOW recently emphasized the significance of early autism diagnosis and the need for access to evidence-based supports. Dr. Annette Estes, Director of the UW Autism Center, stated that autism can often be identified by the age of two. However, many families encounter long wait times for evaluations and face challenges with limited insurance reimbursement, which hinder timely care. Early interventions, including speech therapy, occupational therapy, parent coaching, and play-based ABA, are crucial for enhancing communication and learning in young autistic children. The experiences with these therapies vary among families, highlighting the importance of individualized approaches to support each child's needs effectively.

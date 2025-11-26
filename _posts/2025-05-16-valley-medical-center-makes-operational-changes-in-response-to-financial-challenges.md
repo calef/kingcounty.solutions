@@ -642,8 +642,7 @@ summarized: true
 topics:
 - Health Care
 - Financial Assistance
-images:
-- 1463a01462213293289c16638d7c5bca96fdfe5393bf4cb696f7d54ee1d73955
+images: []
 ---
 
 On May 12, 2025, Valley Medical Center announced operational changes due to significant financial challenges, including a year-to-date operating loss of $25 million. To address these issues, the center will restructure its workforce and consolidate or close several clinics and departments over the next two months. More than 50% of staff will transition from part-time to full-time roles, with employees encouraged to apply for open positions or consider relocation options. Key units closing include the Northwest Pavilion and Pediatric Inpatient services, while various clinics, such as Kent Primary Care and the Maternal Fetal Medicine Clinic, will close or consolidate with other locations.

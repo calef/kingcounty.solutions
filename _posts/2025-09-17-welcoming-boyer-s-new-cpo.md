@@ -60,8 +60,7 @@ summarized: true
 topics:
 - Education & Learning
 - Disabilities
-images:
-- e9d0e1025fbf1ed31a8042df286eb42b55090850a4668c5d889af5d0e9aafbc7
+images: []
 ---
 
 Dr. Megan Beers has been appointed as the new Chief Program Officer of Boyer Children’s Clinic following a comprehensive national search. Joining the team in late May, Megan brings over 17 years of leadership experience in early childhood systems of care. As a licensed clinical psychologist, she has a strong background in organizational transformation and the development of trauma-informed, equity-centered frameworks that benefit young children and families. Her previous executive roles include positions at Childhaven and Wellspring Family Services, and she most recently served as a Senior Consultant at Health Management Associates.

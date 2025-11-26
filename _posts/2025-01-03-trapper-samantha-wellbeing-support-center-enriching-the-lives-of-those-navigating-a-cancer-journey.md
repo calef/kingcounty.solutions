@@ -82,8 +82,7 @@ topics:
 - Mental Health & Counseling
 - Personal & Household Needs
 - Transportation & Mobility
-images:
-- f83415bef952b8020450e32c9690fcd223a8c8c4b0945d49b13ba4bef273f900
+images: []
 ---
 
 The Trapper & Samantha Wellbeing Support Center is a new initiative at Valley's Cancer Center, set to open on February 3. It aims to assist cancer patients and their families through various resources, including comfort items, educational programs, and specialized support. This center is part of Valley's commitment to provide comprehensive, compassionate care right from the start of a patient's treatment journey. 

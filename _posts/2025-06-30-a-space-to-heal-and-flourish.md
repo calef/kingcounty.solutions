@@ -580,24 +580,10 @@ topics:
 - Shelter & Housing
 - Financial Assistance
 images:
-- 60c154102f781f0fd72186b77c1e5126036f5af4b602bfe88da1411fb8d99364
 - e2337ea850e629f93cea54f4faa7e662c8f8032727f556567bc05d3a81f0df63
-- 6b8d89e8abeb998c34e71b1c4f54328105190e3b8c73dcfda21ca6aaa25a9dc4
-- 0d33bb051ab29c6626f649482c8e2b66cd5ee7c895257173e19e84983e662f62
-- '0669c73aabbab4dc92f218ac520a26aaede8daf4e6e1d2fd582ea2b3471c93f6'
-- daa2fbf7c20739c7b2a541057d2f69b1460909435e205c6629a73655a1ecf740
-- a86e0df84e798fc9395f9d37a790d633964f054553f275f5779614cd820f3f06
-- 072a8f372495e693941df97e80f1bf51db3d29857dd6a628b966077a46e14637
-- 1e23baa72c1f3165fad68b8a2a0933a4c926d2cad2024f375086e8a2e93961b0
-- 16043f73bcee3aeeea525f7342b9b34c13c6c134ee8eb1c214f027eface6f8c9
-- c6d98a9872ac6f4db19f2b89168ab4ce90142a175390c9f992106f8b364d549a
-- '09c2c042998d3372e13374ce86c33fec6bc11268746c5a0ea93edb157ecf967e'
-- cd532fbcdcf56d64fca09959006996ab23f5f102bb5c31c17dd46e31b431c6ba
 - 04f1be4fa26dc0686eed29e59c74a1d075fe7648f44ef817769a750773a4dc78
 - 9de747312803d9ac29b298c780395792dc73364560482134e5a86ae577d7eab4
 - 2fd7214c50fe7b174faad76e0d3264cca092195ee5bcc1e1c878bb63fcacdd8c
-- b2ad28b73a44e2022ffdb9e386c70b42a24e7d2aa5ef1d3b89a0b0fd8f7cd25a
-- c989d951a1014463c055e441947cb84ad8958205a7566ad18895cd76ae279841
 ---
 
 Photographer Florene Jimerson, a 26-year-old Seattle native, reflects on her journey from childhood instability to finding a permanent home. Growing up amidst cycles of displacement and homelessness, Florene faced numerous challenges as her family's financial struggles led them to constantly move. Despite vowing to avoid homelessness after securing her own apartment at 18, she found herself in a dire situation five years later due to black mold in her home. After months of couch surfing and living in her car, she discovered an affordable apartment in her old neighborhood but lacked the funds for move-in costs.

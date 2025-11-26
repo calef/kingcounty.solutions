@@ -119,8 +119,7 @@ original_markdown_body: "![](https://blog.valleymed.org/wp-content/uploads/2025/
 summarized: true
 topics:
 - Health Care
-images:
-- 2f0358b55ee7551c8cb0e88a921d3d8ca5830fec1bde82ee9c75b6582b9512c9
+images: []
 ---
 
 Breast cancer screening guidelines recommend that most women begin mammograms at age 40, with Valley Medical Center suggesting annual screenings. Primary care providers play a crucial role by discussing personal health, family history, and cancer risks during annual check-ups, while radiologists analyze mammograms for signs of cancer and collaborate with healthcare providers to address results. Approximately 13% of women in the U.S. will be diagnosed with breast cancer in their lifetime, making it the second most common cancer among females. While clinical breast exams and self-exams are not proven to significantly enhance detection rates, women should be familiar with their breasts and report any noticeable changes to their PCP. Dense breast tissue, indicated in mammogram reports, suggests a higher risk for breast cancer due to the increased presence of glandular tissue. During a breast imaging appointment, patients can expect a comfortable environment where technologists take images for radiologists to review. Results from screening mammograms are typically communicated via letter, email, or MyChart, while diagnostic results are provided on the same day. Appointments can be scheduled through MyChart or by calling the Breast Center.

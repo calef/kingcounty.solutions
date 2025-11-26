@@ -250,10 +250,6 @@ topics:
 - Disabilities
 images:
 - 8ec2b364c37134695d74e659e83b7c3f9f5b957e9945b9a03ba718fe7dc0cf8b
-- d61606e2f3d2b12debc2e92a8cb81a3723ac88fed597c6d70df20b472fb824bb
-- 6ab3534a10aafe6d266a3662db9f318aa013ac7a74e55af8e34dd25a792a6c94
-- e6aca0054b32e8a560ea22c6462c88fe4f308418f2aefbc0aa630aa79f9c5c99
-- 70cab736f16db594e0d2b2a8b1662cc438b4478d3a6b3b259253054554d40d7f
 ---
 
 Families in Washington seeking inclusive winter activities can explore a range of sensory friendly events designed to accommodate those with sensory sensitivities. These events feature adaptations such as softer lighting, lower sound levels, and quiet break spaces. Highlights include:

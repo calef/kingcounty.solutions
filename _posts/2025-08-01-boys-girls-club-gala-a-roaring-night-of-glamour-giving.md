@@ -71,8 +71,6 @@ topics:
 - Education & Learning
 images:
 - 5ec12c2717daf9a8842ad4f14ec5440dae4153b8f78ec28e8c8c8f1eb6c763fc
-- f3523d6a6af90f5fba040383baedc57fb00f6e74f190a2b2d17d5cd6809cded3
-- c6a923c59ddf6a82c3bd1376341b06297f660aa5ca4c1f37d2416d28fb15a745
 ---
 
 Join the Boys & Girls Club on October 3, 2025, for a glamorous, 1920s-inspired fundraising gala at the Hyatt Regency Seattle from 5:00 PM to 10:00 PM. Individual tickets are priced at $325, while a table of ten costs $3,250. The evening features a cocktail reception with games and a photo booth, a gourmet multi-course meal, and a live auction showcasing exciting packages, including exclusive experiences. 

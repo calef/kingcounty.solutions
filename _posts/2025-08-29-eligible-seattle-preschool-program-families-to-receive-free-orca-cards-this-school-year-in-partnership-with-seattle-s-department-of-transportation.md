@@ -20,8 +20,7 @@ topics:
 - Childcare
 - Transportation & Mobility
 - Education & Learning
-images:
-- cfa95819af65f1f59bd31aafb11f251efa52fd18b537cdc9c4ba10904a463ea0
+images: []
 ---
 
 Eligible families in the Seattle Preschool Program (SPP) will receive free ORCA cards this school year, thanks to a partnership between the Seattle Department of Education and Early Learning (DEEL) and the Seattle Department of Transportation (SDOT). Funded by the voter-approved Seattle Transit Measure, this initiative aims to alleviate transportation costs for families, helping them access high-quality preschool education. Families whose incomes meet the eligibility criteria will receive their ORCA cards by mail, providing unlimited public transit access until August 31, 2026.

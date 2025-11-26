@@ -239,13 +239,8 @@ images:
 - f6656d3b5faaade36e5bd9d74b1fd4f13f64d4fe77882a721265b31d43bf9db1
 - ce7a83bd7cafaa4ded2077d5cb40c1c4d90839e230c065c40fd95aeb22fdb997
 - f310c11b9eb7da2cd38fc10beb441bea76f8d72490ae0498736c116871c7b776
-- 04a620a95d52b9bde806515c7f7c0a03f83bf9f4e2ebb2e9f0d76062fd059839
 - e1b6ef43c8dc326ba6b9ebafb849b47d3bf8ff989cbdb5e5d821f5c9333b9160
 - a60be433aef4949c4a85f23b89bb2adedcb713de0c29f31901b5761f6c6cdd65
-- 74cec7ef4bcaefaa5ca1173d1f5f73ec592246f6c74da7bc71d99b48f76200e3
-- a9ba4f6a967a31b72cb656cb2391c39e65ec85d4a3c85cbcdda04a8ce11fb595
-- 986a20dcb89c8e7d246e6699c826e805efd32a2bffc01df98a6290ecba9a1ed5
-- 5d915b57f66ee81f0c29f2226afa57eb25fcd8d09d005a04187ceb16f76380a1
 ---
 
 To celebrate the 175th anniversary of the Archdiocese of Seattle, Catholics across Western Washington volunteered for the "Season of Service" from March to May 2025, aiming for 175,000 service hours. Catholic Community Services (CCS) collaborated with the Archdiocese to organize various projects, ultimately surpassing the goal by achieving over 300,000 service hours. The initiative culminated in a commemorative Anniversary Mass at St. James Cathedral on May 31st, highlighting the commitment to supporting vulnerable communities.

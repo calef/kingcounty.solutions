@@ -295,10 +295,6 @@ topics:
 images:
 - c1daea9878c55828d97a15e27185c8678436e1c6e6c05f30457bf937f89c147e
 - a0ca0accd85a1c856ba7c5313a263bbad7f4473638f4749d10524c75e8af146d
-- d61606e2f3d2b12debc2e92a8cb81a3723ac88fed597c6d70df20b472fb824bb
-- 6ab3534a10aafe6d266a3662db9f318aa013ac7a74e55af8e34dd25a792a6c94
-- e6aca0054b32e8a560ea22c6462c88fe4f308418f2aefbc0aa630aa79f9c5c99
-- 70cab736f16db594e0d2b2a8b1662cc438b4478d3a6b3b259253054554d40d7f
 ---
 
 Ben Moore's journey to medicine began in early childhood, participating in programs at what is now the Institute on Human Development and Disability (IHDD) at the University of Washington (UW). He later re-engaged with the UW community through the UW LEND program, initially as a self-advocate trainee. Leveraging his personal experiences with disability, he focused on advocacy and leadership, eventually becoming the Self-Advocate Discipline Lead, where he mentored trainees and emphasized the importance of self-advocate leadership.

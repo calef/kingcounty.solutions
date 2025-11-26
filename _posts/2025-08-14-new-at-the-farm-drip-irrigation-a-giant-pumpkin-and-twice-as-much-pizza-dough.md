@@ -484,7 +484,6 @@ topics:
 - Food & Nutrition
 - Education & Learning
 images:
-- 006de41b100e419895811084d021a63795d97d2b4dba0603109da05ce5951cfc
 - fb745890285ccd74da24dc5861ecd5afd112556ff2ee9fa6a855d50b75c0c178
 - b10f6f3275b1ceb421c8ee3206aa52bc2cc76b28c52dd4ac611bdf4a039f646a
 - c64a78cf6a313875eaebc16605e177b39aaeaa14f822686c25bd6c9db18ef88b
@@ -495,12 +494,8 @@ images:
 - 6b600174d9501b86ed675022c371f2de5bd8d76f8790e1ae4cf78cbceb43f798
 - 0b7720e1f8bf986a47b49dc1666cfd1146074ad937d5fb6905f9c0bd07d3e5e0
 - 2012afada53efd30b867d7a9594648accbef48ce1ec4dd30de20db57cf10d4f1
-- 195653cf683b382790b8c380ad230eeeca684287c17fe222011e77b103dd8ec0
 - ddf4c8660f0d3e6dc867690236609aab4a8f57ffa161887fdda0f62c051bc58f
 - 3675513e57f439d3242d5cad1b6603932f8c290b2b723351b7d815bda59fd764
-- 12c7bbdd6c009cc80b911c17e6237af51244e492b4c9dd21982e87d5aeb82711
-- 818cb2423996f3281168606ca6d2a71eecf0689307b80a75160cf1d02aa086d5
-- e932bc59dd28f46380b4e1870f4ece8c07e3d725990ddc7883b3a85631fabc14
 ---
 
 This summer, Solid Ground's Giving Garden at Marra Farm is introducing its first drip irrigation system, which promises to enhance water efficiency and reduce weed growth. The farm is already growing a giant pumpkin over 1,000 pounds, a project born from collaboration with a neighbor known for cultivating large pumpkins. This pumpkin is nurtured by a single plant and has surpassed previous records. Additionally, the farm has doubled its wheat and corn production, aimed at making pizza dough and tortillas, providing an educational experience for visiting school children. Solid Ground's ¾-acre garden serves to supply fresh produce to the community and educate local youth about farming, food systems, and food justice, with over 1,155 kids visiting last year. The farm also benefits from a hoophouse, which enables the growth of warm-weather crops like cantaloupe, tomatoes, and peppers. Solid Ground's initiatives not only focus on crop production but also engage volunteers in hands-on activities, fostering a deeper understanding of where food comes from. The new irrigation system is expected to show its full benefits in the upcoming growing season.

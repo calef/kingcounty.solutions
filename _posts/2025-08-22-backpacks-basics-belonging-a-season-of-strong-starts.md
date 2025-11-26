@@ -52,9 +52,7 @@ topics:
 - Food & Nutrition
 - Senior Services
 - Shelter & Housing
-images:
-- 9d4a142b44ee91796674a1165e214d8a1a5a9b9f56b114f485d219274060a08d
-- ddc3ed4eaffecf01cccbd281af4d61e155246d7fe72e7d3dfcaa852158e88aed
+images: []
 ---
 
 Starting strong in the new school year requires more than just supplies; it necessitates a supportive community. The Wellspring community exemplified this during its annual Back-to-School Family Resource Fair on August 16, where families received backpacks and school supplies, fostering a sense of belonging. The event not only provided essentials but also connected families to resources and support, helping children enter the classroom with confidence and hope. Karly Lee, Associate Director of the Family Store & Volunteer Engagement, highlighted the importance of seeing a community rally around families during this time.

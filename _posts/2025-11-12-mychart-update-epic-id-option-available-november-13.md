@@ -48,8 +48,7 @@ original_markdown_body: "![](https://blog.valleymed.org/wp-content/uploads/2025/
 summarized: true
 topics:
 - Health Care
-images:
-- 33cf32611f7c2bf2320cd768dc8f4afb2be2790520cd32685535173ed7db797f
+images: []
 ---
 
 Beginning November 13, MyChart users will see an updated login screen featuring the option to create an Epic ID, a secure single login for accessing all MyChart accounts across various healthcare organizations. Users can decide whether to create an Epic ID or continue with their current login method, as both options will maintain the same user experience. Proxy access and other features will remain unchanged. To create an Epic ID, users can visit the “Link My Accounts” page in their MyChart account menu, where they will find a banner prompting them to link their account to MyChart Central. By clicking “Get Started,” they can follow on-screen instructions to complete the process. While the login screen will appear different, its functionality remains the same.

@@ -118,8 +118,7 @@ summarized: true
 topics:
 - Health Care
 - Mental Health & Counseling
-images:
-- 5370150f0bd88c711bb904abce835c7dfb96e5f9fbd302583d1c210968e14dc0
+images: []
 ---
 
 Having surgery can be challenging both physically and emotionally, necessitating preparation for both the procedure and recovery. Healthcare professionals increasingly utilize lifestyle medicine, emphasizing exercise, nutrition counseling, diabetes management, and physical therapy, to enhance patients' health prior to surgery and facilitate recovery afterward. Prehabilitation (prehab) is a key component, promoting muscle strengthening and heart health, which leads to quicker recoveries. Research indicates that active patients experience fewer complications and shorter hospital stays.

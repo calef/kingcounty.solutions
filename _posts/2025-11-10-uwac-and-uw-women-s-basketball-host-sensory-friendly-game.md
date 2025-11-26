@@ -244,10 +244,6 @@ topics:
 - Disabilities
 images:
 - d7598c8f6fd739be513d1409d05218e5bf03804f2cfe1dfb61fa573b769baa71
-- d61606e2f3d2b12debc2e92a8cb81a3723ac88fed597c6d70df20b472fb824bb
-- 6ab3534a10aafe6d266a3662db9f318aa013ac7a74e55af8e34dd25a792a6c94
-- e6aca0054b32e8a560ea22c6462c88fe4f308418f2aefbc0aa630aa79f9c5c99
-- 70cab736f16db594e0d2b2a8b1662cc438b4478d3a6b3b259253054554d40d7f
 ---
 
 The University of Washington Athletics and the UW Women’s Basketball team are collaborating with the UW Autism Center to host the first Sensory Friendly Game at Alaska Airlines Arena on November 23 at 2:00 p.m., featuring the Huskies against Vermont. This event will provide sensory tables with calming activities, a Quiet Room with low lighting and sound, and complimentary sensory bags containing items like pom-poms, sunglasses, sweatbands, earplugs, a pop-it toy, and a communication board. Adjustments to lighting and sound will enhance the game day experience, making it more inclusive for all attendees. Dr. Annette Estes, Executive Director of the UW Autism Center, expressed enthusiasm for the partnership, highlighting the importance of creating a supportive environment for autistic individuals and their families to enjoy the excitement of the game together.

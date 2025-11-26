@@ -231,10 +231,6 @@ topics:
 - Disabilities
 images:
 - db3c2a5e52079ff2ccb80017173131e0529d0b31bdc32da49a1ff65f71fa6426
-- d61606e2f3d2b12debc2e92a8cb81a3723ac88fed597c6d70df20b472fb824bb
-- 6ab3534a10aafe6d266a3662db9f318aa013ac7a74e55af8e34dd25a792a6c94
-- e6aca0054b32e8a560ea22c6462c88fe4f308418f2aefbc0aa630aa79f9c5c99
-- 70cab736f16db594e0d2b2a8b1662cc438b4478d3a6b3b259253054554d40d7f
 ---
 
 The IHDD is accepting applications for the 2025-2026 Pilot Grant Program, which offers up to $10,000 to support innovative research in intellectual and developmental disabilities (IDD). Projects must utilize one or more of the IDDRC Cores: Brain Structure and Function, Genomics, and Clinical Translational. The deadline for applications is January 1, 2026. Researchers can find full details and submit their proposals through the updated application page on IHDD.org.

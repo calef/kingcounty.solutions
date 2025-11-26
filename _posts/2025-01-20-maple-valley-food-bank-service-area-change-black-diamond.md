@@ -110,10 +110,7 @@ summarized: true
 topics:
 - Food & Nutrition
 - Financial Assistance
-images:
-- 127f7f7afd061170778a3ecdcfcc3d1c285e440ba9a706f379b521f77b8f7eea
-- e89d697162745136e851d0844329de6b813e47a2b4e8474c0b54d78611bbfa6f
-- 8f30842ecd7a5c67d88b860ad3c145fe530d833f4d90b924c1e0308bde6a6881
+images: []
 ---
 
 Maple Valley Food Bank has announced a change in its service area, effective February 1, 2025. The entire City of Black Diamond will no longer be included in the service area, meaning residents outside the Tahoma School District will lose access to additional programs such as Rent/Mortgage Assistance, Holiday Gifts, Holiday Food, and School Supplies. This decision, made by the Maple Valley Food Bank Board of Directors, was influenced by the availability of other food banks serving Black Diamond, specifically Plateau Outreach Ministries and the Black Diamond Community Center.

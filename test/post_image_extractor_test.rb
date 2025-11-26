@@ -39,7 +39,11 @@ module News
         )
 
         extractor.stub(:download_image, { data: 'image-data', ext: '.png' }) do
-          extractor.run
+          extractor.stub(:convert_to_webp, ['image-data', '.webp']) do
+            extractor.stub(:meets_minimum_dimensions?, true) do
+              extractor.run
+            end
+          end
         end
 
         document = Mayhem::Support::FrontMatterDocument.load(post_path)

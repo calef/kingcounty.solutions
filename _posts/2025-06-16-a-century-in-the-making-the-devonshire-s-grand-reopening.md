@@ -81,7 +81,6 @@ topics:
 - Shelter & Housing
 images:
 - 19a3b3c2db18c12669015431ca2f6b9cca5a146cae27428f6d591ccc580e0cbf
-- be0c037781a9e3ecc9656dd550a8c5b65fab4b1e80ecd692189b6078bcb26cd1
 - 9da3aae8d2c701c3bac2013dec2e9cd41534a6d8ae7d8125aed1f7c2da37c556
 ---
 

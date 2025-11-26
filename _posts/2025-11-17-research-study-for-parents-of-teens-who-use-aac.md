@@ -155,10 +155,6 @@ topics:
 - Education & Learning
 images:
 - 53321c83715bb8bcec0eb7c78be2d9767c797023490df36e70feb81de06a3e39
-- d61606e2f3d2b12debc2e92a8cb81a3723ac88fed597c6d70df20b472fb824bb
-- 6ab3534a10aafe6d266a3662db9f318aa013ac7a74e55af8e34dd25a792a6c94
-- e6aca0054b32e8a560ea22c6462c88fe4f308418f2aefbc0aa630aa79f9c5c99
-- 70cab736f16db594e0d2b2a8b1662cc438b4478d3a6b3b259253054554d40d7f
 ---
 
 The Language, Assistive Technology, and Autism (LATA) Lab at The Ohio State University is conducting a research study aimed at parents and legal guardians of transition-age AAC (Augmentative and Alternative Communication) users, specifically those aged 14 to 22. This study, approved by the OSU Institutional Review Board, investigates family experiences during the transition from school to adult life.

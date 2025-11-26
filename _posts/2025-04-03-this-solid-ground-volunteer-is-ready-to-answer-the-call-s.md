@@ -111,8 +111,7 @@ summarized: true
 topics:
 - Shelter & Housing
 - Financial Assistance
-images:
-- 2f0f00ff7bcd04f0f0f7f5cff5edb7a7ccb3862403da0a78baa1f0985b083166
+images: []
 ---
 
 Andrea Mann is a dedicated volunteer at Solid Ground, where she assists individuals seeking help with issues like housing and public benefits. Operating the front desk, she listens to clients' stories and connects them with appropriate services. Her empathetic approach has earned her praise from colleagues, including Administrative Services Supervisor Shelby Lunderman, who highlights Andrea’s ability to explain complex topics in accessible terms. 

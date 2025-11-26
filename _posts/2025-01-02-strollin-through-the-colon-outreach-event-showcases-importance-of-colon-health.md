@@ -60,7 +60,6 @@ topics:
 - Health Care
 - Education & Learning
 images:
-- c05582ce54ca02fb9dcb0670f87b365a7c1e8c50e7f4be2f5f269d5d7b8ddd18
 - b42b1b7b58c9684fcffa44c7625774c3ca75f2bade6c8807558dbc1cc8a5e87d
 ---
 

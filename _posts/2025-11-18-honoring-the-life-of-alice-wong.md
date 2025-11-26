@@ -270,10 +270,6 @@ topics:
 - Disabilities
 images:
 - e67c7b8075f94ebd6915a3df724c8257227e71271078307215548603203f68fd
-- d61606e2f3d2b12debc2e92a8cb81a3723ac88fed597c6d70df20b472fb824bb
-- 6ab3534a10aafe6d266a3662db9f318aa013ac7a74e55af8e34dd25a792a6c94
-- e6aca0054b32e8a560ea22c6462c88fe4f308418f2aefbc0aa630aa79f9c5c99
-- 70cab736f16db594e0d2b2a8b1662cc438b4478d3a6b3b259253054554d40d7f
 ---
 
 Alice Wong, a prominent disability justice advocate, author, and founder of the Disability Visibility Project, passed away on November 14 at the age of 51. Renowned for her leadership in amplifying disabled voices, Wong challenged ableist systems across health care, policy, and media. In 2014, she established the Disability Visibility Project to collect and share stories from disabled individuals, enhancing representation and community connections. Wong authored "Year of the Tiger: An Activist’s Life," edited several anthologies on disability culture, and co-founded #CripTheVote, a nonpartisan initiative that highlighted disability issues in U.S. elections. Additionally, she served on the National Council on Disability during the Obama administration. Through her writing, digital advocacy, and community organizing, Wong significantly expanded opportunities for disabled creators and leaders nationwide. Her impactful work continues to resonate within the disability community and beyond.

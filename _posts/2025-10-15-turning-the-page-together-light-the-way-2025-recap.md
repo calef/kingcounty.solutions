@@ -145,7 +145,6 @@ topics:
 - Shelter & Housing
 - Food & Nutrition
 images:
-- 0122f9582b811e7f8a84b7e50702423badc113cd8a4cf8282ca9584277a05c0a
 - 4fdf634f8e2d9acd0422227e42b3947d305b989a74b3670d8df4da23b7be127d
 ---
 

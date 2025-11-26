@@ -143,9 +143,6 @@ topics:
 - Shelter & Housing
 images:
 - df0b7c9eaff2db9ab28cf72f8324841917027fd87e12c2960baf5ab82e47cece
-- db5a43f46e3c6fd16412bfdbaba09f1b5686fcc4ebf9b7559d6bcf0d73444e24
-- 4c15af801774f947cb31cd1d5f941d9fa355ed1287ff5ae570d037a31dbb1f83
-- 2c766ab3d5d570a6ac37ff2dcebe2097341d558f505334930bb8da19e51d3652
 ---
 
 Korean and Vietnam War veteran Braven Duffie, 93, faced significant challenges due to his narcolepsy and cataplexy, which caused sudden collapses, making the stairs in his two-story home a major hazard. After being denied Specially Adaptive Housing (SAH) grants by the Department of Veterans Affairs multiple times, the Duffies sought assistance from the Disabled American Veterans. With the help of DAV National Service Office Supervisor Mark Donberger, they submitted an appeal that highlighted the severity of Braven's condition. This effort led to the approval of SAH funds on February 26, 2025, exactly one year after their initial denial. The grant allowed for the construction of a first-floor addition and ramp, significantly enhancing Braven's safety and quality of life. He now lives on the first floor, eliminating the risks associated with navigating the stairs. The Duffies expressed gratitude for Donberger's support in overcoming bureaucratic obstacles, which had previously frustrated their attempts to secure necessary assistance. Braven remarked on his relief to avoid nursing home placement, emphasizing the importance of the changes made to his living situation.

@@ -232,10 +232,6 @@ topics:
 - Education & Learning
 images:
 - 0b5bd77843c14a1074e4c2cb905d8457a33e5c4abb3d675fd2272110ef43b1d3
-- d61606e2f3d2b12debc2e92a8cb81a3723ac88fed597c6d70df20b472fb824bb
-- 6ab3534a10aafe6d266a3662db9f318aa013ac7a74e55af8e34dd25a792a6c94
-- e6aca0054b32e8a560ea22c6462c88fe4f308418f2aefbc0aa630aa79f9c5c99
-- 70cab736f16db594e0d2b2a8b1662cc438b4478d3a6b3b259253054554d40d7f
 ---
 
 Join a free webinar hosted by the UW Autism Center (UWAC) focused on identifying and differentiating autism symptoms in infants and toddlers. Led by two psychology residents, the session will equip participants with the skills to recognize early signs of autism in social, communication, and behavioral domains. It will also address what parents and providers can observe during daily routines and interactions. The webinar aims to help distinguish typical developmental variations from early red flags that may require further evaluation or referral. However, the webinar on Identification & Differentiation of Autism Symptoms has been postponed, and a new date and time will be announced soon. Participants are encouraged to register via REDCap.

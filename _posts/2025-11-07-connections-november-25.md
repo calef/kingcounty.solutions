@@ -205,8 +205,7 @@ topics:
 - Food & Nutrition
 - Mental Health & Counseling
 - Domestic Violence
-images:
-- 2846e4e872aa79567fe6f2fd582c7f46c9b79dfc355df5e78d3b452f19123e35
+images: []
 ---
 
 Jose Pizarro, Interim Program Director at YouthCare, shares a personal plea for support as winter approaches, highlighting the plight of hundreds of young people in Seattle experiencing homelessness. Many sleep outside in harsh conditions, and YouthCare has long been a vital resource for these youth, providing shelter and life-changing services. Donations are crucial for continuing this support, symbolizing hope and security for those in need.

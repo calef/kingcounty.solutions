@@ -35,7 +35,6 @@ topics:
 - Shelter & Housing
 - Health Care
 images:
-- 38a3031732a010916586a194eb09c32030721be01a4119babad70e480a5e2a1e
 - 4fbad87bb7c85b49a2eabbc91d2a610df895a49f687e9cd0f31fa96d26620e8d
 ---
 

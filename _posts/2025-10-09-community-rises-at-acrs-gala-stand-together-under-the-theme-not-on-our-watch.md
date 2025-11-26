@@ -120,14 +120,7 @@ topics:
 - Health Care
 - Mental Health & Counseling
 - Shelter & Housing
-images:
-- d66b8efaaa059dd31526b1737445db67525711e2f7f6776300e3f01ff1152aee
-- ebcab15de17c0cb959e7dd2b6b083621a446ced3896774ef329adb35f081e800
-- 427ef2ce0f06129368ecdcd48f00cad8a796da817ad40518fdc39256b48ed456
-- 8e7dc4111d4c1605d6cd2ea7ed0809ef989e7c7b2fe92c84a5086b3f64711e50
-- 7978981ba1630f8a2054348c04d10e18c085ac09220e5238b6cb1000aba4c389
-- 48a5b0ed9d92a2f787bbd464ad7c62ac1099991a9a798aabbf178eaf12bfae67
-- b989e61c62d0ad3198ed9fc897ed3832277f31b514bc59633d72b1eca91ca5fb
+images: []
 ---
 
 More than 350 community members gathered at the Asian Counseling and Referral Service (ACRS) Annual Benefit Gala in Bellevue, Washington, on October 4, 2025, under the theme “Not on Our Watch.” The event featured performances and speeches that emphasized resilience and community spirit. Kendee Yamaguchi, ACRS’s new CEO, announced the relaunch of ACRS's Legal Clinic, which aims to provide support to families facing challenges like deportation and discrimination, in partnership with the Asian Bar Association of Washington and the King County Bar Association. Yamaguchi highlighted ACRS’s commitment to equity and justice, stating, “No one faces those challenges alone.” The gala included performances from Seattle Kokon Taiko and the Massive Monkees, and featured guest speaker Tessa Hulls, who shared her family's journey through trauma and the importance of community care. The evening honored the contributions of John Chen Beckwith and Dean Wong, recognizing their dedication to ACRS and the community. ACRS expressed gratitude to sponsors, including TMS, Amazon, and Microsoft, whose support enables the organization to provide vital services to immigrant and refugee communities across the region. ACRS serves nearly 30,000 individuals annually through various programs focused on health and well-being.

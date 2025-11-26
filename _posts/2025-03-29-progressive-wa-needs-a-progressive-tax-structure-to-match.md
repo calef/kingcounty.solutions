@@ -110,8 +110,7 @@ topics:
 - Financial Assistance
 - Employment & Job Support
 summarized: true
-images:
-- 9852d6af0d9028f2f45d12da02114f39690e014ad6cbd41eabdf9f4852e4763d
+images: []
 ---
 
 Washington state faces a critical decision regarding its tax structure, which is among the most regressive in the nation. Wealthy individuals pay a lower tax rate compared to low-income residents, exacerbating income inequality. Many families struggle under confusing and insufficient benefits systems, which fail to provide the necessary support. Lawmakers are at a crossroads: they can either make severe budget cuts to vital services or embrace progressive tax proposals that would fairly distribute the tax burden.

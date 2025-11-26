@@ -34,8 +34,7 @@ summarized: true
 topics:
 - Education & Learning
 - Health Care
-images:
-- 807a36a8b5a571529f9800690aec1890536458d11309142bed8796a93d9b2b37
+images: []
 ---
 
 Pacific Medical Centers (PacMed) has partnered with the University of Washington’s Summer Health Professions Education Program (SHPEP) to provide clinical shadowing experiences for aspiring health professionals. This six-week enrichment program is designed for college students from backgrounds underrepresented in health professions, offering academic enrichment in subjects such as biology and chemistry, along with career development and hands-on learning. SHPEP scholars investigate social determinants of health and health disparities, preparing for health professions school applications. 

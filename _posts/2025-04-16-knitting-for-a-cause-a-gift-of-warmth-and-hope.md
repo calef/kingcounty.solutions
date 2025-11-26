@@ -89,7 +89,6 @@ topics:
 - Health Care
 - Mental Health & Counseling
 images:
-- 305d85e3b18eb22a684c5e5f80478edb3fb7453caa38155a0abbc6ff2407d7d7
 - d650bfae9e376c9123ddf8023c94f88d476c28cbe8678a7e58b09c626ff4e37b
 ---
 

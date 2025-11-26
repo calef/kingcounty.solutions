@@ -229,28 +229,10 @@ topics:
 - Health Care
 - Shelter & Housing
 images:
-- 1333453d1b87f3a1a4930ae9778efdc65a14256ac1e674df9c687f05bbe1508c
 - e8235522f37c0262ad1d34ab74788ce46e0982a9320aae2b60fd1f2370c35595
 - '069dbdcb7a756e4ad98318128c738cdded42f386712a997429779100d614c7af'
 - 4af2db0fe41e7893671f141f6b59af6170b1cd9654471984b3d2dfd5650d9f62
-- 3c85fe1187a41be3081d9ae07f946fe54f9cd5cb3f3ad329aef41f04d07a0a0c
 - ee5a9ace1e9bec823f23ed409ffda670594dbb3dfd9f807adb2ebedfecee0fb4
-- b8593ba85d62fe32e0c2040d7d604abe57d053d680f05a22ad2de95cc8041fee
-- 4b9f0e8fb31dc1d2cac2f5c6b5d0011dc8bcf15ad8e719cd923f6e7477b74677
-- d29ef3ba006eb1422e64075f9da0aa09702888a12adbb082a919f6b10823ea9c
-- f210c8699faeb305940be616d6fb1526729b9df9b8ea878aa92516d657661b00
-- 1a9820faeb6ed760d10ad616cdf90db4fdef50882a272a9435ca9a05232af13b
-- f6b612375c7c3fe0c61da49d3eaf675f20c58e6a74ec9733b87c2799f870b578
-- f788fc82fd0c561ebfe858ed4329b2012debd433ebe55d12fa792083579dffe7
-- 3eb599598b3e52eca200a9a3f813833af916fb71f7035a43e974b3d9d757d229
-- ce0b9813054f1a3057dc072266707fe1b5fab9b27bc70d5282da6600e270e9d9
-- c93a200f6bf1e0d756ce30e4d44b42124ee69cd2e4f40cb6a2de1016e0cb2d08
-- d2a8fda5e4679172a9b4880767aad9d8cd46d785aade032a0881cc355afa2502
-- baf42cd60e9cff63b3cb700620ca42da8da49e1a824f23a5f84a8a5d71079b89
-- 3397b93056211372cb9d3c3422537bd7b1586fef2c2efa3993079e4385956eb0
-- 4b575a23908a0cd9dabd4f363ee46e49e251439d3af90ed7463511f984e4b383
-- 2a154ff61af9e999bd89207eab95a31da916101c14f771ee2786979a4f57d040
-- e7415be76dbcbad945236bde24416d7f2ced56452136d6e3a3a1b0b8cb123171
 ---
 
 Solid Ground hosted its annual Social Justice Salon, focusing on the impact of recent federal spending cuts on social justice and safety-net organizations. Panelists included community leaders from various organizations discussing the dire consequences of these cuts, which threaten food and healthcare programs that support struggling families. Hundreds of thousands of lives are at stake, with significant funding losses already reported by organizations such as Downtown Emergency Service Center and Solid Ground. The legislative agenda is poised to further target housing services, potentially displacing many individuals currently housed.

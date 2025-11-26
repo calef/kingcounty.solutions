@@ -216,8 +216,7 @@ topics:
 - Health Care
 - Mental Health & Counseling
 - Financial Assistance
-images:
-- 703e2fd97c11e9dfadd4c8326a5abebb8ff837c4595536f6f3a074ac379cb222
+images: []
 ---
 
 At Valley Medical Center, the Cancer Services team exemplifies a commitment to compassionate care, treating patients like family during their challenging journeys. Chermaine Wulff, the Infusion Center Manager, praises the team's dedication and expresses excitement for the future as they expand their capacity to help more patients. Staff members share their motivations for working in oncology, highlighting the importance of building long-term relationships with patients and navigating financial barriers to treatment. They emphasize that the team's strong bond and collective passion enhance patient care, creating a supportive and comforting environment.
