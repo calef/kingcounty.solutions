@@ -1,0 +1,19 @@
+#!/usr/bin/env ruby
+# frozen_string_literal: true
+
+$LOAD_PATH.unshift(File.expand_path('../lib', __dir__))
+
+require 'mayhem/front_matter_tidier'
+
+def usage
+  warn 'Usage: tidy-frontmatter PATH...'
+  warn '  PATH can be a Markdown file or directory to recurse.'
+  exit 1
+end
+
+if $PROGRAM_NAME == __FILE__
+  usage if ARGV.empty?
+
+  tidier = Mayhem::FrontMatterTidier.new
+  tidier.tidy(ARGV)
+end
