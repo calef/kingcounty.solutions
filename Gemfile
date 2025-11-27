@@ -31,8 +31,9 @@ gem 'toml-rb'
 gem 'uri'
 gem 'yaml'
 
-group :development do
+group :development, :test do
   gem 'parallel_tests', require: false
   gem 'rubocop', require: false
   gem 'rubocop-minitest', require: false
+  gem 'webmock'
 end

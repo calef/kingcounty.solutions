@@ -10,6 +10,9 @@ GEM
     citrus (3.0.2)
     colorator (1.1.0)
     concurrent-ruby (1.3.5)
+    crack (1.0.1)
+      bigdecimal
+      rexml
     csv (3.3.5)
     date (3.5.0)
     digest (3.2.1)
@@ -38,6 +41,7 @@ GEM
     google-protobuf (4.33.1-x86_64-linux-gnu)
       bigdecimal
       rake (>= 13)
+    hashdiff (1.2.1)
     http_parser.rb (0.8.0)
     i18n (1.14.7)
       concurrent-ruby (~> 1.0)
@@ -178,6 +182,10 @@ GEM
       racc (~> 1.7)
     unicode-display_width (2.6.0)
     uri (1.1.1)
+    webmock (3.26.1)
+      addressable (>= 2.8.0)
+      crack (>= 0.3.2)
+      hashdiff (>= 0.4.0, < 2.0.0)
     webrick (1.9.1)
     yaml (0.4.0)
 
@@ -215,6 +223,7 @@ DEPENDENCIES
   time
   toml-rb
   uri
+  webmock
   yaml
 
 BUNDLED WITH
