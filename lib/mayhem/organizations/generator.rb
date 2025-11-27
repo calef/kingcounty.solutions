@@ -9,6 +9,7 @@ require 'uri'
 require_relative '../logging'
 require_relative '../support/front_matter_document'
 require_relative '../feed_discovery'
+require_relative '../support/slug_generator'
 
 module Mayhem
   module Organizations
@@ -235,8 +236,9 @@ module Mayhem
       end
 
       def slugify(title)
-        base = title.to_s.downcase.gsub(/[^a-z0-9]+/, '-').gsub(/^-|-$/, '')
-        base.empty? ? 'organization' : base
+        slug = Mayhem::Support::SlugGenerator.sanitized_slug(title)
+        slug = 'organization' if slug.to_s.strip.empty?
+        slug
       end
 
       def ensure_unique_slug(base)
