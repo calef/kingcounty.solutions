@@ -1,0 +1,22 @@
+---
+http_interactions:
+- request:
+    method: :get
+    uri: https://example.com/image.svg
+    body:
+      encoding: UTF-8
+      string: ""
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Content-Type:
+      - image/svg+xml
+    body:
+      encoding: UTF-8
+      string: "<svg xmlns=\"http://www.w3.org/2000/svg\" width=\"1\" height=\"1\"><rect width=\"1\" height=\"1\" fill=\"#000\"/></svg>"
+    http_version: '1.1'
+  recorded_at: 2025-11-27T23:24:18Z
+recorded_with: VCR 6.3.1

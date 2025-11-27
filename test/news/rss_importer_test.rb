@@ -41,10 +41,12 @@ class RssImporterTest < Minitest::Test
       skip 'WebMock not available; skipping network-dependent test'
     end
 
-    stub_request(:get, 'https://example.com/feed.xml').to_return(status: 200, body: @feed_body, headers: {})
-    stub_request(:get, 'https://example.com/posts/1').to_return(status: 200, body: '<html><body><article><p>Article body</p></article></body></html>')
+    VCR.use_cassette('rss_importer/test_feed') do
+      stub_request(:get, 'https://example.com/feed.xml').to_return(status: 200, body: @feed_body, headers: {})
+      stub_request(:get, 'https://example.com/posts/1').to_return(status: 200, body: '<html><body><article><p>Article body</p></article></body></html>')
 
-    @importer = Mayhem::News::RssImporter.new(news_dir: @tmp_posts, sources_dir: @tmp_orgs, checksum_store: Mayhem::Support::FeedChecksumStore.new(path: File.join(@tmp_orgs, 'checks.yml')))
+      @importer = Mayhem::News::RssImporter.new(news_dir: @tmp_posts, sources_dir: @tmp_orgs, checksum_store: Mayhem::Support::FeedChecksumStore.new(path: File.join(@tmp_orgs, 'checks.yml')))
+    end
   end
 
   def teardown

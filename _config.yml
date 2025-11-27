@@ -41,6 +41,7 @@ exclude:
   - .jekyll-cache/
   - .sass-cache/
   - AGENTS.md
+  - CONTRIBUTING.md
   - Gemfile
   - Gemfile.lock
   - LICENSE

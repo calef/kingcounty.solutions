@@ -182,6 +182,8 @@ GEM
       racc (~> 1.7)
     unicode-display_width (2.6.0)
     uri (1.1.1)
+    vcr (6.3.1)
+      base64
     webmock (3.26.1)
       addressable (>= 2.8.0)
       crack (>= 0.3.2)
@@ -223,6 +225,7 @@ DEPENDENCIES
   time
   toml-rb
   uri
+  vcr
   webmock
   yaml
 

@@ -20,7 +20,7 @@ class PostImageExtractorTest < Minitest::Test
       date: #{Time.now.iso8601}
       source: Test
       source_url: https://example.com/p/1
-      original_markdown_body: '![](https://example.com/image.jpg)'
+      original_markdown_body: '![](https://example.com/image.svg)'
       summarized: true
       ---
 
@@ -29,13 +29,11 @@ class PostImageExtractorTest < Minitest::Test
     File.write(File.join(@tmp_posts, '2025-11-27-img-post.md'), fm)
 
     # stub image download
-    if !defined?(WebMock) || WebMock.nil?
-      skip 'WebMock not available; skipping network-dependent test'
+    VCR.use_cassette('post_image_extractor/image_download') do
+      stub_request(:get, 'https://example.com/image.jpg').to_return(status: 200, body: File.binread(__FILE__), headers: { 'Content-Type' => 'image/jpeg' })
+
+      @extractor = Mayhem::News::PostImageExtractor.new(posts_dir: @tmp_posts, image_docs_dir: @tmp_images, asset_dir: @assets, logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'))
     end
-
-    stub_request(:get, 'https://example.com/image.jpg').to_return(status: 200, body: File.binread(__FILE__), headers: { 'Content-Type' => 'image/jpeg' })
-
-    @extractor = Mayhem::News::PostImageExtractor.new(posts_dir: @tmp_posts, image_docs_dir: @tmp_images, asset_dir: @assets, logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'))
   end
 
   def teardown

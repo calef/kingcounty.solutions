@@ -1,0 +1,39 @@
+---
+http_interactions:
+- request:
+    method: :get
+    uri: https://example.com/feed.xml
+    body:
+      encoding: UTF-8
+      string: ""
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: OK
+    headers: {}
+    body:
+      encoding: UTF-8
+      string: "<?xml version=\"1.0\" encoding=\"UTF-8\" ?>\n<rss version=\"2.0\">\n  <channel>\n    <title>Test Feed</title>\n    <item>\n      <title>Test Item</title>\n      <link>/posts/1</link>\n      <pubDate>2025-11-27T00:00:00Z</pubDate>\n      <description><![CDATA[<p>Original HTML</p>]]></description>\n    </item>\n  </channel>\n</rss>"
+    http_version: '1.1'
+  recorded_at: 2025-11-27T23:24:18Z
+- request:
+    method: :get
+    uri: https://example.com/posts/1
+    body:
+      encoding: UTF-8
+      string: ""
+    headers: {}
+  response:
+    status:
+      code: 200
+      message: OK
+    headers:
+      Content-Type:
+      - text/html
+    body:
+      encoding: UTF-8
+      string: "<html><body><article><p>Article body</p></article></body></html>"
+    http_version: '1.1'
+  recorded_at: 2025-11-27T23:24:18Z
+recorded_with: VCR 6.3.1

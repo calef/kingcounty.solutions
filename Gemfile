@@ -36,4 +36,5 @@ group :development, :test do
   gem 'rubocop', require: false
   gem 'rubocop-minitest', require: false
   gem 'webmock'
+  gem 'vcr'
 end
