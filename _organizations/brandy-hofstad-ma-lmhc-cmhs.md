@@ -14,7 +14,7 @@ title: Brandy Hofstad MA, LMHC, CMHS
 topics:
 - Mental Health & Counseling
 - Childcare
-type: Agency
+type: Licensed Mental Health Counselor
 website: https://www.brandyhofstad.com/
 ---
 

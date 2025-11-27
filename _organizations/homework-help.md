@@ -2,7 +2,6 @@
 address: 1000 Fourth Ave., Seattle, WA 98104
 jurisdictions:
 - Seattle
-news_rss_url: https://blog.spl.org/feed/
 parent_organization: The Seattle Public Library
 title: Homework Help
 topics:

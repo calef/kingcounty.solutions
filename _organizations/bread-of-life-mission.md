@@ -10,7 +10,7 @@ topics:
 - Food & Nutrition
 - Mental Health & Counseling
 - Shelter & Housing
-type: Community-Based Organization
+type: Faith-Based Organization
 website: https://breadoflifemission.org/
 ---
 

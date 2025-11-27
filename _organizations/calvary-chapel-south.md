@@ -8,7 +8,7 @@ phone: 253-852-7030
 title: Calvary Chapel South
 topics:
 - Education & Learning
-type: Community-Based Organization
+type: Faith-Based Organization
 website: https://ccskent.org
 ---
 

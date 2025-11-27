@@ -5,7 +5,7 @@ title: Bethany Community Church
 topics:
 - Food & Nutrition
 - Mental Health & Counseling
-type: Community-Based Organization
+type: Faith-Based Organization
 website: https://churchbcc.org/missions/local-outreach
 ---
 

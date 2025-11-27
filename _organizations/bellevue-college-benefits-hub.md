@@ -3,12 +3,13 @@ acronym: BCH
 email: benefitshub@bellevuecollege.edu
 jurisdictions:
 - Bellevue
-title: Benefits Hub - Bellevue College
+parent_organization: Bellevue College
+title: Bellevue College Benefits Hub
 topics:
 - Food & Nutrition
 - Financial Assistance
 - Shelter & Housing
-type: Community-Based Organization
+type: Program
 website: https://www.bellevuecollege.edu/current-students/benefits-hub/
 ---
 

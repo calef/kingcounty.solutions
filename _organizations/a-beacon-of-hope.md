@@ -1,7 +1,7 @@
 ---
 jurisdictions:
 - King County
-phone: 253-632-2543
+parent_organization: Circle of Caring Friends Charity
 title: A Beacon of Hope
 topics:
 - Disabilities

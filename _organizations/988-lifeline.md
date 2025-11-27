@@ -1,6 +1,7 @@
 ---
 jurisdictions:
 - United States
+parent_organization: Vibrant Emotional Health
 phone: '988'
 title: 988 Lifeline
 topics:

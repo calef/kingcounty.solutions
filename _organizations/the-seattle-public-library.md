@@ -2,6 +2,7 @@
 address: 1000 Fourth Ave., Seattle, WA 98104
 jurisdictions:
 - King County
+news_rss_url: https://blog.spl.org/feed/
 parent_organization: City of Seattle
 phone: 206-386-4636
 title: The Seattle Public Library

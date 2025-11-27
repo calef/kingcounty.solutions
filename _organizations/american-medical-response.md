@@ -7,7 +7,7 @@ title: American Medical Response
 topics:
 - Health Care
 - Mental Health & Counseling
-type: Corporation
+type: Department
 website: https://www.amr.net
 ---
 

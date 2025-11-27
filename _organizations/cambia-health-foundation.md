@@ -7,7 +7,7 @@ topics:
 - Health Care
 - Mental Health & Counseling
 - Food & Nutrition
-type: Community-Based Organization
+type: Corporate Foundation
 website: https://www.cambiahealthfoundation.org
 ---
 

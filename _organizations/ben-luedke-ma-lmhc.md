@@ -8,7 +8,7 @@ phone: 425.454.0422
 title: Ben Luedke, MA, LMHC
 topics:
 - Mental Health & Counseling
-type: Independent Federal Agency
+type: Licensed Mental Health Counselor
 website: https://benluedke.com/
 ---
 

@@ -6,7 +6,7 @@ title: Amy Summers PHD
 topics:
 - Mental Health & Counseling
 - Education & Learning
-type: Agency
+type: Psychologist
 website: https://amysummersphd.com/
 ---
 
