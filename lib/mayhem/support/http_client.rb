@@ -21,7 +21,8 @@ module Mayhem
         allow_insecure_fallback: true
       }.freeze
 
-      def initialize(user_agent: UA, delay: DEFAULTS[:delay], max_redirects: DEFAULTS[:max_redirects], timeout: DEFAULTS[:timeout], allow_insecure_fallback: DEFAULTS[:allow_insecure_fallback], logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'))
+      def initialize(user_agent: UA, delay: DEFAULTS[:delay], max_redirects: DEFAULTS[:max_redirects],
+                     timeout: DEFAULTS[:timeout], allow_insecure_fallback: DEFAULTS[:allow_insecure_fallback], logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'))
         @user_agent = user_agent
         @delay = delay
         @max_redirects = max_redirects

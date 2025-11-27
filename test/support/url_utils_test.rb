@@ -8,6 +8,7 @@ require_relative '../../lib/mayhem/logging'
 class UrlUtilsTest < Minitest::Test
   def test_absolutize_and_parse_host
     base = 'https://example.com/path/'
+
     assert_equal 'https://example.com/foo', Mayhem::Support::UrlUtils.absolutize(base, '/foo')
     assert_equal 'example.com', Mayhem::Support::UrlUtils.parse_host(base)
   end
@@ -16,7 +17,8 @@ class UrlUtilsTest < Minitest::Test
     base = 'https://example.com'
     http = 'http://example.com/feed.xml'
     https = Mayhem::Support::UrlUtils.enforce_https(base, http)
+
     assert_equal 'https://example.com/feed.xml', https
-    assert_equal true, Mayhem::Support::UrlUtils.non_feed_url?('https://example.com/file.pdf')
+    assert Mayhem::Support::UrlUtils.non_feed_url?('https://example.com/file.pdf')
   end
 end

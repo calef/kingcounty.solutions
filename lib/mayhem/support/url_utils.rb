@@ -8,11 +8,11 @@ module Mayhem
       # Methods are available as module-level methods and as instance methods when mixed in.
 
       NON_FEED_URL_PATTERNS = [
-        %r{\.(pdf|docx?|xlsx?|pptx?|zip)(\?|$)}i,
+        /\.(pdf|docx?|xlsx?|pptx?|zip)(\?|$)/i,
         %r{DocumentCenter/(View|Download)/}i
       ].freeze
 
-      extend self
+      module_function
 
       def absolutize(base_url, href)
         return nil if href.nil?
@@ -45,7 +45,7 @@ module Mayhem
         base_host = parse_host(base_url)
         return candidate_url unless candidate_host && base_host && candidate_host == base_host
 
-        candidate_url.sub(%r{\Ahttp:}, 'https:')
+        candidate_url.sub(/\Ahttp:/, 'https:')
       end
 
       def non_feed_url?(url)

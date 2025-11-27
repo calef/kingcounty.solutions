@@ -52,6 +52,7 @@ class FrontMatterTidierTest < Minitest::Test
       File.write(file, 'No front matter here')
 
       @tidier.tidy(file)
+
       assert_equal 'No front matter here', File.read(file)
     end
   end
@@ -67,7 +68,7 @@ class FrontMatterTidierTest < Minitest::Test
 
     result = @tidier.tidy_markdown(original)
 
-    assert_includes result, "  child: value"
-    refute_includes result, "    child: value"
+    assert_includes result, '  child: value'
+    refute_includes result, '    child: value'
   end
 end

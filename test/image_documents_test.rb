@@ -243,5 +243,4 @@ class ImageDocumentsTest < Minitest::Test
   def path_within_repo?(absolute_path)
     absolute_path.to_s.start_with?(repo_root.to_s + File::SEPARATOR) || absolute_path == repo_root
   end
-
 end

@@ -12,6 +12,7 @@ class UrlNormalizerTest < Minitest::Test
 
   def test_missing_host_with_base
     base = 'https://example.com/blog/'
+
     assert_equal 'https://example.com/posts/1', Mayhem::Support::UrlNormalizer.normalize('/posts/1', base: base)
     assert_equal 'https://example.com/blog/posts/1', Mayhem::Support::UrlNormalizer.normalize('posts/1', base: base)
   end

@@ -40,7 +40,7 @@ module Mayhem
     end
 
     def tidy_directory(directory)
-      Dir.glob(File.join(directory, '**', '*.md')).sort.each do |file|
+      Dir.glob(File.join(directory, '**', '*.md')).each do |file|
         tidy_file(file)
       end
     end
@@ -59,6 +59,5 @@ module Mayhem
     def markdown_file?(path)
       File.file?(path) && path.downcase.end_with?('.md')
     end
-
   end
 end

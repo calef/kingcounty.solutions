@@ -19,7 +19,7 @@ module Mayhem
         link_str = "https:#{link_str}" if link_str.start_with?('//')
 
         uri = parse_uri_with_https_fallback(link_str)
-        return uri.to_s if uri && uri.scheme && uri.host && uri.scheme.match?(/\Ahttps?\z/)
+        return uri.to_s if uri&.scheme && uri.host && uri.scheme.match?(/\Ahttps?\z/)
 
         if base && !base.empty?
           begin

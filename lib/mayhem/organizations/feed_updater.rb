@@ -2,8 +2,6 @@
 
 require 'date'
 require 'etc'
-require 'set'
-require 'thread'
 require_relative '../logging'
 require_relative '../support/front_matter_document'
 require_relative '../feed_discovery'
@@ -50,6 +48,7 @@ module Mayhem
           Thread.new do
             loop do
               break if limit_reached?(processed_mutex, processed)
+
               file_name = next_file(queue)
               break unless file_name
               break if limit_reached?(processed_mutex, processed)

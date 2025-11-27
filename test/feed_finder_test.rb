@@ -110,7 +110,7 @@ class FeedFinderTest < Minitest::Test
         final_url: 'https://example.org'
       },
       'https://example.org/calendar.ics' => {
-        body: "BEGIN:VCALENDAR\\r\\nEND:VCALENDAR",
+        body: 'BEGIN:VCALENDAR\\r\\nEND:VCALENDAR',
         content_type: 'text/calendar',
         final_url: 'https://example.org/calendar.ics'
       }

@@ -1,7 +1,6 @@
 # frozen_string_literal: true
 
 require 'fileutils'
-require 'thread'
 require 'tmpdir'
 
 require 'test_helper'

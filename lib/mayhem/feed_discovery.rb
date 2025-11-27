@@ -46,7 +46,7 @@ module Mayhem
       posts announcements resources impact calendar
     ].freeze
     NON_FEED_URL_PATTERNS = [
-      %r{\.(pdf|docx?|xlsx?|pptx?|zip)(\?|$)}i,
+      /\.(pdf|docx?|xlsx?|pptx?|zip)(\?|$)/i,
       %r{DocumentCenter/(View|Download)/}i
     ].freeze
 
@@ -92,8 +92,6 @@ module Mayhem
         rss_url && ical_url
       end
     end
-
-
 
     class CandidateCollector
       include UrlHelpers
@@ -194,6 +192,7 @@ module Mayhem
           next unless guessed
           next unless guessed.start_with?('https://')
           next if non_feed_url?(guessed)
+
           candidates << [3, guessed]
         end
       end
@@ -332,6 +331,7 @@ module Mayhem
         candidates = collect_candidates(html, final_url)
         candidates.first(8).each do |candidate|
           break if needed.nil? && result.complete?
+
           kind, url = verify_feed(candidate)
           next unless kind
           next if needed && !needed.include?(kind)
@@ -413,6 +413,7 @@ module Mayhem
         ctype = (content_type || '').downcase
 
         return true if ctype.include?('calendar')
+
         preview.include?('begin:vcalendar')
       end
 
