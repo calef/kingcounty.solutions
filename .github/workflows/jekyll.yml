@@ -26,16 +26,34 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.4.7'   # or whatever version you prefer
+          bundler-cache: true     # caches gems between runs
+
+      - name: Ensure scripts are executable
+        run: |
+          chmod +x script/bootstrap
+          chmod +x script/cibuild
+
       - name: Install dependencies
         run: ./script/bootstrap
+
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
+
       - name: Build site and run tests
         run: ./script/cibuild
+
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
+        # If cibuild outputs somewhere else, uncomment and set:
+        # with:
+        #   path: ./_site
 
   # Deployment job
   deploy:
