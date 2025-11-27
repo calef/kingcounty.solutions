@@ -9,10 +9,10 @@ Utility commands that automate content imports, auditing, and metadata maintenan
 | `audit-organization-topics` | Uses OpenAI to reconcile each organization’s topics against recent news coverage and optionally rewrites front matter. |
 | `generate-organization-from-url` | Scrapes a site, asks OpenAI for metadata, and creates a new `_organizations/*.md` entry. |
 | `generate-weekly-summary` | Builds a weekly roundup article from `_posts/`, grouping stories into themes with LLM assistance. |
-| `extract-post-images` | Pulls image URLs from `original_markdown_body`, downloads them into `assets/images`, hashes/renames files, and links image IDs into `_posts/` and `_images/`. |
-| `import-rss-news` | Pulls fresh posts from partner RSS feeds defined in `_organizations/` and writes Markdown copies into `_posts/`. |
+| `extract-post-images` | Pulls image URLs from `original_markdown_body` (if present), downloads them into `assets/images`, hashes/renames files, and links image IDs into `_posts/` and `_images/`. |
+| `import-rss-news` | Pulls fresh posts from partner RSS feeds defined in `_organizations/`, normalizes and validates item URLs using the organization `website` when needed, and writes Markdown copies into `_posts/` (invalid source URLs are never stored). |
 | `list-openai-models` | Lists available OpenAI model IDs for the current API key. |
-| `summarize-news` | Fetches source articles for `_posts/` entries missing summaries, stores the original body, and writes an AI summary. |
+| `summarize-news` | Fetches source articles for `_posts/` entries missing summaries (or uses stored Markdown), generates an AI-written summary, and writes it back; the tool no longer persists `original_content` or `original_markdown_body` in updated posts. |
 | `summarize-topics` | Generates short descriptions for topic pages that lack an editorial summary. |
 | `update-organization-feed-urls` | Crawls organization websites to locate RSS/Atom and iCal feeds, updating `news_rss_url` and `events_ical_url`. |
 | `tidy-frontmatter` | Normalizes Markdown front matter (sorted keys, consistent delimiters, and tidy spacing between the delimiter and body). |
@@ -135,7 +135,7 @@ Imports recent partner updates from every `_organizations/*.md` that exposes `ne
 
 **Behavior notes**
 
-- De-duplicates by checking existing `_posts/` entries whose `original_content` is present and `source_url` matches.
+- De-duplicates by checking existing `_posts/` entries whose `source_url` matches (the importer normalizes and validates URLs before storing, and invalid URLs are not persisted).
 - Attempts to scrape the article body directly (preferring known selectors) if the RSS item lacks `content:encoded`.
 - Converts HTML to Markdown via `ReverseMarkdown`, stores the upstream HTML in `original_content`, and saves the cleaned Markdown body beneath a single YAML front matter block.
 - Stores SHA256 checksums for each feed in `bin/feed_checksums.yml` and skips reprocessing feeds whose checksum has not changed since the previous run.

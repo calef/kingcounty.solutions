@@ -10,8 +10,8 @@
 - Toolchains are managed with `mise`; if you open a new shell run `mise exec ruby@$(cat .ruby-version) -- <command>` (or source its activation line) so Ruby/Bundler versions match `.ruby-version`/`.bundler-version`.
 - `script/server` — wraps `bundle exec jekyll serve --livereload` so you can preview at `http://127.0.0.1:4000`.
 - `script/cibuild` — invokes `bundle exec jekyll build` plus any future CI checks; run locally before PRs.
-- `bin/import-rss-news` — pulls latest partner news into `_posts/`. Delete a post’s `original_content` to force re-import.
-- `bin/summarize-news` — generates AI summaries for posts lacking `summarized: true`, preserving the original markdown body in `original_markdown_body`.
+- `bin/import-rss-news` — pulls latest partner news into `_posts/`. The importer now normalizes and validates item URLs (using an organization’s `website` as a base when needed) and will not persist invalid `source_url` values; deleting a post’s `source_url` can force re-import.
+- `bin/summarize-news` — generates AI summaries for posts lacking `summarized: true`. The summarizer uses the stored Markdown body or the fetched article when available and no longer persists `original_content` or `original_markdown_body` when saving updated posts.
 
 ## Coding Style & Naming Conventions
 - Use two spaces for indentation in Liquid templates, Markdown front matter, and Ruby scripts. Keep YAML keys lowercase with snake_case (e.g., `parent_place`).
