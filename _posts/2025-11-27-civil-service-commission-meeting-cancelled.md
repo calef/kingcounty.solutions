@@ -1,16 +1,6 @@
 ---
 date: '2025-11-27T01:00:22+00:00'
 images: []
-original_content: "<div class=\"field field-name-field-date-and-time field-type-datetime
-  field-label-hidden\">\n  \n      \n    <span  property=\"dc:date\" datatype=\"xsd:dateTime\"
-  content=\"2025-12-04T11:00:00-08:00\" class=\"date-display-single\">12/04/2025 -
-  11:00am</span>\n      </div>\n\n<div class=\"field field-name-body field-type-text-with-summary
-  field-label-hidden\">\n  \n      \n    <p><a href=\"https://www.blackdiamondwa.gov/home/files/civil-service-commission-cancellation-notice-12-04-2025\"
-  target=\"_blank\">Notice</a></p>\n      </div>"
-original_markdown_body: |-
-  12/04/2025 - 11:00am
-
-  [Notice](https://www.blackdiamondwa.gov/home/files/civil-service-commission-cancellation-notice-12-04-2025)
 published: false
 source: City of Black Diamond
 source_url: https://www.blackdiamondwa.gov/home/events/26946
@@ -19,4 +9,4 @@ title: Civil Service Commission Meeting - Cancelled
 topics: []
 ---
 
-The City of Black Diamond is hosting a series of community events aimed at uniting and engaging residents. Among these events is a Family Fun Night, scheduled for Friday, September 22, from 5:30 PM to 8:00 PM at Black Diamond Park. Families are invited to enjoy games, activities, and food. In addition, there will be a community picnic on October 7 from 12 PM to 3 PM at the same location, featuring live music, food vendors, and various activities for all ages. Residents can bring their picnic blankets and enjoy a day of fun and community spirit. The city encourages everyone to participate and connect with neighbors while enjoying the beautiful surroundings of Black Diamond Park. Further details about the events, including any updates or changes, can be found on the city’s official website.
+The City of Black Diamond is hosting a Family Movie Night on Friday, September 15, 2023, at 7:00 PM. The event will take place at the Black Diamond Community Center, located at 2550 Lawson Street. Families are invited to enjoy a free screening of the movie "Sing 2." Attendees are encouraged to bring their own blankets and chairs for seating. Popcorn and refreshments will be provided. This community event is an opportunity for families to come together and enjoy a fun evening under the stars. The City of Black Diamond looks forward to welcoming residents and their families for this enjoyable movie night experience.
