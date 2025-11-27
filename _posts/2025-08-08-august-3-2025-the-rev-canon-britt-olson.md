@@ -1,13 +1,6 @@
 ---
 date: '2025-08-08T00:01:54+00:00'
 images: []
-original_content: |-
-  <p>Proper 13, Year C Just as I did last Sunday, I need to take a few minutes before the main focus of my sermon, to address the powerful images found &#8230; <a class="kt-excerpt-readmore" href="https://stlukesseattle.org/2025/08/08/august-3-2025-the-rev-canon-britt-olson/" aria-label="August 3, 2025 &#8212; The Rev Canon Britt Olson">Read More</a></p>
-  <p>The post <a href="https://stlukesseattle.org/2025/08/08/august-3-2025-the-rev-canon-britt-olson/">August 3, 2025 &#8212; The Rev Canon Britt Olson</a> appeared first on <a href="https://stlukesseattle.org">St. Luke Episcopal Church</a>.</p>
-original_markdown_body: |-
-  Proper 13, Year C Just as I did last Sunday, I need to take a few minutes before the main focus of my sermon, to address the powerful images found … [Read More](https://stlukesseattle.org/2025/08/08/august-3-2025-the-rev-canon-britt-olson/)
-
-  The post [August 3, 2025 — The Rev Canon Britt Olson](https://stlukesseattle.org/2025/08/08/august-3-2025-the-rev-canon-britt-olson/) appeared first on [St. Luke Episcopal Church](https://stlukesseattle.org).
 source: St. Luke Episcopal Church
 source_url: https://stlukesseattle.org/2025/08/08/august-3-2025-the-rev-canon-britt-olson/
 summarized: true

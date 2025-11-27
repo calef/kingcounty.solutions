@@ -1,16 +1,6 @@
 ---
 date: '2025-05-19T17:22:38+00:00'
 images: []
-original_content: Brian* lived without a place to call home for two years before moving
-  into MSC’s Burien Veterans House. Like many in our community, Brian faced significant
-  barriers to stable housing including crushing debt, ongoing mental health struggles,
-  and the overwhelming weight of trying to rebuild with limited support. Every door
-  seemed to close before  [...]
-original_markdown_body: Brian\* lived without a place to call home for two years before
-  moving into MSC’s Burien Veterans House. Like many in our community, Brian faced
-  significant barriers to stable housing including crushing debt, ongoing mental health
-  struggles, and the overwhelming weight of trying to rebuild with limited support.
-  Every door seemed to close before [...]
 source: Multi-Service Center
 source_url: https://mschelps.org/a-veterans-path-to-stability/
 summarized: true

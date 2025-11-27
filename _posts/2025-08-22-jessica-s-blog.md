@@ -1,10 +1,6 @@
 ---
 date: '2025-08-22T16:48:56+00:00'
 images: []
-original_content: <p>The post <a href="https://www.kcsarc.org/en/jessicas-blog/">Jessica&#8217;s
-  Blog</a> appeared first on <a href="https://www.kcsarc.org/en/">KCSARC</a>.</p>
-original_markdown_body: The post [Jessica’s Blog](https://www.kcsarc.org/en/jessicas-blog/)
-  appeared first on [KCSARC](https://www.kcsarc.org/en/).
 source: King County Sexual Assault Resource Center
 source_url: https://www.kcsarc.org/en/jessicas-blog/
 summarized: true

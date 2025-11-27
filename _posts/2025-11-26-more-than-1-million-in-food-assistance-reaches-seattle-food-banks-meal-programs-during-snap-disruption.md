@@ -1,14 +1,6 @@
 ---
 date: '2025-11-26T19:23:57+00:00'
 images: []
-original_content: When SNAP benefits were disrupted November 1 amid the federal shutdown,
-  tens of thousands of Seattle residents were suddenly left scared and wondering how
-  they would afford to feed their families for unforeseeable future.   On October
-  30, Seattle Mayor...
-original_markdown_body: When SNAP benefits were disrupted November 1 amid the federal
-  shutdown, tens of thousands of Seattle residents were suddenly left scared and wondering
-  how they would afford to feed their families for unforeseeable future.&nbsp;&nbsp;
-  On October 30, Seattle Mayor...
 source: City of Seattle
 source_url: https://humaninterests.seattle.gov/2025/11/26/more-than-1-million-in-food-assistance-reaches-seattle-food-banks-meal-programs-during-snap-disruption/
 summarized: true

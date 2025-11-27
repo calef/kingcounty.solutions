@@ -1,20 +1,6 @@
 ---
 date: '2025-03-31T20:12:58-07:00'
 images: []
-original_content: February 2025We are so grateful for your partnership in offering
-  women and children a chance to heal and rebuild. Sacha's House, our community living
-  home, is designed to provide the time, space, and support families need to create 
-  sustainable new lives. Every three months, the staff at Sacha's House meets with
-  the women to celebrate their successes and fine tune goals for the next quarter.
-  Here is a sneak peak into the exciting journey the women at Sacha's House are on
-  and their experience
-original_markdown_body: February 2025We are so grateful for your partnership in offering
-  women and children a chance to heal and rebuild. Sacha's House, our community living
-  home, is designed to provide the time, space, and support families need to create&nbsp;
-  sustainable new lives. Every three months, the staff at Sacha's House meets with
-  the women to celebrate their successes and fine tune goals for the next quarter.
-  Here is a sneak peak into the exciting journey the women at Sacha's House are on
-  and their experience
 source: Lighthouse NW
 source_url: https://lighthousenw.org/blog/new-life-at-sacha-s-house-2025
 summarized: true

@@ -1,16 +1,6 @@
 ---
 date: '2025-11-21T12:00:00+00:00'
 images: []
-original_content: A federal district court in Nevada sentenced Eduardo “Eddie” Lopez
-  of Las Vegas to 40 months in custody and $550,000 in criminal fines. In addition,
-  Lopez must pay $2,496,101 in criminal restitution to the defrauded purchaser of
-  his home healthcare company. Lopez was also ordered to forfeit $10,459,000 from
-  the fraudulent sale of his home healthcare company.
-original_markdown_body: A federal district court in Nevada sentenced Eduardo “Eddie”
-  Lopez of Las Vegas to 40 months in custody and $550,000 in criminal fines. In addition,
-  Lopez must pay $2,496,101 in criminal restitution to the defrauded purchaser of
-  his home healthcare company. Lopez was also ordered to forfeit $10,459,000 from
-  the fraudulent sale of his home healthcare company.
 source: Department of Justice
 source_url: https://www.justice.gov/opa/pr/white-collar-executive-incarcerated-fixing-nurse-wages-and-fraud
 summarized: true

@@ -1,14 +1,6 @@
 ---
 date: '2025-11-14T12:00:00+00:00'
 images: []
-original_content: The Justice Department today announced five guilty pleas and more
-  than $15 million in civil forfeiture actions against the Democratic People’s Republic
-  of Korea (DPRK) remote information technology (IT) work and virtual currency heist
-  schemes.&nbsp;
-original_markdown_body: The Justice Department today announced five guilty pleas and
-  more than $15 million in civil forfeiture actions against the Democratic People’s
-  Republic of Korea (DPRK) remote information technology (IT) work and virtual currency
-  heist schemes.&nbsp;
 published: false
 source: Department of Justice
 source_url: https://www.justice.gov/opa/pr/justice-department-announces-nationwide-actions-combat-illicit-north-korean-government

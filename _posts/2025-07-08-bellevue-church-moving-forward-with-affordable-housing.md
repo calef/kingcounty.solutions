@@ -1,13 +1,6 @@
 ---
 date: '2025-07-08T23:12:58+00:00'
 images: []
-original_content: |-
-  <p>The DJC reported last spring that St. Andrew&#8217;s Lutheran Church in Bellevue was exploring the possibility of co-developing a large affordable housing<span class="excerpt-hellip"> […]</span></p>
-  <p>The post <a href="https://imaginehousing.org/bellevue-church-moving-forward-with-affordable-housing/">Bellevue Church Moving Forward with Affordable Housing</a> appeared first on <a href="https://imaginehousing.org">Imagine Housing</a>.</p>
-original_markdown_body: |-
-  The DJC reported last spring that St. Andrew’s Lutheran Church in Bellevue was exploring the possibility of co-developing a large affordable housing […]
-
-  The post [Bellevue Church Moving Forward with Affordable Housing](https://imaginehousing.org/bellevue-church-moving-forward-with-affordable-housing/) appeared first on [Imagine Housing](https://imaginehousing.org).
 source: Imagine Housing
 source_url: https://imaginehousing.org/bellevue-church-moving-forward-with-affordable-housing/
 summarized: true

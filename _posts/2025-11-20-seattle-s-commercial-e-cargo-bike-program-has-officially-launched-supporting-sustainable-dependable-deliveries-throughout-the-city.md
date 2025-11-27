@@ -1,14 +1,6 @@
 ---
 date: '2025-11-20T19:20:57+00:00'
 images: []
-original_content: 'Blog stats: 1,200 words &#124; 6-minute read Summary: Addressing
-  the challenge of more deliveries in Seattle In the Puget Sound region, deliveries
-  of packages, food, and grocery items more than doubled between 2019 and 2021. Growing
-  delivery volumes ca...'
-original_markdown_body: 'Blog stats: 1,200 words | 6-minute read Summary: Addressing
-  the challenge of more deliveries in Seattle In the Puget Sound region, deliveries
-  of packages, food, and grocery items more than doubled between 2019 and 2021. Growing
-  delivery volumes ca...'
 source: City of Seattle
 source_url: https://sdotblog.seattle.gov/2025/11/20/seattle-commercial-e-cargo-bike-program/
 summarized: true

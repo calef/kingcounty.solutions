@@ -1,16 +1,6 @@
 ---
 date: '2025-07-01T20:00:31+00:00'
 images: []
-original_content: Cross posted from Metro Matters Fireworks, parades, picnics and
-  festivals on July Fourth — there’s so much going on! Here’s some things to know
-  before stepping onto transit on July 4 to get to your celebration.&#160; More information
-  on travel planning&#160; Visit Metro’s online regional Trip Planner  or call the
-  Customer Information Office on weekdays at&#8230;
-original_markdown_body: Cross posted from Metro Matters Fireworks, parades, picnics
-  and festivals on July Fourth — there’s so much going on! Here’s some things to know
-  before stepping onto transit on July 4 to get to your celebration.&nbsp; More information
-  on travel planning&nbsp; Visit Metro’s online regional Trip Planner  or call the
-  Customer Information Office on weekdays at…
 source: King County Ferry District
 source_url: https://kingcountywatertaxiblog.com/2025/07/01/what-to-know-before-taking-transit-to-events-on-july-4/
 summarized: true

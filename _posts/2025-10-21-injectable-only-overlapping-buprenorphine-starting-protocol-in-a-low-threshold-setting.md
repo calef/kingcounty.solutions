@@ -1,18 +1,6 @@
 ---
 date: '2025-10-21T22:24:45+00:00'
 images: []
-original_content: DESC’s innovative new method for administering opioid use disorder
-  treatment was published in JAMA Network Open. Assessing the outcomes associated
-  with an injectable-only buprenorphine starting protocol in a low-threshold outpatient
-  setting among individuals using fentanyl, this study evaluated 95 patients with
-  moderate to severe opioid use disorder. The study shows that this new protocol has
-  [&#8230;]
-original_markdown_body: DESC’s innovative new method for administering opioid use
-  disorder treatment was published in JAMA Network Open. Assessing the outcomes associated
-  with an injectable-only buprenorphine starting protocol in a low-threshold outpatient
-  setting among individuals using fentanyl, this study evaluated 95 patients with
-  moderate to severe opioid use disorder. The study shows that this new protocol has
-  […]
 source: DESC
 source_url: https://www.desc.org/injectable-only-overlapping-buprenorphine-starting-protocol-in-a-low-threshold-setting/
 summarized: true

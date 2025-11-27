@@ -1,16 +1,6 @@
 ---
 date: '2025-11-17T12:00:00+00:00'
 images: []
-original_content: A federal jury in West Palm Beach, Florida, convicted a President
-  of an insurance brokerage firm and a CEO of a marketing company today for their
-  roles in a years-long scheme to submit fraudulent enrollments to fully subsidized
-  Affordable Care Act (ACA) insurance plans in order to obtain millions of dollars
-  in commission payments from insurance companies.
-original_markdown_body: A federal jury in West Palm Beach, Florida, convicted a President
-  of an insurance brokerage firm and a CEO of a marketing company today for their
-  roles in a years-long scheme to submit fraudulent enrollments to fully subsidized
-  Affordable Care Act (ACA) insurance plans in order to obtain millions of dollars
-  in commission payments from insurance companies.
 source: Department of Justice
 source_url: https://www.justice.gov/opa/pr/president-insurance-brokerage-firm-and-ceo-marketing-company-convicted-233m-affordable-care
 summarized: true

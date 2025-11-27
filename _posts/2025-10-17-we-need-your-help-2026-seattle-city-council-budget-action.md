@@ -1,20 +1,6 @@
 ---
 date: '2025-10-17T16:29:27+00:00'
 images: []
-original_content: 'LIHI and other nonprofit housing providers are calling on the City
-  of Seattle to add $10 million for tenant-based rental assistance - and we need your
-  help!  The problem:  Many tenants living in affordable housing funded by the Office
-  of Housing (OH) are overburdened by the rising cost of living including food, medical
-  care, transportation, child care, and other basic needs. With an eviction notice
-  on their door, tenants are faced with the impossible decision to pay rent or to
-  feed their...'
-original_markdown_body: 'LIHI and other nonprofit housing providers are calling on
-  the City of Seattle to add $10 million for tenant-based rental assistance - and
-  we need your help!&nbsp; The problem: Many tenants living in affordable housing
-  funded by the Office of Housing (OH) are overburdened by the rising cost of living
-  including food, medical care, transportation, child care, and other basic needs.
-  With an eviction notice on their door, tenants are faced with the impossible decision
-  to pay rent or to feed their...'
 source: Low Income Housing Institute
 source_url: https://www.lihihousing.org/post/we-need-your-help-2026-seattle-city-council-budget-action
 summarized: true

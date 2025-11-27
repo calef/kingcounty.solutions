@@ -1,16 +1,6 @@
 ---
 date: '2025-08-11T22:23:23+00:00'
 images: []
-original_content: '<img width="150" height="150" src="https://education.seattle.gov/wp-content/uploads/sites/27/2025/08/2024-PN3-RFP-2-150x150.png"
-  class="webfeedsFeaturedVisual wp-post-image" alt="baby and mother smiling" style="display:
-  block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async"
-  loading="lazy" />Apply by September 8 for up to $298,000 in support of healthy and
-  equitable birth outcomes and reaching priority populations that strengthens early
-  learning development and kindergarten readiness. '
-original_markdown_body: "![baby and mother smiling](https://education.seattle.gov/wp-content/uploads/sites/27/2025/08/2024-PN3-RFP-2-150x150.png)Apply
-  by September 8 for up to $298,000 in support of healthy and equitable birth outcomes
-  and reaching priority populations that strengthens early learning development and
-  kindergarten readiness.&nbsp;"
 source: Department of Education and Early Learning
 source_url: https://education.seattle.gov/?p=1416
 summarized: true

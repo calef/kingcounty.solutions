@@ -1,16 +1,6 @@
 ---
 date: '2024-12-11T10:01:32+00:00'
 images: []
-original_content: T-Mobile hosts TAF@Saghalie students at the T-Mobile 5G Tech Hub.
-  Students toured tech labs, learned about the research T-Mobile conducts daily, and
-  learned from a panel of experts in different professions within the tech space.
-  Overview The T-Mobile 5G Hub is a maker space built to encourage the next generation
-  of technology innovators and engineers. [&#8230;]
-original_markdown_body: T-Mobile hosts TAF@Saghalie students at the T-Mobile 5G Tech
-  Hub. Students toured tech labs, learned about the research T-Mobile conducts daily,
-  and learned from a panel of experts in different professions within the tech space.
-  Overview The T-Mobile 5G Hub is a maker space built to encourage the next generation
-  of technology innovators and engineers. […]
 source: Technology Access Foundation
 source_url: https://techaccess.org/an-invitation-for-innovation-t-mobile-partners-with-taf-to-share-the-diversity-of-tech/?utm_source=rss&utm_medium=rss&utm_campaign=an-invitation-for-innovation-t-mobile-partners-with-taf-to-share-the-diversity-of-tech
 summarized: true

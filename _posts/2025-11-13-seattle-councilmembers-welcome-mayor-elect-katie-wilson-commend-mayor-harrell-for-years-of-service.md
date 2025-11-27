@@ -1,13 +1,6 @@
 ---
 date: '2025-11-13T22:49:43+00:00'
 images: []
-original_content: |-
-  <p>Today, following Katie Wilson’s projected election as Seattle’s next mayor and Mayor Bruce Harrell’s concession address, city councilmembers issued the following statements.   Councilmember Rob Saka (District 1) “The voters have spoken, calling for change and a renewed focus on affordability, community, and fighting back against a resurgent Trump agenda. I want to express my...</p>
-  <p>The post <a rel="nofollow" href="https://council.seattle.gov/2025/11/13/seattle-councilmembers-welcome-mayor-elect-katie-wilson-commend-mayor-harrell-for-years-of-service/">Seattle Councilmembers welcome Mayor-elect Katie Wilson, commend Mayor Harrell for years of service</a> appeared first on <a rel="nofollow" href="https://council.seattle.gov/">Seattle City Council Blog</a>.</p>
-original_markdown_body: |-
-  Today, following Katie Wilson’s projected election as Seattle’s next mayor and Mayor Bruce Harrell’s concession address, city councilmembers issued the following statements. &nbsp; Councilmember Rob Saka (District 1) “The voters have spoken, calling for change and a renewed focus on affordability, community, and fighting back against a resurgent Trump agenda. I want to express my...
-
-  The post [Seattle Councilmembers welcome Mayor-elect Katie Wilson, commend Mayor Harrell for years of service](https://council.seattle.gov/2025/11/13/seattle-councilmembers-welcome-mayor-elect-katie-wilson-commend-mayor-harrell-for-years-of-service/) appeared first on [Seattle City Council Blog](https://council.seattle.gov/).
 source: City of Seattle
 source_url: https://council.seattle.gov/2025/11/13/seattle-councilmembers-welcome-mayor-elect-katie-wilson-commend-mayor-harrell-for-years-of-service/
 summarized: true

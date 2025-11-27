@@ -1,10 +1,6 @@
 ---
 date: '2025-05-22T22:05:28+00:00'
 images: []
-original_content: <p>The post <a href="https://www.kcsarc.org/en/serving-all-survivors/">Serving
-  all survivors</a> appeared first on <a href="https://www.kcsarc.org/en/">KCSARC</a>.</p>
-original_markdown_body: The post [Serving all survivors](https://www.kcsarc.org/en/serving-all-survivors/)
-  appeared first on [KCSARC](https://www.kcsarc.org/en/).
 source: King County Sexual Assault Resource Center
 source_url: https://www.kcsarc.org/en/serving-all-survivors/
 summarized: true

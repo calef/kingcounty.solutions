@@ -1,10 +1,6 @@
 ---
 date: '2025-07-31T21:16:07+00:00'
 images: []
-original_content: |-
-  News & Events IACSWA Election Write-up Presidential Election History Issues Discussed/Citizen Concerns Outcome: Polling vs. Results State Governor Congressional Initiatives Impact on South Asian Community mmigration Policy: Visas and Paths [...]
-
-  [Read More... from IACSWA Election 2024 Write-up](https://iacswa.org/iacswa-election-2024-write-up/)
 published: false
 source: Indian American Community Services
 source_url: https://iacswa.org/iacswa-election-2024-write-up/

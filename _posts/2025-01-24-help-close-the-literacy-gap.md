@@ -1,11 +1,6 @@
 ---
 date: '2025-01-24T23:01:38+00:00'
 images: []
-original_content: <p>The post <a href="https://readingpartners.org/blog/help-close-the-literacy-gap/">Help
-  close the literacy gap</a> appeared first on <a href="https://readingpartners.org">Reading
-  Partners</a>.</p>
-original_markdown_body: The post [Help close the literacy gap](https://readingpartners.org/blog/help-close-the-literacy-gap/)
-  appeared first on [Reading Partners](https://readingpartners.org).
 published: false
 source: Reading Partners Seattle
 source_url: https://readingpartners.org/blog/help-close-the-literacy-gap/

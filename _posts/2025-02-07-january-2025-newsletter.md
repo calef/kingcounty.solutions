@@ -1,10 +1,6 @@
 ---
 date: '2025-02-07T20:57:38+00:00'
 images: []
-original_content: <p>The post <a href="https://orionworks.org/news/newsletter/january-2025-newsletter/">January
-  2025 Newsletter</a> appeared first on <a href="https://orionworks.org">Orion Industries</a>.</p>
-original_markdown_body: The post [January 2025 Newsletter](https://orionworks.org/news/newsletter/january-2025-newsletter/)
-  appeared first on [Orion Industries](https://orionworks.org).
 published: false
 source: Orion Industries
 source_url: https://orionworks.org/news/newsletter/january-2025-newsletter/

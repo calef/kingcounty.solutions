@@ -1,12 +1,6 @@
 ---
 date: '2025-11-24T12:00:00+00:00'
 images: []
-original_content: The Justice Department today announced results from its six-month
-  surge of FBI assets across the country to address violent crime in Indian Country,
-  including crimes relating to missing or murdered Indigenous persons.
-original_markdown_body: The Justice Department today announced results from its six-month
-  surge of FBI assets across the country to address violent crime in Indian Country,
-  including crimes relating to missing or murdered Indigenous persons.
 source: Department of Justice
 source_url: https://www.justice.gov/opa/pr/justice-department-surge-indian-country-investigate-unresolved-violent-crimes-yields-results
 summarized: true

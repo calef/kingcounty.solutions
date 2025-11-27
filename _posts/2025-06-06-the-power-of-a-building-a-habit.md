@@ -1,10 +1,6 @@
 ---
 date: '2025-06-06T19:09:14+00:00'
 images: []
-original_content: People who want to improve their health often turn to dramatic changes—such
-  as crash diets, intensive exercise routines, or taking on...
-original_markdown_body: People who want to improve their health often turn to dramatic
-  changes—such as crash diets, intensive exercise routines, or taking on...
 source: Eastside Friends of Seniors
 source_url: https://www.eastsidefriendsofseniors.org/post/the-power-of-a-building-a-habit
 summarized: true

@@ -1,10 +1,6 @@
 ---
 date: '2025-09-19T14:26:03+00:00'
 images: []
-original_content: <p>The post <a href="https://www.kcsarc.org/en/dando-voz-staff-share-their-porque/">Dando
-  Voz staff share their &#8220;porqué&#8221;</a> appeared first on <a href="https://www.kcsarc.org/en/">KCSARC</a>.</p>
-original_markdown_body: The post [Dando Voz staff share their “porqué”](https://www.kcsarc.org/en/dando-voz-staff-share-their-porque/)
-  appeared first on [KCSARC](https://www.kcsarc.org/en/).
 source: King County Sexual Assault Resource Center
 source_url: https://www.kcsarc.org/en/dando-voz-staff-share-their-porque/
 summarized: true

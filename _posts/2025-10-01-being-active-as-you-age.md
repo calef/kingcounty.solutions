@@ -1,13 +1,6 @@
 ---
 date: '2025-10-01T06:00:33+00:00'
 images: []
-original_content: |-
-  <p>Exercise at this stage in life is less about pushing hard and more about protecting your independence and mobility. It&#8217;s about choosing the right kind of movement to support your energy, ease—and your joints. Being able to get up and down from the floor at age eighty doesn&#8217;t just happen. It takes intentional behavior now [&#8230;]</p>
-  <p>The post <a href="https://agingwisdom.com/being-active-as-you-age/">Being active as you age</a> appeared first on <a href="https://agingwisdom.com">Aging Wisdom</a>.</p>
-original_markdown_body: |-
-  Exercise at this stage in life is less about pushing hard and more about protecting your independence and mobility. It’s about choosing the right kind of movement to support your energy, ease—and your joints. Being able to get up and down from the floor at age eighty doesn’t just happen. It takes intentional behavior now […]
-
-  The post [Being active as you age](https://agingwisdom.com/being-active-as-you-age/) appeared first on [Aging Wisdom](https://agingwisdom.com).
 source: Aging Wisdom
 source_url: https://agingwisdom.com/being-active-as-you-age/?utm_source=rss&utm_medium=rss&utm_campaign=being-active-as-you-age
 summarized: true

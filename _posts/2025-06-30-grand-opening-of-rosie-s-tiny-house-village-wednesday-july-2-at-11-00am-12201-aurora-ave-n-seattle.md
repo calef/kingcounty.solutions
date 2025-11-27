@@ -1,10 +1,6 @@
 ---
 date: '2025-06-30T18:24:20+00:00'
 images: []
-original_content: LIHI is pleased to announce the grand opening of the new location
-  of Rosie’s Village, a tiny house village that was originally located in...
-original_markdown_body: LIHI is pleased to announce the grand opening of the new location
-  of Rosie’s Village, a tiny house village that was originally located in...
 source: Low Income Housing Institute
 source_url: https://www.lihihousing.org/post/grand-opening-of-rosie-s-tiny-house-village-wednesday-july-2-at-11-00am-12201-aurora-ave-n-seatt
 summarized: true

@@ -1,7 +1,6 @@
 ---
 date: '2025-11-05T03:23:00+00:00'
 images: []
-original_content: ''
 source: City of Des Moines
 source_url: https://www.desmoineswa.gov/cms/One.aspx?portalId=17385088&pageId=21048211
 summarized: true

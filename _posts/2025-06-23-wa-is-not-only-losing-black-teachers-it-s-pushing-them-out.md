@@ -1,18 +1,6 @@
 ---
 date: '2025-06-23T22:28:48+00:00'
 images: []
-original_content: Juneteenth is a time for celebrating Black liberation. However,
-  160 years later, and 71 years after the desegregation of public schools, today’s
-  education system continues to fail Black and brown educators. With diversity, equity
-  and inclusion initiatives continually in the crosshairs of this administration,
-  prioritizing inclusive education is more important than ever. Unfortunately, by
-  ignoring [&#8230;]
-original_markdown_body: Juneteenth is a time for celebrating Black liberation. However,
-  160 years later, and 71 years after the desegregation of public schools, today’s
-  education system continues to fail Black and brown educators. With diversity, equity
-  and inclusion initiatives continually in the crosshairs of this administration,
-  prioritizing inclusive education is more important than ever. Unfortunately, by
-  ignoring […]
 source: Technology Access Foundation
 source_url: https://techaccess.org/wa-is-not-only-losing-black-teachers-its-pushing-them-out/?utm_source=rss&utm_medium=rss&utm_campaign=wa-is-not-only-losing-black-teachers-its-pushing-them-out
 summarized: true

@@ -1,12 +1,6 @@
 ---
 date: '2025-10-22T22:07:05+00:00'
 images: []
-original_content: 'Photo: Artist Fulgencio Lazo with his painting “Mercado de Bicicletas”
-  (Bicycle Market) displayed on a Metro bus shelter on Beacon Hill Oaxacan music and
-  dancers lit the fall air in...'
-original_markdown_body: 'Photo: Artist Fulgencio Lazo with his painting “Mercado de
-  Bicicletas” (Bicycle Market) displayed on a Metro bus shelter on Beacon Hill Oaxacan
-  music and dancers lit the fall air in...'
 source: King County Metro Transit
 source_url: https://kingcountymetro.blog/2025/10/22/celebrating-the-completion-of-bus-shelter-photomural-project-recognizing-king-countys-latino-community/
 summarized: true

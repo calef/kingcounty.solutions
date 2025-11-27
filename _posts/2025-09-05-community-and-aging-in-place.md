@@ -1,10 +1,6 @@
 ---
 date: '2025-09-05T20:56:25+00:00'
 images: []
-original_content: According to AARP, nearly 80% of adults want to remain in their
-  own homes as they grow older—and for good reason. Aging in place supports...
-original_markdown_body: According to AARP, nearly 80% of adults want to remain in
-  their own homes as they grow older—and for good reason. Aging in place supports...
 source: Eastside Friends of Seniors
 source_url: https://www.eastsidefriendsofseniors.org/post/community-and-aging-in-place
 summarized: true

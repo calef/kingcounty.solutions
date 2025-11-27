@@ -1,17 +1,6 @@
 ---
 date: '2025-09-10T16:38:11-04:00'
 images: []
-original_content: "<p>artifact_description: Webinar Slides</p><p>date: Wed, 10 Sep
-  2025 23:38:47 -0400</p><p>title: Marketplace Compliance for Agents and Brokers</p><p>topic:
-  Compliance</p>"
-original_markdown_body: |-
-  artifact\_description: Webinar Slides
-
-  date: Wed, 10 Sep 2025 23:38:47 -0400
-
-  title: Marketplace Compliance for Agents and Brokers
-
-  topic: Compliance
 published: false
 source: Centers for Medicare & Medicaid Services
 source_url: https://www.cms.gov//marketplace/agents-brokers/general-resources/marketplace-compliance-agents-and-brokers

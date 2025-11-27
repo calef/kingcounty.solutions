@@ -1,14 +1,6 @@
 ---
 date: '2025-07-09T16:41:21+00:00'
 images: []
-original_content: Six months into 2025, we continue to center our communities as we
-  navigate the impacts of policies on our clients, services, and our agency. In these
-  moments, this is where MSC finds our courage. We root down into what we know to
-  be true—MSC has been serving the community for over 50 years, and  [...]
-original_markdown_body: Six months into 2025, we continue to center our communities
-  as we navigate the impacts of policies on our clients, services, and our agency.
-  In these moments, this is where MSC finds our courage. We root down into what we
-  know to be true—MSC has been serving the community for over 50 years, and [...]
 source: Multi-Service Center
 source_url: https://mschelps.org/staying-true-to-our-center/
 summarized: true

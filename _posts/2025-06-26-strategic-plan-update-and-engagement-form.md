@@ -1,10 +1,6 @@
 ---
 date: '2025-06-26T23:38:15+00:00'
 images: []
-original_content: We’re thrilled to share that the results are in from our recent 
-  Community Feedback Survey!   At Friends of Youth, we believe that the...
-original_markdown_body: We’re thrilled to share that the results are in from our recent 
-  Community Feedback Survey! &nbsp; At Friends of Youth, we believe that the...
 source: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/strategic-plan-update-and-engagement-form
 summarized: true

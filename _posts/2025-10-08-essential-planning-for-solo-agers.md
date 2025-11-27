@@ -1,13 +1,6 @@
 ---
 date: '2025-10-08T06:00:32+00:00'
 images: []
-original_content: |-
-  <p>Nearly one-third of adults who are 55 and older are aging solo, navigating aging without a life partner or children. Top of mind for many solo agers is who will advocate for them when they need assistance. Proactive planning is essential. Here are some key areas to consider when planning for a healthy, safe, and [&#8230;]</p>
-  <p>The post <a href="https://agingwisdom.com/essential-planning-for-solo-agers/">Essential Planning for Solo Agers</a> appeared first on <a href="https://agingwisdom.com">Aging Wisdom</a>.</p>
-original_markdown_body: |-
-  Nearly one-third of adults who are 55 and older are aging solo, navigating aging without a life partner or children. Top of mind for many solo agers is who will advocate for them when they need assistance. Proactive planning is essential. Here are some key areas to consider when planning for a healthy, safe, and […]
-
-  The post [Essential Planning for Solo Agers](https://agingwisdom.com/essential-planning-for-solo-agers/) appeared first on [Aging Wisdom](https://agingwisdom.com).
 source: Aging Wisdom
 source_url: https://agingwisdom.com/essential-planning-for-solo-agers/?utm_source=rss&utm_medium=rss&utm_campaign=essential-planning-for-solo-agers
 summarized: true

@@ -1,18 +1,6 @@
 ---
 date: '2025-11-20T12:00:00+00:00'
 images: []
-original_content: Two U.S. citizens and two nationals of the People’s Republic of
-  China (PRC)—all residing in the United States—have been charged with a conspiracy
-  to illegally export cutting-edge NVIDIA Graphics Processing Units (GPUs), which
-  have artificial intelligence (AI) applications, to the PRC, announced Assistant
-  Attorney General John A. Eisenberg for the Justice Department’s National Security
-  Division and U.S. Attorney Gregory W. Kehoe for the Middle District of Florida.
-original_markdown_body: Two U.S. citizens and two nationals of the People’s Republic
-  of China (PRC)—all residing in the United States—have been charged with a conspiracy
-  to illegally export cutting-edge NVIDIA Graphics Processing Units (GPUs), which
-  have artificial intelligence (AI) applications, to the PRC, announced Assistant
-  Attorney General John A. Eisenberg for the Justice Department’s National Security
-  Division and U.S. Attorney Gregory W. Kehoe for the Middle District of Florida.
 published: false
 source: Department of Justice
 source_url: https://www.justice.gov/opa/pr/us-citizens-and-chinese-nationals-arrested-exporting-artificial-intelligence-technology

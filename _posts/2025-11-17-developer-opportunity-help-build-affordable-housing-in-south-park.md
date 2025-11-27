@@ -1,14 +1,6 @@
 ---
 date: '2025-11-17T19:29:55+00:00'
 images: []
-original_content: We are excited to announce a new opportunity for development partners
-  to help create affordable rental housing in the South Park neighborhood. We are
-  seeking qualified affordable housing developers to partner with us on the Henderson
-  Street development...
-original_markdown_body: We are excited to announce a new opportunity for development
-  partners to help create affordable rental housing in the South Park neighborhood.
-  We are seeking qualified affordable housing developers to partner with us on the
-  Henderson Street development...
 source: City of Seattle
 source_url: https://housing.seattle.gov/developer-opportunity-help-build-affordable-housing-in-south-park/
 summarized: true

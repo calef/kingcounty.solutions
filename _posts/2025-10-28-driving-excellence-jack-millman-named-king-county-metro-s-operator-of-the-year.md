@@ -1,12 +1,6 @@
 ---
 date: '2025-10-28T23:41:50+00:00'
 images: []
-original_content: Every day, hundreds of thousands of riders step onto King County
-  Metro buses and count on a smooth, safe and welcoming ride. For many lucky passengers,
-  that ride has been...
-original_markdown_body: Every day, hundreds of thousands of riders step onto King
-  County Metro buses and count on a smooth, safe and welcoming ride. For many lucky
-  passengers, that ride has been...
 source: King County Metro Transit
 source_url: https://kingcountymetro.blog/2025/10/28/driving-excellence-jack-millman-named-king-county-metros-operator-of-the-year/
 summarized: true

@@ -1,14 +1,6 @@
 ---
 date: '2025-11-26T20:48:01+00:00'
 images: []
-original_content: Seattle – This week, Mayor Bruce Harrell signed the City of Seattle’s
-  2026 budget into law, totaling $8.9 billion in appropriations overall and $2.0 billion
-  toward General Fund priorities.&#160; Passed unanimously by the City Council last
-  week, the fin...
-original_markdown_body: Seattle – This week, Mayor Bruce Harrell signed the City of
-  Seattle’s 2026 budget into law, totaling $8.9 billion in appropriations overall
-  and $2.0 billion toward General Fund priorities.&nbsp; Passed unanimously by the
-  City Council last week, the fin...
 source: City of Seattle
 source_url: https://harrell.seattle.gov/2025/11/26/mayor-harrell-signs-city-of-seattles-2026-budget-into-law/
 summarized: true

@@ -1,14 +1,6 @@
 ---
 date: '2025-11-07T22:35:58+00:00'
 images: []
-original_content: Seattle police detectives urge community members to be wary of fraudulent
-  roofing and construction scammers that recently stole $74,000 from a Seattle resident.&#160;
-  On Oct. 27, a 53-year-old developmentally delayed victim living near the Ravenna
-  neig...
-original_markdown_body: Seattle police detectives urge community members to be wary
-  of fraudulent roofing and construction scammers that recently stole $74,000 from
-  a Seattle resident.&nbsp; On Oct. 27, a 53-year-old developmentally delayed victim
-  living near the Ravenna neig...
 source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/11/07/detectives-urge-community-members-to-watch-out-for-roofing-and-construction-scams/
 summarized: true

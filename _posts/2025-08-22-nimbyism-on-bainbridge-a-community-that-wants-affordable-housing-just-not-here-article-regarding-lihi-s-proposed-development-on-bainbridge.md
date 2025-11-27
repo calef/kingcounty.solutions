@@ -1,10 +1,6 @@
 ---
 date: '2025-08-22T15:46:55+00:00'
 images: []
-original_content: 'Link to full article:  A housing project that''s showing the island''s
-  true colors, one way or the other | Opinion piece in Kitsap Sun...'
-original_markdown_body: 'Link to full article: A housing project that''s showing the
-  island''s true colors, one way or the other | Opinion piece in Kitsap Sun...'
 source: Low Income Housing Institute
 source_url: https://www.lihihousing.org/post/a-community-that-wants-affordable-housing-just-not-here-article-regarding-lihi-s-proposed-dev
 summarized: true

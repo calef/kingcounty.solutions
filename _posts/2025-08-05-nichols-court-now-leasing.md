@@ -1,10 +1,6 @@
 ---
 date: '2025-08-05T21:01:32+00:00'
 images: []
-original_content: We are pleased to announce that Nichols Court is ready for lease
-  up and has received its Temporary Certificate of Occupancy. Please see...
-original_markdown_body: We are pleased to announce that Nichols Court is ready for
-  lease up and has received its Temporary Certificate of Occupancy.&nbsp;Please see...
 source: Low Income Housing Institute
 source_url: https://www.lihihousing.org/post/nichols-court-now-leasing
 summarized: true

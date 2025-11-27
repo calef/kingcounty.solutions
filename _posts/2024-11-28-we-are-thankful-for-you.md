@@ -1,14 +1,6 @@
 ---
 date: '2024-11-28T14:00:42+00:00'
 images: []
-original_content: At this time of year, we pause to reflect on everything we are thankful
-  for, and YOU are at the top of our list! We are forever humbled by the selflessness
-  of our community members who step up to help in so many different ways. Together,
-  we provide safe and respectful spaces for women experiencing [&#8230;]
-original_markdown_body: At this time of year, we pause to reflect on everything we
-  are thankful for, and YOU are at the top of our list! We are forever humbled by
-  the selflessness of our community members who step up to help in so many different
-  ways. Together, we provide safe and respectful spaces for women experiencing […]
 source: Elizabeth Gregory Home
 source_url: https://eghseattle.org/gratitude/thankful-for-you/
 summarized: true

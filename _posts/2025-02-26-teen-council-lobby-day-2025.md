@@ -1,10 +1,6 @@
 ---
 date: '2025-02-26T13:41:01+00:00'
 images: []
-original_content: On Monday, February 17, Teen Council members Raena, Sloane, and
-  Delilah along with TC facilitator Kelly joined hundreds of Teen Council...
-original_markdown_body: On Monday, February 17, Teen Council members Raena, Sloane,
-  and Delilah along with TC facilitator Kelly joined hundreds of Teen Council...
 source: The Vashon DOVE Project
 source_url: https://www.vashondoveproject.org/post/teen-council-lobby-day-2025
 summarized: true

@@ -1,12 +1,6 @@
 ---
 date: '2025-05-16T17:15:27+00:00'
 images: []
-original_content: We&#8217;re thrilled to announce that our director, Shelley Puariea,
-  has been honored with the Community Citizen Award from East Hill Grange No. 786!
-  This recognition celebrates Shelley&#8217;s 35+ years of [&#8230;]
-original_markdown_body: We’re thrilled to announce that our director, Shelley Puariea,
-  has been honored with the Community Citizen Award from East Hill Grange No. 786!
-  This recognition celebrates Shelley’s 35+ years of […]
 source: Federal Way Senior Center
 source_url: https://federalwayseniorcenter.org/congratulations-shelley/?utm_source=rss&utm_medium=rss&utm_campaign=congratulations-shelley
 summarized: true

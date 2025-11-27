@@ -1,16 +1,6 @@
 ---
 date: '2025-09-03T17:17:37+00:00'
 images: []
-original_content: On a night to celebrate the accomplishments of youth from across
-  the city, Seattle Youth Employment Program (SYEP) interns gathered for an End of
-  Internship Celebration on Aug. 19 surrounded by glass containers of sea animals
-  at the Seattle Aquarium. Mayor Bruce Harrell spoke at the event, offering words
-  of encouragement to the youth and [&#8230;]
-original_markdown_body: On a night to celebrate the accomplishments of youth from
-  across the city, Seattle Youth Employment Program (SYEP) interns gathered for an
-  End of Internship Celebration on Aug. 19 surrounded by glass containers of sea animals
-  at the Seattle Aquarium. Mayor Bruce Harrell spoke at the event, offering words
-  of encouragement to the youth and […]
 source: Seattle Human Services Department
 source_url: https://humaninterests.seattle.gov/2025/09/03/a-sea-of-gratitude-and-appreciation-for-interns/
 summarized: true

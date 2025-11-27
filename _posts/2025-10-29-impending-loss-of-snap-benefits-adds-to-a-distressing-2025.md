@@ -1,13 +1,6 @@
 ---
 date: '2025-10-29T18:05:45+00:00'
 images: []
-original_content: |-
-  <p>It would be harrowing enough if the impending loss of SNAP benefits to millions nationwide were the only hardship Americans faced in 2025. But the federal government&rsquo;s plan to stop distributing benefits to nearly 42 million people&mdash;many of whom voted for our current Executive and Legislative members in last year&rsquo;s General Election&mdash;comes while people are still reeling from: America is&#8230;</p>
-  <p><a href="https://www.uwkc.org/access-to-resources/impending-loss-of-snap-benefits-adds-to-a-distressing-2025/" rel="nofollow">Source</a></p>
-original_markdown_body: |-
-  It would be harrowing enough if the impending loss of SNAP benefits to millions nationwide were the only hardship Americans faced in 2025. But the federal government’s plan to stop distributing benefits to nearly 42 million people—many of whom voted for our current Executive and Legislative members in last year’s General Election—comes while people are still reeling from: America is…
-
-  [Source](https://www.uwkc.org/access-to-resources/impending-loss-of-snap-benefits-adds-to-a-distressing-2025/)
 source: United Way of King County
 source_url: https://www.uwkc.org/access-to-resources/impending-loss-of-snap-benefits-adds-to-a-distressing-2025/
 summarized: true

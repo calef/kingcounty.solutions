@@ -1,20 +1,6 @@
 ---
 date: '2025-11-21T12:00:00+00:00'
 images: []
-original_content: Yesterday, the U.S. District Court for the District of New Jersey
-  terminated the consent decree in <em>United States v. City of Newark</em>, marking
-  the completion of a nine-year reform effort of the Newark Police Department (NPD).&nbsp;
-  Through the consent decree, NPD resolved prior Department of Justice findings by
-  implementing constitutional policing requirements for stops, searches, arrests,
-  and use of force.&nbsp; Based on completion of those and other requirements, Newark
-  moved to dismiss the decree; the Justice Department supported the City’s motion.
-original_markdown_body: Yesterday, the U.S. District Court for the District of New
-  Jersey terminated the consent decree in _United States v. City of Newark_, marking
-  the completion of a nine-year reform effort of the Newark Police Department (NPD).&nbsp;
-  Through the consent decree, NPD resolved prior Department of Justice findings by
-  implementing constitutional policing requirements for stops, searches, arrests,
-  and use of force.&nbsp; Based on completion of those and other requirements, Newark
-  moved to dismiss the decree; the Justice Department supported the City’s motion.
 published: false
 source: Department of Justice
 source_url: https://www.justice.gov/opa/pr/federal-court-terminates-newark-police-departments-consent-decree-after-successful-reforms

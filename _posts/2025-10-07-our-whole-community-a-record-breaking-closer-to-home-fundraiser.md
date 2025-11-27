@@ -1,10 +1,6 @@
 ---
 date: '2025-10-07T16:31:52+00:00'
 images: []
-original_content: On September 25, 2025, more than 750 neighbors, partners, and friends of
-  Bellwether Housing filled the Westin Seattle ballroom for...
-original_markdown_body: On September 25, 2025, more than 750 neighbors, partners,
-  and friends&nbsp;of Bellwether Housing&nbsp;filled the Westin Seattle ballroom for...
 source: Bellwether Housing
 source_url: https://www.bellwetherhousing.org/post/our-whole-community-a-record-breaking-closer-to-home-fundraiser
 summarized: true

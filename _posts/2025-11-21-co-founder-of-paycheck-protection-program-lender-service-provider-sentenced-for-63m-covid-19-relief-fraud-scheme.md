@@ -1,17 +1,6 @@
 ---
 date: '2025-11-21T12:00:00+00:00'
 images: []
-original_content: A co-founder of a lender service provider was sentenced to 10 years
-  in prison for participating in&nbsp;a scheme to fraudulently obtain over $63 million
-  in Paycheck Protection Program (PPP) loans guaranteed&nbsp;by the U.S. Small Business
-  Administration (SBA) under the Coronavirus Aid, Relief<a>, </a>and Economic Security
-  (CARES) Act.&nbsp;The defendant was also ordered to pay over $63 million in restitution.
-original_markdown_body: A co-founder of a lender service provider was sentenced to
-  10 years in prison for participating in&nbsp;a scheme to fraudulently obtain over
-  $63 million in Paycheck Protection Program (PPP) loans guaranteed&nbsp;by the U.S.
-  Small Business Administration (SBA) under the Coronavirus Aid, Relief, and Economic
-  Security (CARES) Act.&nbsp;The defendant was also ordered to pay over $63 million
-  in restitution.
 published: false
 source: Department of Justice
 source_url: https://www.justice.gov/opa/pr/co-founder-paycheck-protection-program-lender-service-provider-sentenced-63m-covid-19-relief

@@ -1,15 +1,6 @@
 ---
 date: '2025-11-03T18:36:15+00:00'
 images: []
-original_content: <a href="https://wscenter.org/greetings-from-the-executive-director-3/"><p>The
-  days are getting darker and colder, but it’s warm, cozy and filled with activity
-  inside The Center. I’m grateful to our members for making us part of your lives.&hellip;</p></a>
-original_markdown_body: |-
-  [
-
-  The days are getting darker and colder, but it’s warm, cozy and filled with activity inside The Center. I’m grateful to our members for making us part of your lives.…
-
-  ](https://wscenter.org/greetings-from-the-executive-director-3/)
 source: The Center for Active Living
 source_url: https://wscenter.org/greetings-from-the-executive-director-3/
 summarized: true

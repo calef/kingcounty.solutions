@@ -1,14 +1,6 @@
 ---
 date: '2025-11-01T03:46:00+00:00'
 images: []
-original_content: The Youth Bill of Rights Task Force is recruiting young people for
-  its next iteration. They invite young individuals to share their insights and leadership
-  in creating a Youth Commission. Please share this opportunity within your networks.
-  An application for joining is available through the provided link.
-original_markdown_body: The Youth Bill of Rights Task Force is recruiting young people
-  for its next iteration. They invite young individuals to share their insights and
-  leadership in creating a Youth Commission. Please share this opportunity within
-  your networks. An application for joining is available through the provided link.
 source: King County School Health
 source_url: https://kingcountyschoolhealthdotcom.wordpress.com/2025/10/31/seeking-young-people-to-join-the-youth-bill-of-rights-taskforce/
 summarized: true

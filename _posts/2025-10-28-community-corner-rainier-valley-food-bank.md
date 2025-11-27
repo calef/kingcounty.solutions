@@ -1,16 +1,6 @@
 ---
 date: '2025-10-28T20:36:53+00:00'
 images: []
-original_content: Community Corner highlights the work of Seattle Human Services’
-  community partners in their own words. Our goal is to gather stories and photos
-  that illustrate their amazing work on behalf of the people of Seattle. This post
-  was provided by Julia Smiljanic at Rainier Valley Food Bank (also follow on Facebook,
-  Instagram, and LinkedIn).  When [&#8230;]
-original_markdown_body: Community Corner highlights the work of Seattle Human Services’
-  community partners in their own words. Our goal is to gather stories and photos
-  that illustrate their amazing work on behalf of the people of Seattle. This post
-  was provided by Julia Smiljanic at Rainier Valley Food Bank (also follow on Facebook,
-  Instagram, and LinkedIn).&nbsp; When […]
 source: Seattle Human Services Department
 source_url: https://humaninterests.seattle.gov/2025/10/28/community-corner-rainier-valley-food-bank/
 summarized: true

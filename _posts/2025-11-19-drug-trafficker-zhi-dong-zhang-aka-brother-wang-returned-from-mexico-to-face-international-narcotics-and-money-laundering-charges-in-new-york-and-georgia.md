@@ -1,22 +1,6 @@
 ---
 date: '2025-11-19T12:00:00+00:00'
 images: []
-original_content: Zhi Dong Zhang, also known as “GG,” “Kun Li Hernandez,” “Chang Li
-  Gong Sun,” “Memo,” “Brother Wang,” “BW,” “Pancho,” “HeHe,” “HaHa,” “Chino,” and
-  “Summor Ownor,” 38, was arraigned today before U.S. Magistrate Judge Clay H. Kaminsky&nbsp;for
-  the Eastern District of New York&nbsp;at the federal courthouse in Brooklyn, New
-  York, on a second superseding indictment (the Indictment) charging him with international
-  cocaine distribution conspiracy, international cocaine distribution, cocaine importation
-  conspiracy, cocaine and methamphetamine possession and distribution conspiracy,
-  and money laundering crimes.
-original_markdown_body: Zhi Dong Zhang, also known as “GG,” “Kun Li Hernandez,” “Chang
-  Li Gong Sun,” “Memo,” “Brother Wang,” “BW,” “Pancho,” “HeHe,” “HaHa,” “Chino,” and
-  “Summor Ownor,” 38, was arraigned today before U.S. Magistrate Judge Clay H. Kaminsky&nbsp;for
-  the Eastern District of New York&nbsp;at the federal courthouse in Brooklyn, New
-  York, on a second superseding indictment (the Indictment) charging him with international
-  cocaine distribution conspiracy, international cocaine distribution, cocaine importation
-  conspiracy, cocaine and methamphetamine possession and distribution conspiracy,
-  and money laundering crimes.
 published: false
 source: Department of Justice
 source_url: https://www.justice.gov/opa/pr/drug-trafficker-zhi-dong-zhang-aka-brother-wang-returned-mexico-face-international-narcotics

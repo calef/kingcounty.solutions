@@ -1,14 +1,6 @@
 ---
 date: '2025-11-23T17:00:00+00:00'
 images: []
-original_content: Support small businesses this Small Business Saturday Small businesses
-  are what makes Seattle’s economy great. They showcase the creative energy, diverse
-  culture, and entrepreneurial drive that makes our city one of a kind. Small Business
-  Saturday, and...
-original_markdown_body: Support small businesses this Small Business Saturday Small
-  businesses are what makes Seattle’s economy great. They showcase the creative energy,
-  diverse culture, and entrepreneurial drive that makes our city one of a kind. Small
-  Business Saturday, and...
 published: false
 source: City of Seattle
 source_url: https://bottomline.seattle.gov/2025/11/23/shop-small-your-guide-to-supporting-seattles-local-businesses-this-holiday-season/

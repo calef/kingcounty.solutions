@@ -1,16 +1,6 @@
 ---
 date: '2025-09-02T22:51:13+00:00'
 images: []
-original_content: There have been recent claims about the work DESC is doing at Bloomside,
-  our permanent supportive housing site in Burien. We want to make sure our supporters
-  and community members have the facts.&#160; A Community Partnership&#160; DESC is
-  a committed partner in Burien. For starters, we prioritized people for tenancy who
-  had already been experiencing [&#8230;]
-original_markdown_body: There have been recent claims about the work DESC is doing
-  at Bloomside, our permanent supportive housing site in Burien. We want to make sure
-  our supporters and community members have the facts.&nbsp; A Community Partnership&nbsp;
-  DESC is a committed partner in Burien. For starters, we prioritized people for tenancy
-  who had already been experiencing […]
 source: DESC
 source_url: https://www.desc.org/statement-on-recent-commentary-about-descs-bloomside/
 summarized: true

@@ -1,10 +1,6 @@
 ---
 date: '2025-03-20T03:37:44+00:00'
 images: []
-original_content: We are excited to share our 2024 Impact Report sharing the progress
-  we made because of our donors and corporate partners working together...
-original_markdown_body: We are excited to share our 2024 Impact Report sharing the
-  progress we made because of our donors and corporate partners working together...
 source: The Vashon DOVE Project
 source_url: https://www.vashondoveproject.org/post/2024-dove-impact-report
 summarized: true

@@ -2,12 +2,6 @@
 date: '2025-04-06T21:55:37Z'
 images:
 - 7946bb4c53a81a7644a7efa88fae0a2b31a43be3d2ac3ef758f1581956bac018
-original_content: '<img src="https://img1.wsimg.com/isteam/ip/02d99612-388e-465c-94d0-09bea0e32177/IMG_8062.png"/><p>Reclaiming
-  Hope: Inside Praisealujah’s Men’s and Women’s Treatment Programs</p>'
-original_markdown_body: |-
-  ![](https://img1.wsimg.com/isteam/ip/02d99612-388e-465c-94d0-09bea0e32177/IMG_8062.png)
-
-  Reclaiming Hope: Inside Praisealujah’s Men’s and Women’s Treatment Programs
 source: Praisealujah Discipleship
 source_url: https://praisealujah.org/f/reclaiming-hope-inside-praisealujah%E2%80%99s-men%E2%80%99s-women%E2%80%99s-treatment
 summarized: true

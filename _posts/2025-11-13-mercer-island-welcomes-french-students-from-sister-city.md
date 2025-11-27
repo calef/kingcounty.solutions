@@ -1,20 +1,6 @@
 ---
 date: '2025-11-13T16:37:17-08:00'
 images: []
-original_content: <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div
-  class="field-items"><div class="field-item even" property="content:encoded"><p><span><span><span>A
-  delegation of 17 high school students and three teachers from Mercer Island's sister
-  city, Thonon Les Bains, France, arrived last Thursday to begin a 10-day cultural
-  and educational exchange. The visit, in which the students will stay in the homes
-  of the families, tour points of interest throughout the region, and attend classes
-  at Mercer Island High School, falls on the 25<sup>th</sup> anniversary of the two
-  cities’ relationship. </span></span></span></p></div></div></div>
-original_markdown_body: A delegation of 17 high school students and three teachers
-  from Mercer Island's sister city, Thonon Les Bains, France, arrived last Thursday
-  to begin a 10-day cultural and educational exchange. The visit, in which the students
-  will stay in the homes of the families, tour points of interest throughout the region,
-  and attend classes at Mercer Island High School, falls on the 25<sup>th</sup> anniversary
-  of the two cities’ relationship.
 published: false
 source: City of Mercer Island
 source_url: https://www.mercerisland.gov/sistercity/page/mercer-island-welcomes-french-students-sister-city

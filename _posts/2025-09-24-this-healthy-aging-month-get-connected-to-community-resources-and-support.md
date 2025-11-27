@@ -1,16 +1,6 @@
 ---
 date: '2025-09-24T21:53:36+00:00'
 images: []
-original_content: September is Healthy Aging Month, an opportunity to raise awareness
-  about the unique needs of older adults and their caregivers. Across the nation,
-  the number of people aged 65 and older has grown nearly five times faster than the
-  general population in recent years, and 1 in 6 people in the U.S. are now 65+. 
-  [&#8230;]
-original_markdown_body: September is Healthy Aging Month, an opportunity to raise
-  awareness about the unique needs of older adults and their caregivers. Across the
-  nation, the number of people aged 65 and older has grown nearly five times faster
-  than the general population in recent years, and 1 in 6 people in the U.S. are now
-  65+.&nbsp; […]
 source: Seattle Human Services Department
 source_url: https://humaninterests.seattle.gov/2025/09/24/this-healthy-aging-month-get-connected-to-community-resources-and-support/
 summarized: true

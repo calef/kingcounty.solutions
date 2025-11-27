@@ -1,14 +1,6 @@
 ---
 date: '2025-11-22T19:41:25+00:00'
 images: []
-original_content: Mayor Harrell’s directive provided three weeks of emergency food
-  assistance totaling up to $3 million in response to SNAP funding uncertainty during
-  federal government shutdown  Seattle—Yesterday, Mayor Bruce Harrell proclaimed the
-  end of the City’s Li...
-original_markdown_body: Mayor Harrell’s directive provided three weeks of emergency
-  food assistance totaling up to $3 million in response to SNAP funding uncertainty
-  during federal government shutdown&nbsp; Seattle—Yesterday, Mayor Bruce Harrell
-  proclaimed the end of the City’s Li...
 source: City of Seattle
 source_url: https://harrell.seattle.gov/2025/11/22/mayor-harrell-issues-proclamation-ending-limited-civil-emergency-after-snap-benefits-fully-restored/
 summarized: true

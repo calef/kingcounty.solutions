@@ -1,43 +1,6 @@
 ---
 date: '2025-11-18T19:07:12+00:00'
 images: []
-original_content: |-
-  <p>If you&#8217;re looking for an easy way to make an impact, you&#8217;ve come to the right place!  </p>
-
-
-
-  <p>ELAP is a small, community-based nonprofit working hard to respond to the rapidly changing needs of the people we serve. Our staff and pro bono attorneys help community members who are facing domestic violence, housing, financial, healthcare, immigration, and other issues that need a legal solution. </p>
-
-
-
-  <p>That&#8217;s why financial support from donors like you is crucial to our ability to provide free legal help in King County.  </p>
-
-
-
-  <p><strong>When the times we live in feel turbulent and unpredictable, it feels good to be able to take tangible action to help.  </strong></p>
-
-
-
-  <p>You can help by making a gift in honor of Giving Tuesday, which takes place on Dec. 2. </p>
-
-
-
-  <p>But there&#8217;s no need to wait, <a href="http://elap.org/donate">you can make your impact start now</a>. </p>
-  <p>The post <a href="https://elap.org/an-easy-way-to-help/">An easy way to help</a> appeared first on <a href="https://elap.org">Eastside Legal Assistance Program</a>.</p>
-original_markdown_body: |-
-  If you’re looking for an easy way to make an impact, you’ve come to the right place!
-
-  ELAP is a small, community-based nonprofit working hard to respond to the rapidly changing needs of the people we serve. Our staff and pro bono attorneys help community members who are facing domestic violence, housing, financial, healthcare, immigration, and other issues that need a legal solution.
-
-  That’s why financial support from donors like you is crucial to our ability to provide free legal help in King County.
-
-  **When the times we live in feel turbulent and unpredictable, it feels good to be able to take tangible action to help.**
-
-  You can help by making a gift in honor of Giving Tuesday, which takes place on Dec. 2.
-
-  But there’s no need to wait, [you can make your impact start now](http://elap.org/donate).
-
-  The post [An easy way to help](https://elap.org/an-easy-way-to-help/) appeared first on [Eastside Legal Assistance Program](https://elap.org).
 source: Eastside Legal Assistance Program
 source_url: https://elap.org/an-easy-way-to-help/?utm_source=rss&utm_medium=rss&utm_campaign=an-easy-way-to-help
 summarized: true

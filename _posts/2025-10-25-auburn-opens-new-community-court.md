@@ -1,9 +1,6 @@
 ---
 date: '2025-10-25T00:11:00+00:00'
 images: []
-original_content: <img src="https://www.auburnwa.gov/UserFiles/Servers/Server_11470554/Image/City%20Hall/Legal/cc%20news%20icon.jpg"
-  />
-original_markdown_body: "![](https://www.auburnwa.gov/UserFiles/Servers/Server_11470554/Image/City%20Hall/Legal/cc%20news%20icon.jpg)"
 published: false
 source: City of Auburn
 source_url: https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=17726169

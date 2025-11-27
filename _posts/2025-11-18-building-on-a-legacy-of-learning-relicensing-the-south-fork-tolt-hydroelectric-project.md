@@ -1,14 +1,6 @@
 ---
 date: '2025-11-18T00:25:40+00:00'
 images: []
-original_content: The Cascade foothills are home to the small but important South
-  Fork Tolt Hydroelectric Project. We are currently in the process of renewing the
-  project’s license with the Federal Energy Regulatory Commission (FERC). This process
-  takes several years. A...
-original_markdown_body: The Cascade foothills are home to the small but important
-  South Fork Tolt Hydroelectric Project. We are currently in the process of renewing
-  the project’s license with the Federal Energy Regulatory Commission (FERC). This
-  process takes several years. A...
 published: false
 source: City of Seattle
 source_url: https://atyourservice.seattle.gov/2025/11/17/building-on-a-legacy-of-learning-relicensing-the-south-fork-tolt-hydroelectric-project/

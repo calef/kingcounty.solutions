@@ -1,11 +1,6 @@
 ---
 date: '2025-01-29T19:21:58+00:00'
 images: []
-original_content: <p>The post <a href="https://readingpartners.org/blog/the-reality-of-the-literacy-opportunity-gap/">The
-  reality of the literacy opportunity gap</a> appeared first on <a href="https://readingpartners.org">Reading
-  Partners</a>.</p>
-original_markdown_body: The post [The reality of the literacy opportunity gap](https://readingpartners.org/blog/the-reality-of-the-literacy-opportunity-gap/)
-  appeared first on [Reading Partners](https://readingpartners.org).
 source: Reading Partners Seattle
 source_url: https://readingpartners.org/blog/the-reality-of-the-literacy-opportunity-gap/
 summarized: true

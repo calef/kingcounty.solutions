@@ -1,10 +1,6 @@
 ---
 date: '2025-08-22T16:54:06+00:00'
 images: []
-original_content: <p>The post <a href="https://www.kcsarc.org/en/lessons-from-surviving-ohio-state/">Lessons
-  from &#8220;Surviving Ohio State&#8221;</a> appeared first on <a href="https://www.kcsarc.org/en/">KCSARC</a>.</p>
-original_markdown_body: The post [Lessons from “Surviving Ohio State”](https://www.kcsarc.org/en/lessons-from-surviving-ohio-state/)
-  appeared first on [KCSARC](https://www.kcsarc.org/en/).
 source: King County Sexual Assault Resource Center
 source_url: https://www.kcsarc.org/en/lessons-from-surviving-ohio-state/
 summarized: true

@@ -1,20 +1,6 @@
 ---
 date: '2025-03-06T19:38:14-08:00'
 images: []
-original_content: In this season of Thanksgiving, we want you to know how grateful
-  we are for your partnership and prayers. Together we are truly breaking the cycle
-  of abuse and helping families heal and build thriving new lives they love. It is
-  remarkable to witness lives transform and joy and beauty burst forth from the ashes
-  of abuse.If you have experienced abuse or trauma at any point in your life, know
-  that you are not alone. We have a new support group starting in January and would
-  love for you to check
-original_markdown_body: In this season of Thanksgiving, we want you to know how grateful
-  we are for your partnership and prayers. Together we are truly breaking the cycle
-  of abuse and helping families heal and build thriving new lives they love. It is
-  remarkable to witness lives transform and joy and beauty burst forth from the ashes
-  of abuse.If you have experienced abuse or trauma at any point in your life, know
-  that you are not alone. We have a new support group starting in January and would
-  love for you to check
 source: Lighthouse NW
 source_url: https://lighthousenw.org/blog/thankful-for-you
 summarized: true

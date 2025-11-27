@@ -1,12 +1,6 @@
 ---
 date: '2025-11-19T12:00:00+00:00'
 images: []
-original_content: On Nov. 17, the Justice Department secured the denaturalization
-  of Marieva Briceno, who defrauded more than $5.4 million from Medicare and then
-  obtained U.S. citizenship by concealing her crimes from immigration officials.
-original_markdown_body: On Nov. 17, the Justice Department secured the denaturalization
-  of Marieva Briceno, who defrauded more than $5.4 million from Medicare and then
-  obtained U.S. citizenship by concealing her crimes from immigration officials.
 published: false
 source: Department of Justice
 source_url: https://www.justice.gov/opa/pr/justice-department-secures-denaturalization-health-care-fraudster

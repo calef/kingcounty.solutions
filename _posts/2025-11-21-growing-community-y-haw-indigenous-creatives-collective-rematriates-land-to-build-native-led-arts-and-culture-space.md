@@ -1,14 +1,6 @@
 ---
 date: '2025-11-21T22:54:55+00:00'
 images: []
-original_content: "” A long time ago, the sky was too low. Tall people kept bumping
-  their heads. Many different communities gathered to do something about it. They
-  spoke different languages but realized they only needed to know one word in common
-  to understand each other..."
-original_markdown_body: "” A long time ago, the sky was too low. Tall people kept
-  bumping their heads. Many different communities gathered to do something about it.
-  They spoke different languages but realized they only needed to know one word in
-  common to understand each other..."
 source: City of Seattle
 source_url: https://frontporch.seattle.gov/2025/11/21/growing-community-y%C9%99haw%CC%93-indigenous-creatives-collective-rematriates-land-to-build-native-led-arts-and-culture-space/
 summarized: true

@@ -1,14 +1,6 @@
 ---
 date: '2025-11-10T00:30:23+00:00'
 images: []
-original_content: Seattle – Today, Mayor Bruce Harrell released the following statement
-  after the passing of Lenny Wilkens:&#160; “I am deeply saddened by the passing of
-  Lenny Wilkens, a trailblazing Seattle icon and legendary figure in the history of
-  basketball. One of...
-original_markdown_body: Seattle – Today, Mayor Bruce Harrell released the following
-  statement after the passing of Lenny Wilkens:&nbsp; “I am deeply saddened by the
-  passing of Lenny Wilkens, a trailblazing Seattle icon and legendary figure in the
-  history of basketball. One of...
 published: false
 source: City of Seattle
 source_url: https://harrell.seattle.gov/2025/11/10/mayor-harrell-statement-on-passing-of-sonics-legend-lenny-wilkens/

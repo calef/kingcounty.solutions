@@ -1,14 +1,6 @@
 ---
 date: '2025-11-18T22:46:24+00:00'
 images: []
-original_content: Jump into the new year with both feet! Every January 1st at 12 noon,
-  hundreds of people line up along the beach at Matthews Beach Park for the first
-  dunk in the lake of the new year. Special cubs diving at 11:45 A.M. We provide lifeguards
-  at this FREE ...
-original_markdown_body: Jump into the new year with both feet! Every January 1st at
-  12 noon, hundreds of people line up along the beach at Matthews Beach Park for the
-  first dunk in the lake of the new year. Special cubs diving at 11:45 A.M. We provide
-  lifeguards at this FREE ...
 published: false
 source: City of Seattle
 source_url: https://parkways.seattle.gov/2025/11/18/polar-bear-plunge-new-years-2026/

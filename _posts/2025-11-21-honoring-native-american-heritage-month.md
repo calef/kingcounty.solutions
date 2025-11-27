@@ -1,12 +1,6 @@
 ---
 date: '2025-11-21T19:54:59+00:00'
 images: []
-original_content: By Metro’s Equity, Inclusion and Belonging team Each November, Native
-  American Heritage Month invites us to honor the history, cultures and enduring contributions
-  of Native peoples throughout our region and...
-original_markdown_body: By Metro’s Equity, Inclusion and Belonging team Each November,
-  Native American Heritage Month invites us to honor the history, cultures and enduring
-  contributions of Native peoples throughout our region and...
 source: King County Metro Transit
 source_url: https://kingcountymetro.blog/2025/11/21/honoring-native-american-heritage-month/
 summarized: true

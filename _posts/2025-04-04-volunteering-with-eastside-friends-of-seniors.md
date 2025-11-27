@@ -1,10 +1,6 @@
 ---
 date: '2025-04-04T21:16:07+00:00'
 images: []
-original_content: A deeply meaningful part of my life these days is the time I spend
-  volunteering as a driver for Eastside Friends of Seniors. It is a...
-original_markdown_body: A deeply meaningful part of my life these days is the time
-  I spend volunteering as a driver for Eastside Friends of Seniors. It is a...
 source: Eastside Friends of Seniors
 source_url: https://www.eastsidefriendsofseniors.org/post/volunteering-with-eastside-friends-of-seniors
 summarized: true

@@ -1,20 +1,6 @@
 ---
 date: '2025-03-06T19:29:23-08:00'
 images: []
-original_content: August 2024"Support group is giving me the space to reflect on the
-  impact of my childhood trauma, heal, and grow into who God created me to be." Our
-  Rise support groups are for women of all ages who have experienced abuse or trauma
-  either recently or in the past. We meet together once a month to discuss the areas
-  impacted by abuse and the healing process. We believe healing happens in the context
-  of relationship with God and with one another, and we would love to partner with
-  you in your
-original_markdown_body: August 2024"Support group is giving me the space to reflect
-  on the impact of my childhood trauma, heal, and grow into who God created me to
-  be."&nbsp;Our Rise support groups are for women of all ages who have experienced
-  abuse or trauma either recently or in the past. We meet together once a month to
-  discuss the areas impacted by abuse and the healing process. We believe healing
-  happens in the context of relationship with God and with one another, and we would
-  love to partner with you in your
 source: Lighthouse NW
 source_url: https://lighthousenw.org/blog/find-healing-at-rise
 summarized: true

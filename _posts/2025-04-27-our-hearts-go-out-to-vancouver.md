@@ -1,19 +1,6 @@
 ---
 date: '2025-04-27T17:41:50+00:00'
 images: []
-original_content: |-
-  Dearest friends in Vancouver BC,
-
-
-
-  Our hearts ache with you following the senseless violence at the Lapu-Lapu Day Block Party. What should have been a joyful celebration of our shared Filipino heritage has been marred by tragedy. From your neighbors at the Filipino Community of Seattle and your fellow performers of FCS Kalahi, we send our deepest compassion and unwavering support to the families of those who were lost and to everyone injured.  We stand in solidarity with the Vancouver Filipino
-original_markdown_body: Dearest friends in Vancouver BC, Our hearts ache with you
-  following the senseless violence at the Lapu-Lapu Day Block Party. What should have
-  been a joyful celebration of our shared Filipino heritage has been marred by tragedy.
-  From your neighbors at the Filipino Community of Seattle and your fellow performers
-  of FCS Kalahi, we send our deepest compassion and unwavering support to the families
-  of those who were lost and to everyone injured. We stand in solidarity with the
-  Vancouver Filipino
 source: Filipino Community of Seattle
 source_url: https://www.filcommsea.org/post/our-hearts-go-out-to-vancouver
 summarized: true

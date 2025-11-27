@@ -1,58 +1,6 @@
 ---
 date: '2024-12-12T17:00:00+00:00'
 images: []
-original_content: <p class="">Thank you does not fully capture our excitement for
-  the generosity you showed in support of GivingTuesday! This year, we strove to renew
-  our commitment to serve as a safe and accessible resource for everyone in our community,
-  regardless of housing status, income, zip code, gender identity, or immigration
-  status. The only questions we ask empower our neighbors to make choices in the food
-  and resources they provide for their families to nourish and improve their lives.</p><p
-  class="">Thanks to more than 200 of our neighbors, we blew our goal out of the water
-  by raising over $110,000, with more coming in, to fund and expand food access for
-  all! We appreciate how everyone showed up in solidarity, giving generously to help
-  us surpass our goal. We feel so encouraged to know how important ending hunger in
-  South Seattle is to our community. We’re also grateful that <a href="o%09https:/seattlemag.com/seattle-culture/seattle-shines-on-giving-tuesday/">Seattle
-  Business Magazine</a>, <a href="o%09https:/southseattleemerald.org/news/2024/12/03/rainier-valley-food-banks-financial-counseling-service-helpline-provides-rental-assistance-to-qualifying-clients">South
-  Seattle Emerald</a>, and <a href="o%09https:/www.kuow.org/stories/20-for-lettuce-today-50-tomorrow-how-local-food-ba">KUOW</a>
-  included RVFB in conversation with other nonprofit organizations, including food
-  banks around the Puget Sound area, for GivingTuesday. </p><p class="">We know that
-  the work to end hunger does not stop here. If you missed GivingTuesday and didn’t
-  make a gift, know that there's still time to give to expand food access for all.
-  It will take all of us working together to end hunger in South Seattle. There are
-  also other ways to show up in solidarity for this work.&nbsp;If you're looking for
-  an opportunity to deepen your impact, here are a few examples of how to get involved:</p><ul
-  data-rte-list="default"><li><p class="">There’s still time to <a href="https://givebutter.com/RVFB-GivingTuesday-2024">help
-  fund food access for all for GivingTuesday</a>.</p></li><li><p class=""><a href="https://www.rvfb.org/volunteer?utm_campaign=2024%20GivingTuesday&amp;utm_source=hs_email&amp;utm_medium=email&amp;_hsenc=p2ANqtz-8Npkw5m_fLMBKPxluIydLwRPDGE8zqzROdsuk399GGCHwjePT4SqUlTcy2ZihccBGb6E8g"
-  target="_blank">Sign up to lend a hand as a volunteer</a>&nbsp;supporting one of
-  our programs or&nbsp;<a href="https://drive.google.com/file/d/1iDHIApNA8WP7mTupBOkF9eMca_BjAagF/view?usp=drive_link&amp;utm_campaign=2024%20GivingTuesday&amp;utm_source=hs_email&amp;utm_medium=email&amp;_hsenc=p2ANqtz-8Npkw5m_fLMBKPxluIydLwRPDGE8zqzROdsuk399GGCHwjePT4SqUlTcy2ZihccBGb6E8g"
-  target="_blank">host a packing party to volunteer from anywhere</a>.</p></li><li><p
-  class=""><a href="https://givebutter.com/full-plate-club?utm_campaign=2024%20GivingTuesday&amp;utm_source=hs_email&amp;utm_medium=email&amp;_hsenc=p2ANqtz-8Npkw5m_fLMBKPxluIydLwRPDGE8zqzROdsuk399GGCHwjePT4SqUlTcy2ZihccBGb6E8g"
-  target="_blank">Become a monthly donor</a>&nbsp;to help power our work month by
-  month and year by year.</p></li><li><p class=""><a href="https://drive.google.com/file/d/1moTVpmbHISSfE5bFUkfXdxac5rVLqjHZ/view?usp=drive_link&amp;utm_campaign=2024%20GivingTuesday&amp;utm_source=hs_email&amp;utm_medium=email&amp;_hsenc=p2ANqtz-8Npkw5m_fLMBKPxluIydLwRPDGE8zqzROdsuk399GGCHwjePT4SqUlTcy2ZihccBGb6E8g"
-  target="_blank">Host a food, fund, or item drive</a>&nbsp;to provide essential items
-  for our neighbors in need.</p></li><li><p class=""><a href="https://www.facebook.com/help/990087377765844?utm_campaign=2024%20GivingTuesday&amp;utm_source=hs_email&amp;utm_medium=email&amp;_hsenc=p2ANqtz-8Npkw5m_fLMBKPxluIydLwRPDGE8zqzROdsuk399GGCHwjePT4SqUlTcy2ZihccBGb6E8g"
-  target="_blank">Start a fundraiser on Facebook</a>&nbsp;to encourage your friends
-  and family to support our work.</p></li><li><p class="">Spread the word about the
-  importance of creating food access for all in South Seattle among your friends,
-  family, and coworkers.</p></li></ul>
-original_markdown_body: |-
-  Thank you does not fully capture our excitement for the generosity you showed in support of GivingTuesday! This year, we strove to renew our commitment to serve as a safe and accessible resource for everyone in our community, regardless of housing status, income, zip code, gender identity, or immigration status. The only questions we ask empower our neighbors to make choices in the food and resources they provide for their families to nourish and improve their lives.
-
-  Thanks to more than 200 of our neighbors, we blew our goal out of the water by raising over $110,000, with more coming in, to fund and expand food access for all! We appreciate how everyone showed up in solidarity, giving generously to help us surpass our goal. We feel so encouraged to know how important ending hunger in South Seattle is to our community. We’re also grateful that [Seattle Business Magazine](o%09https:/seattlemag.com/seattle-culture/seattle-shines-on-giving-tuesday/), [South Seattle Emerald](o%09https:/southseattleemerald.org/news/2024/12/03/rainier-valley-food-banks-financial-counseling-service-helpline-provides-rental-assistance-to-qualifying-clients), and [KUOW](o%09https:/www.kuow.org/stories/20-for-lettuce-today-50-tomorrow-how-local-food-ba) included RVFB in conversation with other nonprofit organizations, including food banks around the Puget Sound area, for GivingTuesday.
-
-  We know that the work to end hunger does not stop here. If you missed GivingTuesday and didn’t make a gift, know that there's still time to give to expand food access for all. It will take all of us working together to end hunger in South Seattle. There are also other ways to show up in solidarity for this work.&nbsp;If you're looking for an opportunity to deepen your impact, here are a few examples of how to get involved:
-
-  - There’s still time to [help fund food access for all for GivingTuesday](https://givebutter.com/RVFB-GivingTuesday-2024).
-
-  - [Sign up to lend a hand as a volunteer](https://www.rvfb.org/volunteer?utm_campaign=2024%20GivingTuesday&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8Npkw5m_fLMBKPxluIydLwRPDGE8zqzROdsuk399GGCHwjePT4SqUlTcy2ZihccBGb6E8g)&nbsp;supporting one of our programs or&nbsp;[host a packing party to volunteer from anywhere](https://drive.google.com/file/d/1iDHIApNA8WP7mTupBOkF9eMca_BjAagF/view?usp=drive_link&utm_campaign=2024%20GivingTuesday&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8Npkw5m_fLMBKPxluIydLwRPDGE8zqzROdsuk399GGCHwjePT4SqUlTcy2ZihccBGb6E8g).
-
-  - [Become a monthly donor](https://givebutter.com/full-plate-club?utm_campaign=2024%20GivingTuesday&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8Npkw5m_fLMBKPxluIydLwRPDGE8zqzROdsuk399GGCHwjePT4SqUlTcy2ZihccBGb6E8g)&nbsp;to help power our work month by month and year by year.
-
-  - [Host a food, fund, or item drive](https://drive.google.com/file/d/1moTVpmbHISSfE5bFUkfXdxac5rVLqjHZ/view?usp=drive_link&utm_campaign=2024%20GivingTuesday&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8Npkw5m_fLMBKPxluIydLwRPDGE8zqzROdsuk399GGCHwjePT4SqUlTcy2ZihccBGb6E8g)&nbsp;to provide essential items for our neighbors in need.
-
-  - [Start a fundraiser on Facebook](https://www.facebook.com/help/990087377765844?utm_campaign=2024%20GivingTuesday&utm_source=hs_email&utm_medium=email&_hsenc=p2ANqtz-8Npkw5m_fLMBKPxluIydLwRPDGE8zqzROdsuk399GGCHwjePT4SqUlTcy2ZihccBGb6E8g)&nbsp;to encourage your friends and family to support our work.
-
-  - Spread the word about the importance of creating food access for all in South Seattle among your friends, family, and coworkers.
 source: Rainier Valley Food Bank
 source_url: https://www.rvfb.org/blog/funding-food-access-for-all-givingtuesday-2024
 summarized: true

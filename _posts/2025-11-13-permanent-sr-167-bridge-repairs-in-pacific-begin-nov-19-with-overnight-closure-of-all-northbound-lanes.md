@@ -1,16 +1,6 @@
 ---
 date: '2025-11-13T04:37:28-08:00'
 images: []
-original_content: PACIFIC – Permanent repairs are set to begin on the northbound State
-  Route 167 bridge across Third Avenue Southwest in Pacific. It was damaged this fall
-  by an over-height vehicle. To set up the work zone, all northbound lanes of the
-  highway between Stewart and Ellingson roads will close Wednesday night, Nov. 19.
-  When traffic reopens the next morning, there will be just one northbound lane.
-original_markdown_body: PACIFIC – Permanent repairs are set to begin on the northbound
-  State Route 167 bridge across Third Avenue Southwest in Pacific. It was damaged
-  this fall by an over-height vehicle. To set up the work zone, all northbound lanes
-  of the highway between Stewart and Ellingson roads will close Wednesday night, Nov.
-  19. When traffic reopens the next morning, there will be just one northbound lane.
 published: false
 source: Washington State Department of Transportation
 source_url: https://wsdot.wa.gov/about/news/2025/permanent-sr-167-bridge-repairs-pacific-begin-nov-19-overnight-closure-all-northbound-lanes

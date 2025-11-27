@@ -1,17 +1,6 @@
 ---
 date: '2025-11-24T18:42:42+00:00'
 images: []
-original_content: |-
-  <p>On November 20, 2025, the Washington State Community Economic Revitalization Board (CERB) approved $7,250,000 in low interest loans and grants for planning, economic development, and public infrastructure improvements, intended to spur business growth and job creation, in Chelan, Cowlitz, Mason, Pierce, and Spokane Counties. <a href="https://deptofcommerce.box.com/v/CERBNovember2025Newsletter">Read more in our November 2025 Newsletter (PDF).</a></p>
-
-
-
-  <p><a href=""></a></p>
-original_markdown_body: On November 20, 2025, the Washington State Community Economic
-  Revitalization Board (CERB) approved $7,250,000 in low interest loans and grants
-  for planning, economic development, and public infrastructure improvements, intended
-  to spur business growth and job creation, in Chelan, Cowlitz, Mason, Pierce, and
-  Spokane Counties. [Read more in our November 2025 Newsletter (PDF).](https://deptofcommerce.box.com/v/CERBNovember2025Newsletter)
 published: false
 source: Department of Commerce
 source_url: https://www.commerce.wa.gov/cerb-awards-7250000-in-low-interest-loans-and-grants/

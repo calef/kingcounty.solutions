@@ -1,10 +1,6 @@
 ---
 date: '2025-08-04T18:16:24+00:00'
 images: []
-original_content: At Eastside Friends of Seniors, we see aging not as a problem to
-  solve, but rather as a life stage to honor. Every week, we witness...
-original_markdown_body: At Eastside Friends of Seniors, we see aging not as a problem
-  to solve, but rather as a life stage to honor. Every week, we witness...
 source: Eastside Friends of Seniors
 source_url: https://www.eastsidefriendsofseniors.org/post/aging-with-intention-purpose-and-joy
 summarized: true

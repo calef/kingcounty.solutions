@@ -1,10 +1,6 @@
 ---
 date: '2025-10-16T17:21:04+00:00'
 images: []
-original_content: <p>The post <a href="https://www.kcsarc.org/en/lornas-blog-2/">Lorna&#8217;s
-  Blog</a> appeared first on <a href="https://www.kcsarc.org/en/">KCSARC</a>.</p>
-original_markdown_body: The post [Lorna’s Blog](https://www.kcsarc.org/en/lornas-blog-2/)
-  appeared first on [KCSARC](https://www.kcsarc.org/en/).
 source: King County Sexual Assault Resource Center
 source_url: https://www.kcsarc.org/en/lornas-blog-2/
 summarized: true

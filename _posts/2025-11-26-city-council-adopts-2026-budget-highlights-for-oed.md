@@ -1,14 +1,6 @@
 ---
 date: '2025-11-26T17:56:46+00:00'
 images: []
-original_content: The 2026 budget passed by the Seattle City Council highlights our
-  continued focus on supporting a thriving, inclusive business ecosystem – one that
-  attracts new industry and helps local businesses grow, innovate, and create opportunity
-  across the city....
-original_markdown_body: The 2026 budget passed by the Seattle City Council highlights
-  our continued focus on supporting a thriving, inclusive business ecosystem – one
-  that attracts new industry and helps local businesses grow, innovate, and create
-  opportunity across the city....
 source: City of Seattle
 source_url: https://bottomline.seattle.gov/2025/11/26/city-council-adopts-2026-budget-highlights-for-oed/
 summarized: true

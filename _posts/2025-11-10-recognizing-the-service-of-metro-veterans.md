@@ -1,12 +1,6 @@
 ---
 date: '2025-11-10T20:57:22+00:00'
 images: []
-original_content: By Ernest Kandilige, Metro Deputy General Manager As Veterans Day
-  (Nov. 11) approaches, I want to take a moment to recognize and thank all of Metro’s
-  military service members, past and...
-original_markdown_body: By&nbsp;Ernest Kandilige, Metro Deputy General Manager As
-  Veterans Day (Nov. 11) approaches, I want to take a moment to recognize and thank
-  all of Metro’s military service members, past and...
 source: King County Metro Transit
 source_url: https://kingcountymetro.blog/2025/11/10/recognizing-the-service-of-metro-veterans/
 summarized: true

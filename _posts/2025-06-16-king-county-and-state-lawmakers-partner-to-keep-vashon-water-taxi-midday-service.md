@@ -1,16 +1,6 @@
 ---
 date: '2025-06-16T20:30:31+00:00'
 images: []
-original_content: This media release was originally posted on King County Executive
-  News on June 16, 2025. Midday service to Vashon Island on the King County Water
-  Taxi will continue at least through June 2027. The necessary funding for these year-round,
-  weekday voyages was secured as part of the state transportation budget adopted on
-  May 20. The&#8230;
-original_markdown_body: This media release was originally posted on King County Executive
-  News on June 16, 2025. Midday service to Vashon Island on the King County Water
-  Taxi will continue at least through June 2027. The necessary funding for these year-round,
-  weekday voyages was secured as part of the state transportation budget adopted on
-  May 20. The…
 source: King County Ferry District
 source_url: https://kingcountywatertaxiblog.com/2025/06/16/king-county-and-state-lawmakers-partner-to-keep-vashon-water-taxi-midday-service/
 summarized: true

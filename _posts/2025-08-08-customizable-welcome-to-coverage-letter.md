@@ -1,17 +1,6 @@
 ---
 date: '2025-08-08T08:31:28-04:00'
 images: []
-original_content: "<p>artifact_description: General Resources</p><p>date: Mon, 28
-  Jul 2025 14:32:34 -0400</p><p>title: Customizable Welcome to Coverage Letter</p><p>topic:
-  Coverage 2 Care</p>"
-original_markdown_body: |-
-  artifact\_description: General Resources
-
-  date: Mon, 28 Jul 2025 14:32:34 -0400
-
-  title: Customizable Welcome to Coverage Letter
-
-  topic: Coverage 2 Care
 published: false
 source: Centers for Medicare & Medicaid Services
 source_url: https://www.cms.gov//marketplace/agents-brokers/general-resources/customizable-welcome-coverage-letter

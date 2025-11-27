@@ -1,13 +1,6 @@
 ---
 date: '2025-11-19T06:00:26+00:00'
 images: []
-original_content: |-
-  <p>What is your role at Aging Wisdom?  Creative Engagement Specialist What made you want to work in the field of aging? I appreciate the accumulated wisdom and insights of older people, and I have always gravitated toward older adults, even when I was a kid. Growing up, my dad used to always point out how [&#8230;]</p>
-  <p>The post <a href="https://agingwisdom.com/staff-spotlight-veronica-dorazio/">Staff Spotlight: Veronica D&#8217;Orazio</a> appeared first on <a href="https://agingwisdom.com">Aging Wisdom</a>.</p>
-original_markdown_body: |-
-  What is your role at Aging Wisdom?&nbsp; Creative Engagement Specialist What made you want to work in the field of aging? I appreciate the accumulated wisdom and insights of older people, and I have always gravitated toward older adults, even when I was a kid. Growing up, my dad used to always point out how […]
-
-  The post [Staff Spotlight: Veronica D’Orazio](https://agingwisdom.com/staff-spotlight-veronica-dorazio/) appeared first on [Aging Wisdom](https://agingwisdom.com).
 source: Aging Wisdom
 source_url: https://agingwisdom.com/staff-spotlight-veronica-dorazio/?utm_source=rss&utm_medium=rss&utm_campaign=staff-spotlight-veronica-dorazio
 summarized: true

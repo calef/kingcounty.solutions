@@ -1,13 +1,6 @@
 ---
 date: '2025-11-22T06:00:44+00:00'
 images: []
-original_content: |-
-  <p>Back by popular demand, it’s our Holiday Gift Guide—packed with thoughtful ideas to spark joy and make the season a little brighter. Throughout the year our team gathers recommendations from clients, their families and friends, and our circle of trusted allied professionals. The result? A curated collection of gifts that delight, engage, entertain, and comfort. [&#8230;]</p>
-  <p>The post <a href="https://agingwisdom.com/our-annual-holiday-gift-guide/">Our Annual Holiday Gift Guide</a> appeared first on <a href="https://agingwisdom.com">Aging Wisdom</a>.</p>
-original_markdown_body: |-
-  Back by popular demand, it’s our Holiday Gift Guide—packed with thoughtful ideas to spark joy and make the season a little brighter. Throughout the year our team gathers recommendations from clients, their families and friends, and our circle of trusted allied professionals. The result? A curated collection of gifts that delight, engage, entertain, and comfort. […]
-
-  The post [Our Annual Holiday Gift Guide](https://agingwisdom.com/our-annual-holiday-gift-guide/) appeared first on [Aging Wisdom](https://agingwisdom.com).
 source: Aging Wisdom
 source_url: https://agingwisdom.com/our-annual-holiday-gift-guide/?utm_source=rss&utm_medium=rss&utm_campaign=our-annual-holiday-gift-guide
 summarized: true

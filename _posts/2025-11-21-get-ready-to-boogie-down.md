@@ -1,15 +1,6 @@
 ---
 date: '2025-11-21T21:50:06+00:00'
 images: []
-original_content: |-
-  <a href="https://wscenter.org/get-ready-to-boogie-down/"><p>Get ready to boogie down at our far-out 60&#8217;s Dance Party!</p>
-
-
-
-  <p>Dust off your go-go boots and join us for a groovy night with live DJ music and dancing.<br /><br />Beer, &hellip;</p></a>
-original_markdown_body: "[\n\nGet ready to boogie down at our far-out 60’s Dance Party!\n\nDust
-  off your go-go boots and join us for a groovy night with live DJ music and dancing.
-  \ \n  \nBeer, …\n\n](https://wscenter.org/get-ready-to-boogie-down/)"
 published: false
 source: The Center for Active Living
 source_url: https://wscenter.org/get-ready-to-boogie-down/

@@ -1,13 +1,6 @@
 ---
 date: '2025-10-08T23:48:09+00:00'
 images: []
-original_content: |-
-  <p>United Way of King County invites you to our next Conversations for Change series event featuring historian and best&#x2d;selling author Timothy Snyder at Benaroya Hall on Oct. 26 at 7:30 p.m. United Way is teaming up with Seattle Arts &amp; Lectures to co&#x2d;present Timothy Snyder, a renowned World War historian specializing in Communism and the Holocaust. Snyder is a former professor of history and&#8230;</p>
-  <p><a href="https://www.uwkc.org/advocacy/conversations-for-change-timothy-snyder/" rel="nofollow">Source</a></p>
-original_markdown_body: |-
-  United Way of King County invites you to our next Conversations for Change series event featuring historian and best-selling author Timothy Snyder at Benaroya Hall on Oct. 26 at 7:30 p.m. United Way is teaming up with Seattle Arts & Lectures to co-present Timothy Snyder, a renowned World War historian specializing in Communism and the Holocaust. Snyder is a former professor of history and…
-
-  [Source](https://www.uwkc.org/advocacy/conversations-for-change-timothy-snyder/)
 published: false
 source: United Way of King County
 source_url: https://www.uwkc.org/advocacy/conversations-for-change-timothy-snyder/

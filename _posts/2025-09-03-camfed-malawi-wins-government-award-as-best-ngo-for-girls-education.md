@@ -1,13 +1,6 @@
 ---
 date: '2025-09-03T13:52:29+00:00'
 images: []
-original_content: |-
-  <p>The award was presented on 2025 NGO Day, by Dr. Nertha Semphere Mgala&mdash;Principal Secretary for the Ministry of Gender, Community Development and Social Welfare (pictured with Susan Silika below). It recognizes CAMFED&rsquo;s impact in advancing education opportunities for girls across the country for the second year running. During a gala dinner held in Mzuzu, the Principle Secretary commended the non&#8230;</p>
-  <p><a href="https://camfed.org/camfed-malawi-award-best-girls-education-ngo/" rel="nofollow">Source</a></p>
-original_markdown_body: |-
-  The award was presented on 2025 NGO Day, by Dr. Nertha Semphere Mgala—Principal Secretary for the Ministry of Gender, Community Development and Social Welfare (pictured with Susan Silika below). It recognizes CAMFED’s impact in advancing education opportunities for girls across the country for the second year running. During a gala dinner held in Mzuzu, the Principle Secretary commended the non…
-
-  [Source](https://camfed.org/camfed-malawi-award-best-girls-education-ngo/)
 source: CAMFED - Campaign for Female Education
 source_url: https://camfed.org/camfed-malawi-award-best-girls-education-ngo/
 summarized: true

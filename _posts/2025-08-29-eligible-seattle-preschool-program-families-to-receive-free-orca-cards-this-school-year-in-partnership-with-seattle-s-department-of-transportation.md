@@ -1,17 +1,6 @@
 ---
 date: '2025-08-29T18:40:16+00:00'
 images: []
-original_content: '<img width="150" height="150" src="https://education.seattle.gov/wp-content/uploads/sites/27/2025/08/IMG_7129-150x150.jpg"
-  class="webfeedsFeaturedVisual wp-post-image" alt="Children follow their teacher
-  for outdoor playtime." style="display: block; margin-bottom: 5px; clear:both;max-width:
-  100%;" link_thumbnail="" decoding="async" loading="lazy" srcset="https://education.seattle.gov/wp-content/uploads/sites/27/2025/08/IMG_7129-150x150.jpg
-  150w, https://education.seattle.gov/wp-content/uploads/sites/27/2025/08/IMG_7129-115x115.jpg
-  115w" sizes="auto, (max-width: 150px) 100vw, 150px" />SDOT and DEEL are partnering
-  for a third year to provide eligible Seattle Preschool Program families with no-cost
-  ORCA cards to help meet their transportation needs.'
-original_markdown_body: "![Children follow their teacher for outdoor playtime.](https://education.seattle.gov/wp-content/uploads/sites/27/2025/08/IMG_7129-150x150.jpg)SDOT
-  and DEEL are partnering for a third year to provide eligible Seattle Preschool Program
-  families with no-cost ORCA cards to help meet their transportation needs."
 source: Department of Education and Early Learning
 source_url: https://education.seattle.gov/?p=1423
 summarized: true

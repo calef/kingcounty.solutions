@@ -1,10 +1,6 @@
 ---
 date: '2025-09-30T20:34:12+00:00'
 images: []
-original_content: Join us for Share Hope 2025, an elegant evening of healing and giving
-  to benefit survivors of interpersonal violence on Vashon Island. As...
-original_markdown_body: Join us for Share Hope 2025, an elegant evening of healing
-  and giving to benefit survivors of interpersonal violence on Vashon Island. As...
 source: The Vashon DOVE Project
 source_url: https://www.vashondoveproject.org/post/share-hope-2025-illuminate
 summarized: true

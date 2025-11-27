@@ -1,15 +1,6 @@
 ---
 date: '2025-11-01T02:05:42+00:00'
 images: []
-original_content: What’s Next for City Hall? We often receive the question, “What’s
-  going on with replacing City Hall?” I would like to take this opportunity to provide
-  an update on the project's status and outline the next steps. As many residents
-  know, the future of Normandy Park City Hall has been a topic of discussion for several
-  years. Our current building was originally constructed in the 1950s as an elementary
-  school and later converted into City Hall in the late 1980s. While it has served
-  the community well, it was never intended to function as a modern municipal facility.
-  As a result, the City has been exploring options to ensure that we have a safe,
-  efficient, and functional building that can continue to serve residents daily.
 published: false
 source: City of Normandy Park
 source_url: https://normandyparkwa.gov/city-news/city-manager/city-manager-report-october-31-2025/

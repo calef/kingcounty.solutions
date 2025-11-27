@@ -1,25 +1,6 @@
 ---
 date: '2025-10-14T16:00:00+00:00'
 images: []
-original_content: '<img width="150" height="150" src="https://powerlines.seattle.gov/wp-content/uploads/sites/17/2025/10/yovine_spotlight-1-150x150.png"
-  class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom:
-  5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy"
-  srcset="https://powerlines.seattle.gov/wp-content/uploads/sites/17/2025/10/yovine_spotlight-1-150x150.png
-  150w, https://powerlines.seattle.gov/wp-content/uploads/sites/17/2025/10/yovine_spotlight-1-690x690.png
-  690w, https://powerlines.seattle.gov/wp-content/uploads/sites/17/2025/10/yovine_spotlight-1-450x450.png
-  450w, https://powerlines.seattle.gov/wp-content/uploads/sites/17/2025/10/yovine_spotlight-1-115x115.png
-  115w, https://powerlines.seattle.gov/wp-content/uploads/sites/17/2025/10/yovine_spotlight-1.png
-  900w" sizes="auto, (max-width: 150px) 100vw, 150px" />The Basics How long have you
-  been at City Light? Almost three years Division: Engineering and Technology Operations
-  Tell us about your role. I’m an electrical engineer on the Generation team. We work
-  in the planning, design, construction, operation, and maintenance of City Light&#8217;s
-  hydroelectric generation facilities. My favorite thing about my role is that [&#8230;]'
-original_markdown_body: "![](https://powerlines.seattle.gov/wp-content/uploads/sites/17/2025/10/yovine_spotlight-1-150x150.png)The
-  Basics How long have you been at City Light? Almost three years Division: Engineering
-  and Technology Operations Tell us about your role. I’m an electrical engineer on
-  the Generation team. We work in the planning, design, construction, operation, and
-  maintenance of City Light’s hydroelectric generation facilities. My favorite thing
-  about my role is that […]"
 published: false
 source: City Light Bill Assistance Programs
 source_url: https://powerlines.seattle.gov/2025/10/14/seattle-city-spotlight-dani-yovine-electrical-engineer-associate/

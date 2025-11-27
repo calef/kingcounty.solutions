@@ -1,14 +1,6 @@
 ---
 date: '2025-11-23T17:32:28+00:00'
 images: []
-original_content: The Seattle Fire Department is conducting live-fire training exercises
-  at a vacant home in the Wallingford neighborhood from 9 a.m. to 5 p.m. on Nov. 24
-  and 25 at 3502 Meridian Ave. N. Live-fire training is an opportunity for recruits
-  to work with vete...
-original_markdown_body: The Seattle Fire Department is conducting live-fire training
-  exercises at a vacant home in the Wallingford neighborhood&nbsp;from 9 a.m. to 5
-  p.m. on Nov. 24 and 25 at 3502 Meridian Ave. N. Live-fire training is an opportunity
-  for recruits to work with vete...
 published: false
 source: City of Seattle
 source_url: https://fireline.seattle.gov/2025/11/23/live-fire-training-nov-24-25-in-the-wallingford-neighborhood/

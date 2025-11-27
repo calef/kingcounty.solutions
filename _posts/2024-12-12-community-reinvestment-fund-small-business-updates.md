@@ -1,14 +1,6 @@
 ---
 date: '2024-12-12T10:00:00+00:00'
 images: []
-original_content: "<p>Explore resources and support programs tailored for small businesses
-  in King County.</p>\n<p>The post <a href=\"https://worksourceskc.org/%f0%9f%8c%9f-community-reinvestment-fund-small-business-updates/\">\U0001F31F
-  Community Reinvestment Fund: Small Business Updates</a> appeared first on <a href=\"https://worksourceskc.org\">WorkSource
-  Seattle-King County</a>.</p>"
-original_markdown_body: "Explore resources and support programs tailored for small
-  businesses in King County.\n\nThe post [\U0001F31F Community Reinvestment Fund:
-  Small Business Updates](https://worksourceskc.org/%f0%9f%8c%9f-community-reinvestment-fund-small-business-updates/)
-  appeared first on [WorkSource Seattle-King County](https://worksourceskc.org)."
 source: WorkSource Seattle-King County
 source_url: https://worksourceskc.org/%f0%9f%8c%9f-community-reinvestment-fund-small-business-updates/?utm_source=rss&utm_medium=rss&utm_campaign=%25f0%259f%258c%259f-community-reinvestment-fund-small-business-updates
 summarized: true

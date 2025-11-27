@@ -1,14 +1,6 @@
 ---
 date: '2025-11-10T17:00:00+00:00'
 images: []
-original_content: 'The Basics How long have you worked at City Light? 12 years Division:
-  Customer Operations Tell us about your role: The Customer Operations Division is
-  made up of several teams, including Customer Engineering, which is responsible for
-  supporting custome...'
-original_markdown_body: 'The Basics How long have you worked at City Light? 12 years
-  Division: Customer Operations Tell us about your role:&nbsp;The Customer Operations
-  Division is made up of several teams, including Customer Engineering, which is responsible
-  for supporting custome...'
 published: false
 source: City of Seattle
 source_url: https://powerlines.seattle.gov/2025/11/10/seattle-city-spotlight-katie-zook-king-electric-service-representative-supervisor/

@@ -1,10 +1,6 @@
 ---
 date: '2025-06-10T20:43:47+00:00'
 images: []
-original_content: 'We’re excited to announce the launch of  The Sage Program: Mood
-  and Resiliency Intensive Services , Ryther’s newest behavioral health...'
-original_markdown_body: 'We’re excited to announce the launch of The Sage Program:
-  Mood and Resiliency Intensive Services , Ryther’s newest behavioral health...'
 source: Ryther
 source_url: https://www.ryther.org/post/introducing-the-sage-program
 summarized: true

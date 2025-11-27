@@ -1,14 +1,6 @@
 ---
 date: '2025-11-12T22:02:23+00:00'
 images: []
-original_content: Funding Available for Digital Equity Projects–Apply Now! The City
-  of Seattle announces that the application for the 2026 Technology Matching Fund
-  (TMF) is now open! Non-profit organizations and community groups with projects or
-  programs focused on clos...
-original_markdown_body: Funding Available for Digital Equity Projects–Apply Now! The
-  City of Seattle announces that the application for the 2026 Technology Matching
-  Fund (TMF) is now open! Non-profit organizations and community groups with projects
-  or programs focused on clos...
 published: false
 source: City of Seattle
 source_url: https://techtalk.seattle.gov/2025/11/12/application-open-for-city-of-seattles-2026-technology-matching-fund-grants/

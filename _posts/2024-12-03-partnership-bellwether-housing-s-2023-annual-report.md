@@ -1,10 +1,6 @@
 ---
 date: '2024-12-03T17:47:51+00:00'
 images: []
-original_content: Our achievements outlined in this annual report demonstrate the
-  power of partnerships.
-original_markdown_body: Our achievements outlined in this annual report demonstrate
-  the power of partnerships.
 source: Bellwether Housing
 source_url: https://www.bellwetherhousing.org/post/partnership-2023-annual-report
 summarized: true

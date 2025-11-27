@@ -1,36 +1,6 @@
 ---
 date: '2025-10-31T23:54:58+00:00'
 images: []
-original_content: "<p>When Tonia Bartz was diagnosed with Acute Myeloid Leukemia in
-  2021, everything changed overnight.<strong> “I went to the ER knowing something
-  was off, but I never imagined it would be cancer or that I’d be admitted immediately
-  for chemotherapy,” she recalls.</strong></p>\r\n\r\n\r\n\r\n<p>Her journey included
-  chemo, radiation, a stem cell transplant, and a donor lymphocyte infusion. As she
-  approaches three years of remission, Tonia reflects on how healing continued long
-  after treatment ended. <strong>“Life after cancer is so different,” she says. “I
-  wish I’d known how deeply those changes would matter—big ones like shifting my career,
-  but also the unexpected losses, like missing my hair or rethinking my identity.”</strong>
-  With a background in holistic wellness, Tonia leaned on mindfulness and compassion
-  to navigate the “messy middle” of recovery. “Healing isn’t linear—it can last a
-  lifetime,” she says. <strong>“Seeking support isn’t weakness—it’s wisdom.”</strong></p>\r\n\r\n\r\n\r\n<p>That
-  wisdom led her to Cancer Lifeline. “I was looking for a support group and found
-  so much more,” she shares. “Cancer Lifeline became a space where I could show up
-  as I was, ask questions without judgment, and connect with others who truly understand.”</p>\r\n\r\n\r\n\r\n<p>Her
-  support group became a lifeline in every sense—friends who listen, share, and hold
-  space for honesty and hope. <strong>“There’s something irreplaceable about shared
-  experience,” she says. “It creates permission to be real.”</strong> From sound baths
-  to therapy horses, Tonia found that Cancer Lifeline’s programs seem to “intuitively
-  meet people where they are.” <strong>Now she gives back by facilitating classes
-  herself, helping others find what she found: a community that heals together, one
-  day at a time.</strong></p>"
-original_markdown_body: |-
-  When&nbsp;Tonia&nbsp;Bartz was diagnosed with Acute Myeloid Leukemia in 2021, everything changed overnight. **“I went to the ER knowing something was off, but I never imagined&nbsp;it would be cancer or that&nbsp;I’d be admitted immediately for chemotherapy,” she recalls.**
-
-  Her journey included chemo, radiation, a stem cell transplant, and a donor lymphocyte infusion. As she approaches three years of remission,&nbsp;Tonia&nbsp;reflects on how healing continued long after treatment ended. **“Life after cancer&nbsp;is&nbsp;so different,” she says. “I wish I’d known how deeply those changes would matter—big ones like shifting my career, but also the unexpected&nbsp;losses, like missing my hair or rethinking my identity.”** With a background in holistic wellness,&nbsp;Tonia&nbsp;leaned on mindfulness and compassion to navigate the “messy middle” of recovery. “Healing isn’t linear—it can last a lifetime,” she says. **“Seeking support isn’t weakness—it’s wisdom.”**
-
-  That wisdom led her to Cancer Lifeline. “I was looking for a support group and found so much more,” she shares. “Cancer Lifeline became a space where I could show up as I was, ask questions without judgment, and connect with others who truly understand.”
-
-  Her support group became a lifeline in every sense—friends who listen, share, and hold space for honesty and hope. **“There’s something irreplaceable about shared experience,” she says. “It creates permission to be real.”** From sound baths to therapy horses,&nbsp;Tonia&nbsp;found that Cancer Lifeline’s programs seem to “intuitively meet people where they are.” **Now she gives back by facilitating classes herself, helping others find what she found: a community that heals together, one day at a time.**
 source: Cancer Lifeline Financial Assistance for Cancer Patients
 source_url: https://cancerlifeline.org/tonias-story/
 summarized: true

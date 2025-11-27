@@ -1,28 +1,6 @@
 ---
 date: '2025-11-14T23:44:51+00:00'
 images: []
-original_content: City Council Meeting Roundup on Wednesday, November 12th, the Normandy
-  Park City Council held its regular monthly meeting. Below is a summary of key actions
-  and discussions. The City has accepted a Flood Control District Flood Reduction
-  Grant - The City is receiving a $750,000 grant award that will be used towards the
-  purchase of property to expand Marine View Park. The Interlocal Agreement with the
-  South Correctional Entity (SCORE) Jail was updated – The City Council approved specific
-  financial adjustments to help cover jail costs. Approving this amendment will enable
-  the City of Normandy Park to continue uninterrupted jail services that work seamlessly
-  with our Court and provide the most benefit to Normandy Park residents. Even with
-  the approved increases, this agreement is still the most affordable option available
-  to us for our short-term commitments.
-original_markdown_body: City Council Meeting Roundup on Wednesday, November 12th,
-  the Normandy Park City Council held its regular monthly meeting. Below is a summary
-  of key actions and discussions. The City has accepted a Flood Control District Flood
-  Reduction Grant - The City is receiving a $750,000 grant award that will be used
-  towards the purchase of property to expand Marine View Park. The Interlocal Agreement
-  with the South Correctional Entity (SCORE) Jail was updated – The City Council approved
-  specific financial adjustments to help cover jail costs. Approving this amendment
-  will enable the City of Normandy Park to continue uninterrupted jail services that
-  work seamlessly with our Court and provide the most benefit to Normandy Park residents.
-  Even with the approved increases, this agreement is still the most affordable option
-  available to us for our short-term commitments.
 published: false
 source: City of Normandy Park
 source_url: https://normandyparkwa.gov/city-news/city-manager/city-manager-report-november-14-2025/

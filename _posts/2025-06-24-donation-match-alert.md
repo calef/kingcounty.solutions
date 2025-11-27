@@ -2,22 +2,6 @@
 date: '2025-06-24T01:10:16+00:00'
 images:
 - 4b88b5b4cd2fc2c95ec1cafb8fc07fab89a41d0c410289bee813e09a2dec197a
-original_content: |-
-  <div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-16018d1d wp-block-buttons-is-layout-flex">
-  <div class="wp-block-button has-custom-width wp-block-button__width-100 is-style-fill"><a class="wp-block-button__link has-white-color has-light-green-cyan-background-color has-text-color has-background has-link-color has-x-large-font-size has-custom-font-size wp-element-button" href="https://hospitalityhousesouthking.org/donate/" target="_blank" rel="noreferrer noopener"><strong>CLICK HERE TO DONATE</strong></a></div>
-  </div>
-
-
-
-  <figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="940" height="788" src="https://hospitalityhousesouthking.org/wp-content/uploads/2025/06/2030.png" alt="" class="wp-image-3651" srcset="https://hospitalityhousesouthking.org/wp-content/uploads/2025/06/2030.png 940w, https://hospitalityhousesouthking.org/wp-content/uploads/2025/06/2030-768x643.png 768w" sizes="auto, (max-width: 940px) 100vw, 940px" /></figure>
-
-
-
-  <p></p>
-original_markdown_body: |-
-  [**CLICK HERE TO DONATE**](https://hospitalityhousesouthking.org/donate/)
-
-  ![](https://hospitalityhousesouthking.org/wp-content/uploads/2025/06/2030.png)
 source: Hospitality House
 source_url: https://hospitalityhousesouthking.org/donation-match-alert/
 summarized: true

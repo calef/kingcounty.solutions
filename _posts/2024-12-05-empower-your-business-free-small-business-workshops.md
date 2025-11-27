@@ -1,15 +1,6 @@
 ---
 date: '2024-12-05T03:00:00+00:00'
 images: []
-original_content: "<p>WDC&#8217;s new virtual workshop series will equip you with
-  the network, tools, and strategies to drive sustainable growth and resilience.</p>\n<p>The
-  post <a href=\"https://worksourceskc.org/%f0%9f%93%88-empower-your-business-free-small-business-workshops/\">\U0001F4C8
-  Empower Your Business: Free Small Business Workshops!</a> appeared first on <a href=\"https://worksourceskc.org\">WorkSource
-  Seattle-King County</a>.</p>"
-original_markdown_body: "WDC’s new virtual workshop series will equip you with the
-  network, tools, and strategies to drive sustainable growth and resilience.\n\nThe
-  post [\U0001F4C8 Empower Your Business: Free Small Business Workshops!](https://worksourceskc.org/%f0%9f%93%88-empower-your-business-free-small-business-workshops/)
-  appeared first on [WorkSource Seattle-King County](https://worksourceskc.org)."
 published: false
 source: WorkSource Seattle-King County
 source_url: https://worksourceskc.org/%f0%9f%93%88-empower-your-business-free-small-business-workshops/?utm_source=rss&utm_medium=rss&utm_campaign=%25f0%259f%2593%2588-empower-your-business-free-small-business-workshops

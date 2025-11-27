@@ -1,13 +1,6 @@
 ---
 date: '2025-06-12T23:17:40+00:00'
 images: []
-original_content: |-
-  <p>For 35 years, Carla lived in a small house on a lake in Washington, a state she fell in love with after<span class="excerpt-hellip"> […]</span></p>
-  <p>The post <a href="https://imaginehousing.org/carla/">Meet Carla</a> appeared first on <a href="https://imaginehousing.org">Imagine Housing</a>.</p>
-original_markdown_body: |-
-  For 35 years, Carla lived in a small house on a lake in Washington, a state she fell in love with after […]
-
-  The post [Meet Carla](https://imaginehousing.org/carla/) appeared first on [Imagine Housing](https://imaginehousing.org).
 source: Imagine Housing
 source_url: https://imaginehousing.org/carla/
 summarized: true

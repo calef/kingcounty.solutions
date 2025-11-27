@@ -1,16 +1,6 @@
 ---
 date: '2025-10-22T17:50:59+00:00'
 images: []
-original_content: The upcoming webinars focus on preventing substance use and addressing
-  childhood chronic diseases in adolescents. Hosted by Futures Without Violence and
-  the School-Based Health Alliance, these sessions aim to equip health professionals
-  with strategies for prevention and education, fostering collaboration among various
-  stakeholders to improve adolescent health outcomes.
-original_markdown_body: The upcoming webinars focus on preventing substance use and
-  addressing childhood chronic diseases in adolescents. Hosted by Futures Without
-  Violence and the School-Based Health Alliance, these sessions aim to equip health
-  professionals with strategies for prevention and education, fostering collaboration
-  among various stakeholders to improve adolescent health outcomes.
 source: King County School Health
 source_url: https://kingcountyschoolhealthdotcom.wordpress.com/2025/10/22/upcoming-sbha-training/
 summarized: true

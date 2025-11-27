@@ -1,16 +1,6 @@
 ---
 date: '2025-10-24T21:01:29+00:00'
 images: []
-original_content: The Washington State Department of Health seeks participation in
-  the 2025 SBHC billing survey to assess funding and billing practices for school-based
-  health centers. Responses will help identify challenges, improve support, and enhance
-  financial sustainability. The online survey is available until January 31, 2026,
-  with a chance to win a $250 e-gift card.
-original_markdown_body: The Washington State Department of Health seeks participation
-  in the 2025 SBHC billing survey to assess funding and billing practices for school-based
-  health centers. Responses will help identify challenges, improve support, and enhance
-  financial sustainability. The online survey is available until January 31, 2026,
-  with a chance to win a $250 e-gift card.
 source: King County School Health
 source_url: https://kingcountyschoolhealthdotcom.wordpress.com/2025/10/24/2025-doh-sbhc-billing-survey/
 summarized: true

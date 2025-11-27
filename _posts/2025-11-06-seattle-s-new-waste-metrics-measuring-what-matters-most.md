@@ -1,30 +1,6 @@
 ---
 date: '2025-11-06T19:51:15+00:00'
 images: []
-original_content: '<a href="https://atyourservice.seattle.gov/2025/11/06/seattles-new-waste-metrics-measuring-what-matters-most/"
-  title="Seattle’s New Waste Metrics: Measuring What Matters Most" rel="nofollow"><img
-  width="150" height="150" src="https://atyourservice.seattle.gov/wp-content/uploads/sites/15/2025/11/SPU_Solid_Waste_Report_illustration-150x150.png"
-  class="webfeedsFeaturedVisual wp-post-image" alt="A drawing of Seattle&#039;s skyline
-  and waterfront with the Space Needle, the Great Wheel, Mount Rainier, some buildings,
-  houses, trees, bushes, a stick figure adult and child with a reusable shopping bag
-  and a dog on a leash, a recycling dumpster, a recycling bin, a compost bin, and
-  a recycling truck. In the water are an orca and some salmon." style="display: block;
-  margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="1" decoding="async"
-  loading="lazy" /></a>A New Way to Measure Our Progress Seattle has long been recognized
-  as a global leader in waste reduction and sustainable materials management. But
-  the way we consume and what we throw away is changing fast. That’s why Seattle Public
-  Utilities (SPU) has introduced new industry-leading solid waste metrics that focus
-  not just on recycling, [&#8230;]'
-original_markdown_body: '[![A drawing of Seattle''s skyline and waterfront with the
-  Space Needle, the Great Wheel, Mount Rainier, some buildings, houses, trees, bushes,
-  a stick figure adult and child with a reusable shopping bag and a dog on a leash,
-  a recycling dumpster, a recycling bin, a compost bin, and a recycling truck. In
-  the water are an orca and some salmon.](https://atyourservice.seattle.gov/wp-content/uploads/sites/15/2025/11/SPU_Solid_Waste_Report_illustration-150x150.png)](https://atyourservice.seattle.gov/2025/11/06/seattles-new-waste-metrics-measuring-what-matters-most/
-  "Seattle’s New Waste Metrics: Measuring What Matters Most")A New Way to Measure
-  Our Progress Seattle has long been recognized as a global leader in waste reduction
-  and sustainable materials management. But the way we consume and what we throw away
-  is changing fast. That’s why Seattle Public Utilities (SPU) has introduced new industry-leading
-  solid waste metrics that focus not just on recycling, […]'
 published: false
 source: Seattle Public Utilities
 source_url: https://atyourservice.seattle.gov/2025/11/06/seattles-new-waste-metrics-measuring-what-matters-most/

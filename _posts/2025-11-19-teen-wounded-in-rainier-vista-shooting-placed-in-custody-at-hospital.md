@@ -1,14 +1,6 @@
 ---
 date: '2025-11-19T16:02:00+00:00'
 images: []
-original_content: Seattle police detectives are investigating a shooting Tuesday evening
-  in the Rainier Vista neighborhood that left a 17-year-old boy seriously injured
-  and later placed into custody on unrelated robbery charges. At 7:10 p.m., dispatchers
-  received report...
-original_markdown_body: Seattle police detectives are investigating a shooting Tuesday
-  evening in the Rainier Vista neighborhood that left a 17-year-old boy seriously
-  injured and later placed into custody on unrelated robbery charges. At 7:10 p.m.,
-  dispatchers received report...
 published: false
 source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/11/19/teen-wounded-in-rainier-vista-shooting-placed-in-custody-at-hospital/

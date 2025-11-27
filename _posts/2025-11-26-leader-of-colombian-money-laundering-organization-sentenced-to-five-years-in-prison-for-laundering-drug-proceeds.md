@@ -1,10 +1,6 @@
 ---
 date: '2025-11-26T12:00:00+00:00'
 images: []
-original_content: A Colombian national was sentenced today to 60 months in prison
-  for conspiring to launder drug proceeds.
-original_markdown_body: A Colombian national was sentenced today to 60 months in prison
-  for conspiring to launder drug proceeds.
 published: false
 source: Department of Justice
 source_url: https://www.justice.gov/opa/pr/leader-colombian-money-laundering-organization-sentenced-five-years-prison-laundering-drug

@@ -1,10 +1,6 @@
 ---
 date: '2025-06-26T01:41:13+00:00'
 images: []
-original_content: Celebration of Youth has come to an end, and we are excited to announce
-  that we raised a total of $574,603! We are so thankful to...
-original_markdown_body: Celebration of Youth has come to an end, and we are excited
-  to announce that we raised a total of $574,603! We are so thankful to...
 source: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/thank-you-for-supporting-celebration-of-youth-1
 summarized: true

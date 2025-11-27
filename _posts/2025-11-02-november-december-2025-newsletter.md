@@ -1,13 +1,6 @@
 ---
 date: '2025-11-02T04:56:03+00:00'
 images: []
-original_content: |-
-  <div data-wp-interactive="core/file" class="wp-block-file"><object data-wp-bind--hidden="!state.hasPdfPreview" hidden class="wp-block-file__embed" data="https://ballardseniorcenter.org/wp-content/uploads/sites/7/nov.dec_.2025.newsletter.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="Embed of nov.dec.2025.newsletter."></object><a id="wp-block-file--media-9b182933-3c99-421a-8a4b-f30cc2553328" href="https://ballardseniorcenter.org/wp-content/uploads/sites/7/nov.dec_.2025.newsletter.pdf">nov.dec.2025.newsletter</a><a href="https://ballardseniorcenter.org/wp-content/uploads/sites/7/nov.dec_.2025.newsletter.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-9b182933-3c99-421a-8a4b-f30cc2553328">Download</a></div>
-  <p>The post <a href="https://ballardseniorcenter.org/november-december-2025-newsletter/">November &amp; December 2025 Newsletter</a> appeared first on <a href="https://ballardseniorcenter.org">Ballard Senior Center</a>.</p>
-original_markdown_body: |-
-  <object data-wp-bind--hidden="!state.hasPdfPreview" hidden class="wp-block-file__embed" data="https://ballardseniorcenter.org/wp-content/uploads/sites/7/nov.dec_.2025.newsletter.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="Embed of nov.dec.2025.newsletter."></object>[nov.dec.2025.newsletter](https://ballardseniorcenter.org/wp-content/uploads/sites/7/nov.dec_.2025.newsletter.pdf)[Download](https://ballardseniorcenter.org/wp-content/uploads/sites/7/nov.dec_.2025.newsletter.pdf)
-
-  The post [November & December 2025 Newsletter](https://ballardseniorcenter.org/november-december-2025-newsletter/) appeared first on [Ballard Senior Center](https://ballardseniorcenter.org).
 source: Ballard Northwest Senior Center
 source_url: https://ballardseniorcenter.org/november-december-2025-newsletter/
 summarized: true

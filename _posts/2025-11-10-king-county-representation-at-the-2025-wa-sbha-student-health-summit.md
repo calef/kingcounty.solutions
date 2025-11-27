@@ -1,16 +1,6 @@
 ---
 date: '2025-11-10T16:26:18+00:00'
 images: []
-original_content: On November 7, the Washington School Based Health Alliance hosted
-  its annual Student Health Summit at Western Washington University, attracting nearly
-  100 attendees. Representatives from King County's health organizations presented
-  their initiatives, including student health councils and local health jurisdiction
-  support, fostering networking and collaboration among peers across the state.
-original_markdown_body: On November 7, the Washington School Based Health Alliance
-  hosted its annual Student Health Summit at Western Washington University, attracting
-  nearly 100 attendees. Representatives from King County's health organizations presented
-  their initiatives, including student health councils and local health jurisdiction
-  support, fostering networking and collaboration among peers across the state.
 source: King County School Health
 source_url: https://kingcountyschoolhealthdotcom.wordpress.com/2025/11/10/king-county-representation-at-the-2025-wa-sbha-student-health-summit/
 summarized: true

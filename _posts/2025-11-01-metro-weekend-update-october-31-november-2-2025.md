@@ -1,10 +1,6 @@
 ---
 date: '2025-11-01T01:45:19+00:00'
 images: []
-original_content: Weekend Service Impacts Routes 1, 2, 3, 4, 5, 7, 13, 14, 21, 24,
-  27, 28, 33, 40, 56, 62, 124, 131, 132, RapidRide C, D, and H Line will...
-original_markdown_body: Weekend Service Impacts Routes 1, 2, 3, 4, 5, 7, 13, 14, 21,
-  24, 27, 28, 33, 40, 56, 62, 124, 131, 132, RapidRide C, D, and H Line will...
 source: King County Metro Transit
 source_url: https://kingcountymetro.blog/2025/10/31/metro-weekend-update-october-31-november-2-2025/
 summarized: true

@@ -2,16 +2,6 @@
 date: '2025-11-11T18:00:00+00:00'
 images:
 - d4661b20f31e47790a47533fdc6d61bd95dc4bbb154d8d2fb9440494eca725f5
-original_content: |-
-  <figure class="wp-block-image size-large"><img decoding="async" src="https://wallingfordseniors.org/wp-content/uploads/2025/11/Purple-Ambassadors-Bingo-791x1024.png" alt="" class="wp-image-3633"/></figure>
-
-
-
-  <p>The Purple Ambassadors, a youth program within the Alzheimer’s Association, is working on increasing youth engagement with the senior community! Join these university students for a fun game of Thanksgiving-themed bingo while winning prizes and learning about the students!</p>
-original_markdown_body: |-
-  ![](https://wallingfordseniors.org/wp-content/uploads/2025/11/Purple-Ambassadors-Bingo-791x1024.png)
-
-  The Purple Ambassadors, a youth program within the Alzheimer’s Association, is working on increasing youth engagement with the senior community! Join these university students for a fun game of Thanksgiving-themed bingo while winning prizes and learning about the students!
 source: Wallingford Community Senior Center
 source_url: https://wallingfordseniors.org/purple-ambassadors-bingo-nov-25-2025/
 summarized: true

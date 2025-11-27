@@ -1,15 +1,6 @@
 ---
 date: '2024-12-18T06:26:23+00:00'
 images: []
-original_content: |-
-  <p>“The goal of any society must be to do things to increase the probability that parents and families can provide enriched experiences that lead to good outcomes.”<br />
-  — Dr. Bruce Perry, Author / Neuroscientist</p>
-  <p>The post <a href="https://akinfamily.org/were-invested-in-creating-better-lives-for-children-and-families/">We’re invested in creating better lives for children and families.</a> appeared first on <a href="https://akinfamily.org">akin</a>.</p>
-original_markdown_body: "“The goal of any society must be to do things to increase
-  the probability that parents and families can provide enriched experiences that
-  lead to good outcomes.”  \n— Dr. Bruce Perry, Author / Neuroscientist\n\nThe post
-  [We’re invested in creating better lives for children and families.](https://akinfamily.org/were-invested-in-creating-better-lives-for-children-and-families/)
-  appeared first on [akin](https://akinfamily.org)."
 source: Akin
 source_url: https://akinfamily.org/were-invested-in-creating-better-lives-for-children-and-families/
 summarized: true

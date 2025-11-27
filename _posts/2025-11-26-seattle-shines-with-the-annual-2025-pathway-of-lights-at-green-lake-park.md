@@ -1,14 +1,6 @@
 ---
 date: '2025-11-26T20:46:07+00:00'
 images: []
-original_content: This annual tradition returns to Green Lake on Saturday, December
-  13, 2025  We’re getting into the spirit of the season as we prepare for the annual
-  Pathway of Lights, a FREE winter event for the whole family! On Saturday, December
-  13, 2025, from 4:30-...
-original_markdown_body: This annual tradition returns to Green Lake on Saturday, December
-  13, 2025&nbsp; We’re getting into the spirit of the season as we prepare for the
-  annual Pathway of Lights, a FREE winter event for the whole family! On Saturday,
-  December 13, 2025, from 4:30-...
 source: City of Seattle
 source_url: https://parkways.seattle.gov/2025/11/26/seattle-shines-with-the-annual-2025-pathway-of-lights-at-green-lake-park/
 summarized: true

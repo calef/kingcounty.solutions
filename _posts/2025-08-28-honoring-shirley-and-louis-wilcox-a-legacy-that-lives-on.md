@@ -1,16 +1,6 @@
 ---
 date: '2025-08-28T21:15:22+00:00'
 images: []
-original_content: |-
-  <p>This fall, Neighborhood House is proud to rename our Rainier Vista location The Wilcox Center, honoring Shirley and Louis Wilcox for their extraordinary contributions to our community. Their lives were woven into the story of Neighborhood House, shaping its mission and strengthening the neighborhood for generations.&#160; Shirley Wilcox: Leading With Vision and Courage&#160; Shirley first ... </p>
-  <p class="read-more-container"><a title="Honoring Shirley and Louis Wilcox: A Legacy That Lives On " class="read-more button" href="https://nhwa.org/2025/08/28/honoring-shirley-and-louis-wilcox/#more-25232" aria-label="Read more about Honoring Shirley and Louis Wilcox: A Legacy That Lives On ">Read more</a></p>
-  <p>The post <a href="https://nhwa.org/2025/08/28/honoring-shirley-and-louis-wilcox/">Honoring Shirley and Louis Wilcox: A Legacy That Lives On </a> appeared first on <a href="https://nhwa.org">Neighborhood House</a>.</p>
-original_markdown_body: |-
-  This fall, Neighborhood House is proud to rename our Rainier Vista location The Wilcox Center, honoring Shirley and Louis Wilcox for their extraordinary contributions to our community. Their lives were woven into the story of Neighborhood House, shaping its mission and strengthening the neighborhood for generations.&nbsp; Shirley Wilcox: Leading With Vision and Courage&nbsp; Shirley first ...
-
-  [Read more](https://nhwa.org/2025/08/28/honoring-shirley-and-louis-wilcox/#more-25232 "Honoring Shirley and Louis Wilcox: A Legacy That Lives On ")
-
-  The post [Honoring Shirley and Louis Wilcox: A Legacy That Lives On&nbsp;](https://nhwa.org/2025/08/28/honoring-shirley-and-louis-wilcox/) appeared first on [Neighborhood House](https://nhwa.org).
 source: Neighborhood House
 source_url: https://nhwa.org/2025/08/28/honoring-shirley-and-louis-wilcox/
 summarized: true

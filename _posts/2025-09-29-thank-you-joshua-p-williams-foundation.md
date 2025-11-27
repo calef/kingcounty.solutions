@@ -1,10 +1,6 @@
 ---
 date: '2025-09-29T17:27:34+00:00'
 images: []
-original_content: We are honoring over 20 years of unwavering support from the Joshua
-  P. Williams Foundation .   Though this year marks the final chapter,...
-original_markdown_body: We are honoring over 20 years of unwavering support from the
-  Joshua P. Williams Foundation . &nbsp; Though this year marks the final chapter,...
 source: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/thank-you-joshua-p-williams-foundation-1
 summarized: true

@@ -1,15 +1,6 @@
 ---
 date: '2025-11-26T12:00:00+00:00'
 images: []
-original_content: The Justice Department’s Environment and Natural Resources Division
-  (ENRD) urged the U.S. Court of Appeals for the D.C. Circuit to void the Environmental
-  Protection Agency (EPA)’s 2024 air quality standard for particulate matter, because
-  EPA recognizes that it took an unlawful regulatory shortcut in imposing the rule.
-original_markdown_body: The Justice Department’s Environment and Natural Resources
-  Division (ENRD) urged the U.S. Court of Appeals for the D.C. Circuit to void the
-  Environmental Protection Agency (EPA)’s 2024 air quality standard for particulate
-  matter, because EPA recognizes that it took an unlawful regulatory shortcut in imposing
-  the rule.
 published: false
 source: Department of Justice
 source_url: https://www.justice.gov/opa/pr/justice-departments-environment-and-natural-resources-division-highlights-dc-appeals-court

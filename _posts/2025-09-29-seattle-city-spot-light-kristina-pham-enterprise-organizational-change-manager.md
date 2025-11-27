@@ -1,21 +1,6 @@
 ---
 date: '2025-09-29T16:00:00+00:00'
 images: []
-original_content: '<img width="150" height="150" src="https://powerlines.seattle.gov/wp-content/uploads/sites/17/2025/09/pham_spotlight_4x3-150x150.png"
-  class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom:
-  5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy"
-  srcset="https://powerlines.seattle.gov/wp-content/uploads/sites/17/2025/09/pham_spotlight_4x3-150x150.png
-  150w, https://powerlines.seattle.gov/wp-content/uploads/sites/17/2025/09/pham_spotlight_4x3-115x115.png
-  115w" sizes="auto, (max-width: 150px) 100vw, 150px" />The Basics Division: Office
-  of the General Manager How long have you been at City Light? 4 years &#160; Tell
-  us about your role: My role is to ensure City Light employees are supported through
-  organizational change initiatives. As the Organizational Change Manager, I lead
-  a team of four in developing and implementing strategies and [&#8230;]'
-original_markdown_body: "![](https://powerlines.seattle.gov/wp-content/uploads/sites/17/2025/09/pham_spotlight_4x3-150x150.png)The
-  Basics Division: Office of the General Manager How long have you been at City Light?
-  4 years &nbsp; Tell us about your role: My role is to ensure City Light employees
-  are supported through organizational change initiatives. As the Organizational Change
-  Manager, I lead a team of four in developing and implementing strategies and […]"
 published: false
 source: City Light Bill Assistance Programs
 source_url: https://powerlines.seattle.gov/2025/09/29/seattle-city-spotlight-kristina-pham-enterprise-organizational-change-manager/

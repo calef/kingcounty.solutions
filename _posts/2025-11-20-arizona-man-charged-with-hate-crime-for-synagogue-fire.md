@@ -1,12 +1,6 @@
 ---
 date: '2025-11-20T12:00:00+00:00'
 images: []
-original_content: On Nov. 18, a federal grand jury in Phoenix returned a one-count
-  indictment against Everardo Gregorio, 31, of Casa Grande, Arizona for the Obstruction
-  of the Free Exercise of Religious Beliefs by Fire.
-original_markdown_body: On Nov. 18, a federal grand jury in Phoenix returned a one-count
-  indictment against Everardo Gregorio, 31, of Casa Grande, Arizona for the Obstruction
-  of the Free Exercise of Religious Beliefs by Fire.
 published: false
 source: Department of Justice
 source_url: https://www.justice.gov/opa/pr/arizona-man-charged-hate-crime-synagogue-fire

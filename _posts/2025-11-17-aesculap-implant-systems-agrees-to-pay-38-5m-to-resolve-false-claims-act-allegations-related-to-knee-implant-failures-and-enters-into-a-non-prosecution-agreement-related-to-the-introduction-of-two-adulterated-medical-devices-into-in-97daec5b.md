@@ -1,24 +1,6 @@
 ---
 date: '2025-11-17T12:00:00+00:00'
 images: []
-original_content: Medical device company Aesculap Implant Systems LLC (Aesculap),
-  based in Center Valley, Pennsylvania, has agreed to pay $38.5 million to resolve
-  allegations under the False Claims Act that the company sold knee replacement devices
-  that it knew would fail prematurely at a higher than acceptable rate, resulting
-  in false claims to Medicare and Medicaid. The settlement further resolves allegations
-  that the company paid unlawful remuneration to a physician to induce him to use
-  the knee implants. Additionally, Aesculap agreed to a non-prosecution agreement
-  with the United States in connection with its distribution of two medical devices
-  without the required clearance from the U.S. Food and Drug Administration (FDA).
-original_markdown_body: Medical device company Aesculap Implant Systems LLC (Aesculap),
-  based in Center Valley, Pennsylvania, has agreed to pay $38.5 million to resolve
-  allegations under the False Claims Act that the company sold knee replacement devices
-  that it knew would fail prematurely at a higher than acceptable rate, resulting
-  in false claims to Medicare and Medicaid. The settlement further resolves allegations
-  that the company paid unlawful remuneration to a physician to induce him to use
-  the knee implants. Additionally, Aesculap agreed to a non-prosecution agreement
-  with the United States in connection with its distribution of two medical devices
-  without the required clearance from the U.S. Food and Drug Administration (FDA).
 published: false
 source: Department of Justice
 source_url: https://www.justice.gov/opa/pr/aesculap-implant-systems-agrees-pay-385m-resolve-false-claims-act-allegations-related-knee

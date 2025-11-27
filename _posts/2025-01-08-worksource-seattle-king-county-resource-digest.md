@@ -1,13 +1,6 @@
 ---
 date: '2025-01-08T10:00:00+00:00'
 images: []
-original_content: |-
-  <p>Bi-Weekly Resource Digest</p>
-  <p>The post <a href="https://worksourceskc.org/worksource-seattle-king-county-resource-digest/">Worksource Seattle-King County Resource Digest</a> appeared first on <a href="https://worksourceskc.org">WorkSource Seattle-King County</a>.</p>
-original_markdown_body: |-
-  Bi-Weekly Resource Digest
-
-  The post [Worksource Seattle-King County Resource Digest](https://worksourceskc.org/worksource-seattle-king-county-resource-digest/) appeared first on [WorkSource Seattle-King County](https://worksourceskc.org).
 source: WorkSource Seattle-King County
 source_url: https://worksourceskc.org/worksource-seattle-king-county-resource-digest/?utm_source=rss&utm_medium=rss&utm_campaign=worksource-seattle-king-county-resource-digest
 summarized: true

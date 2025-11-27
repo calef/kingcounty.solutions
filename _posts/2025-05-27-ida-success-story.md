@@ -1,10 +1,6 @@
 ---
 date: '2025-05-27T16:47:44+00:00'
 images: []
-original_content: Sayed and his family of 7 came to the US when the Taliban took over
-  in Afghanistan in 2019. When he first arrived, there were many things...
-original_markdown_body: Sayed and his family of 7 came to the US when the Taliban
-  took over in Afghanistan in 2019. When he first arrived, there were many things...
 source: Diocese of Olympia Refugee Resettlement Office
 source_url: https://www.dioceserroseattle.org/post/ida-success-story
 summarized: true

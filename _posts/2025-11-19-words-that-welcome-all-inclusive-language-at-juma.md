@@ -1,13 +1,6 @@
 ---
 date: '2025-11-19T18:36:49+00:00'
 images: []
-original_content: |-
-  <p>We strive to make inclusivity a pillar of the Juma culture. Providing safe, inclusive, and affirming work environments for both Juma youth and our staff is a core component of [&#8230;]</p>
-  <p>The post <a href="https://www.juma.org/2025/11/19/words-that-welcome-all-inclusive-language-at-juma/">Words That Welcome All: Inclusive Language at Juma</a> appeared first on <a href="https://www.juma.org">Juma</a>.</p>
-original_markdown_body: |-
-  We strive to make inclusivity a pillar of the Juma culture. Providing safe, inclusive, and affirming work environments for both Juma youth and our staff is a core component of […]
-
-  The post [Words That Welcome All: Inclusive Language at Juma](https://www.juma.org/2025/11/19/words-that-welcome-all-inclusive-language-at-juma/) appeared first on [Juma](https://www.juma.org).
 source: Juma Ventures
 source_url: https://www.juma.org/2025/11/19/words-that-welcome-all-inclusive-language-at-juma/
 summarized: true

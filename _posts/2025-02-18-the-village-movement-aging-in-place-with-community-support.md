@@ -1,10 +1,6 @@
 ---
 date: '2025-02-18T20:03:55+00:00'
 images: []
-original_content: Aging in place—the ability to remain in one's home and community
-  as we grow older—is a goal for many older adults. However, challenges...
-original_markdown_body: Aging in place—the ability to remain in one's home and community
-  as we grow older—is a goal for many older adults. However, challenges...
 source: Eastside Friends of Seniors
 source_url: https://www.eastsidefriendsofseniors.org/post/the-village-movement-aging-in-place-with-community-support
 summarized: true

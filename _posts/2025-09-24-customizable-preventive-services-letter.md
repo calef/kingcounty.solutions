@@ -1,17 +1,6 @@
 ---
 date: '2025-09-24T11:07:59-04:00'
 images: []
-original_content: "<p>artifact_description: General Resources</p><p>date: Wed, 24
-  Sep 2025 09:08:18 -0400</p><p>title: Customizable Preventive Services Letter</p><p>topic:
-  Coverage 2 Care</p>"
-original_markdown_body: |-
-  artifact\_description: General Resources
-
-  date: Wed, 24 Sep 2025 09:08:18 -0400
-
-  title: Customizable Preventive Services Letter
-
-  topic: Coverage 2 Care
 published: false
 source: Centers for Medicare & Medicaid Services
 source_url: https://www.cms.gov//marketplace/agents-brokers/general-resources/customizable-preventive-services-letter

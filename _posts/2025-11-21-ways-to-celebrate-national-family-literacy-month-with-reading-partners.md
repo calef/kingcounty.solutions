@@ -1,12 +1,6 @@
 ---
 date: '2025-11-21T21:30:18+00:00'
 images: []
-original_content: <p>The post <a href="https://readingpartners.org/blog/national-family-literacy-month/">Ways
-  to celebrate National Family Literacy Month with Reading Partners</a> appeared first
-  on <a href="https://readingpartners.org">Reading Partners</a>.</p>
-original_markdown_body: The post [Ways to celebrate National Family Literacy Month
-  with Reading Partners](https://readingpartners.org/blog/national-family-literacy-month/)
-  appeared first on [Reading Partners](https://readingpartners.org).
 source: Reading Partners Seattle
 source_url: https://readingpartners.org/blog/national-family-literacy-month/
 summarized: true

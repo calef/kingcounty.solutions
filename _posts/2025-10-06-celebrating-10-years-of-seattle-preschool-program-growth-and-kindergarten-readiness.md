@@ -1,25 +1,6 @@
 ---
 date: '2025-10-06T21:53:16+00:00'
 images: []
-original_content: '<img width="150" height="150" src="https://education.seattle.gov/wp-content/uploads/sites/27/2025/10/image-2-150x150.jpeg"
-  class="webfeedsFeaturedVisual wp-post-image" alt="his school year, the Seattle Preschool
-  Program (SPP) is celebrating its 10th anniversary, marking a decade of providing
-  early childhood education and preparing 11,421 of Seattle’s 3- and 4-year-olds for
-  kindergarten." style="display: block; margin-bottom: 5px; clear:both;max-width:
-  100%;" link_thumbnail="" decoding="async" loading="lazy" />SPP meets FEPP Levy expansion
-  target of 2,500 with 90% enrollment rate&#160; This school year, the Seattle Preschool
-  Program (SPP) is celebrating its 10th anniversary, marking a decade of providing
-  early childhood education and preparing 11,421 of Seattle’s 3- and 4-year-olds for
-  kindergarten.   Following voter support for the 2014 Seattle Preschool Levy, SPP
-  launched in [&#8230;]'
-original_markdown_body: "![his school year, the Seattle Preschool Program (SPP) is
-  celebrating its 10th anniversary, marking a decade of providing early childhood
-  education and preparing 11,421 of Seattle’s 3- and 4-year-olds for kindergarten.](https://education.seattle.gov/wp-content/uploads/sites/27/2025/10/image-2-150x150.jpeg)SPP
-  meets FEPP Levy expansion target of 2,500 with 90% enrollment rate&nbsp; This school
-  year, the Seattle Preschool Program (SPP) is celebrating its 10th anniversary, marking
-  a decade of providing early childhood education and preparing 11,421 of Seattle’s
-  3- and 4-year-olds for kindergarten.&nbsp;&nbsp; Following voter support for the
-  2014 Seattle Preschool Levy, SPP launched in […]"
 source: Department of Education and Early Learning
 source_url: https://education.seattle.gov/?p=1440
 summarized: true
