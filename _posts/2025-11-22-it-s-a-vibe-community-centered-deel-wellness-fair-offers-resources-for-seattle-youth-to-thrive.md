@@ -15,8 +15,9 @@ summarized: true
 title: 'It’s a Vibe: Community-Centered DEEL Wellness Fair Offers Resources for Seattle
   Youth to Thrive  '
 topics:
-- Mental Health & Counseling
 - Education & Learning
+- Mental Health & Counseling
+- Food & Nutrition
 ---
 
-On October 25, the Department of Education and Early Learning (DEEL) hosted the “Thrive & Vibe: A Youth Health and Wellness Celebration” at El Centro de la Raza’s Centilia Cultural Center in Beacon Hill, focusing on youth access to free mental wellness resources. The event featured youth performances, a resource fair, wellness workshops, and a keynote from Ray Roberts, a former Seattle Seahawks linebacker and mental health advocate. Participants engaged in various activities including fitness sessions led by Shontia Whitehead, mindfulness and yoga with Tai Mattox, and guided painting with Stephanie Morales, promoting self-care and community building. The resource fair included organizations like Celebrating Roots, NAMI Seattle, and Talkspace, providing information on mental health support for youth aged 13 to 24. Roberts emphasized the importance of seeking help, sharing his personal journey to mental wellness and encouraging youth to reach out for support. Attendees received wellness swag giveaways, including items from the Seahawks, and enjoyed a positive environment aimed at fostering confidence and collective wellness among Seattle's youth.
+Seattle's Department of Education and Early Learning (DEEL) hosted a Wellness Fair to provide essential resources for youth in the community. The event, held at Rainier Beach High School, aimed to connect young people with services that promote mental health, wellness, and overall development. Various organizations participated, offering workshops, activities, and information on topics such as nutrition, fitness, and emotional support. Participants could access resources tailored to their needs, including counseling services and health screenings. The fair also featured interactive sessions designed to engage youth and promote healthy lifestyles. DEEL emphasized the importance of supporting young people in navigating challenges and building resilience. The event showcased a collaborative effort to foster a supportive environment for Seattle's youth, ensuring they have the tools and resources necessary to thrive in their personal and educational journeys.
