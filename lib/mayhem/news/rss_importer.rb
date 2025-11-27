@@ -9,11 +9,13 @@ require 'openssl'
 require 'reverse_markdown'
 require 'rss'
 require 'time'
+require 'uri'
 require_relative '../logging'
 require_relative '../support/front_matter_document'
 require_relative '../support/feed_checksum_store'
 require_relative '../support/slug_generator'
 require_relative '../support/http_client'
+require_relative '../support/url_normalizer'
 require_relative '../feed_discovery'
 
 module Mayhem
@@ -119,7 +121,7 @@ module Mayhem
 
         feed = RSS::Parser.parse(rss_content, false)
         feed.items.each do |item|
-          process_item(item, source_title, stats)
+          process_item(item, source_title, stats, frontmatter)
         end
 
         @checksum_store[rss_url] = checksum
@@ -132,9 +134,10 @@ module Mayhem
         @logger.error "Failed to parse RSS feed for source '#{source_title}' (#{rss_url}): #{e.message}"
       end
 
-      def process_item(item, source_title, stats)
+      def process_item(item, source_title, stats, source_frontmatter)
         link_url = item_link_url(item)
-        if link_url.to_s.strip.empty?
+        normalized = Mayhem::Support::UrlNormalizer.normalize(link_url, base: source_frontmatter && source_frontmatter['website'])
+        if normalized.to_s.strip.empty?
           stats[:missing_link] += 1
           return
         end
@@ -157,18 +160,18 @@ module Mayhem
         end
 
         original_html = item_content_html(item).to_s.strip
-        original_html = fetch_article_body_html(item.link).to_s.strip if original_html.empty? && item.link
+        original_html = fetch_article_body_html(normalized).to_s.strip if original_html.empty? && normalized
         if original_html.empty?
           stats[:empty_content] += 1
           return
         end
 
-        if duplicate_post?(link_url)
+        if duplicate_post?(normalized)
           stats[:duplicates] += 1
           return
         end
 
-        write_post(source_title, title_text, link_url, published_time, original_html)
+        write_post(source_title, title_text, normalized, published_time, original_html)
         stats[:created] += 1
       end
 
@@ -296,6 +299,8 @@ module Mayhem
         @logger.warn "Failed to read link for #{item.respond_to?(:title) ? item.title : 'unknown item'}: #{e.message}"
         nil
       end
+
+      
 
       def feed_summary_line(source_title, rss_url, stats)
         labels = {
