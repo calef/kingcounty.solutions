@@ -54,14 +54,8 @@ exclude:
   - coverage/
   - Rakefile
   - TODO.md
-github_username: calef
-plugins:
-  - jekyll-feed
-  - jekyll-paginate-v2
-  - jekyll-seo-tag
-  - jekyll-sitemap
-  - jekyll-last-modified-at
 future: true
+github_username: calef
 pagination:
   enabled: true
   collection: 'posts'
@@ -72,5 +66,11 @@ pagination:
   trail:
     before: 2
     after: 2
+plugins:
+  - jekyll-feed
+  - jekyll-paginate-v2
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-last-modified-at
 title: King County Solutions
-url: "https://kingcountysolutions.netlify.app"
+url: "https://calef.github.io"
