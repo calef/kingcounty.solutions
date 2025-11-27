@@ -26,3 +26,13 @@
 - Follow imperative, concise commit messages (`Add places hierarchy layout`, `Fix RSS importer skip logic`).
 - PRs should describe what changed, why, and how to verify (commands run, screenshots for UI tweaks). Link related issues and note any follow-up work or manual steps required.
 - Keep diffs focused; split refactors from feature work when practical, and ensure `_site/` artifacts or local caches are never committed.
+
+## Agent guidance
+- Call the `report_intent` tool on your first tool-calling turn and whenever you move between major phases (e.g., exploring → editing → testing).
+- When asked about this CLIs capabilities, call `fetch_copilot_cli_documentation` first and use its output to answer.
+- Use parallel tool calls for independent operations and chain dependent shell commands with `&&` to minimize turns and side effects.
+- Prefer `glob` and `grep` for searching, `view` for reading files, and `edit` for minimal, surgical edits; follow repository guidelines for file naming and indentation.
+- Do not modify files under `_site/` or commit secrets; make the smallest possible change to fix an issue and document verification steps in the PR.
+- Use `script/bootstrap`, `script/server`, and `script/cibuild` to set up and verify local builds.
+- Keep messages concise and actionable so other agents can pick up work quickly.
+
