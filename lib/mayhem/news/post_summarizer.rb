@@ -6,6 +6,8 @@ require 'open-uri'
 require 'ruby/openai'
 require_relative '../logging'
 require_relative '../support/front_matter_document'
+require_relative '../support/http_client'
+require_relative '../feed_discovery'
 
 module Mayhem
   module News
@@ -20,12 +22,14 @@ module Mayhem
         posts_dir: POSTS_DIR,
         topic_dir: TOPIC_DIR,
         client: nil,
+        http_client: nil,
         logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL')
       )
         @posts_dir = posts_dir
         @topic_dir = topic_dir
         @logger = logger
         @client = client || OpenAI::Client.new(access_token: ENV.fetch('OPENAI_API_KEY'))
+        @http = http_client || Mayhem::Support::HttpClient.new(logger: @logger)
       end
 
       def run
@@ -228,8 +232,8 @@ module Mayhem
       def fetch_article_text(url)
         return nil unless url
 
-        html = URI.open(url, open_timeout: 10, read_timeout: 15).read
-        doc = Nokogiri::HTML(html)
+        page = @http.fetch(url, accept: Mayhem::FeedDiscovery::ACCEPT_HTML, max_bytes: MAX_ARTICLE_CHARS)
+        doc = Nokogiri::HTML(page[:body])
         doc.search('script, style, nav, header, footer, noscript, iframe').remove
         doc.css('article, main, body').text.strip.gsub(/\s+/, ' ')
       rescue StandardError => e

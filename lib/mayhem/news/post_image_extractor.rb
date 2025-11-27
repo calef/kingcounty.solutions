@@ -7,6 +7,8 @@ require 'open-uri'
 require 'uri'
 require_relative '../logging'
 require_relative '../support/front_matter_document'
+require_relative '../support/http_client'
+require_relative '../feed_discovery'
 
 module Mayhem
   module News
@@ -39,7 +41,8 @@ module Mayhem
         asset_dir: IMAGE_ASSET_DIR,
         logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'),
         open_timeout: DEFAULT_OPEN_TIMEOUT,
-        read_timeout: DEFAULT_READ_TIMEOUT
+        read_timeout: DEFAULT_READ_TIMEOUT,
+        http_client: nil
       )
         @posts_dir = posts_dir
         @image_docs_dir = image_docs_dir
@@ -49,6 +52,7 @@ module Mayhem
         @read_timeout = read_timeout
         FileUtils.mkdir_p(@image_docs_dir)
         FileUtils.mkdir_p(@asset_dir)
+        @http = http_client || Mayhem::Support::HttpClient.new(timeout: @read_timeout, logger: @logger)
       end
 
       def run
@@ -168,10 +172,9 @@ module Mayhem
         uri = URI.parse(url)
         return nil unless %w[http https].include?(uri.scheme) && uri.host
 
-        URI.open(uri, open_timeout: @open_timeout, read_timeout: @read_timeout) do |io|
-          data = io.read
-          { data:, ext: image_extension(uri, io.content_type) }
-        end
+        page = @http.fetch(uri.to_s, accept: Mayhem::FeedDiscovery::ACCEPT_FEED, max_bytes: 2_097_152)
+        data = page[:body]
+        { data:, ext: image_extension(uri, nil) }
       rescue StandardError => e
         logger.warn "Failed to download #{url}: #{e.message}"
         nil

@@ -10,6 +10,8 @@ require_relative '../logging'
 require_relative '../support/front_matter_document'
 require_relative '../feed_discovery'
 require_relative '../support/slug_generator'
+require_relative '../support/http_client'
+require_relative '../support/url_utils'
 
 module Mayhem
   module Organizations
@@ -29,6 +31,7 @@ module Mayhem
         place_dir: PLACE_DIR,
         client: nil,
         feed_finder: nil,
+        http_client: nil,
         logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL')
       )
         @org_dir = org_dir
@@ -36,6 +39,7 @@ module Mayhem
         @place_dir = place_dir
         @logger = logger
         @client = client || OpenAI::Client.new(access_token: ENV.fetch('OPENAI_API_KEY'))
+        @http = http_client || Mayhem::Support::HttpClient.new(timeout: READ_TIMEOUT, logger: @logger)
         @feed_finder = feed_finder || default_feed_finder
       end
 
@@ -131,8 +135,8 @@ module Mayhem
       end
 
       def fetch_page(url)
-        html = URI.open(url, open_timeout: READ_TIMEOUT, read_timeout: READ_TIMEOUT).read
-        Nokogiri::HTML(html)
+        page = @http.fetch(url, accept: FeedDiscovery::ACCEPT_HTML, max_bytes: FeedDiscovery::HTML_MAX_BYTES)
+        Nokogiri::HTML(page[:body])
       rescue StandardError => e
         @logger.warn "Skipping #{url}: #{e.class} #{e.message}"
         nil
@@ -301,8 +305,7 @@ module Mayhem
       end
 
       def default_feed_finder
-        http_client = Mayhem::FeedDiscovery::HttpClient.new(logger: @logger)
-        Mayhem::FeedDiscovery::FeedFinder.new(http_client, logger: @logger)
+        Mayhem::FeedDiscovery::FeedFinder.new(@http, logger: @logger)
       end
 
       def discover_feed_urls(website_url)
@@ -315,9 +318,7 @@ module Mayhem
       end
 
       def absolutize(base, href)
-        URI.join(base, href).to_s
-      rescue StandardError
-        nil
+        Mayhem::Support::UrlUtils.absolutize(base, href)
       end
 
       def body_from_data(data)

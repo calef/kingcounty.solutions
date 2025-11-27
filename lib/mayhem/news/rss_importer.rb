@@ -13,6 +13,8 @@ require_relative '../logging'
 require_relative '../support/front_matter_document'
 require_relative '../support/feed_checksum_store'
 require_relative '../support/slug_generator'
+require_relative '../support/http_client'
+require_relative '../feed_discovery'
 
 module Mayhem
   module News
@@ -57,7 +59,8 @@ module Mayhem
         logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'),
         workers: DEFAULT_MAX_WORKERS,
         open_timeout: DEFAULT_OPEN_TIMEOUT,
-        read_timeout: DEFAULT_READ_TIMEOUT
+        read_timeout: DEFAULT_READ_TIMEOUT,
+        http_client: nil
       )
         @news_dir = news_dir
         @sources_dir = sources_dir
@@ -74,6 +77,7 @@ module Mayhem
         @existing_posts = build_existing_post_index
         @existing_lock = Mutex.new
         FileUtils.mkdir_p(@news_dir)
+        @http = http_client || Mayhem::Support::HttpClient.new(timeout: @read_timeout, logger: @logger)
       end
 
       def run
@@ -105,7 +109,8 @@ module Mayhem
         return unless rss_url
 
         stats = Hash.new(0)
-        rss_content = URI.open(rss_url, open_timeout: @open_timeout, read_timeout: @read_timeout, &:read)
+        page = @http.fetch(rss_url, accept: Mayhem::FeedDiscovery::ACCEPT_FEED, max_bytes: Mayhem::FeedDiscovery::FEED_MAX_BYTES)
+        rss_content = page[:body]
         checksum = Digest::SHA256.hexdigest(rss_content)
         if @checksum_store[rss_url] == checksum
           @logger.debug "Skipping #{source_title} (feed unchanged)"
@@ -230,8 +235,8 @@ module Mayhem
       end
 
       def fetch_article_body_html(url)
-        html = URI.open(url, open_timeout: @open_timeout, read_timeout: @read_timeout).read
-        doc = Nokogiri::HTML(html)
+        page = @http.fetch(url, accept: Mayhem::FeedDiscovery::ACCEPT_HTML, max_bytes: Mayhem::FeedDiscovery::HTML_MAX_BYTES)
+        doc = Nokogiri::HTML(page[:body])
         ARTICLE_BODY_SELECTORS.each do |selector|
           node = doc.at_css(selector)
           next unless node

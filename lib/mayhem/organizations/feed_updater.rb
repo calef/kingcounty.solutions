@@ -241,7 +241,7 @@ module Mayhem
       end
 
       def initialize(
-        http_client: Mayhem::FeedDiscovery::HttpClient.new,
+        http_client: Mayhem::Support::HttpClient.new,
         feed_finder: nil,
         logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL')
       )
