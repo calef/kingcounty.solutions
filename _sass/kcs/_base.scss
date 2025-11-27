@@ -41,7 +41,9 @@ p, blockquote, pre,
 ul, ol, dl, figure {
   @extend %vertical-rhythm;
 }
-
+p {
+  padding-bottom: 0.5rem;
+}
 
 
 /**
