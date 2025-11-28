@@ -11,6 +11,8 @@ SimpleCov.start do
   add_filter '/_site/'
 end
 
+# reduce noisy logs during tests
+ENV['LOG_LEVEL'] ||= 'ERROR'
 require 'bundler/setup'
 require 'minitest/autorun'
 
