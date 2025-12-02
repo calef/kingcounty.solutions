@@ -113,10 +113,6 @@ module Mayhem
 
         front_matter['published'] = false if needs_topics && Array(front_matter['topics']).empty?
 
-        # remove original_content and original_markdown_body when writing updated files
-        front_matter.delete('original_content')
-        front_matter.delete('original_markdown_body')
-
         document.front_matter = front_matter
         document.body = summary_text
         document.save
