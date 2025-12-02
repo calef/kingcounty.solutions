@@ -1,6 +1,10 @@
 ---
 date: '2025-05-22T16:52:21+00:00'
 images: []
+original_content: Kim Donovan lives with MS. For her, affordable housing in Seattle
+  wasn’t just shelter. It restored her independence, dignity, and community.
+original_markdown_body: Kim Donovan lives with MS. For her, affordable housing in
+  Seattle wasn’t just shelter. It restored her independence, dignity, and community.
 source: Bellwether Housing
 source_url: https://www.bellwetherhousing.org/post/kim-donovan
 summarized: true

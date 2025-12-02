@@ -1,6 +1,12 @@
 ---
 date: '2025-10-04T01:05:58+00:00'
 images: []
+original_content: Sue Thacker is Federal Way Mirror&#8217;s Hometown Hero for September
+  2025, for using her expertise as a former production manager to revolutionize the
+  Federal Way Senior Center food bank. Her [&#8230;]
+original_markdown_body: Sue Thacker is Federal Way Mirror’s Hometown Hero for September
+  2025, for using her expertise as a former production manager to revolutionize the
+  Federal Way Senior Center food bank. Her […]
 source: Federal Way Senior Center
 source_url: https://federalwayseniorcenter.org/sue-thacker-is-the-mirrors-hometown-hero-for-september/?utm_source=rss&utm_medium=rss&utm_campaign=sue-thacker-is-the-mirrors-hometown-hero-for-september
 summarized: true

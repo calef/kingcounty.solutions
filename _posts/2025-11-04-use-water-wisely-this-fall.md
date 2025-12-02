@@ -1,6 +1,22 @@
 ---
 date: '2025-11-04T18:25:21+00:00'
 images: []
+original_content: '<a href="https://atyourservice.seattle.gov/2025/11/04/use-water-wisely-this-fall/"
+  title="Use Water Wisely This Fall" rel="nofollow"><img width="150" height="150"
+  src="https://atyourservice.seattle.gov/wp-content/uploads/sites/15/2025/11/SWP-Web-Promos-1_Father-and-Daughter-at-Sink-150x150.png"
+  class="webfeedsFeaturedVisual wp-post-image" alt="A father and daughter wash dishes
+  at a kitchen sink." style="display: block; margin-bottom: 5px; clear:both;max-width:
+  100%;" link_thumbnail="1" decoding="async" loading="lazy" /></a>Over the past few
+  months, we’ve shared updates about the effect this summer’s dry weather has on our
+  water supply. As rain returns to our region, our outlook remains optimistic. Recently,
+  we’ve had significant rainfall in the mountain reservoirs that collect and store
+  our drinking water (thanks, atmospheric river!). After a dry summer, we are [&#8230;]'
+original_markdown_body: '[![A father and daughter wash dishes at a kitchen sink.](https://atyourservice.seattle.gov/wp-content/uploads/sites/15/2025/11/SWP-Web-Promos-1_Father-and-Daughter-at-Sink-150x150.png)](https://atyourservice.seattle.gov/2025/11/04/use-water-wisely-this-fall/
+  "Use Water Wisely This Fall")Over the past few months, we’ve shared updates about
+  the effect this summer’s dry weather has on our water supply. As rain returns to
+  our region, our outlook remains optimistic. Recently, we’ve had significant rainfall
+  in the mountain reservoirs that collect and store our drinking water (thanks, atmospheric
+  river!). After a dry summer, we are […]'
 published: false
 source: Seattle Public Utilities
 source_url: https://atyourservice.seattle.gov/2025/11/04/use-water-wisely-this-fall/

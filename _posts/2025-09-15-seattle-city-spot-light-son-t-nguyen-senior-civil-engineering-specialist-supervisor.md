@@ -1,6 +1,24 @@
 ---
 date: '2025-09-15T16:00:00+00:00'
 images: []
+original_content: '<img width="150" height="150" src="https://powerlines.seattle.gov/wp-content/uploads/sites/17/2025/09/nguyen_spotlight-150x150.png"
+  class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom:
+  5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy"
+  srcset="https://powerlines.seattle.gov/wp-content/uploads/sites/17/2025/09/nguyen_spotlight-150x150.png
+  150w, https://powerlines.seattle.gov/wp-content/uploads/sites/17/2025/09/nguyen_spotlight-690x690.png
+  690w, https://powerlines.seattle.gov/wp-content/uploads/sites/17/2025/09/nguyen_spotlight-450x450.png
+  450w, https://powerlines.seattle.gov/wp-content/uploads/sites/17/2025/09/nguyen_spotlight-115x115.png
+  115w, https://powerlines.seattle.gov/wp-content/uploads/sites/17/2025/09/nguyen_spotlight.png
+  900w" sizes="auto, (max-width: 150px) 100vw, 150px" />The Basics How long have you
+  been at City Light? 22 years Division:&#160;Engineering and Technology Operations
+  Tell us about your role. For the last 22 years, it has been a great pleasure to
+  work and grow in the Technical Resources Unit. In my current role, I manage a talented
+  and skilled team of Computer-Aided Design [&#8230;]'
+original_markdown_body: "![](https://powerlines.seattle.gov/wp-content/uploads/sites/17/2025/09/nguyen_spotlight-150x150.png)The
+  Basics How long have you been at City Light? 22 years Division:&nbsp;Engineering
+  and Technology Operations Tell us about your role. For the last 22 years, it has
+  been a great pleasure to work and grow in the Technical Resources Unit. In my current
+  role, I manage a talented and skilled team of Computer-Aided Design […]"
 published: false
 source: City Light Bill Assistance Programs
 source_url: https://powerlines.seattle.gov/2025/09/15/seattle-city-spotlight-son-t-nguyen-senior-civil-engineering-specialist-supervisor/

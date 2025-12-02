@@ -1,6 +1,10 @@
 ---
 date: '2025-07-03T16:53:34+00:00'
 images: []
+original_content: Building a Life at Kingway Eddie and Vanessa have called Kingway
+  Apartments home for nearly 30 years. Their experience highlights the...
+original_markdown_body: Building a Life at Kingway Eddie and Vanessa have called Kingway
+  Apartments home for nearly 30 years. Their experience highlights the...
 source: Bellwether Housing
 source_url: https://www.bellwetherhousing.org/post/finding-home-at-kingway-eddie-vanessa-s-journey-with-affordable-housing-in-seattle
 summarized: true

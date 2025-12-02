@@ -1,6 +1,16 @@
 ---
 date: '2025-10-07T20:58:14+00:00'
 images: []
+original_content: The West Seattle Water Taxi is preparing to transition into the
+  fall/winter sailing schedule, after seeing the largest number of passengers riding
+  between downtown Seattle and West Seattle’s Seacrest Park in over six years. “It
+  was great to see people taking advantage of the extended weekend service as well
+  as the special sailings throughout the&#8230;
+original_markdown_body: The West Seattle Water Taxi is preparing to transition into
+  the fall/winter sailing schedule, after seeing the largest number of passengers
+  riding between downtown Seattle and West Seattle’s Seacrest Park in over six years.
+  “It was great to see people taking advantage of the extended weekend service as
+  well as the special sailings throughout the…
 published: false
 source: King County Ferry District
 source_url: https://kingcountywatertaxiblog.com/2025/10/07/west-seattle-water-taxi-sails-into-fall-after-busy-summer/

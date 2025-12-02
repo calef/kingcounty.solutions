@@ -1,6 +1,10 @@
 ---
 date: '2025-06-25T18:12:38+00:00'
 images: []
+original_content: Friends of Youth is proud to announce the launch of Bridge Pointe
+  Housing, a 90-day transitional housing initiative created to support...
+original_markdown_body: Friends of Youth is proud to announce the launch of Bridge
+  Pointe Housing, a 90-day transitional housing initiative created to support...
 source: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/bridge-pointe-housing-a-new-chapter-for-young-adults-transitioning-from-impatient-care
 summarized: true

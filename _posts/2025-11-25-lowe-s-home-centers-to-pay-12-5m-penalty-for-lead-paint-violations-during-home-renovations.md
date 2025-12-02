@@ -1,6 +1,22 @@
 ---
 date: '2025-11-25T12:00:00+00:00'
 images: []
+original_content: The Justice Department and the Environmental Protection Agency (EPA)
+  announced a proposed nationwide settlement with Lowe’s Home Centers LLC — a subsidiary
+  of Lowe’s Companies Inc. — to resolve alleged violations of EPA’s Lead Renovation,
+  Repair and Painting rule. The violations stem from renovation work performed by
+  Lowe’s contractors at hundreds of homes across the country, primarily between 2019
+  and 2021. As part of the settlement, Lowe’s will pay a $12.5 million penalty and
+  improve its compliance program for renovations in homes that may contain lead-based
+  paint.
+original_markdown_body: The Justice Department and the Environmental Protection Agency
+  (EPA) announced a proposed nationwide settlement with Lowe’s Home Centers LLC —
+  a subsidiary of Lowe’s Companies Inc. — to resolve alleged violations of EPA’s Lead
+  Renovation, Repair and Painting rule. The violations stem from renovation work performed
+  by Lowe’s contractors at hundreds of homes across the country, primarily between
+  2019 and 2021. As part of the settlement, Lowe’s will pay a $12.5 million penalty
+  and improve its compliance program for renovations in homes that may contain lead-based
+  paint.
 source: Department of Justice
 source_url: https://www.justice.gov/opa/pr/lowes-home-centers-pay-125m-penalty-lead-paint-violations-during-home-renovations
 summarized: true

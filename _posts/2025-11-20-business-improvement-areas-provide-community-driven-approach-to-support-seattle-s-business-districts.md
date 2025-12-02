@@ -1,6 +1,14 @@
 ---
 date: '2025-11-20T17:57:12+00:00'
 images: []
+original_content: 'Many things contribute to the unique character or a neighborhood:
+  the local shops and restaurants, annual events, and the special landmarks. In many
+  Seattle neighborhoods, Business Improvement Areas are often the on-the-ground support
+  maintaining those...'
+original_markdown_body: 'Many things contribute to the unique character or a neighborhood:
+  the local shops and restaurants, annual events, and the special landmarks. In many
+  Seattle neighborhoods, Business Improvement Areas are often the on-the-ground support
+  maintaining those...'
 source: City of Seattle
 source_url: https://bottomline.seattle.gov/2025/11/20/business-improvement-areas-provide-community-driven-approach-to-support-seattles-business-districts/
 summarized: true

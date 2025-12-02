@@ -1,6 +1,14 @@
 ---
 date: '2025-11-12T20:21:57+00:00'
 images: []
+original_content: Paying your utility bill just got easier.&#160;&#160; Seattle Public
+  Utilities (SPU) offers PromisePay, a long-term payment plan that lets you catch
+  up on past-due balances and stay current, with no fees, no interest, and no late
+  fees. PromisePay gives...
+original_markdown_body: Paying your utility bill just got easier.&nbsp;&nbsp; Seattle
+  Public Utilities (SPU) offers PromisePay, a long-term payment plan that lets you
+  catch up on past-due balances and stay current, with no fees, no interest, and no
+  late fees. PromisePay gives...
 source: City of Seattle
 source_url: https://atyourservice.seattle.gov/2025/11/12/flexible-payment-plans-with-promisepay/
 summarized: true

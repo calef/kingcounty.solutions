@@ -1,6 +1,14 @@
 ---
 date: '2025-11-17T04:08:13-08:00'
 images: []
+original_content: OYLMPIA – The road to Grandma’s house is about to get a lot busier.
+  That is why the Washington State Department of Transportation recommends planning
+  ahead for heavy traffic, delays and potential winter weather this Thanksgiving –
+  wherever pumpkin pies and stuffing may lead you.
+original_markdown_body: OYLMPIA – The road to Grandma’s house is about to get a lot
+  busier. That is why the Washington State Department of Transportation recommends
+  planning ahead for heavy traffic, delays and potential winter weather this Thanksgiving
+  – wherever pumpkin pies and stuffing may lead you.
 published: false
 source: Washington State Department of Transportation
 source_url: https://wsdot.wa.gov/about/news/2025/dont-let-thanksgiving-travel-gobble-you

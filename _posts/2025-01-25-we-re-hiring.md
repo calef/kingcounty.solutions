@@ -1,6 +1,13 @@
 ---
 date: '2025-01-25T00:24:56+00:00'
 images: []
+original_content: |-
+  <p>Medical Assistant? Dental Assistant? Maybe Environmental Services Assistant? If any of these roles catch your eye, we’re looking for YOU to join our team! Our relatives deserve the best, and that&#8217;s why we&#8217;re turning to you. We want to hear from you, especially if you have experience in one of these impactful roles: Medical Assistant &#8230; <a href="https://www.sihb.org/2025/01/were-hiring/" class="more-link">Continue reading <span class="screen-reader-text">We&#8217;re Hiring!</span></a></p>
+  <p>The post <a href="https://www.sihb.org/2025/01/were-hiring/">We&#8217;re Hiring!</a> appeared first on <a href="https://www.sihb.org">Seattle Indian Health Board</a>.</p>
+original_markdown_body: |-
+  Medical Assistant? Dental Assistant? Maybe Environmental Services Assistant? If any of these roles catch your eye, we’re looking for YOU to join our team! Our relatives deserve the best, and that’s why we’re turning to you. We want to hear from you, especially if you have experience in one of these impactful roles: Medical Assistant … [Continue reading We’re Hiring!](https://www.sihb.org/2025/01/were-hiring/)
+
+  The post [We’re Hiring!](https://www.sihb.org/2025/01/were-hiring/) appeared first on [Seattle Indian Health Board](https://www.sihb.org).
 source: Seattle Indian Health Board
 source_url: https://www.sihb.org/2025/01/were-hiring/
 summarized: true

@@ -1,6 +1,14 @@
 ---
 date: '2025-11-21T22:27:03+00:00'
 images: []
+original_content: We are thrilled to announce the launch of Eproval, a new online
+  Special Events permitting software that makes it easier to get a special events
+  permit. This shift to a software-based application and permitting system modernizes
+  and streamlines all aspe...
+original_markdown_body: We are thrilled to announce the launch of Eproval, a new online
+  Special Events permitting software that makes it easier to get a special events
+  permit. This shift to a software-based application and permitting system modernizes
+  and streamlines all aspe...
 published: false
 source: City of Seattle
 source_url: https://bottomline.seattle.gov/2025/11/21/streamlining-special-events-permitting-introducing-eproval-for-faster-easier-applications/

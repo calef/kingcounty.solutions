@@ -1,6 +1,13 @@
 ---
 date: '2025-04-25T22:46:48+00:00'
 images: []
+original_content: |-
+  <p>Ever wonder what it really takes to open a new affordable housing community? Spoiler: it&#8217;s not all keys and contracts. Take a<span class="excerpt-hellip"> […]</span></p>
+  <p>The post <a href="https://imaginehousing.org/what-it-takes-to-welcome-people-home/">What It Takes to Welcome People Home</a> appeared first on <a href="https://imaginehousing.org">Imagine Housing</a>.</p>
+original_markdown_body: |-
+  Ever wonder what it really takes to open a new affordable housing community? Spoiler: it’s not all keys and contracts. Take a […]
+
+  The post [What It Takes to Welcome People Home](https://imaginehousing.org/what-it-takes-to-welcome-people-home/) appeared first on [Imagine Housing](https://imaginehousing.org).
 source: Imagine Housing
 source_url: https://imaginehousing.org/what-it-takes-to-welcome-people-home/
 summarized: true

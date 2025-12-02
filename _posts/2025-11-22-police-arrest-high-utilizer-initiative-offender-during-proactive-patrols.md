@@ -1,6 +1,14 @@
 ---
 date: '2025-11-22T00:49:46+00:00'
 images: []
+original_content: Seattle police officers arrested a 30-year-old man, and &#8220;High
+  Utilizer Initiative” offender, for openly using Fentanyl in the Chinatown-International
+  District. On Nov. 20 at about 8:50 p.m., officers on foot, patrolling the area of
+  12th Avenue So...
+original_markdown_body: Seattle police officers arrested a 30-year-old man, and “High
+  Utilizer Initiative” offender, for openly using Fentanyl in the Chinatown-International
+  District. On Nov. 20 at about 8:50 p.m., officers on foot, patrolling the area of
+  12th Avenue So...
 published: false
 source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/11/21/police-arrest-high-utilizer-initiative-offender-during-proactive-patrols/

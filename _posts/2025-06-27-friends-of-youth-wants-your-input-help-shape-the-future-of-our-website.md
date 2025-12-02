@@ -1,6 +1,10 @@
 ---
 date: '2025-06-27T17:48:28+00:00'
 images: []
+original_content: We’re working on improving our website, and your voice matters most.
+  As a valued member of our community, your experience helps guide our...
+original_markdown_body: We’re working on improving our website, and your voice matters
+  most. As a valued member of our community, your experience helps guide our...
 published: false
 source: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/friends-of-youth-wants-your-input-help-shape-the-future-of-our-website

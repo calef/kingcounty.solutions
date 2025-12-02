@@ -1,6 +1,32 @@
 ---
 date: '2025-07-07T16:00:20+00:00'
 images: []
+original_content: |-
+  <figure class="wp-block-embed is-type-video is-provider-vimeo wp-block-embed-vimeo wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
+  <iframe loading="lazy" title="A special message from Jennifer Fischer" src="https://player.vimeo.com/video/1099492513?dnt=1&amp;app_id=122963" width="1264" height="711" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"></iframe>
+  </div></figure>
+
+
+
+  <div style="height:91px" aria-hidden="true" class="wp-block-spacer"></div>
+
+
+  <div class="gb-container gb-container-34992b5e">
+
+  <a class="gb-button gb-button-537c0a83 gb-button-text" href="https://www.bellevuelifespring.org/donate/" target="_blank" rel="noopener noreferrer">Support Bellevue Kids</a>
+
+  </div>
+
+
+  <p></p><p>The post <a href="https://www.bellevuelifespring.org/impact/special-message/">A special message from Executive Director Jennifer Fischer</a> first appeared on <a href="https://www.bellevuelifespring.org">Bellevue LifeSpring</a>.</p><p>The post <a href="https://www.bellevuelifespring.org/impact/special-message/">A special message from Executive Director Jennifer Fischer</a> appeared first on <a href="https://www.bellevuelifespring.org">Bellevue LifeSpring</a>.</p>
+original_markdown_body: |-
+  https://player.vimeo.com/video/1099492513?dnt=1&app_id=122963
+
+  [Support Bellevue Kids](https://www.bellevuelifespring.org/donate/)
+
+  The post [A special message from Executive Director Jennifer Fischer](https://www.bellevuelifespring.org/impact/special-message/) first appeared on [Bellevue LifeSpring](https://www.bellevuelifespring.org).
+
+  The post [A special message from Executive Director Jennifer Fischer](https://www.bellevuelifespring.org/impact/special-message/) appeared first on [Bellevue LifeSpring](https://www.bellevuelifespring.org).
 source: Bellevue LifeSpring
 source_url: https://www.bellevuelifespring.org/impact/special-message/?utm_source=rss&utm_medium=rss&utm_campaign=special-message
 summarized: true

@@ -1,6 +1,23 @@
 ---
 date: '2025-10-30T18:49:16+00:00'
 images: []
+original_content: '<img width="150" height="150" src="https://education.seattle.gov/wp-content/uploads/sites/27/2025/10/IMG_8342-150x150.jpg"
+  class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom:
+  5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy"
+  srcset="https://education.seattle.gov/wp-content/uploads/sites/27/2025/10/IMG_8342-150x150.jpg
+  150w, https://education.seattle.gov/wp-content/uploads/sites/27/2025/10/IMG_8342-115x115.jpg
+  115w" sizes="auto, (max-width: 150px) 100vw, 150px" />Since 2018, DEEL has participated
+  in Children’s Funding Project’s voter-approved children’s fund community of practice.
+  The community of practice connects DEEL with a national network of more than 25
+  peer cities and counties who steward local funding to benefit children, youth, and
+  families. Participants share best practices for service delivery, legislative advocacy,
+  grant-making, evaluation, and more.'
+original_markdown_body: "![](https://education.seattle.gov/wp-content/uploads/sites/27/2025/10/IMG_8342-150x150.jpg)Since
+  2018, DEEL has participated in Children’s Funding Project’s voter-approved children’s
+  fund community of practice. The community of practice connects DEEL with a national
+  network of more than 25 peer cities and counties who steward local funding to benefit
+  children, youth, and families. Participants share best practices for service delivery,
+  legislative advocacy, grant-making, evaluation, and more."
 source: Department of Education and Early Learning
 source_url: https://education.seattle.gov/?p=1448
 summarized: true

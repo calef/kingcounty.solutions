@@ -1,6 +1,16 @@
 ---
 date: '2025-11-07T09:37:44-08:00'
 images: []
+original_content: <div><p paraid="896395732" paraeid="{6a4ef9ca-33ba-45e7-81b2-c355978dc849}{87}">If
+  you’re an S Line rider or a regular visitor to Pierce or South King County, you’ve
+  probably noticed a lot of construction activity in recent months around the train
+  tracks in Sumner, Auburn, and Kent.</p><p paraid="896395732" paraeid="{6a4ef9ca-33ba-45e7-81b2-c355978dc849}{87}">That’s
+  because we’re making big investments to make it easier to take Sounder, Sound Transit’s
+  popular regional train service that celebrated its 25th anniversary this fall.</p></div>
+original_markdown_body: |-
+  If you’re an S Line rider or a regular visitor to Pierce or South King County, you’ve probably noticed a lot of construction activity in recent months around the train tracks in Sumner, Auburn, and Kent.
+
+  That’s because we’re making big investments to make it easier to take Sounder, Sound Transit’s popular regional train service that celebrated its 25th anniversary this fall.
 source: Sound Transit
 source_url: https://www.soundtransit.org/blog/platform/construction-update-new-parking-garages-more-sumner-auburn-kent
 summarized: true

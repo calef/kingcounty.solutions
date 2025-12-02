@@ -1,6 +1,10 @@
 ---
 date: '2025-04-30T18:09:25+00:00'
 images: []
+original_content: Affordable Housing Roundtable Event at August Wilson Place! Congresswoman
+  Suzan DelBene, local housing stakeholders, City of Bellevue...
+original_markdown_body: Affordable Housing Roundtable Event at August Wilson Place!
+  Congresswoman Suzan DelBene, local housing stakeholders, City of Bellevue...
 source: Low Income Housing Institute
 source_url: https://www.lihihousing.org/post/rep-delbene-highlights-housing-crisis-and-sponsors-expansion-of-housing-credits-lihtc
 summarized: true

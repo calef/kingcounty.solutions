@@ -1,6 +1,18 @@
 ---
 date: '2025-09-23T22:31:42+00:00'
 images: []
+original_content: The City of Seattle Human Services Department announced today the
+  launch a Request for Proposals (RFP) process that will provide nearly $15 million
+  to advance a connected continuum of prevention, intervention and restoration related
+  to community safety.&#160; Selected providers will offer services to reduce gun
+  violence, stabilize individuals and families, and strengthen neighborhoods. The
+  funding [&#8230;]
+original_markdown_body: The City of Seattle Human Services Department announced today
+  the launch a Request for Proposals (RFP) process that will provide nearly $15 million
+  to advance a connected continuum of prevention, intervention and restoration related
+  to community safety.&nbsp; Selected providers will offer services to reduce gun
+  violence, stabilize individuals and families, and strengthen neighborhoods. The
+  funding […]
 source: Seattle Human Services Department
 source_url: https://humaninterests.seattle.gov/2025/09/23/human-services-issues-rfp-to-invest-in-community-safety/
 summarized: true

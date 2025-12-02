@@ -1,6 +1,10 @@
 ---
 date: '2025-09-29T17:28:42+00:00'
 images: []
+original_content: As summer ends and students prepare for the new school year, we’re
+  reminded that readiness goes beyond just school supplies. Mental and...
+original_markdown_body: As summer ends and students prepare for the new school year,
+  we’re reminded that readiness goes beyond just school supplies. Mental and...
 source: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/support-youth-like-taylor-this-back-to-school-season
 summarized: true

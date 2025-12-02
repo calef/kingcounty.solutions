@@ -2,6 +2,124 @@
 date: '2025-04-14T23:19:31+00:00'
 images:
 - a3c098329c3a8f3eb8ced56eb645707203d6f845c0582397bbf58107bb4fd5e1
+original_content: "<div class=\"et_pb_section et_pb_section_11 blog-post-type et_section_regular\"
+  >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_row
+  et_pb_row_34\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4 et_pb_column_50
+  \ et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div
+  class=\"et_pb_module et_pb_post_title et_pb_post_title_8 et_pb_bg_layout_light  et_pb_text_align_left\"
+  \  >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_title_container\">\n\t\t\t\t\t<h1
+  class=\"entry-title\">LCSNW housing services team doubles in size, broadens in scope</h1>\n\t\t\t\t</div>\n\t\t\t\t\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div><div
+  class=\"et_pb_row et_pb_row_35 custom_row\">\n\t\t\t\t<div class=\"et_pb_column
+  et_pb_column_2_3 et_pb_column_51 second-on-mobile  et_pb_css_mix_blend_mode_passthrough\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div
+  class=\"et_pb_with_border et_pb_module et_pb_text et_pb_text_16  et_pb_text_align_left
+  et_pb_bg_layout_light\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_text_inner\"><p
+  class=\"noSpacingAbove noSpacingBelow\" data-text-type=\"noSpacing\"><em><span class=\"fontSizeXLarge\"><span
+  dir=\"ltr\" lang=\"EN-US\">Photo at right: <i>LCSNW’s new Tacoma-based housing services
+  team (L to R): Kenneth Williams, Sonia Chebbi, Dominique Johnson and David Moser. </i></span></span></em></p>\n<div
+  class=\"a_a_50a7110f f_a_50a7110f CanvasSection CanvasSection-col CanvasSection-sm12
+  CanvasSection--read CanvasSection-xl6\" data-automation-id=\"CanvasSection\">\n<div>\n<div
+  id=\"3f694947-2cc6-4b6c-9f3e-a875fcd6137e\" class=\"ControlZone ControlZone--clean
+  a_f_50a7110f\" data-automation-id=\"CanvasControl\">\n<div class=\"ControlZone--control\">\n<div
+  class=\"rte-webpart rte--ck5 rte--read-ck5 rte--paragraphSpacing rte--headingSpacing
+  LightMode rte--list-rtl css-374\" dir=\"auto\" data-sp-feature-tag=\"Rich Text Editor\"
+  data-sp-feature-instance-id=\"3f694947-2cc6-4b6c-9f3e-a875fcd6137e\">\n<div class=\"ck-content
+  rteEmphasis root-373 css-158 fixFocusIndicator\" data-automation-id=\"textBox\">\n<p><span
+  class=\"fontSizeXLarge\"><span dir=\"ltr\" lang=\"EN-US\">LCSNW’s housing services
+  have quietly doubled in size in recent months, with the addition of three new programs
+  in the Greater Puget Sound (GPS) District. The housing team has expanded from six
+  to 11 members and added a Tacoma team to help meet growing community needs.</span></span></p>\n<p><span
+  class=\"fontSizeXLarge\"><span dir=\"ltr\" lang=\"EN-US\">Through new contracts
+  for Rapid Rehousing Programs in King and Pierce County, LCSNW is proud to serve
+  individuals and families experiencing homelessness – those sleeping outside, in
+  a car, or in another place not meant for human habitation.</span></span></p>\n<p><span
+  class=\"fontSizeXLarge\"><span dir=\"ltr\" lang=\"EN-US\">Rapid Rehousing focuses
+  on helping people referred though the County Coordinated Entry System to improve
+  their living situations and prepare them for longer-term self-sufficiency. Based
+  on their needs, eligible clients receive rent assistance, resource referral and
+  intensive case management support.</span></span></p>\n<p><span class=\"fontSizeXLarge\"><span
+  dir=\"ltr\" lang=\"EN-US\">The new Homelessness Prevention Rent Assistance program
+  is also funded by Pierce County and works to prevent homelessness for those facing
+  eviction due to any number of life circumstances (SEE VIDEO BELOW).  David Moser,
+  Housing Services Manager, is especially excited about this program because it focuses
+  further upstream on problems before people become homeless. David wants the community
+  to know that the majority of unhoused persons in the U.S. &#8212; and within our
+  client base &#8212; are employed.</span></span></p>\n<p><span class=\"fontSizeXLarge\"><span
+  dir=\"ltr\" lang=\"EN-US\">“As we all know, rents in our state are too high, and
+  affordable housing too scarce,&#8221; David said. &#8220;Because of this systemic
+  housing crisis, the majority of LCSNW client households across all programs are
+  extremely rent-burdened. A single life event can send a person or family down a
+  path that leads to losing their housing, even with a full-time job.&#8221;</span></span></p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div>\n<div
+  class=\"a_a_50a7110f f_a_50a7110f CanvasSection CanvasSection-col CanvasSection-sm12
+  CanvasSection--read CanvasSection-xl6\" data-automation-id=\"CanvasSection\">\n<div>\n<div
+  id=\"1e1221f2-a65b-4ca9-bb10-42fd86b7f564\" class=\"ControlZone ControlZone--clean
+  a_f_50a7110f\" data-automation-id=\"CanvasControl\">\n<div class=\"ControlZone--control\">\n<div
+  class=\"rte-webpart rte--ck5 rte--read-ck5 rte--paragraphSpacing rte--headingSpacing
+  LightMode rte--list-rtl css-374\" dir=\"auto\" data-sp-feature-tag=\"Rich Text Editor\"
+  data-sp-feature-instance-id=\"1e1221f2-a65b-4ca9-bb10-42fd86b7f564\">\n<div class=\"ck-content
+  rteEmphasis root-373 css-158 fixFocusIndicator\" data-automation-id=\"textBox\">\n<p
+  class=\"noSpacingAbove spacingBelow\" data-text-type=\"withSpacing\"><span class=\"fontSizeXLarge\"><span
+  dir=\"ltr\" lang=\"EN-US\">“Many people just need a boost or safety net for a couple
+  of months to stay in their housing, while we work with them to figure out a plan
+  for longer term stability,&#8221; David added. &#8220;Prevention resources are a
+  crucial component of stability for every community that LCSNW serves, and this program
+  has the funding flexibility so more clients in other programs may qualify for rent
+  assistance.”</span></span></p>\n<p><span class=\"fontSizeXLarge\"><span dir=\"ltr\"
+  lang=\"EN-US\">The latest programs also broaden language accessibility in LCSNW’s
+  housing services, which now includes staff who speak seven languages.</span></span></p>\n<p><span
+  class=\"fontSizeXLarge\"><span dir=\"ltr\" lang=\"EN-US\">The new housing services
+  employees join LCSNW’s existing housing team based at SeaTac and Everett. They have
+  served an estimated 3,750 individuals in 1,500 households since January 2024.</span></span></p>\n<p><span
+  class=\"fontSizeXLarge\"><span dir=\"ltr\" lang=\"EN-US\">LCSNW is also growing
+  our housing expertise through an affiliation with Seattle-based Compass Housing
+  Alliance. The two organizations are on a path to full integration.</span></span></p>\n<p><iframe
+  loading=\"lazy\" title=\"David Moser, LCSNW Housing Services Manager\" width=\"1080\"
+  height=\"608\" src=\"https://www.youtube.com/embed/OVZoEH5PXH0?feature=oembed\"
+  \ allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope;
+  picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\"
+  allowfullscreen></iframe></p>\n</div>\n</div>\n</div>\n</div>\n</div>\n</div></div>\n\t\t\t</div>\n\t\t\t</div><div
+  class=\"et_pb_column et_pb_column_1_3 et_pb_column_52 first-on-mobile  et_pb_css_mix_blend_mode_passthrough
+  et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_module
+  et_pb_image et_pb_image_14\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<span
+  class=\"et_pb_image_wrap \"><img loading=\"lazy\" decoding=\"async\" width=\"1843\"
+  height=\"617\" src=\"https://lcsnw.org/wp-content/uploads/2025/04/Tacoma-Housing-Team-0325-cropped.jpeg\"
+  alt=\"\" title=\"Tacoma Housing Team 0325 -cropped\" srcset=\"https://lcsnw.org/wp-content/uploads/2025/04/Tacoma-Housing-Team-0325-cropped.jpeg
+  1843w, https://lcsnw.org/wp-content/uploads/2025/04/Tacoma-Housing-Team-0325-cropped-1280x429.jpeg
+  1280w, https://lcsnw.org/wp-content/uploads/2025/04/Tacoma-Housing-Team-0325-cropped-980x328.jpeg
+  980w, https://lcsnw.org/wp-content/uploads/2025/04/Tacoma-Housing-Team-0325-cropped-480x161.jpeg
+  480w\" sizes=\"(min-width: 0px) and (max-width: 480px) 480px, (min-width: 481px)
+  and (max-width: 980px) 980px, (min-width: 981px) and (max-width: 1280px) 1280px,
+  (min-width: 1281px) 1843px, 100vw\" class=\"wp-image-48741\" /></span>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n<p>The
+  post <a href=\"https://lcsnw.org/2025/04/lcsnw-housing-services-team-doubles/\">LCSNW
+  housing services team doubles in size, broadens in scope</a> appeared first on <a
+  href=\"https://lcsnw.org\">LCSNW</a>.</p>"
+original_markdown_body: |-
+  # LCSNW housing services team doubles in size, broadens in scope
+
+  _Photo at right: LCSNW’s new Tacoma-based housing services team (L to R): Kenneth Williams, Sonia Chebbi, Dominique Johnson and David Moser.&nbsp;_
+
+  LCSNW’s housing services have quietly doubled in size in recent months, with the addition of three new programs in the Greater Puget Sound (GPS) District. The housing team has expanded from six to 11 members and added a Tacoma team to help meet growing community needs.
+
+  Through new contracts for Rapid Rehousing Programs in King and Pierce County, LCSNW is proud to serve individuals and families experiencing homelessness – those sleeping outside, in a car, or in another place not meant for human habitation.
+
+  Rapid Rehousing focuses on helping people referred though the County Coordinated Entry System to improve their living situations and prepare them for longer-term self-sufficiency. Based on their needs, eligible clients receive rent assistance, resource referral and intensive case management support.
+
+  The new Homelessness Prevention Rent Assistance program is also funded by Pierce County and works to prevent homelessness for those facing eviction due to any number of life circumstances (SEE VIDEO BELOW).&nbsp; David Moser, Housing Services Manager, is especially excited about this program because it focuses further upstream on problems before people become homeless. David wants the community to know that the majority of unhoused persons in the U.S. — and within our client base — are employed.
+
+  “As we all know, rents in our state are too high, and affordable housing too scarce,” David said. “Because of this systemic housing crisis, the majority of LCSNW client households across all programs are extremely rent-burdened. A single life event can send a person or family down a path that leads to losing their housing, even with a full-time job.”
+
+  “Many people just need a boost or safety net for a couple of months to stay in their housing, while we work with them to figure out a plan for longer term stability,” David added. “Prevention resources are a crucial component of stability for every community that LCSNW serves, and this program has the funding flexibility so more clients in other programs may qualify for rent assistance.”
+
+  The latest programs also broaden language accessibility in LCSNW’s housing services, which now includes staff who speak seven languages.
+
+  The new housing services employees join LCSNW’s existing housing team based at SeaTac and Everett. They have served an estimated 3,750 individuals in 1,500 households since January 2024.
+
+  LCSNW is also growing our housing expertise through an affiliation with Seattle-based Compass Housing Alliance. The two organizations are on a path to full integration.
+
+  https://www.youtube.com/embed/OVZoEH5PXH0?feature=oembed
+
+   ![](https://lcsnw.org/wp-content/uploads/2025/04/Tacoma-Housing-Team-0325-cropped.jpeg "Tacoma Housing Team 0325 -cropped")
+
+  The post [LCSNW housing services team doubles in size, broadens in scope](https://lcsnw.org/2025/04/lcsnw-housing-services-team-doubles/) appeared first on [LCSNW](https://lcsnw.org).
 source: Lutheran Community Services Northwest
 source_url: https://lcsnw.org/2025/04/lcsnw-housing-services-team-doubles/
 summarized: true

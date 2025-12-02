@@ -1,6 +1,12 @@
 ---
 date: '2025-11-21T12:00:00+00:00'
 images: []
+original_content: A former Michigan pharmacist and his brother were sentenced yesterday
+  to eight years in prison and five years in prison, respectively, for their roles
+  in a conspiracy to commit health care fraud and wire fraud.
+original_markdown_body: A former Michigan pharmacist and his brother were sentenced
+  yesterday to eight years in prison and five years in prison, respectively, for their
+  roles in a conspiracy to commit health care fraud and wire fraud.
 source: Department of Justice
 source_url: https://www.justice.gov/opa/pr/pharmacist-and-brother-sentenced-prison-15m-health-care-and-wire-fraud-scheme
 summarized: true

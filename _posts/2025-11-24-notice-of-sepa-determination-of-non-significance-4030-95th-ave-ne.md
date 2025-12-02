@@ -1,6 +1,16 @@
 ---
 date: '2025-11-24T20:47:05+00:00'
 images: []
+original_content: '<p><img fetchpriority="high" decoding="async" class="alignnone
+  size-full wp-image-8117" src="https://yarrowpointwa.gov/wp-content/uploads/2025/11/Tree-SEPA-2025-08-DNS-Posting-Notice-002.jpg"
+  alt="" width="1700" height="2200" srcset="https://yarrowpointwa.gov/wp-content/uploads/2025/11/Tree-SEPA-2025-08-DNS-Posting-Notice-002.jpg
+  1700w, https://yarrowpointwa.gov/wp-content/uploads/2025/11/Tree-SEPA-2025-08-DNS-Posting-Notice-002-232x300.jpg
+  232w, https://yarrowpointwa.gov/wp-content/uploads/2025/11/Tree-SEPA-2025-08-DNS-Posting-Notice-002-791x1024.jpg
+  791w, https://yarrowpointwa.gov/wp-content/uploads/2025/11/Tree-SEPA-2025-08-DNS-Posting-Notice-002-768x994.jpg
+  768w, https://yarrowpointwa.gov/wp-content/uploads/2025/11/Tree-SEPA-2025-08-DNS-Posting-Notice-002-1187x1536.jpg
+  1187w, https://yarrowpointwa.gov/wp-content/uploads/2025/11/Tree-SEPA-2025-08-DNS-Posting-Notice-002-1583x2048.jpg
+  1583w" sizes="(max-width: 1700px) 100vw, 1700px" /></p>'
+original_markdown_body: "![](https://yarrowpointwa.gov/wp-content/uploads/2025/11/Tree-SEPA-2025-08-DNS-Posting-Notice-002.jpg)"
 published: false
 source: Town of Yarrow Point
 source_url: https://yarrowpointwa.gov/2025/11/notice-of-sepa-determination-of-non-significance-4030-95th-ave-ne/

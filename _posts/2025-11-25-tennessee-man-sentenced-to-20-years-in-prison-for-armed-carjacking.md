@@ -1,6 +1,12 @@
 ---
 date: '2025-11-25T12:00:00+00:00'
 images: []
+original_content: A Tennessee man was sentenced today to 20 years in prison for a
+  Memphis carjacking and using a firearm during the robbery.&nbsp; His co-defendant
+  in the robbery was previously sentenced to over nine years in prison.&nbsp;&nbsp;
+original_markdown_body: A Tennessee man was sentenced today to 20 years in prison
+  for a Memphis carjacking and using a firearm during the robbery.&nbsp; His co-defendant
+  in the robbery was previously sentenced to over nine years in prison.&nbsp;&nbsp;
 published: false
 source: Department of Justice
 source_url: https://www.justice.gov/opa/pr/tennessee-man-sentenced-20-years-prison-armed-carjacking

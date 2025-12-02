@@ -1,6 +1,13 @@
 ---
 date: '2025-10-01T16:01:17+00:00'
 images: []
+original_content: |-
+  <p>This blog post is from Dr. Catherine Cushinberry, Interim CEO, United Way of King County. A couple of weeks ago, my mother from Memphis, TN, visited me. I was fortunate to find a rental on Lake Washington, so we were able to enjoy lake views and be extremely close to the lake. While we were standing and looking at the vastness and beauty of the lake, my mom marveled at how this same lake&#8230;</p>
+  <p><a href="https://www.uwkc.org/advocacy/perspective/" rel="nofollow">Source</a></p>
+original_markdown_body: |-
+  This blog post is from Dr. Catherine Cushinberry, Interim CEO, United Way of King County. A couple of weeks ago, my mother from Memphis, TN, visited me. I was fortunate to find a rental on Lake Washington, so we were able to enjoy lake views and be extremely close to the lake. While we were standing and looking at the vastness and beauty of the lake, my mom marveled at how this same lake…
+
+  [Source](https://www.uwkc.org/advocacy/perspective/)
 source: United Way of King County
 source_url: https://www.uwkc.org/advocacy/perspective/
 summarized: true

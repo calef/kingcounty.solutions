@@ -1,6 +1,20 @@
 ---
 date: '2025-11-25T12:00:00+00:00'
 images: []
+original_content: Today, the Justice Department’s Civil Rights Division and the U.S.
+  Attorney’s Office for the Middle District of Florida announced that they have launched
+  an investigation into United Parks &amp; Resorts Inc. to determine whether it violates
+  Title III of the Americans with Disabilities Act (ADA) by discriminating against
+  guests with disabilities. United Parks &amp; Resorts is a global theme park and
+  entertainment company that owns or licenses seven brands including SeaWorld Orlando,
+  Busch Gardens Tampa Bay, and Aquatica Orlando.
+original_markdown_body: Today, the Justice Department’s Civil Rights Division and
+  the U.S. Attorney’s Office for the Middle District of Florida announced that they
+  have launched an investigation into United Parks & Resorts Inc. to determine whether
+  it violates Title III of the Americans with Disabilities Act (ADA) by discriminating
+  against guests with disabilities. United Parks & Resorts is a global theme park
+  and entertainment company that owns or licenses seven brands including SeaWorld
+  Orlando, Busch Gardens Tampa Bay, and Aquatica Orlando.
 source: Department of Justice
 source_url: https://www.justice.gov/opa/pr/justice-department-opens-investigation-seaworld-orlando-busch-gardens-tampa-bay-and-aquatica
 summarized: true

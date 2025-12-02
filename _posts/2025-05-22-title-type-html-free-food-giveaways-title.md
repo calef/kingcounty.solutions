@@ -2,6 +2,8 @@
 date: '2025-05-22T15:42:04Z'
 images:
 - 81fbfd2b2b17b7150d99d0035b20829df1b251fcf916bd28926b6abc84be527e
+original_content: <img src="https://img1.wsimg.com/isteam/ip/02d99612-388e-465c-94d0-09bea0e32177/Screenshot%202025-05-22%20at%208.40.40%E2%80%AFAM.png"/><p></p>
+original_markdown_body: "![](https://img1.wsimg.com/isteam/ip/02d99612-388e-465c-94d0-09bea0e32177/Screenshot%202025-05-22%20at%208.40.40%E2%80%AFAM.png)"
 source: Praisealujah Discipleship
 source_url: https://praisealujah.org/f/free-food-giveaways
 summarized: true

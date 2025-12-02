@@ -1,6 +1,19 @@
 ---
 date: '2025-11-25T14:40:54-08:00'
 images: []
+original_content: <p data-start="308" data-end="376">The countdown is on — <a href="https://www.soundtransit.org/southkinglink"
+  data-entity-type="external">the 1 Line is about to extend with three new stations</a>!&nbsp;</p><p
+  data-start="378" data-end="673">The opening on Dec. 6 will bring fast, frequent
+  connections in Kent Des Moines, Star Lake, and Federal Way Downtown.&nbsp;</p><p
+  data-start="378" data-end="673">If you’re new to Link (or just need a refresher),
+  here’s how to pay, how to transfer, and how to make your ride smooth from start
+  to finish.</p>
+original_markdown_body: |-
+  The countdown is on — [the 1 Line is about to extend with three new stations](https://www.soundtransit.org/southkinglink)!&nbsp;
+
+  The opening on Dec. 6 will bring fast, frequent connections in Kent Des Moines, Star Lake, and Federal Way Downtown.&nbsp;
+
+  If you’re new to Link (or just need a refresher), here’s how to pay, how to transfer, and how to make your ride smooth from start to finish.
 source: Sound Transit
 source_url: https://www.soundtransit.org/blog/platform/south-king-link-how-to-ride-transfer
 summarized: true

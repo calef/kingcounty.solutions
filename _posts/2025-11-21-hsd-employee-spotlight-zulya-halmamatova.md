@@ -1,6 +1,14 @@
 ---
 date: '2025-11-21T17:22:11+00:00'
 images: []
+original_content: Zulhumor (Zulya) Halmamatova serves as a Senior Grants &#038; Contracts
+  Specialist in the Homelessness division of the Human Service Department. She writes
+  about how teamwork and the mission of keeping people housed and supported motivate
+  her every day....
+original_markdown_body: Zulhumor (Zulya) Halmamatova serves as a Senior Grants & Contracts
+  Specialist in the Homelessness division of the Human Service Department. She writes
+  about how teamwork and the mission of keeping people housed and supported motivate
+  her every day....
 source: City of Seattle
 source_url: https://humaninterests.seattle.gov/2025/11/21/hsd-employee-spotlight-zulya-halmamatova/
 summarized: true

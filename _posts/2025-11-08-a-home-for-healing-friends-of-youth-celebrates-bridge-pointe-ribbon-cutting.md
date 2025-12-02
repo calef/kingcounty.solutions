@@ -1,6 +1,20 @@
 ---
 date: '2025-11-08T00:39:45+00:00'
 images: []
+original_content: Friends of Youth has officially opened Bridge Pointe Housing, a
+  healing place for young adults, 18 - 24, transitioning from inpatient treatment.
+       On Tuesday, November 4, 2025, Friends of Youth hosted a Ribbon Cutting Ceremony
+  for Bridge Pointe Housing with honored guests and speakers including, Friends of
+  Youth President and CEO, Paul Lwali; Friends of Youth Senior Director of Youth and
+  Family Services, Brooke Drennon; Friends of Youth Senior Director of Homeless Youth
+  Services, Eric...
+original_markdown_body: Friends of Youth has officially opened Bridge Pointe Housing,
+  a healing place for young adults, 18 - 24, transitioning from inpatient treatment.
+  &nbsp;  &nbsp; On Tuesday, November 4, 2025, Friends of Youth hosted a Ribbon Cutting
+  Ceremony for Bridge Pointe Housing with honored guests and speakers including, Friends
+  of Youth President and CEO, Paul Lwali; Friends of Youth Senior Director of Youth
+  and Family Services, Brooke Drennon; Friends of Youth Senior Director of Homeless
+  Youth Services, Eric...
 source: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/a-home-for-healing-friends-of-youth-celebrates-bridge-pointe-ribbon-cutting
 summarized: true

@@ -1,6 +1,10 @@
 ---
 date: '2025-04-25T17:21:21+00:00'
 images: []
+original_content: GiveBIG Early Giving is Open! Support Tiny Houses &#38; Urban Rest
+  Stops Your Gift Doubled! GiveBIG early giving is open! Thanks to the...
+original_markdown_body: GiveBIG Early Giving is Open! Support Tiny Houses & Urban
+  Rest Stops Your Gift Doubled! GiveBIG early giving is open! Thanks to the...
 source: Low Income Housing Institute
 source_url: https://www.lihihousing.org/post/givebig-early-giving-open-your-gift-doubled-what-people-are-saying
 summarized: true

@@ -1,6 +1,12 @@
 ---
 date: '2025-11-14T12:00:00+00:00'
 images: []
+original_content: Marek Cherkaoui, 21, of Egg Harbor Township, New Jersey, was arrested
+  today on cyberstalking offenses in connection with a Nihilistic Violent Extremist
+  (NVE) network known as 764.
+original_markdown_body: Marek Cherkaoui, 21, of Egg Harbor Township, New Jersey, was
+  arrested today on cyberstalking offenses in connection with a Nihilistic Violent
+  Extremist (NVE) network known as 764.
 published: false
 source: Department of Justice
 source_url: https://www.justice.gov/opa/pr/new-jersey-man-charged-cyberstalking-connection-violent-network-764

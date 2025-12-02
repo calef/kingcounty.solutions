@@ -1,6 +1,11 @@
 ---
 date: '2024-12-19T14:54:11+00:00'
 images: []
+original_content: <p>The post <a href="https://readingpartners.org/blog/10-kids-books-that-were-made-into-wintertime-movies/">10
+  kids&#8217; books that were made into wintertime movies</a> appeared first on <a
+  href="https://readingpartners.org">Reading Partners</a>.</p>
+original_markdown_body: The post [10 kids’ books that were made into wintertime movies](https://readingpartners.org/blog/10-kids-books-that-were-made-into-wintertime-movies/)
+  appeared first on [Reading Partners](https://readingpartners.org).
 source: Reading Partners Seattle
 source_url: https://readingpartners.org/blog/10-kids-books-that-were-made-into-wintertime-movies/
 summarized: true

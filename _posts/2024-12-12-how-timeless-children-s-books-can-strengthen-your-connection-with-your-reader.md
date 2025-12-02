@@ -1,6 +1,12 @@
 ---
 date: '2024-12-12T20:14:35+00:00'
 images: []
+original_content: <p>The post <a href="https://readingpartners.org/blog/how-timeless-childrens-books-can-strengthen-your-connection-with-your-reader/">How
+  timeless children’s books can strengthen your connection with your reader</a> appeared
+  first on <a href="https://readingpartners.org">Reading Partners</a>.</p>
+original_markdown_body: The post [How timeless children’s books can strengthen your
+  connection with your reader](https://readingpartners.org/blog/how-timeless-childrens-books-can-strengthen-your-connection-with-your-reader/)
+  appeared first on [Reading Partners](https://readingpartners.org).
 source: Reading Partners Seattle
 source_url: https://readingpartners.org/blog/how-timeless-childrens-books-can-strengthen-your-connection-with-your-reader/
 summarized: true

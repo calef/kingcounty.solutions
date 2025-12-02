@@ -1,6 +1,12 @@
 ---
 date: '2025-11-15T02:08:15+00:00'
 images: []
+original_content: 'Weekend Service Impacts Construction Routes 177, 183, 193, and
+  RapidRide A Line will have stop #85541 Federal Way Downtown Station &#8211; Bay
+  11 (southbound) closed from Friday, November 14 through Monday,...'
+original_markdown_body: 'Weekend Service Impacts Construction Routes 177, 183, 193,
+  and RapidRide A Line&nbsp;will have stop #85541 Federal Way Downtown Station – Bay
+  11 (southbound) closed from Friday, November 14 through Monday,...'
 source: King County Metro Transit
 source_url: https://kingcountymetro.blog/2025/11/14/metro-weekend-update-november-14-16-2025/
 summarized: true

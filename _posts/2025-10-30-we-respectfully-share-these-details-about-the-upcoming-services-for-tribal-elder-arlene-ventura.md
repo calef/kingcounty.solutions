@@ -1,6 +1,11 @@
 ---
 date: '2025-10-30T23:03:50+00:00'
 images: []
+original_content: "Service Details for Arlene Ventura\n\nWednesday, November 5th  \nFlintoft’s
+  Funeral Home Issaquah, WA  \n4pm-7pm Viewing  \n5pm-Memorial Tribute Speaking will
+  be open\n\nThursday, November 6th  \n10am Funeral Service, Snoqualmie Casino & Hotel
+  Ballroom  \n12:30pm Graveside Service , Fall City Cemetary  \n2pm-6pm Community
+  Meal and Remembrance Programming,  \nSnoqualmie Casino & Hotel Ballroom\n\n[![](https://snoqualmietribe.us/wp-content/uploads/2025/10/Service-Details-Arlene-Ventura-700x587.png)](https://snoqualmietribe.us/wp-content/uploads/2025/10/Service-Details-Arlene-Ventura.png)"
 published: false
 source: Snoqualmie Indian Tribe
 source_url: https://snoqualmietribe.us/we-respectfully-share-these-details-about-the-upcoming-services-for-tribal-elder-arlene-ventura/

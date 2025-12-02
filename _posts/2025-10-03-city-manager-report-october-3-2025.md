@@ -1,6 +1,13 @@
 ---
 date: '2025-10-03T20:01:41+00:00'
 images: []
+original_content: Help Shape the Future of Normandy Park’s Roads. Public Hearing on
+  Updated Road Design Standards – Tuesday, October 14, 2025. The City of Normandy
+  Park is updating its Road Design and Construction Standards. A guidebook that shapes
+  how our streets, sidewalks, bike paths, and stormwater improvements are built. These
+  standards ensure that when developers, contractors, or the City itself builds or
+  renovates a road, the design is safe, consistent, and supports the needs of our
+  community.
 published: false
 source: City of Normandy Park
 source_url: https://normandyparkwa.gov/city-news/city-manager/city-manager-report-october-3-2025/

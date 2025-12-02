@@ -1,6 +1,18 @@
 ---
 date: '2025-11-20T12:00:00+00:00'
 images: []
+original_content: WASHINGTON – Today, The United States is challenging California
+  laws providing in-state tuition, scholarships, and subsidized loans for illegal
+  aliens. These laws unconstitutionally discriminate against U.S. citizens who are
+  not afforded the same reduced tuition rates, scholarships, or subsidies, create
+  incentives for illegal immigration, and reward illegal immigrants with benefits
+  that U.S. citizens are not eligible for, all in direct conflict with federal law.
+original_markdown_body: WASHINGTON – Today, The United States is challenging California
+  laws providing in-state tuition, scholarships, and subsidized loans for illegal
+  aliens. These laws unconstitutionally discriminate against U.S. citizens who are
+  not afforded the same reduced tuition rates, scholarships, or subsidies, create
+  incentives for illegal immigration, and reward illegal immigrants with benefits
+  that U.S. citizens are not eligible for, all in direct conflict with federal law.
 source: Department of Justice
 source_url: https://www.justice.gov/opa/pr/justice-department-files-complaint-challenging-california-laws-providing-state-tuition
 summarized: true

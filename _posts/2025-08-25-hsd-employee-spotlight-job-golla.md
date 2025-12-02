@@ -1,6 +1,16 @@
 ---
 date: '2025-08-25T16:41:38+00:00'
 images: []
+original_content: Job Golla (he/him/his) is an intern in the Human Services Department
+  working directly on the Seattle Youth Employment Program (SYEP) with Kamal De Campos.
+  Job recently graduated from the University of Washington Bothell with a degree in
+  media and communication studies. What made you decide to join HSD as an intern this
+  summer? One of [&#8230;]
+original_markdown_body: Job Golla (he/him/his) is an intern in the Human Services
+  Department working directly on the Seattle Youth Employment Program (SYEP) with
+  Kamal De Campos. Job recently graduated from the University of Washington Bothell
+  with a degree in media and communication studies. What made you decide to join HSD
+  as an intern this summer? One of […]
 source: Seattle Human Services Department
 source_url: https://humaninterests.seattle.gov/2025/08/25/hsd-employee-spotlight-job-golla/
 summarized: true

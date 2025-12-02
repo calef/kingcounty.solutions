@@ -1,6 +1,16 @@
 ---
 date: '2025-11-07T12:37:55-08:00'
 images: []
+original_content: <div><p paraid="1603083217" paraeid="{b0b48f72-cdcb-42b9-93e5-f8b282adf60c}{116}">Daylight
+  hours are waning, the rains have begun, and there’s a collective sense of battening
+  down for winter here in the Pacific Northwest.&nbsp;</p><p paraid="1603083217" paraeid="{b0b48f72-cdcb-42b9-93e5-f8b282adf60c}{116}">Yet
+  here at Sound Transit, momentum is only ramping up toward connecting the Eastside
+  and Seattle across the I-90 floating bridge as crews remain hard at work testing
+  the 2 Line’s Crosslake Connection.</p></div>
+original_markdown_body: |-
+  Daylight hours are waning, the rains have begun, and there’s a collective sense of battening down for winter here in the Pacific Northwest.&nbsp;
+
+  Yet here at Sound Transit, momentum is only ramping up toward connecting the Eastside and Seattle across the I-90 floating bridge as crews remain hard at work testing the 2 Line’s Crosslake Connection.
 published: false
 source: Sound Transit
 source_url: https://www.soundtransit.org/blog/platform/crosslake-update-testing-advances-floating-bridge

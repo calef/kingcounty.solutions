@@ -1,6 +1,13 @@
 ---
 date: '2025-11-11T06:00:29+00:00'
 images: []
+original_content: |-
+  <p>My friend Betsy Fitzgerald, care partner to a lung transplant survivor with metastatic cancer, recently shared an update: “I&#8217;ve been mending my life, Kintsugi, patching broken pieces together. It is not easy; some pieces are sharp edged, some not quite fitting, some missing. We do the best we can.” Her role as a care partner [&#8230;]</p>
+  <p>The post <a href="https://agingwisdom.com/caregiving-burnout-and-the-art-of-repair/">Caregiving, Burnout, and the Art of Repair</a> appeared first on <a href="https://agingwisdom.com">Aging Wisdom</a>.</p>
+original_markdown_body: |-
+  My friend Betsy Fitzgerald, care partner to a lung transplant survivor with metastatic cancer, recently shared an update: “I’ve been mending my life, Kintsugi, patching broken pieces together. It is not easy; some pieces are sharp edged, some not quite fitting, some missing. We do the best we can.” Her role as a care partner […]
+
+  The post [Caregiving, Burnout, and the Art of Repair](https://agingwisdom.com/caregiving-burnout-and-the-art-of-repair/) appeared first on [Aging Wisdom](https://agingwisdom.com).
 source: Aging Wisdom
 source_url: https://agingwisdom.com/caregiving-burnout-and-the-art-of-repair/?utm_source=rss&utm_medium=rss&utm_campaign=caregiving-burnout-and-the-art-of-repair
 summarized: true

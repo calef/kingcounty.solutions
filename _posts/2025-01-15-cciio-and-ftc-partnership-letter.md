@@ -1,6 +1,16 @@
 ---
 date: '2025-01-15T16:41:20-05:00'
 images: []
+original_content: "<p>artifact_description: Guidance</p><p>date: Wed, 01 Jan 2025
+  21:45:51 -0500</p><p>title: CCIIO and FTC Partnership Letter</p><p>topic: Compliance</p>"
+original_markdown_body: |-
+  artifact\_description: Guidance
+
+  date: Wed, 01 Jan 2025 21:45:51 -0500
+
+  title: CCIIO and FTC Partnership Letter
+
+  topic: Compliance
 source: Centers for Medicare & Medicaid Services
 source_url: https://www.cms.gov//marketplace/agents-brokers/general-resources/cciio-and-ftc-partnership-letter
 summarized: true

@@ -1,6 +1,13 @@
 ---
 date: '2025-11-14T04:08:15+00:00'
 images: []
+original_content: |-
+  <p>As Glover Empower Mentoring prepares for its 15th Annual Thanksgiving Celebration, CEO Kendrick Glover said that the event, which features free food and gifts to the community, has added significance this year. &ldquo;I think what it means to me personally and professionally is being able to meet the needs of our community, especially in trying times we are facing during our economic downfall/</p>
+  <p><a href="https://www.uwkc.org/breaking-the-cycle-of-poverty-news/food-insecurity/for-the-community-for-the-holidays/" rel="nofollow">Source</a></p>
+original_markdown_body: |-
+  As Glover Empower Mentoring prepares for its 15th Annual Thanksgiving Celebration, CEO Kendrick Glover said that the event, which features free food and gifts to the community, has added significance this year. “I think what it means to me personally and professionally is being able to meet the needs of our community, especially in trying times we are facing during our economic downfall/
+
+  [Source](https://www.uwkc.org/breaking-the-cycle-of-poverty-news/food-insecurity/for-the-community-for-the-holidays/)
 source: United Way of King County
 source_url: https://www.uwkc.org/breaking-the-cycle-of-poverty-news/food-insecurity/for-the-community-for-the-holidays/
 summarized: true

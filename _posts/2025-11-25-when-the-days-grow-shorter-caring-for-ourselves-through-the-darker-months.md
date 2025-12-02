@@ -1,6 +1,20 @@
 ---
 date: '2025-11-25T22:37:33+00:00'
 images: []
+original_content: As the days grow shorter and Seattle settles into its season of
+  clouds and early sunsets, many of us start to feel our energy dip. For older adults
+  especially, the long evenings, chilly damp weather, and weeks of gray skies can
+  make it harder to get outside, stay active, or connect with others. This shift can
+  quietly affect mood and mental health, sometimes showing up as fatigue, sadness,
+  or a sense of isolation. We know how much light matters, and here in the Pacific
+  Northwest, the lack of...
+original_markdown_body: As the days grow shorter and Seattle settles into its season
+  of clouds and early sunsets, many of us start to feel our energy dip. For older
+  adults especially, the long evenings, chilly damp weather, and weeks of gray skies
+  can make it harder to get outside, stay active, or connect with others. This shift
+  can quietly affect mood and mental health, sometimes showing up as fatigue, sadness,
+  or a sense of isolation. We know how much light matters, and here in the Pacific
+  Northwest, the lack of...
 source: Eastside Friends of Seniors
 source_url: https://www.eastsidefriendsofseniors.org/post/when-the-days-grow-shorter-caring-for-ourselves-through-the-darker-months
 summarized: true

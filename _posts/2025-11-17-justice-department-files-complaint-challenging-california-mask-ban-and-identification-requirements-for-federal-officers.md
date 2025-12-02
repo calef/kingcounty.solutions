@@ -1,6 +1,15 @@
 ---
 date: '2025-11-17T12:00:00+00:00'
 images: []
+original_content: WASHINGTON – Today, the Department of Justice <a href="https://links-1.govdelivery.com/CL0/https:%2F%2Fwww.justice.gov%2Fopa%2Fmedia%2F1418431%2Fdl%3Finline=%26utm_medium=email%26utm_source=govdelivery/1/0100019a93783d3d-9559745b-a3dc-401e-9cc7-fbdee5f65b6a-000000/DgJjMUNPrkbbqE3CaIT2ozxz1kZf0eAnTvS70XOg80Q=431"
+  target="_blank">filed a lawsuit</a> against California, Governor Gavin Newsom, and
+  Attorney General Robert Bonta challenging their unconstitutional attempt to regulate
+  federal law enforcement officers through the so-called “No Secret Police Act” and
+  “No Vigilantes Act.”&nbsp;
+original_markdown_body: WASHINGTON – Today, the Department of Justice [filed a lawsuit](https://links-1.govdelivery.com/CL0/https:%2F%2Fwww.justice.gov%2Fopa%2Fmedia%2F1418431%2Fdl%3Finline=%26utm_medium=email%26utm_source=govdelivery/1/0100019a93783d3d-9559745b-a3dc-401e-9cc7-fbdee5f65b6a-000000/DgJjMUNPrkbbqE3CaIT2ozxz1kZf0eAnTvS70XOg80Q=431)
+  against California, Governor Gavin Newsom, and Attorney General Robert Bonta challenging
+  their unconstitutional attempt to regulate federal law enforcement officers through
+  the so-called “No Secret Police Act” and “No Vigilantes Act.”&nbsp;
 published: false
 source: Department of Justice
 source_url: https://www.justice.gov/opa/pr/justice-department-files-complaint-challenging-california-mask-ban-and-identification

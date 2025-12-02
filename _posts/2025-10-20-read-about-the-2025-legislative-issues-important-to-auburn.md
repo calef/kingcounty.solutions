@@ -1,6 +1,9 @@
 ---
 date: '2025-10-20T18:50:00+00:00'
 images: []
+original_content: <img src="https://www.auburnwa.gov/UserFiles/Servers/Server_11470554/Image/News/Legislative%20Agenda.png"
+  />
+original_markdown_body: "![](https://www.auburnwa.gov/UserFiles/Servers/Server_11470554/Image/News/Legislative%20Agenda.png)"
 source: City of Auburn
 source_url: https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=15279790
 summarized: true

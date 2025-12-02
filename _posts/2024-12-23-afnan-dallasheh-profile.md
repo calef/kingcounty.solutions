@@ -1,6 +1,13 @@
 ---
 date: '2024-12-23T21:56:21+00:00'
 images: []
+original_content: |-
+  <p>Afnan Dallasheh has been an active member of the MAPS community for the past five years. Her passion lies in empowering youth, women, and promoting sustainability. Afnan has served the community as a volunteer in various MAPS events and through MAPS Girl Scouts. Currently, Afnan actively engages with different PTSA organizations and participates in dialogues with district leadership to ensure&#8230;</p>
+  <p><a href="https://mapsredmond.org/afnan-dallasheh-profile/" rel="nofollow">Source</a></p>
+original_markdown_body: |-
+  Afnan Dallasheh has been an active member of the MAPS community for the past five years. Her passion lies in empowering youth, women, and promoting sustainability. Afnan has served the community as a volunteer in various MAPS events and through MAPS Girl Scouts. Currently, Afnan actively engages with different PTSA organizations and participates in dialogues with district leadership to ensure…
+
+  [Source](https://mapsredmond.org/afnan-dallasheh-profile/)
 source: Muslim Association of Puget Sound
 source_url: https://mapsredmond.org/afnan-dallasheh-profile/?utm_source=rss&utm_medium=rss&utm_campaign=afnan-dallasheh-profile
 summarized: true

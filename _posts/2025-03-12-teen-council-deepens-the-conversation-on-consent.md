@@ -1,6 +1,10 @@
 ---
 date: '2025-03-12T00:53:47+00:00'
 images: []
+original_content: At The DOVE Project, we believe that conversations about consent
+  are essential to building safe and respectful communities. That’s why...
+original_markdown_body: At The DOVE Project, we believe that conversations about consent
+  are essential to building safe and respectful communities. That’s why...
 source: The Vashon DOVE Project
 source_url: https://www.vashondoveproject.org/post/teen-council-deepens-the-conversation-on-consent
 summarized: true

@@ -1,6 +1,10 @@
 ---
 date: '2025-11-20T15:30:50+00:00'
 images: []
+original_content: '<p>The post <a href="https://www.kcsarc.org/en/sarahs-blog-the-language-of-being-believed/">Sarah&#8217;s
+  Blog: The Language of Being Believed</a> appeared first on <a href="https://www.kcsarc.org/en/">KCSARC</a>.</p>'
+original_markdown_body: 'The post [Sarah’s Blog: The Language of Being Believed](https://www.kcsarc.org/en/sarahs-blog-the-language-of-being-believed/)
+  appeared first on [KCSARC](https://www.kcsarc.org/en/).'
 source: King County Sexual Assault Resource Center
 source_url: https://www.kcsarc.org/en/sarahs-blog-the-language-of-being-believed/
 summarized: true

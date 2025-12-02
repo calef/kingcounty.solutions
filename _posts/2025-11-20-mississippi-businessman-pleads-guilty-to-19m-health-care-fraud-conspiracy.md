@@ -1,6 +1,14 @@
 ---
 date: '2025-11-20T12:00:00+00:00'
 images: []
+original_content: A Mississippi businessman pleaded guilty today to participating
+  in a scheme to defraud Medicare by paying kickbacks for fraudulent doctors’ orders
+  and then using those orders to bill the government insurer over $19 million through
+  seven different durable medical equipment (DME) supply companies.
+original_markdown_body: A Mississippi businessman pleaded guilty today to participating
+  in a scheme to defraud Medicare by paying kickbacks for fraudulent doctors’ orders
+  and then using those orders to bill the government insurer over $19 million through
+  seven different durable medical equipment (DME) supply companies.
 source: Department of Justice
 source_url: https://www.justice.gov/opa/pr/mississippi-businessman-pleads-guilty-19m-health-care-fraud-conspiracy
 summarized: true

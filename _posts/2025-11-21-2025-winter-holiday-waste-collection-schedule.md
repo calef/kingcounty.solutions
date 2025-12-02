@@ -1,6 +1,14 @@
 ---
 date: '2025-11-21T23:41:12+00:00'
 images: []
+original_content: 'As we head into the holiday season, we want to share some important
+  reminders about our collection services. Garbage, recycling, and food and yard waste
+  will NOT be collected on these upcoming holidays: If your regular collection day
+  falls on one of th...'
+original_markdown_body: 'As we head into the holiday season, we want to share some
+  important reminders about our collection services. Garbage, recycling, and food
+  and yard waste will NOT be collected on these upcoming holidays: If your regular
+  collection day falls on one of th...'
 published: false
 source: City of Seattle
 source_url: https://atyourservice.seattle.gov/2025/11/21/2025-winter-holiday-waste-collection-schedule/

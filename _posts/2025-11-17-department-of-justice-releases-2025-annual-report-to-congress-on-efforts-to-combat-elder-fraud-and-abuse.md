@@ -1,6 +1,15 @@
 ---
 date: '2025-11-17T12:00:00+00:00'
 images: []
+original_content: Today, the Department of Justice released the <a href="https://www.justice.gov/elderjustice/media/1416301/dl?inline"><em>2025
+  Annual Report to Congress on Department of Justice Activities to Combat Elder Fraud
+  and Abuse</em></a>, which details the Department’s progress in protecting older
+  Americans and holding perpetrators of elder fraud accountable.
+original_markdown_body: Today, the Department of Justice released the [_2025 Annual
+  Report to Congress on Department of Justice Activities to Combat Elder Fraud and
+  Abuse_](https://www.justice.gov/elderjustice/media/1416301/dl?inline), which details
+  the Department’s progress in protecting older Americans and holding perpetrators
+  of elder fraud accountable.
 published: false
 source: Department of Justice
 source_url: https://www.justice.gov/opa/pr/department-justice-releases-2025-annual-report-congress-efforts-combat-elder-fraud-and-abuse

@@ -1,6 +1,14 @@
 ---
 date: '2025-11-18T22:07:22+00:00'
 images: []
+original_content: Installation of third 150-ton transformer marks the completion of
+  crucial reliability project. Over the last few years, crews have been hard at work
+  installing new transformers at our East Pine Substation. And this weekend, they
+  will switch on the newe...
+original_markdown_body: Installation of third 150-ton transformer marks the completion
+  of crucial reliability project. Over the last few years, crews have been hard at
+  work installing new transformers at our East Pine Substation. And this weekend,
+  they will switch on the newe...
 published: false
 source: City of Seattle
 source_url: https://powerlines.seattle.gov/2025/11/18/multi-year-reliability-project-complete-at-east-pine-substation/

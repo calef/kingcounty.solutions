@@ -1,6 +1,13 @@
 ---
 date: '2025-11-06T16:36:16-08:00'
 images: []
+original_content: <div><p paraid="2007034544" paraeid="{a76cc197-beed-4494-9d9e-013db66198ab}{3}">You
+  know Sound Transit for our Link light rail, Sounder train, and ST Express bus service
+  across the region, but a new high-capacity transit mode will also join the family
+  as part of our voter-approved ST3 expansion.</p></div>
+original_markdown_body: You know Sound Transit for our Link light rail, Sounder train,
+  and ST Express bus service across the region, but a new high-capacity transit mode
+  will also join the family as part of our voter-approved ST3 expansion.
 source: Sound Transit
 source_url: https://www.soundtransit.org/blog/platform/construction-update-stride-bus-rapid-transit
 summarized: true

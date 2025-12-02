@@ -1,6 +1,17 @@
 ---
 date: '2025-09-10T16:42:03-04:00'
 images: []
+original_content: "<p>artifact_description: Webinar Slides</p><p>date: Thu, 11 Sep
+  2025 02:42:43 -0400</p><p>title: Help On Demand for Plan Year 2026</p><p>topic:
+  Help On Demand</p>"
+original_markdown_body: |-
+  artifact\_description: Webinar Slides
+
+  date: Thu, 11 Sep 2025 02:42:43 -0400
+
+  title: Help On Demand for Plan Year 2026
+
+  topic: Help On Demand
 published: false
 source: Centers for Medicare & Medicaid Services
 source_url: https://www.cms.gov//marketplace/agents-brokers/general-resources/help-demand-plan-year-2026

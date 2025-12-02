@@ -1,6 +1,10 @@
 ---
 date: '2025-11-14T10:06:26-08:00'
 images: []
+original_content: SPANAWAY - New traffic lights for people who walk and roll are now
+  active along SR 7/Pacific Avenue South through Parkland and Spanaway.
+original_markdown_body: SPANAWAY - New traffic lights for people who walk and roll
+  are now active along SR 7/Pacific Avenue South through Parkland and Spanaway.
 source: Washington State Department of Transportation
 source_url: https://wsdot.wa.gov/about/news/2025/new-traffic-lights-along-sr-7-through-parkland-and-spanaway
 summarized: true

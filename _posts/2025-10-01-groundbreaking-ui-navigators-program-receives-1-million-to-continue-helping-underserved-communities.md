@@ -1,6 +1,16 @@
 ---
 date: '2025-10-01T21:17:42+00:00'
 images: []
+original_content: |-
+  <p>Via Employment Security Department, Washington State &#8220;OLYMPIA – In the past 16 months, community organizations have helped more than 7,000 people in underserved communities better understand the unemployment benefits they had available. Thanks to $1 million from the state Legislature, the Employment Security Department’s groundbreaking Unemployment Insurance (UI) Navigator program will continue for another year. ... </p>
+  <p class="read-more-container"><a title="Groundbreaking UI Navigators program receives $1 million to continue helping underserved communities" class="read-more button" href="https://nhwa.org/2025/10/01/groundbreaking-ui-navigators-program-receives-1-million-to-continue-helping-underserved-communities/#more-25334" aria-label="Read more about Groundbreaking UI Navigators program receives $1 million to continue helping underserved communities">Read more</a></p>
+  <p>The post <a href="https://nhwa.org/2025/10/01/groundbreaking-ui-navigators-program-receives-1-million-to-continue-helping-underserved-communities/">Groundbreaking UI Navigators program receives $1 million to continue helping underserved communities</a> appeared first on <a href="https://nhwa.org">Neighborhood House</a>.</p>
+original_markdown_body: |-
+  Via Employment Security Department, Washington State “OLYMPIA – In the past 16 months, community organizations have helped more than 7,000 people in underserved communities better understand the unemployment benefits they had available. Thanks to $1 million from the state Legislature, the Employment Security Department’s groundbreaking Unemployment Insurance (UI) Navigator program will continue for another year. ...
+
+  [Read more](https://nhwa.org/2025/10/01/groundbreaking-ui-navigators-program-receives-1-million-to-continue-helping-underserved-communities/#more-25334 "Groundbreaking UI Navigators program receives $1 million to continue helping underserved communities")
+
+  The post [Groundbreaking UI Navigators program receives $1 million to continue helping underserved communities](https://nhwa.org/2025/10/01/groundbreaking-ui-navigators-program-receives-1-million-to-continue-helping-underserved-communities/) appeared first on [Neighborhood House](https://nhwa.org).
 source: Neighborhood House
 source_url: https://nhwa.org/2025/10/01/groundbreaking-ui-navigators-program-receives-1-million-to-continue-helping-underserved-communities/
 summarized: true

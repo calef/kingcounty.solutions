@@ -1,6 +1,12 @@
 ---
 date: '2025-05-05T22:51:52+00:00'
 images: []
+original_content: '<p>The post <a href="https://readingpartners.org/blog/iteration-and-innovation/">Iteration
+  and innovation: How we approach new projects at Reading Partners</a> appeared first
+  on <a href="https://readingpartners.org">Reading Partners</a>.</p>'
+original_markdown_body: 'The post [Iteration and innovation: How we approach new projects
+  at Reading Partners](https://readingpartners.org/blog/iteration-and-innovation/)
+  appeared first on [Reading Partners](https://readingpartners.org).'
 source: Reading Partners Seattle
 source_url: https://readingpartners.org/blog/iteration-and-innovation/
 summarized: true

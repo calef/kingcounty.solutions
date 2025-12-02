@@ -1,6 +1,14 @@
 ---
 date: '2025-11-14T12:00:00+00:00'
 images: []
+original_content: Zephyr Aviation LLC, located in Mineral, Virginia, and its owners
+  Frederick Credno Jr. and Frederick W. Credno III have agreed to pay $3,901,000 to
+  resolve allegations that they violated the False Claims Act by submitting inflated
+  invoices for aviation contracts to the Department of Homeland Security (DHS).
+original_markdown_body: Zephyr Aviation LLC, located in Mineral, Virginia, and its
+  owners Frederick Credno Jr. and Frederick W. Credno III have agreed to pay $3,901,000
+  to resolve allegations that they violated the False Claims Act by submitting inflated
+  invoices for aviation contracts to the Department of Homeland Security (DHS).
 published: false
 source: Department of Justice
 source_url: https://www.justice.gov/opa/pr/department-homeland-security-contractor-agrees-pay-39m-resolve-alleged-violations-false

@@ -1,6 +1,10 @@
 ---
 date: '2025-11-21T19:15:04+00:00'
 images: []
+original_content: <figure class="wp-block-image size-large"><img decoding="async"
+  src="https://wallingfordseniors.org/wp-content/uploads/2025/11/Jazz-Nutcracker-2-791x1024.png"
+  alt="" class="wp-image-3642"/></figure>
+original_markdown_body: "![](https://wallingfordseniors.org/wp-content/uploads/2025/11/Jazz-Nutcracker-2-791x1024.png)"
 published: false
 source: Wallingford Community Senior Center
 source_url: https://wallingfordseniors.org/jazz-nutcracker-outing-december-6-2025/

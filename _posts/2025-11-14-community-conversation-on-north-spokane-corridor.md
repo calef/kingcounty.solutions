@@ -1,6 +1,12 @@
 ---
 date: '2025-11-14T10:54:01-08:00'
 images: []
+original_content: SPOKANE – Public and active transportation users are invited to
+  take part in the second season of community conversations surrounding the North
+  Spokane Corridor’s final connection project.
+original_markdown_body: SPOKANE – Public and active transportation users are invited
+  to take part in the second season of community conversations surrounding the North
+  Spokane Corridor’s final connection project.
 source: Washington State Department of Transportation
 source_url: https://wsdot.wa.gov/about/news/2025/community-conversation-north-spokane-corridor
 summarized: true

@@ -1,6 +1,18 @@
 ---
 date: '2025-11-18T12:00:00+00:00'
 images: []
+original_content: KBWB Operations LLC, doing business as Atrium Health and Senior
+  Living (KBWB-Atrium), and Kevin Breslin, former chief executive officer and managing
+  member of KBWB-Atrium, were sentenced yesterday, in U.S. District Court for the
+  Western District of Wisconsin following prior guilty pleas to health care fraud
+  and tax conspiracy related to the operation of numerous skilled nursing facilities,
+  the Department of Justice announced.
+original_markdown_body: KBWB Operations LLC, doing business as Atrium Health and Senior
+  Living (KBWB-Atrium), and Kevin Breslin, former chief executive officer and managing
+  member of KBWB-Atrium, were sentenced yesterday, in U.S. District Court for the
+  Western District of Wisconsin following prior guilty pleas to health care fraud
+  and tax conspiracy related to the operation of numerous skilled nursing facilities,
+  the Department of Justice announced.
 source: Department of Justice
 source_url: https://www.justice.gov/opa/pr/corporation-and-former-chief-executive-officer-sentenced-health-care-fraud-and-tax
 summarized: true

@@ -1,6 +1,24 @@
 ---
 date: '2025-11-17T12:00:00+00:00'
 images: []
+original_content: Earlier today, at the federal courthouse in Brooklyn, Georgian national
+  Michail Chkhikvishvili, also known as “Mishka,” “Michael,” “Commander Butcher,”
+  and “Butcher,” pleaded guilty to soliciting hate crimes and sending instructions
+  to make bombs and ricin.&nbsp; Chkhikvishvili was a leader of Maniac Murder Cult,
+  an international racially motivated violent extremist group.&nbsp; Chkhikvishvili
+  recruited people to commit violent acts in furtherance of Maniac Murder Cult’s ideologies,
+  including planning and soliciting a mass casualty attack in New&nbsp;York City.&nbsp;
+  In May 2025, Chkhikvishvili was extradited from Moldova to the Eastern District
+  of New York.
+original_markdown_body: Earlier today, at the federal courthouse in Brooklyn, Georgian
+  national Michail Chkhikvishvili, also known as “Mishka,” “Michael,” “Commander Butcher,”
+  and “Butcher,” pleaded guilty to soliciting hate crimes and sending instructions
+  to make bombs and ricin.&nbsp; Chkhikvishvili was a leader of Maniac Murder Cult,
+  an international racially motivated violent extremist group.&nbsp; Chkhikvishvili
+  recruited people to commit violent acts in furtherance of Maniac Murder Cult’s ideologies,
+  including planning and soliciting a mass casualty attack in New&nbsp;York City.&nbsp;
+  In May 2025, Chkhikvishvili was extradited from Moldova to the Eastern District
+  of New York.
 published: false
 source: Department of Justice
 source_url: https://www.justice.gov/opa/pr/leader-white-supremacist-group-pleads-guilty-soliciting-hate-crimes-and-sending-instructions

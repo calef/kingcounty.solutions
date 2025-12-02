@@ -1,6 +1,13 @@
 ---
 date: '2025-11-19T23:08:11+00:00'
 images: []
+original_content: |-
+  <p>After a highly competitive selection process, Seattle Indian Health Board has received major funding to support its work to improve women’s mental and physical health. More than 4,000 organizations from 119 countries applied for the Action for Women’s Health award. “We are grateful to be selected and receive this critical funding, especially during a time &#8230; <a href="https://www.sihb.org/2025/11/seattle-indian-health-board-receives-funding-to-support-indigenous-women/" class="more-link">Continue reading <span class="screen-reader-text">Seattle Indian Health Board Receives Funding to Support Indigenous Women</span></a></p>
+  <p>The post <a href="https://www.sihb.org/2025/11/seattle-indian-health-board-receives-funding-to-support-indigenous-women/">Seattle Indian Health Board Receives Funding to Support Indigenous Women</a> appeared first on <a href="https://www.sihb.org">Seattle Indian Health Board</a>.</p>
+original_markdown_body: |-
+  After a highly competitive selection process, Seattle Indian Health Board has received major funding to support its work to improve women’s mental and physical health. More than 4,000 organizations from 119 countries applied for the Action for Women’s Health award. “We are grateful to be selected and receive this critical funding, especially during a time … [Continue reading Seattle Indian Health Board Receives Funding to Support Indigenous Women](https://www.sihb.org/2025/11/seattle-indian-health-board-receives-funding-to-support-indigenous-women/)
+
+  The post [Seattle Indian Health Board Receives Funding to Support Indigenous Women](https://www.sihb.org/2025/11/seattle-indian-health-board-receives-funding-to-support-indigenous-women/) appeared first on [Seattle Indian Health Board](https://www.sihb.org).
 source: Seattle Indian Health Board
 source_url: https://www.sihb.org/2025/11/seattle-indian-health-board-receives-funding-to-support-indigenous-women/
 summarized: true

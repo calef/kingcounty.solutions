@@ -1,6 +1,10 @@
 ---
 date: '2025-09-29T17:22:36+00:00'
 images: []
+original_content: This September, we join communities around the world in recognizing
+  Suicide Prevention Month, World Suicide Prevention Day, and National...
+original_markdown_body: This September, we join communities around the world in recognizing
+  Suicide Prevention Month, World Suicide Prevention Day, and National...
 source: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/world-suicide-prevention-month
 summarized: true

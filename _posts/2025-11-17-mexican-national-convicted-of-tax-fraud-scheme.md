@@ -1,6 +1,14 @@
 ---
 date: '2025-11-17T12:00:00+00:00'
 images: []
+original_content: Last week, a federal jury in Las Vegas convicted a Mexican national
+  of operating a scheme in which he claimed to be an IRS officer and misrepresented
+  to victims that he was able to obtain hundreds of thousands of dollars for them
+  from a fictitious IRS program.
+original_markdown_body: Last week, a federal jury in Las Vegas convicted a Mexican
+  national of operating a scheme in which he claimed to be an IRS officer and misrepresented
+  to victims that he was able to obtain hundreds of thousands of dollars for them
+  from a fictitious IRS program.
 published: false
 source: Department of Justice
 source_url: https://www.justice.gov/opa/pr/mexican-national-convicted-tax-fraud-scheme

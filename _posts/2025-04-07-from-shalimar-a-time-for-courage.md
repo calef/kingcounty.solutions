@@ -1,6 +1,82 @@
 ---
 date: '2025-04-07T20:46:48+00:00'
 images: []
+original_content: |-
+  <p><img width="361" height="255" src="https://s14621.pcdn.co/wp-content/uploads/2025/04/ShalimarGonzales-50thGala_Converge-JS_5.8.24-41x801-1-361x255.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="A woman in a bright yellow sports coat gestures with her hands while speaking at a lecturn." decoding="async" srcset="https://s14621.pcdn.co/wp-content/uploads/2025/04/ShalimarGonzales-50thGala_Converge-JS_5.8.24-41x801-1-361x255.jpg 361w, https://s14621.pcdn.co/wp-content/uploads/2025/04/ShalimarGonzales-50thGala_Converge-JS_5.8.24-41x801-1-300x212.jpg 300w, https://s14621.pcdn.co/wp-content/uploads/2025/04/ShalimarGonzales-50thGala_Converge-JS_5.8.24-41x801-1-768x543.jpg 768w, https://s14621.pcdn.co/wp-content/uploads/2025/04/ShalimarGonzales-50thGala_Converge-JS_5.8.24-41x801-1.jpg 801w" sizes="(max-width: 361px) 100vw, 361px" data-attachment-id="69013" data-permalink="https://www.solid-ground.org/from-shalimar-a-time-for-courage/shalimargonzales-50thgala_converge-js_5-8-24-41x801/" data-orig-file="https://s14621.pcdn.co/wp-content/uploads/2025/04/ShalimarGonzales-50thGala_Converge-JS_5.8.24-41x801-1.jpg" data-orig-size="801,566" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.8&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;X-H2S&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1715219571&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;119.2&quot;,&quot;iso&quot;:&quot;1600&quot;,&quot;shutter_speed&quot;:&quot;0.008&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="ShalimarGonzales-50thGala_Converge-JS_5.8.24-41&#215;801" data-image-description="" data-image-caption="&lt;p&gt;Shalimar Gonzales at Solid Ground&#8217;s 50th Anniversary Gala in 2024. (Photo by Jordan Somers, Converge Media)&lt;/p&gt;
+  " data-medium-file="https://s14621.pcdn.co/wp-content/uploads/2025/04/ShalimarGonzales-50thGala_Converge-JS_5.8.24-41x801-1-300x212.jpg" data-large-file="https://s14621.pcdn.co/wp-content/uploads/2025/04/ShalimarGonzales-50thGala_Converge-JS_5.8.24-41x801-1.jpg" /></p><h4 class="tmc-medium"><span style="color: #4d5909;"><em>Dear friends, </em></span></h4>
+  <p><span class="tmc-serif-subhead"><span style="color: #595959;">If you’re like me, you&#8217;ve probably spent the last few months alternating between feelings of fear, loss, and anger as each day brings new threats to the institutions and values we once took for granted.</span></span></p>
+  <p><span data-contrast="auto">This is not a moment for equivocation, so I’ll be blunt: Things are happening in our nation’s capital and across the country today that pose a grave threat to the freedom and wellbeing of every one of us – but particularly the immigrant, LGBTQ, and BIPOC communities that are so often vulnerable and marginalized even in the best of times. </span><span data-ccp-props="{}"> </span></p>
+  <blockquote class="tmc-quote"><p><span style="color: #4d5909;" data-contrast="auto">&#8220;What we do know is this: We have entered a time that demands courage from each of us.&#8221;</span></p>
+  <p class="tmc-caption" style="text-align: right;"><span class="tmc-subhead-semi"><span style="color: #595959;" data-contrast="auto">~Shalimar Gonzales, Solid Ground CEO</span></span></p>
+  </blockquote>
+  <p><span data-contrast="auto">The onslaught of unilateral executive orders, funding cuts, and mass firings coming from the White House – though currently blocked by the courts in some cases – have the potential to rapidly erode our community’s ability to keep our most vulnerable neighbors fed, housed, and healthy. For many of us, they have already made it difficult, even dangerous, to exist as our full selves, without fear or prejudice. </span><span data-ccp-props="{}"> </span></p>
+  <p><span data-contrast="auto">And yet, we still don’t know which of these threatened actions will actually take place. We don’t know what proposed federal budget cuts will mean for the agencies, programs, and services on which so many of us rely. We don’t know what else may come next.</span><span data-ccp-props="{}"> </span></p>
+  <p><span data-contrast="auto">What we do know is this: We have entered a time that demands courage from each of us.</span><span data-ccp-props="{}"> </span></p>
+  <p><span data-contrast="auto">For Solid Ground, this means we will not capitulate in the face of threats from our federal government. Our commitment to countering racism and other forms of oppression is literally written into </span><a href="https://www.solid-ground.org/mission/"><b><span data-contrast="auto">our mission</span></b></a><span data-contrast="auto">. We have no intention of backing away from this work – not now or ever.</span><span data-ccp-props="{}"> </span></p>
+  <p><span data-contrast="auto">I say this knowing that organizations like Solid Ground are already squarely in</span><span data-contrast="auto"> </span> <span data-contrast="auto">the crosshairs of this administration. One of its first acts – though quickly rescinded – was to try to freeze all federal grants and loans to nonprofits like ours. When a judge blocked that order, the administration issued a memo demanding a review of all federal funding to nonprofits to assure that they align with its “goals and priorities.”</span><span data-ccp-props="{}"> </span></p>
+  <blockquote class="tmc-quote"><p><span style="color: #4d5909;" data-contrast="auto">&#8220;Our commitment to countering racism and other forms of oppression is literally written into <b>our mission</b>, and we have no intention of backing away from this work – not now or ever. &#8220;</span></p>
+  <p class="tmc-caption" style="text-align: right;"><span class="tmc-subhead-semi"><span style="color: #595959;">~Shalimar Gonzales, Solid Ground CEO</span></span></p>
+  </blockquote>
+  <p><span data-contrast="auto">Solid Ground relies on a diversity of both public and private support, but a cut to our federal funding would still threaten our ability to assure that thousands of people in King County are housed, fed, and able to pay their bills and get where they need to go. With our federal funding increasingly at risk, we will be leaning even more heavily on the partnership and generosity of our community to ensure that we can continue to provide these crucial services.</span><span data-ccp-props="{}"> </span></p>
+  <p><span data-contrast="auto">In the coming months and years, our goal will be to reduce, as much as possible, the harm that this federal administration inflicts on our neighbors. Already, we are doubling investments in our community’s food access networks, connecting residents of Solid Ground housing with onsite behavioral health support, and partnering with other nonprofits to protect tenant rights. Going forward, we may also face difficult choices that impact our staff, participants, and residents, but that</span> <span data-contrast="auto">will never mean abandoning the values and mission that makes Solid Ground who we are. </span><span data-ccp-props="{}"> </span></p>
+  <p><span data-contrast="auto">I hope you have the courage to stand with us &#8211; because courage matters in moments like this.</span><span data-ccp-props="{}"> </span></p>
+  <p>In Community,</p>
+  <p><img loading="lazy" decoding="async" data-attachment-id="69018" data-permalink="https://www.solid-ground.org/from-shalimar-a-time-for-courage/smg_signature_transparent-blackx200/" data-orig-file="https://s14621.pcdn.co/wp-content/uploads/2025/04/SMG_signature_transparent-blackx200.png" data-orig-size="200,78" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="SMG_signature_transparent blackx200" data-image-description="" data-image-caption="" data-medium-file="https://s14621.pcdn.co/wp-content/uploads/2025/04/SMG_signature_transparent-blackx200.png" data-large-file="https://s14621.pcdn.co/wp-content/uploads/2025/04/SMG_signature_transparent-blackx200.png" class="size-full wp-image-69018 alignnone" src="https://s14621.pcdn.co/wp-content/uploads/2025/04/SMG_signature_transparent-blackx200.png" alt="The signature of Shalimar Gonzales" width="200" height="78" /></p>
+  <p>Shalimar Gonzales<br />
+  Solid Ground CEO</p>
+  <hr />
+  <p class="tmc-caption"><strong>Image at top:</strong> Shalimar Gonzales at Solid Ground&#8217;s 50th Anniversary Gala in 2024 (photo by Jordan Somers, Converge Media)</p>The post <a href="https://www.solid-ground.org/from-shalimar-a-time-for-courage/">From Shalimar: A time for courage</a> appeared first on <a href="https://www.solid-ground.org">Solid Ground</a>.
+original_markdown_body: "![A woman in a bright yellow sports coat gestures with her
+  hands while speaking at a lecturn.](https://s14621.pcdn.co/wp-content/uploads/2025/04/ShalimarGonzales-50thGala_Converge-JS_5.8.24-41x801-1-361x255.jpg)\n\n####
+  _Dear friends,&nbsp;_\n\nIf you’re like me, you’ve probably spent the last few months
+  alternating between feelings of fear, loss, and anger as each day brings new threats
+  to the institutions and values we once took for granted.\n\nThis is not a moment
+  for equivocation, so I’ll be blunt: Things are happening in our nation’s capital
+  and across the country today that pose a grave threat to the freedom and wellbeing
+  of every one of us – but particularly the immigrant, LGBTQ, and BIPOC communities
+  that are so often vulnerable and marginalized even in the best of times.&nbsp;&nbsp;\n\n>
+  “What we do know is this: We have entered a time that demands courage from each
+  of us.”\n> \n> ~Shalimar Gonzales, Solid Ground CEO\n\nThe onslaught of unilateral
+  executive orders, funding cuts, and mass firings coming from the White House – though
+  currently blocked by the courts in some cases – have the potential to rapidly erode
+  our community’s ability to keep our most vulnerable neighbors fed, housed, and healthy.
+  For many of us, they have already made it difficult, even dangerous, to exist as
+  our full selves, without fear or prejudice. &nbsp;\n\nAnd yet, we still don’t know
+  which of these threatened actions will actually take place. We don’t know what proposed
+  federal budget cuts will mean for the agencies, programs, and services on which
+  so many of us rely. We don’t know what else may come next.&nbsp;\n\nWhat we do know
+  is this: We have entered a time that demands courage from each of us.&nbsp;\n\nFor
+  Solid Ground, this means we will not capitulate in the face of threats from our
+  federal government. Our commitment to countering racism and other forms of oppression
+  is literally written into [**our mission**](https://www.solid-ground.org/mission/).
+  We have no intention of backing away from this work – not now or ever.&nbsp;\n\nI
+  say this knowing that organizations like Solid Ground are already squarely in&nbsp;
+  the crosshairs of this administration. One of its first acts – though quickly rescinded
+  – was to try to freeze all federal grants and loans to nonprofits like ours. When
+  a judge blocked that order, the administration issued a memo demanding a review
+  of all federal funding to nonprofits to assure that they align with its “goals and
+  priorities.”&nbsp;\n\n> “Our commitment to countering racism and other forms of
+  oppression is literally written into **our mission** , and we have no intention
+  of backing away from this work – not now or ever. “\n> \n> ~Shalimar Gonzales, Solid
+  Ground CEO\n\nSolid Ground relies on a diversity of both public and private support,
+  but a cut to our federal funding would still threaten our ability to assure that
+  thousands of people in King County are housed, fed, and able to pay their bills
+  and get where they need to go. With our federal funding increasingly at risk, we
+  will be leaning even more heavily on the partnership and generosity of our community
+  to ensure that we can continue to provide these crucial services.&nbsp;\n\nIn the
+  coming months and years, our goal will be to reduce, as much as possible, the harm
+  that this federal administration inflicts on our neighbors. Already, we are doubling
+  investments in our community’s food access networks, connecting residents of Solid
+  Ground housing with onsite behavioral health support, and partnering with other
+  nonprofits to protect tenant rights. Going forward, we may also face difficult choices
+  that impact our staff, participants, and residents, but that will never mean abandoning
+  the values and mission that makes Solid Ground who we are. &nbsp;\n\nI hope you
+  have the courage to stand with us – because courage matters in moments like this.&nbsp;\n\nIn
+  Community,\n\n![The signature of Shalimar Gonzales](https://s14621.pcdn.co/wp-content/uploads/2025/04/SMG_signature_transparent-blackx200.png)\n\nShalimar
+  Gonzales  \nSolid Ground CEO\n\n* * *\n\n**Image at top:** Shalimar Gonzales at
+  Solid Ground’s 50th Anniversary Gala in 2024 (photo by Jordan Somers, Converge Media)\n\nThe
+  post [From Shalimar: A time for courage](https://www.solid-ground.org/from-shalimar-a-time-for-courage/)
+  appeared first on [Solid Ground](https://www.solid-ground.org)."
 source: Solid Ground
 source_url: https://www.solid-ground.org/from-shalimar-a-time-for-courage/
 summarized: true

@@ -1,6 +1,13 @@
 ---
 date: '2025-07-15T22:18:00+00:00'
 images: []
+original_content: |-
+  <p>St. Peter’s Methodist Church and Imagine Housing want to build a 108-unit multifamily community at the church’s 4.6-acre property in Bellevue’s Crossroads<span class="excerpt-hellip"> […]</span></p>
+  <p>The post <a href="https://imaginehousing.org/more-affordable-housing-proposed-for-church-owned-land-in-bellevue/">More affordable housing proposed for church-owned land in Bellevue</a> appeared first on <a href="https://imaginehousing.org">Imagine Housing</a>.</p>
+original_markdown_body: |-
+  St. Peter’s Methodist Church and Imagine Housing want to build a 108-unit multifamily community at the church’s 4.6-acre property in Bellevue’s Crossroads […]
+
+  The post [More affordable housing proposed for church-owned land in Bellevue](https://imaginehousing.org/more-affordable-housing-proposed-for-church-owned-land-in-bellevue/) appeared first on [Imagine Housing](https://imaginehousing.org).
 source: Imagine Housing
 source_url: https://imaginehousing.org/more-affordable-housing-proposed-for-church-owned-land-in-bellevue/
 summarized: true

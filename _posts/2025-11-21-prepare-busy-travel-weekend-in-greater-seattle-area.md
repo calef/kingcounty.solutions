@@ -1,6 +1,10 @@
 ---
 date: '2025-11-21T01:24:09-08:00'
 images: []
+original_content: SEATTLE – Work includes Revive I-5 lane reductions, an eastbound
+  SR 520 closure to Montlake and I-405/SR 522 ramp closures
+original_markdown_body: SEATTLE – Work includes Revive I-5 lane reductions, an eastbound
+  SR 520 closure to Montlake and I-405/SR 522 ramp closures
 published: false
 source: Washington State Department of Transportation
 source_url: https://wsdot.wa.gov/about/news/2025/prepare-busy-travel-weekend-greater-seattle-area

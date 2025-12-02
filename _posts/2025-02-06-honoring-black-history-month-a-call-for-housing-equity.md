@@ -1,6 +1,37 @@
 ---
 date: '2025-02-06T18:20:41+00:00'
 images: []
+original_content: "![](https://sophiaway.org/wp-content/uploads/2025/02/Image-BHM-2025-02.png)\n\nAs
+  we commemorate Black History Month, **The Sophia Way recognizes the deep-rooted
+  systemic barriers that have disproportionately impacted Black individuals in experiencing
+  homelessness**. According to the 2024 Point-in-Time Count, 19% of individuals experiencing
+  homelessness in King County identify as Black or African American, despite making
+  up only 6% of the county’s general population, as reported in the 2020 U.S. Census.\n\nA
+  history of discriminatory housing practices, such as redlining, along with socioeconomic
+  disparities and the lasting impact of incarceration, continue to create significant
+  barriers to stable housing. **Homelessness and the increasing lack of affordable
+  housing are not just housing issues, but a racial justice issue.**\n\nAt The Sophia
+  Way, we see these disparities firsthand. **Nearly 54% of the women we serve are
+  women of color** , many of whom face challenging barriers to securing stable housing
+  – systemic inequities, income disparities, and a severe shortage of affordable housing
+  options. These challenges are the lived realities of the women walking through our
+  doors every day.\n\nAdditionally, a significant percentage of The Sophia Way’s staff
+  are women of color, many of whom have experienced similar challenges as the women
+  they serve. Their lived experiences not only inform their work but also reinforce
+  our commitment to advocating housing for all.\n\nThe Sophia Way’s mission is to
+  be a place of hope and change for women experiencing homelessness. We advocate for
+  systemic changes that will make it possible for all women to have a place to call
+  home. This Black History Month, **we invite you to take action** – advocate for
+  housing equity and support policies that expand affordable housing – to ensure that
+  everyone, regardless of race or economics, has access to housing.\n\nThis February,
+  we also invite you to **make a difference by supporting women with hair care products
+  for Black and textured hair.** These hair care products are often expensive and
+  hard to find, yet they are essential for proper hair health and dignity for the
+  women we serve. We’re hosting a donation drive throughout the month to ensure everyone
+  can access the products they need. You can find our requested items and a list of
+  local black-owned small businesses on our **[webpage here](https://sophiaway.org/bhm-drive/).&nbsp;**\n\n>
+  \n\nThe post [Honoring Black History Month: A Call for Housing Equity](https://sophiaway.org/bhm-2025/)
+  first appeared on [The Sophia Way](https://sophiaway.org)."
 source: The Sophia Way
 source_url: https://sophiaway.org/bhm-2025/?utm_source=rss&utm_medium=rss&utm_campaign=bhm-2025
 summarized: true

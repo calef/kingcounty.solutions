@@ -1,6 +1,10 @@
 ---
 date: '2025-07-07T17:00:15+00:00'
 images: []
+original_content: Rosie's Tiny House Village Grand Opening On July 2nd, a community
+  celebration was held to mark the grand re-opening of Rosie’s Village....
+original_markdown_body: Rosie's Tiny House Village Grand Opening On July 2nd, a community
+  celebration was held to mark the grand re-opening of Rosie’s Village....
 source: Low Income Housing Institute
 source_url: https://www.lihihousing.org/post/lihi-celebrates-rosie-s-tiny-house-village-grand-opening-and-seattle-pride
 summarized: true

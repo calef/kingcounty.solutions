@@ -5,6 +5,578 @@ images:
 - 04f1be4fa26dc0686eed29e59c74a1d075fe7648f44ef817769a750773a4dc78
 - 9de747312803d9ac29b298c780395792dc73364560482134e5a86ae577d7eab4
 - 2fd7214c50fe7b174faad76e0d3264cca092195ee5bcc1e1c878bb63fcacdd8c
+original_content: "<p><img width=\"361\" height=\"255\" src=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreneSmilingWIthCamera-RGB-801x566-1-361x255.jpg\"
+  class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Portrait
+  of a Black woman with short locs wearing a beige collared shirt, and holding a camera
+  in her hands.\" decoding=\"async\" srcset=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreneSmilingWIthCamera-RGB-801x566-1-361x255.jpg
+  361w, https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreneSmilingWIthCamera-RGB-801x566-1-300x212.jpg
+  300w, https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreneSmilingWIthCamera-RGB-801x566-1-768x543.jpg
+  768w, https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreneSmilingWIthCamera-RGB-801x566-1.jpg
+  801w\" sizes=\"(max-width: 361px) 100vw, 361px\" data-attachment-id=\"70084\" data-permalink=\"https://www.solid-ground.org/a-space-to-heal-and-flourish/florenesmilingwithcamera-rgb-801x566/\"
+  data-orig-file=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreneSmilingWIthCamera-RGB-801x566-1.jpg\"
+  data-orig-size=\"801,566\" data-comments-opened=\"1\" data-image-meta=\"{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}\"
+  data-image-title=\"FloreneSmilingWIthCamera-RGB-801&#215;566\" data-image-description=\"\"
+  data-image-caption=\"&lt;p&gt;Photographer Florene Jimerson now has the stability
+  and healing space to pursue her creative dreams. (Credit: Converge Media)&lt;/p&gt;\n\"
+  data-medium-file=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreneSmilingWIthCamera-RGB-801x566-1-300x212.jpg\"
+  data-large-file=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreneSmilingWIthCamera-RGB-801x566-1.jpg\"
+  /></p><p><span class=\"tmc-serif-subhead\" style=\"color: #595959;\">From her apartment
+  perched on a hill in the Central District, photographer Florene Jimerson has a sweeping
+  view of the rapidly gentrifying neighborhood where she grew up, the two sports stadiums
+  where she works at Ivar’s seafood bars, and even a bit of the water of Elliott Bay
+  beyond it all.</span></p>\n<div id=\"attachment_70108\" style=\"width: 410px\" class=\"wp-caption
+  alignright\"><img loading=\"lazy\" decoding=\"async\" aria-describedby=\"caption-attachment-70108\"
+  data-attachment-id=\"70108\" data-permalink=\"https://www.solid-ground.org/a-space-to-heal-and-flourish/florestill-diversion-converge-1-rgb-400px/\"
+  data-orig-file=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreStill-Diversion-Converge-1-RGB-400px.jpg\"
+  data-orig-size=\"400,400\" data-comments-opened=\"1\" data-image-meta=\"{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}\"
+  data-image-title=\"FloreStill-Diversion-(Converge)-1-RGB-400px\" data-image-description=\"\"
+  data-image-caption=\"&lt;p&gt;Florene takes great pride and joy in her home. (Credit:
+  Converge Media)&lt;/p&gt;\n\" data-medium-file=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreStill-Diversion-Converge-1-RGB-400px-300x300.jpg\"
+  data-large-file=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreStill-Diversion-Converge-1-RGB-400px.jpg\"
+  class=\"size-full wp-image-70108\" src=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreStill-Diversion-Converge-1-RGB-400px.jpg\"
+  alt=\"Portrait of a young woman in a tan jacket on her apartment deck, with a beaming
+  smile on her face and her hands clasped.\" width=\"400\" height=\"400\" srcset=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreStill-Diversion-Converge-1-RGB-400px.jpg
+  400w, https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreStill-Diversion-Converge-1-RGB-400px-300x300.jpg
+  300w, https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreStill-Diversion-Converge-1-RGB-400px-150x150.jpg
+  150w\" sizes=\"(max-width: 400px) 100vw, 400px\" /><p id=\"caption-attachment-70108\"
+  class=\"wp-caption-text\">Florene takes great pride and joy in her home. (Credit:
+  Converge Media)</p></div>\n<p>The apartment has one bedroom, a tiny kitchen, and
+  plenty of room for her growing collection of cameras, prints, and boxes of developed
+  film. But most importantly, it has a sense of stability that Florene has rarely
+  had the opportunity to enjoy.</p>\n<p>A 26-year-old Seattle native, Florene grew
+  up experiencing frequent cycles of displacement and homelessness as her family struggled
+  to find their place in a neighborhood and city that was changing around them, becoming
+  more expensive and less welcoming to the Black communities that had long thrived
+  here.</p>\n<p>“My childhood was just experiencing all the dysfunction of broken
+  cycles at home – and with so many different people – because my parents have very
+  big hearts too,” she says. “We always had my siblings and aunts, cousins, uncles,
+  friends. They always let them come over whenever they needed somewhere to stay.”</p>\n<p>At
+  18, Florene moved into her own apartment and swore she would never be homeless again.
+  But five years later, when it became clear that her landlord wasn’t going to do
+  anything about the black mold that had spread from the walls of the apartment into
+  her clothes, she found herself back in the situation she most wanted to avoid.</p>\n<p><iframe
+  title=\"Florene&#039;s Story: Building Pathways Beyond Poverty\" width=\"500\" height=\"281\"
+  src=\"https://www.youtube.com/embed/AMZBuVU4KS8?feature=oembed\" frameborder=\"0\"
+  allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;
+  web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen></iframe></p>\n<p>After
+  eight months of living on couches and in her car, Florene found an apartment she
+  could afford back in her old neighborhood. She was offered the apartment but didn’t
+  have the thousands of dollars she needed to cover the landlord’s required move-in
+  costs – the only thing keeping her from the stability she so desperately wanted.</p>\n<p>“I
+  was homeless even though I had a job, even though I had everything – no addictions,
+  no abusive habits – that you need to be able to be healthy and living in a home.”
+  So she began looking for help and eventually connected with Solid Ground. Almost
+  immediately, she got a call back from Stabilization Services’ Celestine Berrysmith
+  and Akeela O’Dell, who said they could cover her move-in costs and work with her
+  new landlord to make sure they’d accept the payments.</p>\n<blockquote class=\"tmc-quote\"><p><span
+  style=\"color: #4d5909;\"> “I see it as a space for me to heal from it all – the
+  trauma and abuse. It’s a place for me to be safe from the outside, a place for me
+  to warm up, a place for me to edit my pictures, a place for me to grow, and a place
+  for me to build. And that’s what’s going to allow me to really flourish.” </span></p>\n<p
+  style=\"text-align: right;\"><span class=\"tmc-subhead-semi\"><span style=\"color:
+  #595959;\"><em>~Florene Jimerson, photographer</em></span></span></p>\n</blockquote>\n<p>Soon,
+  Florene was in her new apartment, adamant that with new tools, boundaries, and financial
+  experience, she would never again experience homelessness. “I see it as a space
+  for me to heal from it all – the trauma and abuse. It’s a place for me to be safe
+  from the outside, a place for me to warm up, a place for me to edit my pictures,
+  a place for me to grow, and a place for me to build. And that’s what’s going to
+  allow me to really flourish.”</p>\n<h4 class=\"tmc-paragraph tmc-medium\"><span
+  style=\"color: #4d5909;\">Florene Jimerson Photography</span></h4>\n<style>#jtg-70118
+  .modula-item .jtg-social a, .lightbox-socials.jtg-social a{ fill: #ffffff; color:
+  #ffffff }#jtg-70118 .modula-item .jtg-social-expandable a, #jtg-70118 .modula-item
+  .jtg-social-expandable-icons a{ fill: #ffffff; color: #ffffff }#jtg-70118 .modula-item
+  .jtg-social svg, .lightbox-socials.jtg-social svg { height: 16px; width: 16px }#jtg-70118
+  .modula-item .jtg-social-expandable svg { height: 16px; width: 16px }#jtg-70118
+  .modula-item .jtg-social-expandable-icons svg { height: 16px; width: 16px }#jtg-70118
+  .modula-item .jtg-social a:not(:last-child), .lightbox-socials.jtg-social a:not(:last-child)
+  { margin-right: 10px }#jtg-70118 .modula-item .jtg-social-expandable-icons { gap:
+  10px }#jtg-70118 .modula-item .figc {color:#ffffff;}#jtg-70118 .modula-item .figc
+  .jtg-title {  font-size: 16px; }#jtg-70118 .modula-item .modula-item-content { transform:
+  scale(1); }#jtg-70118 { width:100%;}#jtg-70118 .modula-items{height:800px;}@media
+  screen and (max-width: 992px) {#jtg-70118 .modula-items{height:800px;}}@media screen
+  and (max-width: 768px) {#jtg-70118 .modula-items{height:800px;}}#jtg-70118 .modula-items
+  .figc p.description { font-size:14px; }#jtg-70118 .modula-items .figc p.description
+  { color:#ffffff;}#jtg-70118 .modula-items .figc .jtg-title { color:#ffffff; }#jtg-70118.modula-gallery
+  .modula-item > a, #jtg-70118.modula-gallery .modula-item, #jtg-70118.modula-gallery
+  .modula-item-content > a:not(.modula-no-follow) { cursor:zoom-in; } #jtg-70118.modula-gallery
+  .modula-item-content .modula-no-follow { cursor: default; } @media screen and (max-width:480px){#jtg-70118
+  .modula-item .figc .jtg-title {  font-size: 12px; }#jtg-70118 .modula-items .figc
+  p.description { color:#ffffff;font-size:10px; }}</style>\n<div  id=\"jtg-70118\"
+  class=\"modula modula-gallery modula-creative-gallery\" data-config=\"{&quot;height&quot;:800,&quot;tabletHeight&quot;:800,&quot;mobileHeight&quot;:800,&quot;desktopHeight&quot;:800,&quot;enableTwitter&quot;:false,&quot;enableWhatsapp&quot;:false,&quot;enableFacebook&quot;:false,&quot;enablePinterest&quot;:false,&quot;enableLinkedin&quot;:false,&quot;enableEmail&quot;:false,&quot;randomFactor&quot;:0.5,&quot;type&quot;:&quot;creative-gallery&quot;,&quot;columns&quot;:12,&quot;gutter&quot;:10,&quot;mobileGutter&quot;:10,&quot;tabletGutter&quot;:10,&quot;desktopGutter&quot;:10,&quot;enableResponsive&quot;:&quot;0&quot;,&quot;tabletColumns&quot;:2,&quot;mobileColumns&quot;:1,&quot;lazyLoad&quot;:0,&quot;lightboxOpts&quot;:{&quot;animated&quot;:true,&quot;Thumbs&quot;:{&quot;type&quot;:&quot;modern&quot;,&quot;showOnStart&quot;:false},&quot;Toolbar&quot;:{&quot;display&quot;:{&quot;right&quot;:[&quot;close&quot;]},&quot;enabled&quot;:true},&quot;Carousel&quot;:{&quot;Panzoom&quot;:{&quot;touch&quot;:false},&quot;infinite&quot;:false},&quot;keyboard&quot;:{&quot;Escape&quot;:&quot;close&quot;,&quot;Delete&quot;:&quot;close&quot;,&quot;Backspace&quot;:&quot;close&quot;,&quot;PageUp&quot;:false,&quot;PageDown&quot;:false,&quot;ArrowUp&quot;:false,&quot;ArrowDown&quot;:false,&quot;ArrowRight&quot;:false,&quot;ArrowLeft&quot;:false},&quot;touch&quot;:false,&quot;backdropClick&quot;:false,&quot;l10n&quot;:{&quot;CLOSE&quot;:&quot;Close&quot;,&quot;NEXT&quot;:&quot;Next&quot;,&quot;PREV&quot;:&quot;Previous&quot;,&quot;Error&quot;:&quot;The
+  requested content cannot be loaded. Please try again later.&quot;,&quot;PLAY_START&quot;:&quot;Start
+  slideshow&quot;,&quot;PLAY_STOP&quot;:&quot;Pause slideshow&quot;,&quot;FULL_SCREEN&quot;:&quot;Full
+  screen&quot;,&quot;THUMBS&quot;:&quot;Thumbnails&quot;,&quot;DOWNLOAD&quot;:&quot;Download&quot;,&quot;SHARE&quot;:&quot;Share&quot;,&quot;ZOOM&quot;:&quot;Zoom&quot;,&quot;EMAIL&quot;:&quot;Here
+  is the link to the image : %%image_link%% and this is the link to the gallery :
+  %%gallery_link%%&quot;,&quot;MODAL&quot;:&quot;You can close this modal content
+  with the ESC key&quot;,&quot;ERROR&quot;:&quot;Something Went Wrong, Please Try
+  Again Later&quot;,&quot;IMAGE_ERROR&quot;:&quot;Image Not Found&quot;,&quot;ELEMENT_NOT_FOUND&quot;:&quot;HTML
+  Element Not Found&quot;,&quot;AJAX_NOT_FOUND&quot;:&quot;Error Loading AJAX : Not
+  Found&quot;,&quot;AJAX_FORBIDDEN&quot;:&quot;Error Loading AJAX : Forbidden&quot;,&quot;IFRAME_ERROR&quot;:&quot;Error
+  Loading Page&quot;,&quot;TOGGLE_ZOOM&quot;:&quot;Toggle zoom level&quot;,&quot;TOGGLE_THUMBS&quot;:&quot;Toggle
+  thumbnails&quot;,&quot;TOGGLE_SLIDESHOW&quot;:&quot;Toggle slideshow&quot;,&quot;TOGGLE_FULLSCREEN&quot;:&quot;Toggle
+  full-screen mode&quot;},&quot;Images&quot;:{&quot;Panzoom&quot;:{&quot;maxScale&quot;:2}},&quot;mainClass&quot;:&quot;modula-fancybox-container
+  modula-lightbox-jtg-70118&quot;,&quot;Html&quot;:{&quot;videoAutoplay&quot;:0,&quot;videoTpl&quot;:&quot;&lt;video
+  class=\\&quot;fancybox__html5video\\&quot; controls muted playsinline controlsList
+  controlsList=\\&quot;nodownload\\&quot; poster=\\&quot;{{poster}}\\&quot; src=\\&quot;{{src}}\\&quot;
+  type=\\&quot;{{format}}\\&quot; &gt;  Sorry, your browser doesn&#039;t support embedded
+  videos, &lt;a href=\\&quot;{{src}}\\&quot;&gt; download &lt;\\/a&gt; and watch with
+  your favorite video player! &lt;\\/video&gt;&quot;}},&quot;inView&quot;:false,&quot;email_subject&quot;:&quot;Check
+  out this awesome image !!&quot;,&quot;email_message&quot;:&quot;Here is the link
+  to the image : %%image_link%% and this is the link to the gallery : %%gallery_link%%&quot;,&quot;lightbox&quot;:&quot;fancybox&quot;}\">\n\n\t\n\t<div
+  \ class=\"modula-items\">\n\t\t<div class=\"modula-item effect-pufrobo\" >\n\t<div
+  class=\"modula-item-overlay\"></div>\n\n\t<div class=\"modula-item-content\">\n\n\t\t\t\t\n\t\t\t\t\t<a
+  role=\"button\" data-elementor-open-lightbox=\"no\" tabindex=\"0\" rel=\"jtg-70118\"
+  data-caption=\"CHAIN LINK FENCE – Downtown Seattle (Florene Jimerson)\" aria-label=\"Open
+  image in lightbox\" class=\"tile-inner modula-item-link\"></a>\n\t\t\n\t\t<img loading=\"lazy\"
+  decoding=\"async\" class=\"pic wp-image-70094\"  data-valign=\"middle\" data-halign=\"center\"
+  alt=\"Black and white photo of a sunken construction site\" data-full=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/Chainlink-Fence-Florene-Jimerson-Photography-801w.jpg\"
+  title=\"Chainlink-Fence-Florene-Jimerson-Photography-801w\" width=\"300\" height=\"199\"
+  src=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/Chainlink-Fence-Florene-Jimerson-Photography-801w-300x199.jpg\"
+  data-src=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/Chainlink-Fence-Florene-Jimerson-Photography-801w-300x199.jpg\"
+  data-caption=\"CHAIN LINK FENCE – Downtown Seattle (Florene Jimerson)\" srcset=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/Chainlink-Fence-Florene-Jimerson-Photography-801w-300x199.jpg
+  300w, https://s14621.pcdn.co/wp-content/uploads/2025/06/Chainlink-Fence-Florene-Jimerson-Photography-801w-768x509.jpg
+  768w, https://s14621.pcdn.co/wp-content/uploads/2025/06/Chainlink-Fence-Florene-Jimerson-Photography-801w.jpg
+  801w\" sizes=\"(max-width: 300px) 100vw, 300px\" />\n\t\t<div class=\"figc\">\n\t\t\t<div
+  class=\"figc-inner\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<p class=\"description\">CHAIN
+  LINK FENCE – Downtown Seattle (Florene Jimerson)</p>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t</div>\n\n\t</div>\n\n</div><div
+  class=\"modula-item effect-pufrobo\" >\n\t<div class=\"modula-item-overlay\"></div>\n\n\t<div
+  class=\"modula-item-content\">\n\n\t\t\t\t\n\t\t\t\t\t<a role=\"button\" data-elementor-open-lightbox=\"no\"
+  tabindex=\"0\" rel=\"jtg-70118\" data-caption=\"TREE – Fort Columbia State Park
+  (Florene Jimerson)\" aria-label=\"Open image in lightbox\" class=\"tile-inner modula-item-link\"></a>\n\t\t\n\t\t<img
+  loading=\"lazy\" decoding=\"async\" class=\"pic wp-image-70101\"  data-valign=\"middle\"
+  data-halign=\"center\" alt=\"Black and white photo looking up in the branches of
+  a large tree, double exposed.\" data-full=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/Tree-FloreneJimerson-801w.jpg\"
+  title=\"Tree-FloreneJimerson-801w\" width=\"300\" height=\"199\" src=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/Tree-FloreneJimerson-801w-300x199.jpg\"
+  data-src=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/Tree-FloreneJimerson-801w-300x199.jpg\"
+  data-caption=\"TREE – Fort Columbia State Park (Florene Jimerson)\" srcset=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/Tree-FloreneJimerson-801w-300x199.jpg
+  300w, https://s14621.pcdn.co/wp-content/uploads/2025/06/Tree-FloreneJimerson-801w-768x509.jpg
+  768w, https://s14621.pcdn.co/wp-content/uploads/2025/06/Tree-FloreneJimerson-801w.jpg
+  801w\" sizes=\"(max-width: 300px) 100vw, 300px\" />\n\t\t<div class=\"figc\">\n\t\t\t<div
+  class=\"figc-inner\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<p class=\"description\">TREE –
+  Fort Columbia State Park (Florene Jimerson)</p>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t</div>\n\n\t</div>\n\n</div><div
+  class=\"modula-item effect-pufrobo\" >\n\t<div class=\"modula-item-overlay\"></div>\n\n\t<div
+  class=\"modula-item-content\">\n\n\t\t\t\t\n\t\t\t\t\t<a role=\"button\" data-elementor-open-lightbox=\"no\"
+  tabindex=\"0\" rel=\"jtg-70118\" data-caption=\"SKATEBOARD PARK – Jefferson Park,
+  Seattle (Florene Jimerson)\" aria-label=\"Open image in lightbox\" class=\"tile-inner
+  modula-item-link\"></a>\n\t\t\n\t\t<img loading=\"lazy\" decoding=\"async\" class=\"pic
+  wp-image-70100\"  data-valign=\"middle\" data-halign=\"center\" alt=\"Photo of youth
+  at a skate park in golden afternoon light.\" data-full=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/SkateboardPark-FloreneJimerson-801w.jpg\"
+  title=\"SkateboardPark-FloreneJimerson-801w\" width=\"300\" height=\"199\" src=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/SkateboardPark-FloreneJimerson-801w-300x199.jpg\"
+  data-src=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/SkateboardPark-FloreneJimerson-801w-300x199.jpg\"
+  data-caption=\"SKATEBOARD PARK – Jefferson Park, Seattle (Florene Jimerson)\" srcset=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/SkateboardPark-FloreneJimerson-801w-300x199.jpg
+  300w, https://s14621.pcdn.co/wp-content/uploads/2025/06/SkateboardPark-FloreneJimerson-801w-768x509.jpg
+  768w, https://s14621.pcdn.co/wp-content/uploads/2025/06/SkateboardPark-FloreneJimerson-801w.jpg
+  801w\" sizes=\"(max-width: 300px) 100vw, 300px\" />\n\t\t<div class=\"figc\">\n\t\t\t<div
+  class=\"figc-inner\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<p class=\"description\">SKATEBOARD
+  PARK – Jefferson Park, Seattle (Florene Jimerson)</p>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t</div>\n\n\t</div>\n\n</div><div
+  class=\"modula-item effect-pufrobo\" >\n\t<div class=\"modula-item-overlay\"></div>\n\n\t<div
+  class=\"modula-item-content\">\n\n\t\t\t\t\n\t\t\t\t\t<a role=\"button\" data-elementor-open-lightbox=\"no\"
+  tabindex=\"0\" rel=\"jtg-70118\" data-caption=\"SAX PLAYER – Jazz Alley, Seattle
+  (Florene Jimerson)\" aria-label=\"Open image in lightbox\" class=\"tile-inner modula-item-link\"></a>\n\t\t\n\t\t<img
+  loading=\"lazy\" decoding=\"async\" class=\"pic wp-image-70099\"  data-valign=\"middle\"
+  data-halign=\"center\" alt=\"Blurry black and white portrait of a saxophone player,
+  with just the sax and his hands and torso in view.\" data-full=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/Sax-Player-Florene-Jimerson-Photography-801h.jpg\"
+  title=\"Sax-Player-Florene-Jimerson-Photography-801h\" width=\"200\" height=\"300\"
+  src=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/Sax-Player-Florene-Jimerson-Photography-801h-200x300.jpg\"
+  data-src=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/Sax-Player-Florene-Jimerson-Photography-801h-200x300.jpg\"
+  data-caption=\"SAX PLAYER – Jazz Alley, Seattle (Florene Jimerson)\" srcset=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/Sax-Player-Florene-Jimerson-Photography-801h-200x300.jpg
+  200w, https://s14621.pcdn.co/wp-content/uploads/2025/06/Sax-Player-Florene-Jimerson-Photography-801h.jpg
+  533w\" sizes=\"(max-width: 200px) 100vw, 200px\" />\n\t\t<div class=\"figc\">\n\t\t\t<div
+  class=\"figc-inner\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<p class=\"description\">SAX PLAYER
+  – Jazz Alley, Seattle (Florene Jimerson)</p>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t</div>\n\n\t</div>\n\n</div><div
+  class=\"modula-item effect-pufrobo\" >\n\t<div class=\"modula-item-overlay\"></div>\n\n\t<div
+  class=\"modula-item-content\">\n\n\t\t\t\t\n\t\t\t\t\t<a role=\"button\" data-elementor-open-lightbox=\"no\"
+  tabindex=\"0\" rel=\"jtg-70118\" data-caption=\"MICROPHONE – Jazz Alley, Seattle
+  (Florene Jimerson)\" aria-label=\"Open image in lightbox\" class=\"tile-inner modula-item-link\"></a>\n\t\t\n\t\t<img
+  loading=\"lazy\" decoding=\"async\" class=\"pic wp-image-70098\"  data-valign=\"middle\"
+  data-halign=\"center\" alt=\"Black and white photo of a microphone on a jazz stage.\"
+  data-full=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/Microphone-FloreneJimerson-801w.jpg\"
+  title=\"Microphone-FloreneJimerson-801w\" width=\"300\" height=\"200\" src=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/Microphone-FloreneJimerson-801w-300x200.jpg\"
+  data-src=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/Microphone-FloreneJimerson-801w-300x200.jpg\"
+  data-caption=\"MICROPHONE – Jazz Alley, Seattle (Florene Jimerson)\" srcset=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/Microphone-FloreneJimerson-801w-300x200.jpg
+  300w, https://s14621.pcdn.co/wp-content/uploads/2025/06/Microphone-FloreneJimerson-801w-768x512.jpg
+  768w, https://s14621.pcdn.co/wp-content/uploads/2025/06/Microphone-FloreneJimerson-801w.jpg
+  801w\" sizes=\"(max-width: 300px) 100vw, 300px\" />\n\t\t<div class=\"figc\">\n\t\t\t<div
+  class=\"figc-inner\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<p class=\"description\">MICROPHONE
+  – Jazz Alley, Seattle (Florene Jimerson)</p>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t</div>\n\n\t</div>\n\n</div><div
+  class=\"modula-item effect-pufrobo\" >\n\t<div class=\"modula-item-overlay\"></div>\n\n\t<div
+  class=\"modula-item-content\">\n\n\t\t\t\t\n\t\t\t\t\t<a role=\"button\" data-elementor-open-lightbox=\"no\"
+  tabindex=\"0\" rel=\"jtg-70118\" data-caption=\"HAND WITH FLOWER – Cape Disappointment
+  State Park (Florene Jimerson)\" aria-label=\"Open image in lightbox\" class=\"tile-inner
+  modula-item-link\"></a>\n\t\t\n\t\t<img loading=\"lazy\" decoding=\"async\" class=\"pic
+  wp-image-70097\"  data-valign=\"middle\" data-halign=\"center\" alt=\"A hand holds
+  out a yellow dandelion, with green grass in the background.\" data-full=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/HandWithFlower-FloreneJimerson-801w.jpg\"
+  title=\"HandWithFlower-FloreneJimerson-801w\" width=\"300\" height=\"199\" src=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/HandWithFlower-FloreneJimerson-801w-300x199.jpg\"
+  data-src=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/HandWithFlower-FloreneJimerson-801w-300x199.jpg\"
+  data-caption=\"HAND WITH FLOWER – Cape Disappointment State Park (Florene Jimerson)\"
+  srcset=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/HandWithFlower-FloreneJimerson-801w-300x199.jpg
+  300w, https://s14621.pcdn.co/wp-content/uploads/2025/06/HandWithFlower-FloreneJimerson-801w-768x509.jpg
+  768w, https://s14621.pcdn.co/wp-content/uploads/2025/06/HandWithFlower-FloreneJimerson-801w.jpg
+  801w\" sizes=\"(max-width: 300px) 100vw, 300px\" />\n\t\t<div class=\"figc\">\n\t\t\t<div
+  class=\"figc-inner\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<p class=\"description\">HAND WITH
+  FLOWER – Cape Disappointment State Park (Florene Jimerson)</p>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t</div>\n\n\t</div>\n\n</div><div
+  class=\"modula-item effect-pufrobo\" >\n\t<div class=\"modula-item-overlay\"></div>\n\n\t<div
+  class=\"modula-item-content\">\n\n\t\t\t\t\n\t\t\t\t\t<a role=\"button\" data-elementor-open-lightbox=\"no\"
+  tabindex=\"0\" rel=\"jtg-70118\" data-caption=\"GREAT WHEEL – Seattle waterfront
+  (Florene Jimerson)\" aria-label=\"Open image in lightbox\" class=\"tile-inner modula-item-link\"></a>\n\t\t\n\t\t<img
+  loading=\"lazy\" decoding=\"async\" class=\"pic wp-image-70096\"  data-valign=\"middle\"
+  data-halign=\"center\" alt=\"Photo of people riding scooters toward a giant Ferris
+  wheel.\" data-full=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/GreatWheel-FloreneJimerson-801h.jpg\"
+  title=\"GreatWheel-FloreneJimerson-801h\" width=\"199\" height=\"300\" src=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/GreatWheel-FloreneJimerson-801h-199x300.jpg\"
+  data-src=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/GreatWheel-FloreneJimerson-801h-199x300.jpg\"
+  data-caption=\"GREAT WHEEL – Seattle waterfront (Florene Jimerson)\" srcset=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/GreatWheel-FloreneJimerson-801h-199x300.jpg
+  199w, https://s14621.pcdn.co/wp-content/uploads/2025/06/GreatWheel-FloreneJimerson-801h.jpg
+  531w\" sizes=\"(max-width: 199px) 100vw, 199px\" />\n\t\t<div class=\"figc\">\n\t\t\t<div
+  class=\"figc-inner\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<p class=\"description\">GREAT
+  WHEEL – Seattle waterfront (Florene Jimerson)</p>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t</div>\n\n\t</div>\n\n</div><div
+  class=\"modula-item effect-pufrobo\" >\n\t<div class=\"modula-item-overlay\"></div>\n\n\t<div
+  class=\"modula-item-content\">\n\n\t\t\t\t\n\t\t\t\t\t<a role=\"button\" data-elementor-open-lightbox=\"no\"
+  tabindex=\"0\" rel=\"jtg-70118\" data-caption=\"FAMILY LOVE – Jefferson Park, Seattle
+  (Florene Jimerson)\" aria-label=\"Open image in lightbox\" class=\"tile-inner modula-item-link\"></a>\n\t\t\n\t\t<img
+  loading=\"lazy\" decoding=\"async\" class=\"pic wp-image-70095\"  data-valign=\"middle\"
+  data-halign=\"center\" alt=\"Photo of two little children smiling with a dried grass
+  field behind them. One adult has his arms outstretched toward them; another is taking
+  a photo of them from behind.\" data-full=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/Family-Love-Florene-Jimerson-Photography-801w.jpg\"
+  title=\"Family-Love-Florene-Jimerson-Photography-801w\" width=\"300\" height=\"200\"
+  src=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/Family-Love-Florene-Jimerson-Photography-801w-300x200.jpg\"
+  data-src=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/Family-Love-Florene-Jimerson-Photography-801w-300x200.jpg\"
+  data-caption=\"FAMILY LOVE – Jefferson Park, Seattle (Florene Jimerson)\" srcset=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/Family-Love-Florene-Jimerson-Photography-801w-300x200.jpg
+  300w, https://s14621.pcdn.co/wp-content/uploads/2025/06/Family-Love-Florene-Jimerson-Photography-801w-768x511.jpg
+  768w, https://s14621.pcdn.co/wp-content/uploads/2025/06/Family-Love-Florene-Jimerson-Photography-801w.jpg
+  801w\" sizes=\"(max-width: 300px) 100vw, 300px\" />\n\t\t<div class=\"figc\">\n\t\t\t<div
+  class=\"figc-inner\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<p class=\"description\">FAMILY
+  LOVE – Jefferson Park, Seattle (Florene Jimerson)</p>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t</div>\n\n\t</div>\n\n</div><div
+  class=\"modula-item effect-pufrobo\" >\n\t<div class=\"modula-item-overlay\"></div>\n\n\t<div
+  class=\"modula-item-content\">\n\n\t\t\t\t\n\t\t\t\t\t<a role=\"button\" data-elementor-open-lightbox=\"no\"
+  tabindex=\"0\" rel=\"jtg-70118\" data-caption=\"FREIGHT TRAIN – Highway 6, Utah
+  (Florene Jimerson)\" aria-label=\"Open image in lightbox\" class=\"tile-inner modula-item-link\"></a>\n\t\t\n\t\t<img
+  loading=\"lazy\" decoding=\"async\" class=\"pic wp-image-70114\"  data-valign=\"middle\"
+  data-halign=\"center\" alt=\"Photo of a long freight train with multi-colored cars
+  in the distance across a grass field.\" data-full=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/Freight-Train-Florene-Jimerson-Photography-801w.jpg\"
+  title=\"Freight-Train-Florene-Jimerson-Photography-801w\" width=\"300\" height=\"199\"
+  src=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/Freight-Train-Florene-Jimerson-Photography-801w-300x199.jpg\"
+  data-src=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/Freight-Train-Florene-Jimerson-Photography-801w-300x199.jpg\"
+  data-caption=\"FREIGHT TRAIN – Highway 6, Utah (Florene Jimerson)\" srcset=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/Freight-Train-Florene-Jimerson-Photography-801w-300x199.jpg
+  300w, https://s14621.pcdn.co/wp-content/uploads/2025/06/Freight-Train-Florene-Jimerson-Photography-801w-768x509.jpg
+  768w, https://s14621.pcdn.co/wp-content/uploads/2025/06/Freight-Train-Florene-Jimerson-Photography-801w.jpg
+  801w\" sizes=\"(max-width: 300px) 100vw, 300px\" />\n\t\t<div class=\"figc\">\n\t\t\t<div
+  class=\"figc-inner\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<p class=\"description\">FREIGHT
+  TRAIN – Highway 6, Utah (Florene Jimerson)</p>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t</div>\n\n\t</div>\n\n</div>\t\t\n\t</div>\n\n\t\n\t\n\t<script
+  type=\"application/ld+json\">\n\t{\n\t\t\"@context\": \"http://schema.org\",\n\t\t\"@type\"
+  \  : \"ImageGallery\",\n\t\t\"id\"      : \"https://www.solid-ground.org/a-space-to-heal-and-flourish/\",\n\t\t\"url\"
+  \    : \"https://www.solid-ground.org/a-space-to-heal-and-flourish/\"\n\t}\n\n\t</script>\n\n\t\n</div>\n\n<hr
+  />\n<h4 class=\"tmc-paragraph tmc-medium\"><span style=\"color: #4d5909;\">Florene
+  in action, in her element</span></h4>\n<style>#jtg-70117 .modula-item .jtg-social
+  a, .lightbox-socials.jtg-social a{ fill: #ffffff; color: #ffffff }#jtg-70117 .modula-item
+  .jtg-social-expandable a, #jtg-70117 .modula-item .jtg-social-expandable-icons a{
+  fill: #ffffff; color: #ffffff }#jtg-70117 .modula-item .jtg-social svg, .lightbox-socials.jtg-social
+  svg { height: 16px; width: 16px }#jtg-70117 .modula-item .jtg-social-expandable
+  svg { height: 16px; width: 16px }#jtg-70117 .modula-item .jtg-social-expandable-icons
+  svg { height: 16px; width: 16px }#jtg-70117 .modula-item .jtg-social a:not(:last-child),
+  .lightbox-socials.jtg-social a:not(:last-child) { margin-right: 10px }#jtg-70117
+  .modula-item .jtg-social-expandable-icons { gap: 10px }#jtg-70117 .modula-item .figc
+  {color:#ffffff;}#jtg-70117 .modula-item .figc .jtg-title {  font-size: 16px; }#jtg-70117
+  .modula-item .modula-item-content { transform: scale(1); }#jtg-70117 { width:100%;}#jtg-70117
+  .modula-items{height:800px;}@media screen and (max-width: 992px) {#jtg-70117 .modula-items{height:800px;}}@media
+  screen and (max-width: 768px) {#jtg-70117 .modula-items{height:800px;}}#jtg-70117
+  .modula-items .figc p.description { font-size:14px; }#jtg-70117 .modula-items .figc
+  p.description { color:#ffffff;}#jtg-70117 .modula-items .figc .jtg-title { color:#ffffff;
+  }#jtg-70117.modula-gallery .modula-item > a, #jtg-70117.modula-gallery .modula-item,
+  #jtg-70117.modula-gallery .modula-item-content > a:not(.modula-no-follow) { cursor:zoom-in;
+  } #jtg-70117.modula-gallery .modula-item-content .modula-no-follow { cursor: default;
+  } @media screen and (max-width:480px){#jtg-70117 .modula-item .figc .jtg-title {
+  \ font-size: 12px; }#jtg-70117 .modula-items .figc p.description { color:#ffffff;font-size:10px;
+  }}</style>\n<div  id=\"jtg-70117\" class=\"modula modula-gallery modula-creative-gallery\"
+  data-config=\"{&quot;height&quot;:800,&quot;tabletHeight&quot;:800,&quot;mobileHeight&quot;:800,&quot;desktopHeight&quot;:800,&quot;enableTwitter&quot;:false,&quot;enableWhatsapp&quot;:false,&quot;enableFacebook&quot;:false,&quot;enablePinterest&quot;:false,&quot;enableLinkedin&quot;:false,&quot;enableEmail&quot;:false,&quot;randomFactor&quot;:0.5,&quot;type&quot;:&quot;creative-gallery&quot;,&quot;columns&quot;:12,&quot;gutter&quot;:10,&quot;mobileGutter&quot;:10,&quot;tabletGutter&quot;:10,&quot;desktopGutter&quot;:10,&quot;enableResponsive&quot;:&quot;0&quot;,&quot;tabletColumns&quot;:2,&quot;mobileColumns&quot;:1,&quot;lazyLoad&quot;:0,&quot;lightboxOpts&quot;:{&quot;animated&quot;:true,&quot;Thumbs&quot;:{&quot;type&quot;:&quot;modern&quot;,&quot;showOnStart&quot;:false},&quot;Toolbar&quot;:{&quot;display&quot;:{&quot;right&quot;:[&quot;close&quot;]},&quot;enabled&quot;:true},&quot;Carousel&quot;:{&quot;Panzoom&quot;:{&quot;touch&quot;:false},&quot;infinite&quot;:false},&quot;keyboard&quot;:{&quot;Escape&quot;:&quot;close&quot;,&quot;Delete&quot;:&quot;close&quot;,&quot;Backspace&quot;:&quot;close&quot;,&quot;PageUp&quot;:false,&quot;PageDown&quot;:false,&quot;ArrowUp&quot;:false,&quot;ArrowDown&quot;:false,&quot;ArrowRight&quot;:false,&quot;ArrowLeft&quot;:false},&quot;touch&quot;:false,&quot;backdropClick&quot;:false,&quot;l10n&quot;:{&quot;CLOSE&quot;:&quot;Close&quot;,&quot;NEXT&quot;:&quot;Next&quot;,&quot;PREV&quot;:&quot;Previous&quot;,&quot;Error&quot;:&quot;The
+  requested content cannot be loaded. Please try again later.&quot;,&quot;PLAY_START&quot;:&quot;Start
+  slideshow&quot;,&quot;PLAY_STOP&quot;:&quot;Pause slideshow&quot;,&quot;FULL_SCREEN&quot;:&quot;Full
+  screen&quot;,&quot;THUMBS&quot;:&quot;Thumbnails&quot;,&quot;DOWNLOAD&quot;:&quot;Download&quot;,&quot;SHARE&quot;:&quot;Share&quot;,&quot;ZOOM&quot;:&quot;Zoom&quot;,&quot;EMAIL&quot;:&quot;Here
+  is the link to the image : %%image_link%% and this is the link to the gallery :
+  %%gallery_link%%&quot;,&quot;MODAL&quot;:&quot;You can close this modal content
+  with the ESC key&quot;,&quot;ERROR&quot;:&quot;Something Went Wrong, Please Try
+  Again Later&quot;,&quot;IMAGE_ERROR&quot;:&quot;Image Not Found&quot;,&quot;ELEMENT_NOT_FOUND&quot;:&quot;HTML
+  Element Not Found&quot;,&quot;AJAX_NOT_FOUND&quot;:&quot;Error Loading AJAX : Not
+  Found&quot;,&quot;AJAX_FORBIDDEN&quot;:&quot;Error Loading AJAX : Forbidden&quot;,&quot;IFRAME_ERROR&quot;:&quot;Error
+  Loading Page&quot;,&quot;TOGGLE_ZOOM&quot;:&quot;Toggle zoom level&quot;,&quot;TOGGLE_THUMBS&quot;:&quot;Toggle
+  thumbnails&quot;,&quot;TOGGLE_SLIDESHOW&quot;:&quot;Toggle slideshow&quot;,&quot;TOGGLE_FULLSCREEN&quot;:&quot;Toggle
+  full-screen mode&quot;},&quot;Images&quot;:{&quot;Panzoom&quot;:{&quot;maxScale&quot;:2}},&quot;mainClass&quot;:&quot;modula-fancybox-container
+  modula-lightbox-jtg-70117&quot;,&quot;Html&quot;:{&quot;videoAutoplay&quot;:0,&quot;videoTpl&quot;:&quot;&lt;video
+  class=\\&quot;fancybox__html5video\\&quot; controls muted playsinline controlsList
+  controlsList=\\&quot;nodownload\\&quot; poster=\\&quot;{{poster}}\\&quot; src=\\&quot;{{src}}\\&quot;
+  type=\\&quot;{{format}}\\&quot; &gt;  Sorry, your browser doesn&#039;t support embedded
+  videos, &lt;a href=\\&quot;{{src}}\\&quot;&gt; download &lt;\\/a&gt; and watch with
+  your favorite video player! &lt;\\/video&gt;&quot;}},&quot;inView&quot;:false,&quot;email_subject&quot;:&quot;Check
+  out this awesome image !!&quot;,&quot;email_message&quot;:&quot;Here is the link
+  to the image : %%image_link%% and this is the link to the gallery : %%gallery_link%%&quot;,&quot;lightbox&quot;:&quot;fancybox&quot;}\">\n\n\t\n\t<div
+  \ class=\"modula-items\">\n\t\t<div class=\"modula-item effect-pufrobo\" >\n\t<div
+  class=\"modula-item-overlay\"></div>\n\n\t<div class=\"modula-item-content\">\n\n\t\t\t\t\n\t\t\t\t\t<a
+  role=\"button\" data-elementor-open-lightbox=\"no\" tabindex=\"0\" rel=\"jtg-70117\"
+  data-caption=\"Florene has fun practicing the craft of photography. (Credit: Converge
+  Media)\" aria-label=\"Open image in lightbox\" class=\"tile-inner modula-item-link\"></a>\n\t\t\n\t\t<img
+  loading=\"lazy\" decoding=\"async\" class=\"pic wp-image-70110\"  data-valign=\"middle\"
+  data-halign=\"center\" alt=\"A young woman in a tan jacket and baseball cap smiles
+  as she peers into her camera&#039;s window.\" data-full=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreneHoldingCamera_Converge-RGB-801x566-1.jpg\"
+  title=\"FloreneHoldingCamera_(Converge)-RGB-801x566\" width=\"300\" height=\"212\"
+  src=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreneHoldingCamera_Converge-RGB-801x566-1-300x212.jpg\"
+  data-src=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreneHoldingCamera_Converge-RGB-801x566-1-300x212.jpg\"
+  data-caption=\"Florene has fun practicing the craft of photography. (Credit: Converge
+  Media)\" srcset=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreneHoldingCamera_Converge-RGB-801x566-1-300x212.jpg
+  300w, https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreneHoldingCamera_Converge-RGB-801x566-1-768x543.jpg
+  768w, https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreneHoldingCamera_Converge-RGB-801x566-1-361x255.jpg
+  361w, https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreneHoldingCamera_Converge-RGB-801x566-1.jpg
+  801w\" sizes=\"(max-width: 300px) 100vw, 300px\" />\n\t\t<div class=\"figc\">\n\t\t\t<div
+  class=\"figc-inner\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<p class=\"description\">Florene
+  has fun practicing the craft of photography. (Credit: Converge Media)</p>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t</div>\n\n\t</div>\n\n</div><div
+  class=\"modula-item effect-pufrobo\" >\n\t<div class=\"modula-item-overlay\"></div>\n\n\t<div
+  class=\"modula-item-content\">\n\n\t\t\t\t\n\t\t\t\t\t<a role=\"button\" data-elementor-open-lightbox=\"no\"
+  tabindex=\"0\" rel=\"jtg-70117\" data-caption=\"Florene loves capturing moments
+  with her mom and family. (Credit: Converge Media)\" aria-label=\"Open image in lightbox\"
+  class=\"tile-inner modula-item-link\"></a>\n\t\t\n\t\t<img loading=\"lazy\" decoding=\"async\"
+  class=\"pic wp-image-70104\"  data-valign=\"middle\" data-halign=\"center\" alt=\"A
+  young woman in a tan jacket and baseball cap takes photos of her mother, who stands
+  in the photo foreground.\" data-full=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreneVideo-1stCut-Still0.47-RGB-801x566-1.jpg\"
+  title=\"FloreneVideo-1stCut-Still0.47-RGB-801x566\" width=\"300\" height=\"212\"
+  src=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreneVideo-1stCut-Still0.47-RGB-801x566-1-300x212.jpg\"
+  data-src=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreneVideo-1stCut-Still0.47-RGB-801x566-1-300x212.jpg\"
+  data-caption=\"Florene loves capturing moments with her mom and family. (Credit:
+  Converge Media)\" srcset=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreneVideo-1stCut-Still0.47-RGB-801x566-1-300x212.jpg
+  300w, https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreneVideo-1stCut-Still0.47-RGB-801x566-1-768x543.jpg
+  768w, https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreneVideo-1stCut-Still0.47-RGB-801x566-1-361x255.jpg
+  361w, https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreneVideo-1stCut-Still0.47-RGB-801x566-1.jpg
+  801w\" sizes=\"(max-width: 300px) 100vw, 300px\" />\n\t\t<div class=\"figc\">\n\t\t\t<div
+  class=\"figc-inner\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<p class=\"description\">Florene
+  loves capturing moments with her mom and family. (Credit: Converge Media)</p>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t</div>\n\n\t</div>\n\n</div><div
+  class=\"modula-item effect-pufrobo\" >\n\t<div class=\"modula-item-overlay\"></div>\n\n\t<div
+  class=\"modula-item-content\">\n\n\t\t\t\t\n\t\t\t\t\t<a role=\"button\" data-elementor-open-lightbox=\"no\"
+  tabindex=\"0\" rel=\"jtg-70117\" data-caption=\"The photographer in motion (Credit:
+  Converge Media)\" aria-label=\"Open image in lightbox\" class=\"tile-inner modula-item-link\"></a>\n\t\t\n\t\t<img
+  loading=\"lazy\" decoding=\"async\" class=\"pic wp-image-70103\"  data-valign=\"middle\"
+  data-halign=\"center\" alt=\"A young woman in a tan jacket and baseball cap beams
+  as she takes photos on the move.\" data-full=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreneVideo-1stCut-Still0.24-RGB-400px.jpg\"
+  title=\"FloreneVideo-1stCut-Still0.24-RGB-400px\" width=\"300\" height=\"300\" src=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreneVideo-1stCut-Still0.24-RGB-400px-300x300.jpg\"
+  data-src=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreneVideo-1stCut-Still0.24-RGB-400px-300x300.jpg\"
+  data-caption=\"The photographer in motion (Credit: Converge Media)\" srcset=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreneVideo-1stCut-Still0.24-RGB-400px-300x300.jpg
+  300w, https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreneVideo-1stCut-Still0.24-RGB-400px-150x150.jpg
+  150w, https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreneVideo-1stCut-Still0.24-RGB-400px.jpg
+  400w\" sizes=\"(max-width: 300px) 100vw, 300px\" />\n\t\t<div class=\"figc\">\n\t\t\t<div
+  class=\"figc-inner\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<p class=\"description\">The photographer
+  in motion (Credit: Converge Media)</p>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t</div>\n\n\t</div>\n\n</div><div
+  class=\"modula-item effect-pufrobo\" >\n\t<div class=\"modula-item-overlay\"></div>\n\n\t<div
+  class=\"modula-item-content\">\n\n\t\t\t\t\n\t\t\t\t\t<a role=\"button\" data-elementor-open-lightbox=\"no\"
+  tabindex=\"0\" rel=\"jtg-70117\" data-caption=\"Florene at home, in her element
+  (Credit: Converge Media)\" aria-label=\"Open image in lightbox\" class=\"tile-inner
+  modula-item-link\"></a>\n\t\t\n\t\t<img loading=\"lazy\" decoding=\"async\" class=\"pic
+  wp-image-70105\"  data-valign=\"middle\" data-halign=\"center\" alt=\"A young woman
+  in a tan jacket sits inside her apartment, gesturing with her right fist raised.\"
+  data-full=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreneVideo-1stCut-Still0.53-RGB-400px.jpg\"
+  title=\"FloreneVideo-1stCut-Still0.53-RGB-400px\" width=\"300\" height=\"300\" src=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreneVideo-1stCut-Still0.53-RGB-400px-300x300.jpg\"
+  data-src=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreneVideo-1stCut-Still0.53-RGB-400px-300x300.jpg\"
+  data-caption=\"Florene at home, in her element (Credit: Converge Media)\" srcset=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreneVideo-1stCut-Still0.53-RGB-400px-300x300.jpg
+  300w, https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreneVideo-1stCut-Still0.53-RGB-400px-150x150.jpg
+  150w, https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreneVideo-1stCut-Still0.53-RGB-400px.jpg
+  400w\" sizes=\"(max-width: 300px) 100vw, 300px\" />\n\t\t<div class=\"figc\">\n\t\t\t<div
+  class=\"figc-inner\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<p class=\"description\">Florene
+  at home, in her element (Credit: Converge Media)</p>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t</div>\n\n\t</div>\n\n</div><div
+  class=\"modula-item effect-pufrobo\" >\n\t<div class=\"modula-item-overlay\"></div>\n\n\t<div
+  class=\"modula-item-content\">\n\n\t\t\t\t\n\t\t\t\t\t<a role=\"button\" data-elementor-open-lightbox=\"no\"
+  tabindex=\"0\" rel=\"jtg-70117\" data-caption=\"Florene takes great pride and joy
+  in her home. (Credit: Converge Media)\" aria-label=\"Open image in lightbox\" class=\"tile-inner
+  modula-item-link\"></a>\n\t\t\n\t\t<img loading=\"lazy\" decoding=\"async\" class=\"pic
+  wp-image-70107\"  data-valign=\"middle\" data-halign=\"center\" alt=\"A young woman
+  in a tan jacket poses on her apartment deck, with a beaming smile on her face and
+  her hands clasped.\" data-full=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreneVideo-1stCut-Still2.49-RGB-400px.jpg\"
+  title=\"FloreneVideo-1stCut-Still2.49-RGB-400px\" width=\"300\" height=\"300\" src=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreneVideo-1stCut-Still2.49-RGB-400px-300x300.jpg\"
+  data-src=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreneVideo-1stCut-Still2.49-RGB-400px-300x300.jpg\"
+  data-caption=\"Florene takes great pride and joy in her home. (Credit: Converge
+  Media)\" srcset=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreneVideo-1stCut-Still2.49-RGB-400px-300x300.jpg
+  300w, https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreneVideo-1stCut-Still2.49-RGB-400px-150x150.jpg
+  150w, https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreneVideo-1stCut-Still2.49-RGB-400px.jpg
+  400w\" sizes=\"(max-width: 300px) 100vw, 300px\" />\n\t\t<div class=\"figc\">\n\t\t\t<div
+  class=\"figc-inner\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<p class=\"description\">Florene
+  takes great pride and joy in her home. (Credit: Converge Media)</p>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t</div>\n\n\t</div>\n\n</div><div
+  class=\"modula-item effect-pufrobo\" >\n\t<div class=\"modula-item-overlay\"></div>\n\n\t<div
+  class=\"modula-item-content\">\n\n\t\t\t\t\n\t\t\t\t\t<a role=\"button\" data-elementor-open-lightbox=\"no\"
+  tabindex=\"0\" rel=\"jtg-70117\" data-caption=\"The artist practices her craft.
+  (Credit: Converge Media)\" aria-label=\"Open image in lightbox\" class=\"tile-inner
+  modula-item-link\"></a>\n\t\t\n\t\t<img loading=\"lazy\" decoding=\"async\" class=\"pic
+  wp-image-70106\"  data-valign=\"middle\" data-halign=\"center\" alt=\"A young woman
+  in a tan jacket smiles as she holds up strips of camera film.\" data-full=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreneVideo-1stCut-Still2.06-RGB-801x566-1.jpg\"
+  title=\"FloreneVideo-1stCut-Still2.06-RGB-801x566\" width=\"300\" height=\"212\"
+  src=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreneVideo-1stCut-Still2.06-RGB-801x566-1-300x212.jpg\"
+  data-src=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreneVideo-1stCut-Still2.06-RGB-801x566-1-300x212.jpg\"
+  data-caption=\"The artist practices her craft. (Credit: Converge Media)\" srcset=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreneVideo-1stCut-Still2.06-RGB-801x566-1-300x212.jpg
+  300w, https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreneVideo-1stCut-Still2.06-RGB-801x566-1-768x543.jpg
+  768w, https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreneVideo-1stCut-Still2.06-RGB-801x566-1-361x255.jpg
+  361w, https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreneVideo-1stCut-Still2.06-RGB-801x566-1.jpg
+  801w\" sizes=\"(max-width: 300px) 100vw, 300px\" />\n\t\t<div class=\"figc\">\n\t\t\t<div
+  class=\"figc-inner\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<p class=\"description\">The artist
+  practices her craft. (Credit: Converge Media)</p>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t</div>\n\n\t</div>\n\n</div><div
+  class=\"modula-item effect-pufrobo\" >\n\t<div class=\"modula-item-overlay\"></div>\n\n\t<div
+  class=\"modula-item-content\">\n\n\t\t\t\t\n\t\t\t\t\t<a role=\"button\" data-elementor-open-lightbox=\"no\"
+  tabindex=\"0\" rel=\"jtg-70117\" data-caption=\"Florene finds joy in her space with
+  a view. (Credit: Converge Media)\" aria-label=\"Open image in lightbox\" class=\"tile-inner
+  modula-item-link\"></a>\n\t\t\n\t\t<img loading=\"lazy\" decoding=\"async\" class=\"pic
+  wp-image-70109\"  data-valign=\"middle\" data-halign=\"center\" alt=\"A young woman
+  in a tan jacket stands on her apartment deck with her arms outstretched. Her head
+  is thrown back, and she has a beaming smile on her face.\" data-full=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreneGesturingOnPorch-Converge-RGB-801x566-1.jpg\"
+  title=\"FloreneGesturingOnPorch-(Converge)-RGB-801x566\" width=\"300\" height=\"212\"
+  src=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreneGesturingOnPorch-Converge-RGB-801x566-1-300x212.jpg\"
+  data-src=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreneGesturingOnPorch-Converge-RGB-801x566-1-300x212.jpg\"
+  data-caption=\"Florene finds joy in her space with a view. (Credit: Converge Media)\"
+  srcset=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreneGesturingOnPorch-Converge-RGB-801x566-1-300x212.jpg
+  300w, https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreneGesturingOnPorch-Converge-RGB-801x566-1-768x543.jpg
+  768w, https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreneGesturingOnPorch-Converge-RGB-801x566-1-361x255.jpg
+  361w, https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreneGesturingOnPorch-Converge-RGB-801x566-1.jpg
+  801w\" sizes=\"(max-width: 300px) 100vw, 300px\" />\n\t\t<div class=\"figc\">\n\t\t\t<div
+  class=\"figc-inner\">\n\t\t\t\t\t\t\t\t\t\t\t\t\t<p class=\"description\">Florene
+  finds joy in her space with a view. (Credit: Converge Media)</p>\n\t\t\t\t\t\t\t\t\t\t\t</div>\n\t\t</div>\n\n\t</div>\n\n</div>\t\t\n\t</div>\n\n\t\n\t\n\t<script
+  type=\"application/ld+json\">\n\t{\n\t\t\"@context\": \"http://schema.org\",\n\t\t\"@type\"
+  \  : \"ImageGallery\",\n\t\t\"id\"      : \"https://www.solid-ground.org/a-space-to-heal-and-flourish/\",\n\t\t\"url\"
+  \    : \"https://www.solid-ground.org/a-space-to-heal-and-flourish/\"\n\t}\n\n\t</script>\n\n\t\n</div>\n\n<hr
+  />\n<p class=\"tmc-caption\"><span style=\"color: #4d5909;\">Image at top:</span>
+  Photographer Florene Jimerson now has the stability and healing space to pursue
+  her creative dreams. (Credit: Converge Media)</p>The post <a href=\"https://www.solid-ground.org/a-space-to-heal-and-flourish/\">A
+  space to heal and flourish</a> appeared first on <a href=\"https://www.solid-ground.org\">Solid
+  Ground</a>."
+original_markdown_body: "![Portrait of a Black woman with short locs wearing a beige
+  collared shirt, and holding a camera in her hands.](https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreneSmilingWIthCamera-RGB-801x566-1-361x255.jpg)\n\nFrom
+  her apartment perched on a hill in the Central District, photographer Florene Jimerson
+  has a sweeping view of the rapidly gentrifying neighborhood where she grew up, the
+  two sports stadiums where she works at Ivar’s seafood bars, and even a bit of the
+  water of Elliott Bay beyond it all.\n\n ![Portrait of a young woman in a tan jacket
+  on her apartment deck, with a beaming smile on her face and her hands clasped.](https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreStill-Diversion-Converge-1-RGB-400px.jpg)\n\nFlorene
+  takes great pride and joy in her home. (Credit: Converge Media)\n\nThe apartment
+  has one bedroom, a tiny kitchen, and plenty of room for her growing collection of
+  cameras, prints, and boxes of developed film. But most importantly, it has a sense
+  of stability that Florene has rarely had the opportunity to enjoy.\n\nA 26-year-old
+  Seattle native, Florene grew up experiencing frequent cycles of displacement and
+  homelessness as her family struggled to find their place in a neighborhood and city
+  that was changing around them, becoming more expensive and less welcoming to the
+  Black communities that had long thrived here.\n\n“My childhood was just experiencing
+  all the dysfunction of broken cycles at home – and with so many different people
+  – because my parents have very big hearts too,” she says. “We always had my siblings
+  and aunts, cousins, uncles, friends. They always let them come over whenever they
+  needed somewhere to stay.”\n\nAt 18, Florene moved into her own apartment and swore
+  she would never be homeless again. But five years later, when it became clear that
+  her landlord wasn’t going to do anything about the black mold that had spread from
+  the walls of the apartment into her clothes, she found herself back in the situation
+  she most wanted to avoid.\n\nhttps://www.youtube.com/embed/AMZBuVU4KS8?feature=oembed\n\nAfter
+  eight months of living on couches and in her car, Florene found an apartment she
+  could afford back in her old neighborhood. She was offered the apartment but didn’t
+  have the thousands of dollars she needed to cover the landlord’s required move-in
+  costs – the only thing keeping her from the stability she so desperately wanted.\n\n“I
+  was homeless even though I had a job, even though I had everything – no addictions,
+  no abusive habits – that you need to be able to be healthy and living in a home.”
+  So she began looking for help and eventually connected with Solid Ground. Almost
+  immediately, she got a call back from Stabilization Services’ Celestine Berrysmith
+  and Akeela O’Dell, who said they could cover her move-in costs and work with her
+  new landlord to make sure they’d accept the payments.\n\n> “I see it as a space
+  for me to heal from it all – the trauma and abuse. It’s a place for me to be safe
+  from the outside, a place for me to warm up, a place for me to edit my pictures,
+  a place for me to grow, and a place for me to build. And that’s what’s going to
+  allow me to really flourish.”&nbsp;\n> \n> _~Florene Jimerson, photographer_\n\nSoon,
+  Florene was in her new apartment, adamant that with new tools, boundaries, and financial
+  experience, she would never again experience homelessness.&nbsp;“I see it as a space
+  for me to heal from it all – the trauma and abuse. It’s a place for me to be safe
+  from the outside, a place for me to warm up, a place for me to edit my pictures,
+  a place for me to grow, and a place for me to build. And that’s what’s going to
+  allow me to really flourish.”\n\n#### Florene Jimerson Photography\n<style>#jtg-70118
+  .modula-item .jtg-social a, .lightbox-socials.jtg-social a{ fill: #ffffff; color:
+  #ffffff }#jtg-70118 .modula-item .jtg-social-expandable a, #jtg-70118 .modula-item
+  .jtg-social-expandable-icons a{ fill: #ffffff; color: #ffffff }#jtg-70118 .modula-item
+  .jtg-social svg, .lightbox-socials.jtg-social svg { height: 16px; width: 16px }#jtg-70118
+  .modula-item .jtg-social-expandable svg { height: 16px; width: 16px }#jtg-70118
+  .modula-item .jtg-social-expandable-icons svg { height: 16px; width: 16px }#jtg-70118
+  .modula-item .jtg-social a:not(:last-child), .lightbox-socials.jtg-social a:not(:last-child)
+  { margin-right: 10px }#jtg-70118 .modula-item .jtg-social-expandable-icons { gap:
+  10px }#jtg-70118 .modula-item .figc {color:#ffffff;}#jtg-70118 .modula-item .figc
+  .jtg-title { font-size: 16px; }#jtg-70118 .modula-item .modula-item-content { transform:
+  scale(1); }#jtg-70118 { width:100%;}#jtg-70118 .modula-items{height:800px;}@media
+  screen and (max-width: 992px) {#jtg-70118 .modula-items{height:800px;}}@media screen
+  and (max-width: 768px) {#jtg-70118 .modula-items{height:800px;}}#jtg-70118 .modula-items
+  .figc p.description { font-size:14px; }#jtg-70118 .modula-items .figc p.description
+  { color:#ffffff;}#jtg-70118 .modula-items .figc .jtg-title { color:#ffffff; }#jtg-70118.modula-gallery
+  .modula-item > a, #jtg-70118.modula-gallery .modula-item, #jtg-70118.modula-gallery
+  .modula-item-content > a:not(.modula-no-follow) { cursor:zoom-in; } #jtg-70118.modula-gallery
+  .modula-item-content .modula-no-follow { cursor: default; } @media screen and (max-width:480px){#jtg-70118
+  .modula-item .figc .jtg-title { font-size: 12px; }#jtg-70118 .modula-items .figc
+  p.description { color:#ffffff;font-size:10px; }}</style>\n\n ![Black and white photo
+  of a sunken construction site](https://s14621.pcdn.co/wp-content/uploads/2025/06/Chainlink-Fence-Florene-Jimerson-Photography-801w-300x199.jpg
+  \"Chainlink-Fence-Florene-Jimerson-Photography-801w\")\n\nCHAIN LINK FENCE – Downtown
+  Seattle (Florene Jimerson)\n\n ![Black and white photo looking up in the branches
+  of a large tree, double exposed.](https://s14621.pcdn.co/wp-content/uploads/2025/06/Tree-FloreneJimerson-801w-300x199.jpg
+  \"Tree-FloreneJimerson-801w\")\n\nTREE – Fort Columbia State Park (Florene Jimerson)\n\n
+  ![Photo of youth at a skate park in golden afternoon light.](https://s14621.pcdn.co/wp-content/uploads/2025/06/SkateboardPark-FloreneJimerson-801w-300x199.jpg
+  \"SkateboardPark-FloreneJimerson-801w\")\n\nSKATEBOARD PARK – Jefferson Park, Seattle
+  (Florene Jimerson)\n\n ![Blurry black and white portrait of a saxophone player,
+  with just the sax and his hands and torso in view.](https://s14621.pcdn.co/wp-content/uploads/2025/06/Sax-Player-Florene-Jimerson-Photography-801h-200x300.jpg
+  \"Sax-Player-Florene-Jimerson-Photography-801h\")\n\nSAX PLAYER – Jazz Alley, Seattle
+  (Florene Jimerson)\n\n ![Black and white photo of a microphone on a jazz stage.](https://s14621.pcdn.co/wp-content/uploads/2025/06/Microphone-FloreneJimerson-801w-300x200.jpg
+  \"Microphone-FloreneJimerson-801w\")\n\nMICROPHONE – Jazz Alley, Seattle (Florene
+  Jimerson)\n\n ![A hand holds out a yellow dandelion, with green grass in the background.](https://s14621.pcdn.co/wp-content/uploads/2025/06/HandWithFlower-FloreneJimerson-801w-300x199.jpg
+  \"HandWithFlower-FloreneJimerson-801w\")\n\nHAND WITH FLOWER – Cape Disappointment
+  State Park (Florene Jimerson)\n\n ![Photo of people riding scooters toward a giant
+  Ferris wheel.](https://s14621.pcdn.co/wp-content/uploads/2025/06/GreatWheel-FloreneJimerson-801h-199x300.jpg
+  \"GreatWheel-FloreneJimerson-801h\")\n\nGREAT WHEEL – Seattle waterfront (Florene
+  Jimerson)\n\n ![Photo of two little children smiling with a dried grass field behind
+  them. One adult has his arms outstretched toward them; another is taking a photo
+  of them from behind.](https://s14621.pcdn.co/wp-content/uploads/2025/06/Family-Love-Florene-Jimerson-Photography-801w-300x200.jpg
+  \"Family-Love-Florene-Jimerson-Photography-801w\")\n\nFAMILY LOVE – Jefferson Park,
+  Seattle (Florene Jimerson)\n\n ![Photo of a long freight train with multi-colored
+  cars in the distance across a grass field.](https://s14621.pcdn.co/wp-content/uploads/2025/06/Freight-Train-Florene-Jimerson-Photography-801w-300x199.jpg
+  \"Freight-Train-Florene-Jimerson-Photography-801w\")\n\nFREIGHT TRAIN – Highway
+  6, Utah (Florene Jimerson)\n\n<script type=\"application/ld+json\">\n\t{\n\t\t\"@context\":
+  \"http://schema.org\",\n\t\t\"@type\" : \"ImageGallery\",\n\t\t\"id\" : \"https://www.solid-ground.org/a-space-to-heal-and-flourish/\",\n\t\t\"url\"
+  : \"https://www.solid-ground.org/a-space-to-heal-and-flourish/\"\n\t}\n\n\t</script>\n\n*
+  * *\n\n#### Florene in action, in her element\n<style>#jtg-70117 .modula-item .jtg-social
+  a, .lightbox-socials.jtg-social a{ fill: #ffffff; color: #ffffff }#jtg-70117 .modula-item
+  .jtg-social-expandable a, #jtg-70117 .modula-item .jtg-social-expandable-icons a{
+  fill: #ffffff; color: #ffffff }#jtg-70117 .modula-item .jtg-social svg, .lightbox-socials.jtg-social
+  svg { height: 16px; width: 16px }#jtg-70117 .modula-item .jtg-social-expandable
+  svg { height: 16px; width: 16px }#jtg-70117 .modula-item .jtg-social-expandable-icons
+  svg { height: 16px; width: 16px }#jtg-70117 .modula-item .jtg-social a:not(:last-child),
+  .lightbox-socials.jtg-social a:not(:last-child) { margin-right: 10px }#jtg-70117
+  .modula-item .jtg-social-expandable-icons { gap: 10px }#jtg-70117 .modula-item .figc
+  {color:#ffffff;}#jtg-70117 .modula-item .figc .jtg-title { font-size: 16px; }#jtg-70117
+  .modula-item .modula-item-content { transform: scale(1); }#jtg-70117 { width:100%;}#jtg-70117
+  .modula-items{height:800px;}@media screen and (max-width: 992px) {#jtg-70117 .modula-items{height:800px;}}@media
+  screen and (max-width: 768px) {#jtg-70117 .modula-items{height:800px;}}#jtg-70117
+  .modula-items .figc p.description { font-size:14px; }#jtg-70117 .modula-items .figc
+  p.description { color:#ffffff;}#jtg-70117 .modula-items .figc .jtg-title { color:#ffffff;
+  }#jtg-70117.modula-gallery .modula-item > a, #jtg-70117.modula-gallery .modula-item,
+  #jtg-70117.modula-gallery .modula-item-content > a:not(.modula-no-follow) { cursor:zoom-in;
+  } #jtg-70117.modula-gallery .modula-item-content .modula-no-follow { cursor: default;
+  } @media screen and (max-width:480px){#jtg-70117 .modula-item .figc .jtg-title {
+  font-size: 12px; }#jtg-70117 .modula-items .figc p.description { color:#ffffff;font-size:10px;
+  }}</style>\n\n ![A young woman in a tan jacket and baseball cap smiles as she peers
+  into her camera's window.](https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreneHoldingCamera_Converge-RGB-801x566-1-300x212.jpg
+  \"FloreneHoldingCamera\\_(Converge)-RGB-801x566\")\n\nFlorene has fun practicing
+  the craft of photography. (Credit: Converge Media)\n\n ![A young woman in a tan
+  jacket and baseball cap takes photos of her mother, who stands in the photo foreground.](https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreneVideo-1stCut-Still0.47-RGB-801x566-1-300x212.jpg
+  \"FloreneVideo-1stCut-Still0.47-RGB-801x566\")\n\nFlorene loves capturing moments
+  with her mom and family. (Credit: Converge Media)\n\n ![A young woman in a tan jacket
+  and baseball cap beams as she takes photos on the move.](https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreneVideo-1stCut-Still0.24-RGB-400px-300x300.jpg
+  \"FloreneVideo-1stCut-Still0.24-RGB-400px\")\n\nThe photographer in motion (Credit:
+  Converge Media)\n\n ![A young woman in a tan jacket sits inside her apartment, gesturing
+  with her right fist raised.](https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreneVideo-1stCut-Still0.53-RGB-400px-300x300.jpg
+  \"FloreneVideo-1stCut-Still0.53-RGB-400px\")\n\nFlorene at home, in her element
+  (Credit: Converge Media)\n\n ![A young woman in a tan jacket poses on her apartment
+  deck, with a beaming smile on her face and her hands clasped.](https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreneVideo-1stCut-Still2.49-RGB-400px-300x300.jpg
+  \"FloreneVideo-1stCut-Still2.49-RGB-400px\")\n\nFlorene takes great pride and joy
+  in her home. (Credit: Converge Media)\n\n ![A young woman in a tan jacket smiles
+  as she holds up strips of camera film.](https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreneVideo-1stCut-Still2.06-RGB-801x566-1-300x212.jpg
+  \"FloreneVideo-1stCut-Still2.06-RGB-801x566\")\n\nThe artist practices her craft.
+  (Credit: Converge Media)\n\n ![A young woman in a tan jacket stands on her apartment
+  deck with her arms outstretched. Her head is thrown back, and she has a beaming
+  smile on her face.](https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreneGesturingOnPorch-Converge-RGB-801x566-1-300x212.jpg
+  \"FloreneGesturingOnPorch-(Converge)-RGB-801x566\")\n\nFlorene finds joy in her
+  space with a view. (Credit: Converge Media)\n\n<script type=\"application/ld+json\">\n\t{\n\t\t\"@context\":
+  \"http://schema.org\",\n\t\t\"@type\" : \"ImageGallery\",\n\t\t\"id\" : \"https://www.solid-ground.org/a-space-to-heal-and-flourish/\",\n\t\t\"url\"
+  : \"https://www.solid-ground.org/a-space-to-heal-and-flourish/\"\n\t}\n\n\t</script>\n\n*
+  * *\n\nImage at top: Photographer Florene Jimerson now has the stability and healing
+  space to pursue her creative dreams. (Credit: Converge Media)\n\nThe post [A space
+  to heal and flourish](https://www.solid-ground.org/a-space-to-heal-and-flourish/)
+  appeared first on [Solid Ground](https://www.solid-ground.org)."
 source: Solid Ground
 source_url: https://www.solid-ground.org/a-space-to-heal-and-flourish/
 summarized: true

@@ -1,6 +1,20 @@
 ---
 date: '2025-11-14T12:00:00+00:00'
 images: []
+original_content: Alexander Villatoro Moreno, also known as “Quichi,” 53, made his
+  first appearance in federal court today after the Mexican government recently apprehended
+  and extradited him to the United States. Villatoro Moreno faces four charges, including
+  conspiracy to violate the Racketeer Influenced and Corrupt Organizations (RICO)
+  Act, conspiracy to commit forced labor, conspiracy to obstruct proceedings before
+  agencies, and one count of forced labor for conduct alleged to have occurred between
+  September 2015 and December 2017. &nbsp;&nbsp;
+original_markdown_body: Alexander Villatoro Moreno, also known as “Quichi,” 53, made
+  his first appearance in federal court today after the Mexican government recently
+  apprehended and extradited him to the United States. Villatoro Moreno faces four
+  charges, including conspiracy to violate the Racketeer Influenced and Corrupt Organizations
+  (RICO) Act, conspiracy to commit forced labor, conspiracy to obstruct proceedings
+  before agencies, and one count of forced labor for conduct alleged to have occurred
+  between September 2015 and December 2017. &nbsp;&nbsp;
 published: false
 source: Department of Justice
 source_url: https://www.justice.gov/opa/pr/mexican-national-extradited-back-florida-face-forced-labor-charges

@@ -1,6 +1,17 @@
 ---
 date: '2025-05-30T15:02:40-04:00'
 images: []
+original_content: "<p>artifact_description: Tip Sheet</p><p>date: Fri, 30 May 2025
+  21:04:38 -0400</p><p>title: Medicaid to Marketplace Consumer Journey Guide</p><p>topic:
+  Transitions in Coverage</p>"
+original_markdown_body: |-
+  artifact\_description: Tip Sheet
+
+  date: Fri, 30 May 2025 21:04:38 -0400
+
+  title: Medicaid to Marketplace Consumer Journey Guide
+
+  topic: Transitions in Coverage
 source: Centers for Medicare & Medicaid Services
 source_url: https://www.cms.gov//marketplace/agents-brokers/general-resources/medicaid-marketplace-consumer-journey-guide
 summarized: true

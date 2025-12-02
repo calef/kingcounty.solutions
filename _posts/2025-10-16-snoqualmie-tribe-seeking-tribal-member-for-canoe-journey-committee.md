@@ -1,6 +1,12 @@
 ---
 date: '2025-10-16T17:52:17+00:00'
 images: []
+original_content: "The Canoe Journey Committee will assist in the planning and execution
+  for the annual Inter-Tribal Canoe Journey that takes place at varying hosting tribe
+  locations each summer. Preparation for this event is year-round. A Committee Member
+  will hold a position for either 2 (two) or 3 (three) years. Committee Member applicants
+  must apply and, if selected for consideration, interview for the position.\n\nLearn
+  more and apply here:  \n[https://snoqualmietribeforms.us/cjc-application/](https://snoqualmietribeforms.us/cjc-application/)"
 published: false
 source: Snoqualmie Indian Tribe
 source_url: https://snoqualmietribe.us/snoqualmie-tribe-seeking-tribal-member-for-canoe-journey-committee/

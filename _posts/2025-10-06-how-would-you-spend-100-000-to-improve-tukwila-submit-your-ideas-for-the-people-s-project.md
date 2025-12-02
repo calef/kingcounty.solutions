@@ -1,6 +1,22 @@
 ---
 date: '2025-10-06T21:23:46+00:00'
 images: []
+original_content: |-
+  ![](https://www.tukwilawa.gov/wp-content/uploads/Mayor-PeoplesPledgeBG-300x200.png)
+
+  &nbsp;
+
+  **How would you spend $100,000 to improve Tukwila?**
+
+  For the first time, we’re presenting an opportunity for community members to decide how the City invests funds that are set aside for small, visible improvements. This ‘participatory budgeting’ initiative is called The People’s Project. To ensure a fair and inclusive process, residents representing diverse backgrounds and different neighborhoods are serving on the steering committee.
+
+  Beginning October 1, you can complete the Idea Submission Form to describe your idea. Why is it important? What problem do you hope to solve? Who does your idea benefit?
+
+  **Forms will be accepted through November 15**.&nbsp;The form is available in English, Amharic, Burmese, Somali, Spanish, & Vietnamese.
+
+  Idea Submission Form:&nbsp;**[TukwilaWA.gov/ThePeoplesProject/Survey](https://survey123.arcgis.com/share/811f9ea1e26441599bf2eb8838265891)**
+
+  The post [How would you spend $100,000 to improve Tukwila? Submit your ideas for the People’s Project](https://www.tukwilawa.gov/how-would-you-spend-100000-to-improve-tukwila-submit-your-ideas-for-the-peoples-project/) appeared first on [City of Tukwila](https://www.tukwilawa.gov).
 published: false
 source: City of Tukwila
 source_url: https://www.tukwilawa.gov/how-would-you-spend-100000-to-improve-tukwila-submit-your-ideas-for-the-peoples-project/

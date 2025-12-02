@@ -1,6 +1,13 @@
 ---
 date: '2025-11-21T22:27:41+00:00'
 images: []
+original_content: |-
+  <p>Today Councilmember Bob Kettle (District 7), chair of the Public Safety Committee, announced a number of critical public safety priorities included as part of Seattle’s 2026 budget, adopted by the City Council. “Our work on this budget cycle has wrapped up, but my strategic priorities remain steadfast: advancing public safety, port and maritime investment, and advocating for constituents,”...</p>
+  <p>The post <a rel="nofollow" href="https://council.seattle.gov/2025/11/21/councilmember-kettle-secures-funding-for-key-district-7-and-public-safety-priorities-in-2026-budget/">Councilmember Kettle secures funding for key District 7 and public safety priorities in 2026 budget</a> appeared first on <a rel="nofollow" href="https://council.seattle.gov/">Seattle City Council Blog</a>.</p>
+original_markdown_body: |-
+  Today&nbsp;Councilmember&nbsp;Bob Kettle&nbsp;(District 7), chair of the Public Safety Committee, announced a number of critical public safety priorities included as part of Seattle’s 2026 budget, adopted by the City Council. “Our work on this budget cycle has wrapped up, but my strategic priorities remain steadfast: advancing public safety, port and maritime investment, and advocating for constituents,”...
+
+  The post [Councilmember Kettle secures funding for key District 7 and public safety priorities in 2026 budget](https://council.seattle.gov/2025/11/21/councilmember-kettle-secures-funding-for-key-district-7-and-public-safety-priorities-in-2026-budget/) appeared first on [Seattle City Council Blog](https://council.seattle.gov/).
 source: City of Seattle
 source_url: https://council.seattle.gov/2025/11/21/councilmember-kettle-secures-funding-for-key-district-7-and-public-safety-priorities-in-2026-budget/
 summarized: true

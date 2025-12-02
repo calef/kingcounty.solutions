@@ -1,6 +1,17 @@
 ---
 date: '2025-11-04T11:56:02-05:00'
 images: []
+original_content: "<p>artifact_description: General Resources</p><p>date: Wed, 01
+  Oct 2025 15:59:46 -0400</p><p>title: Annual Income Data Matching Issue (DMI) Checklist
+  for Agents and Brokers</p><p>topic: Data Matching Issues</p>"
+original_markdown_body: |-
+  artifact\_description: General Resources
+
+  date: Wed, 01 Oct 2025 15:59:46 -0400
+
+  title: Annual Income Data Matching Issue (DMI) Checklist for Agents and Brokers
+
+  topic: Data Matching Issues
 published: false
 source: Centers for Medicare & Medicaid Services
 source_url: https://www.cms.gov//marketplace/agents-brokers/general-resources/annual-income-data-matching-issue-dmi-checklist-agents-brokers

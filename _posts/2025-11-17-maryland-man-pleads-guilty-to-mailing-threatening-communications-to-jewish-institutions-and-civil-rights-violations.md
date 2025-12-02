@@ -1,6 +1,16 @@
 ---
 date: '2025-11-17T12:00:00+00:00'
 images: []
+original_content: The Department of Justice announced that Clift Seferlis, 55, of
+  Garrett Park, Maryland, entered a plea of guilty today before U.S. District Judge
+  Mark A. Kearney on 17 counts of mailing threatening communications and eight counts
+  of obstruction of free exercise of religious beliefs, arising from numerous threats
+  sent to Jewish organizations and entities.
+original_markdown_body: The Department of Justice announced that Clift Seferlis, 55,
+  of Garrett Park, Maryland, entered a plea of guilty today before U.S. District Judge
+  Mark A. Kearney on 17 counts of mailing threatening communications and eight counts
+  of obstruction of free exercise of religious beliefs, arising from numerous threats
+  sent to Jewish organizations and entities.
 published: false
 source: Department of Justice
 source_url: https://www.justice.gov/opa/pr/maryland-man-pleads-guilty-mailing-threatening-communications-jewish-institutions-and-civil

@@ -1,6 +1,12 @@
 ---
 date: '2025-11-14T12:00:00+00:00'
 images: []
+original_content: A naturalized U.S. citizen from Bosnia and Herzegovina pleaded guilty
+  on Nov. 10 to criminal charges related to her lying about her prior criminal conduct
+  to obtain U.S. citizenship.
+original_markdown_body: A naturalized U.S. citizen from Bosnia and Herzegovina pleaded
+  guilty on Nov. 10 to criminal charges related to her lying about her prior criminal
+  conduct to obtain U.S. citizenship.
 published: false
 source: Department of Justice
 source_url: https://www.justice.gov/opa/pr/west-virginia-woman-pleads-guilty-lying-obtain-us-citizenship-after-committing-war-crimes

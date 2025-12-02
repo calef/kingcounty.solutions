@@ -1,6 +1,16 @@
 ---
 date: '2025-10-06T23:21:44+00:00'
 images: []
+original_content: Boze Elementary Students work together through a math worksheet.
+  In a project-based learning environment, students are encouraged to lean on one
+  another and find their own way of learning and absorbing information. The definition
+  of pedagogy is the practice of teaching, and the methodology used to influence children’s
+  learning and development.   How this applies [&#8230;]
+original_markdown_body: Boze Elementary Students work together through a math worksheet.
+  In a project-based learning environment, students are encouraged to lean on one
+  another and find their own way of learning and absorbing information. The definition
+  of pedagogy is the practice of teaching, and the methodology used to influence children’s
+  learning and development. &nbsp; How this applies […]
 source: Technology Access Foundation
 source_url: https://techaccess.org/why-pedagogy-matters-when-making-education-equitable/?utm_source=rss&utm_medium=rss&utm_campaign=why-pedagogy-matters-when-making-education-equitable
 summarized: true

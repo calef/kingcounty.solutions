@@ -1,6 +1,10 @@
 ---
 date: '2025-11-18T12:00:00+00:00'
 images: []
+original_content: An Idaho executive pleaded guilty to insider trading on the basis
+  of material nonpublic information about an impending corporate acquisition.
+original_markdown_body: An Idaho executive pleaded guilty to insider trading on the
+  basis of material nonpublic information about an impending corporate acquisition.
 published: false
 source: Department of Justice
 source_url: https://www.justice.gov/opa/pr/former-president-and-chief-operating-officer-public-company-pleads-guilty-insider-trading

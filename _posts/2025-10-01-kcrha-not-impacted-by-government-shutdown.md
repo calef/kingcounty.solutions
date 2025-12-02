@@ -1,6 +1,13 @@
 ---
 date: '2025-10-01T22:16:43+00:00'
 images: []
+original_content: |-
+  <p>Operations at the King County Regional Homeless Authority (KCRHA) are not impacted by the government shutdown. KCRHA and contracted providers continue to function as normal. [&#8230;]</p>
+  <p>The post <a href="https://kcrha.org/news-kcrha-not-impacted-by-government-shutdown/">KCRHA Not Impacted by Government Shutdown</a> appeared first on <a href="https://kcrha.org">KCRHA</a>.</p>
+original_markdown_body: |-
+  Operations at the King County Regional Homeless Authority (KCRHA) are not impacted by the government shutdown. KCRHA and contracted providers continue to function as normal. […]
+
+  The post [KCRHA Not Impacted by Government Shutdown](https://kcrha.org/news-kcrha-not-impacted-by-government-shutdown/) appeared first on [KCRHA](https://kcrha.org).
 source: King County Regional Homelessness Authority
 source_url: https://kcrha.org/news-kcrha-not-impacted-by-government-shutdown/
 summarized: true

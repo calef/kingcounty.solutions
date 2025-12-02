@@ -1,6 +1,14 @@
 ---
 date: '2025-11-19T01:23:32-08:00'
 images: []
+original_content: SEATTLE – Work will return to the northbound lanes of Interstate
+  5 across the Ship Canal Bridge as early as Friday, Jan. 9, 2026, marking the start
+  of months-long lane reductions. Crews will be working 24/7 to complete this work
+  as quickly as possible.
+original_markdown_body: SEATTLE – Work will return to the northbound lanes of Interstate
+  5 across the Ship Canal Bridge as early as Friday, Jan. 9, 2026, marking the start
+  of months-long lane reductions. Crews will be working 24/7 to complete this work
+  as quickly as possible.
 published: false
 source: Washington State Department of Transportation
 source_url: https://wsdot.wa.gov/about/news/2025/wsdot-announces-months-long-lane-reductions-across-i-5-ship-canal-bridge

@@ -4,6 +4,28 @@ images:
 - b8a2c8bce4a6667efc45011db7db0257ef0c6b286d214cb72ba21a8a8b04938a
 - 125335815bb476d779efdd1b58c107e5f10e781c89d67f96005a68836c268764
 - 8b70f3c293019e432bdf1ed6ad4bad87c9141df70cce37b8762701b324f6482a
+original_content: |-
+  <figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1545" height="2000" src="https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/P1.png" alt="" class="wp-image-3913" srcset="https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/P1.png 1545w, https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/P1-232x300.png 232w, https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/P1-791x1024.png 791w, https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/P1-116x150.png 116w, https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/P1-768x994.png 768w, https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/P1-1187x1536.png 1187w, https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/P1-294x380.png 294w, https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/P1-425x550.png 425w" sizes="(max-width: 1545px) 100vw, 1545px" /></figure>
+
+
+
+  <figure class="wp-block-image size-full is-resized"><img decoding="async" width="1545" height="2000" src="https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/P2.png" alt="" class="wp-image-3914" style="width:840px;height:auto" srcset="https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/P2.png 1545w, https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/P2-232x300.png 232w, https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/P2-791x1024.png 791w, https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/P2-116x150.png 116w, https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/P2-768x994.png 768w, https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/P2-1187x1536.png 1187w, https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/P2-294x380.png 294w, https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/P2-425x550.png 425w" sizes="(max-width: 1545px) 100vw, 1545px" /></figure>
+
+
+
+  <figure class="wp-block-image size-full"><img decoding="async" width="1545" height="2000" src="https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/Walk-Recap.png" alt="" class="wp-image-3915" srcset="https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/Walk-Recap.png 1545w, https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/Walk-Recap-232x300.png 232w, https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/Walk-Recap-791x1024.png 791w, https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/Walk-Recap-116x150.png 116w, https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/Walk-Recap-768x994.png 768w, https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/Walk-Recap-1187x1536.png 1187w, https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/Walk-Recap-294x380.png 294w, https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/Walk-Recap-425x550.png 425w" sizes="(max-width: 1545px) 100vw, 1545px" /></figure>
+
+
+
+  <div data-wp-interactive="core/file" class="wp-block-file"><object data-wp-bind--hidden="!state.hasPdfPreview" hidden class="wp-block-file__embed" data="https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/10.-October-2025-3.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="Embed of 10. October 2025 (3)."></object><a id="wp-block-file--media-9a0832be-78ea-4a4c-aa21-ba0fe8e8d670" href="https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/10.-October-2025-3.pdf">10. October 2025 (3)</a><a href="https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/10.-October-2025-3.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-9a0832be-78ea-4a4c-aa21-ba0fe8e8d670">Download</a></div>
+original_markdown_body: |-
+  ![](https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/P1.png)
+
+  ![](https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/P2.png)
+
+  ![](https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/Walk-Recap.png)
+
+  <object data-wp-bind--hidden="!state.hasPdfPreview" hidden class="wp-block-file__embed" data="https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/10.-October-2025-3.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="Embed of 10. October 2025 (3)."></object>[10. October 2025 (3)](https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/10.-October-2025-3.pdf)[Download](https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/10.-October-2025-3.pdf)
 source: Hospitality House
 source_url: https://hospitalityhousesouthking.org/hospitality-house-highlights/
 summarized: true

@@ -1,6 +1,15 @@
 ---
 date: '2025-11-14T12:00:00+00:00'
 images: []
+original_content: A federal grand jury in the District of Columbia returned an indictment
+  yesterday charging a Hong Kong man for his role in a conspiracy to file false and
+  deceptive investment adviser forms with the U.S. Securities and Exchange Commission
+  (SEC) for at least 10 shell business entities that he and co-conspirators created.
+original_markdown_body: A federal grand jury in the District of Columbia returned
+  an indictment yesterday charging a Hong Kong man for his role in a conspiracy to
+  file false and deceptive investment adviser forms with the U.S. Securities and Exchange
+  Commission (SEC) for at least 10 shell business entities that he and co-conspirators
+  created.
 published: false
 source: Department of Justice
 source_url: https://www.justice.gov/opa/pr/hong-kong-businessman-indicted-role-filing-false-sec-investment-adviser-forms-behalf-sham

@@ -1,6 +1,14 @@
 ---
 date: '2025-11-19T23:44:21+00:00'
 images: []
+original_content: Seattle police officers arrested a 31-year-old felon for eluding
+  police in a stolen truck Tuesday afternoon following an eagle-eyed police track
+  from a helicopter. On Nov 18, at about 2:00 p.m., patrol officers, equipped with
+  an Automatic License Plate...
+original_markdown_body: Seattle police officers arrested a 31-year-old felon for eluding
+  police in a stolen truck Tuesday afternoon following an eagle-eyed police track
+  from a helicopter. On Nov 18, at about 2:00 p.m., patrol officers, equipped with
+  an Automatic License Plate...
 published: false
 source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/11/19/man-arrested-with-fentanyl-after-eluding-cops-in-stolen-truck/

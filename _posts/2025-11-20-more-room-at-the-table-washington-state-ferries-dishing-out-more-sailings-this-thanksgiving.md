@@ -1,6 +1,14 @@
 ---
 date: '2025-11-20T08:03:33-08:00'
 images: []
+original_content: SEATTLE – This Thanksgiving, there’s a lot to be thankful for at
+  Washington State Ferries. After years of work to restore service, WSF is sailing
+  into the holiday weekend with more than 10% additional daily departures than in
+  recent years.
+original_markdown_body: SEATTLE – This Thanksgiving, there’s a lot to be thankful
+  for at Washington State Ferries. After years of work to restore service, WSF is
+  sailing into the holiday weekend with more than 10% additional daily departures
+  than in recent years.
 published: false
 source: Washington State Department of Transportation
 source_url: https://wsdot.wa.gov/about/news/2025/more-room-table-washington-state-ferries-dishing-out-more-sailings-thanksgiving

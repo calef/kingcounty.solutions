@@ -1,6 +1,16 @@
 ---
 date: '2025-10-22T21:36:14+00:00'
 images: []
+original_content: DESC&#8217;s annual benefit concert and program spotlight, Gimme
+  Shelter, takes place October 24 from 6-10p.m.! We hope you’ll join us at the Georgetown
+  Ballroom to learn about our work to end homelessness in Seattle, connect with dedicated
+  community members, and enjoy local live music!&#160; We&#8217;re kicking off the
+  evening with a FREE Program Spotlight focused [&#8230;]
+original_markdown_body: DESC’s annual benefit concert and program spotlight, Gimme
+  Shelter, takes place October 24 from 6-10p.m.! We hope you’ll join us at the Georgetown
+  Ballroom to learn about our work to end homelessness in Seattle, connect with dedicated
+  community members, and enjoy local live music!&nbsp; We’re kicking off the evening
+  with a FREE Program Spotlight focused […]
 source: DESC
 source_url: https://www.desc.org/descs-gimme-shelter-is-october-24/
 summarized: true

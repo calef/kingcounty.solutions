@@ -1,6 +1,16 @@
 ---
 date: '2025-11-06T05:24:13+00:00'
 images: []
+original_content: Increased Need for Food Support During the Government Shutdown The
+  Rainier Foothills Wellness Foundation has always believed that no one in our community
+  should go hungry — especially our children and families. This fall, that mission
+  has become more urgent than ever. With the ongoing government shutdown and soaring
+  food prices, many local families are&#8230;
+original_markdown_body: Increased Need for Food Support During the Government Shutdown
+  The Rainier Foothills Wellness Foundation has always believed that no one in our
+  community should go hungry — especially our children and families. This fall, that
+  mission has become more urgent than ever. With the ongoing government shutdown and
+  soaring food prices, many local families are…
 source: Rainier Foothills Wellness Foundation
 source_url: https://rfwellnessfoundation.org/blog/community-in-crisis/
 summarized: true

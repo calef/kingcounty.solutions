@@ -1,6 +1,13 @@
 ---
 date: '2025-06-02T19:04:43+00:00'
 images: []
+original_content: |-
+  <p>The Eastside Housing Analysis is a groundbreaking land-use report that maps the breadth of housing development opportunities across Eastside jurisdictions, modeled after Bellevue’s Affordable Housing Strategy.</p>
+  <p>The post <a href="https://imaginehousing.org/groundbreaking-land-use-report-underscores-tremendous-affordable-housing-potential-in-east-king-county/">Groundbreaking Land-Use Report Underscores Tremendous Affordable Housing Potential in East King County</a> appeared first on <a href="https://imaginehousing.org">Imagine Housing</a>.</p>
+original_markdown_body: |-
+  The Eastside Housing Analysis is a groundbreaking land-use report that maps the breadth of housing development opportunities across Eastside jurisdictions, modeled after Bellevue’s Affordable Housing Strategy.
+
+  The post [Groundbreaking Land-Use Report Underscores Tremendous Affordable Housing Potential in East King County](https://imaginehousing.org/groundbreaking-land-use-report-underscores-tremendous-affordable-housing-potential-in-east-king-county/) appeared first on [Imagine Housing](https://imaginehousing.org).
 source: Imagine Housing
 source_url: https://imaginehousing.org/groundbreaking-land-use-report-underscores-tremendous-affordable-housing-potential-in-east-king-county/
 summarized: true

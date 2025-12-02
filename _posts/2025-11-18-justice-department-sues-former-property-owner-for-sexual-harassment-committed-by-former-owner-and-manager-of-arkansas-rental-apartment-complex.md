@@ -1,6 +1,19 @@
 ---
 date: '2025-11-18T12:00:00+00:00'
 images: []
+original_content: The Justice Department announced today that it has filed a <a href="https://www.justice.gov/crt/media/1418826/dl">lawsuit</a>
+  against Thomas Ray Kelso, the former owner and manager of rental properties formerly
+  known as Briarwood Apartments in Searcy, Arkansas, for engaging in sexual harassment
+  and retaliation in violation of the Fair Housing Act. The lawsuit also names as
+  a defendant Avatar Investments LLC, which owned the rental properties during Kelso’s
+  management and sexual harassment of female tenants.
+original_markdown_body: The Justice Department announced today that it has filed a
+  [lawsuit](https://www.justice.gov/crt/media/1418826/dl) against Thomas Ray Kelso,
+  the former owner and manager of rental properties formerly known as Briarwood Apartments
+  in Searcy, Arkansas, for engaging in sexual harassment and retaliation in violation
+  of the Fair Housing Act. The lawsuit also names as a defendant Avatar Investments
+  LLC, which owned the rental properties during Kelso’s management and sexual harassment
+  of female tenants.
 source: Department of Justice
 source_url: https://www.justice.gov/opa/pr/justice-department-sues-former-property-owner-sexual-harassment-committed-former-owner-and
 summarized: true

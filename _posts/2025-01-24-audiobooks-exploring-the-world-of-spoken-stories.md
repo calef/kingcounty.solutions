@@ -1,6 +1,11 @@
 ---
 date: '2025-01-24T22:40:45+00:00'
 images: []
+original_content: '<p>The post <a href="https://readingpartners.org/blog/audiobooks-spoken-stories/">Audiobooks:
+  Exploring the world of spoken stories</a> appeared first on <a href="https://readingpartners.org">Reading
+  Partners</a>.</p>'
+original_markdown_body: 'The post [Audiobooks: Exploring the world of spoken stories](https://readingpartners.org/blog/audiobooks-spoken-stories/)
+  appeared first on [Reading Partners](https://readingpartners.org).'
 source: Reading Partners Seattle
 source_url: https://readingpartners.org/blog/audiobooks-spoken-stories/
 summarized: true

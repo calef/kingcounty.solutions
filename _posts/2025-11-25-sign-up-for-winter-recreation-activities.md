@@ -1,6 +1,9 @@
 ---
 date: '2025-11-25T01:07:00+00:00'
 images: []
+original_content: <img src="https://www.auburnwa.gov/UserFiles/Servers/Server_11470554/Image/News/26_Auburn@Play_Winter_337x234%20Banner.png"
+  />
+original_markdown_body: "![](https://www.auburnwa.gov/UserFiles/Servers/Server_11470554/Image/News/26_Auburn@Play_Winter_337x234%20Banner.png)"
 published: false
 source: City of Auburn
 source_url: https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=19079323

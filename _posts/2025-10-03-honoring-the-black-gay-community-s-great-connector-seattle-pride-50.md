@@ -1,6 +1,16 @@
 ---
 date: '2025-10-03T16:51:36+00:00'
 images: []
+original_content: |-
+  <p>An article from The Seattle Times While he worked and volunteered for many social-service nonprofits (kidney-health education with Northwest Kidney Centers, meal delivery for SouthEast Seattle Senior Center), McMullen’s passion was HIV and AIDS prevention and support. His official vehicles for that work were Neighborhood House and People of Color Against AIDS Network, or POCAAN ... </p>
+  <p class="read-more-container"><a title="Honoring the Black gay community’s great connector &#124; Seattle Pride 50" class="read-more button" href="https://nhwa.org/2025/10/03/honoring-the-black-gay-communitys-great-connector-seattle-pride-50/#more-25292" aria-label="Read more about Honoring the Black gay community’s great connector &#124; Seattle Pride 50">Read more</a></p>
+  <p>The post <a href="https://nhwa.org/2025/10/03/honoring-the-black-gay-communitys-great-connector-seattle-pride-50/">Honoring the Black gay community’s great connector | Seattle Pride 50</a> appeared first on <a href="https://nhwa.org">Neighborhood House</a>.</p>
+original_markdown_body: |-
+  An article from The Seattle Times While he worked and volunteered for many social-service nonprofits (kidney-health education with Northwest Kidney Centers, meal delivery for SouthEast Seattle Senior Center), McMullen’s passion was HIV and AIDS prevention and support. His official vehicles for that work were Neighborhood House and People of Color Against AIDS Network, or POCAAN ...
+
+  [Read more](https://nhwa.org/2025/10/03/honoring-the-black-gay-communitys-great-connector-seattle-pride-50/#more-25292 "Honoring the Black gay community’s great connector | Seattle Pride 50")
+
+  The post [Honoring the Black gay community’s great connector | Seattle Pride 50](https://nhwa.org/2025/10/03/honoring-the-black-gay-communitys-great-connector-seattle-pride-50/) appeared first on [Neighborhood House](https://nhwa.org).
 source: Neighborhood House
 source_url: https://nhwa.org/2025/10/03/honoring-the-black-gay-communitys-great-connector-seattle-pride-50/
 summarized: true

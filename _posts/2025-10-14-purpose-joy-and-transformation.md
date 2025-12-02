@@ -1,6 +1,13 @@
 ---
 date: '2025-10-14T18:58:41+00:00'
 images: []
+original_content: |-
+  <p>If you are caring for someone living with a progressive condition or a change in health or cognition, you have likely heard the phrase person-centered care. Person-centered care is the foundation of our Creative Engagement program, which is built on the core values of purpose, respect, and exquisite listening. A person-centered approach focuses on an [&#8230;]</p>
+  <p>The post <a href="https://agingwisdom.com/purpose-joy-and-transformation/">Purpose, Joy, and Transformation</a> appeared first on <a href="https://agingwisdom.com">Aging Wisdom</a>.</p>
+original_markdown_body: |-
+  If you are caring for someone living with a progressive condition or a change in health or cognition, you have likely heard the phrase person-centered care. Person-centered care is the foundation of our Creative Engagement program, which is built on the core values of purpose, respect, and exquisite listening. A person-centered approach focuses on an […]
+
+  The post [Purpose, Joy, and Transformation](https://agingwisdom.com/purpose-joy-and-transformation/) appeared first on [Aging Wisdom](https://agingwisdom.com).
 source: Aging Wisdom
 source_url: https://agingwisdom.com/purpose-joy-and-transformation/?utm_source=rss&utm_medium=rss&utm_campaign=purpose-joy-and-transformation
 summarized: true

@@ -1,6 +1,12 @@
 ---
 date: '2025-11-14T12:00:00+00:00'
 images: []
+original_content: An Oklahoma man was sentenced yesterday to 60 months in prison and
+  ordered to pay over $1 million in forfeiture and over $170,000 in restitution for
+  his leading role in a cryptocurrency investment fraud conspiracy.
+original_markdown_body: An Oklahoma man was sentenced yesterday to 60 months in prison
+  and ordered to pay over $1 million in forfeiture and over $170,000 in restitution
+  for his leading role in a cryptocurrency investment fraud conspiracy.
 published: false
 source: Department of Justice
 source_url: https://www.justice.gov/opa/pr/cryptocurrency-investment-firm-founder-sentenced-five-years-prison-defrauding-investors-94m

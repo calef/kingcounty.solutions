@@ -1,6 +1,10 @@
 ---
 date: '2025-07-31T17:24:30+00:00'
 images: []
+original_content: My name is Hormedys, and I'm from Venezuela. Venezuela is a great
+  country, located in South America, with many riches of all kinds. I was...
+original_markdown_body: My name is Hormedys, and I'm from Venezuela. Venezuela is
+  a great country, located in South America, with many riches of all kinds. I was...
 source: Diocese of Olympia Refugee Resettlement Office
 source_url: https://www.dioceserroseattle.org/post/job-search-success-story-1
 summarized: true

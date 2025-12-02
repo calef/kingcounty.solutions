@@ -1,6 +1,10 @@
 ---
 date: '2025-10-02T00:22:00+00:00'
 images: []
+original_content: DESC is almost ready to have clients move into Steven's Place and
+  we need your help to make our 109 incoming residents feel at home.
+original_markdown_body: DESC is almost ready to have clients move into Steven's Place
+  and we need your help to make our 109 incoming residents feel at home.
 source: DESC
 source_url: https://www.desc.org/stevensplaceapartments/
 summarized: true

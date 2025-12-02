@@ -1,6 +1,14 @@
 ---
 date: '2025-11-14T10:58:16-08:00'
 images: []
+original_content: <div><p paraid="1973814904" paraeid="{cd3fb4e6-7e4b-446c-acce-d66d815b5253}{7}"><a
+  href="https://www.soundtransit.org/southkinglink" target="_blank" rel="noreferrer
+  noopener">When the 1 Line opens to Federal Way on Dec. 6</a>, riders will be greeted
+  not just by new stations — but by vibrant, community-inspired public art that celebrates
+  the spirit, history, and diversity of South King County.&nbsp;</p></div>
+original_markdown_body: "[When the 1 Line opens to Federal Way on Dec. 6](https://www.soundtransit.org/southkinglink),
+  riders will be greeted not just by new stations — but by vibrant, community-inspired
+  public art that celebrates the spirit, history, and diversity of South King County.&nbsp;"
 source: Sound Transit
 source_url: https://www.soundtransit.org/blog/platform/art-motion-new-public-art-welcomes-riders-along-1-line-extension
 summarized: true

@@ -1,6 +1,13 @@
 ---
 date: '2025-06-30T23:40:00+00:00'
 images: []
+original_content: |-
+  <p>For over 30 years, Juma has been there for youth–and we aim to continue our impact with youth for as long as possible. With the dual goals of sustainability and [&#8230;]</p>
+  <p>The post <a href="https://www.juma.org/2025/06/30/strategic-planning-goals-achieved-paving-the-way-for-juma-youth-today-and-tomorrow/">Strategic Planning Goals Achieved: Paving the Way for Juma Youth Today and Tomorrow</a> appeared first on <a href="https://www.juma.org">Juma</a>.</p>
+original_markdown_body: |-
+  For over 30 years, Juma has been there for youth–and we aim to continue our impact with youth for as long as possible. With the dual goals of sustainability and […]
+
+  The post [Strategic Planning Goals Achieved: Paving the Way for Juma Youth Today and Tomorrow](https://www.juma.org/2025/06/30/strategic-planning-goals-achieved-paving-the-way-for-juma-youth-today-and-tomorrow/) appeared first on [Juma](https://www.juma.org).
 source: Juma Ventures
 source_url: https://www.juma.org/2025/06/30/strategic-planning-goals-achieved-paving-the-way-for-juma-youth-today-and-tomorrow/
 summarized: true

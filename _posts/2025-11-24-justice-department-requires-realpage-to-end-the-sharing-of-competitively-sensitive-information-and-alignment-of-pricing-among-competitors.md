@@ -1,6 +1,18 @@
 ---
 date: '2025-11-24T12:00:00+00:00'
 images: []
+original_content: The Justice Department’s Antitrust Division filed a proposed settlement
+  today to resolve the United States’ claims against RealPage Inc. as part of its
+  ongoing enforcement against algorithmic coordination, information sharing, and other
+  anticompetitive practices in rental housing markets across the country. The proposed
+  settlement would help restore free market competition in rental markets for millions
+  of American renters.
+original_markdown_body: The Justice Department’s Antitrust Division filed a proposed
+  settlement today to resolve the United States’ claims against RealPage Inc. as part
+  of its ongoing enforcement against algorithmic coordination, information sharing,
+  and other anticompetitive practices in rental housing markets across the country.
+  The proposed settlement would help restore free market competition in rental markets
+  for millions of American renters.
 source: Department of Justice
 source_url: https://www.justice.gov/opa/pr/justice-department-requires-realpage-end-sharing-competitively-sensitive-information-and
 summarized: true

@@ -1,6 +1,20 @@
 ---
 date: '2025-05-01T17:35:00+00:00'
 images: []
+original_content: <p><span style="font-size:12pt"><span style="line-height:12.75pt"><span
+  style="font-family:Aptos,sans-serif"><span style="font-size:10.5pt"><span arial=""
+  style="font-family:"><span style="color:black">This <a href="/docDownload/2638397"><u>brief</u></a>,
+  </span></span></span></span></span></span>filed by KCBA and many other bar associations
+  and supporting injunctive relief for the law firm Susman Godfrey, was filed on 4/25/25.<span
+  style="font-size:12pt"><span style="line-height:12.75pt"><span style="font-family:Aptos,sans-serif"><span
+  style="font-size:10.5pt"><span arial="" style="font-family:"><span style="color:black">
+  KCBA thanks and acknowledges the work of Protect Democracy Project and students
+  at the Harvard School of Law, which made this briefing possible.&nbsp;</span></span></span></span></span></span></p>
+original_markdown_body: This [<u>brief</u>](/docDownload/2638397), filed by KCBA and
+  many other bar associations and supporting injunctive relief for the law firm Susman
+  Godfrey, was filed on 4/25/25. KCBA thanks and acknowledges the work of Protect
+  Democracy Project and students at the Harvard School of Law, which made this briefing
+  possible.&nbsp;
 published: false
 source: King County Bar Association
 source_url: http://www.kcba.org/?pg=news-and-announcements&blAction=showEntry&blogEntry=124347

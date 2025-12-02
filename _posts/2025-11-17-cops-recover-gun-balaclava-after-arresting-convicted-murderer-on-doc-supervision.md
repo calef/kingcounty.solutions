@@ -1,6 +1,14 @@
 ---
 date: '2025-11-17T17:00:16+00:00'
 images: []
+original_content: Seattle police officers arrested armed, convicted murderer on active
+  Department of Corrections (DOC) Supervision sleeping next to bottle of liquor in
+  South Lake Union. On Nov. 13, at about 8:43 a.m., patrol officers responded to reports
+  of a man armed ...
+original_markdown_body: Seattle police officers arrested armed, convicted murderer
+  on active Department of Corrections (DOC) Supervision sleeping next to bottle of
+  liquor in South Lake Union. On Nov. 13, at about 8:43 a.m., patrol officers responded
+  to reports of a man armed ...
 published: false
 source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/11/17/cops-recover-gun-balaclava-after-arresting-convicted-murderer-on-doc-supervision/

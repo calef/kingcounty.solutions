@@ -1,6 +1,12 @@
 ---
 date: '2025-11-19T12:00:00+00:00'
 images: []
+original_content: A federal judge sentenced a Tennessee man to 221 months in prison
+  and three years of supervised release today for being a felon in possession of a
+  firearm under the Armed Career Criminal Act.
+original_markdown_body: A federal judge sentenced a Tennessee man to 221 months in
+  prison and three years of supervised release today for being a felon in possession
+  of a firearm under the Armed Career Criminal Act.
 published: false
 source: Department of Justice
 source_url: https://www.justice.gov/opa/pr/tennessee-man-sentenced-over-18-years-prison-illegally-possessing-firearm

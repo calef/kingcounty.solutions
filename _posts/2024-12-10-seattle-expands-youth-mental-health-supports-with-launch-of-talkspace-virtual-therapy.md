@@ -1,6 +1,20 @@
 ---
 date: '2024-12-10T17:07:04+00:00'
 images: []
+original_content: '<img width="150" height="150" src="https://education.seattle.gov/wp-content/uploads/sites/27/2024/12/Talkspace-postcard-single-150x150.png"
+  class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom:
+  5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy"
+  />Free online therapy currently available for local teens and young adults; additional
+  telehealth provider partners to be announced mid-December SEATTLE (December 10)
+  – Today, the City of Seattle announced a new partnership between the Department
+  of Education and Early Learning (DEEL) and Talkspace, a leading online behavioral
+  health care company, to expand virtual therapy and [&#8230;]'
+original_markdown_body: "![](https://education.seattle.gov/wp-content/uploads/sites/27/2024/12/Talkspace-postcard-single-150x150.png)Free
+  online therapy currently available for local teens and young adults; additional
+  telehealth provider partners to be announced mid-December SEATTLE (December 10)
+  – Today, the City of Seattle announced a new partnership between the Department
+  of Education and Early Learning (DEEL) and Talkspace, a leading online behavioral
+  health care company, to expand virtual therapy and […]"
 source: Department of Education and Early Learning
 source_url: https://education.seattle.gov/?p=1290
 summarized: true

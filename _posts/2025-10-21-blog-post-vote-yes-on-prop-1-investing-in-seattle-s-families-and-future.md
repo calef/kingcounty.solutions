@@ -1,6 +1,13 @@
 ---
 date: '2025-10-21T21:51:15+00:00'
 images: []
+original_content: |-
+  <p>At United Way of King County, we believe every child deserves the opportunity to thrive. This November, Seattle voters can make that possible by voting YES on Proposition 1, the renewal of the Families, Education, Preschool &amp; Promise (FEPP) Levy. The FEPP Levy has a proven track record of helping children and youth succeed in every neighborhood. Renewing means we can continue investing in&#8230;</p>
+  <p><a href="https://www.uwkc.org/breaking-the-cycle-of-poverty-news/blog-post-vote-yes-on-prop-1-investing-in-seattles-families-and-future/" rel="nofollow">Source</a></p>
+original_markdown_body: |-
+  At United Way of King County, we believe every child deserves the opportunity to thrive. This November, Seattle voters can make that possible by voting YES on Proposition 1, the renewal of the Families, Education, Preschool & Promise (FEPP) Levy. The FEPP Levy has a proven track record of helping children and youth succeed in every neighborhood. Renewing means we can continue investing in…
+
+  [Source](https://www.uwkc.org/breaking-the-cycle-of-poverty-news/blog-post-vote-yes-on-prop-1-investing-in-seattles-families-and-future/)
 source: United Way of King County
 source_url: https://www.uwkc.org/breaking-the-cycle-of-poverty-news/blog-post-vote-yes-on-prop-1-investing-in-seattles-families-and-future/
 summarized: true

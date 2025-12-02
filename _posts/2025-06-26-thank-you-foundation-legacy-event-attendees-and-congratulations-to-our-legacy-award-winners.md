@@ -1,6 +1,10 @@
 ---
 date: '2025-06-26T09:32:51+00:00'
 images: []
+original_content: Our annual Foundation Event happened on Friday, June 20, 2025, at
+  the Woodmark Hotel and Still Spa. Thank you to everyone who joined us ...
+original_markdown_body: Our annual Foundation Event happened on Friday, June 20, 2025,
+  at the Woodmark Hotel and Still Spa. Thank you to everyone who joined us ...
 published: false
 source: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/thank-you-foundation-legacy-event-attendees-and-congratulations-to-our-legacy-award-winners

@@ -1,6 +1,19 @@
 ---
 date: '2025-10-31T23:04:57+00:00'
 images: []
+original_content: '<img width="150" height="150" src="https://education.seattle.gov/wp-content/uploads/sites/27/2025/10/Blog-header_-Evergreen-CCAP-150x150.png"
+  class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom:
+  5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy"
+  srcset="https://education.seattle.gov/wp-content/uploads/sites/27/2025/10/Blog-header_-Evergreen-CCAP-150x150.png
+  150w, https://education.seattle.gov/wp-content/uploads/sites/27/2025/10/Blog-header_-Evergreen-CCAP-115x115.png
+  115w" sizes="auto, (max-width: 150px) 100vw, 150px" />Effective immediately, the
+  City of Seattle is announcing new expanded eligibility for the Child Care Assistance
+  Program (CCAP) making 2,000 new Seattle families eligible for licensed child care
+  co-pay support.'
+original_markdown_body: "![](https://education.seattle.gov/wp-content/uploads/sites/27/2025/10/Blog-header_-Evergreen-CCAP-150x150.png)Effective
+  immediately, the City of Seattle is announcing new expanded eligibility for the
+  Child Care Assistance Program (CCAP) making 2,000 new Seattle families eligible
+  for licensed child care co-pay support."
 source: Department of Education and Early Learning
 source_url: https://education.seattle.gov/?p=1454
 summarized: true

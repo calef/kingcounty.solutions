@@ -2,6 +2,12 @@
 date: '2025-04-05T22:00:00Z'
 images:
 - d7462171b243cbd4e851afa410aed21935bdaab80358b77d7013eda2b13119a1
+original_content: <img src="https://img1.wsimg.com/isteam/ip/02d99612-388e-465c-94d0-09bea0e32177/IMG_2816.jpeg"/><p>Burien
+  Les Schwab | 1st Sundays at 11AM</p>
+original_markdown_body: |-
+  ![](https://img1.wsimg.com/isteam/ip/02d99612-388e-465c-94d0-09bea0e32177/IMG_2816.jpeg)
+
+  Burien Les Schwab | 1st Sundays at 11AM
 source: Praisealujah Discipleship
 source_url: https://praisealujah.org/f/feeding-the-multitudes---one-sunday-at-a-time
 summarized: true

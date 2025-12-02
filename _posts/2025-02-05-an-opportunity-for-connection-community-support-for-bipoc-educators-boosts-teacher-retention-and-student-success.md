@@ -1,6 +1,16 @@
 ---
 date: '2025-02-05T17:21:39+00:00'
 images: []
+original_content: 'Martinez Fellows gather at The University of Washington &#8211;
+  Tacoma campus, ready to attend the first seminar of the year. Introduction: It Starts
+  with Community It’s an early Saturday morning at the University of Washington Tacoma
+  campus &#8212; educators, and aspiring educators slowly trickle into the bright
+  and welcoming conference room for the first Martinez [&#8230;]'
+original_markdown_body: 'Martinez Fellows gather at The University of Washington –
+  Tacoma campus, ready to attend the first seminar of the year. Introduction: It Starts
+  with Community It’s an early Saturday morning at the University of Washington Tacoma
+  campus — educators, and aspiring educators slowly trickle into the bright and welcoming
+  conference room for the first Martinez […]'
 source: Technology Access Foundation
 source_url: https://techaccess.org/an-opportunity-for-connection-community-support-for-bipoc-educators-boosts-teacher-retention-and-student-success/?utm_source=rss&utm_medium=rss&utm_campaign=an-opportunity-for-connection-community-support-for-bipoc-educators-boosts-teacher-retention-and-student-success
 summarized: true

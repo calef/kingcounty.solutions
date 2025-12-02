@@ -1,6 +1,20 @@
 ---
 date: '2025-11-03T19:09:39-08:00'
 images: []
+original_content: Thank You for Making Celebrate 2025 a Huge Success!Celebrate 2025
+  was filled with joy, inspiration, and generosity as our community came together
+  to support women and children breaking the cycle of abuse. From the delicious dinner
+  and exciting auction to the energetic dessert dash and raffle drawing, the evening
+  was both fun-filled and deeply meaningful.It was a joy to celebrate the powerful
+  stories from women in our program of how God is healing, transforming, and creating
+  new life -
+original_markdown_body: Thank You for Making Celebrate 2025 a&nbsp;Huge Success!Celebrate
+  2025 was filled with joy, inspiration, and generosity as our community came together
+  to support women and children breaking the cycle of abuse. From the delicious dinner
+  and exciting auction to the energetic dessert dash and raffle drawing, the evening
+  was both&nbsp;fun-filled and deeply meaningful.It&nbsp;was a joy to celebrate the
+  powerful stories from women in our program of how God is healing, transforming,
+  and creating new life -
 source: Lighthouse NW
 source_url: https://lighthousenw.org/blog/celebrate-2025-success
 summarized: true

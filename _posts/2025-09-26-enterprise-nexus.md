@@ -1,6 +1,11 @@
 ---
 date: '2025-09-26T14:56:43+00:00'
 images: []
+original_content: <p>The post <a href="https://worksourceskc.org/enterprise-nexus/">Enterprise
+  Nexus</a> appeared first on <a href="https://worksourceskc.org">WorkSource Seattle-King
+  County</a>.</p>
+original_markdown_body: The post [Enterprise Nexus](https://worksourceskc.org/enterprise-nexus/)
+  appeared first on [WorkSource Seattle-King County](https://worksourceskc.org).
 source: WorkSource Seattle-King County
 source_url: https://worksourceskc.org/enterprise-nexus/?utm_source=rss&utm_medium=rss&utm_campaign=enterprise-nexus
 summarized: true

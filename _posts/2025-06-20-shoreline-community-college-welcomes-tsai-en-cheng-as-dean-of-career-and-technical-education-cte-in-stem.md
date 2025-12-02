@@ -2,6 +2,23 @@
 date: '2025-06-20T23:28:11+00:00'
 images:
 - 54982d8028c73f48580ca8fa9d4af40902edf92e582affa63f1c2c72433b8ccc
+original_content: '<div class="wp-rss-image" style="margin-bottom:20px;max-width:
+  600px !important;padding-top: 0.75em;"><img src="https://i0.wp.com/news.shoreline.edu/wp-content/uploads/2025/06/image002-2.jpg?fit=400%2C300&amp;ssl=1"
+  class="attachment-medium size-medium wp-post-image" alt="" decoding="async" loading="lazy"
+  sizes="100vw" data-attachment-id="3653" data-permalink="https://news.shoreline.edu/2025/06/20/shoreline-community-college-welcomes-tsai-en-cheng-as-dean-of-career-and-technical-education-cte-in-stem/image002-2/"
+  data-orig-file="https://i0.wp.com/news.shoreline.edu/wp-content/uploads/2025/06/image002-2.jpg?fit=%2C&amp;ssl=1"
+  data-orig-size="" data-comments-opened="1" data-image-meta="[]" data-image-title="image002
+  (2)" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/news.shoreline.edu/wp-content/uploads/2025/06/image002-2.jpg?fit=400%2C300&amp;ssl=1"
+  data-large-file="https://i0.wp.com/news.shoreline.edu/wp-content/uploads/2025/06/image002-2.jpg?fit=1024%2C1024&amp;ssl=1"
+  /></div>Shoreline Community College is pleased to welcome Tsai-En Cheng as the new
+  Dean of Career and Technical Education (CTE) in STEM, bringing over 20 years of
+  leadership experience in higher education, workforce development, and cross-sector
+  partnerships. Tsai-En is known for her student-centered, equity-driven approach
+  and her ability to build meaningful collaborations between education, industry,
+  and &#8230;'
+original_markdown_body: |-
+  ![](https://i0.wp.com/news.shoreline.edu/wp-content/uploads/2025/06/image002-2.jpg?fit=400%2C300&ssl=1)
+  Shoreline Community College is pleased to welcome Tsai-En Cheng as the new Dean of Career and Technical Education (CTE) in STEM, bringing over 20 years of leadership experience in higher education, workforce development, and cross-sector partnerships. Tsai-En is known for her student-centered, equity-driven approach and her ability to build meaningful collaborations between education, industry, and …
 source: Shoreline Community College
 source_url: https://news.shoreline.edu/2025/06/20/shoreline-community-college-welcomes-tsai-en-cheng-as-dean-of-career-and-technical-education-cte-in-stem/
 summarized: true

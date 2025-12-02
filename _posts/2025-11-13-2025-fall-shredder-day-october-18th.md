@@ -1,6 +1,12 @@
 ---
 date: '2025-11-13T16:37:16-08:00'
 images: []
+original_content: |-
+  <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Medina Residents!<br />
+  Make plans to attend this semi-annual community event sponsored by the Medina Police Department...</p>
+  </div></div></div>
+original_markdown_body: "Medina Residents!  \nMake plans to attend this semi-annual
+  community event sponsored by the Medina Police Department..."
 published: false
 source: City of Medina
 source_url: https://www.medina-wa.gov/police/page/2025-fall-shredder-day-october-18th

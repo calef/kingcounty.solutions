@@ -1,6 +1,26 @@
 ---
 date: '2025-11-25T14:19:00+00:00'
 images: []
+original_content: |-
+  <a href="https://wscenter.org/mark-your-calendar-for-giving-tuesday/"><p>The biggest annual day of giving is coming up soon! </p>
+
+
+
+  <p>Giving Tuesday, taking place on December 2 this year, is a chance to support our community of nonprofits. </p>
+
+
+
+  <p>At The &hellip;</p></a>
+original_markdown_body: |-
+  [
+
+  The biggest annual day of giving is coming up soon!
+
+  Giving Tuesday, taking place on December 2 this year, is a chance to support our community of nonprofits.
+
+  At The …
+
+  ](https://wscenter.org/mark-your-calendar-for-giving-tuesday/)
 source: The Center for Active Living
 source_url: https://wscenter.org/mark-your-calendar-for-giving-tuesday/
 summarized: true

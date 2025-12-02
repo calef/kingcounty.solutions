@@ -1,6 +1,10 @@
 ---
 date: '2025-09-22T21:24:22+00:00'
 images: []
+original_content: Fifteen years ago, Loretta was searching for support after being
+  diagnosed with a degenerative eye condition that meant she had to give...
+original_markdown_body: Fifteen years ago, Loretta was searching for support after
+  being diagnosed with a degenerative eye condition that meant she had to give...
 source: Eastside Friends of Seniors
 source_url: https://www.eastsidefriendsofseniors.org/post/member-spotlight-meet-loretta-borowski
 summarized: true

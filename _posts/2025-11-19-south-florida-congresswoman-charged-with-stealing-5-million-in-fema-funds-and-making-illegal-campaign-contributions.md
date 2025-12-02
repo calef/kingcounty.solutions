@@ -1,6 +1,14 @@
 ---
 date: '2025-11-19T12:00:00+00:00'
 images: []
+original_content: MIAMI – A federal grand jury in Miami has returned an indictment
+  charging Congresswoman Sheila Cherfilus-McCormick and several co-defendants with
+  stealing federal disaster funds, laundering the proceeds, and using the money to
+  support her 2021 congressional campaign.
+original_markdown_body: MIAMI – A federal grand jury in Miami has returned an indictment
+  charging Congresswoman Sheila Cherfilus-McCormick and several co-defendants with
+  stealing federal disaster funds, laundering the proceeds, and using the money to
+  support her 2021 congressional campaign.
 published: false
 source: Department of Justice
 source_url: https://www.justice.gov/opa/pr/south-florida-congresswoman-charged-stealing-5-million-fema-funds-and-making-illegal

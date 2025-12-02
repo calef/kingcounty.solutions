@@ -1,6 +1,16 @@
 ---
 date: '2025-11-25T16:44:03+00:00'
 images: []
+original_content: |-
+  <p>Call to Indigenous Artists: Logo Design for the Snoqualmie Indian Tribe’s partnership programs with Reclaim and Trail Youth.</p>
+  <p>Get more information here:  <a href="https://snoqualmietribe.us/call-for-artists/">https://snoqualmietribe.us/call-for-artists/</a></p>
+  <p>&nbsp;</p>
+original_markdown_body: |-
+  Call to Indigenous Artists: Logo Design for the Snoqualmie Indian Tribe’s partnership programs with Reclaim and Trail Youth.
+
+  Get more information here:&nbsp; [https://snoqualmietribe.us/call-for-artists/](https://snoqualmietribe.us/call-for-artists/)
+
+  &nbsp;
 published: false
 source: Snoqualmie Indian Tribe
 source_url: https://snoqualmietribe.us/call-for-indigenous-artists/

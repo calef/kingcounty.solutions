@@ -1,6 +1,14 @@
 ---
 date: '2025-11-21T12:00:00+00:00'
 images: []
+original_content: Able Groupe Inc., a company that sold infant formula on the website
+  LittleBundle.com, pleaded guilty today to two felony charges for smuggling European
+  infant formula and importing it into the United States in violation of FDA’s Prior
+  Notice Requirements.
+original_markdown_body: Able Groupe Inc., a company that sold infant formula on the
+  website LittleBundle.com, pleaded guilty today to two felony charges for smuggling
+  European infant formula and importing it into the United States in violation of
+  FDA’s Prior Notice Requirements.
 source: Department of Justice
 source_url: https://www.justice.gov/opa/pr/online-seller-infant-formula-pleads-guilty-smuggling-and-violating-fda-prior-notice
 summarized: true

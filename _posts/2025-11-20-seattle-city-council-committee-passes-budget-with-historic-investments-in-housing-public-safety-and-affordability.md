@@ -1,6 +1,13 @@
 ---
 date: '2025-11-20T19:28:04+00:00'
 images: []
+original_content: |-
+  <p>The Seattle City Council’s budget committee unanimously passed the 2026 budget, making record investments in improving safety and affordability for working families.   “From the start, I have said this budget needs to be about making Seattle safer and more affordable for working families. I’m proud that today, the Council passed a budget that does just...</p>
+  <p>The post <a rel="nofollow" href="https://council.seattle.gov/2025/11/20/seattle-city-council-committee-passes-budget-with-historic-investments-in-housing-public-safety-and-affordability/">Seattle City Council committee passes budget with historic investments in housing, public safety, and affordability </a> appeared first on <a rel="nofollow" href="https://council.seattle.gov/">Seattle City Council Blog</a>.</p>
+original_markdown_body: |-
+  The Seattle City Council’s budget committee unanimously passed the 2026 budget, making record investments in improving safety and affordability for working families.&nbsp;&nbsp; “From the start, I have said this budget needs to be about making Seattle safer and more affordable for working families. I’m proud that today, the Council passed a budget that does just...
+
+  The post [Seattle City Council committee passes budget with historic investments in housing, public safety, and affordability&nbsp;](https://council.seattle.gov/2025/11/20/seattle-city-council-committee-passes-budget-with-historic-investments-in-housing-public-safety-and-affordability/) appeared first on [Seattle City Council Blog](https://council.seattle.gov/).
 source: City of Seattle
 source_url: https://council.seattle.gov/2025/11/20/seattle-city-council-committee-passes-budget-with-historic-investments-in-housing-public-safety-and-affordability/
 summarized: true

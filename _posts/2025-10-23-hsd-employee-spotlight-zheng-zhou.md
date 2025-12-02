@@ -1,6 +1,16 @@
 ---
 date: '2025-10-23T21:21:16+00:00'
 images: []
+original_content: Zheng Zhou just celebrated his two-year anniversary of working with
+  the Human Services Department&#8217;s Youth and Family Empowerment (YFE) division.
+  Zheng writes about his role as an Administrative Specialist, why his work is meaningful
+  and rewarding, and how positive energy can be contagious. What is your role as Seattle
+  Human Services? As an Administrative Specialist [&#8230;]
+original_markdown_body: Zheng Zhou just celebrated his two-year anniversary of working
+  with the Human Services Department’s Youth and Family Empowerment (YFE) division.
+  Zheng writes about his role as an Administrative Specialist, why his work is meaningful
+  and rewarding, and how positive energy can be contagious. What is your role as Seattle
+  Human Services? As an Administrative Specialist […]
 source: Seattle Human Services Department
 source_url: https://humaninterests.seattle.gov/2025/10/23/hsd-employee-spotlight-zheng-zhou/
 summarized: true

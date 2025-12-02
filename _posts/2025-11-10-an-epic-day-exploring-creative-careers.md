@@ -1,6 +1,14 @@
 ---
 date: '2025-11-10T18:39:17+00:00'
 images: []
+original_content: Over 500 attendees flooded into McCaw Hall at Seattle Center on
+  Tuesday, October 14th for the 2025 Creative Economy Career Day, a free, annual,
+  one-day educational program hosted by The Seattle Office of Arts &#038; Culture
+  and the Office of Economic De...
+original_markdown_body: Over 500 attendees flooded into McCaw Hall at Seattle Center
+  on Tuesday, October 14th for the 2025 Creative Economy Career Day, a free, annual,
+  one-day educational program hosted by The Seattle Office of Arts & Culture and the
+  Office of Economic De...
 source: City of Seattle
 source_url: https://artbeat.seattle.gov/2025/11/10/an-epic-day-exploring-creative-careers/
 summarized: true

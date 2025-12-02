@@ -2,6 +2,23 @@
 date: '2025-10-14T04:49:39+00:00'
 images:
 - 5482324fdb3ffcb64a3d53dd907a1874756a7b22a867ddf1a91f6db771190f22
+original_content: '<div class="wp-rss-image" style="margin-bottom:20px;max-width:
+  600px !important;padding-top: 0.75em;"><img src="https://i0.wp.com/news.shoreline.edu/wp-content/uploads/2025/10/Susan-Henderson-Head-Shot-Preferred-2.jpg?fit=400%2C300&amp;ssl=1"
+  class="attachment-medium size-medium wp-post-image" alt="" decoding="async" sizes="100vw"
+  data-attachment-id="3697" data-permalink="https://news.shoreline.edu/2025/10/13/alumni-spotlight-from-shoreline-to-japan-and-back-again-a-life-shaped-by-teaching-travel-and-community/susan-henderson-head-shot-preferred-2/"
+  data-orig-file="https://i0.wp.com/news.shoreline.edu/wp-content/uploads/2025/10/Susan-Henderson-Head-Shot-Preferred-2.jpg?fit=%2C&amp;ssl=1"
+  data-orig-size="" data-comments-opened="1" data-image-meta="[]" data-image-title="Susan
+  Henderson Head Shot Preferred (2)" data-image-description="" data-image-caption=""
+  data-medium-file="https://i0.wp.com/news.shoreline.edu/wp-content/uploads/2025/10/Susan-Henderson-Head-Shot-Preferred-2.jpg?fit=400%2C300&amp;ssl=1"
+  data-large-file="https://i0.wp.com/news.shoreline.edu/wp-content/uploads/2025/10/Susan-Henderson-Head-Shot-Preferred-2.jpg?fit=1024%2C1024&amp;ssl=1"
+  /></div>Susan Henderson, Class of 1975 Susan Henderson’s story is one of quiet courage,
+  global adventure, and deep gratitude. A self-described introvert, she never imagined
+  her life would take her across continents, into classrooms, and back to Shoreline. 
+  Susan’s connection to Shoreline and Shoreline Community College runs deep. In the
+  late 1960s, her mother made the &#8230;'
+original_markdown_body: |-
+  ![](https://i0.wp.com/news.shoreline.edu/wp-content/uploads/2025/10/Susan-Henderson-Head-Shot-Preferred-2.jpg?fit=400%2C300&ssl=1)
+  Susan Henderson, Class of 1975 Susan Henderson’s story is one of quiet courage, global adventure, and deep gratitude. A self-described introvert, she never imagined her life would take her across continents, into classrooms, and back to Shoreline.&nbsp; Susan’s connection to Shoreline and Shoreline Community College runs deep. In the late 1960s, her mother made the …
 source: Shoreline Community College
 source_url: https://news.shoreline.edu/2025/10/13/alumni-spotlight-from-shoreline-to-japan-and-back-again-a-life-shaped-by-teaching-travel-and-community/
 summarized: true

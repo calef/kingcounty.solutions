@@ -1,6 +1,14 @@
 ---
 date: '2025-11-18T20:42:57+00:00'
 images: []
+original_content: The Center for Digital Government (CDG) awarded the City of Seattle
+  4th-place honors in the 25th Annual Digital Cities Survey today. Seattle follows
+  the cities of (#1) San Jose, CA; (#2) Los Angeles, CA; and (#3) San Diego, CA, and
+  tying with Charlotte...
+original_markdown_body: The Center for Digital Government (CDG) awarded the City of
+  Seattle 4th-place honors in the 25th Annual Digital Cities Survey today. Seattle
+  follows the cities of (#1) San Jose, CA; (#2) Los Angeles, CA; and (#3) San Diego,
+  CA, and tying with Charlotte...
 source: City of Seattle
 source_url: https://techtalk.seattle.gov/2025/11/18/seattle-earns-national-recognition-in-annual-digital-cities-awards/
 summarized: true

@@ -1,6 +1,14 @@
 ---
 date: '2025-11-12T18:56:25+00:00'
 images: []
+original_content: After a landmark 2025 session, Seattle Public Utilities (SPU) is
+  preparing for a short, 60-day state legislative session where lawmakers are expected
+  to struggle with declining revenues and negative budget impacts from the federal
+  government. Beginning...
+original_markdown_body: After a landmark 2025 session, Seattle Public Utilities (SPU)
+  is preparing for a short, 60-day state legislative session where lawmakers are expected
+  to struggle with declining revenues and negative budget impacts from the federal
+  government. Beginning...
 published: false
 source: City of Seattle
 source_url: https://atyourservice.seattle.gov/2025/11/12/its-that-time-of-year-spu-prepares-for-the-2026-state-legislative-session/

@@ -1,6 +1,16 @@
 ---
 date: '2025-09-30T16:55:13+00:00'
 images: []
+original_content: Community Corner highlights the work of Seattle Human Services’
+  community partners in their own words. Our goal is to gather stories and photos
+  that illustrate their amazing work on behalf of the people of Seattle. This post
+  was provided by Arthur Acuario at Southwest Youth &#38; Family Services (also follow
+  on Facebook, Instagram and LinkedIn). [&#8230;]
+original_markdown_body: Community Corner highlights the work of Seattle Human Services’
+  community partners in their own words. Our goal is to gather stories and photos
+  that illustrate their amazing work on behalf of the people of Seattle. This post
+  was provided by Arthur Acuario at Southwest Youth & Family Services (also follow
+  on Facebook, Instagram and LinkedIn). […]
 source: Seattle Human Services Department
 source_url: https://humaninterests.seattle.gov/2025/09/30/community-corner-southwest-youth-family-services/
 summarized: true

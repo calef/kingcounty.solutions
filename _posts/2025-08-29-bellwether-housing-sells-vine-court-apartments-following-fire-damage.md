@@ -1,6 +1,10 @@
 ---
 date: '2025-08-29T20:36:30+00:00'
 images: []
+original_content: Bellwether Housing today announced the sale of the Vine Court Apartments
+  in Belltown. This decision follows a catastrophic fire in July...
+original_markdown_body: Bellwether Housing today announced the sale of the Vine Court
+  Apartments in Belltown. This decision follows a catastrophic fire&nbsp;in July...
 source: Bellwether Housing
 source_url: https://www.bellwetherhousing.org/post/bellwether-housing-sells-vine-court-apartments-following-fire-damage
 summarized: true

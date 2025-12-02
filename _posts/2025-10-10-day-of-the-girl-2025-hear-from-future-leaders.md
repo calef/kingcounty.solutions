@@ -1,6 +1,13 @@
 ---
 date: '2025-10-10T17:32:11+00:00'
 images: []
+original_content: |-
+  <p>As CAMFED, we are committed to co&#x2d;creating solutions with and for the girls and young women we serve. Their lived experience and expertise helps ensure that more disadvantaged students not only remain in school, but can also thrive in the classroom and succeed after graduation. Hear from our future leaders and share their stories, as together we take action for girls&rsquo; education and women&rsquo;s&#8230;</p>
+  <p><a href="https://camfed.org/day-of-the-girl-2025/" rel="nofollow">Source</a></p>
+original_markdown_body: |-
+  As CAMFED, we are committed to co-creating solutions with and for the girls and young women we serve. Their lived experience and expertise helps ensure that more disadvantaged students not only remain in school, but can also thrive in the classroom and succeed after graduation. Hear from our future leaders and share their stories, as together we take action for girls’ education and women’s…
+
+  [Source](https://camfed.org/day-of-the-girl-2025/)
 source: CAMFED - Campaign for Female Education
 source_url: https://camfed.org/day-of-the-girl-2025/
 summarized: true

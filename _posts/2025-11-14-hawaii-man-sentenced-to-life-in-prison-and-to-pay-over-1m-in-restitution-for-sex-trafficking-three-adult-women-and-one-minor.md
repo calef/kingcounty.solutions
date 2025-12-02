@@ -1,6 +1,19 @@
 ---
 date: '2025-11-14T12:00:00+00:00'
 images: []
+original_content: Isaiah McCoy, 37, of Honolulu, Hawaii, was sentenced yesterday to
+  life in prison after a jury found McCoy guilty in April of four counts of sex trafficking
+  three adults and one minor, two counts of obstructing a sex trafficking investigation,
+  seven counts of interstate and foreign travel or transportation in aid of racketeering
+  enterprises, and one count of interstate travel for prostitution purposes. Additionally,
+  the court ordered McCoy to pay the victims $1,017,241.00 in restitution.
+original_markdown_body: Isaiah McCoy, 37, of Honolulu, Hawaii, was sentenced yesterday
+  to life in prison after a jury found McCoy guilty in April of four counts of sex
+  trafficking three adults and one minor, two counts of obstructing a sex trafficking
+  investigation, seven counts of interstate and foreign travel or transportation in
+  aid of racketeering enterprises, and one count of interstate travel for prostitution
+  purposes. Additionally, the court ordered McCoy to pay the victims $1,017,241.00
+  in restitution.
 published: false
 source: Department of Justice
 source_url: https://www.justice.gov/opa/pr/hawaii-man-sentenced-life-prison-and-pay-over-1m-restitution-sex-trafficking-three-adult

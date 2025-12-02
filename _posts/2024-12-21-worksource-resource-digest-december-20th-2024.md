@@ -1,6 +1,13 @@
 ---
 date: '2024-12-21T10:00:00+00:00'
 images: []
+original_content: |-
+  <p>Your source for jobseeker events, resources, programs, and trainings.</p>
+  <p>The post <a href="https://worksourceskc.org/worksource-resource-digest-december-20th-2024/">WorkSource Resource Digest, December 20th, 2024</a> appeared first on <a href="https://worksourceskc.org">WorkSource Seattle-King County</a>.</p>
+original_markdown_body: |-
+  Your source for jobseeker events, resources, programs, and trainings.
+
+  The post [WorkSource Resource Digest, December 20th, 2024](https://worksourceskc.org/worksource-resource-digest-december-20th-2024/) appeared first on [WorkSource Seattle-King County](https://worksourceskc.org).
 source: WorkSource Seattle-King County
 source_url: https://worksourceskc.org/worksource-resource-digest-december-20th-2024/?utm_source=rss&utm_medium=rss&utm_campaign=worksource-resource-digest-december-20th-2024
 summarized: true

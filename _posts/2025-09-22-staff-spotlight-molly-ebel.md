@@ -1,6 +1,13 @@
 ---
 date: '2025-09-22T06:00:27+00:00'
 images: []
+original_content: |-
+  <p>What is your role at Aging Wisdom? Creative Engagement Specialist What made you want to work in the field of aging? I was inspired to work with older adults following my family’s experience caring for my parents as they faced health issues in their later years. I completed the UW Certificate in Gerontology program and [&#8230;]</p>
+  <p>The post <a href="https://agingwisdom.com/staff-spotlight-molly-ebel/">Staff Spotlight: Molly Ebel</a> appeared first on <a href="https://agingwisdom.com">Aging Wisdom</a>.</p>
+original_markdown_body: |-
+  What is your role at Aging Wisdom? Creative Engagement Specialist What made you want to work in the field of aging? I was inspired to work with older adults following my family’s experience caring for my parents as they faced health issues in their later years. I completed the UW Certificate in Gerontology program and […]
+
+  The post [Staff Spotlight: Molly Ebel](https://agingwisdom.com/staff-spotlight-molly-ebel/) appeared first on [Aging Wisdom](https://agingwisdom.com).
 source: Aging Wisdom
 source_url: https://agingwisdom.com/staff-spotlight-molly-ebel/?utm_source=rss&utm_medium=rss&utm_campaign=staff-spotlight-molly-ebel
 summarized: true

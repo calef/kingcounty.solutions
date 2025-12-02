@@ -1,6 +1,10 @@
 ---
 date: '2024-12-09T19:15:14+00:00'
 images: []
+original_content: Who says growing older means growing grumpier? Science says otherwise.
+  Research suggests that the older a person gets, the better their...
+original_markdown_body: Who says growing older means growing grumpier? Science says
+  otherwise. Research suggests that the older a person gets, the better their...
 source: Eastside Friends of Seniors
 source_url: https://www.eastsidefriendsofseniors.org/post/the-paradox-of-aging
 summarized: true

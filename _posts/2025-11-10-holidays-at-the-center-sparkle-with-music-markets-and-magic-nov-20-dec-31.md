@@ -1,6 +1,14 @@
 ---
 date: '2025-11-10T19:59:13+00:00'
 images: []
+original_content: 'Note: Links below will open new windows. Seattle Center celebrates
+  the season with free and affordable events Nov. 20–Dec. 31 SEATTLE – Seattle Center
+  is the place to be this holiday season as Holidays at the Center fills the campus
+  with lights, music,...'
+original_markdown_body: 'Note: Links below will open new windows. Seattle Center celebrates
+  the season with free and affordable events Nov. 20–Dec. 31 SEATTLE – Seattle Center
+  is the place to be this holiday season as Holidays at the Center fills the campus
+  with lights, music,...'
 published: false
 source: City of Seattle
 source_url: https://centerspotlight.seattle.gov/2025/11/10/holidays-at-the-center-sparkle-with-music-markets-and-magic/

@@ -1,6 +1,23 @@
 ---
 date: '2025-09-15T17:00:00+00:00'
 images: []
+original_content: '<img width="150" height="150" src="https://powerlines.seattle.gov/wp-content/uploads/sites/17/2025/09/Powerlines-Featured-Images-11-150x150.png"
+  class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom:
+  5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy"
+  srcset="https://powerlines.seattle.gov/wp-content/uploads/sites/17/2025/09/Powerlines-Featured-Images-11-150x150.png
+  150w, https://powerlines.seattle.gov/wp-content/uploads/sites/17/2025/09/Powerlines-Featured-Images-11-115x115.png
+  115w" sizes="auto, (max-width: 150px) 100vw, 150px" />Our Energy Heroes educational
+  program had an outstanding 2024-2025 school year. We reached more students than
+  ever before while maintaining our commitment to equity and academic excellence.
+  Since 2008, Energy Heroes has brought hands-on learning about electrical safety,
+  renewable energy, and conservation directly to classrooms across our service area.
+  This year&#8217;s achievements show the program&#8217;s [&#8230;]'
+original_markdown_body: "![](https://powerlines.seattle.gov/wp-content/uploads/sites/17/2025/09/Powerlines-Featured-Images-11-150x150.png)Our
+  Energy Heroes educational program had an outstanding 2024-2025 school year. We reached
+  more students than ever before while maintaining our commitment to equity and academic
+  excellence. Since 2008, Energy Heroes has brought hands-on learning about electrical
+  safety, renewable energy, and conservation directly to classrooms across our service
+  area. This year’s achievements show the program’s […]"
 source: City Light Bill Assistance Programs
 source_url: https://powerlines.seattle.gov/2025/09/15/energy-heroes-program-reaches-record-numbers-in-2024-2025-school-year/
 summarized: true

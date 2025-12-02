@@ -1,6 +1,27 @@
 ---
 date: '2025-10-13T19:22:11+00:00'
 images: []
+original_content: |-
+  <p>Local artist Laura Brewer will lead you step-by-step through the process of painting your version of a winter wonderland scene. This class is in partnership with ShoreLake Arts. Call the Reception Desk to register.</p>
+
+
+
+  <p>Instructor: Laura Brewer</p>
+
+
+
+  <p>When: Monday, 12/15 12:00 pm–3:00 pm<br>Location: Craft Room<br>Cost: Member $40<br>Non Member $45</p>
+
+
+
+  <p></p>
+  <p>The post <a href="https://shorelinelfpseniorcenter.org/winter-wonderland-acrylic-painting-workshop/">Winter Wonderland Acrylic Painting Workshop</a> appeared first on <a href="https://shorelinelfpseniorcenter.org">Shoreline Lake Forest Park Senior Activity Center</a>.</p>
+original_markdown_body: "Local artist Laura Brewer will lead you step-by-step through
+  the process of painting your version of a winter wonderland scene. This class is
+  in partnership with ShoreLake Arts. Call the Reception Desk to register.\n\nInstructor:
+  Laura Brewer\n\nWhen: Monday, 12/15 12:00 pm–3:00 pm  \nLocation: Craft Room  \nCost:
+  Member $40  \nNon Member $45\n\nThe post [Winter Wonderland Acrylic Painting Workshop](https://shorelinelfpseniorcenter.org/winter-wonderland-acrylic-painting-workshop/)
+  appeared first on [Shoreline Lake Forest Park Senior Activity Center](https://shorelinelfpseniorcenter.org)."
 published: false
 source: Shoreline Lake Forest Park Senior Activity Center
 source_url: https://shorelinelfpseniorcenter.org/winter-wonderland-acrylic-painting-workshop/

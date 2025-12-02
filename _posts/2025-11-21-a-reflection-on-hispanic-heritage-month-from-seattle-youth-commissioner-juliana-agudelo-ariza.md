@@ -1,6 +1,14 @@
 ---
 date: '2025-11-21T06:11:37+00:00'
 images: []
+original_content: By Juliana Agudelo Ariza, Seattle Youth Commissioner Every year,
+  between September 15 and October 15, Hispanic Heritage Month is celebrated around
+  the nation to honor the accomplishments and cultural traditions of Hispanic/Latino
+  people. On September 2...
+original_markdown_body: By Juliana Agudelo Ariza, Seattle Youth Commissioner Every
+  year, between September 15 and October 15, Hispanic Heritage Month is celebrated
+  around the nation to honor the accomplishments and cultural traditions of Hispanic/Latino
+  people. On September 2...
 source: City of Seattle
 source_url: https://frontporch.seattle.gov/2025/11/20/a-reflection-on-hispanic-heritage-month-from-seattle-youth-commissioner-juliana-agudelo-ariza/
 summarized: true

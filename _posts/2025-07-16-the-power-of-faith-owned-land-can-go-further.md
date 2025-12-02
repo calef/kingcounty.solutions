@@ -1,6 +1,13 @@
 ---
 date: '2025-07-16T22:09:00+00:00'
 images: []
+original_content: |-
+  <p>Developing affordable housing is a years-long, multi-step process, but the changes the City of Bellevue has made to update land-use code is<span class="excerpt-hellip"> […]</span></p>
+  <p>The post <a href="https://imaginehousing.org/the-power-of-faith-owned-land-can-go-further/">The Power of Faith-Owned Land Can Go Further</a> appeared first on <a href="https://imaginehousing.org">Imagine Housing</a>.</p>
+original_markdown_body: |-
+  Developing affordable housing is a years-long, multi-step process, but the changes the City of Bellevue has made to update land-use code is […]
+
+  The post [The Power of Faith-Owned Land Can Go Further](https://imaginehousing.org/the-power-of-faith-owned-land-can-go-further/) appeared first on [Imagine Housing](https://imaginehousing.org).
 source: Imagine Housing
 source_url: https://imaginehousing.org/the-power-of-faith-owned-land-can-go-further/
 summarized: true

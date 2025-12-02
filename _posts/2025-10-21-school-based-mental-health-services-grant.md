@@ -1,6 +1,14 @@
 ---
 date: '2025-10-21T14:42:00+00:00'
 images: []
+original_content: The SBMH program offers competitive grants of $1,500,000 to State
+  and local educational agencies, as well as LEA consortia, to enhance the availability
+  of qualified school-based mental health providers for students in high-need areas.
+  Applications must be submitted by October 29.
+original_markdown_body: The SBMH program offers competitive grants of $1,500,000 to
+  State and local educational agencies, as well as LEA consortia, to enhance the availability
+  of qualified school-based mental health providers for students in high-need areas.
+  Applications must be submitted by October 29.
 source: King County School Health
 source_url: https://kingcountyschoolhealthdotcom.wordpress.com/2025/10/21/school-based-mental-health-services-grant/
 summarized: true

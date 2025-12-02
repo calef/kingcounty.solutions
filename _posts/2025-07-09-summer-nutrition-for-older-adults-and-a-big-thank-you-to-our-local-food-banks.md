@@ -1,6 +1,10 @@
 ---
 date: '2025-07-09T21:07:22+00:00'
 images: []
+original_content: As we move into the heart of summer, it’s the perfect time to talk
+  about something near and dear to all of us at Eastside Friends of...
+original_markdown_body: As we move into the heart of summer, it’s the perfect time
+  to talk about something near and dear to all of us at Eastside Friends of...
 source: Eastside Friends of Seniors
 source_url: https://www.eastsidefriendsofseniors.org/post/july-spotlight-summer-nutrition-for-seniors-and-a-big-thank-you-to-our-local-food-banks
 summarized: true

@@ -1,6 +1,14 @@
 ---
 date: '2025-11-24T17:00:00+00:00'
 images: []
+original_content: 'The Basics Division: Office of the General Manager How long have
+  you been at City Light? Since August 2024 Tell us about your role. I do any and
+  all things for the office of our General Manager &#038; CEO Dawn Lindell! This includes
+  the basics like sche...'
+original_markdown_body: 'The Basics Division: Office of the General Manager How long
+  have you been at City Light? Since August 2024 Tell us about your role. I do any
+  and all things for the office of our General Manager & CEO Dawn Lindell! This includes
+  the basics like sche...'
 published: false
 source: City of Seattle
 source_url: https://powerlines.seattle.gov/2025/11/24/seattle-city-spotlight-brittney-garcia-stubbs-executive-assistant-to-the-general-manager-ceo/

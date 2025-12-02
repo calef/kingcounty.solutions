@@ -1,6 +1,14 @@
 ---
 date: '2025-10-09T16:13:30+00:00'
 images: []
+original_content: |-
+  Join us in welcoming Emily Robinson to the VRFA CARES Team!
+
+  Emily is a second-year Master of Social Work student at UW Tacoma. She earned her undergraduate degree in Psychology and Sociology at the University of Washington, Seattle. Emily’s journey in social work began at Kitsap Mental Health Services, where she discovered her passion for supporting low-income individuals seeking behavioral health services. Witnessing the gaps in their care truly inspired her to make a difference in the community.
+
+  Outside of her studies, she enjoys spending time with her rescue Pitbull mix, cooking, and enjoying music. She says she is thrilled to be part of the VRFA CARES team and looks forward to providing meaningful support to those in need!
+
+  The post [University of Washington Master of Social Work Student Joins VRFA CARES Team](https://www.vrfa.org/2025/10/university-of-washington-master-of-social-work-student-joins-vrfa-cares-team/) appeared first on [Valley Regional Fire Authority (VRFA)](https://www.vrfa.org).
 source: Valley Regional Fire Authority
 source_url: https://www.vrfa.org/2025/10/university-of-washington-master-of-social-work-student-joins-vrfa-cares-team/
 summarized: true

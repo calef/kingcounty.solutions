@@ -1,6 +1,14 @@
 ---
 date: '2025-11-26T18:13:11+00:00'
 images: []
+original_content: Seattle police officers arrested a 30-year-old violent felon armed
+  with a machete while doing proactive patrols in the Chinatown-International District
+  yesterday morning. On Nov. 25 at 2:00 a.m., officers patrolling 12th Avenue South
+  and South King Str...
+original_markdown_body: Seattle police officers arrested a 30-year-old violent felon
+  armed with a machete while doing proactive patrols in the Chinatown-International
+  District yesterday morning. On Nov. 25 at 2:00 a.m., officers patrolling 12th Avenue
+  South and South King Str...
 source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/11/26/violent-felon-arrested-for-warrants-armed-with-a-machete/
 summarized: true

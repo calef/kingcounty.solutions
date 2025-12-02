@@ -1,6 +1,16 @@
 ---
 date: '2025-10-30T18:49:22+00:00'
 images: []
+original_content: The National School-Based Health Alliance is seeking contributions
+  from SBHC providers and advocates focused on student health. They invite proposals
+  that highlight innovative practices in health care, partnerships, and policy improvement.
+  Participants can showcase their impact, inspire action, and connect with leaders
+  in the upcoming 2026 National School-Based Health Care Conference.
+original_markdown_body: The National School-Based Health Alliance is seeking contributions
+  from SBHC providers and advocates focused on student health. They invite proposals
+  that highlight innovative practices in health care, partnerships, and policy improvement.
+  Participants can showcase their impact, inspire action, and connect with leaders
+  in the upcoming 2026 National School-Based Health Care Conference.
 source: King County School Health
 source_url: https://kingcountyschoolhealthdotcom.wordpress.com/2025/10/30/share-your-expertise-at-the-2026-national-school-based-health-care-conference-be-the-change-youth-training-program/
 summarized: true

@@ -1,6 +1,12 @@
 ---
 date: '2025-11-18T12:00:00+00:00'
 images: []
+original_content: Four California residents were sentenced to prison for their roles
+  in defrauding Medicare of nearly $16 million through sham hospice companies and
+  laundering the fraudulent proceeds.
+original_markdown_body: Four California residents were sentenced to prison for their
+  roles in defrauding Medicare of nearly $16 million through sham hospice companies
+  and laundering the fraudulent proceeds.
 source: Department of Justice
 source_url: https://www.justice.gov/opa/pr/four-california-residents-sentenced-prison-connection-16m-hospice-fraud-and-money-laundering
 summarized: true

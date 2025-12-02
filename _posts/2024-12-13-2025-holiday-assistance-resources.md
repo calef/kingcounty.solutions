@@ -2,6 +2,852 @@
 date: '2024-12-13T00:30:59+00:00'
 images:
 - 52d30367c20604216cf5a109646e761b8edd73aa1c5680c3d088109d8bfd7bc5
+original_content: "<div class=\"wp-block-columns container-narrow has-1-columns is-layout-flex
+  wp-container-28 wp-block-columns-is-layout-flex\">\n<div class=\"wp-block-column
+  is-layout-flow wp-block-column-is-layout-flow\">\n<h2 class=\"wp-block-heading\">2025
+  Holiday Assistance Resources</h2>\n\n\n\n<figure class=\"wp-block-image size-large\"><img
+  decoding=\"async\" loading=\"lazy\" width=\"1024\" height=\"683\" src=\"https://www.hopelink.org/wp-content/uploads/2024/12/2024_Holiday_assitance-1024x683.jpg\"
+  alt=\"A family sits down to open a holiday present.\" class=\"wp-image-10301\" title=\"A
+  family sits down to open a present.\" srcset=\"https://www.hopelink.org/wp-content/uploads/2024/12/2024_Holiday_assitance-1024x683.jpg
+  1024w, https://www.hopelink.org/wp-content/uploads/2024/12/2024_Holiday_assitance-300x200.jpg
+  300w, https://www.hopelink.org/wp-content/uploads/2024/12/2024_Holiday_assitance-768x512.jpg
+  768w, https://www.hopelink.org/wp-content/uploads/2024/12/2024_Holiday_assitance-1536x1024.jpg
+  1536w, https://www.hopelink.org/wp-content/uploads/2024/12/2024_Holiday_assitance-2048x1365.jpg
+  2048w, https://www.hopelink.org/wp-content/uploads/2024/12/2024_Holiday_assitance-720x480.jpg
+  720w\" sizes=\"(max-width: 1024px) 100vw, 1024px\" /></figure>\n\n\n\n<div style=\"height:35px\"
+  aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<h2 class=\"wp-block-heading\">Printable
+  Flyers</h2>\n\n\n\n<p> To support you, <strong>we’ve put together a list of holiday-specific
+  resources</strong> to help you navigate the season. You can access the printable
+  handout and translations, or view our live blog for real-time updates by continuing
+  below:</p>\n\n\n\n<div style=\"height:15px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<p><a
+  href=\"https://www.hopelink.org/wp-content/uploads/2023/03/HL-Holiday-Resources-2025.pdf\"
+  target=\"_blank\" rel=\"noreferrer noopener\"><strong>English</strong>: More Information</a> </p>\n\n\n\n<p><a
+  href=\"https://www.hopelink.org/wp-content/uploads/2023/03/Holiday-Resources-Chinese.pdf\"><strong>Chinese:</strong>
+  更多信息</a> | <a href=\"https://www.hopelink.org/wp-content/uploads/2023/03/Holiday-Resources-Korean.pdf\"><strong>Korean:</strong>
+  자세한 정보</a>| <a href=\"https://www.hopelink.org/wp-content/uploads/2023/03/Holiday-Resources-Pashto.pdf\"><strong>Pashto</strong>: معلومات</a> |
+  <a href=\"https://www.hopelink.org/wp-content/uploads/2023/03/Holiday-Resources-Portuguese.pdf\"><strong>Portuguese:</strong>
+  Mais informações</a> | <a href=\"https://www.hopelink.org/wp-content/uploads/2023/03/Holiday-Resources-Russian.pdf\"><strong>Russian:</strong>
+  Больше информации</a> | <a href=\"https://www.hopelink.org/wp-content/uploads/2023/03/Holiday-Resources-Spanish.pdf\"><strong>Spanish</strong>: Información</a> | <a
+  href=\"https://www.hopelink.org/wp-content/uploads/2023/03/Holiday-Resources-Ukrainian.pdf\"><strong>Ukrainian</strong>: інформація</a> | <a
+  href=\"https://www.hopelink.org/wp-content/uploads/2023/03/Holiday-Resources-Vietnamese.pdf\"><strong>Vietnamese</strong>:
+  Thông tin </a></p>\n\n\n\n<div style=\"height:35px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<h3
+  class=\"wp-block-heading\">Hopelink</h3>\n\n\n\n<p><strong>Details:</strong> During
+  the November and December holiday season, Hopelink’s five Food Markets offer a variety
+  of special seasonal foods for households. Such foods include squashes and pumpkins,
+  spices, stuffing mixes, fresh cranberries, baking supplies, and protein options
+  as funding allows.</p>\n\n\n\n\t<div id=\"button-block_fbb7f792a34cacbddff0999abaa73976\"
+  class=\"button block \">\n\t\t<section class=\"type-body-md\">\n\t\t\t<div class=\"Rwest-ButtonBlock--container\">\n\t\t\t\t<div
+  class=\"Rwest-ButtonBlock--section-cta d-flex w-full justify-content-flex-start
+  pb-5 default-padding\">\n\t\t\t\t\t<a href=\"https://www.hopelink.org/programs/food-program/\"
+  class=\"Button --secondary   \" target=\"_self\">\n\t\t\t\t\t\tFood Program\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t</div>\n\n\n\n<div
+  style=\"height:35px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<h2
+  class=\"wp-block-heading\">North and East King County</h2>\n\n\n\n<div style=\"height:35px\"
+  aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<h3 class=\"wp-block-heading\">Eastridge
+  Church</h3>\n\n\n\n<p><strong>Date:</strong>&nbsp;November 22 |&nbsp;<strong>Time:</strong>&nbsp;9:00
+  a.m. – while supplies last<br><strong>Location:</strong>&nbsp;Eastridge Church,
+  24205 SE Issaquah-Fall City Rd, Issaquah, WA 98029.</p>\n\n\n\n<p>Eastridge Church
+  will distribute 1,500 turkeys between Issaquah and West Seattle and bags of groceries
+  to those in the community who need a little&nbsp;assistance&nbsp;to put a holiday
+  meal on their table.&nbsp;First-come, first-served, with no demonstration of the
+  need to receive&nbsp;assistance.&nbsp;</p>\n\n\n\n\t<div id=\"button-block_74de2ae7ee36e592dcf65aaa8ce5de16\"
+  class=\"button block \">\n\t\t<section class=\"type-body-md\">\n\t\t\t<div class=\"Rwest-ButtonBlock--container\">\n\t\t\t\t<div
+  class=\"Rwest-ButtonBlock--section-cta d-flex w-full justify-content-flex-start
+  pb-5 default-padding\">\n\t\t\t\t\t<a href=\"https://www.eastridgetoday.com/event/turkey-giveaway/\"
+  class=\"Button --secondary   \" target=\"_self\" rel=\"noopener\">\n\t\t\t\t\t\tWebsite\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t</div>\n\n\n\n<div
+  style=\"height:35px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<h3
+  class=\"wp-block-heading\">Essentials First &#8211; Community Dinner</h3>\n\n\n\n<p><strong>Date:</strong>&nbsp;November
+  25 |&nbsp;<strong>Time:</strong>&nbsp;12:00&nbsp;p.m.&nbsp;&#8211;&nbsp;2:00 p.m.
+  <br><strong>Location:</strong>&nbsp;16305 NE 87th St, Suite 110, Redmond, WA 98052</p>\n\n\n\n<p>Hosted
+  at the Together Center, Essentials First&nbsp;is hosting&nbsp;a thanksgiving style
+  meal&nbsp;and giveaways.&nbsp;All are welcome at no cost.&nbsp;Please RSVP here:&nbsp;<a
+  href=\"https://bit.ly/4panMZc\" target=\"_blank\" rel=\"noreferrer noopener\">https://bit.ly/4panMZc</a>&nbsp;&nbsp;</p>\n\n\n\n\t<div
+  id=\"button-block_3823a9e6a01d6385de808f6ba558d152\" class=\"button block \">\n\t\t<section
+  class=\"type-body-md\">\n\t\t\t<div class=\"Rwest-ButtonBlock--container\">\n\t\t\t\t<div
+  class=\"Rwest-ButtonBlock--section-cta d-flex w-full justify-content-flex-start
+  pb-5 default-padding\">\n\t\t\t\t\t<a href=\"https://www.essentialsfirst.org/syb/\"
+  class=\"Button --secondary   \" target=\"_self\" rel=\"noopener\">\n\t\t\t\t\t\tWebsite\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t</div>\n\n\n\n<div
+  style=\"height:35px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<h3
+  class=\"wp-block-heading\"><strong>Holy Family Parish – Thanksgiving Dinner</strong></h3>\n\n\n\n<p><strong>Date:</strong>&nbsp;November&nbsp;27&nbsp;|&nbsp;<strong>Call
+  parish for times:</strong>&nbsp;<a href=\"tel:4258220295\" target=\"_blank\" rel=\"noreferrer
+  noopener\">(425)-822-0295</a>&nbsp;<br><strong>Location:</strong>&nbsp;7045 120th
+  Ave NE, Kirkland, WA 98033.&nbsp;</p>\n\n\n\n<p>Holy Family Parish in Kirkland is
+  holding its 16th annual Thanksgiving Community Dinner.&nbsp;Free takeout&nbsp;meals&nbsp;for
+  the community.&nbsp;</p>\n\n\n\n\t<div id=\"button-block_70a53e8ed2846696c8fdc72456e32ff1\"
+  class=\"button block \">\n\t\t<section class=\"type-body-md\">\n\t\t\t<div class=\"Rwest-ButtonBlock--container\">\n\t\t\t\t<div
+  class=\"Rwest-ButtonBlock--section-cta d-flex w-full justify-content-flex-start
+  pb-5 default-padding\">\n\t\t\t\t\t<a href=\" https://www.parishesofkirkland.org/event/thanksgiving-community-dinner  \"
+  class=\"Button --secondary   \" target=\"_self\">\n\t\t\t\t\t\tWebsite\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t</div>\n\n\n\n<div
+  style=\"height:35px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<h3
+  class=\"wp-block-heading\"><strong>St. John’s Episcopal Church &amp; Iman Center
+  of Kirkland Community Dinner</strong></h3>\n\n\n\n<p><strong>Date:</strong>&nbsp;November
+  29&nbsp;|&nbsp;<strong>Time:</strong>&nbsp;6:00 p.m. – 7:00 p.m.&nbsp;<br><strong>Location:</strong>&nbsp;127
+  State St. S. Kirkland, WA 98033.&nbsp;</p>\n\n\n\n<p>This&nbsp;Community Dinner
+  is held on the last Saturday of every month at St. John’s&nbsp;in&nbsp;partnership
+  with the <a href=\"https://www.iman-wa.org/\" target=\"_blank\" rel=\"noreferrer
+  noopener\">IMAN Center</a><a href=\"https://www.iman-wa.org/\" target=\"_blank\"
+  rel=\"noreferrer noopener\">.</a>&nbsp;Offer meals to anyone in our community who
+  would like one.&nbsp;No need to RSVP; please just show up.&nbsp;&nbsp;</p>\n\n\n\n\t<div
+  id=\"button-block_54b49ec8f663062cc22f3fb2cb872fb0\" class=\"button block \">\n\t\t<section
+  class=\"type-body-md\">\n\t\t\t<div class=\"Rwest-ButtonBlock--container\">\n\t\t\t\t<div
+  class=\"Rwest-ButtonBlock--section-cta d-flex w-full justify-content-flex-start
+  pb-5 default-padding\">\n\t\t\t\t\t<a href=\"https://www.stjohnskirkland.org/community-dinners \"
+  class=\"Button --secondary   \" target=\"_self\" rel=\"noopener\">\n\t\t\t\t\t\tWebsite\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t</div>\n\n\n\n<div
+  style=\"height:35px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<h3
+  class=\"wp-block-heading\">Pride Across the Bridge &#8211; Annual Queer Holiday
+  Potluck</h3>\n\n\n\n<p><strong>Date:</strong>&nbsp;December 13&nbsp;|&nbsp;<strong>Time:</strong>&nbsp;6:00
+  p.m. – 8:00 p.m.<br><strong>Location:</strong>&nbsp;Details are private and will
+  be sent along with your free ticket reservation.&nbsp;</p>\n\n\n\n<p>Join Pride
+  Across the Bridge for&nbsp;the&nbsp;fifth annual Queer Holiday Potluck, on December
+  13th!&nbsp;This is an&nbsp;opportunity for our queer neighbors to connect in a sacred
+  space with great food and even better people! This is a free, all ages event.&nbsp;Register&nbsp;here:&nbsp;<a
+  href=\"https://givebutter.com/Q-Potluck25\" target=\"_blank\" rel=\"noreferrer noopener\">https://givebutter.com/Q-Potluck25</a>&nbsp;&nbsp;</p>\n\n\n\n\t<div
+  id=\"button-block_6c009191863b7a9b2c78333f9e46b444\" class=\"button block \">\n\t\t<section
+  class=\"type-body-md\">\n\t\t\t<div class=\"Rwest-ButtonBlock--container\">\n\t\t\t\t<div
+  class=\"Rwest-ButtonBlock--section-cta d-flex w-full justify-content-flex-start
+  pb-5 default-padding\">\n\t\t\t\t\t<a href=\"https://givebutter.com/Q-Potluck25 \"
+  class=\"Button --secondary   \" target=\"_self\" rel=\"noopener\">\n\t\t\t\t\t\tWebsite\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t</div>\n\n\n\n<div
+  style=\"height:35px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<h2
+  class=\"wp-block-heading\">Greater Seattle Region</h2>\n\n\n\n<div style=\"height:35px\"
+  aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<h3 class=\"wp-block-heading\"><strong>Ballard
+  Community Dinner</strong></h3>\n\n\n\n<p><strong>Date:</strong>&nbsp;Every Wednesday
+  Time: 5:00 p.m. –&nbsp;6:00 p.m. <br><strong>Location:&nbsp;</strong>1401 NW Leary
+  Way, Seattle, WA 98107 |&nbsp;<strong>Phone:</strong> <a href=\"http://2063645200\"
+  target=\"_blank\">(206)-364-5200</a></p>\n\n\n\n<p>Free, welcoming Wednesday evening
+  meal at Quest Church where people from all&nbsp;walks of life&nbsp;can gather for
+  food, friendship, and conversation.&nbsp;It’s&nbsp;a space built on compassion and
+  community, staffed by volunteers who help with food prep, serving, and simply being
+  present at the table.&nbsp;Everyone is welcome!&nbsp;</p>\n\n\n\n\t<div id=\"button-block_34e96bb06b3b27cbf32dc8fa39fd99fe\"
+  class=\"button block \">\n\t\t<section class=\"type-body-md\">\n\t\t\t<div class=\"Rwest-ButtonBlock--container\">\n\t\t\t\t<div
+  class=\"Rwest-ButtonBlock--section-cta d-flex w-full justify-content-flex-start
+  pb-5 default-padding\">\n\t\t\t\t\t<a href=\"https://www.communitydinners.com/ballard/\"
+  class=\"Button --secondary   \" target=\"_self\" rel=\"noopener\">\n\t\t\t\t\t\tWebsite\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t</div>\n\n\n\n<div
+  style=\"height:35px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<h3
+  class=\"wp-block-heading\">Bread of Life Mission</h3>\n\n\n\n<p><strong>Date:</strong> November
+  27 | <strong>Time:</strong> 11:30 a.m. – 1:30 p.m. <br><strong>Location: </strong>97
+  South Main St, Seattle, WA 98104 | <strong>Phone:</strong> <a href=\"tel:2066823579\">(206)-682-3579 </a></p>\n\n\n\n<p>Bread
+  of Life Mission&nbsp;will serve a hot meal on Thanksgiving Day, including turkey,
+  ham, stuffing, mashed potatoes, green beans, bread rolls, and pie. They will provide
+  water and beverages.&nbsp;Everyone is welcome!&nbsp;</p>\n\n\n\n\t<div id=\"button-block_1580dcc91b5e47e9bd3867f08f187a0f\"
+  class=\"button block \">\n\t\t<section class=\"type-body-md\">\n\t\t\t<div class=\"Rwest-ButtonBlock--container\">\n\t\t\t\t<div
+  class=\"Rwest-ButtonBlock--section-cta d-flex w-full justify-content-flex-start
+  pb-5 default-padding\">\n\t\t\t\t\t<a href=\"https://www.instagram.com/seattlebolm/\"
+  class=\"Button --secondary   \" target=\"_self\" rel=\"noopener\">\n\t\t\t\t\t\tWebsite\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t</div>\n\n\n\n<div
+  style=\"height:35px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<h3
+  class=\"wp-block-heading\">Eastridge Church Turkey and Groceries Giveaway&nbsp;</h3>\n\n\n\n<p><strong>Date:</strong>&nbsp;November
+  22 |&nbsp;<strong>Time:</strong>&nbsp;9:00 a.m. – while supplies last<br><strong>Location:</strong>&nbsp;24500
+  39<sup>th</sup>&nbsp;Ave SW. West&nbsp;Seattle. | <strong>Phone:</strong> <a href=\"tel:4252706300\">(425)-270-6300</a></p>\n\n\n\n<p>Eastridge
+  Church will distribute 1,500 turkeys between West Seattle and Issaquah and bags
+  of groceries to those in the community who need a little&nbsp;assistance&nbsp;to
+  put a holiday meal on their table.&nbsp;First-come, first-served, with no demonstration
+  of&nbsp;need&nbsp;required to receive&nbsp;assistance.&nbsp;</p>\n\n\n\n\t<div id=\"button-block_74de2ae7ee36e592dcf65aaa8ce5de16\"
+  class=\"button block \">\n\t\t<section class=\"type-body-md\">\n\t\t\t<div class=\"Rwest-ButtonBlock--container\">\n\t\t\t\t<div
+  class=\"Rwest-ButtonBlock--section-cta d-flex w-full justify-content-flex-start
+  pb-5 default-padding\">\n\t\t\t\t\t<a href=\"https://www.eastridgetoday.com/event/turkey-giveaway/\"
+  class=\"Button --secondary   \" target=\"_self\" rel=\"noopener\">\n\t\t\t\t\t\tWebsite\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t</div>\n\n\n\n<div
+  style=\"height:35px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<h3
+  class=\"wp-block-heading\">The Salvation Army – Greenwood&nbsp;</h3>\n\n\n\n<p><strong>Date:</strong>&nbsp;November
+  27 |&nbsp;<strong>Time:</strong>&nbsp;11:00&nbsp;a.m. – 1:00&nbsp;p.m.<br><strong>Location:</strong>&nbsp;9501
+  Greenwood Ave N, Seattle, WA 98103 &#8211;&nbsp;Seattle Temple&nbsp;| <strong>Phone:</strong>&nbsp;<a
+  href=\"tel:2067831225\">(206)-783-1225</a></p>\n\n\n\n<p>Salvation Army at Greenwood&nbsp;will
+  be offering a free Thanksgiving meal with all the classic Thanksgiving dishes and&nbsp;welcoming&nbsp;everyone!&nbsp;</p>\n\n\n\n\t<div
+  id=\"button-block_6b0f47eb7cbed77b10ea5ec04f3f1ec8\" class=\"button block \">\n\t\t<section
+  class=\"type-body-md\">\n\t\t\t<div class=\"Rwest-ButtonBlock--container\">\n\t\t\t\t<div
+  class=\"Rwest-ButtonBlock--section-cta d-flex w-full justify-content-flex-start
+  pb-5 default-padding\">\n\t\t\t\t\t<a href=\"https://www.facebook.com/photo/?fbid=1272546584911787&#038;set=pb.100064693716283.-2207520000\"
+  class=\"Button --secondary   \" target=\"_self\" rel=\"noopener\">\n\t\t\t\t\t\tWebsite\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t</div>\n\n\n\n<div
+  style=\"height:35px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<h3
+  class=\"wp-block-heading\">Seattle Men in Leather &#8211; Seattle’s Queer Community
+  Thanksgiving&nbsp;</h3>\n\n\n\n<p><strong>Date:</strong>&nbsp;November 27&nbsp;|&nbsp;<strong>Time:</strong>&nbsp;3:00
+  p.m. –&nbsp;8:00 p.m.<br><strong>Location:</strong>&nbsp;1701 E. Olive Way, Seattle,
+  WA 98102&nbsp;</p>\n\n\n\n<p>Seattle’s queer organizations&nbsp;will be hosting
+  a&nbsp;potluck Thanksgiving. Bring a dish if you can. There should be more than
+  enough if you cannot. A non-alcoholic holiday beverage will be available.&nbsp;Dinner
+  service from 4:00 p.m. – 7:00 p.m.&nbsp;<strong>Register online:</strong>&nbsp;<a
+  href=\"https://bit.ly/3LOJ8gb\" target=\"_blank\" rel=\"noreferrer noopener\">https://bit.ly/3LOJ8gb</a>&nbsp;</p>\n\n\n\n\t<div
+  id=\"button-block_8f315105d1f3d7f129806dfa4e3a1b31\" class=\"button block \">\n\t\t<section
+  class=\"type-body-md\">\n\t\t\t<div class=\"Rwest-ButtonBlock--container\">\n\t\t\t\t<div
+  class=\"Rwest-ButtonBlock--section-cta d-flex w-full justify-content-flex-start
+  pb-5 default-padding\">\n\t\t\t\t\t<a href=\"https://seattlemeninleather.org/communitygiving/\"
+  class=\"Button --secondary   \" target=\"_self\" rel=\"noopener\">\n\t\t\t\t\t\tWebsite\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t</div>\n\n\n\n<div
+  style=\"height:35px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<h3
+  class=\"wp-block-heading\">Phinney Neighborhood Association <strong>(Holiday Gift
+  Program)</strong></h3>\n\n\n\n<p><strong>Date:&nbsp;</strong>November 27&nbsp;|&nbsp;<strong>Time:</strong>&nbsp;4:00&nbsp;p.m.
+  – 6:00&nbsp;p.m.<br><strong>Location:</strong>&nbsp;Blue Building 6532 Phinney Ave
+  N., Seattle, WA 98103&nbsp;|&nbsp;<strong>Phone:</strong>&nbsp;<a href=\"tel:2067832244\">(206)-783-2244&nbsp;</a></p>\n\n\n\n<p>Join
+  their annual Thanksgiving potluck meal.&nbsp;<strong>RSVP&nbsp;in advance&nbsp;by
+  calling (206)-783-2244 or emailing&nbsp;</strong><a href=\"mailto:PNA@phinneycenter.org\"
+  target=\"_blank\" rel=\"noreferrer noopener\">PNA@phinneycenter.org</a>.&nbsp;This
+  is a&nbsp;free&nbsp;event; please bring a dish to share (if you can).&nbsp;</p>\n\n\n\n\t<div
+  id=\"button-block_3ca28f6e6d6e3acb26a1f54e770de4cd\" class=\"button block \">\n\t\t<section
+  class=\"type-body-md\">\n\t\t\t<div class=\"Rwest-ButtonBlock--container\">\n\t\t\t\t<div
+  class=\"Rwest-ButtonBlock--section-cta d-flex w-full justify-content-flex-start
+  pb-5 default-padding\">\n\t\t\t\t\t<a href=\"https://www.phinneycenter.org/event/thanksgiving-potluck-at-phinney-center-2/2025-11-27/\"
+  class=\"Button --secondary   \" target=\"_self\" rel=\"noopener\">\n\t\t\t\t\t\tWebsite\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t</div>\n\n\n\n<div
+  style=\"height:35px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<h3
+  class=\"wp-block-heading\"><strong>The&nbsp;Alajawan&nbsp;Brown Foundation Family
+  Thanksgiving Dinner&nbsp;&nbsp;</strong></h3>\n\n\n\n<p><strong>Date:</strong>&nbsp;November
+  27&nbsp;|&nbsp;<strong>Time:</strong>&nbsp;11:00&nbsp;a.m. – 2:00&nbsp;p.m.<br><strong>Location:</strong>&nbsp;Talley
+  High School 7800 S 132nd St, Seattle &#8211;&nbsp;<a href=\"https://www.google.com/maps/dir/Talley+High+School,+7800+S+132nd+St,+Seattle,+WA+98178/@47.5934053,-122.455819,11z/data=!4m8!4m7!1m0!1m5!1m1!1s0x549042b94d4571bf:0x1b5c312e3db14ee3!2m2!1d-122.2364926!2d47.4855361?entry=ttu&amp;g_ep=EgoyMDI0MTAyMC4xIKXMDSoASAFQAw%3D%3D\"
+  target=\"_blank\" rel=\"noreferrer noopener\">Talley High School</a>&nbsp;|&nbsp;<strong>Phone:</strong>&nbsp;<a
+  href=\"tel:4252086236\">(425)-208-6236</a><strong>&nbsp;</strong></p>\n\n\n\n<p>Join
+  the&nbsp;Alajawans&nbsp;family for a free Thanksgiving dinner at Albert Talley High
+  School. They will offer fun games and activities to celebrate this day. Doors will
+  open at 11:00&nbsp;a.m. for a social hour and dinner will be served from noon until
+  2:00&nbsp;p.m.&nbsp;Everyone is welcome!&nbsp;</p>\n\n\n\n\t<div id=\"button-block_6c4e3a3b83eb949e1adf3d18d71ff400\"
+  class=\"button block \">\n\t\t<section class=\"type-body-md\">\n\t\t\t<div class=\"Rwest-ButtonBlock--container\">\n\t\t\t\t<div
+  class=\"Rwest-ButtonBlock--section-cta d-flex w-full justify-content-flex-start
+  pb-5 default-padding\">\n\t\t\t\t\t<a href=\"https://mywesthill.org/event/alajawans-community-family-table/\"
+  class=\"Button --secondary   \" target=\"_self\" rel=\"noopener\">\n\t\t\t\t\t\tWebsite\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t</div>\n\n\n\n<div
+  style=\"height:35px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<h3
+  class=\"wp-block-heading\"><strong>The Hall at Fauntleroy: Free Community Thanksgiving
+  Dinner&nbsp;&nbsp;</strong></h3>\n\n\n\n<p><strong>Date:</strong>&nbsp;November
+  27&nbsp;| <strong>Time:</strong>&nbsp;&nbsp;12:00&nbsp;p.m. – 3:00&nbsp;p.m.<br><strong>Location:</strong>&nbsp;&nbsp;9131
+  California Ave. SW.,&nbsp;Seattle,&nbsp;98136.&nbsp;</p>\n\n\n\n<p>28th Annual Free
+  Thanksgiving with all the trimmings.&nbsp;All are welcome &#8211; no RSVP&nbsp;required.&nbsp;</p>\n\n\n\n\t<div
+  id=\"button-block_a3a7d9c105938f20b183fde4645661bb\" class=\"button block \">\n\t\t<section
+  class=\"type-body-md\">\n\t\t\t<div class=\"Rwest-ButtonBlock--container\">\n\t\t\t\t<div
+  class=\"Rwest-ButtonBlock--section-cta d-flex w-full justify-content-flex-start
+  pb-5 default-padding\">\n\t\t\t\t\t<a href=\"https://www.instagram.com/p/DQmlqRsD-u6/\"
+  class=\"Button --secondary   \" target=\"_self\" rel=\"noopener\">\n\t\t\t\t\t\tWebsite\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t</div>\n\n\n\n<div
+  style=\"height:35px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<h3
+  class=\"wp-block-heading\">Ronald United Methodist Church&nbsp;</h3>\n\n\n\n<p><strong>Date:</strong>&nbsp;November
+  27 |&nbsp;<strong>Time:</strong>&nbsp;4:00 p.m.-7:00 p.m.<br><strong>Location:</strong>
+  17839 Aurora Ave N, Shoreline, WA 98133 |&nbsp;<strong>Phone:</strong>&nbsp;<a href=\"tel:4252025962\">(425)-202-5962</a></p>\n\n\n\n<p>Come
+  and celebrate Thanksgiving at Ronald Commons Café<strong>.&nbsp;</strong>They will
+  be offering a full sit-down Thanksgiving dinner with turkey, gravy, mashed potatoes,
+  green beans, and vegetarian options as well.&nbsp;Everyone is welcome!&nbsp;</p>\n\n\n\n\t<div
+  id=\"button-block_9dadcdf8fff5984145acffb79efef6fa\" class=\"button block \">\n\t\t<section
+  class=\"type-body-md\">\n\t\t\t<div class=\"Rwest-ButtonBlock--container\">\n\t\t\t\t<div
+  class=\"Rwest-ButtonBlock--section-cta d-flex w-full justify-content-flex-start
+  pb-5 default-padding\">\n\t\t\t\t\t<a href=\"https://www.ronaldumc.org/\" class=\"Button
+  --secondary   \" target=\"_self\" rel=\"noopener\">\n\t\t\t\t\t\tWebsite\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t</div>\n\n\n\n<div
+  style=\"height:35px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<h2
+  class=\"wp-block-heading\"><strong>Additional Resources&nbsp;in Snohomish and Pierce
+  Counties</strong>&nbsp;</h2>\n\n\n\n<div style=\"height:35px\" aria-hidden=\"true\"
+  class=\"wp-block-spacer\"></div>\n\n\n\n<h3 class=\"wp-block-heading\">Tacoma PD
+  – Drive Thru Turkey Giveaway&nbsp;</h3>\n\n\n\n<p><strong>Date:&nbsp;</strong>November&nbsp;18
+  |<strong>&nbsp;Time:</strong>&nbsp;11:00 a.m. <br><strong>Location:&nbsp;</strong>2727
+  East D St., Tacoma, WA 98421. Tacoma Dome.&nbsp;</p>\n\n\n\n<p><strong>Date:&nbsp;</strong>November&nbsp;22
+  |<strong>&nbsp;Time:&nbsp;</strong>10:00 a.m. <br><strong>Location:&nbsp;</strong>1721
+  E 56th St., Tacoma, WA 98404. Eastside Community Center&nbsp;</p>\n\n\n\n<p><strong>Date:&nbsp;</strong>November<strong>&nbsp;</strong>24
+  |<strong>&nbsp;Time:&nbsp;</strong>6:00 p.m.<br><strong>Location:&nbsp;</strong>1602
+  Martin Luther King Jr Way, Tacoma, WA 98405. People’s Center&nbsp;</p>\n\n\n\n<p>Tacoma
+  Venues &amp; Events and the Tacoma Police Department, along with generous sponsors
+  and volunteers, are hosting the third annual Thanksgiving drive-through Turkey Giveaway
+  at 3 dates in 3&nbsp;locations.&nbsp;Everyone is welcome&nbsp;while supplies last!&nbsp;</p>\n\n\n\n\t<div
+  id=\"button-block_f5ed30c25da823e47c28f14e75bc7b05\" class=\"button block \">\n\t\t<section
+  class=\"type-body-md\">\n\t\t\t<div class=\"Rwest-ButtonBlock--container\">\n\t\t\t\t<div
+  class=\"Rwest-ButtonBlock--section-cta d-flex w-full justify-content-flex-start
+  pb-5 default-padding\">\n\t\t\t\t\t<a href=\"https://www.tacomadome.org/events/detail/turkey-giveaway-2025\"
+  class=\"Button --secondary   \" target=\"_self\" rel=\"noopener\">\n\t\t\t\t\t\tWebsite\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t</div>\n\n\n\n<div
+  style=\"height:35px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<h3
+  class=\"wp-block-heading\">Westgate Chapel Thanksgiving Dinner&nbsp;</h3>\n\n\n\n<p><strong>Date:</strong>&nbsp;November
+  27&nbsp;|&nbsp;<strong>Time:</strong>&nbsp;Seatings at 11:00&nbsp;a.m., 1:30 p.m.,
+  and 3:30 p.m.<br><strong>Location:</strong>&nbsp;22901 Edmonds Way, Edmonds, WA.
+  98020 &#8211;&nbsp;Westgate Chapel&nbsp;|&nbsp;<strong>Phone:</strong>&nbsp;<a href=\"tel:4257752776\">(425)-775-2776</a></p>\n\n\n\n<p>Free
+  Family Thanksgiving Dinner with all the trimmings. Beautiful&nbsp;“sit down” dinner
+  complete with all the holiday trimmings. There will be three dinner seating times,
+  and the dining room is filled on a first-come, first-served basis. Seatings are
+  at 11 a.m., 1:30 p.m.&nbsp;and&nbsp;3:30 p.m.&nbsp;There are no reservations.&nbsp;Everyone
+  is invited free of charge!&nbsp;</p>\n\n\n\n\t<div id=\"button-block_35fe1aa6f355b6b0d1afd1bc0d485245\"
+  class=\"button block \">\n\t\t<section class=\"type-body-md\">\n\t\t\t<div class=\"Rwest-ButtonBlock--container\">\n\t\t\t\t<div
+  class=\"Rwest-ButtonBlock--section-cta d-flex w-full justify-content-flex-start
+  pb-5 default-padding\">\n\t\t\t\t\t<a href=\"https://www.westgatechapel.com/\" class=\"Button
+  --secondary   \" target=\"_self\" rel=\"noopener\">\n\t\t\t\t\t\tWebsite\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t</div>\n\n\n\n<div
+  style=\"height:35px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<h2
+  class=\"wp-block-heading\"><strong>Gift Cards and Toys</strong></h2>\n\n\n\n<div
+  style=\"height:35px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<h3
+  class=\"wp-block-heading\">USPS Operation Santa&nbsp;</h3>\n\n\n\n<p>USPS&nbsp;<em>Operation
+  Santa®</em>&nbsp;is open&nbsp;for&nbsp;families who could use extra support this
+  holiday season. Write a letter to Santa and it may be “adopted” by someone who wants
+  to help.&nbsp;Children can write letters to Santa; some letters receive responses
+  &amp;/or gifts which are shipped directly to the child.&nbsp;Gifts distributed via
+  USPS prior to 12/25/2025.&nbsp;<strong>Visit&nbsp;</strong><a href=\"https://www.uspsoperationsanta.com/getinvolved\"
+  target=\"_blank\" rel=\"noreferrer noopener\"><strong>https://www.uspsoperationsanta.com/getinvolved</strong></a><strong>&nbsp;</strong><strong>to
+  learn how to&nbsp;submit&nbsp;your letter and receive a little holiday cheer.</strong>&nbsp;</p>\n\n\n\n\t<div
+  id=\"button-block_83d3583197fccb71f3818b2f35234aef\" class=\"button block \">\n\t\t<section
+  class=\"type-body-md\">\n\t\t\t<div class=\"Rwest-ButtonBlock--container\">\n\t\t\t\t<div
+  class=\"Rwest-ButtonBlock--section-cta d-flex w-full justify-content-flex-start
+  pb-5 default-padding\">\n\t\t\t\t\t<a href=\"https://www.uspsoperationsanta.com/\"
+  class=\"Button --secondary   \" target=\"_self\" rel=\"noopener\">\n\t\t\t\t\t\tWebsite\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t</div>\n\n\n\n<div
+  style=\"height:35px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<h3
+  class=\"wp-block-heading\">Forgotten Children’s&nbsp;Fund&nbsp;&nbsp;</h3>\n\n\n\n<p>From
+  now&nbsp;thru&nbsp;12/16/2025 Forgotten&nbsp;Children’s Fund&nbsp;is providing&nbsp;a
+  Christmas experience for families in need in Western Washington.&nbsp;For working
+  families who do not qualify for&nbsp;assistance&nbsp;from other public or charitable
+  organizations.&nbsp;Must have at least one child between the ages of&nbsp;3-10.&nbsp;Must
+  be available for phone screening.&nbsp;If you have not been contacted by 12/18,
+  your application will not be processed.&nbsp;&nbsp;</p>\n\n\n\n<p><strong>Apply
+  here:&nbsp;</strong><a href=\"https://www.forgottenchildrensfund.org/request-help\"
+  target=\"_blank\" rel=\"noreferrer noopener\">https://www.forgottenchildrensfund.org/request-help</a>&nbsp;&nbsp;</p>\n\n\n\n\t<div
+  id=\"button-block_74c8d85771342923c0b16f3ba1d3f31f\" class=\"button block \">\n\t\t<section
+  class=\"type-body-md\">\n\t\t\t<div class=\"Rwest-ButtonBlock--container\">\n\t\t\t\t<div
+  class=\"Rwest-ButtonBlock--section-cta d-flex w-full justify-content-flex-start
+  pb-5 default-padding\">\n\t\t\t\t\t<a href=\"https://www.forgottenchildrensfund.org/request-help\"
+  class=\"Button --secondary   \" target=\"_self\" rel=\"noopener\">\n\t\t\t\t\t\tWebsite\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t</div>\n\n\n\n<div
+  style=\"height:35px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<h3
+  class=\"wp-block-heading\">Christmas House Gifts Program&nbsp;</h3>\n\n\n\n<p><strong>Date:&nbsp;</strong>Christmas
+  House will be open Thurs., Dec. 4 through Sat., Dec. 20, 2025.&nbsp;|<strong>&nbsp;Time:</strong>&nbsp;Tuesday
+  – Friday, 9:00 a.m. – 1:00 p.m.,&nbsp;Saturdays, 9:00 a.m. – 2:30 p.m.<br><strong>Location:&nbsp;</strong>Everett
+  Boys and Girls Club, 2316 – 12th Street, Everett, WA.</p>\n\n\n\n<p>The Christmas&nbsp;House
+  provides holiday gifts for qualifying, low-income, Snohomish County families with
+  children age 18 or younger.&nbsp;To qualify to shop at Christmas House, you must
+  provide proof that you:&nbsp;</p>\n\n\n\n<div class=\"wp-block-columns container-narrow
+  has-1-columns is-layout-flex wp-container-26 wp-block-columns-is-layout-flex\">\n<div
+  class=\"wp-block-column is-layout-flow wp-block-column-is-layout-flow\">\n<ul>\n<li>Are
+  a resident of Snohomish County,&nbsp;</li>\n</ul>\n\n\n\n<ul>\n<li>Have children
+  aged 18 or younger living in your custody, and&nbsp;</li>\n</ul>\n\n\n\n<ul>\n<li>Have
+  a household income at or below 150% of the poverty level, as defined by the United
+  States Department of Health and Human Services (<a href=\"https://christmas-house.org/wp-content/uploads/2025/08/2025IncomeChart.pdf\"
+  target=\"_blank\" rel=\"noreferrer noopener\">View 2025 Income Chart</a>).&nbsp;</li>\n</ul>\n</div>\n</div>\n\n\n\n<div
+  style=\"height:15px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n\t<div
+  id=\"button-block_4c39f4af2635b35302c500d91492f3bd\" class=\"button block \">\n\t\t<section
+  class=\"type-body-md\">\n\t\t\t<div class=\"Rwest-ButtonBlock--container\">\n\t\t\t\t<div
+  class=\"Rwest-ButtonBlock--section-cta d-flex w-full justify-content-flex-start
+  pb-5 default-padding\">\n\t\t\t\t\t<a href=\"https://christmas-house.org/shop/\"
+  class=\"Button --secondary   \" target=\"_self\" rel=\"noopener\">\n\t\t\t\t\t\tWebsite\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t</div>\n\n\n\n<div
+  style=\"height:35px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<h3
+  class=\"wp-block-heading\">Holy Innocents Food Pantry: Holiday Food Support&nbsp;</h3>\n\n\n\n<p><strong>Date:&nbsp;</strong>Sign
+  up by Dec 10 for gift cards |<strong>&nbsp;Pantry Open Hours:&nbsp;</strong>Tuesdays
+  3:00 p.m. &#8211; 6:30 p.m. and Wednesdays 10:00 a.m. &#8211; noon</p>\n\n\n\n<p>Gift
+  Cards to major retailers like Target, Walmart, and Kroger, and grocery&nbsp;vouchers&nbsp;to
+  Duvall Family Grocer. Gift cards and vouchers will be distributed Dec 16-17 during
+  pantry hours, and the voucher will be good through Sunday, January 1st.&nbsp;&nbsp;</p>\n\n\n\n<p>Clients
+  must be enrolled with the food bank, and within parish boundaries (Duvall and Carnation,
+  parts of Redmond).&nbsp;</p>\n\n\n\n\t<div id=\"button-block_6e392b86792c13de3ff48473d8414668\"
+  class=\"button block \">\n\t\t<section class=\"type-body-md\">\n\t\t\t<div class=\"Rwest-ButtonBlock--container\">\n\t\t\t\t<div
+  class=\"Rwest-ButtonBlock--section-cta d-flex w-full justify-content-flex-start
+  pb-5 default-padding\">\n\t\t\t\t\t<a href=\"https://www.holyinn.org/holy-innocents-food-pantry\"
+  class=\"Button --secondary   \" target=\"_self\" rel=\"noopener\">\n\t\t\t\t\t\tWebsite\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t</div>\n\n\n\n<div
+  style=\"height:35px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<h2
+  class=\"wp-block-heading\">Events and Resource Fairs</h2>\n\n\n\n<h2 class=\"wp-block-heading\">North
+  and East King County</h2>\n\n\n\n<div style=\"height:35px\" aria-hidden=\"true\"
+  class=\"wp-block-spacer\"></div>\n\n\n\n<h3 class=\"wp-block-heading\">Snowflake
+  Lane: Nightly Holiday Parade&nbsp;</h3>\n\n\n\n<p><strong>Date:</strong>&nbsp;November&nbsp;28
+  –&nbsp;December&nbsp;24&nbsp;|<strong>&nbsp;Time:</strong>&nbsp; Every night at
+  7:00&nbsp;p.m.<br><strong>Location:</strong>&nbsp;Between&nbsp;Bellevue Square &amp;
+  Lincoln Square.</p>\n\n\n\n<p>Enjoy nightly parades, dazzling lights, festive music,
+  and holiday characters for all ages.&nbsp;</p>\n\n\n\n\t<div id=\"button-block_3dd7c3a456c3a92ef0444391806e54ef\"
+  class=\"button block \">\n\t\t<section class=\"type-body-md\">\n\t\t\t<div class=\"Rwest-ButtonBlock--container\">\n\t\t\t\t<div
+  class=\"Rwest-ButtonBlock--section-cta d-flex w-full justify-content-flex-start
+  pb-5 default-padding\">\n\t\t\t\t\t<a href=\"https://bellevuecollection.com/snowflakelane/\"
+  class=\"Button --secondary   \" target=\"_self\" rel=\"noopener\">\n\t\t\t\t\t\tWebsite\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t</div>\n\n\n\n<div
+  style=\"height:35px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<h3
+  class=\"wp-block-heading\">Hands on Hanukkah: Mercer Island Harvest Market&nbsp;</h3>\n\n\n\n<p><strong>Date:</strong>&nbsp;November&nbsp;23
+  |&nbsp;<strong>Time:</strong>&nbsp;10:00&nbsp;a.m. – 2:00&nbsp;p.m.<br><strong>Location:</strong>&nbsp;7700
+  SE 32nd St., Mercer Island, WA 98040.&nbsp;</p>\n\n\n\n<p>Celebrate the season at
+  the Mercer Island Harvest Market. Hanukkah-themed crafts, holiday activities, and
+  plenty of festive fun. Explore the community market, connect with neighbors, and
+  get into the Hanukkah spirit!&nbsp;</p>\n\n\n\n\t<div id=\"button-block_455ceb6c0b64d841d0ee0daf94a935ad\"
+  class=\"button block \">\n\t\t<section class=\"type-body-md\">\n\t\t\t<div class=\"Rwest-ButtonBlock--container\">\n\t\t\t\t<div
+  class=\"Rwest-ButtonBlock--section-cta d-flex w-full justify-content-flex-start
+  pb-5 default-padding\">\n\t\t\t\t\t<a href=\"https://sjcc.org/event/hands-on-hanukkah-mi-harvest-market/\"
+  class=\"Button --secondary   \" target=\"_self\" rel=\"noopener\">\n\t\t\t\t\t\tWebsite\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t</div>\n\n\n\n<div
+  style=\"height:35px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<h3
+  class=\"wp-block-heading\">Essentials First Holiday Fair&nbsp;</h3>\n\n\n\n<p><strong>Date:</strong>&nbsp;December
+  5&nbsp;|&nbsp;<strong>Time:</strong>&nbsp;1:00&nbsp;p.m. – 4:00&nbsp;p.m.<br><strong>Location:</strong>&nbsp;The
+  Church of Jesus Christ of Latter-day Saints Bellevue Stake Center, 14536 Main St,
+  Bellevue, WA 98007</p>\n\n\n\n<p>Check out a resource fair with 25+ community partners
+  sharing information, goodies, and services. Pick up a meal and take a selfie with
+  Santa!&nbsp;No RSVP&nbsp;required—just show up!&nbsp;</p>\n\n\n\n\t<div id=\"button-block_b7999ad5ac5a328d61f34418bbe18e07\"
+  class=\"button block \">\n\t\t<section class=\"type-body-md\">\n\t\t\t<div class=\"Rwest-ButtonBlock--container\">\n\t\t\t\t<div
+  class=\"Rwest-ButtonBlock--section-cta d-flex w-full justify-content-flex-start
+  pb-5 default-padding\">\n\t\t\t\t\t<a href=\"https://www.essentialsfirst.org/calendar/event-two-m7sb4\"
+  class=\"Button --secondary   \" target=\"_self\" rel=\"noopener\">\n\t\t\t\t\t\tWebsite\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t</div>\n\n\n\n<div
+  style=\"height:35px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<h3
+  class=\"wp-block-heading\">Kenmore Winter Fest&nbsp;</h3>\n\n\n\n<p><strong>Date:</strong>&nbsp;December
+  6 |&nbsp;<strong>Time:</strong>&nbsp;11:00&nbsp;a.m. – 3:00&nbsp;p.m.<br><strong>Locations:</strong>&nbsp;Kenmore
+  City Hall – 18120 68th Ave NE, Kenmore, WA&nbsp;98028&nbsp;and&nbsp;Hangar Building
+  – 6728 NE 181st St, Kenmore, WA 98028.<br><br>A&nbsp;free&nbsp;family-friendly festival&nbsp;featuring
+  winter activities, treats, and community fun.&nbsp;Everyone is welcome!&nbsp;</p>\n\n\n\n\t<div
+  id=\"button-block_f4389be022e7e8ff1ef5e76f4c63a9b6\" class=\"button block \">\n\t\t<section
+  class=\"type-body-md\">\n\t\t\t<div class=\"Rwest-ButtonBlock--container\">\n\t\t\t\t<div
+  class=\"Rwest-ButtonBlock--section-cta d-flex w-full justify-content-flex-start
+  pb-5 default-padding\">\n\t\t\t\t\t<a href=\"https://www.kenmorewa.gov/our-city/special-events/winterfest\"
+  class=\"Button --secondary   \" target=\"_self\" rel=\"noopener\">\n\t\t\t\t\t\tWebsite\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t</div>\n\n\n\n<div
+  style=\"height:35px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<h3
+  class=\"wp-block-heading\">WinterFest at Kirkland Urban &amp; Tree Lighting&nbsp;</h3>\n\n\n\n<p><strong>Date:</strong>&nbsp;November&nbsp;29
+  |&nbsp;<strong>Time:</strong>&nbsp;4:00&nbsp;p.m. – 8:00&nbsp;p.m.<br><strong>Location:</strong>&nbsp;425
+  Urban&nbsp;Plz, Kirkland, WA 98033<br><br>Kick off the season with live&nbsp;this&nbsp;free&nbsp;evening
+  of&nbsp;entertainment, festive activities, and a community tree lighting.&nbsp;Everyone
+  is welcome!&nbsp;</p>\n\n\n\n\t<div id=\"button-block_e8386257a0e664067ef0c42e75f1e7ba\"
+  class=\"button block \">\n\t\t<section class=\"type-body-md\">\n\t\t\t<div class=\"Rwest-ButtonBlock--container\">\n\t\t\t\t<div
+  class=\"Rwest-ButtonBlock--section-cta d-flex w-full justify-content-flex-start
+  pb-5 default-padding\">\n\t\t\t\t\t<a href=\"https://kirklandurban.com/2025/09/04/winterfest-2025/\"
+  class=\"Button --secondary   \" target=\"_self\" rel=\"noopener\">\n\t\t\t\t\t\tWebsite\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t</div>\n\n\n\n<div
+  style=\"height:35px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<h3
+  class=\"wp-block-heading\">Lights at the Landing&nbsp;</h3>\n\n\n\n<p><strong>Date:</strong>&nbsp;Throughout
+  December<br><strong>Location:</strong>&nbsp;9919 NE 180th St., Bothell, WA 98011<br><br>Celebrate
+  the season of winter in downtown Bothell with a beautiful holiday light display
+  at the Park at Bothell Landing.&nbsp;This free, festive attraction&nbsp;will light
+  up the park throughout December, creating a wonderful holiday atmosphere for all
+  to enjoy.  Everyone is welcome!&nbsp;</p>\n\n\n\n\t<div id=\"button-block_8ff365616dfe66d301acc62a8af6f9bc\"
+  class=\"button block \">\n\t\t<section class=\"type-body-md\">\n\t\t\t<div class=\"Rwest-ButtonBlock--container\">\n\t\t\t\t<div
+  class=\"Rwest-ButtonBlock--section-cta d-flex w-full justify-content-flex-start
+  pb-5 default-padding\">\n\t\t\t\t\t<a href=\"https://www.bothellwa.gov/2377/Lights-at-the-Landing\"
+  class=\"Button --secondary   \" target=\"_self\" rel=\"noopener\">\n\t\t\t\t\t\tWebsite\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t</div>\n\n\n\n<div
+  style=\"height:35px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<h3
+  class=\"wp-block-heading\">Grand Menorah Lighting&nbsp;</h3>\n\n\n\n<p><strong>Date:</strong>&nbsp;December
+  14 |&nbsp;<strong>Time:</strong>&nbsp;4:15 p.m.<br><strong>Location:</strong>&nbsp;25
+  Lakeshore&nbsp;Plz&nbsp;Dr., Kirkland, WA 98033. |&nbsp;<strong>Contact:</strong>&nbsp;<a
+  href=\"mailto:info@chabadkirkland.com\" target=\"_blank\" rel=\"noreferrer noopener\">info@chabadkirkland.com</a>&nbsp;</p>\n\n\n\n<p>Join
+  the North &#8211; Eastside Jewish community as&nbsp;they&nbsp;welcome the holiday
+  of Chanukah with kindling the first light on the grand Menorah together!&nbsp;Event&nbsp;is
+  free of charge.&nbsp;</p>\n\n\n\n\t<div id=\"button-block_2e3690f53eeb033905ba76a2cbeda631\"
+  class=\"button block \">\n\t\t<section class=\"type-body-md\">\n\t\t\t<div class=\"Rwest-ButtonBlock--container\">\n\t\t\t\t<div
+  class=\"Rwest-ButtonBlock--section-cta d-flex w-full justify-content-flex-start
+  pb-5 default-padding\">\n\t\t\t\t\t<a href=\"https://www.jewishkirkland.com/templates/articlecco_cdo/aid/4957883/jewish/Grand-Menorah-Lighting.htm\"
+  class=\"Button --secondary   \" target=\"_self\" rel=\"noopener\">\n\t\t\t\t\t\tWebsite\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t</div>\n\n\n\n<div
+  style=\"height:35px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<h3
+  class=\"wp-block-heading\">Community Bonfires: Kirkland Parks&nbsp;</h3>\n\n\n\n<p><strong>Dates
+  &amp; Locations:</strong>&nbsp;<br>• O.O. Denny Park – 12302 Holes Point Dr. NE,
+  Kirkland, WA 98034&nbsp;| Sunday, 11/30 | 4:35 p.m.&nbsp;<br>• Juanita Beach Park
+  – 9703 NE Juanita Dr., Kirkland, WA 98034&nbsp;| Saturday, 12/20 | 5:35 p.m.&nbsp;<br>•
+  Marina Park – 25 Lakeshore&nbsp;Plz&nbsp;Dr., Kirkland, WA 98033&nbsp;|&nbsp;Monday,
+  12/22 | 2:10 p.m.&nbsp;<br><br><strong>Phone:</strong>&nbsp;<a href=\"tel:4255873345\">(425)-587-3345
+  </a>(Event Updates/Hotline) |&nbsp;<strong>Email:&nbsp;</strong><a href=\"mailto:eparks@kirklandwa.gov\"
+  target=\"_blank\" rel=\"noreferrer noopener\">eparks@kirklandwa.gov</a>&nbsp; </p>\n\n\n\n<p>Kirkland
+  Parks and Community Services warmly welcome the community to enjoy bonfires hosted
+  by City staff that&nbsp;accompany&nbsp;Argosy Cruises&#8217; Christmas Ship Festival
+  stops at waterfront parks.&nbsp;Everyone is welcome!&nbsp;</p>\n\n\n\n\t<div id=\"button-block_695cc9bbec8ae6a5262eda8dfd604f1b\"
+  class=\"button block \">\n\t\t<section class=\"type-body-md\">\n\t\t\t<div class=\"Rwest-ButtonBlock--container\">\n\t\t\t\t<div
+  class=\"Rwest-ButtonBlock--section-cta d-flex w-full justify-content-flex-start
+  pb-5 default-padding\">\n\t\t\t\t\t<a href=\"https://www.kirklandwa.gov/Whats-Happening/Community-Events/Parks-and-Community-Services/Community-Bonfires-at-the-Park\"
+  class=\"Button --secondary   \" target=\"_self\" rel=\"noopener\">\n\t\t\t\t\t\tWebsite\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t</div>\n\n\n\n<div
+  style=\"height:35px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<h3
+  class=\"wp-block-heading\">Redmond Lights: Winter Celebration&nbsp;</h3>\n\n\n\n<p><strong>Date:</strong>&nbsp;December&nbsp;6
+  –&nbsp;January&nbsp;5 |&nbsp;<strong>Time:</strong>&nbsp;5:00&nbsp;p.m. – 11:00&nbsp;p.m.<br><strong>Location:</strong>&nbsp;16101
+  NE Redmond Way, Redmond, WA 98052</p>\n\n\n\n<p>Free workshops, live performances,
+  illuminated art, activity booths, and a glowing light promenade.&nbsp;Everyone is
+  welcome!&nbsp;</p>\n\n\n\n\t<div id=\"button-block_8eb40488f3b7f16e38bbd0bf2edbb0bb\"
+  class=\"button block \">\n\t\t<section class=\"type-body-md\">\n\t\t\t<div class=\"Rwest-ButtonBlock--container\">\n\t\t\t\t<div
+  class=\"Rwest-ButtonBlock--section-cta d-flex w-full justify-content-flex-start
+  pb-5 default-padding\">\n\t\t\t\t\t<a href=\"https://www.redmond.gov/1139/Redmond-Lights\"
+  class=\"Button --secondary   \" target=\"_self\" rel=\"noopener\">\n\t\t\t\t\t\tWebsite\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t</div>\n\n\n\n<div
+  style=\"height:35px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<h3
+  class=\"wp-block-heading\">ShoreLights Winter Light Display&nbsp;</h3>\n\n\n\n<p><strong>Date:</strong>&nbsp;November&nbsp;15
+  | <strong>Time:</strong>&nbsp;&nbsp;5:30 p.m.<br><strong>Location:</strong>&nbsp;Park
+  at Town Center, 17560 Aurora Ave N, Shoreline, WA 98133<br><br>A dazzling showcase
+  of lights illuminating the Shoreline community.&nbsp;Everyone is welcome!&nbsp;</p>\n\n\n\n\t<div
+  id=\"button-block_d598ac452cd3598086c764e4070b8f9c\" class=\"button block \">\n\t\t<section
+  class=\"type-body-md\">\n\t\t\t<div class=\"Rwest-ButtonBlock--container\">\n\t\t\t\t<div
+  class=\"Rwest-ButtonBlock--section-cta d-flex w-full justify-content-flex-start
+  pb-5 default-padding\">\n\t\t\t\t\t<a href=\"https://www.shorelinechamber.org/events-1/lighting-of-the-shorelights-winter-light-display\"
+  class=\"Button --secondary   \" target=\"_self\" rel=\"noopener\">\n\t\t\t\t\t\tWebsite\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t</div>\n\n\n\n<div
+  style=\"height:35px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<h3
+  class=\"wp-block-heading\">Carnation Elementary: Holiday Market&nbsp;</h3>\n\n\n\n<p><strong>Date:</strong>&nbsp;December&nbsp;06
+  |&nbsp;<strong>Time:</strong>&nbsp;4:00&nbsp;p.m. – 7:00&nbsp;p.m.<br><strong>Location:</strong>&nbsp;4950
+  Tolt Ave, Carnation, WA 98014&nbsp;</p>\n\n\n\n<p>Enjoy free arts and crafts for
+  kids, local vendors, choir performances, and festive fun.&nbsp;Everyone is welcome!&nbsp;</p>\n\n\n\n\t<div
+  id=\"button-block_7679116905939d9bed4a332c0a3167e0\" class=\"button block \">\n\t\t<section
+  class=\"type-body-md\">\n\t\t\t<div class=\"Rwest-ButtonBlock--container\">\n\t\t\t\t<div
+  class=\"Rwest-ButtonBlock--section-cta d-flex w-full justify-content-flex-start
+  pb-5 default-padding\">\n\t\t\t\t\t<a href=\"https://www.carnationwa.gov/event/carnation-elementary-holiday-market/\"
+  class=\"Button --secondary   \" target=\"_self\" rel=\"noopener\">\n\t\t\t\t\t\tWebsite\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t</div>\n\n\n\n<div
+  style=\"height:35px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<h3
+  class=\"wp-block-heading\">Christmas in Carnation&nbsp;</h3>\n\n\n\n<p><strong>Date:</strong>&nbsp;December
+  6 | <strong>Time:</strong>&nbsp;1 p.m. – 5 p.m.<br><strong>Location:</strong>&nbsp;Tolt
+  Commons Shelter Area, Bird Street,&nbsp;Downtown Carnation<br><br>A festive community
+  celebration with holiday activities and local partners.&nbsp;Everyone is welcome!&nbsp;</p>\n\n\n\n\t<div
+  id=\"button-block_c542407ce747781451287790702cf2c1\" class=\"button block \">\n\t\t<section
+  class=\"type-body-md\">\n\t\t\t<div class=\"Rwest-ButtonBlock--container\">\n\t\t\t\t<div
+  class=\"Rwest-ButtonBlock--section-cta d-flex w-full justify-content-flex-start
+  pb-5 default-padding\">\n\t\t\t\t\t<a href=\"https://www.carnationchamber.org/christmas-in-carnation/\"
+  class=\"Button --secondary   \" target=\"_self\" rel=\"noopener\">\n\t\t\t\t\t\tWebsite\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t</div>\n\n\n\n<div
+  style=\"height:35px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<h3
+  class=\"wp-block-heading\">Holiday Barn Lighting at Kelsey Creek Farm &nbsp;</h3>\n\n\n\n<p><strong>Date:</strong>&nbsp;December
+  6&nbsp;|&nbsp;<strong>Time:</strong>&nbsp;&nbsp;5:00 p.m. – 6:30 p.m.<br><strong>Location:&nbsp;&nbsp;</strong>Kelsey
+  Creek Farm, 410 130th Pl SE, Bellevue.&nbsp;</p>\n\n\n\n<p>Join the Holiday Barn
+  Lighting&nbsp;free&nbsp;event at Kelsey Creek Farm. This event begins with holiday
+  carols, sheep dressed in lights, a visit from Santa, and a countdown to the lights
+  being turned on.&nbsp;Tickets for select activities will be sold on-site, and coffee
+  and cocoa will be available for purchase.&nbsp;Everyone is welcome!&nbsp;</p>\n\n\n\n\t<div
+  id=\"button-block_7feb253035fb2d1559d8ae79126af24a\" class=\"button block \">\n\t\t<section
+  class=\"type-body-md\">\n\t\t\t<div class=\"Rwest-ButtonBlock--container\">\n\t\t\t\t<div
+  class=\"Rwest-ButtonBlock--section-cta d-flex w-full justify-content-flex-start
+  pb-5 default-padding\">\n\t\t\t\t\t<a href=\"https://bellevuewa.gov/city-government/departments/parks/community-centers/kelsey-creek-farm/events/holiday-barn-lighting\"
+  class=\"Button --secondary   \" target=\"_self\" rel=\"noopener\">\n\t\t\t\t\t\tWebsite\t\t\t\t\t</a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\t</div>\n\n\n\n<div
+  style=\"height:35px\" aria-hidden=\"true\" class=\"wp-block-spacer\"></div>\n\n\n\n<p><em>If
+  you have additional resources or corrections, please <a href=\"https://www.hopelink.org/contact-us/\"
+  data-type=\"page\" data-id=\"1607\">contact us</a> and select &#8220;other&#8221;
+  as the subject line.</em></p>\n\n\n\n<div style=\"height:100px\" aria-hidden=\"true\"
+  class=\"wp-block-spacer\"></div>\n\n\n\n\t<div id=\"wysiwyg-block_7f4c96fb79c20456b57957f62a0da860\"
+  class=\"Rwest-Wysiwyg block504896895008727\">\n\t\t<article id=\"\" class=\" type-body-md
+  gutter\">\n\t\t\t<style>\n.Rwest-ButtonBlock--container .Button {\n    color: #fff
+  !important;\n    text-decoration: none;\n}</p>\n<p>.Rwest-ButtonBlock--container
+  .Button:hover {\n    color: #fff;\n    text-decoration: none!important;\n}</p>\n</style>\n\t\t</article>\n\t</div>\n\n\t<script
+  defer>\n\t\t(() => {\n\t\t\tlet article = document.querySelector('.block504896895008727');\n\n\t\t\tarticle.querySelectorAll('a').forEach(elm
+  => {\n\t\t\t\tif (!elm.href.search(/^(http).+(hopelink.com).+$/)) {\n\t\t\t\t\telm.target
+  = '_blank';\n\t\t\t\t\telm.title = 'Opens in a new tab';\n\t\t\t\t}\n\t\t\t});\n\t\t})();\n\t</script>\n</div>\n</div>"
+original_markdown_body: "## 2025 Holiday Assistance Resources\n\n![A family sits down
+  to open a holiday present.](https://www.hopelink.org/wp-content/uploads/2024/12/2024_Holiday_assitance-1024x683.jpg
+  \"A family sits down to open a present.\")\n\n## Printable Flyers\n\nTo support
+  you, **we’ve put together a list of holiday-specific resources** to help you navigate
+  the season. You can access the printable handout and translations, or view our live
+  blog for real-time updates by continuing below:\n\n[**English** : More Information](https://www.hopelink.org/wp-content/uploads/2023/03/HL-Holiday-Resources-2025.pdf)&nbsp;\n\n[**Chinese:**
+  更多信息](https://www.hopelink.org/wp-content/uploads/2023/03/Holiday-Resources-Chinese.pdf)
+  | [**Korean:** 자세한 정보](https://www.hopelink.org/wp-content/uploads/2023/03/Holiday-Resources-Korean.pdf)| [**Pashto**
+  :&nbsp;معلومات](https://www.hopelink.org/wp-content/uploads/2023/03/Holiday-Resources-Pashto.pdf) |
+  [**Portuguese:** Mais informações](https://www.hopelink.org/wp-content/uploads/2023/03/Holiday-Resources-Portuguese.pdf)
+  | [**Russian:** Больше информации](https://www.hopelink.org/wp-content/uploads/2023/03/Holiday-Resources-Russian.pdf)
+  | [**Spanish** :&nbsp;Información](https://www.hopelink.org/wp-content/uploads/2023/03/Holiday-Resources-Spanish.pdf) | [**Ukrainian**
+  :&nbsp;інформація](https://www.hopelink.org/wp-content/uploads/2023/03/Holiday-Resources-Ukrainian.pdf) | [**Vietnamese**
+  : Thông tin&nbsp;](https://www.hopelink.org/wp-content/uploads/2023/03/Holiday-Resources-Vietnamese.pdf)\n\n###
+  Hopelink\n\n**Details:** During the November and December holiday season, Hopelink’s
+  five Food Markets offer a variety of special seasonal foods for households. Such
+  foods include squashes and pumpkins, spices, stuffing mixes, fresh cranberries,
+  baking supplies, and protein options as funding allows.\n\n<section class=\"type-body-md\">\n\t\t\t<div
+  class=\"Rwest-ButtonBlock--container\">\n\t\t\t\t<div class=\"Rwest-ButtonBlock--section-cta
+  d-flex w-full justify-content-flex-start pb-5 default-padding\">\n\t\t\t\t\t<a href=\"https://www.hopelink.org/programs/food-program/\"
+  class=\"Button --secondary \" target=\"_self\">\n\t\t\t\t\t\tFood Program </a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\n##
+  North and East King County\n\n### Eastridge Church\n\n**Date:** &nbsp;November 22
+  |&nbsp; **Time:** &nbsp;9:00 a.m. – while supplies last  \n**Location:** &nbsp;Eastridge
+  Church, 24205 SE Issaquah-Fall City Rd, Issaquah, WA 98029.\n\nEastridge Church
+  will distribute 1,500 turkeys between Issaquah and West Seattle and bags of groceries
+  to those in the community who need a little&nbsp;assistance&nbsp;to put a holiday
+  meal on their table.&nbsp;First-come, first-served, with no demonstration of the
+  need to receive&nbsp;assistance.&nbsp;\n\n<section class=\"type-body-md\">\n\t\t\t<div
+  class=\"Rwest-ButtonBlock--container\">\n\t\t\t\t<div class=\"Rwest-ButtonBlock--section-cta
+  d-flex w-full justify-content-flex-start pb-5 default-padding\">\n\t\t\t\t\t<a href=\"https://www.eastridgetoday.com/event/turkey-giveaway/\"
+  class=\"Button --secondary \" target=\"_self\" rel=\"noopener\">\n\t\t\t\t\t\tWebsite
+  </a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\n### Essentials First – Community
+  Dinner\n\n**Date:** &nbsp;November 25 |&nbsp; **Time:** &nbsp;12:00&nbsp;p.m.&nbsp;–&nbsp;2:00
+  p.m.   \n**Location:** &nbsp;16305 NE 87th St, Suite 110, Redmond, WA 98052\n\nHosted
+  at the Together Center, Essentials First&nbsp;is hosting&nbsp;a thanksgiving style
+  meal&nbsp;and giveaways.&nbsp;All are welcome at no cost.&nbsp;Please RSVP here:&nbsp;[https://bit.ly/4panMZc](https://bit.ly/4panMZc)&nbsp;&nbsp;\n\n<section
+  class=\"type-body-md\">\n\t\t\t<div class=\"Rwest-ButtonBlock--container\">\n\t\t\t\t<div
+  class=\"Rwest-ButtonBlock--section-cta d-flex w-full justify-content-flex-start
+  pb-5 default-padding\">\n\t\t\t\t\t<a href=\"https://www.essentialsfirst.org/syb/\"
+  class=\"Button --secondary \" target=\"_self\" rel=\"noopener\">\n\t\t\t\t\t\tWebsite
+  </a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\n### **Holy Family Parish –
+  Thanksgiving Dinner**\n\n**Date:** &nbsp;November&nbsp;27&nbsp;|&nbsp; **Call parish
+  for times:** &nbsp;[(425)-822-0295](tel:4258220295)&nbsp;  \n**Location:** &nbsp;7045
+  120th Ave NE, Kirkland, WA 98033.&nbsp;\n\nHoly Family Parish in Kirkland is holding
+  its 16th annual Thanksgiving Community Dinner.&nbsp;Free takeout&nbsp;meals&nbsp;for
+  the community.&nbsp;\n\n<section class=\"type-body-md\">\n\t\t\t<div class=\"Rwest-ButtonBlock--container\">\n\t\t\t\t<div
+  class=\"Rwest-ButtonBlock--section-cta d-flex w-full justify-content-flex-start
+  pb-5 default-padding\">\n\t\t\t\t\t<a href=\"%C2%A0https://www.parishesofkirkland.org/event/thanksgiving-community-dinner%C2%A0%C2%A0\"
+  class=\"Button --secondary \" target=\"_self\">\n\t\t\t\t\t\tWebsite </a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\n###
+  **St. John’s Episcopal Church & Iman Center of Kirkland Community Dinner**\n\n**Date:**
+  &nbsp;November 29&nbsp;|&nbsp; **Time:** &nbsp;6:00 p.m. – 7:00 p.m.&nbsp;  \n**Location:**
+  &nbsp;127 State St. S. Kirkland, WA 98033.&nbsp;\n\nThis&nbsp;Community Dinner is
+  held on the last Saturday of every month at St. John’s&nbsp;in&nbsp;partnership
+  with the [IMAN Center](https://www.iman-wa.org/)[.](https://www.iman-wa.org/)&nbsp;Offer
+  meals to anyone in our community who would like one.&nbsp;No need to RSVP; please
+  just show up.&nbsp;&nbsp;\n\n<section class=\"type-body-md\">\n\t\t\t<div class=\"Rwest-ButtonBlock--container\">\n\t\t\t\t<div
+  class=\"Rwest-ButtonBlock--section-cta d-flex w-full justify-content-flex-start
+  pb-5 default-padding\">\n\t\t\t\t\t<a href=\"https://www.stjohnskirkland.org/community-dinners%C2%A0\"
+  class=\"Button --secondary \" target=\"_self\" rel=\"noopener\">\n\t\t\t\t\t\tWebsite
+  </a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\n### Pride Across the Bridge
+  – Annual Queer Holiday Potluck\n\n**Date:** &nbsp;December 13&nbsp;|&nbsp; **Time:**
+  &nbsp;6:00 p.m. – 8:00 p.m.  \n**Location:** &nbsp;Details are private and will
+  be sent along with your free ticket reservation.&nbsp;\n\nJoin Pride Across the
+  Bridge for&nbsp;the&nbsp;fifth annual Queer Holiday Potluck, on December 13th!&nbsp;This
+  is an&nbsp;opportunity for our queer neighbors to connect in a sacred space with
+  great food and even better people! This is a free, all ages event.&nbsp;Register&nbsp;here:&nbsp;[https://givebutter.com/Q-Potluck25](https://givebutter.com/Q-Potluck25)&nbsp;&nbsp;\n\n<section
+  class=\"type-body-md\">\n\t\t\t<div class=\"Rwest-ButtonBlock--container\">\n\t\t\t\t<div
+  class=\"Rwest-ButtonBlock--section-cta d-flex w-full justify-content-flex-start
+  pb-5 default-padding\">\n\t\t\t\t\t<a href=\"https://givebutter.com/Q-Potluck25%C2%A0\"
+  class=\"Button --secondary \" target=\"_self\" rel=\"noopener\">\n\t\t\t\t\t\tWebsite
+  </a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\n## Greater Seattle Region\n\n###
+  **Ballard Community Dinner**\n\n**Date:** &nbsp;Every Wednesday Time: 5:00 p.m.
+  –&nbsp;6:00 p.m.   \n**Location:&nbsp;** 1401 NW Leary Way, Seattle, WA 98107 |&nbsp;
+  **Phone:** [(206)-364-5200](http://2063645200)\n\nFree, welcoming Wednesday evening
+  meal at Quest Church where people from all&nbsp;walks of life&nbsp;can gather for
+  food, friendship, and conversation.&nbsp;It’s&nbsp;a space built on compassion and
+  community, staffed by volunteers who help with food prep, serving, and simply being
+  present at the table.&nbsp;Everyone is welcome!&nbsp;\n\n<section class=\"type-body-md\">\n\t\t\t<div
+  class=\"Rwest-ButtonBlock--container\">\n\t\t\t\t<div class=\"Rwest-ButtonBlock--section-cta
+  d-flex w-full justify-content-flex-start pb-5 default-padding\">\n\t\t\t\t\t<a href=\"https://www.communitydinners.com/ballard/\"
+  class=\"Button --secondary \" target=\"_self\" rel=\"noopener\">\n\t\t\t\t\t\tWebsite
+  </a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\n### Bread of Life Mission\n\n**Date:**
+  &nbsp;November 27&nbsp;|&nbsp; **Time:** &nbsp;11:30 a.m. – 1:30 p.m.   \n**Location:&nbsp;**
+  97 South Main St, Seattle, WA 98104&nbsp;|&nbsp; **Phone:** &nbsp;[(206)-682-3579&nbsp;](tel:2066823579)\n\nBread
+  of Life Mission&nbsp;will serve a hot meal on Thanksgiving Day, including turkey,
+  ham, stuffing, mashed potatoes, green beans, bread rolls, and pie. They will provide
+  water and beverages.&nbsp;Everyone is welcome!&nbsp;\n\n<section class=\"type-body-md\">\n\t\t\t<div
+  class=\"Rwest-ButtonBlock--container\">\n\t\t\t\t<div class=\"Rwest-ButtonBlock--section-cta
+  d-flex w-full justify-content-flex-start pb-5 default-padding\">\n\t\t\t\t\t<a href=\"https://www.instagram.com/seattlebolm/\"
+  class=\"Button --secondary \" target=\"_self\" rel=\"noopener\">\n\t\t\t\t\t\tWebsite
+  </a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\n### Eastridge Church Turkey
+  and Groceries Giveaway&nbsp;\n\n**Date:** &nbsp;November 22 |&nbsp; **Time:** &nbsp;9:00
+  a.m. – while supplies last  \n**Location:** &nbsp;24500 39<sup>th</sup>&nbsp;Ave
+  SW. West&nbsp;Seattle. | **Phone:** [(425)-270-6300](tel:4252706300)\n\nEastridge
+  Church will distribute 1,500 turkeys between West Seattle and Issaquah and bags
+  of groceries to those in the community who need a little&nbsp;assistance&nbsp;to
+  put a holiday meal on their table.&nbsp;First-come, first-served, with no demonstration
+  of&nbsp;need&nbsp;required to receive&nbsp;assistance.&nbsp;\n\n<section class=\"type-body-md\">\n\t\t\t<div
+  class=\"Rwest-ButtonBlock--container\">\n\t\t\t\t<div class=\"Rwest-ButtonBlock--section-cta
+  d-flex w-full justify-content-flex-start pb-5 default-padding\">\n\t\t\t\t\t<a href=\"https://www.eastridgetoday.com/event/turkey-giveaway/\"
+  class=\"Button --secondary \" target=\"_self\" rel=\"noopener\">\n\t\t\t\t\t\tWebsite
+  </a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\n### The Salvation Army – Greenwood&nbsp;\n\n**Date:**
+  &nbsp;November 27 |&nbsp; **Time:** &nbsp;11:00&nbsp;a.m. – 1:00&nbsp;p.m.  \n**Location:**
+  &nbsp;9501 Greenwood Ave N, Seattle, WA 98103 –&nbsp;Seattle Temple&nbsp;| **Phone:**
+  &nbsp;[(206)-783-1225](tel:2067831225)\n\nSalvation Army at Greenwood&nbsp;will
+  be offering a free Thanksgiving meal with all the classic Thanksgiving dishes and&nbsp;welcoming&nbsp;everyone!&nbsp;\n\n<section
+  class=\"type-body-md\">\n\t\t\t<div class=\"Rwest-ButtonBlock--container\">\n\t\t\t\t<div
+  class=\"Rwest-ButtonBlock--section-cta d-flex w-full justify-content-flex-start
+  pb-5 default-padding\">\n\t\t\t\t\t<a href=\"https://www.facebook.com/photo/?fbid=1272546584911787&amp;set=pb.100064693716283.-2207520000\"
+  class=\"Button --secondary \" target=\"_self\" rel=\"noopener\">\n\t\t\t\t\t\tWebsite
+  </a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\n### Seattle Men in Leather
+  – Seattle’s Queer Community Thanksgiving&nbsp;\n\n**Date:** &nbsp;November 27&nbsp;|&nbsp;
+  **Time:** &nbsp;3:00 p.m. –&nbsp;8:00 p.m.  \n**Location:** &nbsp;1701 E. Olive
+  Way, Seattle, WA 98102&nbsp;\n\nSeattle’s queer organizations&nbsp;will be hosting
+  a&nbsp;potluck Thanksgiving. Bring a dish if you can. There should be more than
+  enough if you cannot. A non-alcoholic holiday beverage will be available.&nbsp;Dinner
+  service from 4:00 p.m. – 7:00 p.m.&nbsp; **Register online:** &nbsp;[https://bit.ly/3LOJ8gb](https://bit.ly/3LOJ8gb)&nbsp;\n\n<section
+  class=\"type-body-md\">\n\t\t\t<div class=\"Rwest-ButtonBlock--container\">\n\t\t\t\t<div
+  class=\"Rwest-ButtonBlock--section-cta d-flex w-full justify-content-flex-start
+  pb-5 default-padding\">\n\t\t\t\t\t<a href=\"https://seattlemeninleather.org/communitygiving/\"
+  class=\"Button --secondary \" target=\"_self\" rel=\"noopener\">\n\t\t\t\t\t\tWebsite
+  </a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\n### Phinney Neighborhood Association
+  **(Holiday Gift Program)**\n\n**Date:&nbsp;** November 27&nbsp;|&nbsp; **Time:**
+  &nbsp;4:00&nbsp;p.m. – 6:00&nbsp;p.m.  \n**Location:** &nbsp;Blue Building 6532
+  Phinney Ave N., Seattle, WA 98103&nbsp;|&nbsp; **Phone:** &nbsp;[(206)-783-2244&nbsp;](tel:2067832244)\n\nJoin
+  their annual Thanksgiving potluck meal.&nbsp;**RSVP&nbsp;in advance&nbsp;by calling
+  (206)-783-2244 or emailing&nbsp;**[PNA@phinneycenter.org](mailto:PNA@phinneycenter.org).&nbsp;This
+  is a&nbsp;free&nbsp;event; please bring a dish to share (if you can).&nbsp;\n\n<section
+  class=\"type-body-md\">\n\t\t\t<div class=\"Rwest-ButtonBlock--container\">\n\t\t\t\t<div
+  class=\"Rwest-ButtonBlock--section-cta d-flex w-full justify-content-flex-start
+  pb-5 default-padding\">\n\t\t\t\t\t<a href=\"https://www.phinneycenter.org/event/thanksgiving-potluck-at-phinney-center-2/2025-11-27/\"
+  class=\"Button --secondary \" target=\"_self\" rel=\"noopener\">\n\t\t\t\t\t\tWebsite
+  </a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\n### **The&nbsp;Alajawan&nbsp;Brown
+  Foundation Family Thanksgiving Dinner&nbsp;&nbsp;**\n\n**Date:** &nbsp;November
+  27&nbsp;|&nbsp; **Time:** &nbsp;11:00&nbsp;a.m. – 2:00&nbsp;p.m.  \n**Location:**
+  &nbsp;Talley High School 7800 S 132nd St, Seattle –&nbsp;[Talley High School](https://www.google.com/maps/dir/Talley+High+School,+7800+S+132nd+St,+Seattle,+WA+98178/@47.5934053,-122.455819,11z/data=!4m8!4m7!1m0!1m5!1m1!1s0x549042b94d4571bf:0x1b5c312e3db14ee3!2m2!1d-122.2364926!2d47.4855361?entry=ttu&g_ep=EgoyMDI0MTAyMC4xIKXMDSoASAFQAw%3D%3D)&nbsp;|&nbsp;
+  **Phone:** &nbsp;[(425)-208-6236](tel:4252086236) **&nbsp;**\n\nJoin the&nbsp;Alajawans&nbsp;family
+  for a free Thanksgiving dinner at Albert Talley High School. They will offer fun
+  games and activities to celebrate this day. Doors will open at 11:00&nbsp;a.m. for
+  a social hour and dinner will be served from noon until 2:00&nbsp;p.m.&nbsp;Everyone
+  is welcome!&nbsp;\n\n<section class=\"type-body-md\">\n\t\t\t<div class=\"Rwest-ButtonBlock--container\">\n\t\t\t\t<div
+  class=\"Rwest-ButtonBlock--section-cta d-flex w-full justify-content-flex-start
+  pb-5 default-padding\">\n\t\t\t\t\t<a href=\"https://mywesthill.org/event/alajawans-community-family-table/\"
+  class=\"Button --secondary \" target=\"_self\" rel=\"noopener\">\n\t\t\t\t\t\tWebsite
+  </a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\n### **The Hall at Fauntleroy:
+  Free Community Thanksgiving Dinner&nbsp;&nbsp;**\n\n**Date:** &nbsp;November 27&nbsp;|
+  **Time:** &nbsp;&nbsp;12:00&nbsp;p.m. – 3:00&nbsp;p.m.  \n**Location:** &nbsp;&nbsp;9131
+  California Ave. SW.,&nbsp;Seattle,&nbsp;98136.&nbsp;\n\n28th Annual Free Thanksgiving
+  with all the trimmings.&nbsp;All are welcome – no RSVP&nbsp;required.&nbsp;\n\n<section
+  class=\"type-body-md\">\n\t\t\t<div class=\"Rwest-ButtonBlock--container\">\n\t\t\t\t<div
+  class=\"Rwest-ButtonBlock--section-cta d-flex w-full justify-content-flex-start
+  pb-5 default-padding\">\n\t\t\t\t\t<a href=\"https://www.instagram.com/p/DQmlqRsD-u6/\"
+  class=\"Button --secondary \" target=\"_self\" rel=\"noopener\">\n\t\t\t\t\t\tWebsite
+  </a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\n### Ronald United Methodist
+  Church&nbsp;\n\n**Date:** &nbsp;November 27 |&nbsp; **Time:** &nbsp;4:00 p.m.-7:00
+  p.m.  \n**Location:** 17839 Aurora Ave N, Shoreline, WA 98133 |&nbsp; **Phone:**
+  &nbsp;[(425)-202-5962](tel:4252025962)\n\nCome and celebrate Thanksgiving at Ronald
+  Commons Café **.&nbsp;** They will be offering a full sit-down Thanksgiving dinner
+  with turkey, gravy, mashed potatoes, green beans, and vegetarian options as well.&nbsp;Everyone
+  is welcome!&nbsp;\n\n<section class=\"type-body-md\">\n\t\t\t<div class=\"Rwest-ButtonBlock--container\">\n\t\t\t\t<div
+  class=\"Rwest-ButtonBlock--section-cta d-flex w-full justify-content-flex-start
+  pb-5 default-padding\">\n\t\t\t\t\t<a href=\"https://www.ronaldumc.org/\" class=\"Button
+  --secondary \" target=\"_self\" rel=\"noopener\">\n\t\t\t\t\t\tWebsite </a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\n##
+  **Additional Resources&nbsp;in Snohomish and Pierce Counties** &nbsp;\n\n### Tacoma
+  PD – Drive Thru Turkey Giveaway&nbsp;\n\n**Date:&nbsp;** November&nbsp;18 | **&nbsp;Time:**
+  &nbsp;11:00 a.m.   \n**Location:&nbsp;** 2727 East D St., Tacoma, WA 98421. Tacoma
+  Dome.&nbsp;\n\n**Date:&nbsp;** November&nbsp;22 | **&nbsp;Time:&nbsp;** 10:00 a.m.
+  \  \n**Location:&nbsp;** 1721 E 56th St., Tacoma, WA 98404. Eastside Community Center&nbsp;\n\n**Date:&nbsp;**
+  November **&nbsp;** 24 | **&nbsp;Time:&nbsp;** 6:00 p.m.  \n**Location:&nbsp;**
+  1602 Martin Luther King Jr Way, Tacoma, WA 98405. People’s Center&nbsp;\n\nTacoma
+  Venues & Events and the Tacoma Police Department, along with generous sponsors and
+  volunteers, are hosting the third annual Thanksgiving drive-through Turkey Giveaway
+  at 3 dates in 3&nbsp;locations.&nbsp;Everyone is welcome&nbsp;while supplies last!&nbsp;\n\n<section
+  class=\"type-body-md\">\n\t\t\t<div class=\"Rwest-ButtonBlock--container\">\n\t\t\t\t<div
+  class=\"Rwest-ButtonBlock--section-cta d-flex w-full justify-content-flex-start
+  pb-5 default-padding\">\n\t\t\t\t\t<a href=\"https://www.tacomadome.org/events/detail/turkey-giveaway-2025\"
+  class=\"Button --secondary \" target=\"_self\" rel=\"noopener\">\n\t\t\t\t\t\tWebsite
+  </a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\n### Westgate Chapel Thanksgiving
+  Dinner&nbsp;\n\n**Date:** &nbsp;November 27&nbsp;|&nbsp; **Time:** &nbsp;Seatings
+  at 11:00&nbsp;a.m., 1:30 p.m., and 3:30 p.m.  \n**Location:** &nbsp;22901 Edmonds
+  Way, Edmonds, WA. 98020 –&nbsp;Westgate Chapel&nbsp;|&nbsp; **Phone:** &nbsp;[(425)-775-2776](tel:4257752776)\n\nFree
+  Family Thanksgiving Dinner with all the trimmings. Beautiful&nbsp;“sit down” dinner
+  complete with all the holiday trimmings. There will be three dinner seating times,
+  and the dining room is filled on a first-come, first-served basis. Seatings are
+  at 11 a.m., 1:30 p.m.&nbsp;and&nbsp;3:30 p.m.&nbsp;There are no reservations.&nbsp;Everyone
+  is invited free of charge!&nbsp;\n\n<section class=\"type-body-md\">\n\t\t\t<div
+  class=\"Rwest-ButtonBlock--container\">\n\t\t\t\t<div class=\"Rwest-ButtonBlock--section-cta
+  d-flex w-full justify-content-flex-start pb-5 default-padding\">\n\t\t\t\t\t<a href=\"https://www.westgatechapel.com/\"
+  class=\"Button --secondary \" target=\"_self\" rel=\"noopener\">\n\t\t\t\t\t\tWebsite
+  </a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\n## **Gift Cards and Toys**\n\n###
+  USPS Operation Santa&nbsp;\n\nUSPS&nbsp;_Operation Santa®_&nbsp;is open&nbsp;for&nbsp;families
+  who could use extra support this holiday season. Write a letter to Santa and it
+  may be “adopted” by someone who wants to help.&nbsp;Children can write letters to
+  Santa; some letters receive responses &/or gifts which are shipped directly to the
+  child.&nbsp;Gifts distributed via USPS prior to 12/25/2025.&nbsp; **Visit&nbsp;**
+  [**https://www.uspsoperationsanta.com/getinvolved**](https://www.uspsoperationsanta.com/getinvolved)
+  **&nbsp;**** to learn how to&nbsp;submit&nbsp;your letter and receive a little holiday
+  cheer.**&nbsp;\n\n<section class=\"type-body-md\">\n\t\t\t<div class=\"Rwest-ButtonBlock--container\">\n\t\t\t\t<div
+  class=\"Rwest-ButtonBlock--section-cta d-flex w-full justify-content-flex-start
+  pb-5 default-padding\">\n\t\t\t\t\t<a href=\"https://www.uspsoperationsanta.com/\"
+  class=\"Button --secondary \" target=\"_self\" rel=\"noopener\">\n\t\t\t\t\t\tWebsite
+  </a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\n### Forgotten Children’s&nbsp;Fund&nbsp;&nbsp;\n\nFrom
+  now&nbsp;thru&nbsp;12/16/2025 Forgotten&nbsp;Children’s Fund&nbsp;is providing&nbsp;a
+  Christmas experience for families in need in Western Washington.&nbsp;For working
+  families who do not qualify for&nbsp;assistance&nbsp;from other public or charitable
+  organizations.&nbsp;Must have at least one child between the ages of&nbsp;3-10.&nbsp;Must
+  be available for phone screening.&nbsp;If you have not been contacted by 12/18,
+  your application will not be processed.&nbsp;&nbsp;\n\n**Apply here:&nbsp;** [https://www.forgottenchildrensfund.org/request-help](https://www.forgottenchildrensfund.org/request-help)&nbsp;&nbsp;\n\n<section
+  class=\"type-body-md\">\n\t\t\t<div class=\"Rwest-ButtonBlock--container\">\n\t\t\t\t<div
+  class=\"Rwest-ButtonBlock--section-cta d-flex w-full justify-content-flex-start
+  pb-5 default-padding\">\n\t\t\t\t\t<a href=\"https://www.forgottenchildrensfund.org/request-help\"
+  class=\"Button --secondary \" target=\"_self\" rel=\"noopener\">\n\t\t\t\t\t\tWebsite
+  </a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\n### Christmas House Gifts
+  Program&nbsp;\n\n**Date:&nbsp;** Christmas House will be open Thurs., Dec. 4 through
+  Sat., Dec. 20, 2025.&nbsp;| **&nbsp;Time:** &nbsp;Tuesday – Friday, 9:00 a.m. –
+  1:00 p.m.,&nbsp;Saturdays, 9:00 a.m. – 2:30 p.m.  \n**Location:&nbsp;** Everett
+  Boys and Girls Club, 2316 – 12th Street, Everett, WA.\n\nThe Christmas&nbsp;House
+  provides holiday gifts for qualifying, low-income, Snohomish County families with
+  children age 18 or younger.&nbsp;To qualify to shop at Christmas House, you must
+  provide proof that you:&nbsp;\n\n- Are a resident of Snohomish County,&nbsp;\n\n-
+  Have children aged 18 or younger living in your custody, and&nbsp;\n\n- Have a household
+  income at or below 150% of the poverty level, as defined by the United States Department
+  of Health and Human Services ([View 2025 Income Chart](https://christmas-house.org/wp-content/uploads/2025/08/2025IncomeChart.pdf)).&nbsp;\n\n<section
+  class=\"type-body-md\">\n\t\t\t<div class=\"Rwest-ButtonBlock--container\">\n\t\t\t\t<div
+  class=\"Rwest-ButtonBlock--section-cta d-flex w-full justify-content-flex-start
+  pb-5 default-padding\">\n\t\t\t\t\t<a href=\"https://christmas-house.org/shop/\"
+  class=\"Button --secondary \" target=\"_self\" rel=\"noopener\">\n\t\t\t\t\t\tWebsite
+  </a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\n### Holy Innocents Food Pantry:
+  Holiday Food Support&nbsp;\n\n**Date:&nbsp;** Sign up by Dec 10 for gift cards |
+  **&nbsp;Pantry Open Hours:&nbsp;** Tuesdays 3:00 p.m. – 6:30 p.m. and Wednesdays
+  10:00 a.m. – noon\n\nGift Cards to major retailers like Target, Walmart, and Kroger,
+  and grocery&nbsp;vouchers&nbsp;to Duvall Family Grocer. Gift cards and vouchers
+  will be distributed Dec 16-17 during pantry hours, and the voucher will be good
+  through Sunday, January 1st.&nbsp;&nbsp;\n\nClients must be enrolled with the food
+  bank, and within parish boundaries (Duvall and Carnation, parts of Redmond).&nbsp;\n\n<section
+  class=\"type-body-md\">\n\t\t\t<div class=\"Rwest-ButtonBlock--container\">\n\t\t\t\t<div
+  class=\"Rwest-ButtonBlock--section-cta d-flex w-full justify-content-flex-start
+  pb-5 default-padding\">\n\t\t\t\t\t<a href=\"https://www.holyinn.org/holy-innocents-food-pantry\"
+  class=\"Button --secondary \" target=\"_self\" rel=\"noopener\">\n\t\t\t\t\t\tWebsite
+  </a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\n## Events and Resource Fairs\n\n##
+  North and East King County\n\n### Snowflake Lane: Nightly Holiday Parade&nbsp;\n\n**Date:**
+  &nbsp;November&nbsp;28 –&nbsp;December&nbsp;24&nbsp;| **&nbsp;Time:** &nbsp; Every
+  night at 7:00&nbsp;p.m.  \n**Location:** &nbsp;Between&nbsp;Bellevue Square & Lincoln
+  Square.\n\nEnjoy nightly parades, dazzling lights, festive music, and holiday characters
+  for all ages.&nbsp;\n\n<section class=\"type-body-md\">\n\t\t\t<div class=\"Rwest-ButtonBlock--container\">\n\t\t\t\t<div
+  class=\"Rwest-ButtonBlock--section-cta d-flex w-full justify-content-flex-start
+  pb-5 default-padding\">\n\t\t\t\t\t<a href=\"https://bellevuecollection.com/snowflakelane/\"
+  class=\"Button --secondary \" target=\"_self\" rel=\"noopener\">\n\t\t\t\t\t\tWebsite
+  </a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\n### Hands on Hanukkah: Mercer
+  Island Harvest Market&nbsp;\n\n**Date:** &nbsp;November&nbsp;23 |&nbsp; **Time:**
+  &nbsp;10:00&nbsp;a.m. – 2:00&nbsp;p.m.  \n**Location:** &nbsp;7700 SE 32nd St.,
+  Mercer Island, WA 98040.&nbsp;\n\nCelebrate the season at the Mercer Island Harvest
+  Market. Hanukkah-themed crafts, holiday activities, and plenty of festive fun. Explore
+  the community market, connect with neighbors, and get into the Hanukkah spirit!&nbsp;\n\n<section
+  class=\"type-body-md\">\n\t\t\t<div class=\"Rwest-ButtonBlock--container\">\n\t\t\t\t<div
+  class=\"Rwest-ButtonBlock--section-cta d-flex w-full justify-content-flex-start
+  pb-5 default-padding\">\n\t\t\t\t\t<a href=\"https://sjcc.org/event/hands-on-hanukkah-mi-harvest-market/\"
+  class=\"Button --secondary \" target=\"_self\" rel=\"noopener\">\n\t\t\t\t\t\tWebsite
+  </a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\n### Essentials First Holiday
+  Fair&nbsp;\n\n**Date:** &nbsp;December 5&nbsp;|&nbsp; **Time:** &nbsp;1:00&nbsp;p.m.
+  – 4:00&nbsp;p.m.  \n**Location:** &nbsp;The Church of Jesus Christ of Latter-day
+  Saints Bellevue Stake Center, 14536 Main St, Bellevue, WA 98007\n\nCheck out a resource
+  fair with 25+ community partners sharing information, goodies, and services. Pick
+  up a meal and take a selfie with Santa!&nbsp;No RSVP&nbsp;required—just show up!&nbsp;\n\n<section
+  class=\"type-body-md\">\n\t\t\t<div class=\"Rwest-ButtonBlock--container\">\n\t\t\t\t<div
+  class=\"Rwest-ButtonBlock--section-cta d-flex w-full justify-content-flex-start
+  pb-5 default-padding\">\n\t\t\t\t\t<a href=\"https://www.essentialsfirst.org/calendar/event-two-m7sb4\"
+  class=\"Button --secondary \" target=\"_self\" rel=\"noopener\">\n\t\t\t\t\t\tWebsite
+  </a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\n### Kenmore Winter Fest&nbsp;\n\n**Date:**
+  &nbsp;December 6 |&nbsp; **Time:** &nbsp;11:00&nbsp;a.m. – 3:00&nbsp;p.m.  \n**Locations:**
+  &nbsp;Kenmore City Hall – 18120 68th Ave NE, Kenmore, WA&nbsp;98028&nbsp;and&nbsp;Hangar
+  Building – 6728 NE 181st St, Kenmore, WA 98028.  \n  \nA&nbsp;free&nbsp;family-friendly
+  festival&nbsp;featuring winter activities, treats, and community fun.&nbsp;Everyone
+  is welcome!&nbsp;\n\n<section class=\"type-body-md\">\n\t\t\t<div class=\"Rwest-ButtonBlock--container\">\n\t\t\t\t<div
+  class=\"Rwest-ButtonBlock--section-cta d-flex w-full justify-content-flex-start
+  pb-5 default-padding\">\n\t\t\t\t\t<a href=\"https://www.kenmorewa.gov/our-city/special-events/winterfest\"
+  class=\"Button --secondary \" target=\"_self\" rel=\"noopener\">\n\t\t\t\t\t\tWebsite
+  </a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\n### WinterFest at Kirkland
+  Urban & Tree Lighting&nbsp;\n\n**Date:** &nbsp;November&nbsp;29 |&nbsp; **Time:**
+  &nbsp;4:00&nbsp;p.m. – 8:00&nbsp;p.m.  \n**Location:** &nbsp;425 Urban&nbsp;Plz,
+  Kirkland, WA 98033  \n  \nKick off the season with live&nbsp;this&nbsp;free&nbsp;evening
+  of&nbsp;entertainment, festive activities, and a community tree lighting.&nbsp;Everyone
+  is welcome!&nbsp;\n\n<section class=\"type-body-md\">\n\t\t\t<div class=\"Rwest-ButtonBlock--container\">\n\t\t\t\t<div
+  class=\"Rwest-ButtonBlock--section-cta d-flex w-full justify-content-flex-start
+  pb-5 default-padding\">\n\t\t\t\t\t<a href=\"https://kirklandurban.com/2025/09/04/winterfest-2025/\"
+  class=\"Button --secondary \" target=\"_self\" rel=\"noopener\">\n\t\t\t\t\t\tWebsite
+  </a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\n### Lights at the Landing&nbsp;\n\n**Date:**
+  &nbsp;Throughout December  \n**Location:** &nbsp;9919 NE 180th St., Bothell, WA
+  98011  \n  \nCelebrate the season of winter in downtown Bothell with a beautiful
+  holiday light display at the Park at Bothell Landing.&nbsp;This free, festive attraction&nbsp;will
+  light up the park throughout December, creating a wonderful holiday atmosphere for
+  all to enjoy.  Everyone is welcome!&nbsp;\n\n<section class=\"type-body-md\">\n\t\t\t<div
+  class=\"Rwest-ButtonBlock--container\">\n\t\t\t\t<div class=\"Rwest-ButtonBlock--section-cta
+  d-flex w-full justify-content-flex-start pb-5 default-padding\">\n\t\t\t\t\t<a href=\"https://www.bothellwa.gov/2377/Lights-at-the-Landing\"
+  class=\"Button --secondary \" target=\"_self\" rel=\"noopener\">\n\t\t\t\t\t\tWebsite
+  </a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\n### Grand Menorah Lighting&nbsp;\n\n**Date:**
+  &nbsp;December 14 |&nbsp; **Time:** &nbsp;4:15 p.m.  \n**Location:** &nbsp;25 Lakeshore&nbsp;Plz&nbsp;Dr.,
+  Kirkland, WA 98033. |&nbsp; **Contact:** &nbsp;[info@chabadkirkland.com](mailto:info@chabadkirkland.com)&nbsp;\n\nJoin
+  the North – Eastside Jewish community as&nbsp;they&nbsp;welcome the holiday of Chanukah
+  with kindling the first light on the grand Menorah together!&nbsp;Event&nbsp;is
+  free of charge.&nbsp;\n\n<section class=\"type-body-md\">\n\t\t\t<div class=\"Rwest-ButtonBlock--container\">\n\t\t\t\t<div
+  class=\"Rwest-ButtonBlock--section-cta d-flex w-full justify-content-flex-start
+  pb-5 default-padding\">\n\t\t\t\t\t<a href=\"https://www.jewishkirkland.com/templates/articlecco_cdo/aid/4957883/jewish/Grand-Menorah-Lighting.htm\"
+  class=\"Button --secondary \" target=\"_self\" rel=\"noopener\">\n\t\t\t\t\t\tWebsite
+  </a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\n### Community Bonfires: Kirkland
+  Parks&nbsp;\n\n**Dates & Locations:** &nbsp;  \n• O.O. Denny Park – 12302 Holes
+  Point Dr. NE, Kirkland, WA 98034&nbsp;| Sunday, 11/30 | 4:35 p.m.&nbsp;  \n• Juanita
+  Beach Park – 9703 NE Juanita Dr., Kirkland, WA 98034&nbsp;| Saturday, 12/20 | 5:35
+  p.m.&nbsp;  \n• Marina Park – 25 Lakeshore&nbsp;Plz&nbsp;Dr., Kirkland, WA 98033&nbsp;|&nbsp;Monday,
+  12/22 | 2:10 p.m.&nbsp;  \n  \n**Phone:** &nbsp;[(425)-587-3345](tel:4255873345)(Event
+  Updates/Hotline) |&nbsp; **Email:&nbsp;** [eparks@kirklandwa.gov](mailto:eparks@kirklandwa.gov)&nbsp;\n\nKirkland
+  Parks and Community Services warmly welcome the community to enjoy bonfires hosted
+  by City staff that&nbsp;accompany&nbsp;Argosy Cruises’ Christmas Ship Festival stops
+  at waterfront parks.&nbsp;Everyone is welcome!&nbsp;\n\n<section class=\"type-body-md\">\n\t\t\t<div
+  class=\"Rwest-ButtonBlock--container\">\n\t\t\t\t<div class=\"Rwest-ButtonBlock--section-cta
+  d-flex w-full justify-content-flex-start pb-5 default-padding\">\n\t\t\t\t\t<a href=\"https://www.kirklandwa.gov/Whats-Happening/Community-Events/Parks-and-Community-Services/Community-Bonfires-at-the-Park\"
+  class=\"Button --secondary \" target=\"_self\" rel=\"noopener\">\n\t\t\t\t\t\tWebsite
+  </a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\n### Redmond Lights: Winter
+  Celebration&nbsp;\n\n**Date:** &nbsp;December&nbsp;6 –&nbsp;January&nbsp;5 |&nbsp;
+  **Time:** &nbsp;5:00&nbsp;p.m. – 11:00&nbsp;p.m.  \n**Location:** &nbsp;16101 NE
+  Redmond Way, Redmond, WA 98052\n\nFree workshops, live performances, illuminated
+  art, activity booths, and a glowing light promenade.&nbsp;Everyone is welcome!&nbsp;\n\n<section
+  class=\"type-body-md\">\n\t\t\t<div class=\"Rwest-ButtonBlock--container\">\n\t\t\t\t<div
+  class=\"Rwest-ButtonBlock--section-cta d-flex w-full justify-content-flex-start
+  pb-5 default-padding\">\n\t\t\t\t\t<a href=\"https://www.redmond.gov/1139/Redmond-Lights\"
+  class=\"Button --secondary \" target=\"_self\" rel=\"noopener\">\n\t\t\t\t\t\tWebsite
+  </a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\n### ShoreLights Winter Light
+  Display&nbsp;\n\n**Date:** &nbsp;November&nbsp;15 | **Time:** &nbsp;&nbsp;5:30 p.m.
+  \ \n**Location:** &nbsp;Park at Town Center, 17560 Aurora Ave N, Shoreline, WA 98133
+  \ \n  \nA dazzling showcase of lights illuminating the Shoreline community.&nbsp;Everyone
+  is welcome!&nbsp;\n\n<section class=\"type-body-md\">\n\t\t\t<div class=\"Rwest-ButtonBlock--container\">\n\t\t\t\t<div
+  class=\"Rwest-ButtonBlock--section-cta d-flex w-full justify-content-flex-start
+  pb-5 default-padding\">\n\t\t\t\t\t<a href=\"https://www.shorelinechamber.org/events-1/lighting-of-the-shorelights-winter-light-display\"
+  class=\"Button --secondary \" target=\"_self\" rel=\"noopener\">\n\t\t\t\t\t\tWebsite
+  </a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\n### Carnation Elementary:
+  Holiday Market&nbsp;\n\n**Date:** &nbsp;December&nbsp;06 |&nbsp; **Time:** &nbsp;4:00&nbsp;p.m.
+  – 7:00&nbsp;p.m.  \n**Location:** &nbsp;4950 Tolt Ave, Carnation, WA 98014&nbsp;\n\nEnjoy
+  free arts and crafts for kids, local vendors, choir performances, and festive fun.&nbsp;Everyone
+  is welcome!&nbsp;\n\n<section class=\"type-body-md\">\n\t\t\t<div class=\"Rwest-ButtonBlock--container\">\n\t\t\t\t<div
+  class=\"Rwest-ButtonBlock--section-cta d-flex w-full justify-content-flex-start
+  pb-5 default-padding\">\n\t\t\t\t\t<a href=\"https://www.carnationwa.gov/event/carnation-elementary-holiday-market/\"
+  class=\"Button --secondary \" target=\"_self\" rel=\"noopener\">\n\t\t\t\t\t\tWebsite
+  </a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\n### Christmas in Carnation&nbsp;\n\n**Date:**
+  &nbsp;December 6 | **Time:** &nbsp;1 p.m. – 5 p.m.  \n**Location:** &nbsp;Tolt Commons
+  Shelter Area, Bird Street,&nbsp;Downtown Carnation  \n  \nA festive community celebration
+  with holiday activities and local partners.&nbsp;Everyone is welcome!&nbsp;\n\n<section
+  class=\"type-body-md\">\n\t\t\t<div class=\"Rwest-ButtonBlock--container\">\n\t\t\t\t<div
+  class=\"Rwest-ButtonBlock--section-cta d-flex w-full justify-content-flex-start
+  pb-5 default-padding\">\n\t\t\t\t\t<a href=\"https://www.carnationchamber.org/christmas-in-carnation/\"
+  class=\"Button --secondary \" target=\"_self\" rel=\"noopener\">\n\t\t\t\t\t\tWebsite
+  </a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\n### Holiday Barn Lighting
+  at Kelsey Creek Farm &nbsp;\n\n**Date:** &nbsp;December 6&nbsp;|&nbsp; **Time:**
+  &nbsp;&nbsp;5:00 p.m. – 6:30 p.m.  \n**Location:&nbsp;&nbsp;** Kelsey Creek Farm,
+  410 130th Pl SE, Bellevue.&nbsp;\n\nJoin the Holiday Barn Lighting&nbsp;free&nbsp;event
+  at Kelsey Creek Farm. This event begins with holiday carols, sheep dressed in lights,
+  a visit from Santa, and a countdown to the lights being turned on.&nbsp;Tickets
+  for select activities will be sold on-site, and coffee and cocoa will be available
+  for purchase.&nbsp;Everyone is welcome!&nbsp;\n\n<section class=\"type-body-md\">\n\t\t\t<div
+  class=\"Rwest-ButtonBlock--container\">\n\t\t\t\t<div class=\"Rwest-ButtonBlock--section-cta
+  d-flex w-full justify-content-flex-start pb-5 default-padding\">\n\t\t\t\t\t<a href=\"https://bellevuewa.gov/city-government/departments/parks/community-centers/kelsey-creek-farm/events/holiday-barn-lighting\"
+  class=\"Button --secondary \" target=\"_self\" rel=\"noopener\">\n\t\t\t\t\t\tWebsite
+  </a>\n\t\t\t\t</div>\n\t\t\t</div>\n\t\t</section>\n\n_If you have additional resources
+  or corrections, please [contact us](https://www.hopelink.org/contact-us/) and select
+  “other” as the subject line._\n\n<style>\n.Rwest-ButtonBlock--container .Button
+  {\n    color: #fff !important;\n    text-decoration: none;\n}</p>\n<p>.Rwest-ButtonBlock--container
+  .Button:hover {\n    color: #fff;\n    text-decoration: none!important;\n}</p>\n</style>\n\n<script
+  defer>\n\t\t(() => {\n\t\t\tlet article = document.querySelector('.block504896895008727');\n\n\t\t\tarticle.querySelectorAll('a').forEach(elm
+  => {\n\t\t\t\tif (!elm.href.search(/^(http).+(hopelink.com).+$/)) {\n\t\t\t\t\telm.target
+  = '_blank';\n\t\t\t\t\telm.title = 'Opens in a new tab';\n\t\t\t\t}\n\t\t\t});\n\t\t})();\n\t</script>"
 source: Hopelink
 source_url: https://www.hopelink.org/blog/2025-holiday-assistance-resources/
 summarized: true

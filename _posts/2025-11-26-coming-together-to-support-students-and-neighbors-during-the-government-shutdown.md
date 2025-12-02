@@ -1,6 +1,14 @@
 ---
 date: '2025-11-26T19:33:34+00:00'
 images: []
+original_content: Over 8,800 food boxes distributed to families at 98 Seattle Public
+  Schools sites When federal funding for the Supplemental Nutrition Assistance Program
+  (SNAP) abruptly lapsed on Nov. 1 due to the Trump administration’s refusal to release
+  dollars from S...
+original_markdown_body: Over 8,800 food boxes distributed to families at 98 Seattle
+  Public Schools sites When federal funding for the Supplemental Nutrition Assistance
+  Program (SNAP) abruptly lapsed on Nov. 1 due to the Trump administration’s refusal
+  to release dollars from S...
 source: City of Seattle
 source_url: https://greenspace.seattle.gov/2025/11/coming-together-to-support-students-and-neighbors-during-the-government-shutdown/
 summarized: true

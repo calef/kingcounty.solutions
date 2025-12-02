@@ -1,6 +1,15 @@
 ---
 date: '2025-09-26T20:47:44+00:00'
 images: []
+original_content: 'Normandy Park’s Annual Property Tax Levy: What It Means for You
+  Fall is officially here, and the City is preparing for its end-of-year activities,
+  which include setting the property tax levy for the upcoming year. This year, Normandy
+  Park will set its annual property tax levy on Wednesday, November 12th. Since property
+  taxes can be confusing, here’s a breakdown of what the levy is, why it matters,
+  and how it’s decided. What Is the Levy? When you pay your property taxes, your money
+  is split between multiple agencies, including schools, King County, the fire district,
+  the library district, and the City of Normandy Park. The City’s levy is just one
+  small piece of that total bill — usually about 10–12% of what you pay each year.'
 published: false
 source: City of Normandy Park
 source_url: https://normandyparkwa.gov/city-news/city-manager/city-manager-report-september-26-2025/

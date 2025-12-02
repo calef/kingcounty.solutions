@@ -1,6 +1,16 @@
 ---
 date: '2025-11-25T12:00:00+00:00'
 images: []
+original_content: The Justice Department announced today that Sky Lease I Inc. (Sky
+  Lease) has paid $1,030,000 to resolve False Claims Act allegations that it falsely
+  reported information about the transfer of U.S. mail to foreign posts or other intended
+  recipients under contracts with the U.S. Postal Service (USPS). Sky Lease is an
+  air cargo delivery company with headquarters in Miami, Florida.
+original_markdown_body: The Justice Department announced today that Sky Lease I Inc.
+  (Sky Lease) has paid $1,030,000 to resolve False Claims Act allegations that it
+  falsely reported information about the transfer of U.S. mail to foreign posts or
+  other intended recipients under contracts with the U.S. Postal Service (USPS). Sky
+  Lease is an air cargo delivery company with headquarters in Miami, Florida.
 published: false
 source: Department of Justice
 source_url: https://www.justice.gov/opa/pr/sky-lease-i-inc-agrees-pay-1030000-settle-false-claims-act-allegations-falsely-reporting

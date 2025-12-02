@@ -1,6 +1,10 @@
 ---
 date: '2025-06-26T17:44:47+00:00'
 images: []
+original_content: At Howard House Home, we’re currently supporting a family of six
+  and could use your help to make their summer a little brighter!   Meal...
+original_markdown_body: At Howard House Home, we’re currently supporting a family
+  of six and could use your help to make their summer a little brighter! &nbsp; Meal...
 source: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/help-bring-comfort-and-joy-to-a-local-family-in-need
 summarized: true

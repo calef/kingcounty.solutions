@@ -1,6 +1,14 @@
 ---
 date: '2025-11-21T12:00:00+00:00'
 images: []
+original_content: A federal grand jury in the Middle District of Florida returned
+  an indictment Wednesday charging a U.K. citizen for his role in a conspiracy to
+  submit fraudulent claims for telehealth services associated with prescriptions for
+  genetic testing and for causing the submission of false Medicare enrollment documents.
+original_markdown_body: A federal grand jury in the Middle District of Florida returned
+  an indictment Wednesday charging a U.K. citizen for his role in a conspiracy to
+  submit fraudulent claims for telehealth services associated with prescriptions for
+  genetic testing and for causing the submission of false Medicare enrollment documents.
 source: Department of Justice
 source_url: https://www.justice.gov/opa/pr/uk-citizen-indicted-27m-telehealth-scheme
 summarized: true

@@ -1,6 +1,16 @@
 ---
 date: '2025-08-28T21:00:21+00:00'
 images: []
+original_content: On June 27, 2024, riders sailed from Vashon Island to downtown Seattle
+  carrying the Vashon flag on the M/V Sally Fox, named for the celebrated advocate
+  of passenger-only ferry service to Vashon. The trip recognized the historic introduction
+  of midday water taxi service to the island, which officially began on July 1, 2024.
+  The expansion&#8230;
+original_markdown_body: On June 27, 2024, riders sailed from Vashon Island to downtown
+  Seattle carrying the Vashon flag on the M/V Sally Fox, named for the celebrated
+  advocate of passenger-only ferry service to Vashon. The trip recognized the historic
+  introduction of midday water taxi service to the island, which officially began
+  on July 1, 2024. The expansion…
 source: King County Ferry District
 source_url: https://kingcountywatertaxiblog.com/2025/08/28/growing-service-happy-riders-midday-water-taxi-service-to-vashon/
 summarized: true

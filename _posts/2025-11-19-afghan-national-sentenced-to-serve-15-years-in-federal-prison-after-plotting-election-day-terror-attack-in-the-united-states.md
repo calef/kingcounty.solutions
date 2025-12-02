@@ -1,6 +1,16 @@
 ---
 date: '2025-11-19T12:00:00+00:00'
 images: []
+original_content: Abdullah Haji Zada, 19, a native and citizen of Afghanistan and
+  U.S. lawful permanent resident, has been sentenced to serve the statutory maximum
+  of 15 years in federal prison for knowingly receiving, attempting to receive, and
+  conspiring to receive a firearm and ammunition to be used to commit a federal crime
+  of terrorism.
+original_markdown_body: Abdullah Haji Zada, 19, a native and citizen of Afghanistan
+  and U.S. lawful permanent resident, has been sentenced to serve the statutory maximum
+  of 15 years in federal prison for knowingly receiving, attempting to receive, and
+  conspiring to receive a firearm and ammunition to be used to commit a federal crime
+  of terrorism.
 published: false
 source: Department of Justice
 source_url: https://www.justice.gov/opa/pr/afghan-national-sentenced-serve-15-years-federal-prison-after-plotting-election-day-terror

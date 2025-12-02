@@ -1,6 +1,17 @@
 ---
 date: '2025-09-24T10:44:30-04:00'
 images: []
+original_content: "<p>artifact_description: Tip Sheet</p><p>date: Wed, 24 Sep 2025
+  07:45:03 -0400</p><p>title: When to Terminate Coverage for Consumers Transitioning
+  from Marketplace to Medicare Coverage</p><p>topic: Transitions in Coverage</p>"
+original_markdown_body: |-
+  artifact\_description: Tip Sheet
+
+  date: Wed, 24 Sep 2025 07:45:03 -0400
+
+  title: When to Terminate Coverage for Consumers Transitioning from Marketplace to Medicare Coverage
+
+  topic: Transitions in Coverage
 source: Centers for Medicare & Medicaid Services
 source_url: https://www.cms.gov//marketplace/agents-brokers/general-resources/when-terminate-coverage-consumers-transitioning-marketplace-medicare-coverage
 summarized: true

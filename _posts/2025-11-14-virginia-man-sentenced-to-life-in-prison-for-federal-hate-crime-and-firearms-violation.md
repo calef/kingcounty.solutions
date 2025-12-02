@@ -1,6 +1,14 @@
 ---
 date: '2025-11-14T12:00:00+00:00'
 images: []
+original_content: Douglas Wayne Cornett of Spotsylvania County, Virginia, was sentenced
+  to life in prison in federal court yesterday after he pleaded guilty to two federal
+  hate crime charges, each involving an attempt to kill, and to discharging a firearm
+  during a federal crime of violence.
+original_markdown_body: Douglas Wayne Cornett of Spotsylvania County, Virginia, was
+  sentenced to life in prison in federal court yesterday after he pleaded guilty to
+  two federal hate crime charges, each involving an attempt to kill, and to discharging
+  a firearm during a federal crime of violence.
 published: false
 source: Department of Justice
 source_url: https://www.justice.gov/opa/pr/virginia-man-sentenced-life-prison-federal-hate-crime-and-firearms-violation
