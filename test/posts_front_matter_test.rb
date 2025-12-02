@@ -75,19 +75,34 @@ class PostsFrontMatterTest < Minitest::Test
     assert_empty errors, "Source URL issues:\n#{errors.join("\n")}"
   end
 
-  def test_allowed_front_matter_fields
-    allowed = Set.new(%w[date images openai_model published source source_url summarized title topics])
+  def test_original_content_is_optional_string
     errors = []
 
     posts.each do |doc|
-      doc[:data].each_key do |field|
-        next if allowed.include?(field.to_s)
+      next unless doc[:data].key?('original_content')
 
-        errors << "#{doc[:path]} contains disallowed front-matter field: #{field}"
-      end
+      value = doc[:data]['original_content']
+      next if value.is_a?(String)
+
+      errors << "#{doc[:path]} original_content must be a string"
     end
 
-    assert_empty errors, "Front-matter field issues:\n#{errors.join("\n")}"
+    assert_empty errors, "Original content issues:\n#{errors.join("\n")}"
+  end
+
+  def test_original_markdown_body_is_optional_string
+    errors = []
+
+    posts.each do |doc|
+      next unless doc[:data].key?('original_markdown_body')
+
+      value = doc[:data]['original_markdown_body']
+      next if value.is_a?(String)
+
+      errors << "#{doc[:path]} original_markdown_body must be a string"
+    end
+
+    assert_empty errors, "Original markdown issues:\n#{errors.join("\n")}"
   end
 
   def test_topics_reference_known_topics
