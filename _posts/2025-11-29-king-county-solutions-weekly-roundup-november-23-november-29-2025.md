@@ -1,5 +1,6 @@
 ---
 date: '2025-11-29T18:00:00-08:00'
+images: []
 openai_model: gpt-5.1
 source: King County Solutions
 summarized: true
