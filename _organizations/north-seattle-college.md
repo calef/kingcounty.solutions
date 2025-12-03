@@ -1,7 +1,6 @@
 ---
 jurisdictions:
 - Seattle
-news_rss_url: https://news.northseattle.edu/sites/newscenter.northseattle.edu/files/north-seattle-college-icon_3.ico
 title: North Seattle College
 topics:
 - Education & Learning
