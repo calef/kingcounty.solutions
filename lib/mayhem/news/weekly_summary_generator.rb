@@ -6,6 +6,7 @@ require 'ruby/openai'
 require 'time'
 require_relative '../logging'
 require_relative '../news/topic_classifier'
+require_relative '../openai/chat_client'
 require_relative '../support/front_matter_document'
 require_relative '../support/slug_generator'
 
@@ -26,20 +27,22 @@ module Mayhem
         llm_limit: LLM_MAX_POSTS,
         topic_dir: TOPIC_DIR,
         topic_model: DEFAULT_TOPIC_MODEL,
-        topic_classifier: nil
+        topic_classifier: nil,
+        chat_client: nil
       )
         @posts_dir = posts_dir
         @logger = logger
         @model = model
         @llm_limit = llm_limit
-        @client = client || OpenAI::Client.new(access_token: ENV.fetch('OPENAI_API_KEY'))
+        @client = client || ::OpenAI::Client.new(access_token: ENV.fetch('OPENAI_API_KEY'))
         @topic_dir = topic_dir
         @topic_model = topic_model
+        @chat_client = chat_client || Mayhem::OpenAI::ChatClient.new(client: @client, logger: @logger)
         @topic_classifier = topic_classifier ||
                             TopicClassifier.new(
                               topic_dir: @topic_dir,
                               model: @topic_model,
-                              client: @client,
+                              chat_client: @chat_client,
                               logger: @logger
                             )
       end
@@ -138,15 +141,15 @@ module Mayhem
           #{JSON.pretty_generate(sample_posts)}
         PROMPT
 
-        raw = call_llm_chat(
-          [
+        raw = @chat_client.call(
+          messages: [
             { role: 'system', content: 'You analyze civic news items and cluster them into weekly themes.' },
             { role: 'user', content: prompt }
           ],
+          model: @model,
           temperature: 0.2
         )
-        sanitized = strip_markdown_code_fence(raw)
-        JSON.parse(sanitized)
+        JSON.parse(raw)
       rescue StandardError => e
         @logger.warn "Theme planning failed (#{e.message}). Using fallback themes."
         fallback_theme_plan(posts)
@@ -164,16 +167,6 @@ module Mayhem
           ],
           'other_ids' => post_ids.drop(6)
         }
-      end
-
-      def strip_markdown_code_fence(text)
-        stripped = text.strip
-        return stripped unless stripped.start_with?('```')
-
-        lines = stripped.lines
-        lines.shift
-        lines.pop if lines.last&.strip == '```'
-        lines.join.strip
       end
 
       def build_context(posts, start_date, end_date, plan)
@@ -241,7 +234,15 @@ module Mayhem
 
       def generate_summary_body(prompt, posts, start_date, end_date, plan)
         [
-          call_llm(prompt).strip,
+          @chat_client.call(
+            messages: [
+              { role: 'system',
+                content: 'You are a concise civic-news editor who writes weekly recaps for King County residents.' },
+              { role: 'user', content: prompt }
+            ],
+            model: @model,
+            temperature: 0.3
+          ).strip,
           @model
         ]
       rescue StandardError => e
@@ -282,35 +283,6 @@ module Mayhem
         end
 
         lines.join("\n")
-      end
-
-      def call_llm(prompt)
-        call_llm_chat(
-          [
-            { role: 'system',
-              content: 'You are a concise civic-news editor who writes weekly recaps for King County residents.' },
-            { role: 'user', content: prompt }
-          ],
-          temperature: 0.3
-        )
-      end
-
-      def call_llm_chat(messages, temperature:)
-        response = @client.chat(
-          parameters: {
-            model: @model,
-            temperature: temperature,
-            messages: messages
-          }
-        )
-        if (error_message = response.dig('error', 'message'))
-          raise "LLM request failed: #{error_message}"
-        end
-
-        content = response.dig('choices', 0, 'message', 'content')
-        raise 'LLM response missing content' unless content
-
-        content
       end
 
       def write_summary(start_date, end_date, body, model_used, topics)

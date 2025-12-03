@@ -31,7 +31,7 @@ module Mayhem
         @posts_dir = posts_dir
         @topic_dir = topic_dir
         @logger = logger
-        @client = client || OpenAI::Client.new(access_token: ENV.fetch('OPENAI_API_KEY'))
+        @client = client || ::OpenAI::Client.new(access_token: ENV.fetch('OPENAI_API_KEY'))
         @http = http_client || Mayhem::Support::HttpClient.new(logger: @logger)
         @topic_classifier = topic_classifier ||
                             TopicClassifier.new(

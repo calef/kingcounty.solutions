@@ -37,9 +37,4 @@ class WeeklySummaryGeneratorTest < Minitest::Test
     assert_includes body, 'We published 2 partner updates'
   end
 
-  def test_strip_markdown_code_fence
-    gen = Mayhem::News::WeeklySummaryGenerator.new(posts_dir: @tmp_posts, logger: @logger, client: Object.new)
-    fenced = "```json\n[\"A\"]\n```"
-    assert_equal '["A"]', gen.send(:strip_markdown_code_fence, fenced)
-  end
 end

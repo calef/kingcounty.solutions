@@ -1,9 +1,9 @@
 # frozen_string_literal: true
 
 require 'json'
-require 'ruby/openai'
 
 require_relative '../logging'
+require_relative '../openai/chat_client'
 require_relative '../support/front_matter_document'
 
 module Mayhem
@@ -13,11 +13,11 @@ module Mayhem
       DEFAULT_MODEL = ENV.fetch('OPENAI_TOPIC_MODEL', ENV.fetch('OPENAI_MODEL', 'gpt-5.1'))
       DEFAULT_TEMPERATURE = 0.2
 
-      def initialize(topic_dir: TOPIC_DIR, model: DEFAULT_MODEL, client: nil, logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'))
+      def initialize(topic_dir: TOPIC_DIR, model: DEFAULT_MODEL, client: nil, chat_client: nil, logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'))
         @topic_dir = topic_dir
         @model = model
         @logger = logger
-        @client = client || OpenAI::Client.new(access_token: ENV.fetch('OPENAI_API_KEY'))
+        @chat_client = chat_client || Mayhem::OpenAI::ChatClient.new(client: client, logger: @logger)
       end
 
       def classify(text)
@@ -50,15 +50,15 @@ module Mayhem
         while attempts < 3
           attempts += 1
           begin
-            response = call_llm(
-              [
+            response = @chat_client.call(
+              messages: [
                 { role: 'system', content: 'You are a precise classification assistant who responds with JSON arrays.' },
                 { role: 'user', content: prompt }
               ],
+              model: @model,
               temperature: DEFAULT_TEMPERATURE
             )
-            cleaned = strip_markdown_code_fence(response)
-            parsed = JSON.parse(cleaned)
+            parsed = JSON.parse(response)
             selections = Array(parsed).map(&:to_s).select { |title| allowed_titles.include?(title) }.uniq
             return selections
           rescue Faraday::TooManyRequestsError
@@ -90,33 +90,6 @@ module Mayhem
         end
       end
 
-      def call_llm(messages, temperature:)
-        response = @client.chat(
-          parameters: {
-            model: @model,
-            temperature: temperature,
-            messages: messages
-          }
-        )
-        if (error_message = response.dig('error', 'message'))
-          raise "LLM request failed: #{error_message}"
-        end
-
-        content = response.dig('choices', 0, 'message', 'content')
-        raise 'LLM response missing content' unless content
-
-        content
-      end
-
-      def strip_markdown_code_fence(text)
-        stripped = text.to_s.strip
-        return stripped unless stripped.start_with?('```')
-
-        lines = stripped.lines
-        lines.shift
-        lines.pop if lines.last&.strip == '```'
-        lines.join.strip
-      end
     end
   end
 end
