@@ -12,7 +12,9 @@ module Mayhem
   module News
     class WeeklySummaryGenerator
       POSTS_DIR = '_posts'
+      TOPIC_DIR = '_topics'
       DEFAULT_MODEL = ENV.fetch('OPENAI_MODEL', 'gpt-5.1')
+      DEFAULT_TOPIC_MODEL = ENV.fetch('OPENAI_TOPIC_MODEL', DEFAULT_MODEL)
       LLM_MAX_POSTS = ENV.fetch('WEEKLY_SUMMARY_LIMIT', '60').to_i
 
       def initialize(
@@ -20,13 +22,17 @@ module Mayhem
         client: nil,
         logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'),
         model: DEFAULT_MODEL,
-        llm_limit: LLM_MAX_POSTS
+        llm_limit: LLM_MAX_POSTS,
+        topic_dir: TOPIC_DIR,
+        topic_model: DEFAULT_TOPIC_MODEL
       )
         @posts_dir = posts_dir
         @logger = logger
         @model = model
         @llm_limit = llm_limit
         @client = client || OpenAI::Client.new(access_token: ENV.fetch('OPENAI_API_KEY'))
+        @topic_dir = topic_dir
+        @topic_model = topic_model
       end
 
       def run
@@ -45,7 +51,10 @@ module Mayhem
         prompt = build_prompt(context)
 
         body, model_used = generate_summary_body(prompt, posts, start_date, end_date, plan)
-        summary_path = write_summary(start_date, end_date, body, model_used)
+        closing = "\n\nWe’ll continue to pull the most actionable updates from partner feeds each week. Let us know if there’s a topic you’d like covered in more depth."
+        document_body = "#{body}#{closing}"
+        topics = generate_topics(document_body)
+        summary_path = write_summary(start_date, end_date, document_body, model_used, topics)
         @logger.info "Created weekly summary: #{summary_path}"
       end
 
@@ -295,7 +304,7 @@ module Mayhem
         content
       end
 
-      def write_summary(start_date, end_date, body, model_used)
+      def write_summary(start_date, end_date, body, model_used, topics)
         title = "King County Solutions Weekly Roundup: #{human_range(start_date, end_date)}"
         slug = Mayhem::Support::SlugGenerator.sanitized_slug(title)
         slug = 'post' if slug.empty?
@@ -311,16 +320,104 @@ module Mayhem
           'source' => 'King County Solutions',
           'summarized' => true,
           'openai_model' => model_used,
-          'images' => []
+          'images' => [],
+          'topics' => topics || []
         }
 
         document = Mayhem::Support::FrontMatterDocument.new(
           path: dest,
           front_matter: front_matter,
-          body: "#{body}\n\nWe’ll continue to pull the most actionable updates from partner feeds each week. Let us know if there’s a topic you’d like covered in more depth."
+          body: body
         )
         document.save
         dest
+      end
+
+      def generate_topics(text)
+        return [] if text.to_s.strip.empty?
+
+        topic_catalog = load_topic_catalog
+        return [] if topic_catalog.empty?
+
+        catalog_lines = topic_catalog.map do |topic|
+          summary = topic['summary']
+          "- #{topic['title']}: #{summary&.empty? ? 'No summary provided.' : summary}"
+        end
+        allowed_titles = topic_catalog.map { |topic| topic['title'] }
+
+        prompt = <<~PROMPT
+          You are selecting topics for a local news post.
+
+          Topic catalog:
+          #{catalog_lines.join("\n")}
+
+          News content:
+          #{text.strip}
+
+          Return a JSON array of topic titles from the catalog above that clearly apply to this news post.
+          Only use titles from the catalog; do not invent new topics.
+          Exclude topics that are only weakly related or unclear.
+        PROMPT
+
+        attempts = 0
+        while attempts < 3
+          attempts += 1
+          begin
+            response = call_topic_llm(
+              [
+                { role: 'system',
+                  content: 'You are a precise classification assistant who responds with JSON arrays.' },
+                { role: 'user', content: prompt }
+              ],
+              temperature: 0.2
+            )
+            cleaned = strip_markdown_code_fence(response)
+            parsed = JSON.parse(cleaned)
+            selected = Array(parsed).map(&:to_s).select { |title| allowed_titles.include?(title) }.uniq
+            return selected
+          rescue Faraday::TooManyRequestsError
+            @logger.warn "Rate limited during topic classification, waiting 5 seconds before retry (attempt #{attempts})"
+            sleep 5
+          rescue JSON::ParserError
+            @logger.warn "Non-JSON response while classifying topics: #{response.inspect}"
+          end
+        end
+
+        []
+      rescue StandardError => e
+        @logger.warn "Topic classification failed: #{e.message}"
+        []
+      end
+
+      def load_topic_catalog
+        Dir.glob(File.join(@topic_dir, '*.md')).filter_map do |path|
+          doc = Mayhem::Support::FrontMatterDocument.load(path, logger: @logger)
+          next unless doc
+
+          title = doc.front_matter['title']
+          summary = doc.body.to_s.strip
+          next unless title
+
+          { 'title' => title, 'summary' => summary }
+        end
+      end
+
+      def call_topic_llm(messages, temperature:)
+        response = @client.chat(
+          parameters: {
+            model: @topic_model,
+            temperature: temperature,
+            messages: messages
+          }
+        )
+        if (error_message = response.dig('error', 'message'))
+          raise "LLM request failed: #{error_message}"
+        end
+
+        content = response.dig('choices', 0, 'message', 'content')
+        raise 'LLM response missing content' unless content
+
+        content
       end
 
       def human_range(start_date, end_date)
