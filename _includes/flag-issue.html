@@ -1,0 +1,46 @@
+{% assign github_owner = site.github.username | default: "calef" %}
+{% assign github_repo = site.github.repository | default: "kingcounty.solutions" %}
+{% assign content_type = include.content_type | default: "content" %}
+{% assign content_title = include.content_title | default: "item" %}
+{% capture issue_base_url %}https://github.com/{{ github_owner }}/{{ github_repo }}/issues/new{% endcapture %}
+{% capture issue_title %}Flag {{ content_type }}: {{ content_title }}{% endcapture %}
+{% assign issue_action_text = include.issue_action | default: "Please describe the requested action." | strip %}
+{%- if issue_action_text contains "\n" -%}
+  {% assign issue_action_text = "\n" | append: issue_action_text %}
+{%- endif -%}
+{% capture issue_body -%}
+- Type: {{ content_type }}
+- Title: {{ content_title }}
+{%- if include.content_url %}
+- Page URL: {{ include.content_url }}
+{%- endif %}
+{%- if include.content_id %}
+- Source file: {{ include.content_id }}
+{%- endif %}
+- Action: {{ issue_action_text }}
+{%- assign assoc_posts = include.associated_posts %}
+{%- if assoc_posts and assoc_posts.size > 0 %}
+Associated posts:
+{%- for assoc_post in assoc_posts %}
+- {{ assoc_post.title }} — {{ assoc_post.url | absolute_url }}
+{%- endfor %}
+{%- endif %}
+{% endcapture %}
+{% assign issue_body = issue_body | strip %}
+{% assign issue_title_param = issue_title | uri_escape %}
+{% assign issue_body_param = issue_body | uri_escape %}
+{% assign issue_url = issue_base_url | append: '?title=' | append: issue_title_param | append: '&body=' | append: issue_body_param | append: '&labels=flag' %}
+{% assign issue_label = include.issue_label | default: "Flag this " | append: content_type | append: ": " | append: content_title | append: " for removal" %}
+{% assign flag_mode = include.mode | default: "link" %}
+{% if flag_mode == "data" %}
+  <span class="flag-issue-data"
+        data-flag-url="{{ issue_url | escape }}"
+        data-flag-label="{{ issue_label | escape }}"
+        data-flag-content-title="{{ content_title | escape }}"
+        data-flag-content-type="{{ content_type | escape }}"></span>
+{% else %}
+  <a class="flag-icon" href="{{ issue_url | escape }}" target="_blank" rel="noopener noreferrer" aria-label="{{ issue_label | escape }}">
+    {% include flag-icon-svg.html %}
+    <span class="sr-only">{{ issue_label | escape }}</span>
+  </a>
+{% endif %}

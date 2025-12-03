@@ -46,9 +46,25 @@ layout: default
       {% endif %}
     {% endfor %}
   {% endif %}
+  {% assign organization_url = page.url | absolute_url %}
+  {% capture org_action %}
+- Delete `_organizations/{{ page.path }}` (and any derived metadata) for {{ page.title }}.
+- Remove {{ page.title }} from the parent_organization hierarchy  - Delete posts with a source of {{ page.title }}.
+- Remove images and their meta data no longer referenced by any posts as a consequence of the removals.
+  {% endcapture %}
+  {% assign org_action = org_action | strip %}
   <header>
     {% include breadcrumbs.html trail=org_trail current=breadcrumb_current %}
-    <h1>{{ page.title }}</h1>
+    <div class="title-with-flag">
+      <h1>{{ page.title }}</h1>
+      {% include flag-issue.html
+        content_type="Organization"
+        content_title=page.title
+        content_url=organization_url
+        content_id=page.path
+        issue_action=org_action
+      %}
+    </div>
     {% if page.topics and page.topics.size > 0 %}
       <div class="topic-tags">
         {% assign sorted_topics = page.topics | sort %}
@@ -76,6 +92,7 @@ layout: default
 
 
   {{ content }}
+  {% assign organization_url = page.url | absolute_url %}
 
   {% if page.website %}
     <p>

@@ -850,3 +850,56 @@
     color: #e5e7eb;
   }
 }
+
+/**
+ * Flag actions
+ */
+.title-with-flag {
+  display: flex;
+  align-items: center;
+  gap: 0.6rem;
+  flex-wrap: wrap;
+}
+
+.flag-issue-data {
+  display: none;
+}
+
+.flag-icon {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 2.25rem;
+  height: 2.25rem;
+  border-radius: 50%;
+  border: 1px solid $brand-color;
+  background: #fff;
+  color: $brand-color;
+  transition: background 0.2s ease, color 0.2s ease, border-color 0.2s ease;
+  text-decoration: none;
+}
+
+.flag-icon svg {
+  width: 1rem;
+  height: 1rem;
+}
+
+.flag-icon:hover,
+.flag-icon:focus-visible {
+  background: $brand-color;
+  color: #fff;
+  border-color: $brand-color;
+}
+
+.media-carousel-status-row {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.35rem;
+}
+
+.media-carousel-flag {
+  padding: 0;
+}
+.media-carousel-flag.is-hidden {
+  visibility: hidden;
+}

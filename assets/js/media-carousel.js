@@ -8,14 +8,26 @@
     const prevButton = carousel.querySelector('[data-carousel-prev]');
     const nextButton = carousel.querySelector('[data-carousel-next]');
     const statusEl = carousel.querySelector('[data-carousel-status]');
+    const flagButton = carousel.querySelector('[data-carousel-flag]');
     const dotButtons = Array.from(carousel.querySelectorAll('[data-carousel-dot]'));
     const slideCount = slides.length;
     let activeIndex = 0;
+    const flagData = slides.map(function(slide) {
+      const dataEl = slide.querySelector('.flag-issue-data');
+      if (!dataEl) {
+        return null;
+      }
+      return {
+        url: dataEl.getAttribute('data-flag-url'),
+        label: dataEl.getAttribute('data-flag-label')
+      };
+    });
 
     function updateUi() {
       if (statusEl) {
         statusEl.textContent = 'Image ' + (activeIndex + 1) + ' of ' + slideCount;
       }
+      updateFlagLink(activeIndex);
       if (prevButton) {
         prevButton.disabled = activeIndex === 0;
       }
@@ -26,6 +38,27 @@
         dot.classList.toggle('is-active', idx === activeIndex);
         dot.setAttribute('aria-current', idx === activeIndex ? 'true' : 'false');
       });
+    }
+
+    function updateFlagLink(index) {
+      if (!flagButton) {
+        return;
+      }
+      const data = flagData[index];
+      if (!data || !data.url) {
+        flagButton.href = '#';
+        flagButton.setAttribute('aria-label', 'Flag this image for removal');
+        flagButton.classList.add('is-hidden');
+        return;
+      }
+      flagButton.classList.remove('is-hidden');
+      flagButton.href = data.url;
+      const label = data.label || 'Flag this image for removal';
+      flagButton.setAttribute('aria-label', label);
+      const sr = flagButton.querySelector('.sr-only');
+      if (sr) {
+        sr.textContent = label;
+      }
     }
 
     function scrollToIndex(index, instant) {

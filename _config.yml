@@ -60,7 +60,9 @@ exclude:
   - Rakefile
   - TODO.md
 future: true
-github_username: calef
+github:
+  username: calef
+  repository: kingcounty.solutions
 pagination:
   enabled: true
   collection: 'posts'
