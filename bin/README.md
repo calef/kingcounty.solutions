@@ -142,6 +142,25 @@ Imports recent partner updates from every `_organizations/*.md` that exposes `ne
 - Emits one INFO summary line per feed describing how many items were imported, skipped as duplicates, stale, etc.
 - Network errors (HTTP failures, SSL issues, socket errors, or timeouts) are logged per-source and skipped so one flakey feed doesn’t halt the full import run.
 
+### `enforce-content-age`
+
+**Purpose**  
+Deletes `_posts/*.md` (and their referenced `_images/*.md` metadata plus any `assets/images/<hash>.*` files) whose `date` front matter falls outside of the configured window.
+
+**Usage**
+
+ - `bin/enforce-content-age`
+
+**Key env/config**
+
+ - `content_max_age_days` – configured in `_config.yml`, defaults to 365. The script honors this value and silently skips content that is already within the threshold.
+
+**Behavior notes**
+
+ - Loads `_config.yml` for `content_max_age_days`; missing or invalid values fall back to 365 days.
+ - Removes posts older than the threshold, then deletes referenced `_images/` metadata files and any assets named after those image checksums (e.g., `assets/images/<hash>.webp`) unless another post still references the same checksum.
+ - Prints a short summary of how many posts and images were removed so you can verify the cleanup before committing.
+
 ### `list-openai-models`
 
 **Purpose**  

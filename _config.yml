@@ -74,5 +74,6 @@ plugins:
   - jekyll-sitemap
   - jekyll-last-modified-at
 rss_max_item_age_days: 365
+content_max_age_days: 365
 title: King County Solutions
 url: "https://calef.github.io"
