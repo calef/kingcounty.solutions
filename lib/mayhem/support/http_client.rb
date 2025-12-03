@@ -4,6 +4,7 @@ require 'net/http'
 require 'openssl'
 require 'uri'
 require 'nokogiri'
+require 'open-uri'
 require 'mayhem/logging'
 
 module Mayhem
@@ -17,25 +18,60 @@ module Mayhem
       DEFAULTS = {
         delay: 0.15,
         max_redirects: 5,
-        timeout: 20,
-        allow_insecure_fallback: true
+        timeout: 30,
+        allow_insecure_fallback: true,
+        max_retries: 3,
+        retry_initial_delay: 0.5,
+        retry_backoff_factor: 2.0
       }.freeze
 
+      RETRYABLE_ERRORS = [
+        OpenURI::HTTPError,
+        SocketError,
+        Net::OpenTimeout,
+        Net::ReadTimeout,
+        Timeout::Error,
+        Errno::ECONNRESET,
+        Errno::ECONNREFUSED,
+        Errno::EHOSTUNREACH,
+        Errno::ETIMEDOUT
+      ].freeze
+
       def initialize(user_agent: UA, delay: DEFAULTS[:delay], max_redirects: DEFAULTS[:max_redirects],
-                     timeout: DEFAULTS[:timeout], allow_insecure_fallback: DEFAULTS[:allow_insecure_fallback], logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'))
+                     timeout: nil, open_timeout: nil, read_timeout: nil,
+                     max_retries: DEFAULTS[:max_retries],
+                     retry_initial_delay: DEFAULTS[:retry_initial_delay],
+                     retry_backoff_factor: DEFAULTS[:retry_backoff_factor],
+                     allow_insecure_fallback: DEFAULTS[:allow_insecure_fallback],
+                     logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'))
         @user_agent = user_agent
         @delay = delay
         @max_redirects = max_redirects
-        @read_timeout = timeout
-        @open_timeout = timeout
+        base_timeout = timeout || DEFAULTS[:timeout]
+        @open_timeout = open_timeout || base_timeout
+        @read_timeout = read_timeout || base_timeout
         @allow_insecure_fallback = allow_insecure_fallback
         @logger = logger
+        @max_retries = [max_retries.to_i, 1].max
+        @retry_initial_delay = retry_initial_delay
+        @retry_backoff_factor = retry_backoff_factor
       end
 
       def fetch(url, accept:, max_bytes:)
-        response = perform_request(url, accept, max_bytes, @max_redirects)
-        sleep @delay
-        response
+        attempt = 0
+        begin
+          attempt += 1
+          response = perform_request(url, accept, max_bytes, @max_redirects)
+          sleep @delay
+          response
+        rescue *RETRYABLE_ERRORS => e
+          raise if attempt >= @max_retries
+
+          wait = @retry_initial_delay * (@retry_backoff_factor**(attempt - 1))
+          @logger.warn "Retrying #{url} after #{e.class} (#{e.message}) in #{format('%.2f', wait)}s (attempt #{attempt}/#{@max_retries})"
+          sleep wait
+          retry
+        end
       end
 
       private

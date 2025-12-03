@@ -43,14 +43,19 @@ module Mayhem
         6
       end
       DEFAULT_OPEN_TIMEOUT = begin
-        Integer(ENV.fetch('RSS_OPEN_TIMEOUT', '5'))
-      rescue StandardError
-        5
-      end
-      DEFAULT_READ_TIMEOUT = begin
-        Integer(ENV.fetch('RSS_READ_TIMEOUT', '10'))
+        Integer(ENV.fetch('RSS_OPEN_TIMEOUT', '10'))
       rescue StandardError
         10
+      end
+      DEFAULT_READ_TIMEOUT = begin
+        Integer(ENV.fetch('RSS_READ_TIMEOUT', '30'))
+      rescue StandardError
+        30
+      end
+      DEFAULT_FETCH_RETRIES = begin
+        Integer(ENV.fetch('RSS_FETCH_RETRIES', '3'))
+      rescue StandardError
+        3
       end
 
       DEFAULT_CONFIG_PATH = File.expand_path('../../../_config.yml', __dir__)
@@ -63,6 +68,7 @@ module Mayhem
         open_timeout: DEFAULT_OPEN_TIMEOUT,
         read_timeout: DEFAULT_READ_TIMEOUT,
         http_client: nil,
+        fetch_retries: DEFAULT_FETCH_RETRIES,
         max_item_age_days: nil,
         config_path: DEFAULT_CONFIG_PATH
       )
@@ -72,10 +78,16 @@ module Mayhem
         @workers = [workers, 1].max
         @open_timeout = open_timeout
         @read_timeout = read_timeout
+        @fetch_retries = fetch_retries
         @existing_posts = build_existing_post_index
         @existing_lock = Mutex.new
         FileUtils.mkdir_p(@news_dir)
-        @http = http_client || Mayhem::Support::HttpClient.new(timeout: @read_timeout, logger: @logger)
+        @http = http_client || Mayhem::Support::HttpClient.new(
+          open_timeout: @open_timeout,
+          read_timeout: @read_timeout,
+          max_retries: @fetch_retries,
+          logger: @logger
+        )
         @max_item_age_days = determine_max_days(max_item_age_days, config_path)
       end
 
