@@ -6,6 +6,8 @@ layout: default
   {% assign post_url = page.url | absolute_url %}
   {% capture post_action %}
 - Set `published: false` in the post front matter so the article is removed from feeds, pagination, and lists.
+- Set the images front matter attribute to [].
+- Delete any image metadata and image files no longer referenced by any posts as a result of taking down this post.
   {% endcapture %}
   {% assign post_action = post_action | strip %}
   <header>
