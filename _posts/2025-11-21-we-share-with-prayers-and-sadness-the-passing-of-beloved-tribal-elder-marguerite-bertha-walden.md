@@ -1,4 +1,5 @@
 ---
+published: false
 date: '2025-11-21T21:13:26+00:00'
 images:
 - 5c765aa2bed4fd3baed75d861343449b131dbd20dfa1a80888d8af1627038493
