@@ -128,7 +128,7 @@ Imports recent partner updates from every `_organizations/*.md` that exposes `ne
 **Key env/config**
 
 - Honors `news_rss_url` and optional metadata (e.g., titles) already in each organization file.
-- Skips RSS items published more than `MAX_ITEM_AGE_DAYS` (365) days ago.
+- Skips RSS items older than `rss_max_item_age_days` (configured in `_config.yml`, default 365) days ago.
 - `RSS_WORKERS` – how many threads to use for fetching/parsing feeds in parallel (default 6). Use a smaller number if you want to be gentler on source servers.
 - `RSS_OPEN_TIMEOUT` / `RSS_READ_TIMEOUT` – per-request open/read timeouts in seconds (defaults 5/10) for both feed fetches and article-body scraping. Increase slightly if you see false positives, or lower to bail out faster on slow sites.
 - `LOG_LEVEL` – logging level shared by all scripts (`TRACE`, `DEBUG`, `INFO`, `WARN`, `ERROR`, or `FATAL`; default `WARN`). Use `INFO` to show per-feed summaries or suppress routine skip notices at higher thresholds.

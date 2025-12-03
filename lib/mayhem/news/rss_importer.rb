@@ -10,6 +10,7 @@ require 'reverse_markdown'
 require 'rss'
 require 'time'
 require 'uri'
+require 'yaml'
 require_relative '../logging'
 require_relative '../support/front_matter_document'
 require_relative '../support/slug_generator'
@@ -52,6 +53,8 @@ module Mayhem
         10
       end
 
+      DEFAULT_CONFIG_PATH = File.expand_path('../../../_config.yml', __dir__)
+
       def initialize(
         news_dir: DEFAULT_NEWS_DIR,
         sources_dir: DEFAULT_SOURCES_DIR,
@@ -59,7 +62,9 @@ module Mayhem
         workers: DEFAULT_MAX_WORKERS,
         open_timeout: DEFAULT_OPEN_TIMEOUT,
         read_timeout: DEFAULT_READ_TIMEOUT,
-        http_client: nil
+        http_client: nil,
+        max_item_age_days: nil,
+        config_path: DEFAULT_CONFIG_PATH
       )
         @news_dir = news_dir
         @sources_dir = sources_dir
@@ -71,6 +76,7 @@ module Mayhem
         @existing_lock = Mutex.new
         FileUtils.mkdir_p(@news_dir)
         @http = http_client || Mayhem::Support::HttpClient.new(timeout: @read_timeout, logger: @logger)
+        @max_item_age_days = determine_max_days(max_item_age_days, config_path)
       end
 
       def run
@@ -217,8 +223,27 @@ module Mayhem
       end
 
       def stale_item?(published_time)
-        cutoff = Time.now - (MAX_ITEM_AGE_DAYS * 24 * 60 * 60)
+        cutoff = Time.now - (@max_item_age_days * 24 * 60 * 60)
         published_time < cutoff
+      end
+
+      def determine_max_days(override, config_path)
+        return override if override
+
+        value = read_config(config_path)
+        return value if value.is_a?(Numeric)
+
+        MAX_ITEM_AGE_DAYS
+      end
+
+      def read_config(config_path)
+        return unless File.exist?(config_path)
+
+        data = YAML.safe_load(File.read(config_path))
+        data && data['rss_max_item_age_days']
+      rescue StandardError => e
+        @logger&.warn("Failed to read config #{config_path}: #{e.message}")
+        nil
       end
 
       def fetch_article_body_html(url)
