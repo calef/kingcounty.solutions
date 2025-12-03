@@ -66,6 +66,76 @@ section {
   margin-top: 1.5rem;
 }
 
+/**
+ * Contact form
+ */
+.contact-page {
+  margin-bottom: 2rem;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.contact-page h1 {
+  margin-bottom: 0.5rem;
+}
+
+.contact-page p {
+  line-height: 1.6;
+}
+
+.contact-form {
+  display: flex;
+  flex-direction: column;
+  gap: 0.85rem;
+  margin-top: 1rem;
+}
+
+.contact-form label {
+  font-weight: 600;
+  font-size: 0.95rem;
+}
+
+.contact-form input,
+.contact-form textarea {
+  border: 1px solid #ced4e0;
+  border-radius: 0.75rem;
+  padding: 0.75rem 0.9rem;
+  font-size: 1rem;
+  font-family: inherit;
+  background: #fff;
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+
+.contact-form input:focus,
+.contact-form textarea:focus {
+  outline: none;
+  border-color: #005293;
+  box-shadow: 0 0 0 3px rgba(0, 82, 147, 0.2);
+}
+
+.contact-form textarea {
+  min-height: 170px;
+  resize: vertical;
+}
+
+.contact-form button {
+  align-self: flex-start;
+  background: #005293;
+  color: #fff;
+  border: none;
+  border-radius: 0.75rem;
+  padding: 0.7rem 1.5rem;
+  font-size: 1rem;
+  font-weight: 600;
+  cursor: pointer;
+  transition: background 0.2s ease;
+}
+
+.contact-form button:hover {
+  background: #003f71;
+}
+
+
 article {
   margin-bottom: 0;
   padding-bottom: 0;

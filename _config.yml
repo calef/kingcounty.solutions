@@ -15,6 +15,8 @@ collections:
     permalink: /topics/:name/
   images:
     output: false
+contact_form_action: "https://formsubmit.co/chris@crickertech.com"
+contact_form_subject: "King County Solutions contact request"
 defaults:
     - scope:
         path: "_topics"
