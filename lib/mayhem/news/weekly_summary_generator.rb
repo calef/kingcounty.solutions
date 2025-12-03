@@ -5,6 +5,7 @@ require 'json'
 require 'ruby/openai'
 require 'time'
 require_relative '../logging'
+require_relative '../news/topic_classifier'
 require_relative '../support/front_matter_document'
 require_relative '../support/slug_generator'
 
@@ -24,7 +25,8 @@ module Mayhem
         model: DEFAULT_MODEL,
         llm_limit: LLM_MAX_POSTS,
         topic_dir: TOPIC_DIR,
-        topic_model: DEFAULT_TOPIC_MODEL
+        topic_model: DEFAULT_TOPIC_MODEL,
+        topic_classifier: nil
       )
         @posts_dir = posts_dir
         @logger = logger
@@ -33,6 +35,13 @@ module Mayhem
         @client = client || OpenAI::Client.new(access_token: ENV.fetch('OPENAI_API_KEY'))
         @topic_dir = topic_dir
         @topic_model = topic_model
+        @topic_classifier = topic_classifier ||
+                            TopicClassifier.new(
+                              topic_dir: @topic_dir,
+                              model: @topic_model,
+                              client: @client,
+                              logger: @logger
+                            )
       end
 
       def run
@@ -53,7 +62,7 @@ module Mayhem
         body, model_used = generate_summary_body(prompt, posts, start_date, end_date, plan)
         closing = "\n\nWe’ll continue to pull the most actionable updates from partner feeds each week. Let us know if there’s a topic you’d like covered in more depth."
         document_body = "#{body}#{closing}"
-        topics = generate_topics(document_body)
+        topics = @topic_classifier.classify(document_body)
         summary_path = write_summary(start_date, end_date, document_body, model_used, topics)
         @logger.info "Created weekly summary: #{summary_path}"
       end
@@ -331,93 +340,6 @@ module Mayhem
         )
         document.save
         dest
-      end
-
-      def generate_topics(text)
-        return [] if text.to_s.strip.empty?
-
-        topic_catalog = load_topic_catalog
-        return [] if topic_catalog.empty?
-
-        catalog_lines = topic_catalog.map do |topic|
-          summary = topic['summary']
-          "- #{topic['title']}: #{summary&.empty? ? 'No summary provided.' : summary}"
-        end
-        allowed_titles = topic_catalog.map { |topic| topic['title'] }
-
-        prompt = <<~PROMPT
-          You are selecting topics for a local news post.
-
-          Topic catalog:
-          #{catalog_lines.join("\n")}
-
-          News content:
-          #{text.strip}
-
-          Return a JSON array of topic titles from the catalog above that clearly apply to this news post.
-          Only use titles from the catalog; do not invent new topics.
-          Exclude topics that are only weakly related or unclear.
-        PROMPT
-
-        attempts = 0
-        while attempts < 3
-          attempts += 1
-          begin
-            response = call_topic_llm(
-              [
-                { role: 'system',
-                  content: 'You are a precise classification assistant who responds with JSON arrays.' },
-                { role: 'user', content: prompt }
-              ],
-              temperature: 0.2
-            )
-            cleaned = strip_markdown_code_fence(response)
-            parsed = JSON.parse(cleaned)
-            selected = Array(parsed).map(&:to_s).select { |title| allowed_titles.include?(title) }.uniq
-            return selected
-          rescue Faraday::TooManyRequestsError
-            @logger.warn "Rate limited during topic classification, waiting 5 seconds before retry (attempt #{attempts})"
-            sleep 5
-          rescue JSON::ParserError
-            @logger.warn "Non-JSON response while classifying topics: #{response.inspect}"
-          end
-        end
-
-        []
-      rescue StandardError => e
-        @logger.warn "Topic classification failed: #{e.message}"
-        []
-      end
-
-      def load_topic_catalog
-        Dir.glob(File.join(@topic_dir, '*.md')).filter_map do |path|
-          doc = Mayhem::Support::FrontMatterDocument.load(path, logger: @logger)
-          next unless doc
-
-          title = doc.front_matter['title']
-          summary = doc.body.to_s.strip
-          next unless title
-
-          { 'title' => title, 'summary' => summary }
-        end
-      end
-
-      def call_topic_llm(messages, temperature:)
-        response = @client.chat(
-          parameters: {
-            model: @topic_model,
-            temperature: temperature,
-            messages: messages
-          }
-        )
-        if (error_message = response.dig('error', 'message'))
-          raise "LLM request failed: #{error_message}"
-        end
-
-        content = response.dig('choices', 0, 'message', 'content')
-        raise 'LLM response missing content' unless content
-
-        content
       end
 
       def human_range(start_date, end_date)

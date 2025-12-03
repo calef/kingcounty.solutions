@@ -5,6 +5,7 @@ require 'nokogiri'
 require 'open-uri'
 require 'ruby/openai'
 require_relative '../logging'
+require_relative '../news/topic_classifier'
 require_relative '../support/front_matter_document'
 require_relative '../support/http_client'
 require_relative '../feed_discovery'
@@ -22,21 +23,29 @@ module Mayhem
         posts_dir: POSTS_DIR,
         topic_dir: TOPIC_DIR,
         client: nil,
+        topic_model: DEFAULT_TOPIC_MODEL,
         http_client: nil,
-        logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL')
+        logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'),
+        topic_classifier: nil
       )
         @posts_dir = posts_dir
         @topic_dir = topic_dir
         @logger = logger
         @client = client || OpenAI::Client.new(access_token: ENV.fetch('OPENAI_API_KEY'))
         @http = http_client || Mayhem::Support::HttpClient.new(logger: @logger)
+        @topic_classifier = topic_classifier ||
+                            TopicClassifier.new(
+                              topic_dir: @topic_dir,
+                              model: topic_model,
+                              client: @client,
+                              logger: @logger
+                            )
       end
 
       def run
-        topics = load_topics
         stats = Hash.new(0)
         Dir.glob(File.join(@posts_dir, '*.md')).each do |file_path|
-          process_post(file_path, topics, stats)
+          process_post(file_path, stats)
         end
         log_summary(stats)
         stats
@@ -44,20 +53,7 @@ module Mayhem
 
       private
 
-      def load_topics
-        Dir.glob(File.join(@topic_dir, '*.md')).filter_map do |path|
-          doc = Mayhem::Support::FrontMatterDocument.load(path, logger: @logger)
-          next unless doc
-
-          title = doc.front_matter['title']
-          summary = doc.body.to_s.strip
-          next unless title
-
-          { 'title' => title, 'summary' => summary }
-        end
-      end
-
-      def process_post(file_path, topics, stats)
+      def process_post(file_path, stats)
         document = Mayhem::Support::FrontMatterDocument.load(file_path, logger: @logger)
         unless document
           stats[:skipped_no_frontmatter] += 1
@@ -103,7 +99,7 @@ module Mayhem
         summary_text ||= document.body&.strip || ''
 
         if needs_topics
-          classified_topics = classify_topics(summary_text, topics)
+          classified_topics = @topic_classifier.classify(summary_text)
           front_matter['topics'] = classified_topics
           if classified_topics.empty?
             @logger.info "No topics matched for #{file_path}"
@@ -171,62 +167,6 @@ module Mayhem
         @logger.warn "Skipped #{file_path}: could not summarize"
         stats[:failed_summary] += 1
         nil
-      end
-
-      def classify_topics(text, topics)
-        return [] if text.to_s.strip.empty? || topics.empty?
-
-        catalog_lines = topics.map do |topic|
-          summary = topic['summary']
-          "- #{topic['title']}: #{summary&.empty? ? 'No summary provided.' : summary}"
-        end
-        allowed_titles = topics.map { |topic| topic['title'] }
-
-        prompt = <<~PROMPT
-          You are selecting topics for a local news post.
-
-          Topic catalog:
-          #{catalog_lines.join("\n")}
-
-          News content:
-          #{text.strip}
-
-          Return a JSON array of topic titles from the catalog above that clearly apply to this news post.
-          Only use titles from the catalog; do not invent new topics.
-          Exclude topics that are only weakly related or unclear.
-        PROMPT
-
-        attempts = 0
-        while attempts < 3
-          attempts += 1
-          begin
-            response = @client.chat(
-              parameters: {
-                model: DEFAULT_TOPIC_MODEL,
-                messages: [
-                  { role: 'system',
-                    content: 'You are a precise classification assistant who responds with JSON arrays.' },
-                  { role: 'user', content: prompt }
-                ],
-                temperature: 0.2
-              }
-            )
-            content = response.dig('choices', 0, 'message', 'content')
-            next unless content
-
-            cleaned = content.gsub(/\A```json\s*/i, '').gsub(/```\s*\z/, '')
-            parsed = JSON.parse(cleaned)
-            selected = Array(parsed).map(&:to_s).select { |title| allowed_titles.include?(title) }.uniq
-            return selected
-          rescue Faraday::TooManyRequestsError
-            @logger.warn "Rate limited during topic classification, waiting 5 seconds before retry (attempt #{attempts})"
-            sleep 5
-          rescue JSON::ParserError
-            @logger.warn "Non-JSON response while classifying topics: #{content.inspect}"
-          end
-        end
-
-        []
       end
 
       def fetch_article_text(url)
