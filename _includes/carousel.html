@@ -37,6 +37,8 @@
           {% if source_name %}
             {% assign caption_source_org = site.organizations | where: "title", source_name | first %}
           {% endif %}
+          {% assign image_checksum = image_doc.data.checksum | default: image_doc.checksum | default: '' | strip %}
+          {% assign associated_posts = site.posts | where_exp: "post", "post.images and post.images contains image_checksum" %}
           <figure class="media-carousel-slide" data-carousel-slide data-carousel-index="{{ current_index }}">
             <img src="{{ image_url | relative_url }}" alt="{{ alt_text | escape }}" loading="{% if current_index == 0 %}eager{% else %}lazy{% endif %}">
             {% if caption_text or (carousel_show_source and (source_name or source_url)) %}
@@ -56,6 +58,14 @@
                     {% else %}
                       <a href="{{ source_url }}" rel="noopener noreferrer">{{ source_url }}</a>
                     {% endif %}
+                  </span>
+                {% endif %}
+                {% if associated_posts and associated_posts.size > 0 %}
+                  <span class="media-carousel-caption-posts">
+                    <span class="media-carousel-caption-label">Posts:</span>
+                    {% for assoc_post in associated_posts %}
+                      <a href="{{ assoc_post.url | relative_url }}">{{ assoc_post.title | escape }}</a>{% unless forloop.last %}, {% endunless %}
+                    {% endfor %}
                   </span>
                 {% endif %}
               </figcaption>
