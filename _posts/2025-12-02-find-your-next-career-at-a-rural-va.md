@@ -1,6 +1,5 @@
 ---
 date: '2025-12-02T21:30:00+00:00'
-published: false
 images: []
 original_content: |-
   <h2 class="wp-block-heading">Revisiting Clarksburg, West Virginia</h2>
@@ -111,6 +110,7 @@ original_markdown_body: |-
   ## Join our mission&nbsp;
 
   If you’re All About Veterans, consider a career serving our nation’s heroes at one of VA’s rural locations like Clarksburg. Learn more at [VA Careers](https://vacareers.va.gov/job-news-advice/rural-community-profile-revisiting-clarksburg-west-virginia/). &nbsp;
+published: false
 source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143617/find-your-next-career-rural-va/
 summarized: true
