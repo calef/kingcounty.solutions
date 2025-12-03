@@ -310,7 +310,8 @@ module Mayhem
           'date' => publish_time.iso8601,
           'source' => 'King County Solutions',
           'summarized' => true,
-          'openai_model' => model_used
+          'openai_model' => model_used,
+          'images' => []
         }
 
         document = Mayhem::Support::FrontMatterDocument.new(
