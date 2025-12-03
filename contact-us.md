@@ -32,7 +32,7 @@ title: Contact Us
     ></textarea>
 
     <input type="hidden" name="_subject" value="{{ site.contact_form.subject }}" />
-    <input type="hidden" name="_next" value="{{ site.url }}{{ site.contact_form.next }}" />
+    <input type="hidden" name="_next" value="{{ site.url }}{{ site.contact_form.next | relative_url }}" />
     <input type="hidden" name="_honey" value="" />
 
     <button type="submit">Send request</button>
