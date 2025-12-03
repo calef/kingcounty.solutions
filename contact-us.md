@@ -12,7 +12,7 @@ title: Contact Us
     Share questions, feature requests, or feedback about the site. Provide the best email address to reach you and describe the assistance you need so we can respond quickly.
   </p>
 
-  <form class="contact-form" action="{{ site.contact_form_action }}" method="POST" novalidate>
+  <form class="contact-form" action="{{ site.contact_form.action }}" method="POST" novalidate>
     <label for="contact-email">Your email address</label>
     <input
       id="contact-email"
@@ -31,7 +31,8 @@ title: Contact Us
       required
     ></textarea>
 
-    <input type="hidden" name="_subject" value="{{ site.contact_form_subject }}" />
+    <input type="hidden" name="_subject" value="{{ site.contact_form.subject }}" />
+    <input type="hidden" name="_next" value="{{ site.url }}{{ site.contact_form.next }}" />
     <input type="hidden" name="_honey" value="" />
 
     <button type="submit">Send request</button>
