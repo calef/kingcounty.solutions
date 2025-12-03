@@ -1,7 +1,6 @@
 ---
 date: '2025-11-22T01:36:00+00:00'
-images:
-- 2a663516649680d799c2dfb1997c163ca23cb0d8d28dc3d9e1e6eb3bd24df854
+images: []
 original_content: <img src="https://www.burienwa.gov/UserFiles/Servers/Server_11045935/Image/Featured_Events/2025/Wondeful%20Burien%202025%20-%20FE.png"
   />Support local businesses while enjoying the culture and small-town charm of Burien!
 original_markdown_body: "![](https://www.burienwa.gov/UserFiles/Servers/Server_11045935/Image/Featured_Events/2025/Wondeful%20Burien%202025%20-%20FE.png)Support
