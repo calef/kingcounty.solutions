@@ -130,8 +130,9 @@ module Mayhem
             2. Do not include an image if one is referenced in the text.
             3. Do not include any commentary or explanation about this process.
             4. Focus only on the provided text (do not mention if the content was truncated).
-            5. Do not include any headings or code blocks.
-            6. Do not write that the article says something, just write what the article says. Do not write "The article discusses..." or "The article outlines...". Do write a summary of the article content.
+            5. Always write the summary in English, even if the source material uses another language.
+            6. Do not include any headings or code blocks.
+            7. Do not write that the article says something, just write what the article says. Do not write "The article discusses..." or "The article outlines...". Do write a summary of the article content.
 
           ARTICLE CONTENT:
           #{article_text}
