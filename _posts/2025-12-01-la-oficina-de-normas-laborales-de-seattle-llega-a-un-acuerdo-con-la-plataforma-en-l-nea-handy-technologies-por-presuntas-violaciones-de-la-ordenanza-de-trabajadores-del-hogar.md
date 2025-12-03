@@ -1,5 +1,6 @@
 ---
 date: '2025-12-01T15:56:42+00:00'
+images: []
 original_content: 'Casi $136.000 en recursos para 705 trabajadores Para publicación
   inmediata Contacto: Cynthia Santana, gerenta de comunicaciones206-256-5219cynthia.santana@seattle.gov
   La Oficina de Normas Laborales de Seattle llega a un acuerdo con la plataforma en

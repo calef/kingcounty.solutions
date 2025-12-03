@@ -1,5 +1,6 @@
 ---
 date: '2025-11-21T18:12:08+00:00'
+images: []
 original_content: '<img width="150" height="150" src="https://education.seattle.gov/wp-content/uploads/sites/27/2025/11/FEPP-Levy-Webpage-Banner_Nov-2025-150x150.png"
   class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom:
   5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy"
