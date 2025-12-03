@@ -12,7 +12,6 @@ require 'time'
 require 'uri'
 require_relative '../logging'
 require_relative '../support/front_matter_document'
-require_relative '../support/feed_checksum_store'
 require_relative '../support/slug_generator'
 require_relative '../support/http_client'
 require_relative '../support/url_normalizer'
@@ -37,7 +36,6 @@ module Mayhem
       MAX_FILENAME_BYTES = 255
       DEFAULT_NEWS_DIR = '_posts'
       DEFAULT_SOURCES_DIR = '_organizations'
-      DEFAULT_CHECKSUM_FILE = File.expand_path('../../../bin/feed_checksums.yml', __dir__)
       DEFAULT_MAX_WORKERS = begin
         Integer(ENV.fetch('RSS_WORKERS', '6'))
       rescue StandardError
@@ -57,7 +55,6 @@ module Mayhem
       def initialize(
         news_dir: DEFAULT_NEWS_DIR,
         sources_dir: DEFAULT_SOURCES_DIR,
-        checksum_store: nil,
         logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'),
         workers: DEFAULT_MAX_WORKERS,
         open_timeout: DEFAULT_OPEN_TIMEOUT,
@@ -70,12 +67,6 @@ module Mayhem
         @workers = [workers, 1].max
         @open_timeout = open_timeout
         @read_timeout = read_timeout
-        checksum_file = ENV.fetch('RSS_CHECKSUM_FILE', DEFAULT_CHECKSUM_FILE)
-        @checksum_store = checksum_store ||
-                          Mayhem::Support::FeedChecksumStore.new(
-                            path: checksum_file,
-                            logger: @logger
-                          )
         @existing_posts = build_existing_post_index
         @existing_lock = Mutex.new
         FileUtils.mkdir_p(@news_dir)
@@ -97,7 +88,6 @@ module Mayhem
           end
         end
         threads.each(&:join)
-        @checksum_store.save
       end
 
       private
@@ -113,18 +103,11 @@ module Mayhem
         stats = Hash.new(0)
         page = @http.fetch(rss_url, accept: Mayhem::FeedDiscovery::ACCEPT_FEED, max_bytes: Mayhem::FeedDiscovery::FEED_MAX_BYTES)
         rss_content = page[:body]
-        checksum = Digest::SHA256.hexdigest(rss_content)
-        if @checksum_store[rss_url] == checksum
-          @logger.debug "Skipping #{source_title} (feed unchanged)"
-          return
-        end
-
         feed = RSS::Parser.parse(rss_content, false)
         feed.items.each do |item|
           process_item(item, source_title, stats, frontmatter)
         end
 
-        @checksum_store[rss_url] = checksum
         @logger.info feed_summary_line(source_title, rss_url, stats)
       rescue OpenURI::HTTPError, SocketError, Net::OpenTimeout, Net::ReadTimeout, Timeout::Error => e
         @logger.error "Failed to fetch RSS feed for source '#{source_title}' (#{rss_url}): #{e.message}"

@@ -138,9 +138,8 @@ Imports recent partner updates from every `_organizations/*.md` that exposes `ne
 - De-duplicates by checking existing `_posts/` entries whose `source_url` matches (the importer normalizes and validates URLs before storing, and invalid URLs are not persisted).
 - Attempts to scrape the article body directly (preferring known selectors) if the RSS item lacks `content:encoded`.
 - Converts HTML to Markdown via `ReverseMarkdown`, stores the upstream HTML in `original_content`, and saves the cleaned Markdown body beneath a single YAML front matter block.
-- Stores SHA256 checksums for each feed in `bin/feed_checksums.yml` and skips reprocessing feeds whose checksum has not changed since the previous run.
-- Fetches feeds concurrently using a small thread pool; logs and checksum updates are synchronized to avoid races.
-- Emits one INFO summary line per feed describing how many items were imported, skipped as duplicates, stale, etc.; DEBUG level additionally logs when a feed’s checksum is unchanged.
+- Fetches feeds concurrently using a small thread pool; per-thread logs coordinate via the shared logger.
+- Emits one INFO summary line per feed describing how many items were imported, skipped as duplicates, stale, etc.
 - Network errors (HTTP failures, SSL issues, socket errors, or timeouts) are logged per-source and skipped so one flakey feed doesn’t halt the full import run.
 
 ### `list-openai-models`
