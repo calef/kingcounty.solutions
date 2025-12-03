@@ -66,7 +66,8 @@ module Mayhem
         closing = "\n\nWe’ll continue to pull the most actionable updates from partner feeds each week. Let us know if there’s a topic you’d like covered in more depth."
         document_body = "#{body}#{closing}"
         topics = @topic_classifier.classify(document_body)
-        summary_path = write_summary(start_date, end_date, document_body, model_used, topics)
+        image_ids = aggregate_image_ids(posts)
+        summary_path = write_summary(start_date, end_date, document_body, model_used, topics, image_ids)
         @logger.info "Created weekly summary: #{summary_path}"
       end
 
@@ -112,7 +113,8 @@ module Mayhem
             title: front_matter['title'] || basename,
             source: front_matter['source'] || 'Unknown source',
             source_url: front_matter['source_url'],
-            summary: normalize_excerpt(document.body || '')
+            summary: normalize_excerpt(document.body || ''),
+            images: collect_image_ids(front_matter)
           }
         end.sort_by { |post| [post[:date], post[:title]] }
       end
@@ -121,6 +123,14 @@ module Mayhem
         paragraphs = body.split(/\n{2,}/).map(&:strip).reject(&:empty?)
         excerpt = paragraphs.first(3).join(' ')
         excerpt.gsub(/\s+/, ' ')[0..900]
+      end
+
+      def collect_image_ids(front_matter)
+        Array(front_matter['images']).map(&:to_s).map(&:strip).reject(&:empty?)
+      end
+
+      def aggregate_image_ids(posts)
+        posts.flat_map { |post| Array(post[:images]) }.uniq
       end
 
       def build_theme_plan(posts)
@@ -285,7 +295,7 @@ module Mayhem
         lines.join("\n")
       end
 
-      def write_summary(start_date, end_date, body, model_used, topics)
+      def write_summary(start_date, end_date, body, model_used, topics, images = [])
         title = "King County Solutions Weekly Roundup: #{human_range(start_date, end_date)}"
         slug = Mayhem::Support::SlugGenerator.sanitized_slug(title)
         slug = 'post' if slug.empty?
@@ -301,7 +311,7 @@ module Mayhem
           'source' => 'King County Solutions',
           'summarized' => true,
           'openai_model' => model_used,
-          'images' => [],
+          'images' => images,
           'topics' => topics || []
         }
 
