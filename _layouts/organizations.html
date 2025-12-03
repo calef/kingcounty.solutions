@@ -10,260 +10,72 @@ title: Organizations Directory
   </header>
   {{ content }}
 
-  {%- assign all = site.organizations | sort: "title" -%}
+  {% assign organizations = site.organizations | sort: "title" %}
 
-  {%- comment %}
-  Primary anchors (major government entities)
-  {%- endcomment -%}
-  {%- assign federal_root    = all | where: "title", "United States Federal Government" | first -%}
-  {%- assign washington_root = all | where: "title", "State of Washington" | first -%}
-  {%- assign king_county_root = all | where: "title", "King County" | first -%}
-
-  {%- assign hospital = all | where: "type", "Public Hospital District" | sort: "title" -%}
-  {%- assign special  = all | where: "type", "Special Purpose District" | sort: "title" -%}
-  {%- assign tribal   = all | where: "type", "Tribe" | sort: "title" -%}
-  {%- assign cities   = all | where_exp: "i", "i.type == 'City' or i.type == 'Town'" | sort: "title" -%}
-  {%- assign colleges = all | where_exp: "i", "i.type == 'College' or i.type == 'University'" | sort: "title" -%}
-  {%- assign cbos     = all | where: "type", "Community-Based Organization" | sort: "title" -%}
-
-  {%- assign included_urls = "" | split: "" -%}
-
-  {%- comment %}
-  FEDERAL
-  {%- endcomment -%}
-  {%- if federal_root -%}
-    <section>
-      <header>
-        <h2>
-          <a href="{{ federal_root.url | relative_url }}">United States Federal Government</a>
-        </h2>
-      </header>
-      {%- assign federal_children = all | where: "parent_organization", "United States Federal Government" | sort: "title" -%}
-      {%- if federal_children.size > 0 -%}
-        <div class="hierarchy-tree">
-          <ul class="hierarchy-tree-list">
-            {%- for entity in federal_children -%}
-              {%- assign included_urls = included_urls | push: entity.url -%}
-              {% include org-tree.html organization=entity organizations=all %}
-            {%- endfor -%}
-          </ul>
-        </div>
-      {%- else -%}
-        <p>No organizations listed under this heading yet.</p>
-      {%- endif -%}
-    </section>
-    {%- assign included_urls = included_urls | push: federal_root.url -%}
-  {%- endif -%}
-
-  {%- comment %}
-  STATE
-  {%- endcomment -%}
-  {%- if washington_root -%}
-    <section>
-      <header>
-        <h2>
-          <a href="{{ washington_root.url | relative_url }}">State of Washington</a>
-        </h2>
-      </header>
-      {%- assign state_children = all | where: "parent_organization", "State of Washington" | sort: "title" -%}
-      {%- if state_children.size > 0 -%}
-        <div class="hierarchy-tree">
-          <ul class="hierarchy-tree-list">
-            {%- for entity in state_children -%}
-              {%- assign included_urls = included_urls | push: entity.url -%}
-              {% include org-tree.html organization=entity organizations=all %}
-            {%- endfor -%}
-          </ul>
-        </div>
-      {%- else -%}
-        <p>No organizations listed under this heading yet.</p>
-      {%- endif -%}
-    </section>
-    {%- assign included_urls = included_urls | push: washington_root.url -%}
-  {%- endif -%}
-
-  {%- comment %}
-  COUNTY
-  {%- endcomment -%}
-  {%- if king_county_root -%}
-    <section>
-      <header>
-        <h2><a href="{{ king_county_root.url | relative_url }}">King County</a></h2>
-      </header>
-      {%- assign county_children = all | where: "parent_organization", "King County" | sort: "title" -%}
-      {%- if county_children.size > 0 -%}
-        <div class="hierarchy-tree">
-          <ul class="hierarchy-tree-list">
-            {%- for entity in county_children -%}
-              {%- assign included_urls = included_urls | push: entity.url -%}
-              {% include org-tree.html organization=entity organizations=all %}
-            {%- endfor -%}
-          </ul>
-        </div>
-      {%- else -%}
-        <p>No organizations listed under this heading yet.</p>
-      {%- endif -%}
-    </section>
-    {%- assign included_urls = included_urls | push: king_county_root.url -%}
-  {%- endif -%}
-
-  {%- comment %}
-  PUBLIC HOSPITAL DISTRICTS
-  {%- endcomment -%}
-  {%- if hospital.size > 0 -%}
-    <section>
-      <header>
-        <h2>Public Hospital Districts</h2>
-      </header>
-      <div class="hierarchy-tree">
-        <ul class="hierarchy-tree-list">
-          {%- for entity in hospital -%}
-            {%- assign included_urls = included_urls | push: entity.url -%}
-            {% include org-tree.html organization=entity organizations=all %}
-          {%- endfor -%}
-        </ul>
-      </div>
-    </section>
-  {%- endif -%}
-
-  {%- comment %}
-  SPECIAL PURPOSE DISTRICTS
-  {%- endcomment -%}
-  {%- if special.size > 0 -%}
-    <section>
-      <header>
-        <h2>Special Purpose Districts</h2>
-      </header>
-      <div class="hierarchy-tree">
-        <ul class="hierarchy-tree-list">
-          {%- for entity in special -%}
-            {%- assign included_urls = included_urls | push: entity.url -%}
-            {% include org-tree.html organization=entity organizations=all %}
-          {%- endfor -%}
-        </ul>
-      </div>
-    </section>
-  {%- endif -%}
-
-  {%- comment %}
-  TRIBES
-  {%- endcomment -%}
-  {%- if tribal.size > 0 -%}
-    <section>
-      <header>
-        <h2>Tribes</h2>
-      </header>
-      <div class="hierarchy-tree">
-        <ul class="hierarchy-tree-list">
-          {%- for entity in tribal -%}
-            {%- assign included_urls = included_urls | push: entity.url -%}
-            {% include org-tree.html organization=entity organizations=all %}
-          {%- endfor -%}
-        </ul>
-      </div>
-    </section>
-  {%- endif -%}
-
-  {%- comment %}
-  CITIES & TOWNS
-  {%- endcomment -%}
-  {%- if cities.size > 0 -%}
-    <section>
-      <header>
-        <h2>Cities and Towns</h2>
-      </header>
-      <div class="hierarchy-tree">
-        <ul class="hierarchy-tree-list">
-          {%- for entity in cities -%}
-            {%- assign included_urls = included_urls | push: entity.url -%}
-            {% include org-tree.html organization=entity organizations=all %}
-          {%- endfor -%}
-        </ul>
-      </div>
-    </section>
-  {%- endif -%}
-
-  {%- comment %}
-  COLLEGES & UNIVERSITIES
-  {%- endcomment -%}
-  {%- assign top_level_colleges = colleges | where_exp: "i", "i.parent_organization == nil or i.parent_organization == ''" -%}
-  {%- if top_level_colleges.size > 0 -%}
-    <section>
-      <header>
-        <h2>Colleges and Universities</h2>
-      </header>
-      <div class="hierarchy-tree">
-        <ul class="hierarchy-tree-list">
-          {%- for entity in top_level_colleges -%}
-            {%- unless included_urls contains entity.url -%}
-              {%- assign included_urls = included_urls | push: entity.url -%}
-              {% include org-tree.html organization=entity organizations=all %}
-            {%- endunless -%}
-          {%- endfor -%}
-        </ul>
-      </div>
-    </section>
-  {%- endif -%}
-
-  {%- comment %}
-  COMMUNITY-BASED ORGANIZATIONS
-  {%- endcomment -%}
-  {%- assign top_level_cbos = cbos | where_exp: "i", "i.parent_organization == nil or i.parent_organization == ''" -%}
-  {%- if top_level_cbos.size > 0 -%}
-  <section>
-    <header>
-      <h2>Community-Based Organizations</h2>
-    </header>
-    <div class="hierarchy-tree">
-      <ul class="hierarchy-tree-list">
-        {%- for entity in top_level_cbos -%}
-          {%- unless included_urls contains entity.url -%}
-            {%- assign included_urls = included_urls | push: entity.url -%}
-            {% include org-tree.html organization=entity organizations=all %}
-          {%- endunless -%}
-        {%- endfor -%}
-      </ul>
-    </div>
-  </section>
-  {%- endif -%}
-
-  {%- comment %}
-  OTHER — remove anything whose URL is already included
-  {%- endcomment -%}
-  {%- assign top_others = all
-    | where_exp: "i", "i.parent_organization == nil or i.parent_organization == ''"
-    | reject: "type", "Federal"
-    | reject: "type", "State"
-    | reject: "type", "County"
-    | reject: "type", "City"
-    | reject: "type", "Town"
-    | reject: "type", "College"
-    | reject: "type", "University"
-    | reject: "type", "Public Hospital District"
-    | reject: "type", "Special Purpose District"
-    | reject: "type", "Community-Based Organization"
-    | reject: "type", "Tribal Government"
-    | sort: "title" -%}
-
-  {%- capture filtered_others -%}
-    {%- for entity in top_others -%}
-      {%- unless included_urls contains entity.url -%}
-        {%- assign included_urls = included_urls | push: entity.url -%}
-        {% include org-tree.html organization=entity organizations=all show_type=true %}
-      {%- endunless -%}
-    {%- endfor -%}
-  {%- endcapture -%}
-
-  {%- if filtered_others contains "hierarchy-tree-item" -%}
-    <section>
-      <header>
-        <h2>Other</h2>
-      </header>
-      <div class="hierarchy-tree">
-        <ul class="hierarchy-tree-list">
-          {{ filtered_others }}
-        </ul>
-      </div>
-    </section>
-  {%- endif -%}
+  <div class="organizations-table-wrapper">
+    <table id="organization-directory" class="sortable-table">
+      <thead>
+        <tr>
+          <th class="sortable" data-type="string">
+            Title
+            <span class="sort-indicator" aria-hidden="true"></span>
+          </th>
+          <th class="sortable" data-type="string">
+            Type
+            <span class="sort-indicator" aria-hidden="true"></span>
+          </th>
+          <th class="sortable" data-type="number">
+            Post Count
+            <span class="sort-indicator" aria-hidden="true"></span>
+          </th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for organization in organizations %}
+          {% assign post_count = site.posts | where: "source", organization.title | size %}
+          <tr>
+            <td><a href="{{ organization.url | relative_url }}">{{ organization.title }}</a></td>
+            <td>{{ organization.type }}</td>
+            <td>{{ post_count }}</td>
+          </tr>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
 </article>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function () {
+    const table = document.getElementById('organization-directory');
+    if (!table) return;
+
+    const getCellValue = (row, index, type) => {
+      const value = row.children[index].innerText.trim();
+      return type === 'number' ? parseInt(value, 10) || 0 : value.toLowerCase();
+    };
+
+    const compare = (a, b, type, asc) => {
+      const valueA = type === 'number' ? a - b : a.localeCompare(b);
+      return asc ? valueA : -valueA;
+    };
+
+    table.querySelectorAll('th.sortable').forEach((th, index) => {
+      let asc = true;
+      th.addEventListener('click', () => {
+        const type = th.dataset.type || 'string';
+        const rows = Array.from(table.tBodies[0].rows);
+        rows.sort((rowA, rowB) => {
+          const valA = getCellValue(rowA, index, type);
+          const valB = getCellValue(rowB, index, type);
+          return compare(valA, valB, type, asc);
+        });
+        rows.forEach(row => table.tBodies[0].appendChild(row));
+        table.querySelectorAll('th.sortable').forEach(header => {
+          header.classList.remove('sorted-asc', 'sorted-desc');
+        });
+        th.classList.add(asc ? 'sorted-asc' : 'sorted-desc');
+        asc = !asc;
+      });
+    });
+  });
+</script>
