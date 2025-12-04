@@ -1,7 +1,7 @@
 ---
 date: '2025-09-04T21:41:19+00:00'
-images:
-- 26dde002c938f4c43ca600238990bcc5fd6815d8737b6babb2b89006f7d92a0c
+images: []
+published: false
 original_content: |-
   <p>SPOKANE, Wash. — <a href="https://www.multicare.org/location/deaconess-hospital/" data-wpel-link="internal">MultiCare Deaconess Hospital</a> has achieved accreditation from <a href="https://www.surgicalreview.org/" data-wpel-link="external" rel="external noopener noreferrer" class="wpel-icon-right">Surgical Review Corporation<span class="wpel-icon wpel-image wpel-icon-6"></span></a> (SRC) as a Center of Excellence in robotic and hernia care. <a href="https://www.multicare.org/location/valley-hospital/" data-wpel-link="internal">MultiCare Valley Hospital</a> was also recognized as a Center of Excellence in hernia care.</p>
   <p>As accredited Centers of Excellence, Deaconess and Valley hospitals have met nationally and internationally recognized standards. Both MultiCare hospitals were recognized after rigorous standards set by SRC. Not all hospitals or surgeons seek accreditation, and not all hospitals that undergo the rigorous inspection process are granted accreditation.</p>
