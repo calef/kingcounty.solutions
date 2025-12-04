@@ -7,7 +7,6 @@ images:
 - 13ebc71c9895645c57a31903b6744db5dd9188a3774dabf399cce76962112d8e
 - 73ed8c95563093ae6ebdea12987558774e7ea323bf877acf56c0d23071631504
 - a35a2245e1725882d7facee60c125dd9f7ae44afcb4707834a5753b61cf35682
-- f8ba9c423c7507cf95b5650eda318d80f957dc9102bf19f1e0f47996768ae95f
 original_content: |-
   <p><strong>On October 4, neighbors and friends gathered to celebrate the final Uncork the Night gala, a celebration of wine and giving. </strong>The farewell evening featured wine tastings from renowned local wineries, a spirited auction filled with friendly, competitive bidding, laughter, generosity, and a magnetic energy that filled the room during every toast and paddle raise.</p>
 
