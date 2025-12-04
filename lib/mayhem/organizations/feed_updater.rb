@@ -53,9 +53,7 @@ module Mayhem
               break unless file_name
               break if limit_reached?(processed_mutex, processed)
 
-              if process_organization(file_name, updated, skipped, results_mutex)
-                processed_mutex.synchronize { processed += 1 }
-              end
+              processed_mutex.synchronize { processed += 1 } if process_organization(file_name, updated, skipped, results_mutex)
             end
           end
         end
@@ -176,12 +174,8 @@ module Mayhem
         return nil unless feed_result
 
         filtered = Mayhem::FeedDiscovery::FeedResult.new
-        if feed_result.rss_url && reserve_feed(:rss, feed_result.rss_url, file_name)
-          filtered.rss_url = feed_result.rss_url
-        end
-        if feed_result.ical_url && reserve_feed(:ical, feed_result.ical_url, file_name)
-          filtered.ical_url = feed_result.ical_url
-        end
+        filtered.rss_url = feed_result.rss_url if feed_result.rss_url && reserve_feed(:rss, feed_result.rss_url, file_name)
+        filtered.ical_url = feed_result.ical_url if feed_result.ical_url && reserve_feed(:ical, feed_result.ical_url, file_name)
         filtered.any? ? filtered : nil
       end
 

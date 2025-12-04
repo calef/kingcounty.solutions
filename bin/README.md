@@ -11,6 +11,7 @@ Utility commands that automate content imports, auditing, and metadata maintenan
 | `generate-weekly-summary` | Builds a weekly roundup article from `_posts/`, grouping stories into themes with LLM assistance. |
 | `extract-post-images` | Pulls image URLs from `original_markdown_body` (if present), downloads them into `assets/images`, hashes/renames files, and links image IDs into `_posts/` and `_images/`. |
 | `import-rss-news` | Pulls fresh posts from partner RSS feeds defined in `_organizations/`, normalizes and validates item URLs using the organization `website` when needed, and writes Markdown copies into `_posts/` (invalid source URLs are never stored). |
+| `import-ical-events` | Fetches each organization’s `events_ical_url`, parses the calendar document, and writes `_events/<date>-<slug>.md` entries for every event with consistent metadata. |
 | `list-openai-models` | Lists available OpenAI model IDs for the current API key. |
 | `summarize-news` | Fetches source articles for `_posts/` entries missing summaries (or uses stored Markdown), generates an AI-written summary, and writes it back; the tool no longer persists `original_content` or `original_markdown_body` in updated posts. |
 | `update-organization-feed-urls` | Crawls organization websites to locate RSS/Atom and iCal feeds, updating `news_rss_url` and `events_ical_url`. |

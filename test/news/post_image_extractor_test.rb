@@ -20,7 +20,7 @@ class PostImageExtractorTest < Minitest::Test
       date: #{Time.now.iso8601}
       source: Test
       source_url: https://example.com/p/1
-      original_markdown_body: '![](https://example.com/image.svg)'
+      original_markdown_body: '![](https://example.com/image.jpg)'
       summarized: true
       ---
 

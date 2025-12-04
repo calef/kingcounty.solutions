@@ -3,7 +3,6 @@
 require 'digest'
 require 'fileutils'
 require 'net/http'
-require 'nokogiri'
 require 'open-uri'
 require 'openssl'
 require 'reverse_markdown'
@@ -16,22 +15,14 @@ require_relative '../support/front_matter_document'
 require_relative '../support/slug_generator'
 require_relative '../support/http_client'
 require_relative '../support/url_normalizer'
+require_relative '../support/content_fetcher'
+require_relative '../support/article_body_selectors'
 require_relative '../feed_discovery'
 
 module Mayhem
   module News
     class RssImporter
-      ARTICLE_BODY_SELECTORS = [
-        '#news_content_body',
-        '[id*="news_content_body"]',
-        '.news_content_body',
-        '[class*="news_content_body"]',
-        '.news-body',
-        '.article-body',
-        '.article__body',
-        '.news-article__body',
-        'article .body'
-      ].freeze
+      ARTICLE_BODY_SELECTORS = Mayhem::Support::ArticleBodySelectors::SELECTORS
 
       MAX_ITEM_AGE_DAYS = 365
       MAX_FILENAME_BYTES = 255
@@ -89,6 +80,11 @@ module Mayhem
           logger: @logger
         )
         @max_item_age_days = determine_max_days(max_item_age_days, config_path)
+        @content_fetcher = Mayhem::Support::ContentFetcher.new(
+          http_client: @http,
+          logger: @logger,
+          selectors: ARTICLE_BODY_SELECTORS
+        )
       end
 
       def run
@@ -263,17 +259,9 @@ module Mayhem
       end
 
       def fetch_article_body_html(url)
-        page = @http.fetch(url, accept: Mayhem::FeedDiscovery::ACCEPT_HTML, max_bytes: Mayhem::FeedDiscovery::HTML_MAX_BYTES)
-        doc = Nokogiri::HTML(page[:body])
-        ARTICLE_BODY_SELECTORS.each do |selector|
-          node = doc.at_css(selector)
-          next unless node
+        return nil unless url
 
-          snippet = node.inner_html.to_s.strip
-          return snippet unless snippet.empty?
-        end
-        fallback = doc.at_css('main') || doc.at_css('#main') || doc.at_css('#content')
-        fallback&.inner_html&.strip
+        @content_fetcher.fetch(url)[:html]
       rescue OpenURI::HTTPError, OpenSSL::SSL::SSLError, SocketError,
              Net::OpenTimeout, Net::ReadTimeout => e
         @logger.warn "Failed to fetch article body (#{url}): #{e.message}"

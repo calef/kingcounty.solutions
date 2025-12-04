@@ -82,9 +82,7 @@ module Mayhem
       def perform_request(url, accept, max_bytes, remaining_redirects)
         uri = URI.parse(url)
         response, body = execute_request(uri, accept, max_bytes)
-        if response.is_a?(Net::HTTPRedirection)
-          return follow_redirect(response, uri, accept, max_bytes, remaining_redirects)
-        end
+        return follow_redirect(response, uri, accept, max_bytes, remaining_redirects) if response.is_a?(Net::HTTPRedirection)
 
         {
           body: body,
