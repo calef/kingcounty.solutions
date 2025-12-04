@@ -1,7 +1,6 @@
 ---
 date: '2025-10-13T17:25:41+00:00'
 images: []
-published: false
 original_content: "<div class=\"et_pb_section et_pb_section_4 blog-post-type et_section_regular\"
   >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_row
   et_pb_row_11\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4 et_pb_column_16
@@ -162,6 +161,7 @@ original_markdown_body: |-
   &nbsp;
 
   The post [New office and expansion plans in Tri-Cities announced](https://lcsnw.org/2025/10/new-tc-location/) appeared first on [LCSNW](https://lcsnw.org).
+published: false
 source: Lutheran Community Services Northwest
 source_url: https://lcsnw.org/2025/10/new-tc-location/
 summarized: true
