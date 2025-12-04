@@ -13,7 +13,6 @@ Utility commands that automate content imports, auditing, and metadata maintenan
 | `import-rss-news` | Pulls fresh posts from partner RSS feeds defined in `_organizations/`, normalizes and validates item URLs using the organization `website` when needed, and writes Markdown copies into `_posts/` (invalid source URLs are never stored). |
 | `list-openai-models` | Lists available OpenAI model IDs for the current API key. |
 | `summarize-news` | Fetches source articles for `_posts/` entries missing summaries (or uses stored Markdown), generates an AI-written summary, and writes it back; the tool no longer persists `original_content` or `original_markdown_body` in updated posts. |
-| `summarize-topics` | Generates short descriptions for topic pages that lack an editorial summary. |
 | `update-organization-feed-urls` | Crawls organization websites to locate RSS/Atom and iCal feeds, updating `news_rss_url` and `events_ical_url`. |
 | `tidy-frontmatter` | Normalizes Markdown front matter (sorted keys, consistent delimiters, and tidy spacing between the delimiter and body). |
 
@@ -200,25 +199,6 @@ Backfills AI-written summaries for `_posts/` entries whose front matter lacks `s
 - Retries failed API calls up to three times (sleeping between rate limits).
 - Writes `original_markdown_body` once (if missing) and sets `summarized: true` in front matter.
 - Emits WARN-level messages for data issues or API errors, INFO for truncation/updates, and prints a per-run summary when the log level allows it.
-
-### `summarize-topics`
-
-**Purpose**  
-Generates a short, resident-friendly description for each `_topics/*.md` file that lacks the `topic_summary_generated` flag, using the existing body (if any) as context for OpenAI.
-
-**Usage**
-
-- `bin/summarize-topics`
-
-**Key env/config**
-
-- `OPENAI_API_KEY` – required.
-- `OPENAI_MODEL` – overrides the default `gpt-4o-mini`.
-
-**Behavior notes**
-
-- Prompts the LLM for a single paragraph of ≤50 words and enforces the word budget by retrying up to three times.
-- Stores the previous body under `original_topic_body` before overwriting it with the generated summary and marks `topic_summary_generated: true`.
 
 ### `update-organization-feed-urls`
 
