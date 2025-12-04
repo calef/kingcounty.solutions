@@ -11,7 +11,7 @@ layout: default
   {% assign chain = "" | split: "" %}
   {% assign visited = "" | split: "" %}
 
-  {% assign max_depth = 500 %}
+  {% assign max_depth = 10 %}
   {% for i in (1..max_depth) %}
     {% if current_parent %}
       {% if visited contains current_parent %}
@@ -32,7 +32,6 @@ layout: default
   {% endfor %}
 
   {% assign chain = chain | reverse %}
-  {% assign breadcrumb_current = page.title %}
   {% assign org_trail = "" | split: "" %}
   {% if chain and chain.size > 0 %}
     {% for crumb in chain %}
@@ -54,7 +53,7 @@ layout: default
   {% endcapture %}
   {% assign org_action = org_action | strip %}
   <header>
-    {% include breadcrumbs.html trail=org_trail current=breadcrumb_current %}
+    {% include breadcrumbs.html trail=org_trail current=page.title root_url="/organizations/" root_label="Organizations" %}
     <div class="title-with-flag">
       <h1>{{ page.title }}</h1>
       {% include flag-issue.html

@@ -11,7 +11,7 @@ layout: default
   {% endcapture %}
   {% assign post_action = post_action | strip %}
   <header>
-    {% include breadcrumbs.html current=page.title %}
+    {% include breadcrumbs.html current=page.title root_url="/" root_label="News" %}
     <div class="title-with-flag">
       <h1 itemprop="name headline">{{ page.title | escape }}</h1>
       {% include flag-issue.html

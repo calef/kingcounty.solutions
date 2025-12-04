@@ -2,15 +2,15 @@
 layout: default
 ---
 
+{%- assign pager = pagination | default: paginator -%}
+{%- assign current_page_number = pager.page | default: paginator.page | default: 1 -%}
+{%- assign current_page_label = "Page " | append: current_page_number -%}
+
 <article>
   <header>
-    {% include breadcrumbs.html %}
+    {% include breadcrumbs.html root_url="/" root_label="News" current=current_page_label %}
     <h1>
-      {% if paginator and paginator.page > 1 %}
-        News — Page {{ paginator.page }}
-      {% else %}
-        News
-      {% endif %}
+      News — {{ current_page_label }}
     </h1>
   </header>
 
@@ -18,7 +18,6 @@ layout: default
     {{ content }}
   {% endif %}
 
-  {%- assign pager = pagination | default: paginator -%}
   {%- assign paginated_posts = pager.posts | default: site.posts -%}
 
   <section>

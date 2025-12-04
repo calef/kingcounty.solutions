@@ -1,7 +1,7 @@
 ---
 layout: topics
 permalink: "/topics/"
-title: Services
+title: Topics
 ---
 
-Explore the services below.
+Explore the topics below.

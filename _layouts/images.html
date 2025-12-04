@@ -2,11 +2,14 @@
 layout: default
 ---
 
-<header>
-  <h1>{{ page.title | default: "Images" | escape }}</h1>
-</header>
-{{ page.content }}
-{% assign docs = site.images %}
-{% assign sorted_docs = docs | sort: 'date' | reverse %}
-{% assign valid_images = sorted_docs | where_exp: 'image_doc', 'image_doc.image_url or image_doc.data.image_url' %}
-{% include carousel.html images=valid_images %}
+<article>
+  <header>
+    {% include breadcrumbs.html current=page.title %}
+    <h1>{{ page.title | default: "Images" | escape }}</h1>
+  </header>
+  {{ page.content }}
+  {% assign docs = site.images %}
+  {% assign sorted_docs = docs | sort: 'date' | reverse %}
+  {% assign valid_images = sorted_docs | where_exp: 'image_doc', 'image_doc.image_url or image_doc.data.image_url' %}
+  {% include carousel.html images=valid_images %}
+</article>
