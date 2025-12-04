@@ -1,7 +1,5 @@
 ---
 date: '2025-11-13T19:06:19+00:00'
-images:
-- 70bea257be39ca903a42ec248efe8daf8d3deb8ccf3ee2d0ef271ce773528cf0
 original_content: "<div class=\"wpb-content-wrapper\">\r\n<div  data-mk-stretch-content=\"true\"
   class=\"wpb_row vc_row vc_row-fluid jupiter-donut- mk-fullwidth-false  attched-false
   \    js-master-row  mk-grid\">\r\n\t\t\t\t\r\n<div class=\"vc_col-sm-9 wpb_column
