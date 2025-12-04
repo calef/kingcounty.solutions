@@ -1,8 +1,6 @@
 ---
 date: '2025-10-07T19:36:02+00:00'
-images:
-- ba768e4fcd93b90d8c9cd744610470afac5ccb0f2544d9513e02a4a8a8ebba44
-- 4ddef84a7cd301ddb4c357a330f0bd01925fc6cfaa2bd13c9275c7531ef21062
+images: []
 original_content: |-
   <p><span style="font-weight: 400;">With a new school year in full swing, many families across New York City are experiencing a time of transition. Whether it’s the first day of kindergarten, a return to middle or high school, or simply the shift from summer vacation, this season can bring a mix of excitement, anxiety, and uncertainty.</span></p>
   <p><span style="font-weight: 400;">For those already experiencing emotional, developmental, or behavioral challenges, the return to school isn’t just about new routines. It often means navigating systems that don’t listen, don’t see, or don’t serve them well. That’s where Vibrant’s </span><b>Family and Youth Peer Support Services (FYPS)</b><span style="font-weight: 400;"> comes in.</span></p>
@@ -67,6 +65,7 @@ original_markdown_body: "With a new school year in full swing, many families acr
   services are available for most other languages and dialects.&nbsp;\n\nThe post
   [A Hub of Hope in Staten Island](https://www.vibrant.org/a-hub-of-hope-in-staten-island/)
   appeared first on [Vibrant Emotional Health](https://www.vibrant.org)."
+published: false
 source: Vibrant Emotional Health
 source_url: https://www.vibrant.org/a-hub-of-hope-in-staten-island/
 summarized: true
