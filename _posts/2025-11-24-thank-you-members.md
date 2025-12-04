@@ -2,20 +2,6 @@
 date: '2025-11-24T18:41:46+00:00'
 images: []
 published: false
-original_content: |-
-  <a href="https://wscenter.org/thank-you-members/"><p>We’re so grateful for you, our members, who make The Center for Active Living the welcoming and vibrant community it is. </p>
-
-
-
-  <p>Because of you, The Center is a place that’s &hellip;</p></a>
-original_markdown_body: |-
-  [
-
-  We’re so grateful for you, our members, who make The Center for Active Living the welcoming and vibrant community it is.
-
-  Because of you, The Center is a place that’s …
-
-  ](https://wscenter.org/thank-you-members/)
 source: The Center for Active Living
 source_url: https://wscenter.org/thank-you-members/
 summarized: true
