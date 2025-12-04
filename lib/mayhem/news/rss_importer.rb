@@ -122,12 +122,16 @@ module Mayhem
         page = @http.fetch(rss_url, accept: Mayhem::FeedDiscovery::ACCEPT_FEED, max_bytes: Mayhem::FeedDiscovery::FEED_MAX_BYTES)
         rss_content = page[:body]
         feed = RSS::Parser.parse(rss_content, false)
+        unless feed
+          @logger.error "Failed to parse RSS feed for source '#{source_title}' (#{rss_url}): parser returned nil"
+          return
+        end
         feed.items.each do |item|
           process_item(item, source_title, stats, frontmatter)
         end
 
         @logger.info feed_summary_line(source_title, rss_url, stats)
-      rescue OpenURI::HTTPError, SocketError, Net::OpenTimeout, Net::ReadTimeout, Timeout::Error => e
+      rescue OpenURI::HTTPError, SocketError, Net::OpenTimeout, Net::ReadTimeout => e
         @logger.error "Failed to fetch RSS feed for source '#{source_title}' (#{rss_url}): #{e.message}"
       rescue OpenSSL::SSL::SSLError => e
         @logger.error "SSL error for source '#{source_title}' (#{rss_url}): #{e.message}"
@@ -271,7 +275,7 @@ module Mayhem
         fallback = doc.at_css('main') || doc.at_css('#main') || doc.at_css('#content')
         fallback&.inner_html&.strip
       rescue OpenURI::HTTPError, OpenSSL::SSL::SSLError, SocketError,
-             Net::OpenTimeout, Net::ReadTimeout, Timeout::Error => e
+             Net::OpenTimeout, Net::ReadTimeout => e
         @logger.warn "Failed to fetch article body (#{url}): #{e.message}"
         nil
       rescue StandardError => e

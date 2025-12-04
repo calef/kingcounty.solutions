@@ -68,7 +68,10 @@ module Mayhem
           raise if attempt >= @max_retries
 
           wait = @retry_initial_delay * (@retry_backoff_factor**(attempt - 1))
-          @logger.warn "Retrying #{url} after #{e.class} (#{e.message}) in #{format('%.2f', wait)}s (attempt #{attempt}/#{@max_retries})"
+          @logger.warn(
+            "Retrying #{url} after #{e.class} (#{e.message}) in #{format('%.2f', wait)}s " \
+            "(attempt #{attempt}/#{@max_retries})"
+          )
           sleep wait
           retry
         end
