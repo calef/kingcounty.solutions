@@ -27,8 +27,8 @@ Associated posts:
 {%- endif %}
 {% endcapture %}
 {% assign issue_body = issue_body | strip %}
-{% assign issue_title_param = issue_title | uri_escape %}
-{% assign issue_body_param = issue_body | uri_escape %}
+{% assign issue_title_param = issue_title | url_encode %}
+{% assign issue_body_param = issue_body | url_encode %}
 {% assign issue_url = issue_base_url | append: '?title=' | append: issue_title_param | append: '&body=' | append: issue_body_param | append: '&labels=flag' %}
 {% assign issue_label = include.issue_label | default: "Flag this " | append: content_type | append: ": " | append: content_title | append: " for removal" %}
 {% assign flag_mode = include.mode | default: "link" %}

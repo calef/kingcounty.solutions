@@ -9,7 +9,8 @@
   const status = search.querySelector('#site-search-status');
   const list = search.querySelector('#site-search-list');
   const results = search.querySelector('.site-search-results');
-  if (!input || !list || !results) return;
+  const control = search.querySelector('.site-search-control');
+  if (!input || !list || !results || !control) return;
 
   const indexUrl = search.getAttribute('data-search-index') || '/assets/search-index.json';
   let index = [];
@@ -23,7 +24,7 @@
 
   function setExpanded(expanded) {
     results.hidden = !expanded;
-    input.setAttribute('aria-expanded', expanded ? 'true' : 'false');
+    control.setAttribute('aria-expanded', expanded ? 'true' : 'false');
   }
 
   function setResultsPosition() {
