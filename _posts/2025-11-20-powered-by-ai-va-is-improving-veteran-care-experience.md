@@ -1,8 +1,7 @@
 ---
 date: '2025-11-20T21:30:00+00:00'
-images:
-- 0f498d1577f9cfe8df0b45ddd2d01318ad9811d5eadfafb268107fc30c5961ee
-- 72aa6f9205b49b09ce73a31bdefbb5db5702c60e219834bf4c06faf59b33ade4
+images: []
+published: false
 original_content: |-
   <h2 class="wp-block-heading">AI voice tool quietly takes notes so providers can focus on you</h2>
 
