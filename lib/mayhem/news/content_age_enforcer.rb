@@ -1,7 +1,6 @@
 # frozen_string_literal: true
 
 require 'fileutils'
-require 'set'
 require 'time'
 require 'yaml'
 
@@ -42,7 +41,7 @@ module Mayhem
           return
         end
 
-        excluded_paths = posts.map { |entry| entry[:path] }.to_set
+        excluded_paths = posts.to_set { |entry| entry[:path] }
         remaining_image_refs = remaining_image_counts(excluded_paths)
 
         posts.each do |entry|
@@ -52,7 +51,7 @@ module Mayhem
 
         removed_images = cleanup_images(posts.flat_map { |entry| entry[:images] }.uniq, remaining_image_refs)
 
-        @logger.info "Removed #{posts.size} post#{posts.size == 1 ? '' : 's'} older than #{max_age_days} days."
+        @logger.info "Removed #{posts.size} post#{'s' unless posts.size == 1} older than #{max_age_days} days."
         @logger.info "Removed #{removed_images.size} image metadata entr#{removed_images.size == 1 ? 'y' : 'ies'}."
       end
 
@@ -68,7 +67,7 @@ module Mayhem
       def read_config_value
         return unless File.exist?(@config_path)
 
-        config = YAML.safe_load(File.read(@config_path))
+        config = YAML.safe_load_file(@config_path)
         number = config && config['content_max_age_days']
         Integer(number) if number
       rescue StandardError => e
@@ -118,7 +117,7 @@ module Mayhem
       def cleanup_images(image_ids, remaining_refs)
         removed = []
         image_ids.each do |id|
-          next if remaining_refs[id] && remaining_refs[id] > 0
+          next if remaining_refs[id]&.positive?
 
           removed << id
           remove_file(File.join(@images_dir, "#{id}.md"))

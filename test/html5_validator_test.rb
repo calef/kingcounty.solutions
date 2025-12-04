@@ -16,6 +16,7 @@ class Html5ValidatorTest < Minitest::Test
     skip 'html5_validator gem is not available' unless @validator
 
     html_files = Dir.glob(File.join(SiteBuildHelper.destination, '**', '*.html'))
+
     refute_empty html_files, 'Expected Jekyll build to produce HTML files'
 
     html_files.each do |path|
@@ -38,7 +39,8 @@ class Html5ValidatorTest < Minitest::Test
   def validate_path(path)
     @validator.validate_text(File.read(path))
     @validator.errors || []
-  rescue RestClient::Exception, Errno::ECONNREFUSED, SocketError, Errno::EHOSTUNREACH, Errno::ENETUNREACH, Errno::ETIMEDOUT => e
+  rescue RestClient::Exception, Errno::ECONNREFUSED, SocketError, Errno::EHOSTUNREACH, Errno::ENETUNREACH,
+         Errno::ETIMEDOUT => e
     skip "html5_validator service unreachable: #{e.class}: #{e.message}"
   rescue StandardError => e
     flunk "html5_validator failed for #{relative_path(path)}: #{e.class}: #{e.message}"

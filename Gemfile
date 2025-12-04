@@ -32,10 +32,10 @@ gem 'uri'
 gem 'yaml'
 
 group :development, :test do
+  gem 'html5_validator'
   gem 'parallel_tests', require: false
   gem 'rubocop', require: false
   gem 'rubocop-minitest', require: false
-  gem 'webmock'
   gem 'vcr'
-  gem 'html5_validator'
+  gem 'webmock'
 end

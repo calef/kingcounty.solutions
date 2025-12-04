@@ -37,8 +37,9 @@ module Mayhem
         assert_equal 'results', result
         assert_equal 1, client.calls.length
         parameters = client.calls.first
+
         assert_equal 'gpt-4o-mini', parameters[:model]
-        assert_equal 0.5, parameters[:temperature]
+        assert_in_delta(0.5, parameters[:temperature])
       end
 
       def test_raises_when_openai_returns_error
@@ -52,7 +53,7 @@ module Mayhem
           )
         end
 
-        assert_match /LLM request failed/, error.message
+        assert_match(/LLM request failed/, error.message)
       end
 
       def test_raises_when_no_content

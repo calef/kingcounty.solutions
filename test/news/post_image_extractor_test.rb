@@ -30,9 +30,11 @@ class PostImageExtractorTest < Minitest::Test
 
     # stub image download
     VCR.use_cassette('post_image_extractor/image_download') do
-      stub_request(:get, 'https://example.com/image.jpg').to_return(status: 200, body: File.binread(__FILE__), headers: { 'Content-Type' => 'image/jpeg' })
+      stub_request(:get, 'https://example.com/image.jpg').to_return(status: 200, body: File.binread(__FILE__),
+                                                                    headers: { 'Content-Type' => 'image/jpeg' })
 
-      @extractor = Mayhem::News::PostImageExtractor.new(posts_dir: @tmp_posts, image_docs_dir: @tmp_images, asset_dir: @assets, logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'))
+      @extractor = Mayhem::News::PostImageExtractor.new(posts_dir: @tmp_posts, image_docs_dir: @tmp_images,
+                                                        asset_dir: @assets, logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'))
     end
   end
 
@@ -44,9 +46,11 @@ class PostImageExtractorTest < Minitest::Test
 
   def test_extract_downloads_and_creates_image_doc
     stats = @extractor.run
+
     assert_kind_of Hash, stats
     # ensure an _images doc was created
     files = Dir.glob(File.join(@tmp_images, '*.md'))
-    assert files.length >= 1
+
+    assert_operator files.length, :>=, 1
   end
 end

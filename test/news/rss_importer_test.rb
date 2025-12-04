@@ -36,13 +36,12 @@ class RssImporterTest < Minitest::Test
       </rss>
     XML
 
-    if !defined?(WebMock) || WebMock.nil?
-      skip 'WebMock not available; skipping network-dependent test'
-    end
+    skip 'WebMock not available; skipping network-dependent test' if !defined?(WebMock) || WebMock.nil?
 
     VCR.use_cassette('rss_importer/test_feed') do
       stub_request(:get, 'https://example.com/feed.xml').to_return(status: 200, body: @feed_body, headers: {})
-      stub_request(:get, 'https://example.com/posts/1').to_return(status: 200, body: '<html><body><article><p>Article body</p></article></body></html>')
+      stub_request(:get, 'https://example.com/posts/1').to_return(status: 200,
+                                                                  body: '<html><body><article><p>Article body</p></article></body></html>')
 
       @importer = Mayhem::News::RssImporter.new(news_dir: @tmp_posts, sources_dir: @tmp_orgs)
     end
@@ -54,11 +53,13 @@ class RssImporterTest < Minitest::Test
   end
 
   def test_import_creates_post_with_valid_source_url
-    stats = @importer.run
+    @importer.run
     # run returns nil; verify output files and front matter instead of stats
     files = Dir.glob(File.join(@tmp_posts, '*.md'))
+
     assert_equal 1, files.length
     content = File.read(files.first)
+
     assert_includes content, 'source_url: https://example.com/posts/1'
   end
 end

@@ -53,7 +53,7 @@ module Mayhem
         client = FakeClient.new('choices' => [{ 'message' => { 'content' => '["Safety"]' } }])
         classifier = TopicClassifier.new(topic_dir: @temp_dir, client: client)
 
-        assert_equal [], classifier.classify('   ')
+        assert_empty classifier.classify('   ')
         assert_equal 0, client.call_count
       end
 
@@ -61,7 +61,7 @@ module Mayhem
         client = FakeClient.new('choices' => [{ 'message' => { 'content' => '["Safety"]' } }])
         classifier = TopicClassifier.new(topic_dir: @temp_dir, client: client)
 
-        assert_equal [], classifier.classify('New content about safety.')
+        assert_empty classifier.classify('New content about safety.')
         assert_equal 0, client.call_count
       end
 

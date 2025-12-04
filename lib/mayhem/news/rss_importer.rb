@@ -251,7 +251,7 @@ module Mayhem
       def read_config(config_path)
         return unless File.exist?(config_path)
 
-        data = YAML.safe_load(File.read(config_path))
+        data = YAML.safe_load_file(config_path)
         data && data['rss_max_item_age_days']
       rescue StandardError => e
         @logger&.warn("Failed to read config #{config_path}: #{e.message}")

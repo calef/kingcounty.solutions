@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require_relative '../test_helper'
 require 'minitest/autorun'
 require_relative '../../lib/mayhem/news/post_summarizer'
@@ -31,9 +33,10 @@ class PostSummarizerTest < Minitest::Test
   def test_fetch_article_text_handles_fetch_error
     write_post('2025-01-01-test.md', { 'source_url' => 'http://bad', 'summarized' => false }, 'body')
     http_stub = Object.new
-    def http_stub.fetch(*); { body: '', 'content-type' => 'text/plain', final_url: 'http://ok' }; end
-    summarizer = Mayhem::News::PostSummarizer.new(posts_dir: @tmp_posts, topic_dir: @tmp_topics, http_client: http_stub, logger: @logger, client: Object.new)
-    def summarizer.fetch_article_text(url)
+    def http_stub.fetch(*) = { body: '', 'content-type' => 'text/plain', final_url: 'http://ok' }
+    summarizer = Mayhem::News::PostSummarizer.new(posts_dir: @tmp_posts, topic_dir: @tmp_topics,
+                                                  http_client: http_stub, logger: @logger, client: Object.new)
+    def summarizer.fetch_article_text(_url)
       raise StandardError, 'boom'
     end
 
@@ -49,39 +52,42 @@ class PostSummarizerTest < Minitest::Test
 
     client = Object.new
     def client.chat(parameters:)
-      { 'choices' => [ { 'message' => { 'content' => "[\"Alpha\"]" } } ] }
+      { 'choices' => [{ 'message' => { 'content' => '["Alpha"]' } }] }
     end
 
-    summarizer = Mayhem::News::PostSummarizer.new(posts_dir: @tmp_posts, topic_dir: @tmp_topics, http_client: Object.new, logger: @logger, client: client)
+    summarizer = Mayhem::News::PostSummarizer.new(posts_dir: @tmp_posts, topic_dir: @tmp_topics,
+                                                  http_client: Object.new, logger: @logger, client: client)
     # stub generate_summary to skip OpenAI call
-    def summarizer.generate_summary(*); "summary"; end
+    def summarizer.generate_summary(*) = 'summary'
 
     stats = summarizer.run
+
     assert_equal 1, stats[:updated]
   end
 
   def test_generate_summary_handles_rate_limit_and_error
-    file = write_post('2025-01-03-test.md', { 'source_url' => 'http://ok2', 'summarized' => false }, 'x')
+    write_post('2025-01-03-test.md', { 'source_url' => 'http://ok2', 'summarized' => false }, 'x')
     client = Object.new
     # define method on singleton client that will raise once then return
     client_singleton = class << client; self; end
     client_singleton.send(:define_method, :chat) do |parameters:|
       @__calls ||= 0
-      if @__calls == 0
+      if @__calls.zero?
         @__calls += 1
-        raise Faraday::TooManyRequestsError.new('rate')
+        raise Faraday::TooManyRequestsError, 'rate'
       end
-      { 'choices' => [ { 'message' => { 'content' => ' result ' } } ] }
+      { 'choices' => [{ 'message' => { 'content' => ' result ' } }] }
     end
 
     # Use a summarizer with a client object that will raise once then return
     http_stub = Object.new
-    def http_stub.fetch(*); { body: 'abc', 'content-type' => 'text/plain', final_url: 'http://ok' }; end
-    summarizer = Mayhem::News::PostSummarizer.new(posts_dir: @tmp_posts, topic_dir: @tmp_topics, http_client: http_stub, logger: @logger, client: client)
-    def summarizer.fetch_article_text(url); 'abc'; end
+    def http_stub.fetch(*) = { body: 'abc', 'content-type' => 'text/plain', final_url: 'http://ok' }
+    summarizer = Mayhem::News::PostSummarizer.new(posts_dir: @tmp_posts, topic_dir: @tmp_topics,
+                                                  http_client: http_stub, logger: @logger, client: client)
+    def summarizer.fetch_article_text(_url) = 'abc'
 
     stats = summarizer.run
+
     assert_equal 1, stats[:updated]
   end
-
 end

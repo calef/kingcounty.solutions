@@ -1,6 +1,5 @@
 # frozen_string_literal: true
 
-require 'set'
 require 'test_helper'
 
 class PottymouthWordsTest < Minitest::Test
@@ -52,13 +51,14 @@ class PottymouthWordsTest < Minitest::Test
     i = front_start + 1
     while i < front_end
       line = lines[i]
-      if (match = line.match(/^\s*(#{PATTERN_FIELDS.join('|')}):/))
-        skipped << i + 1
+      if line.match(/^\s*(#{PATTERN_FIELDS.join('|')}):/)
+        skipped << (i + 1)
         j = i + 1
         while j < front_end
           next_line = lines[j]
           break if next_line.strip != '' && next_line !~ /\A\s+/
-          skipped << j + 1
+
+          skipped << (j + 1)
           j += 1
         end
         i = j

@@ -44,9 +44,9 @@ class ContentAgeEnforcerTest < Minitest::Test
 
     enforcer.run
 
-    refute File.exist?(old_post), 'old post should be removed'
-    assert File.exist?(new_post), 'new post stays'
-    assert File.exist?(File.join(@images_dir, "#{shared_image}.md")), 'shared image metadata stays'
+    refute_path_exists old_post, 'old post should be removed'
+    assert_path_exists new_post, 'new post stays'
+    assert_path_exists File.join(@images_dir, "#{shared_image}.md"), 'shared image metadata stays'
   end
 
   def test_removes_images_with_no_remaining_references
@@ -66,9 +66,9 @@ class ContentAgeEnforcerTest < Minitest::Test
 
     enforcer.run
 
-    refute File.exist?(old_post)
-    refute File.exist?(File.join(@images_dir, "#{unique_image}.md"))
-    assert Dir.glob(File.join(@assets_dir, "#{unique_image}.*")).empty?
+    refute_path_exists old_post
+    refute_path_exists File.join(@images_dir, "#{unique_image}.md")
+    assert_empty Dir.glob(File.join(@assets_dir, "#{unique_image}.*"))
   end
 
   private

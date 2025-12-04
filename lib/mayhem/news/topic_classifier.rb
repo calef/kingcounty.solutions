@@ -13,7 +13,8 @@ module Mayhem
       DEFAULT_MODEL = ENV.fetch('OPENAI_TOPIC_MODEL', ENV.fetch('OPENAI_MODEL', 'gpt-5.1'))
       DEFAULT_TEMPERATURE = 0.2
 
-      def initialize(topic_dir: TOPIC_DIR, model: DEFAULT_MODEL, client: nil, chat_client: nil, logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'))
+      def initialize(topic_dir: TOPIC_DIR, model: DEFAULT_MODEL, client: nil, chat_client: nil,
+                     logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'))
         @topic_dir = topic_dir
         @model = model
         @logger = logger
@@ -52,7 +53,8 @@ module Mayhem
           begin
             response = @chat_client.call(
               messages: [
-                { role: 'system', content: 'You are a precise classification assistant who responds with JSON arrays.' },
+                { role: 'system',
+                  content: 'You are a precise classification assistant who responds with JSON arrays.' },
                 { role: 'user', content: prompt }
               ],
               model: @model,
@@ -89,7 +91,6 @@ module Mayhem
           { 'title' => title, 'summary' => summary }
         end
       end
-
     end
   end
 end

@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require_relative 'test_helper'
 require 'stringio'
 require 'json'
@@ -28,12 +30,12 @@ class LoggingTest < Minitest::Test
       out_json = out.read.lines.map { |l| JSON.parse(l) }
       err_json = err.read.lines.map { |l| JSON.parse(l) }
 
-      assert out_json.any? { |r| r['severity_text'] == 'DEBUG' && r['body'] == 'a debug' }
-      assert out_json.any? { |r| r['severity_text'] == 'INFO' && r['body'] == 'an info' }
-      assert err_json.any? { |r| r['severity_text'] == 'WARN' && r['body'] == 'a warn' }
+      assert(out_json.any? { |r| r['severity_text'] == 'DEBUG' && r['body'] == 'a debug' })
+      assert(out_json.any? { |r| r['severity_text'] == 'INFO' && r['body'] == 'an info' })
+      assert(err_json.any? { |r| r['severity_text'] == 'WARN' && r['body'] == 'a warn' })
 
       # program_name and correlation_id present
-      assert out_json.first['attributes']['program_name'] == 'prog'
+      assert_equal 'prog', out_json.first['attributes']['program_name']
       assert out_json.first['attributes']['correlation_id']
     end
   end
@@ -43,9 +45,11 @@ class LoggingTest < Minitest::Test
 
     capture_streams do |out, err|
       logger.log('NO_SUCH_LEVEL', 'ignored')
-      out.rewind; err.rewind
-      assert out.read.empty?
-      assert err.read.empty?
+      out.rewind
+      err.rewind
+
+      assert_empty out.read
+      assert_empty err.read
     end
   end
 
@@ -53,6 +57,7 @@ class LoggingTest < Minitest::Test
     logger = Mayhem::Logging::Logger.new(level_value: Mayhem::Logging::LEVELS['DEBUG'], program_name: 'prog')
     old = logger.correlation_id
     logger.new_correlation_id
+
     refute_equal old, logger.correlation_id
   end
 
@@ -62,8 +67,10 @@ class LoggingTest < Minitest::Test
       logger = Mayhem::Logging.build_logger(env_var: 'TEST_LOG_LEVEL', default_level: 'DEBUG', program_name: 'zzz')
       capture_streams do |out, err|
         logger.info('should be suppressed')
-        out.rewind; err.rewind
-        assert out.read.empty?
+        out.rewind
+        err.rewind
+
+        assert_empty out.read
       end
     ensure
       ENV.delete('TEST_LOG_LEVEL')
