@@ -1,5 +1,4 @@
 ---
-published: false
 date: '2025-10-07T19:36:02+00:00'
 images: []
 original_content: |-
@@ -66,6 +65,7 @@ original_markdown_body: "With a new school year in full swing, many families acr
   services are available for most other languages and dialects.&nbsp;\n\nThe post
   [A Hub of Hope in Staten Island](https://www.vibrant.org/a-hub-of-hope-in-staten-island/)
   appeared first on [Vibrant Emotional Health](https://www.vibrant.org)."
+published: false
 source: Vibrant Emotional Health
 source_url: https://www.vibrant.org/a-hub-of-hope-in-staten-island/
 summarized: true
