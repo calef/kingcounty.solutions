@@ -1,7 +1,6 @@
 ---
 date: '2025-11-06T23:10:52+00:00'
-images:
-- 968fabcbe49a40edce87c15d5157130a134fda196bebdf2ac6bafcbb51c62cd7
+images: []
 original_content: |-
   <p>In an October 30 press release, Catholic Charities USA (CCUSA) announced immediate nationwide food assistance in response to rising demand caused by SNAP benefit cuts and the federal government shutdown. Over the next few weeks, several CCSWW programs — including the Queen Anne Food Bank, King County, the Tri-Parrish Food Bank, Burlington, and The Community Kitchen, Thurston County — will receive 14 pallets of produce from CCUSA to distribute to clients and others affected by the delay.</p>
 
