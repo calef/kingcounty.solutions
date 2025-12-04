@@ -50,10 +50,25 @@
   - Delete `_images/{{ image_doc.path }}` and remove the stored file at {{ image_absolute_url }}.
   - Remove this checksum from any posts, carousels, or other collections so the image stops rendering.
           {% endcapture %}
-          {% assign image_action = image_action | strip %}
+        {% assign image_action = image_action | strip %}
+        {% capture image_flag_span %}
+          {% include flag-issue.html
+            mode="data"
+            content_type="Image"
+            content_title=image_title
+            content_url=image_absolute_url
+            content_id=image_doc.path
+            issue_action=image_action
+            associated_posts=associated_posts
+          %}
+        {% endcapture %}
+        {% if forloop.first %}
+          {% assign first_flag_span = image_flag_span %}
+        {% endif %}
+        {% assign has_caption_content = caption_text or (carousel_show_source and (source_name or source_url)) or (associated_posts and associated_posts.size > 0) %}
           <figure class="media-carousel-slide" data-carousel-slide data-carousel-index="{{ current_index }}">
             <img src="{{ image_url | relative_url }}" alt="{{ alt_text | escape }}" loading="{% if current_index == 0 %}eager{% else %}lazy{% endif %}">
-            {% if caption_text or (carousel_show_source and (source_name or source_url)) %}
+            {% if has_caption_content %}
               <figcaption class="media-carousel-caption">
                 {% if caption_text %}
                   <span class="media-carousel-caption-text">{{ caption_text | escape }}</span>
@@ -72,39 +87,20 @@
                     {% endif %}
                   </span>
                 {% endif %}
-              {% if associated_posts and associated_posts.size > 0 %}
-                <span class="media-carousel-caption-posts">
-                  <span class="media-carousel-caption-label">Posts:</span>
-                  {% for assoc_post in associated_posts %}
-                    <a href="{{ assoc_post.url | relative_url }}">{{ assoc_post.title | escape }}</a>{% unless forloop.last %}, {% endunless %}
-                  {% endfor %}
-                </span>
-              {% endif %}
-            </figcaption>
-          {% endif %}
-          {% if forloop.first %}
-            {% capture first_flag_span %}
-              {% include flag-issue.html
-                mode="data"
-                content_type="Image"
-                content_title=image_title
-                content_url=image_absolute_url
-                content_id=image_doc.path
-                issue_action=image_action
-                associated_posts=associated_posts
-              %}
-            {% endcapture %}
-            {{ first_flag_span }}
-          {% else %}
-            {% include flag-issue.html
-              mode="data"
-              content_type="Image"
-              content_title=image_title
-              content_url=image_absolute_url
-              content_id=image_doc.path
-              issue_action=image_action
-              associated_posts=associated_posts
-            %}
+                {% if associated_posts and associated_posts.size > 0 %}
+                  <span class="media-carousel-caption-posts">
+                    <span class="media-carousel-caption-label">Posts:</span>
+                    {% for assoc_post in associated_posts %}
+                      <a href="{{ assoc_post.url | relative_url }}">{{ assoc_post.title | escape }}</a>{% unless forloop.last %}, {% endunless %}
+                    {% endfor %}
+                  </span>
+                {% endif %}
+                {{ image_flag_span }}
+              </figcaption>
+            {% else %}
+              <figcaption class="media-carousel-caption" hidden aria-hidden="true">
+                {{ image_flag_span }}
+              </figcaption>
             {% endif %}
           </figure>
         {% endfor %}
