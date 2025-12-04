@@ -1,5 +1,4 @@
 ---
-published: false
 date: '2025-11-21T19:13:00+00:00'
 images: []
 original_content: "<figure class=\"\n              sqs-block-image-figure\n              intrinsic\n
@@ -33,6 +32,7 @@ original_markdown_body: |-
   [CLICK HERE](https://www.carepointonline.org/events) to view our Event Calendar and find **upcoming clinic dates** and hours.
 
   **Happy Holidays!**
+published: false
 source: CarePoint Clinic
 source_url: https://www.carepointonline.org/news/adjustedholidayhours
 summarized: true
