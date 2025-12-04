@@ -15,3 +15,9 @@ This repo uses Minitest for any Ruby automation or helpers. `bundle exec rake te
 bundle exec rake test
 PARALLEL_TEST_PROCESSORS=1 bundle exec rake test
 ```
+
+Some tests (like the HTML5 validator) are intentionally expensive and therefore do not run by default. Set `RUN_EXPENSIVE_TESTS` to a truthy value before invoking the suite to opt into those checks:
+
+```sh
+RUN_EXPENSIVE_TESTS=true bundle exec rake test
+```

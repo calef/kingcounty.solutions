@@ -37,4 +37,5 @@ group :development, :test do
   gem 'rubocop-minitest', require: false
   gem 'webmock'
   gem 'vcr'
+  gem 'html5_validator'
 end
