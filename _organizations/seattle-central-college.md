@@ -5,9 +5,6 @@ title: Seattle Central College
 topics:
 - Education & Learning
 - Employment & Job Support
-- Food & Nutrition
-- Health Care
-- Mental Health & Counseling
 type: College
 website: https://seattlecentral.edu/
 ---
