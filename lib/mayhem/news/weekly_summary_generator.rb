@@ -63,7 +63,8 @@ module Mayhem
         prompt = build_prompt(context)
 
         body, model_used = generate_summary_body(prompt, posts, start_date, end_date, plan)
-        closing = "\n\nWe’ll continue to pull the most actionable updates from partner feeds each week. Let us know if there’s a topic you’d like covered in more depth."
+        closing = "\n\nWe’ll continue to pull the most actionable updates from partner feeds each week. " \
+                  'Let us know if there’s a topic you’d like covered in more depth.'
         document_body = "#{body}#{closing}"
         topics = @topic_classifier.classify(document_body)
         image_ids = aggregate_image_ids(posts)
@@ -90,7 +91,7 @@ module Mayhem
       end
 
       def weekly_posts(start_date, end_date)
-        Dir.glob(File.join(@posts_dir, '*.md')).each_with_object([]) do |path, memo|
+        raw_posts = Dir.glob(File.join(@posts_dir, '*.md')).each_with_object([]) do |path, memo|
           basename = File.basename(path)
           match = basename.match(/\A(\d{4}-\d{2}-\d{2})-/)
           next unless match
@@ -116,7 +117,8 @@ module Mayhem
             summary: normalize_excerpt(document.body || ''),
             images: collect_image_ids(front_matter)
           }
-        end.sort_by { |post| [post[:date], post[:title]] }
+        end
+        raw_posts.sort_by { |post| [post[:date], post[:title]] }
       end
 
       def normalize_excerpt(body)
@@ -263,9 +265,9 @@ module Mayhem
       def fallback_summary(posts, start_date, end_date, plan = nil)
         total = posts.length
         lines = []
-        lines << "We published #{total} partner update#{unless total == 1
-                                                          's'
-                                                        end} from #{start_date.strftime('%B %-d')} through #{end_date.strftime('%B %-d, %Y')}."
+        plural_suffix = total == 1 ? '' : 's'
+        date_range = "from #{start_date.strftime('%B %-d')} through #{end_date.strftime('%B %-d, %Y')}."
+        lines << "We published #{total} partner update#{plural_suffix} #{date_range}"
         plan ||= fallback_theme_plan(posts)
         lookup = posts.to_h { |p| [p[:id], p] }
 

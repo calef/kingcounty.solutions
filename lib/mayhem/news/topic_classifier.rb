@@ -64,7 +64,8 @@ module Mayhem
             selections = Array(parsed).map(&:to_s).select { |title| allowed_titles.include?(title) }.uniq
             return selections
           rescue Faraday::TooManyRequestsError
-            @logger.warn "Rate limited during topic classification, waiting 5 seconds before retry (attempt #{attempts})"
+            @logger.warn 'Rate limited during topic classification, waiting 5 seconds ' \
+                         "before retry (attempt #{attempts})"
             sleep 5
           rescue JSON::ParserError
             @logger.warn "Non-JSON response while classifying topics: #{response.inspect}"

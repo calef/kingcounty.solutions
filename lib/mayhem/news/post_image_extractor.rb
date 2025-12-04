@@ -68,7 +68,8 @@ module Mayhem
       private
 
       def process_post(path, cache, stats)
-        document = Mayhem::Support::FrontMatterDocument.load(path, logger:) || begin
+        document = Mayhem::Support::FrontMatterDocument.load(path, logger:)
+        unless document
           stats[:missing_frontmatter] += 1
           return
         end
@@ -213,7 +214,10 @@ module Mayhem
         if image.width >= MIN_IMAGE_DIMENSION && image.height >= MIN_IMAGE_DIMENSION
           true
         else
-          logger.info "Skipping #{source_url}: WebP image #{image.width}x#{image.height} smaller than #{MIN_IMAGE_DIMENSION}px"
+          logger.info(
+            "Skipping #{source_url}: WebP image " \
+            "#{image.width}x#{image.height} smaller than #{MIN_IMAGE_DIMENSION}px"
+          )
           stats[:skipped_small_images] += 1
           false
         end
