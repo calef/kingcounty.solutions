@@ -1,7 +1,6 @@
 ---
 date: '2025-12-03T13:30:00+00:00'
-images:
-- d1399fbed99f5fc20620c27e3904738db8dd1702e624bd5f887ca787cb1d1646
+images: []
 original_content: |-
   <p>VA is excited to announce that the <a href="https://www.shopredbrickclothing.com/redbrickclothing/groupproducts.php?prodgroup_id=31250&amp;prodgroupbypass=true" rel="noopener">National Veterans Golden Age Games Online Store</a>, powered by <a href="https://www.vacanteen.va.gov/" rel="noopener">Veterans Canteen Service</a>, is officially open. Athletes, families, volunteers and supporters can now browse and purchase exclusive Golden Age Games merchandise for the 2026 season.</p>
 
