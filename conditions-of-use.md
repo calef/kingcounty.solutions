@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: solo
 permalink: "/conditions-of-use/"
 title: Conditions of Use
 ---

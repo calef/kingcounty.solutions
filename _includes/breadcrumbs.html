@@ -1,11 +1,15 @@
-{% assign root_url = include.root_url %}
+{% assign root_url = include.root_url | default: "" %}
 {% assign root_label = include.root_label %}
 {% assign trail = include.trail | default: "" %}
 {% assign rendered = "" | split: "" %}
 
 {% if root_label %}
   {% capture root_snippet %}
-    <a href="{{ root_url | relative_url }}">{{ root_label }}</a>
+    {% if root_url != blank %}
+      <a href="{{ root_url | relative_url }}">{{ root_label }}</a>
+    {% else %}
+      <span>{{ root_label }}</span>
+    {% endif %}
   {% endcapture %}
   {% assign rendered = rendered | push: root_snippet %}
 {% endif %}

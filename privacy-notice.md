@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: solo
 permalink: "/privacy-notice/"
 title: Privacy Notice
 ---
