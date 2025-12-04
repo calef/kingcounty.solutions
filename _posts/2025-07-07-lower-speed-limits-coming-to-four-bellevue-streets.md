@@ -1,7 +1,6 @@
 ---
 date: '2025-07-07T21:19:15+00:00'
 images: []
-published: false
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Lower
   speed limits coming to four Bellevue streets</span>\n<span class=\"field field--name-uid
   field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/einlowhood\"
@@ -72,6 +71,7 @@ original_markdown_body: |-
   There will be opportunities to share your input on Safe Speeds Bellevue later this summer, including an online survey and several in-person events. More details and future updates can be found at [BellevueWA.gov/safe-speeds](https://bellevuewa.gov/city-government/departments/transportation/safety-and-maintenance/traffic-safety/speed-limits-speed-management/safe-speeds-bellevue "Safe Speeds Bellevue"). &nbsp;
 
   <time datetime="2025-07-07T12:00:00Z" class="datetime">July 7 2025</time>
+published: false
 source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/lower-speed-limits-coming-four-bellevue-streets
 summarized: true
