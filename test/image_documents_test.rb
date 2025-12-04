@@ -8,7 +8,7 @@ require 'yaml'
 require 'test_helper'
 
 class ImageDocumentsTest < Minitest::Test
-  REQUIRED_FIELDS = %w[checksum date image_url source source_url].freeze
+  REQUIRED_FIELDS = %w[checksum date image_url source source_url title].freeze
   CHECKSUM_REGEX = /\A[0-9a-f]{64}\z/
   IMAGE_EXTENSIONS = %w[
     .avif .bmp .gif .heic .jpeg .jpg .png .svg .tif .tiff .webp

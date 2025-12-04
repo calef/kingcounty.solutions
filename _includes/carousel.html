@@ -24,7 +24,7 @@
           {% assign image_absolute_url = image_url | absolute_url %}
           {% assign current_index = forloop.index0 %}
           {% assign checksum_value = image_doc.data.checksum | default: '' | to_s | strip %}
-          {% assign caption_text = image_doc.data.title | to_s | strip %}
+          {% assign caption_text = image_doc.data.title | default: image_doc.title | to_s | strip %}
           {% if caption_text == checksum_value %}
             {% assign caption_text = '' %}
           {% endif %}

@@ -244,7 +244,8 @@ module Mayhem
           'source_url' => original_url
         }
         title = alt.to_s.strip
-        frontmatter_data['title'] = title unless title.empty?
+        title = 'Image' if title.empty?
+        frontmatter_data['title'] = title
         frontmatter_data['source'] = frontmatter['source'] if frontmatter['source']
         frontmatter_data['date'] = frontmatter['date'] if frontmatter['date']
 
