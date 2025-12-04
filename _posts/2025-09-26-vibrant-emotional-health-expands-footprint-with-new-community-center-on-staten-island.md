@@ -1,7 +1,6 @@
 ---
 date: '2025-09-26T17:34:42+00:00'
 images: []
-published: false
 original_content: |-
   <p><b>Media Contact</b><br />
   <span style="font-weight: 400;">Divendra Jaffar, AVP of Communications &amp; Engagement </span><br />
@@ -96,6 +95,7 @@ original_markdown_body: "**Media Contact**  \nDivendra Jaffar, AVP of Communicat
   post [Vibrant Emotional Health Expands Footprint with New Community Center on Staten
   Island](https://www.vibrant.org/vibrant-emotional-health-expands-footprint-with-new-community-center-on-staten-island/)
   appeared first on [Vibrant Emotional Health](https://www.vibrant.org)."
+published: false
 source: Vibrant Emotional Health
 source_url: https://www.vibrant.org/vibrant-emotional-health-expands-footprint-with-new-community-center-on-staten-island/
 summarized: true
