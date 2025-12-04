@@ -1,7 +1,6 @@
 ---
 date: '2025-07-10T17:26:43+00:00'
-images:
-- a9d64836ac3f8440b85b905a2594568ff9941f45fd3ceac8122316f646b9ccc0
+images: []
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Bellevue
   International Festival celebrates culture and community</span>\n<span class=\"field
   field--name-uid field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/einlowhood\"
@@ -60,6 +59,7 @@ original_markdown_body: "Bellevue International Festival celebrates culture and 
   options, is available at [Bellevue International Festival](https://bellevuewa.gov/city-government/departments/city-managers-office/diversity-advantage-initiative/diversity-advantage-events/bellevue-international-festival
   \"Bellevue International Festival\").&nbsp;\n\n<time datetime=\"2025-07-10T12:00:00Z\"
   class=\"datetime\">July 10 2025</time>"
+published: false
 source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/international-festival-25
 summarized: true
