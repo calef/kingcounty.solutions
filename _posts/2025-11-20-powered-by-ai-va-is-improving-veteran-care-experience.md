@@ -1,7 +1,6 @@
 ---
 date: '2025-11-20T21:30:00+00:00'
 images: []
-published: false
 original_content: |-
   <h2 class="wp-block-heading">AI voice tool quietly takes notes so providers can focus on you</h2>
 
@@ -167,6 +166,7 @@ original_markdown_body: |-
   VA launched ambient AI scribe in October 2025 and will expand to all VA medical centers across the country in 2026 with one goal in mind: to strengthen the Veteran care experience.
 
   Visit [Explore AI at VA](https://department.va.gov/ai/) to learn more about VA’s innovative efforts in AI and digital health solutions.
+published: false
 source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143486/powered-by-ai-improving-veteran-care-experience/
 summarized: true

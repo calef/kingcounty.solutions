@@ -1,5 +1,4 @@
 ---
-published: false
 date: '2025-11-17T18:15:58+00:00'
 images: []
 original_content: |-
@@ -113,6 +112,7 @@ original_markdown_body: |-
   Thanks to public funders such as the Washington State Department of Commerce, the tight-knit community of Langley, and Island Roots Housing for making Generations Place a reality.
 
   [You can learn more about Island Roots Housing on their website](https://islandrootshousing.org/).
+published: false
 source: Department of Commerce
 source_url: https://www.commerce.wa.gov/generations-place-a-community-effort-to-house-langley-workers-for-generations-to-come/
 summarized: true

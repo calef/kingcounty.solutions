@@ -1,5 +1,4 @@
 ---
-published: false
 date: '2025-11-06T01:29:24+00:00'
 images: []
 original_content: "<div class=\"et_pb_section et_pb_section_2 blog-post-type et_section_regular\"
@@ -100,6 +99,7 @@ original_markdown_body: |-
    ![Two youth picking out school supplies at the free event](https://lcsnw.org/wp-content/uploads/2025/11/IMG_3307-scaled-e1762392117458.jpg "IMG\_3307")
 
   The post [LCSNW expands behavioral health services with Gresham office](https://lcsnw.org/2025/11/lcsnw-hits-milestone-with-launch-of-additional-office-in-portland-vancouver-metro-area/) appeared first on [LCSNW](https://lcsnw.org).
+published: false
 source: Lutheran Community Services Northwest
 source_url: https://lcsnw.org/2025/11/lcsnw-hits-milestone-with-launch-of-additional-office-in-portland-vancouver-metro-area/
 summarized: true

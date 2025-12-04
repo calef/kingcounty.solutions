@@ -1,5 +1,4 @@
 ---
-published: false
 date: '2025-10-21T16:41:10+00:00'
 images: []
 original_content: |-
@@ -111,6 +110,7 @@ original_markdown_body: |-
   [Start the Course](https://ohlh.talentlms.com/plus/catalog/courses/190)
 
   The post [Management of the Pediatric Dental Patient (and their parents)](https://arcorafoundation.org/management-of-the-pediatric-dental-patient-and-their-parents/) appeared first on [Arcora Foundation](https://arcorafoundation.org).
+published: false
 source: Arcora Foundation
 source_url: https://arcorafoundation.org/management-of-the-pediatric-dental-patient-and-their-parents/
 summarized: true
