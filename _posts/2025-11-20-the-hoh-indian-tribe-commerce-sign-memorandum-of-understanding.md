@@ -1,7 +1,5 @@
 ---
 date: '2025-11-20T19:38:42+00:00'
-images:
-- 301704c2e04ecf8a8887a8e7439eddcf855539d504d34ef36078a972f2405e09
 original_content: |-
   <p class="has-medium-font-size">MOU will establish government-to-government relations between the sovereign nation and state agency</p>
 
