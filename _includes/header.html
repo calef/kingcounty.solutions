@@ -28,18 +28,17 @@
       <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
       <div class="site-search" role="search" data-search-index="{{ '/assets/search-index.json' | relative_url }}">
         <label class="sr-only" for="site-search-input">Search the site</label>
-        <div class="site-search-control">
-          <input
-            type="search"
-            id="site-search-input"
-            name="site-search-input"
+      <div class="site-search-control" role="combobox" aria-haspopup="listbox" aria-expanded="false">
+        <input
+          type="search"
+          id="site-search-input"
+          name="site-search-input"
             placeholder="Search {{ site.title }}"
             autocomplete="off"
             autocapitalize="none"
             spellcheck="false"
             aria-describedby="site-search-status"
             aria-controls="site-search-list"
-            aria-expanded="false"
             aria-autocomplete="list"
           >
           <button type="button" id="site-search-clear" class="site-search-clear" aria-label="Clear search" hidden>&times;</button>
