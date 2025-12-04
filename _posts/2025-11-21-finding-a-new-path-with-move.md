@@ -1,7 +1,6 @@
 ---
 date: '2025-11-21T15:30:00+00:00'
-images:
-- 8ddc891c7b21dd8780d0159cb6c4c3137b9ca30f9ea6ceb91761f5d9c38674a7
+images: []
 original_content: "<h2 class=\"wp-block-heading\">Veteran Shaunelle Tharpe transforms
   her life and health through VA’s MOVE! program</h2>\n\n\n\n<p>Veteran and employee
   Shaunelle Tharpe had been on the weight loss roller coaster, trying different ways
