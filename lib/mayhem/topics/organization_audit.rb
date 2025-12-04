@@ -88,7 +88,7 @@ module Mayhem
       end
 
       def load_recent_posts(org_title)
-        Dir.glob(File.join(@posts_dir, '**', '*.md')).filter_map do |path|
+        cached_posts = Dir.glob(File.join(@posts_dir, '**', '*.md')).filter_map do |path|
           document = Mayhem::Support::FrontMatterDocument.load(path, logger: @logger)
           next unless document
 
@@ -100,7 +100,8 @@ module Mayhem
             'date' => fm['date'],
             'excerpt' => (document.body || '').strip
           }
-        end.sort_by { |post| post['date'].to_s }.reverse.first(@max_posts)
+        end
+        cached_posts.sort_by { |post| post['date'].to_s }.reverse.first(@max_posts)
       end
 
       def process_org(org, topics)
@@ -168,12 +169,15 @@ module Mayhem
           "- #{title}: #{summary}".strip
         end.join("\n")
 
-        post_lines = posts.map do |post|
+        snippet_lines = posts.map do |post|
           title = post['title'] || 'Untitled'
           date = post['date'] || 'Unknown date'
-          snippet = post['excerpt']&.split(/\s+/)&.first(80)&.join(' ')
+          raw_excerpt = post['excerpt']
+          words = raw_excerpt&.split(/\s+/)
+          snippet = words&.first(80)&.join(' ')
           "• #{title} (#{date}): #{snippet}"
-        end.join("\n")
+        end
+        post_lines = snippet_lines.join("\n")
 
         org_desc = [org['description'], org['content']&.strip].compact.join("\n\n")
 

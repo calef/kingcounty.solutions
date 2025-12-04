@@ -43,7 +43,7 @@ module Mayhem
         updated = []
         skipped = []
 
-        thread_count = [[file_list.size, 1].max, @concurrency].min
+        thread_count = file_list.size.clamp(1, @concurrency)
         workers = Array.new(thread_count) do
           Thread.new do
             loop do
@@ -85,6 +85,7 @@ module Mayhem
         end
       end
 
+      # rubocop:disable Naming/PredicateMethod
       def process_organization(file_name, updated, skipped, mutex)
         result = handle_organization(file_name)
         return false unless result
@@ -97,6 +98,7 @@ module Mayhem
         end
         true
       end
+      # rubocop:enable Naming/PredicateMethod
 
       def build_file_queue(file_list)
         queue = Queue.new
@@ -294,7 +296,10 @@ module Mayhem
       end
 
       def print_summary(results)
-        @logger.info "Summary: processed=#{results[:processed]} found=#{results[:updated].length} none=#{results[:skipped].length}"
+        @logger.info(
+          "Summary: processed=#{results[:processed]} found=#{results[:updated].length} " \
+          "none=#{results[:skipped].length}"
+        )
         results[:updated].each { |name, url| @logger.info "Updated #{name}: #{url}" }
       end
     end

@@ -80,7 +80,7 @@ module Mayhem
 
         title = data.fetch('title', URI(website_url).host)
         slug = ensure_unique_slug(slugify(title))
-        front_matter = build_front_matter(data, topics: topics, places: places, types: types)
+        front_matter = build_front_matter(data, places: places, types: types)
         if feed_result
           front_matter['news_rss_url'] ||= feed_result.rss_url
           front_matter['events_ical_url'] ||= feed_result.ical_url
@@ -255,7 +255,7 @@ module Mayhem
         slug
       end
 
-      def build_front_matter(data, topics:, places:, types:)
+      def build_front_matter(data, places:, types:)
         front_matter = {}
         %w[acronym jurisdictions news_rss_url events_ical_url parent_organization phone email address topics
            type].each do |key|

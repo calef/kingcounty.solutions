@@ -28,6 +28,7 @@ This is a Jekyll-based static site that aggregates public service resources into
 - Name files with kebab-case (e.g., `places.md`)
 - Keep collection documents singular (`title: Auburn`, filename `auburn.md`)
 - Use concise inline comments only when necessary to explain non-obvious logic
+- Sort frontmatter keys alphabetically
 
 ## Testing
 
