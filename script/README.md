@@ -7,7 +7,7 @@ The `script/` directory contains lightweight automation used during setup, local
 | Script | Purpose |
 | --- | --- |
 | `bootstrap` | Installs the Bundler version listed in `.bundler-version` (via `ensure-bundler`) and runs `bundle install`. |
-| `cibuild` | Cleans the workspace, ensures dependencies, and runs `bundle exec jekyll build` with `JEKYLL_ENV=production` and drafts enabled. |
+| `cibuild` | Cleans the workspace via `script/setup`, runs `JEKYLL_ENV=production bundle exec jekyll build --drafts`, and executes `bundle exec rake test`. |
 | `server` | Pulls the latest dependencies (`script/update`) and runs `bundle exec jekyll serve --livereload --host 0.0.0.0`. |
 | `setup` | Removes `_site`, `.jekyll-cache`, and `.jekyll-metadata` to give CI/build scripts a clean slate. |
 | `update` | Runs `script/bootstrap`; use after pulling remote changes to make sure gems are current. |
@@ -22,7 +22,8 @@ The `script/` directory contains lightweight automation used during setup, local
 
 ### `cibuild`
 
-- Runs `script/setup` (cleans build artifacts), then executes `bundle exec jekyll build --drafts` with `JEKYLL_ENV=production`.  
+- Runs `script/setup` (cleans build artifacts), then executes `JEKYLL_ENV=production bundle exec jekyll build --drafts`.  
+- Runs `bundle exec rake test` after the site build so CI-style checks stay in sync with local verification.  
 - Intended to mirror CI behavior locally; use before opening a PR to catch Liquid/front-matter errors.  
 - Respects any environment variables recognized by `jekyll build` (e.g., `JEKYLL_ENV` override).
 
