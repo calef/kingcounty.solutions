@@ -1,0 +1,63 @@
+---
+layout: default
+title: Home
+---
+
+<section class="home-intro">
+  <p>{{ content }}</p>
+</section>
+
+{% assign recent_posts = site.posts | where_exp: 'post', 'post.published != false' %}
+{% assign now_iso = site.time | date_to_xmlschema %}
+{% assign upcoming_source = site.events | where_exp: 'event', 'event.published != false and event.start_date' %}
+{% assign upcoming_events = upcoming_source | where_exp: 'event', 'event.start_date >= now_iso' | sort: 'start_date' %}
+
+<div class="home-columns">
+  <section class="home-column">
+    <div class="home-column-header">
+      <h2>Latest News</h2>
+    </div>
+    {% if recent_posts.size > 0 %}
+    <ul class="home-list">
+      {% for post in recent_posts limit: 20 %}
+      <li>
+        <article class="home-item">
+          <p class="home-item-meta">{{ post.date | date: "%B %-d, %Y" }}</p>
+          <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+          {% if post.excerpt %}
+          <p class="home-item-summary">{{ post.excerpt | strip_html | truncate: 140 }}</p>
+          {% endif %}
+        </article>
+      </li>
+      {% endfor %}
+    </ul>
+    {% else %}
+    <p>No news items are available right now.</p>
+    {% endif %}
+    <p class="home-list-link"><a href="{{ '/news/' | relative_url }}">See all news</a></p>
+  </section>
+
+  <section class="home-column">
+    <div class="home-column-header">
+      <h2>Upcoming Events</h2>
+    </div>
+    {% if upcoming_events.size > 0 %}
+    <ul class="home-list">
+      {% for event in upcoming_events limit: 20 %}
+      <li>
+        <article class="home-item">
+          <p class="home-item-meta">{{ event.start_date | date: "%B %-d, %Y" }} at {{ event.start_date | date: "%-I:%M %p" }}</p>
+          <h3><a href="{{ event.url | relative_url }}">{{ event.title }}</a></h3>
+          {% if event.excerpt %}
+          <p class="home-item-summary">{{ event.excerpt | strip_html | truncate: 140 }}</p>
+          {% endif %}
+        </article>
+      </li>
+      {% endfor %}
+    </ul>
+    {% else %}
+    <p>No upcoming events are scheduled right now.</p>
+    {% endif %}
+    <p class="home-list-link"><a href="{{ '/events/' | relative_url }}">See all events</a></p>
+  </section>
+</div>

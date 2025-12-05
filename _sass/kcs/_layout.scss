@@ -71,6 +71,86 @@
   @extend %clearfix;
 }
 
+/**
+ * Home layout
+ */
+.home-intro {
+  margin: 2rem 0;
+  font-size: 1.15rem;
+  line-height: 1.6;
+}
+
+.home-columns {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 2rem;
+  align-items: start;
+  margin-bottom: 2rem;
+}
+
+.home-column {
+  background: #fff;
+  border: 1px solid #e2e6ed;
+  border-radius: 0.85rem;
+  padding: 1.5rem;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.03);
+}
+
+.home-column-header {
+  margin-bottom: 1rem;
+}
+
+.home-column-header h2 {
+  margin: 0;
+}
+
+.home-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 1.25rem;
+}
+
+.home-item {
+  margin: 0;
+}
+
+.home-item-meta {
+  font-size: 0.85rem;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  color: #5b6777;
+  margin: 0 0 0.25rem;
+}
+
+.home-item h3 {
+  margin: 0 0 0.35rem;
+  font-size: 1.05rem;
+}
+
+.home-item-summary {
+  margin: 0;
+  color: #3f4a58;
+  font-size: 0.95rem;
+}
+
+.home-list-link {
+  margin-top: 1.5rem;
+  font-weight: 600;
+}
+
+.home-list-link a {
+  color: $brand-color;
+  text-decoration: none;
+}
+
+.home-list-link a:hover,
+.home-list-link a:focus-visible {
+  text-decoration: underline;
+}
+
 
 
 /**
