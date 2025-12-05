@@ -11,10 +11,11 @@ require_relative '../support/http_client'
 require_relative '../feed_discovery'
 
 module Mayhem
-  module News
-    class PostImageExtractor
+  module Content
+    class ContentImageExtractor
       IMAGE_DOCS_DIR = '_images'
       POSTS_DIR = '_posts'
+      EVENTS_DIR = '_events'
       IMAGE_ASSET_DIR = File.join('assets', 'images')
       DEFAULT_OPEN_TIMEOUT = begin
         Integer(ENV.fetch('IMAGE_OPEN_TIMEOUT', '10'))
@@ -37,6 +38,7 @@ module Mayhem
 
       def initialize(
         posts_dir: POSTS_DIR,
+        events_dir: EVENTS_DIR,
         image_docs_dir: IMAGE_DOCS_DIR,
         asset_dir: IMAGE_ASSET_DIR,
         logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'),
@@ -44,7 +46,7 @@ module Mayhem
         read_timeout: DEFAULT_READ_TIMEOUT,
         http_client: nil
       )
-        @posts_dir = posts_dir
+        @content_dirs = [posts_dir, events_dir].compact.uniq
         @image_docs_dir = image_docs_dir
         @asset_dir = asset_dir
         @logger = logger
@@ -58,8 +60,10 @@ module Mayhem
       def run
         cache = {}
         stats = Hash.new(0)
-        Dir.glob(File.join(@posts_dir, '*.md')).each do |path|
-          process_post(path, cache, stats)
+        @content_dirs.each do |dir|
+          Dir.glob(File.join(dir, '*.md')).each do |path|
+            process_post(path, cache, stats)
+          end
         end
         log_summary(stats)
         stats
@@ -271,7 +275,7 @@ module Mayhem
           skipped_small_images: stats[:skipped_small_images]
         }
         summary = summary_fields.map { |k, v| "#{k}=#{v}" }.join(', ')
-        logger.info "extract-post-images complete: #{summary}"
+        logger.info "extract-images-from-content complete: #{summary}"
       end
     end
   end

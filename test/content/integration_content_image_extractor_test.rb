@@ -4,12 +4,13 @@ require_relative '../test_helper'
 require 'minitest/autorun'
 require 'webmock/minitest'
 require 'tmpdir'
-require_relative '../../lib/mayhem/news/post_image_extractor'
+require_relative '../../lib/mayhem/content/content_image_extractor'
 require_relative '../../lib/mayhem/logging'
 
-class PostImageExtractorTest < Minitest::Test
+class ContentImageExtractorIntegrationTest < Minitest::Test
   def setup
     @tmp_posts = Dir.mktmpdir
+    @tmp_events = Dir.mktmpdir
     @tmp_images = Dir.mktmpdir
     @assets = Dir.mktmpdir
 
@@ -29,17 +30,19 @@ class PostImageExtractorTest < Minitest::Test
     File.write(File.join(@tmp_posts, '2025-11-27-img-post.md'), fm)
 
     # stub image download
-    VCR.use_cassette('post_image_extractor/image_download') do
+    VCR.use_cassette('content_image_extractor/image_download') do
       stub_request(:get, 'https://example.com/image.jpg').to_return(status: 200, body: File.binread(__FILE__),
                                                                     headers: { 'Content-Type' => 'image/jpeg' })
 
-      @extractor = Mayhem::News::PostImageExtractor.new(posts_dir: @tmp_posts, image_docs_dir: @tmp_images,
-                                                        asset_dir: @assets, logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'))
+      @extractor = Mayhem::Content::ContentImageExtractor.new(posts_dir: @tmp_posts, events_dir: @tmp_events,
+                                                              image_docs_dir: @tmp_images, asset_dir: @assets,
+                                                              logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'))
     end
   end
 
   def teardown
     FileUtils.remove_entry(@tmp_posts)
+    FileUtils.remove_entry(@tmp_events)
     FileUtils.remove_entry(@tmp_images)
     FileUtils.remove_entry(@assets)
   end

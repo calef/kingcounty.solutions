@@ -3,7 +3,7 @@
 
 $LOAD_PATH.unshift(File.expand_path('../lib', __dir__))
 
-require 'mayhem/news/post_image_extractor'
+require 'mayhem/content/content_image_extractor'
 
-extractor = Mayhem::News::PostImageExtractor.new
+extractor = Mayhem::Content::ContentImageExtractor.new
 extractor.run if $PROGRAM_NAME == __FILE__

@@ -9,7 +9,7 @@ Utility commands that automate content imports, auditing, and metadata maintenan
 | `audit-organization-topics` | Uses OpenAI to reconcile each organization’s topics against recent news coverage and optionally rewrites front matter. |
 | `generate-organization-from-url` | Scrapes a site, asks OpenAI for metadata, and creates a new `_organizations/*.md` entry. |
 | `generate-weekly-summary` | Builds a weekly roundup article from `_posts/`, grouping stories into themes with LLM assistance. |
-| `extract-post-images` | Pulls image URLs from `original_markdown_body` (if present), downloads them into `assets/images`, hashes/renames files, and links image IDs into `_posts/` and `_images/`. |
+| `extract-images-from-content` | Pulls image URLs from `original_markdown_body` (if present), downloads them into `assets/images`, hashes/renames files, and links image IDs into `_posts/`, `_events/`, and `_images/`. |
 | `import-rss-news` | Pulls fresh posts from partner RSS feeds defined in `_organizations/`, normalizes and validates item URLs using the organization `website` when needed, and writes Markdown copies into `_posts/` (invalid source URLs are never stored). |
 | `import-ical-events` | Fetches each organization’s `events_ical_url`, parses the calendar document, and writes `_events/<date>-<slug>.md` entries for every event with consistent metadata. |
 | `list-openai-models` | Lists available OpenAI model IDs for the current API key. |
@@ -90,14 +90,14 @@ Builds an editorial roundup post for the current week (Saturday–Friday window)
 - Falls back to a deterministic, non-LLM summary if either call fails.
 - Sets front matter with `source: King County Solutions`, `summarized: true`, and `openai_model` (or `fallback` if heuristics kick in), and adds a closing encouragement paragraph.
 
-### `extract-post-images`
+### `extract-images-from-content`
 
 **Purpose**  
-Downloads images referenced in each post’s `original_markdown_body`, renames them to their SHA256 checksum plus extension, writes `_images/<checksum>.md` entries, and stores the related image checksums back into the post front matter.
+Downloads images referenced in each post or event `original_markdown_body`, renames them to their SHA256 checksum plus extension, writes `_images/<checksum>.md` entries, and stores the related image checksums back into the source front matter.
 
 **Usage**
 
-- `bin/extract-post-images`
+- `bin/extract-images-from-content`
 
 **Key env/config**
 
@@ -108,12 +108,12 @@ Downloads images referenced in each post’s `original_markdown_body`, renames t
 
 **Behavior notes**
 
-- Skips posts without `original_markdown_body` or without image references; supports Markdown `![]()` and `<img>` tags with `http/https` sources.
-- Skips posts that already have an `images` front matter attribute; intended for one-time population.
+- Skips entries without `original_markdown_body` or without image references; supports Markdown `![]()` and `<img>` tags with `http/https` sources.
+- Skips entries that already have an `images` front matter attribute; intended for one-time population.
 - Avoids redownloading the same URL within a run; writes files under `assets/images/<checksum>.webp` (or the original extension when conversion fails).
 - Converts raster image downloads (JPEG/PNG/GIF/BMP/TIFF) into WebP via ImageMagick (`mini_magick` must be bundled and ImageMagick’s `magick`/`convert` binary available); non-raster/media or failed conversions leave the original bytes/extension untouched.
 - Skips storing WebP assets whose dimensions fall below `IMAGE_MIN_DIMENSION`, logging a per-post warning and incrementing the run summary’s `skipped_small_images` counter.
-- Creates `_images/<checksum>.md` with `checksum`, optional `title` (set only when the image had alt text), `image_url`, `source_url`, and copies `source`/`date` from the originating post; appends discovered checksums to a post’s `images` array without removing existing entries.
+- Creates `_images/<checksum>.md` with `checksum`, optional `title` (set only when the image had alt text), `image_url`, `source_url`, and copies `source`/`date` from the originating entry; appends discovered checksums to an entry’s `images` array without removing existing entries.
 - Logs WARN-level issues for missing front matter or failed downloads/conversions, INFO for updates/empty images actions, DEBUG for already-processed posts, and prints a per-run summary when the log level allows it.
 
 ### `import-rss-news`
