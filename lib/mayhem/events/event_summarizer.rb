@@ -57,6 +57,10 @@ module Mayhem
         end
 
         front_matter = document.front_matter
+        if front_matter['summarized'] == true
+          stats[:skipped_already_summarized] += 1
+          return
+        end
         needs_summary = front_matter['summarized'] != true
         needs_topics = Array(front_matter['topics']).empty?
         return unless needs_summary || needs_topics
@@ -183,6 +187,7 @@ module Mayhem
         summary_fields = {
           updated: stats[:updated],
           skipped_no_frontmatter: stats[:skipped_no_frontmatter],
+          skipped_already_summarized: stats[:skipped_already_summarized],
           skipped_missing_source: stats[:skipped_missing_source],
           failed_summary: stats[:failed_summary],
           missing_topics: stats[:missing_topics],
