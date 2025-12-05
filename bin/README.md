@@ -13,7 +13,7 @@ Utility commands that automate content imports, auditing, and metadata maintenan
 | `import-rss-news` | Pulls fresh posts from partner RSS feeds defined in `_organizations/`, normalizes and validates item URLs using the organization `website` when needed, and writes Markdown copies into `_posts/` (invalid source URLs are never stored). |
 | `import-ical-events` | Fetches each organization’s `events_ical_url`, parses the calendar document, and writes `_events/<date>-<slug>.md` entries for every event with consistent metadata. |
 | `list-openai-models` | Lists available OpenAI model IDs for the current API key. |
-| `summarize-news` | Fetches source articles for `_posts/` entries missing summaries (or uses stored Markdown), generates an AI-written summary, and writes it back; the tool no longer persists `original_content` or `original_markdown_body` in updated posts. |
+| `summarize-content` | Generates AI-written summaries for `_posts/` and `_events/` entries that lack `summarized: true`, preserving the original Markdown body before replacing it with the short summary. |
 | `update-organization-feed-urls` | Crawls organization websites to locate RSS/Atom and iCal feeds, updating `news_rss_url` and `events_ical_url`. |
 | `tidy-frontmatter` | Normalizes Markdown front matter (sorted keys, consistent delimiters, and tidy spacing between the delimiter and body). |
 
@@ -179,27 +179,29 @@ Simple helper that echoes every model ID visible to the configured OpenAI accoun
 
 - Returns one line per model and exits; no other arguments are supported.
 
-### `summarize-news`
+### `summarize-content`
 
 **Purpose**  
-Backfills AI-written summaries for `_posts/` entries whose front matter lacks `summarized: true`. Preserves the original Markdown body, fetches the source article when possible, and writes a concise Markdown paragraph capped at ~100 words.
+Runs both news and event summarizers so `_posts/` and `_events/` files missing `summarized: true` gain a concise Markdown summary while keeping the original Markdown body in front matter. Both content types also receive automatic topic classification when the `topics` array is empty.
 
 **Usage**
 
-- `bin/summarize-news`
+- `bin/summarize-content`
 
 **Key env/config**
 
 - `OPENAI_API_KEY` – required.
-- `OPENAI_MODEL` – overrides the default `gpt-4o-mini`.
+- `OPENAI_MODEL` – overrides the default `gpt-4o-mini` for news summaries (and topic classification defaults).
+- `OPENAI_EVENT_MODEL` – optional override for event summaries; falls back to `OPENAI_MODEL`.
+- `OPENAI_TOPIC_MODEL` – optional override for the topic classifier (defaults to `OPENAI_MODEL` when unset).
 - `LOG_LEVEL` – logging level shared by all scripts (`TRACE`, `DEBUG`, `INFO`, `WARN`, `ERROR`, or `FATAL`; default `WARN`). Use `INFO` to see update summaries without surfacing all warnings.
 
 **Behavior notes**
 
-- Tries to fetch the original article (scrubbing scripts/nav chrome) before sending truncated text (20k chars max) to the LLM; falls back to the stored Markdown body if the fetch fails.
-- Retries failed API calls up to three times (sleeping between rate limits).
-- Writes `original_markdown_body` once (if missing) and sets `summarized: true` in front matter.
-- Emits WARN-level messages for data issues or API errors, INFO for truncation/updates, and prints a per-run summary when the log level allows it.
+- Processes news posts first, preserving any existing body as `original_markdown_body`, fetching the source article (20k character cap) when available, generating a summary, and classifying topics if needed (marking `published: false` when no topics match).
+- Runs through `_events/` afterward, pulling article text either from the remote source or stored body, generating an event-focused summary, classifying topics when missing, and flagging the event as unpublished if no topics apply.
+- Retries OpenAI calls up to three times on rate limits, logging WARN messages for API or fetch issues and summarizing the run totals at INFO level.
+- Leaves files untouched when `summarized: true` is already present, but you can force a re-run by deleting that flag (or the stored summary) before invoking the script.
 
 ### `update-organization-feed-urls`
 

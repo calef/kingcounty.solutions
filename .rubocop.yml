@@ -25,4 +25,4 @@ Metrics/PerceivedComplexity:
   Enabled: false
 
 Layout/LineLength:
-  Max: 130
+  Max: 160

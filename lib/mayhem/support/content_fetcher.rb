@@ -2,6 +2,7 @@
 
 require 'nokogiri'
 require_relative 'article_body_selectors'
+require_relative 'content_utils'
 require_relative '../feed_discovery'
 
 module Mayhem
@@ -84,10 +85,7 @@ module Mayhem
       def sanitize_html(source)
         return '' unless source
 
-        text = source.to_s.dup
-        text.force_encoding('UTF-8')
-        text.scrub('')
-        text.gsub(/\s+/, ' ').strip
+        Mayhem::Support::ContentUtils.sanitize_html(source)
       end
     end
   end

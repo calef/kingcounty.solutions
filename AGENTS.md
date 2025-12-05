@@ -11,7 +11,7 @@
 - `script/server` — wraps `bundle exec jekyll serve --livereload` so you can preview at `http://127.0.0.1:4000`.
 - `script/cibuild` — invokes `bundle exec jekyll build` plus any future CI checks; run locally before PRs.
 - `bin/import-rss-news` — pulls latest partner news into `_posts/`. The importer now normalizes and validates item URLs (using an organization’s `website` as a base when needed) and will not persist invalid `source_url` values; deleting a post’s `source_url` can force re-import.
-- `bin/summarize-news` — generates AI summaries for posts lacking `summarized: true`.
+- `bin/summarize-content` — generates AI summaries (and topics when missing) for `_posts/` and `_events/` entries that lack `summarized: true`.
 
 ## Coding Style & Naming Conventions
 - Use two spaces for indentation in Liquid templates, Markdown front matter, and Ruby scripts. Keep YAML keys lowercase with snake_case (e.g., `parent_place`).
@@ -35,4 +35,3 @@
 - Do not modify files under `_site/` or commit secrets; make the smallest possible change to fix an issue and document verification steps in the PR.
 - Use `script/bootstrap`, `script/server`, and `script/cibuild` to set up and verify local builds.
 - Keep messages concise and actionable so other agents can pick up work quickly.
-

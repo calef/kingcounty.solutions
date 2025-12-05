@@ -5,7 +5,6 @@ require 'fileutils'
 require 'icalendar'
 require 'nokogiri'
 require 'reverse_markdown'
-require 'thread'
 require_relative '../logging'
 require_relative '../support/front_matter_document'
 require_relative '../support/http_client'
@@ -13,6 +12,8 @@ require_relative '../feed_discovery'
 require_relative '../support/slug_generator'
 require_relative '../support/url_normalizer'
 require_relative '../support/content_fetcher'
+require_relative '../support/encoding_utils'
+require_relative '../support/content_utils'
 
 module Mayhem
   module Events
@@ -212,7 +213,7 @@ module Mayhem
                             stats: stats)
         end
 
-        location = event_location(event)
+        location = Mayhem::Support::EncodingUtils.ensure_utf8(event_location(event))
         end_time = resolve_time(event.dtend) || start_time
         start_prefix = start_time.strftime('%Y-%m-%d')
         start_value = start_time.iso8601
@@ -226,13 +227,16 @@ module Mayhem
         )
         filename = File.join(@events_dir, "#{start_prefix}-#{slug}.md")
 
-        description_html = raw_html
-        description_html = sanitize_html(event.description) if description_html.to_s.strip.empty?
-        markdown_body = normalized_markdown(description_html)
+        description_html = Mayhem::Support::EncodingUtils.ensure_utf8(raw_html)
+        description_html = Mayhem::Support::ContentUtils.sanitize_html(event.description) if description_html.to_s.strip.empty?
+        description_html = Mayhem::Support::EncodingUtils.ensure_utf8(description_html)
+        markdown_body = Mayhem::Support::EncodingUtils.ensure_utf8(
+          Mayhem::Support::ContentUtils.normalized_markdown(description_html)
+        )
 
         front_matter = {
-          'title' => summary,
-          'source' => source_title,
+          'title' => Mayhem::Support::EncodingUtils.ensure_utf8(summary),
+          'source' => Mayhem::Support::EncodingUtils.ensure_utf8(source_title),
           'start_date' => start_value,
           'end_date' => end_value,
           'location' => location,
@@ -241,10 +245,11 @@ module Mayhem
         front_matter['original_content'] = description_html unless description_html.to_s.strip.empty?
         front_matter['original_markdown_body'] = markdown_body unless markdown_body.to_s.strip.empty?
 
+        body_content = Mayhem::Support::EncodingUtils.ensure_utf8(formatted_body(markdown_body))
         document = Mayhem::Support::FrontMatterDocument.new(
           path: filename,
           front_matter: front_matter,
-          body: formatted_body(markdown_body)
+          body: body_content
         )
         document.save
         record_stat(:created, stats)
@@ -315,18 +320,6 @@ module Mayhem
         "\n#{body}\n"
       end
 
-      def normalized_markdown(html_description)
-        return '' if html_description.to_s.strip.empty?
-
-        fragment = Nokogiri::HTML::DocumentFragment.parse(html_description.to_s)
-        markdown = ReverseMarkdown.convert(fragment.to_html).to_s.strip
-        return markdown unless markdown.include?('<') && markdown.include?('>')
-
-        Nokogiri::HTML.fragment(fragment.to_html).text.strip
-      rescue StandardError
-        Nokogiri::HTML.fragment(html_description.to_s).text.strip
-      end
-
       def fetch_event_body(url, stats)
         return unless url
 
@@ -335,15 +328,6 @@ module Mayhem
         record_stat(:fetch_failed, stats)
         @logger.warn "Failed to fetch more info for #{url}: #{e.message}"
         nil
-      end
-
-      def sanitize_html(source)
-        return '' unless source
-
-        text = source.to_s.dup
-        text.force_encoding('UTF-8')
-        text.scrub('')
-        text.gsub(/\s+/, ' ').strip
       end
 
       def current_time
