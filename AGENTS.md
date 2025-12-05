@@ -10,7 +10,7 @@
 - Toolchains are managed with `mise`; if you open a new shell run `mise exec ruby@$(cat .ruby-version) -- <command>` (or source its activation line) so Ruby/Bundler versions match `.ruby-version`/`.bundler-version`.
 - `script/server` — wraps `bundle exec jekyll serve --livereload` so you can preview at `http://127.0.0.1:4000`.
 - `script/cibuild` — invokes `bundle exec jekyll build` plus any future CI checks; run locally before PRs.
-- `bin/import-rss-news` — pulls latest partner news into `_posts/`. The importer now normalizes and validates item URLs (using an organization’s `website` as a base when needed) and will not persist invalid `source_url` values; deleting a post’s `source_url` can force re-import.
+- `bin/import-content-from-feeds` — chains the RSS and iCal importers to pull partner news into `_posts/` and events into `_events/`, normalizes/validates URLs (falling back to an organization’s `website`), and skips storing invalid `source_url` values so deleting one triggers a clean re-import.
 - `bin/summarize-content` — generates AI summaries (and topics when missing) for `_posts/` and `_events/` entries that lack `summarized: true`.
 
 ## Coding Style & Naming Conventions

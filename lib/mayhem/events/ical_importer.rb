@@ -185,7 +185,7 @@ module Mayhem
         events.each { |event| create_event(event, source_title, website, stats) }
       rescue StandardError => e
         record_stat(:parse_failed, stats)
-        @logger.warn "Failed to parse iCal for #{source_title}: #{e.message}"
+        @logger.error "Failed to parse iCal for #{source_title}: #{e.message}"
       end
 
       def create_event(event, source_title, website, stats)

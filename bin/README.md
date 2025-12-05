@@ -10,8 +10,7 @@ Utility commands that automate content imports, auditing, and metadata maintenan
 | `generate-organization-from-url` | Scrapes a site, asks OpenAI for metadata, and creates a new `_organizations/*.md` entry. |
 | `generate-weekly-summary` | Builds a weekly roundup article from `_posts/`, grouping stories into themes with LLM assistance. |
 | `extract-images-from-content` | Pulls image URLs from `original_markdown_body` (if present), downloads them into `assets/images`, hashes/renames files, and links image IDs into `_posts/`, `_events/`, and `_images/`. |
-| `import-rss-news` | Pulls fresh posts from partner RSS feeds defined in `_organizations/`, normalizes and validates item URLs using the organization `website` when needed, and writes Markdown copies into `_posts/` (invalid source URLs are never stored). |
-| `import-ical-events` | Fetches each organization’s `events_ical_url`, parses the calendar document, and writes `_events/<date>-<slug>.md` entries for every event with consistent metadata. |
+| `import-content-from-feeds` | Runs the RSS and iCal importers back-to-back so partner news and events flow into `_posts/` and `_events/`, normalizing URLs and metadata where possible. |
 | `list-openai-models` | Lists available OpenAI model IDs for the current API key. |
 | `summarize-content` | Generates AI-written summaries for `_posts/` and `_events/` entries that lack `summarized: true`, preserving the original Markdown body before replacing it with the short summary. |
 | `update-organization-feed-urls` | Crawls organization websites to locate RSS/Atom and iCal feeds, updating `news_rss_url` and `events_ical_url`. |
@@ -116,31 +115,29 @@ Downloads images referenced in each post or event `original_markdown_body`, rena
 - Creates `_images/<checksum>.md` with `checksum`, optional `title` (set only when the image had alt text), `image_url`, `source_url`, and copies `source`/`date` from the originating entry; appends discovered checksums to an entry’s `images` array without removing existing entries.
 - Logs WARN-level issues for missing front matter or failed downloads/conversions, INFO for updates/empty images actions, DEBUG for already-processed posts, and prints a per-run summary when the log level allows it.
 
-### `import-rss-news`
+### `import-content-from-feeds`
 
 **Purpose**  
-Imports recent partner updates from every `_organizations/*.md` that exposes `news_rss_url`, converts each RSS item into Markdown (with the original HTML saved in front matter), and writes it under `_posts/`.
+Runs the RSS news importer followed by the iCal events importer so `_posts/` and `_events/` reflect the latest partner updates declared in `_organizations/*.md`.
 
 **Usage**
 
-- `bin/import-rss-news`
+- `bin/import-content-from-feeds`
 
 **Key env/config**
 
-- Honors `news_rss_url` and optional metadata (e.g., titles) already in each organization file.
+- Honors each organization’s `news_rss_url`, `events_ical_url`, and metadata when creating posts/events.
 - Skips RSS items older than `rss_max_item_age_days` (configured in `_config.yml`, default 365) days ago.
-- `RSS_WORKERS` – how many threads to use for fetching/parsing feeds in parallel (default 6). Use a smaller number if you want to be gentler on source servers.
-- `RSS_OPEN_TIMEOUT` / `RSS_READ_TIMEOUT` – per-request open/read timeouts in seconds (defaults 5/10) for both feed fetches and article-body scraping. Increase slightly if you see false positives, or lower to bail out faster on slow sites.
-- `LOG_LEVEL` – logging level shared by all scripts (`TRACE`, `DEBUG`, `INFO`, `WARN`, `ERROR`, or `FATAL`; default `WARN`). Use `INFO` to show per-feed summaries or suppress routine skip notices at higher thresholds.
+- `RSS_WORKERS` – thread count for fetching/parsing RSS feeds in parallel (default 6).
+- `RSS_OPEN_TIMEOUT` / `RSS_READ_TIMEOUT` – per-request timeouts in seconds (defaults 5/10) for feed fetches and article-body scraping.
+- `ICAL_WORKERS` – thread count for the events importer (default 6); lower it if feed endpoints are sensitive.
+- `LOG_LEVEL` – logging level shared by both importers (`TRACE`, `DEBUG`, `INFO`, `WARN`, `ERROR`, or `FATAL`; default `WARN`). Use `INFO` to surface per-feed/per-organization summaries.
 
 **Behavior notes**
 
-- De-duplicates by checking existing `_posts/` entries whose `source_url` matches (the importer normalizes and validates URLs before storing, and invalid URLs are not persisted).
-- Attempts to scrape the article body directly (preferring known selectors) if the RSS item lacks `content:encoded`.
-- Converts HTML to Markdown via `ReverseMarkdown`, stores the upstream HTML in `original_content`, and saves the cleaned Markdown body beneath a single YAML front matter block.
-- Fetches feeds concurrently using a small thread pool; per-thread logs coordinate via the shared logger.
-- Emits one INFO summary line per feed describing how many items were imported, skipped as duplicates, stale, etc.
-- Network errors (HTTP failures, SSL issues, socket errors, or timeouts) are logged per-source and skipped so one flakey feed doesn’t halt the full import run.
+- News import: normalizes and validates each RSS item URL before writing `_posts/`, skips duplicates already present in front matter, scrapes article bodies when the feed lacks `content:encoded`, converts HTML to Markdown via `ReverseMarkdown`, and saves the upstream HTML in `original_content`.
+- Events import: scans every `_organizations/*.md` with `events_ical_url`, downloads each calendar, skips events that are missing metadata, in the past, or too far in the future, normalizes canonical URLs to avoid duplicates, fetches event body content when possible, and writes `_events/<date>-<slug>.md` with `original_content`/`original_markdown_body` copies.
+- Both importers parallelize work with small worker pools, log per-source summaries, and keep running when individual feeds fail so a single bad endpoint never blocks the rest.
 
 ### `enforce-content-age`
 
