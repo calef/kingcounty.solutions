@@ -5,6 +5,7 @@ require 'fileutils'
 require 'icalendar'
 require 'nokogiri'
 require 'reverse_markdown'
+require 'thread'
 require_relative '../logging'
 require_relative '../support/front_matter_document'
 require_relative '../support/http_client'
@@ -19,6 +20,11 @@ module Mayhem
       DEFAULT_EVENTS_DIR = '_events'
       DEFAULT_ORGS_DIR = '_organizations'
       MAX_FILENAME_BYTES = 255
+      DEFAULT_MAX_WORKERS = begin
+        Integer(ENV.fetch('ICAL_WORKERS', '6'))
+      rescue StandardError
+        6
+      end
 
       ACCEPT_HEADER = Mayhem::FeedDiscovery::ACCEPT_FEED
       MAX_FETCH_BYTES = Mayhem::FeedDiscovery::FEED_MAX_BYTES
@@ -29,6 +35,7 @@ module Mayhem
         org_dir: DEFAULT_ORGS_DIR,
         events_dir: DEFAULT_EVENTS_DIR,
         http_client: nil,
+        workers: DEFAULT_MAX_WORKERS,
         logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'),
         time_source: -> { Time.now }
       )
@@ -38,21 +45,33 @@ module Mayhem
         @logger = logger
         @content_fetcher = Mayhem::Support::ContentFetcher.new(http_client: @http_client, logger: @logger)
         @time_source = time_source
+        @workers = [workers, 1].max
         @processed_orgs = 0
         @stats = Hash.new(0)
         @existing_urls = {}
         @future_limit = nil
+        @existing_lock = Mutex.new
+        @stats_lock = Mutex.new
+        @processed_lock = Mutex.new
       end
 
       def run
         ensure_events_dir
         @existing_urls = build_existing_event_index
-        Dir.glob(File.join(@org_dir, '*.md')).each do |org_path|
-          @processed_orgs += 1
-          stats = Hash.new(0)
-          summary = process_organization(org_path, stats)
-          log_org_summary(summary[:title], summary[:source], stats) if summary
+        queue = Queue.new
+        Dir.glob(File.join(@org_dir, '*.md')).each { |org_path| queue << org_path }
+
+        threads = Array.new(@workers) do
+          Thread.new do
+            loop do
+              org_path = queue.pop(true)
+              process_org_path(org_path)
+            rescue ThreadError
+              break
+            end
+          end
         end
+        threads.each(&:join)
         log_summary
       end
 
@@ -76,17 +95,20 @@ module Mayhem
       end
 
       def log_summary
+        stats_snapshot = nil
+        @stats_lock.synchronize { stats_snapshot = @stats.dup }
+        processed = processed_org_count
         @logger.info(
-          "Events import summary: organizations=#{@processed_orgs} " \
-          "created=#{@stats[:created]} duplicates=#{@stats[:duplicate]} " \
-          "past=#{@stats[:past_event]} far_future=#{@stats[:far_future_event]} " \
-          "fetch_failed=#{@stats[:fetch_failed]} write_failed=#{@stats[:write_failed]} parse_failed=#{@stats[:parse_failed]}"
+          "Events import summary: organizations=#{processed} " \
+          "created=#{stats_snapshot[:created]} duplicates=#{stats_snapshot[:duplicate]} " \
+          "past=#{stats_snapshot[:past_event]} far_future=#{stats_snapshot[:far_future_event]} " \
+          "fetch_failed=#{stats_snapshot[:fetch_failed]} write_failed=#{stats_snapshot[:write_failed]} parse_failed=#{stats_snapshot[:parse_failed]}"
         )
       end
 
       def record_stat(key, stats)
         stats[key] += 1 if stats
-        @stats[key] += 1
+        @stats_lock.synchronize { @stats[key] += 1 }
       end
 
       def log_org_summary(source_title, source_url, stats)
@@ -115,6 +137,21 @@ module Mayhem
           "#{label}=#{value}" if value&.positive?
         end.compact
         parts.empty? ? 'no_changes' : parts.join(', ')
+      end
+
+      def process_org_path(org_path)
+        increment_processed_orgs
+        stats = Hash.new(0)
+        summary = process_organization(org_path, stats)
+        log_org_summary(summary[:title], summary[:source], stats) if summary
+      end
+
+      def increment_processed_orgs
+        @processed_lock.synchronize { @processed_orgs += 1 }
+      end
+
+      def processed_org_count
+        @processed_lock.synchronize { @processed_orgs }
       end
 
       def process_organization(path, stats)
@@ -161,7 +198,7 @@ module Mayhem
 
         source_url = normalized_link(event.url, website)
         return skip_event(reason: :missing_url, reason_detail: summary, stats: stats) unless source_url
-        return skip_event(reason: :duplicate, reason_detail: source_url, stats: stats) if @existing_urls[source_url]
+        return skip_event(reason: :duplicate, reason_detail: source_url, stats: stats) if event_registered?(source_url)
 
         fetch_result = fetch_event_body(source_url, stats)
         raw_html = fetch_result && fetch_result[:html]
@@ -170,7 +207,7 @@ module Mayhem
         canonical_url = source_url if canonical_url.to_s.strip.empty?
         return skip_event(reason: :missing_url, reason_detail: summary, stats: stats) if canonical_url.to_s.strip.empty?
 
-        if @existing_urls[canonical_url]
+        if event_registered?(canonical_url)
           return skip_event(reason: :duplicate, reason_detail: canonical_url,
                             stats: stats)
         end
@@ -233,7 +270,14 @@ module Mayhem
         normalized = normalized_link(url, nil)
         return if normalized.to_s.strip.empty?
 
-        @existing_urls[normalized] = true
+        @existing_lock.synchronize { @existing_urls[normalized] = true }
+      end
+
+      def event_registered?(url)
+        normalized = normalized_link(url, nil)
+        return false if normalized.to_s.strip.empty?
+
+        @existing_lock.synchronize { @existing_urls.key?(normalized) }
       end
 
       def event_location(event)
