@@ -28,6 +28,14 @@ module Mayhem
         30
       end
       RASTER_EXTENSIONS = %w[.jpg .jpeg .png .gif .bmp .tif .tiff].freeze
+      ALLOWED_EXTENSIONS = (RASTER_EXTENSIONS + %w[.webp .svg]).freeze
+      CONTENT_TYPE_TO_EXTENSION = {
+        'image/jpeg' => '.jpg',
+        'image/png' => '.png',
+        'image/gif' => '.gif',
+        'image/webp' => '.webp',
+        'image/svg+xml' => '.svg'
+      }.freeze
       MIN_IMAGE_DIMENSION = begin
         Integer(ENV.fetch('IMAGE_MIN_DIMENSION', '300'))
       rescue StandardError
@@ -154,12 +162,8 @@ module Mayhem
             collected_ids << cached_checksum
             next
           end
-
-          downloaded = download_image(img[:url])
-          unless downloaded
-            stats[:download_failures] += 1
-            next
-          end
+          downloaded = download_image(img[:url], stats)
+          next unless downloaded
 
           converted_data, converted_ext = convert_to_webp(downloaded[:data], downloaded[:ext], img[:url])
           next if converted_ext == '.webp' && !meets_minimum_dimensions?(converted_data, img[:url], stats)
@@ -173,30 +177,34 @@ module Mayhem
         collected_ids.uniq
       end
 
-      def download_image(url)
+      def download_image(url, stats)
         uri = URI.parse(url)
         return nil unless %w[http https].include?(uri.scheme) && uri.host
 
         page = @http.fetch(uri.to_s, accept: Mayhem::FeedDiscovery::ACCEPT_FEED, max_bytes: 2_097_152)
+        ext = image_extension(uri, page[:content_type])
+        unless allowed_extension?(ext)
+          logger.info "Skipping #{url}: unsupported image type (#{ext || 'unknown'})"
+          stats[:skipped_unsupported_images] += 1
+          return nil
+        end
         data = page[:body]
-        { data:, ext: image_extension(uri, nil) }
+        { data:, ext: ext }
       rescue StandardError => e
         logger.warn "Failed to download #{url}: #{e.message}"
+        stats[:download_failures] += 1
         nil
       end
 
       def image_extension(uri, content_type)
         from_path = File.extname(uri.path).downcase
-        return from_path if from_path =~ /\.(jpg|jpeg|png|gif|webp|svg)$/
+        return from_path if allowed_extension?(from_path)
 
-        case content_type.to_s.split(';').first
-        when 'image/jpeg' then '.jpg'
-        when 'image/png' then '.png'
-        when 'image/gif' then '.gif'
-        when 'image/webp' then '.webp'
-        when 'image/svg+xml' then '.svg'
-        else '.img'
-        end
+        CONTENT_TYPE_TO_EXTENSION[content_type.to_s.split(';').first]
+      end
+
+      def allowed_extension?(extension)
+        extension && ALLOWED_EXTENSIONS.include?(extension)
       end
 
       def convert_to_webp(data, ext, source_url)
@@ -272,6 +280,7 @@ module Mayhem
           no_images_found: stats[:no_images_found],
           no_valid_images: stats[:no_valid_images],
           download_failures: stats[:download_failures],
+          skipped_unsupported_images: stats[:skipped_unsupported_images],
           skipped_small_images: stats[:skipped_small_images]
         }
         summary = summary_fields.map { |k, v| "#{k}=#{v}" }.join(', ')
