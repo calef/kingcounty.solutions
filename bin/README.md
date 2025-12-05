@@ -13,7 +13,6 @@ Utility commands that automate content imports, auditing, and metadata maintenan
 | `import-content-from-feeds` | Runs the RSS and iCal importers back-to-back so partner news and events flow into `_posts/` and `_events/`, normalizing URLs and metadata where possible. |
 | `list-openai-models` | Lists available OpenAI model IDs for the current API key. |
 | `summarize-content` | Generates AI-written summaries for `_posts/` and `_events/` entries that lack `summarized: true`, preserving the original Markdown body before replacing it with the short summary. |
-| `update-organization-feed-urls` | Crawls organization websites to locate RSS/Atom and iCal feeds, updating `news_rss_url` and `events_ical_url`. |
 | `tidy-frontmatter` | Normalizes Markdown front matter (sorted keys, consistent delimiters, and tidy spacing between the delimiter and body). |
 
 > Many scripts call the OpenAI API; export `OPENAI_API_KEY` before using them.
@@ -200,29 +199,6 @@ Runs both news and event summarizers so `_posts/` and `_events/` files missing `
 - Runs through `_events/` afterward, pulling article text either from the remote source or stored body, generating an event-focused summary, classifying topics when missing, and flagging the event as unpublished if no topics apply.
 - Retries OpenAI calls up to three times on rate limits, logging WARN messages for API or fetch issues and summarizing the run totals at INFO level.
 - Leaves files untouched when `summarized: true` is already present, but you can force a re-run by deleting that flag (or the stored summary) before invoking the script.
-
-### `update-organization-feed-urls`
-
-**Purpose**  
-Locates RSS/Atom and iCal feeds for organizations that have a `website` but are missing either `news_rss_url` or `events_ical_url`, using heuristics over the HTML, `<link rel="alternate">` tags, common “/feed” conventions, and secondary “news/blog”/calendar pages. Writes any newly discovered URLs back to the organization’s front matter; skips files that already expose both fields.
-
-**Usage**
-
-- `bin/update-organization-feed-urls`
-
-**Key env/config**
-
-- `OPENAI_API_KEY` is **not** required.
-- `TARGETS=org-a.md,org-b.md` – restricts processing to a comma-delimited subset (filenames or `_organizations/<file>` paths).
-- `LIMIT=10` – stop after inspecting N organizations.
-- `DRY_RUN=1` – report findings without writing to disk.
-- `LOG_LEVEL` – logging level shared by all scripts (`TRACE`, `DEBUG`, `INFO`, `WARN`, `ERROR`, or `FATAL`; default `WARN`). Raise to `INFO` to see per-organization progress and summaries.
-
-**Behavior notes**
-
-- Applies custom request headers, trims downloads (`HTML_MAX_BYTES`, `FEED_MAX_BYTES`), sleeps briefly between fetches, and ignores obvious comment feeds.
-- If no feed is embedded on the homepage it probes the highest-scoring “secondary pages” (links mentioning news/blog/press/etc.) before giving up.
-- Updates either `news_rss_url` or `events_ical_url` (or both) with the newly discovered URLs and skips organizations that already expose both fields; logs INFO-level progress as organizations are processed along with a final summary listing each feed type it wrote.
 
 ### `tidy-frontmatter`
 
