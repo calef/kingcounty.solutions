@@ -212,4 +212,51 @@ END:VCALENDAR
       <a class="event-calendar-button" href="{{ event_ics_data_uri }}" download="{{ event_ics_filename }}">Add to Calendar</a>
     </section>
   {% endif %}
+
+  {%- assign all_events = site.events | sort: 'start_date' -%}
+  {%- assign total_events = all_events | size -%}
+  {%- assign current_event_index = nil -%}
+  {%- for event_doc in all_events -%}
+    {%- if event_doc.url == page.url -%}
+      {%- assign current_event_index = forloop.index0 -%}
+      {%- break -%}
+    {%- endif -%}
+  {%- endfor -%}
+  {%- if total_events > 1 and current_event_index != nil -%}
+    {%- assign earlier_index = current_event_index | minus: 1 -%}
+    {%- assign later_index = current_event_index | plus: 1 -%}
+    {%- assign earlier_event = nil -%}
+    {%- assign later_event = nil -%}
+    {%- if earlier_index >= 0 -%}
+      {%- assign earlier_event = all_events[earlier_index] -%}
+    {%- endif -%}
+    {%- if later_index < total_events -%}
+      {%- assign later_event = all_events[later_index] -%}
+    {%- endif -%}
+    <nav class="news-pagination" aria-label="Event pagination">
+      <div class="news-pagination-links">
+        <div class="news-pagination-group news-pagination-left">
+          {%- if earlier_event -%}
+            <a class="news-pagination-link" href="{{ earlier_event.url | relative_url }}">&larr; Earlier</a>
+          {%- else -%}
+            <span class="news-pagination-link is-disabled" aria-hidden="true">&larr; Earlier</span>
+          {%- endif -%}
+        </div>
+
+        <div class="news-pagination-group news-pagination-center">
+          <span class="news-pagination-page-count">
+            Event {{ current_event_index | plus: 1 }} of {{ total_events }}
+          </span>
+        </div>
+
+        <div class="news-pagination-group news-pagination-right">
+          {%- if later_event -%}
+            <a class="news-pagination-link" href="{{ later_event.url | relative_url }}">Later &rarr;</a>
+          {%- else -%}
+            <span class="news-pagination-link is-disabled" aria-hidden="true">Later &rarr;</span>
+          {%- endif -%}
+        </div>
+      </div>
+    </nav>
+  {%- endif -%}
 </article>
