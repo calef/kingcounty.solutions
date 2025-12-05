@@ -1,0 +1,78 @@
+{%- assign event = include.event -%}
+{%- if event -%}
+  {%- assign primary_image_id = include.image_id -%}
+  {%- if (primary_image_id == nil or primary_image_id == '') and event.images -%}
+    {%- assign primary_image_id = event.images | first -%}
+  {%- endif -%}
+  {%- assign primary_image = nil -%}
+  {%- if primary_image_id -%}
+    {%- assign normalized_image_id = primary_image_id | append: '' | strip -%}
+    {%- assign primary_image = site.images | where: "checksum", normalized_image_id | first -%}
+  {%- endif -%}
+  {%- assign primary_image_url = nil -%}
+  {%- assign primary_image_alt = event.title -%}
+  {%- if primary_image -%}
+    {%- assign primary_image_url = primary_image.image_url -%}
+    {%- if primary_image.title -%}
+      {%- assign primary_image_alt = primary_image.title -%}
+    {%- endif -%}
+  {%- endif -%}
+  {%- assign start_value = event.start_date | default: event.date -%}
+  {%- assign end_value = event.end_date -%}
+  {%- assign event_date_text = nil -%}
+  {%- assign event_time_text = nil -%}
+  {%- if start_value -%}
+    {%- assign event_date_text = start_value | date: "%B %-d, %Y" -%}
+    {%- assign event_time_text = start_value | date: "%-I:%M %p" -%}
+  {%- endif -%}
+  {%- assign event_end_time_text = nil -%}
+  {%- if end_value -%}
+    {%- assign event_end_time_text = end_value | date: "%-I:%M %p" -%}
+  {%- endif -%}
+  {%- assign excerpt_source = event.excerpt | default: event.content -%}
+  {%- if excerpt_source -%}
+    {%- assign excerpt_sanitized = excerpt_source | strip_html | strip_newlines -%}
+  {%- endif -%}
+  {%- assign truncated_excerpt = nil -%}
+  {%- if excerpt_sanitized and excerpt_sanitized != '' -%}
+    {%- assign truncated_excerpt = excerpt_sanitized | truncate: 300 -%}
+  {%- endif -%}
+  {%- assign location_value = event.location | to_s | strip -%}
+  {%- if location_value and location_value != '' -%}
+    {%- assign has_location = true -%}
+  {%- else -%}
+    {%- assign location_value = '' -%}
+    {%- assign has_location = false -%}
+  {%- endif -%}
+  <article class="news-item event-item{% if primary_image_url %} news-item--has-image{% endif %}">
+    <header>
+      <h3>
+        <a href="{{ event.url | relative_url }}">{{ event.title }}</a>
+      </h3>
+      <p class="news-meta">
+        {%- if event_date_text -%}
+          <time datetime="{{ start_value | date_to_xmlschema }}">{{ event_date_text }}</time>
+          {%- if event_time_text -%}
+            <span class="event-time"> • {{ event_time_text }}</span>
+          {%- endif -%}
+          {%- if event_end_time_text -%}
+            <span class="event-time-range"> – {{ event_end_time_text }}&nbsp;</span>
+          {%- endif -%}
+        {%- endif -%}
+        {%- if has_location -%}
+          • <span class="event-location">{{ location_value }}</span>
+        {%- endif -%}
+      </p>
+    </header>
+    {%- if truncated_excerpt -%}
+      <div class="news-item-body{% if primary_image_url %} news-item-body--with-image{% endif %}">
+        {%- if primary_image_url -%}
+          <div class="news-item-thumb">
+            <img src="{{ primary_image_url | relative_url }}" alt="{{ primary_image_alt }}" width="100" height="100" loading="lazy" decoding="async">
+          </div>
+        {%- endif -%}
+        <p class="news-excerpt">{{ truncated_excerpt }}</p>
+      </div>
+    {%- endif -%}
+  </article>
+{%- endif -%}

@@ -4,26 +4,32 @@
       <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
       <div class="site-search" role="search" data-search-index="{{ '/assets/search-index.json' | relative_url }}">
         <label class="sr-only" for="site-search-input">Search the site</label>
-      <div class="site-search-control" role="combobox" aria-haspopup="listbox" aria-expanded="false">
-        <input
-          type="search"
-          id="site-search-input"
-          name="site-search-input"
-            placeholder="Search {{ site.title }}"
-            autocomplete="off"
-            autocapitalize="none"
-            spellcheck="false"
-            aria-describedby="site-search-status"
-            aria-controls="site-search-list"
-            aria-autocomplete="list"
-          >
-          <button type="button" id="site-search-clear" class="site-search-clear" aria-label="Clear search" hidden>&times;</button>
+        <div class="site-search-control" role="combobox" aria-haspopup="listbox" aria-expanded="false">
+          <input
+            type="search"
+            id="site-search-input"
+            name="site-search-input"
+              placeholder="Search {{ site.title }}"
+              autocomplete="off"
+              autocapitalize="none"
+              spellcheck="false"
+              aria-describedby="site-search-status"
+              aria-controls="site-search-list"
+              aria-autocomplete="list"
+            >
+            <button type="button" id="site-search-clear" class="site-search-clear" aria-label="Clear search" hidden>&times;</button>
+          </div>
+          <div class="site-search-results" id="site-search-results" hidden>
+            <p class="site-search-status" id="site-search-status" aria-live="polite"></p>
+            <ul class="site-search-list" id="site-search-list" role="listbox"></ul>
+          </div>
         </div>
-        <div class="site-search-results" id="site-search-results" hidden>
-          <p class="site-search-status" id="site-search-status" aria-live="polite"></p>
-          <ul class="site-search-list" id="site-search-list" role="listbox"></ul>
-        </div>
-      </div>
+      <nav class="site-nav" aria-label="Primary">
+        <ul class="site-nav-list">
+          <li><a class="site-nav-link" href="{{ '/' | relative_url }}">News</a></li>
+          <li><a class="site-nav-link" href="{{ '/events/' | relative_url }}">Events</a></li>
+        </ul>
+      </nav>
     </div>
   </div>
 </header>

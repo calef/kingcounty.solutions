@@ -1,0 +1,71 @@
+---
+layout: default
+---
+
+{%- assign pager = pagination | default: paginator -%}
+{%- assign current_page_number = pager.page | default: paginator.page | default: 1 -%}
+{%- assign current_page_label = "Page " | append: current_page_number -%}
+
+<article>
+  <header>
+    {% include breadcrumbs.html root_url="/events/" root_label="Events" current=current_page_label %}
+    <h1>
+      Events — {{ current_page_label }}
+    </h1>
+  </header>
+
+  {% if pager and pager.page < 2 %}
+    {{ content }}
+  {% elsif pager == nil %}
+    {{ content }}
+  {% endif %}
+
+  {%- assign paginated_events = pager.docs | default: pager.posts | default: site.events -%}
+  {%- if pager == nil -%}
+    {%- assign paginated_events = paginated_events | sort: "start_date" -%}
+  {%- endif -%}
+  {%- assign events_rendered = paginated_events | size -%}
+
+  <section>
+    {%- for event in paginated_events -%}
+      {% include event-card.html event=event %}
+    {%- endfor -%}
+
+    {%- if events_rendered == 0 -%}
+      <p>No upcoming events are available right now. Please check back soon.</p>
+    {%- endif -%}
+  </section>
+
+  {%- if pager -%}
+    {%- assign total_pages = pager.total_pages | default: pager.page_count | default: 1 -%}
+    {%- if total_pages > 1 -%}
+      <nav class="news-pagination" aria-label="Events pagination">
+        {%- assign previous_path = pager.previous_page_path | default: pager.previous -%}
+        {%- assign next_path = pager.next_page_path | default: pager.next -%}
+        <div class="news-pagination-links">
+          <div class="news-pagination-group news-pagination-left">
+            {%- if previous_path -%}
+              <a class="news-pagination-link" href="{{ previous_path | relative_url }}">&larr; Earlier</a>
+            {%- else -%}
+              <span class="news-pagination-link is-disabled" aria-hidden="true">&larr; Earlier</span>
+            {%- endif -%}
+          </div>
+
+          <div class="news-pagination-group news-pagination-center">
+            <span class="news-pagination-page-count">
+              Page {{ pager.page | default: 1 }} of {{ total_pages }}
+            </span>
+          </div>
+
+          <div class="news-pagination-group news-pagination-right">
+            {%- if next_path -%}
+              <a class="news-pagination-link" href="{{ next_path | relative_url }}">Later &rarr;</a>
+            {%- else -%}
+              <span class="news-pagination-link is-disabled" aria-hidden="true">Later &rarr;</span>
+            {%- endif -%}
+          </div>
+        </div>
+      </nav>
+    {%- endif -%}
+  {%- endif -%}
+</article>

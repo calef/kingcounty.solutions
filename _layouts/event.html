@@ -1,0 +1,215 @@
+---
+layout: default
+---
+
+{%- assign event_url = page.url | absolute_url -%}
+{%- assign event_source_url = page.source_url | default: event_url -%}
+{%- assign start_value = page.start_date | default: page.date -%}
+{%- assign end_value = page.end_date -%}
+{%- assign location_value = page.location -%}
+{%- assign source_text = page.source | default: page.source_url -%}
+{%- assign calendar_timezone = site.timezone | default: "America/Los_Angeles" -%}
+{%- assign location_plain = location_value | to_s | strip -%}
+{%- assign calendar_description = page.excerpt | default: page.content -%}
+{%- if calendar_description -%}
+  {%- assign calendar_description = calendar_description | strip_html | strip_newlines | replace: '\r', ' ' | replace: '\n', ' ' | strip -%}
+{%- endif -%}
+{%- assign calendar_dtstart = nil -%}
+{%- assign calendar_dtend = nil -%}
+{%- assign calendar_dtstart_local = nil -%}
+{%- assign calendar_dtend_local = nil -%}
+{%- assign calendar_start_iso = nil -%}
+{%- assign calendar_end_iso = nil -%}
+{%- if start_value -%}
+  {%- assign calendar_dtstart = start_value | date: "%Y%m%dT%H%M%SZ" -%}
+  {%- assign calendar_dtstart_local = start_value | date: "%Y%m%dT%H%M%S" -%}
+  {%- assign calendar_start_iso = start_value | date: "%Y-%m-%dT%H:%M:%S%z" -%}
+{%- endif -%}
+{%- if end_value -%}
+  {%- assign calendar_dtend = end_value | date: "%Y%m%dT%H%M%SZ" -%}
+  {%- assign calendar_dtend_local = end_value | date: "%Y%m%dT%H%M%S" -%}
+  {%- assign calendar_end_iso = end_value | date: "%Y-%m-%dT%H:%M:%S%z" -%}
+{%- elsif calendar_dtstart -%}
+  {%- assign calendar_dtend = calendar_dtstart -%}
+  {%- assign calendar_dtend_local = calendar_dtstart_local -%}
+  {%- assign calendar_end_iso = calendar_start_iso -%}
+{%- endif -%}
+{%- assign calendar_body = calendar_description | default: '' -%}
+{%- if calendar_body != '' -%}
+  {%- assign calendar_body = calendar_body | append: "\n\n" -%}
+{%- endif -%}
+{%- assign calendar_body = calendar_body | append: event_source_url -%}
+{%- assign calendar_body = calendar_body | strip -%}
+{%- assign calendar_location = location_plain -%}
+{%- assign add_to_calendar_available = false -%}
+{%- if calendar_dtstart and calendar_start_iso -%}
+  {%- assign add_to_calendar_available = true -%}
+{%- endif -%}
+{%- if add_to_calendar_available -%}
+  {%- assign calendar_dtend_value = calendar_dtend | default: calendar_dtstart -%}
+  {%- assign calendar_title_encoded = page.title | strip | uri_escape -%}
+  {%- assign calendar_details_encoded = calendar_body | uri_escape -%}
+  {%- assign calendar_location_encoded = calendar_location | uri_escape -%}
+  {%- assign google_dates = calendar_dtstart | append: '/' | append: calendar_dtend_value -%}
+  {%- assign google_calendar_url = 'https://www.google.com/calendar/render?action=TEMPLATE&text=' | append: calendar_title_encoded | append: '&dates=' | append: google_dates | append: '&details=' | append: calendar_details_encoded -%}
+  {%- if calendar_location_encoded and calendar_location_encoded != '' -%}
+    {%- assign google_calendar_url = google_calendar_url | append: '&location=' | append: calendar_location_encoded -%}
+  {%- endif -%}
+  {%- assign google_calendar_url = google_calendar_url | append: '&trp=false' -%}
+  {%- assign outlook_base = 'https://outlook.office.com/owa/?path=/calendar/action/compose&rrv=addevent&startdt=' | append: calendar_start_iso -%}
+  {%- assign outlook_end_param = calendar_end_iso | default: calendar_start_iso -%}
+  {%- assign outlook_params = '&enddt=' | append: outlook_end_param | append: '&subject=' | append: calendar_title_encoded | append: '&body=' | append: calendar_details_encoded -%}
+  {%- if calendar_location_encoded and calendar_location_encoded != '' -%}
+    {%- assign outlook_params = outlook_params | append: '&location=' | append: calendar_location_encoded -%}
+  {%- endif -%}
+  {%- assign outlook365_url = outlook_base | append: outlook_params -%}
+  {%- assign outlook_live_url = outlook365_url | replace: 'outlook.office.com', 'outlook.live.com' -%}
+  {%- capture event_ics -%}
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//King County Solutions//Events//EN
+BEGIN:VEVENT
+UID:{{ page.id | default: page.path }}@kingcounty.solutions
+DTSTAMP:{{ site.time | date: "%Y%m%dT%H%M%SZ" }}
+DTSTART;TZID={{ calendar_timezone }}:{{ calendar_dtstart_local }}
+{% if calendar_dtend_local %}DTEND;TZID={{ calendar_timezone }}:{{ calendar_dtend_local }}
+{% endif %}SUMMARY:{{ page.title | strip | replace: '\n', ' ' }}
+{% if calendar_location %}LOCATION:{{ calendar_location | replace: '\n', ' ' }}
+{% endif %}{% if calendar_body %}DESCRIPTION:{{ calendar_body | replace: '\n', ' ' }}
+{% endif %}URL:{{ event_source_url }}
+END:VEVENT
+END:VCALENDAR
+  {%- endcapture -%}
+  {%- assign event_ics_content = event_ics | strip -%}
+  {%- assign event_ics_data_uri = 'data:text/calendar;charset=utf-8,' | append: event_ics_content | uri_escape -%}
+  {%- assign event_ics_filename = page.slug | default: page.title | slugify | append: '.ics' -%}
+{%- endif -%}
+
+<article class="event-detail h-event" itemscope itemtype="http://schema.org/Event">
+  {% capture event_action %}
+- Set `published: false` in the event front matter so it no longer appears in listings.
+- Delete `{{ page.path }}` if the event should be removed from the site.
+- Remove any image metadata or files that are no longer referenced.
+  {% endcapture %}
+  {% assign event_action = event_action | strip %}
+  <header>
+    {% include breadcrumbs.html root_url="/events/" root_label="Events" current=page.title %}
+    <div class="title-with-flag">
+      <h1 itemprop="name">{{ page.title | escape }}</h1>
+      {% include flag-issue.html
+        content_type="Event"
+        content_title=page.title
+        content_url=event_url
+        content_id=page.path
+        issue_action=event_action
+      %}
+    </div>
+    {% if page.topics and page.topics.size > 0 %}
+      <div class="topic-tags">
+        {% assign sorted_topics = page.topics | sort %}
+        {% for t in sorted_topics %}
+          {% assign topic_doc = site.topics | where: "title", t | first %}
+          {% if topic_doc %}
+            <a class="topic-pill" href="{{ topic_doc.url | relative_url }}">{{ t }}</a>
+          {% else %}
+            <span class="topic-pill">{{ t }}</span>
+          {% endif %}
+        {% endfor %}
+      </div>
+    {% endif %}
+  </header>
+
+  <section>
+    <table class="event-detail-meta">
+      <tbody>
+        {% if start_value %}
+          <tr class="event-detail-meta-row">
+            <th scope="row">Starts</th>
+            <td>
+              <time datetime="{{ start_value | date_to_xmlschema }}" itemprop="startDate">
+                {{ start_value | date: "%A, %B %-d, %Y" }}
+                <span class="event-meta-time">{{ start_value | date: " • %-I:%M %p" }}</span>
+              </time>
+            </td>
+          </tr>
+        {% endif %}
+        {% if end_value %}
+          <tr class="event-detail-meta-row">
+            <th scope="row">Ends</th>
+            <td>
+              <time datetime="{{ end_value | date_to_xmlschema }}" itemprop="endDate">
+                {{ end_value | date: "%A, %B %-d, %Y" }}
+                <span class="event-meta-time">{{ end_value | date: " • %-I:%M %p" }}</span>
+              </time>
+            </td>
+          </tr>
+        {% endif %}
+        {% if location_value %}
+          <tr class="event-detail-meta-row">
+            <th scope="row">Location</th>
+            <td itemprop="location">
+              {% assign maps_query = location_value | uri_escape %}
+              <a href="https://www.google.com/maps/search/?api=1&query={{ maps_query }}" target="_blank" rel="noopener noreferrer">
+                {{ location_value | newline_to_br }}
+              </a>
+            </td>
+          </tr>
+        {% endif %}
+        {% if source_text %}
+          <tr class="event-detail-meta-row">
+            <th scope="row">Source</th>
+            <td>
+              {% assign matching_org = nil %}
+              {% if page.source %}
+                {% assign matching_org = site.organizations | where: "title", page.source | first %}
+              {% endif %}
+              {% if matching_org %}
+                <a href="{{ matching_org.url | relative_url }}" itemprop="organizer">{{ page.source }}</a>
+              {% elsif page.source_url %}
+                <a href="{{ page.source_url }}" rel="noopener noreferrer" itemprop="organizer">{{ source_text }}</a>
+              {% else %}
+                <span itemprop="organizer">{{ source_text }}</span>
+              {% endif %}
+            </td>
+          </tr>
+        {% endif %}
+      </tbody>
+    </table>
+  </section>
+
+  <div class="event-content e-content" itemprop="description">
+    {{ content }}
+
+    {% if page.images and page.images.size > 0 %}
+      {% assign event_carousel_images = '' | split: '' %}
+      {% for image_id in page.images %}
+        {% assign normalized_id = image_id | append: '' | strip %}
+        {% assign image_doc = site.images | where: "checksum", normalized_id | first %}
+        {% assign image_url = "" %}
+        {% if image_doc %}
+          {% assign image_url = image_doc.image_url | default: image_doc.data.image_url %}
+        {% endif %}
+        {% if image_doc and image_url %}
+          {% assign event_carousel_images = event_carousel_images | push: image_doc %}
+        {% endif %}
+      {% endfor %}
+      {% assign event_carousel_count = event_carousel_images | size %}
+      {% if event_carousel_count > 0 %}
+        {% include carousel.html images=event_carousel_images show_source=false %}
+      {% endif %}
+    {% endif %}
+  </div>
+
+  {% if page.source_url %}
+    <p class="event-original-link">
+      For more information, visit the
+      <a href="{{ page.source_url }}" rel="noopener noreferrer">original event listing</a>.
+    </p>
+  {% endif %}
+
+  {% if add_to_calendar_available %}
+    <section aria-label="Add this event to your calendar">
+      <a class="event-calendar-button" href="{{ event_ics_data_uri }}" download="{{ event_ics_filename }}">Add to Calendar</a>
+    </section>
+  {% endif %}
+</article>

@@ -4,6 +4,9 @@ baseurl: "/kingcounty.solutions" # the subpath of your site, e.g. /blog
 description: >- # this means to ignore newlines until "baseurl:"
   Navigating King County’s social-services landscape can be complex—even for experienced professionals. King County Solutions streamlines the process by bringing publicly available regional resources together in one searchable, easy-to-use platform.
 collections:
+  events:
+    output: true
+    permalink: /events/:name/
   organizations:
     output: true
     permalink: /organizations/:name/
@@ -21,15 +24,10 @@ contact_form:
   subject: "King County Solutions contact request"
 defaults:
     - scope:
-        path: "_topics"
-        type: "topics"
+        path: "_events"
+        type: "events"
       values:
-        layout: "topic"
-    - scope:
-          path: "_posts"
-          type: "posts"
-      values:
-        layout: "post"
+        layout: "event"
     - scope:
         path: "_organizations"
         type: "organizations"
@@ -40,6 +38,16 @@ defaults:
         type: "places"
       values:
         layout: "place"
+    - scope:
+          path: "_posts"
+          type: "posts"
+      values:
+        layout: "post"
+    - scope:
+        path: "_topics"
+        type: "topics"
+      values:
+        layout: "topic"
 email: chris@crickertech.com
 exclude:
   - .jekyll-cache/
@@ -83,3 +91,4 @@ rss_max_item_age_days: 90
 content_max_age_days: 365
 title: King County Solutions
 url: "https://calef.github.io"
+timezone: America/Los_Angeles
