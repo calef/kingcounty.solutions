@@ -88,8 +88,7 @@ END:VCALENDAR
 <article class="event-detail h-event" itemscope itemtype="http://schema.org/Event">
   {% capture event_action %}
 - Set `published: false` in the event front matter so it no longer appears in listings.
-- Delete `{{ page.path }}` if the event should be removed from the site.
-- Remove any image metadata or files that are no longer referenced.
+- Remove any image metadata or files that are no longer referenced by any _posts or _events.
   {% endcapture %}
   {% assign event_action = event_action | strip %}
   <header>
