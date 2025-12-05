@@ -145,7 +145,7 @@ Imports recent partner updates from every `_organizations/*.md` that exposes `ne
 ### `enforce-content-age`
 
 **Purpose**  
-Deletes `_posts/*.md` (and their referenced `_images/*.md` metadata plus any `assets/images/<hash>.*` files) whose `date` front matter falls outside of the configured window.
+Deletes `_posts/*.md` (and their referenced `_images/*.md` metadata plus any `assets/images/<hash>.*` files) whose `date` front matter falls outside of the configured window, then removes `_events/*.md` entries whose `start_date` is earlier than the current time.
 
 **Usage**
 
@@ -159,6 +159,7 @@ Deletes `_posts/*.md` (and their referenced `_images/*.md` metadata plus any `as
 
  - Loads `_config.yml` for `content_max_age_days`; missing or invalid values fall back to 365 days.
  - Removes posts older than the threshold, then deletes referenced `_images/` metadata files and any assets named after those image checksums (e.g., `assets/images/<hash>.webp`) unless another post still references the same checksum.
+ - After post cleanup, scans `_events/` and removes events whose `start_date` timestamps are already in the past (relative to the time the script runs).
  - Prints a short summary of how many posts and images were removed so you can verify the cleanup before committing.
 
 ### `list-openai-models`
