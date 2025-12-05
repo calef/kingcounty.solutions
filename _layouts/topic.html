@@ -46,6 +46,19 @@ layout: default
       {% endif %}
     </section>
   {% endif %}
+
+  {% assign topic_events = site.events | where_exp: "event", "event.topics and event.topics contains page.title" %}
+  {% if topic_events and topic_events.size > 0 %}
+    {% assign topic_events_upcoming = topic_events | sort: 'start_date' %}
+    <section>
+      <header>
+        <h2>Events for {{ page.title }}</h2>
+      </header>
+      {% for topic_event in topic_events_upcoming %}
+        {% include event-card.html event=topic_event %}
+      {% endfor %}
+    </section>
+  {% endif %}
   {% if topic_orgs and topic_orgs.size > 0 %}
     <section>
       <header>
