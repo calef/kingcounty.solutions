@@ -105,6 +105,7 @@ original_markdown_body: 'Event Series:    Seafood City Late Night Madness    Sea
   2:00 pm     Westfield Southcenter – Frosty’s Friends Scavenger Hunt & Kids’ Crafts
   December 6 @ 11:00 am - 1:00 pm     Seafood City Late Night Madness December 6 @
   8:00 pm - 11:00 pm       Back to events'
+published: false
 source: City of Tukwila
 source_url: https://www.tukwilawa.gov/event/seafood-city-late-night-madness-2/2025-12-05/
 start_date: '2025-12-05T20:00:00-08:00'
