@@ -35,6 +35,7 @@ original_content: <div class="container"> <section id="tribe-events-pg-template"
 original_markdown_body: "« All Events  Atlanta Job Fair, December 11, 2025  December
   11    Find out more         Google Calendar     iCalendar     Outlook 365     Outlook
   Live           Details    Date:   December 11"
+published: false
 source: Disabled American Veterans
 source_url: https://www.dav.org/events-calendar/atlanta-job-fair-december-11-2025/
 start_date: '2025-12-11T00:00:00-08:00'
