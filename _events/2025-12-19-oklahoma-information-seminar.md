@@ -47,4 +47,4 @@ title: Oklahoma Information Seminar
 topics: []
 ---
 
-Join us for the Oklahoma Information Seminar on December 19, 2025, from 9:00 AM to 11:00 AM at 125 South Main Street, Kerbs, OK. This informative event will provide attendees with valuable insights and resources related to various topics pertinent to the community. Participants can expect engaging discussions, expert speakers, and networking opportunities with local professionals. Don't miss this chance to gain knowledge and connect with others in the area! For more information, contact Christopher Colon at 918-781-7764.
+Join us for the Oklahoma Information Seminar on Dec. 19, 2025, from 9 to 11 a.m. at 125 S. Main St., Kerbs, OK. This informative event will provide attendees with valuable insights and resources related to various topics pertinent to the community. Participants can expect engaging discussions, expert speakers, and networking opportunities with local professionals. Don't miss this chance to gain knowledge and connect with others in the area! For more information, contact Christopher Colon at 918-781-7764.

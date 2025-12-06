@@ -14,8 +14,8 @@ website: https://www.opd.wa.gov/
 
 The **Office of Public Defense (OPD)** ensures quality legal representation for indigent defendants and parents involved in child welfare cases. It aligns with the social service framework through:
 
-- **Legal Aid:** safeguarding rights for individuals in crisis
-- **Domestic Violence:** defense and advocacy in family court contexts
-- **Education & Learning:** training for public defenders to improve client support outcomes
+- **Legal aid:** safeguarding rights for individuals in crisis
+- **Domestic violence:** defense and advocacy in family court contexts
+- **Education and learning:** training for public defenders to improve client support outcomes
 
 OPD strengthens Washington’s commitment to justice and equity for all residents.

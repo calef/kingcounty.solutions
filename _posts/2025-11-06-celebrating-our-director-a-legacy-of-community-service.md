@@ -16,4 +16,4 @@ topics:
 - Education & Learning
 ---
 
-We are excited to highlight our Executive Director, Shelley Puariea, in a feature from the Federal Way Mirror. The article, “A helping community member: Shelley Puariea,” showcases her decades of service, including founding the EX3 teen center. At the Federal Way Senior Center, she has transformed our food bank and expanded essential programs, greatly benefiting the community. Shelley’s dedication to improving lives is truly inspiring and reflects her profound impact on local residents.
+We are excited to highlight our executive director, Shelley Puariea, in a feature from the Federal Way Mirror. The article, “A Helping Community Member: Shelley Puariea,” showcases her decades of service, including founding the EX3 teen center. At the Federal Way Senior Center, she has transformed our food bank and expanded essential programs, greatly benefiting the community. Shelley’s dedication to improving lives is truly inspiring and reflects her profound impact on local residents.

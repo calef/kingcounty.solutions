@@ -24,4 +24,4 @@ Back by popular demand, the Holiday Gift Guide offers thoughtful gift ideas aime
 
 Health and wellness items like adjustable pillows, non-slip slippers, and heated blankets provide comfort, while activity-based gifts such as art supplies, gardening kits, and puzzles promote engagement and cognitive stimulation. Technology options include easy-to-use gadgets like video doorbells, simple cell phones, and magnifiers to aid those with memory loss or mobility issues.
 
-Experience-based gifts, like event tickets, local outings, or spa days, encourage quality time and shared memories. The guide emphasizes selecting gifts that bring joy and enhance quality of life, ensuring a meaningful holiday experience for both the giver and the receiver.
+Experience-based gifts, such as event tickets, local outings, or spa days, encourage quality time and shared memories. The guide emphasizes selecting gifts that bring joy and enhance quality of life, ensuring a meaningful holiday experience for both the giver and the receiver.

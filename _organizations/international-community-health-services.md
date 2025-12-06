@@ -13,4 +13,4 @@ type: Community-Based Organization
 website: https://www.ichs.com/
 ---
 
-International Community Health Services (ICHS) provides culturally and linguistically appropriate health and wellness services to all communities in Seattle. Services include primary care, dental care, eye care, and behavioral health support, ensuring access regardless of ability to pay or immigration status.
+International Community Health Services (ICHS) provides culturally and linguistically appropriate health and wellness services to all communities in Seattle. Services include primary care, dental care, eye care, and behavioral health support, ensuring access regardless of the ability to pay or immigration status.

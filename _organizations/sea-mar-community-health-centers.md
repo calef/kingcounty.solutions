@@ -11,4 +11,4 @@ type: Community-Based Organization
 website: https://www.seamar.org/covid-vaccine.html
 ---
 
-Sea Mar Community Health Centers provides comprehensive health, human, housing, educational, and cultural services to diverse communities, with a focus on serving Latinos in Washington state. They offer medical, dental, and behavioral health services, as well as nutritional and educational support.
+Sea Mar Community Health Centers provides comprehensive health, human, housing, educational, and cultural services to diverse communities, focusing on serving Latinos in Washington state. It offers medical, dental, and behavioral health services, as well as nutritional and educational support.

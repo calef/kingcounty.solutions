@@ -69,8 +69,8 @@ topics:
 - Employment & Job Support
 ---
 
-Meet Kendrie, a Beyond the Cure Ambassador Scholarship recipient from 2018 to 2023. At just four years old, Kendrie was diagnosed with acute lymphoblastic leukemia, leading to a challenging 2½ years of treatment, including surgeries and chemotherapy. Despite the hardships, she found strength in her journey and developed a passion for supporting others facing similar challenges. After completing treatment, Kendrie enjoyed a normal childhood, participating in sports and music during high school. 
+Meet Kendrie, a Beyond the Cure Ambassador Scholarship recipient from 2018 to 2023. At just 4 years old, Kendrie was diagnosed with acute lymphoblastic leukemia, leading to a challenging 2½ years of treatment, including surgeries and chemotherapy. Despite the hardships, she found strength in her journey and developed a passion for supporting others facing similar challenges. After completing treatment, Kendrie enjoyed a normal childhood, participating in sports and music during high school.
 
-As she transitioned to college, she received the NCCS Beyond the Cure Ambassador Scholarship four times while studying psychology. Kendrie also engaged in the NCCS Mentorship Program, helping young girls undergoing treatment, which deepened her desire to make a difference in the childhood cancer community. 
+As she transitioned to college, she received the NCCS Beyond the Cure Ambassador Scholarship four times while studying psychology. Kendrie also engaged in the NCCS Mentorship Program, helping young girls undergoing treatment, which deepened her desire to make a difference in the childhood cancer community.
 
 After earning her master’s degree, Kendrie became a soccer coach and later a case manager with the NCCS, where she supports families navigating similar paths. She views survivorship as a journey and aims to be a beacon of hope for others, emphasizing the importance of community support. For Kendrie, her experience with childhood cancer is a transformative cornerstone in her life, inspiring her to help others facing the emotional and financial challenges of the disease.

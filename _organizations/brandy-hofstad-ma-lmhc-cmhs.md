@@ -18,4 +18,4 @@ type: Licensed Mental Health Counselor
 website: https://www.brandyhofstad.com/
 ---
 
-Brandy Hofstad is a Licensed Mental Health Counselor specializing in therapy for children, tweens, adolescents, and families. She provides a supportive environment to address emotional and behavioral challenges, including ADHD, anxiety, and depression. Her approach is tailored to each individual's needs, focusing on improving communication and coping skills.
+Brandy Hofstad is a licensed mental health counselor specializing in therapy for children, tweens, adolescents, and families. She provides a supportive environment to address emotional and behavioral challenges, including ADHD, anxiety, and depression. Her approach is tailored to each individual's needs, focusing on improving communication and coping skills.

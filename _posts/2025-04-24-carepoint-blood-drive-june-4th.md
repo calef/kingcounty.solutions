@@ -45,4 +45,4 @@ title: CarePoint Blood Drive - June 4th
 topics: []
 ---
 
-CarePoint is hosting a blood drive on June 4th, 2025, in partnership with BloodWorks NW, to address the critically low regional blood supply. The event will take place at the SVA Family Life Center Gym from 9 AM to 3 PM. Community members are encouraged to sign up for appointments to donate blood, with the hope of making this a regular initiative. Participation is vital to help replenish the local blood reserves.
+CarePoint is hosting a blood drive on June 4, 2025, in partnership with BloodWorks NW, to address the critically low regional blood supply. The event will take place at the SVA Family Life Center Gym from 9 a.m. to 3 p.m. Community members are encouraged to sign up for appointments to donate blood, with the hope of making this a regular initiative. Participation is vital to help replenish the local blood reserves.

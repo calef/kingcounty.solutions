@@ -63,4 +63,4 @@ topics:
 - Education & Learning
 ---
 
-Join us for EARLY START Kent on December 9, 2025, from 12:00 PM to 1:00 PM. This engaging event is designed to provide valuable resources and support for families with young children. Attendees can expect informative sessions, networking opportunities, and access to local services that promote early childhood development. It's a great chance to connect with other parents and caregivers while discovering tools to help your child succeed. Don't miss this opportunity to enhance your family's early learning journey!
+Join us for Early Start Kent on Dec. 9, 2025, from noon to 1 p.m. This engaging event is designed to provide valuable resources and support for families with young children. Attendees can expect informative sessions, networking opportunities, and access to local services that promote early childhood development. It's a great chance to connect with other parents and caregivers while discovering tools to help your child succeed. Don't miss this opportunity to enhance your family's early learning journey!

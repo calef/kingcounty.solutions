@@ -13,4 +13,4 @@ type: Community-Based Organization
 website: https://www.seamar.org/king-medical-federalway.html
 ---
 
-Sea Mar Community Health Centers provides comprehensive health services including physical exams, immunizations, chronic disease management, and referrals to specialty care. They serve diverse communities, ensuring access regardless of income or immigration status.
+Sea Mar Community Health Centers provides comprehensive health services, including physical exams, immunizations, chronic disease management, and referrals to specialty care. It serves diverse communities, ensuring access regardless of income or immigration status.

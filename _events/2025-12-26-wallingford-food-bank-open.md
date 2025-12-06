@@ -227,4 +227,4 @@ topics:
 - Food & Nutrition
 ---
 
-Join us at the Wallingford Food Bank on December 26 from 11:00 AM to 1:00 PM for a chance to shop for free groceries. Our food bank has temporarily relocated to 4318 Stone Way North, Seattle, WA 98103. This event is part of our ongoing commitment to provide essential food access to the community. Regular hours for the food bank are Tuesdays from 12–2 PM, Thursdays from 3–6 PM, and Fridays from 11 AM–1 PM. We welcome everyone in need to come and gather nutritious food items. For more information, please contact us at (206) 647-1780.
+Join us at the Wallingford Food Bank on Dec. 26 from 11 a.m. to 1 p.m. for a chance to shop for free groceries. Our food bank has temporarily relocated to 4318 Stone Way N., Seattle, WA 98103. This event is part of our ongoing commitment to provide essential food access to the community. Regular hours for the food bank are Tuesdays from noon to 2 p.m., Thursdays from 3 to 6 p.m., and Fridays from 11 a.m. to 1 p.m. We welcome everyone in need to come and gather nutritious food items. For more information, please contact us at (206) 647-1780.

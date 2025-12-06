@@ -12,4 +12,4 @@ type: Community-Based Organization
 website: https://www.seamar.org/king-bh-bellevue.html
 ---
 
-Sea Mar Community Health Centers offers comprehensive mental health services including assessments, case management, and therapy for all ages. They accept most insurances and provide a sliding fee scale for those without insurance. Their culturally competent staff is dedicated to serving diverse communities.
+Sea Mar Community Health Centers offers comprehensive mental health services, including assessments, case management, and therapy for all ages. They accept most insurance plans and provide a sliding fee scale for those without insurance. Their culturally competent staff is dedicated to serving diverse communities.

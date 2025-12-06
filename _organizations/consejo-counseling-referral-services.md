@@ -13,4 +13,4 @@ type: Community-Based Organization
 website: https://www.consejocounseling.org/
 ---
 
-Consejo Counseling & Referral Services provides culturally and linguistically appropriate behavioral health services, including mental health support, substance use treatment, and domestic violence assistance. With over 45 years of experience, they empower individuals and families to lead healthier lives through holistic care.
+Consejo Counseling & Referral Services provides culturally and linguistically appropriate behavioral health services, including mental health support, substance use treatment, and domestic violence assistance. With more than 45 years of experience, it empowers individuals and families to lead healthier lives through holistic care.

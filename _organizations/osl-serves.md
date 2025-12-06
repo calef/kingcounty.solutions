@@ -15,4 +15,4 @@ type: Community-Based Organization
 website: https://www.oslserves.org/
 ---
 
-OSL Serves provides no-cost, nutrient-dense meals to those in need throughout Seattle and King County. With a mission to end hunger and homelessness, OSL serves over 7,000 meals daily, supporting various programs including shelters and community services. Their Food in Motion program recovers and redistributes viable food, enhancing food security in the community.
+OSL Serves provides no-cost, nutrient-dense meals to those in need throughout Seattle and King County. With a mission to end hunger and homelessness, OSL serves more than 7,000 meals daily, supporting various programs, including shelters and community services. Their Food in Motion program recovers and redistributes viable food, enhancing food security in the community.

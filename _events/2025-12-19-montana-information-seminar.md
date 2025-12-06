@@ -47,4 +47,4 @@ title: Montana Information Seminar
 topics: []
 ---
 
-Join us for the Montana Information Seminar on December 19, 2025, from 1:00 PM to 2:00 PM at the Auditorium 77, located at 111 N Sanders St, Helena, MT. This informative event will provide attendees with valuable insights into various topics related to Montana, including local resources, community programs, and opportunities for engagement. Whether you are a resident or new to the area, this seminar is a great chance to learn more and connect with fellow community members. Don't miss out on this opportunity to gather important information and ask questions!
+Join us for the Montana Information Seminar on Dec. 19, 2025, from 1 to 2 p.m. at the Auditorium 77, located at 111 N. Sanders St., Helena, Montana. This informative event will provide attendees with valuable insights into various topics related to Montana, including local resources, community programs, and opportunities for engagement. Whether you are a resident or new to the area, this seminar is a great chance to learn more and connect with fellow community members. Don't miss this opportunity to gather important information and ask questions!

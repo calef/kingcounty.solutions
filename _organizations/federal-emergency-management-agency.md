@@ -12,9 +12,9 @@ type: Agency
 website: https://www.fema.gov/
 ---
 
-The **Federal Emergency Management Agency (FEMA)** leads disaster preparedness, response, and recovery.  Its role in social services includes:
+The **Federal Emergency Management Agency (FEMA)** leads disaster preparedness, response, and recovery. Its role in social services includes:
 
-- **Shelter & Housing:** emergency and transitional housing plus disaster relief assistance during crises
+- **Shelter and Housing:** emergency and transitional housing, plus disaster relief assistance during crises
 - **Health Care:** coordination of emergency medical services
 
 FEMA ensures resilience and recovery for communities in times of crisis.

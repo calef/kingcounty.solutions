@@ -12,4 +12,4 @@ type: Program
 website: https://www.ichs.com/ichs-locations/ichs-meal-program-at-bush-asia-center/
 ---
 
-The ICHS Meal Program at Bush Asia Center offers nutritious meals and engaging activities for adults aged 60 and older, and adults with special needs. Participants can enjoy a hot Asian cuisine lunch and activities like mahjong, karaoke, and tai chi. The program runs Monday to Friday from 10 AM to 1 PM, with a suggested donation of $2.50.
+The ICHS Meal Program at Bush Asia Center offers nutritious meals and engaging activities for adults aged 60 and older, as well as adults with special needs. Participants can enjoy a hot Asian cuisine lunch and activities like mahjong, karaoke, and tai chi. The program runs Monday through Friday from 10 a.m. to 1 p.m., with a suggested donation of $2.50.

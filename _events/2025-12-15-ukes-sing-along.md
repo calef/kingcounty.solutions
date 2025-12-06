@@ -187,4 +187,4 @@ title: Ukes Sing-along
 topics: []
 ---
 
-Join us for the Ukes Sing-along on December 15, 2025, from 1:00 PM to 2:30 PM at The Center for Active Living, located at 4217 SW Oregon St., Seattle, WA. This engaging event invites all music lovers to gather for a fun-filled session of ukulele playing and singing. Whether you're a seasoned musician or a beginner, you'll enjoy the friendly atmosphere and the chance to connect with fellow attendees. The event is free for members and just $5 for non-members. Bring your ukulele, your voice, and get ready to have a great time!
+Join us for the Ukes Sing-along on Dec. 15, 2025, from 1 to 2:30 p.m. at The Center for Active Living, located at 4217 SW Oregon St., Seattle. This engaging event invites all music lovers to gather for a fun-filled session of ukulele playing and singing. Whether you're a seasoned musician or a beginner, you'll enjoy the friendly atmosphere and the chance to connect with fellow attendees. The event is free for members and $5 for nonmembers. Bring your ukulele, your voice, and get ready to have a great time!

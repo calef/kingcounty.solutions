@@ -12,4 +12,4 @@ type: Community-Based Organization
 website: https://www.vashondoveproject.org
 ---
 
-The Vashon DOVE Project provides support and services for survivors of domestic violence and sexual assault. We offer emotional support, safety planning, legal help, and community outreach, along with educational programs aimed at prevention and empowerment.
+The Vashon DOVE Project provides support and services for survivors of domestic violence and sexual assault. We offer emotional support, safety planning, legal assistance, and community outreach, along with educational programs aimed at prevention and empowerment.

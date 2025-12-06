@@ -19,4 +19,4 @@ topics:
 - Disabilities
 ---
 
-ELAP, a team providing free legal services, has received two awards for their hard work and dedication. The first award was presented by the City of Kirkland, which recognized the team's support towards the immigrant community in collaboration with the city. The second award, People Over Profit, was delivered by Washington State Insurance Commissioner Patty Kuderer, who honored ELAP for serving vulnerable community members. These awards serve as a reminder of the team's purpose and are highly appreciated.
+ELAP, a team providing free legal services, has received two awards for its hard work and dedication. The first award was presented by the city of Kirkland, which recognized the team's support for the immigrant community in collaboration with the city. The second award, People Over Profit, was delivered by Washington state insurance commissioner Patty Kuderer, who honored ELAP for serving vulnerable community members. These awards serve as a reminder of the team's purpose and are highly appreciated.

@@ -12,4 +12,4 @@ type: Community-Based Organization
 website: https://r2c2blog.wordpress.com/ministry/foodbank/
 ---
 
-The Food Bank at Raging River Community Church operates with the help of volunteers, providing food, clothing, and community support every Thursday from 1:00-3:00 PM. Donations are welcome, and the community is encouraged to participate in this ministry.
+The food bank at Raging River Community Church operates with the help of volunteers, providing food, clothing, and community support every Thursday from 1 to 3 p.m. Donations are welcome, and the community is encouraged to participate in this ministry.

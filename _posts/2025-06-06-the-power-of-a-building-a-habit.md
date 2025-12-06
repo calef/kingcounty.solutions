@@ -14,7 +14,7 @@ topics:
 - Mental Health & Counseling
 ---
 
-People often seek quick fixes for health improvements, but sustainable habits are the key to lasting change. A habit is a behavior that becomes automatic through repetition, contributing to a vibrant life. Effective habits lead to significant health benefits, including improved physical and mental health, reduced decision fatigue, and lower risks of chronic diseases. 
+People often seek quick fixes for health improvements, but sustainable habits are the key to lasting change. A habit is a behavior that becomes automatic through repetition, contributing to a vibrant life. Effective habits lead to significant health benefits, including improved physical and mental health, reduced decision fatigue, and lower risks of chronic diseases.
 
 To create new habits, start small with specific goals, use cues to link new behaviors to existing routines, and maintain consistency. Tracking progress can enhance motivation, while patience is essential, as habits may take 21 to 66 days to form. Preparing for obstacles and rewarding oneself can also reinforce positive changes.
 

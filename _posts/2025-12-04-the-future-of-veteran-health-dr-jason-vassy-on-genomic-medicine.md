@@ -90,6 +90,6 @@ topics:
 
 Dr. Vassy emphasizes the importance of genomic medicine in the future of veteran health care. The integration of genomic data into clinical practice aims to enhance personalized treatment plans, enabling tailored therapies based on individual genetic profiles. This approach can significantly improve health outcomes for veterans, particularly in managing chronic diseases and mental health conditions.
 
-The Department of Veterans Affairs (VA) is actively working to incorporate genomic medicine into its health care system, providing veterans with access to genetic testing and counseling. By understanding the genetic underpinnings of diseases, healthcare providers can offer more precise diagnoses and treatment options. 
+The Department of Veterans Affairs (VA) is actively working to incorporate genomic medicine into its health care system, providing veterans with access to genetic testing and counseling. By understanding the genetic underpinnings of diseases, health care providers can offer more precise diagnoses and treatment options.
 
 Dr. Vassy highlights ongoing research and collaborations that are essential for advancing genomic medicine within the VA. This initiative not only aims to improve patient care but also seeks to reduce health disparities among veterans. As the VA embraces this innovative approach, it lays the groundwork for a health care model that prioritizes individualized care, ultimately leading to better health outcomes and enhanced quality of life for veterans.

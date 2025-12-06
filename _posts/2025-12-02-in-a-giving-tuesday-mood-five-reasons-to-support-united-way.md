@@ -18,10 +18,10 @@ topics:
 - Health Care
 ---
 
-Giving Tuesday is an opportunity to support the United Way, which has a significant impact on local communities. Here are five reasons to contribute. 
+Giving Tuesday is an opportunity to support United Way, which has a significant impact on local communities. Here are five reasons to contribute.
 
-Firstly, United Way focuses on addressing critical issues like education, financial stability, and health, ensuring that donations lead to meaningful change. Secondly, the organization collaborates with various partners, maximizing the effectiveness of each contribution. Thirdly, donations help fund vital programs that support individuals and families in need, offering resources for long-term success. 
+First, United Way focuses on addressing critical issues like education, financial stability, and health, ensuring that donations lead to meaningful change. Second, the organization collaborates with various partners, maximizing the effectiveness of each contribution. Third, donations help fund vital programs that support individuals and families in need, offering resources for long-term success.
 
-Fourthly, contributing to United Way fosters a sense of community, as it brings people together in collective action to improve lives. Lastly, the organization is transparent about its operations, providing donors with insights into how their money is utilized, which builds trust and encourages ongoing support. 
+Fourth, contributing to United Way fosters a sense of community, as it brings people together in collective action to improve lives. Finally, the organization is transparent about its operations, providing donors with insights into how their money is utilized, which builds trust and encourages ongoing support.
 
 This Giving Tuesday, consider supporting United Way to make a positive difference in your community.

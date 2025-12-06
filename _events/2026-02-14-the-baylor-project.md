@@ -149,4 +149,4 @@ title: The Baylor Project
 topics: []
 ---
 
-Join us for an enchanting evening with The Baylor Project on February 14, 2026, at Meany Hall. This dynamic duo, featuring vocalist Jean Baylor and drummer Marcus Baylor, blends jazz, soul, and gospel influences, promising an unforgettable musical experience. Attendees can expect to be captivated by their powerful performances and heartfelt storytelling through music. Don't miss this opportunity to celebrate love and artistry in an intimate setting. Mark your calendars for a night of inspiration and connection!
+Join us for an enchanting evening with The Baylor Project on Feb. 14, 2026, at Meany Hall. This dynamic duo, featuring vocalist Jean Baylor and drummer Marcus Baylor, blends jazz, soul, and gospel influences, promising an unforgettable musical experience. Attendees can expect to be captivated by their powerful performances and heartfelt storytelling through music. Don't miss this opportunity to celebrate love and artistry in an intimate setting. Mark your calendars for a night of inspiration and connection!

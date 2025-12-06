@@ -16,4 +16,4 @@ type: Program
 website: https://watap.org
 ---
 
-WATAP provides assistive technology resources and services to individuals facing challenges related to disability and aging. Services include device lending, product demonstrations, and technical assistance for informed decision-making in education, employment, and healthcare.
+WATAP provides assistive technology resources and services to individuals facing challenges related to disability and aging. Services include device lending, product demonstrations, and technical assistance for informed decision-making in education, employment, and health care.

@@ -12,4 +12,4 @@ type: Community-Based Organization
 website: https://fetalalcoholsyndrome.org/
 ---
 
-The organization provides education about Fetal Alcohol Spectrum Disorders (FASD) through research and training. They offer resources and presentations to help parents, guardians, and providers understand the impacts of prenatal alcohol exposure.
+The organization provides education about fetal alcohol spectrum disorders (FASD) through research and training. It offers resources and presentations to help parents, guardians, and providers understand the impacts of prenatal alcohol exposure.

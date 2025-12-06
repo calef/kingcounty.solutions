@@ -13,4 +13,4 @@ type: Community-Based Organization
 website: https://www.dioceserroseattle.org
 ---
 
-Founded in 1978, the Diocese of Olympia’s Refugee Resettlement Office assists refugees and asylees in the Greater Seattle Area. Services include job placement, business development, ESL classes, and financial literacy training to promote self-sufficiency and integration.
+Founded in 1978, the Diocese of Olympia’s Refugee Resettlement Office assists refugees and asylees in the greater Seattle area. Services include job placement, business development, ESL classes, and financial literacy training to promote self-sufficiency and integration.

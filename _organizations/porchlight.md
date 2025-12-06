@@ -11,4 +11,4 @@ type: Community-Based Organization
 website: https://porchlightcares.org/
 ---
 
-PorchLight partners with men and the community to create a path from homelessness to stable living. They provide emergency shelter, a day center, and various resources to support individuals in need.
+PorchLight partners with men and the community to create a path from homelessness to stable living. It provides emergency shelter, a day center, and various resources to support individuals in need.

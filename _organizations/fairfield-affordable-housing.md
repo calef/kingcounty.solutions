@@ -10,4 +10,4 @@ type: Community-Based Organization
 website: https://www.fairfieldresidential.com/communities/affordable-housing/washington
 ---
 
-Fairfield is dedicated to providing affordable housing across the nation, focusing on low-income residents. With over 25 years of experience, they operate numerous affordable housing communities, ensuring compliance with various housing requirements while offering quality living at affordable prices.
+Fairfield is dedicated to providing affordable housing across the nation, focusing on low-income residents. With more than 25 years of experience, it operates numerous affordable housing communities, ensuring compliance with various housing requirements while offering quality living at affordable prices.

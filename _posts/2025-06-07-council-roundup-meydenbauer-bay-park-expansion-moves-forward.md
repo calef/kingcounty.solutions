@@ -144,7 +144,7 @@ title: 'Council Roundup: Meydenbauer Bay Park expansion moves forward'
 topics: []
 ---
 
-At the recent City Council meeting, plans for the Meydenbauer Bay Park Expansion project progressed, with councilmembers discussing design considerations such as minimizing parking disruption during construction, enhancing bay views, and ensuring universal accessibility. The proposed Phase 2 scope includes improvements to the Main Street and 110th Avenue intersection, a new Gateway Plaza, expanded parking, a Canopy Walk, and a pedestrian trail connecting to the existing park. The council unanimously voted to advance to the architectural and engineering design stage for this phase.
+At the recent City Council meeting, plans for the Meydenbauer Bay Park expansion project progressed, with council members discussing design considerations such as minimizing parking disruption during construction, enhancing bay views, and ensuring universal accessibility. The proposed Phase 2 scope includes improvements to the Main Street and 110th Avenue intersection, a new Gateway Plaza, expanded parking, a Canopy Walk, and a pedestrian trail connecting to the existing park. The council unanimously voted to advance to the architectural and engineering design stage for this phase.
 
 Additionally, the council reviewed a draft technology innovation policy framework under the Inclusive Innovation Forum, aimed at fostering innovation by prioritizing community ideas and supporting business incubators. The framework will return to the council for approval in a future meeting.
 

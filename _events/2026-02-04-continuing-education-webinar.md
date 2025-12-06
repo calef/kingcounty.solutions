@@ -7711,4 +7711,4 @@ topics:
 - Education & Learning
 ---
 
-Join us for the Continuing Education Webinar on February 4, 2026, starting at 3:00 PM EST. This engaging online event offers participants the opportunity to enhance their professional skills and knowledge through expert-led discussions and interactive sessions. Attendees can expect to explore various topics relevant to their fields, network with peers, and gain valuable insights that can be applied in their careers. Don't miss this chance to invest in your personal and professional growth from the comfort of your home.
+Join us for the continuing education webinar on Feb. 4, 2026, starting at 3 p.m. EST. This engaging online event offers participants the opportunity to enhance their professional skills and knowledge through expert-led discussions and interactive sessions. Attendees can expect to explore various topics relevant to their fields, network with peers, and gain valuable insights that can be applied in their careers. Don't miss this chance to invest in your personal and professional growth from the comfort of your home.

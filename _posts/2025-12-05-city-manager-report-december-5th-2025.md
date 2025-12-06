@@ -27,8 +27,8 @@ title: City Manager Report – December 5th, 2025
 topics: []
 ---
 
-The City Manager's report for December 5th, 2025, highlights various updates and initiatives in Normandy Park. Significant progress has been made on the city's budget for 2026, with a focus on ensuring financial stability and addressing community needs. The city plans to enhance public safety measures, including increased funding for the police department and community outreach programs. Additionally, infrastructure improvements are underway, with projects aimed at upgrading roads and parks to better serve residents.
+The City Manager's report for December 5, 2025, highlights various updates and initiatives in Normandy Park. Significant progress has been made on the city's budget for 2026, with a focus on ensuring financial stability and addressing community needs. The city plans to enhance public safety measures, including increased funding for the police department and community outreach programs. Additionally, infrastructure improvements are underway, with projects aimed at upgrading roads and parks to better serve residents.
 
-The report also includes information on upcoming community events designed to foster engagement and celebrate local culture. The city manager emphasizes the importance of transparency and communication with residents, urging community members to participate in public meetings and share their feedback. 
+The report also includes information on upcoming community events designed to foster engagement and celebrate local culture. The city manager emphasizes the importance of transparency and communication with residents, urging community members to participate in public meetings and share their feedback.
 
 Furthermore, the report addresses ongoing environmental initiatives aimed at promoting sustainability within the city. Collaboration with local organizations is highlighted to enhance efforts in conservation and education about ecological practices. Overall, the report reflects the city's commitment to improving the quality of life for its residents while being responsive to their concerns and aspirations.

@@ -17,9 +17,9 @@ The **King County Veterans Program (KCVP)** provides financial, housing, and emp
 
 Program highlights include:
 
-- **Financial Assistance:** emergency grants for rent, utilities, and basic needs
-- **Shelter & Housing:** transitional and permanent housing for veterans
-- **Employment & Job Support:** job placement and training
-- **Mental Health & Counseling:** trauma-informed services for veterans in crisis
+- **Financial assistance:** emergency grants for rent, utilities, and basic needs
+- **Shelter and housing:** transitional and permanent housing for veterans
+- **Employment and job support:** job placement and training
+- **Mental health and counseling:** trauma-informed services for veterans in crisis
 
 KCVP helps veterans achieve stability and self-sufficiency.

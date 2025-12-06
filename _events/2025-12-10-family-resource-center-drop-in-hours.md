@@ -229,4 +229,4 @@ topics:
 - Personal & Household Needs
 ---
 
-Join us at the Family Resource Center on December 10 from 2:00 PM to 5:00 PM for our Drop-In Hours. This is a great opportunity to connect with a Community Connector who can guide you to essential resources and services. While you're there, take advantage of our Diaper Bank and browse our Community Closet, which offers children's clothes, toys, and books. Whether you have questions or need support, our team is here to help. The Family Resource Center is located at 1005 NE 67th St, Seattle, WA 98115. We look forward to seeing you!
+Join us at the Family Resource Center on Dec. 10 from 2 to 5 p.m. for our Drop-In Hours. This is a great opportunity to connect with a Community Connector who can guide you to essential resources and services. While you're there, take advantage of our Diaper Bank and browse our Community Closet, which offers children's clothes, toys, and books. Whether you have questions or need support, our team is here to help. The Family Resource Center is located at 1005 NE 67th St., Seattle, WA 98115. We look forward to seeing you!

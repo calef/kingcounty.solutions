@@ -129,7 +129,7 @@ topics:
 - Personal & Household Needs
 ---
 
-At Atlantic Street Center (ASC), recognition is given to older caregivers who face numerous challenges while raising young children. For over thirty years, the Kinship Care Support Group has provided essential resources to families, advocating for kinship care rights, including support for Senate Bill 5151, which allows relatives to foster children. May 21st is now officially recognized as Kinship Caregiver Day in Washington state, celebrating the contributions of these caregivers.
+At Atlantic Street Center (ASC), recognition is given to older caregivers who face numerous challenges while raising young children. For more than 30 years, the Kinship Care Support Group has provided essential resources to families, advocating for kinship care rights, including support for Senate Bill 5151, which allows relatives to foster children. May 21 is now officially recognized as Kinship Caregiver Day in Washington state, celebrating the contributions of these caregivers.
 
 To honor this achievement, ASC hosted a special event featuring jazz music, transforming a classroom into a jazz club with a local band, mocktails, and fine dining. Youth Development Director Michelle Mitchell-Brannon expressed her personal connection to the program, sharing her experience of being raised by her grandmother. Guests included Barbara Taylor from Catholic Community Services and Michael Bailey from Community & Human Services, who emphasized collaboration and support for caregivers.
 

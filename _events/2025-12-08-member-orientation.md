@@ -184,4 +184,4 @@ title: Member Orientation
 topics: []
 ---
 
-Join us for a Member Orientation on December 8, 2025, from 10:00 AM to 11:00 AM at The Center for Active Living, located at 4217 SW Oregon St., Seattle, WA. This event offers a great opportunity to learn about membership benefits and get acquainted with the center. Attendees can drop in at any time to receive guidance from our Member Concierge, Cynthia. Enjoy engaging discussions and discover the various activities available to members. Don't miss this chance to connect and make the most of your membership!
+Join us for a member orientation on Dec. 8, 2025, from 10 to 11 a.m. at The Center for Active Living, located at 4217 SW Oregon St., Seattle, WA. This event offers a great opportunity to learn about membership benefits and get acquainted with the center. Attendees can drop in at any time to receive guidance from our member concierge, Cynthia. Enjoy engaging discussions and discover the various activities available to members. Don't miss this chance to connect and make the most of your membership!

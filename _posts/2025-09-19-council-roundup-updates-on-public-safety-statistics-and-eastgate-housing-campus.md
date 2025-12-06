@@ -136,10 +136,10 @@ topics:
 - Transportation & Mobility
 ---
 
-At the recent Bellevue City Council meeting, police reported a 28% reduction in overall crime and a 21% decrease in traffic collisions in 2025. Speeding tickets rose by 117%, with an average police response time of under four minutes. The Bellevue Police emphasized the importance of community partnerships in maintaining these positive trends and addressed issues related to speeding and racing. 
+At the recent Bellevue City Council meeting, police reported a 28% reduction in overall crime and a 21% decrease in traffic collisions in 2025. Speeding tickets rose by 117%, with an average police response time of under four minutes. The Bellevue Police emphasized the importance of community partnerships in maintaining these positive trends and addressed issues related to speeding and racing.
 
-The council also reviewed updates on the Eastgate Campus, focusing on the PorchLight men's shelter and Plymouth Crossing housing facility, which provides 92 supportive apartments for formerly homeless individuals. Over 800 people utilize the PorchLight shelter annually. Bellevue is committed to enhancing community safety and support services.
+The council also reviewed updates on the Eastgate Campus, focusing on the PorchLight men's shelter and Plymouth Crossing housing facility, which provides 92 supportive apartments for formerly homeless individuals. More than 800 people utilize the PorchLight shelter annually. Bellevue is committed to enhancing community safety and support services.
 
-Additionally, the council directed staff to prepare legislation for three Comprehensive Plan amendments, updating the Crossroads and Newport Neighborhood Area Plans and redesignating Downtown Bellevue as a Regional Growth and Metro Center. This redesignation will help secure federal transportation funding and align with Vision 2050 requirements. 
+Additionally, the council directed staff to prepare legislation for three comprehensive plan amendments, updating the Crossroads and Newport Neighborhood Area Plans and redesignating downtown Bellevue as a regional growth and metro center. This redesignation will help secure federal transportation funding and align with Vision 2050 requirements.
 
-Finally, the council proclaimed Teen Mental Health Awareness Day, National Hispanic Heritage Month, and National Diaper Need Awareness Week. Final legislation on the Comprehensive Plan amendments is expected in October.
+Finally, the council proclaimed Teen Mental Health Awareness Day, National Hispanic Heritage Month, and National Diaper Need Awareness Week. Final legislation on the comprehensive plan amendments is expected in October.

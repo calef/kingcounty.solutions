@@ -8,4 +8,4 @@ zip_codes:
 - '98168'
 ---
 
-Tukwila is known for its diverse community and is located near the Seattle-Tacoma International Airport. It offers a variety of parks and recreational activities, making it a vibrant place to live and visit.
+Tukwila is known for its diverse community and is located near Seattle-Tacoma International Airport. It offers a variety of parks and recreational activities, making it a vibrant place to live and visit.

@@ -125,9 +125,9 @@ title: 'Council Roundup: Financial forecast update'
 topics: []
 ---
 
-The Bellevue City Council recently reviewed a mid-biennium financial outlook, noting stable tax revenues but increased uncertainty due to inflation, reduced consumer confidence, and higher operating costs. Significant economic growth isn't anticipated until at least 2027, prompting a recommendation to maintain the current biennial budget while closely monitoring the economy. 
+The Bellevue City Council recently reviewed a mid-biennium financial outlook, noting stable tax revenues but increased uncertainty due to inflation, reduced consumer confidence, and higher operating costs. Significant economic growth isn't anticipated until at least 2027, prompting a recommendation to maintain the current biennial budget while closely monitoring the economy.
 
-An update on the Republic Services work stoppage, which began on July 9 due to an out-of-area labor disruption, revealed that garbage collection in Bellevue is affected. Utilities staff are coordinating drop-off locations for waste and customers will receive service credits on their next bills.
+An update on the Republic Services work stoppage, which began on July 9 due to an out-of-area labor disruption, revealed that garbage collection in Bellevue is affected. Utilities staff are coordinating drop-off locations for waste, and customers will receive service credits on their next bills.
 
 The council approved Ordinance 6853, extending the validity of certain development permits to assist developers facing market uncertainty, allowing for an initial extension and a possible second one. This policy aims to foster a business-friendly environment.
 

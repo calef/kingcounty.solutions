@@ -15,4 +15,4 @@ type: Community-Based Organization
 website: https://ifchvashon.org/
 ---
 
-IFCH responds to the needs of Vashon's homeless and those at risk of homelessness, emphasizing prevention. Services include rental and utility assistance, warm meals, and personal hygiene kits. We support low-income families and individuals, ensuring they have access to essential resources.
+Interfaith Council to Prevent Homelessness (IFCH) responds to the needs of Vashon's homeless and those at risk of homelessness, emphasizing prevention. Services include rental and utility assistance, warm meals, and personal hygiene kits. We support low-income families and individuals, ensuring they have access to essential resources.

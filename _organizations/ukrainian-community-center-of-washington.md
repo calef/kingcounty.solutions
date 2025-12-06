@@ -14,4 +14,4 @@ type: Community-Based Organization
 website: https://www.uccwa.org
 ---
 
-The Ukrainian Community Center of Washington empowers refugees and immigrants to achieve self-sufficiency through culturally and linguistically appropriate services. They provide immigration services, mental health support, and social services to help families meet their basic needs and integrate into the community.
+The Ukrainian Community Center of Washington empowers refugees and immigrants to achieve self-sufficiency through culturally and linguistically appropriate services. It provides immigration services, mental health support, and social services to help families meet their basic needs and integrate into the community.

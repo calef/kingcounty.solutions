@@ -15,4 +15,4 @@ type: Community-Based Organization
 website: https://www.mercyhousing.org/Washington-Properties
 ---
 
-Mercy Housing provides affordable, service-enriched housing to families, seniors, and individuals in need. Their mission focuses on creating stable communities and offering vital services such as financial education and health classes to support residents in achieving long-term stability.
+Mercy Housing provides affordable, service-enriched housing to families, seniors, and individuals in need. Its mission focuses on creating stable communities and offering vital services such as financial education and health classes to support residents in achieving long-term stability.

@@ -136,7 +136,7 @@ Key DBT skills include:
 
 - **Identify and Describe**: Understanding emotions and their physical manifestations helps individuals respond more thoughtfully rather than impulsively.
 - **Opposite Action**: Engaging in behaviors contrary to negative emotional impulses, such as choosing nourishing meals over bingeing, can diffuse intense emotions.
-- **Increasing Positive Emotions**: Actively seeking out enjoyable experiences helps build a fulfilling life and counters negative emotional impacts.
+- **Increasing Positive Emotions**: Actively seeking enjoyable experiences helps build a fulfilling life and counters negative emotional impacts.
 - **Cope Ahead**: Preparing for emotionally charged situations allows individuals to utilize healthy coping strategies instead of falling back on disordered patterns.
 - **ABC PLEASE**: This acronym encompasses various self-care strategies, such as maintaining balanced eating, exercise, and sleep to reduce vulnerability to emotional overwhelm.
 

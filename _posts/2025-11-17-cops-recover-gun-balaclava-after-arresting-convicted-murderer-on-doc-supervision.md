@@ -17,4 +17,4 @@ title: Cops Recover Gun, Balaclava After Arresting Convicted Murderer on DOC Sup
 topics: []
 ---
 
-Seattle police arrested a 38-year-old convicted murderer under Department of Corrections supervision after finding him asleep in a hotel lobby with a gun and a bottle of liquor. The suspect, prohibited from possessing firearms due to his previous convictions for 2nd Degree Murder, had a non-serialized gun in his possession. Officers recovered a balaclava, often used to conceal identity, during the arrest. He was booked into King County Jail for firearms violations, with the Gun Violence Reduction Unit assigned to the case.
+Seattle police arrested a 38-year-old convicted murderer under Department of Corrections supervision after finding him asleep in a hotel lobby with a gun and a bottle of liquor. The suspect, prohibited from possessing firearms due to his previous convictions for second-degree murder, had a non-serialized gun in his possession. Officers recovered a balaclava, often used to conceal identity, during the arrest. He was booked into King County Jail for firearms violations, with the Gun Violence Reduction Unit assigned to the case.

@@ -68,10 +68,10 @@ topics:
 - Mental Health & Counseling
 ---
 
-Exercise plays a crucial role in enhancing the quality of life for cancer patients and survivors, offering numerous physical, emotional, and psychological benefits. Physically, it helps alleviate side effects of cancer treatment such as fatigue, muscle loss, and weight fluctuations, while improving cardiovascular health and mobility. Regular activity is associated with a reduced risk of cancer recurrence, particularly in breast and colon cancers. 
+Exercise plays a crucial role in enhancing the quality of life for cancer patients and survivors, offering numerous physical, emotional, and psychological benefits. Physically, it helps alleviate side effects of cancer treatment such as fatigue, muscle loss, and weight fluctuations while improving cardiovascular health and mobility. Regular activity is associated with a reduced risk of cancer recurrence, particularly in breast and colon cancers.
 
-Emotionally, exercise can mitigate mental health challenges like anxiety and depression, as it triggers the release of endorphins, which enhance mood and reduce stress. Engaging in group activities fosters community and support, helping combat loneliness. 
+Emotionally, exercise can mitigate mental health challenges like anxiety and depression, as it triggers the release of endorphins, which enhance mood and reduce stress. Engaging in group activities fosters community and support, helping combat loneliness.
 
-Additionally, maintaining an active lifestyle during treatment is linked to better tolerance of therapies like chemotherapy and radiation, as well as quicker recovery. For survivors, exercise aids the healing process and promotes long-term health. 
+Additionally, maintaining an active lifestyle during treatment is linked to better tolerance of therapies like chemotherapy and radiation, as well as quicker recovery. For survivors, exercise aids the healing process and promotes long-term health.
 
 It is vital for individuals to consult their healthcare providers before starting any exercise regimen, ensuring that activities are tailored to their specific needs based on cancer type and treatment status. Ultimately, integrating exercise into daily routines can foster resilience and empowerment throughout the cancer journey.

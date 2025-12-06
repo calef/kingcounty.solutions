@@ -67,7 +67,7 @@ defaults:
     values:
       layout: "topic"
 description: >- # this means to ignore newlines until "baseurl:"
-  Navigating King County’s social-services landscape can be complex—even for experienced professionals. King County Solutions streamlines the process by bringing publicly available regional resources together in one searchable, easy-to-use platform.
+  Navigating King County’s social services landscape can be complex—even for experienced professionals. King County Solutions streamlines the process by bringing publicly available regional resources together in one searchable, easy-to-use platform.
 email: chris@crickertech.com
 exclude:
   - .jekyll-cache/

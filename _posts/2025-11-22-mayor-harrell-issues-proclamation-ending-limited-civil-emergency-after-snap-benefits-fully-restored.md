@@ -19,7 +19,7 @@ topics:
 - Financial Assistance
 ---
 
-Mayor Bruce Harrell has officially ended the Limited Civil Emergency declared on October 30 due to uncertainties surrounding Supplemental Nutrition Assistance Program (SNAP) funding amidst a federal government shutdown. The emergency measures included $3 million in emergency food assistance to support Seattle residents affected by delays in SNAP payments. Over three weeks, the city allocated $1 million weekly to community agencies, aiding more than 50,000 households relying on SNAP for food.
+Mayor Bruce Harrell has officially ended the limited civil emergency declared on Oct. 30 due to uncertainties surrounding Supplemental Nutrition Assistance Program (SNAP) funding amid a federal government shutdown. The emergency measures included $3 million in emergency food assistance to support Seattle residents affected by delays in SNAP payments. Over three weeks, the city allocated $1 million weekly to community agencies, aiding more than 50,000 households relying on SNAP for food.
 
 During the emergency, food banks and meal programs saw significant increases in demand, with some locations experiencing a 21% rise in customers. A partnership with Seattle Public Schools resulted in the distribution of 8,800 food boxes to families at 98 school sites. The boxes contained essential food items, demonstrating the strength of Seattle's food network.
 

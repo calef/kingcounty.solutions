@@ -16,4 +16,4 @@ type: Community-Based Organization
 website: https://www.bellevuelifespring.org/
 ---
 
-Bellevue LifeSpring supports Bellevue students and families with basic-needs assistance so kids can focus on school. Programs include emergency rent and utility aid, food support, clothing and household help through Bellevue Family Hubs, and education-focused assistance that promotes stability and self-sufficiency. The nonprofit has served Bellevue since 1911 and operates multiple hub locations across the city.
+Bellevue LifeSpring supports Bellevue students and families with basic needs assistance so kids can focus on school. Programs include emergency rent and utility aid, food support, clothing and household help through Bellevue Family Hubs, and education-focused assistance that promotes stability and self-sufficiency. The nonprofit has served Bellevue since 1911 and operates multiple hub locations across the city.

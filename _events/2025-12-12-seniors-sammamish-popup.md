@@ -70,4 +70,4 @@ topics:
 - Senior Services
 ---
 
-Join us for the SENIORS Sammamish Popup on December 12, 2025, from 10:30 AM to 2:00 PM at Beaver Lake Lodge in Kirkland, WA. This engaging event offers a wonderful opportunity for seniors to connect with one another, participate in fun activities, and enjoy refreshments. Attendees can expect a welcoming atmosphere filled with social interaction, games, and informative sessions tailored to the interests of the senior community. Don't miss this chance to meet new friends and enjoy a delightful day out!
+Join us for the SENIORS Sammamish Popup on Dec. 12, 2025, from 10:30 a.m. to 2 p.m. at Beaver Lake Lodge in Kirkland, Washington. This engaging event offers a wonderful opportunity for seniors to connect with one another, participate in fun activities, and enjoy refreshments. Attendees can expect a welcoming atmosphere filled with social interaction, games, and informative sessions tailored to the interests of the senior community. Don't miss this chance to meet new friends and enjoy a delightful day out!

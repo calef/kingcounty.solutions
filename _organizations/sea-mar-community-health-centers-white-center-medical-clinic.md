@@ -13,4 +13,4 @@ type: Community-Based Organization
 website: https://www.seamar.org/king-medical-whitecenter.html
 ---
 
-Sea Mar Community Health Centers provides comprehensive health services including physical exams, immunizations, chronic disease management, and referrals to specialty care. They serve diverse communities with a focus on accessibility and cultural sensitivity.
+Sea Mar Community Health Centers provides comprehensive health services, including physical exams, immunizations, chronic disease management, and referrals to specialty care. The organization serves diverse communities with a focus on accessibility and cultural sensitivity.

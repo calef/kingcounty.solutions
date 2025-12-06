@@ -186,4 +186,4 @@ topics:
 - Senior Services
 ---
 
-Join us for Season 3 of our Book Club on December 12, 2025, from 1:00 PM to 2:00 PM at The Center for Active Living, located at 4217 SW Oregon St., Seattle, WA. This engaging event invites participants to explore a variety of genres through monthly book selections chosen by group members. Whether you're a seasoned reader or looking to discover new titles, this is a great opportunity to share insights and connect with fellow book enthusiasts. Come ready to discuss and enjoy the company of others who share your passion for reading!
+Join us for Season 3 of our Book Club on Dec. 12, 2025, from 1 to 2 p.m. at The Center for Active Living, located at 4217 SW Oregon St., Seattle. This engaging event invites participants to explore a variety of genres through monthly book selections chosen by group members. Whether you're a seasoned reader or looking to discover new titles, this is a great opportunity to share insights and connect with fellow book enthusiasts. Come ready to discuss and enjoy the company of others who share your passion for reading!

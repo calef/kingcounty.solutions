@@ -227,4 +227,4 @@ topics:
 - Food & Nutrition
 ---
 
-Join us at the Wallingford Food Bank on December 11 from 3:00 PM to 6:00 PM at our temporary location, 4318 Stone Way North, Seattle, WA 98103. Attendees can shop for free groceries, helping to support families in need within the community. The food bank operates weekly, providing essential food access on Tuesdays, Thursdays, and Fridays. This event is a great opportunity to connect with neighbors and contribute to the well-being of our community. For more information, feel free to call us at (206) 647-1780.
+Join us at the Wallingford Food Bank on Dec. 11 from 3 to 6 p.m. at our temporary location, 4318 Stone Way N., Seattle, WA 98103. Attendees can shop for free groceries, helping to support families in need within the community. The food bank operates weekly, providing essential food access on Tuesdays, Thursdays, and Fridays. This event is a great opportunity to connect with neighbors and contribute to the well-being of our community. For more information, feel free to call us at (206) 647-1780.

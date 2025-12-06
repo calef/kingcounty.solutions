@@ -13,4 +13,4 @@ type: Community-Based Organization
 website: https://kawabehouse.org/
 ---
 
-Kawabe Memorial House provides secure, affordable housing and culturally sensitive programs for seniors aged 62 and over. Established in 1972, it offers recreational, educational, and social activities, along with supportive services like transportation, meals, and health screenings.
+Kawabe Memorial House provides secure, affordable housing and culturally sensitive programs for seniors aged 62 and older. Established in 1972, it offers recreational, educational, and social activities, along with supportive services such as transportation, meals, and health screenings.

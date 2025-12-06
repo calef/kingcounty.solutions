@@ -100,4 +100,4 @@ title: Bondolio Holiday Open House
 topics: []
 ---
 
-Join the Bondolio Olive Oil Farm for their Holiday Open House on December 14, 2025, from 10 AM to 4 PM in Winters, California. This festive event features free admission, where attendees can enjoy tastings of the season's new harvest oils and shop for unique artisan goods from local makers. Meet author Georgia Freedman and indulge in delicious made-to-order wood-fired pizza, with proceeds supporting Angel Flight West. Experience a delightful day of al fresco dining and holiday cheer at this charming olive oil farm.
+Join the Bondolio Olive Oil Farm for its Holiday Open House on Dec. 14, 2025, from 10 a.m. to 4 p.m. in Winters, California. This festive event features free admission, where attendees can enjoy tastings of the season's new harvest oils and shop for unique artisan goods from local makers. Meet author Georgia Freedman and indulge in delicious made-to-order wood-fired pizza, with proceeds supporting Angel Flight West. Experience a delightful day of al fresco dining and holiday cheer at this charming olive oil farm.

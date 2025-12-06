@@ -10,4 +10,4 @@ type: Program
 website: https://www.greenriver.edu/academics/pre-college-and-basic-skills.htm
 ---
 
-Pre-College & Basic Skills at Green River College offers Adult Basic Education, English Language Learning, GED preparation, and High School Completion programs. These services help students prepare for college-level courses and career advancement.
+Pre-College and Basic Skills at Green River College offers adult basic education, English language learning, GED preparation, and high school completion programs. These services help students prepare for college-level courses and career advancement.

@@ -13,4 +13,4 @@ type: Program
 website: https://www.lwtech.edu/wfd
 ---
 
-Lake Washington Institute of Technology's Workforce Development offers federal and state funded programs providing assistance with tuition, books, advising, and individualized support services for eligible students. Programs include Basic Food Employment & Training, Career Services, and the Opportunity Grant.
+Lake Washington Institute of Technology's Workforce Development offers federally and state-funded programs providing assistance with tuition, books, advising, and individualized support services for eligible students. Programs include Basic Food Employment and Training, Career Services, and the Opportunity Grant.

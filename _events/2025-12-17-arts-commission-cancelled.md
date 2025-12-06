@@ -105,4 +105,4 @@ title: Arts Commission - Cancelled
 topics: []
 ---
 
-The Arts Commission meeting scheduled for December 17, 2025, at 6:00 PM has been cancelled. This meeting typically serves as a platform for advising city officials on arts-related matters, encouraging community participation in the arts, and promoting various art projects. The Arts Commission meets on the third Wednesday of each month, starting May 15, 2024. For any inquiries, please contact Michael May at the Tukwila Community Center, located at 12424 42nd Avenue South, Tukwila, WA 98168.
+The Arts Commission meeting scheduled for Dec. 17, 2025, at 6 p.m. has been canceled. This meeting typically serves as a platform for advising city officials on arts-related matters, encouraging community participation in the arts, and promoting various art projects. The Arts Commission meets on the third Wednesday of each month, starting May 15, 2024. For any inquiries, please contact Michael May at the Tukwila Community Center, located at 12424 42nd Ave. S, Tukwila, WA 98168.

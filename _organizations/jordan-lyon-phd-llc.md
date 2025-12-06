@@ -11,4 +11,4 @@ type: Agency
 website: https://jordanlyonphd.com/
 ---
 
-Jordan Lyon, PhD, LLC offers evidence-based therapy and consultation services for tweens, teens, and adults. Specializing in issues like anxiety, depression, and gender identity, the practice emphasizes a collaborative approach to therapy, ensuring clients feel understood and empowered.
+Jordan Lyon, PhD, LLC, offers evidence-based therapy and consultation services for tweens, teens, and adults. Specializing in issues such as anxiety, depression, and gender identity, the practice emphasizes a collaborative approach to therapy, ensuring clients feel understood and empowered.

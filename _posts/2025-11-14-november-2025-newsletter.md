@@ -35,4 +35,4 @@ title: November 2025 Newsletter
 topics: []
 ---
 
-The November 2025 newsletter has been released, written by Desiree Swanson. Readers are encouraged to take a look at the latest updates and information included in this edition. Additionally, a CarePoint Blood Drive is scheduled for December 3, 2025. The newsletter serves as a valuable resource for the community, providing insights into ongoing initiatives and events.
+The November 2025 newsletter has been released, written by Desiree Swanson. Readers are encouraged to take a look at the latest updates and information included in this edition. Additionally, a CarePoint blood drive is scheduled for Dec. 3, 2025. The newsletter serves as a valuable resource for the community, providing insights into ongoing initiatives and events.

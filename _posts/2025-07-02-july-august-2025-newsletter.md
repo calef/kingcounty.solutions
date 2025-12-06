@@ -17,10 +17,10 @@ topics:
 - Health Care
 ---
 
-The July-August 2025 newsletter from Ballard Senior Center highlights various activities and events for seniors. Upcoming events include a summer picnic scheduled for July 15, featuring food, games, and live music. Weekly exercise classes continue to be popular, with yoga and dance sessions available throughout the summer months. 
+The July-August 2025 newsletter from Ballard Senior Center highlights various activities and events for seniors. Upcoming events include a summer picnic scheduled for July 15, featuring food, games, and live music. Weekly exercise classes continue to be popular, with yoga and dance sessions available throughout the summer.
 
-The center also offers workshops focusing on health and wellness, including a seminar on nutrition planned for August 10. Volunteer opportunities are available for those looking to give back to the community, with a special call for help during the annual fundraising event on August 25. 
+The center also offers workshops focusing on health and wellness, including a seminar on nutrition planned for August 10. Volunteer opportunities are available for those looking to give back to the community, with a special call for help during the annual fundraising event on August 25.
 
-Regular social gatherings, such as movie nights and book clubs, encourage social engagement among members. The newsletter also provides information on local resources for seniors, including transportation services and health screenings. 
+Regular social gatherings, such as movie nights and book clubs, encourage social engagement among members. The newsletter also provides information on local resources for seniors, including transportation services and health screenings.
 
 Members are encouraged to share their feedback and suggestions for future programming. The center remains committed to fostering a welcoming and supportive environment for all seniors in the community, promoting well-being and connection among its members.

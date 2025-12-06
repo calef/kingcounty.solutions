@@ -11,4 +11,4 @@ type: Community-Based Organization
 website: https://www.wscenter.org
 ---
 
-The Center for Active Living is a vibrant social gathering place for the community's 50+ population, offering a range of activities, programs, and dining options. Everyone is welcome to join in for fun, friendship, and community engagement.
+The Center for Active Living is a vibrant social gathering place for the community's 50-and-older population, offering a range of activities, programs, and dining options. Everyone is welcome to join in for fun, friendship, and community engagement.

@@ -83,7 +83,7 @@ topics:
 - Employment & Job Support
 ---
 
-On April 1, 2025, Treehouse hosted its annual fundraising event, Champions 2025, at the Sheraton Grand Seattle, attracting 742 attendees including keynote speaker Attorney General Nick Brown. The theme, “Leading the Way,” emphasizes empowering youth in foster care through support and resources, enabling them to pursue their dreams. Treehouse commits to advocating for these youth and invites the community to participate in fostering a more just world.
+On April 1, 2025, Treehouse hosted its annual fundraising event, Champions 2025, at the Sheraton Grand Seattle, attracting 742 attendees, including keynote speaker Attorney General Nick Brown. The theme, “Leading the Way,” emphasizes empowering youth in foster care through support and resources, enabling them to pursue their dreams. Treehouse commits to advocating for these youth and invites the community to participate in fostering a more just world.
 
 During the event, four Treehouse staff members shared field stories, demonstrating the practical application of “Leading the Way” through long-term coaching, educational assistance, and resource provision. CEO Dawn Rains, celebrating 16 years with Treehouse, addressed challenges ahead, including increased service demand and potential funding threats due to the Washington state budget crisis. Treehouse relies on state investment for 40% of its operating budget, with the remaining 60% coming from community support and fundraising.
 

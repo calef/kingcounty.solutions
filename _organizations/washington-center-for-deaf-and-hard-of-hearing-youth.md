@@ -15,4 +15,4 @@ type: Agency
 website: https://www.cdhy.wa.gov/
 ---
 
-The Washington Center for Deaf and Hard of Hearing Youth (CDHY) provides leadership and support for educational programming for deaf and hard of hearing students in Washington. CDHY operates the Washington School for the Deaf, offers outreach services statewide, and provides professional development for educators and service providers.
+The Washington Center for Deaf and Hard of Hearing Youth (CDHY) provides leadership and support for educational programming for deaf and hard-of-hearing students in Washington. CDHY operates the Washington School for the Deaf, offers outreach services statewide, and provides professional development for educators and service providers.

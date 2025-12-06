@@ -77,4 +77,4 @@ title: Socializing
 topics: []
 ---
 
-Join us for a delightful morning of socializing on December 11, 2025, from 10:00 AM to 12:00 PM. This event is a great opportunity to meet new people, engage in conversations, and build connections within the community. Attendees can expect a friendly atmosphere where they can share stories, enjoy light refreshments, and participate in fun activities. Whether you're looking to make new friends or simply enjoy a relaxed environment, this gathering is perfect for you. Don't miss out on this chance to connect with others and enhance your social circle!
+Join us for a delightful morning of socializing on Dec. 11, 2025, from 10 a.m. to noon. This event is a great opportunity to meet new people, engage in conversations, and build connections within the community. Attendees can expect a friendly atmosphere where they can share stories, enjoy light refreshments, and participate in fun activities. Whether you're looking to make new friends or simply enjoy a relaxed environment, this gathering is perfect for you. Don't miss out on this chance to connect with others and enhance your social circle!

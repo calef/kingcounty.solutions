@@ -15,4 +15,4 @@ type: Community-Based Organization
 website: https://www.fallcityfoodpantry.org/
 ---
 
-Founded in 2007, Fall City Community Food Pantry fights hunger by providing respectful food assistance to neighbors in Fall City, Preston, North Bend, Carnation, and Snoqualmie, inviting donations and volunteers to expand community support.
+Founded in 2007, the Fall City Community Food Pantry fights hunger by providing respectful food assistance to neighbors in Fall City, Preston, North Bend, Carnation, and Snoqualmie. The pantry invites donations and volunteers to expand community support.

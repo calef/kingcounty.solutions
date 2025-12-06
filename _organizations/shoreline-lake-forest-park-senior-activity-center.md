@@ -16,4 +16,4 @@ type: Community-Based Organization
 website: https://shorelinelfpseniorcenter.org/
 ---
 
-The Shoreline-Lake Forest Park Senior Activity Center offers diverse activities for adults aged 50+, including recreational, social, health, educational, and nutritional services. With a focus on community engagement, the center provides hot meals, fitness classes, and workshops, fostering a welcoming environment for seniors.
+The Shoreline-Lake Forest Park Senior Activity Center offers diverse activities for adults aged 50 and older, including recreational, social, health, educational, and nutritional services. With a focus on community engagement, the center provides hot meals, fitness classes, and workshops, fostering a welcoming environment for seniors.

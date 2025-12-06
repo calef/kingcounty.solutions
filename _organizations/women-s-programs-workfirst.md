@@ -10,4 +10,4 @@ type: Program
 website: https://womenswkfirst.highline.edu
 ---
 
-Women's Programs & WorkFirst at Highline College offers educational support, emergency assistance, and community resources to empower women in their academic and personal lives.
+Women's Programs and WorkFirst at Highline College offer educational support, emergency assistance, and community resources to empower women in their academic and personal lives.

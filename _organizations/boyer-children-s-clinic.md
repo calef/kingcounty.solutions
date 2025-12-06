@@ -17,4 +17,4 @@ type: Community-Based Organization
 website: https://www.boyercc.org/appointments
 ---
 
-Boyer Children's Clinic provides comprehensive early support services for children from birth to three years, including therapy, medical consultations, and family support. Our dedicated team ensures personalized care to promote developmental skills and well-being.
+Boyer Children's Clinic provides comprehensive early support services for children from birth to 3 years, including therapy, medical consultations, and family support. Our dedicated team ensures personalized care to promote developmental skills and well-being.

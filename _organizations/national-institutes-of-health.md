@@ -14,7 +14,7 @@ website: https://www.nih.gov/
 
 The **National Institutes of Health (NIH)** leads biomedical and public health research. Its work supports:
 
-- **Health Care:** innovation in disease prevention and treatment
-- **Education & Learning:** medical research training, grants, and public education in health and wellness
+- **Health care:** innovation in disease prevention and treatment
+- **Education and learning:** medical research training, grants, and public education in health and wellness
 
 NIH advances science to improve the nation’s health.

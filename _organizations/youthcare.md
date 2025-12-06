@@ -13,4 +13,4 @@ type: Community-Based Organization
 website: https://www.youthcare.org/
 ---
 
-YouthCare works to end youth homelessness and empower young people to achieve their potential. They provide essential services including hot meals and support for young individuals in need.
+YouthCare works to end youth homelessness and empower young people to achieve their potential. It provides essential services, including hot meals and support for young individuals in need.

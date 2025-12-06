@@ -124,7 +124,7 @@ topics:
 
 A blind veteran shares her journey of embracing life after losing her sight. Initially, the transition was daunting, filled with challenges that affected her confidence and independence. However, through support from her family and veterans' organizations, she gradually learned to navigate her new reality.
 
-Key to her adaptation was a positive mindset, focusing on possibilities rather than limitations. She describes how she utilized technology and adaptive tools to enhance her daily life. Engaging in activities she loved, such as traveling and arts, played a significant role in rebuilding her self-esteem.
+Key to her adaptation was a positive mindset, focusing on possibilities rather than limitations. She describes how she utilized technology and adaptive tools to enhance her daily life. Engaging in activities she loved, such as traveling and art, played a significant role in rebuilding her self-esteem.
 
 The veteran emphasizes the importance of community and connection, encouraging others facing similar challenges to seek help and engage with peers. She advocates for a proactive approach to life, stressing that one's mindset can significantly influence the experience of living with disabilities.
 

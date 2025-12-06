@@ -163,7 +163,7 @@ topics:
 - Education & Learning
 ---
 
-Treehouse is proud to celebrate over 140 students in foster care graduating from high school, obtaining their GED, or completing apprenticeships in 2025. Education is a vital part of Treehouse’s mission, as it helps these youths achieve long-term stability and independence. The Graduation Success program provides one-on-one support to facilitate academic progress. Graduates share their experiences and aspirations: 
+Treehouse is proud to celebrate over 140 students in foster care graduating from high school, obtaining their GED, or completing apprenticeships in 2025. Education is a vital part of Treehouse’s mission, as it helps these youths achieve long-term stability and independence. The Graduation Success program provides one-on-one support to facilitate academic progress. Graduates share their experiences and aspirations:
 
 - Ariah emphasizes overcoming obstacles to reach her goals.
 - Daniela envisions herself as an attorney and world traveler in ten years.
@@ -171,7 +171,7 @@ Treehouse is proud to celebrate over 140 students in foster care graduating from
 - Justin aspires to work in software development or marketing while starting a family.
 - Kylie reflects on her accomplishments and growth since starting school.
 - Leland sees graduation as a testament to determination.
-- Lola plans to pursue a business degree and interior design career.
+- Lola plans to pursue a business degree and a career in interior design.
 - Rasheed highlights determination as key to his success.
 - Sarah views graduation as the start of her adult life.
 - Tobias, initially skeptical about his success, is now hopeful for his future education.

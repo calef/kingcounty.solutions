@@ -186,4 +186,4 @@ topics:
 - Senior Services
 ---
 
-Join us for Party Bridge on Wednesday, December 10, 2025, from 10:00 AM to 12:00 PM at The Center for Active Living, located at 4217 SW Oregon St., Seattle, WA. This weekly gathering is perfect for card enthusiasts looking to enjoy a friendly game of bridge with fellow players. Whether you're a seasoned pro or new to the game, come and test your skills while making new friends in a welcoming environment. For those interested in participating, please contact Kim Roper to sign up. Don't miss this chance to have fun and socialize!
+Join us for Party Bridge on Wednesday, Dec. 10, 2025, from 10 a.m. to noon at The Center for Active Living, located at 4217 SW Oregon St., Seattle. This weekly gathering is perfect for card enthusiasts looking to enjoy a friendly game of bridge with fellow players. Whether you're a seasoned pro or new to the game, come and test your skills while making new friends in a welcoming environment. For those interested in participating, please contact Kim Roper to sign up. Don't miss this chance to have fun and socialize!

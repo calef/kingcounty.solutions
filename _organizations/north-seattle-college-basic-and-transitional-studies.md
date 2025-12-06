@@ -13,4 +13,4 @@ type: Community-Based Organization
 website: https://northseattle.edu/academics/pre-college-programs
 ---
 
-North Seattle College offers Basic and Transitional Studies programs, including ABE, GED, and ESL. These programs provide essential education and job training to help students achieve their academic and career goals. Financial aid and scholarships are available to support enrollment.
+North Seattle College offers basic and transitional studies programs, including ABE, GED, and ESL. These programs provide essential education and job training to help students achieve their academic and career goals. Financial aid and scholarships are available to support enrollment.

@@ -12,4 +12,4 @@ type: Department
 website: https://www.spl.org/
 ---
 
-The Seattle Public Library offers a wide range of services including homework help for K-12 students, access to digital resources, and community events. With multiple branches, it provides a safe and accessible space for learning and exploration.
+The Seattle Public Library offers a wide range of services, including homework help for K-12 students, access to digital resources, and community events. With multiple branches, it provides a safe and accessible space for learning and exploration.

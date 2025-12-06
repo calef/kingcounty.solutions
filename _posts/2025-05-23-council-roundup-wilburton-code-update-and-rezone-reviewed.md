@@ -113,7 +113,7 @@ topics:
 - Mental Health & Counseling
 ---
 
-The Bellevue City Council continued discussions on the Wilburton Transit-Oriented Development (TOD) land use code amendment, aimed at establishing new mixed-use districts in the 300-acre area, reflecting community goals from the 2024 Wilburton Comprehensive Plan. The council focused on stakeholder proposals and staff recommendations, with final action anticipated at a future meeting. 
+The Bellevue City Council continued discussions on the Wilburton Transit-Oriented Development (TOD) land use code amendment, aimed at establishing new mixed-use districts in the 300-acre area, reflecting community goals from the 2024 Wilburton Comprehensive Plan. The council focused on stakeholder proposals and staff recommendations, with final action anticipated at a future meeting.
 
 Additionally, the council introduced the Safe Speeds Bellevue program, designed to enhance safety by reviewing and potentially lowering speed limits on city streets with current limits of 30 mph or more. Nearly 90% of serious crashes occur on these streets, which comprise only 25% of the total network. The council plans to initiate outreach and prepare an ordinance to lower speed limits on four specific corridors, with implementation expected this summer.
 

@@ -236,6 +236,6 @@ topics:
 - Employment & Job Support
 ---
 
-Join the online workshop "Job Search Strategies - Spanish speakers only" on December 8, 2025, from 1:00 PM to 2:00 PM. This event, hosted by WorkSource Seattle-King County, is designed specifically for Spanish-speaking job seekers. Participants can expect to learn effective job search strategies, common pitfalls to avoid, and how to create a successful job search plan to quickly re-enter the workforce. 
+Join the online workshop "Job Search Strategies - Spanish Speakers Only" on Dec. 8, 2025, from 1 to 2 p.m. This event, hosted by WorkSource Seattle-King County, is designed specifically for Spanish-speaking job seekers. Participants can expect to learn effective job search strategies, common pitfalls to avoid, and how to create a successful job search plan to quickly re-enter the workforce.
 
 This workshop will take place via Zoom, and attendees must register in advance at WorkSourceWA.com. A reliable internet connection and a device capable of audio and video are required for participation. Link and meeting details will be emailed to registrants one hour before the event starts. Don't miss this opportunity to enhance your job search skills!

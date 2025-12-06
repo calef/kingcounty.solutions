@@ -13,4 +13,4 @@ title: November 2025 Newsletter
 topics: []
 ---
 
-The November 2025 Newsletter features updates and stories from various projects and initiatives. Readers are encouraged to explore the archive for past newsletters and annual reports. The newsletter provides a platform for staying informed about ongoing developments and upcoming events. A signup option is available for those interested in receiving news, updates, and stories directly to their email.
+The November 2025 newsletter features updates and stories from various projects and initiatives. Readers are encouraged to explore the archive for past newsletters and annual reports. The newsletter provides a platform for staying informed about ongoing developments and upcoming events. A signup option is available for those interested in receiving news, updates, and stories directly to their email.

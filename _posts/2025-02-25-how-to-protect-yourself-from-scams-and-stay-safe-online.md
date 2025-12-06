@@ -42,7 +42,7 @@ title: How To Protect Yourself From Scams and Stay Safe Online
 topics: []
 ---
 
-To protect yourself from scams and stay safe online, follow these essential tips: 
+To protect yourself from scams and stay safe online, follow these essential tips:
 
 First, be cautious with personal information. Avoid sharing sensitive details like your Social Security number or banking information unless absolutely necessary. Use strong, unique passwords for different accounts and enable two-factor authentication where possible.
 

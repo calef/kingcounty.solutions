@@ -914,8 +914,8 @@ topics:
 - Mental Health & Counseling
 ---
 
-In September, El Centro de la Raza hosted a Back-to-School Skate Event at the El Centro Skate Rink, bringing together 45 students and their families to celebrate the new school year. Attendees received 45 backpacks filled with school supplies, with an additional 20 backpacks planned for those unable to attend. The event aimed to empower youth and foster community support. A new mural titled "Storybook," created by former student Angelina Villalobos Soto, was unveiled at the José Martí Child Development Center, showcasing a bilingual poem and celebrating culture. 
+In September, El Centro de la Raza hosted a back-to-school skate event at the El Centro Skate Rink, bringing together 45 students and their families to celebrate the new school year. Attendees received 45 backpacks filled with school supplies, with an additional 20 backpacks planned for those unable to attend. The event aimed to empower youth and foster community support. A new mural titled "Storybook," created by former student Angelina Villalobos Soto, was unveiled at the José Martí Child Development Center, showcasing a bilingual poem and celebrating culture.
 
-Additionally, an information fair co-hosted with Sound Transit provided resources and meals for families in Federal Way, highlighting community connectivity. The Building the Beloved Community Gala raised over $674,742 to support vital programs for over 21,000 individuals, honoring social justice advocates Malou Chávez and Chach Duarte White. 
+Additionally, an information fair co-hosted with Sound Transit provided resources and meals for families in Federal Way, highlighting community connectivity. The Building the Beloved Community Gala raised more than $674,742 to support vital programs for over 21,000 individuals, honoring social justice advocates Malou Chávez and Chach Duarte White.
 
 Finally, Fiestas Patrias celebrated Latino heritage through art, music, and food, with students from the José Martí Child Development Center participating in a dual-language curriculum that emphasized culture and civic engagement, embodying the event's theme, "Our Voice, Our Strength."

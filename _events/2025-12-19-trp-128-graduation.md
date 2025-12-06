@@ -68,4 +68,4 @@ topics:
 - Employment & Job Support
 ---
 
-Join us on December 19 from 11:00 AM to 1:00 PM at ANEW in Tukwila to celebrate the graduation of TRP 128 pre-apprenticeship graduates. This event will honor the hard work and accomplishments of the graduates, providing an opportunity for attendees to connect with the community, enjoy inspiring speeches, and partake in the festivities. Come support the graduates as they embark on their professional journeys, and enjoy a memorable day filled with pride and celebration at 18338 Andover Park West, Tukwila, WA 98188.
+Join us on Dec. 19 from 11 a.m. to 1 p.m. at ANEW in Tukwila to celebrate the graduation of TRP 128 pre-apprenticeship graduates. This event will honor the hard work and accomplishments of the graduates, providing an opportunity for attendees to connect with the community, enjoy inspiring speeches, and partake in the festivities. Come support the graduates as they embark on their professional journeys, and enjoy a memorable day filled with pride and celebration at 18338 Andover Park West, Tukwila, WA 98188.

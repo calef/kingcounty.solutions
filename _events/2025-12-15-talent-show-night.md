@@ -86,6 +86,6 @@ title: Talent Show Night
 topics: []
 ---
 
-Join us for Talent Show Night on December 15th from 5:00 PM to 6:00 PM at the South Park Neighborhood Center, located at 8201 10th Ave S, Seattle, WA. This exciting event showcases local talent, offering a platform for performers of all ages to shine. Attendees can enjoy a variety of acts, from singing and dancing to comedy and more, creating a vibrant community atmosphere. 
+Join us for Talent Show Night on Dec. 15 from 5 to 6 p.m. at the South Park Neighborhood Center, located at 8201 10th Ave. S, Seattle, WA. This exciting event showcases local talent, offering a platform for performers of all ages to shine. Attendees can enjoy a variety of acts, from singing and dancing to comedy and more, creating a vibrant community atmosphere.
 
 Seating is limited, so reservations are required. To secure your spot, please contact Andrew at Andrew@spseniors.org or call 206-909-0346. Don’t miss this opportunity to support local talent and enjoy an evening filled with entertainment!

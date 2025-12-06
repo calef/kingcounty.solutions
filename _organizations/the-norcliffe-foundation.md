@@ -13,4 +13,4 @@ type: Community-Based Organization
 website: https://www.norcliffefoundation.org
 ---
 
-The Norcliffe Foundation is a private family foundation dedicated to improving the quality of life in the Puget Sound Region of Washington State. It supports nonprofit organizations in various areas including human services, healthcare, education, and arts and culture.
+The Norcliffe Foundation is a private family foundation dedicated to improving the quality of life in the Puget Sound region of Washington state. It supports nonprofit organizations in various areas, including human services, health care, education, and arts and culture.

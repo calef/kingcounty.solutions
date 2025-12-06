@@ -286,4 +286,4 @@ Pregnancy can be an overwhelming surprise, raising numerous questions about next
 
 Continuing education while pregnant is challenging but possible, as resources are available to support students. Financial concerns are common; numerous organizations offer assistance with medical bills, housing, and job placement. Exploring adoption is also an option, with various types available. Abortion is another choice, but it’s essential to consider all options carefully and seek an ultrasound beforehand for health reasons.
 
-Support is crucial during this time, and Care Net of Puget Sound provides free consultations and resources to help navigate pregnancy decisions. You are not alone, and assistance is available to help you through this journey.
+Support is crucial during this time, and Care Net of Puget Sound provides free consultations and resources to help navigate pregnancy decisions. You are not alone, and assistance is available to help you through this journey. For more information, visit [Care Net of Puget Sound](https://carenetps.org/im-pregnant-now-what/?utm_source=rss&utm_medium=rss&utm_campaign=im-pregnant-now-what).

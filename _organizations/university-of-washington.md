@@ -13,4 +13,4 @@ type: University
 website: https://www.washington.edu/
 ---
 
-The University of Washington (UW) is a leading public university with campuses in Seattle, Bothell, and Tacoma. It offers a wide range of undergraduate and graduate programs, focusing on education, research, and community service. UW Medicine provides comprehensive healthcare services, emphasizing compassionate care and training for future health professionals.
+The University of Washington (UW) is a leading public university with campuses in Seattle, Bothell, and Tacoma. It offers a wide range of undergraduate and graduate programs, focusing on education, research, and community service. UW Medicine provides comprehensive health care services, emphasizing compassionate care and training for future health professionals.

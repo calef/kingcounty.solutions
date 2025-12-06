@@ -101,7 +101,7 @@ Anxiety can be overwhelming, disrupting daily life with constant worry, panic at
 - **Prayer**: Engage in meditation, mantras, or reflection on your place in the universe to alleviate distress.
 - **Relaxation**: Identify and practice activities that help you relax.
 - **One thing**: Focus on a single aspect of your current experience to cultivate mindfulness.
-- **Vacation**: Take short breaks from stressors, like a walk or a coffee break.
+- **Vacation**: Take short breaks from stressors, such as a walk or a coffee break.
 - **Encouragement**: Counter negative self-beliefs with positive affirmations.
 
 THIRA Health provides DBT skills to help reduce anxiety's impact, offering a holistic approach to mental health through various supportive therapies.

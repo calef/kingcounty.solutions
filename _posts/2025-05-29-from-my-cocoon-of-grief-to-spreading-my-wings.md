@@ -146,7 +146,7 @@ topics:
 - Mental Health & Counseling
 ---
 
-A mother of three, Nikita, reflects on her journey from grief to healing after the tragic loss of her partner, Thomas, who died following a car accident during a family visit to Washington. Initially living with her mother, Nikita faced homelessness after being asked to leave. She and her children experienced days of sleeping in their car and staying with acquaintances before finding shelter at Mary’s Place, which provided them with a private room, meals, and essential resources for recovery.
+A mother of three, Nikita reflects on her journey from grief to healing after the tragic loss of her partner, Thomas, who died following a car accident during a family visit to Washington. Initially living with her mother, Nikita faced homelessness after being asked to leave. She and her children experienced days of sleeping in their car and staying with acquaintances before finding shelter at Mary’s Place, which provided them with a private room, meals, and essential resources for recovery.
 
 At Mary’s Place, Nikita gradually rebuilt her life, gaining support from staff and other mothers. She secured a managerial position at a daycare, which allowed her to provide for her family while also caring for her children. With assistance from Mary’s Place, she found an affordable three-bedroom apartment, completed a class on emotional healing, and even began exploring her passion for graphic design.
 

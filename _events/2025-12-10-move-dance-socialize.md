@@ -183,4 +183,4 @@ topics:
 - Senior Services
 ---
 
-Join us for "Move, Dance & Socialize" on December 10, 2025, from 9:00 AM to 10:00 AM at The Center for Active Living, located at 4217 SW Oregon St., Seattle, WA. This lively event invites participants of all fitness levels to come together for a fun-filled session of movement, dancing, and social interaction. Bring your friends, a water bottle, comfortable walking shoes, and a sassy attitude to make the most of this engaging experience. Don't miss this opportunity to connect with others while enjoying a healthy and active morning!
+Join us for "Move, Dance & Socialize" on Dec. 10, 2025, from 9 to 10 a.m. at The Center for Active Living, located at 4217 SW Oregon St., Seattle, WA. This lively event invites participants of all fitness levels to come together for a fun-filled session of movement, dancing, and social interaction. Bring your friends, a water bottle, comfortable walking shoes, and a sassy attitude to make the most of this engaging experience. Don't miss this opportunity to connect with others while enjoying a healthy and active morning!

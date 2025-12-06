@@ -105,4 +105,4 @@ topics:
 - Health Care
 ---
 
-Join us for the Open Healthcare Enrollment event beginning on December 7, 2025, at 8:00 AM and running until January 15, 2026. This virtual event offers an opportunity for attendees to explore new health and dental plans for the upcoming year. With assistance available in over 200 languages, you can find a plan that suits your needs, often at no cost. If you qualify, Apple Health (Medicaid) provides free or low-cost coverage. Don't miss your chance to secure your health insurance for 2026; apply before the enrollment period ends!
+Join us for the Open Healthcare Enrollment event beginning on Dec. 7, 2025, at 8 a.m. and running until Jan. 15, 2026. This virtual event offers an opportunity for attendees to explore new health and dental plans for the upcoming year. With assistance available in more than 200 languages, you can find a plan that suits your needs, often at no cost. If you qualify, Apple Health (Medicaid) provides free or low-cost coverage. Don't miss your chance to secure your health insurance for 2026; apply before the enrollment period ends!

@@ -16,8 +16,8 @@ topics:
 - Education & Learning
 ---
 
-FamilyWorks Seattle's Promoting First Relationships home visiting program has been making significant strides in enhancing parent-child interactions. This program, designed for families with children aged 0-3, focuses on strengthening relationships through trained home visitors who provide support and guidance. The program emphasizes the importance of nurturing responsive relationships as a foundation for children's emotional and social development.
+FamilyWorks Seattle's Promoting First Relationships home visiting program has made significant strides in enhancing parent-child interactions. This program, designed for families with children ages 0-3, focuses on strengthening relationships through trained home visitors who provide support and guidance. The program emphasizes the importance of nurturing responsive relationships as a foundation for children's emotional and social development.
 
 Recent updates highlight the program's effectiveness, with families reporting improved parenting skills and increased confidence in their abilities. Home visitors utilize a strengths-based approach, offering personalized strategies tailored to each family's unique needs. Sessions include interactive activities that encourage positive engagement and communication between parents and their children.
 
-Feedback from participants indicates that the program has led to a greater understanding of child development and effective parenting practices. As FamilyWorks continues to adapt and respond to the needs of families in the community, the Promoting First Relationships program remains dedicated to fostering healthy, supportive family environments that benefit both parents and children alike.
+Feedback from participants indicates that the program has led to a greater understanding of child development and effective parenting practices. As FamilyWorks continues to adapt and respond to the needs of families in the community, the Promoting First Relationships program remains dedicated to fostering healthy, supportive family environments that benefit both parents and children.

@@ -17,7 +17,7 @@ title: Seattle Parks and Recreation launches Park CommUNITY Fund Workshop Series
 topics: []
 ---
 
-Seattle Parks and Recreation has launched the Park CommUNITY Fund Workshop series to promote park equity through community-led funding. This initiative, supported by the Seattle Park District, will provide resources for various capital projects from 2023 to 2028. The workshops aim to empower communities by enhancing their involvement in the funding process. The series includes several sessions: 
+Seattle Parks and Recreation has launched the Park CommUNITY Fund Workshop series to promote park equity through community-led funding. This initiative, supported by the Seattle Park District, will provide resources for various capital projects from 2023 to 2028. The workshops aim to empower communities by enhancing their involvement in the funding process. The series includes several sessions:
 
 - **Dec. 4**: An online overview of the fund's process and updates from the first cycle.
 - **Dec. 18**: An in-person workshop on park development, teaching participants how projects are initiated and how to engage in the process.

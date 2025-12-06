@@ -17,7 +17,7 @@ title: "‘First Mariner’ Dan Krehbiel is leaving the helm"
 topics: []
 ---
 
-Dan Krehbiel, known as "Captain Dan," is retiring after 16 years as the first captain of the King County Water Taxi in Seattle. His maritime career began in Alaska and spanned various locations and vessels, leading him to a position that has grown the Water Taxi service from one leased catamaran in 2009 to a fleet that now includes two dedicated boats and a staff of 40. The Water Taxi operates two routes, serving thousands of passengers daily between downtown Seattle and Vashon and Maury Islands.
+Dan Krehbiel, known as "Captain Dan," is retiring after 16 years as the first captain of the King County Water Taxi in Seattle. His maritime career began in Alaska and spanned various locations and vessels, leading him to a position that has grown the Water Taxi service from one leased catamaran in 2009 to a fleet that now includes two dedicated boats and a staff of 40. The Water Taxi operates two routes, serving thousands of passengers daily between downtown Seattle and Vashon and Maury islands.
 
 Krehbiel's leadership was recently highlighted during a ceremony recognizing his contributions to the regional transit system. He is proud of the service's evolution and the impact it has had on the community. A notable incident occurred when he skillfully diverted a drifting container barge away from the Seattle waterfront, demonstrating his quick decision-making under pressure.
 

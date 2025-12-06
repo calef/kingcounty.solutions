@@ -7713,4 +7713,4 @@ title: Eighth Circuit Virtual Meeting
 topics: []
 ---
 
-Join us for the Eighth Circuit Virtual Meeting on February 26, 2026, starting at 2:30 PM EST. This online gathering will provide attendees with the opportunity to engage in discussions on important legal topics, share insights, and network with fellow participants. Whether you are a legal professional or simply interested in the workings of the Eighth Circuit, this meeting promises valuable information and interaction. Don't miss this chance to connect and collaborate from the comfort of your own space.
+Join us for the Eighth Circuit Virtual Meeting on Feb. 26, 2026, starting at 2:30 p.m. EST. This online gathering will provide attendees with the opportunity to engage in discussions on important legal topics, share insights, and network with fellow participants. Whether you are a legal professional or simply interested in the workings of the Eighth Circuit, this meeting promises valuable information and interaction. Don't miss this chance to connect and collaborate from the comfort of your own space.

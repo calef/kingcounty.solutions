@@ -41,4 +41,4 @@ topics:
 - Shelter & Housing
 ---
 
-Join the EF Outreach Drive on July 12, 2025, at 12 noon in Pioneer Square, Downtown Seattle. This event focuses on community-building and aims to distribute hygiene kits and snack bags to unhoused neighbors. There are only five spots left for participants. For any inquiries, contact Marryam Ali via email.
+Join the EF Outreach Drive on July 12, 2025, at noon in Pioneer Square, downtown Seattle. This event focuses on community building and aims to distribute hygiene kits and snack bags to unhoused neighbors. There are only five spots left for participants. For inquiries, contact Marryam Ali via email.

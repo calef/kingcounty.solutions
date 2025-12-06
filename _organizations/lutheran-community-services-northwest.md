@@ -24,4 +24,4 @@ type: Community-Based Organization
 website: https://lcsnw.org/
 ---
 
-Lutheran Community Services Northwest provides a wide range of services including behavioral health, family support, crime victim services, and assistance for refugees and immigrants. We aim to strengthen communities by supporting individuals and families in their journey towards health, justice, and hope.
+Lutheran Community Services Northwest provides a wide range of services, including behavioral health, family support, crime victim services, and assistance for refugees and immigrants. We aim to strengthen communities by supporting individuals and families in their journey toward health, justice, and hope.

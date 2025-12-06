@@ -16,4 +16,4 @@ title: Baroque Ensemble
 topics: []
 ---
 
-Join us for an enchanting evening with the Baroque Ensemble on February 23, 2026, at 7:30 PM in the Music Building (MUS). Attendees can expect a captivating performance featuring a selection of timeless Baroque compositions, showcasing the intricate harmonies and rich textures characteristic of this beloved musical era. This event promises to be a delightful experience for music lovers and those looking to explore the beauty of Baroque music. Don't miss this opportunity to immerse yourself in a night of exquisite artistry and cultural enrichment.
+Join us for an enchanting evening with the Baroque Ensemble on Feb. 23, 2026, at 7:30 p.m. in the Music Building (MUS). Attendees can expect a captivating performance featuring a selection of timeless Baroque compositions, showcasing the intricate harmonies and rich textures characteristic of this beloved musical era. This event promises to be a delightful experience for music lovers and those looking to explore the beauty of Baroque music. Don't miss this opportunity to immerse yourself in a night of exquisite artistry and cultural enrichment.

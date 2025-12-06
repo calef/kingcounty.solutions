@@ -15,4 +15,4 @@ type: Community-Based Organization
 website: https://villacomunitaria.org/
 ---
 
-Villa Comunitaria empowers Latine families in South Park through programs focused on economic development, education, and community engagement. With a bilingual staff, they provide resources to navigate immigration, housing, and health systems, fostering resilience and leadership within the community.
+Villa Comunitaria empowers Latine families in South Park through programs focused on economic development, education, and community engagement. With a bilingual staff, it provides resources to navigate immigration, housing, and health systems, fostering resilience and leadership within the community.

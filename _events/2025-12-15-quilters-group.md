@@ -186,4 +186,4 @@ title: Quilters Group
 topics: []
 ---
 
-Join the Quilters Group on December 15, 2025, from 6:30 PM to 9:00 PM at The Center for Active Living, located at 4217 SW Oregon St., Seattle, WA. This welcoming gathering invites quilters of all skill levels to share their recent projects, gain inspiration, and connect with fellow quilting enthusiasts. Whether you're a seasoned quilter or just starting out, come and enjoy a fun evening filled with creativity and community. For more information, contact Mary Anne Spada at spada01@comcast.net or call 206-795-5774.
+Join the Quilters Group on Dec. 15, 2025, from 6:30 p.m. to 9 p.m. at The Center for Active Living, located at 4217 SW Oregon St., Seattle, WA. This welcoming gathering invites quilters of all skill levels to share their recent projects, gain inspiration, and connect with fellow quilting enthusiasts. Whether you're a seasoned quilter or just starting out, come and enjoy a fun evening filled with creativity and community. For more information, contact Mary Anne Spada at spada01@comcast.net or call 206-795-5774.

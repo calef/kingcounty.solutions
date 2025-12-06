@@ -13,4 +13,4 @@ type: Community-Based Organization
 website: https://www.seamar.org/king-medical-seattle.html
 ---
 
-Sea Mar Community Health Centers provides comprehensive health services including physical exams, immunizations, chronic disease management, and preventive care. They serve diverse communities, specializing in care for Latinos, and offer additional resources for housing, education, and social services.
+Sea Mar Community Health Centers provides comprehensive health services, including physical exams, immunizations, chronic disease management, and preventive care. It serves diverse communities, specializing in care for Latinos, and offers additional resources for housing, education, and social services.

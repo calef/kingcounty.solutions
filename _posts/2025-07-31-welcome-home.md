@@ -23,7 +23,7 @@ topics:
 - Mental Health & Counseling
 ---
 
-Lighthouse Northwest has opened a new long-term residential program for adult women with mental health and substance use challenges. The program aims to provide a safe, supportive environment where residents can focus on recovery and personal growth. It emphasizes a holistic approach to treatment, integrating mental health support with substance use recovery, and is designed to promote independence and stability. 
+Lighthouse Northwest has opened a new long-term residential program for adult women with mental health and substance use challenges. The program aims to provide a safe, supportive environment where residents can focus on recovery and personal growth. It emphasizes a holistic approach to treatment, integrating mental health support with substance use recovery, and is designed to promote independence and stability.
 
 The facility offers various therapeutic services, life skills training, and community integration opportunities. Residents are encouraged to participate in individualized care plans tailored to their specific needs and goals. The program also fosters a sense of community among residents, helping to build social connections and reduce isolation.
 

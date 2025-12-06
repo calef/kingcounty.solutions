@@ -113,7 +113,7 @@ topics:
 - Senior Services
 ---
 
-Aging in place offers numerous benefits for older adults, allowing them to maintain independence and control over their living environment. This approach enables individuals to stay in their own homes, fostering a sense of comfort and familiarity. It can lead to improved mental health, as being in a known space reduces stress and anxiety often associated with relocation. 
+Aging in place offers numerous benefits for older adults, allowing them to maintain independence and control over their living environment. This approach enables individuals to stay in their own homes, fostering a sense of comfort and familiarity. It can lead to improved mental health, as being in a known space reduces stress and anxiety often associated with relocation.
 
 Moreover, aging in place can enhance physical health by allowing seniors to engage in familiar routines and activities, promoting better overall well-being. The ability to customize their living space according to personal needs and preferences can lead to increased satisfaction and quality of life.
 

@@ -16,7 +16,7 @@ topics:
 - Education & Learning
 ---
 
-Camfed's 2025 Highlights report emphasizes the importance of girls' education in Africa, showcasing significant progress made towards empowering young women. The initiative has supported over 5 million girls in their education, enabling them to complete school and gain critical life skills. Camfed's model focuses on a community-driven approach, involving local stakeholders in decision-making processes to address educational barriers.
+Camfed's 2025 Highlights report emphasizes the importance of girls' education in Africa, showcasing significant progress made toward empowering young women. The initiative has supported more than 5 million girls in their education, enabling them to complete school and gain critical life skills. Camfed's model focuses on a community-driven approach, involving local stakeholders in decision-making processes to address educational barriers.
 
 Key achievements include the establishment of the Cama network, which connects young women leaders to share experiences and advocate for girls' rights. The report highlights the impact of financial support for families, which reduces school dropout rates, and the introduction of innovative teaching methods that enhance learning outcomes. Additionally, the initiative emphasizes the role of mentorship, with older girls guiding younger ones, fostering a supportive educational environment.
 

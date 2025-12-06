@@ -24,4 +24,4 @@ The Community Living Connections (CLC) network, in which CISC is a provider, per
 
 ![CLC Newsletter](ImageURL)
 
-*Please note: The image URL has been used as a placeholder. Replace with the actual URL if an image is referenced in the article.*
+*Please note: The image URL has been used as a placeholder. Replace it with the actual URL if an image is referenced in the article.*

@@ -87,4 +87,4 @@ title: Samaritan Gathering & Fundraising Luncheon 2024
 topics: []
 ---
 
-In May, Samaritan hosted its first gathering in six years at Newport Presbyterian Church, featuring a luncheon and a talk by author and mindfulness mentor Kurt Hoelting. The event saw a remarkable turnout, with 94% of registrants attending, which facilitated engaging discussions among participants. The fundraising effort was successful, raising a total of $19,040, with a net amount of $14,299.50. This gathering marked a significant step in reconnecting with the community and promoting support for their initiatives.
+In May, Samaritan hosted its first gathering in six years at Newport Presbyterian Church, featuring a luncheon and a talk by author and mindfulness mentor Kurt Hoelting. The event saw a remarkable turnout, with 94% of registrants attending, facilitating engaging discussions among participants. The fundraising effort was successful, raising a total of $19,040, with a net amount of $14,299.50. This gathering marked a significant step in reconnecting with the community and promoting support for its initiatives.

@@ -12,4 +12,4 @@ type: Program
 website: https://www.kcba.org/For-the-Public/Free-Legal-Assistance/Neighborhood-Legal-Clinics
 ---
 
-The Neighborhood Legal Clinics provide free legal assistance for various issues, including family law, immigration, and housing justice. Appointments are available via telephone, and eligibility is determined through an intake screening process.
+The Neighborhood Legal Clinics provide free legal assistance for various issues, including family law, immigration and housing justice. Appointments are available by telephone, and eligibility is determined through an intake screening process.

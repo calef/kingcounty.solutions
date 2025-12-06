@@ -19,4 +19,4 @@ type: Community-Based Organization
 website: https://www.housing4seniors.com
 ---
 
-SHAG provides affordable senior living apartments for active seniors aged 61+ (or 55+ with a disability) across the Puget Sound region. With a focus on community, SHAG offers vibrant living options that promote independence, friendships, and a sustainable lifestyle.
+SHAG provides affordable senior living apartments for active seniors aged 61 and older (or 55 and older with a disability) across the Puget Sound region. With a focus on community, SHAG offers vibrant living options that promote independence, friendships, and a sustainable lifestyle.

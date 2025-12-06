@@ -15,4 +15,4 @@ type: Community-Based Organization
 website: https://www.filcommsea.org/
 ---
 
-Founded in 1935, FCS is a nonprofit organization providing affordable housing, senior services, youth development, and basic needs programs, including food assistance. Over 7,500 community members benefit from our services each month, fostering cultural connection and support for immigrants and refugees.
+Founded in 1935, FCS is a nonprofit organization providing affordable housing, senior services, youth development, and basic needs programs, including food assistance. More than 7,500 community members benefit from our services each month, fostering cultural connection and support for immigrants and refugees.

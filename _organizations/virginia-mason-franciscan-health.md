@@ -13,4 +13,4 @@ type: Corporation
 website: https://www.vmfh.org/
 ---
 
-Virginia Mason Franciscan Health is a leading health care provider in Washington state, offering a wide range of services including primary, specialty, and pediatric care, as well as virtual visits. They focus on providing exceptional care and support for the communities they serve.
+Virginia Mason Franciscan Health is a leading health care provider in Washington state, offering a wide range of services, including primary, specialty, and pediatric care, as well as virtual visits. It focuses on providing exceptional care and support for the communities it serves.

@@ -17,6 +17,6 @@ topics:
 - Employment & Job Support
 ---
 
-The City of Seattle's Tabor 100 Hub will host office hours in December 2025 for individuals interested in doing business with the City, particularly women- and minority-owned businesses. Staff from the Department of Finance and Administrative Services will be available for consultations without the need for appointments. The office is located at 7100 Fort Dent Way, Suite 100, Tukwila, WA 98188.
+The City of Seattle's Tabor 100 Hub will host office hours in December 2025 for individuals interested in doing business with the city, particularly women- and minority-owned businesses. Staff from the Department of Finance and Administrative Services will be available for consultations without the need for appointments. The office is located at 7100 Fort Dent Way, Suite 100, Tukwila, WA 98188.
 
-The December schedule includes various team members available on specific dates and times. Notable sessions include the Purchasing Team on December 1, Labor Equity Team on December 2, and Inclusion Advisors on multiple dates throughout the month. The office will be closed on December 25 for a City holiday. For inquiries outside of these hours, individuals can reach out via email.
+The December schedule includes various team members available on specific dates and times. Notable sessions include the Purchasing Team on Dec. 1, the Labor Equity Team on Dec. 2, and Inclusion Advisors on multiple dates throughout the month. The office will be closed on Dec. 25 for a city holiday. For inquiries outside of these hours, individuals can reach out via email.

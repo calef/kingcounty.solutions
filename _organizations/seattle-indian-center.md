@@ -16,4 +16,4 @@ type: Community-Based Organization
 website: https://seattleindiancenter.org/
 ---
 
-The Seattle Indian Center has been serving the community since 1958, providing essential services such as food assistance, shelter, education, and employment support. Our programs aim to empower individuals and families, ensuring access to vital resources and fostering a supportive environment for all.
+The Seattle Indian Center has served the community since 1958, providing essential services such as food assistance, shelter, education, and employment support. Our programs aim to empower individuals and families, ensuring access to vital resources and fostering a supportive environment for all.

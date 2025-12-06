@@ -78,4 +78,4 @@ title: 'Faculty Concert: Robin McCabe with Maria Larionoff'
 topics: []
 ---
 
-Join us for an enchanting evening at the Faculty Concert featuring renowned pianist Robin McCabe and violinist Maria Larionoff. Attendees can expect a captivating performance showcasing a blend of classical and contemporary pieces, perfect for music lovers of all ages. This special event will take place on February 12, 2026, at 7:30 PM in Meany Hall. Don't miss this opportunity to experience the artistry and talent of two esteemed musicians in an intimate setting.
+Join us for an enchanting evening at the Faculty Concert featuring renowned pianist Robin McCabe and violinist Maria Larionoff. Attendees can expect a captivating performance showcasing a blend of classical and contemporary pieces, perfect for music lovers of all ages. This special event will take place on Feb. 12, 2026, at 7:30 p.m. in Meany Hall. Don't miss this opportunity to experience the artistry and talent of two esteemed musicians in an intimate setting.

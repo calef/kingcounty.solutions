@@ -184,4 +184,4 @@ title: Margie’s Café
 topics: []
 ---
 
-Join us at Margie’s Café on December 9, 2025, from 9:00 AM to 1:30 PM at The Center for Active Living, located at 4217 SW Oregon St., Seattle, WA. This welcoming café is perfect for enjoying a delicious selection of freshly prepared food, including cookies, sandwiches, salads, and soups, all available à la carte. Whether you're looking to grab a quick snack or sit down for a leisurely lunch, Margie’s Café offers a cozy atmosphere for all. Don't miss this opportunity to connect with the community over good food and great company!
+Join us at Margie’s Café on Dec. 9, 2025, from 9 a.m. to 1:30 p.m. at The Center for Active Living, located at 4217 SW Oregon St., Seattle, WA. This welcoming café is perfect for enjoying a delicious selection of freshly prepared food, including cookies, sandwiches, salads, and soups, all available à la carte. Whether you're looking to grab a quick snack or sit down for a leisurely lunch, Margie’s Café offers a cozy atmosphere for all. Don't miss this opportunity to connect with the community over good food and great company!

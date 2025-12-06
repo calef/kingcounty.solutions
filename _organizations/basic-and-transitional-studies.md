@@ -11,4 +11,4 @@ type: Program
 website: https://seattlecentral.edu/programs/basic-and-transitional-studies
 ---
 
-Basic & Transitional Studies offers programs for learners of all levels, including Adult Basic Education and English as a Second Language (ESL) classes, to prepare for college and career readiness.
+Basic and Transitional Studies offers programs for learners of all levels, including adult basic education and English as a second language (ESL) classes, to prepare for college and career readiness.

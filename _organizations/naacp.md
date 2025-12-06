@@ -12,4 +12,4 @@ type: Community-Based Organization
 website: https://naacp.org
 ---
 
-The NAACP is dedicated to fighting racial inequality and advocating for civil rights. They provide resources and support for Black Americans, focusing on voting rights, economic empowerment, and health disparities, while promoting diversity and inclusion across various sectors.
+The NAACP is dedicated to fighting racial inequality and advocating for civil rights. It provides resources and support for Black Americans, focusing on voting rights, economic empowerment, and health disparities while promoting diversity and inclusion across various sectors.

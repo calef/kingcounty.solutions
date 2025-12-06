@@ -14,4 +14,4 @@ permalink: "/news/"
 title: News
 ---
 
-Browse news from across King County. Posts are sorted from the most to least recent.
+Browse news from across King County. Posts are sorted from the most recent to the least recent.

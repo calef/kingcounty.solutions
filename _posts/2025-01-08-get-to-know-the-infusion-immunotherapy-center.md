@@ -148,7 +148,7 @@ topics:
 - Mental Health & Counseling
 ---
 
-Valley's Infusion & Immunotherapy Center is a specialized outpatient clinic that provided care to over 24,500 patients in FY 2024, with expectations to exceed 27,000 in FY 2025. Managed by Chermaine Wulff, the center focuses on delivering a comfortable and safe environment for infusion therapy, including treatments like chemotherapy, immunotherapy, IV antibiotics, blood transfusions, and hydration therapy. The new facility in the East Pavilion prioritizes patient comfort, featuring spacious treatment areas and advanced medical equipment.
+Valley's Infusion & Immunotherapy Center is a specialized outpatient clinic that provided care to more than 24,500 patients in fiscal year 2024, with expectations to exceed 27,000 in fiscal year 2025. Managed by Chermaine Wulff, the center focuses on delivering a comfortable and safe environment for infusion therapy, including treatments such as chemotherapy, immunotherapy, IV antibiotics, blood transfusions, and hydration therapy. The new facility in the East Pavilion prioritizes patient comfort, featuring spacious treatment areas and advanced medical equipment.
 
 The center serves patients referred by various specialists, including oncology, hematology, and rheumatology. It employs 46 trained staff members, all of whom have certifications in chemotherapy/immunotherapy and oncology nursing. Volunteers play a crucial role by providing emotional support and assisting patients during their treatment sessions, enhancing their overall experience.
 

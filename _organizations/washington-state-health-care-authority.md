@@ -11,4 +11,4 @@ type: Department
 website: https://www.hca.wa.gov/
 ---
 
-The Washington State Health Care Authority provides access to free or low-cost health care through Apple Health (Medicaid), including medical, dental, and vision care, as well as behavioral health services. They support public employees with benefits management and offer resources for health care providers.
+The Washington State Health Care Authority provides access to free or low-cost health care through Apple Health (Medicaid), including medical, dental, and vision care, as well as behavioral health services. It supports public employees with benefits management and offers resources for health care providers.

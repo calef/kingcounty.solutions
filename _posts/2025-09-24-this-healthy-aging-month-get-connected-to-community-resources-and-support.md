@@ -22,10 +22,10 @@ topics:
 - Transportation & Mobility
 ---
 
-September is designated as Healthy Aging Month, focusing on the needs of older adults and their caregivers. The Aging and Disability Services (ADS) division in Seattle addresses these needs by providing various long-term services and supports. The Community Living Connections (CLC) hotline offers confidential assistance to older adults and caregivers, helping them access resources such as health services and transportation. In 2024, CLC assisted over 20,000 individuals.
+September is designated as Healthy Aging Month, focusing on the needs of older adults and their caregivers. The Aging and Disability Services (ADS) division in Seattle addresses these needs by providing various long-term services and supports. The Community Living Connections (CLC) hotline offers confidential assistance to older adults and caregivers, helping them access resources such as health services and transportation. In 2024, CLC assisted more than 20,000 individuals.
 
-Healthy aging is supported through Health Promotion programs that encourage self-management and provide education on disease prevention. Additionally, the Sound Generations geriatric regional assessment team offers in-home support for older adults facing cognitive or mental health challenges.
+Healthy aging is supported through health promotion programs that encourage self-management and provide education on disease prevention. Additionally, the Sound Generations geriatric regional assessment team offers in-home support for older adults facing cognitive or mental health challenges.
 
-To combat ageism, a 45-minute online training is available to help individuals recognize and address ageist attitudes. Age-friendly events, including the Civic Coffee series, foster community engagement, with a special community event recognizing Falls Prevention Week scheduled for September 26.
+To combat ageism, a 45-minute online training is available to help individuals recognize and address ageist attitudes. Age-friendly events, including the Civic Coffee series, foster community engagement, with a special community event recognizing Falls Prevention Week scheduled for Sept. 26.
 
 Older adults in Seattle are encouraged to apply for a Gold Card, which offers discounts at various local businesses. Staying informed is vital, and residents can sign up for the AgeWise King County monthly e-newsletter, which provides tips and resources for healthy aging.

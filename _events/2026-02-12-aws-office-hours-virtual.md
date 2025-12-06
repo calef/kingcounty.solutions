@@ -63,4 +63,4 @@ topics: []
 
 Join us for AWS Office Hours, a virtual event designed to help you enhance your cloud computing skills. This is a great opportunity to connect with AWS experts who will provide insights, answer your questions, and offer guidance on best practices. Whether you're a beginner or an experienced user, you'll find valuable information to help you navigate AWS services effectively.
 
-The event will take place on February 12, 2026, starting at 2:00 PM PST. Don't miss this chance to deepen your understanding of AWS and network with other cloud enthusiasts from the comfort of your home.
+The event will take place on Feb. 12, 2026, starting at 2 p.m. PST. Don't miss this chance to deepen your understanding of AWS and network with other cloud enthusiasts from the comfort of your home.

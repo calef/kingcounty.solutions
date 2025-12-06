@@ -17,4 +17,4 @@ type: Community-Based Organization
 website: https://www.uwkc.org/
 ---
 
-United Way of King County partners with community organizations to help households secure housing, food, education, and financial stability. Through initiatives like rental assistance, employment and coaching supports, food access, and student success programs, it works toward a racially just, economically stable King County.
+United Way of King County partners with community organizations to help households secure housing, food, education, and financial stability. Through initiatives like rental assistance, employment and coaching supports, food access, and student success programs, it works toward a racially just and economically stable King County.

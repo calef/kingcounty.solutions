@@ -186,4 +186,4 @@ title: Coffee With Vets
 topics: []
 ---
 
-Join us for "Coffee With Vets" on December 9, 2025, from 11:00 AM to 12:00 PM at The Center for Active Living, located at 4217 SW Oregon St., Seattle, WA. This event invites local veterans to enjoy coffee and engage in meaningful conversations. It's a wonderful opportunity to connect with fellow veterans, share stories from their military experiences, and discuss various topics in a friendly atmosphere. After the coffee chat, attendees are welcome to stay for lunch. Don’t miss this chance to build camaraderie and community among those who have served.
+Join us for "Coffee With Vets" on Dec. 9, 2025, from 11 a.m. to noon at The Center for Active Living, located at 4217 SW Oregon St., Seattle. This event invites local veterans to enjoy coffee and engage in meaningful conversations. It's a wonderful opportunity to connect with fellow veterans, share stories from their military experiences, and discuss various topics in a friendly atmosphere. After the coffee chat, attendees are welcome to stay for lunch. Don’t miss this chance to build camaraderie and community among those who have served.

@@ -155,7 +155,7 @@ topics:
 - Senior Services
 ---
 
-Women veterans are a rapidly growing demographic within the U.S. military community, making up 10% of all veterans. The Department of Veterans Affairs (VA) emphasizes that women veterans deserve equitable access to healthcare and services. VA Secretary Denis McDonough highlighted the importance of creating an inclusive environment where women veterans feel welcomed and supported.
+Women veterans are a rapidly growing demographic within the U.S. military community, making up 10% of all veterans. The Department of Veterans Affairs (VA) emphasizes that women veterans deserve equitable access to health care and services. VA Secretary Denis McDonough highlighted the importance of creating an inclusive environment where women veterans feel welcomed and supported.
 
 Efforts are underway to enhance services for women veterans, including expanding maternity care and addressing unique health issues. The VA is also focused on improving mental health services and combating the stigma surrounding mental health challenges faced by women veterans. Initiatives such as the Women Veterans Program aim to provide tailored resources and support.
 

@@ -14,4 +14,4 @@ type: Community-Based Organization
 website: https://rootedbrilliance.org/
 ---
 
-Communities of Rooted Brilliance (CRB) partners with newcomer communities to provide educational opportunities and social support services. Our programs focus on early learning, youth engagement, and system navigation, helping families thrive in the Greater Seattle Area.
+Communities of Rooted Brilliance (CRB) partners with newcomer communities to provide educational opportunities and social support services. Our programs focus on early learning, youth engagement, and system navigation, helping families thrive in the greater Seattle area.

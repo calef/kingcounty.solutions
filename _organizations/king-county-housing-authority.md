@@ -40,4 +40,4 @@ type: Independent Public Corporation
 website: https://www.kcha.org/
 ---
 
-KCHA provides quality, affordable rental housing and assistance to over 50,000 residents in King County. Services include Housing Choice Vouchers, subsidized housing, and support for individuals experiencing homelessness.
+KCHA provides quality, affordable rental housing and assistance to more than 50,000 residents in King County. Services include Housing Choice Vouchers, subsidized housing, and support for individuals experiencing homelessness.

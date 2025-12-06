@@ -7712,4 +7712,4 @@ title: First Circuit Virtual Meeting
 topics: []
 ---
 
-Join us for the First Circuit Virtual Meeting on January 8, 2026, starting at 2:30 PM EST. This online gathering offers an opportunity for community members to engage in discussions about important circuit matters, share insights, and collaborate on future initiatives. Attendees can expect to connect with fellow participants, ask questions, and contribute to meaningful conversations that impact our community. Don't miss this chance to be part of the dialogue and help shape the future of our circuit!
+Join us for the First Circuit Virtual Meeting on Jan. 8, 2026, starting at 2:30 p.m. EST. This online gathering offers an opportunity for community members to engage in discussions about important circuit matters, share insights, and collaborate on future initiatives. Attendees can expect to connect with fellow participants, ask questions, and contribute to meaningful conversations that impact our community. Don't miss this chance to be part of the dialogue and help shape the future of our circuit!

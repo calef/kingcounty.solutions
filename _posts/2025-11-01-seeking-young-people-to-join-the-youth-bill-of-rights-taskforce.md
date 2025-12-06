@@ -18,4 +18,4 @@ topics:
 - Employment & Job Support
 ---
 
-Help is needed to recruit young people for the upcoming Youth Bill of Rights Task Force. The initiative aims to gather youth input and leadership to develop a Youth Commission. Individuals are encouraged to share this opportunity within their networks. An application to join the task force is available for interested candidates.
+Help is needed to recruit young people for the upcoming Youth Bill of Rights Taskforce. The initiative aims to gather youth input and leadership to develop a Youth Commission. Individuals are encouraged to share this opportunity within their networks. An application to join the taskforce is available for interested candidates.

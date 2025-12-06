@@ -18,7 +18,7 @@ topics:
 - Food & Nutrition
 ---
 
-On November 19, Seattle Public Utilities (SPU) and WM announced the winners of the 2025 ReThink Waste Grants, which support local initiatives aimed at waste prevention, recycling, and promoting a circular economy. This year's program, now in its seventh year, will allocate $10,000 to five organizations recognized for their innovative approaches to sustainability. The recipients include:
+On Nov. 19, Seattle Public Utilities (SPU) and WM announced the winners of the 2025 ReThink Waste Grants, which support local initiatives aimed at waste prevention, recycling, and promoting a circular economy. This year's program, now in its seventh year, will allocate $10,000 to five organizations recognized for their innovative approaches to sustainability. The recipients include:
 
 - **Redesign Collective: ReFabrica** - $3,000 for workforce training of immigrants and upcycling textiles.
 - **Chinatown-International District Business Improvement Area** - $3,000 for installing cigarette butt collection containers to reduce litter.

@@ -99,4 +99,4 @@ title: The Importance of Evergreens
 topics: []
 ---
 
-Join us on December 7 from 10:00 AM to 11:30 AM at the Burien Community Center for "The Importance of Evergreens," a free class focused on evergreen conifers and their vital role in our environment. Attendees will learn about the ecological benefits these trees provide and participate in creating a seasonal evergreen decoration. This engaging event is perfect for anyone interested in enhancing their knowledge of nature while enjoying a hands-on activity. Don't miss this opportunity to connect with your community and celebrate the beauty of evergreens!
+Join us on Dec. 7 from 10 a.m. to 11:30 a.m. at the Burien Community Center for "The Importance of Evergreens," a free class focused on evergreen conifers and their vital role in our environment. Attendees will learn about the ecological benefits these trees provide and participate in creating a seasonal evergreen decoration. This engaging event is perfect for anyone interested in enhancing their knowledge of nature while enjoying a hands-on activity. Don't miss this opportunity to connect with your community and celebrate the beauty of evergreens!

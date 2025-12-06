@@ -90,4 +90,4 @@ topics:
 - Education & Learning
 ---
 
-Join us for an engaging Urdu Class on December 6, 2025, from 11:00 AM to 1:00 PM. This event is perfect for anyone looking to learn or improve their Urdu language skills, whether you are a beginner or have some experience. Attendees can expect interactive lessons, cultural insights, and a supportive environment to practice speaking and writing in Urdu. Don't miss this opportunity to connect with fellow language enthusiasts and immerse yourself in the beauty of Urdu. The class will take place at a local venue, ensuring a welcoming atmosphere for all participants.
+Join us for an engaging Urdu class on Dec. 6, 2025, from 11 a.m. to 1 p.m. This event is perfect for anyone looking to learn or improve their Urdu language skills, whether you are a beginner or have some experience. Attendees can expect interactive lessons, cultural insights, and a supportive environment to practice speaking and writing in Urdu. Don't miss this opportunity to connect with fellow language enthusiasts and immerse yourself in the beauty of Urdu. The class will take place at a local venue, ensuring a welcoming atmosphere for all participants.

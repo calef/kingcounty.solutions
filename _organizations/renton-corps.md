@@ -14,4 +14,4 @@ type: Community-Based Organization
 website: https://renton.salvationarmy.org
 ---
 
-The Renton Corps provides essential community services including food assistance, youth programs, and spiritual outreach. They rely on volunteers and donations to support their mission of 'Doing the Most Good' in the Renton area.
+The Renton Corps provides essential community services, including food assistance, youth programs, and spiritual outreach. It relies on volunteers and donations to support its mission of "Doing the Most Good" in the Renton area.

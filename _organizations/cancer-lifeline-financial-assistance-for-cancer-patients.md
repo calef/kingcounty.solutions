@@ -15,4 +15,4 @@ type: Community-Based Organization
 website: https://cancerlifeline.org/services/financial-assistance-for-cancer-patients/
 ---
 
-Cancer Lifeline provides financial assistance to low-income cancer patients in western Washington State to help cover basic needs and medical expenses during treatment. Eligible patients can receive funds for living expenses or unreimbursed medical costs.
+Cancer Lifeline provides financial assistance to low-income cancer patients in Western Washington to help cover basic needs and medical expenses during treatment. Eligible patients can receive funds for living expenses or unreimbursed medical costs.

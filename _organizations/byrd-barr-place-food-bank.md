@@ -11,4 +11,4 @@ type: Program
 website: https://byrdbarrplace.org/programs-services/food-bank
 ---
 
-The Byrd Barr Place Food Bank provides free groceries to Seattle neighbors from its Central District location. The program prioritizes dignity and choice while connecting guests to other Byrd Barr Place services such as energy assistance, housing support, and financial tools. Contact the food bank to confirm current hours and available resources.
+The Byrd Barr Place Food Bank provides free groceries to Seattle neighbors from its Central District location. The program prioritizes dignity and choice while connecting guests to other Byrd Barr Place services, such as energy assistance, housing support, and financial tools. Contact the food bank to confirm current hours and available resources.

@@ -12,4 +12,4 @@ type: Program
 website: https://www.nosscr.org/helping-you/referral-service
 ---
 
-The NOSSCR Referral Service connects claimants with legal representatives for Social Security cases. With over 30 years of experience, the service screens calls to ensure the right match for legal needs, facilitating warm transfers to qualified representatives.
+The NOSSCR Referral Service connects claimants with legal representatives for Social Security cases. With more than 30 years of experience, the service screens calls to ensure the right match for legal needs, facilitating warm transfers to qualified representatives.

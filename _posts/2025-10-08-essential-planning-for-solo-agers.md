@@ -22,13 +22,13 @@ topics:
 
 Nearly one-third of adults aged 55 and older are aging solo, prompting the need for proactive planning to ensure a healthy and supported future. Key areas to consider include:
 
-1. **Legal Documents**: Essential estate planning documents such as financial power of attorney, healthcare power of attorney, advance healthcare directives, and wills should be established with the help of an elder law attorney.
+1. **Legal documents**: Essential estate planning documents such as financial power of attorney, healthcare power of attorney, advance healthcare directives, and wills should be established with the help of an elder law attorney.
 
 2. **Finances**: Understanding financial resources is critical to support lifestyle choices, such as working part-time or retiring. It’s important to anticipate the financial impact of health changes and long-term care costs.
 
 3. **Home**: Assess whether current living arrangements will accommodate aging needs, considering potential renovations or relocation.
 
-4. **Health and Well-Being**: Maintain a healthy lifestyle through physical activity, nutrition, and social engagement, and follow healthcare providers' advice for chronic conditions.
+4. **Health and well-being**: Maintain a healthy lifestyle through physical activity, nutrition, and social engagement, and follow healthcare providers' advice for chronic conditions.
 
 5. **Community**: Build a support network and consider how your neighborhood supports social and civic engagement.
 

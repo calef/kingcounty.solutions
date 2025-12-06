@@ -61,4 +61,6 @@ title: AI Community of Practice weekly gathering
 topics: []
 ---
 
-Join the AI Community of Practice for their weekly gathering on December 10, 2025, at 10:00 AM PST. This event is a great opportunity for enthusiasts and professionals to connect, share insights, and collaborate on artificial intelligence topics. Attendees can expect engaging discussions, hands-on activities, and the chance to network with like-minded individuals. Whether you are a beginner or an expert in AI, this gathering is designed to foster learning and innovation within the community. Don't miss out on this chance to enhance your knowledge and meet fellow AI enthusiasts!
+Join the AI Community of Practice for its weekly gathering on Dec. 10, 2025, at 10 a.m. PST. This event is a great opportunity for enthusiasts and professionals to connect, share insights, and collaborate on artificial intelligence topics. Attendees can expect engaging discussions, hands-on activities, and the chance to network with like-minded individuals. Whether you are a beginner or an expert in AI, this gathering is designed to foster learning and innovation within the community. Don't miss this chance to enhance your knowledge and meet fellow AI enthusiasts! 
+
+[Join the meeting here](https://washington.zoom.us/j/9684580021).

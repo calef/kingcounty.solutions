@@ -57,4 +57,4 @@ topics:
 - Food & Nutrition
 ---
 
-The Washington State Department of Health has secured additional funding from the USDA to maintain WIC benefits through mid-to-late November. This funding supports the reduced 11-member administrative team for the Women, Infants and Children Nutrition Program. The continuation of benefits depends on current WIC redemption rates, which, if increased, may deplete the funding sooner. The DOH is monitoring the situation and will provide updates as they become available.
+The Washington State Department of Health has secured additional funding from the U.S. Department of Agriculture to maintain WIC benefits through mid-to-late November. This funding supports the reduced 11-member administrative team for the Women, Infants and Children Nutrition Program. The continuation of benefits depends on current WIC redemption rates, which, if increased, may deplete the funding sooner. The department is monitoring the situation and will provide updates as they become available.

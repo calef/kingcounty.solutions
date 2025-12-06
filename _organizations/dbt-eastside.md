@@ -11,4 +11,4 @@ type: Community-Based Organization
 website: https://www.dbteastside.com/
 ---
 
-DBT Eastside offers evidence-based Dialectical Behavioral Therapy (DBT) and Radically Open DBT (RO-DBT) to help individuals manage mental health challenges such as anxiety, depression, and PTSD. Our dedicated team provides individual therapy, phone coaching, and group sessions in a supportive environment.
+DBT Eastside offers evidence-based dialectical behavior therapy (DBT) and radically open DBT (RO-DBT) to help individuals manage mental health challenges such as anxiety, depression, and PTSD. Our dedicated team provides individual therapy, phone coaching, and group sessions in a supportive environment.

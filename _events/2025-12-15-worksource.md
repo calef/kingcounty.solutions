@@ -110,4 +110,4 @@ topics:
 - Employment & Job Support
 ---
 
-Join us for WorkSource on December 15 from 1:00 PM to 5:00 PM at the Advocate Office located in the Together Center, 16305 NE 87th S Suite 111, Redmond, WA. This event offers a valuable opportunity for attendees to explore employment options, receive job training, and gain insights into various career resources. Whether you're seeking new job opportunities or looking to enhance your skills, our team will be available to assist you. Don't miss this chance to connect and take the next step in your career journey!
+Join us for WorkSource on Dec. 15 from 1 p.m. to 5 p.m. at the Advocate Office located in the Together Center, 16305 NE 87th St., Suite 111, Redmond, WA. This event offers a valuable opportunity for attendees to explore employment options, receive job training, and gain insights into various career resources. Whether you're seeking new job opportunities or looking to enhance your skills, our team will be available to assist you. Don't miss this chance to connect and take the next step in your career journey!

@@ -185,4 +185,4 @@ topics:
 - Senior Services
 ---
 
-Join us for "Fitness For Fun" on December 12, 2025, from 9:00 AM to 10:00 AM at The Center for Active Living, located at 4217 SW Oregon St., Seattle, WA. This engaging class led by Sherry will get you moving and grooving to upbeat music while incorporating easy steps that engage both your body and brain. Each session is designed to be unique, ensuring you stay flexible in mind and body. Come ready to have fun and enjoy a lively atmosphere as you improve your fitness in a supportive community setting. Don't miss this opportunity to enhance your well-being!
+Join us for "Fitness for Fun" on Dec. 12, 2025, from 9 to 10 a.m. at The Center for Active Living, located at 4217 SW Oregon St., Seattle, WA. This engaging class, led by Sherry, will get you moving and grooving to upbeat music while incorporating easy steps that engage both your body and brain. Each session is designed to be unique, ensuring you stay flexible in mind and body. Come ready to have fun and enjoy a lively atmosphere as you improve your fitness in a supportive community setting. Don't miss this opportunity to enhance your well-being!

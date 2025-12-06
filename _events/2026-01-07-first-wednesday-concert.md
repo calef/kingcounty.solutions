@@ -20,4 +20,4 @@ title: First Wednesday Concert
 topics: []
 ---
 
-Join us for the First Wednesday Concert on January 7, 2026, at 12:30 PM at the Allen Library. This lively event features local musicians performing a variety of genres, providing a perfect opportunity to enjoy live music in a welcoming atmosphere. Attendees can relax, socialize, and immerse themselves in the vibrant sounds of the community. Bring your friends and family for an enjoyable afternoon filled with great tunes and good company. Don't miss out on this chance to support local talent and connect with fellow music lovers!
+Join us for the First Wednesday Concert on Jan. 7, 2026, at 12:30 p.m. at the Allen Library. This lively event features local musicians performing a variety of genres, providing a perfect opportunity to enjoy live music in a welcoming atmosphere. Attendees can relax, socialize, and immerse themselves in the vibrant sounds of the community. Bring your friends and family for an enjoyable afternoon filled with great tunes and good company. Don't miss this chance to support local talent and connect with fellow music lovers!

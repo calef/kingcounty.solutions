@@ -250,6 +250,6 @@ topics:
 - Mental Health & Counseling
 ---
 
-Join us online for the "Strategies for Success: Health & Well-Being Central Basin" workshop series, starting December 8, 2025, at 9:00 AM and running through December 11. This engaging four-day event, hosted via Zoom, focuses on achieving work-life balance and self-care strategies. Participants will explore essential topics such as personal integrity, stress management, and goal-setting while learning to navigate community resources and enhance networking skills.
+Join us online for the "Strategies for Success: Health & Well-Being Central Basin" workshop series, starting Dec. 8, 2025, at 9 a.m. and running through Dec. 11. This engaging four-day event, hosted via Zoom, focuses on achieving work-life balance and self-care strategies. Participants will explore essential topics such as personal integrity, stress management, and goal-setting while learning to navigate community resources and enhance networking skills.
 
 This workshop is designed for anyone seeking to improve their life skills in a flexible format, allowing for personalized experiences. Registration is required, and attendees will receive a Zoom link via email prior to the event. Don't miss this opportunity to invest in your health and well-being!

@@ -19,4 +19,4 @@ title: Throw and Build Workshop, Dec. 3, 2025
 topics: []
 ---
 
-Join the Throw and Build Workshop on December 3, 2025, at the Throw and Build Pottery Studio. Participants will create and decorate holiday luminaries using clay slabs in this hands-on experience. Attendees will learn basic pottery techniques and can express their creativity by adding details, carving patterns, and choosing glazes for their luminaries. After the workshop, the pieces will be fired and can be picked up three weeks later. RSVPs are required, and the cost is $33 for both members and non-members.
+Join the Throw and Build Workshop on Dec. 3, 2025, at the Throw and Build Pottery Studio. Participants will create and decorate holiday luminaries using clay slabs in this hands-on experience. Attendees will learn basic pottery techniques and can express their creativity by adding details, carving patterns, and choosing glazes for their luminaries. After the workshop, the pieces will be fired and can be picked up three weeks later. RSVPs are required, and the cost is $33 for both members and nonmembers.

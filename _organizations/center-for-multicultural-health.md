@@ -13,4 +13,4 @@ type: Community-Based Organization
 website: https://www.centerformulticulturalhealth.org/refugee-health-advocacy
 ---
 
-The Center for MultiCultural Health provides assistance with health care navigation, Washington Apple Health enrollment, connections to social and health services, pre-employment services, and housing applications including Section 8.
+The Center for MultiCultural Health provides assistance with health care navigation, Washington Apple Health enrollment, connections to social and health services, pre-employment services, and housing applications, including Section 8.

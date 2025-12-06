@@ -19,4 +19,4 @@ topics:
 - Employment & Job Support
 ---
 
-Des Moines entrepreneurs can now apply for the #ComcastRISE grant program, which is open until May 31. Comcast will provide grant packages to 500 small businesses, with 100 available in King County. This initiative aims to support small businesses and help them thrive.
+Des Moines entrepreneurs can now apply for the Comcast RISE grant program, which is open until May 31. Comcast will provide grant packages to 500 small businesses, with 100 available in King County. This initiative aims to support small businesses and help them thrive.

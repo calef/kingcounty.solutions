@@ -17,4 +17,4 @@ title: Vital Moves Mondays Sponsored by EvergreenHealth
 topics: []
 ---
 
-Join us for Vital Moves Mondays, a series of engaging online sessions sponsored by EvergreenHealth, starting December 8, 2025. This event is designed to promote physical wellness through guided movement activities suitable for all fitness levels. Participants can expect to learn new exercises, improve their mobility, and connect with others in a supportive environment. Each session will provide valuable tips for maintaining an active lifestyle. Don't miss this opportunity to enhance your well-being from the comfort of your home.
+Join us for Vital Moves Mondays, a series of engaging online sessions sponsored by EvergreenHealth, starting Dec. 8, 2025. This event is designed to promote physical wellness through guided movement activities suitable for all fitness levels. Participants can expect to learn new exercises, improve their mobility, and connect with others in a supportive environment. Each session will provide valuable tips for maintaining an active lifestyle. Don't miss this opportunity to enhance your well-being from the comfort of your home.

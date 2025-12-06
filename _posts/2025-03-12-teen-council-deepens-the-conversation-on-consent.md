@@ -13,8 +13,8 @@ topics:
 - Education & Learning
 ---
 
-At The DOVE Project, promoting conversations about consent is vital for building safe and respectful communities. The Teen Council has developed a new lesson dedicated to the topic, which was taught to 8th graders at The Harbor School for the first time. Although consent is integrated into various lessons on Healthy Relationships, the school requested an entire session focused solely on this subject. 
+At The DOVE Project, promoting conversations about consent is vital for building safe and respectful communities. The Teen Council has developed a new lesson dedicated to the topic, which was taught to eighth graders at The Harbor School for the first time. Although consent is integrated into various lessons on healthy relationships, the school requested an entire session focused solely on this subject.
 
-To enhance understanding, the FRIES model was introduced, highlighting that consent should be Freely given, Reversible, Informed, Enthusiastic, and Specific. Students engaged in role play and real-life scenarios to explore the nuances of ongoing consent and learn to identify coercion, pressure, and manipulation. Their enthusiastic participation and insightful questions demonstrated their eagerness to learn about these critical issues.
+To enhance understanding, the FRIES model was introduced, highlighting that consent should be freely given, reversible, informed, enthusiastic, and specific. Students engaged in role play and real-life scenarios to explore the nuances of ongoing consent and learn to identify coercion, pressure, and manipulation. Their enthusiastic participation and insightful questions demonstrated their eagerness to learn about these critical issues.
 
 The importance of consent extends beyond romantic relationships, encompassing friendships, family dynamics, digital interactions, and everyday boundaries. By presenting consent in an interactive and relatable manner, the program empowers young people to respect themselves and others.

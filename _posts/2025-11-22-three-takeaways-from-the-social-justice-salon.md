@@ -235,7 +235,7 @@ topics:
 - Shelter & Housing
 ---
 
-Solid Ground hosted its annual Social Justice Salon, focusing on the impact of recent federal spending cuts on social justice and safety-net organizations. Panelists included community leaders from various organizations discussing the dire consequences of these cuts, which threaten food and healthcare programs that support struggling families. Hundreds of thousands of lives are at stake, with significant funding losses already reported by organizations such as Downtown Emergency Service Center and Solid Ground. The legislative agenda is poised to further target housing services, potentially displacing many individuals currently housed.
+Solid Ground hosted its annual Social Justice Salon, focusing on the impact of recent federal spending cuts on social justice and safety-net organizations. Panelists included community leaders from various organizations discussing the dire consequences of these cuts, which threaten food and health care programs that support struggling families. Hundreds of thousands of lives are at stake, with significant funding losses already reported by organizations such as Downtown Emergency Service Center and Solid Ground. The legislative agenda is poised to further target housing services, potentially displacing many individuals currently housed.
 
 The panelists emphasized the importance of adhering to their values, particularly racial equity, despite pressures to conform to restrictive language guidelines. They expressed a commitment to advocating for marginalized communities, arguing that abandoning their mission would leave vulnerable individuals unprotected.
 

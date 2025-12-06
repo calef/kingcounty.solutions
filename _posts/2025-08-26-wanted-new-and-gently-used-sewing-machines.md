@@ -66,4 +66,4 @@ topics:
 - Personal & Household Needs
 ---
 
-New and gently used sewing machines are urgently needed for the EF Essential Skills program, which supports a growing number of students. This program focuses on skill-building and fostering community connections for refugees, seniors, and individuals facing social isolation. Contributions can be made by delivering sewing machines directly to EF Kent or by purchasing them through an Amazon Wish List.
+New and gently used sewing machines are urgently needed for the EF Essential Skills program, which supports a growing number of students. This program focuses on skill-building and fostering community connections for refugees, seniors, and individuals facing social isolation. Contributions can be made by delivering sewing machines directly to EF Kent or by purchasing them through an Amazon wish list.

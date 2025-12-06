@@ -15,4 +15,4 @@ type: Community-Based Organization
 website: https://angelflightwest.org/
 ---
 
-Angel Flight West provides free medical transportation through a network of volunteer pilots. They assist individuals facing transportation barriers to healthcare, including those escaping domestic violence and veterans needing therapeutic programs. All services are offered at no cost to passengers.
+Angel Flight West provides free medical transportation through a network of volunteer pilots. It assists individuals facing transportation barriers to health care, including those escaping domestic violence and veterans needing therapeutic programs. All services are offered at no cost to passengers.

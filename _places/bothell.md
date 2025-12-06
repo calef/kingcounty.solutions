@@ -9,4 +9,4 @@ zip_codes:
 - '98021'
 ---
 
-Bothell is a city located in King County, Washington. It is recognized for its vibrant community, beautiful parks, and various recreational opportunities, making it an attractive place to live and visit.
+Bothell is a city located in King County, Washington. It is recognized for its vibrant community, beautiful parks and various recreational opportunities, making it an attractive place to live and visit.

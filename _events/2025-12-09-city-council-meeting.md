@@ -111,4 +111,4 @@ title: City Council Meeting
 topics: []
 ---
 
-Join the Normandy Park City Council for their regular meeting on December 9, 2025, from 7:00 PM to 10:00 PM at the Council Chambers located at 801 SW 174th Street. Attendees can expect discussions on community issues and the opportunity to provide public comments both in person and remotely via Zoom. This is a great chance to engage with local government and stay informed about city matters. For those unable to attend, meeting recordings will be available afterward. For any inquiries, please contact City Clerk Erin Smith.
+Join the Normandy Park City Council for its regular meeting on Dec. 9, 2025, from 7 to 10 p.m. at the Council Chambers located at 801 SW 174th St. Attendees can expect discussions on community issues and the opportunity to provide public comments both in person and remotely via Zoom. This is a great chance to engage with local government and stay informed about city matters. For those unable to attend, meeting recordings will be available afterward. For any inquiries, please contact City Clerk Erin Smith.

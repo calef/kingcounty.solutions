@@ -13,4 +13,4 @@ type: Program
 website: https://www.ichs.com/health-services/dental/
 ---
 
-ICHS provides comprehensive dental care for families, including check-ups, cleanings, and urgent care. Services include pediatric dental care, preventive dentistry, restorative services, and emergency care. They also operate a Mobile Dental Clinic to serve the King County community.
+ICHS provides comprehensive dental care for families, including checkups, cleanings, and urgent care. Services include pediatric dental care, preventive dentistry, restorative services, and emergency care. It also operates a mobile dental clinic to serve the King County community.

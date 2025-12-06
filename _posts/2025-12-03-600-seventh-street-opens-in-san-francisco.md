@@ -74,7 +74,7 @@ topics:
 - Financial Assistance
 ---
 
-600 Seventh Street has officially opened in San Francisco, providing 100 units of affordable housing for low-income families and individuals. This development includes a mix of one, two, and three-bedroom apartments, with a focus on serving those who have experienced homelessness. The project aims to address the critical need for affordable housing in the city, which has been exacerbated by rising rents and housing shortages.
+600 Seventh Street has officially opened in San Francisco, providing 100 units of affordable housing for low-income families and individuals. This development includes a mix of one-, two-, and three-bedroom apartments, with a focus on serving those who have experienced homelessness. The project aims to address the critical need for affordable housing in the city, which has been exacerbated by rising rents and housing shortages.
 
 The building features various amenities such as community spaces, a computer lab, and outdoor areas for residents. It also incorporates sustainable design elements, promoting energy efficiency and environmental responsibility. The development was made possible through a collaboration between Mercy Housing, the city of San Francisco, and various funding partners.
 

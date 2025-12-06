@@ -8,4 +8,4 @@ zip_codes:
 - '98038'
 ---
 
-Maple Valley is known for its beautiful parks and outdoor recreational opportunities, making it a great destination for nature lovers and families alike.
+Maple Valley is known for its beautiful parks and outdoor recreational opportunities, making it a great destination for nature lovers and families.

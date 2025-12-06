@@ -15,4 +15,4 @@ title: CANCELLED - Big Box Store Plant Rehab
 topics: []
 ---
 
-The Big Box Store Plant Rehab event, originally scheduled for December 10, 2025, at the Douglas Research Conservatory, has been cancelled. Attendees were expected to engage in plant rehabilitation activities, learning valuable skills in plant care and sustainability. Unfortunately, this event will not take place as planned. Please stay tuned for future events at the DRC that promote environmental awareness and community involvement.
+The Big Box Store Plant Rehab event, originally scheduled for Dec. 10, 2025, at the Douglas Research Conservatory, has been canceled. Attendees were expected to engage in plant rehabilitation activities, learning valuable skills in plant care and sustainability. Unfortunately, this event will not take place as planned. Please stay tuned for future events at the DRC that promote environmental awareness and community involvement.

@@ -14,4 +14,4 @@ type: Community-Based Organization
 website: https://anewcareer.org/
 ---
 
-ANEW provides training and support for women in non-traditional careers, focusing on construction and manufacturing. Their programs include pre-apprenticeship training, CDL licensing, and retention services, aiming to build equitable pathways to family-wage careers.
+ANEW provides training and support for women in nontraditional careers, focusing on construction and manufacturing. Its programs include pre-apprenticeship training, CDL licensing, and retention services, aiming to build equitable pathways to family-wage careers.

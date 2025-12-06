@@ -12,4 +12,4 @@ type: Community-Based Organization
 website: https://www.seamar.org/king-bh-seattle.html
 ---
 
-Sea Mar Community Health Centers offers comprehensive mental health services including assessment, case management, individual and group therapy, and psychiatric medication management for all ages. They accept most insurances and provide services on a sliding fee scale for those without insurance.
+Sea Mar Community Health Centers offers comprehensive mental health services, including assessment, case management, individual and group therapy, and psychiatric medication management for all ages. It accepts most insurances and provides services on a sliding fee scale for those without insurance.

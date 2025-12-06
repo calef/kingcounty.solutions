@@ -108,4 +108,4 @@ topics:
 - Mental Health & Counseling
 ---
 
-Join the Virtual Cancer Workshop sponsored by Cancer Lifeline on December 7 from 10:00 AM to 3:30 PM PST. This engaging online event will focus on living with cancer, self-care, and building resilience. Attendees can expect a mix of sharing experiences and experiential learning through interactive sessions conducted via Zoom. Each session will consist of two two-hour segments, providing a supportive environment to connect with others facing similar challenges. Don't miss this opportunity to gain valuable insights and tools for navigating the cancer journey.
+Join the virtual cancer workshop sponsored by Cancer Lifeline on Dec. 7 from 10 a.m. to 3:30 p.m. PST. This engaging online event will focus on living with cancer, self-care, and building resilience. Attendees can expect a mix of sharing experiences and experiential learning through interactive sessions conducted via Zoom. Each session will consist of two two-hour segments, providing a supportive environment to connect with others facing similar challenges. Don't miss this opportunity to gain valuable insights and tools for navigating the cancer journey.

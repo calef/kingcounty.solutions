@@ -130,4 +130,4 @@ Celebrate Independence Day at the Bellevue Family 4th, the Eastside's largest fi
 
 Visitors are encouraged to walk, bike, use transit, or carpool, with extended light rail service until 11:30 p.m. Several streets will be closed for safety, and parking is available at The Bellevue Collection properties after 5 p.m. ADA parking has been relocated to a designated area in the Bellevue Square parking garage.
 
-Personal fireworks, alcohol, and cooking equipment are prohibited at the event. Dogs are allowed on leashes, but tents must be removed by 8 p.m. Fire Prevention Officers will monitor the event for safety.
+Personal fireworks, alcohol, and cooking equipment are prohibited at the event. Dogs are allowed on leashes, but tents must be removed by 8 p.m. Fire prevention officers will monitor the event for safety.

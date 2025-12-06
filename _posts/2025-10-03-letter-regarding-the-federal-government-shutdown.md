@@ -15,4 +15,4 @@ title: Letter Regarding the Federal Government Shutdown
 topics: []
 ---
 
-The Snoqualmie Tribe issued a letter regarding the Federal Government Shutdown, which is being sent to all Tribal Members. This decision was made amid USPS slowdowns and the ongoing postal strike in Canada. The letter is also available on the tribe's website for quick access. The content of the letter is not specified in the article.
+The Snoqualmie Tribe issued a letter regarding the federal government shutdown, which is being sent to all tribal members. This decision was made amid USPS slowdowns and the ongoing postal strike in Canada. The letter is also available on the tribe's website for quick access. The content of the letter is not specified in the article.

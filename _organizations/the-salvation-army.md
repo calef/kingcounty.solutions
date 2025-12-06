@@ -14,4 +14,4 @@ type: Community-Based Organization
 website: https://www.salvationarmyusa.org/
 ---
 
-The Salvation Army is a leading social service provider in the U.S., offering assistance through food pantries, shelters, financial aid, job training, and more. Committed to serving all individuals in need, it operates over 6,400 service centers nationwide.
+The Salvation Army is a leading social service provider in the U.S., offering assistance through food pantries, shelters, financial aid, job training, and more. Committed to serving all individuals in need, it operates more than 6,400 service centers nationwide.

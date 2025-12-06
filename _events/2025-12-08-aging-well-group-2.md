@@ -200,4 +200,4 @@ topics:
 - Senior Services
 ---
 
-Join the Aging Well - Group #2 on Monday, December 8, 2025, from 11:00 AM to 12:00 PM at The Center for Active Living, located at 4217 SW Oregon St., Seattle, WA. This weekly support group offers a safe space for participants to engage in discussions and share experiences, fostering a sense of community among attendees. All conversations are confidential, ensuring a trusting environment. Please note that pre-registration is required for admission. If you are interested in joining this supportive group, contact Michele Fawcett-Long at 206-928-1730 for more information.
+Join the Aging Well - Group #2 on Monday, Dec. 8, 2025, from 11 a.m. to noon at The Center for Active Living, located at 4217 SW Oregon St., Seattle, WA. This weekly support group offers a safe space for participants to engage in discussions and share experiences, fostering a sense of community among attendees. All conversations are confidential, ensuring a trusting environment. Please note that pre-registration is required for admission. If you are interested in joining this supportive group, contact Michele Fawcett-Long at 206-928-1730 for more information.

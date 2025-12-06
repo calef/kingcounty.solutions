@@ -11,4 +11,4 @@ type: Corporation
 website: https://www.deltadentalwa.com/
 ---
 
-Delta Dental of Washington provides affordable dental coverage through employer-sponsored plans and individual plans. They offer a range of services including virtual dental care, access to a large network of dentists, and additional benefits for members with qualifying health conditions.
+Delta Dental of Washington provides affordable dental coverage through employer-sponsored and individual plans. It offers a range of services, including virtual dental care, access to a large network of dentists, and additional benefits for members with qualifying health conditions.

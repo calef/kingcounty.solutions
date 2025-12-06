@@ -200,4 +200,4 @@ topics:
 - Senior Services
 ---
 
-Join the Aging Well - Group #1 on Monday, December 8, 2025, from 1:00 PM to 2:00 PM at The Center for Active Living, located at 4217 SW Oregon St., Seattle, WA. This weekly in-person support group provides a safe space for participants to engage in discussions and share experiences related to aging. Attendees can expect a supportive environment where confidentiality is prioritized. Please note that pre-registration is required for admission. If Group #1 is full, you can contact social worker Josh Maduell to be placed on the waitlist.
+Join the Aging Well - Group #1 on Monday, Dec. 8, 2025, from 1 to 2 p.m. at The Center for Active Living, located at 4217 SW Oregon St., Seattle, WA. This weekly in-person support group provides a safe space for participants to engage in discussions and share experiences related to aging. Attendees can expect a supportive environment where confidentiality is prioritized. Please note that pre-registration is required for admission. If Group #1 is full, you can contact social worker Josh Maduell to be placed on the waitlist.

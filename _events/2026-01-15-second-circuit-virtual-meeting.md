@@ -7713,4 +7713,4 @@ title: Second Circuit Virtual Meeting
 topics: []
 ---
 
-Join us for the Second Circuit Virtual Meeting on January 15, 2026, starting at 2:30 PM EST. This event offers a unique opportunity for attendees to engage in discussions about important legal topics, network with peers, and gain insights from expert speakers in the field. Participants can expect to contribute to meaningful conversations and collaborate on various initiatives. Don't miss this chance to connect and share ideas with fellow professionals from the comfort of your own home.
+Join us for the Second Circuit Virtual Meeting on Jan. 15, 2026, starting at 2:30 p.m. EST. This event offers a unique opportunity for attendees to engage in discussions about important legal topics, network with peers, and gain insights from expert speakers in the field. Participants can expect to contribute to meaningful conversations and collaborate on various initiatives. Don't miss this chance to connect and share ideas with fellow professionals from the comfort of your own home.

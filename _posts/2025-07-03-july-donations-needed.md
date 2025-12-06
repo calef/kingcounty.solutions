@@ -32,4 +32,4 @@ topics:
 - Personal & Household Needs
 ---
 
-Hospitality House South King is seeking donations for the month of July 2025. They have specific needs that can be fulfilled by shopping for items on their list. Community support is crucial to help meet these needs and ensure the continuation of their services. Individuals interested in contributing can easily access the donation list through their website. The organization emphasizes the importance of these contributions to assist those in need.
+Hospitality House South King is seeking donations for July 2025. They have specific needs that can be fulfilled by shopping for items on their list. Community support is crucial to help meet these needs and ensure the continuation of their services. Individuals interested in contributing can easily access the donation list through their website. The organization emphasizes the importance of these contributions to assist those in need.

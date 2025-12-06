@@ -25,4 +25,4 @@ topics:
 - Health Care
 ---
 
-The Healthcare Access Team of CISC Seattle has announced an outreach calendar for November, marking the open enrollment season. The team is committed to providing person-centered assistance, helping clients make informed decisions regarding their healthcare coverage. No specific details of the November schedule were provided in the article. The author of the post, Lei Wu, didn't share any additional insights or comments.
+The Healthcare Access Team of CISC Seattle has announced an outreach calendar for November, marking the open enrollment season. The team is committed to providing person-centered assistance, helping clients make informed decisions regarding their healthcare coverage. No specific details of the November schedule were provided in the article. The author of the post, Lei Wu, did not share any additional insights or comments.

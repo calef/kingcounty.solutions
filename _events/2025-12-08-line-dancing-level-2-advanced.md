@@ -193,4 +193,4 @@ topics:
 - Senior Services
 ---
 
-Join us for Line Dancing Level 2 Advanced on December 8, 2025, from 12:00 PM to 1:00 PM at The Center for Active Living, located at 4217 SW Oregon St., Seattle, WA. This class, led by experienced instructor Chris Banta, offers participants the chance to learn more complex line dances set to a variety of music styles, including country, ballroom, Latin, and waltz. It's a wonderful way to stay active and engage your mind while enjoying the rhythm of dance. Whether you're looking to refine your skills or simply have fun, all students are welcome to participate.
+Join us for Line Dancing Level 2 Advanced on Dec. 8, 2025, from 12 p.m. to 1 p.m. at The Center for Active Living, located at 4217 SW Oregon St., Seattle, WA. This class, led by experienced instructor Chris Banta, offers participants the chance to learn more complex line dances set to a variety of music styles, including country, ballroom, Latin, and waltz. It's a wonderful way to stay active and engage your mind while enjoying the rhythm of dance. Whether you're looking to refine your skills or simply have fun, all students are welcome to participate.

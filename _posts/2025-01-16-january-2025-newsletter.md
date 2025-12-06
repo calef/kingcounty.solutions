@@ -34,4 +34,4 @@ title: January 2025 Newsletter
 topics: []
 ---
 
-New Year brings a fresh edition of the newsletter, authored by Desiree Swanson. The January 2025 Newsletter features updates and highlights, marking the start of the year with new information for readers. The newsletter is part of a series, with previous editions including the December 2024 Newsletter and the upcoming February 2025 Newsletter.
+New Year brings a fresh edition of the newsletter, authored by Desiree Swanson. The January 2025 newsletter features updates and highlights, marking the start of the year with new information for readers. The newsletter is part of a series, with previous editions including the December 2024 newsletter and the upcoming February 2025 newsletter.

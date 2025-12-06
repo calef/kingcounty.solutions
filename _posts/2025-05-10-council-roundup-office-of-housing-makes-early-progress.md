@@ -132,4 +132,4 @@ At a recent City Council meeting, an update was provided on the newly establishe
 
 Additionally, the council received a report from the King County Wastewater Treatment Division regarding proposed sewer rate increases over the next 20 years, projecting a 140% increase by 2035. Concerns were raised about the affordability impact on residents, prompting the council to draft a letter to the King County Council addressing these issues and advocating for clearer rate transparency and equitable planning.
 
-New councilmember Vishal Bhargava was sworn in, taking the seat vacated by John Stokes until the November election. The council also underwent open government training, as mandated by state law, and recognized May as Jewish American Heritage Month along with other proclamations for the month.
+New council member Vishal Bhargava was sworn in, taking the seat vacated by John Stokes until the November election. The council also underwent open government training, as mandated by state law, and recognized May as Jewish American Heritage Month, along with other proclamations for the month.

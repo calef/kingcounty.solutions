@@ -44,4 +44,4 @@ topics:
 - Employment & Job Support
 ---
 
-Join us for the Virtual (Central) Job Fair on December 9, 2025. This online event offers a unique opportunity for job seekers to connect with potential employers from various industries. Attendees can explore job openings, submit applications, and participate in live Q&A sessions with hiring managers. Whether you're looking for a new career path or seeking to advance your current position, this job fair is designed to help you succeed. Don't miss this chance to network and discover your next opportunity from the comfort of your home.
+Join us for the virtual (Central) job fair on Dec. 9, 2025. This online event offers a unique opportunity for job seekers to connect with potential employers from various industries. Attendees can explore job openings, submit applications, and participate in live Q&A sessions with hiring managers. Whether you're looking for a new career path or seeking to advance your current position, this job fair is designed to help you succeed. Don't miss this chance to network and discover your next opportunity from the comfort of your home.

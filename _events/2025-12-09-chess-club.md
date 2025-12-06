@@ -185,4 +185,4 @@ title: Chess Club
 topics: []
 ---
 
-Join the Chess Club on December 9, 2025, from 1:30 PM to 3:00 PM at The Center for Active Living, located at 4217 SW Oregon St., Seattle, WA. This event welcomes chess enthusiasts of all skill levels, offering lessons and short tutorials to enhance your game. Whether you're a beginner or a seasoned player, come sharpen your skills and enjoy a social atmosphere with fellow chess lovers. Don't miss this opportunity to engage your mind and connect with the community! For more information, contact Conwell Dickey at conwell@conwelld.net.
+Join the Chess Club on Dec. 9, 2025, from 1:30 to 3 p.m. at The Center for Active Living, located at 4217 SW Oregon St., Seattle. This event welcomes chess enthusiasts of all skill levels, offering lessons and short tutorials to enhance your game. Whether you're a beginner or a seasoned player, come sharpen your skills and enjoy a social atmosphere with fellow chess lovers. Don't miss this opportunity to engage your mind and connect with the community! For more information, contact Conwell Dickey at conwell@conwelld.net.

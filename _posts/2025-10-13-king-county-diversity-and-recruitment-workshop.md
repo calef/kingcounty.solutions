@@ -17,4 +17,4 @@ topics:
 
 **King County Diversity and Recruitment Workshop**
 
-Fire departments in King County are expanding their recruitment efforts. They are seeking future firefighters and aim to provide applicants with valuable insights into the hiring process. The workshop will also have professional mentors available for attendees. The event is open to everyone, aged 16 or older. The departments especially encourage individuals with no fire service experience, members of the BIPOC community, women, bilingual individuals, and members of the LGBTQIA+ community to attend.
+Fire departments in King County are expanding their recruitment efforts. They are seeking future firefighters and aim to provide applicants with valuable insights into the hiring process. The workshop will also have professional mentors available for attendees. The event is open to everyone aged 16 or older. The departments especially encourage individuals with no fire service experience, members of the BIPOC community, women, bilingual individuals, and members of the LGBTQIA+ community to attend.

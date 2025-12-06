@@ -141,4 +141,10 @@ topics:
 - Senior Services
 ---
 
-Kayla Davis, Senior Manager of Operations at Inatai Foundation, reflects on her five-year journey with the organization, where she has held various roles since joining as a Program Associate. She highlights her favorite place in Washington as The Tri-Cities, appreciating its vibrant culture and natural beauty. Davis resonates deeply with the value of collective liberation, emphasizing the importance of shared power and community in achieving true freedom and justice. She has learned that collective action can lead to significant change and that individual stories and experiences are vital to this process. Davis believes Inatai stands out for its people, culture, and commitment to racial justice and equity, fostering relationships rooted in trust and compassion. For her, racial justice and equity are fundamental human rights, essential for creating a world where everyone's humanity is honored and opportunities are equitable. She advocates for a collective approach to liberation, asserting that when one community suffers, none are free, and that working together is crucial for building a just and inclusive future.
+Kayla Davis, senior manager of operations at Inatai Foundation, reflects on her five-year journey with the organization, where she has held various roles since joining as a program associate. She highlights her favorite place in Washington as the Tri-Cities, appreciating its vibrant culture and natural beauty. 
+
+Davis resonates deeply with the value of collective liberation, emphasizing the importance of shared power and community in achieving true freedom and justice. She has learned that collective action can lead to significant change and that individual stories and experiences are vital to this process. 
+
+Davis believes Inatai stands out for its people, culture, and commitment to racial justice and equity, fostering relationships rooted in trust and compassion. For her, racial justice and equity are fundamental human rights, essential for creating a world where everyone's humanity is honored and opportunities are equitable. 
+
+She advocates for a collective approach to liberation, asserting that when one community suffers, none are free, and that working together is crucial for building a just and inclusive future.

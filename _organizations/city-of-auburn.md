@@ -9,4 +9,4 @@ type: City
 website: https://www.auburnwa.gov/
 ---
 
-The City of Auburn serves the community of **Auburn**, Washington, providing various services to enhance the quality of life for its residents.
+The city of Auburn serves the community of **Auburn**, Washington, providing various services to enhance the quality of life for its residents.

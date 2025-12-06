@@ -75,7 +75,7 @@ topics:
 - Mental Health & Counseling
 ---
 
-Veterans and supporters are participating in the "GWOT 100" initiative, a challenge to honor the 100th anniversary of the end of the Global War on Terror (GWOT). The mission is to complete 100 miles in a month, promoting physical health and awareness of veteran issues. Participants can walk, run, or bike, and are encouraged to share their progress on social media using the hashtag #GWOT100.
+Veterans and supporters are participating in the "GWOT 100" initiative, a challenge to honor the 100th anniversary of the end of the Global War on Terror (GWOT). The mission is to complete 100 miles in a month, promoting physical health and awareness of veteran issues. Participants can walk, run, or bike and are encouraged to share their progress on social media using the hashtag #GWOT100.
 
 The initiative aims to foster community engagement and support for veterans while commemorating their sacrifices. Registration is open to everyone, emphasizing inclusivity. As participants log their miles, they not only enhance their physical fitness but also raise awareness about the challenges faced by veterans and the importance of mental health.
 

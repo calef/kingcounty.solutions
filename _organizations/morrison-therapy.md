@@ -11,4 +11,4 @@ type: Agency
 website: https://morrisontherapy.com/
 ---
 
-Morrison Therapy offers individual adult therapy, consultation, and Focusing sessions to help clients heal emotional wounds and achieve personal growth. Utilizing a body-centered approach, clients learn to listen to their inner experiences, fostering empathy and compassion for their struggles.
+Morrison Therapy offers individual adult therapy, consultation, and focusing sessions to help clients heal emotional wounds and achieve personal growth. Utilizing a body-centered approach, clients learn to listen to their inner experiences, fostering empathy and compassion for their struggles.

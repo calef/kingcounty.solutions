@@ -43,4 +43,4 @@ topics:
 - Transportation & Mobility
 ---
 
-Join CarePoint for the Healthcare on the Move Annual Benefit on August 21. This event promises an evening filled with food, drinks, live music, and celebration. Attendees will have the opportunity to tour CarePoint's mobile unit, learn about the organization's mission, and see how they are making a positive impact in the Snoqualmie Valley. The event aims to foster community support and engagement. Tickets are available for those interested in participating in this meaningful occasion.
+Join CarePoint for the Healthcare on the Move Annual Benefit on Aug. 21. This event promises an evening filled with food, drinks, live music, and celebration. Attendees will have the opportunity to tour CarePoint's mobile unit, learn about the organization's mission, and see how it is making a positive impact in the Snoqualmie Valley. The event aims to foster community support and engagement. Tickets are available for those interested in participating in this meaningful occasion.

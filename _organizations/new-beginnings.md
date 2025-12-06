@@ -13,4 +13,4 @@ type: Community-Based Organization
 website: https://newbegin.org
 ---
 
-New Beginnings empowers survivors of domestic violence and raises community awareness to end abuse. They provide a 24-hour helpline, one-on-one support, safety planning, and resources for housing and legal assistance.
+New Beginnings empowers survivors of domestic violence and raises community awareness to end abuse. It provides a 24-hour helpline, one-on-one support, safety planning, and resources for housing and legal assistance.

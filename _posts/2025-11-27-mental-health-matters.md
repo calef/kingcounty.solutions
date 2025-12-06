@@ -79,8 +79,8 @@ topics:
 - Mental Health & Counseling
 ---
 
-Mental health is a significant concern for Veterans, with many experiencing challenges related to depression, anxiety, and PTSD. The U.S. Department of Veterans Affairs (VA) emphasizes the importance of mental health awareness and encourages Veterans to seek help when needed. The VA provides various resources, including counseling, therapy, and support groups, to assist Veterans in managing their mental well-being. 
+Mental health is a significant concern for veterans, with many experiencing challenges related to depression, anxiety, and PTSD. The U.S. Department of Veterans Affairs (VA) emphasizes the importance of mental health awareness and encourages veterans to seek help when needed. The VA provides various resources, including counseling, therapy, and support groups, to assist veterans in managing their mental well-being.
 
-In recognition of Mental Health Awareness Month, the VA highlights the importance of reducing stigma around mental health issues and promotes the message that seeking help is a sign of strength. The VA encourages individuals to reach out to friends, family, or professionals when struggling with mental health challenges. 
+In recognition of Mental Health Awareness Month, the VA highlights the importance of reducing stigma around mental health issues and promotes the message that seeking help is a sign of strength. The VA encourages individuals to reach out to friends, family, or professionals when struggling with mental health challenges.
 
-Veterans are urged to take advantage of available services, including the Veterans Crisis Line, which offers support 24/7. The VA also focuses on community engagement and outreach efforts to ensure Veterans are aware of the resources at their disposal. By fostering an environment of support and understanding, the VA aims to improve mental health outcomes for Veterans and their families.
+Veterans are urged to take advantage of available services, including the Veterans Crisis Line, which offers support 24/7. The VA also focuses on community engagement and outreach efforts to ensure veterans are aware of the resources at their disposal. By fostering an environment of support and understanding, the VA aims to improve mental health outcomes for veterans and their families.

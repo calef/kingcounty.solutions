@@ -11,4 +11,4 @@ type: Community-Based Organization
 website: https://www.wslc.org/services/
 ---
 
-The Washington State Labor Council, AFL-CIO advocates for workers' rights and living standards through legislative advocacy, political action, and workforce development. They support union organizations with training and resources to empower workers and promote racial and gender justice.
+The Washington State Labor Council, AFL-CIO, advocates for workers' rights and living standards through legislative advocacy, political action, and workforce development. It supports union organizations with training and resources to empower workers and promote racial and gender justice.

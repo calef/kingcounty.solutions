@@ -11,4 +11,4 @@ topics:
 - Food & Nutrition
 ---
 
-The Burien Farmers Market, located at Burien Town Square Park, operates year-round every Thursday. The market is open from 10 a.m. to 4 p.m. from November to April, and from 10 a.m. to 6 p.m. from May to October. It only closes for two weeks at the end of the year. The market provides a platform for farmers and food processors to sell their products directly to the public. It also maintains a presence on Facebook and Instagram.
+The Burien Farmers Market, located at Burien Town Square Park, operates year-round every Thursday. The market is open from 10 a.m. to 4 p.m. from November to April and from 10 a.m. to 6 p.m. from May to October. It closes for two weeks at the end of the year. The market provides a platform for farmers and food processors to sell their products directly to the public. It also maintains a presence on Facebook and Instagram.

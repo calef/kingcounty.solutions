@@ -12,4 +12,4 @@ type: Community-Based Organization
 website: https://www.bgcbellevue.org/
 ---
 
-The Boys & Girls Clubs of Bellevue provides a safe and positive environment for youth aged 11-19, offering programs in academics, athletics, arts, and technology. With dedicated staff, they focus on youth development and academic achievement through initiatives like BE GREAT: Graduate.
+The Boys & Girls Clubs of Bellevue provides a safe and positive environment for youth ages 11 to 19, offering programs in academics, athletics, arts, and technology. With dedicated staff, the organization focuses on youth development and academic achievement through initiatives like BE GREAT: Graduate.

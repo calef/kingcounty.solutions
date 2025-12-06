@@ -15,4 +15,4 @@ type: Community-Based Organization
 website: https://genesisnow.org
 ---
 
-The Genesis Project is a non-profit organization dedicated to helping survivors of sex trafficking and commercial sexual exploitation. We provide immediate shelter, education, job skills training, and long-term housing resources, all aimed at restoring hope and facilitating recovery for young women and girls.
+The Genesis Project is a nonprofit organization dedicated to helping survivors of sex trafficking and commercial sexual exploitation. We provide immediate shelter, education, job skills training, and long-term housing resources, all aimed at restoring hope and facilitating recovery for young women and girls.

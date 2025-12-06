@@ -16,4 +16,4 @@ title: Closed Veterans Day
 topics: []
 ---
 
-Husky Health Center will be closed on Tuesday, November 11th, in observance of Veterans Day. Normal business hours will resume on Wednesday, November 12th.
+Husky Health Center will be closed on Tuesday, Nov. 11, in observance of Veterans Day. Normal business hours will resume on Wednesday, Nov. 12.

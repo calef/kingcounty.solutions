@@ -103,10 +103,10 @@ topics:
 - Disabilities
 ---
 
-VA research is advancing in various critical health areas, focusing on lung cancer, Alzheimer's disease, and maternity care. A recent study highlights the effectiveness of a new lung cancer screening protocol that utilizes low-dose CT scans, significantly improving early detection rates among Veterans. This approach aims to reduce lung cancer mortality through timely intervention.
+VA research is advancing in various critical health areas, focusing on lung cancer, Alzheimer’s disease, and maternity care. A recent study highlights the effectiveness of a new lung cancer screening protocol that utilizes low-dose CT scans, significantly improving early detection rates among veterans. This approach aims to reduce lung cancer mortality through timely intervention.
 
-In Alzheimer's research, the VA is exploring the connection between traumatic brain injury (TBI) and an increased risk of developing Alzheimer's disease. Findings suggest that Veterans who have experienced TBI may face heightened vulnerability to cognitive decline, prompting further investigation into preventative strategies and treatments.
+In Alzheimer’s research, the VA is exploring the connection between traumatic brain injury (TBI) and an increased risk of developing Alzheimer’s disease. Findings suggest that veterans who have experienced TBI may face heightened vulnerability to cognitive decline, prompting further investigation into preventive strategies and treatments.
 
-Additionally, the VA is enhancing maternity care for Veterans by implementing comprehensive programs to support expectant mothers. These initiatives include improved access to prenatal care, mental health support, and resources tailored to the unique needs of Veterans, ensuring a healthier pregnancy experience.
+Additionally, the VA is enhancing maternity care for veterans by implementing comprehensive programs to support expectant mothers. These initiatives include improved access to prenatal care, mental health support, and resources tailored to the unique needs of veterans, ensuring a healthier pregnancy experience.
 
-Overall, VA research is committed to improving health outcomes for Veterans by addressing significant challenges in oncology, neurology, and reproductive health, ultimately leading to better quality of life and healthcare services.
+Overall, VA research is committed to improving health outcomes for veterans by addressing significant challenges in oncology, neurology, and reproductive health, ultimately leading to better quality of life and healthcare services.

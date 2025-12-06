@@ -59,4 +59,4 @@ title: Warehouse sale
 topics: []
 ---
 
-Join us for a Warehouse Sale at Bike Works on February 7, 2026, from 1:00 PM to 4:00 PM. Located at 3715 S Hudson St #111 in Seattle, this event is your chance to discover great deals on donated bikes, parts, and more. Expect to find a variety of perfectly fine bikes that need new homes, as well as other cycling gear. Bring a wagon and some gloves to help us keep the Seattle Bicycle Ecosystem thriving by giving these bikes a second chance. Don’t miss out on this opportunity to support local cycling while scoring some fantastic finds!
+Join us for a warehouse sale at Bike Works on Feb. 7, 2026, from 1 to 4 p.m. Located at 3715 S. Hudson St. #111 in Seattle, this event is your chance to discover great deals on donated bikes, parts, and more. Expect to find a variety of perfectly fine bikes that need new homes, as well as other cycling gear. Bring a wagon and some gloves to help us keep the Seattle bicycle ecosystem thriving by giving these bikes a second chance. Don’t miss out on this opportunity to support local cycling while scoring some fantastic finds!

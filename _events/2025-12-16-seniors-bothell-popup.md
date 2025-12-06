@@ -65,4 +65,4 @@ topics:
 - Senior Services
 ---
 
-Join us for the SENIORS Bothell Popup on December 16, 2025, from 10:30 AM to 2:00 PM in Bothell, WA. This engaging event offers a welcoming space for seniors to connect, socialize, and participate in various activities designed to promote wellness and community engagement. Attendees can enjoy informative sessions, fun games, and opportunities to meet new friends while discovering resources available to them. Don’t miss this chance to enrich your day and foster connections within the community!
+Join us for the SENIORS Bothell Popup on Dec. 16, 2025, from 10:30 a.m. to 2 p.m. in Bothell, Washington. This engaging event offers a welcoming space for seniors to connect, socialize, and participate in various activities designed to promote wellness and community engagement. Attendees can enjoy informative sessions, fun games, and opportunities to meet new friends while discovering resources available to them. Don’t miss this chance to enrich your day and foster connections within the community!

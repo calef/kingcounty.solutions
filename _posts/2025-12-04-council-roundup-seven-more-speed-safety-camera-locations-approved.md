@@ -139,7 +139,7 @@ topics:
 - Shelter & Housing
 ---
 
-The Bellevue City Council held a meeting on December 4, 2023, addressing various community issues. The council received an update on the city's 2024 budget, which focuses on enhancing public safety and supporting affordable housing initiatives.
+The Bellevue City Council held a meeting on Dec. 4, 2023, addressing various community issues. The council received an update on the city's 2024 budget, which focuses on enhancing public safety and supporting affordable housing initiatives.
 
 Public engagement was highlighted, with several citizens sharing their thoughts on the proposed budget and its impact on local services. The council also reviewed a plan for improving the city’s parks and recreational facilities, emphasizing the need for increased funding and community involvement in these projects.
 

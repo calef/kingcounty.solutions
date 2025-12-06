@@ -129,4 +129,4 @@ topics:
 - Education & Learning
 ---
 
-Join us for Family Night in Wenatchee on December 9, 2025, starting at 6:00 PM at the Castle Rock Early Childhood Learning Center, located at 312 1st Ave SW, Castle Rock, WA. This engaging event is designed for families and offers a variety of fun activities, including games, crafts, and interactive learning experiences for children of all ages. It's a great opportunity to connect with other families in the community, enjoy quality time together, and create lasting memories. Don't miss this chance to experience a night filled with laughter and creativity!
+Join us for Family Night in Wenatchee on Dec. 9, 2025, starting at 6 p.m. at the Castle Rock Early Childhood Learning Center, located at 312 1st Ave. SW, Castle Rock, Wash. This engaging event is designed for families and offers a variety of fun activities, including games, crafts, and interactive learning experiences for children of all ages. It's a great opportunity to connect with other families in the community, enjoy quality time together, and create lasting memories. Don't miss this chance to experience a night filled with laughter and creativity!

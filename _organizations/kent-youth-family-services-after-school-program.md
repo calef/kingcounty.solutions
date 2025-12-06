@@ -13,4 +13,4 @@ type: Program
 website: https://kyfs.org/after-school/
 ---
 
-KYFS offers a range of social services and educational programs for youth aged 5 to 19, focusing on academic enrichment, social emotional development, and life skills. The program provides safe activities during after-school and summer hours, collaborating with community partners to enhance youth development.
+KYFS offers a range of social services and educational programs for youth ages 5 to 19, focusing on academic enrichment, social-emotional development, and life skills. The program provides safe activities during after-school and summer hours, collaborating with community partners to enhance youth development.

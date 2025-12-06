@@ -71,4 +71,4 @@ topics:
 - Senior Services
 ---
 
-Join us for the SENIORS Bellevue Popup on December 18 from 10:00 AM to 2:30 PM at the North Bellevue Community Center, located at 4063 148th Ave NE, Bellevue, WA. This engaging event offers seniors a chance to connect with the community, participate in fun activities, and access valuable resources. Attendees can enjoy socializing, learning about local services, and discovering opportunities for engagement. Don't miss this wonderful opportunity to meet new friends and enrich your community experience!
+Join us for the Seniors Bellevue Popup on Dec. 18 from 10 a.m. to 2:30 p.m. at the North Bellevue Community Center, located at 4063 148th Ave. NE, Bellevue, WA. This engaging event offers seniors a chance to connect with the community, participate in fun activities, and access valuable resources. Attendees can enjoy socializing, learning about local services, and discovering opportunities for engagement. Don't miss this wonderful opportunity to meet new friends and enrich your community experience!

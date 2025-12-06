@@ -35,4 +35,4 @@ title: Thanksgiving closure
 topics: []
 ---
 
-The Center for Active Living will be closed for the Thanksgiving holiday on the following dates: Wednesday, November 26, with an early closure at 3:30 p.m., and from Thursday, November 27 to Friday, November 28. The staff wishes everyone a happy Thanksgiving.
+The Center for Active Living will be closed for the Thanksgiving holiday on the following dates: Wednesday, Nov. 26, with an early closure at 3:30 p.m., and from Thursday, Nov. 27, to Friday, Nov. 28. The staff wishes everyone a happy Thanksgiving.

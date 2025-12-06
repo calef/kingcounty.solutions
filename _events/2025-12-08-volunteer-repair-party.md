@@ -59,4 +59,4 @@ title: Volunteer Repair Party
 topics: []
 ---
 
-Join us for a Volunteer Repair Party on December 8, 2025, from 6:00 PM to 9:00 PM at the Bike Works Warehouse located at 3715 S Hudson St #111, Seattle, Washington. This event is designed for adults aged 18 and up, where you can learn basic bike repair skills while helping others in the community. No prior experience is required, making it a perfect opportunity for beginners to get involved with Bike Works. Each participant must complete an application and orientation process before attending. Come ready to lend a hand and make a difference!
+Join us for a Volunteer Repair Party on Dec. 8, 2025, from 6 to 9 p.m. at the Bike Works Warehouse, located at 3715 S. Hudson St. #111, Seattle, Washington. This event is designed for adults aged 18 and older, where you can learn basic bike repair skills while helping others in the community. No prior experience is required, making it a perfect opportunity for beginners to get involved with Bike Works. Each participant must complete an application and orientation process before attending. Come ready to lend a hand and make a difference!

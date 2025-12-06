@@ -186,4 +186,4 @@ topics:
 - Senior Services
 ---
 
-Join us for Gentle Chair Yoga on December 15, 2025, from 10:00 AM to 11:00 AM at The Center for Active Living, located at 4217 SW Oregon St. in Seattle. Led by certified yoga instructor Nadine Blinn, this class offers a relaxing experience featuring chair and standing poses—no floor sitting required. Attendees can expect to improve their breathing, flexibility, balance, and overall mood in a supportive environment. Poses will be adapted to accommodate individual abilities and limitations, making it accessible for everyone. Come unwind and rejuvenate with us!
+Join us for Gentle Chair Yoga on Dec. 15, 2025, from 10 to 11 a.m. at The Center for Active Living, located at 4217 SW Oregon St. in Seattle. Led by certified yoga instructor Nadine Blinn, this class offers a relaxing experience featuring chair and standing poses—no floor sitting required. Attendees can expect to improve their breathing, flexibility, balance, and overall mood in a supportive environment. Poses will be adapted to accommodate individual abilities and limitations, making it accessible for everyone. Come unwind and rejuvenate with us!

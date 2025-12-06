@@ -25,4 +25,6 @@ topics:
 - Mental Health & Counseling
 ---
 
-This content is password protected. To view it please enter your password below: Password: Protected: Down Syndrome-Connect Research Study Roundup.
+This content is password protected. To view it, please enter your password below: 
+
+Password: Protected: Down Syndrome-Connect Research Study Roundup.

@@ -14,4 +14,4 @@ title: City Offices Closed for Native American Heritage Day
 topics: []
 ---
 
-The event is scheduled for Friday, November 28, 2025, and will take place all day.
+The event is scheduled for Friday, Nov. 28, 2025, and will take place all day.

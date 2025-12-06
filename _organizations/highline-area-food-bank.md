@@ -12,4 +12,4 @@ type: Community-Based Organization
 website: https://highlineareafoodbank.org/
 ---
 
-The Highline Area Food Bank is a non-profit organization dedicated to gathering and distributing food to those in need in the Burien and greater Highline area. We operate on specific distribution hours and welcome donations to support our mission.
+The Highline Area Food Bank is a nonprofit organization dedicated to gathering and distributing food to those in need in Burien and the greater Highline area. We operate during specific distribution hours and welcome donations to support our mission.

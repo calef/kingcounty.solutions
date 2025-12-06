@@ -13,4 +13,4 @@ type: Program
 website: https://www.issaquahwa.gov/3022/Senior-Program
 ---
 
-The Senior Program in Issaquah offers financial assistance to qualifying low-income senior residents, providing a 75% discount on water, sewer, and solid waste bills. Eligibility requires at least one household member to be 62 or older and meet income criteria.
+The Senior Program in Issaquah offers financial assistance to qualifying low-income senior residents, providing a 75% discount on water, sewer, and solid waste bills. Eligibility requires at least one household member to be 62 or older and to meet income criteria.

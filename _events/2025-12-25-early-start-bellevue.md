@@ -71,4 +71,4 @@ title: EARLY START Bellevue
 topics: []
 ---
 
-Join us for EARLY START Bellevue on December 25, 2025, from 10:00 AM to 3:00 PM at the North Bellevue Community Center, located at 4063 148th Ave NE, Bellevue, WA. This festive event offers a wonderful opportunity for families and community members to gather and celebrate the holiday spirit. Attendees can enjoy various activities, including games, crafts, and seasonal treats, making it a perfect outing for all ages. Come and connect with your neighbors while creating lasting memories this holiday season!
+Join us for Early Start Bellevue on Dec. 25, 2025, from 10 a.m. to 3 p.m. at the North Bellevue Community Center, located at 4063 148th Ave. NE, Bellevue, WA. This festive event offers a wonderful opportunity for families and community members to gather and celebrate the holiday spirit. Attendees can enjoy various activities, including games, crafts, and seasonal treats, making it a perfect outing for all ages. Come and connect with your neighbors while creating lasting memories this holiday season!

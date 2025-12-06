@@ -19,4 +19,4 @@ title: Holiday Lights Outing, Dec. 23, 2025
 topics: []
 ---
 
-Join the Holiday Lights Outing on December 23, 2025, for a festive drive around Candy Cane Lane. Participants will meet at WCSC to enjoy cookies and hot chocolate before boarding the van to see the renowned holiday light displays. The cost is $2 for members and $4 for non-members.
+Join the Holiday Lights Outing on Dec. 23, 2025, for a festive drive around Candy Cane Lane. Participants will meet at the Wallingford Community Senior Center to enjoy cookies and hot chocolate before boarding the van to see the renowned holiday light displays. The cost is $2 for members and $4 for nonmembers.

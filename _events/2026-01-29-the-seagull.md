@@ -128,4 +128,4 @@ title: The Seagull
 topics: []
 ---
 
-Experience a captivating performance of Anton Chekhov's classic play, "The Seagull," at the Floyd and Delores Jones Playhouse Theater. This timeless story explores the complexities of love, art, and human relationships, promising an evening of thought-provoking drama. Join us on January 29, 2026, at 7:30 PM for an immersive theatrical experience that will leave you reflecting on its themes long after the curtain falls. Don't miss this opportunity to witness a powerful interpretation of a literary masterpiece in an intimate setting.
+Experience a captivating performance of Anton Chekhov's classic play, "The Seagull," at the Floyd and Delores Jones Playhouse Theater. This timeless story explores the complexities of love, art, and human relationships, promising an evening of thought-provoking drama. Join us on Jan. 29, 2026, at 7:30 p.m. for an immersive theatrical experience that will leave you reflecting on its themes long after the curtain falls. Don't miss this opportunity to witness a powerful interpretation of a literary masterpiece in an intimate setting.

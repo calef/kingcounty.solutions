@@ -12,4 +12,4 @@ type: Community-Based Organization
 website: https://www.overlakehospital.org/locations/overlake-clinics-primary-care-bellevue-lake-hills
 ---
 
-Overlake Clinics - Lake Hills Primary Care offers comprehensive primary care services, including internal and family medicine. They provide same-day and next-day appointments, virtual visits, and on-site laboratories and X-ray services. Their patient portal, MyChart, allows for easy appointment scheduling and access to medical records.
+Overlake Clinics - Lake Hills Primary Care offers comprehensive primary care services, including internal and family medicine. It provides same-day and next-day appointments, virtual visits, and on-site laboratories and X-ray services. Its patient portal, MyChart, allows for easy appointment scheduling and access to medical records.

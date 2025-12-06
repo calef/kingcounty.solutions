@@ -87,4 +87,4 @@ topics:
 - Personal & Household Needs
 ---
 
-Join us for a festive Breakfast with Santa on December 20th from 9:00 a.m. to 10:30 a.m. at Tutta Bella Pizzeria, located at 715 NW Gilman Blvd in Issaquah, WA. Enjoy a delicious breakfast while meeting Santa and spreading holiday cheer. This special event benefits KidVantage, so attendees are encouraged to bring a new toy for a child in need. Tickets are priced at $15 for adults and $12 for children. Don’t miss this wonderful opportunity to create lasting memories with family and friends while giving back to the community!
+Join us for a festive Breakfast with Santa on Dec. 20 from 9 to 10:30 a.m. at Tutta Bella Pizzeria, located at 715 NW Gilman Blvd. in Issaquah, Washington. Enjoy a delicious breakfast while meeting Santa and spreading holiday cheer. This special event benefits KidVantage, so attendees are encouraged to bring a new toy for a child in need. Tickets are priced at $15 for adults and $12 for children. Don’t miss this wonderful opportunity to create lasting memories with family and friends while giving back to the community!

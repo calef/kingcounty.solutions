@@ -41,4 +41,4 @@ title: HPC Office Hours - Virtual
 topics: []
 ---
 
-Join us for the HPC Office Hours - Virtual on December 10, 2025, at 2:00 PM PST. This event offers a unique opportunity for attendees to engage with experts in High-Performance Computing. Participants can ask questions, seek advice on projects, and gain insights into HPC resources and best practices. Whether you are a beginner or an experienced user, this session is designed to support your computing needs and enhance your understanding of HPC tools. Don't miss this chance to connect and collaborate in a supportive environment.
+Join us for the HPC Office Hours - Virtual on Dec. 10, 2025, at 2 p.m. PST. This event offers a unique opportunity for attendees to engage with experts in high-performance computing. Participants can ask questions, seek advice on projects, and gain insights into HPC resources and best practices. Whether you are a beginner or an experienced user, this session is designed to support your computing needs and enhance your understanding of HPC tools. Don't miss this chance to connect and collaborate in a supportive environment.

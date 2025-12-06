@@ -105,4 +105,4 @@ topics:
 - Health Care
 ---
 
-Join us for the Open Healthcare Enrollment event starting on December 14, 2025, and running until January 15, 2026. This virtual event offers attendees the opportunity to explore and enroll in health and dental plans that cater to their needs for the upcoming year. With assistance available in over 200 languages, the WA Health Plan Finder can help you navigate your options, including free or low-cost coverage through Apple Health (Medicaid) for those who qualify. Don’t miss this chance to secure your health insurance for 2026; apply before the enrollment period ends!
+Join us for the Open Healthcare Enrollment event starting Dec. 14, 2025, and running until Jan. 15, 2026. This virtual event offers attendees the opportunity to explore and enroll in health and dental plans that cater to their needs for the upcoming year. With assistance available in more than 200 languages, the WA Health Plan Finder can help you navigate your options, including free or low-cost coverage through Apple Health (Medicaid) for those who qualify. Don’t miss this chance to secure your health insurance for 2026; apply before the enrollment period ends!

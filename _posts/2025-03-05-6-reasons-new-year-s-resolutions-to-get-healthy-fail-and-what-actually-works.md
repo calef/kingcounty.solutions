@@ -264,18 +264,18 @@ topics:
 - Food & Nutrition
 ---
 
-Every year, many people set New Year's resolutions to get healthier, but most give up by February. The failure often stems from common pitfalls rather than a lack of willpower. Here are six reasons resolutions fail and effective strategies to achieve lasting progress:
+Every year, many people set New Year’s resolutions to get healthier, but most give up by February. The failure often stems from common pitfalls rather than a lack of willpower. Here are six reasons resolutions fail and effective strategies to achieve lasting progress:
 
-1. **No Clear Plan**: Focus on process-based goals instead of outcome-based ones. Set specific, measurable daily actions.
+1. **No clear plan**: Focus on process-based goals instead of outcome-based ones. Set specific, measurable daily actions.
 
-2. **No Support System**: Accountability increases success. Find partners or groups that share similar goals and create a supportive environment.
+2. **No support system**: Accountability increases success. Find partners or groups that share similar goals and create a supportive environment.
 
-3. **Expecting Quick Results**: Transformation takes time. Understand factors like metabolism, stress, and hydration that affect weight loss and maintain motivation.
+3. **Expecting quick results**: Transformation takes time. Understand factors like metabolism, stress, and hydration that affect weight loss and maintain motivation.
 
-4. **Focusing on Just One Thing**: Health requires a holistic approach. Balance improvements in nutrition, exercise, sleep, and stress management.
+4. **Focusing on just one thing**: Health requires a holistic approach. Balance improvements in nutrition, exercise, sleep, and stress management.
 
-5. **No Backup Plan**: Life can disrupt routines. Prepare backup plans for missed workouts or meal prep to stay on track.
+5. **No backup plan**: Life can disrupt routines. Prepare backup plans for missed workouts or meal prep to stay on track.
 
-6. **Not Tracking Progress or Adjusting**: Regularly reflect on what’s working and adjust your approach. Focus on consistent habits rather than just results.
+6. **Not tracking progress or adjusting**: Regularly reflect on what’s working and adjust your approach. Focus on consistent habits rather than just results.
 
 Success in health is about building sustainable habits and adapting strategies, not merely relying on willpower.

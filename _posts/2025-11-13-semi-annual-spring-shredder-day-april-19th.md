@@ -14,4 +14,4 @@ title: Semi-Annual Spring Shredder Day - April 19th
 topics: []
 ---
 
-The Medina Police Department is hosting a semi-annual Spring Shredder Day on April 19th, from 9 AM to 12 noon. The event will take place at the Medina Park parking lot on NE 12th St.
+The Medina Police Department is hosting a semiannual Spring Shredder Day on April 19 from 9 a.m. to noon. The event will take place at the Medina Park parking lot on Northeast 12th Street.

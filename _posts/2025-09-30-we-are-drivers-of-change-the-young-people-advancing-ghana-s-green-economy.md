@@ -17,10 +17,10 @@ topics:
 - Food & Nutrition
 ---
 
-Young people in Ghana are taking charge of the green economy, driven by the government's National Green Jobs Strategy (2021-2025) aimed at creating job opportunities in sustainable industries. A collaborative research project by CAMFED and the Institute of Statistical, Social and Economic Research highlights the inspiring stories of young entrepreneurs in waste segregation, animal husbandry, and plastic recycling.
+Young people in Ghana are taking charge of the green economy, driven by the government's National Green Jobs Strategy (2021-2025), which aims to create job opportunities in sustainable industries. A collaborative research project by CAMFED and the Institute of Statistical, Social and Economic Research highlights the inspiring stories of young entrepreneurs in waste segregation, animal husbandry, and plastic recycling.
 
-Caroline, an Environmental Science student, launched a waste segregation initiative on her university campus, motivated by the link between waste and disease. Despite challenges like misuse of waste receptacles and funding issues, she aims to partner with recycling facilities to expand her project.
+Caroline, an environmental science student, launched a waste segregation initiative on her university campus, motivated by the link between waste and disease. Despite challenges such as misuse of waste receptacles and funding issues, she aims to partner with recycling facilities to expand her project.
 
-Hannah, a Sociology graduate, established a poultry and piggery business to tackle food security and promote sustainable farming. She emphasizes the importance of mentorship and innovation to overcome challenges and aspires to create a training center for aspiring farmers.
+Hannah, a sociology graduate, established a poultry and piggery business to tackle food security and promote sustainable farming. She emphasizes the importance of mentorship and innovation to overcome challenges and aspires to create a training center for aspiring farmers.
 
-Jolly, who transitioned from a Human Resources role to founding a plastic recycling business, faces hurdles like transportation and competition. She has grown her venture to employ 13 people and aims to expand significantly, focusing on community empowerment and environmental sustainability. Together, these entrepreneurs exemplify resilience and commitment to a greener future in Ghana.
+Jolly, who transitioned from a human resources role to founding a plastic recycling business, faces hurdles such as transportation and competition. She has grown her venture to employ 13 people and aims to expand significantly, focusing on community empowerment and environmental sustainability. Together, these entrepreneurs exemplify resilience and commitment to a greener future in Ghana.

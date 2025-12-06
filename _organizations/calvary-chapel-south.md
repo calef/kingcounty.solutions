@@ -12,4 +12,4 @@ type: Faith-Based Organization
 website: https://ccskent.org
 ---
 
-Calvary Chapel South is a community-based Christian church in Kent, WA, offering services every Sunday and Wednesday. The church focuses on worship, Bible study, and community outreach, fostering a family-like atmosphere for all ages.
+Calvary Chapel South is a community-based Christian church in Kent, Washington, offering services every Sunday and Wednesday. The church focuses on worship, Bible study, and community outreach, fostering a family-like atmosphere for all ages.

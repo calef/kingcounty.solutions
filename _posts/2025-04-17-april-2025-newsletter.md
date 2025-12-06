@@ -35,4 +35,4 @@ title: April 2025 Newsletter
 topics: []
 ---
 
-Spring has arrived, bringing with it the April 2025 newsletter. The newsletter is authored by Desiree Swanson and highlights various updates and events. One key announcement is the CarePoint Blood Drive scheduled for June 4th. The newsletter serves to keep the community informed about ongoing initiatives and upcoming activities.
+Spring has arrived, bringing with it the April 2025 newsletter. The newsletter is authored by Desiree Swanson and highlights various updates and events. One key announcement is the CarePoint Blood Drive scheduled for June 4. The newsletter serves to keep the community informed about ongoing initiatives and upcoming activities.

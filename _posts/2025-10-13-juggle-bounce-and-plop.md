@@ -33,4 +33,6 @@ topics:
 - Education & Learning
 ---
 
-Juggling classes are returning, offering an opportunity to enhance coordination, range of motion, and upper body strength in a fun and social environment. The class includes various juggling exercises focusing on bouncing, tossing, and catching balls, suitable for both groups and individuals. No prior juggling experience is necessary, and participants can choose to join seated or standing. Classes are held on Tuesdays from 10:30 am to 11:30 am, starting from November 18 to December 16, in the Exercise Room. The instructor for the course is Randy Engel. The cost for members is $15, while non-members are charged $25. Interested individuals can register by calling the Reception Desk.
+Juggling classes are returning, offering an opportunity to enhance coordination, range of motion, and upper body strength in a fun and social environment. The class includes various juggling exercises focusing on bouncing, tossing, and catching balls, suitable for both groups and individuals. No prior juggling experience is necessary, and participants can choose to join seated or standing. 
+
+Classes are held on Tuesdays from 10:30 a.m. to 11:30 a.m., starting Nov. 18 and running through Dec. 16, in the Exercise Room. The instructor for the course is Randy Engel. The cost for members is $15, while nonmembers are charged $25. Interested individuals can register by calling the reception desk.

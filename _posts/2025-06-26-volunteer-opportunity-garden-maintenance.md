@@ -13,4 +13,4 @@ topics:
 - Food & Nutrition
 ---
 
-Volunteers are needed for garden maintenance at Howard House Home, offering an opportunity to give back while enjoying the outdoors. Interested individuals can contact Meggan, the InKind and Volunteer Coordinator, by calling or texting 425.754.1786 for more information. Contributions, whether through gardening, delivering meals, or donating gift cards, are greatly appreciated and have a significant impact on the community. Every act of kindness counts, and the community is thankful for the support.
+Volunteers are needed for garden maintenance at Howard House Home, offering an opportunity to give back while enjoying the outdoors. Interested individuals can contact Meggan, the In-Kind and Volunteer Coordinator, by calling or texting 425-754-1786 for more information. Contributions, whether through gardening, delivering meals, or donating gift cards, are greatly appreciated and have a significant impact on the community. Every act of kindness counts, and the community is thankful for the support.

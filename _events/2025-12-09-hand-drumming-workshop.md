@@ -187,4 +187,4 @@ title: Hand Drumming Workshop
 topics: []
 ---
 
-Join us for a Hand Drumming Workshop on December 9, 2025, from 2:30 PM to 4:00 PM at The Center for Active Living, located at 4217 SW Oregon St., Seattle, WA. Led by Kenny Mandell, this engaging workshop offers a chance to explore relaxation, energy, and well-being through rhythm. No prior experience is required, making it accessible for everyone. Drums and rattles will be provided, but feel free to bring your own if you have them. Come and discover the joy of hand drumming in a supportive community environment!
+Join us for a hand drumming workshop on Dec. 9, 2025, from 2:30 to 4 p.m. at The Center for Active Living, located at 4217 SW Oregon St., Seattle, WA. Led by Kenny Mandell, this engaging workshop offers a chance to explore relaxation, energy, and well-being through rhythm. No prior experience is required, making it accessible for everyone. Drums and rattles will be provided, but feel free to bring your own if you have them. Come and discover the joy of hand drumming in a supportive community environment!

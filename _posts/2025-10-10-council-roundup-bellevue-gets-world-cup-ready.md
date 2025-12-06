@@ -83,4 +83,4 @@ The Bellevue City Council discussed preparations for the upcoming World Cup, ant
 
 The council also reviewed the city’s first formal Hazard Mitigation Plan, which addresses potential natural hazards such as earthquakes, floods, and wildfires. This plan, created over two years with community input, aims to enhance preparedness and minimize risks, with an update scheduled every five years. A related disaster debris management plan was also drafted.
 
-Furthermore, the council issued proclamations recognizing Indigenous Peoples' Day, Walk and Roll to School Day, and Pregnancy and Infant Loss Awareness Month.
+Furthermore, the council issued proclamations recognizing Indigenous Peoples Day, Walk and Roll to School Day, and Pregnancy and Infant Loss Awareness Month.

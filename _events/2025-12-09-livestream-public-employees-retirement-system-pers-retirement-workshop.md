@@ -76,6 +76,6 @@ title: Livestream-Public Employees Retirement System (PERS) Retirement Workshop
 topics: []
 ---
 
-Join the Livestream-Public Employees Retirement System (PERS) Retirement Workshop on December 9, 2025, at 9:00 AM PST, held online via Zoom. This essential workshop is designed for employees participating in PERS plans 1, 2, or 3, as well as other related retirement plans. Attendees can expect to gain valuable insights into the retirement process from the University of Washington, ensuring they understand the necessary steps for a smooth transition into retirement.
+Join the Livestream-Public Employees Retirement System (PERS) Retirement Workshop on Dec. 9, 2025, at 9 a.m. PST, held online via Zoom. This essential workshop is designed for employees participating in PERS Plans 1, 2, or 3, as well as other related retirement plans. Attendees can expect to gain valuable insights into the retirement process from the University of Washington, ensuring they understand the necessary steps for a smooth transition into retirement.
 
 The workshop will be livestreamed, allowing participants to maintain confidentiality by changing their names to anonymous if desired. Spouses and partners are also welcome to join. This interactive session will help attendees prepare for retirement, covering key topics and providing resources for the UW Retirement Checklist. Don't miss this opportunity to get informed about your retirement options!

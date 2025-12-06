@@ -24,8 +24,8 @@ topics:
 - Employment & Job Support
 ---
 
-Susana Herbert is a dedicated volunteer at The Center for Active Living, where she helps individuals navigate personal electronics. A resident of West Seattle since 1966, she originally hails from Montana and has extensive teaching experience, particularly in technology. Her interest in tech began as an English teacher when she encountered early word processors, leading her to become a tech mentor who maintained school computer labs and trained others. 
+Susana Herbert is a dedicated volunteer at The Center for Active Living, where she helps individuals navigate personal electronics. A resident of West Seattle since 1966, she originally hails from Montana and has extensive teaching experience, particularly in technology. Her interest in tech began as an English teacher when she encountered early word processors, leading her to become a tech mentor who maintained school computer labs and trained others.
 
-After retiring, Susana continued her passion for technology by volunteering at The Center. She assists in the computer room and teaches a class called Traveling the Digital World, where she empowers participants to use technology confidently. Her patience and enthusiasm have made her a beloved mentor among those she helps. 
+After retiring, Susana continued her passion for technology by volunteering at The Center. She assists in the computer room and teaches a class called "Traveling the Digital World," where she empowers participants to use technology confidently. Her patience and enthusiasm have made her a beloved mentor among those she helps.
 
 Volunteering allows Susana to give back and continue her own learning journey, fueled by the interactions she has at The Center. The organization is currently seeking volunteers for various positions, including the Thrift Store and Margie’s Café, encouraging community members to get involved and support local initiatives.

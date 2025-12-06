@@ -13,4 +13,4 @@ type: Program
 website: https://www.lifelinesupport.org/get-started/
 ---
 
-Lifeline is a federal program that provides monthly discounts on phone and internet services for low-income households. Eligible consumers can receive up to $9.25 off, or $34.25 for those on Tribal lands. The program assists with application, eligibility verification, and annual recertification.
+Lifeline is a federal program that provides monthly discounts on phone and internet services for low-income households. Eligible consumers can receive up to $9.25 off, or $34.25 for those on tribal lands. The program assists with application, eligibility verification, and annual recertification.

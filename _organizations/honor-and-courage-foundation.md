@@ -12,4 +12,4 @@ type: Community-Based Organization
 website: https://www.honorandcouragefoundation.org/new-page
 ---
 
-The Honor and Courage Foundation supports Veterans and First Responders facing challenges from PTSD and physical injuries through mentorship, advocacy, and community connection. While the Special Grants Program is currently closed, the foundation remains dedicated to promoting mental health wellness and peer support.
+The Honor and Courage Foundation supports veterans and first responders facing challenges from PTSD and physical injuries through mentorship, advocacy, and community connection. While the Special Grants Program is currently closed, the foundation remains dedicated to promoting mental health wellness and peer support.

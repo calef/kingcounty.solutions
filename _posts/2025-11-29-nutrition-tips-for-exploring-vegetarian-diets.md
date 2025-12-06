@@ -85,7 +85,7 @@ title: Nutrition tips for exploring vegetarian diets
 topics: []
 ---
 
-Exploring a vegetarian diet can offer numerous health benefits, but it’s important to ensure proper nutrition. A balanced vegetarian diet should include a variety of fruits, vegetables, whole grains, legumes, nuts, and seeds. These foods provide essential nutrients such as vitamins, minerals, protein, and fiber. 
+Exploring a vegetarian diet can offer numerous health benefits, but it’s important to ensure proper nutrition. A balanced vegetarian diet should include a variety of fruits, vegetables, whole grains, legumes, nuts, and seeds. These foods provide essential nutrients such as vitamins, minerals, protein, and fiber.
 
 Vegetarians should pay special attention to nutrients that are commonly found in animal products, including protein, iron, calcium, vitamin B12, and omega-3 fatty acids. Excellent plant-based protein sources include beans, lentils, tofu, and quinoa. Iron can be obtained from spinach, beans, and fortified cereals, while pairing these with vitamin C-rich foods can enhance absorption.
 

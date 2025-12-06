@@ -14,4 +14,4 @@ title: City Offices Closed for Thanksgiving Day
 topics: []
 ---
 
-The City of Black Diamond has scheduled an event for Thursday, November 27, 2025. This event will take place all day. Further details about the event are not provided in the announcement.
+The City of Black Diamond has scheduled an event for Thursday, Nov. 27, 2025. This event will take place all day. Further details about the event are not provided in the announcement.

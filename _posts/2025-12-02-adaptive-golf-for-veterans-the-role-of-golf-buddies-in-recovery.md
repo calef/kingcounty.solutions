@@ -262,8 +262,8 @@ topics:
 - Mental Health & Counseling
 ---
 
-Adaptive golf programs are providing essential support for veterans, helping them navigate their recovery journeys. These initiatives focus on fostering camaraderie and connection through the sport of golf, allowing veterans to engage in physical activity while building friendships. Golf buddies, often fellow veterans or supportive volunteers, play a crucial role in this process. They offer companionship, encouragement, and motivation, which significantly enhances the overall experience for participants.
+Adaptive golf programs provide essential support for veterans, helping them navigate their recovery journeys. These initiatives focus on fostering camaraderie and connection through the sport of golf, allowing veterans to engage in physical activity while building friendships. Golf buddies, often fellow veterans or supportive volunteers, play a crucial role in this process. They offer companionship, encouragement, and motivation, significantly enhancing the overall experience for participants.
 
 The adaptive golf programs accommodate various physical and mental challenges, ensuring inclusivity for all veterans. This accessibility allows veterans to experience the therapeutic benefits of golf, including improved physical health, increased self-esteem, and enhanced social interaction. Many participants have reported positive changes in their mental well-being, attributing their progress to the supportive network created through these programs.
 
-Through adaptive golf, veterans are not only able to enjoy the game but also develop new skills, share their experiences, and connect with others who understand their challenges. This sense of belonging and support is vital in fostering resilience and promoting healing among veterans as they transition back into civilian life.
+Through adaptive golf, veterans can enjoy the game, develop new skills, share their experiences, and connect with others who understand their challenges. This sense of belonging and support is vital in fostering resilience and promoting healing among veterans as they transition back into civilian life.

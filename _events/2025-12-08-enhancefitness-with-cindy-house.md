@@ -79,4 +79,4 @@ topics:
 - Senior Services
 ---
 
-Join Cindy House for EnhanceFitness at the South Park Neighborhood Center on December 8 from 3:00 PM to 4:00 PM. This engaging session focuses on gentle exercises and stretches designed to improve flexibility and overall well-being. Ideal for seniors, the class promotes a friendly and supportive environment. Please note that space is limited, and reservations are required. To secure your spot, contact Andrew at 206-909-0346 or via email. Don’t miss this opportunity to enhance your fitness in a welcoming community setting!
+Join Cindy House for EnhanceFitness at the South Park Neighborhood Center on Dec. 8 from 3 to 4 p.m. This engaging session focuses on gentle exercises and stretches designed to improve flexibility and overall well-being. Ideal for seniors, the class promotes a friendly and supportive environment. Please note that space is limited, and reservations are required. To secure your spot, contact Andrew at 206-909-0346 or via email. Don’t miss this opportunity to enhance your fitness in a welcoming community setting!

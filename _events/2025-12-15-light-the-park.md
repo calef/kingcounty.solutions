@@ -95,4 +95,4 @@ title: Light the Park
 topics: []
 ---
 
-Join the Normandy Park Arts Commission on December 15, 2025, from 6:30 PM to 8:30 PM for Light the Park, a festive celebration of holiday spirit. Attendees can enjoy a beautifully illuminated park while participating in a competition for the best home light display. This event promises a delightful evening filled with community cheer, as commissioners will be on hand to present awards for the most creative decorations. Bring your family and friends to experience the magic of the season in WA!
+Join the Normandy Park Arts Commission on Dec. 15, 2025, from 6:30 to 8:30 p.m. for Light the Park, a festive celebration of holiday spirit. Attendees can enjoy a beautifully illuminated park while participating in a competition for the best home light display. This event promises a delightful evening filled with community cheer, as commissioners will be on hand to present awards for the most creative decorations. Bring your family and friends to experience the magic of the season in Washington!

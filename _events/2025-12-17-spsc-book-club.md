@@ -77,4 +77,4 @@ topics:
 - Education & Learning
 ---
 
-Join the SPSC Book Club on December 17th from 4:00 PM to 6:00 PM at the South Park Neighborhood Center, located at 8201 10th Ave S, Seattle, WA. This monthly gathering invites readers of all levels to connect, learn, and engage in meaningful discussions about inspiring books. Whether you're a casual reader or a passionate bibliophile, you'll find a welcoming community eager to share insights and spark conversations. Don't miss this opportunity to expand your literary horizons and meet fellow book enthusiasts!
+Join the SPSC Book Club on Dec. 17 from 4 to 6 p.m. at the South Park Neighborhood Center, located at 8201 10th Ave. S, Seattle, WA. This monthly gathering invites readers of all levels to connect, learn, and engage in meaningful discussions about inspiring books. Whether you're a casual reader or a passionate bibliophile, you'll find a welcoming community eager to share insights and spark conversations. Don't miss this opportunity to expand your literary horizons and meet fellow book enthusiasts!

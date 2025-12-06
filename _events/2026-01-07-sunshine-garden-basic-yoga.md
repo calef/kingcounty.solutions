@@ -126,4 +126,4 @@ title: 'Sunshine Garden: Basic Yoga'
 topics: []
 ---
 
-Join us for "Sunshine Garden: Basic Yoga" on January 7, 2026, from 10:30 to 11:30 AM at Sunshine Garden, located at 611 S Lane St, Seattle, WA. This event invites participants to learn and practice fundamental yoga techniques in a serene garden setting. Whether you're a beginner or looking to refresh your practice, you'll enjoy guided instruction and a supportive atmosphere. Come connect with nature and fellow yoga enthusiasts while enhancing your well-being. Don't miss this opportunity to unwind and rejuvenate!
+Join us for "Sunshine Garden: Basic Yoga" on Jan. 7, 2026, from 10:30 to 11:30 a.m. at Sunshine Garden, located at 611 S. Lane St., Seattle, WA. This event invites participants to learn and practice fundamental yoga techniques in a serene garden setting. Whether you're a beginner or looking to refresh your practice, you'll enjoy guided instruction and a supportive atmosphere. Come connect with nature and fellow yoga enthusiasts while enhancing your well-being. Don't miss this opportunity to unwind and rejuvenate!

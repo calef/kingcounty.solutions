@@ -12,4 +12,4 @@ type: Community-Based Organization
 website: https://www.seamar.org/king-bh-federalway.html
 ---
 
-Sea Mar Community Health Centers provides comprehensive mental health services including individual and group psychotherapy, case management, and psychiatric assessments for all ages. They accept most insurances and offer a sliding fee scale for those without insurance, ensuring accessibility for diverse communities.
+Sea Mar Community Health Centers provides comprehensive mental health services, including individual and group psychotherapy, case management, and psychiatric assessments for all ages. It accepts most insurances and offers a sliding fee scale for those without insurance, ensuring accessibility for diverse communities.

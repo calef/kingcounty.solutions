@@ -46,4 +46,4 @@ title: CarePoint Blood Drive - December 3, 2025
 topics: []
 ---
 
-Join CarePoint for a blood drive on December 3, 2025, in partnership with BloodWorks NW. This event aims to address the critically low regional blood supply, and organizers encourage community members to sign up and fill all available donation slots. The blood drive will take place at the SVA Family Life Center Gym from 9 AM to 3 PM. This initiative is intended to become a regular occurrence, emphasizing the importance of community support in replenishing the blood supply.
+Join CarePoint for a blood drive on Dec. 3, 2025, in partnership with BloodWorks NW. This event aims to address the critically low regional blood supply, and organizers encourage community members to sign up and fill all available donation slots. The blood drive will take place at the SVA Family Life Center Gym from 9 a.m. to 3 p.m. This initiative is intended to become a regular occurrence, emphasizing the importance of community support in replenishing the blood supply.

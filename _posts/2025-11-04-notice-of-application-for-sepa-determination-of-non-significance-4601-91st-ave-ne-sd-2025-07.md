@@ -11,4 +11,4 @@ title: 'NOTICE OF APPLICATION FOR SEPA DETERMINATION OF NON-SIGNIFICANCE: 4601 9
 topics: []
 ---
 
-The Town of Yarrow Point has issued a notice of application for a State Environmental Policy Act (SEPA) determination of non-significance for the property at 4601 91st Ave NE (reference SD-2025-07). The notice, posted on November 4, 2025, doesn't provide specific details about the project or its potential environmental impact. The town also announced a Town Council special meeting and public hearing for the 2026 final budget on November 12, 2025, and a regular meeting of the Town Park Commission on October 28, 2025.
+The Town of Yarrow Point has issued a notice of application for a State Environmental Policy Act (SEPA) determination of non-significance for the property at 4601 91st Ave. NE (reference SD-2025-07). The notice, posted on Nov. 4, 2025, does not provide specific details about the project or its potential environmental impact. The town also announced a Town Council special meeting and public hearing for the 2026 final budget on Nov. 12, 2025, and a regular meeting of the Town Park Commission on Oct. 28, 2025.

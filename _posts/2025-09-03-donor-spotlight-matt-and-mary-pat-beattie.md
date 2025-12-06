@@ -52,7 +52,7 @@ topics:
 - Mental Health & Counseling
 ---
 
-Matt and Mary-Pat Beattie have a personal connection to Youth Eastside Services (YES), stemming from their son Jack's journey with substance use and mental health challenges. Initially referred for counseling at 13, Jack developed a trusting relationship with his counselor and found a supportive community at YES. After being diagnosed with bipolar disorder at 19, he continued to seek help but tragically passed away from an accidental overdose at 20, amid rising fentanyl-related fatalities.
+Matt and Mary-Pat Beattie have a personal connection to Youth Eastside Services (YES), stemming from their son Jack's journey with substance use and mental health challenges. Initially referred for counseling at age 13, Jack developed a trusting relationship with his counselor and found a supportive community at YES. After being diagnosed with bipolar disorder at age 19, he continued to seek help but tragically passed away from an accidental overdose at age 20, amid rising fentanyl-related fatalities.
 
 In the wake of their loss, the Beatties chose to honor Jack's memory by advocating for YES and supporting mental health initiatives. Mary-Pat, an employee at Microsoft, has made YES a key beneficiary of her donations, which are matched by the company. She has organized fundraising events, such as a Halloween-themed movie vote-a-thon that successfully raised funds and awareness for YES.
 

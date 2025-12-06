@@ -13,4 +13,4 @@ type: Community-Based Organization
 website: https://www.seamar.org/king-medical-desmoines.html
 ---
 
-Sea Mar Community Health Centers provides comprehensive health services including physical exams, immunizations, chronic disease management, and referrals to specialty care. They serve diverse communities with a focus on accessibility and quality care, regardless of income or background.
+Sea Mar Community Health Centers provides comprehensive health services, including physical exams, immunizations, chronic disease management, and referrals to specialty care. It serves diverse communities with a focus on accessibility and quality care, regardless of income or background.

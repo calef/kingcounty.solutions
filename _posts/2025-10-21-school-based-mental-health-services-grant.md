@@ -18,4 +18,4 @@ topics:
 - Mental Health & Counseling
 ---
 
-The SBMH program offers competitive grants targeting State educational agencies (SEAs), local educational agencies (LEAs), and consortia of LEAs to enhance the availability of credentialed school-based mental health service providers in high-need areas. The funding aims to increase mental health services for students, with an estimated award amount of $1,500,000. Interested applicants must submit their applications by October 29.
+The SBMH program offers competitive grants targeting state educational agencies (SEAs), local educational agencies (LEAs), and consortia of LEAs to enhance the availability of credentialed school-based mental health service providers in high-need areas. The funding aims to increase mental health services for students, with an estimated award amount of $1.5 million. Interested applicants must submit their applications by Oct. 29.

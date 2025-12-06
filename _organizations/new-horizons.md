@@ -13,4 +13,4 @@ type: Community-Based Organization
 website: https://nhmin.org/
 ---
 
-New Horizons is dedicated to ending homelessness for young people through case management, housing navigation, and a low-barrier shelter. We provide essential services including meals, job training, and a supportive community environment.
+New Horizons is dedicated to ending homelessness for young people through case management, housing navigation, and a low-barrier shelter. We provide essential services, including meals, job training, and a supportive community environment.

@@ -13,4 +13,4 @@ type: Community-Based Organization
 website: https://www.seamar.org/king-medical-burien.html
 ---
 
-Sea Mar Community Health Centers provides comprehensive health services including physical exams, immunizations, chronic disease management, and preventive care. They serve diverse communities, offering support regardless of income or immigration status, and emphasize accessibility and cultural sensitivity.
+Sea Mar Community Health Centers provides comprehensive health services, including physical exams, immunizations, chronic disease management, and preventive care. It serves diverse communities, offering support regardless of income or immigration status, and emphasizes accessibility and cultural sensitivity.

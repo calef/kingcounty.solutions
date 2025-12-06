@@ -80,4 +80,4 @@ topics:
 - Health Care
 ---
 
-Join Cindy House for EnhanceFitness on December 19 from 3:00 PM to 4:00 PM at the South Park Neighborhood Center, located at 8201 10th Ave S, Seattle, WA. This session features gentle exercises and stretches designed to promote health and well-being in a supportive environment. Classes are held every Monday, Wednesday, and Friday, but space is limited, so reservations are required. To secure your spot, please contact Andrew at 206-909-0346 or via email. Don't miss this opportunity to enhance your fitness and connect with others in the community!
+Join Cindy House for EnhanceFitness on Dec. 19 from 3 to 4 p.m. at the South Park Neighborhood Center, located at 8201 10th Ave. S, Seattle, WA. This session features gentle exercises and stretches designed to promote health and well-being in a supportive environment. Classes are held every Monday, Wednesday, and Friday, but space is limited, so reservations are required. To secure your spot, please contact Andrew at 206-909-0346 or via email. Don't miss this opportunity to enhance your fitness and connect with others in the community!

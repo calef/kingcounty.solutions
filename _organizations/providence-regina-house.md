@@ -12,4 +12,4 @@ type: Community-Based Organization
 website: https://www.providence.org/locations/wa/regina-house
 ---
 
-Providence Regina House provides a weekly food and clothing bank, emergency food, and referral services to families in need. They offer organic produce, a Baby Cupboard Day for infant supplies, and partner with community organizations for health services and holiday programs.
+Providence Regina House provides a weekly food and clothing bank, emergency food, and referral services to families in need. It offers organic produce, a Baby Cupboard Day for infant supplies, and partners with community organizations for health services and holiday programs.

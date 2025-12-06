@@ -127,4 +127,4 @@ title: 'Sunshine Garden: Basic Yoga'
 topics: []
 ---
 
-Join us for Sunshine Garden: Basic Yoga on December 10, 2025, from 10:30 AM to 11:30 AM at Sunshine Garden, located at 611 S Lane St, Seattle, WA. This event is perfect for beginners looking to learn and practice fundamental yoga techniques in a supportive environment. Led by an experienced instructor, participants will engage in gentle movements and breathing exercises to enhance relaxation and well-being. Don’t miss this opportunity to unwind and connect with others in the community!
+Join us for Sunshine Garden: Basic Yoga on Dec. 10, 2025, from 10:30 to 11:30 a.m. at Sunshine Garden, located at 611 S. Lane St., Seattle, WA. This event is perfect for beginners looking to learn and practice fundamental yoga techniques in a supportive environment. Led by an experienced instructor, participants will engage in gentle movements and breathing exercises to enhance relaxation and well-being. Don’t miss this opportunity to unwind and connect with others in the community!

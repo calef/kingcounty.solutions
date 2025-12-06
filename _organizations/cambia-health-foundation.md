@@ -11,4 +11,4 @@ type: Corporate Foundation
 website: https://www.cambiahealthfoundation.org
 ---
 
-Cambia Health Foundation advances whole-person health by expanding access to behavioral health in underserved communities. They invest in programs that address health equity, including nutrition education and mental health support, particularly for marginalized populations.
+Cambia Health Foundation advances whole-person health by expanding access to behavioral health in underserved communities. It invests in programs that address health equity, including nutrition education and mental health support, particularly for marginalized populations.

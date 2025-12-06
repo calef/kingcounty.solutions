@@ -12,4 +12,4 @@ type: Community-Based Organization
 website: https://www.seamar.org/king-dental-federalway.html
 ---
 
-Sea Mar Community Health Centers offers comprehensive dental services including preventive care, emergency dental care, and oral health education. We serve all individuals regardless of income or background, ensuring accessible dental care for the community.
+Sea Mar Community Health Centers offers comprehensive dental services, including preventive care, emergency dental care, and oral health education. We serve all individuals, regardless of income or background, ensuring accessible dental care for the community.

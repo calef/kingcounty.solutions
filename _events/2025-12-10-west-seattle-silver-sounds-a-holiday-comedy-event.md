@@ -191,4 +191,4 @@ topics:
 - Senior Services
 ---
 
-Join us for the West Seattle Silver Sounds: A Holiday Comedy Event on December 10, 2025, from 1:00 PM to 2:00 PM at The Center for Active Living, located at 4217 SW Oregon St., Seattle, WA. This lively event features the Grinch in a humorous quest to disrupt the holiday season. Attendees can participate in singing along to beloved holiday tunes, enjoy a variety of goofy comedy, and win free prizes, including a mystery raffle. Don't miss this festive opportunity to celebrate the season with laughter and joy! RSVP is required.
+Join us for the West Seattle Silver Sounds: A Holiday Comedy Event on Dec. 10, 2025, from 1 to 2 p.m. at The Center for Active Living, located at 4217 SW Oregon St., Seattle, WA. This lively event features the Grinch in a humorous quest to disrupt the holiday season. Attendees can participate in singing along to beloved holiday tunes, enjoy a variety of goofy comedy, and win free prizes, including a mystery raffle. Don't miss this festive opportunity to celebrate the season with laughter and joy! An RSVP is required.

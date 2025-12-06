@@ -98,4 +98,4 @@ title: Cookies with Mrs. Claus 2025
 topics: []
 ---
 
-Join us for Cookies with Mrs. Claus on December 18, 2025, from 5:30 PM to 6:30 PM at the Federal Way Community Center, located at 876 South 333rd Street, Federal Way, WA. This delightful event is designed for children ages 2-10 and promises a festive experience filled with cookie decorating, warm cocoa, and cheerful holiday music. Attendees will have the chance to take photos with Mrs. Claus, creating lasting memories in a magical setting. Don't miss out on this sweet celebration of the holiday spirit! Tickets are just $5 per person.
+Join us for Cookies with Mrs. Claus on Dec. 18, 2025, from 5:30 to 6:30 p.m. at the Federal Way Community Center, located at 876 S. 333rd St., Federal Way, WA. This delightful event is designed for children ages 2 to 10 and promises a festive experience filled with cookie decorating, warm cocoa, and cheerful holiday music. Attendees will have the chance to take photos with Mrs. Claus, creating lasting memories in a magical setting. Don't miss out on this sweet celebration of the holiday spirit! Tickets are just $5 per person.

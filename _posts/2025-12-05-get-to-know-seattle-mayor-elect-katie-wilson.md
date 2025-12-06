@@ -18,8 +18,8 @@ topics:
 - Mental Health & Counseling
 ---
 
-Katie Wilson has been elected as Seattle's new mayor, making history as the first woman to hold the position. Wilson, a longtime community activist and former city council member, campaigned on a platform of affordable housing, public safety reform, and environmental sustainability. Her focus is on addressing the city's homelessness crisis by increasing supportive housing options and expanding mental health services.
+Katie Wilson has been elected Seattle's new mayor, making history as the first woman to hold the position. Wilson, a longtime community activist and former city council member, campaigned on a platform of affordable housing, public safety reform, and environmental sustainability. Her focus is on addressing the city's homelessness crisis by increasing supportive housing options and expanding mental health services.
 
-Wilson's background includes a degree in urban planning and significant work with local non-profits. She emphasizes the importance of community engagement in her administration, promising to create more opportunities for residents to voice their concerns and contribute to decision-making processes.
+Wilson's background includes a degree in urban planning and significant work with local nonprofits. She emphasizes the importance of community engagement in her administration, promising to create more opportunities for residents to voice their concerns and contribute to decision-making processes.
 
 In her victory speech, Wilson highlighted the need for unity and collaboration among city officials and residents to tackle pressing issues like transportation, economic recovery post-pandemic, and climate change. Her leadership style is expected to prioritize transparency and inclusivity, aiming to restore public trust in local government. As she prepares to take office, Wilson is already assembling a diverse team focused on implementing her ambitious agenda for Seattle's future.

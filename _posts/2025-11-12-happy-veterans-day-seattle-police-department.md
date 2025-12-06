@@ -17,4 +17,4 @@ title: Happy Veterans Day, Seattle Police Department
 topics: []
 ---
 
-Today, we honor the brave men and women who have served our country in uniform. A special thank you goes to veterans who continue to serve our community with integrity, dedication, honor, and courage. Your service is deeply appreciated.
+Today, we honor the brave men and women who have served our country in uniform. A special thank-you goes to veterans who continue to serve our community with integrity, dedication, honor, and courage. Your service is deeply appreciated.

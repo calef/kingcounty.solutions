@@ -13,4 +13,4 @@ type: Community-Based Organization
 website: https://pioneerhumanservices.org/get-help-with-housing/
 ---
 
-Pioneer Human Services provides supportive housing and employment programs for individuals transitioning from incarceration. They offer a nurturing environment with resources for housing stability, job readiness training, and mental health support across various locations in Washington state.
+Pioneer Human Services provides supportive housing and employment programs for individuals transitioning from incarceration. It offers a nurturing environment with resources for housing stability, job readiness training, and mental health support across various locations in Washington state.

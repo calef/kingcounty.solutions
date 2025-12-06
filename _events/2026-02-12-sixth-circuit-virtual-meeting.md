@@ -7712,4 +7712,4 @@ topics:
 - Legal Aid
 ---
 
-Join us for the Sixth Circuit Virtual Meeting on February 12, 2026, starting at 2:30 PM EST. This online gathering will provide attendees with the opportunity to engage in discussions on important legal topics, share insights, and collaborate with peers from various sectors. Participants can expect informative presentations, Q&A sessions, and networking opportunities to connect with fellow professionals. Don't miss this chance to enhance your understanding of current issues in the legal landscape from the comfort of your own home.
+Join us for the Sixth Circuit Virtual Meeting on Feb. 12, 2026, starting at 2:30 p.m. EST. This online gathering will provide attendees with the opportunity to engage in discussions on important legal topics, share insights, and collaborate with peers from various sectors. Participants can expect informative presentations, Q&A sessions, and networking opportunities to connect with fellow professionals. Don't miss this chance to enhance your understanding of current issues in the legal landscape from the comfort of your own home.

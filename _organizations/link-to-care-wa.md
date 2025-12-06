@@ -13,4 +13,4 @@ type: Community-Based Organization
 website: https://linktocarewa.org/
 ---
 
-Link to Care WA helps individuals connect with health care services using technology. They provide coaching on using phones and the internet to manage health care, access telehealth services, and find resources for digital skills.
+Link to Care WA helps individuals connect with health care services using technology. It provides coaching on using phones and the Internet to manage health care, access telehealth services, and find resources for digital skills.

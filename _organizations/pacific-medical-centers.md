@@ -13,4 +13,4 @@ type: Community-Based Organization
 website: https://www.pacificmedicalcenters.org
 ---
 
-Pacific Medical Centers provides comprehensive health care services, including primary and specialty care, pediatrics, and financial assistance programs. They focus on preventive care and empower families through health education and resources.
+Pacific Medical Centers provides comprehensive health care services, including primary and specialty care, pediatrics, and financial assistance programs. It focuses on preventive care and empowers families through health education and resources.

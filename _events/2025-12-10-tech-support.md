@@ -68,4 +68,4 @@ title: Tech Support
 topics: []
 ---
 
-Join us for a Tech Support event on December 10, 2025, from 5:45 PM to 7:00 PM at the South Park Neighborhood Center, located at 8201 10th Ave S, Seattle, WA. This session is designed to assist community members with various technology-related issues, whether it's troubleshooting devices, navigating software, or answering general tech questions. Attendees can expect personalized support and the opportunity to enhance their tech skills in a friendly environment. Don't miss this chance to get help and connect with others in the community!
+Join us for a tech support event on Dec. 10, 2025, from 5:45 p.m. to 7 p.m. at the South Park Neighborhood Center, located at 8201 10th Ave. S, Seattle, WA. This session is designed to assist community members with various technology-related issues, whether it's troubleshooting devices, navigating software, or answering general tech questions. Attendees can expect personalized support and the opportunity to enhance their tech skills in a friendly environment. Don't miss this chance to get help and connect with others in the community!

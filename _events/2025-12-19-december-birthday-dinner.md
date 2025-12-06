@@ -80,4 +80,4 @@ topics:
 - Food & Nutrition
 ---
 
-Join us for the December Birthday Dinner on December 19 from 5:00 PM to 6:00 PM at the South Park Neighborhood Center, located at 8201 10th Ave S, Seattle, WA. Celebrate with a festive meal prepared by our chefs, enjoy delicious cupcakes, and partake in fun decorations and birthday crowns. We will also sing "Happy Birthday" to honor those celebrating this month. Reservations are encouraged, especially for our birthday seniors, so please reach out to us if you’d like to join the celebration. We look forward to making this night special for everyone!
+Join us for the December Birthday Dinner on Dec. 19 from 5 to 6 p.m. at the South Park Neighborhood Center, located at 8201 10th Ave. S, Seattle, WA. Celebrate with a festive meal prepared by our chefs, enjoy delicious cupcakes, and partake in fun decorations and birthday crowns. We will also sing "Happy Birthday" to honor those celebrating this month. Reservations are encouraged, especially for our birthday seniors, so please reach out to us if you’d like to join the celebration. We look forward to making this night special for everyone!

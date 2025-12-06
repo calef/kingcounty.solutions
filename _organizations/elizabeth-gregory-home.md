@@ -13,4 +13,4 @@ type: Community-Based Organization
 website: https://eghseattle.org
 ---
 
-Elizabeth Gregory Home provides a welcoming refuge for women experiencing homelessness, trauma, or economic insecurity. We offer a drop-in Day Shelter, Transitional Housing, and case management services to help women thrive in our community.
+Elizabeth Gregory Home provides a welcoming refuge for women experiencing homelessness, trauma, or economic insecurity. We offer a drop-in day shelter, transitional housing, and case management services to help women thrive in our community.

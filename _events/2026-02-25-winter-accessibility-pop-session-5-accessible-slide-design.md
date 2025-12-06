@@ -41,4 +41,6 @@ topics:
 - Disabilities
 ---
 
-Join us for the Winter Accessibility POP Session 5: Accessible Slide Design on February 25, 2026, at 3:00 PM. This virtual event focuses on creating accessible presentations, ensuring that your slides are inclusive for all audiences. Attendees will learn practical tips and techniques for designing slides that enhance readability and engagement. Whether you're a seasoned presenter or new to slide design, this session will provide valuable insights to improve your skills. Don't miss this opportunity to make your presentations more accessible and impactful!
+Join us for the Winter Accessibility POP Session 5: Accessible Slide Design on Feb. 25, 2026, at 3 p.m. This virtual event focuses on creating accessible presentations, ensuring that your slides are inclusive for all audiences. Attendees will learn practical tips and techniques for designing slides that enhance readability and engagement. Whether you're a seasoned presenter or new to slide design, this session will provide valuable insights to improve your skills. Don't miss this opportunity to make your presentations more accessible and impactful! 
+
+[Register here](https://washington.zoom.us/meeting/register/02v0yOVmQp-wyQHgbQUqeA).

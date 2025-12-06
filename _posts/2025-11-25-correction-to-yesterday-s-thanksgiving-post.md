@@ -17,4 +17,4 @@ topics:
 - Food & Nutrition
 ---
 
-A correction has been issued regarding a previous Thanksgiving post from the West Side Neighbors Shelter. For those interested in providing assistance to the shelter during the Thanksgiving period, Cinda Stenger is the designated contact person. She can be reached via email at cstenger49@gmail.com for further information on how to help.
+A correction has been issued regarding a previous Thanksgiving post from the Westside Neighbors Shelter. For those interested in providing assistance to the shelter during the Thanksgiving period, Cinda Stenger is the designated contact person. She can be reached via email at cstenger49@gmail.com for further information on how to help.

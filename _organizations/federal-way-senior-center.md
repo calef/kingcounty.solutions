@@ -19,4 +19,4 @@ type: Community-Based Organization
 website: https://www.federalwayseniorcenter.org
 ---
 
-The Federal Way Senior Center supports activities for seniors and veterans in the King and Pierce County areas. We serve lunch on Mondays and Thursdays, host bingo, and operate a food bank open on the same days.
+The Federal Way Senior Center supports activities for seniors and veterans in King and Pierce counties. We serve lunch on Mondays and Thursdays, host bingo, and operate a food bank open on the same days.

@@ -14,7 +14,7 @@ website: https://acl.gov/
 
 The **Administration for Community Living (ACL)** ensures older adults and people with disabilities can live independently. It focuses on:
 
-- **Senior Services:** in-home care, caregiver support, aging networks, and local partnerships that promote inclusion
+- **Senior services:** in-home care, caregiver support, aging networks, and local partnerships that promote inclusion
 - **Disabilities:** independent living and assistive technology programs
 
 ACL supports independence, dignity, and community participation.

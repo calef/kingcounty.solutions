@@ -9,4 +9,4 @@ type: Community-Based Organization
 website: https://cbsr.org
 ---
 
-Church By The Side Of The Road offers a nurturing community focused on spiritual growth and service. They host events like a free Thanksgiving Dinner and a Christmas Giving Tree to support local families in need.
+Church by the Side of the Road offers a nurturing community focused on spiritual growth and service. It hosts events like a free Thanksgiving dinner and a Christmas giving tree to support local families in need.

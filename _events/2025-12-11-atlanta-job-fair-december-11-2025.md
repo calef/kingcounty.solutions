@@ -44,4 +44,4 @@ topics:
 - Employment & Job Support
 ---
 
-Join us for the Atlanta Job Fair on December 11, 2025, where job seekers can connect with a variety of employers from different industries. Attendees will have the opportunity to network, learn about job openings, and participate in on-site interviews. This event is designed to help individuals find new career opportunities and gain valuable insights into the job market. Whether you're looking for your first job or seeking a career change, this fair is a great resource. Don't miss out on this chance to advance your career in a dynamic and supportive environment.
+Join us for the Atlanta Job Fair on Dec. 11, 2025, where job seekers can connect with a variety of employers from different industries. Attendees will have the opportunity to network, learn about job openings, and participate in on-site interviews. This event is designed to help individuals find new career opportunities and gain valuable insights into the job market. Whether you're looking for your first job or seeking a career change, this fair is a great resource. Don't miss out on this chance to advance your career in a dynamic and supportive environment.

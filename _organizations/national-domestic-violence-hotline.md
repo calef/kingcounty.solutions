@@ -11,4 +11,4 @@ type: Program
 website: https://www.thehotline.org
 ---
 
-The National Domestic Violence Hotline provides 24/7 confidential support for individuals affected by relationship abuse. Services include live advocacy, safety planning, and a directory of local resources such as shelters and legal aid.
+The National Domestic Violence Hotline provides 24/7 confidential support for individuals affected by relationship abuse. Services include live advocacy, safety planning, and a directory of local resources, such as shelters and legal aid.

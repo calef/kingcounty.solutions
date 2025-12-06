@@ -117,7 +117,7 @@ title: Advantages of Filing IFR for AFW Missions
 topics: []
 ---
 
-Filing IFR for Angel Flight West (AFW) missions offers several advantages for IFR-rated pilots. It significantly reduces anxiety over weather conditions, as clouds and precipitation along the route become less of a concern. ATC can assist with reroutes or destination changes if conditions worsen. Being IFR-rated is essential for night flights, allowing for safer navigation in rural areas with limited lighting. 
+Filing IFR for Angel Flight West (AFW) missions offers several advantages for IFR-rated pilots. It significantly reduces anxiety over weather conditions, as clouds and precipitation along the route become less of a concern. Air Traffic Control (ATC) can assist with reroutes or destination changes if conditions worsen. Being IFR-rated is essential for night flights, allowing for safer navigation in rural areas with limited lighting.
 
 Flying IFR also simplifies airspace navigation; ATC automatically grants clearance into complex metropolitan airspaces without specific requests. Additionally, IFR routes help avoid restricted airspace and ensure safe altitudes away from terrain. Continuous communication with ATC during IFR flights provides vital support, especially in emergencies, and enhances familiarity with IFR operations.
 

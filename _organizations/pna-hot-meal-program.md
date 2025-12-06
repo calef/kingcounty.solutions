@@ -10,4 +10,4 @@ type: Program
 website: https://www.phinneycenter.org/hotmeal/
 ---
 
-The PNA Hot Meal Program provides free, nutritious meals to the community three times a week, serving over 17,000 meals annually. It also connects individuals to various social services, including medical and dental clinics, hygiene supplies, and individual case management.
+The PNA Hot Meal Program provides free, nutritious meals to the community three times a week, serving more than 17,000 meals annually. It also connects individuals to various social services, including medical and dental clinics, hygiene supplies, and individual case management.

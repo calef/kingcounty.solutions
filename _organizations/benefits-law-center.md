@@ -15,4 +15,4 @@ type: Community-Based Organization
 website: https://benefitslawcenter.org/our-work/self-help-materials/
 ---
 
-Benefits Law Center (BLC) provides accessible legal advocacy to low-income individuals with disabilities, assisting them in navigating Social Security disability and SSI benefits. BLC focuses on overcoming barriers to financial and medical stability through targeted advocacy projects and direct legal representation.
+Benefits Law Center (BLC) provides accessible legal advocacy to low-income individuals with disabilities, assisting them in navigating Social Security disability and Supplemental Security Income (SSI) benefits. BLC focuses on overcoming barriers to financial and medical stability through targeted advocacy projects and direct legal representation.

@@ -103,4 +103,4 @@ title: City Council Study Session
 topics: []
 ---
 
-Join the City Council for a Study Session on December 23, 2025, from 7:00 PM to 10:00 PM at the Council Chambers located at 801 SW 174th Street, Normandy Park, WA. This meeting offers residents an opportunity to engage with council members and discuss important community issues. Attendees can expect a collaborative environment where input is encouraged. The session will be held in person, and remote participation via Zoom is also available for those who prefer to join from home. Don’t miss this chance to stay informed and involved in local governance.
+Join the City Council for a study session on Dec. 23, 2025, from 7 to 10 p.m. at the Council Chambers located at 801 SW 174th St., Normandy Park, WA. This meeting offers residents an opportunity to engage with council members and discuss important community issues. Attendees can expect a collaborative environment where input is encouraged. The session will be held in person, and remote participation via Zoom is also available for those who prefer to join from home. Don’t miss this chance to stay informed and involved in local governance.

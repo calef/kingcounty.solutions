@@ -11,4 +11,4 @@ type: Public Hospital District
 website: https://www.valleymed.org
 ---
 
-**Valley Medical Center (Hospital District No. 1)** provides full-service hospital care, emergency treatment, and wellness programs to South King County residents. It advances **community health and preventative medicine** through local partnerships.
+**Valley Medical Center (Hospital District No. 1)** provides full-service hospital care, emergency treatment, and wellness programs to South King County residents. It advances **community health and preventive medicine** through local partnerships.

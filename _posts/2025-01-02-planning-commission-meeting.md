@@ -20,4 +20,4 @@ title: Planning Commission Meeting
 topics: []
 ---
 
-The Planning Commission meeting is scheduled for Tuesday, December 9, 2025, at 6:00 PM. Agendas for the meeting can be accessed through a provided link.
+The Planning Commission meeting is scheduled for Tuesday, Dec. 9, 2025, at 6 p.m. Agendas for the meeting can be accessed through a provided link.

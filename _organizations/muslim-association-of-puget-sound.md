@@ -16,4 +16,4 @@ type: Community-Based Organization
 website: https://mapsredmond.org/
 ---
 
-MAPS serves the Muslim community and the wider public in the Puget Sound area, offering religious services, educational programs, and social services including medical and legal clinics, food assistance, and transitional shelter.
+MAPS serves the Muslim community and the wider public in the Puget Sound area, offering religious services, educational programs, and social services, including medical and legal clinics, food assistance, and transitional shelter.

@@ -17,4 +17,4 @@ title: 'Join SPU for America Recycles Day — Small Actions, Big Impact, #Recycl
 topics: []
 ---
 
-Happy America Recycles Day! November 15th is a special day to focus on recycling and celebrate our planet. SPU will join in the festivities by sharing tips and tricks for effective recycling, emphasizing the importance of small actions that can lead to a big impact on the environment.
+Happy America Recycles Day! Nov. 15 is a special day to focus on recycling and celebrate our planet. SPU will join in the festivities by sharing tips and tricks for effective recycling, emphasizing the importance of small actions that can lead to a big impact on the environment.

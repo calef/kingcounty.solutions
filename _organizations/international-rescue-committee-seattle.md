@@ -21,4 +21,4 @@ type: Community-Based Organization
 website: https://www.rescue.org/united-states/seattle-wa
 ---
 
-The International Rescue Committee (IRC) in Seattle provides vital support to refugees, asylees, and other immigrants, helping them rebuild their lives through services such as housing assistance, healthcare, education, and job training. IRC ensures that newcomers receive the resources they need to thrive in their new communities.
+The International Rescue Committee (IRC) in Seattle provides vital support to refugees, asylees, and other immigrants, helping them rebuild their lives through services such as housing assistance, health care, education, and job training. IRC ensures that newcomers receive the resources they need to thrive in their new communities.

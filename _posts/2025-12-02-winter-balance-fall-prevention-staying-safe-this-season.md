@@ -105,6 +105,6 @@ topics:
 
 Winter can pose significant risks for falls due to icy conditions and snow accumulation. To prevent falls, it's essential to prioritize balance and safety. Wearing appropriate footwear with good traction can help navigate slippery surfaces. Keeping walkways clear of snow and ice is crucial, as is using salt or sand to improve traction. Inside homes, decluttering spaces and using non-slip mats can reduce hazards.
 
-Engaging in exercises that enhance balance and strength, such as yoga or tai chi, can significantly lower fall risk. Regular check-ups with healthcare providers can help address any health concerns that may affect balance. It's also important to be aware of medications that might cause dizziness or affect coordination.
+Engaging in exercises that enhance balance and strength, such as yoga or tai chi, can significantly lower fall risk. Regular checkups with healthcare providers can help address any health concerns that may affect balance. It's also important to be aware of medications that might cause dizziness or affect coordination.
 
 Staying vigilant about environmental conditions and making necessary adjustments can help maintain safety. By taking proactive steps, individuals can enjoy the winter season while minimizing the risk of falls and injuries.

@@ -68,4 +68,4 @@ topics:
 - Employment & Job Support
 ---
 
-Join us on December 9 from 11:00 AM to 1:00 PM at ANEW in Tukwila to celebrate the graduation of the PACE 61 pre-apprenticeship program. This event honors the hard work and achievements of the graduates as they embark on their new career paths. Attendees can expect inspiring speeches, networking opportunities, and a chance to support the graduates as they take this significant step in their professional journey. Don’t miss this opportunity to be part of a meaningful celebration in the community!
+Join us on Dec. 9 from 11 a.m. to 1 p.m. at ANEW in Tukwila to celebrate the graduation of the PACE 61 pre-apprenticeship program. This event honors the hard work and achievements of the graduates as they embark on their new career paths. Attendees can expect inspiring speeches, networking opportunities, and a chance to support the graduates as they take this significant step in their professional journey. Don’t miss this opportunity to be part of a meaningful celebration in the community!

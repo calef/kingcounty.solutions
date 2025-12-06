@@ -72,4 +72,4 @@ topics:
 - Education & Learning
 ---
 
-Join us for EARLY START Bellevue on December 11, 2025, from 10:00 AM to 3:00 PM at the North Bellevue Community Center, located at 4063 148th Ave NE, Bellevue, WA. This engaging event offers a variety of activities designed to support early childhood development. Attendees can expect informative sessions, interactive workshops, and resources for parents and caregivers. It's a great opportunity to connect with other families and learn about early education tools and strategies. Don't miss this chance to enhance your child's early learning experience!
+Join us for Early Start Bellevue on Dec. 11, 2025, from 10 a.m. to 3 p.m. at the North Bellevue Community Center, located at 4063 148th Ave. NE, Bellevue, Wash. This engaging event offers a variety of activities designed to support early childhood development. Attendees can expect informative sessions, interactive workshops, and resources for parents and caregivers. It's a great opportunity to connect with other families and learn about early education tools and strategies. Don't miss this chance to enhance your child's early learning experience!

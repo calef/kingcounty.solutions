@@ -20,4 +20,4 @@ title: Notice of Cancelation - Utility Board Meeting - November 11 & December 9
 topics: []
 ---
 
-Notice is given that the Utility Board Regular Meetings scheduled for November 11 and December 9, 2025, are canceled. The Utility Board typically meets on the second Tuesday of each month at 5:00 pm. The next Regular Meeting is planned for January 13, 2026.
+Notice is given that the Utility Board regular meetings scheduled for Nov. 11 and Dec. 9, 2025, are canceled. The Utility Board typically meets on the second Tuesday of each month at 5 p.m. The next regular meeting is planned for Jan. 13, 2026.

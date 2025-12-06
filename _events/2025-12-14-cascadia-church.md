@@ -58,4 +58,4 @@ title: Cascadia Church
 topics: []
 ---
 
-Join us at Cascadia Church on December 14 from 9:00 AM to 12:00 PM for a welcoming community gathering. Attendees can expect engaging worship, uplifting music, and a chance to connect with others in a supportive environment. This event is perfect for individuals and families looking to deepen their faith and build community ties. Come experience a morning filled with inspiration and fellowship at Cascadia Church.
+Join us at Cascadia Church on Dec. 14 from 9 a.m. to noon for a welcoming community gathering. Attendees can expect engaging worship, uplifting music, and a chance to connect with others in a supportive environment. This event is perfect for individuals and families looking to deepen their faith and build community ties. Come experience a morning filled with inspiration and fellowship at Cascadia Church.

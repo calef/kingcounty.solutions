@@ -20,4 +20,4 @@ title: Work Session
 topics: []
 ---
 
-The City Council meeting is scheduled for Thursday, December 11, 2025, at 6:00 PM. Residents can access the meeting agendas for further details.
+The City Council meeting is scheduled for Thursday, Dec. 11, 2025, at 6 p.m. Residents can access the meeting agendas for further details.

@@ -7,4 +7,4 @@ type: City
 website: https://www.ci.woodinville.wa.us/
 ---
 
-The City of Woodinville serves the community of **Woodinville**, Washington. The City provides various services to enhance the quality of life for its residents, including community and social services.
+The city of Woodinville serves the community of **Woodinville**, Washington. The city provides various services to enhance the quality of life for its residents, including community and social services.

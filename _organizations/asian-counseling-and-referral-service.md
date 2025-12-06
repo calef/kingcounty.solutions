@@ -15,4 +15,4 @@ type: Community-Based Organization
 website: https://acrs.org/
 ---
 
-Asian Counseling and Referral Service (ACRS) provides linguistically and culturally responsive services for Asian American, Native Hawaiian, and Pacific Islander communities across King County. From its Seattle headquarters, ACRS delivers behavioral health and recovery support, employment and training, citizenship and immigration assistance, child and youth development, aging services, and health navigation. The nonprofit centers community wellness and equity through multilingual staff and partnerships that connect clients to culturally matched care.
+Asian Counseling and Referral Service (ACRS) provides linguistically and culturally responsive services for Asian Americans, Native Hawaiians, and Pacific Islanders across King County. From its Seattle headquarters, ACRS delivers behavioral health and recovery support, employment and training, citizenship and immigration assistance, child and youth development, aging services, and health navigation. The nonprofit centers community wellness and equity through multilingual staff and partnerships that connect clients to culturally matched care.

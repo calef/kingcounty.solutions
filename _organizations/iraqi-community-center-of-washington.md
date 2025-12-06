@@ -17,4 +17,4 @@ type: Community-Based Organization
 website: https://www.irccw.org
 ---
 
-The Iraqi Community Center of Washington empowers Iraqi refugees and the broader community through culturally sensitive services, including health care access, nutrition workshops, and educational programs. Established in 1998, IRCCW supports families in achieving self-sufficiency and fosters a welcoming environment for all.
+The Iraqi Community Center of Washington empowers Iraqi refugees and the broader community through culturally sensitive services, including health care access, nutrition workshops, and educational programs. Established in 1998, the center supports families in achieving self-sufficiency and fosters a welcoming environment for all.

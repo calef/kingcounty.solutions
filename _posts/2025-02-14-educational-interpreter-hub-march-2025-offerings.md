@@ -26,4 +26,4 @@ topics:
 - Education & Learning
 ---
 
-The Educational Interpreter Hub is reaching out to the community to enhance its services and offerings for March 2025. They encourage individuals to share their ideas or specific needs to foster collaboration and improve support. For inquiries or suggestions, the contact person is Melissa Klindtworth, who can be reached via email or phone. The Hub is committed to serving the community effectively and is open to partnerships that could enhance their educational interpreter services.
+The Educational Interpreter Hub is reaching out to the community to enhance its services and offerings for March 2025. It encourages individuals to share their ideas or specific needs to foster collaboration and improve support. For inquiries or suggestions, contact Melissa Klindtworth via email or phone. The Hub is committed to serving the community effectively and is open to partnerships that could enhance its educational interpreter services.

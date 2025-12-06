@@ -101,10 +101,10 @@ topics:
 - Education & Learning
 ---
 
-Students in foster care often face significant barriers to educational success due to the complex bureaucracy surrounding child welfare and education systems. Treehouse's Educational Advocacy program is dedicated to addressing these issues by coordinating support among foster parents, social workers, and school staff. The program focuses on problems like disciplinary exclusions, lack of academic progress, and difficulties in school enrollment.
+Students in foster care often face significant barriers to educational success due to the complex bureaucracy surrounding child welfare and education systems. Treehouse's Educational Advocacy program is dedicated to addressing these issues by coordinating support among foster parents, social workers, and school staff. The program focuses on problems such as disciplinary exclusions, lack of academic progress, and difficulties in school enrollment.
 
-In the 2024–2025 program year, Treehouse advocated for the educational rights of 1,140 youth in Washington state, significantly improving special education accommodations for 31% of cases and preventing school transfers for 15%. Educational Advocates, equipped with in-depth knowledge of education laws, work to ensure that students in foster care receive a fair chance at quality education.
+In the 2024-25 program year, Treehouse advocated for the educational rights of 1,140 youth in Washington state, significantly improving special education accommodations for 31% of cases and preventing school transfers for 15%. Educational advocates, equipped with in-depth knowledge of education laws, work to ensure that students in foster care receive a fair chance at quality education.
 
-One case involved a second grader with ADHD who lacked a 504 Plan, resulting in repeated suspensions. After intervention from an Educational Advocate, a 504 Plan was established, leading to necessary accommodations and support that improved the student’s behavior and school experience.
+One case involved a second grader with ADHD who lacked a 504 Plan, resulting in repeated suspensions. After intervention from an educational advocate, a 504 Plan was established, leading to necessary accommodations and support that improved the student’s behavior and school experience.
 
-In Washington, students in foster care are entitled to various educational supports, and Treehouse has created a Resource Center to help caregivers and educators access these resources effectively.
+In Washington, students in foster care are entitled to various educational supports, and Treehouse has created a resource center to help caregivers and educators access these resources effectively.

@@ -108,7 +108,7 @@ topics:
 - Shelter & Housing
 ---
 
-The Bellevue City Council unanimously adopted modifications to the 2025-2026 Budget and the 2025-2030 Capital Improvement Program, including updates to employee pay plans, wireless communication fees, and sewer rates. They approved the Human Services Commission's recommendations for federal Community Development Block Grant funds and a resolution to bank unused property tax levy capacity for future needs. The council voted 4-2 to approve a property tax levy for 2026 with a 1% adjustment.
+The Bellevue City Council unanimously adopted modifications to the 2025-2026 budget and the 2025-2030 capital improvement program, including updates to employee pay plans, wireless communication fees, and sewer rates. They approved the Human Services Commission's recommendations for federal Community Development Block Grant funds and a resolution to bank unused property tax levy capacity for future needs. The council voted 4-2 to approve a property tax levy for 2026 with a 1% adjustment.
 
 Plans for a new neighborhood park named Eastgate Commons were advanced, featuring open lawns, gathering spaces, and play structures. Community outreach led to the selection of the park's name from 73 suggestions. The park's development is part of Bellevue's goal to enhance walkable neighborhood parks, with construction expected to begin in 2028.
 

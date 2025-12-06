@@ -16,4 +16,4 @@ title: 'Concerto Competition: Keyboard'
 topics: []
 ---
 
-Join us for the Concerto Competition: Keyboard on January 27, 2026, at 5:30 PM in the Music Building (MUS). This exciting event showcases talented keyboard musicians as they compete for recognition and prizes. Attendees can expect a thrilling evening filled with exceptional performances, showcasing a variety of musical styles and interpretations. Support local musicians and enjoy the artistry on display in a vibrant atmosphere. Don't miss this opportunity to experience the passion and dedication of our talented competitors!
+Join us for the Concerto Competition: Keyboard on Jan. 27, 2026, at 5:30 p.m. in the Music Building (MUS). This exciting event showcases talented keyboard musicians as they compete for recognition and prizes. Attendees can expect a thrilling evening filled with exceptional performances, showcasing a variety of musical styles and interpretations. Support local musicians and enjoy the artistry on display in a vibrant atmosphere. Don't miss this opportunity to experience the passion and dedication of our talented competitors!

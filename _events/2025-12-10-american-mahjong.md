@@ -184,4 +184,4 @@ title: American Mahjong
 topics: []
 ---
 
-Join us for American Mahjong on December 10, 2025, from 12:30 PM to 2:30 PM at The Center for Active Living, located at 4217 SW Oregon St., Seattle, WA. This engaging event invites players of all skill levels, including newcomers, to experience the excitement of this ancient Chinese tile game, similar to Rummy. It's a great opportunity to stimulate your brain, meet new friends, and enjoy a fun afternoon of games and socializing. Don't miss out on this chance to learn and play!
+Join us for American Mahjong on Dec. 10, 2025, from 12:30 p.m. to 2:30 p.m. at The Center for Active Living, located at 4217 SW Oregon St., Seattle, WA. This engaging event invites players of all skill levels, including newcomers, to experience the excitement of this ancient Chinese tile game, similar to Rummy. It's a great opportunity to stimulate your brain, meet new friends, and enjoy a fun afternoon of games and socializing. Don't miss out on this chance to learn and play!

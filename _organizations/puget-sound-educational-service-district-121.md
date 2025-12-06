@@ -13,4 +13,4 @@ type: Agency
 website: https://www.psesd.org/programs-services/learning-teaching-and-family-support-ltfs/enhancing-social-emotional-practices/expanded-learning
 ---
 
-PSESD offers Expanded Learning opportunities for children, focusing on academic success and social-emotional growth. Programs include afterschool activities, enrichment clubs, and community partnerships to support families and enhance educational outcomes.
+PSESD offers expanded learning opportunities for children, focusing on academic success and social-emotional growth. Programs include after-school activities, enrichment clubs, and community partnerships to support families and enhance educational outcomes.

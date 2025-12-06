@@ -135,4 +135,4 @@ topics:
 - Employment & Job Support
 ---
 
-Join us at El Centro de la Raza on December 9 from 5:30 PM to 7:30 PM for "Herramientas Digitales/Digital Skills for Life." This free training session, hosted by the Business Opportunity Center, focuses on empowering attendees with essential digital tools to enhance daily life and business operations. Participants can expect hands-on learning experiences in a supportive community environment, perfect for those looking to grow their skills this fall. Don’t miss this opportunity to connect, learn, and thrive with your community.
+Join us at El Centro de la Raza on Dec. 9 from 5:30 to 7:30 p.m. for "Herramientas Digitales/Digital Skills for Life." This free training session, hosted by the Business Opportunity Center, focuses on empowering attendees with essential digital tools to enhance daily life and business operations. Participants can expect hands-on learning experiences in a supportive community environment, perfect for those looking to grow their skills this fall. Don’t miss this opportunity to connect, learn, and thrive with your community.

@@ -252,12 +252,12 @@ topics:
 - Disabilities
 ---
 
-Families in Washington seeking inclusive winter activities can explore a range of sensory friendly events designed to accommodate those with sensory sensitivities. These events feature adaptations such as softer lighting, lower sound levels, and quiet break spaces. Highlights include:
+Families in Washington seeking inclusive winter activities can explore a range of sensory-friendly events designed to accommodate those with sensory sensitivities. These events feature adaptations such as softer lighting, lower sound levels, and quiet break spaces. Highlights include:
 
-- **Disney’s The Lion King Sensory Friendly Performance** on December 13 at 2:00 pm at the Paramount Theatre in Seattle, with scholarship tickets available for community partners.
-- **Winter at the Beach** on December 20 at 1:30 pm at the Allegro Performing Arts Academy, Auburn Performing Arts Center.
-- **WildLanterns Sensory Friendly Night** at Woodland Park Zoo in Seattle, offering reduced noise, lower crowds, and adjusted lighting.
-- **Sensory Friendly Performances** at Seattle Children’s Theatre, which will include shows with lower sound levels, extra space, and designated quiet areas during the winter season.
-- **Sensory Friendly Films** at AMC Theatres, featuring lights up and sound down showings throughout winter, including seasonal movies.
+- **Disney’s The Lion King Sensory-Friendly Performance** on Dec. 13 at 2 p.m. at the Paramount Theatre in Seattle, with scholarship tickets available for community partners.
+- **Winter at the Beach** on Dec. 20 at 1:30 p.m. at the Allegro Performing Arts Academy, Auburn Performing Arts Center.
+- **WildLanterns Sensory-Friendly Night** at Woodland Park Zoo in Seattle, offering reduced noise, lower crowds, and adjusted lighting.
+- **Sensory-Friendly Performances** at Seattle Children’s Theatre, which will include shows with lower sound levels, extra space, and designated quiet areas during the winter season.
+- **Sensory-Friendly Films** at AMC Theatres, featuring lights-up and sound-down showings throughout winter, including seasonal movies.
 
 These events aim to create a welcoming environment for all participants, ensuring an enjoyable winter experience.

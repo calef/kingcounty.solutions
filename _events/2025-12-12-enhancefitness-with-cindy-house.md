@@ -79,4 +79,4 @@ topics:
 - Senior Services
 ---
 
-Join Cindy House for EnhanceFitness on December 12 from 3:00 PM to 4:00 PM at the South Park Neighborhood Center, located at 8201 10th Ave S, Seattle, WA. This engaging session will focus on gentle exercises and stretches designed to improve flexibility and overall well-being. Perfect for seniors, this class takes place on Mondays, Wednesdays, and Fridays, but space is limited, so reservations are required. To secure your spot, please contact Andrew at 206-909-0346 or via email. Don't miss this opportunity to enhance your fitness in a supportive community setting!
+Join Cindy House for EnhanceFitness on Dec. 12 from 3 to 4 p.m. at the South Park Neighborhood Center, located at 8201 10th Ave. S, Seattle, WA. This engaging session will focus on gentle exercises and stretches designed to improve flexibility and overall well-being. Perfect for seniors, this class takes place on Mondays, Wednesdays, and Fridays, but space is limited, so reservations are required. To secure your spot, please contact Andrew at 206-909-0346 or via email. Don't miss this opportunity to enhance your fitness in a supportive community setting!

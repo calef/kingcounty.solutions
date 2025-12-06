@@ -105,4 +105,4 @@ At the recent City Council meeting, a significant update to Bellevue's strategic
 
 Additionally, the council received updates on proposed amendments to the city’s sign code, focusing on modernizing sign design and simplifying regulations based on community feedback. Engagement efforts included multilingual surveys and listening sessions, revealing strong community support for regulating temporary signage in residential areas. The sign code update will proceed to a drafting phase with further public outreach planned, with a complete draft expected for council consideration in 2026.
 
-The council also proclaimed November 29 as Small Business Saturday, encouraging residents to support local businesses, which constitute 97% of Bellevue's economy. The proclamation was accepted by the owner of Monserrate Colombian Cuisine, representing the local small business community.
+The council also proclaimed Nov. 29 as Small Business Saturday, encouraging residents to support local businesses, which constitute 97% of Bellevue's economy. The proclamation was accepted by the owner of Monserrate Colombian Cuisine, representing the local small business community.

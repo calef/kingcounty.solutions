@@ -14,4 +14,4 @@ title: We share with prayers and sadness the passing of beloved Tribal Elder Arl
 topics: []
 ---
 
-The Snoqualmie Tribe has announced the passing of Tribal Elder Arlene Mae Ventura (Sunrise: 8/5/1942, Sunset: 10/29/2025) with deep sadness and prayers. Further details will be shared as they become available. In accordance with tribal policy, flags are currently flying at half-staff as a mark of respect. The tribe also shared plans for Ventura's funeral service on November 6th.
+The Snoqualmie Tribe has announced the passing of Tribal Elder Arlene Mae Ventura (Sunrise: Aug. 5, 1942; Sunset: Oct. 29, 2025) with deep sadness and prayers. Further details will be shared as they become available. In accordance with tribal policy, flags are currently flying at half-staff as a mark of respect. The tribe also shared plans for Ventura's funeral service on Nov. 6.

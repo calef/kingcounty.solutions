@@ -12,4 +12,4 @@ type: Program
 website: https://www.findaride.org/
 ---
 
-Find a Ride offers a trip planner that connects users to nearly 100 transportation options across King, Pierce, and Snohomish Counties. The program provides personalized support to help individuals find suitable transportation solutions.
+Find a Ride offers a trip planner that connects users to nearly 100 transportation options across King, Pierce, and Snohomish counties. The program provides personalized support to help individuals find suitable transportation solutions.

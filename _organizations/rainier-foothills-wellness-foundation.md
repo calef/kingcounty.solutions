@@ -16,4 +16,4 @@ type: Community-Based Organization
 website: https://rfwellnessfoundation.org/get-help/
 ---
 
-Rainier Foothills Wellness Foundation provides essential services including hot meal delivery for seniors, transportation to medical appointments, and food assistance for families. We focus on improving community health and well-being through various programs aimed at supporting vulnerable populations.
+Rainier Foothills Wellness Foundation provides essential services, including hot meal delivery for seniors, transportation to medical appointments, and food assistance for families. We focus on improving community health and well-being through various programs aimed at supporting vulnerable populations.

@@ -11,4 +11,4 @@ type: Community-Based Organization
 website: https://www.kyfs.org
 ---
 
-Kent Youth and Family Services promotes the healthy development of children, youth, and families by providing professional counseling, education, and support services. With over 55 years of dedication, KYFS aims to help youth and families achieve their goals for a better future.
+Kent Youth and Family Services promotes the healthy development of children, youth, and families by providing professional counseling, education, and support services. With more than 55 years of dedication, KYFS aims to help youth and families achieve their goals for a better future.

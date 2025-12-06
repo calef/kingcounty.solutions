@@ -12,4 +12,4 @@ type: Community-Based Organization
 website: https://westseattlefoodbank.org/
 ---
 
-The West Seattle Food Bank provides essential services including food distribution, emergency financial assistance, clothing, and bus tickets to support community members in need. They operate a food bank, a clothing store called the Clothesline, and offer home delivery and rent assistance.
+The West Seattle Food Bank provides essential services, including food distribution, emergency financial assistance, clothing, and bus tickets to support community members in need. It operates a food bank, a clothing store called the Clothesline, and offers home delivery and rent assistance.

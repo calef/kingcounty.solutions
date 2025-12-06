@@ -313,7 +313,7 @@ topics:
 - Employment & Job Support
 ---
 
-The Department of Veterans Affairs (VA) recognizes the importance of hiring veterans and is celebrating National Hiring Veterans Month from December 1 to December 31, 2025. This initiative emphasizes the VA's commitment to providing job opportunities for veterans, helping them transition into civilian careers. Various events and activities will be organized throughout the month to promote awareness and connect veterans with potential employers. 
+The Department of Veterans Affairs (VA) recognizes the importance of hiring veterans and is celebrating National Hiring Veterans Month from Dec. 1 to Dec. 31, 2025. This initiative emphasizes the VA's commitment to providing job opportunities for veterans, helping them transition into civilian careers. Various events and activities will be organized throughout the month to promote awareness and connect veterans with potential employers.
 
 Employers are encouraged to participate and consider hiring veterans, who bring valuable skills and experiences. Resources such as job fairs, networking opportunities, and training programs will be made available to assist veterans in their job search. The VA aims to highlight the unique qualifications that veterans possess and the benefits they can bring to the workforce.
 

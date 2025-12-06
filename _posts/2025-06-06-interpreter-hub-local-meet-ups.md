@@ -35,4 +35,4 @@ topics:
 - Disabilities
 ---
 
-CDHY Interpreter HUB is organizing local meet-ups across Washington on Saturday, September 20, 2025, from 9 AM to 10:30 AM. These events aim to foster connections within the Deaf, Hard of Hearing (DHH), and interpreting communities. Participants are encouraged to stay tuned for upcoming details regarding specific locations for the meet-ups.
+CDHY Interpreter HUB is organizing local meetups across Washington on Saturday, Sept. 20, 2025, from 9 a.m. to 10:30 a.m. These events aim to foster connections within the Deaf, hard of hearing (DHH), and interpreting communities. Participants are encouraged to stay tuned for upcoming details regarding specific locations for the meetups.

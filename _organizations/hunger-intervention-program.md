@@ -11,4 +11,4 @@ type: Community-Based Organization
 website: https://www.hungerintervention.org
 ---
 
-Hunger Intervention Program (HIP) works to increase food security for underserved populations in north King County through nutritious meals, educational programs, and advocacy.
+Hunger Intervention Program (HIP) works to increase food security for underserved populations in north King County through nutritious meals, educational programs and advocacy.

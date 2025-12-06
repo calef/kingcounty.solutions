@@ -73,10 +73,10 @@ title: 'Apply now: Hiring Our Heroes Small Business Grant Program'
 topics: []
 ---
 
-Veterans and service-disabled veterans can now apply for a new grant program aimed at supporting small businesses. The U.S. Department of Veterans Affairs (VA) is offering grants up to $50,000 for eligible veteran-owned small businesses. This initiative is part of the VA's efforts to promote entrepreneurship and economic empowerment among veterans. 
+Veterans and service-disabled veterans can now apply for a new grant program aimed at supporting small businesses. The U.S. Department of Veterans Affairs (VA) is offering grants of up to $50,000 for eligible veteran-owned small businesses. This initiative is part of the VA's efforts to promote entrepreneurship and economic empowerment among veterans.
 
-The application process is open through a designated online platform, and interested applicants are encouraged to submit their proposals detailing their business plans and how the funding will be utilized. The program aims to assist veterans in overcoming barriers to capital access and to foster business development in communities. 
+The application process is open through a designated online platform, and interested applicants are encouraged to submit their proposals detailing their business plans and how the funding will be utilized. The program aims to assist veterans in overcoming barriers to capital access and foster business development in communities.
 
-Potential applicants are advised to review the eligibility criteria, which include being a veteran or service-disabled veteran and owning at least 51% of the business. The grants can be used for various purposes, including purchasing equipment, inventory, and marketing. 
+Potential applicants are advised to review the eligibility criteria, which include being a veteran or service-disabled veteran and owning at least 51% of the business. The grants can be used for various purposes, including purchasing equipment, inventory, and marketing.
 
 This program represents a significant opportunity for veterans to enhance their business ventures and contribute positively to the economy. Applications will be evaluated based on the potential impact and feasibility of the proposed business plans.

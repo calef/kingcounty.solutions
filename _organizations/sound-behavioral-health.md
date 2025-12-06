@@ -11,4 +11,4 @@ type: Community-Based Organization
 website: https://www.sound.health/
 ---
 
-SOUND Behavioral Health provides comprehensive behavioral health services in King County, focusing on mental health and substance use disorders. With nearly 60 years of experience, they offer counseling, crisis management, and supportive housing to help individuals achieve recovery and stability.
+SOUND Behavioral Health provides comprehensive behavioral health services in King County, focusing on mental health and substance use disorders. With nearly 60 years of experience, it offers counseling, crisis management, and supportive housing to help individuals achieve recovery and stability.

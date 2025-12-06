@@ -18,6 +18,6 @@ topics:
 
 FamilyWorks Seattle recapped the events and initiatives from Hunger Action Month, which took place in September 2025. The organization emphasized the importance of raising awareness about food insecurity and mobilizing community efforts to combat hunger. Throughout the month, FamilyWorks engaged in various activities, including food drives, educational workshops, and community outreach programs aimed at increasing understanding of hunger issues.
 
-The organization highlighted the significant contributions of volunteers and local partnerships, which played a crucial role in the success of the month's events. FamilyWorks also shared inspiring stories of individuals and families impacted by their services, showcasing the positive changes brought about by community support. 
+The organization highlighted the significant contributions of volunteers and local partnerships, which played a crucial role in the success of the month's events. FamilyWorks also shared inspiring stories of individuals and families impacted by its services, showcasing the positive changes brought about by community support.
 
 In addition to direct food assistance, FamilyWorks focused on advocating for equitable access to food resources and addressing the root causes of hunger. The recap concluded with a call to action for continued community involvement and support in the ongoing fight against food insecurity, encouraging individuals to stay engaged and informed beyond Hunger Action Month.

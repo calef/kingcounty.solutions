@@ -15,4 +15,4 @@ type: Program
 website: https://smilemobilewa.org/
 ---
 
-The SmileMobile is a mobile dental clinic providing oral health services to children, youth, pregnant and postpartum individuals, and adults with limited access to dental care. Services include examinations, cleanings, fluoride varnish, and more, accepting Apple Health (Medicaid) and uninsured patients.
+The SmileMobile is a mobile dental clinic providing oral health services to children, youth, pregnant and postpartum individuals, and adults with limited access to dental care. Services include examinations, cleanings, fluoride varnish, and more, and it accepts Apple Health (Medicaid) and uninsured patients.

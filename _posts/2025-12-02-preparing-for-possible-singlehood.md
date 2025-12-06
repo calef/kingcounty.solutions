@@ -21,7 +21,7 @@ topics:
 
 Preparing for potential singlehood involves several important considerations to ensure emotional and financial stability. Embracing the possibility of being single can lead to greater self-awareness and independence. Key areas to focus on include establishing a robust support network of friends and family, which can provide emotional backing and companionship.
 
-Financial preparedness is crucial; individuals should assess their financial situation, create a budget, and consider long-term financial planning, including retirement savings and estate planning. Learning to manage household tasks independently, such as cooking, cleaning, and maintenance, can foster self-sufficiency.
+Financial preparedness is crucial. Individuals should assess their financial situation, create a budget, and consider long-term financial planning, including retirement savings and estate planning. Learning to manage household tasks independently, such as cooking, cleaning, and maintenance, can foster self-sufficiency.
 
 It's also beneficial to engage in personal development activities, such as hobbies or education, which can enhance self-esteem and provide fulfillment. Exploring social opportunities and meeting new people can help combat loneliness and build connections.
 

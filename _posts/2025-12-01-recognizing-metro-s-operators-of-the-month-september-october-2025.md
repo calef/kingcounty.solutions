@@ -16,7 +16,7 @@ topics:
 - Disabilities
 ---
 
-Metro has recognized its Operators of the Month for September and October 2025, highlighting the exceptional service and dedication of its staff. For September, Daniel Kearney, a West Seattle operator, was honored for his outstanding customer service and ability to maintain a positive atmosphere on his routes. His colleagues praised his friendliness and helpfulness, making him a beloved figure among riders. 
+Metro has recognized its Operators of the Month for September and October 2025, highlighting the exceptional service and dedication of its staff. For September, Daniel Kearney, a West Seattle operator, was honored for his outstanding customer service and ability to maintain a positive atmosphere on his routes. His colleagues praised his friendliness and helpfulness, making him a beloved figure among riders.
 
 In October, Mary Rodriguez from the South Seattle area received the accolade for her commitment to safety and efficiency. She consistently goes above and beyond to assist passengers, particularly those with disabilities, ensuring they feel comfortable and supported during their journeys. Mary’s proactive approach to her work reflects her deep care for the community and her role as an operator.
 

@@ -125,8 +125,8 @@ topics:
 - Education & Learning
 ---
 
-Lutheran Community Services Northwest (LCSNW) has launched a new initiative in Seattle schools to address the youth mental health crisis exacerbated by the COVID-19 pandemic. Funded by the City of Seattle, this program has nearly doubled the number of school-based mental health therapists and added 21 Behavioral Health Coordinators (BHCs) through community partnerships. Eight BHCs are placed in Seattle middle and high schools, marking a significant expansion for LCSNW in the Greater Puget Sound District. 
+Lutheran Community Services Northwest (LCSNW) has launched a new initiative in Seattle schools to address the youth mental health crisis exacerbated by the COVID-19 pandemic. Funded by the city of Seattle, this program has nearly doubled the number of school-based mental health therapists and added 21 behavioral health coordinators (BHCs) through community partnerships. Eight BHCs are placed in Seattle middle and high schools, marking a significant expansion for LCSNW in the greater Puget Sound district.
 
 The BHCs focus on prevention, early detection, education, and connecting students to vital community resources, addressing challenges such as anxiety, depression, substance abuse, and housing instability. They work closely with students, teachers, and social workers to create a supportive environment. BHCs also facilitate referrals to additional programs, ensuring a comprehensive approach to care.
 
-Dr. Jake Bentley, the program's Clinical Manager, emphasizes the importance of building trust within the school community. This initiative reflects a broader commitment to meeting the growing mental health needs of youth and empowering local communities to provide essential support.
+Dr. Jake Bentley, the program's clinical manager, emphasizes the importance of building trust within the school community. This initiative reflects a broader commitment to meeting the growing mental health needs of youth and empowering local communities to provide essential support.

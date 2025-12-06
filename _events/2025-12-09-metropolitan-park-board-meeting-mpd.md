@@ -123,4 +123,4 @@ title: Metropolitan Park Board Meeting (MPD)
 topics: []
 ---
 
-Join the Metropolitan Park Board for their meeting on December 9, 2025, from 6:45 PM to 7:00 PM at City Hall, located at 801 SW 174th Street, Normandy Park, WA. This meeting will provide an opportunity for community members to engage with park board discussions and share their thoughts through public comments, which can be made in-person or remotely via Zoom. Attendees can expect to hear updates on park initiatives and contribute to the conversation about local parks and recreation. Be part of shaping the future of your community’s outdoor spaces!
+Join the Metropolitan Park Board for its meeting on Dec. 9, 2025, from 6:45 to 7 p.m. at City Hall, located at 801 SW 174th St., Normandy Park, WA. This meeting will provide an opportunity for community members to engage with park board discussions and share their thoughts through public comments, which can be made in person or remotely via Zoom. Attendees can expect to hear updates on park initiatives and contribute to the conversation about local parks and recreation. Be part of shaping the future of your community’s outdoor spaces!

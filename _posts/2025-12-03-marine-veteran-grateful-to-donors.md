@@ -109,4 +109,8 @@ topics:
 - Mental Health & Counseling
 ---
 
-Marine veteran David McCarty expresses deep gratitude to donors who supported his family during a challenging time. After returning from military service, McCarty faced financial difficulties, including the loss of his job and struggles with PTSD. Operation Homefront stepped in to provide essential assistance, helping pay bills and easing the burden on his family. McCarty highlights the significant impact of the support he received, allowing him to focus on recovery and providing for his children. He emphasizes the importance of community aid for veterans and their families, as it can make a substantial difference in their lives. The contributions from donors not only provided immediate relief but also instilled hope and encouragement for a brighter future. McCarty's story serves as a reminder of the sacrifices made by service members and the crucial role of community support in their reintegration into civilian life.
+Marine veteran David McCarty expresses deep gratitude to donors who supported his family during a challenging time. After returning from military service, McCarty faced financial difficulties, including the loss of his job and struggles with PTSD. Operation Homefront stepped in to provide essential assistance, helping pay bills and easing the burden on his family. 
+
+McCarty highlights the significant impact of the support he received, allowing him to focus on recovery and provide for his children. He emphasizes the importance of community aid for veterans and their families, as it can make a substantial difference in their lives. The contributions from donors not only provided immediate relief but also instilled hope and encouragement for a brighter future. 
+
+McCarty's story serves as a reminder of the sacrifices made by service members and the crucial role of community support in their reintegration into civilian life.

@@ -74,4 +74,4 @@ title: Closed End-of-Year
 topics: []
 ---
 
-Join us at the South Park Neighborhood Center on December 26, 2025, for the Closed End-of-Year celebration as part of Holiday Sweater Week. Attendees can expect a festive atmosphere filled with holiday cheer, community spirit, and opportunities to connect with neighbors. This event is a great way to wrap up the year, share stories, and enjoy seasonal treats. Don't miss out on the chance to celebrate together in a warm and inviting setting. For more information, feel free to call 206-767-2544.
+Join us at the South Park Neighborhood Center on Dec. 26, 2025, for the Closed End-of-Year celebration as part of Holiday Sweater Week. Attendees can expect a festive atmosphere filled with holiday cheer, community spirit, and opportunities to connect with neighbors. This event is a great way to wrap up the year, share stories, and enjoy seasonal treats. Don't miss out on the chance to celebrate together in a warm and inviting setting. For more information, call 206-767-2544.

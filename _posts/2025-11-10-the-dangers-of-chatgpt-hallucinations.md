@@ -420,7 +420,7 @@ topics:
 - Legal Aid
 ---
 
-Artificial intelligence tools like ChatGPT have become integral in daily tasks, but they can produce misleading or false information, referred to as AI hallucinations. These hallucinations occur when the AI generates responses that sound credible but are incorrect or unverifiable. There are two types: intrinsic hallucinations, which misrepresent existing information, and extrinsic hallucinations, which create unverifiable facts. The polished and confident delivery of these responses can make it hard to discern their accuracy.
+Artificial intelligence tools like ChatGPT have become integral to daily tasks, but they can produce misleading or false information, referred to as AI hallucinations. These hallucinations occur when the AI generates responses that sound credible but are incorrect or unverifiable. There are two types: intrinsic hallucinations, which misrepresent existing information, and extrinsic hallucinations, which create unverifiable facts. The polished and confident delivery of these responses can make it hard to discern their accuracy.
 
 Research suggests that hallucinations can happen frequently, with rates ranging from 33% to 79%, depending on various factors. Relying on ChatGPT for critical information, especially about health or legal matters, can lead to poor decisions. Additionally, misinformation can affect mental health, causing anxiety and confusion, particularly for users with preexisting conditions.
 

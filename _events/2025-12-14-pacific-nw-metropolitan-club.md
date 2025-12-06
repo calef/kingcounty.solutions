@@ -58,4 +58,4 @@ title: Pacific NW Metropolitan Club
 topics: []
 ---
 
-Join the Pacific NW Metropolitan Club on December 14, 2025, from 12:30 PM to 3:00 PM for an engaging afternoon of networking and community connection. Attendees can expect to meet like-minded individuals, share ideas, and enjoy stimulating discussions in a welcoming environment. This event is a great opportunity to expand your professional network and learn more about local initiatives. Don’t miss this chance to connect with others in the community at this enriching gathering.
+Join the Pacific NW Metropolitan Club on Dec. 14, 2025, from 12:30 p.m. to 3 p.m. for an engaging afternoon of networking and community connection. Attendees can expect to meet like-minded individuals, share ideas, and enjoy stimulating discussions in a welcoming environment. This event is a great opportunity to expand your professional network and learn more about local initiatives. Don’t miss this chance to connect with others in the community at this enriching gathering.

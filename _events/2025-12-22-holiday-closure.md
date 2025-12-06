@@ -53,4 +53,4 @@ topics:
 - Childcare
 ---
 
-Join us for the Holiday Closure at KidVantage Hubs in Washington from December 22, 2025, to January 1, 2026. During this festive break, all KidVantage locations will be closed, allowing our team to celebrate the holidays with their families. We will resume regular hours on Friday, January 2, 2026. We wish everyone a joyful holiday season and look forward to welcoming you back in the new year!
+Join us for the holiday closure at KidVantage Hubs in Washington from December 22, 2025, to January 1, 2026. During this festive break, all KidVantage locations will be closed, allowing our team to celebrate the holidays with their families. We will resume regular hours on Friday, January 2, 2026. We wish everyone a joyful holiday season and look forward to welcoming you back in the new year!

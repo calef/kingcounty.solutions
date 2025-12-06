@@ -8,4 +8,4 @@ type: Agency
 website: https://www.maryolearyphd.com/
 ---
 
-Dr. Mary O'Leary is a Licensed Clinical Psychologist with over 30 years of experience, offering individual and relationship therapy. She utilizes evidence-based approaches to help clients manage mental health concerns such as anxiety, depression, and relationship issues. Services are available via Telehealth and in-person sessions across Washington State.
+Dr. Mary O'Leary is a licensed clinical psychologist with more than 30 years of experience, offering individual and relationship therapy. She utilizes evidence-based approaches to help clients manage mental health concerns such as anxiety, depression, and relationship issues. Services are available via telehealth and in-person sessions across Washington state.

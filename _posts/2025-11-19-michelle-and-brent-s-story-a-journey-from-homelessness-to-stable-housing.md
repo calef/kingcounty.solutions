@@ -168,7 +168,7 @@ topics:
 - Food & Nutrition
 ---
 
-Today, Michelle and Brent have a stable home for their family, including their 9-month-old son, after a challenging journey from homelessness. Less than two years ago, they faced unsheltered living and substance use disorders. Upon learning of Michelle's pregnancy, they committed to treatment and sought stable housing. Initially, they moved in with Brent's brother, but soon faced homelessness again after the landlord lost the property.
+Today, Michelle and Brent have a stable home for their family, including their 9-month-old son, after a challenging journey from homelessness. Less than two years ago, they faced unsheltered living and substance use disorders. Upon learning of Michelle's pregnancy, they committed to treatment and sought stable housing. Initially, they moved in with Brent's brother but soon faced homelessness again after the landlord lost the property.
 
 They connected with Catholic Community Services' Family Housing Network while residing in a shelter. The program provided essential support, including assistance with move-in costs and connecting them with a landlord willing to help families in crisis. This intervention allowed them to secure permanent housing, which was critical for their family’s future.
 

@@ -150,4 +150,4 @@ Additionally, the council is working on an amendment to Bellevue City Code regar
 
 Progress on the Sustainable Bellevue Plan was reported, highlighting that the city has exceeded its 50% emissions reduction target, achieving a 54% reduction from 2011 levels. A public comment period for the draft 2026-2030 plan will open in August, with final adoption expected in November.
 
-Lastly, the council voted to advance legislation for the 2026 Bellevue-Redmond Tourism Promotional Area Budget, which will guide tourism funding derived from lodging charges. The next council meeting is scheduled for August 4.
+Lastly, the council voted to advance legislation for the 2026 Bellevue-Redmond Tourism Promotional Area budget, which will guide tourism funding derived from lodging charges. The next council meeting is scheduled for Aug. 4.

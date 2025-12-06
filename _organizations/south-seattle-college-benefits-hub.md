@@ -13,4 +13,4 @@ type: Program
 website: https://southseattle.edu/benefits-hub
 ---
 
-The Benefits Hub connects students with essential resources to support their academic journey, including financial aid, food assistance, and job support. Open virtually Monday to Friday from 8:30 AM to 4 PM.
+The Benefits Hub connects students with essential resources to support their academic journey, including financial aid, food assistance, and job support. It is open virtually Monday through Friday from 8:30 a.m. to 4 p.m.

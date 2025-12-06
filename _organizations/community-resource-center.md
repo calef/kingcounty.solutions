@@ -17,4 +17,4 @@ type: Program
 website: https://seattle.gov/courts/crc
 ---
 
-The Community Resource Center offers free and low-cost services including food assistance, hygiene kits, clothing, and referrals for various social services. Open Monday to Friday, it provides essential resources to those in need.
+The Community Resource Center offers free and low-cost services, including food assistance, hygiene kits, clothing, and referrals for various social services. Open Monday through Friday, it provides essential resources to those in need.

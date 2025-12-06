@@ -12,4 +12,4 @@ type: Community-Based Organization
 website: https://www.seamar.org/king-dental-bellevue.html
 ---
 
-Sea Mar Bellevue Dental Clinic offers comprehensive dental services including preventive care, emergency dental care, and education on oral health. We serve all individuals regardless of income, ethnicity, or immigration status, ensuring accessible dental care for the community.
+Sea Mar Bellevue Dental Clinic offers comprehensive dental services, including preventive care, emergency dental care, and education on oral health. We serve all individuals regardless of income, ethnicity, or immigration status, ensuring accessible dental care for the community.

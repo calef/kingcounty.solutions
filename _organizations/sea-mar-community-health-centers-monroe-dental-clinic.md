@@ -12,4 +12,4 @@ type: Community-Based Organization
 website: https://www.seamar.org/snohomish-dental-monroe.html
 ---
 
-Sea Mar Community Health Centers offers comprehensive dental services including oral exams, preventive care, emergency dental care, and education on oral hygiene. We serve all individuals regardless of income or background, with a focus on family dentistry.
+Sea Mar Community Health Centers offers comprehensive dental services, including oral exams, preventive care, emergency dental care, and education on oral hygiene. We serve all individuals, regardless of income or background, with a focus on family dentistry.

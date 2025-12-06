@@ -186,4 +186,4 @@ topics:
 - Education & Learning
 ---
 
-Join us for a Beginner Spanish Class on December 11, 2025, from 9:00 AM to 10:00 AM at The Center for Active Living, located at 4217 SW Oregon St., Seattle, WA. This class is perfect for those with little or some experience in Spanish and aims to build a foundation for transitioning into more advanced conversational classes. Attendees can expect a supportive environment where they will learn basic vocabulary and phrases, helping to enhance their language skills. Don't miss this opportunity to start your journey in Spanish!
+Join us for a beginner Spanish class on Dec. 11, 2025, from 9 to 10 a.m. at The Center for Active Living, located at 4217 SW Oregon St., Seattle, WA. This class is perfect for those with little or some experience in Spanish and aims to build a foundation for transitioning into more advanced conversational classes. Attendees can expect a supportive environment where they will learn basic vocabulary and phrases, helping to enhance their language skills. Don't miss this opportunity to start your journey in Spanish!

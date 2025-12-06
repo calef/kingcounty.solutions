@@ -13,4 +13,4 @@ topics:
 - Education & Learning
 ---
 
-The Joshua P. Williams Foundation is being honored for over 20 years of steadfast support. As this year marks the conclusion of their journey, gratitude is expressed for the relationships formed and the collective impact made. The foundation's efforts have not only created programs but have also significantly transformed lives, demonstrating that community is more than just a term. Appreciation is extended for the consistent commitment to supporting youth throughout the years. The achievements realized together are expected to continue to thrive in the future.
+The Joshua P. Williams Foundation is being honored for more than 20 years of steadfast support. As this year marks the conclusion of its journey, gratitude is expressed for the relationships formed and the collective impact made. The foundation's efforts have not only created programs but have also significantly transformed lives, demonstrating that community is more than just a term. Appreciation is extended for the consistent commitment to supporting youth throughout the years. The achievements realized together are expected to continue to thrive in the future.

@@ -16,4 +16,4 @@ title: Brechemin Piano Series
 topics: []
 ---
 
-Join us for the Brechemin Piano Series on February 26, 2026, at 7:30 PM in the Music Building (MUS). This captivating event showcases talented pianists performing a diverse range of classical and contemporary pieces, providing an enriching experience for music lovers. Attendees can immerse themselves in the beauty of piano music, enjoy the artistry of skilled performers, and connect with fellow music enthusiasts. Don't miss this opportunity to experience an evening of exceptional musical talent in a welcoming atmosphere.
+Join us for the Brechemin Piano Series on Feb. 26, 2026, at 7:30 p.m. in the Music Building (MUS). This captivating event showcases talented pianists performing a diverse range of classical and contemporary pieces, providing an enriching experience for music lovers. Attendees can immerse themselves in the beauty of piano music, enjoy the artistry of skilled performers, and connect with fellow music enthusiasts. Don't miss this opportunity to experience an evening of exceptional musical talent in a welcoming atmosphere.

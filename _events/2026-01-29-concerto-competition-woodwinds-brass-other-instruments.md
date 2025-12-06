@@ -17,6 +17,6 @@ title: 'Concerto Competition: Woodwinds, Brass, Other Instruments'
 topics: []
 ---
 
-Join us for the Concerto Competition featuring talented musicians from the woodwinds, brass, and other instrumental categories. This exciting event will showcase a variety of performances, offering attendees a chance to experience the artistry and skill of emerging musicians. 
+Join us for the Concerto Competition featuring talented musicians from the woodwinds, brass, and other instrumental categories. This exciting event will showcase a variety of performances, offering attendees a chance to experience the artistry and skill of emerging musicians.
 
-The competition takes place on January 29, 2026, starting at 5:30 PM in the Music Building. Come support your favorite performers and enjoy an evening filled with exceptional music. Whether you are a music enthusiast or just looking for a delightful experience, this event promises to be inspiring and entertaining. Don't miss this opportunity to witness the next generation of musical talent!
+The competition takes place on Jan. 29, 2026, starting at 5:30 p.m. in the Music Building. Come support your favorite performers and enjoy an evening filled with exceptional music. Whether you are a music enthusiast or just looking for a delightful experience, this event promises to be inspiring and entertaining. Don't miss this opportunity to witness the next generation of musical talent!

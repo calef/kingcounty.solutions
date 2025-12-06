@@ -95,8 +95,8 @@ topics:
 - Disabilities
 ---
 
-November offerings from the CDHY Interpreter Hub focus on the theme "Becoming," emphasizing growth and professional development for interpreters. Key activities include one-on-one sessions with Deaf and Interpreter mentors, mock interpreting practice, classroom observations, and book club kits. Registration for one-on-one sessions and mock practices will close on November 25, while workshops remain open.
+November offerings from the CDHY Interpreter Hub focus on the theme "Becoming," emphasizing growth and professional development for interpreters. Key activities include one-on-one sessions with Deaf and interpreter mentors, mock interpreting practice, classroom observations, and book club kits. Registration for one-on-one sessions and mock practices will close on Nov. 25, while workshops remain open.
 
-Two notable workshops include "Becoming: The Speaker," presented by Melissa Klindtworth and Charlene Williams, scheduled for November 5. This interactive session aims to enhance interpreters' ability to align their interpretations with the speaker's tone and intent, particularly beneficial for those preparing for national certification exams.
+Two notable workshops include "Becoming: The Speaker," presented by Melissa Klindtworth and Charlene Williams, scheduled for Nov. 5. This interactive session aims to enhance interpreters' ability to align their interpretations with the speaker's tone and intent, particularly beneficial for those preparing for national certification exams.
 
-Another workshop, "Becoming: The Wink, The Pause, and The Punchline," led by Taralynn Petrites, Kaycee Watson, and Kai Winchester, will take place on November 8. This workshop delves into the nuances of humor and sarcasm in ASL interpreting, focusing on their impact on Deaf students in the classroom, helping interpreters represent nuanced language with cultural sensitivity.
+Another workshop, "Becoming: The Wink, The Pause, and The Punchline," led by Taralynn Petrites, Kaycee Watson, and Kai Winchester, will take place on Nov. 8. This workshop delves into the nuances of humor and sarcasm in ASL interpreting, focusing on their impact on Deaf students in the classroom and helping interpreters represent nuanced language with cultural sensitivity.

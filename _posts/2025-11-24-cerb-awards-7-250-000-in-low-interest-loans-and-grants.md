@@ -20,4 +20,4 @@ title: CERB Awards $7,250,000 in low interest loans and grants
 topics: []
 ---
 
-The Washington State Community Economic Revitalization Board (CERB) has approved $7,250,000 in low interest loans and grants aimed at enhancing planning, economic development, and public infrastructure. This funding is designated to promote business growth and create jobs within Chelan, Cowlitz, Mason, Pierce, and Spokane Counties. The initiative reflects a commitment to fostering economic revitalization and supporting local communities in their development efforts.
+The Washington State Community Economic Revitalization Board (CERB) has approved $7.25 million in low-interest loans and grants aimed at enhancing planning, economic development, and public infrastructure. This funding is designated to promote business growth and create jobs within Chelan, Cowlitz, Mason, Pierce, and Spokane counties. The initiative reflects a commitment to fostering economic revitalization and supporting local communities in their development efforts.

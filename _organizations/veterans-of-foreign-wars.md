@@ -14,4 +14,4 @@ type: Community-Based Organization
 website: https://www.vfw.org/
 ---
 
-The VFW is a nonprofit organization dedicated to serving veterans and military families. They provide free assistance with VA claims, advocate for veterans' rights, and offer various support programs to ensure veterans receive their earned benefits.
+The VFW is a nonprofit organization dedicated to serving veterans and military families. It provides free assistance with VA claims, advocates for veterans' rights, and offers various support programs to ensure veterans receive their earned benefits.

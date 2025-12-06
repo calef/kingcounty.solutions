@@ -17,4 +17,4 @@ title: DUI Driver Arrested After Crashing Stolen Truck, Running From Cops
 topics: []
 ---
 
-Seattle police arrested a 31-year-old man after he crashed a stolen truck and fled from officers in West Seattle on November 6. The incident occurred around 11:30 p.m. when a patrol officer spotted the truck. The driver attempted to evade capture but was ultimately apprehended.
+Seattle police arrested a 31-year-old man after he crashed a stolen truck and fled from officers in West Seattle on Nov. 6. The incident occurred around 11:30 p.m. when a patrol officer spotted the truck. The driver attempted to evade capture but was ultimately apprehended.

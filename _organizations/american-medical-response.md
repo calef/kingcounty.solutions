@@ -11,4 +11,4 @@ type: Department
 website: https://www.amr.net
 ---
 
-American Medical Response (AMR) provides emergency medical services (EMS) and pre-hospital healthcare across the United States. With a commitment to delivering quality care, AMR operates a fleet of ambulances and employs trained professionals to ensure timely and effective medical assistance in emergencies.
+American Medical Response (AMR) provides emergency medical services (EMS) and prehospital health care across the United States. With a commitment to delivering quality care, AMR operates a fleet of ambulances and employs trained professionals to ensure timely and effective medical assistance in emergencies.

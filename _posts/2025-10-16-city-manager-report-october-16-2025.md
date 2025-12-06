@@ -224,7 +224,7 @@ title: City Manager Report – October 16, 2025
 topics: []
 ---
 
-The City Manager's report for October 16, 2025, highlights key updates and ongoing projects in Normandy Park. The report emphasizes the completion of the annual budget process, with a focus on financial sustainability and community priorities. The City Council is reviewing proposed budget amendments that aim to enhance public services and infrastructure.
+The City Manager's report for October 16, 2025, highlights key updates and ongoing projects in Normandy Park. The report emphasizes the completion of the annual budget process, focusing on financial sustainability and community priorities. The City Council is reviewing proposed budget amendments aimed at enhancing public services and infrastructure.
 
 Significant progress has been made on the city's parks and recreation programs, with upcoming events designed to foster community engagement. The report also addresses public safety initiatives, including the recruitment of additional police officers to improve community policing efforts.
 

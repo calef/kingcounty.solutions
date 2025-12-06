@@ -45,4 +45,4 @@ topics:
 - Employment & Job Support
 ---
 
-Join us for the Virtual (Western) Job Fair on January 27, 2026. This online event offers an excellent opportunity for job seekers to connect with diverse employers from various industries. Attendees can explore job openings, attend virtual interviews, and network with recruiters, all from the comfort of their own homes. Prepare to advance your career by engaging with potential employers and discovering new opportunities. Don't miss this chance to enhance your job search on this exciting day dedicated to connecting talent with opportunity.
+Join us for the Virtual (Western) Job Fair on Jan. 27, 2026. This online event offers an excellent opportunity for job seekers to connect with diverse employers from various industries. Attendees can explore job openings, attend virtual interviews, and network with recruiters, all from the comfort of their own homes. Prepare to advance your career by engaging with potential employers and discovering new opportunities. Don't miss this chance to enhance your job search on this exciting day dedicated to connecting talent with opportunity.

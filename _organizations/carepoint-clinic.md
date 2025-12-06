@@ -15,4 +15,4 @@ type: Community-Based Organization
 website: https://www.carepointonline.org
 ---
 
-CarePoint Clinic provides free healthcare services to the Snoqualmie Valley, ensuring access to quality medical care regardless of financial situation. Services include wellness exams, disease management, acute care, and physical therapy, along with a mobile clinic to reach underserved communities.
+CarePoint Clinic provides free health care services to the Snoqualmie Valley, ensuring access to quality medical care regardless of financial situation. Services include wellness exams, disease management, acute care, and physical therapy, along with a mobile clinic to reach underserved communities.

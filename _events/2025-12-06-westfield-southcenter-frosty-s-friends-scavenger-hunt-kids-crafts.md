@@ -92,4 +92,4 @@ topics:
 - Childcare
 ---
 
-Join us at Westfield Southcenter Mall on December 6 from 11 AM to 1 PM for Frosty's Friends Scavenger Hunt and Kids' Crafts! Families can embark on a fun scavenger hunt to find Frosty’s friends hidden throughout the mall. Complete the hunt and redeem your card for a special holiday prize. Additionally, children can participate in a free Frosty-themed craft at the kids’ activity station near the Santa set. This festive event is a wonderful opportunity to create joyful memories and discover holiday surprises while enjoying a cheerful Saturday with family and friends.
+Join us at Westfield Southcenter Mall on Dec. 6 from 11 a.m. to 1 p.m. for Frosty's Friends Scavenger Hunt and Kids' Crafts! Families can embark on a fun scavenger hunt to find Frosty’s friends hidden throughout the mall. Complete the hunt and redeem your card for a special holiday prize. Additionally, children can participate in a free Frosty-themed craft at the kids’ activity station near the Santa set. This festive event is a wonderful opportunity to create joyful memories and discover holiday surprises while enjoying a cheerful Saturday with family and friends.

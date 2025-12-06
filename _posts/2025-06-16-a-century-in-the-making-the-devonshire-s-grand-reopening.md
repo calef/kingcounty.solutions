@@ -84,7 +84,7 @@ topics:
 - Shelter & Housing
 ---
 
-Community Roots Housing has completed a major renovation of the historic Devonshire Apartments in Seattle's Belltown neighborhood, originally opened in 1925. Acquired by Community Roots in 1993, the Devonshire has served as affordable housing, but faced challenges when its hot water system failed in 2023. Instead of a simple fix, a comprehensive gut rehabilitation was undertaken in partnership with the City of Seattle Office of Housing, modernizing the building while preserving its historic charm.
+Community Roots Housing has completed a major renovation of the historic Devonshire Apartments in Seattle's Belltown neighborhood, originally opened in 1925. Acquired by Community Roots in 1993, the Devonshire has served as affordable housing but faced challenges when its hot water system failed in 2023. Instead of a simple fix, a comprehensive gut rehabilitation was undertaken in partnership with the City of Seattle Office of Housing, modernizing the building while preserving its historic charm.
 
 The renovation involved extensive structural upgrades, including seismic reinforcements and the installation of a new fire sprinkler system. All HVAC, plumbing, and electrical systems were replaced to meet current building codes. Interior updates include LED lighting, stainless steel appliances, and ADA-compliant layouts, while original features like terrazzo floors and woodwork have been preserved.
 

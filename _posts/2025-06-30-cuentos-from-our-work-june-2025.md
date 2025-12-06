@@ -168,10 +168,10 @@ topics:
 - Education & Learning
 ---
 
-On June 14, 2025, the Seattle No Kings Rally and March took place at Cal Anderson Park, where hundreds gathered to advocate for democracy, justice, and equity. Organized by various groups, the event was part of a nationwide movement featuring nearly 2,000 No Kings Day events, estimated to have drawn millions of participants. 
+On June 14, 2025, the Seattle No Kings Rally and March took place at Cal Anderson Park, where hundreds gathered to advocate for democracy, justice, and equity. Organized by various groups, the event was part of a nationwide movement featuring nearly 2,000 No Kings Day events, estimated to have drawn millions of participants.
 
-The José Martí Child Development Center at El Centro de la Raza engaged its students in learning about essential workers through bilingual lessons, fostering respect and understanding of their contributions to the community. 
+The José Martí Child Development Center at El Centro de la Raza engaged its students in learning about essential workers through bilingual lessons, fostering respect and understanding of their contributions to the community.
 
-Additionally, Estela Ortega, Co-Founder and Executive Director of El Centro de la Raza, received the Martin Luther King Jr. Medal of Distinguished Service from King County Councilmember Pete von Reichbauer for her dedication to social justice over the past five decades. Under her leadership, El Centro has offered crucial services to over 21,333 individuals in 2024 alone.
+Additionally, Estela Ortega, co-founder and executive director of El Centro de la Raza, received the Martin Luther King Jr. Medal of Distinguished Service from King County Councilmember Pete von Reichbauer for her dedication to social justice over the past five decades. Under her leadership, El Centro has offered crucial services to more than 21,333 individuals in 2024 alone.
 
-El Centro also celebrated graduation season, honoring over 100 preschool graduates and 50 high school students from local districts. The programs emphasized a bilingual, bicultural curriculum, encouraging young leaders to recognize their voices and potential to influence change in their communities.
+El Centro also celebrated graduation season, honoring more than 100 preschool graduates and 50 high school students from local districts. The programs emphasized a bilingual, bicultural curriculum, encouraging young leaders to recognize their voices and potential to influence change in their communities.

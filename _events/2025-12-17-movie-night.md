@@ -68,4 +68,4 @@ title: Movie Night
 topics: []
 ---
 
-Join us for a cozy Movie Night on December 17th from 6:00 PM to 8:00 PM at the South Park Neighborhood Center, located at 8201 10th Ave S, Seattle, WA. Attendees can enjoy a selection of family-friendly films in a welcoming atmosphere, perfect for all ages. Bring your friends and family for a night of entertainment, popcorn, and community spirit. Don't miss this opportunity to relax and connect with neighbors while enjoying a great movie! For more information, contact the SP Senior Center at 206-767-2544.
+Join us for a cozy movie night on Dec. 17 from 6 to 8 p.m. at the South Park Neighborhood Center, located at 8201 10th Ave. S, Seattle, WA. Attendees can enjoy a selection of family-friendly films in a welcoming atmosphere, perfect for all ages. Bring your friends and family for a night of entertainment, popcorn, and community spirit. Don't miss this opportunity to relax and connect with neighbors while enjoying a great movie! For more information, contact the South Park Senior Center at 206-767-2544.

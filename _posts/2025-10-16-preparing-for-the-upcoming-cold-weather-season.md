@@ -16,7 +16,7 @@ topics:
 - Shelter & Housing
 ---
 
-As winter approaches, the KCRHA prepares for the severe weather season, which typically begins around Thanksgiving. The organization is actively analyzing the previous season to enhance its response and has several initiatives underway, including establishing contracts for 2025 severe weather responses and preparing for the 2026 Severe Weather Response Request for Proposals. They are also collaborating with various partners and community organizations to improve shelter options. 
+As winter approaches, the King County Regional Homelessness Authority (KCRHA) prepares for the severe weather season, which typically begins around Thanksgiving. The organization is actively analyzing the previous season to enhance its response and has several initiatives underway, including establishing contracts for 2025 severe weather responses and preparing for the 2026 Severe Weather Response Request for Proposals. KCRHA is also collaborating with various partners and community organizations to improve shelter options.
 
 This year, KCRHA is expanding the information available about overnight shelters and day centers to include details such as services offered, pet policies, and accessibility, allowing those in need to make informed decisions about where to seek shelter. Efforts include outreach to local service providers and the public to compile a comprehensive list of warming spaces, which may encompass overnight shelters, day centers, libraries, churches, and public spaces like community centers and shopping centers that do not require payment from individuals experiencing homelessness.
 

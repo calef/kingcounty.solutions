@@ -184,4 +184,4 @@ topics:
 - Senior Services
 ---
 
-Join us for a Member Orientation on December 10, 2025, from 10:00 AM to 11:00 AM at The Center for Active Living, located at 4217 SW Oregon St., Seattle, WA. This event offers a great opportunity for new members to learn about the benefits and activities available at the center. Attendees will receive a warm welcome from our Member Concierge, Cynthia, and can drop in anytime during the hour. Discover social activities, games, and resources that enhance community engagement and well-being. Don't miss this chance to connect and get involved!
+Join us for a member orientation on Dec. 10, 2025, from 10 to 11 a.m. at The Center for Active Living, located at 4217 SW Oregon St., Seattle, WA. This event offers a great opportunity for new members to learn about the benefits and activities available at the center. Attendees will receive a warm welcome from our member concierge, Cynthia, and can drop in anytime during the hour. Discover social activities, games, and resources that enhance community engagement and well-being. Don't miss this chance to connect and get involved!

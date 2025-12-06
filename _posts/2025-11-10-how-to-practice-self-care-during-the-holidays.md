@@ -419,7 +419,7 @@ topics:
 - Food & Nutrition
 ---
 
-While the holidays can bring joy and togetherness, they may also lead to stress, loneliness, and anxiety. To maintain mental health during this busy season, practicing self-care is essential. Simple, intentional actions can help manage stress and enhance enjoyment of the holidays. 
+While the holidays can bring joy and togetherness, they may also lead to stress, loneliness, and anxiety. To maintain mental health during this busy season, practicing self-care is essential. Simple, intentional actions can help manage stress and enhance enjoyment of the holidays.
 
 Setting realistic expectations is important; instead of striving for perfection, focus on creating meaningful moments with loved ones. Learning to say no to social obligations can protect your energy and well-being, as declining invitations is not selfish. Acknowledging and processing emotions is crucial, especially if dealing with grief, allowing for a mix of feelings without judgment.
 

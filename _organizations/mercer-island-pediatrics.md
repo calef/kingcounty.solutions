@@ -13,4 +13,4 @@ type: Agency
 website: https://www.mipediatrics.com/
 ---
 
-Mercer Island Pediatrics provides comprehensive medical care for children and adolescents, including routine check-ups, immunizations, and behavioral health services. Our dedicated pediatricians focus on building strong relationships with families to ensure the health and well-being of every child.
+Mercer Island Pediatrics provides comprehensive medical care for children and adolescents, including routine checkups, immunizations, and behavioral health services. Our dedicated pediatricians focus on building strong relationships with families to ensure the health and well-being of every child.

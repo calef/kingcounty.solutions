@@ -241,4 +241,8 @@ topics:
 - Personal & Household Needs
 ---
 
-The holiday season can be particularly difficult for the women served by Jubilee, but community support can make a significant impact. There are three ways to contribute this season. First, individuals can participate in decorating Jubilee's homes for the holidays, with opportunities available for groups of four or more. Interested parties are encouraged to reach out to schedule their participation. Second, there is a need for holiday decorations for both the interior and exterior of the three homes, along with gifts and stocking stuffers for the women in the program. By helping with these initiatives, community members can create a warm and festive atmosphere that promotes joy, comfort, and connection during the holidays.
+The holiday season can be particularly difficult for the women served by Jubilee, but community support can make a significant impact. There are three ways to contribute this season. 
+
+First, individuals can participate in decorating Jubilee's homes for the holidays, with opportunities available for groups of four or more. Interested parties are encouraged to reach out to schedule their participation. 
+
+Second, there is a need for holiday decorations for both the interior and exterior of the three homes, along with gifts and stocking stuffers for the women in the program. By helping with these initiatives, community members can create a warm and festive atmosphere that promotes joy, comfort, and connection during the holidays.

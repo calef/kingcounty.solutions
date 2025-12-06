@@ -71,4 +71,4 @@ topics:
 - Senior Services
 ---
 
-Join us for the SENIORS Redmond Lunch on December 10, 2025, from 11:30 AM to 1:30 PM at St. Jude Catholic Church, located at 10526 166th Ave NE in Redmond, WA. This welcoming event offers a great opportunity for seniors to enjoy a delicious meal while connecting with friends and neighbors. Attendees can expect a friendly atmosphere, engaging conversations, and the chance to meet new people in the community. Don’t miss this chance to relax and socialize in a supportive environment!
+Join us for the SENIORS Redmond Lunch on Dec. 10, 2025, from 11:30 a.m. to 1:30 p.m. at St. Jude Catholic Church, located at 10526 166th Ave. NE in Redmond, Washington. This welcoming event offers a great opportunity for seniors to enjoy a delicious meal while connecting with friends and neighbors. Attendees can expect a friendly atmosphere, engaging conversations, and the chance to meet new people in the community. Don’t miss this chance to relax and socialize in a supportive environment!

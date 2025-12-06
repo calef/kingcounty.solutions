@@ -24,7 +24,7 @@ topics:
 - Mental Health & Counseling
 ---
 
-As Seattle enters its season of shorter days and gray skies, many, particularly older adults, experience a dip in energy and mood. The long evenings, cold weather, and reduced social interaction can lead to feelings of isolation and even seasonal depression. The holiday season, while joyful, can bring added stress and highlight feelings of absence for those living alone.
+As Seattle enters its season of shorter days and gray skies, many—particularly older adults—experience a dip in energy and mood. The long evenings, cold weather, and reduced social interaction can lead to feelings of isolation and even seasonal depression. The holiday season, while joyful, can bring added stress and highlight feelings of absence for those living alone.
 
 To combat these challenges, simple strategies can help brighten the darker months. Seeking natural light by sitting near windows, taking brief outdoor breaks, and using warm indoor lighting can enhance mood. Staying connected with friends through calls or community activities is also beneficial. Practicing gratitude by noting daily bright spots and appreciating small moments can further uplift spirits and build resilience.
 

@@ -35,4 +35,4 @@ title: August 2025 Newsletter
 topics: []
 ---
 
-The August 2025 newsletter has been released, featuring important updates and upcoming events. A notable highlight is the announcement of the CarePoint Blood Drive scheduled for September 10, 2025. Additionally, the newsletter promotes the upcoming Annual Benefit, encouraging community participation.
+The August 2025 newsletter has been released, featuring important updates and upcoming events. A notable highlight is the announcement of the CarePoint Blood Drive scheduled for Sept. 10, 2025. Additionally, the newsletter promotes the upcoming annual benefit, encouraging community participation.

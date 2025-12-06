@@ -7,4 +7,4 @@ type: Town
 website: https://www.beauxarts-wa.gov/
 ---
 
-The Town of Beaux Arts Village serves the community of **Beaux Arts Village**, Washington, providing local governance and community services.
+The town of Beaux Arts Village serves the community of **Beaux Arts Village**, Washington, providing local governance and community services.

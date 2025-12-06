@@ -13,4 +13,4 @@ type: Community-Based Organization
 website: https://atlanticstreetcenter.org
 ---
 
-Atlantic Street Center supports families and communities in raising healthy, successful children and youth through direct services and advocacy. We provide wrap-around services including early education, family support, and behavioral health services primarily for no- and low-income African American families in the Greater Seattle area.
+Atlantic Street Center supports families and communities in raising healthy, successful children and youth through direct services and advocacy. We provide wraparound services, including early education, family support, and behavioral health services, primarily for no- and low-income African American families in the greater Seattle area.

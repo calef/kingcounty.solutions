@@ -117,4 +117,4 @@ title: Pride Across the Bridge
 topics: []
 ---
 
-Join us for Pride Across the Bridge on December 10 from 4:00 PM to 6:00 PM at the Together Center in Redmond, WA. This free event offers a welcoming space to engage with the leadership of Pride Across the Bridge. Attendees can ask questions, share their needs, and learn more about the organization while enjoying complimentary coffee and tea. It’s a great opportunity to connect with the community and foster conversations around important topics. Don't miss this chance to be part of an inclusive environment!
+Join us for Pride Across the Bridge on Dec. 10 from 4 to 6 p.m. at the Together Center in Redmond, Washington. This free event offers a welcoming space to engage with the leadership of Pride Across the Bridge. Attendees can ask questions, share their needs, and learn more about the organization while enjoying complimentary coffee and tea. It’s a great opportunity to connect with the community and foster conversations around important topics. Don't miss this chance to be part of an inclusive environment!

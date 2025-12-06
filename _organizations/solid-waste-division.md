@@ -12,4 +12,4 @@ type: Division
 website: https://www.dsm.city/departments/public_works-division/garbage_collection/garbage_collection.php
 ---
 
-The Solid Waste Division provides garbage collection services, including bulk trash and appliance pick-up. Residents can schedule pick-ups for large items and purchase necessary stickers for disposal. For more information, contact customer service 24/7.
+The Solid Waste Division provides garbage collection services, including bulk trash and appliance pickup. Residents can schedule pickups for large items and purchase necessary stickers for disposal. For more information, contact customer service 24/7.

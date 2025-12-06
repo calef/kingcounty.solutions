@@ -80,4 +80,4 @@ topics:
 - Health Care
 ---
 
-Join Cindy House for EnhanceFitness at the South Park Neighborhood Center on December 17 from 3:00 PM to 4:00 PM. This engaging class focuses on gentle exercises and stretches, perfect for all fitness levels. Attendees can expect a supportive environment that promotes health and wellness. Classes are held every Monday, Wednesday, and Friday, but space is limited, so reservations are required. To secure your spot, please contact Andrew at 206-909-0346 or via email. Don’t miss this opportunity to enhance your fitness in a friendly community setting!
+Join Cindy House for EnhanceFitness at the South Park Neighborhood Center on Dec. 17 from 3 to 4 p.m. This engaging class focuses on gentle exercises and stretches, perfect for all fitness levels. Attendees can expect a supportive environment that promotes health and wellness. Classes are held every Monday, Wednesday, and Friday, but space is limited, so reservations are required. To secure your spot, please contact Andrew at 206-909-0346 or via email. Don’t miss this opportunity to enhance your fitness in a friendly community setting!

@@ -14,4 +14,4 @@ type: Community-Based Organization
 website: https://www.ccfcharity.org
 ---
 
-Circle of Caring Friends Charity is a 501(c)3 non-profit organization dedicated to serving low-income households, foster families, individuals with disabilities, seniors, and veterans. We provide essential household items, school supplies, and support through various programs, including a hosting project for orphans from Ukraine.
+Circle of Caring Friends Charity is a 501(c)(3) nonprofit organization dedicated to serving low-income households, foster families, individuals with disabilities, seniors, and veterans. We provide essential household items, school supplies, and support through various programs, including a hosting project for orphans from Ukraine.

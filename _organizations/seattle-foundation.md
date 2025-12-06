@@ -14,4 +14,4 @@ type: Community-Based Organization
 website: https://www.seattlefoundation.org
 ---
 
-Seattle Foundation is dedicated to igniting powerful philanthropy to create a stronger, more vibrant community in Greater Seattle. We focus on addressing systemic inequities and fostering collaboration among nonprofits, philanthropists, and community leaders to ensure everyone can thrive.
+Seattle Foundation is dedicated to igniting powerful philanthropy to create a stronger, more vibrant community in greater Seattle. We focus on addressing systemic inequities and fostering collaboration among nonprofits, philanthropists, and community leaders to ensure everyone can thrive.

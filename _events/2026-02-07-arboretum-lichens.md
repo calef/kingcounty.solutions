@@ -15,4 +15,4 @@ title: Arboretum Lichens
 topics: []
 ---
 
-Join us at the Washington Park Arboretum on February 7, 2026, for the "Arboretum Lichens" event. Attendees can expect an engaging exploration of the fascinating world of lichens, including their ecological importance and unique characteristics. This event offers a wonderful opportunity to learn from experts, participate in guided walks, and appreciate the beauty of these often-overlooked organisms in a natural setting. Don't miss this chance to deepen your understanding of lichen diversity and their role in our environment.
+Join us at the Washington Park Arboretum on Feb. 7, 2026, for the "Arboretum Lichens" event. Attendees can expect an engaging exploration of the fascinating world of lichens, including their ecological importance and unique characteristics. This event offers a wonderful opportunity to learn from experts, participate in guided walks, and appreciate the beauty of these often-overlooked organisms in a natural setting. Don't miss this chance to deepen your understanding of lichen diversity and their role in our environment.

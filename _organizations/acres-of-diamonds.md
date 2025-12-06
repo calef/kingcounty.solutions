@@ -10,4 +10,4 @@ type: Community-Based Organization
 website: https://www.acresofdiamonds.org
 ---
 
-Acres of Diamonds is a program dedicated to helping homeless moms and their children rebuild their lives. Through structured living plans, on-site counseling, and life-skill training, the program supports families in overcoming trauma and achieving self-sufficiency.
+Acres of Diamonds is a program dedicated to helping homeless mothers and their children rebuild their lives. Through structured living plans, on-site counseling, and life skills training, the program supports families in overcoming trauma and achieving self-sufficiency.

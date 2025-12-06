@@ -22,6 +22,6 @@ African American Reach and Teach Health Ministry (AARTH), founded in 2002 by Afr
 
 In recent years, AARTH has expanded significantly, enhancing its program portfolio to include HIV prevention, COVID-19 response, and chronic disease education. Increased staffing and partnerships have strengthened community engagement, while improved data evaluation tools aid in tracking health disparities and outcomes.
 
-AARTH’s initiatives help reduce health inequities by providing culturally specific education, prevention resources, and support in familiar community spaces. An example of their impact includes connecting an elder, who had avoided healthcare due to past negative experiences, to culturally responsive services that improved her health and confidence.
+AARTH’s initiatives help reduce health inequities by providing culturally specific education, prevention resources, and support in familiar community spaces. An example of their impact includes connecting an elder who had avoided healthcare due to past negative experiences to culturally responsive services that improved her health and confidence.
 
 The dedication of AARTH's staff is fueled by their commitment to community health and the transformative potential of culturally guided care, as they witness individuals regain agency over their health outcomes.

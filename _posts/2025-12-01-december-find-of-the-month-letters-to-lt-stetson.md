@@ -16,6 +16,6 @@ title: 'December Find of the Month: Letters to Lt. Stetson'
 topics: []
 ---
 
-In December, the featured find is a collection of letters addressed to Lieutenant Stetson, a notable figure during World War II. These letters, written by various individuals, provide a poignant glimpse into the lives of those who served and their families during the war. The correspondence reflects personal sentiments, including concerns for the safety of loved ones, expressions of pride, and the emotional toll of wartime separation. 
+In December, the featured find is a collection of letters addressed to Lt. Stetson, a notable figure during World War II. These letters, written by various individuals, provide a poignant glimpse into the lives of those who served and their families during the war. The correspondence reflects personal sentiments, including concerns for the safety of loved ones, expressions of pride, and the emotional toll of wartime separation.
 
 The letters highlight the connection between soldiers and their communities, revealing how ordinary citizens supported the war effort from home. They also capture the historical context of the time, showcasing the challenges faced by both servicemen and their families. The collection serves as an important reminder of the sacrifices made during the war and the enduring human experiences tied to military service. This find not only enriches the historical record but also emphasizes the importance of preserving personal narratives from significant events in history.

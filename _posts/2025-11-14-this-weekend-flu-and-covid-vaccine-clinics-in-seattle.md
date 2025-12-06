@@ -18,4 +18,4 @@ topics:
 - Health Care
 ---
 
-Seattle Public Schools, in collaboration with the Seattle Visiting Nurses Association, is hosting three flu and COVID vaccine clinics this weekend, open to all community members, including adults and children. The clinics will take place on Saturday, November 15, 2025, at Whitman Middle School from 9:00 a.m. to 3:00 p.m. and on Sunday, November 16, 2025, at Ingraham High School and Madison Middle School, both running from 9:00 a.m. to 3:00 p.m. Everyone is welcome, regardless of their affiliation with Seattle Public Schools.
+Seattle Public Schools, in collaboration with the Seattle Visiting Nurses Association, is hosting three flu and COVID vaccine clinics this weekend, open to all community members, including adults and children. The clinics will take place on Saturday, Nov. 15, 2025, at Whitman Middle School from 9 a.m. to 3 p.m., and on Sunday, Nov. 16, 2025, at Ingraham High School and Madison Middle School, both running from 9 a.m. to 3 p.m. Everyone is welcome, regardless of their affiliation with Seattle Public Schools.

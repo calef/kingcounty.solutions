@@ -16,10 +16,10 @@ title: '20 Years Ago: Goats at Work'
 topics: []
 ---
 
-On December 5, 2005, Seattle's City Council approved the construction of a new sports arena in the SODO district, aimed at attracting an NBA franchise back to the city. The decision followed years of discussions and community engagement regarding the future of professional basketball in Seattle. 
+On Dec. 5, 2005, Seattle's City Council approved the construction of a new sports arena in the SODO district, aimed at attracting an NBA franchise back to the city. The decision followed years of discussions and community engagement regarding the future of professional basketball in Seattle.
 
-The proposed arena was designed to host both NBA and NHL teams, reflecting the city's aspirations to enhance its sports culture and economy. Council members emphasized the importance of the arena in revitalizing the area and providing entertainment options for residents. 
+The proposed arena was designed to host both NBA and NHL teams, reflecting the city's aspirations to enhance its sports culture and economy. Council members emphasized the importance of the arena in revitalizing the area and providing entertainment options for residents.
 
-Supporters of the arena argued that it would create jobs and stimulate local businesses, while opponents raised concerns about potential traffic issues and the impact on nearby neighborhoods. Despite the challenges, the council's approval marked a significant step towards bringing professional basketball back to Seattle. 
+Supporters of the arena argued that it would create jobs and stimulate local businesses, while opponents raised concerns about potential traffic issues and the impact on nearby neighborhoods. Despite the challenges, the council's approval marked a significant step toward bringing professional basketball back to Seattle.
 
 This event was part of a broader narrative about the city's sports legacy, especially following the departure of the Seattle SuperSonics in 2008. The council's decision was celebrated by fans eager to see the return of a major sports team to the region, highlighting the community's enduring passion for basketball.

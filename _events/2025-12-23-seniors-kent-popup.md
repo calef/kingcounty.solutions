@@ -64,4 +64,4 @@ topics:
 - Senior Services
 ---
 
-Join us for the SENIORS Kent Popup on December 23 from 12:30 PM to 3:00 PM in Kent, WA. This engaging event offers a wonderful opportunity for seniors to connect with the community, participate in various activities, and enjoy refreshments. Attendees can expect a welcoming atmosphere filled with social interactions and fun experiences designed specifically for seniors. Don’t miss this chance to meet new friends and enjoy a lively afternoon in Kent!
+Join us for the SENIORS Kent Popup on Dec. 23 from 12:30 to 3 p.m. in Kent, Wash. This engaging event offers a wonderful opportunity for seniors to connect with the community, participate in various activities, and enjoy refreshments. Attendees can expect a welcoming atmosphere filled with social interactions and fun experiences designed specifically for seniors. Don’t miss this chance to meet new friends and enjoy a lively afternoon in Kent!

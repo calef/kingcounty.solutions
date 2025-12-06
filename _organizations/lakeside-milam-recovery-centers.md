@@ -13,4 +13,4 @@ type: Agency
 website: https://lakesidemilam.com/
 ---
 
-Lakeside-Milam Recovery Centers provide comprehensive addiction treatment services, including detox, inpatient and outpatient care, mental health treatment, and family programs. They are CARF accredited and offer specialized services for Alaskan patients.
+Lakeside-Milam Recovery Centers provide comprehensive addiction treatment services, including detox, inpatient and outpatient care, mental health treatment, and family programs. They are CARF-accredited and offer specialized services for Alaskan patients.

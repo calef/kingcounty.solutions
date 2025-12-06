@@ -18,7 +18,7 @@ topics:
 - Education & Learning
 ---
 
-BECU and Coastal Community Bank have each donated $10,000 to the Shoreline College Foundation to support its Basic Needs Support program, addressing the pressing issue of food and housing insecurity among college students. This initiative aims to provide essential resources such as food, housing assistance, and tuition support to help students overcome financial barriers to education. Wendy Coates, Executive Director of the Foundation, expressed gratitude for the banks' contributions, highlighting the positive impact on students facing financial challenges.
+BECU and Coastal Community Bank have each donated $10,000 to the Shoreline College Foundation to support its Basic Needs Support Program, addressing the pressing issue of food and housing insecurity among college students. This initiative aims to provide essential resources such as food, housing assistance, and tuition support to help students overcome financial barriers to education. Wendy Coates, executive director of the Foundation, expressed gratitude for the banks' contributions, highlighting the positive impact on students facing financial challenges.
 
 Recent data from the Fall 2024 Washington Student Experience Survey indicates that 52% of students experience food and housing insecurity, with 44% specifically reporting food insecurity. The challenge is particularly acute for two-year college students, including parents and first-generation students from low-income backgrounds. One student shared the difficulties of managing education alongside concerns about food and rent, stating that these issues create constant distractions in their studies.
 

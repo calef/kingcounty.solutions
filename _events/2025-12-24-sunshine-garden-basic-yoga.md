@@ -127,4 +127,4 @@ title: 'Sunshine Garden: Basic Yoga'
 topics: []
 ---
 
-Join us at Sunshine Garden on December 24 from 10:30 to 11:30 AM for Basic Yoga. This session is designed for all skill levels, offering a welcoming environment to learn and practice fundamental yoga techniques. Led by an experienced instructor, attendees will engage in gentle stretches and breathing exercises to enhance relaxation and mindfulness. Located at 611 S Lane St in Seattle, this event is perfect for anyone looking to unwind and connect with the community. Don't miss this opportunity to find your inner peace amidst the holiday bustle!
+Join us at Sunshine Garden on Dec. 24 from 10:30 to 11:30 a.m. for Basic Yoga. This session is designed for all skill levels, offering a welcoming environment to learn and practice fundamental yoga techniques. Led by an experienced instructor, attendees will engage in gentle stretches and breathing exercises to enhance relaxation and mindfulness. Located at 611 S. Lane St. in Seattle, this event is perfect for anyone looking to unwind and connect with the community. Don't miss this opportunity to find your inner peace amidst the holiday bustle!

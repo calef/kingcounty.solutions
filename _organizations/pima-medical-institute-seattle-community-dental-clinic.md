@@ -12,4 +12,4 @@ type: Community-Based Organization
 website: https://pmi.edu/dental-clinic/services-and-cost-seattle/
 ---
 
-The Seattle Community Dental Clinic offers affordable dental care, accepting most insurances and Medicaid. Services include exams, cleanings, and various dental procedures for all ages, with special pricing for new patients.
+The Seattle Community Dental Clinic offers affordable dental care, accepting most insurance plans and Medicaid. Services include exams, cleanings, and various dental procedures for all ages, with special pricing for new patients.

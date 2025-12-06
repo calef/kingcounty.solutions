@@ -16,4 +16,4 @@ type: Community-Based Organization
 website: https://symseattle.org/dropin
 ---
 
-The SYM Drop-In Center provides basic needs for unhoused youth and young adults, including food, hygiene items, showers, clothing, and laundry facilities. Open Monday-Friday from 10am-1pm, it serves as a welcoming space for young people to build relationships and access resources.
+The SYM Drop-In Center provides basic needs for unhoused youth and young adults, including food, hygiene items, showers, clothing, and laundry facilities. Open Monday through Friday from 10 a.m. to 1 p.m., it serves as a welcoming space for young people to build relationships and access resources.

@@ -17,4 +17,4 @@ type: Community-Based Organization
 website: https://launchlearning.org
 ---
 
-Launch Learning is a Seattle-based nonprofit providing affordable early learning and enrichment programs for children ages 2-12. With a focus on educational justice, we support families from diverse backgrounds, offering resources like tuition assistance and food support through our Free Pantries.
+Launch Learning is a Seattle-based nonprofit providing affordable early learning and enrichment programs for children ages 2 to 12. With a focus on educational justice, we support families from diverse backgrounds, offering resources such as tuition assistance and food support through our free pantries.

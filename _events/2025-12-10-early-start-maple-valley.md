@@ -70,4 +70,4 @@ title: EARLY START Maple Valley
 topics: []
 ---
 
-Join us for the EARLY START event in Maple Valley on December 10, from 10:00 AM to 11:00 AM. This engaging gathering is designed for families and community members looking to kick off the day with fun activities and valuable resources. Attendees can expect interactive sessions, informative discussions, and opportunities to connect with local organizations. Don't miss this chance to start your day positively in the heart of Maple Valley, Washington.
+Join us for the Early Start event in Maple Valley on Dec. 10 from 10 a.m. to 11 a.m. This engaging gathering is designed for families and community members looking to kick off the day with fun activities and valuable resources. Attendees can expect interactive sessions, informative discussions, and opportunities to connect with local organizations. Don't miss this chance to start your day positively in the heart of Maple Valley, Washington.

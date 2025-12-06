@@ -13,4 +13,4 @@ type: Community-Based Organization
 website: https://www.sharewheel.org/share-screening-calendar
 ---
 
-SHARE/WHEEL is a grassroots community organization supporting homeless individuals through self-managed shelters and Tent Cities. They provide essential services including food donations and shelter management, aiming to restore dignity and hope to those in need.
+SHARE/WHEEL is a grassroots community organization supporting homeless individuals through self-managed shelters and tent cities. It provides essential services, including food donations and shelter management, aiming to restore dignity and hope to those in need.

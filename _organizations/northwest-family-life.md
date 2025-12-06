@@ -12,4 +12,4 @@ type: Community-Based Organization
 website: https://northwestfamilylife.org/counselors/
 ---
 
-Northwest Family Life is a non-profit organization dedicated to assisting individuals and families facing domestic violence, trauma, and related issues through professional counseling and support services. We offer a network of counselors and a safe transitional housing program for women and children.
+Northwest Family Life is a nonprofit organization dedicated to assisting individuals and families facing domestic violence, trauma, and related issues through professional counseling and support services. We offer a network of counselors and a safe transitional housing program for women and children.

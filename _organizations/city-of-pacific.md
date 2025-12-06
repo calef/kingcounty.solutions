@@ -8,4 +8,4 @@ type: City
 website: https://www.pacificwa.gov/services
 ---
 
-The City of Pacific provides various community services including a Senior Center and Community Center, both ADA accessible. City Hall offers public services and information to empower citizens in shaping their community.
+The city of Pacific provides various community services, including a senior center and community center, both ADA accessible. City Hall offers public services and information to empower citizens in shaping their community.

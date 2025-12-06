@@ -81,4 +81,4 @@ Landon, an athletic young man, has transitioned from soccer and cross country to
 
 Treehouse played a vital role in Landon’s journey by offering consistent check-ins and assistance with academic and extracurricular activities. With their support, he graduated high school on time and is now playing hockey at Washington State University while studying business. Landon has also successfully maintained a window-cleaning business throughout college, showcasing his entrepreneurial spirit.
 
-Grateful for the sense of family that hockey has provided, Landon emphasizes the importance of community and connection for overcoming hardships. He encourages others facing difficulties to seek support and cherish their relationships, recognizing that even a single person can make a significant difference in their lives.
+Grateful for the sense of family that hockey has provided, Landon emphasizes the importance of community and connection for overcoming hardships. He encourages others facing difficulties to seek support and cherish their relationships, recognizing that even one person can make a significant difference in their lives.

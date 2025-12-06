@@ -162,6 +162,6 @@ topics:
 - Shelter & Housing
 ---
 
-Join us at the Advocate Office @ Together Center on December 10 from 11:00 AM to 1:00 PM for a valuable opportunity to receive one-on-one support and advocacy services. This event is designed to help individuals connect with essential resources and services aimed at addressing homelessness. The Advocate Office, part of Plymouth Housing, plays a crucial role in supporting those exiting chronic homelessness by providing stability and access to vital services.
+Join us at the Advocate Office at Together Center on Dec. 10 from 11 a.m. to 1 p.m. for a valuable opportunity to receive one-on-one support and advocacy services. This event is designed to help individuals connect with essential resources and services aimed at addressing homelessness. The Advocate Office, part of Plymouth Housing, plays a crucial role in supporting those exiting chronic homelessness by providing stability and access to vital services.
 
-Located at 16305 NE 87th St, Suite 111 in Redmond, WA, the Advocate Office operates on a rotating schedule to meet community needs. This free event is open to anyone seeking assistance or information about available resources. For more details, you can call 425-869-6699. Don't miss this chance to connect and empower yourself or someone you know in the community!
+Located at 16305 NE 87th St., Suite 111, in Redmond, Washington, the Advocate Office operates on a rotating schedule to meet community needs. This free event is open to anyone seeking assistance or information about available resources. For more details, call 425-869-6699. Don't miss this chance to connect and empower yourself or someone you know in the community!

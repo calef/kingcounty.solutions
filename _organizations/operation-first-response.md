@@ -16,4 +16,4 @@ type: Community-Based Organization
 website: https://www.operationfirstresponse.org
 ---
 
-Operation First Response provides critical financial and emotional support to Wounded Heroes, Disabled Veterans, and First Responders. Services include assistance with living expenses, emotional support, and a network of compassionate volunteers to help during times of crisis.
+Operation First Response provides critical financial and emotional support to wounded heroes, disabled veterans, and first responders. Services include assistance with living expenses, emotional support, and a network of compassionate volunteers to help during times of crisis.

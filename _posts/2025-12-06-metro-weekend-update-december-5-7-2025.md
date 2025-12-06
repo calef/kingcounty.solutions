@@ -15,10 +15,10 @@ topics:
 - Transportation & Mobility
 ---
 
-Metro service will be affected during the weekend of December 5-7, 2025, due to construction and maintenance work. Riders are encouraged to check schedules and plan their trips accordingly. Some bus routes will experience delays, reroutes, or service reductions. Specific routes impacted include the 5, 8, 12, 15, 40, and 120, among others. 
+Metro service will be affected during the weekend of December 5-7, 2025, due to construction and maintenance work. Riders are encouraged to check schedules and plan their trips accordingly. Some bus routes will experience delays, reroutes, or service reductions. Specific routes impacted include the 5, 8, 12, 15, 40, and 120, among others.
 
-Light rail service will also be affected, with some stations closed and adjusted schedules in place. Riders should be aware of potential changes to their usual travel routes. 
+Light rail service will also be affected, with some stations closed and adjusted schedules in place. Riders should be aware of potential changes to their usual travel routes.
 
-Additionally, there will be special service offerings for events happening over the weekend, such as increased service to popular holiday destinations and community events. Metro suggests using their online tools and apps to stay updated on real-time service alerts and schedule changes. 
+Additionally, there will be special service offerings for events happening over the weekend, such as increased service to popular holiday destinations and community events. Metro suggests using its online tools and apps to stay updated on real-time service alerts and schedule changes.
 
-Travelers are reminded to allow extra time for their journeys and to observe any posted detours or signage at affected stops and stations. Metro remains committed to providing safe and reliable transportation while conducting necessary upgrades and maintenance to improve the overall service.
+Travelers are reminded to allow extra time for their journeys and to observe any posted detours or signage at affected stops and stations. Metro remains committed to providing safe and reliable transportation while conducting necessary upgrades and maintenance to improve overall service.

@@ -20,7 +20,7 @@ topics:
 - Shelter & Housing
 ---
 
-This year marks the 30th anniversary of the Support, Advocacy, Growth + Employment (SAGE) team at DESC, which emphasizes a holistic approach to client care. SAGE integrates therapy, medication management, and peer counseling to address clients' physical, emotional, medical, social, and spiritual needs. Serving around 1,200 active clients, SAGE is the largest outpatient behavioral health program at DESC and one of the largest in King County. Its mission is to assist clients in navigating their paths to success through low-barrier continuous care and wraparound services.
+This year marks the 30th anniversary of the Support, Advocacy, Growth and Employment (SAGE) team at DESC, which emphasizes a holistic approach to client care. SAGE integrates therapy, medication management, and peer counseling to address clients' physical, emotional, medical, social, and spiritual needs. Serving about 1,200 active clients, SAGE is the largest outpatient behavioral health program at DESC and one of the largest in King County. Its mission is to assist clients in navigating their paths to success through low-barrier continuous care and wraparound services.
 
 Senior Program Manager Sheila Smith highlights the importance of recognizing social determinants and structural barriers that impact clients, while psychotherapist Vincent Davis emphasizes the unique needs of clients who often struggle with traditional therapy. The team consists of case managers, therapists, nurses, and other specialists working collaboratively to provide comprehensive support.
 

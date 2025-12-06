@@ -253,4 +253,4 @@ title: Modern Music Ensemble
 topics: []
 ---
 
-Join us for the Modern Music Ensemble on December 7, 2025, at 4:00 PM in the Music Building (MUS). This exciting event showcases a diverse range of contemporary musical works performed by talented musicians. Attendees can expect an engaging atmosphere filled with innovative compositions and collaborative performances. Experience the creativity and artistry of modern music as the ensemble brings fresh sounds to life. Don't miss this opportunity to immerse yourself in the vibrant world of contemporary music!
+Join us for the Modern Music Ensemble on Dec. 7, 2025, at 4 p.m. in the Music Building (MUS). This exciting event showcases a diverse range of contemporary musical works performed by talented musicians. Attendees can expect an engaging atmosphere filled with innovative compositions and collaborative performances. Experience the creativity and artistry of modern music as the ensemble brings fresh sounds to life. Don't miss this opportunity to immerse yourself in the vibrant world of contemporary music!

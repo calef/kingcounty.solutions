@@ -14,4 +14,4 @@ type: Faith-Based Organization
 website: https://www.churchontheridge.org/
 ---
 
-Church on the Ridge offers a welcoming community with Sunday gatherings featuring worship, prayer, and biblical teachings. They provide support through prayer, biblical counseling, and encouragement for personal struggles, aiming to help individuals find purpose and hope.
+Church on the Ridge offers a welcoming community with Sunday gatherings featuring worship, prayer, and biblical teachings. It provides support through prayer, biblical counseling, and encouragement for personal struggles, aiming to help individuals find purpose and hope.

@@ -233,4 +233,4 @@ topics:
 - Food & Nutrition
 ---
 
-Join us for the Mobile Food Pantry at the Family Resource Center on December 31 from 3:30 PM to 5:00 PM. This event will provide full-service groceries to FamilyWorks participants at the Cedar Crossing Apartments, located just across the breezeway from our Family Resource Center in the Cedar Crossing Community Room. It's a great opportunity for families in need to access nutritious food and support. Don't miss out on this essential community resource!
+Join us for the Mobile Food Pantry at the Family Resource Center on Dec. 31 from 3:30 to 5 p.m. This event will provide full-service groceries to FamilyWorks participants at the Cedar Crossing Apartments, located just across the breezeway from our Family Resource Center in the Cedar Crossing Community Room. It's a great opportunity for families in need to access nutritious food and support. Don't miss out on this essential community resource!

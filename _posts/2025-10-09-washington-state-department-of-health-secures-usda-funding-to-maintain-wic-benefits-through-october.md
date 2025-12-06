@@ -61,4 +61,4 @@ topics:
 - Food & Nutrition
 ---
 
-The Washington State Department of Health has secured additional funding from the U.S. Department of Agriculture, ensuring the continuation of Women, Infants, and Children (WIC) benefits through October. This funding will support the current team of ten WIC Nutrition Program employees. Amid uncertainties from the federal government shutdown, the DOH is committed to assisting Washington residents who depend on WIC for nutritional support and will provide updates as the situation evolves.
+The Washington State Department of Health has secured additional funding from the U.S. Department of Agriculture, ensuring the continuation of Women, Infants, and Children (WIC) benefits through October. This funding will support the current team of 10 WIC Nutrition Program employees. Amid uncertainties from the federal government shutdown, the DOH is committed to assisting Washington residents who depend on WIC for nutritional support and will provide updates as the situation evolves.

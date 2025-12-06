@@ -15,4 +15,4 @@ type: Community-Based Organization
 website: https://opalfoodandbody.com/
 ---
 
-Opal: Food + Body Wisdom offers comprehensive eating disorder treatment for individuals aged 16 and older. With a focus on a weight-inclusive and Health at Every Size framework, Opal provides partial hospitalization, intensive outpatient, and outpatient services, including individual therapy, nutrition counseling, and group therapy.
+Opal: Food + Body Wisdom offers comprehensive eating disorder treatment for individuals ages 16 and older. With a focus on a weight-inclusive and Health at Every Size framework, Opal provides partial hospitalization, intensive outpatient, and outpatient services, including individual therapy, nutrition counseling, and group therapy.

@@ -12,4 +12,4 @@ type: Community-Based Organization
 website: https://www.essentialsfirst.org/
 ---
 
-Essentials First empowers dignity daily by providing equitable access to personal hygiene essentials and culturally-appropriate food assistance. We support vulnerable communities, ensuring everyone has access to life-giving hygiene products and food resources.
+Essentials First empowers dignity daily by providing equitable access to personal hygiene essentials and culturally appropriate food assistance. We support vulnerable communities, ensuring everyone has access to life-giving hygiene products and food resources.

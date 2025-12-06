@@ -199,6 +199,6 @@ topics:
 - Food & Nutrition
 ---
 
-Join us for the December Birthday Lunch on Tuesday, December 9, 2025, at 8:00 AM at The Center for Active Living, located at 4217 SW Oregon St., Seattle, WA. This special celebratory lunch features the beautiful music of harpist Marian Sussman and a delicious menu that includes turkey, mashed potatoes and gravy, green beans, salad, and pumpkin pie. 
+Join us for the December Birthday Lunch on Tuesday, Dec. 9, 2025, at 8 a.m. at The Center for Active Living, located at 4217 SW Oregon St., Seattle, WA. This special celebratory lunch features the beautiful music of harpist Marian Sussman and a delicious menu that includes turkey, mashed potatoes and gravy, green beans, salad, and pumpkin pie.
 
 This event is a wonderful opportunity for community members to come together and celebrate December birthdays. A suggested donation of $5 is requested for attendees aged 60 and older, while those under 60 are asked to contribute $10. Members celebrating their birthday this month can attend for free. Seating is limited, so be sure to RSVP early to secure your spot!

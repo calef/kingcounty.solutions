@@ -170,4 +170,4 @@ title: Karim Sulayman, tenor & Sean Shibe, guitar
 topics: []
 ---
 
-Join us for an enchanting evening of music featuring tenor Karim Sulayman and guitarist Sean Shibe on January 17, 2026, at Meany Hall. Attendees can expect a captivating performance that blends classical and contemporary styles, showcasing the unique synergy between voice and guitar. This event promises to be a memorable experience for music lovers, offering a chance to immerse yourself in the artistry of two exceptional performers. Don't miss this opportunity to enjoy a night of beautiful melodies and heartfelt interpretations in a stunning venue.
+Join us for an enchanting evening of music featuring tenor Karim Sulayman and guitarist Sean Shibe on Jan. 17, 2026, at Meany Hall. Attendees can expect a captivating performance that blends classical and contemporary styles, showcasing the unique synergy between voice and guitar. This event promises to be a memorable experience for music lovers, offering a chance to immerse yourself in the artistry of two exceptional performers. Don't miss this opportunity to enjoy a night of beautiful melodies and heartfelt interpretations in a stunning venue.

@@ -13,4 +13,4 @@ type: University
 website: https://www.antioch.edu/
 ---
 
-Antioch University offers a range of degree programs focused on social, environmental, and economic justice. With over 170 years of history, the university emphasizes experiential learning and community engagement, preparing students to be leaders and change-makers in their fields.
+Antioch University offers a range of degree programs focused on social, environmental, and economic justice. With more than 170 years of history, the university emphasizes experiential learning and community engagement, preparing students to be leaders and change-makers in their fields.

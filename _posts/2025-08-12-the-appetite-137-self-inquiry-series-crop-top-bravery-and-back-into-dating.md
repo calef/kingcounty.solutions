@@ -510,8 +510,8 @@ topics:
 - Mental Health & Counseling
 ---
 
-The Appetite #137 explores the intricate relationship between food, body image, and emotional wellness. It emphasizes the importance of understanding one’s own hunger cues and body signals in fostering a healthy relationship with food. The piece highlights various strategies to cultivate mindfulness during meals, such as savoring each bite and recognizing the body's needs. 
+The Appetite #137 explores the intricate relationship between food, body image, and emotional wellness. It emphasizes the importance of understanding one’s hunger cues and body signals in fostering a healthy relationship with food. The piece highlights various strategies to cultivate mindfulness during meals, such as savoring each bite and recognizing the body's needs.
 
-Additionally, it addresses common societal pressures regarding body image and the impact of these on eating habits. It encourages readers to challenge negative thoughts associated with food and self-image, promoting self-compassion and acceptance. The importance of nourishing the body with wholesome foods is underscored, while also acknowledging the enjoyment of food and the role it plays in social interactions. 
+Additionally, it addresses common societal pressures regarding body image and the impact of these on eating habits. It encourages readers to challenge negative thoughts associated with food and self-image, promoting self-compassion and acceptance. The importance of nourishing the body with wholesome foods is underscored while also acknowledging the enjoyment of food and the role it plays in social interactions.
 
 The article concludes by reinforcing the idea that developing a positive relationship with food and body is a journey, urging individuals to embrace their unique paths toward health and wellness.

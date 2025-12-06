@@ -11,4 +11,4 @@ type: Community-Based Organization
 website: https://www.ballardseniorcenter.org/
 ---
 
-Ballard Northwest Senior Center offers community dining lunches with a suggested donation of $5.00 per meal, served at noon. The center also hosts events like the Holiday Bazaar featuring local vendors and homemade treats, fostering community engagement and support.
+Ballard Northwest Senior Center offers community dining lunches with a suggested donation of $5 per meal, served at noon. The center also hosts events like the Holiday Bazaar, featuring local vendors and homemade treats, fostering community engagement and support.

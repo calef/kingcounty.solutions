@@ -233,4 +233,4 @@ topics:
 - Food & Nutrition
 ---
 
-Join us for the Mobile Food Pantry at the Family Resource Center on December 17 from 3:30 PM to 5:00 PM. This event will take place at the Cedar Crossing Community Room, located across the breezeway from the Family Resource Center at 1005 NE 67th St, Seattle, WA. Attendees can expect to receive full-service groceries, providing essential support to families in the community. This is a great opportunity for FamilyWorks participants to access nutritious food and connect with local resources. Don't miss this chance to help those in need!
+Join us for the Mobile Food Pantry at the Family Resource Center on Dec. 17 from 3:30 to 5 p.m. This event will take place at the Cedar Crossing Community Room, located across the breezeway from the Family Resource Center at 1005 NE 67th St., Seattle, WA. Attendees can expect to receive full-service groceries, providing essential support to families in the community. This is a great opportunity for FamilyWorks participants to access nutritious food and connect with local resources. Don't miss this chance to help those in need!

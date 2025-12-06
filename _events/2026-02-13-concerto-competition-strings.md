@@ -16,4 +16,4 @@ title: 'Concerto Competition: Strings'
 topics: []
 ---
 
-Join us for the Concerto Competition: Strings on February 13, 2026, at 3:00 PM in the Music Building (MUS). This exciting event showcases talented string musicians as they compete for the chance to perform with the orchestra. Attendees can expect a thrilling afternoon filled with exceptional performances, showcasing a variety of classical pieces. Support your favorite musicians and enjoy the artistry and skill on display. Don't miss this opportunity to experience the vibrant talent within our community!
+Join us for the Concerto Competition: Strings on Feb. 13, 2026, at 3 p.m. in the Music Building (MUS). This exciting event showcases talented string musicians as they compete for the chance to perform with the orchestra. Attendees can expect a thrilling afternoon filled with exceptional performances, showcasing a variety of classical pieces. Support your favorite musicians and enjoy the artistry and skill on display. Don't miss this opportunity to experience the vibrant talent within our community!

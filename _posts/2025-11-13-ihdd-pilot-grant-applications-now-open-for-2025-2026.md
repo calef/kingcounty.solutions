@@ -233,4 +233,4 @@ topics:
 - Disabilities
 ---
 
-The IHDD is accepting applications for the 2025-2026 Pilot Grant Program, which offers up to $10,000 to support innovative research in intellectual and developmental disabilities (IDD). Projects must utilize one or more of the IDDRC Cores: Brain Structure and Function, Genomics, and Clinical Translational. The deadline for applications is January 1, 2026. Researchers can find full details and submit their proposals through the updated application page on IHDD.org.
+The IHDD is accepting applications for the 2025-2026 Pilot Grant Program, which offers up to $10,000 to support innovative research in intellectual and developmental disabilities (IDD). Projects must utilize one or more of the IDDRC cores: Brain Structure and Function, Genomics, and Clinical Translational. The deadline for applications is Jan. 1, 2026. Researchers can find full details and submit their proposals through the updated application page on IHDD.org.

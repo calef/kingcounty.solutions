@@ -74,6 +74,6 @@ Navigating the banking system, budgeting, and building credit can be overwhelmin
 
 The series attracted 62 participants who learned about banking basics, smart budgeting techniques, and fraud protection strategies. The classes emphasized both the how-to and the underlying reasons for financial literacy, equipping attendees with practical knowledge for long-term stability.
 
-Ten instructors, fluent in multiple languages including Spanish, Portuguese, and Amharic, facilitated the classes. The use of bilingual instructors and interpretation services ensured effective communication and engagement, fostering confidence among participants.
+Ten instructors fluent in multiple languages, including Spanish, Portuguese, and Amharic, facilitated the classes. The use of bilingual instructors and interpretation services ensured effective communication and engagement, fostering confidence among participants.
 
-Tyler Hutchinson, Economic Advancement Coordinator, highlighted the significance of offering classes in native languages to enhance understanding and impact. This initiative marks the beginning of an ongoing effort to ensure financial knowledge is accessible to all, aiming to create a future where every family can thrive financially.
+Tyler Hutchinson, economic advancement coordinator, highlighted the significance of offering classes in native languages to enhance understanding and impact. This initiative marks the beginning of an ongoing effort to ensure financial knowledge is accessible to all, aiming to create a future where every family can thrive financially.

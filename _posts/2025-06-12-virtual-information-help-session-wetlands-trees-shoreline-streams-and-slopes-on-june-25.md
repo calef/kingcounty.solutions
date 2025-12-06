@@ -18,4 +18,4 @@ title: 'VIRTUAL Information & Help Session: Wetlands, Trees, Shoreline, Streams 
 topics: []
 ---
 
-The city of Tukwila, home to various wetlands, streams, shorelines, springs, and steep slopes, is hosting a Teams meeting to educate the public about critical area regulations, available resources, and stewardship techniques. City staff, including Urban Environmental Specialist Heidi Watters, will be available to answer questions. Interested parties can join the meeting by calling 206-839-6483 or emailing Heidi.Watters@TukwilaWA.gov for the Teams meeting link.
+The city of Tukwila, home to various wetlands, streams, shorelines, springs, and steep slopes, is hosting a Teams meeting to educate the public about critical area regulations, available resources, and stewardship techniques. City staff, including urban environmental specialist Heidi Watters, will be available to answer questions. Interested parties can join the meeting by calling 206-839-6483 or emailing Heidi.Watters@TukwilaWA.gov for the Teams meeting link.

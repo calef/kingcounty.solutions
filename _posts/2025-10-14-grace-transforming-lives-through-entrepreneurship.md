@@ -18,9 +18,9 @@ topics:
 - Financial Assistance
 ---
 
-Grace, a young woman from Zimbabwe, transformed her life through education and entrepreneurship, overcoming the challenges of losing her parents and poverty. Supported by the CAMFED program, she received the resources necessary to succeed in school, including fees, uniforms, and menstrual products. After completing her education, she joined the CAMFED Association, a network of young women leaders committed to helping others.
+Grace, a young woman from Zimbabwe, transformed her life through education and entrepreneurship, overcoming the challenges of losing her parents and living in poverty. Supported by the CAMFED program, she received the resources necessary to succeed in school, including fees, uniforms, and menstrual products. After completing her education, she joined the CAMFED Association, a network of young women leaders committed to helping others.
 
-Determined to empower herself and her community, Grace pursued a degree in Business Management. Upon graduating, she launched successful farming and fashion businesses, addressing local challenges faced by women in subsistence farming. With CAMFED’s training, she gained essential skills and confidence, becoming a role model in her community.
+Determined to empower herself and her community, Grace pursued a degree in business management. Upon graduating, she launched successful farming and fashion businesses, addressing local challenges faced by women in subsistence farming. With CAMFED’s training, she gained essential skills and confidence, becoming a role model in her community.
 
 Grace employs local individuals and supports three girls' education, using her profits to give back. She aims to grow her clothing brand and agribusiness while aspiring to own land for a training center in agriculture. Additionally, she mentors other women entrepreneurs, fostering economic independence and community strength.
 

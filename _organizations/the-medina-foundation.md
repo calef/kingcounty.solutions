@@ -14,4 +14,4 @@ type: Community-Based Organization
 website: https://www.medinafoundation.org
 ---
 
-The Medina Foundation is a family foundation dedicated to improving lives in the Greater Puget Sound area by funding human service organizations. With a focus on fostering positive change, the foundation supports programs that help individuals achieve independence and dignity.
+The Medina Foundation is a family foundation dedicated to improving lives in the greater Puget Sound area by funding human service organizations. With a focus on fostering positive change, the foundation supports programs that help individuals achieve independence and dignity.

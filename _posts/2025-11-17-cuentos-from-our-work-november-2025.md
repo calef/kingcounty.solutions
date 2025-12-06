@@ -107,7 +107,7 @@ topics:
 - Education & Learning
 ---
 
-This year’s Día de los Muertos Celebration at Plaza Roberto Maestas brought together approximately 2,500 community members and 28 local vendors to honor loved ones through art, music, and tradition. The event showcased the community's unity and resilience, even amidst challenging weather, and highlighted the contributions of performers, emcees, partners, and volunteers who made it possible. 
+This year’s Día de los Muertos celebration at Plaza Roberto Maestas brought together approximately 2,500 community members and 28 local vendors to honor loved ones through art, music, and tradition. The event showcased the community's unity and resilience, even amid challenging weather, and highlighted the contributions of performers, emcees, partners, and volunteers who made it possible.
 
 The theme of the ofrenda exhibit, "Semillas de Justicia: Luchando por Dignidad y Democracia" (Seeds of Justice: Fighting for Dignity and Democracy), focused on honoring those who resisted oppression, including civil rights martyrs, Indigenous land defenders, and activists. Various organizations, such as Beacon Arts and Chief Seattle Club, contributed to the vibrant community ofrendas that celebrated life, culture, and justice.
 

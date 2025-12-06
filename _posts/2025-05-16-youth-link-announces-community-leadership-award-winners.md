@@ -142,7 +142,7 @@ topics:
 - Disabilities
 ---
 
-Bellevue Youth Link will host the 35th annual Community Leadership Awards on May 28 from 6-8 p.m. at City Hall to honor children and teens for their contributions to the community. Award categories and winners include:
+Bellevue Youth Link will host the 35th annual Community Leadership Awards on May 28 from 6 to 8 p.m. at City Hall to honor children and teens for their contributions to the community. Award categories and winners include:
 
 - Advocacy for Cultural & Heritage Pride: Sammamish High School Filipino Club
 - Advocacy for Education: Ishaan Mishra, Bellevue High
@@ -151,7 +151,7 @@ Bellevue Youth Link will host the 35th annual Community Leadership Awards on May
 - Advocacy for Social Justice – Group: Bellevue High School Mental Health Club
 - Advocacy for Social Justice – Individual: Devon Chong, Newport High
 - Advocacy for Sports & Recreation: Maya Mitchell, Forest Ridge
-- Advocacy for Well Being: Leevia Wang, Tyee Middle
+- Advocacy for Well-Being: Leevia Wang, Tyee Middle
 - Environmental Champion: Petr Zakonov, Interlake High
 - Excellence in Youth Arts: Justis Truitt, International School
 - Outstanding Creative & Innovative Thinker: Anusha Arora, Interlake High

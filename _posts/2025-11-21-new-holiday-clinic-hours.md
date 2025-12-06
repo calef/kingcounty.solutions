@@ -41,4 +41,4 @@ topics:
 - Health Care
 ---
 
-CarePoint has announced its adjusted holiday hours for the remainder of the season. Patients and visitors are encouraged to check the Event Calendar for specific clinic dates and hours. The announcement emphasizes the importance of these changes during the holiday period and wishes everyone happy holidays. Additionally, a CarePoint Blood Drive is scheduled for December 3, 2025.
+CarePoint has announced its adjusted holiday hours for the remainder of the season. Patients and visitors are encouraged to check the event calendar for specific clinic dates and hours. The announcement emphasizes the importance of these changes during the holiday period and wishes everyone happy holidays. Additionally, a CarePoint blood drive is scheduled for Dec. 3, 2025.

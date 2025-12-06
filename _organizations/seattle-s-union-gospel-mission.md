@@ -13,4 +13,4 @@ type: Community-Based Organization
 website: https://www.ugm.org/
 ---
 
-Seattle's Union Gospel Mission is a nonprofit ministry dedicated to serving homeless individuals in greater Seattle. They provide meals, shelter, mental health services, legal assistance, and recovery programs to help individuals rebuild their lives and find hope.
+Seattle's Union Gospel Mission is a nonprofit ministry dedicated to serving homeless individuals in greater Seattle. It provides meals, shelter, mental health services, legal assistance, and recovery programs to help individuals rebuild their lives and find hope.

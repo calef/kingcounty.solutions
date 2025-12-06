@@ -11,4 +11,4 @@ type: Community-Based Organization
 website: https://www.teensinpublicservice.org
 ---
 
-Teens In Public Service (TIPS) connects teenagers with paid summer internships at local nonprofits, fostering leadership and community commitment. Since 1997, TIPS has provided over 1,300 interns with practical work experience, promoting inclusivity and equity in youth development.
+Teens in Public Service (TIPS) connects teenagers with paid summer internships at local nonprofits, fostering leadership and community commitment. Since 1997, TIPS has provided more than 1,300 interns with practical work experience, promoting inclusivity and equity in youth development.

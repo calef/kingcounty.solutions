@@ -39,6 +39,6 @@ topics:
 - Education & Learning
 ---
 
-Join the 2025 CISC Groove for Good Dance Party on Saturday, December 6th, from 1:30 PM to 5:30 PM at Bellevue College, Building U Ballroom. This vibrant event aims to support CISC’s Early Learning & Family Resource Programs and promises a fun-filled atmosphere where attendees can dance at their own pace. Participants will enjoy a diverse range of dance styles including Zumba, line dancing, and salsa, along with social dance music and an open dancing area.
+Join the 2025 CISC Groove for Good Dance Party on Saturday, Dec. 6, from 1:30 p.m. to 5:30 p.m. at Bellevue College, Building U Ballroom. This vibrant event aims to support CISC’s Early Learning and Family Resource Programs and promises a fun-filled atmosphere where attendees can dance at their own pace. Participants will enjoy a diverse range of dance styles, including Zumba, line dancing, and salsa, along with social dance music and an open dancing area.
 
-Ticket prices are set at $40 for Early Bird purchases and $60 for general admission. Each ticket includes admission to the dance party, a Groove for Good T-shirt, complimentary parking, access to a photo booth, refreshments, and two raffle tickets. Don’t miss out on this exciting opportunity to have fun while supporting a great cause—secure your tickets today!
+Ticket prices are set at $40 for early bird purchases and $60 for general admission. Each ticket includes admission to the dance party, a Groove for Good T-shirt, complimentary parking, access to a photo booth, refreshments, and two raffle tickets. Don’t miss out on this exciting opportunity to have fun while supporting a great cause—secure your tickets today!

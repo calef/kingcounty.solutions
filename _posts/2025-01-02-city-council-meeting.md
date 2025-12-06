@@ -20,4 +20,4 @@ title: City Council Meeting
 topics: []
 ---
 
-A City Council meeting is scheduled for Thursday, December 18, 2025, at 7:00 PM. For details regarding the meeting agendas, attendees are directed to a specific link provided by the city.
+A City Council meeting is scheduled for Thursday, Dec. 18, 2025, at 7 p.m. For details regarding the meeting agendas, attendees are directed to a specific link provided by the city.

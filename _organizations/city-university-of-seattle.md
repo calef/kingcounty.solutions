@@ -13,4 +13,4 @@ type: University
 website: https://www.cityu.edu/
 ---
 
-City University of Seattle offers a range of programs designed for adult learners, including graduate certificates in Change Leadership, Data Analytics, and Human Resource Management. The university provides academic support, career services, and counseling to help students succeed in their educational and professional goals.
+City University of Seattle offers a range of programs designed for adult learners, including graduate certificates in change leadership, data analytics, and human resource management. The university provides academic support, career services, and counseling to help students succeed in their educational and professional goals.

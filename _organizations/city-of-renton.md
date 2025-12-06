@@ -6,4 +6,4 @@ type: City
 website: https://rentonwa.gov
 ---
 
-The City of Renton serves the community of **Renton**, Washington, providing various services to enhance the quality of life for its residents.
+The city of Renton serves the community of **Renton**, Washington, providing various services to enhance the quality of life for its residents.

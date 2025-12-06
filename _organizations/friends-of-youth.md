@@ -14,4 +14,4 @@ type: Community-Based Organization
 website: https://friendsofyouth.org
 ---
 
-Friends of Youth provides essential services for young people, including housing, mental health support, and community resources. They focus on empowering youth and families through various programs and initiatives.
+Friends of Youth provides essential services for young people, including housing, mental health support, and community resources. The organization focuses on empowering youth and families through various programs and initiatives.

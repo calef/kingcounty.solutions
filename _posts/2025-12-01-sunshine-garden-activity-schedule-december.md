@@ -37,8 +37,8 @@ title: Sunshine Garden Activity Schedule – December
 topics: []
 ---
 
-The Sunshine Garden has released its activity schedule for December, featuring a variety of engaging events for the community. On December 1st, there will be a Holiday Planting Workshop, where participants can learn about winter planting techniques. A Garden Craft Day is scheduled for December 5th, allowing attendees to create festive decorations. For those interested in cooking, the Cooking with Fresh Herbs event on December 10th will showcase how to use garden herbs in holiday recipes. 
+The Sunshine Garden has released its activity schedule for December, featuring a variety of engaging events for the community. On Dec. 1, there will be a Holiday Planting Workshop, where participants can learn about winter planting techniques. A Garden Craft Day is scheduled for Dec. 5, allowing attendees to create festive decorations. For those interested in cooking, the Cooking with Fresh Herbs event on Dec. 10 will showcase how to use garden herbs in holiday recipes.
 
-Additionally, the Sunshine Garden will host a Winter Solstice Celebration on December 21st, celebrating the season with music and community activities. Regular gardening hours are available throughout the month, with opportunities for volunteers to help maintain the garden and learn about sustainable practices. 
+Additionally, the Sunshine Garden will host a Winter Solstice Celebration on Dec. 21, celebrating the season with music and community activities. Regular gardening hours are available throughout the month, with opportunities for volunteers to help maintain the garden and learn about sustainable practices.
 
 The schedule emphasizes community involvement, encouraging local residents to participate in workshops, celebrations, and volunteer opportunities. This month’s activities aim to foster a sense of community while promoting gardening knowledge and sustainability.

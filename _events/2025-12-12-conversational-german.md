@@ -185,4 +185,4 @@ topics:
 - Education & Learning
 ---
 
-Join us for Conversational German on December 12, 2025, from 9:45 AM to 10:45 AM at The Center for Active Living, located at 4217 SW Oregon St., Seattle, WA. This informal weekly gathering invites attendees to practice their German speaking skills with native speakers while making new friends in a relaxed setting. Whether you are a beginner or looking to improve your fluency, this event offers a welcoming environment to enhance your language skills. Don't miss this opportunity to engage in lively conversation and connect with fellow language enthusiasts!
+Join us for Conversational German on Dec. 12, 2025, from 9:45 a.m. to 10:45 a.m. at The Center for Active Living, located at 4217 SW Oregon St., Seattle, WA. This informal weekly gathering invites attendees to practice their German speaking skills with native speakers while making new friends in a relaxed setting. Whether you are a beginner or looking to improve your fluency, this event offers a welcoming environment to enhance your language skills. Don't miss this opportunity to engage in lively conversation and connect with fellow language enthusiasts!

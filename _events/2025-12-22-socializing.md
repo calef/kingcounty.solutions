@@ -77,4 +77,4 @@ title: Socializing
 topics: []
 ---
 
-Join us for a lively socializing event on December 22, 2025, from 10:00 AM to 12:00 PM. This gathering is a fantastic opportunity to meet new people, engage in conversations, and build friendships within our community. Attendees can expect a warm and welcoming atmosphere, perfect for sharing stories and experiences. Whether you're looking to make new connections or simply enjoy some friendly company, this event is for you. Don't miss out on the chance to socialize and have fun! The event will take place at the designated community location.
+Join us for a lively socializing event on Dec. 22, 2025, from 10 a.m. to noon. This gathering is a fantastic opportunity to meet new people, engage in conversations, and build friendships within our community. Attendees can expect a warm and welcoming atmosphere, perfect for sharing stories and experiences. Whether you're looking to make new connections or simply enjoy some friendly company, this event is for you. Don't miss out on the chance to socialize and have fun! The event will take place at the designated community location.

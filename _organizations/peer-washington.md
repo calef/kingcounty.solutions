@@ -13,4 +13,4 @@ type: Community-Based Organization
 website: https://www.peerwa.org/
 ---
 
-Peer Washington provides peer emotional support and development services to individuals impacted by addiction, mental health issues, and HIV/AIDS. Our mission is to cultivate powerful, healthy lives through compassionate support, targeting disparately impacted communities across Washington state.
+Peer Washington provides peer emotional support and development services to individuals impacted by addiction, mental health issues, and HIV/AIDS. Our mission is to cultivate powerful, healthy lives through compassionate support, targeting disproportionately impacted communities across Washington state.

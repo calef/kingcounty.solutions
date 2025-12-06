@@ -208,14 +208,14 @@ topics:
 - Food & Nutrition
 ---
 
-As SNAP benefits conclude on November 1st, many families may experience diminished food support. ReWA recognizes the importance of access to nutritious food and has assembled a list of local food bank resources for individuals and families. Various food programs are available to ensure access to healthy meals, fostering community empowerment.
+As SNAP benefits conclude on Nov. 1, many families may experience diminished food support. ReWA recognizes the importance of access to nutritious food and has assembled a list of local food bank resources for individuals and families. Various food programs are available to ensure access to healthy meals, fostering community empowerment.
 
 Key resources include:
 
-- **Hopelink** in Bellevue offers food support twice a month and plans to expand services starting November 3.
+- **Hopelink** in Bellevue offers food support twice a month and plans to expand services starting Nov. 3.
 - **Renewal Food Bank** in Bellevue operates weekly with no service area restrictions.
-- **St Vincent de Paul** and **SODO Community Market** in Seattle serve clients multiple days a week, requiring ID and bags.
-- **Jewish Family Services** provides kosher food, while **El Centro de la Raza** specifically assists seniors and mobility-limited individuals.
+- **St. Vincent de Paul** and **SODO Community Market** in Seattle serve clients multiple days a week, requiring ID and bags.
+- **Jewish Family Services** provides kosher food, while **El Centro de la Raza** specifically assists seniors and individuals with limited mobility.
 - **West Seattle Food Bank** includes a pet pantry and operates several days a week.
 - **FamilyWorks Food Bank** does not require ID and offers services on selected days.
 

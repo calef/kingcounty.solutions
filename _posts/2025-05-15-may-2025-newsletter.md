@@ -35,4 +35,4 @@ title: May 2025 Newsletter
 topics: []
 ---
 
-CarePoint has released its May 2025 newsletter, authored by Desiree Swanson. The newsletter highlights upcoming events and news within the organization. Notably, it announces a CarePoint Blood Drive scheduled for June 4th. The newsletter aims to keep the community informed and engaged with CarePoint's initiatives and activities. Further details can be found in the full newsletter.
+CarePoint has released its May 2025 newsletter, authored by Desiree Swanson. The newsletter highlights upcoming events and news within the organization. Notably, it announces a CarePoint Blood Drive scheduled for June 4. The newsletter aims to keep the community informed and engaged with CarePoint's initiatives and activities. Further details can be found in the full newsletter.

@@ -14,4 +14,4 @@ type: Community-Based Organization
 website: https://chnw.chpw.org/
 ---
 
-Community Health Network of Washington (CHNW) provides affordable, community-based health care services across Washington state. With a focus on health equity, CHNW operates a network of Community Health Centers that offer comprehensive care tailored to the unique needs of diverse populations, including immigrants and refugees.
+Community Health Network of Washington (CHNW) provides affordable, community-based health care services across Washington state. With a focus on health equity, CHNW operates a network of community health centers that offer comprehensive care tailored to the unique needs of diverse populations, including immigrants and refugees.

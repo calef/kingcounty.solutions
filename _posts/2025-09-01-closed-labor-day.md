@@ -16,4 +16,4 @@ title: Closed Labor Day
 topics: []
 ---
 
-Husky Health Center will be closed on Monday, September 1st, in observance of Labor Day. Regular business hours will resume on Tuesday, September 2nd.
+Husky Health Center will be closed on Monday, September 1, in observance of Labor Day. Regular business hours will resume on Tuesday, September 2.

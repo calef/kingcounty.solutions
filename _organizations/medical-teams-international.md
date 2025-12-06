@@ -13,4 +13,4 @@ type: Community-Based Organization
 website: https://www.medicalteams.org/
 ---
 
-Medical Teams International provides medical care, strengthens healthcare systems, and builds up communities in crisis-affected areas. Their services include treating malnutrition, delivering babies, and offering psychiatric care, ensuring that those who have been forgotten receive the help they need.
+Medical Teams International provides medical care, strengthens health care systems, and builds communities in crisis-affected areas. Its services include treating malnutrition, delivering babies, and offering psychiatric care, ensuring that those who have been forgotten receive the help they need.

@@ -39,4 +39,4 @@ topics:
 - Disabilities
 ---
 
-Children’s Therapy Center released its 2025 Annual Impact Report, highlighting the achievements of the past year made possible by the support of its community. The report emphasizes the organization's commitment to maximizing the potential of children with disabilities. Gratitude is expressed towards all supporters who contributed to these efforts. The center looks forward to continued progress and success in the upcoming year.
+Children's Therapy Center released its 2025 Annual Impact Report, highlighting the achievements of the past year made possible by the support of its community. The report emphasizes the organization's commitment to maximizing the potential of children with disabilities. Gratitude is expressed toward all supporters who contributed to these efforts. The center looks forward to continued progress and success in the upcoming year.

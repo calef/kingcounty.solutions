@@ -7712,4 +7712,4 @@ title: Fifth Circuit Virtual Meeting
 topics: []
 ---
 
-Join us for the Fifth Circuit Virtual Meeting on February 5, 2026, starting at 2:30 PM EST. This online gathering will provide attendees with the opportunity to engage in important discussions, share insights, and collaborate on various topics relevant to the community. Participants can expect interactive sessions that foster networking and knowledge exchange among peers. Don’t miss this chance to connect and contribute to the ongoing dialogue in a virtual setting.
+Join us for the Fifth Circuit Virtual Meeting on Feb. 5, 2026, starting at 2:30 p.m. EST. This online gathering will provide attendees with the opportunity to engage in important discussions, share insights, and collaborate on various topics relevant to the community. Participants can expect interactive sessions that foster networking and knowledge exchange among peers. Don’t miss this chance to connect and contribute to the ongoing dialogue in a virtual setting.

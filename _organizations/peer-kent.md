@@ -15,4 +15,4 @@ type: Community-Based Organization
 website: https://www.peerkent.org
 ---
 
-Peer Kent provides peer emotional support and development services to individuals impacted by addiction, mental health issues, and HIV/AIDS in South King County. Focused on inclusivity, they offer peer coaching, support groups, and resources for justice-involved individuals and families.
+Peer Kent provides peer emotional support and development services to individuals impacted by addiction, mental health issues, and HIV/AIDS in South King County. Focused on inclusivity, it offers peer coaching, support groups, and resources for justice-involved individuals and families.

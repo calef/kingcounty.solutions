@@ -77,4 +77,4 @@ title: Socializing
 topics: []
 ---
 
-Join us for a morning of connection and conversation at the Socializing event on December 15, 2025, from 10:00 AM to 12:00 PM. This gathering is designed for community members to meet new friends, share stories, and enjoy a relaxed atmosphere. Whether you're looking to expand your social circle or simply enjoy good company, this event offers a welcoming space for all. Come and engage with fellow attendees, participate in activities, and make lasting connections. Don't miss out on this opportunity to socialize and have fun!
+Join us for a morning of connection and conversation at the Socializing event on Dec. 15, 2025, from 10 a.m. to noon. This gathering is designed for community members to meet new friends, share stories, and enjoy a relaxed atmosphere. Whether you're looking to expand your social circle or simply enjoy good company, this event offers a welcoming space for all. Come and engage with fellow attendees, participate in activities, and make lasting connections. Don't miss this opportunity to socialize and have fun!

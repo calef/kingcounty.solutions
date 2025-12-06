@@ -16,4 +16,4 @@ title: Husky Health Center Closed July 4
 topics: []
 ---
 
-Husky Health Center will be closed on Friday, July 4th, 2025, in observance of Independence Day, following the University of Washington Holiday Calendar. The center will resume regular hours and operations on Monday, July 7th. Husky Health Center is closed on all official University of Washington holidays.
+Husky Health Center will be closed on Friday, July 4, 2025, in observance of Independence Day, following the University of Washington holiday calendar. The center will resume regular hours and operations on Monday, July 7. Husky Health Center is closed on all official University of Washington holidays.

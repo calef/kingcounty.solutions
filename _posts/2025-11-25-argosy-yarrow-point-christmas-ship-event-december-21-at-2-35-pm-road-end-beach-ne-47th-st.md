@@ -19,4 +19,4 @@ title: Argosy Yarrow Point Christmas Ship Event – December 21 at 2:35 pm/ Road
 topics: []
 ---
 
-Argosy Yarrow Point will host its annual Christmas Ship event on December 21 at 2:35 PM at Road End Beach, located at NE 47th Street. This festive occasion is part of the holiday tradition where decorated ships parade along the waterfront, bringing joy and celebration to the community. Residents and visitors are encouraged to gather at the beach to enjoy the sights and sounds of the event.
+Argosy Yarrow Point will host its annual Christmas Ship event on December 21 at 2:35 p.m. at Road End Beach, located at NE 47th Street. This festive occasion is part of the holiday tradition where decorated ships parade along the waterfront, bringing joy and celebration to the community. Residents and visitors are encouraged to gather at the beach to enjoy the sights and sounds of the event.

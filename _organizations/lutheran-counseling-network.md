@@ -16,4 +16,4 @@ type: Community-Based Organization
 website: https://www.lutherancounseling.net/
 ---
 
-Lutheran Counseling Network is a nonprofit organization providing professional psychotherapy services since 1981. Our therapists specialize in individual, couple, and family counseling, addressing issues like depression, anxiety, trauma recovery, and spirituality. We offer both in-person and telehealth sessions, ensuring accessible mental health support for all.
+Lutheran Counseling Network is a nonprofit organization providing professional psychotherapy services since 1981. Our therapists specialize in individual, couple, and family counseling, addressing issues such as depression, anxiety, trauma recovery, and spirituality. We offer both in-person and telehealth sessions, ensuring accessible mental health support for all.

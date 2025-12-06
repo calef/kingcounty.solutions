@@ -14,7 +14,7 @@ topics:
 - Mental Health & Counseling
 ---
 
-Ryther has launched The Sage Program, a behavioral health initiative for children aged 8–14 facing mood disorders, including depression, anger, and trauma-related distress. The program features both a Partial Hospitalization Program (PHP) and an Intensive Outpatient Program (IOP), providing the highest level of mental health care outside of residential treatment. This structure allows for personalized support tailored to each child's needs.
+Ryther has launched the Sage Program, a behavioral health initiative for children ages 8 to 14 facing mood disorders, including depression, anger, and trauma-related distress. The program features both a Partial Hospitalization Program (PHP) and an Intensive Outpatient Program (IOP), providing the highest level of mental health care outside of residential treatment. This structure allows for personalized support tailored to each child's needs.
 
 Mood disorders in this age group can manifest as persistent irritability, sadness, withdrawal, and emotional dysregulation, often leaving younger children underserved by existing programs that typically start at age 11. The Sage Program addresses this gap by offering developmentally appropriate care for younger children.
 

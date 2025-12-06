@@ -192,4 +192,4 @@ title: 60's Dance Party
 topics: []
 ---
 
-Join us for a vibrant 60's Dance Party on Thursday, December 11, 2025, from 7:00 PM to 9:00 PM at The Center for Active Living, located at 4217 SW Oregon St., Seattle, WA. Get ready to groove to live DJ music and dance the night away while enjoying beer, wine, and snacks available for purchase. This event is open to the community for those aged 21 and over, with a $10 fee at the door. Don your best 60's attire, whether it's tie-dye or go-go boots, and relive the spirit of the era. Don't miss out on this fun-filled evening!
+Join us for a vibrant '60s Dance Party on Thursday, Dec. 11, 2025, from 7 to 9 p.m. at The Center for Active Living, located at 4217 SW Oregon St., Seattle, WA. Get ready to groove to live DJ music and dance the night away while enjoying beer, wine, and snacks available for purchase. This event is open to the community for those aged 21 and over, with a $10 fee at the door. Don your best '60s attire, whether it's tie-dye or go-go boots, and relive the spirit of the era. Don't miss out on this fun-filled evening!

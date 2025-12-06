@@ -42,4 +42,4 @@ topics:
 - Disabilities
 ---
 
-Join us for the Winter Accessibility POP Session 3 on February 4, 2026, at 3:00 PM PST via Zoom. This interactive session will focus on Canvas accessibility tips, providing attendees with practical strategies to enhance accessibility in their online courses. Participants can expect to engage in discussions, share experiences, and learn valuable techniques to create more inclusive learning environments. Don't miss this opportunity to improve your skills and contribute to accessibility in education!
+Join us for the Winter Accessibility POP Session 3 on Feb. 4, 2026, at 3 p.m. PST via Zoom. This interactive session will focus on Canvas accessibility tips, providing attendees with practical strategies to enhance accessibility in their online courses. Participants can expect to engage in discussions, share experiences, and learn valuable techniques to create more inclusive learning environments. Don't miss this opportunity to improve your skills and contribute to accessibility in education!

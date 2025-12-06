@@ -117,8 +117,8 @@ topics:
 - Education & Learning
 ---
 
-This year, significant state cuts to early learning programs have left many families without access to quality child care. However, Seattle voters can still support early learning by renewing the Family, Education, Preschool, and Promise (FEPP) levy in November. This levy aims to raise over $650 million for early learning initiatives, including the Seattle Preschool Program (SPP), which serves low-income families with a nationally-accredited curriculum and coaching for child care providers. 
+This year, significant state cuts to early learning programs have left many families without access to quality child care. However, Seattle voters can still support early learning by renewing the Family, Education, Preschool, and Promise (FEPP) levy in November. This levy aims to raise over $650 million for early learning initiatives, including the Seattle Preschool Program (SPP), which serves low-income families with a nationally accredited curriculum and coaching for child care providers.
 
-One such provider is Deyanira Rojas, who runs Little Dreamers, a bilingual in-home child care center. Since joining SPP, she has seen improvements in her care quality, thanks to ongoing training and resources provided by the program. SPP helps identify children's developmental delays and offers support through coaching, which is vital for early childhood development. 
+One such provider is Deyanira Rojas, who runs Little Dreamers, a bilingual in-home child care center. Since joining SPP, she has seen improvements in her care quality, thanks to ongoing training and resources provided by the program. SPP helps identify children's developmental delays and offers support through coaching, which is vital for early childhood development.
 
 SPP promotes cultural relevance and multilingualism, encouraging families to use their home language alongside English. With the FEPP levy, SPP can continue and expand for another seven years, providing essential support to children, families, and providers. If not renewed, thousands of children may lose access to these critical early learning opportunities.

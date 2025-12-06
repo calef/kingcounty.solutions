@@ -36,4 +36,4 @@ title: PWB Meeting Date – December 5, 2025
 topics: []
 ---
 
-The Public Works Board in Washington State will hold its next meeting on December 5, 2025, from 8:30 a.m. to 12:30 p.m. This meeting will be conducted in a hybrid format, allowing both online participation via Zoom and in-person attendance at the Washington State Department of Commerce headquarters located at 1011 Plum Street, Olympia, WA 98501. Members of the public are encouraged to join the meeting either online or in person.
+The Public Works Board in Washington state will hold its next meeting on Dec. 5, 2025, from 8:30 a.m. to 12:30 p.m. This meeting will be conducted in a hybrid format, allowing both online participation via Zoom and in-person attendance at the Washington State Department of Commerce headquarters located at 1011 Plum St., Olympia, WA 98501. Members of the public are encouraged to join the meeting either online or in person.

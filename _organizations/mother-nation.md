@@ -14,4 +14,4 @@ type: Community-Based Organization
 website: https://www.mothernation.org
 ---
 
-Mother Nation is a 501(c)(3) non-profit organization providing social and cultural healing services for Native women. We offer cultural healing circles, mentorship, workshops, and training to empower women and restore cultural strength.
+Mother Nation is a 501(c)(3) nonprofit organization providing social and cultural healing services for Native women. We offer cultural healing circles, mentorship, workshops, and training to empower women and restore cultural strength.

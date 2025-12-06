@@ -12,4 +12,4 @@ type: Community-Based Organization
 website: https://www.seamar.org/whatcom-dental-bellingham.html
 ---
 
-Sea Mar Community Health Centers offers comprehensive dental services including oral exams, emergency care, preventive services, and education for all ages. We serve diverse communities without regard to income or background, ensuring accessible care for everyone.
+Sea Mar Community Health Centers offers comprehensive dental services, including oral exams, emergency care, preventive services, and education for all ages. We serve diverse communities without regard to income or background, ensuring accessible care for everyone.

@@ -31,4 +31,7 @@ topics:
 - Education & Learning
 ---
 
-Member Access Changes January 22, 2025 Bill Mannion Blog reports that the organization has expanded to include members from 28 states, with five new states added since August 2024. The transition from in-person meetings to online platforms during COVID raised concerns about the effectiveness of their support tools. However, the shift proved successful, allowing them to scale their support for parents, grandparents, and caregivers across the United States. While their primary base remains in Seattle, WA, the online model has enabled broader participation. The blog encourages interested individuals to call for information about joining the support group.
+Member Access Changes  
+January 22, 2025  
+
+Bill Mannion's blog reports that the organization has expanded to include members from 28 states, with five new states added since August 2024. The transition from in-person meetings to online platforms during COVID raised concerns about the effectiveness of their support tools. However, the shift proved successful, allowing them to scale their support for parents, grandparents, and caregivers across the United States. While their primary base remains in Seattle, Washington, the online model has enabled broader participation. The blog encourages interested individuals to call for information about joining the support group.

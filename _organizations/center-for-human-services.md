@@ -12,4 +12,4 @@ type: Community-Based Organization
 website: https://www.chs-nw.org/
 ---
 
-Center for Human Services provides counseling, education, and support to children, youth, adults, and families. Their services include mental health counseling, substance use disorder treatment, and family support centers, aiming to strengthen community connections and improve individual well-being.
+Center for Human Services provides counseling, education, and support to children, youth, adults, and families. Its services include mental health counseling, substance use disorder treatment, and family support centers, aiming to strengthen community connections and improve individual well-being.

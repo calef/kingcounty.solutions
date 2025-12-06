@@ -27,10 +27,10 @@ topics:
 - Education & Learning
 ---
 
-Seattle Public Schools is implementing a new initiative aimed at enhancing student mental health and well-being. The initiative includes training for staff to recognize and respond to mental health issues, ensuring students have access to resources and support. A collaboration with local mental health organizations will provide additional services and resources for students and families. 
+Seattle Public Schools is implementing a new initiative aimed at enhancing student mental health and well-being. The initiative includes training for staff to recognize and respond to mental health issues, ensuring students have access to resources and support. A collaboration with local mental health organizations will provide additional services and resources for students and families.
 
-The program seeks to create a supportive school environment where mental health is prioritized and stigma is reduced. Workshops and informational sessions will be offered to educate parents and guardians about mental health challenges and solutions. 
+The program seeks to create a supportive school environment where mental health is prioritized and stigma is reduced. Workshops and informational sessions will be offered to educate parents and guardians about mental health challenges and solutions.
 
-To assess the effectiveness of these efforts, the district will gather feedback from students, parents, and staff, allowing for continuous improvement of the programs. This initiative reflects a commitment to fostering a culture of care and support within schools, recognizing that mental well-being is crucial for academic success and overall development. 
+To assess the effectiveness of these efforts, the district will gather feedback from students, parents, and staff, allowing for continuous improvement of the programs. This initiative reflects a commitment to fostering a culture of care and support within schools, recognizing that mental well-being is crucial for academic success and overall development.
 
 By prioritizing mental health, Seattle Public Schools aims to equip students with the necessary tools to navigate challenges and thrive both in and out of the classroom.

@@ -69,4 +69,4 @@ title: OUTREACH Crossroads
 topics: []
 ---
 
-Join us for OUTREACH Crossroads on December 24, 2025, from 11:00 AM to 2:00 PM at Crossroads in Bellevue, WA. This community event offers attendees the opportunity to engage with local organizations, participate in volunteer activities, and contribute to various charitable initiatives. Expect a welcoming atmosphere filled with activities for all ages, making it a perfect way to give back during the holiday season. Come and connect with others in the community while making a positive impact!
+Join us for OUTREACH Crossroads on Dec. 24, 2025, from 11 a.m. to 2 p.m. at Crossroads in Bellevue, Washington. This community event offers attendees the opportunity to engage with local organizations, participate in volunteer activities, and contribute to various charitable initiatives. Expect a welcoming atmosphere filled with activities for all ages, making it a perfect way to give back during the holiday season. Come and connect with others in the community while making a positive impact!

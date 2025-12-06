@@ -45,4 +45,4 @@ topics:
 - Employment & Job Support
 ---
 
-Join us for the Virtual (Eastern) Job Fair on February 24, 2026. This online event offers a unique opportunity for job seekers to connect with a variety of employers from the comfort of their homes. Attendees can explore job openings, participate in virtual interviews, and network with industry professionals. Whether you're looking for a new career or seeking to advance in your current field, this job fair is designed to help you achieve your goals. Don’t miss this chance to take the next step in your professional journey!
+Join us for the Virtual (Eastern) Job Fair on Feb. 24, 2026. This online event offers a unique opportunity for job seekers to connect with a variety of employers from the comfort of their homes. Attendees can explore job openings, participate in virtual interviews, and network with industry professionals. Whether you're looking for a new career or seeking to advance in your current field, this job fair is designed to help you achieve your goals. Don’t miss this chance to take the next step in your professional journey!

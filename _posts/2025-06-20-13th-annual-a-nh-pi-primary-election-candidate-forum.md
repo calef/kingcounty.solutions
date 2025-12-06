@@ -18,4 +18,4 @@ topics:
 - Employment & Job Support
 ---
 
-The 13th Annual A&NH/PI Primary Election Candidate Forum is set to take place at the Wing Luke Museum on Wednesday, July 23rd, from 5:30-7:30pm. The event will showcase candidates for Seattle City Council District 2 and At-Large seats 8 and 9. The Council's decisions influence key issues such as housing affordability, funding for human services, immigrant protection, and public safety. Interested individuals can register for the forum at tinyurl.com/2025anhpicandidateforum.
+The 13th Annual A&NH/PI Primary Election Candidate Forum is set to take place at the Wing Luke Museum on Wednesday, July 23, from 5:30 to 7:30 p.m. The event will showcase candidates for Seattle City Council District 2 and at-large seats 8 and 9. The council's decisions influence key issues such as housing affordability, funding for human services, immigrant protection, and public safety. Interested individuals can register for the forum at [tinyurl.com/2025anhpicandidateforum](https://tinyurl.com/2025anhpicandidateforum).

@@ -6,4 +6,4 @@ type: City
 website: https://www.newcastlewa.gov/
 ---
 
-The City of Newcastle serves the community of **Newcastle**, Washington. The City is dedicated to providing essential services and fostering a vibrant community.
+The city of Newcastle serves the community of **Newcastle**, Washington. The city is dedicated to providing essential services and fostering a vibrant community.

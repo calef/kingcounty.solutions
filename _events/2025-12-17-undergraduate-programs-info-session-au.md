@@ -463,7 +463,7 @@ topics:
 - Education & Learning
 ---
 
-Join Antioch University for a virtual Undergraduate Programs Info Session on December 17, 2025, from 4:30 PM to 5:30 PM PST. This informative event is designed to guide prospective students on their academic journey, showcasing various undergraduate programs available at Antioch University campuses and online.
+Join Antioch University for a virtual Undergraduate Programs Info Session on Dec. 17, 2025, from 4:30 to 5:30 p.m. PST. This informative event is designed to guide prospective students on their academic journey, showcasing various undergraduate programs available at Antioch University campuses and online.
 
 Attendees can expect to learn about bachelor’s degree completion pathways, internship opportunities, and the admissions process. The session will be hosted by core faculty and the admissions team, providing valuable insights into how Antioch can help achieve your academic and professional goals.
 

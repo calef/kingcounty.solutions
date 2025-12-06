@@ -248,4 +248,4 @@ title: Evergreen Trees Tour
 topics: []
 ---
 
-Join us for the Evergreen Trees Tour on Sunday, January 11, 2026, from 1 PM to 3 PM. This guided walk will take you through the beautiful campus of the University of Washington, where you can learn about various evergreen species and their significance in the local ecosystem. Meet at the front of Denny Hall, and be sure to arrive on time, as the tour will depart shortly after the start time. This is a fantastic opportunity to connect with nature and expand your knowledge about trees in your community. Don't miss out on this enriching experience!
+Join us for the Evergreen Trees Tour on Sunday, Jan. 11, 2026, from 1 to 3 p.m. This guided walk will take you through the beautiful campus of the University of Washington, where you can learn about various evergreen species and their significance in the local ecosystem. Meet at the front of Denny Hall, and be sure to arrive on time, as the tour will depart shortly after the start time. This is a fantastic opportunity to connect with nature and expand your knowledge about trees in your community. Don't miss out on this enriching experience!

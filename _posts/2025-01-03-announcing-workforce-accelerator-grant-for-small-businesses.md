@@ -18,4 +18,4 @@ topics:
 - Financial Assistance
 ---
 
-The Workforce Accelerator Grant for Small Businesses is now available, offering financial support for internships, training programs, and new hires. Applications for the grant will open on January 27, 2025. This initiative aims to assist small businesses in enhancing their workforce capabilities by providing the necessary funds to facilitate growth and development.
+The Workforce Accelerator Grant for Small Businesses is now available, offering financial support for internships, training programs, and new hires. Applications for the grant will open Jan. 27, 2025. This initiative aims to assist small businesses in enhancing their workforce capabilities by providing the necessary funds to facilitate growth and development.

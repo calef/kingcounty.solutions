@@ -73,8 +73,8 @@ topics:
 - Education & Learning
 ---
 
-Join the Boys & Girls Club on October 3, 2025, for a glamorous, 1920s-inspired fundraising gala at the Hyatt Regency Seattle from 5:00 PM to 10:00 PM. Individual tickets are priced at $325, while a table of ten costs $3,250. The evening features a cocktail reception with games and a photo booth, a gourmet multi-course meal, and a live auction showcasing exciting packages, including exclusive experiences. 
+Join the Boys & Girls Club on Oct. 3, 2025, for a glamorous, 1920s-inspired fundraising gala at the Hyatt Regency Seattle from 5 to 10 p.m. Individual tickets are priced at $325, while a table of 10 costs $3,250. The evening features a cocktail reception with games and a photo booth, a gourmet multi-course meal, and a live auction showcasing exciting packages, including exclusive experiences.
 
-Online bidding for a silent auction opened on September 26 and will conclude on the event day at 7:15 PM. Participants can also engage in a silent wine auction on the same day. All funds raised will support the Boys & Girls Clubs of King County, helping empower youth to excel academically and lead healthy lives. The event is for those aged 21 and over, with 1920s-themed attire encouraged. 
+Online bidding for a silent auction opened on Sept. 26 and will conclude on the event day at 7:15 p.m. Participants can also engage in a silent wine auction on the same day. All funds raised will support the Boys & Girls Clubs of King County, helping empower youth to excel academically and lead healthy lives. The event is for those aged 21 and over, with 1920s-themed attire encouraged.
 
 Bidding is available to everyone, regardless of attendance, and new auction lots will be added throughout the week leading up to the event.

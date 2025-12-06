@@ -77,4 +77,4 @@ title: Warehouse sale
 topics: []
 ---
 
-Join us for a Warehouse Sale at Bike Works Warehouse on January 17, 2026, from 1:00 PM to 4:00 PM. This event is your chance to discover great deals on donated bikes, parts, and more, all while helping to support the Seattle Bicycle Ecosystem. Expect to find perfectly fine, as-is bikes ready for new homes. Bring a wagon and some gloves to help us make space for incoming donations as we strive to get more bikes back on the road. Don’t miss this opportunity to contribute to a thriving bicycle community while scoring some fantastic finds!
+Join us for a warehouse sale at Bike Works Warehouse on Jan. 17, 2026, from 1 to 4 p.m. This event is your chance to discover great deals on donated bikes, parts, and more, all while helping to support the Seattle bicycle ecosystem. Expect to find perfectly fine, as-is bikes ready for new homes. Bring a wagon and some gloves to help us make space for incoming donations as we strive to get more bikes back on the road. Don’t miss this opportunity to contribute to a thriving bicycle community while scoring some fantastic finds!

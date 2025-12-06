@@ -155,4 +155,4 @@ title: Dianne Reeves - Christmas Time Is Here
 topics: []
 ---
 
-Join us for an enchanting evening with Dianne Reeves as she performs "Christmas Time Is Here" on December 11, 2025, at Meany Hall. Attendees can look forward to a captivating blend of jazz and holiday classics, showcasing Reeves' unparalleled vocal talent and artistry. This festive concert promises to create a warm and joyful atmosphere, perfect for celebrating the season with friends and family. Don't miss this opportunity to experience a memorable night filled with music and holiday cheer.
+Join us for an enchanting evening with Dianne Reeves as she performs "Christmas Time Is Here" on Dec. 11, 2025, at Meany Hall. Attendees can look forward to a captivating blend of jazz and holiday classics, showcasing Reeves' unparalleled vocal talent and artistry. This festive concert promises to create a warm and joyful atmosphere, perfect for celebrating the season with friends and family. Don't miss this opportunity to experience a memorable night filled with music and holiday cheer.

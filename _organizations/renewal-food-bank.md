@@ -11,4 +11,4 @@ type: Community-Based Organization
 website: https://renewalfoodbank.org/
 ---
 
-Renewal Food Bank provides free weekly groceries to anyone in need across East King County. Guests shop grocery-style once per week; line numbers are handed out 30 minutes before opening. Current hours are Monday 12:00–3:00 p.m., Tuesday 4:00–6:30 p.m., and Wednesday 10:00 a.m.–1:00 p.m. (ask about diapers and hygiene supplies). The pantry operates at 15022 NE Bel Red Rd in Bellevue and offers contact via phone or email for additional assistance.
+Renewal Food Bank provides free weekly groceries to anyone in need across East King County. Guests shop grocery-style once per week; line numbers are handed out 30 minutes before opening. Current hours are Monday from noon to 3 p.m., Tuesday from 4 to 6:30 p.m., and Wednesday from 10 a.m. to 1 p.m. (ask about diapers and hygiene supplies). The pantry operates at 15022 NE Bel Red Road in Bellevue and offers contact via phone or email for additional assistance.

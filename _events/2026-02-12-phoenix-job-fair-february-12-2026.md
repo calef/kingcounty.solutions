@@ -45,4 +45,4 @@ topics:
 - Employment & Job Support
 ---
 
-Join us for the Phoenix Job Fair on February 12, 2026, where job seekers can connect with a variety of employers from different industries. Attendees will have the opportunity to network, explore job openings, and participate in on-site interviews. Whether you're looking for your next career move or just starting out, this event is designed to help you find the right job. Don't miss the chance to meet potential employers and gain valuable insights into the local job market. Mark your calendar and prepare to take the next step in your career journey!
+Join us for the Phoenix Job Fair on Feb. 12, 2026, where job seekers can connect with a variety of employers from different industries. Attendees will have the opportunity to network, explore job openings, and participate in on-site interviews. Whether you're looking for your next career move or just starting out, this event is designed to help you find the right job. Don't miss the chance to meet potential employers and gain valuable insights into the local job market. Mark your calendar and prepare to take the next step in your career journey!

@@ -193,4 +193,4 @@ topics:
 - Senior Services
 ---
 
-Join us at the Burke Dykes Computer Lab on December 16, 2025, from 8:30 AM to 4:20 PM at The Center for Active Living, located at 4217 SW Oregon St., Seattle, WA. Attendees can utilize Windows computers to check email, browse the internet, and access popular software such as Microsoft Office. For those seeking assistance, one-on-one help is available through our Digital Navigation service, or you can drop by during the Drop-In Digital Navigation program. This event is a great opportunity to enhance your digital skills in a supportive environment.
+Join us at the Burke Dykes Computer Lab on Dec. 16, 2025, from 8:30 a.m. to 4:20 p.m. at The Center for Active Living, located at 4217 SW Oregon St., Seattle, WA. Attendees can utilize Windows computers to check email, browse the internet, and access popular software such as Microsoft Office. For those seeking assistance, one-on-one help is available through our Digital Navigation service, or you can drop by during the Drop-In Digital Navigation program. This event is a great opportunity to enhance your digital skills in a supportive environment.

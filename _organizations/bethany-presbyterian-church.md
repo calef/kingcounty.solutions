@@ -10,4 +10,4 @@ type: Faith-Based Organization
 website: https://www.bethanypc.org/
 ---
 
-Bethany Presbyterian Church is a welcoming community grounded in God's love and centered on Jesus Christ. We offer diverse worship experiences, support groups, and opportunities for intergenerational connections, promoting human flourishing and inclusivity for all, including LGBTQ+ individuals.
+Bethany Presbyterian Church is a welcoming community grounded in God's love and centered on Jesus Christ. We offer diverse worship experiences, support groups, and opportunities for intergenerational connections, promoting human flourishing and inclusivity for all, including LGBTQ individuals.

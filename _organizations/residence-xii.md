@@ -10,4 +10,4 @@ type: Community-Based Organization
 website: https://www.residencexii.org/
 ---
 
-Residence XII is the Northwest’s premier non-profit alcohol and drug addiction treatment center for women, offering personalized inpatient and outpatient programs. Since 1981, we have supported thousands of women on their recovery journey in a safe and nurturing environment.
+Residence XII is the Northwest’s premier nonprofit alcohol and drug addiction treatment center for women, offering personalized inpatient and outpatient programs. Since 1981, we have supported thousands of women on their recovery journey in a safe and nurturing environment.

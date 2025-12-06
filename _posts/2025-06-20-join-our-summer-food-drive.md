@@ -38,4 +38,4 @@ topics:
 - Financial Assistance
 ---
 
-CarePoint is organizing a Summer Food Drive in collaboration with the Snoqualmie Valley Food Bank (SVFB), which is a valued partner and host for its Mobile Clinic. The initiative aims to support those in need by encouraging community members to donate food items. Donations can be dropped off at various clinic locations or made directly to the SVFB. CarePoint emphasizes that all contributions are greatly appreciated to help reduce barriers to care for those they serve.
+CarePoint is organizing a summer food drive in collaboration with the Snoqualmie Valley Food Bank (SVFB), a valued partner and host for its mobile clinic. The initiative aims to support those in need by encouraging community members to donate food items. Donations can be dropped off at various clinic locations or made directly to the SVFB. CarePoint emphasizes that all contributions are greatly appreciated to help reduce barriers to care for those it serves.

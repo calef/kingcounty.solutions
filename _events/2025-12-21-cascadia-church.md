@@ -58,4 +58,4 @@ title: Cascadia Church
 topics: []
 ---
 
-Join us at Cascadia Church on December 21 from 9:00 AM to 12:00 PM for a morning filled with community, worship, and connection. Attendees can expect uplifting music, engaging messages, and opportunities to meet new friends. This event is perfect for individuals and families looking to deepen their faith and build relationships within the community. Don't miss this chance to be part of a welcoming environment where everyone is invited to participate and share in the spirit of togetherness.
+Join us at Cascadia Church on Dec. 21 from 9 a.m. to noon for a morning filled with community, worship, and connection. Attendees can expect uplifting music, engaging messages, and opportunities to meet new friends. This event is perfect for individuals and families looking to deepen their faith and build relationships within the community. Don't miss this chance to be part of a welcoming environment where everyone is invited to participate and share in the spirit of togetherness.

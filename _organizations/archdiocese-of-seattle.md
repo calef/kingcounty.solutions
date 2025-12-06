@@ -21,4 +21,4 @@ type: Faith-Based Organization
 website: https://archseattle.org/
 ---
 
-The Archdiocese of Seattle serves over a million Catholics in Western Washington, offering various ministries, educational institutions, and community support services. It aims to foster faith, provide assistance, and promote social justice across the region.
+The Archdiocese of Seattle serves more than 1 million Catholics in Western Washington, offering various ministries, educational institutions, and community support services. It aims to foster faith, provide assistance, and promote social justice across the region.

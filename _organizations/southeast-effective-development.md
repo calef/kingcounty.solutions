@@ -11,4 +11,4 @@ type: Community-Based Organization
 website: https://www.seedseattle.org/affordable-housing
 ---
 
-SEED is dedicated to improving the quality of life in Southeast Seattle by providing affordable housing, fostering economic development, and supporting arts and culture. With over 1,135 affordable apartments, SEED focuses on serving working families, seniors, and individuals with limited resources.
+SEED is dedicated to improving the quality of life in Southeast Seattle by providing affordable housing, fostering economic development, and supporting arts and culture. With more than 1,135 affordable apartments, SEED focuses on serving working families, seniors, and individuals with limited resources.

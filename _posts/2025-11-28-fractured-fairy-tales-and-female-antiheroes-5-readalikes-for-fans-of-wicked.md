@@ -31,16 +31,16 @@ title: Fractured Fairy Tales and Female Antiheroes, 5 Readalikes for Fans of Wic
 topics: []
 ---
 
-Fans of "Wicked" will appreciate these five read-alikes that explore fractured fairy tales and feature compelling female antiheroes. 
+Fans of "Wicked" will appreciate these five read-alikes that explore fractured fairy tales and feature compelling female antiheroes.
 
-1. **"The Bone Season" by Samantha Shannon** - Set in a dystopian future, this story follows Paige Mahoney, a powerful dreamwalker who navigates a world where clairvoyants are hunted.
-   
-2. **"Queen of Snow" by Laura Byron and Jessie Cal** - This novel reimagines the tale of Snow White, focusing on the dark and complex relationships between the characters, particularly the Queen.
-   
-3. **"A Curse So Dark and Lonely" by Brigid Kemmerer** - A contemporary retelling of "Beauty and the Beast," this book features a strong female lead, Harper, who is determined to break the curse and save the prince.
-   
-4. **"Heartless" by Marissa Meyer** - This origin story of the Queen of Hearts delves into her life before becoming a villain, providing insights into her motivations and desires.
-   
-5. **"The Hazel Wood" by Melissa Albert** - Blending reality with fairy tales, this novel follows Alice as she uncovers the dark legacy of her grandmother’s stories and confronts her own fate.
+1. **"The Bone Season" by Samantha Shannon** – Set in a dystopian future, this story follows Paige Mahoney, a powerful dreamwalker who navigates a world where clairvoyants are hunted.
+
+2. **"Queen of Snow" by Laura Byron and Jessie Cal** – This novel reimagines the tale of Snow White, focusing on the dark and complex relationships between the characters, particularly the queen.
+
+3. **"A Curse So Dark and Lonely" by Brigid Kemmerer** – A contemporary retelling of "Beauty and the Beast," this book features a strong female lead, Harper, who is determined to break the curse and save the prince.
+
+4. **"Heartless" by Marissa Meyer** – This origin story of the Queen of Hearts delves into her life before becoming a villain, providing insights into her motivations and desires.
+
+5. **"The Hazel Wood" by Melissa Albert** – Blending reality with fairy tales, this novel follows Alice as she uncovers the dark legacy of her grandmother’s stories and confronts her own fate.
 
 These titles offer unique twists on classic tales, showcasing strong, multifaceted female characters.

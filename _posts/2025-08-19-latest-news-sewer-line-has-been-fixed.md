@@ -17,4 +17,4 @@ topics:
 - Food & Nutrition
 ---
 
-The sewer line at the American Legion Hall has been successfully repaired. As a result, the shelter will resume its regular breakfast service tomorrow, operating from 7 to 11 am.
+The sewer line at the American Legion Hall has been successfully repaired. As a result, the shelter will resume its regular breakfast service tomorrow, operating from 7 to 11 a.m.

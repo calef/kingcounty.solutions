@@ -15,4 +15,4 @@ type: Department
 website: https://www.seattle.gov/utilities
 ---
 
-Seattle Public Utilities provides essential services including water, sewer, and solid waste management. They offer programs for bill assistance, waste collection, and environmental protection, ensuring access to necessary utilities for all residents.
+Seattle Public Utilities provides essential services, including water, sewer, and solid waste management. It offers programs for bill assistance, waste collection, and environmental protection, ensuring access to necessary utilities for all residents.

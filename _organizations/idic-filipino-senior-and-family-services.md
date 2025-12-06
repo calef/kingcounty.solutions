@@ -12,4 +12,4 @@ type: Community-Based Organization
 website: https://www.idicseniorcenter.org/
 ---
 
-IDIC Filipino Senior and Family Services provides essential support for Filipino seniors and their families, including health care, social activities, and a food bank. Programs like PEARLS offer mental health support, while nutritious meals and social events foster community connection.
+IDIC Filipino Senior and Family Services provides essential support for Filipino seniors and their families, including health care, social activities, and a food bank. Programs like PEARLS offer mental health support, while nutritious meals and social events foster community connections.

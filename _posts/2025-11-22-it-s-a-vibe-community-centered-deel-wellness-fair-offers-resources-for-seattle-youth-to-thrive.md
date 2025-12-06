@@ -32,7 +32,7 @@ topics:
 - Education & Learning
 ---
 
-Seattle Public Schools is set to receive $13 million in funding from the state to enhance student mental health services. This initiative is aimed at addressing the growing mental health needs among students, particularly in the aftermath of the COVID-19 pandemic. The funding will support the hiring of additional counselors and mental health professionals across schools, as well as expanding access to mental health resources and programs. 
+Seattle Public Schools is set to receive $13 million in funding from the state to enhance student mental health services. This initiative aims to address the growing mental health needs among students, particularly in the aftermath of the COVID-19 pandemic. The funding will support the hiring of additional counselors and mental health professionals across schools, as well as expand access to mental health resources and programs.
 
 Superintendent Brent Jones emphasized the importance of prioritizing student mental health to ensure academic success and overall well-being. The funding will be utilized to implement comprehensive mental health support systems that include training for staff and increased collaboration with community organizations. The initiative aligns with the district's commitment to fostering a safe and supportive learning environment for all students.
 

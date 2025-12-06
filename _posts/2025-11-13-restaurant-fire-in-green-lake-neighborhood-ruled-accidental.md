@@ -15,4 +15,4 @@ title: Restaurant fire in Green Lake neighborhood ruled accidental
 topics: []
 ---
 
-At 3:27 a.m. on November 13, 2025, the Seattle Fire Department responded to a fire at a restaurant in the Green Lake neighborhood. Firefighters found black smoke and flames, indicating a working fire in the kitchen that spread to the roof. They controlled the fire within 30 minutes and extinguished it shortly after 4:30 a.m. The investigation determined the fire was accidental, likely caused by faulty electrical issues. Fortunately, no injuries were reported during the incident.
+At 3:27 a.m. on Nov. 13, 2025, the Seattle Fire Department responded to a fire at a restaurant in the Green Lake neighborhood. Firefighters found black smoke and flames, indicating a working fire in the kitchen that spread to the roof. They controlled the fire within 30 minutes and extinguished it shortly after 4:30 a.m. The investigation determined the fire was accidental, likely caused by faulty electrical issues. Fortunately, no injuries were reported during the incident.

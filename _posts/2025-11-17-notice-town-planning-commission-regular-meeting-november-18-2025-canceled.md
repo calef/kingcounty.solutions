@@ -16,4 +16,4 @@ title: 'NOTICE: Town Planning Commission Regular Meeting November 18, 2025: CANC
 topics: []
 ---
 
-The regular Town Planning Commission meeting set for November 18, 2025, has been canceled due to a lack of quorum. The next meeting is scheduled for December 16, 2025, at 6:00 PM at Town Hall.
+The regular Town Planning Commission meeting set for Nov. 18, 2025, has been canceled due to a lack of quorum. The next meeting is scheduled for Dec. 16, 2025, at 6 p.m. at Town Hall.

@@ -22,4 +22,4 @@ The Seattle Aquarium is making significant strides in reducing fossil fuel usage
 
 Additionally, the aquarium has adopted a comprehensive water management strategy that emphasizes conservation and efficiency. This includes the use of advanced filtration systems and the capture of rainwater for use in exhibits. The aquarium is also transitioning to renewable energy sources, aiming for a substantial reduction in its carbon footprint.
 
-These efforts not only contribute to environmental sustainability but also enhance the overall care and wellbeing of the marine life in the aquarium. By prioritizing eco-friendly practices, the Seattle Aquarium is setting an example for other institutions and fostering a greater awareness of the importance of protecting ocean ecosystems.
+These efforts not only contribute to environmental sustainability but also enhance the overall care and well-being of the marine life in the aquarium. By prioritizing eco-friendly practices, the Seattle Aquarium is setting an example for other institutions and fostering greater awareness of the importance of protecting ocean ecosystems.

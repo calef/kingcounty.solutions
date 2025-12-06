@@ -70,4 +70,12 @@ topics:
 - Transportation & Mobility
 ---
 
-The King County Flood Control District has urged residents to prepare for the flood season, which runs from October through April. Flooding is the most common natural disaster in King County and can cause serious damage to homes, roads, and businesses. Residents are advised to know their flood risk, sign up for flood alerts, purchase flood insurance, create an emergency kit, and plan an escape route. If a flood occurs, residents should heed emergency alerts, avoid floodwaters, and seek higher ground. After a flood, residents should wait for an all-clear before reentering their homes, have their utilities inspected by professionals, document all damages, and clean up safely.
+The King County Flood Control District has urged residents to prepare for the flood season, which runs from October through April. Flooding is the most common natural disaster in King County and can cause serious damage to homes, roads, and businesses. Residents are advised to:
+
+- Know their flood risk
+- Sign up for flood alerts
+- Purchase flood insurance
+- Create an emergency kit
+- Plan an escape route
+
+If a flood occurs, residents should heed emergency alerts, avoid floodwaters, and seek higher ground. After a flood, residents should wait for an all-clear before reentering their homes, have their utilities inspected by professionals, document all damages, and clean up safely.

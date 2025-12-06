@@ -13,4 +13,4 @@ type: Corporation
 website: https://www.seattlechildrens.org/
 ---
 
-Seattle Children's Hospital provides comprehensive healthcare services for children, including urgent care, mental health support, and financial assistance for families. The hospital is dedicated to delivering hope, care, and cures to help every child live the healthiest life possible.
+Seattle Children's Hospital provides comprehensive health care services for children, including urgent care, mental health support, and financial assistance for families. The hospital is dedicated to delivering hope, care, and cures to help every child live the healthiest life possible.

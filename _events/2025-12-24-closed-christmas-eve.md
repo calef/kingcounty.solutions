@@ -84,4 +84,4 @@ title: Closed Christmas Eve
 topics: []
 ---
 
-The South Park Neighborhood Center will be closed on December 24, 2025, in observance of Christmas Eve. This day is significant as it marks the anticipation of Christmas Day, celebrated by many around the world. While the center will not be open for activities, community members can take this time to enjoy the holiday spirit with family and friends. The center will resume regular operations following the holiday. Please plan accordingly if you need to visit the center, located at 8201 10th Ave S, #4 in Seattle, WA.
+The South Park Neighborhood Center will be closed on Dec. 24, 2025, in observance of Christmas Eve. This day is significant as it marks the anticipation of Christmas Day, celebrated by many around the world. While the center will not be open for activities, community members can take this time to enjoy the holiday spirit with family and friends. The center will resume regular operations following the holiday. Please plan accordingly if you need to visit the center, located at 8201 10th Ave S, #4, Seattle, WA.

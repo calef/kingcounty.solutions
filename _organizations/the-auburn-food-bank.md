@@ -14,4 +14,4 @@ type: Community-Based Organization
 website: https://theauburnfoodbank.org
 ---
 
-The Auburn Food Bank provides food, referrals, and emergency assistance to individuals and families in need within the Auburn School District boundaries. They serve approximately 150 families daily and offer additional resources for clothing, furniture, and financial help for emergencies.
+The Auburn Food Bank provides food, referrals, and emergency assistance to individuals and families in need within the Auburn School District boundaries. It serves approximately 150 families daily and offers additional resources for clothing, furniture, and financial help for emergencies.
