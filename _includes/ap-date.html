@@ -1,0 +1,17 @@
+{%- assign value = include.value -%}
+{%- if value -%}
+  {%- assign month_number = value | date: "%-m" -%}
+  {%- assign day_number = value | date: "%-d" -%}
+  {%- assign year_number = value | date: "%Y" -%}
+  {%- assign month_map = site.ap_style.months_with_day -%}
+  {%- assign month_label = month_map[month_number] -%}
+  {%- if month_label == nil or month_label == '' -%}
+    {%- assign month_label = value | date: "%B" -%}
+  {%- endif -%}
+  {%- assign weekday_label = value | date: "%A" -%}
+  {%- if include.show_weekday == true or include.show_weekday == 'true' -%}
+    {{- weekday_label -}}, {{ month_label }} {{ day_number }}, {{ year_number }}
+  {%- else -%}
+    {{- month_label }} {{ day_number }}, {{ year_number }}
+  {%- endif -%}
+{%- endif -%}

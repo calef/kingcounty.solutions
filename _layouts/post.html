@@ -24,7 +24,7 @@ layout: default
     </div>
     <p class="post-meta">
       <time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}" itemprop="datePublished">
-        {{ page.date | date: "%B %-d, %Y" }}
+        {% include ap-date.html value=page.date %}
       </time>
       {%- assign source_text = page.source | default: page.source_url -%}
       {%- if source_text -%}

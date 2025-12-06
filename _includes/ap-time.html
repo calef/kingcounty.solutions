@@ -1,0 +1,21 @@
+{%- assign value = include.value -%}
+{%- if value -%}
+  {%- assign hour_24 = value | date: "%H" -%}
+  {%- assign hour_12 = value | date: "%-I" -%}
+  {%- assign minute_value = value | date: "%M" -%}
+  {%- assign meridiem_raw = value | date: "%P" -%}
+  {%- assign meridiem_map = site.ap_style.meridiem -%}
+  {%- assign meridiem_label = meridiem_map[meridiem_raw] | default: meridiem_raw -%}
+  {%- if hour_24 == '00' and minute_value == '00' -%}
+    {{- site.ap_style.midnight_label | default: 'midnight' -}}
+  {%- elsif hour_24 == '12' and minute_value == '00' -%}
+    {{- site.ap_style.noon_label | default: 'noon' -}}
+  {%- else -%}
+    {%- if minute_value == '00' -%}
+      {%- assign time_text = hour_12 -%}
+    {%- else -%}
+      {%- assign time_text = hour_12 | append: ':' | append: minute_value -%}
+    {%- endif -%}
+    {{- time_text }} {{ meridiem_label }}
+  {%- endif -%}
+{%- endif -%}

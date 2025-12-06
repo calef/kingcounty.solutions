@@ -6,6 +6,22 @@ layout: default
 {%- assign event_source_url = page.source_url | default: event_url -%}
 {%- assign start_value = page.start_date | default: page.date -%}
 {%- assign end_value = page.end_date -%}
+{%- assign start_date_display = nil -%}
+{%- assign start_time_display = nil -%}
+{%- if start_value -%}
+  {%- capture start_date_display -%}{% include ap-date.html value=start_value show_weekday=true %}{%- endcapture -%}
+  {%- assign start_date_display = start_date_display | strip -%}
+  {%- capture start_time_display -%}{% include ap-time.html value=start_value %}{%- endcapture -%}
+  {%- assign start_time_display = start_time_display | strip -%}
+{%- endif -%}
+{%- assign end_date_display = nil -%}
+{%- assign end_time_display = nil -%}
+{%- if end_value -%}
+  {%- capture end_date_display -%}{% include ap-date.html value=end_value show_weekday=true %}{%- endcapture -%}
+  {%- assign end_date_display = end_date_display | strip -%}
+  {%- capture end_time_display -%}{% include ap-time.html value=end_value %}{%- endcapture -%}
+  {%- assign end_time_display = end_time_display | strip -%}
+{%- endif -%}
 {%- assign location_value = page.location -%}
 {%- assign source_text = page.source | default: page.source_url -%}
 {%- assign calendar_timezone = site.timezone | default: "America/Los_Angeles" -%}
@@ -126,8 +142,10 @@ END:VCALENDAR
             <th scope="row">Starts</th>
             <td>
               <time datetime="{{ start_value | date_to_xmlschema }}" itemprop="startDate">
-                {{ start_value | date: "%A, %B %-d, %Y" }}
-                <span class="event-meta-time">{{ start_value | date: " • %-I:%M %p" }}</span>
+                {{ start_date_display }}
+                {%- if start_time_display and start_time_display != '' -%}
+                  <span class="event-meta-time"> • {{ start_time_display }}</span>
+                {%- endif -%}
               </time>
             </td>
           </tr>
@@ -137,8 +155,10 @@ END:VCALENDAR
             <th scope="row">Ends</th>
             <td>
               <time datetime="{{ end_value | date_to_xmlschema }}" itemprop="endDate">
-                {{ end_value | date: "%A, %B %-d, %Y" }}
-                <span class="event-meta-time">{{ end_value | date: " • %-I:%M %p" }}</span>
+                {{ end_date_display }}
+                {%- if end_time_display and end_time_display != '' -%}
+                  <span class="event-meta-time"> • {{ end_time_display }}</span>
+                {%- endif -%}
               </time>
             </td>
           </tr>

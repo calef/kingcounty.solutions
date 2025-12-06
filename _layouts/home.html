@@ -22,7 +22,7 @@ title: Home
       {% for post in recent_posts limit: 20 %}
       <li>
         <article class="home-item">
-          <p class="home-item-meta">{{ post.date | date: "%B %-d, %Y" }}</p>
+          <p class="home-item-meta">{% include ap-date.html value=post.date %}</p>
           <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
           {% if post.excerpt %}
           <p class="home-item-summary">{{ post.excerpt | strip_html | truncate: 140 }}</p>
@@ -45,8 +45,12 @@ title: Home
     <ul class="home-list">
       {% for event in upcoming_events limit: 20 %}
       <li>
+        {% capture home_event_date %}{% include ap-date.html value=event.start_date %}{% endcapture %}
+        {% assign home_event_date = home_event_date | strip %}
+        {% capture home_event_time %}{% include ap-time.html value=event.start_date %}{% endcapture %}
+        {% assign home_event_time = home_event_time | strip %}
         <article class="home-item">
-          <p class="home-item-meta">{{ event.start_date | date: "%B %-d, %Y" }} at {{ event.start_date | date: "%-I:%M %p" }}</p>
+          <p class="home-item-meta">{{ home_event_date }}{% if home_event_time != '' %} at {{ home_event_time }}{% endif %}</p>
           <h3><a href="{{ event.url | relative_url }}">{{ event.title }}</a></h3>
           {% if event.excerpt %}
           <p class="home-item-summary">{{ event.excerpt | strip_html | truncate: 140 }}</p>

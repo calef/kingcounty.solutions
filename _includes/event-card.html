@@ -22,12 +22,15 @@
   {%- assign event_date_text = nil -%}
   {%- assign event_time_text = nil -%}
   {%- if start_value -%}
-    {%- assign event_date_text = start_value | date: "%B %-d, %Y" -%}
-    {%- assign event_time_text = start_value | date: "%-I:%M %p" -%}
+    {%- capture event_date_text -%}{% include ap-date.html value=start_value %}{%- endcapture -%}
+    {%- assign event_date_text = event_date_text | strip -%}
+    {%- capture event_time_text -%}{% include ap-time.html value=start_value %}{%- endcapture -%}
+    {%- assign event_time_text = event_time_text | strip -%}
   {%- endif -%}
   {%- assign event_end_time_text = nil -%}
   {%- if end_value -%}
-    {%- assign event_end_time_text = end_value | date: "%-I:%M %p" -%}
+    {%- capture event_end_time_text -%}{% include ap-time.html value=end_value %}{%- endcapture -%}
+    {%- assign event_end_time_text = event_end_time_text | strip -%}
   {%- endif -%}
   {%- assign excerpt_source = event.excerpt | default: event.content -%}
   {%- if excerpt_source -%}
@@ -52,10 +55,10 @@
       <p class="news-meta">
         {%- if event_date_text -%}
           <time datetime="{{ start_value | date_to_xmlschema }}">{{ event_date_text }}</time>
-          {%- if event_time_text -%}
+          {%- if event_time_text and event_time_text != '' -%}
             <span class="event-time"> • {{ event_time_text }}</span>
           {%- endif -%}
-          {%- if event_end_time_text -%}
+          {%- if event_end_time_text and event_end_time_text != '' -%}
             <span class="event-time-range"> – {{ event_end_time_text }}&nbsp;</span>
           {%- endif -%}
         {%- endif -%}
