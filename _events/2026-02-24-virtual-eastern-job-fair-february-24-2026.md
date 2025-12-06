@@ -2,6 +2,7 @@
 end_date: '2026-02-25T00:00:00-08:00'
 images: []
 location: ''
+published: false
 original_content: <div class="container"> <section id="tribe-events-pg-template" class="tribe-events-pg-template">
   <div id="tribe-events-content" class="tribe-events-single"> <p class="tribe-events-back">
   <a href="https://www.dav.org/events-calendar/"> « All Events</a> </p> <h1 class="tribe-events-single-event-title">Virtual
