@@ -123,7 +123,7 @@ module Mayhem
 
       def generate_summary(article_text, front_matter, file_path)
         prompt = <<~PROMPT
-          Summarize the following event for a community calendar in 150 words or less using Markdown paragraphs.
+          Summarize the following event for a community calendar in 150 words or less using Markdown paragraphs, following The Associated Press Stylebook.
 
           Event title: #{front_matter['title']}
           Starts at: #{front_matter['start_date']}
@@ -148,7 +148,7 @@ module Mayhem
               parameters: {
                 model: @model,
                 messages: [
-                  { role: 'system', content: 'You write concise community event descriptions.' },
+                  { role: 'system', content: 'You write concise community event descriptions following The Associated Press Stylebook.' },
                   { role: 'user', content: prompt }
                 ],
                 temperature: 0.5

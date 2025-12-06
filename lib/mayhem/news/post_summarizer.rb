@@ -121,7 +121,7 @@ module Mayhem
 
       def generate_summary(article_text, source_url, file_path, stats)
         prompt = <<~PROMPT
-          Summarize the following article in 200 words or less in Markdown format for a news aggregator blog.
+          Summarize the following article in 200 words or less in Markdown format for a news aggregator blog, adhering to The Associated Press Stylebook.
 
           Article URL: #{source_url}
 
@@ -146,7 +146,7 @@ module Mayhem
               parameters: {
                 model: DEFAULT_MODEL,
                 messages: [
-                  { role: 'system', content: 'You are a helpful assistant.' },
+                  { role: 'system', content: 'You are a helpful assistant who writes summaries that follow The Associated Press Stylebook.' },
                   { role: 'user', content: prompt }
                 ],
                 temperature: 0.7

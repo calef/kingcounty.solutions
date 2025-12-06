@@ -233,6 +233,7 @@ module Mayhem
             2. One section per theme (use the provided titles). Each section should have 1–2 short paragraphs weaving together the posts listed for that theme with inline links and context on why they matter. The inline links should not be within parentheses but linked from within the text.
             3. If `other_posts` is non-empty, add a short "### Other updates" paragraph covering them.
           • Keep the tone factual yet accessible, mirroring a newsroom briefing.
+          • Follow The Associated Press Stylebook for capitalization, numerals, and tone.
           • Mention source organizations in-line where relevant.
           • Do NOT fabricate links—only use the provided URLs.
           • Avoid repeating the same post in multiple sections unless critical.
@@ -249,7 +250,7 @@ module Mayhem
           @chat_client.call(
             messages: [
               { role: 'system',
-                content: 'You are a concise civic-news editor who writes weekly recaps for King County residents.' },
+                content: 'You are a concise civic-news editor who writes weekly recaps for King County residents using The Associated Press Stylebook.' },
               { role: 'user', content: prompt }
             ],
             model: @model,
