@@ -4,6 +4,7 @@ require 'nokogiri'
 require_relative 'article_body_selectors'
 require_relative 'content_utils'
 require_relative '../feed_discovery'
+require_relative 'url_utils'
 
 module Mayhem
   module Support
@@ -22,8 +23,21 @@ module Mayhem
         @max_bytes = max_bytes
       end
 
+      NON_HTML_CONTENT_TYPES = %w[
+        application/pdf
+        application/msword
+        application/vnd.ms-powerpoint
+        application/vnd.ms-excel
+        application/vnd.openxmlformats-officedocument.wordprocessingml.document
+        application/vnd.openxmlformats-officedocument.presentationml.presentation
+        application/vnd.openxmlformats-officedocument.spreadsheetml.sheet
+        application/octet-stream
+      ].freeze
+
       def fetch(url)
         page = @http_client.fetch(url, accept: @accept, max_bytes: @max_bytes)
+        return skipped_response(page) if non_html_response?(page)
+
         document = Nokogiri::HTML(page[:body])
         strip_unwanted_nodes(document)
         body_node = document.at_css('body')
@@ -86,6 +100,24 @@ module Mayhem
         return '' unless source
 
         Mayhem::Support::ContentUtils.sanitize_html(source)
+      end
+
+      def non_html_response?(page)
+        content_type = page[:content_type].to_s.downcase
+        final_url = page[:final_url].to_s
+
+        return true if NON_HTML_CONTENT_TYPES.any? { |type| content_type.include?(type) }
+        return true if Mayhem::Support::UrlUtils.non_feed_url?(final_url)
+
+        false
+      end
+
+      def skipped_response(page)
+        @logger.warn(
+          "Skipping content fetch for #{page[:final_url]} " \
+          "(content-type: #{page[:content_type] || 'unknown'})"
+        )
+        { html: '', canonical_url: page[:final_url] }
       end
     end
   end
