@@ -1,6 +1,6 @@
 ---
 author: Chris Alef
-baseurl: "/kingcounty.solutions" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 description: >- # this means to ignore newlines until "baseurl:"
   Navigating King County’s social-services landscape can be complex—even for experienced professionals. King County Solutions streamlines the process by bringing publicly available regional resources together in one searchable, easy-to-use platform.
 collections:
@@ -90,5 +90,5 @@ plugins:
 rss_max_item_age_days: 90
 content_max_age_days: 365
 title: King County Solutions
-url: "https://calef.github.io"
+url: "https://kcs.crickertech.com"
 timezone: America/Los_Angeles
