@@ -148,6 +148,7 @@ module Mayhem
             5. Always write the summary in English, even if the source material uses another language.
             6. Do not include any headings or code blocks.
             7. Do not write that the article says something, just write what the article says. Do not write "The article discusses..." or "The article outlines...". Do write a summary of the article content.
+            8. Use clear language no more complex than a 10th grade reading level.
 
           ARTICLE CONTENT:
           #{article_text}
