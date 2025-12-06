@@ -74,12 +74,6 @@
 /**
  * Home layout
  */
-.home-intro {
-  margin: 2rem 0;
-  font-size: 1.15rem;
-  line-height: 1.6;
-}
-
 .home-columns {
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));

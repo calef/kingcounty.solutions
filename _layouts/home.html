@@ -3,20 +3,22 @@ layout: default
 title: Home
 ---
 
-<section class="home-intro">
-  <p>{{ content }}</p>
-</section>
+<header>
+  {% include breadcrumbs.html root_label="Home" %}
+  <h1>Home</h1>
+</header>
+
+{{ content }}
 
 {% assign recent_posts = site.posts | where_exp: 'post', 'post.published != false' %}
 {% assign now_iso = site.time | date_to_xmlschema %}
-{% assign upcoming_source = site.events | where_exp: 'event', 'event.published != false and event.start_date' %}
-{% assign upcoming_events = upcoming_source | where_exp: 'event', 'event.start_date >= now_iso' | sort: 'start_date' %}
+{% assign upcoming_events = site.events | sort: 'start_date' %}
 
 <div class="home-columns">
   <section class="home-column">
-    <div class="home-column-header">
+    <header class="home-column-header">
       <h2>Latest News</h2>
-    </div>
+    </header>
     {% if recent_posts.size > 0 %}
     <ul class="home-list">
       {% for post in recent_posts limit: 20 %}
@@ -38,9 +40,9 @@ title: Home
   </section>
 
   <section class="home-column">
-    <div class="home-column-header">
+    <header class="home-column-header">
       <h2>Upcoming Events</h2>
-    </div>
+    </header>
     {% if upcoming_events.size > 0 %}
     <ul class="home-list">
       {% for event in upcoming_events limit: 20 %}
