@@ -11,7 +11,6 @@ require 'rss'
 require 'time'
 require 'uri'
 require 'yaml'
-require 'set'
 require_relative '../logging'
 require_relative '../support/front_matter_document'
 require_relative '../support/slug_generator'
@@ -118,7 +117,7 @@ module Mayhem
 
         stats = Hash.new(0)
         page = @http.fetch(rss_url, accept: Mayhem::FeedDiscovery::ACCEPT_FEED,
-                                     max_bytes: Mayhem::FeedDiscovery::FEED_MAX_BYTES)
+                                    max_bytes: Mayhem::FeedDiscovery::FEED_MAX_BYTES)
         rss_content = sanitize_feed_xml(page[:body], source_title, rss_url)
         feed = RSS::Parser.parse(rss_content, false)
         unless feed
@@ -362,9 +361,7 @@ module Mayhem
           end
         end
 
-        if removed_nodes
-          @logger.info "Sanitized namespaced XML for '#{source_title}' (#{rss_url}) due to undeclared prefixes"
-        end
+        @logger.info "Sanitized namespaced XML for '#{source_title}' (#{rss_url}) due to undeclared prefixes" if removed_nodes
         remove_duplicate_xml_declaration(doc)
         doc.to_xml
       rescue StandardError => e
