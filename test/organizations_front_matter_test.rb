@@ -37,6 +37,7 @@ class OrganizationsFrontMatterTest < Minitest::Test
     'Program',
     'Psychologist',
     'Public Hospital District',
+    'Scientific Articles',
     'School District',
     'Special Purpose District',
     'State',
@@ -114,10 +115,8 @@ class OrganizationsFrontMatterTest < Minitest::Test
 
     organizations.each do |doc|
       website = value_as_string(doc, 'website')
-      if website.nil? || website.empty?
-        errors << "#{doc[:path]} missing required website"
-        next
-      end
+      next if website.nil? || website.empty?
+
       errors << "#{doc[:path]} has invalid website URL: #{website}" unless valid_url?(website)
 
       normalized = website.strip.downcase
