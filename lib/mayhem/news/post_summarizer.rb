@@ -16,6 +16,14 @@ module Mayhem
       POSTS_DIR = '_posts'
       TOPIC_DIR = '_topics'
       MAX_ARTICLE_CHARS = 20_000
+      MIN_SCRAPED_LENGTH = 400
+      BOILERPLATE_PATTERNS = [
+        /advanced features such as clipboard/i,
+        /official federal government website/i,
+        /before sharing sensitive information/i,
+        /security of the connection/i,
+        /you have safely connected to/i
+      ].freeze
       DEFAULT_MODEL = ENV.fetch('OPENAI_MODEL', 'gpt-4o-mini')
       DEFAULT_TOPIC_MODEL = ENV.fetch('OPENAI_TOPIC_MODEL', DEFAULT_MODEL)
 
@@ -78,7 +86,14 @@ module Mayhem
           return
         end
 
+        fallback_body = preferred_fallback_body(document)
         article_text = fetch_article_text(source_url) if source_url
+        article_text = article_text&.strip
+        if needs_summary && prefer_fallback_body?(article_text, fallback_body)
+          article_text = fallback_body
+          @logger.debug "Using fallback body for #{file_path}"
+        end
+        article_text ||= fallback_body
         article_text ||= document.body
         article_text = document.body if article_text.nil?
         if article_text && article_text.length > MAX_ARTICLE_CHARS
@@ -194,6 +209,25 @@ module Mayhem
         }
         summary_text = summary_fields.map { |key, value| "#{key}=#{value}" }.join(', ')
         @logger.info "News summarization complete: #{summary_text}"
+      end
+
+      def preferred_fallback_body(document)
+        original = document.front_matter['original_markdown_body']
+        original = original&.strip
+        return original unless original.to_s.empty?
+
+        body = document.body&.strip
+        body.to_s.empty? ? nil : body
+      end
+
+      def prefer_fallback_body?(scraped_text, fallback_body)
+        return false if fallback_body.to_s.empty?
+
+        cleaned = scraped_text.to_s.strip
+        return true if cleaned.empty?
+        return true if BOILERPLATE_PATTERNS.any? { |pattern| cleaned.match?(pattern) }
+
+        cleaned.length < MIN_SCRAPED_LENGTH && fallback_body.length > cleaned.length
       end
     end
   end
