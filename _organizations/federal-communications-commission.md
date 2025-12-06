@@ -3,7 +3,6 @@ acronym: FCC
 address: 45 L Street NE, Washington, DC 20554
 jurisdictions:
 - United States
-news_rss_url: https://www.fcc.gov/news-events/rss.xml
 parent_organization: United States Federal Government
 phone: 1-888-225-5322
 title: Federal Communications Commission
