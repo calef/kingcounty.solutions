@@ -1,7 +1,7 @@
 ---
 end_date: '2025-12-07T15:00:00-08:00'
 images: []
-location: Burke Memorial-Washington State Museum (BMM)
+location: Meet at the front entrance of the Burke Museum (parking lot side)
 original_content: '<div jscontroller="pc62j" jsmodel="iTeaXe" jsaction="rcuQ6b:WYd;GvneHb:og1FDd;vbaUQc:uAM5ec;"><div
   jscontroller="X4BaPc" data-is-embedded-search-enabled="true" jsaction="rcuQ6b:WYd;o6xM5b:Pg9eo;HuL2Hd:mHeCvf;VMhF5:FFYy5e;sk3Qmb:HI1Mdd;JIbuQc:rSzFEd(z2EeY),aSaF6e(ilzYPe);">
   <div jscontroller="o1L5Wb" data-sitename="schoolofenvironmentalandforest" data-search-scope="1"
@@ -512,7 +512,7 @@ original_content: '<div jscontroller="pc62j" jsmodel="iTeaXe" jsaction="rcuQ6b:W
   jsaction="click:o6ZaF(preventDefault=true); mousedown:lAhnzb; mouseup:Osgxgf; mouseenter:SKyDAe;
   mouseleave:xq3APb;touchstart:jJiBRc; touchmove:kZeBdd; touchend:VfAz8" jsname="j7LFlb"
   aria-label="Report abuse" role="menuitem" tabindex="-1"> <div class="uyYuVb oJeWuf"
-  jscontroller="HYv29e" jsaction="JIbuQc:dQ6O0c;" jsname="lV5oke" data-abuse-reporting-widget-proto=''%.@.null,"https://sites.google.com/uw.edu/schoolofenvironmentalandforest/home"]''><div
+  jscontroller="HYv29e" jsaction="JIbuQc:dQ6O0c;" jsname="lV5oke" data-abuse-reporting-widget-proto=''%.@.null,"https://sites.google.com/uw.edu/schoolofenvironmentalandforest/"]''><div
   class="jO7h3c">Report abuse</div></div></span><span jsslot class="z80M1 FeRvI" jsaction="click:o6ZaF(preventDefault=true);
   mousedown:lAhnzb; mouseup:Osgxgf; mouseenter:SKyDAe; mouseleave:xq3APb;touchstart:jJiBRc;
   touchmove:kZeBdd; touchend:VfAz8" jsname="j7LFlb" aria-label="Page details" role="menuitem"
@@ -523,7 +523,7 @@ original_content: '<div jscontroller="pc62j" jsmodel="iTeaXe" jsaction="rcuQ6b:W
   ynRLnc" data-last-updated-at-time="1764786813846" data-is-preview="false"> <div
   jsname="bN97Pc" class="hBW7Hb"> <div jsname="srlkmf" class="hUphyc"> <div class="YkaBSd"><div
   class="iBkmkf"> <span>Page updated</span> </div></div> <div class="YkaBSd" jscontroller="HYv29e"
-  jsaction="click:dQ6O0c;" data-abuse-reporting-widget-proto=''%.@.null,"https://sites.google.com/uw.edu/schoolofenvironmentalandforest/home"]''><div
+  jsaction="click:dQ6O0c;" data-abuse-reporting-widget-proto=''%.@.null,"https://sites.google.com/uw.edu/schoolofenvironmentalandforest/"]''><div
   role="button" class="U26fgb kpPxtd J7BuEb" jsshadow aria-label="Report abuse" aria-disabled="false"
   tabindex="0">Report abuse</div></div> </div> </div> </div> </div></div> </div> </div></div>'
 original_markdown_body: 'Search this site    Embedded Files           UW Campus Tree
@@ -595,11 +595,11 @@ original_markdown_body: 'Search this site    Embedded Files           UW Campus 
   details       Page updated  Report abuse'
 published: false
 source: University of Washington
-source_url: https://sites.google.com/uw.edu/schoolofenvironmentalandforest/home
+source_url: https://sites.google.com/uw.edu/schoolofenvironmentalandforest/
 start_date: '2025-12-07T13:00:00-08:00'
 summarized: true
 title: Washington Native Trees Tour
 topics: []
 ---
 
-Join us for the Washington Native Trees Tour on Dec. 7, 2025, from 1 p.m. to 3 p.m. at the Burke Memorial-Washington State Museum. This guided tour offers an immersive experience, allowing attendees to explore and appreciate the diverse native trees of Washington. Participants will learn about the ecological significance and unique characteristics of various tree species while enjoying the beautiful outdoor setting. The tour lasts approximately two hours, and attendees are welcome to leave early if needed. Please dress appropriately for the weather and arrive on time to ensure a smooth start. Don't miss this opportunity to connect with nature and deepen your understanding of Washington's rich arboreal heritage!
+Join the Washington Native Trees Tour on Dec. 7 from 1 to 3 p.m. at the Burke Museum of Natural History. This guided tour offers an immersive experience to explore the diverse native trees on the University of Washington campus. Participants will learn about the ecological significance and unique characteristics of various tree species while enjoying the beautiful landscape. The tour lasts approximately two hours, and attendees are encouraged to dress for the weather. Please arrive on time, as the group will depart shortly after the start time. Don't miss this opportunity to appreciate the natural beauty and biodiversity of Washington's native trees.
