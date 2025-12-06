@@ -19,6 +19,21 @@ permalink: /assets/search-index.json
     "description": {{ post_excerpt | jsonify }}
   }
 {%- endfor -%}
+{%- for event in site.events -%}
+  {%- assign event_excerpt = event.excerpt | strip_html | strip_newlines -%}
+  {%- if event_excerpt == "" or event_excerpt == nil -%}
+    {%- assign event_excerpt = event.content | strip_html | strip_newlines -%}
+  {%- endif -%}
+  {%- assign event_excerpt = event_excerpt | truncate: 160 -%}
+  {%- unless first -%},{%- endunless -%}
+  {%- assign first = false -%}
+  {
+    "title": {{ event.title | jsonify }},
+    "url": {{ event.url | relative_url | jsonify }},
+    "category": "Event",
+    "description": {{ event_excerpt | jsonify }}
+  }
+{%- endfor -%}
 {%- for org in site.organizations -%}
   {%- assign org_excerpt = org.content | strip_html | strip_newlines | truncate: 160 -%}
   {%- unless first -%},{%- endunless -%}
