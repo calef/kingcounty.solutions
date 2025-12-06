@@ -2,6 +2,7 @@
 date: '2025-11-15T18:00:00-08:00'
 images: []
 openai_model: gpt-5.1
+published: false
 source: King County Solutions
 summarized: true
 title: 'King County Solutions Weekly Roundup: November 9–November 15, 2025'
