@@ -36,6 +36,7 @@ original_content: <div class="container"> <section id="tribe-events-pg-template"
 original_markdown_body: "« All Events  Fort Bliss Job Fair, January 29, 2026  January
   29, 2026    Find out more         Google Calendar     iCalendar     Outlook 365
   \    Outlook Live           Details    Date:   January 29, 2026"
+published: false
 source: Disabled American Veterans
 source_url: https://www.dav.org/events-calendar/fort-bliss-job-fair-january-29-2026/
 start_date: '2026-01-29T00:00:00-08:00'
