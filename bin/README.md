@@ -14,6 +14,7 @@ Utility commands that automate content imports, auditing, and metadata maintenan
 | `list-openai-models` | Lists available OpenAI model IDs for the current API key. |
 | `summarize-content` | Generates AI-written summaries for `_posts/` and `_events/` entries that lack `summarized: true`, preserving the original Markdown body before replacing it with the short summary. |
 | `tidy-frontmatter` | Normalizes Markdown front matter (sorted keys, consistent delimiters, and tidy spacing between the delimiter and body). |
+| `update-content` | Orchestrates the import/summarize/image extraction/content-age enforcement pipeline, then commits and pushes resulting content changes. |
 
 > Many scripts call the OpenAI API; export `OPENAI_API_KEY` before using them.
 
@@ -157,6 +158,27 @@ Deletes `_posts/*.md` (and their referenced `_images/*.md` metadata plus any `as
  - Removes posts older than the threshold, then deletes referenced `_images/` metadata files and any assets named after those image checksums (e.g., `assets/images/<hash>.webp`) unless another post still references the same checksum.
  - After post cleanup, scans `_events/` and removes events whose `start_date` timestamps are already in the past (relative to the time the script runs).
  - Prints a short summary of how many posts and images were removed so you can verify the cleanup before committing.
+
+### `update-content`
+
+**Purpose**  
+Runs the full content update pipeline—imports feeds, summarizes posts/events, extracts referenced images, enforces content age limits—then stages resulting changes and performs the commit/push sequence.
+
+**Usage**
+
+- `bin/update-content`
+
+**Key env/config**
+
+- `LOG_LEVEL` – overridden to `TRACE` for the scripted run; you can export a different value afterward if desired.
+- Git must be configured with valid credentials for pull/push operations.
+
+**Behavior notes**
+
+- Aborts immediately if `git status --porcelain` reports uncommitted work so that local edits are never overwritten.
+- Executes `git pull`, then invokes each processing step via `bin/runlog ...` to capture structured logs.
+- Stages `_events`, `_images`, `_posts`, and `assets`, skipping the commit/push when no staged changes exist.
+- Commits with the fixed message “import content, summarize, extract images, and enforce content age” and pushes to the current branch when changes are present.
 
 ### `list-openai-models`
 

@@ -1,0 +1,82 @@
+#!/usr/bin/env ruby
+# frozen_string_literal: true
+
+require 'English'
+require 'open3'
+
+$LOAD_PATH.unshift(File.expand_path('../lib', __dir__))
+
+require 'mayhem/logging'
+
+module ContentUpdate
+  LOG_ENV = 'LOG_LEVEL'
+  PROGRAM_NAME = File.basename(__FILE__)
+  RUNLOG_COMMANDS = [
+    ['./bin/runlog', './bin/import-content-from-feeds'],
+    ['./bin/runlog', './bin/summarize-content'],
+    ['./bin/runlog', './bin/extract-images-from-content'],
+    ['./bin/runlog', './bin/enforce-content-age']
+  ].freeze
+  STAGE_TARGETS = %w[_events _images _posts assets].freeze
+  COMMIT_MESSAGE = 'import content, summarize, extract images, and enforce content age'
+
+  module_function
+
+  def run
+    logger = build_logger
+    ensure_clean_worktree(logger)
+    ENV[LOG_ENV] = 'TRACE'
+    logger = build_logger
+
+    run_command(%w[git pull], logger)
+    RUNLOG_COMMANDS.each do |command|
+      run_command(command, logger)
+    end
+
+    run_command(['git', 'add', *STAGE_TARGETS], logger)
+    commit_and_push(logger)
+  end
+
+  def build_logger
+    Mayhem::Logging.build_logger(env_var: LOG_ENV, default_level: 'INFO', program_name: PROGRAM_NAME)
+  end
+
+  def ensure_clean_worktree(logger)
+    stdout, stderr, status = Open3.capture3('git', 'status', '--porcelain')
+    unless status.success?
+      logger.error("Failed to inspect git status: #{stderr.strip}")
+      exit(status.exitstatus || 1)
+    end
+
+    return if stdout.strip.empty?
+
+    logger.error('Uncommitted changes detected; please commit or stash them before running the content update.')
+    exit 1
+  end
+
+  def run_command(command, logger)
+    display = command.is_a?(Array) ? command.join(' ') : command.to_s
+    logger.info("Running #{display}")
+    success = command.is_a?(Array) ? system(*command) : system(command)
+    return if success
+
+    exit_status = $CHILD_STATUS&.exitstatus || 1
+    logger.error("Command failed with status #{exit_status}: #{display}")
+    exit(exit_status)
+  end
+
+  def commit_and_push(logger)
+    diff_check = system('git', 'diff', '--cached', '--quiet')
+    if diff_check.nil?
+      exit($CHILD_STATUS&.exitstatus || 1)
+    elsif diff_check
+      logger.info('No changes to commit after running content updates; skipping commit and push.')
+      return
+    end
+
+    run_command(['git', 'commit', '-m', COMMIT_MESSAGE], logger)
+    run_command(%w[git push], logger)
+  end
+end
+
+ContentUpdate.run if $PROGRAM_NAME == __FILE__
