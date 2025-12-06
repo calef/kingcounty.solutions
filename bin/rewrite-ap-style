@@ -1,0 +1,45 @@
+#!/usr/bin/env ruby
+# frozen_string_literal: true
+
+$LOAD_PATH.unshift(File.expand_path('../lib', __dir__))
+
+require 'optparse'
+require 'mayhem/content/ap_style_rewriter'
+require 'mayhem/logging'
+
+options = {
+  model: ENV.fetch('OPENAI_AP_STYLE_MODEL', 'gpt-4o-mini'),
+  dry_run: false
+}
+
+parser = OptionParser.new do |opts|
+  opts.banner = 'Usage: bin/rewrite-ap-style [options] PATH [PATH ...]'
+  opts.on('--model MODEL', 'OpenAI model to use (default: $OPENAI_AP_STYLE_MODEL or gpt-4o-mini)') do |model|
+    options[:model] = model
+  end
+  opts.on('--dry-run', 'Show files that would change without writing updates') do
+    options[:dry_run] = true
+  end
+end
+
+parser.parse!
+
+if ARGV.empty?
+  warn parser
+  exit 1
+end
+
+logger = Mayhem::Logging.build_logger(
+  env_var: 'LOG_LEVEL',
+  default_level: 'INFO',
+  program_name: File.basename(__FILE__)
+)
+
+rewriter = Mayhem::Content::ApStyleRewriter.new(
+  paths: ARGV,
+  model: options[:model],
+  dry_run: options[:dry_run],
+  logger: logger
+)
+
+rewriter.run
