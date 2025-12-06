@@ -1,22 +1,22 @@
 ---
-end_date: '2025-12-11T11:30:00-08:00'
+end_date: '2025-12-11T12:00:00-08:00'
 images: []
 location: ''
 original_content: '<div class="wp-site-blocks"> <div class="tribe-block tec-block__single-event">
   <section id="tribe-events-pg-template" class="tribe-events-pg-template"> <title>WorkSource
-  Seattle-King County</title> <script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.worksourceskc.org/event/online-strategies-for-success-health-well-being-auburn-410/","url":"https://www.worksourceskc.org/event/online-strategies-for-success-health-well-being-auburn-410/","name":"ONLINE
-  Strategies for Success: Health &amp; Well-Being (Auburn) - WorkSource Seattle-King
-  County","isPartOf":{"@id":"https://worksourceskc.org/#website"},"datePublished":"2025-11-11T00:09:58+00:00","description":"Class
-  times: 8:30-11:30 (4-day class)Health and well-being &#8211; What is &#8216;work-life&#8217;
-  balance? How do I take care of me while taking care of","breadcrumb":{"@id":"https://www.worksourceskc.org/event/online-strategies-for-success-health-well-being-auburn-410/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.worksourceskc.org/event/online-strategies-for-success-health-well-being-auburn-410/"]}]},{"@type":"BreadcrumbList","@id":"https://www.worksourceskc.org/event/online-strategies-for-success-health-well-being-auburn-410/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"ONLINE
-  Strategies for Success: Health &amp; Well-Being (Auburn)"}]},{"@type":"WebSite","@id":"https://worksourceskc.org/#website","url":"https://worksourceskc.org/","name":"WorkSource
+  Seattle-King County</title> <script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://worksourceskc.org/event/online-strategies-for-success-community-engagement-colville-147/","url":"https://worksourceskc.org/event/online-strategies-for-success-community-engagement-colville-147/","name":"ONLINE
+  Strategies for Success: Community Engagement (Colville) - WorkSource Seattle-King
+  County","isPartOf":{"@id":"https://worksourceskc.org/#website"},"datePublished":"2025-12-05T19:48:59+00:00","dateModified":"2025-12-05T22:51:40+00:00","description":"Module
+  5: Community Engagement &#8211; Why are we such social creatures? We will show you
+  how communities can lift each other up and how even the tiniest","breadcrumb":{"@id":"https://worksourceskc.org/event/online-strategies-for-success-community-engagement-colville-147/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://worksourceskc.org/event/online-strategies-for-success-community-engagement-colville-147/"]}]},{"@type":"BreadcrumbList","@id":"https://worksourceskc.org/event/online-strategies-for-success-community-engagement-colville-147/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"ONLINE
+  Strategies for Success: Community Engagement (Colville)"}]},{"@type":"WebSite","@id":"https://worksourceskc.org/#website","url":"https://worksourceskc.org/","name":"WorkSource
   Seattle-King County","description":"Let&#039;s find your path together!","publisher":{"@id":"https://worksourceskc.org/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://worksourceskc.org/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://worksourceskc.org/#organization","name":"WorkSource
   Seattle-King County","url":"https://worksourceskc.org/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://worksourceskc.org/#/schema/logo/image/","url":"","contentUrl":"","caption":"WorkSource
   Seattle-King County"},"image":{"@id":"https://worksourceskc.org/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/worksourceskc/"]},{"@type":"Event","name":"ONLINE
-  Strategies for Success: Health &amp; Well-Being (Auburn)","description":"Class times:
-  8:30-11:30 (4-day class) Health and well-being &#8211; What is &#8216;work-life&#8217;
-  balance? How do I take care of me&hellip;","url":"https://worksourceskc.org/event/online-strategies-for-success-health-well-being-auburn-410/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2025-12-08T08:30:00-08:00","endDate":"2025-12-11T11:30:00-08:00","@id":"https://worksourceskc.org/event/online-strategies-for-success-health-well-being-auburn-410/#event","mainEntityOfPage":{"@id":"https://www.worksourceskc.org/event/online-strategies-for-success-health-well-being-auburn-410/"}}]}</script>
-  <title>ONLINE Strategies for Success: Health &amp; Well-Being (Auburn) – WorkSource
+  Strategies for Success: Community Engagement (Colville)","description":"Module 5:
+  Community Engagement &#8211; Why are we such social creatures? We will show you
+  how communities can lift each&hellip;","url":"https://worksourceskc.org/event/online-strategies-for-success-community-engagement-colville-147/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2025-12-08T09:00:00-08:00","endDate":"2025-12-11T12:00:00-08:00","@id":"https://worksourceskc.org/event/online-strategies-for-success-community-engagement-colville-147/#event","mainEntityOfPage":{"@id":"https://worksourceskc.org/event/online-strategies-for-success-community-engagement-colville-147/"}}]}</script>
+  <title>ONLINE Strategies for Success: Community Engagement (Colville) – WorkSource
   Seattle-King County</title> <a href="#main-content" id="" class="skip-link screen-reader-text"
   tabindex="0">Skip to main content</a> <header class="main_header"> <div class="navbar
   navbar-expand-xl"> <div class="container-fluid"> <div class="collapse navbar-collapse"
@@ -121,19 +121,20 @@ original_content: '<div class="wp-site-blocks"> <div class="tribe-block tec-bloc
   <section class="event-detail"> <div class="container "> <div class="row mt_row">
   <div class="col-lg-6 col_left"> <a href="https://worksourceskc.org/workshops-hiring-events"
   class="all-evnt">Go to Back to Calendar </a> <h1>ONLINE Strategies for Success:
-  Health &amp; Well-Being (Auburn)</h1> <div class="mt-dat-time"><p><strong>December
-  08</strong> Monday | 8:30am - 11:30am</p></div> <div class="add-to-cal addeventatc">
-  <a href="#">Add to Calendar</a> <span class="start">December 08 8:30am</span> <span
-  class="end">12/11/2025 11:30am</span> <span class="timezone">America/Los_Angeles</span>
-  <span class="title">ONLINE Strategies for Success: Health &amp; Well-Being (Auburn)</span>
-  <span class="description">Class times: 8:30-11:30 (4-day class) Health and well-being
-  – What is ‘work-life’ balance? How do I take care of me…</span> </div> <div class="directions"><p>Zoom
-  Online Meeting: Register for the workshop and the instructor will email meeting
-  links to you up to 15 minutes prior to start of meeting.</p></div> <p><strong>Room:
-  </strong>Zoom</p> <p><strong>Contact Name: </strong>Erik Hontz</p> <p><strong>Contact
-  Email: </strong><a href="mailto:Erik.Hontz@esd.wa.gov" target="_blank" rel="noopener">Erik.Hontz@esd.wa.gov</a></p>
-  <p><strong>Workshop Language: </strong>English</p> <p><strong>Event Registration:
-  </strong>Sign Up Required</p> <p class="signup-btn"><a class="btn btn-primary" href="https://eventactions.com/eareg.aspx?ea=Rsvp&amp;invite=g3x37wmn5r3pm42b9m21ks26z0fcbdjcm9wjs7kewgr8ec86b2na"
+  Community Engagement (Colville)</h1> <div class="mt-dat-time"><p><strong>December
+  08</strong> Monday | 9:00am - 12:00pm</p></div> <div class="add-to-cal addeventatc">
+  <a href="#">Add to Calendar</a> <span class="start">December 08 9:00am</span> <span
+  class="end">12/11/2025 12:00pm</span> <span class="timezone">America/Los_Angeles</span>
+  <span class="title">ONLINE Strategies for Success: Community Engagement (Colville)</span>
+  <span class="description">Module 5: Community Engagement – Why are we such social
+  creatures? We will show you how communities can lift each…</span> </div> <div class="directions"><p>Link
+  and meeting information will be shared by e-mail at a minimum of 1 hour before the
+  online workshop begins.</p></div> <p><strong>Room: </strong>Online Zoom Meeting</p>
+  <p><strong>Contact Name: </strong>Karla Hood</p> <p><strong>Contact Phone: </strong>509-685-6141</p>
+  <p><strong>Contact Email: </strong><a href="mailto:karla.hood@esd.wa.gov" target="_blank"
+  rel="noopener">karla.hood@esd.wa.gov</a></p> <p><strong>Workshop Language: </strong>English</p>
+  <p><strong>Event Registration: </strong>Sign Up Required</p> <p class="signup-btn"><a
+  class="btn btn-primary" href="https://eventactions.com/eareg.aspx?ea=Rsvp&amp;invite=gec1jfz5h5a5j9bb7mkmw6dxtnva0fd0dw4255c4fn8jr8t0btkk"
   target="_blank">Sign Up</a></p> <p><strong>Approved Unemployment Insurance (UI)
   Job Search Activity:</strong> Yes</p> <p><strong>Additional Info:</strong></p> <p>Strategies
   for Success is a series of life-skills workshops open to everyone. It is flexible
@@ -150,32 +151,30 @@ original_content: '<div class="wp-site-blocks"> <div class="tribe-block tec-bloc
   <p>*If you entered a valid email address, you will receive email updates of any
   registration or status changes. Remember to check your SPAM folder if you are not
   receiving emails from us.</p> <p><strong><em>If you need an accommodation to participate
-  in this training, contact Erik Hontz at <a href="mailto:erik.hontz@esd.wa.gov" target="_blank"
-  rel="noopener">erik.hontz@esd.wa.gov</a>, 253-804-1146, Washington Relay 711. Please
+  in this training, contact Karla Hood, <a href="mailto:karla.hood@esd.wa.gov" target="_blank"
+  rel="noopener">karla.hood@esd.wa.gov</a>, 509-685-6141, Washington Relay 711. Please
   provide your name and accommodation request. Please make your accommodation request
-  as early as possible so arrangements can be made.</em></strong></p> <strong>Description:</strong><p><strong>Class
-  times: 8:30-11:30 (4-day class)</strong></p>Health and well-being – <em>What is
-  ‘work-life’ balance? How do I take care of me while taking care of everyone else?
-  Come learn with us!</em><ul> <li>Examine your inner-professional, core values, life
-  choices and personal integrity </li> <li>Learn how to be personally and professionally
-  self-aware, establish boundaries and develop better stress and time management skills
-  </li> <li>Evaluate your social readiness and online footprint </li> <li>Learn to
-  access community resources and expand networking skills </li> <li>Improve your ability
-  to solve problems, set goals and develop new action planning techniques</li> </ul>
-  </div> </div> </div> </section> </div> </section> </div> </div>'
-original_markdown_body: 'WorkSource Seattle-King County {"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.worksourceskc.org/event/online-strategies-for-success-health-well-being-auburn-410/","url":"https://www.worksourceskc.org/event/online-strategies-for-success-health-well-being-auburn-410/","name":"ONLINE
-  Strategies for Success: Health &amp; Well-Being (Auburn) - WorkSource Seattle-King
-  County","isPartOf":{"@id":"https://worksourceskc.org/#website"},"datePublished":"2025-11-11T00:09:58+00:00","description":"Class
-  times: 8:30-11:30 (4-day class)Health and well-being &#8211; What is &#8216;work-life&#8217;
-  balance? How do I take care of me while taking care of","breadcrumb":{"@id":"https://www.worksourceskc.org/event/online-strategies-for-success-health-well-being-auburn-410/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.worksourceskc.org/event/online-strategies-for-success-health-well-being-auburn-410/"]}]},{"@type":"BreadcrumbList","@id":"https://www.worksourceskc.org/event/online-strategies-for-success-health-well-being-auburn-410/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"ONLINE
-  Strategies for Success: Health &amp; Well-Being (Auburn)"}]},{"@type":"WebSite","@id":"https://worksourceskc.org/#website","url":"https://worksourceskc.org/","name":"WorkSource
+  as early as possible so arrangements can be made.</em></strong></p> <strong>Description:</strong><strong>Module
+  5: Community Engagement </strong>– <em>Why are we such social creatures? We will
+  show you how communities can lift each other up and how even the tiniest gestures
+  can change the world!</em><ul> <li>Discover what it means when people talk about
+  an individual’s culture or self-identity, and what it means to be sensitive to it
+  </li> <li>Learn about your personal and social rights, demonstrating citizenship,
+  and civic engagement</li> </ul> </div> </div> </div> </section> </div> </section>
+  </div> </div>'
+original_markdown_body: 'WorkSource Seattle-King County {"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://worksourceskc.org/event/online-strategies-for-success-community-engagement-colville-147/","url":"https://worksourceskc.org/event/online-strategies-for-success-community-engagement-colville-147/","name":"ONLINE
+  Strategies for Success: Community Engagement (Colville) - WorkSource Seattle-King
+  County","isPartOf":{"@id":"https://worksourceskc.org/#website"},"datePublished":"2025-12-05T19:48:59+00:00","dateModified":"2025-12-05T22:51:40+00:00","description":"Module
+  5: Community Engagement &#8211; Why are we such social creatures? We will show you
+  how communities can lift each other up and how even the tiniest","breadcrumb":{"@id":"https://worksourceskc.org/event/online-strategies-for-success-community-engagement-colville-147/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://worksourceskc.org/event/online-strategies-for-success-community-engagement-colville-147/"]}]},{"@type":"BreadcrumbList","@id":"https://worksourceskc.org/event/online-strategies-for-success-community-engagement-colville-147/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"ONLINE
+  Strategies for Success: Community Engagement (Colville)"}]},{"@type":"WebSite","@id":"https://worksourceskc.org/#website","url":"https://worksourceskc.org/","name":"WorkSource
   Seattle-King County","description":"Let&#039;s find your path together!","publisher":{"@id":"https://worksourceskc.org/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://worksourceskc.org/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://worksourceskc.org/#organization","name":"WorkSource
   Seattle-King County","url":"https://worksourceskc.org/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://worksourceskc.org/#/schema/logo/image/","url":"","contentUrl":"","caption":"WorkSource
   Seattle-King County"},"image":{"@id":"https://worksourceskc.org/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/worksourceskc/"]},{"@type":"Event","name":"ONLINE
-  Strategies for Success: Health &amp; Well-Being (Auburn)","description":"Class times:
-  8:30-11:30 (4-day class) Health and well-being &#8211; What is &#8216;work-life&#8217;
-  balance? How do I take care of me&hellip;","url":"https://worksourceskc.org/event/online-strategies-for-success-health-well-being-auburn-410/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2025-12-08T08:30:00-08:00","endDate":"2025-12-11T11:30:00-08:00","@id":"https://worksourceskc.org/event/online-strategies-for-success-health-well-being-auburn-410/#event","mainEntityOfPage":{"@id":"https://www.worksourceskc.org/event/online-strategies-for-success-health-well-being-auburn-410/"}}]}
-  ONLINE Strategies for Success: Health & Well-Being (Auburn) – WorkSource Seattle-King
+  Strategies for Success: Community Engagement (Colville)","description":"Module 5:
+  Community Engagement &#8211; Why are we such social creatures? We will show you
+  how communities can lift each&hellip;","url":"https://worksourceskc.org/event/online-strategies-for-success-community-engagement-colville-147/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2025-12-08T09:00:00-08:00","endDate":"2025-12-11T12:00:00-08:00","@id":"https://worksourceskc.org/event/online-strategies-for-success-community-engagement-colville-147/#event","mainEntityOfPage":{"@id":"https://worksourceskc.org/event/online-strategies-for-success-community-engagement-colville-147/"}}]}
+  ONLINE Strategies for Success: Community Engagement (Colville) – WorkSource Seattle-King
   County Skip to main content        Job Board    Staff Log-In        Job Seekers   Get
   Started with Personalized Support  Sign Up for Services Layoff Support    Self-Serve
   Resources  Career Exploration Skills & Training Job Search   Workshops & Hiring
@@ -201,47 +200,42 @@ original_markdown_body: 'WorkSource Seattle-King County {"@context":"https://sch
   25 (Christmas)  Open: Friday, December 26 (day after Christmas) Regular hours: All
   other days  For specific holiday hours or if you have questions, please contact
   your local WorkSource offices         Go to Back to Calendar  ONLINE Strategies
-  for Success: Health & Well-Being (Auburn) December 08 Monday | 8:30am - 11:30am  Add
-  to Calendar December 08 8:30am 12/11/2025 11:30am America/Los_Angeles ONLINE Strategies
-  for Success: Health & Well-Being (Auburn) Class times: 8:30-11:30 (4-day class)
-  Health and well-being – What is ‘work-life’ balance? How do I take care of me…  Zoom
-  Online Meeting: Register for the workshop and the instructor will email meeting
-  links to you up to 15 minutes prior to start of meeting. Room: Zoom Contact Name:
-  Erik Hontz Contact Email: Erik.Hontz@esd.wa.gov Workshop Language: English Event
-  Registration: Sign Up Required Sign Up Approved Unemployment Insurance (UI) Job
-  Search Activity: Yes Additional Info: Strategies for Success is a series of life-skills
-  workshops open to everyone. It is flexible and customizable – each workshop module
-  can stand alone or be combined with other modules to provide a personalized experience.
-  Modules can be taken in any order. Each of the six modules is four days long, starting
-  on the first business day of each week. If class registration is full and participants
-  are waitlisted, all registrations (regular and waitlist) will be evaluated according
-  to the following criteria for deferment or acceptance into class:  Program referrals  Veterans  Continuing
-  or returning students (those working through the series of modules)  Repeating students
-  (those who have previously completed the module)  Walk-ins (not program-connected)  Please
-  go to WorkSourceWA.com and create a job-seeker account prior to attending the workshop.
-  *If you entered a valid email address, you will receive email updates of any registration
-  or status changes. Remember to check your SPAM folder if you are not receiving emails
-  from us. If you need an accommodation to participate in this training, contact Erik
-  Hontz at erik.hontz@esd.wa.gov, 253-804-1146, Washington Relay 711. Please provide
-  your name and accommodation request. Please make your accommodation request as early
-  as possible so arrangements can be made. Description:Class times: 8:30-11:30 (4-day
-  class)Health and well-being – What is ‘work-life’ balance? How do I take care of
-  me while taking care of everyone else? Come learn with us! Examine your inner-professional,
-  core values, life choices and personal integrity  Learn how to be personally and
-  professionally self-aware, establish boundaries and develop better stress and time
-  management skills  Evaluate your social readiness and online footprint  Learn to
-  access community resources and expand networking skills  Improve your ability to
-  solve problems, set goals and develop new action planning techniques'
+  for Success: Community Engagement (Colville) December 08 Monday | 9:00am - 12:00pm  Add
+  to Calendar December 08 9:00am 12/11/2025 12:00pm America/Los_Angeles ONLINE Strategies
+  for Success: Community Engagement (Colville) Module 5: Community Engagement – Why
+  are we such social creatures? We will show you how communities can lift each…  Link
+  and meeting information will be shared by e-mail at a minimum of 1 hour before the
+  online workshop begins. Room: Online Zoom Meeting Contact Name: Karla Hood Contact
+  Phone: 509-685-6141 Contact Email: karla.hood@esd.wa.gov Workshop Language: English
+  Event Registration: Sign Up Required Sign Up Approved Unemployment Insurance (UI)
+  Job Search Activity: Yes Additional Info: Strategies for Success is a series of
+  life-skills workshops open to everyone. It is flexible and customizable – each workshop
+  module can stand alone or be combined with other modules to provide a personalized
+  experience. Modules can be taken in any order. Each of the six modules is four days
+  long, starting on the first business day of each week. If class registration is
+  full and participants are waitlisted, all registrations (regular and waitlist) will
+  be evaluated according to the following criteria for deferment or acceptance into
+  class:  Program referrals  Veterans  Continuing or returning students (those working
+  through the series of modules)  Repeating students (those who have previously completed
+  the module)  Walk-ins (not program-connected)  Please go to WorkSourceWA.com and
+  create a job-seeker account prior to attending the workshop. *If you entered a valid
+  email address, you will receive email updates of any registration or status changes.
+  Remember to check your SPAM folder if you are not receiving emails from us. If you
+  need an accommodation to participate in this training, contact Karla Hood, karla.hood@esd.wa.gov,
+  509-685-6141, Washington Relay 711. Please provide your name and accommodation request.
+  Please make your accommodation request as early as possible so arrangements can
+  be made. Description:Module 5: Community Engagement – Why are we such social creatures?
+  We will show you how communities can lift each other up and how even the tiniest
+  gestures can change the world! Discover what it means when people talk about an
+  individual’s culture or self-identity, and what it means to be sensitive to it  Learn
+  about your personal and social rights, demonstrating citizenship, and civic engagement'
+published: false
 source: WorkSource Seattle-King County
-source_url: https://worksourceskc.org/event/online-strategies-for-success-health-well-being-auburn-410/
-start_date: '2025-12-08T08:30:00-08:00'
+source_url: https://worksourceskc.org/event/online-strategies-for-success-community-engagement-colville-147/
+start_date: '2025-12-08T09:00:00-08:00'
 summarized: true
-title: 'ONLINE Strategies for Success: Health & Well-Being (Auburn)'
-topics:
-- Employment & Job Support
-- Mental Health & Counseling
+title: 'ONLINE Strategies for Success: Community Engagement (Colville)'
+topics: []
 ---
 
-Join us for the ONLINE Strategies for Success: Health & Well-Being workshop series, starting on December 8, 2025, from 8:30 AM to 11:30 AM. This four-day class, hosted by WorkSource Seattle-King County, focuses on achieving work-life balance and prioritizing self-care. Participants will explore personal values, establish boundaries, and enhance stress and time management skills. 
-
-The workshop aims to improve social readiness, online presence, and networking abilities while equipping attendees with problem-solving techniques and goal-setting strategies. This is a great opportunity for anyone looking to enhance their well-being and professional skills in a supportive online environment. Don't miss out on this chance to invest in yourself and your future!
+Join us for the ONLINE Strategies for Success: Community Engagement workshop, taking place from December 8 to December 11, 2025, starting at 9:00 AM Pacific Time. This interactive online event will explore the importance of community engagement and how small actions can create significant change. Participants will learn about cultural sensitivity, personal and social rights, and ways to demonstrate active citizenship. This workshop is part of a series designed to enhance life skills, and each module can be taken independently or combined for a more comprehensive experience. Registration is required, and participants will receive meeting details via email prior to the event. Don't miss this opportunity to connect and engage with your community!
