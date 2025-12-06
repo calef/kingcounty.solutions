@@ -7,11 +7,8 @@
 
 ## Build, Test, and Development Commands
 - `script/bootstrap` — preferred entry point; installs Ruby/Bundler via mise helpers and runs `bundle install`.
-- Toolchains are managed with `mise`; if you open a new shell run `mise exec ruby@$(cat .ruby-version) -- <command>` (or source its activation line) so Ruby/Bundler versions match `.ruby-version`/`.bundler-version`.
 - `script/server` — wraps `bundle exec jekyll serve --livereload` so you can preview at `http://127.0.0.1:4000`.
 - `script/cibuild` — invokes `bundle exec jekyll build` plus any future CI checks; run locally before PRs.
-- `bin/import-content-from-feeds` — chains the RSS and iCal importers to pull partner news into `_posts/` and events into `_events/`, normalizes/validates URLs (falling back to an organization’s `website`), and skips storing invalid `source_url` values so deleting one triggers a clean re-import.
-- `bin/summarize-content` — generates AI summaries (and topics when missing) for `_posts/` and `_events/` entries that lack `summarized: true`.
 
 ## Coding Style & Naming Conventions
 - Use two spaces for indentation in Liquid templates, Markdown front matter, and Ruby scripts. Keep YAML keys lowercase with snake_case (e.g., `parent_place`).
@@ -31,5 +28,5 @@
 - Use parallel tool calls for independent operations and chain dependent shell commands with `&&` to minimize turns and side effects.
 - Prefer `glob` and `grep` for searching, `view` for reading files, and `edit` for minimal, surgical edits; follow repository guidelines for file naming and indentation.
 - Do not modify files under `_site/` or commit secrets; make the smallest possible change to fix an issue and document verification steps in the PR.
-- Use `script/bootstrap`, `script/server`, and `script/cibuild` to set up and verify local builds.
+- `script/bootstrap`, `script/server`, and `script/cibuild` verify local builds, however agents lack permissions to run them.
 - Keep messages concise and actionable so other agents can pick up work quickly.

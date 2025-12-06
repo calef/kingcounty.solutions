@@ -26,6 +26,16 @@ layout: default
 {%- assign source_text = page.source | default: page.source_url -%}
 {%- assign calendar_timezone = site.timezone | default: "America/Los_Angeles" -%}
 {%- assign location_plain = location_value | to_s | strip -%}
+{%- assign location_has_address = false -%}
+{%- if location_plain and location_plain != '' -%}
+  {%- assign address_indicators = "0,1,2,3,4,5,6,7,8,9" | split: "," -%}
+  {%- for indicator in address_indicators -%}
+    {%- if location_plain contains indicator -%}
+      {%- assign location_has_address = true -%}
+      {%- break -%}
+    {%- endif -%}
+  {%- endfor -%}
+{%- endif -%}
 {%- assign calendar_description = page.excerpt | default: page.content -%}
 {%- if calendar_description -%}
   {%- assign calendar_description = calendar_description | strip_html | strip_newlines | replace: '\r', ' ' | replace: '\n', ' ' | strip -%}
@@ -163,14 +173,20 @@ END:VCALENDAR
             </td>
           </tr>
         {% endif %}
-        {% if location_value %}
+        {% if location_plain != '' %}
           <tr class="event-detail-meta-row">
             <th scope="row">Location</th>
             <td itemprop="location">
-              {% assign maps_query = location_value | uri_escape %}
-              <a href="https://www.google.com/maps/search/?api=1&query={{ maps_query }}" target="_blank" rel="noopener noreferrer">
-                {{ location_value | newline_to_br }}
-              </a>
+              {% if location_has_address %}
+                {% assign maps_query = location_value | uri_escape %}
+                <a href="https://www.google.com/maps/search/?api=1&query={{ maps_query }}" target="_blank" rel="noopener noreferrer">
+                  {{ location_value | newline_to_br }}
+                </a>
+              {% else %}
+                <span>
+                  {{ location_value | newline_to_br }}
+                </span>
+              {% endif %}
             </td>
           </tr>
         {% endif %}

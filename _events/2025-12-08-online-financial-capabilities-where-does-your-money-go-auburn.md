@@ -1,22 +1,22 @@
 ---
-end_date: '2025-12-11T11:30:00-08:00'
+end_date: '2025-12-09T15:30:00-08:00'
 images: []
 location: ''
 original_content: '<div class="wp-site-blocks"> <div class="tribe-block tec-block__single-event">
   <section id="tribe-events-pg-template" class="tribe-events-pg-template"> <title>WorkSource
-  Seattle-King County</title> <script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://worksourceskc.org/event/online-strategies-for-success-health-well-being-auburn-411/","url":"https://worksourceskc.org/event/online-strategies-for-success-health-well-being-auburn-411/","name":"ONLINE
-  Strategies for Success: Health &amp; Well-Being (Auburn) - WorkSource Seattle-King
-  County","isPartOf":{"@id":"https://worksourceskc.org/#website"},"datePublished":"2025-11-11T00:10:08+00:00","dateModified":"2025-12-06T17:51:32+00:00","description":"Class
-  times: 8:30-11:30 (4-day class)Health and well-being &#8211; What is &#8216;work-life&#8217;
-  balance? How do I take care of me while taking care of","breadcrumb":{"@id":"https://worksourceskc.org/event/online-strategies-for-success-health-well-being-auburn-411/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://worksourceskc.org/event/online-strategies-for-success-health-well-being-auburn-411/"]}]},{"@type":"BreadcrumbList","@id":"https://worksourceskc.org/event/online-strategies-for-success-health-well-being-auburn-411/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"ONLINE
-  Strategies for Success: Health &amp; Well-Being (Auburn)"}]},{"@type":"WebSite","@id":"https://worksourceskc.org/#website","url":"https://worksourceskc.org/","name":"WorkSource
+  Seattle-King County</title> <script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://worksourceskc.org/event/online-financial-capabilities-where-does-your-money-go-auburn-394/","url":"https://worksourceskc.org/event/online-financial-capabilities-where-does-your-money-go-auburn-394/","name":"ONLINE
+  Financial Capabilities: Where Does Your Money Go? (Auburn) - WorkSource Seattle-King
+  County","isPartOf":{"@id":"https://worksourceskc.org/#website"},"datePublished":"2025-11-11T00:10:10+00:00","dateModified":"2025-12-06T17:51:35+00:00","description":"Class
+  times: 1:30-3:30 pm (Classes are Mondays and Tuesdays)Where does your money go?Investigate
+  your spending habits and construct a monthly budget.","breadcrumb":{"@id":"https://worksourceskc.org/event/online-financial-capabilities-where-does-your-money-go-auburn-394/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://worksourceskc.org/event/online-financial-capabilities-where-does-your-money-go-auburn-394/"]}]},{"@type":"BreadcrumbList","@id":"https://worksourceskc.org/event/online-financial-capabilities-where-does-your-money-go-auburn-394/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"ONLINE
+  Financial Capabilities: Where Does Your Money Go? (Auburn)"}]},{"@type":"WebSite","@id":"https://worksourceskc.org/#website","url":"https://worksourceskc.org/","name":"WorkSource
   Seattle-King County","description":"Let&#039;s find your path together!","publisher":{"@id":"https://worksourceskc.org/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://worksourceskc.org/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://worksourceskc.org/#organization","name":"WorkSource
   Seattle-King County","url":"https://worksourceskc.org/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://worksourceskc.org/#/schema/logo/image/","url":"","contentUrl":"","caption":"WorkSource
   Seattle-King County"},"image":{"@id":"https://worksourceskc.org/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/worksourceskc/"]},{"@type":"Event","name":"ONLINE
-  Strategies for Success: Health &amp; Well-Being (Auburn)","description":"Class times:
-  8:30-11:30 (4-day class) Health and well-being &#8211; What is &#8216;work-life&#8217;
-  balance? How do I take care of me&hellip;","url":"https://worksourceskc.org/event/online-strategies-for-success-health-well-being-auburn-411/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2025-12-08T08:30:00-08:00","endDate":"2025-12-11T11:30:00-08:00","@id":"https://worksourceskc.org/event/online-strategies-for-success-health-well-being-auburn-411/#event","mainEntityOfPage":{"@id":"https://worksourceskc.org/event/online-strategies-for-success-health-well-being-auburn-411/"}}]}</script>
-  <title>ONLINE Strategies for Success: Health &amp; Well-Being (Auburn) – WorkSource
+  Financial Capabilities: Where Does Your Money Go? (Auburn)","description":"Class
+  times: 1:30-3:30 pm (Classes are Mondays and Tuesdays) Where does your money go?
+  Investigate your spending habits and construct&hellip;","url":"https://worksourceskc.org/event/online-financial-capabilities-where-does-your-money-go-auburn-394/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2025-12-08T13:30:00-08:00","endDate":"2025-12-09T15:30:00-08:00","@id":"https://worksourceskc.org/event/online-financial-capabilities-where-does-your-money-go-auburn-394/#event","mainEntityOfPage":{"@id":"https://worksourceskc.org/event/online-financial-capabilities-where-does-your-money-go-auburn-394/"}}]}</script>
+  <title>ONLINE Financial Capabilities: Where Does Your Money Go? (Auburn) – WorkSource
   Seattle-King County</title> <a href="#main-content" id="" class="skip-link screen-reader-text"
   tabindex="0">Skip to main content</a> <header class="main_header"> <div class="navbar
   navbar-expand-xl"> <div class="container-fluid"> <div class="collapse navbar-collapse"
@@ -120,62 +120,55 @@ original_content: '<div class="wp-site-blocks"> <div class="tribe-block tec-bloc
   WorkSource offices</p> </div> </section> </header> <div class="main_wrapper" style="">
   <section class="event-detail"> <div class="container "> <div class="row mt_row">
   <div class="col-lg-6 col_left"> <a href="https://worksourceskc.org/workshops-hiring-events"
-  class="all-evnt">Go to Back to Calendar </a> <h1>ONLINE Strategies for Success:
-  Health &amp; Well-Being (Auburn)</h1> <div class="mt-dat-time"><p><strong>December
-  08</strong> Monday | 8:30am - 11:30am</p></div> <div class="add-to-cal addeventatc">
-  <a href="#">Add to Calendar</a> <span class="start">December 08 8:30am</span> <span
-  class="end">12/11/2025 11:30am</span> <span class="timezone">America/Los_Angeles</span>
-  <span class="title">ONLINE Strategies for Success: Health &amp; Well-Being (Auburn)</span>
-  <span class="description">Class times: 8:30-11:30 (4-day class) Health and well-being
-  – What is ‘work-life’ balance? How do I take care of me…</span> </div> <div class="directions"><p>Zoom
-  Online Meeting: Register for the workshop and the instructor will email meeting
-  links to you up to 15 minutes prior to start of meeting.</p></div> <p><strong>Room:
-  </strong>Zoom</p> <p><strong>Contact Name: </strong>Erik Hontz</p> <p><strong>Contact
-  Email: </strong><a href="mailto:Erik.Hontz@esd.wa.gov" target="_blank" rel="noopener">Erik.Hontz@esd.wa.gov</a></p>
-  <p><strong>Workshop Language: </strong>English</p> <p><strong>Event Registration:
-  </strong>Sign Up Required</p> <p class="signup-btn"><a class="btn btn-primary" href="https://eventactions.com/eareg.aspx?ea=Rsvp&amp;invite=g3x37wmn5r3pm42b9m21ks26z0fcbdjcm9wjs7kewgr8ec86b2na"
+  class="all-evnt">Go to Back to Calendar </a> <h1>ONLINE Financial Capabilities:
+  Where Does Your Money Go? (Auburn)</h1> <div class="mt-dat-time"><p><strong>December
+  08</strong> Monday | 1:30pm - 3:30pm</p></div> <div class="add-to-cal addeventatc">
+  <a href="#">Add to Calendar</a> <span class="start">December 08 1:30pm</span> <span
+  class="end">12/09/2025 3:30pm</span> <span class="timezone">America/Los_Angeles</span>
+  <span class="title">ONLINE Financial Capabilities: Where Does Your Money Go? (Auburn)</span>
+  <span class="description">Class times: 1:30-3:30 pm (Classes are Mondays and Tuesdays)
+  Where does your money go? Investigate your spending habits and construct…</span>
+  </div> <div class="directions"><p>Zoom Online Meeting: Register for the workshop
+  and the instructor will email meeting links to you up to 15 minutes prior to start
+  of meeting.</p></div> <p><strong>Room: </strong>Zoom</p> <p><strong>Contact Name:
+  </strong>Erik Hontz</p> <p><strong>Contact Email: </strong><a href="mailto:Erik.Hontz@esd.wa.gov"
+  target="_blank" rel="noopener">Erik.Hontz@esd.wa.gov</a></p> <p><strong>Workshop
+  Language: </strong>English</p> <p><strong>Event Registration: </strong>Sign Up Required</p>
+  <p class="signup-btn"><a class="btn btn-primary" href="https://eventactions.com/eareg.aspx?ea=Rsvp&amp;invite=0wta35nu703j3dfv44mva8jk1t9m9bppth7dhzy4t6nny8ps8xnu"
   target="_blank">Sign Up</a></p> <p><strong>Approved Unemployment Insurance (UI)
-  Job Search Activity:</strong> Yes</p> <p><strong>Additional Info:</strong></p> <p>Strategies
-  for Success is a series of life-skills workshops open to everyone. It is flexible
-  and customizable – each workshop module can stand alone or be combined with other
-  modules to provide a personalized experience. Modules can be taken in any order.
-  Each of the six modules is four days long, starting on the first business day of
-  each week.</p> <p>If class registration is full and participants are waitlisted,
-  all registrations (regular and waitlist) will be evaluated according to the following
-  criteria for deferment or acceptance into class:</p> <ol> <li>Program referrals
-  </li> <li>Veterans </li> <li>Continuing or returning students (those working through
-  the series of modules) </li> <li>Repeating students (those who have previously completed
-  the module) </li> <li>Walk-ins (not program-connected)</li> </ol> <p>Please go to
-  WorkSourceWA.com and create a job-seeker account prior to attending the workshop.</p>
-  <p>*If you entered a valid email address, you will receive email updates of any
-  registration or status changes. Remember to check your SPAM folder if you are not
-  receiving emails from us.</p> <p><strong><em>If you need an accommodation to participate
-  in this training, contact Erik Hontz at <a href="mailto:erik.hontz@esd.wa.gov" target="_blank"
-  rel="noopener">erik.hontz@esd.wa.gov</a>, 253-804-1146, Washington Relay 711. Please
-  provide your name and accommodation request. Please make your accommodation request
-  as early as possible so arrangements can be made.</em></strong></p> <strong>Description:</strong><p><strong>Class
-  times: 8:30-11:30 (4-day class)</strong></p>Health and well-being – <em>What is
-  ‘work-life’ balance? How do I take care of me while taking care of everyone else?
-  Come learn with us!</em><ul> <li>Examine your inner-professional, core values, life
-  choices and personal integrity </li> <li>Learn how to be personally and professionally
-  self-aware, establish boundaries and develop better stress and time management skills
-  </li> <li>Evaluate your social readiness and online footprint </li> <li>Learn to
-  access community resources and expand networking skills </li> <li>Improve your ability
-  to solve problems, set goals and develop new action planning techniques</li> </ul>
-  </div> </div> </div> </section> </div> </section> </div> </div>'
-original_markdown_body: 'WorkSource Seattle-King County {"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://worksourceskc.org/event/online-strategies-for-success-health-well-being-auburn-411/","url":"https://worksourceskc.org/event/online-strategies-for-success-health-well-being-auburn-411/","name":"ONLINE
-  Strategies for Success: Health &amp; Well-Being (Auburn) - WorkSource Seattle-King
-  County","isPartOf":{"@id":"https://worksourceskc.org/#website"},"datePublished":"2025-11-11T00:10:08+00:00","dateModified":"2025-12-06T17:51:32+00:00","description":"Class
-  times: 8:30-11:30 (4-day class)Health and well-being &#8211; What is &#8216;work-life&#8217;
-  balance? How do I take care of me while taking care of","breadcrumb":{"@id":"https://worksourceskc.org/event/online-strategies-for-success-health-well-being-auburn-411/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://worksourceskc.org/event/online-strategies-for-success-health-well-being-auburn-411/"]}]},{"@type":"BreadcrumbList","@id":"https://worksourceskc.org/event/online-strategies-for-success-health-well-being-auburn-411/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"ONLINE
-  Strategies for Success: Health &amp; Well-Being (Auburn)"}]},{"@type":"WebSite","@id":"https://worksourceskc.org/#website","url":"https://worksourceskc.org/","name":"WorkSource
+  Job Search Activity:</strong> Yes</p> <p><strong>Additional Info:</strong></p> <p><strong>This
+  is a six-week series that meets two times per week.</strong>This twice-a-week, six-week
+  workshop series empowers you to make informed and smart financial decisions. The
+  series is flexible and customizable – each unit can stand alone or be combined with
+  other units to provide a personalized experience. Units can be taken in any order.
+  Please go to WorkSourceWA.com and create your account prior to attending this workshop.</p>
+  <p>If class registration is full and participants are waitlisted, all registrations
+  (regular and waitlist) will be evaluated according to the following criteria for
+  deferment or acceptance into class:</p> <ol> <li>Program referrals </li> <li>Veterans
+  </li> <li>Continuing or returning students (those working through the series of
+  modules) </li> <li>Repeating students (those who have previously completed the module)
+  </li> <li>Walk-ins (not program-connected)</li> </ol> <p><strong><em>If you need
+  an accommodation to participate in this training, contact Erik Hontz at <a href="mailto:erik.hontz@esd.wa.gov"
+  target="_blank" rel="noopener">erik.hontz@esd.wa.gov</a>, 253-804-1146, Washington
+  Relay 711. Please provide your name and accommodation request. Please make your
+  accommodation request as early as possible so arrangements can be made.</em></strong></p>
+  <strong>Description:</strong><p><strong>Class times: 1:30-3:30 pm (Classes are Mondays
+  and Tuesdays)</strong></p> <strong>Where does your money go?</strong><p>Investigate
+  your spending habits and construct a monthly budget.</p> </div> </div> </div> </section>
+  </div> </section> </div> </div>'
+original_markdown_body: 'WorkSource Seattle-King County {"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://worksourceskc.org/event/online-financial-capabilities-where-does-your-money-go-auburn-394/","url":"https://worksourceskc.org/event/online-financial-capabilities-where-does-your-money-go-auburn-394/","name":"ONLINE
+  Financial Capabilities: Where Does Your Money Go? (Auburn) - WorkSource Seattle-King
+  County","isPartOf":{"@id":"https://worksourceskc.org/#website"},"datePublished":"2025-11-11T00:10:10+00:00","dateModified":"2025-12-06T17:51:35+00:00","description":"Class
+  times: 1:30-3:30 pm (Classes are Mondays and Tuesdays)Where does your money go?Investigate
+  your spending habits and construct a monthly budget.","breadcrumb":{"@id":"https://worksourceskc.org/event/online-financial-capabilities-where-does-your-money-go-auburn-394/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://worksourceskc.org/event/online-financial-capabilities-where-does-your-money-go-auburn-394/"]}]},{"@type":"BreadcrumbList","@id":"https://worksourceskc.org/event/online-financial-capabilities-where-does-your-money-go-auburn-394/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"ONLINE
+  Financial Capabilities: Where Does Your Money Go? (Auburn)"}]},{"@type":"WebSite","@id":"https://worksourceskc.org/#website","url":"https://worksourceskc.org/","name":"WorkSource
   Seattle-King County","description":"Let&#039;s find your path together!","publisher":{"@id":"https://worksourceskc.org/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://worksourceskc.org/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://worksourceskc.org/#organization","name":"WorkSource
   Seattle-King County","url":"https://worksourceskc.org/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://worksourceskc.org/#/schema/logo/image/","url":"","contentUrl":"","caption":"WorkSource
   Seattle-King County"},"image":{"@id":"https://worksourceskc.org/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/worksourceskc/"]},{"@type":"Event","name":"ONLINE
-  Strategies for Success: Health &amp; Well-Being (Auburn)","description":"Class times:
-  8:30-11:30 (4-day class) Health and well-being &#8211; What is &#8216;work-life&#8217;
-  balance? How do I take care of me&hellip;","url":"https://worksourceskc.org/event/online-strategies-for-success-health-well-being-auburn-411/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2025-12-08T08:30:00-08:00","endDate":"2025-12-11T11:30:00-08:00","@id":"https://worksourceskc.org/event/online-strategies-for-success-health-well-being-auburn-411/#event","mainEntityOfPage":{"@id":"https://worksourceskc.org/event/online-strategies-for-success-health-well-being-auburn-411/"}}]}
-  ONLINE Strategies for Success: Health & Well-Being (Auburn) – WorkSource Seattle-King
+  Financial Capabilities: Where Does Your Money Go? (Auburn)","description":"Class
+  times: 1:30-3:30 pm (Classes are Mondays and Tuesdays) Where does your money go?
+  Investigate your spending habits and construct&hellip;","url":"https://worksourceskc.org/event/online-financial-capabilities-where-does-your-money-go-auburn-394/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2025-12-08T13:30:00-08:00","endDate":"2025-12-09T15:30:00-08:00","@id":"https://worksourceskc.org/event/online-financial-capabilities-where-does-your-money-go-auburn-394/#event","mainEntityOfPage":{"@id":"https://worksourceskc.org/event/online-financial-capabilities-where-does-your-money-go-auburn-394/"}}]}
+  ONLINE Financial Capabilities: Where Does Your Money Go? (Auburn) – WorkSource Seattle-King
   County Skip to main content        Job Board    Staff Log-In        Job Seekers   Get
   Started with Personalized Support  Sign Up for Services Layoff Support    Self-Serve
   Resources  Career Exploration Skills & Training Job Search   Workshops & Hiring
@@ -200,46 +193,41 @@ original_markdown_body: 'WorkSource Seattle-King County {"@context":"https://sch
   after Thanksgiving), Wednesday, December 24 (Christmas Eve) and Thursday, December
   25 (Christmas)  Open: Friday, December 26 (day after Christmas) Regular hours: All
   other days  For specific holiday hours or if you have questions, please contact
-  your local WorkSource offices         Go to Back to Calendar  ONLINE Strategies
-  for Success: Health & Well-Being (Auburn) December 08 Monday | 8:30am - 11:30am  Add
-  to Calendar December 08 8:30am 12/11/2025 11:30am America/Los_Angeles ONLINE Strategies
-  for Success: Health & Well-Being (Auburn) Class times: 8:30-11:30 (4-day class)
-  Health and well-being – What is ‘work-life’ balance? How do I take care of me…  Zoom
-  Online Meeting: Register for the workshop and the instructor will email meeting
-  links to you up to 15 minutes prior to start of meeting. Room: Zoom Contact Name:
-  Erik Hontz Contact Email: Erik.Hontz@esd.wa.gov Workshop Language: English Event
-  Registration: Sign Up Required Sign Up Approved Unemployment Insurance (UI) Job
-  Search Activity: Yes Additional Info: Strategies for Success is a series of life-skills
-  workshops open to everyone. It is flexible and customizable – each workshop module
-  can stand alone or be combined with other modules to provide a personalized experience.
-  Modules can be taken in any order. Each of the six modules is four days long, starting
-  on the first business day of each week. If class registration is full and participants
-  are waitlisted, all registrations (regular and waitlist) will be evaluated according
-  to the following criteria for deferment or acceptance into class:  Program referrals  Veterans  Continuing
-  or returning students (those working through the series of modules)  Repeating students
-  (those who have previously completed the module)  Walk-ins (not program-connected)  Please
-  go to WorkSourceWA.com and create a job-seeker account prior to attending the workshop.
-  *If you entered a valid email address, you will receive email updates of any registration
-  or status changes. Remember to check your SPAM folder if you are not receiving emails
-  from us. If you need an accommodation to participate in this training, contact Erik
-  Hontz at erik.hontz@esd.wa.gov, 253-804-1146, Washington Relay 711. Please provide
-  your name and accommodation request. Please make your accommodation request as early
-  as possible so arrangements can be made. Description:Class times: 8:30-11:30 (4-day
-  class)Health and well-being – What is ‘work-life’ balance? How do I take care of
-  me while taking care of everyone else? Come learn with us! Examine your inner-professional,
-  core values, life choices and personal integrity  Learn how to be personally and
-  professionally self-aware, establish boundaries and develop better stress and time
-  management skills  Evaluate your social readiness and online footprint  Learn to
-  access community resources and expand networking skills  Improve your ability to
-  solve problems, set goals and develop new action planning techniques'
+  your local WorkSource offices         Go to Back to Calendar  ONLINE Financial Capabilities:
+  Where Does Your Money Go? (Auburn) December 08 Monday | 1:30pm - 3:30pm  Add to
+  Calendar December 08 1:30pm 12/09/2025 3:30pm America/Los_Angeles ONLINE Financial
+  Capabilities: Where Does Your Money Go? (Auburn) Class times: 1:30-3:30 pm (Classes
+  are Mondays and Tuesdays) Where does your money go? Investigate your spending habits
+  and construct…  Zoom Online Meeting: Register for the workshop and the instructor
+  will email meeting links to you up to 15 minutes prior to start of meeting. Room:
+  Zoom Contact Name: Erik Hontz Contact Email: Erik.Hontz@esd.wa.gov Workshop Language:
+  English Event Registration: Sign Up Required Sign Up Approved Unemployment Insurance
+  (UI) Job Search Activity: Yes Additional Info: This is a six-week series that meets
+  two times per week.This twice-a-week, six-week workshop series empowers you to make
+  informed and smart financial decisions. The series is flexible and customizable
+  – each unit can stand alone or be combined with other units to provide a personalized
+  experience. Units can be taken in any order. Please go to WorkSourceWA.com and create
+  your account prior to attending this workshop. If class registration is full and
+  participants are waitlisted, all registrations (regular and waitlist) will be evaluated
+  according to the following criteria for deferment or acceptance into class:  Program
+  referrals  Veterans  Continuing or returning students (those working through the
+  series of modules)  Repeating students (those who have previously completed the
+  module)  Walk-ins (not program-connected)  If you need an accommodation to participate
+  in this training, contact Erik Hontz at erik.hontz@esd.wa.gov, 253-804-1146, Washington
+  Relay 711. Please provide your name and accommodation request. Please make your
+  accommodation request as early as possible so arrangements can be made. Description:Class
+  times: 1:30-3:30 pm (Classes are Mondays and Tuesdays) Where does your money go?Investigate
+  your spending habits and construct a monthly budget.'
 source: WorkSource Seattle-King County
-source_url: https://worksourceskc.org/event/online-strategies-for-success-health-well-being-auburn-411/
-start_date: '2025-12-08T08:30:00-08:00'
+source_url: https://worksourceskc.org/event/online-financial-capabilities-where-does-your-money-go-auburn-394/
+start_date: '2025-12-08T13:30:00-08:00'
 summarized: true
-title: 'ONLINE Strategies for Success: Health & Well-Being (Auburn)'
+title: 'ONLINE Financial Capabilities: Where Does Your Money Go? (Auburn)'
 topics:
 - Employment & Job Support
-- Mental Health & Counseling
+- Financial Assistance
 ---
 
-Join the ONLINE Strategies for Success: Health & Well-Being workshop series from December 8 to December 11, 2025, starting at 8:30 a.m. each day. This four-day online class, hosted by WorkSource Seattle-King County, focuses on achieving work-life balance and personal well-being. Attendees will explore topics such as self-care, stress management, and effective goal-setting. Participants will also learn to evaluate their social readiness and online presence while accessing community resources to enhance their networking skills. Each module is designed to stand alone or be combined for a more comprehensive experience. Registration is required, and a Zoom link will be provided prior to the event. For more information or to register, contact Erik Hontz at erik.hontz@esd.wa.gov.
+Join WorkSource Seattle-King County for the online workshop "Financial Capabilities: Where Does Your Money Go?" starting December 8, 2025, from 1:30 to 3:30 p.m. This six-week series, meeting twice a week, helps participants explore their spending habits and develop a monthly budget. Each session is designed to empower attendees to make informed financial decisions, with the flexibility to tailor the experience based on individual needs. 
+
+Classes will be conducted via Zoom, and registration is required. Attendees will receive meeting links via email shortly before the workshop begins. For more information or to request accommodations, contact Erik Hontz at erik.hontz@esd.wa.gov. Don't miss this opportunity to take control of your finances!

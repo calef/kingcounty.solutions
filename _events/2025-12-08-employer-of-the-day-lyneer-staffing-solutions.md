@@ -1,27 +1,28 @@
 ---
-end_date: '2025-12-08T12:00:00-08:00'
+end_date: '2025-12-08T15:00:00-08:00'
 images: []
 location: ''
 original_content: '<div class="wp-site-blocks"> <div class="tribe-block tec-block__single-event">
   <section id="tribe-events-pg-template" class="tribe-events-pg-template"> <title>WorkSource
-  Seattle-King County</title> <script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-403/","url":"https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-403/","name":"DCYF
-  101: Jobs with Heart and Impact - WorkSource Seattle-King County","isPartOf":{"@id":"https://worksourceskc.org/#website"},"datePublished":"2025-12-05T19:50:01+00:00","dateModified":"2025-12-06T17:51:34+00:00","description":"DCYF
-  101: Jobs with Heart and ImpactInformation session for job seekers about employment
-  with the Department of Children, Youth, and Families (DCYF). The","breadcrumb":{"@id":"https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-403/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-403/"]}]},{"@type":"BreadcrumbList","@id":"https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-403/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"DCYF
-  101: Jobs with Heart and Impact"}]},{"@type":"WebSite","@id":"https://worksourceskc.org/#website","url":"https://worksourceskc.org/","name":"WorkSource
+  Seattle-King County</title> <script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://worksourceskc.org/event/employer-of-the-day-lyneer-staffing-solutions-48/","url":"https://worksourceskc.org/event/employer-of-the-day-lyneer-staffing-solutions-48/","name":"Employer
+  of the Day - Lyneer Staffing Solutions - WorkSource Seattle-King County","isPartOf":{"@id":"https://worksourceskc.org/#website"},"datePublished":"2025-12-05T19:48:50+00:00","dateModified":"2025-12-06T17:50:28+00:00","description":"Lyneer
+  is Hiring for Open Positions with a premier specialty coffee manufacturer in Everett,
+  WA: Roaster Operator: $18 - $23.25 Packaging Associate","breadcrumb":{"@id":"https://worksourceskc.org/event/employer-of-the-day-lyneer-staffing-solutions-48/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://worksourceskc.org/event/employer-of-the-day-lyneer-staffing-solutions-48/"]}]},{"@type":"BreadcrumbList","@id":"https://worksourceskc.org/event/employer-of-the-day-lyneer-staffing-solutions-48/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"Employer
+  of the Day &#8211; Lyneer Staffing Solutions"}]},{"@type":"WebSite","@id":"https://worksourceskc.org/#website","url":"https://worksourceskc.org/","name":"WorkSource
   Seattle-King County","description":"Let&#039;s find your path together!","publisher":{"@id":"https://worksourceskc.org/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://worksourceskc.org/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://worksourceskc.org/#organization","name":"WorkSource
   Seattle-King County","url":"https://worksourceskc.org/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://worksourceskc.org/#/schema/logo/image/","url":"","contentUrl":"","caption":"WorkSource
-  Seattle-King County"},"image":{"@id":"https://worksourceskc.org/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/worksourceskc/"]},{"@type":"Event","name":"DCYF
-  101: Jobs with Heart and Impact","description":"DCYF 101: Jobs with Heart and ImpactInformation
-  session for job seekers about employment with the Department of Children, Youth,
-  and&hellip;","url":"https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-403/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2025-12-08T11:00:00-08:00","endDate":"2025-12-08T12:00:00-08:00","@id":"https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-403/#event","mainEntityOfPage":{"@id":"https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-403/"}}]}</script>
-  <title>DCYF 101: Jobs with Heart and Impact – WorkSource Seattle-King County</title>
-  <a href="#main-content" id="" class="skip-link screen-reader-text" tabindex="0">Skip
-  to main content</a> <header class="main_header"> <div class="navbar navbar-expand-xl">
-  <div class="container-fluid"> <div class="collapse navbar-collapse" id="navbarResponsive">
-  <div class="top_header_cont"> <div class="top_menu"> <ul id="menu-top-menu" class="menu
-  top_inner_menu"> <li id="nav-menu-item-37628" class=" nav-item menu-item-even menu-item-depth-0
-  menu-item menu-item-type-custom menu-item-object-custom"><a target="_blank" href="https://seeker.worksourcewa.com/jobsearch/powersearch.aspx"
+  Seattle-King County"},"image":{"@id":"https://worksourceskc.org/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/worksourceskc/"]},{"@type":"Event","name":"Employer
+  of the Day &#8211; Lyneer Staffing Solutions","description":"Lyneer is Hiring for
+  Open Positions with a premier specialty coffee manufacturer in Everett, WA: Roaster
+  Operator: $18 &#8211; $23.25&hellip;","url":"https://worksourceskc.org/event/employer-of-the-day-lyneer-staffing-solutions-48/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2025-12-08T13:00:00-08:00","endDate":"2025-12-08T15:00:00-08:00","@id":"https://worksourceskc.org/event/employer-of-the-day-lyneer-staffing-solutions-48/#event","mainEntityOfPage":{"@id":"https://worksourceskc.org/event/employer-of-the-day-lyneer-staffing-solutions-48/"}}]}</script>
+  <title>Employer of the Day – Lyneer Staffing Solutions – WorkSource Seattle-King
+  County</title> <a href="#main-content" id="" class="skip-link screen-reader-text"
+  tabindex="0">Skip to main content</a> <header class="main_header"> <div class="navbar
+  navbar-expand-xl"> <div class="container-fluid"> <div class="collapse navbar-collapse"
+  id="navbarResponsive"> <div class="top_header_cont"> <div class="top_menu"> <ul
+  id="menu-top-menu" class="menu top_inner_menu"> <li id="nav-menu-item-37628" class="
+  nav-item menu-item-even menu-item-depth-0 menu-item menu-item-type-custom menu-item-object-custom"><a
+  target="_blank" href="https://seeker.worksourcewa.com/jobsearch/powersearch.aspx"
   class="nav-link">Job Board</a></li> </ul> <ul class="top_inner_menu"> <li> <a id=""
   href="https://worksourceskc.org/log-in/" onclick="openModal(event)">Staff Log-In</a>
   </li> </ul> </div> </div> <div class="nav_bottom mobile-view "> <ul id="menu-main-menu"
@@ -118,41 +119,49 @@ original_content: '<div class="wp-site-blocks"> <div class="tribe-block tec-bloc
   WorkSource offices</p> </div> </section> </header> <div class="main_wrapper" style="">
   <section class="event-detail"> <div class="container "> <div class="row mt_row">
   <div class="col-lg-6 col_left"> <a href="https://worksourceskc.org/workshops-hiring-events"
-  class="all-evnt">Go to Back to Calendar </a> <h1>DCYF 101: Jobs with Heart and Impact</h1>
-  <div class="mt-dat-time"><p><strong>December 08</strong> Monday | 11:00am - 12:00pm</p></div>
-  <div class="add-to-cal addeventatc"> <a href="#">Add to Calendar</a> <span class="start">December
-  08 11:00am</span> <span class="end">12/08/2025 12:00pm</span> <span class="timezone">America/Los_Angeles</span>
-  <span class="title">DCYF 101: Jobs with Heart and Impact</span> <span class="description">DCYF
-  101: Jobs with Heart and ImpactInformation session for job seekers about employment
-  with the Department of Children, Youth, and…</span> </div> <p><strong>Contact Name:
-  </strong>Maegan Lezcano</p> <p><strong>Contact Phone: </strong>360-870-1905</p>
-  <p><strong>Contact Email: </strong><a href="mailto:maegan.lezcano@dcyf.wa.gov" target="_blank"
-  rel="noopener">maegan.lezcano@dcyf.wa.gov</a></p> <p><strong>Workshop Language:
-  </strong>English</p> <p><strong>Additional Info:</strong></p> <p>Please go to <a
-  href="http://www.worksourcewa.com" target="_blank" rel="noopener">WorkSourceWA.com</a>
-  and create your account prior to attending this workshop.</p> <strong>Description:</strong>DCYF
-  101: Jobs with Heart and ImpactInformation session for job seekers about employment
-  with the Department of Children, Youth, and Families (DCYF). The session will offer
-  detailed information on Child Welfare positions, qualifications, application process,
-  and the broader mission of DCYF. Virtual – December Monday, 12/8:11:00 am – 12:00
-  pm,  Wednesday, 12/10: 10:00 am – 11:00 am <p><a href="https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fforms.office.com%2Fg%2FepPfdW463b&amp;data=05%7C02%7Cbrendalee.suga%40esd.wa.gov%7C71b3d7d6fc234146167708de32bb4bb1%7C11d0e217264e400a8ba057dcc127d72d%7C0%7C0%7C639003977163835591%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&amp;sdata=aYP9QBrdpV1M%2F9tHyKZGxuT8R%2FiiqUDW78oPyvJBWZs%3D&amp;reserved=0"
-  target="_blank" rel="noopener">https://forms.office.com/g/epPfdW463b</a></p> </div>
-  </div> </div> </section> </div> </section> </div> </div>'
-original_markdown_body: 'WorkSource Seattle-King County {"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-403/","url":"https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-403/","name":"DCYF
-  101: Jobs with Heart and Impact - WorkSource Seattle-King County","isPartOf":{"@id":"https://worksourceskc.org/#website"},"datePublished":"2025-12-05T19:50:01+00:00","dateModified":"2025-12-06T17:51:34+00:00","description":"DCYF
-  101: Jobs with Heart and ImpactInformation session for job seekers about employment
-  with the Department of Children, Youth, and Families (DCYF). The","breadcrumb":{"@id":"https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-403/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-403/"]}]},{"@type":"BreadcrumbList","@id":"https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-403/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"DCYF
-  101: Jobs with Heart and Impact"}]},{"@type":"WebSite","@id":"https://worksourceskc.org/#website","url":"https://worksourceskc.org/","name":"WorkSource
+  class="all-evnt">Go to Back to Calendar </a> <h1>Employer of the Day – Lyneer Staffing
+  Solutions</h1> <div class="mt-dat-time"><p><strong>December 08</strong> Monday |
+  1:00pm - 3:00pm</p></div> <div class="add-to-cal addeventatc"> <a href="#">Add to
+  Calendar</a> <span class="start">December 08 1:00pm</span> <span class="end">12/08/2025
+  3:00pm</span> <span class="timezone">America/Los_Angeles</span> <span class="title">Employer
+  of the Day – Lyneer Staffing Solutions</span> <span class="description">Lyneer is
+  Hiring for Open Positions with a premier specialty coffee manufacturer in Everett,
+  WA: Roaster Operator: $18 – $23.25…</span> </div> <div class="directions"><p><a
+  href="http://maps.google.com/?q=728+134th+St+SW+Bldg+A%2c+Everett%2c+WA+98204" target="_blank"
+  rel="noopener">WorkSource Everett728 134th St. SW, Bldg. A-Suite102Room 105 will
+  open at 12:45 PMEverett, WA 98204</a></p></div> <p><strong>Contact Email: </strong><a
+  href="mailto:business.engagement@workforcesnohomish.org" target="_blank" rel="noopener">business.engagement@workforcesnohomish.org</a></p>
+  <p><strong>Workshop Language: </strong>English</p> <p><strong>Approved Unemployment
+  Insurance (UI) Job Search Activity:</strong> Yes</p> <strong>Description:</strong><p><strong>Lyneer
+  is Hiring for Open Positions</strong> with a premier specialty coffee manufacturer
+  in Everett, WA:</p> <ul> <li>Roaster Operator: $18 - $23.25 </li> <li>Packaging
+  Associate Machine Operator: $24 </li> <li>Grinder Operator: $18 - $23 </li> <li>Maintenance
+  Mechanic: $18 - $20 </li> <li>Material Handler/Forklift Operator: $21 - $22 </li>
+  <li>Receiving Clerk: $20 </li> <li>Bin Wrangler Single Serve Dept: $18 - $20 </li>
+  <li>And more!</li> </ul> <strong>Why Work for Lyneer? </strong>Lyneer offers dependable
+  opportunities with steady schedules, competitive pay, and a team that genuinely
+  supports your success. You’ll have access to roles with respected employers, room
+  to grow your skills, and guidance every step of the way. It’s a great fit if you
+  want stability, a positive work culture, and a partner who’s invested in helping
+  you move forward.<strong>Questions? </strong>Contact Workforce Snohomish <a href="mailto:business.engagement@workforcesnohomish.org"
+  target="_blank" rel="noopener">business.engagement@workforcesnohomish.org</a><em>Check
+  WorkSourceWA.com for updates or potential cancellations on the day of the event.</em>
+  </div> </div> </div> </section> </div> </section> </div> </div>'
+original_markdown_body: 'WorkSource Seattle-King County {"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://worksourceskc.org/event/employer-of-the-day-lyneer-staffing-solutions-48/","url":"https://worksourceskc.org/event/employer-of-the-day-lyneer-staffing-solutions-48/","name":"Employer
+  of the Day - Lyneer Staffing Solutions - WorkSource Seattle-King County","isPartOf":{"@id":"https://worksourceskc.org/#website"},"datePublished":"2025-12-05T19:48:50+00:00","dateModified":"2025-12-06T17:50:28+00:00","description":"Lyneer
+  is Hiring for Open Positions with a premier specialty coffee manufacturer in Everett,
+  WA: Roaster Operator: $18 - $23.25 Packaging Associate","breadcrumb":{"@id":"https://worksourceskc.org/event/employer-of-the-day-lyneer-staffing-solutions-48/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://worksourceskc.org/event/employer-of-the-day-lyneer-staffing-solutions-48/"]}]},{"@type":"BreadcrumbList","@id":"https://worksourceskc.org/event/employer-of-the-day-lyneer-staffing-solutions-48/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"Employer
+  of the Day &#8211; Lyneer Staffing Solutions"}]},{"@type":"WebSite","@id":"https://worksourceskc.org/#website","url":"https://worksourceskc.org/","name":"WorkSource
   Seattle-King County","description":"Let&#039;s find your path together!","publisher":{"@id":"https://worksourceskc.org/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://worksourceskc.org/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://worksourceskc.org/#organization","name":"WorkSource
   Seattle-King County","url":"https://worksourceskc.org/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://worksourceskc.org/#/schema/logo/image/","url":"","contentUrl":"","caption":"WorkSource
-  Seattle-King County"},"image":{"@id":"https://worksourceskc.org/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/worksourceskc/"]},{"@type":"Event","name":"DCYF
-  101: Jobs with Heart and Impact","description":"DCYF 101: Jobs with Heart and ImpactInformation
-  session for job seekers about employment with the Department of Children, Youth,
-  and&hellip;","url":"https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-403/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2025-12-08T11:00:00-08:00","endDate":"2025-12-08T12:00:00-08:00","@id":"https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-403/#event","mainEntityOfPage":{"@id":"https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-403/"}}]}
-  DCYF 101: Jobs with Heart and Impact – WorkSource Seattle-King County Skip to main
-  content        Job Board    Staff Log-In        Job Seekers   Get Started with Personalized
-  Support  Sign Up for Services Layoff Support    Self-Serve Resources  Career Exploration
-  Skills & Training Job Search   Workshops & Hiring Events    Employers   Business
+  Seattle-King County"},"image":{"@id":"https://worksourceskc.org/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/worksourceskc/"]},{"@type":"Event","name":"Employer
+  of the Day &#8211; Lyneer Staffing Solutions","description":"Lyneer is Hiring for
+  Open Positions with a premier specialty coffee manufacturer in Everett, WA: Roaster
+  Operator: $18 &#8211; $23.25&hellip;","url":"https://worksourceskc.org/event/employer-of-the-day-lyneer-staffing-solutions-48/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2025-12-08T13:00:00-08:00","endDate":"2025-12-08T15:00:00-08:00","@id":"https://worksourceskc.org/event/employer-of-the-day-lyneer-staffing-solutions-48/#event","mainEntityOfPage":{"@id":"https://worksourceskc.org/event/employer-of-the-day-lyneer-staffing-solutions-48/"}}]}
+  Employer of the Day – Lyneer Staffing Solutions – WorkSource Seattle-King County
+  Skip to main content        Job Board    Staff Log-In        Job Seekers   Get Started
+  with Personalized Support  Sign Up for Services Layoff Support    Self-Serve Resources  Career
+  Exploration Skills & Training Job Search   Workshops & Hiring Events    Employers   Business
   Services  Employer Inquiry Form Business Connection Partners Business Assistance
   & Workforce Support Small-Business Assistance Employee Development   Layoff Support,
   Aversion and Retention    Locations  Auburn Downtown Seattle North Seattle Rainier
@@ -174,25 +183,31 @@ original_markdown_body: 'WorkSource Seattle-King County {"@context":"https://sch
   Wednesday, December 24 (Christmas Eve) and Thursday, December 25 (Christmas)  Open:
   Friday, December 26 (day after Christmas) Regular hours: All other days  For specific
   holiday hours or if you have questions, please contact your local WorkSource offices         Go
-  to Back to Calendar  DCYF 101: Jobs with Heart and Impact December 08 Monday | 11:00am
-  - 12:00pm  Add to Calendar December 08 11:00am 12/08/2025 12:00pm America/Los_Angeles
-  DCYF 101: Jobs with Heart and Impact DCYF 101: Jobs with Heart and ImpactInformation
-  session for job seekers about employment with the Department of Children, Youth,
-  and…  Contact Name: Maegan Lezcano Contact Phone: 360-870-1905 Contact Email: maegan.lezcano@dcyf.wa.gov
-  Workshop Language: English Additional Info: Please go to WorkSourceWA.com and create
-  your account prior to attending this workshop. Description:DCYF 101: Jobs with Heart
-  and ImpactInformation session for job seekers about employment with the Department
-  of Children, Youth, and Families (DCYF). The session will offer detailed information
-  on Child Welfare positions, qualifications, application process, and the broader
-  mission of DCYF. Virtual – December Monday, 12/8:11:00 am – 12:00 pm,  Wednesday,
-  12/10: 10:00 am – 11:00 am https://forms.office.com/g/epPfdW463b'
+  to Back to Calendar  Employer of the Day – Lyneer Staffing Solutions December 08
+  Monday | 1:00pm - 3:00pm  Add to Calendar December 08 1:00pm 12/08/2025 3:00pm America/Los_Angeles
+  Employer of the Day – Lyneer Staffing Solutions Lyneer is Hiring for Open Positions
+  with a premier specialty coffee manufacturer in Everett, WA: Roaster Operator: $18
+  – $23.25…  WorkSource Everett728 134th St. SW, Bldg. A-Suite102Room 105 will open
+  at 12:45 PMEverett, WA 98204 Contact Email: business.engagement@workforcesnohomish.org
+  Workshop Language: English Approved Unemployment Insurance (UI) Job Search Activity:
+  Yes Description:Lyneer is Hiring for Open Positions with a premier specialty coffee
+  manufacturer in Everett, WA:  Roaster Operator: $18 - $23.25  Packaging Associate
+  Machine Operator: $24  Grinder Operator: $18 - $23  Maintenance Mechanic: $18 -
+  $20  Material Handler/Forklift Operator: $21 - $22  Receiving Clerk: $20  Bin Wrangler
+  Single Serve Dept: $18 - $20  And more!  Why Work for Lyneer? Lyneer offers dependable
+  opportunities with steady schedules, competitive pay, and a team that genuinely
+  supports your success. You’ll have access to roles with respected employers, room
+  to grow your skills, and guidance every step of the way. It’s a great fit if you
+  want stability, a positive work culture, and a partner who’s invested in helping
+  you move forward.Questions? Contact Workforce Snohomish business.engagement@workforcesnohomish.orgCheck
+  WorkSourceWA.com for updates or potential cancellations on the day of the event.'
 source: WorkSource Seattle-King County
-source_url: https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-403/
-start_date: '2025-12-08T11:00:00-08:00'
+source_url: https://worksourceskc.org/event/employer-of-the-day-lyneer-staffing-solutions-48/
+start_date: '2025-12-08T13:00:00-08:00'
 summarized: true
-title: 'DCYF 101: Jobs with Heart and Impact'
+title: Employer of the Day - Lyneer Staffing Solutions
 topics:
 - Employment & Job Support
 ---
 
-Join WorkSource Seattle-King County for "DCYF 101: Jobs with Heart and Impact" on Dec. 8, 2025, from 11 a.m. to noon. This informative session is designed for job seekers interested in employment with the Department of Children, Youth, and Families (DCYF). Attendees will gain insights into available Child Welfare positions, necessary qualifications, and the application process, while learning about the mission and impact of DCYF. The event will be held virtually, allowing for convenient participation from anywhere. Prepare to explore fulfilling career opportunities that make a difference in the community.
+Lyneer Staffing Solutions will host an "Employer of the Day" event on Dec. 8, 2025, from 1 p.m. to 3 p.m. at WorkSource Everett, located at 728 134th St. SW, Building A, Suite 102, Room 105. Attendees can explore various job opportunities with a premier specialty coffee manufacturer in Everett, including positions such as Roaster Operator, Packaging Associate, and Maintenance Mechanic, with pay ranging from $18 to $24 per hour. This event is an excellent chance for job seekers to connect directly with employers, learn about available roles, and gain insights into the hiring process. Doors will open at 12:45 p.m. for early arrivals. For questions, contact Workforce Snohomish at business.engagement@workforcesnohomish.org.

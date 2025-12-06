@@ -2,6 +2,7 @@
 end_date: '2025-12-06T13:00:00-08:00'
 images: []
 location: Westfield Southcenter Mall
+published: false
 original_content: '<section class="page-layout interior-layout"> <div class="main-content-area
   events-template"> <div class="container"> <div id="tribe-events-pg-template" class="tribe-events-pg-template">
   <section id="tribe-events-pg-template" class="tribe-events-pg-template"> <div id="tribe-events-content"
