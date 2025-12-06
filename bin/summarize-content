@@ -3,13 +3,15 @@
 
 $LOAD_PATH.unshift(File.expand_path('../lib', __dir__))
 
+require 'mayhem/logging'
 require 'mayhem/news/post_summarizer'
 require 'mayhem/events/event_summarizer'
 
 if $PROGRAM_NAME == __FILE__
+  logger = Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL', default_level: 'INFO', program_name: File.basename(__FILE__))
   news_stats = Mayhem::News::PostSummarizer.new.run
   events_stats = Mayhem::Events::EventSummarizer.new.run
 
   processed = news_stats.fetch(:updated, 0) + events_stats.fetch(:updated, 0)
-  puts "summarize-content complete: #{processed} files updated"
+  logger.info "summarize-content complete: #{processed} files updated"
 end
