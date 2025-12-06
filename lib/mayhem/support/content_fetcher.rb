@@ -113,7 +113,7 @@ module Mayhem
       end
 
       def skipped_response(page)
-        @logger.warn(
+        @logger.info(
           "Skipping content fetch for #{page[:final_url]} " \
           "(content-type: #{page[:content_type] || 'unknown'})"
         )

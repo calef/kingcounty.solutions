@@ -5,11 +5,13 @@ require 'fileutils'
 require 'net/http'
 require 'open-uri'
 require 'openssl'
+require 'nokogiri'
 require 'reverse_markdown'
 require 'rss'
 require 'time'
 require 'uri'
 require 'yaml'
+require 'set'
 require_relative '../logging'
 require_relative '../support/front_matter_document'
 require_relative '../support/slug_generator'
@@ -115,8 +117,9 @@ module Mayhem
         return unless rss_url
 
         stats = Hash.new(0)
-        page = @http.fetch(rss_url, accept: Mayhem::FeedDiscovery::ACCEPT_FEED, max_bytes: Mayhem::FeedDiscovery::FEED_MAX_BYTES)
-        rss_content = page[:body]
+        page = @http.fetch(rss_url, accept: Mayhem::FeedDiscovery::ACCEPT_FEED,
+                                     max_bytes: Mayhem::FeedDiscovery::FEED_MAX_BYTES)
+        rss_content = sanitize_feed_xml(page[:body], source_title, rss_url)
         feed = RSS::Parser.parse(rss_content, false)
         unless feed
           @logger.error "Failed to parse RSS feed for source '#{source_title}' (#{rss_url}): parser returned nil"
@@ -329,6 +332,66 @@ module Mayhem
         end.compact
         status = parts.empty? ? 'no_changes' : parts.join(', ')
         "Processed '#{source_title}' (#{rss_url}): #{status}"
+      end
+
+      def sanitize_feed_xml(xml, source_title, rss_url)
+        return xml unless xml
+
+        doc = Nokogiri::XML(xml) { |config| config.nonet.recover }
+        return xml unless doc
+
+        declared_prefixes = doc.collect_namespaces.keys.map do |name|
+          name.split(':', 2).last
+        end.compact.to_set
+        removed_nodes = false
+
+        doc.traverse do |node|
+          next unless node.element?
+
+          if undeclared_prefix?(node, declared_prefixes)
+            node.remove
+            removed_nodes = true
+            next
+          end
+
+          node.attribute_nodes.each do |attr|
+            next unless undeclared_prefix?(attr, declared_prefixes)
+
+            attr.remove
+            removed_nodes = true
+          end
+        end
+
+        if removed_nodes
+          @logger.info "Sanitized namespaced XML for '#{source_title}' (#{rss_url}) due to undeclared prefixes"
+        end
+        remove_duplicate_xml_declaration(doc)
+        doc.to_xml
+      rescue StandardError => e
+        @logger.warn "Failed to sanitize feed XML for '#{source_title}' (#{rss_url}): #{e.message}"
+        xml
+      end
+
+      def undeclared_prefix?(node_or_attr, declared_prefixes)
+        ns = node_or_attr.namespace
+        return false if ns
+
+        name = node_or_attr.name
+        return false unless name&.include?(':')
+
+        prefix = name.split(':', 2).first
+        return false if declared_prefixes.include?(prefix)
+
+        true
+      end
+
+      def remove_duplicate_xml_declaration(doc)
+        doc.children.each do |child|
+          next unless child.processing_instruction?
+          next unless child.name.to_s.casecmp('xml').zero?
+
+          child.remove
+        end
       end
 
       def build_existing_post_index
