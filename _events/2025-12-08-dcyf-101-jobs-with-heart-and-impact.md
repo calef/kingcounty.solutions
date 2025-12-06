@@ -195,6 +195,4 @@ topics:
 - Employment & Job Support
 ---
 
-Join us for "DCYF 101: Jobs with Heart and Impact," an informative session for job seekers interested in employment with the Department of Children, Youth, and Families (DCYF). This event will take place on December 8, 2025, from 11:00 AM to 12:00 PM. Attendees can expect to learn about various Child Welfare positions, the qualifications required, the application process, and the overall mission of DCYF.
-
-This virtual session is a great opportunity to gain insights into meaningful careers that make a difference in the community. To participate, please create an account at WorkSourceWA.com prior to the event. Don't miss this chance to explore job opportunities that have heart and impact!
+Join us for "DCYF 101: Jobs with Heart and Impact" on December 8, 2025, from 11:00 AM to 12:00 PM. This informative session, hosted virtually by WorkSource Seattle-King County, is designed for job seekers interested in careers with the Department of Children, Youth, and Families (DCYF). Attendees will gain insights into available Child Welfare positions, qualifications, and the application process, while also learning about the vital mission of DCYF. This is a great opportunity to explore how you can make a meaningful impact in your community through employment. Don't forget to create your account at WorkSourceWA.com before attending!

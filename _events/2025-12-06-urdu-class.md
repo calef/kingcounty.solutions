@@ -39,11 +39,7 @@ original_content: '<div id="content-wrap" class="container clr"> <div id="primar
   noreferrer nofollow noindex"> Outlook Live </a> </li> </ul> </div> </div> </div>
   </div> </div> <h2 class="tribe-block__related-events__title">Related Events</h2>
   <ul class="tribe-related-events tribe-clearfix"> <li> <div class="tribe-related-event-info">
-  <h3 class="tribe-related-events-title"> <a href="https://mapsredmond.org/event/community-potluck/"
-  class="tribe-event-url" rel="bookmark"> Community Potluck </a> </h3> <span class="tribe-event-date-start">December
-  5 @ 5:30 pm</span> – <span class="tribe-event-time">7:00 pm</span> </div> </li>
-  <li> <div class="tribe-related-event-info"> <h3 class="tribe-related-events-title">
-  <a href="https://mapsredmond.org/event/islamic-finance-workshop-wealth-wills-wisdom/"
+  <h3 class="tribe-related-events-title"> <a href="https://mapsredmond.org/event/islamic-finance-workshop-wealth-wills-wisdom/"
   class="tribe-event-url" rel="bookmark"> Islamic Finance Workshop: Wealth, Wills
   &amp; Wisdom </a> </h3> <span class="tribe-event-date-start">December 6 @ 10:00
   am</span> – <span class="tribe-event-time">4:00 pm</span> </div> </li> <li> <div
@@ -54,7 +50,16 @@ original_content: '<div id="content-wrap" class="container clr"> <div id="primar
   Event <a href="https://mapsredmond.org/event/urdu-class/all/">(See all)</a><div
   id="tribe-events-tooltip-69303" class="tribe-events-tooltip recurring-info-tooltip">
   <div class="tribe-events-event-body">Recurring Event</div> </div> </div></div> </div>
-  </li> </ul> </div> <div id="tribe-events-footer"> <h3 class="tribe-events-visuallyhidden">Event
+  </li> <li> <div class="tribe-related-event-info"> <h3 class="tribe-related-events-title">
+  <a href="https://mapsredmond.org/event/mcrc-community-clinic-2/2025-12-13/" class="tribe-event-url"
+  rel="bookmark"> MCRC Community Clinic </a> </h3> <span class="tribe-event-date-start">December
+  13 @ 10:00 am</span> – <span class="tribe-event-time">1:00 pm</span><div class="recurringinfo"><div
+  class="event-is-recurring"> <span class="tribe-events-divider">|</span>Recurring
+  Event <a href="https://mapsredmond.org/event/mcrc-community-clinic-2/all/">(See
+  all)</a><div id="tribe-events-tooltip-77979" class="tribe-events-tooltip recurring-info-tooltip">
+  <div class="tribe-events-event-body"><p>An event every month that begins at 10:00
+  am on day Second of the month, happening 12 times</p></div> </div> </div></div>
+  </div> </li> </ul> </div> <div id="tribe-events-footer"> <h3 class="tribe-events-visuallyhidden">Event
   Navigation</h3> <ul class="tribe-events-sub-nav"> <li class="tribe-events-nav-previous"><a
   href="https://mapsredmond.org/event/urdu-class/2025-12-06/"><span>«</span> Urdu
   Class</a></li> <li class="tribe-events-nav-next"><a href="https://mapsredmond.org/event/mcrc-seattle-office-hours/2025-12-08/">MCRC
@@ -67,12 +72,14 @@ original_markdown_body: "[« All Events](https://mapsredmond.org/events/)\n\n \n
   \n- [iCalendar](webcal://mapsredmond.org/event/urdu-class-2/2025-12-06/?ical=1)
   \n- [Outlook 365](https://outlook.office.com/owa/?path=/calendar/action/compose&rrv=addevent&startdt=2025-12-06T11:00:00&enddt=2025-12-06T13:00:00&location&subject=Urdu%20Class&body=%3Cp%3E%3C%2Fp%3ERegister)
   \n- [Outlook Live](https://outlook.live.com/owa/?path=/calendar/action/compose&rrv=addevent&startdt=2025-12-06T11:00:00&enddt=2025-12-06T13:00:00&location&subject=Urdu%20Class&body=%3Cp%3E%3C%2Fp%3ERegister)
-  \n\n \n \n \n \n \n \n## Related Events\n \n-  \n \n### [Community Potluck](https://mapsredmond.org/event/community-potluck/)
-  \n December 5 @ 5:30 pm – 7:00 pm \n \n-  \n \n### [Islamic Finance Workshop: Wealth,
-  Wills & Wisdom](https://mapsredmond.org/event/islamic-finance-workshop-wealth-wills-wisdom/)
+  \n\n \n \n \n \n \n \n## Related Events\n \n-  \n \n### [Islamic Finance Workshop:
+  Wealth, Wills & Wisdom](https://mapsredmond.org/event/islamic-finance-workshop-wealth-wills-wisdom/)
   \n December 6 @ 10:00 am – 4:00 pm \n \n-  \n \n### [Urdu Class](https://mapsredmond.org/event/urdu-class/2025-12-06/)
   \n December 6 @ 10:30 am – 12:30 pm\n\n |Recurring Event [(See all)](https://mapsredmond.org/event/urdu-class/all/)\n
-  \nRecurring Event\n \n \n\n \n \n\n \n \n \n### Event Navigation\n \n- [« Urdu Class](https://mapsredmond.org/event/urdu-class/2025-12-06/)\n-
+  \nRecurring Event\n \n \n\n \n \n-  \n \n### [MCRC Community Clinic](https://mapsredmond.org/event/mcrc-community-clinic-2/2025-12-13/)
+  \n December 13 @ 10:00 am – 1:00 pm\n\n |Recurring Event [(See all)](https://mapsredmond.org/event/mcrc-community-clinic-2/all/)\n
+  \n\nAn event every month that begins at 10:00 am on day Second of the month, happening
+  12 times\n\n \n \n\n \n \n\n \n \n \n### Event Navigation\n \n- [« Urdu Class](https://mapsredmond.org/event/urdu-class/2025-12-06/)\n-
   [MCRC Seattle Office Hours »](https://mapsredmond.org/event/mcrc-seattle-office-hours/2025-12-08/)"
 source: Muslim Association of Puget Sound
 source_url: https://mapsredmond.org/event/urdu-class-2/2025-12-06/
@@ -83,4 +90,4 @@ topics:
 - Education & Learning
 ---
 
-Join us for an engaging Urdu Class on December 6, 2025, from 11:00 AM to 1:00 PM. This recurring event offers a wonderful opportunity for attendees to learn the Urdu language in a supportive environment, enhancing both speaking and comprehension skills. Whether you are a beginner or looking to refine your existing knowledge, this class is designed to cater to all levels. Don't miss the chance to immerse yourself in the rich culture and literature of Urdu. The class will be held at a convenient location, making it accessible for everyone interested in expanding their linguistic horizons. Come and be part of this enriching experience!
+Join us for an engaging Urdu Class on December 6, 2025, from 11:00 AM to 1:00 PM. This event is perfect for anyone looking to learn or improve their Urdu language skills, whether you are a beginner or have some experience. Attendees can expect interactive lessons, cultural insights, and a supportive environment to practice speaking and writing in Urdu. Don't miss this opportunity to connect with fellow language enthusiasts and immerse yourself in the beauty of Urdu. The class will take place at a local venue, ensuring a welcoming atmosphere for all participants.

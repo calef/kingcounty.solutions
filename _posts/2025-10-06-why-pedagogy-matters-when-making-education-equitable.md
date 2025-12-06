@@ -12,13 +12,15 @@ original_markdown_body: Boze Elementary Students work together through a math wo
   of pedagogy is the practice of teaching, and the methodology used to influence children’s
   learning and development. &nbsp; How this applies […]
 source: Technology Access Foundation
-source_url: https://techaccess.org/why-pedagogy-matters-when-making-education-equitable/?utm_source=rss&utm_medium=rss&utm_campaign=why-pedagogy-matters-when-making-education-equitable
+source_url: https://techaccess.org/why-pedagogy-matters-when-making-education-equitable/
 summarized: true
 title: Why Pedagogy Matters When Making Education Equitable
 topics:
 - Education & Learning
 ---
 
-Boze Elementary students engage in project-based learning, emphasizing collaboration and individual exploration. Pedagogy, the practice of teaching, varies among educators and has traditionally emphasized compliance through rote memorization and standardized testing, particularly in schools serving students of color. This outdated system prioritizes correct answers over critical thinking and conformity over cultural identity. TAF aims to transform pedagogy by focusing on equity and liberation, moving away from mere test preparation to empowering students to effect change within their communities.
+Pedagogy plays a crucial role in creating equitable education systems. Effective teaching strategies recognize and address the diverse needs of students, ensuring that all learners have access to quality education. Traditional methods often overlook the challenges faced by marginalized groups, leading to disparities in educational outcomes. By adopting inclusive pedagogical practices, educators can foster an environment where every student feels valued and supported. 
 
-Through the STEMbyTAF model, education becomes a vehicle for students to address real-world issues, fostering agency and autonomy. Students actively participate in their learning, co-authoring rubrics and leading projects that resonate with their interests, such as tackling housing insecurity. This approach cultivates meaningful learning experiences rather than solely improving grades. TAF believes that students, particularly those of color, can shape their own educational journeys when provided with the necessary support and resources. The model serves as a blueprint for equitable education, aiming to create a system where every student feels centered in their learning, supported by a community committed to this vision.
+Equitable education involves more than just equal access; it requires an understanding of the social, cultural, and economic factors that influence learning. Teachers must be equipped with the knowledge and skills to adapt their approaches, incorporating culturally relevant materials and responsive teaching methods. This adaptability promotes engagement and helps bridge the gap between students' backgrounds and the curriculum.
+
+Moreover, collaboration among educators, communities, and families is essential for implementing effective pedagogical strategies. Involving all stakeholders ensures that educational practices reflect the needs and strengths of the community. Continuous professional development for teachers is necessary to enhance their pedagogical skills, enabling them to create inclusive classrooms that promote equity in education. Ultimately, a focus on pedagogy is vital for dismantling systemic barriers and achieving true educational equity.
