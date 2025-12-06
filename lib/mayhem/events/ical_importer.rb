@@ -14,6 +14,7 @@ require_relative '../support/url_normalizer'
 require_relative '../support/content_fetcher'
 require_relative '../support/encoding_utils'
 require_relative '../support/content_utils'
+require_relative '../support/publish_guard'
 
 module Mayhem
   module Events
@@ -131,7 +132,8 @@ module Mayhem
           missing_url: 'missing_url',
           fetch_failed: 'fetch_failed',
           parse_failed: 'parse_failed',
-          write_failed: 'write_failed'
+          write_failed: 'write_failed',
+          unpublished: 'unpublished'
         }
         parts = labels.map do |key, label|
           value = stats[key]
@@ -251,6 +253,8 @@ module Mayhem
           front_matter: front_matter,
           body: body_content
         )
+        return skip_event(reason: :unpublished, reason_detail: filename, stats: stats) if Mayhem::Support::PublishGuard.unpublished?(filename, logger: @logger)
+
         document.save
         record_stat(:created, stats)
         register_event_url(canonical_url)

@@ -19,6 +19,7 @@ require_relative '../support/url_normalizer'
 require_relative '../support/content_fetcher'
 require_relative '../support/article_body_selectors'
 require_relative '../feed_discovery'
+require_relative '../support/publish_guard'
 
 module Mayhem
   module News
@@ -175,8 +176,13 @@ module Mayhem
           return
         end
 
-        write_post(source_title, title_text, normalized, published_time, original_html)
-        stats[:created] += 1
+        result = write_post(source_title, title_text, normalized, published_time, original_html)
+        case result
+        when :created
+          stats[:created] += 1
+        when :skipped_unpublished
+          stats[:skipped_unpublished] += 1
+        end
       end
 
       def duplicate_post?(link_url)
@@ -204,6 +210,12 @@ module Mayhem
         )
         filename = File.join(@news_dir, "#{date_prefix}-#{title_slug}.md")
 
+        if Mayhem::Support::PublishGuard.unpublished?(filename, logger: @logger)
+          @logger.info "Skipping update for unpublished post #{filename}"
+          register_post(link_url)
+          return :skipped_unpublished
+        end
+
         frontmatter = {
           'title' => title_text,
           'date' => published_time.iso8601,
@@ -218,6 +230,7 @@ module Mayhem
         )
         document.save
         register_post(link_url)
+        :created
       end
 
       def published_at(item)
@@ -323,7 +336,8 @@ module Mayhem
           missing_link: 'missing_link',
           missing_title: 'missing_title',
           missing_publish_date: 'missing_date',
-          empty_content: 'no_content'
+          empty_content: 'no_content',
+          skipped_unpublished: 'unpublished_locked'
         }
         parts = labels.map do |key, label|
           value = stats[key]
