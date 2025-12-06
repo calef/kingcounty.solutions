@@ -28,8 +28,6 @@
 - Keep diffs focused; split refactors from feature work when practical, and ensure `_site/` artifacts or local caches are never committed.
 
 ## Agent guidance
-- Call the `report_intent` tool on your first tool-calling turn and whenever you move between major phases (e.g., exploring → editing → testing).
-- When asked about this CLIs capabilities, call `fetch_copilot_cli_documentation` first and use its output to answer.
 - Use parallel tool calls for independent operations and chain dependent shell commands with `&&` to minimize turns and side effects.
 - Prefer `glob` and `grep` for searching, `view` for reading files, and `edit` for minimal, surgical edits; follow repository guidelines for file naming and indentation.
 - Do not modify files under `_site/` or commit secrets; make the smallest possible change to fix an issue and document verification steps in the PR.
