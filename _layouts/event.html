@@ -69,7 +69,7 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:-//King County Solutions//Events//EN
 BEGIN:VEVENT
-UID:{{ page.id | default: page.path }}@kingcounty.solutions
+UID:{{ page.id | default: page.path }}@kcs.crickertech.com
 DTSTAMP:{{ site.time | date: "%Y%m%dT%H%M%SZ" }}
 DTSTART;TZID={{ calendar_timezone }}:{{ calendar_dtstart_local }}
 {% if calendar_dtend_local %}DTEND;TZID={{ calendar_timezone }}:{{ calendar_dtend_local }}
