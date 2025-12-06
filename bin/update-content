@@ -28,7 +28,7 @@ module ContentUpdate
     ENV[LOG_ENV] = 'TRACE'
     logger = build_logger
 
-    run_command(%w[git pull], logger)
+    run_command(%w[git pull --no-edit], logger)
     RUNLOG_COMMANDS.each do |command|
       run_command(command, logger)
     end
