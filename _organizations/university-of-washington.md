@@ -1,6 +1,6 @@
 ---
 acronym: UW
-events_ical_url: https://www.washington.edu/calendar/
+events_ical_url: https://www.trumba.com/calendars/sea_campus.ics
 jurisdictions:
 - Seattle
 - Bothell

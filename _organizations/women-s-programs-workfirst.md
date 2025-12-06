@@ -1,5 +1,4 @@
 ---
-events_ical_url: https://womenswkfirst.highline.edu/womens-programs/events/
 jurisdictions:
 - Des Moines
 parent_organization: Highline College

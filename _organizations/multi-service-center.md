@@ -2,7 +2,6 @@
 acronym: MSC
 address: 1200 S 336th Street, Federal Way, WA 98003
 email: info@mschelps.org
-events_ical_url: https://mschelps.org/getinvolved/events/?ical=1
 jurisdictions:
 - South King County
 news_rss_url: https://mschelps.org/feed/
