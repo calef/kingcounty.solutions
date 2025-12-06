@@ -16,7 +16,7 @@ module Mayhem
     UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 13_0) AppleWebKit/537.36 ' \
          '(KHTML, like Gecko) Chrome/125.0 Safari/537.36'
     HTML_MAX_BYTES = 1_048_576
-    FEED_MAX_BYTES = 524_288
+    FEED_MAX_BYTES = 2_097_152
     REQUEST_DELAY = 0.15
     ACCEPT_HTML = 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
     ACCEPT_FEED = 'application/rss+xml, application/atom+xml, application/xml;q=0.9, ' \
