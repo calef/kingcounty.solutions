@@ -124,7 +124,7 @@ Downloads images referenced in each post or event `original_markdown_body`, rena
 ### `import-content-from-feeds`
 
 **Purpose**  
-Runs the RSS news importer followed by the iCal events importer so `_posts/` and `_events/` reflect the latest partner updates declared in `_organizations/*.md`.
+Runs the RSS news importer, the iCal events importer, and then event extraction from posts so `_posts/` and `_events/` reflect the latest partner updates declared in `_organizations/*.md`. This is the primary script for ingesting content.
 
 **Usage**
 
@@ -143,14 +143,14 @@ Runs the RSS news importer followed by the iCal events importer so `_posts/` and
 
 - News import: normalizes and validates each RSS item URL before writing `_posts/`, skips duplicates already present in front matter, scrapes article bodies when the feed lacks `content:encoded`, converts HTML to Markdown via `ReverseMarkdown`, and saves the upstream HTML in `original_content`.
 - Events import: scans every `_organizations/*.md` with `events_ical_url`, downloads each calendar, skips events that are missing metadata, in the past, or too far in the future, normalizes canonical URLs to avoid duplicates, fetches event body content when possible, and writes `_events/<date>-<slug>.md` with `original_content`/`original_markdown_body` copies.
-- Both importers honor `locked: true` on disk, skipping rewrites while still registering the source URL to avoid future duplicates.
-- Both importers parallelize work with small worker pools, log per-source summaries, and keep running when individual feeds fail so a single bad endpoint never blocks the rest.
-- After importing, runs event extraction from posts (see `extract-events-from-posts` below) to generate events from news articles.
+- Event extraction from posts: **processes all posts in `_posts/`** that haven't been marked with `events_extracted: true`, using LLM to identify event announcements and create corresponding event entries. Extracts only future events relative to each post's date. This runs on every invocation, catching both newly imported posts and any existing posts not yet processed. See `extract-events-from-posts` below for details.
+- All three operations honor `locked: true` on disk, skipping rewrites while still registering source URLs to avoid future duplicates.
+- All operations parallelize work with small worker pools, log per-source summaries, and keep running when individual feeds fail so a single bad endpoint never blocks the rest.
 
 ### `extract-events-from-posts`
 
 **Purpose**  
-Analyzes news posts to identify event announcements using LLM, creates corresponding event entries in `_events/`, and cross-links posts to their generated events. Designed for organizations that publish event announcements in their news feeds but don't provide iCal feeds.
+Analyzes news posts to identify event announcements using LLM, creates corresponding event entries in `_events/`, and cross-links posts to their generated events. Designed for organizations that publish event announcements in their news feeds but don't provide iCal feeds. Runs automatically as part of `import-content-from-feeds`, but can also be run standalone for debugging, testing, or reprocessing after prompt changes.
 
 **Usage**
 
@@ -164,8 +164,9 @@ Analyzes news posts to identify event announcements using LLM, creates correspon
 
 **Behavior notes**
 
-- Skips posts marked with `locked: true`, `published: false`, or `events_extracted: true`.
+- Processes **all** posts in `_posts/` directory, skipping only those marked with `locked: true`, `published: false`, or `events_extracted: true`.
 - Sends post title and content to the LLM to extract structured event data (title, date/time, location, description).
+- The LLM is instructed to extract only future events relative to the article's publication date, filtering out past events automatically.
 - Creates `_events/<date>-<slug>.md` entries with `generated_from_post: true` flag and links them in the post's `events` front matter array.
 - Uses post's `source_url` as the event's `source_url` for proper attribution.
 - Marks posts with `events_extracted: true` to avoid reprocessing, even when no events are found.
