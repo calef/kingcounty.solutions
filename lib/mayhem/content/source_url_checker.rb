@@ -48,7 +48,7 @@ module Mayhem
           next if source_url.nil? || source_url.empty?
 
           status = check_url(source_url)
-          
+
           case status
           when :not_found
             @logger.info "Source URL not found for post #{File.basename(path)}: #{source_url}"
@@ -68,7 +68,7 @@ module Mayhem
           next if source_url.nil? || source_url.empty?
 
           status = check_url(source_url)
-          
+
           case status
           when :not_found
             @logger.info "Source URL not found for event #{File.basename(path)}: #{source_url}"
@@ -85,12 +85,10 @@ module Mayhem
         uri = URI.parse(url)
         return :error unless %w[http https].include?(uri.scheme)
 
-        if @http_client
-          return @http_client.call(url)
-        end
+        return @http_client.call(url) if @http_client
 
         response = Net::HTTP.start(uri.host, uri.port, use_ssl: uri.scheme == 'https',
-                                     open_timeout: 10, read_timeout: 10) do |http|
+                                                       open_timeout: 10, read_timeout: 10) do |http|
           request = Net::HTTP::Head.new(uri.request_uri)
           request['User-Agent'] = 'King County Solutions Link Checker'
           http.request(request)
@@ -108,7 +106,7 @@ module Mayhem
           # Handle relative redirects
           redirect_uri = URI.parse(location)
           redirect_uri = uri + location if redirect_uri.relative?
-          
+
           check_url(redirect_uri.to_s, redirect_count + 1)
         else
           :error
@@ -120,33 +118,33 @@ module Mayhem
 
       def unpublish_post(path, document)
         @logger.info "Unpublishing post #{File.basename(path)}"
-        
+
         front_matter = document.front_matter
-        
+
         # Set published: false
         front_matter['published'] = false
-        
+
         # Collect image IDs for cleanup
         image_ids = collect_image_ids(front_matter)
-        
+
         # Clear images array
         front_matter['images'] = []
-        
+
         # Save the modified document
         document.front_matter = front_matter
         document.save
-        
+
         # Clean up unreferenced images
         cleanup_images(image_ids, path) if image_ids.any?
       end
 
-      def delete_event(path, document)
+      def delete_event(path, _document)
         event_id = File.basename(path, '.md')
         @logger.info "Deleting event #{event_id}"
-        
+
         # Remove the event file
         remove_file(path)
-        
+
         # Clean up event references from posts
         clean_post_event_links([event_id])
       end
@@ -158,7 +156,7 @@ module Mayhem
       def cleanup_images(image_ids, excluded_post_path)
         # Get remaining image references (excluding the current post)
         remaining_refs = remaining_image_counts(Set[excluded_post_path])
-        
+
         image_ids.each do |id|
           next if remaining_refs[id]&.positive?
 
@@ -189,7 +187,7 @@ module Mayhem
 
       def clean_post_event_links(removed_event_ids)
         removed_set = removed_event_ids.to_set
-        
+
         Dir.glob(File.join(@posts_dir, '*.md')).each do |post_path|
           document = Mayhem::Support::FrontMatterDocument.load(post_path, logger: @logger)
           next unless document

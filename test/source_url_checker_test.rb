@@ -28,21 +28,22 @@ class SourceUrlCheckerTest < Minitest::Test
   def test_successful_url_check_does_not_modify_post
     post_path = write_post('2025-01-01-test.md', 'https://example.com/article')
     original_content = File.read(post_path)
-    
+
     checker = build_checker(http_client: ->(_url) { :success })
     checker.run
-    
+
     assert_equal original_content, File.read(post_path), 'Post should not be modified'
   end
 
   def test_not_found_url_unpublishes_post
     post_path = write_post('2025-01-01-test.md', 'https://example.com/missing')
-    
+
     checker = build_checker(http_client: ->(_url) { :not_found })
     checker.run
-    
+
     document = Mayhem::Support::FrontMatterDocument.load(post_path)
-    assert_equal false, document.front_matter['published'], 'Post should be unpublished'
+
+    refute document.front_matter['published'], 'Post should be unpublished'
   end
 
   def test_not_found_url_clears_post_images
@@ -50,12 +51,13 @@ class SourceUrlCheckerTest < Minitest::Test
     write_image_metadata(image_id)
     write_asset(image_id)
     post_path = write_post_with_images('2025-01-01-test.md', 'https://example.com/missing', [image_id])
-    
+
     checker = build_checker(http_client: ->(_url) { :not_found })
     checker.run
-    
+
     document = Mayhem::Support::FrontMatterDocument.load(post_path)
-    assert_equal [], document.front_matter['images'], 'Images array should be cleared'
+
+    assert_empty document.front_matter['images'], 'Images array should be cleared'
   end
 
   def test_not_found_url_removes_unreferenced_images
@@ -63,10 +65,10 @@ class SourceUrlCheckerTest < Minitest::Test
     write_image_metadata(unique_image)
     write_asset(unique_image)
     write_post_with_images('2025-01-01-test.md', 'https://example.com/missing', [unique_image])
-    
+
     checker = build_checker(http_client: ->(_url) { :not_found })
     checker.run
-    
+
     refute_path_exists File.join(@images_dir, "#{unique_image}.md"), 'Image metadata should be removed'
     assert_empty Dir.glob(File.join(@assets_dir, "#{unique_image}.*")), 'Image assets should be removed'
   end
@@ -77,40 +79,40 @@ class SourceUrlCheckerTest < Minitest::Test
     write_asset(shared_image)
     write_post_with_images('2025-01-01-test.md', 'https://example.com/missing', [shared_image])
     write_post_with_images('2025-01-02-other.md', 'https://example.com/valid', [shared_image])
-    
+
     checker = build_checker(http_client: lambda { |url|
       url.include?('missing') ? :not_found : :success
     })
     checker.run
-    
+
     assert_path_exists File.join(@images_dir, "#{shared_image}.md"), 'Shared image metadata should remain'
   end
 
   def test_error_status_logs_warning_but_does_not_modify_post
     post_path = write_post('2025-01-01-test.md', 'https://example.com/error')
     original_content = File.read(post_path)
-    
+
     checker = build_checker(http_client: ->(_url) { :error })
     checker.run
-    
+
     assert_equal original_content, File.read(post_path), 'Post should not be modified on error'
   end
 
   def test_not_found_event_is_deleted
     event_path = write_event('event123', 'https://example.com/missing-event')
-    
+
     checker = build_checker(http_client: ->(_url) { :not_found })
     checker.run
-    
+
     refute_path_exists event_path, 'Event should be deleted'
   end
 
   def test_successful_event_check_does_not_delete_event
     event_path = write_event('event456', 'https://example.com/valid-event')
-    
+
     checker = build_checker(http_client: ->(_url) { :success })
     checker.run
-    
+
     assert_path_exists event_path, 'Event should not be deleted'
   end
 
@@ -118,70 +120,141 @@ class SourceUrlCheckerTest < Minitest::Test
     event_id = 'event789'
     write_event(event_id, 'https://example.com/missing-event')
     post_path = write_post_with_events('2025-01-01-test.md', 'https://example.com/valid', [event_id])
-    
+
     checker = build_checker(http_client: lambda { |url|
       url.include?('missing-event') ? :not_found : :success
     })
     checker.run
-    
+
     document = Mayhem::Support::FrontMatterDocument.load(post_path)
     events = document.front_matter['events'] || []
+
     refute_includes events, event_id, 'Event reference should be removed from post'
   end
 
   def test_post_without_source_url_is_not_checked
     post_path = write_post_without_source_url('2025-01-01-test.md')
     original_content = File.read(post_path)
-    
+
     checker = build_checker(http_client: ->(_url) { :not_found })
     checker.run
-    
+
     assert_equal original_content, File.read(post_path), 'Post without source_url should not be modified'
   end
 
   def test_event_without_source_url_is_not_checked
     event_path = write_event_without_source_url('event123')
-    
+
     checker = build_checker(http_client: ->(_url) { :not_found })
     checker.run
-    
+
     assert_path_exists event_path, 'Event without source_url should not be deleted'
   end
 
   def test_empty_source_url_is_not_checked
     post_path = write_post('2025-01-01-test.md', '')
     original_content = File.read(post_path)
-    
+
     checker = build_checker(http_client: ->(_url) { :not_found })
     checker.run
-    
+
     assert_equal original_content, File.read(post_path), 'Post with empty source_url should not be modified'
   end
 
+  # rubocop:disable Minitest/MultipleAssertions
   def test_multiple_posts_and_events_are_checked
     post1 = write_post('2025-01-01-valid.md', 'https://example.com/valid')
     post2 = write_post('2025-01-02-missing.md', 'https://example.com/missing')
     event1 = write_event('event1', 'https://example.com/event-valid')
     event2 = write_event('event2', 'https://example.com/event-missing')
-    
+
     checker = build_checker(http_client: lambda { |url|
       url.include?('missing') ? :not_found : :success
     })
     checker.run
-    
+
     # Valid post should be unchanged
     document1 = Mayhem::Support::FrontMatterDocument.load(post1)
+
     refute_equal false, document1.front_matter['published']
-    
+
     # Missing post should be unpublished
     document2 = Mayhem::Support::FrontMatterDocument.load(post2)
-    assert_equal false, document2.front_matter['published']
-    
+
+    refute document2.front_matter['published']
+
     # Valid event should exist
     assert_path_exists event1
-    
+
     # Missing event should be deleted
     refute_path_exists event2
+  end
+  # rubocop:enable Minitest/MultipleAssertions
+
+  def test_unpublished_post_still_has_published_false_flag
+    post_path = write_post('2025-01-01-test.md', 'https://example.com/missing')
+
+    checker = build_checker(http_client: ->(_url) { :not_found })
+    checker.run
+
+    document = Mayhem::Support::FrontMatterDocument.load(post_path)
+
+    assert document.front_matter.key?('published'), 'published key should be present'
+    refute document.front_matter['published'], 'published should be false'
+  end
+
+  def test_multiple_event_references_cleaned_from_single_post
+    write_event('event1', 'https://example.com/missing1')
+    write_event('event2', 'https://example.com/missing2')
+    write_event('event3', 'https://example.com/valid')
+    post_path = write_post_with_events('2025-01-01-test.md', 'https://example.com/valid',
+                                       %w[event1 event2 event3])
+
+    checker = build_checker(http_client: lambda { |url|
+      url.include?('missing') ? :not_found : :success
+    })
+    checker.run
+
+    document = Mayhem::Support::FrontMatterDocument.load(post_path)
+    events = document.front_matter['events'] || []
+
+    assert_equal ['event3'], events, 'Only valid event should remain'
+  end
+
+  def test_post_with_only_deleted_events_has_empty_events_array
+    write_event('event1', 'https://example.com/missing')
+    post_path = write_post_with_events('2025-01-01-test.md', 'https://example.com/valid', ['event1'])
+
+    checker = build_checker(http_client: lambda { |url|
+      url.include?('missing') ? :not_found : :success
+    })
+    checker.run
+
+    document = Mayhem::Support::FrontMatterDocument.load(post_path)
+    events = document.front_matter['events'] || []
+
+    assert_empty events, 'Events array should be empty'
+  end
+
+  def test_invalid_url_scheme_returns_error
+    post_path = write_post('2025-01-01-test.md', 'ftp://example.com/file')
+    original_content = File.read(post_path)
+
+    # No http_client provided, so real check_url will be used
+    checker = build_checker
+    checker.run
+
+    assert_equal original_content, File.read(post_path), 'Post should not be modified for invalid scheme'
+  end
+
+  def test_malformed_url_returns_error
+    post_path = write_post('2025-01-01-test.md', 'not a url at all')
+    original_content = File.read(post_path)
+
+    checker = build_checker
+    checker.run
+
+    assert_equal original_content, File.read(post_path), 'Post should not be modified for malformed URL'
   end
 
   private
