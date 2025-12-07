@@ -82,7 +82,14 @@ module Mayhem
         begin
           attempt += 1
           uri = URI.parse(url)
-          follow_head_redirect(uri, @max_redirects)
+          result = follow_head_redirect(uri, @max_redirects)
+          return unless result
+
+          status = result[:status]
+          return result[:url] if status && status >= 200 && status < 300
+
+          @logger.debug "Skipping canonical redirect for #{url} due to status #{status}" if status
+          nil
         rescue *RETRYABLE_ERRORS => e
           raise if attempt >= @max_retries
 
@@ -237,17 +244,18 @@ module Mayhem
 
       def follow_head_redirect(uri, remaining_redirects, verify_mode: OpenSSL::SSL::VERIFY_PEER)
         response = execute_head_request(uri, verify_mode: verify_mode)
+        status_code = response&.code&.to_i
         if response.is_a?(Net::HTTPRedirection)
           raise 'Too many redirects' if remaining_redirects <= 0
 
           location = response['location']
-          return uri.to_s unless location
+          return { url: uri.to_s, status: status_code } unless location
 
           new_url = Mayhem::Support::UrlUtils.absolutize(uri.to_s, location) || location
           new_uri = URI.parse(new_url)
           follow_head_redirect(new_uri, remaining_redirects - 1, verify_mode: verify_mode)
         else
-          uri.to_s
+          { url: uri.to_s, status: status_code }
         end
       end
     end
