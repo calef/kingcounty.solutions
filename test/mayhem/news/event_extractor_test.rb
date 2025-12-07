@@ -98,8 +98,9 @@ class EventExtractorTest < Minitest::Test
     # Verify post was marked as extracted
     post_path = File.join(@posts_dir, '2025-01-01-no-events.md')
     doc = Mayhem::Support::FrontMatterDocument.load(post_path, logger: @logger)
-    assert_equal true, doc.front_matter['events_extracted']
-    assert_equal [], doc.front_matter['events']
+
+    assert doc.front_matter['events_extracted']
+    assert_empty doc.front_matter['events']
 
     mock_chat_client.verify
   end
@@ -139,18 +140,71 @@ class EventExtractorTest < Minitest::Test
     # Verify post was updated with event link
     post_path = File.join(@posts_dir, '2025-01-01-event-announcement.md')
     doc = Mayhem::Support::FrontMatterDocument.load(post_path, logger: @logger)
-    assert_equal true, doc.front_matter['events_extracted']
+
+    assert doc.front_matter['events_extracted']
     assert_equal 1, doc.front_matter['events'].size
 
     # Verify event was created
     event_files = Dir.glob(File.join(@events_dir, '*.md'))
+
     assert_equal 1, event_files.size
 
     event_doc = Mayhem::Support::FrontMatterDocument.load(event_files.first, logger: @logger)
+
     assert_equal 'Planning Meeting', event_doc.front_matter['title']
     assert_equal '2025-12-15T18:00:00-08:00', event_doc.front_matter['start_date']
     assert_equal 'City Hall', event_doc.front_matter['location']
-    assert_equal true, event_doc.front_matter['generated_from_post']
+    assert event_doc.front_matter['generated_from_post']
+
+    mock_chat_client.verify
+  end
+
+  def test_skips_past_events
+    write_post('2025-01-01-past-event.md',
+               title: 'Past Event Announcement',
+               content: 'Event happened last week')
+
+    # LLM returns a past event
+    event_json = [
+      {
+        'title' => 'Past Meeting',
+        'start_date' => '2024-01-01T18:00:00-08:00',
+        'end_date' => nil,
+        'location' => 'Old Location',
+        'description' => 'This already happened'
+      }
+    ].to_json
+
+    mock_chat_client = Minitest::Mock.new
+    mock_chat_client.expect(:call, event_json) do |args|
+      args.is_a?(Hash) && args.key?(:messages)
+    end
+
+    extractor = Mayhem::News::EventExtractor.new(
+      posts_dir: @posts_dir,
+      events_dir: @events_dir,
+      chat_client: mock_chat_client,
+      logger: @logger
+    )
+
+    stats = extractor.run
+
+    # Post should be marked as extracted but no events created
+    assert_equal 0, stats[:posts_with_events]
+    assert_equal 0, stats[:events_created]
+    assert_equal 1, stats[:past_events_skipped]
+
+    # Verify post was marked as extracted with no events
+    post_path = File.join(@posts_dir, '2025-01-01-past-event.md')
+    doc = Mayhem::Support::FrontMatterDocument.load(post_path, logger: @logger)
+
+    assert doc.front_matter['events_extracted']
+    assert_empty doc.front_matter['events']
+
+    # Verify no event files were created
+    event_files = Dir.glob(File.join(@events_dir, '*.md'))
+
+    assert_equal 0, event_files.size
 
     mock_chat_client.verify
   end

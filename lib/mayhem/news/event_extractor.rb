@@ -107,8 +107,12 @@ module Mayhem
         document.front_matter = front_matter
         document.save
 
-        stats[:posts_with_events] += 1
-        @logger.info "Extracted #{event_ids.size} event(s) from #{file_path}"
+        if event_ids.empty?
+          stats[:no_events_found] += 1
+        else
+          stats[:posts_with_events] += 1
+          @logger.info "Extracted #{event_ids.size} event(s) from #{file_path}"
+        end
       rescue StandardError => e
         stats[:errors] += 1
         @logger.error "Error processing #{file_path}: #{e.class} - #{e.message}"
@@ -186,6 +190,13 @@ module Mayhem
           return nil
         end
 
+        # Skip events that have already started
+        if start_time < Time.now
+          @logger.debug "Skipping past event '#{title}' with start_date #{start_date_str}"
+          stats[:past_events_skipped] += 1
+          return nil
+        end
+
         end_time = nil
         if end_date_str
           begin
@@ -246,6 +257,7 @@ module Mayhem
           posts_with_events: stats[:posts_with_events],
           events_created: stats[:events_created],
           no_events_found: stats[:no_events_found],
+          past_events_skipped: stats[:past_events_skipped],
           skipped_no_frontmatter: stats[:skipped_no_frontmatter],
           skipped_unpublished: stats[:skipped_unpublished],
           skipped_locked: stats[:skipped_locked],
