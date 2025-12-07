@@ -1,5 +1,7 @@
 ---
 date: '2025-12-06T21:30:00+00:00'
+events: []
+events_extracted: true
 images:
 - 7a6efde449c1aa8ddf79fbb495add927063ca55d2d34e84c130f348d4e20f22e
 - c3b1c5d7f9cccb076aa7ee8603667eb7d6ba02b27afa9f0848e1f9a1d93585b4

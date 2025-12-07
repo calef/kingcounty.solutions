@@ -1,5 +1,7 @@
 ---
 date: '2025-11-19T06:00:00-05:00'
+events: []
+events_extracted: true
 images: []
 original_content: '<div><p style="color: #4aa564;">J Gen Intern Med. 2025 Nov 19.
   doi: 10.1007/s11606-025-09972-y. Online ahead of print.</p><p><b>ABSTRACT</b></p><p

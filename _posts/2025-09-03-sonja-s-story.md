@@ -1,5 +1,7 @@
 ---
 date: '2025-09-03T22:41:05+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p>For decades, glass artist Sonja Blomdahl worked in her Seattle studio, creating luminous vessels that caught light and color in a way that seemed to hold hope inside them. She was no stranger to discipline, teamwork, and the physicality of creation. But nothing prepared her for the physical and emotional intensity of a cancer diagnosis.</p>

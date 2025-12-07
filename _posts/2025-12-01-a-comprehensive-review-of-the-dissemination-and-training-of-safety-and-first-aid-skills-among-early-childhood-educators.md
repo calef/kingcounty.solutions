@@ -1,5 +1,7 @@
 ---
 date: '2025-12-01T06:00:00-05:00'
+events: []
+events_extracted: true
 images: []
 original_content: '<div><p style="color: #4aa564;">J Educ Health Promot. 2025 Oct
   31;14:417. doi: 10.4103/jehp.jehp_1622_24. eCollection 2025.</p><p><b>ABSTRACT</b></p><p

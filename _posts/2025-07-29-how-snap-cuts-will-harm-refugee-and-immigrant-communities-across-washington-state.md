@@ -1,5 +1,7 @@
 ---
 date: '2025-07-29T15:55:45+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <h2 class="wp-block-heading" style="font-size:20px;font-style:italic;font-weight:300"><strong>– A response to Assistant Secretary Carla Reyes ESA Express Quarterly Newsletter</strong></h2>

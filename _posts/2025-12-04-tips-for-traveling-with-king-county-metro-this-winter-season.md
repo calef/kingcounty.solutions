@@ -1,5 +1,7 @@
 ---
 date: '2025-12-04T21:02:51+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: Winter season has arrived and King County Metro’s tools will help
   you stay informed so you can travel safely. Know before you go Visit MetroWinter.com

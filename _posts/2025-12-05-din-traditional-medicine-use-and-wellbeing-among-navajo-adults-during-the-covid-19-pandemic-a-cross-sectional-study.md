@@ -1,5 +1,7 @@
 ---
 date: '2025-12-05T06:00:00-05:00'
+events: []
+events_extracted: true
 images: []
 original_content: '<div><p style="color: #4aa564;">PLoS One. 2025 Dec 5;20(12):e0337427.
   doi: 10.1371/journal.pone.0337427. eCollection 2025.</p><p><b>ABSTRACT</b></p><p

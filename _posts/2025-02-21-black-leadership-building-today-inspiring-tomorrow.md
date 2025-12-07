@@ -1,5 +1,7 @@
 ---
 date: '2025-02-21T01:13:59+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p>Black History Month is not just about celebrating the Black voices and leaders of the past who have shaped our world through resilience, innovation, and leadership. Historical figures like Martin Luther King Jr., Malcolm X, and Rosa Parks fought for civil rights and justice, while pioneers like</p>

@@ -1,5 +1,7 @@
 ---
 date: '2025-03-13T23:55:56+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p>On February 27, 2025, Imagine Housing hosted a community convening with the City of Kenmore at Kenmore City Hall to talk about<span class="excerpt-hellip"> […]</span></p>

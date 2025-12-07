@@ -1,5 +1,7 @@
 ---
 date: '2025-04-09T19:00:56+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p class="cvGsUA direction-ltr align-start para-style-body"><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">SEATTLE — After an extensive national search, Asian Counseling and Referral Service (ACRS) is excited to announce the appointment of Kendee Yamaguchi as its new Chief Executive Officer, effective June 2, 2025.</span></p>

@@ -1,5 +1,7 @@
 ---
 date: '2025-11-04T00:25:49+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p>Over the past week, we’ve felt an incredible outpouring of care from our community. So many of you have reached out to help, from donating funds and food, organizing donation drives, and signing up to [&#8230;]</p>

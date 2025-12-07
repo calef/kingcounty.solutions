@@ -1,5 +1,7 @@
 ---
 date: '2025-11-28T15:30:00+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <h2 class="wp-block-heading">The VA Home Telehealth Program in West Texas helps Veterans stay connected</h2>

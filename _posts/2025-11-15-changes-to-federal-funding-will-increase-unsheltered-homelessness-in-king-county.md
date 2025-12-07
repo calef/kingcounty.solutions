@@ -1,5 +1,7 @@
 ---
 date: '2025-11-15T00:56:14+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p>Thursday afternoon the U. S. Department of Housing and Urban Development (HUD) issued the FY2025 Notice of Funding Opportunity (NOFO) for homelessness Continuums of Care [&#8230;]</p>

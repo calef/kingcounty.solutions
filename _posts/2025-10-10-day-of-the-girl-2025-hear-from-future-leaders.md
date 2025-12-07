@@ -1,5 +1,7 @@
 ---
 date: '2025-10-10T17:32:11+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p>As CAMFED, we are committed to co&#x2d;creating solutions with and for the girls and young women we serve. Their lived experience and expertise helps ensure that more disadvantaged students not only remain in school, but can also thrive in the classroom and succeed after graduation. Hear from our future leaders and share their stories, as together we take action for girls&rsquo; education and women&rsquo;s&#8230;</p>

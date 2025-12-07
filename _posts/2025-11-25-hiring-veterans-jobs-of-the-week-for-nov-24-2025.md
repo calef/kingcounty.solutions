@@ -1,5 +1,7 @@
 ---
 date: '2025-11-25T14:10:15+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p>Editor’s note: This post contains links to jobs that are active at the time of publishing. Most job listings close seven to 30 days after publishing. The sharing of any non-VA information does not constitute an endorsement of products and services on the part of VA. Veterans should verify the information with the organization offering.</p>

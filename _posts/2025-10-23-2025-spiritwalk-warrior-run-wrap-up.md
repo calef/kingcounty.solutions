@@ -1,5 +1,7 @@
 ---
 date: '2025-10-23T18:31:47+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p>Maybe we&#8217;re still on a runner&#8217;s high, but we can&#8217;t stop thinking about SpiritWalk &#38; Warrior Run! We&#8217;d like to thank everyone who participated in the 5K run or 2K walk. We&#8217;d also like to thank our partner Brooks Running and our sponsors: Molina Healthcare, Community Health Plan of Washington, and the Washington State Office &#8230; <a href="https://www.sihb.org/2025/10/2025-spiritwalk-warrior-run-wrap-up/" class="more-link">Continue reading <span class="screen-reader-text">2025 SpiritWalk &#38; Warrior Run wrap-up</span></a></p>

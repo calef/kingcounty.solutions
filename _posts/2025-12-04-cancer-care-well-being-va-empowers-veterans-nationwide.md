@@ -1,5 +1,7 @@
 ---
 date: '2025-12-04T19:30:00+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p>In pursuit of VA’s commitment to providing high-quality and Veteran-first care, VA’s National Oncology Program recognizes the significance of a whole health approach to cancer care. Faced with the challenges of cancer, maintaining well-being is truly critical. VA has a wealth of resources, guidance and real-world perspectives that empower Veterans, protect Veteran well-being and foster resilience.</p>

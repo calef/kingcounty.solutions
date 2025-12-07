@@ -1,5 +1,7 @@
 ---
 date: '2025-05-23T18:49:05+00:00'
+events: []
+events_extracted: true
 images:
 - 9c8a70d49cff03e17a2b40da1f70473522623ea595617db1ceec2f4ae1f3ecd7
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Council

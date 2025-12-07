@@ -1,5 +1,7 @@
 ---
 date: '2025-11-21T06:00:00-05:00'
+events: []
+events_extracted: true
 images: []
 original_content: '<div><p style="color: #4aa564;">Front Med (Lausanne). 2025 Nov
   5;12:1579250. doi: 10.3389/fmed.2025.1579250. eCollection 2025.</p><p><b>ABSTRACT</b></p><p

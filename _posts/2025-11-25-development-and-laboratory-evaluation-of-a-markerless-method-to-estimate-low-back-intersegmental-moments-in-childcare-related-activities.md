@@ -1,5 +1,7 @@
 ---
 date: '2025-11-25T06:00:00-05:00'
+events: []
+events_extracted: true
 images: []
 original_content: '<div><p style="color: #4aa564;">J Biomech. 2026 Jan;194:113070.
   doi: 10.1016/j.jbiomech.2025.113070. Epub 2025 Nov 13.</p><p><b>ABSTRACT</b></p><p

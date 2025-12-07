@@ -1,5 +1,7 @@
 ---
 date: '2025-11-27T01:42:46+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: Weekend Service Impacts Routes 3, 10, 11, 12, and 49 will be rerouted
   during testing for The Seattle Tree Lighting &#38; Fireworks from 6 p.m. to 10 p.m.

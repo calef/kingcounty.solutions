@@ -1,5 +1,7 @@
 ---
 date: '2025-02-10T22:20:06+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p>Do you earn money from gig work like driving a car for deliveries? If you do, you must file a tax return if you have net earnings from self-employment of $400 or more from gig work, even if it&#8217;s a <strong><em>side job, part-time or temporary.</em></strong> PIM Savvy’s Volunteer Income Tax Assistance (VITA) site can help you file your taxes for <strong><em>FREE</em></strong> if you qualify. Keep reading for more information.</p>

@@ -1,5 +1,7 @@
 ---
 date: '2025-10-06T20:42:27+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p>We are thrilled to announce that 23 of our outstanding PacMed clinicians have been recognized in the <strong>Seattle Met 2025 Top Doctors</strong> list! This annual honor celebrates the region’s most trusted and respected medical professionals, as nominated by their peers and patients.</p>

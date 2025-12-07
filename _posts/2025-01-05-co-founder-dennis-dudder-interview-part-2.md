@@ -1,5 +1,7 @@
 ---
 date: '2025-01-05T20:01:28+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p><em>We have traditionally created a Fall newsletter to communicate to current and alumni Changes members, as well as to the community at large.  </em></p>

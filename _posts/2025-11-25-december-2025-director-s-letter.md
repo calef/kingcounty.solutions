@@ -1,5 +1,10 @@
 ---
 date: '2025-11-25T16:55:51+00:00'
+events:
+- 2026-01-28-annual-member-meeting
+- 2025-12-24-holiday-closure
+- 2026-01-05-reopening-after-holiday-closure
+events_extracted: true
 images: []
 original_content: |-
   <p>Happy Holidays!</p>

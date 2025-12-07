@@ -1,5 +1,7 @@
 ---
 date: '2025-10-30T06:00:00-04:00'
+events: []
+events_extracted: true
 images: []
 original_content: '<div><p style="color: #4aa564;">In Vivo. 2025 Nov-Dec;39(6):3082-3089.
   doi: 10.21873/invivo.14110.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink"

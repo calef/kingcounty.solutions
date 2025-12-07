@@ -1,5 +1,7 @@
 ---
 date: '2025-06-25T20:46:13+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <h2><strong>Turning Points That Change Lives</strong></h2>

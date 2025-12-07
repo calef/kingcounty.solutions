@@ -1,5 +1,7 @@
 ---
 date: '2025-11-03T11:00:00+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p class="has-text-align-center"><strong>Walmart and Its Customers Unite to Uplift Military Families Nationwide Through Spark Good Program</strong></p>

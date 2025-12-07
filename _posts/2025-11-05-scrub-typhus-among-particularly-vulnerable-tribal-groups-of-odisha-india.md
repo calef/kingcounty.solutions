@@ -1,5 +1,7 @@
 ---
 date: '2025-11-05T06:00:00-05:00'
+events: []
+events_extracted: true
 images: []
 original_content: '<div><p style="color: #4aa564;">J Infect Public Health. 2025 Oct
   30;19(1):103026. doi: 10.1016/j.jiph.2025.103026. Online ahead of print.</p><p><b>ABSTRACT</b></p><p

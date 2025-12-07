@@ -1,5 +1,7 @@
 ---
 date: '2025-10-03T16:40:29+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p>TACOMA, Wash. — MultiCare Health System is partnering with Tellica Imaging, an Intermountain Health company, to bring affordable, high-quality medical imaging services — including CT and MRI scans — to patients in the Puget Sound.</p>

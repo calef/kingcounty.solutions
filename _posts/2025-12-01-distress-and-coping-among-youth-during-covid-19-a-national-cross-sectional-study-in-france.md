@@ -1,5 +1,7 @@
 ---
 date: '2025-12-01T06:00:00-05:00'
+events: []
+events_extracted: true
 images: []
 original_content: '<div><p style="color: #4aa564;">Front Psychiatry. 2025 Nov 13;16:1601358.
   doi: 10.3389/fpsyt.2025.1601358. eCollection 2025.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink"

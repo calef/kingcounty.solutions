@@ -1,5 +1,7 @@
 ---
 date: '2025-11-05T23:12:29+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p>This blog post was written by Anna Cronin, United Way of King County&rsquo;s chief philanthropy officer. I grew up in Seattle, the daughter of hippies from Montana and Minnesota who protested wars and frequently spoke about equity, belonging, feminism, and the importance of being a helper. I also had the great benefit of attending school in Seattle, where a mandatory busing program brought kids&#8230;</p>

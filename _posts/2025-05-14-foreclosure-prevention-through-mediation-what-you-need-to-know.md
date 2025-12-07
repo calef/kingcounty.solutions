@@ -1,5 +1,7 @@
 ---
 date: '2025-05-14T19:12:44+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p class="" data-start="407" data-end="764"><strong data-start="407" data-end="451">Foreclosure prevention through mediation</strong> is one of the most effective and underused tools available to homeowners facing financial stress. At the Dispute Resolution Center of King County (KCDRC), mediation helps residents navigate tough conversations with lenders, resolve misunderstandings, and find alternatives before foreclosure becomes a reality.</p>

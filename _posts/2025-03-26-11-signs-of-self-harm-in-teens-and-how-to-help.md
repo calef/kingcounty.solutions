@@ -1,5 +1,7 @@
 ---
 date: '2025-03-26T03:00:00+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p>When you have a teen in your life, you’re bound to feel protective. Teens are faced with big life decisions and challenges, often for the first time in their lives, and you want to help. Social pressures, friend and romantic relationships, academic worries, concerns about their future, changing hormones, changing mental health, and more can make the teen years tough.</p>

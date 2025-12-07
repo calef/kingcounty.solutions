@@ -1,5 +1,8 @@
 ---
 date: '2025-11-24T11:00:00+00:00'
+events:
+- 2026-04-23-2026-military-child-of-the-year-award-gala
+events_extracted: true
 images: []
 original_content: |-
   <p class="has-text-align-center"><strong>Final Call for Nominations for 2026 Military Child of the Year® Awards </strong> <br><em>Seven military children will receive $10,000 and attend a D.C. gala in their honor</em></p>

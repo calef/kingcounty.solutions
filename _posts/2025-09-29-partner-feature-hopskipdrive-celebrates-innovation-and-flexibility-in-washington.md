@@ -1,5 +1,7 @@
 ---
 date: '2025-09-29T17:21:48+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: Washington state recently passed  SB 5009 , a new law that modernizes
   the state’s funding formulas for student transportation . As of...

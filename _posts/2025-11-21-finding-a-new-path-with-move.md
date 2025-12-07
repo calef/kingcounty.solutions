@@ -1,5 +1,7 @@
 ---
 date: '2025-11-21T15:30:00+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: "<h2 class=\"wp-block-heading\">Veteran Shaunelle Tharpe transforms
   her life and health through VA’s MOVE! program</h2>\n\n\n\n<p>Veteran and employee

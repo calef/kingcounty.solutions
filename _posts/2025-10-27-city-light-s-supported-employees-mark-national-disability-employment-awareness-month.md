@@ -1,5 +1,7 @@
 ---
 date: '2025-10-27T20:57:56+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: '<img width="150" height="150" src="https://powerlines.seattle.gov/wp-content/uploads/sites/17/2025/10/Powerlines-Featured-Images-13-150x150.png"
   class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom:

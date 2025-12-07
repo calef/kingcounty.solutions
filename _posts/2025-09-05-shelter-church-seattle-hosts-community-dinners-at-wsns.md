@@ -1,5 +1,7 @@
 ---
 date: '2025-09-05T18:00:00+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p class="">Tonight at 5 pm! </p>

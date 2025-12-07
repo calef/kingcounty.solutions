@@ -1,5 +1,7 @@
 ---
 date: '2025-11-26T06:00:00-05:00'
+events: []
+events_extracted: true
 images: []
 original_content: '<div><p style="color: #4aa564;">J Gerontol B Psychol Sci Soc Sci.
   2025 Nov 26:gbaf240. doi: 10.1093/geronb/gbaf240. Online ahead of print.</p><p><b>ABSTRACT</b></p><p

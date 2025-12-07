@@ -1,5 +1,7 @@
 ---
 date: '2025-11-06T23:07:11+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <h1>Update: 11/11/25</h1>

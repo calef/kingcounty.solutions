@@ -1,5 +1,7 @@
 ---
 date: '2025-11-04T00:36:54+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   As the holiday season approaches, many people find themselves spending more time in the kitchen, traveling, or preparing for family gatherings. While these moments bring joy, they can also bring increased physical demands and emotional stress.

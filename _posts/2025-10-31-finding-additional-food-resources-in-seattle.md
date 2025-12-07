@@ -1,5 +1,7 @@
 ---
 date: '2025-10-31T18:53:46+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: '<p class="">Find your way to additional food resources throughout
   the Seattle area with our list of resources, meals, and community fridges. <span><strong>If

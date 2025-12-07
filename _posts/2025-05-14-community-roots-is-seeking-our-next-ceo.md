@@ -1,5 +1,7 @@
 ---
 date: '2025-05-14T16:39:50+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p>Imagine a Seattle where every resident can afford a safe, quality affordable home in a high-opportunity area close to jobs, transit, arts and culture, and more. Since 1976, Community Roots Housing has been turning this vision into reality, creating affordable housing that does more than provide shelter— it supports thriving communities.</p>

@@ -1,5 +1,7 @@
 ---
 date: '2025-04-17T12:02:26+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p>Grooming is a type of abuse where a person is manipulated into being isolated and dependent on the groomer. This can lead to serious harm. I will be sharing six stages of grooming, illustrating each with examples from a fictional story to help you identify potential warning signs. </p>

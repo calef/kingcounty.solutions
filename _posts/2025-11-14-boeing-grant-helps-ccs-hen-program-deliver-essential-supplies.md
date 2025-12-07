@@ -1,5 +1,7 @@
 ---
 date: '2025-11-14T17:22:12+00:00'
+events: []
+events_extracted: true
 images:
 - a9b1c8beb3d69cbb379637b1ee240dd4be5322d1be1b8bb1d61571dace733c43
 - 6bf5bf4a66ae093fa9072a5acdbd0b81cea4bece903b5c449bcfc9077b53f4bd

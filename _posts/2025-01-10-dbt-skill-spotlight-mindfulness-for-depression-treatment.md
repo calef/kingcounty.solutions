@@ -1,5 +1,7 @@
 ---
 date: '2025-01-10T01:59:31+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p>Depression is a tough mental health condition with a variety of unpleasant symptoms that disrupt everyday life. <a href="https://www.nimh.nih.gov/health/topics/depression#:~:text=Depression%20(also%20known%20as%20major,during%20the%20spring%20and%20summer." target="_blank" rel="noopener">People with depression</a> may deal with deep sadness and negative thought patterns, irritability or anger, disinterest in things they previously enjoyed, feelings of hopelessness, changes in sleeping and eating, physical pains, brain fog, and more. Reading that list, you can see why people reach out for help when they’re struggling with depression.</p>

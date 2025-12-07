@@ -1,5 +1,7 @@
 ---
 date: '2025-09-30T18:23:43+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Bellevue
   Community Court grand opening Oct. 7</span>\n<span class=\"field field--name-uid

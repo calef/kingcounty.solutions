@@ -1,5 +1,7 @@
 ---
 date: '2025-11-25T14:19:00+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <a href="https://wscenter.org/mark-your-calendar-for-giving-tuesday/"><p>The biggest annual day of giving is coming up soon! </p>

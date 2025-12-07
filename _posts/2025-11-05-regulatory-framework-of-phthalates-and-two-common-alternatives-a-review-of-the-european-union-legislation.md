@@ -1,5 +1,7 @@
 ---
 date: '2025-11-05T06:00:00-05:00'
+events: []
+events_extracted: true
 images: []
 original_content: '<div><p style="color: #4aa564;">Int J Hyg Environ Health. 2025
   Nov 4;271:114704. doi: 10.1016/j.ijheh.2025.114704. Online ahead of print.</p><p><b>ABSTRACT</b></p><p

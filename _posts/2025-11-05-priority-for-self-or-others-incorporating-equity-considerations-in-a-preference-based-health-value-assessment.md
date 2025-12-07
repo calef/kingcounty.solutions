@@ -1,5 +1,7 @@
 ---
 date: '2025-11-05T06:00:00-05:00'
+events: []
+events_extracted: true
 images: []
 original_content: '<div><p style="color: #4aa564;">Value Health. 2025 Nov 3:S1098-3015(25)05662-1.
   doi: 10.1016/j.jval.2025.10.011. Online ahead of print.</p><p><b>ABSTRACT</b></p><p

@@ -1,5 +1,7 @@
 ---
 date: '2025-10-30T06:00:00-04:00'
+events: []
+events_extracted: true
 images: []
 original_content: '<div><p style="color: #4aa564;">Health Promot Int. 2025 Oct 30;40(6):daaf179.
   doi: 10.1093/heapro/daaf179.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink"

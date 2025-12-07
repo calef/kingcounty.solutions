@@ -1,5 +1,7 @@
 ---
 date: '2025-11-20T06:00:00-05:00'
+events: []
+events_extracted: true
 images: []
 original_content: '<div><p style="color: #4aa564;">J Bioeth Inq. 2025 Nov 20. doi:
   10.1007/s11673-025-10493-w. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink"

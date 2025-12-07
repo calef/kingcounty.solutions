@@ -1,5 +1,7 @@
 ---
 date: '2025-11-27T06:00:00-05:00'
+events: []
+events_extracted: true
 images: []
 original_content: '<div><p style="color: #4aa564;">Child Care Health Dev. 2026 Jan;52(1):e70195.
   doi: 10.1111/cch.70195.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink"

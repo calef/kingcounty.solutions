@@ -1,5 +1,7 @@
 ---
 date: '2025-11-20T19:38:42+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p class="has-medium-font-size">MOU will establish government-to-government relations between the sovereign nation and state agency</p>

@@ -1,5 +1,7 @@
 ---
 date: '2025-03-19T17:06:48+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: "<div  class=\"wpb_row vc_row vc_row-fluid  mk-fullwidth-false  attched-false
   \    js-master-row \">\n\t\t\n\t\t\t\n<div style=\"\" class=\"vc_col-sm-12 wpb_column

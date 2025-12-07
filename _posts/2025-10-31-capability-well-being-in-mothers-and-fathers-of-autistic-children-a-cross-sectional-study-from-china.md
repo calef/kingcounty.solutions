@@ -1,5 +1,7 @@
 ---
 date: '2025-10-31T06:00:00-04:00'
+events: []
+events_extracted: true
 images: []
 original_content: '<div><p style="color: #4aa564;">BMC Psychol. 2025 Oct 30;13(1):1204.
   doi: 10.1186/s40359-025-03507-0.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink"

@@ -1,5 +1,7 @@
 ---
 date: '2025-11-18T06:26:50+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p><strong>Full-Time, Hourly, Non-Exempt</strong><br><strong>Reports to: Senior Meal Program Manager<br>$26 &#8211; $29.25/ hour DOE<br>Seattle, Washington</strong></p>

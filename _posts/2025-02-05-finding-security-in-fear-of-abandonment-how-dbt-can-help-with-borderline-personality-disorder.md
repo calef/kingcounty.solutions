@@ -1,5 +1,7 @@
 ---
 date: '2025-02-05T03:25:26+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p>Borderline personality disorder (BPD) is an intense mental health condition where someone experiences heightened emotional responses to everyday situations that are long-lasting and hard to manage. Perceived or real abandonment is particularly hard on people with BPD; anything from a simple missed phone call <a href="https://thirahealth.com/2023/01/30/recovering-from-a-breakup-with-borderline-personality-disorder/">to a breakup</a> can feel emotionally overwhelming.</p>

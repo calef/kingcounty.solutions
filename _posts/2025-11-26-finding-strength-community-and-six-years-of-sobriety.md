@@ -1,5 +1,7 @@
 ---
 date: '2025-11-26T22:38:12+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p>At 15, Nadine found herself struggling to adjust to a completely new world. Leaving the familiarity of a small private school and stepping into a large public high school felt overwhelming. Her confidence faded, and anxiety took hold. Was she talking too much? Not enough? Did she say the right thing? On a constant, unending loop, she worried about being judged or about saying the wrong things.</p>

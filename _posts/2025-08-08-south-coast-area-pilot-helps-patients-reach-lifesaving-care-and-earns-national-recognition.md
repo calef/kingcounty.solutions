@@ -1,5 +1,7 @@
 ---
 date: '2025-08-08T20:51:22+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p>&nbsp;<strong>FOR IMMEDIATE RELEASE&nbsp;</strong></p>

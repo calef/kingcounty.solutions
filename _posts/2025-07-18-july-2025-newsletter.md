@@ -1,5 +1,7 @@
 ---
 date: '2025-07-18T23:56:00+00:00'
+events: []
+events_extracted: true
 images:
 - b9e18bd01c9e1a375f9b745e9927f053c0d8d0d05b3f974d18d8e2120ad76f91
 original_content: "<figure class=\"\n              sqs-block-image-figure\n              intrinsic\n

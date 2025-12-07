@@ -1,5 +1,7 @@
 ---
 date: '2025-11-13T22:49:43+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p>Today, following Katie Wilson’s projected election as Seattle’s next mayor and Mayor Bruce Harrell’s concession address, city councilmembers issued the following statements.   Councilmember Rob Saka (District 1) “The voters have spoken, calling for change and a renewed focus on affordability, community, and fighting back against a resurgent Trump agenda. I want to express my...</p>

@@ -1,5 +1,8 @@
 ---
 date: '2025-10-27T03:10:52+00:00'
+events:
+- 2026-01-01-draft-strategy-presentation
+events_extracted: true
 images:
 - 5d4593d7334a078570bfaf06b17cc2f4e9abab7c2fcaa467737392306cf3ea0c
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Council

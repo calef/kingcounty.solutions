@@ -1,5 +1,7 @@
 ---
 date: '2025-01-20T18:54:48+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <div  class='flex_column av-1lv165-0cadd99f474670ac83375aa7bbdc0deb av_one_full  avia-builder-el-0  el_before_av_one_full  avia-builder-el-first  first flex_column_div  '     ><style type="text/css" data-created_by="avia_inline_auto" id="style-css-av-lpmx0wr7-5231e82aec8021c9100be012019ee6fb">

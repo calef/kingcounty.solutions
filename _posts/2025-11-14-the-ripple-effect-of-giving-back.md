@@ -1,5 +1,7 @@
 ---
 date: '2025-11-14T21:08:52+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p><span data-contrast="auto">This November, as we celebrate gratitude and the power of connection, we’re shining a light on our longstanding partner, </span><a href="https://pilotrb.com/"><span data-contrast="none">Pilot|RB</span></a><span data-contrast="auto">. Their story beautifully embodies the ripple effect and reciprocity of giving back. </span><span data-ccp-props="{&quot;335559685&quot;:0}"> </span></p>

@@ -1,5 +1,7 @@
 ---
 date: '2025-11-18T06:00:00-05:00'
+events: []
+events_extracted: true
 images: []
 original_content: '<div><p style="color: #4aa564;">Womens Health Issues. 2025 Nov
   17:S1049-3867(25)00139-2. doi: 10.1016/j.whi.2025.10.006. Online ahead of print.</p><p><b>ABSTRACT</b></p><p

@@ -1,5 +1,7 @@
 ---
 date: '2025-05-02T18:13:43+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p class="">The momentum is building! Thanks to early givers, our GiveBIG goal of $10,000 is 14% complete!</p>

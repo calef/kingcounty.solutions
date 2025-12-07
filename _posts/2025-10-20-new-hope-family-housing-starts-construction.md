@@ -1,5 +1,8 @@
 ---
 date: '2025-10-20T22:52:48+00:00'
+events:
+- 2027-03-01-completion-of-new-hope-family-housing
+events_extracted: true
 images: []
 original_content: "New Hope West Building - Rendering by Weber Thompson Seattle, WA
   – The New Hope Community Development Institute ( NHCDI) and Low Income Housing Institute

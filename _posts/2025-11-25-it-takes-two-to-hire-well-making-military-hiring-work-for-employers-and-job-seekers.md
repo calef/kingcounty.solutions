@@ -1,5 +1,7 @@
 ---
 date: '2025-11-25T14:30:00+00:00'
+events: []
+events_extracted: true
 images:
 - 34263867dafbcdd68d71913952f47fe379ce7eb02c6e5d44309fef573ffa8585
 original_content: "<p>The sharing of non-VA information does not constitute an endorsement

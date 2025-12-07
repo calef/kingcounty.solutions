@@ -1,5 +1,7 @@
 ---
 date: '2025-10-20T16:17:55+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: "[The Housing Accountability Act](https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Session%20Laws/Senate/5148-S2.SL.pdf?q=20251016092533)
   provides for voluntary and selected approval processes for local government housing

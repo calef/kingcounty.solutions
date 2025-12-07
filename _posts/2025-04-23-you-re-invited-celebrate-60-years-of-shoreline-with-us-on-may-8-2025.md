@@ -1,5 +1,7 @@
 ---
 date: '2025-04-23T16:07:10+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: '<div class="wp-rss-image" style="margin-bottom:20px;max-width:
   600px !important;padding-top: 0.75em;"><img width="400" height="271" src="https://i0.wp.com/news.shoreline.edu/wp-content/uploads/2025/04/60TH-ANNIVERSARY-Email-Graphic.png?fit=400%2C271&amp;ssl=1"

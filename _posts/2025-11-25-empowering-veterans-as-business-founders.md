@@ -1,5 +1,8 @@
 ---
 date: '2025-11-25T16:25:20+00:00'
+events:
+- 2026-02-01-dav-patriot-boot-camp
+events_extracted: true
 images: []
 original_content: "<div class=\"editor clearfix\">\n\n    \n    <p><img fetchpriority=\"high\"
   decoding=\"async\" class=\"size-full wp-image-55468 alignleft\" src=\"https://www.dav.org/wp-content/uploads/PBC_Group.jpg\"

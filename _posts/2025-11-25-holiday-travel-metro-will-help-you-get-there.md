@@ -1,5 +1,10 @@
 ---
 date: '2025-11-25T16:00:01+00:00'
+events:
+- 2025-12-25-christmas-day-transit-schedule
+- 2025-12-31-new-year-s-eve-transit-schedule
+- 2026-01-01-new-year-s-day-transit-schedule
+events_extracted: true
 images: []
 original_content: The holidays are coming! Whether you are going to holiday events,
   shopping or celebrating with friends and family, it’s a great time to explore your

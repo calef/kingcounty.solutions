@@ -1,5 +1,7 @@
 ---
 date: '2025-08-05T21:01:32+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: We are pleased to announce that Nichols Court is ready for lease
   up and has received its Temporary Certificate of Occupancy. Please see...

@@ -1,5 +1,7 @@
 ---
 date: '2025-01-27T20:01:51+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p>For over 50 years, Asian Counseling and Referral Service (ACRS) has been dedicated to supporting immigrants, refugees, and other vulnerable community members. Our commitment to fostering safety and belonging for everyone in our community remains unwavering.</p>

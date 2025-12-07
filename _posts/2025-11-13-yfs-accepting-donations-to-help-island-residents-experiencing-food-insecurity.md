@@ -1,5 +1,7 @@
 ---
 date: '2025-11-13T16:37:17-08:00'
+events: []
+events_extracted: true
 images: []
 original_content: <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div
   class="field-items"><div class="field-item even" property="content:encoded"><p>Over

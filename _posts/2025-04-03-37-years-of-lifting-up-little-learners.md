@@ -1,5 +1,7 @@
 ---
 date: '2025-04-03T23:46:12+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p>Today, Wellspring’s Early Learning Center (ELC) remains the only program in Washington State specializing in serving children ages one through five who are experiencing the traumatic effects of homelessness.</p>

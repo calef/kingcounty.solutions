@@ -1,5 +1,8 @@
 ---
 date: '2025-11-20T23:02:27+00:00'
+events:
+- 2026-01-01-old-tech-drive
+events_extracted: true
 images: []
 original_content: Seattle IT’s Old Tech Drive, held in partnership with PCs for People
   on October 7 and 8 at the Seattle Municipal Tower, proved to be a fantastic partnership

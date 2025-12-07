@@ -1,5 +1,7 @@
 ---
 date: '2025-09-22T03:18:49+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p>We are excited to announce the appointment of <strong>Colleen Echohawk</strong> as the new Chief Executive Officer of Community Roots Housing! Colleen will start her new role on October 6, in anticipation of the retirement of longtime CEO <a href="https://communityrootshousing.org/team/christopher-persons/">Chris Persons</a> at the end of October.</p>

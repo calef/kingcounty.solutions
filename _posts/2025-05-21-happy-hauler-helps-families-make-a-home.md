@@ -1,5 +1,7 @@
 ---
 date: '2025-05-21T19:03:45+00:00'
+events: []
+events_extracted: true
 images:
 - a51dfddf5b5f64f6ba8244fad7053beaeeb83c1b96a04879d3943ca5a1b690e7
 original_content: "<p class=\"\">A bed to sleep in instead of a bare floor.&nbsp;&nbsp;</p><p

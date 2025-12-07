@@ -1,5 +1,7 @@
 ---
 date: '2025-12-01T06:00:00-05:00'
+events: []
+events_extracted: true
 images: []
 original_content: '<div><p style="color: #4aa564;">BMC Public Health. 2025 Dec 2.
   doi: 10.1186/s12889-025-25842-y. Online ahead of print.</p><p><b>ABSTRACT</b></p><p

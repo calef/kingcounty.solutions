@@ -1,5 +1,7 @@
 ---
 date: '2025-03-13T21:11:09+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p>On February 25, 2025, Imagine Housing hosted a virtual convening to talk about the proposed development and answer questions. NOTE: the recording<span class="excerpt-hellip"> […]</span></p>

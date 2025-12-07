@@ -1,5 +1,8 @@
 ---
 date: '2025-11-11T17:50:01+00:00'
+events:
+- 2025-12-22-dshs-mobile-community-services-office
+events_extracted: true
 images:
 - dc392afb5b9b5646705175788f6413de00080a1bd54abb4406c22e6460f425e7
 original_content: |-

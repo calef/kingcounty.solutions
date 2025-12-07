@@ -1,5 +1,7 @@
 ---
 date: '2025-09-25T19:26:44+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p>THANK YOU for joining us Thursday, October 9 at Old Stove Brewery in Ballard! Thank you so much for joining us for the annual Edible Hope Kitchen fundraiser! Over 160 &#8230; <a class="kt-excerpt-readmore" href="https://stlukesseattle.org/2025/09/25/annual-edible-hope-fundraiser-oct-9/" aria-label="Annual Edible Hope Fundraiser Oct 9">Read More</a></p>

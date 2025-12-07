@@ -1,5 +1,7 @@
 ---
 date: '2025-08-19T03:28:28+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p class="">The sewer line at the American Legion Hall has been repaired, and the shelter will open for breakfast tomorrow as usual, from 7 to 11 am.</p>

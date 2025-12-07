@@ -1,5 +1,7 @@
 ---
 date: '2025-11-28T06:00:00-05:00'
+events: []
+events_extracted: true
 images: []
 original_content: '<div><p style="color: #4aa564;">JMIR Res Protoc. 2025 Nov 28;14:e77521.
   doi: 10.2196/77521.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink"

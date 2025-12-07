@@ -1,5 +1,7 @@
 ---
 date: '2025-11-21T16:17:19+00:00'
+events: []
+events_extracted: true
 images:
 - db94e72c4837a19cae513d61ded92a68f2f4398f61c148a290f153f1250849af
 original_content: "<div class=\"editor clearfix\">\n\n    \n    <figure id=\"attachment_54651\"

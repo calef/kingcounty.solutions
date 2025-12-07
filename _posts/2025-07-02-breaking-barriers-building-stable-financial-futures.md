@@ -1,5 +1,7 @@
 ---
 date: '2025-07-02T20:55:02+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: "<p class=\"\">Too often, navigating the banking system, budgeting,
   and building credit can feel overwhelming. These skills are usually not taught in

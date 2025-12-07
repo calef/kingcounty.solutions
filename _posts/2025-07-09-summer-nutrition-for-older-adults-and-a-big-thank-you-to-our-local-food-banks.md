@@ -1,5 +1,7 @@
 ---
 date: '2025-07-09T21:07:22+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: As we move into the heart of summer, it’s the perfect time to talk
   about something near and dear to all of us at Eastside Friends of...

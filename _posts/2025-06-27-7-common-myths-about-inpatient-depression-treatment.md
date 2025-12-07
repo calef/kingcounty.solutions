@@ -1,5 +1,7 @@
 ---
 date: '2025-06-27T13:12:20+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p class="p1">Movies, TV shows, and even the history of inpatient treatment have set us all up to believe<a href="https://thirahealth.com/2023/09/21/why-dont-people-seek-treatment-for-mental-health/"><span class="s1"> stigmatizing myths about mental health care</span></a>. Thankfully, there have been considerable strides in improving inpatient care settings. Patients’ rights have been defined, newer and better treatment options have developed over the last 40 years, and an overall complete change in how we approach mental illness has taken place, so mental health treatment facilities are more likely to be places where patients feel seen, heard, and helped.</p>

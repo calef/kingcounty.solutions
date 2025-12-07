@@ -1,5 +1,7 @@
 ---
 date: '2025-11-03T17:48:56+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p><!--StartFragment --></p>

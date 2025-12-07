@@ -1,5 +1,7 @@
 ---
 date: '2025-09-18T21:48:08+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   By ELAP intern Annika Hauer

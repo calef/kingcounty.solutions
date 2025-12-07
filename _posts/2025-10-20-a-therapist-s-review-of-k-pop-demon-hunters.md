@@ -1,5 +1,7 @@
 ---
 date: '2025-10-20T19:25:57+00:00'
+events: []
+events_extracted: true
 images:
 - 929fcf43b4f7030575df87192a4f085af2dc33ac308626b53cfac33425c6b178
 original_content: "<div class=\"wpb-content-wrapper\"><div class=\"\"><div class=\"container\"><div

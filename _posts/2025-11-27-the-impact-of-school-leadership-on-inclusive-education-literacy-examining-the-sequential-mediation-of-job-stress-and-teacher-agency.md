@@ -1,5 +1,7 @@
 ---
 date: '2025-11-27T06:00:00-05:00'
+events: []
+events_extracted: true
 images: []
 original_content: '<div><p style="color: #4aa564;">Behav Sci (Basel). 2025 Nov 17;15(11):1572.
   doi: 10.3390/bs15111572.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink"

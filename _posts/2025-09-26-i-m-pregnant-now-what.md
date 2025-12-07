@@ -1,5 +1,7 @@
 ---
 date: '2025-09-26T13:51:33+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p>Pregnancy wasn’t in your plans. Now you’re left with lots of questions. What do I do now? How will this work? How do I tell my parents? How do I finish school? How do I even know who the father is?&nbsp;</p>

@@ -1,5 +1,7 @@
 ---
 date: '2025-12-01T06:00:00-05:00'
+events: []
+events_extracted: true
 images: []
 original_content: '<div><p style="color: #4aa564;">BMC Pregnancy Childbirth. 2025
   Dec 1;25(1):1284. doi: 10.1186/s12884-025-08481-4.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink"

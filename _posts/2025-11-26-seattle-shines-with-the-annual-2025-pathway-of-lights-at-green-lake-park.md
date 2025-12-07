@@ -1,5 +1,8 @@
 ---
 date: '2025-11-26T20:46:07+00:00'
+events:
+- 2025-12-13-pathway-of-lights
+events_extracted: true
 images: []
 original_content: This annual tradition returns to Green Lake on Saturday, December
   13, 2025  We’re getting into the spirit of the season as we prepare for the annual

@@ -1,5 +1,7 @@
 ---
 date: '2025-11-19T18:00:00+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: On November 19, Seattle Public Utilities (SPU) and WM announced
   the recipients of the 2025 ReThink Waste Grants, supporting community-based projects

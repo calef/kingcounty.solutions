@@ -1,5 +1,7 @@
 ---
 date: '2025-10-20T22:36:09+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <span class="field field--name-title field--type-string field--label-hidden">Osteopathic physician located in Spokane County suspended due to being unable to practice medicine with reasonable skill and safety</span>

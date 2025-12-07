@@ -1,5 +1,7 @@
 ---
 date: '2025-10-09T17:24:19+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p data-start="431" data-end="723"><strong data-start="431" data-end="468">BELLEVUE, Wash. — October 6, 2025</strong> — More than 350 community members, advocates, and supporters gathered for the <strong data-start="547" data-end="595">Asian Counseling and Referral Service (ACRS)</strong> Annual Benefit Gala on <strong data-start="619" data-end="632">October 4</strong> at the <strong data-start="640" data-end="666">Hyatt Regency Bellevue</strong>, coming together under the theme <em data-start="700" data-end="721">“Not on Our Watch.”</em></p>

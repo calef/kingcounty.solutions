@@ -1,5 +1,7 @@
 ---
 date: '2025-11-19T06:00:00-05:00'
+events: []
+events_extracted: true
 images: []
 original_content: '<div><p style="color: #4aa564;">J Affect Disord. 2025 Nov 17;395(Pt
   A):120730. doi: 10.1016/j.jad.2025.120730. Online ahead of print.</p><p><b>ABSTRACT</b></p><p

@@ -1,5 +1,7 @@
 ---
 date: '2025-01-07T19:50:13+00:00'
+events: []
+events_extracted: true
 images:
 - 1290d1508ca84c7222b90c17d52f5c3bc2056b8d713a797b5d201c78f5f562ad
 original_content: "<div class=\"et_pb_section et_pb_section_3 et_section_regular\"

@@ -1,5 +1,7 @@
 ---
 date: '2025-08-27T23:29:49+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <div data-wp-interactive="core/file" class="wp-block-file"><object data-wp-bind--hidden="!state.hasPdfPreview" hidden class="wp-block-file__embed" data="https://ballardseniorcenter.org/wp-content/uploads/sites/7/sept.oct_.25.newsletter.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="Embed of sept.oct.25.newsletter."></object><a id="wp-block-file--media-4210ed6a-85b8-4130-91d0-0f7d6d19e0c9" href="https://ballardseniorcenter.org/wp-content/uploads/sites/7/sept.oct_.25.newsletter.pdf">sept.oct.25.newsletter</a><a href="https://ballardseniorcenter.org/wp-content/uploads/sites/7/sept.oct_.25.newsletter.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-4210ed6a-85b8-4130-91d0-0f7d6d19e0c9">Download</a></div>

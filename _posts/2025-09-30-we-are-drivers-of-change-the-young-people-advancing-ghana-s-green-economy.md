@@ -1,5 +1,7 @@
 ---
 date: '2025-09-30T13:14:01+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p>5 minute read The Government of Ghana has introduced policies to address this challenge, including implementing the National Green Jobs Strategy (2021&#x2d;2025), to provide training and generate job opportunities in green industries. In turn, young people are stepping up to drive innovation and shape a greener, more sustainable future for us all. A collaborative research project led by CAMFED&#8230;</p>

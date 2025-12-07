@@ -1,5 +1,7 @@
 ---
 date: '2025-07-24T18:27:39+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: On July 23rd, Tacoma and Pierce County shelter and housing agencies
   and supporters gathered to celebrate the grand opening of Kingfisher...

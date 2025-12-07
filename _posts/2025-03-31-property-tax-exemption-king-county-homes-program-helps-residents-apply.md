@@ -1,5 +1,7 @@
 ---
 date: '2025-03-31T20:04:59+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p class="" data-start="410" data-end="770">Starting in May 2025, a powerful new resource is available to help eligible residents apply for the <strong data-start="512" data-end="550">property tax exemption King County</strong> offers. The <strong data-start="563" data-end="580">HOMES program</strong>—short for <em data-start="591" data-end="648">Homeowners’ Outreach, Mentoring, and Education Services</em>—supports older adults, veterans, and people with disabilities in completing their applications for this valuable benefit.</p>

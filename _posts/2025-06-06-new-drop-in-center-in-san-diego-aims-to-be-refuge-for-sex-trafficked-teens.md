@@ -1,5 +1,7 @@
 ---
 date: '2025-06-06T23:00:42+00:00'
+events: []
+events_extracted: true
 images:
 - c314fd45c9e9ce91d1fd906ed181265505711b726a664c6727b19432bd87803b
 original_content: "<div class=\"vc_row wpb_row vc_row-fluid\"><div class=\"wpb_column

@@ -1,5 +1,7 @@
 ---
 date: '2025-04-24T16:21:34+00:00'
+events: []
+events_extracted: true
 images:
 - c30c392e3b7fd31941c323a865ad01dbd107adb73a6e251ed45c20fc7a3949f2
 original_content: '<div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">

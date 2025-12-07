@@ -1,5 +1,7 @@
 ---
 date: '2025-11-10T16:26:18+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: On November 7, the Washington School Based Health Alliance hosted
   its annual Student Health Summit at Western Washington University, attracting nearly

@@ -1,5 +1,9 @@
 ---
 date: '2025-11-21T18:26:03+00:00'
+events:
+- 2025-12-30-travels-with-anita-road-trip-usa
+- 2025-12-23-holiday-lights-outing
+events_extracted: true
 images:
 - 2570c6aa457901c94b34c2ef3b05a027bf0fdf241a3de00b009460e7452ece7a
 original_content: '<figure class="wp-block-image size-large"><img fetchpriority="high"

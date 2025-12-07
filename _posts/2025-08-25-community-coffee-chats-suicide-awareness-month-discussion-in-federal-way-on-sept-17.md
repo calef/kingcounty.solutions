@@ -1,5 +1,7 @@
 ---
 date: '2025-08-25T20:34:46+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p>As seen in the Federal Way Mirror</p>

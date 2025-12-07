@@ -1,5 +1,7 @@
 ---
 date: '2025-09-25T17:25:02+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p data-start="129" data-end="414"><em>We’re proud to share that YES Co-Occurring Disorders Therapist Noble and Agency-Based Director Debbie recently contributed their insights to a <strong data-start="300" data-end="331">CNET article by Alex Valdes</strong> exploring a trend that is shaping the lives of today’s youth: teens turning to AI for companionship. </em></p>

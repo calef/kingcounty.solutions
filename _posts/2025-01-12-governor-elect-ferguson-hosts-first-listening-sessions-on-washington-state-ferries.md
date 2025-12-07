@@ -1,5 +1,7 @@
 ---
 date: '2025-01-12T21:19:51+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: "Governor-elect Ferguson hosts first listening sessions on Washington
   State Ferries\n\nPublish Date\n\n<time datetime=\"2025-01-09T12:00:00Z\" class=\"datetime\">January

@@ -1,5 +1,7 @@
 ---
 date: '2025-08-22T17:40:33+00:00'
+events: []
+events_extracted: true
 images:
 - 68ee3e88914cd2fbe6d75610b050fd085e233bbfb83d44796138d4ada80d85cc
 original_content: "<p class=\"\">For Keisha, a single mom of three, stability meant

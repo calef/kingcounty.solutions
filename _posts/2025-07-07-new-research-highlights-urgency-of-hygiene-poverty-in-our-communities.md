@@ -1,5 +1,7 @@
 ---
 date: '2025-07-07T22:40:05+00:00'
+events: []
+events_extracted: true
 images:
 - 1877427c1fd462797be3d3e4b835a99e3d72254f9f4a072265d1f32e860c27d5
 original_content: "<p class=\"\">In their paper “Access to Dignity: Policy and Advocacy

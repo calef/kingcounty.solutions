@@ -1,5 +1,9 @@
 ---
 date: '2025-11-26T14:52:27+00:00'
+events:
+- 2026-04-04-dav-community-impact-day
+- 2026-01-01-dav-scholarships
+events_extracted: true
 images: []
 original_content: "<div class=\"editor clearfix\">\n\n    \n    <p><img fetchpriority=\"high\"
   decoding=\"async\" class=\"alignleft wp-image-55497 size-full\" src=\"https://www.dav.org/wp-content/uploads/VolNewsletter-2025.jpg\"

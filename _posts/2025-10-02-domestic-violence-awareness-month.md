@@ -1,5 +1,7 @@
 ---
 date: '2025-10-02T20:42:46-07:00'
+events: []
+events_extracted: true
 images: []
 original_content: Dear Friends,We are grateful for your ongoing partnership in breaking
   the cycle of abuse and helping families build thriving new lives. The statistics

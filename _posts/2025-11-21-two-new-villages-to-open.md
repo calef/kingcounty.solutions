@@ -1,5 +1,7 @@
 ---
 date: '2025-11-21T18:18:02+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: LIHI staff and volunteers are busily at work setting up two new
   villages: Olympic Hills Village in Seattle and Church By the Side of the Road Village

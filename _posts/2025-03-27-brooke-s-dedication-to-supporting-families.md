@@ -1,5 +1,7 @@
 ---
 date: '2025-03-27T23:01:41+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p>In 2011, Brooke Gibson faced an impossible choice—stay in a job that was harming her mental health and keeping her trapped in poverty or leave to pursue her education full-time and build a future free from constant financial worry. She chose to invest in herself and her children, but as a full-time student raising two young sons, she soon found herself unable to pay rent and facing eviction. With nowhere else to turn, she reached out to Wellspring Family Services.</p>

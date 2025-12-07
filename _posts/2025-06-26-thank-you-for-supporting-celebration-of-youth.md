@@ -1,5 +1,8 @@
 ---
 date: '2025-06-26T01:41:13+00:00'
+events:
+- 2026-06-26-75th-anniversary-celebration
+events_extracted: true
 images: []
 original_content: Celebration of Youth has come to an end, and we are excited to announce
   that we raised a total of $574,603! We are so thankful to...

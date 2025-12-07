@@ -1,5 +1,7 @@
 ---
 date: '2025-11-14T06:00:00-05:00'
+events: []
+events_extracted: true
 images: []
 original_content: '<div><p style="color: #4aa564;">J Fam Nurs. 2025 Nov;31(4):272-290.
   doi: 10.1177/10748407251392877. Epub 2025 Nov 14.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink"

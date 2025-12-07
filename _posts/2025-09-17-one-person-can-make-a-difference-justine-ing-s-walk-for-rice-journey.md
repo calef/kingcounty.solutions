@@ -1,5 +1,7 @@
 ---
 date: '2025-09-17T23:58:27+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p data-start="264" data-end="465">In these times, when our communities are facing so many challenges, it’s easy to feel helpless as one person. But stories like <strong data-start="391" data-end="407">Justine Ing’s</strong> remind us that each of us can—and do—make a difference.</p>

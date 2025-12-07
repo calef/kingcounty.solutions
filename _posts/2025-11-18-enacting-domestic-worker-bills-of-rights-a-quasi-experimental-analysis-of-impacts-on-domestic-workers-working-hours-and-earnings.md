@@ -1,5 +1,7 @@
 ---
 date: '2025-11-18T06:00:00-05:00'
+events: []
+events_extracted: true
 images: []
 original_content: '<div><p style="color: #4aa564;">New Solut. 2025 Nov 18:10482911251394344.
   doi: 10.1177/10482911251394344. Online ahead of print.</p><p><b>ABSTRACT</b></p><p

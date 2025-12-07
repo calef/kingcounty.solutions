@@ -1,5 +1,7 @@
 ---
 date: '2025-02-14T20:46:14+00:00'
+events: []
+events_extracted: true
 images:
 - a8219409aee66b23a35ca531b9748e65dcef89a47f880d0cb9a59782fe2c99d4
 original_content: "<div  class=\"wpb_row vc_row vc_row-fluid  mk-fullwidth-false  attched-false

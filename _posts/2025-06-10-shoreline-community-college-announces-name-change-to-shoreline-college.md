@@ -1,5 +1,8 @@
 ---
 date: '2025-06-10T16:55:50+00:00'
+events:
+- 2026-01-01-brand-launch
+events_extracted: true
 images: []
 original_content: '<div class="wp-rss-image" style="margin-bottom:20px;max-width:
   600px !important;padding-top: 0.75em;"><img width="400" height="267" src="https://i0.wp.com/news.shoreline.edu/wp-content/uploads/2025/06/Catalog-1-scaled.jpg?fit=400%2C267&amp;ssl=1"

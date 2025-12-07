@@ -1,5 +1,7 @@
 ---
 date: '2025-06-20T15:58:59+00:00'
+events: []
+events_extracted: true
 images:
 - 245a3dc8bcac6c9e5c288d34be55c24ae0a6fcb822953847bb2197a3fc2b1562
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Affordable

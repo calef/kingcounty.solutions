@@ -1,5 +1,7 @@
 ---
 date: '2025-03-06T19:40:01-08:00'
+events: []
+events_extracted: true
 images: []
 original_content: December 2024The sights, sounds, and delicious smells of Christmas
   have filled Sacha's House this month. Laughter and carols, flickering lights and

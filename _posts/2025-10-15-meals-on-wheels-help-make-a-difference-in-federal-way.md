@@ -1,5 +1,7 @@
 ---
 date: '2025-10-15T16:05:00+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: "<p><strong>Program:</strong> Meals on Wheels<br /><strong>Location:</strong> Federal
   Way<br /><strong>Duration:</strong> Ongoing<br /><strong>Group or Individual:</strong> Individual<br

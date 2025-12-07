@@ -1,5 +1,7 @@
 ---
 date: '2025-11-18T06:00:00-05:00'
+events: []
+events_extracted: true
 images: []
 original_content: '<div><p style="color: #4aa564;">BMC Pregnancy Childbirth. 2025
   Nov 17;25(1):1213. doi: 10.1186/s12884-025-08370-w.</p><p><b>ABSTRACT</b></p><p

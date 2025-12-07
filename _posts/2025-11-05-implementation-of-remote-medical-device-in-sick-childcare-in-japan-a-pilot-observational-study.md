@@ -1,5 +1,7 @@
 ---
 date: '2025-11-05T06:00:00-05:00'
+events: []
+events_extracted: true
 images: []
 original_content: '<div><p style="color: #4aa564;">Pediatr Int. 2025 Jan-Dec;67(1):e70247.
   doi: 10.1111/ped.70247.</p><p><b>NO ABSTRACT</b></p><p style="color: lightgray">PMID:<a

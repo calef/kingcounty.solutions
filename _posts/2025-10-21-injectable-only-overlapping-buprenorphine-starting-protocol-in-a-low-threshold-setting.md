@@ -1,5 +1,7 @@
 ---
 date: '2025-10-21T22:24:45+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: DESC’s innovative new method for administering opioid use disorder
   treatment was published in JAMA Network Open. Assessing the outcomes associated

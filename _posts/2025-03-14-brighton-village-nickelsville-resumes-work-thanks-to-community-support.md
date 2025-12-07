@@ -1,5 +1,7 @@
 ---
 date: '2025-03-14T07:00:00+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: We're pleased to report that we received word yesterday that the
   City of Seattle's Human Services Department has given Nickelsville the...

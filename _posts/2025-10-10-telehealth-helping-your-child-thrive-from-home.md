@@ -1,5 +1,7 @@
 ---
 date: '2025-10-10T17:28:10+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: "### ![](https://encompassnw.org/wp-content/uploads/2025/10/Telehealth_1-300x300.png)Therapy
   That Works with Your Life\n\n#### ![❄](https://s.w.org/images/core/emoji/16.0.1/72x72/2744.png)
