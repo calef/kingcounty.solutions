@@ -64,6 +64,27 @@ layout: default
   <div class="post-content e-content" itemprop="articleBody">
     {{ content }}
 
+    {% if page.events and page.events.size > 0 %}
+      <section class="related-events">
+        <h2>Related Events</h2>
+        <ul>
+          {% for event_id in page.events %}
+            {% assign event_doc = site.events | where: "slug", event_id | first %}
+            {% if event_doc %}
+              <li>
+                <a href="{{ event_doc.url | relative_url }}">{{ event_doc.title }}</a>
+                {% if event_doc.start_date %}
+                  • <time datetime="{{ event_doc.start_date | date_to_xmlschema }}">
+                    {% include ap-date.html value=event_doc.start_date %}
+                  </time>
+                {% endif %}
+              </li>
+            {% endif %}
+          {% endfor %}
+        </ul>
+      </section>
+    {% endif %}
+
     {% if page.images and page.images.size > 0 %}
       {% assign post_carousel_images = '' | split: '' %}
       {% for image_id in page.images %}

@@ -13,6 +13,7 @@ module Mayhem
       POSTS_DIR = '_posts'
       IMAGES_DIR = '_images'
       IMAGE_ASSETS_DIR = File.join('assets', 'images')
+      EVENTS_DIR = '_events'
       DEFAULT_MAX_AGE_DAYS = 365
       CONFIG_PATH = File.expand_path('../../../_config.yml', __dir__)
 
@@ -20,6 +21,7 @@ module Mayhem
         posts_dir: POSTS_DIR,
         images_dir: IMAGES_DIR,
         assets_dir: IMAGE_ASSETS_DIR,
+        events_dir: EVENTS_DIR,
         config_path: CONFIG_PATH,
         logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'),
         clock: -> { Time.now }
@@ -27,6 +29,7 @@ module Mayhem
         @posts_dir = posts_dir
         @images_dir = images_dir
         @assets_dir = assets_dir
+        @events_dir = events_dir
         @config_path = config_path
         @logger = logger
         @clock = clock
@@ -44,12 +47,18 @@ module Mayhem
         excluded_paths = posts.to_set { |entry| entry[:path] }
         remaining_image_refs = remaining_image_counts(excluded_paths)
 
+        # Collect event IDs from posts being removed
+        removed_event_ids = posts.flat_map { |entry| entry[:events] }.uniq.compact
+
         posts.each do |entry|
           @logger.info "Removing post #{File.basename(entry[:path])}"
           remove_file(entry[:path])
         end
 
         removed_images = cleanup_images(posts.flat_map { |entry| entry[:images] }.uniq, remaining_image_refs)
+
+        # Clean up events generated from removed posts
+        cleanup_generated_events(removed_event_ids) if removed_event_ids.any?
 
         @logger.info "Removed #{posts.size} post#{'s' unless posts.size == 1} older than #{max_age_days} days."
         @logger.info "Removed #{removed_images.size} image metadata entr#{removed_images.size == 1 ? 'y' : 'ies'}."
@@ -84,7 +93,11 @@ module Mayhem
           next unless published_at
           next unless published_at < cutoff
 
-          memo << { path: path, images: collect_image_ids(document.front_matter) }
+          memo << {
+            path: path,
+            images: collect_image_ids(document.front_matter),
+            events: collect_event_ids(document.front_matter)
+          }
         end
       end
 
@@ -99,6 +112,10 @@ module Mayhem
 
       def collect_image_ids(front_matter)
         Array(front_matter['images']).map(&:to_s).map(&:strip).reject(&:empty?)
+      end
+
+      def collect_event_ids(front_matter)
+        Array(front_matter['events']).map(&:to_s).map(&:strip).reject(&:empty?)
       end
 
       def remaining_image_counts(excluded_paths)
@@ -130,6 +147,48 @@ module Mayhem
         FileUtils.rm(path)
       rescue Errno::ENOENT
         # already removed
+      end
+
+      def cleanup_generated_events(event_ids)
+        removed = 0
+        # Get all remaining posts and their event references
+        remaining_event_refs = remaining_event_references
+
+        event_ids.each do |event_id|
+          event_path = File.join(@events_dir, "#{event_id}.md")
+          next unless File.exist?(event_path)
+
+          # Only remove events that were generated from posts
+          document = Mayhem::Support::FrontMatterDocument.load(event_path, logger: @logger)
+          next unless document
+          next unless document.front_matter['generated_from_post'] == true
+
+          # Check if any remaining posts still reference this event
+          if remaining_event_refs[event_id]&.positive?
+            @logger.info "Keeping event #{event_id} (still referenced by #{remaining_event_refs[event_id]} post(s))"
+            next
+          end
+
+          remove_file(event_path)
+          removed += 1
+          @logger.info "Removed generated event #{event_id}"
+        end
+
+        @logger.info "Removed #{removed} generated event#{'s' unless removed == 1}." if removed.positive?
+      end
+
+      def remaining_event_references
+        counts = Hash.new(0)
+        Dir.glob(File.join(@posts_dir, '*.md')).each do |path|
+          document = Mayhem::Support::FrontMatterDocument.load(path, logger: @logger)
+          next unless document
+
+          events = document.front_matter['events']
+          next unless events.is_a?(Array)
+
+          events.each { |event_id| counts[event_id] += 1 }
+        end
+        counts
       end
     end
   end

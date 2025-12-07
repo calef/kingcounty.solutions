@@ -11,6 +11,7 @@ class PostsFrontMatterTest < Minitest::Test
     @organization_titles = load_titles('_organizations/*.md')
     @topic_titles = load_titles('_topics/*.md')
     @image_checksums = load_field_values('_images/*.md', 'checksum')
+    @event_slugs = load_event_slugs('_events/*.md')
   end
 
   def test_title_is_required
@@ -154,6 +155,33 @@ class PostsFrontMatterTest < Minitest::Test
     assert_empty errors, "Image issues:\n#{errors.join("\n")}"
   end
 
+  def test_events_reference_known_event_files
+    errors = []
+
+    posts.each do |doc|
+      events = doc[:data]['events']
+      next unless events
+
+      unless events.is_a?(Array)
+        errors << "#{doc[:path]} events must be a list (empty list allowed)"
+        next
+      end
+
+      events.each do |event_id|
+        unless event_id.is_a?(String)
+          errors << "#{doc[:path]} has non-string event reference #{event_id.inspect}"
+          next
+        end
+
+        next if event_slugs.include?(event_id)
+
+        errors << "#{doc[:path]} references missing event #{event_id}"
+      end
+    end
+
+    assert_empty errors, "Event reference issues:\n#{errors.join("\n")}"
+  end
+
   def test_unpublished_posts_have_no_images
     errors = []
 
@@ -176,9 +204,7 @@ class PostsFrontMatterTest < Minitest::Test
       topics = doc[:data]['topics']
       next unless topics.is_a?(Array) && topics.empty?
 
-      unless doc[:data]['published'] == false
-        errors << "#{doc[:path]} must set published: false when topics list is empty"
-      end
+      errors << "#{doc[:path]} must set published: false when topics list is empty" unless doc[:data]['published'] == false
     end
 
     assert_empty errors, "Topic-only publish issues:\n#{errors.join("\n")}"
@@ -222,7 +248,7 @@ class PostsFrontMatterTest < Minitest::Test
 
   private
 
-  attr_reader :posts, :organization_titles, :topic_titles, :image_checksums
+  attr_reader :posts, :organization_titles, :topic_titles, :image_checksums, :event_slugs
 
   def load_documents(glob)
     Dir[glob].map do |path|
@@ -260,6 +286,14 @@ class PostsFrontMatterTest < Minitest::Test
       next unless value.is_a?(String)
 
       values << value
+    end
+  end
+
+  def load_event_slugs(glob)
+    Dir[glob].each_with_object(Set.new) do |path, slugs|
+      # Extract slug from filename (e.g., "_events/2025-12-15-meeting.md" -> "2025-12-15-meeting")
+      slug = File.basename(path, '.md')
+      slugs << slug
     end
   end
 
