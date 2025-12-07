@@ -71,6 +71,74 @@ class ContentAgeEnforcerTest < Minitest::Test
     assert_empty Dir.glob(File.join(@assets_dir, "#{unique_image}.*"))
   end
 
+  def test_removes_generated_events_when_post_removed
+    write_config(content_max_age_days: 30)
+    events_dir = File.join(@tmpdir, '_events')
+    FileUtils.mkdir_p(events_dir)
+
+    # Create old post with event references
+    old_post = write_post_with_events('2025-01-01-old.md', 300, %w[event1 event2])
+
+    # Create the events (one generated, one not)
+    event1 = write_event(events_dir, 'event1', generated: true)
+    event2 = write_event(events_dir, 'event2', generated: false)
+
+    enforcer = Mayhem::News::ContentAgeEnforcer.new(
+      posts_dir: @posts_dir,
+      images_dir: @images_dir,
+      assets_dir: @assets_dir,
+      events_dir: events_dir,
+      config_path: @config_path,
+      logger: @logger,
+      clock: -> { @reference_time }
+    )
+
+    enforcer.run
+
+    # Post should be removed
+    refute_path_exists old_post
+
+    # Generated event should be removed
+    refute_path_exists event1
+
+    # Non-generated event should remain
+    assert_path_exists event2
+  end
+
+  def test_keeps_generated_events_with_remaining_post_references
+    write_config(content_max_age_days: 30)
+    events_dir = File.join(@tmpdir, '_events')
+    FileUtils.mkdir_p(events_dir)
+
+    # Create two posts that reference the same event
+    old_post = write_post_with_events('2025-01-01-old.md', 300, ['shared-event'])
+    new_post = write_post_with_events('2025-12-01-new.md', 10, ['shared-event'])
+
+    # Create the shared generated event
+    shared_event = write_event(events_dir, 'shared-event', generated: true)
+
+    enforcer = Mayhem::News::ContentAgeEnforcer.new(
+      posts_dir: @posts_dir,
+      images_dir: @images_dir,
+      assets_dir: @assets_dir,
+      events_dir: events_dir,
+      config_path: @config_path,
+      logger: @logger,
+      clock: -> { @reference_time }
+    )
+
+    enforcer.run
+
+    # Old post should be removed
+    refute_path_exists old_post
+
+    # New post should remain
+    assert_path_exists new_post
+
+    # Shared event should remain because new post still references it
+    assert_path_exists shared_event
+  end
+
   private
 
   def write_config(options = {})
@@ -85,6 +153,28 @@ class ContentAgeEnforcerTest < Minitest::Test
       'images' => images
     }
     path = File.join(@posts_dir, filename)
+    File.write(path, Mayhem::Support::FrontMatterDocument.build_markdown(front_matter, ''))
+    path
+  end
+
+  def write_post_with_events(filename, days_ago, events)
+    date = @reference_time - (days_ago * 24 * 60 * 60)
+    front_matter = {
+      'date' => date.iso8601,
+      'events' => events
+    }
+    path = File.join(@posts_dir, filename)
+    File.write(path, Mayhem::Support::FrontMatterDocument.build_markdown(front_matter, ''))
+    path
+  end
+
+  def write_event(events_dir, id, generated:)
+    front_matter = {
+      'title' => "Event #{id}",
+      'start_date' => (@reference_time + 86_400).iso8601
+    }
+    front_matter['generated_from_post'] = true if generated
+    path = File.join(events_dir, "#{id}.md")
     File.write(path, Mayhem::Support::FrontMatterDocument.build_markdown(front_matter, ''))
     path
   end
