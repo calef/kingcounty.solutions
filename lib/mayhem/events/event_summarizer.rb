@@ -57,6 +57,11 @@ module Mayhem
         end
 
         front_matter = document.front_matter
+        if front_matter['locked'] == true
+          @logger.debug "Skipping #{file_path}: locked is true"
+          stats[:skipped_locked] += 1
+          return
+        end
         if front_matter['summarized'] == true
           stats[:skipped_already_summarized] += 1
           return
@@ -187,6 +192,7 @@ module Mayhem
         summary_fields = {
           updated: stats[:updated],
           skipped_no_frontmatter: stats[:skipped_no_frontmatter],
+          skipped_locked: stats[:skipped_locked],
           skipped_already_summarized: stats[:skipped_already_summarized],
           skipped_missing_source: stats[:skipped_missing_source],
           failed_summary: stats[:failed_summary],

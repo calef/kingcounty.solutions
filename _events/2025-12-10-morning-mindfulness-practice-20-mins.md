@@ -2,6 +2,7 @@
 end_date: '2025-12-10T09:20:00-08:00'
 images: []
 location: ''
+locked: true
 original_content: <meta><meta><meta><meta><meta><link><link><link><link><link><meta><meta><meta><title>Join
   conversation</title><script>window.I18NBUNDLE={hdr_launch_title:"Join conversation",hdr_launch_title_meeting:"Join
   meeting",hdr_launch_title_broadcast:"Join live event",hdr_broadcast_title:"Join

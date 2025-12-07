@@ -20,6 +20,7 @@ class RssImporterTest < Minitest::Test
     MD
     File.write(File.join(@tmp_orgs, 'test-org.md'), org)
 
+    @published_time = Time.now.utc - 24 * 60 * 60
     # simple feed with one item with relative link
     @feed_body = <<~XML
       <?xml version="1.0" encoding="UTF-8" ?>
@@ -29,7 +30,7 @@ class RssImporterTest < Minitest::Test
           <item>
             <title>Test Item</title>
             <link>/posts/1</link>
-            <pubDate>#{Time.now.rfc2822}</pubDate>
+            <pubDate>#{@published_time.rfc2822}</pubDate>
             <description><![CDATA[<p>Original HTML</p>]]></description>
           </item>
         </channel>
@@ -61,5 +62,29 @@ class RssImporterTest < Minitest::Test
     content = File.read(files.first)
 
     assert_includes content, 'source_url: https://example.com/posts/1'
+  end
+
+  def test_respects_locked_flag
+    locked_path = File.join(@tmp_posts, "#{@published_time.strftime('%Y-%m-%d')}-test-item.md")
+    File.write(
+      locked_path,
+      <<~MD
+        ---
+        title: Locked version
+        date: '#{@published_time.strftime("%Y-%m-%dT%H:%M:%S+00:00")}'
+        source_url: https://example.com/locked
+        original_content: Locked body
+        locked: true
+        ---
+        Locked summary
+      MD
+    )
+
+    original_content = File.read(locked_path)
+    @importer.run
+
+    files = Dir.glob(File.join(@tmp_posts, '*.md'))
+    assert_equal 1, files.length
+    assert_equal original_content, File.read(locked_path)
   end
 end

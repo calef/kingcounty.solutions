@@ -53,6 +53,9 @@ module Mayhem
       end
 
       DEFAULT_CONFIG_PATH = File.expand_path('../../../_config.yml', __dir__)
+      CANONICAL_REDIRECT_HOSTS = %w[
+        pubmed.ncbi.nlm.nih.gov
+      ].freeze
 
       def initialize(
         news_dir: DEFAULT_NEWS_DIR,
@@ -143,6 +146,7 @@ module Mayhem
         link_url = item_link_url(item)
         normalized = Mayhem::Support::UrlNormalizer.normalize(link_url,
                                                               base: source_frontmatter && source_frontmatter['website'])
+        normalized = canonical_link(normalized)
         if normalized.to_s.strip.empty?
           stats[:missing_link] += 1
           return
@@ -166,7 +170,22 @@ module Mayhem
         end
 
         original_html = item_content_html(item).to_s.strip
-        original_html = fetch_article_body_html(normalized).to_s.strip if original_html.empty? && normalized
+        body_data = nil
+        if normalized && (original_html.empty? || canonical_redirect_host?(normalized))
+          body_data = fetch_article_body(normalized)
+          fetched_html = body_data[:html].to_s.strip
+          original_html = fetched_html if original_html.empty?
+        end
+        if body_data && body_data[:canonical_url]
+          updated = canonical_link(normalized, html_canonical: body_data[:canonical_url])
+          if updated && updated != normalized
+            normalized = updated
+            if duplicate_post?(normalized)
+              stats[:duplicates] += 1
+              return
+            end
+          end
+        end
         if original_html.empty?
           stats[:empty_content] += 1
           return
@@ -185,6 +204,8 @@ module Mayhem
           stats[:skipped_unpublished] += 1
         when :skipped_unchanged
           stats[:unchanged] += 1
+        when :skipped_locked
+          stats[:locked] += 1
         end
       end
 
@@ -215,6 +236,12 @@ module Mayhem
         )
         filename = File.join(@news_dir, "#{date_prefix}-#{title_slug}.md")
 
+        if locked_post?(filename)
+          @logger.info "Skipping update for locked post #{filename}"
+          register_post(link_url)
+          return :skipped_locked
+        end
+
         if Mayhem::Support::PublishGuard.unpublished?(filename, logger: @logger)
           @logger.info "Skipping update for unpublished post #{filename}"
           register_post(link_url)
@@ -243,6 +270,10 @@ module Mayhem
         document.save
         register_post(link_url)
         :created
+      end
+
+      def locked_post?(filename)
+        Mayhem::Support::FrontMatterDocument.locked?(filename, logger: @logger)
       end
 
       def published_at(item)
@@ -282,19 +313,6 @@ module Mayhem
         data && data['rss_max_item_age_days']
       rescue StandardError => e
         @logger&.warn("Failed to read config #{config_path}: #{e.message}")
-        nil
-      end
-
-      def fetch_article_body_html(url)
-        return nil unless url
-
-        @content_fetcher.fetch(url)[:html]
-      rescue OpenURI::HTTPError, OpenSSL::SSL::SSLError, SocketError,
-             Net::OpenTimeout, Net::ReadTimeout => e
-        @logger.warn "Failed to fetch article body (#{url}): #{e.message}"
-        nil
-      rescue StandardError => e
-        @logger.error "Unexpected error scraping #{url}: #{e.message}"
         nil
       end
 
@@ -350,7 +368,8 @@ module Mayhem
           missing_publish_date: 'missing_date',
           empty_content: 'no_content',
           skipped_unpublished: 'unpublished_locked',
-          unchanged: 'unchanged'
+          unchanged: 'unchanged',
+          locked: 'locked'
         }
         parts = labels.map do |key, label|
           value = stats[key]
@@ -426,8 +445,8 @@ module Mayhem
           fm = doc.front_matter
           next unless fm['original_content']
 
-          url = fm['source_url'].to_s
-          next if url.empty?
+          url = Mayhem::Support::UrlNormalizer.normalize(fm['source_url'])
+          next unless url
 
           memo[url] = true
         end
@@ -453,6 +472,47 @@ module Mayhem
       rescue StandardError => e
         @logger.debug "Failed to compare existing post #{filename}: #{e.message}"
         false
+      end
+
+      def canonical_link(link_url, html_canonical: nil)
+        return link_url if link_url.to_s.empty?
+
+        if html_canonical
+          normalized = Mayhem::Support::UrlNormalizer.normalize(html_canonical)
+          return normalized if normalized
+        end
+
+        return link_url unless canonical_redirect_host?(link_url)
+
+        resolved = @http.resolve_final_url(link_url)
+        normalized = Mayhem::Support::UrlNormalizer.normalize(resolved)
+        normalized || link_url
+      rescue StandardError => e
+        @logger.debug "Failed to canonicalize #{link_url}: #{e.message}"
+        link_url
+      end
+
+      def canonical_redirect_host?(url)
+        return false if url.to_s.empty?
+
+        uri = URI.parse(url)
+        host = uri.host&.downcase
+        host && CANONICAL_REDIRECT_HOSTS.include?(host)
+      rescue StandardError
+        false
+      end
+
+      def fetch_article_body(url)
+        return { html: '', canonical_url: nil } unless url
+
+        @content_fetcher.fetch(url)
+      rescue OpenURI::HTTPError, OpenSSL::SSL::SSLError, SocketError,
+             Net::OpenTimeout, Net::ReadTimeout => e
+        @logger.warn "Failed to fetch article body (#{url}): #{e.message}"
+        { html: '', canonical_url: nil }
+      rescue StandardError => e
+        @logger.error "Unexpected error scraping #{url}: #{e.message}"
+        { html: '', canonical_url: nil }
       end
     end
   end

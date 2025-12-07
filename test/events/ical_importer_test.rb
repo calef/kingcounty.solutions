@@ -157,6 +157,33 @@ class IcalImporterTest < Minitest::Test
     assert_includes content, 'Article body'
   end
 
+  def test_respects_locked_flag
+    locked_path = File.join(@events_dir, '2024-02-12-test-event.md')
+    File.write(
+      locked_path,
+      <<~MD
+        ---
+        title: Locked Event
+        source: Locked Org
+        start_date: '2024-02-12T18:00:00+00:00'
+        end_date: '2024-02-12T20:00:00+00:00'
+        location: Anywhere
+        source_url: https://example.org/events/locked
+        original_content: '<p>Locked</p>'
+        locked: true
+        ---
+        Locked body
+      MD
+    )
+
+    frozen_content = File.read(locked_path)
+    @importer.run
+
+    files = Dir.glob(File.join(@events_dir, '*.md'))
+    assert_equal 1, files.count
+    assert_equal frozen_content, File.read(locked_path)
+  end
+
   def test_uses_canonical_source_url
     canonical = 'https://example.org/events/test?utm=ical'
     @http = StubHttpClient.new(

@@ -136,7 +136,8 @@ module Mayhem
           parse_failed: 'parse_failed',
           write_failed: 'write_failed',
           unpublished: 'unpublished',
-          unchanged: 'unchanged'
+          unchanged: 'unchanged',
+          locked: 'locked'
         }
         parts = labels.map do |key, label|
           value = stats[key]
@@ -240,6 +241,12 @@ module Mayhem
         markdown_body = Mayhem::Support::EncodingUtils.ensure_utf8(
           Mayhem::Support::ContentUtils.normalized_markdown(normalized_description)
         )
+
+        if locked_entry?(filename)
+          register_event_url(canonical_url)
+          register_event_url(source_url) unless canonical_url == source_url
+          return skip_event(reason: :locked, reason_detail: filename, stats: stats)
+        end
 
         front_matter = {
           'title' => Mayhem::Support::EncodingUtils.ensure_utf8(summary),
@@ -358,6 +365,10 @@ module Mayhem
         return '' if body.empty?
 
         "\n#{body}\n"
+      end
+
+      def locked_entry?(path)
+        Mayhem::Support::FrontMatterDocument.locked?(path, logger: @logger)
       end
 
       def fetch_event_body(url, stats)

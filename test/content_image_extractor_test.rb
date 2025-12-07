@@ -107,5 +107,42 @@ module News
         assert_equal 1, checksums.length
       end
     end
+
+    def test_skips_locked_entries
+      Dir.mktmpdir do |dir|
+        posts_dir = File.join(dir, 'posts')
+        images_dir = File.join(dir, 'images')
+        assets_dir = File.join(dir, 'assets')
+        FileUtils.mkdir_p(posts_dir)
+
+        post_path = File.join(posts_dir, 'locked.md')
+        File.write(
+          post_path,
+          <<~MD
+            ---
+            title: Locked Post
+            source: Example Org
+            source_url: https://example.org/post
+            original_markdown_body: "![Alt](https://example.org/image.png)"
+            locked: true
+            ---
+            Body
+          MD
+        )
+
+        extractor = Mayhem::Content::ContentImageExtractor.new(
+          posts_dir: posts_dir,
+          events_dir: nil,
+          image_docs_dir: images_dir,
+          asset_dir: assets_dir,
+          logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL')
+        )
+
+        extractor.run
+
+        document = Mayhem::Support::FrontMatterDocument.load(post_path)
+        assert_nil document.front_matter['images']
+      end
+    end
   end
 end
