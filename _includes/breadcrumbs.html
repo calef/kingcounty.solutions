@@ -7,12 +7,14 @@
   Always add Home as the root unless we're only showing "Home" as current
   (which means we're on the home page)
 {% endcomment %}
-{% unless include.current == "Home" and root_label == nil %}
+{% if include.current == "Home" and include.root_label == nil %}
+  {% comment %}On home page, don't add Home link{% endcomment %}
+{% else %}
   {% capture home_snippet %}
     <a href="{{ '/' | relative_url }}">Home</a>
   {% endcapture %}
   {% assign rendered = rendered | push: home_snippet %}
-{% endunless %}
+{% endif %}
 
 {% if root_label %}
   {% capture root_snippet %}
