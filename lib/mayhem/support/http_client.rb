@@ -3,6 +3,7 @@
 require 'net/http'
 require 'openssl'
 require 'uri'
+require 'time'
 require 'nokogiri'
 require 'open-uri'
 require 'mayhem/logging'
@@ -22,7 +23,8 @@ module Mayhem
         allow_insecure_fallback: true,
         max_retries: 3,
         retry_initial_delay: 0.5,
-        retry_backoff_factor: 2.0
+        retry_backoff_factor: 2.0,
+        too_many_requests_delay: 60
       }.freeze
 
       RETRYABLE_ERRORS = [
@@ -37,12 +39,25 @@ module Mayhem
         Errno::ETIMEDOUT
       ].freeze
 
+      class TooManyRequestsError < StandardError
+        attr_reader :retry_after, :url, :origin_url, :operation
+
+        def initialize(url:, retry_after:, origin_url:, operation:)
+          super("HTTP 429 Too Many Requests for #{url}")
+          @url = url
+          @retry_after = retry_after
+          @origin_url = origin_url
+          @operation = operation
+        end
+      end
+
       def initialize(user_agent: UA, delay: DEFAULTS[:delay], max_redirects: DEFAULTS[:max_redirects],
                      timeout: nil, open_timeout: nil, read_timeout: nil,
                      max_retries: DEFAULTS[:max_retries],
                      retry_initial_delay: DEFAULTS[:retry_initial_delay],
                      retry_backoff_factor: DEFAULTS[:retry_backoff_factor],
                      allow_insecure_fallback: DEFAULTS[:allow_insecure_fallback],
+                     too_many_requests_delay: DEFAULTS[:too_many_requests_delay],
                      logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'))
         @user_agent = user_agent
         @delay = delay
@@ -55,15 +70,30 @@ module Mayhem
         @max_retries = [max_retries.to_i, 1].max
         @retry_initial_delay = retry_initial_delay
         @retry_backoff_factor = retry_backoff_factor
+        @too_many_requests_delay = too_many_requests_delay
       end
 
       def fetch(url, accept:, max_bytes:)
         attempt = 0
         begin
           attempt += 1
-          response = perform_request(url, accept, max_bytes, @max_redirects)
+          response = perform_request(
+            url,
+            accept,
+            max_bytes,
+            @max_redirects,
+            origin_url: url,
+            operation: 'content_fetch'
+          )
           sleep @delay
           response
+        rescue TooManyRequestsError => e
+          raise if attempt >= @max_retries
+
+          wait = e.retry_after || @too_many_requests_delay
+          log_too_many_requests_backoff(e, wait, attempt: attempt, max_attempts: @max_retries)
+          sleep wait
+          retry
         rescue *RETRYABLE_ERRORS => e
           raise if attempt >= @max_retries
 
@@ -82,7 +112,7 @@ module Mayhem
         begin
           attempt += 1
           uri = URI.parse(url)
-          result = follow_head_redirect(uri, @max_redirects)
+          result = follow_head_redirect(uri, @max_redirects, origin_url: url, operation: 'canonical_head')
           return unless result
 
           status = result[:status]
@@ -90,6 +120,13 @@ module Mayhem
 
           @logger.debug "Skipping canonical redirect for #{url} due to status #{status}" if status
           nil
+        rescue TooManyRequestsError => e
+          raise if attempt >= @max_retries
+
+          wait = e.retry_after || @too_many_requests_delay
+          log_too_many_requests_backoff(e, wait, attempt: attempt, max_attempts: @max_retries)
+          sleep wait
+          retry
         rescue *RETRYABLE_ERRORS => e
           raise if attempt >= @max_retries
 
@@ -111,10 +148,21 @@ module Mayhem
 
       private
 
-      def perform_request(url, accept, max_bytes, remaining_redirects)
+      def perform_request(url, accept, max_bytes, remaining_redirects, origin_url:, operation:)
         uri = URI.parse(url)
         response, body = execute_request(uri, accept, max_bytes)
-        return follow_redirect(response, uri, accept, max_bytes, remaining_redirects) if response.is_a?(Net::HTTPRedirection)
+        if response.is_a?(Net::HTTPRedirection)
+          return follow_redirect(
+            response,
+            uri,
+            accept,
+            max_bytes,
+            remaining_redirects,
+            origin_url: origin_url,
+            operation: operation
+          )
+        end
+        raise_too_many_requests(response, uri, origin_url: origin_url, operation: operation) if response.code.to_i == 429
 
         {
           body: body,
@@ -135,14 +183,21 @@ module Mayhem
         retry_without_verification_head(uri, retried, e)
       end
 
-      def follow_redirect(response, uri, accept, max_bytes, remaining_redirects)
+      def follow_redirect(response, uri, accept, max_bytes, remaining_redirects, origin_url:, operation:)
         raise 'Too many redirects' if remaining_redirects <= 0
 
         location = response['location']
         raise 'Redirect missing location header' unless location
 
         new_url = Mayhem::Support::UrlUtils.absolutize(uri.to_s, location) || location
-        perform_request(new_url, accept, max_bytes, remaining_redirects - 1)
+        perform_request(
+          new_url,
+          accept,
+          max_bytes,
+          remaining_redirects - 1,
+          origin_url: origin_url,
+          operation: operation
+        )
       end
 
       def configure_timeouts(http)
@@ -242,9 +297,10 @@ module Mayhem
         )
       end
 
-      def follow_head_redirect(uri, remaining_redirects, verify_mode: OpenSSL::SSL::VERIFY_PEER)
+      def follow_head_redirect(uri, remaining_redirects, origin_url:, operation:, verify_mode: OpenSSL::SSL::VERIFY_PEER)
         response = execute_head_request(uri, verify_mode: verify_mode)
         status_code = response&.code&.to_i
+        raise_too_many_requests(response, uri, origin_url: origin_url, operation: operation) if status_code == 429
         if response.is_a?(Net::HTTPRedirection)
           raise 'Too many redirects' if remaining_redirects <= 0
 
@@ -253,10 +309,57 @@ module Mayhem
 
           new_url = Mayhem::Support::UrlUtils.absolutize(uri.to_s, location) || location
           new_uri = URI.parse(new_url)
-          follow_head_redirect(new_uri, remaining_redirects - 1, verify_mode: verify_mode)
+          follow_head_redirect(
+            new_uri,
+            remaining_redirects - 1,
+            verify_mode: verify_mode,
+            origin_url: origin_url,
+            operation: operation
+          )
         else
           { url: uri.to_s, status: status_code }
         end
+      end
+
+      def log_too_many_requests_backoff(error, wait, attempt:, max_attempts:)
+        operation = error.operation || 'unknown'
+        origin = error.origin_url || 'unknown'
+        request = error.url || 'unknown'
+        @logger.warn(
+          "Backoff after 429 during #{operation} " \
+          "(origin=#{origin}, request=#{request}) for #{format('%.2f', wait)}s " \
+          "(attempt #{attempt}/#{max_attempts})"
+        )
+      end
+
+      def raise_too_many_requests(response, uri, origin_url:, operation:)
+        wait = too_many_requests_delay(response)
+        raise TooManyRequestsError.new(
+          url: uri.to_s,
+          retry_after: wait,
+          origin_url: origin_url,
+          operation: operation
+        )
+      end
+
+      def too_many_requests_delay(response)
+        header = response&.[]('retry-after')
+        parsed = parse_retry_after(header)
+        wait = parsed || @too_many_requests_delay
+        wait = @too_many_requests_delay if wait <= 0
+        wait
+      end
+
+      def parse_retry_after(value)
+        return nil unless value
+
+        if value.match?(/\A\d+\z/)
+          value.to_i
+        else
+          (Time.httpdate(value) - Time.now).ceil
+        end
+      rescue ArgumentError
+        nil
       end
     end
   end

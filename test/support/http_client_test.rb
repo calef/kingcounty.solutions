@@ -80,7 +80,15 @@ class HttpClientTest < Minitest::Test
       end
     end
 
-    result = @client.send(:perform_request, 'http://example.com', 'text/plain', 10, 5)
+    result = @client.send(
+      :perform_request,
+      'http://example.com',
+      'text/plain',
+      10,
+      5,
+      origin_url: 'http://example.com',
+      operation: 'test'
+    )
 
     assert_equal 'ok', result[:body]
     assert_equal 'https://example.com/final', result[:final_url]
@@ -89,12 +97,34 @@ class HttpClientTest < Minitest::Test
   def test_missing_location_raises
     redir = DummyResponse.new([], code: '302', headers: {})
     @client.define_singleton_method(:execute_request) { |*| [redir, ''] }
-    assert_raises(RuntimeError) { @client.send(:follow_redirect, redir, URI.parse('http://a'), 'text/plain', 10, 1) }
+    assert_raises(RuntimeError) do
+      @client.send(
+        :follow_redirect,
+        redir,
+        URI.parse('http://a'),
+        'text/plain',
+        10,
+        1,
+        origin_url: 'http://origin',
+        operation: 'test'
+      )
+    end
   end
 
   def test_too_many_redirects_raises
     redir = DummyResponse.new([], code: '302', headers: { 'location' => 'x' })
-    assert_raises(RuntimeError) { @client.send(:follow_redirect, redir, URI.parse('http://a'), 'text/plain', 10, 0) }
+    assert_raises(RuntimeError) do
+      @client.send(
+        :follow_redirect,
+        redir,
+        URI.parse('http://a'),
+        'text/plain',
+        10,
+        0,
+        origin_url: 'http://origin',
+        operation: 'test'
+      )
+    end
   end
 
   def test_retry_without_verification_and_terminal
