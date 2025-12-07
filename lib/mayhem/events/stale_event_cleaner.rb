@@ -11,13 +11,16 @@ module Mayhem
   module Events
     class StaleEventCleaner
       EVENTS_DIR = '_events'
+      POSTS_DIR = '_posts'
 
       def initialize(
         events_dir: EVENTS_DIR,
+        posts_dir: POSTS_DIR,
         logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'),
         clock: -> { Time.now }
       )
         @events_dir = events_dir
+        @posts_dir = posts_dir
         @logger = logger
         @clock = clock
       end
@@ -31,10 +34,14 @@ module Mayhem
           next unless event_time
           next unless event_time < current_time
 
+          event_id = File.basename(path, '.md')
           remove_file(path)
-          removed << path
+          removed << event_id
           @logger.info "Removed past event #{File.basename(path)}"
         end
+
+        # Clean up event references from posts
+        clean_post_event_links(removed) if removed.any?
 
         if removed.empty?
           @logger.info 'No past events were removed.'
@@ -75,6 +82,34 @@ module Mayhem
         FileUtils.rm(path)
       rescue Errno::ENOENT
         # already removed
+      end
+
+      def clean_post_event_links(removed_event_ids)
+        removed_set = removed_event_ids.to_set
+        posts_updated = 0
+
+        Dir.glob(File.join(@posts_dir, '*.md')).each do |post_path|
+          document = Mayhem::Support::FrontMatterDocument.load(post_path, logger: @logger)
+          next unless document
+
+          front_matter = document.front_matter
+          events = front_matter['events']
+          next unless events.is_a?(Array)
+          next if events.empty?
+
+          original_size = events.size
+          updated_events = events.reject { |event_id| removed_set.include?(event_id) }
+
+          next unless updated_events.size < original_size
+
+          front_matter['events'] = updated_events
+          document.front_matter = front_matter
+          document.save
+          posts_updated += 1
+          @logger.info "Cleaned event links from #{File.basename(post_path)}"
+        end
+
+        @logger.info "Updated #{posts_updated} post#{'s' unless posts_updated == 1} to remove deleted event links." if posts_updated.positive?
       end
     end
   end
