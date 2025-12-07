@@ -605,6 +605,10 @@
   display: none;
 }
 
+.media-carousel[data-slide-count="1"] .media-carousel-controls {
+  justify-content: center;
+}
+
 @include media-query($on-palm) {
   .media-carousel-caption {
     font-size: 0.9rem;
