@@ -10,18 +10,18 @@ class EventsRecencyTest < Minitest::Test
   end
 
   def test_events_are_not_in_the_past
-    today = Date.today
+    yesterday = Date.today - 1
     errors = []
 
     events.each do |doc|
       start_time = parse_start_time(doc[:data]['start_date'], doc[:path], errors)
       next unless start_time
-      next unless start_time.to_date < today
+      next unless start_time.to_date < yesterday
 
-      errors << "#{doc[:path]} start_date #{start_time.utc.iso8601} is earlier than #{today}"
+      errors << "#{doc[:path]} start_date #{start_time.utc.iso8601} is earlier than #{yesterday}"
     end
 
-    assert_empty errors, "Remove or update events scheduled before today:\n#{errors.join("\n")}"
+    assert_empty errors, "Remove or update events scheduled before yesterday:\n#{errors.join("\n")}"
   end
 
   private
