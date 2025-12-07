@@ -70,17 +70,28 @@ module Mayhem
         needs_topics = Array(front_matter['topics']).empty?
         return unless needs_summary || needs_topics
 
+        generated_from_post = front_matter['generated_from_post'] == true
         source_url = front_matter['source_url']
         article_text = nil
+
         if needs_summary
-          if source_url.to_s.strip.empty?
+          # For events generated from posts, use the existing body instead of fetching source_url
+          if generated_from_post
+            article_text = document.body.to_s.strip
+            if article_text.empty?
+              @logger.warn "Skipping #{file_path}: generated from post but has no body"
+              stats[:skipped_missing_body] += 1
+              return unless needs_topics
+            end
+          elsif source_url.to_s.strip.empty?
             @logger.warn "Skipping #{file_path}: no source_url"
             stats[:skipped_missing_source] += 1
             return unless needs_topics
           else
             article_text = fetch_article_text(source_url)
+            article_text = document.body.to_s.strip if article_text.to_s.strip.empty?
           end
-          article_text = document.body.to_s.strip if article_text.to_s.strip.empty?
+
           if article_text && article_text.length > MAX_ARTICLE_CHARS
             @logger.info "Truncating #{file_path} article text from #{article_text.length} to #{MAX_ARTICLE_CHARS} chars"
             article_text = article_text[0, MAX_ARTICLE_CHARS]
@@ -89,7 +100,7 @@ module Mayhem
         article_text ||= document.body.to_s.strip
 
         summary_text = if needs_summary
-                         summary = generate_summary(article_text, front_matter, file_path)
+                         summary = generate_summary(article_text, front_matter, file_path, generated_from_post: generated_from_post)
                          if summary.to_s.strip.empty?
                            stats[:failed_summary] += 1
                            return
@@ -126,24 +137,45 @@ module Mayhem
         @logger.error "Error processing #{file_path}: #{e.class} - #{e.message}"
       end
 
-      def generate_summary(article_text, front_matter, file_path)
-        prompt = <<~PROMPT
-          Summarize the following event for a community calendar in 150 words or less using Markdown paragraphs, following The Associated Press Stylebook.
+      def generate_summary(article_text, front_matter, file_path, generated_from_post: false)
+        if generated_from_post
+          prompt = <<~PROMPT
+            Refine the following event description for a community calendar in 150 words or less using Markdown paragraphs, following The Associated Press Stylebook.
 
-          Event title: #{front_matter['title']}
-          Starts at: #{front_matter['start_date']}
-          Location: #{front_matter['location']}
+            Event title: #{front_matter['title']}
+            Starts at: #{front_matter['start_date']}
+            Location: #{front_matter['location']}
 
-          In the summary:
-            1. Emphasize what attendees can expect or do at the event.
-            2. Mention the start date (and end date if it differs) plus the location in natural language.
-            3. Do not include links, lists, headings, or code fences.
-            4. Always write in English even if the source content is in another language.
-            5. Do not describe the summarization process—write directly about the event.
+            Current event description:
+            #{article_text}
 
-          EVENT DETAILS:
-          #{article_text}
-        PROMPT
+            In the refined description:
+              1. Focus on what attendees can expect or do at this specific event.
+              2. Mention the start date (and end date if it differs) plus the location in natural language.
+              3. Do not include links, lists, headings, or code fences.
+              4. Always write in English even if the source content is in another language.
+              5. Write directly about the event itself, not about the news article that announced it.
+              6. Expand on the description if needed to make it more informative and engaging.
+          PROMPT
+        else
+          prompt = <<~PROMPT
+            Summarize the following event for a community calendar in 150 words or less using Markdown paragraphs, following The Associated Press Stylebook.
+
+            Event title: #{front_matter['title']}
+            Starts at: #{front_matter['start_date']}
+            Location: #{front_matter['location']}
+
+            In the summary:
+              1. Emphasize what attendees can expect or do at the event.
+              2. Mention the start date (and end date if it differs) plus the location in natural language.
+              3. Do not include links, lists, headings, or code fences.
+              4. Always write in English even if the source content is in another language.
+              5. Do not describe the summarization process—write directly about the event.
+
+            EVENT DETAILS:
+            #{article_text}
+          PROMPT
+        end
 
         attempts = 0
         while attempts < 3
@@ -195,6 +227,7 @@ module Mayhem
           skipped_locked: stats[:skipped_locked],
           skipped_already_summarized: stats[:skipped_already_summarized],
           skipped_missing_source: stats[:skipped_missing_source],
+          skipped_missing_body: stats[:skipped_missing_body],
           failed_summary: stats[:failed_summary],
           missing_topics: stats[:missing_topics],
           errors: stats[:errors]
