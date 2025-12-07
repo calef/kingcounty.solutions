@@ -1,5 +1,7 @@
 ---
 date: '2025-11-24T06:00:00-05:00'
+events: []
+events_extracted: true
 images: []
 original_content: '<div><p style="color: #4aa564;">J Family Med Prim Care. 2025 Oct;14(10):4267-4274.
   doi: 10.4103/jfmpc.jfmpc_2082_24. Epub 2025 Oct 31.</p><p><b>ABSTRACT</b></p><p

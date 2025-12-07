@@ -1,5 +1,7 @@
 ---
 date: '2025-01-02T17:16:21+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: "![](https://sophiaway.org/wp-content/uploads/2025/01/NL-image-for-blog-2025-01.png)\n\nDear
   Friends,\n\nAs we step into 2025, I am deeply grateful for YOU, our community that

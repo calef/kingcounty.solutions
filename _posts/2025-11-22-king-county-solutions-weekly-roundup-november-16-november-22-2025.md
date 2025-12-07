@@ -1,5 +1,7 @@
 ---
 date: '2025-11-22T18:00:00-08:00'
+events: []
+events_extracted: true
 images: []
 openai_model: gpt-5.1
 source: King County Solutions

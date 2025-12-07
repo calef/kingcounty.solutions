@@ -1,5 +1,7 @@
 ---
 date: '2025-03-27T19:51:02+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p>With your incredible support, we expanded housing services, secured new dedicated resources for veterans and their families, leveraged our expertise, integrated our unique support services to transform and expand resident care models within the affordable housing landscape, and celebrated our rapid rehousing program’s zero percent return-to-homelessness rate for four consecutive years! Our Family Store provided more than 2,200 families with essential items—clothing, diapers, hygiene products, and household supplies—helping them stretch limited resources and direct their finances toward critical expenses that keep them safely and stably housed. At the same time, our Employee Stability Program (ESP) officially began service. It is now in full swing, equipping employers with the tools to help their employees navigate crises and maintain or regain housing stability. Our Early Learning Center proudly graduated eleven children prepared to succeed in kindergarten and beyond, and equipped their parents and caregivers with the support and resources they need to continue their journey towards a stronger future.</p>

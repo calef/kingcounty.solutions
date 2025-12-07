@@ -1,5 +1,7 @@
 ---
 date: '2025-10-31T02:22:29+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p></p>

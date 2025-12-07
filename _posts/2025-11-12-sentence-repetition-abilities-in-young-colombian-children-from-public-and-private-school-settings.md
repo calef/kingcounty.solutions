@@ -1,5 +1,7 @@
 ---
 date: '2025-11-12T06:00:00-05:00'
+events: []
+events_extracted: true
 images: []
 original_content: '<div><p style="color: #4aa564;">Clin Linguist Phon. 2025 Nov 12:1-12.
   doi: 10.1080/02699206.2025.2584289. Online ahead of print.</p><p><b>ABSTRACT</b></p><p

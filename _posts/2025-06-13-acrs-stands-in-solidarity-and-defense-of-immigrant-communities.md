@@ -1,5 +1,7 @@
 ---
 date: '2025-06-13T16:53:26+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p>Asian Counseling and Referral Service (ACRS) stands in solidarity with individuals, families, and peaceful demonstrators in Los Angeles and across the country impacted by recent immigration enforcement actions, including a surge in coordinated raids, and heightened law enforcement activity. As an organization committed to supporting immigrants and refugees, we are deeply concerned about the harm these actions inflict on the dignity, safety, and well-being of our communities.</p>

@@ -1,5 +1,7 @@
 ---
 date: '2025-11-27T19:30:00+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <h2 class="wp-block-heading">A real conversation on suicide prevention with community connection</h2>

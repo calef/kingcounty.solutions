@@ -1,5 +1,7 @@
 ---
 date: '2025-06-25T19:34:22+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: We are proud to share that Friends of Youth has received the 2025
   Vicky Hoffman Legacy Award from Influence the Choice , in recognition...

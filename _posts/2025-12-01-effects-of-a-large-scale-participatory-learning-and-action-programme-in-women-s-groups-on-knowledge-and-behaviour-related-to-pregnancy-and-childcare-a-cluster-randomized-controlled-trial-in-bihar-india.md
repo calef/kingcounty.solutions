@@ -1,5 +1,7 @@
 ---
 date: '2025-12-01T06:00:00-05:00'
+events: []
+events_extracted: true
 images: []
 original_content: '<div><p style="color: #4aa564;">SSM Popul Health. 2025 Nov 8;32:101880.
   doi: 10.1016/j.ssmph.2025.101880. eCollection 2025 Dec.</p><p><b>ABSTRACT</b></p><p

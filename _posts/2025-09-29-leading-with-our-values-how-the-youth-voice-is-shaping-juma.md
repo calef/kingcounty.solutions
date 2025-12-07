@@ -1,5 +1,7 @@
 ---
 date: '2025-09-29T21:38:52+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p>Over the past 30 years, Juma has employed more than 11,000 young people with a goal of providing access to the tools, resources, and education they need to bridge the [&#8230;]</p>

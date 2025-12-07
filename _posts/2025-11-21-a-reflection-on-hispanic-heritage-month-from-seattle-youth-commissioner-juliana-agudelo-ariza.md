@@ -1,5 +1,7 @@
 ---
 date: '2025-11-21T06:11:37+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: By Juliana Agudelo Ariza, Seattle Youth Commissioner Every year,
   between September 15 and October 15, Hispanic Heritage Month is celebrated around

@@ -1,5 +1,7 @@
 ---
 date: '2025-11-22T01:43:20+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <span class="field field--name-title field--type-string field--label-hidden">Grays Harbor County resident dies from complications of avian influenza</span>

@@ -1,5 +1,7 @@
 ---
 date: '2025-10-20T16:19:41+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   The community of Colville celebrated the opening of Dominican Sisters Haven (formerly known as Colville Family Haven) in September. This new Steven County housing community in rural in the northeast corner of the state, will offer 70 affordable units specifically designed for families with children, as well as two common area units and a clubhouse. &nbsp;

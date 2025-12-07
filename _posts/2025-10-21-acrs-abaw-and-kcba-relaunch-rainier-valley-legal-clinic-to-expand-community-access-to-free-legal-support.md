@@ -1,5 +1,8 @@
 ---
 date: '2025-10-21T00:12:25+00:00'
+events:
+- 2025-12-17-rainier-valley-legal-clinic-monthly-operation
+events_extracted: true
 images: []
 original_content: |-
   <p><strong>FOR IMMEDIATE RELEASE<br />

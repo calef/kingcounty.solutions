@@ -1,5 +1,7 @@
 ---
 date: '2025-09-09T18:54:29+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: "![](https://encompassnw.org/wp-content/uploads/2025/09/Confidence-Camp-Square-300x300.png)When
   a new school year approaches, many kids experience a whirlwind of mixed emotions.

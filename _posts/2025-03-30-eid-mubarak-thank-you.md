@@ -1,5 +1,7 @@
 ---
 date: '2025-03-30T22:02:00+00:00'
+events: []
+events_extracted: true
 images:
 - ad1adc17ebb849aaaff97f1f7052e7e6e0aac478d475e7ea156aae0b7011be2f
 original_content: "<p class=\"\">Dearest friends,</p><p class=\"\">Eid Mubarak! Thank

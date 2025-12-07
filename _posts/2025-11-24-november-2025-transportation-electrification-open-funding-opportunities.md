@@ -1,5 +1,8 @@
 ---
 date: '2025-11-24T21:56:43+00:00'
+events:
+- 2026-01-08-rails-keels-and-wheels-program-application-deadline
+events_extracted: true
 images: []
 original_content: |-
   <p><a href="https://www.energy.gov/lpo/articles/doe-announces-availability-10-billion-loan-authority-automotive-manufacturing">U.S. DOE – Advanced Technology Vehicles Manufacturing Loan Program</a></p>

@@ -1,5 +1,7 @@
 ---
 date: '2025-11-10T06:00:00-05:00'
+events: []
+events_extracted: true
 images: []
 original_content: '<div><p style="color: #4aa564;">BMJ Paediatr Open. 2025 Nov 10;9(1):e003928.
   doi: 10.1136/bmjpo-2025-003928.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink"

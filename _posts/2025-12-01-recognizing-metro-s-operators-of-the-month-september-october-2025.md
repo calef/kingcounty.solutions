@@ -1,5 +1,7 @@
 ---
 date: '2025-12-01T20:59:06+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: They enjoy taking photos, playing soccer and practicing peaceful
   martial arts. They travel and garden. There are ukulele, piano and guitar players

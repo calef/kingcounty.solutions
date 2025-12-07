@@ -1,5 +1,7 @@
 ---
 date: '2025-04-24T00:25:15+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p>IR-2025-51, April 16, 2025</p>

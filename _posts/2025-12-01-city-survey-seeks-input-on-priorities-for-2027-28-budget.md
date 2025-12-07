@@ -1,5 +1,7 @@
 ---
 date: '2025-12-01T23:19:53+00:00'
+events: []
+events_extracted: true
 images:
 - bac2132fad8b97a7cff2984bd9e67e54815ee9bc0e93fce0b1d1e9cbbc3d11ba
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">City

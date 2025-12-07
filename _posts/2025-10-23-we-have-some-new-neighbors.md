@@ -1,5 +1,7 @@
 ---
 date: '2025-10-23T17:59:23+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p>The St. Luke&#8217;s Apartments are Open! We’re thrilled to show you inside the St. Luke’s Apartments, the finished affordable housing building sitting next door to the church. When we began, &#8230; <a class="kt-excerpt-readmore" href="https://stlukesseattle.org/2025/10/23/we-have-some-new-neighbors/" aria-label="We have some new neighbors">Read More</a></p>

@@ -1,5 +1,7 @@
 ---
 date: '2025-08-16T13:41:23+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: We’re making history on Vashon Island. On Tuesday, August 19 (World
   Humanitarian Day)  The DOVE Project will host the first-ever Hope...

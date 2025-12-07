@@ -1,5 +1,7 @@
 ---
 date: '2025-11-21T18:51:04+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: Seattle Parks and Recreation (SPR) is excited to share our Cycle
   2 Capital Project Completions Map with you!&#160; With the adoption of the Seattle

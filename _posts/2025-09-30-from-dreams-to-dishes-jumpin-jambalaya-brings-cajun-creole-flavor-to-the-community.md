@@ -1,5 +1,7 @@
 ---
 date: '2025-09-30T16:30:54+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p>At Neighborhood House, we believe that when people are given the tools and support they need, they can build brighter futures for themselves and their families. Few stories capture that better than Youpa’s journey. When she first connected with Neighborhood House through our Economic Security for All (EcSA) program and its Matched Investment Savings Account ... </p>

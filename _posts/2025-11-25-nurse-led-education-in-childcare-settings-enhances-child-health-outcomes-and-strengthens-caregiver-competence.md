@@ -1,5 +1,7 @@
 ---
 date: '2025-11-25T06:00:00-05:00'
+events: []
+events_extracted: true
 images: []
 original_content: '<div><p style="color: #4aa564;">Evid Based Nurs. 2025 Nov 25:ebnurs-2025-104472.
   doi: 10.1136/ebnurs-2025-104472. Online ahead of print.</p><p><b>NO ABSTRACT</b></p><p

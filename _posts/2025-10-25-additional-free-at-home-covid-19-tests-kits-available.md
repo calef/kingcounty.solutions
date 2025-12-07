@@ -1,5 +1,7 @@
 ---
 date: '2025-10-25T00:06:00+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: <img src="https://www.auburnwa.gov/UserFiles/Servers/Server_11470554/Image/News/COVID%2019.jpg"
   />

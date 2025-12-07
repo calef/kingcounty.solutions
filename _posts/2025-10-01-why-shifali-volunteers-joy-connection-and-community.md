@@ -1,5 +1,7 @@
 ---
 date: '2025-10-01T19:26:38+00:00'
+events: []
+events_extracted: true
 images:
 - 2f913eff6348b576ac8db4ee09184ae9bf3906afac0bed178231a162a1f9eb0d
 original_content: "<p class=\"\">When Shifali moved to Seattle, she was looking for

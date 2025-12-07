@@ -1,5 +1,7 @@
 ---
 date: '2025-06-30T23:40:00+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p>For over 30 years, Juma has been there for youth–and we aim to continue our impact with youth for as long as possible. With the dual goals of sustainability and [&#8230;]</p>

@@ -1,5 +1,7 @@
 ---
 date: '2025-10-17T15:00:25+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: "<p><strong>Position: </strong>Alternate Delivery Driver       
                                                                                  

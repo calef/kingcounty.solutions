@@ -1,5 +1,7 @@
 ---
 date: '2025-05-05T22:51:52+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: '<p>The post <a href="https://readingpartners.org/blog/iteration-and-innovation/">Iteration
   and innovation: How we approach new projects at Reading Partners</a> appeared first

@@ -1,5 +1,7 @@
 ---
 date: '2025-11-04T21:14:30+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   ![](https://www.commerce.wa.gov/wp-content/uploads/2025/10/Connection-Angle-Lake.jpg)

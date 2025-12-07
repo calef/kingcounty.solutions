@@ -1,5 +1,8 @@
 ---
 date: '2025-05-18T21:06:39+00:00'
+events:
+- 2029-01-01-meydenbauer-bay-park-expansion-phase-2-construction
+events_extracted: true
 images:
 - 996c63501ba67731534051a8a9025a298a590937a4dd1d17959d6673354937d6
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Council

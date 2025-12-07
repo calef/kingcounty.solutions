@@ -1,5 +1,7 @@
 ---
 date: '2025-11-02T06:00:00-05:00'
+events: []
+events_extracted: true
 images: []
 original_content: '<div><p style="color: #4aa564;">Public Health Nutr. 2025 Nov 3;28(1):e195.
   doi: 10.1017/S1368980025101389.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink"

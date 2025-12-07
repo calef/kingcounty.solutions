@@ -1,5 +1,7 @@
 ---
 date: '2025-11-10T06:00:00-05:00'
+events: []
+events_extracted: true
 images: []
 original_content: '<div><p style="color: #4aa564;">Quant Imaging Med Surg. 2025 Nov
   1;15(11):11708-11713. doi: 10.21037/qims-2025-1027. Epub 2025 Oct 22.</p><p><b>NO

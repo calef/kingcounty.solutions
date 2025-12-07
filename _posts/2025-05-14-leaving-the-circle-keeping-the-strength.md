@@ -1,5 +1,7 @@
 ---
 date: '2025-05-14T20:03:19+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p>In the world of cancer support, every journey is as unique as the individual walking it. For many, joining a Cancer Lifeline support group is a courageous first step—one taken in the midst of fear, loss, or uncertainty. Participants often arrive carrying heavy questions and quiet hopes, unsure of what they’ll find or how they’ll be received. They take a seat in a circle or log into Zoom, not yet knowing the power that space will hold.</p>

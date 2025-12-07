@@ -1,5 +1,7 @@
 ---
 date: '2025-08-11T16:58:45+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p><strong>Every August, students across Bellevue get ready to return to the classroom</strong>—some with nervous energy, others with excitement, and all with hopes of starting the school year on the right foot.&nbsp;</p>

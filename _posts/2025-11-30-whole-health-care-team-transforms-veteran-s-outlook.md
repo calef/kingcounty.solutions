@@ -1,5 +1,7 @@
 ---
 date: '2025-11-30T19:30:00+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <h2 class="wp-block-heading">Veteran finds that and more in VA health care</h2>

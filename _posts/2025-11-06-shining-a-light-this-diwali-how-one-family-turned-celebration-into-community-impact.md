@@ -1,5 +1,7 @@
 ---
 date: '2025-11-06T02:37:26+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: "<p class=\"\">When Mohit and Ojaswani Suley first began hosting
   their annual&nbsp;Diwali celebration in Seattle, they never imagined it would grow

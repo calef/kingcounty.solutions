@@ -1,5 +1,7 @@
 ---
 date: '2025-10-16T21:35:00+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p>Most years, our first wintertime severe weather activation happens right around Thanksgiving—mid to late November.&#160;&#160; During the time between the hot and cold weather, the [&#8230;]</p>

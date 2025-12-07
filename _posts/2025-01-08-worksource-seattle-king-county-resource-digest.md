@@ -1,5 +1,7 @@
 ---
 date: '2025-01-08T10:00:00+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p>Bi-Weekly Resource Digest</p>

@@ -1,5 +1,7 @@
 ---
 date: '2025-01-28T21:42:34+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-9d6595d7 wp-block-columns-is-layout-flex">

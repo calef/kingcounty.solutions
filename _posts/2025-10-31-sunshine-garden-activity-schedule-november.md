@@ -1,5 +1,7 @@
 ---
 date: '2025-10-31T21:26:13+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   Sunshine Garden offers older adults culturally relevant activities that promote food and nutrition, health, wellness, and fitness, education, recreation, and socialization, and personal growth.

@@ -1,5 +1,7 @@
 ---
 date: '2025-08-12T20:56:37+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   We have two new Bilingual Legal Services Coordinators on the ELAP team!

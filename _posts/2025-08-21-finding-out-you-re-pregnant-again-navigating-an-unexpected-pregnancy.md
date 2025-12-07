@@ -1,5 +1,7 @@
 ---
 date: '2025-08-21T15:00:31+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p>Finding out you’re pregnant again when you weren’t planning on it can bring a whirlwind of emotions like shock, fear, anxiety, and even anger. If you already have children you&#8217;re working hard to provide for, those feelings might feel even heavier. You may be asking yourself, <em>How can I do this again? How will I provide for another child when I’m already stretched so thin?</em>&nbsp;</p>

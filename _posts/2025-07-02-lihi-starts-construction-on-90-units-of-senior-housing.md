@@ -1,5 +1,7 @@
 ---
 date: '2025-07-02T16:33:56+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: Rendering by Runberg Architecture Group LIHI is pleased to announce
   that construction is set to start on 125th Senior Housing, a 90-unit,...

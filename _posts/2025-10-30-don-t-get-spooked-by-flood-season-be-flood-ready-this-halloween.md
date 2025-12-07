@@ -1,5 +1,7 @@
 ---
 date: '2025-10-30T16:44:59+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: "By Steven Schauer, Deputy Executive Director\n\nAs the ghosts and
   goblins come out for Halloween, there’s another kind of fright creeping into King

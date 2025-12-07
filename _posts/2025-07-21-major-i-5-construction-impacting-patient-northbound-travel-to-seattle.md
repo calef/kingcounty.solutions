@@ -1,5 +1,7 @@
 ---
 date: '2025-07-21T20:40:50+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p><img decoding="async" class="alignright wp-image-11438" src="https://www.pacificmedicalcenters.org/wp-content/uploads/2025/07/istockphoto-1340575683-170667a-300x169.jpg" alt="" width="360" height="203" srcset="https://www.pacificmedicalcenters.org/wp-content/uploads/2025/07/istockphoto-1340575683-170667a-300x169.jpg 300w, https://www.pacificmedicalcenters.org/wp-content/uploads/2025/07/istockphoto-1340575683-170667a.jpg 553w" sizes="(max-width: 360px) 100vw, 360px" /></p>

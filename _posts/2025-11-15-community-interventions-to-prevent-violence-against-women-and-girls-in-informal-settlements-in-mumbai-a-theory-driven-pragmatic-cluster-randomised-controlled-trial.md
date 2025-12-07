@@ -1,5 +1,7 @@
 ---
 date: '2025-11-15T06:00:00-05:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <div>

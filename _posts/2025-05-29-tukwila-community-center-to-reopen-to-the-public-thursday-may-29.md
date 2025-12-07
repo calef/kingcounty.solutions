@@ -1,5 +1,7 @@
 ---
 date: '2025-05-29T00:42:29+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   ![](https://www.tukwilawa.gov/wp-content/uploads/UPDATED-TCC-Closed-1.gif)

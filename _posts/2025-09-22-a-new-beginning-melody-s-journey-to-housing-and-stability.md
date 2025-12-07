@@ -1,5 +1,7 @@
 ---
 date: '2025-09-22T21:08:00+00:00'
+events: []
+events_extracted: true
 images:
 - 26f09885b03d9be8b02e307f17aea3e8907fbef69e27517d95760be6d843d2f4
 original_content: "<p class=\"\">When Melody found out she was pregnant, she knew

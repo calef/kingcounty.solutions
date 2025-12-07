@@ -1,5 +1,7 @@
 ---
 date: '2025-05-22T22:09:02+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: <p>The post <a href="https://www.kcsarc.org/en/micks-blog/">Mick&#8217;s
   Blog</a> appeared first on <a href="https://www.kcsarc.org/en/">KCSARC</a>.</p>

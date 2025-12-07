@@ -1,5 +1,7 @@
 ---
 date: '2025-01-12T21:28:54+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   Governor-elect Bob Ferguson taps Lieutenant Governor Denny Heck to lead his housing transition effort

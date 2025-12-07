@@ -1,5 +1,7 @@
 ---
 date: '2025-10-23T19:43:45+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <div class="is-layout-constrained wp-block-group"><div class="wp-block-group__inner-container">

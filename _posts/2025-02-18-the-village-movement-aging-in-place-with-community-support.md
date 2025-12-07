@@ -1,5 +1,7 @@
 ---
 date: '2025-02-18T20:03:55+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: Aging in place—the ability to remain in one's home and community
   as we grow older—is a goal for many older adults. However, challenges...

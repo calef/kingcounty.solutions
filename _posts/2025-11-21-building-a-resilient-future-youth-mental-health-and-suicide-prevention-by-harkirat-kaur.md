@@ -1,5 +1,7 @@
 ---
 date: '2025-11-21T20:55:07+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: "<p><strong>A Personal Story: Olivia&#8217;s Silent Struggle</strong><br
   />I want to share a story about my best friend, Olivia-the star of our school&#8217;s

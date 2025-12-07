@@ -1,5 +1,8 @@
 ---
 date: '2025-11-13T19:20:05+00:00'
+events:
+- 2026-01-01-ihdd-pilot-grant-application-deadline
+events_extracted: true
 images:
 - db3c2a5e52079ff2ccb80017173131e0529d0b31bdc32da49a1ff65f71fa6426
 original_content: "<div class=\"wpb-content-wrapper\">\r\n<div  data-mk-stretch-content=\"true\"

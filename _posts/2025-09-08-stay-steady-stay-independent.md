@@ -1,5 +1,7 @@
 ---
 date: '2025-09-08T18:09:55+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   #### Stay Steady, Stay Independent

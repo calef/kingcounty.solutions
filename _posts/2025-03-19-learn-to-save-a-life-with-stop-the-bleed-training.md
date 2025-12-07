@@ -1,5 +1,7 @@
 ---
 date: '2025-03-19T18:20:49+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p><img width="300" height="188" src="https://blog.valleymed.org/wp-content/uploads/2025/03/2025_Stop-the-Bleed-300x188.png" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://blog.valleymed.org/wp-content/uploads/2025/03/2025_Stop-the-Bleed-300x188.png 300w, https://blog.valleymed.org/wp-content/uploads/2025/03/2025_Stop-the-Bleed-768x480.png 768w, https://blog.valleymed.org/wp-content/uploads/2025/03/2025_Stop-the-Bleed-600x375.png 600w, https://blog.valleymed.org/wp-content/uploads/2025/03/2025_Stop-the-Bleed.png 800w" sizes="auto, (max-width: 300px) 100vw, 300px" /></p>

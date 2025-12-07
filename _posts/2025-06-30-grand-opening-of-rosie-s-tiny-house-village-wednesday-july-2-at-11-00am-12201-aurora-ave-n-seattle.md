@@ -1,5 +1,7 @@
 ---
 date: '2025-06-30T18:24:20+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: LIHI is pleased to announce the grand opening of the new location
   of Rosie’s Village, a tiny house village that was originally located in...

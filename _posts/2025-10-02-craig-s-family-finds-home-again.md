@@ -1,5 +1,7 @@
 ---
 date: '2025-10-02T18:09:02+00:00'
+events: []
+events_extracted: true
 images:
 - 75a1637b9041eba2a14a5983c17a7af3fa77b5a38c627baafa06484ca9e6a25f
 original_content: "<p class=\"\">For Craig, home had always been the apartment where

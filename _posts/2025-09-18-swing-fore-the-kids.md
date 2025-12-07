@@ -1,5 +1,8 @@
 ---
 date: '2025-09-18T17:27:10+00:00'
+events:
+- 2026-06-18-swing-fore-the-kids-golf-outing
+events_extracted: true
 images: []
 original_content: "<div  class=\"wpb_row vc_row vc_row-fluid  mk-fullwidth-false  attched-false
   \    js-master-row \">\n\t\t\n\t\t\t\n<div style=\"\" class=\"vc_col-sm-12 wpb_column

@@ -1,5 +1,7 @@
 ---
 date: '2025-10-22T22:07:05+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: 'Photo: Artist Fulgencio Lazo with his painting “Mercado de Bicicletas”
   (Bicycle Market) displayed on a Metro bus shelter on Beacon Hill Oaxacan music and

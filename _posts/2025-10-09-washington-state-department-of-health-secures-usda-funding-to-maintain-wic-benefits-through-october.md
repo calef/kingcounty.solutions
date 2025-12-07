@@ -1,5 +1,7 @@
 ---
 date: '2025-10-09T23:36:27+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <span class="field field--name-title field--type-string field--label-hidden">Washington State Department of Health secures USDA funding to maintain WIC benefits through October</span>

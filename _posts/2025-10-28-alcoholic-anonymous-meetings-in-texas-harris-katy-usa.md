@@ -1,5 +1,7 @@
 ---
 date: '2025-10-28T21:55:51+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <h2>What is AA?</h2>

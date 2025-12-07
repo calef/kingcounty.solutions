@@ -1,5 +1,7 @@
 ---
 date: '2025-11-14T17:18:33+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: 'Media release from the King County Executive  Summary: King County
   Executive Shannon Braddock, in partnership with Metro, has announced easier and

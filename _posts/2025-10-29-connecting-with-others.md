@@ -1,5 +1,7 @@
 ---
 date: '2025-10-29T22:26:51+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: "<p>The holidays are around the corner and can stir up many emotions
   — joy, gratitude, nostalgia, and sometimes deep loneliness. For those living with

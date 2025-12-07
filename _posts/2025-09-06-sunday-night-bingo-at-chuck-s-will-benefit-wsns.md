@@ -1,5 +1,7 @@
 ---
 date: '2025-09-06T19:56:22+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p class="">We&#8217;re honored and grateful to be the fundraising recipient at Chuck&#8217;s Hop Shop Drag Bingo in Seward Park tomorrow! Chuck&#8217;s will be collecting donations for Westside Neighbors Shelter at this event on Sunday, September 7 at 7 pm. Come drink, win prizes, and donate to a good cause!</p>

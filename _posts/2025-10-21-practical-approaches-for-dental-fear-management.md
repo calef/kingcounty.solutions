@@ -1,5 +1,7 @@
 ---
 date: '2025-10-21T19:04:57+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p><a href="https://ohlh.talentlms.com/plus/catalog/courses/187">Start the Course</a></p>

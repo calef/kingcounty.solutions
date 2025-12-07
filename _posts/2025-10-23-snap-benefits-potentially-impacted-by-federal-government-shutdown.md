@@ -1,5 +1,7 @@
 ---
 date: '2025-10-23T18:22:27+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   In the event SNAP benefits are affected on November 1 due to ongoing federal shutdown, the Tribal Council has approved opening the Tribe’s Emergency Food Assistance Program to eligible Tribal Members on SNAP to ensure food support remains in place.

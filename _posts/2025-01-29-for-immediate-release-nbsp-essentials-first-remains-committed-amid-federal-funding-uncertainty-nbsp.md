@@ -1,5 +1,7 @@
 ---
 date: '2025-01-29T00:36:17+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: '<p class="">FOR IMMEDIATE RELEASE&nbsp;</p><p class=""><strong>Essentials
   First Remains Committed Amid Federal Funding Uncertainty</strong>&nbsp;</p><p class="">Essentials

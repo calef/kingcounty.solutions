@@ -1,5 +1,7 @@
 ---
 date: '2025-06-03T06:34:05+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p data-start="154" data-end="425">In recognition of Asian and Native Hawaiian/Pacific Islander Heritage Month and Mental Health Awareness Month, ACRS partnered with Walk for Rice presenting sponsor HAVI to host a thought-provoking Lunch &amp; Learn on mental wellness, cultural identity, and workplace stress.</p>

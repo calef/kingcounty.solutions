@@ -1,5 +1,7 @@
 ---
 date: '2025-05-16T17:15:27+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: We&#8217;re thrilled to announce that our director, Shelley Puariea,
   has been honored with the Community Citizen Award from East Hill Grange No. 786!

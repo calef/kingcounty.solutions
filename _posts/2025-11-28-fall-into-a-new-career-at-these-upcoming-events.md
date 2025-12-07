@@ -1,5 +1,7 @@
 ---
 date: '2025-11-28T21:30:00+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <h2 class="wp-block-heading">Meet with a VA recruiter</h2>

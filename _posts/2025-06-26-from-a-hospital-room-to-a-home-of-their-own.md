@@ -1,5 +1,7 @@
 ---
 date: '2025-06-26T21:58:00+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: <p class="">Jane and her family know what it means to work hard
   and persevere. They immigrated to the United States over ten years ago, chasing

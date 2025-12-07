@@ -1,5 +1,7 @@
 ---
 date: '2025-09-16T22:31:45+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p>It’s Falls Prevention Week, an opportunity to refresh our knowledge of falls risk and how best to prevent them. Why is this important? According to the Centers for Disease Control and Prevention, falls are the most common reason for visits to the emergency department (ED), as well as the leading cause of fatal and nonfatal [&#8230;]</p>

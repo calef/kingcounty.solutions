@@ -1,5 +1,7 @@
 ---
 date: '2025-11-10T06:00:00-05:00'
+events: []
+events_extracted: true
 images: []
 original_content: '<div><p style="color: #4aa564;">Genus. 2025;81(1):32. doi: 10.1186/s41118-025-00273-0.
   Epub 2025 Nov 7.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink"

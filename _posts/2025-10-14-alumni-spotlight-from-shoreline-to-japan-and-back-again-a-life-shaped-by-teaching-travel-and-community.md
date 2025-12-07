@@ -1,5 +1,7 @@
 ---
 date: '2025-10-14T04:49:39+00:00'
+events: []
+events_extracted: true
 images:
 - 5482324fdb3ffcb64a3d53dd907a1874756a7b22a867ddf1a91f6db771190f22
 original_content: '<div class="wp-rss-image" style="margin-bottom:20px;max-width:

@@ -1,5 +1,7 @@
 ---
 date: '2025-03-27T22:44:43+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p>Mark your calendar for this year’s Rhythms of Resilience Gala on Saturday, October 4, 2025—our annual fundraiser celebrating resilience, community, and collective power.</p>

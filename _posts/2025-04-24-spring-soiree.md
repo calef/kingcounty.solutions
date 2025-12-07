@@ -1,5 +1,7 @@
 ---
 date: '2025-04-24T20:53:26+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <h1 style="text-align: center;"><img loading="lazy" decoding="async" class=" wp-image-11287 aligncenter" src="https://positiveplace.org/wp-content/uploads/2025/04/Spring-Soiree_2025-300x150.jpg" alt="" width="808" height="404" srcset="https://positiveplace.org/wp-content/uploads/2025/04/Spring-Soiree_2025-300x150.jpg 300w, https://positiveplace.org/wp-content/uploads/2025/04/Spring-Soiree_2025-768x384.jpg 768w, https://positiveplace.org/wp-content/uploads/2025/04/Spring-Soiree_2025-100x50.jpg 100w, https://positiveplace.org/wp-content/uploads/2025/04/Spring-Soiree_2025.jpg 800w" sizes="auto, (max-width: 808px) 100vw, 808px" /></h1>

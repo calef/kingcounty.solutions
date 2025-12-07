@@ -1,5 +1,7 @@
 ---
 date: '2025-11-13T21:35:25+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: Seattle police officers arrested a 42-year-old convicted felon last
   week, known to law enforcement for his violent behavior, after he repeatedly harassed

@@ -1,5 +1,7 @@
 ---
 date: '2025-03-19T17:59:56+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <h3>Boys &amp; Girls Clubs Summer Camps help kids grow and have fun by exploring the outdoors, building self-confidence and independence, learning core values, developing life skills, and—most importantly—being active.</h3>

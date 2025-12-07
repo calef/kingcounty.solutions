@@ -1,5 +1,7 @@
 ---
 date: '2025-04-01T02:37:59+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <h2>Emotions aren’t just in your head</h2>

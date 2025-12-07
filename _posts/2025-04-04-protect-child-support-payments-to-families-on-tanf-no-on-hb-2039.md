@@ -1,5 +1,7 @@
 ---
 date: '2025-04-04T21:57:16+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: '<p class=""><em>Testimony given before WA House Appropriations
   Committee by Essentials First Director of Advocacy &amp; Outreach on Friday April

@@ -1,5 +1,7 @@
 ---
 date: '2025-12-06T00:01:54+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p>KCRHA is currently seeking community members to serve in specific seats on the Continuum of Care (CoC) Board, to align with the new requirements in [&#8230;]</p>

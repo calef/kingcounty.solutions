@@ -1,5 +1,7 @@
 ---
 date: '2025-11-12T21:00:03+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: For Claudia McGinnis, her career in skincare started as a job, but
   quickly developed into passion. It started in 2008, when she started working at

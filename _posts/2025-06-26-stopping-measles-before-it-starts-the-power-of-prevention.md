@@ -1,5 +1,7 @@
 ---
 date: '2025-06-26T23:48:55+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: The U.S. experienced many changes and challenges due to the COVID-19
   pandemic that shook the globe, but one unanticipated consequence was...

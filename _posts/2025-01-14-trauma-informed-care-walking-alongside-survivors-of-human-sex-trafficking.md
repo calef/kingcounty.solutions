@@ -1,5 +1,7 @@
 ---
 date: '2025-01-14T00:04:23+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: "<div class=\"vc_row wpb_row vc_row-fluid\"><div class=\"wpb_column
   vc_column_container vc_col-sm-12\"><div class=\"vc_column-inner\"><div class=\"wpb_wrapper\"><div

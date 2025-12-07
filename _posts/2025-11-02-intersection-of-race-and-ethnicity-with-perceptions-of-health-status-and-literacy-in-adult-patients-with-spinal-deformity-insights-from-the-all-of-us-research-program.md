@@ -1,5 +1,7 @@
 ---
 date: '2025-11-02T06:00:00-05:00'
+events: []
+events_extracted: true
 images: []
 original_content: '<div><p style="color: #4aa564;">Spine Deform. 2025 Nov 2. doi:
   10.1007/s43390-025-01215-8. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink"

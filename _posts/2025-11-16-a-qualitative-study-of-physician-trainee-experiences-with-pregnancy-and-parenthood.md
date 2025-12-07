@@ -1,5 +1,7 @@
 ---
 date: '2025-11-16T06:00:00-05:00'
+events: []
+events_extracted: true
 images: []
 original_content: '<div><p style="color: #4aa564;">J Hosp Med. 2025 Nov 16. doi: 10.1002/jhm.70237.
   Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink"

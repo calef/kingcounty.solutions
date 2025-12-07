@@ -1,5 +1,7 @@
 ---
 date: '2025-02-06T18:20:51+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: "![](https://sophiaway.org/wp-content/uploads/2025/02/Image-msg-2025-02.png)\n\n>
   **_“When the world implodes and explodes… you can either stay the course the best

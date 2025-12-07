@@ -1,5 +1,7 @@
 ---
 date: '2025-02-27T18:17:56+00:00'
+events: []
+events_extracted: true
 images:
 - 4b128c252aeeebe6e8cb6631b110a7eb94449d872fa42f34263baa45d31596a2
 original_content: "<p class=\"\">Ramadan Mubarak! During this special season we are

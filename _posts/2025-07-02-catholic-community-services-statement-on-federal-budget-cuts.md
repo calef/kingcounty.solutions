@@ -1,5 +1,7 @@
 ---
 date: '2025-07-02T19:04:27+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p>We urge Congress to not abandon their constituents who will be impacted by the proposed cuts to Medicaid and other safety net programs, such as SNAP. The proposed cuts threaten health care and well-being for millions of Americans, especially for our neighbors who are seniors, disabled, sick, or children. Cutting SNAP would cause a crisis in food security for millions in America. The richest nation in the world should not have people starving. </p>

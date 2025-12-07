@@ -1,5 +1,7 @@
 ---
 date: '2025-11-10T06:00:00-05:00'
+events: []
+events_extracted: true
 images: []
 original_content: '<div><p style="color: #4aa564;">Eur J Popul. 2025 Nov 10;41(1):31.
   doi: 10.1007/s10680-025-09746-6.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink"

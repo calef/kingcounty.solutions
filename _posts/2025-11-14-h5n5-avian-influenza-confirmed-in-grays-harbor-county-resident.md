@@ -1,5 +1,7 @@
 ---
 date: '2025-11-14T21:23:27+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <span class="field field--name-title field--type-string field--label-hidden">H5N5 Avian influenza confirmed in Grays Harbor County resident</span>

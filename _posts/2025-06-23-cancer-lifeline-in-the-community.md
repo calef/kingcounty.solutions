@@ -1,5 +1,7 @@
 ---
 date: '2025-06-23T17:54:03+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: "<p>Earlier this month, members of the Cancer Lifeline team had
   the deep honor of participating in the <strong>Cancer Survivorship Celebration</strong>

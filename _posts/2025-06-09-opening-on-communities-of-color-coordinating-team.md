@@ -1,5 +1,7 @@
 ---
 date: '2025-06-09T23:00:14+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Opening
   on Communities of Color Coordinating Team</span>\n<span class=\"field field--name-uid

@@ -1,5 +1,7 @@
 ---
 date: '2025-11-19T06:00:26+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p>What is your role at Aging Wisdom?  Creative Engagement Specialist What made you want to work in the field of aging? I appreciate the accumulated wisdom and insights of older people, and I have always gravitated toward older adults, even when I was a kid. Growing up, my dad used to always point out how [&#8230;]</p>

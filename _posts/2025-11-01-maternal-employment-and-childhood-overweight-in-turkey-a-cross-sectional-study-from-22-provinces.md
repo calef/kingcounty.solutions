@@ -1,5 +1,7 @@
 ---
 date: '2025-11-01T06:00:00-04:00'
+events: []
+events_extracted: true
 images: []
 original_content: '<div><p style="color: #4aa564;">Eur J Public Health. 2025 Nov 1:ckaf195.
   doi: 10.1093/eurpub/ckaf195. Online ahead of print.</p><p><b>ABSTRACT</b></p><p

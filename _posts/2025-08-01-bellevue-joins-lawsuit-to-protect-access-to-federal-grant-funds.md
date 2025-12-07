@@ -1,5 +1,7 @@
 ---
 date: '2025-08-01T21:49:31+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Bellevue
   joins lawsuit to protect access to federal  grant funds</span>\n<span class=\"field

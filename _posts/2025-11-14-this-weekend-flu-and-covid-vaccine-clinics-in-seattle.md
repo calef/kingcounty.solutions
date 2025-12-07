@@ -1,5 +1,7 @@
 ---
 date: '2025-11-14T18:45:36+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: Seattle Public Schools, in collaboration with the Seattle Visiting
   Nurses Association, is hosting community flu and COVID vaccine clinics open to all.

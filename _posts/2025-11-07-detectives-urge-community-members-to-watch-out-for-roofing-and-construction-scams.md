@@ -1,5 +1,7 @@
 ---
 date: '2025-11-07T22:35:58+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: Seattle police detectives urge community members to be wary of fraudulent
   roofing and construction scammers that recently stole $74,000 from a Seattle resident.&#160;

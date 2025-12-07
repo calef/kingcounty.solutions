@@ -1,5 +1,7 @@
 ---
 date: '2025-09-02T20:38:00+00:00'
+events: []
+events_extracted: true
 images:
 - cfa117e2a26e7244cead9d863a59f13fa09efb5b50663ee56df7de0e0a60ed21
 original_content: "<p class=\"\">For weeks, Jaclyn and her son, Tyler, had been experiencing

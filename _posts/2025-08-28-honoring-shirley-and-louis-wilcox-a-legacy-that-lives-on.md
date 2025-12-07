@@ -1,5 +1,7 @@
 ---
 date: '2025-08-28T21:15:22+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p>This fall, Neighborhood House is proud to rename our Rainier Vista location The Wilcox Center, honoring Shirley and Louis Wilcox for their extraordinary contributions to our community. Their lives were woven into the story of Neighborhood House, shaping its mission and strengthening the neighborhood for generations.&#160; Shirley Wilcox: Leading With Vision and Courage&#160; Shirley first ... </p>
