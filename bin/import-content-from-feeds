@@ -5,8 +5,8 @@ $LOAD_PATH.unshift(File.expand_path('../lib', __dir__))
 
 require 'mayhem/news/rss_importer'
 require 'mayhem/events/ical_importer'
+require 'mayhem/news/event_extractor'
 
-if $PROGRAM_NAME == __FILE__
-  Mayhem::News::RssImporter.new.run
-  Mayhem::Events::IcalImporterCLI.run
-end
+Mayhem::News::RssImporter.new.run if $PROGRAM_NAME == __FILE__
+Mayhem::Events::IcalImporterCLI.run if $PROGRAM_NAME == __FILE__
+Mayhem::News::EventExtractor.new.run if $PROGRAM_NAME == __FILE__

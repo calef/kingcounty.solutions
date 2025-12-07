@@ -145,6 +145,31 @@ Runs the RSS news importer followed by the iCal events importer so `_posts/` and
 - Events import: scans every `_organizations/*.md` with `events_ical_url`, downloads each calendar, skips events that are missing metadata, in the past, or too far in the future, normalizes canonical URLs to avoid duplicates, fetches event body content when possible, and writes `_events/<date>-<slug>.md` with `original_content`/`original_markdown_body` copies.
 - Both importers honor `locked: true` on disk, skipping rewrites while still registering the source URL to avoid future duplicates.
 - Both importers parallelize work with small worker pools, log per-source summaries, and keep running when individual feeds fail so a single bad endpoint never blocks the rest.
+- After importing, runs event extraction from posts (see `extract-events-from-posts` below) to generate events from news articles.
+
+### `extract-events-from-posts`
+
+**Purpose**  
+Analyzes news posts to identify event announcements using LLM, creates corresponding event entries in `_events/`, and cross-links posts to their generated events. Designed for organizations that publish event announcements in their news feeds but don't provide iCal feeds.
+
+**Usage**
+
+- `bin/extract-events-from-posts`
+
+**Key env/config**
+
+- `OPENAI_API_KEY` – required.
+- `OPENAI_EVENT_EXTRACTION_MODEL` – overrides the default `gpt-4o-mini`.
+- `LOG_LEVEL` – logging level shared by all scripts (`TRACE`, `DEBUG`, `INFO`, `WARN`, `ERROR`, or `FATAL`; default `WARN`). Use `INFO` to see per-post extraction progress.
+
+**Behavior notes**
+
+- Skips posts marked with `locked: true`, `published: false`, or `events_extracted: true`.
+- Sends post title and content to the LLM to extract structured event data (title, date/time, location, description).
+- Creates `_events/<date>-<slug>.md` entries with `generated_from_post: true` flag and links them in the post's `events` front matter array.
+- Uses post's `source_url` as the event's `source_url` for proper attribution.
+- Marks posts with `events_extracted: true` to avoid reprocessing, even when no events are found.
+- Generated events are automatically cleaned up when their source posts are removed by `enforce-content-age` or when they expire via `StaleEventCleaner`.
 
 ### `enforce-content-age`
 
@@ -163,8 +188,9 @@ Deletes `_posts/*.md` (and their referenced `_images/*.md` metadata plus any `as
 
  - Loads `_config.yml` for `content_max_age_days`; missing or invalid values fall back to 365 days.
  - Removes posts older than the threshold, then deletes referenced `_images/` metadata files and any assets named after those image checksums (e.g., `assets/images/<hash>.webp`) unless another post still references the same checksum.
- - After post cleanup, scans `_events/` and removes events whose `start_date` timestamps are already in the past (relative to the time the script runs).
- - Prints a short summary of how many posts and images were removed so you can verify the cleanup before committing.
+ - Also removes events that were `generated_from_post: true` when their source posts are removed.
+ - After post cleanup, scans `_events/` and removes events whose `start_date` timestamps are already in the past (relative to the time the script runs), and cleans up any `events` references in posts that link to the removed events.
+ - Prints a short summary of how many posts, events, and images were removed so you can verify the cleanup before committing.
 
 ### `update-content`
 
