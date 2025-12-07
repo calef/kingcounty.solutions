@@ -114,11 +114,13 @@ module Mayhem
         @logger.error "Error processing #{file_path}: #{e.class} - #{e.message}"
       end
 
-      def extract_events(title, content, post_date, _source, _source_url)
+      def extract_events(title, content, post_date, source, source_url)
         prompt = <<~PROMPT
           Analyze the following news article and extract any event announcements.
           An event is something that will happen at a specific time and potentially a specific place.
 
+          Article Source: #{source}
+          Article URL: #{source_url}
           Article Title: #{title}
           Article Date: #{post_date}
 
