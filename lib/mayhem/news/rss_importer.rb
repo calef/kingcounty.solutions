@@ -316,47 +316,6 @@ module Mayhem
         nil
       end
 
-      def canonical_link(link_url, html_canonical: nil)
-        return link_url if link_url.to_s.empty?
-
-        if html_canonical
-          normalized = Mayhem::Support::UrlNormalizer.normalize(html_canonical)
-          return normalized if normalized
-        end
-
-        return link_url unless canonical_redirect_host?(link_url)
-
-        resolved = @http.resolve_final_url(link_url)
-        normalized = Mayhem::Support::UrlNormalizer.normalize(resolved)
-        normalized || link_url
-      rescue StandardError => e
-        @logger.debug "Failed to canonicalize #{link_url}: #{e.message}"
-        link_url
-      end
-
-      def canonical_redirect_host?(url)
-        return false if url.to_s.empty?
-
-        uri = URI.parse(url)
-        host = uri.host&.downcase
-        host && CANONICAL_REDIRECT_HOSTS.include?(host)
-      rescue StandardError
-        false
-      end
-
-      def fetch_article_body(url)
-        return { html: '', canonical_url: nil } unless url
-
-        @content_fetcher.fetch(url)
-      rescue OpenURI::HTTPError, OpenSSL::SSL::SSLError, SocketError,
-             Net::OpenTimeout, Net::ReadTimeout => e
-        @logger.warn "Failed to fetch article body (#{url}): #{e.message}"
-        { html: '', canonical_url: nil }
-      rescue StandardError => e
-        @logger.error "Unexpected error scraping #{url}: #{e.message}"
-        { html: '', canonical_url: nil }
-      end
-
       def item_content_html(item)
         return item.content_encoded if item.respond_to?(:content_encoded) && item.content_encoded
         return item.description if item.respond_to?(:description) && item.description
