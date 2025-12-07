@@ -1,0 +1,81 @@
+{% comment %}
+  Generate JSON-LD BreadcrumbList schema for search engines
+  Parameters:
+    - root_url: The base URL for the root item (e.g., "/places/")
+    - root_label: The label for the root item (e.g., "Places")
+    - trail: Array of breadcrumb items with .title and .url
+    - current: The current page title
+{% endcomment %}
+
+{% assign breadcrumb_items = "" | split: "" %}
+
+{% comment %}Always start with Home{% endcomment %}
+{% capture home_item %}
+{
+  "@type": "ListItem",
+  "position": 1,
+  "name": "Home",
+  "item": "{{ '/' | absolute_url }}"
+}
+{% endcapture %}
+{% assign breadcrumb_items = breadcrumb_items | push: home_item %}
+{% assign position = 2 %}
+
+{% comment %}Add root if provided{% endcomment %}
+{% if include.root_label and include.root_url %}
+  {% capture root_item %}
+{
+  "@type": "ListItem",
+  "position": {{ position }},
+  "name": {{ include.root_label | jsonify }},
+  "item": "{{ include.root_url | absolute_url }}"
+}
+  {% endcapture %}
+  {% assign breadcrumb_items = breadcrumb_items | push: root_item %}
+  {% assign position = position | plus: 1 %}
+{% endif %}
+
+{% comment %}Add trail items{% endcomment %}
+{% if include.trail and include.trail != "" %}
+  {% for crumb in include.trail %}
+    {% assign crumb_title = crumb.acronym | default: crumb.title | default: crumb | strip %}
+    {% if crumb_title != "" %}
+      {% capture trail_item %}
+{
+  "@type": "ListItem",
+  "position": {{ position }},
+  "name": {{ crumb_title | jsonify }},
+  "item": "{{ crumb.url | absolute_url }}"
+}
+      {% endcapture %}
+      {% assign breadcrumb_items = breadcrumb_items | push: trail_item %}
+      {% assign position = position | plus: 1 %}
+    {% endif %}
+  {% endfor %}
+{% endif %}
+
+{% comment %}Add current page (no item URL for last element){% endcomment %}
+{% if include.current %}
+  {% capture current_item %}
+{
+  "@type": "ListItem",
+  "position": {{ position }},
+  "name": {{ include.current | jsonify }}
+}
+  {% endcapture %}
+  {% assign breadcrumb_items = breadcrumb_items | push: current_item %}
+{% endif %}
+
+{% if breadcrumb_items.size > 0 %}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {% for item in breadcrumb_items %}
+    {{ item | strip }}{% if forloop.last == false %},{% endif %}
+    {% endfor %}
+  ]
+}
+</script>
+{% endif %}
