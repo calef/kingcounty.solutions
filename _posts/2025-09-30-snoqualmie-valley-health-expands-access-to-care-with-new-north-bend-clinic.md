@@ -1,5 +1,7 @@
 ---
 date: '2025-09-30T22:49:09+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   **SNOQUALMIE, WA** – Snoqualmie Valley Health is proud to announce the opening of its new North Bend Clinic, expanding access to care for residents across the Valley. The clinic will welcome its first patients on Monday, October 20, 2025., with a Grand Opening Celebration to be announced.&nbsp;

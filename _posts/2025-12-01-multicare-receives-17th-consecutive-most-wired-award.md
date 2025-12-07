@@ -1,5 +1,7 @@
 ---
 date: '2025-12-01T18:43:37+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p>TACOMA, Wash. — For the 17th consecutive year, MultiCare Health System was named a “Most Wired” U.S. health care organization by the College of Healthcare Information Management Executives (CHIME).</p>

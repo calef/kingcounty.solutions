@@ -1,5 +1,10 @@
 ---
 date: '2025-11-07T09:37:44-08:00'
+events:
+- 2026-01-01-completion-of-sumner-station-garage
+- 2027-01-01-opening-of-auburn-station-garage
+- 2027-03-01-completion-of-kent-station-garage
+events_extracted: true
 images: []
 original_content: <div><p paraid="896395732" paraeid="{6a4ef9ca-33ba-45e7-81b2-c355978dc849}{87}">If
   you’re an S Line rider or a regular visitor to Pierce or South King County, you’ve

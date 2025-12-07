@@ -1,5 +1,7 @@
 ---
 date: '2025-12-04T06:00:00-05:00'
+events: []
+events_extracted: true
 images: []
 original_content: '<div><p style="color: #4aa564;">Acta Paediatr. 2025 Dec 4. doi:
   10.1111/apa.70404. Online ahead of print.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink"

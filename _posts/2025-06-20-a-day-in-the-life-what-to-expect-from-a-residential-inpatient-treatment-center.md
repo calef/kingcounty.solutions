@@ -1,5 +1,7 @@
 ---
 date: '2025-06-20T15:34:41+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: "<div class=\"wpb-content-wrapper\"><div class=\"vc_row wpb_row
   row\"><div class=\"vc_column_container col-md-12\"><div class=\"wpb_wrapper vc_column-inner\">\n\t<div

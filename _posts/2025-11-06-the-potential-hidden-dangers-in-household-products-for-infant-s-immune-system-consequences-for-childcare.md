@@ -1,5 +1,7 @@
 ---
 date: '2025-11-06T06:00:00-05:00'
+events: []
+events_extracted: true
 images: []
 original_content: '<div><p style="color: #4aa564;">Arch Pediatr. 2025 Nov 5:S0929-693X(25)00210-6.
   doi: 10.1016/j.arcped.2025.09.006. Online ahead of print.</p><p><b>ABSTRACT</b></p><p

@@ -1,5 +1,7 @@
 ---
 date: '2025-07-31T21:29:29-07:00'
+events: []
+events_extracted: true
 images: []
 original_content: July 2025We are so grateful for your generosity in providing all
   of the essential items needed to welcome a new family to Sacha's House. Because

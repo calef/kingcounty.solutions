@@ -1,5 +1,7 @@
 ---
 date: '2025-11-15T02:08:15+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: 'Weekend Service Impacts Construction Routes 177, 183, 193, and
   RapidRide A Line will have stop #85541 Federal Way Downtown Station &#8211; Bay

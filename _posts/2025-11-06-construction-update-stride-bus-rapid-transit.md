@@ -1,5 +1,9 @@
 ---
 date: '2025-11-06T16:36:16-08:00'
+events:
+- 2028-01-01-stride-bus-rapid-transit-system-opening
+- 2029-01-01-stride-bus-rapid-transit-system-opening
+events_extracted: true
 images: []
 original_content: <div><p paraid="2007034544" paraeid="{a76cc197-beed-4494-9d9e-013db66198ab}{3}">You
   know Sound Transit for our Link light rail, Sounder train, and ST Express bus service

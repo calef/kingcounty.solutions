@@ -1,5 +1,7 @@
 ---
 date: '2025-09-19T23:13:09+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: '<div class="wp-rss-image" style="margin-bottom:20px;max-width:
   600px !important;padding-top: 0.75em;"><img width="214" height="300" src="https://i0.wp.com/news.shoreline.edu/wp-content/uploads/2025/09/Julia-Sarazine-headshot-1.jpg?fit=214%2C300&amp;ssl=1"

@@ -1,5 +1,7 @@
 ---
 date: '2025-09-17T16:58:05+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: 'The turning of the fall leaves welcomes a new tradition for the
   residents of Vashon: Saturday water taxi service. The water taxi will operate eight

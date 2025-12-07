@@ -1,5 +1,7 @@
 ---
 date: '2025-11-19T20:28:47+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p>At Mercy Housing California, we build communities with residents in mind. Places where people of all abilities can thrive, connect, and feel at home.</p>

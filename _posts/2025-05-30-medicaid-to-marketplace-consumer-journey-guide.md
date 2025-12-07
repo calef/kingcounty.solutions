@@ -1,5 +1,7 @@
 ---
 date: '2025-05-30T15:02:40-04:00'
+events: []
+events_extracted: true
 images: []
 original_content: "<p>artifact_description: Tip Sheet</p><p>date: Fri, 30 May 2025
   21:04:38 -0400</p><p>title: Medicaid to Marketplace Consumer Journey Guide</p><p>topic:

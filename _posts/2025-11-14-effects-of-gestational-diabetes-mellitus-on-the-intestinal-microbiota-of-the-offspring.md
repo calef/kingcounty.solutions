@@ -1,5 +1,7 @@
 ---
 date: '2025-11-14T06:00:00-05:00'
+events: []
+events_extracted: true
 images: []
 original_content: '<div><p style="color: #4aa564;">Sci Rep. 2025 Nov 14;15(1):39934.
   doi: 10.1038/s41598-025-23718-0.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink"

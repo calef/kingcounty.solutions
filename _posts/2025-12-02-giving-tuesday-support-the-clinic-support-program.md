@@ -1,5 +1,7 @@
 ---
 date: '2025-12-02T08:01:52+00:00'
+events: []
+events_extracted: true
 images:
 - 3ab808b20ff81e45b4d29ca4db6199a29749b32eb71fd724ba4938046670dd3b
 original_content: "<div class=\"wpb-content-wrapper\">\r\n<div  data-mk-stretch-content=\"true\"

@@ -1,5 +1,7 @@
 ---
 date: '2025-09-26T00:59:54+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: June 8, 2025 was a day filled with both joy and bittersweet goodbyes
   for me. The day signaled an end to a 7-month long journey of...

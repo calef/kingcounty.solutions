@@ -1,5 +1,7 @@
 ---
 date: '2025-04-24T19:38:43+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p>We are thrilled to share that Boys &amp; Girls Clubs of King County has been selected to join the Youth Impact Network, a national Club initiative launching in May 2025. Over the course of 14 months, we’ll be working with Boys &amp; Girls Clubs of America (BGCA) and peer organizations across the country to strengthen the quality and consistency of the Club Experience.</p>

@@ -1,5 +1,7 @@
 ---
 date: '2025-07-01T20:00:31+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: Cross posted from Metro Matters Fireworks, parades, picnics and
   festivals on July Fourth — there’s so much going on! Here’s some things to know

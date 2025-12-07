@@ -1,5 +1,7 @@
 ---
 date: '2025-02-05T17:21:39+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: 'Martinez Fellows gather at The University of Washington &#8211;
   Tacoma campus, ready to attend the first seminar of the year. Introduction: It Starts

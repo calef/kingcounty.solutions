@@ -1,5 +1,7 @@
 ---
 date: '2025-11-27T06:00:00-05:00'
+events: []
+events_extracted: true
 images: []
 original_content: '<div><p style="color: #4aa564;">Healthcare (Basel). 2025 Nov 19;13(22):2967.
   doi: 10.3390/healthcare13222967.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink"

@@ -1,5 +1,7 @@
 ---
 date: '2025-07-07T21:55:15+00:00'
+events: []
+events_extracted: true
 images:
 - f55c4aeb9c4bc72fe180a9edf7b7ae2ae9a21baed592a41042329223973105fd
 original_content: "<p class=\"\">Join us for a day of in-person community-building

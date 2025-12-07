@@ -1,5 +1,7 @@
 ---
 date: '2025-06-08T11:15:43+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">

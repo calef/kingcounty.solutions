@@ -1,5 +1,7 @@
 ---
 date: '2025-06-27T13:45:30+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p class="p1"><span class="s1"><a href="https://www.achn.net/about-access/whats-new/health-resources/3-most-common-mental-health-disorders-in-america/">Depression and anxiety</a></span> are the top two most common mental health diagnoses in the United States. They also commonly co-occur. <a href="https://psychiatryonline.org/doi/10.1176/appi.ajp.2020.20030305%23:~:text=Anxiety%2520and%2520depressive%2520disorders%2520are%2520moderately%2520heritable%2520(approximately%252040%2525),and%2520cognitive%2520control%2520(15)."><span class="s1">It might seem paradoxical </span></a>that people would experience both depression and anxiety, since they are sometimes framed as opposite disorders, but they often go hand-in-hand and even have symptoms that overlap. Racing thoughts, insomnia, irritability, weight changes, fatigue, difficulty making decisions or concentrating, and mood swings are all symptoms of both mental health conditions.</p>

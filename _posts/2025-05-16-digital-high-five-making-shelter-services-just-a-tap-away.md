@@ -1,5 +1,7 @@
 ---
 date: '2025-05-16T19:39:10+00:00'
+events: []
+events_extracted: true
 images:
 - 563feef0ed65d717fabeb6903ae47a4ef3452d6e00c119759e676d2ace7d45fe
 original_content: "<p class=\"\">With hundreds of families staying in our emergency

@@ -1,5 +1,7 @@
 ---
 date: '2025-11-07T18:29:33+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <span class="field field--name-title field--type-string field--label-hidden">The license of a Thurston County registered nurse has been suspended due to charges of sexual assault</span>

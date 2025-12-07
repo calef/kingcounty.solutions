@@ -1,5 +1,7 @@
 ---
 date: '2025-11-20T13:00:01+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p class="p1">The fall and winter holidays are full of contradictions. They are cheerful and bright in a time of year that is often cold and dark. They are a celebration of togetherness and family, and can feel alienating and isolating for many. They are a time when we welcome people, and where people often feel left out. They offer gifts, joy, and abundance, as well as demands, pressure, and fear of falling short. They are secular and religious. They are a time that some people adore, and a time some people truly hate.</p>

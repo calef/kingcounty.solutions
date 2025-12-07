@@ -1,5 +1,7 @@
 ---
 date: '2025-11-05T06:00:00-05:00'
+events: []
+events_extracted: true
 images: []
 original_content: '<div><p style="color: #4aa564;">Child Abuse Negl. 2025 Dec;170:107786.
   doi: 10.1016/j.chiabu.2025.107786. Epub 2025 Nov 4.</p><p><b>ABSTRACT</b></p><p

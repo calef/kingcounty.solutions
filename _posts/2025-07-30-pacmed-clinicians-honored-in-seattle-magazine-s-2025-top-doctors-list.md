@@ -1,5 +1,7 @@
 ---
 date: '2025-07-30T18:32:42+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p>PacMed is proud to share that <strong>44 outstanding clinicians</strong> have been named to <em><strong>Seattle Magazine’s</strong></em><strong> 2025 Top Doctors list</strong>! These physicians represent a wide range of specialties and exemplify the highest standards of care, compassion, and clinical excellence.</p>

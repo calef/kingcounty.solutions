@@ -1,5 +1,8 @@
 ---
 date: '2025-12-05T23:22:18+00:00'
+events:
+- 2026-01-26-2026-point-in-time-count
+events_extracted: true
 images: []
 original_content: |-
   <p>The Point-in-Time (PIT) Count is a regularly conducted (biennial), federally mandated survey of homelessness across all of King County. The information gathered in the PIT [&#8230;]</p>

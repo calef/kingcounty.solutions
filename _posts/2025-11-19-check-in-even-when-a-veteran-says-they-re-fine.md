@@ -1,5 +1,7 @@
 ---
 date: '2025-11-19T19:30:00+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <h2 class="wp-block-heading">Reaching out and showing them you care can be lifesaving</h2>

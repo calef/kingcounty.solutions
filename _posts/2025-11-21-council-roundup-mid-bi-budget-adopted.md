@@ -1,5 +1,7 @@
 ---
 date: '2025-11-21T00:30:01+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Council
   Roundup: Mid-bi budget adopted</span>\n<span class=\"field field--name-uid field--type-entity-reference

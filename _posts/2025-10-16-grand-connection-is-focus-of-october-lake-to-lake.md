@@ -1,5 +1,7 @@
 ---
 date: '2025-10-16T04:03:16+00:00'
+events: []
+events_extracted: true
 images:
 - 54b2194cee32cf79de9f69c90e4cd73bda2ca4953238e2c9d467f54ca8adda82
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Grand

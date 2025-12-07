@@ -1,5 +1,7 @@
 ---
 date: '2025-10-15T16:25:09+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p class="p1">You probably remember your own teenage years, and may even breathe a sigh of relief that those days are behind you. The drama, the pressure to fit in, the constant juggling of school, friendships, and figuring out who you were becoming—it wasn’t easy.</p>

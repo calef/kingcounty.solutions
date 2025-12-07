@@ -1,5 +1,7 @@
 ---
 date: '2025-06-16T15:36:17+00:00'
+events: []
+events_extracted: true
 images:
 - 21936f4a7c21c4d94137788c267617a535fcbf9a14f0dbf65d9e3dea0411e3dc
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Fireworks,

@@ -1,5 +1,7 @@
 ---
 date: '2025-10-31T18:54:45+00:00'
+events: []
+events_extracted: true
 images:
 - 247574ba3dc5de1f82fe04272317e2b297ca0267bdb36fe5ebd7918fab51c1e0
 original_content: "<div class=\"wp-block-image\">\n<figure class=\"alignright size-large

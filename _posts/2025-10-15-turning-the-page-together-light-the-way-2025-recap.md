@@ -1,5 +1,7 @@
 ---
 date: '2025-10-15T23:53:11+00:00'
+events: []
+events_extracted: true
 images:
 - 4fdf634f8e2d9acd0422227e42b3947d305b989a74b3670d8df4da23b7be127d
 original_content: "<div data-elementor-type=\"wp-post\" data-elementor-id=\"10836\"

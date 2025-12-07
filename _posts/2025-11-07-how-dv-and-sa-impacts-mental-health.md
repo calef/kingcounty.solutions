@@ -1,5 +1,7 @@
 ---
 date: '2025-11-07T16:33:08+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p>Mental Health Awareness Month serves as a crucial time to shed light on the various factors that can profoundly impact our emotional and psychological well-being. Among these, domestic violence (DV) and sexual assault (SA) stand out as deeply traumatizing experiences that can leave lasting scars on survivors </p>

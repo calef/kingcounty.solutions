@@ -1,5 +1,7 @@
 ---
 date: '2025-11-06T05:24:13+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: Increased Need for Food Support During the Government Shutdown The
   Rainier Foothills Wellness Foundation has always believed that no one in our community

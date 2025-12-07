@@ -1,5 +1,7 @@
 ---
 date: '2025-10-01T22:16:43+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p>Operations at the King County Regional Homeless Authority (KCRHA) are not impacted by the government shutdown. KCRHA and contracted providers continue to function as normal. [&#8230;]</p>

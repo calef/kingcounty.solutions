@@ -1,5 +1,7 @@
 ---
 date: '2025-11-22T02:03:12+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: Weekend Service Impacts Routes 1, 2, 3, 4, 5, 13, 14, 21, 24, 27,
   28, 33, 40, 62, 124, 131, 132, RapidRide C, D, E, and H Lines will be affected...

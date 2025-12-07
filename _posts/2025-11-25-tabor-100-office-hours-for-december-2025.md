@@ -1,5 +1,7 @@
 ---
 date: '2025-11-25T21:59:05+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: Do you want to learn more about doing business with the City? Do
   you want to know about how the City of Seattle works with women- and minority-owned

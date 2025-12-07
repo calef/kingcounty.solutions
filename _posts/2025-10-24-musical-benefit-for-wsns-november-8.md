@@ -1,5 +1,7 @@
 ---
 date: '2025-10-24T02:58:04+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p class="">It&#8217;s more than music!</p>

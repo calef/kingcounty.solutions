@@ -1,5 +1,7 @@
 ---
 date: '2025-05-14T22:56:16+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: The Federal Way Senior Center and Foodbank will be closed on Monday,
   May 26, 2025, in observance of Memorial Day. We will resume normal operations on

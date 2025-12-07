@@ -11,7 +11,8 @@ class PostsFrontMatterTest < Minitest::Test
     @organization_titles = load_titles('_organizations/*.md')
     @topic_titles = load_titles('_topics/*.md')
     @image_checksums = load_field_values('_images/*.md', 'checksum')
-    @event_slugs = load_event_slugs('_events/*.md')
+    @event_documents = load_event_documents('_events/*.md')
+    @event_slugs = event_documents.keys.to_set
   end
 
   def test_title_is_required
@@ -246,9 +247,33 @@ class PostsFrontMatterTest < Minitest::Test
     assert_empty errors, "Published flag issues:\n#{errors.join("\n")}"
   end
 
+  def test_events_reference_published_events
+    errors = []
+
+    posts.each do |doc|
+      events = doc[:data]['events']
+      next unless events.is_a?(Array)
+
+      events.each do |event_id|
+        event_document = event_documents[event_id]
+        unless event_document
+          errors << "#{doc[:path]} references missing event #{event_id}"
+          next
+        end
+
+        event_data = event_document[:data]
+        next unless event_data['published'] == false
+
+        errors << "#{doc[:path]} references unpublished event #{event_id} (#{event_document[:path]})"
+      end
+    end
+
+    assert_empty errors, "Event publication issues:\n#{errors.join("\n")}"
+  end
+
   private
 
-  attr_reader :posts, :organization_titles, :topic_titles, :image_checksums, :event_slugs
+  attr_reader :posts, :organization_titles, :topic_titles, :image_checksums, :event_slugs, :event_documents
 
   def load_documents(glob)
     Dir[glob].map do |path|
@@ -289,11 +314,11 @@ class PostsFrontMatterTest < Minitest::Test
     end
   end
 
-  def load_event_slugs(glob)
-    Dir[glob].each_with_object(Set.new) do |path, slugs|
-      # Extract slug from filename (e.g., "_events/2025-12-15-meeting.md" -> "2025-12-15-meeting")
+  def load_event_documents(glob)
+    Dir[glob].each_with_object({}) do |path, collection|
       slug = File.basename(path, '.md')
-      slugs << slug
+      normalized_path = normalize_event_path(path)
+      collection[slug] = { path: normalized_path, data: read_front_matter(path) }
     end
   end
 
@@ -316,5 +341,15 @@ class PostsFrontMatterTest < Minitest::Test
     uri.host && %w[http https].include?(uri.scheme)
   rescue URI::InvalidURIError
     false
+  end
+
+  def normalize_event_path(path)
+    return path if path.start_with?('_events/')
+
+    marker = '/_events/'
+    index = path.index(marker)
+    return path unless index
+
+    "_events/#{path[(index + marker.length)..]}"
   end
 end

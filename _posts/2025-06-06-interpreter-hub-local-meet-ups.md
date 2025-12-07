@@ -1,5 +1,7 @@
 ---
 date: '2025-06-06T15:29:15+00:00'
+events: []
+events_extracted: true
 images:
 - e9c5d3095b56a91ee78a291e6072b5941200f913621a4e95cddefcfe1502bdbb
 original_content: "<p><img decoding=\"async\" class=\"aligncenter  wp-image-10879\"

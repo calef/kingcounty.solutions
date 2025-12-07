@@ -1,5 +1,7 @@
 ---
 date: '2025-09-04T23:01:58+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p data-start="52" data-end="444">When Dr. Bonnie McGregor founded the Orion Center for Integrative Medicine in 2015, it was with one clear conviction: cancer care must treat the whole person. As a psychologist, researcher, and advocate, Dr. McGregor has long been passionate about bringing integrative and psychological care into the standard of cancer treatment—not as an afterthought, but as an essential part of healing.</p>

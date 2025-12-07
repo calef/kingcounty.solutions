@@ -1,5 +1,7 @@
 ---
 date: '2025-05-03T05:01:42+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   ![](https://sophiaway.org/wp-content/uploads/2025/05/Image-blog-2025-05.png)

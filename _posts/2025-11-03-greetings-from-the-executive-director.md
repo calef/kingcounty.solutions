@@ -1,5 +1,7 @@
 ---
 date: '2025-11-03T18:36:15+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: <a href="https://wscenter.org/greetings-from-the-executive-director-3/"><p>The
   days are getting darker and colder, but it’s warm, cozy and filled with activity

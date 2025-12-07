@@ -1,5 +1,7 @@
 ---
 date: '2025-01-03T08:20:45+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: "<p>Unlock funds for internships, training, and new hires. Application
   opens January 27!</p>\n<p>The post <a href=\"https://worksourceskc.org/%f0%9f%9a%80-announcing-workforce-accelerator-grant-for-small-businesses/\">\U0001F680

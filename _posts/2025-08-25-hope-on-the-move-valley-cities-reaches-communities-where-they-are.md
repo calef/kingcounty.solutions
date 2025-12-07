@@ -1,5 +1,7 @@
 ---
 date: '2025-08-25T19:29:10+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p>As seen in the Kent and Renton Reporters</p>

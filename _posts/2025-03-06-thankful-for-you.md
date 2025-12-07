@@ -1,5 +1,7 @@
 ---
 date: '2025-03-06T19:38:14-08:00'
+events: []
+events_extracted: true
 images: []
 original_content: In this season of Thanksgiving, we want you to know how grateful
   we are for your partnership and prayers. Together we are truly breaking the cycle

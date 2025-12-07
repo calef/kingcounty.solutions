@@ -1,5 +1,7 @@
 ---
 date: '2025-10-01T20:54:40+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: "<div class=\"shell\" lang=\"en-US\" dir=\"ltr\" style=\"background-color:
   #F5F5F5;\"> <table class=\"shell_panel-row\" width=\"100%\" border=\"0\" cellpadding=\"0\"

@@ -1,5 +1,7 @@
 ---
 date: '2025-11-21T21:30:00+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <h2 class="wp-block-heading">Explore VA&#8217;s innovation, patient-centered pharmacy</h2>

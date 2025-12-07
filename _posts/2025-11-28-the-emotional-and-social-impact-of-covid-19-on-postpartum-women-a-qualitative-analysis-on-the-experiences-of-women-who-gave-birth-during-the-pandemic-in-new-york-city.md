@@ -1,5 +1,7 @@
 ---
 date: '2025-11-28T06:00:00-05:00'
+events: []
+events_extracted: true
 images: []
 original_content: '<div><p style="color: #4aa564;">Womens Health (Lond). 2025 Jan-Dec;21:17455057251398252.
   doi: 10.1177/17455057251398252. Epub 2025 Nov 27.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink"

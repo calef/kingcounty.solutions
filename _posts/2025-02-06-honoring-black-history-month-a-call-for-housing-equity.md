@@ -1,5 +1,7 @@
 ---
 date: '2025-02-06T18:20:41+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: "![](https://sophiaway.org/wp-content/uploads/2025/02/Image-BHM-2025-02.png)\n\nAs
   we commemorate Black History Month, **The Sophia Way recognizes the deep-rooted

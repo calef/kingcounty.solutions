@@ -1,5 +1,7 @@
 ---
 date: '2025-04-25T17:21:21+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: GiveBIG Early Giving is Open! Support Tiny Houses &#38; Urban Rest
   Stops Your Gift Doubled! GiveBIG early giving is open! Thanks to the...

@@ -1,5 +1,7 @@
 ---
 date: '2025-04-05T22:00:00Z'
+events: []
+events_extracted: true
 images:
 - d7462171b243cbd4e851afa410aed21935bdaab80358b77d7013eda2b13119a1
 original_content: <img src="https://img1.wsimg.com/isteam/ip/02d99612-388e-465c-94d0-09bea0e32177/IMG_2816.jpeg"/><p>Burien

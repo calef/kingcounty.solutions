@@ -1,5 +1,8 @@
 ---
 date: '2025-10-30T18:49:22+00:00'
+events:
+- 2026-10-30-2026-national-school-based-health-care-conference
+events_extracted: true
 images: []
 original_content: The National School-Based Health Alliance is seeking contributions
   from SBHC providers and advocates focused on student health. They invite proposals

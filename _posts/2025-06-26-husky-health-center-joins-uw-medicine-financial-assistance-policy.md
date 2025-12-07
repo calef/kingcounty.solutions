@@ -1,5 +1,7 @@
 ---
 date: '2025-06-26T20:57:04+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p>As of 7/1/2025, Husky Health Clinic will be a part of the UW Medicine financial assistance policy. Effective July 1, 2025, Husky Health will be a part of the UW Medicine financial assistance policy for professional services with dates of service on or after July 1, 2025. UW Medicine provides financial assistance for any patient/guarantor whose gross family income is up to 400%</p>

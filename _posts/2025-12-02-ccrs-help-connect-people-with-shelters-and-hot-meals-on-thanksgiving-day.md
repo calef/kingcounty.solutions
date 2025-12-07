@@ -1,5 +1,7 @@
 ---
 date: '2025-12-02T20:03:16+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <img width="150" height="150" src="https://withcare.seattle.gov/wp-content/uploads/sites/41/2025/11/SCD6408-150x150.jpeg" class="webfeedsFeaturedVisual wp-post-image" alt=""/><p>We hope you all had a good Thanksgiving! Here’s what CCRs were up to during the holiday.</p>

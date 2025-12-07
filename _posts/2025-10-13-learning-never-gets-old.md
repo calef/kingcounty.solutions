@@ -1,5 +1,7 @@
 ---
 date: '2025-10-13T15:44:31+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: <a href="https://wscenter.org/learning-never-gets-old/"><p>Do you
   remember the day that you graduated from high school? You were probably thrilled

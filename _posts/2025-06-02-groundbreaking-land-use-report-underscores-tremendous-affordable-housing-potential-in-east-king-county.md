@@ -1,5 +1,7 @@
 ---
 date: '2025-06-02T19:04:43+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p>The Eastside Housing Analysis is a groundbreaking land-use report that maps the breadth of housing development opportunities across Eastside jurisdictions, modeled after Bellevue’s Affordable Housing Strategy.</p>

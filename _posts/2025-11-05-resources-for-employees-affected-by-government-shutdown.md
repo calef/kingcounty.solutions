@@ -1,5 +1,7 @@
 ---
 date: '2025-11-05T03:23:00+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: "<p>With the federal government now in shutdown, thousands of workers
   and families across the nation — including right here in our community — are feeling

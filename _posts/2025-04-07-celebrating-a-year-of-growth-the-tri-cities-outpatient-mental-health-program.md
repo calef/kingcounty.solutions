@@ -1,5 +1,7 @@
 ---
 date: '2025-04-07T15:39:30+00:00'
+events: []
+events_extracted: true
 images:
 - fc2b5cc024eaaa08eeb88ed8b4d9d533de9eeec5696cbb1ddef413699c392d9c
 original_content: "<div class=\"et_pb_section et_pb_section_12 blog-post-type et_section_regular\"

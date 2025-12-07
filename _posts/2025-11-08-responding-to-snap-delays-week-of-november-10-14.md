@@ -1,5 +1,7 @@
 ---
 date: '2025-11-08T01:21:36+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p>With the details about the restoration of SNAP benefits still not clear, we&#8217;ve added a second Mobile Food Pantry stop next week. We&#8217;ll return to our regular Wallingford Food Bank [&#8230;]</p>

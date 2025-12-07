@@ -1,5 +1,7 @@
 ---
 date: '2025-11-20T22:31:26+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: This year, we’re celebrating 30 years of our Support, Advocacy,
   Growth + Employment (SAGE) team — a program that recognizes that to view a client

@@ -1,5 +1,7 @@
 ---
 date: '2025-11-26T06:00:00-05:00'
+events: []
+events_extracted: true
 images: []
 original_content: '<div><p style="color: #4aa564;">Glob Health Action. 2025 Dec;18(1):2581454.
   doi: 10.1080/16549716.2025.2581454. Epub 2025 Nov 26.</p><p><b>ABSTRACT</b></p><p

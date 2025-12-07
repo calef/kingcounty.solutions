@@ -1,5 +1,7 @@
 ---
 date: '2025-10-17T16:29:27+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: 'LIHI and other nonprofit housing providers are calling on the City
   of Seattle to add $10 million for tenant-based rental assistance - and we need your

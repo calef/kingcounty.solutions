@@ -1,5 +1,7 @@
 ---
 date: '2025-11-26T15:30:00+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p>You served with dedication and strength. Now, you deserve health care that recognizes your service and supports your whole health. At VA, our mission is to provide care designed for Veterans—including women Veterans—at every stage of life.</p>

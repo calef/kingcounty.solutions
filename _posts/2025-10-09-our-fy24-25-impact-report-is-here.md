@@ -1,5 +1,7 @@
 ---
 date: '2025-10-09T23:53:14+00:00'
+events: []
+events_extracted: true
 images:
 - 796f4803fbd553f9a0bd3351f24fbd5a8d0d716b3cbeca5c66f9bb070d57505c
 - ca879517e14554fa129509340e6e34f4a011fc0718ab22ccdc64327f1848bea9

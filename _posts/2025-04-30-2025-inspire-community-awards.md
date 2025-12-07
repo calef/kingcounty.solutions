@@ -1,5 +1,7 @@
 ---
 date: '2025-04-30T19:05:55+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   ![](https://encompassnw.org/wp-content/uploads/2025/04/InspireAwards-300x157.png)A highlight of our Inspire Breakfast each year is our Community Awards segment, which honors a business, a community organization, and a volunteer who all share in our vision of a community where ALL children thrive. &nbsp;This year’s awards were presented by Honorary Chair Nancy Whitaker and Encompass Executive Director Nela Cumming.

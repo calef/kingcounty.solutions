@@ -1,5 +1,7 @@
 ---
 date: '2025-12-02T22:03:13+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p>Daniele Lyman-Torres, Akin&#8217;s Chief Program Officer, discusses the broken state of federal social services and urges for funding of human service community organizations.</p>

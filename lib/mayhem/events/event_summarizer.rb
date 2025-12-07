@@ -12,6 +12,7 @@ module Mayhem
   module Events
     class EventSummarizer
       EVENTS_DIR = '_events'
+      POSTS_DIR = '_posts'
       MAX_ARTICLE_CHARS = 20_000
       DEFAULT_MODEL = ENV.fetch('OPENAI_EVENT_MODEL', ENV.fetch('OPENAI_MODEL', 'gpt-4o-mini'))
       TOPIC_DIR = '_topics'
@@ -126,7 +127,14 @@ module Mayhem
           end
         end
 
-        front_matter['published'] = false if needs_topics && Array(front_matter['topics']).empty?
+        if needs_topics && Array(front_matter['topics']).empty?
+          front_matter['published'] = false
+          if generated_from_post
+            event_slug = File.basename(file_path, '.md')
+            removed_refs = remove_event_references(event_slug)
+            stats[:events_unlinked] += removed_refs if removed_refs&.positive?
+          end
+        end
 
         document.front_matter = front_matter
         document.save
@@ -208,6 +216,27 @@ module Mayhem
         nil
       end
 
+      def remove_event_references(event_slug)
+        updated_posts = 0
+        Dir.glob(File.join(POSTS_DIR, '*.md')).each do |post_path|
+          document = Mayhem::Support::FrontMatterDocument.load(post_path, logger: @logger)
+          next unless document
+
+          front_matter = document.front_matter
+          events = front_matter['events']
+          next unless events.is_a?(Array)
+          next unless events.include?(event_slug)
+
+          updated_events = events.reject { |id| id == event_slug }
+          front_matter['events'] = updated_events.empty? ? [] : updated_events
+          document.front_matter = front_matter
+          document.save
+          updated_posts += 1
+          @logger.info "Removed event #{event_slug} from #{post_path}"
+        end
+        updated_posts
+      end
+
       def fetch_article_text(url)
         return '' if url.to_s.strip.empty?
 
@@ -230,6 +259,7 @@ module Mayhem
           skipped_missing_body: stats[:skipped_missing_body],
           failed_summary: stats[:failed_summary],
           missing_topics: stats[:missing_topics],
+          events_unlinked: stats[:events_unlinked],
           errors: stats[:errors]
         }
         summary_text = summary_fields.map { |key, value| "#{key}=#{value}" }.join(', ')

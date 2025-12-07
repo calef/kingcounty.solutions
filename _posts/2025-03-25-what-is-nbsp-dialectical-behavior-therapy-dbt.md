@@ -1,5 +1,7 @@
 ---
 date: '2025-03-25T02:00:00+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: '<p class="">Dialectical Behavior Therapy (DBT) is a type of cognitive-behavioral
   therapy (CBT) developed by Dr. Marsha Linehan in the late 1980s. It was initially

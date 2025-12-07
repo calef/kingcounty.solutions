@@ -1,5 +1,7 @@
 ---
 date: '2025-10-22T17:30:59+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p>CORVALLIS, Ore. — The boards of directors for the Corvallis-based Samaritan Health Services and Tacoma-based MultiCare Health System have approved an affiliation between the two organizations, marking a major milestone in advancing access to high-quality, community-based health care across Oregon and the Pacific Northwest.</p>

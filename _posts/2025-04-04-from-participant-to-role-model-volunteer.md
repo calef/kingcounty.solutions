@@ -1,5 +1,7 @@
 ---
 date: '2025-04-04T20:00:43+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: "<div data-elementor-type=\"wp-post\" data-elementor-id=\"8737\"
   class=\"elementor elementor-8737\">\n\t\t\t\t<div class=\"elementor-element elementor-element-195de1c

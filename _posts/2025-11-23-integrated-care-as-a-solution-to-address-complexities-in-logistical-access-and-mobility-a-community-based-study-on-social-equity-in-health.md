@@ -1,5 +1,7 @@
 ---
 date: '2025-11-23T06:00:00-05:00'
+events: []
+events_extracted: true
 images: []
 original_content: '<div><p style="color: #4aa564;">J Evid Based Soc Work (2019). 2025
   Nov 23:1-22. doi: 10.1080/26408066.2025.2593478. Online ahead of print.</p><p><b>ABSTRACT</b></p><p

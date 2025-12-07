@@ -1,5 +1,7 @@
 ---
 date: '2025-11-03T22:15:40+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <h2><strong>Donor Spotlight: Sarah Hamid &#8211; Following Her Heart</strong></h2>

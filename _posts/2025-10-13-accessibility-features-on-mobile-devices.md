@@ -1,5 +1,8 @@
 ---
 date: '2025-10-13T18:10:25+00:00'
+events:
+- 2025-12-31-accessibility-features-workshop
+events_extracted: true
 images: []
 original_content: |-
   <p>This is an interactive workshop covering features on Apple and Android devices. We will discuss use features for hearing, vision, and speech along with other impairments. We will guide you through settings so you can customize them to make your mobile device easier to use! Please call the Reception Desk to register.</p>

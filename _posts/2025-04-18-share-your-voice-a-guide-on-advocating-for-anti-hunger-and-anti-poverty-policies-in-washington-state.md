@@ -1,5 +1,7 @@
 ---
 date: '2025-04-18T18:10:00+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: "<p class=\"\">More of our neighbors are experiencing stress, anxiety,
   and depression due to economic factors such as increasing grocery prices. In Southeast

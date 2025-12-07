@@ -1,5 +1,7 @@
 ---
 date: '2025-11-08T00:39:45+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: Friends of Youth has officially opened Bridge Pointe Housing, a
   healing place for young adults, 18 - 24, transitioning from inpatient treatment.

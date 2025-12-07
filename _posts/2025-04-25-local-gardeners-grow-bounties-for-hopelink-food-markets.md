@@ -1,5 +1,7 @@
 ---
 date: '2025-04-25T21:29:12+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: "## **Local Gardeners Grow Bounties for Hopelink Food Markets&nbsp;**
   &nbsp;\n\n![Picking tomatoes fresh off the vine at St. John Vianney Catholic Church

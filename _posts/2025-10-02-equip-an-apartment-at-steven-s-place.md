@@ -1,5 +1,7 @@
 ---
 date: '2025-10-02T00:22:00+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: DESC is almost ready to have clients move into Steven's Place and
   we need your help to make our 109 incoming residents feel at home.

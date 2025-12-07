@@ -1,5 +1,9 @@
 ---
 date: '2025-11-12T16:19:47+00:00'
+events:
+- 2025-12-08-meals-on-wheels-volunteer-calling
+- 2025-12-15-meals-on-wheels-volunteer-calling
+events_extracted: true
 images: []
 original_content: "<p><strong>Position: </strong>Caller                           
                                                                       <strong>Program:</strong> Meals

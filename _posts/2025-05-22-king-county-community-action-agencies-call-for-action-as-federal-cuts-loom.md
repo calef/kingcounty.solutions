@@ -1,5 +1,7 @@
 ---
 date: '2025-05-22T14:31:37+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <div class="wp-block-columns container-narrow has-1-columns is-layout-flex wp-container-20 wp-block-columns-is-layout-flex">

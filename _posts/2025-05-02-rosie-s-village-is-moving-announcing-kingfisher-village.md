@@ -1,5 +1,7 @@
 ---
 date: '2025-05-02T22:15:19+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: LIHI is pleased to announce the relocation of Rosie’s Village ,
   a tiny house village that was originally located in the University...

@@ -1,5 +1,7 @@
 ---
 date: '2025-10-21T20:40:27+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">DOH
   Launches Measles Exposure Map to Help Keep Washingtonians Safe</span>\n\n            <div

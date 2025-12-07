@@ -1,5 +1,7 @@
 ---
 date: '2025-03-11T07:12:18+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: As temperatures rise and the days grow longer, we often get the
   urge to embark on that annual tradition of “spring cleaning.” It’s the...

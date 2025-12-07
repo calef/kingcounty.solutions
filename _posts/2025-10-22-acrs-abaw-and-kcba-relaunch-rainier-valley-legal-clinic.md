@@ -1,5 +1,7 @@
 ---
 date: '2025-10-22T14:01:00+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: "<p>ACRS, ABAW, and KCBA relaunch Rainier Valley Legal Clinic.</p>"
 original_markdown_body: ACRS, ABAW, and KCBA relaunch Rainier Valley Legal Clinic.

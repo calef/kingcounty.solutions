@@ -1,5 +1,7 @@
 ---
 date: '2025-09-03T20:52:32+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p>For Matt and Mary-Pat Beattie, supporting YES is deeply personal. Their connection to YES began years ago when their son Jack, 13 at the time, was referred by his school for early substance use counseling. What started as a one-time visit became a lasting relationship with the organization that offered Jack and his entire family a safe place through his <span style="color: #ff6600;"><a style="color: #ff6600;" href="https://www.youtheastsideservices.org/services/substance-use-treatment/">journey with substance use</a></span> and mental health challenges.</p>

@@ -1,5 +1,7 @@
 ---
 date: '2025-11-26T18:13:11+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: Seattle police officers arrested a 30-year-old violent felon armed
   with a machete while doing proactive patrols in the Chinatown-International District

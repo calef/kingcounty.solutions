@@ -1,5 +1,7 @@
 ---
 date: '2025-10-14T23:19:20+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: "<p>A heartwarming thank you for making Rhythms of Resilience an
   unforgettable evening.\U0001F49B</p>\n<p>The post <a href=\"https://casa-latina.org/rhythms-of-resilience-event-recap/\">Rhythms

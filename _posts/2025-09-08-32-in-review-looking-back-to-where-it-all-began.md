@@ -1,5 +1,7 @@
 ---
 date: '2025-09-08T19:28:30+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: "<h2 data-start=\"924\" data-end=\"1111\">32 in Review:  Looking
   Back to Where it All Began</h2>\n<p data-start=\"924\" data-end=\"1111\">Thirty-two

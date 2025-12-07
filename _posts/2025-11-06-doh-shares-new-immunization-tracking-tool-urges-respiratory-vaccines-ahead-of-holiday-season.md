@@ -1,5 +1,7 @@
 ---
 date: '2025-11-06T16:34:51+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <span class="field field--name-title field--type-string field--label-hidden">DOH shares new immunization tracking tool, urges respiratory vaccines ahead of holiday season</span>

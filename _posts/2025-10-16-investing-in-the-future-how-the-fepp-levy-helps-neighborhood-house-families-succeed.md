@@ -1,5 +1,7 @@
 ---
 date: '2025-10-16T23:36:29+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p>At Neighborhood House, we see every day how investments in education create opportunities for young people and families. The City of Seattle’s Families, Education, Preschool, and Promise (FEPP) Levy makes those investments possible — supporting children and teens through programs we operate, like ParentChild+, and through opportunities across the city.&#160; Now, with the renewal of ... </p>

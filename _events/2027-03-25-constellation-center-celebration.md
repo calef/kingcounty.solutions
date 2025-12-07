@@ -1,0 +1,16 @@
+---
+generated_from_post: true
+images: []
+location: Broadway and Pine, Capitol Hill
+original_markdown_body: Celebration for the completion of the Constellation Center,
+  a collaborative project addressing youth homelessness.
+source: Community Roots Housing
+source_url: https://communityrootshousing.org/2025/02/youthcare-constellation-center/
+start_date: '2027-03-25T00:00:00-07:00'
+summarized: true
+title: Constellation Center Celebration
+topics:
+- Shelter & Housing
+---
+
+Join the community for the Constellation Center Celebration on March 25, 2027, at Broadway and Pine in Capitol Hill. This event marks the completion of the Constellation Center, a collaborative effort aimed at addressing youth homelessness. Attendees can expect engaging activities, informative presentations, and opportunities to learn more about the center's mission and impact. Celebrate this important milestone and discover how the Constellation Center will serve as a vital resource for local youth in need. Don't miss this chance to connect with community members and support a worthy cause.

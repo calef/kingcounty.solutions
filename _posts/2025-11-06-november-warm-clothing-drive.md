@@ -1,5 +1,7 @@
 ---
 date: '2025-11-06T22:02:53+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p>We are collecting warm clothes at St. Luke&#8217;s for our neighbors With the homelessness crisis, much (needed) time and money are devoted to ensuring no one in our neighborhood goes &#8230; <a class="kt-excerpt-readmore" href="https://stlukesseattle.org/2025/11/06/november-warm-clothing-drive/" aria-label="November Warm Clothing Drive">Read More</a></p>

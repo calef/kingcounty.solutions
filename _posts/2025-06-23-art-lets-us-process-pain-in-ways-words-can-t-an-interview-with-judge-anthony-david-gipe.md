@@ -1,5 +1,7 @@
 ---
 date: '2025-06-23T20:58:09+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   **_“Art Lets us Process Pain in Ways Words Can’t.”_**

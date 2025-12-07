@@ -1,5 +1,7 @@
 ---
 date: '2025-11-13T23:07:15+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <span class="field field--name-title field--type-string field--label-hidden">State revokes, suspends licenses, certifications, registrations of health care providers</span>

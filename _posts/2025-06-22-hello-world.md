@@ -1,5 +1,7 @@
 ---
 date: '2025-06-22T16:04:42+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: "<p>Welcome to WordPress. This is your first post. Edit or delete
   it, then start writing!</p>"

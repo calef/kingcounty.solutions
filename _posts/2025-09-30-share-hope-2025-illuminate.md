@@ -1,5 +1,7 @@
 ---
 date: '2025-09-30T20:34:12+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: Join us for Share Hope 2025, an elegant evening of healing and giving
   to benefit survivors of interpersonal violence on Vashon Island. As...

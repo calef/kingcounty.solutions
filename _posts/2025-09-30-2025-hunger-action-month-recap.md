@@ -1,5 +1,7 @@
 ---
 date: '2025-09-30T19:48:12+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p>Did you know that September is Hunger Action Month? This month, we’ve been bringing attention to the issue of food insecurity in our community and sharing ways that you can [&#8230;]</p>

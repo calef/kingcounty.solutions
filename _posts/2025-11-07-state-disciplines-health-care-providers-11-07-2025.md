@@ -1,5 +1,7 @@
 ---
 date: '2025-11-07T17:35:23+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <span class="field field--name-title field--type-string field--label-hidden">State disciplines health care providers (11-07-2025)</span>

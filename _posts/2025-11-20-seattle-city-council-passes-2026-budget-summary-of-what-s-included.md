@@ -1,5 +1,7 @@
 ---
 date: '2025-11-20T18:51:49+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p>The Seattle City Council’s budget committee unanimously passed the 2026 budget making record investments in improving safety and affordability for working families.     It focuses on affordability, homelessness, public safety, building community, and fiscal responsibility.   The mayor released his budget proposal on September 23. After two months of intensive analysis and debate, which included 17 public...</p>

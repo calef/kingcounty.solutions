@@ -1,5 +1,7 @@
 ---
 date: '2025-11-18T17:09:46+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: '<p class="">The holidays are just around the corner! Explore these
   local Thanksgiving meal events to find the right fit for you and your family. If

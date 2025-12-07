@@ -1,5 +1,7 @@
 ---
 date: '2025-05-02T20:03:00+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: Every May, we celebrate Older Americans Month  — a time to honor
   the contributions of older adults and shine a light on the issues they...

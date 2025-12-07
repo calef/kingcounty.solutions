@@ -1,5 +1,7 @@
 ---
 date: '2025-09-24T20:30:40+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <h2><strong>Donor Spotlight: Jennifer’s Story – Investing in Hope, Year After Year</strong></h2>

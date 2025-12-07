@@ -1,5 +1,7 @@
 ---
 date: '2025-08-01T23:04:12+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   The Journey of a Mother After a harrowing year-long wait, Durga arrived in the US from India with a meagre 200 dollars. Her daughters needed their mother – the only [...]

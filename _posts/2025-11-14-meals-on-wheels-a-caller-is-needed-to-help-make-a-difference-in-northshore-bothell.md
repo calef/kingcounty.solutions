@@ -1,5 +1,7 @@
 ---
 date: '2025-11-14T17:47:46+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p><strong>Program:</strong> Meals on Wheels<br />

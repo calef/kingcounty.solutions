@@ -1,5 +1,7 @@
 ---
 date: '2025-11-21T17:19:57+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <h2><span data-contrast="auto">For young people navigating mental health needs, education and career development support can be transformative.</span></h2>

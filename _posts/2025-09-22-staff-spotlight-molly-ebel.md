@@ -1,5 +1,7 @@
 ---
 date: '2025-09-22T06:00:27+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p>What is your role at Aging Wisdom? Creative Engagement Specialist What made you want to work in the field of aging? I was inspired to work with older adults following my family’s experience caring for my parents as they faced health issues in their later years. I completed the UW Certificate in Gerontology program and [&#8230;]</p>

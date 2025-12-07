@@ -1,5 +1,7 @@
 ---
 date: '2025-08-22T15:46:55+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: 'Link to full article:  A housing project that''s showing the island''s
   true colors, one way or the other | Opinion piece in Kitsap Sun...'

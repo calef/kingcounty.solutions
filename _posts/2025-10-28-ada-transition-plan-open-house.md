@@ -1,5 +1,7 @@
 ---
 date: '2025-10-28T23:33:00+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: "![](https://www.burienwa.gov/UserFiles/Servers/Server_11045935/Image/Featured_Events/2025/ADA%20Transition%20Plan%20Update%20-%20FE.png)Join
   the City of Burien's Public Works team to discuss pedestrian mobility and share

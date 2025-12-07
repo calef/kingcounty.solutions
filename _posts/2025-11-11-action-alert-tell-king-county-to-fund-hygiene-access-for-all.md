@@ -1,5 +1,7 @@
 ---
 date: '2025-11-11T00:31:06+00:00'
+events: []
+events_extracted: true
 images:
 - fdeef3207d36ffb4c16b09e078eba32db9a771f854d378087f13733f283346b4
 original_content: "<p class=\"\">Thousands of King County residents struggle to afford

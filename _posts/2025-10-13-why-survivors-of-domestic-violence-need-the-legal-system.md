@@ -1,5 +1,7 @@
 ---
 date: '2025-10-13T17:10:01+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: "October is Domestic Violence Awareness Month—a time to stand with
   survivors, honor their strength, and shine a light on the challenges they face when

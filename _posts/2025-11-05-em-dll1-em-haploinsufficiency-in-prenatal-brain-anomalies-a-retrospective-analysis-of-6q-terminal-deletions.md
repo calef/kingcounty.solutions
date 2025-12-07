@@ -1,5 +1,7 @@
 ---
 date: '2025-11-05T06:00:00-05:00'
+events: []
+events_extracted: true
 images: []
 original_content: '<div><p style="color: #4aa564;">Front Genet. 2025 Oct 20;16:1640775.
   doi: 10.3389/fgene.2025.1640775. eCollection 2025.</p><p><b>ABSTRACT</b></p><p xmlns:xlink="http://www.w3.org/1999/xlink"

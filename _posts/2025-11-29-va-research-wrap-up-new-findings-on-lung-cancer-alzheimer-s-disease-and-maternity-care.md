@@ -1,5 +1,7 @@
 ---
 date: '2025-11-29T14:30:00+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p>VA’s Office of Research and Development recently published three <a href="https://www.research.va.gov/news_briefs/default.cfm" rel="noopener">News Briefs</a> highlighting research findings on a lung cancer treatment, Alzheimer&#8217;s disease and maternity care.</p>

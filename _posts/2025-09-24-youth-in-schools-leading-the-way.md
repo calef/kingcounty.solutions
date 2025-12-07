@@ -1,5 +1,7 @@
 ---
 date: '2025-09-24T21:14:33+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <h1 data-start="259" data-end="324">Tesla High School’s Mental Health Club</h1>

@@ -1,5 +1,7 @@
 ---
 date: '2025-09-15T18:30:00+00:00'
+events: []
+events_extracted: true
 images:
 - 88660ade4a815d9648d123543b5a045730a57f38504cccd2bb63e5b723579675
 - a7b66aded8d7ae566ec714030120d89f446be8adfcefe0a5ac21337cae92e874

@@ -1,5 +1,7 @@
 ---
 date: '2025-11-25T03:24:20+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: |-
   <p class="">What better day to help our unhoused neighbors than Thanksgiving? Westside Neighbors Shelter is hoping to provide a Thanksgiving dinner for the 40 men and women <a></a>sheltering from the cold in the American Legion Hall.</p>

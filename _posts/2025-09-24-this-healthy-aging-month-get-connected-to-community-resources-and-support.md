@@ -1,5 +1,7 @@
 ---
 date: '2025-09-24T21:53:36+00:00'
+events: []
+events_extracted: true
 images: []
 original_content: September is Healthy Aging Month, an opportunity to raise awareness
   about the unique needs of older adults and their caregivers. Across the nation,

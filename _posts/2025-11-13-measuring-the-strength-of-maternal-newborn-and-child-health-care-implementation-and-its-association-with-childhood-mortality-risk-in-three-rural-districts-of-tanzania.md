@@ -1,5 +1,7 @@
 ---
 date: '2025-11-13T06:00:00-05:00'
+events: []
+events_extracted: true
 images: []
 original_content: '<div><p style="color: #4aa564;">PLOS Glob Public Health. 2025 Nov
   13;5(11):e0005346. doi: 10.1371/journal.pgph.0005346. eCollection 2025.</p><p><b>ABSTRACT</b></p><p

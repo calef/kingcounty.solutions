@@ -1,5 +1,7 @@
 ---
 date: '2025-05-29T20:10:46+00:00'
+events: []
+events_extracted: true
 images:
 - 5bcc2d84f308e1297cc480bb11500dd071107b9ff7916f425d2037a4f130e8b2
 original_content: "<p class=\"\"><strong><em>By Nikita</em></strong>&nbsp;</p><p class=\"\">If
