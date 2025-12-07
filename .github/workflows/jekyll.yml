@@ -35,11 +35,6 @@ jobs:
           ruby-version: '3.4.7'   # or whatever version you prefer
           bundler-cache: true     # caches gems between runs
 
-      - name: Ensure scripts are executable
-        run: |
-          chmod +x script/bootstrap
-          chmod +x script/cibuild
-
       - name: Install dependencies
         run: ./script/bootstrap
 
