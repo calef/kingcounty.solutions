@@ -69,6 +69,11 @@ module Mayhem
         end
 
         front_matter = document.front_matter
+        if front_matter['locked'] == true
+          @logger.debug "Skipping #{file_path}: locked is true"
+          stats[:skipped_locked] += 1
+          return
+        end
         if front_matter['published'] == false
           @logger.debug "Skipping #{file_path}: published is false"
           stats[:skipped_unpublished] += 1
@@ -203,6 +208,7 @@ module Mayhem
           updated: stats[:updated],
           skipped_no_frontmatter: stats[:skipped_no_frontmatter],
           skipped_unpublished: stats[:skipped_unpublished],
+          skipped_locked: stats[:skipped_locked],
           skipped_missing_source: stats[:skipped_missing_source],
           failed_summary: stats[:failed_summary],
           missing_topics: stats[:missing_topics],

@@ -3,6 +3,10 @@ Aggregates public service resources into a simple, searchable website to help pe
 
 See `bin/README.md` and `script/README.md` for the automation helpers that handle data imports, audits, environment setup, and local preview workflows.
 
+## Freezing imported entries
+
+Automation can leave curated edits intact by setting `locked: true` in a post or event’s front matter. When this flag is present, the RSS/iCal importers, AI summarizers, and image extractor all skip the file entirely so the current body/front matter stay untouched while the rest of the pipeline continues to run.
+
 ## Sitemap
 
 The `jekyll-sitemap` plugin is enabled so every build emits an up-to-date `sitemap.xml` at the site root for search engines and site audits.

@@ -185,6 +185,8 @@ module Mayhem
           stats[:skipped_unpublished] += 1
         when :skipped_unchanged
           stats[:unchanged] += 1
+        when :skipped_locked
+          stats[:locked] += 1
         end
       end
 
@@ -215,6 +217,12 @@ module Mayhem
         )
         filename = File.join(@news_dir, "#{date_prefix}-#{title_slug}.md")
 
+        if locked_post?(filename)
+          @logger.info "Skipping update for locked post #{filename}"
+          register_post(link_url)
+          return :skipped_locked
+        end
+
         if Mayhem::Support::PublishGuard.unpublished?(filename, logger: @logger)
           @logger.info "Skipping update for unpublished post #{filename}"
           register_post(link_url)
@@ -243,6 +251,10 @@ module Mayhem
         document.save
         register_post(link_url)
         :created
+      end
+
+      def locked_post?(filename)
+        Mayhem::Support::FrontMatterDocument.locked?(filename, logger: @logger)
       end
 
       def published_at(item)
@@ -350,7 +362,8 @@ module Mayhem
           missing_publish_date: 'missing_date',
           empty_content: 'no_content',
           skipped_unpublished: 'unpublished_locked',
-          unchanged: 'unchanged'
+          unchanged: 'unchanged',
+          locked: 'locked'
         }
         parts = labels.map do |key, label|
           value = stats[key]

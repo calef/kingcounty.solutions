@@ -14,6 +14,8 @@ module Mayhem
 
       ParseResult = Struct.new(:front_matter, :body, :raw, keyword_init: true)
 
+      LOCK_KEY = 'locked'
+
       class ParseError < StandardError; end
 
       attr_reader :path
@@ -30,6 +32,13 @@ module Mayhem
         rescue ParseError => e
           logger&.warn("Failed to parse #{path}: #{e.message}")
           nil
+        end
+
+        def locked?(path, logger: nil)
+          document = load(path, logger:)
+          document&.locked?
+        rescue StandardError
+          false
         end
 
         def parse(content, permitted_classes: PERMITTED_CLASSES)
@@ -101,6 +110,10 @@ module Mayhem
 
       def save(target_path = path)
         File.write(target_path, serialized_content)
+      end
+
+      def locked?
+        @front_matter[LOCK_KEY] == true
       end
 
       private
