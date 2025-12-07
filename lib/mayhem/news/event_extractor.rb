@@ -65,6 +65,12 @@ module Mayhem
           return
         end
 
+        unless front_matter['summarized'] == true
+          @logger.debug "Skipping #{file_path}: summarized is not true"
+          stats[:skipped_unsummarized] += 1
+          return
+        end
+
         # Get post content for analysis
         post_content = document.body || ''
         post_title = front_matter['title'] || ''
@@ -260,6 +266,7 @@ module Mayhem
           past_events_skipped: stats[:past_events_skipped],
           skipped_no_frontmatter: stats[:skipped_no_frontmatter],
           skipped_unpublished: stats[:skipped_unpublished],
+          skipped_unsummarized: stats[:skipped_unsummarized],
           skipped_locked: stats[:skipped_locked],
           skipped_already_extracted: stats[:skipped_already_extracted],
           skipped_empty_content: stats[:skipped_empty_content],

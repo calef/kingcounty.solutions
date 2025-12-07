@@ -25,7 +25,7 @@ Set `locked: true` in a post or event’s front matter to freeze it in place. Im
 
 ### `audit-organization-topics`
 
-**Purpose**  
+**Purpose**
 Reviews each `_organizations/*.md` file’s topics using `_topics/` metadata plus up to `--max-posts` recent news posts, letting OpenAI classify topics as `true`, `false`, or `unclear`. Can output a JSON report and optionally rewrite `topics` front matter entries.
 
 **Usage**
@@ -47,7 +47,7 @@ Reviews each `_organizations/*.md` file’s topics using `_topics/` metadata plu
 
 ### `generate-organization-from-url`
 
-**Purpose**  
+**Purpose**
 Scrapes a single organization website (following same-host links) and asks OpenAI to draft front matter and a short summary, then writes a new `_organizations/<slug>.md` entry.
 
 **Usage**
@@ -73,7 +73,7 @@ Scrapes a single organization website (following same-host links) and asks OpenA
 
 ### `generate-weekly-summary`
 
-**Purpose**  
+**Purpose**
 Builds an editorial roundup post for the current week (Saturday–Friday window) by clustering `_posts/` entries into themes, drafting a Markdown article with OpenAI, and saving it back into `_posts/` under the ending Saturday’s date.
 
 **Usage**
@@ -96,7 +96,7 @@ Builds an editorial roundup post for the current week (Saturday–Friday window)
 
 ### `extract-images-from-content`
 
-**Purpose**  
+**Purpose**
 Downloads images referenced in each post or event `original_markdown_body`, renames them to their SHA256 checksum plus extension, writes `_images/<checksum>.md` entries, and stores the related image checksums back into the source front matter.
 
 **Usage**
@@ -123,8 +123,8 @@ Downloads images referenced in each post or event `original_markdown_body`, rena
 
 ### `import-content-from-feeds`
 
-**Purpose**  
-Runs the RSS news importer, the iCal events importer, and then event extraction from posts so `_posts/` and `_events/` reflect the latest partner updates declared in `_organizations/*.md`. This is the primary script for ingesting content.
+**Purpose**
+Runs the RSS news importer and the iCal events importer so `_posts/` and `_events/` reflect the latest partner updates declared in `_organizations/*.md`. This is the primary script for ingesting content.
 
 **Usage**
 
@@ -143,14 +143,14 @@ Runs the RSS news importer, the iCal events importer, and then event extraction 
 
 - News import: normalizes and validates each RSS item URL before writing `_posts/`, skips duplicates already present in front matter, scrapes article bodies when the feed lacks `content:encoded`, converts HTML to Markdown via `ReverseMarkdown`, and saves the upstream HTML in `original_content`.
 - Events import: scans every `_organizations/*.md` with `events_ical_url`, downloads each calendar, skips events that are missing metadata, in the past, or too far in the future, normalizes canonical URLs to avoid duplicates, fetches event body content when possible, and writes `_events/<date>-<slug>.md` with `original_content`/`original_markdown_body` copies.
-- Event extraction from posts: **processes all posts in `_posts/`** that haven't been marked with `events_extracted: true`, using LLM to identify event announcements and create corresponding event entries. Extracts only future events relative to each post's date. This runs on every invocation, catching both newly imported posts and any existing posts not yet processed. See `extract-events-from-posts` below for details.
+- Event extraction from posts: handled by `bin/extract-events-from-posts`.
 - All three operations honor `locked: true` on disk, skipping rewrites while still registering source URLs to avoid future duplicates.
 - All operations parallelize work with small worker pools, log per-source summaries, and keep running when individual feeds fail so a single bad endpoint never blocks the rest.
 
 ### `extract-events-from-posts`
 
-**Purpose**  
-Analyzes news posts to identify event announcements using LLM, creates corresponding event entries in `_events/`, and cross-links posts to their generated events. Designed for organizations that publish event announcements in their news feeds but don't provide iCal feeds. Runs automatically as part of `import-content-from-feeds`, but can also be run standalone for debugging, testing, or reprocessing after prompt changes.
+**Purpose**
+Analyzes news posts to identify event announcements using LLM, creates corresponding event entries in `_events/`, and cross-links posts to their generated events. Designed for organizations that publish event announcements in their news feeds but don't provide iCal feeds.
 
 **Usage**
 
@@ -164,6 +164,7 @@ Analyzes news posts to identify event announcements using LLM, creates correspon
 
 **Behavior notes**
 
+- Only processes posts in `_posts/` whose front matter has `summarized: true`; unsummarized entries are skipped so you can summarize first.
 - Processes **all** posts in `_posts/` directory, skipping only those marked with `locked: true`, `published: false`, or `events_extracted: true`.
 - Sends post title and content to the LLM to extract structured event data (title, date/time, location, description).
 - The LLM is instructed to extract only future events relative to the article's publication date, filtering out past events automatically.
@@ -174,7 +175,7 @@ Analyzes news posts to identify event announcements using LLM, creates correspon
 
 ### `enforce-content-age`
 
-**Purpose**  
+**Purpose**
 Deletes `_posts/*.md` (and their referenced `_images/*.md` metadata plus any `assets/images/<hash>.*` files) whose `date` front matter falls outside of the configured window, then removes `_events/*.md` entries whose `start_date` is earlier than the current time.
 
 **Usage**
@@ -195,7 +196,7 @@ Deletes `_posts/*.md` (and their referenced `_images/*.md` metadata plus any `as
 
 ### `update-content`
 
-**Purpose**  
+**Purpose**
 Runs the full content update pipeline—imports feeds, summarizes posts/events, extracts referenced images, enforces content age limits—then stages resulting changes and performs the commit/push sequence.
 
 **Usage**
@@ -216,7 +217,7 @@ Runs the full content update pipeline—imports feeds, summarizes posts/events, 
 
 ### `list-openai-models`
 
-**Purpose**  
+**Purpose**
 Simple helper that echoes every model ID visible to the configured OpenAI account—useful for confirming newer `gpt-4o` variants.
 
 **Usage**
@@ -234,7 +235,7 @@ Simple helper that echoes every model ID visible to the configured OpenAI accoun
 
 ### `summarize-content`
 
-**Purpose**  
+**Purpose**
 Runs both news and event summarizers so `_posts/` and `_events/` files missing `summarized: true` gain a concise Markdown summary while keeping the original Markdown body in front matter. Both content types also receive automatic topic classification when the `topics` array is empty.
 
 **Usage**
@@ -259,7 +260,7 @@ Runs both news and event summarizers so `_posts/` and `_events/` files missing `
 
 ### `tidy-frontmatter`
 
-**Purpose**  
+**Purpose**
 Enforces a tidy YAML front-matter block for Markdown files so other scripts can process a consistent format.
 
 **Usage**
@@ -274,7 +275,7 @@ Enforces a tidy YAML front-matter block for Markdown files so other scripts can 
 
 ### `rewrite-ap-style`
 
-**Purpose**  
+**Purpose**
 Rewrites Markdown bodies with OpenAI so wording and punctuation align with the Associated Press Stylebook while preserving existing structure.
 
 **Usage**
