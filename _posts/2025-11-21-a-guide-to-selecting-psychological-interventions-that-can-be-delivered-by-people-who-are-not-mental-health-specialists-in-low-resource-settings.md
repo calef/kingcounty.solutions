@@ -1,0 +1,29 @@
+---
+date: '2025-11-21T06:00:00-05:00'
+images: []
+original_content: |-
+  <div>
+  <p>PLOS Glob Public Health. 2025 Nov 21;5(11):e0005123. doi: 10.1371/journal.pgph.0005123. eCollection 2025.</p>
+  <p><b>ABSTRACT</b></p>
+  <p>Globally, most individuals with mental health conditions lack access to specialized care. One strategy to bridge this gap is training people who are not mental health professionals (non-specialists) to deliver brief, manualized psychological interventions, which have demonstrated effectiveness across diverse settings. However, selecting the most suitable intervention for specific populations, contexts, and psychological needs in low-resource settings can be challenging due to the growing number of possible interventions and the differences in evidence of benefits across them. To facilitate this decision-making process, we provide an overview of ten psychological interventions that have demonstrated effectiveness in randomized controlled trials when delivered by non-specialists in low-resource settings for adults: Cognitive Processing Therapy, Common Elements Treatment Approach, Counseling for Alcohol Problems, Friendship Bench, Group Interpersonal Therapy, Healthy Activity Program, Problem Management Plus, Self-Help Plus, Step-by-Step, and the Thinking Healthy Programme. The interventions vary in settings where they have demonstrated effectiveness and the evidence for which conditions show benefit (e.g., depression, posttraumatic stress, substance use, general psychological distress). Considerations when selecting interventions also include the duration of treatment, ranging from 4 to 16 sessions, and the duration of training required for non-specialists, spanning from 5 to 12 days. This article, along with its visual summaries, serves as a guide to support selection of psychological interventions based on population needs, mental health conditions, and available resources.</p>
+  <p>PMID:<a>41270106</a> | PMC:<a>PMC12637969</a> | DOI:<a>10.1371/journal.pgph.0005123</a></p>
+  </div>
+original_content_checksum: 9904cd5e394e15ab95ec21d76929637f3e5ec633
+original_markdown_body: |-
+  PLOS Glob Public Health. 2025 Nov 21;5(11):e0005123. doi: 10.1371/journal.pgph.0005123. eCollection 2025.
+
+  **ABSTRACT**
+
+  Globally, most individuals with mental health conditions lack access to specialized care. One strategy to bridge this gap is training people who are not mental health professionals (non-specialists) to deliver brief, manualized psychological interventions, which have demonstrated effectiveness across diverse settings. However, selecting the most suitable intervention for specific populations, contexts, and psychological needs in low-resource settings can be challenging due to the growing number of possible interventions and the differences in evidence of benefits across them. To facilitate this decision-making process, we provide an overview of ten psychological interventions that have demonstrated effectiveness in randomized controlled trials when delivered by non-specialists in low-resource settings for adults: Cognitive Processing Therapy, Common Elements Treatment Approach, Counseling for Alcohol Problems, Friendship Bench, Group Interpersonal Therapy, Healthy Activity Program, Problem Management Plus, Self-Help Plus, Step-by-Step, and the Thinking Healthy Programme. The interventions vary in settings where they have demonstrated effectiveness and the evidence for which conditions show benefit (e.g., depression, posttraumatic stress, substance use, general psychological distress). Considerations when selecting interventions also include the duration of treatment, ranging from 4 to 16 sessions, and the duration of training required for non-specialists, spanning from 5 to 12 days. This article, along with its visual summaries, serves as a guide to support selection of psychological interventions based on population needs, mental health conditions, and available resources.
+
+  PMID:41270106 | PMC:PMC12637969 | DOI:10.1371/journal.pgph.0005123
+source: Mental Health and Counseling PubMed
+source_url: https://pubmed.ncbi.nlm.nih.gov/41270106/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=1heYxdJdZqm2g8mjbc8VNpLPGl0EeJJoGcNm4UI2jL5keSSs2T&fc=20251206215731&ff=20251206220047&v=2.18.0.post22+67771e2
+summarized: true
+title: A guide to selecting psychological interventions that can be delivered by people
+  who are not mental health specialists in low-resource settings
+topics:
+- Mental Health & Counseling
+---
+
+Most people with mental health conditions worldwide do not receive specialized care. To address this issue, training non-specialists to provide brief, structured psychological interventions has shown promise. However, choosing the right intervention for various populations and contexts in low-resource settings can be difficult. This article provides an overview of ten effective psychological interventions that can be delivered by non-specialists, based on randomized controlled trials. These interventions include Cognitive Processing Therapy, Common Elements Treatment Approach, Counseling for Alcohol Problems, Friendship Bench, Group Interpersonal Therapy, Healthy Activity Program, Problem Management Plus, Self-Help Plus, Step-by-Step, and the Thinking Healthy Programme. Each intervention has proven effective for different conditions, such as depression and posttraumatic stress disorder, in various environments. The article also discusses important factors in selecting interventions, including treatment duration, which ranges from 4 to 16 sessions, and the training time required for non-specialists, which spans from 5 to 12 days. This guide aims to assist in choosing suitable psychological interventions tailored to the needs of specific populations and available resources.
