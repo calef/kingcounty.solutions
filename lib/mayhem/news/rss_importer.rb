@@ -20,6 +20,7 @@ require_relative '../support/content_fetcher'
 require_relative '../support/article_body_selectors'
 require_relative '../feed_discovery'
 require_relative '../support/publish_guard'
+require_relative '../support/html_normalizer'
 
 module Mayhem
   module News
@@ -182,6 +183,8 @@ module Mayhem
           stats[:created] += 1
         when :skipped_unpublished
           stats[:skipped_unpublished] += 1
+        when :skipped_unchanged
+          stats[:unchanged] += 1
         end
       end
 
@@ -200,7 +203,9 @@ module Mayhem
       end
 
       def write_post(source_title, title_text, link_url, published_time, original_html)
-        content_md = ReverseMarkdown.convert(original_html)
+        normalized_html = Mayhem::Support::HtmlNormalizer.normalize(original_html, base_url: link_url)
+        content_md = ReverseMarkdown.convert(normalized_html)
+        checksum = Mayhem::Support::HtmlNormalizer.checksum(normalized_html)
         date_prefix = published_time.strftime('%Y-%m-%d')
         title_slug = Mayhem::Support::SlugGenerator.filename_slug(
           title: title_text,
@@ -216,12 +221,19 @@ module Mayhem
           return :skipped_unpublished
         end
 
+        if unchanged_post?(filename, normalized_html, checksum, link_url)
+          @logger.debug "Skipping unchanged post #{filename}"
+          register_post(link_url)
+          return :skipped_unchanged
+        end
+
         frontmatter = {
           'title' => title_text,
           'date' => published_time.iso8601,
           'source' => source_title,
           'source_url' => link_url.to_s,
-          'original_content' => original_html
+          'original_content' => normalized_html,
+          'original_content_checksum' => checksum
         }
         document = Mayhem::Support::FrontMatterDocument.new(
           path: filename,
@@ -337,7 +349,8 @@ module Mayhem
           missing_title: 'missing_title',
           missing_publish_date: 'missing_date',
           empty_content: 'no_content',
-          skipped_unpublished: 'unpublished_locked'
+          skipped_unpublished: 'unpublished_locked',
+          unchanged: 'unchanged'
         }
         parts = labels.map do |key, label|
           value = stats[key]
@@ -418,6 +431,28 @@ module Mayhem
 
           memo[url] = true
         end
+      end
+
+      def unchanged_post?(filename, normalized_html, checksum, link_url)
+        return false unless File.exist?(filename)
+
+        document = Mayhem::Support::FrontMatterDocument.load(filename, logger: @logger)
+        return false unless document
+
+        front_matter = document.front_matter
+        existing_checksum = front_matter['original_content_checksum'].to_s
+        return true if !existing_checksum.empty? && existing_checksum == checksum
+
+        existing_content = front_matter['original_content']
+        return false unless existing_content
+
+        base_url = front_matter['source_url'].to_s
+        base_url = link_url if base_url.empty?
+        existing_normalized = Mayhem::Support::HtmlNormalizer.normalize(existing_content, base_url: base_url)
+        existing_normalized == normalized_html
+      rescue StandardError => e
+        @logger.debug "Failed to compare existing post #{filename}: #{e.message}"
+        false
       end
     end
   end

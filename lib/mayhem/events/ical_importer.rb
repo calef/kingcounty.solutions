@@ -15,6 +15,7 @@ require_relative '../support/content_fetcher'
 require_relative '../support/encoding_utils'
 require_relative '../support/content_utils'
 require_relative '../support/publish_guard'
+require_relative '../support/html_normalizer'
 
 module Mayhem
   module Events
@@ -104,7 +105,8 @@ module Mayhem
           "Events import summary: organizations=#{processed} " \
           "created=#{stats_snapshot[:created]} duplicates=#{stats_snapshot[:duplicate]} " \
           "past=#{stats_snapshot[:past_event]} far_future=#{stats_snapshot[:far_future_event]} " \
-          "fetch_failed=#{stats_snapshot[:fetch_failed]} write_failed=#{stats_snapshot[:write_failed]} parse_failed=#{stats_snapshot[:parse_failed]}"
+          "unchanged=#{stats_snapshot[:unchanged]} fetch_failed=#{stats_snapshot[:fetch_failed]} " \
+          "write_failed=#{stats_snapshot[:write_failed]} parse_failed=#{stats_snapshot[:parse_failed]}"
         )
       end
 
@@ -133,7 +135,8 @@ module Mayhem
           fetch_failed: 'fetch_failed',
           parse_failed: 'parse_failed',
           write_failed: 'write_failed',
-          unpublished: 'unpublished'
+          unpublished: 'unpublished',
+          unchanged: 'unchanged'
         }
         parts = labels.map do |key, label|
           value = stats[key]
@@ -232,8 +235,10 @@ module Mayhem
         description_html = Mayhem::Support::EncodingUtils.ensure_utf8(raw_html)
         description_html = Mayhem::Support::ContentUtils.sanitize_html(event.description) if description_html.to_s.strip.empty?
         description_html = Mayhem::Support::EncodingUtils.ensure_utf8(description_html)
+        normalized_description = Mayhem::Support::HtmlNormalizer.normalize(description_html, base_url: canonical_url)
+        checksum = Mayhem::Support::HtmlNormalizer.checksum(normalized_description)
         markdown_body = Mayhem::Support::EncodingUtils.ensure_utf8(
-          Mayhem::Support::ContentUtils.normalized_markdown(description_html)
+          Mayhem::Support::ContentUtils.normalized_markdown(normalized_description)
         )
 
         front_matter = {
@@ -244,10 +249,18 @@ module Mayhem
           'location' => location,
           'source_url' => canonical_url
         }
-        front_matter['original_content'] = description_html unless description_html.to_s.strip.empty?
+        unless normalized_description.to_s.strip.empty?
+          front_matter['original_content'] = normalized_description
+          front_matter['original_content_checksum'] = checksum
+        end
         front_matter['original_markdown_body'] = markdown_body unless markdown_body.to_s.strip.empty?
 
         body_content = Mayhem::Support::EncodingUtils.ensure_utf8(formatted_body(markdown_body))
+        if event_content_unchanged?(filename, normalized_description, checksum, canonical_url)
+          register_event_url(canonical_url)
+          register_event_url(source_url) unless canonical_url == source_url
+          return skip_event(reason: :unchanged, reason_detail: filename, stats: stats)
+        end
         document = Mayhem::Support::FrontMatterDocument.new(
           path: filename,
           front_matter: front_matter,
@@ -287,6 +300,29 @@ module Mayhem
         return false if normalized.to_s.strip.empty?
 
         @existing_lock.synchronize { @existing_urls.key?(normalized) }
+      end
+
+      def event_content_unchanged?(filename, normalized_html, checksum, canonical_url)
+        return false unless File.exist?(filename)
+        return false if normalized_html.to_s.strip.empty?
+
+        document = Mayhem::Support::FrontMatterDocument.load(filename, logger: @logger)
+        return false unless document
+
+        front_matter = document.front_matter
+        existing_checksum = front_matter['original_content_checksum'].to_s
+        return true if !existing_checksum.empty? && existing_checksum == checksum
+
+        existing_content = front_matter['original_content']
+        return false unless existing_content
+
+        base_url = front_matter['source_url'].to_s
+        base_url = canonical_url if base_url.empty?
+        existing_normalized = Mayhem::Support::HtmlNormalizer.normalize(existing_content, base_url: base_url)
+        existing_normalized == normalized_html
+      rescue StandardError => e
+        @logger.debug "Failed to compare existing event #{filename}: #{e.message}"
+        false
       end
 
       def event_location(event)
