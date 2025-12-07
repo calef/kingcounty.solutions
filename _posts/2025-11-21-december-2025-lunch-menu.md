@@ -22,6 +22,7 @@ summarized: true
 title: December 2025 Lunch Menu
 topics:
 - Food & Nutrition
+- Senior Services
 ---
 
 The December 2025 lunch menu features a variety of meals designed for community members. Key events during the month include the Jazz Nutcracker Outing on Dec. 6 and a presentation titled "Travels with Anita: Road Trip USA" scheduled for Dec. 30. Additionally, a Purple Ambassadors Bingo event will take place on Nov. 25, and a Holiday Lights Outing is planned for Dec. 23. These activities are organized to engage the community and provide enjoyable experiences for seniors. The menu and events aim to foster social interaction and participation among attendees throughout the holiday season.

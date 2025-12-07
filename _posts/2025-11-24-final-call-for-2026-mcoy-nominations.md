@@ -1,7 +1,6 @@
 ---
 date: '2025-11-24T11:00:00+00:00'
-events:
-- 2026-04-23-2026-military-child-of-the-year-award-gala
+events: []
 events_extracted: true
 images: []
 original_content: |-

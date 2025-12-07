@@ -1,7 +1,6 @@
 ---
 date: '2025-06-26T01:41:13+00:00'
-events:
-- 2026-06-26-75th-anniversary-celebration
+events: []
 events_extracted: true
 images: []
 original_content: Celebration of Youth has come to an end, and we are excited to announce

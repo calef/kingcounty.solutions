@@ -1,7 +1,6 @@
 ---
 date: '2025-11-24T21:56:43+00:00'
 events:
-- 2025-12-18-wa-ev-charging-program-2-application-deadline
 - 2026-01-08-rails-keels-and-wheels-program-application-deadline
 events_extracted: true
 images: []

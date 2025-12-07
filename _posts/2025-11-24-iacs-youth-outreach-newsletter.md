@@ -1,7 +1,6 @@
 ---
 date: '2025-11-24T17:52:10+00:00'
-events:
-- 2025-12-14-yo-drive-planning-and-kickoff-project
+events: []
 events_extracted: true
 images: []
 original_content: '[...]<p><a class="btn btn-secondary understrap-read-more-link"

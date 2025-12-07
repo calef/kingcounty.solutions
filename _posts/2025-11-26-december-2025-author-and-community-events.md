@@ -1,12 +1,6 @@
 ---
 date: '2025-11-26T22:28:27+00:00'
-events:
-- 2025-12-10-ladies-musical-club-performance
-- 2025-12-11-screening-of-the-librarians-and-panel-discussion
-- 2025-12-13-50th-anniversary-celebration-of-the-douglass-truth-branch
-- 2025-12-14-art-walk-with-nina-vichayapai
-- 2025-12-14-exhibit-tour-with-vaquero-azul
-- 2025-12-18-lgbtq-community-book-club-meeting
+events: []
 events_extracted: true
 images:
 - 3228846b2f4bb1a019f806df6b4cb6101a31bd3f8128cc4c12175d5e1f5818be

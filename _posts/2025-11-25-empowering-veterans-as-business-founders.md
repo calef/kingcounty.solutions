@@ -1,7 +1,6 @@
 ---
 date: '2025-11-25T16:25:20+00:00'
-events:
-- 2026-02-01-dav-patriot-boot-camp
+events: []
 events_extracted: true
 images: []
 original_content: "<div class=\"editor clearfix\">\n\n    \n    <p><img fetchpriority=\"high\"
