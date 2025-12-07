@@ -76,6 +76,31 @@ class EventExtractorTest < Minitest::Test
     mock_chat_client.verify
   end
 
+  def test_skips_unsummarized_posts
+    path = write_post('2025-01-01-unsummarized.md', summarized: false)
+    mock_chat_client = Class.new do
+      def call(*)
+        raise 'Event extractor should not run on unsummarized posts'
+      end
+    end.new
+
+    extractor = Mayhem::News::EventExtractor.new(
+      posts_dir: @posts_dir,
+      events_dir: @events_dir,
+      chat_client: mock_chat_client,
+      logger: @logger
+    )
+
+    stats = extractor.run
+
+    assert_equal 1, stats[:skipped_unsummarized]
+
+    doc = Mayhem::Support::FrontMatterDocument.load(path, logger: @logger)
+    assert_nil doc.front_matter['events_extracted']
+    assert_nil doc.front_matter['events']
+    assert Dir.glob(File.join(@events_dir, '*.md')).empty?
+  end
+
   def test_marks_post_when_no_events_found
     write_post('2025-01-01-no-events.md', title: 'Just news')
     mock_chat_client = Minitest::Mock.new
@@ -221,6 +246,7 @@ class EventExtractorTest < Minitest::Test
     front_matter['locked'] = true if options[:locked]
     front_matter['published'] = false if options[:published] == false
     front_matter['events_extracted'] = true if options[:events_extracted]
+    front_matter['summarized'] = options.fetch(:summarized, true)
 
     body = options[:content] || 'Test content'
 
