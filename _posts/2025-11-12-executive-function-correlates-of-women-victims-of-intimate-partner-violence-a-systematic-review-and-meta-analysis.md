@@ -1,0 +1,30 @@
+---
+date: '2025-11-12T06:00:00-05:00'
+images: []
+original_content: |-
+  <div>
+  <p>Trauma Violence Abuse. 2025 Nov 12:15248380251381820. doi: 10.1177/15248380251381820. Online ahead of print.</p>
+  <p><b>ABSTRACT</b></p>
+  <p>Intimate partner violence (IPV) significantly affects victims' physical and mental health. Neurocognitive impairments, particularly in executive functioning, are crucial for daily functionality. However, no reviews or meta-analyses have focused on executive function (EF) alterations or the associated mechanisms contributing to a better understanding. This study aimed to synthesize and analyze differences in EF performance between women victims of IPV and non-victims, while also exploring potential mechanisms underlying these specific impairments. A systematic review and meta-analysis was conducted in accordance with the Preferred Reporting Items for Systematic reviews and Meta-Analyses guidelines. Searches were performed in the PubMed, Web of Science Core Collection, PsycINFO, and Scopus databases. A random-effects model was employed to calculate pooled effect sizes. A total of 22 studies published between 2002 and 2023 met the inclusion criteria and were included, comprising 1,425 women victims of IPV and non-victims. The meta-analysis revealed moderate to large effects on cognitive flexibility, inhibition, and semantic verbal fluency domains, with IPV victims showing lower performance. Working memory's effect was non-significant. The qualitative synthesis demonstrated poorer phonological verbal fluency, nonverbal fluency, planning, reasoning, decision-making, and working memory. This synthesis also outlined differences observed among women experiencing physical, sexual, and/or psychological abuse, regardless of posttraumatic stress disorder or brain injury (BI). This systematic review and meta-analysis identified specific EF alterations in IPV victims, which may result from BI, psychopathology, or adverse childhood experiences, with their individual contributions requiring exploration in future studies. These findings can inform personalized interventions and decision-making within a legal context.</p>
+  <p>PMID:<a>41221796</a> | DOI:<a>10.1177/15248380251381820</a></p>
+  </div>
+original_content_checksum: a2379b10569b660c97f16528999cf73bd4ed9eee
+original_markdown_body: |-
+  Trauma Violence Abuse. 2025 Nov 12:15248380251381820. doi: 10.1177/15248380251381820. Online ahead of print.
+
+  **ABSTRACT**
+
+  Intimate partner violence (IPV) significantly affects victims' physical and mental health. Neurocognitive impairments, particularly in executive functioning, are crucial for daily functionality. However, no reviews or meta-analyses have focused on executive function (EF) alterations or the associated mechanisms contributing to a better understanding. This study aimed to synthesize and analyze differences in EF performance between women victims of IPV and non-victims, while also exploring potential mechanisms underlying these specific impairments. A systematic review and meta-analysis was conducted in accordance with the Preferred Reporting Items for Systematic reviews and Meta-Analyses guidelines. Searches were performed in the PubMed, Web of Science Core Collection, PsycINFO, and Scopus databases. A random-effects model was employed to calculate pooled effect sizes. A total of 22 studies published between 2002 and 2023 met the inclusion criteria and were included, comprising 1,425 women victims of IPV and non-victims. The meta-analysis revealed moderate to large effects on cognitive flexibility, inhibition, and semantic verbal fluency domains, with IPV victims showing lower performance. Working memory's effect was non-significant. The qualitative synthesis demonstrated poorer phonological verbal fluency, nonverbal fluency, planning, reasoning, decision-making, and working memory. This synthesis also outlined differences observed among women experiencing physical, sexual, and/or psychological abuse, regardless of posttraumatic stress disorder or brain injury (BI). This systematic review and meta-analysis identified specific EF alterations in IPV victims, which may result from BI, psychopathology, or adverse childhood experiences, with their individual contributions requiring exploration in future studies. These findings can inform personalized interventions and decision-making within a legal context.
+
+  PMID:41221796 | DOI:10.1177/15248380251381820
+source: Domestic Violence PubMed
+source_url: https://pubmed.ncbi.nlm.nih.gov/41221796/?utm_source=Chrome&utm_medium=rss&utm_campaign=pubmed-2&utm_content=18_r98JPP6y3zrvkWXearudP8hRhcbv2f2sB9ETM__mJ4baUTt&fc=20251206180108&ff=20251206204722&v=2.18.0.post22+67771e2
+summarized: true
+title: 'Executive Function Correlates of Women Victims of Intimate Partner Violence:
+  A Systematic Review and Meta-Analysis'
+topics:
+- Domestic Violence
+- Mental Health & Counseling
+---
+
+A study published in "Trauma, Violence, & Abuse" highlights the impact of intimate partner violence (IPV) on women's neurocognitive functioning, specifically executive function (EF). The research conducted a systematic review and meta-analysis involving 22 studies with 1,425 participants, comparing women victims of IPV to non-victims. Findings reveal that IPV victims exhibit moderate to large impairments in cognitive flexibility, inhibition, and semantic verbal fluency. Performance in working memory was not significantly affected. The qualitative analysis indicated that IPV victims also struggle with phonological verbal fluency, planning, reasoning, decision-making, and working memory. The study noted differences among women experiencing various forms of abuse, regardless of the presence of posttraumatic stress disorder or brain injury. The identified EF alterations may stem from brain injury, mental health issues, or adverse childhood experiences, necessitating further investigation into these individual factors. These insights aim to enhance personalized interventions and inform legal decision-making processes for IPV victims.
