@@ -3,6 +3,17 @@
 {% assign trail = include.trail | default: "" %}
 {% assign rendered = "" | split: "" %}
 
+{% comment %}
+  Always add Home as the root unless we're only showing "Home" as current
+  (which means we're on the home page)
+{% endcomment %}
+{% unless include.current == "Home" and root_label == nil %}
+  {% capture home_snippet %}
+    <a href="{{ '/' | relative_url }}">Home</a>
+  {% endcapture %}
+  {% assign rendered = rendered | push: home_snippet %}
+{% endunless %}
+
 {% if root_label %}
   {% capture root_snippet %}
     {% if root_url != blank %}
