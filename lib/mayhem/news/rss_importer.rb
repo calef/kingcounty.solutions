@@ -32,7 +32,7 @@ module Mayhem
       DEFAULT_NEWS_DIR = '_posts'
       DEFAULT_SOURCES_DIR = '_organizations'
       DEFAULT_MAX_WORKERS = begin
-        Integer(ENV.fetch('RSS_WORKERS', '2'))
+        Integer(ENV.fetch('RSS_WORKERS', '6'))
       rescue StandardError
         6
       end

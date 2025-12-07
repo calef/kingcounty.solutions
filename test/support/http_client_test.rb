@@ -2,17 +2,19 @@
 
 require_relative '../test_helper'
 require 'minitest/autorun'
+require 'uri'
 require_relative '../../lib/mayhem/support/http_client'
 require_relative '../../lib/mayhem/logging'
 
 class HttpClientTest < Minitest::Test
   class DummyResponse
-    attr_reader :headers
+    attr_reader :headers, :code
 
     def initialize(body_chunks, code: '200', headers: {})
       @body_chunks = body_chunks
       @code = code
       @headers = headers
+      @code = code
     end
 
     def [](k)
@@ -71,7 +73,7 @@ class HttpClientTest < Minitest::Test
 
     # stub execute_request to return redirection then final
     called = 0
-    @client.define_singleton_method(:execute_request) do |_uri, _accept, _max_bytes, verify_mode: nil, retried: false|
+    @client.define_singleton_method(:execute_request) do |_uri, _accept, _max_bytes, verify_mode: nil, retried: false, operation: nil|
       called += 1
       if called == 1
         [redir, '']
@@ -155,5 +157,61 @@ class HttpClientTest < Minitest::Test
     assert_equal Mayhem::Support::HttpClient::UA, req['User-Agent']
     assert_equal 'text/html', req['Accept']
     assert_equal 'identity', req['Accept-Encoding']
+  end
+
+  def test_operation_host_delay_applies_only_to_matching_operation_and_host
+    sleeps = []
+    client = Mayhem::Support::HttpClient.new(
+      host_operation_delays: {
+        'canonical_head' => { 'example.com' => 0.05 }
+      },
+      logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL')
+    )
+    client.define_singleton_method(:sleep) do |duration|
+      sleeps << duration
+      0
+    end
+
+    uri = URI.parse('https://example.com/article')
+    client.send(:apply_operation_delay, 'canonical_head', uri)
+    client.send(:apply_operation_delay, 'canonical_head', uri)
+
+    assert_equal 1, sleeps.length
+    assert_operator sleeps.first, :>, 0
+
+    other_uri = URI.parse('https://other.com/article')
+    client.send(:apply_operation_delay, 'canonical_head', other_uri)
+    client.send(:apply_operation_delay, 'content_fetch', uri)
+
+    assert_equal 1, sleeps.length
+  end
+
+  def test_env_configures_default_pubmed_canonical_head_delay
+    previous = ENV['RSS_PUBMED_CANONICAL_HEAD_DELAY']
+    ENV['RSS_PUBMED_CANONICAL_HEAD_DELAY'] = '0.25'
+    client = Mayhem::Support::HttpClient.new(logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'))
+
+    delays = client.instance_variable_get(:@operation_host_delays)
+    assert_in_delta 0.25, delays.fetch('canonical_head').fetch('pubmed.ncbi.nlm.nih.gov'), 0.0001
+  ensure
+    if previous.nil?
+      ENV.delete('RSS_PUBMED_CANONICAL_HEAD_DELAY')
+    else
+      ENV['RSS_PUBMED_CANONICAL_HEAD_DELAY'] = previous
+    end
+  end
+
+  def test_env_zero_disables_default_pubmed_delay
+    previous = ENV['RSS_PUBMED_CANONICAL_HEAD_DELAY']
+    ENV['RSS_PUBMED_CANONICAL_HEAD_DELAY'] = '0'
+    client = Mayhem::Support::HttpClient.new(logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'))
+
+    assert_equal({}, client.instance_variable_get(:@operation_host_delays))
+  ensure
+    if previous.nil?
+      ENV.delete('RSS_PUBMED_CANONICAL_HEAD_DELAY')
+    else
+      ENV['RSS_PUBMED_CANONICAL_HEAD_DELAY'] = previous
+    end
   end
 end

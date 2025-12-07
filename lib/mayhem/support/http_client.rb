@@ -7,6 +7,7 @@ require 'time'
 require 'nokogiri'
 require 'open-uri'
 require 'mayhem/logging'
+require_relative 'env_utils'
 
 module Mayhem
   module Support
@@ -58,6 +59,7 @@ module Mayhem
                      retry_backoff_factor: DEFAULTS[:retry_backoff_factor],
                      allow_insecure_fallback: DEFAULTS[:allow_insecure_fallback],
                      too_many_requests_delay: DEFAULTS[:too_many_requests_delay],
+                     host_operation_delays: nil,
                      logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'))
         @user_agent = user_agent
         @delay = delay
@@ -71,6 +73,10 @@ module Mayhem
         @retry_initial_delay = retry_initial_delay
         @retry_backoff_factor = retry_backoff_factor
         @too_many_requests_delay = too_many_requests_delay
+        delays_config = host_operation_delays.nil? ? default_operation_host_delays : host_operation_delays
+        @operation_host_delays = normalize_operation_host_delays(delays_config)
+        @operation_delay_lock = Mutex.new
+        @operation_last_request = {}
       end
 
       def fetch(url, accept:, max_bytes:)
@@ -150,7 +156,7 @@ module Mayhem
 
       def perform_request(url, accept, max_bytes, remaining_redirects, origin_url:, operation:)
         uri = URI.parse(url)
-        response, body = execute_request(uri, accept, max_bytes)
+        response, body = execute_request(uri, accept, max_bytes, operation: operation)
         if response.is_a?(Net::HTTPRedirection)
           return follow_redirect(
             response,
@@ -171,16 +177,18 @@ module Mayhem
         }
       end
 
-      def execute_request(uri, accept, max_bytes, verify_mode: OpenSSL::SSL::VERIFY_PEER, retried: false)
+      def execute_request(uri, accept, max_bytes, verify_mode: OpenSSL::SSL::VERIFY_PEER, retried: false, operation: nil)
+        apply_operation_delay(operation, uri)
         perform_http_request(uri, accept, max_bytes, verify_mode)
       rescue OpenSSL::SSL::SSLError => e
-        retry_without_verification(uri, accept, max_bytes, retried, e)
+        retry_without_verification(uri, accept, max_bytes, retried, e, operation: operation)
       end
 
-      def execute_head_request(uri, verify_mode: OpenSSL::SSL::VERIFY_PEER, retried: false)
+      def execute_head_request(uri, verify_mode: OpenSSL::SSL::VERIFY_PEER, retried: false, operation: nil)
+        apply_operation_delay(operation, uri)
         perform_http_head(uri, verify_mode)
       rescue OpenSSL::SSL::SSLError => e
-        retry_without_verification_head(uri, retried, e)
+        retry_without_verification_head(uri, retried, e, operation: operation)
       end
 
       def follow_redirect(response, uri, accept, max_bytes, remaining_redirects, origin_url:, operation:)
@@ -242,7 +250,7 @@ module Mayhem
         end
       end
 
-      def retry_without_verification(uri, accept, max_bytes, retried, error)
+      def retry_without_verification(uri, accept, max_bytes, retried, error, operation: nil)
         return handle_terminal_ssl_error(uri, error) unless @allow_insecure_fallback && !retried
 
         @logger.warn "SSL error (#{error.message}), retrying without verification for #{uri}"
@@ -251,7 +259,8 @@ module Mayhem
           accept,
           max_bytes,
           verify_mode: OpenSSL::SSL::VERIFY_NONE,
-          retried: true
+          retried: true,
+          operation: operation
         )
       end
 
@@ -286,19 +295,20 @@ module Mayhem
         body
       end
 
-      def retry_without_verification_head(uri, retried, error)
+      def retry_without_verification_head(uri, retried, error, operation: nil)
         return handle_terminal_ssl_error(uri, error) unless @allow_insecure_fallback && !retried
 
         @logger.warn "SSL error (#{error.message}), retrying HEAD without verification for #{uri}"
         execute_head_request(
           uri,
           verify_mode: OpenSSL::SSL::VERIFY_NONE,
-          retried: true
+          retried: true,
+          operation: operation
         )
       end
 
       def follow_head_redirect(uri, remaining_redirects, origin_url:, operation:, verify_mode: OpenSSL::SSL::VERIFY_PEER)
-        response = execute_head_request(uri, verify_mode: verify_mode)
+        response = execute_head_request(uri, verify_mode: verify_mode, operation: operation)
         status_code = response&.code&.to_i
         raise_too_many_requests(response, uri, origin_url: origin_url, operation: operation) if status_code == 429
         if response.is_a?(Net::HTTPRedirection)
@@ -360,6 +370,58 @@ module Mayhem
         end
       rescue ArgumentError
         nil
+      end
+
+      def default_operation_host_delays
+        delay = Mayhem::Support::EnvUtils.positive_float('RSS_PUBMED_CANONICAL_HEAD_DELAY', 1.0)
+        return {} unless delay
+
+        {
+          'canonical_head' => {
+            'pubmed.ncbi.nlm.nih.gov' => delay
+          }
+        }
+      end
+
+      def normalize_operation_host_delays(config)
+        return {} unless config.is_a?(Hash)
+
+        config.each_with_object({}) do |(operation, hosts), memo|
+          op_key = operation.to_s
+          next unless hosts.is_a?(Hash)
+
+          memo[op_key] ||= {}
+          hosts.each do |host, delay|
+            delay_value = delay.to_f
+            next unless delay_value.positive?
+
+            host_key = host.to_s.downcase
+            next if host_key.empty?
+
+            memo[op_key][host_key] = delay_value
+          end
+        end
+      end
+
+      def apply_operation_delay(operation, uri)
+        return unless operation && uri
+
+        host = uri.host&.downcase
+        return unless host
+
+        delay = @operation_host_delays.dig(operation.to_s, host)
+        return unless delay
+
+        wait = 0
+        key = [operation.to_s, host]
+        now = Process.clock_gettime(Process::CLOCK_MONOTONIC)
+        @operation_delay_lock.synchronize do
+          last = @operation_last_request[key]
+          earliest = last ? last + delay : now
+          wait = [earliest - now, 0].max
+          @operation_last_request[key] = now + wait
+        end
+        sleep(wait) if wait.positive?
       end
     end
   end
