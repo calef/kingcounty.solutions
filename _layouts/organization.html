@@ -54,6 +54,7 @@ layout: default
   {% assign org_action = org_action | strip %}
   <header>
     {% include breadcrumbs.html trail=org_trail current=page.title root_url="/organizations/" root_label="Organizations" %}
+    {% include breadcrumbs-jsonld.html trail=org_trail current=page.title root_url="/organizations/" root_label="Organizations" %}
     <div class="title-with-flag">
       <h1>{{ page.title }}</h1>
       {% include flag-issue.html
