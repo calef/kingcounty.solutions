@@ -1,14 +1,12 @@
 ---
 end_date: '2025-12-08T16:00:00-08:00'
-images: []
 location: ''
-original_content: '<div class="wp-site-blocks"> <div class="tribe-block tec-block__single-event">
-  <section id="tribe-events-pg-template" class="tribe-events-pg-template"> <title>WorkSource
-  Seattle-King County</title> <script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://worksourceskc.org/event/creole-speakers-only-klas-sa-se-pou-moun-ki-pale-kreol-selman-strateji-pou-shashe-travail-job-search-strategies-1560/","url":"https://worksourceskc.org/event/creole-speakers-only-klas-sa-se-pou-moun-ki-pale-kreol-selman-strateji-pou-shashe-travail-job-search-strategies-1560/","name":"Creole
+original_content: '<div> <div> <section> <title>WorkSource Seattle-King County</title>
+  <script>{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://worksourceskc.org/event/creole-speakers-only-klas-sa-se-pou-moun-ki-pale-kreol-selman-strateji-pou-shashe-travail-job-search-strategies-1561/","url":"https://worksourceskc.org/event/creole-speakers-only-klas-sa-se-pou-moun-ki-pale-kreol-selman-strateji-pou-shashe-travail-job-search-strategies-1561/","name":"Creole
   Speakers ONLY - Klas sa se pou moun ki pale Kreol Selman-strateji pou shashe travail/Job
-  Search Strategies - WorkSource Seattle-King County","isPartOf":{"@id":"https://worksourceskc.org/#website"},"datePublished":"2025-11-25T21:43:18+00:00","description":"Anrejistre&#160;Deskripsyon
+  Search Strategies - WorkSource Seattle-King County","isPartOf":{"@id":"https://worksourceskc.org/#website"},"datePublished":"2025-11-25T21:43:30+00:00","dateModified":"2025-12-06T23:52:27+00:00","description":"Anrejistre&#160;Deskripsyon
   AtelieKle pou reisi&#160; le ou ap shashe travayi se pou konnen ki konpani ki ap
-  bay moun travayi ki strateji pou","breadcrumb":{"@id":"https://worksourceskc.org/event/creole-speakers-only-klas-sa-se-pou-moun-ki-pale-kreol-selman-strateji-pou-shashe-travail-job-search-strategies-1560/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://worksourceskc.org/event/creole-speakers-only-klas-sa-se-pou-moun-ki-pale-kreol-selman-strateji-pou-shashe-travail-job-search-strategies-1560/"]}]},{"@type":"BreadcrumbList","@id":"https://worksourceskc.org/event/creole-speakers-only-klas-sa-se-pou-moun-ki-pale-kreol-selman-strateji-pou-shashe-travail-job-search-strategies-1560/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"Creole
+  bay moun travayi ki strateji pou","breadcrumb":{"@id":"https://worksourceskc.org/event/creole-speakers-only-klas-sa-se-pou-moun-ki-pale-kreol-selman-strateji-pou-shashe-travail-job-search-strategies-1561/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://worksourceskc.org/event/creole-speakers-only-klas-sa-se-pou-moun-ki-pale-kreol-selman-strateji-pou-shashe-travail-job-search-strategies-1561/"]}]},{"@type":"BreadcrumbList","@id":"https://worksourceskc.org/event/creole-speakers-only-klas-sa-se-pou-moun-ki-pale-kreol-selman-strateji-pou-shashe-travail-job-search-strategies-1561/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"Creole
   Speakers ONLY &#8211; Klas sa se pou moun ki pale Kreol Selman-strateji pou shashe
   travail/Job Search Strategies"}]},{"@type":"WebSite","@id":"https://worksourceskc.org/#website","url":"https://worksourceskc.org/","name":"WorkSource
   Seattle-King County","description":"Let&#039;s find your path together!","publisher":{"@id":"https://worksourceskc.org/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://worksourceskc.org/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://worksourceskc.org/#organization","name":"WorkSource
@@ -16,96 +14,33 @@ original_content: '<div class="wp-site-blocks"> <div class="tribe-block tec-bloc
   Seattle-King County"},"image":{"@id":"https://worksourceskc.org/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/worksourceskc/"]},{"@type":"Event","name":"Creole
   Speakers ONLY &#8211; Klas sa se pou moun ki pale Kreol Selman-strateji pou shashe
   travail/Job Search Strategies","description":"Anrejistre &#160;Deskripsyon Atelie
-  Kle pou reisi&#160; le ou ap shashe travayi se pou konnen ki konpani ki ap bay moun&hellip;","url":"https://worksourceskc.org/event/creole-speakers-only-klas-sa-se-pou-moun-ki-pale-kreol-selman-strateji-pou-shashe-travail-job-search-strategies-1560/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2025-12-08T15:00:00-08:00","endDate":"2025-12-08T16:00:00-08:00","@id":"https://worksourceskc.org/event/creole-speakers-only-klas-sa-se-pou-moun-ki-pale-kreol-selman-strateji-pou-shashe-travail-job-search-strategies-1560/#event","mainEntityOfPage":{"@id":"https://worksourceskc.org/event/creole-speakers-only-klas-sa-se-pou-moun-ki-pale-kreol-selman-strateji-pou-shashe-travail-job-search-strategies-1560/"}}]}</script>
+  Kle pou reisi&#160; le ou ap shashe travayi se pou konnen ki konpani ki ap bay moun&hellip;","url":"https://worksourceskc.org/event/creole-speakers-only-klas-sa-se-pou-moun-ki-pale-kreol-selman-strateji-pou-shashe-travail-job-search-strategies-1561/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2025-12-08T15:00:00-08:00","endDate":"2025-12-08T16:00:00-08:00","@id":"https://worksourceskc.org/event/creole-speakers-only-klas-sa-se-pou-moun-ki-pale-kreol-selman-strateji-pou-shashe-travail-job-search-strategies-1561/#event","mainEntityOfPage":{"@id":"https://worksourceskc.org/event/creole-speakers-only-klas-sa-se-pou-moun-ki-pale-kreol-selman-strateji-pou-shashe-travail-job-search-strategies-1561/"}}]}</script>
   <title>Creole Speakers ONLY – Klas sa se pou moun ki pale Kreol Selman-strateji
   pou shashe travail/Job Search Strategies – WorkSource Seattle-King County</title>
-  <a href="#main-content" id="" class="skip-link screen-reader-text" tabindex="0">Skip
-  to main content</a> <header class="main_header"> <div class="navbar navbar-expand-xl">
-  <div class="container-fluid"> <div class="collapse navbar-collapse" id="navbarResponsive">
-  <div class="top_header_cont"> <div class="top_menu"> <ul id="menu-top-menu" class="menu
-  top_inner_menu"> <li id="nav-menu-item-37628" class=" nav-item menu-item-even menu-item-depth-0
-  menu-item menu-item-type-custom menu-item-object-custom"><a target="_blank" href="https://seeker.worksourcewa.com/jobsearch/powersearch.aspx"
-  class="nav-link">Job Board</a></li> </ul> <ul class="top_inner_menu"> <li> <a id=""
-  href="https://worksourceskc.org/log-in/" onclick="openModal(event)">Staff Log-In</a>
-  </li> </ul> </div> </div> <div class="nav_bottom mobile-view "> <ul id="menu-main-menu"
-  class="menu navbar-nav"> <li id="nav-menu-item-35623" class=" nav-item menu-item-even
-  menu-item-depth-0 megamenu menu-item menu-item-type-post_type menu-item-object-page
-  menu-item-has-children"> <a href="https://worksourceskc.org/job-seekers/" class="nav-link">Job
-  Seekers</a> <ul class="megadrop dropdown-menu menu-odd menu-depth-1"> <li id="nav-menu-item-39833"
-  class=" menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page
-  menu-item-has-children"> <a href="https://worksourceskc.org/job-seekers/get-started-with-personalized-support/"
-  class="dropdown-item">Get Started with Personalized Support</a> <ul class="mega-submenu
-  menu-even menu-depth-2"> <li id="nav-menu-item-39835" class=" sub-sub-menu-item
-  menu-item-even menu-item-depth-2 menu-item menu-item-type-post_type menu-item-object-page"><a
-  href="https://worksourceskc.org/job-seekers/get-started-with-personalized-support/sign-up-for-services/">Sign
-  Up for Services</a></li> <li id="nav-menu-item-42888" class=" sub-sub-menu-item
-  menu-item-even menu-item-depth-2 menu-item menu-item-type-post_type menu-item-object-page"><a
-  href="https://worksourceskc.org/job-seekers/get-started-with-personalized-support/layoff-support/">Layoff
-  Support</a></li> </ul> </li> <li id="nav-menu-item-40620" class=" menu-item-odd
-  menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children">
-  <a href="https://worksourceskc.org/job-seekers/self-serve-resources/" class="dropdown-item">Self-Serve
-  Resources</a> <ul class="mega-submenu menu-even menu-depth-2"> <li id="nav-menu-item-41228"
-  class=" sub-sub-menu-item menu-item-even menu-item-depth-2 menu-item menu-item-type-custom
-  menu-item-object-custom"><a href="https://www.worksourceskc.org/job-seekers/self-serve-resources/#career-exploration">Career
-  Exploration</a></li> <li id="nav-menu-item-41229" class=" sub-sub-menu-item menu-item-even
-  menu-item-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.worksourceskc.org/job-seekers/self-serve-resources/#skills-and-training">Skills
-  &amp; Training</a></li> <li id="nav-menu-item-41230" class=" sub-sub-menu-item menu-item-even
-  menu-item-depth-2 menu-item menu-item-type-custom menu-item-object-custom"><a href="https://www.worksourceskc.org/job-seekers/self-serve-resources/#job-search">Job
-  Search</a></li> </ul> </li> <li id="nav-menu-item-38246" class=" menu-item-odd menu-item-depth-1
-  menu-item menu-item-type-post_type menu-item-object-page"><a href="https://worksourceskc.org/job-seekers/workshops-hiring-events/"
-  class="dropdown-item">Workshops &amp; Hiring Events</a></li> </ul> </li> <li id="nav-menu-item-37629"
-  class=" nav-item menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type
-  menu-item-object-page menu-item-has-children"> <a href="https://worksourceskc.org/employers/"
-  class="nav-link">Employers</a> <ul class="megadrop dropdown-menu menu-odd menu-depth-1">
-  <li id="nav-menu-item-39838" class=" menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type
-  menu-item-object-page menu-item-has-children"> <a href="https://worksourceskc.org/employers/business-services/"
-  class="dropdown-item">Business Services</a> <ul class="mega-submenu menu-even menu-depth-2">
-  <li id="nav-menu-item-39836" class=" sub-sub-menu-item menu-item-even menu-item-depth-2
-  menu-item menu-item-type-post_type menu-item-object-page"><a href="https://worksourceskc.org/employers/employer-inquiry-form/">Employer
-  Inquiry Form</a></li> <li id="nav-menu-item-40623" class=" sub-sub-menu-item menu-item-even
-  menu-item-depth-2 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://worksourceskc.org/employers/business-services/business-connection-partners/">Business
-  Connection Partners</a></li> <li id="nav-menu-item-40624" class=" sub-sub-menu-item
-  menu-item-even menu-item-depth-2 menu-item menu-item-type-post_type menu-item-object-page"><a
-  href="https://worksourceskc.org/employers/business-services/business-assistance-workforce-support/">Business
-  Assistance &amp; Workforce Support</a></li> <li id="nav-menu-item-40625" class="
-  sub-sub-menu-item menu-item-even menu-item-depth-2 menu-item menu-item-type-post_type
-  menu-item-object-page"><a href="https://worksourceskc.org/employers/business-services/small-business-assistance/">Small-Business
-  Assistance</a></li> <li id="nav-menu-item-40626" class=" sub-sub-menu-item menu-item-even
-  menu-item-depth-2 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://worksourceskc.org/employers/business-services/employee-development/">Employee
-  Development</a></li> </ul> </li> <li id="nav-menu-item-39837" class=" menu-item-odd
-  menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-page"><a href="https://worksourceskc.org/employers/layoff-support-aversion-and-retention/"
-  class="dropdown-item">Layoff Support, Aversion and Retention</a></li> </ul> </li>
-  <li id="nav-menu-item-36378" class=" nav-item menu-item-even menu-item-depth-0 menu-item
-  menu-item-type-post_type menu-item-object-page menu-item-has-children"> <a href="https://worksourceskc.org/locations/"
-  class="nav-link">Locations</a> <ul class="megadrop dropdown-menu menu-odd menu-depth-1">
-  <li id="nav-menu-item-38019" class=" menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type
-  menu-item-object-location"><a href="https://worksourceskc.org/location/auburn/"
-  class="dropdown-item">Auburn</a></li> <li id="nav-menu-item-38020" class=" menu-item-odd
-  menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-location"><a
-  href="https://worksourceskc.org/location/downtown-seattle/" class="dropdown-item">Downtown
-  Seattle</a></li> <li id="nav-menu-item-38021" class=" menu-item-odd menu-item-depth-1
-  menu-item menu-item-type-post_type menu-item-object-location"><a href="https://worksourceskc.org/location/north-seattle/"
-  class="dropdown-item">North Seattle</a></li> <li id="nav-menu-item-38018" class="
-  menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type menu-item-object-location"><a
-  href="https://worksourceskc.org/location/rainier/" class="dropdown-item">Rainier</a></li>
-  <li id="nav-menu-item-38017" class=" menu-item-odd menu-item-depth-1 menu-item menu-item-type-post_type
-  menu-item-object-location"><a href="https://worksourceskc.org/location/south-seattle/"
-  class="dropdown-item">South Seattle</a></li> </ul> </li> <li id="nav-menu-item-37627"
-  class=" nav-item menu-item-even menu-item-depth-0 menu-item menu-item-type-post_type
-  menu-item-object-page"><a href="https://worksourceskc.org/about-worksource/" class="nav-link">About</a></li>
-  </ul> </div> </div> </div> </div> <section class="alert-area"> <div class="alert
-  alert-success alert-bar Top Bar"> <p>WorkSource locations has adjusted hours for
-  the upcoming holidays. Please review the details for your site below before visiting.</p>
-  <p><strong>Downtown Seattle</strong></p> <ul> <li> <strong>Closed</strong>: Thursday,
-  November 27 (Thanksgiving Day), Friday, November 28 (day after Thanksgiving), and
-  Thursday, December 25 (Christmas Day)</li> <li> <strong>Open</strong>: Friday, December
-  26 (day after Christmas) — <em>closing early this day</em> </li> <li>Regular hours:
-  All other days</li> </ul> <p><strong>Rainier</strong></p> <ul> <li class="whitespace-normal
-  break-words"><strong>OFFICE CLOSURE: December 4-22 for remodeling </strong></li>
-  <li class="whitespace-normal break-words">Closed: Thursday, November 27 (Thanksgiving
-  Day), Friday, November 28 (day after Thanksgiving), and Thursday, December 25 (Christmas
-  Day)</li> <li class="whitespace-normal break-words">Open: Friday, December 26 (day
-  after Christmas) and Friday, January 2 (day after New Year)</li> </ul> <p><strong>Auburn</strong></p>
+  <a>Skip to main content</a> <header> <div> <div> <div> <div> <div> <ul> <li><a>Job
+  Board</a></li> </ul> <ul> <li> <a>Staff Log-In</a> </li> </ul> </div> </div> <div>
+  <ul> <li> <a>Job Seekers</a> <ul> <li> <a>Get Started with Personalized Support</a>
+  <ul> <li><a>Sign Up for Services</a></li> <li><a>Layoff Support</a></li> </ul> </li>
+  <li> <a>Self-Serve Resources</a> <ul> <li><a>Career Exploration</a></li> <li><a>Skills
+  &amp; Training</a></li> <li><a>Job Search</a></li> </ul> </li> <li><a>Workshops
+  &amp; Hiring Events</a></li> </ul> </li> <li> <a>Employers</a> <ul> <li> <a>Business
+  Services</a> <ul> <li><a>Employer Inquiry Form</a></li> <li><a>Business Connection
+  Partners</a></li> <li><a>Business Assistance &amp; Workforce Support</a></li> <li><a>Small-Business
+  Assistance</a></li> <li><a>Employee Development</a></li> </ul> </li> <li><a>Layoff
+  Support, Aversion and Retention</a></li> </ul> </li> <li> <a>Locations</a> <ul>
+  <li><a>Auburn</a></li> <li><a>Downtown Seattle</a></li> <li><a>North Seattle</a></li>
+  <li><a>Rainier</a></li> <li><a>South Seattle</a></li> </ul> </li> <li><a>About</a></li>
+  </ul> </div> </div> </div> </div> <section> <div> <p>WorkSource locations has adjusted
+  hours for the upcoming holidays. Please review the details for your site below before
+  visiting.</p> <p><strong>Downtown Seattle</strong></p> <ul> <li> <strong>Closed</strong>:
+  Thursday, November 27 (Thanksgiving Day), Friday, November 28 (day after Thanksgiving),
+  and Thursday, December 25 (Christmas Day)</li> <li> <strong>Open</strong>: Friday,
+  December 26 (day after Christmas) — <em>closing early this day</em> </li> <li>Regular
+  hours: All other days</li> </ul> <p><strong>Rainier</strong></p> <ul> <li><strong>OFFICE
+  CLOSURE: December 4-22 for remodeling </strong></li> <li>Closed: Thursday, November
+  27 (Thanksgiving Day), Friday, November 28 (day after Thanksgiving), and Thursday,
+  December 25 (Christmas Day)</li> <li>Open: Friday, December 26 (day after Christmas)
+  and Friday, January 2 (day after New Year)</li> </ul> <p><strong>Auburn</strong></p>
   <ul> <li> <strong>Closed:</strong> Thursday, November 27 (Thanksgiving Day), Friday,
   November 28 (day after Thanksgiving), and Thursday, December 25 (Christmas Day)</li>
   <li> <strong>Open</strong>: Friday, December 26 (day after Christmas)</li> <li>Regular
@@ -118,25 +53,20 @@ original_content: '<div class="wp-site-blocks"> <div class="tribe-block tec-bloc
   Eve) and Thursday, December 25 (Christmas)</li> <li> <strong>Open</strong>: Friday,
   December 26 (day after Christmas)</li> <li>Regular hours: All other days</li> </ul>
   <p>For specific holiday hours or if you have questions, please contact your local
-  WorkSource offices</p> </div> </section> </header> <div class="main_wrapper" style="">
-  <section class="event-detail"> <div class="container "> <div class="row mt_row">
-  <div class="col-lg-6 col_left"> <a href="https://worksourceskc.org/workshops-hiring-events"
-  class="all-evnt">Go to Back to Calendar </a> <h1>Creole Speakers ONLY – Klas sa
-  se pou moun ki pale Kreol Selman-strateji pou shashe travail/Job Search Strategies</h1>
-  <div class="mt-dat-time"><p><strong>December 08</strong> Monday | 3:00pm - 4:00pm</p></div>
-  <div class="add-to-cal addeventatc"> <a href="#">Add to Calendar</a> <span class="start">December
-  08 3:00pm</span> <span class="end">12/08/2025 4:00pm</span> <span class="timezone">America/Los_Angeles</span>
-  <span class="title">Creole Speakers ONLY – Klas sa se pou moun ki pale Kreol Selman-strateji
-  pou shashe travail/Job Search Strategies</span> <span class="description">Anrejistre
-   Deskripsyon Atelie Kle pou reisi  le ou ap shashe travayi se pou konnen ki konpani
-  ki ap bay moun…</span> </div> <div class="directions"><p>Vitiel sou Zoom-Kibo ou
-  ka pran klas sa: Se sou zoom ke klas sa ou ka anrejistre</p></div> <p><strong>Contact
-  Name: </strong>Non Kontak: Maryse Brock:</p> <p><strong>Contact Email: </strong><a
-  href="mailto:Maryse.Brock@esd.wa.gov" target="_blank" rel="noopener">Maryse.Brock@esd.wa.gov</a></p>
-  <p><strong>Workshop Language: </strong>English</p> <p><strong>Event Registration:
-  </strong>Sign Up Required</p> <p class="signup-btn"><a class="btn btn-primary" href="https://eventactions.com/eareg.aspx?ea=Rsvp&amp;invite=06vgx8uww4btk99p8y0kvws9r3psekwu7dkw071etbr4ahzw3pkh"
-  target="_blank">Sign Up</a></p> <p><strong>Approved Unemployment Insurance (UI)
-  Job Search Activity:</strong> Yes</p> <p><strong>Additional Info:</strong></p> <p><strong>Lot
+  WorkSource offices</p> </div> </section> </header> <div> <section> <div> <div> <div>
+  <a>Go to Back to Calendar </a> <h1>Creole Speakers ONLY – Klas sa se pou moun ki
+  pale Kreol Selman-strateji pou shashe travail/Job Search Strategies</h1> <div><p><strong>December
+  08</strong> Monday | 3:00pm - 4:00pm</p></div> <div> <a>Add to Calendar</a> <span>December
+  08 3:00pm</span> <span>12/08/2025 4:00pm</span> <span>America/Los_Angeles</span>
+  <span>Creole Speakers ONLY – Klas sa se pou moun ki pale Kreol Selman-strateji pou
+  shashe travail/Job Search Strategies</span> <span>Anrejistre  Deskripsyon Atelie
+  Kle pou reisi  le ou ap shashe travayi se pou konnen ki konpani ki ap bay moun…</span>
+  </div> <div><p>Vitiel sou Zoom-Kibo ou ka pran klas sa: Se sou zoom ke klas sa ou
+  ka anrejistre</p></div> <p><strong>Contact Name: </strong>Non Kontak: Maryse Brock:</p>
+  <p><strong>Contact Email: </strong><a>Maryse.Brock@esd.wa.gov</a></p> <p><strong>Workshop
+  Language: </strong>English</p> <p><strong>Event Registration: </strong>Sign Up Required</p>
+  <p><a>Sign Up</a></p> <p><strong>Approved Unemployment Insurance (UI) Job Search
+  Activity:</strong> Yes</p> <p><strong>Additional Info:</strong></p> <p><strong>Lot
   informasyon:</strong></p> <p>Sil vou ple ale nan WorkSourceWA.com e cree yon akount
   avan ou komense atelie a.</p> <p>Koferens video ap utilize anpil data e bandwidth. 
   Avant ou sign, se pou ou setin ou genyen yon plan data ou bien ou gen akse a Wi-Fi
@@ -151,32 +81,33 @@ original_content: '<div class="wp-site-blocks"> <div class="tribe-block tec-bloc
   moun ki an responsab klas ou bien conpai ki responsab pou anrejistre ou ka voye
   yon infomasyon ba ou nan i-mel ou epi li ale nan boit junk/spam ou. Sil vou ple
   ale toujou gade nan boit sa pou we si ou pa recevoi yon mesaj de moun ki anchaje
-  de klas ou bien de system nan ou bien yon invite.  Li inpotan pou mete <a href="mailto:Maryse.Brock@esd.wa.gov"
-  target="_blank" rel="noopener">Maryse.Brock@esd.wa.gov</a> i-mel kontak ou.  Konsa
-  i-mel ou a ap rekonet  tout mesaj ki soti de atelie li rejete yo.</p> <p><strong>Le
-  ou ap anrejistre pou linpot program, utilize mim i-mel ke te utilize nan WorkSourcewa.com
-  akout out e kre pou premie foua.</strong></p> <p>Si ou besyon plis infomasyon ou
-  bien ou gen kesyon kontak moun ki <strong>anchaj klas sa</strong>, ou ap jouin informasyon
-  an moun sa nan lin n ki make Non moun ki anshaj klas la. </p> <p>Si ou besyon lot
-  akomodasyon paske ou gen yon bagay ki anpeche ou patisipe nan klas sa, sil vou ple
-  kontak moun ki anchaj program sa nan lin ki ekri kontak program.  Bay non ou, ki
-  akomodasyon ou besyon, e vil kote ou abite.  Siw ou ap mande pou nou akomode ou
-  fonk ou fe sa bien bone de fason pou nou ka fe aranjman ki nesese.  Atelie sa se
-  pou  moun ki pa pale Angle bien e ki besyon infomasyon nan lang ki pa Angle</p>
-  <p><strong>Atelie sa li aprouve pou moun ki ap resevoi shomage (UI) Aktivite shashe
-  travail (Job Search Activit): Oui/yes.</strong></p> <strong>Description:</strong><p><strong>Anrejistre</strong></p>
-  <p><strong> Deskripsyon Atelie</strong></p> <p>Kle pou reisi  le ou ap shashe travayi
-  se pou konnen ki konpani ki ap bay moun travayi ki strateji pou anploye.  Nan klass
-  strateji pou sukse a, ou gen pou apran n dives metod pou shashe travayi!  Klas sa
-  li ap montre ou fason ke ou ka utilize informasyon ki ap ede ou jouin travayi pi
-  vi. Pa examp, ki gen ou ka itilize lot metod et strateji tan kou, moun ou konnen,
-  interviou informasyonel e pi ki jen pou jouin 80% travail ke yo pa piblie.</p> </div>
-  </div> </div> </section> </div> </section> </div> </div>'
-original_markdown_body: 'WorkSource Seattle-King County {"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://worksourceskc.org/event/creole-speakers-only-klas-sa-se-pou-moun-ki-pale-kreol-selman-strateji-pou-shashe-travail-job-search-strategies-1560/","url":"https://worksourceskc.org/event/creole-speakers-only-klas-sa-se-pou-moun-ki-pale-kreol-selman-strateji-pou-shashe-travail-job-search-strategies-1560/","name":"Creole
+  de klas ou bien de system nan ou bien yon invite.  Li inpotan pou mete <a>Maryse.Brock@esd.wa.gov</a>
+  i-mel kontak ou.  Konsa i-mel ou a ap rekonet  tout mesaj ki soti de atelie li rejete
+  yo.</p> <p><strong>Le ou ap anrejistre pou linpot program, utilize mim i-mel ke
+  te utilize nan WorkSourcewa.com akout out e kre pou premie foua.</strong></p> <p>Si
+  ou besyon plis infomasyon ou bien ou gen kesyon kontak moun ki <strong>anchaj klas
+  sa</strong>, ou ap jouin informasyon an moun sa nan lin n ki make Non moun ki anshaj
+  klas la. </p> <p>Si ou besyon lot akomodasyon paske ou gen yon bagay ki anpeche
+  ou patisipe nan klas sa, sil vou ple kontak moun ki anchaj program sa nan lin ki
+  ekri kontak program.  Bay non ou, ki akomodasyon ou besyon, e vil kote ou abite. 
+  Siw ou ap mande pou nou akomode ou fonk ou fe sa bien bone de fason pou nou ka fe
+  aranjman ki nesese.  Atelie sa se pou  moun ki pa pale Angle bien e ki besyon infomasyon
+  nan lang ki pa Angle</p> <p><strong>Atelie sa li aprouve pou moun ki ap resevoi
+  shomage (UI) Aktivite shashe travail (Job Search Activit): Oui/yes.</strong></p>
+  <strong>Description:</strong><p><strong>Anrejistre</strong></p> <p><strong> Deskripsyon
+  Atelie</strong></p> <p>Kle pou reisi  le ou ap shashe travayi se pou konnen ki konpani
+  ki ap bay moun travayi ki strateji pou anploye.  Nan klass strateji pou sukse a,
+  ou gen pou apran n dives metod pou shashe travayi!  Klas sa li ap montre ou fason
+  ke ou ka utilize informasyon ki ap ede ou jouin travayi pi vi. Pa examp, ki gen
+  ou ka itilize lot metod et strateji tan kou, moun ou konnen, interviou informasyonel
+  e pi ki jen pou jouin 80% travail ke yo pa piblie.</p> </div> </div> </div> </section>
+  </div> </section> </div> </div>'
+original_content_checksum: e9c2300261331d45c25e9b99c810b8fcb3f97491
+original_markdown_body: 'WorkSource Seattle-King County {"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://worksourceskc.org/event/creole-speakers-only-klas-sa-se-pou-moun-ki-pale-kreol-selman-strateji-pou-shashe-travail-job-search-strategies-1561/","url":"https://worksourceskc.org/event/creole-speakers-only-klas-sa-se-pou-moun-ki-pale-kreol-selman-strateji-pou-shashe-travail-job-search-strategies-1561/","name":"Creole
   Speakers ONLY - Klas sa se pou moun ki pale Kreol Selman-strateji pou shashe travail/Job
-  Search Strategies - WorkSource Seattle-King County","isPartOf":{"@id":"https://worksourceskc.org/#website"},"datePublished":"2025-11-25T21:43:18+00:00","description":"Anrejistre&#160;Deskripsyon
+  Search Strategies - WorkSource Seattle-King County","isPartOf":{"@id":"https://worksourceskc.org/#website"},"datePublished":"2025-11-25T21:43:30+00:00","dateModified":"2025-12-06T23:52:27+00:00","description":"Anrejistre&#160;Deskripsyon
   AtelieKle pou reisi&#160; le ou ap shashe travayi se pou konnen ki konpani ki ap
-  bay moun travayi ki strateji pou","breadcrumb":{"@id":"https://worksourceskc.org/event/creole-speakers-only-klas-sa-se-pou-moun-ki-pale-kreol-selman-strateji-pou-shashe-travail-job-search-strategies-1560/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://worksourceskc.org/event/creole-speakers-only-klas-sa-se-pou-moun-ki-pale-kreol-selman-strateji-pou-shashe-travail-job-search-strategies-1560/"]}]},{"@type":"BreadcrumbList","@id":"https://worksourceskc.org/event/creole-speakers-only-klas-sa-se-pou-moun-ki-pale-kreol-selman-strateji-pou-shashe-travail-job-search-strategies-1560/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"Creole
+  bay moun travayi ki strateji pou","breadcrumb":{"@id":"https://worksourceskc.org/event/creole-speakers-only-klas-sa-se-pou-moun-ki-pale-kreol-selman-strateji-pou-shashe-travail-job-search-strategies-1561/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://worksourceskc.org/event/creole-speakers-only-klas-sa-se-pou-moun-ki-pale-kreol-selman-strateji-pou-shashe-travail-job-search-strategies-1561/"]}]},{"@type":"BreadcrumbList","@id":"https://worksourceskc.org/event/creole-speakers-only-klas-sa-se-pou-moun-ki-pale-kreol-selman-strateji-pou-shashe-travail-job-search-strategies-1561/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"Creole
   Speakers ONLY &#8211; Klas sa se pou moun ki pale Kreol Selman-strateji pou shashe
   travail/Job Search Strategies"}]},{"@type":"WebSite","@id":"https://worksourceskc.org/#website","url":"https://worksourceskc.org/","name":"WorkSource
   Seattle-King County","description":"Let&#039;s find your path together!","publisher":{"@id":"https://worksourceskc.org/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://worksourceskc.org/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://worksourceskc.org/#organization","name":"WorkSource
@@ -184,7 +115,7 @@ original_markdown_body: 'WorkSource Seattle-King County {"@context":"https://sch
   Seattle-King County"},"image":{"@id":"https://worksourceskc.org/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/worksourceskc/"]},{"@type":"Event","name":"Creole
   Speakers ONLY &#8211; Klas sa se pou moun ki pale Kreol Selman-strateji pou shashe
   travail/Job Search Strategies","description":"Anrejistre &#160;Deskripsyon Atelie
-  Kle pou reisi&#160; le ou ap shashe travayi se pou konnen ki konpani ki ap bay moun&hellip;","url":"https://worksourceskc.org/event/creole-speakers-only-klas-sa-se-pou-moun-ki-pale-kreol-selman-strateji-pou-shashe-travail-job-search-strategies-1560/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2025-12-08T15:00:00-08:00","endDate":"2025-12-08T16:00:00-08:00","@id":"https://worksourceskc.org/event/creole-speakers-only-klas-sa-se-pou-moun-ki-pale-kreol-selman-strateji-pou-shashe-travail-job-search-strategies-1560/#event","mainEntityOfPage":{"@id":"https://worksourceskc.org/event/creole-speakers-only-klas-sa-se-pou-moun-ki-pale-kreol-selman-strateji-pou-shashe-travail-job-search-strategies-1560/"}}]}
+  Kle pou reisi&#160; le ou ap shashe travayi se pou konnen ki konpani ki ap bay moun&hellip;","url":"https://worksourceskc.org/event/creole-speakers-only-klas-sa-se-pou-moun-ki-pale-kreol-selman-strateji-pou-shashe-travail-job-search-strategies-1561/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2025-12-08T15:00:00-08:00","endDate":"2025-12-08T16:00:00-08:00","@id":"https://worksourceskc.org/event/creole-speakers-only-klas-sa-se-pou-moun-ki-pale-kreol-selman-strateji-pou-shashe-travail-job-search-strategies-1561/#event","mainEntityOfPage":{"@id":"https://worksourceskc.org/event/creole-speakers-only-klas-sa-se-pou-moun-ki-pale-kreol-selman-strateji-pou-shashe-travail-job-search-strategies-1561/"}}]}
   Creole Speakers ONLY – Klas sa se pou moun ki pale Kreol Selman-strateji pou shashe
   travail/Job Search Strategies – WorkSource Seattle-King County Skip to main content        Job
   Board    Staff Log-In        Job Seekers   Get Started with Personalized Support  Sign
@@ -253,7 +184,7 @@ original_markdown_body: 'WorkSource Seattle-King County {"@context":"https://sch
   lot metod et strateji tan kou, moun ou konnen, interviou informasyonel e pi ki jen
   pou jouin 80% travail ke yo pa piblie.'
 source: WorkSource Seattle-King County
-source_url: https://worksourceskc.org/event/creole-speakers-only-klas-sa-se-pou-moun-ki-pale-kreol-selman-strateji-pou-shashe-travail-job-search-strategies-1560/
+source_url: https://worksourceskc.org/event/creole-speakers-only-klas-sa-se-pou-moun-ki-pale-kreol-selman-strateji-pou-shashe-travail-job-search-strategies-1561/
 start_date: '2025-12-08T15:00:00-08:00'
 summarized: true
 title: Creole Speakers ONLY - Klas sa se pou moun ki pale Kreol Selman-strateji pou
@@ -262,6 +193,6 @@ topics:
 - Employment & Job Support
 ---
 
-Join the "Creole Speakers ONLY - Job Search Strategies" workshop on Dec. 8, 2025, from 3 to 4 p.m. This event, hosted by WorkSource Seattle-King County, is designed for individuals who speak Creole and are seeking effective job search techniques. Attendees will learn about various strategies to find employment, including how to identify companies hiring and leverage networking opportunities.
+Join the "Creole Speakers ONLY - Job Search Strategies" workshop on Dec. 8 from 3 to 4 p.m. via Zoom. This event is designed specifically for individuals who speak Creole and are seeking effective job search techniques. Participants will learn various strategies to identify potential employers and enhance their job search efforts. The workshop will cover methods such as networking, informational interviews, and how to access the hidden job market.
 
-The workshop will take place online via Zoom, and registration is required. Participants will gain insights into methods that can help them access job opportunities that are not widely advertised. This session is particularly beneficial for those who may not be fluent in English and need support in their job search efforts. For more information, please contact Maryse Brock at Maryse.Brock@esd.wa.gov.
+This session is part of the WorkSource Seattle-King County initiative, aimed at providing resources and support for job seekers. Registration is required, and attendees are encouraged to ensure they have a reliable internet connection for the virtual format. For more information, contact Maryse Brock at Maryse.Brock@esd.wa.gov.
