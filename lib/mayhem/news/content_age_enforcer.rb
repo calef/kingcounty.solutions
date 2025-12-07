@@ -151,6 +151,9 @@ module Mayhem
 
       def cleanup_generated_events(event_ids)
         removed = 0
+        # Get all remaining posts and their event references
+        remaining_event_refs = remaining_event_references
+
         event_ids.each do |event_id|
           event_path = File.join(@events_dir, "#{event_id}.md")
           next unless File.exist?(event_path)
@@ -160,12 +163,32 @@ module Mayhem
           next unless document
           next unless document.front_matter['generated_from_post'] == true
 
+          # Check if any remaining posts still reference this event
+          if remaining_event_refs[event_id]&.positive?
+            @logger.info "Keeping event #{event_id} (still referenced by #{remaining_event_refs[event_id]} post(s))"
+            next
+          end
+
           remove_file(event_path)
           removed += 1
           @logger.info "Removed generated event #{event_id}"
         end
 
         @logger.info "Removed #{removed} generated event#{'s' unless removed == 1}." if removed.positive?
+      end
+
+      def remaining_event_references
+        counts = Hash.new(0)
+        Dir.glob(File.join(@posts_dir, '*.md')).each do |path|
+          document = Mayhem::Support::FrontMatterDocument.load(path, logger: @logger)
+          next unless document
+
+          events = document.front_matter['events']
+          next unless events.is_a?(Array)
+
+          events.each { |event_id| counts[event_id] += 1 }
+        end
+        counts
       end
     end
   end
