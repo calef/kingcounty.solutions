@@ -1,18 +1,19 @@
 ---
 end_date: '2025-12-08T12:00:00-08:00'
+images: []
 location: ''
 original_content: '<div> <div> <section> <title>WorkSource Seattle-King County</title>
-  <script>{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-403/","url":"https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-403/","name":"DCYF
-  101: Jobs with Heart and Impact - WorkSource Seattle-King County","isPartOf":{"@id":"https://worksourceskc.org/#website"},"datePublished":"2025-12-05T19:50:01+00:00","dateModified":"2025-12-06T23:52:26+00:00","description":"DCYF
+  <script>{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-401/","url":"https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-401/","name":"DCYF
+  101: Jobs with Heart and Impact - WorkSource Seattle-King County","isPartOf":{"@id":"https://worksourceskc.org/#website"},"datePublished":"2025-12-05T19:49:50+00:00","description":"DCYF
   101: Jobs with Heart and ImpactInformation session for job seekers about employment
-  with the Department of Children, Youth, and Families (DCYF). The","breadcrumb":{"@id":"https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-403/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-403/"]}]},{"@type":"BreadcrumbList","@id":"https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-403/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"DCYF
+  with the Department of Children, Youth, and Families (DCYF). The","breadcrumb":{"@id":"https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-401/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-401/"]}]},{"@type":"BreadcrumbList","@id":"https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-401/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"DCYF
   101: Jobs with Heart and Impact"}]},{"@type":"WebSite","@id":"https://worksourceskc.org/#website","url":"https://worksourceskc.org/","name":"WorkSource
   Seattle-King County","description":"Let&#039;s find your path together!","publisher":{"@id":"https://worksourceskc.org/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://worksourceskc.org/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://worksourceskc.org/#organization","name":"WorkSource
   Seattle-King County","url":"https://worksourceskc.org/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://worksourceskc.org/#/schema/logo/image/","url":"","contentUrl":"","caption":"WorkSource
   Seattle-King County"},"image":{"@id":"https://worksourceskc.org/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/worksourceskc/"]},{"@type":"Event","name":"DCYF
   101: Jobs with Heart and Impact","description":"DCYF 101: Jobs with Heart and ImpactInformation
   session for job seekers about employment with the Department of Children, Youth,
-  and&hellip;","url":"https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-403/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2025-12-08T11:00:00-08:00","endDate":"2025-12-08T12:00:00-08:00","@id":"https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-403/#event","mainEntityOfPage":{"@id":"https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-403/"}}]}</script>
+  and&hellip;","url":"https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-401/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2025-12-08T11:00:00-08:00","endDate":"2025-12-08T12:00:00-08:00","@id":"https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-401/#event","mainEntityOfPage":{"@id":"https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-401/"}}]}</script>
   <title>DCYF 101: Jobs with Heart and Impact – WorkSource Seattle-King County</title>
   <a>Skip to main content</a> <header> <div> <div> <div> <div> <div> <ul> <li><a>Job
   Board</a></li> </ul> <ul> <li> <a>Staff Log-In</a> </li> </ul> </div> </div> <div>
@@ -67,18 +68,18 @@ original_content: '<div> <div> <section> <title>WorkSource Seattle-King County</
   and the broader mission of DCYF. Virtual – December Monday, 12/8:11:00 am – 12:00
   pm,  Wednesday, 12/10: 10:00 am – 11:00 am <p><a>https://forms.office.com/g/epPfdW463b</a></p>
   </div> </div> </div> </section> </div> </section> </div> </div>'
-original_content_checksum: 4c5199db7b8dda31ac01e88f00c22de4214e35b3
-original_markdown_body: 'WorkSource Seattle-King County {"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-403/","url":"https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-403/","name":"DCYF
-  101: Jobs with Heart and Impact - WorkSource Seattle-King County","isPartOf":{"@id":"https://worksourceskc.org/#website"},"datePublished":"2025-12-05T19:50:01+00:00","dateModified":"2025-12-06T23:52:26+00:00","description":"DCYF
+original_content_checksum: 8dbd620212f8b3681754b09c75c2ee58ca373f9c
+original_markdown_body: 'WorkSource Seattle-King County {"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-401/","url":"https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-401/","name":"DCYF
+  101: Jobs with Heart and Impact - WorkSource Seattle-King County","isPartOf":{"@id":"https://worksourceskc.org/#website"},"datePublished":"2025-12-05T19:49:50+00:00","description":"DCYF
   101: Jobs with Heart and ImpactInformation session for job seekers about employment
-  with the Department of Children, Youth, and Families (DCYF). The","breadcrumb":{"@id":"https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-403/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-403/"]}]},{"@type":"BreadcrumbList","@id":"https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-403/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"DCYF
+  with the Department of Children, Youth, and Families (DCYF). The","breadcrumb":{"@id":"https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-401/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-401/"]}]},{"@type":"BreadcrumbList","@id":"https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-401/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"DCYF
   101: Jobs with Heart and Impact"}]},{"@type":"WebSite","@id":"https://worksourceskc.org/#website","url":"https://worksourceskc.org/","name":"WorkSource
   Seattle-King County","description":"Let&#039;s find your path together!","publisher":{"@id":"https://worksourceskc.org/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://worksourceskc.org/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://worksourceskc.org/#organization","name":"WorkSource
   Seattle-King County","url":"https://worksourceskc.org/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://worksourceskc.org/#/schema/logo/image/","url":"","contentUrl":"","caption":"WorkSource
   Seattle-King County"},"image":{"@id":"https://worksourceskc.org/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/worksourceskc/"]},{"@type":"Event","name":"DCYF
   101: Jobs with Heart and Impact","description":"DCYF 101: Jobs with Heart and ImpactInformation
   session for job seekers about employment with the Department of Children, Youth,
-  and&hellip;","url":"https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-403/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2025-12-08T11:00:00-08:00","endDate":"2025-12-08T12:00:00-08:00","@id":"https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-403/#event","mainEntityOfPage":{"@id":"https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-403/"}}]}
+  and&hellip;","url":"https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-401/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2025-12-08T11:00:00-08:00","endDate":"2025-12-08T12:00:00-08:00","@id":"https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-401/#event","mainEntityOfPage":{"@id":"https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-401/"}}]}
   DCYF 101: Jobs with Heart and Impact – WorkSource Seattle-King County Skip to main
   content        Job Board    Staff Log-In        Job Seekers   Get Started with Personalized
   Support  Sign Up for Services Layoff Support    Self-Serve Resources  Career Exploration
@@ -117,7 +118,7 @@ original_markdown_body: 'WorkSource Seattle-King County {"@context":"https://sch
   mission of DCYF. Virtual – December Monday, 12/8:11:00 am – 12:00 pm,  Wednesday,
   12/10: 10:00 am – 11:00 am https://forms.office.com/g/epPfdW463b'
 source: WorkSource Seattle-King County
-source_url: https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-403/
+source_url: https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-401/
 start_date: '2025-12-08T11:00:00-08:00'
 summarized: true
 title: 'DCYF 101: Jobs with Heart and Impact'
@@ -125,4 +126,4 @@ topics:
 - Employment & Job Support
 ---
 
-Join WorkSource Seattle-King County for "DCYF 101: Jobs with Heart and Impact" on Dec. 8, 2025, from 11 a.m. to noon. This informative session is designed for job seekers interested in employment opportunities with the Department of Children, Youth, and Families (DCYF). Attendees will learn about available Child Welfare positions, the qualifications needed, and the application process. The event will also cover DCYF's broader mission and impact in the community. Don't miss this chance to discover how you can make a difference in the lives of children and families.
+Join the information session "DCYF 101: Jobs with Heart and Impact" on Dec. 8, 2025, from 11 a.m. to noon. This event, hosted by WorkSource Seattle-King County, will provide job seekers with insights into employment opportunities with the Department of Children, Youth, and Families (DCYF). Attendees can expect to learn about various Child Welfare positions, the qualifications needed, the application process, and the overall mission of DCYF. This session is a great opportunity for those looking to make a meaningful impact in their community through a career in child welfare. Don't forget to create an account at WorkSourceWA.com before attending.

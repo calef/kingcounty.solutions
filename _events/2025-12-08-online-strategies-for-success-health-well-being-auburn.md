@@ -1,19 +1,20 @@
 ---
 end_date: '2025-12-11T11:30:00-08:00'
+images: []
 location: ''
 original_content: '<div> <div> <section> <title>WorkSource Seattle-King County</title>
-  <script>{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://worksourceskc.org/event/online-strategies-for-success-health-well-being-auburn-411/","url":"https://worksourceskc.org/event/online-strategies-for-success-health-well-being-auburn-411/","name":"ONLINE
+  <script>{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.worksourceskc.org/event/online-strategies-for-success-health-well-being-auburn-410/","url":"https://www.worksourceskc.org/event/online-strategies-for-success-health-well-being-auburn-410/","name":"ONLINE
   Strategies for Success: Health &amp; Well-Being (Auburn) - WorkSource Seattle-King
-  County","isPartOf":{"@id":"https://worksourceskc.org/#website"},"datePublished":"2025-11-11T00:10:08+00:00","dateModified":"2025-12-06T23:52:24+00:00","description":"Class
+  County","isPartOf":{"@id":"https://worksourceskc.org/#website"},"datePublished":"2025-11-11T00:09:58+00:00","description":"Class
   times: 8:30-11:30 (4-day class)Health and well-being &#8211; What is &#8216;work-life&#8217;
-  balance? How do I take care of me while taking care of","breadcrumb":{"@id":"https://worksourceskc.org/event/online-strategies-for-success-health-well-being-auburn-411/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://worksourceskc.org/event/online-strategies-for-success-health-well-being-auburn-411/"]}]},{"@type":"BreadcrumbList","@id":"https://worksourceskc.org/event/online-strategies-for-success-health-well-being-auburn-411/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"ONLINE
+  balance? How do I take care of me while taking care of","breadcrumb":{"@id":"https://www.worksourceskc.org/event/online-strategies-for-success-health-well-being-auburn-410/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.worksourceskc.org/event/online-strategies-for-success-health-well-being-auburn-410/"]}]},{"@type":"BreadcrumbList","@id":"https://www.worksourceskc.org/event/online-strategies-for-success-health-well-being-auburn-410/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"ONLINE
   Strategies for Success: Health &amp; Well-Being (Auburn)"}]},{"@type":"WebSite","@id":"https://worksourceskc.org/#website","url":"https://worksourceskc.org/","name":"WorkSource
   Seattle-King County","description":"Let&#039;s find your path together!","publisher":{"@id":"https://worksourceskc.org/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://worksourceskc.org/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://worksourceskc.org/#organization","name":"WorkSource
   Seattle-King County","url":"https://worksourceskc.org/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://worksourceskc.org/#/schema/logo/image/","url":"","contentUrl":"","caption":"WorkSource
   Seattle-King County"},"image":{"@id":"https://worksourceskc.org/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/worksourceskc/"]},{"@type":"Event","name":"ONLINE
   Strategies for Success: Health &amp; Well-Being (Auburn)","description":"Class times:
   8:30-11:30 (4-day class) Health and well-being &#8211; What is &#8216;work-life&#8217;
-  balance? How do I take care of me&hellip;","url":"https://worksourceskc.org/event/online-strategies-for-success-health-well-being-auburn-411/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2025-12-08T08:30:00-08:00","endDate":"2025-12-11T11:30:00-08:00","@id":"https://worksourceskc.org/event/online-strategies-for-success-health-well-being-auburn-411/#event","mainEntityOfPage":{"@id":"https://worksourceskc.org/event/online-strategies-for-success-health-well-being-auburn-411/"}}]}</script>
+  balance? How do I take care of me&hellip;","url":"https://worksourceskc.org/event/online-strategies-for-success-health-well-being-auburn-410/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2025-12-08T08:30:00-08:00","endDate":"2025-12-11T11:30:00-08:00","@id":"https://worksourceskc.org/event/online-strategies-for-success-health-well-being-auburn-410/#event","mainEntityOfPage":{"@id":"https://www.worksourceskc.org/event/online-strategies-for-success-health-well-being-auburn-410/"}}]}</script>
   <title>ONLINE Strategies for Success: Health &amp; Well-Being (Auburn) – WorkSource
   Seattle-King County</title> <a>Skip to main content</a> <header> <div> <div> <div>
   <div> <div> <ul> <li><a>Job Board</a></li> </ul> <ul> <li> <a>Staff Log-In</a> </li>
@@ -91,19 +92,19 @@ original_content: '<div> <div> <section> <title>WorkSource Seattle-King County</
   access community resources and expand networking skills </li> <li>Improve your ability
   to solve problems, set goals and develop new action planning techniques</li> </ul>
   </div> </div> </div> </section> </div> </section> </div> </div>'
-original_content_checksum: 7fe8106b1d428086b560b7b06202f62aa9ce93f9
-original_markdown_body: 'WorkSource Seattle-King County {"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://worksourceskc.org/event/online-strategies-for-success-health-well-being-auburn-411/","url":"https://worksourceskc.org/event/online-strategies-for-success-health-well-being-auburn-411/","name":"ONLINE
+original_content_checksum: fe645528315ad1aa28898a26b7a73a0a07f3766e
+original_markdown_body: 'WorkSource Seattle-King County {"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.worksourceskc.org/event/online-strategies-for-success-health-well-being-auburn-410/","url":"https://www.worksourceskc.org/event/online-strategies-for-success-health-well-being-auburn-410/","name":"ONLINE
   Strategies for Success: Health &amp; Well-Being (Auburn) - WorkSource Seattle-King
-  County","isPartOf":{"@id":"https://worksourceskc.org/#website"},"datePublished":"2025-11-11T00:10:08+00:00","dateModified":"2025-12-06T23:52:24+00:00","description":"Class
+  County","isPartOf":{"@id":"https://worksourceskc.org/#website"},"datePublished":"2025-11-11T00:09:58+00:00","description":"Class
   times: 8:30-11:30 (4-day class)Health and well-being &#8211; What is &#8216;work-life&#8217;
-  balance? How do I take care of me while taking care of","breadcrumb":{"@id":"https://worksourceskc.org/event/online-strategies-for-success-health-well-being-auburn-411/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://worksourceskc.org/event/online-strategies-for-success-health-well-being-auburn-411/"]}]},{"@type":"BreadcrumbList","@id":"https://worksourceskc.org/event/online-strategies-for-success-health-well-being-auburn-411/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"ONLINE
+  balance? How do I take care of me while taking care of","breadcrumb":{"@id":"https://www.worksourceskc.org/event/online-strategies-for-success-health-well-being-auburn-410/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.worksourceskc.org/event/online-strategies-for-success-health-well-being-auburn-410/"]}]},{"@type":"BreadcrumbList","@id":"https://www.worksourceskc.org/event/online-strategies-for-success-health-well-being-auburn-410/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"ONLINE
   Strategies for Success: Health &amp; Well-Being (Auburn)"}]},{"@type":"WebSite","@id":"https://worksourceskc.org/#website","url":"https://worksourceskc.org/","name":"WorkSource
   Seattle-King County","description":"Let&#039;s find your path together!","publisher":{"@id":"https://worksourceskc.org/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://worksourceskc.org/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://worksourceskc.org/#organization","name":"WorkSource
   Seattle-King County","url":"https://worksourceskc.org/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://worksourceskc.org/#/schema/logo/image/","url":"","contentUrl":"","caption":"WorkSource
   Seattle-King County"},"image":{"@id":"https://worksourceskc.org/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/worksourceskc/"]},{"@type":"Event","name":"ONLINE
   Strategies for Success: Health &amp; Well-Being (Auburn)","description":"Class times:
   8:30-11:30 (4-day class) Health and well-being &#8211; What is &#8216;work-life&#8217;
-  balance? How do I take care of me&hellip;","url":"https://worksourceskc.org/event/online-strategies-for-success-health-well-being-auburn-411/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2025-12-08T08:30:00-08:00","endDate":"2025-12-11T11:30:00-08:00","@id":"https://worksourceskc.org/event/online-strategies-for-success-health-well-being-auburn-411/#event","mainEntityOfPage":{"@id":"https://worksourceskc.org/event/online-strategies-for-success-health-well-being-auburn-411/"}}]}
+  balance? How do I take care of me&hellip;","url":"https://worksourceskc.org/event/online-strategies-for-success-health-well-being-auburn-410/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2025-12-08T08:30:00-08:00","endDate":"2025-12-11T11:30:00-08:00","@id":"https://worksourceskc.org/event/online-strategies-for-success-health-well-being-auburn-410/#event","mainEntityOfPage":{"@id":"https://www.worksourceskc.org/event/online-strategies-for-success-health-well-being-auburn-410/"}}]}
   ONLINE Strategies for Success: Health & Well-Being (Auburn) – WorkSource Seattle-King
   County Skip to main content        Job Board    Staff Log-In        Job Seekers   Get
   Started with Personalized Support  Sign Up for Services Layoff Support    Self-Serve
@@ -162,7 +163,7 @@ original_markdown_body: 'WorkSource Seattle-King County {"@context":"https://sch
   access community resources and expand networking skills  Improve your ability to
   solve problems, set goals and develop new action planning techniques'
 source: WorkSource Seattle-King County
-source_url: https://worksourceskc.org/event/online-strategies-for-success-health-well-being-auburn-411/
+source_url: https://worksourceskc.org/event/online-strategies-for-success-health-well-being-auburn-410/
 start_date: '2025-12-08T08:30:00-08:00'
 summarized: true
 title: 'ONLINE Strategies for Success: Health & Well-Being (Auburn)'
@@ -171,8 +172,8 @@ topics:
 - Mental Health & Counseling
 ---
 
-Join the ONLINE Strategies for Success: Health & Well-Being workshop from December 8 to December 11, 2025, starting at 8:30 a.m. each day. This four-day online class, hosted by WorkSource Seattle-King County, focuses on achieving work-life balance and personal well-being. Participants will explore topics such as self-care, stress management, and community resources while developing essential life skills.
+Join the ONLINE Strategies for Success: Health & Well-Being workshop, hosted by WorkSource Seattle-King County, from December 8 to December 11, 2025. This four-day online class runs from 8:30 a.m. to 11:30 a.m. each day.
 
-The workshop is designed to be flexible, allowing attendees to customize their learning experience by choosing from various modules. Each session encourages self-reflection and personal growth, helping individuals set goals and enhance their problem-solving abilities. 
+Attendees will explore essential topics such as achieving work-life balance, personal well-being, and self-care strategies. The workshop aims to enhance self-awareness, boundary-setting, and stress management skills while also providing guidance on networking and accessing community resources. Each module is designed to stand alone or be combined with others for a personalized experience.
 
-Registration is required, and attendees will receive a Zoom link shortly before the event. For more information, contact Erik Hontz at erik.hontz@esd.wa.gov. Don't miss this opportunity to invest in your health and well-being!
+Registration is required, and participants will receive Zoom links via email prior to the event. For more information or accommodation requests, contact Erik Hontz at erik.hontz@esd.wa.gov.
