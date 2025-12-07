@@ -77,6 +77,31 @@ module Mayhem
         end
       end
 
+      def resolve_final_url(url)
+        attempt = 0
+        begin
+          attempt += 1
+          uri = URI.parse(url)
+          follow_head_redirect(uri, @max_redirects)
+        rescue *RETRYABLE_ERRORS => e
+          raise if attempt >= @max_retries
+
+          wait = @retry_initial_delay * (@retry_backoff_factor**(attempt - 1))
+          @logger.warn(
+            "Retrying HEAD #{url} after #{e.class} (#{e.message}) in #{format('%.2f', wait)}s " \
+            "(attempt #{attempt}/#{@max_retries})"
+          )
+          sleep wait
+          retry
+        rescue URI::InvalidURIError => e
+          @logger.debug "Invalid URI for canonical resolution (#{url}): #{e.message}"
+          nil
+        rescue StandardError => e
+          @logger.debug "Failed to resolve canonical URL for #{url}: #{e.message}"
+          nil
+        end
+      end
+
       private
 
       def perform_request(url, accept, max_bytes, remaining_redirects)
@@ -95,6 +120,12 @@ module Mayhem
         perform_http_request(uri, accept, max_bytes, verify_mode)
       rescue OpenSSL::SSL::SSLError => e
         retry_without_verification(uri, accept, max_bytes, retried, e)
+      end
+
+      def execute_head_request(uri, verify_mode: OpenSSL::SSL::VERIFY_PEER, retried: false)
+        perform_http_head(uri, verify_mode)
+      rescue OpenSSL::SSL::SSLError => e
+        retry_without_verification_head(uri, retried, e)
       end
 
       def follow_redirect(response, uri, accept, max_bytes, remaining_redirects)
@@ -131,6 +162,16 @@ module Mayhem
         [response, body]
       end
 
+      def perform_http_head(uri, verify_mode)
+        http = build_http_connection(uri, verify_mode)
+        response = nil
+        http.start do |connection|
+          request = build_head_request(uri)
+          response = connection.request(request)
+        end
+        response
+      end
+
       def build_http_connection(uri, verify_mode)
         Net::HTTP.new(uri.host, uri.port).tap do |http|
           http.use_ssl = uri.scheme == 'https'
@@ -165,6 +206,12 @@ module Mayhem
         end
       end
 
+      def build_head_request(uri)
+        Net::HTTP::Head.new(uri).tap do |request|
+          request['User-Agent'] = @user_agent
+        end
+      end
+
       def read_response_body(response, max_bytes)
         body = +''
         response.read_body do |chunk|
@@ -175,6 +222,33 @@ module Mayhem
         end
         body.force_encoding('BINARY')
         body
+      end
+
+      def retry_without_verification_head(uri, retried, error)
+        return handle_terminal_ssl_error(uri, error) unless @allow_insecure_fallback && !retried
+
+        @logger.warn "SSL error (#{error.message}), retrying HEAD without verification for #{uri}"
+        execute_head_request(
+          uri,
+          verify_mode: OpenSSL::SSL::VERIFY_NONE,
+          retried: true
+        )
+      end
+
+      def follow_head_redirect(uri, remaining_redirects, verify_mode: OpenSSL::SSL::VERIFY_PEER)
+        response = execute_head_request(uri, verify_mode: verify_mode)
+        if response.is_a?(Net::HTTPRedirection)
+          raise 'Too many redirects' if remaining_redirects <= 0
+
+          location = response['location']
+          return uri.to_s unless location
+
+          new_url = Mayhem::Support::UrlUtils.absolutize(uri.to_s, location) || location
+          new_uri = URI.parse(new_url)
+          follow_head_redirect(new_uri, remaining_redirects - 1, verify_mode: verify_mode)
+        else
+          uri.to_s
+        end
       end
     end
   end

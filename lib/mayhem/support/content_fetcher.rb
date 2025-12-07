@@ -5,6 +5,7 @@ require_relative 'article_body_selectors'
 require_relative 'content_utils'
 require_relative '../feed_discovery'
 require_relative 'url_utils'
+require_relative 'url_normalizer'
 
 module Mayhem
   module Support
@@ -39,6 +40,7 @@ module Mayhem
         return skipped_response(page) if non_html_response?(page)
 
         document = Nokogiri::HTML(page[:body])
+        canonical_url = canonical_from_document(document, page[:final_url])
         strip_unwanted_nodes(document)
         body_node = document.at_css('body')
         snippet = extract_snippet(document) || body_node&.inner_html
@@ -46,7 +48,7 @@ module Mayhem
         cleaned_snippet = sanitize_snippet(body_node&.inner_html) if cleaned_snippet.strip.empty? && body_node
         cleaned_snippet = sanitize_html(page[:body]) if cleaned_snippet.strip.empty?
 
-        { html: cleaned_snippet, canonical_url: page[:final_url] }
+        { html: cleaned_snippet, canonical_url: canonical_url || page[:final_url] }
       end
 
       private
@@ -118,6 +120,22 @@ module Mayhem
           "(content-type: #{page[:content_type] || 'unknown'})"
         )
         { html: '', canonical_url: page[:final_url] }
+      end
+
+      def canonical_from_document(document, base_url)
+        return unless document
+
+        node = document.css('link[rel]').find do |link|
+          rels = link['rel'].to_s.downcase.split
+          rels.include?('canonical')
+        end
+        href = node&.[]('href').to_s.strip
+        return nil if href.empty?
+
+        Mayhem::Support::UrlNormalizer.normalize(href, base: base_url)
+      rescue StandardError => e
+        @logger.debug "Failed to extract canonical link from #{base_url}: #{e.message}"
+        nil
       end
     end
   end
