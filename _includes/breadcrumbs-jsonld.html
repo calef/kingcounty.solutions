@@ -1,0 +1,56 @@
+{% comment %}
+  Generate JSON-LD BreadcrumbList schema for search engines
+  Parameters:
+    - root_url: The base URL for the root item (e.g., "/places/")
+    - root_label: The label for the root item (e.g., "Places")
+    - trail: Array of breadcrumb items with .title and .url
+    - current: The current page title
+{% endcomment %}
+
+{% assign position = 1 %}
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": {{ position }},
+      "name": "Home",
+      "item": {{ '/' | absolute_url | jsonify }}
+    }
+    {% assign position = position | plus: 1 %}
+    {% if include.root_label and include.root_url %}
+    ,{
+      "@type": "ListItem",
+      "position": {{ position }},
+      "name": {{ include.root_label | jsonify }},
+      "item": {{ include.root_url | absolute_url | jsonify }}
+    }
+    {% assign position = position | plus: 1 %}
+    {% endif %}
+    {% if include.trail and include.trail != "" %}
+      {% for crumb in include.trail %}
+        {% assign crumb_title = crumb.acronym | default: crumb.title | default: crumb | strip %}
+        {% if crumb_title != "" %}
+    ,{
+      "@type": "ListItem",
+      "position": {{ position }},
+      "name": {{ crumb_title | jsonify }},
+      "item": {{ crumb.url | absolute_url | jsonify }}
+    }
+        {% assign position = position | plus: 1 %}
+        {% endif %}
+      {% endfor %}
+    {% endif %}
+    {% if include.current %}
+    ,{
+      "@type": "ListItem",
+      "position": {{ position }},
+      "name": {{ include.current | jsonify }}
+    }
+    {% endif %}
+  ]
+}
+</script>
