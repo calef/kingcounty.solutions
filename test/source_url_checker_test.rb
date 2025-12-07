@@ -161,16 +161,11 @@ class SourceUrlCheckerTest < Minitest::Test
     assert_equal original_content, File.read(post_path), 'Post with empty source_url should not be modified'
   end
 
-  # rubocop:disable Minitest/MultipleAssertions
-  def test_multiple_posts_and_events_are_checked
+  def test_multiple_valid_posts_and_events_remain_unchanged
     post1 = write_post('2025-01-01-valid.md', 'https://example.com/valid')
-    post2 = write_post('2025-01-02-missing.md', 'https://example.com/missing')
     event1 = write_event('event1', 'https://example.com/event-valid')
-    event2 = write_event('event2', 'https://example.com/event-missing')
 
-    checker = build_checker(http_client: lambda { |url|
-      url.include?('missing') ? :not_found : :success
-    })
+    checker = build_checker(http_client: ->(_url) { :success })
     checker.run
 
     # Valid post should be unchanged
@@ -178,18 +173,25 @@ class SourceUrlCheckerTest < Minitest::Test
 
     refute_equal false, document1.front_matter['published']
 
+    # Valid event should exist
+    assert_path_exists event1
+  end
+
+  def test_multiple_invalid_posts_and_events_are_cleaned_up
+    post2 = write_post('2025-01-02-missing.md', 'https://example.com/missing')
+    event2 = write_event('event2', 'https://example.com/event-missing')
+
+    checker = build_checker(http_client: ->(_url) { :not_found })
+    checker.run
+
     # Missing post should be unpublished
     document2 = Mayhem::Support::FrontMatterDocument.load(post2)
 
     refute document2.front_matter['published']
 
-    # Valid event should exist
-    assert_path_exists event1
-
     # Missing event should be deleted
     refute_path_exists event2
   end
-  # rubocop:enable Minitest/MultipleAssertions
 
   def test_unpublished_post_still_has_published_false_flag
     post_path = write_post('2025-01-01-test.md', 'https://example.com/missing')

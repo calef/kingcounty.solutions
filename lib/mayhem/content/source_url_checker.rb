@@ -22,7 +22,8 @@ module Mayhem
         images_dir: IMAGES_DIR,
         assets_dir: IMAGE_ASSETS_DIR,
         logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'),
-        http_client: nil
+        http_client: nil,
+        user_agent: 'King County Solutions Link Checker'
       )
         @posts_dir = posts_dir
         @events_dir = events_dir
@@ -30,6 +31,7 @@ module Mayhem
         @assets_dir = assets_dir
         @logger = logger
         @http_client = http_client
+        @user_agent = user_agent
       end
 
       def run
@@ -90,7 +92,7 @@ module Mayhem
         response = Net::HTTP.start(uri.host, uri.port, use_ssl: uri.scheme == 'https',
                                                        open_timeout: 10, read_timeout: 10) do |http|
           request = Net::HTTP::Head.new(uri.request_uri)
-          request['User-Agent'] = 'King County Solutions Link Checker'
+          request['User-Agent'] = @user_agent
           http.request(request)
         end
 
