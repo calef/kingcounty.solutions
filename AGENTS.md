@@ -30,3 +30,4 @@
 - Do not modify files under `_site/` or commit secrets; make the smallest possible change to fix an issue and document verification steps in the PR.
 - `script/bootstrap`, `script/server`, and `script/cibuild` verify local builds, however agents lack permissions to run them.
 - Keep messages concise and actionable so other agents can pick up work quickly.
+- script/ and bin/ scripts should have execute permissions.
