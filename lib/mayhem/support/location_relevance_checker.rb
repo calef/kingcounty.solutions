@@ -13,12 +13,14 @@ module Mayhem
         model: DEFAULT_MODEL,
         logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL')
       )
-        @client = client || ::OpenAI::Client.new(access_token: ENV.fetch('OPENAI_API_KEY'))
+        @client = client || build_client
         @model = model
         @logger = logger
       end
 
       def relevant_to_king_county?(title:, content:, location: nil)
+        return true unless @client
+
         prompt = build_prompt(title: title, content: content, location: location)
 
         attempts = 0
@@ -60,6 +62,16 @@ module Mayhem
       end
 
       private
+
+      def build_client
+        api_key = ENV['OPENAI_API_KEY']
+        return nil unless api_key && !api_key.empty?
+
+        ::OpenAI::Client.new(access_token: api_key)
+      rescue StandardError => e
+        @logger.warn "Failed to initialize OpenAI client: #{e.message}"
+        nil
+      end
 
       def build_prompt(title:, content:, location:)
         location_info = location.to_s.strip.empty? ? '' : "\nLocation: #{location}"
