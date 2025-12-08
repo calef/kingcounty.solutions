@@ -173,6 +173,7 @@ Analyzes news posts to identify event announcements using LLM, creates correspon
 - Marks posts with `events_extracted: true` to avoid reprocessing, even when no events are found.
 - Generated events are automatically cleaned up when their source posts are removed by `enforce-content-age` or when they expire via `StaleEventCleaner`.
 
+### `check-source-urls`
 ### `enforce-content-age`
 
 **Purpose**
