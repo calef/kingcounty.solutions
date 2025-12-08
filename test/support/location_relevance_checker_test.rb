@@ -77,7 +77,6 @@ class LocationRelevanceCheckerTest < Minitest::Test
 
   def test_includes_location_in_prompt_when_provided
     client = Object.new
-    captured_prompt = nil
     def client.chat(parameters:)
       @captured_messages = parameters[:messages]
       { 'choices' => [{ 'message' => { 'content' => 'yes' } }] }

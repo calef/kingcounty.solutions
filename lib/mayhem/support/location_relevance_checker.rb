@@ -68,8 +68,8 @@ module Mayhem
         return nil unless api_key && !api_key.empty?
 
         ::OpenAI::Client.new(access_token: api_key)
-      rescue StandardError => e
-        @logger.warn "Failed to initialize OpenAI client: #{e.message}"
+      rescue StandardError
+        @logger.warn 'Failed to initialize OpenAI client'
         nil
       end
 
