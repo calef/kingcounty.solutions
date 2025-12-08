@@ -7,7 +7,6 @@ Utility commands that automate content imports, auditing, and metadata maintenan
 | Script | What it does |
 | --- | --- |
 | `audit-organization-topics` | Uses OpenAI to reconcile each organization’s topics against recent news coverage and optionally rewrites front matter. |
-| `check-source-urls` | Performs lightweight HEAD requests to verify all source_url links in posts and events still exist, unpublishing posts and deleting events when content has been removed. |
 | `generate-organization-from-url` | Scrapes a site, asks OpenAI for metadata, and creates a new `_organizations/*.md` entry. |
 | `generate-weekly-summary` | Builds a weekly roundup article from `_posts/`, grouping stories into themes with LLM assistance. |
 | `extract-images-from-content` | Pulls image URLs from `original_markdown_body` (if present), downloads them into `assets/images`, hashes/renames files, and links image IDs into `_posts/`, `_events/`, and `_images/`. |
@@ -175,31 +174,6 @@ Analyzes news posts to identify event announcements using LLM, creates correspon
 - Generated events are automatically cleaned up when their source posts are removed by `enforce-content-age` or when they expire via `StaleEventCleaner`.
 
 ### `check-source-urls`
-
-**Purpose**  
-Performs lightweight HTTP HEAD requests to verify that all source_url links in posts and events still exist. When a source_url returns 404 or 410 (Gone), indicating the original content has been removed, this script automatically unpublishes posts or deletes events to keep the site synchronized with partner content.
-
-**Usage**
-
-- `bin/check-source-urls`
-
-**Key env/config**
-
-- `LOG_LEVEL` – logging level shared by all scripts (`TRACE`, `DEBUG`, `INFO`, `WARN`, `ERROR`, or `FATAL`; default `WARN`). Use `INFO` to see which posts/events are being processed.
-
-**Behavior notes**
-
-- Checks all `_posts/*.md` and `_events/*.md` files that have a `source_url` field.
-- Performs HTTP HEAD requests (not full GET requests) to minimize network load.
-- Follows redirects (up to 5 levels) and checks the final destination URL.
-- When a source_url returns 404 or 410:
-  - **For events**: deletes the event file and removes references to it from any posts.
-  - **For posts**: sets `published: false`, clears the `images` array, and removes unreferenced image metadata and asset files.
-- Server errors (5xx) and other temporary issues (timeouts, connection errors) are logged as warnings but do not trigger content removal.
-- Invalid URLs (non-http/https schemes, malformed URIs) are logged as errors but do not modify content.
-- Preserves shared images: only removes image files when no other published posts reference them.
-- Distinguishes between content removal (404/410) and partner site issues to avoid false positives.
-
 ### `enforce-content-age`
 
 **Purpose**
