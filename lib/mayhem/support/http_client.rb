@@ -16,6 +16,7 @@ module Mayhem
     class HttpClient
       UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 13_0) AppleWebKit/537.36 ' \
            '(KHTML, like Gecko) Chrome/125.0 Safari/537.36'
+      HTML_ACCEPT = 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8'
 
       DEFAULTS = {
         delay: 0.15,
@@ -83,7 +84,7 @@ module Mayhem
         attempt = 0
         begin
           attempt += 1
-          response = perform_request(
+          _response, payload = perform_request(
             url,
             accept,
             max_bytes,
@@ -92,7 +93,6 @@ module Mayhem
             operation: 'content_fetch'
           )
           sleep @delay
-          response
         rescue TooManyRequestsError => e
           raise if attempt >= @max_retries
 
@@ -111,6 +111,7 @@ module Mayhem
           sleep wait
           retry
         end
+        payload
       end
 
       def resolve_final_url(url)
@@ -152,6 +153,49 @@ module Mayhem
         end
       end
 
+      def response_for(url, accept: HTML_ACCEPT, max_bytes: 0)
+        attempt = 0
+        begin
+          attempt += 1
+          response, payload = perform_request(
+            url,
+            accept,
+            max_bytes,
+            @max_redirects,
+            origin_url: url,
+            operation: 'status_check'
+          )
+          {
+            status: response.code.to_i,
+            final_url: payload[:final_url],
+            response: response
+          }
+        rescue TooManyRequestsError => e
+          raise if attempt >= @max_retries
+
+          wait = e.retry_after || @too_many_requests_delay
+          log_too_many_requests_backoff(e, wait, attempt: attempt, max_attempts: @max_retries)
+          sleep wait
+          retry
+        rescue *RETRYABLE_ERRORS => e
+          raise if attempt >= @max_retries
+
+          wait = @retry_initial_delay * (@retry_backoff_factor**(attempt - 1))
+          @logger.warn(
+            "Retrying #{url} after #{e.class} (#{e.message}) in #{format('%.2f', wait)}s " \
+            "(attempt #{attempt}/#{@max_retries})"
+          )
+          sleep wait
+          retry
+        rescue URI::InvalidURIError => e
+          @logger.debug "Invalid URI while checking status (#{url}): #{e.message}"
+          nil
+        rescue StandardError => e
+          @logger.debug "Failed to check status for #{url}: #{e.message}"
+          nil
+        end
+      end
+
       private
 
       def perform_request(url, accept, max_bytes, remaining_redirects, origin_url:, operation:)
@@ -170,11 +214,14 @@ module Mayhem
         end
         raise_too_many_requests(response, uri, origin_url: origin_url, operation: operation) if response.code.to_i == 429
 
-        {
-          body: body,
-          content_type: response['content-type'],
-          final_url: uri.to_s
-        }
+        [
+          response,
+          {
+            body: body,
+            content_type: response['content-type'],
+            final_url: uri.to_s
+          }
+        ]
       end
 
       def execute_request(uri, accept, max_bytes, verify_mode: OpenSSL::SSL::VERIFY_PEER, retried: false, operation: nil)
