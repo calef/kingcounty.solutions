@@ -48,6 +48,7 @@ original_markdown_body: |-
   **[Wednesday Night Dinner](https://ballardseniorcenter.org/events/wednesday-happy-hour-dinner-bingo/)~** &nbsp;Chicken & Mushroom Stroganoff over Mashed Potatoes, Seasonal Veggies, Soup & Dessert&nbsp;
 
   The post [Dining Menu November 17th – 20th](https://ballardseniorcenter.org/dining-menu-november-17th-20th/) appeared first on [Ballard Senior Center](https://ballardseniorcenter.org).
+published: false
 source: Ballard Northwest Senior Center
 source_url: https://ballardseniorcenter.org/dining-menu-november-17th-20th/
 summarized: true
