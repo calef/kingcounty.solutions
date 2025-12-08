@@ -30,6 +30,7 @@ original_markdown_body: "**Monday ~** Grilled Roast Beef & Cheddar Sandwich, Veg
   for Thanksgiving.   \n**Warm wishes for joyful Thanksgiving Holiday.**\n\nThe post
   [Dining Menu November 24th – 26th](https://ballardseniorcenter.org/dining-menu-november-24th-26th/)
   appeared first on [Ballard Senior Center](https://ballardseniorcenter.org)."
+published: false
 source: Ballard Northwest Senior Center
 source_url: https://ballardseniorcenter.org/dining-menu-november-24th-26th/
 summarized: true

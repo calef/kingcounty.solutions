@@ -1,7 +1,6 @@
 ---
 date: '2025-10-13T18:10:25+00:00'
-events:
-- 2025-12-31-accessibility-features-workshop
+events: []
 events_extracted: true
 images: []
 original_content: |-
@@ -18,6 +17,7 @@ original_markdown_body: "This is an interactive workshop covering features on Ap
   register.\n\nWhen: Wednesday, 12/3  \n1:00 pm—2:00 pm  \nLocation: Exercise Room
   \ \nCost: FREE\n\nThe post [Accessibility Features on Mobile Devices](https://shorelinelfpseniorcenter.org/accessibility-features-on-mobile-devices/)
   appeared first on [Shoreline Lake Forest Park Senior Activity Center](https://shorelinelfpseniorcenter.org)."
+published: false
 source: Shoreline Lake Forest Park Senior Activity Center
 source_url: https://shorelinelfpseniorcenter.org/accessibility-features-on-mobile-devices/
 summarized: true
