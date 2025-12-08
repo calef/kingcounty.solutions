@@ -1,7 +1,5 @@
 # frozen_string_literal: true
 
-require 'thread'
-
 require_relative '../logging'
 require_relative '../support/content_pruner'
 require_relative '../support/front_matter_document'
@@ -111,10 +109,9 @@ module Mayhem
         threads.each(&:join)
       end
 
-      def with_pruner
-        @content_pruner_mutex.synchronize { yield }
+      def with_pruner(&)
+        @content_pruner_mutex.synchronize(&)
       end
-
     end
   end
 end

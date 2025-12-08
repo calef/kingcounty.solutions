@@ -1,7 +1,6 @@
 # frozen_string_literal: true
 
 require 'fileutils'
-require 'set'
 
 require_relative 'front_matter_document'
 
