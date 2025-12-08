@@ -16,6 +16,7 @@ require_relative '../support/encoding_utils'
 require_relative '../support/content_utils'
 require_relative '../support/publish_guard'
 require_relative '../support/html_normalizer'
+require_relative '../support/location_relevance_checker'
 
 module Mayhem
   module Events
@@ -40,7 +41,8 @@ module Mayhem
         http_client: nil,
         workers: DEFAULT_MAX_WORKERS,
         logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'),
-        time_source: -> { Time.now }
+        time_source: -> { Time.now },
+        location_checker: nil
       )
         @org_dir = org_dir
         @events_dir = events_dir
@@ -56,6 +58,7 @@ module Mayhem
         @existing_lock = Mutex.new
         @stats_lock = Mutex.new
         @processed_lock = Mutex.new
+        @location_checker = location_checker || Mayhem::Support::LocationRelevanceChecker.new(logger: @logger)
       end
 
       def run
@@ -105,6 +108,7 @@ module Mayhem
           "Events import summary: organizations=#{processed} " \
           "created=#{stats_snapshot[:created]} duplicates=#{stats_snapshot[:duplicate]} " \
           "past=#{stats_snapshot[:past_event]} far_future=#{stats_snapshot[:far_future_event]} " \
+          "not_king_county_relevant=#{stats_snapshot[:not_king_county_relevant]} " \
           "unchanged=#{stats_snapshot[:unchanged]} fetch_failed=#{stats_snapshot[:fetch_failed]} " \
           "write_failed=#{stats_snapshot[:write_failed]} parse_failed=#{stats_snapshot[:parse_failed]}"
         )
@@ -132,6 +136,7 @@ module Mayhem
           missing_title: 'missing_title',
           missing_start_date: 'missing_date',
           missing_url: 'missing_url',
+          not_king_county_relevant: 'not_king_county_relevant',
           fetch_failed: 'fetch_failed',
           parse_failed: 'parse_failed',
           write_failed: 'write_failed',
@@ -241,6 +246,10 @@ module Mayhem
         markdown_body = Mayhem::Support::EncodingUtils.ensure_utf8(
           Mayhem::Support::ContentUtils.normalized_markdown(normalized_description)
         )
+
+        unless check_event_location_relevance(summary, location, markdown_body)
+          return skip_event(reason: :not_king_county_relevant, reason_detail: summary, stats: stats)
+        end
 
         if locked_entry?(filename)
           register_event_url(canonical_url)
@@ -390,6 +399,14 @@ module Mayhem
           now = current_time
           (now.to_datetime >> 3).to_time
         end
+      end
+
+      def check_event_location_relevance(title, location, content)
+        @location_checker.relevant_to_king_county?(
+          title: title,
+          content: content,
+          location: location
+        )
       end
     end
 

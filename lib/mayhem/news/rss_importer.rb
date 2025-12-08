@@ -21,6 +21,7 @@ require_relative '../support/article_body_selectors'
 require_relative '../feed_discovery'
 require_relative '../support/publish_guard'
 require_relative '../support/html_normalizer'
+require_relative '../support/location_relevance_checker'
 
 module Mayhem
   module News
@@ -67,7 +68,8 @@ module Mayhem
         http_client: nil,
         fetch_retries: DEFAULT_FETCH_RETRIES,
         max_item_age_days: nil,
-        config_path: DEFAULT_CONFIG_PATH
+        config_path: DEFAULT_CONFIG_PATH,
+        location_checker: nil
       )
         @news_dir = news_dir
         @sources_dir = sources_dir
@@ -91,6 +93,7 @@ module Mayhem
           logger: @logger,
           selectors: ARTICLE_BODY_SELECTORS
         )
+        @location_checker = location_checker || Mayhem::Support::LocationRelevanceChecker.new(logger: @logger)
       end
 
       def run
@@ -193,6 +196,11 @@ module Mayhem
 
         if duplicate_post?(normalized)
           stats[:duplicates] += 1
+          return
+        end
+
+        unless check_location_relevance(title_text, original_html)
+          stats[:not_king_county_relevant] += 1
           return
         end
 
@@ -367,6 +375,7 @@ module Mayhem
           missing_title: 'missing_title',
           missing_publish_date: 'missing_date',
           empty_content: 'no_content',
+          not_king_county_relevant: 'not_king_county_relevant',
           skipped_unpublished: 'unpublished_locked',
           unchanged: 'unchanged',
           locked: 'locked'
@@ -513,6 +522,25 @@ module Mayhem
       rescue StandardError => e
         @logger.error "Unexpected error scraping #{url}: #{e.message}"
         { html: '', canonical_url: nil }
+      end
+
+      def check_location_relevance(title, html_content)
+        text_content = extract_text_from_html(html_content)
+        @location_checker.relevant_to_king_county?(
+          title: title,
+          content: text_content
+        )
+      end
+
+      def extract_text_from_html(html)
+        return '' if html.to_s.strip.empty?
+
+        doc = Nokogiri::HTML(html)
+        doc.search('script, style').remove
+        doc.text.strip.gsub(/\s+/, ' ')
+      rescue StandardError => e
+        @logger.debug "Failed to extract text from HTML: #{e.message}"
+        html.to_s
       end
     end
   end
