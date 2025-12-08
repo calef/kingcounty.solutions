@@ -6,7 +6,7 @@ require_relative '../logging'
 module Mayhem
   module Support
     class LocationRelevanceChecker
-      DEFAULT_MODEL = ENV.fetch('OPENAI_LOCATION_MODEL', ENV.fetch('OPENAI_MODEL', 'gpt-4o-mini'))
+      DEFAULT_MODEL = ENV['OPENAI_LOCATION_MODEL'] || ENV.fetch('OPENAI_MODEL', 'gpt-4o-mini')
 
       def initialize(
         client: nil,
@@ -107,7 +107,9 @@ module Mayhem
         text = content.to_s.strip
         return text if text.length <= max_chars
 
-        text[0, max_chars]
+        truncated = text[0, max_chars]
+        last_space = truncated.rindex(' ')
+        last_space ? truncated[0, last_space] : truncated
       end
     end
   end

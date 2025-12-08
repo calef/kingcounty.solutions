@@ -540,7 +540,7 @@ module Mayhem
         doc.text.strip.gsub(/\s+/, ' ')
       rescue StandardError => e
         @logger.debug "Failed to extract text from HTML: #{e.message}"
-        html.to_s
+        ''
       end
     end
   end
