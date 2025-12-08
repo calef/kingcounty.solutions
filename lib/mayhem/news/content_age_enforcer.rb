@@ -5,6 +5,7 @@ require 'time'
 require 'yaml'
 
 require_relative '../logging'
+require_relative '../support/content_pruner'
 require_relative '../support/front_matter_document'
 
 module Mayhem
@@ -24,7 +25,8 @@ module Mayhem
         events_dir: EVENTS_DIR,
         config_path: CONFIG_PATH,
         logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'),
-        clock: -> { Time.now }
+        clock: -> { Time.now },
+        content_pruner: nil
       )
         @posts_dir = posts_dir
         @images_dir = images_dir
@@ -33,6 +35,13 @@ module Mayhem
         @config_path = config_path
         @logger = logger
         @clock = clock
+        @content_pruner = content_pruner || Mayhem::Support::ContentPruner.new(
+          posts_dir: posts_dir,
+          events_dir: events_dir,
+          images_dir: images_dir,
+          assets_dir: assets_dir,
+          logger: logger
+        )
       end
 
       def run
@@ -45,7 +54,6 @@ module Mayhem
         end
 
         excluded_paths = posts.to_set { |entry| entry[:path] }
-        remaining_image_refs = remaining_image_counts(excluded_paths)
 
         # Collect event IDs from posts being removed
         removed_event_ids = posts.flat_map { |entry| entry[:events] }.uniq.compact
@@ -55,7 +63,10 @@ module Mayhem
           remove_file(entry[:path])
         end
 
-        removed_images = cleanup_images(posts.flat_map { |entry| entry[:images] }.uniq, remaining_image_refs)
+        removed_images = @content_pruner.cleanup_images(
+          posts.flat_map { |entry| entry[:images] }.uniq,
+          excluded_paths: excluded_paths
+        )
 
         # Clean up events generated from removed posts
         cleanup_generated_events(removed_event_ids) if removed_event_ids.any?
@@ -95,7 +106,7 @@ module Mayhem
 
           memo << {
             path: path,
-            images: collect_image_ids(document.front_matter),
+            images: @content_pruner.collect_image_ids(document.front_matter),
             events: collect_event_ids(document.front_matter)
           }
         end
@@ -110,37 +121,8 @@ module Mayhem
         nil
       end
 
-      def collect_image_ids(front_matter)
-        Array(front_matter['images']).map(&:to_s).map(&:strip).reject(&:empty?)
-      end
-
       def collect_event_ids(front_matter)
         Array(front_matter['events']).map(&:to_s).map(&:strip).reject(&:empty?)
-      end
-
-      def remaining_image_counts(excluded_paths)
-        counts = Hash.new(0)
-        Dir.glob(File.join(@posts_dir, '*.md')).each do |path|
-          next if excluded_paths.include?(path)
-
-          document = Mayhem::Support::FrontMatterDocument.load(path, logger: @logger)
-          next unless document
-
-          collect_image_ids(document.front_matter).each { |id| counts[id] += 1 }
-        end
-        counts
-      end
-
-      def cleanup_images(image_ids, remaining_refs)
-        removed = []
-        image_ids.each do |id|
-          next if remaining_refs[id]&.positive?
-
-          removed << id
-          remove_file(File.join(@images_dir, "#{id}.md"))
-          Dir.glob(File.join(@assets_dir, "#{id}.*")).each { |asset| remove_file(asset) }
-        end
-        removed
       end
 
       def remove_file(path)

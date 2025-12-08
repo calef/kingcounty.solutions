@@ -82,7 +82,7 @@ class HttpClientTest < Minitest::Test
       end
     end
 
-    result = @client.send(
+    response, payload = @client.send(
       :perform_request,
       'http://example.com',
       'text/plain',
@@ -92,8 +92,8 @@ class HttpClientTest < Minitest::Test
       operation: 'test'
     )
 
-    assert_equal 'ok', result[:body]
-    assert_equal 'https://example.com/final', result[:final_url]
+    assert_equal 'ok', payload[:body]
+    assert_equal 'https://example.com/final', payload[:final_url]
   end
 
   def test_missing_location_raises
