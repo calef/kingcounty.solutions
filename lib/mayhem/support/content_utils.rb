@@ -28,6 +28,23 @@ module Mayhem
       rescue StandardError
         Nokogiri::HTML.fragment(html_description.to_s).text.strip
       end
+
+      def extract_text_from_html(html, remove_elements: %w[script style], content_selector: nil)
+        return '' if html.to_s.strip.empty?
+
+        doc = Nokogiri::HTML(html)
+        doc.search(*remove_elements).remove
+        
+        text_source = if content_selector
+                        doc.css(content_selector)
+                      else
+                        doc
+                      end
+        
+        text_source.text.strip.gsub(/\s+/, ' ')
+      rescue StandardError
+        ''
+      end
     end
   end
 end

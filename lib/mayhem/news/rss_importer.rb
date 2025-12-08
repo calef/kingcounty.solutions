@@ -18,6 +18,7 @@ require_relative '../support/http_client'
 require_relative '../support/url_normalizer'
 require_relative '../support/content_fetcher'
 require_relative '../support/article_body_selectors'
+require_relative '../support/content_utils'
 require_relative '../feed_discovery'
 require_relative '../support/publish_guard'
 require_relative '../support/html_normalizer'
@@ -525,7 +526,7 @@ module Mayhem
       end
 
       def location_relevant?(title, html_content)
-        text_content = extract_text_from_html(html_content)
+        text_content = Mayhem::Support::ContentUtils.extract_text_from_html(html_content)
         @location_checker.relevant_to_king_county?(
           title: title,
           content: text_content
@@ -533,14 +534,7 @@ module Mayhem
       end
 
       def extract_text_from_html(html)
-        return '' if html.to_s.strip.empty?
-
-        doc = Nokogiri::HTML(html)
-        doc.search('script, style').remove
-        doc.text.strip.gsub(/\s+/, ' ')
-      rescue StandardError => e
-        @logger.debug "Failed to extract text from HTML: #{e.message}"
-        ''
+        Mayhem::Support::ContentUtils.extract_text_from_html(html)
       end
     end
   end

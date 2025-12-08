@@ -8,6 +8,7 @@ require_relative '../logging'
 require_relative '../news/topic_classifier'
 require_relative '../support/front_matter_document'
 require_relative '../support/http_client'
+require_relative '../support/content_utils'
 require_relative '../feed_discovery'
 
 module Mayhem
@@ -195,9 +196,11 @@ module Mayhem
         return nil unless url
 
         page = @http.fetch(url, accept: Mayhem::FeedDiscovery::ACCEPT_HTML, max_bytes: MAX_ARTICLE_CHARS)
-        doc = Nokogiri::HTML(page[:body])
-        doc.search('script, style, nav, header, footer, noscript, iframe').remove
-        doc.css('article, main, body').text.strip.gsub(/\s+/, ' ')
+        Mayhem::Support::ContentUtils.extract_text_from_html(
+          page[:body],
+          remove_elements: %w[script style nav header footer noscript iframe],
+          content_selector: 'article, main, body'
+        )
       rescue StandardError => e
         @logger.warn "Error fetching #{url}: #{e.class} - #{e.message}"
         nil
