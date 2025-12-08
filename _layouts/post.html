@@ -70,13 +70,6 @@ layout: default
         <ul>
           {% for event_id in page.events %}
             {% assign event_doc = site.events | where: "slug", event_id | first %}
-            {% if event_doc == nil %}
-              {% assign event_url = "/events/" | append: event_id | append: "/" %}
-              {% assign event_doc = site.events | where: "url", event_url | first %}
-            {% endif %}
-            {% if event_doc == nil %}
-              {% assign event_doc = site.events | where_exp: "event", "event.url contains event_id" | first %}
-            {% endif %}
             {% if event_doc %}
               <li>
                 <a href="{{ event_doc.url | relative_url }}">{{ event_doc.title }}</a>
