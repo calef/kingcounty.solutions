@@ -37,6 +37,7 @@ original_markdown_body: |-
   With&nbsp;opportunities like this,&nbsp;Vibrant continues&nbsp;to open doors helping young people access the spaces, skills, and confidence they need to thrive as their fullest selves.&nbsp;&nbsp;
 
   The post [Opening Doors: Empowering Youth at Out-in-Tech](https://www.vibrant.org/opening-doors-empowering-youth-at-out-in-tech/) appeared first on [Vibrant Emotional Health](https://www.vibrant.org).
+published: false
 source: Vibrant Emotional Health
 source_url: https://www.vibrant.org/opening-doors-empowering-youth-at-out-in-tech/
 summarized: true
