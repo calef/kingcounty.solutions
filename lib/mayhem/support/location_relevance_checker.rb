@@ -7,6 +7,7 @@ module Mayhem
   module Support
     class LocationRelevanceChecker
       DEFAULT_MODEL = ENV['OPENAI_LOCATION_MODEL'] || ENV.fetch('OPENAI_MODEL', 'gpt-4o-mini')
+      MAX_RETRY_ATTEMPTS = 3
 
       def initialize(
         client: nil,
@@ -24,7 +25,7 @@ module Mayhem
         prompt = build_prompt(title: title, content: content, location: location)
 
         attempts = 0
-        while attempts < 3
+        while attempts < MAX_RETRY_ATTEMPTS
           attempts += 1
           begin
             response = @client.chat(
