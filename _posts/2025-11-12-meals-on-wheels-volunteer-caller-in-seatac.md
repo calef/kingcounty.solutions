@@ -1,8 +1,6 @@
 ---
 date: '2025-11-12T16:19:47+00:00'
-events:
-- 2025-12-08-meals-on-wheels-volunteer-calling
-- 2025-12-15-meals-on-wheels-volunteer-calling
+events: []
 events_extracted: true
 images: []
 original_content: "<p><strong>Position: </strong>Caller                           
@@ -42,6 +40,7 @@ original_markdown_body: "**Position:** Caller&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
   an application to get started!**\n\nThe post [Meals on Wheels: Volunteer Caller
   in SeaTac!](https://soundgenerations.org/meals-on-wheels-volunteer-caller-in-seatac/)
   appeared first on [Sound Generations](https://soundgenerations.org)."
+published: false
 source: Sound Generations
 source_url: https://soundgenerations.org/meals-on-wheels-volunteer-caller-in-seatac/
 summarized: true
