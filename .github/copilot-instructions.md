@@ -41,3 +41,27 @@ This is a Jekyll-based static site that aggregates public service resources into
 - Follow imperative, concise commit messages (e.g., `Add places hierarchy layout`, `Fix RSS importer skip logic`)
 - Keep diffs focused; split refactors from feature work when practical
 - Never commit `_site/` artifacts or local caches
+
+## Security Guidelines
+
+- Never hardcode secrets, API keys, or credentials in source code
+- Use environment variables for sensitive configuration
+- Keep `.env` files in `.gitignore` (already configured)
+- Review dependencies for known vulnerabilities before adding them
+- Validate and sanitize any user input in scripts or forms
+
+## Dependencies and Libraries
+
+- Ruby: Use gems from Gemfile; update via `bundle update` when necessary
+- Jekyll plugins: Prefer official or well-maintained community plugins
+- JavaScript: Keep dependencies minimal; prefer vanilla JS when possible
+- Before adding new dependencies, check if existing tools can accomplish the task
+- Document any new major dependencies in README.md
+
+## File Creation and Modification
+
+- Prefer modifying existing files over creating new ones unless necessary
+- New collection items (organizations, places, topics, events) should follow existing naming patterns
+- New pages should include appropriate front matter and layouts
+- New scripts in `bin/` or `script/` should be executable and include usage comments
+- Test scripts with `--help` or dry-run flags before committing
