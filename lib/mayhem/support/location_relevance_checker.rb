@@ -65,12 +65,11 @@ module Mayhem
       private
 
       def build_client
-        api_key = ENV.fetch('OPENAI_API_KEY', nil)
-        return nil unless api_key && !api_key.empty?
+        return nil unless ENV['OPENAI_API_KEY']
 
-        ::OpenAI::Client.new(access_token: api_key)
-      rescue StandardError
-        @logger.warn 'Failed to initialize OpenAI client'
+        ::OpenAI::Client.new(access_token: ENV.fetch('OPENAI_API_KEY'))
+      rescue StandardError => e
+        @logger.error "Failed to initialize OpenAI client: #{e.class}"
         nil
       end
 
