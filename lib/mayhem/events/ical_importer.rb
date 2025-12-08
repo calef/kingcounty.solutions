@@ -247,7 +247,7 @@ module Mayhem
           Mayhem::Support::ContentUtils.normalized_markdown(normalized_description)
         )
 
-        unless check_event_location_relevance(summary, location, markdown_body)
+        unless event_location_relevant?(summary, location, markdown_body)
           return skip_event(reason: :not_king_county_relevant, reason_detail: summary, stats: stats)
         end
 
@@ -401,7 +401,7 @@ module Mayhem
         end
       end
 
-      def check_event_location_relevance(title, location, content)
+      def event_location_relevant?(title, location, content)
         @location_checker.relevant_to_king_county?(
           title: title,
           content: content,

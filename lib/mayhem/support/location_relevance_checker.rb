@@ -64,7 +64,7 @@ module Mayhem
       private
 
       def build_client
-        api_key = ENV['OPENAI_API_KEY']
+        api_key = ENV.fetch('OPENAI_API_KEY', nil)
         return nil unless api_key && !api_key.empty?
 
         ::OpenAI::Client.new(access_token: api_key)

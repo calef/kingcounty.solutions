@@ -199,7 +199,7 @@ module Mayhem
           return
         end
 
-        unless check_location_relevance(title_text, original_html)
+        unless location_relevant?(title_text, original_html)
           stats[:not_king_county_relevant] += 1
           return
         end
@@ -524,7 +524,7 @@ module Mayhem
         { html: '', canonical_url: nil }
       end
 
-      def check_location_relevance(title, html_content)
+      def location_relevant?(title, html_content)
         text_content = extract_text_from_html(html_content)
         @location_checker.relevant_to_king_county?(
           title: title,
