@@ -1,9 +1,6 @@
 ---
 date: '2025-12-05T23:00:00+00:00'
 events:
-- 2025-12-08-dining-event-chicken-salad
-- 2025-12-09-dining-event-beef-stew
-- 2025-12-10-dining-event-baked-fish
 - 2025-12-11-dining-event-turkey-sandwich
 - 2025-12-12-dining-event-vegetarian-chili
 events_extracted: true

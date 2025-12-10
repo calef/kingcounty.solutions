@@ -1,0 +1,26 @@
+---
+date: '2025-12-09T18:11:45+00:00'
+events:
+- 2026-01-02-hearmewa-youth-advisory-group-application-deadline
+- 2026-01-02-hearmewa-youth-advisory-group-bi-monthly-meetings
+events_extracted: true
+images: []
+original_content: The Attorney General’s Office is seeking members for the HearMeWA
+  Youth Advisory Group, aimed at keeping the program youth-centered. Youth aged 10-25
+  in Washington can apply by January 2, 2026, to contribute ideas and provide feedback.
+  Selected members will participate in bi-monthly Zoom meetings and receive compensation.
+original_content_checksum: cb948176a89c1aabcdcef89f8d8459e923b7613c
+original_markdown_body: The Attorney General’s Office is seeking members for the HearMeWA
+  Youth Advisory Group, aimed at keeping the program youth-centered. Youth aged 10-25
+  in Washington can apply by January 2, 2026, to contribute ideas and provide feedback.
+  Selected members will participate in bi-monthly Zoom meetings and receive compensation.
+source: King County School Health
+source_url: https://kingcountyschoolhealthdotcom.wordpress.com/2025/12/09/2026-hearmewa-youth-advisory-group-recruitment/
+summarized: true
+title: 2026 HearMeWA Youth Advisory Group recruitment
+topics:
+- Education & Learning
+- Employment & Job Support
+---
+
+The Attorney General’s Office is recruiting members for the HearMeWA Youth Advisory Group, focusing on maintaining a youth-centered approach. Young people aged 10-25 in Washington are invited to apply by January 2, 2026. Participants will offer ideas and feedback to help shape the program. Selected members will attend bi-monthly meetings via Zoom and will receive compensation for their involvement.
