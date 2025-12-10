@@ -87,4 +87,43 @@ class RssImporterTest < Minitest::Test
     assert_equal 1, files.length
     assert_equal original_content, File.read(locked_path)
   end
+
+  def test_register_post_tracks_link_and_guid_keys
+    link = 'https://example.com/track'
+    guid = 'guid-tracked'
+
+    refute @importer.send(:duplicate_post?, link, guid)
+
+    @importer.send(:register_post, link, guid)
+
+    assert @importer.send(:duplicate_post?, link, guid)
+    assert @importer.send(:duplicate_post?, link, nil)
+    assert @importer.send(:duplicate_post?, nil, guid)
+  end
+
+  def test_duplicate_post_returns_false_when_no_keys
+    assert_equal false, @importer.send(:duplicate_post?, nil, nil)
+  end
+
+  def test_extract_guid_text_uses_content_href_value_and_strips
+    object_with_content = Struct.new(:content).new('  abc  ')
+    object_with_href = Struct.new(:content, :href).new(nil, ' href ')
+    object_with_value = Struct.new(:content, :href, :value).new(nil, nil, 'value  ')
+    object_without_text = Struct.new(:content).new('   ')
+
+    assert_equal 'abc', @importer.send(:extract_guid_text, object_with_content)
+    assert_equal 'href', @importer.send(:extract_guid_text, object_with_href)
+    assert_equal 'value', @importer.send(:extract_guid_text, object_with_value)
+    assert_nil @importer.send(:extract_guid_text, object_without_text)
+  end
+
+  def test_item_guid_prefers_guid_then_id
+    guid_value = Struct.new(:content).new('guid-value')
+    id_value = Struct.new(:value).new('id-value')
+    item_with_guid = Struct.new(:guid).new(guid_value)
+    item_with_id = Struct.new(:guid, :id).new(nil, id_value)
+
+    assert_equal 'guid-value', @importer.send(:item_guid, item_with_guid)
+    assert_equal 'id-value', @importer.send(:item_guid, item_with_id)
+  end
 end
