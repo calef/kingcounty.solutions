@@ -1,5 +1,4 @@
 ---
-address: N 76th and Greenwood Ave N, Seattle, WA
 email: office@prlc.org
 jurisdictions:
 - King County
