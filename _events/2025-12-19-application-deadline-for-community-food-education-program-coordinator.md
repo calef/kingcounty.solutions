@@ -17,6 +17,6 @@ topics:
 
 The application deadline for the Community Food Education Program Coordinator is December 19, 2025, at 11:59 p.m. PST. This is an opportunity for individuals passionate about food education to join a dynamic team dedicated to promoting healthy eating and sustainable practices in the community.
 
-Applicants are encouraged to submit their resume along with a brief paragraph detailing their interest in the position. This role involves developing and implementing educational programs that inspire community members to make informed food choices. 
+Applicants are encouraged to submit their resume along with a brief paragraph detailing their interest in the position. This role involves developing and implementing educational programs that inspire community members to make informed food choices.
 
 If you are committed to making a positive impact through food education, don't miss this chance to apply. Prioritize your submission to ensure consideration for this vital role in enhancing community well-being.

@@ -15,8 +15,8 @@ topics:
 - Financial Assistance
 ---
 
-The application deadline for the 2026 Frederick J. Krause Scholarship on Health and Disability is March 6, 2026. This prestigious scholarship supports students pursuing careers in health and disability fields. 
+The application deadline for the 2026 Frederick J. Krause Scholarship on Health and Disability is March 6, 2026. This prestigious scholarship supports students pursuing careers in health and disability fields.
 
-Applicants can expect to submit their materials, including personal statements and letters of recommendation, to demonstrate their commitment and qualifications. This scholarship aims to empower future leaders in health and disability advocacy, providing financial assistance to those dedicated to making a difference in these vital areas. 
+Applicants can expect to submit their materials, including personal statements and letters of recommendation, to demonstrate their commitment and qualifications. This scholarship aims to empower future leaders in health and disability advocacy, providing financial assistance to those dedicated to making a difference in these vital areas.
 
 Make sure to mark your calendars and prepare your applications ahead of time to take advantage of this opportunity.

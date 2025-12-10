@@ -15,8 +15,8 @@ topics:
 - Shelter & Housing
 ---
 
-The Hunger Intervention Program is accepting applications for the Shelter Meal Program Manager position. Interested candidates should submit a resume and cover letter by Dec. 12, 2025. This role is crucial for coordinating meal services and ensuring that those in need receive nutritious food. 
+The Hunger Intervention Program is accepting applications for the Shelter Meal Program Manager position. Interested candidates should submit a resume and cover letter by Dec. 12, 2025. This role is crucial for coordinating meal services and ensuring that those in need receive nutritious food.
 
-Candidates can expect to lead a dedicated team, develop meal plans, and manage logistics to support local shelters. This is an excellent opportunity for individuals passionate about food security and community service. 
+Candidates can expect to lead a dedicated team, develop meal plans, and manage logistics to support local shelters. This is an excellent opportunity for individuals passionate about food security and community service.
 
 Applications must be submitted by the deadline to be considered for this impactful position. Join us in making a difference in the lives of those facing food insecurity.

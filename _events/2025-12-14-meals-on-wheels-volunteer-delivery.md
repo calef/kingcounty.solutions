@@ -15,7 +15,7 @@ topics:
 - Senior Services
 ---
 
-Join us for the Meals on Wheels Volunteer Delivery event on Dec. 14, 2025, in Bellevue, Washington. This community-driven initiative invites volunteers to help deliver nutritious meals to homebound seniors every Monday morning. 
+Join us for the Meals on Wheels Volunteer Delivery event on Dec. 14, 2025, in Bellevue, Washington. This community-driven initiative invites volunteers to help deliver nutritious meals to homebound seniors every Monday morning.
 
 As a volunteer, you'll play a crucial role in combating isolation and ensuring that seniors receive the nourishment they need. Expect to meet fellow community members, gather in a supportive environment, and receive training on meal delivery protocols. Each delivery route is designed to be manageable and rewarding, allowing you to make a meaningful impact in the lives of those you serve.
 
