@@ -1,8 +1,6 @@
 ---
 date: '2025-12-08T14:30:00+00:00'
-events:
-- 2025-12-11-career-fair-in-newport-news-va
-- 2025-12-11-career-fair-in-norfolk-va
+events: []
 events_extracted: true
 images: []
 original_content: |-

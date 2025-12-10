@@ -1,11 +1,6 @@
 ---
 date: '2025-12-10T19:30:02+00:00'
-<<<<<<< HEAD
 events: []
-=======
-events:
-- 2025-12-30-response-to-charges-by-annies-loving-care-agency
->>>>>>> main
 events_extracted: true
 images: []
 original_content: "<span>Department of Health issues statement of charges on license
@@ -80,6 +75,7 @@ original_markdown_body: |-
   News Author
 
   Washington State Department of Health
+rss_guid: 39900 at https://doh.wa.gov
 source: Department of Health
 source_url: https://doh.wa.gov/newsroom/department-health-issues-statement-charges-license-home-services-facility
 summarized: true
@@ -90,4 +86,6 @@ topics:
 - Legal Aid
 ---
 
-The Washington State Department of Health has issued a statement of charges against Annies Loving Care Agency, a licensed in-home services facility in Sammamish, following a series of deficiencies identified during a March 2025 inspection. The agency, licensed since 2014, was given until April 7, 2025, to submit a plan for correcting these issues, but the department did not approve the submitted plan. A directed plan of correction was issued, requiring a response by June 2, 2025, which the facility failed to provide. When department staff attempted to conduct a follow-up inspection, no one answered at the facility. Annies Loving Care Agency now has 20 days to respond to the charges. The department will continue to provide updates on the situation. Legal documents regarding the case are available online, and the public can report any concerns about health care facilities by calling or emailing the department. The Department of Health oversees the licensing and regulation of health care providers in Washington to ensure public safety and quality care.
+The Washington State Department of Health has filed a statement of charges against Annies Loving Care Agency, an in-home services facility located in Sammamish. Licensed since 2014, the agency was found to have multiple deficiencies during an onsite survey in March 2025. The facility was required to submit a plan of correction by April 7, 2025, but the plan was not approved, leading to a directed plan of correction with a response deadline of June 2, 2025. The agency failed to respond and did not allow department staff entry during a scheduled inspection.
+
+Annies Loving Care Agency now has 20 days to respond to the charges. The Department of Health will provide updates on any further actions. Legal documents related to the case are available online, and individuals can report complaints about health care facilities by calling or emailing the department. The Department of Health is responsible for ensuring the quality and safety of health care providers and facilities in Washington.

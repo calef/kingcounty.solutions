@@ -1,8 +1,6 @@
 ---
 date: '2025-12-09T18:11:45+00:00'
-events:
-- 2026-01-02-hearmewa-youth-advisory-group-application-deadline
-- 2026-01-02-hearmewa-youth-advisory-group-bi-monthly-meetings
+events: []
 events_extracted: true
 images: []
 original_content: The Attorney General’s Office is seeking members for the HearMeWA

@@ -1,7 +1,6 @@
 ---
 date: '2025-12-09T22:51:25+00:00'
-events:
-- 2025-12-11-screening-of-the-librarians
+events: []
 events_extracted: true
 images:
 - 02de085043b3a8bf9a503560bcda4b5eae536231455a631dc3d7ee8130d1ac7b
