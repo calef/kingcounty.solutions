@@ -2,6 +2,7 @@
 end_date: '2025-12-13T12:30:00-08:00'
 images: []
 location: ''
+locked: true
 original_content: "<div> <div> <div> <div> <div> <p> <a> « All Events </a> </p> <h1>Urdu
   Class</h1> <div> <span>Recurring Event</span> <a> see all </a> </div> <div> <div>
   <h2> <span> December 13 </span> <span> @ </span> <span> 10:30 am </span> <span>

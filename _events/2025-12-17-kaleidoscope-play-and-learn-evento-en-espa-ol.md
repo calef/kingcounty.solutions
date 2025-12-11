@@ -72,4 +72,6 @@ topics:
 - Education & Learning
 ---
 
-Join the Kaleidoscope Play and Learn event on December 17 from 10:30 a.m. to 12:30 p.m. at El Centro de la Raza, located at 2524 16th Ave S, Seattle. This free gathering invites Family, Friend, and Neighbor caregivers, parents, and young children to connect with others in the community. Attendees can expect to engage in activities that promote healthy child development and school readiness through play. The groups are led by community members in culturally responsive environments, making it a welcoming space for everyone. Don't miss this opportunity to learn and grow together!
+Join us for Kaleidoscope Play and Learn, a free event designed for Family, Friend, and Neighbor caregivers, parents, and young children. This gathering will take place on December 17 from 10:30 a.m. to 12:30 p.m. at El Centro de la Raza, located at 2524 16th Ave S in Seattle.
+
+Attendees can expect a welcoming environment where families can engage in play-based learning activities that promote healthy child development and school readiness. The groups are led by community members in culturally responsive settings, fostering connections among participants. Come and discover how to support your child's growth while meeting other families in the community.

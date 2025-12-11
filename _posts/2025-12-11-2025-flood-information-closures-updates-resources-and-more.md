@@ -1,6 +1,9 @@
 ---
 date: '2025-12-11T01:37:26+00:00'
-events: []
+events:
+- 2025-12-11-snoqualmie-valley-transportation-service-cancellation
+- 2025-12-11-snoqualmie-valley-food-bank-closure
+- 2025-12-11-riverview-and-snoqualmie-valley-school-districts-closure
 events_extracted: true
 images: []
 original_content: |-
@@ -164,10 +167,10 @@ topics:
 - Financial Assistance
 ---
 
-EYN office will be closed tomorrow, with staff working remotely. For inquiries about programs like Weekend Power Packs or TRACE Care, individuals can visit the website and access contact details.
+Our office will be closed tomorrow, and staff will work remotely. For inquiries about programs like Weekend Power Packs and TRACE Care, visit the website to find contact information.
 
-Several closures are in effect due to flooding: Snoqualmie Valley Transportation has canceled services, and both the Snoqualmie Valley Food Bank and Riverview and Snoqualmie Valley School Districts are closed.
+Several local services are affected by the flooding: Snoqualmie Valley Transportation has canceled service until further notice, while both the Snoqualmie Valley Food Bank and Riverview and Snoqualmie Valley School Districts will also be closed tomorrow.
 
-King County’s Flood Warning System and the City of Carnation have provided resources for sandbags, road alerts, and shelter information. Residents can follow local government channels for updates. Sno Valley Pet Services is available to assist with pets if needed.
+Residents can access resources through King County’s Flood Warning System and the City of Carnation, which offers information on sandbags, roads, and shelters. Sno Valley Pet Services is available to care for pets if needed. Those who lost food due to flooding or power outages may file a claim with Washington State DSHS for benefits replacement.
 
-Individuals affected by food loss due to flooding or power outages can file claims with Washington State DSHS for replacements. Safety guidance warns against entering floodwaters and advises caution while driving, as even a small amount of water can be dangerous. Residents should monitor official channels for updates and be prepared for changing conditions, as a state of emergency has been declared by local officials. Community members are encouraged to look out for one another during this challenging time.
+Officials advise caution during flood conditions, warning against entering floodwaters or driving through flooded roads, as even a small amount of water can be dangerous. Residents should check official channels for updates and be prepared for changing conditions, including potential evacuation notices. A state of emergency is in effect as local organizations respond to the situation.

@@ -56,10 +56,8 @@ topics:
 - Financial Assistance
 ---
 
-Washington's 2026 Legislative Session is approaching, and efforts are underway to create a hunger-free future in the state. Key priorities include promoting equitable food systems, addressing food deserts, protecting emergency food funding, and supporting broader anti-hunger initiatives.
+Washington's 2026 Legislative Session is approaching, and efforts are underway to shape policies aimed at achieving food security. Key priorities include building an equitable food system by advocating for strategies that enhance access to nutritious food and streamline distribution from farms to households. Addressing food deserts is also a focus, with plans to push legislation that encourages grocery stores to open in underserved areas.
 
-Advocates are calling for statewide strategies to ensure nutritious food is accessible to all and to improve the flow of food from farms to households. Legislation is needed to incentivize grocery stores to open in areas lacking healthy, affordable food. Additionally, with potential federal cuts to SNAP, there is a push to safeguard state emergency food funding and secure resources to help those affected.
+Protecting emergency food funding and SNAP benefits is critical, especially in light of federal cuts that could impact many residents. Advocacy will also support broader anti-hunger initiatives, including partnerships with the Anti-Hunger & Nutrition Coalition to maintain programs like SUN Bucks for children and the Senior Nutritional Program for low-income seniors. Collaborative efforts will seek new revenue sources to secure Washington's social safety net while minimizing the impact on working families.
 
-Collaboration with the Anti-Hunger & Nutrition Coalition will focus on protecting essential programs like SUN Bucks for children and the Senior Nutritional Program for low-income seniors. The aim is to find new, equitable revenue sources to support Washington's social safety net without imposing additional burdens on working families.
-
-Community members are encouraged to stay engaged and sign up for advocacy alerts to voice their opinions on these important issues. Together, these efforts aim to build a more just and equitable food system in Washington.
+Community members are encouraged to sign up for advocacy alerts to stay informed and participate in these efforts for a hunger-free future.
