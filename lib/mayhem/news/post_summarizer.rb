@@ -84,26 +84,15 @@ module Mayhem
         if front_matter['published'] == false
           @logger.debug "Skipping #{file_path}: published is false"
           stats[:skipped_unpublished] += 1
-          # Check if we need to classify locations for unpublished content
+          # For unpublished posts during backfill, just set locations to empty array
+          # without making API calls to classify locations
           needs_locations = !front_matter.key?('locations')
           if needs_locations && front_matter['summarized'] == true
-            summary_text = document.body&.strip || ''
-            classified_locations = @location_classifier.classify(
-              summary_text,
-              content_title: front_matter['title'],
-              content_source: front_matter['source']
-            )
-            front_matter['locations'] = classified_locations
-            if classified_locations.empty?
-              @logger.info "No locations matched for #{file_path}"
-            else
-              # If we found locations, we might want to re-evaluate published status
-              # but for now we'll just add the locations field
-              @logger.info "Backfilled locations for #{file_path}"
-            end
+            front_matter['locations'] = []
             document.front_matter = front_matter
             document.save
             stats[:locations_backfilled] += 1
+            @logger.info "Set locations to [] for unpublished #{file_path}"
           end
           return
         end

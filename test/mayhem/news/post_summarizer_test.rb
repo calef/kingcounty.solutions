@@ -99,9 +99,11 @@ class PostSummarizerTest < Minitest::Test
                  'topics' => []
                }, 'Summarized post without locations')
 
+    # For unpublished posts, we should not call the classifier
+    # It should just set locations to []
     location_classifier = Object.new
     def location_classifier.classify(*)
-      ['Seattle']
+      raise 'Should not be called for unpublished posts'
     end
 
     summarizer = Mayhem::News::PostSummarizer.new(
@@ -118,6 +120,6 @@ class PostSummarizerTest < Minitest::Test
     assert_equal 1, stats[:locations_backfilled]
     document = Mayhem::FrontMatter::Document.load(File.join(@tmp_posts, '2025-01-04-test.md'), logger: @logger)
 
-    assert_equal ['Seattle'], document.front_matter['locations']
+    assert_empty document.front_matter['locations']
   end
 end
