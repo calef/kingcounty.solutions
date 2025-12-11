@@ -27,7 +27,7 @@ class LocationClassifierTest < Minitest::Test
       @response = response
     end
 
-    def chat(parameters:)
+    def chat(*)
       @response
     end
   end
@@ -57,7 +57,7 @@ class LocationClassifierTest < Minitest::Test
     )
   end
 
-  def test_classify_returns_slugs_for_matched_locations
+  def test_classify_returns_titles_for_matched_locations
     write_location('seattle', { 'title' => 'Seattle', 'type' => 'City' }, 'The city of Seattle')
     write_location('bellevue', { 'title' => 'Bellevue', 'type' => 'City' }, 'The city of Bellevue')
     write_location('kent', { 'title' => 'Kent', 'type' => 'City' }, 'The city of Kent')
@@ -68,7 +68,7 @@ class LocationClassifierTest < Minitest::Test
 
     result = classifier.classify('Event happening in Seattle and Bellevue')
 
-    assert_equal ['bellevue', 'seattle'], result.sort
+    assert_equal %w[Bellevue Seattle], result.sort
   end
 
   def test_classify_returns_empty_array_when_no_matches
@@ -92,7 +92,7 @@ class LocationClassifierTest < Minitest::Test
 
     result = classifier.classify('Event in Seattle')
 
-    assert_equal ['seattle'], result
+    assert_equal ['Seattle'], result
   end
 
   def test_classify_handles_invalid_json
@@ -127,14 +127,13 @@ class LocationClassifierTest < Minitest::Test
     )
 
     # We can't easily inspect the prompt, but we've verified it runs without error
-    assert_equal ['seattle'], classifier.classify('Event', content_title: 'Big Event')
+    assert_equal ['Seattle'], classifier.classify('Event', content_title: 'Big Event')
   end
 
   def test_classify_retries_on_rate_limit
     write_location('seattle', { 'title' => 'Seattle', 'type' => 'City' }, 'The city of Seattle')
 
     client = Object.new
-    call_count = 0
     def client.chat(*)
       @call_count ||= 0
       @call_count += 1
@@ -152,7 +151,7 @@ class LocationClassifierTest < Minitest::Test
 
     result = classifier.classify('Event in Seattle')
 
-    assert_equal ['seattle'], result
+    assert_equal ['Seattle'], result
     assert_match(/Rate limited/, @logger.warns.first)
   end
 

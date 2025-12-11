@@ -138,12 +138,9 @@ module Mayhem
           titles = JSON.parse(json_match[0])
           return [] unless titles.is_a?(Array)
 
-          # Map titles to slugs
-          title_to_slug = locations.each_with_object({}) do |loc, hash|
-            hash[loc[:title]] = loc[:slug]
-          end
-
-          titles.filter_map { |title| title_to_slug[title] }.uniq
+          # Validate that returned titles exist in our locations
+          valid_titles = locations.map { |loc| loc[:title] }
+          titles.select { |title| valid_titles.include?(title) }.uniq
         rescue JSON::ParserError => e
           @logger.warn "Failed to parse location response as JSON: #{e.message}"
           []

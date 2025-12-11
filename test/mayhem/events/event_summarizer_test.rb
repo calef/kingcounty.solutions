@@ -98,7 +98,7 @@ class EventSummarizerTest < Minitest::Test
     path
   end
 
-  def build_summarizer(client_response:, topics: [], locations: ['seattle'], http_body: '<html><body><article>Story</article></body></html>')
+  def build_summarizer(client_response:, topics: [], locations: ['Seattle'], http_body: '<html><body><article>Story</article></body></html>')
     client = FakeChatClient.new(response: client_response)
     http = FakeHttpClient.new(response: { body: http_body, content_type: 'text/html' })
     topic_classifier = FakeTopicClassifier.new(topics: topics)
@@ -214,7 +214,7 @@ class EventSummarizerTest < Minitest::Test
     summarizer = build_summarizer(
       client_response: {},
       topics: ['Community'],
-      locations: %w[seattle bellevue]
+      locations: %w[Seattle Bellevue]
     )
 
     stats = summarizer.run
@@ -223,7 +223,7 @@ class EventSummarizerTest < Minitest::Test
     assert_equal 0, stats[:updated]
     document = Mayhem::FrontMatter::Document.load(File.join(@tmp_events, "#{slug}.md"), logger: @logger)
 
-    assert_equal %w[seattle bellevue], document.front_matter['locations']
+    assert_equal %w[Seattle Bellevue], document.front_matter['locations']
     assert_nil document.front_matter['published']
   end
 

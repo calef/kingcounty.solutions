@@ -101,7 +101,7 @@ class PostSummarizerTest < Minitest::Test
 
     location_classifier = Object.new
     def location_classifier.classify(*)
-      ['seattle']
+      ['Seattle']
     end
 
     summarizer = Mayhem::News::PostSummarizer.new(
@@ -118,6 +118,6 @@ class PostSummarizerTest < Minitest::Test
     assert_equal 1, stats[:locations_backfilled]
     document = Mayhem::FrontMatter::Document.load(File.join(@tmp_posts, '2025-01-04-test.md'), logger: @logger)
 
-    assert_equal ['seattle'], document.front_matter['locations']
+    assert_equal ['Seattle'], document.front_matter['locations']
   end
 end
