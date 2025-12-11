@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- Covington
 title: Covington Utility Tax Forms
 topics:
 - Financial Assistance

@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- King County
 news_rss_url: https://praisealujah.org/f.atom
 phone: "(206) 251-8971"
 title: Praisealujah Discipleship

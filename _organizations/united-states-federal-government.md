@@ -1,7 +1,5 @@
 ---
 acronym: USA
-jurisdictions:
-- United States
 news_rss_url: https://blog.usa.gov/rss.xml
 title: United States Federal Government
 topics: []

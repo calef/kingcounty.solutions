@@ -1,7 +1,5 @@
 ---
 acronym: ISD
-jurisdictions:
-- Issaquah
 parent_organization: Puget Sound Educational Service District 121
 title: Issaquah School District
 topics:

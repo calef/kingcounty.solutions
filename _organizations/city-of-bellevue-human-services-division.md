@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- Bellevue
 parent_organization: City of Bellevue
 title: City of Bellevue Human Services Division
 topics:

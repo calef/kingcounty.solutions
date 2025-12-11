@@ -1,8 +1,6 @@
 ---
 address: 1521 Broadway, Suite A, Seattle, WA 98122
 email: info@genprideseattle.org
-jurisdictions:
-- King County
 news_rss_url: https://genprideseattle.org/feed/
 phone: 206-393-3400
 title: GenPride

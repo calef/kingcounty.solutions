@@ -1,10 +1,5 @@
 ---
 acronym: LWSD
-jurisdictions:
-- Kirkland
-- Redmond
-- Sammamish
-- Cottage Lake
 parent_organization: Puget Sound Educational Service District 121
 title: Lake Washington School District
 topics:

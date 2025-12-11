@@ -1,7 +1,5 @@
 ---
 acronym: ASD
-jurisdictions:
-- Auburn
 parent_organization: Puget Sound Educational Service District 121
 title: Auburn School District
 topics:

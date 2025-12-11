@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- Washington State
 news_rss_url: https://wellbeyond.premera.com/feed/
 title: Premera Social Impact
 topics:

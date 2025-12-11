@@ -1,13 +1,6 @@
 ---
 acronym: SVT
 address: 1308 Boalch Ave NW, North Bend, WA 98045
-jurisdictions:
-- North Bend
-- Snoqualmie
-- Fall City
-- Preston
-- Carnation
-- Duvall
 news_rss_url: https://svtbus.org/feed/
 phone: 425-888-7001
 title: Snoqualmie Valley Transportation

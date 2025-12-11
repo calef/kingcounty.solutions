@@ -1,7 +1,5 @@
 ---
 acronym: WSHFC
-jurisdictions:
-- Washington State
 parent_organization: State Executive Branch
 title: Washington State Housing Finance Commission
 topics:

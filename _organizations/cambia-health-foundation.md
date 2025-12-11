@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- King County
 parent_organization: Cambia Health Solutions
 title: Cambia Health Foundation
 topics:

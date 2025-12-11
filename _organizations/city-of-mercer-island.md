@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- Mercer Island
 news_rss_url: https://www.mercerisland.gov/news/rss
 title: City of Mercer Island
 topics:

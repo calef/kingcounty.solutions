@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- Shoreline
 title: City of Shoreline
 type: City
 website: https://www.shorelinewa.gov/

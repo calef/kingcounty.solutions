@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- Seattle
 title: Seattle Central College
 topics:
 - Education & Learning

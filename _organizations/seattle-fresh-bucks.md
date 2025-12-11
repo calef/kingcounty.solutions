@@ -1,8 +1,6 @@
 ---
 address: PO Box 94729, Seattle, WA 98124
 email: freshbucks@seattle.gov
-jurisdictions:
-- Seattle
 news_rss_url: https://www.seattlefreshbucks.org/feed/
 parent_organization: City of Seattle
 phone: 206-256-5438

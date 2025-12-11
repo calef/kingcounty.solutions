@@ -1,7 +1,5 @@
 ---
 address: 2345 N 185th St, Berean Bible Church, Shoreline, WA 98133
-jurisdictions:
-- King County
 news_rss_url: https://shorelinecommunitycare.org/feed/
 phone: 206 496 3116
 title: Shoreline Community Care

@@ -1,8 +1,6 @@
 ---
 address: 336 2nd Ave S, Kent, WA 98032
 email: info@kentlutheran.org
-jurisdictions:
-- King County
 phone: "(253) 852-2057"
 title: Kent Lutheran Church
 topics:

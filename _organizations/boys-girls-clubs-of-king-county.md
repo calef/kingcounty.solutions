@@ -1,8 +1,5 @@
 ---
 acronym: BGCKC
-jurisdictions:
-- King County
-- Seattle
 news_rss_url: https://positiveplace.org/feed/
 title: Boys & Girls Clubs of King County
 topics:

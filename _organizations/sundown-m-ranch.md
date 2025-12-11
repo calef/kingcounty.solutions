@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- King County
 news_rss_url: https://sundown.org/feed/
 phone: "(509) 457-0290"
 title: Sundown M Ranch

@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- Clyde Hill
 title: City of Clyde Hill
 topics: []
 type: City

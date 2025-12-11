@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- Shoreline
 parent_organization: Puget Sound Educational Service District 121
 title: Shoreline Public Schools
 topics:

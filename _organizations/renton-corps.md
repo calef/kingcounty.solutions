@@ -2,8 +2,6 @@
 acronym: SA
 address: 720 S. Tobin St, Renton WA 98057
 email: james.parks@usw.salvationarmy.org
-jurisdictions:
-- Renton
 parent_organization: The Salvation Army
 phone: "(425) 255-5974"
 title: Renton Corps

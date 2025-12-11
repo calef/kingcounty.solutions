@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- Eastside
 news_rss_url: https://sophiaway.org/feed/
 title: The Sophia Way
 topics:

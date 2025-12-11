@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- Washington State
 parent_organization: State Executive Branch
 phone: 1-855-923-4633
 title: Washington State Health Care Authority

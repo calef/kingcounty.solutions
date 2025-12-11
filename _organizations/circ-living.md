@@ -1,12 +1,4 @@
 ---
-jurisdictions:
-- Bellevue
-- Seattle
-- Kenmore
-- Renton
-- Tukwila
-- Redmond
-- Woodinville
 news_rss_url: https://circliving.org/feed/
 parent_organization: Transforming Age
 title: CIRC Living

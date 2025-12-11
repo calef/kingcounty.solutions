@@ -1,9 +1,5 @@
 ---
 address: 1720 1/2 Wells Street, Enumclaw, WA 98022
-jurisdictions:
-- Enumclaw
-- Black Diamond
-- Ravensdale
 phone: 360-825-8961
 title: Plateau Outreach Ministries Food Bank
 topics:

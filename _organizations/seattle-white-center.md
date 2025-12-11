@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- White Center
 parent_organization: The Salvation Army
 title: Seattle White Center
 topics:

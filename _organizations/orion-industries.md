@@ -1,8 +1,6 @@
 ---
 acronym: OI
 email: donate@orionworks.org
-jurisdictions:
-- King County
 news_rss_url: https://orionworks.org/feed/
 phone: 360-529-5627
 title: Orion Industries

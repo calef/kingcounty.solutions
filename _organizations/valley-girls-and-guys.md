@@ -2,8 +2,6 @@
 address: 27034 SE Kent-Kangley Rd, Ravensdale, WA 98051
 email: valleygirlsandguys@gmail.com
 events_ical_url: https://valleygirlsandguys.org/events/?ical=1
-jurisdictions:
-- King County
 news_rss_url: https://valleygirlsandguys.org/feed/
 phone: 206-793-3175
 title: Valley Girls & Guys

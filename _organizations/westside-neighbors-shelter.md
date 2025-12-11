@@ -1,7 +1,5 @@
 ---
 address: 3620 SW Alaska Street, West Seattle, WA 98126
-jurisdictions:
-- King County
 news_rss_url: https://westsideneighborsshelter.org/feed/
 title: Westside Neighbors Shelter
 topics:

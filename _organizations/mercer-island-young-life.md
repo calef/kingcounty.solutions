@@ -1,7 +1,5 @@
 ---
 email: mercerislandyounglife@gmail.com
-jurisdictions:
-- Mercer Island
 title: Mercer Island Young Life
 topics:
 - Education & Learning

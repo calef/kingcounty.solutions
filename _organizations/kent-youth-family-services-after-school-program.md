@@ -1,8 +1,5 @@
 ---
 address: 20500 106th Ave SE, Kent, WA 98030
-jurisdictions:
-- Kent
-- King County
 news_rss_url: https://kyfs.org/feed/
 parent_organization: Kent Youth and Family Services
 phone: "(253) 859-2357"

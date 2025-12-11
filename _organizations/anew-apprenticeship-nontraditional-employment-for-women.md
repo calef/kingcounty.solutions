@@ -2,8 +2,6 @@
 acronym: ANEW
 email: cdl@anewcareer.org
 events_ical_url: https://anewcareer.org/events/?ical=1
-jurisdictions:
-- Washington State
 news_rss_url: https://anewcareer.org/feed/
 phone: 206.381.1384
 title: Apprenticeship & Nontraditional Employment for Women

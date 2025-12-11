@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- Washington State
 news_rss_url: https://www.commerce.wa.gov/feed/
 parent_organization: State Executive Branch
 title: Department of Commerce

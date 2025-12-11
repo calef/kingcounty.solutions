@@ -1,9 +1,4 @@
 ---
-jurisdictions:
-- Kirkland
-- Auburn
-- Seattle
-- Renton
 news_rss_url: https://lakesidemilam.com/feed/
 phone: "(800) 544-1211"
 title: Lakeside-Milam Recovery Centers

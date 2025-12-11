@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- Carnation
 news_rss_url: https://www.carnationwa.gov/feed/
 title: City of Carnation
 topics:

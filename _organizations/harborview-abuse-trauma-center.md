@@ -1,7 +1,4 @@
 ---
-jurisdictions:
-- Seattle
-- King County
 news_rss_url: https://depts.washington.edu/uwhatc/feed/
 parent_organization: University of Washington
 phone: 206-744-1600

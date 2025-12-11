@@ -1,7 +1,5 @@
 ---
 acronym: SBOH
-jurisdictions:
-- Washington State
 parent_organization: State Executive Branch
 title: State Board of Health
 topics:

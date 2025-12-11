@@ -1,8 +1,6 @@
 ---
 acronym: ROOTS
 address: 4541 19th Ave NE, Seattle WA 98105
-jurisdictions:
-- Seattle
 phone: "(206) 632-1635"
 title: ROOTS Young Adult Shelter
 topics:

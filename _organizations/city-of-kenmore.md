@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- Kenmore
 title: City of Kenmore
 type: City
 website: https://www.kenmorewa.gov/

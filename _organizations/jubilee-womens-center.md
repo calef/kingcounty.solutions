@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- Seattle
 news_rss_url: https://jwcenter.org/feed/
 title: Jubilee Women's Center
 topics:

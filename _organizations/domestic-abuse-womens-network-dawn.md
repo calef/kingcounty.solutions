@@ -1,8 +1,6 @@
 ---
 acronym: DAWN
 events_ical_url: https://dawnrising.org/events-calendar/?ical=1
-jurisdictions:
-- King County
 news_rss_url: https://dawnrising.org/feed/
 phone: "(425) 656-7867"
 title: Domestic Abuse Women's Network (DAWN)

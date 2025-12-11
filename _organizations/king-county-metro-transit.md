@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- King County
 news_rss_url: https://kingcountymetro.blog/feed/
 title: King County Metro Transit
 topics:

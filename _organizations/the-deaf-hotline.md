@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- King County
 news_rss_url: https://www.thedeafhotline.org/feed/
 title: The Deaf Hotline
 topics:

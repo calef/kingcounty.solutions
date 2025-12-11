@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- United States
 parent_organization: NAACP
 title: ACT-SO Achievement Program
 topics:

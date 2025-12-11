@@ -1,13 +1,5 @@
 ---
 acronym: LCN
-jurisdictions:
-- Seattle
-- Bothell
-- Enumclaw
-- Kent
-- Federal Way
-- Renton
-- Shoreline
 phone: 206-364-1046
 title: Lutheran Counseling Network
 topics:

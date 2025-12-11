@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- Eastside
 news_rss_url: https://eastside-foundation.org/feed/
 title: Eastside Foundation
 topics:

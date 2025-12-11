@@ -2,8 +2,6 @@
 acronym: TCCUCC
 address: 4851 Tolt Avenue, Carnation, WA 98014
 email: tolt@toltucc.org
-jurisdictions:
-- King County
 news_rss_url: https://toltucc.org/feed/
 phone: "(425) 333-4254"
 title: Tolt Congregational United Church of Christ

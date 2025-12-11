@@ -1,8 +1,6 @@
 ---
 acronym: CMCH
 email: selam.getahun@cschc.org
-jurisdictions:
-- Seattle
 phone: "(206) 461-6910"
 title: Center for MultiCultural Health
 topics:

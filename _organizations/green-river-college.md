@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- Auburn
 title: Green River College
 topics:
 - Education & Learning

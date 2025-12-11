@@ -1,11 +1,6 @@
 ---
 acronym: 'YES'
 address: 999 164th Ave NE, Bellevue, WA 98008
-jurisdictions:
-- Bellevue
-- Kirkland
-- Redmond
-- Sammamish
 news_rss_url: https://www.youtheastsideservices.org/feed/
 phone: 425-747-4937
 title: Youth Eastside Services

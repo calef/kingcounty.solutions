@@ -1,7 +1,5 @@
 ---
 address: 8600 Rockville Pike, Bethesda, MD 20894
-jurisdictions:
-- United States
 news_rss_url: https://ncbiinsights.ncbi.nlm.nih.gov/feed/
 parent_organization: National Library of Medicine
 title: National Center for Biotechnology Information

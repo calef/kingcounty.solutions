@@ -3,8 +3,6 @@ acronym: OFR
 address: 20037 Dove Hill Rd, Culpeper, VA 22701
 email: info@operationfirstresponse.org
 events_ical_url: https://www.operationfirstresponse.org/events/?ical=1
-jurisdictions:
-- United States
 news_rss_url: https://www.operationfirstresponse.org/feed/rss/
 phone: '888-289-0280 ext: 1'
 title: Operation First Response

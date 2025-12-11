@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- Seattle
 title: North Seattle College
 topics:
 - Education & Learning

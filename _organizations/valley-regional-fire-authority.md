@@ -1,8 +1,4 @@
 ---
-jurisdictions:
-- Algona
-- Auburn
-- Pacific
 news_rss_url: https://www.vrfa.org/feed/
 title: Valley Regional Fire Authority
 topics:

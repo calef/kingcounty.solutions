@@ -1,8 +1,6 @@
 ---
 acronym: BCH
 email: benefitshub@bellevuecollege.edu
-jurisdictions:
-- Bellevue
 parent_organization: Bellevue College
 title: Bellevue College Benefits Hub
 topics:

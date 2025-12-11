@@ -1,7 +1,5 @@
 ---
 acronym: WCSC
-jurisdictions:
-- Seattle
 news_rss_url: https://wallingfordseniors.org/feed/
 title: Wallingford Community Senior Center
 topics:

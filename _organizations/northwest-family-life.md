@@ -1,7 +1,5 @@
 ---
 email: hope@nwfamilylife.org
-jurisdictions:
-- Washington State
 news_rss_url: https://northwestfamilylife.org/feed/
 phone: 206-363-9601
 title: Northwest Family Life

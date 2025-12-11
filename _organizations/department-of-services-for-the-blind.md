@@ -1,7 +1,5 @@
 ---
 acronym: DSB
-jurisdictions:
-- Washington State
 parent_organization: State Executive Branch
 title: Department of Services for the Blind
 topics:

@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- Seattle
 title: St. Vincent de Paul Food Bank
 topics:
 - Food & Nutrition

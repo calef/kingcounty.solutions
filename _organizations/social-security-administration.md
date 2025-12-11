@@ -1,7 +1,5 @@
 ---
 acronym: SSA
-jurisdictions:
-- United States
 parent_organization: Federal Executive Branch
 title: Social Security Administration
 topics:

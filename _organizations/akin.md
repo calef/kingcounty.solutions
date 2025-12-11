@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- King County
 news_rss_url: https://akinfamily.org/feed/
 title: Akin
 topics:

@@ -1,8 +1,6 @@
 ---
 acronym: EHR
 email: EHR@eastsidehousingrt.org
-jurisdictions:
-- Eastside
 news_rss_url: https://eastsidehousingrt.org/feed/
 title: Eastside Housing Roundtable
 topics:

@@ -1,7 +1,4 @@
 ---
-jurisdictions:
-- Seattle
-- Burien
 news_rss_url: https://www.desc.org/feed/
 title: DESC
 topics:

@@ -1,7 +1,5 @@
 ---
 acronym: HHS
-jurisdictions:
-- United States
 parent_organization: Federal Executive Branch
 title: Department of Health and Human Services
 topics:

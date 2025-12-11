@@ -1,7 +1,5 @@
 ---
 acronym: OH
-jurisdictions:
-- United States
 news_rss_url: https://operationhomefront.org/feed/
 phone: 1-877-264-3968
 title: Operation Homefront - Critical Financial Assistance Program

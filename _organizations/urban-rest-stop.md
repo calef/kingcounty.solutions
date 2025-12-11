@@ -2,8 +2,6 @@
 acronym: URS
 address: 2014B NW 57th St., Seattle, WA  98107
 email: ballardurs@lihi.org
-jurisdictions:
-- King County
 news_rss_url: https://urbanreststop.org/feed/
 parent_organization: Low Income Housing Institute
 phone: "(206) 332-0110"

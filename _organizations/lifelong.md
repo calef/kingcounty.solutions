@@ -1,8 +1,6 @@
 ---
 address: 4634 E Marginal Way S, Suite C200, Seattle, WA 98134
 email: info@lifelong.org
-jurisdictions:
-- King County
 news_rss_url: https://www.lifelong.org/home?format=rss
 phone: 206-957-1600
 title: Lifelong

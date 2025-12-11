@@ -1,20 +1,5 @@
 ---
 acronym: DLS
-jurisdictions:
-- Ames Lake
-- Baring
-- Boulevard Park
-- Bryn Mawr-Skyway
-- Cottage Lake
-- East Renton Highlands
-- Fairwood
-- Lake Marcel-Stillwater
-- Lake Morton-Berrydale
-- Maple Heights-Lake Desire
-- Mirrormont
-- Ravensdale
-- Vashon
-- White Center
 parent_organization: King County
 title: Department of Local Services
 topics:

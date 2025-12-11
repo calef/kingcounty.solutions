@@ -3,8 +3,6 @@ acronym: LCSNW
 address: 2920 Cassia Street, Boise, ID 83705
 email: info@lcsnw.org
 events_ical_url: https://lcsnw.org/events/?ical=1
-jurisdictions:
-- King County
 news_rss_url: https://lcsnw.org/feed/
 phone: "(208) 509-2431"
 title: Lutheran Community Services Northwest

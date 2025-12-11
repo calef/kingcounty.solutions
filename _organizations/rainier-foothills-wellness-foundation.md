@@ -1,9 +1,6 @@
 ---
 acronym: RFWF
 address: 1304 Griffin Ave, Enumclaw, WA 98022
-jurisdictions:
-- Enumclaw
-- Black Diamond
 news_rss_url: https://rfwellnessfoundation.org/feed/
 phone: 360-802-3206
 title: Rainier Foothills Wellness Foundation

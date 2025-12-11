@@ -1,8 +1,6 @@
 ---
 address: 911 164th Ave NE, Bellevue, WA 98008
 email: contacteastside@usw.salvationarmy.org
-jurisdictions:
-- Eastside
 phone: 425-452-7300
 title: Salvation Army Bellevue Corps
 topics:

@@ -1,7 +1,4 @@
 ---
-jurisdictions:
-- Bothell
-- Issaquah
 phone: "(425) 458-5048"
 title: Eastside Psychological Associates
 topics:

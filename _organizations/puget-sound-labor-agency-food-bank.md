@@ -1,8 +1,6 @@
 ---
 address: 5300 4th Ave S, Seattle, WA 98108
 email: info@pugetsoundlaboragency.org
-jurisdictions:
-- King County
 news_rss_url: https://www.pugetsoundlaboragency.org/1/feed
 phone: "(206) 448-9277"
 title: Puget Sound Labor Agency Food Bank
