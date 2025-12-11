@@ -82,36 +82,11 @@ module Mayhem
         require 'ruby/openai'
         require 'mayhem/topics/organization_audit'
 
-        def parse_options(args, default_model:, default_max_posts:)
-          options = {
-            model: default_model,
-            max_posts: default_max_posts,
-            force: false,
-            output: nil,
-            apply: false
-          }
-
-          OptionParser.new do |opts|
-            opts.banner = 'Usage: mayhem audit-topics [options]'
-
-            opts.on('--model MODEL', "OpenAI model (default: #{default_model})") { |model| options[:model] = model }
-            opts.on('--max-posts N', Integer,
-                    "Number of recent posts per org to include (default: #{default_max_posts})") do |n|
-              options[:max_posts] = n
-            end
-            opts.on('--force', 'Ignore cached responses and re-run audit') { options[:force] = true }
-            opts.on('--output FILE', 'Write JSON report to FILE') { |file| options[:output] = file }
-            opts.on('--apply', 'Update organization topic lists in-place') { options[:apply] = true }
-          end.parse!(args)
-
-          options
-        end
-
         defaults = {
           default_model: Mayhem::Topics::OrganizationAudit::DEFAULT_MODEL,
           default_max_posts: Mayhem::Topics::OrganizationAudit::DEFAULT_MAX_POSTS
         }
-        options = parse_options(args, **defaults)
+        options = parse_audit_topics_options(args, **defaults)
         client = OpenAI::Client.new(access_token: ENV.fetch('OPENAI_API_KEY'))
         audit = Mayhem::Topics::OrganizationAudit.new(
           client: client,
@@ -122,6 +97,31 @@ module Mayhem
           apply: options[:apply]
         )
         audit.run
+      end
+
+      def parse_audit_topics_options(args, default_model:, default_max_posts:)
+        options = {
+          model: default_model,
+          max_posts: default_max_posts,
+          force: false,
+          output: nil,
+          apply: false
+        }
+
+        OptionParser.new do |opts|
+          opts.banner = 'Usage: mayhem audit-topics [options]'
+
+          opts.on('--model MODEL', "OpenAI model (default: #{default_model})") { |model| options[:model] = model }
+          opts.on('--max-posts N', Integer,
+                  "Number of recent posts per org to include (default: #{default_max_posts})") do |n|
+            options[:max_posts] = n
+          end
+          opts.on('--force', 'Ignore cached responses and re-run audit') { options[:force] = true }
+          opts.on('--output FILE', 'Write JSON report to FILE') { |file| options[:output] = file }
+          opts.on('--apply', 'Update organization topic lists in-place') { options[:apply] = true }
+        end.parse!(args)
+
+        options
       end
 
       def run_expire(_args)
