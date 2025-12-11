@@ -49,8 +49,12 @@ class LocationClassifierTest < Minitest::Test
 
   def build_classifier(client_response:)
     client = FakeChatClient.new(response: client_response)
-    Mayhem::Content::LocationClassifier.new(
+    location_repository = Mayhem::Content::LocationRepository.new(
       locations_dir: @tmp_locations,
+      logger: @logger
+    )
+    Mayhem::Content::LocationClassifier.new(
+      location_repository: location_repository,
       client: client,
       logger: @logger,
       model: 'test-model'
@@ -113,8 +117,12 @@ class LocationClassifierTest < Minitest::Test
     client = FakeChatClient.new(
       response: { 'choices' => [{ 'message' => { 'content' => '["Seattle"]' } }] }
     )
-    classifier = Mayhem::Content::LocationClassifier.new(
+    location_repository = Mayhem::Content::LocationRepository.new(
       locations_dir: @tmp_locations,
+      logger: @logger
+    )
+    classifier = Mayhem::Content::LocationClassifier.new(
+      location_repository: location_repository,
       client: client,
       logger: @logger,
       model: 'test-model'
@@ -143,8 +151,12 @@ class LocationClassifierTest < Minitest::Test
       { 'choices' => [{ 'message' => { 'content' => '["Seattle"]' } }] }
     end
 
-    classifier = Mayhem::Content::LocationClassifier.new(
+    location_repository = Mayhem::Content::LocationRepository.new(
       locations_dir: @tmp_locations,
+      logger: @logger
+    )
+    classifier = Mayhem::Content::LocationClassifier.new(
+      location_repository: location_repository,
       client: client,
       logger: @logger,
       model: 'test-model'
