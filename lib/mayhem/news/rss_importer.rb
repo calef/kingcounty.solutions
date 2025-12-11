@@ -155,6 +155,7 @@ module Mayhem
           stats[:missing_link] += 1
           return
         end
+        guid_value = item_guid(item)
 
         title_text = item_title_text(item).to_s.strip
         if title_text.empty?
@@ -184,7 +185,7 @@ module Mayhem
           updated = canonical_link(normalized, html_canonical: body_data[:canonical_url])
           if updated && updated != normalized
             normalized = updated
-            if duplicate_post?(normalized)
+            if duplicate_post?(normalized, guid_value)
               stats[:duplicates] += 1
               return
             end
@@ -195,7 +196,7 @@ module Mayhem
           return
         end
 
-        if duplicate_post?(normalized)
+        if duplicate_post?(normalized, guid_value)
           stats[:duplicates] += 1
           return
         end
@@ -205,7 +206,7 @@ module Mayhem
           stats[:not_king_county_relevant] += 1
         end
 
-        result = write_post(source_title, title_text, normalized, published_time, original_html, is_relevant)
+        result = write_post(source_title, title_text, normalized, published_time, original_html, guid_value, is_relevant)
         case result
         when :created
           stats[:created] += 1
@@ -218,21 +219,60 @@ module Mayhem
         end
       end
 
-      def duplicate_post?(link_url)
-        normalized = link_url.to_s
-        return false if normalized.empty?
+      def duplicate_post?(link_url, guid = nil)
+        keys = []
+        keys << post_key_for_link(link_url)
+        keys << post_key_for_guid(guid)
+        keys.compact!
+        return false if keys.empty?
 
-        @existing_lock.synchronize { @existing_posts.key?(normalized) }
+        @existing_lock.synchronize { keys.any? { |key| @existing_posts.key?(key) } }
       end
 
-      def register_post(link_url)
-        normalized = link_url.to_s
-        return if normalized.empty?
+      def register_post(link_url, guid = nil)
+        keys = []
+        keys << post_key_for_link(link_url)
+        keys << post_key_for_guid(guid)
+        keys.compact!
+        return if keys.empty?
 
-        @existing_lock.synchronize { @existing_posts[normalized] = true }
+        @existing_lock.synchronize do
+          keys.each { |key| @existing_posts[key] = true }
+        end
       end
 
-      def write_post(source_title, title_text, link_url, published_time, original_html, is_relevant = true)
+      def post_key_for_link(link_url)
+        normalized = link_url.to_s.strip
+        return nil if normalized.empty?
+
+        "link:#{normalized}"
+      end
+
+      def post_key_for_guid(guid_value)
+        guid_text = extract_guid_text(guid_value)
+        return nil unless guid_text
+
+        "guid:#{guid_text}"
+      end
+
+      def extract_guid_text(raw_guid)
+        return nil unless raw_guid
+
+        candidate =
+          if raw_guid.respond_to?(:content) && raw_guid.content
+            raw_guid.content
+          elsif raw_guid.respond_to?(:href) && raw_guid.href
+            raw_guid.href
+          elsif raw_guid.respond_to?(:value) && raw_guid.value
+            raw_guid.value
+          else
+            raw_guid.to_s
+          end
+        text = candidate.to_s.strip
+        text.empty? ? nil : text
+      end
+
+      def write_post(source_title, title_text, link_url, published_time, original_html, rss_guid = nil, is_relevant = true)
         normalized_html = Mayhem::Support::HtmlNormalizer.normalize(original_html, base_url: link_url)
         content_md = ReverseMarkdown.convert(normalized_html)
         checksum = Mayhem::Support::HtmlNormalizer.checksum(normalized_html)
@@ -247,19 +287,19 @@ module Mayhem
 
         if locked_post?(filename)
           @logger.info "Skipping update for locked post #{filename}"
-          register_post(link_url)
+          register_post(link_url, rss_guid)
           return :skipped_locked
         end
 
         if Mayhem::Support::PublishGuard.unpublished?(filename, logger: @logger)
           @logger.info "Skipping update for unpublished post #{filename}"
-          register_post(link_url)
+          register_post(link_url, rss_guid)
           return :skipped_unpublished
         end
 
         if unchanged_post?(filename, normalized_html, checksum, link_url)
           @logger.debug "Skipping unchanged post #{filename}"
-          register_post(link_url)
+          register_post(link_url, rss_guid)
           return :skipped_unchanged
         end
 
@@ -268,6 +308,7 @@ module Mayhem
           'date' => published_time.iso8601,
           'source' => source_title,
           'source_url' => link_url.to_s,
+          'rss_guid' => rss_guid,
           'original_content' => normalized_html,
           'original_content_checksum' => checksum
         }
@@ -280,7 +321,7 @@ module Mayhem
           body: "\n#{content_md}"
         )
         document.save
-        register_post(link_url)
+        register_post(link_url, rss_guid)
         :created
       end
 
@@ -367,6 +408,16 @@ module Mayhem
         item.respond_to?(:url) ? item.url.to_s : nil
       rescue StandardError => e
         @logger.warn "Failed to read link for #{item.respond_to?(:title) ? item.title : 'unknown item'}: #{e.message}"
+        nil
+      end
+
+      def item_guid(item)
+        return extract_guid_text(item.guid) if item.respond_to?(:guid) && item.guid
+        return extract_guid_text(item.id) if item.respond_to?(:id) && item.id
+
+        nil
+      rescue StandardError => e
+        @logger.warn "Failed to read guid for #{item.respond_to?(:title) ? item.title : 'unknown item'}: #{e.message}"
         nil
       end
 
@@ -459,9 +510,11 @@ module Mayhem
           next unless fm['original_content']
 
           url = Mayhem::Support::UrlNormalizer.normalize(fm['source_url'])
-          next unless url
+          key = post_key_for_link(url)
+          memo[key] = true if key
 
-          memo[url] = true
+          guid_key = post_key_for_guid(fm['rss_guid'])
+          memo[guid_key] = true if guid_key
         end
       end
 

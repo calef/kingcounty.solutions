@@ -333,10 +333,14 @@ module Mayhem
       def read_response_body(response, max_bytes)
         body = +''
         response.read_body do |chunk|
-          next if body.bytesize >= max_bytes
+          if max_bytes.positive?
+            next if body.bytesize >= max_bytes
 
-          needed = max_bytes - body.bytesize
-          body << chunk.byteslice(0, needed)
+            needed = max_bytes - body.bytesize
+            body << chunk.byteslice(0, needed)
+          else
+            body << chunk
+          end
         end
         body.force_encoding('BINARY')
         body
