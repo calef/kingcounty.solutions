@@ -199,4 +199,51 @@ class EventSummarizerTest < Minitest::Test
     assert_equal 1, stats[:skipped_missing_body]
     assert_match(/could not summarize event/, @logger.warns.last)
   end
+
+  def test_run_backfills_locations_for_already_summarized_event
+    slug = 'event-backfill'
+    write_event(slug, {
+      'title' => 'Already Summarized',
+      'start_date' => '2025-05-05',
+      'location' => 'Community Center',
+      'summarized' => true
+    }, 'This event is already summarized.')
+
+    summarizer = build_summarizer(
+      client_response: {},
+      topics: ['Community'],
+      locations: ['seattle', 'bellevue']
+    )
+
+    stats = summarizer.run
+
+    assert_equal 1, stats[:locations_backfilled]
+    assert_equal 0, stats[:updated]
+    document = Mayhem::FrontMatter::Document.load(File.join(@tmp_events, "#{slug}.md"), logger: @logger)
+    assert_equal ['seattle', 'bellevue'], document.front_matter['locations']
+    assert_nil document.front_matter['published']
+  end
+
+  def test_run_marks_unpublished_when_backfilled_locations_empty
+    slug = 'event-no-locations'
+    write_event(slug, {
+      'title' => 'Already Summarized No Locations',
+      'start_date' => '2025-06-06',
+      'location' => 'Virtual',
+      'summarized' => true
+    }, 'This event has no relevant locations.')
+
+    summarizer = build_summarizer(
+      client_response: {},
+      topics: ['Technology'],
+      locations: []
+    )
+
+    stats = summarizer.run
+
+    assert_equal 1, stats[:locations_backfilled]
+    document = Mayhem::FrontMatter::Document.load(File.join(@tmp_events, "#{slug}.md"), logger: @logger)
+    assert_equal [], document.front_matter['locations']
+    assert_equal false, document.front_matter['published']
+  end
 end

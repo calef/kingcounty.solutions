@@ -90,4 +90,33 @@ class PostSummarizerTest < Minitest::Test
 
     assert_equal 1, stats[:updated]
   end
+
+  def test_backfills_locations_for_unpublished_summarized_post
+    write_post('2025-01-04-test.md', {
+      'source_url' => 'http://ok3',
+      'summarized' => true,
+      'published' => false,
+      'topics' => []
+    }, 'Summarized post without locations')
+
+    location_classifier = Object.new
+    def location_classifier.classify(_text, content_title: nil)
+      ['seattle']
+    end
+
+    summarizer = Mayhem::News::PostSummarizer.new(
+      posts_dir: @tmp_posts,
+      topic_dir: @tmp_topics,
+      http_client: Object.new,
+      logger: @logger,
+      client: Object.new,
+      location_classifier: location_classifier
+    )
+
+    stats = summarizer.run
+
+    assert_equal 1, stats[:locations_backfilled]
+    document = Mayhem::FrontMatter::Document.load(File.join(@tmp_posts, '2025-01-04-test.md'), logger: @logger)
+    assert_equal ['seattle'], document.front_matter['locations']
+  end
 end
