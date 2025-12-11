@@ -4,6 +4,7 @@ require 'nokogiri'
 require 'ruby/openai'
 require_relative '../logging'
 require_relative '../news/topic_classifier'
+require_relative '../content/location_classifier'
 require_relative '../front_matter/document'
 require_relative '../support/http_client'
 require_relative '../feed/discovery'
@@ -24,7 +25,8 @@ module Mayhem
         model: DEFAULT_MODEL,
         http_client: nil,
         logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'),
-        topic_classifier: nil
+        topic_classifier: nil,
+        location_classifier: nil
       )
         @events_dir = events_dir
         @logger = logger
@@ -37,6 +39,11 @@ module Mayhem
                               client: @client,
                               logger: @logger
                             )
+        @location_classifier = location_classifier ||
+                               Mayhem::Content::LocationClassifier.new(
+                                 client: @client,
+                                 logger: @logger
+                               )
       end
 
       def run
@@ -65,11 +72,31 @@ module Mayhem
         end
         if front_matter['summarized'] == true
           stats[:skipped_already_summarized] += 1
+          # Check if we need to classify locations for already-summarized content
+          needs_locations = !front_matter.key?('locations')
+          if needs_locations
+            summary_text = document.body&.strip || ''
+            classified_locations = @location_classifier.classify(
+              summary_text,
+              content_title: front_matter['title'],
+              content_location: front_matter['location']
+            )
+            front_matter['locations'] = classified_locations
+            if classified_locations.empty?
+              front_matter['published'] = false
+              @logger.info "No locations matched for #{file_path}, marking as unpublished"
+            end
+            document.front_matter = front_matter
+            document.save
+            stats[:locations_backfilled] += 1
+            @logger.info "Backfilled locations for #{file_path}"
+          end
           return
         end
         needs_summary = front_matter['summarized'] != true
         needs_topics = Array(front_matter['topics']).empty?
-        return unless needs_summary || needs_topics
+        needs_locations = !front_matter.key?('locations')
+        return unless needs_summary || needs_topics || needs_locations
 
         generated_from_post = front_matter['generated_from_post'] == true
         source_url = front_matter['source_url']
@@ -127,7 +154,22 @@ module Mayhem
           end
         end
 
-        if needs_topics && Array(front_matter['topics']).empty?
+        if needs_locations
+          classified_locations = @location_classifier.classify(
+            summary_text,
+            content_title: front_matter['title'],
+            content_location: front_matter['location']
+          )
+          front_matter['locations'] = classified_locations
+          if classified_locations.empty?
+            @logger.info "No locations matched for #{file_path}"
+            stats[:missing_locations] += 1
+          end
+        end
+
+        # Set published to false if either topics or locations are empty
+        if (needs_topics && Array(front_matter['topics']).empty?) ||
+           (needs_locations && Array(front_matter['locations']).empty?)
           front_matter['published'] = false
           if generated_from_post
             event_slug = File.basename(file_path, '.md')
@@ -259,6 +301,8 @@ module Mayhem
           skipped_missing_body: stats[:skipped_missing_body],
           failed_summary: stats[:failed_summary],
           missing_topics: stats[:missing_topics],
+          missing_locations: stats[:missing_locations],
+          locations_backfilled: stats[:locations_backfilled],
           events_unlinked: stats[:events_unlinked],
           errors: stats[:errors]
         }

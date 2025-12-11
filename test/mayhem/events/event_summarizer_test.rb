@@ -58,6 +58,16 @@ class EventSummarizerTest < Minitest::Test
     end
   end
 
+  class FakeLocationClassifier
+    def initialize(locations:)
+      @locations = locations
+    end
+
+    def classify(_text, content_title: nil, content_location: nil)
+      @locations
+    end
+  end
+
   def setup
     @tmp_events = Dir.mktmpdir('events')
     @tmp_posts = Dir.mktmpdir('posts')
@@ -88,16 +98,18 @@ class EventSummarizerTest < Minitest::Test
     path
   end
 
-  def build_summarizer(client_response:, topics: [], http_body: '<html><body><article>Story</article></body></html>')
+  def build_summarizer(client_response:, topics: [], locations: ['seattle'], http_body: '<html><body><article>Story</article></body></html>')
     client = FakeChatClient.new(response: client_response)
     http = FakeHttpClient.new(response: { body: http_body, content_type: 'text/html' })
     topic_classifier = FakeTopicClassifier.new(topics: topics)
+    location_classifier = FakeLocationClassifier.new(locations: locations)
     Mayhem::Events::EventSummarizer.new(
       events_dir: @tmp_events,
       topic_dir: @tmp_topics,
       client: client,
       http_client: http,
       topic_classifier: topic_classifier,
+      location_classifier: location_classifier,
       logger: @logger,
       model: 'test-model'
     )
@@ -116,17 +128,21 @@ class EventSummarizerTest < Minitest::Test
 
     summarizer = build_summarizer(
       client_response: { 'choices' => [{ 'message' => { 'content' => 'Refined summary.' } }] },
-      topics: []
+      topics: [],
+      locations: []
     )
 
     stats = summarizer.run
 
     assert_equal 1, stats[:updated]
     assert_equal 1, stats[:missing_topics]
+    assert_equal 1, stats[:missing_locations]
     assert_equal 1, stats[:events_unlinked]
     document = Mayhem::FrontMatter::Document.load(File.join(@tmp_events, "#{slug}.md"), logger: @logger)
     assert_equal 'Refined summary.', document.body.strip
     assert_equal false, document.front_matter['published']
+    assert_empty Array(document.front_matter['topics'])
+    assert_empty Array(document.front_matter['locations'])
     post_doc = Mayhem::FrontMatter::Document.load(File.join(@tmp_posts, 'post-one.md'), logger: @logger)
     assert_empty Array(post_doc.front_matter['events'])
   end

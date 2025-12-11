@@ -6,6 +6,7 @@ require 'open-uri'
 require 'ruby/openai'
 require_relative '../logging'
 require_relative '../news/topic_classifier'
+require_relative '../content/location_classifier'
 require_relative '../front_matter/document'
 require_relative '../support/http_client'
 require_relative '../feed/discovery'
@@ -34,7 +35,8 @@ module Mayhem
         topic_model: DEFAULT_TOPIC_MODEL,
         http_client: nil,
         logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'),
-        topic_classifier: nil
+        topic_classifier: nil,
+        location_classifier: nil
       )
         @posts_dir = posts_dir
         @topic_dir = topic_dir
@@ -48,6 +50,11 @@ module Mayhem
                               client: @client,
                               logger: @logger
                             )
+        @location_classifier = location_classifier ||
+                               Mayhem::Content::LocationClassifier.new(
+                                 client: @client,
+                                 logger: @logger
+                               )
       end
 
       def run
@@ -77,12 +84,33 @@ module Mayhem
         if front_matter['published'] == false
           @logger.debug "Skipping #{file_path}: published is false"
           stats[:skipped_unpublished] += 1
+          # Check if we need to classify locations for unpublished content
+          needs_locations = !front_matter.key?('locations')
+          if needs_locations && front_matter['summarized'] == true
+            summary_text = document.body&.strip || ''
+            classified_locations = @location_classifier.classify(
+              summary_text,
+              content_title: front_matter['title']
+            )
+            front_matter['locations'] = classified_locations
+            if classified_locations.empty?
+              @logger.info "No locations matched for #{file_path}"
+            else
+              # If we found locations, we might want to re-evaluate published status
+              # but for now we'll just add the locations field
+              @logger.info "Backfilled locations for #{file_path}"
+            end
+            document.front_matter = front_matter
+            document.save
+            stats[:locations_backfilled] += 1
+          end
           return
         end
 
         needs_summary = front_matter['summarized'] != true
         needs_topics = Array(front_matter['topics']).empty?
-        return unless needs_summary || needs_topics
+        needs_locations = !front_matter.key?('locations')
+        return unless needs_summary || needs_topics || needs_locations
 
         source_url = front_matter['source_url']
         if needs_summary && source_url.nil?
@@ -127,7 +155,21 @@ module Mayhem
           end
         end
 
-        front_matter['published'] = false if needs_topics && Array(front_matter['topics']).empty?
+        if needs_locations
+          classified_locations = @location_classifier.classify(
+            summary_text,
+            content_title: front_matter['title']
+          )
+          front_matter['locations'] = classified_locations
+          if classified_locations.empty?
+            @logger.info "No locations matched for #{file_path}"
+            stats[:missing_locations] += 1
+          end
+        end
+
+        # Set published to false if either topics or locations are empty
+        front_matter['published'] = false if (needs_topics && Array(front_matter['topics']).empty?) ||
+                                             (needs_locations && Array(front_matter['locations']).empty?)
 
         document.front_matter = front_matter
         document.body = summary_text
@@ -212,6 +254,8 @@ module Mayhem
           skipped_missing_source: stats[:skipped_missing_source],
           failed_summary: stats[:failed_summary],
           missing_topics: stats[:missing_topics],
+          missing_locations: stats[:missing_locations],
+          locations_backfilled: stats[:locations_backfilled],
           errors: stats[:errors]
         }
         summary_text = summary_fields.map { |key, value| "#{key}=#{value}" }.join(', ')
