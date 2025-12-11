@@ -7,10 +7,11 @@ require_relative '../front_matter/document'
 module Mayhem
   module Content
     class ImageCleanup
-      attr_reader :posts_dir, :images_dir, :assets_dir
+      attr_reader :posts_dir, :events_dir, :images_dir, :assets_dir
 
-      def initialize(posts_dir:, images_dir:, assets_dir:, logger:)
+      def initialize(posts_dir:, images_dir:, assets_dir:, logger:, events_dir: nil)
         @posts_dir = posts_dir
+        @events_dir = events_dir
         @images_dir = images_dir
         @assets_dir = assets_dir
         @logger = logger
@@ -22,6 +23,8 @@ module Mayhem
 
       def remaining_image_counts(excluded_paths = Set.new)
         counts = Hash.new(0)
+
+        # Check posts directory
         Dir.glob(File.join(@posts_dir, '*.md')).each do |path|
           next if excluded_paths.include?(path)
 
@@ -30,6 +33,19 @@ module Mayhem
 
           collect_image_ids(document.front_matter).each { |id| counts[id] += 1 }
         end
+
+        # Check events directory if provided
+        if @events_dir
+          Dir.glob(File.join(@events_dir, '*.md')).each do |path|
+            next if excluded_paths.include?(path)
+
+            document = Mayhem::FrontMatter::Document.load(path, logger: @logger)
+            next unless document
+
+            collect_image_ids(document.front_matter).each { |id| counts[id] += 1 }
+          end
+        end
+
         counts
       end
 

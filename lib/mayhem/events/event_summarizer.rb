@@ -5,6 +5,7 @@ require 'ruby/openai'
 require_relative '../logging'
 require_relative '../news/topic_classifier'
 require_relative '../content/location_classifier'
+require_relative '../content/content_pruner'
 require_relative '../front_matter/document'
 require_relative '../support/http_client'
 require_relative '../feed/discovery'
@@ -14,6 +15,8 @@ module Mayhem
     class EventSummarizer
       EVENTS_DIR = '_events'
       POSTS_DIR = '_posts'
+      IMAGES_DIR = '_images'
+      IMAGE_ASSETS_DIR = File.join('assets', 'images')
       MAX_ARTICLE_CHARS = 20_000
       DEFAULT_MODEL = ENV.fetch('OPENAI_EVENT_MODEL', ENV.fetch('OPENAI_MODEL', 'gpt-4o-mini'))
       TOPIC_DIR = '_topics'
@@ -21,12 +24,15 @@ module Mayhem
       def initialize(
         events_dir: EVENTS_DIR,
         topic_dir: TOPIC_DIR,
+        images_dir: IMAGES_DIR,
+        assets_dir: IMAGE_ASSETS_DIR,
         client: nil,
         model: DEFAULT_MODEL,
         http_client: nil,
         logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'),
         topic_classifier: nil,
-        location_classifier: nil
+        location_classifier: nil,
+        content_pruner: nil
       )
         @events_dir = events_dir
         @logger = logger
@@ -44,6 +50,14 @@ module Mayhem
                                  client: @client,
                                  logger: @logger
                                )
+        @content_pruner = content_pruner ||
+                          Mayhem::Content::ContentPruner.new(
+                            posts_dir: POSTS_DIR,
+                            events_dir: events_dir,
+                            images_dir: images_dir,
+                            assets_dir: assets_dir,
+                            logger: logger
+                          )
       end
 
       def run
@@ -83,13 +97,14 @@ module Mayhem
               content_source: front_matter['source']
             )
             front_matter['locations'] = classified_locations
-            if classified_locations.empty?
-              front_matter['published'] = false
-              front_matter['images'] = []
-              @logger.info "No locations matched for #{file_path}, marking as unpublished and clearing images"
-            end
             document.front_matter = front_matter
             document.save
+
+            if classified_locations.empty?
+              @content_pruner.unpublish_event(file_path, document)
+              @logger.info "No locations matched for #{file_path}, marking as unpublished and cleaning up images"
+            end
+
             stats[:locations_backfilled] += 1
             @logger.info "Backfilled locations for #{file_path}"
           end
@@ -171,11 +186,15 @@ module Mayhem
         end
 
         # Set published to false if either topics or locations are empty
-        # Also clear images when unpublishing
-        if (needs_topics && Array(front_matter['topics']).empty?) ||
-           (needs_locations && Array(front_matter['locations']).empty?)
-          front_matter['published'] = false
-          front_matter['images'] = []
+        # Use ContentPruner to properly clean up images
+        should_unpublish = (needs_topics && Array(front_matter['topics']).empty?) ||
+                           (needs_locations && Array(front_matter['locations']).empty?)
+
+        document.front_matter = front_matter
+        document.save
+
+        if should_unpublish
+          @content_pruner.unpublish_event(file_path, document)
           if generated_from_post
             event_slug = File.basename(file_path, '.md')
             removed_refs = remove_event_references(event_slug)
@@ -183,8 +202,6 @@ module Mayhem
           end
         end
 
-        document.front_matter = front_matter
-        document.save
         stats[:updated] += 1
         @logger.info "Updated #{file_path}"
       rescue StandardError => e
