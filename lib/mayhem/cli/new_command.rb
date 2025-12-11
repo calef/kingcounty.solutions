@@ -3,6 +3,8 @@
 require 'yaml'
 require 'fileutils'
 require 'open3'
+require 'date'
+require 'time'
 
 module Mayhem
   module CLI
@@ -119,7 +121,7 @@ module Mayhem
         config_path = File.join(@target_path, '_config.yml')
         puts "Updating _config.yml with kingcounty.solutions configuration..."
 
-        current_config = YAML.load_file(config_path)
+        current_config = YAML.safe_load_file(config_path, permitted_classes: [Date, Time, Symbol])
         source_config = load_source_config
 
         # Add or replace configuration keys as specified
@@ -135,10 +137,9 @@ module Mayhem
       end
 
       def load_source_config
-        source_config_path = File.expand_path('../../_config.yml', __dir__)
         # Navigate up from lib/mayhem/cli to repo root
         source_config_path = File.expand_path('../../../../_config.yml', __FILE__)
-        YAML.load_file(source_config_path)
+        YAML.safe_load_file(source_config_path, permitted_classes: [Date, Time, Symbol])
       end
 
       def install_plugins

@@ -31,7 +31,7 @@ class NewCommandTest < Minitest::Test
     config_path = File.join(@target_path, '_config.yml')
     assert File.exist?(config_path), 'Config file should exist'
 
-    config = YAML.load_file(config_path)
+    config = YAML.safe_load_file(config_path, permitted_classes: [Date, Time, Symbol])
 
     # Verify required keys are present
     assert config.key?('ap_style'), 'ap_style should be present'
@@ -85,7 +85,7 @@ class NewCommandTest < Minitest::Test
     config_path = File.join(@target_path, '_config.yml')
     assert File.exist?(config_path), 'Config file should still exist'
 
-    config = YAML.load_file(config_path)
+    config = YAML.safe_load_file(config_path, permitted_classes: [Date, Time, Symbol])
     assert_equal 365, config['content_max_age_days'], 'Config should be updated'
   end
 
