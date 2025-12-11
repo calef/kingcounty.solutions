@@ -109,12 +109,12 @@ module Mayhem
             if article_text.empty?
               @logger.warn "Skipping #{file_path}: generated from post but has no body"
               stats[:skipped_missing_body] += 1
-              return unless needs_topics
+              return unless needs_topics || needs_locations
             end
           elsif source_url.to_s.strip.empty?
             @logger.warn "Skipping #{file_path}: no source_url"
             stats[:skipped_missing_source] += 1
-            return unless needs_topics
+            return unless needs_topics || needs_locations
           else
             article_text = fetch_article_text(source_url)
             article_text = document.body.to_s.strip if article_text.to_s.strip.empty?
