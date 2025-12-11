@@ -168,4 +168,54 @@ class LocationClassifierTest < Minitest::Test
     assert_empty result
     assert_match(/OpenAI error/, @logger.warns.first)
   end
+
+  def test_filters_child_locations_when_parent_present
+    write_location('king-county', { 'title' => 'King County', 'type' => 'County' }, 'King County')
+    write_location('eastside', { 'title' => 'Eastside', 'type' => 'County Region', 'parent_place' => 'King County' }, 'Eastside region')
+    write_location('snoqualmie-valley', { 'title' => 'Snoqualmie Valley', 'type' => 'County Region', 'parent_place' => 'Eastside' }, 'Snoqualmie Valley')
+    write_location('snoqualmie', { 'title' => 'Snoqualmie', 'type' => 'City', 'parent_place' => 'Snoqualmie Valley' }, 'City of Snoqualmie')
+
+    # AI returns both parent and child
+    classifier = build_classifier(
+      client_response: { 'choices' => [{ 'message' => { 'content' => '["Snoqualmie Valley", "Snoqualmie"]' } }] }
+    )
+
+    result = classifier.classify('Event in Snoqualmie')
+
+    # Should only return the parent, not the child
+    assert_equal ['Snoqualmie Valley'], result
+  end
+
+  def test_keeps_sibling_locations
+    write_location('snoqualmie-valley', { 'title' => 'Snoqualmie Valley', 'type' => 'County Region' }, 'Snoqualmie Valley')
+    write_location('snoqualmie', { 'title' => 'Snoqualmie', 'type' => 'City', 'parent_place' => 'Snoqualmie Valley' }, 'City of Snoqualmie')
+    write_location('north-bend', { 'title' => 'North Bend', 'type' => 'City', 'parent_place' => 'Snoqualmie Valley' }, 'City of North Bend')
+
+    # AI returns two sibling cities
+    classifier = build_classifier(
+      client_response: { 'choices' => [{ 'message' => { 'content' => '["Snoqualmie", "North Bend"]' } }] }
+    )
+
+    result = classifier.classify('Event spanning two cities')
+
+    # Should keep both siblings
+    assert_equal ['North Bend', 'Snoqualmie'], result.sort
+  end
+
+  def test_filters_deeply_nested_child_when_grandparent_present
+    write_location('king-county', { 'title' => 'King County', 'type' => 'County' }, 'King County')
+    write_location('eastside', { 'title' => 'Eastside', 'type' => 'County Region', 'parent_place' => 'King County' }, 'Eastside region')
+    write_location('snoqualmie-valley', { 'title' => 'Snoqualmie Valley', 'type' => 'County Region', 'parent_place' => 'Eastside' }, 'Snoqualmie Valley')
+    write_location('snoqualmie', { 'title' => 'Snoqualmie', 'type' => 'City', 'parent_place' => 'Snoqualmie Valley' }, 'City of Snoqualmie')
+
+    # AI returns King County and Snoqualmie (grandparent and grandchild)
+    classifier = build_classifier(
+      client_response: { 'choices' => [{ 'message' => { 'content' => '["King County", "Snoqualmie"]' } }] }
+    )
+
+    result = classifier.classify('County-wide event')
+
+    # Should only return King County, filtering out the grandchild
+    assert_equal ['King County'], result
+  end
 end

@@ -141,10 +141,46 @@ module Mayhem
 
           # Validate that returned titles exist in our locations
           valid_titles = locations.map { |loc| loc[:title] }
-          titles.select { |title| valid_titles.include?(title) }.uniq
+          matched_titles = titles.select { |title| valid_titles.include?(title) }.uniq
+
+          # Filter to only highest-level locations in hierarchy
+          filter_to_highest_level_locations(matched_titles, locations)
         rescue JSON::ParserError => e
           @logger.warn "Failed to parse location response as JSON: #{e.message}"
           []
+        end
+      end
+
+      def filter_to_highest_level_locations(titles, locations)
+        return titles if titles.empty?
+
+        # Build a map of title to location for easy lookup
+        title_to_location = locations.each_with_object({}) do |loc, hash|
+          hash[loc[:title]] = loc
+        end
+
+        # For each location, check if any of its ancestors are also in the list
+        # If so, remove the child location
+        titles.reject do |title|
+          location = title_to_location[title]
+          next false unless location
+
+          # Walk up the parent chain to see if any ancestor is in the titles list
+          has_ancestor_in_list = false
+          current_parent = location[:parent_place]
+
+          while current_parent
+            if titles.include?(current_parent)
+              has_ancestor_in_list = true
+              break
+            end
+
+            # Move to the next level up
+            parent_location = title_to_location[current_parent]
+            current_parent = parent_location ? parent_location[:parent_place] : nil
+          end
+
+          has_ancestor_in_list
         end
       end
     end
