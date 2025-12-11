@@ -142,6 +142,7 @@ summarized: true
 title: Masters in Clinical Psychology (MAP) Info Session | AULA
 topics:
 - Education & Learning
+- Mental Health & Counseling
 ---
 
-Join Antioch University for a virtual information session on the Master of Arts in Clinical Psychology program on Jan. 8, 2026, from 5 to 6 p.m. PST. Attendees will have the opportunity to learn about the program's structure, degree requirements, and career outcomes. Faculty members will discuss various specializations, including Addiction and Recovery, Child Studies, and Psychological Trauma Studies, among others. This interactive session is a great chance to ask questions and gain insights into the field of psychology. Registration is required, and login information will be provided in your confirmation email. Don’t miss this opportunity to explore your future in clinical psychology.
+Join Antioch University for a virtual information session about the Master of Arts in Clinical Psychology on January 8, 2026, from 5 to 6 p.m. PST. This session will provide an overview of the program, allowing attendees to engage with faculty about degree requirements, career outcomes, and various specializations, including Addiction and Recovery, Child Studies, and Psychological Trauma Studies. Participants will gain insights into how the program can align with their professional goals. Registration is required, and login information will be sent via email upon registration. Don’t miss this opportunity to explore a meaningful path in clinical psychology.

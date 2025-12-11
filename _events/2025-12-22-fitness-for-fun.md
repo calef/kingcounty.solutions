@@ -57,13 +57,13 @@ original_markdown_body: Skip to content             We used to be called the Sen
   pm - 3:30 pm     Fitness For Fun Friday, December 12, 2025 at 9:00 am - 10:00 am     Balance
   & Strength Friday, December 12, 2025 at 10:00 am - 11:00 am             Calendar                 Scroll
   To Top  {"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://wscenter.org/wp-includes/js/wp-emoji-release.min.js?ver=6.9"}}
-published: false
 source: The Center for Active Living
 source_url: https://wscenter.org/event/fitness-for-fun/2025-12-22/
 start_date: '2025-12-22T09:00:00-08:00'
 summarized: true
 title: Fitness For Fun
-topics: []
+topics:
+- Senior Services
 ---
 
-Join Sherry for "Fitness For Fun" on December 22, 2025, from 9 to 10 a.m. at The Center for Active Living, located at 4217 SW Oregon St., Seattle. This engaging class is designed to get you moving while having a great time. With upbeat music and easy-to-follow steps, attendees can expect a workout that stimulates both body and mind. Each session offers a unique experience, ensuring flexibility and fun for all participants. Don't miss this opportunity to boost your fitness in a lively atmosphere!
+Join Sherry for "Fitness For Fun" on Dec. 22, 2025, from 9 to 10 a.m. at The Center for Active Living, located at 4217 SW Oregon St. in Seattle. This engaging class combines movement and music, designed to stimulate both body and mind. Participants can expect a lively atmosphere with easy-to-follow steps and a variety of activities that keep the experience fresh and enjoyable. Whether you're looking to enhance your fitness routine or simply have fun, this class offers a great opportunity to stay active in a supportive environment.

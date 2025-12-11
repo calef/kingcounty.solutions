@@ -53,13 +53,13 @@ original_markdown_body: Skip to content             We used to be called the Sen
   Member Concierge Thursday, December 11, 2025 at 11:00 am - 1:30 pm     Pinochle
   Thursday, December 11, 2025 at 12:00 pm - 3:00 pm             Calendar                 Scroll
   To Top  {"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://wscenter.org/wp-includes/js/wp-emoji-release.min.js?ver=6.9"}}
-published: false
 source: The Center for Active Living
 source_url: https://wscenter.org/event/member-orientation/2025-12-22/
 start_date: '2025-12-22T10:00:00-08:00'
 summarized: true
 title: Member Orientation
-topics: []
+topics:
+- Senior Services
 ---
 
-Join The Center for Active Living for a Member Orientation on Monday, December 22, 2025, from 10 a.m. to 11 a.m. at 4217 SW Oregon St., Seattle, WA. Attendees will receive a complimentary introduction to membership, guided by Member Concierge Cynthia. This is an excellent opportunity to learn about the center's offerings, engage in social activities, and meet fellow members. Drop in anytime during the hour to get all your questions answered and discover how to make the most of your membership.
+Join The Center for Active Living for a Member Orientation on December 22, 2025, from 10 a.m. to 11 a.m. at 4217 SW Oregon St., Seattle, WA. This free orientation, led by Member Concierge Cynthia, offers new members an opportunity to learn about the benefits of membership, explore available activities, and meet fellow community members. Attendees can drop in at any time during the hour to ask questions and discover how to make the most of their membership. Whether you're interested in games, social activities, or other programs, this event is a great way to get started.

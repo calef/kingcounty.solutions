@@ -57,13 +57,15 @@ original_markdown_body: Skip to content             We used to be called the Sen
   pm - 3:30 pm     Fitness For Fun Friday, December 12, 2025 at 9:00 am - 10:00 am     Balance
   & Strength Friday, December 12, 2025 at 10:00 am - 11:00 am             Calendar                 Scroll
   To Top  {"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://wscenter.org/wp-includes/js/wp-emoji-release.min.js?ver=6.9"}}
-published: false
 source: The Center for Active Living
 source_url: https://wscenter.org/event/gentle-chair-yoga/2025-12-22/
 start_date: '2025-12-22T10:00:00-08:00'
 summarized: true
 title: Gentle Chair Yoga
-topics: []
+topics:
+- Senior Services
+- Health Care
+- Disabilities
 ---
 
-Join certified yoga instructor Nadine Blinn for Gentle Chair Yoga on Dec. 22, 2025, from 10 to 11 a.m. at The Center for Active Living, located at 4217 SW Oregon St., Seattle, WA. This class features a blend of chair and standing poses designed to enhance breathing, flexibility, balance, and mood, with no floor sitting required. Poses can be adapted to accommodate various abilities and limitations, making it a welcoming environment for all participants. Enjoy a fun and relaxing experience while improving your overall well-being.
+Join certified yoga instructor Nadine Blinn for Gentle Chair Yoga on Dec. 22, 2025, from 10 a.m. to 11 a.m. at The Center for Active Living, located at 4217 SW Oregon St., Seattle, WA. This class features a blend of chair and standing poses designed to enhance breathing, flexibility, balance, and overall mood, with adaptations available for all abilities and limitations. Experience a fun and relaxing environment while improving your well-being.
