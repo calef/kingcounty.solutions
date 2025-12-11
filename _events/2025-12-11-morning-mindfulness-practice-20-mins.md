@@ -2,6 +2,7 @@
 end_date: '2025-12-11T09:20:00-08:00'
 images: []
 location: ''
+locked: true
 original_content: <meta><meta><meta><meta><meta><link><link><link><link><link><meta><meta><meta><title>Join
   conversation</title><script>window.I18NBUNDLE={hdr_launch_title:"Join conversation",hdr_launch_title_meeting:"Join
   meeting",hdr_launch_title_broadcast:"Join live event",hdr_broadcast_title:"Join
@@ -157,11 +158,6 @@ original_content: <meta><meta><meta><meta><meta><link><link><link><link><link><m
   Connection website",_hdr_btn_visit_school_connection_website:"Forwarding link button
   for visiting School Connection website",hdr_microsoft_logo_text:"Microsoft"},document.title=window.I18NBUNDLE.hdr_launch_title||"Join
   conversation";var LAUNCHER_VERSION="2025110702",__webpack_public_path__="https://statics.teams.cdn.office.net";try{var
-  SERVER_PARAMS={"featureFlags":{"enable2025BrandIcons":true,"enable2025OpenGraphIcon":true,"disableShareToTeamsFromOutlookStandalone":true,"enableLimeRedirectFromWebjoin":true,"enableLimeRedirectForMeetingId":true,"lightMeetingsBuildVersion":"25100213804","enableJoinLauncherCSPv2":true,"lightMeetingsWebBuildVersion":"25111315502","shouldGetAppliedMeetingBrandingTheme":true,"enableJoinLauncherCSP":true,"enableOrganizationPrivacyStatement":true,"fetchOrganizationPrivacyStatementTimeout":2000,"enableBrandingFetchWithMeetingId":true,"ignoreBrandingTimeout":true,"enableT21McasForTenant":["c5784bd0-ef66-49eb-aecd-67ea7838cd98","2596038f-3ea4-4f0c-aed1-066eb6544c3b"],"enableLightMeetingsHostnameFromUrl":true,"enableLimeRedirectForFirefox":false,"enableLimeRedirectForSafari":false,"disabledT21WebRedirectTenantIds":[],"enableOpenGraphMeta":true,"openGraphSupportedLinkTypes":["community","invite","meet"],"enableDesktopContextualInstaller":true,"enableiOSJoinLancherPage":true,"reportUserRepeatTelemetry":true,"enableFQDN":true,"enableDownloadsPageV3":true,"enableT21WebRedirect":true,"enableUIv2":true,"enableMobileUIv2":true,"enableFreemiumMeetings":true,"enableShareEmailUI":true,"enableBroadcastAttendeeConveneJoin":true,"disableContinueButtonOnMSIE":true,"showiOSSmartBannerOnFirstLaunch":true,"suppressPromptForMobileSafari":false,"enableMobileCopyLinkToClipboard":true,"enableCopyMeetingToClipboard":true,"brandingWithImages":true,"enablePDSRedirect":true,"enableT21WebRedirectSafari":true,"enableT21WebRedirectFirefox":true,"enableSkipLauncherDuringFreemiumSignUp":true,"launcherV2Version":"2025110702"},"requestContext":{"sessionId":"fa6c0c92ad14e677228d7b9a97ddbca6"},"ring":"general","environment":"prod","anonymous":true}}catch(o){}var
-  STATICS_PATH="https://statics.teams.cdn.office.net",ASSETS_PREFIX="hashedassets-launcher"</script><link><div></div><noscript><img
-  src="https://c.microsoft.com/trans_pixel.aspx"></noscript><script>var isModernBrowser="fetch"in
-  window&&"assign"in Object&&"Set"in window,scriptErrorLogs=[];"globalThis"in window||(window.globalThis=window),isModernBrowser||(window.location.href="https://www.microsoft.com/en-us/microsoft-teams/download-app"),window.addEventListener("error",(function(o,r,i,n,s){scriptErrorLogs.push({message:o,source:r,line:i,col:n,error:s})}))</script><script></script>
-original_content_checksum: 24bfc9a560ee02ec5989eac9fd338ea33c7e9ff3
 original_markdown_body: Join conversationwindow.I18NBUNDLE={hdr_launch_title:"Join
   conversation",hdr_launch_title_meeting:"Join meeting",hdr_launch_title_broadcast:"Join
   live event",hdr_broadcast_title:"Join live event",hdr_welcome_header:"Experience
@@ -317,17 +313,16 @@ original_markdown_body: Join conversationwindow.I18NBUNDLE={hdr_launch_title:"Jo
   Connection website",_hdr_btn_visit_school_connection_website:"Forwarding link button
   for visiting School Connection website",hdr_microsoft_logo_text:"Microsoft"},document.title=window.I18NBUNDLE.hdr_launch_title||"Join
   conversation";var LAUNCHER_VERSION="2025110702",__webpack_public_path__="https://statics.teams.cdn.office.net";try{var
-  SERVER_PARAMS={"featureFlags":{"enable2025BrandIcons":true,"enable2025OpenGraphIcon":true,"disableShareToTeamsFromOutlookStandalone":true,"enableLimeRedirectFromWebjoin":true,"enableLimeRedirectForMeetingId":true,"lightMeetingsBuildVersion":"25100213804","enableJoinLauncherCSPv2":true,"lightMeetingsWebBuildVersion":"25111315502","shouldGetAppliedMeetingBrandingTheme":true,"enableJoinLauncherCSP":true,"enableOrganizationPrivacyStatement":true,"fetchOrganizationPrivacyStatementTimeout":2000,"enableBrandingFetchWithMeetingId":true,"ignoreBrandingTimeout":true,"enableT21McasForTenant":["c5784bd0-ef66-49eb-aecd-67ea7838cd98","2596038f-3ea4-4f0c-aed1-066eb6544c3b"],"enableLightMeetingsHostnameFromUrl":true,"enableLimeRedirectForFirefox":false,"enableLimeRedirectForSafari":false,"disabledT21WebRedirectTenantIds":[],"enableOpenGraphMeta":true,"openGraphSupportedLinkTypes":["community","invite","meet"],"enableDesktopContextualInstaller":true,"enableiOSJoinLancherPage":true,"reportUserRepeatTelemetry":true,"enableFQDN":true,"enableDownloadsPageV3":true,"enableT21WebRedirect":true,"enableUIv2":true,"enableMobileUIv2":true,"enableFreemiumMeetings":true,"enableShareEmailUI":true,"enableBroadcastAttendeeConveneJoin":true,"disableContinueButtonOnMSIE":true,"showiOSSmartBannerOnFirstLaunch":true,"suppressPromptForMobileSafari":false,"enableMobileCopyLinkToClipboard":true,"enableCopyMeetingToClipboard":true,"brandingWithImages":true,"enablePDSRedirect":true,"enableT21WebRedirectSafari":true,"enableT21WebRedirectFirefox":true,"enableSkipLauncherDuringFreemiumSignUp":true,"launcherV2Version":"2025110702"},"requestContext":{"sessionId":"fa6c0c92ad14e677228d7b9a97ddbca6"},"ring":"general","environment":"prod","anonymous":true}}catch(o){}var
   STATICS_PATH="https://statics.teams.cdn.office.net",ASSETS_PREFIX="hashedassets-launcher"var
   isModernBrowser="fetch"in window&&"assign"in Object&&"Set"in window,scriptErrorLogs=[];"globalThis"in
   window||(window.globalThis=window),isModernBrowser||(window.location.href="https://www.microsoft.com/en-us/microsoft-teams/download-app"),window.addEventListener("error",(function(o,r,i,n,s){scriptErrorLogs.push({message:o,source:r,line:i,col:n,error:s})}))
+published: false
 source: University of Washington
-source_url: https://teams.microsoft.com/dl/launcher/launcher.html?deeplinkId=9db8f88d-8ed3-45bb-a0bc-19ac647ab3a6&directDl=true&enableMobilePage=true&msLaunch=true&type=team&url=%2F_%23%2Fl%2Fteam%2F19%3ABPhZsY-3DlNFd-TZ1X6-vEJrdb1TlpTpUXlVBJdARjo1%40thread.tacv2%2Fconversations%3FgroupId%3Da79487d1-042d-4c5d-8b8b-4f310941e964%26tenantId%3Df6b6dd5b-f02f-441a-99a0-162ac5060bd2
+source_url: https://teams.microsoft.com/dl/launcher/launcher.html?deeplinkId=54621dd6-9987-4822-b073-54f7a546d173&directDl=true&enableMobilePage=true&msLaunch=true&type=team&url=%2F_%23%2Fl%2Fteam%2F19%3ABPhZsY-3DlNFd-TZ1X6-vEJrdb1TlpTpUXlVBJdARjo1%40thread.tacv2%2Fconversations%3FgroupId%3Da79487d1-042d-4c5d-8b8b-4f310941e964%26tenantId%3Df6b6dd5b-f02f-441a-99a0-162ac5060bd2
 start_date: '2025-12-11T09:00:00-08:00'
 summarized: true
 title: Morning mindfulness practice (20 mins)
-topics:
-- Mental Health & Counseling
+topics: []
 ---
 
-Join the Morning Mindfulness Practice on Dec. 11, 2025, at 9 a.m. This 20-minute session offers attendees a chance to engage in guided mindfulness exercises designed to promote relaxation and mental clarity. Participants can expect to learn techniques that can be easily integrated into their daily routines. The event will take place online via Microsoft Teams, making it accessible from the comfort of your home or office. Don’t miss this opportunity to start your day with intention and focus.
+Join the Morning Mindfulness Practice on Dec. 11, 2025, from 9 to 9:20 a.m. This 20-minute session is designed to help participants cultivate a sense of calm and focus to start their day. Attendees can expect guided meditation and breathing exercises aimed at enhancing mental clarity and reducing stress. This event will take place at a designated community location, providing a tranquil space for relaxation and self-reflection. Whether you're new to mindfulness or looking to deepen your practice, this session offers a welcoming environment for all levels.
