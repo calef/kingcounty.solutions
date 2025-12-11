@@ -163,7 +163,7 @@ module Mayhem
           return result[:summary] if result
           return nil
         end
-        
+
         prompt = <<~PROMPT
           Summarize the following article in 200 words or less in Markdown format for a news aggregator blog, adhering to The Associated Press Stylebook.
 
@@ -176,7 +176,8 @@ module Mayhem
             4. Focus only on the provided text (do not mention if the content was truncated).
             5. Always write the summary in English, even if the source material uses another language.
             6. Do not include any headings or code blocks.
-            7. Do not write that the article says something, just write what the article says. Do not write "The article discusses..." or "The article outlines...". Do write a summary of the article content.
+            7. Do not write that the article says something, just write what the article says. \
+Do not write "The article discusses..." or "The article outlines...". Do write a summary of the article content.
             8. Use clear language no more complex than a 10th grade reading level.
 
           ARTICLE CONTENT:
@@ -222,7 +223,8 @@ module Mayhem
         if locations.empty?
           locations = [{
             'name' => 'King County, Washington',
-            'description' => 'King County, Washington includes cities such as Seattle, Bellevue, Renton, Kent, Auburn, Federal Way, and many others in the greater Seattle metropolitan area.'
+            'description' => 'King County, Washington includes cities such as Seattle, Bellevue, Renton, ' \
+                             'Kent, Auburn, Federal Way, and many others in the greater Seattle metropolitan area.'
           }]
         end
 
@@ -230,7 +232,7 @@ module Mayhem
 
         prompt = <<~PROMPT
           You are tasked with two things:
-          
+
           1. Summarize the following article in 200 words or less in Markdown format for a news aggregator blog, adhering to The Associated Press Stylebook.
           2. Determine if this content is relevant to an audience in: #{location_names}
 
@@ -267,13 +269,17 @@ module Mayhem
               parameters: {
                 model: DEFAULT_MODEL,
                 messages: [
-                  { role: 'system', content: 'You are a helpful assistant who writes summaries following The Associated Press Stylebook and evaluates location relevance.' },
+                  {
+                    role: 'system',
+                    content: 'You are a helpful assistant who writes summaries following The Associated Press Stylebook ' \
+                             'and evaluates location relevance.'
+                  },
                   { role: 'user', content: prompt }
                 ],
                 temperature: 0.7
               }
             )
-            
+
             if (error_message = response.dig('error', 'message'))
               @logger.warn "OpenAI error for #{file_path}: #{error_message}"
               break
@@ -286,7 +292,7 @@ module Mayhem
             if content =~ /LOCATION_RELEVANT:\s*(yes|no)/i
               is_relevant = $1.downcase == 'yes'
               summary = content.sub(/LOCATION_RELEVANT:\s*(?:yes|no)\s*SUMMARY:\s*/i, '').strip
-              
+
               return { summary: summary, location_relevant: is_relevant }
             else
               # Fallback: if format not followed, assume relevant and use full content as summary

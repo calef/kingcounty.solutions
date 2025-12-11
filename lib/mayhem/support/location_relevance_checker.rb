@@ -98,13 +98,14 @@ module Mayhem
 
       def build_prompt(title:, content:, location:)
         location_info = location.to_s.strip.empty? ? '' : "\nLocation: #{location}"
-        
+
         locations = @config.dig('location_relevance', 'locations') || []
         if locations.empty?
           # Fallback to hardcoded King County if no config
           locations = [{
             'name' => 'King County, Washington',
-            'description' => 'King County, Washington includes cities such as Seattle, Bellevue, Renton, Kent, Auburn, Federal Way, and many others in the greater Seattle metropolitan area.'
+            'description' => 'King County, Washington includes cities such as Seattle, Bellevue, Renton, ' \
+                             'Kent, Auburn, Federal Way, and many others in the greater Seattle metropolitan area.'
           }]
         end
 

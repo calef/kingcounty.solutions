@@ -27,15 +27,15 @@ module Mayhem
 
       def run
         @logger.info 'Starting location relevance backfill...'
-        
+
         posts_stats = process_posts
         events_stats = process_events
-        
+
         total_updated = posts_stats[:updated] + events_stats[:updated]
         total_marked_irrelevant = posts_stats[:marked_irrelevant] + events_stats[:marked_irrelevant]
-        
+
         @logger.info "Backfill complete: #{total_updated} files updated, #{total_marked_irrelevant} marked as not location relevant"
-        
+
         { posts: posts_stats, events: events_stats }
       end
 
@@ -43,22 +43,22 @@ module Mayhem
 
       def process_posts
         stats = Hash.new(0)
-        
+
         Dir.glob(File.join(@posts_dir, '*.md')).each do |file_path|
           process_post(file_path, stats)
         end
-        
+
         @logger.info "Posts processed: #{stats[:checked]} checked, #{stats[:updated]} updated, #{stats[:marked_irrelevant]} marked irrelevant"
         stats
       end
 
       def process_events
         stats = Hash.new(0)
-        
+
         Dir.glob(File.join(@events_dir, '*.md')).each do |file_path|
           process_event(file_path, stats)
         end
-        
+
         @logger.info "Events processed: #{stats[:checked]} checked, #{stats[:updated]} updated, #{stats[:marked_irrelevant]} marked irrelevant"
         stats
       end
@@ -68,13 +68,13 @@ module Mayhem
         return unless document
 
         front_matter = document.front_matter
-        
+
         # Skip if locked or already has location_relevant metadata
         if front_matter['locked'] == true
           stats[:skipped_locked] += 1
           return
         end
-        
+
         if front_matter.key?('location_relevant')
           stats[:skipped_already_checked] += 1
           return
@@ -83,23 +83,23 @@ module Mayhem
         # Extract content for checking
         title = front_matter['title'] || ''
         content = front_matter['original_markdown_body'] || document.body || ''
-        
+
         stats[:checked] += 1
         is_relevant = @location_checker.relevant?(title: title, content: content)
-        
+
         # Add location_relevant metadata
         front_matter['location_relevant'] = is_relevant
-        
+
         # Mark as unpublished if not relevant
         unless is_relevant
           front_matter['published'] = false
           stats[:marked_irrelevant] += 1
         end
-        
+
         document.front_matter = front_matter
         document.save
         stats[:updated] += 1
-        
+
         @logger.debug "Updated #{file_path}: location_relevant=#{is_relevant}"
       rescue StandardError => e
         stats[:errors] += 1
@@ -111,13 +111,13 @@ module Mayhem
         return unless document
 
         front_matter = document.front_matter
-        
+
         # Skip if locked or already has location_relevant metadata
         if front_matter['locked'] == true
           stats[:skipped_locked] += 1
           return
         end
-        
+
         if front_matter.key?('location_relevant')
           stats[:skipped_already_checked] += 1
           return
@@ -127,23 +127,23 @@ module Mayhem
         title = front_matter['title'] || ''
         location = front_matter['location'] || ''
         content = front_matter['original_markdown_body'] || document.body || ''
-        
+
         stats[:checked] += 1
         is_relevant = @location_checker.relevant?(title: title, content: content, location: location)
-        
+
         # Add location_relevant metadata
         front_matter['location_relevant'] = is_relevant
-        
+
         # Mark as unpublished if not relevant
         unless is_relevant
           front_matter['published'] = false
           stats[:marked_irrelevant] += 1
         end
-        
+
         document.front_matter = front_matter
         document.save
         stats[:updated] += 1
-        
+
         @logger.debug "Updated #{file_path}: location_relevant=#{is_relevant}"
       rescue StandardError => e
         stats[:errors] += 1

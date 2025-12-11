@@ -266,10 +266,10 @@ module Mayhem
           'location' => location,
           'source_url' => canonical_url
         }
-        
+
         # Mark as unpublished if not location relevant
         front_matter['published'] = false unless is_relevant
-        
+
         unless normalized_description.to_s.strip.empty?
           front_matter['original_content'] = normalized_description
           front_matter['original_content_checksum'] = checksum

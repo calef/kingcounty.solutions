@@ -271,7 +271,7 @@ module Mayhem
           'original_content' => normalized_html,
           'original_content_checksum' => checksum
         }
-        
+
         # Mark as unpublished if not location relevant
         frontmatter['published'] = false unless is_relevant
         document = Mayhem::Support::FrontMatterDocument.new(
