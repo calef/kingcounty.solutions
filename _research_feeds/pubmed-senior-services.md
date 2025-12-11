@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- United States
 news_rss_url: https://pubmed.ncbi.nlm.nih.gov/rss/search/1-ePM6TuRYD7KJUsUNFCp1xQlWZzZRkYs-CHCtpHkEIiuTWsVS/?limit=100&utm_campaign=pubmed-2&fc=20251206234725
 parent_organization: PubMed
 title: Senior Services PubMed

@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- United States
 news_rss_url: https://pubmed.ncbi.nlm.nih.gov/rss/search/1vgA1aT01vjlwAnSebxROhF0WqJ2_1zbo0pDkDB5ZbuonJesGU/?limit=100&utm_campaign=pubmed-2&fc=20251206170951
 parent_organization: PubMed
 title: Childcare PubMed

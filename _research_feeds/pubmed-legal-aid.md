@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- United States
 news_rss_url: https://pubmed.ncbi.nlm.nih.gov/rss/search/1vic32dnWqLZVLZFfWYinIDiDGL7M0ZSpyFWVarpf6p6W-D9Jn/?limit=15&utm_campaign=pubmed-2&fc=20251206232009
 parent_organization: PubMed
 title: Legal Aid PubMed

@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- United States
 news_rss_url: https://pubmed.ncbi.nlm.nih.gov/rss/search/1heYxdJdZqm2g8mjbc8VNpLPGl0EeJJoGcNm4UI2jL5keSSs2T/?limit=100&utm_campaign=pubmed-2&fc=20251206215731
 parent_organization: PubMed
 title: Mental Health and Counseling PubMed
