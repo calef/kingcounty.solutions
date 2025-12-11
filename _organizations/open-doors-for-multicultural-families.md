@@ -1,8 +1,6 @@
 ---
 acronym: ODMF
 email: info@opendoorsWA.org
-jurisdictions:
-- King County
 phone: "(253) 216-4479"
 title: Open Doors for Multicultural Families
 topics:

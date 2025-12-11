@@ -1,8 +1,6 @@
 ---
 acronym: RP
 address: '2100 24th Ave S #2C, Seattle, WA 98144'
-jurisdictions:
-- Seattle
 news_rss_url: https://readingpartners.org/feed/
 phone: 206-992-4484
 title: Reading Partners Seattle

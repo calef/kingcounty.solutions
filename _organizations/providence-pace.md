@@ -1,7 +1,5 @@
 ---
 acronym: PACE
-jurisdictions:
-- Washington State
 parent_organization: Providence
 title: Providence PACE
 topics:

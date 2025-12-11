@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- Kirkland
 parent_organization: City of Kirkland
 title: City of Kirkland Human Services Division
 topics:

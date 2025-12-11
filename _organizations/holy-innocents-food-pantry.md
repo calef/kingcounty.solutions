@@ -1,8 +1,6 @@
 ---
 address: 26526 NE Cherry Valley Road, Duvall, WA 98019
 email: pantry@holyinn.org
-jurisdictions:
-- Duvall
 news_rss_url: https://www.holyinn.org/feed/rss2
 phone: 425-788-1400
 title: Holy Innocents Food Pantry

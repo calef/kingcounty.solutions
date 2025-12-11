@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- King County
 news_rss_url: https://kingcountyschoolhealthdotcom.wordpress.com/feed/
 title: King County School Health
 topics:

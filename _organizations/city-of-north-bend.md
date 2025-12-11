@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- North Bend
 title: City of North Bend
 type: City
 website: https://northbendwa.gov/

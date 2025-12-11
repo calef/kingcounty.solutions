@@ -2,8 +2,6 @@
 acronym: OPAL
 address: 1100 NE 45th Street Suite 600, Seattle, WA 98105
 email: info@opalfoodandbody.com
-jurisdictions:
-- King County
 news_rss_url: https://opalfoodandbody.com/feed/
 phone: "(206) 926-9087"
 title: 'Opal: Food + Body Wisdom'

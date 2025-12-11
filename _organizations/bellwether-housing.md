@@ -1,8 +1,5 @@
 ---
 acronym: BH
-jurisdictions:
-- King County
-- Seattle
 news_rss_url: https://www.bellwetherhousing.org/blog-feed.xml
 title: Bellwether Housing
 topics:

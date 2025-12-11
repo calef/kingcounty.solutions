@@ -1,7 +1,5 @@
 ---
 acronym: ACL
-jurisdictions:
-- United States
 parent_organization: Department of Social and Health Services
 title: Administration for Community Living
 topics:

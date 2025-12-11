@@ -2,8 +2,6 @@
 address: 720 2nd Ave, Seattle, WA 98104
 email: customerservice@uwkc.org
 events_ical_url: https://www.uwkc.org/events/?ical=1
-jurisdictions:
-- King County
 news_rss_url: https://www.uwkc.org/feed/
 phone: 206-461-3700
 title: United Way of King County

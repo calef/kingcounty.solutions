@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- Seattle
 title: Community Lunch on Capitol Hill
 topics:
 - Food & Nutrition

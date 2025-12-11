@@ -3,8 +3,6 @@ acronym: PNA
 address: 6532 Phinney Ave N, Seattle, WA 98103
 email: pna@phinneycenter.org
 events_ical_url: https://www.phinneycenter.org/eventscal/?ical=1
-jurisdictions:
-- Seattle
 news_rss_url: https://www.phinneycenter.org/feed/
 phone: 206-783-2244
 title: Phinney Neighborhood Association

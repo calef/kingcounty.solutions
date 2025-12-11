@@ -1,8 +1,5 @@
 ---
 acronym: LIHI
-jurisdictions:
-- Washington State
-- Seattle
 news_rss_url: https://www.lihihousing.org/blog-feed.xml
 title: Low Income Housing Institute
 topics:

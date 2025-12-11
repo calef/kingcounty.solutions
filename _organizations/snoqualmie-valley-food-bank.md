@@ -1,7 +1,5 @@
 ---
 address: 122 East 3rd Street, North Bend, WA 98045
-jurisdictions:
-- Snoqualmie Valley
 news_rss_url: https://www.snoqualmievalleyfoodbank.org/blog-feed.xml
 phone: 425-888-7832
 title: Snoqualmie Valley Food Bank

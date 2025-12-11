@@ -1,9 +1,5 @@
 ---
 address: '1511 3rd Avenue, Suite # 701, Seattle, WA 98101'
-jurisdictions:
-- Seattle
-- Kent
-- Tukwila
 phone: "(206) 443-9999"
 title: TRAC Associates
 topics:

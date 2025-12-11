@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- King County
 news_rss_url: https://reopp.org/feed/
 title: Reconnect to Opportunity
 topics:

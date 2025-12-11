@@ -1,9 +1,6 @@
 ---
 address: 700 5th Ave, Suite 5800, Seattle, WA, 98104
 email: HSD_Info@seattle.gov
-jurisdictions:
-- Seattle
-- King County
 news_rss_url: https://humaninterests.seattle.gov/feed/
 parent_organization: City of Seattle
 phone: "(206) 386-1001"

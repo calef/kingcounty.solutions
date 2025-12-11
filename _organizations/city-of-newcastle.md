@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- Newcastle
 title: City of Newcastle
 type: City
 website: https://www.newcastlewa.gov/

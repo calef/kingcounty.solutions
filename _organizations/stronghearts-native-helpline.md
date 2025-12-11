@@ -1,7 +1,5 @@
 ---
 acronym: SHNH
-jurisdictions:
-- United States
 phone: 1-844-762-8483
 title: StrongHearts Native Helpline
 topics:

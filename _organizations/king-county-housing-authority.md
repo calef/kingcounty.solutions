@@ -2,34 +2,6 @@
 acronym: KCHA
 address: 600 Andover Park W, Tukwila, WA 98188
 email: mtw@kcha.org
-jurisdictions:
-- King County
-- Tukwila
-- Seattle
-- Bellevue
-- Auburn
-- Redmond
-- Kent
-- Federal Way
-- Burien
-- Issaquah
-- Renton
-- Sammamish
-- SeaTac
-- Woodinville
-- Mercer Island
-- North Bend
-- Covington
-- Des Moines
-- Maple Valley
-- Kirkland
-- Enumclaw
-- Milton
-- Newcastle
-- Normandy Park
-- Black Diamond
-- Carnation
-- Duvall
 parent_organization: King County
 phone: "(206) 574-1100"
 title: King County Housing Authority

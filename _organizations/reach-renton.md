@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- Renton
 title: REACH Renton
 topics:
 - Food & Nutrition

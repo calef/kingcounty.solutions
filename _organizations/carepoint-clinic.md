@@ -2,8 +2,6 @@
 acronym: CPC
 address: 36017 SE Fish Hatchery Rd, Fall City, WA 98024
 email: info@carepointonline.org
-jurisdictions:
-- Snoqualmie Valley
 news_rss_url: https://www.carepointonline.org/news?format=rss
 phone: 425-478-6627
 title: CarePoint Clinic

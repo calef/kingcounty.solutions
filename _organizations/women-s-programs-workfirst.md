@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- Des Moines
 parent_organization: Highline College
 title: Women's Programs & WorkFirst
 topics:

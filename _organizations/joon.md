@@ -1,7 +1,5 @@
 ---
 email: hello@joon.com
-jurisdictions:
-- Seattle
 phone: 425-600-6425
 title: Joon
 topics:

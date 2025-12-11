@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- King County
 parent_organization: Hopelink
 phone: 1-800-923-7433
 title: MyRideOnline Transportation Brokerage

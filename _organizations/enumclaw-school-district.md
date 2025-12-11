@@ -2,8 +2,6 @@
 acronym: ESD
 address: 2929 McDougall Ave, Enumclaw, WA 98022
 email: info@enumclaw.wednet.edu
-jurisdictions:
-- Enumclaw
 parent_organization: Puget Sound Educational Service District 121
 phone: 360-802-7100
 title: Enumclaw School District

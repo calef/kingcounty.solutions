@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- King County
 news_rss_url: https://cpsn.org/feed/
 phone: 888-468-2620
 title: Changes Parent Support Network

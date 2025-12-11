@@ -1,7 +1,7 @@
 # Repository Guidelines
 
 ## Project Structure & Module Organization
-- Jekyll sources live at the repo root; `_layouts`, `_includes`, and `_sass` control shared markup. Collections are in `_organizations`, `_places`, and `_topics`, while `_posts` holds imported news.
+- Jekyll sources live at the repo root; `_layouts`, `_includes`, and `_sass` control shared markup. Collections are in `_organizations`, `_locations`, and `_topics`, while `_posts` holds imported news.
 - Assets are under `assets/` (CSS/JS, favicons), and generated output lands in `_site/` (ignored by Git).
 - Utility scripts in `bin/` and `script/` automate importing RSS feeds, updating schemas, and ensuring toolchains; read each script’s header before running.
 
@@ -12,7 +12,7 @@
 
 ## Coding Style & Naming Conventions
 - Use two spaces for indentation in Liquid templates, Markdown front matter, and Ruby scripts. Keep YAML keys lowercase with snake_case (e.g., `parent_place`).
-- When adding pages, name files with kebab-case (e.g., `places.md`) and keep collection documents singular (`title: Auburn`, filename `auburn.md`).
+- When adding pages, name files with kebab-case (e.g., `locations.md`) and keep collection documents singular (`title: Auburn`, filename `auburn.md`).
 - Prefer the existing inline-comment style: concise and only when necessary to explain non-obvious logic.
 
 ## Testing Guidelines
@@ -20,7 +20,7 @@
 - For scripts, add minimal smoke tests (e.g., run with `--help` or dry-run flags) if modifying behavior. No dedicated test framework is configured.
 
 ## Commit & Pull Request Guidelines
-- Follow imperative, concise commit messages (`Add places hierarchy layout`, `Fix RSS importer skip logic`).
+- Follow imperative, concise commit messages (`Add locations hierarchy layout`, `Fix RSS importer skip logic`).
 - PRs should describe what changed, why, and how to verify (commands run, screenshots for UI tweaks). Link related issues and note any follow-up work or manual steps required.
 - Keep diffs focused; split refactors from feature work when practical, and ensure `_site/` artifacts or local caches are never committed.
 

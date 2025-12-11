@@ -1,8 +1,6 @@
 ---
 email: info@mothernation.org
 events_ical_url: https://mothernation.org/events/?ical=1
-jurisdictions:
-- King County
 news_rss_url: https://mothernation.org/feed/
 title: Mother Nation
 topics:

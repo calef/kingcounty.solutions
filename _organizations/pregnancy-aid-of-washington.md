@@ -1,7 +1,5 @@
 ---
 acronym: PAW
-jurisdictions:
-- King County
 title: Pregnancy Aid of Washington
 topics:
 - Personal & Household Needs

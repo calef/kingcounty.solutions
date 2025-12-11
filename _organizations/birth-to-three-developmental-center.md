@@ -1,7 +1,5 @@
 ---
 acronym: BTT
-jurisdictions:
-- South King County
 news_rss_url: https://birthtothree.org/feed/
 title: Birth to Three Developmental Center
 topics:

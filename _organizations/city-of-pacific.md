@@ -1,7 +1,5 @@
 ---
 address: 100 3rd Ave SE, Pacific, WA 98047
-jurisdictions:
-- King County
 phone: 253-929-1100
 title: City of Pacific
 type: City

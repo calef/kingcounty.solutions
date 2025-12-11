@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- Bothell
 title: City of Bothell
 topics:
 - Shelter & Housing

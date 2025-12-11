@@ -1,7 +1,5 @@
 ---
 events_ical_url: https://empoweryouthnetwork.org/events/?ical=1
-jurisdictions:
-- Eastside
 news_rss_url: https://empoweryouthnetwork.org/feed/
 title: Empower Youth Network
 topics:

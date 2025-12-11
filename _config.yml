@@ -31,9 +31,8 @@ collections:
   organizations:
     output: true
     permalink: /organizations/:name/
-  places:
-    output: true
-    permalink: /places/:name/
+  locations:
+    output: false
   topics:
     output: true
     permalink: /topics/:name/
@@ -53,11 +52,6 @@ defaults:
       type: "organizations"
     values:
       layout: "organization"
-  - scope:
-      path: "_places"
-      type: "places"
-    values:
-      layout: "place"
   - scope:
         path: "_posts"
         type: "posts"

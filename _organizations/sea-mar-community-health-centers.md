@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- King County
 title: Sea Mar Community Health Centers
 topics:
 - Health Care

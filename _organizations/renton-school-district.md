@@ -1,7 +1,5 @@
 ---
 acronym: RSD
-jurisdictions:
-- Renton
 parent_organization: Puget Sound Educational Service District 121
 title: Renton School District
 topics:

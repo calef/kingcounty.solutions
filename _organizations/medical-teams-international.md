@@ -1,8 +1,6 @@
 ---
 address: 14150 SW Milton Court, Tigard, OR 97224, USA
 email: info@medicalteams.org
-jurisdictions:
-- United States
 phone: "(503) 624-1000"
 title: Medical Teams International
 topics:

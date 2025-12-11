@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- Washington State
 parent_organization: State Executive Branch
 title: Office of Equity
 topics:

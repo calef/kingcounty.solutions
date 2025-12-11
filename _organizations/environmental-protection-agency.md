@@ -1,7 +1,5 @@
 ---
 acronym: EPA
-jurisdictions:
-- United States
 parent_organization: Federal Executive Branch
 title: Environmental Protection Agency
 topics:

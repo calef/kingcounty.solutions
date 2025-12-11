@@ -1,8 +1,6 @@
 ---
 address: 1005 Terrace Street, Seattle, WA 98104
 email: info@hilltop-house.org
-jurisdictions:
-- King County
 news_rss_url: https://hilltop-house.org/feed/
 phone: 206-624-5704
 title: Hilltop

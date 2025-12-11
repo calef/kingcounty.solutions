@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- Washington State
 news_rss_url: https://wsdot.wa.gov/about/news-rss.xml
 parent_organization: State Executive Branch
 title: Washington State Department of Transportation

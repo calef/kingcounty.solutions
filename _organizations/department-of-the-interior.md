@@ -1,7 +1,5 @@
 ---
 acronym: DOI
-jurisdictions:
-- United States
 news_rss_url: https://www.doi.gov/feeds/content/36980/rss.xml
 parent_organization: Federal Executive Branch
 title: Department of the Interior

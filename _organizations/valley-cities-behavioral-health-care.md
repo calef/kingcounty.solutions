@@ -1,7 +1,5 @@
 ---
 acronym: VC
-jurisdictions:
-- King County
 news_rss_url: https://valleycities.org/feed/
 phone: "(253) 833-7444"
 title: Valley Cities Behavioral Health Care

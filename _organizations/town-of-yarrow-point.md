@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- Yarrow Point
 news_rss_url: https://yarrowpointwa.gov/feed/
 title: Town of Yarrow Point
 type: Town

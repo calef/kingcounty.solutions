@@ -1,7 +1,5 @@
 ---
 address: 722 18th Avenue, Seattle, WA 98122
-jurisdictions:
-- Seattle
 parent_organization: Byrd Barr Place
 phone: 206-812-4940
 title: Byrd Barr Place Food Bank

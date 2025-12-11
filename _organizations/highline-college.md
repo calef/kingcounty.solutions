@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- King County
 news_rss_url: https://humanresources.highline.edu/feed/
 phone: 206-592-3000
 title: Highline College

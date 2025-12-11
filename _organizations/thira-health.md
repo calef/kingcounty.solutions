@@ -1,7 +1,5 @@
 ---
 acronym: THIRA
-jurisdictions:
-- King County
 news_rss_url: https://thirahealth.com/feed/
 phone: 425.620.4266
 title: THIRA Health

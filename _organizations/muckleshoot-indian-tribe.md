@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- King County
 title: Muckleshoot Indian Tribe
 topics:
 - Shelter & Housing

@@ -3,9 +3,6 @@ acronym: CISC
 address: 611 S Lane St., Seattle, WA 98104
 email: info@cisc-seattle.org
 events_ical_url: https://cisc-seattle.org/events/?ical=1
-jurisdictions:
-- Seattle
-- Eastside
 news_rss_url: https://cisc-seattle.org/feed
 phone: 206-624-5633
 title: Chinese Information & Service Center

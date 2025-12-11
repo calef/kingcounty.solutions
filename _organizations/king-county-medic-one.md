@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- King County
 title: King County Medic One
 topics:
 - Health Care

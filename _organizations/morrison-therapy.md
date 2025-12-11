@@ -1,7 +1,5 @@
 ---
 email: jeffrey@morrisontherapy.com
-jurisdictions:
-- King County
 news_rss_url: https://morrisontherapy.com/feed/
 phone: 206-935-7850
 title: Morrison Therapy

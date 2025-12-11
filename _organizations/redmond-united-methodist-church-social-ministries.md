@@ -1,8 +1,6 @@
 ---
 address: 16540 NE 80th St, Redmond, WA 98052
 email: rumc@redmondumc.org
-jurisdictions:
-- Eastside
 news_rss_url: https://redmondumc.org/feed/
 phone: 425-883-7553
 title: Redmond United Methodist Church - Social Ministries

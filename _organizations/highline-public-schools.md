@@ -1,11 +1,5 @@
 ---
 acronym: HPS
-jurisdictions:
-- Burien
-- Des Moines
-- SeaTac
-- Boulevard Park
-- Normandy Park
 parent_organization: Puget Sound Educational Service District 121
 title: Highline Public Schools
 topics:

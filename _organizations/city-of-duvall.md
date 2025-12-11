@@ -1,7 +1,5 @@
 ---
 events_ical_url: https://www.duvallwa.gov/common/modules/iCalendar/iCalendar.aspx?feed=calendar&eventID=7103
-jurisdictions:
-- Duvall
 title: City of Duvall
 topics: []
 type: City

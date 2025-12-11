@@ -1,9 +1,6 @@
 ---
 address: 600 5th Avenue, 2nd Floor, Room 235, Seattle, WA 98104
 email: smc_publicsvcs@seattle.gov
-jurisdictions:
-- Seattle
-- King County
 phone: 206-684-9291
 title: Community Resource Center
 topics:

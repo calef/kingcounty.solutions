@@ -1,7 +1,5 @@
 ---
 acronym: OCLA
-jurisdictions:
-- Washington State
 parent_organization: State Judicial Branch
 title: Office of Civil Legal Aid
 topics:

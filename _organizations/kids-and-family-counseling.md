@@ -1,9 +1,4 @@
 ---
-jurisdictions:
-- Eastside
-- Bellevue
-- Redmond
-- Duvall
 title: Kids And Family Counseling
 topics:
 - Mental Health & Counseling

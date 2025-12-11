@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- Kent
 title: City of Kent
 type: City
 website: https://www.kentwa.gov/

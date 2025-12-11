@@ -1,8 +1,5 @@
 ---
 address: 14434 Ambaum Blvd SW Suite 5, Burien, WA 98166
-jurisdictions:
-- Burien
-- King County
 parent_organization: Sea Mar Community Health Centers
 phone: 206.812.6140
 title: Sea Mar Community Health Centers - Burien Medical Clinic

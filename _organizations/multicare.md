@@ -1,7 +1,5 @@
 ---
 acronym: MC
-jurisdictions:
-- Washington State
 news_rss_url: https://www.multicare.org/feed/
 title: MultiCare
 topics:

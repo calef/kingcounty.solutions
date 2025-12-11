@@ -2,8 +2,6 @@
 acronym: KYP
 address: PO Box 28058, Seattle, WA 98118
 email: info@kandelia.org
-jurisdictions:
-- Seattle
 news_rss_url: https://www.kandelia.org/feed/
 phone: 206-760-1573
 title: Kandelia Youth Programs

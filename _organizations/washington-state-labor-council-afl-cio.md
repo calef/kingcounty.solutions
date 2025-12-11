@@ -1,7 +1,5 @@
 ---
 acronym: WSLC
-jurisdictions:
-- King County
 news_rss_url: https://wslc.org/feed/
 phone: 206-281-8901
 title: Washington State Labor Council, AFL-CIO

@@ -1,7 +1,5 @@
 ---
 address: 801 Second Avenue, Suite 1108, Seattle, WA 98104
-jurisdictions:
-- Seattle
 phone: 206 652 8783
 title: The Medina Foundation
 topics:

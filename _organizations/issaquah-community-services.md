@@ -1,12 +1,5 @@
 ---
 acronym: ICS
-jurisdictions:
-- Issaquah
-- Sammamish
-- Newcastle
-- Renton
-- Bellevue
-- Maple Valley
 news_rss_url: https://www.issaquahcommunityservices.org/feed/
 title: Issaquah Community Services
 topics:

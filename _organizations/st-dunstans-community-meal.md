@@ -1,7 +1,5 @@
 ---
 email: office@sdchp.org
-jurisdictions:
-- King County
 news_rss_url: https://www.sdchp.org/feed/
 phone: 206-363-4319
 title: St. Dunstan’s Community Meal

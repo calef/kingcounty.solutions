@@ -1,10 +1,6 @@
 ---
 acronym: ELAP
 address: 10885 NE 4th St., Ste 710 (7th Floor), Bellevue, WA 98004
-jurisdictions:
-- Eastside
-- North King County
-- South King County
 news_rss_url: https://elap.org/feed/
 title: Eastside Legal Assistance Program
 topics:

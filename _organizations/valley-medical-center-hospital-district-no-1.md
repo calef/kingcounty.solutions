@@ -1,8 +1,4 @@
 ---
-jurisdictions:
-- Kent
-- Renton
-- Tukwila
 news_rss_url: https://blog.valleymed.org/feed/
 title: Hospital District No. 1 (Valley Medical Center)
 topics:

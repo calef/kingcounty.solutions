@@ -1,7 +1,5 @@
 ---
 email: development@rewa.org
-jurisdictions:
-- King County
 news_rss_url: https://www.rewa.org/feed/
 phone: 206-793-2445
 title: Refugee Women's Alliance

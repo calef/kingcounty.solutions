@@ -1,7 +1,5 @@
 ---
 address: 4851 Tolt Avenue, Carnation, WA 98014
-jurisdictions:
-- Carnation
 news_rss_url: https://toltucc.org/feed/
 parent_organization: Tolt Congregational United Church of Christ
 title: Tolt Congregational UCC Food Program

@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- Washington State
 news_rss_url: https://www.lifewire.org/feed/
 title: LifeWire
 topics:

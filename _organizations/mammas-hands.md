@@ -1,7 +1,5 @@
 ---
 events_ical_url: https://mammashands.org/events/?ical=1
-jurisdictions:
-- Seattle
 news_rss_url: https://mammashands.org/feed/
 title: Mamma's Hands
 topics:

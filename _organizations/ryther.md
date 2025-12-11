@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- Seattle
 news_rss_url: https://www.ryther.org/blog-feed.xml
 title: Ryther
 topics:

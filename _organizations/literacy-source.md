@@ -1,7 +1,4 @@
 ---
-jurisdictions:
-- King County
-- Seattle
 title: Literacy Source
 topics:
 - Education & Learning

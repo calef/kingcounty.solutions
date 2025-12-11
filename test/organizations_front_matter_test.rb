@@ -10,7 +10,6 @@ class OrganizationsFrontMatterTest < Minitest::Test
     address
     email
     events_ical_url
-    jurisdictions
     news_rss_url
     parent_organization
     phone
@@ -68,7 +67,7 @@ class OrganizationsFrontMatterTest < Minitest::Test
   def setup
     @organizations = load_documents('_organizations/*.md')
     @organization_titles = @organizations.map { |doc| doc[:data]['title'] }.compact
-    @places = load_titles('_places/*.md')
+    @locations = load_titles('_locations/*.md')
     @topics = load_titles('_topics/*.md')
   end
 
@@ -339,7 +338,7 @@ class OrganizationsFrontMatterTest < Minitest::Test
 
   private
 
-  attr_reader :organizations, :organization_titles, :places, :topics
+  attr_reader :organizations, :organization_titles, :locations, :topics
 
   def load_documents(glob)
     Dir[glob].map do |path|

@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- King County
 title: Artspace
 topics:
 - Shelter & Housing

@@ -1,7 +1,5 @@
 ---
 acronym: OHY
-jurisdictions:
-- Washington State
 news_rss_url: https://www.commerce.wa.gov/feed/
 parent_organization: Department of Commerce
 title: Office of Homeless Youth

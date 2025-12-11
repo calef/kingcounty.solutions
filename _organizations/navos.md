@@ -1,7 +1,5 @@
 ---
 email: ruth.tollefson@multicare.org
-jurisdictions:
-- King County
 parent_organization: MultiCare
 phone: 206-248-8226
 title: Navos

@@ -1,8 +1,4 @@
 ---
-jurisdictions:
-- Seattle
-- Bellevue
-- King County
 news_rss_url: https://agingwisdom.com/feed/
 title: Aging Wisdom
 topics:

@@ -1,7 +1,5 @@
 ---
 acronym: FWPS
-jurisdictions:
-- Federal Way
 parent_organization: Puget Sound Educational Service District 121
 title: Federal Way Public Schools
 topics:

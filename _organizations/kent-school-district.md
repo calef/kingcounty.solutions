@@ -1,7 +1,5 @@
 ---
 acronym: KSD
-jurisdictions:
-- Kent
 parent_organization: Puget Sound Educational Service District 121
 title: Kent School District
 topics:

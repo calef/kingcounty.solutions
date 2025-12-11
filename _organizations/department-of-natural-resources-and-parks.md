@@ -1,7 +1,5 @@
 ---
 acronym: DNRP
-jurisdictions:
-- King County
 parent_organization: King County
 title: Department of Natural Resources and Parks
 topics:

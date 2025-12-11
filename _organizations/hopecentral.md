@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- King County
 title: HopeCentral
 topics:
 - Health Care

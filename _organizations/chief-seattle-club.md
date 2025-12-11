@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- Seattle
 title: Chief Seattle Club
 topics:
 - Shelter & Housing

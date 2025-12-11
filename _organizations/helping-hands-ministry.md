@@ -1,8 +1,6 @@
 ---
 acronym: HHM
 email: info@helpsnovalley.org
-jurisdictions:
-- King County
 news_rss_url: https://helpsnovalley.org/feed/
 phone: "(925) 494-2637"
 title: Helping Hands Ministry

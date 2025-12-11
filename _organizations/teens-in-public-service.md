@@ -1,7 +1,5 @@
 ---
 acronym: TIPS
-jurisdictions:
-- King County
 news_rss_url: https://teensinpublicservice.org/tips-blog?format=rss
 title: Teens In Public Service
 topics:

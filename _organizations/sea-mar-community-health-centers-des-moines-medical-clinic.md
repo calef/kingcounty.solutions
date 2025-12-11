@@ -1,8 +1,5 @@
 ---
 address: 2781 S 242nd St, Des Moines, WA 98198
-jurisdictions:
-- Des Moines
-- King County
 parent_organization: Sea Mar Community Health Centers
 phone: 206.212.4500
 title: Sea Mar Community Health Centers - Des Moines Medical Clinic

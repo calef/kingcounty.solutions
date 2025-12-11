@@ -1,7 +1,5 @@
 ---
 acronym: OSPI
-jurisdictions:
-- Washington State
 parent_organization: State Executive Branch
 title: Office of Superintendent of Public Instruction
 topics:

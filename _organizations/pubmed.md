@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- United States
 parent_organization: National Center for Biotechnology Information
 title: PubMed
 topics:

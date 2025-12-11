@@ -1,7 +1,5 @@
 ---
 email: info@standtalloutreach.org
-jurisdictions:
-- Seattle
 news_rss_url:
 phone: 253-254-5685
 title: Stand Tall Outreach

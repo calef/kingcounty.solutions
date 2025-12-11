@@ -1,7 +1,5 @@
 ---
 acronym: MCBH
-jurisdictions:
-- King County
 parent_organization: MultiCare
 phone: 253-697-8400
 title: MultiCare Behavioral Health

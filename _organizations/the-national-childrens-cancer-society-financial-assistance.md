@@ -1,8 +1,6 @@
 ---
 acronym: NCCS
 events_ical_url: https://thenccs.org/eventstest/?ical=1
-jurisdictions:
-- United States
 news_rss_url: https://thenccs.org/category/scholars-in-action/feed/
 title: The National Children's Cancer Society - Financial Assistance
 topics:

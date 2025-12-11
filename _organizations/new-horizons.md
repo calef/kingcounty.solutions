@@ -1,7 +1,5 @@
 ---
 email: info@nhmin.org
-jurisdictions:
-- Seattle
 news_rss_url: https://nhmin.org/feed/
 phone: 206.374.0866
 title: New Horizons

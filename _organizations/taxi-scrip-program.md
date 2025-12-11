@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- King County
 title: Taxi Scrip Program
 topics:
 - Transportation & Mobility

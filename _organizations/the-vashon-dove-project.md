@@ -1,8 +1,6 @@
 ---
 address: P.O. Box 1341, Vashon, WA 98070
 email: heidi@vashondoveproject.org
-jurisdictions:
-- King County
 news_rss_url: https://www.vashondoveproject.org/blog-feed.xml
 title: The Vashon DOVE Project
 topics:

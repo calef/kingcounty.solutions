@@ -37,26 +37,6 @@ class BreadcrumbsJsonldTest < Minitest::Test
     end
   end
 
-  def test_place_page_with_hierarchy_has_breadcrumb_jsonld
-    path = File.join(SiteBuildHelper.destination, 'places', 'seattle', 'index.html')
-    document = Nokogiri::HTML5.parse(File.read(path))
-
-    breadcrumb_schema = find_breadcrumb_schema(document)
-    refute_nil breadcrumb_schema, 'Expected to find BreadcrumbList JSON-LD schema'
-
-    items = breadcrumb_schema['itemListElement']
-    assert items.length >= 5, 'Expected hierarchical breadcrumb trail for Seattle'
-
-    # Verify Home is first
-    assert_equal 'Home', items.first['name']
-
-    # Verify Places is second
-    assert_equal 'Places', items[1]['name']
-
-    # Verify Seattle is last
-    assert_equal 'Seattle', items.last['name']
-  end
-
   def test_topic_page_has_breadcrumb_jsonld
     path = File.join(SiteBuildHelper.destination, 'topics', 'shelter-and-housing', 'index.html')
     document = Nokogiri::HTML5.parse(File.read(path))

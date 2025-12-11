@@ -1,7 +1,5 @@
 ---
 events_ical_url: https://nosscr.org/events/?ical=1
-jurisdictions:
-- United States
 news_rss_url: https://nosscr.org/feed/
 phone: "(845) 682-1881"
 title: NOSSCR Referral Service

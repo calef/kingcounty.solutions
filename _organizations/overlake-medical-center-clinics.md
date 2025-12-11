@@ -1,8 +1,6 @@
 ---
 address: 1035 116th Ave NE, Bellevue, WA 98004
 email: mychartsupport@overlakehospital.org
-jurisdictions:
-- Bellevue
 phone: "(844) 750-8525"
 title: Overlake Medical Center & Clinics
 topics:

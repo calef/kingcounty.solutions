@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- Seattle
 title: Duwamish Tribe
 topics:
 - Domestic Violence

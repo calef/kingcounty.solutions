@@ -2,9 +2,6 @@
 acronym: OSL
 address: PO Box 4128, Seattle, WA 98194
 email: info@oslserves.org
-jurisdictions:
-- Seattle
-- King County
 news_rss_url: https://www.oslserves.org/blog?format=rss
 phone: 206.347.6629
 title: OSL Serves

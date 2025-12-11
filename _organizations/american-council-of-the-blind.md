@@ -2,8 +2,6 @@
 acronym: ACB
 address: 225 Reinekers Lane, Suite 660, Alexandria, VA 22314
 email: info@acb.org
-jurisdictions:
-- United States
 news_rss_url: https://pinecast.com/feed/acb-reports
 phone: 202-467-5081
 title: American Council of the Blind

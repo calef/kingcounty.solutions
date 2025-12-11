@@ -1,7 +1,5 @@
 ---
 acronym: PSF
-jurisdictions:
-- Washington State
 news_rss_url: https://www.prisonscholars.org/category/our_social_impact/feed/
 title: Prison Scholar Fund Food Boxes
 topics:

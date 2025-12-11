@@ -1,7 +1,4 @@
 ---
-jurisdictions:
-- Federal Way
-- Des Moines
 title: South King Fire & Rescue
 topics:
 - Health Care

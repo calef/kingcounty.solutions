@@ -1,7 +1,5 @@
 ---
 address: Lifeline Support Center, PO Box 1000, Horseheads, NY 14845
-jurisdictions:
-- United States
 parent_organization: Universal Service Administrative Company
 phone: 800-234-9473
 title: Lifeline Support

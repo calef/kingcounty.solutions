@@ -67,7 +67,7 @@ Scrapes a single organization website (following same-host links) and asks OpenA
 
 - Skips creation if an existing `_organizations/*.md` already lists the same normalized `website`.
 - Crawls up to the configured page limit on the target host, strips nav/scripts, and feeds truncated text to the LLM along with allowed topics/types inferred from existing files.
-- Filters `jurisdictions` to known place titles (defaults to `King County` when the model returns unusable values), coerces `type` to the known set or falls back to `Community-Based Organization`, and keeps acronyms only if they are short uppercase strings.
+- Coerces `type` to the known set or falls back to `Community-Based Organization`, and keeps acronyms only if they are short uppercase strings.
 - Attempts to auto-detect RSS/Atom and iCal links while scraping and fills `news_rss_url` / `events_ical_url` when absent.
 - Generates a slug from the title, ensures uniqueness, writes ordered front matter plus a 100-word-capped summary body, and logs the created path when the log level allows it.
 

@@ -2,8 +2,6 @@
 address: 35221 SE Douglas St, Snoqualmie, WA 98065
 email: info@churchontheridge.org
 events_ical_url:
-jurisdictions:
-- King County
 news_rss_url: https://www.churchontheridge.org/feed/
 phone: 425.888.7474
 title: Church on the Ridge

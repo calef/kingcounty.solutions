@@ -1,10 +1,5 @@
 ---
 acronym: ICHS
-jurisdictions:
-- Seattle
-- Bellevue
-- Shoreline
-- Auburn
 title: International Community Health Services
 topics:
 - Health Care

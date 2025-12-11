@@ -1,7 +1,5 @@
 ---
 email: elizabeth.smith@kinderminds.com
-jurisdictions:
-- United States
 news_rss_url: https://www.kinderminds.com/feed/
 title: Kinderminds
 topics:

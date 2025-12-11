@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- Kirkland
 title: Hospital District No. 2 (EvergreenHealth)
 topics:
 - Health Care
