@@ -4,6 +4,8 @@ require 'nokogiri'
 require 'ruby/openai'
 require_relative '../logging'
 require_relative '../news/topic_classifier'
+require_relative '../content/location_classifier'
+require_relative '../content/content_pruner'
 require_relative '../front_matter/document'
 require_relative '../support/http_client'
 require_relative '../feed/discovery'
@@ -13,6 +15,8 @@ module Mayhem
     class EventSummarizer
       EVENTS_DIR = '_events'
       POSTS_DIR = '_posts'
+      IMAGES_DIR = '_images'
+      IMAGE_ASSETS_DIR = File.join('assets', 'images')
       MAX_ARTICLE_CHARS = 20_000
       DEFAULT_MODEL = ENV.fetch('OPENAI_EVENT_MODEL', ENV.fetch('OPENAI_MODEL', 'gpt-4o-mini'))
       TOPIC_DIR = '_topics'
@@ -20,11 +24,15 @@ module Mayhem
       def initialize(
         events_dir: EVENTS_DIR,
         topic_dir: TOPIC_DIR,
+        images_dir: IMAGES_DIR,
+        assets_dir: IMAGE_ASSETS_DIR,
         client: nil,
         model: DEFAULT_MODEL,
         http_client: nil,
         logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'),
-        topic_classifier: nil
+        topic_classifier: nil,
+        location_classifier: nil,
+        content_pruner: nil
       )
         @events_dir = events_dir
         @logger = logger
@@ -37,6 +45,19 @@ module Mayhem
                               client: @client,
                               logger: @logger
                             )
+        @location_classifier = location_classifier ||
+                               Mayhem::Content::LocationClassifier.new(
+                                 client: @client,
+                                 logger: @logger
+                               )
+        @content_pruner = content_pruner ||
+                          Mayhem::Content::ContentPruner.new(
+                            posts_dir: POSTS_DIR,
+                            events_dir: events_dir,
+                            images_dir: images_dir,
+                            assets_dir: assets_dir,
+                            logger: logger
+                          )
       end
 
       def run
@@ -65,11 +86,34 @@ module Mayhem
         end
         if front_matter['summarized'] == true
           stats[:skipped_already_summarized] += 1
+          # Check if we need to classify locations for already-summarized content
+          needs_locations = !front_matter.key?('locations')
+          if needs_locations
+            summary_text = document.body&.strip || ''
+            classified_locations = @location_classifier.classify(
+              summary_text,
+              content_title: front_matter['title'],
+              content_location: front_matter['location'],
+              content_source: front_matter['source']
+            )
+            front_matter['locations'] = classified_locations
+            document.front_matter = front_matter
+            document.save
+
+            if classified_locations.empty?
+              @content_pruner.unpublish_event(file_path, document)
+              @logger.info "No locations matched for #{file_path}, marking as unpublished and cleaning up images"
+            end
+
+            stats[:locations_backfilled] += 1
+            @logger.info "Backfilled locations for #{file_path}"
+          end
           return
         end
         needs_summary = front_matter['summarized'] != true
         needs_topics = Array(front_matter['topics']).empty?
-        return unless needs_summary || needs_topics
+        needs_locations = !front_matter.key?('locations')
+        return unless needs_summary || needs_topics || needs_locations
 
         generated_from_post = front_matter['generated_from_post'] == true
         source_url = front_matter['source_url']
@@ -82,12 +126,12 @@ module Mayhem
             if article_text.empty?
               @logger.warn "Skipping #{file_path}: generated from post but has no body"
               stats[:skipped_missing_body] += 1
-              return unless needs_topics
+              return unless needs_topics || needs_locations
             end
           elsif source_url.to_s.strip.empty?
             @logger.warn "Skipping #{file_path}: no source_url"
             stats[:skipped_missing_source] += 1
-            return unless needs_topics
+            return unless needs_topics || needs_locations
           else
             article_text = fetch_article_text(source_url)
             article_text = document.body.to_s.strip if article_text.to_s.strip.empty?
@@ -127,8 +171,30 @@ module Mayhem
           end
         end
 
-        if needs_topics && Array(front_matter['topics']).empty?
-          front_matter['published'] = false
+        if needs_locations
+          classified_locations = @location_classifier.classify(
+            summary_text,
+            content_title: front_matter['title'],
+            content_location: front_matter['location'],
+            content_source: front_matter['source']
+          )
+          front_matter['locations'] = classified_locations
+          if classified_locations.empty?
+            @logger.info "No locations matched for #{file_path}"
+            stats[:missing_locations] += 1
+          end
+        end
+
+        # Set published to false if either topics or locations are empty
+        # Use ContentPruner to properly clean up images
+        should_unpublish = (needs_topics && Array(front_matter['topics']).empty?) ||
+                           (needs_locations && Array(front_matter['locations']).empty?)
+
+        document.front_matter = front_matter
+        document.save
+
+        if should_unpublish
+          @content_pruner.unpublish_event(file_path, document)
           if generated_from_post
             event_slug = File.basename(file_path, '.md')
             removed_refs = remove_event_references(event_slug)
@@ -136,8 +202,6 @@ module Mayhem
           end
         end
 
-        document.front_matter = front_matter
-        document.save
         stats[:updated] += 1
         @logger.info "Updated #{file_path}"
       rescue StandardError => e
@@ -259,6 +323,8 @@ module Mayhem
           skipped_missing_body: stats[:skipped_missing_body],
           failed_summary: stats[:failed_summary],
           missing_topics: stats[:missing_topics],
+          missing_locations: stats[:missing_locations],
+          locations_backfilled: stats[:locations_backfilled],
           events_unlinked: stats[:events_unlinked],
           errors: stats[:errors]
         }
