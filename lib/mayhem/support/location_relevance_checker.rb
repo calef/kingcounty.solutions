@@ -72,6 +72,18 @@ module Mayhem
         relevant?(title: title, content: content, location: location)
       end
 
+      def configured_locations
+        locations = @config.dig('location_relevance', 'locations') || []
+        return locations unless locations.empty?
+
+        # Fallback to hardcoded King County if no config
+        [{
+          'name' => 'King County, Washington',
+          'description' => 'King County, Washington includes cities such as Seattle, Bellevue, Renton, ' \
+                           'Kent, Auburn, Federal Way, and many others in the greater Seattle metropolitan area.'
+        }]
+      end
+
       private
 
       def enabled?
@@ -99,15 +111,7 @@ module Mayhem
       def build_prompt(title:, content:, location:)
         location_info = location.to_s.strip.empty? ? '' : "\nLocation: #{location}"
 
-        locations = @config.dig('location_relevance', 'locations') || []
-        if locations.empty?
-          # Fallback to hardcoded King County if no config
-          locations = [{
-            'name' => 'King County, Washington',
-            'description' => 'King County, Washington includes cities such as Seattle, Bellevue, Renton, ' \
-                             'Kent, Auburn, Federal Way, and many others in the greater Seattle metropolitan area.'
-          }]
-        end
+        locations = configured_locations
 
         location_descriptions = locations.map do |loc|
           "- #{loc['name']}: #{loc['description']}"

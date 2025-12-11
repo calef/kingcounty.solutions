@@ -218,16 +218,7 @@ Do not write "The article discusses..." or "The article outlines...". Do write a
 
       def generate_summary_with_location_check(article_text, source_url, file_path, stats)
         # Get location configuration for the prompt
-        config = @location_checker.instance_variable_get(:@config) rescue {}
-        locations = config.dig('location_relevance', 'locations') || []
-        if locations.empty?
-          locations = [{
-            'name' => 'King County, Washington',
-            'description' => 'King County, Washington includes cities such as Seattle, Bellevue, Renton, ' \
-                             'Kent, Auburn, Federal Way, and many others in the greater Seattle metropolitan area.'
-          }]
-        end
-
+        locations = @location_checker.configured_locations
         location_names = locations.map { |loc| loc['name'] }.join(', ')
 
         prompt = <<~PROMPT
