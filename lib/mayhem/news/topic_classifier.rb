@@ -4,7 +4,7 @@ require 'json'
 
 require_relative '../logging'
 require_relative '../openai/chat_client'
-require_relative '../support/front_matter_document'
+require_relative '../front_matter/document'
 
 module Mayhem
   module News
@@ -82,7 +82,7 @@ module Mayhem
 
       def load_topic_catalog
         Dir.glob(File.join(@topic_dir, '*.md')).filter_map do |path|
-          doc = Mayhem::Support::FrontMatterDocument.load(path, logger: @logger)
+          doc = Mayhem::FrontMatter::Document.load(path, logger: @logger)
           next unless doc
 
           title = doc.front_matter['title']

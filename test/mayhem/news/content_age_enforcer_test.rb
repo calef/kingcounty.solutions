@@ -3,9 +3,9 @@
 require 'fileutils'
 require 'tmpdir'
 require 'time'
-require 'test_helper'
+require_relative '../../test_helper'
 require 'mayhem/news/content_age_enforcer'
-require 'mayhem/support/front_matter_document'
+require 'mayhem/front_matter/document'
 require 'mayhem/logging'
 
 class ContentAgeEnforcerTest < Minitest::Test
@@ -153,7 +153,7 @@ class ContentAgeEnforcerTest < Minitest::Test
       'images' => images
     }
     path = File.join(@posts_dir, filename)
-    File.write(path, Mayhem::Support::FrontMatterDocument.build_markdown(front_matter, ''))
+    File.write(path, Mayhem::FrontMatter::Document.build_markdown(front_matter, ''))
     path
   end
 
@@ -164,7 +164,7 @@ class ContentAgeEnforcerTest < Minitest::Test
       'events' => events
     }
     path = File.join(@posts_dir, filename)
-    File.write(path, Mayhem::Support::FrontMatterDocument.build_markdown(front_matter, ''))
+    File.write(path, Mayhem::FrontMatter::Document.build_markdown(front_matter, ''))
     path
   end
 
@@ -175,7 +175,7 @@ class ContentAgeEnforcerTest < Minitest::Test
     }
     front_matter['generated_from_post'] = true if generated
     path = File.join(events_dir, "#{id}.md")
-    File.write(path, Mayhem::Support::FrontMatterDocument.build_markdown(front_matter, ''))
+    File.write(path, Mayhem::FrontMatter::Document.build_markdown(front_matter, ''))
     path
   end
 

@@ -3,9 +3,9 @@
 require 'fileutils'
 require 'tmpdir'
 require 'time'
-require 'test_helper'
+require_relative '../../test_helper'
 require 'mayhem/news/event_extractor'
-require 'mayhem/support/front_matter_document'
+require 'mayhem/front_matter/document'
 require 'mayhem/logging'
 
 class EventExtractorTest < Minitest::Test
@@ -95,7 +95,7 @@ class EventExtractorTest < Minitest::Test
 
     assert_equal 1, stats[:skipped_unsummarized]
 
-    doc = Mayhem::Support::FrontMatterDocument.load(path, logger: @logger)
+    doc = Mayhem::FrontMatter::Document.load(path, logger: @logger)
     assert_nil doc.front_matter['events_extracted']
     assert_nil doc.front_matter['events']
     assert Dir.glob(File.join(@events_dir, '*.md')).empty?
@@ -122,7 +122,7 @@ class EventExtractorTest < Minitest::Test
 
     # Verify post was marked as extracted
     post_path = File.join(@posts_dir, '2025-01-01-no-events.md')
-    doc = Mayhem::Support::FrontMatterDocument.load(post_path, logger: @logger)
+    doc = Mayhem::FrontMatter::Document.load(post_path, logger: @logger)
 
     assert doc.front_matter['events_extracted']
     assert_empty doc.front_matter['events']
@@ -164,7 +164,7 @@ class EventExtractorTest < Minitest::Test
 
     # Verify post was updated with event link
     post_path = File.join(@posts_dir, '2025-01-01-event-announcement.md')
-    doc = Mayhem::Support::FrontMatterDocument.load(post_path, logger: @logger)
+    doc = Mayhem::FrontMatter::Document.load(post_path, logger: @logger)
 
     assert doc.front_matter['events_extracted']
     assert_equal 1, doc.front_matter['events'].size
@@ -174,7 +174,7 @@ class EventExtractorTest < Minitest::Test
 
     assert_equal 1, event_files.size
 
-    event_doc = Mayhem::Support::FrontMatterDocument.load(event_files.first, logger: @logger)
+    event_doc = Mayhem::FrontMatter::Document.load(event_files.first, logger: @logger)
 
     assert_equal 'Planning Meeting', event_doc.front_matter['title']
     assert_equal '2025-12-15T18:00:00-08:00', event_doc.front_matter['start_date']
@@ -221,7 +221,7 @@ class EventExtractorTest < Minitest::Test
 
     # Verify post was marked as extracted with no events
     post_path = File.join(@posts_dir, '2025-01-01-past-event.md')
-    doc = Mayhem::Support::FrontMatterDocument.load(post_path, logger: @logger)
+    doc = Mayhem::FrontMatter::Document.load(post_path, logger: @logger)
 
     assert doc.front_matter['events_extracted']
     assert_empty doc.front_matter['events']
@@ -251,7 +251,7 @@ class EventExtractorTest < Minitest::Test
     body = options[:content] || 'Test content'
 
     path = File.join(@posts_dir, filename)
-    File.write(path, Mayhem::Support::FrontMatterDocument.build_markdown(front_matter, body))
+    File.write(path, Mayhem::FrontMatter::Document.build_markdown(front_matter, body))
     path
   end
 end

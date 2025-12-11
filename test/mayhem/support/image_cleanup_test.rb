@@ -4,9 +4,9 @@ require 'fileutils'
 require 'set'
 require 'tmpdir'
 require 'time'
-require 'test_helper'
-require 'mayhem/support/image_cleanup'
-require 'mayhem/support/front_matter_document'
+require_relative '../../test_helper'
+require 'mayhem/content/image_cleanup'
+require 'mayhem/front_matter/document'
 require 'mayhem/logging'
 
 class ImageCleanupTest < Minitest::Test
@@ -19,7 +19,7 @@ class ImageCleanupTest < Minitest::Test
     FileUtils.mkdir_p(@images_dir)
     FileUtils.mkdir_p(@assets_dir)
     @logger = Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL', default_level: 'FATAL')
-    @cleanup = Mayhem::Support::ImageCleanup.new(
+    @cleanup = Mayhem::Content::ImageCleanup.new(
       posts_dir: @posts_dir,
       images_dir: @images_dir,
       assets_dir: @assets_dir,
@@ -69,7 +69,7 @@ class ImageCleanupTest < Minitest::Test
       'source_url' => 'https://example.com'
     }
     path = File.join(@posts_dir, filename)
-    File.write(path, Mayhem::Support::FrontMatterDocument.build_markdown(front_matter, ''))
+    File.write(path, Mayhem::FrontMatter::Document.build_markdown(front_matter, ''))
     path
   end
 

@@ -6,9 +6,9 @@ require 'mini_magick'
 require 'open-uri'
 require 'uri'
 require_relative '../logging'
-require_relative '../support/front_matter_document'
+require_relative '../front_matter/document'
 require_relative '../support/http_client'
-require_relative '../feed_discovery'
+require_relative '../feed/discovery'
 
 module Mayhem
   module Content
@@ -80,7 +80,7 @@ module Mayhem
       private
 
       def process_post(path, cache, stats)
-        document = Mayhem::Support::FrontMatterDocument.load(path, logger:)
+        document = Mayhem::FrontMatter::Document.load(path, logger:)
         unless document
           stats[:missing_frontmatter] += 1
           return
@@ -266,7 +266,7 @@ module Mayhem
         frontmatter_data['source'] = frontmatter['source'] if frontmatter['source']
         frontmatter_data['date'] = frontmatter['date'] if frontmatter['date']
 
-        document = Mayhem::Support::FrontMatterDocument.new(
+        document = Mayhem::FrontMatter::Document.new(
           path: doc_path,
           front_matter: frontmatter_data,
           body: ''

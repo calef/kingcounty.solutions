@@ -12,20 +12,20 @@ require 'time'
 require 'uri'
 require 'yaml'
 require_relative '../logging'
-require_relative '../support/front_matter_document'
-require_relative '../support/slug_generator'
+require_relative '../front_matter/document'
+require_relative '../front_matter/slug_generator'
 require_relative '../support/http_client'
 require_relative '../support/url_normalizer'
-require_relative '../support/content_fetcher'
-require_relative '../support/article_body_selectors'
-require_relative '../feed_discovery'
-require_relative '../support/publish_guard'
-require_relative '../support/html_normalizer'
+require_relative '../content/content_fetcher'
+require_relative '../content/article_body_selectors'
+require_relative '../feed/discovery'
+require_relative '../front_matter/publish_guard'
+require_relative '../content/html_normalizer'
 
 module Mayhem
   module News
     class RssImporter
-      ARTICLE_BODY_SELECTORS = Mayhem::Support::ArticleBodySelectors::SELECTORS
+      ARTICLE_BODY_SELECTORS = Mayhem::Content::ArticleBodySelectors::SELECTORS
 
       MAX_ITEM_AGE_DAYS = 365
       MAX_FILENAME_BYTES = 255
@@ -86,7 +86,7 @@ module Mayhem
           logger: @logger
         )
         @max_item_age_days = determine_max_days(max_item_age_days, config_path)
-        @content_fetcher = Mayhem::Support::ContentFetcher.new(
+        @content_fetcher = Mayhem::Content::ContentFetcher.new(
           http_client: @http,
           logger: @logger,
           selectors: ARTICLE_BODY_SELECTORS
@@ -113,7 +113,7 @@ module Mayhem
       private
 
       def process_source(source_file)
-        frontmatter = Mayhem::Support::FrontMatterDocument.load(source_file, logger: @logger)
+        frontmatter = Mayhem::FrontMatter::Document.load(source_file, logger: @logger)
         return unless frontmatter
 
         rss_url = frontmatter['news_rss_url']
@@ -264,11 +264,11 @@ module Mayhem
       end
 
       def write_post(source_title, title_text, link_url, published_time, original_html, rss_guid = nil)
-        normalized_html = Mayhem::Support::HtmlNormalizer.normalize(original_html, base_url: link_url)
+        normalized_html = Mayhem::Content::HtmlNormalizer.normalize(original_html, base_url: link_url)
         content_md = ReverseMarkdown.convert(normalized_html)
-        checksum = Mayhem::Support::HtmlNormalizer.checksum(normalized_html)
+        checksum = Mayhem::Content::HtmlNormalizer.checksum(normalized_html)
         date_prefix = published_time.strftime('%Y-%m-%d')
-        title_slug = Mayhem::Support::SlugGenerator.filename_slug(
+        title_slug = Mayhem::FrontMatter::SlugGenerator.filename_slug(
           title: title_text,
           link: link_url,
           date_prefix: date_prefix,
@@ -282,7 +282,7 @@ module Mayhem
           return :skipped_locked
         end
 
-        if Mayhem::Support::PublishGuard.unpublished?(filename, logger: @logger)
+        if Mayhem::FrontMatter::PublishGuard.unpublished?(filename, logger: @logger)
           @logger.info "Skipping update for unpublished post #{filename}"
           register_post(link_url, rss_guid)
           return :skipped_unpublished
@@ -303,7 +303,7 @@ module Mayhem
           'original_content' => normalized_html,
           'original_content_checksum' => checksum
         }
-        document = Mayhem::Support::FrontMatterDocument.new(
+        document = Mayhem::FrontMatter::Document.new(
           path: filename,
           front_matter: frontmatter,
           body: "\n#{content_md}"
@@ -314,7 +314,7 @@ module Mayhem
       end
 
       def locked_post?(filename)
-        Mayhem::Support::FrontMatterDocument.locked?(filename, logger: @logger)
+        Mayhem::FrontMatter::Document.locked?(filename, logger: @logger)
       end
 
       def published_at(item)
@@ -490,7 +490,7 @@ module Mayhem
 
       def build_existing_post_index
         Dir.glob(File.join(@news_dir, '*.md')).each_with_object({}) do |post_path, memo|
-          doc = Mayhem::Support::FrontMatterDocument.load(post_path, logger: @logger)
+          doc = Mayhem::FrontMatter::Document.load(post_path, logger: @logger)
           next unless doc
 
           fm = doc.front_matter
@@ -508,7 +508,7 @@ module Mayhem
       def unchanged_post?(filename, normalized_html, checksum, link_url)
         return false unless File.exist?(filename)
 
-        document = Mayhem::Support::FrontMatterDocument.load(filename, logger: @logger)
+        document = Mayhem::FrontMatter::Document.load(filename, logger: @logger)
         return false unless document
 
         front_matter = document.front_matter
@@ -520,7 +520,7 @@ module Mayhem
 
         base_url = front_matter['source_url'].to_s
         base_url = link_url if base_url.empty?
-        existing_normalized = Mayhem::Support::HtmlNormalizer.normalize(existing_content, base_url: base_url)
+        existing_normalized = Mayhem::Content::HtmlNormalizer.normalize(existing_content, base_url: base_url)
         existing_normalized == normalized_html
       rescue StandardError => e
         @logger.debug "Failed to compare existing post #{filename}: #{e.message}"

@@ -2,7 +2,7 @@
 
 require_relative '../logging'
 require_relative '../openai/chat_client'
-require_relative '../support/front_matter_document'
+require_relative '../front_matter/document'
 
 module Mayhem
   module Content
@@ -61,7 +61,7 @@ module Mayhem
       end
 
       def rewrite_file(path, stats)
-        document = Mayhem::Support::FrontMatterDocument.load(path, logger:)
+        document = Mayhem::FrontMatter::Document.load(path, logger:)
         unless document
           stats[:skipped_invalid_front_matter] += 1
           return

@@ -4,8 +4,8 @@ require 'json'
 require 'time'
 require_relative '../logging'
 require_relative '../openai/chat_client'
-require_relative '../support/front_matter_document'
-require_relative '../support/slug_generator'
+require_relative '../front_matter/document'
+require_relative '../front_matter/slug_generator'
 
 module Mayhem
   module News
@@ -41,7 +41,7 @@ module Mayhem
       private
 
       def process_post(file_path, stats)
-        document = Mayhem::Support::FrontMatterDocument.load(file_path, logger: @logger)
+        document = Mayhem::FrontMatter::Document.load(file_path, logger: @logger)
         unless document
           stats[:skipped_no_frontmatter] += 1
           return
@@ -214,7 +214,7 @@ module Mayhem
 
         # Generate filename
         date_prefix = start_time.strftime('%Y-%m-%d')
-        slug = Mayhem::Support::SlugGenerator.filename_slug(
+        slug = Mayhem::FrontMatter::SlugGenerator.filename_slug(
           title: title,
           link: source_url || source,
           date_prefix: date_prefix,
@@ -241,7 +241,7 @@ module Mayhem
 
         # Create event document
         body = "\n#{description}\n"
-        document = Mayhem::Support::FrontMatterDocument.new(
+        document = Mayhem::FrontMatter::Document.new(
           path: filename,
           front_matter: front_matter,
           body: body

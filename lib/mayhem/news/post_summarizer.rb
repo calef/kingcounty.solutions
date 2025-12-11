@@ -6,9 +6,9 @@ require 'open-uri'
 require 'ruby/openai'
 require_relative '../logging'
 require_relative '../news/topic_classifier'
-require_relative '../support/front_matter_document'
+require_relative '../front_matter/document'
 require_relative '../support/http_client'
-require_relative '../feed_discovery'
+require_relative '../feed/discovery'
 
 module Mayhem
   module News
@@ -62,7 +62,7 @@ module Mayhem
       private
 
       def process_post(file_path, stats)
-        document = Mayhem::Support::FrontMatterDocument.load(file_path, logger: @logger)
+        document = Mayhem::FrontMatter::Document.load(file_path, logger: @logger)
         unless document
           stats[:skipped_no_frontmatter] += 1
           return

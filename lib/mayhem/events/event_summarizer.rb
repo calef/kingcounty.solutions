@@ -4,9 +4,9 @@ require 'nokogiri'
 require 'ruby/openai'
 require_relative '../logging'
 require_relative '../news/topic_classifier'
-require_relative '../support/front_matter_document'
+require_relative '../front_matter/document'
 require_relative '../support/http_client'
-require_relative '../feed_discovery'
+require_relative '../feed/discovery'
 
 module Mayhem
   module Events
@@ -51,7 +51,7 @@ module Mayhem
       private
 
       def process_event(file_path, stats)
-        document = Mayhem::Support::FrontMatterDocument.load(file_path, logger: @logger)
+        document = Mayhem::FrontMatter::Document.load(file_path, logger: @logger)
         unless document
           stats[:skipped_no_frontmatter] += 1
           return
@@ -219,7 +219,7 @@ module Mayhem
       def remove_event_references(event_slug)
         updated_posts = 0
         Dir.glob(File.join(POSTS_DIR, '*.md')).each do |post_path|
-          document = Mayhem::Support::FrontMatterDocument.load(post_path, logger: @logger)
+          document = Mayhem::FrontMatter::Document.load(post_path, logger: @logger)
           next unless document
 
           front_matter = document.front_matter

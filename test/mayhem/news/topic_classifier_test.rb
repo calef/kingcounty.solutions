@@ -2,7 +2,7 @@
 
 require 'fileutils'
 require 'tmpdir'
-require 'test_helper'
+require_relative '../../test_helper'
 require 'mayhem/news/topic_classifier'
 
 module Mayhem

@@ -7,8 +7,8 @@ require 'time'
 require_relative '../logging'
 require_relative '../news/topic_classifier'
 require_relative '../openai/chat_client'
-require_relative '../support/front_matter_document'
-require_relative '../support/slug_generator'
+require_relative '../front_matter/document'
+require_relative '../front_matter/slug_generator'
 
 module Mayhem
   module News
@@ -99,7 +99,7 @@ module Mayhem
           post_date = Date.parse(match[1])
           next unless post_date.between?(start_date, end_date)
 
-          document = Mayhem::Support::FrontMatterDocument.load(path, logger: @logger)
+          document = Mayhem::FrontMatter::Document.load(path, logger: @logger)
           next unless document
 
           front_matter = document.front_matter
@@ -300,7 +300,7 @@ module Mayhem
 
       def write_summary(start_date, end_date, body, model_used, topics, images = [])
         title = "King County Solutions Weekly Roundup: #{human_range(start_date, end_date)}"
-        slug = Mayhem::Support::SlugGenerator.sanitized_slug(title)
+        slug = Mayhem::FrontMatter::SlugGenerator.sanitized_slug(title)
         slug = 'post' if slug.empty?
         filename = "#{end_date}-#{slug}.md"
         dest = File.join(@posts_dir, filename)
@@ -318,7 +318,7 @@ module Mayhem
           'topics' => topics || []
         }
 
-        document = Mayhem::Support::FrontMatterDocument.new(
+        document = Mayhem::FrontMatter::Document.new(
           path: dest,
           front_matter: front_matter,
           body: body

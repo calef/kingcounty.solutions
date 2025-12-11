@@ -3,7 +3,7 @@
 
 $LOAD_PATH.unshift(File.expand_path('../lib', __dir__))
 
-require 'mayhem/front_matter_tidier'
+require 'mayhem/front_matter/tidier'
 
 def usage
   warn 'Usage: tidy-frontmatter PATH...'
@@ -14,6 +14,6 @@ end
 if $PROGRAM_NAME == __FILE__
   usage if ARGV.empty?
 
-  tidier = Mayhem::FrontMatterTidier.new
+  tidier = Mayhem::FrontMatter::Tidier.new
   tidier.tidy(ARGV)
 end

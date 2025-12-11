@@ -3,9 +3,9 @@
 require 'fileutils'
 require 'time'
 require 'tmpdir'
-require 'test_helper'
-require 'mayhem/support/content_pruner'
-require 'mayhem/support/front_matter_document'
+require_relative '../../test_helper'
+require 'mayhem/content/content_pruner'
+require 'mayhem/front_matter/document'
 require 'mayhem/logging'
 
 class ContentPrunerTest < Minitest::Test
@@ -20,7 +20,7 @@ class ContentPrunerTest < Minitest::Test
     FileUtils.mkdir_p(@assets_dir)
     FileUtils.mkdir_p(@events_dir)
     @logger = Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL', default_level: 'FATAL')
-    @pruner = Mayhem::Support::ContentPruner.new(
+    @pruner = Mayhem::Content::ContentPruner.new(
       posts_dir: @posts_dir,
       events_dir: @events_dir,
       images_dir: @images_dir,
@@ -38,11 +38,11 @@ class ContentPrunerTest < Minitest::Test
     write_image_metadata(image_id)
     write_asset(image_id)
     post_path = write_post('post.md', 'https://example.com', [image_id], true)
-    document = Mayhem::Support::FrontMatterDocument.load(post_path)
+    document = Mayhem::FrontMatter::Document.load(post_path)
 
     @pruner.unpublish_post(post_path, document)
 
-    updated = Mayhem::Support::FrontMatterDocument.load(post_path)
+    updated = Mayhem::FrontMatter::Document.load(post_path)
     refute updated.front_matter['published']
     assert_empty updated.front_matter['images']
     refute_path_exists File.join(@images_dir, "#{image_id}.md")
@@ -55,7 +55,7 @@ class ContentPrunerTest < Minitest::Test
     @pruner.delete_event(event_path)
 
     refute_path_exists event_path
-    updated = Mayhem::Support::FrontMatterDocument.load(post_path)
+    updated = Mayhem::FrontMatter::Document.load(post_path)
     assert_empty updated.front_matter['events']
   end
 
@@ -71,13 +71,13 @@ class ContentPrunerTest < Minitest::Test
       'published' => published
     }
     path = File.join(@posts_dir, filename)
-    File.write(path, Mayhem::Support::FrontMatterDocument.build_markdown(front_matter, ''))
+    File.write(path, Mayhem::FrontMatter::Document.build_markdown(front_matter, ''))
     path
   end
 
   def write_event(id)
     path = File.join(@events_dir, "#{id}.md")
-    content = Mayhem::Support::FrontMatterDocument.build_markdown(
+    content = Mayhem::FrontMatter::Document.build_markdown(
       { 'title' => "Event #{id}", 'start_date' => Time.now.utc.iso8601 },
       ''
     )
