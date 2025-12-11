@@ -3,27 +3,211 @@
 
 $LOAD_PATH.unshift(File.expand_path('../lib', __dir__))
 
-require 'mayhem/cli/new_command'
+require 'optparse'
 
-def usage
-  warn 'Usage: mayhem <command> [options]'
-  warn ''
-  warn 'Commands:'
-  warn '  new PATH    Create a new Jekyll site with kingcounty.solutions configuration'
-  exit 1
-end
+# Mayhem command-line tool
+module Mayhem
+  module CLI
+    COMMANDS = {
+      'audit-topics' => {
+        description: 'Uses OpenAI to reconcile each organization\'s topics against recent news coverage',
+        handler: :run_audit_topics
+      },
+      'expire' => {
+        description: 'Deletes posts and events outside configured age window',
+        handler: :run_expire
+      },
+      'extract-events' => {
+        description: 'Analyzes news posts to identify and create event entries',
+        handler: :run_extract_events
+      },
+      'extract-images' => {
+        description: 'Downloads images from posts/events and creates image metadata',
+        handler: :run_extract_images
+      },
+      'new-organization' => {
+        description: 'Scrapes a site and creates a new organization entry',
+        handler: :run_new_organization
+      },
+      'import-content' => {
+        description: 'Runs RSS and iCal importers to fetch partner content',
+        handler: :run_import_content
+      },
+      'ls-models' => {
+        description: 'Lists available OpenAI model IDs',
+        handler: :run_ls_models
+      },
+      'new' => {
+        description: 'Creates a new Jekyll site with kingcounty.solutions configuration',
+        handler: :run_new
+      },
+      'summarize' => {
+        description: 'Generates AI summaries for posts and events',
+        handler: :run_summarize
+      },
+      'tidy' => {
+        description: 'Normalizes Markdown front matter formatting',
+        handler: :run_tidy
+      }
+    }.freeze
 
-def main
-  usage if ARGV.empty?
+    class << self
+      def run(args)
+        command = args.shift
 
-  command = ARGV.shift
-  case command
-  when 'new'
-    Mayhem::CLI::NewCommand.new(ARGV).run
-  else
-    warn "Unknown command: #{command}"
-    usage
+        if command.nil? || command == 'help' || command == '--help' || command == '-h'
+          show_help
+          exit 0
+        end
+
+        unless COMMANDS.key?(command)
+          warn "Unknown command: #{command}"
+          warn ''
+          show_help
+          exit 1
+        end
+
+        send(COMMANDS[command][:handler], args)
+      end
+
+      def show_help
+        puts 'Usage: mayhem COMMAND [options]'
+        puts ''
+        puts 'Available commands:'
+        puts ''
+        COMMANDS.each do |name, info|
+          puts "  #{name.ljust(20)} #{info[:description]}"
+        end
+        puts ''
+        puts 'Run "mayhem COMMAND --help" for command-specific options.'
+      end
+
+      def run_audit_topics(args)
+        require 'ruby/openai'
+        require 'mayhem/topics/organization_audit'
+
+        defaults = {
+          default_model: Mayhem::Topics::OrganizationAudit::DEFAULT_MODEL,
+          default_max_posts: Mayhem::Topics::OrganizationAudit::DEFAULT_MAX_POSTS
+        }
+        options = parse_audit_topics_options(args, **defaults)
+        client = OpenAI::Client.new(access_token: ENV.fetch('OPENAI_API_KEY'))
+        audit = Mayhem::Topics::OrganizationAudit.new(
+          client: client,
+          model: options[:model],
+          max_posts: options[:max_posts],
+          force: options[:force],
+          output: options[:output],
+          apply: options[:apply]
+        )
+        audit.run
+      end
+
+      def parse_audit_topics_options(args, default_model:, default_max_posts:)
+        options = {
+          model: default_model,
+          max_posts: default_max_posts,
+          force: false,
+          output: nil,
+          apply: false
+        }
+
+        OptionParser.new do |opts|
+          opts.banner = 'Usage: mayhem audit-topics [options]'
+
+          opts.on('--model MODEL', "OpenAI model (default: #{default_model})") { |model| options[:model] = model }
+          opts.on('--max-posts N', Integer,
+                  "Number of recent posts per org to include (default: #{default_max_posts})") do |n|
+            options[:max_posts] = n
+          end
+          opts.on('--force', 'Ignore cached responses and re-run audit') { options[:force] = true }
+          opts.on('--output FILE', 'Write JSON report to FILE') { |file| options[:output] = file }
+          opts.on('--apply', 'Update organization topic lists in-place') { options[:apply] = true }
+        end.parse!(args)
+
+        options
+      end
+
+      def run_expire(_args)
+        require 'mayhem/events/stale_event_cleaner'
+        require 'mayhem/news/content_age_enforcer'
+
+        Mayhem::News::ContentAgeEnforcer.new.run
+        Mayhem::Events::StaleEventCleaner.new.run
+      end
+
+      def run_extract_events(_args)
+        require 'mayhem/news/event_extractor'
+
+        Mayhem::News::EventExtractor.new.run
+      end
+
+      def run_extract_images(_args)
+        require 'mayhem/content/content_image_extractor'
+
+        extractor = Mayhem::Content::ContentImageExtractor.new
+        extractor.run
+      end
+
+      def run_new_organization(args)
+        require 'mayhem/organizations/generator'
+
+        if args.empty?
+          warn 'Usage: mayhem new-organization URL'
+          exit 1
+        end
+
+        generator = Mayhem::Organizations::Generator.new
+        generator.run(args.first)
+      end
+
+      def run_import_content(_args)
+        require 'mayhem/news/rss_importer'
+        require 'mayhem/events/ical_importer'
+
+        Mayhem::News::RssImporter.new.run
+        Mayhem::Events::IcalImporterCLI.run
+      end
+
+      def run_ls_models(_args)
+        require 'mayhem/openai/model_lister'
+
+        Mayhem::OpenAI::ModelLister.new.run
+      end
+
+      def run_new(args)
+        require 'mayhem/cli/new_command'
+
+        Mayhem::CLI::NewCommand.new(args).run
+      end
+
+      def run_summarize(_args)
+        require 'mayhem/logging'
+        require 'mayhem/news/post_summarizer'
+        require 'mayhem/events/event_summarizer'
+
+        logger = Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL', default_level: 'INFO', program_name: 'mayhem')
+        news_stats = Mayhem::News::PostSummarizer.new.run
+        events_stats = Mayhem::Events::EventSummarizer.new.run
+
+        processed = news_stats.fetch(:updated, 0) + events_stats.fetch(:updated, 0)
+        logger.info "summarize complete: #{processed} files updated"
+      end
+
+      def run_tidy(args)
+        require 'mayhem/front_matter/tidier'
+
+        if args.empty?
+          warn 'Usage: mayhem tidy PATH...'
+          warn '  PATH can be a Markdown file or directory to recurse.'
+          exit 1
+        end
+
+        tidier = Mayhem::FrontMatter::Tidier.new
+        tidier.tidy(args)
+      end
+    end
   end
 end
 
-main if $PROGRAM_NAME == __FILE__
+Mayhem::CLI.run(ARGV) if $PROGRAM_NAME == __FILE__
