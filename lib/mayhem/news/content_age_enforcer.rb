@@ -5,8 +5,8 @@ require 'time'
 require 'yaml'
 
 require_relative '../logging'
-require_relative '../support/content_pruner'
-require_relative '../support/front_matter_document'
+require_relative '../content/content_pruner'
+require_relative '../front_matter/document'
 
 module Mayhem
   module News
@@ -35,7 +35,7 @@ module Mayhem
         @config_path = config_path
         @logger = logger
         @clock = clock
-        @content_pruner = content_pruner || Mayhem::Support::ContentPruner.new(
+        @content_pruner = content_pruner || Mayhem::Content::ContentPruner.new(
           posts_dir: posts_dir,
           events_dir: events_dir,
           images_dir: images_dir,
@@ -97,7 +97,7 @@ module Mayhem
 
       def posts_older_than(cutoff)
         Dir.glob(File.join(@posts_dir, '*.md')).each_with_object([]) do |path, memo|
-          document = Mayhem::Support::FrontMatterDocument.load(path, logger: @logger)
+          document = Mayhem::FrontMatter::Document.load(path, logger: @logger)
           next unless document
 
           published_at = parse_date(document.front_matter['date'])
@@ -141,7 +141,7 @@ module Mayhem
           next unless File.exist?(event_path)
 
           # Only remove events that were generated from posts
-          document = Mayhem::Support::FrontMatterDocument.load(event_path, logger: @logger)
+          document = Mayhem::FrontMatter::Document.load(event_path, logger: @logger)
           next unless document
           next unless document.front_matter['generated_from_post'] == true
 
@@ -162,7 +162,7 @@ module Mayhem
       def remaining_event_references
         counts = Hash.new(0)
         Dir.glob(File.join(@posts_dir, '*.md')).each do |path|
-          document = Mayhem::Support::FrontMatterDocument.load(path, logger: @logger)
+          document = Mayhem::FrontMatter::Document.load(path, logger: @logger)
           next unless document
 
           events = document.front_matter['events']

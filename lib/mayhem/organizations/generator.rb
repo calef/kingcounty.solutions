@@ -7,9 +7,9 @@ require 'open-uri'
 require 'ruby/openai'
 require 'uri'
 require_relative '../logging'
-require_relative '../support/front_matter_document'
-require_relative '../feed_discovery'
-require_relative '../support/slug_generator'
+require_relative '../front_matter/document'
+require_relative '../feed/discovery'
+require_relative '../front_matter/slug_generator'
 require_relative '../support/http_client'
 require_relative '../support/url_utils'
 
@@ -111,7 +111,7 @@ module Mayhem
 
       def load_existing_websites
         Dir.glob(File.join(@org_dir, '*.md')).each_with_object(Set.new) do |path, set|
-          doc = Mayhem::Support::FrontMatterDocument.load(path, logger: @logger)
+          doc = Mayhem::FrontMatter::Document.load(path, logger: @logger)
           next unless doc
 
           website = doc.front_matter['website']
@@ -123,7 +123,7 @@ module Mayhem
 
       def load_existing_types
         Dir.glob(File.join(@org_dir, '*.md')).each_with_object(Set.new) do |path, set|
-          doc = Mayhem::Support::FrontMatterDocument.load(path, logger: @logger)
+          doc = Mayhem::FrontMatter::Document.load(path, logger: @logger)
           next unless doc
 
           type = doc.front_matter['type']
@@ -183,7 +183,7 @@ module Mayhem
 
       def load_topics
         Dir.glob(File.join(@topic_dir, '*.md')).filter_map do |path|
-          doc = Mayhem::Support::FrontMatterDocument.load(path, logger: @logger)
+          doc = Mayhem::FrontMatter::Document.load(path, logger: @logger)
           next unless doc
 
           doc.front_matter['title']
@@ -227,7 +227,7 @@ module Mayhem
       end
 
       def slugify(title)
-        slug = Mayhem::Support::SlugGenerator.sanitized_slug(title)
+        slug = Mayhem::FrontMatter::SlugGenerator.sanitized_slug(title)
         slug = 'organization' if slug.to_s.strip.empty?
         slug
       end
@@ -311,7 +311,7 @@ module Mayhem
       def write_organization_file(slug, front_matter, body)
         FileUtils.mkdir_p(@org_dir)
         path = File.join(@org_dir, "#{slug}.md")
-        document = Mayhem::Support::FrontMatterDocument.new(
+        document = Mayhem::FrontMatter::Document.new(
           path: path,
           front_matter: front_matter,
           body: "\n#{body.strip}\n"

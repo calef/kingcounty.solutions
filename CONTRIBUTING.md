@@ -9,11 +9,11 @@ Running tests
 
 VCR cassettes
 
-Tests use VCR to record HTTP interactions under `test/vcr_cassettes/`. The repository includes committed cassettes for the core network interactions used by the importer and image extractor tests to make CI deterministic.
+Tests use VCR to record HTTP interactions under `test/mayhem/vcr_cassettes/`. The repository includes committed cassettes for the core network interactions used by the importer and image extractor tests to make CI deterministic.
 
 To re-record a cassette locally (if you intentionally change the external interactions):
 
-1. Delete the corresponding cassette YAML file in `test/vcr_cassettes/`.
+1. Delete the corresponding cassette YAML file in `test/mayhem/vcr_cassettes/`.
 2. Run the specific test: `ruby -Ilib:test test/news/rss_importer_test.rb` (or run `bundle exec rake test` to run all tests).
 3. Commit the updated cassette.
 

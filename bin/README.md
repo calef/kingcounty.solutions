@@ -272,7 +272,7 @@ Enforces a tidy YAML front-matter block for Markdown files so other scripts can 
 
 - `PATH` accepts a single Markdown file or directory; directories are processed recursively.
 - The tidier sorts YAML keys alphabetically, trims duplicate delimiters, and leaves a single blank line between the closing `---` and the Markdown body.
-- Runs via `Mayhem::FrontMatterTidier`, so other scripts can call `tidy_markdown` before writing Markdown files.
+- Runs via `Mayhem::FrontMatter::Tidier`, so other scripts can call `tidy_markdown` before writing Markdown files.
 
 ### `rewrite-ap-style`
 

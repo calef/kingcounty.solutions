@@ -5,7 +5,7 @@ require 'fileutils'
 require 'time'
 
 require_relative '../logging'
-require_relative '../support/front_matter_document'
+require_relative '../front_matter/document'
 
 module Mayhem
   module Events
@@ -53,7 +53,7 @@ module Mayhem
       private
 
       def event_time_for(path)
-        document = Mayhem::Support::FrontMatterDocument.load(path, logger: @logger)
+        document = Mayhem::FrontMatter::Document.load(path, logger: @logger)
         return unless document
 
         parse_start_time(document.front_matter['start_date'], path)
@@ -89,7 +89,7 @@ module Mayhem
         posts_updated = 0
 
         Dir.glob(File.join(@posts_dir, '*.md')).each do |post_path|
-          document = Mayhem::Support::FrontMatterDocument.load(post_path, logger: @logger)
+          document = Mayhem::FrontMatter::Document.load(post_path, logger: @logger)
           next unless document
 
           front_matter = document.front_matter

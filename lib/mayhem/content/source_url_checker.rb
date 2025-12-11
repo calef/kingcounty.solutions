@@ -1,8 +1,8 @@
 # frozen_string_literal: true
 
 require_relative '../logging'
-require_relative '../support/content_pruner'
-require_relative '../support/front_matter_document'
+require_relative '../content/content_pruner'
+require_relative '../front_matter/document'
 require_relative 'http_status_resolver'
 
 module Mayhem
@@ -34,7 +34,7 @@ module Mayhem
           user_agent: @user_agent,
           http_client: http_client
         )
-        @content_pruner = content_pruner || Mayhem::Support::ContentPruner.new(
+        @content_pruner = content_pruner || Mayhem::Content::ContentPruner.new(
           posts_dir: posts_dir,
           events_dir: events_dir,
           images_dir: images_dir,
@@ -94,7 +94,7 @@ module Mayhem
           Thread.new do
             loop do
               path = queue.pop(true)
-              document = Mayhem::Support::FrontMatterDocument.load(path, logger: @logger)
+              document = Mayhem::FrontMatter::Document.load(path, logger: @logger)
               next unless document
 
               yield(path, document)

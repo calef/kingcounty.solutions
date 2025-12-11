@@ -4,7 +4,7 @@ require 'json'
 require 'yaml'
 require 'fileutils'
 require_relative '../logging'
-require_relative '../support/front_matter_document'
+require_relative '../front_matter/document'
 
 module Mayhem
   module Topics
@@ -58,7 +58,7 @@ module Mayhem
 
       def load_topics
         Dir.glob(File.join(@topic_dir, '*.md')).each_with_object({}) do |path, acc|
-          document = Mayhem::Support::FrontMatterDocument.load(path, logger: @logger)
+          document = Mayhem::FrontMatter::Document.load(path, logger: @logger)
           next unless document
 
           title = document.front_matter['title'] || default_title(path)
@@ -72,7 +72,7 @@ module Mayhem
 
       def load_organizations
         Dir.glob(File.join(@org_dir, '*.md')).filter_map do |path|
-          document = Mayhem::Support::FrontMatterDocument.load(path, logger: @logger)
+          document = Mayhem::FrontMatter::Document.load(path, logger: @logger)
           next unless document
 
           fm = document.front_matter
@@ -89,7 +89,7 @@ module Mayhem
 
       def load_recent_posts(org_title)
         cached_posts = Dir.glob(File.join(@posts_dir, '**', '*.md')).filter_map do |path|
-          document = Mayhem::Support::FrontMatterDocument.load(path, logger: @logger)
+          document = Mayhem::FrontMatter::Document.load(path, logger: @logger)
           next unless document
 
           fm = document.front_matter
@@ -243,7 +243,7 @@ module Mayhem
         removals = Array(result['topics_false']) & Array(org['topics'])
         return if additions.empty? && removals.empty?
 
-        document = Mayhem::Support::FrontMatterDocument.load(org['path'], logger: @logger)
+        document = Mayhem::FrontMatter::Document.load(org['path'], logger: @logger)
         return unless document
 
         updated_topics = (Array(document.front_matter['topics']) - removals + additions).uniq.sort

@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require 'test_helper'
+require_relative '../../test_helper'
 require 'mayhem/content/http_status_resolver'
 require 'mayhem/logging'
 

@@ -6,16 +6,16 @@ require 'icalendar'
 require 'nokogiri'
 require 'reverse_markdown'
 require_relative '../logging'
-require_relative '../support/front_matter_document'
+require_relative '../front_matter/document'
 require_relative '../support/http_client'
-require_relative '../feed_discovery'
-require_relative '../support/slug_generator'
+require_relative '../feed/discovery'
+require_relative '../front_matter/slug_generator'
 require_relative '../support/url_normalizer'
-require_relative '../support/content_fetcher'
+require_relative '../content/content_fetcher'
 require_relative '../support/encoding_utils'
-require_relative '../support/content_utils'
-require_relative '../support/publish_guard'
-require_relative '../support/html_normalizer'
+require_relative '../content/content_utils'
+require_relative '../front_matter/publish_guard'
+require_relative '../content/html_normalizer'
 
 module Mayhem
   module Events
@@ -46,7 +46,7 @@ module Mayhem
         @events_dir = events_dir
         @http_client = http_client || Mayhem::Support::HttpClient.new(logger: logger)
         @logger = logger
-        @content_fetcher = Mayhem::Support::ContentFetcher.new(http_client: @http_client, logger: @logger)
+        @content_fetcher = Mayhem::Content::ContentFetcher.new(http_client: @http_client, logger: @logger)
         @time_source = time_source
         @workers = [workers, 1].max
         @processed_orgs = 0
@@ -87,7 +87,7 @@ module Mayhem
       def build_existing_event_index
         index = {}
         Dir.glob(File.join(@events_dir, '*.md')).each do |path|
-          document = Mayhem::Support::FrontMatterDocument.load(path, logger: @logger)
+          document = Mayhem::FrontMatter::Document.load(path, logger: @logger)
           next unless document
 
           front_matter = document.front_matter
@@ -162,7 +162,7 @@ module Mayhem
       end
 
       def process_organization(path, stats)
-        document = Mayhem::Support::FrontMatterDocument.load(path, logger: @logger)
+        document = Mayhem::FrontMatter::Document.load(path, logger: @logger)
         return unless document
 
         ical_url = document.front_matter['events_ical_url'].to_s.strip
@@ -225,7 +225,7 @@ module Mayhem
         start_value = start_time.iso8601
         end_value = end_time.iso8601
 
-        slug = Mayhem::Support::SlugGenerator.filename_slug(
+        slug = Mayhem::FrontMatter::SlugGenerator.filename_slug(
           title: summary,
           link: canonical_url || source_title,
           date_prefix: start_prefix,
@@ -234,12 +234,12 @@ module Mayhem
         filename = File.join(@events_dir, "#{start_prefix}-#{slug}.md")
 
         description_html = Mayhem::Support::EncodingUtils.ensure_utf8(raw_html)
-        description_html = Mayhem::Support::ContentUtils.sanitize_html(event.description) if description_html.to_s.strip.empty?
+        description_html = Mayhem::Content::ContentUtils.sanitize_html(event.description) if description_html.to_s.strip.empty?
         description_html = Mayhem::Support::EncodingUtils.ensure_utf8(description_html)
-        normalized_description = Mayhem::Support::HtmlNormalizer.normalize(description_html, base_url: canonical_url)
-        checksum = Mayhem::Support::HtmlNormalizer.checksum(normalized_description)
+        normalized_description = Mayhem::Content::HtmlNormalizer.normalize(description_html, base_url: canonical_url)
+        checksum = Mayhem::Content::HtmlNormalizer.checksum(normalized_description)
         markdown_body = Mayhem::Support::EncodingUtils.ensure_utf8(
-          Mayhem::Support::ContentUtils.normalized_markdown(normalized_description)
+          Mayhem::Content::ContentUtils.normalized_markdown(normalized_description)
         )
 
         if locked_entry?(filename)
@@ -268,12 +268,13 @@ module Mayhem
           register_event_url(source_url) unless canonical_url == source_url
           return skip_event(reason: :unchanged, reason_detail: filename, stats: stats)
         end
-        document = Mayhem::Support::FrontMatterDocument.new(
+        document = Mayhem::FrontMatter::Document.new(
           path: filename,
           front_matter: front_matter,
           body: body_content
         )
-        return skip_event(reason: :unpublished, reason_detail: filename, stats: stats) if Mayhem::Support::PublishGuard.unpublished?(filename, logger: @logger)
+        return skip_event(reason: :unpublished, reason_detail: filename, stats: stats) if Mayhem::FrontMatter::PublishGuard.unpublished?(filename,
+                                                                                                                                         logger: @logger)
 
         document.save
         record_stat(:created, stats)
@@ -313,7 +314,7 @@ module Mayhem
         return false unless File.exist?(filename)
         return false if normalized_html.to_s.strip.empty?
 
-        document = Mayhem::Support::FrontMatterDocument.load(filename, logger: @logger)
+        document = Mayhem::FrontMatter::Document.load(filename, logger: @logger)
         return false unless document
 
         front_matter = document.front_matter
@@ -325,7 +326,7 @@ module Mayhem
 
         base_url = front_matter['source_url'].to_s
         base_url = canonical_url if base_url.empty?
-        existing_normalized = Mayhem::Support::HtmlNormalizer.normalize(existing_content, base_url: base_url)
+        existing_normalized = Mayhem::Content::HtmlNormalizer.normalize(existing_content, base_url: base_url)
         existing_normalized == normalized_html
       rescue StandardError => e
         @logger.debug "Failed to compare existing event #{filename}: #{e.message}"
@@ -368,7 +369,7 @@ module Mayhem
       end
 
       def locked_entry?(path)
-        Mayhem::Support::FrontMatterDocument.locked?(path, logger: @logger)
+        Mayhem::FrontMatter::Document.locked?(path, logger: @logger)
       end
 
       def fetch_event_body(url, stats)
