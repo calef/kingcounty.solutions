@@ -23,12 +23,12 @@ module Mayhem
         @locations_cache = nil
       end
 
-      def classify(content_text, content_title: nil, content_location: nil)
+      def classify(content_text, content_title: nil, content_location: nil, content_source: nil)
         locations = load_locations
         return [] if locations.empty?
 
         location_list = build_location_list(locations)
-        prompt = build_prompt(content_text, content_title, content_location, location_list)
+        prompt = build_prompt(content_text, content_title, content_location, content_source, location_list)
 
         attempts = 0
         while attempts < 3
@@ -102,9 +102,10 @@ module Mayhem
         end.join("\n")
       end
 
-      def build_prompt(content_text, content_title, content_location, location_list)
+      def build_prompt(content_text, content_title, content_location, content_source, location_list)
         prompt_parts = []
         prompt_parts << "Content Title: #{content_title}" if content_title
+        prompt_parts << "Content Source: #{content_source}" if content_source
         prompt_parts << "Content Location: #{content_location}" if content_location
         prompt_parts << "\nContent:\n#{content_text}"
 

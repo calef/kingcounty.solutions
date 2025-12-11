@@ -79,7 +79,8 @@ module Mayhem
             classified_locations = @location_classifier.classify(
               summary_text,
               content_title: front_matter['title'],
-              content_location: front_matter['location']
+              content_location: front_matter['location'],
+              content_source: front_matter['source']
             )
             front_matter['locations'] = classified_locations
             if classified_locations.empty?
@@ -158,7 +159,8 @@ module Mayhem
           classified_locations = @location_classifier.classify(
             summary_text,
             content_title: front_matter['title'],
-            content_location: front_matter['location']
+            content_location: front_matter['location'],
+            content_source: front_matter['source']
           )
           front_matter['locations'] = classified_locations
           if classified_locations.empty?

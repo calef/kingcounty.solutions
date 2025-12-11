@@ -90,7 +90,8 @@ module Mayhem
             summary_text = document.body&.strip || ''
             classified_locations = @location_classifier.classify(
               summary_text,
-              content_title: front_matter['title']
+              content_title: front_matter['title'],
+              content_source: front_matter['source']
             )
             front_matter['locations'] = classified_locations
             if classified_locations.empty?
@@ -158,7 +159,8 @@ module Mayhem
         if needs_locations
           classified_locations = @location_classifier.classify(
             summary_text,
-            content_title: front_matter['title']
+            content_title: front_matter['title'],
+            content_source: front_matter['source']
           )
           front_matter['locations'] = classified_locations
           if classified_locations.empty?
