@@ -135,7 +135,7 @@ class LocationClassifierTest < Minitest::Test
 
     client = Object.new
     call_count = 0
-    def client.chat(parameters:)
+    def client.chat(*)
       @call_count ||= 0
       @call_count += 1
       raise Faraday::TooManyRequestsError, 'rate limit' if @call_count == 1
