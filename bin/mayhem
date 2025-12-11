@@ -1,0 +1,29 @@
+#!/usr/bin/env ruby
+# frozen_string_literal: true
+
+$LOAD_PATH.unshift(File.expand_path('../lib', __dir__))
+
+require 'mayhem/cli/new_command'
+
+def usage
+  warn 'Usage: mayhem <command> [options]'
+  warn ''
+  warn 'Commands:'
+  warn '  new PATH    Create a new Jekyll site with kingcounty.solutions configuration'
+  exit 1
+end
+
+def main
+  usage if ARGV.empty?
+
+  command = ARGV.shift
+  case command
+  when 'new'
+    Mayhem::CLI::NewCommand.new(ARGV).run
+  else
+    warn "Unknown command: #{command}"
+    usage
+  end
+end
+
+main if $PROGRAM_NAME == __FILE__
