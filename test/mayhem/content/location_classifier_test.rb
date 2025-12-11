@@ -123,11 +123,12 @@ class LocationClassifierTest < Minitest::Test
     classifier.classify(
       'Some event description',
       content_title: 'Big Event',
-      content_location: 'Seattle Convention Center'
+      content_location: 'Seattle Convention Center',
+      content_source: 'Example Organization'
     )
 
     # We can't easily inspect the prompt, but we've verified it runs without error
-    assert_equal ['Seattle'], classifier.classify('Event', content_title: 'Big Event')
+    assert_equal ['Seattle'], classifier.classify('Event', content_title: 'Big Event', content_source: 'Test Source')
   end
 
   def test_classify_retries_on_rate_limit
