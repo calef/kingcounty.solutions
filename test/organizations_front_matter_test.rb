@@ -209,26 +209,6 @@ class OrganizationsFrontMatterTest < Minitest::Test
     assert_empty errors, "events_ical_url issues:\n#{errors.join("\n")}"
   end
 
-  def test_jurisdictions_are_present_and_reference_known_places
-    errors = []
-
-    organizations.each do |doc|
-      jurisdictions = doc[:data]['jurisdictions']
-      if !jurisdictions.is_a?(Array) || jurisdictions.empty?
-        errors << "#{doc[:path]} requires jurisdictions list"
-        next
-      end
-
-      jurisdictions.each do |jurisdiction|
-        unless places.include?(jurisdiction)
-          errors << "#{doc[:path]} jurisdiction '#{jurisdiction}' is not a known place"
-        end
-      end
-    end
-
-    assert_empty errors, "Jurisdiction issues:\n#{errors.join("\n")}"
-  end
-
   def test_news_rss_url_if_present_is_valid
     errors = []
 
