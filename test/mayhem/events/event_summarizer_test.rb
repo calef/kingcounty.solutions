@@ -233,7 +233,8 @@ class EventSummarizerTest < Minitest::Test
                   'title' => 'Already Summarized No Locations',
                   'start_date' => '2025-06-06',
                   'location' => 'Virtual',
-                  'summarized' => true
+                  'summarized' => true,
+                  'images' => ['https://example.com/event.jpg']
                 }, 'This event has no relevant locations.')
 
     summarizer = build_summarizer(
@@ -248,6 +249,7 @@ class EventSummarizerTest < Minitest::Test
     document = Mayhem::FrontMatter::Document.load(File.join(@tmp_events, "#{slug}.md"), logger: @logger)
 
     assert_empty document.front_matter['locations']
+    assert_empty document.front_matter['images']
     refute document.front_matter['published']
   end
 end

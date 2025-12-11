@@ -85,7 +85,8 @@ module Mayhem
             front_matter['locations'] = classified_locations
             if classified_locations.empty?
               front_matter['published'] = false
-              @logger.info "No locations matched for #{file_path}, marking as unpublished"
+              front_matter['images'] = []
+              @logger.info "No locations matched for #{file_path}, marking as unpublished and clearing images"
             end
             document.front_matter = front_matter
             document.save
@@ -170,9 +171,11 @@ module Mayhem
         end
 
         # Set published to false if either topics or locations are empty
+        # Also clear images when unpublishing
         if (needs_topics && Array(front_matter['topics']).empty?) ||
            (needs_locations && Array(front_matter['locations']).empty?)
           front_matter['published'] = false
+          front_matter['images'] = []
           if generated_from_post
             event_slug = File.basename(file_path, '.md')
             removed_refs = remove_event_references(event_slug)

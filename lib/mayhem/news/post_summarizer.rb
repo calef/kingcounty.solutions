@@ -86,13 +86,15 @@ module Mayhem
           stats[:skipped_unpublished] += 1
           # For unpublished posts during backfill, just set locations to empty array
           # without making API calls to classify locations
+          # Also clear images to remove image references
           needs_locations = !front_matter.key?('locations')
           if needs_locations && front_matter['summarized'] == true
             front_matter['locations'] = []
+            front_matter['images'] = []
             document.front_matter = front_matter
             document.save
             stats[:locations_backfilled] += 1
-            @logger.info "Set locations to [] for unpublished #{file_path}"
+            @logger.info "Set locations to [] and cleared images for unpublished #{file_path}"
           end
           return
         end
@@ -159,8 +161,12 @@ module Mayhem
         end
 
         # Set published to false if either topics or locations are empty
-        front_matter['published'] = false if (needs_topics && Array(front_matter['topics']).empty?) ||
-                                             (needs_locations && Array(front_matter['locations']).empty?)
+        # Also clear images when unpublishing
+        if (needs_topics && Array(front_matter['topics']).empty?) ||
+           (needs_locations && Array(front_matter['locations']).empty?)
+          front_matter['published'] = false
+          front_matter['images'] = []
+        end
 
         document.front_matter = front_matter
         document.body = summary_text
