@@ -20,7 +20,8 @@ Metrics/CyclomaticComplexity:
 Metrics/MethodLength:
   Enabled: false
 Metrics/ModuleLength:
-  Enabled: false
+  Exclude:
+    - 'bin/mayhem'
 Metrics/ParameterLists:
   Enabled: false
 Metrics/PerceivedComplexity:
