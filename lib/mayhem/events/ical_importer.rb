@@ -247,8 +247,9 @@ module Mayhem
           Mayhem::Support::ContentUtils.normalized_markdown(normalized_description)
         )
 
-        unless event_location_relevant?(summary, location, markdown_body)
-          return skip_event(reason: :not_king_county_relevant, reason_detail: summary, stats: stats)
+        is_relevant = event_location_relevant?(summary, location, markdown_body)
+        unless is_relevant
+          skip_event(reason: :not_king_county_relevant, reason_detail: summary, stats: stats)
         end
 
         if locked_entry?(filename)
@@ -265,6 +266,10 @@ module Mayhem
           'location' => location,
           'source_url' => canonical_url
         }
+        
+        # Mark as unpublished if not location relevant
+        front_matter['published'] = false unless is_relevant
+        
         unless normalized_description.to_s.strip.empty?
           front_matter['original_content'] = normalized_description
           front_matter['original_content_checksum'] = checksum

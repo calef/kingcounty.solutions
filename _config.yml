@@ -110,7 +110,11 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 rss_max_item_age_days: 90
+location_relevance:
+  enabled: true
+  locations:
+    - name: "King County, Washington"
+      description: "King County, Washington includes cities such as Seattle, Bellevue, Renton, Kent, Auburn, Federal Way, and many others in the greater Seattle metropolitan area."
 timezone: America/Los_Angeles
 title: King County Solutions
 url: "https://kcs.crickertech.com"
-timezone: America/Los_Angeles

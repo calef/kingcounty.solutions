@@ -35,7 +35,8 @@ module Mayhem
         topic_model: DEFAULT_TOPIC_MODEL,
         http_client: nil,
         logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'),
-        topic_classifier: nil
+        topic_classifier: nil,
+        location_checker: nil
       )
         @posts_dir = posts_dir
         @topic_dir = topic_dir
@@ -49,6 +50,7 @@ module Mayhem
                               client: @client,
                               logger: @logger
                             )
+        @location_checker = location_checker
       end
 
       def run
@@ -108,8 +110,17 @@ module Mayhem
         end
 
         summary_text = if needs_summary
-                         generate_summary(article_text, source_url, file_path,
-                                          stats)
+                         result = generate_summary(article_text, source_url, file_path, stats)
+                         if result.is_a?(Hash) && result.key?(:location_relevant)
+                           # Store location relevance if it was checked
+                           front_matter['location_relevant'] = result[:location_relevant]
+                           unless result[:location_relevant]
+                             stats[:marked_not_relevant] += 1
+                           end
+                           result[:summary]
+                         else
+                           result
+                         end
                        else
                          document.body&.strip
                        end
@@ -128,7 +139,12 @@ module Mayhem
           end
         end
 
-        front_matter['published'] = false if needs_topics && Array(front_matter['topics']).empty?
+        # Mark as unpublished if not location relevant OR no topics
+        if front_matter['location_relevant'] == false
+          front_matter['published'] = false
+        elsif needs_topics && Array(front_matter['topics']).empty?
+          front_matter['published'] = false
+        end
 
         document.front_matter = front_matter
         document.body = summary_text
@@ -141,6 +157,13 @@ module Mayhem
       end
 
       def generate_summary(article_text, source_url, file_path, stats)
+        # If location checker is provided, combine both checks in one API call
+        if @location_checker
+          result = generate_summary_with_location_check(article_text, source_url, file_path, stats)
+          return result[:summary] if result
+          return nil
+        end
+        
         prompt = <<~PROMPT
           Summarize the following article in 200 words or less in Markdown format for a news aggregator blog, adhering to The Associated Press Stylebook.
 
@@ -188,6 +211,94 @@ module Mayhem
         end
 
         @logger.warn "Skipped #{file_path}: could not summarize"
+        stats[:failed_summary] += 1
+        nil
+      end
+
+      def generate_summary_with_location_check(article_text, source_url, file_path, stats)
+        # Get location configuration for the prompt
+        config = @location_checker.instance_variable_get(:@config) rescue {}
+        locations = config.dig('location_relevance', 'locations') || []
+        if locations.empty?
+          locations = [{
+            'name' => 'King County, Washington',
+            'description' => 'King County, Washington includes cities such as Seattle, Bellevue, Renton, Kent, Auburn, Federal Way, and many others in the greater Seattle metropolitan area.'
+          }]
+        end
+
+        location_names = locations.map { |loc| loc['name'] }.join(', ')
+
+        prompt = <<~PROMPT
+          You are tasked with two things:
+          
+          1. Summarize the following article in 200 words or less in Markdown format for a news aggregator blog, adhering to The Associated Press Stylebook.
+          2. Determine if this content is relevant to an audience in: #{location_names}
+
+          Article URL: #{source_url}
+
+          For the summary:
+            - Do not include a link back to the source URL
+            - Do not include an image if one is referenced in the text
+            - Focus only on the provided text
+            - Always write in English
+            - Do not include any headings or code blocks
+            - Write what the article says, not that "the article discusses..."
+            - Use clear language no more complex than a 10th grade reading level
+
+          For location relevance:
+            - Answer "yes" if the content explicitly mentions these locations or discusses matters that apply to residents there
+            - Answer "no" if it's clearly about other locations
+            - When in doubt, answer "yes"
+
+          Respond in this exact format:
+          LOCATION_RELEVANT: yes
+          SUMMARY:
+          [your summary here]
+
+          ARTICLE CONTENT:
+          #{article_text}
+        PROMPT
+
+        attempts = 0
+        while attempts < 3
+          attempts += 1
+          begin
+            response = @client.chat(
+              parameters: {
+                model: DEFAULT_MODEL,
+                messages: [
+                  { role: 'system', content: 'You are a helpful assistant who writes summaries following The Associated Press Stylebook and evaluates location relevance.' },
+                  { role: 'user', content: prompt }
+                ],
+                temperature: 0.7
+              }
+            )
+            
+            if (error_message = response.dig('error', 'message'))
+              @logger.warn "OpenAI error for #{file_path}: #{error_message}"
+              break
+            end
+
+            content = response.dig('choices', 0, 'message', 'content')&.strip
+            return nil if content.to_s.empty?
+
+            # Parse the response
+            if content =~ /LOCATION_RELEVANT:\s*(yes|no)/i
+              is_relevant = $1.downcase == 'yes'
+              summary = content.sub(/LOCATION_RELEVANT:\s*(?:yes|no)\s*SUMMARY:\s*/i, '').strip
+              
+              return { summary: summary, location_relevant: is_relevant }
+            else
+              # Fallback: if format not followed, assume relevant and use full content as summary
+              return { summary: content, location_relevant: true }
+            end
+          rescue Faraday::TooManyRequestsError
+            @logger.warn "Rate limited, waiting 5 seconds before retry (attempt #{attempts})"
+            sleep 5
+          end
+        end
+
+        @logger.warn "Skipped #{file_path}: could not generate combined summary and location check"
         stats[:failed_summary] += 1
         nil
       end

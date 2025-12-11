@@ -200,12 +200,12 @@ module Mayhem
           return
         end
 
-        unless location_relevant?(title_text, original_html)
+        is_relevant = location_relevant?(title_text, original_html)
+        unless is_relevant
           stats[:not_king_county_relevant] += 1
-          return
         end
 
-        result = write_post(source_title, title_text, normalized, published_time, original_html)
+        result = write_post(source_title, title_text, normalized, published_time, original_html, is_relevant)
         case result
         when :created
           stats[:created] += 1
@@ -232,7 +232,7 @@ module Mayhem
         @existing_lock.synchronize { @existing_posts[normalized] = true }
       end
 
-      def write_post(source_title, title_text, link_url, published_time, original_html)
+      def write_post(source_title, title_text, link_url, published_time, original_html, is_relevant = true)
         normalized_html = Mayhem::Support::HtmlNormalizer.normalize(original_html, base_url: link_url)
         content_md = ReverseMarkdown.convert(normalized_html)
         checksum = Mayhem::Support::HtmlNormalizer.checksum(normalized_html)
@@ -271,6 +271,9 @@ module Mayhem
           'original_content' => normalized_html,
           'original_content_checksum' => checksum
         }
+        
+        # Mark as unpublished if not location relevant
+        frontmatter['published'] = false unless is_relevant
         document = Mayhem::Support::FrontMatterDocument.new(
           path: filename,
           front_matter: frontmatter,
