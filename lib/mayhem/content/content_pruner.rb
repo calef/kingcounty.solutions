@@ -23,6 +23,7 @@ module Mayhem
         @logger = logger
         @image_cleanup = image_cleanup || ImageCleanup.new(
           posts_dir: posts_dir,
+          events_dir: events_dir,
           images_dir: images_dir,
           assets_dir: assets_dir,
           logger: logger
@@ -40,6 +41,21 @@ module Mayhem
         document.save
 
         @image_cleanup.cleanup(image_ids, excluded_paths: Set[path]) if image_ids.any?
+      end
+
+      def unpublish_event(path, document)
+        front_matter = document.front_matter
+
+        front_matter['published'] = false
+        image_ids = @image_cleanup.collect_image_ids(front_matter)
+        front_matter['images'] = []
+
+        document.front_matter = front_matter
+        document.save
+
+        # For events, we need to check both posts and events directories
+        excluded_paths = Set[path]
+        @image_cleanup.cleanup(image_ids, excluded_paths: excluded_paths) if image_ids.any?
       end
 
       def delete_event(path)
