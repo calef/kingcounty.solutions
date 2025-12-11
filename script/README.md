@@ -11,6 +11,7 @@ The `script/` directory contains lightweight automation used during setup, local
 | `server` | Pulls the latest dependencies (`script/update`) and runs `bundle exec jekyll serve --livereload --host 0.0.0.0`. |
 | `setup` | Removes `_site`, `.jekyll-cache`, and `.jekyll-metadata` to give CI/build scripts a clean slate. |
 | `update` | Runs `script/bootstrap`; use after pulling remote changes to make sure gems are current. |
+| `test` | Invokes `bundle exec rake test` so just the Ruby test suite runs without building the site. |
 
 > Most installers have macOS and Ubuntu paths only. Other platforms should rely on containerized builds or install prerequisites manually.
 
@@ -40,3 +41,8 @@ The `script/` directory contains lightweight automation used during setup, local
 ### `update`
 
 - Convenience wrapper that calls `script/bootstrap`; run after fetching remote changes to pull new gems or Bundler updates automatically.
+
+### `test`
+
+- Runs `bundle exec rake test` outside of any site build so you can verify Ruby unit tests quickly.  
+- Useful when iterating on backend code or when CI already covers the full `script/cibuild` path.
