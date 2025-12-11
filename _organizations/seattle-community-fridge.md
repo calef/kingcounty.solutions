@@ -1,7 +1,5 @@
 ---
 email: seattlecommunityfridge@gmail.com
-jurisdictions:
-- Seattle
 title: Seattle Community Fridge
 topics:
 - Food & Nutrition

@@ -2,9 +2,6 @@
 acronym: MAPS
 email: imam@mapsredmond.org
 events_ical_url: https://mapsredmond.org/events/?ical=1
-jurisdictions:
-- Redmond
-- Seattle
 news_rss_url: https://mapsredmond.org/feed/
 phone: "(360) 791-0796"
 title: Muslim Association of Puget Sound

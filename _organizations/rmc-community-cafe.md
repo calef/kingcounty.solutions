@@ -1,8 +1,5 @@
 ---
 address: 100 Mill Ave S, Renton, WA 98057
-jurisdictions:
-- Renton
-- South King County
 parent_organization: REACH Renton
 title: RMC Community Cafe
 topics:

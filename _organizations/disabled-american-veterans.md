@@ -1,8 +1,6 @@
 ---
 acronym: DAV
 events_ical_url: https://www.dav.org/events-calendar/?ical=1
-jurisdictions:
-- United States
 news_rss_url: https://www.dav.org/feed/
 title: Disabled American Veterans
 topics:

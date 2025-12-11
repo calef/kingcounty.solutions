@@ -1,8 +1,6 @@
 ---
 address: 10021 NE 124th Street, Kirkland, WA 98034
 email: office@hslckirkland.org
-jurisdictions:
-- Kirkland
 phone: 425-823-2727
 title: Holy Spirit Community Pantry
 topics:

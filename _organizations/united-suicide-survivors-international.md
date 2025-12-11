@@ -1,7 +1,5 @@
 ---
 acronym: US
-jurisdictions:
-- United States
 title: United Suicide Survivors International
 topics:
 - Mental Health & Counseling

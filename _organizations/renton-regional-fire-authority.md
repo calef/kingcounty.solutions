@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- Renton
 title: Renton Regional Fire Authority
 topics:
 - Health Care

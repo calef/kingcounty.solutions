@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- Bellevue
 parent_organization: Bellevue College
 title: English as a Second Language (ESL) - Bellevue College
 topics:

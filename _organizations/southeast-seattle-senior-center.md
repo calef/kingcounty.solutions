@@ -2,8 +2,6 @@
 acronym: SESSC
 email: bradyr@sessc.org
 events_ical_url: https://sessc.org/events/?ical=1
-jurisdictions:
-- Seattle
 news_rss_url: https://sessc.org/feed/
 phone: "(206) 722-0317"
 title: SouthEast Seattle Senior Center

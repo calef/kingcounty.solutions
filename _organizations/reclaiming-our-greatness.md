@@ -1,7 +1,5 @@
 ---
 acronym: ROG
-jurisdictions:
-- King County
 news_rss_url: https://reclaimingourgreatness.org/feed/
 title: Reclaiming Our Greatness
 topics:

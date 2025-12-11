@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- Hunts Point
 title: Town of Hunts Point
 topics: []
 type: Town

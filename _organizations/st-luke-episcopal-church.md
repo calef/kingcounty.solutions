@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- Seattle
 news_rss_url: https://stlukesseattle.org/feed/
 phone: 206.784.3119
 title: St. Luke Episcopal Church

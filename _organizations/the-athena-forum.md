@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- Washington State
 parent_organization: Washington State Health Care Authority
 title: The Athena Forum
 topics:

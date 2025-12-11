@@ -1,7 +1,5 @@
 ---
 address: 179 1st Ave SE, Issaquah, WA 98027
-jurisdictions:
-- Eastside
 phone: 425-392-4123
 title: Issaquah Food & Clothing Bank
 topics:

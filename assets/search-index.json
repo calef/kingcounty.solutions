@@ -45,17 +45,6 @@ permalink: /assets/search-index.json
     "description": {{ org_excerpt | jsonify }}
   }
 {%- endfor -%}
-{%- for place in site.places -%}
-  {%- assign place_excerpt = place.content | strip_html | strip_newlines | truncate: 160 -%}
-  {%- unless first -%},{%- endunless -%}
-  {%- assign first = false -%}
-  {
-    "title": {{ place.title | jsonify }},
-    "url": {{ place.url | relative_url | jsonify }},
-    "category": "Place",
-    "description": {{ place_excerpt | jsonify }}
-  }
-{%- endfor -%}
 {%- for topic in site.topics -%}
   {%- assign topic_excerpt = topic.content | strip_html | strip_newlines | truncate: 160 -%}
   {%- unless first -%},{%- endunless -%}

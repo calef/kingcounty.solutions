@@ -1,7 +1,5 @@
 ---
 acronym: BHA
-jurisdictions:
-- Washington State
 parent_organization: Department of Social and Health Services
 title: Behavioral Health Administration
 topics:

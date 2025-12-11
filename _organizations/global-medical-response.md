@@ -1,7 +1,5 @@
 ---
 email: Investor.Relations@GMR.net
-jurisdictions:
-- United States
 title: Global Medical Response
 topics:
 - Health Care

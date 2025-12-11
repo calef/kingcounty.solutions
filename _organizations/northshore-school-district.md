@@ -1,10 +1,5 @@
 ---
 acronym: NSD
-jurisdictions:
-- Bothell
-- Kenmore
-- Woodinville
-- Cottage Lake
 parent_organization: Puget Sound Educational Service District 121
 title: Northshore School District
 topics:

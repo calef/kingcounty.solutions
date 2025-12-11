@@ -1,8 +1,4 @@
 ---
-jurisdictions:
-- Enumclaw
-- Black Diamond
-- Ravensdale
 news_rss_url: https://www.plateauoutreach.org/stories?format=rss
 title: Plateau Outreach Ministries
 topics:

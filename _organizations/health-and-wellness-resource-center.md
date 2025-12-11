@@ -1,7 +1,5 @@
 ---
 email: hawrc@uw.edu
-jurisdictions:
-- Bothell
 parent_organization: Cascadia College
 phone: 425.352.5190
 title: Health and Wellness Resource Center

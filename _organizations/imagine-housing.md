@@ -1,8 +1,6 @@
 ---
 address: 1722 138th Place NE, Bellevue, WA 98005
 email: donations@imaginehousing.org
-jurisdictions:
-- Eastside
 news_rss_url: https://imaginehousing.org/feed/
 phone: 425-576-5190
 title: Imagine Housing

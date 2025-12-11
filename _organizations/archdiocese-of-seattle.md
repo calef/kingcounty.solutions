@@ -1,8 +1,6 @@
 ---
 address: PO Box 14964, Seattle, WA 98114
 email: aca@seattlearch.org
-jurisdictions:
-- King County
 news_rss_url: https://archseattle.org/feed/
 phone: 1-800-809-4921
 title: Archdiocese of Seattle

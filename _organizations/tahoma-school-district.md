@@ -1,8 +1,5 @@
 ---
 acronym: TSD
-jurisdictions:
-- Maple Valley
-- Ravensdale
 parent_organization: Puget Sound Educational Service District 121
 title: Tahoma School District
 topics:

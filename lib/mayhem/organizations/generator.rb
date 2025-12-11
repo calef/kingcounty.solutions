@@ -18,7 +18,7 @@ module Mayhem
     class Generator
       ORG_DIR = '_organizations'
       TOPIC_DIR = '_topics'
-      PLACE_DIR = '_places'
+      LOCATION_DIR = '_locations'
       DEFAULT_TYPE = 'Community-Based Organization'
       MAX_PAGES = Integer(ENV.fetch('ORG_SCRAPER_MAX_PAGES', 5))
       PAGE_SNIPPET = Integer(ENV.fetch('ORG_SCRAPER_PAGE_SNIPPET', 3000))
@@ -28,7 +28,7 @@ module Mayhem
       def initialize(
         org_dir: ORG_DIR,
         topic_dir: TOPIC_DIR,
-        place_dir: PLACE_DIR,
+        location_dir: LOCATION_DIR,
         client: nil,
         feed_finder: nil,
         http_client: nil,
@@ -36,7 +36,7 @@ module Mayhem
       )
         @org_dir = org_dir
         @topic_dir = topic_dir
-        @place_dir = place_dir
+        @location_dir = location_dir
         @logger = logger
         @client = client || OpenAI::Client.new(access_token: ENV.fetch('OPENAI_API_KEY'))
         @http = http_client || Mayhem::Support::HttpClient.new(timeout: READ_TIMEOUT, logger: @logger)
@@ -61,7 +61,7 @@ module Mayhem
 
         feed_result = discover_feed_urls(website_url)
         topics = load_topics
-        places = load_place_titles
+        locations = load_location_titles
         types = existing_types.empty? ? [DEFAULT_TYPE] : existing_types
         prompt = build_prompt(website_url, pages, topics, types)
 
@@ -80,7 +80,7 @@ module Mayhem
 
         title = data.fetch('title', URI(website_url).host)
         slug = ensure_unique_slug(slugify(title))
-        front_matter = build_front_matter(data, places: places, types: types)
+        front_matter = build_front_matter(data, locations: locations, types: types)
         if feed_result
           front_matter['news_rss_url'] ||= feed_result.rss_url
           front_matter['events_ical_url'] ||= feed_result.ical_url
@@ -194,8 +194,8 @@ module Mayhem
         end.compact.sort
       end
 
-      def load_place_titles
-        Dir.glob(File.join(@place_dir, '*.md')).filter_map do |path|
+      def load_location_titles
+        Dir.glob(File.join(@location_dir, '*.md')).filter_map do |path|
           doc = Mayhem::Support::FrontMatterDocument.load(path, logger: @logger)
           next unless doc
 
@@ -256,7 +256,7 @@ module Mayhem
         slug
       end
 
-      def build_front_matter(data, places:, types:)
+      def build_front_matter(data, locations:, types:)
         front_matter = {}
         %w[acronym jurisdictions news_rss_url events_ical_url parent_organization phone email address topics
            type].each do |key|
@@ -269,7 +269,7 @@ module Mayhem
         front_matter.compact!
 
         if (juris = front_matter['jurisdictions'])
-          allowed = places.to_set
+          allowed = locations.to_set
           filtered = Array(juris).map(&:to_s).map(&:strip).reject(&:empty?).select { |j| allowed.include?(j) }.uniq
           front_matter['jurisdictions'] = filtered.empty? ? ['King County'] : filtered
         end

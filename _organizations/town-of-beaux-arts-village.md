@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- Beaux Arts Village
 title: Town of Beaux Arts Village
 topics: []
 type: Town

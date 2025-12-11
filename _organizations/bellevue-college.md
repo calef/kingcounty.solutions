@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- King County
 title: Bellevue College
 topics:
 - Education & Learning

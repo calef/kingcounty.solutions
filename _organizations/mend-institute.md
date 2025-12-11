@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- King County
 news_rss_url: https://mendinstitute.com/feed/
 title: MEND Institute
 topics:

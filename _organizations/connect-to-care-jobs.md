@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- Washington State
 title: Connect To Care Jobs
 topics:
 - Employment & Job Support

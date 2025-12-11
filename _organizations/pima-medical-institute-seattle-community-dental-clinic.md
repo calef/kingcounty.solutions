@@ -1,7 +1,5 @@
 ---
 acronym: PMI
-jurisdictions:
-- Seattle
 news_rss_url: https://pmi.edu/on-campus-programs/feed/
 phone: 206-529-6677
 title: Pima Medical Institute Seattle Community Dental Clinic

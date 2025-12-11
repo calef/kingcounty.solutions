@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- Algona
 title: City of Algona
 type: City
 website: https://www.algonawa.gov/

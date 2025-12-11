@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- King County
 phone: 206-901-2000
 title: SOUND Behavioral Health
 topics:

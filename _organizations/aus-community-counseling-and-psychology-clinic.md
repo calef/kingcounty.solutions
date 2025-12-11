@@ -2,8 +2,6 @@
 acronym: AUS
 address: 2601 4th Avenue, Suite 450, Seattle, WA 98121
 email: counseling@antioch.edu
-jurisdictions:
-- King County
 news_rss_url: https://www.antioch.edu/feed/
 parent_organization: Antioch University
 phone: 206-268-4840

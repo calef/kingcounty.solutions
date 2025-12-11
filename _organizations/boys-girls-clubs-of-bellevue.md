@@ -2,8 +2,6 @@
 acronym: BGCB
 address: 209 100th Ave NE, Bellevue, WA 98004
 email: development@bgcbellevue.org
-jurisdictions:
-- Bellevue
 phone: 425-777-9131
 title: Boys & Girls Clubs of Bellevue
 topics:

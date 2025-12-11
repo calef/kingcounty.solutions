@@ -1,7 +1,5 @@
 ---
 acronym: CCF
-jurisdictions:
-- King County
 phone: 253-632-2543
 title: Circle of Caring Friends Charity
 topics:

@@ -1,7 +1,5 @@
 ---
 acronym: HUD
-jurisdictions:
-- United States
 parent_organization: Federal Executive Branch
 title: Department of Housing and Urban Development
 topics:

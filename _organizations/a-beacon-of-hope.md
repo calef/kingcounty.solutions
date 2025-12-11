@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- King County
 parent_organization: Circle of Caring Friends Charity
 title: A Beacon of Hope
 topics:

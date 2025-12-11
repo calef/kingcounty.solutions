@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- King County
 parent_organization: Department of Community and Human Services
 title: Best Starts for Kids
 topics:

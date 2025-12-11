@@ -1,8 +1,6 @@
 ---
 address: 4063 148th Ave NE, Bellevue, WA 98007
 email: NBCC@bellevuewa.gov
-jurisdictions:
-- King County
 parent_organization: City of Bellevue
 phone: 425-452-7681
 title: North Bellevue Community Center

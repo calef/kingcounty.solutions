@@ -1,7 +1,5 @@
 ---
 acronym: GP
-jurisdictions:
-- King County
 title: Grassroot Projects
 topics:
 - Food & Nutrition

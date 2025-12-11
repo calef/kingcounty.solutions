@@ -1,7 +1,5 @@
 ---
 events_ical_url: https://kidvantagenw.org/events/?ical=1
-jurisdictions:
-- King County
 news_rss_url: https://kidvantagenw.org/feed/
 title: KidVantage
 topics:

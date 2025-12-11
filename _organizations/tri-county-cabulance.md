@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- King County
 phone: 425-775-8358
 title: Tri-County Cabulance
 topics:

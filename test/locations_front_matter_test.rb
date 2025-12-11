@@ -3,27 +3,25 @@
 require 'yaml'
 require 'test_helper'
 
-class PlacesFrontMatterTest < Minitest::Test
+class LocationsFrontMatterTest < Minitest::Test
   ZIP_CODE_REGEX = /\A\d{5}(?:-\d{4})?\z/
   ALLOWED_TYPES = [
     'Census-Designated Place',
     'City',
-    'Country',
     'County',
     'County Region',
-    'State',
     'Town'
   ].freeze
 
   def setup
-    @places = load_documents('_places/*.md')
-    @place_title_map = load_title_map('_places/*.md')
+    @locations = load_documents('_locations/*.md')
+    @location_title_map = load_title_map('_locations/*.md')
   end
 
   def test_latitude_if_present_is_numeric
     errors = []
 
-    places.each do |doc|
+    locations.each do |doc|
       latitude = doc[:data]['latitude']
       next if latitude.nil?
 
@@ -36,7 +34,7 @@ class PlacesFrontMatterTest < Minitest::Test
   def test_longitude_if_present_is_numeric
     errors = []
 
-    places.each do |doc|
+    locations.each do |doc|
       longitude = doc[:data]['longitude']
       next if longitude.nil?
 
@@ -49,11 +47,11 @@ class PlacesFrontMatterTest < Minitest::Test
   def test_parent_place_if_present_matches_a_place
     errors = []
 
-    places.each do |doc|
+    locations.each do |doc|
       parent_place = value_as_string(doc, 'parent_place')
       next if parent_place.nil? || parent_place.empty?
 
-      matching_paths = place_title_map[parent_place]
+      matching_paths = location_title_map[parent_place]
       if matching_paths.nil? || matching_paths.empty?
         errors << "#{doc[:path]} parent_place '#{parent_place}' must match another place title"
         next
@@ -71,7 +69,7 @@ class PlacesFrontMatterTest < Minitest::Test
     errors = []
     seen = Hash.new { |hash, key| hash[key] = [] }
 
-    places.each do |doc|
+    locations.each do |doc|
       title = value_as_string(doc, 'title')
       if title.nil? || title.empty?
         errors << "#{doc[:path]} missing required title"
@@ -93,7 +91,7 @@ class PlacesFrontMatterTest < Minitest::Test
   def test_type_is_present_string_and_allowed
     errors = []
 
-    places.each do |doc|
+    locations.each do |doc|
       type = value_as_string(doc, 'type')
       if type.nil? || type.empty?
         errors << "#{doc[:path]} missing required type"
@@ -111,7 +109,7 @@ class PlacesFrontMatterTest < Minitest::Test
   def test_zip_codes_if_present_are_valid_and_unique
     errors = []
 
-    places.each do |doc|
+    locations.each do |doc|
       zips = doc[:data]['zip_codes']
       next if zips.nil?
 
@@ -142,7 +140,7 @@ class PlacesFrontMatterTest < Minitest::Test
   def test_filename_matches_title_slug
     errors = []
 
-    places.each do |doc|
+    locations.each do |doc|
       title = value_as_string(doc, 'title')
       next if title.nil? || title.empty?
 
@@ -159,7 +157,7 @@ class PlacesFrontMatterTest < Minitest::Test
   def test_topic_summary_generated_if_present_is_true
     errors = []
 
-    places.each do |doc|
+    locations.each do |doc|
       next unless doc[:data].key?('topic_summary_generated')
 
       value = doc[:data]['topic_summary_generated']
@@ -171,7 +169,7 @@ class PlacesFrontMatterTest < Minitest::Test
 
   private
 
-  attr_reader :places, :place_title_map
+  attr_reader :locations, :location_title_map
 
   def load_documents(glob)
     Dir[glob].map { |path| { path: path, data: read_front_matter(path) } }

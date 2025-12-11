@@ -1,7 +1,5 @@
 ---
 acronym: CBSR
-jurisdictions:
-- Tukwila
 title: Church By The Side Of The Road
 topics:
 - Food & Nutrition

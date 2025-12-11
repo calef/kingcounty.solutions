@@ -1,7 +1,5 @@
 ---
 acronym: CDC
-jurisdictions:
-- United States
 parent_organization: Department of Health and Human Services
 title: Centers for Disease Control and Prevention
 topics:

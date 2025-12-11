@@ -1,8 +1,6 @@
 ---
 acronym: SLG
 email: info@skatelikeagirl.com
-jurisdictions:
-- Seattle
 phone: 1-888-401-0195
 title: Skate Like a Girl
 topics:

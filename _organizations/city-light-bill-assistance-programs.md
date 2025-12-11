@@ -1,8 +1,6 @@
 ---
 address: 700 5th Ave, Seattle, WA, 98104
 email: SCL_ExternalComms@seattle.gov
-jurisdictions:
-- Seattle
 news_rss_url: http://powerlines.seattle.gov/feed/
 parent_organization: Seattle Public Utilities
 title: City Light Bill Assistance Programs

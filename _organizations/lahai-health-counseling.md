@@ -3,9 +3,6 @@ acronym: LHC
 address: 2152 N 122nd Street, Seattle, WA 98133; 19820 Scriber Lake Road, Lynnwood,
   WA 98036
 email: counseling@lahai.org
-jurisdictions:
-- Seattle
-- King County
 news_rss_url: https://lahai.org/feed/
 phone: "(206) 363-4105 ext. 231"
 title: Lahai Health Counseling

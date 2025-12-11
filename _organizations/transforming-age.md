@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- United States
 news_rss_url: https://transformingage.org/feed/
 title: Transforming Age
 topics:

@@ -1,8 +1,4 @@
 ---
-jurisdictions:
-- Kent
-- Renton
-- Covington
 news_rss_url: https://kentmethodist.com/welcome?format=rss
 phone: 253-852-0993
 title: Kent United Methodist Church Assistance

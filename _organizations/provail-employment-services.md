@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- King County
 title: Provail Employment Services
 topics:
 - Employment & Job Support

@@ -1,7 +1,5 @@
 ---
 events_ical_url: https://www.tukwilawa.gov/events/?ical=1
-jurisdictions:
-- Tukwila
 news_rss_url: https://www.tukwilawa.gov/feed/
 title: City of Tukwila
 topics:

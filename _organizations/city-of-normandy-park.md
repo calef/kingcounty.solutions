@@ -1,7 +1,5 @@
 ---
 events_ical_url: https://normandyparkwa.gov/events/?ical=1
-jurisdictions:
-- Normandy Park
 news_rss_url: https://normandyparkwa.gov/feed/
 title: City of Normandy Park
 type: City

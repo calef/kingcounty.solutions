@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- King County
 news_rss_url: https://www.nickelsville.org/blog-feed.xml
 title: Nickelsville
 topics:

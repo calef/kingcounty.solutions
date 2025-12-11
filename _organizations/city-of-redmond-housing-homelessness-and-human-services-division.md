@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- Redmond
 parent_organization: City of Redmond
 title: City of Redmond Housing, Homelessness and Human Services Division
 topics:

@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- Washington State
 title: State of Washington
 topics: []
 type: State

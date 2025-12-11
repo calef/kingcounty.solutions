@@ -1,7 +1,5 @@
 ---
 email: advising@cascadia.edu
-jurisdictions:
-- Bothell
 title: Cascadia College
 topics:
 - Education & Learning

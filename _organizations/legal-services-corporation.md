@@ -1,7 +1,5 @@
 ---
 acronym: LSC
-jurisdictions:
-- United States
 parent_organization: Federal Executive Branch
 title: Legal Services Corporation
 topics:

@@ -1,8 +1,6 @@
 ---
 acronym: APT
 email: sheila@aptfinder.org
-jurisdictions:
-- Washington State
 title: AptFinder
 topics:
 - Shelter & Housing

@@ -1,7 +1,5 @@
 ---
 events_ical_url: https://togethercenter.org/events/?ical=1
-jurisdictions:
-- Snoqualmie Valley
 news_rss_url: https://togethercenter.org/feed/
 title: Together Center
 topics:

@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- United States
 parent_organization: Federal Executive Branch
 title: Corporation for National and Community Service (AmeriCorps)
 topics:

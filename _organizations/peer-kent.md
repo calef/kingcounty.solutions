@@ -1,9 +1,6 @@
 ---
 address: 216 W Gowe St, STE 300, Kent, WA 98032
 email: sarah@peerkent.org
-jurisdictions:
-- South King County
-- King County
 news_rss_url: https://www.peerkent.org/blog-feed.xml
 parent_organization: Peer Washington
 phone: 253.277.4942

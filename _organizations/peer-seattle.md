@@ -1,8 +1,5 @@
 ---
 address: 1520 Bellevue Ave STE 100, Seattle, WA 98122
-jurisdictions:
-- Seattle
-- King County
 parent_organization: Peer Washington
 title: Peer Seattle
 topics:

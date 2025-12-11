@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- King County
 title: Northwest University
 topics:
 - Education & Learning

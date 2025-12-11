@@ -1,7 +1,5 @@
 ---
 acronym: SEED
-jurisdictions:
-- King County
 news_rss_url: https://www.seedseattle.org/feed/
 phone: 206-760-9843
 title: SouthEast Effective Development

@@ -1,11 +1,5 @@
 ---
 address: 4326 337th Place Southeast, Fall City, WA 98024
-jurisdictions:
-- Fall City
-- Preston
-- North Bend
-- Carnation
-- Snoqualmie
 news_rss_url: https://www.fallcityfoodpantry.org/news?format=rss
 phone: 425-269-8098
 title: Fall City Community Food Pantry

@@ -1,7 +1,5 @@
 ---
 email: office@porchlightcares.org
-jurisdictions:
-- King County
 news_rss_url: https://porchlightcares.org/feed/
 phone: 425-698-1295
 title: PorchLight

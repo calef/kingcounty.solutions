@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- King County
 title: Queen Anne Helpline
 topics:
 - Shelter & Housing

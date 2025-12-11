@@ -1,8 +1,6 @@
 ---
 address: 700 5th Ave, Suite 1700, Seattle, WA, 98104
 email: education@seattle.gov
-jurisdictions:
-- Seattle
 parent_organization: City of Seattle
 phone: "(206) 233-5118"
 title: Department of Education and Early Learning

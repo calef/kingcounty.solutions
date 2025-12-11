@@ -1,7 +1,5 @@
 ---
 acronym: KCLS
-jurisdictions:
-- King County
 news_rss_url: https://kcls.org/feed/
 title: King County Library System
 topics:

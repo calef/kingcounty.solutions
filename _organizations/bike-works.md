@@ -3,8 +3,6 @@ acronym: BW
 address: '3715 S Hudson St #101, Seattle, WA 98118'
 email: info@bikeworks.org
 events_ical_url: https://bikeworks.org/events/?ical=1
-jurisdictions:
-- Seattle
 news_rss_url: https://bikeworks.org/feed/
 phone: 206.695.2522
 title: Bike Works

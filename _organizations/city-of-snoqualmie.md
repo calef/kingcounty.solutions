@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- Snoqualmie
 title: City of Snoqualmie
 type: City
 website: https://www.snoqualmiewa.gov/

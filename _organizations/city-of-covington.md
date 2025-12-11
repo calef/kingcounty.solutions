@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- Covington
 title: City of Covington
 topics:
 - Transportation & Mobility

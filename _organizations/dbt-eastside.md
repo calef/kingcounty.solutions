@@ -1,8 +1,4 @@
 ---
-jurisdictions:
-- Bellevue
-- Seattle
-- Washington State
 news_rss_url: https://www.dbteastside.com/blog?format=rss
 title: DBT Eastside
 topics:

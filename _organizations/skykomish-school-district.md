@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- Skykomish
 parent_organization: Puget Sound Educational Service District 121
 title: Skykomish School District
 topics:

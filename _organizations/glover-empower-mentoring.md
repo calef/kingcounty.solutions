@@ -2,8 +2,6 @@
 acronym: GEM
 address: 827 N Central Avenue, Suite B109, Kent, WA 98032
 email: info@gemwa.org
-jurisdictions:
-- South King County
 phone: 253-277-2726
 title: Glover Empower Mentoring
 topics:

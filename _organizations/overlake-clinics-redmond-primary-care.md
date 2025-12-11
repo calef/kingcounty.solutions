@@ -1,7 +1,5 @@
 ---
 address: 17181 Redmond Way Suite 300, Redmond, WA 98052
-jurisdictions:
-- King County
 parent_organization: Overlake Medical Center & Clinics
 phone: "(425) 635-6430"
 title: Overlake Clinics - Redmond Primary Care

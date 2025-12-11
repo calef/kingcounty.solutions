@@ -1,8 +1,6 @@
 ---
 address: 15022 NE Bel Red Rd, Bellevue, WA 98007
 email: director@renewalfoodbank.org
-jurisdictions:
-- Eastside
 phone: 425-736-8132
 title: Renewal Food Bank
 topics:

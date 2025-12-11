@@ -1,8 +1,6 @@
 ---
 address: 115 Prefontaine Place South, Seattle, WA, 98104
 email: leasing@artspace.org
-jurisdictions:
-- Seattle
 parent_organization: Artspace
 phone: 206-672-6515
 title: Tashiro Kaplan Artist Lofts

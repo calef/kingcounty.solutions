@@ -2,8 +2,6 @@
 acronym: NLM
 address: 8600 Rockville Pike, Bethesda, MD 20894
 email: NLMCommunications@nih.gov
-jurisdictions:
-- United States
 parent_organization: National Institutes of Health
 phone: "(888) FIND-NLM"
 title: National Library of Medicine

@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- Skykomish
 title: Town of Skykomish
 topics: []
 type: Town

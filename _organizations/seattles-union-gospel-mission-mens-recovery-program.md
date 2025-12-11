@@ -1,7 +1,5 @@
 ---
 acronym: UGM
-jurisdictions:
-- Seattle
 parent_organization: Seattle's Union Gospel Mission
 title: Seattle's Union Gospel Mission - Men's Recovery Program
 topics:

@@ -1,10 +1,6 @@
 ---
 acronym: FWC
 email: erica.yang@usw.salvationarmy.org
-jurisdictions:
-- Federal Way
-- Des Moines
-- Kent
 phone: "(253) 946-7933"
 title: Federal Way Corps
 topics:

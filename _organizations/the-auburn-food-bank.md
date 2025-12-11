@@ -1,9 +1,4 @@
 ---
-jurisdictions:
-- Auburn
-- Algona
-- Pacific
-- Kent
 news_rss_url: https://www.theauburnfoodbank.org/success?format=rss
 title: The Auburn Food Bank
 topics:

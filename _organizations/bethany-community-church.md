@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- Seattle
 title: Bethany Community Church
 topics:
 - Food & Nutrition

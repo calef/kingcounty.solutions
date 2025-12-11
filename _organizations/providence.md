@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- United States
 title: Providence
 topics:
 - Health Care

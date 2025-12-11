@@ -43,14 +43,12 @@ class OrganizationsGeneratorTest < Minitest::Test
   def setup
     @org_dir = Dir.mktmpdir('orgs')
     @topic_dir = Dir.mktmpdir('topics')
-    @place_dir = Dir.mktmpdir('places')
     @logger = FakeLogger.new
     @fake_client = Object.new
     @feed_finder = FakeFeedFinder.new(OpenStruct.new(rss_url: 'https://feed', ical_url: 'https://calendar'))
     @generator = Mayhem::Organizations::Generator.new(
       org_dir: @org_dir,
       topic_dir: @topic_dir,
-      place_dir: @place_dir,
       client: @fake_client,
       feed_finder: @feed_finder,
       logger: @logger
@@ -60,7 +58,6 @@ class OrganizationsGeneratorTest < Minitest::Test
   def teardown
     FileUtils.remove_entry(@org_dir)
     FileUtils.remove_entry(@topic_dir)
-    FileUtils.remove_entry(@place_dir)
   end
 
   def write_doc(dir, name, front_matter)
@@ -112,17 +109,14 @@ class OrganizationsGeneratorTest < Minitest::Test
     assert_nil @generator.send(:parse_response, 'not json')
   end
 
-  def test_build_front_matter_filters_jurisdictions_and_types
-    places = ['Seattle']
+  def test_build_front_matter_filters_types
     types = ['Community Group']
     data = {
       'acronym' => 'ABC',
-      'jurisdictions' => %w[Seattle Portland],
       'type' => 'community group',
       'topics' => ['Food']
     }
-    fm = @generator.send(:build_front_matter, data, places: places, types: types)
-    assert_equal ['Seattle'], fm['jurisdictions']
+    fm = @generator.send(:build_front_matter, data, types: types)
     assert_equal 'Community Group', fm['type']
     assert_equal ['Food'], fm['topics']
   end
@@ -139,7 +133,6 @@ class OrganizationsGeneratorTest < Minitest::Test
     failed_gen = Mayhem::Organizations::Generator.new(
       org_dir: @org_dir,
       topic_dir: @topic_dir,
-      place_dir: @place_dir,
       client: @fake_client,
       feed_finder: failing,
       logger: @logger
@@ -150,16 +143,13 @@ class OrganizationsGeneratorTest < Minitest::Test
     assert_match(/Feed discovery failed/, @logger.warns.last)
   end
 
-  def test_load_topics_and_places_sort_titles
+  def test_load_topics_sort_titles
     write_doc(@topic_dir, 'topic-one.md', { 'title' => 'B' })
     write_doc(@topic_dir, 'topic-two.md', { 'title' => 'A' })
-    write_doc(@place_dir, 'place.md', { 'title' => 'X' })
 
     topics = @generator.send(:load_topics)
-    places = @generator.send(:load_place_titles)
 
     assert_equal ['A', 'B'], topics
-    assert_equal ['X'], places
   end
 
   class FakeChatClient
@@ -174,12 +164,10 @@ class OrganizationsGeneratorTest < Minitest::Test
 
   def test_run_creates_organization_file_with_feed
     write_doc(@topic_dir, 'topic.md', { 'title' => 'Health' })
-    write_doc(@place_dir, 'place.md', { 'title' => 'Seattle' })
 
     generator = Mayhem::Organizations::Generator.new(
       org_dir: @org_dir,
       topic_dir: @topic_dir,
-      place_dir: @place_dir,
       client: @fake_client,
       feed_finder: @feed_finder,
       logger: @logger
@@ -189,8 +177,7 @@ class OrganizationsGeneratorTest < Minitest::Test
     response_body = JSON.generate({
       'title' => 'Test Organization',
       'type' => 'Community-Based Organization',
-      'topics' => ['Health'],
-      'jurisdictions' => ['Seattle']
+      'topics' => ['Health']
     })
     generator.instance_variable_set(:@client, FakeChatClient.new(response_body))
 
@@ -209,7 +196,6 @@ class OrganizationsGeneratorTest < Minitest::Test
     generator = Mayhem::Organizations::Generator.new(
       org_dir: @org_dir,
       topic_dir: @topic_dir,
-      place_dir: @place_dir,
       client: @fake_client,
       feed_finder: @feed_finder,
       logger: @logger

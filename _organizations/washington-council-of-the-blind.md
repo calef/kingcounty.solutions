@@ -2,8 +2,6 @@
 acronym: WCB
 address: 2117 O Ave, Anacortes, WA 98221-2567
 email: treasurerWCB@gmail.com
-jurisdictions:
-- King County
 news_rss_url: https://wcbinfo.org/feed/
 parent_organization: American Council of the Blind
 phone: 800-255-1147

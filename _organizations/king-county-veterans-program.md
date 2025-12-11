@@ -1,7 +1,5 @@
 ---
 acronym: KCVP
-jurisdictions:
-- King County
 parent_organization: Department of Community and Human Services
 title: King County Veterans Program
 topics:

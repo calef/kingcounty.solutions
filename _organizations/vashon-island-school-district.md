@@ -1,7 +1,5 @@
 ---
 acronym: VISD
-jurisdictions:
-- Vashon
 parent_organization: Puget Sound Educational Service District 121
 title: Vashon Island School District
 topics:

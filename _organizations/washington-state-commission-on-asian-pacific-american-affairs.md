@@ -2,8 +2,6 @@
 acronym: CAPAA
 address: Capitol Court Building, Suite 220, 1110 Capitol Way South, Olympia, WA 98501
 email: sowcapaa@capaa.wa.gov
-jurisdictions:
-- Washington State
 parent_organization: State Executive Branch
 title: Washington State Commission on Asian Pacific American Affairs
 topics:

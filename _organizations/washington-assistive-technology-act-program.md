@@ -2,8 +2,6 @@
 acronym: WATAP
 address: University of Washington, UW Box 357920, Seattle, WA 98195-7920
 email: watap@uw.edu
-jurisdictions:
-- King County
 parent_organization: Center for Technology and Disability Studies
 phone: "(800) 214-8731"
 title: Washington Assistive Technology Act Program

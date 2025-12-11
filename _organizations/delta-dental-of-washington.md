@@ -1,8 +1,6 @@
 ---
 acronym: DDWA
 address: P.O. Box 75983, Seattle, WA 98175
-jurisdictions:
-- King County
 title: Delta Dental of Washington
 topics:
 - Health Care

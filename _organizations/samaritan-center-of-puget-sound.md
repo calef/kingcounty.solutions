@@ -1,7 +1,5 @@
 ---
 acronym: SCP
-jurisdictions:
-- King County
 news_rss_url: https://samaritanps.org/feed/
 phone: "(206) 527-2266"
 title: Samaritan Center of Puget Sound

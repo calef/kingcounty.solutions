@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- Federal Way
 title: City of Federal Way
 type: City
 website: https://www.cityoffederalway.com/

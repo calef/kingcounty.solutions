@@ -1,7 +1,5 @@
 ---
 email: ayannabrown@alajawanshands.com
-jurisdictions:
-- Bryn Mawr-Skyway
 news_rss_url: https://alajawanshands.com/feed
 phone: 425-208-6236
 title: Alajawan Brown Foundation
