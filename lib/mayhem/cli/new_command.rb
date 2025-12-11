@@ -103,7 +103,7 @@ module Mayhem
 
         puts "Initializing git repository in #{@target_path}..."
         Dir.chdir(@target_path) do
-          success = system('git', 'init')
+          success = system('git', 'init', '-b', 'main')
           abort_with_error("Failed to initialize git repository in #{@target_path}") unless success
         end
       end
