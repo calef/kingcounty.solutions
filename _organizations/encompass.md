@@ -1,8 +1,4 @@
 ---
-jurisdictions:
-- Snoqualmie Valley
-- Issaquah
-- Eastside
 news_rss_url: https://encompassnw.org/home/feed/
 phone: 425.888.3347
 title: Encompass

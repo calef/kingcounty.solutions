@@ -2,8 +2,6 @@
 acronym: MH
 address: 1600 Broadway, Suite 2000, Denver, Colorado 80202
 email: customerservice@mercyhousing.org
-jurisdictions:
-- King County
 news_rss_url: https://www.mercyhousing.org/feed/
 phone: "(303) 830-3300"
 title: Mercy Housing

@@ -2,9 +2,6 @@
 address: 1419 SW 150th St, Burien, WA 98166
 email: olivia@hospitalityhousesouthking.org
 events_ical_url: https://hospitalityhousesouthking.org/events/?ical=1
-jurisdictions:
-- Burien
-- King County
 news_rss_url: https://hospitalityhousesouthking.org/feed/
 phone: 206-242-1860
 title: Hospitality House

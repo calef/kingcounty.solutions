@@ -1,11 +1,5 @@
 ---
 email: info@LiveBoldlySVH.org
-jurisdictions:
-- Carnation
-- Fall City
-- North Bend
-- Preston
-- Snoqualmie
 news_rss_url: https://snoqualmievalleyhealth.org/feed/
 phone: 425-831-2300
 title: Hospital District No. 4 (Snoqualmie Valley Hospital)

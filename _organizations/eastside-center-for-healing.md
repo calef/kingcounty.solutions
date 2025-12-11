@@ -1,8 +1,6 @@
 ---
 address: 1940 116th Ave NE Suite 103, Bellevue, Washington 98004
 email: admin@eastsidetherapists.com
-jurisdictions:
-- Bellevue
 news_rss_url: https://eastsidecenterforhealing.com/feed/
 phone: 425.462.8558
 title: Eastside Center for Healing

@@ -1,8 +1,6 @@
 ---
 acronym: BSD
 address: 12011 NE 1st Street, Bellevue, WA 98005
-jurisdictions:
-- Bellevue
 parent_organization: Puget Sound Educational Service District 121
 phone: "(425) 456-4010"
 title: Bellevue School District

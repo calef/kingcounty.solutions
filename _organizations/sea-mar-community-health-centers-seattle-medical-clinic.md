@@ -1,8 +1,5 @@
 ---
 address: 8720 14th Avenue S, Seattle, WA 98108
-jurisdictions:
-- Seattle
-- King County
 parent_organization: Sea Mar Community Health Centers
 phone: 206.762.3730
 title: Sea Mar Community Health Centers - Seattle Medical Clinic

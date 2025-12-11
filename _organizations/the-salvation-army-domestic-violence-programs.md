@@ -2,9 +2,6 @@
 acronym: TSA
 address: 1101 Pike St., Seattle, Washington 98101
 email: david.kauffman@usw.salvationarmy.org
-jurisdictions:
-- Seattle
-- King County
 phone: 206-217-1277
 title: The Salvation Army Domestic Violence Programs
 topics:

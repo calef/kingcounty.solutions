@@ -2,8 +2,6 @@
 acronym: ACRS
 address: 3639 Martin Luther King Jr. Way S, Seattle, WA 98144
 email: info@acrs.org
-jurisdictions:
-- King County
 news_rss_url: https://acrs.org/feed/
 phone: 206-695-7600
 title: Asian Counseling and Referral Service

@@ -1,8 +1,6 @@
 ---
 address: 1200 12th Ave S, Ste. 901, Seattle, WA 98144
 email: development@neighborcare.org
-jurisdictions:
-- Seattle
 phone: 206-548-5710
 title: Neighborcare Health
 topics:

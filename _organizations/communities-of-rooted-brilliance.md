@@ -2,9 +2,6 @@
 acronym: CRB
 address: 5224 Wilson Ave South Suite 201, Seattle, WA 98118
 email: info@rootedbrilliance.org
-jurisdictions:
-- Seattle
-- South King County
 news_rss_url: https://rootedbrilliance.org/feed/
 title: Communities of Rooted Brilliance
 topics:

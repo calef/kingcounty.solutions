@@ -1,7 +1,5 @@
 ---
 acronym: LSA
-jurisdictions:
-- King County
 title: Latona School Associates
 topics:
 - Education & Learning

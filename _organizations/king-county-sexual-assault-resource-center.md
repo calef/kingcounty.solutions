@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- King County
 news_rss_url: https://www.kcsarc.org/en/feed/
 phone: 888.998.6423
 title: King County Sexual Assault Resource Center

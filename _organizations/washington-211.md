@@ -1,7 +1,5 @@
 ---
 email: resources@wa211.org
-jurisdictions:
-- Washington State
 news_rss_url: https://wa211.org/feed/
 phone: 1-877-211-9274
 title: Washington 211

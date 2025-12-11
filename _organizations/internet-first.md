@@ -1,8 +1,6 @@
 ---
 acronym: IF
 email: ifdocuments@astound.com
-jurisdictions:
-- King County
 news_rss_url: https://www.internetfirst.com/feed/
 phone: 833-730-0644
 title: Internet First

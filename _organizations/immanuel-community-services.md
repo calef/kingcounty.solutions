@@ -1,8 +1,6 @@
 ---
 acronym: ICS
 email: volunteers@icsseattle.org
-jurisdictions:
-- Seattle
 news_rss_url: https://www.icsseattle.org/feed/
 title: Immanuel Community Services
 topics:

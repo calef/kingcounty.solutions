@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- Seattle
 news_rss_url: https://www.talkspace.com/blog/feed/
 title: Talkspace Free Online Therapy for Seattle Youth
 topics:

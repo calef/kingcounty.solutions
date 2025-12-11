@@ -1,8 +1,6 @@
 ---
 acronym: WFS
 email: donate@wellspringfs.org
-jurisdictions:
-- King County
 news_rss_url: https://wellspringfs.org/feed/
 phone: "(206) 787-8007"
 title: Wellspring Family Services

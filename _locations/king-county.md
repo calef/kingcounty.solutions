@@ -1,7 +1,6 @@
 ---
 latitude: 47.548
 longitude: -121.9836
-parent_place: Washington State
 title: King County
 type: County
 ---

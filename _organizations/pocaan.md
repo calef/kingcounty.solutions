@@ -1,7 +1,4 @@
 ---
-jurisdictions:
-- Seattle
-- King County
 title: POCAAN
 topics:
 - Health Care

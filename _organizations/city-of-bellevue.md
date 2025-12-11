@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- Bellevue
 news_rss_url: https://bellevuewa.gov/city-news/articles.xml
 title: City of Bellevue
 type: City

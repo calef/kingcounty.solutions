@@ -1,7 +1,5 @@
 ---
 acronym: CMS
-jurisdictions:
-- United States
 news_rss_url: https://www.cms.gov/rss/31816
 parent_organization: Department of Health and Human Services
 title: Centers for Medicare & Medicaid Services

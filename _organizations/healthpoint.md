@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- King County
 title: HealthPoint
 topics:
 - Health Care

@@ -1,7 +1,5 @@
 ---
 email: jacinta@stjameskent.org
-jurisdictions:
-- Kent
 title: St. James Outreach
 topics:
 - Food & Nutrition

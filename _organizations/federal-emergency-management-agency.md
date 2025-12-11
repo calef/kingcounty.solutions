@@ -1,7 +1,5 @@
 ---
 acronym: FEMA
-jurisdictions:
-- United States
 parent_organization: Department of Homeland Security
 title: Federal Emergency Management Agency
 topics:

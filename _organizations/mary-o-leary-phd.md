@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- Washington State
 title: Mary O'Leary, PhD
 topics:
 - Mental Health & Counseling

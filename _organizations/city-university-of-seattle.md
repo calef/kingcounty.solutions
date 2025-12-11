@@ -1,7 +1,5 @@
 ---
 email: info@cityu.edu
-jurisdictions:
-- Seattle
 news_rss_url: https://www.cityu.edu/student-services/feed/
 phone: 888-422-4898
 title: City University of Seattle

@@ -1,7 +1,5 @@
 ---
 email: info@byrdbarr.place
-jurisdictions:
-- Seattle
 title: Byrd Barr Place
 topics:
 - Food & Nutrition

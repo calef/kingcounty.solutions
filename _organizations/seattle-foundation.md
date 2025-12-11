@@ -1,8 +1,5 @@
 ---
 address: 1601 Fifth Avenue, Suite 1900, Seattle, WA 98101-3615
-jurisdictions:
-- Seattle
-- King County
 title: Seattle Foundation
 topics:
 - Financial Assistance

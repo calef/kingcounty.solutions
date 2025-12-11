@@ -1,7 +1,5 @@
 ---
 events_ical_url:
-jurisdictions:
-- King County
 news_rss_url: https://www.nwshare.org/feed/
 title: Free Food Truck – Northwest Share
 topics:

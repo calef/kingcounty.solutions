@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- United States
 phone: 800.272.3900
 title: Alzheimer's Association
 topics:

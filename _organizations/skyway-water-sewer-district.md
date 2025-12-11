@@ -1,10 +1,5 @@
 ---
 address: 6723 S 124th St, Seattle, WA 98178
-jurisdictions:
-- King County
-- Seattle
-- Renton
-- Tukwila
 phone: 206-772-7343
 title: Skyway Water & Sewer District
 topics:

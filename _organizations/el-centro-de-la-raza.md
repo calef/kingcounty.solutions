@@ -3,8 +3,6 @@ acronym: ECDLR
 address: 2524 16th Avenue S, Seattle, WA 98144
 email: ayuda@elcentrodelaraza.org
 events_ical_url: https://www.elcentrodelaraza.org/events/?ical=1
-jurisdictions:
-- King County
 news_rss_url: https://www.elcentrodelaraza.org/feed/
 phone: 206-957-4634
 title: El Centro de la Raza

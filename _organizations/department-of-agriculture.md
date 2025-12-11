@@ -1,7 +1,5 @@
 ---
 acronym: USDA
-jurisdictions:
-- United States
 parent_organization: Federal Executive Branch
 title: Department of Agriculture
 topics:

@@ -1,7 +1,5 @@
 ---
 acronym: HCSC
-jurisdictions:
-- Des Moines
 news_rss_url: https://supportcenter.highline.edu/feed/
 title: Highline College Support Center
 topics:

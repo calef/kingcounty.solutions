@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- King County
 phone: 888-364-5977
 title: The Emily Program
 topics:

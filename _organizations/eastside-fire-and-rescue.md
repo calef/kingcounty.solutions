@@ -1,11 +1,4 @@
 ---
-jurisdictions:
-- Duvall
-- Issaquah
-- Mercer Island
-- North Bend
-- Sammamish
-- Woodinville
 title: Eastside Fire & Rescue
 topics:
 - Health Care

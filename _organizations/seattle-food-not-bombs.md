@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- Seattle
 title: Seattle Food Not Bombs
 topics:
 - Food & Nutrition

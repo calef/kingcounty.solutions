@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- Enumclaw
 title: City of Enumclaw
 type: City
 website: https://www.cityofenumclaw.net/

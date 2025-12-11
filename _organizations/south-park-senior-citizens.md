@@ -1,8 +1,6 @@
 ---
 email: Katherine@spseniors.org
 events_ical_url: https://www.spseniors.org/events/?ical=1
-jurisdictions:
-- Seattle
 news_rss_url: https://www.spseniors.org/feed/
 phone: "(206) 579-6607"
 title: South Park Senior Citizens

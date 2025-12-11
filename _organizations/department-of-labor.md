@@ -1,7 +1,5 @@
 ---
 acronym: DOL
-jurisdictions:
-- United States
 parent_organization: Federal Executive Branch
 title: Department of Labor
 topics:

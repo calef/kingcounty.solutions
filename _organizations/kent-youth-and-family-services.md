@@ -1,7 +1,5 @@
 ---
 acronym: KYFS
-jurisdictions:
-- Kent
 news_rss_url: https://kyfs.org/feed/
 title: Kent Youth and Family Services
 topics:

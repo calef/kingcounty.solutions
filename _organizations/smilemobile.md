@@ -2,8 +2,6 @@
 address: 400 Fairview Ave N, Suite 800, Seattle, WA 98109
 email: websmile@deltadentalwa.com
 events_ical_url: https://smilemobilewa.org/events/?ical=1
-jurisdictions:
-- Washington State
 news_rss_url: https://smilemobilewa.org/feed/
 parent_organization: Arcora Foundation
 phone: 1.888.286.9105

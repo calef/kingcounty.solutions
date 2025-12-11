@@ -1,8 +1,6 @@
 ---
 acronym: GGG
 email: care@gogograndparent.com
-jurisdictions:
-- United States
 phone: 1 (855) 464-6872
 title: GoGoGrandparent
 topics:

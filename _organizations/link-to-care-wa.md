@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- King County
 news_rss_url: https://linktocarewa.org/feed/
 parent_organization: Community Health Network of Washington
 phone: 866-757-1832

@@ -1,7 +1,4 @@
 ---
-jurisdictions:
-- Seattle
-- King County
 title: Society of St. Vincent de Paul of Seattle/King County
 topics:
 - Food & Nutrition

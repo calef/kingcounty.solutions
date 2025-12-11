@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- King County
 news_rss_url: https://samafoundation.org/feed/?lang=en
 title: Sama Foundation
 topics:

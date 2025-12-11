@@ -1,7 +1,5 @@
 ---
 events_ical_url: https://babiesofhomelessness.org/events/?ical=1
-jurisdictions:
-- King County
 news_rss_url: https://babiesofhomelessness.org/feed/
 phone: "(866) 442-6443"
 title: Babies of Homelessness

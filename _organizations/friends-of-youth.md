@@ -1,8 +1,6 @@
 ---
 address: 12735 Willows Road NE, Kirkland WA 98034
 email: meggan@friendsofyouth.org
-jurisdictions:
-- King County
 news_rss_url: https://www.friendsofyouth.org/blog-feed.xml
 phone: 425.449.3868
 title: Friends of Youth

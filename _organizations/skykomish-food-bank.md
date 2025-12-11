@@ -1,7 +1,5 @@
 ---
 acronym: SFB
-jurisdictions:
-- Skykomish
 news_rss_url: https://skykomishfoodbank.org/feed
 title: Skykomish Food Bank
 topics:

@@ -2,12 +2,6 @@
 acronym: CNP
 address: 1924 S Cedar St, Suite B, Tacoma, WA 98405
 email: administration@carenetps.org
-jurisdictions:
-- Bellevue
-- Burien
-- Federal Way
-- Kenmore
-- Renton
 news_rss_url: https://carenetps.org/feed/
 phone: 253-383-6033
 title: Care Net of Puget Sound

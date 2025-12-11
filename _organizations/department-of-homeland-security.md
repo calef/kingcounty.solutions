@@ -1,7 +1,5 @@
 ---
 acronym: DHS
-jurisdictions:
-- United States
 parent_organization: Federal Executive Branch
 title: Department of Homeland Security
 type: Department

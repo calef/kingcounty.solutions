@@ -1,9 +1,6 @@
 ---
 acronym: UW
 events_ical_url: https://www.trumba.com/calendars/sea_campus.ics
-jurisdictions:
-- Seattle
-- Bothell
 news_rss_url: https://www.washington.edu/news/feed/
 title: University of Washington
 topics:

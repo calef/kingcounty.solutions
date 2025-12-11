@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- Seattle
 title: Seattle's Union Gospel Mission
 topics:
 - Shelter & Housing

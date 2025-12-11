@@ -1,7 +1,5 @@
 ---
 events_ical_url: https://worksourceskc.org/events_list/?ical=1
-jurisdictions:
-- King County
 news_rss_url: https://worksourceskc.org/feed/
 title: WorkSource Seattle-King County
 topics:

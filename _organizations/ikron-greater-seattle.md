@@ -1,8 +1,6 @@
 ---
 acronym: IKRON
 email: ikrongreaterseattle@ikron.org
-jurisdictions:
-- King County
 phone: "(425) 968-5921"
 title: IKRON Greater Seattle
 topics:

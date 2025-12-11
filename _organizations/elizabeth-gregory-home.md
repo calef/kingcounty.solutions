@@ -2,8 +2,6 @@
 acronym: EGH
 address: 1604 NE 50th St, Seattle, WA 98105
 email: acollinsworth@eghseattle.org
-jurisdictions:
-- King County
 news_rss_url: https://eghseattle.org/feed/
 title: Elizabeth Gregory Home
 topics:

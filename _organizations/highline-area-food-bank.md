@@ -1,8 +1,6 @@
 ---
 acronym: HAFB
 address: Manhattan Community Hall, 18300 4th Avenue South, Burien, WA
-jurisdictions:
-- Burien
 news_rss_url: https://highlineareafoodbank.org/feed/
 phone: "(206) 433-9900"
 title: Highline Area Food Bank

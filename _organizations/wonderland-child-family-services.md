@@ -2,8 +2,6 @@
 acronym: WCFS
 address: 2402 NW 195th Place, Shoreline, WA 98177
 email: info@nullwonderlandkids.org
-jurisdictions:
-- Shoreline
 news_rss_url: https://wonderlandkids.org/feed/
 phone: 206-364-3777
 title: Wonderland Child & Family Services

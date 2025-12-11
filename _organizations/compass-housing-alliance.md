@@ -1,7 +1,5 @@
 ---
 acronym: CHA
-jurisdictions:
-- King County
 news_rss_url: https://www.compasshousingalliance.org/feed/
 phone: "(206) 719-4352"
 title: Compass Housing Alliance

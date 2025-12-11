@@ -1,7 +1,5 @@
 ---
 acronym: DCHS
-jurisdictions:
-- King County
 parent_organization: King County
 title: Department of Community and Human Services
 topics:

@@ -1,7 +1,5 @@
 ---
 acronym: OPD
-jurisdictions:
-- Washington State
 parent_organization: State Judicial Branch
 title: Office of Public Defense
 topics:

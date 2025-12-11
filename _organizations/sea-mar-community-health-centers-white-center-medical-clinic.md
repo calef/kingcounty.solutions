@@ -1,8 +1,5 @@
 ---
 address: '9650 15th Avenue SW, #100, Seattle, WA 98106'
-jurisdictions:
-- Seattle
-- King County
 parent_organization: Sea Mar Community Health Centers
 phone: 206.965.1000
 title: Sea Mar Community Health Centers - White Center Medical Clinic

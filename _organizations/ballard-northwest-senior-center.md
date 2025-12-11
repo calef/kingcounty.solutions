@@ -1,7 +1,5 @@
 ---
 events_ical_url: https://ballardseniorcenter.org/events/?ical=1
-jurisdictions:
-- Seattle
 news_rss_url: https://ballardseniorcenter.org/feed/
 title: Ballard Northwest Senior Center
 topics:

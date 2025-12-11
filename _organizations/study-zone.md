@@ -1,7 +1,5 @@
 ---
 email: szonline@kcls.org
-jurisdictions:
-- King County
 parent_organization: King County Library System
 phone: "(425) 462-9600"
 title: Study Zone

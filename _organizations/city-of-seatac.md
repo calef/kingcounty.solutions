@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- SeaTac
 title: City of SeaTac
 type: City
 website: https://www.seatacwa.gov/

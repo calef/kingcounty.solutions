@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- Eastside
 news_rss_url: https://www.jfsseattle.org/feed/
 title: Jewish Family Service Seattle
 topics:

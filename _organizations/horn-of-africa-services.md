@@ -1,8 +1,5 @@
 ---
 acronym: HOAS
-jurisdictions:
-- Seattle
-- King County
 phone: 206-451-0322
 title: Horn of Africa Services
 topics:

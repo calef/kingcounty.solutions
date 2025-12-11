@@ -1,8 +1,6 @@
 ---
 acronym: FOF
 email: info@footprintsoffight.org
-jurisdictions:
-- King County
 news_rss_url: https://www.footprintsoffight.org/feed/
 title: Footprints of Fight
 topics:

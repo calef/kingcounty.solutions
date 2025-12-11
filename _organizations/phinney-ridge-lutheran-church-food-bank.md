@@ -1,7 +1,5 @@
 ---
 email: office@prlc.org
-jurisdictions:
-- King County
 phone: "(206) 783-2350"
 title: Phinney Ridge Lutheran Church Food Bank
 topics:

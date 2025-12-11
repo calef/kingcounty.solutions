@@ -2,8 +2,6 @@
 acronym: CRH
 address: 1620 12th Avenue, Suite 205, Seattle, WA 98122
 email: info@communityrootshousing.org
-jurisdictions:
-- Seattle
 news_rss_url: https://communityrootshousing.org/feed/
 phone: 206-774-1600
 title: Community Roots Housing

@@ -1,8 +1,6 @@
 ---
 address: 7722 Center Blvd SE, Snoqualmie, WA 98065
 email: amberrae@beehaveacademy.com
-jurisdictions:
-- Snoqualmie
 phone: 425-754-6276
 title: Beehave Academy
 topics:

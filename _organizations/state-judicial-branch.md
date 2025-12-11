@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- Washington State
 parent_organization: State of Washington
 title: State Judicial Branch
 topics: []

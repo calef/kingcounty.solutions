@@ -2,8 +2,6 @@
 acronym: CCS
 address: 1340 W Smith St, Kent, WA 98032
 email: email@ccskent.org
-jurisdictions:
-- King County
 phone: 253-852-7030
 title: Calvary Chapel South
 topics:

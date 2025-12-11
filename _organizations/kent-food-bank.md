@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- Kent
 title: Kent Food Bank
 topics:
 - Food & Nutrition

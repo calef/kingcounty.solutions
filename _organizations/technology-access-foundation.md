@@ -2,8 +2,6 @@
 acronym: TAF
 address: 605 SW 108th Street, Seattle, WA 98146
 email: taf@techaccess.org
-jurisdictions:
-- Washington State
 news_rss_url: https://techaccess.org/feed/
 phone: 206-725-9095
 title: Technology Access Foundation

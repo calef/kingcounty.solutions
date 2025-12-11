@@ -1,7 +1,5 @@
 ---
 acronym: SHA
-jurisdictions:
-- Seattle
 parent_organization: City of Seattle
 title: Seattle Housing Authority
 topics:

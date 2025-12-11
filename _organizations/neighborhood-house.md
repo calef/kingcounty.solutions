@@ -2,8 +2,6 @@
 acronym: NHWA
 address: 1225 South Weller Street, Suite 510, Seattle, WA 98144
 email: info@nhwa.org
-jurisdictions:
-- King County
 news_rss_url: https://nhwa.org/feed/
 phone: 206-923-6480
 title: Neighborhood House

@@ -1,7 +1,5 @@
 ---
 acronym: E4V
-jurisdictions:
-- United States
 news_rss_url: https://www.everyoneforveterans.org/2/feed
 title: Everyone for Veterans
 topics:

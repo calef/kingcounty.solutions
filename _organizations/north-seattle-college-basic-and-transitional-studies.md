@@ -1,8 +1,6 @@
 ---
 acronym: NSC
 address: 9600 College Way N3NC2407C, Seattle, WA 98103
-jurisdictions:
-- King County
 parent_organization: North Seattle College
 phone: "(206) 934-4720"
 title: North Seattle College - Basic and Transitional Studies

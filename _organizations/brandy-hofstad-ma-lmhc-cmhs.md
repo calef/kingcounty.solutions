@@ -1,14 +1,6 @@
 ---
 address: 410 Bellevue Way SE, Suite 303, Bellevue, WA 98004
 email: info@brandyhofstad.com
-jurisdictions:
-- Bellevue
-- Kirkland
-- Mercer Island
-- Redmond
-- Sammamish
-- Issaquah
-- Seattle
 phone: "(425) 495-3031"
 title: Brandy Hofstad MA, LMHC, CMHS
 topics:

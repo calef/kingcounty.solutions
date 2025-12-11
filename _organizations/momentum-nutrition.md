@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- Seattle
 title: Momentum Nutrition
 topics:
 - Food & Nutrition

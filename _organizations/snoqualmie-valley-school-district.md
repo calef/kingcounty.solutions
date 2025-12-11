@@ -1,9 +1,5 @@
 ---
 acronym: SVSD
-jurisdictions:
-- Fall City
-- North Bend
-- Snoqualmie
 parent_organization: Puget Sound Educational Service District 121
 title: Snoqualmie Valley School District
 topics:

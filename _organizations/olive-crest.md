@@ -3,8 +3,6 @@ acronym: OC
 address: 2130 E. Fourth St., Santa Ana, CA 92705
 email: donorservices@olivecrest.org
 events_ical_url: https://www.olivecrest.org/events/?ical=1
-jurisdictions:
-- King County
 news_rss_url: https://www.olivecrest.org/feed/
 phone: 800.550.CHILD
 title: Olive Crest

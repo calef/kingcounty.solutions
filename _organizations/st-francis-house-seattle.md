@@ -1,9 +1,6 @@
 ---
 address: 169 12th Ave, Seattle, WA 98122
 email: info@stfrancishouseseattle.org
-jurisdictions:
-- Seattle
-- King County
 phone: 206-268-0784
 title: St. Francis House Seattle
 topics:

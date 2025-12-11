@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- King County
 parent_organization: King County
 title: Public Health – Seattle & King County
 topics:

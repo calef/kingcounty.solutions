@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- King County
 news_rss_url: https://westseattlefoodbank.org/feed/
 phone: 206-932-9023
 title: West Seattle Food Bank

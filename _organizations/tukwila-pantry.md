@@ -1,7 +1,5 @@
 ---
 address: 3118 S. 140th Street, Tukwila, WA 98168
-jurisdictions:
-- King County
 title: Tukwila Pantry
 topics:
 - Food & Nutrition

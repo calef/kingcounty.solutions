@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- King County
 news_rss_url: https://rootstocknw.org/feed.xml
 title: Rootstock Northwest
 topics:

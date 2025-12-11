@@ -3,8 +3,6 @@ acronym: CCSWW
 address: 100 23rd Avenue S, Seattle, WA 98144
 email: info@ccsww.org
 events_ical_url: https://ccsww.org/events/?ical=1
-jurisdictions:
-- King County
 news_rss_url: https://ccsww.org/feed/
 phone: 206-328-5696
 title: Catholic Community Services of Western Washington

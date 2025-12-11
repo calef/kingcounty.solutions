@@ -1,6 +1,4 @@
 ---
-jurisdictions:
-- Issaquah
 parent_organization: City of Issaquah
 title: City of Issaquah Human Services
 type: Division

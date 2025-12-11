@@ -1,7 +1,5 @@
 ---
 address: 1101 Pike Street, Seattle, WA 98101
-jurisdictions:
-- King County
 phone: 206-442-8393
 title: The Salvation Army King County
 topics:

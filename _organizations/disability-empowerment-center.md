@@ -1,7 +1,5 @@
 ---
 acronym: DEC
-jurisdictions:
-- King County
 title: Disability Empowerment Center
 topics:
 - Disabilities
