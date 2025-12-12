@@ -67,6 +67,7 @@ original_markdown_body: '« All Events    Event Series:    <font color="green"><
   31    Series:    Holiday Sweater Week      Organizer   SP Senior Center        Venue    South
   Park Neighborhood Center     8201 10th Ave S, #4 Seattle, WA 98108 United States  +
   Google Map    Phone  206-767-2544       Comments are closed.'
+published: false
 source: South Park Senior Citizens
 source_url: https://www.spseniors.org/calendar/closed-end-of-year-2/
 start_date: '2025-12-31T00:00:00-08:00'
