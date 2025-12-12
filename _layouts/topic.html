@@ -9,22 +9,6 @@ layout: default
     <h1>{{ page.title }}</h1>
   </header>
 
-  {% assign all_topics = site.topics | sort: "title" %}
-  {% assign all_orgs = site.organizations | sort: "title" %}
-  {% assign topic_orgs = all_orgs | where_exp: "org", "org.topics and org.topics contains page.title" %}
-  {% assign topic_org_titles = topic_orgs | map: "title" %}
-  {% assign topic_org_roots = "" | split: "" %}
-  {% for org in topic_orgs %}
-    {% assign parent_name = org.parent_organization | default: "" %}
-    {% if parent_name == "" or parent_name == nil %}
-      {% assign topic_org_roots = topic_org_roots | push: org %}
-    {% elsif topic_org_titles contains parent_name %}
-      {% continue %}
-    {% else %}
-      {% assign topic_org_roots = topic_org_roots | push: org %}
-    {% endif %}
-  {% endfor %}
-
   {{ content }}
 
   {% assign topic_news = site.posts | where_exp: "post", "post.topics and post.topics contains page.title" %}
@@ -92,19 +76,5 @@ layout: default
     </section>
     {% endif %}
   </div>
-  {% endif %}
-  {% if topic_orgs and topic_orgs.size > 0 %}
-    <section>
-      <header>
-        <h2>Organizations focused on {{ page.title }}</h2>
-      </header>
-      <div class="hierarchy-tree">
-        <ul class="hierarchy-tree-list">
-          {% for org in topic_org_roots %}
-            {% include org-tree.html organization=org organizations=topic_orgs %}
-          {% endfor %}
-        </ul>
-      </div>
-    </section>
   {% endif %}
 </article>
