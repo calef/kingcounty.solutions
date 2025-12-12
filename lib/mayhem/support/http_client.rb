@@ -214,6 +214,8 @@ module Mayhem
         end
         raise_too_many_requests(response, uri, origin_url: origin_url, operation: operation) if response.code.to_i == 429
 
+        raise OpenURI::HTTPError.new("#{response.code} #{response.message} for #{uri}", response) unless response.is_a?(Net::HTTPSuccess)
+
         [
           response,
           {
