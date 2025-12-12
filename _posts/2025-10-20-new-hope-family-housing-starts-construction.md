@@ -1,7 +1,6 @@
 ---
 date: '2025-10-20T22:52:48+00:00'
-events:
-- 2027-03-01-completion-of-new-hope-family-housing
+events: []
 events_extracted: true
 images: []
 locations:
