@@ -9,10 +9,13 @@ require_relative '../content/content_pruner'
 require_relative '../front_matter/document'
 require_relative '../support/http_client'
 require_relative '../feed/discovery'
+require_relative 'helpers'
 
 module Mayhem
   module Events
     class EventSummarizer
+      include Mayhem::SummarizerHelpers
+
       EVENTS_DIR = '_events'
       POSTS_DIR = '_posts'
       IMAGES_DIR = '_images'
@@ -86,7 +89,6 @@ module Mayhem
         end
         if front_matter['summarized'] == true
           stats[:skipped_already_summarized] += 1
-          # Check if we need to classify locations for already-summarized content
           needs_locations = !front_matter.key?('locations')
           if needs_locations
             summary_text = document.body&.strip || ''
@@ -110,9 +112,10 @@ module Mayhem
           end
           return
         end
+
         needs_summary = front_matter['summarized'] != true
-        needs_topics = Array(front_matter['topics']).empty?
-        needs_locations = !front_matter.key?('locations')
+        needs_topics = needs_classification?(front_matter, 'topics')
+        needs_locations = needs_classification?(front_matter, 'locations')
         return unless needs_summary || needs_topics || needs_locations
 
         generated_from_post = front_matter['generated_from_post'] == true

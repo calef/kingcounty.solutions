@@ -245,12 +245,8 @@ module Mayhem
           'generated_from_post' => true
         }
         front_matter['end_date'] = end_time.iso8601 if end_time
-        if post_topics.is_a?(Array) && post_topics.any?
-          front_matter['topics'] = post_topics.dup
-        end
-        if post_locations.is_a?(Array) && post_locations.any?
-          front_matter['locations'] = post_locations.dup
-        end
+        front_matter['topics'] = post_topics.dup if post_topics.is_a?(Array) && post_topics.any?
+        front_matter['locations'] = post_locations.dup if post_locations.is_a?(Array) && post_locations.any?
 
         # Create event document
         body = "\n#{description}\n"
