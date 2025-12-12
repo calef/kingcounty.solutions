@@ -1,7 +1,6 @@
 ---
 date: '2025-11-26T14:52:27+00:00'
-events:
-- 2026-01-01-dav-scholarships
+events: []
 events_extracted: true
 images: []
 locations:

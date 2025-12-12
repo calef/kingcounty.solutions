@@ -2,7 +2,6 @@
 date: '2025-11-04T04:26:39+00:00'
 events:
 - 2026-01-19-cqc-scholarship-application-deadline
-- 2026-05-01-cqc-scholarship-award-announcement
 events_extracted: true
 images: []
 locations:
