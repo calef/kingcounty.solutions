@@ -120,8 +120,8 @@ class EventsDatePagesTest < Minitest::Test
     date_label = @generator.send(:ap_style_date_label, january, @site)
     month_label = @generator.send(:ap_style_month_label, february, @site)
 
-    assert_equal 'January 22, 2024', date_label
-    assert_equal 'February 2024', month_label
+    assert_equal 'Jan. 22, 2024', date_label
+    assert_equal 'Feb. 2024', month_label
   end
 
   private
