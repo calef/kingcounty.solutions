@@ -178,13 +178,13 @@ original_markdown_body: Skip to content             We used to be called the Sen
   & Strength Friday, December 5, 2025 at 10:00 am - 11:00 am     Hatha Yoga Friday,
   December 5, 2025 at 11:30 am - 12:30 pm             Calendar                 Scroll
   To Top
-published: false
 source: The Center for Active Living
 source_url: https://wscenter.org/event/fitness-for-fun/2025-12-15/
 start_date: '2025-12-15T09:00:00-08:00'
 summarized: true
 title: Fitness For Fun
-topics: []
+topics:
+- Senior Services
 ---
 
 Join us for "Fitness for Fun" on Dec. 15, 2025, from 9 to 10 a.m. at The Center for Active Living, located at 4217 SW Oregon St., Seattle, WA. This engaging class, led by Sherry, combines movement and music to provide a full-body workout that is as enjoyable as it is beneficial. Participants can expect to explore different routines that stimulate both the body and mind, ensuring a fresh experience every session. Whether you're looking to improve your fitness or simply have a good time, this class promises to keep you active and entertained. Don't miss out on a fun way to stay fit!

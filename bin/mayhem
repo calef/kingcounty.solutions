@@ -173,8 +173,8 @@ module Mayhem
 
       def run_summarize(_args)
         require 'mayhem/logging'
-        require 'mayhem/news/post_summarizer'
-        require 'mayhem/events/event_summarizer'
+        require 'mayhem/summarizer/post_summarizer'
+        require 'mayhem/summarizer/event_summarizer'
 
         logger = Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL', default_level: 'INFO', program_name: 'mayhem')
         news_stats = Mayhem::News::PostSummarizer.new.run

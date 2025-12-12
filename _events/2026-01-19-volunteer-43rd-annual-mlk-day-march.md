@@ -55,13 +55,13 @@ original_markdown_body: Martin Luther King Jr. Day is fast approaching! We have 
   a free tax volunteer Oct 10     Volunteer - Spread Joy this Holiday Season! Dec
   13     Volunteer - Spread Joy this Holiday Season - Shift 2 Dec 13     << Back to
   Events
-published: false
 source: United Way of King County
 source_url: https://www.uwkc.org/event/volunteer_43rd-annual-mlk-day-march/
 start_date: '2026-01-19T11:45:00-08:00'
 summarized: true
 title: Volunteer_43rd Annual MLK Day March
-topics: []
+topics:
+- Employment & Job Support
 ---
 
 Join us on Jan. 19, 2026, at Garfield High School, located at 400 23rd Ave., Seattle, for the 43rd Annual MLK Day March. This event is a powerful opportunity to honor Dr. Martin Luther King Jr.'s legacy and advocate for social justice. Attendees can participate in a rally, a peace march, and various workshops, including youth-led programming and a job fair. Volunteers are needed to distribute signs for the march and help with preparations in the parking lot. This initiative, hosted by Emerging Leaders 365, invites everyone to contribute to creating racially just communities. Dress warmly and wear comfortable shoes, as the event will take place outdoors. Come together to celebrate Dr. King's message of equality and make your voice heard!

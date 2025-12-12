@@ -157,10 +157,24 @@ module Mayhem
       end
 
       def safe_parse_json(content, org_title)
-        JSON.parse(content)
+        candidate = normalize_response(content)
+        JSON.parse(candidate)
       rescue JSON::ParserError
         @logger.warn "Non-JSON response for #{org_title}: #{content.inspect}"
         nil
+      end
+
+      def normalize_response(content)
+        stripped = content.to_s.strip
+        if (fenced = stripped.match(/\A```(?:json)?\s*(.+?)\s*```\z/m))
+          stripped = fenced[1].strip
+        end
+
+        json_start = stripped.index('{')
+        json_end = stripped.rindex('}')
+        return stripped unless json_start && json_end && json_end >= json_start
+
+        stripped[json_start..json_end]
       end
 
       def build_prompt(org, topics, posts)

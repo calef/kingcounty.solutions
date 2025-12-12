@@ -80,7 +80,8 @@ source_url: https://kidvantagenw.org/event/embrace-for-good/
 start_date: '2025-12-18T10:00:00-08:00'
 summarized: true
 title: Embrace for Good
-topics: []
+topics:
+- Childcare
 ---
 
 Join us for the Embrace for Good event on Dec. 18 from 10 a.m. to 4 p.m. at Pickering Barn, located at 1730 10th Ave. NW, Issaquah, Washington. Experience the joy of giving back as you take a test drive, with Lincoln donating $35 for each drive, contributing up to $7,500 to support KidVantage. This is a wonderful opportunity to help make a difference in the community while enjoying a fun and engaging activity. Don’t miss out on this chance to give back and connect with others!

@@ -306,7 +306,9 @@ start_date: '2026-01-07T10:00:00-08:00'
 summarized: true
 title: 'AiiCE book club! Disabling Intelligences: Legacies of Eugenics and How We
   are Wrong about AI'
-topics: []
+topics:
+- Disabilities
+- Education & Learning
 ---
 
 Join the AiiCE book club for a thought-provoking discussion on "Disabling Intelligences: Legacies of Eugenics and How We are Wrong about AI." This virtual event will take place on January 7, 2026, at 10 a.m. PST via Zoom. Attendees can expect to engage in deep conversations about the intersections of eugenics and artificial intelligence, exploring historical contexts and contemporary implications. Whether you're a seasoned reader or new to the topic, this is an opportunity to share insights and broaden your understanding of these critical issues. Don't miss out on this engaging discussion!

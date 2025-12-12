@@ -57,7 +57,8 @@ source_url: https://kcdrc.org/event/core-orientation/
 start_date: '2026-02-04T13:00:00-08:00'
 summarized: true
 title: CoRE™ Orientation
-topics: []
+topics:
+- Education & Learning
 ---
 
 Join us for the CoRE™ Orientation on February 4, 2026, from 1 p.m. to 5 p.m. This one-day session is designed for those who already hold a BMT Certificate from another program and want to learn about the unique aspects of the CoRE™ approach. Attendees can expect to integrate their existing skills with CoRE™ methods and practices, enhancing their conflict resolution capabilities. The orientation will take place virtually, allowing participants to engage from anywhere. Don’t miss this opportunity to expand your knowledge and connect with others in the field.
