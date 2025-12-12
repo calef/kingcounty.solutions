@@ -1,5 +1,5 @@
 ---
-end_date: '2025-12-28T17:00:00-08:00'
+end_date: '2026-01-15T17:00:00-08:00'
 images: []
 location: Virtual/Online, United States
 locations:
