@@ -102,14 +102,23 @@ module Jekyll
       events_page = site.pages.find { |page| page.relative_path == 'events.md' || page.url == '/events/' }
       return unless events_page
 
-      today_key = sorted_dates.first
-      events_for_date = sorted_events(events_by_date[today_key])
+      # Find the first date that is today or in the future
+      today = Date.today
+      future_date_index = sorted_dates.find_index { |date_str| Date.parse(date_str) >= today }
+      if future_date_index
+        display_index = future_date_index
+      else
+        # If all events are in the past, show the latest past event
+        display_index = sorted_dates.length - 1
+      end
+      display_key = sorted_dates[display_index]
+      events_for_date = sorted_events(events_by_date[display_key])
       events_page.data['events'] = events_for_date
-      events_page.data['event_date'] = Date.parse(today_key)
+      events_page.data['event_date'] = Date.parse(display_key)
       events_page.data['title'] = "Events on #{ap_style_date_label(events_page.data['event_date'], site)}"
-      events_page.data['previous_page_path'] = nil
-      events_page.data['next_page_path'] = sorted_dates[1] ? "/events/#{sorted_dates[1]}/" : nil
-      events_page.data['calendar'] = build_calendar_payload(today_key, calendar_index, site)
+      events_page.data['previous_page_path'] = display_index > 0 ? "/events/#{sorted_dates[display_index - 1]}/" : nil
+      events_page.data['next_page_path'] = display_index < sorted_dates.length - 1 ? "/events/#{sorted_dates[display_index + 1]}/" : nil
+      events_page.data['calendar'] = build_calendar_payload(display_key, calendar_index, site)
     end
 
     def build_calendar_payload(date_key, calendar_index, site)
