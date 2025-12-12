@@ -176,9 +176,11 @@ module Mayhem
       end
 
       def run_new(args)
+        require 'mayhem/logging'
         require 'mayhem/cli/new_command'
 
-        Mayhem::CLI::NewCommand.new(args).run
+        logger = Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL', default_level: 'INFO', program_name: 'mayhem')
+        Mayhem::CLI::NewCommand.new(args, logger: logger).run
       end
 
       def run_summarize(_args)

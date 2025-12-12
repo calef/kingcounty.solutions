@@ -5,6 +5,7 @@ require 'fileutils'
 require 'open3'
 require 'date'
 require 'time'
+require 'mayhem/logging'
 
 module Mayhem
   module CLI
@@ -18,9 +19,10 @@ module Mayhem
         jekyll-sitemap
       ].freeze
 
-      def initialize(args)
+      def initialize(args, logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'))
         @args = args
         @target_path = args.first
+        @logger = logger
       end
 
       def run
@@ -30,7 +32,7 @@ module Mayhem
         initialize_git_repo
         update_config
         install_plugins
-        puts "✓ Successfully created new Jekyll site at #{@target_path}"
+        @logger.info("Successfully created new Jekyll site at #{@target_path}")
       end
 
       private
@@ -83,12 +85,12 @@ module Mayhem
         config_path = File.join(@target_path, '_config.yml')
         return if File.exist?(config_path)
 
-        warn "Directory #{@target_path} exists but has no _config.yml. Running jekyll new..."
+        @logger.warn("Directory #{@target_path} exists but has no _config.yml. Running jekyll new...")
         run_jekyll_new
       end
 
       def run_jekyll_new
-        puts "Creating new Jekyll site at #{@target_path}..."
+        @logger.info("Creating new Jekyll site at #{@target_path}...")
         # Try bundle exec jekyll first, fall back to jekyll
         success = if command_exists?('bundle')
                     system('bundle', 'exec', 'jekyll', 'new', @target_path, '--skip-bundle')
@@ -101,7 +103,7 @@ module Mayhem
       def initialize_git_repo
         return if git_repo?(@target_path)
 
-        puts "Initializing git repository in #{@target_path}..."
+        @logger.info("Initializing git repository in #{@target_path}...")
         Dir.chdir(@target_path) do
           success = system('git', 'init', '-b', 'main')
           abort_with_error("Failed to initialize git repository in #{@target_path}") unless success
@@ -119,7 +121,7 @@ module Mayhem
 
       def update_config
         config_path = File.join(@target_path, '_config.yml')
-        puts 'Updating _config.yml with kingcounty.solutions configuration...'
+        @logger.info('Updating _config.yml with kingcounty.solutions configuration...')
 
         current_config = YAML.safe_load_file(config_path, permitted_classes: [Date, Time, Symbol])
         source_config = load_source_config
@@ -143,7 +145,7 @@ module Mayhem
       end
 
       def install_plugins
-        puts 'Installing Jekyll plugins...'
+        @logger.info('Installing Jekyll plugins...')
 
         gemfile_path = File.join(@target_path, 'Gemfile')
         gemfile_content = File.read(gemfile_path)
@@ -173,17 +175,17 @@ module Mayhem
 
         # Run bundle install with local path configuration
         Dir.chdir(@target_path) do
-          puts 'Configuring bundler to install to vendor/bundle...'
+          @logger.info('Configuring bundler to install to vendor/bundle...')
           system('bundle', 'config', 'set', '--local', 'path', 'vendor/bundle')
 
-          puts 'Running bundle install...'
+          @logger.info('Running bundle install...')
           success = system('bundle', 'install')
           abort_with_error('Failed to install gems via bundler') unless success
         end
       end
 
       def abort_with_error(message)
-        warn "Error: #{message}"
+        @logger.error(message)
         exit 1
       end
     end
