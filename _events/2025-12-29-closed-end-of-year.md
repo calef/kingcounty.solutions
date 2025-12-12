@@ -1,6 +1,7 @@
 ---
 end_date: '2025-12-30T00:00:00-08:00'
 images: []
+published: false
 location: 'South Park Neighborhood Center, 8201 10th Ave S, #4, Seattle, WA, 98108,
   United States'
 locations:
