@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'date'
 require 'time'
 
@@ -131,7 +133,7 @@ module Jekyll
       {
         'month_key' => month_key,
         'month_label' => ap_style_month_label(current_date, site),
-        'weekday_labels' => %w(Sun Mon Tue Wed Thu Fri Sat),
+        'weekday_labels' => ap_style_weekday_labels(site),
         'cells' => build_calendar_cells(current_date, date_key, calendar_index['date_paths']),
         'previous_month_path' => calendar_neighbor_path(calendar_index, month_key, -1),
         'next_month_path' => calendar_neighbor_path(calendar_index, month_key, 1)
