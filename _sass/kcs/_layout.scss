@@ -249,6 +249,8 @@
 .events-calendar__nav.is-disabled {
   border-color: transparent;
   color: $grey-color-light;
+  opacity: 0.5;
+  cursor: not-allowed;
 }
 
 .events-calendar__title {
