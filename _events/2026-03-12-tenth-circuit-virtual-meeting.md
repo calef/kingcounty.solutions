@@ -1,80 +1,17 @@
 ---
-end_date: '2025-12-12T14:00:00-05:00'
+end_date: '2026-03-12T15:30:00-04:00'
 images: []
 location: ''
-locations:
-- King County
-original_content: '<!DOCTYPE html> <html class="avada-html-layout-wide avada-html-header-position-top"
-  lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#" prefix="og:
-  https://ogp.me/ns#"> <head> <meta http-equiv="X-UA-Compatible" content="IE=edge"
-  /> <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/> <meta name="viewport"
-  content="width=device-width, initial-scale=1" /> <link rel=''stylesheet'' id=''tribe-events-views-v2-bootstrap-datepicker-styles-css''
-  href=''https://nosscr.org/wp-content/plugins/the-events-calendar/vendor/bootstrap-datepicker/css/bootstrap-datepicker.standalone.min.css?ver=6.15.12.2''
-  type=''text/css'' media=''all'' /> <link rel=''stylesheet'' id=''tec-variables-skeleton-css''
-  href=''https://nosscr.org/wp-content/plugins/the-events-calendar/common/build/css/variables-skeleton.css?ver=6.10.0''
-  type=''text/css'' media=''all'' /> <link rel=''stylesheet'' id=''tribe-common-skeleton-style-css''
-  href=''https://nosscr.org/wp-content/plugins/the-events-calendar/common/build/css/common-skeleton.css?ver=6.10.0''
-  type=''text/css'' media=''all'' /> <link rel=''stylesheet'' id=''tribe-tooltipster-css-css''
-  href=''https://nosscr.org/wp-content/plugins/the-events-calendar/common/vendor/tooltipster/tooltipster.bundle.min.css?ver=6.10.0''
-  type=''text/css'' media=''all'' /> <link rel=''stylesheet'' id=''tribe-events-views-v2-skeleton-css''
-  href=''https://nosscr.org/wp-content/plugins/the-events-calendar/build/css/views-skeleton.css?ver=6.15.12.2''
-  type=''text/css'' media=''all'' /> <link rel=''stylesheet'' id=''tec-variables-full-css''
-  href=''https://nosscr.org/wp-content/plugins/the-events-calendar/common/build/css/variables-full.css?ver=6.10.0''
-  type=''text/css'' media=''all'' /> <link rel=''stylesheet'' id=''tribe-common-full-style-css''
-  href=''https://nosscr.org/wp-content/plugins/the-events-calendar/common/build/css/common-full.css?ver=6.10.0''
-  type=''text/css'' media=''all'' /> <link rel=''stylesheet'' id=''tribe-events-views-v2-full-css''
-  href=''https://nosscr.org/wp-content/plugins/the-events-calendar/build/css/views-full.css?ver=6.15.12.2''
-  type=''text/css'' media=''all'' /> <link rel=''stylesheet'' id=''tribe-events-views-v2-print-css''
-  href=''https://nosscr.org/wp-content/plugins/the-events-calendar/build/css/views-print.css?ver=6.15.12.2''
-  type=''text/css'' media=''print'' /> <style>img:is([sizes="auto" i], [sizes^="auto,"
-  i]) { contain-intrinsic-size: 3000px 1500px }</style> <!-- Search Engine Optimization
-  by Rank Math - https://rankmath.com/ --> <title>A Judge’s Perspective: What Judges
-  REALLY Need from Your Briefs and Arguments | NOSSCR</title> <meta name="description"
-  content="This interactive training with retired SSA Administrative Law Judge and
-  trainer Gina Carpenter will explore the critical opportunities for"/> <meta name="robots"
-  content="follow, index, max-snippet:-1, max-video-preview:-1, max-image-preview:large"/>
-  <link rel="canonical" href="https://nosscr.org/event/a-judges-perspective-what-judges-really-need-from-your-briefs-and-arguments-2/"
-  /> <meta property="og:locale" content="en_US" /> <meta property="og:type" content="article"
-  /> <meta property="og:title" content="A Judge’s Perspective: What Judges REALLY
-  Need from Your Briefs and Arguments | NOSSCR" /> <meta property="og:description"
-  content="This interactive training with retired SSA Administrative Law Judge and
-  trainer Gina Carpenter will explore the critical opportunities for" /> <meta property="og:url"
-  content="https://nosscr.org/event/a-judges-perspective-what-judges-really-need-from-your-briefs-and-arguments-2/"
-  /> <meta property="og:site_name" content="NOSSCR" /> <meta property="og:updated_time"
-  content="2025-10-27T13:55:12-04:00" /> <meta name="twitter:card" content="summary_large_image"
-  /> <meta name="twitter:title" content="A Judge’s Perspective: What Judges REALLY
-  Need from Your Briefs and Arguments | NOSSCR" /> <meta name="twitter:description"
-  content="This interactive training with retired SSA Administrative Law Judge and
-  trainer Gina Carpenter will explore the critical opportunities for" /> <!-- /Rank
-  Math WordPress SEO plugin --> <link rel=''dns-prefetch'' href=''//www.googletagmanager.com''
-  /> <link rel="alternate" type="application/rss+xml" title="NOSSCR &raquo; Feed"
-  href="https://nosscr.org/feed/" /> <link rel="alternate" type="application/rss+xml"
-  title="NOSSCR &raquo; Comments Feed" href="https://nosscr.org/comments/feed/" />
-  <link rel="alternate" type="text/calendar" title="NOSSCR &raquo; iCal Feed" href="https://nosscr.org/events/?ical=1"
-  /> <link rel="shortcut icon" href="https://nosscr.org/wp-content/uploads/2024/04/NOSSCR-Favicon.png"
-  type="image/x-icon" /> <!-- Apple Touch Icon --> <link rel="apple-touch-icon" sizes="180x180"
-  href="https://nosscr.org/wp-content/uploads/2024/04/NOSSCR-Favicon.png"> <!-- Android
-  Icon --> <link rel="icon" sizes="192x192" href="https://nosscr.org/wp-content/uploads/2024/04/NOSSCR-Favicon.png">
-  <!-- MS Edge Icon --> <meta name="msapplication-TileImage" content="https://nosscr.org/wp-content/uploads/2024/04/NOSSCR-Favicon.png">
-  <meta name="description" content="This interactive training with retired SSA Administrative
-  Law Judge and trainer Gina Carpenter will explore the critical opportunities for
-  representatives—both immediately before and during the hearing—offering practical
-  insights on how to shape the narrative of your case and master hearing room dynamics
-  from a judge’s perspective. Participants will learn how to craft an"/> <meta property="og:locale"
-  content="en_US"/> <meta property="og:type" content="article"/> <meta property="og:site_name"
-  content="NOSSCR"/> <meta property="og:title" content="A Judge’s Perspective: What
-  Judges REALLY Need from Your Briefs and Arguments | NOSSCR"/> <meta property="og:description"
-  content="This interactive training with retired SSA Administrative Law Judge and
-  trainer Gina Carpenter will explore the critical opportunities for representatives—both
-  immediately before and during the hearing—offering practical insights on how to
-  shape the narrative of your case and master hearing room dynamics from a judge’s
-  perspective. Participants will learn how to craft an"/> <meta property="og:url"
-  content="https://nosscr.org/event/a-judges-perspective-what-judges-really-need-from-your-briefs-and-arguments-2/"/>
-  <meta property="article:modified_time" content="2025-10-27T17:55:12-05:00"/> <meta
-  property="og:image" content="https://nosscr.org/wp-content/uploads/2024/04/NOSSCR-Anniversary-Logo-1.png"/>
-  <meta property="og:image:width" content="726"/> <meta property="og:image:height"
-  content="110"/> <meta property="og:image:type" content="image/png"/> <script type="text/javascript">
-  /* <![CDATA[ */ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/nosscr.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.8.3"}};
+locations: []
+original_content: '   <meta> <meta> <meta> <link> <link> <link> <link> <link> <link>
+  <link> <link> <link> <style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size:
+  3000px 1500px }</style> <!-- Search Engine Optimization by Rank Math - https://rankmath.com/
+  --> <title>Tenth Circuit Virtual Meeting | NOSSCR</title> <meta> <link> <meta> <meta>
+  <meta> <meta> <meta> <meta> <meta> <meta> <!-- /Rank Math WordPress SEO plugin -->
+  <link> <link> <link> <link> <link> <!-- Apple Touch Icon --> <link> <!-- Android
+  Icon --> <link> <!-- MS Edge Icon --> <meta> <meta> <meta> <meta> <meta> <meta>
+  <meta> <meta> <meta> <meta> <meta> <script> /* <![CDATA[ */ window._wpemojiSettings
+  = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/16.0.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/nosscr.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.8.3"}};
   /*! This file is auto-generated */ !function(s,n){var o,i,e;function c(e){try{var
   t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function
   p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new
@@ -99,42 +36,14 @@ original_content: '<!DOCTYPE html> <html class="avada-html-layout-wide avada-htm
   t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return
   e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
   /* ]]> */ </script> <!-- nosscr.org is managing ads with Advanced Ads 2.0.14 – https://wpadvancedads.com/
-  --><script id="nossc-ready"> window.advanced_ads_ready=function(e,a){a=a||"complete";var
-  d=function(e){return"interactive"===a?"loading"!==e:"complete"===e};d(document.readyState)?e():document.addEventListener("readystatechange",(function(a){d(a.target.readyState)&&e()}),{once:"interactive"===a})},window.advanced_ads_ready_queue=window.advanced_ads_ready_queue||[];
-  </script> <link rel=''stylesheet'' id=''tribe-events-v2-single-skeleton-css'' href=''https://nosscr.org/wp-content/plugins/the-events-calendar/build/css/tribe-events-single-skeleton.css?ver=6.15.12.2''
-  type=''text/css'' media=''all'' /> <link rel=''stylesheet'' id=''tribe-events-v2-single-skeleton-full-css''
-  href=''https://nosscr.org/wp-content/plugins/the-events-calendar/build/css/tribe-events-single-full.css?ver=6.15.12.2''
-  type=''text/css'' media=''all'' /> <style id=''wp-emoji-styles-inline-css'' type=''text/css''>
-  img.wp-smiley, img.emoji { display: inline !important; border: none !important;
-  box-shadow: none !important; height: 1em !important; width: 1em !important; margin:
-  0 0.07em !important; vertical-align: -0.1em !important; background: none !important;
-  padding: 0 !important; } </style> <link rel=''stylesheet'' id=''usa-html5-map-style-css''
-  href=''https://nosscr.org/wp-content/plugins/usahtmlmap/static/css/map.css?ver=6.8.3''
-  type=''text/css'' media=''all'' /> <link rel=''stylesheet'' id=''wp-job-manager-job-listings-css''
-  href=''https://nosscr.org/wp-content/plugins/wp-job-manager/assets/dist/css/job-listings.css?ver=598383a28ac5f9f156e4''
-  type=''text/css'' media=''all'' /> <link rel=''stylesheet'' id=''fusion-core-comment-form-css''
-  href=''https://nosscr.org/wp-content/plugins/fusion-core/css/comment-form.min.css?ver=5.14''
-  type=''text/css'' media=''all'' /> <link rel=''stylesheet'' id=''fusion-core-privacy-css''
-  href=''https://nosscr.org/wp-content/plugins/fusion-core/css/privacy.min.css?ver=5.14''
-  type=''text/css'' media=''all'' /> <link rel=''stylesheet'' id=''fusion-core-faqs-css''
-  href=''https://nosscr.org/wp-content/plugins/fusion-core/css/faqs.min.css?ver=5.14''
-  type=''text/css'' media=''all'' /> <link rel=''stylesheet'' id=''avada-stylesheet-css''
-  href=''https://nosscr.org/wp-content/themes/Avada/assets/css/style.min.css?ver=7.14''
-  type=''text/css'' media=''all'' /> <link rel=''stylesheet'' id=''nosscr-newsletter/style.css-css''
-  href=''https://nosscr.org/wp-content/plugins/nosscr-newsletter-2.56.00-PM/assets/css/styles.css''
-  type=''text/css'' media=''all'' /> <script type="text/javascript" src="https://nosscr.org/wp-includes/js/jquery/jquery.min.js?ver=3.7.1"
-  id="jquery-core-js"></script> <script type="text/javascript" src="https://nosscr.org/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1"
-  id="jquery-migrate-js"></script> <script type="text/javascript" src="https://nosscr.org/wp-content/plugins/the-events-calendar/common/build/js/tribe-common.js?ver=9c44e11f3503a33e9540"
-  id="tribe-common-js"></script> <script type="text/javascript" src="https://nosscr.org/wp-content/plugins/the-events-calendar/build/js/views/breakpoints.js?ver=4208de2df2852e0b91ec"
-  id="tribe-events-views-v2-breakpoints-js"></script> <link rel="https://api.w.org/"
-  href="https://nosscr.org/wp-json/" /><link rel="alternate" title="JSON" type="application/json"
-  href="https://nosscr.org/wp-json/wp/v2/tribe_events/15362" /><link rel="EditURI"
-  type="application/rsd+xml" title="RSD" href="https://nosscr.org/xmlrpc.php?rsd"
-  /> <meta name="generator" content="WordPress 6.8.3" /> <link rel=''shortlink'' href=''https://nosscr.org/?p=15362''
-  /> <link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://nosscr.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnosscr.org%2Fevent%2Fa-judges-perspective-what-judges-really-need-from-your-briefs-and-arguments-2%2F"
-  /> <link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://nosscr.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fnosscr.org%2Fevent%2Fa-judges-perspective-what-judges-really-need-from-your-briefs-and-arguments-2%2F&#038;format=xml"
-  /> <meta name="generator" content="Site Kit by Google 1.167.0" /><!-- HFCM by 99
-  Robots - Snippet # 1: Userway --> <script> (function(d){ var s = d.createElement("script");
+  --><script> window.advanced_ads_ready=function(e,a){a=a||"complete";var d=function(e){return"interactive"===a?"loading"!==e:"complete"===e};d(document.readyState)?e():document.addEventListener("readystatechange",(function(a){d(a.target.readyState)&&e()}),{once:"interactive"===a})},window.advanced_ads_ready_queue=window.advanced_ads_ready_queue||[];
+  </script> <link> <link> <style> img.wp-smiley, img.emoji { display: inline !important;
+  border: none !important; box-shadow: none !important; height: 1em !important; width:
+  1em !important; margin: 0 0.07em !important; vertical-align: -0.1em !important;
+  background: none !important; padding: 0 !important; } </style> <link> <link> <link>
+  <link> <link> <link> <link> <script></script> <script></script> <script></script>
+  <script></script> <link><link><link> <meta> <link> <link> <link> <meta><!-- HFCM
+  by 99 Robots - Snippet # 1: Userway --> <script> (function(d){ var s = d.createElement("script");
   /* uncomment the following line to override default position*/ /* s.setAttribute("data-position",
   3);*/ /* uncomment the following line to override default size (values: small, large)*/
   /* s.setAttribute("data-size", "small");*/ /* uncomment the following line to override
@@ -150,33 +59,14 @@ original_content: '<!DOCTYPE html> <html class="avada-html-layout-wide avada-htm
   "RPHOiQVp4R"); s.setAttribute("src", "https://cdn.userway.org/widget.js"); (d.body
   || d.head).appendChild(s); })(document) </script> <!-- /end HFCM by 99 Robots -->
   <!-- HFCM by 99 Robots - Snippet # 3: Google Analytics --> <!-- Google tag (gtag.js)
-  --> <script async src="https://www.googletagmanager.com/gtag/js?id=G-HM5QKFRL5J"></script>
-  <script> window.dataLayer = window.dataLayer || []; function gtag(){dataLayer.push(arguments);}
-  gtag(''js'', new Date()); gtag(''config'', ''G-HM5QKFRL5J''); </script> <!-- /end
-  HFCM by 99 Robots --> <!-- HFCM by 99 Robots - Snippet # 9: Hotjar --> <!-- Hotjar
-  Tracking Code for NOSSCR Main --> <script> (function(h,o,t,j,a,r){ h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
-  h._hjSettings={hjid:3831541,hjsv:6}; a=o.getElementsByTagName(''head'')[0]; r=o.createElement(''script'');r.async=1;
+  --> <script></script> <script> window.dataLayer = window.dataLayer || []; function
+  gtag(){dataLayer.push(arguments);} gtag(''js'', new Date()); gtag(''config'', ''G-HM5QKFRL5J'');
+  </script> <!-- /end HFCM by 99 Robots --> <!-- HFCM by 99 Robots - Snippet # 9:
+  Hotjar --> <!-- Hotjar Tracking Code for NOSSCR Main --> <script> (function(h,o,t,j,a,r){
+  h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)}; h._hjSettings={hjid:3831541,hjsv:6};
+  a=o.getElementsByTagName(''head'')[0]; r=o.createElement(''script'');r.async=1;
   r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv; a.appendChild(r); })(window,document,''https://static.hotjar.com/c/hotjar-'',''.js?sv='');
-  </script> <!-- /end HFCM by 99 Robots --> <meta name="tec-api-version" content="v1"><meta
-  name="tec-api-origin" content="https://nosscr.org"><link rel="alternate" href="https://nosscr.org/wp-json/tribe/events/v1/events/15362"
-  /><link rel="preload" href="https://nosscr.org/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon/awb-icons.woff"
-  as="font" type="font/woff" crossorigin><link rel="preload" href="//nosscr.org/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-brands-400.woff2"
-  as="font" type="font/woff2" crossorigin><link rel="preload" href="//nosscr.org/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-regular-400.woff2"
-  as="font" type="font/woff2" crossorigin><link rel="preload" href="//nosscr.org/wp-content/themes/Avada/includes/lib/assets/fonts/fontawesome/webfonts/fa-solid-900.woff2"
-  as="font" type="font/woff2" crossorigin><link rel="preload" href="https://nosscr.org/wp-content/uploads/fusion-icons/Caterer-Icons-Studio/fonts/Caterer-Icons.ttf?z2v9fo"
-  as="font" type="font/ttf" crossorigin><link rel="preload" href="https://nosscr.org/wp-content/uploads/fusion-icons/accountant-pro-icon-set-2/fonts/Accountant-Pro.ttf?ym7fev"
-  as="font" type="font/ttf" crossorigin><link rel="preload" href="https://nosscr.org/wp-content/uploads/fusion-icons/business-v1.0-2/fonts/business.ttf?rva0v6"
-  as="font" type="font/ttf" crossorigin><link rel="preload" href="https://nosscr.org/wp-content/uploads/fusion-icons/accountant-pro-icon-set-1/fonts/Accountant-Pro.ttf?ym7fev"
-  as="font" type="font/ttf" crossorigin><link rel="preload" href="https://nosscr.org/wp-content/uploads/fusion-icons/user-interface-v1.0/fonts/user-interface.ttf?55z8ir"
-  as="font" type="font/ttf" crossorigin><link rel="preload" href="https://nosscr.org/wp-content/uploads/fusion-icons/digital-agency-icon-set/fonts/digital.ttf?exhcqw"
-  as="font" type="font/ttf" crossorigin><link rel="preload" href="https://nosscr.org/wp-content/uploads/fusion-icons/marketing-bold-icon-set-1/fonts/Marketing-Bold.ttf?x1m7hf"
-  as="font" type="font/ttf" crossorigin><link rel="preload" href="https://nosscr.org/wp-content/uploads/fusion-icons/marketing-bold-icon-set/fonts/Marketing-Bold.ttf?x1m7hf"
-  as="font" type="font/ttf" crossorigin><link rel="preload" href="https://nosscr.org/wp-content/uploads/fusion-icons/business-v1.0-1-1/fonts/business.ttf?rva0v6"
-  as="font" type="font/ttf" crossorigin><link rel="preload" href="https://nosscr.org/wp-content/uploads/fusion-icons/business-v1.0-1/fonts/business.ttf?rva0v6"
-  as="font" type="font/ttf" crossorigin><link rel="preload" href="https://nosscr.org/wp-content/uploads/fusion-icons/hosting-template-v3.0/fonts/hosting-template.ttf?hbmf06"
-  as="font" type="font/ttf" crossorigin><link rel="preload" href="https://nosscr.org/wp-content/uploads/fusion-icons/business-v1.0/fonts/business.ttf?rva0v6"
-  as="font" type="font/ttf" crossorigin><link rel="preload" href="https://nosscr.org/wp-content/uploads/fusion-icons/accountant-pro-icon-set/fonts/Accountant-Pro.ttf?ym7fev"
-  as="font" type="font/ttf" crossorigin><style type="text/css" id="css-fb-visibility">@media
+  </script> <!-- /end HFCM by 99 Robots --> <meta><meta><link><link><link><link><link><link><link><link><link><link><link><link><link><link><link><link><link><link><style>@media
   screen and (max-width: 640px){.fusion-no-small-visibility{display:none !important;}body
   .sm-text-align-center{text-align:center !important;}body .sm-text-align-left{text-align:left
   !important;}body .sm-text-align-right{text-align:right !important;}body .sm-text-align-justify{text-align:justify
@@ -200,27 +90,25 @@ original_content: '<!DOCTYPE html> <html class="avada-html-layout-wide avada-htm
   .lg-flex-align-flex-end{justify-content:flex-end !important;}body .lg-mx-auto{margin-left:auto
   !important;margin-right:auto !important;}body .lg-ml-auto{margin-left:auto !important;}body
   .lg-mr-auto{margin-right:auto !important;}body .fusion-absolute-position-large{position:absolute;top:auto;width:100%;}.awb-sticky.awb-sticky-large{
-  position: sticky; top: var(--awb-sticky-offset,0); }}</style><script type="application/ld+json">
-  [{"@context":"http://schema.org","@type":"Event","name":"A Judge\u2019s Perspective:
-  What Judges REALLY Need from Your Briefs and Arguments","description":"&lt;p&gt;This
-  interactive training with retired SSA Administrative Law Judge and ...&lt;/p&gt;\\n","url":"https://nosscr.org/event/a-judges-perspective-what-judges-really-need-from-your-briefs-and-arguments-2/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2025-12-12T09:00:00-05:00","endDate":"2025-12-12T14:00:00-05:00","performer":"Organization"}]
-  </script> <style type="text/css" id="wp-custom-css"> @import url(''path/to/your/imported/stylesheet.css'');
-  /**Submenu Font**/ .fusion-main-menu .fusion-dropdown-menu .sub-menu li a { font-size:
-  15px !important; font-weight: 500 !important; line-height: 1.1em; } /**Homepage
-  Hero**/ .fusion-body #wrapper .fusion-title h3 { font-weight: 300; } /**In The News**/
-  .fusion-blog-shortcode .fusion-read-more { font-size: 15px !important; font-weight:
-  600; } /**Job Openings**/ input[type="submit" i] { font-weight: 600 !important;
-  font-size: 18px; background-color: #306f9d; color: #fff; border-color: #306f9d;
-  padding: 10px 24px; } ul.job_listings li.job_listing a div.position h3 { color:
-  #306f9d; font-size: 20px; font-weight: 600; } ul.job_listings li.job_listing a div.position
-  .company { color: #00aeef; font-size: 16px; font-weight: 300 !important; } ul.job_listings
-  li.job_listing a .meta .job-type { color: #c3986b; font-size: 16px; font-weight:
-  400 !important; } .single_job_listing .application .application_button { color:
-  #ffffff; background-color: #00aeef; border-color: #00aeef; } .fusion-flexslider.flexslider-posts
-  .slide-excerpt h2 { background: #002549 !important; } /**Press Releases Post**/
-  post h2 { font-size: 20px !important; font-weight: 300 !important; line-height:
-  1.25em!important; } /**Events**/ .tribe-common--breakpoint-medium.tribe-events .tribe-events-l-container
-  { padding-top: 10px; } .single-tribe_events .sidebar .tribe-events-event-meta .tribe-events-single-section-title
+  position: sticky; top: var(--awb-sticky-offset,0); }}</style><script> [{"@context":"http://schema.org","@type":"Event","name":"Tenth
+  Circuit Virtual Meeting","description":"","url":"https://nosscr.org/event/tenth-circuit-virtual-meeting/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2026-03-12T14:30:00-04:00","endDate":"2026-03-12T15:30:00-04:00","performer":"Organization"}]
+  </script> <style> @import url(''path/to/your/imported/stylesheet.css''); /**Submenu
+  Font**/ .fusion-main-menu .fusion-dropdown-menu .sub-menu li a { font-size: 15px
+  !important; font-weight: 500 !important; line-height: 1.1em; } /**Homepage Hero**/
+  .fusion-body #wrapper .fusion-title h3 { font-weight: 300; } /**In The News**/ .fusion-blog-shortcode
+  .fusion-read-more { font-size: 15px !important; font-weight: 600; } /**Job Openings**/
+  input[type="submit" i] { font-weight: 600 !important; font-size: 18px; background-color:
+  #306f9d; color: #fff; border-color: #306f9d; padding: 10px 24px; } ul.job_listings
+  li.job_listing a div.position h3 { color: #306f9d; font-size: 20px; font-weight:
+  600; } ul.job_listings li.job_listing a div.position .company { color: #00aeef;
+  font-size: 16px; font-weight: 300 !important; } ul.job_listings li.job_listing a
+  .meta .job-type { color: #c3986b; font-size: 16px; font-weight: 400 !important;
+  } .single_job_listing .application .application_button { color: #ffffff; background-color:
+  #00aeef; border-color: #00aeef; } .fusion-flexslider.flexslider-posts .slide-excerpt
+  h2 { background: #002549 !important; } /**Press Releases Post**/ post h2 { font-size:
+  20px !important; font-weight: 300 !important; line-height: 1.25em!important; } /**Events**/
+  .tribe-common--breakpoint-medium.tribe-events .tribe-events-l-container { padding-top:
+  10px; } .single-tribe_events .sidebar .tribe-events-event-meta .tribe-events-single-section-title
   { color: #fff !important; background-color: #306f9d !important; font-size: 30px;
   } .fusion-body .fusion-wrapper #main .tribe-events .tribe-events-c-top-bar__datepicker
   .tribe-events-c-top-bar__datepicker-button { background-color: #00aeef !important;
@@ -241,9 +129,8 @@ original_content: '<!DOCTYPE html> <html class="avada-html-layout-wide avada-htm
   #0653B8; text-align: center; } body > div.innercontentsec.ComPTB30.nosscr-newsletter
   > div > div > div > div.col-sm-9.innerrightpanel > div.htmlprint.article-content
   > figure > table > tbody > tr > td { color: #222222; } body > div /* Forum Archive
-  */ .fusion-blog-archive .entry-title { font-size: 20px !important; } </style> <style
-  id="fusion-stylesheet-inline-css" type="text/css">/********* Compiled CSS - Do not
-  edit *********/ :root{--button_padding:11px 23px;}.has-awb-color-1-color{color:#ffffff;}.has-awb-color-1-background-color{background-color:#ffffff;}.has-awb-color-2-color{color:#c3986b;}.has-awb-color-2-background-color{background-color:#c3986b;}.has-awb-color-3-color{color:#a7a9ac;}.has-awb-color-3-background-color{background-color:#a7a9ac;}.has-awb-color-4-color{color:#00aeef;}.has-awb-color-4-background-color{background-color:#00aeef;}.has-awb-color-5-color{color:#306f9d;}.has-awb-color-5-background-color{background-color:#306f9d;}.has-awb-color-6-color{color:#1e4561;}.has-awb-color-6-background-color{background-color:#1e4561;}.has-awb-color-7-color{color:#142f43;}.has-awb-color-7-background-color{background-color:#142f43;}.has-awb-color-8-color{color:#000000;}.has-awb-color-8-background-color{background-color:#000000;}/*
+  */ .fusion-blog-archive .entry-title { font-size: 20px !important; } </style> <style>/*********
+  Compiled CSS - Do not edit *********/ :root{--button_padding:11px 23px;}.has-awb-color-1-color{color:#ffffff;}.has-awb-color-1-background-color{background-color:#ffffff;}.has-awb-color-2-color{color:#c3986b;}.has-awb-color-2-background-color{background-color:#c3986b;}.has-awb-color-3-color{color:#a7a9ac;}.has-awb-color-3-background-color{background-color:#a7a9ac;}.has-awb-color-4-color{color:#00aeef;}.has-awb-color-4-background-color{background-color:#00aeef;}.has-awb-color-5-color{color:#306f9d;}.has-awb-color-5-background-color{background-color:#306f9d;}.has-awb-color-6-color{color:#1e4561;}.has-awb-color-6-background-color{background-color:#1e4561;}.has-awb-color-7-color{color:#142f43;}.has-awb-color-7-background-color{background-color:#142f43;}.has-awb-color-8-color{color:#000000;}.has-awb-color-8-background-color{background-color:#000000;}/*
   cyrillic */ @font-face { font-family: ''Jost''; font-style: italic; font-weight:
   400; src: url(https://fonts.gstatic.com/s/jost/v20/92zUtBhPNqw73oHt5D4hTxM.woff2)
   format(''woff2''); unicode-range: U+0301, U+0400-045F, U+0490-0491, U+04B0-04B1,
@@ -7708,15 +7595,33 @@ original_content: '<!DOCTYPE html> <html class="avada-html-layout-wide avada-htm
   * 1.41421356237) var(--awb-testimonial-border-style) var(--awb-testimonial-border-color);border-top-color:transparent;border-left-color:transparent;font-size:inherit;clip-path:polygon(0%
   100%,100% 0,100% 100%)}.fusion-testimonials.classic .avatar-image .awb-triangle{position:relative;margin:0
   var(--awb-avatar-size,40px)}.fusion-testimonials.classic .author{display:flex;align-items:center;position:relative;margin:.5em
-  -.5em 0 -.5em;font-size:var(--awb-name-company-font-size)}.fusion-testimon'
+  -.5em 0 -.5em;font-size:var(--awb-name-company-font-size)}.fusion-testimonials.classic
+  .author a{text-decoration:none}.fusion-testimonials.classic .testimonial-thumbnail{box-sizing:content-box;padding:0
+  .5em;width:var(--awb-avatar-size,40px)}.fusion-testimonials.classic .testimonial-image{width:100%}.fusion-testimonials.classic
+  .company-name{display:flex;padding:0 .5em}.fusion-testimonials.classic .company-name>span{padding-inline:0
+  0.25em}.fusion-testimonials.classic .doe{width:calc((var(--awb-avatar-size,40px))
+  * .75)}.fusion-testimonials.classic .doe:before{line-height:var(--awb-avatar-size,
+  40px);font-size:calc((var(--awb-avatar-size, 40px)) * .75)}.fusion-testimonials.clean
+  .testimonial-thumbnail{margin:0 auto;width:var(--awb-avatar-size,150px);text-align:center}.fusion-testimonials.clean
+  .testimonial-image{width:100%}.fusion-testimonials.clean .doe:before{line-height:calc((var(--awb-avatar-size,
+  150px)) * .75 + 10px);font-size:calc((var(--awb-avatar-size, 150px)) * .75)}.fusion-testimonials.clean
+  blockquote{border:none;background-color:transparent}.fusion-testimonials.clean blockquote
+  .awb-quote{font-size:var(--awb-testimonial-text-font-size, 18px);line-height:var(--awb-testimonial-text-line-height,
+  30px);letter-spacing:var(--awb-testimonial-text-letter-spacing, 2px);text-align:center}.fusion-testimonials.clean
+  .author{margin-top:1.5rem;font-size:18px;text-align:center;letter-spacing:2px}.fusion-testimonials.clean
+  .author a{text-decoration:none}.fusion-testimonials.clean .avatar-above .testimonial-thumbnail{margin-bottom:1.5rem}.fusion-testimonials.clean
+  .avatar-below .testimonial-thumbnail{margin-top:1.5rem}.fusion-text{--awb-content-alignment:initial;--awb-font-size:inherit;--awb-line-height:inherit;--awb-letter-spacing:inherit;--awb-text-transform:inherit;--awb-text-color:inherit;--awb-text-font-family:inherit;--awb-text-font-style:inherit;--awb-text-font-weight:inherit;--awb-columns:var(--text_columns,
+  auto);--awb-column-spacing:var(--text_column_spacing, normal);--awb-column-min-width:var(--text_column_min_width,
+  auto);--awb-rule-style:var(--text_rule_style, i</style>'
+original_content_checksum: a084a9233b2d3ac9a4cfab62f2ddb3988f6cdef8
 original_markdown_body: ''
 published: false
 source: NOSSCR Referral Service
-source_url: https://nosscr.org/event/a-judges-perspective-what-judges-really-need-from-your-briefs-and-arguments-2/
-start_date: '2025-12-12T09:00:00-05:00'
+source_url: https://nosscr.org/event/tenth-circuit-virtual-meeting/
+start_date: '2026-03-12T14:30:00-04:00'
 summarized: true
-title: 'A Judge’s Perspective: What Judges REALLY Need from Your Briefs and Arguments'
+title: Tenth Circuit Virtual Meeting
 topics: []
 ---
 
-Join us for "A Judge’s Perspective: What Judges Really Need from Your Briefs and Arguments" on Dec. 12, 2025, starting at 9 a.m. This insightful event will provide attendees with a unique opportunity to hear directly from judges about the essential elements they look for in legal briefs and arguments. Participants can expect to gain valuable insights that will enhance their courtroom presentations and improve their legal writing skills. Engaging discussions and practical tips will help lawyers and law students alike understand how to effectively communicate their cases. Don't miss this chance to learn from the bench and elevate your legal practice. The event will take place at a designated location, which will be shared closer to the date.
+Join the Tenth Circuit for a virtual meeting on March 12, 2026, starting at 2:30 p.m. Eastern Time. Attendees can expect an engaging discussion on important legal topics, updates from the court, and opportunities for Q&A. This meeting is an excellent chance for legal professionals and interested community members to gain insights into the workings of the Tenth Circuit. Participants can connect from the comfort of their own homes, making it accessible to all. Don't miss this opportunity to stay informed and engage with the judicial process.

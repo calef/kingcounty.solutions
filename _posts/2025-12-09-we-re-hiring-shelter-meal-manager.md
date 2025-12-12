@@ -1,7 +1,6 @@
 ---
 date: '2025-12-09T19:14:00+00:00'
-events:
-- 2025-12-12-application-deadline-for-shelter-meal-program-manager
+events: []
 events_extracted: true
 images: []
 locations:
