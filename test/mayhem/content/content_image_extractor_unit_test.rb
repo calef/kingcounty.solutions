@@ -154,4 +154,25 @@ class ContentImageExtractorTest < Minitest::Test
     assert_equal 'Alt', doc.front_matter['title']
     assert_equal frontmatter['source'], doc.front_matter['source']
   end
+
+  def test_run_skips_unsummarized_posts
+    fm = <<~MD
+      ---
+      title: Unsummarized Post
+      date: 2025-01-01
+      source: Test
+      source_url: https://example.com/unsummarized
+      original_markdown_body: '![](https://example.com/image.jpg)'
+      summarized: false
+      ---
+
+      Body
+    MD
+    File.write(File.join(@tmp_posts, '2025-01-01-unsummarized.md'), fm)
+
+    stats = @extractor.run
+
+    assert_equal 1, stats[:skipped_unsummarized]
+    assert_equal 0, stats[:posts_updated]
+  end
 end
