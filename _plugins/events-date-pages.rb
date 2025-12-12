@@ -213,7 +213,11 @@ module Jekyll
       date_obj = if date_value.respond_to?(:strftime)
         date_value
       else
-        Date.parse(date_value.to_s) rescue nil
+        begin
+          Date.parse(date_value.to_s)
+        rescue ArgumentError, TypeError
+          nil
+        end
       end
       return nil unless date_obj
 
