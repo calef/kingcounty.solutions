@@ -1,7 +1,6 @@
 ---
 end_date: '2025-12-11T19:30:00-08:00'
 images: []
-published: false
 location: WA
 locations:
 - King County
@@ -85,6 +84,7 @@ original_markdown_body: "« All Events Digital Skills for Life/ Herramientas Dig
   en Negocios December 11 @ 5:30 pm - 7:30 pm     Herramientas Digitales/ Digital
   Skills for Life December 11 @ 5:30 pm - 7:30 pm     Digital Skills for Life/ Herramientas
   Digitales December 16 @ 5:30 pm - 7:30 pm"
+published: false
 source: El Centro de la Raza
 source_url: https://www.elcentrodelaraza.org/event/digital-skills-for-life-herramientas-digitales/2025-12-11/
 start_date: '2025-12-11T17:30:00-08:00'
