@@ -4,4 +4,4 @@ permalink: "/topics/"
 title: Topics
 ---
 
-Explore the topics below.
+Browse the topics below and select one to see the latest news and upcoming events.
