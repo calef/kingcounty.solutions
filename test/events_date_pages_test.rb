@@ -121,7 +121,26 @@ class EventsDatePagesTest < Minitest::Test
     month_label = @generator.send(:ap_style_month_label, february, @site)
 
     assert_equal 'Jan. 22, 2024', date_label
-    assert_equal 'Feb. 2024', month_label
+    assert_equal 'February 2024', month_label
+  end
+
+  def test_ap_style_weekday_labels_default_to_sun_sat
+    expected = %w[Sun Mon Tue Wed Thu Fri Sat]
+
+    assert_equal expected, @generator.send(:ap_style_weekday_labels, @site)
+  end
+
+  def test_ap_style_weekday_labels_uses_configured_array
+    custom = %w[Sunday Monday Tuesday Wednesday Thursday Friday Saturday]
+    @site.config['ap_style']['weekday_labels'] = custom
+
+    assert_equal custom, @generator.send(:ap_style_weekday_labels, @site)
+  end
+
+  def test_ap_style_weekday_labels_falls_back_on_invalid_array
+    @site.config['ap_style']['weekday_labels'] = ['invalid']
+
+    assert_equal %w[Sun Mon Tue Wed Thu Fri Sat], @generator.send(:ap_style_weekday_labels, @site)
   end
 
   private

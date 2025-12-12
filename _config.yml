@@ -16,6 +16,14 @@ ap_style:
   meridiem:
     am: "a.m."
     pm: "p.m."
+  weekday_labels:
+    - Sun
+    - Mon
+    - Tue
+    - Wed
+    - Thu
+    - Fri
+    - Sat
   noon_label: "noon"
   midnight_label: "midnight"
 author: Chris Alef

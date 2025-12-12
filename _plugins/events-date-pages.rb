@@ -217,13 +217,20 @@ module Jekyll
       "#{month_label} #{date_obj.strftime('%-d')}, #{date_obj.strftime('%Y')}"
     end
 
-    def ap_style_month_label(date_value, site)
+    def ap_style_month_label(date_value, _site)
       date_obj = parse_date_value(date_value)
       return nil unless date_obj
 
-      month_map = site.config.dig('ap_style', 'months_with_day') || {}
-      month_label = month_map[date_obj.strftime('%-m')] || date_obj.strftime('%B')
-      "#{month_label} #{date_obj.strftime('%Y')}"
+      "#{date_obj.strftime('%B')} #{date_obj.strftime('%Y')}"
+    end
+
+    def ap_style_weekday_labels(site)
+      weekday_labels = site.config.dig('ap_style', 'weekday_labels')
+      return weekday_labels if weekday_labels.is_a?(Array) &&
+                                weekday_labels.size == 7 &&
+                                weekday_labels.all?(String)
+
+      %w[Sun Mon Tue Wed Thu Fri Sat]
     end
   end
 end
