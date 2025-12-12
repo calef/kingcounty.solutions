@@ -13,8 +13,8 @@ class EventsDatePagesTest < Minitest::Test
     config = {
       'ap_style' => {
         'months_with_day' => {
-          '1' => 'January',
-          '2' => 'February'
+          '1' => 'Jan.',
+          '2' => 'Feb.'
         }
       }
     }
