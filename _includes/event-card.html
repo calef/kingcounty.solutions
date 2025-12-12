@@ -1,4 +1,5 @@
 {%- assign event = include.event -%}
+{%- assign show_event_date = include.show_event_date | default: false -%}
 {%- if event -%}
   {%- assign primary_image_id = include.image_id -%}
   {%- if (primary_image_id == nil or primary_image_id == '') and event.images -%}
@@ -53,14 +54,14 @@
         <a href="{{ event.url | relative_url }}">{{ event.title }}</a>
       </h3>
       <p class="news-meta">
-        {%- if event_date_text -%}
+        {%- if event_date_text and show_event_date -%}
           <time datetime="{{ start_value | date_to_xmlschema }}">{{ event_date_text }}</time>
-          {%- if event_time_text and event_time_text != '' -%}
-            <span class="event-time"> • {{ event_time_text }}</span>
-          {%- endif -%}
-          {%- if event_end_time_text and event_end_time_text != '' -%}
-            <span class="event-time-range"> – {{ event_end_time_text }}&nbsp;</span>
-          {%- endif -%}
+        {%- endif -%}
+        {%- if event_time_text and event_time_text != '' -%}
+          <span class="event-time">{%- if show_event_date -%} • {%- endif -%}{{ event_time_text }}</span>
+        {%- endif -%}
+        {%- if event_end_time_text and event_end_time_text != '' -%}
+          <span class="event-time-range"> – {{ event_end_time_text }}&nbsp;</span>
         {%- endif -%}
         {%- if has_location -%}
           • <span class="event-location">{{ location_value }}</span>

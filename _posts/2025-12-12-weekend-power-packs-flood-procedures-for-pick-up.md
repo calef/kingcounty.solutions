@@ -1,7 +1,6 @@
 ---
 date: '2025-12-12T01:27:10+00:00'
-events:
-- 2025-12-12-weekend-power-packs-distribution
+events: []
 events_extracted: true
 images:
 - fa242b98ec4a8453318e3daa4ab1fbcd8fbf0531434fad818228400985189d1a
