@@ -194,25 +194,10 @@ module Jekyll
       calendar_index['date_paths'][first_date]
     end
 
-    def ap_style_date_label(date_value, site)
+    def parse_date_value(date_value)
       return nil unless date_value
 
-      date_obj = if date_value.respond_to?(:strftime)
-        date_value
-      else
-        Date.parse(date_value.to_s) rescue nil
-      end
-      return nil unless date_obj
-
-      month_map = site.config.dig('ap_style', 'months_with_day') || {}
-      month_label = month_map[date_obj.strftime('%-m')] || date_obj.strftime('%B')
-      "#{month_label} #{date_obj.strftime('%-d')}, #{date_obj.strftime('%Y')}"
-    end
-
-    def ap_style_month_label(date_value, site)
-      return nil unless date_value
-
-      date_obj = if date_value.respond_to?(:strftime)
+      if date_value.respond_to?(:strftime)
         date_value
       else
         begin
@@ -221,6 +206,19 @@ module Jekyll
           nil
         end
       end
+    end
+
+    def ap_style_date_label(date_value, site)
+      date_obj = parse_date_value(date_value)
+      return nil unless date_obj
+
+      month_map = site.config.dig('ap_style', 'months_with_day') || {}
+      month_label = month_map[date_obj.strftime('%-m')] || date_obj.strftime('%B')
+      "#{month_label} #{date_obj.strftime('%-d')}, #{date_obj.strftime('%Y')}"
+    end
+
+    def ap_style_month_label(date_value, site)
+      date_obj = parse_date_value(date_value)
       return nil unless date_obj
 
       month_map = site.config.dig('ap_style', 'months_with_day') || {}
