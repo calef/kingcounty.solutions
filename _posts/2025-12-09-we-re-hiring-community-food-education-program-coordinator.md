@@ -1,7 +1,6 @@
 ---
 date: '2025-12-09T18:51:33+00:00'
-events:
-- 2025-12-19-application-deadline-for-community-food-education-program-coordinator
+events: []
 events_extracted: true
 images: []
 locations:
