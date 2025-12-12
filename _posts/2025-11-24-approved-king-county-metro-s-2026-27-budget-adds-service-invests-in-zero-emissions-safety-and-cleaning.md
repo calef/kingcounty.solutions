@@ -1,7 +1,6 @@
 ---
 date: '2025-11-24T17:01:28+00:00'
-events:
-- 2026-01-01-opening-of-the-tukwila-bus-base
+events: []
 events_extracted: true
 images: []
 locations:
