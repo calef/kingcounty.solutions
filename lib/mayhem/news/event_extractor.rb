@@ -103,7 +103,14 @@ module Mayhem
         # Create event files and track their IDs
         event_ids = []
         events.each do |event_data|
-          event_id = create_event(event_data, source, source_url, stats)
+          event_id = create_event(
+            event_data,
+            source,
+            source_url,
+            stats,
+            front_matter['topics'],
+            front_matter['locations']
+          )
           event_ids << event_id if event_id
         end
 
@@ -176,7 +183,7 @@ module Mayhem
         nil
       end
 
-      def create_event(event_data, source, source_url, stats)
+      def create_event(event_data, source, source_url, stats, post_topics, post_locations)
         title = event_data['title']
         start_date_str = event_data['start_date']
         end_date_str = event_data['end_date']
@@ -238,6 +245,12 @@ module Mayhem
           'generated_from_post' => true
         }
         front_matter['end_date'] = end_time.iso8601 if end_time
+        if post_topics.is_a?(Array) && post_topics.any?
+          front_matter['topics'] = post_topics.dup
+        end
+        if post_locations.is_a?(Array) && post_locations.any?
+          front_matter['locations'] = post_locations.dup
+        end
 
         # Create event document
         body = "\n#{description}\n"
