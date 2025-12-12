@@ -2,70 +2,114 @@
 layout: default
 ---
 
-{%- assign pager = pagination | default: paginator -%}
-{%- assign current_page_number = pager.page | default: paginator.page | default: 1 -%}
-{%- assign current_page_label = "Page " | append: current_page_number -%}
+{%- assign event_date = page.event_date -%}
+{%- if event_date -%}
+  {%- capture formatted_event_date -%}
+    {% include ap-date.html value=event_date %}
+  {%- endcapture -%}
+  {%- assign formatted_event_date = formatted_event_date | strip -%}
+{%- else -%}
+  {%- assign formatted_event_date = "Upcoming events" -%}
+{%- endif -%}
+{%- assign events_for_date = page.events -%}
+{%- assign event_count = events_for_date | size | default: 0 -%}
 
-<article>
-  <header>
-    {% include breadcrumbs.html root_url="/events/" root_label="Events" current=current_page_label %}
-    <h1>
-      Events — {{ current_page_label }}
-    </h1>
+<article class="events-layout">
+  <header class="events-header">
+    <div class="events-header__content">
+      {% include breadcrumbs.html root_url="/events/" root_label="Events" current=formatted_event_date %}
+      <h1>
+        Events on {{ formatted_event_date }}
+      </h1>
+      {%- if page.content and page.content != '' -%}
+        <div class="events-intro">
+          {{ content }}
+        </div>
+      {%- endif -%}
+    </div>
   </header>
+  {%- assign calendar = page.calendar -%}
+  {%- if calendar and calendar.cells and calendar.cells != empty -%}
+    <aside class="events-calendar" aria-label="Calendar for {{ calendar.month_label }}">
+      <div class="events-calendar__header">
+        {%- if calendar.previous_month_path -%}
+          <a href="{{ calendar.previous_month_path | relative_url }}" class="events-calendar__nav" aria-label="Previous month">
+            &larr;
+          </a>
+        {%- else -%}
+          <span class="events-calendar__nav is-disabled" aria-hidden="true">&larr;</span>
+        {%- endif -%}
+        <span class="events-calendar__title">{{ calendar.month_label }}</span>
+        {%- if calendar.next_month_path -%}
+          <a href="{{ calendar.next_month_path | relative_url }}" class="events-calendar__nav" aria-label="Next month">
+            &rarr;
+          </a>
+        {%- else -%}
+          <span class="events-calendar__nav is-disabled" aria-hidden="true">&rarr;</span>
+        {%- endif -%}
+      </div>
 
-  {% if pager and pager.page < 2 %}
-    {{ content }}
-  {% elsif pager == nil %}
-    {{ content }}
-  {% endif %}
+      <div class="events-calendar__grid">
+        {%- for weekday in calendar.weekday_labels -%}
+          <span class="events-calendar__weekday">{{ weekday }}</span>
+        {%- endfor -%}
 
-  {%- assign paginated_events = pager.docs | default: pager.posts | default: site.events -%}
-  {%- if pager == nil -%}
-    {%- assign paginated_events = paginated_events | sort: "start_date" -%}
+        {%- for cell in calendar.cells -%}
+          {%- if cell.day == nil -%}
+            <span class="events-calendar__cell events-calendar__cell--empty"></span>
+          {%- elsif cell.is_current_page -%}
+            <span class="events-calendar__cell events-calendar__cell--today" aria-current="date">
+              {{ cell.day }}
+            </span>
+          {%- elsif cell.has_events and cell.path -%}
+            <a class="events-calendar__cell events-calendar__cell--link" href="{{ cell.path | relative_url }}">
+              {{ cell.day }}
+            </a>
+          {%- elsif cell.has_events -%}
+            <span class="events-calendar__cell events-calendar__cell--link">{{ cell.day }}</span>
+          {%- else -%}
+            <span class="events-calendar__cell">{{ cell.day }}</span>
+          {%- endif -%}
+        {%- endfor -%}
+      </div>
+    </aside>
   {%- endif -%}
-  {%- assign events_rendered = paginated_events | size -%}
 
-  <section>
-    {%- for event in paginated_events -%}
-      {% include event-card.html event=event %}
+  <section class="events-list">
+    {%- for event in events_for_date -%}
+      {% include event-card.html event=event show_event_date=false %}
     {%- endfor -%}
 
-    {%- if events_rendered == 0 -%}
+    {%- if event_count == 0 -%}
       <p>No upcoming events are available right now. Please check back soon.</p>
     {%- endif -%}
   </section>
 
-  {%- if pager -%}
-    {%- assign total_pages = pager.total_pages | default: pager.page_count | default: 1 -%}
-    {%- if total_pages > 1 -%}
-      <nav class="news-pagination" aria-label="Events pagination">
-        {%- assign previous_path = pager.previous_page_path | default: pager.previous -%}
-        {%- assign next_path = pager.next_page_path | default: pager.next -%}
-        <div class="news-pagination-links">
-          <div class="news-pagination-group news-pagination-left">
-            {%- if previous_path -%}
-              <a class="news-pagination-link" href="{{ previous_path | relative_url }}">&larr; Earlier</a>
-            {%- else -%}
-              <span class="news-pagination-link is-disabled" aria-hidden="true">&larr; Earlier</span>
-            {%- endif -%}
-          </div>
-
-          <div class="news-pagination-group news-pagination-center">
-            <span class="news-pagination-page-count">
-              Page {{ pager.page | default: 1 }} of {{ total_pages }}
-            </span>
-          </div>
-
-          <div class="news-pagination-group news-pagination-right">
-            {%- if next_path -%}
-              <a class="news-pagination-link" href="{{ next_path | relative_url }}">Later &rarr;</a>
-            {%- else -%}
-              <span class="news-pagination-link is-disabled" aria-hidden="true">Later &rarr;</span>
-            {%- endif -%}
-          </div>
+  {%- if page.previous_page_path or page.next_page_path -%}
+    <nav class="news-pagination events-pagination" aria-label="Events pagination">
+      <div class="news-pagination-links">
+        <div class="news-pagination-group news-pagination-left">
+          {%- if page.previous_page_path -%}
+            <a class="news-pagination-link" href="{{ page.previous_page_path | relative_url }}">&larr; Earlier</a>
+          {%- else -%}
+            <span class="news-pagination-link is-disabled" aria-hidden="true">&larr; Earlier</span>
+          {%- endif -%}
         </div>
-      </nav>
-    {%- endif -%}
+
+        <div class="news-pagination-group news-pagination-center">
+          <span class="news-pagination-page-count">
+            {{ formatted_event_date }}
+          </span>
+        </div>
+
+        <div class="news-pagination-group news-pagination-right">
+          {%- if page.next_page_path -%}
+            <a class="news-pagination-link" href="{{ page.next_page_path | relative_url }}">Later &rarr;</a>
+          {%- else -%}
+            <span class="news-pagination-link is-disabled" aria-hidden="true">Later &rarr;</span>
+          {%- endif -%}
+        </div>
+      </div>
+    </nav>
   {%- endif -%}
 </article>
