@@ -194,10 +194,10 @@ module Jekyll
       calendar_index['date_paths'][first_date]
     end
 
-    def ap_style_date_label(date_value, site)
+    def parse_date_value(date_value)
       return nil unless date_value
 
-      date_obj = if date_value.respond_to?(:strftime)
+      if date_value.respond_to?(:strftime)
         date_value
       else
         begin
@@ -206,6 +206,10 @@ module Jekyll
           nil
         end
       end
+    end
+
+    def ap_style_date_label(date_value, site)
+      date_obj = parse_date_value(date_value)
       return nil unless date_obj
 
       month_map = site.config.dig('ap_style', 'months_with_day') || {}
@@ -214,17 +218,7 @@ module Jekyll
     end
 
     def ap_style_month_label(date_value, site)
-      return nil unless date_value
-
-      date_obj = if date_value.respond_to?(:strftime)
-        date_value
-      else
-        begin
-          Date.parse(date_value.to_s)
-        rescue ArgumentError, TypeError
-          nil
-        end
-      end
+      date_obj = parse_date_value(date_value)
       return nil unless date_obj
 
       month_map = site.config.dig('ap_style', 'months_with_day') || {}
