@@ -1,7 +1,6 @@
 ---
 date: '2025-09-22T21:45:35+00:00'
-events:
-- 2027-06-01-completion-of-new-campus-in-burien
+events: []
 events_extracted: true
 images:
 - 9f7ce5e2d5fa9ff65d4d1461e6f243125e6e78bc665a8e47e1ce34658563be32
