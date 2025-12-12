@@ -38,7 +38,7 @@ module Mayhem
         handler: :run_ls_models
       },
       'new' => {
-        description: 'Creates a new Jekyll site with kingcounty.solutions configuration',
+        description: 'Creates a new Jekyll site with mayhem configuration',
         handler: :run_new
       },
       'summarize' => {
