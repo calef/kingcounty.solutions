@@ -1,7 +1,6 @@
 ---
 date: '2025-11-06T16:36:16-08:00'
-events:
-- 2029-01-01-stride-bus-rapid-transit-system-opening
+events: []
 events_extracted: true
 images: []
 locations:

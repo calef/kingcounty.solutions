@@ -38,6 +38,7 @@ original_markdown_body: "« All Events\n\n \n# Brothers Hifz Program\n \n Recurr
   begins at 5:00 pm on Tuesday and Thursday, repeating indefinitely\n\n \n \n\n \n
   \n\n \n \n \n### Event Navigation\n \n- « MCRC Seattle Office Hours\n- Tafseer with
   Br. Alaa Badr »"
+published: false
 source: Muslim Association of Puget Sound
 source_url: https://mapsredmond.org/event/brothers-hifz-program/2025-12-11/
 start_date: '2025-12-11T17:00:00-08:00'
