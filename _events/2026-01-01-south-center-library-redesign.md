@@ -6,6 +6,7 @@ locations:
 - King County
 original_markdown_body: The redesign of South Center Library as part of the KCLS initiative
   to revitalize library spaces.
+published: false
 source: King County Library System
 source_url: https://kcls.org/blogs/post/reimagine-library-spaces/
 start_date: '2026-01-01T00:00:00-08:00'
