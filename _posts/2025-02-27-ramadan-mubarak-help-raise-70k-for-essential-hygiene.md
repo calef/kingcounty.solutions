@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - 4b128c252aeeebe6e8cb6631b110a7eb94449d872fa42f34263baa45d31596a2
+locations:
+- King County
 original_content: "<p class=\"\">Ramadan Mubarak! During this special season we are
   joining together to raise 70k toward hygiene supplies and culturally appropriate
   food for our neighbors in need.</p><p class=\"\">Many Essentials First clients are

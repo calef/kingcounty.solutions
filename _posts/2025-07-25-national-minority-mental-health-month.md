@@ -3,6 +3,8 @@ date: '2025-07-25T17:18:08+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: "<p>July marks National Minority Mental Health Month, a time to
   acknowledge and address the unique mental health challenges faced by communities
   of color. While much of the conversation rightly focuses on access to therapy and

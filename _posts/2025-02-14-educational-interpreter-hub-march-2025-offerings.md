@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - ea4b5f6bbec56c61cdaff5fb92656f9fd1206442e4376a2cb84d54d2324b6071
+locations:
+- King County
 original_content: |-
   <div class="wp-block-image"><img decoding="async" class="aligncenter wp-image-10587" src="https://www.cdhy.wa.gov/wp-content/uploads/2025/02/March-2025-HUB-flyer.png" alt="March 2025 educational interpreter hub flyer." width="627" height="812" srcset="https://www.cdhy.wa.gov/wp-content/uploads/2025/02/March-2025-HUB-flyer-200x259.png 200w, https://www.cdhy.wa.gov/wp-content/uploads/2025/02/March-2025-HUB-flyer-232x300.png 232w, https://www.cdhy.wa.gov/wp-content/uploads/2025/02/March-2025-HUB-flyer-400x518.png 400w, https://www.cdhy.wa.gov/wp-content/uploads/2025/02/March-2025-HUB-flyer-600x777.png 600w, https://www.cdhy.wa.gov/wp-content/uploads/2025/02/March-2025-HUB-flyer-768x994.png 768w, https://www.cdhy.wa.gov/wp-content/uploads/2025/02/March-2025-HUB-flyer-791x1024.png 791w, https://www.cdhy.wa.gov/wp-content/uploads/2025/02/March-2025-HUB-flyer-800x1036.png 800w, https://www.cdhy.wa.gov/wp-content/uploads/2025/02/March-2025-HUB-flyer-1187x1536.png 1187w, https://www.cdhy.wa.gov/wp-content/uploads/2025/02/March-2025-HUB-flyer-1200x1553.png 1200w, https://www.cdhy.wa.gov/wp-content/uploads/2025/02/March-2025-HUB-flyer.png 1545w" sizes="(max-width: 627px) 100vw, 627px" /></div>
   <div></div>

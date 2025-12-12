@@ -3,6 +3,8 @@ date: '2025-11-03T18:42:53+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <div class="is-layout-constrained wp-block-group"><div class="wp-block-group__inner-container">
   <p>Being a stay-at-home dad can bring a mix of pride and pressure, often in the same day, sometimes in the same hour. Yet, the range of emotions you experience in your role as a stay-at-home parent may not be easy to talk about. You find real meaning in the time you get to spend with your kids. Every day you hear their laughter and help them learn, and you’re grateful for that. Still, it’s easy to feel judged, lonely, worried you aren’t doing enough, or worn down by society’s stigma that what you’re doing “<em>is a mom’s job</em>.” Your emotions are valid, and stay-at-home dad depression is real. It’s completely normal to struggle with conflicting emotions about your decision to stay home with your children.</p>

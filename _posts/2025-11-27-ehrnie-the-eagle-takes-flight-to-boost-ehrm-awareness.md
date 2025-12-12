@@ -3,6 +3,8 @@ date: '2025-11-27T14:30:00+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p>Chillicothe VA Medical Center (VAMC) is taking a creative, community-centered approach to preparing Veterans and staff for its upcoming Federal Electronic Health Record (EHR) “go-live” on June 6, 2026. Leading the charge is an energetic new ambassador: EHRnie the Eagle, a mascot who has quickly become the face of Chillicothe’s outreach efforts.</p>
 

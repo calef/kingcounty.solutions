@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - 728a3df36a3c6a91c1e001740b25d8dec75ad163d64ca990bd97fbb0d7c32777
+locations:
+- King County
 original_content: |-
   <p>Alysun Deckert and Mike Bailey are caring neighbors! And they inspire, lead, and collaborate with many other caring neighbors to provide a lovingly prepared dinner meal for families and individuals at Compass Broadview.  </p>
 

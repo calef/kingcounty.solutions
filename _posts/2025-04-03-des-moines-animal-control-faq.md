@@ -1,6 +1,7 @@
 ---
 date: '2025-04-03T17:15:00+00:00'
 images: []
+locations: []
 original_content: "<p style=\"text-align: center;\"><strong>Des Moines Animal Control
   FAQ</strong></p>\n<p style=\"text-align: center;\"><span style=\"text-align: left;\">3
   April 2025</span></p>\n<p>The City is aware of concerns in the community about reductions

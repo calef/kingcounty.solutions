@@ -3,6 +3,8 @@ date: '2025-11-01T01:45:19+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: Weekend Service Impacts Routes 1, 2, 3, 4, 5, 7, 13, 14, 21, 24,
   27, 28, 33, 40, 56, 62, 124, 131, 132, RapidRide C, D, and H Line will...
 original_markdown_body: Weekend Service Impacts Routes 1, 2, 3, 4, 5, 7, 13, 14, 21,

@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - 2f913eff6348b576ac8db4ee09184ae9bf3906afac0bed178231a162a1f9eb0d
+locations:
+- King County
 original_content: "<p class=\"\">When Shifali moved to Seattle, she was looking for
   a place to volunteer where she could give back, build relationships, and become
   part of a community. That search led her to Mary’s Place—and eventually to hundreds

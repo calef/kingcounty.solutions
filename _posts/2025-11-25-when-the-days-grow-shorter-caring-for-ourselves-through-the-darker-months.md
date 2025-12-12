@@ -3,6 +3,8 @@ date: '2025-11-25T22:37:33+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: As the days grow shorter and Seattle settles into its season of
   clouds and early sunsets, many of us start to feel our energy dip. For older adults
   especially, the long evenings, chilly damp weather, and weeks of gray skies can

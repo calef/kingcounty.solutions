@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - 5975d044f366188be42895b1127ea672d847769e88cb9124ec535be2e98f9615
+locations:
+- King County
 original_content: |-
   <p>In late July, Ballard Boys &amp; Girls Club field was full of excitement as youth, staff, and special guests gathered for an unforgettable afternoon of reading, fun, and inspiration. Hosted in partnership with Amazon, the NFL’s Inspire Change initiative, Boys &amp; Girls Clubs of America, and the Smithsonian, TNF For Good brought literacy to life for dozens of Club youth in King County.</p>
   <p><strong><img fetchpriority="high" decoding="async" class="size-medium wp-image-11436 alignleft" src="https://positiveplace.org/wp-content/uploads/2025/08/DSC00330-200x300.jpg" alt="" width="200" height="300" srcset="https://positiveplace.org/wp-content/uploads/2025/08/DSC00330-200x300.jpg 200w, https://positiveplace.org/wp-content/uploads/2025/08/DSC00330-683x1024.jpg 683w, https://positiveplace.org/wp-content/uploads/2025/08/DSC00330-768x1152.jpg 768w, https://positiveplace.org/wp-content/uploads/2025/08/DSC00330-1024x1536.jpg 1024w, https://positiveplace.org/wp-content/uploads/2025/08/DSC00330-1365x2048.jpg 1365w, https://positiveplace.org/wp-content/uploads/2025/08/DSC00330-100x150.jpg 100w, https://positiveplace.org/wp-content/uploads/2025/08/DSC00330-1200x1800.jpg 1200w, https://positiveplace.org/wp-content/uploads/2025/08/DSC00330-scaled.jpg 1707w" sizes="(max-width: 200px) 100vw, 200px" /></strong></p>

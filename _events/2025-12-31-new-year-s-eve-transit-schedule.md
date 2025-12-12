@@ -2,6 +2,8 @@
 generated_from_post: true
 images: []
 location: ''
+locations:
+- King County
 original_markdown_body: All transit services will operate on regular weekday schedules,
   with late-night service details to be announced.
 source: King County Metro Transit

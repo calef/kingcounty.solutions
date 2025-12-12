@@ -2,6 +2,8 @@
 end_date: '2026-01-22T19:30:00-08:00'
 images: []
 location: Meany Hall (MNY)
+locations:
+- King County
 original_content: <div class="field-items"> <div class="field-item"> <p>Acclaimed
   piano–percussion quartet Yarn/Wire performs new works by UW Composition doctoral
   student Yonatan Ron, alum Yiğit Kolat, and others in an evening of adventurous contemporary

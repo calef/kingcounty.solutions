@@ -3,6 +3,8 @@ date: '2025-11-20T15:30:50+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: '<p>The post <a href="https://www.kcsarc.org/en/sarahs-blog-the-language-of-being-believed/">Sarah&#8217;s
   Blog: The Language of Being Believed</a> appeared first on <a href="https://www.kcsarc.org/en/">KCSARC</a>.</p>'
 original_markdown_body: 'The post [Sarah’s Blog: The Language of Being Believed](https://www.kcsarc.org/en/sarahs-blog-the-language-of-being-believed/)

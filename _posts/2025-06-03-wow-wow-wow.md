@@ -1,6 +1,7 @@
 ---
 date: '2025-06-03T16:58:33-07:00'
 images: []
+locations: []
 original_content: WOW! WOW! WOW! We are overwhelmed by our amazing community. You
   showed up BIG for our 6th annual 5K providing 140 nights of safe housing, hope,
   and support services at Sacha's House. We are so grateful for each of you and our

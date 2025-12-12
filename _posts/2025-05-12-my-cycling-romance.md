@@ -1,6 +1,7 @@
 ---
 date: '2025-05-12T20:28:30+00:00'
 images: []
+locations: []
 original_content: |-
   <p>by Antonio Zebedeo-Abad</p>
 

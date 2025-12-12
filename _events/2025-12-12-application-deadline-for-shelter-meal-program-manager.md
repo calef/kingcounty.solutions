@@ -2,6 +2,8 @@
 generated_from_post: true
 images: []
 location: ''
+locations:
+- King County
 original_markdown_body: Deadline to submit a resume and cover letter for the Shelter
   Meal Program Manager position at Hunger Intervention Program.
 source: Hunger Intervention Program

@@ -1,6 +1,7 @@
 ---
 date: '2025-12-08T17:00:00+00:00'
 images: []
+locations: []
 original_content: <img src="https://powerlines.seattle.gov/wp-content/uploads/sites/17/2025/12/rhonda_spotlight-150x150.png">The
   Basics Division: Customer Operations How long have you been at City Light? March
   2006 – almost 20 years. Tell us about your role. I oversee a team of 12 customer

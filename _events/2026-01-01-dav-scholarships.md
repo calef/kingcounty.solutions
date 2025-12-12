@@ -2,6 +2,8 @@
 generated_from_post: true
 images: []
 location: ''
+locations:
+- King County
 original_markdown_body: Offering $140,000 to students under 21 who volunteer 100 hours
   in DAV’s name.
 source: Disabled American Veterans

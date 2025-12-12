@@ -3,6 +3,8 @@ date: '2025-09-30T16:30:54+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p>At Neighborhood House, we believe that when people are given the tools and support they need, they can build brighter futures for themselves and their families. Few stories capture that better than Youpa’s journey. When she first connected with Neighborhood House through our Economic Security for All (EcSA) program and its Matched Investment Savings Account ... </p>
   <p class="read-more-container"><a title="From Dreams to Dishes: Jumpin Jambalaya Brings Cajun-Creole Flavor to the Community " class="read-more button" href="https://nhwa.org/2025/09/30/jumpin-jambalaya/#more-25288" aria-label="Read more about From Dreams to Dishes: Jumpin Jambalaya Brings Cajun-Creole Flavor to the Community ">Read more</a></p>

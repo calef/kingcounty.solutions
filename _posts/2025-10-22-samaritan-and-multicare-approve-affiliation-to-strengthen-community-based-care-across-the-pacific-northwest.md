@@ -3,6 +3,8 @@ date: '2025-10-22T17:30:59+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p>CORVALLIS, Ore. — The boards of directors for the Corvallis-based Samaritan Health Services and Tacoma-based MultiCare Health System have approved an affiliation between the two organizations, marking a major milestone in advancing access to high-quality, community-based health care across Oregon and the Pacific Northwest.</p>
   <p>In the coming weeks, Samaritan and MultiCare will sign the formal affiliation agreement, paving the way for Samaritan to become part of MultiCare. The two organizations will now begin taking the next steps needed to bring the affiliation to completion, which is expected to occur in mid-2026.</p>

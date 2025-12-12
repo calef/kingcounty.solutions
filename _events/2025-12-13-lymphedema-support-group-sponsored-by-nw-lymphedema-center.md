@@ -2,6 +2,7 @@
 end_date: '2025-12-13T14:30:00-08:00'
 images: []
 location: "[ONLINE] Cancer Lifeline"
+locations: []
 original_content: "<header> <div> <div><div> <div><div> <a>Lifeline</a> | 206.297.2500
   | 1.800.255.5505 | <a>Lifeline Chat</a> </div></div> </div></div> </div> </header>
   <div> <div> <div> <div> <section> <div> <p> <a> « All Events</a> </p> <h1>Lymphedema
@@ -53,6 +54,7 @@ original_markdown_body: 'Lifeline | 206.297.2500 | 1.800.255.5505 | Lifeline Cha
   New   FAQ Classes Support Groups Programs & Services   About Us   Team History Partnerships
   & Sponsors Jobs Privacy Policy Contact Us   Get Involved   Ways to Give Volunteer
   with Us Donate Now Planned Giving'
+published: false
 source: Cancer Lifeline Financial Assistance for Cancer Patients
 source_url: https://cancerlifeline.org/event/lymphedema-support-group-sponsored-by-nw-lymphedema-center-2/2025-12-13/
 start_date: '2025-12-13T12:30:00-08:00'

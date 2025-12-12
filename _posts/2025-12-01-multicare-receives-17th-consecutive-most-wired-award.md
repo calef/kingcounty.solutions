@@ -3,6 +3,8 @@ date: '2025-12-01T18:43:37+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p>TACOMA, Wash. — For the 17th consecutive year, MultiCare Health System was named a “Most Wired” U.S. health care organization by the College of Healthcare Information Management Executives (CHIME).</p>
   <p>MultiCare achieved the highest level of recognition in both ambulatory and acute-care categories, level 10, demonstrating it has deployed technologies and strategies to analyze data and achieve meaningful clinical and efficient outcomes. Only 18 health systems in the country achieved this level of innovation.</p>

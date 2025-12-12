@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - 93f23e35ccdcb57d6139b74afe4098c13e93864fbc319c2347f490978fa46105
+locations:
+- King County
 original_content: |-
   <figure class="wp-block-image size-full"><a href="https://www.compasshousingalliance.org/wp-content/uploads/2025/08/Thank-You-600-x-300-px-57.png"><img loading="lazy" decoding="async" width="600" height="300" src="https://www.compasshousingalliance.org/wp-content/uploads/2025/08/Thank-You-600-x-300-px-57.png" alt="" class="wp-image-12384" srcset="https://www.compasshousingalliance.org/wp-content/uploads/2025/08/Thank-You-600-x-300-px-57.png 600w, https://www.compasshousingalliance.org/wp-content/uploads/2025/08/Thank-You-600-x-300-px-57-300x150.png 300w" sizes="auto, (max-width: 600px) 100vw, 600px" /></a></figure>
 

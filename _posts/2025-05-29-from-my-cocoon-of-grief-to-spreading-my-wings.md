@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - 5bcc2d84f308e1297cc480bb11500dd071107b9ff7916f425d2037a4f130e8b2
+locations:
+- King County
 original_content: "<p class=\"\"><strong><em>By Nikita</em></strong>&nbsp;</p><p class=\"\">If
   you told me a few years ago that I’d be living in a three-bedroom apartment with
   my three kids, thriving in my preschool teaching career, and excitedly planning

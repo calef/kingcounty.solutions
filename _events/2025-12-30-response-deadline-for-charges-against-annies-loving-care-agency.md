@@ -1,7 +1,7 @@
 ---
 generated_from_post: true
 images: []
-location: ''
+locations: []
 locked: true
 original_markdown_body: Annies Loving Care Agency has 20 days to respond to the charges
   filed by the Washington State Department of Health.

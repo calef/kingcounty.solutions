@@ -3,6 +3,8 @@ date: '2025-09-24T10:44:30-04:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: "<p>artifact_description: Tip Sheet</p><p>date: Wed, 24 Sep 2025
   07:45:03 -0400</p><p>title: When to Terminate Coverage for Consumers Transitioning
   from Marketplace to Medicare Coverage</p><p>topic: Transitions in Coverage</p>"

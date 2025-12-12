@@ -3,6 +3,8 @@ date: '2025-03-19T18:20:49+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p><img width="300" height="188" src="https://blog.valleymed.org/wp-content/uploads/2025/03/2025_Stop-the-Bleed-300x188.png" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://blog.valleymed.org/wp-content/uploads/2025/03/2025_Stop-the-Bleed-300x188.png 300w, https://blog.valleymed.org/wp-content/uploads/2025/03/2025_Stop-the-Bleed-768x480.png 768w, https://blog.valleymed.org/wp-content/uploads/2025/03/2025_Stop-the-Bleed-600x375.png 600w, https://blog.valleymed.org/wp-content/uploads/2025/03/2025_Stop-the-Bleed.png 800w" sizes="auto, (max-width: 300px) 100vw, 300px" /></p>
   <p>Did you know that uncontrolled bleeding is the leading cause of preventable death in trauma? Valley Medical Center&#8217;s Trauma Services is proud to offer <strong>FREE</strong> <a href="https://www.stopthebleed.org/"><strong><span style="text-decoration: underline;">STOP THE BLEED®</span></strong></a> training to our community! In this exciting 1-hour, hands-on class, you&#8217;ll learn simple yet effective techniques to control severe bleeding using direct pressure, wound packing, and tourniquet application. This skill can save lives in everyday emergencies — car accidents, falls, or unexpected injuries. </p>

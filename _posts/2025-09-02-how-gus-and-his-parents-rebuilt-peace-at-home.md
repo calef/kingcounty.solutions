@@ -3,6 +3,8 @@ date: '2025-09-02T22:39:04+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p>When Mia and Max moved their young family from Brooklyn to the Seattle area, they knew life would be different. What they didn’t expect was just how hard the transition would hit their 3-year-old son, Gus*.</p>
   <p>In a matter of months, Gus lost the familiar rhythms of home, his school, caretakers, neighborhood, and even his bedroom, and the arrival of a new sibling was too much for a little boy to process.</p>

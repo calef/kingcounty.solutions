@@ -3,6 +3,8 @@ date: '2025-11-25T18:17:16+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p>On December 1, 2025, new federal work requirements for the Supplemental Nutrition Assistance Program (SNAP) will take effect statewide. These rules, passed under H.R. 1 (the “Big Beautiful Bill”), expand who must demonstrate that they are working to keep their benefits.</p>
   <p>Below is an overview of the coming changes to SNAP, who they’ll impact, and what we can do to prepare. You’ll find detailed information about the new work requirements at <a>the USDA website</a>.</p>

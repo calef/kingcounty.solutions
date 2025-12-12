@@ -3,6 +3,8 @@ date: '2025-05-19T21:21:01+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- Carnation
 original_content: |-
   Carnation summer sports camps are returning this year! The City is partnering with Skyhawks Sports Academy to bring sports camps to Valley Memorial Park. Spots are available for kids 4-12.
 

@@ -3,6 +3,8 @@ date: '2025-11-22T18:00:00-08:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 openai_model: gpt-5.1
 source: King County Solutions
 summarized: true

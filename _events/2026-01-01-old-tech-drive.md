@@ -2,6 +2,8 @@
 generated_from_post: true
 images: []
 location: ''
+locations:
+- King County
 original_markdown_body: A drive encouraging city employees to donate unwanted electronics
   to bridge the digital divide and promote responsible e-waste disposal.
 published: false

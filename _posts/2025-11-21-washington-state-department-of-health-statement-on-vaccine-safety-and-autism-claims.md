@@ -3,6 +3,8 @@ date: '2025-11-21T16:54:13+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <span class="field field--name-title field--type-string field--label-hidden">Washington State Department of Health statement on vaccine safety and autism claims</span>
 

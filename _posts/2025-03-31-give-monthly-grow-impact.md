@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - da043e841dd321050e5b0143aeedc19dba56454a6f23ebb0454e3f7788b1fdc3
+locations:
+- King County
 original_content: |-
   <figure class="wp-block-image size-large"><a href="https://www.compasshousingalliance.org/how-you-can-help/monthly-giving-program-circle-of-compassion/"><img loading="lazy" decoding="async" width="1024" height="379" src="https://www.compasshousingalliance.org/wp-content/uploads/2025/03/Spring-2025-Circle-of-Compassion-1080-x-400-px-1-1024x379.png" alt="" class="wp-image-12291" srcset="https://www.compasshousingalliance.org/wp-content/uploads/2025/03/Spring-2025-Circle-of-Compassion-1080-x-400-px-1-1024x379.png 1024w, https://www.compasshousingalliance.org/wp-content/uploads/2025/03/Spring-2025-Circle-of-Compassion-1080-x-400-px-1-300x111.png 300w, https://www.compasshousingalliance.org/wp-content/uploads/2025/03/Spring-2025-Circle-of-Compassion-1080-x-400-px-1-768x284.png 768w, https://www.compasshousingalliance.org/wp-content/uploads/2025/03/Spring-2025-Circle-of-Compassion-1080-x-400-px-1.png 1080w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></a></figure>
 

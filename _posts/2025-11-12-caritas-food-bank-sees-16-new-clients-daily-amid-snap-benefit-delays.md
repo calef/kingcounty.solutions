@@ -3,6 +3,8 @@ date: '2025-11-12T17:38:58+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p>[KXLY Spokane] Thousands of people across the Inland Northwest are still waiting for their monthly food stamps. Local food banks expect delays and more people to rely on them, even if the government shutdown ends.</p>
   <p>The post <a>Caritas Food Bank sees 16 new clients daily amid SNAP benefit delays</a> appeared first on <a>Northwest Harvest</a>.</p>

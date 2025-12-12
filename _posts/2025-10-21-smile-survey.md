@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - 596b3bb8797565f3d97f4d83a9e334646442834fe6f09ea35f58a048827f1924
+locations:
+- King County
 original_content: |-
   <h4 class="wp-block-heading"><strong>Washington Smile Survey 2023–2024: Tracking Trends in Children’s Oral Health</strong></h4>
 

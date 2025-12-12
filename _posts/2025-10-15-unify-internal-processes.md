@@ -1,6 +1,7 @@
 ---
 date: '2025-10-15T17:06:31+00:00'
 images: []
+locations: []
 original_content: |-
   In 2025, we made significant progress to better manage change, data, communication, and policies. Our HR's internal website has been updated, making it easier for staff to access key information and policies. On the communications front, we restructured our team to designate point people for each region, helping us to stay informed, connected and responsive.&nbsp;&nbsp;&nbsp;
 

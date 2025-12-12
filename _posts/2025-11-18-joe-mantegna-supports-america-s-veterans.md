@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - 036b742a57d78c535ec5a3566af1459bc7e05c6478a5a6bc6c5bfbced346f04a
+locations:
+- King County
 original_content: "<div class=\"editor clearfix\">\n\n    \n    <figure id=\"attachment_55365\"
   aria-describedby=\"caption-attachment-55365\" style=\"width: 300px\" class=\"wp-caption
   alignleft\"><img decoding=\"async\" class=\"size-full wp-image-55365\" src=\"https://www.dav.org/wp-content/uploads/Nick-Koulchar_PBC.jpg\"

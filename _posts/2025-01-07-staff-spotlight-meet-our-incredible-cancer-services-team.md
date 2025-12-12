@@ -3,6 +3,8 @@ date: '2025-01-07T21:53:44+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p><img width="300" height="188" src="https://blog.valleymed.org/wp-content/uploads/2025/01/Cancer-Center-Team-blog-300x188.jpg" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://blog.valleymed.org/wp-content/uploads/2025/01/Cancer-Center-Team-blog-300x188.jpg 300w, https://blog.valleymed.org/wp-content/uploads/2025/01/Cancer-Center-Team-blog-768x480.jpg 768w, https://blog.valleymed.org/wp-content/uploads/2025/01/Cancer-Center-Team-blog-600x375.jpg 600w, https://blog.valleymed.org/wp-content/uploads/2025/01/Cancer-Center-Team-blog.jpg 800w" sizes="auto, (max-width: 300px) 100vw, 300px" /></p>
   <p>At Valley Medical Center, we pride ourselves on providing something extra with the care you receive. Our mission is to care for our community like family, and our staff truly lives by it. In the world of cancer care, with high stakes diagnoses and a rollercoaster of emotions, the extra heart you receive from your caregivers is more important than ever.</p>

@@ -2,6 +2,8 @@
 generated_from_post: true
 images: []
 location: Zoom
+locations:
+- King County
 original_markdown_body: Selected members will attend bi-monthly meetings via Zoom
   to provide ideas and feedback for the program.
 published: false

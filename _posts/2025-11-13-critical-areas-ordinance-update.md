@@ -1,6 +1,7 @@
 ---
 date: '2025-11-13T16:37:16-08:00'
 images: []
+locations: []
 original_content: |-
   <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p><strong>Next CAO Update meeting will be at city hall on November 18 at 6pm with the Medina Planning Commission. </strong></p>
   <p>The City of Medina continues work on updating our Critical Areas Ordinance (CAO). Development regulations under the CAO are being reviewed and updated to protect the functions and values of critical areas, and to maintain public safety.<br />

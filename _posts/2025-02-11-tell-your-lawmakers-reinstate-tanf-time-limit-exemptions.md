@@ -3,6 +3,8 @@ date: '2025-02-11T01:11:00+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: '<p class="">Since 2024 Essentials First has been co-convening the
   <a href="https://potrwldbb.cc.rs6.net/tn.jsp?f=001xkR55rdWInxwuVvfJZOV0CyV6KexL-nEfvm6I2ICDC2ItTWhikyTziiGJI4OUz2lddbgSc3hqtwhzFO7fen4yGzU9dqYw-AQpVaVWc507_lvFrJ-ymc6U89p5Hmy6JgLiL4fmibKUayxozDhhz3KzZj93y1QYT-9UtqpNX4iI3Y=&amp;c=iypnl_92r7C03LELHe6SeiVIySNP_JZaR11Zz-YZvhB2ogVnrFDlEw==&amp;ch=cglZg9RqJlkJGUUQOziNkylT-93tWEhADvWJEcYyz558GOvnwOXTow=="
   title="https://potrwldbb.cc.rs6.net/tn.jsp?f=001xkR55rdWInxwuVvfJZOV0CyV6KexL-nEfvm6I2ICDC2ItTWhikyTziiGJI4OUz2lddbgSc3hqtwhzFO7fen4yGzU9dqYw-AQpVaVWc507_lvFrJ-ymc6U89p5Hmy6JgLiL4fmibKUayxozDhhz3KzZj93y1QYT-9UtqpNX4iI3Y=&amp;c=iypnl_92r7C03LELHe6SeiVIySNP_JZaR11Zz-YZvhB2ogVnrFDlEw==&amp;ch=cglZg9RqJlkJGUUQOziNkylT-93tWEhADvWJEcYyz558GOvnwOXTow=="

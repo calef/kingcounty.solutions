@@ -2,6 +2,8 @@
 end_date: '2026-02-25T11:30:00-08:00'
 images: []
 location: Sunshine Garden, 611 S Lane St, Seattle, WA, 98104
+locations:
+- King County
 original_content: '<div class="fusion-row" style=""> <section id="content" style="float:
   left;"> <div id="tribe-events-pg-template"> <div id="tribe-events-content" class="tribe-events-single">
   <p class="tribe-events-back"> <a href="https://cisc-seattle.org/events/"><span>All

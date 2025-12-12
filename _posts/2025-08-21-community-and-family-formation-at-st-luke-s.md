@@ -3,6 +3,8 @@ date: '2025-08-21T18:43:13+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p>20s/30s/40s and Family Kickoff September 7 Inviting all young families and young adults in their 20s, 30s, and 40s: join us as we kick off a new program year at &#8230; <a class="kt-excerpt-readmore" href="https://stlukesseattle.org/2025/08/21/community-and-family-formation-at-st-lukes/" aria-label="Community and Family Formation at St Luke&#8217;s">Read More</a></p>
   <p>The post <a href="https://stlukesseattle.org/2025/08/21/community-and-family-formation-at-st-lukes/">Community and Family Formation at St Luke&#8217;s</a> appeared first on <a href="https://stlukesseattle.org">St. Luke Episcopal Church</a>.</p>

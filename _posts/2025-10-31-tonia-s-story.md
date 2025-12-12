@@ -3,6 +3,8 @@ date: '2025-10-31T23:54:58+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: "<p>When Tonia Bartz was diagnosed with Acute Myeloid Leukemia in
   2021, everything changed overnight.<strong> “I went to the ER knowing something
   was off, but I never imagined it would be cancer or that I’d be admitted immediately

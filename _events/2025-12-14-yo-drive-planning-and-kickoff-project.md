@@ -3,6 +3,8 @@ end_date: '2025-12-14T15:00:00-08:00'
 generated_from_post: true
 images: []
 location: Together Center, Redmond
+locations:
+- King County
 original_markdown_body: A planning and kickoff project for the YO Drive to mobilize
   volunteers and engage the community in youth outreach initiatives.
 published: false

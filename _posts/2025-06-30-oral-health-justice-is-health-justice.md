@@ -3,6 +3,8 @@ date: '2025-06-30T19:43:27+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p>Janice Deguchi Last month, I was invited to speak on a panel for the Arcora Foundation, whose mission is to bend the arc of oral health towards equity. I was honored to share the stage with Arcora Foundation Vice President, Sunshine Monastrial, and my co-panelist, author and activist, Ron Chew to talk about our deep ... </p>
   <p class="read-more-container"><a title="Oral Health Justice is Health Justice" class="read-more button" href="https://nhwa.org/2025/06/30/oral-health-justice-is-health-justice/#more-25135" aria-label="Read more about Oral Health Justice is Health Justice">Read more</a></p>

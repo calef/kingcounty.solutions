@@ -3,6 +3,8 @@ date: '2025-08-12T16:21:54+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   August is National Make-A-Will Month, so it’s a good time to double-check that you have an up-to-date will.
 

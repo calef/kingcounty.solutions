@@ -3,6 +3,8 @@ date: '2025-11-21T19:54:59+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: By Metro’s Equity, Inclusion and Belonging team Each November, Native
   American Heritage Month invites us to honor the history, cultures and enduring contributions
   of Native peoples throughout our region and...

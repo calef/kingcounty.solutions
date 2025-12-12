@@ -3,6 +3,8 @@ date: '2025-10-25T23:27:27+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: "<p>We are pleased to share that <strong>Olivia Ferrel</strong>
   has been appointed as the new Executive Director of Hospitality House.</p>\n\n\n\n<p>Guided
   by care and compassion, Olivia delivers from the heart, building meaningful relationships

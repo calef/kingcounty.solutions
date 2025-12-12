@@ -3,6 +3,9 @@ date: '2025-12-02T00:10:19+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- South King County
+- Snoqualmie Valley
 original_content: "<div data-elementor-type=\"wp-post\" data-elementor-id=\"18976\"
   class=\"elementor elementor-18976\" data-elementor-post-type=\"post\">\n\t\t\t\t<div
   class=\"elementor-element elementor-element-7094ca3 e-flex e-con-boxed e-con e-parent\"

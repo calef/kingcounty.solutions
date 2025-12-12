@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - 34a9ecd566e623cf6581f456034d1a644326745b861352243937b7b1792c7823
+locations:
+- King County
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Council
   Roundup: Council approves middle housing regulations</span>\n<span class=\"field
   field--name-uid field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"

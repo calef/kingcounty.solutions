@@ -3,6 +3,8 @@ date: '2025-10-16T17:20:31+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: <p>The post <a href="https://www.kcsarc.org/en/youth-advisory-council-2025-cohort/">Youth
   Advisory Council 2025 Cohort</a> appeared first on <a href="https://www.kcsarc.org/en/">KCSARC</a>.</p>
 original_markdown_body: The post [Youth Advisory Council 2025 Cohort](https://www.kcsarc.org/en/youth-advisory-council-2025-cohort/)

@@ -2,6 +2,8 @@
 end_date: '2025-12-20T10:30:00-08:00'
 images: []
 location: Tutta Bella Pizzeria, 715 NW Gilman Blvd, Issaquah, WA, 98027, United States
+locations:
+- King County
 original_content: <section id="tribe-events-pg-template" class="tribe-events-pg-template"
   role="main"> <div id="tribe-events-content" class="tribe-events-single"> <p class="tribe-events-back">
   <a href="https://kidvantagenw.org/events/"> « All Events</a> </p> <h1 class="tribe-events-single-event-title">Breakfast

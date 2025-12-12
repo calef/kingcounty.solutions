@@ -3,6 +3,8 @@ date: '2025-10-17T03:00:39+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p>United Way of King County launched in 1921&mdash;some 18 U.S. presidents ago&mdash;yet folks still ask what we&rsquo;re all about. For a quick and detailed answer, check out one of our most recent social media posts on Facebook, Instagram, and LinkedIn. It offers a brief crash course about our organization, including our programs and the people we serve. United Way recognizes the impact of social media in&#8230;</p>
   <p><a href="https://www.uwkc.org/news/social-platforms-that-keep-you-informed/" rel="nofollow">Source</a></p>

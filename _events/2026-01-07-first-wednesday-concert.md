@@ -2,6 +2,8 @@
 end_date: '2026-01-07T13:30:00-08:00'
 images: []
 location: Allen Library (ALB)
+locations:
+- King County
 original_content: "<div> <div> <p>We recently reorganized our site, so the page you
   are looking for may have moved.</p> <p>Please look for it in the navigation menu,
   <a>site map</a>, or <a>site search</a>.  You can also <a>contact us</a> and we'll

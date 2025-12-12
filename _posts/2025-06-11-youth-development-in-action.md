@@ -5,6 +5,8 @@ events_extracted: true
 images:
 - 1efc217c306f9b6fcba7e85d15060ed3233f47a2b4d95e08bf8e92a48b6afcb9
 - f76e67b4c1001f1b9996e8917e5a489b035f66fb5c207ad11d11ed61f17f2440
+locations:
+- King County
 original_content: |-
   <p>As the school year draws to a close, the Youth Development team gathered with students from <a href="https://fosterhs.lcisd.org/">Foster High School</a>&#8216;s Peer Mediation programs to reflect, celebrate, and express gratitude for the growth and connections made over the past year.</p>
   <p>To mark the end of the program, students participated in an activity called <em>The Web</em>, where they stood in a circle and tossed a ball of yarn to one another, each time sharing something they appreciated about the next person. By the end, a physical web of yarn symbolized the deep interconnection within the group. Sharon, our Restorative Practices Liaison, shared, <strong><em>“You can pull on this web, and whatever you do affects anyone else who’s attached to it.”</em></strong></p>

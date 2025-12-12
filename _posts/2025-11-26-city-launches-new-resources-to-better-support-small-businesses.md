@@ -1,6 +1,7 @@
 ---
 date: '2025-11-26T23:36:39+00:00'
 images: []
+locations: []
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">City
   launches new resources to better support small businesses </span>\n<span class=\"field
   field--name-uid field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/lmilstead\"

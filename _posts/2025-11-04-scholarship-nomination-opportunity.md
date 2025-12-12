@@ -5,6 +5,8 @@ events:
 - 2026-05-01-cqc-scholarship-award-announcement
 events_extracted: true
 images: []
+locations:
+- Carnation
 original_content: "The City of Carnation is accepting applications for an Association
   of Washington Cities (AWC) Center for Quality Communities (CQC) Scholarship!\n\nThe
   CQC will award up to four $3,000 scholarships in Spring 2026 to graduating high

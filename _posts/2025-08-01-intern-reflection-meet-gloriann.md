@@ -2,8 +2,8 @@
 date: '2025-08-01T15:26:09+00:00'
 events: []
 events_extracted: true
-images:
-- 388f4503c5de6c9dd35af4b8345e039f724b9fcd28a5132a2a6a640ec0ca2a4b
+images: []
+locations: []
 original_content: |-
   <figure class="wp-block-image alignleft size-large is-resized"><img loading="lazy" decoding="async" width="683" height="1024" src="https://angelflightwest.org/wp-content/uploads/2025/07/IMG_7220-683x1024.jpg" alt="" class="wp-image-61936" style="width:300px;height:auto" srcset="https://angelflightwest.org/wp-content/uploads/2025/07/IMG_7220-683x1024.jpg 683w, https://angelflightwest.org/wp-content/uploads/2025/07/IMG_7220-200x300.jpg 200w, https://angelflightwest.org/wp-content/uploads/2025/07/IMG_7220-768x1152.jpg 768w, https://angelflightwest.org/wp-content/uploads/2025/07/IMG_7220-1024x1536.jpg 1024w, https://angelflightwest.org/wp-content/uploads/2025/07/IMG_7220-1365x2048.jpg 1365w, https://angelflightwest.org/wp-content/uploads/2025/07/IMG_7220-scaled.jpg 1707w" sizes="(max-width: 683px) 100vw, 683px" /></figure>
 
@@ -44,6 +44,7 @@ original_markdown_body: |-
   I’ve gained a new understanding of the nonprofit sector, which has contributed to my growth both personally and professionally. It’s been a surreal experience to witness the passion and commitment that both volunteers and staff bring to fulfilling AFW’s mission.&nbsp;I’m incredibly grateful for the opportunity&nbsp;to be part of such a passionate, supportive, and inspiring community. This experience has strengthened my desire to pursue a career in the nonprofit world, and I’ll carry everything I’ve learned here with me into the future.
 
   The post [Intern Reflection: Meet Gloriann](https://angelflightwest.org/news/intern-reflection-meet-gloriann/) first appeared on [Angel Flight West](https://angelflightwest.org).
+published: false
 source: Angel Flight West
 source_url: https://angelflightwest.org/news/intern-reflection-meet-gloriann/
 summarized: true

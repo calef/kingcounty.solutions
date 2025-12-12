@@ -5,6 +5,8 @@ events_extracted: true
 images:
 - b146a1d0434b674d1ce7548d3b447ea1988ef5115de890da31899f186008bc0b
 - 3b7d6693c7847bf7455a782888fb9bb2e49e15b061241e60d198baa3e972526b
+locations:
+- King County
 original_content: "<p class=\"\">This summer, our Hygiene Champions, a group of amazing
   middle and high school students, stepped up to lead a community fundraiser supporting
   Essentials First’s mission, ensuring everyone has access to basic hygiene essentials

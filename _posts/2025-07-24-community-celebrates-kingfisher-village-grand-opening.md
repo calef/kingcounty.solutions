@@ -3,10 +3,12 @@ date: '2025-07-24T18:27:39+00:00'
 events: []
 events_extracted: true
 images: []
+locations: []
 original_content: On July 23rd, Tacoma and Pierce County shelter and housing agencies
   and supporters gathered to celebrate the grand opening of Kingfisher...
 original_markdown_body: On July 23rd, Tacoma and Pierce County shelter and housing
   agencies and supporters gathered to celebrate the&nbsp;grand opening of Kingfisher...
+published: false
 source: Low Income Housing Institute
 source_url: https://www.lihihousing.org/post/community-celebrates-kingfisher-village-grand-opening
 summarized: true

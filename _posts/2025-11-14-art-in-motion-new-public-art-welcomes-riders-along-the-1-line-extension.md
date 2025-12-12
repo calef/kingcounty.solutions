@@ -3,6 +3,8 @@ date: '2025-11-14T10:58:16-08:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: <div><p paraid="1973814904" paraeid="{cd3fb4e6-7e4b-446c-acce-d66d815b5253}{7}"><a
   href="https://www.soundtransit.org/southkinglink" target="_blank" rel="noreferrer
   noopener">When the 1 Line opens to Federal Way on Dec. 6</a>, riders will be greeted

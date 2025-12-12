@@ -2,6 +2,7 @@
 end_date: '2026-02-17T19:30:00-08:00'
 images: []
 location: ''
+locations: []
 original_content: '<header class="page-header background-image-page-header wpex-supports-mods
   wpex-relative wpex-mb-40 wpex-flex wpex-items-center wpex-flex-wrap wpex-bg-gray-900
   wpex-text-white wpex-text-center"> <div class="page-header-inner container wpex-py-20
@@ -87,6 +88,7 @@ original_markdown_body: 'Virtual Volunteer Orientation | Orange County   Februar
   of the month         Google Calendar     iCalendar     Outlook 365     Outlook Live           Details    Date:   February
   17, 2026     Time:   6:30 pm - 7:30 pm     Event Categories: California, Orange
   County   Website:  https://olivecrest-org.zoom.us/meeting/register/tZYvcO-rrDwsHN1m6r7yQLJmmfp0BRFRB8Qp'
+published: false
 source: Olive Crest
 source_url: https://www.olivecrest.org/calendar/virtual-volunteer-orientation-orange-county-10/
 start_date: '2026-02-17T18:30:00-08:00'

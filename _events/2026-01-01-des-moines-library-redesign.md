@@ -2,6 +2,8 @@
 generated_from_post: true
 images: []
 location: Des Moines Library
+locations:
+- Des Moines
 original_markdown_body: The redesign of Des Moines Library as part of the KCLS initiative
   to revitalize library spaces.
 source: King County Library System

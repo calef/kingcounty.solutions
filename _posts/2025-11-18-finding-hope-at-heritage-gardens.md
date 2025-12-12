@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - aac57f02114eca29a417f9a6266f6d0a9ca61c3d44f171c82457f00702828f1b
+locations:
+- King County
 original_content: |-
   <p><!--StartFragment --></p>
   <p><span class="cf0">My name is Laura, and I live at Heritage Gardens</span><span class="cf1">—a place I now proudly call home. Just saying that fills me with emotion, because a year ago, I didn’t have a home. I was living in my car, moving from place to place, never knowing where I’d sleep next.</span></p>

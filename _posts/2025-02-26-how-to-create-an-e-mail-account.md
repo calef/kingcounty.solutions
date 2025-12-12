@@ -1,6 +1,7 @@
 ---
 date: '2025-02-26T19:27:35+00:00'
 images: []
+locations: []
 original_content: |-
   <p>Having an email account is important for staying in communication with friends, family, and medical providers. Many websites and services also require an email address to create an account and access features.</p>
   <p>In general, to create an email account, you’ll need to:</p>

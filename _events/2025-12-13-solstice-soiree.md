@@ -2,6 +2,8 @@
 end_date: '2025-12-13T21:00:00-08:00'
 images: []
 location: The Cove, 1500 SW Shorebrook Dr, Normandy Park, 98166
+locations:
+- King County
 original_content: '<div id="page-container"> <div id="et-boc" class="et-boc"> <header
   id="main-header" data-height-onload="80"> <div class="container clearfix et_menu_container">
   <div id="et-top-navigation" data-height="80" data-fixed-height="80"> <div id="et_mobile_nav_menu">

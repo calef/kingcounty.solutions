@@ -1,6 +1,7 @@
 ---
 date: '2025-08-01T15:31:24+00:00'
 images: []
+locations: []
 original_content: |-
   <p><strong>Go-Arounds: Are they classified as a success or a failure</strong>?  <strong>A sure loss?</strong> </p>
 

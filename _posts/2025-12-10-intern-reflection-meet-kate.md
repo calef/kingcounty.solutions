@@ -1,6 +1,7 @@
 ---
 date: '2025-12-10T16:55:48+00:00'
 images: []
+locations: []
 original_content: |-
   <figure><img src="https://angelflightwest.org/wp-content/uploads/2025/12/Facetune_01-12-2025-21-29-37-2-651x1024.jpeg"></figure>
 

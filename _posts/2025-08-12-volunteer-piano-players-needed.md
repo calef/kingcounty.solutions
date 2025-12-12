@@ -1,6 +1,7 @@
 ---
 date: '2025-08-12T19:35:15+00:00'
 images: []
+locations: []
 original_content: The Federal Way Senior Center is looking for volunteers to play
   piano and or guitar for our social and sing-a-long time.&#160; We have shifts available&#160;
   Mondays 11:30 -1:00 and Thursday’s [&#8230;]

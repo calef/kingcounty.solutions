@@ -3,6 +3,8 @@ date: '2025-10-29T10:00:00+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p class="has-text-align-center"><strong><strong><strong><strong><strong>This Veterans Day, Operation Homefront Urges Americans to Stand with Our Military Families</strong></strong></strong></strong></strong></p>
 

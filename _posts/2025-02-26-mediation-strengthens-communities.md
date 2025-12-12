@@ -1,6 +1,7 @@
 ---
 date: '2025-02-26T18:42:42+00:00'
 images: []
+locations: []
 original_content: |-
   <h4><strong>Conflict as a Path to Understanding</strong></h4>
   <p>Conflict is a natural part of human interaction, but it doesn’t have to create lasting division. With the right approach, disputes can become opportunities for understanding, healing, and growth. At the Dispute Resolution Center of King County, we’ve seen time and again how mediation fosters resolution while strengthening relationships.</p>

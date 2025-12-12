@@ -1,6 +1,7 @@
 ---
 date: '2025-12-03T19:18:06+00:00'
 images: []
+locations: []
 original_content: As only U.S. city to participate in international cohort, Seattle
   joined environmental leaders from around the world to share best practices on urban
   habitat restoration Seattle&#160;–&#160;After two years of active participation,

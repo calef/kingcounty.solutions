@@ -3,6 +3,8 @@ date: '2025-09-25T19:02:54+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: Paola Fernandez joined the Human Services Department&#8217;s Aging
   and Disability Services division in 2024. As we celebrate National Hispanic Heritage
   Month, Paola writes about her passion for guiding clients—many of whom have language

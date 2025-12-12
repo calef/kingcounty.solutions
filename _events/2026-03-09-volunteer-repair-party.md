@@ -3,6 +3,8 @@ end_date: '2026-03-09T21:00:00-07:00'
 images: []
 location: 'BIKE WORKS WAREHOUSE, 3715 S Hudson St #111, Seattle, Washington, 98118,
   United States'
+locations:
+- King County
 original_content: "<section><div><h1>Events</h1></div> <div> <p> <a> « All Events
   </a></p> <div> <span> Event Series: </span> <a> <span> Volunteer Repair Party </span>
   </a> </div> <h1>Volunteer Repair Party</h1> <div> <div><p> <span> March 9, 2026

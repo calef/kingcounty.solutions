@@ -3,6 +3,8 @@ date: '2025-11-21T21:07:07+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: Around the world, people may know Seattle because of the Space Needle,
   Orcas, Pike Place Market, or even the Mariners. Locally, Seattle is known for the
   character and charm of its many neighborhoods. From Lake City to Rainier View, Broadview

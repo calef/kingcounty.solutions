@@ -4,6 +4,8 @@ events:
 - 2026-10-30-2026-national-school-based-health-care-conference
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: The National School-Based Health Alliance is seeking contributions
   from SBHC providers and advocates focused on student health. They invite proposals
   that highlight innovative practices in health care, partnerships, and policy improvement.

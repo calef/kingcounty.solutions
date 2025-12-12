@@ -1,6 +1,7 @@
 ---
 date: '2025-12-02T21:30:00+00:00'
 images: []
+locations: []
 original_content: |-
   <h2 class="wp-block-heading">Revisiting Clarksburg, West Virginia</h2>
 

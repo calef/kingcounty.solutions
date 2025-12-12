@@ -3,6 +3,8 @@ date: '2025-03-05T18:33:47+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: "![](https://sophiaway.org/wp-content/uploads/2025/03/Image-blog-2025-03.jpg)\n\n>
   > > _“There is no limit to what we, as women, can accomplish.”_   \n> > > Michelle
   Obama\n\nAs we celebrate Women’s History Month, we honor the extraordinary women

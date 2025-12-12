@@ -3,6 +3,8 @@ date: '2025-11-13T16:37:17-08:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div
   class="field-items"><div class="field-item even" property="content:encoded"><p><span><span><span>The
   City of Mercer Island has received a generous, one-time donation of $30,000 from

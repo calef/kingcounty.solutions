@@ -3,6 +3,8 @@ date: '2025-09-16T01:36:24+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: "## **From the Gridiron to the Farm:** \n\n### **Meet Jason Brown,
   30th Annual Reaching Out Celebration Keynote Speaker** &nbsp;\n\n![2025 Reaching
   Out Celebration Keynote Speaker, Jason Brown](https://www.hopelink.org/wp-content/uploads/2025/09/061225_Jason_Brown_AAE_Headshot_1-1024x746.png

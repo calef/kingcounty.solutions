@@ -2,6 +2,8 @@
 end_date: '2026-01-29T21:30:00-08:00'
 images: []
 location: Floyd and Delores Jones Playhouse Theater (PHT)
+locations:
+- King County
 original_content: <div class="max-bound"> <div class="hero-image--large"> <div class="hero">
   <div class="hero__content"> <div class="hero__content-inner"> <h1> <span>The Seagull</span>
   </h1> </div> </div> </div> </div> <div class="page-content"> <div class="layout-content">

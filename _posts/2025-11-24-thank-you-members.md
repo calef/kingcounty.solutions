@@ -1,6 +1,7 @@
 ---
 date: '2025-11-24T18:41:46+00:00'
 images: []
+locations: []
 original_content: |-
   <a href="https://wscenter.org/thank-you-members/"><p>We're so grateful for you, our members, who make The Center for Active Living the welcoming and vibrant community it is. </p>
 

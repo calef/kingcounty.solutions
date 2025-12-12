@@ -3,6 +3,8 @@ date: '2025-11-11T22:16:00+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <h3>Shutdown delays and new SNAP rules further strain Washington’s emergency food system.</h3>
   <p><i><span>SEATTLE, Wash. </span></i><span>— The federal government shutdown may have ended, but its impact on food assistance continues to ripple across Washington. Delays in November SNAP disbursements caused significant hardship for hundreds of thousands of people who rely on these benefits to buy groceries. </span><span> </span></p>

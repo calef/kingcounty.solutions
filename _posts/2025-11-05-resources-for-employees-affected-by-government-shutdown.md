@@ -3,6 +3,8 @@ date: '2025-11-05T03:23:00+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: "<p>With the federal government now in shutdown, thousands of workers
   and families across the nation — including right here in our community — are feeling
   the impact. Whether it’s missed paychecks, delayed benefits, or uncertainty about

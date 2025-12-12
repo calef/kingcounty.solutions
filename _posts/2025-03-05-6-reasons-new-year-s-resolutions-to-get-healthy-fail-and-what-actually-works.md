@@ -3,6 +3,8 @@ date: '2025-03-05T23:20:08+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p><img width="300" height="188" src="https://blog.valleymed.org/wp-content/uploads/2025/02/boredworkout_2400910863_blog-300x188.jpg" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://blog.valleymed.org/wp-content/uploads/2025/02/boredworkout_2400910863_blog-300x188.jpg 300w, https://blog.valleymed.org/wp-content/uploads/2025/02/boredworkout_2400910863_blog-768x480.jpg 768w, https://blog.valleymed.org/wp-content/uploads/2025/02/boredworkout_2400910863_blog-600x375.jpg 600w, https://blog.valleymed.org/wp-content/uploads/2025/02/boredworkout_2400910863_blog.jpg 800w" sizes="auto, (max-width: 300px) 100vw, 300px" /></p>
   <p>Every year, millions of people set resolutions to get healthier. But by February, most have already given up. If that sounds familiar, you’re not alone. The problem isn’t a lack of willpower—it’s that common pitfalls make it hard to stick with change.</p>

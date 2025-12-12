@@ -1,6 +1,7 @@
 ---
 date: '2025-07-31T21:16:07+00:00'
 images: []
+locations: []
 original_content: |-
   News & Events IACSWA Election Write-up Presidential Election History Issues Discussed/Citizen Concerns Outcome: Polling vs. Results State Governor Congressional Initiatives Impact on South Asian Community mmigration Policy: Visas and Paths [...]
 

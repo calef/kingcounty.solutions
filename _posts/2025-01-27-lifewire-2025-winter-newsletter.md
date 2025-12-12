@@ -14,6 +14,8 @@ images:
 - b34496bcc718797b6987f2e98090be07ad428b2c39224c7babecab2859a48cf9
 - 2bf64470cfc4e53d4df820cdbe4a66ab18ce695db0fcc89f051fefcb10b5f90a
 - eeec0f8d230e4e8a92711cce9e5f17cccb840a1fcc97fc95eeb9c8baa3f07e7f
+locations:
+- King County
 original_content: |-
   <figure class="wp-block-image size-full"><img decoding="async" width="1200" height="546" data-attachment-id="8648" data-permalink="https://www.lifewire.org/lifewire-2025-winter-newsletter/header-3/" data-orig-file="https://www.lifewire.org/wp-content/uploads/2025/01/Header-1.jpg" data-orig-size="1200,546" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Header" data-image-description="" data-image-caption="" data-medium-file="https://www.lifewire.org/wp-content/uploads/2025/01/Header-1-600x273.jpg" data-large-file="https://www.lifewire.org/wp-content/uploads/2025/01/Header-1.jpg" src="https://www.lifewire.org/wp-content/uploads/2025/01/Header-1.jpg" alt="" class="wp-image-8648" srcset="https://www.lifewire.org/wp-content/uploads/2025/01/Header-1.jpg 1200w, https://www.lifewire.org/wp-content/uploads/2025/01/Header-1-600x273.jpg 600w, https://www.lifewire.org/wp-content/uploads/2025/01/Header-1-300x137.jpg 300w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
 

@@ -3,6 +3,8 @@ date: '2025-07-25T17:23:45+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: "<p><strong>From a To-Do List to a Lifeline: Abby’s Journey with
   Cancer Lifeline</strong></p>\r\n\r\n\r\n\r\n<p>For Abby, getting a mammogram was
   simply another item on her “to-do” list—something quicker and easier than updating

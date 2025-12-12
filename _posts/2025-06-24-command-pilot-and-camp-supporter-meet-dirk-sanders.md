@@ -8,6 +8,8 @@ images:
 - ef38588c48a88372388f69caf4c75725abf173bc7c43dd2ee3c9e6ce565856ca
 - 81a1615fce06f040dcaa380afa4d10ce23cce98788c81adf6f78967c85cb215a
 - 29e2fbf8ea92e7950f7733638fe293469e5f269eefc9824ec4f87ba30268cee1
+locations:
+- King County
 original_content: |-
   <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-7 is-layout-flex wp-block-gallery-is-layout-flex">
   <figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="768" data-id="61875" src="https://angelflightwest.org/wp-content/uploads/2025/06/mission_photo_2023-08-31_Means_Sanders_10136-1024x768.jpg" alt="" class="wp-image-61875" srcset="https://angelflightwest.org/wp-content/uploads/2025/06/mission_photo_2023-08-31_Means_Sanders_10136-1024x768.jpg 1024w, https://angelflightwest.org/wp-content/uploads/2025/06/mission_photo_2023-08-31_Means_Sanders_10136-300x225.jpg 300w, https://angelflightwest.org/wp-content/uploads/2025/06/mission_photo_2023-08-31_Means_Sanders_10136-768x576.jpg 768w, https://angelflightwest.org/wp-content/uploads/2025/06/mission_photo_2023-08-31_Means_Sanders_10136-1536x1152.jpg 1536w, https://angelflightwest.org/wp-content/uploads/2025/06/mission_photo_2023-08-31_Means_Sanders_10136-2048x1536.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>

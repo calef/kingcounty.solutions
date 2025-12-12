@@ -3,6 +3,8 @@ date: '2025-11-24T11:00:00+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p class="has-text-align-center"><strong>Final Call for Nominations for 2026 Military Child of the Year® Awards </strong> <br><em>Seven military children will receive $10,000 and attend a D.C. gala in their honor</em></p>
 

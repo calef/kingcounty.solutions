@@ -3,6 +3,8 @@ date: '2025-01-02T23:33:58+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- South King County
 original_content: |-
   <p><img width="300" height="188" src="https://blog.valleymed.org/wp-content/uploads/2025/01/InfusionCtr-blog-300x188.png" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://blog.valleymed.org/wp-content/uploads/2025/01/InfusionCtr-blog-300x188.png 300w, https://blog.valleymed.org/wp-content/uploads/2025/01/InfusionCtr-blog-768x480.png 768w, https://blog.valleymed.org/wp-content/uploads/2025/01/InfusionCtr-blog-600x375.png 600w, https://blog.valleymed.org/wp-content/uploads/2025/01/InfusionCtr-blog.png 800w" sizes="auto, (max-width: 300px) 100vw, 300px" /></p>
   <p><strong>State-of-the-Art Facility Will Treat 40% More Patients</strong></p>

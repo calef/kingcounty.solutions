@@ -3,6 +3,8 @@ date: '2025-12-08T14:41:39+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p>In a<a><span> partial hospitalization program (PHP) for depression</span></a>, participants spend a full day, often 8-9 hours, in a communal therapeutic setting, five days a week, while spending evenings, overnights, and weekends at home. Treatment typically takes 6-8 weeks, though this may be adjusted based on individual treatment plans.</p>
   <p>Participants attend individual and group DBT-based therapy sessions daily, and enjoy holistic treatment approaches like expressive art therapy and mindful movement, such as yoga or qi gong, as well. Nourishing meals, medication management, and family education and guidance are also key components of a PHP for depression. A PHP should take a whole-body and mind approach to depression treatment. Depression can touch every facet of your life, so <a><span>effective depression treatment</span></a> will support you just as comprehensively.</p>

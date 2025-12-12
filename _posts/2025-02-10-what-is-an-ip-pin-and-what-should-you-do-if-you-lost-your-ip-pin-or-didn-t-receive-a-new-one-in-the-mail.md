@@ -1,6 +1,7 @@
 ---
 date: '2025-02-10T22:06:24+00:00'
 images: []
+locations: []
 original_content: |-
   <p><strong>What is an IP PIN?</strong></p>
 

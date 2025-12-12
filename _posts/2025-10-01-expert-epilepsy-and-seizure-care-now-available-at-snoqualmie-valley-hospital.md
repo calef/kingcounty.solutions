@@ -3,6 +3,8 @@ date: '2025-10-01T22:21:27+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- Snoqualmie Valley
 original_content: |-
   Seizures occur when the brain’s electrical signals misfire, leading to sudden changes such as unusual movements, brief confusion, or loss of awareness. While one seizure does not always mean a person has epilepsy, repeated seizures may signal the condition.
 

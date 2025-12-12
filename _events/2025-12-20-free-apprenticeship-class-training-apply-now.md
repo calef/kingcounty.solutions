@@ -2,6 +2,8 @@
 end_date: '2025-12-20T23:30:00-08:00'
 images: []
 location: Virtual/Online, United States
+locations:
+- King County
 original_content: "<section> <div> <div> <div> <section> <div> <div> <span> Event
   Series: </span> <a> <span> Free Apprenticeship Class Training – Apply Now! </span>
   </a> </div> <h1>Free Apprenticeship Class Training – Apply Now!</h1> <div> <h2>

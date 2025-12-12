@@ -3,6 +3,7 @@ date: '2025-10-28T13:00:00+00:00'
 events: []
 events_extracted: true
 images: []
+locations: []
 original_content: |-
   <p class="has-text-align-center"><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong>Family Makes Core Memories at Holiday Meals for Military Event</strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></p>
 
@@ -106,6 +107,7 @@ original_markdown_body: |-
   Since 2010, Operation Homefront’s HMFM has provided more than 210,000 holiday meals to military and veteran families. Forty families registered for the Delray Beach event, which was one of 1,800 events planned throughout 2025.
 
   The post [Family Makes Memories at Holiday Meals Event](https://operationhomefront.org/family-makes-memories-at-holiday-meals-event/) appeared first on [Operation Homefront](https://operationhomefront.org).
+published: false
 source: Operation Homefront - Critical Financial Assistance Program
 source_url: https://operationhomefront.org/family-makes-memories-at-holiday-meals-event/
 summarized: true

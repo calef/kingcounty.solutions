@@ -3,6 +3,8 @@ date: '2025-11-05T21:47:32+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: 'November 2025: Olympic View students learn the power of their voice
   by advocating for new extracurricular activities.'
 original_markdown_body: 'November 2025: Olympic View students learn the power of their

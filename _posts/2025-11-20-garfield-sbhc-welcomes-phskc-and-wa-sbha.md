@@ -3,6 +3,8 @@ date: '2025-11-20T20:57:03+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: On November 20, the Garfield School-Based Health Center (SBHC) team
   (Odessa Brown Children&#8217;s Clinic/Seattle Children&#8217;s Hospital) welcomed
   members from Public Health&#8211;Seattle &#38; King County and the Washington School-Based

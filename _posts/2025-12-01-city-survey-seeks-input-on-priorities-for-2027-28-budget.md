@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - bac2132fad8b97a7cff2984bd9e67e54815ee9bc0e93fce0b1d1e9cbbc3d11ba
+locations:
+- Bellevue
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">City
   survey seeks input on priorities for 2027–28 budget</span>\n<span class=\"field
   field--name-uid field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"

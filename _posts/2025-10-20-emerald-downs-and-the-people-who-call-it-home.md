@@ -1,6 +1,7 @@
 ---
 date: '2025-10-20T18:49:00+00:00'
 images: []
+locations: []
 original_content: <img src="https://www.auburnwa.gov/UserFiles/Servers/Server_11470554/Image/News/25-2_Auburn%20Magazine_Fall_337x234_Web%20Banner.png"
   />
 original_markdown_body: "![](https://www.auburnwa.gov/UserFiles/Servers/Server_11470554/Image/News/25-2_Auburn%20Magazine_Fall_337x234_Web%20Banner.png)"

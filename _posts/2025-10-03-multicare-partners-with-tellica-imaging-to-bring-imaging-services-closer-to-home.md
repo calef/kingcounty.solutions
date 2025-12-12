@@ -3,6 +3,8 @@ date: '2025-10-03T16:40:29+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p>TACOMA, Wash. — MultiCare Health System is partnering with Tellica Imaging, an Intermountain Health company, to bring affordable, high-quality medical imaging services — including CT and MRI scans — to patients in the Puget Sound.</p>
   <p>Tellica Imaging and MultiCare will open three new facilities on Tuesday, Oct. 7, in Auburn, Bremerton and Tacoma. They’ll be open Monday through Saturday, 7 a.m. to 7 p.m.</p>

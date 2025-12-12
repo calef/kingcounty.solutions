@@ -3,6 +3,8 @@ date: '2025-08-22T05:55:00+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   _By Annika Hauer, ELAP Intern_
 

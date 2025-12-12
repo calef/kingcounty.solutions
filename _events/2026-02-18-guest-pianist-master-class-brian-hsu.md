@@ -2,6 +2,8 @@
 end_date: '2026-02-18T16:30:00-08:00'
 images: []
 location: Music Building (MUS)
+locations:
+- King County
 original_content: '<div class="field-items"> <div class="field-item"> <p>Guest pianist
   Brian Hsu, associate professor of music at the University of Oregon, leads a master
   class with UW piano students.</p> <h2>Biography</h2> <p>Since his concerto debut

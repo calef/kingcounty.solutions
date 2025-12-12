@@ -1,6 +1,7 @@
 ---
 date: '2025-05-02T08:12:38+00:00'
 images: []
+locations: []
 original_content: |-
   <p>Have you been dreaming about starting your own business? Opening and operating your own business can be rewarding and fulfilling in so many ways but also difficult and stressful if you don’t have a detailed business plan in place. Business plans help prepare you for success by functioning as a guide for your business needs.</p>
 

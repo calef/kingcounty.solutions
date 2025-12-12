@@ -1,6 +1,7 @@
 ---
 date: '2025-11-21T21:50:06+00:00'
 images: []
+locations: []
 original_content: |-
   <a href="https://wscenter.org/get-ready-to-boogie-down/"><p>Get ready to boogie down at our far-out 60&#8217;s Dance Party!</p>
 

@@ -28,6 +28,8 @@ images:
 - b0c53eba0ecba1cc18ffaa26b4138b6b0436202bbbcbade0dd8d3d2b1f132526
 - 2d42dd745001f8bf9821dddfcae805c63a8df6ac56488553ad5b4fb9758baa28
 - 0246e9a1c354afaba6b82a5de856af8cf724c9b7e1cdaf8dceff6611270cbfe3
+locations:
+- King County
 original_content: "<p><strong>We Welcomed The Chilean Consulate</strong> &#8211; July
   16-19, 2025</p>\n\n\n\n<div class=\"wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-8cf370e7
   wp-block-group-is-layout-flex\">\n<p>The Chilean Consulate recently completed a

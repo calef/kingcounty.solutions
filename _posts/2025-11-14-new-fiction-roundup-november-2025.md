@@ -1,6 +1,7 @@
 ---
 date: '2025-11-14T18:00:37+00:00'
 images: []
+locations: []
 original_content: "<p>Surreal stories, character studies, family sagas and more await
   you in November&#8217;s new releases. </p>\r\n\r\n\r\n\r\n<p>11/4: <a href=\"https://seattle.bibliocommons.com/v2/record/S30C4089587\"><strong>Bitter
   Honey</strong></a> by Lolá Ákínmádé </p>\r\n<p>In 1978, Nancy immigrates from Gambia

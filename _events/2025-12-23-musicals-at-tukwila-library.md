@@ -3,6 +3,8 @@ end_date: '2025-12-23T19:30:00-08:00'
 images: []
 location: Tukwila Library, 14380 Tukwila International Boulevard, Tukwila, WA, United
   States
+locations:
+- King County
 original_content: "<section> <div> <div> <div> <section> <div> <h1>Musicals at Tukwila
   Library</h1> <div> <h2> <span>December 23 @ 5:00 pm</span> - <span>7:30 pm</span>
   </h2> </div> <div> <div> <div> <div> <p>Join us for a free screening of the 1955

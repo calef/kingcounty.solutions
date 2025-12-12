@@ -5,6 +5,8 @@ events_extracted: true
 images:
 - dc3c28c77162dea23a14b3fd408c51045d882575aa92361d1a9e08f3f07f217f
 - 277b7eceba286876a1995117eb7d0c0a7bb09e14a71395cb7fc969f5e13e4122
+locations:
+- King County
 original_content: |-
   <p>This November, Catholic Community Services’ (CCS)&nbsp;St. Margaret’s&nbsp;Place&nbsp;Apartments celebrates two years since opening, and residents who&nbsp;moved in at opening are celebrating two years of permanent affordable housing.&nbsp;&nbsp;</p>
 

@@ -5,6 +5,8 @@ events_extracted: true
 images:
 - f7d0c44e1f8b3518a0367cf84df29798ee6cfb68d21c90ec917df4a078002572
 - 562b21e405c8a4167903ff4cd0e799dfa5abdff54c3f528e64694c30666376af
+locations:
+- King County
 original_content: |-
   <h2 class="wp-block-heading">Wounds, opioids and addiction treatment for WWI Veterans</h2>
 

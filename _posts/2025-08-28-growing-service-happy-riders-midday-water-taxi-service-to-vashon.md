@@ -3,6 +3,8 @@ date: '2025-08-28T21:00:21+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- Vashon
 original_content: On June 27, 2024, riders sailed from Vashon Island to downtown Seattle
   carrying the Vashon flag on the M/V Sally Fox, named for the celebrated advocate
   of passenger-only ferry service to Vashon. The trip recognized the historic introduction

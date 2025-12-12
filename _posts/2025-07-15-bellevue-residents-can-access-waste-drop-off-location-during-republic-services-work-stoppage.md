@@ -1,6 +1,7 @@
 ---
 date: '2025-07-15T15:13:40+00:00'
 images: []
+locations: []
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Bellevue
   residents can access waste drop-off location during Republic Services work stoppage</span>\n<span
   class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span

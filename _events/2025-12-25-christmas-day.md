@@ -2,6 +2,8 @@
 end_date: '2025-12-26T00:00:00-08:00'
 images: []
 location: ''
+locations:
+- King County
 original_content: '<div id="uw-container"> <div id="uw-container-inner"> <header class="uw-thinstrip">
   <div class="container"> <a class="uw-patch" href="http://uw.edu" tabindex="-1" title="University
   of Washington Home">Home</a> <a class="uw-wordmark" href="http://registrar.washington.edu"

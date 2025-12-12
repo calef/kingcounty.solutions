@@ -1,6 +1,7 @@
 ---
 date: '2025-12-04T21:40:31+00:00'
 images: []
+locations: []
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">How
   to report graffiti on non-city property</span>\n<span class=\"field field--name-uid
   field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/arich\"

@@ -1,6 +1,7 @@
 ---
 date: '2025-07-02T22:03:11+00:00'
 images: []
+locations: []
 original_content: "<figure class=\"wp-block-image size-large\"><img data-recalc-dims=\"1\"
   decoding=\"async\" width=\"625\" height=\"416\" data-attachment-id=\"15508\" data-permalink=\"https://bikeworks.org/steves-manifesto/img_1386/\"
   data-orig-file=\"https://i0.wp.com/bikeworks.org/wp-content/uploads/2025/07/IMG_1386-scaled.jpg?fit=1920%2C1280&amp;ssl=1\"

@@ -2,6 +2,8 @@
 generated_from_post: true
 images: []
 location: ''
+locations:
+- King County
 original_markdown_body: Announcement of the awarded scholarships by the CQC.
 source: City of Carnation
 source_url: https://www.carnationwa.gov/scholarship-nomination-opportunity/

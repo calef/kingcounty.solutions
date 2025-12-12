@@ -2,6 +2,8 @@
 end_date: '2026-03-06T13:00:00-08:00'
 images: []
 location: Livestreaming
+locations:
+- King County
 original_content: '<article id="post-3862" class="post-3862 uw_oplevents type-uw_oplevents
   status-publish hentry category-department-of-american-ethnic-studies category-department-of-gender-women-sexuality-studies
   category-department-of-history category-graduate-school-sponsored category-jackson-school-of-international-studies">

@@ -3,6 +3,8 @@ date: '2025-12-08T18:37:49+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: "<h4><strong>Facing winter outside</strong></h4><p>When Nicole,
   a single mother living with Multiple Sclerosis (MS), lost her home, she felt the
   ground shift beneath her. MS can be unpredictable—bringing fatigue, cognitive challenges,

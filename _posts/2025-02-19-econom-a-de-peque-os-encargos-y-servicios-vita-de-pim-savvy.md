@@ -3,6 +3,8 @@ date: '2025-02-19T04:01:48+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p>¿Ganas dinero con trabajos como conducir un coche para hacer entregas? Si lo hace, debe presentar una declaración de impuestos si tiene ganancias netas de trabajo por cuenta propia de $400 o más por trabajo informal, incluso si es un <strong>trabajo secundario, a tiempo parcial o temporal.</strong> El sitio de Asistencia Voluntaria para el Impuesto sobre la Renta (VITA) de PIM Savvy puede ayudarle a presentar sus impuestos <strong><em>GRATIS</em></strong> si califica. Sigue leyendo para obtener más información.</p>
 

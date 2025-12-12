@@ -3,6 +3,8 @@ date: '2025-11-26T21:27:28+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p>Transforming Age Community,</p>
 

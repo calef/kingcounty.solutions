@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - 937847eec74bf197055367e4dc7bba4fbd8ddcc2dacc28b1e12a43f77d52d8c4
+locations:
+- King County
 original_content: |-
   <p data-start="156" data-end="361"><img loading="lazy" decoding="async" class="size-full wp-image-11368 aligncenter" src="https://positiveplace.org/wp-content/uploads/2025/07/Field-Day-Logo_Transparent.png" alt="" width="500" height="500" srcset="https://positiveplace.org/wp-content/uploads/2025/07/Field-Day-Logo_Transparent.png 500w, https://positiveplace.org/wp-content/uploads/2025/07/Field-Day-Logo_Transparent-300x300.png 300w, https://positiveplace.org/wp-content/uploads/2025/07/Field-Day-Logo_Transparent-150x150.png 150w, https://positiveplace.org/wp-content/uploads/2025/07/Field-Day-Logo_Transparent-60x60.png 60w, https://positiveplace.org/wp-content/uploads/2025/07/Field-Day-Logo_Transparent-100x100.png 100w" sizes="auto, (max-width: 500px) 100vw, 500px" /></p>
   <p data-start="156" data-end="361"><strong data-start="156" data-end="165">Date:</strong> Thursday, August 21, 2025<br data-start="191" data-end="194" /><strong data-start="194" data-end="207">Location:</strong> Seattle University<br data-start="226" data-end="229" /><strong data-start="229" data-end="237">Who:</strong> Club members and staff from King County summer day camps<br data-start="294" data-end="297" /><strong data-start="297" data-end="321">Expected Attendance:</strong> 475 youth and 75 staff and volunteers</p>

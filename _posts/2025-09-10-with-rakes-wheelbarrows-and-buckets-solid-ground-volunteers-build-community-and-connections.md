@@ -58,6 +58,8 @@ images:
 - 397ccba15781ee6e09492fe73b4ef952798bf09b3347feca4e4f17c2eb71fc18
 - 1c672d364ba75c9fb95e7fcd4388bebc995212b56f7a87fa7b04c0eca784b0d9
 - f494d29d26ef5505cfe00d0ab2ab1102d965be66afde09315a5406b433738178
+locations:
+- King County
 original_content: "<p><img width=\"361\" height=\"255\" src=\"https://s14621.pcdn.co/wp-content/uploads/2025/09/DayofService-MarraFarm-RG-08.22.25-41-801x-361x255.jpg\"
   class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"A crowd
   of people dressed for garden work pose for a group photo under a green cloth canopy.\"

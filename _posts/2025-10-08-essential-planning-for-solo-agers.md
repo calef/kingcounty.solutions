@@ -3,6 +3,8 @@ date: '2025-10-08T06:00:32+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p>Nearly one-third of adults who are 55 and older are aging solo, navigating aging without a life partner or children. Top of mind for many solo agers is who will advocate for them when they need assistance. Proactive planning is essential. Here are some key areas to consider when planning for a healthy, safe, and [&#8230;]</p>
   <p>The post <a href="https://agingwisdom.com/essential-planning-for-solo-agers/">Essential Planning for Solo Agers</a> appeared first on <a href="https://agingwisdom.com">Aging Wisdom</a>.</p>

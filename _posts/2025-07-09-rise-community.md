@@ -3,6 +3,8 @@ date: '2025-07-09T19:42:26-07:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: June 2025Domestic abuse thrives in secrecy. It isolates, separates
   and leaves victims feeling completely alone. Our Rise support group is a safe place
   for women to process their pain and trauma and connect to a community that understands

@@ -3,6 +3,8 @@ date: '2025-06-06T19:09:14+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: People who want to improve their health often turn to dramatic changes—such
   as crash diets, intensive exercise routines, or taking on...
 original_markdown_body: People who want to improve their health often turn to dramatic

@@ -3,6 +3,8 @@ date: '2025-09-22T21:24:22+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- Eastside
 original_content: Fifteen years ago, Loretta was searching for support after being
   diagnosed with a degenerative eye condition that meant she had to give...
 original_markdown_body: Fifteen years ago, Loretta was searching for support after

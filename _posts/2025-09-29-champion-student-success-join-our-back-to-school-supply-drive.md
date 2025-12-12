@@ -3,6 +3,8 @@ date: '2025-09-29T17:28:09+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: Youth and young adults are heading back to school this month, and
   we are asking for school supplies, hygiene items, and snacks to get...
 original_markdown_body: Youth and young adults are heading back to school this month,

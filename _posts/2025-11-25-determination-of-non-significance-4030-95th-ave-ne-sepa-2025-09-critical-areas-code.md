@@ -1,6 +1,7 @@
 ---
 date: '2025-11-25T16:57:46+00:00'
 images: []
+locations: []
 original_content: '<p><img decoding="async" class="alignnone size-full wp-image-8126"
   src="https://yarrowpointwa.gov/wp-content/uploads/2025/11/CAO-SEPA-2025-09-DNS-Posting-Notice.jpg"
   alt="" width="1700" height="2200" srcset="https://yarrowpointwa.gov/wp-content/uploads/2025/11/CAO-SEPA-2025-09-DNS-Posting-Notice.jpg

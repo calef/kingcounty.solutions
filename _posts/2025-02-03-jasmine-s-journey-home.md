@@ -3,6 +3,8 @@ date: '2025-02-03T06:18:06+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   For Jasmine, 42, her car had become her home. For more than a year, she lived in her vehicle at a safe parking program in Kirkland, enduring long, cold nights, constant uncertainty, and daily struggles.
 

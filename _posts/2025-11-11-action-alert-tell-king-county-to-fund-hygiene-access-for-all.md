@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - fdeef3207d36ffb4c16b09e078eba32db9a771f854d378087f13733f283346b4
+locations:
+- King County
 original_content: "<p class=\"\">Thousands of King County residents struggle to afford
   basic hygiene items — soap, toothpaste, laundry detergent, menstrual products —
   essentials most of us take for granted.</p><p class=\"\"><strong>Good news:</strong>&nbsp;The

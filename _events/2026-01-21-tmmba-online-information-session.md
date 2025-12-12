@@ -2,6 +2,8 @@
 end_date: '2026-01-21T13:45:00-08:00'
 images: []
 location: Online
+locations:
+- King County
 original_content: <div class="auraMsgBox auraLoadingBox" id="auraLoadingBox"> <span>Loading</span>
   </div> <div class="" id="auraErrorMask"><div role="dialog" aria-labelledby="auraErrorTitle"
   aria-describedby="auraErrorMessage" aria-modal="true" class="auraErrorBox" id="auraError">

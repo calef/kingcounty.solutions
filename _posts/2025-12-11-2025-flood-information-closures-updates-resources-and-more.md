@@ -1,11 +1,10 @@
 ---
 date: '2025-12-11T01:37:26+00:00'
-events:
-- 2025-12-11-snoqualmie-valley-transportation-service-cancellation
-- 2025-12-11-snoqualmie-valley-food-bank-closure
-- 2025-12-11-riverview-and-snoqualmie-valley-school-districts-closure
+events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p>Our office will be closed tomorrow, with our team working remotely. Please learn more below about how to get in touch with our services. More information, updates, and <a></a>resources are below as well.</p>
 

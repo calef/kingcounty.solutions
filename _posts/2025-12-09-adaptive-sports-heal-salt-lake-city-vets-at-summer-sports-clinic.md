@@ -1,6 +1,7 @@
 ---
 date: '2025-12-09T15:30:00+00:00'
 images: []
+locations: []
 original_content: |-
   <h2>VA Salt Lake City Veterans share recovery journeys in San Diego</h2>
 

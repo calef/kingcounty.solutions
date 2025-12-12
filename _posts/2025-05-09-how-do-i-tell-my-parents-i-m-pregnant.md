@@ -3,6 +3,8 @@ date: '2025-05-09T16:40:46+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p>Breaking the news to your parents about an unexpected pregnancy can be nerve-racking. You might be worried they will be angry or disappointed in you. While everyone’s relationship with their parents is unique, here are some helpful tips on how to navigate the conversation.&nbsp;</p>
 

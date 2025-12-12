@@ -3,6 +3,8 @@ date: '2025-08-04T18:27:31+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- Snoqualmie Valley
 original_content: "**From Mission to Purpose: A Heartfelt Evolution at Encompass&nbsp;**
   \ \n_By Kim Darby, Encompass Board President, and Nela Cumming, Encompass Executive
   Director_\n\n![](https://encompassnw.org/wp-content/uploads/2025/08/img-instagram-blog-purpose-819x1024.jpg)In

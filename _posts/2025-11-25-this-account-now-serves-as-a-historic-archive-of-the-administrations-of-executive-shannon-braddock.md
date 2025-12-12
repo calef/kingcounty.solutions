@@ -1,6 +1,7 @@
 ---
 date: '2025-11-25T22:02:05+00:00'
 images: []
+locations: []
 original_content: |-
   <figure><img alt="This account now serves as a historic archive of the administrations of Executive Shannon Braddock and Executive Dow Constantine. It is no longer active or monitored.
    

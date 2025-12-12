@@ -2,6 +2,8 @@
 generated_from_post: true
 images: []
 location: Meydenbauer Bay Park
+locations:
+- King County
 original_markdown_body: Construction for the second phase of the Meydenbauer Bay Park
   expansion is expected to begin.
 source: City of Bellevue

@@ -1,6 +1,7 @@
 ---
 date: '2025-10-02T18:04:46+00:00'
 images: []
+locations: []
 original_content: |-
   In September, we responded to 1,305 calls for service, an average of 42.1 emergency calls each day. Emergency medical aid calls continue to account for the majority of calls at 84%
 

@@ -3,6 +3,8 @@ date: '2025-04-18T18:10:00+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- South King County
 original_content: "<p class=\"\">More of our neighbors are experiencing stress, anxiety,
   and depression due to economic factors such as increasing grocery prices. In Southeast
   King County, 1 in 4 people are food insecure. As of 2024, about 16,868 people are

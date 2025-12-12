@@ -1,6 +1,7 @@
 ---
 date: '2025-01-22T17:03:09+00:00'
 images: []
+locations: []
 original_content: |-
   Gov. Bob Ferguson appoints Jesse Jones to lead Results Washington
 

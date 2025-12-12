@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - 3e1cb5f07d6624bcbf5be58636b5939205df1150014bc2fcc2b5860dd76ab9d8
+locations:
+- King County
 original_content: "<div class=\"hs-featured-image-wrapper\"> \n <a href=\"https://blog.usa.gov/enhancing-the-publics-experience-with-government-in-2024\"
   title=\"\" class=\"hs-featured-image-link\"> <img src=\"https://blog.usa.gov/hubfs/Enhancing%20the%20publics%20experience%20with%20government%20in%202024%20DRAFT%201-13.png\"
   alt=\"The title &quot;Enhancing the public’s experience with government in 2024&quot;

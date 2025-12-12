@@ -3,6 +3,7 @@ date: '2025-11-17T17:04:08+00:00'
 events: []
 events_extracted: true
 images: []
+locations: []
 original_content: |-
   <p>[Yakima Herald] For Annaleise Flowers, getting SNAP benefits has been a waiting game. Until recently, Flowers had been receiving $59 a month in Supplemental Nutrition Assistance Program benefits, or food stamps, in Oklahoma.</p>
   <p>The post <a>Yakima nonprofits step up food aid because of uncertainty over SNAP benefits</a> appeared first on <a>Northwest Harvest</a>.</p>
@@ -11,6 +12,7 @@ original_markdown_body: |-
   [Yakima Herald] For Annaleise Flowers, getting SNAP benefits has been a waiting game. Until recently, Flowers had been receiving $59 a month in Supplemental Nutrition Assistance Program benefits, or food stamps, in Oklahoma.
 
   The post Yakima nonprofits step up food aid because of uncertainty over SNAP benefits appeared first on Northwest Harvest.
+published: false
 source: Northwest Harvest
 source_url: https://www.northwestharvest.org/news-insights/yakima-nonprofits-step-up-food-aid-because-of-uncertainty-over-snap-benefits/
 summarized: true

@@ -3,6 +3,8 @@ date: '2025-04-11T17:00:00+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: '<p class="">The main differences between&nbsp;<strong>Standard
   Dialectical Behavior Therapy (DBT)</strong>&nbsp;and&nbsp;<strong>Radically Open
   Dialectical Behavior Therapy (RO-DBT)</strong>&nbsp;are in the target populations

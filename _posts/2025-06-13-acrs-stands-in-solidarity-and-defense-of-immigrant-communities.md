@@ -3,6 +3,8 @@ date: '2025-06-13T16:53:26+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p>Asian Counseling and Referral Service (ACRS) stands in solidarity with individuals, families, and peaceful demonstrators in Los Angeles and across the country impacted by recent immigration enforcement actions, including a surge in coordinated raids, and heightened law enforcement activity. As an organization committed to supporting immigrants and refugees, we are deeply concerned about the harm these actions inflict on the dignity, safety, and well-being of our communities.</p>
   <p>The deployment of National Guard troops in Los Angeles, along with expansive immigration operations, marks a troubling escalation in the use of government power, particularly in ways that disproportionately target immigrant and refugee communities. Over Memorial Day weekend, 160 individuals were deported to Laos and Vietnam in what is reported to be the largest Southeast Asian deportation in recent history.</p>

@@ -3,6 +3,8 @@ date: '2025-06-20T17:02:21+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   Join us for the upcoming 13th Annual A&NH/PI Primary Election Candidate Forum at the historic Wing Luke Museum on Wednesday, July 23rd 5:30-7:30pm! The forum will feature candidates for&nbsp;Seattle City Council District 2 and At-Large seats 8 and 9. The Seattle City Council makes decisions that impact issues like housing affordability, funding for human services, protecting immigrants, public safety, and much more.
 

@@ -3,6 +3,8 @@ date: '2025-08-25T20:39:49+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p>As seen in Seattle Weekly.</p>
   <p>The fentanyl crisis continues to impact families and communities across the Seattle area and throughout King County. To shed light on this growing community crisis, <a href="https://valleycities.org/" target="_blank" rel="nofollow noopener" data-mrf-link="https://valleycities.org/">Valley Cities Behavioral Health Care</a> is hosting a <a href="https://www.eventbrite.com/e/lunch-and-learn-valley-cities-behavioral-health-care-tickets-1608058950609?aff=oddtdtcreator" target="_blank" rel="nofollow noopener" data-mrf-link="https://www.eventbrite.com/e/lunch-and-learn-valley-cities-behavioral-health-care-tickets-1608058950609?aff=oddtdtcreator"><strong>Lunch &amp; Learn at the World Trade Center Seattle</strong></a> on Wednesday, Sept. 24, from 11 a.m. to 12:15 p.m.</p>

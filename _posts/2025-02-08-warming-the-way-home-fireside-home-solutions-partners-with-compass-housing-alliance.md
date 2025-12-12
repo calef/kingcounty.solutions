@@ -5,6 +5,8 @@ events_extracted: true
 images:
 - d87cf6bdcf8f4c8139372c286cc432bce5462f3ef18385f9182b6f809e8e4961
 - 10049390db71e7ec3d3668af255f6326ce65756b3ef7dd52bf3bbeb23befcad2
+locations:
+- King County
 original_content: |-
   <figure class="wp-block-image size-large"><a href="https://firesidehomesolutions.com/"><img loading="lazy" decoding="async" width="1024" height="379" src="https://www.compasshousingalliance.org/wp-content/uploads/2025/02/Compass-News-1080-x-400-px-29-1024x379.png" alt="" class="wp-image-12251" srcset="https://www.compasshousingalliance.org/wp-content/uploads/2025/02/Compass-News-1080-x-400-px-29-1024x379.png 1024w, https://www.compasshousingalliance.org/wp-content/uploads/2025/02/Compass-News-1080-x-400-px-29-300x111.png 300w, https://www.compasshousingalliance.org/wp-content/uploads/2025/02/Compass-News-1080-x-400-px-29-768x284.png 768w, https://www.compasshousingalliance.org/wp-content/uploads/2025/02/Compass-News-1080-x-400-px-29.png 1080w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></a></figure>
 

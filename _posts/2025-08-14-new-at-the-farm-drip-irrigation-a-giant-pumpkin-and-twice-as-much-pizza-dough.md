@@ -15,6 +15,8 @@ images:
 - 2012afada53efd30b867d7a9594648accbef48ce1ec4dd30de20db57cf10d4f1
 - ddf4c8660f0d3e6dc867690236609aab4a8f57ffa161887fdda0f62c051bc58f
 - 3675513e57f439d3242d5cad1b6603932f8c290b2b723351b7d815bda59fd764
+locations:
+- King County
 original_content: "<p><img width=\"361\" height=\"255\" src=\"https://s14621.pcdn.co/wp-content/uploads/2025/08/MarraFarm-flowers-CM-07.30.25-2-801x566-1-361x255.jpg\"
   class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"A trellis
   with purple and red sweet peas climbing up it.\" decoding=\"async\" srcset=\"https://s14621.pcdn.co/wp-content/uploads/2025/08/MarraFarm-flowers-CM-07.30.25-2-801x566-1-361x255.jpg

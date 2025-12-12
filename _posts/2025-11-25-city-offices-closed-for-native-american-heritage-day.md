@@ -1,6 +1,7 @@
 ---
 date: '2025-11-25T21:31:35+00:00'
 images: []
+locations: []
 original_content: "<div class=\"field field-name-field-date-and-time field-type-datetime
   field-label-hidden\">\n  \n      \n    <span  property=\"dc:date\" datatype=\"xsd:dateTime\"
   content=\"2025-11-28T00:00:00-08:00\" class=\"date-display-single\">11/28/2025 (All

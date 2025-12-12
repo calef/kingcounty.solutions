@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - d3e00ff523633e02c33f944c50c3ce753cc8488f6d32ea073e21ace704849588
+locations:
+- King County
 original_content: |-
   <div class="wp-block-image">
   <div class="wp-block-image"><img decoding="async" class="wpa-warning wpa-image-missing-alt  aligncenter wp-image-10810" src="https://www.cdhy.wa.gov/wp-content/uploads/2025/04/April-2025-Flyer.png" alt="Upcoming Professional Development Opportunities

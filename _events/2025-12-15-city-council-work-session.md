@@ -3,6 +3,8 @@ end_date: '2025-12-15T18:45:00-08:00'
 images: []
 location: City Hall – Council Chamber, 6200 Southcenter Boulevard, Tukwila, WA, 98188,
   United States
+locations:
+- King County
 original_content: '<section class="page-layout interior-layout"> <div class="main-content-area
   events-template"> <div class="container"> <div id="tribe-events-pg-template" class="tribe-events-pg-template">
   <section id="tribe-events-pg-template" class="tribe-events-pg-template"> <div id="tribe-events-content"

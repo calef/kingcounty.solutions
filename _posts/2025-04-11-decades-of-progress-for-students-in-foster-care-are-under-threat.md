@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - 450dd7d0817957fda3f2e2688301451d2626e86f59333a92581fe68bfbfad0a6
+locations:
+- King County
 original_content: |-
   <div class='author-name' style='font-size: 18px; width: 100%; padding: .5em 0;'><p>By Dawn Rains, CEO</p></div><h3>Something remarkable is happening.</h3>
   <p>Despite the academic challenges faced by Washington’s young people, graduation rates among students in foster care are on the rise,<strong> climbing from 36.1% to 51.2% since 2013</strong>—twice the rate of their general education peers.</p>

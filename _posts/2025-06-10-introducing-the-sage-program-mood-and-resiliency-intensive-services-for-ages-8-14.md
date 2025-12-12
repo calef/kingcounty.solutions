@@ -3,6 +3,8 @@ date: '2025-06-10T20:43:47+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: 'We’re excited to announce the launch of  The Sage Program: Mood
   and Resiliency Intensive Services , Ryther’s newest behavioral health...'
 original_markdown_body: 'We’re excited to announce the launch of The Sage Program:

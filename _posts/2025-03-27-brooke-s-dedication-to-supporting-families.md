@@ -3,6 +3,8 @@ date: '2025-03-27T23:01:41+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p>In 2011, Brooke Gibson faced an impossible choice—stay in a job that was harming her mental health and keeping her trapped in poverty or leave to pursue her education full-time and build a future free from constant financial worry. She chose to invest in herself and her children, but as a full-time student raising two young sons, she soon found herself unable to pay rent and facing eviction. With nowhere else to turn, she reached out to Wellspring Family Services.</p>
   <p>“Wellspring helped me when I needed it most,” Brooke recalls. “There was no judgment, no assumptions—just real support.” Wellspring covered her past-due rent and one month of future rent, giving her the stability to keep moving forward. With a safe home, she was able to complete her degree in Business Economics at Seattle University and create a secure future for her family.</p>

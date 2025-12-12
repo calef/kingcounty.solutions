@@ -1,6 +1,7 @@
 ---
 date: '2025-12-04T17:12:58+00:00'
 images: []
+locations: []
 original_content: Based on the Seattle Police Department’s exit from the Federal Consent
   Decree in September 2025, the Seattle Police Department must now adhere to Washington
   State law for any use of deadly force by an officer. In these situations, the department

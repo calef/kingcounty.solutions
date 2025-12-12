@@ -1,6 +1,7 @@
 ---
 date: '2025-12-02T17:00:00+00:00'
 images: []
+locations: []
 original_content: |-
   <h3 class="wp-block-heading">Communities from the coast to the Idaho border will benefit from the investments</h3>
 

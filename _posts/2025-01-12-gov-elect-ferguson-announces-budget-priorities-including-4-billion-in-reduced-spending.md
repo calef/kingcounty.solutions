@@ -3,6 +3,8 @@ date: '2025-01-12T17:29:25+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   Gov.-elect Ferguson announces budget priorities, including $4 billion in reduced spending
 

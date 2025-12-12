@@ -2,6 +2,7 @@
 end_date: '2026-01-07T20:00:00-05:00'
 images: []
 location: Virtual Events @ Antioch University
+locations: []
 original_content: <div> <header> <div> <div> <div> <ul> <li><a>Give Now</a></li> <li><a>Request
   Info</a></li> <li><a>Visit</a></li> <li><a>Apply</a></li> <li><a>Employment</a></li>
   </ul> </div> </div> <div> <div> <ul> <li> <a>About</a> <ul> <li> <ul> <li> <ul>
@@ -131,6 +132,7 @@ original_markdown_body: Give Now Request Info Visit Apply Employment        Abou
   | AUO   December 13 @ 1:00 pm - 2:00 pm  EST       Event Navigation  « Doctoral
   Counseling, Psychology and Therapy Info Session | AU          Announcing the New
   President of Antioch University  Learn More    {"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://www.antioch.edu/wp-includes/js/wp-emoji-release.min.js?ver=6.9"}}
+published: false
 source: Antioch University
 source_url: https://www.antioch.edu/event/phd-in-leadership-and-change-info-session-gslc-1-7-26/
 start_date: '2026-01-07T19:00:00-05:00'

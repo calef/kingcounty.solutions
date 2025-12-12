@@ -2,6 +2,8 @@
 end_date: '2025-12-18T17:00:00-08:00'
 images: []
 location: 3939 15th Ave NE Seattle, WA 98105
+locations:
+- King County
 original_content: '<article id="post-1083" class="post-1083 page type-page status-publish
   hentry"> <header class="entry-header"> <h1 class="entry-title">IACUC Meeting Schedule
   and Agenda</h1> </header> <div class="entry-content"> <p>The IACUC meets monthly

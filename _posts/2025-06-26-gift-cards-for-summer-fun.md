@@ -3,6 +3,8 @@ date: '2025-06-26T23:14:38+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: 'Want to help create joyful memories? We’re collecting gift cards
   for: Movie theaters Local food spots Uber rides Haircuts (Visa or...'
 original_markdown_body: 'Want to help create joyful memories? We’re collecting gift

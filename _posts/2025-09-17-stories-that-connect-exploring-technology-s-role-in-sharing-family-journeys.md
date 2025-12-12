@@ -3,6 +3,8 @@ date: '2025-09-17T19:38:23+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: "<p class=\"\">At Mary's Place, we're always excited to explore
   new ways to share the powerful stories of the families we're honored to serve. Recently,
   we had an exciting opportunity to team up with Alson.AI on an AI-enhanced storytelling

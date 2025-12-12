@@ -3,6 +3,8 @@ date: '2025-08-01T20:47:11+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: The City of Seattle has allocated $5.9 million in its 2025 budget
   to cover the permitting, construction, and operational costs for new...
 original_markdown_body: The City of Seattle has allocated $5.9 million in its 2025

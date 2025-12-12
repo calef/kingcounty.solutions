@@ -1,6 +1,7 @@
 ---
 date: '2025-09-24T21:43:30+00:00'
 images: []
+locations: []
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Bellevue
   Fiesta Latina Oct. 4 at Spring District Park</span>\n<span class=\"field field--name-uid
   field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"

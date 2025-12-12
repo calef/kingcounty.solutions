@@ -6,6 +6,8 @@ images:
 - 796f4803fbd553f9a0bd3351f24fbd5a8d0d716b3cbeca5c66f9bb070d57505c
 - ca879517e14554fa129509340e6e34f4a011fc0718ab22ccdc64327f1848bea9
 - b39ca577375854575f6d3e201b3ab878451a24c67f882ad43131b497457c7c6f
+locations:
+- King County
 original_content: |-
   <div class="wp-block-uagb-image uagb-block-db8ab62f wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure class="wp-block-uagb-image__figure"><img decoding="async" src="https://www.brightspark.org/wp-content/uploads/2025/10/Fund-Dev-Newsletter-Banners-3.png" alt="" class="uag-image-9257" width="768" height="231" title="Fund Dev Newsletter Banners (3)" loading="lazy" role="img" /></figure></div>
 

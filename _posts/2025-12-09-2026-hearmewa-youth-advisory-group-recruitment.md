@@ -3,6 +3,8 @@ date: '2025-12-09T18:11:45+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: The Attorney General’s Office is seeking members for the HearMeWA
   Youth Advisory Group, aimed at keeping the program youth-centered. Youth aged 10-25
   in Washington can apply by January 2, 2026, to contribute ideas and provide feedback.

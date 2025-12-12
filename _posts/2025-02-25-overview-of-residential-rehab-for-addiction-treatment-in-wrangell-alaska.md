@@ -1,6 +1,7 @@
 ---
 date: '2025-02-25T21:04:15+00:00'
 images: []
+locations: []
 original_content: |-
   <p>Wrangell, Alaska, offers a variety of residential rehab services for individuals seeking addiction treatment. These programs are designed to help people overcome substance use disorders in a supportive and structured environment. The process is personalized, with an emphasis on long-term recovery and holistic healing. In this small community, rehab centers provide individualized care that focuses on medical and therapeutic support to guide clients through every stage of recovery. For those specifically in need of methadone treatments, you can explore <a href="https://www.methadone.org/rehabs/" target="_blank" rel="noopener">methadone rehab centers</a> to find specialized care and support.</p>
   <h2>Inpatient Substance Use Treatment Process</h2>

@@ -1,6 +1,7 @@
 ---
 date: '2025-08-06T21:35:16+00:00'
 images: []
+locations: []
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Bellevue
   launches AI-powered collaboration to streamline permitting</span>\n<span class=\"field
   field--name-uid field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"

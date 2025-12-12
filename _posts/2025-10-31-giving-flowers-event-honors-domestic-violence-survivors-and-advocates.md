@@ -3,6 +3,8 @@ date: '2025-10-31T15:46:07+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: Approximately 200 people gathered at Seattle City Hall on Oct. 28
   to commemorate Domestic Violence Awareness Month and honor survivors of gender-based
   violence, as well as service providers and advocates.   Titled “Giving Flowers,”

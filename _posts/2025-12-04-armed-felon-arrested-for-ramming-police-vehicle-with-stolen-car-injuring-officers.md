@@ -1,6 +1,7 @@
 ---
 date: '2025-12-04T03:17:05+00:00'
 images: []
+locations: []
 original_content: Seattle police officers arrested a 39-year-old felon, armed with
   a gun, for ramming a police vehicle with a stolen car and injuring two officers
   this afternoon in the Chinatown-International District. At about 12:30 p.m., patrol

@@ -6,6 +6,8 @@ images:
 - 2d35323c1e1f6aa500faed1793005816488b835a2b6844b184768a55b7363394
 - 372527aeac059d5aecaf59956ef30a9036207dde516a77ac4f3dbd9221046c3e
 - 2fb67ad62cc84a71d5735e61927570d9cf2991dc8bea55dd103a1f67dcb39522
+locations:
+- King County
 original_content: |-
   <p>Thank you to everyone who joined on Saturday, February 8, to celebrate our 2025 Youth of the Year candidates!  More than 200 Boys &amp; Girls Clubs community and family members came together to recognize the 10 outstanding candidates from around the county.</p>
   <p>Each year, the event recognizes two teens with the<strong> Quincy Robertson Service and Leadership Award</strong> and the <strong>Boys &amp; Girls Clubs of King County Youth of the Year Award</strong>. Surprisingly, the judges awarded two teens with the Quincy Robertson Service award.</p>

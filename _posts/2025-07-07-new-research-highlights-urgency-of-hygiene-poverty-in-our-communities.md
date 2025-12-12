@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - 1877427c1fd462797be3d3e4b835a99e3d72254f9f4a072265d1f32e860c27d5
+locations:
+- King County
 original_content: "<p class=\"\">In their paper “Access to Dignity: Policy and Advocacy
   Opportunities for Ending Hygiene Poverty in Washington State”, the authors explore
   the prevalence of the critical yet widely under-addressed issue of essential hygiene

@@ -3,6 +3,8 @@ date: '2025-08-25T19:26:17+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p>As seen in the Kent and Auburn Reporters</p>
   <p>Since launching the Community Coffee Chats initiative,<a href="https://valleycities.org/" target="_blank" rel="nofollow noopener" data-mrf-link="https://valleycities.org/"> Valley Cities Behavioral Health Care</a> has received overwhelmingly positive feedback from the communities it serves.</p>

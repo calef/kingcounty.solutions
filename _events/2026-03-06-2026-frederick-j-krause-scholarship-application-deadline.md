@@ -2,6 +2,8 @@
 generated_from_post: true
 images: []
 location: ''
+locations:
+- King County
 original_markdown_body: Deadline for applications for the 2026 Frederick J. Krause
   Scholarship on Health and Disability.
 source: Institute on Human Development and Disability

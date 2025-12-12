@@ -2,6 +2,8 @@
 generated_from_post: true
 images: []
 location: Library
+locations:
+- King County
 original_markdown_body: An art walk event.
 published: false
 source: Homework Help

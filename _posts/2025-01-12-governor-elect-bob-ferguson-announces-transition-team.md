@@ -1,6 +1,7 @@
 ---
 date: '2025-01-12T18:01:44+00:00'
 images: []
+locations: []
 original_content: |-
   Governor-elect Bob Ferguson announces transition team
 

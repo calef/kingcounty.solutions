@@ -3,6 +3,8 @@ date: '2025-11-01T17:13:00+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- South King County
 original_content: Multi-Service Center and Puget Sound Energy’s partnership begin
   in 2002 to provide energy assistance benefits to PSE customers in South King County.
   Today, the PSE HELP program provides over $24 million in annual direct benefits

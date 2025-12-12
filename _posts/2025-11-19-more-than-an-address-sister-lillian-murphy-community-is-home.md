@@ -3,6 +3,7 @@ date: '2025-11-19T20:12:53+00:00'
 events: []
 events_extracted: true
 images: []
+locations: []
 original_content: |-
   <p><!--StartFragment --></p>
   <p class="pf0"><span class="cf0">Our Sister Lillian Murphy Community in San Francisco was recently honored with an Urban Land Institute (ULI) Americas Award for Excellence. This recognition reflects the pride that residents like Hazel feel living in Mercy Housing’s thoughtfully designed, welcoming communities.</span></p>
@@ -38,6 +39,7 @@ original_markdown_body: |-
   <!--EndFragment -->
 
   The post [More than an address – Sister Lillian Murphy Community is home](https://www.mercyhousing.org/2025/11/more-than-an-address-sister-lillian-murphy-community-is-home/) appeared first on [Mercy Housing](https://www.mercyhousing.org).
+published: false
 source: Mercy Housing
 source_url: https://www.mercyhousing.org/2025/11/more-than-an-address-sister-lillian-murphy-community-is-home/
 summarized: true

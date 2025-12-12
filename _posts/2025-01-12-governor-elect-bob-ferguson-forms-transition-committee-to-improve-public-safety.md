@@ -1,6 +1,7 @@
 ---
 date: '2025-01-12T17:57:55+00:00'
 images: []
+locations: []
 original_content: |-
   Governor-elect Bob Ferguson forms transition committee to improve public safety&nbsp;
 

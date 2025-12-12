@@ -1,6 +1,7 @@
 ---
 date: '2025-10-18T18:00:00-08:00'
 images: []
+locations: []
 published: false
 source: King County Solutions
 summarized: true

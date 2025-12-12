@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - 7946bb4c53a81a7644a7efa88fae0a2b31a43be3d2ac3ef758f1581956bac018
+locations:
+- King County
 original_content: '<img src="https://img1.wsimg.com/isteam/ip/02d99612-388e-465c-94d0-09bea0e32177/IMG_8062.png"/><p>Reclaiming
   Hope: Inside Praisealujah’s Men’s and Women’s Treatment Programs</p>'
 original_markdown_body: |-

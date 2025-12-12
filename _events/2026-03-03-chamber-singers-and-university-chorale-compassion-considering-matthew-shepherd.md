@@ -2,6 +2,8 @@
 end_date: '2026-03-03T19:30:00-08:00'
 images: []
 location: Meany Hall (MNY)
+locations:
+- King County
 original_content: <div class="field-items"> <div class="field-item"> <p>Chamber Singers
   and University Chorale collaborate with Seattle University Choirs (Leann Conley-Holcom,
   director) in performing <em>Considering Matthew Shepard,</em> a profound tale of

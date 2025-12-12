@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - 570f8162b84bd1d2828fefa1365a83adb0207b37aa42e98a513255bc235df11a
+locations:
+- Bellevue
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Bellevue
   launches Safe Routes to School program</span>\n<span class=\"field field--name-uid
   field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"

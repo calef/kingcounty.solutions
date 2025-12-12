@@ -1,6 +1,7 @@
 ---
 date: '2025-02-07T19:12:12+00:00'
 images: []
+locations: []
 original_content: |-
   <p>Taxes can be confusing and raise a lot of questions such as “How do I file my tax return?” or “How do I check my tax refund status?”. The Internal Revenue Service (IRS) is ready to answer all of your tax-related questions. Taxpayers can receive help online, by phone or in person. Continue reading to find out which option is best for you.</p>
 

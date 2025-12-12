@@ -3,6 +3,8 @@ date: '2025-04-04T21:16:07+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- Eastside
 original_content: A deeply meaningful part of my life these days is the time I spend
   volunteering as a driver for Eastside Friends of Seniors. It is a...
 original_markdown_body: A deeply meaningful part of my life these days is the time

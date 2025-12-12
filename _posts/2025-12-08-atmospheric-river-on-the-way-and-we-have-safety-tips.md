@@ -3,6 +3,8 @@ date: '2025-12-08T23:38:09+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: By now, you have probably heard about the heavy winds and rain in
   the forecast. Just step outside, you’ll feel the gusts. There’s clearly a storm
   rolling in. To help you best prepare for your afternoon and morning commutes during

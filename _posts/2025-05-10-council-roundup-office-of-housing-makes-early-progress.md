@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - 17352124dba834371eb31a0a1c6805fc342760f8d281aea7a95b4ab439d97918
+locations:
+- King County
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Council
   Roundup: Office of Housing makes early progress</span>\n<span class=\"field field--name-uid
   field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/mdegrand\"

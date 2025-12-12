@@ -2,6 +2,8 @@
 generated_from_post: true
 images: []
 location: Central Library, Seattle
+locations:
+- King County
 original_markdown_body: A screening of the documentary 'The Librarians' followed by
   a panel discussion featuring filmmaker Kim Snyder and other experts.
 published: false

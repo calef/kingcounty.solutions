@@ -3,6 +3,8 @@ date: '2025-12-10T19:30:02+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: "<span>Department of Health issues statement of charges on license
   of in-home services facility</span>\n\n            <div>\n<time>December 10, 2025
   - 11:28am</time>\n</div>\n      <span><span>Sharon.Moysiuk…</span></span>\n<span><time>December

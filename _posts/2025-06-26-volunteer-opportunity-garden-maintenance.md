@@ -3,6 +3,8 @@ date: '2025-06-26T23:23:48+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: Love being outdoors? We’re looking for volunteers to help with garden
   maintenance at Howard House Home ! It’s a great way to give back...
 original_markdown_body: Love being outdoors? We’re looking for volunteers to help

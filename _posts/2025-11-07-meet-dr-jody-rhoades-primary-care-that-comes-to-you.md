@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - da795fb72933fa9fccff8682259895746ad58d120aa7698e113f3fcf36ed3528
+locations:
+- King County
 original_content: |-
   <h3><strong>Wherever Life Takes You, Care Is Just a Click Away</strong></h3>
   <p><img fetchpriority="high" decoding="async" class="wp-image-11595 size-medium alignleft" src="https://www.pacificmedicalcenters.org/wp-content/uploads/2025/11/RHOADES-4-300x300.jpg" alt="" width="300" height="300" srcset="https://www.pacificmedicalcenters.org/wp-content/uploads/2025/11/RHOADES-4-300x300.jpg 300w, https://www.pacificmedicalcenters.org/wp-content/uploads/2025/11/RHOADES-4-1024x1024.jpg 1024w, https://www.pacificmedicalcenters.org/wp-content/uploads/2025/11/RHOADES-4-150x150.jpg 150w, https://www.pacificmedicalcenters.org/wp-content/uploads/2025/11/RHOADES-4-768x768.jpg 768w, https://www.pacificmedicalcenters.org/wp-content/uploads/2025/11/RHOADES-4-1536x1536.jpg 1536w, https://www.pacificmedicalcenters.org/wp-content/uploads/2025/11/RHOADES-4.jpg 1632w" sizes="(max-width: 300px) 100vw, 300px" /></p>

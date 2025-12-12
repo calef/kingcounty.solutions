@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - b9e18bd01c9e1a375f9b745e9927f053c0d8d0d05b3f974d18d8e2120ad76f91
+locations:
+- King County
 original_content: "<figure class=\"\n              sqs-block-image-figure\n              intrinsic\n
   \           \"\n        >\n          \n        \n        \n\n        \n          <a
   class=\"\n                sqs-block-image-link\n                \n          \n        \n

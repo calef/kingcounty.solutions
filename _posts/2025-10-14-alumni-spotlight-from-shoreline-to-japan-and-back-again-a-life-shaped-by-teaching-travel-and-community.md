@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - 5482324fdb3ffcb64a3d53dd907a1874756a7b22a867ddf1a91f6db771190f22
+locations:
+- King County
 original_content: '<div class="wp-rss-image" style="margin-bottom:20px;max-width:
   600px !important;padding-top: 0.75em;"><img src="https://i0.wp.com/news.shoreline.edu/wp-content/uploads/2025/10/Susan-Henderson-Head-Shot-Preferred-2.jpg?fit=400%2C300&amp;ssl=1"
   class="attachment-medium size-medium wp-post-image" alt="" decoding="async" sizes="100vw"

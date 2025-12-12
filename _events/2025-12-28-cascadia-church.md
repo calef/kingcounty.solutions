@@ -2,6 +2,8 @@
 end_date: '2025-12-28T12:00:00-08:00'
 images: []
 location: ''
+locations:
+- King County
 original_content: '<div> <div> <section> <div> <p> <a> « All Events</a> </p> <div>
   <span> Event Series: </span> <a> <span> Cascadia Church </span> </a> </div> <h1>Cascadia
   Church</h1> <div> <div> <span>December 28 @ 9:00 am</span> – <span>12:00 pm</span>

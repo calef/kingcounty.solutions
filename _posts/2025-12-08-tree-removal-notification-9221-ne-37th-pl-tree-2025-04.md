@@ -1,6 +1,7 @@
 ---
 date: '2025-12-08T17:05:09+00:00'
 images: []
+locations: []
 original_content: |-
   <p><img src="https://yarrowpointwa.gov/wp-content/uploads/2025/12/Tree-Posting-Notice-TREE-2025-04-Page-1-scaled.jpg"></p>
   <p><img src="https://yarrowpointwa.gov/wp-content/uploads/2025/12/Tree-Posting-Notice-TREE-2025-04-Page-2-scaled.jpg"></p>

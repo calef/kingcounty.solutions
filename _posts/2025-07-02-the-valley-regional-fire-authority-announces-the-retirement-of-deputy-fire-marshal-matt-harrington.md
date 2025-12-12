@@ -1,6 +1,7 @@
 ---
 date: '2025-07-02T13:40:25+00:00'
 images: []
+locations: []
 original_content: |-
   The Valley Regional Fire Authority (VRFA) proudly announces the retirement of Deputy Fire Marshal Matt Harrington, who has dedicated over two decades of exemplary service to our community since joining the legacy Auburn Fire Department on January 3, 2000. Throughout his career, Harrington has made a memorable impact on the VRFA and the lives of countless community members.
 

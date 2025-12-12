@@ -1,6 +1,7 @@
 ---
 date: '2025-04-09T00:22:00+00:00'
 images: []
+locations: []
 original_content: <p>Last week, the KCBA learned that metropolitan bar associations
   across the country were considering joining an amicus brief in support of Perkins
   Coie&rsquo;s request for permanent injunctive relief in Federal District Court,

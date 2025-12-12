@@ -3,6 +3,8 @@ date: '2025-05-12T15:54:09+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: Dear Supporters and Friends, A heartfelt thank you for standing
   up for your community and Giving BIG to LIHI! It is grassroots support...
 original_markdown_body: Dear Supporters and Friends, A heartfelt thank you for standing

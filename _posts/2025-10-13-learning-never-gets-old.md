@@ -3,6 +3,8 @@ date: '2025-10-13T15:44:31+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: <a href="https://wscenter.org/learning-never-gets-old/"><p>Do you
   remember the day that you graduated from high school? You were probably thrilled
   that you were done sitting in class, writing book reports and preparing assignments!

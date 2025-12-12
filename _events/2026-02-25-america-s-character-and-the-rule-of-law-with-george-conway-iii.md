@@ -2,6 +2,8 @@
 end_date: '2026-02-25T19:30:00-08:00'
 images: []
 location: Town Hall Seattle
+locations:
+- King County
 original_content: '<article id="post-3855" class="post-3855 uw_oplevents type-uw_oplevents
   status-publish hentry category-graduate-school-sponsored tag-free"> <header class="entry-header">
   <h1 class="entry-title">The Office of Public Lectures presents: America’s Character

@@ -3,6 +3,8 @@ date: '2025-02-05T17:21:39+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: 'Martinez Fellows gather at The University of Washington &#8211;
   Tacoma campus, ready to attend the first seminar of the year. Introduction: It Starts
   with Community It’s an early Saturday morning at the University of Washington Tacoma

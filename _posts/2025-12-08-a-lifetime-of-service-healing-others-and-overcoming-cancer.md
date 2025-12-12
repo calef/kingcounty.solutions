@@ -2,8 +2,8 @@
 date: '2025-12-08T19:30:00+00:00'
 events: []
 events_extracted: true
-images:
-- baed8243062ff81ab4aa6f7e049d8a09ad23a0bccfd2319f2bd3602ae2f56595
+images: []
+locations: []
 original_content: |-
   <p>Mark Denney is a physician assistant at <a>Oklahoma City VA Health Care System (OKCVA)</a>. When something felt wrong in his throat, he turned to the same place where he helps fellow Veterans heal.</p>
 
@@ -164,6 +164,7 @@ original_markdown_body: |-
   ## Learn more
 
   It’s never too late to apply for VA health care you’ve earned. If you are a Veteran or know a Veteran who has not yet applied for their VA health care benefits, learn how to get started.&nbsp;
+published: false
 source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143690/lifetime-service-healing-overcoming-cancer/
 summarized: true

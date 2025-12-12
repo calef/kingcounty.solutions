@@ -1,6 +1,7 @@
 ---
 date: '2025-05-16T21:30:01+00:00'
 images: []
+locations: []
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Celebrate
   Pride Month at City Hall Plaza June 4</span>\n<span class=\"field field--name-uid
   field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"

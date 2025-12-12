@@ -1,6 +1,7 @@
 ---
 date: '2025-05-22T00:06:31+00:00'
 images: []
+locations: []
 original_content: Join us for the 4th annual PRIDE Street Dance! Friday, June 6, 2025
   Come as you are or as you wish to be!
 original_markdown_body: Join us for the 4th annual PRIDE Street Dance! Friday, June

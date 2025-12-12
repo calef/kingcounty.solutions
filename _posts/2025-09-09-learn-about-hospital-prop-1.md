@@ -3,6 +3,8 @@ date: '2025-09-09T17:08:39+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- South King County
 original_content: |-
   <p><img width="300" height="188" src="https://blog.valleymed.org/wp-content/uploads/2025/09/Prop1-300x188.jpg" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://blog.valleymed.org/wp-content/uploads/2025/09/Prop1-300x188.jpg 300w, https://blog.valleymed.org/wp-content/uploads/2025/09/Prop1-768x481.jpg 768w, https://blog.valleymed.org/wp-content/uploads/2025/09/Prop1-600x376.jpg 600w, https://blog.valleymed.org/wp-content/uploads/2025/09/Prop1.jpg 800w" sizes="auto, (max-width: 300px) 100vw, 300px" /></p>
   <p>The Board of Commissioners for Public Hospital District No. 1 of King County, dba Valley Medical Center, adopted resolution No. 1066 concerning the district’s regular property tax levy. If approved, this proposition would provide additional operating and capital funds for hospital and healthcare services. It authorizes a maximum regular property levy rate for collection in 2026 of $.75 per $1,000 of assessed value. This is a $.46 increase per $1,000 above the current amount. The 2026 levy amount will be used to compute the limitations for levies in subsequent years.</p>

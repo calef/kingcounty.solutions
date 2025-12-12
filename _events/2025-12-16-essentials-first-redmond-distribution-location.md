@@ -2,6 +2,8 @@
 end_date: '2025-12-16T14:00:00-08:00'
 images: []
 location: WA
+locations:
+- King County
 original_content: '<div class="ast-container"> <section id="tribe-events-pg-template"
   class="tribe-events-pg-template" role="main"> <div id="tribe-events-content" class="tribe-events-single">
   <p class="tribe-events-back"> <a href="https://togethercenter.org/events/"> « All

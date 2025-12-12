@@ -2,6 +2,8 @@
 end_date: '2026-01-28T00:00:00-08:00'
 images: []
 location: ''
+locations:
+- King County
 original_content: <div class="container"> <section id="tribe-events-pg-template" class="tribe-events-pg-template">
   <div id="tribe-events-content" class="tribe-events-single"> <p class="tribe-events-back">
   <a href="https://www.dav.org/events-calendar/"> « All Events</a> </p> <h1 class="tribe-events-single-event-title">Virtual

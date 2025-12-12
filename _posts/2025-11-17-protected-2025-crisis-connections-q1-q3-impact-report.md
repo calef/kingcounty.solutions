@@ -3,6 +3,8 @@ date: '2025-11-17T17:10:20+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <form action="https://www.crisisconnections.org/wp-login.php?action=postpass&#038;wpe-login=true" class="post-password-form" method="post"><input type="hidden" name="redirect_to" value="https://www.crisisconnections.org/2025-crisis-connections-impact-report/" /></p>
   <p>This content is password protected. To view it please enter your password below:</p>

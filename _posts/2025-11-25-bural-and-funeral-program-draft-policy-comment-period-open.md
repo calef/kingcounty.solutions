@@ -1,6 +1,7 @@
 ---
 date: '2025-11-25T21:58:04+00:00'
 images: []
+locations: []
 original_content: |-
   <p>Dear Tribal Member,</p>
   <p>The Tribal Council directed the General Resources Department and legal counsel to develop a draft policy to fulfill the motion below.</p>

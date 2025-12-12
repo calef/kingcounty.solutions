@@ -3,6 +3,8 @@ date: '2025-11-15T00:30:43+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p>With food insecurity rising across the state and thousands of Washington families recently facing uncertainty over access to federal nutrition assistance, Philanthropy Northwest is reactivating the WA Food Fund, a coordinated philanthropic effort to ensure food reaches communities most in need.</p>
   <p>The post <a>Philanthropy Northwest Reactivates WA Food Fund to Address Growing Food Insecurity Across Washington</a> appeared first on <a>Northwest Harvest</a>.</p>

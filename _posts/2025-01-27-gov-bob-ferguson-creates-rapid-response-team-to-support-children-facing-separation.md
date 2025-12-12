@@ -3,6 +3,8 @@ date: '2025-01-27T19:04:30+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: "Gov. Bob Ferguson creates rapid response team to support children
   facing separation\n\nPublish Date\n\n<time datetime=\"2025-01-27T12:00:00Z\" class=\"datetime\">January
   27, 2025</time>\n\nBrionna.Aho@GO…<time datetime=\"2025-01-27T11:04:30-08:00\" title=\"Monday,

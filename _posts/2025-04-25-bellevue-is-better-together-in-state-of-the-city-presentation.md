@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - 11cae81b7f0ef41110d3dc466281b54f8baa2f7443aabfe3db882ef9d7e677b9
+locations:
+- Bellevue
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Bellevue
   is ‘Better Together’ in State of the City presentation</span>\n<span class=\"field
   field--name-uid field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"

@@ -3,6 +3,8 @@ date: '2025-09-05T18:00:00+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p class="">Tonight at 5 pm! </p>
 

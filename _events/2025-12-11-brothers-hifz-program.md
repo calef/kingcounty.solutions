@@ -2,6 +2,8 @@
 end_date: '2025-12-11T20:00:00-08:00'
 images: []
 location: ''
+locations:
+- King County
 original_content: "<div> <div> <div> <div> <div> <p> <a> « All Events </a> </p> <h1>Brothers
   Hifz Program</h1> <div> <span>Recurring event</span> <a> see all </a> </div> <div>
   <div> <h2> <span> December 11 </span> <span> @ </span> <span> 5:00 pm </span> <span>

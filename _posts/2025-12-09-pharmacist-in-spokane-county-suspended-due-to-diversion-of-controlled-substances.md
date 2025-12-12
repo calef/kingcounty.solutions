@@ -3,6 +3,7 @@ date: '2025-12-09T16:22:33+00:00'
 events: []
 events_extracted: true
 images: []
+locations: []
 original_content: |-
   <span>Pharmacist in Spokane County suspended due to diversion of controlled substances</span>
 
@@ -66,6 +67,7 @@ original_markdown_body: |-
   Our website is your source for a healthy dose of information. Get updates by following us on social media.
 
   ###
+published: false
 source: Department of Health
 source_url: https://doh.wa.gov/newsroom/pharmacist-spokane-county-suspended-due-diversion-controlled-substances
 summarized: true

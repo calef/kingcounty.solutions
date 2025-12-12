@@ -1,10 +1,9 @@
 ---
 date: '2025-12-05T23:00:00+00:00'
-events:
-- 2025-12-11-dining-event-turkey-sandwich
-- 2025-12-12-dining-event-vegetarian-chili
+events: []
 events_extracted: true
 images: []
+locations: []
 original_content: |-
   <p><strong>Monday ~</strong> Crispy Chicken Wrap w/lettuce, tom &amp; cheese, Soup &amp; Fruit</p>
 
@@ -46,6 +45,7 @@ original_markdown_body: |-
   [**Wednesday Night Dinner** (RSVP Required)](https://ballardseniorcenter.org/coming-up/wednesday-happy-hour-dinner-bingo/) ~ BBQ Chicken, Mac & Cheese, Garden Salad & Dessert
 
   The post [Dining Menu December 8th – 12th](https://ballardseniorcenter.org/dining-menu-december-8th-12th/) appeared first on [Ballard Senior Center](https://ballardseniorcenter.org).
+published: false
 source: Ballard Northwest Senior Center
 source_url: https://ballardseniorcenter.org/dining-menu-december-8th-12th/
 summarized: true

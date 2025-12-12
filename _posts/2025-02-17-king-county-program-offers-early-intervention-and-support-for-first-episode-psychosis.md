@@ -3,6 +3,8 @@ date: '2025-02-17T16:12:45+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: "<div class=\"et_pb_section et_pb_section_1 et_section_regular\"
   >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_row
   et_pb_row_1\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4 et_pb_column_1

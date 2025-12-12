@@ -2,6 +2,8 @@
 end_date: '2025-12-16T13:00:00-08:00'
 images: []
 location: "[ONLINE] EvergreenHealth"
+locations:
+- King County
 original_content: "<header> <div> <div><div> <div><div> <a>Lifeline</a> | 206.297.2500
   | 1.800.255.5505 | <a>Lifeline Chat</a> </div></div> </div></div> </div> </header>
   <div> <div> <div> <div> <section> <div> <p> <a> « All Events</a> </p> <h1>Embracing

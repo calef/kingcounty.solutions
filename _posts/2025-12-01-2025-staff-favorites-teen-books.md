@@ -1,6 +1,7 @@
 ---
 date: '2025-12-01T18:00:02+00:00'
 images: []
+locations: []
 original_content: |-
   <p><span data-contrast="auto">Every year, we ask staff members around the library system what their favorite reads published this year were. 2025 is no different, and we have a stellar lineup of fiction and graphic novels. </span><span data-ccp-props="{}"> </span></p>
   <p><span data-contrast="auto">Graphic novels first: <strong><a href="https://seattle.bibliocommons.com/v2/search?query=Cat%20Companions%20Maruru%20and%20Hachi&amp;searchType=smart">Cat Companions Maruru and Hachi</a></strong> began in 2024, but volumes 3 through 5 were published this year. The series follows two cats – pampered Maruru and tough Hachi – as they make their life on the streets of Tokyo.</span><span data-ccp-props="{}"> </span></p>

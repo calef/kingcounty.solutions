@@ -3,6 +3,8 @@ date: '2025-10-16T17:08:03+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p></p>
 

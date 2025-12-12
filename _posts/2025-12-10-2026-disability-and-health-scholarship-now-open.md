@@ -5,6 +5,8 @@ events:
 events_extracted: true
 images:
 - 84895ecebf99b7daeb291779a10c3c261887ec60451366018df82c835eea2236
+locations:
+- King County
 original_content: "<div>\n<div>\n\t\t\t\t\n<div>\n\t\n<h2>\n\t<span>\n\t\t\t\t<span><span><a>Home</a></span></span>\n\t\t\t</span>\n</h2>\n<div></div>\n\n\n\n\t<div>\n\n<div>\n\n\t\n\t<h2>2026
   Disability and Health Scholarship Now Open</h2>\n<p><img src=\"https://ihdd.org/wp-content/uploads/2025/12/disabled-college-student-wheelchair.jpg\">The
   American Association on Health and Disability (AAHD) is now accepting <a>applications</a>

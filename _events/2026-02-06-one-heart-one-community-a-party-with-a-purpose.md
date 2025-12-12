@@ -3,6 +3,8 @@ end_date: '2026-02-06T23:00:00+00:00'
 images: []
 location: Overlake Golf and Country Club, 8000 NE 16th St, Medina, Washington, 98039,
   United States
+locations:
+- King County
 original_content: '<section id="tribe-events-pg-template" class="tribe-events-pg-template">
   <div id="tribe-events-content" class="tribe-events-single tribe-blocks-editor">
   <p class="tribe-events-back"> <a href="https://www.bellevuelifespring.org/events/">

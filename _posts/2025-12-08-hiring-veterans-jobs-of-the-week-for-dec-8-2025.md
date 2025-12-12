@@ -3,6 +3,7 @@ date: '2025-12-08T14:30:00+00:00'
 events: []
 events_extracted: true
 images: []
+locations: []
 original_content: |-
   <p>Editor’s note: This post contains links to jobs that are active at the time of publishing. Most job listings close 7–30 days after posting. The sharing of any non-VA information does not constitute an endorsement of products or services by VA. Veterans should verify all information with the organization offering the opportunity.</p>
 
@@ -368,6 +369,7 @@ original_markdown_body: |-
   Newport News, VA: Hampton Roads Military Community Education Connect (Peninsula) – Thursdays
 
   Norfolk, VA: Hampton Roads Military Community Education Connect (Southside) – Thursdays
+published: false
 source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143913/hiring-veterans-jobs-week-dec-8-2025/
 summarized: true

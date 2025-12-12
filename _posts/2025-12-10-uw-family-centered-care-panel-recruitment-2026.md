@@ -5,6 +5,8 @@ events:
 events_extracted: true
 images:
 - d5e4fa62cadd087590fe7b10836ea8c4b3356dabb7e2e099c962920a1fd6aa1f
+locations:
+- King County
 original_content: "<div>\n<div>\n\t\t\t\t\n<div>\n\t\n<h2>\n\t<span>\n\t\t\t\t<span><span><a>Home</a></span></span>\n\t\t\t</span>\n</h2>\n<div></div>\n\n\n\n\t<div>\n\n<div>\n\n\t\n\t<h2>UW
   Family Centered Care Panel Recruitment 2026</h2>\n<p><img src=\"https://ihdd.org/wp-content/uploads/2023/06/photo-family-sitting-on-couch-smiling-looking-at-book.jpg\">The
   UW Physical Therapy and Occupational Therapy graduate programs are recruiting four

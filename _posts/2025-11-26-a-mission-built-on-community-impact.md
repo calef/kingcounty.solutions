@@ -1,6 +1,7 @@
 ---
 date: '2025-11-26T19:30:00+00:00'
 images: []
+locations: []
 original_content: |-
   <h2 class="wp-block-heading">VA firefighters assist Tuskegee with two structure fires in one morning</h2>
 

@@ -3,6 +3,8 @@ date: '2025-11-18T19:07:12+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p>If you&#8217;re looking for an easy way to make an impact, you&#8217;ve come to the right place!  </p>
 

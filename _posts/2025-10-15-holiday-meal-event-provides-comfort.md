@@ -3,6 +3,7 @@ date: '2025-10-15T13:00:00+00:00'
 events: []
 events_extracted: true
 images: []
+locations: []
 original_content: |-
   <p class="has-text-align-center"><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong>Holiday Meal Event Provides Comfort for Army Veteran’s Family After Tragedy</strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></p>
 
@@ -112,6 +113,7 @@ original_markdown_body: |-
   Brian and Jessica both are grateful that Operation Homefront and its donors are there for veterans and their families, especially during unsure times like medical retirement. Since 2010, Operation Homefront’s HMFM has provided more than 210,000 holiday meals to military and veteran families.
 
   The post [Holiday Meal Event Provides Comfort](https://operationhomefront.org/holiday-meal-event-provides-comfort/) appeared first on [Operation Homefront](https://operationhomefront.org).
+published: false
 source: Operation Homefront - Critical Financial Assistance Program
 source_url: https://operationhomefront.org/holiday-meal-event-provides-comfort/
 summarized: true

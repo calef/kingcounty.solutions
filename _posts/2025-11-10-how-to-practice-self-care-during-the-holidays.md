@@ -3,6 +3,8 @@ date: '2025-11-10T21:24:00+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <div class="is-layout-constrained wp-block-group"><div class="wp-block-group__inner-container">
   <p>While the holidays can be a time of joy, celebration, and togetherness, they can also feel stressful, overwhelming, or lonely. You might be dealing with packed schedules, financial pressure, or family tensions that can negatively impact your well-being during the holidays.&nbsp;</p>

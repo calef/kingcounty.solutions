@@ -2,6 +2,8 @@
 end_date: '2026-02-23T19:30:00-08:00'
 images: []
 location: Music Building (MUS)
+locations:
+- King County
 original_content: '<div class="field-items"> <div class="field-item"> <p> </p> <p>UW
   music students perform music from the Baroque era under the direction of Tekla Cunningham.</p>
   <h2 style="font-weight: 400;">Director Biography</h2> </div> </div>'

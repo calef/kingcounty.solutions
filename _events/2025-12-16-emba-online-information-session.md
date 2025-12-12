@@ -2,6 +2,8 @@
 end_date: '2025-12-16T12:30:00-08:00'
 images: []
 location: Webinar
+locations:
+- King County
 original_content: <div class="auraMsgBox auraLoadingBox" id="auraLoadingBox"> <span>Loading</span>
   </div> <div class="" id="auraErrorMask"><div role="dialog" aria-labelledby="auraErrorTitle"
   aria-describedby="auraErrorMessage" aria-modal="true" class="auraErrorBox" id="auraError">

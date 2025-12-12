@@ -3,9 +3,11 @@ end_date: '2026-06-20T00:00:00-07:00'
 generated_from_post: true
 images: []
 location: Pronghorn Golf Club, Bend, Oregon
+locations: []
 original_markdown_body: Inaugural golf outing benefiting Boyer Children's Clinic,
   featuring four rounds of championship golf, luxury accommodations, and community
   support.
+published: false
 source: Boyer Children's Clinic
 source_url: https://www.boyercc.org/events/golf-tournament-2026/
 start_date: '2026-06-18T00:00:00-07:00'

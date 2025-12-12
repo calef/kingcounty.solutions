@@ -3,6 +3,8 @@ end_date: '2026-01-03T11:00:00-08:00'
 generated_from_post: true
 images: []
 location: American Legion Hall
+locations:
+- King County
 original_markdown_body: Harborview Medical Center Street Medicine will offer medical
   care to clients, focusing on outreach to individuals experiencing homelessness.
 source: Westside Neighbors Shelter

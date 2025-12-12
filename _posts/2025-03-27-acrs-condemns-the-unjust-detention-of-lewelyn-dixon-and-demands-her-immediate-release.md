@@ -1,6 +1,7 @@
 ---
 date: '2025-03-27T23:30:00+00:00'
 images: []
+locations: []
 original_content: |-
   <p><span style="font-weight: 400;">As a service provider and trusted messenger to Asian, Native Hawaiian, and Pacific Islander community members, we are outraged by the escalating targeting and unjust detention of community members by federal immigration enforcement agencies. These actions are separating families, creating panic and distrust, and inflicting lasting harm on the mental health and well-being of our communities.</span></p>
   <p><span style="font-weight: 400;">Lewelyn Dixon, a UW lab technician and permanent U.S. legal resident for over 50 years, was returning home to Seattle from the Philippines in February 2025 when she was detained at the airport. She was held there for two days without explanation before being transferred to ICE&#8217;s custody and sent to the Northwest Detention Center, where she remains. Lewelyn was denied a bail hearing and has to wait until July for her first hearing. Until then, she remains detained despite having no current charges or violations. </span></p>

@@ -2,6 +2,8 @@
 generated_from_post: true
 images: []
 location: Kent Library
+locations:
+- King County
 original_markdown_body: The redesign of Kent Library as part of the KCLS initiative
   to revitalize library spaces.
 source: King County Library System

@@ -5,6 +5,8 @@ events_extracted: true
 images:
 - d5e430c0b3417345e39052679b14c414c0c9fb83582a816959143f98a1766566
 - f86b1e9ff00330e4fecfe5946117c7a0f04c05d871fab386b85c0d7093c4a440
+locations:
+- King County
 original_content: |-
   <p>With the leaves changing and temperatures dropping, students are settling into the school&nbsp;year. Our Seattle-based Youth Tutoring Program is&nbsp;reflecting on a productive summer of learning and adventure and celebrating a successful start to the new school year.&nbsp;</p>
 

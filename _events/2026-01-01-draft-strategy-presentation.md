@@ -2,6 +2,8 @@
 generated_from_post: true
 images: []
 location: ''
+locations:
+- King County
 original_markdown_body: A draft of the Affordable Housing Strategy will be presented
   to the Council.
 source: City of Bellevue

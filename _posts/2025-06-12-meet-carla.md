@@ -3,6 +3,8 @@ date: '2025-06-12T23:17:40+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p>For 35 years, Carla lived in a small house on a lake in Washington, a state she fell in love with after<span class="excerpt-hellip"> […]</span></p>
   <p>The post <a href="https://imaginehousing.org/carla/">Meet Carla</a> appeared first on <a href="https://imaginehousing.org">Imagine Housing</a>.</p>

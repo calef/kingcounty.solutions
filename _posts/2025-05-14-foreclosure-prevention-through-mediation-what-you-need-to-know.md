@@ -3,6 +3,8 @@ date: '2025-05-14T19:12:44+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p class="" data-start="407" data-end="764"><strong data-start="407" data-end="451">Foreclosure prevention through mediation</strong> is one of the most effective and underused tools available to homeowners facing financial stress. At the Dispute Resolution Center of King County (KCDRC), mediation helps residents navigate tough conversations with lenders, resolve misunderstandings, and find alternatives before foreclosure becomes a reality.</p>
   <p class="" data-start="766" data-end="1084">This work is closely tied to the <a href="https://kcdrc.org/property-tax-exemption-king-county/"><strong data-start="799" data-end="816">HOMES program</strong></a>—Homeowners’ Outreach, Mentoring, and Education Services—which helps older adults, veterans, and people with disabilities apply for King County’s property tax exemption. Together, these services provide meaningful support to residents at risk of housing instability.</p>

@@ -3,6 +3,8 @@ date: '2025-05-14T16:39:50+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p>Imagine a Seattle where every resident can afford a safe, quality affordable home in a high-opportunity area close to jobs, transit, arts and culture, and more. Since 1976, Community Roots Housing has been turning this vision into reality, creating affordable housing that does more than provide shelter— it supports thriving communities.</p>
   <p>Deeply committed to community-driven solutions, Community Roots has cultivated robust partnerships with local organizations, artists, and businesses to address housing and other critical needs in the Seattle metro area. As a Public Development Authority and Community Development Corporation, Community Roots owns and manages nearly 50 apartment buildings housing over 2,200 residents, working closely with service providers and community members to create affordable homes, preserve cultural spaces, and bring critical resources like healthcare to the neighborhoods that need them most. Following significant growth, Community Roots is now seeking a visionary CEO to advance their goal of building a Seattle where every resident can put down roots and flourish.</p>

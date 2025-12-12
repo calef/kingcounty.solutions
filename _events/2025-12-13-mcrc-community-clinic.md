@@ -2,6 +2,8 @@
 end_date: '2025-12-13T13:00:00-08:00'
 images: []
 location: ''
+locations:
+- King County
 original_content: "<div> <div> <div> <div> <div> <p> <a> « All Events </a> </p> <h1>MCRC
   Community Clinic</h1> <div> <span>Recurring event</span> <a> see all </a> </div>
   <div> <div> <h2> <span> December 13 </span> <span> @ </span> <span> 10:00 am </span>

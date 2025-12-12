@@ -2,6 +2,8 @@
 end_date: '2025-12-18T17:00:00-08:00'
 images: []
 location: CISC, 16305 NE 87th St, Suite 123, Redmond, WA, 98052, United States
+locations:
+- King County
 original_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <div> <span>
   Event Series: </span> <a> <span> East King County Family Resource Center – Information
   and Assistance Services – Russian Speaking </span> </a> </div> <h1>East King County

@@ -3,6 +3,8 @@ date: '2025-11-18T12:51:41+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: "<div class=\"editor clearfix\">\n\n    \n    <p><img decoding=\"async\"
   class=\"alignleft wp-image-55225 size-full\" src=\"https://www.dav.org/wp-content/uploads/Mag_2025_NovDec-LegSpotlight.jpg\"
   alt=\"\" width=\"300\" height=\"176\" />For service-disabled veterans, the freedom

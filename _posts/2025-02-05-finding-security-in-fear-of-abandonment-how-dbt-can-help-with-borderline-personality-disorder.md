@@ -3,6 +3,8 @@ date: '2025-02-05T03:25:26+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p>Borderline personality disorder (BPD) is an intense mental health condition where someone experiences heightened emotional responses to everyday situations that are long-lasting and hard to manage. Perceived or real abandonment is particularly hard on people with BPD; anything from a simple missed phone call <a href="https://thirahealth.com/2023/01/30/recovering-from-a-breakup-with-borderline-personality-disorder/">to a breakup</a> can feel emotionally overwhelming.</p>
   <p>If you’ve been diagnosed with BPD, you’re likely all too familiar with the stress and upset that come with a deep fear of abandonment. You may be asking yourself why? Why are you so scared of being abandoned? Why do small, neutral interactions—ones that other people consider to be everyday experiences—trigger panic and extreme emotional reactions in you?</p>

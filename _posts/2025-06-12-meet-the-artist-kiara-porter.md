@@ -1,6 +1,7 @@
 ---
 date: '2025-06-12T22:24:38+00:00'
 images: []
+locations: []
 original_content: |-
   <figure class="wp-block-image size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="992" src="https://www.seedseattle.org/wp-content/uploads/2025/06/Kiara-Porter-portrait-1024x992.jpg" alt="" class="wp-image-3256" style="width:597px;height:auto" srcset="https://www.seedseattle.org/wp-content/uploads/2025/06/Kiara-Porter-portrait-1024x992.jpg 1024w, https://www.seedseattle.org/wp-content/uploads/2025/06/Kiara-Porter-portrait-300x290.jpg 300w, https://www.seedseattle.org/wp-content/uploads/2025/06/Kiara-Porter-portrait-768x744.jpg 768w, https://www.seedseattle.org/wp-content/uploads/2025/06/Kiara-Porter-portrait.jpg 1135w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
 

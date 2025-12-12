@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - 4d149776db48cab0f529b27ec98e3a50ef9a25fc8e8d4d84574506f209eb054f
+locations:
+- King County
 original_content: |-
   <p>A part of Valley&#8217;s new Cancer Center is a clinic specially designed for cancer patients&#8211;the Acute Symptom Management Clinic (ASMC). The ASMC is part of the Oncology &amp; Hematology Clinic, and will be expanding to support patients at the Infusion &amp; Immunotherapy Center in the East Pavilion. We asked Kendra Hahn, Nurse Manager of the<strong> <span style="text-decoration: underline;"><a href="https://www.valleymed.org/services/all-specialties/cancer-treatment--support" data-type="link" data-id="https://www.valleymed.org/services/all-specialties/cancer-treatment--support" target="_blank" rel="noreferrer noopener">Oncology &amp; Hematology Clinic</a></span></strong> which the ASMC is a part of, to tell us about the clinic. Interview has been edited for length and clarity.</p>
 

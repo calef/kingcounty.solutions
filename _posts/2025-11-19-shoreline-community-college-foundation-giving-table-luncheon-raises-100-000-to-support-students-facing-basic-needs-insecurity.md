@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - b0e997764bd3bd8c5c5616c633329a4980ea252a94a50a24acf4e3b589e77f8f
+locations:
+- King County
 original_content: '<div class="wp-rss-image" style="margin-bottom:20px;max-width:
   600px !important;padding-top: 0.75em;"><img width="400" height="300" src="https://i0.wp.com/news.shoreline.edu/wp-content/uploads/2025/11/IMG_3859-3-scaled.jpg?fit=400%2C300&amp;ssl=1"
   class="attachment-medium size-medium wp-post-image" alt="Governor and First Lady

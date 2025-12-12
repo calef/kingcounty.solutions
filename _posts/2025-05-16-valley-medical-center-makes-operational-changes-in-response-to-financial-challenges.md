@@ -3,6 +3,8 @@ date: '2025-05-16T00:10:48+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- South King County
 original_content: |-
   <p><img width="300" height="163" src="https://blog.valleymed.org/wp-content/uploads/2025/05/Valley-Medical-Center-Exterior-800x500-1-300x163.png" class="attachment-medium size-medium wp-post-image" alt="Exterior shot of the Valley Medical Center hospital building with the sun setting behind it" decoding="async" loading="lazy" srcset="https://blog.valleymed.org/wp-content/uploads/2025/05/Valley-Medical-Center-Exterior-800x500-1-300x163.png 300w, https://blog.valleymed.org/wp-content/uploads/2025/05/Valley-Medical-Center-Exterior-800x500-1.png 600w" sizes="auto, (max-width: 300px) 100vw, 300px" /></p>
   <p><em>Last updated 6/4/25 &#8211; Scroll down for answers to Frequently Asked Questions</em></p>

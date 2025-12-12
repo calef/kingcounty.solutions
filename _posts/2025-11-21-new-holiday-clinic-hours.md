@@ -1,6 +1,7 @@
 ---
 date: '2025-11-21T19:13:00+00:00'
 images: []
+locations: []
 original_content: "<figure class=\"\n              sqs-block-image-figure\n              intrinsic\n
   \           \"\n        >\n          \n        \n        \n\n        \n          \n
   \           \n          \n            \n                \n                \n                \n

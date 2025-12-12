@@ -2,6 +2,8 @@
 end_date: '2026-01-26T18:20:00-08:00'
 images: []
 location: ''
+locations:
+- King County
 original_content: '<script type="application/ld+json"> { "@context": "https://schema.org",
   "@type": "Event", "name": "Trump in the World 2.0 Winter Lecture Series 2026", "description":
   "Join us online for a series of talks and discussion exploring global perspectives

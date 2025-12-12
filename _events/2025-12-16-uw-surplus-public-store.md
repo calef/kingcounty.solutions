@@ -2,6 +2,8 @@
 end_date: '2025-12-16T16:00:00-08:00'
 images: []
 location: Plant Services Building (PSB)
+locations:
+- King County
 original_content: "<a>Skip to main content</a> <div> <div> <header> <div> <a>University
   of Washington</a> <a>University of Washington</a> </div> </header> <div> <div> <div>
   <div> <div> <div> <div> <form> <div> <label>Search for:</label> </div> </form> <h3>Not

@@ -7,6 +7,8 @@ images:
 - 9b6caa7a1a77314c6c99b9a4c1ae839994ffb92b6941ec252a5b03914e54ea8f
 - 061011d1b46f02fdb203146350fee691ce9b1f250f22071f1f5cd78539a84893
 - 9dd12251f62fe9c4468f85e882cf8ab9fd40c2e6765722ba9f14ad45fbc075d3
+locations:
+- King County
 original_content: |-
   <p>When you enter Hospitality House, one of the first thing you&#8217;ll see are bins of items generously donated by YOU! Items purchased from our Amazon Donations Needed list are sent directly to Hospitality House, processed, and stored where they are available for residents to &#8220;shop,&#8221; giving them the autonomy and dignity they so deserve.</p>
 

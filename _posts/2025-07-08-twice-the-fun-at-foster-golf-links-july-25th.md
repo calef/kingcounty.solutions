@@ -1,6 +1,7 @@
 ---
 date: '2025-07-08T17:23:50+00:00'
 images: []
+locations: []
 original_content: |-
   ###### ![](https://www.tukwilawa.gov/wp-content/uploads/Glow-Ball-at-Foster-Golf-Links-1-1.png)
 

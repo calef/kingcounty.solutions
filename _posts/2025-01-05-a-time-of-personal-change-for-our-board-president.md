@@ -1,6 +1,7 @@
 ---
 date: '2025-01-05T19:46:03+00:00'
 images: []
+locations: []
 original_content: |-
   <p><em>We have traditionally created a Fall newsletter to communicate to current and alumni Changes members, as well as to the community at large.  </em></p>
   <p><em>With the creation of this website blog, we are moving from periodic newsletter-style communication to a more regular as-needed rhythm.  So consider this to be a delayed part 1 of what would have been our Fall ’24 Changing Times newsletter.  </em></p>

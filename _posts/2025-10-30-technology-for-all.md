@@ -3,6 +3,8 @@ date: '2025-10-30T17:42:40+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p>Complete the form below for instant access to your copy of our free eBook.</p>
 

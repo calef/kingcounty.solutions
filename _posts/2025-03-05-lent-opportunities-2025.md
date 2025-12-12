@@ -10,6 +10,8 @@ images:
 - d015c014437ec4a48cf1790ce91580e7a40ef96e1e025376358c9ef655edd995
 - 51394d21af7cfa20176274f9031a0fcff78a9b593d975f724ce67299595e1478
 - 00a823d5f87ad231ac30c6668f763a678a08cc5a73396873cda33a42d91f2b22
+locations:
+- King County
 original_content: |-
   <figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="379" src="https://firstchurchseattle.org/wp-content/uploads/2025/03/Bulletins-4-8-1024x379.png" alt="" class="wp-image-6250" srcset="https://firstchurchseattle.org/wp-content/uploads/2025/03/Bulletins-4-8-1024x379.png 1024w, https://firstchurchseattle.org/wp-content/uploads/2025/03/Bulletins-4-8-300x111.png 300w, https://firstchurchseattle.org/wp-content/uploads/2025/03/Bulletins-4-8-768x284.png 768w, https://firstchurchseattle.org/wp-content/uploads/2025/03/Bulletins-4-8.png 1080w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
 

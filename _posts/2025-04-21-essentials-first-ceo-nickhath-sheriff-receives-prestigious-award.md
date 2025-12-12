@@ -1,6 +1,7 @@
 ---
 date: '2025-04-21T23:42:00+00:00'
 images: []
+locations: []
 original_content: "<p class=\"\">We’re incredibly proud to share that our CEO, Nickhath
   (Nicky) Sheriff, was recently honored with the 2024 “Light of Christ” Humanitarian
   Award by The Church of Jesus Christ of Latter-day Saints - Western Washington.</p><p

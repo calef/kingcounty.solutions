@@ -1,6 +1,7 @@
 ---
 date: '2025-11-25T22:56:24+00:00'
 images: []
+locations: []
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Winter
   is coming – November’s Lake to Lake can help you prepare</span>\n<span class=\"field
   field--name-uid field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/lmilstead\"

@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - 3bda4e03e702bb43482fbc505b0cce566779647144fa61448467e73a491942c5
+locations:
+- King County
 original_content: "<div data-elementor-type=\"wp-post\" data-elementor-id=\"8613\"
   class=\"elementor elementor-8613\">\n\t\t\t\t<div class=\"elementor-element elementor-element-9af322
   e-flex e-con-boxed e-con e-parent\" data-id=\"9af322\" data-element_type=\"container\">\n\t\t\t\t\t<div

@@ -1,6 +1,7 @@
 ---
 date: '2025-11-07T12:37:55-08:00'
 images: []
+locations: []
 original_content: <div><p paraid="1603083217" paraeid="{b0b48f72-cdcb-42b9-93e5-f8b282adf60c}{116}">Daylight
   hours are waning, the rains have begun, and there’s a collective sense of battening
   down for winter here in the Pacific Northwest.&nbsp;</p><p paraid="1603083217" paraeid="{b0b48f72-cdcb-42b9-93e5-f8b282adf60c}{116}">Yet

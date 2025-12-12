@@ -3,6 +3,8 @@ date: '2025-02-12T06:00:23+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p><a href="https://www.verywellmind.com/what-causes-eating-disorders-4121047" target="_blank" rel="noopener">Eating disorders</a> are about so much more than just food. Eating behaviors in eating disorders are the tip of the iceberg, the visible part of a mental health struggle that is often rooted in family dysfunction, rejection, and bullying, impossible/unhealthy social expectations, and co-occuring mental health disorders like <a href="https://thirahealth.com/2023/07/12/anxiety-and-binge-eating/">anxiety</a>, depression, OCD, BPD, and PTSD.</p>
   <p>Eating disorders serve as a way to fit in, especially in social settings where abuse and dysfunction are considered the norm. They also serve as a source of control in out-of-control environments, where eating behaviors are used to soothe mental health symptoms. This intersection of extreme social rejection and mental health struggles is where emotional regulation comes into play for <a href="https://thirahealth.com/2024/11/27/how-to-help-your-teen-when-they-show-signs-of-an-eating-disorder/">eating disorders</a>.</p>
