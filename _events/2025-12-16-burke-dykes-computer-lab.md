@@ -191,7 +191,6 @@ summarized: true
 title: Burke Dykes Computer Lab
 topics:
 - Education & Learning
-- Employment & Job Support
 - Senior Services
 ---
 
