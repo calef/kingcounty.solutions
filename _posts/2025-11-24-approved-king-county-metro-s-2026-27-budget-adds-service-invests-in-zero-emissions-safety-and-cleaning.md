@@ -1,7 +1,6 @@
 ---
 date: '2025-11-24T17:01:28+00:00'
-events:
-- 2026-06-01-service-during-the-2026-fifa-men-s-world-cup
+events: []
 events_extracted: true
 images: []
 locations:
