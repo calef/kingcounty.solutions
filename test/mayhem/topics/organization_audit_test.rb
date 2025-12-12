@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 require_relative '../../test_helper'
+require 'fileutils'
 require 'minitest/autorun'
 require 'tmpdir'
 require_relative '../../../lib/mayhem/topics/organization_audit'
