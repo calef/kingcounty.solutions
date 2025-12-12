@@ -61,6 +61,7 @@ original_markdown_body: 'Select Page           « All Events  TRP 128 Graduation
   19     Time:   11:00 am - 1:00 pm        Venue    ANEW     18338 Andover Park West
   ANEW Tukwila, 98188 United States  + Google Map    Phone  2067101008     View Venue
   Website'
+published: false
 source: Apprenticeship & Nontraditional Employment for Women
 source_url: https://anewcareer.org/event/trp-128-graduation/
 start_date: '2025-12-19T11:00:00-08:00'
