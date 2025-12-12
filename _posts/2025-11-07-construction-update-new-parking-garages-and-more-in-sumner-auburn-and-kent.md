@@ -2,7 +2,6 @@
 date: '2025-11-07T09:37:44-08:00'
 events:
 - 2027-01-01-opening-of-auburn-station-garage
-- 2027-03-01-completion-of-kent-station-garage
 events_extracted: true
 images: []
 locations:
