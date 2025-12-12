@@ -233,8 +233,8 @@
   color: $grey-color-dark;
   font-size: 1rem;
   text-decoration: none;
-  width: 30px;
-  height: 30px;
+  width: 44px;
+  height: 44px;
   border-radius: 0.5rem;
   border: 1px solid transparent;
   transition: border-color 0.2s ease, color 0.2s ease;
@@ -249,6 +249,8 @@
 .events-calendar__nav.is-disabled {
   border-color: transparent;
   color: $grey-color-light;
+  opacity: 0.5;
+  cursor: not-allowed;
 }
 
 .events-calendar__title {
