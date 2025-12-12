@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - d1e4e905960b1bf87b62d308bea7a0697ecd62c7cc0c7135fb0115f0c5daad92
+locations:
+- King County
 original_content: |-
   <p><img loading="lazy" decoding="async" class="aligncenter wp-image-195847 size-large" src="https://www.treehouseforkids.org/wp-content/uploads/2025/08/Untitled-design-3-1024x1024.png" alt="A Treehouse supporter uses our make-a-will partnership" width="1024" height="1024" srcset="https://www.treehouseforkids.org/wp-content/uploads/2025/08/Untitled-design-3-1024x1024.png 1024w, https://www.treehouseforkids.org/wp-content/uploads/2025/08/Untitled-design-3-300x300.png 300w, https://www.treehouseforkids.org/wp-content/uploads/2025/08/Untitled-design-3-150x150.png 150w, https://www.treehouseforkids.org/wp-content/uploads/2025/08/Untitled-design-3-1536x1536.png 1536w, https://www.treehouseforkids.org/wp-content/uploads/2025/08/Untitled-design-3.png 1620w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></p>
   <p><span data-contrast="auto">Did you kn</span><span data-contrast="auto">ow August is Nati</span><span data-contrast="auto">onal Make-a-Will Month? We did! Thanks to our partnership with </span><a href="https://www.freewill.com/treehouse" target="_blank" rel="noopener"><span data-contrast="none">FreeWill</span></a><span data-contrast="auto">, </span><span data-contrast="auto">you can make an act of care for your family—and maybe even students in foster care—in one easy move for free.</span><span data-ccp-props="{}"> </span></p>

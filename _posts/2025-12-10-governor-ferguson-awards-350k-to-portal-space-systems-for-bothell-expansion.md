@@ -5,6 +5,8 @@ events_extracted: true
 images:
 - e9484e8618a9a379075b718f16b62e317b0dca407623d59bc579c082784a309b
 - c35028cd60309df26236c1470c9e7ff7d2e2bbe24a2a93a0405b97ffe0912bae
+locations:
+- King County
 original_content: |-
   <p>Aerospace company builds the Supernova, the first commercial next-gen spacecraft; expansion will create 700 high-wage jobs over the next five years</p>
 

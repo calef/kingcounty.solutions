@@ -2,8 +2,11 @@
 generated_from_post: true
 images: []
 location: Kent Station
+locations:
+- Kent
 original_markdown_body: A four-story garage with 465 spaces is scheduled to open in
   spring 2027.
+published: false
 source: Sound Transit
 source_url: https://www.soundtransit.org/blog/platform/construction-update-new-parking-garages-more-sumner-auburn-kent
 start_date: '2027-03-01T00:00:00-08:00'

@@ -3,6 +3,7 @@ end_date: '2025-12-14T16:00:00-08:00'
 images: []
 location: Bondolio Olive Oil Farm, 9352 Campbell Road,, Winters,, CA, 95694, United
   States
+locations: []
 original_content: <a class="skip-link screen-reader-text" href="#content">Skip to
   content</a> <header data-elementor-type="header" data-elementor-id="61361" class="elementor
   elementor-61361 elementor-location-header" data-elementor-post-type="elementor_library">

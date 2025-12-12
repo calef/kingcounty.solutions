@@ -3,6 +3,8 @@ date: '2025-06-28T20:48:45+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p class="">Even though warmer weather is here, people with nowhere to sleep at night still need somewhere to clean up and get something to eat. Many downtown shelters provide no food or amenities. </p>
 

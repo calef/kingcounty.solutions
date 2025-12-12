@@ -2,6 +2,8 @@
 generated_from_post: true
 images: []
 location: Douglass-Truth Branch
+locations:
+- King County
 original_markdown_body: Celebration with performances and history tours.
 published: false
 source: Homework Help

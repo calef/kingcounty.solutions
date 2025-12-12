@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - 1d0d92155208edc5507e79288c59af45c591279397cd5c0921997a581848e66c
+locations:
+- King County
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Cultural
   Conversations relaunches with ‘The Bellevue We Hope For’</span>\n<span class=\"field
   field--name-uid field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"

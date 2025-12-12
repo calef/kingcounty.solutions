@@ -3,6 +3,8 @@ end_date: '2026-01-22T19:30:00-08:00'
 images: []
 location: Centilia Cultural Center, 1660 S Plaza Roberto Maestas Festival Street,
   Seattle, WA, 98144, United States
+locations:
+- King County
 original_content: "<article id=\"post-0\" class=\"post-0 page type-page status-publish
   hentry\"><div class=\"entry-content\"><section id=\"tribe-events\" role=\"main\">
   <div id=\"tribe-events-content\" class=\"tribe-events-single tribe-blocks-editor\">

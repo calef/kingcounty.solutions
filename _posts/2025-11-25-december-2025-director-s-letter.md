@@ -5,6 +5,8 @@ events:
 - 2026-01-05-reopening-after-holiday-closure
 events_extracted: true
 images: []
+locations:
+- Snoqualmie Valley
 original_content: |-
   <p>Happy Holidays!</p>
   <p>The holiday season is my favorite time of the year and I hope that you have a happy holiday season knowing that your support as members, donors, volunteers, sponsors, etc. makes the work of the Sno-Valley Senior Center possible!</p>

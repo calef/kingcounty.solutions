@@ -3,6 +3,7 @@ date: '2025-11-30T18:42:02+00:00'
 events: []
 events_extracted: true
 images: []
+locations: []
 original_content: |-
   <p><strong>Monday ~</strong> Small Chef Salad, Veggie Noodle Soup &amp; Fruit </p>
 
@@ -48,6 +49,7 @@ original_markdown_body: |-
   [**Wednesday Night Dinner** (RSVP Required)](https://ballardseniorcenter.org/coming-up/wednesday-happy-hour-dinner-bingo/) ~ Meatloaf, Mashed Potatoes, Gravy, Veggies & Dessert
 
   The post [Dining Menu December 1st – 5th](https://ballardseniorcenter.org/dining-menu-december-1st-5th/) appeared first on [Ballard Senior Center](https://ballardseniorcenter.org).
+published: false
 source: Ballard Northwest Senior Center
 source_url: https://ballardseniorcenter.org/dining-menu-december-1st-5th/
 summarized: true

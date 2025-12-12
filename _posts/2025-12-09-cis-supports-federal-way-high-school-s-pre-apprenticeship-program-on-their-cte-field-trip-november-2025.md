@@ -3,6 +3,8 @@ date: '2025-12-09T07:28:56+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p>CIS of South King County Affiliate Staff, Jenise Quinn, chaperones and supports the Federal Way High School Pre-Apprenticeship Program on their Career and Technical Education (CTE) field trip. “I was previously a School Outreach Coordinator at Federal Way High School, so anytime Mr. DuFresne needs additional support in connecting his students with resources and opportunities, I am willing to help how I can! The students who are in his program learn educational, leadership, and life skills that will help them beyond the classroom and follow them into the trades and spaces they occupy in their future.”</p>
 

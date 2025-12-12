@@ -3,6 +3,8 @@ date: '2025-01-03T23:57:42+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p><img width="300" height="188" src="https://blog.valleymed.org/wp-content/uploads/2024/12/Trapper-Samantha_blog-300x188.jpg" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://blog.valleymed.org/wp-content/uploads/2024/12/Trapper-Samantha_blog-300x188.jpg 300w, https://blog.valleymed.org/wp-content/uploads/2024/12/Trapper-Samantha_blog-768x480.jpg 768w, https://blog.valleymed.org/wp-content/uploads/2024/12/Trapper-Samantha_blog-600x375.jpg 600w, https://blog.valleymed.org/wp-content/uploads/2024/12/Trapper-Samantha_blog.jpg 800w" sizes="auto, (max-width: 300px) 100vw, 300px" /></p>
   <p>A cherished resource, the Trapper &amp; Samantha Wellbeing Support Cart has brought comfort and resources to countless patients undergoing cancer treatment at Valley. It is now growing into something even more extraordinary—an inspiring, dedicated suite in our new Cancer Center that opens on February 3.</p>

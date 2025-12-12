@@ -1,6 +1,7 @@
 ---
 date: '2025-11-13T18:53:57+00:00'
 images: []
+locations: []
 original_content: The holiday season is upon us, and Seattle is buzzing with festive
   FREE or LOW-COST events for all ages! From community center celebrations to magical
   park experiences, there’s something for everyone to enjoy. Check out the lineup

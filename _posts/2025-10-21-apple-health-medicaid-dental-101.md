@@ -3,6 +3,8 @@ date: '2025-10-21T19:09:20+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p><a href="https://ohlh.talentlms.com/plus/catalog/courses/184">Start the Course</a></p>
 

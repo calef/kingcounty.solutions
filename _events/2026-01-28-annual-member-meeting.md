@@ -2,6 +2,8 @@
 generated_from_post: true
 images: []
 location: ''
+locations:
+- Snoqualmie Valley
 original_markdown_body: Members can discuss priorities and the center's goals for
   2026.
 source: Sno-Valley Senior Center

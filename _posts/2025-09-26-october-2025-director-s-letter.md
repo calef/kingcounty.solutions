@@ -3,6 +3,8 @@ date: '2025-09-26T21:43:08+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- Snoqualmie Valley
 original_content: |-
   <p>Ahoy! The Sno-Valley Senior Center Gala &amp; Auction is coming up on Saturday, October 11 and the theme is Timeless Treasures! We are so excited to be hosting this event at The Club at Snoqualmie Ridge and have some great items to bid on, including a stay at Willows Lodge, 6-Nights in Cortona Italy, Sno-Valley Winery Tour for 10, and so much more!</p>
   <p>If you don’t attend in person, you can still come away with some great items! Many of the items are available for bid online between Monday, October 6 and Saturday, October 11. This is our most successful fundraiser of the year, and you can help us reach our goal of $75,000 raised by purchasing your tickets or registering to bid at the link: <a href="https://snovalley25.givesmart.com">https://snovalley25.givesmart.com</a>.</p>

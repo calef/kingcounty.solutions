@@ -3,6 +3,7 @@ date: '2025-11-22T01:43:20+00:00'
 events: []
 events_extracted: true
 images: []
+locations: []
 original_content: |-
   <span class="field field--name-title field--type-string field--label-hidden">Grays Harbor County resident dies from complications of avian influenza</span>
 
@@ -78,6 +79,7 @@ original_markdown_body: |-
   It is especially important that people who may have exposure to domestic or wild birds get a seasonal flu vaccine. While the seasonal flu vaccine will not prevent bird flu infection, it reduces the risk of becoming sick with both human and avian influenza viruses at the same time. Though unlikely, infection with both viruses could result in the emergence of an avian influenza virus that is more easily transmitted from person to person. Seasonal flu vaccine is recommended for everyone six months and older.
 
   Our [website](https://www.doh.wa.gov/) is your source for a healthy dose of information. Get updates by following us on [social media](https://doh.wa.gov/about-us/contact-us/social-media).
+published: false
 source: Department of Health
 source_url: https://doh.wa.gov/newsroom/grays-harbor-county-resident-dies-complications-avian-influenza
 summarized: true

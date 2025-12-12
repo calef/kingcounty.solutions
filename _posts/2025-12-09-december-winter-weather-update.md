@@ -3,6 +3,8 @@ date: '2025-12-09T01:14:46+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: Seattle and the surrounding region may be impacted by high winds
   and a strong atmospheric river event that will bring heavy rain to western Washington
   today through Wednesday, leading to potential for flooding and landslides. The City

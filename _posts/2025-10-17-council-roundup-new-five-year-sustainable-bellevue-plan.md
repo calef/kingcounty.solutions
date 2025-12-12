@@ -3,6 +3,8 @@ date: '2025-10-17T15:42:42+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Council
   Roundup: New five-year Sustainable Bellevue Plan</span>\n<span class=\"field field--name-uid
   field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"

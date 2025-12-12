@@ -3,6 +3,8 @@ date: '2025-01-02T19:05:44+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p><img width="300" height="188" src="https://blog.valleymed.org/wp-content/uploads/2020/10/Seniors-Walking_SS_526061074_blog-300x188.jpg" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://blog.valleymed.org/wp-content/uploads/2020/10/Seniors-Walking_SS_526061074_blog-300x188.jpg 300w, https://blog.valleymed.org/wp-content/uploads/2020/10/Seniors-Walking_SS_526061074_blog-600x375.jpg 600w, https://blog.valleymed.org/wp-content/uploads/2020/10/Seniors-Walking_SS_526061074_blog-768x480.jpg 768w, https://blog.valleymed.org/wp-content/uploads/2020/10/Seniors-Walking_SS_526061074_blog.jpg 800w" sizes="auto, (max-width: 300px) 100vw, 300px" /></p>
   <p>Exercise is a powerful tool for improving the quality of life for people fighting cancer and survivors alike. Whether during treatment or in recovery, engaging in regular physical activity can offer a wide range of physical, emotional, and psychological benefits.</p>

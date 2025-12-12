@@ -1,6 +1,7 @@
 ---
 date: '2025-12-03T17:00:00+00:00'
 images: []
+locations: []
 original_content: |-
   <p>The sharing of non-VA information does not constitute an endorsement of products or services by the Department of Veterans Affairs. Veterans should always verify information with the organization offering the program.</p>
 

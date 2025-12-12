@@ -3,6 +3,8 @@ date: '2025-06-23T21:44:17+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: '<div class="wp-rss-image" style="margin-bottom:20px;max-width:
   600px !important;padding-top: 0.75em;"><img width="400" height="267" src="https://i0.wp.com/news.shoreline.edu/wp-content/uploads/2025/06/iStock-962642222.jpg?fit=400%2C267&amp;ssl=1"
   class="attachment-medium size-medium wp-post-image" alt="Gorup of military students

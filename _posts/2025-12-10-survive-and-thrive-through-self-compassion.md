@@ -3,6 +3,8 @@ date: '2025-12-10T15:30:00+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p>December marks the beginning of a very merry and bright season for many, filled with lights, traditions and joyful events. But the final month of the year often carries a heavier side, too—including financial pressure, hectic schedules, complicated family dynamics, loneliness, grief and even seasonal depression.</p>
 

@@ -1,6 +1,7 @@
 ---
 date: '2025-09-09T17:54:19+00:00'
 images: []
+locations: []
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Kelsey
   Creek Farm Fair celebrates old-fashioned fun</span>\n<span class=\"field field--name-uid
   field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"

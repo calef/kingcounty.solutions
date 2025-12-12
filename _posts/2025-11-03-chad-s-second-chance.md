@@ -3,6 +3,8 @@ date: '2025-11-03T17:48:56+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p><!--StartFragment --></p>
   <p><span class="cf0">At an early age, Chad enjoyed taking things apart and putting them back together. It’s no surprise that when he entered the U.S. Marine Corps, he was assigned to work on CH53C Stallion helicopters as an engine mechanic. “We tore them down, rebuilt them and tested them, and then they would be installed on the aircraft…I enjoyed it thoroughly,” reflected Chad on his military service. </span></p>

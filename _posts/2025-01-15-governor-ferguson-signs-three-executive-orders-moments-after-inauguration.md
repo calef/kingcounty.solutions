@@ -3,6 +3,8 @@ date: '2025-01-15T23:53:15+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: "Governor Ferguson signs three executive orders moments after inauguration\n\nPublish
   Date\n\n<time datetime=\"2025-01-15T12:00:00Z\" class=\"datetime\">January 15, 2025</time>\n\nmaleah.jackson…<time
   datetime=\"2025-01-15T15:53:15-08:00\" title=\"Wednesday, January 15, 2025 - 3:53pm\"

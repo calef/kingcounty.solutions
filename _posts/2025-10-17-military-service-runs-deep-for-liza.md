@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - '0099e25e342567a496c07e4fad2d2d65f75ad7cb0ba65c0b6157f7a18b0237cd'
+locations:
+- King County
 original_content: |-
   <p class="has-text-align-center"><em><strong><strong>From Air Force Kid to Army Veteran, Military Service Runs Deep for Liza</strong></strong></em></p>
 

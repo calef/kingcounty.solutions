@@ -1,6 +1,7 @@
 ---
 date: '2025-07-18T17:19:45+00:00'
 images: []
+locations: []
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">FAQ
   keeps residents up-to-date on Republic Services work stoppage</span>\n<span class=\"field
   field--name-uid field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"

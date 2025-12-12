@@ -2,6 +2,8 @@
 end_date: '2026-03-04T19:30:00-08:00'
 images: []
 location: Town Hall Seattle
+locations:
+- King County
 original_content: '<article id="post-3858" class="post-3858 uw_oplevents type-uw_oplevents
   status-publish hentry category-department-of-anthropology category-graduate-school-sponsored
   category-school-of-nursing category-school-of-public-health"> <header class="entry-header">

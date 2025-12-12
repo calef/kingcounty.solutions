@@ -3,6 +3,8 @@ date: '2025-09-17T23:58:27+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p data-start="264" data-end="465">In these times, when our communities are facing so many challenges, it’s easy to feel helpless as one person. But stories like <strong data-start="391" data-end="407">Justine Ing’s</strong> remind us that each of us can—and do—make a difference.</p>
   <p data-start="467" data-end="933">Justine was only eight years old when she joined her first <strong data-start="526" data-end="543">Walk for Rice</strong> in 2014. A year later, at just nine, she became a team captain. Her inspiration came from her grandmother, who had walked in Walk for Rice alongside her grandfather for many years. When her grandmother passed away in 2014, Justine decided to carry forward her legacy. She has walked every year since, leading with the same heart and commitment to community that her grandmother embodied.</p>

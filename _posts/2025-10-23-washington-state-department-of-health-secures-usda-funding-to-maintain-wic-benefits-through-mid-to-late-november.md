@@ -3,6 +3,8 @@ date: '2025-10-23T21:47:58+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <span class="field field--name-title field--type-string field--label-hidden">Washington State Department of Health secures USDA funding to maintain WIC benefits through mid-to-late November</span>
 

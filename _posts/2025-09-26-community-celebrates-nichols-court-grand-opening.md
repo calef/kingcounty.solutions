@@ -3,6 +3,8 @@ date: '2025-09-26T20:04:35+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: Clifford and Melinda Nichols On September 24th, friends, family,
   and colleagues of Melinda and Clifford Nichols, along with affordable...
 original_markdown_body: Clifford and Melinda Nichols On September 24th, friends, family,

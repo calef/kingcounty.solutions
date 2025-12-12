@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - 563feef0ed65d717fabeb6903ae47a4ef3452d6e00c119759e676d2ace7d45fe
+locations:
+- King County
 original_content: "<p class=\"\">With hundreds of families staying in our emergency
   shelters, a lively drop-in family resource center, and guests who speak dozens of
   languages, there’s never a slow moment at Mary’s Place. Families are doing laundry,

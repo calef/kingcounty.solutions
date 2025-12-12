@@ -3,6 +3,8 @@ date: '2025-04-25T22:46:48+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p>Ever wonder what it really takes to open a new affordable housing community? Spoiler: it&#8217;s not all keys and contracts. Take a<span class="excerpt-hellip"> […]</span></p>
   <p>The post <a href="https://imaginehousing.org/what-it-takes-to-welcome-people-home/">What It Takes to Welcome People Home</a> appeared first on <a href="https://imaginehousing.org">Imagine Housing</a>.</p>

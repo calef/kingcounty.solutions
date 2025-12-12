@@ -2,6 +2,8 @@
 end_date: '2026-01-27T11:15:00-08:00'
 images: []
 location: Online via Zoom
+locations:
+- King County
 original_content: '<div id="init_data" style="display: none"> {"page_mode":"home","o":"2WSB-TGY2T","requested_app":"253KJ-6K95","css_file":"/files/ver20251010102854/css/worker.css","window_id":"wc8b22cc9","login_page":"8ZK9-CS1HF","account":"WGHV-4MQL8","ui":"dynamic","js_file":"/files/ver20251205134700/js/worker.js","original_url":"/uwbg?key=2WSB-TGY2T_K9KH-5PTF_fcd880cec112","key":"2WSB-TGY2T_K9KH-5PTF_fcd880cec112"}
   </div> <div id="root"> <div id="loading_table">Loading </div> </div>'
 original_markdown_body: "{\"page\\_mode\":\"home\",\"o\":\"2WSB-TGY2T\",\"requested\\_app\":\"253KJ-6K95\",\"css\\_file\":\"/files/ver20251010102854/css/worker.css\",\"window\\_id\":\"wc8b22cc9\",\"login\\_page\":\"8ZK9-CS1HF\",\"account\":\"WGHV-4MQL8\",\"ui\":\"dynamic\",\"js\\_file\":\"/files/ver20251205134700/js/worker.js\",\"original\\_url\":\"/uwbg?key=2WSB-TGY2T\\_K9KH-5PTF\\_fcd880cec112\",\"key\":\"2WSB-TGY2T\\_K9KH-5PTF\\_fcd880cec112\"}

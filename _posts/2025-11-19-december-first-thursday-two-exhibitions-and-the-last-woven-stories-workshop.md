@@ -1,6 +1,7 @@
 ---
 date: '2025-11-19T00:22:33+00:00'
 images: []
+locations: []
 original_content: 'Join us at ARTS at King Street Station on December 4 for Pioneer
   Square’s First Thursday Artwalk! We&#8217;ll be celebrating the opening of Living
   &#038; Loving Under the Carceral State, and getting another look at Welcome to Paradise:

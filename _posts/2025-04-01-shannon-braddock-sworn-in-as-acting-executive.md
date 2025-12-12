@@ -8,6 +8,8 @@ images:
 - da6a8f0e318635885485928e8169c5172f74690f80f41672fc81e71366ce8980
 - bb2031c0e94a281cb47a21c8075db9a068da457da89660cc86222e833c24068b
 - d29f10edba5c3040df68e8933aa43e89d79b15090d3dead009a5e8a8f5b4d5d3
+locations:
+- King County
 original_content: <h3>Shannon Braddock sworn in as acting King County Executive</h3><p>Today,
   Shannon Braddock was sworn in as acting King County Executive after a unanimous
   vote by the County Council. King County voters will elect a new Executive in November.</p><figure><img

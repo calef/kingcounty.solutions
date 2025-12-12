@@ -1,6 +1,7 @@
 ---
 date: '2025-10-08T18:22:28+00:00'
 images: []
+locations: []
 original_content: '<p class="">Recipe shared in partnership with <a href="https://thepantryseattle.com/"
   target="_blank">the Pantry</a>.&nbsp;</p><p class="">Recipe adapted from Laura Pyles</p><p
   class="">Yield: about 4 cups </p><p data-rte-preserve-empty="true" class=""></p><h3>Ingredients

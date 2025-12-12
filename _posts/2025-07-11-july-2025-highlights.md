@@ -1,6 +1,7 @@
 ---
 date: '2025-07-11T17:00:11+00:00'
 images: []
+locations: []
 original_content: |-
   <figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1545" height="2000" src="https://hospitalityhousesouthking.org/wp-content/uploads/2025/07/7.-July-2025-5.png" alt="" class="wp-image-3841" srcset="https://hospitalityhousesouthking.org/wp-content/uploads/2025/07/7.-July-2025-5.png 1545w, https://hospitalityhousesouthking.org/wp-content/uploads/2025/07/7.-July-2025-5-768x994.png 768w" sizes="auto, (max-width: 1545px) 100vw, 1545px" /></figure>
 

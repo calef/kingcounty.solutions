@@ -2,7 +2,7 @@
 end_date: '2026-02-12T15:30:00-05:00'
 images: []
 location: ''
-published: false
+locations: []
 original_content: '<!DOCTYPE html> <html class="avada-html-layout-wide avada-html-header-position-top"
   lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#" prefix="og:
   https://ogp.me/ns#"> <head> <meta http-equiv="X-UA-Compatible" content="IE=edge"
@@ -7704,6 +7704,7 @@ original_content: '<!DOCTYPE html> <html class="avada-html-layout-wide avada-htm
   auto);--awb-column-spacing:var(--text_column_spacing, normal);--awb-column-min-width:var(--text_column_min_width,
   auto);--awb-rule-style:var(--text_rule_style, i'
 original_markdown_body: ''
+published: false
 source: NOSSCR Referral Service
 source_url: https://nosscr.org/event/sixth-circuit-virtual-meeting/
 start_date: '2026-02-12T14:30:00-05:00'

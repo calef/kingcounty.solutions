@@ -1,6 +1,7 @@
 ---
 date: '2025-10-13T19:22:11+00:00'
 images: []
+locations: []
 original_content: |-
   <p>Local artist Laura Brewer will lead you step-by-step through the process of painting your version of a winter wonderland scene. This class is in partnership with ShoreLake Arts. Call the Reception Desk to register.</p>
 

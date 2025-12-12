@@ -3,6 +3,8 @@ date: '2025-11-26T17:52:15+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p><strong>The Healing Power of Retreat: Why Stepping Away Matters on the Cancer Journey</strong></p>
   <p><strong>An Expanded Reflection on the Harmony Retreats 3-Day Cancer Retreat</strong></p>

@@ -3,6 +3,8 @@ date: '2025-04-09T21:30:43+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p>Diversity, Equity, and Inclusion (DEI) policies are under attack nationwide. We see a need to support the development of the leaders of tomorrow, today. In our last newsletter, we released a statement about our commitment to <a href="https://bikeworks.org/rolling-forward-with-dei/" target="_blank" rel="noreferrer noopener">DEI and our investment in Youth Leadership</a>. Now, we want to share precisely what that means.&nbsp;</p>
 

@@ -1,6 +1,7 @@
 ---
 date: '2025-11-18T18:32:27+00:00'
 images: []
+locations: []
 original_content: |-
   <a href="https://wscenter.org/become-a-lifetime-member-2/"><p>Do you want one fewer thing to hassle with in 2026?</p>
 

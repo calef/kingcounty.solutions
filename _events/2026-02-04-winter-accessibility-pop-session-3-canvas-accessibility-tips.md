@@ -2,6 +2,8 @@
 end_date: '2026-02-04T16:00:00-08:00'
 images: []
 location: Zoom
+locations:
+- King County
 original_content: '<div id="skiptocontent"> <a aria-label="Skip to main content" href="#the-main-content">Skip
   to Main Content</a> </div> <div id="accessibilityHome"> <a aria-label="Accessibility
   overview" href="https://washington.zoom.us/en/accessibility">Accessibility Overview</a>

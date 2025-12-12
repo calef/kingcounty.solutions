@@ -2,8 +2,8 @@
 date: '2025-11-05T23:30:06+00:00'
 events: []
 events_extracted: true
-images:
-- f30145c71b19bdae870b68038c36c8fa0c0acd8c1de1ab31fcbcaccdfc8021bc
+images: []
+locations: []
 original_content: "<div class=\"et_pb_section et_pb_section_3 blog-post-type et_section_regular\"
   >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_row
   et_pb_row_8\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4 et_pb_column_12
@@ -99,6 +99,7 @@ original_markdown_body: |-
    ![Two youth picking out school supplies at the free event](https://lcsnw.org/wp-content/uploads/2025/11/ShawnVallery.png "ShawnVallery")
 
   The post [Iraq War veteran brings important skills to LCSNW Mental Health team](https://lcsnw.org/2025/11/iraq-veteran-mental-health-counselor/) appeared first on [LCSNW](https://lcsnw.org).
+published: false
 source: Lutheran Community Services Northwest
 source_url: https://lcsnw.org/2025/11/iraq-veteran-mental-health-counselor/
 summarized: true

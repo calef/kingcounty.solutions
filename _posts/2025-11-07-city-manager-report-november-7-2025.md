@@ -1,6 +1,7 @@
 ---
 date: '2025-11-07T17:04:57+00:00'
 images: []
+locations: []
 original_content: 'Public Hearing: Setting Normandy Park’s Property Tax Levy The City
   of Normandy Park invites all residents to attend the public hearing on Wednesday,
   November 12, 2025, at 7:00 p.m. The hearing will be held in person in the Council

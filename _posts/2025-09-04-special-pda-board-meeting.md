@@ -3,6 +3,8 @@ date: '2025-09-04T20:42:27+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p>Community Roots Housing has scheduled a special PDA Board Meeting to be held electronically on Friday, September 5, 2025, from 3:00 p.m. to 3:35 p.m. The meeting information is below.</p>
   <p>Please join using this link:</p>

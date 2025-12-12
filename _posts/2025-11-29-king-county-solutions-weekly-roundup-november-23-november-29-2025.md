@@ -22,6 +22,8 @@ images:
 - c38ab6f9688b0c8e66b06c990ff4fba4eb50d73d160411fb5fc107ec26db5dca
 - b73ff815e0a050929795534b66e6120f68bfe7791ca144d03651002d465a38ea
 - 22319f93a0fcf7df5976044ad21815d1b2c225578ab134330a260032e0a6815f
+locations:
+- King County
 openai_model: gpt-5.1
 source: King County Solutions
 summarized: true

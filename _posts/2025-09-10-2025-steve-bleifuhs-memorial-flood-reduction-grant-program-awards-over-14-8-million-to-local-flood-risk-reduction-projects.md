@@ -1,6 +1,7 @@
 ---
 date: '2025-09-10T17:40:58+00:00'
 images: []
+locations: []
 original_content: |-
   The King County Flood Control District (Flood Control District) on Tuesday announced the recipients of the 2025 Steve Bleifuhs Memorial Flood Reduction Grant Program, awarding $14,803,601 to 35 projects across King County aimed at reducing flood risks and improving resilience for local communities.
 

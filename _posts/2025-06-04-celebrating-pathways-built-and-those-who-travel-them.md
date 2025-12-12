@@ -9,6 +9,8 @@ images:
 - 211019ab669114add3f63214b8cd0e88cacdb5de83cfd769ccb33e510b7be9f7
 - 0c3d109593d1d125583803811cb64b76246a1e2ab08ce738bf31ba5acfaeb610
 - ee5a9ace1e9bec823f23ed409ffda670594dbb3dfd9f807adb2ebedfecee0fb4
+locations:
+- King County
 original_content: "<p><img width=\"361\" height=\"255\" src=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/FlorenesTable-Gala-MBM-05.28.25-86-Featured-361x255.jpg\"
   class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Several
   people gathered at a table raise bid cards.\" decoding=\"async\" srcset=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/FlorenesTable-Gala-MBM-05.28.25-86-Featured-361x255.jpg

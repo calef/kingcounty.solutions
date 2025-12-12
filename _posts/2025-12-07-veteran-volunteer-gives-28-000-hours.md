@@ -3,6 +3,8 @@ date: '2025-12-07T21:30:00+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <h2>Veteran and volunteer gives back through art</h2>
 

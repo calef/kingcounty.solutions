@@ -3,6 +3,8 @@ date: '2025-11-06T23:07:11+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <h1>Update: 11/11/25</h1>
   <h3 data-start="170" data-end="256">Families have relief for now—thanks to you, hope continues through the holidays.</h3>

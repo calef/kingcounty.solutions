@@ -5,6 +5,8 @@ events:
 events_extracted: true
 images:
 - dc392afb5b9b5646705175788f6413de00080a1bd54abb4406c22e6460f425e7
+locations:
+- King County
 original_content: |-
   <figure class="wp-block-image size-large"><img decoding="async" src="https://wallingfordseniors.org/wp-content/uploads/2025/11/DSHS-Dec-2-791x1024.png" alt="" class="wp-image-3608"/></figure>
 

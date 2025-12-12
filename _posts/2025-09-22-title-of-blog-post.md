@@ -1,6 +1,7 @@
 ---
 date: '2025-09-22T20:58:16+00:00'
 images: []
+locations: []
 original_content: |-
   Title of Blog Post Paragraph Paragraph Paragraph Paragraph Paragraph Paragraph Paragraph Back to Blog Articles [...]
 

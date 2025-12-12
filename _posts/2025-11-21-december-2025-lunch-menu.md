@@ -1,11 +1,9 @@
 ---
 date: '2025-11-21T18:26:03+00:00'
-events:
-- 2025-12-30-travels-with-anita-road-trip-usa
-- 2025-12-23-holiday-lights-outing
+events: []
 events_extracted: true
-images:
-- 2570c6aa457901c94b34c2ef3b05a027bf0fdf241a3de00b009460e7452ece7a
+images: []
+locations: []
 original_content: '<figure class="wp-block-image size-large"><img fetchpriority="high"
   decoding="async" width="791" height="1024" src="https://wallingfordseniors.org/wp-content/uploads/2025/11/2025.12-Lunch-Menu-791x1024.png"
   alt="" class="wp-image-3639" srcset="https://wallingfordseniors.org/wp-content/uploads/2025/11/2025.12-Lunch-Menu-791x1024.png
@@ -16,6 +14,7 @@ original_content: '<figure class="wp-block-image size-large"><img fetchpriority=
   1187w, https://wallingfordseniors.org/wp-content/uploads/2025/11/2025.12-Lunch-Menu.png
   1275w" sizes="(max-width: 791px) 100vw, 791px" /></figure>'
 original_markdown_body: "![](https://wallingfordseniors.org/wp-content/uploads/2025/11/2025.12-Lunch-Menu-791x1024.png)"
+published: false
 source: Wallingford Community Senior Center
 source_url: https://wallingfordseniors.org/december-2025-lunch-menu/
 summarized: true

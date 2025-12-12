@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - 5ec12c2717daf9a8842ad4f14ec5440dae4153b8f78ec28e8c8c8f1eb6c763fc
+locations:
+- King County
 original_content: |-
   <h1 style="text-align: center;"><strong style="color: #ad001a;">Our online silent auction is open!</strong></h1>
   <p style="text-align: center;"><strong><a href="https://greatfutures25.ggo.bid/bidding/package-browse" target="_blank" rel="noopener">Click here to view and bid on auction lots</a></strong></p>

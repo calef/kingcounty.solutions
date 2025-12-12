@@ -3,6 +3,8 @@ date: '2025-03-12T00:53:47+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- Vashon
 original_content: At The DOVE Project, we believe that conversations about consent
   are essential to building safe and respectful communities. That’s why...
 original_markdown_body: At The DOVE Project, we believe that conversations about consent

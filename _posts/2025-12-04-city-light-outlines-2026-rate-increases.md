@@ -1,6 +1,7 @@
 ---
 date: '2025-12-04T21:53:29+00:00'
 images: []
+locations: []
 original_content: '<img width="150" height="150" src="https://powerlines.seattle.gov/wp-content/uploads/sites/17/2025/04/iStock-1338921291-150x150.jpg"
   class="webfeedsFeaturedVisual wp-post-image" alt="A light bulb, a pen, a calculator
   and some copper euro cent coins lie on top of an electricity bill." style="display:

@@ -2,6 +2,8 @@
 end_date: '2025-12-16T16:00:00+00:00'
 images: []
 location: Tolt Middle School, 3740 Tolt Avenue, Carnation, WA, 98014
+locations:
+- King County
 original_content: <div id="page-container"> <div id="et-boc" class="et-boc"> <div
   id="top-header"> <div class="container clearfix"> <div id="et-secondary-menu"> <ul
   class="et-social-icons"> <li class="et-social-icon et-social-facebook"> <a href="https://www.facebook.com/EmpowerYouthNetwork/"

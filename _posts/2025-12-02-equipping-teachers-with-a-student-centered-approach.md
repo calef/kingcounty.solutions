@@ -3,6 +3,8 @@ date: '2025-12-02T00:09:27+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: December 2025 Across Washington state, there is a stark disparity
   between the demographics of students and the educators who serve them. Many students
   go through their K-12 school experience without being taught by someone who shares

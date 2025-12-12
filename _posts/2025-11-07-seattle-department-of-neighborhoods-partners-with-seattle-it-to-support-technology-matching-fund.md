@@ -3,6 +3,8 @@ date: '2025-11-07T20:30:06+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: Seattle Department of Neighborhoods (DON) is excited to announce
   a partnership with Seattle Information Technology Department (Seattle IT) to support
   the Technology Matching Fund (TMF) grant program and application process.  This

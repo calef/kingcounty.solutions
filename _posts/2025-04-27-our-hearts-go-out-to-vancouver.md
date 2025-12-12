@@ -3,6 +3,8 @@ date: '2025-04-27T17:41:50+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   Dearest friends in Vancouver BC,
 

@@ -3,6 +3,8 @@ date: '2025-11-06T04:40:06+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: 'We are thrilled to share a wonderful feature article from the Federal
   Way Mirror spotlighting our esteemed Executive Director, Shelley Puariea. The article,
   titled &#8220;A helping community member: Shelley Puariea,&#8221; [&#8230;]'

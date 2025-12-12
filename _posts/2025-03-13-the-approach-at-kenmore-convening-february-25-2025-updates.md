@@ -3,6 +3,8 @@ date: '2025-03-13T21:11:09+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p>On February 25, 2025, Imagine Housing hosted a virtual convening to talk about the proposed development and answer questions. NOTE: the recording<span class="excerpt-hellip"> […]</span></p>
   <p>The post <a href="https://imaginehousing.org/the-approach-at-kenmore-convening-february-25-2025-updates/">The Approach at Kenmore Convening February 25, 2025 Updates</a> appeared first on <a href="https://imaginehousing.org">Imagine Housing</a>.</p>

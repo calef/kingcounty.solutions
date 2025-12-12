@@ -2,6 +2,8 @@
 end_date: '2025-12-31T14:00:00-08:00'
 images: []
 location: Beaver Lake Lodge, 25099 SE 24th St, Kirkland, WA, United States
+locations:
+- King County
 original_content: "<div> <div> <div> <div> <div> <div> <div> <div> <div><div><ul>
   <li><a>Login</a></li> <li><a>Volunteer</a></li> <li><a>DONATE</a></li> </ul></div></div>
   </div> </div> </div> </div> </div> </div> </div> <div> <a>Skip to content</a> </div>

@@ -3,6 +3,8 @@ date: '2025-11-19T19:00:00+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p class="has-medium-font-size">Chartock was appointed as the new Assistant Director of the Office of Economic Development and Competitiveness in November</p>
 

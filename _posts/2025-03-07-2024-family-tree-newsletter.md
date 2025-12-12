@@ -3,10 +3,12 @@ date: '2025-03-07T22:42:02+00:00'
 events: []
 events_extracted: true
 images: []
+locations: []
 original_content: Checkout the 2024 recap edition of Family Tree. Click Here to download
   the PDF version
 original_markdown_body: Checkout the 2024 recap edition of Family Tree. Click Here
   to download the PDF version
+published: false
 source: The Vashon DOVE Project
 source_url: https://www.vashondoveproject.org/post/2024-family-tree-newsletter
 summarized: true

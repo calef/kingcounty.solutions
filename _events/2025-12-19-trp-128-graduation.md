@@ -2,6 +2,8 @@
 end_date: '2025-12-19T13:00:00-08:00'
 images: []
 location: ANEW, 18338 Andover Park West, ANEW Tukwila, 98188, United States
+locations:
+- King County
 original_content: <div id="page-container"> <header id="main-header" data-height-onload="89">
   <div class="container clearfix et_menu_container"> <div id="et-top-navigation" data-height="89"
   data-fixed-height="40"> <div id="et_mobile_nav_menu"> <div class="mobile_nav closed">

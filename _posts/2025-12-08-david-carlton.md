@@ -1,6 +1,7 @@
 ---
 date: '2025-12-08T16:23:09+00:00'
 images: []
+locations: []
 original_content: |-
   <p>Contact information: <a>davelcarlton@gmail.com</a></p>
   <p>Location: Pinellas Park, Florida</p>

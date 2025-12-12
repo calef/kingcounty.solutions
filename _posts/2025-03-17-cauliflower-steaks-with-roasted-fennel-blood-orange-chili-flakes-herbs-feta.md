@@ -1,6 +1,7 @@
 ---
 date: '2025-03-17T15:53:39+00:00'
 images: []
+locations: []
 original_content: "<p class=\"\">Shared by The Pantry Seattle</p><p class=\"\">Recipe
   adapted from: Renée Beaudoin</p><p class=\"\">Yield: 4-6 servings</p><h3>Ingredients</h3><h4>Herb
   Salad</h4><p class=\"\">1/2 tablespoon of shallot or red onion, finely minced or

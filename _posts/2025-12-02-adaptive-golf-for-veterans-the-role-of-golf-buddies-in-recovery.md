@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - 52075be881f89e2f03b4191e3be6556a1057d6601ef8392faecdae406dcf9004
+locations:
+- King County
 original_content: "<div class=\"editor clearfix\">\n\n    \n    <figure id=\"attachment_55534\"
   aria-describedby=\"caption-attachment-55534\" style=\"width: 300px\" class=\"wp-caption
   alignleft\"><img fetchpriority=\"high\" decoding=\"async\" class=\"wp-image-55534

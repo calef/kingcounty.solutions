@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - 34263867dafbcdd68d71913952f47fe379ce7eb02c6e5d44309fef573ffa8585
+locations:
+- King County
 original_content: "<p>The sharing of non-VA information does not constitute an endorsement
   of products or services by the Department of Veterans Affairs. Veterans should always
   verify information with the organization offering the program.</p>\n\n\n\n<p>Recent

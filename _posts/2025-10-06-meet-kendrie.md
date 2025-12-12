@@ -5,6 +5,8 @@ events_extracted: true
 images:
 - 535b8547fb01147f868f099b428ef2e85c04d59de7a7ecb828922b0f9e53ecfa
 - e787e0eb278b04808b153ba0d41a999ffc624af6784500e5a8262647c7bbfc25
+locations:
+- King County
 original_content: |-
   <h1 style="text-align: center;">Meet Kendrie!</h1>
   <p style="text-align: center;"><em>Beyond the Cure Ambassador Scholarship Recipient, 2018–2023</em></p>

@@ -1,6 +1,7 @@
 ---
 date: '2025-12-08T19:57:16+00:00'
 images: []
+locations: []
 original_content: 'Many Seattle Parks and Recreation facilities and programs will
   be closed Thursday, December 11, 2025, due to a Recreation Division staff training
   day. These facilities and services are CLOSED: These facilities are OPEN on regular

@@ -5,6 +5,8 @@ events_extracted: true
 images:
 - f881516c601c5df1d89935bbfbf19902c550037ebaaedc5d9a80c8a17bb64ace
 - 8b9947e6ed2a9707245563558cde800315bf02af12d3d11e89804bfddd6dfa06
+locations:
+- King County
 original_content: '<h3>Executive Braddock announces her 2026–2027 budget proposal,
   preventing devastating cuts while further investing in public safety, housing, homelessness
   response, and behavioral health</h3><p><strong>Summary</strong></p><p>Today, King

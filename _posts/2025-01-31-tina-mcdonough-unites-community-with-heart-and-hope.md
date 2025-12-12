@@ -3,6 +3,8 @@ date: '2025-01-31T23:53:32+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p><img width="300" height="188" src="https://blog.valleymed.org/wp-content/uploads/2025/01/TinaMcDonough-1.16.2025-blog-300x188.jpg" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://blog.valleymed.org/wp-content/uploads/2025/01/TinaMcDonough-1.16.2025-blog-300x188.jpg 300w, https://blog.valleymed.org/wp-content/uploads/2025/01/TinaMcDonough-1.16.2025-blog-768x480.jpg 768w, https://blog.valleymed.org/wp-content/uploads/2025/01/TinaMcDonough-1.16.2025-blog-600x375.jpg 600w, https://blog.valleymed.org/wp-content/uploads/2025/01/TinaMcDonough-1.16.2025-blog.jpg 800w" sizes="auto, (max-width: 300px) 100vw, 300px" /></p>
   <p>When Tina McDonough lost a close friend to cancer in 2007, she turned her heartbreak into a mission to bring hope and support to others. As the fearless founder of the local non-profit <strong><span style="text-decoration: underline;"><a href="http://valleygirlsandguys.org" target="_blank" rel="noreferrer noopener">Valley Girls &amp; Guys</a></span></strong>, Tina has created a remarkable community that champions cancer patients and their families through every step of their courageous journey.  </p>

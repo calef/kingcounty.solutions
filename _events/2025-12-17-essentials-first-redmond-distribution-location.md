@@ -2,6 +2,8 @@
 end_date: '2025-12-17T14:00:00-08:00'
 images: []
 location: WA
+locations:
+- King County
 original_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <div> <span>
   Event Series: </span> <a> <span> Essentials First Redmond Distribution Location
   </span> </a> </div> <h1>Essentials First Redmond Distribution Location</h1> <div>

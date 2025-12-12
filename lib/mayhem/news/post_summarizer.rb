@@ -6,6 +6,8 @@ require 'open-uri'
 require 'ruby/openai'
 require_relative '../logging'
 require_relative '../news/topic_classifier'
+require_relative '../content/location_classifier'
+require_relative '../content/content_pruner'
 require_relative '../front_matter/document'
 require_relative '../support/http_client'
 require_relative '../feed/discovery'
@@ -15,6 +17,9 @@ module Mayhem
     class PostSummarizer
       POSTS_DIR = '_posts'
       TOPIC_DIR = '_topics'
+      IMAGES_DIR = '_images'
+      IMAGE_ASSETS_DIR = File.join('assets', 'images')
+      EVENTS_DIR = '_events'
       MAX_ARTICLE_CHARS = 20_000
       MIN_SCRAPED_LENGTH = 400
       BOILERPLATE_PATTERNS = [
@@ -30,11 +35,16 @@ module Mayhem
       def initialize(
         posts_dir: POSTS_DIR,
         topic_dir: TOPIC_DIR,
+        images_dir: IMAGES_DIR,
+        assets_dir: IMAGE_ASSETS_DIR,
+        events_dir: EVENTS_DIR,
         client: nil,
         topic_model: DEFAULT_TOPIC_MODEL,
         http_client: nil,
         logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'),
-        topic_classifier: nil
+        topic_classifier: nil,
+        location_classifier: nil,
+        content_pruner: nil
       )
         @posts_dir = posts_dir
         @topic_dir = topic_dir
@@ -48,6 +58,19 @@ module Mayhem
                               client: @client,
                               logger: @logger
                             )
+        @location_classifier = location_classifier ||
+                               Mayhem::Content::LocationClassifier.new(
+                                 client: @client,
+                                 logger: @logger
+                               )
+        @content_pruner = content_pruner ||
+                          Mayhem::Content::ContentPruner.new(
+                            posts_dir: posts_dir,
+                            events_dir: events_dir,
+                            images_dir: images_dir,
+                            assets_dir: assets_dir,
+                            logger: logger
+                          )
       end
 
       def run
@@ -77,12 +100,23 @@ module Mayhem
         if front_matter['published'] == false
           @logger.debug "Skipping #{file_path}: published is false"
           stats[:skipped_unpublished] += 1
+          # For unpublished posts during backfill, just set locations to empty array
+          # without making API calls to classify locations
+          # Use ContentPruner to properly clean up images
+          needs_locations = !front_matter.key?('locations')
+          if needs_locations && front_matter['summarized'] == true
+            front_matter['locations'] = []
+            @content_pruner.unpublish_post(file_path, document)
+            stats[:locations_backfilled] += 1
+            @logger.info "Set locations to [] and cleaned up images for unpublished #{file_path}"
+          end
           return
         end
 
         needs_summary = front_matter['summarized'] != true
         needs_topics = Array(front_matter['topics']).empty?
-        return unless needs_summary || needs_topics
+        needs_locations = !front_matter.key?('locations')
+        return unless needs_summary || needs_topics || needs_locations
 
         source_url = front_matter['source_url']
         if needs_summary && source_url.nil?
@@ -127,11 +161,30 @@ module Mayhem
           end
         end
 
-        front_matter['published'] = false if needs_topics && Array(front_matter['topics']).empty?
+        if needs_locations
+          classified_locations = @location_classifier.classify(
+            summary_text,
+            content_title: front_matter['title'],
+            content_source: front_matter['source']
+          )
+          front_matter['locations'] = classified_locations
+          if classified_locations.empty?
+            @logger.info "No locations matched for #{file_path}"
+            stats[:missing_locations] += 1
+          end
+        end
+
+        # Set published to false if either topics or locations are empty
+        # Use ContentPruner to properly clean up images
+        should_unpublish = (needs_topics && Array(front_matter['topics']).empty?) ||
+                           (needs_locations && Array(front_matter['locations']).empty?)
 
         document.front_matter = front_matter
         document.body = summary_text
         document.save
+
+        @content_pruner.unpublish_post(file_path, document) if should_unpublish
+
         stats[:updated] += 1
         @logger.info "Updated #{file_path}"
       rescue StandardError => e
@@ -212,6 +265,8 @@ module Mayhem
           skipped_missing_source: stats[:skipped_missing_source],
           failed_summary: stats[:failed_summary],
           missing_topics: stats[:missing_topics],
+          missing_locations: stats[:missing_locations],
+          locations_backfilled: stats[:locations_backfilled],
           errors: stats[:errors]
         }
         summary_text = summary_fields.map { |key, value| "#{key}=#{value}" }.join(', ')

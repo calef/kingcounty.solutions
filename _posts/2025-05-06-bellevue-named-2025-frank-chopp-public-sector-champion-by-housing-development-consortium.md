@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - d31d07af37aebc4714e0adfb018a0b2f6de7aa33f4c659931e56f1b48e8a41f5
+locations:
+- King County
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Bellevue
   named 2025 Frank Chopp Public Sector Champion by Housing Development Consortium</span>\n<span
   class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span

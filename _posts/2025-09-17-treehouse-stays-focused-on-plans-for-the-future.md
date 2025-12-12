@@ -5,6 +5,8 @@ events_extracted: true
 images:
 - 3447d6098cab3b4f3b55d35c77ca9867cc533331e9d1c5be587b467802c41cfe
 - b2a040dd4d1fc755d995782aca5b839b8a7cf28a18e24c7c32e56f2e0877cd69
+locations:
+- King County
 original_content: |-
   <div class='author-name' style='font-size: 18px; width: 100%; padding: .5em 0;'><p>By Dawn Rains</p></div><p><span data-contrast="auto"><img decoding="async" class="aligncenter wp-image-195975 size-large" src="https://www.treehouseforkids.org/wp-content/uploads/2025/09/Dawn-Speaking-at-Champions-25-1024x636.png" alt="" width="1024" height="636" />For nearly 40 years, Treehouse has walked alongside children and youth in foster care with the clear mission to ensure they complete high school and step into adulthood with the tools, support, and confidence they need to thrive.</span><span data-ccp-props="{}"> </span></p>
   <p><span data-contrast="none">Now, we’re facing one of the most significant challenges in our history. As reported in </span><a href="https://www.seattletimes.com/seattle-news/wa-slashes-grants-funding-foster-care-programs-amid-budget-deficit/" target="_blank" rel="noopener"><span data-contrast="none">the </span><i><span data-contrast="none">Seattle Times</span></i></a> <span data-contrast="none">and other news outlets, earlier this year the Washington State Legislature eliminated $7.46 million of Treehouse’s state funding. We were just one of many organizations impacted by devastating funding cuts that threaten essential services for our most marginalized and vulnerable youth.</span><span data-ccp-props="{}"> </span></p>

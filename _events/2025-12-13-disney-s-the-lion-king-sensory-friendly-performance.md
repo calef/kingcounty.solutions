@@ -2,6 +2,8 @@
 generated_from_post: true
 images: []
 location: Paramount Theatre, Seattle
+locations:
+- King County
 original_markdown_body: A sensory-friendly performance of Disney’s The Lion King with
   adaptations for sensory sensitivities.
 source: Institute on Human Development and Disability

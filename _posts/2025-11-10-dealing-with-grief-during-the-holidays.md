@@ -3,6 +3,8 @@ date: '2025-11-10T21:18:04+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <div class="is-layout-constrained wp-block-group"><div class="wp-block-group__inner-container">
   <p>The holiday season is supposed to be a time of joy and togetherness, but when you’re grieving, celebrating and gathering with loved ones may feel overwhelming. Holiday grief often feels like you’re carrying a weight that doesn’t belong. Whether your loss is recent, or it happened years ago, the holidays have a way of reopening old wounds and stirring up painful emotions.</p>

@@ -3,6 +3,8 @@ date: '2025-12-07T19:30:00+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <h2>Early detection saves lives</h2>
 

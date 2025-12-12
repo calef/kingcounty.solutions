@@ -2,6 +2,8 @@
 generated_from_post: true
 images: []
 location: ''
+locations:
+- King County
 original_markdown_body: Complete brand launch, including updated signage, set for
   the first half of 2026.
 published: false

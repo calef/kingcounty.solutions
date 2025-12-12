@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - a7431d300ba852b6db3dc6b4ce84c73032e8506db63e95536e403dbbe7e2f997
+locations:
+- Bellevue
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Bellevue
   staff and police discuss hate crimes and bias incidents with community organizations</span>\n<span
   class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span

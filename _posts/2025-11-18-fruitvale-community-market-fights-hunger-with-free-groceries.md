@@ -3,6 +3,8 @@ date: '2025-11-18T18:35:50+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p>[Non Stop Local – Yakima] Northwest Harvest, a nonprofit founded in 1967, has been making significant strides in combating food insecurity across Washington. The organization distributed over 20 million pounds of food in the 2024 fiscal year.</p>
   <p>The post <a>Fruitvale Community Market fights hunger with free groceries</a> appeared first on <a>Northwest Harvest</a>.</p>

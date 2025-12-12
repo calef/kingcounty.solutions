@@ -3,6 +3,8 @@ date: '2025-07-31T15:40:51+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- Snoqualmie Valley
 original_content: |-
   <p>I want to say thank you to everyone who contributed to our 4th of July Event! Our chefs for the event, Jim Ribail and Daniel Enciso, prepared over 175 delicious Spaghetti Dinners on Thursday, July 3rd. Our volunteers were wonderful help in the kitchen, dining room, checking people in, and selling raffle tickets. We also had great support from local businesses and donors, including Duvall Family Grocer, Duvall Safeway, Carnation Market, Farmhouse Market, and Susan &amp; JJ Schmoll.</p>
   <p>We sold 600 servings of Strawberry Shortcake, as well as delicious Strawberry Lemonade and quilt raffle tickets. Thank you to Delores Ulrich, Leslie &amp; Charles Day, and Diane Amos, for coming to the senior center early in the morning to get the shortcake ready, as well as all of the volunteers who served shortcake, cleared tables, and cashiered in the lobby. Remlinger Farms provided the delicious strawberries and our event had support from generous sponsors, including the Duvall Civic Club, Humana, and Farmers Insurance Hauglie Agency.</p>

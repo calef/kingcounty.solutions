@@ -3,6 +3,8 @@ date: '2025-01-12T21:39:46+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   Governor-elect Bob Ferguson creates transition committee to prepare for potential harms of “Project 2025"
 

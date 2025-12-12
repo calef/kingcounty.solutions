@@ -1,6 +1,7 @@
 ---
 date: '2025-10-06T15:09:38+00:00'
 images: []
+locations: []
 original_content: "![](https://yarrowpointwa.gov/wp-content/uploads/2025/10/Halloween-recycling-tips-scaled.jpg)"
 published: false
 source: Town of Yarrow Point

@@ -3,6 +3,7 @@ end_date: '2026-02-19T20:00:00-08:00'
 images: []
 location: Tommy Bahama Miramonte Resort and Spa, 45000 Indian Wells Lane, Indian Wells,
   CA, 92210, United States
+locations: []
 original_content: '<!DOCTYPE html> <html lang="en" id="ng-app" xmlns:ng="http://angularjs.org"
   data-ng-app="classy.frs" data-ng-strict-di > <head> <script type="4d27d875530089e73e36bf9a-text/javascript"
   src="https://pg.feroot.com/v1/bundle/fa8863fe-d29e-4098-a40d-114696c74ec4"></script>

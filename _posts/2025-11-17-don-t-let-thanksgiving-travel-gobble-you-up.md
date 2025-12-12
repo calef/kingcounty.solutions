@@ -1,6 +1,7 @@
 ---
 date: '2025-11-17T04:08:13-08:00'
 images: []
+locations: []
 original_content: OYLMPIA – The road to Grandma’s house is about to get a lot busier.
   That is why the Washington State Department of Transportation recommends planning
   ahead for heavy traffic, delays and potential winter weather this Thanksgiving –

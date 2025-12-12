@@ -199,6 +199,8 @@ images:
 - ff71971427c5f52c74ba86cca0c4a63c431779afddacae694be5d87f55ad797f
 - 29c06a0a5161cb2fdb69a4bce2dc3448a09540b746ecb90a08da443612519bcf
 - 3abc1afa76a5eb1a5dace9dbfe92bfa0b6b6136150d36aa7b015e921933739fb
+locations:
+- King County
 original_content: "<p class=\"\">On Sunday September 7th, 2025, neighbors and community
   members gathered to celebrate the Grand Opening of our new community food hub.  It
   was truly a day to remember as the renewed space filled with excitement, music,

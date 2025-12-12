@@ -3,6 +3,8 @@ date: '2025-12-05T19:30:00+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <h2 class="wp-block-heading">Continuing its Veteran suicide prevention mission by funding community-based programs across the country</h2>
 

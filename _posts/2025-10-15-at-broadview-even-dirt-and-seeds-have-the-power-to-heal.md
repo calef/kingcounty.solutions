@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - 2b116907ea0e3d5645544de9846b2a6430acb0987ddc7779fd1d660cff5fcde6
+locations:
+- King County
 original_content: "<p><img width=\"361\" height=\"255\" src=\"https://s14621.pcdn.co/wp-content/uploads/2025/10/PlantStarts-RootedHands-CM-08.18.25-4-800x-361x255.jpg\"
   class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"A small
   pea sprout with dirt and roots attached is held gingerly aloft in someone&#039;s

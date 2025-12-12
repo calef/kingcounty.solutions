@@ -2,6 +2,8 @@
 end_date: '2026-01-19T13:30:00-08:00'
 images: []
 location: Garfield High School, 400 23rd Ave, Seattle, WA, 98122, United States
+locations:
+- King County
 original_content: '<div class="event-content"> <div class="event-container"> <div
   class="event-col"> <p>Martin Luther King Jr. Day is fast approaching! We have more
   to speak out for than in recent years and as Dr. King said “The day we become silent

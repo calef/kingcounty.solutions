@@ -6,6 +6,8 @@ images:
 - a5887ee5d0048ce77d69173301879c747adaa28cdf60c04bfd388e48f448c3a7
 - da6a8f0e318635885485928e8169c5172f74690f80f41672fc81e71366ce8980
 - bb2031c0e94a281cb47a21c8075db9a068da457da89660cc86222e833c24068b
+locations:
+- King County
 original_content: '<h3>Executive Braddock unveils ambitious 200-Day Plan</h3><p>Summary:<strong>
   </strong>King County Executive Shannon Braddock unveiled a 200-Day Plan focused
   on delivering results for the people of King County, preparing a responsible and

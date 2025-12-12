@@ -3,6 +3,8 @@ end_date: '2025-12-22T13:30:00-08:00'
 images: []
 location: The Center for Active Living, 4217 SW Oregon St., Seattle, WA, 98116, United
   States
+locations:
+- King County
 original_content: <a>Skip to content</a><div> <header><div> <div> <div> <div> <div>
   <div> <div> <div> <div> <div> <div> <div> <p>We used to be called the Senior Center
   of West Seattle.</p> </div> </div> </div> </div> </div> <div> <div> <div> <div>
@@ -61,8 +63,8 @@ start_date: '2025-12-22T09:00:00-08:00'
 summarized: true
 title: Margie’s Café
 topics:
-  - Senior Services
-  - Food & Nutrition
+- Senior Services
+- Food & Nutrition
 ---
 
 Join the community at Margie’s Café on December 22, 2025, from 9 a.m. to 1:30 p.m. at The Center for Active Living, located at 4217 SW Oregon St., Seattle. Enjoy a warm and welcoming atmosphere while savoring a rotating menu featuring freshly prepared cookies, sandwiches, salads, and soups. This event offers a chance to socialize over delicious coffee, lunch, and snacks, all available à la carte. Whether you're looking for a quick bite or a leisurely meal, Margie’s Café provides a delightful dining experience for all. Don't miss this opportunity to connect with neighbors and enjoy good food!

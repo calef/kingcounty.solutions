@@ -1,9 +1,10 @@
 ---
 date: '2025-12-09T18:51:33+00:00'
-events:
-- 2025-12-19-application-deadline-for-community-food-education-program-coordinator
+events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: "<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n<p><!--
   divi:paragraph --><strong>Part-Time (30 hours/week), Temporary (1 year), Benefited</strong><br><strong>Reports
   to: Co-Executive Director of Operations<br>$26 – $29.25/ hour DOE<br>Seattle, Washington</strong></p>\n<p><!--

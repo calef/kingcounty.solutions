@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - 22319f93a0fcf7df5976044ad21815d1b2c225578ab134330a260032e0a6815f
+locations:
+- King County
 original_content: |-
   <h2 class="wp-block-heading">How VA’s “Getting Veterans Off the Streets” initiative helped support unsheltered Veterans</h2>
 

@@ -1,6 +1,7 @@
 ---
 date: '2025-10-09T20:08:34+00:00'
 images: []
+locations: []
 original_content: |-
   The following Tribal Members will receive tickets to these supplemental events in Q4 2025 at Climate Pledge Arena.
 

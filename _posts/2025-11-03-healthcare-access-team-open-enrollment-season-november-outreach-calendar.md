@@ -3,6 +3,8 @@ date: '2025-11-03T22:44:02+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   Our Healthcare Access Team is dedicated to providing person-centered assistance to enable clients to make informed decisions about their healthcare coverage.
 

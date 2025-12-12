@@ -3,6 +3,8 @@ date: '2025-10-29T22:26:51+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: "<p>The holidays are around the corner and can stir up many emotions
   — joy, gratitude, nostalgia, and sometimes deep loneliness. For those living with
   cancer or caring for someone who is, the coming season may feel different from years

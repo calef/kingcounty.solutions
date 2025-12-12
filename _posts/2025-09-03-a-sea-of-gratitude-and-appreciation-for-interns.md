@@ -3,6 +3,8 @@ date: '2025-09-03T17:17:37+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: On a night to celebrate the accomplishments of youth from across
   the city, Seattle Youth Employment Program (SYEP) interns gathered for an End of
   Internship Celebration on Aug. 19 surrounded by glass containers of sea animals

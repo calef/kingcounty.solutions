@@ -2,6 +2,8 @@
 generated_from_post: true
 images: []
 location: ''
+locations:
+- King County
 original_markdown_body: Offering behavioral health support groups including Behavioral
   Activation for teens, STAND for parents, and an anxiety group for young people.
 source: King County School Health

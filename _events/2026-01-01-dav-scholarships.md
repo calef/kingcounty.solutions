@@ -2,8 +2,11 @@
 generated_from_post: true
 images: []
 location: ''
+locations:
+- King County
 original_markdown_body: Offering $140,000 to students under 21 who volunteer 100 hours
   in DAV’s name.
+published: false
 source: Disabled American Veterans
 source_url: https://www.dav.org/learn-more/news/2025/the-future-of-dav-belongs-to-those-who-serve/
 start_date: '2026-01-01T00:00:00-07:00'

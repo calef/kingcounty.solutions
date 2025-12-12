@@ -3,6 +3,8 @@ date: '2025-07-11T16:13:22+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">City
   offering $30 million in Affordable Housing Fund and Housing Stability Program funding</span>\n<span
   class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span

@@ -2,6 +2,8 @@
 generated_from_post: true
 images: []
 location: Library
+locations:
+- King County
 original_markdown_body: A book club meeting for the LGBTQ+ community.
 published: false
 source: Homework Help

@@ -2,6 +2,8 @@
 end_date: '2025-12-17T17:30:00-08:00'
 images: []
 location: Virtual Events @ Antioch University
+locations:
+- King County
 original_content: '<div class="wp-site-blocks"> <header class="wp-block-template-part">
   <div class="wp-block-group alignfull antioch-header is-layout-flow wp-block-group-is-layout-flow">
   <div class="wp-block-group has-background-color has-primary-gray-background-color

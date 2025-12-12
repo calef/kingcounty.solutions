@@ -3,6 +3,7 @@ date: '2025-11-21T23:00:00+00:00'
 events: []
 events_extracted: true
 images: []
+locations: []
 original_content: |-
   <p><strong>Monday ~</strong> Grilled Roast Beef &amp; Cheddar Sandwich, Veggie Barley Soup, Fruit &amp; Cookie</p>
 

@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - ad87ac70308ef8061067946ed8c46011cfead35c5bc67485080c0f292691a7be
+locations:
+- King County
 original_content: |-
   <p><strong>Last month, Recycle &amp; Reuse Director Steve Gadingan<a href="https://bikeworks.org/steves-manifesto/"> wrote an essay</a> about the increasingly wasteful bicycle industry and the concept of a forever bike, a bike that is resistant to wear and tear and if treated well, will last, well, forever. What follows is the story of a Bike Works customer and his purple forever bike. </strong></p>
 

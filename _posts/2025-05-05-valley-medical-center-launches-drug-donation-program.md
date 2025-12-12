@@ -3,6 +3,8 @@ date: '2025-05-05T19:58:21+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p><img width="300" height="163" src="https://blog.valleymed.org/wp-content/uploads/2025/05/Drug-Donation-program-blog-header-800x500-1-300x163.png" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://blog.valleymed.org/wp-content/uploads/2025/05/Drug-Donation-program-blog-header-800x500-1-300x163.png 300w, https://blog.valleymed.org/wp-content/uploads/2025/05/Drug-Donation-program-blog-header-800x500-1.png 600w" sizes="auto, (max-width: 300px) 100vw, 300px" /></p>
   <p>To reduce medication waste and support patients in need, Valley Medical Center launched a <strong>Drug Donation Program</strong>. One survey has shown two-thirds of prescription drugs in U.S. households go unused—this program offers a way to put those medications to good use.</p>

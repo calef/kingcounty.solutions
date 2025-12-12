@@ -1,6 +1,7 @@
 ---
 date: '2025-10-10T20:15:36+00:00'
 images: []
+locations: []
 original_content: |-
   [COMPLETE PACKET](https://yarrowpointwa.gov/wp-content/uploads/2025/10/COMPLETE-PACKET.pdf)
 

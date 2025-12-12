@@ -5,6 +5,8 @@ events_extracted: true
 images:
 - 53e786401d0d5a611bf9f1046f74a712ae4cf64e3566a64b68a92fa1fbb85280
 - 293e5241ba196d292e63998ea579bf30fb464dfb6f8c9dea48fb54d6e8bfcfd0
+locations:
+- King County
 original_content: "<p>At Mary’s Place, our mission is simple but urgent: <strong>ensure
   that no child sleeps outside</strong>. Every day, we work toward that vision through
   a three-pronged approach—emergency family shelter, mobile outreach, and homelessness

@@ -2,8 +2,8 @@
 date: '2025-12-04T15:30:00+00:00'
 events: []
 events_extracted: true
-images:
-- af2f384faf0da929339ad3002a7c5a9cd39d34b24096790f71605c6353041ea7
+images: []
+locations: []
 original_content: |-
   <p>At 82 years old, Papa Wong is a man whose life story reflects resilience, service and deep gratitude. </p>
 
@@ -177,6 +177,7 @@ original_markdown_body: |-
   Wong’s story is proof that it’s never too late for Veterans to connect with earned benefits. Whether it’s health care, housing assistance, prescription support or holiday programs, [VA Tennessee Valley Healthcare System](https://news.va.gov/?s=VA+Tennessee+Valley+Healthcare+System) has resources designed to support Veterans in every stage of life.
 
   To learn more about VA’s care for Veterans who are experiencing homelessness or housing instability, visit the [VA Homeless Veteran Program](https://www.va.gov/homeless/housing.asp) website.
+published: false
 source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143681/va-brings-thanksgiving-to-hud-vash-veteran/
 summarized: true

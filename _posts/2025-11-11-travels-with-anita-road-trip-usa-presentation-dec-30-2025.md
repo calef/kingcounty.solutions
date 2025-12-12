@@ -1,6 +1,7 @@
 ---
 date: '2025-11-11T18:02:21+00:00'
 images: []
+locations: []
 original_content: |-
   <figure class="wp-block-image size-full"><img decoding="async" src="https://wallingfordseniors.org/wp-content/uploads/2025/11/anita-cross-country.jpg" alt="" class="wp-image-3617"/></figure>
 

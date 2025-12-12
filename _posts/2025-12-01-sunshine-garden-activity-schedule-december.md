@@ -1,6 +1,7 @@
 ---
 date: '2025-12-01T17:27:29+00:00'
 images: []
+locations: []
 original_content: |-
   <p>Sunshine Garden offers older adults culturally relevant activities that promote food and nutrition, health, wellness, and fitness, education, recreation, and socialization, and personal growth.</p>
   <p><a href="https://cisc-seattle.org/wp-content/uploads/2025/12/2025-12-Sunshine-Garden.pdf">View our December Activity </a></p>

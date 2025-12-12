@@ -3,6 +3,8 @@ date: '2025-11-13T23:56:29+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p>TACOMA, Wash. — MultiCare Health System has awarded $800,000 in grants to 53 nonprofit organizations across Washington state through its Community Partnership Fund grant program, reinforcing its commitment to improving the health and well-being of local communities.</p>
   <p>The selected organizations serve communities in the Puget Sound, Inland Northwest and Yakima Valley regions, focusing on the most pressing health challenges as identified in <a href="https://www.multicare.org/about/community/needs-assessment/" data-wpel-link="internal">MultiCare’s Community Health Needs Assessment</a>. Priority areas of focus include access to care, behavioral health, food insecurity and other social determinants that significantly influence overall health outcomes.</p>

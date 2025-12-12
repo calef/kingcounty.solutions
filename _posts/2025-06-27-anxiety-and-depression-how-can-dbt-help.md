@@ -3,6 +3,8 @@ date: '2025-06-27T13:45:30+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p class="p1"><span class="s1"><a href="https://www.achn.net/about-access/whats-new/health-resources/3-most-common-mental-health-disorders-in-america/">Depression and anxiety</a></span> are the top two most common mental health diagnoses in the United States. They also commonly co-occur. <a href="https://psychiatryonline.org/doi/10.1176/appi.ajp.2020.20030305%23:~:text=Anxiety%2520and%2520depressive%2520disorders%2520are%2520moderately%2520heritable%2520(approximately%252040%2525),and%2520cognitive%2520control%2520(15)."><span class="s1">It might seem paradoxical </span></a>that people would experience both depression and anxiety, since they are sometimes framed as opposite disorders, but they often go hand-in-hand and even have symptoms that overlap. Racing thoughts, insomnia, irritability, weight changes, fatigue, difficulty making decisions or concentrating, and mood swings are all symptoms of both mental health conditions.</p>
   <p class="p3"><span class="s1"><a href="https://thirahealth.com/2024/02/20/what-happens-during-long-term-depression/">Grappling with the effects</a></span> of depression and anxiety can be incredibly difficult. The stress of these conditions can have long-term impacts on your physical health, alongside the impacts on your mental wellbeing. When unaddressed, these symptoms can interfere with your work, relationships, and ability to enjoy life. They can even make it harder to seek treatment for mental health, creating a vicious cycle of symptoms and struggles.</p>

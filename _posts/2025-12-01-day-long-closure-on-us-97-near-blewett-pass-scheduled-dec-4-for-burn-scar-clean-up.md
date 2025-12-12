@@ -1,6 +1,7 @@
 ---
 date: '2025-12-01T12:25:57-08:00'
 images: []
+locations: []
 original_content: WENATCHEE – The Washington State Department of Transportation will
   close US 97 Blewett Pass between the junction of SR 970 at Lauderdale (milepost
   149) and Ingalls Creek Road (milepost 177) to remove trees and debris in the Labor

@@ -3,6 +3,8 @@ date: '2025-07-31T21:29:29-07:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: July 2025We are so grateful for your generosity in providing all
   of the essential items needed to welcome a new family to Sacha's House. Because
   of your support, a mother and her children now have a safe place to heal, grow,

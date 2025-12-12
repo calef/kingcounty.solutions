@@ -3,6 +3,7 @@ date: '2025-08-08T20:51:22+00:00'
 events: []
 events_extracted: true
 images: []
+locations: []
 original_content: |-
   <p>&nbsp;<strong>FOR IMMEDIATE RELEASE&nbsp;</strong></p>
 
@@ -109,6 +110,7 @@ original_markdown_body: |-
   For Jeff, it’s not just about getting people from one place to another — it’s about being part of their journey. “Each flight I undertake is a testament to the resilience of the human spirit and the power of community,” he says. “I’ve always believed a plane should do more than fly — it should lift people up. And with Angel Flight West, that’s exactly what we’re doing — one mission, one story, one life at a time.”&nbsp;
 
   The post [&nbsp;South Coast-Area Pilot Helps Patients Reach Lifesaving Care and Earns National Recognition](https://angelflightwest.org/news/south-coast-area-pilot-helps-patients-reach-lifesaving-care-and-earns-national-recognition/) first appeared on [Angel Flight West](https://angelflightwest.org).
+published: false
 source: Angel Flight West
 source_url: https://angelflightwest.org/news/south-coast-area-pilot-helps-patients-reach-lifesaving-care-and-earns-national-recognition/
 summarized: true

@@ -3,6 +3,7 @@ date: '2025-10-28T21:55:51+00:00'
 events: []
 events_extracted: true
 images: []
+locations: []
 original_content: |-
   <h2>What is AA?</h2>
   <p>Alcoholics Anonymous (AA) is a global fellowship of people who share their experience, strength, and hope with each other to solve their common problem and help others recover from alcoholism. AA meetings are free, confidential, and open to anyone seeking help for alcohol addiction, with regular meetings available in cities across Texas, including Harris County and Katy, information for which can be found at <a href="https://www.wfmh.org/aa/texas/harris/katy">https://www.wfmh.org/aa/texas/harris/katy</a>.</p>
@@ -147,6 +148,7 @@ original_markdown_body: |-
   - **1 year** – Honors a full year of continuous sobriety, a significant milestone.
 
   The post [Alcoholic Anonymous Meetings in Texas, Harris, Katy, USA](https://www.residencexii.org/alcoholic-anonymous-meetings-katy/) appeared first on [Residence XII](https://www.residencexii.org).
+published: false
 source: Residence XII
 source_url: https://www.residencexii.org/alcoholic-anonymous-meetings-katy/
 summarized: true

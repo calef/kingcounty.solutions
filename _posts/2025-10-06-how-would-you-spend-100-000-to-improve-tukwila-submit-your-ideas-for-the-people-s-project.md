@@ -1,6 +1,7 @@
 ---
 date: '2025-10-06T21:23:46+00:00'
 images: []
+locations: []
 original_content: |-
   ![](https://www.tukwilawa.gov/wp-content/uploads/Mayor-PeoplesPledgeBG-300x200.png)
 

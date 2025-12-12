@@ -1,6 +1,7 @@
 ---
 date: '2025-11-11T17:48:00+00:00'
 images: []
+locations: []
 original_content: "<p>Join Karina to experience an unconventional, intuitive approach
   to art making and self-expression! Using a variety of mixed-media (ink, pastel,
   collage, etc), discover new techniques.  ignite your creativity, and embrace imperfection.

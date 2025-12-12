@@ -2,6 +2,8 @@
 end_date: '2026-02-06T19:30:00-08:00'
 images: []
 location: Music Building (MUS)
+locations:
+- King County
 original_content: <div class="field-items"> <div class="field-item"> <p>Guitar students
   of Michael Partington present their quarterly studio recital.</p> <h2>Director Biography</h2>
   </div> </div>

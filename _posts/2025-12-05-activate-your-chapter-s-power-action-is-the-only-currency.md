@@ -1,6 +1,7 @@
 ---
 date: '2025-12-05T19:47:57+00:00'
 images: []
+locations: []
 original_content: "<div class=\"editor clearfix\">\n\n    \n    <p>As a DAV leader,
   you stand at the forefront of the fight to keep our nation&#8217;s promise to its
   veterans. While the team at our Washington Headquarters tirelessly advocates on

@@ -3,6 +3,8 @@ date: '2025-11-24T17:52:10+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: '[...]<p><a class="btn btn-secondary understrap-read-more-link"
   href="https://iacswa.org/iacs-youth-outreach-newsletter/">Read More...<span class="screen-reader-text">
   from IACS YOUTH OUTREACH NEWSLETTER</span></a></p>'

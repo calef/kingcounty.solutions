@@ -3,6 +3,8 @@ date: '2025-06-03T06:34:05+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p data-start="154" data-end="425">In recognition of Asian and Native Hawaiian/Pacific Islander Heritage Month and Mental Health Awareness Month, ACRS partnered with Walk for Rice presenting sponsor HAVI to host a thought-provoking Lunch &amp; Learn on mental wellness, cultural identity, and workplace stress.</p>
   <p data-start="427" data-end="765">The event featured ACRS Behavioral Health clinicians Steve Chon and Vivienne Bae in a Q&amp;A moderated by HAVI’s Ambika Rajyagor. More than 110 HAVI employees participated nationwide — including 20 in person and nearly 90 tuning in virtually from Seattle, Chicago, and beyond — marking the company’s highest attendance to date.</p>

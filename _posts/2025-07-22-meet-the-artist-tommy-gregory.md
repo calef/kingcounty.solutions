@@ -1,6 +1,7 @@
 ---
 date: '2025-07-22T18:15:29+00:00'
 images: []
+locations: []
 original_content: |-
   <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
   <figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="794" height="1000" data-id="3334" src="https://www.seedseattle.org/wp-content/uploads/2025/07/Tommy-Gregory-by-Casey-Arguelles-Gregory-2020-side-view-1000px.jpg" alt="Tommy-Gregory-by-Casey-Arguelles-Gregory" class="wp-image-3334" srcset="https://www.seedseattle.org/wp-content/uploads/2025/07/Tommy-Gregory-by-Casey-Arguelles-Gregory-2020-side-view-1000px.jpg 794w, https://www.seedseattle.org/wp-content/uploads/2025/07/Tommy-Gregory-by-Casey-Arguelles-Gregory-2020-side-view-1000px-238x300.jpg 238w, https://www.seedseattle.org/wp-content/uploads/2025/07/Tommy-Gregory-by-Casey-Arguelles-Gregory-2020-side-view-1000px-768x967.jpg 768w" sizes="(max-width: 794px) 100vw, 794px" /></figure>

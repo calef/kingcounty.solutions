@@ -10,6 +10,8 @@ images:
 - 7850540e6513c43924dc052f02f7c7c64d0702a09c74e52e737c6cffe4164a07
 - 60edc8b145c80f41111a3ebfd997b92787bf10a4b83d6a9a8a2a28faa2f742bd
 - 5e4e90d1d2b2e560859b483d31a298eb09ed5ce6c7b8a01dfad89828b5a5a791
+locations:
+- King County
 original_content: |-
   <figure class="wp-block-image alignright size-large is-resized"><img loading="lazy" decoding="async" width="768" height="1024" src="https://angelflightwest.org/wp-content/uploads/2025/05/asher-tree-768x1024.jpg" alt="" class="wp-image-61751" style="width:333px;height:auto" srcset="https://angelflightwest.org/wp-content/uploads/2025/05/asher-tree-768x1024.jpg 768w, https://angelflightwest.org/wp-content/uploads/2025/05/asher-tree-225x300.jpg 225w, https://angelflightwest.org/wp-content/uploads/2025/05/asher-tree-1152x1536.jpg 1152w, https://angelflightwest.org/wp-content/uploads/2025/05/asher-tree-1536x2048.jpg 1536w, https://angelflightwest.org/wp-content/uploads/2025/05/asher-tree-scaled.jpg 1920w" sizes="(max-width: 768px) 100vw, 768px" /></figure>
 

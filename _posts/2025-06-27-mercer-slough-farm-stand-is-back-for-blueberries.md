@@ -1,6 +1,7 @@
 ---
 date: '2025-06-27T23:14:23+00:00'
 images: []
+locations: []
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Mercer
   Slough farm stand is back for blueberries</span>\n<span class=\"field field--name-uid
   field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"

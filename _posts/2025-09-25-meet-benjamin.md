@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - 719f0076e5bc7cbcf4c82a40f751f8292f140dec447a0874804e626a4891bdfb
+locations:
+- King County
 original_content: |-
   <h1 style="text-align: center;">Meet Benjamin!</h1>
   <p style="text-align: center;"><em>Beyond the Cure Ambassador Scholarship Recipient, 2011–2015</em></p>

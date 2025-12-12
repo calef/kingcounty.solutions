@@ -3,6 +3,7 @@ date: '2025-11-20T19:38:42+00:00'
 events: []
 events_extracted: true
 images: []
+locations: []
 original_content: |-
   <p class="has-medium-font-size">MOU will establish government-to-government relations between the sovereign nation and state agency</p>
 
@@ -69,6 +70,7 @@ original_markdown_body: |-
   To learn more about The Hoh Indian Tribe, visit the [Tribe’s website](https://hohtribe-nsn.org).
 
   To learn more and follow Commerce’s work with tribal nations and communities within Washington, visit the [Office of Tribal Relations webpage](https://www.commerce.wa.gov/tribal-relations/).
+published: false
 source: Department of Commerce
 source_url: https://www.commerce.wa.gov/the-hoh-indian-tribe-commerce-sign-memorandum-of-understanding/
 summarized: true

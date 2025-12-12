@@ -2,6 +2,8 @@
 end_date: '2025-12-12T14:00:00-08:00'
 images: []
 location: WA
+locations:
+- King County
 original_content: '<div class="ast-container"> <section id="tribe-events-pg-template"
   class="tribe-events-pg-template" role="main"> <div id="tribe-events-content" class="tribe-events-single">
   <p class="tribe-events-back"> <a href="https://togethercenter.org/events/"> « All
@@ -113,7 +115,6 @@ summarized: true
 title: Essentials First Redmond Distribution Location
 topics:
 - Personal & Household Needs
-- Transportation & Mobility
 ---
 
 Join us on December 12 from 10 a.m. to 2 p.m. at the Essentials First Redmond Distribution Location in Washington for a community event focused on providing essential hygiene access. Attendees can walk in to receive hygiene kits, snack packs, and ORCA cards, all at no cost. This event is open to anyone in need, including low-income families, unhoused individuals, immigrants, and those experiencing hardship. No strict eligibility requirements are in place, but it’s helpful to bring an ID and be ready to fill out a short intake form with the assistance of Essentials First staff. Your information will be kept confidential. Everyone is welcome, so come by and support your community!

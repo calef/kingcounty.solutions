@@ -3,6 +3,8 @@ date: '2025-10-16T17:08:15+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: MSC’s mission is to increase equitable access to advocacy, opportunity,
   and well-being. One of the ways we do this is by removing as many barriers as possible
   so people can access the help they need. When we are able to remove barriers, the

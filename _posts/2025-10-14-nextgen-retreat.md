@@ -1,6 +1,7 @@
 ---
 date: '2025-10-14T20:39:18+00:00'
 images: []
+locations: []
 original_content: "<script type=\"text/javascript\">\n\t\t\t\t\t\tvar map_fusion_map_69210e326ab66;\n\t\t\t\t\t\tvar
   markers = [];\n\t\t\t\t\t\tvar counter = 0;\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tvar
   fusionMapNonce = '3ec4bded6a';\n\t\t\t\t\t\t\t\t\t\t\t\tfunction fusion_run_map_fusion_map_69210e326ab66()

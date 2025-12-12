@@ -3,6 +3,8 @@ date: '2025-09-24T22:09:25+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <h4><strong>The Legacy of Peer Mediation</strong></h4>
   <p>When KCDRC peer mediation programs came to an end, it marked not only the close of a chapter, but also the beginning of a new vision. For years, peer mediation gave youth the opportunity to practice leadership by resolving disputes, listening deeply, and building trust with their peers. Those experiences planted the idea that young people are not only capable of addressing conflict, but also uniquely positioned to lead their communities through change.</p>

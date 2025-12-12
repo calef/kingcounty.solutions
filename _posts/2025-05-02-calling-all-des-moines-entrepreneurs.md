@@ -3,6 +3,8 @@ date: '2025-05-02T00:46:00+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p><span style="font-size: 11pt; font-family: Calibri;">Des Moines entrepreneurs: applications for #ComcastRISE are now open through May 31! @Comcast is providing grant packages to 500 small businesses, including 100 here in King County. Here’s how you can apply to get the resources to help your small business thrive.</span></p>
   <p><span style="font-size: 11pt; font-family: Calibri;">Click <a href="https://www.comcastrise.com/" target="_blank" title="https://www.comcastrise.com/">here</a> to apply! </span></p>

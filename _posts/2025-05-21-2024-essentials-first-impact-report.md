@@ -1,6 +1,7 @@
 ---
 date: '2025-05-21T22:38:06+00:00'
 images: []
+locations: []
 original_content: "<p class=\"\">You’ve seen the pictures and heard the updates all
   year long - now you can see the whole story of 2024 at Essentials First all in one
   place. Featuring program and finance information, words from our leadership, partner

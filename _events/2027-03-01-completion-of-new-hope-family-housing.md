@@ -2,8 +2,11 @@
 generated_from_post: true
 images: []
 location: Seattle's Central Area, 114 and 123 21st Ave.
+locations:
+- King County
 original_markdown_body: Expected completion of New Hope Family Housing, featuring
   92 affordable apartments.
+published: false
 source: Low Income Housing Institute
 source_url: https://www.lihihousing.org/post/new-hope-family-housing-starts-construction
 start_date: '2027-03-01T00:00:00-08:00'

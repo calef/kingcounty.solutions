@@ -2,6 +2,8 @@
 end_date: '2025-12-13T13:30:00-08:00'
 images: []
 location: ''
+locations:
+- King County
 original_content: "<div> <div> <div> <div> <div> <p> <a> « All Events </a> </p> <h1>A
   Weekend with Adnan Wood-Smith</h1> <div> <div> <h2> <span> December 12 </span> <span>
   @ </span> <span> 7:00 pm </span> <span> – </span> <span> December 13 </span> <span>

@@ -51,7 +51,7 @@ class PostSummarizerTest < Minitest::Test
     write_topic('t2.md', 'Beta', '')
 
     client = Object.new
-    def client.chat(parameters:)
+    def client.chat(*)
       { 'choices' => [{ 'message' => { 'content' => '["Alpha"]' } }] }
     end
 
@@ -70,7 +70,7 @@ class PostSummarizerTest < Minitest::Test
     client = Object.new
     # define method on singleton client that will raise once then return
     client_singleton = class << client; self; end
-    client_singleton.send(:define_method, :chat) do |parameters:|
+    client_singleton.send(:define_method, :chat) do |*|
       @__calls ||= 0
       if @__calls.zero?
         @__calls += 1
@@ -89,5 +89,39 @@ class PostSummarizerTest < Minitest::Test
     stats = summarizer.run
 
     assert_equal 1, stats[:updated]
+  end
+
+  def test_backfills_locations_for_unpublished_summarized_post
+    write_post('2025-01-04-test.md', {
+                 'source_url' => 'http://ok3',
+                 'summarized' => true,
+                 'published' => false,
+                 'topics' => [],
+                 'images' => ['https://example.com/image.jpg']
+               }, 'Summarized post without locations')
+
+    # For unpublished posts, we should not call the classifier
+    # It should just set locations to [] and clear images
+    location_classifier = Object.new
+    def location_classifier.classify(*)
+      raise 'Should not be called for unpublished posts'
+    end
+
+    summarizer = Mayhem::News::PostSummarizer.new(
+      posts_dir: @tmp_posts,
+      topic_dir: @tmp_topics,
+      http_client: Object.new,
+      logger: @logger,
+      client: Object.new,
+      location_classifier: location_classifier
+    )
+
+    stats = summarizer.run
+
+    assert_equal 1, stats[:locations_backfilled]
+    document = Mayhem::FrontMatter::Document.load(File.join(@tmp_posts, '2025-01-04-test.md'), logger: @logger)
+
+    assert_empty document.front_matter['locations']
+    assert_empty document.front_matter['images']
   end
 end

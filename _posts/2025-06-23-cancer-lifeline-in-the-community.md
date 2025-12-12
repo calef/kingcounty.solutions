@@ -3,6 +3,8 @@ date: '2025-06-23T17:54:03+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: "<p>Earlier this month, members of the Cancer Lifeline team had
   the deep honor of participating in the <strong>Cancer Survivorship Celebration</strong>
   hosted by the <strong>South Puget Intertribal Planning Agency (SPIPA</strong>).

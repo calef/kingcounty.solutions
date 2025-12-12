@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - f55c4aeb9c4bc72fe180a9edf7b7ae2ae9a21baed592a41042329223973105fd
+locations:
+- King County
 original_content: "<p class=\"\">Join us for a day of in-person community-building
   and connection! Come help distribute hygiene kits and snack bags to our unhoused
   neighbors in Downtown Seattle.<br><br>Please contact Marryam Ali at marryamali@essentialsfirst.org

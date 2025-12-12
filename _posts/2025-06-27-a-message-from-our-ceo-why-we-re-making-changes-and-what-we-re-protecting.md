@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - 67a62d84448ed7e80d33b7ba83c1a2fe6c0f2fc33464e5424f77658eeb9bcc06
+locations:
+- King County
 original_content: |-
   <p></p>
 

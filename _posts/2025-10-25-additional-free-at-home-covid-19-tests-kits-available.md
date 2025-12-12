@@ -3,6 +3,8 @@ date: '2025-10-25T00:06:00+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: <img src="https://www.auburnwa.gov/UserFiles/Servers/Server_11470554/Image/News/COVID%2019.jpg"
   />
 original_markdown_body: "![](https://www.auburnwa.gov/UserFiles/Servers/Server_11470554/Image/News/COVID%2019.jpg)"

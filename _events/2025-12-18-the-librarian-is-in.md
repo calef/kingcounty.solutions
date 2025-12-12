@@ -2,6 +2,8 @@
 end_date: '2025-12-18T12:00:00-08:00'
 images: []
 location: WA
+locations:
+- King County
 original_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <h1>The Librarian
   Is In!</h1> <div> <div> <span>December 18 @ 10:00 am</span> - <span>12:00 pm</span>
   </div> </div> <div> <div> <div> <div> <div> <ul> <li> <a> Google Calendar </a> </li>

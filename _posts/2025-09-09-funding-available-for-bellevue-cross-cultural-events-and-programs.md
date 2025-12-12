@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - 64d7a628db61d440e1f1ca0b442a944182ef2ced068c02562dbc317a3c638e1b
+locations:
+- King County
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Funding
   available for Bellevue cross-cultural events and programs</span>\n<span class=\"field
   field--name-uid field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"

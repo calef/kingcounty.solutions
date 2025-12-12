@@ -1,6 +1,7 @@
 ---
 date: '2025-11-05T23:56:30+00:00'
 images: []
+locations: []
 original_content: |-
   For those of you attending the 10am Funeral Service tomorrow for Tribal Elder Arlene Ventura, here is a parking map from the Casino:
 

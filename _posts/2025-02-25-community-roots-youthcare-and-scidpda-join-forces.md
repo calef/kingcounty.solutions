@@ -1,11 +1,12 @@
 ---
 date: '2025-02-25T23:24:23+00:00'
-events:
-- 2027-03-25-constellation-center-celebration
+events: []
 events_extracted: true
 images:
 - ba94f94ce6bd7320dd3abc15d2c5dd8c6c4c4f56f2756d8846efff5cee90599c
 - 5309305e37a4078a05721d67c41daf1a0ecdc350e191bc7007baa6734682dd78
+locations:
+- King County
 original_content: |-
   <p>The <a href="https://kcrha.org/community-data/king-county-point-in-time-count/">2024 Unsheltered Point-in-Time Count</a> identified over 1,800 young people experiencing homelessness in King County. Creative, comprehensive strategies are urgently needed.</p>
   <p>On January 26, construction crews broke ground at the corner of Broadway and Pine in Capitol Hill. Community Roots Housing, YouthCare, and <a href="https://scidpda.org/">Seattle Chinatown International District Preservation and Development Authority</a> have partnered to develop a project that combines affordable housing with a comprehensive youth development center.</p>

@@ -3,6 +3,8 @@ date: '2025-12-08T10:11:10-05:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: "<p>artifact_description: General Resources</p><p>date: Wed, 26
   Nov 2025 15:12:03 -0500</p><p>title: Customizable Preventive Services Letter (Spanish)</p><p>topic:
   Coverage 2 Care</p>"

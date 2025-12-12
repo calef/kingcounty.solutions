@@ -2,6 +2,8 @@
 end_date: '2025-12-22T18:45:00-08:00'
 images: []
 location: Hybrid – Virtual/Onsite, United States
+locations:
+- King County
 original_content: "<section> <div> <div> <div> <section> <div> <div> <span> Event
   Series: </span> <a> <span> Finance &amp; Governance Committee </span> </a> </div>
   <h1>Finance &amp; Governance Committee</h1> <div> <h2> <span>December 22 @ 5:30

@@ -3,6 +3,8 @@ date: '2025-12-01T14:25:10+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: Tips Director’s Rules
 original_markdown_body: Tips Director’s Rules
 source: City of Seattle

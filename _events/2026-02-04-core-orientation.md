@@ -2,6 +2,8 @@
 end_date: '2026-02-04T17:00:00-08:00'
 images: []
 location: ''
+locations:
+- King County
 original_content: "<div><div><span>Did you know we offer virtual office hours every
   weekday? Click <a>VIRTUAL OFFICE HOURS</a> Mon-Fri, 11AM-1PM or call 253-205-0468
   and enter Meeting ID: 889-8706-3870. We look forward to helping you!</span></div></div>

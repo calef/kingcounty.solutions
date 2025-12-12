@@ -3,6 +3,8 @@ date: '2025-11-25T19:30:00+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <h2 class="wp-block-heading">Finds hope and support at her local VA</h2>
 

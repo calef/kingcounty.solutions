@@ -3,6 +3,8 @@ date: '2025-11-20T13:00:01+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p class="p1">The fall and winter holidays are full of contradictions. They are cheerful and bright in a time of year that is often cold and dark. They are a celebration of togetherness and family, and can feel alienating and isolating for many. They are a time when we welcome people, and where people often feel left out. They offer gifts, joy, and abundance, as well as demands, pressure, and fear of falling short. They are secular and religious. They are a time that some people adore, and a time some people truly hate.</p>
   <p class="p3"><span class="s1"><a href="https://thirahealth.com/2023/11/06/understanding-different-approaches-to-mental-health-treatment-this-holiday-season/">Many of us feel the truth</a></span> of both sides of these contradictions, and they make it hard to find balance in the holiday season. You may find yourself trying to hold on to nostalgia or joy, extending the experience for as long as you can and feeling let down when it passes. Other times, you may find yourself in emotional turmoil, struggling with high-pressure gatherings, bitter memories, or disappointed expectations.</p>

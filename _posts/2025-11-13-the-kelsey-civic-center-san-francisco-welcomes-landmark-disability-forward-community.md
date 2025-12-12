@@ -3,6 +3,7 @@ date: '2025-11-13T22:37:22+00:00'
 events: []
 events_extracted: true
 images: []
+locations: []
 original_content: |-
   <p><!--StartFragment --></p>
   <p><span class="cf0">The Kelsey and Mercy Housing California proudly announce the opening of The Kelsey Civic Center, a deeply affordable, accessible, and inclusive community in the heart of San Francisco. The community was celebrated this week alongside Mayor Daniel Lurie, Supervisor Bilal Mahmood, residents, and community partners.</span></p>
@@ -40,6 +41,7 @@ original_markdown_body: |-
   <!--EndFragment -->
 
   The post [The Kelsey Civic Center: San Francisco Welcomes Landmark Disability-Forward Community](https://www.mercyhousing.org/2025/11/the-kelsey-civic-center-san-francisco-welcomes-landmark-disability-forward-community/) appeared first on [Mercy Housing](https://www.mercyhousing.org).
+published: false
 source: Mercy Housing
 source_url: https://www.mercyhousing.org/2025/11/the-kelsey-civic-center-san-francisco-welcomes-landmark-disability-forward-community/
 summarized: true

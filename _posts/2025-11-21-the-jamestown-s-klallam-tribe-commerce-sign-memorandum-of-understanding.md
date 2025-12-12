@@ -5,6 +5,8 @@ events_extracted: true
 images:
 - 9a9d7a74882eee35b4fdf069f5a99d67debf50cdf77c1530475b42840b28c4bd
 - 6525220e0e2dd7742262d399ae154a8a3f3eb049101dbbd30cb4fa761cd7b799
+locations:
+- King County
 original_content: |-
   <p class="has-medium-font-size">MOU will memorialize government-to-government relations between the sovereign nation and state agency</p>
 

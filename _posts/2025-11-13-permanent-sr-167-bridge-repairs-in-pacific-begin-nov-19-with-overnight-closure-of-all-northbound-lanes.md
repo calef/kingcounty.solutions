@@ -1,6 +1,7 @@
 ---
 date: '2025-11-13T04:37:28-08:00'
 images: []
+locations: []
 original_content: PACIFIC – Permanent repairs are set to begin on the northbound State
   Route 167 bridge across Third Avenue Southwest in Pacific. It was damaged this fall
   by an over-height vehicle. To set up the work zone, all northbound lanes of the

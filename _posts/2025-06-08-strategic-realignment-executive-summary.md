@@ -3,6 +3,8 @@ date: '2025-06-08T11:15:43+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
   <div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/wp-content/uploads/2025/07/Executive-Summary-7725.pdf" target="_blank" rel="noreferrer noopener">View Full Executive Summary</a></div>

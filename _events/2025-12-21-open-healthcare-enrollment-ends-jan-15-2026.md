@@ -2,6 +2,8 @@
 end_date: '2025-12-21T17:00:00-08:00'
 images: []
 location: Virtual/Online, United States
+locations:
+- King County
 original_content: "<section> <div> <div> <div> <section> <div> <div> <span> Event
   Series: </span> <a> <span> Open Healthcare Enrollment – Ends Jan 15, 2026 </span>
   </a> </div> <h1>Open Healthcare Enrollment – Ends Jan 15, 2026</h1> <div> <h2> <span>December

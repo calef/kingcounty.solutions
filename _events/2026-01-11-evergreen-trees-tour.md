@@ -2,6 +2,8 @@
 end_date: '2026-01-11T15:00:00-08:00'
 images: []
 location: Meet at the front of Denny Hall
+locations:
+- King County
 original_content: '<div class="Uc2NEf"> <div class="teQAzf"> <form action="https://docs.google.com/forms/d/e/1FAIpQLSfv5BJ87eomEmoIgJl31g_U9-VUBzYRhgHrsT685u5RlHLVyQ/formResponse"
   target="_self" method="POST" id="mG61Hd" jsmodel="TOfxwf Q91hve CEkLOc" data-shuffle-seed="4291644875198100359"
   data-clean-viewform-url="https://docs.google.com/forms/d/e/1FAIpQLSfv5BJ87eomEmoIgJl31g_U9-VUBzYRhgHrsT685u5RlHLVyQ/viewform"

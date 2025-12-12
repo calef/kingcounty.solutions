@@ -3,6 +3,8 @@ date: '2025-04-01T02:37:59+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <h2>Emotions aren’t just in your head</h2>
   <p>Have you ever wondered why emotions are also often called “feelings”? We use this term because we literally feel them in our bodies. Those butterflies in your stomach, a pounding heart, ice-cold hands and feet, blushing, getting overheated, feeling warm and fuzzy, a boost of energy, relaxation? All of these physical sensations can be ways emotions manifest in your body.</p>

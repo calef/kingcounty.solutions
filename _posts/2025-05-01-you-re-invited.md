@@ -3,6 +3,7 @@ date: '2025-05-01T21:07:26-07:00'
 events: []
 events_extracted: true
 images: []
+locations: []
 original_content: April 2024This month we've celebrated new life found in and through
   Jesus' life, death, and resurrection. It is a profound privilege to witness God
   heal and bring new life to the amazing women and children we serve. God truly does
@@ -17,6 +18,7 @@ original_markdown_body: April 2024This month we've celebrated new life found in 
   month we invite to be part of offering new life by participating in our&nbsp;annual
   5K. Your&nbsp;registration&nbsp;provides a night of safe housing, hope, and support
   services for a woman or
+published: false
 source: Lighthouse NW
 source_url: https://lighthousenw.org/blog/you-re-invited
 summarized: true

@@ -2,6 +2,8 @@
 generated_from_post: true
 images: []
 location: ''
+locations:
+- King County
 original_markdown_body: Announcement of award decisions for funding applications aimed
   at affordable housing.
 source: Department of Commerce

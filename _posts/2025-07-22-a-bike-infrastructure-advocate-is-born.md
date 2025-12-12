@@ -7,6 +7,8 @@ images:
 - c440c39fe63b51962b23880286eafa5bb4f6151f0ce66bd56856fda77531eedb
 - 38c7a44bbe3df8e7c0d05908a849d895d0419bc5d8165178dd8d2e6442846b1d
 - 25a2cb4c8580d938afa9ed3686b00c11bca9e67c23f8982f5cd40b5636b3ac67
+locations:
+- King County
 original_content: |-
   <figure class="wp-block-image"><img decoding="async" src="https://assets.littlegreenlight.com/media/W1siZiIsIjIwMjUvMDcvMTYvNDNjc2hidmM0Nl9fMl9zdW1tZXJfYXBwZWFsX2VtYWlsX2Jhbm5lci5qcGciXV0?sha=885963653823b5cf" alt="#2 Summer camps collage"/></figure>
 

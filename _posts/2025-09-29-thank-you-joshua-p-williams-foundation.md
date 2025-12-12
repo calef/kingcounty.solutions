@@ -3,6 +3,8 @@ date: '2025-09-29T17:27:34+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: We are honoring over 20 years of unwavering support from the Joshua
   P. Williams Foundation .   Though this year marks the final chapter,...
 original_markdown_body: We are honoring over 20 years of unwavering support from the

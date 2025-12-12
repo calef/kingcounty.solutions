@@ -1,6 +1,7 @@
 ---
 date: '2025-11-03T18:17:21+00:00'
 images: []
+locations: []
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Popular
   Community Programming Fund featured in It's Your City</span>\n<span class=\"field
   field--name-uid field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"

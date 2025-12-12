@@ -1,6 +1,7 @@
 ---
 date: '2025-11-04T18:25:21+00:00'
 images: []
+locations: []
 original_content: '<a href="https://atyourservice.seattle.gov/2025/11/04/use-water-wisely-this-fall/"
   title="Use Water Wisely This Fall" rel="nofollow"><img width="150" height="150"
   src="https://atyourservice.seattle.gov/wp-content/uploads/sites/15/2025/11/SWP-Web-Promos-1_Father-and-Daughter-at-Sink-150x150.png"

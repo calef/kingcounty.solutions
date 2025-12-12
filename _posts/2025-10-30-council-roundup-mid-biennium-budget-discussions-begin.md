@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - bbf7f9e56798fc52748be6ac101fa80f380466e77160f52419486b01b20e08cd
+locations:
+- King County
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Council
   Roundup: Mid-biennium budget discussions begin</span>\n<span class=\"field field--name-uid
   field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/mdegrand\"

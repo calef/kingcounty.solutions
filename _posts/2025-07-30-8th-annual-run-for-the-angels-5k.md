@@ -2,15 +2,8 @@
 date: '2025-07-30T12:02:39+00:00'
 events: []
 events_extracted: true
-images:
-- 22e885c336a4cb550065b77a7383d42e7d3858f8a490719d59c13ddc599d7936
-- fb30614f50187d27c8d21cf13182f4376e24ba9115b03f5d0454c6161150bbe0
-- 3d3eac80d0f812fb64bce424acfebab60dafc551302ce6cde973dfcdd579f26b
-- c80fddaa253800b25abbb76da2a6436c608f94859acac970bb1af50069777f30
-- 7e04760721db52fa82a6d4a3995cb64798ff259dc5f86bf9ed7f03994706ce96
-- 9d5f4810ac70b58d6b4e3b5acdb305635032b7c649515d3c92f14912e30f8dec
-- 50740709e97f30d7745032bab24b9ab0ac3d3fc3d0eb913a021ef2dc6c387a99
-- ff1cbe1d0e0350d0dc9409379a8c45f3a66f7a9a70889c5efc71a8deeb08c545
+images: []
+locations: []
 original_content: |-
   <p><strong>FOR IMMEDIATE RELEASE</strong></p>
 
@@ -150,6 +143,7 @@ original_markdown_body: "**FOR IMMEDIATE RELEASE**\n\n**8<sup>th</sup> Annual Ru
   \ \n**Donate:** angelflightwest.org/give&nbsp;  \n**Learn more:** angelflightwest.org&nbsp;\n\nThe
   post [8th Annual Run for the Angels 5K](https://angelflightwest.org/news/8th-annual-run-for-the-angels-5k/)
   first appeared on [Angel Flight West](https://angelflightwest.org)."
+published: false
 source: Angel Flight West
 source_url: https://angelflightwest.org/news/8th-annual-run-for-the-angels-5k/
 summarized: true

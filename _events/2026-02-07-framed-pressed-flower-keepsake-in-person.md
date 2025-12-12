@@ -2,6 +2,8 @@
 end_date: '2026-02-07T13:00:00-08:00'
 images: []
 location: Center for Urban Horticulture
+locations:
+- King County
 original_content: <div> {"login_page":"8ZK9-CS1HF","account":"WGHV-4MQL8","css_file":"/files/ver20251010102854/css/worker.css","page_mode":"home","ui":"dynamic","original_url":"/uwbg?key=2WSB-TGY2T_K9KH-5PTF_110e35f6092e","window_id":"wf6a11524","js_file":"/files/ver20251208140136/js/worker.js","requested_app":"253KJ-6K95","o":"2WSB-TGY2T","key":"2WSB-TGY2T_K9KH-5PTF_110e35f6092e"}
   </div> <div> <div>Loading </div> </div>
 original_content_checksum: d64336289b02b2641138601b16150fe89e21967c

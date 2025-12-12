@@ -1,6 +1,7 @@
 ---
 date: '2025-11-20T08:03:33-08:00'
 images: []
+locations: []
 original_content: SEATTLE – This Thanksgiving, there’s a lot to be thankful for at
   Washington State Ferries. After years of work to restore service, WSF is sailing
   into the holiday weekend with more than 10% additional daily departures than in

@@ -3,6 +3,8 @@ date: '2025-11-19T23:25:15+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: "(This story was crossposted from the SDOT Blog.) Attention, all
   Route 7 riders. We’re now arriving at the next stop of our citywide investment in
   transit: completion of the Rainier..."

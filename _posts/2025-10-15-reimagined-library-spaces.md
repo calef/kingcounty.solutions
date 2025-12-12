@@ -1,12 +1,12 @@
 ---
 date: '2025-10-15T17:11:24+00:00'
 events:
-- 2026-10-01-auburn-library-redesign
-- 2026-01-01-kent-library-redesign
 - 2026-01-01-des-moines-library-redesign
 - 2026-01-01-south-center-library-redesign
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   Upgraded spaces are designed to meet the expectations of modern users, with accessibility, flexibility and evolving community needs a primary focus. KCLS engaged an architecture firm that specializes in libraries to assist with the development of five design packages that can be used over the next ten years to reimagine spaces with scalability to apply to varying-sized locations.&nbsp;&nbsp;
 

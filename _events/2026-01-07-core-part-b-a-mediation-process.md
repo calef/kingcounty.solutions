@@ -3,6 +3,8 @@ end_date: '2026-01-09T18:00:00-08:00'
 images: []
 location: Medical Dental Building, 509 Olive Way, Seattle, WA, 98101-1729, United
   States
+locations:
+- King County
 original_content: '<div id="simple-banner" class="simple-banner"><div class="simple-banner-text"><span>Did
   you know we offer virtual office hours every weekday? Click <a href="https://us02web.zoom.us/j/88987063870">VIRTUAL
   OFFICE HOURS</a> Mon-Fri, 11AM-1PM or call 253-205-0468 and enter Meeting ID: 889-8706-3870.

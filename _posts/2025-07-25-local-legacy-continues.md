@@ -11,6 +11,8 @@ images:
 - bb5eee2f304e4d816f6f26c0d0b4a8675415da12af28a220ac6ab53f409f51a3
 - 60f94299736a4c7438bc1b429e79d357b120d66d1c3b58bf8b1a9d48a6d567be
 - e802e7a26275471bf4679152390e8ab31240c0e2f0d92714ba0c893716387e99
+locations:
+- King County
 original_content: "<div data-elementor-type=\"wp-post\" data-elementor-id=\"9394\"
   class=\"elementor elementor-9394\">\n\t\t\t\t<div class=\"elementor-element elementor-element-7f3e859
   e-flex e-con-boxed e-con e-parent\" data-id=\"7f3e859\" data-element_type=\"container\">\n\t\t\t\t\t<div

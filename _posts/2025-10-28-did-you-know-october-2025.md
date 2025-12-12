@@ -3,6 +3,8 @@ date: '2025-10-28T21:49:16+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p><strong>Indigenous Peoples’ Day Speech</strong> By Paula Matta Marroquin Mapuche </p>
 

@@ -3,6 +3,8 @@ date: '2025-09-04T23:01:58+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p data-start="52" data-end="444">When Dr. Bonnie McGregor founded the Orion Center for Integrative Medicine in 2015, it was with one clear conviction: cancer care must treat the whole person. As a psychologist, researcher, and advocate, Dr. McGregor has long been passionate about bringing integrative and psychological care into the standard of cancer treatment—not as an afterthought, but as an essential part of healing.</p>
   <p data-start="446" data-end="1027">Earlier in a career at Fred Hutchinson Cancer Research Center, Dr. McGregor had the privilege of conducting research that demonstrated something profound: psychological interventions don’t just improve mood, they can also strengthen immune function and even extend survival among cancer survivors. The evidence was clear, but the challenge remained—how could these interventions be moved off the shelf and into the lives of real people? Dr. McGregor believed that creating a nonprofit was the best way to deliver evidence-based integrative care directly to patients and families.</p>

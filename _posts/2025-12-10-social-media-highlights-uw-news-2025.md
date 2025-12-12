@@ -1,6 +1,7 @@
 ---
 date: '2025-12-10T19:33:26+00:00'
 images: []
+locations: []
 original_content: "<p>This year, the UW News social media team shared stories from
   the University of Washington community with reporters, news outlets and our social
   media followers. We also promoted special events happening around campus. Here are

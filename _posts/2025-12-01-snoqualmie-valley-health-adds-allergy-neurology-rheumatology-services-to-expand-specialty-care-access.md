@@ -3,6 +3,8 @@ date: '2025-12-01T18:45:38+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- Snoqualmie Valley
 original_content: "<div data-elementor-type=\"wp-post\" data-elementor-id=\"18973\"
   class=\"elementor elementor-18973\" data-elementor-post-type=\"post\">\n\t\t\t\t<div
   class=\"elementor-element elementor-element-4a26794 e-flex e-con-boxed e-con e-parent\"

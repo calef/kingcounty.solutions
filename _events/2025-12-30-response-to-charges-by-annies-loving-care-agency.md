@@ -2,6 +2,8 @@
 generated_from_post: true
 images: []
 location: Annies Loving Care Agency, Sammamish, WA
+locations:
+- King County
 original_markdown_body: Annies Loving Care Agency has 20 days to respond to the charges
   issued by the Washington State Department of Health.
 published: false

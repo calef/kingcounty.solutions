@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - 1c664e78b1251480cab7dd3a1ba81ca94cae696fc3f6adb4797fb3126ea09f44
+locations:
+- King County
 original_content: |-
   <div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-9d6595d7 wp-block-columns-is-layout-flex">
   <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">

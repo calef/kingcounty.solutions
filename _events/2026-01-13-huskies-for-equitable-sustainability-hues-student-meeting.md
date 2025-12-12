@@ -2,6 +2,8 @@
 end_date: '2026-01-13T19:00:00-08:00'
 images: []
 location: Student Union Building (HUB)
+locations:
+- King County
 original_content: '<a href="#main_content" class="screen-reader-shortcut">Skip to
   main content</a> <div id="uwsearcharea" aria-hidden="true" class="uw-search-bar-container">
   <div class="container no-height" role="search"> <div class="center-block uw-search-wrapper">

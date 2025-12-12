@@ -2,9 +2,10 @@
 date: '2025-11-03T23:34:40+00:00'
 events:
 - 2026-01-01-tutoring-partnerships-launch-in-seattle
-- 2026-01-01-tutoring-at-library-branches-in-san-jose
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: <p>The post <a href="https://readingpartners.org/blog/programming-updates-co-and-sv/">Programming
   updates in Colorado and Silicon Valley</a> appeared first on <a href="https://readingpartners.org">Reading
   Partners</a>.</p>

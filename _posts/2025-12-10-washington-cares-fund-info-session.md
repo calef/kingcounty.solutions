@@ -3,6 +3,8 @@ date: '2025-12-10T21:24:09+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p>WA Cares Fund provides working Washingtonians a way to earn access to long-term care benefits that will be available when they need them. It could cover most of the need for some people, while for others it will provide breathing room during one of life’s most challenging stages. Join us for a conversation about how the program works, how caregiving responsibilities impact families, who contributes to the fund, how to qualify for benefits, and more! Free</p>
 

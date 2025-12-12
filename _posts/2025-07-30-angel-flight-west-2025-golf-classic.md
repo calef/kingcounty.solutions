@@ -2,8 +2,8 @@
 date: '2025-07-30T12:01:44+00:00'
 events: []
 events_extracted: true
-images:
-- b8df5e85c1b095db4d65f5010f17c7c71731f6fca1e4fc34a2e02ebbba736d1e
+images: []
+locations: []
 original_content: |-
   <figure class="wp-block-image size-large is-resized"><img loading="lazy" decoding="async" width="1024" height="768" src="https://angelflightwest.org/wp-content/uploads/2025/07/IMG_7252-1024x768.jpg" alt="" class="wp-image-61922" style="width:639px;height:auto" srcset="https://angelflightwest.org/wp-content/uploads/2025/07/IMG_7252-1024x768.jpg 1024w, https://angelflightwest.org/wp-content/uploads/2025/07/IMG_7252-300x225.jpg 300w, https://angelflightwest.org/wp-content/uploads/2025/07/IMG_7252-768x576.jpg 768w, https://angelflightwest.org/wp-content/uploads/2025/07/IMG_7252-1536x1152.jpg 1536w, https://angelflightwest.org/wp-content/uploads/2025/07/IMG_7252-2048x1536.jpg 2048w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
 
@@ -95,6 +95,7 @@ original_markdown_body: "![](https://angelflightwest.org/wp-content/uploads/2025
   &nbsp;  \nangelflightwest.org&nbsp;&nbsp;\n\nThe post [Angel Flight West 2025 Golf
   Classic](https://angelflightwest.org/news/angel-flight-west-2025-golf-classic/)
   first appeared on [Angel Flight West](https://angelflightwest.org)."
+published: false
 source: Angel Flight West
 source_url: https://angelflightwest.org/news/angel-flight-west-2025-golf-classic/
 summarized: true

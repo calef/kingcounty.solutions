@@ -8,6 +8,8 @@ images:
 - f310c11b9eb7da2cd38fc10beb441bea76f8d72490ae0498736c116871c7b776
 - e1b6ef43c8dc326ba6b9ebafb849b47d3bf8ff989cbdb5e5d821f5c9333b9160
 - a60be433aef4949c4a85f23b89bb2adedcb713de0c29f31901b5761f6c6cdd65
+locations:
+- King County
 original_content: |-
   <h3 class="wp-block-heading" id="celebrating-the-season-of-service-at-ccs">Celebrating the Season of Service at CCS</h3>
 

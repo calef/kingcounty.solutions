@@ -3,6 +3,8 @@ date: '2025-11-26T18:15:30+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: "<p><strong>Participant Story: Linda’s Journey of Rediscovery</strong></p>\r\n\r\n\r\n\r\n<p>When
   Linda arrived at her first-ever retreat &#8230; after 30 years of living with cancer&#8230;
   she wasn’t sure what to expect. Encouraged by her social worker, <strong>she came

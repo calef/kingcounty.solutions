@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - 025be640318ceac7d9dc181ad508c6c2d1636257707bd813b6d323e60b80d584
+locations:
+- Bellevue
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Bellevue’s
   proposed Diversity Advantage Plan 2035 debuts at open house </span>\n<span class=\"field
   field--name-uid field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/einlowhood\"

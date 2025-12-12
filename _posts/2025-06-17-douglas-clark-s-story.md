@@ -3,6 +3,8 @@ date: '2025-06-17T22:34:33+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: "<p>When Douglas Clark was diagnosed with prostate cancer in 2019,
   it felt like the ground disappeared beneath him. “It was as if I was melting into
   my seat,” he recalls. On the drive home, his mind was still trying to catch up—processing

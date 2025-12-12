@@ -3,6 +3,8 @@ date: '2025-08-25T19:31:07+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p>As seen in the Kent and Auburn Reporters</p>
   <p><a href="https://valleycities.org/" target="_blank" rel="nofollow noopener" data-mrf-link="https://valleycities.org/">Valley Cities Behavioral Health Care</a> is inviting the community to come together for an afternoon of connection, celebration and support at its <a href="https://www.facebook.com/events/744644797947516/?rdid=ujXFVb89EhGdax4Q&amp;share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1Js3LZ3XwV%2F" target="_blank" rel="nofollow noopener" data-mrf-link="https://www.facebook.com/events/744644797947516/?rdid=ujXFVb89EhGdax4Q&amp;share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1Js3LZ3XwV%2F">National Night Out event in Auburn</a> on Tuesday, Aug. 5.</p>

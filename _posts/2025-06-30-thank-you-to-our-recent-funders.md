@@ -3,6 +3,8 @@ date: '2025-06-30T23:46:51+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p>We are grateful for the generous support we’ve received this quarter. Because of your support, our youth are able to realize personal and social change through earning an income, learning [&#8230;]</p>
   <p>The post <a href="https://www.juma.org/2025/06/30/thank-you-to-our-recent-funders-12/">Thank You to our Recent Funders</a> appeared first on <a href="https://www.juma.org">Juma</a>.</p>

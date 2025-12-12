@@ -3,6 +3,8 @@ date: '2025-11-05T03:17:22+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: "<p class=\"\">When Kelly arrived at&nbsp;Mary’s Place&nbsp;with
   her two young sons, Cole and Jayce, they had nothing but the clothes on their backs.
   Like many families fleeing&nbsp;domestic violence, Kelly had to leave everything

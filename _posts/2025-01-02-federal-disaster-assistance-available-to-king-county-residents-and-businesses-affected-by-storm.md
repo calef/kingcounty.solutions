@@ -3,6 +3,8 @@ date: '2025-01-02T18:52:34+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: <h3>Federal disaster assistance available to King County residents
   and businesses affected by November bomb cyclone</h3><p><em>King County renters,
   homeowners, nonprofits and businesses affected by the storm may be eligible for

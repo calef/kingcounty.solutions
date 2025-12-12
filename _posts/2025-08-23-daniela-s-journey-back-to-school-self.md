@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - ce5f6f66e1ac01d11fe5de77d31d285ae30aae04012f1c4e2e57a3036828b785
+locations:
+- King County
 original_content: |-
   <p><img loading="lazy" decoding="async" class="aligncenter wp-image-195704" src="https://www.treehouseforkids.org/wp-content/uploads/2025/06/Screenshot-87.png" alt="" width="700" height="700" srcset="https://www.treehouseforkids.org/wp-content/uploads/2025/06/Screenshot-87.png 975w, https://www.treehouseforkids.org/wp-content/uploads/2025/06/Screenshot-87-300x300.png 300w, https://www.treehouseforkids.org/wp-content/uploads/2025/06/Screenshot-87-150x150.png 150w" sizes="auto, (max-width: 700px) 100vw, 700px" /></p>
   <p><span data-contrast="none">“I&#8217;ve always been really smart, but my life was just always getting in the way,” says Daniela. She is one of the </span><a href="https://youtu.be/5AUSVLg6Go0?si=zwdtbqryYUS9xVW7" target="_blank" rel="noopener"><span data-contrast="none">Class of 2025 graduates</span></a><span data-contrast="none"> Treehouse celebrated earlier this year; this is her story leading up to that milestone and the beginning of her journey as a young adult.</span><span data-ccp-props="{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;201341983&quot;:0,&quot;335551550&quot;:1,&quot;335551620&quot;:1,&quot;335559685&quot;:0,&quot;335559737&quot;:0,&quot;335559738&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:240}"> </span></p>

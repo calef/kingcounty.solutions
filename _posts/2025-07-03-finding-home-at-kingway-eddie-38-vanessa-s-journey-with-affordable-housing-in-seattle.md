@@ -3,6 +3,8 @@ date: '2025-07-03T16:53:34+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: Building a Life at Kingway Eddie and Vanessa have called Kingway
   Apartments home for nearly 30 years. Their experience highlights the...
 original_markdown_body: Building a Life at Kingway Eddie and Vanessa have called Kingway

@@ -3,6 +3,8 @@ date: '2025-11-17T20:46:40+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p class="x_elementToProof" data-olk-copy-source="MessageBody">Our NYC-based community programs, including the <strong>Adolescent Skills Centers</strong> and <a href="https://www.vibrant.org/what-we-do/community-programs/parents-caregivers/family-youth-peer-support-services/"><strong>Family and Youth Peer Support Services</strong></a>, are collecting gently used or new coats to support youth and families this winter. If you’re looking for a way to help young people and families be ready to take on the cold, consider delivering or shipping donated coats to Vibrant <b>through December 15</b>.</p>
   <p class="x_elementToProof"><strong>When:</strong> October 14 through December 15</p>

@@ -1,6 +1,7 @@
 ---
 date: '2025-11-03T20:30:00+00:00'
 images: []
+locations: []
 original_content: |-
   ### Public Works Board announces $734,310 to emergency infrastructure failures
 

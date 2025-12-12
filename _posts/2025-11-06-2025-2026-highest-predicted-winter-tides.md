@@ -1,6 +1,7 @@
 ---
 date: '2025-11-06T20:50:57+00:00'
 images: []
+locations: []
 original_content: '<a href="https://atyourservice.seattle.gov/2025/11/06/2025-2026-highest-predicted-winter-tides/"
   title="2025-2026 Highest Predicted Winter Tides " rel="nofollow"><img width="150"
   height="150" src="https://atyourservice.seattle.gov/wp-content/uploads/sites/15/2025/11/12.3.24-South-Park-Flood-Wall-Imagery-003-150x150.jpg"

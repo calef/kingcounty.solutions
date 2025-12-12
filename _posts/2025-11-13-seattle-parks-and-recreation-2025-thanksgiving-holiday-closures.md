@@ -1,6 +1,7 @@
 ---
 date: '2025-11-13T00:29:06+00:00'
 images: []
+locations: []
 original_content: 'Many Seattle Parks and Recreation facilities will be closed for
   one or more days in observance of the Thanksgiving holiday. These facilities and
   services are CLOSED on both Thursday, Nov. 27 and Friday, Nov. 28: These facilities

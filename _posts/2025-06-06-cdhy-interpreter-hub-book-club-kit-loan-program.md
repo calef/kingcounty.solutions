@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - de43585c9688c55e0c68ecd6fee81760522dc41e1e0ceb231fd464c356d970fe
+locations:
+- King County
 original_content: |-
   <div class="wp-block-image"><img decoding="async" class="wpa-warning wpa-image-missing-alt aligncenter wp-image-10992 size-large" src="https://www.cdhy.wa.gov/wp-content/uploads/2025/08/Book-Club-Flier-791x1024.png" alt="Brought to you by the CDHY Interpreter HUB
 

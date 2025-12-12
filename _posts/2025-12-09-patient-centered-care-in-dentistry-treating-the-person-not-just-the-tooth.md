@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - ac28bd1f575df670f35224a97c4be5d3cea9627a540f96d5b3492095778189e5
+locations:
+- King County
 original_content: |-
   <div><div> <a> <img src="https://www.everyoneforveterans.org/uploads/2/8/1/3/28134129/parminder_orig.png"> </a> <div></div> </div></div>  <div>In dentistry, true care goes far beyond repairing decay or relieving pain. A person sitting<br>in the chair is not “a molar that needs a filling” or “a tooth that broke yesterday.” They<br>are a human being with fears, history, goals, and individual health challenges. At E4V,<br>we emphasize a patient-centered approach, a philosophy that ensures veterans feel<br>respected, heard, and supported throughout their oral health journey.<br><br><strong><font>What Does Patient-Centered Care Mean?</font></strong><br>A patient-centered approach is grounded in empathy, communication, and partnership.<br>It means:<ul>
   <li>Listening to the patient’s concerns, not just their symptoms</li>

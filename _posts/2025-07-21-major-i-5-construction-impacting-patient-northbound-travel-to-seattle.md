@@ -3,6 +3,8 @@ date: '2025-07-21T20:40:50+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p><img decoding="async" class="alignright wp-image-11438" src="https://www.pacificmedicalcenters.org/wp-content/uploads/2025/07/istockphoto-1340575683-170667a-300x169.jpg" alt="" width="360" height="203" srcset="https://www.pacificmedicalcenters.org/wp-content/uploads/2025/07/istockphoto-1340575683-170667a-300x169.jpg 300w, https://www.pacificmedicalcenters.org/wp-content/uploads/2025/07/istockphoto-1340575683-170667a.jpg 553w" sizes="(max-width: 360px) 100vw, 360px" /></p>
   <p>If you&#8217;re a PacMed patient traveling from the north to Seattle, please be aware of significant delays due to ongoing construction on the <strong>I-5 Ship Canal Bridge</strong>. The <strong>Express Lanes Northbound</strong> will be <strong>closed for the next four weeks</strong>, causing major traffic backups during peak hours.</p>

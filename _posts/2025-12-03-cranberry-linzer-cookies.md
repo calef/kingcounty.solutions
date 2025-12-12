@@ -1,6 +1,7 @@
 ---
 date: '2025-12-03T20:11:25+00:00'
 images: []
+locations: []
 original_content: '<p class="">Recipe shared in partnership with <a href="https://thepantryseattle.com/"
   target="_blank"><em>The Pantry Seattle</em></a></p><p class="">Recipe adapted from
   Heather Newton</p><p class="">Yield: 24 cookies </p><h3>Ingredients </h3><h4><strong>Cookies:

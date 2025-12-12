@@ -3,6 +3,8 @@ date: '2025-04-28T17:15:01+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: Providing nutritious food for our neighbors is a vital resource
   that MSC continues to prioritize as one of our core services in our community. Unfortunately,
   funding for food banks is declining significantly as need is increasing with inflation

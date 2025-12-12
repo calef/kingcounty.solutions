@@ -3,6 +3,8 @@ date: '2025-11-12T22:21:27+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: LIHI's Virtual Auction  is our big annual public fundraiser for
   Tiny Houses and Urban Rest Stops. Get ready to support these programs and have a
   blast bidding on fun and fancy items in our virtual auction! You can register for

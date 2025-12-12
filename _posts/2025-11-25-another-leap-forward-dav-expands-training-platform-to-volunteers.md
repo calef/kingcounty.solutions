@@ -3,6 +3,8 @@ date: '2025-11-25T15:16:24+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: "<div class=\"editor clearfix\">\n\n    \n    <p><img fetchpriority=\"high\"
   decoding=\"async\" class=\"alignleft wp-image-54347 size-medium\" src=\"https://www.dav.org/wp-content/uploads/iTRAK_1_Featured-300x211.jpg\"
   alt=\"\" width=\"300\" height=\"211\" srcset=\"https://www.dav.org/wp-content/uploads/iTRAK_1_Featured-300x211.jpg

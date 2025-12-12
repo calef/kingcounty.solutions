@@ -3,6 +3,8 @@ end_date: '2025-12-20T16:00:00+00:00'
 images: []
 location: Sno King Ice Arenas – Snoqualmie, 35323 Southeast Douglas Street, Snoqualmie,
   WA, 98065
+locations:
+- King County
 original_content: <div id="page-container"> <div id="et-boc" class="et-boc"> <div
   id="top-header"> <div class="container clearfix"> <div id="et-secondary-menu"> <ul
   class="et-social-icons"> <li class="et-social-icon et-social-facebook"> <a href="https://www.facebook.com/EmpowerYouthNetwork/"

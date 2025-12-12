@@ -5,6 +5,8 @@ events_extracted: true
 images:
 - c0e38217d92352696787534926a994fb5af767b7629432d107214c5dc7f5e6e4
 - fa0ed03fe3f08870df318646b8049f56616c842860ea9362b26cb684080796ca
+locations:
+- King County
 original_content: |-
   <p>We are ecstatic to announce that <strong>Proposal 1 was passed</strong> and the renewal and expansion of the <strong>Family, Education, Preschool, and Promise (FEPP) Levy was approved&nbsp;</strong>by Seattle voters!</p>
 

@@ -5,6 +5,8 @@ events_extracted: true
 images:
 - 535bbe53ed15a2bde96361a1153c8db599dd68fe0b042b9fb4aac2592cf2dd8b
 - a24e8c0b4775c492b00e222b07f97abfaf73d90c36be58585dc4491fbcd53500
+locations:
+- King County
 original_content: |-
   <p class="has-text-align-center"><em><strong>Pamela Gives Back to Ensure Veterans’ Lives Are the Best They Can Be</strong></em></p>
 

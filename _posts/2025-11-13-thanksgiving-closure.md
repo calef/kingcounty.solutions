@@ -1,6 +1,7 @@
 ---
 date: '2025-11-13T18:44:45+00:00'
 images: []
+locations: []
 original_content: |-
   <a href="https://wscenter.org/thanksgiving-closure/"><p>Mark your calendar! </p>
 

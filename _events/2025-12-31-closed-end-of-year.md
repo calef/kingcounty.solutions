@@ -3,6 +3,8 @@ end_date: '2026-01-01T00:00:00-08:00'
 images: []
 location: 'South Park Neighborhood Center, 8201 10th Ave S, #4, Seattle, WA, 98108,
   United States'
+locations:
+- King County
 original_content: '<div class="row"> <div class="main col-md-12" id="ktmain" role="main">
   <div class="entry-content" itemprop="mainContentOfPage"> <section id="tribe-events"
   role="main"> <div id="tribe-events-content" class="tribe-events-single"> <p class="tribe-events-back">
@@ -65,6 +67,7 @@ original_markdown_body: '« All Events    Event Series:    <font color="green"><
   31    Series:    Holiday Sweater Week      Organizer   SP Senior Center        Venue    South
   Park Neighborhood Center     8201 10th Ave S, #4 Seattle, WA 98108 United States  +
   Google Map    Phone  206-767-2544       Comments are closed.'
+published: false
 source: South Park Senior Citizens
 source_url: https://www.spseniors.org/calendar/closed-end-of-year-2/
 start_date: '2025-12-31T00:00:00-08:00'

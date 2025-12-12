@@ -1,6 +1,7 @@
 ---
 date: '2025-08-27T18:14:42+00:00'
 images: []
+locations: []
 original_content: |-
   <p>Washington State: Voting &amp; Registration — What You Need to Know</p>
 

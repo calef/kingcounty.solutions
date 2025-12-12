@@ -5,6 +5,8 @@ events_extracted: true
 images:
 - 438f99d54cf9f1c0b89fd4e090932f2c5cc592e448a6dda08bbd17b38cece635
 - 2ab801c85fc78ca1a76964de6c5956a6966b536a693a2c79635db3d0b52b2cab
+locations:
+- King County
 original_content: "<p class=\"\">Homelessness is devastating at any age—but for children,
   the impacts can shape the course of their entire lives. Mary’s Place and our partners
   are working to minimize trauma and build pathways to stability for families, breaking

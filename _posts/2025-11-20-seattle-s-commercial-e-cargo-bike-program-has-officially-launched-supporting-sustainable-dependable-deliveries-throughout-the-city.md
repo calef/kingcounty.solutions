@@ -3,6 +3,8 @@ date: '2025-11-20T19:20:57+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: 'Blog stats: 1,200 words &#124; 6-minute read Summary: Addressing
   the challenge of more deliveries in Seattle In the Puget Sound region, deliveries
   of packages, food, and grocery items more than doubled between 2019 and 2021. Growing

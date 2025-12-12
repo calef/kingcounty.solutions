@@ -2,11 +2,8 @@
 date: '2025-07-09T10:18:49+00:00'
 events: []
 events_extracted: true
-images:
-- ec43e6ecbe1de7395f846b7ec60d3c866ca977958bfbf605a4e042a14a152b27
-- d7133b981f19d440d30e7b2754700550d35642978d177a944834767e6c01f123
-- 8a76fe20acf87ed0fecd0e2165bfc64e0627347cc7ebe4604c1231261273ff1b
-- dce3ac3d891eafcd7e77440c53dc8db28855a60689e5bcfc3c0e4ffe25cf5481
+images: []
+locations: []
 original_content: |-
   <p>In 2016, then nine-year-old Kaprice was playing outside with his two brothers when he was hit by a speeding car. “He was dragged down the street,” Kaprice’s mother Krista tearfully remembers. Suffering severe burns from road rash and other critical injuries, Kaprice was on life support for a week and spent three months in the hospital. “The first thing the doctor said, recalls Krista, was, ‘Kaprice is a miracle.’”&nbsp;&nbsp;</p>
 
@@ -111,6 +108,7 @@ original_markdown_body: |-
   ![](https://angelflightwest.org/wp-content/uploads/2025/04/mission_photo_2025-06-14_Hagan_Coy_12309-2-768x1024.jpg)
 
   The post [Meet Kaprice: Flying to Camp Since 2021](https://angelflightwest.org/news/meet-kaprice-flying-to-camp-since-2021/) first appeared on [Angel Flight West](https://angelflightwest.org).
+published: false
 source: Angel Flight West
 source_url: https://angelflightwest.org/news/meet-kaprice-flying-to-camp-since-2021/
 summarized: true

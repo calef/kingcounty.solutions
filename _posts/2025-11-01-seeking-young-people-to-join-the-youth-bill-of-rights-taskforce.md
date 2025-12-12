@@ -3,6 +3,8 @@ date: '2025-11-01T03:46:00+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: The Youth Bill of Rights Task Force is recruiting young people for
   its next iteration. They invite young individuals to share their insights and leadership
   in creating a Youth Commission. Please share this opportunity within your networks.

@@ -3,6 +3,7 @@ date: '2025-11-12T16:19:47+00:00'
 events: []
 events_extracted: true
 images: []
+locations: []
 original_content: "<p><strong>Position: </strong>Caller                           
                                                                       <strong>Program:</strong> Meals
   on Wheels<br /><strong>Location:</strong> SeaTac<br /><strong>Schedule:</strong>

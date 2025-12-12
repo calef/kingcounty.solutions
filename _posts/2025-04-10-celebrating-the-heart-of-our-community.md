@@ -3,6 +3,8 @@ date: '2025-04-10T18:12:58+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   The Sophia Way began with a small group of compassionate individuals who saw a need and took action. Their commitment built more than programs – they created a place of hope and change for women experiencing homelessness. Many of those early volunteers are still with us today, continuing to walk alongside the women we serve. We honor their dedication and the many who have since joined this journey.
 

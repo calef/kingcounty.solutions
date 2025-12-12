@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - ebc13de5e557bd1847cb0fdee4515dbb72b17cb4f14d34e92bbd694384137d5d
+locations:
+- King County
 original_content: |-
   <p><strong>Our Bellevue Family Hub has a new home! </strong>This month, we relocated our Hub from Stevenson Elementary School to Sherwood Forest Elementary School—opening just in time to welcome Bellevue School District students back to class.</p>
 

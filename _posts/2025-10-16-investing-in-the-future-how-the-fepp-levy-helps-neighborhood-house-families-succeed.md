@@ -3,6 +3,8 @@ date: '2025-10-16T23:36:29+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p>At Neighborhood House, we see every day how investments in education create opportunities for young people and families. The City of Seattle’s Families, Education, Preschool, and Promise (FEPP) Levy makes those investments possible — supporting children and teens through programs we operate, like ParentChild+, and through opportunities across the city.&#160; Now, with the renewal of ... </p>
   <p class="read-more-container"><a title="Investing in the Future: How the FEPP Levy Helps Neighborhood House Families Succeed " class="read-more button" href="https://nhwa.org/2025/10/16/fepp-levy-prop1/#more-25321" aria-label="Read more about Investing in the Future: How the FEPP Levy Helps Neighborhood House Families Succeed ">Read more</a></p>

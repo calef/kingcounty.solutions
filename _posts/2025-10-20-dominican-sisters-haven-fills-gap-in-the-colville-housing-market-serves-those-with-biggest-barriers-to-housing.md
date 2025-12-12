@@ -3,6 +3,7 @@ date: '2025-10-20T16:19:41+00:00'
 events: []
 events_extracted: true
 images: []
+locations: []
 original_content: |-
   The community of Colville celebrated the opening of Dominican Sisters Haven (formerly known as Colville Family Haven) in September. This new Steven County housing community in rural in the northeast corner of the state, will offer 70 affordable units specifically designed for families with children, as well as two common area units and a clubhouse. &nbsp;
 
@@ -20,6 +21,7 @@ original_content: |-
   - [Apply to live at a CCEW property on their housing portal](https://mcas-proxyweb.mcas-gov.ms/certificate-checker?login=false&originalUrl=https%3A%2F%2Fwww.housing.cceasternwa.org.mcas-gov.ms%2Fproperties%2F%3FMcasTsid%3D15600&McasCSRF=6662ea2cb013fb4ba8ca227a6715f19ad7c1e071e1b1a87c3029db646613a05a)
 
   Thanks to all who made Dominican Sisters Haven possible!&nbsp;
+published: false
 source: Department of Commerce
 source_url: https://www.commerce.wa.gov/dominican-sisters-haven-fills-gap-in-the-colville-housing-market-serves-those-with-biggest-barriers-to-housing/
 summarized: true

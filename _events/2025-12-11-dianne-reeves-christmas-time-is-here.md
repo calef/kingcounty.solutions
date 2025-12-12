@@ -2,6 +2,8 @@
 end_date: '2025-12-11T21:30:00-08:00'
 images: []
 location: Meany Hall (MNY)
+locations:
+- King County
 original_content: '<a href="#main-content" class="element-invisible element-focusable">Skip
   to main content</a> <div class="l-page has-one-sidebar has-sidebar-first"> <div
   class="full-wrapper header"> <header class="l-header" role="banner"> <a href="#main-content"

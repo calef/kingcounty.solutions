@@ -5,6 +5,8 @@ events_extracted: true
 images:
 - 366f0245aadc4d4a45dae91f2123173d13b1fa91f6697333facb960c693dbfa0
 - d9829be765bcd459c90c8c2c2f0ce38d11c5a1155eae62e34d7f240ea9f64865
+locations:
+- King County
 original_content: |-
   <p><strong>By Jennifer Cronenberg and Tabitha Haly</strong></p>
   <p>If you aren’t yet familiar with Tabitha Haly’s notable story, I encourage you to read <a href="https://www.npr.org/2024/10/01/g-s1-25453/social-security-ssi-disabilities-work-outdated" target="_blank" rel="noopener">Joseph Shapiro’s October 2024 NPR piece</a> about her. It details her remarkable trajectory to become a VP at JPMorganChase and how, for several terrifying months this past year, all that she had accomplished was at risk due to overly complicated and frequently misunderstood Social Security work-support programs.</p>

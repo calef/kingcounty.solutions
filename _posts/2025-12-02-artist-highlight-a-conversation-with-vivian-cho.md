@@ -1,6 +1,7 @@
 ---
 date: '2025-12-02T00:12:43+00:00'
 images: []
+locations: []
 original_content: We spoke with 2025 Bridge Artist in Residence Vivian Cho about their
   background and insights into their unique residency at the University Bridge. Read
   on to learn more!&#160; Vivian Cho (she/they/he) is an interdisciplinary visual

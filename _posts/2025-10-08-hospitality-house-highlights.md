@@ -6,6 +6,8 @@ images:
 - b8a2c8bce4a6667efc45011db7db0257ef0c6b286d214cb72ba21a8a8b04938a
 - 125335815bb476d779efdd1b58c107e5f10e781c89d67f96005a68836c268764
 - 8b70f3c293019e432bdf1ed6ad4bad87c9141df70cce37b8762701b324f6482a
+locations:
+- King County
 original_content: |-
   <figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1545" height="2000" src="https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/P1.png" alt="" class="wp-image-3913" srcset="https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/P1.png 1545w, https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/P1-232x300.png 232w, https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/P1-791x1024.png 791w, https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/P1-116x150.png 116w, https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/P1-768x994.png 768w, https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/P1-1187x1536.png 1187w, https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/P1-294x380.png 294w, https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/P1-425x550.png 425w" sizes="(max-width: 1545px) 100vw, 1545px" /></figure>
 

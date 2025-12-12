@@ -3,6 +3,8 @@ date: '2025-07-01T23:33:49+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   IACS’s Approach to Crisis and Care Like the phones of the other IACS staff, Tara’s phone can be found ringing every other minute. With tousled hair and a purposeful stride, [...]
 

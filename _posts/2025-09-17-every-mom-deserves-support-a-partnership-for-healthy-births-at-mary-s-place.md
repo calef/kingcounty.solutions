@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - cb5a9635dead2951c8347a6061e3224ed5fc8bd2b7f8aa37e219f4473ec3cdb1
+locations:
+- King County
 original_content: "<p class=\"\">Pregnancy and childbirth can be both beautiful and
   challenging—especially for women experiencing homelessness, language barriers, or
   cultural isolation. That’s why our partnership with&nbsp;<a href=\"https://www.ayanmaternitylove.org/\"

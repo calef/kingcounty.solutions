@@ -1,6 +1,7 @@
 ---
 date: '2025-05-27T21:06:00+00:00'
 images: []
+locations: []
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Explore
   Bellevue at Lake to Lake Bike Ride</span>\n<span class=\"field field--name-uid field--type-entity-reference
   field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\" typeof=\"schema:Person\"

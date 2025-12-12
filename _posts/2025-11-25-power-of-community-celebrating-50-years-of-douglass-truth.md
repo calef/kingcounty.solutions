@@ -1,6 +1,7 @@
 ---
 date: '2025-11-25T19:50:43+00:00'
 images: []
+locations: []
 original_content: |-
   <p><span class="TextRun SCXW20729476 BCX8" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun SCXW20729476 BCX8">A half-century ago, the Central District</span> <span class="NormalTextRun SCXW20729476 BCX8">came together to rename its library to reflect its community. </span></span></p>
 

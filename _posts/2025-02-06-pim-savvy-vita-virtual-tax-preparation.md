@@ -3,6 +3,8 @@ date: '2025-02-06T02:05:42+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p>PIM Savvy VITA now offers Virtual Tax Preparation services in partnership with the Internal Revenue Service (IRS). We understand many people simply don’t have the time or are unable to schedule an in-person appointment at a tax prep assistance office which is why we chose to add Virtual Tax Preparation services. With this added service, we can serve and reach even more people with their tax preparation needs, especially those in resilient and rural communities.</p>
 

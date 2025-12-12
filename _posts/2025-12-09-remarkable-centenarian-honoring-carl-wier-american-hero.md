@@ -3,6 +3,7 @@ date: '2025-12-09T19:30:00+00:00'
 events: []
 events_extracted: true
 images: []
+locations: []
 original_content: |-
   <h2>A century of service</h2>
 
@@ -56,6 +57,7 @@ original_markdown_body: |-
   The celebration’s emotional weight was heightened by the presence of Wier’s family, friends and representatives from VA, all gathered to express their gratitude for his lifetime of service.
 
   It’s never too late to apply for VA health care you’ve earned. If you are a Veteran or know a Veteran who has not yet applied for their VA health care benefits, learn how to get started.
+published: false
 source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143715/remarkable-centenarian-honoring-carl-wier/
 summarized: true

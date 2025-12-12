@@ -2,6 +2,8 @@
 end_date: '2026-01-29T16:30:00-08:00'
 images: []
 location: Gates Center (CSE2), G20 | Amazon Auditorium
+locations:
+- King County
 original_content: <article id="post-61726" class="post-61726 page type-page status-publish
   hentry"> <div class="entry-content"> <h2>HCI for AGI</h2> <p class="mb-1">Meredith
   Ringel Morris (Google DeepMind)</p> <p class="mb-1">Distinguished Lecture Series</p>

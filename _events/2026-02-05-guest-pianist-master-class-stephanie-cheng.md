@@ -2,6 +2,8 @@
 end_date: '2026-02-05T15:30:00-08:00'
 images: []
 location: Music Building (MUS)
+locations:
+- King County
 original_content: '<div class="field-items"> <div class="field-item"> <p>Guest pianist
   Stephanie Cheng, head of the Keyboard Department at the Lamont School of Music,
   University of Denver, leads a master class with UW piano students. </p> <h2>Biography</h2>

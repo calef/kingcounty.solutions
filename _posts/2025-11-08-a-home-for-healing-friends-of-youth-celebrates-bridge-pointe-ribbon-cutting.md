@@ -3,6 +3,8 @@ date: '2025-11-08T00:39:45+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: Friends of Youth has officially opened Bridge Pointe Housing, a
   healing place for young adults, 18 - 24, transitioning from inpatient treatment.
        On Tuesday, November 4, 2025, Friends of Youth hosted a Ribbon Cutting Ceremony

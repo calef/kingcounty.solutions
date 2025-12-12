@@ -13,6 +13,8 @@ images:
 - e6865c599c36c3bede98658196e28d368930eab1bcb458b5e5ea1f3553c4298f
 - 2d481bcc608d8f1b8186c9fbb567a0ca31b64101a7f0fb24530d4aadbbb602e1
 - 4a23c75064bdec7d1e32ce8e5def64e8d60728398be333f2050aefa20375e88e
+locations:
+- King County
 original_content: "<p><img width=\"361\" height=\"255\" src=\"https://s14621.pcdn.co/wp-content/uploads/2025/11/Saichaun-Heaven-Lashaye-SPH-RG-07.30.2025-84-801x566-1-361x255.jpg\"
   class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Two
   women tickle a little boy as they all sit on a set of concrete steps.\" decoding=\"async\"

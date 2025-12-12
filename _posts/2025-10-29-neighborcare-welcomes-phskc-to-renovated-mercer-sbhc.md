@@ -3,6 +3,8 @@ date: '2025-10-29T15:36:57+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: In October 2025, Neighborcare introduced the Public Health School-Based
   Partnerships team to the newly renovated health center at Mercer Middle School.
   After two years in temporary portables, the school has been rebuilt. Appreciation

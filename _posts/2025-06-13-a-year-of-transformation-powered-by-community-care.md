@@ -3,6 +3,8 @@ date: '2025-06-13T18:30:26+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: '<p class="">Throughout the past year and a half, we’ve watched
   transformation blossom at Rainier Valley Food Bank throughout the course of our
   building’s renovation. As we approach the other side, with our community food hub

@@ -3,6 +3,8 @@ date: '2025-11-14T23:24:34+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p>For child care providers and early learning educators, serving the children and families in their community requires a commitment to lifelong learning. To elevate the quality of their care, it is important that providers have access to holistic, engaging, and culturally relevant continuous learning opportunities.</p>
 

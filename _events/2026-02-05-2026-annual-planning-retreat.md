@@ -2,6 +2,8 @@
 end_date: '2026-02-08T00:00:00-08:00'
 images: []
 location: ''
+locations:
+- King County
 original_content: <a class="skip-link screen-reader-text" href="#content">Skip to
   content</a> <header data-elementor-type="header" data-elementor-id="61361" class="elementor
   elementor-61361 elementor-location-header" data-elementor-post-type="elementor_library">

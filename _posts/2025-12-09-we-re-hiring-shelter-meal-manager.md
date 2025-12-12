@@ -4,6 +4,8 @@ events:
 - 2025-12-12-application-deadline-for-shelter-meal-program-manager
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: "<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n<p><!--
   divi:paragraph --><strong>Full-Time, Hourly</strong><br><strong>Reports to: Co-Executive
   Director of Programs<br>$29.81 – $32.81/hour DOE<br>Seattle and Shoreline, Washington</strong></p>\n<p><!--

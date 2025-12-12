@@ -2,6 +2,8 @@
 end_date: '2026-01-14T15:15:00-08:00'
 images: []
 location: Zoom
+locations:
+- King County
 original_content: '<article id="post-14534" class="post-14534 page type-page status-publish
   has-post-thumbnail hentry tag-homepage"> <div class="entry-content"> <div class="wpb-content-wrapper">
   <section data-vc-full-width="true" data-vc-full-width-init="false" class="vc_section

@@ -3,6 +3,8 @@ date: '2025-05-14T20:03:19+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p>In the world of cancer support, every journey is as unique as the individual walking it. For many, joining a Cancer Lifeline support group is a courageous first step—one taken in the midst of fear, loss, or uncertainty. Participants often arrive carrying heavy questions and quiet hopes, unsure of what they’ll find or how they’ll be received. They take a seat in a circle or log into Zoom, not yet knowing the power that space will hold.</p>
   <p>Within the safety of shared stories and compassionate listening, something begins to shift. Walls come down. Connections form. A sense of belonging takes root. These support groups grow into more than just scheduled meetings—they become lifelines. In this space, clients rediscover their voice, their strength, and sometimes even a sense of peace they didn’t know they were missing.</p>

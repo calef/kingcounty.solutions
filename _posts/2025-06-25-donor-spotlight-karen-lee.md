@@ -3,6 +3,8 @@ date: '2025-06-25T20:46:13+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- Eastside
 original_content: |-
   <h2><strong>Turning Points That Change Lives</strong></h2>
   <p>Karen Lee is the kind of person who lights up a room and often fills it, too. Whether she’s entertaining close friends or planning the next great party, her warmth and generosity extend far beyond her social circle. A proud grandmother, frequent traveler, and devoted dog mom to her miniature long-haired dachshund Theodora, Karen lives a vibrant life rooted in connection.</p>

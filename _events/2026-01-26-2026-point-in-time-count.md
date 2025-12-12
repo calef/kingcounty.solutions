@@ -2,6 +2,8 @@
 generated_from_post: true
 images: []
 location: ''
+locations:
+- King County
 original_markdown_body: A vital initiative that assesses homelessness in the region,
   where volunteers will help conduct surveys and gather information from individuals
   experiencing homelessness.

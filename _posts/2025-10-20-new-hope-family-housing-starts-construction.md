@@ -1,9 +1,10 @@
 ---
 date: '2025-10-20T22:52:48+00:00'
-events:
-- 2027-03-01-completion-of-new-hope-family-housing
+events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: "New Hope West Building - Rendering by Weber Thompson Seattle, WA
   – The New Hope Community Development Institute ( NHCDI) and Low Income Housing Institute
   (LIHI) are pleased to announce the start of construction for New Hope Family Housing.

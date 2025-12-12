@@ -1,6 +1,7 @@
 ---
 date: '2025-08-01T17:22:25+00:00'
 images: []
+locations: []
 original_content: '<p class="">Recipe adapted from Nadia Tommalieh</p><p class="">Yield:
   6 servings</p><p data-rte-preserve-empty="true" class=""></p><h3>Ingredients</h3><h4>Salad:</h4><p
   class="">6 Persian cucumbers (or 1 English cucumber), finely chopped</p><p class="">1

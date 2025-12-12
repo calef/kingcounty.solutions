@@ -1,6 +1,7 @@
 ---
 date: '2025-11-17T19:35:02+00:00'
 images: []
+locations: []
 original_content: |-
   <p>If representations of AI in fiction are starting to feel eerily plausible to you, you’re not alone! AI suddenly seems to be everywhere — in your phone, in your browser, offering tech support and an uncanny form of virtual friendship.</p>
   <p>How did this happen, where is it headed and what will it mean for humanity? In <strong>“<a class="content-link external" href="https://seattle.bibliocommons.com/v2/record/S30C4043179" target="_blank" rel="noopener" data-mrf-link="https://seattle.bibliocommons.com/v2/record/S30C4043179">Empire of AI</a>,”</strong> author Karen Hao sets out to answer those questions. Hao is an award-winning journalist who embedded with the company OpenAI, maker of ChatGPT, in 2019. Drawing from personal experience and dozens of insider interviews, Hao takes us behind the scenes in the race to create a dominant commercial AI model.</p>

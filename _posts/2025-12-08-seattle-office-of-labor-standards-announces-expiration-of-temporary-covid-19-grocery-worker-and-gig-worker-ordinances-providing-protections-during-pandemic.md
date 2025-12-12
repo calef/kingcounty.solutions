@@ -3,6 +3,8 @@ date: '2025-12-08T16:35:32+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: 'For Immediate Release Contact InformationCynthia SantanaPhone:
   206-256-5219Email: cynthia.santana@seattle.gov Seattle Office of Labor Standards
   Announces Expiration of Temporary COVID-19 Grocery Worker and Gig Worker Ordinances

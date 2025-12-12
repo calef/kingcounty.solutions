@@ -1,6 +1,7 @@
 ---
 date: '2025-11-24T20:47:05+00:00'
 images: []
+locations: []
 original_content: '<p><img fetchpriority="high" decoding="async" class="alignnone
   size-full wp-image-8117" src="https://yarrowpointwa.gov/wp-content/uploads/2025/11/Tree-SEPA-2025-08-DNS-Posting-Notice-002.jpg"
   alt="" width="1700" height="2200" srcset="https://yarrowpointwa.gov/wp-content/uploads/2025/11/Tree-SEPA-2025-08-DNS-Posting-Notice-002.jpg

@@ -23,6 +23,8 @@ images:
 - 6a66ce3e8155f87fda642bde40113dd26d914c0fa52ccaff8ada6553eff6a90e
 - ba4f882ea51f4327da0eb29b5b355ab819e943bb8ec4cbd2293771379808cb26
 - 2025ce18a9a802b61feb8db4029aa7fe2de74c6b988e850d3c3db56d49a0fdf2
+locations:
+- King County
 original_content: "<p><img width=\"361\" height=\"255\" src=\"https://s14621.pcdn.co/wp-content/uploads/2025/07/2025_05_07_SG_CookingClass_DNG045-801x-361x255.jpg\"
   class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Three
   teenagers lean over a stainless steel countertop, carefully chopping carrots on

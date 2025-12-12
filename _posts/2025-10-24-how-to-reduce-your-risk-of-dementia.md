@@ -3,6 +3,8 @@ date: '2025-10-24T22:48:42+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p><em>Written by Elham Rezvanian, MD &#8212; Neurology and Sleep Medicine specialist at PacMed</em></p>
   <p>Eating well is one of the most important things you can do for your brain health.</p>

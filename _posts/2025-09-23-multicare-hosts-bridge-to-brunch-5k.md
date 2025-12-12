@@ -3,6 +3,7 @@ date: '2025-09-23T16:59:05+00:00'
 events: []
 events_extracted: true
 images: []
+locations: []
 original_content: |-
   <p>SPOKANE, Wash. — MultiCare’s annual Bridge to Brunch 5K run/walk returns for its eighth year on Saturday, Oct. 11, at 8:30 a.m.</p>
   <p>Proceeds will be donated to the MultiCare Academy for Students in Healthcare (M.A.S.H.) Camp. <a href="https://www.multicare.org/about/community/mash-camp/" data-wpel-link="internal">M.A.S.H. Camp</a> is a free, multiday experience held every summer for high school students to explore careers in health care.</p>
@@ -22,6 +23,7 @@ original_markdown_body: |-
   Participants are encouraged to take pictures and share them on social media platforms using the hashtag #BridgeToBrunch25 — or email them to [bridgetobrunch@gmail.com](mailto:bridgetobrunch@gmail.com).
 
   The post [MultiCare hosts Bridge to Brunch 5K](https://www.multicare.org/newsroom/2025/09/multicare-hosts-bridge-to-brunch-5k-2025/) appeared first on [MultiCare](https://www.multicare.org).
+published: false
 source: MultiCare
 source_url: https://www.multicare.org/newsroom/2025/09/multicare-hosts-bridge-to-brunch-5k-2025/
 summarized: true

@@ -3,6 +3,8 @@ date: '2025-12-09T12:33:06+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: "<div>\n\n    \n    <p><img src=\"https://www.dav.org/wp-content/uploads/JuliusCaregivers_NovDec2025-Mag.png\">Imagine
   being handed the keys to a brand-new sports car with an invitation to drive a couple
   of laps around an empty racetrack. The top is down, the wind is racing through your

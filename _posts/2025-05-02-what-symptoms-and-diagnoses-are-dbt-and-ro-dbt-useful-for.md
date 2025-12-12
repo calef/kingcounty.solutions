@@ -3,6 +3,8 @@ date: '2025-05-02T20:27:53+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- Eastside
 original_content: "<p class=\"\">DBT (Dialectical Behavior Therapy) and RO-DBT (Radically
   Open Dialectical Behavior Therapy) are both evidence-based behavioral and cognitive-behavioral
   therapies, but they’re designed for different kinds of emotional and behavioral

@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - 247574ba3dc5de1f82fe04272317e2b297ca0267bdb36fe5ebd7918fab51c1e0
+locations:
+- King County
 original_content: "<div class=\"wp-block-image\">\n<figure class=\"alignright size-large
   is-resized\"><img fetchpriority=\"high\" decoding=\"async\" width=\"600\" height=\"384\"
   src=\"https://www.rewa.org/wp-content/uploads/2025/10/SNAP-logo-comp-1200-600x384.jpg\"

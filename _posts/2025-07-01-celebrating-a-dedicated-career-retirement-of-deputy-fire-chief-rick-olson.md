@@ -1,6 +1,7 @@
 ---
 date: '2025-07-01T14:41:13+00:00'
 images: []
+locations: []
 original_content: |-
   As we reflect on the retirement of Deputy Fire Chief Rick Olson, we feel a mix of emotions and gratitude for his years of dedicated service and sadness at losing a remarkable leader. Chief Olson has been an integral part of our community and the Valley Regional Fire Authority (VRFA), profoundly impacting his colleagues and the citizens he serves.
 

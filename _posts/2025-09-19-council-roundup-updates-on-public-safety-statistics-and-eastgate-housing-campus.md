@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - 1a0fed4ba3beae5d97bfd3a6ae1dbf6cbe8393527303f3904af05f5d51dfd8ef
+locations:
+- King County
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Council
   Roundup: Updates on public safety statistics and Eastgate Housing Campus</span>\n<span
   class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span

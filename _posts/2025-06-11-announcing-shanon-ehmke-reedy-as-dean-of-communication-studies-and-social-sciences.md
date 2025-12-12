@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - 2154f75174a4767589f997973c359798fe63f0a0d0a65b9cf55172813b44e06f
+locations:
+- King County
 original_content: '<div class="wp-rss-image" style="margin-bottom:20px;max-width:
   600px !important;padding-top: 0.75em;"><img src="https://i0.wp.com/news.shoreline.edu/wp-content/uploads/2025/06/Shanon-2-brighter-3.jpg?fit=400%2C300&amp;ssl=1"
   class="attachment-medium size-medium wp-post-image" alt="" decoding="async" loading="lazy"

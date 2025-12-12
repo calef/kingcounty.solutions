@@ -2,6 +2,8 @@
 end_date: '2025-12-18T12:00:00-08:00'
 images: []
 location: ''
+locations:
+- King County
 original_content: '<!DOCTYPE html> <html xmlns:fb="http://ogp.me/ns/fb#"> <head prefix="og:
   http://ogp.me/ns# fb: http://ogp.me/ns/fb# zoomvideocall: http://ogp.me/ns/fb/zoomvideocall#">
   <meta charset="utf-8"> <meta name="referrer" content="origin-when-cross-origin">

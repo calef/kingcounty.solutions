@@ -8,6 +8,8 @@ images:
 - 5fd2255e7c5bdc77068dce00b45a7291500be4ff2ec00546e3dcfa66499a8dbd
 - b3228e891145ab615573955d94deb46adfb0595950b501de128336f747fbce7a
 - de628e05e33f1fd6d4e3767e898753e892eb60627a91d07cfa78cf45f71d0c5f
+locations:
+- King County
 original_content: |-
   <h2>Morphinism and the National Homes, 1880-1916</h2>
 

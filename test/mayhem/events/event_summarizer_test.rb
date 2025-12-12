@@ -29,7 +29,7 @@ class EventSummarizerTest < Minitest::Test
       @response = response
     end
 
-    def chat(parameters:)
+    def chat(*)
       @response
     end
   end
@@ -55,6 +55,16 @@ class EventSummarizerTest < Minitest::Test
 
     def classify(_text)
       @topics
+    end
+  end
+
+  class FakeLocationClassifier
+    def initialize(locations:)
+      @locations = locations
+    end
+
+    def classify(*)
+      @locations
     end
   end
 
@@ -88,16 +98,18 @@ class EventSummarizerTest < Minitest::Test
     path
   end
 
-  def build_summarizer(client_response:, topics: [], http_body: '<html><body><article>Story</article></body></html>')
+  def build_summarizer(client_response:, topics: [], locations: ['Seattle'], http_body: '<html><body><article>Story</article></body></html>')
     client = FakeChatClient.new(response: client_response)
     http = FakeHttpClient.new(response: { body: http_body, content_type: 'text/html' })
     topic_classifier = FakeTopicClassifier.new(topics: topics)
+    location_classifier = FakeLocationClassifier.new(locations: locations)
     Mayhem::Events::EventSummarizer.new(
       events_dir: @tmp_events,
       topic_dir: @tmp_topics,
       client: client,
       http_client: http,
       topic_classifier: topic_classifier,
+      location_classifier: location_classifier,
       logger: @logger,
       model: 'test-model'
     )
@@ -106,39 +118,45 @@ class EventSummarizerTest < Minitest::Test
   def test_run_updates_event_and_unlinks_posts_without_topics
     slug = 'event-one'
     write_event(slug, {
-      'title' => 'Test Event',
-      'start_date' => '2025-01-01',
-      'location' => 'Town Hall',
-      'source_url' => 'https://example.com/event',
-      'generated_from_post' => true
-    }, 'Body text')
+                  'title' => 'Test Event',
+                  'start_date' => '2025-01-01',
+                  'location' => 'Town Hall',
+                  'source_url' => 'https://example.com/event',
+                  'generated_from_post' => true
+                }, 'Body text')
     write_post('post-one', { 'events' => [slug] })
 
     summarizer = build_summarizer(
       client_response: { 'choices' => [{ 'message' => { 'content' => 'Refined summary.' } }] },
-      topics: []
+      topics: [],
+      locations: []
     )
 
     stats = summarizer.run
 
     assert_equal 1, stats[:updated]
     assert_equal 1, stats[:missing_topics]
+    assert_equal 1, stats[:missing_locations]
     assert_equal 1, stats[:events_unlinked]
     document = Mayhem::FrontMatter::Document.load(File.join(@tmp_events, "#{slug}.md"), logger: @logger)
+
     assert_equal 'Refined summary.', document.body.strip
-    assert_equal false, document.front_matter['published']
+    refute document.front_matter['published']
+    assert_empty Array(document.front_matter['topics'])
+    assert_empty Array(document.front_matter['locations'])
     post_doc = Mayhem::FrontMatter::Document.load(File.join(@tmp_posts, 'post-one.md'), logger: @logger)
+
     assert_empty Array(post_doc.front_matter['events'])
   end
 
   def test_run_records_failed_summary_when_llm_empty
     slug = 'event-two'
     write_event(slug, {
-      'title' => 'Test Event',
-      'start_date' => '2025-02-02',
-      'location' => 'Library',
-      'source_url' => 'https://example.com/event'
-    }, 'Body text')
+                  'title' => 'Test Event',
+                  'start_date' => '2025-02-02',
+                  'location' => 'Library',
+                  'source_url' => 'https://example.com/event'
+                }, 'Body text')
 
     summarizer = build_summarizer(
       client_response: { 'choices' => [{ 'message' => { 'content' => '   ' } }] },
@@ -154,10 +172,10 @@ class EventSummarizerTest < Minitest::Test
   def test_run_skips_missing_source_when_not_generated_from_post
     slug = 'event-three'
     write_event(slug, {
-      'title' => 'No Source',
-      'start_date' => '2025-03-03',
-      'location' => 'Park'
-    }, 'Body text')
+                  'title' => 'No Source',
+                  'start_date' => '2025-03-03',
+                  'location' => 'Park'
+                }, 'Body text')
 
     summarizer = build_summarizer(client_response: {})
 
@@ -170,11 +188,11 @@ class EventSummarizerTest < Minitest::Test
   def test_run_handles_generated_from_post_missing_body
     slug = 'event-generated'
     write_event(slug, {
-      'title' => 'Generated',
-      'start_date' => '2025-04-04',
-      'location' => 'Gym',
-      'generated_from_post' => true
-    }, '')
+                  'title' => 'Generated',
+                  'start_date' => '2025-04-04',
+                  'location' => 'Gym',
+                  'generated_from_post' => true
+                }, '')
 
     summarizer = build_summarizer(client_response: {}, topics: ['Health'])
 
@@ -182,5 +200,56 @@ class EventSummarizerTest < Minitest::Test
 
     assert_equal 1, stats[:skipped_missing_body]
     assert_match(/could not summarize event/, @logger.warns.last)
+  end
+
+  def test_run_backfills_locations_for_already_summarized_event
+    slug = 'event-backfill'
+    write_event(slug, {
+                  'title' => 'Already Summarized',
+                  'start_date' => '2025-05-05',
+                  'location' => 'Community Center',
+                  'summarized' => true
+                }, 'This event is already summarized.')
+
+    summarizer = build_summarizer(
+      client_response: {},
+      topics: ['Community'],
+      locations: %w[Seattle Bellevue]
+    )
+
+    stats = summarizer.run
+
+    assert_equal 1, stats[:locations_backfilled]
+    assert_equal 0, stats[:updated]
+    document = Mayhem::FrontMatter::Document.load(File.join(@tmp_events, "#{slug}.md"), logger: @logger)
+
+    assert_equal %w[Seattle Bellevue], document.front_matter['locations']
+    assert_nil document.front_matter['published']
+  end
+
+  def test_run_marks_unpublished_when_backfilled_locations_empty
+    slug = 'event-no-locations'
+    write_event(slug, {
+                  'title' => 'Already Summarized No Locations',
+                  'start_date' => '2025-06-06',
+                  'location' => 'Virtual',
+                  'summarized' => true,
+                  'images' => ['https://example.com/event.jpg']
+                }, 'This event has no relevant locations.')
+
+    summarizer = build_summarizer(
+      client_response: {},
+      topics: ['Technology'],
+      locations: []
+    )
+
+    stats = summarizer.run
+
+    assert_equal 1, stats[:locations_backfilled]
+    document = Mayhem::FrontMatter::Document.load(File.join(@tmp_events, "#{slug}.md"), logger: @logger)
+
+    assert_empty document.front_matter['locations']
+    assert_empty document.front_matter['images']
+    refute document.front_matter['published']
   end
 end

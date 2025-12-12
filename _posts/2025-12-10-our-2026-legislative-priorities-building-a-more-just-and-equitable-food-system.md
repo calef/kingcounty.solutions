@@ -3,6 +3,8 @@ date: '2025-12-10T22:18:55+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p>Washington’s 2026 Legislative Session is right around the corner! Over the coming months, we’ll be sharing updates from Olympia and creating opportunities for you to make your voice heard. Together, we can shape policies that move Washington closer to a hunger-free future.</p>
   <p>This year, we’re setting bold priorities to eliminate barriers to food security and strengthen our food system. Below is an overview of what we’ll be focusing on. For a deeper dive into our 2026 legislative priorities, <a>visit our Public Policy page</a>.</p>

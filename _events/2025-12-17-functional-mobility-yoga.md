@@ -3,6 +3,8 @@ end_date: '2025-12-17T16:00:00-08:00'
 images: []
 location: The Center for Active Living, 4217 SW Oregon St., Seattle, WA, 98116, United
   States
+locations:
+- King County
 original_content: <a>Skip to content</a><div> <header><div> <div> <div> <div> <div>
   <div> <div> <div> <div> <div> <div> <div> <p>We used to be called the Senior Center
   of West Seattle.</p> </div> </div> </div> </div> </div> <div> <div> <div> <div>

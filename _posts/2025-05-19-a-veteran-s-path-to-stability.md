@@ -3,6 +3,8 @@ date: '2025-05-19T17:22:38+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: Brian* lived without a place to call home for two years before moving
   into MSC’s Burien Veterans House. Like many in our community, Brian faced significant
   barriers to stable housing including crushing debt, ongoing mental health struggles,

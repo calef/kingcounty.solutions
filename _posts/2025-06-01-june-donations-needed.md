@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - d5cf05fd6ab8f1cb3e27c7846a75d5d0281015b33f8d7235c2337a4ebe508238
+locations:
+- South King County
 original_content: |-
   <div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-16018d1d wp-block-buttons-is-layout-flex">
   <div class="wp-block-button has-custom-width wp-block-button__width-75 is-style-outline is-style-outline--2"><a class="wp-block-button__link has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background has-background has-large-font-size has-custom-font-size wp-element-button" href="https://www.amazon.com/hz/wishlist/ls/1BMTT8YXQ8TJI?ref_=wl_share">CLICK HERE to shop our needs!</a></div>

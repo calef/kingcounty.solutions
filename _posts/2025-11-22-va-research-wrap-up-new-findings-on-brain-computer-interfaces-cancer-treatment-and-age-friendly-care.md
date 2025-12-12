@@ -3,6 +3,8 @@ date: '2025-11-22T14:30:00+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p>VA’s Office of Research and Development recently published three <a href="https://www.research.va.gov/news_briefs/default.cfm" rel="noopener">News Briefs</a> highlighting research advances on brain-computer interfaces, a potential new lymphoma treatment and the benefits of age-friendly care.</p>
 

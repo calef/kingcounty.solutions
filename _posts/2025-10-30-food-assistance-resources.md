@@ -3,6 +3,8 @@ date: '2025-10-30T03:48:32+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: "## Additional Food Resources\n\n![Hopelink Food Resources 10.30.25](https://www.hopelink.org/wp-content/uploads/2025/10/Hopelink_Food-Resources_10.30.25.png
   \"A family sits down to open a present.\")\n\nThis list highlights community partners
   and businesses across our region who are here to support you and your loved ones.

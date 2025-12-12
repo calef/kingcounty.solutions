@@ -3,6 +3,8 @@ date: '2025-10-06T19:42:20+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p><strong>How do you fix a broken pumpkin?</strong></p>
 

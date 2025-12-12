@@ -2,6 +2,8 @@
 end_date: '2026-01-08T17:20:00-08:00'
 images: []
 location: Sieg Building (SIG)
+locations:
+- King County
 original_content: "<div class=\"row\"> <section id=\"content\"> <section> <header>
   <h1> <span>UX Speaker Series</span> </h1> </header><div id=\"block-uwcoe-system-main\">
   <article> <div> <div> <p class=\"lead\">Each winter, the Department of Human Centered

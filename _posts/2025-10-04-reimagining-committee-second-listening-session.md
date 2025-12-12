@@ -1,6 +1,7 @@
 ---
 date: '2025-10-04T18:17:09+00:00'
 images: []
+locations: []
 original_content: "<section class=\"elementor-section elementor-top-section elementor-element
   elementor-element-a3ed10d ang-section-padding-no elementor-section-boxed elementor-section-height-default
   elementor-section-height-default elementor-repeater-item-none elementor-repeater-item-none_hover\"

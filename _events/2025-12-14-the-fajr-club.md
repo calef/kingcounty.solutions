@@ -2,6 +2,8 @@
 end_date: '2025-12-14T08:00:00-08:00'
 images: []
 location: ''
+locations:
+- King County
 original_content: "<div> <div> <div> <div> <div> <p> <a> « All Events </a> </p> <h1>The
   Fajr Club</h1> <div> <span>Recurring event</span> <a> see all </a> </div> <div>
   <div> <h2> <span> December 14 </span> <span> @ </span> <span> 6:30 am </span> <span>

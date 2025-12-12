@@ -3,6 +3,8 @@ date: '2025-06-26T10:13:57+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: We were proud to attend Bothell Pride at Moonlight on Main as well
   as Pride Celebration at Kirkland Urban as part of our ongoing...
 original_markdown_body: We were proud to attend Bothell Pride at Moonlight on Main

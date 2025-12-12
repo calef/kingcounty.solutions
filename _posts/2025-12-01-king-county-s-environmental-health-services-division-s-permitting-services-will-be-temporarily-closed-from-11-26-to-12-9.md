@@ -1,6 +1,7 @@
 ---
 date: '2025-12-01T14:26:57+00:00'
 images: []
+locations: []
 original_content: Check out King County’s article about how the Environmental Health
   Services Division’s permitting services will be temporarily closed from Wednesday,
   November 26 at 4 PM through Tuesday, December 9 as we prepare to launch the Public

@@ -1,6 +1,7 @@
 ---
 date: '2025-11-19T00:00:00-08:00'
 images: []
+locations: []
 original_content: <summary type="html"></summary>
 original_markdown_body: ''
 published: false

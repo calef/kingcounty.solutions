@@ -1,8 +1,8 @@
 ---
 end_date: '2025-12-13T12:30:00-08:00'
 images: []
-location: ''
-locked: true
+locations:
+- King County
 original_content: "<div> <div> <div> <div> <div> <p> <a> « All Events </a> </p> <h1>Urdu
   Class</h1> <div> <span>Recurring Event</span> <a> see all </a> </div> <div> <div>
   <h2> <span> December 13 </span> <span> @ </span> <span> 10:30 am </span> <span>
@@ -39,6 +39,7 @@ original_markdown_body: "« All Events\n\n \n# Urdu Class\n \n Recurring Event s
   Urdu Class  \n December 13 @ 11:00 am – 1:00 pm\n\n |Recurring Event (See all)\n
   \nRecurring Event\n \n \n\n \n \n\n \n \n \n### Event Navigation\n \n- « MCRC Community
   Clinic\n- Urdu Class »"
+published: false
 source: Muslim Association of Puget Sound
 source_url: https://mapsredmond.org/event/urdu-class/2025-12-13/
 start_date: '2025-12-13T10:30:00-08:00'

@@ -3,6 +3,8 @@ date: '2025-05-12T18:09:44+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: "## Redefining Our Path: Updating Our Mission, Values, and Theory
   of Change\n\nAt Hopelink, our work has always been rooted in the belief that every
   person deserves the opportunity to thrive. But in the face of a rapidly changing

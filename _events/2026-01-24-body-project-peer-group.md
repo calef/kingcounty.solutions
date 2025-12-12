@@ -2,6 +2,8 @@
 end_date: '2026-01-24T15:00:00-08:00'
 images: []
 location: 1218 NE Campus Parkway (ELM-HALL)
+locations:
+- King County
 original_content: "<article> <div> <h1>The Body Project</h1> <div> <div> <h2>What
   is it?</h2> <p>The Body Project is a 4-week evidence-based program designed to increase
   body acceptance and decrease body dissatisfaction. It is run as a group where we

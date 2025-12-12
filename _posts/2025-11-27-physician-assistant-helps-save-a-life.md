@@ -2,8 +2,8 @@
 date: '2025-11-27T15:30:00+00:00'
 events: []
 events_extracted: true
-images:
-- c38ab6f9688b0c8e66b06c990ff4fba4eb50d73d160411fb5fc107ec26db5dca
+images: []
+locations: []
 original_content: |-
   <h2 class="wp-block-heading">VA medical providers team up to provide CPR</h2>
 
@@ -86,6 +86,7 @@ original_markdown_body: |-
   Lopez insists that Massenburg deserves equal credit for saving the patient’s life. Their partnership underscores the teamwork and dedication of VA’s clinical staff, where every role contributes to Veteran care.
 
   To learn more about the physician assistant profession at VA, visit the [physician assistants home page](https://www.patientcare.va.gov/PA/index.asp).
+published: false
 source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143226/physician-assistant-helps-save-a-life/
 summarized: true

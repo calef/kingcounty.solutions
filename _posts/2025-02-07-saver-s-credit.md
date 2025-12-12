@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - 1f7b656bf65c83c61d9e04afc7e43e18303b423fb66541130e8d259bb7279a9b
+locations:
+- King County
 original_content: |-
   <p>Have you heard of the Saver’s Credit? The Saver’s Credit is an Internal Revenue Service (IRS) Retirement Savings Contributions Tax Credit. You may be able to take a tax credit for making eligible contributions to your IRA or employer-sponsored retirement plan. Also, you may be eligible for a credit for contributions to your Achieving a Better Life Experience (ABLE) account, if you’re the designated beneficiary.</p>
 

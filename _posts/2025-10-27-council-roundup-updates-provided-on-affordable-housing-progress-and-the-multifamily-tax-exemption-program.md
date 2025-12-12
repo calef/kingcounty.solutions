@@ -5,6 +5,8 @@ events:
 events_extracted: true
 images:
 - 5d4593d7334a078570bfaf06b17cc2f4e9abab7c2fcaa467737392306cf3ea0c
+locations:
+- King County
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Council
   Roundup: Updates provided on Affordable Housing progress and the Multifamily Tax
   Exemption Program</span>\n<span class=\"field field--name-uid field--type-entity-reference

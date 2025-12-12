@@ -3,6 +3,8 @@ date: '2025-11-03T22:15:40+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <h2><strong>Donor Spotlight: Sarah Hamid &#8211; Following Her Heart</strong></h2>
   <p>When Sarah Hamid first came to Youth Eastside Services (YES), she was a mother seeking support and understanding for her son. Like many families during the pandemic, hers was navigating new emotional terrain, isolation, stress, and uncertainty that touched most young people during that difficult time.</p>

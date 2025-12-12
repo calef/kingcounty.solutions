@@ -3,6 +3,8 @@ date: '2025-12-03T19:17:03+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p>Throughout 2025, Mercy Community Capital (MCC) continued to support developers who were relatively new to affordable housing or had limited access to traditional debt sources.</p>
   <p>As a Community Development Financial Institution (CDFI), MCC makes a concerted effort to provide capital in support of affordable housing developments where capital may be otherwise difficult to obtain. For emerging developers who are executing affordable housing projects but may have less experience or a smaller balance sheet than established development firms, access to capital is a major roadblock which can be difficult to overcome. This can create a barrier to entry for potential developers, who are often local to the markets in which they work and address the specific needs of their communities.</p>

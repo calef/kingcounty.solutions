@@ -2,6 +2,8 @@
 end_date: '2026-02-12T19:30:00-08:00'
 images: []
 location: Meany Hall (MNY)
+locations:
+- King County
 original_content: '<div class="field-items"> <div class="field-item"> <p>Faculty pianist
   Robin McCabe joins forces with guest artist Maria Larionoff in an evening of high
   octane duos for violin and piano. On the launch pad: Stravinsky’s Suite Italienne,

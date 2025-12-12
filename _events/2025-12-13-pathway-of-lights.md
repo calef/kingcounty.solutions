@@ -3,6 +3,8 @@ end_date: '2025-12-13T19:30:00-08:00'
 generated_from_post: true
 images: []
 location: Green Lake Park
+locations:
+- King County
 original_markdown_body: A magical stroll along the illuminated paths and docks, adorned
   with thousands of candles, featuring complimentary refreshments, live music, and
   hot air balloons.

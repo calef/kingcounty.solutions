@@ -3,6 +3,8 @@ date: '2025-08-25T19:29:10+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p>As seen in the Kent and Renton Reporters</p>
   <p>steps on the road to recovery. <a href="https://valleycities.org/" target="_blank" rel="nofollow noopener" data-mrf-link="https://valleycities.org/">Valley Cities Behavioral Health Care</a> knows that recovery often begins with connection and it’s why their outreach efforts across King County continue to grow.</p>

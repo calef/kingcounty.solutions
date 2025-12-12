@@ -3,6 +3,7 @@ date: '2025-11-19T20:28:47+00:00'
 events: []
 events_extracted: true
 images: []
+locations: []
 original_content: |-
   <p>At Mercy Housing California, we build communities with residents in mind. Places where people of all abilities can thrive, connect, and feel at home.</p>
   <p>One of our newest communities, The Kelsey Civic Center, was recently named a finalist for Affordable Housing Finance’s Readers’ Choice Awards in the Urban category. Designed with inclusion at its core, this accessibly built development supports a wide range of needs through innovative features and an onsite Inclusion Concierge team. Located in a city known for its legacy of sustainability and disability justice, The Kelsey Civic Center stands as a powerful symbol of both.</p>
@@ -32,6 +33,7 @@ original_markdown_body: |-
   Rory’s words reflect the heart of what we strive to create: inclusive, welcoming communities where everyone belongs.
 
   The post [Exploring the possibilities at The Kelsey Civic Center](https://www.mercyhousing.org/2025/11/exploring-the-possibilities-at-the-kelsey-civic-center/) appeared first on [Mercy Housing](https://www.mercyhousing.org).
+published: false
 source: Mercy Housing
 source_url: https://www.mercyhousing.org/2025/11/exploring-the-possibilities-at-the-kelsey-civic-center/
 summarized: true

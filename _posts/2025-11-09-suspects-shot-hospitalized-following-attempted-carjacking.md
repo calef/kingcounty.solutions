@@ -1,6 +1,7 @@
 ---
 date: '2025-11-09T16:57:25+00:00'
 images: []
+locations: []
 original_content: Following an attempted armed carjacking, Seattle police detectives
   are investigating after a legally armed victim shot two suspects in Queen Anne this
   morning. At about 3:30 a.m., patrol officers responded to a shooting in the 2200

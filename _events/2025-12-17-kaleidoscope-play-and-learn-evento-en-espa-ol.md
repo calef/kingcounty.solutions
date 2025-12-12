@@ -2,6 +2,8 @@
 end_date: '2025-12-17T12:30:00-08:00'
 images: []
 location: El Centro de la Raza, 2524 16th Ave S, Seattle, WA, 98144, United States
+locations:
+- King County
 original_content: "<article><div><section> <div> <p> <a> « All Events</a></p> <div>
   <span> Event Series: </span> <a> <span> Kaleidoscope Play and Learn (Evento en Español)
   </span> </a> </div> <h1>Kaleidoscope Play and Learn (Evento en Español)</h1> <div>

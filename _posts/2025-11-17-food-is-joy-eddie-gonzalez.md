@@ -5,6 +5,8 @@ events_extracted: true
 images:
 - c2a6981c6fb5e14ef585b642fc44bcb520f27f7b97b075b34c2f19a1de0dfa01
 - a4496bc91403db7f920ddd6c8e67fe2289d070bc8c40c583256adefc73735eb5
+locations:
+- King County
 original_content: |-
   <h4>Eddie Gonzalez</h4>
   <h5>

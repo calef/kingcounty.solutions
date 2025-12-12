@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - ffec31c149c17f4382104ab1a4295792807ce91f9cb77443f729ee94070031da
+locations:
+- Eastside
 original_content: |-
   <h2>“By writing this poem, I found freedom.”</h2>
   <p>For most of his life, Omar* felt invisible. <img decoding="async" class="alignright wp-image-13022 size-large" src="https://www.youtheastsideservices.org/wp-content/uploads/2025/08/Omars-Poem-3-501x1025.png" alt="The Invisible Kid a poem by YES client Omar" width="501" height="1025" srcset="https://www.youtheastsideservices.org/wp-content/uploads/2025/08/Omars-Poem-3-501x1025.png 501w, https://www.youtheastsideservices.org/wp-content/uploads/2025/08/Omars-Poem-3-147x300.png 147w, https://www.youtheastsideservices.org/wp-content/uploads/2025/08/Omars-Poem-3-768x1570.png 768w, https://www.youtheastsideservices.org/wp-content/uploads/2025/08/Omars-Poem-3-751x1536.png 751w, https://www.youtheastsideservices.org/wp-content/uploads/2025/08/Omars-Poem-3-1002x2048.png 1002w, https://www.youtheastsideservices.org/wp-content/uploads/2025/08/Omars-Poem-3.png 1080w" sizes="(max-width: 501px) 100vw, 501px" /></p>

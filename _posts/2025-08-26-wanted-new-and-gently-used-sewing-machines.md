@@ -5,6 +5,8 @@ events_extracted: true
 images:
 - 52871b2cd8c1267017523dc6f53682b58ecfd117bc1ebf4da894ed98ffffd79a
 - 329ed2b5e5f5ec1b587dd9bb444fd75c5d87465fdaeb15c53d6424b3c997687a
+locations:
+- King County
 original_content: "<p class=\"\">Sewing machines are needed to accommodate the growing
   number of students in the EF Essential Skills program. </p><p class=\"\">Essential
   Skills programs provide skill-building and build community connections for refugees,

@@ -3,6 +3,8 @@ date: '2025-12-10T11:00:00+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong><strong>Robert W. Burrage Joins Operation Homefront’s National Board of Directors</strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></strong></p>
 

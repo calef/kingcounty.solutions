@@ -1,6 +1,7 @@
 ---
 date: '2025-12-10T00:56:37+00:00'
 images: []
+locations: []
 original_content: The City of Seattle has awarded $935,448 to support 23 community-initiated
   projects through the Seattle Department of Neighborhoods’ Neighborhood Matching
   Fund Community Partnership Fund. These community groups received awards averaging

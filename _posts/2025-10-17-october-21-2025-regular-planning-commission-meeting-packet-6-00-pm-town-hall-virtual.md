@@ -1,6 +1,7 @@
 ---
 date: '2025-10-17T17:25:42+00:00'
 images: []
+locations: []
 original_content: |-
   [COMPLETE PACKET](https://yarrowpointwa.gov/wp-content/uploads/2025/10/10-October-21-2025-Regular-Meeting.pdf)
 

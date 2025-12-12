@@ -3,6 +3,8 @@ date: '2025-10-22T18:24:42+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: 'Last week, we called on the City of Seattle to add $10 million
   to the 2026 City budget for tenant-based rental assistance.  We’ve joined with our
   colleagues and have multiple organizations supporting this budget ask. This is what

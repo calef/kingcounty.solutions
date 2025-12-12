@@ -3,6 +3,8 @@ date: '2025-06-16T20:30:31+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- Vashon
 original_content: This media release was originally posted on King County Executive
   News on June 16, 2025. Midday service to Vashon Island on the King County Water
   Taxi will continue at least through June 2027. The necessary funding for these year-round,

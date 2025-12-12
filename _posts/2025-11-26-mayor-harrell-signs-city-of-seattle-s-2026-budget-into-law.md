@@ -3,6 +3,8 @@ date: '2025-11-26T20:48:01+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: Seattle – This week, Mayor Bruce Harrell signed the City of Seattle’s
   2026 budget into law, totaling $8.9 billion in appropriations overall and $2.0 billion
   toward General Fund priorities.&#160; Passed unanimously by the City Council last

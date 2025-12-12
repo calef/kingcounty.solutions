@@ -3,6 +3,8 @@ date: '2025-10-22T19:46:28+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p>Are you a registered voter in Seattle? The Prop 1 will be on your ballot this November. This proposition renews the Family, Education, Preschool, and Promise (FEPP) Levy for the next seven years. Funds from the FEPP Levy support the Seattle Preschool Program and help families access child care as well as support the Seattle Promise for K-12 educational supports.</p>
 

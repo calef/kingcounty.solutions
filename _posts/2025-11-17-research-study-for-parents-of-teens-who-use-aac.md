@@ -2,8 +2,8 @@
 date: '2025-11-17T19:43:38+00:00'
 events: []
 events_extracted: true
-images:
-- 53321c83715bb8bcec0eb7c78be2d9767c797023490df36e70feb81de06a3e39
+images: []
+locations: []
 original_content: "<div class=\"wpb-content-wrapper\">\r\n<div  data-mk-stretch-content=\"true\"
   class=\"wpb_row vc_row vc_row-fluid jupiter-donut- mk-fullwidth-false  attched-false
   \    js-master-row  mk-grid\">\r\n\t\t\t\t\r\n<div class=\"vc_col-sm-9 wpb_column
@@ -150,6 +150,7 @@ original_markdown_body: "## [Home](https://ihdd.org/)\n\n## Research Study for P
   \       \n        </ul>\n        </section>\t</div>\r\n</aside>\n\nThe post [Research
   Study for Parents of Teens Who Use AAC](https://ihdd.org/2025/11/17/research-study-for-parents-of-teens-who-use-aac/)
   appeared first on [UW IHDD](https://ihdd.org)."
+published: false
 source: Institute on Human Development and Disability
 source_url: https://ihdd.org/2025/11/17/research-study-for-parents-of-teens-who-use-aac/
 summarized: true

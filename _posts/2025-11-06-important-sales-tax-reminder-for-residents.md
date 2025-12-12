@@ -1,6 +1,7 @@
 ---
 date: '2025-11-06T19:42:36+00:00'
 images: []
+locations: []
 original_content: |-
   Dear Yarrow Point Residents,
 

@@ -1,6 +1,7 @@
 ---
 date: '2025-06-26T19:13:13+00:00'
 images: []
+locations: []
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Bellevue
   celebrates new public art additions with artist reception</span>\n<span class=\"field
   field--name-uid field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"

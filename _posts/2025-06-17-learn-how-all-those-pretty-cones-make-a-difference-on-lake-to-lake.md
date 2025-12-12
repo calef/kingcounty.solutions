@@ -1,6 +1,7 @@
 ---
 date: '2025-06-17T21:14:04+00:00'
 images: []
+locations: []
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Learn
   how all those pretty cones make a difference on Lake to Lake</span>\n<span class=\"field
   field--name-uid field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"

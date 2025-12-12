@@ -1,6 +1,7 @@
 ---
 date: '2025-11-19T22:08:05+00:00'
 images: []
+locations: []
 original_content: |-
   <p>The following Tribal Members will receive tickets to PWHL &amp; Seattle U Basketball al Games at Climate Pledge Arena</p>
   <p>All tickets will be distributed electronically to the email on file and do require a Ticketmaster account. If you are unable to attend your game please email <strong>TCR@snoqualmietribe.us</strong> at your earliest convenience.</p>

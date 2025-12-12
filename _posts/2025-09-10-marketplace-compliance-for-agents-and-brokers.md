@@ -1,6 +1,7 @@
 ---
 date: '2025-09-10T16:38:11-04:00'
 images: []
+locations: []
 original_content: "<p>artifact_description: Webinar Slides</p><p>date: Wed, 10 Sep
   2025 23:38:47 -0400</p><p>title: Marketplace Compliance for Agents and Brokers</p><p>topic:
   Compliance</p>"
