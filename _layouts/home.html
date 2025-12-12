@@ -14,20 +14,20 @@ title: Home
 {% assign now_iso = site.time | date_to_xmlschema %}
 {% assign upcoming_events = site.events | sort: 'start_date' %}
 
-<div class="home-columns">
-  <section class="home-column">
-    <header class="home-column-header">
+<div class="card-columns">
+  <section class="card-column">
+    <header class="card-column-header">
       <h2>Latest News</h2>
     </header>
     {% if recent_posts.size > 0 %}
-    <ul class="home-list">
+    <ul class="card-list">
       {% for post in recent_posts limit: 20 %}
       <li>
-        <article class="home-item">
-          <p class="home-item-meta">{% include ap-date.html value=post.date %}</p>
+        <article class="card-item">
+          <p class="card-item-meta">{% include ap-date.html value=post.date %}</p>
           <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
           {% if post.excerpt %}
-          <p class="home-item-summary">{{ post.excerpt | strip_html | truncate: 140 }}</p>
+          <p class="card-item-summary">{{ post.excerpt | strip_html | truncate: 140 }}</p>
           {% endif %}
         </article>
       </li>
@@ -36,26 +36,26 @@ title: Home
     {% else %}
     <p>No news items are available right now.</p>
     {% endif %}
-    <p class="home-list-link"><a href="{{ '/news/' | relative_url }}">See all news</a></p>
+    <p class="card-list-link"><a href="{{ '/news/' | relative_url }}">See all news</a></p>
   </section>
 
-  <section class="home-column">
-    <header class="home-column-header">
+  <section class="card-column">
+    <header class="card-column-header">
       <h2>Upcoming Events</h2>
     </header>
     {% if upcoming_events.size > 0 %}
-    <ul class="home-list">
+    <ul class="card-list">
       {% for event in upcoming_events limit: 20 %}
       <li>
         {% capture home_event_date %}{% include ap-date.html value=event.start_date %}{% endcapture %}
         {% assign home_event_date = home_event_date | strip %}
         {% capture home_event_time %}{% include ap-time.html value=event.start_date %}{% endcapture %}
         {% assign home_event_time = home_event_time | strip %}
-        <article class="home-item">
-          <p class="home-item-meta">{{ home_event_date }}{% if home_event_time != '' %} at {{ home_event_time }}{% endif %}</p>
+        <article class="card-item">
+          <p class="card-item-meta">{{ home_event_date }}{% if home_event_time != '' %} at {{ home_event_time }}{% endif %}</p>
           <h3><a href="{{ event.url | relative_url }}">{{ event.title }}</a></h3>
           {% if event.excerpt %}
-          <p class="home-item-summary">{{ event.excerpt | strip_html | truncate: 140 }}</p>
+          <p class="card-item-summary">{{ event.excerpt | strip_html | truncate: 140 }}</p>
           {% endif %}
         </article>
       </li>
@@ -64,6 +64,6 @@ title: Home
     {% else %}
     <p>No upcoming events are scheduled right now.</p>
     {% endif %}
-    <p class="home-list-link"><a href="{{ '/events/' | relative_url }}">See all events</a></p>
+    <p class="card-list-link"><a href="{{ '/events/' | relative_url }}">See all events</a></p>
   </section>
 </div>
