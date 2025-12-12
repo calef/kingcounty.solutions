@@ -1,7 +1,6 @@
 ---
 date: '2025-02-25T23:24:23+00:00'
-events:
-- 2027-03-25-constellation-center-celebration
+events: []
 events_extracted: true
 images:
 - ba94f94ce6bd7320dd3abc15d2c5dd8c6c4c4f56f2756d8846efff5cee90599c
