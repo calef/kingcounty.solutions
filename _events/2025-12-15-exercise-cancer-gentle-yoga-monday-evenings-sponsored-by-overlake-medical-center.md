@@ -55,14 +55,15 @@ original_markdown_body: 'Lifeline | 206.297.2500 | 1.800.255.5505 | Lifeline Cha
   1-206-297-2100   I’m New   FAQ Classes Support Groups Programs & Services   About
   Us   Team History Partnerships & Sponsors Jobs Privacy Policy Contact Us   Get Involved   Ways
   to Give Volunteer with Us Donate Now Planned Giving'
-published: false
 source: Cancer Lifeline Financial Assistance for Cancer Patients
 source_url: https://cancerlifeline.org/event/exercise-cancer-gentle-yoga-monday-evenings-sponsored-by-overlake-medical-center-9/2025-12-15/
 start_date: '2025-12-15T18:30:00-08:00'
 summarized: true
 title: 'Exercise & Cancer: Gentle Yoga Monday Evenings Sponsored by Overlake Medical
   Center'
-topics: []
+topics:
+- Health Care
+- Mental Health & Counseling
 ---
 
 Join Overlake Medical Center for "Exercise & Cancer: Gentle Yoga" on Monday evenings starting December 15 at 6:30 p.m. This online series offers a nurturing practice that includes soothing stretches, therapeutic postures, guided meditation, and breathwork. Participants can expect to release tension, promote relaxation, and enhance overall well-being in a supportive environment. The class runs from 6:30 p.m. to 7:45 p.m. PST. Whether you are managing cancer or simply looking for a gentle way to stay active, this yoga session is designed for all levels. For assistance with registration or joining the class, contact the Telephone Lifeline at 206-297-2500 during business hours.

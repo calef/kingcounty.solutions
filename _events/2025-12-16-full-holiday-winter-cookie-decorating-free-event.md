@@ -107,7 +107,8 @@ source_url: https://empoweryouthnetwork.org/event/holiday-winter-cookie-decorati
 start_date: '2025-12-16T15:00:00+00:00'
 summarized: true
 title: "*FULL* Holiday & Winter Cookie Decorating - Free Event"
-topics: []
+topics:
+- Education & Learning
 ---
 
 Join us for a festive afternoon of holiday and winter cookie decorating at Tolt Middle School on Dec. 16 from 3 to 4 p.m. This free event, organized by Empower Youth Network, invites middle and high school students to unleash their creativity by decorating sugar cookies with winter and holiday themes. Attendees can customize their cookies while enjoying snacks and hot cocoa. Please note that registration is full, but if you can no longer attend, kindly reach out to the event organizers. Parents and guardians are encouraged to drop off their youth, ensuring a safe and supervised environment for peer interaction. Don't miss this delightful opportunity to celebrate the season!

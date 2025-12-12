@@ -118,7 +118,8 @@ source_url: https://www.elcentrodelaraza.org/event/community-air-quality-worksho
 start_date: '2026-01-22T18:00:00-08:00'
 summarized: true
 title: Community Air Quality Workshop
-topics: []
+topics:
+- Transportation & Mobility
 ---
 
 Join us for the Community Air Quality Workshop on Jan. 22, 2026, from 6 to 7:30 p.m. at the Centilia Cultural Center, located at 1660 S. Plaza Roberto Maestas Festival St. in Seattle. This free event, hosted by El Centro de la Raza, offers an opportunity to learn about air quality issues affecting our neighborhoods. Attendees will hear from a University of Washington professor, engage in community discussions, and help shape future workshops. In addition, participants will have a chance to win exciting door prizes, including transit passes, air purifiers, and bicycles. Come connect with your community and contribute to cleaner air solutions!

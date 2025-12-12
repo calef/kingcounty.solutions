@@ -2,7 +2,7 @@
 
 require_relative '../../test_helper'
 require 'minitest/autorun'
-require_relative '../../../lib/mayhem/news/post_summarizer'
+require_relative '../../../lib/mayhem/summarizer/post_summarizer'
 
 class PostSummarizerTest < Minitest::Test
   def setup
@@ -123,5 +123,38 @@ class PostSummarizerTest < Minitest::Test
 
     assert_empty document.front_matter['locations']
     assert_empty document.front_matter['images']
+  end
+
+  def test_run_skips_classification_when_topics_and_locations_explicitly_empty
+    write_post('2025-01-05-test.md', {
+                 'source_url' => 'http://ok',
+                 'summarized' => true,
+                 'topics' => [],
+                 'locations' => []
+               }, 'body')
+
+    topic_classifier = Object.new
+    def topic_classifier.classify(*)
+      raise 'should not be invoked when topics already exist'
+    end
+
+    location_classifier = Object.new
+    def location_classifier.classify(*)
+      raise 'should not be invoked when locations already exist'
+    end
+
+    summarizer = Mayhem::News::PostSummarizer.new(
+      posts_dir: @tmp_posts,
+      topic_dir: @tmp_topics,
+      http_client: Object.new,
+      logger: @logger,
+      client: Object.new,
+      topic_classifier: topic_classifier,
+      location_classifier: location_classifier
+    )
+
+    stats = summarizer.run
+
+    assert_equal 0, stats[:updated]
   end
 end

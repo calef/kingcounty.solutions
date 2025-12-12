@@ -1,5 +1,7 @@
 ---
 date: '2025-12-11T03:30:37+00:00'
+events: []
+events_extracted: true
 images: []
 locations:
 - Snoqualmie Valley

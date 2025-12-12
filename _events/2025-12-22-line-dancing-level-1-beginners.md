@@ -65,13 +65,13 @@ original_markdown_body: Skip to content             We used to be called the Sen
   12:00 pm     Line Dancing Level 2 Advanced Monday, December 15, 2025 at 12:00 pm
   - 1:00 pm     Ukes Sing-along Monday, December 15, 2025 at 1:00 pm - 2:30 pm             Calendar                 Scroll
   To Top  {"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://wscenter.org/wp-includes/js/wp-emoji-release.min.js?ver=6.9"}}
-published: false
 source: The Center for Active Living
 source_url: https://wscenter.org/event/line-dancing-level-1-beginners-2-2/2025-12-22/
 start_date: '2025-12-22T11:00:00-08:00'
 summarized: true
 title: Line Dancing Level 1 Beginners
-topics: []
+topics:
+- Senior Services
 ---
 
 Join the Line Dancing Level 1 Beginners class on Monday, Dec. 22, 2025, from 11 a.m. to noon at The Center for Active Living, located at 4217 SW Oregon St., Seattle. This engaging session, led by experienced instructor Chris Banta, is perfect for those new to line dancing or looking to refine their skills. Participants will learn simple beginner dances set to a variety of music, including traditional country, ballroom, Latin, and waltz. Line dancing not only provides a fun way to exercise but also helps keep the mind sharp. All students are welcome, regardless of experience level. Don’t miss this opportunity to dance and socialize!

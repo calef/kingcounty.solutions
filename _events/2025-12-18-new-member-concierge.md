@@ -69,7 +69,8 @@ source_url: https://wscenter.org/event/new-member-concierge/2025-12-18/
 start_date: '2025-12-18T11:00:00-08:00'
 summarized: true
 title: New Member Concierge
-topics: []
+topics:
+- Senior Services
 ---
 
 Join The Center for Active Living for the New Member Concierge on Thursday, Dec. 18, 2025, from 11 a.m. to 1:30 p.m. at 4217 SW Oregon St., Seattle. This event is designed for new and newer members to get acquainted with the center and its offerings. Cynthia, a dedicated volunteer, will be available upstairs in Margie’s Cafe to answer questions, introduce attendees to fellow members, and recommend classes and programs. She will also provide information about upcoming events. The Member Concierge service is available Mondays, Wednesdays, and Thursdays from 11 a.m. to 1:30 p.m. Don't miss this opportunity to connect and learn more about the community!
