@@ -1,5 +1,7 @@
 ---
 date: '2025-12-11T16:17:05+00:00'
+events: []
+events_extracted: true
 images: []
 locations:
 - Federal Way

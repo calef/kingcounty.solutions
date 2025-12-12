@@ -1,5 +1,8 @@
 ---
 date: '2025-12-11T19:28:06+00:00'
+events:
+- 2026-01-06-mind-full-aging-support-series
+events_extracted: true
 images: []
 locations:
 - Shoreline

@@ -7709,7 +7709,8 @@ source_url: https://nosscr.org/event/continuing-education-webinar-7/
 start_date: '2026-02-18T15:00:00-05:00'
 summarized: true
 title: Continuing Education Webinar
-topics: []
+topics:
+- Education & Learning
 ---
 
 Join us for a continuing education webinar on Feb. 18, 2026, at 3 p.m. EST. This engaging online event will provide attendees with valuable insights and knowledge on a variety of topics relevant to professional development. Participants can expect expert speakers, interactive discussions, and opportunities to ask questions, making it an excellent chance to enhance your skills and network with peers. Don’t miss this opportunity to invest in your future and stay updated in your field from the comfort of your home.

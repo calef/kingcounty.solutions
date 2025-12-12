@@ -30,13 +30,13 @@ original_markdown_body: 'Events    « All Events    Event Series:    Volunteer R
   process before attending Volunteer Repair Parties.   BIKE WORKS WAREHOUSE   3715
   S Hudson St #111 Seattle, Washington 98118 United States  + Google Map    Related   Event
   Navigation  « Warehouse sale Volunteer Repair Party »'
-published: false
 source: Bike Works
 source_url: https://bikeworks.org/event/volunteer-repair-party/2026-03-09/
 start_date: '2026-03-09T18:00:00-07:00'
 summarized: true
 title: Volunteer Repair Party
-topics: []
+topics:
+- Transportation & Mobility
 ---
 
 Join the Volunteer Repair Party on March 9, 2026, from 6 p.m. to 9 p.m. at the Bike Works Warehouse, located at 3715 S Hudson St #111 in Seattle. This event invites adults aged 18 and up to assist with bike repairs, regardless of mechanical skill level. It's a great opportunity for those interested in volunteering with Bike Works to learn and contribute. Participants must complete an application and orientation process before attending. Whether you're a seasoned mechanic or a beginner, your help is welcome as you support the community and promote sustainable transportation.

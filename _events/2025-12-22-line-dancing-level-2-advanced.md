@@ -65,13 +65,13 @@ original_markdown_body: Skip to content             We used to be called the Sen
   12:00 pm     Line Dancing Level 2 Advanced Monday, December 15, 2025 at 12:00 pm
   - 1:00 pm     Ukes Sing-along Monday, December 15, 2025 at 1:00 pm - 2:30 pm             Calendar                 Scroll
   To Top  {"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://wscenter.org/wp-includes/js/wp-emoji-release.min.js?ver=6.9"}}
-published: false
 source: The Center for Active Living
 source_url: https://wscenter.org/event/line-dancing-level-2-advanced-2-2/2025-12-22/
 start_date: '2025-12-22T12:00:00-08:00'
 summarized: true
 title: Line Dancing Level 2 Advanced
-topics: []
+topics:
+- Senior Services
 ---
 
 Join the Line Dancing Level 2 Advanced class on Monday, December 22, 2025, from noon to 1 p.m. at The Center for Active Living, located at 4217 SW Oregon St. in Seattle. This class, led by experienced instructor Chris Banta, is perfect for those looking to elevate their line dancing skills. Attendees can expect to learn more complex dances set to a variety of music styles, including traditional country, ballroom, Latin, and waltz. Whether you're continuing your line dancing journey or seeking a fun way to stay active, this class welcomes all students.

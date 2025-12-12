@@ -61,7 +61,8 @@ source_url: https://cancerlifeline.org/event/writing-for-the-moment-sponsored-by
 start_date: '2025-12-18T13:00:00-08:00'
 summarized: true
 title: Writing For The Moment Sponsored by Cancer Lifeline
-topics: []
+topics:
+- Mental Health & Counseling
 ---
 
 Join Cancer Lifeline for "Writing For The Moment," an online workshop designed to help individuals affected by cancer express their experiences through writing. This event, taking place on December 18 from 1 to 3 p.m. PST, encourages participants of all writing levels to share their thoughts and feelings in a supportive environment. Attendees will discover the therapeutic power of writing without the pressure of critique. No prior experience is necessary, and participants can start at any time. This workshop offers a unique opportunity to process everyday life through creative expression.
