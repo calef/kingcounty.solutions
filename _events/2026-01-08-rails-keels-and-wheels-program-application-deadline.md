@@ -7,6 +7,7 @@ locations:
 original_markdown_body: Deadline for applications for the Rails, Keels, and Wheels
   program, offering approximately $25 million for transitioning medium- and heavy-duty
   vehicles to all-electric models.
+published: false
 source: Department of Commerce
 source_url: https://www.commerce.wa.gov/november-2025-transportation-electrification-open-funding-opportunities/
 start_date: '2026-01-08T00:00:00-08:00'

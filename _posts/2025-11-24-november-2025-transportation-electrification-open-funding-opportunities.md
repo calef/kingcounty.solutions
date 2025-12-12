@@ -1,7 +1,6 @@
 ---
 date: '2025-11-24T21:56:43+00:00'
-events:
-- 2026-01-08-rails-keels-and-wheels-program-application-deadline
+events: []
 events_extracted: true
 images: []
 locations:
