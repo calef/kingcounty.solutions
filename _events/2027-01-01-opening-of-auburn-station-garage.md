@@ -6,6 +6,7 @@ locations:
 - King County
 original_markdown_body: A new six-story garage providing 675 spaces, including artwork
   by local artist Samuel Obrovac.
+published: false
 source: Sound Transit
 source_url: https://www.soundtransit.org/blog/platform/construction-update-new-parking-garages-more-sumner-auburn-kent
 start_date: '2027-01-01T00:00:00-08:00'

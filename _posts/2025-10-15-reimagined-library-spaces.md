@@ -1,7 +1,6 @@
 ---
 date: '2025-10-15T17:11:24+00:00'
 events:
-- 2026-10-01-auburn-library-redesign
 - 2026-01-01-des-moines-library-redesign
 - 2026-01-01-south-center-library-redesign
 events_extracted: true
