@@ -1,7 +1,6 @@
 ---
 date: '2025-11-21T18:26:03+00:00'
-events:
-- 2025-12-23-holiday-lights-outing
+events: []
 events_extracted: true
 images: []
 locations: []
