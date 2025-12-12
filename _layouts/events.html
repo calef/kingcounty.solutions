@@ -4,12 +4,17 @@ layout: default
 
 {%- assign event_date = page.event_date -%}
 {%- if event_date -%}
-  {%- capture formatted_event_date -%}
+  {%- capture short_event_date -%}
     {% include ap-date.html value=event_date %}
   {%- endcapture -%}
-  {%- assign formatted_event_date = formatted_event_date | strip -%}
+  {%- assign short_event_date = short_event_date | strip -%}
+  {%- capture long_event_date -%}
+    {% include ap-date.html value=event_date show_weekday=true %}
+  {%- endcapture -%}
+  {%- assign long_event_date = long_event_date | strip -%}
 {%- else -%}
-  {%- assign formatted_event_date = "Upcoming events" -%}
+  {%- assign short_event_date = "Upcoming events" -%}
+  {%- assign long_event_date = short_event_date -%}
 {%- endif -%}
 {%- assign events_for_date = page.events -%}
 {%- assign event_count = events_for_date | size | default: 0 -%}
@@ -17,9 +22,9 @@ layout: default
 <article class="events-layout">
   <header class="events-header">
     <div class="events-header__content">
-      {% include breadcrumbs.html root_url="/events/" root_label="Events" current=formatted_event_date %}
+      {% include breadcrumbs.html root_url="/events/" root_label="Events" current=short_event_date %}
       <h1>
-        Events on {{ formatted_event_date }}
+        Events on {{ long_event_date }}
       </h1>
       {%- if page.content and page.content != '' -%}
         <div class="events-intro">
@@ -98,7 +103,7 @@ layout: default
 
         <div class="news-pagination-group news-pagination-center">
           <span class="news-pagination-page-count">
-            {{ formatted_event_date }}
+            {{ long_event_date }}
           </span>
         </div>
 

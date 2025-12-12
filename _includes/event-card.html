@@ -22,6 +22,18 @@
   {%- assign end_value = event.end_date -%}
   {%- assign event_date_text = nil -%}
   {%- assign event_time_text = nil -%}
+  {%- assign start_date_only = nil -%}
+  {%- if start_value -%}
+    {%- assign start_date_only = start_value | date: "%Y-%m-%d" -%}
+  {%- endif -%}
+  {%- assign end_date_only = nil -%}
+  {%- if end_value -%}
+    {%- assign end_date_only = end_value | date: "%Y-%m-%d" -%}
+  {%- endif -%}
+  {%- assign show_end_date = false -%}
+  {%- if start_date_only and end_date_only and start_date_only != end_date_only -%}
+    {%- assign show_end_date = true -%}
+  {%- endif -%}
   {%- if start_value -%}
     {%- capture event_date_text -%}{% include ap-date.html value=start_value %}{%- endcapture -%}
     {%- assign event_date_text = event_date_text | strip -%}
@@ -32,6 +44,25 @@
   {%- if end_value -%}
     {%- capture event_end_time_text -%}{% include ap-time.html value=end_value %}{%- endcapture -%}
     {%- assign event_end_time_text = event_end_time_text | strip -%}
+  {%- endif -%}
+  {%- assign event_end_date_text = nil -%}
+  {%- if end_value -%}
+    {%- capture event_end_date_text -%}{% include ap-date.html value=end_value %}{%- endcapture -%}
+    {%- assign event_end_date_text = event_end_date_text | strip -%}
+  {%- endif -%}
+  {%- assign event_end_display_text = nil -%}
+  {%- if end_value -%}
+    {%- capture event_end_display_text -%}
+      {%- if show_end_date and event_end_date_text and event_end_date_text != '' -%}
+        {{ event_end_date_text }}
+        {%- if event_end_time_text and event_end_time_text != '' -%}
+          {{ ' ' }}{{ event_end_time_text }}
+        {%- endif -%}
+      {%- elsif event_end_time_text and event_end_time_text != '' -%}
+        {{ event_end_time_text }}
+      {%- endif -%}
+    {%- endcapture -%}
+    {%- assign event_end_display_text = event_end_display_text | strip -%}
   {%- endif -%}
   {%- assign excerpt_source = event.excerpt | default: event.content -%}
   {%- if excerpt_source -%}
@@ -60,8 +91,8 @@
         {%- if event_time_text and event_time_text != '' -%}
           <span class="event-time">{%- if show_event_date -%} • {%- endif -%}{{ event_time_text }}</span>
         {%- endif -%}
-        {%- if event_end_time_text and event_end_time_text != '' -%}
-          <span class="event-time-range"> – {{ event_end_time_text }}&nbsp;</span>
+        {%- if event_end_display_text and event_end_display_text != '' -%}
+          <span class="event-time-range"> – {{ event_end_display_text }}&nbsp;</span>
         {%- endif -%}
         {%- if has_location -%}
           • <span class="event-location">{{ location_value }}</span>

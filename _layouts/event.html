@@ -22,6 +22,38 @@ layout: default
   {%- capture end_time_display -%}{% include ap-time.html value=end_value %}{%- endcapture -%}
   {%- assign end_time_display = end_time_display | strip -%}
 {%- endif -%}
+{%- assign when_datetime_value = start_value | default: end_value -%}
+{%- capture when_text -%}
+  {%- if start_value -%}
+    {{ start_date_display }}
+    {%- if start_time_display and start_time_display != '' -%}
+      {{ " " }}{{ start_time_display }}
+    {%- endif -%}
+  {%- endif -%}
+  {%- if end_value -%}
+    {%- if start_value -%}
+      {{ " - " }}
+      {%- if end_date_display and start_date_display and end_date_display != start_date_display -%}
+        {{ end_date_display }}
+        {%- if end_time_display and end_time_display != '' -%}
+          {{ " " }}{{ end_time_display }}
+        {%- endif -%}
+      {%- elsif end_time_display and end_time_display != '' -%}
+        {{ end_time_display }}
+      {%- endif -%}
+    {%- else -%}
+      {%- if end_date_display -%}
+        {{ end_date_display }}
+        {%- if end_time_display and end_time_display != '' -%}
+          {{ " " }}{{ end_time_display }}
+        {%- endif -%}
+      {%- elsif end_time_display and end_time_display != '' -%}
+        {{ end_time_display }}
+      {%- endif -%}
+    {%- endif -%}
+  {%- endif -%}
+{%- endcapture -%}
+{%- assign when_text = when_text | strip -%}
 {%- assign location_value = page.location -%}
 {%- assign source_text = page.source | default: page.source_url -%}
 {%- assign calendar_timezone = site.timezone | default: "America/Los_Angeles" -%}
@@ -148,35 +180,22 @@ END:VCALENDAR
   <section>
     <table class="event-detail-meta">
       <tbody>
-        {% if start_value %}
+        {% if when_text != '' %}
           <tr class="event-detail-meta-row">
-            <th scope="row">Starts</th>
+            <th scope="row">When</th>
             <td>
-              <time datetime="{{ start_value | date_to_xmlschema }}" itemprop="startDate">
-                {{ start_date_display }}
-                {%- if start_time_display and start_time_display != '' -%}
-                  <span class="event-meta-time"> • {{ start_time_display }}</span>
-                {%- endif -%}
+              <time datetime="{{ when_datetime_value | date_to_xmlschema }}" itemprop="startDate">
+                {{ when_text }}
               </time>
-            </td>
-          </tr>
-        {% endif %}
-        {% if end_value %}
-          <tr class="event-detail-meta-row">
-            <th scope="row">Ends</th>
-            <td>
-              <time datetime="{{ end_value | date_to_xmlschema }}" itemprop="endDate">
-                {{ end_date_display }}
-                {%- if end_time_display and end_time_display != '' -%}
-                  <span class="event-meta-time"> • {{ end_time_display }}</span>
-                {%- endif -%}
-              </time>
+              {% if end_value %}
+                <meta itemprop="endDate" content="{{ end_value | date_to_xmlschema }}">
+              {% endif %}
             </td>
           </tr>
         {% endif %}
         {% if location_plain != '' %}
           <tr class="event-detail-meta-row">
-            <th scope="row">Location</th>
+            <th scope="row">Where</th>
             <td itemprop="location">
               {% if location_has_address %}
                 {% assign maps_query = location_value | uri_escape %}
@@ -193,7 +212,7 @@ END:VCALENDAR
         {% endif %}
         {% if source_text %}
           <tr class="event-detail-meta-row">
-            <th scope="row">Source</th>
+            <th scope="row">Organization</th>
             <td>
               {% assign matching_org = nil %}
               {% if page.source %}
