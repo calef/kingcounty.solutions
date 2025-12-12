@@ -68,7 +68,8 @@ source_url: https://music.washington.edu/events/2026-02-05/guest-pianist-master-
 start_date: '2026-02-05T15:30:00-08:00'
 summarized: true
 title: 'Guest Pianist Master Class: Stephanie Cheng'
-topics: []
+topics:
+- Education & Learning
 ---
 
 Join us for an enlightening guest pianist master class featuring renowned pianist Stephanie Cheng on Feb. 5, 2026, at 3:30 p.m. in the Music Building (MUS). Attendees can expect an engaging experience as Cheng shares her expertise, offering valuable insights into piano technique and performance. Whether you're a student, a music enthusiast, or simply curious about the art of piano playing, this master class promises to be both inspiring and educational. Don’t miss this opportunity to learn from a distinguished artist and enhance your musical skills!

@@ -59,16 +59,16 @@ original_markdown_body: 'Lifeline | 206.297.2500 | 1.800.255.5505 | Lifeline Cha
   Classes Support Groups Programs & Services   About Us   Team History Partnerships
   & Sponsors Jobs Privacy Policy Contact Us   Get Involved   Ways to Give Volunteer
   with Us Donate Now Planned Giving'
-published: false
 source: Cancer Lifeline Financial Assistance for Cancer Patients
 source_url: https://cancerlifeline.org/event/embracing-our-whole-selves-in-our-life-journey-through-poetry-sponsored-by-evergreenhealth/2025-12-16/
 start_date: '2025-12-16T11:00:00-08:00'
 summarized: true
 title: Embracing Our Whole Selves In Our Life-Journey Through Poetry Sponsored by
   EvergreenHealth
-topics: []
+topics:
+- Mental Health & Counseling
 ---
 
-Join John Fox and Susan O’Connell for "Embracing Our Whole Selves In Our Life-Journey Through Poetry," a three-part online event sponsored by EvergreenHealth, on Dec. 16 from 11 a.m. to 1 p.m. PST. This workshop invites participants to engage in deep listening, self-expression, and kindness through poetry. Attendees will explore their personal journeys and feel safe to share their truths, with no prior poetry experience required. 
+Join John Fox and Susan O’Connell for "Embracing Our Whole Selves In Our Life-Journey Through Poetry," a three-part online event sponsored by EvergreenHealth, on Dec. 16 from 11 a.m. to 1 p.m. PST. This workshop invites participants to engage in deep listening, self-expression, and kindness through poetry. Attendees will explore their personal journeys and feel safe to share their truths, with no prior poetry experience required.
 
 Connect with others in a supportive environment as you discover the power of poetry as a catalyst for self-discovery and healing. Don’t miss this opportunity to embrace your whole self through creative expression.

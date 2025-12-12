@@ -1,5 +1,7 @@
 ---
 date: '2025-12-11T19:30:00+00:00'
+events: []
+events_extracted: true
 images: []
 locations:
 - King County
