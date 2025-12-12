@@ -1,6 +1,7 @@
 ---
 date: '2025-08-01T16:24:01+00:00'
 images: []
+locations: []
 original_content: "The City Council is seeking applications for Councilmember pro
   tem for Position 6.&nbsp; To be eligible for the position, an applicant must be
   registered to vote in Tukwila and a resident of Tukwila for at least one year prior

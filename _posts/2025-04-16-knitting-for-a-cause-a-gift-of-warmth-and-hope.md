@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - d650bfae9e376c9123ddf8023c94f88d476c28cbe8678a7e58b09c626ff4e37b
+locations:
+- King County
 original_content: |-
   <p><img width="300" height="188" src="https://blog.valleymed.org/wp-content/uploads/2025/04/IMG_2386_Knitting-for-a-Cause-300x188.jpg" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://blog.valleymed.org/wp-content/uploads/2025/04/IMG_2386_Knitting-for-a-Cause-300x188.jpg 300w, https://blog.valleymed.org/wp-content/uploads/2025/04/IMG_2386_Knitting-for-a-Cause-768x480.jpg 768w, https://blog.valleymed.org/wp-content/uploads/2025/04/IMG_2386_Knitting-for-a-Cause-600x375.jpg 600w, https://blog.valleymed.org/wp-content/uploads/2025/04/IMG_2386_Knitting-for-a-Cause.jpg 800w" sizes="auto, (max-width: 300px) 100vw, 300px" /></p>
   <p>For Shirley Apeland, a single knitted hat carried warmth far beyond its stitches. During her own cancer treatment 10 years ago, losing her hair was one of the hardest challenges she faced. But when she received a knitted hat, it wasn’t just about keeping warm—it was a gesture of kindness, a reminder that someone cared and understood. That act of generosity stayed with her, and in time, she felt called to do the same for others.</p>

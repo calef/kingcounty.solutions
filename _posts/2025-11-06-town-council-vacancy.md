@@ -1,6 +1,7 @@
 ---
 date: '2025-11-06T19:32:02+00:00'
 images: []
+locations: []
 original_content: "**Notice: Town Council Vacancy**\n\n[Application for Appointment
   to Town Council](https://yarrowpointwa.gov/wp-content/uploads/2025/11/Application-for-Appointment-to-Town-Council.pdf)\n\nThe
   Town of Yarrow Point is requesting applications from residents to fill Councilmember

@@ -3,10 +3,12 @@ date: '2025-05-22T20:57:19+00:00'
 events: []
 events_extracted: true
 images: []
+locations: []
 original_content: On May 21st, the Tacoma Lincoln District community, the Asia and
   Pacific Islander community, local and state legislators, APCC and LIHI...
 original_markdown_body: On May 21st, the Tacoma Lincoln District community, the Asia
   and Pacific Islander community, local and state legislators, APCC and LIHI...
+published: false
 source: Low Income Housing Institute
 source_url: https://www.lihihousing.org/post/tacoma-community-celebrates-patsy-surh-place-grand-opening
 summarized: true

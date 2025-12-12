@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - 9c8a70d49cff03e17a2b40da1f70473522623ea595617db1ceec2f4ae1f3ecd7
+locations:
+- King County
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Council
   Roundup: Wilburton code update and rezone reviewed</span>\n<span class=\"field field--name-uid
   field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"

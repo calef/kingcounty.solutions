@@ -5,6 +5,8 @@ events_extracted: true
 images:
 - e2e65d74c0ec332331aa5e7e6476954b4b4639340754f8b5f94b2c0b8f905793
 - 6d4952cd9cfe313e50c1e9e081baa9ac5b1936ef03c849fe2a2ebd49389849f3
+locations:
+- King County
 original_content: |-
   <p class="has-text-align-center"><em><strong>Bridgette Gives Back to Military Families Out of Gratitude and Understanding</strong>&nbsp;</em></p>
 

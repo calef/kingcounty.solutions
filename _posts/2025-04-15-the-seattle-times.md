@@ -1,6 +1,7 @@
 ---
 date: '2025-04-15T20:13:34+00:00'
 images: []
+locations: []
 original_content: "<div class=\"article-byline\">\n        <div class=\"byline-text
   single_author u-dib\">\n        <span class=\"byline-copy\">By </span>\n        <div
   class=\"name vcard\">\n            <span itemprop=\"author\" itemscope itemtype=\"https://schema.org/Person\"><a

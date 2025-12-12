@@ -3,6 +3,8 @@ date: '2025-12-11T00:11:30+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: "<span>State disciplines health care providers (12-10-2025)</span>\n\n
   \           <div>\n<time>December 10, 2025 - 4:03pm</time>\n</div>\n      <span><span>Sharon.Moysiuk…</span></span>\n<span><time>December
   10, 2025 - 4:11pm</time>\n</span>\n\n  <div>\n    <div>News Category</div>\n          <div>\n

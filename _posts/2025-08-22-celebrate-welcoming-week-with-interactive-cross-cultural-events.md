@@ -3,6 +3,8 @@ date: '2025-08-22T16:23:15+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- Eastside
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Celebrate
   Welcoming Week with interactive, cross-cultural events</span>\n<span class=\"field
   field--name-uid field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"

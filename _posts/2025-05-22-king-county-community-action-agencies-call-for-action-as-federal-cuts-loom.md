@@ -3,6 +3,8 @@ date: '2025-05-22T14:31:37+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <div class="wp-block-columns container-narrow has-1-columns is-layout-flex wp-container-20 wp-block-columns-is-layout-flex">
   <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">

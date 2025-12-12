@@ -3,6 +3,8 @@ date: '2025-09-15T14:03:17+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- Vashon
 original_content: |-
   <div id="SITE_PAGES" class="JsJXaX SITE_PAGES"><div id="SITE_PAGES_TRANSITION_GROUP" class="AnQkDU"><div id="i0c4g" class="dBAkHi i0c4g">
   <div class="PFkO7r wixui-page" data-testid="page-bg"></div>

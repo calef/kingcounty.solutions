@@ -3,6 +3,8 @@ date: '2025-09-02T17:40:41+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- Vashon
 original_content: There’s going to be a celebration on the Seattle Waterfront on Saturday,
   September 6, and the King County Water Taxi is making sure people on Vashon can
   join the party! The Vashon Water Taxi will be sailing all day long that Saturday.

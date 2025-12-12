@@ -4,6 +4,8 @@ events:
 - 2026-01-01-award-decisions-for-housing-funding
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p class="has-medium-font-size"><strong>Applications for 6,791 housing units came from 23 counties.</strong></p>
 

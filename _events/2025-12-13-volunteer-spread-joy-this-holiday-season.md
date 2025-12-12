@@ -3,6 +3,8 @@ end_date: '2025-12-13T14:00:00-08:00'
 images: []
 location: Rainer Beach Community Center, 8825 Rainier Ave. S, Seattle, WA, 98118,
   United States
+locations:
+- King County
 original_content: '<div class="event-content"> <div class="event-container"> <div
   class="event-col"> <h3><strong data-olk-copy-source="MessageBody">Spread Joy with
   Community Passageways.</strong></h3> <p>United Way of King County is teaming up

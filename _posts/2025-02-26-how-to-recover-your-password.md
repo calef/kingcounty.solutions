@@ -1,6 +1,7 @@
 ---
 date: '2025-02-26T19:22:17+00:00'
 images: []
+locations: []
 original_content: |-
   <p>Forgetting a password can be stressful and time consuming. Here are a few tips to help you remember a forgotten password and recover them on various platforms.</p>
   <p><strong>Look in your web browser.</strong> Many browsers, like Google Chrome, Microsoft Edge, Safari, and Firefox store passwords for you. Each has a different way to access saved passwords but usually the top right corner of the screen will have three dots or lines that you click on to access the browser’s settings. Look for a “password” tab to find saved passwords for a variety of sites and applications.</p>

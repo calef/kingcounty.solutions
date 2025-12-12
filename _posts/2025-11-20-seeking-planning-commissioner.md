@@ -1,6 +1,7 @@
 ---
 date: '2025-11-20T21:43:13+00:00'
 images: []
+locations: []
 original_content: |-
   <p>The Town of Yarrow Point is seeking a resident to fill a vacancy on the Planning Commission.</p>
   <p>This is a volunteer position, and the appointed person will be filling an unexpired term that will end on December 31, 2028.</p>

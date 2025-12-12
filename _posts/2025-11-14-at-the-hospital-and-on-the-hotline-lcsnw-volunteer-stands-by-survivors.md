@@ -2,8 +2,8 @@
 date: '2025-11-14T00:20:20+00:00'
 events: []
 events_extracted: true
-images:
-- 367dcc0256be6da154c3ee9a5058b371ae3fd0fd0043db1ed98c138402eff6bf
+images: []
+locations: []
 original_content: "<p><div class=\"et_pb_section et_pb_section_0 blog-post-type et_section_regular\"
   >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_row
   et_pb_row_0\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4 et_pb_column_0
@@ -134,6 +134,7 @@ original_markdown_body: |-
    ![Teenagers and young adults stand in a group discussion](https://lcsnw.org/wp-content/uploads/2025/11/WendyBachman3.jpg "WendyBachman3")
 
   The post [At the hospital and on the hotline, LCSNW volunteer stands by survivors](https://lcsnw.org/2025/11/lcsnw-volunteer-stands-by-survivors/) appeared first on [LCSNW](https://lcsnw.org).
+published: false
 source: Lutheran Community Services Northwest
 source_url: https://lcsnw.org/2025/11/lcsnw-volunteer-stands-by-survivors/
 summarized: true

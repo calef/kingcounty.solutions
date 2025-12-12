@@ -2,8 +2,10 @@
 generated_from_post: true
 images: []
 location: Ballard Senior Center
+locations: []
 original_markdown_body: Dining event featuring vegetarian chili with cornbread and
   a fruit cup.
+published: false
 source: Ballard Northwest Senior Center
 source_url: https://ballardseniorcenter.org/dining-menu-december-8th-12th/
 start_date: '2025-12-12T12:00:00-08:00'

@@ -2,6 +2,8 @@
 generated_from_post: true
 images: []
 location: ''
+locations:
+- King County
 original_markdown_body: Members are invited to volunteer at least one hour for veterans,
   aiming to double participation this year.
 published: false

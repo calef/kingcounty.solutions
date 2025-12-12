@@ -1,6 +1,7 @@
 ---
 date: '2025-08-25T19:54:27+00:00'
 images: []
+locations: []
 original_content: "<div data-elementor-type=\"wp-post\" data-elementor-id=\"16525\"
   class=\"elementor elementor-16525\" data-elementor-post-type=\"post\">\n\t\t\t\t\t\t<section
   class=\"elementor-section elementor-top-section elementor-element elementor-element-65736d5

@@ -93,6 +93,12 @@ module Mayhem
         end
         handle_unpublished(document, stats) && return if frontmatter['published'] == false
 
+        unless frontmatter['summarized'] == true
+          stats[:skipped_unsummarized] += 1
+          logger.debug "Skipping #{path}: summarized is not true"
+          return
+        end
+
         if frontmatter.key?('images')
           stats[:already_has_images] += 1
           logger.debug "Skipping #{path}: images already present"
@@ -280,6 +286,7 @@ module Mayhem
           empties_added: stats[:empties_added],
           skipped_unpublished: stats[:skipped_unpublished],
           skipped_locked: stats[:skipped_locked],
+          skipped_unsummarized: stats[:skipped_unsummarized],
           already_has_images: stats[:already_has_images],
           missing_frontmatter: stats[:missing_frontmatter],
           missing_original_markdown: stats[:missing_original_markdown],

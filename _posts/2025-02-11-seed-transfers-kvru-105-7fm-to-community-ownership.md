@@ -1,6 +1,7 @@
 ---
 date: '2025-02-11T00:30:09+00:00'
 images: []
+locations: []
 original_content: |-
   <p>SouthEast Effective Development (SEED) and SEEDArts are pleased to announce that we have transferred operations and ownership of KVRU 105.7FM to Media for Informed Communities, led by Crystal Fincher and Monisha Harrell.</p>
 

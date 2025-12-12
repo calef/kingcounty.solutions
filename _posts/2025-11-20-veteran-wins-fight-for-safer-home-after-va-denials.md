@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - df0b7c9eaff2db9ab28cf72f8324841917027fd87e12c2960baf5ab82e47cece
+locations:
+- King County
 original_content: "<div class=\"editor clearfix\">\n\n    \n    <figure id=\"attachment_55407\"
   aria-describedby=\"caption-attachment-55407\" style=\"width: 300px\" class=\"wp-caption
   alignleft\"><img decoding=\"async\" class=\"size-full wp-image-55407\" src=\"https://www.dav.org/wp-content/uploads/Braven_Uniform.jpg\"

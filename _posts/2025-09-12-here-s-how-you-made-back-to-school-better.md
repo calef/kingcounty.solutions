@@ -27,6 +27,8 @@ images:
 - 063fa395185fff720aae08bac672e5c617f67ba971eb9125aea64429924d623a
 - e7bba1c6eab1896f7a9605729bb93de8f54ecca8ff3d2c41f3cd40c18dccb1a8
 - 016bbb2a3eb286a0c37d731aa43096aa061ae84f1db09e7aac119323547f4393
+locations:
+- King County
 original_content: "<p><img width=\"361\" height=\"255\" src=\"https://s14621.pcdn.co/wp-content/uploads/2025/09/Back2School-SandPoint-RG-08.25.2025-13-801x566-1-361x255.jpg\"
   class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"A mom
   smiles as she crouches down besides her young son wearing a backpack almost as big

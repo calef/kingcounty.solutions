@@ -1,6 +1,7 @@
 ---
 date: '2025-11-06T19:51:15+00:00'
 images: []
+locations: []
 original_content: '<a href="https://atyourservice.seattle.gov/2025/11/06/seattles-new-waste-metrics-measuring-what-matters-most/"
   title="Seattle’s New Waste Metrics: Measuring What Matters Most" rel="nofollow"><img
   width="150" height="150" src="https://atyourservice.seattle.gov/wp-content/uploads/sites/15/2025/11/SPU_Solid_Waste_Report_illustration-150x150.png"

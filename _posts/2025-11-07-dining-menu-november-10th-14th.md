@@ -3,6 +3,7 @@ date: '2025-11-07T23:00:00+00:00'
 events: []
 events_extracted: true
 images: []
+locations: []
 original_content: |-
   <p><strong>Monday ~</strong> Chicken Tamale Pie, Soup, Salad &amp; Fruit</p>
 

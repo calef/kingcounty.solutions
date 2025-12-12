@@ -3,6 +3,8 @@ date: '2025-12-02T19:30:00+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p>Sleep isn’t an indulgence. Your body needs <a href="https://news.va.gov/?s=sleep+">sleep</a>—and plenty of it.</p>
 

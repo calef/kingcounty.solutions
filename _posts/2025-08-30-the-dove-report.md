@@ -1,6 +1,7 @@
 ---
 date: '2025-08-30T01:18:07+00:00'
 images: []
+locations: []
 original_content: Check out DOVE's quarterly newsletter for the latest news and happenings
   at DOVE. Newsletter Link
 original_markdown_body: Check out DOVE's quarterly newsletter for the latest news

@@ -2,6 +2,8 @@
 generated_from_post: true
 images: []
 location: ''
+locations:
+- King County
 original_markdown_body: Join the organization for its 75th anniversary celebration.
 published: false
 source: Friends of Youth

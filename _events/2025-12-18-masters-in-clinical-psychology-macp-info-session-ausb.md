@@ -2,6 +2,7 @@
 end_date: '2025-12-18T17:00:00-08:00'
 images: []
 location: Virtual Events @ Antioch University
+locations: []
 original_content: '<div class="wp-site-blocks"> <header class="wp-block-template-part">
   <div class="wp-block-group alignfull antioch-header is-layout-flow wp-block-group-is-layout-flow">
   <div class="wp-block-group has-background-color has-primary-gray-background-color
@@ -448,6 +449,7 @@ original_markdown_body: Give Now Request Info Visit Apply Employment        Abou
   GSLC   December 10 @ 12:00 pm - 1:00 pm  EST       Event Navigation  « Undergraduate
   Programs Info Session | AU          Announcing the New President of Antioch University  Learn
   More
+published: false
 source: Antioch University
 source_url: https://www.antioch.edu/event/masters-in-clinical-psychology-macp-info-session-ausb-12-18-25/
 start_date: '2025-12-18T16:00:00-08:00'

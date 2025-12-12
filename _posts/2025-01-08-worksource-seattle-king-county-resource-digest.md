@@ -3,6 +3,8 @@ date: '2025-01-08T10:00:00+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p>Bi-Weekly Resource Digest</p>
   <p>The post <a href="https://worksourceskc.org/worksource-seattle-king-county-resource-digest/">Worksource Seattle-King County Resource Digest</a> appeared first on <a href="https://worksourceskc.org">WorkSource Seattle-King County</a>.</p>

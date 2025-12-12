@@ -5,6 +5,8 @@ events_extracted: true
 images:
 - f913e63d0f1687246aa3e056fa5c8cdfc76aae1d23c91e7db71d89e740c07303
 - c6d344def156695d5eeb4f251c22e65fc09fc7c8a03bd269557d5640a08cace6
+locations:
+- King County
 original_content: "<figure class=\"\n              sqs-block-image-figure\n              intrinsic\n
   \           \"\n        >\n          \n        \n        \n\n        \n          \n
   \           \n          \n            \n                \n                \n                \n

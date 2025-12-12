@@ -3,6 +3,8 @@ end_date: '2026-01-04T23:59:59-08:00'
 generated_from_post: true
 images: []
 location: ''
+locations:
+- Snoqualmie Valley
 original_markdown_body: The center will be closed for the holidays.
 published: false
 source: Sno-Valley Senior Center

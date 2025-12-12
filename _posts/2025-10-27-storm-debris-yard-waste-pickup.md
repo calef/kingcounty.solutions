@@ -1,6 +1,7 @@
 ---
 date: '2025-10-27T19:17:30+00:00'
 images: []
+locations: []
 original_content: MESSAGE TO NORMANDY PARK RESIDENTIAL CUSTOMERS. Recently, the City
   of Normandy Park designated a storm event occurrence that will impact Single-Family
   Residence Customers who subscribe to Yard Waste service. On both Tuesday, Oct. 28,

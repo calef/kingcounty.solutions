@@ -2,6 +2,8 @@
 end_date: '2026-03-05T19:30:00-08:00'
 images: []
 location: Music Building (MUS)
+locations:
+- King County
 original_content: <div class="field-items"> <div class="field-item"> <p>Guest pianist
   Jonathan Shames of the University of Oklahoma performs music by Schubert, Janacek,
   Szymanowski, and Chopin in his solo piano recital. </p> <h2>Program </h2> <p><strong>Schubert:</strong>

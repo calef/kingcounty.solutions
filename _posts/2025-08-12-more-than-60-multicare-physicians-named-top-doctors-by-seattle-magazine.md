@@ -3,6 +3,8 @@ date: '2025-08-12T18:36:42+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p>TACOMA, Wash. — Seattle Magazine has honored over 60 MultiCare physicians in its 25th annual “Top Doctors” issue. The list names the best physicians in the Puget Sound region.</p>
   <p>Doctors on this list were nominated by their peers — licensed physicians in the region — along with the help of Castle Connolly Medical Ltd., a health care research and information company that identifies the top doctors in America.</p>

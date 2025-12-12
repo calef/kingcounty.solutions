@@ -3,6 +3,7 @@ date: '2025-11-14T23:00:00+00:00'
 events: []
 events_extracted: true
 images: []
+locations: []
 original_content: |-
   <p><strong>Monday ~</strong> Sweet &amp; Sour Chicken w/brown rice, Eggroll &amp; Fruit<strong> </strong> </p>
 

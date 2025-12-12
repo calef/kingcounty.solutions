@@ -3,6 +3,8 @@ date: '2025-11-21T18:18:02+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: LIHI staff and volunteers are busily at work setting up two new
   villages: Olympic Hills Village in Seattle and Church By the Side of the Road Village
   (CBSR) in Tukwila. Olympic Hills Village, located at 3121 NE 133rd St, Seattle will

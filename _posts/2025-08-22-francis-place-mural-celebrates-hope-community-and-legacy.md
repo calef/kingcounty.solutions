@@ -1,6 +1,7 @@
 ---
 date: '2025-08-22T17:24:24+00:00'
 images: []
+locations: []
 original_content: |-
   <p>Beginning this August, a stroll down Bellingham&#8217;s waterfront Cornwall Street is sure to be brightened by a recent mural completed on the southern wall of Catholic Community Services (CCS) community, Francis Place. Painted by artist <a href="https://joeyrosestudio.com/" target="_blank" rel="noreferrer noopener">Joey Rose</a>, this mural was created in collaboration with Whatcom Community Foundation and Paper Whale, who selected Francis Place for the grand prize mural location in the 2024 <a href="https://www.noisywatersmuralfest.com/" target="_blank" rel="noreferrer noopener">Noisy Waters Festival</a>. Francis Place, an Archdiocesan Housing Authority building, provides 42 units of permanent supportive housing for those experiencing homelessness.  <br> <br>Joey Rose’s art is vibrant, yet familiarly symbolic; CCS staff were able to brainstorm how they could work with this style in a meaningful tribute to the Francis Place and Bellingham communities. Two key symbols appear in the mural: the raven and the huckleberry branch. </p>
 

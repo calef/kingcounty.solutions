@@ -3,6 +3,8 @@ date: '2025-12-05T14:30:00+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p>VA’s Office of Research and Development recently published three&nbsp;<a href="https://www.research.va.gov/news_briefs/default.cfm" rel="noopener">News Briefs</a>&nbsp;highlighting research advances on PTSD treatment, sleep apnea and a pilot food program.</p>
 

@@ -2,7 +2,7 @@
 end_date: '2026-01-23T00:00:00-08:00'
 images: []
 location: ''
-published: false
+locations: []
 original_content: <div class="container"> <section id="tribe-events-pg-template" class="tribe-events-pg-template">
   <div id="tribe-events-content" class="tribe-events-single"> <p class="tribe-events-back">
   <a href="https://www.dav.org/events-calendar/"> « All Events</a> </p> <h1 class="tribe-events-single-event-title">Tampa
@@ -37,6 +37,7 @@ original_content: <div class="container"> <section id="tribe-events-pg-template"
 original_markdown_body: "« All Events  Tampa Job Fair, January 22, 2026  January 22,
   2026    Find out more         Google Calendar     iCalendar     Outlook 365     Outlook
   Live           Details    Date:   January 22, 2026"
+published: false
 source: Disabled American Veterans
 source_url: https://www.dav.org/events-calendar/tampa-job-fair-january-22-2026/
 start_date: '2026-01-22T00:00:00-08:00'

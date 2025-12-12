@@ -1,6 +1,7 @@
 ---
 date: '2025-10-28T21:42:47+00:00'
 images: []
+locations: []
 original_content: "![Issaquah city EV vehicle](https://www.commerce.wa.gov/wp-content/uploads/2025/10/city-vehicle-1024x462.jpg)\n\n>
   “The CETCAP program was key in understanding the documentation that is needed for
   submission and maintain clear records to make filing easier.” – David Reedy, Sustainability

@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - 245a3dc8bcac6c9e5c288d34be55c24ae0a6fcb822953847bb2197a3fc2b1562
+locations:
+- King County
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Affordable
   housing explained as Bellevue updates strategy</span>\n<span class=\"field field--name-uid
   field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"

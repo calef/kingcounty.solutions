@@ -1,6 +1,7 @@
 ---
 date: '2025-12-05T21:30:00+00:00'
 images: []
+locations: []
 original_content: |-
   <h2 class="wp-block-heading">Explore what VA can offer you today</h2>
 

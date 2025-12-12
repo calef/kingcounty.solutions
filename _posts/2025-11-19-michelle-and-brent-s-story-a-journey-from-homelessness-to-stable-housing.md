@@ -6,6 +6,8 @@ images:
 - 6d5d3582078876db1c6e729260e0a800b5874df00bc3238951adc3b432ab0dbb
 - 9a81f91d9c57251239068f0dae281a9b1661df404e5de0bd794b7c24f3166f1f
 - 13952d621484b6a289edaae1264b642d5f56085970df0dd57dcb33704c5cb398
+locations:
+- King County
 original_content: |-
   <p>Today, Michelle and Brent have a warm apartment to call home where&nbsp;their&nbsp;9-month-old son&nbsp;has space to play and explore.&nbsp;But less than two years ago,&nbsp;the couple was living unsheltered,&nbsp;battling&nbsp;substance use&nbsp;disorder, and uncertain about their future.&nbsp;Through&nbsp;determination&nbsp;and&nbsp;commitment, they have&nbsp;created&nbsp;stability and security&nbsp;for themselves and their growing family.&nbsp;</p>
 

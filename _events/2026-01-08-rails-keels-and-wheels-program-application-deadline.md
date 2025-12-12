@@ -2,6 +2,8 @@
 generated_from_post: true
 images: []
 location: ''
+locations:
+- King County
 original_markdown_body: Deadline for applications for the Rails, Keels, and Wheels
   program, offering approximately $25 million for transitioning medium- and heavy-duty
   vehicles to all-electric models.

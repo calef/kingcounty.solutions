@@ -5,6 +5,8 @@ events_extracted: true
 images:
 - 19a3b3c2db18c12669015431ca2f6b9cca5a146cae27428f6d591ccc580e0cbf
 - 9da3aae8d2c701c3bac2013dec2e9cd41534a6d8ae7d8125aed1f7c2da37c556
+locations:
+- King County
 original_content: |-
   <p>In 1925, the <a href="https://communityrootshousing.org/building/devonshire/">Devonshire Apartments</a> opened its doors in Seattle&#8217;s Belltown neighborhood. With its distinctive brick façade, the Devonshire, designed by architect Herbert Bittman, combined functionality and form: the courtyard capped the garage. Since then, more than 1,300 residents have called Devonshire home.</p>
   <h3>From crisis to catalyst</h3>

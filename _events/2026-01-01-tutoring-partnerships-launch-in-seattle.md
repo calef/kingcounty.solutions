@@ -2,6 +2,8 @@
 generated_from_post: true
 images: []
 location: Seattle
+locations:
+- King County
 original_markdown_body: Launch of partnerships to provide tutoring support.
 source: Reading Partners Seattle
 source_url: https://readingpartners.org/blog/programming-updates-co-and-sv/

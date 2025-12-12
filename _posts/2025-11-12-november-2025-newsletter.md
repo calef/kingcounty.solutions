@@ -1,6 +1,7 @@
 ---
 date: '2025-11-12T21:16:09+00:00'
 images: []
+locations: []
 original_content: <p>The post <a href="https://orionworks.org/news/newsletter/november-newsletter-2025/">November
   2025 Newsletter</a> appeared first on <a href="https://orionworks.org">Orion Industries</a>.</p>
 original_markdown_body: The post [November 2025 Newsletter](https://orionworks.org/news/newsletter/november-newsletter-2025/)

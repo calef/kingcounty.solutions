@@ -2,6 +2,8 @@
 generated_from_post: true
 images: []
 location: Sno-Valley Senior Center
+locations:
+- Snoqualmie Valley
 original_markdown_body: The center will reopen after the holiday closure.
 source: Sno-Valley Senior Center
 source_url: https://snovalleysenior.org/december-2025-directors-letter/

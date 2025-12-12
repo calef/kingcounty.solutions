@@ -3,6 +3,8 @@ date: '2025-05-16T23:11:04+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Youth
   Link announces Community Leadership Award winners </span>\n<span class=\"field field--name-uid
   field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"

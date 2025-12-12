@@ -1,6 +1,7 @@
 ---
 date: '2025-11-01T02:05:42+00:00'
 images: []
+locations: []
 original_content: What’s Next for City Hall? We often receive the question, “What’s
   going on with replacing City Hall?” I would like to take this opportunity to provide
   an update on the project's status and outline the next steps. As many residents

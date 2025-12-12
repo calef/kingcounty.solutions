@@ -12,6 +12,8 @@ images:
 - 234217becb3c5814c9f74dea2ace319a918306c14f991687edc4b3c3de27a1d3
 - b7395d55d338b415627887bd065341b10116ba0bc0cee42b817ace3cabe03395
 - 0051ec4cf8d655a336f3f8ea56c0472dd91a40783aef0dc0550cb9ba5eb72d0b
+locations:
+- King County
 original_content: |-
   <div class="videoWrapper"><iframe loading="lazy" title="YouTube video player" src="//www.youtube.com/embed/5AUSVLg6Go0?si=amVd4MrCZa8CjIOJ" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe></div>
   <p><span class="TextRun SCXW220304106 BCX0" lang="EN-US" xml:lang="EN-US" data-contrast="none"><span class="NormalTextRun SCXW220304106 BCX0">This</span><span class="NormalTextRun SCXW220304106 BCX0"> year, Treehouse is celebrating </span><span class="NormalTextRun SCXW220304106 BCX0">more than</span><span class="NormalTextRun SCXW220304106 BCX0"> 140 students</span><span class="NormalTextRun SCXW220304106 BCX0"> in foster care</span><span class="NormalTextRun SCXW220304106 BCX0"> as they graduate from high school</span><span class="NormalTextRun SCXW220304106 BCX0">, </span><span class="NormalTextRun SCXW220304106 BCX0">attain</span><span class="NormalTextRun SCXW220304106 BCX0"> their GED, or complete apprenticeships!</span><span class="NormalTextRun SCXW220304106 BCX0"> </span></span><span class="EOP SCXW220304106 BCX0" data-ccp-props="{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;201341983&quot;:0,&quot;335559738&quot;:240,&quot;335559739&quot;:240,&quot;335559740&quot;:300}"> </span></p>

@@ -3,6 +3,8 @@ date: '2025-10-28T19:49:38+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: '<p class="">Housing justice advocate, Bill Block, was a force for
   change. A community leader who worked behind the scenes with a clear vision: to
   transform systems so that everyone can live with dignity. He was a community hero

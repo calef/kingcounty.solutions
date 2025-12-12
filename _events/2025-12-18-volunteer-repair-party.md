@@ -3,6 +3,8 @@ end_date: '2025-12-18T21:00:00-08:00'
 images: []
 location: 'BIKE WORKS WAREHOUSE, 3715 S Hudson St #111, Seattle, Washington, 98118,
   United States'
+locations:
+- King County
 original_content: '<section id="tribe-events-pg-template" class="tribe-events-pg-template"
   role="main"><div class="tribe-events-before-html"><h1>Events</h1></div> <div id="tribe-events-content"
   class="tribe-events-single tribe-blocks-editor"> <p class="tribe-events-back"> <a

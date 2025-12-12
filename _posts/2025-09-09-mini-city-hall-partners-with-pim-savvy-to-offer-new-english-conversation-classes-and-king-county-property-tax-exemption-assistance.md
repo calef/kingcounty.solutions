@@ -3,6 +3,8 @@ date: '2025-09-09T19:07:59+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p><em>This article was published in the September issue of the Bellevue Neighborhood News newsletter on September 3rd, 2025.</em></p>
 

@@ -7,6 +7,8 @@ images:
 - d56d0b0df0e9af1aa5898858295aacf8d626467fe7f110d20e6ff8eeac18c625
 - 6e7c8c77503ef774f086563c63549634f3ca97cd988fbfd397e7d18137d37a91
 - bb29c5afa134dc2d649b9fcc7acaa4f62048079686a67af4f2b9f8c180983159
+locations:
+- King County
 original_content: |-
   <p></p>
 

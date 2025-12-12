@@ -1,0 +1,26 @@
+---
+date: '2025-12-10T19:58:35+00:00'
+images: []
+locations:
+- King County
+original_content: As of Wednesday morning, December 10, multiple roads are closed
+  throughout Snoqualmie Valley, Skykomish, southeast King County, and in the cities.
+  They are closed due to water over the roadway, debris on the road, or slides. For
+  all road closures and restrictions in unincorporated King County, go to kingcounty.gov/mycommute.
+  For state roads and highways, go […]
+original_content_checksum: 845f429a294f3c977fae22ce7fbc73c2acdc51d6
+original_markdown_body: As of Wednesday morning, December 10, multiple roads are closed
+  throughout Snoqualmie Valley, Skykomish, southeast King County, and in the cities.
+  They are closed due to water over the roadway, debris on the road, or slides. For
+  all road closures and restrictions in unincorporated King County, go to kingcounty.gov/mycommute.
+  For state roads and highways, go […]
+published: false
+rss_guid: https://kcemergency.com/2025/12/10/king-county-road-closures/
+source: King County Emergency Management
+source_url: https://kcemergency.com/2025/12/10/king-county-road-closures/
+summarized: true
+title: King County Road Closures – December 10
+topics: []
+---
+
+Multiple roads in Snoqualmie Valley, Skykomish, and southeast King County are closed as of Wednesday morning, December 10. The closures are due to water over the road, debris, and landslides. Drivers are advised to stay informed about road conditions. For information on road closures and restrictions in unincorporated King County, residents can visit kingcounty.gov/mycommute.

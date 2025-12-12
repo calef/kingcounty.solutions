@@ -3,6 +3,8 @@ end_date: '2025-12-11T19:00:00-08:00'
 images: []
 location: Tukwila Justice Center, 15005 Tukwila International Blvd, Tukwila, WA, 98188,
   United States
+locations:
+- King County
 original_content: '<section class="page-layout interior-layout"> <div class="main-content-area
   events-template"> <div class="container"> <div id="tribe-events-pg-template" class="tribe-events-pg-template">
   <section id="tribe-events-pg-template" class="tribe-events-pg-template"> <div id="tribe-events-content"

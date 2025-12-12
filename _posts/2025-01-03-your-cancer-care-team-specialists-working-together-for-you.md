@@ -1,6 +1,7 @@
 ---
 date: '2025-01-03T23:51:05+00:00'
 images: []
+locations: []
 original_content: |-
   <p><img width="300" height="188" src="https://blog.valleymed.org/wp-content/uploads/2024/09/Janette-Swensen-blog-300x188.jpg" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://blog.valleymed.org/wp-content/uploads/2024/09/Janette-Swensen-blog-300x188.jpg 300w, https://blog.valleymed.org/wp-content/uploads/2024/09/Janette-Swensen-blog-768x480.jpg 768w, https://blog.valleymed.org/wp-content/uploads/2024/09/Janette-Swensen-blog-600x375.jpg 600w, https://blog.valleymed.org/wp-content/uploads/2024/09/Janette-Swensen-blog.jpg 800w" sizes="auto, (max-width: 300px) 100vw, 300px" /></p>
   <p>At Valley, we believe in the power of collaboration. Our specialists work together to create personalized treatment plans for our patients, ensuring they receive the best care possible. Here are some of the specialized team members who may be part of a patient’s cancer journey at Valley:</p>

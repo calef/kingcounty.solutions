@@ -1,6 +1,7 @@
 ---
 date: '2025-12-01T21:08:39+00:00'
 images: []
+locations: []
 original_content: The Seattle Aquarium knows firsthand that climate change, which
   brings warmer waters, more acidic oceans, habitat destruction, and much more, threatens
   our marine environments.&#160;&#160; OSE is working hard to reduce pollution from

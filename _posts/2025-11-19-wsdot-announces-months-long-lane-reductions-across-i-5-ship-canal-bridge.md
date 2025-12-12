@@ -1,6 +1,7 @@
 ---
 date: '2025-11-19T01:23:32-08:00'
 images: []
+locations: []
 original_content: SEATTLE – Work will return to the northbound lanes of Interstate
   5 across the Ship Canal Bridge as early as Friday, Jan. 9, 2026, marking the start
   of months-long lane reductions. Crews will be working 24/7 to complete this work

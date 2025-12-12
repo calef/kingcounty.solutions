@@ -1,6 +1,7 @@
 ---
 date: '2025-10-07T20:58:14+00:00'
 images: []
+locations: []
 original_content: The West Seattle Water Taxi is preparing to transition into the
   fall/winter sailing schedule, after seeing the largest number of passengers riding
   between downtown Seattle and West Seattle’s Seacrest Park in over six years. “It

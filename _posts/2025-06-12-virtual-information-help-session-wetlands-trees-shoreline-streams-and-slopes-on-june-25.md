@@ -1,6 +1,7 @@
 ---
 date: '2025-06-12T17:43:29+00:00'
 images: []
+locations: []
 original_content: |-
   Tukwila is home to many wetlands, streams, shorelines, springs and steep slopes. Please join us in a Teams meeting to learn about critical area regulations, resources available and stewardship techniques. City Staf f will be online to answer your questions, including Heidi Watters, the City’s Urban Environmental Specialist.
 

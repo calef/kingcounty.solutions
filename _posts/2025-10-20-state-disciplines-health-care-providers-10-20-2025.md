@@ -3,6 +3,8 @@ date: '2025-10-20T17:41:17+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <span class="field field--name-title field--type-string field--label-hidden">State disciplines health care providers (10-20-2025)</span>
 

@@ -2,6 +2,8 @@
 generated_from_post: true
 images: []
 location: ''
+locations:
+- King County
 original_markdown_body: An outing to view holiday lights.
 source: Wallingford Community Senior Center
 source_url: https://wallingfordseniors.org/december-2025-lunch-menu/

@@ -3,6 +3,8 @@ end_date: '2025-12-17T19:30:00-08:00'
 images: []
 location: Tukwila Community Center, 12424 42nd Avenue South , Tukwila, WA, 98168,
   United States
+locations:
+- King County
 original_content: '<section class="page-layout interior-layout"> <div class="main-content-area
   events-template"> <div class="container"> <div id="tribe-events-pg-template" class="tribe-events-pg-template">
   <section id="tribe-events-pg-template" class="tribe-events-pg-template"> <div id="tribe-events-content"

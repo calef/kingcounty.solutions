@@ -2,6 +2,8 @@
 end_date: '2025-12-25T17:00:00-08:00'
 images: []
 location: WA
+locations:
+- King County
 original_content: "<section> <div> <div> <div> <section> <div> <h1>Christmas Day –
   City Offices Closed</h1> <div> <h2> <span>December 25 @ 8:00 am</span> - <span>5:00
   pm</span> </h2> </div> <div> <div> <div> <div> <div> <ul> <li> <a> Google Calendar

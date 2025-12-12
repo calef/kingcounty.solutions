@@ -3,6 +3,8 @@ date: '2025-06-02T23:12:00+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: "<p class=\"\">At Mary’s Place, we believe that no child should
   sleep outside, and every child deserves a warm bed, a stable home, and a chance
   to thrive. We have committed to a three-pronged approach of&nbsp;emergency shelter,&nbsp;mobile

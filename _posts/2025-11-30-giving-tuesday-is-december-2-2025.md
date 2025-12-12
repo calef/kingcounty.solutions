@@ -3,6 +3,8 @@ date: '2025-11-30T23:26:17+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p class="">Our fearless Commander, Keith Hughes, requests your attention and generosity for Giving Tuesday. The shelter faces a challenging winter, but good news: The Burien Severe Weather Shelter, operated by <a href="http://www.highlineunitedmethodistchurch.org/">Highline United Methodist Church</a> (13015 1st Ave S), is working in cooperation with Westside Neighbors Shelter to provide overnight staffing and security for the 2025-2026 winter season. For the past seven winters, Burien SWS has provided overnight shelter with trained staff at Highline UMC during severe weather events.</p>
 

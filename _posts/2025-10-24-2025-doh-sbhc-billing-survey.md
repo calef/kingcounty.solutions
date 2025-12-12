@@ -3,6 +3,8 @@ date: '2025-10-24T21:01:29+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: The Washington State Department of Health seeks participation in
   the 2025 SBHC billing survey to assess funding and billing practices for school-based
   health centers. Responses will help identify challenges, improve support, and enhance

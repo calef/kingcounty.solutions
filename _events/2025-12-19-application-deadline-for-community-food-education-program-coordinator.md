@@ -2,6 +2,8 @@
 generated_from_post: true
 images: []
 location: ''
+locations:
+- King County
 original_markdown_body: Deadline for applicants to submit their resume and a paragraph
   explaining their interest for priority consideration.
 source: Hunger Intervention Program

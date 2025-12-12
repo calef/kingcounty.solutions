@@ -2,6 +2,8 @@
 generated_from_post: true
 images: []
 location: ''
+locations:
+- King County
 original_markdown_body: Deadline for eligible organizations to submit applications
   for the Urgent Operating Support funding.
 source: City of Seattle

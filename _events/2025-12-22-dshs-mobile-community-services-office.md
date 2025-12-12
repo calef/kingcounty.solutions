@@ -2,6 +2,8 @@
 generated_from_post: true
 images: []
 location: ''
+locations:
+- King County
 original_markdown_body: The DSHS Mobile Community Services Office will provide assistance
   with applications, changes, ID vouchers, and support for various programs.
 source: Wallingford Community Senior Center

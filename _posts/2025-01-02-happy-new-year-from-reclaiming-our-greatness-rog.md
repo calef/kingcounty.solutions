@@ -3,6 +3,8 @@ date: '2025-01-02T18:54:00+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p>As we welcome 2025, we reflect on the challenges and triumphs of the past year. Our community&#8217;s resilience and strength inspire us to continue our mission of supporting families navigating Washington State&#8217;s housing, education, and legal systems.</p>
 

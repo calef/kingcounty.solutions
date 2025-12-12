@@ -1,6 +1,7 @@
 ---
 date: '2025-01-24T23:01:38+00:00'
 images: []
+locations: []
 original_content: <p>The post <a href="https://readingpartners.org/blog/help-close-the-literacy-gap/">Help
   close the literacy gap</a> appeared first on <a href="https://readingpartners.org">Reading
   Partners</a>.</p>

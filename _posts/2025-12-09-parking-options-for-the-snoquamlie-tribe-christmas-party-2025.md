@@ -1,6 +1,7 @@
 ---
 date: '2025-12-09T00:27:32+00:00'
 images: []
+locations: []
 original_content: |-
   <p>The following information is provided by the Events Department to assist with parking for this coming Saturday’s Snoqualmie Tribe Christmas Party.</p>
   <p><a>Download the flier, with map, here</a></p>

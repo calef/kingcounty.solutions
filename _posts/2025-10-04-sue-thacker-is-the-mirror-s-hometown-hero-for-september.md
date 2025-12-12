@@ -3,6 +3,8 @@ date: '2025-10-04T01:05:58+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: Sue Thacker is Federal Way Mirror&#8217;s Hometown Hero for September
   2025, for using her expertise as a former production manager to revolutionize the
   Federal Way Senior Center food bank. Her [&#8230;]

@@ -3,6 +3,8 @@ date: '2025-03-20T03:37:44+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- Vashon
 original_content: We are excited to share our 2024 Impact Report sharing the progress
   we made because of our donors and corporate partners working together...
 original_markdown_body: We are excited to share our 2024 Impact Report sharing the

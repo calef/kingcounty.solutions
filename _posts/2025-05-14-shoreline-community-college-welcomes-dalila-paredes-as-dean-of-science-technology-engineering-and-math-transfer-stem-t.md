@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - 6ade95675efa7952246bcf6cc98df7dfb6c9db698af0010f07205222220f2aa2
+locations:
+- Shoreline
 original_content: '<div class="wp-rss-image" style="margin-bottom:20px;max-width:
   600px !important;padding-top: 0.75em;"><img src="https://i0.wp.com/news.shoreline.edu/wp-content/uploads/2025/05/image002-1.jpg?fit=400%2C300&amp;ssl=1"
   class="attachment-medium size-medium wp-post-image" alt="This is a headshot or Dalila.

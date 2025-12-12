@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - ad51460a4eb6b48fcb0ab1d97bf996d1cf869d18c6aa41c67c178d49574a876e
+locations:
+- King County
 original_content: |-
   <figure class="wp-block-post-featured-image"><img data-recalc-dims="1" fetchpriority="high" decoding="async" width="704" height="469" src="https://i0.wp.com/soundgenerations.org/wp-content/uploads/20240329_Sound_Generations_Portrait_Vahdati_0009_Web.jpg?resize=704%2C469&#038;ssl=1" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" style="object-fit:cover;" srcset="https://i0.wp.com/soundgenerations.org/wp-content/uploads/20240329_Sound_Generations_Portrait_Vahdati_0009_Web.jpg?w=2000&amp;ssl=1 2000w, https://i0.wp.com/soundgenerations.org/wp-content/uploads/20240329_Sound_Generations_Portrait_Vahdati_0009_Web.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/soundgenerations.org/wp-content/uploads/20240329_Sound_Generations_Portrait_Vahdati_0009_Web.jpg?resize=982%2C655&amp;ssl=1 982w, https://i0.wp.com/soundgenerations.org/wp-content/uploads/20240329_Sound_Generations_Portrait_Vahdati_0009_Web.jpg?resize=260%2C173&amp;ssl=1 260w, https://i0.wp.com/soundgenerations.org/wp-content/uploads/20240329_Sound_Generations_Portrait_Vahdati_0009_Web.jpg?resize=1536%2C1024&amp;ssl=1 1536w, https://i0.wp.com/soundgenerations.org/wp-content/uploads/20240329_Sound_Generations_Portrait_Vahdati_0009_Web.jpg?w=1408&amp;ssl=1 1408w" sizes="(max-width: 704px) 100vw, 704px" /></figure>
 

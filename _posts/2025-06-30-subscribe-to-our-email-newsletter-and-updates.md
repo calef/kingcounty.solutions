@@ -1,6 +1,7 @@
 ---
 date: '2025-06-30T12:32:44+00:00'
 images: []
+locations: []
 original_content: |-
   <div id="mainContent">
   <p><!-- InstanceBeginEditable name="Body text" --></p>

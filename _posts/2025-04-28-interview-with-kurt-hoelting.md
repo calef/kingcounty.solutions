@@ -1,6 +1,7 @@
 ---
 date: '2025-04-28T23:11:17+00:00'
 images: []
+locations: []
 original_content: "<div class=\"wpb-content-wrapper\"><div class=\"\"><div class=\"container\"><div
   class=\"vc_row wpb_row vc_row-fluid\" ><div class=\"wpb_column vc_column_container
   vc_col-sm-6 vc_col-has-fill\"><div class=\"vc_column-inner vc_custom_1760132856915\"><div

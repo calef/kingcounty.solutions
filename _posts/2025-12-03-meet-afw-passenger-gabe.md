@@ -2,13 +2,8 @@
 date: '2025-12-03T17:47:39+00:00'
 events: []
 events_extracted: true
-images:
-- 7ed7b95fa44d100363c7a01ba4cebdae378eed8d8557565a3a3feb4cd6c02f76
-- 5b1cde7c38910128beec01e6b729f9f94a06885caa8053d96ba88901e8ac1c99
-- 573e28598114792eee86ff4d5cda4a9509184c8a6725ec32463a640faedb9dda
-- a3757ca0f710b1f9c6aad8a17eeb54397a5795f57c861b6acfb5ef790c100a11
-- 4cd2389714e2816f5db90eefa1c8fd9ed8841703a52f267ff2e42d27b0ba0bf0
-- a3fedcc9bc29242e2dfb09b0092c032934b108ce98854886bbf733e0e313c4b1
+images: []
+locations: []
 original_content: |-
   <p>AFW passenger Gabe has been flying with AFW since early 2024 to reach his essential care at Children’s Hospital LA. Gabe’s mother, Jadie, shares:</p>
 
@@ -103,6 +98,7 @@ original_markdown_body: |-
   <video controls src="https://angelflightwest.org/wp-content/uploads/2025/12/Video.mov"></video>
 
   The post [Meet AFW Passenger Gabe](https://angelflightwest.org/news/meet-afw-passenger-gabe/) first appeared on [Angel Flight West](https://angelflightwest.org).
+published: false
 source: Angel Flight West
 source_url: https://angelflightwest.org/news/meet-afw-passenger-gabe/
 summarized: true

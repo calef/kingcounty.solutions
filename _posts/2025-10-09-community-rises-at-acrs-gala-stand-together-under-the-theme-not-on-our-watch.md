@@ -3,6 +3,8 @@ date: '2025-10-09T17:24:19+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p data-start="431" data-end="723"><strong data-start="431" data-end="468">BELLEVUE, Wash. — October 6, 2025</strong> — More than 350 community members, advocates, and supporters gathered for the <strong data-start="547" data-end="595">Asian Counseling and Referral Service (ACRS)</strong> Annual Benefit Gala on <strong data-start="619" data-end="632">October 4</strong> at the <strong data-start="640" data-end="666">Hyatt Regency Bellevue</strong>, coming together under the theme <em data-start="700" data-end="721">“Not on Our Watch.”</em></p>
   <p data-start="725" data-end="1081">The evening was filled with powerful performances, moving stories, and a collective spirit of resilience — culminating in an address by <strong data-start="861" data-end="897">ACRS’s new CEO, Kendee Yamaguchi</strong>, who announced the <strong data-start="917" data-end="952">relaunch of ACRS’s Legal Clinic</strong> this fall in partnership with the <strong data-start="987" data-end="1033">Asian Bar Association of Washington (ABAW)</strong> and the <strong data-start="1042" data-end="1080">King County Bar Association (KCBA)</strong>.</p>

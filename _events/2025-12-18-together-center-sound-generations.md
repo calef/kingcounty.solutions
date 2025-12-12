@@ -3,6 +3,8 @@ end_date: '2025-12-18T12:00:00-08:00'
 images: []
 location: Advocate Office @ Together Center, 16305 NE 87th S Suite 111, Redmond, WA,
   98052, United States
+locations:
+- King County
 original_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <div> <span>
   Event Series: </span> <a> <span> Advocate Office @ Together Center – Sound Generations
   </span> </a> </div> <h1>Together Center – Sound Generations</h1> <div> <div> <span>December

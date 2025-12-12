@@ -1,6 +1,7 @@
 ---
 date: '2025-03-17T15:22:45+00:00'
 images: []
+locations: []
 original_content: '<p class="">Shared by <a href="https://thepantryseattle.com/" target="_blank"><em>The
   Pantry Seattle</em></a></p><p class="">Recipe adapted from: Brandi Henderson</p><p
   class="">Yield: about 3 quarts</p><h3>Ingredients</h3><p class="">5 tablespoons

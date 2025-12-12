@@ -3,6 +3,8 @@ date: '2025-07-07T17:00:15+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: Rosie's Tiny House Village Grand Opening On July 2nd, a community
   celebration was held to mark the grand re-opening of Rosie’s Village....
 original_markdown_body: Rosie's Tiny House Village Grand Opening On July 2nd, a community

@@ -5,6 +5,8 @@ events_extracted: true
 images:
 - 7fe9e217198874fc167238ed4bc8cf4539684f79881e2af457381c88888f3a94
 - a7c35ce003c355fe485eede1fd0e297ebd1ea9ba972b32c2df825f2e4f96b0d9
+locations:
+- King County
 original_content: |-
   <p>“Catholic Housing Services is a great help and made a big difference for our family.”&nbsp;</p>
 

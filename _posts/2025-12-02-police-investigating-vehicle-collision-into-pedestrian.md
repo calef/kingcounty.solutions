@@ -1,6 +1,7 @@
 ---
 date: '2025-12-02T16:20:04+00:00'
 images: []
+locations: []
 original_content: Seattle police officers are investigating a vehicle collision into
   a pedestrian in the Interbay neighborhood last night. On Dec. 1 at 8:35 p.m., patrol
   officers responded to car crash involving a pedestrian on 15th Avenue West near

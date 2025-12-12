@@ -1,6 +1,7 @@
 ---
 date: '2025-06-20T20:41:30+00:00'
 images: []
+locations: []
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Council
   Roundup: Council passes Wilburton land use changes</span>\n<span class=\"field field--name-uid
   field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/mdegrand\"

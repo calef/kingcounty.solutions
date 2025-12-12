@@ -3,6 +3,8 @@ date: '2025-05-08T17:27:25+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: Not a lot is certain right now -- so when I’m asked to say with
   certainty what our future will be, there are a few things that are sure for MSC.
   With the difficulties barreling down from the federal and state level impacting

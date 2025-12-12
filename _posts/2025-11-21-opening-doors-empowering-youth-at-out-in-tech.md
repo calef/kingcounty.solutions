@@ -3,6 +3,7 @@ date: '2025-11-21T17:19:57+00:00'
 events: []
 events_extracted: true
 images: []
+locations: []
 original_content: |-
   <h2><span data-contrast="auto">For young people navigating mental health needs, education and career development support can be transformative.</span></h2>
   <p><span data-contrast="auto"> Vibrant’s </span><a href="https://www.vibrant.org/what-we-do/community-programs/youth-young-adult-services/adolescent-skills-centers/"><span data-contrast="none">Adolescent Skills Centers</span></a><span data-contrast="auto"> offer safe, collaborative environments where people ages 16 through 22 across all boroughs can strengthen essential life skills, continue their education, build confidence, and explore vocational opportunities filled with purpose and achievement. </span><span data-ccp-props="{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;201341983&quot;:0,&quot;335551550&quot;:1,&quot;335551620&quot;:1,&quot;335559685&quot;:0,&quot;335559737&quot;:0,&quot;335559738&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:279}"> </span></p>

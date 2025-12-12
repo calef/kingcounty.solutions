@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - d442e9d82d5b52eb7481d169f261af242ce7578fcaf83d32b1fc0de6e6db04d8
+locations:
+- White Center
 original_content: |-
   <p>Canopy Apartments are a welcoming community rooted in White Center, offering high-quality, affordable housing surrounded by health and family service providers. The community is designed to help individuals and households of all sizes grow, thrive, and feel a sense of belonging.</p>
   <p>Like the rest of the region, White Center has experienced rising housing costs and limited construction of new affordable, family-sized apartments. After years of community engagement by the <a href="https://www.wccda.org/" target="_blank" rel="noopener">White Center Community Development Association (CDA)</a>, a vision to combat displacement took shape. The community wanted to establish a family resource center and an affordable housing complex in the same location to help anchor and meet the needs of its residents.</p>

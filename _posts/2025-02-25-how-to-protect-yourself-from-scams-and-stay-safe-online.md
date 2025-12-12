@@ -1,6 +1,7 @@
 ---
 date: '2025-02-25T21:56:22+00:00'
 images: []
+locations: []
 original_content: |-
   <p>When it comes to internet safety, it’s important to take certain steps to ensure your privacy and security. Use these tips to stay safe online and avoid scams.</p>
   <p><strong>Choose a strong password</strong>. Create strong, unique passwords for your accounts. Use a mix of letters, numbers, and symbols.</p>

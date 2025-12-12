@@ -1,6 +1,7 @@
 ---
 date: '2025-07-03T23:04:51+00:00'
 images: []
+locations: []
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Neighborhood
   Walks at BelRed Arts District, Eastgate and Cougar Mountain/Lakemont</span>\n<span
   class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span

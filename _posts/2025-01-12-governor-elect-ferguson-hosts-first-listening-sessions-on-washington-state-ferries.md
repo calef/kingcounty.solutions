@@ -3,6 +3,8 @@ date: '2025-01-12T21:19:51+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: "Governor-elect Ferguson hosts first listening sessions on Washington
   State Ferries\n\nPublish Date\n\n<time datetime=\"2025-01-09T12:00:00Z\" class=\"datetime\">January
   09, 2025</time>\n\nhayden.mackley…<time datetime=\"2025-01-12T13:19:51-08:00\" title=\"Sunday,

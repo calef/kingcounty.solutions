@@ -3,6 +3,8 @@ date: '2025-04-22T21:37:31+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: At Ryther, Earth Day is more than just a celebration—it’s a reminder
   of the role nature plays in helping children heal. Nestled in the...
 original_markdown_body: At Ryther, Earth Day is more than just a celebration—it’s

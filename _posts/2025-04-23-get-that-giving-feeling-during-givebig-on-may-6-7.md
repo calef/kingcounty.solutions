@@ -3,6 +3,8 @@ date: '2025-04-23T20:24:18+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <figure class="wp-block-image aligncenter size-full is-resized"><img fetchpriority="high" decoding="async" width="293" height="277" src="https://i0.wp.com/westsideneighborsshelter.org/wp-content/uploads/2025/04/GiveBIG25date.png?fit=293%2C277&amp;ssl=1" alt="" class="wp-image-844" style="width:150px;height:auto"/></figure>
 

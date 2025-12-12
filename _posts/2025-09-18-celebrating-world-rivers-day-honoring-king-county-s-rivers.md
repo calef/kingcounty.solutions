@@ -1,6 +1,7 @@
 ---
 date: '2025-09-18T16:25:15+00:00'
 images: []
+locations: []
 original_content: |-
   By Steven Schauer, Deputy Executive Director
 

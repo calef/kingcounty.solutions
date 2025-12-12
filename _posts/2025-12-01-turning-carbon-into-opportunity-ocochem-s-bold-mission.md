@@ -1,6 +1,7 @@
 ---
 date: '2025-12-01T16:23:14+00:00'
 images: []
+locations: []
 original_content: |-
   <h2 class="wp-block-heading">From a home garage to a technology powerhouse</h2>
 

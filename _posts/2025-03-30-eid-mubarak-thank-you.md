@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - ad1adc17ebb849aaaff97f1f7052e7e6e0aac478d475e7ea156aae0b7011be2f
+locations:
+- King County
 original_content: "<p class=\"\">Dearest friends,</p><p class=\"\">Eid Mubarak! Thank
   you to each and every one of you who helped us surpass our Ramadan fundraising goal
   – with your generous support, we raised over $91,000 in 30 days. These funds will

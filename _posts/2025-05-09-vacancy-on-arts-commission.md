@@ -1,6 +1,7 @@
 ---
 date: '2025-05-09T15:58:39+00:00'
 images: []
+locations: []
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Vacancy
   on Arts Commission</span>\n<span class=\"field field--name-uid field--type-entity-reference
   field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\" typeof=\"schema:Person\"

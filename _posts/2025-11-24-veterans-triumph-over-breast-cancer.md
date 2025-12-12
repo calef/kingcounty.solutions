@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - 40d3c1102db2bbe4ad8d996bce359492e7fe522ddafd322a98946f552230dbe7
+locations:
+- King County
 original_content: |-
   <h2 class="wp-block-heading">Strength and resilience of Veterans in face of adversity</h2>
 

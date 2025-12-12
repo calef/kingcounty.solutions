@@ -3,6 +3,8 @@ date: '2025-01-29T00:36:17+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: '<p class="">FOR IMMEDIATE RELEASE&nbsp;</p><p class=""><strong>Essentials
   First Remains Committed Amid Federal Funding Uncertainty</strong>&nbsp;</p><p class="">Essentials
   First is deeply concerned about the <a href="https://www.nbcnews.com/politics/donald-trump/white-house-orders-freeze-federal-aid-focus-trumps-conservative-agenda-rcna189552"

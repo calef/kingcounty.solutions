@@ -3,6 +3,9 @@ date: '2025-09-22T03:18:49+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- Seattle
+- South King County
 original_content: |-
   <p>We are excited to announce the appointment of <strong>Colleen Echohawk</strong> as the new Chief Executive Officer of Community Roots Housing! Colleen will start her new role on October 6, in anticipation of the retirement of longtime CEO <a href="https://communityrootshousing.org/team/christopher-persons/">Chris Persons</a> at the end of October.</p>
   <p><a href="https://www.linkedin.com/in/colleen-echohawk-baa1845a/" target="_blank" rel="noopener">Colleen Echohawk</a> brings over 20 years of experience as an executive leader, small business owner, and community organizer to the role. This includes serving as Executive Director of Chief Seattle Club, where she led the effort to create nearly $100 million in new affordable housing in Seattle, and CEO of <a href="https://eighthgeneration.com/" target="_blank" rel="noopener">Eighth Generation</a>, a Native-designed art and lifestyle brand. She is an active member of the board of trustees for both Seattle Foundation and Seattle Colleges. An established champion of Seattle’s Native and under-resourced populations, Echohawk is an enrolled member of the Kithehaki Band of the Pawnee Nation and a member of the Upper Athabascan people of Mentasta Lake. As CEO of Community Roots, Colleen will help to advance our mission to create inclusive affordable housing and foster thriving, just communities.</p>

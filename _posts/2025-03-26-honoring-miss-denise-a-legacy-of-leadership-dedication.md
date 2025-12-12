@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - 90d15bc25f771b27d57ac42353e741a78166d7714438a974ba3275c46b1f2b27
+locations:
+- King County
 original_content: |-
   <p>As we celebrate Women’s History Month, we recognize the incredible women who have shaped the Boys &amp; Girls Clubs of King County; few people have more history than Denise Overton-Lewis. With 40 years of service to the Clubs leads with passion, touching the lives of countless youth, families, and staff members.</p>
   <p>When she first walked into a Boys &amp; Girls Club, Denise knew she had found her second home. <em>“The staff, Club members, and volunteers felt like one big family,”</em> she reflects. <em>“I bleed Boys &amp; Girls Club through and through. The mission, the values of leadership, character building, compassion, and inclusiveness—I wouldn’t change this journey for the world.”</em></p>

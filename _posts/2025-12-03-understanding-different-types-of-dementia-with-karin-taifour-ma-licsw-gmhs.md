@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - b678951db69a4cbeab464b508b223108c348665568bf62471ffc1ac42cb832f6
+locations:
+- King County
 original_content: |-
   <p class="has-text-align-center"><strong>January 14th, 2026</strong><br><strong>8:30am-12:00pm PDT</strong></p>
 

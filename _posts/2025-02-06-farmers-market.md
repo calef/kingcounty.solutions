@@ -3,6 +3,8 @@ date: '2025-02-06T03:39:00+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: "![](https://www.burienwa.gov/UserFiles/Servers/Server_11045935/Image/Featured_Events/farmers_market_fe.jpg)Shop
   local! Buy fresh fruits, vegetables, and original crafts."
 source: City of Burien

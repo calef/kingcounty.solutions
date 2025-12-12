@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - bf73c9ea775515b4513c944abb6592a5777b24f5d66d1c8dd48c4003ac2c3657
+locations:
+- King County
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">BellHop
   shuttle service wins 2025 Vision Award </span>\n<span class=\"field field--name-uid
   field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"

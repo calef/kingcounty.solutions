@@ -3,6 +3,8 @@ date: '2025-11-10T21:18:46+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <div class="is-layout-constrained wp-block-group"><div class="wp-block-group__inner-container">
   <p>Adderall can be very effective in <a target="_blank" rel="noopener" href="https://www.talkspace.com/mental-health/conditions/attention-deficit-hyperactivity-disorder/medications/">treating attention deficit hyperactivity disorder</a> (ADHD) and conditions like narcolepsy, but it’s important to be aware of the long-term side effects of this medication. Adderall is a commonly prescribed drug for boosting focus, helping you stay on task, and improving day-to-day functioning. Despite its known efficacy, just like any other drug you take, it’s essential to understand the risks of prolonged use or misuse of Adderall.</p>

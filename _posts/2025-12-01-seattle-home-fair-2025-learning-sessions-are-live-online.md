@@ -3,6 +3,8 @@ date: '2025-12-01T14:29:22+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: Missed the Seattle Home Fair? No Problem! If you couldn’t attend
   the Home Fair, you can still access the information! All Home Fair learning sessions
   are now available online, so you can watch at your convenience and get the same

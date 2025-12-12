@@ -3,6 +3,7 @@ date: '2025-10-29T15:13:45+00:00'
 events: []
 events_extracted: true
 images: []
+locations: []
 original_content: |-
   <p><!--StartFragment --></p>
   <p><span class="cf0">Even with secure housing, many residents are concerned about affording nutritious food due to the escalating cost of groceries. According to the Bureau of Labor Statistics, grocery prices have risen 29% since February 2020, which disproportionately impacts those on fixed or low incomes.</span></p>
@@ -31,6 +32,7 @@ original_markdown_body: |-
   <!--EndFragment -->
 
   The post [Fighting food insecurity with meal kits & cooking classes](https://www.mercyhousing.org/2025/10/fighting-food-insecurity/) appeared first on [Mercy Housing](https://www.mercyhousing.org).
+published: false
 source: Mercy Housing
 source_url: https://www.mercyhousing.org/2025/10/fighting-food-insecurity/
 summarized: true

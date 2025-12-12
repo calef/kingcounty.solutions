@@ -2,6 +2,8 @@
 end_date: '2025-12-18T16:00:00-08:00'
 images: []
 location: Pickering Barn, 1730 10th Ave NW, Issaquah, Washington, 98027, United States
+locations:
+- King County
 original_content: <section id="tribe-events-pg-template" class="tribe-events-pg-template"
   role="main"> <div id="tribe-events-content" class="tribe-events-single"> <p class="tribe-events-back">
   <a href="https://kidvantagenw.org/events/"> « All Events</a> </p> <h1 class="tribe-events-single-event-title">Embrace

@@ -3,6 +3,8 @@ date: '2025-10-03T10:17:40-07:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: "<p>Want a safe, reliable way to move around the region? Try taking
   transit - and it doesn't just have to be for your commute.</p><p>If you're a sports
   fan, the train or bus is a great way to get to the game.</p><p>Whether you're going

@@ -1,6 +1,7 @@
 ---
 date: '2025-12-03T19:30:00+00:00'
 images: []
+locations: []
 original_content: |-
   <p>More than 1,200 Houston-area Veterans received an early turkey dinner last week thanks to a special collaboration between the <a href="https://news.va.gov/?s=Michael+E.+DeBakey+VA+Medical+Center">Michael E. DeBakey VA Medical Center</a>, a group of area car dealerships and Combined Arms, a nonprofit organization that connects Veterans and their families with vital resources.</p>
 

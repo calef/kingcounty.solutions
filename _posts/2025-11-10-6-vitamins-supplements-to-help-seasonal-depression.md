@@ -3,6 +3,8 @@ date: '2025-11-10T21:18:17+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <div class="is-layout-constrained wp-block-group"><div class="wp-block-group__inner-container">
   <p>Seasonal depression—or <a target="_blank" rel="noopener" href="https://www.talkspace.com/mental-health/conditions/seasonal-affective-disorder/">seasonal affective disorder</a> (SAD)—is a type of depression that appears in the winter months, when days are shorter, colder, and darker. If you’ve noticed a heavy sadness, loss of energy, or shifts in sleep and appetite patterns during the cool seasons, you might be experiencing seasonal depression.&nbsp;</p>

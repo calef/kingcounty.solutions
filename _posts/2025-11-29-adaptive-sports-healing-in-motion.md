@@ -3,6 +3,8 @@ date: '2025-11-29T21:30:00+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p>Air Force Veteran Thomas Deaton never expected that recovery would lead him back into the world of competition.</p>
 

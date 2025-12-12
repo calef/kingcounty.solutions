@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - df3e50a89251faee56bd260a21c9b43379c44668c1b9e81e38c5c7778991fa02
+locations:
+- Bellevue
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">City
   hires director for human resources and diversity, equity and inclusion work</span>\n<span
   class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span

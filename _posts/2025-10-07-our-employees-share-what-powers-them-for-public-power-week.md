@@ -1,6 +1,7 @@
 ---
 date: '2025-10-07T15:50:26+00:00'
 images: []
+locations: []
 original_content: '<img width="150" height="150" src="https://powerlines.seattle.gov/wp-content/uploads/sites/17/2025/10/Powerlines-Featured-Images-12-150x150.png"
   class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom:
   5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy"

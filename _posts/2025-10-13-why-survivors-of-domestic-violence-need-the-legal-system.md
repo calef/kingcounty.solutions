@@ -3,6 +3,18 @@ date: '2025-10-13T17:10:01+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- Bellevue
+- Bothell
+- Clyde Hill
+- Cottage Lake
+- Issaquah
+- Kirkland
+- Mercer Island
+- Newcastle
+- Redmond
+- Sammamish
+- Woodinville
 original_content: "October is Domestic Violence Awareness Month—a time to stand with
   survivors, honor their strength, and shine a light on the challenges they face when
   seeking safety and stability. Escaping an abusive relationship takes courage. It

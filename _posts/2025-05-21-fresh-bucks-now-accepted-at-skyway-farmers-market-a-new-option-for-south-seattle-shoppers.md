@@ -4,6 +4,9 @@ events: []
 events_extracted: true
 images:
 - 24ff111a0035610da790c47f37250168e20b94c2e8213035f9c4450f6238d77a
+locations:
+- Seattle
+- South King County
 original_content: "<div class=\"et_pb_section et_pb_section_1 et_section_regular\"
   >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_row
   et_pb_row_2\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_2_3 et_pb_column_3

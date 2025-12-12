@@ -3,6 +3,8 @@ date: '2025-12-08T21:30:00+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p>If your health care team suggested a body scan, you might immediately tense up imagining yourself sliding into a coffin-like machine. Good news—this isn’t that! The kind of body scan we’re talking about can provide complete and total relaxation. This is one you should add to your well-being routine!</p>
 

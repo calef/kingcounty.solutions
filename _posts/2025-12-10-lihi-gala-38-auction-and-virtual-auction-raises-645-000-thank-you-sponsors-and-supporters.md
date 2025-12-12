@@ -3,6 +3,8 @@ date: '2025-12-10T18:26:34+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: Rev Lawrence Willis of Love-To presents gifts to Sharon Lee, LIHI
   Executive Director. LIHI's Gala &amp; Auction  on Friday evening at the Four Seasons,
   plus Virtual Auction that ran from November 19 to December 3, raised a record $645,000!

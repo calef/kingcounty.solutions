@@ -4,6 +4,8 @@ events:
 - 2025-12-14-meals-on-wheels-volunteer-delivery
 events_extracted: true
 images: []
+locations:
+- Bellevue
 original_content: |-
   <p><strong>Program:</strong> Meals on Wheels<br><strong>Location:</strong> Bellevue<br><strong>Schedule:</strong> Monday mornings<br><strong>Duration:</strong> Ongoing<br><strong>Group or Individual:</strong> Individual<br><strong>Kid Friendly:</strong> Yes<br><strong>Contact:</strong> <a>mealsonwheels@soundgenerations.org</a><br><strong>Summary: </strong>Deliver meals and a smile!</p>
 

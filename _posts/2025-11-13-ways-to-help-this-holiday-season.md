@@ -3,6 +3,8 @@ date: '2025-11-13T21:41:40+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: "<div id=\"preheader\" style=\"color: transparent; display: none;
   font-size: 1px; line-height: 1px; max-height: 0px; max-width: 0px; opacity: 0; overflow:
   hidden;\"><span data-entity-ref=\"preheader\">Your Help Makes All the Difference.</span></div>

@@ -2,8 +2,8 @@
 date: '2025-11-21T18:08:40+00:00'
 events: []
 events_extracted: true
-images:
-- 8745ffa709871bdd6eabf8a59baefa824f877d5f3b4921062d6eb0072dcb569b
+images: []
+locations: []
 original_content: |-
   <p>This year’s <em>Power of Home</em> celebration was our most successful yet, and it’s all because of you! Together, we had an evening filled with joy, community, and a renewed commitment to ensuring everyone has a stable, affordable place to call home. We raised more than $100,000 to support resident services as we packed the Pantry.</p>
   <p>From the moment guests arrived, the energy was electric. Four young residents opened the night as our featured DJs, showcasing the skills they’ve gained through months of hands-on learning in partnership with Scratch Out Loud.  Their performance set the perfect tone and reminded everyone of the creativity, confidence, and leadership that grow when young people are supported.</p>
@@ -33,6 +33,7 @@ original_markdown_body: |-
   [_Click here to view the full Power of Home photo gallery._](https://www.facebook.com/media/set/?vanity=mercyhousing&set=a.1276732947830563)
 
   The post [The Power of Home. The Power of You.](https://www.mercyhousing.org/2025/11/the-power-of-home-the-power-of-you/) appeared first on [Mercy Housing](https://www.mercyhousing.org).
+published: false
 source: Mercy Housing
 source_url: https://www.mercyhousing.org/2025/11/the-power-of-home-the-power-of-you/
 summarized: true

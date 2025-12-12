@@ -3,6 +3,8 @@ date: '2025-01-15T16:41:20-05:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: "<p>artifact_description: Guidance</p><p>date: Wed, 01 Jan 2025
   21:45:51 -0500</p><p>title: CCIIO and FTC Partnership Letter</p><p>topic: Compliance</p>"
 original_markdown_body: |-

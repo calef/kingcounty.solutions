@@ -3,6 +3,8 @@ date: '2025-11-24T21:30:00+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p>The holidays call for dishes that feel indulgent yet leave you feeling satisfied and energized. Traditional Thanksgiving flavors don’t have to mean oversized plates and post-feast naps. Enter Cranberry Glazed Turkey Meatballs, a wholesome twist on classic comfort, packed into portioned bites making it easier to enjoy the season without overindulging. </p>
 

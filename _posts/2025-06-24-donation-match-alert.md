@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - 4b88b5b4cd2fc2c95ec1cafb8fc07fab89a41d0c410289bee813e09a2dec197a
+locations:
+- South King County
 original_content: |-
   <div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-16018d1d wp-block-buttons-is-layout-flex">
   <div class="wp-block-button has-custom-width wp-block-button__width-100 is-style-fill"><a class="wp-block-button__link has-white-color has-light-green-cyan-background-color has-text-color has-background has-link-color has-x-large-font-size has-custom-font-size wp-element-button" href="https://hospitalityhousesouthking.org/donate/" target="_blank" rel="noreferrer noopener"><strong>CLICK HERE TO DONATE</strong></a></div>

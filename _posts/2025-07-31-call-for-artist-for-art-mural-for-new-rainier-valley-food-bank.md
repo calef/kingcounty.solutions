@@ -3,6 +3,9 @@ date: '2025-07-31T20:51:30+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- Seattle
+- South King County
 original_content: '<p class="">Rainier Valley Food Bank (RVFB) is seeking an artist
   or artist team to design and execute a large mural for the newly completed facility.</p><p
   data-rte-preserve-empty="true" class=""></p><p class=""><strong>Project Background:</strong></p><p

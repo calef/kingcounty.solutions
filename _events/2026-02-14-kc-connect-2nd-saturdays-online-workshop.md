@@ -2,6 +2,8 @@
 end_date: '2026-02-14T13:00:00-08:00'
 images: []
 location: WA
+locations:
+- King County
 original_content: '<div id="simple-banner" class="simple-banner"><div class="simple-banner-text"><span>Did
   you know we offer virtual office hours every weekday? Click <a href="https://us02web.zoom.us/j/88987063870">VIRTUAL
   OFFICE HOURS</a> Mon-Fri, 11AM-1PM or call 253-205-0468 and enter Meeting ID: 889-8706-3870.

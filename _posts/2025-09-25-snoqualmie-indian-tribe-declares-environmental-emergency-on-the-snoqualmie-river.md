@@ -1,6 +1,7 @@
 ---
 date: '2025-09-25T23:15:11+00:00'
 images: []
+locations: []
 original_content: |-
   _Tribe urges partners to support and participate in their efforts to protect and restore flows in the Snoqualmie River._
 

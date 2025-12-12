@@ -1,6 +1,7 @@
 ---
 date: '2025-06-12T21:02:28+00:00'
 images: []
+locations: []
 original_content: "![](https://www.tukwilawa.gov/wp-content/uploads/Mayor-PeoplesPledgeBG-300x200.png)\n\nWe’re
   excited to share that applications are now open for **The People’s Project Steering
   Committee** — a resident-led group that will help design Tukwila’s first-ever Participatory

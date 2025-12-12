@@ -2,6 +2,8 @@
 generated_from_post: true
 images: []
 location: Burien, WA
+locations:
+- Burien
 original_markdown_body: Anticipated completion of a transformative campus providing
   emergency family shelter and affordable housing.
 source: Mary's Place

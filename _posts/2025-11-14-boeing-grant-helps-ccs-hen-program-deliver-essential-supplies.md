@@ -5,6 +5,8 @@ events_extracted: true
 images:
 - a9b1c8beb3d69cbb379637b1ee240dd4be5322d1be1b8bb1d61571dace733c43
 - 6bf5bf4a66ae093fa9072a5acdbd0b81cea4bece903b5c449bcfc9077b53f4bd
+locations:
+- King County
 original_content: |-
   <p>Catholic Community Services&nbsp;(CCS)&nbsp;is grateful to the Boeing Employees Community Fund Puget Sound Chapter for a generous $50,000 grant supporting our Housing and Essential Needs (HEN) program. This funding&nbsp;allowed HEN to&nbsp;purchase&nbsp;a new cargo van, strengthening their impact&nbsp;in&nbsp;our community and delivering supplies and support to those who need them most.&nbsp;</p>
 

@@ -2,6 +2,8 @@
 generated_from_post: true
 images: []
 location: Allegro Performing Arts Academy, Auburn Performing Arts Center
+locations:
+- King County
 original_markdown_body: An inclusive winter event designed for families with sensory
   sensitivities.
 source: Institute on Human Development and Disability

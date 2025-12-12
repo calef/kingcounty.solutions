@@ -2,6 +2,8 @@
 generated_from_post: true
 images: []
 location: ''
+locations:
+- King County
 original_markdown_body: Deadline for applications for the WA EV Charging Program 2,
   which has $19.4 million available for funding charging infrastructure.
 published: false

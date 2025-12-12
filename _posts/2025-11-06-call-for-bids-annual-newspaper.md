@@ -1,6 +1,7 @@
 ---
 date: '2025-11-06T00:28:30+00:00'
 images: []
+locations: []
 original_content: '<div id="page-container"> <div id="et-boc" class="et-boc"> <header
   id="main-header" data-height-onload="80"> <div class="container clearfix et_menu_container">
   <div id="et-top-navigation" data-height="80" data-fixed-height="80"> <div id="et_mobile_nav_menu">

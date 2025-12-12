@@ -2,6 +2,8 @@
 generated_from_post: true
 images: []
 location: Kent Station
+locations:
+- Kent
 original_markdown_body: A four-story garage with 465 spaces is scheduled to open in
   spring 2027.
 source: Sound Transit

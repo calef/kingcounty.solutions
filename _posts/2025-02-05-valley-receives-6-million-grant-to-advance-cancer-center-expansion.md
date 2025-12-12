@@ -3,6 +3,8 @@ date: '2025-02-05T20:47:48+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- South King County
 original_content: |-
   <p><img width="300" height="188" src="https://blog.valleymed.org/wp-content/uploads/2024/11/cancer-center-blog-300x188.jpg" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://blog.valleymed.org/wp-content/uploads/2024/11/cancer-center-blog-300x188.jpg 300w, https://blog.valleymed.org/wp-content/uploads/2024/11/cancer-center-blog-768x480.jpg 768w, https://blog.valleymed.org/wp-content/uploads/2024/11/cancer-center-blog-600x375.jpg 600w, https://blog.valleymed.org/wp-content/uploads/2024/11/cancer-center-blog.jpg 800w" sizes="auto, (max-width: 300px) 100vw, 300px" /></p>
   <p>Valley Medical Center is proud to announce a generous $6 million grant from <strong><span style="text-decoration: underline;"><a href="https://www.norcliffefoundation.org/" data-type="link" data-id="https://www.norcliffefoundation.org/" target="_blank" rel="noreferrer noopener">The Norcliffe Foundation</a></span></strong>, marking a significant milestone in the advancement of our new Cancer Center, which opened to our first patients on Monday. This funding will help propel the project into <strong>Phase 1B</strong>, bringing expanded services and enhanced care to cancer patients in South King County.</p>

@@ -3,6 +3,8 @@ date: '2025-04-24T23:42:50+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p>You may know it as your primary care. Or physical therapist. Or the place with a diverse collection of free safer sex supplies. Soon, University of Washington students will know the classic brick building across from the HUB as one more name. On July 1st, 2024, Hall Health Center (HHC), the University of Washington&rsquo;s convenient and quality student healthcare provider, will relaunch as the Husky&#8230;</p>
   <p><a href="https://wellbeing.uw.edu/new-name/" rel="nofollow">Source</a></p>

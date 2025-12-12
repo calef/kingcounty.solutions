@@ -1,6 +1,7 @@
 ---
 date: '2025-11-20T19:45:04+00:00'
 images: []
+locations: []
 original_content: |-
   <p>The Public Works Board’s next meeting is on December 5, 2025, from 8:30 a.m. – 12:30 p.m. This is a hybrid meeting with online Zoom and in-person participation options.</p>
 

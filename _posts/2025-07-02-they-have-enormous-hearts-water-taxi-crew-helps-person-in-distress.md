@@ -1,6 +1,7 @@
 ---
 date: '2025-07-02T16:00:49+00:00'
 images: []
+locations: []
 original_content: The crew of the King County Water Taxi Sally Fox saw the person
   on the Seacrest Dock in West Seattle as they were preparing to finish their trip
   across Elliott Bay on March 16. As they boarded passengers for the late morning

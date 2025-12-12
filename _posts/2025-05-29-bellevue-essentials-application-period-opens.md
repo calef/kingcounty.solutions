@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - fbb2e5e0560edcc529ba23a9ae442a276a489b0fe170c9f86c03bf762e53eb3f
+locations:
+- Bellevue
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Bellevue
   Essentials application period opens</span>\n<span class=\"field field--name-uid
   field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"

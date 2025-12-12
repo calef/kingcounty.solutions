@@ -2,6 +2,8 @@
 end_date: '2026-03-02T19:30:00-08:00'
 images: []
 location: Meany Hall (MNY)
+locations:
+- King County
 original_content: <div class="field-items"> <div class="field-item"> <p> </p> <p>The
   Campus Band (Solomon Encina, conductor) and Concert Band (Yuman Wu, conductor) present
   their Winter Quarter concert, performing music by Julie Giroux, John Philip Sousa,

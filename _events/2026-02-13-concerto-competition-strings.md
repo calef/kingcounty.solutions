@@ -2,6 +2,8 @@
 end_date: '2026-02-13T15:00:00-08:00'
 images: []
 location: Music Building (MUS)
+locations:
+- King County
 original_content: <div class="field-items"> <div class="field-item"> <p> </p> <p>Students
   from the UW strings studios compete for outside judges for a chance to perform with
   the UW Symphony.</p> <h3> </h3> </div> </div>

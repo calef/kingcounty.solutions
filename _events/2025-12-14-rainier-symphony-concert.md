@@ -2,6 +2,8 @@
 end_date: '2025-12-14T17:00:00-08:00'
 images: []
 location: Foster High’s Performing Arts Center, 4242 S 144th St, Tukwila, 98188
+locations:
+- King County
 original_content: "<section class=\"page-layout interior-layout\"> <div class=\"main-content-area
   events-template\"> <div class=\"container\"> <div id=\"tribe-events-pg-template\"
   class=\"tribe-events-pg-template\"> <section id=\"tribe-events-pg-template\" class=\"tribe-events-pg-template\">

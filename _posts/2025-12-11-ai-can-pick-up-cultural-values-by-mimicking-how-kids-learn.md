@@ -1,0 +1,79 @@
+---
+date: '2025-12-11T17:04:44+00:00'
+images: []
+locations:
+- King County
+original_content: |-
+  <div>
+  <img src="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/12/10095656/Screenshot-2025-12-04-at-4.22.47-PM.png">
+  <p>In the Overcooked video game, players work to cook and deliver as much onion soup as possible. In the study’s version of the game, one player can give onions to help the other who has further to travel to make the soup. The research team wanted to find out if AI systems could learn altruism by watching different cultural groups play the game.<a><span>Oliveira et al./PLOS One</span></a></p>
+  </div>
+  <p><span>Artificial intelligence systems absorb values from their training data. The trouble is that values differ across cultures. So an AI system trained on data from the entire internet won’t work equally well for people from different cultures.</span></p>
+  <p><span>But a new University of Washington study suggests that AI could learn cultural values by observing human behavior. Researchers had AI systems observe people from two cultural groups playing a video game. On average, participants in one group behaved more altruistically. The AI assigned to each group learned that group’s degree of altruism, and was able to apply that value to a novel scenario beyond the one they were trained on.</span></p>
+  <p><span>The team </span><a><span>published its findings</span></a><span> Dec. 9 in PLOS One. </span></p>
+  <p><span>“We shouldn’t hard code a universal set of values into AI systems, because many cultures have their own values,” said senior author </span><a><span>Rajesh Rao</span></a><span>, a UW professor in the Paul G. Allen School of Computer Science &amp; Engineering and co-director of the Center for Neurotechnology. “So we wanted to find out if an AI system can learn values the way children do, by observing people in their culture and absorbing their values.”</span></p>
+  <p><span>As inspiration, the team looked to </span><a><span>previous UW research</span></a><span> showing that 19-month-old children raised in Latino and Asian households were more </span><a><span>prone to altruism</span></a><span> than those from other cultures. </span></p>
+  <p><span>In the AI study, the team recruited 190 adults who identified as white and 110 who identified as Latino. Each group was assigned </span><a><span>an AI agent</span></a><span>, a system that can function autonomously. </span></p>
+  <p><span>These agents were trained with a method called inverse reinforcement learning, or IRL. In the more common AI training method, reinforcement learning, or RL, a system is given a goal and gets rewarded based on how well it works toward that goal. In IRL, the AI system observes the behavior of a human or another AI agent, and infers the goal and underlying rewards. So a robot trained to play tennis with RL would be rewarded when it scores points, while a robot trained with IRL would watch professionals playing tennis and learn to emulate them by inferring goals such as scoring points.</span></p>
+  <p><span>This IRL approach more closely aligns with how humans develop. </span></p>
+  <p><span>“P</span><span>arents don’t simply train children to do a specific task over and over. Rather, they model or act in the general way they want their children to act. For example, they model sharing and caring towards others</span><span>,” said co-author </span><a><span>Andrew Meltzoff</span></a><span>, a UW professor of psychology and co-director of Institute for Learning &amp; Brain Sciences (I-LABS). “Kids learn almost by osmosis how people act in a community or culture. The human values they learn are more ‘caught’ than ‘taught.’”</span></p>
+  <p><span>In the study, the AI agents were given the data of the participants playing a modified version of the video game Overcooked, in which players work to cook and deliver as much onion soup as possible. Players could see into another kitchen where a second player had to walk further to accomplish the same tasks, putting them at an obvious disadvantage. Participants didn’t know that the second player was a bot programmed to ask the human players for help. Participants could choose to give away onions to help the bot but at the personal cost of delivering less soup. </span></p>
+  <p><span>Researchers found that overall the people in the Latino group chose to help more than those in the white group, and the AI agents learned the altruistic values of the group they were trained on. When playing the game, the agent trained on Latino data gave away more onions than the other agent. </span></p>
+  <p><span>To see if the AI agents had learned a general set of values for altruism, the team conducted a second experiment. In a separate scenario, the agents had to decide whether to</span><span> donate a portion of their money to someone in need. Again, the agents trained on Latino data from Overcooked were more altruistic. </span></p>
+  <p><span>“We think that our proof-of-concept demonstrations would scale as you increase the amount and variety of culture-specific data you feed to the AI agent. Using such an approach, an AI company could potentially fine-tune their model to learn a specific culture’s values before deploying their AI system in that culture,” Rao said. </span></p>
+  <p><span>Additional research is needed to know how this type of IRL training would perform in real-world scenarios, with more cultural groups, competing sets of values, and more complicated problems.</span></p>
+  <p><span>“Creating culturally attuned AI is an essential question for society,” Meltzoff said. “How do we create systems that can take the perspectives of others into account and become civic minded?”</span></p>
+  <p><a><i><span>Nigini Oliveira</span></i></a><i><span>, a UW post-doctoral scholar in the Allen School, and </span></i><a><i><span>Jasmine Li</span></i></a><i><span>, a software engineer at Microsoft who completed this research as a UW student, were co-lead authors. Other co-authors include </span></i><a><i><span>Koosha Khalvati</span></i></a><i><span>, a scientist at the Allen Institute who completed this research as a UW doctoral student; </span></i><a><i><span>Rodolfo Cortes Barragan</span></i></a><i><span>, an assistant professor at San Diego State University, who completed this research as a post-doctoral scholar at UW; and </span></i><a><i><span>Katharina Reinecke</span></i></a><i><span>, a professor in the Allen School and director of the </span></i><a><i><span>Center for Globally Beneficial AI</span></i></a><i><span> at UW. </span></i></p>
+  <p><i><span>For more information, contact Rao at </span></i><a><i><span>rao@cs.washington.edu</span></i></a><i><span>.</span></i></p>
+  <p><a></a><a></a><a></a><a></a><a></a><a></a></p>
+original_content_checksum: 891a213eba33c1e38750c3ee3b761d212b5878ee
+original_markdown_body: |-
+  ![](https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/12/10095656/Screenshot-2025-12-04-at-4.22.47-PM.png)
+
+  In the Overcooked video game, players work to cook and deliver as much onion soup as possible. In the study’s version of the game, one player can give onions to help the other who has further to travel to make the soup. The research team wanted to find out if AI systems could learn altruism by watching different cultural groups play the game.Oliveira et al./PLOS One
+
+  Artificial intelligence systems absorb values from their training data. The trouble is that values differ across cultures. So an AI system trained on data from the entire internet won’t work equally well for people from different cultures.
+
+  But a new University of Washington study suggests that AI could learn cultural values by observing human behavior. Researchers had AI systems observe people from two cultural groups playing a video game. On average, participants in one group behaved more altruistically. The AI assigned to each group learned that group’s degree of altruism, and was able to apply that value to a novel scenario beyond the one they were trained on.
+
+  The team published its findings Dec. 9 in PLOS One.&nbsp;
+
+  “We shouldn’t hard code a universal set of values into AI systems, because many cultures have their own values,” said senior author Rajesh Rao, a UW professor in the Paul G. Allen School of Computer Science & Engineering and co-director of the Center for Neurotechnology. “So we wanted to find out if an AI system can learn values the way children do, by observing people in their culture and absorbing their values.”
+
+  As inspiration, the team looked to previous UW research showing that 19-month-old children raised in Latino and Asian households were more prone to altruism than those from other cultures.&nbsp;
+
+  In the AI study, the team recruited 190 adults who identified as white and 110 who identified as Latino. Each group was assigned an AI agent, a system that can function autonomously.&nbsp;
+
+  These agents were trained with a method called inverse reinforcement learning, or IRL. In the more common AI training method, reinforcement learning, or RL, a system is given a goal and gets rewarded based on how well it works toward that goal. In IRL, the AI system observes the behavior of a human or another AI agent, and infers the goal and underlying rewards. So a robot trained to play tennis with RL would be rewarded when it scores points, while a robot trained with IRL would watch professionals playing tennis and learn to emulate them by inferring goals such as scoring points.
+
+  This IRL approach more closely aligns with how humans develop.&nbsp;
+
+  “Parents don’t simply train children to do a specific task over and over. Rather, they model or act in the general way they want their children to act. For example, they model sharing and caring towards others,” said co-author Andrew Meltzoff, a UW professor of psychology and co-director of Institute for Learning & Brain Sciences (I-LABS). “Kids learn almost by osmosis how people act in a community or culture. The human values they learn are more ‘caught’ than ‘taught.’”
+
+  In the study, the AI agents were given the data of the participants playing a modified version of the video game Overcooked, in which players work to cook and deliver as much onion soup as possible. Players could see into another kitchen where a second player had to walk further to accomplish the same tasks, putting them at an obvious disadvantage. Participants didn’t know that the second player was a bot programmed to ask the human players for help. Participants could choose to give away onions to help the bot but at the personal cost of delivering less soup.&nbsp;
+
+  Researchers found that overall the people in the Latino group chose to help more than those in the white group, and the AI agents learned the altruistic values of the group they were trained on. When playing the game, the agent trained on Latino data gave away more onions than the other agent.&nbsp;
+
+  To see if the AI agents had learned a general set of values for altruism, the team conducted a second experiment. In a separate scenario, the agents had to decide whether to donate a portion of their money to someone in need. Again, the agents trained on Latino data from Overcooked were more altruistic.&nbsp;
+
+  “We think that our proof-of-concept demonstrations would scale as you increase the amount and variety of culture-specific data you feed to the AI agent. Using such an approach, an AI company could potentially fine-tune their model to learn a specific culture’s values before deploying their AI system in that culture,” Rao said.&nbsp;
+
+  Additional research is needed to know how this type of IRL training would perform in real-world scenarios, with more cultural groups, competing sets of values, and more complicated problems.
+
+  “Creating culturally attuned AI is an essential question for society,” Meltzoff said. “How do we create systems that can take the perspectives of others into account and become civic minded?”
+
+  _Nigini Oliveira __, a UW post-doctoral scholar in the Allen School, and_ _Jasmine Li__ , a software engineer at Microsoft who completed this research as a UW student, were co-lead authors. Other co-authors include_ _Koosha Khalvati __, a scientist at the Allen Institute who completed this research as a UW doctoral student;_ _Rodolfo Cortes Barragan__ , an assistant professor at San Diego State University, who completed this research as a post-doctoral scholar at UW; and_ _Katharina Reinecke__, a professor in the Allen School and director of the_ _Center for Globally Beneficial AI_ _at UW.&nbsp;_
+
+  _For more information, contact Rao at_ _rao@cs.washington.edu__._
+published: false
+rss_guid: https://www.washington.edu/news/?p=90064
+source: University of Washington
+source_url: https://www.washington.edu/news/2025/12/11/ai-training-cultural-values/
+summarized: true
+title: AI can pick up cultural values by mimicking how kids learn
+topics: []
+---
+
+A study from the University of Washington shows that artificial intelligence can learn cultural values through observation. Researchers examined how AI systems trained on data from two cultural groups—white and Latino—interacted in a modified version of the video game Overcooked, where players help each other cook onion soup. Participants from the Latino group displayed more altruistic behavior, opting to share onions with a bot player at a personal cost. The AI trained on this group's data emulated their altruistic tendencies, giving away more onions than the AI trained on the white group’s data.
+
+The study used a method called inverse reinforcement learning, allowing AI to learn by observing human behavior rather than receiving explicit rewards. This approach mirrors how children learn values within their culture. The findings suggest that with enough culture-specific data, AI could be fine-tuned to reflect the values of different communities. Further research is needed to explore how this training performs in real-world scenarios with diverse cultural backgrounds and complex ethical challenges. The study emphasizes the importance of creating culturally aware AI systems that understand and respect different human values.

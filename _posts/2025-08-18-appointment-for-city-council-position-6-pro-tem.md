@@ -1,6 +1,7 @@
 ---
 date: '2025-08-18T23:54:04+00:00'
 images: []
+locations: []
 original_content: |-
   \*\*Congratulations to Joe Torres Camacho, who was appointed by the City Council on August 25 to Councilmember pro tem for Position 6. Joe was sworn in on Tuesday, September 2, 2025\*\*
 

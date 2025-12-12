@@ -1,6 +1,7 @@
 ---
 date: '2025-10-30T23:03:50+00:00'
 images: []
+locations: []
 original_content: "Service Details for Arlene Ventura\n\nWednesday, November 5th  \nFlintoft’s
   Funeral Home Issaquah, WA  \n4pm-7pm Viewing  \n5pm-Memorial Tribute Speaking will
   be open\n\nThursday, November 6th  \n10am Funeral Service, Snoqualmie Casino & Hotel

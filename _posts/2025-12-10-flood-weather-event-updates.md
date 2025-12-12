@@ -1,6 +1,7 @@
 ---
 date: '2025-12-10T00:37:00+00:00'
 images: []
+locations: []
 original_content: <img src="https://www.auburnwa.gov/UserFiles/Servers/Server_11470554/Image/News/Weather%20Update%20graphic.png">
 original_content_checksum: c9ca033a33c7440819e15d91b35a7a158b19358f
 original_markdown_body: "![](https://www.auburnwa.gov/UserFiles/Servers/Server_11470554/Image/News/Weather%20Update%20graphic.png)"

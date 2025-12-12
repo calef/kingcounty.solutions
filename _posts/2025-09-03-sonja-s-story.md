@@ -3,6 +3,8 @@ date: '2025-09-03T22:41:05+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p>For decades, glass artist Sonja Blomdahl worked in her Seattle studio, creating luminous vessels that caught light and color in a way that seemed to hold hope inside them. She was no stranger to discipline, teamwork, and the physicality of creation. But nothing prepared her for the physical and emotional intensity of a cancer diagnosis.</p>
   <p>In June 2022, after years of routine mammograms, Sonja expected another “all clear.” Instead, she entered a summer of callbacks, repeat tests, and mounting uncertainty. By August, the words she had feared were on paper:<strong> </strong>lobular breast cancer, a subtype that often evades mammograms.</p>

@@ -2,6 +2,8 @@
 end_date: '2025-12-17T15:00:00-08:00'
 images: []
 location: ''
+locations:
+- King County
 original_content: "<div> <a>Skip to Main Content</a> </div> <div> <a>Accessibility
   Overview</a> </div> <div> <div> <div> <div> <div> <span>Welcome to UW Zoom</span>
   </div> <div> <ul> <li><a>UW ZOOM FAQ</a></li> <li><a>SCHEDULE A MEETING</a></li>

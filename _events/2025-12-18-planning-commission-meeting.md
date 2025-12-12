@@ -2,6 +2,8 @@
 end_date: '2025-12-18T21:00:00-08:00'
 images: []
 location: Zoom Meeting
+locations:
+- Normandy Park
 original_content: <div> <div> <header> <div> <div> <div> <div> <span>Select Page</span>
   </div> </div> </div> </div> </header> <div> <section> <div> <p> <a> « All Events</a>
   </p> <h1>Planning Commission Meeting</h1> <div> <div> <span>December 18 @ 7:00 pm</span>

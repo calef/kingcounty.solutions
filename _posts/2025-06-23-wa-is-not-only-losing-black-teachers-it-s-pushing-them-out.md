@@ -3,6 +3,8 @@ date: '2025-06-23T22:28:48+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: Juneteenth is a time for celebrating Black liberation. However,
   160 years later, and 71 years after the desegregation of public schools, today’s
   education system continues to fail Black and brown educators. With diversity, equity

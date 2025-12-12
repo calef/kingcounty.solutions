@@ -10,6 +10,8 @@ images:
 - '0654038a8d207099c552ffcd5ff3cae1ac44fca9ed45a58ed186d71dcf1ef397'
 - 4247b3de5ccd460cd8fb8076d28574be8a6541d5649dbd1d12bf2523bd93b180
 - ca20f6e4c1ab4a7c138125381f6a2cf162ba2213a11cb544d3d1cf3bc8337a59
+locations:
+- King County
 original_content: '<h3>Executive Constantine gives his final State of the County address</h3><p>Today
   King County Executive Dow Constantine delivered his <a href="https://vimeo.com/1069749528/8441a681a4?ts=0&amp;share=copy">final
   State of the County address</a>, looking back on successes over the past 16 years,

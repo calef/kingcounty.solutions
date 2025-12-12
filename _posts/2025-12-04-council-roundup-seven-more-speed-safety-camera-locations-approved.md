@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - 68407eadeeb9a22e88f3e779a3262c887ba954a9017f6384e2bc1c45c50a5b3c
+locations:
+- King County
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Council
   Roundup: Seven more speed safety camera locations approved</span>\n<span class=\"field
   field--name-uid field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"

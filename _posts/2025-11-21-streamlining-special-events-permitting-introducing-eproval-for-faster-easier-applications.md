@@ -1,6 +1,7 @@
 ---
 date: '2025-11-21T22:27:03+00:00'
 images: []
+locations: []
 original_content: We are thrilled to announce the launch of Eproval, a new online
   Special Events permitting software that makes it easier to get a special events
   permit. This shift to a software-based application and permitting system modernizes

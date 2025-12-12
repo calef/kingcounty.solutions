@@ -3,6 +3,8 @@ date: '2025-09-24T20:30:40+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <h2><strong>Donor Spotlight: Jennifer’s Story – Investing in Hope, Year After Year</strong></h2>
   <p>Fourteen years ago, Jennifer attended her first <span style="color: #ff6600;"><a style="color: #ff6600;" href="https://youtheastsideservices.org/investinyouth"><em>Invest in Youth Breakfast</em></a></span> at the invitation of her friend and YES board member, Jennifer Ivan. She had no idea then how much that one morning would shape her ongoing commitment to youth mental health in our community.</p>

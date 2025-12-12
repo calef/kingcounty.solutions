@@ -3,6 +3,8 @@ date: '2025-08-11T21:57:54+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   Navigating the immigration system can be overwhelming—especially for youth and young adults who may be facing it for the first time.
 

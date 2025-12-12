@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - 1290d1508ca84c7222b90c17d52f5c3bc2056b8d713a797b5d201c78f5f562ad
+locations:
+- King County
 original_content: "<div class=\"et_pb_section et_pb_section_3 et_section_regular\"
   >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_row
   et_pb_row_3\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4 et_pb_column_3

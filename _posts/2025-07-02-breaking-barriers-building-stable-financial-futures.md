@@ -3,6 +3,8 @@ date: '2025-07-02T20:55:02+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: "<p class=\"\">Too often, navigating the banking system, budgeting,
   and building credit can feel overwhelming. These skills are usually not taught in
   school and can be especially challenging for those whose native language isn’t English

@@ -2,6 +2,8 @@
 end_date: '2025-12-18T20:00:00-08:00'
 images: []
 location: Together Conference Center, 16305 NE 87th St, Redmond, 98052, United States
+locations:
+- King County
 original_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <div> <span>
   Event Series: </span> <a> <span> NAMI Eastside | In Person Peer Support Group </span>
   </a> </div> <h1>NAMI Eastside | In Person Peer Support Group</h1> <div> <div> <span>December

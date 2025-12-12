@@ -2,6 +2,8 @@
 generated_from_post: true
 images: []
 location: Library
+locations:
+- King County
 original_markdown_body: A special screening followed by a panel discussion about the
   challenges librarians face today.
 published: false

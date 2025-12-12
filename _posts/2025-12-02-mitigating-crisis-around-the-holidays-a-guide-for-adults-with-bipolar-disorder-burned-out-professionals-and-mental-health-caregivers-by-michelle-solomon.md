@@ -3,6 +3,8 @@ date: '2025-12-02T21:34:09+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: "<p>While holidays and the end of the year are often associated
   with celebration, connection with loved ones, traditions, and planning for the year
   ahead, they can also be met with chaos, stress, triggers, and sometimes even unexpected

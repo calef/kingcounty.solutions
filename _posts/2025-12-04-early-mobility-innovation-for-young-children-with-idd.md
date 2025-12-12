@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - ba0e3c7e53985f41e6c45aa0ae98430365d9e7d95c68105f7037a11c27a54d94
+locations:
+- King County
 original_content: "<div class=\"wpb-content-wrapper\">\r\n<div  data-mk-stretch-content=\"true\"
   class=\"wpb_row vc_row vc_row-fluid jupiter-donut- mk-fullwidth-false  attched-false
   \    js-master-row  mk-grid\">\r\n\t\t\t\t\r\n<div class=\"vc_col-sm-9 wpb_column

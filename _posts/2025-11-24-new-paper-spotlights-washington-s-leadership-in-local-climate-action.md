@@ -1,6 +1,7 @@
 ---
 date: '2025-11-24T21:57:24+00:00'
 images: []
+locations: []
 original_content: |-
   <p>Washington’s pioneering growth-management tools, financial incentives, and regulatory requirements are offering lessons for other states aiming to spur local climate action.</p>
 

@@ -1,9 +1,9 @@
 ---
 date: '2025-09-18T17:27:10+00:00'
-events:
-- 2026-06-18-swing-fore-the-kids-golf-outing
+events: []
 events_extracted: true
 images: []
+locations: []
 original_content: "<div  class=\"wpb_row vc_row vc_row-fluid  mk-fullwidth-false  attched-false
   \    js-master-row \">\n\t\t\n\t\t\t\n<div style=\"\" class=\"vc_col-sm-12 wpb_column
   column_container  _ height-full\">\n\t\n<div id=\"text-block-5\" class=\"mk-text-block
@@ -92,6 +92,7 @@ original_markdown_body: "Join us for the **inaugural “Swing Fore the Kids” G
   first appeared on [Boyer Children's Clinic](https://www.boyercc.org).\n\nThe post
   [“Swing Fore the Kids”](https://www.boyercc.org/events/golf-tournament-2026/) appeared
   first on [Boyer Children's Clinic](https://www.boyercc.org)."
+published: false
 source: Boyer Children's Clinic
 source_url: https://www.boyercc.org/events/golf-tournament-2026/
 summarized: true

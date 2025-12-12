@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - 63abec4f311eac921476eaec9c04865ea20ed4acc3ba5e50c3dd0b42d1da9f49
+locations:
+- King County
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Bellevue
   selects developers for transit-oriented projects in BelRed Arts District </span>\n<span
   class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span

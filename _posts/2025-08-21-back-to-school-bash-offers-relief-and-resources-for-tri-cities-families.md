@@ -1,6 +1,7 @@
 ---
 date: '2025-08-21T19:00:52+00:00'
 images: []
+locations: []
 original_content: "<div class=\"et_pb_section et_pb_section_6 blog-post-type et_section_regular\"
   >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_row
   et_pb_row_21\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4 et_pb_column_30

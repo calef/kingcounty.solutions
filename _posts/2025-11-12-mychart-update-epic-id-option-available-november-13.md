@@ -3,6 +3,8 @@ date: '2025-11-12T22:45:19+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p><img width="300" height="188" src="https://blog.valleymed.org/wp-content/uploads/2025/11/MyChart-Central_Blog-Header-2-300x188.png" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" srcset="https://blog.valleymed.org/wp-content/uploads/2025/11/MyChart-Central_Blog-Header-2-300x188.png 300w, https://blog.valleymed.org/wp-content/uploads/2025/11/MyChart-Central_Blog-Header-2-768x480.png 768w, https://blog.valleymed.org/wp-content/uploads/2025/11/MyChart-Central_Blog-Header-2-600x375.png 600w, https://blog.valleymed.org/wp-content/uploads/2025/11/MyChart-Central_Blog-Header-2.png 800w" sizes="(max-width: 300px) 100vw, 300px" /></p>
   <p>Beginning November 13, you may notice that the MyChart login screen looks a little different. That’s because MyChart now offers the option to create an Epic ID — a single, secure login that can be used across all of your MyChart accounts. Whether you choose to create an Epic ID or continue logging in the way you always have, your experience will remain the same. Proxy access and other features are not changing.</p>

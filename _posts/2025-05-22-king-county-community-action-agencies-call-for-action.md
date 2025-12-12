@@ -3,6 +3,8 @@ date: '2025-05-22T17:08:38+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: Budget proposals would devastate regional nonprofit sector’s ability
   to respond to economic crisis, agencies warn – leaving hundreds of thousands of
   community members in King County without critical resources. King County’s Community

@@ -67,6 +67,8 @@ images:
 - df216f7b7493d39bc33e1459f96bf6ee6cec06133a2ae290819d90ec6da20460
 - 1accd8453366ea4c75b0f651276bfcd86020b4a8d413f3de9720e551f21033db
 - 283cd3c81353964056bf8456819c2c5f70657296e3cce7944d355109544dfa8f
+locations:
+- King County
 original_content: "<div class=\"wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-8cf370e7
   wp-block-group-is-layout-flex\">\n<p><strong>Child &amp; Family Services – ParentChild+
   Graduation Celebration</strong></p>\n\n\n\n<p>On August 20, 2025, our ParentChild+

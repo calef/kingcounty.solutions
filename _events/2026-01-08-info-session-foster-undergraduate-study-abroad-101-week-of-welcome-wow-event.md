@@ -2,6 +2,8 @@
 end_date: '2026-01-08T13:15:00-08:00'
 images: []
 location: PACCAR Hall (PCAR)
+locations:
+- King County
 original_content: '<a id="main-content" href="#Boundless" class="screen-reader-shortcut">Skip
   to main content</a> <div id="uw-container"> <div id="uw-container-inner"> <section
   class="foster-body container no-left-nav no-right-sidebar"> <div class="row"> <div

@@ -3,6 +3,8 @@ date: '2025-05-22T16:52:21+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: Kim Donovan lives with MS. For her, affordable housing in Seattle
   wasn’t just shelter. It restored her independence, dignity, and community.
 original_markdown_body: Kim Donovan lives with MS. For her, affordable housing in

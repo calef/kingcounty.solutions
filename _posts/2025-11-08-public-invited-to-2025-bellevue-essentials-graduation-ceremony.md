@@ -1,6 +1,7 @@
 ---
 date: '2025-11-08T00:00:32+00:00'
 images: []
+locations: []
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Public
   invited to 2025 Bellevue Essentials graduation ceremony </span>\n<span class=\"field
   field--name-uid field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/arich\"

@@ -2,6 +2,8 @@
 generated_from_post: true
 images: []
 location: ''
+locations:
+- King County
 original_markdown_body: Deadline for submitting applications and recommendation letters
   for the CQC Scholarship.
 source: City of Carnation

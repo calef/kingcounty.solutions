@@ -5,6 +5,8 @@ events:
 events_extracted: true
 images:
 - 996c63501ba67731534051a8a9025a298a590937a4dd1d17959d6673354937d6
+locations:
+- King County
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Council
   Roundup: Update on middle housing and Meydenbauer Bay Park expansion</span>\n<span
   class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span

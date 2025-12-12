@@ -3,6 +3,8 @@ date: '2025-10-01T06:00:33+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- South King County
 original_content: |-
   <p>Exercise at this stage in life is less about pushing hard and more about protecting your independence and mobility. It&#8217;s about choosing the right kind of movement to support your energy, ease—and your joints. Being able to get up and down from the floor at age eighty doesn&#8217;t just happen. It takes intentional behavior now [&#8230;]</p>
   <p>The post <a href="https://agingwisdom.com/being-active-as-you-age/">Being active as you age</a> appeared first on <a href="https://agingwisdom.com">Aging Wisdom</a>.</p>

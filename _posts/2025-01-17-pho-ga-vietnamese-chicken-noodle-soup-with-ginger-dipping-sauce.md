@@ -1,6 +1,7 @@
 ---
 date: '2025-01-17T19:28:00+00:00'
 images: []
+locations: []
 original_content: "<p class=\"\">Shared by <a href=\"https://thepantryseattle.com/\"
   target=\"_blank\"><em>The Pantry Seattle</em></a></p><p class=\"\">Recipe adapted
   from Michelle Nguyen </p><p class=\"\">Yield: 4 serving</p><h3>Ingredients</h3><h4>Broth</h4><p

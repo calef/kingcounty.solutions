@@ -2,8 +2,8 @@
 date: '2025-11-19T21:38:05+00:00'
 events: []
 events_extracted: true
-images:
-- 0f0fd435935c902912454cab1b10eb0c0da51ae261a4d975ac2d629753903b92
+images: []
+locations: []
 original_content: |-
   <p>As one of the nation’s leading philanthropic initiatives, Bank of America’s Neighborhood Builders program strengthens nonprofit leadership nationwide and supplies multiyear flexible funding annually to organizations driving community impact.</p>
   <p>We will use the funding to expand a Behavioral Health Navigation program, primarily for senior residents in the Atlanta metro area.</p>
@@ -27,6 +27,7 @@ original_markdown_body: |-
   **Thank you, Bank of America, for investing in our shared vision of housing as the foundation for a thriving life.**
 
   The post [Behavioral Health Program Gains Strength](https://www.mercyhousing.org/2025/11/behavioral-health-program-gains-strength/) appeared first on [Mercy Housing](https://www.mercyhousing.org).
+published: false
 source: Mercy Housing
 source_url: https://www.mercyhousing.org/2025/11/behavioral-health-program-gains-strength/
 summarized: true

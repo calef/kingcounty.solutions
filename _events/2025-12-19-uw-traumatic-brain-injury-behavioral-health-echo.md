@@ -2,6 +2,8 @@
 end_date: '2025-12-19T13:30:00-08:00'
 images: []
 location: ''
+locations:
+- King County
 original_content: '<article id="post-30" class="post-30 page type-page status-publish
   hentry"> <header class="entry-header"> <h1 class="entry-title">Welcome</h1> </header>
   <div class="entry-content"> <div class="wp-block-media-text alignwide has-media-on-the-right

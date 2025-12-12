@@ -3,6 +3,9 @@ date: '2025-01-09T21:25:32+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- South King County
+- Bryn Mawr-Skyway
 original_content: |-
   <p><img width="300" height="188" src="https://blog.valleymed.org/wp-content/uploads/2025/01/EatSmart-art-final-300x188.jpg" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://blog.valleymed.org/wp-content/uploads/2025/01/EatSmart-art-final-300x188.jpg 300w, https://blog.valleymed.org/wp-content/uploads/2025/01/EatSmart-art-final-768x480.jpg 768w, https://blog.valleymed.org/wp-content/uploads/2025/01/EatSmart-art-final-600x375.jpg 600w, https://blog.valleymed.org/wp-content/uploads/2025/01/EatSmart-art-final.jpg 800w" sizes="auto, (max-width: 300px) 100vw, 300px" /></p>
   <h2 class="wp-block-heading">Reset your relationship with food, focusing on nutrition and well-being, in our new 3-session workshop led by a Registered Dietitian</h2>

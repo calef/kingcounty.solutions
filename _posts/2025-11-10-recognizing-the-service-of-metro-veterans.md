@@ -3,6 +3,8 @@ date: '2025-11-10T20:57:22+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: By Ernest Kandilige, Metro Deputy General Manager As Veterans Day
   (Nov. 11) approaches, I want to take a moment to recognize and thank all of Metro’s
   military service members, past and...

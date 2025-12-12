@@ -5,6 +5,8 @@ events_extracted: true
 images:
 - 722fde6680dc51b5e7df806de22c9d92a80b900cd3a4718132652a68ee89eb17
 - 9999eae0009b82bb6aed01af80badd5ea5d01d3aa14e7e4ed6e7a3e0fcb44ea6
+locations:
+- King County
 original_content: |-
   <p>On a warm July afternoon, the Queen Anne Food Bank opens its doors wide to a line of neighbors that winds through the parking lot and down the block. Everyone is welcomed with a smile by Food Bank staff and volunteers, leaving with a nourishing bag of groceries handed to them by a member of the Food Bank team.&nbsp;</p>
 

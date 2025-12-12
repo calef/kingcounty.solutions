@@ -3,6 +3,8 @@ date: '2025-07-24T19:16:00+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: <p>The post <a href="https://www.kcsarc.org/en/alexandra-jaynes-blog/">Alexandra
   Jayne&#8217;s Blog</a> appeared first on <a href="https://www.kcsarc.org/en/">KCSARC</a>.</p>
 original_markdown_body: The post [Alexandra Jayne’s Blog](https://www.kcsarc.org/en/alexandra-jaynes-blog/)

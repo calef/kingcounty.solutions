@@ -3,6 +3,8 @@ date: '2025-05-23T19:05:01+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p>In this episode of <em>Curiosity at Work</em>, Dr. Julie Pham interviews Ed Ewing, Executive Director of Bike Works, a Seattle-based nonprofit that empowers youth and builds community through bicycles. With over 30 years of leadership experience in marketing, nonprofit strategy, and community building, Ed shares how his deep passion for social justice, racial equity, and cycling fuels the mission at Bike Works. From selling refurbished bikes to funding youth programs, Ed explains how Bike Works operates as a nonprofit bike shop, reinvesting all revenue into the community. His visionary leadership focuses on creating access for underserved communities, especially in Seattle’s South End, while using the bike as a powerful tool for connection and transformation. <a href="https://curiositybased.com/26-curiosity-in-nonprofit-retail-with-ed-ewing/">Read the rest of the article here.</a></p>
 

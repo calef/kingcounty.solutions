@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - 706525b1263105b058792f574ef8764b4a4fd31faf8979b6c19cb08b32305c83
+locations:
+- King County
 original_content: |-
   <p>In the heart of Augusta, Georgia, Valerie Jordan, an Army Veteran and high school teacher, found herself facing a life-altering challenge. Known for her unwavering spirit and dedication to her students in Richmond County, Jordan’s world was turned upside down on Thanksgiving Day in 2022, when she suddenly lost vision in her left eye.</p>
 

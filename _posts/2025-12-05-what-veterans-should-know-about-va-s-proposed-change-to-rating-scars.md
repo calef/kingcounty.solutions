@@ -3,6 +3,8 @@ date: '2025-12-05T19:53:33+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: "<div class=\"editor clearfix\">\n\n    \n    <p>Veterans are guided
   by a mindset of strength and discipline. Going the extra mile in uniform—literally,
   at times—was commonplace and celebrated. We’re hardwired to push through, no matter

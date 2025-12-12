@@ -1,6 +1,7 @@
 ---
 date: '2025-11-11T17:59:17+00:00'
 images: []
+locations: []
 original_content: |-
   <figure class="wp-block-image size-large"><img decoding="async" src="https://wallingfordseniors.org/wp-content/uploads/2025/11/Holiday-Lights-3-783x1024.png" alt="" class="wp-image-3614"/></figure>
 

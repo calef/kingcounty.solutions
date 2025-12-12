@@ -2,6 +2,7 @@
 generated_from_post: true
 images: []
 location: Myrtle Beach
+locations: []
 original_markdown_body: A boot camp for military and veteran founders, focusing on
   entrepreneurship and business development.
 published: false

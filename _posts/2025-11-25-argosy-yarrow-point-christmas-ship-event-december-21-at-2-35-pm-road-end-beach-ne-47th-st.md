@@ -1,6 +1,7 @@
 ---
 date: '2025-11-25T18:50:03+00:00'
 images: []
+locations: []
 original_content: '<p><img fetchpriority="high" decoding="async" class="alignnone
   size-full wp-image-8130" src="https://yarrowpointwa.gov/wp-content/uploads/2025/11/2025-Argosy-Christmas-Ship-Flyer.jpg"
   alt="" width="1275" height="1650" srcset="https://yarrowpointwa.gov/wp-content/uploads/2025/11/2025-Argosy-Christmas-Ship-Flyer.jpg

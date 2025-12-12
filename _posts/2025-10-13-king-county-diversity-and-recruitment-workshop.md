@@ -3,6 +3,8 @@ date: '2025-10-13T22:40:45+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   Fire departments across King County are seeking future firefighters and are expanding their recruitment efforts to provide applicants with valuable information on navigating the hiring process. Mentors from the profession will also be available to workshop attendees.
 

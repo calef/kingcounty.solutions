@@ -2,6 +2,8 @@
 end_date: '2026-01-22T13:30:00-08:00'
 images: []
 location: Virtual Event
+locations:
+- King County
 original_content: "<div> <div> <div> <p>We’re excited to see you at <strong>Create
   a Legacy: Estate Planning Fundamentals</strong>, a free virtual session with <a><strong>James
   McBain</strong></a>, Senior VP at U.S. Bank Private Wealth Management, and Anna

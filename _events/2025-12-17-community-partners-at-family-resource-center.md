@@ -3,6 +3,8 @@ end_date: '2025-12-17T17:00:00-08:00'
 images: []
 location: Wallingford Food Bank, 1501 North 45th Street, Seattle, WA, 98103, United
   States
+locations:
+- King County
 original_content: '<a class="skip-link screen-reader-text" href="#content">Skip to
   content</a> <header data-elementor-type="header" data-elementor-id="22629" class="elementor
   elementor-22629 elementor-location-header" data-elementor-post-type="elementor_library">

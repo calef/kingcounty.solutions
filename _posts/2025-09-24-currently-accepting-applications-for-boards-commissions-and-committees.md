@@ -1,6 +1,7 @@
 ---
 date: '2025-09-24T22:42:58+00:00'
 images: []
+locations: []
 original_content: "The City of Tukwila is assisted in its operations by the volunteers
   who serve on our Boards, Commissions and Committees in several areas. These advisory
   bodies provide guidance to decision-makers and represent the diverse viewpoints

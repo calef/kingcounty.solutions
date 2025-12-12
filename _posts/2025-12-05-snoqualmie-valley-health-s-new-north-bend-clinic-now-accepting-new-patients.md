@@ -3,6 +3,8 @@ date: '2025-12-05T18:09:50+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: "<div data-elementor-type=\"wp-post\" data-elementor-id=\"18985\"
   class=\"elementor elementor-18985\" data-elementor-post-type=\"post\">\n\t\t\t\t<div
   class=\"elementor-element elementor-element-4a26794 e-flex e-con-boxed e-con e-parent\"

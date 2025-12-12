@@ -3,6 +3,8 @@ date: '2025-04-03T23:46:12+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p>Today, Wellspring’s Early Learning Center (ELC) remains the only program in Washington State specializing in serving children ages one through five who are experiencing the traumatic effects of homelessness.</p>
   <p>Over the past decade, the ELC has served 344 children and 253 families, offering far more than just a safe place to learn. It’s a place where children build resilience, experience stability, and develop the critical skills they need to thrive.</p>

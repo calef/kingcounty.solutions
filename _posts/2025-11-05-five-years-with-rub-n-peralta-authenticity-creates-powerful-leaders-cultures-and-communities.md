@@ -2,8 +2,8 @@
 date: '2025-11-05T19:52:14+00:00'
 events: []
 events_extracted: true
-images:
-- f972abe53ac67d0aab41f107ddaf5b00fa037e409d4ae872d5f5657e0df1429a
+images: []
+locations: []
 original_content: "<div class=\"et_pb_section et_pb_section_1 et_section_regular\"
   >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_row
   et_pb_row_2\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4 et_pb_column_2
@@ -86,6 +86,7 @@ original_markdown_body: |-
   **5. What is your favorite fact about your home county in Washington?**
 
   Franklin County, Pasco specifically, is the place many Mexicans/Latinx from throughout the state come to feel like they are back home in México. We have the largest flea market in the Northwest and possibly the West, two Safeway sized Mexican grocery stores, the oldest and largest Cinco de Mayo celebration in Eastern Washington, and other vibrant traditional Mexican celebrations. Most of all, we have the most authentic Mexican food in the state. You cannot find lengua, tripa, and cabeza tacos and menudo in just any city in Washington.
+published: false
 source: Inatai Foundation
 source_url: https://inatai.org/news/five-years-with-ruben-peralta/
 summarized: true

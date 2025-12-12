@@ -2,6 +2,8 @@
 end_date: '2025-12-11T19:30:00-08:00'
 images: []
 location: El Centro de la Raza, 2524 16th Ave S, Seattle, WA, 98144, United States
+locations:
+- King County
 original_content: "<article><div><section> <div> <p> <a> « All Events</a></p> <h1>Herramientas
   Digitales/ Digital Skills for Life</h1> <div> <div> <span>December 11 @ 5:30 pm</span>
   - <span>7:30 pm</span> </div> <div> <span> Event Series </span> <a> <span> (See

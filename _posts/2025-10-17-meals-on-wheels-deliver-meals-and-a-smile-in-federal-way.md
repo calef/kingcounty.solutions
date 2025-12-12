@@ -3,6 +3,8 @@ date: '2025-10-17T15:00:25+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: "<p><strong>Position: </strong>Alternate Delivery Driver       
                                                                                  
                 <strong>Program:</strong> Meals on Wheels<br /><strong>Location:</strong>

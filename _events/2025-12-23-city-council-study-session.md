@@ -3,6 +3,8 @@ end_date: '2025-12-23T22:00:00-08:00'
 images: []
 location: Council Chambers, 801 SW 174th Street, Normandy Park, WA, 98166, United
   States
+locations:
+- King County
 original_content: '<div id="page-container"> <div id="et-boc" class="et-boc"> <header
   id="main-header" data-height-onload="80"> <div class="container clearfix et_menu_container">
   <div id="et-top-navigation" data-height="80" data-fixed-height="80"> <div id="et_mobile_nav_menu">

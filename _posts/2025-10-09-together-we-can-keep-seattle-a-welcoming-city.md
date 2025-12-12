@@ -5,6 +5,8 @@ events_extracted: true
 images:
 - '07934d6346971be3d69900292d1cc9b96ab0820c7ec74a1e86516d1626a0c9d0'
 - c1f2d2bc9bd291fe36e4b8f0c16b41052d8886e60b552d8d9abb12e6a12a4c19
+locations:
+- King County
 original_content: |-
   <div class="wp-block-image">
   <figure class="alignright size-large is-resized"><img decoding="async" width="600" height="400" src="https://www.rewa.org/wp-content/uploads/2025/10/022-600x400.jpg" alt="" class="wp-image-12222" style="width:408px;height:auto" srcset="https://www.rewa.org/wp-content/uploads/2025/10/022-600x400.jpg 600w, https://www.rewa.org/wp-content/uploads/2025/10/022-360x240.jpg 360w, https://www.rewa.org/wp-content/uploads/2025/10/022-150x100.jpg 150w, https://www.rewa.org/wp-content/uploads/2025/10/022-768x512.jpg 768w, https://www.rewa.org/wp-content/uploads/2025/10/022-1536x1024.jpg 1536w, https://www.rewa.org/wp-content/uploads/2025/10/022-scaled.jpg 2048w" sizes="(max-width: 600px) 100vw, 600px" /></figure></div>

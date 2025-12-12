@@ -6,6 +6,8 @@ events:
 - 2026-01-01-new-year-s-day-transit-schedule
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: The holidays are coming! Whether you are going to holiday events,
   shopping or celebrating with friends and family, it’s a great time to explore your
   transit options. We have some...

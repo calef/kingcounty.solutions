@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - e563f9f0225038ab88822ce9be7e37137499734d55bbec4cfa39601896fc3168
+locations:
+- King County
 original_content: |-
   <figure class="wp-block-image size-full"><img fetchpriority="high" decoding="async" width="1080" height="540" data-attachment-id="8907" data-permalink="https://www.lifewire.org/lifewire-2024-annual-report/untitled-design-23/" data-orig-file="https://www.lifewire.org/wp-content/uploads/2025/03/Untitled-design-23.png" data-orig-size="1080,540" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Untitled design (23)" data-image-description="" data-image-caption="" data-medium-file="https://www.lifewire.org/wp-content/uploads/2025/03/Untitled-design-23-600x300.png" data-large-file="https://www.lifewire.org/wp-content/uploads/2025/03/Untitled-design-23.png" src="https://www.lifewire.org/wp-content/uploads/2025/03/Untitled-design-23.png" alt="" class="wp-image-8907" srcset="https://www.lifewire.org/wp-content/uploads/2025/03/Untitled-design-23.png 1080w, https://www.lifewire.org/wp-content/uploads/2025/03/Untitled-design-23-600x300.png 600w, https://www.lifewire.org/wp-content/uploads/2025/03/Untitled-design-23-300x150.png 300w" sizes="(max-width: 1080px) 100vw, 1080px" /></figure>
 

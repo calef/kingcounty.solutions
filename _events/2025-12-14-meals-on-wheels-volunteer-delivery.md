@@ -3,6 +3,8 @@ end_date: '2025-12-14T11:00:00-08:00'
 generated_from_post: true
 images: []
 location: Bellevue, WA
+locations:
+- King County
 original_markdown_body: Volunteers are needed to deliver meals to homebound seniors
   on Monday mornings.
 source: Sound Generations

@@ -3,6 +3,8 @@ date: '2025-02-07T09:00:24+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p>PIM Savvy VITA now offers Certifying Acceptance Agent (CAA) services to individuals and families in Washington State! We partnered with the Internal Revenue Service (IRS) so we can assist alien individuals and other foreign persons obtain Individual Taxpayer Identification Numbers (ITIN).</p>
 

@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - 68ee3e88914cd2fbe6d75610b050fd085e233bbfb83d44796138d4ada80d85cc
+locations:
+- King County
 original_content: "<p class=\"\">For Keisha, a single mom of three, stability meant
   everything—especially for her oldest child, who has autism and thrives on routine.
   After years of effort, Keisha had finally built a steady life for her family. They’d

@@ -3,6 +3,8 @@ date: '2025-05-23T19:12:55+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p><img width="300" height="188" src="https://blog.valleymed.org/wp-content/uploads/2025/05/LifestyleMed-WhereDoIStart-300x188.jpg" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://blog.valleymed.org/wp-content/uploads/2025/05/LifestyleMed-WhereDoIStart-300x188.jpg 300w, https://blog.valleymed.org/wp-content/uploads/2025/05/LifestyleMed-WhereDoIStart-768x480.jpg 768w, https://blog.valleymed.org/wp-content/uploads/2025/05/LifestyleMed-WhereDoIStart-600x375.jpg 600w, https://blog.valleymed.org/wp-content/uploads/2025/05/LifestyleMed-WhereDoIStart.jpg 800w" sizes="auto, (max-width: 300px) 100vw, 300px" /></p>
   <p>Only 3% of Americans follow all four key habits for a healthy life: physical activity, diet, avoiding tobacco, and body weight. <br><em>(Mayo Clinic Proceedings, 2016)</em></p>

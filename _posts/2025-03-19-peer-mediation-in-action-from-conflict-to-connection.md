@@ -3,6 +3,8 @@ date: '2025-03-19T19:51:49+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <h4 data-pm-slice="1 1 []"><strong>Empowering Youth Through Peer Mediation: A Year in Review</strong></h4>
   <p>We take a moment to celebrate the incredible progress of our Peer Mediation program and reflect on the positive impact it has had on students, staff, and the broader school community. This year, we have seen an increase in student engagement, skill development, and meaningful conflict resolution through peer-led mediations.</p>

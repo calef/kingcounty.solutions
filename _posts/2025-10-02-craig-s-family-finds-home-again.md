@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - 75a1637b9041eba2a14a5983c17a7af3fa77b5a38c627baafa06484ca9e6a25f
+locations:
+- King County
 original_content: "<p class=\"\">For Craig, home had always been the apartment where
   he was raising his two kids, Tanner and Ellie. It was where the kids’ height was
   marked on the wall each year, where birthday candles were blown out, and where the

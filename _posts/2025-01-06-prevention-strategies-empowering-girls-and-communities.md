@@ -3,6 +3,8 @@ date: '2025-01-06T14:00:12+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: "<div class=\"vc_row wpb_row vc_row-fluid\"><div class=\"wpb_column
   vc_column_container vc_col-sm-12\"><div class=\"vc_column-inner\"><div class=\"wpb_wrapper\"><div
   class=\"vcex-module vcex-image-banner wpex-relative wpex-overflow-hidden wpex-max-w-100

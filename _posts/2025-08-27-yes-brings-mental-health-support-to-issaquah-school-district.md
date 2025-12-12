@@ -3,6 +3,8 @@ date: '2025-08-27T17:58:11+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <h2 data-start="308" data-end="340">From One District to Another</h2>
   <p data-start="342" data-end="821">We have exciting news!</p>

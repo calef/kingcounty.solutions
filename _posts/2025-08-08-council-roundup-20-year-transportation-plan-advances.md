@@ -3,6 +3,8 @@ date: '2025-08-08T21:52:28+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Council
   Roundup: 20-year transportation plan advances  </span>\n<span class=\"field field--name-uid
   field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"

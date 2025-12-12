@@ -3,6 +3,8 @@ date: '2025-11-17T11:00:00+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p class="has-text-align-center"><strong><strong>Serving Relief, Sharing Gratitude: Holiday Meals for Military® Helps Families Weather Growing Financial Strain</strong></strong></p>
 

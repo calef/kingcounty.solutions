@@ -3,6 +3,8 @@ end_date: '2025-12-23T14:00:00-08:00'
 images: []
 location: North Bellevue Community Center, 4063 148th Ave NE, Bellevue, 98007, United
   States
+locations:
+- Bellevue
 original_content: '<div class="fusion-row" style=""> <section id="content" style="float:
   left;"> <div id="tribe-events-pg-template"> <div id="tribe-events-content" class="tribe-events-single">
   <p class="tribe-events-back"> <a href="https://cisc-seattle.org/events/"><span>All

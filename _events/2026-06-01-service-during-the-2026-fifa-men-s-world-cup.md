@@ -2,6 +2,8 @@
 generated_from_post: true
 images: []
 location: Various locations in King County, WA
+locations:
+- King County
 original_markdown_body: Plans for enhanced transit service during the World Cup.
 source: King County Metro Transit
 source_url: https://kingcountymetro.blog/2025/11/24/approved-king-county-metros-2026-27-budget-adds-service-invests-in-zero-emissions-safety-and-cleaning/

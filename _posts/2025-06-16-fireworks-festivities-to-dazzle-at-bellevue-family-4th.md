@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - 21936f4a7c21c4d94137788c267617a535fcbf9a14f0dbf65d9e3dea0411e3dc
+locations:
+- King County
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Fireworks,
   festivities to dazzle at Bellevue Family 4th</span>\n<span class=\"field field--name-uid
   field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"

@@ -3,6 +3,8 @@ date: '2025-10-29T19:51:41+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   ## What to Know About SNAP Benefits & the Government Shutdown
 

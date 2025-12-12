@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - 54b2194cee32cf79de9f69c90e4cd73bda2ca4953238e2c9d467f54ca8adda82
+locations:
+- King County
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Grand
   Connection is focus of October Lake to Lake</span>\n<span class=\"field field--name-uid
   field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"

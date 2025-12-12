@@ -3,6 +3,8 @@ date: '2025-03-31T20:12:58-07:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: February 2025We are so grateful for your partnership in offering
   women and children a chance to heal and rebuild. Sacha's House, our community living
   home, is designed to provide the time, space, and support families need to create 

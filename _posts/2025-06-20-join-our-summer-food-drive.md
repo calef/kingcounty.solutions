@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - de502bbb04edf9617b0434d7ed2281a607fe914f3927e2826e15b5620dfb0aea
+locations:
+- Snoqualmie Valley
 original_content: "<figure class=\"\n              sqs-block-image-figure\n              intrinsic\n
   \           \"\n        >\n          \n        \n        \n\n        \n          \n
   \           \n          \n            \n                \n                \n                \n

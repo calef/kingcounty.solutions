@@ -2,6 +2,8 @@
 end_date: '2026-01-08T16:00:00-08:00'
 images: []
 location: Online
+locations:
+- King County
 original_content: "<section> <div> <div> <h2>Benefits</h2> </div> </div> </section>
   <section> <div> <article> <h3>Prepare to retire from UW</h3> <h5>Attend a retirement
   workshop livestream using Zoom</h5> <p>Attending a UW Benefits retirement workshop

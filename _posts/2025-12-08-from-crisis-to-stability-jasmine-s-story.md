@@ -5,6 +5,8 @@ events_extracted: true
 images:
 - 91db255cc39cd1693e91ce6822dc1758fee0dbb09a182173604e5ae9dca42678
 - ed059fb4f1db9b1e4ef7eb2bb47d1abd377f28edff3e9bcf8033060ec25746f6
+locations:
+- King County
 original_content: "<p>The day Jasmine and her children were evicted is a moment she
   will never forget.</p><p>Sheriffs stood by as she packed whatever she could fit
   into her baby’s stroller—clothes, toys, diapers—while her young children clung to

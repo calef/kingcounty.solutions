@@ -1,6 +1,7 @@
 ---
 date: '2025-12-09T15:00:00-08:00'
 images: []
+locations: []
 original_content: |-
   <div>
   <p>The opening day celebration for the 1 Line extension to Federal Way on Saturday, Dec. 6, was a full-day event!</p>

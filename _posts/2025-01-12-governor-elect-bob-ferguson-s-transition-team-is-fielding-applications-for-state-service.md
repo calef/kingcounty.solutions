@@ -1,6 +1,7 @@
 ---
 date: '2025-01-12T21:37:23+00:00'
 images: []
+locations: []
 original_content: |-
   Governor-Elect Bob Ferguson’s Transition Team is fielding applications for state service
 

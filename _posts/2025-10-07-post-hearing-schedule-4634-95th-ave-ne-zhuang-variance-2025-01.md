@@ -1,6 +1,7 @@
 ---
 date: '2025-10-07T18:33:45+00:00'
 images: []
+locations: []
 original_content: |-
   - The record is held open through 10/9 for public comment from members of the public who tried to join the virtual hearing but were unable to join/make comment for technology or access reasons.
 

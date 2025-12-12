@@ -3,6 +3,8 @@ date: '2025-09-03T15:25:45+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p><strong>Media Contacts:</strong><br />
   Sally Spencer-Thomas<br />

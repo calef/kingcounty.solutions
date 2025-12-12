@@ -3,6 +3,8 @@ date: '2025-01-27T20:01:51+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p>For over 50 years, Asian Counseling and Referral Service (ACRS) has been dedicated to supporting immigrants, refugees, and other vulnerable community members. Our commitment to fostering safety and belonging for everyone in our community remains unwavering.</p>
   <p>The executive orders issued last week targeting immigrants and refugees have a deeply concerning impact. These measures threaten the ability of individuals to remain in the country, access vital health and social services, and feel safe in their everyday lives. This has understandably sparked fear and anxiety. The administration intends to create chaos, panic, and fear, so we encourage everyone to stay informed with accurate information, be vigilant, and exercise caution during this time to prioritize the safety and well-being of yourselves, your families, and our community.</p>

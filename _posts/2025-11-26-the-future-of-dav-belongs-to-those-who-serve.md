@@ -4,6 +4,8 @@ events:
 - 2026-01-01-dav-scholarships
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: "<div class=\"editor clearfix\">\n\n    \n    <p><img fetchpriority=\"high\"
   decoding=\"async\" class=\"alignleft wp-image-55497 size-full\" src=\"https://www.dav.org/wp-content/uploads/VolNewsletter-2025.jpg\"
   alt=\"\" width=\"300\" height=\"200\" />The future of your departments and chapters

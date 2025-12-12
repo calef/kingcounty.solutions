@@ -1,6 +1,7 @@
 ---
 date: '2025-09-25T18:29:54+00:00'
 images: []
+locations: []
 original_content: |-
   By Steven Schauer, Deputy Executive Director, and King County Staff
 

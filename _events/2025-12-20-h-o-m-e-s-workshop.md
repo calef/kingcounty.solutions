@@ -2,6 +2,8 @@
 end_date: '2025-12-20T14:00:00-08:00'
 images: []
 location: First Place School, 172 20th Ave, Seattle, 98122, United States
+locations:
+- King County
 original_content: "<div><div><span>Did you know we offer virtual office hours every
   weekday? Click <a>VIRTUAL OFFICE HOURS</a> Mon-Fri, 11AM-1PM or call 253-205-0468
   and enter Meeting ID: 889-8706-3870. We look forward to helping you!</span></div></div>

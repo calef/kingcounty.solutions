@@ -3,6 +3,8 @@ date: '2025-02-06T01:12:08+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p><img width="300" height="188" src="https://blog.valleymed.org/wp-content/uploads/2023/10/Robotic-Surgery-Center-of-Excellence-Header-300x188.png" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://blog.valleymed.org/wp-content/uploads/2023/10/Robotic-Surgery-Center-of-Excellence-Header-300x188.png 300w, https://blog.valleymed.org/wp-content/uploads/2023/10/Robotic-Surgery-Center-of-Excellence-Header-600x375.png 600w, https://blog.valleymed.org/wp-content/uploads/2023/10/Robotic-Surgery-Center-of-Excellence-Header-768x480.png 768w, https://blog.valleymed.org/wp-content/uploads/2023/10/Robotic-Surgery-Center-of-Excellence-Header.png 800w" sizes="auto, (max-width: 300px) 100vw, 300px" /></p>
   <p>Valley Medical Center is celebrating a major achievement in surgical innovation, having successfully completed its 7,500th robotic-assisted surgery. Since first adopting robotic-assisted surgery in 2009, Valley has remained at the forefront of advanced surgical care, improving patient outcomes through cutting-edge technology.</p>

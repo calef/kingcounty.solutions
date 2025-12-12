@@ -27,6 +27,7 @@ module News
             title: Sample
             source: Example Org
             source_url: https://example.org/post
+            summarized: true
             original_markdown_body: "![Alt text](https://example.org/image.png)"
             ---
             Body content
@@ -78,6 +79,7 @@ module News
             title: Sample Event
             source: Example Org
             source_url: https://example.org/event
+            summarized: true
             original_markdown_body: "![Event image](https://example.org/event.png)"
             ---
             Event body

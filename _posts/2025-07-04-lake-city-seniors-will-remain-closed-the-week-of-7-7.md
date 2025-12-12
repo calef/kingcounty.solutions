@@ -3,6 +3,7 @@ date: '2025-07-04T00:02:32+00:00'
 events: []
 events_extracted: true
 images: []
+locations: []
 original_content: |-
   <p>Out of an abundance of caution following a recent safety incident, we are keeping the center closed all of next week to give our team more time to assess next steps and ensure the well-being of all involved.&nbsp;<strong>Our current plan is to reopen for programming on Monday, 7/14 but we will continue to keep you updated as the situation changes.</strong></p>
 
@@ -16,6 +17,7 @@ original_markdown_body: |-
   We appreciate your understanding and support. Thank you for being part of our community. Your safety is always our top priority.
 
   The post [Lake City Seniors will remain&nbsp;closed the&nbsp;week of 7/7](https://lakecityseniors.org/lake-city-seniors-will-remain-closed-the-week-of-7-7/) appeared first on [Lake City Seniors](https://lakecityseniors.org).
+published: false
 source: Lake City Seniors
 source_url: https://lakecityseniors.org/lake-city-seniors-will-remain-closed-the-week-of-7-7/
 summarized: true

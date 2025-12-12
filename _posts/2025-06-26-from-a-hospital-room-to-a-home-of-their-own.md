@@ -3,6 +3,8 @@ date: '2025-06-26T21:58:00+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: <p class="">Jane and her family know what it means to work hard
   and persevere. They immigrated to the United States over ten years ago, chasing
   the promise of a better future, even when life threw challenges their way. They

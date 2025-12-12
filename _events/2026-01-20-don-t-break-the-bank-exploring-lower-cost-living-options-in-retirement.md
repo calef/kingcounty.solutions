@@ -2,6 +2,8 @@
 end_date: '2026-01-20T14:00:00-08:00'
 images: []
 location: ''
+locations:
+- King County
 original_content: '<script type="application/ld+json"> { "@context": "https://schema.org",
   "@type": "Event", "name": "DON&#39;T BREAK THE BANK: EXPLORING LOWER-COST LIVING
   OPTIONS IN RETIREMENT", "description": "Looking for housing options that fit your

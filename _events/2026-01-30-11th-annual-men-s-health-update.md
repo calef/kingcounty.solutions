@@ -2,6 +2,8 @@
 end_date: '2026-01-31T13:00:00-08:00'
 images: []
 location: South Lake Union Administration (Slu Building C) (SLC)
+locations:
+- King County
 original_content: '<div id="main-wrapper"> <div id="mainContentDiv" class="container">
   <div class="row"> <div id="ctl00_MainContentPlaceHolder_RadWindowManager1" style="z-index:1000000000000;display:none;">
   <div id="ctl00_MainContentPlaceHolder_RadWindowManager1_alerttemplate" style="display:none;">

@@ -2,11 +2,8 @@
 date: '2025-10-01T16:23:35+00:00'
 events: []
 events_extracted: true
-images:
-- 012ae4688716cf7fcfe826ccb3650208d49e37a9aaa9419e10aaacea2429591f
-- 9fe12d30d2480c380446920d780ddae3f1232cad9fc8437398ab59d05f1c872b
-- 94b275b8dbecc918b5b0cd824729a9958fb4fc80f980d3865a9e0e2ae1f4a9b3
-- a25b7258d15c71aae560251e6ffd25851f94f61e884fad420739d3ccbffd0c35
+images: []
+locations: []
 original_content: |-
   <p>Chris Bennett joined Angel Flight West on February 6, 2014, completing his orientation just three days later and flying his very first mission on February 14. Since then, he has completed an extraordinary 705 missions, flying a Diamond Star 40 out of San Jose (SJC).&nbsp;</p>
 
@@ -72,6 +69,7 @@ original_markdown_body: "Chris Bennett joined Angel Flight West on February 6, 2
   the power of volunteerism and the difference one person can make.&nbsp;\n\n![](https://angelflightwest.org/wp-content/uploads/2025/09/mission_photo_2025-04-04_Ambrosini_Bennett_11984-1024x694.jpg)\n\nThe
   post [Celebrating 700 Missions: Command Pilot Chris Bennett](https://angelflightwest.org/news/celebrating-700-missions-command-pilot-chris-bennett/)
   first appeared on [Angel Flight West](https://angelflightwest.org)."
+published: false
 source: Angel Flight West
 source_url: https://angelflightwest.org/news/celebrating-700-missions-command-pilot-chris-bennett/
 summarized: true

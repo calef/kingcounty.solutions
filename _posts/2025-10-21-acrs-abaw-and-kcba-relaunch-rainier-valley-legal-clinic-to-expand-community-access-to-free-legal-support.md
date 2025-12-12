@@ -4,6 +4,8 @@ events:
 - 2025-12-17-rainier-valley-legal-clinic-monthly-operation
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p><strong>FOR IMMEDIATE RELEASE<br />
   October 20, 2025</strong></p>

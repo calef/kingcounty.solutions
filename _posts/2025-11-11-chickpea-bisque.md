@@ -1,6 +1,7 @@
 ---
 date: '2025-11-11T18:34:35+00:00'
 images: []
+locations: []
 original_content: '<p class="">Recipe shared in partnership with <a href="https://thepantryseattle.com/"
   target="_blank">The Pantry</a> </p><p class="">Recipe adapted from Laura Pyles</p><p
   class="">Yield: 8 servings</p><p data-rte-preserve-empty="true" class=""></p><h3>Ingredients</h3><p

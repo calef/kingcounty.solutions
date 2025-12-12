@@ -3,6 +3,8 @@ date: '2025-10-07T22:44:12+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p>After moving to the United States from the Netherlands ten years ago, Michelle Heertje of Auburn tried once to complete an income tax return on her own. She soon discovered firsthand the difficulty many Americans face each year filing their taxes, and she subsequently turned to United Way of King County&rsquo;s Free Tax Preparation service. We&rsquo;ve been doing her taxes ever since.</p>
   <p><a href="https://www.uwkc.org/access-to-resources/why-i-turn-to-united-way/" rel="nofollow">Source</a></p>

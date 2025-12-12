@@ -3,6 +3,7 @@ date: '2025-12-09T11:00:00+00:00'
 events: []
 events_extracted: true
 images: []
+locations: []
 original_content: |-
   <p><strong><strong><strong>Operation Homefront partners with Dollar Tree to welcome Army veteran to new rent-free home</strong></strong></strong></p>
 
@@ -176,6 +177,7 @@ original_markdown_body: "**Operation Homefront partners with Dollar Tree to welc
   \  \nErin Burgy, Senior Director, Integrated Public Relations  \nEmail Erin or (469)
   934-7131\n\nThe post Welcome Army Veteran to New Rent-Free Home&nbsp; appeared first
   on Operation Homefront."
+published: false
 source: Operation Homefront - Critical Financial Assistance Program
 source_url: https://operationhomefront.org/welcome-army-veteran-to-new-rent-free-home/
 summarized: true

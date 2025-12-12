@@ -3,6 +3,8 @@ date: '2025-10-06T22:26:55+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- Eastside
 original_content: |-
   As NAMI Eastside prepares to celebrate our annual Gala on **Friday, October 10, 2025** , ([tickets are still available here](https://event.auctria.com/75bd6ac6-ca3f-4b3d-b431-972a7827ba20/)) we are proud to recognize two extraordinary leaders as this year’s **Mental Health Champions** — **Senator Manka Dhingra** and **Congressman Adam Smith**.
 

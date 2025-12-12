@@ -3,6 +3,8 @@ date: '2025-09-24T21:14:33+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- Eastside
 original_content: |-
   <h1 data-start="259" data-end="324">Tesla High School’s Mental Health Club</h1>
   <p data-start="326" data-end="607">On a recent Wednesday afternoon, the halls of Tesla STEM High School were buzzing with the usual end-of-day activity. But tucked away in Behavioral Health Support Specialist Cora Goss-Grubbs’ office, a group of students gathered for something unique, Tesla’s Mental Health Club.</p>

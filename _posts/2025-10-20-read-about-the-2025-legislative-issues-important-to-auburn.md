@@ -3,6 +3,8 @@ date: '2025-10-20T18:50:00+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: <img src="https://www.auburnwa.gov/UserFiles/Servers/Server_11470554/Image/News/Legislative%20Agenda.png"
   />
 original_markdown_body: "![](https://www.auburnwa.gov/UserFiles/Servers/Server_11470554/Image/News/Legislative%20Agenda.png)"

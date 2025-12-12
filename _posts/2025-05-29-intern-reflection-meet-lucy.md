@@ -1,6 +1,7 @@
 ---
 date: '2025-05-29T17:23:32+00:00'
 images: []
+locations: []
 original_content: |-
   <figure class="wp-block-image alignleft size-large is-resized"><img decoding="async" src="https://angelflightwest.org/wp-content/uploads/2025/05/F35DDA9D-2767-47FE-9CAE-7D7409ABBA2A-2-edited-1-scaled.jpg" alt="" class="wp-image-61809" style="width:265px;height:auto"/></figure>
 

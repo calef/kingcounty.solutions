@@ -3,6 +3,8 @@ date: '2025-11-04T18:08:12+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- Eastside
 original_content: As the days grow shorter and the air turns crisp, November invites
   us to slow down and take stock of what really matters. Yet it’s often easier to
   notice what’s missing — the friend we haven’t seen in a while, the energy we wish

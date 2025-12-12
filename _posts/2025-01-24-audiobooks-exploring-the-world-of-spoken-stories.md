@@ -3,6 +3,8 @@ date: '2025-01-24T22:40:45+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: '<p>The post <a href="https://readingpartners.org/blog/audiobooks-spoken-stories/">Audiobooks:
   Exploring the world of spoken stories</a> appeared first on <a href="https://readingpartners.org">Reading
   Partners</a>.</p>'

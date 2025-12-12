@@ -2,6 +2,8 @@
 generated_from_post: true
 images: []
 location: ''
+locations:
+- King County
 original_markdown_body: A conference inviting school-based health center providers,
   leaders, school partners, and youth advocates to share expertise and promote innovation
   and equity in student health.

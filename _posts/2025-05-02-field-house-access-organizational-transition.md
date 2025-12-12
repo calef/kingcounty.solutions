@@ -1,6 +1,7 @@
 ---
 date: '2025-05-02T22:00:00+00:00'
 images: []
+locations: []
 original_content: |-
   <p class="xmsonormal"><span style='font-size:12.0pt;font-family:"Calibri",sans-serif'>Effective
   Monday, May 5, the Field House will no longer be available for walk-in public

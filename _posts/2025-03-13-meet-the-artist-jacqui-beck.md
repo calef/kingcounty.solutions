@@ -1,6 +1,7 @@
 ---
 date: '2025-03-13T20:02:13+00:00'
 images: []
+locations: []
 original_content: |-
   <p>Jacqui Beck creates paintings using acrylics &amp; mixed media in her <a href="https://www.seedseattle.org/seedarts-studios/">SEEDArts studio</a>. She is also a member artist of <a href="https://columbiacitygallery.com/" target="_blank" rel="noreferrer noopener">Columbia City Gallery</a>.</p>
 

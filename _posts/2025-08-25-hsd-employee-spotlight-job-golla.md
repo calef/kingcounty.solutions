@@ -3,6 +3,8 @@ date: '2025-08-25T16:41:38+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: Job Golla (he/him/his) is an intern in the Human Services Department
   working directly on the Seattle Youth Employment Program (SYEP) with Kamal De Campos.
   Job recently graduated from the University of Washington Bothell with a degree in

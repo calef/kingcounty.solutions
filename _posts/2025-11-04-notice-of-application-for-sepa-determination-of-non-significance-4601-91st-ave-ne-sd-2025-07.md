@@ -1,6 +1,7 @@
 ---
 date: '2025-11-04T21:04:53+00:00'
 images: []
+locations: []
 original_content: "![](https://yarrowpointwa.gov/wp-content/uploads/2025/11/SEPA-2025-06-DNS-Posting-Notice.jpg)"
 published: false
 source: Town of Yarrow Point

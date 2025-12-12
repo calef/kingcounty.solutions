@@ -1,6 +1,7 @@
 ---
 date: '2025-11-18T22:27:36+00:00'
 images: []
+locations: []
 original_content: |-
   <p><!--StartFragment --></p>
   <p><strong><span class="cf0">The event also marked the groundbreaking of two additional buildings, creating another 184 affordable apartment homes</span></strong></p>

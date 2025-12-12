@@ -2,6 +2,8 @@
 end_date: '2026-02-04T13:00:00-08:00'
 images: []
 location: Denny Hall (DEN)
+locations:
+- King County
 original_content: '<div jscontroller="pc62j" jsmodel="iTeaXe" jsaction="rcuQ6b:WYd;GvneHb:og1FDd;vbaUQc:uAM5ec;"><div
   jscontroller="X4BaPc" data-is-embedded-search-enabled="true" jsaction="rcuQ6b:WYd;o6xM5b:Pg9eo;HuL2Hd:mHeCvf;VMhF5:FFYy5e;sk3Qmb:HI1Mdd;JIbuQc:rSzFEd(z2EeY),aSaF6e(ilzYPe);">
   <div jscontroller="o1L5Wb" data-sitename="schoolofenvironmentalandforest" data-search-scope="1"

@@ -1,6 +1,7 @@
 ---
 date: '2025-12-10T22:19:45+00:00'
 images: []
+locations: []
 original_content: |-
   <p><b>Tribal Council Strengthens Federal Advocacy for Environmental and Cultural Protections</b></p>
   <p>In September, Snoqualmie Tribal Council members traveled to Washington, D.C., for government-to-government meetings with federal lawmakers and agency officials to address critical issues affecting the Tribe’s ancestral lands, sacred sites, and sovereignty.</p>

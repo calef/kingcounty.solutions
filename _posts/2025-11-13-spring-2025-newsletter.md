@@ -1,6 +1,7 @@
 ---
 date: '2025-11-13T16:37:16-08:00'
 images: []
+locations: []
 original_content: |-
   <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Medina Residents - be sure to read about the latest in the Spring 2025 issue of the Medina Sun newsletter.</p>
   </div></div></div>

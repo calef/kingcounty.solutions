@@ -1,6 +1,7 @@
 ---
 date: '2025-10-22T00:30:00+00:00'
 images: []
+locations: []
 original_content: "<div class=\"et_pb_section et_pb_section_6 et_section_regular\"
   >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_row
   et_pb_row_12\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4 et_pb_column_12

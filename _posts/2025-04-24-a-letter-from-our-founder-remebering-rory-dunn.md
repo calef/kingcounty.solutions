@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - c30c392e3b7fd31941c323a865ad01dbd107adb73a6e251ed45c20fc7a3949f2
+locations:
+- King County
 original_content: '<div><div class="wsite-image wsite-image-border-none " style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
   <a> <img src="https://www.everyoneforveterans.org/uploads/2/8/1/3/28134129/published/a-letter-from-our-founder.png?1745511758"
   alt="Picture" style="width:705;max-width:100%" /> </a> <div style="display:block;font-size:90%"></div>

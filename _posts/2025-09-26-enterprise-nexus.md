@@ -3,6 +3,8 @@ date: '2025-09-26T14:56:43+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: <p>The post <a href="https://worksourceskc.org/enterprise-nexus/">Enterprise
   Nexus</a> appeared first on <a href="https://worksourceskc.org">WorkSource Seattle-King
   County</a>.</p>

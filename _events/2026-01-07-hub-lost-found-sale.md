@@ -2,6 +2,8 @@
 end_date: '2026-01-07T16:30:00-08:00'
 images: []
 location: Student Union Building (HUB)
+locations:
+- King County
 original_content: '<a id="main-content" href="#main_content" class="screen-reader-shortcut">Skip
   to main content</a> <div id="uw-container"> <div id="uw-container-inner"> <header
   class="uw-thinstrip" role="banner"> <div class="container"> <a href="http://uw.edu"

@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - cfa117e2a26e7244cead9d863a59f13fa09efb5b50663ee56df7de0e0a60ed21
+locations:
+- King County
 original_content: "<p class=\"\">For weeks, Jaclyn and her son, Tyler, had been experiencing
   homelessness. The summer heat made every day unbearable - there was no escape from
   the sun, no cool place to rest, and no stability. </p><p class=\"\">When she reached

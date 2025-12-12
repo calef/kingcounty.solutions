@@ -3,6 +3,8 @@ date: '2025-06-26T17:44:47+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: At Howard House Home, we’re currently supporting a family of six
   and could use your help to make their summer a little brighter!   Meal...
 original_markdown_body: At Howard House Home, we’re currently supporting a family

@@ -2,6 +2,8 @@
 end_date: '2025-12-13T11:30:00-08:00'
 images: []
 location: "[ONLINE] Swedish Cancer Institute"
+locations:
+- King County
 original_content: '<header id="header"> <div class="header_top" data-height="32">
   <div class="header_top_outer"><div class="header_top_inner"> <div class="header_top_left"><div
   class="meta_wrap"> <a class="topbar" href="/services/lifeline">Lifeline</a> | 206.297.2500

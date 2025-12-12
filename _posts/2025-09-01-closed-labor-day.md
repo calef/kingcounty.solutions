@@ -1,6 +1,7 @@
 ---
 date: '2025-09-01T07:30:01+00:00'
 images: []
+locations: []
 original_content: |-
   <p>Husky Health Center is closed on Monday, September 1st in observation of Labor Day. HHC will resume regular business hours on Tuesday, September 2nd.</p>
   <p><a href="https://wellbeing.uw.edu/closed-labor-day/" rel="nofollow">Source</a></p>

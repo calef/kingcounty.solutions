@@ -1,6 +1,7 @@
 ---
 date: '2025-05-05T20:54:56+00:00'
 images: []
+locations: []
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Bellevue
   hosts water-smart table during National Drinking Water Week</span>\n<span class=\"field
   field--name-uid field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"

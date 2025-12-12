@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - 4e04b3e7a890f468bd7d991f8cbc885a5aa9c3727001f698176fe3ee3ffb898b
+locations:
+- Bellevue
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Council
   Roundup: Inside look at Diversity Advantage Plan 2035 </span>\n<span class=\"field
   field--name-uid field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/lmilstead\"

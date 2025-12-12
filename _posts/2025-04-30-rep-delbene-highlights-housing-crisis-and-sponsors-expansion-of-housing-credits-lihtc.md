@@ -3,6 +3,8 @@ date: '2025-04-30T18:09:25+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: Affordable Housing Roundtable Event at August Wilson Place! Congresswoman
   Suzan DelBene, local housing stakeholders, City of Bellevue...
 original_markdown_body: Affordable Housing Roundtable Event at August Wilson Place!

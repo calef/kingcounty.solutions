@@ -2,6 +2,8 @@
 end_date: '2026-01-07T11:00:00-08:00'
 images: []
 location: Zoom
+locations:
+- King County
 original_content: '<base><link><meta><link><meta><link><script>window.WIZ_global_data
   = {"AfY8Hf":true,"DpimGf":false,"EP1ykd":["/_/*","/accounts/*"],"FdrFJe":"-8051098265272877490","HiPsbb":1,"Im6cmf":"/_/DurableDeepLinkUi","LVIXXb":1,"LoQv7e":false,"MT7f9b":[],"MUE6Ne":"DurableDeepLinkUi","QrtxK":"","S06Grb":"","S6lZl":111881503,"TSDtV":"%.@.[[null,[[45459555,null,false,null,null,null,\"Imeoqb\"],[45453720,null,false,null,null,null,\"GkrBt\"]],\"CAMSDB0NjcK5KQjcpfAECA\\u003d\\u003d\"]]]","UUFaWc":"%.@.null,1000,2]","Vvafkd":false,"b5W2zf":"default_DurableDeepLinkUi","cfb2h":"boq_durabledeeplinkserver_20251202.08_p0","eNnkwf":"","eptZe":"/_/DurableDeepLinkUi/","fPDxwd":[97493658,105739270],"gGcLoe":false,"hsFLT":"%.@.null,1000,2]","iCzhFc":true,"nQyAE":{"GkrBt":"false"},"p9hQne":"https://www.gstatic.com/_/boq-devplatform/_/r/","qwAQke":"DurableDeepLinkUi","qymVe":"","rtQCxc":480,"u4g7r":"%.@.null,1,2]","vJQk6":false,"w2btAe":"%.@.null,null,\"\",false,null,null,true,false]","xn5OId":false,"xnI9P":true,"xwAfE":true,"y2FhP":"prod","yFnxrf":1884,"zChJod":"%.@.true]"};</script><script>window["_F_toggles_default_DurableDeepLinkUi"]
   = [0x180c1000, 0x40003, ];</script><script>(function(){''use strict'';var a=window,d=a.performance,l=k();a.cc_latency_start_time=d&&d.now?0:d&&d.timing&&d.timing.navigationStart?d.timing.navigationStart:l;function

@@ -3,6 +3,8 @@ date: '2025-10-21T20:40:27+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">DOH
   Launches Measles Exposure Map to Help Keep Washingtonians Safe</span>\n\n            <div
   class=\"field field--name-field-date-and-time field--type-datetime field--label-hidden

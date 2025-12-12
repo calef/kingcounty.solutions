@@ -2,6 +2,8 @@
 generated_from_post: true
 images: []
 location: ''
+locations:
+- King County
 original_markdown_body: All services will follow Sunday schedules, with no water taxi
   service.
 source: King County Metro Transit

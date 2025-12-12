@@ -1,6 +1,7 @@
 ---
 date: '2025-04-15T00:13:25+00:00'
 images: []
+locations: []
 original_content: |-
   <div style="height:0px" aria-hidden="true" class="wp-block-spacer"></div>
 

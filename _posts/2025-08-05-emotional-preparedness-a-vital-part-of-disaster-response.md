@@ -3,6 +3,8 @@ date: '2025-08-05T19:17:27+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <h2>In times of crisis–natural disasters, public health emergencies, acts of violence–our first instinct often turns to physical safety: food, water, shelter. But what about emotional safety? How do we prepare our minds and hearts for the unexpected?</h2>
   <p><span style="font-weight: 400;">At Vibrant Emotional Health, we believe emotional readiness is just as critical as physical preparedness. We provide immediate and long-term emotional support before, during, and after crises, empowering individuals and communities to recover and rebuild with resilience. </span></p>

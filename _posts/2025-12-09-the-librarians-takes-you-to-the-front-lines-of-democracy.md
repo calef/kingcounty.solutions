@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - 02de085043b3a8bf9a503560bcda4b5eae536231455a631dc3d7ee8130d1ac7b
+locations:
+- King County
 original_content: |-
   <p>“I never imagined that what’s happening right now could ever happen. It didn’t dawn on us that we would come under attack.”</p>
   <p>In the opening scene in the documentary “The Librarians,” a woman sits, her face obscured for anonymity. She is a school librarian, telling the story of what happened in Texas in 2021, after State Rep. Matt Krause began circulating a now-infamous list of 850 books that he decided were not fit to be on school library shelves.</p>

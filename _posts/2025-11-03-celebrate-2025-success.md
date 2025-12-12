@@ -3,6 +3,8 @@ date: '2025-11-03T19:09:39-08:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: Thank You for Making Celebrate 2025 a Huge Success!Celebrate 2025
   was filled with joy, inspiration, and generosity as our community came together
   to support women and children breaking the cycle of abuse. From the delicious dinner

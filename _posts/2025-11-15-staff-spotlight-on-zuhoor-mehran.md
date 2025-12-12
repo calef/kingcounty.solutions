@@ -3,6 +3,8 @@ date: '2025-11-15T18:15:32+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: Zuhoor joined the MSC team in 2023 and serves as a Community Outreach
   Specialist with our Immigrant and Refugee Outreach and Community Education Program.
   How does your program help the community? We provide culturally and linguistically

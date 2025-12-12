@@ -4,6 +4,8 @@ events: []
 events_extracted: true
 images:
 - 9b96a42650615192a1897a2b4fffbe7ff9302ebcdf9bdc9a66aa69e32409860a
+locations:
+- King County
 original_content: |-
   <h2><span data-contrast="auto">This November, we celebrate the power of allyship and express gratitude to those who use their own experiences to lift others up. </span><span data-ccp-props="{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;201341983&quot;:0,&quot;335551550&quot;:1,&quot;335551620&quot;:1,&quot;335559685&quot;:0,&quot;335559737&quot;:0,&quot;335559738&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:279}"> </span></h2>
   <p><span data-contrast="auto">Sometimes, the best support comes from someone who’s faced similar obstacles. Peer Advocates bring empathy, credibility, and lived experience that can’t be replaced. </span><span data-ccp-props="{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;201341983&quot;:0,&quot;335551550&quot;:1,&quot;335551620&quot;:1,&quot;335559685&quot;:0,&quot;335559737&quot;:0,&quot;335559738&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:279}"> </span></p>

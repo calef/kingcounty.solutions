@@ -4,6 +4,8 @@ events:
 - 2026-01-08-rails-keels-and-wheels-program-application-deadline
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p><a href="https://www.energy.gov/lpo/articles/doe-announces-availability-10-billion-loan-authority-automotive-manufacturing">U.S. DOE – Advanced Technology Vehicles Manufacturing Loan Program</a></p>
 

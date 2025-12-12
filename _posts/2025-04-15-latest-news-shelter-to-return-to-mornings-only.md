@@ -3,6 +3,8 @@ date: '2025-04-15T19:44:44+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <p class="">Recently, the shelter endeavored to transition&nbsp;from a cold-weather emergency shelter to a year-round overnight facility. Although it would be wonderful to be able to offer this longer-term solution to our&nbsp;unhoused&nbsp;neighbors, this change proved to be unworkable with our current financial situation. Here&#8217;s a statement from Keith about the latest changes to the shelter schedule:</p>
 

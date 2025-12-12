@@ -7,6 +7,8 @@ images:
 - 04f1be4fa26dc0686eed29e59c74a1d075fe7648f44ef817769a750773a4dc78
 - 9de747312803d9ac29b298c780395792dc73364560482134e5a86ae577d7eab4
 - 2fd7214c50fe7b174faad76e0d3264cca092195ee5bcc1e1c878bb63fcacdd8c
+locations:
+- King County
 original_content: "<p><img width=\"361\" height=\"255\" src=\"https://s14621.pcdn.co/wp-content/uploads/2025/06/FloreneSmilingWIthCamera-RGB-801x566-1-361x255.jpg\"
   class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Portrait
   of a Black woman with short locs wearing a beige collared shirt, and holding a camera

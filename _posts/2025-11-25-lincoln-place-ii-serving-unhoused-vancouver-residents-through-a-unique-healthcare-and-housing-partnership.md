@@ -2,8 +2,8 @@
 date: '2025-11-25T19:28:26+00:00'
 events: []
 events_extracted: true
-images:
-- c740b2585720089b98db94faa59f770f73f15400ea421a55fb61334b4aa92fbd
+images: []
+locations: []
 original_content: |-
   <p class="has-medium-font-size"><strong>Apple Health and Homes dollars will help house residents who benefit from supportive services after experiencing homelessness</strong></p>
 
@@ -101,6 +101,7 @@ original_markdown_body: |-
   - connections to community-based services and resources
 
   Learn more about Lincoln Place II and other impactful properties on the [Vancouver Housing Authority website](https://vhausa.org/).
+published: false
 source: Department of Commerce
 source_url: https://www.commerce.wa.gov/lincoln-place-ii-serving-unhoused-vancouver-residents-through-a-unique-healthcare-and-housing-partnership/
 summarized: true

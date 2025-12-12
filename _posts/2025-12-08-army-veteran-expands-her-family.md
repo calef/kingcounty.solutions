@@ -3,6 +3,8 @@ date: '2025-12-08T15:30:00+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <h2>With the support of VA’s reproductive health services</h2>
 

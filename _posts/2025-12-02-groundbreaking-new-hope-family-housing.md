@@ -3,6 +3,8 @@ date: '2025-12-02T21:49:22+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: On November 30th, friends, family, and congregation members along
   with affordable housing supporters, gathered to celebrate the groundbreaking of
   New Hope Family Housing, a joint project of New Hope Community Development Institute

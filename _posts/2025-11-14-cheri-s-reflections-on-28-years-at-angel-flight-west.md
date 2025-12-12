@@ -3,6 +3,8 @@ date: '2025-11-14T19:55:26+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: "<p>Greetings AFW Angels,<br><br>When our newsletter editor Jess
   asked me if I wanted to write my column this issue, I said yes. I wanted to reflect
   on 28 years with Angel Flight West. Yep, 28 years – I have been fortunate enough

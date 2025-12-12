@@ -3,6 +3,8 @@ date: '2025-02-13T21:38:19+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   ![](https://encompassnw.org/wp-content/uploads/2025/02/CBS_square-300x300.png) When a few King County Montessori schools began shutting down during the COVID-19 pandemic, Christine Meredith capitalized on her background in early education and founded Mosaic Montessori. As the mother of a neurodivergent child, she understood the importance of social and educational opportunities for kids and worked to make Mosaic a welcoming space for other children with neurodivergent profiles.
 

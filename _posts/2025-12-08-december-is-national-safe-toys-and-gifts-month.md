@@ -3,6 +3,8 @@ date: '2025-12-08T18:03:14+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: "<div>\n\t\t\t\t<div>\n\t\t\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t\t\t\t\t\t<p><strong>’Tis
   the season for holiday festivities, cozy time with family, and, of course, presents!</strong></p>\n<p>For
   the little ones in our lives, that often means an influx of new toys. But while

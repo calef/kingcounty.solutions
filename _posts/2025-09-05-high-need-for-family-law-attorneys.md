@@ -3,6 +3,8 @@ date: '2025-09-05T06:45:00+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   We are unable to meet the current demand in our family law clinics. Help us fill these critical slots by signing up to be a pro bono attorney!
 

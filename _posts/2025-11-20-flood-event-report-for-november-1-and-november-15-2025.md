@@ -1,6 +1,7 @@
 ---
 date: '2025-11-20T20:37:40+00:00'
 images: []
+locations: []
 original_content: |-
   <p>Issued by the King County Flood Control District on November 20, 2025</p>
 

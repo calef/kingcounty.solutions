@@ -2,6 +2,8 @@
 end_date: '2026-01-27T15:00:00-08:00'
 images: []
 location: ''
+locations:
+- King County
 original_content: "<meta><meta><link><meta><meta><meta><link><link><script></script><script></script><title>Microsoft
   Virtual Events Powered by Teams</title><script></script><link><noscript>You need
   to enable JavaScript to run this app.</noscript><div></div><div></div>"

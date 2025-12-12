@@ -3,6 +3,8 @@ date: '2025-08-28T17:25:35+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- Snoqualmie Valley
 original_content: |-
   <p>50 Years! Can you believe it? Sno-Valley Senior Center is 50 years old this month!</p>
   <p>Included in this newsletter is information about our history, the building (100 this year), and the Sno-Valley Senior Center. Interested in learning more? Join us at our Anniversary Celebration and Open House on Monday, September 29,<br />

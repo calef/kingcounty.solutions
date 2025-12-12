@@ -2,6 +2,8 @@
 end_date: '2025-12-21T17:00:00-08:00'
 images: []
 location: 'Bloodworks Donation Center, 660 SW 39TH ST #100, Renton'
+locations:
+- King County
 original_content: "<section> <div> <div> <div> <section> <div> <div> <span> Event
   Series: </span> <a> <span> Give Blood to Save 3 Lives </span> </a> </div> <h1>Give
   Blood to Save 3 Lives</h1> <div> <h2> <span>December 21 @ 8:00 am</span> - <span>5:00

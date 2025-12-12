@@ -4,6 +4,32 @@ events: []
 events_extracted: true
 images:
 - b42b1b7b58c9684fcffa44c7625774c3ca75f2bade6c8807558dbc1cc8a5e87d
+locations:
+- Kent
+- Renton
+- Auburn
+- Covington
+- Federal Way
+- Des Moines
+- Tukwila
+- SeaTac
+- Black Diamond
+- Maple Valley
+- Algona
+- Milton
+- Pacific
+- White Center
+- East Renton Highlands
+- Lake Morton-Berrydale
+- Fairwood
+- Bryn Mawr-Skyway
+- Boulevard Park
+- Enumclaw
+- Ravensdale
+- Carnation
+- Duvall
+- North Bend
+- Snoqualmie
 original_content: |-
   <p><img width="300" height="188" src="https://blog.valleymed.org/wp-content/uploads/2024/12/Dr.Roberts-StrollinColon-300x188.jpg" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://blog.valleymed.org/wp-content/uploads/2024/12/Dr.Roberts-StrollinColon-300x188.jpg 300w, https://blog.valleymed.org/wp-content/uploads/2024/12/Dr.Roberts-StrollinColon-768x480.jpg 768w, https://blog.valleymed.org/wp-content/uploads/2024/12/Dr.Roberts-StrollinColon-600x375.jpg 600w, https://blog.valleymed.org/wp-content/uploads/2024/12/Dr.Roberts-StrollinColon.jpg 800w" sizes="auto, (max-width: 300px) 100vw, 300px" /></p>
   <p>Staff and visitors to Valley got an immersive lesson on colorectal health in December, thanks to a stroll through a 20-foot inflatable colon.</p>

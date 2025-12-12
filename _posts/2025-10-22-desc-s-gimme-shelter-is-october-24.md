@@ -3,6 +3,8 @@ date: '2025-10-22T21:36:14+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: DESC&#8217;s annual benefit concert and program spotlight, Gimme
   Shelter, takes place October 24 from 6-10p.m.! We hope you’ll join us at the Georgetown
   Ballroom to learn about our work to end homelessness in Seattle, connect with dedicated

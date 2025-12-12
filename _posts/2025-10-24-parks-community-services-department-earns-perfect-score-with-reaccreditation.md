@@ -1,6 +1,7 @@
 ---
 date: '2025-10-24T21:56:01+00:00'
 images: []
+locations: []
 original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Parks
   &amp; Community Services Department earns perfect score with reaccreditation</span>\n<span
   class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span

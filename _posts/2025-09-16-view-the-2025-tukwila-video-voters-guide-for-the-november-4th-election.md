@@ -1,6 +1,7 @@
 ---
 date: '2025-09-16T22:48:39+00:00'
 images: []
+locations: []
 original_content: "https://www.youtube.com/embed/cWD-WAX7zyo?feature=oembed\n\nTo
   help Tukwila residents get to know the candidates for the Council positions in the
   upcoming election, the City of Tukwila offers this Video Voters’ Guide as a resource

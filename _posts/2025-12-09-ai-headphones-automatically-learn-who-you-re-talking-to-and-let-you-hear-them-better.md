@@ -1,6 +1,7 @@
 ---
 date: '2025-12-09T17:30:37+00:00'
 images: []
+locations: []
 original_content: |-
   <div>
   <!--[if lt IE 9]><script>document.createElement('video');</script><![endif]--><br>

@@ -7,6 +7,8 @@ images:
 - 0d3268df5c309b5c1c82dec197e8fd396924d658d9de94b2171e0768e982b0bb
 - c0ef1f732f794127d20401abf9195512542c94e629661cbb93337021c56b7c9e
 - 6869970cbc8af3c4224c2087204f819c5b6242dd83f208fed47557a75dbd04c9
+locations:
+- King County
 original_content: |-
   <div class="wp-block-group"><div class="wp-block-group__inner-container is-layout-constrained wp-block-group-is-layout-constrained">
   <div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-8cf370e7 wp-block-group-is-layout-flex">

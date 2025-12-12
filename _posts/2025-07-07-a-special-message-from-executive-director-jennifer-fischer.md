@@ -3,6 +3,8 @@ date: '2025-07-07T16:00:20+00:00'
 events: []
 events_extracted: true
 images: []
+locations:
+- King County
 original_content: |-
   <figure class="wp-block-embed is-type-video is-provider-vimeo wp-block-embed-vimeo wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
   <iframe loading="lazy" title="A special message from Jennifer Fischer" src="https://player.vimeo.com/video/1099492513?dnt=1&amp;app_id=122963" width="1264" height="711" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"></iframe>
