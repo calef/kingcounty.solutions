@@ -6,31 +6,38 @@ Utility commands that automate content imports, auditing, and metadata maintenan
 
 | Script | What it does |
 | --- | --- |
-| `audit-organization-topics` | Uses OpenAI to reconcile each organization’s topics against recent news coverage and optionally rewrites front matter. |
-| `generate-organization-from-url` | Scrapes a site, asks OpenAI for metadata, and creates a new `_organizations/*.md` entry. |
+| `mayhem` | Unified entry point for content management commands (see `mayhem help` for details). |
 | `generate-weekly-summary` | Builds a weekly roundup article from `_posts/`, grouping stories into themes with LLM assistance. |
-| `extract-images-from-content` | Pulls image URLs from `original_markdown_body` (if present), downloads them into `assets/images`, hashes/renames files, and links image IDs into `_posts/`, `_events/`, and `_images/`. |
-| `import-content-from-feeds` | Runs the RSS and iCal importers back-to-back so partner news and events flow into `_posts/` and `_events/`, normalizing URLs and metadata where possible. |
-| `list-openai-models` | Lists available OpenAI model IDs for the current API key. |
-| `summarize-content` | Generates AI-written summaries for `_posts/` and `_events/` entries that lack `summarized: true`, preserving the original Markdown body before replacing it with the short summary. |
-| `tidy-frontmatter` | Normalizes Markdown front matter (sorted keys, consistent delimiters, and tidy spacing between the delimiter and body). |
-| `update-content` | Orchestrates the import/summarize/image extraction/content-age enforcement pipeline, then commits and pushes resulting content changes. |
 | `rewrite-ap-style` | Rewrites Markdown bodies so they follow AP style using the OpenAI API. |
 
 > Many scripts call the OpenAI API; export `OPENAI_API_KEY` before using them.
 
+## Mayhem commands
+
+The `mayhem` script consolidates content management functionality. Run `mayhem help` to see all available commands:
+
+- `mayhem audit-topics` – Uses OpenAI to reconcile each organization's topics against recent news coverage and optionally rewrites front matter.
+- `mayhem expire` – Deletes posts and events outside configured age window.
+- `mayhem extract-events` – Analyzes news posts to identify and create event entries.
+- `mayhem extract-images` – Downloads images from posts/events and creates image metadata.
+- `mayhem new-organization` – Scrapes a site and creates a new `_organizations/*.md` entry.
+- `mayhem import-content` – Runs RSS and iCal importers to fetch partner content.
+- `mayhem ls-models` – Lists available OpenAI model IDs.
+- `mayhem summarize` – Generates AI summaries for posts and events.
+- `mayhem tidy` – Normalizes Markdown front matter formatting.
+
 ## Freezing files during automation
 
-Set `locked: true` in a post or event’s front matter to freeze it in place. Importers, summarizers, and the image extractor all detect this flag and skip the entry so curated edits stay untouched while the rest of the pipeline continues to run.
+Set `locked: true` in a post or event's front matter to freeze it in place. Importers, summarizers, and the image extractor all detect this flag and skip the entry so curated edits stay untouched while the rest of the pipeline continues to run.
 
-### `audit-organization-topics`
+### `mayhem audit-topics`
 
 **Purpose**
-Reviews each `_organizations/*.md` file’s topics using `_topics/` metadata plus up to `--max-posts` recent news posts, letting OpenAI classify topics as `true`, `false`, or `unclear`. Can output a JSON report and optionally rewrite `topics` front matter entries.
+Reviews each `_organizations/*.md` file's topics using `_topics/` metadata plus up to `--max-posts` recent news posts, letting OpenAI classify topics as `true`, `false`, or `unclear`. Can output a JSON report and optionally rewrite `topics` front matter entries.
 
 **Usage**
 
-- `bin/audit-organization-topics [--model MODEL] [--max-posts N] [--force] [--output report.json] [--apply]`
+- `mayhem audit-topics [--model MODEL] [--max-posts N] [--force] [--output report.json] [--apply]`
 
 **Key env/config**
 
@@ -43,16 +50,16 @@ Reviews each `_organizations/*.md` file’s topics using `_topics/` metadata plu
 
 - Without `--apply`, the script only logs or writes the audit report results.
 - When `--apply` is supplied, it edits each organization file by removing unsupported topics and appending new ones suggested by the audit, keeping the list sorted and unique.
-- Includes up to `--max-posts` (default 5) of the organization’s recent `_posts/` content in the LLM prompt.
+- Includes up to `--max-posts` (default 5) of the organization's recent `_posts/` content in the LLM prompt.
 
-### `generate-organization-from-url`
+### `mayhem new-organization`
 
 **Purpose**
 Scrapes a single organization website (following same-host links) and asks OpenAI to draft front matter and a short summary, then writes a new `_organizations/<slug>.md` entry.
 
 **Usage**
 
-- `bin/generate-organization-from-url https://example.org`
+- `mayhem new-organization URL`
 
 **Key env/config**
 
@@ -74,7 +81,7 @@ Scrapes a single organization website (following same-host links) and asks OpenA
 ### `generate-weekly-summary`
 
 **Purpose**
-Builds an editorial roundup post for the current week (Saturday–Friday window) by clustering `_posts/` entries into themes, drafting a Markdown article with OpenAI, and saving it back into `_posts/` under the ending Saturday’s date.
+Builds an editorial roundup post for the current week (Saturday–Friday window) by clustering `_posts/` entries into themes, drafting a Markdown article with OpenAI, and saving it back into `_posts/` under the ending Saturday's date.
 
 **Usage**
 
@@ -90,18 +97,18 @@ Builds an editorial roundup post for the current week (Saturday–Friday window)
 
 **Behavior notes**
 
-- Builds a “theme plan” JSON via one LLM call, then passes that plan plus post metadata into a second prompt that produces the final article (with themed sections and optional “Other updates”).
+- Builds a "theme plan" JSON via one LLM call, then passes that plan plus post metadata into a second prompt that produces the final article (with themed sections and optional "Other updates").
 - Falls back to a deterministic, non-LLM summary if either call fails.
 - Sets front matter with `source: King County Solutions`, `summarized: true`, and `openai_model` (or `fallback` if heuristics kick in), and adds a closing encouragement paragraph.
 
-### `extract-images-from-content`
+### `mayhem extract-images`
 
 **Purpose**
 Downloads images referenced in each post or event `original_markdown_body`, renames them to their SHA256 checksum plus extension, writes `_images/<checksum>.md` entries, and stores the related image checksums back into the source front matter.
 
 **Usage**
 
-- `bin/extract-images-from-content`
+- `mayhem extract-images`
 
 **Key env/config**
 
@@ -116,23 +123,23 @@ Downloads images referenced in each post or event `original_markdown_body`, rena
 - Skips entries that already have an `images` front matter attribute; intended for one-time population.
 - Respects `locked: true` by leaving the entry untouched, preserving curated content.
 - Avoids redownloading the same URL within a run; writes files under `assets/images/<checksum>.webp` (or the original extension when conversion fails).
-- Converts raster image downloads (JPEG/PNG/GIF/BMP/TIFF) into WebP via ImageMagick (`mini_magick` must be bundled and ImageMagick’s `magick`/`convert` binary available); non-raster/media or failed conversions leave the original bytes/extension untouched.
-- Skips storing WebP assets whose dimensions fall below `IMAGE_MIN_DIMENSION`, logging a per-post warning and incrementing the run summary’s `skipped_small_images` counter.
-- Creates `_images/<checksum>.md` with `checksum`, optional `title` (set only when the image had alt text), `image_url`, `source_url`, and copies `source`/`date` from the originating entry; appends discovered checksums to an entry’s `images` array without removing existing entries.
+- Converts raster image downloads (JPEG/PNG/GIF/BMP/TIFF) into WebP via ImageMagick (`mini_magick` must be bundled and ImageMagick's `magick`/`convert` binary available); non-raster/media or failed conversions leave the original bytes/extension untouched.
+- Skips storing WebP assets whose dimensions fall below `IMAGE_MIN_DIMENSION`, logging a per-post warning and incrementing the run summary's `skipped_small_images` counter.
+- Creates `_images/<checksum>.md` with `checksum`, optional `title` (set only when the image had alt text), `image_url`, `source_url`, and copies `source`/`date` from the originating entry; appends discovered checksums to an entry's `images` array without removing existing entries.
 - Logs WARN-level issues for missing front matter or failed downloads/conversions, INFO for updates/empty images actions, DEBUG for already-processed posts, and prints a per-run summary when the log level allows it.
 
-### `import-content-from-feeds`
+### `mayhem import-content`
 
 **Purpose**
 Runs the RSS news importer and the iCal events importer so `_posts/` and `_events/` reflect the latest partner updates declared in `_organizations/*.md`. This is the primary script for ingesting content.
 
 **Usage**
 
-- `bin/import-content-from-feeds`
+- `mayhem import-content`
 
 **Key env/config**
 
-- Honors each organization’s `news_rss_url`, `events_ical_url`, and metadata when creating posts/events.
+- Honors each organization's `news_rss_url`, `events_ical_url`, and metadata when creating posts/events.
 - Skips RSS items older than `rss_max_item_age_days` (configured in `_config.yml`, default 365) days ago.
 - `RSS_WORKERS` – thread count for fetching/parsing RSS feeds in parallel (default 6).
 - `RSS_OPEN_TIMEOUT` / `RSS_READ_TIMEOUT` – per-request timeouts in seconds (defaults 5/10) for feed fetches and article-body scraping.
@@ -143,18 +150,18 @@ Runs the RSS news importer and the iCal events importer so `_posts/` and `_event
 
 - News import: normalizes and validates each RSS item URL before writing `_posts/`, skips duplicates already present in front matter, scrapes article bodies when the feed lacks `content:encoded`, converts HTML to Markdown via `ReverseMarkdown`, and saves the upstream HTML in `original_content`.
 - Events import: scans every `_organizations/*.md` with `events_ical_url`, downloads each calendar, skips events that are missing metadata, in the past, or too far in the future, normalizes canonical URLs to avoid duplicates, fetches event body content when possible, and writes `_events/<date>-<slug>.md` with `original_content`/`original_markdown_body` copies.
-- Event extraction from posts: handled by `bin/extract-events-from-posts`.
-- All three operations honor `locked: true` on disk, skipping rewrites while still registering source URLs to avoid future duplicates.
+- Event extraction from posts: handled by `mayhem extract-events`.
+- All operations honor `locked: true` on disk, skipping rewrites while still registering source URLs to avoid future duplicates.
 - All operations parallelize work with small worker pools, log per-source summaries, and keep running when individual feeds fail so a single bad endpoint never blocks the rest.
 
-### `extract-events-from-posts`
+### `mayhem extract-events`
 
 **Purpose**
 Analyzes news posts to identify event announcements using LLM, creates corresponding event entries in `_events/`, and cross-links posts to their generated events. Designed for organizations that publish event announcements in their news feeds but don't provide iCal feeds.
 
 **Usage**
 
-- `bin/extract-events-from-posts`
+- `mayhem extract-events`
 
 **Key env/config**
 
@@ -171,17 +178,16 @@ Analyzes news posts to identify event announcements using LLM, creates correspon
 - Creates `_events/<date>-<slug>.md` entries with `generated_from_post: true` flag and links them in the post's `events` front matter array.
 - Uses post's `source_url` as the event's `source_url` for proper attribution.
 - Marks posts with `events_extracted: true` to avoid reprocessing, even when no events are found.
-- Generated events are automatically cleaned up when their source posts are removed by `enforce-content-age` or when they expire via `StaleEventCleaner`.
+- Generated events are automatically cleaned up when their source posts are removed by `mayhem expire` or when they expire via `StaleEventCleaner`.
 
-### `check-source-urls`
-### `enforce-content-age`
+### `mayhem expire`
 
 **Purpose**
 Deletes `_posts/*.md` (and their referenced `_images/*.md` metadata plus any `assets/images/<hash>.*` files) whose `date` front matter falls outside of the configured window, then removes `_events/*.md` entries whose `start_date` is earlier than the current time.
 
 **Usage**
 
- - `bin/enforce-content-age`
+ - `mayhem expire`
 
 **Key env/config**
 
@@ -195,35 +201,14 @@ Deletes `_posts/*.md` (and their referenced `_images/*.md` metadata plus any `as
  - After post cleanup, scans `_events/` and removes events whose `start_date` timestamps are already in the past (relative to the time the script runs), and cleans up any `events` references in posts that link to the removed events.
  - Prints a short summary of how many posts, events, and images were removed so you can verify the cleanup before committing.
 
-### `update-content`
-
-**Purpose**
-Runs the full content update pipeline—imports feeds, summarizes posts/events, extracts referenced images, enforces content age limits—then stages resulting changes and performs the commit/push sequence.
-
-**Usage**
-
-- `bin/update-content`
-
-**Key env/config**
-
-- `LOG_LEVEL` – overridden to `TRACE` for the scripted run; you can export a different value afterward if desired.
-- Git must be configured with valid credentials for pull/push operations.
-
-**Behavior notes**
-
-- Aborts immediately if `git status --porcelain` reports uncommitted work so that local edits are never overwritten.
-- Executes `git pull`, then invokes each processing step via `bin/runlog ...` to capture structured logs.
-- Stages `_events`, `_images`, `_posts`, and `assets`, skipping the commit/push when no staged changes exist.
-- Commits with the fixed message “import content, summarize, extract images, and enforce content age” and pushes to the current branch when changes are present.
-
-### `list-openai-models`
+### `mayhem ls-models`
 
 **Purpose**
 Simple helper that echoes every model ID visible to the configured OpenAI account—useful for confirming newer `gpt-4o` variants.
 
 **Usage**
 
-- `bin/list-openai-models`
+- `mayhem ls-models`
 
 **Key env/config**
 
@@ -234,14 +219,14 @@ Simple helper that echoes every model ID visible to the configured OpenAI accoun
 
 - Returns one line per model and exits; no other arguments are supported.
 
-### `summarize-content`
+### `mayhem summarize`
 
 **Purpose**
 Runs both news and event summarizers so `_posts/` and `_events/` files missing `summarized: true` gain a concise Markdown summary while keeping the original Markdown body in front matter. Both content types also receive automatic topic classification when the `topics` array is empty.
 
 **Usage**
 
-- `bin/summarize-content`
+- `mayhem summarize`
 
 **Key env/config**
 
@@ -259,14 +244,14 @@ Runs both news and event summarizers so `_posts/` and `_events/` files missing `
 - Leaves files untouched when `summarized: true` is already present, but you can force a re-run by deleting that flag (or the stored summary) before invoking the script.
 - Honors `locked: true` across posts and events, skipping both summary and topic updates for frozen entries.
 
-### `tidy-frontmatter`
+### `mayhem tidy`
 
 **Purpose**
 Enforces a tidy YAML front-matter block for Markdown files so other scripts can process a consistent format.
 
 **Usage**
 
-- `bin/tidy-frontmatter PATH...`
+- `mayhem tidy PATH...`
 
 **Behavior notes**
 
