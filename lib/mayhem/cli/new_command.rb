@@ -119,7 +119,7 @@ module Mayhem
 
       def update_config
         config_path = File.join(@target_path, '_config.yml')
-        puts "Updating _config.yml with kingcounty.solutions configuration..."
+        puts 'Updating _config.yml with kingcounty.solutions configuration...'
 
         current_config = YAML.safe_load_file(config_path, permitted_classes: [Date, Time, Symbol])
         source_config = load_source_config
@@ -138,7 +138,7 @@ module Mayhem
 
       def load_source_config
         # Navigate up from lib/mayhem/cli to repo root
-        source_config_path = File.expand_path('../../../../_config.yml', __FILE__)
+        source_config_path = File.expand_path('../../../_config.yml', __dir__)
         YAML.safe_load_file(source_config_path, permitted_classes: [Date, Time, Symbol])
       end
 
@@ -175,7 +175,7 @@ module Mayhem
         Dir.chdir(@target_path) do
           puts 'Configuring bundler to install to vendor/bundle...'
           system('bundle', 'config', 'set', '--local', 'path', 'vendor/bundle')
-          
+
           puts 'Running bundle install...'
           success = system('bundle', 'install')
           abort_with_error('Failed to install gems via bundler') unless success
