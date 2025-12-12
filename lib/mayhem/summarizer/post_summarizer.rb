@@ -11,10 +11,13 @@ require_relative '../content/content_pruner'
 require_relative '../front_matter/document'
 require_relative '../support/http_client'
 require_relative '../feed/discovery'
+require_relative 'helpers'
 
 module Mayhem
   module News
     class PostSummarizer
+      include Mayhem::SummarizerHelpers
+
       POSTS_DIR = '_posts'
       TOPIC_DIR = '_topics'
       IMAGES_DIR = '_images'
@@ -114,8 +117,8 @@ module Mayhem
         end
 
         needs_summary = front_matter['summarized'] != true
-        needs_topics = Array(front_matter['topics']).empty?
-        needs_locations = !front_matter.key?('locations')
+        needs_topics = needs_classification?(front_matter, 'topics')
+        needs_locations = needs_classification?(front_matter, 'locations')
         return unless needs_summary || needs_topics || needs_locations
 
         source_url = front_matter['source_url']

@@ -9,22 +9,6 @@ layout: default
     <h1>{{ page.title }}</h1>
   </header>
 
-  {% assign all_topics = site.topics | sort: "title" %}
-  {% assign all_orgs = site.organizations | sort: "title" %}
-  {% assign topic_orgs = all_orgs | where_exp: "org", "org.topics and org.topics contains page.title" %}
-  {% assign topic_org_titles = topic_orgs | map: "title" %}
-  {% assign topic_org_roots = "" | split: "" %}
-  {% for org in topic_orgs %}
-    {% assign parent_name = org.parent_organization | default: "" %}
-    {% if parent_name == "" or parent_name == nil %}
-      {% assign topic_org_roots = topic_org_roots | push: org %}
-    {% elsif topic_org_titles contains parent_name %}
-      {% continue %}
-    {% else %}
-      {% assign topic_org_roots = topic_org_roots | push: org %}
-    {% endif %}
-  {% endfor %}
-
   {{ content }}
 
   {% assign topic_news = site.posts | where_exp: "post", "post.topics and post.topics contains page.title" %}
@@ -33,45 +17,64 @@ layout: default
     {% assign topic_news = topic_news | sort: "date" | reverse %}
     {% assign topic_news_total = topic_news | size %}
     {% assign topic_news = topic_news | slice: 0, 20 %}
-    <section>
-      <header>
-        <h2>News related to {{ page.title }}</h2>
-      </header>
-      {% for post in topic_news %}
-        {% include news-item.html post=post %}
-      {% endfor %}
-      {% if topic_news_total > 20 %}
-        <p>
-          <a href="{{ '/' | relative_url }}">View all news</a>
-        </p>
-      {% endif %}
-    </section>
   {% endif %}
 
   {% assign topic_events = site.events | where_exp: "event", "event.topics and event.topics contains page.title" %}
   {% if topic_events and topic_events.size > 0 %}
     {% assign topic_events_upcoming = topic_events | sort: 'start_date' %}
-    <section>
-      <header>
+  {% endif %}
+
+  {% if topic_news.size > 0 or topic_events_upcoming.size > 0 %}
+  <div class="card-columns">
+    {% if topic_news.size > 0 %}
+    <section class="card-column">
+      <header class="card-column-header">
+        <h2>News related to {{ page.title }}</h2>
+      </header>
+      <ul class="card-list">
+        {% for post in topic_news limit: 20 %}
+        <li>
+          <article class="card-item">
+            <p class="card-item-meta">{% include ap-date.html value=post.date %}</p>
+            <h3><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h3>
+            {% if post.excerpt %}
+            <p class="card-item-summary">{{ post.excerpt | strip_html | truncate: 140 }}</p>
+            {% endif %}
+          </article>
+        </li>
+        {% endfor %}
+      </ul>
+      {% if topic_news_total > 20 %}
+      <p class="card-list-link"><a href="{{ '/news/' | relative_url }}">See all news</a></p>
+      {% endif %}
+    </section>
+    {% endif %}
+
+    {% if topic_events_upcoming.size > 0 %}
+    <section class="card-column">
+      <header class="card-column-header">
         <h2>Events for {{ page.title }}</h2>
       </header>
-      {% for topic_event in topic_events_upcoming %}
-        {% include event-card.html event=topic_event %}
-      {% endfor %}
+      <ul class="card-list">
+        {% for topic_event in topic_events_upcoming limit: 20 %}
+        <li>
+          {% capture topic_event_date %}{% include ap-date.html value=topic_event.start_date %}{% endcapture %}
+          {% assign topic_event_date = topic_event_date | strip %}
+          {% capture topic_event_time %}{% include ap-time.html value=topic_event.start_date %}{% endcapture %}
+          {% assign topic_event_time = topic_event_time | strip %}
+          <article class="card-item">
+            <p class="card-item-meta">{{ topic_event_date }}{% if topic_event_time != '' %} at {{ topic_event_time }}{% endif %}</p>
+            <h3><a href="{{ topic_event.url | relative_url }}">{{ topic_event.title }}</a></h3>
+            {% if topic_event.excerpt %}
+            <p class="card-item-summary">{{ topic_event.excerpt | strip_html | truncate: 140 }}</p>
+            {% endif %}
+          </article>
+        </li>
+        {% endfor %}
+      </ul>
+      <p class="card-list-link"><a href="{{ '/events/' | relative_url }}">See all events</a></p>
     </section>
-  {% endif %}
-  {% if topic_orgs and topic_orgs.size > 0 %}
-    <section>
-      <header>
-        <h2>Organizations focused on {{ page.title }}</h2>
-      </header>
-      <div class="hierarchy-tree">
-        <ul class="hierarchy-tree-list">
-          {% for org in topic_org_roots %}
-            {% include org-tree.html organization=org organizations=topic_orgs %}
-          {% endfor %}
-        </ul>
-      </div>
-    </section>
+    {% endif %}
+  </div>
   {% endif %}
 </article>
