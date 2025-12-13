@@ -139,10 +139,10 @@ topics:
 - Education & Learning
 ---
 
-As the year comes to a close, BrightSpark highlights various ways to support its mission of helping children, families, and child care providers. Every contribution, whether it's time, resources, or advocacy, plays a crucial role in addressing challenges in early learning. 
+As the year comes to a close, BrightSpark highlights various ways to support its mission of helping children, families, and child care providers. Every contribution, whether it's time, resources, or advocacy, plays a crucial role in addressing challenges in early learning.
 
 Individuals can make a one-time donation to address urgent funding needs, or they can become recurring donors to provide steady support throughout the year. Monthly contributions help sustain community programs and advocate for equitable access to resources. Donors can also explore options such as payroll donations or matching gifts through their employers to enhance their impact.
 
-For those in a strong financial position, donating stock can be a meaningful way to contribute, offering potential tax benefits. BrightSpark accepts a variety of donation methods, including cash, credit cards, checks, and donor-advised funds. 
+For those in a strong financial position, donating stock can be a meaningful way to contribute, offering potential tax benefits. BrightSpark accepts a variety of donation methods, including cash, credit cards, checks, and donor-advised funds.
 
 Every form of generosity aids in building inclusive early learning communities that all children deserve. BrightSpark expresses gratitude for all contributions and encourages supporters to give in ways that feel right for them. For more information on donation options, individuals can contact the fund development department.

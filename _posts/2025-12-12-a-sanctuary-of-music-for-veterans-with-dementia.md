@@ -83,6 +83,6 @@ topics:
 
 A new sound garden at the Lake City VA Medical Center (LCVAMC) offers a peaceful retreat for residents, particularly those living with dementia. Named in honor of Jeffery Clark, a dedicated veteran and advocate for fellow service members, the garden is a result of the recreation therapy team's vision. Jeff Clark’s wife, Cameila, emphasized his commitment to serving veterans and providing respite care.
 
-The sound garden aims to harness the therapeutic benefits of music and nature, creating a multisensory environment that helps residents reconnect with cherished memories. Tiffany Gilliam, nurse manager of the Dementia Specialty Care Unit, described the garden as a sanctuary where residents, families, and caregivers can engage meaningfully. It serves as a living tribute to healing, service, and compassion, reflecting the legacy of Jeff Clark. 
+The sound garden aims to harness the therapeutic benefits of music and nature, creating a multisensory environment that helps residents reconnect with cherished memories. Tiffany Gilliam, nurse manager of the Dementia Specialty Care Unit, described the garden as a sanctuary where residents, families, and caregivers can engage meaningfully. It serves as a living tribute to healing, service, and compassion, reflecting the legacy of Jeff Clark.
 
 Local veterans are encouraged to explore similar creative arts programs at their nearby VA Medical Centers to enhance their well-being.

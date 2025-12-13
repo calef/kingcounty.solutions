@@ -72,6 +72,6 @@ topics:
 - Transportation & Mobility
 ---
 
-Essentials First will host a distribution event in Redmond on December 19 from 10 a.m. to 2 p.m. Community members are invited to walk in and receive essential hygiene kits, snack packs, and ORCA cards. The event aims to support those in need, including low-income families, individuals experiencing homelessness, immigrants, refugees, and others facing hardships. 
+Essentials First will host a distribution event in Redmond on December 19 from 10 a.m. to 2 p.m. Community members are invited to walk in and receive essential hygiene kits, snack packs, and ORCA cards. The event aims to support those in need, including low-income families, individuals experiencing homelessness, immigrants, refugees, and others facing hardships.
 
 No specific eligibility requirements are in place, but attendees are encouraged to bring an ID and may need to complete a short intake form with assistance from Essentials First staff. All personal information will be kept confidential. This event is part of a series of open office hours, welcoming anyone seeking hygiene support.

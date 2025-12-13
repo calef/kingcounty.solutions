@@ -71,6 +71,6 @@ topics:
 - Employment & Job Support
 ---
 
-Join the Free Apprenticeship Class Training on Dec. 20 from 8 a.m. to 11:30 p.m. This virtual event, hosted by AJAC’s Manufacturing Academy, offers essential skills and connections for those looking to enter the aerospace and manufacturing sectors. Attendees will learn about the apprenticeship preparation program that emphasizes technical skill development and industry-recognized certifications, enhancing their professional portfolios. 
+Join the Free Apprenticeship Class Training on Dec. 20 from 8 a.m. to 11:30 p.m. This virtual event, hosted by AJAC’s Manufacturing Academy, offers essential skills and connections for those looking to enter the aerospace and manufacturing sectors. Attendees will learn about the apprenticeship preparation program that emphasizes technical skill development and industry-recognized certifications, enhancing their professional portfolios.
 
 The program is designed to link students with local manufacturing employers in King County, facilitating a smooth transition from classroom learning to real-world application. Enrollment is free for Washington State residents who meet eligibility requirements. Classes will commence in January at South Seattle College. For more information, call 206-764-7940 or email info@ajactraining.org.

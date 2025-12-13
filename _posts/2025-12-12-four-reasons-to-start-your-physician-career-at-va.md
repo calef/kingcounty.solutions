@@ -80,12 +80,12 @@ topics:
 - Employment & Job Support
 ---
 
-The Department of Veterans Affairs (VA) offers an enriching environment for physicians looking to advance their careers. Working at the VA provides a chance to serve America's Veterans, which many find deeply rewarding. Physicians experience pride and purpose by making a meaningful difference in the lives of those who served in the military. 
+The Department of Veterans Affairs (VA) offers an enriching environment for physicians looking to advance their careers. Working at the VA provides a chance to serve America's Veterans, which many find deeply rewarding. Physicians experience pride and purpose by making a meaningful difference in the lives of those who served in the military.
 
-The VA is also known for its cutting-edge technology, being the largest integrated health care system in the U.S. It utilizes innovative solutions like Telehealth Services and electronic health records to improve patient care and streamline workflows. 
+The VA is also known for its cutting-edge technology, being the largest integrated health care system in the U.S. It utilizes innovative solutions like Telehealth Services and electronic health records to improve patient care and streamline workflows.
 
-Additionally, the VA emphasizes work/life balance, offering predictable schedules, generous leave policies, and strong support systems for its employees. 
+Additionally, the VA emphasizes work/life balance, offering predictable schedules, generous leave policies, and strong support systems for its employees.
 
-The Patient Aligned Care Team (PACT) model enhances collaboration among health care providers, allowing for more effective, patient-centered care. 
+The Patient Aligned Care Team (PACT) model enhances collaboration among health care providers, allowing for more effective, patient-centered care.
 
 The VA is actively seeking new physicians who are passionate about contributing to the mission of serving Veterans. Interested candidates are encouraged to explore job opportunities and apply to be part of this impactful organization.

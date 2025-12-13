@@ -173,7 +173,7 @@ topics:
 - Employment & Job Support
 ---
 
-Jasmine faced a life-changing moment when she and her children were evicted from their home, leaving them with nowhere to go. With their belongings packed into a stroller, she felt heartbroken as her kids asked where they would go next. Family homelessness in the region has reached critical levels, with shelters often full and limited resources available. 
+Jasmine faced a life-changing moment when she and her children were evicted from their home, leaving them with nowhere to go. With their belongings packed into a stroller, she felt heartbroken as her kids asked where they would go next. Family homelessness in the region has reached critical levels, with shelters often full and limited resources available.
 
 After a desperate search, Jasmine found an opening at Mary’s Place, where she and her children received warmth, safety, and essential support, including help enrolling her kids in school. Mary’s Place emphasizes reducing childhood trauma, providing a nurturing environment through programs like Kids Club, which allows children to play and feel secure despite their circumstances.
 

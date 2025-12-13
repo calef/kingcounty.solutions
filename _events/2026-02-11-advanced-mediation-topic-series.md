@@ -78,6 +78,6 @@ title: Advanced Mediation Topic Series
 topics: []
 ---
 
-Join the Advanced Mediation Topic Series starting February 11, 2026, from 9 a.m. to 6 p.m. This virtual event, hosted on Zoom, is designed for individuals seeking to enhance their mediation skills and pursue certification. Participants will engage in a comprehensive three-day training that includes roleplays and discussions on advanced mediation topics such as managing emotions, co-mediation, and writing durable agreements. 
+Join the Advanced Mediation Topic Series starting February 11, 2026, from 9 a.m. to 6 p.m. This virtual event, hosted on Zoom, is designed for individuals seeking to enhance their mediation skills and pursue certification. Participants will engage in a comprehensive three-day training that includes roleplays and discussions on advanced mediation topics such as managing emotions, co-mediation, and writing durable agreements.
 
 Each day focuses on different aspects of facilitative mediation, allowing attendees to practice both mediator and party perspectives. This series is ideal for those who have completed CoRE™ or CoRE™ orientation and are looking to deepen their understanding of conflict management. Don't miss this opportunity to build confidence and expand your volunteer opportunities with KCDRC.

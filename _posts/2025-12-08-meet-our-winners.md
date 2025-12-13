@@ -101,7 +101,7 @@ topics:
 - Shelter & Housing
 ---
 
-ELAP announced its annual Pro Bono Awards, recognizing individuals and organizations that significantly contribute to the community's legal needs. 
+ELAP announced its annual Pro Bono Awards, recognizing individuals and organizations that significantly contribute to the community's legal needs.
 
 The winners for 2025 include:
 

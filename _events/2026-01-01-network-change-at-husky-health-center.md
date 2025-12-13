@@ -15,6 +15,6 @@ topics:
 - Health Care
 ---
 
-Starting January 1, 2026, the Husky Health Center will implement changes to its insurance coverage policies. Attendees are invited to learn more about these updates and how they may affect their healthcare options. This event will provide essential information regarding accepted insurance plans and alternative resources for patients. 
+Starting January 1, 2026, the Husky Health Center will implement changes to its insurance coverage policies. Attendees are invited to learn more about these updates and how they may affect their healthcare options. This event will provide essential information regarding accepted insurance plans and alternative resources for patients.
 
 Join us at the Husky Health Center to engage with healthcare professionals who can answer your questions and provide guidance on navigating these changes. This is an opportunity to ensure you have the necessary information to make informed decisions about your health care moving forward. Don't miss this chance to stay informed and connected with your healthcare providers.

@@ -157,7 +157,7 @@ topics:
 - Transportation & Mobility
 ---
 
-King County Executive Shannon Braddock has proposed a biennial budget for 2026-2027 totaling $19.7 billion, aimed at preventing significant cuts to critical services while enhancing investments in public safety, housing, homelessness response, and behavioral health. The budget addresses a $175 million general fund shortfall and utilizes a new criminal justice sales tax to safeguard services in the Sheriff’s Office, Prosecutor’s Office, and public health sectors. 
+King County Executive Shannon Braddock has proposed a biennial budget for 2026-2027 totaling $19.7 billion, aimed at preventing significant cuts to critical services while enhancing investments in public safety, housing, homelessness response, and behavioral health. The budget addresses a $175 million general fund shortfall and utilizes a new criminal justice sales tax to safeguard services in the Sheriff’s Office, Prosecutor’s Office, and public health sectors.
 
 Key elements include:
 - $175 million for public safety staff

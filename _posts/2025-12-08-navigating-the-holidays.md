@@ -119,7 +119,7 @@ topics:
 - Senior Services
 ---
 
-The holiday season can intensify feelings of grief for families who have lost a military or Veteran loved one. The Tragedy Assistance Program for Survivors (TAPS) offers support and hope during this challenging time. TAPS emphasizes the importance of creating understanding environments for grieving children, who may experience a rollercoaster of emotions during the holidays. 
+The holiday season can intensify feelings of grief for families who have lost a military or Veteran loved one. The Tragedy Assistance Program for Survivors (TAPS) offers support and hope during this challenging time. TAPS emphasizes the importance of creating understanding environments for grieving children, who may experience a rollercoaster of emotions during the holidays.
 
 Key insights for supporting these children include being honest about feelings, encouraging emotional expression, making flexible holiday plans, and maintaining meaningful traditions while adapting to loss. Open communication helps validate children's experiences and fosters connections. Encouraging them to share their feelings through conversation or creative activities can alleviate isolation.
 

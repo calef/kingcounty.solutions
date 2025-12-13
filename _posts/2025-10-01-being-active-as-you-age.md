@@ -27,6 +27,6 @@ Being active as you age focuses on maintaining independence and mobility through
 - **Strength training**: Using resistance bands or weights combats muscle loss, aiding daily activities like climbing stairs or carrying groceries.
 - **Balance and flexibility exercises**: Activities like tai chi and yoga help reduce fall risk and improve coordination, with stretching recommended post-exercise.
 
-For those who have been inactive or have health concerns, consulting a doctor before starting is advisable. Gradual increases in activity, aiming for 150 minutes of aerobic exercise weekly, are recommended. Finding enjoyable activities, whether solo or social, enhances motivation and adherence. Setting realistic goals and celebrating milestones is crucial for sustaining an active lifestyle, ultimately building a healthier future. 
+For those who have been inactive or have health concerns, consulting a doctor before starting is advisable. Gradual increases in activity, aiming for 150 minutes of aerobic exercise weekly, are recommended. Finding enjoyable activities, whether solo or social, enhances motivation and adherence. Setting realistic goals and celebrating milestones is crucial for sustaining an active lifestyle, ultimately building a healthier future.
 
 For more information, visit [Aging Wisdom](https://agingwisdom.com/being-active-as-you-age/?utm_source=rss&utm_medium=rss&utm_campaign=being-active-as-you-age).

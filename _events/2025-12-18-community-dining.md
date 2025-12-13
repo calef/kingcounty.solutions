@@ -68,6 +68,6 @@ topics:
 - Senior Services
 ---
 
-Join the Community Dining event at The Center for Active Living on December 18, 2025, from 11:45 a.m. to 12:30 p.m. Enjoy a hot, nutritious meal prepared from scratch by Chef Francisco in a welcoming communal atmosphere. The menu varies daily, featuring culturally diverse options to cater to different tastes. 
+Join the Community Dining event at The Center for Active Living on December 18, 2025, from 11:45 a.m. to 12:30 p.m. Enjoy a hot, nutritious meal prepared from scratch by Chef Francisco in a welcoming communal atmosphere. The menu varies daily, featuring culturally diverse options to cater to different tastes.
 
 The suggested donation is $5 for attendees aged 60 and older, while those under 60 are required to contribute $10. This event is a great opportunity to connect with others in the community while savoring a delicious meal. The Center for Active Living is located at 4217 SW Oregon St. in Seattle.

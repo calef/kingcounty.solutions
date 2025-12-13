@@ -16,6 +16,6 @@ title: US 12 closed at Naches due to a washout; a repair plan is underway
 topics: []
 ---
 
-US 12 at the east entrance to Naches is closed due to a significant washout caused by the Naches River. The Washington State Department of Transportation (WSDOT) initially closed the highway on Dec. 10 after the river began damaging the guardrail. By the following morning, erosion had worsened, leading to a washout that impacted both directions of the highway. 
+US 12 at the east entrance to Naches is closed due to a significant washout caused by the Naches River. The Washington State Department of Transportation (WSDOT) initially closed the highway on Dec. 10 after the river began damaging the guardrail. By the following morning, erosion had worsened, leading to a washout that impacted both directions of the highway.
 
 For the safety of travelers, US 12 and the nearby Yakima Greenway Trail remain closed until further notice, with a detour available via local roads. WSDOT region administrator Brian White emphasized the importance of this route for the local community and stated that efforts are underway to quickly determine the best repair plan. Updates on the timeline for repairs will be provided as more information becomes available.

@@ -36,7 +36,7 @@ The Snoqualmie Indian Tribe is honoring the life of Tribal Elder Arlene Ventura 
 Furthermore, the [Sunshine Garden](https://cisc-seattle.org/sunshine-garden-activity-schedule-november/?utm_source=rss&utm_medium=rss&utm_campaign=sunshine-garden-activity-schedule-november) has released its activity schedule for November, providing culturally relevant programs for older adults that promote wellness and socialization.
 
 ### Other Updates
-In addition to the main themes, the King Conservation District has published the [minutes from the Sept. 9 Board of Supervisors meeting](https://kingcd.org/september-09-2025-board-of-supervisors-meeting-minutes/), although specific details regarding the discussions are not provided. 
+In addition to the main themes, the King Conservation District has published the [minutes from the Sept. 9 Board of Supervisors meeting](https://kingcd.org/september-09-2025-board-of-supervisors-meeting-minutes/), although specific details regarding the discussions are not provided.
 
 Stay informed and engaged, King County!
 

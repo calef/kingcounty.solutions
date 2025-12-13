@@ -80,12 +80,12 @@ topics:
 - Health Care
 ---
 
-VA’s Office of Research and Development has highlighted key research findings on gastric cancer, chronic kidney disease (CKD), and multiple sclerosis (MS). 
+VA’s Office of Research and Development has highlighted key research findings on gastric cancer, chronic kidney disease (CKD), and multiple sclerosis (MS).
 
 Researchers at VA San Diego have identified carfilzomib, a drug primarily used for multiple myeloma, as a potential treatment for gastric cancer. The study found that the drug can inhibit the PSMB8 gene, which is highly expressed in gastric cancer patients, suggesting a new avenue for treatment.
 
-In another study, VA researchers from the Seattle-Denver Center of Innovation interviewed 32 Veterans with CKD. They discovered a need for personalized dietary plans that consider military culture and provide social support. Many Veterans face challenges adhering to strict diets due to conflicting guidelines and military habits. 
+In another study, VA researchers from the Seattle-Denver Center of Innovation interviewed 32 Veterans with CKD. They discovered a need for personalized dietary plans that consider military culture and provide social support. Many Veterans face challenges adhering to strict diets due to conflicting guidelines and military habits.
 
-Additionally, a study from Iowa City VA and the University of Iowa revealed significant differences in the oral microbiome of patients with relapsing-remitting MS compared to those without the disease. This research may lead to the development of saliva-based tests for early MS detection. 
+Additionally, a study from Iowa City VA and the University of Iowa revealed significant differences in the oral microbiome of patients with relapsing-remitting MS compared to those without the disease. This research may lead to the development of saliva-based tests for early MS detection.
 
 These studies underscore ongoing efforts to improve health outcomes for Veterans through tailored treatments and interventions.

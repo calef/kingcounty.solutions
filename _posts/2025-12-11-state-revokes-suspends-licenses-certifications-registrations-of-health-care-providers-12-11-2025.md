@@ -177,12 +177,12 @@ topics:
 - Legal Aid
 ---
 
-The Washington State Department of Health has revoked or suspended the licenses and credentials of several health care providers across various counties due to violations of professional standards and laws. 
+The Washington State Department of Health has revoked or suspended the licenses and credentials of several health care providers across various counties due to violations of professional standards and laws.
 
-In Cowlitz County, Timothy Lee Bales had his credentials suspended for failing to comply with a monitoring program. In King County, Meifang Chen's massage therapist credential was suspended for not meeting examination requirements, while Antonio Terrell Dailey's credential was suspended following charges of sexual assault against a patient. 
+In Cowlitz County, Timothy Lee Bales had his credentials suspended for failing to comply with a monitoring program. In King County, Meifang Chen's massage therapist credential was suspended for not meeting examination requirements, while Antonio Terrell Dailey's credential was suspended following charges of sexual assault against a patient.
 
-In Pierce County, Tammy M. Leatham was suspended after being found guilty of abusing a vulnerable adult. Sharon Ann Merkle and Jana Swenson also faced suspensions due to physical and financial exploitation, respectively. 
+In Pierce County, Tammy M. Leatham was suspended after being found guilty of abusing a vulnerable adult. Sharon Ann Merkle and Jana Swenson also faced suspensions due to physical and financial exploitation, respectively.
 
-Thurston County's Benjamin Philip Johnson had his credential suspended for financially exploiting a vulnerable adult. In Whatcom County, Netra Renea McGrew was suspended for similar reasons. Lastly, Jenny Estefany Garcia Vilchis in Yakima County had her nursing assistant credential suspended for sharing unauthorized photographs of residents. 
+Thurston County's Benjamin Philip Johnson had his credential suspended for financially exploiting a vulnerable adult. In Whatcom County, Netra Renea McGrew was suspended for similar reasons. Lastly, Jenny Estefany Garcia Vilchis in Yakima County had her nursing assistant credential suspended for sharing unauthorized photographs of residents.
 
 The Department of Health encourages consumers to report any unprofessional conduct by health care providers.

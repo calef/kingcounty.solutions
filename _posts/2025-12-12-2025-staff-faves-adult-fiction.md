@@ -59,8 +59,8 @@ title: '2025 Staff Faves: Adult Fiction'
 topics: []
 ---
 
-Library staff have shared their favorite adult fiction books published in 2025. Notable titles include "Malinalli" by Veronica Chapa, which reimagines the life of a historical figure known for aiding conquistadors in Mexico, praised for its magical realism. "Crawl" by Max Delsohn features a humorous short story collection reflecting the transmasculine experience in 2010s Seattle, receiving acclaim for its engaging narrative. 
+Library staff have shared their favorite adult fiction books published in 2025. Notable titles include "Malinalli" by Veronica Chapa, which reimagines the life of a historical figure known for aiding conquistadors in Mexico, praised for its magical realism. "Crawl" by Max Delsohn features a humorous short story collection reflecting the transmasculine experience in 2010s Seattle, receiving acclaim for its engaging narrative.
 
-Ai Jiang's "A Palace Near the Wind" tells the story of a princess from the tree people of Feng who must marry a human king, setting up a fantasy duology. Jess Kidd's "Murder at Gulls Nest" launches a cozy mystery series in 1950s Kent, England, featuring a nun solving a murder and a friend's disappearance. 
+Ai Jiang's "A Palace Near the Wind" tells the story of a princess from the tree people of Feng who must marry a human king, setting up a fantasy duology. Jess Kidd's "Murder at Gulls Nest" launches a cozy mystery series in 1950s Kent, England, featuring a nun solving a murder and a friend's disappearance.
 
 Aurora Mattia's "Unsex Me Here" is a surrealist collection exploring queer and transgender themes, highlighted for its lush prose. Lastly, Emma Pattee's "Tilt" presents a pregnant woman's life-changing experience during a catastrophic earthquake in Portland, vividly capturing the region's anxieties. These selections showcase diverse voices and genres in contemporary fiction.

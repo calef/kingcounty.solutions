@@ -1,7 +1,6 @@
 ---
 end_date: '2025-12-23T17:00:00-08:00'
 images: []
-published: false
 location: Tukwila Library, 14380 Tukwila International Boulevard, Tukwila, WA, United
   States
 locations:
@@ -47,6 +46,7 @@ original_markdown_body: 'Electric Cello Concert with Gretchen Yanover   December
   Venue Website       Related Events    Community Resource Fair December 13 @ 11:30
   am - 2:30 pm     Rainier Symphony Concert December 13 @ 6:30 pm - 8:30 pm     Give
   Blood to Save 3 Lives December 14 @ 8:00 am - 5:00 pm       Back to events'
+published: false
 source: City of Tukwila
 source_url: https://www.tukwilawa.gov/event/electric-cello-concert-with-gretchen-yanover/
 start_date: '2025-12-23T15:00:00-08:00'

@@ -17,6 +17,6 @@ topics:
 
 Join us on January 1, 2026, in North Seattle for the launch of Route 77, a new bus service that connects directly to Sound Transit’s light rail station at 130th Street and I-5. This event marks an important milestone in enhancing public transportation options for the community.
 
-Attendees can expect to learn about the benefits of Route 77, including improved access to the light rail system and reduced travel times. There will be opportunities to meet local transit officials, ask questions, and provide feedback on the new route. 
+Attendees can expect to learn about the benefits of Route 77, including improved access to the light rail system and reduced travel times. There will be opportunities to meet local transit officials, ask questions, and provide feedback on the new route.
 
 Celebrate this exciting addition to our transit network and discover how it can make your daily commute easier. Don’t miss this chance to be part of a transformative moment for North Seattle’s transportation landscape.

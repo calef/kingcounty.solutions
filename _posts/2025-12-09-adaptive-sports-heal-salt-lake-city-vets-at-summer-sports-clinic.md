@@ -183,7 +183,7 @@ title: Adaptive sports heal Salt Lake City Vets at Summer Sports Clinic
 topics: []
 ---
 
-Veterans from the VA Salt Lake City Health Care System participated in the 2025 National Veterans Summer Sports Clinic from Aug. 23-30 in San Diego, California. The event hosted over 500 Veterans who engaged in adaptive sports like cycling, kayaking, sailing, and surfing. 
+Veterans from the VA Salt Lake City Health Care System participated in the 2025 National Veterans Summer Sports Clinic from Aug. 23-30 in San Diego, California. The event hosted over 500 Veterans who engaged in adaptive sports like cycling, kayaking, sailing, and surfing.
 
 First-time participant Army Veteran Bailey Palmer highlighted the importance of camaraderie among Veterans, particularly women, who are a smaller segment of the community. She found the experience empowering and therapeutic, especially during a women Veterans-only gathering. Surfing, a personal goal, became a pivotal part of her recovery journey.
 

@@ -115,7 +115,7 @@ topics:
 - Financial Assistance
 ---
 
-Governor Bob Ferguson announced a $350,000 investment from the Governor’s Economic Development Strategic Reserve Fund to support the expansion of Bothell-based Portal Space Systems. This funding will help the aerospace company grow its satellite manufacturing facility, expected to create over 100 jobs in the next two years and more than 700 jobs by 2030. Portal Space Systems aims to transition from testing and development to scalable production in a new 50,000-square-foot facility. 
+Governor Bob Ferguson announced a $350,000 investment from the Governor’s Economic Development Strategic Reserve Fund to support the expansion of Bothell-based Portal Space Systems. This funding will help the aerospace company grow its satellite manufacturing facility, expected to create over 100 jobs in the next two years and more than 700 jobs by 2030. Portal Space Systems aims to transition from testing and development to scalable production in a new 50,000-square-foot facility.
 
 CEO Jeff Thornburg emphasized the significance of this support in building a national strategic capability in aerospace. The expansion will include improvements to the facility, equipment acquisition, and workforce training, focusing on high-wage tech, manufacturing, and engineering positions. Portal has raised over $22 million for its _Supernova_, designed for enhanced maneuverability and multi-orbit operations. The spacecraft utilizes a solar thermal propulsion system, offering performance similar to nuclear propulsion without radioactive materials.
 

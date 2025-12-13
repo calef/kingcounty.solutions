@@ -29,9 +29,9 @@ topics:
 - Employment & Job Support
 ---
 
-We share with prayers and sadness the passing of beloved Tribal Elder Marguerite Bertha Walden, who was born on March 19, 1937, and passed away on November 21, 2025. In honor of her memory and in accordance with tribal policy, flags are flying at half-staff. Additional information regarding her passing and memorial services will be provided when available. 
+We share with prayers and sadness the passing of beloved Tribal Elder Marguerite Bertha Walden, who was born on March 19, 1937, and passed away on November 21, 2025. In honor of her memory and in accordance with tribal policy, flags are flying at half-staff. Additional information regarding her passing and memorial services will be provided when available.
 
-The Snoqualmie Tribe also announces recent and upcoming events, including ticket distribution for PWHL and Seattle U basketball games, support for families affected by the federal SNAP suspension, and details about the funeral service for another Tribal Elder, Arlene Ventura. 
+The Snoqualmie Tribe also announces recent and upcoming events, including ticket distribution for PWHL and Seattle U basketball games, support for families affected by the federal SNAP suspension, and details about the funeral service for another Tribal Elder, Arlene Ventura.
 
 Upcoming cultural events include:
 - A beginning beading class on November 22
