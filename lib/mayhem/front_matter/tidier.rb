@@ -22,7 +22,37 @@ module Mayhem
       # Public helper that normalizes a Markdown string according to the tidy rules.
       def tidy_markdown(content)
         result = Mayhem::FrontMatter::Document.parse(content)
-        Mayhem::FrontMatter::Document.build_markdown(result.front_matter, result.body)
+        normalized_body = ensure_header_spacing(result.body)
+        Mayhem::FrontMatter::Document.build_markdown(result.front_matter, normalized_body)
+      end
+
+      def ensure_header_spacing(body)
+        text = body.to_s
+        return '' if text.empty?
+
+        lines = text.each_line.to_a
+        normalized_lines = []
+
+        lines.each_with_index do |line, index|
+          stripped_line = line.rstrip
+
+          if header_line?(stripped_line)
+            normalized_lines << '' unless normalized_lines.empty? || normalized_lines.last.strip.empty?
+            normalized_lines << stripped_line
+            next_line = lines[index + 1]
+            normalized_lines << '' if next_line && !next_line.strip.empty?
+          else
+            normalized_lines << stripped_line
+          end
+        end
+
+        normalized_lines.join("\n")
+      end
+
+      def header_line?(line)
+        return false if line.to_s.strip.empty?
+
+        line.match?(/\A\s{0,3}\#{1,6}\s+/)
       end
 
       private
