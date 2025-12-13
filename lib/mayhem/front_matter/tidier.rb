@@ -30,19 +30,38 @@ module Mayhem
         text = body.to_s
         return '' if text.empty?
 
-        lines = text.each_line.to_a
+        lines = text.each_line.map(&:rstrip)
         normalized_lines = []
+        in_list = false
 
         lines.each_with_index do |line, index|
-          stripped_line = line.rstrip
-
-          if header_line?(stripped_line)
-            normalized_lines << '' unless normalized_lines.empty? || normalized_lines.last.strip.empty?
-            normalized_lines << stripped_line
+          if header_line?(line)
+            normalized_lines << '' unless normalized_lines.empty? || blank_line?(normalized_lines.last)
+            normalized_lines << line
             next_line = lines[index + 1]
-            normalized_lines << '' if next_line && !next_line.strip.empty?
+            normalized_lines << '' if next_line &&
+                                      !blank_line?(next_line) &&
+                                      !header_line?(next_line) &&
+                                      !list_line?(next_line)
+            in_list = false
+          elsif list_line?(line)
+            unless in_list
+              normalized_lines << '' unless normalized_lines.empty? || blank_line?(normalized_lines.last)
+              in_list = true
+            end
+            normalized_lines << line
+            next_line = lines[index + 1]
+            if next_line.nil?
+              normalized_lines << ''
+              normalized_lines << ''
+              in_list = false
+            elsif !list_line?(next_line)
+              normalized_lines << '' unless blank_line?(next_line)
+              in_list = false
+            end
           else
-            normalized_lines << stripped_line
+            normalized_lines << line
+            in_list = false
           end
         end
 
@@ -53,6 +72,14 @@ module Mayhem
         return false if line.to_s.strip.empty?
 
         line.match?(/\A\s{0,3}\#{1,6}\s+/)
+      end
+
+      def list_line?(line)
+        line.match?(/\A\s{0,3}(?:[-+*]|\d+\.)\s+/)
+      end
+
+      def blank_line?(line)
+        line.nil? || line.strip.empty?
       end
 
       private
