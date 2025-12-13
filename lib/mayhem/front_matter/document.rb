@@ -87,7 +87,33 @@ module Mayhem
 
         def normalize_body(body)
           cleaned_body = body.to_s.sub(/\A\n+/, '')
-          strip_trailing_whitespace_from_lines(cleaned_body)
+          ensure_header_spacing(strip_trailing_whitespace_from_lines(cleaned_body))
+        end
+
+        def ensure_header_spacing(text)
+          lines = text.each_line.map(&:rstrip)
+          normalized = []
+
+          lines.each_with_index do |line, index|
+            if header_line?(line)
+              normalized << '' unless normalized.empty? || blank_line?(normalized.last)
+              normalized << line
+              next_line = lines[index + 1]
+              normalized << '' if next_line && !blank_line?(next_line)
+            else
+              normalized << line
+            end
+          end
+
+          normalized.join("\n")
+        end
+
+        def header_line?(line)
+          line.match?(/\A\s{0,3}\#{1,6}\s+/)
+        end
+
+        def blank_line?(line)
+          line.to_s.strip.empty?
         end
 
         def build_document(yaml_segment, body_segment)

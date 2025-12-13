@@ -64,5 +64,19 @@ module Support
         assert_nil doc
       end
     end
+
+    def test_build_markdown_inserts_blank_lines_around_headers
+      body = <<~BODY
+        First paragraph
+        # Heading One
+        Some detail
+        ## Heading Two
+        More detail
+      BODY
+
+      content = Mayhem::FrontMatter::Document.build_markdown({}, body)
+      assert_includes content, "\n\n# Heading One\n\n"
+      assert_includes content, "\n\n## Heading Two\n\n"
+    end
   end
 end
