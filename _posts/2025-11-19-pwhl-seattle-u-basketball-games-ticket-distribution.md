@@ -225,3 +225,4 @@ The winners for the upcoming games include:
 - Seattle U vs. UW on Dec. 19, 2025
 - Seattle U vs. WSU on Dec. 30, 2025
 - Seattle U vs. Gonzaga on Jan. 17, 2026
+

@@ -80,6 +80,7 @@ topics: []
 Movies in the Park returns to Bellevue with screenings at Downtown Park and Crossroads Park. Downtown Park will host films on Tuesdays from July 15 to August 12, while Crossroads Park will feature movies on Thursdays from July 31 to August 21. Each event will start with pre-movie entertainment, including local musicians and vendors, at 7 p.m., followed by the movie screening at dusk.
 
 The Downtown Movies in the Park lineup includes:
+
 - July 15: “Moana 2” (Island Vibes Night)
 - July 22: “Pokémon: Detective Pikachu” (Pokémon Night)
 - July 29: “How the Grinch Stole Christmas” (Holidays in July)
@@ -87,6 +88,7 @@ The Downtown Movies in the Park lineup includes:
 - August 12: “Miracle” (Sports Night)
 
 The Crossroads Movies in the Park lineup features:
+
 - July 31: “Cool Runnings”
 - August 7: “An American Tail”
 - August 14: “Wicked”

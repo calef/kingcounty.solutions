@@ -102,6 +102,7 @@ topics:
 New research emphasizes the pressing issue of hygiene poverty in Washington state, as highlighted in the paper “Access to Dignity: Policy and Advocacy Opportunities for Ending Hygiene Poverty.” The study reveals that access to essential hygiene products—such as soap, toothpaste, diapers, menstrual supplies, and cleaning items—represents a significant and often overlooked form of deprivation for low-income households. The authors provide several recommendations to address this issue, derived from a comprehensive analysis of existing policies and interviews.
 
 Key policy recommendations include:
+
 - Exempting hygiene products from sales tax
 - Allowing SNAP/WIC funds for hygiene purchases
 - Creating hygiene benefits for TANF, Medicaid, and CHIP recipients

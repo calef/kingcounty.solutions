@@ -34,8 +34,10 @@ We share with prayers and sadness the passing of beloved Tribal Elder Marguerite
 The Snoqualmie Tribe also announces recent and upcoming events, including ticket distribution for PWHL and Seattle U basketball games, support for families affected by the federal SNAP suspension, and details about the funeral service for another Tribal Elder, Arlene Ventura.
 
 Upcoming cultural events include:
+
 - A beginning beading class on November 22
 - A Thanksgiving break
 - A Christmas tree thinning gathering on December 6
 - A Tribal Christmas party on December 13
 - A holiday break starting December 24
+
