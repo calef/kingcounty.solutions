@@ -86,7 +86,8 @@ module Mayhem
         end
 
         def normalize_body(body)
-          body.to_s.sub(/\A\n+/, '')
+          cleaned_body = body.to_s.sub(/\A\n+/, '')
+          strip_trailing_whitespace_from_lines(cleaned_body)
         end
 
         def build_document(yaml_segment, body_segment)
