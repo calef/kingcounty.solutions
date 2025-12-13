@@ -86,7 +86,7 @@ topics:
 - Health Care
 ---
 
-VA’s Office of Research and Development highlighted three significant studies on health issues affecting Veterans. 
+VA’s Office of Research and Development highlighted three significant studies on health issues affecting Veterans.
 
 A telemedicine program, the Telemedicine Medical Officer of the Day (Tele-MOD), was implemented in two VA nursing homes, resulting in a 33% reduction in emergency department visits, a 50% decrease in hospitalizations, and a 55% decline in 30-day readmission rates. This program, which provides after-hours consultations via telemedicine, also saved $45,000 per resident.
 

@@ -131,6 +131,6 @@ topics:
 
 Join the ONLINE Strategies for Success: Communication workshop hosted by WorkSource Seattle-King County from December 15 to December 18, 2025. This four-day online event runs from 8:30 a.m. to 11:30 a.m. each day and focuses on enhancing communication skills crucial for career advancement.
 
-Participants can expect to improve their interpersonal and business communication abilities, develop better listening and writing skills, and learn effective conflict resolution techniques. The workshop will also cover verbal and non-verbal cues, emotional control, and tips for professional presentation across various platforms, including phone, email, and social media. 
+Participants can expect to improve their interpersonal and business communication abilities, develop better listening and writing skills, and learn effective conflict resolution techniques. The workshop will also cover verbal and non-verbal cues, emotional control, and tips for professional presentation across various platforms, including phone, email, and social media.
 
 Registration is required, and attendees will receive Zoom meeting links via email prior to the start of the workshop. Don’t miss this opportunity to refine your communication skills and boost your job prospects.
