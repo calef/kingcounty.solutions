@@ -97,31 +97,30 @@ module Mayhem
 
           lines.each_with_index do |line, index|
             if header_line?(line)
-              normalized << '' unless normalized.empty? || blank_line?(normalized.last)
-              normalized << line
+              ensure_blank_line(normalized, allow_at_start: false)
+              append_line(normalized, line)
               next_line = lines[index + 1]
-              normalized << '' if next_line &&
-                                  !blank_line?(next_line) &&
-                                  !header_line?(next_line) &&
-                                  !list_line?(next_line)
+              append_line(normalized, '') if next_line &&
+                                             !blank_line?(next_line) &&
+                                             !header_line?(next_line) &&
+                                             !list_line?(next_line)
               in_list = false
             elsif list_line?(line)
               unless in_list
-                normalized << '' unless normalized.empty? || blank_line?(normalized.last)
+                ensure_blank_line(normalized, allow_at_start: false)
                 in_list = true
               end
-              normalized << line
+              append_line(normalized, line)
               next_line = lines[index + 1]
               if next_line.nil?
-                normalized << ''
-                normalized << ''
+                append_blank_lines(normalized, count: 2, allow_duplicates: true)
                 in_list = false
               elsif !list_line?(next_line)
-                normalized << '' unless blank_line?(next_line)
+                append_line(normalized, '') unless blank_line?(next_line)
                 in_list = false
               end
             else
-              normalized << line
+              append_line(normalized, line)
               in_list = false
             end
           end
@@ -139,6 +138,23 @@ module Mayhem
 
         def blank_line?(line)
           line.nil? || line.strip.empty?
+        end
+
+        def ensure_blank_line(normalized, allow_at_start: true)
+          return if normalized.empty? && !allow_at_start
+
+          append_line(normalized, '', allow_duplicate_blank: false)
+        end
+
+        def append_blank_lines(normalized, count: 1, allow_duplicates: false)
+          count.times { append_line(normalized, '', allow_duplicate_blank: allow_duplicates) }
+        end
+
+        def append_line(normalized, line, allow_duplicate_blank: false)
+          trimmed = line.to_s
+          return if trimmed.strip.empty? && normalized.last&.strip&.empty? && !allow_duplicate_blank
+
+          normalized << trimmed
         end
 
         def build_document(yaml_segment, body_segment)
