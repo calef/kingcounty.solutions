@@ -193,19 +193,19 @@ Deletes `_posts/*.md` (and their referenced `_images/*.md` metadata plus any `as
 
 #### Usage
 
- - `mayhem expire`
+- `mayhem expire`
 
 #### Key env/config
 
- - `content_max_age_days` – configured in `_config.yml`, defaults to 365. The script honors this value and silently skips content that is already within the threshold.
+- `content_max_age_days` – configured in `_config.yml`, defaults to 365. The script honors this value and silently skips content that is already within the threshold.
 
 #### Behavior notes
 
- - Loads `_config.yml` for `content_max_age_days`; missing or invalid values fall back to 365 days.
- - Removes posts older than the threshold, then deletes referenced `_images/` metadata files and any assets named after those image checksums (e.g., `assets/images/<hash>.webp`) unless another post still references the same checksum.
- - Also removes events that were `generated_from_post: true` when their source posts are removed.
- - After post cleanup, scans `_events/` and removes events whose `start_date` timestamps are already in the past (relative to the time the script runs), and cleans up any `events` references in posts that link to the removed events.
- - Prints a short summary of how many posts, events, and images were removed so you can verify the cleanup before committing.
+- Loads `_config.yml` for `content_max_age_days`; missing or invalid values fall back to 365 days.
+- Removes posts older than the threshold, then deletes referenced `_images/` metadata files and any assets named after those image checksums (e.g., `assets/images/<hash>.webp`) unless another post still references the same checksum.
+- Also removes events that were `generated_from_post: true` when their source posts are removed.
+- After post cleanup, scans `_events/` and removes events whose `start_date` timestamps are already in the past (relative to the time the script runs), and cleans up any `events` references in posts that link to the removed events.
+- Prints a short summary of how many posts, events, and images were removed so you can verify the cleanup before committing.
 
 ### `mayhem ls-models`
 
