@@ -3,6 +3,7 @@
 require 'yaml'
 require 'date'
 require 'time'
+require 'mayhem/front_matter/spacing_normalizer'
 
 module Mayhem
   module FrontMatter
@@ -78,11 +79,16 @@ module Mayhem
           segment = YAML.dump(front_matter, indentation: 2)
           segment = segment.sub(/\A---\s*\n/, '')
           segment = segment.sub(/\.\.\.\s*\n\z/, '')
-          segment.rstrip
+          strip_trailing_whitespace_from_lines(segment)
+        end
+
+        def strip_trailing_whitespace_from_lines(text)
+          text.each_line.map(&:rstrip).join("\n")
         end
 
         def normalize_body(body)
-          body.to_s.sub(/\A\n+/, '')
+          cleaned_body = body.to_s.sub(/\A\n+/, '')
+          Mayhem::FrontMatter::SpacingNormalizer.normalize(strip_trailing_whitespace_from_lines(cleaned_body))
         end
 
         def build_document(yaml_segment, body_segment)

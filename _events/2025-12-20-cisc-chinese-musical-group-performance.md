@@ -16,7 +16,7 @@ title: CISC Chinese Musical Group Performance
 topics: []
 ---
 
-Join the CISC Chinese Musical Instrument Group for a free performance on Dec. 20, 2025, at the Shoreline Lake Forest Park Senior Activity Center. Experience an enchanting evening filled with both traditional and contemporary Chinese music. 
+Join the CISC Chinese Musical Instrument Group for a free performance on Dec. 20, 2025, at the Shoreline Lake Forest Park Senior Activity Center. Experience an enchanting evening filled with both traditional and contemporary Chinese music.
 
 Attendees can expect a vibrant showcase that highlights the rich cultural heritage of Chinese musical instruments, offering a unique opportunity to enjoy live music in a welcoming community setting. This event promises to be an engaging experience for music lovers of all ages, fostering appreciation for diverse musical traditions.
 

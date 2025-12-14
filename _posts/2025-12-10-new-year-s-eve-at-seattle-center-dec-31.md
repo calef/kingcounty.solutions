@@ -19,10 +19,10 @@ title: New Year’s Eve at Seattle Center | Dec 31
 topics: []
 ---
 
-Celebrate New Year's Eve at the Center on December 31, 2025, presented by Alaska Airlines. The event features a vibrant night filled with music, light displays, comedy performances, and a spectacular fireworks show. 
+Celebrate New Year's Eve at the Center on December 31, 2025, presented by Alaska Airlines. The event features a vibrant night filled with music, light displays, comedy performances, and a spectacular fireworks show.
 
-Activities will take place at the Seattle Center Armory, International Fountain, and campus grounds. Attendees can enjoy live entertainment, food options, and family-friendly festivities. The event promises a joyful atmosphere for all ages, making it a perfect way to ring in the new year. 
+Activities will take place at the Seattle Center Armory, International Fountain, and campus grounds. Attendees can enjoy live entertainment, food options, and family-friendly festivities. The event promises a joyful atmosphere for all ages, making it a perfect way to ring in the new year.
 
-As the evening progresses, guests will gather for the countdown to midnight, culminating in a dazzling fireworks display that lights up the Seattle skyline. This celebration aims to create lasting memories for families and friends in the community. 
+As the evening progresses, guests will gather for the countdown to midnight, culminating in a dazzling fireworks display that lights up the Seattle skyline. This celebration aims to create lasting memories for families and friends in the community.
 
 Join the excitement at Seattle Center and welcome the new year with fun and festivity.

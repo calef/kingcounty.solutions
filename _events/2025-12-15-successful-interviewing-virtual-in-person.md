@@ -99,6 +99,6 @@ topics:
 - Employment & Job Support
 ---
 
-Join WorkSource Seattle-King County for a workshop titled "Successful Interviewing – Virtual & In Person" on Dec. 15, 2025, from 11 a.m. to 12:30 p.m. This event will take place at the Lewiston Public Library in the Community Room. 
+Join WorkSource Seattle-King County for a workshop titled "Successful Interviewing – Virtual & In Person" on Dec. 15, 2025, from 11 a.m. to 12:30 p.m. This event will take place at the Lewiston Public Library in the Community Room.
 
 Attendees will learn essential interviewing skills, including how to effectively respond to common and challenging questions in a supportive environment. The workshop aims to equip job seekers with the tools they need to impress potential employers and enhance their interview performance. No registration is necessary, and participants can choose to attend in person or virtually. Be sure to create an account at WorkSourceWA.com before attending.

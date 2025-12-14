@@ -115,7 +115,7 @@ topics:
 - Education & Learning
 ---
 
-The American Association on Health and Disability (AAHD) is accepting applications for the 2026 Frederick J. Krause Scholarship on Health and Disability. This scholarship aims to support students with disabilities who are pursuing undergraduate or graduate degrees in health-related fields. Preferred majors include public health, health promotion, disability studies, rehabilitation engineering, audiology, disability policy, and special education. 
+The American Association on Health and Disability (AAHD) is accepting applications for the 2026 Frederick J. Krause Scholarship on Health and Disability. This scholarship aims to support students with disabilities who are pursuing undergraduate or graduate degrees in health-related fields. Preferred majors include public health, health promotion, disability studies, rehabilitation engineering, audiology, disability policy, and special education.
 
 The deadline for applications is March 6, 2026. Applicants must submit a personal statement, one letter of recommendation from a faculty member or academic advisor, a recent transcript, and documentation verifying their disability status. To qualify, applicants must be U.S. citizens or legal residents enrolled in an accredited university in the United States.
 

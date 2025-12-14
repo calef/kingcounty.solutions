@@ -85,6 +85,6 @@ topics:
 - Shelter & Housing
 ---
 
-The East King County Family Resource Center will host an Information and Assistance Services event for Russian-speaking community members on December 18 from 2 p.m. to 5 p.m. at CISC, located at 16305 NE 87th St, Suite 123, Redmond, WA. 
+The East King County Family Resource Center will host an Information and Assistance Services event for Russian-speaking community members on December 18 from 2 p.m. to 5 p.m. at CISC, located at 16305 NE 87th St, Suite 123, Redmond, WA.
 
 Attendees can expect to receive support in navigating government programs related to housing, financial stability, and healthcare. The bilingual and bicultural staff will provide advocacy, community building, and various educational workshops. This free event aims to empower families by offering culturally relevant programs and fostering connections within the community. Families are encouraged to participate and take advantage of the resources available to improve their quality of life.

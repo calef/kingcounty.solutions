@@ -113,9 +113,9 @@ title: VA Health Connect helps Veterans with pharmacy benefits in disasters
 topics: []
 ---
 
-The Department of Veterans Affairs (VA) offers a Disaster Pharmacy Benefit to help enrolled Veterans access necessary medications during natural disasters, such as floods, wildfires, or hurricanes. This benefit ensures that Veterans can continue their treatments without interruption when local pharmacies are closed or unreachable. 
+The Department of Veterans Affairs (VA) offers a Disaster Pharmacy Benefit to help enrolled Veterans access necessary medications during natural disasters, such as floods, wildfires, or hurricanes. This benefit ensures that Veterans can continue their treatments without interruption when local pharmacies are closed or unreachable.
 
-When activated by local VA leadership, Veterans can present their empty medication bottles at community pharmacies to receive emergency supplies of their VA-prescribed medications. This service is crucial during emergencies, as access to medication can be a matter of life and death. 
+When activated by local VA leadership, Veterans can present their empty medication bottles at community pharmacies to receive emergency supplies of their VA-prescribed medications. This service is crucial during emergencies, as access to medication can be a matter of life and death.
 
 For example, after Hurricane Milton in October 2024, a Veteran in Florida was able to receive an emergency refill through this program when he was stranded without transportation. The benefit covers a wide range of essential medications and is available whenever a natural disaster disrupts access to VA pharmacies, aiming to provide same-day or next-day medication access.
 

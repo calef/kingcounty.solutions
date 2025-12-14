@@ -153,6 +153,6 @@ topics:
 - Education & Learning
 ---
 
-Join Antioch University for a virtual info session on Relational Therapies on Jan. 20, 2026, from 4 to 5 p.m. PST. This session will explore the university's Dance/Movement Therapy, Art Therapy, and Low-Residency Master’s in Couple & Family Therapy programs. Attendees can expect to learn about program overviews, curricula, training experiences, and career opportunities in the field. 
+Join Antioch University for a virtual info session on Relational Therapies on Jan. 20, 2026, from 4 to 5 p.m. PST. This session will explore the university's Dance/Movement Therapy, Art Therapy, and Low-Residency Master’s in Couple & Family Therapy programs. Attendees can expect to learn about program overviews, curricula, training experiences, and career opportunities in the field.
 
 Engage with faculty during an informal Q&A and hear from current students about their experiences. This is a great opportunity to determine which program aligns with your professional goals in relational, creative, and systemic therapy practice. Don’t miss this chance to see if Antioch University is the right fit for your next educational step.

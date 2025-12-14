@@ -65,6 +65,7 @@ topics:
 Join the local Deaf and Hard of Hearing (DHH) and interpreting community for a meet-up on Sept. 20, 2025, from 9 a.m. to 10:30 a.m. All sign language users are welcome to connect at various locations across Washington. This “no-host” event requires attendees to cover their own food and beverages.
 
 Meet-up locations include:
+
 - Bellevue: 5 Stones Coffee, 2649 Landerholm Cir SE
 - Ellensburg: Starbucks near the university, 908 E. 10th Ave.
 - Lacey: Fog and Fern, 4219 6th Ave. SE, Suite A

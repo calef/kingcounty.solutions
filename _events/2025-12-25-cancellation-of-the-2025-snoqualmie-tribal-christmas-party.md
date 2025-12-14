@@ -15,8 +15,8 @@ title: Cancellation of the 2025 Snoqualmie Tribal Christmas Party
 topics: []
 ---
 
-The 2025 Snoqualmie Tribal Christmas Party, originally scheduled for Dec. 25, 2025, has been canceled due to severe weather conditions. 
+The 2025 Snoqualmie Tribal Christmas Party, originally scheduled for Dec. 25, 2025, has been canceled due to severe weather conditions.
 
-While the community will miss the festive gathering, members are encouraged to celebrate the holiday season in their own way. Families can engage in traditional activities, share meals, and connect with loved ones during this time. 
+While the community will miss the festive gathering, members are encouraged to celebrate the holiday season in their own way. Families can engage in traditional activities, share meals, and connect with loved ones during this time.
 
 Although the party will not take place, the spirit of togetherness and joy remains important. The Snoqualmie Tribe wishes everyone a safe and happy holiday season.

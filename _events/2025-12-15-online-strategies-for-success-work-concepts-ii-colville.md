@@ -125,6 +125,6 @@ topics:
 - Employment & Job Support
 ---
 
-Join the ONLINE Strategies for Success: Work Concepts II workshop hosted by WorkSource Seattle-King County from December 15 to December 18, 2025. This engaging series focuses on essential skills for job seekers, helping attendees learn how to land and maintain their ideal job. Participants will explore topics such as multitasking, motivation, personal leadership, and managing unexpected challenges. 
+Join the ONLINE Strategies for Success: Work Concepts II workshop hosted by WorkSource Seattle-King County from December 15 to December 18, 2025. This engaging series focuses on essential skills for job seekers, helping attendees learn how to land and maintain their ideal job. Participants will explore topics such as multitasking, motivation, personal leadership, and managing unexpected challenges.
 
 The workshop will be conducted via Zoom, starting each day at 9 a.m. and concluding at noon. Registration is required, and a link to join will be emailed to participants one hour before the session begins. This workshop is part of a flexible series of life-skills modules, each designed to stand alone or complement others. For more information or to register, contact Karla Hood at 509-685-6141 or via email.

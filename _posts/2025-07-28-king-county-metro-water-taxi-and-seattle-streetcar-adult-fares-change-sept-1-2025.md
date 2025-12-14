@@ -27,6 +27,7 @@ topics:
 Adult fares for King County Metro buses, Metro Flex, Seattle Streetcar lines, and King County Water Taxi routes will increase on Sept. 1, 2025. The new adult fare will be $3, aligning with Sound Transit’s flat fare. The Metro Vanpool/Transit pass will rise from $99 to $108. This marks the first adult fare increase for Metro buses since 2018.
 
 Details of the fare changes include:
+
 - Metro bus/Metro Flex adult fare: from $2.75 to $3.
 - Seattle Streetcar adult fare: from $2.25 to $3.
 - West Seattle Water Taxi adult ORCA fare: from $5 to $5.25; adult cash fare: from $5.75 to $6.25.

@@ -42,7 +42,7 @@ topics: []
 
 Fiction often reflects the complexities of family life, showcasing both conflict and connection. A new display titled **Dysfunctional by Design – Because Every Family Is Messy** at the Lake City Branch features five novels that delve into such themes.
 
-In **Little Monsters** by Adrienne Brodeur, two siblings confront their unpredictable father, navigating ambition and betrayal in Cape Cod. Kate Christensen’s **Welcome Home, Stranger** tells the story of Rachel, a journalist who faces her unconventional upbringing and estranged sister after her mother’s death in Maine. 
+In **Little Monsters** by Adrienne Brodeur, two siblings confront their unpredictable father, navigating ambition and betrayal in Cape Cod. Kate Christensen’s **Welcome Home, Stranger** tells the story of Rachel, a journalist who faces her unconventional upbringing and estranged sister after her mother’s death in Maine.
 
 Annie Hartnett’s **Unlikely Animals** follows Emma, who returns to New Hampshire to care for her dying father, revealing family secrets through humor and heartbreak. Elizabeth Berg’s **Earth’s the Right Place for Love** presents Arthur Moses, growing up in a troubled Tennessee home, exploring themes of love and resilience.
 

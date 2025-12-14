@@ -87,8 +87,8 @@ topics:
 - Disabilities
 ---
 
-The IHDD is seeking participants for the Disability as Difference Reducing Researcher Roadblocks (D2 R3) study, now in its final recruitment phase. Eligible participants include research team members, such as Principal Investigators and Research Assistants, whose current research focuses on adults but not specifically on disabilities. 
+The IHDD is seeking participants for the Disability as Difference Reducing Researcher Roadblocks (D2 R3) study, now in its final recruitment phase. Eligible participants include research team members, such as Principal Investigators and Research Assistants, whose current research focuses on adults but not specifically on disabilities.
 
-Participation requires completing a sixty-minute online session that involves reviewing learning modules and filling out brief surveys before and after the session. A follow-up survey approximately three weeks later will take about fifteen minutes. Participants may receive compensation of up to $75, either as a gift card or a charitable donation. 
+Participation requires completing a sixty-minute online session that involves reviewing learning modules and filling out brief surveys before and after the session. A follow-up survey approximately three weeks later will take about fifteen minutes. Participants may receive compensation of up to $75, either as a gift card or a charitable donation.
 
 To express interest in participating, individuals are encouraged to complete the Disability and Research Screener. For more information, contact Principal Investigator Karen Bonuck at Karen.Bonuck@einsteinmed.edu or Research Coordinator Patrick George III at patrick.georgeiii@einsteinmed.edu. The study has been approved by the Institutional Review Board (IRB), with the approval date of November 23, 2025.

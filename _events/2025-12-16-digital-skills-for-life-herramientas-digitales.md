@@ -93,8 +93,8 @@ topics:
 - Education & Learning
 ---
 
-Join El Centro de la Raza for a free Spanish-language digital literacy training, "Digital Skills for Life," starting December 16, 2025, from 5:30 to 7:30 p.m. This online event will take place via Zoom and will run Tuesdays through Thursdays until December 28, 2025. 
+Join El Centro de la Raza for a free Spanish-language digital literacy training, "Digital Skills for Life," starting December 16, 2025, from 5:30 to 7:30 p.m. This online event will take place via Zoom and will run Tuesdays through Thursdays until December 28, 2025.
 
-Participants can expect to build confidence and foundational skills in digital technology. The training covers essential topics such as understanding computer components, using Office programs like Word, Excel, and PowerPoint, safe internet browsing practices, and tips for protecting children from inappropriate digital content. 
+Participants can expect to build confidence and foundational skills in digital technology. The training covers essential topics such as understanding computer components, using Office programs like Word, Excel, and PowerPoint, safe internet browsing practices, and tips for protecting children from inappropriate digital content.
 
 Space is limited, so interested individuals should contact Luis Jaimez at 206-833-2986 or via email at ljocampo@elcentrodelaraza.org to secure their spot. Don’t miss this opportunity to enhance your digital skills!

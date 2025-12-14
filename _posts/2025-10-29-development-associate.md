@@ -21,7 +21,7 @@ topics:
 - Employment & Job Support
 ---
 
-Lahai Health is seeking a full-time development associate to enhance revenue growth through individual donor engagement, corporate sponsorship cultivation, and grant writing support. The ideal candidate will be organized, proactive, and passionate about fundraising, aligning with Lahai Health's mission to provide quality health care to underserved communities while demonstrating Christ’s love. 
+Lahai Health is seeking a full-time development associate to enhance revenue growth through individual donor engagement, corporate sponsorship cultivation, and grant writing support. The ideal candidate will be organized, proactive, and passionate about fundraising, aligning with Lahai Health's mission to provide quality health care to underserved communities while demonstrating Christ’s love.
 
 Responsibilities include executing annual fundraising strategies, securing financial support from various sources, maintaining accurate donor records, facilitating grant proposals, managing corporate giving strategies, and representing Lahai Health at community events. A bachelor’s degree is preferred, along with two years of experience in fundraising, sales, or marketing, and a proven record of securing donations. Proficiency in Microsoft Office, excellent research and communication skills, and strong motivation are essential.
 

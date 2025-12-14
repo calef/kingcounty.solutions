@@ -24,10 +24,10 @@ topics:
 - Health Care
 ---
 
-Heavy winds and rain are expected as a major atmospheric river approaches the area. Residents are advised to prepare for difficult commuting conditions this afternoon and tomorrow morning. Local authorities recommend checking weather updates frequently and allowing extra travel time. 
+Heavy winds and rain are expected as a major atmospheric river approaches the area. Residents are advised to prepare for difficult commuting conditions this afternoon and tomorrow morning. Local authorities recommend checking weather updates frequently and allowing extra travel time.
 
-Drivers should ensure their vehicles are in good condition, including functioning headlights and wipers, and should avoid driving through flooded areas. Pedestrians are advised to use caution, especially near trees and power lines that may be affected by strong winds. 
+Drivers should ensure their vehicles are in good condition, including functioning headlights and wipers, and should avoid driving through flooded areas. Pedestrians are advised to use caution, especially near trees and power lines that may be affected by strong winds.
 
-In case of power outages, residents should have flashlights, batteries, and non-perishable food ready. It’s also important to stay indoors during the worst of the storm and to keep emergency kits accessible. 
+In case of power outages, residents should have flashlights, batteries, and non-perishable food ready. It’s also important to stay indoors during the worst of the storm and to keep emergency kits accessible.
 
 By taking these precautions, individuals can help ensure their safety during the severe weather conditions expected in the coming days.

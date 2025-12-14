@@ -70,7 +70,7 @@ topics:
 - Employment & Job Support
 ---
 
-Nicole, a single mother with Multiple Sclerosis, faced homelessness when her health challenges led to job instability and mounting bills. After losing her home, she and her daughter, Ella, found themselves living in their car as winter approached. Concerned for her daughter's safety in the cold, Nicole felt overwhelmed until she connected with a Mobile Outreach team. 
+Nicole, a single mother with Multiple Sclerosis, faced homelessness when her health challenges led to job instability and mounting bills. After losing her home, she and her daughter, Ella, found themselves living in their car as winter approached. Concerned for her daughter's safety in the cold, Nicole felt overwhelmed until she connected with a Mobile Outreach team.
 
 The team provided immediate assistance, offering warm blankets, diapers, and snacks, while also helping Nicole search for housing. Together, they found a safe, accessible apartment that met Nicole's health needs and offered Ella space to grow. With support from the community, Nicole resolved her rental debt and covered the move-in costs, allowing them to leave the cold behind.
 

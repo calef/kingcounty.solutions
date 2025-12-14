@@ -16,4 +16,3 @@ topics: []
 ---
 
 Deputies in the King County Sheriff’s Office (KCSO) and Seattle police arrested a 42-year-old man for violently attacking an elderly woman in Downtown Seattle this afternoon. Just before 12:00 p.m., numerous citizens reported a male suspect swing...
-

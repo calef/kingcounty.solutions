@@ -39,6 +39,6 @@ topics:
 - Shelter & Housing
 ---
 
-For those finding it challenging to remain in their homes or who feel that moving in with adult children or into a costly retirement facility isn't suitable, cohousing presents an alternative. Cohousing involves a small group of peers who collaboratively design and build a community of homes along with shared amenities, fostering mutual support as they age. 
+For those finding it challenging to remain in their homes or who feel that moving in with adult children or into a costly retirement facility isn't suitable, cohousing presents an alternative. Cohousing involves a small group of peers who collaboratively design and build a community of homes along with shared amenities, fostering mutual support as they age.
 
 An opportunity to learn about cohousing and the efforts to create Elderberry Commons, a senior cohousing community in North Seattle, is available. Interested individuals are encouraged to attend a free informational session on Wednesday, February 18, from 1:00 PM to 2:30 PM. Attendees can bring their curiosity and questions to explore this innovative housing option for seniors.

@@ -44,6 +44,6 @@ topics:
 - Health Care
 ---
 
-Snoqualmie Valley Health offers personalized treatment options for patients suffering from headaches, which are the main reason patients seek neurological care. The most common types are primary headache syndromes, such as migraines and tension-type headaches, while others may stem from medical issues or injuries. Diagnosis involves a detailed medical history, physical examination, and potentially advanced neuroimaging. 
+Snoqualmie Valley Health offers personalized treatment options for patients suffering from headaches, which are the main reason patients seek neurological care. The most common types are primary headache syndromes, such as migraines and tension-type headaches, while others may stem from medical issues or injuries. Diagnosis involves a detailed medical history, physical examination, and potentially advanced neuroimaging.
 
 Treatment includes a combination of preventive and abortive methods, possibly including prescription medications, natural supplements, and FDA-approved noninvasive devices that calm brain activity. Additional treatments, such as Botox injections or management of TMJ-related headaches, can be provided in-house. Dr. Jimmy Young, M.D., provides comprehensive evaluation and treatment.

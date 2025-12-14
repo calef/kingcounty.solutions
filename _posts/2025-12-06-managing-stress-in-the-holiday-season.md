@@ -105,8 +105,8 @@ topics:
 - Mental Health & Counseling
 ---
 
-The holiday season brings joy and celebration, but it can also lead to increased stress. Signs of stress include difficulty concentrating, feelings of worry, irritability, and fatigue. As people prepare for gatherings, shopping, or travel, it’s essential to be aware of personal stress levels. Healthy management strategies can help alleviate stress during these busy times. 
+The holiday season brings joy and celebration, but it can also lead to increased stress. Signs of stress include difficulty concentrating, feelings of worry, irritability, and fatigue. As people prepare for gatherings, shopping, or travel, it’s essential to be aware of personal stress levels. Healthy management strategies can help alleviate stress during these busy times.
 
-The Department of Veterans Affairs offers resources to assist individuals in managing stress, including the Manage Stress Workbook, which helps identify stress sources and develop coping strategies. Suggested practices include mindfulness, physical activity, and planning enjoyable activities. 
+The Department of Veterans Affairs offers resources to assist individuals in managing stress, including the Manage Stress Workbook, which helps identify stress sources and develop coping strategies. Suggested practices include mindfulness, physical activity, and planning enjoyable activities.
 
 While it's not always possible to control stressors, individuals can control their reactions to stress. Utilizing available resources can enhance the ability to cope and fully appreciate holiday traditions with loved ones. For additional support, the Veterans Crisis Line is available 24/7, providing confidential crisis assistance. Prioritizing mental, physical, and spiritual wellness can make navigating stress more manageable during the holidays and beyond.

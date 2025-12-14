@@ -2,6 +2,7 @@
 
 require 'mayhem/logging'
 require 'mayhem/front_matter/document'
+require 'mayhem/front_matter/spacing_normalizer'
 
 module Mayhem
   module FrontMatter
@@ -22,7 +23,12 @@ module Mayhem
       # Public helper that normalizes a Markdown string according to the tidy rules.
       def tidy_markdown(content)
         result = Mayhem::FrontMatter::Document.parse(content)
-        Mayhem::FrontMatter::Document.build_markdown(result.front_matter, result.body)
+        normalized_body = ensure_header_spacing(result.body)
+        Mayhem::FrontMatter::Document.build_markdown(result.front_matter, normalized_body)
+      end
+
+      def ensure_header_spacing(body)
+        Mayhem::FrontMatter::SpacingNormalizer.normalize(body)
       end
 
       private
