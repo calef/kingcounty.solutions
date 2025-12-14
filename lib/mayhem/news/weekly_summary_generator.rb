@@ -5,7 +5,7 @@ require 'json'
 require 'ruby/openai'
 require 'time'
 require_relative '../logging'
-require_relative '../news/topic_classifier'
+require_relative '../topics/classifier'
 require_relative '../openai/chat_client'
 require_relative '../front_matter/document'
 require_relative '../front_matter/slug_generator'
@@ -39,7 +39,7 @@ module Mayhem
         @topic_model = topic_model
         @chat_client = chat_client || Mayhem::OpenAI::ChatClient.new(client: @client, logger: @logger)
         @topic_classifier = topic_classifier ||
-                            TopicClassifier.new(
+                            Mayhem::Topics::Classifier.new(
                               topic_dir: @topic_dir,
                               model: @topic_model,
                               chat_client: @chat_client,

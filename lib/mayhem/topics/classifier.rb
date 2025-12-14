@@ -7,8 +7,8 @@ require_relative '../openai/chat_client'
 require_relative '../front_matter/document'
 
 module Mayhem
-  module News
-    class TopicClassifier
+  module Topics
+    class Classifier
       TOPIC_DIR = '_topics'
       DEFAULT_MODEL = ENV.fetch('OPENAI_TOPIC_MODEL', ENV.fetch('OPENAI_MODEL', 'gpt-5.1'))
       DEFAULT_TEMPERATURE = 0.2
