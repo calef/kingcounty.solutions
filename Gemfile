@@ -2,7 +2,7 @@
 
 source 'https://rubygems.org'
 
-# Ruby 3.0+ default gems that must be explicitly declared
+# Ruby 3.0+ default gems that are used directly in the codebase
 gem 'fileutils'
 gem 'uri'
 gem 'yaml'
