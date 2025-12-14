@@ -3,11 +3,11 @@
 require 'fileutils'
 require 'tmpdir'
 require_relative '../../test_helper'
-require 'mayhem/news/topic_classifier'
+require 'mayhem/topics/classifier'
 
 module Mayhem
-  module News
-    class TopicClassifierTest < Minitest::Test
+  module Topics
+    class ClassifierTest < Minitest::Test
       class FakeClient
         attr_reader :call_count, :last_parameters
 
@@ -42,7 +42,7 @@ module Mayhem
           ]
         )
 
-        classifier = TopicClassifier.new(topic_dir: @temp_dir, client: client)
+        classifier = Classifier.new(topic_dir: @temp_dir, client: client)
 
         assert_equal ['Food'], classifier.classify('A weekly recap mentions community meals and food assistance.')
         assert_equal 1, client.call_count
@@ -51,7 +51,7 @@ module Mayhem
       def test_returns_empty_when_text_blank
         create_topic('Safety', 'Articles about safety nets.')
         client = FakeClient.new('choices' => [{ 'message' => { 'content' => '["Safety"]' } }])
-        classifier = TopicClassifier.new(topic_dir: @temp_dir, client: client)
+        classifier = Classifier.new(topic_dir: @temp_dir, client: client)
 
         assert_empty classifier.classify('   ')
         assert_equal 0, client.call_count
@@ -59,7 +59,7 @@ module Mayhem
 
       def test_returns_empty_when_no_topics_available
         client = FakeClient.new('choices' => [{ 'message' => { 'content' => '["Safety"]' } }])
-        classifier = TopicClassifier.new(topic_dir: @temp_dir, client: client)
+        classifier = Classifier.new(topic_dir: @temp_dir, client: client)
 
         assert_empty classifier.classify('New content about safety.')
         assert_equal 0, client.call_count
