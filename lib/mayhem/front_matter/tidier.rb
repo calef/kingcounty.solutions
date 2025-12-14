@@ -2,6 +2,7 @@
 
 require 'mayhem/logging'
 require 'mayhem/front_matter/document'
+require 'mayhem/front_matter/spacing_normalizer'
 
 module Mayhem
   module FrontMatter
@@ -27,75 +28,7 @@ module Mayhem
       end
 
       def ensure_header_spacing(body)
-        text = body.to_s
-        return '' if text.empty?
-
-        lines = text.each_line.map(&:rstrip)
-        normalized_lines = []
-        in_list = false
-
-        lines.each_with_index do |line, index|
-          if header_line?(line)
-            ensure_blank_line(normalized_lines, allow_at_start: false)
-            append_line(normalized_lines, line)
-            next_line = lines[index + 1]
-            append_line(normalized_lines, '') if next_line &&
-                                                 !blank_line?(next_line) &&
-                                                 !header_line?(next_line) &&
-                                                 !list_line?(next_line)
-            in_list = false
-          elsif list_line?(line)
-            unless in_list
-              ensure_blank_line(normalized_lines, allow_at_start: false)
-              in_list = true
-            end
-            append_line(normalized_lines, line)
-            next_line = lines[index + 1]
-            if next_line.nil?
-              append_blank_lines(normalized_lines, count: 2, allow_duplicates: true)
-              in_list = false
-            elsif !list_line?(next_line)
-              append_line(normalized_lines, '') unless blank_line?(next_line)
-              in_list = false
-            end
-          else
-            append_line(normalized_lines, line)
-            in_list = false
-          end
-        end
-
-        normalized_lines.join("\n")
-      end
-
-      def header_line?(line)
-        return false if line.to_s.strip.empty?
-
-        line.match?(/\A\s{0,3}\#{1,6}\s+/)
-      end
-
-      def list_line?(line)
-        line.match?(/\A\s{0,3}(?:[-+*]|\d+\.)\s+/)
-      end
-
-      def blank_line?(line)
-        line.nil? || line.strip.empty?
-      end
-
-      def append_blank_lines(normalized, count: 1, allow_duplicates: false)
-        count.times { append_line(normalized, '', allow_duplicate_blank: allow_duplicates) }
-      end
-
-      def append_line(normalized, line, allow_duplicate_blank: false)
-        trimmed = line.to_s
-        return if trimmed.strip.empty? && normalized.last&.strip&.empty? && !allow_duplicate_blank
-
-        normalized << trimmed
-      end
-
-      def ensure_blank_line(normalized, allow_at_start: true)
-        return if normalized.empty? && !allow_at_start
-
-        append_line(normalized, '', allow_duplicate_blank: false)
+        Mayhem::FrontMatter::SpacingNormalizer.normalize(body)
       end
 
       private

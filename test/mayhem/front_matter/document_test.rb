@@ -100,7 +100,7 @@ module Support
       BODY
 
       content = Mayhem::FrontMatter::Document.build_markdown({}, body)
-      assert_match(/\* Second\n\n\z/, content)
+      assert_match(/\* Second\n\z/, content)
     end
   end
 end
