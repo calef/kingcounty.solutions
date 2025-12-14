@@ -1,8 +1,12 @@
 # frozen_string_literal: true
 
 source 'https://rubygems.org'
+
+# Ruby 3.0+ default gems that must be explicitly declared
 gem 'fileutils'
+gem 'uri'
 gem 'yaml'
+
 gem 'icalendar'
 gem 'jekyll'
 group :jekyll_plugins do
@@ -19,7 +23,6 @@ gem 'reverse_markdown'
 gem 'rss'
 gem 'ruby-openai'
 gem 'simplecov', require: false
-gem 'uri'
 
 group :development, :test do
   gem 'html5_validator'

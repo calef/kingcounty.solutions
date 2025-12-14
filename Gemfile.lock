@@ -30,6 +30,7 @@ GEM
       net-http (~> 0.5)
     ffi (1.17.2-arm64-darwin)
     ffi (1.17.2-x86_64-linux-gnu)
+    fileutils (1.8.0)
     forwardable-extended (2.6.0)
     google-protobuf (4.33.1-arm64-darwin)
       bigdecimal
@@ -205,12 +206,14 @@ GEM
       crack (>= 0.3.2)
       hashdiff (>= 0.4.0, < 2.0.0)
     webrick (1.9.2)
+    yaml (0.4.0)
 
 PLATFORMS
   arm64-darwin
   x86_64-linux
 
 DEPENDENCIES
+  fileutils
   html5_validator
   icalendar
   jekyll
@@ -232,6 +235,7 @@ DEPENDENCIES
   uri
   vcr
   webmock
+  yaml
 
 BUNDLED WITH
    2.7.2
