@@ -4,7 +4,7 @@ require 'json'
 require 'open-uri'
 require 'ruby/openai'
 require_relative '../logging'
-require_relative '../news/topic_classifier'
+require_relative '../topics/classifier'
 require_relative '../locations/classifier'
 require_relative '../content/content_pruner'
 require_relative '../front_matter/document'
@@ -55,7 +55,7 @@ module Mayhem
         @client = client || ::OpenAI::Client.new(access_token: ENV.fetch('OPENAI_API_KEY'))
         @http = http_client || Mayhem::Support::HttpClient.new(logger: @logger)
         @topic_classifier = topic_classifier ||
-                            TopicClassifier.new(
+                            Mayhem::Topics::Classifier.new(
                               topic_dir: @topic_dir,
                               model: topic_model,
                               client: @client,
