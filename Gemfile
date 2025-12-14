@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 source 'https://rubygems.org'
+gem 'yaml'
 gem 'icalendar'
 gem 'jekyll'
 group :jekyll_plugins do
