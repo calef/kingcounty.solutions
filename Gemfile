@@ -17,6 +17,7 @@ gem 'reverse_markdown'
 gem 'rss'
 gem 'ruby-openai'
 gem 'simplecov', require: false
+gem 'time'
 
 group :development, :test do
   gem 'html5_validator'
