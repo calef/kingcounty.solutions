@@ -1,13 +1,6 @@
 # frozen_string_literal: true
 
 source 'https://rubygems.org'
-gem 'addressable'
-gem 'base64'
-gem 'cgi'
-gem 'csv'
-gem 'digest'
-gem 'fileutils'
-gem 'front_matter_parser'
 gem 'icalendar'
 gem 'jekyll'
 group :jekyll_plugins do
@@ -20,16 +13,10 @@ end
 gem 'mini_magick'
 gem 'minitest'
 gem 'nokogiri'
-gem 'open-uri'
-gem 'psych'
 gem 'reverse_markdown'
 gem 'rss'
 gem 'ruby-openai'
 gem 'simplecov', require: false
-gem 'time'
-gem 'toml-rb'
-gem 'uri'
-gem 'yaml'
 
 group :development, :test do
   gem 'html5_validator'
