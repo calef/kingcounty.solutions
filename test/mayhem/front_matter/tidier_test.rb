@@ -71,4 +71,60 @@ class FrontMatterTidierTest < Minitest::Test
     assert_includes result, '  child: value'
     refute_includes result, '    child: value'
   end
+
+  def test_removes_emphasized_title_when_matching_document_title
+    original = <<~MD
+      ---
+      title: A Happy Reunion One Year Later!
+      ---
+
+      **A Happy Reunion One Year Later**
+
+      Body paragraph.
+    MD
+
+    result = @tidier.tidy_markdown(original)
+
+    refute_includes result, '**A Happy Reunion One Year Later**'
+    refute_includes result, '# A Happy Reunion One Year Later!'
+    assert_includes result, "Body paragraph.\n"
+  end
+
+  def test_converts_emphasis_to_heading_when_title_differs
+    original = <<~MD
+      ---
+      title: City Manager Report – October 9, 2025
+      ---
+
+      **Normandy Park City Manager Reports - October/November 2025**
+
+      Body paragraph.
+    MD
+
+    result = @tidier.tidy_markdown(original)
+
+    refute_includes result, '**Normandy Park City Manager Reports - October/November 2025**'
+    assert_includes result, "## Normandy Park City Manager Reports - October/November 2025\n\nBody paragraph.\n"
+  end
+
+  def test_converts_italicized_emphasis_to_heading
+    original = <<~MD
+      ---
+      title: Event Title
+      ---
+
+      _Completely Different Title_
+
+      Body paragraph.
+    MD
+
+    result = @tidier.tidy_markdown(original)
+
+    assert_includes result, "## Completely Different Title\n\nBody paragraph.\n"
+  end
+
+  def test_titles_match_strips_punctuation_and_spacing
+    assert @tidier.send(:titles_match?, 'Great News!', '  Great News ')
+    refute @tidier.send(:titles_match?, 'Different', 'Great News')
+  end
 end

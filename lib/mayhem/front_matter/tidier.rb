@@ -23,7 +23,7 @@ module Mayhem
       # Public helper that normalizes a Markdown string according to the tidy rules.
       def tidy_markdown(content)
         result = Mayhem::FrontMatter::Document.parse(content)
-        normalized_body = ensure_header_spacing(result.body)
+        normalized_body = normalize_body(result.body, result.front_matter)
         Mayhem::FrontMatter::Document.build_markdown(result.front_matter, normalized_body)
       end
 
@@ -32,6 +32,56 @@ module Mayhem
       end
 
       private
+
+      def normalize_body(body, front_matter)
+        spacing_target = ensure_body_title(result_title(front_matter), body)
+        ensure_header_spacing(spacing_target)
+      end
+
+      def ensure_body_title(document_title, body)
+        document_title = document_title.to_s.strip
+
+        lines = body.to_s.each_line.to_a
+        first_content_index = lines.index { |line| !line.strip.empty? }
+        return body unless first_content_index
+
+        emphasized_title = extract_emphasized_title(lines[first_content_index])
+        return body unless emphasized_title
+
+        if !document_title.empty? && titles_match?(document_title, emphasized_title)
+          lines.delete_at(first_content_index)
+        else
+          lines[first_content_index] = "## #{emphasized_title.strip}\n"
+        end
+        lines.join
+      end
+
+      def extract_emphasized_title(line)
+        stripped = line.to_s.strip
+        match = stripped.match(/\A(\*{1,3}|_{1,3})(.+?)\1\z/)
+        return unless match
+
+        match[2].strip
+      end
+
+      def normalize_title(value)
+        value.to_s
+             .downcase
+             .strip
+             .gsub(/\s+/, ' ')
+             .gsub(/\A[[:punct:]]+/, '')
+             .gsub(/[[:punct:]]+\z/, '')
+      end
+
+      def titles_match?(document_title, emphasized_title)
+        normalize_title(document_title) == normalize_title(emphasized_title)
+      end
+
+      def result_title(front_matter)
+        return unless front_matter
+
+        front_matter['title'] || front_matter[:title]
+      end
 
       def tidy_target(target)
         path = File.expand_path(target)
