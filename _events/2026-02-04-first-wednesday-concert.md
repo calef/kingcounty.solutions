@@ -1,20 +1,15 @@
 ---
 end_date: '2026-02-04T13:30:00-08:00'
+feed_content: 'Event interval: Single day event Campus location: Allen Library (ALB)
+  Event Types: Performances Event sponsors: UW School of Music and UW Libraries Link:
+  https://music.washington.edu/events/2022-11-02/first-wednesday-concert-series-students-uw-school-music
+  Students of the UW School of Music perform in this lunchtime concert series co-hosted
+  by UW Music and UW Libraries.'
+feed_content_checksum: 7fae06707cbf5773ccbf6b791ab6035015b8abd1
 images: []
 location: Allen Library (ALB)
 locations:
 - King County
-original_content: 'Event interval: Single day event Campus location: Allen Library
-  (ALB) Event Types: Performances Event sponsors: UW School of Music and UW Libraries
-  Link: https://music.washington.edu/events/2022-11-02/first-wednesday-concert-series-students-uw-school-music
-  Students of the UW School of Music perform in this lunchtime concert series co-hosted
-  by UW Music and UW Libraries.'
-original_content_checksum: 7fae06707cbf5773ccbf6b791ab6035015b8abd1
-original_markdown_body: 'Event interval: Single day event Campus location: Allen Library
-  (ALB) Event Types: Performances Event sponsors: UW School of Music and UW Libraries
-  Link: https://music.washington.edu/events/2022-11-02/first-wednesday-concert-series-students-uw-school-music
-  Students of the UW School of Music perform in this lunchtime concert series co-hosted
-  by UW Music and UW Libraries.'
 published: false
 source: University of Washington
 source_url: https://music.washington.edu/events/2022-11-02/first-wednesday-concert-series-students-uw-school-music

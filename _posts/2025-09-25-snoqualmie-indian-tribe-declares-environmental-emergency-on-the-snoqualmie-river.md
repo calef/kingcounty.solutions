@@ -1,8 +1,6 @@
 ---
 date: '2025-09-25T23:15:11+00:00'
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   _Tribe urges partners to support and participate in their efforts to protect and restore flows in the Snoqualmie River._
 
   [Snoqualmie, WA] The Snoqualmie Indian Tribal Council has determined that environmental conditions in the Snoqualmie River watershed are severe enough to warrant a Tribal Declaration of Emergency.
@@ -12,6 +10,8 @@ original_content: |-
   [Read the full declaration here](https://snoqualmietribe.us/wp-content/uploads/2025/09/Declaration-of-Environmental-Emergency-1.pdf). The persistent and recurring critical conditions and ongoing uses of water pose a serious threat to the health, safety, and welfare of the members of the Snoqualmie Tribe and the ecosystems that sustain them; interfere with Snoqualmie Tribal Members’ exercise of their rights; and, impede the Tribal Council’s sovereign regulation of and jurisdiction over its own affairs.
 
   _The Snoqualmie Indian Tribe is a federally recognized tribe in the Puget Sound region of Washington State. Known as the People of the Moon, Snoqualmie were signatories to the Treaty of Point Elliott in 1855. For more information visit www.snoqualmietribe.us_
+images: []
+locations: []
 published: false
 source: Snoqualmie Indian Tribe
 source_url: https://snoqualmietribe.us/declaration-of-environmental-emergency-at-the-snoqualmie-river/

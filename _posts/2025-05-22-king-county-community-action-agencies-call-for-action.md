@@ -2,19 +2,14 @@
 date: '2025-05-22T17:08:38+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: Budget proposals would devastate regional nonprofit sector’s ability
+feed_content: Budget proposals would devastate regional nonprofit sector’s ability
   to respond to economic crisis, agencies warn – leaving hundreds of thousands of
   community members in King County without critical resources. King County’s Community
   Action Agencies Byrd Barr Place, El Centro de la Raza, Hopelink, Multi-Service Center,
   Neighborhood House, and Solid Ground are together calling for  [...]
-original_markdown_body: Budget proposals would devastate regional nonprofit sector’s
-  ability to respond to economic crisis, agencies warn – leaving hundreds of thousands
-  of community members in King County without critical resources. King County’s Community
-  Action Agencies Byrd Barr Place, El Centro de la Raza, Hopelink, Multi-Service Center,
-  Neighborhood House, and Solid Ground are together calling for [...]
+images: []
+locations:
+- King County
 source: Multi-Service Center
 source_url: https://mschelps.org/kccaacallforaction/
 summarized: true

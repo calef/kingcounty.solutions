@@ -2,9 +2,7 @@
 date: '2025-12-03T17:47:39+00:00'
 events: []
 events_extracted: true
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   <p>AFW passenger Gabe has been flying with AFW since early 2024 to reach his essential care at Children’s Hospital LA. Gabe’s mother, Jadie, shares:</p>
 
 
@@ -66,38 +64,8 @@ original_content: |-
 
 
   <figure class="wp-block-video"><video controls src="https://angelflightwest.org/wp-content/uploads/2025/12/Video.mov"></video></figure><p>The post <a href="https://angelflightwest.org/news/meet-afw-passenger-gabe/">Meet AFW Passenger Gabe</a> first appeared on <a href="https://angelflightwest.org">Angel Flight West</a>.</p>
-original_markdown_body: |-
-  AFW passenger Gabe has been flying with AFW since early 2024 to reach his essential care at Children’s Hospital LA. Gabe’s mother, Jadie, shares:
-
-  “Our son Gabe is 15 years old. He suffered two strokes and a brain bleed after catching a virus and being intubated for four&nbsp;months. He was diagnosed with cerebral palsy and epilepsy as a result of this tragic event.&nbsp;
-
-  “We moved to Arizona when Gabe was five&nbsp;to provide him with the best quality of life and medical team. Gabe’s medical condition has become more complex as he’s grown, and we now travel out of state to specialists at Children’s Hospital LA.
-
-  “Angel Flight West has been a big part of our journey for the past few years and there are truly no words to explain how grateful we are to have them.
-
-  “ **Driving in a car can trigger Gabe’s seizures and driving alone with him for six&nbsp;hours each direction is not an option. We’ve met the most amazing, compassionate, kind, caring&nbsp;pilots and drivers who truly care for their passengers, and we care for them too and think the world of them! I always say that it takes a village to care for our boy and we have the BEST village.**
-
-  “We’re incredibly blessed to have Angel Flight West’s support and friendships along with us on Gabe’s medical journey.”
-
-  Words like this remind us what your generosity makes possible. Your support brings hope, healing, and connection to families who need it most.
-
-  ![](https://angelflightwest.org/wp-content/uploads/2025/12/image0-5-rotated.jpeg)
-
-  ![](https://angelflightwest.org/wp-content/uploads/2025/12/image1-rotated.jpeg)
-
-  ![](https://angelflightwest.org/wp-content/uploads/2025/12/image3-rotated.jpeg)
-
-  ![](https://angelflightwest.org/wp-content/uploads/2025/12/image2-2-1-rotated.jpeg)
-
-  ![](https://angelflightwest.org/wp-content/uploads/2025/12/image4-1-rotated.jpeg)
-
-  ![](https://angelflightwest.org/wp-content/uploads/2025/12/image2-1-rotated.jpeg)
-
-  **Watch Gabe’s quick message to our volunteers and supporters below:** &nbsp;
-
-  <video controls src="https://angelflightwest.org/wp-content/uploads/2025/12/Video.mov"></video>
-
-  The post [Meet AFW Passenger Gabe](https://angelflightwest.org/news/meet-afw-passenger-gabe/) first appeared on [Angel Flight West](https://angelflightwest.org).
+images: []
+locations: []
 published: false
 source: Angel Flight West
 source_url: https://angelflightwest.org/news/meet-afw-passenger-gabe/

@@ -1,8 +1,6 @@
 ---
 date: '2025-06-12T21:02:28+00:00'
-images: []
-locations: []
-original_content: "![](https://www.tukwilawa.gov/wp-content/uploads/Mayor-PeoplesPledgeBG-300x200.png)\n\nWe’re
+feed_content: "![](https://www.tukwilawa.gov/wp-content/uploads/Mayor-PeoplesPledgeBG-300x200.png)\n\nWe’re
   excited to share that applications are now open for **The People’s Project Steering
   Committee** — a resident-led group that will help design Tukwila’s first-ever Participatory
   Budgeting process. Steering Committee members will help shape a fair, inclusive
@@ -22,6 +20,8 @@ original_content: "![](https://www.tukwilawa.gov/wp-content/uploads/Mayor-People
   post [Join the People’s Project Steering Committee – Help Shape How Tukwila Spends
   $50,000](https://www.tukwilawa.gov/join-the-peoples-project-steering-committee-help-shape-how-tukwila-spends-50000/)
   appeared first on [City of Tukwila](https://www.tukwilawa.gov)."
+images: []
+locations: []
 published: false
 source: City of Tukwila
 source_url: https://www.tukwilawa.gov/join-the-peoples-project-steering-committee-help-shape-how-tukwila-spends-50000/

@@ -4,9 +4,6 @@ images: []
 location: ''
 locations:
 - King County
-original_markdown_body: A conference inviting school-based health center providers,
-  leaders, school partners, and youth advocates to share expertise and promote innovation
-  and equity in student health.
 source: King County School Health
 source_url: https://kingcountyschoolhealthdotcom.wordpress.com/2025/10/30/share-your-expertise-at-the-2026-national-school-based-health-care-conference-be-the-change-youth-training-program/
 start_date: '2026-10-30T09:00:00-07:00'

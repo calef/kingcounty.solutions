@@ -1,10 +1,6 @@
 ---
 end_date: '2026-01-14T15:15:00-08:00'
-images: []
-location: Zoom
-locations:
-- King County
-original_content: '<article id="post-14534" class="post-14534 page type-page status-publish
+feed_content: '<article id="post-14534" class="post-14534 page type-page status-publish
   has-post-thumbnail hentry tag-homepage"> <div class="entry-content"> <div class="wpb-content-wrapper">
   <section data-vc-full-width="true" data-vc-full-width-init="false" class="vc_section
   vc_custom_1755034838045 vc_section-has-fill"> <div class="vc_row wpb_row vc_row-fluid">
@@ -229,28 +225,10 @@ original_content: '<article id="post-14534" class="post-14534 page type-page sta
   href="https://evans.uw.edu/faculty-research/expertise/social-policy-poverty-and-social-welfare/"
   title="Social Policy: Poverty and Social Welfare">Social Policy</a></h4> </div>
   </div> </div> </div> </div> </div> </div> </div> </div> </div> </article>'
-original_markdown_body: 'Inspiring Public Service, Democratizing Public Policy   As
-  a top ranked national program situated within one of the world’s most innovative
-  regions, we are living into our responsibility to strengthen the systems that underpin
-  our democracy. By questioning our democratic systems, innovating new approaches
-  to public policy and administration, and developing what already exists, the Evans
-  School – in partnership with our broader community – is addressing the inequities
-  built in our institutions and sparking a shared belief in the sacred work of public
-  service.       Mission and Values              Explore Our Academic Programs             Master
-  of Public Administration                 Undergraduate Programs                 Public
-  Service and Policy Major                 Executive Master of Public Administration                 Graduate
-  Certificates                 Ph.D. in Public Policy and Management                     Upcoming
-  Events   Browse upcoming events from the UW Evans School    View full Event Calendar          Recent
-  News                     Event Recap – Dean’s Forum   December 5, 2025                 Keeping
-  the Promise   November 12, 2025                 Building Connections and Giving
-  Back   October 22, 2025                               Walk Ambitiously with Me   October
-  22, 2025                 Evans in Government Network Taps Into Community at Summer
-  Happy Hour   September 30, 2025                 Celebrating Community: Evans Alumni
-  and Students Come Together Downtown   September 30, 2025                     More
-  Evans School News          Our Expertise     Environmental Policy & Management       International
-  Development       Metropolitan & Urban Policy       Nonprofit Management & Philanthropy         Public
-  Finance & Budgeting       Public Leadership, Management, & Decision-making       Public
-  Policy Analysis and Evaluation       Social Policy'
+images: []
+location: Zoom
+locations:
+- King County
 published: false
 source: University of Washington
 source_url: https://evans.uw.edu/

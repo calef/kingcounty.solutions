@@ -1,26 +1,21 @@
 ---
 end_date: '2025-12-16T14:30:00-08:00'
-images: []
-location: The Center for Active Living, 4217 SW Oregon St., Seattle, WA, 98116, United
-  States
-locations:
-- King County
-original_content: '<a>Skip to content</a><div> <header><div> <div> <div> <div> <div>
-  <div> <div> <div> <div> <div> <div> <div> <p>We used to be called the Senior Center
-  of West Seattle.</p> </div> </div> </div> </div> </div> <div> <div> <div> <div>
-  <div> <div> <div> <div> <a> <span>Join</span> </a> </div> </div> <div> <div> <a>
-  <span>Donate</span> </a> </div> </div> </div> </div> </div> </div> </div> </div>
-  <div> <div> <div> <div> <div> <span> <a> <span>Facebook</span> </a> </span> <span>
-  <a> <span>Instagram</span> </a> </span> <span> <a> <span>YouTube</span> </a> </span>
-  <span> <a> <span>LinkedIn</span> </a> </span> </div> </div> </div> </div> </div>
-  </div> </div> </div> </div> </div> </div> </div> <div> <div> <div> <div> <div> <div>
-  <div> <div> <div> <div> <div> <h1> <a> <span>Activities &amp; Events</span> </a>
-  </h1> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div>
-  </header> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div>
-  <div> <h1> <span>Conversation Circle – Group #2</span> </h1> </div> </div> <div>
-  <div> <div> <p><span>Tuesday, December 16, 2025 at 1:00 pm</span> - <span>2:30 pm</span></p>
-  </div> </div> </div> <div> <div> <p><b><span>Conversation Circle</span></b><span> </span></p>
-  <p><span>Tuesdays, September 2, 16, October 7, 21, 1 – 2:30 p.m. (Group #2)</span><span> </span></p>
+feed_content: '<a>Skip to content</a><div> <header><div> <div> <div> <div> <div> <div>
+  <div> <div> <div> <div> <div> <div> <p>We used to be called the Senior Center of
+  West Seattle.</p> </div> </div> </div> </div> </div> <div> <div> <div> <div> <div>
+  <div> <div> <div> <a> <span>Join</span> </a> </div> </div> <div> <div> <a> <span>Donate</span>
+  </a> </div> </div> </div> </div> </div> </div> </div> </div> <div> <div> <div> <div>
+  <div> <span> <a> <span>Facebook</span> </a> </span> <span> <a> <span>Instagram</span>
+  </a> </span> <span> <a> <span>YouTube</span> </a> </span> <span> <a> <span>LinkedIn</span>
+  </a> </span> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div>
+  </div> </div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div>
+  <h1> <a> <span>Activities &amp; Events</span> </a> </h1> </div> </div> </div> </div>
+  </div> </div> </div> </div> </div> </div> </div> </header> <div> <div> <div> <div>
+  <div> <div> <div> <div> <div> <div> <div> <div> <div> <h1> <span>Conversation Circle –
+  Group #2</span> </h1> </div> </div> <div> <div> <div> <p><span>Tuesday, December
+  16, 2025 at 1:00 pm</span> - <span>2:30 pm</span></p> </div> </div> </div> <div>
+  <div> <p><b><span>Conversation Circle</span></b><span> </span></p> <p><span>Tuesdays,
+  September 2, 16, October 7, 21, 1 – 2:30 p.m. (Group #2)</span><span> </span></p>
   <p><span>Share stories in a friendly group to build connections, enhance skills
   and confidence for deeper friendships and learn to enjoy whole-hearted and open
   discussions to eliminate loneliness. </span></p> <p><span>For info about Group #2,
@@ -47,22 +42,12 @@ original_content: '<a>Skip to content</a><div> <header><div> <div> <div> <div> <
   </div> </div> </div> </div> </div> </div> </div> <a><span>Scroll To Top</span></a>
   <script> {"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://wscenter.org/wp-includes/js/wp-emoji-release.min.js?ver=6.9"}}
   </script>'
-original_content_checksum: d2d1cf1f237985d521939a0fb254e6e117def7b1
-original_markdown_body: 'Skip to content             We used to be called the Senior
-  Center of West Seattle.               Join       Donate                 Facebook     Instagram     YouTube     LinkedIn                            Activities
-  & Events                             Conversation Circle – Group #2       Tuesday,
-  December 16, 2025 at 1:00 pm - 2:30 pm      Conversation Circle  Tuesdays, September
-  2, 16, October 7, 21, 1 – 2:30 p.m. (Group #2)  Share stories in a friendly group
-  to build connections, enhance skills and confidence for deeper friendships and learn
-  to enjoy whole-hearted and open discussions to eliminate loneliness.  For info about
-  Group #2, contact Teressa Keenehan: teekay3@comcast.net.      Games & Social Activities              Calendar       Membership                  Location    The
-  Center for Active Living     4217 SW Oregon St. Seattle, WA 98116 United States  +
-  Google Map    Phone  206-932-4044     View Location Website                   Google
-  Calendar     iCalendar     Outlook 365     Outlook Live                   Related
-  Events    Older Westside Lesbian Group (OWLS) Monday, December 8, 2025 at 3:00 pm
-  - 4:30 pm     Coffee With Vets Tuesday, December 9, 2025 at 11:00 am - 12:00 pm     Cribbage
-  Tuesday, December 9, 2025 at 12:30 pm - 3:00 pm             Calendar                 Scroll
-  To Top  {"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://wscenter.org/wp-includes/js/wp-emoji-release.min.js?ver=6.9"}}'
+feed_content_checksum: d2d1cf1f237985d521939a0fb254e6e117def7b1
+images: []
+location: The Center for Active Living, 4217 SW Oregon St., Seattle, WA, 98116, United
+  States
+locations:
+- King County
 source: The Center for Active Living
 source_url: https://wscenter.org/event/conversation-circle-group-2/2025-12-16/
 start_date: '2025-12-16T13:00:00-08:00'

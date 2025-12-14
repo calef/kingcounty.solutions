@@ -1,15 +1,11 @@
 ---
 date: '2025-12-01T14:28:00+00:00'
-images: []
-locations: []
-original_content: Landslide season is here, so the City of Seattle is urging residents
+feed_content: Landslide season is here, so the City of Seattle is urging residents
   to take preventive measures to protect themselves and their property from possible
   landslides. Did you know that most landslides occur between the months of November
   and March? The th...
-original_markdown_body: Landslide season is here, so the City of Seattle is urging
-  residents to take preventive measures to protect themselves and their property from
-  possible landslides. Did you know that most landslides occur between the months
-  of November and March? The th...
+images: []
+locations: []
 published: false
 source: City of Seattle
 source_url: https://buildingconnections.seattle.gov/2025/12/01/reminder-its-landslide-season-are-you-prepared-3/

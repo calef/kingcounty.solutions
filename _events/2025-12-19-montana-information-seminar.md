@@ -1,9 +1,6 @@
 ---
 end_date: '2025-12-20T00:00:00-08:00'
-images: []
-location: ''
-locations: []
-original_content: <div class="container"> <section id="tribe-events-pg-template" class="tribe-events-pg-template">
+feed_content: <div class="container"> <section id="tribe-events-pg-template" class="tribe-events-pg-template">
   <div id="tribe-events-content" class="tribe-events-single"> <p class="tribe-events-back">
   <a href="https://www.dav.org/events-calendar/"> « All Events</a> </p> <h1 class="tribe-events-single-event-title">Montana
   Information Seminar</h1> <div class="tribe-events-schedule tribe-clearfix"> <div><span
@@ -35,10 +32,9 @@ original_content: <div class="container"> <section id="tribe-events-pg-template"
   <span class="tribe-events-meta-value"> <abbr class="tribe-events-abbr tribe-events-start-date
   published dtstart" title="2025-12-19"> December 19 </abbr> </span> </li> </ul> </div>
   </div> </div> </div> </section> </div>
-original_markdown_body: "« All Events  Montana Information Seminar  December 19    1:00pm
-  – 2:00pm 111 N Sanders St Auditorium 77 Helena, MT Charles Pugh 406-495-+2089 [email protected]
-  \        Google Calendar     iCalendar     Outlook 365     Outlook Live           Details
-  \   Date:   December 19"
+images: []
+location: ''
+locations: []
 published: false
 source: Disabled American Veterans
 source_url: https://www.dav.org/events-calendar/montana-information-seminar-13/

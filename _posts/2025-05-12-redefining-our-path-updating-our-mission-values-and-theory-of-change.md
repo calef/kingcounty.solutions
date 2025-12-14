@@ -2,11 +2,8 @@
 date: '2025-05-12T18:09:44+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: "## Redefining Our Path: Updating Our Mission, Values, and Theory
-  of Change\n\nAt Hopelink, our work has always been rooted in the belief that every
+feed_content: "## Redefining Our Path: Updating Our Mission, Values, and Theory of
+  Change\n\nAt Hopelink, our work has always been rooted in the belief that every
   person deserves the opportunity to thrive. But in the face of a rapidly changing
   world, we knew it was time to take a closer look at how we talk about our work —
   and how our guiding frameworks reflect the holistic services we provide today.\n\nOver
@@ -82,6 +79,9 @@ original_content: "## Redefining Our Path: Updating Our Mission, Values, and The
   and the lived experiences of our community. By centering our clients and challenging
   the systems that sustain poverty, we’re building a path forward that meets immediate
   needs while driving long-term, systemic change."
+images: []
+locations:
+- King County
 source: Hopelink
 source_url: https://www.hopelink.org/blog/redefining-our-path-updating-our-mission-values-and-theory-of-change/
 summarized: true

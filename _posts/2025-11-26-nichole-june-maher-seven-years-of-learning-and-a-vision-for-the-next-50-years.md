@@ -2,15 +2,9 @@
 date: '2025-11-26T01:05:06+00:00'
 events: []
 events_extracted: true
-images:
-- 3cf66a5cf034174443271dae406828b67b12aa451a1493256af4b75e79323a45
-- 40f249dabd16b252087efb29e8a7cbc5ce00a5bde821fb69840284fd961a7f01
-locations:
-- King County
-original_content: "<div class=\"et_pb_section et_pb_section_0 et_section_regular\"
-  >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_row
-  et_pb_row_0\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4 et_pb_column_0
-  \ et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div
+feed_content: "<div class=\"et_pb_section et_pb_section_0 et_section_regular\" >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div
+  class=\"et_pb_row et_pb_row_0\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4
+  et_pb_column_0  et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div
   class=\"et_pb_module et_pb_text et_pb_text_0  et_pb_text_align_left et_pb_bg_layout_light\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div
   class=\"et_pb_text_inner\"><h2><span class=\"NormalTextRun SCXW27784953 BCX4\">Our
   President &amp; CEO celebrates 2025 milestones and reflects on </span><span class=\"NormalTextRun
@@ -142,84 +136,11 @@ original_content: "<div class=\"et_pb_section et_pb_section_0 et_section_regular
   of work, to designing equity-centered grantmaking programs, and creating a values-driven
   investment office. Inatai has granted more than $337 million under her leadership.
   </em></p></div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>"
-original_markdown_body: "## Our President & CEO celebrates 2025 milestones and reflects
-  on what’s ahead\n\n ![A group of individuals gather for a photo at the Inatai office
-  Seattle.](https://inatai.org/wp-content/uploads/2025/11/CampaignBuilders2025.jpg
-  \"CampaignBuilders2025\")\n\n_President & CEO Nichole June Maher, pictured center
-  in the second row, with Inatai team members and grantee leaders from across the
-  state who convened in September for a two-day intensive on campaign building in
-  our Seattle office. Photo: Alyssa Codamon_\n\nAnniversaries help me pause and make
-  meaning. This fall marks seven years at Inatai Foundation and the start of our [50-Year
-  Vision](https://inatai.org/about/). This vision came directly from community leaders
-  and invites us to put all our energy, talent, and resources into communities, so
-  they have the power and freedom to shape every part of how Washington works—every
-  system and every decision, ensuring equity and racial justice in every corner of
-  our state.\n\nOne of [our values](https://inatai.org/about/values/), the Seven Generation
-  Principle, guides much of my leadership. It asks us to live with one foot in the
-  past and one in the future, honoring the wisdom of our ancestors and making choices
-  that strengthen the lives of those who will come after us. As a mother to three
-  young people, Zodi, Kekeya, and my little guy Editon, I feel this responsibility
-  deeply. They have grown faster than I could have believed. They remind me that the
-  future arrives quickly and that every decision we make today will ripple into the
-  world they inherit.\n\nThe political moment we face is serious. Families across
-  Washington struggle to meet basic needs. Civil rights are being challenged in the
-  highest courts. Racism and transphobia are becoming far too acceptable. Authoritarianism
-  is here. Yet, I remain grounded by the courage of leaders who stand up for justice
-  and belonging in all 39 Washington counties. If they are not backing down, then
-  we will not either. As one of the few 501(c)(4) funders explicitly focused on racial
-  justice, we have both the responsibility and the freedom to support the work that
-  strengthens democracy and builds durable community power.\n\n> ### “I remain grounded
-  by the courage of leaders who stand up for justice and belonging in all 39 Washington
-  counties. If they are not backing down, then we will not either.”\n\nSeven years
-  in, I can see what we have built and what the moment now demands. Here is what Inatai
-  intends to do and what I invite other powerful institutions to take on with urgency:\n\n-
-  \n  - Tell the truth about the forces shaping our state and stand firm in protecting
-  communities and their visions for justice. Institutions with influence cannot remain
-  quiet. We must do everything within our power to protect our communities, our partners,
-  and their bold ambitions for racial justice and equity.\n  - Deepen our commitment
-  to racially diverse communities while resourcing and building relationships in small
-  towns, unincorporated areas, Tribal Communities, suburbs, and mid-sized cities.
-  The future of Washington depends on places philanthropy has often overlooked.\n
-  \ - Move funding quickly and flexibility into the hands of community leaders and
-  organizations, and honor what they have asked from philanthropy for decades. Money
-  is required to build political power.\n  - Support work that strengthens our multiracial
-  democracy and shows what is possible when people closest to the community design
-  the path forward.\n  - Build stronger coalitions, networks, and movements because
-  long-term change only grows through trust, connection, and shared purpose.\n  -
-  Amplify joy, creativity, and courage found in every community. These are powerful
-  forces that expand when we nurture them.\n\nThese ideas are not new. They are the
-  foundation of many movements that came before us. Our task now is to carry them
-  with greater urgency, consistency, and reach. Because of this, Inatai is now a foundation
-  with a clear voice, bold vision, and deep relationships across Washington. Most
-  importantly, we have worked diligently to remain accountable to the communities
-  we serve by listening, learning, and showing up with humility and determination.\n\n>
-  ### “Together, we can shape a legacy of transformation that future generations will
-  feel, continue to grow, and be proud of.”\n\nWhen I think about the next 50 years,
-  I imagine my children as elders. Zodi will be 67, my daughter, Kekeya, will be 66,
-  and baby Editon will have just reached elder status at 62. I imagine a world in
-  which Washington embraces them fully, honors their rights, and gives them the chance
-  to live connected and meaningful lives. I want that future for every person in our
-  state. The Seven Generation Principle reminds us that the choices we make now will
-  shape that future long after we are gone.\n\nThis next chapter will not be defined
-  by caution. It will be defined by courage, imagination, and the shared responsibility
-  to build something stronger, freer, and more just. We carry the lessons of our ancestors
-  and the dreams of our young people. Together, we can shape a legacy of transformation
-  that future generations will feel, continue to grow, and be proud of.\n\nTlingit
-  leader Elizabeth Peratrovich taught us, “Asking you to give me rights implies that
-  they are yours to give. I must demand that you stop trying to deny me the rights
-  that all people deserve.” Her words remind us that liberation is a shared project.\n\nI
-  believe deeply in the people of Washington. I believe in our young people and in
-  the strength of our ancestors who cleared the path for us. If we continue to act
-  with courage and care, we can build a future rooted in justice, belonging, and community
-  power. And we can leave behind a legacy that future generations will cherish and
-  protect.\n\n ![](https://inatai.org/wp-content/uploads/2023/09/Nichole_June_Maher.jpg)\n\n
-  ![](https://inatai.org/wp-content/uploads/2023/09/Nicholes_Signature.jpg \"Nicholes\\_Signature\")\n\n###
-  Nichole June Maher\n\nPresident & CEO\n\n_[Nichole June Maher](https://inatai.org/team/nichole-june-maher/)
-  has been President & CEO of Inatai Foundation since 2018. Under Nichole’s guidance,
-  the foundation applied learnings from community visits to build our early-stage
-  infrastructure—from articulating how we approach critical areas of work, to designing
-  equity-centered grantmaking programs, and creating a values-driven investment office.
-  Inatai has granted more than $337 million under her leadership._"
+images:
+- 3cf66a5cf034174443271dae406828b67b12aa451a1493256af4b75e79323a45
+- 40f249dabd16b252087efb29e8a7cbc5ce00a5bde821fb69840284fd961a7f01
+locations:
+- King County
 source: Inatai Foundation
 source_url: https://inatai.org/news/seven-years-of-learning-and-a-vision-for-the-next-50-years/
 summarized: true

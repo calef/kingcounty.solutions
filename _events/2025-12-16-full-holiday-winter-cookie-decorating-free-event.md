@@ -1,12 +1,8 @@
 ---
 end_date: '2025-12-16T16:00:00+00:00'
-images: []
-location: Tolt Middle School, 3740 Tolt Avenue, Carnation, WA, 98014
-locations:
-- King County
-original_content: <div id="page-container"> <div id="et-boc" class="et-boc"> <div
-  id="top-header"> <div class="container clearfix"> <div id="et-secondary-menu"> <ul
-  class="et-social-icons"> <li class="et-social-icon et-social-facebook"> <a href="https://www.facebook.com/EmpowerYouthNetwork/"
+feed_content: <div id="page-container"> <div id="et-boc" class="et-boc"> <div id="top-header">
+  <div class="container clearfix"> <div id="et-secondary-menu"> <ul class="et-social-icons">
+  <li class="et-social-icon et-social-facebook"> <a href="https://www.facebook.com/EmpowerYouthNetwork/"
   class="icon"> <span>Facebook</span> </a> </li> <li class="et-social-icon et-social-instagram">
   <a href="https://www.instagram.com/empoweryouthnetwork/" class="icon"> <span>Instagram</span>
   </a> </li> <li class="et-social-icon et-social-linkedin"> <a href="https://www.linkedin.com/company/empower-youth-network/"
@@ -83,24 +79,10 @@ original_content: <div id="page-container"> <div id="et-boc" class="et-boc"> <di
   title="Click to view a Google Map" target="_blank" rel="noreferrer noopener">+ Google
   Map</a> </address> </li> </ul> </div> </div> </div> </div> </section> </div> </div>
   </div> </div> </div> </div> </div> </div>
-original_markdown_body: 'Facebook     Instagram     LinkedIn     Contact Us          Select
-  Page                « All Events  *FULL* Holiday & Winter Cookie Decorating – Free
-  Event   December 16 @ 3:00 pm - 4:00 pm     EVENT REGISTRATION IS FULL! If you can
-  no longer attend, please contact us at the email provided below. Welcome to Holiday
-  & Winter Cookie Decorating | A Free Youth Event organized by Empower Youth Network!
-  Meet us in the library building at the back of Tolt Middle School for a fun after
-  school activity on Tuesday, December 16 from 3-4 p.m. We will be decorating sugar
-  cookies, free to customize your cookies however you would like. Winter themed, with
-  the option to make cookies inspired by any of the holidays you might celebrate this
-  time of year. Snacks and hot cocoa will be provided. Register Here. Parents/Guardian
-  Info: This event is only for youth in middle or high school. Parents and guardians
-  are advised to drop off youth to provide them with a safe space to interact peer
-  to peer with Empower Youth Network employee supervision. Please arrive by 4 p.m.
-  for pick up. Thank you! If your youth is in need of supervision, supports, or accommodations
-  please email maya@empoweryouthnetwork.org.         Google Calendar     iCalendar     Outlook
-  365     Outlook Live           Details    Date:   December 16     Time:   3:00 pm
-  - 4:00 pm     Event Category: Youth   Website:  https://EYN-Tolt-FreeCookieDecorating.eventbrite.com       Venue    Tolt
-  Middle School     3740 Tolt Avenue Carnation, WA 98014  + Google Map'
+images: []
+location: Tolt Middle School, 3740 Tolt Avenue, Carnation, WA, 98014
+locations:
+- King County
 published: false
 source: Empower Youth Network
 source_url: https://empoweryouthnetwork.org/event/holiday-winter-cookie-decorating-free-event/

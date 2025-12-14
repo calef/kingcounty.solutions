@@ -2,9 +2,7 @@
 date: '2025-11-19T21:38:05+00:00'
 events: []
 events_extracted: true
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   <p>As one of the nation’s leading philanthropic initiatives, Bank of America’s Neighborhood Builders program strengthens nonprofit leadership nationwide and supplies multiyear flexible funding annually to organizations driving community impact.</p>
   <p>We will use the funding to expand a Behavioral Health Navigation program, primarily for senior residents in the Atlanta metro area.</p>
   <p>For 2025, two Atlanta nonprofits are each awarded a $200,000 grant over two years, comprehensive leadership training for the organization’s executive director and an emerging leader, and access to a national network of nonprofit peers.</p>
@@ -12,21 +10,8 @@ original_content: |-
   <p>Neighborhood Builders is part of the bank’s longstanding efforts to build thriving communities by addressing issues fundamental to economic opportunity. Since 2004, Bank of America’s Neighborhood Builders program has invested more than $346 million in communities across the U.S. and trained more than 4,000 leaders at nearly 2,000 U.S. nonprofits.</p>
   <p><strong>Thank you, Bank of America, for investing in our shared vision of housing as the foundation for a thriving life.</strong></p>
   <p>The post <a href="https://www.mercyhousing.org/2025/11/behavioral-health-program-gains-strength/">Behavioral Health Program Gains Strength</a> appeared first on <a href="https://www.mercyhousing.org">Mercy Housing</a>.</p>
-original_markdown_body: |-
-  As one of the nation’s leading philanthropic initiatives, Bank of America’s Neighborhood Builders program strengthens nonprofit leadership nationwide and supplies multiyear flexible funding annually to organizations driving community impact.
-
-  We will use the funding to expand a Behavioral Health Navigation program, primarily for senior residents in the Atlanta metro area.
-
-  For 2025, two Atlanta nonprofits are each awarded a $200,000 grant over two years, comprehensive leadership training for the organization’s executive director and an emerging leader, and access to a national network of nonprofit peers.
-
-  ![james_bofa](https://live-mercy-housing.pantheonsite.io/wp-content/uploads/2025/11/BofA_award_james-600x600.jpg)
-  _James Alexander, MHSE president, talks with colleagues during the awards presentation_
-
-  Neighborhood Builders is part of the bank’s longstanding efforts to build thriving communities by addressing issues fundamental to economic opportunity. Since 2004,&nbsp;Bank of America’s Neighborhood Builders program has invested more than $346 million in communities across the U.S. and trained more than 4,000 leaders at nearly 2,000 U.S. nonprofits.
-
-  **Thank you, Bank of America, for investing in our shared vision of housing as the foundation for a thriving life.**
-
-  The post [Behavioral Health Program Gains Strength](https://www.mercyhousing.org/2025/11/behavioral-health-program-gains-strength/) appeared first on [Mercy Housing](https://www.mercyhousing.org).
+images: []
+locations: []
 published: false
 source: Mercy Housing
 source_url: https://www.mercyhousing.org/2025/11/behavioral-health-program-gains-strength/

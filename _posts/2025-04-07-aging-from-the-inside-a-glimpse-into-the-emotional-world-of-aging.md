@@ -2,13 +2,11 @@
 date: '2025-04-07T20:28:47+00:00'
 events: []
 events_extracted: true
+feed_content: Aging is something we all do, but for those walking through its later
+  chapters, it’s not just about wrinkles or slower steps—it’s about a...
 images: []
 locations:
 - Eastside
-original_content: Aging is something we all do, but for those walking through its
-  later chapters, it’s not just about wrinkles or slower steps—it’s about a...
-original_markdown_body: Aging is something we all do, but for those walking through
-  its later chapters, it’s not just about wrinkles or slower steps—it’s about a...
 source: Eastside Friends of Seniors
 source_url: https://www.eastsidefriendsofseniors.org/post/aging-from-the-inside-a-glimpse-into-the-emotional-world-of-our-elders
 summarized: true

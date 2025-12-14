@@ -2,18 +2,14 @@
 date: '2025-08-22T17:40:33+00:00'
 events: []
 events_extracted: true
-images:
-- 68ee3e88914cd2fbe6d75610b050fd085e233bbfb83d44796138d4ada80d85cc
-locations:
-- King County
-original_content: "<p class=\"\">For Keisha, a single mom of three, stability meant
-  everything—especially for her oldest child, who has autism and thrives on routine.
-  After years of effort, Keisha had finally built a steady life for her family. They’d
-  faced challenging times before, even experiencing homelessness together, but things
-  were finally stable and looking up for the young family. Then Keisha’s childcare
-  fell through. Without it, she lost her job, and bills quickly piled up.&nbsp;</p><p
-  class=\"\">The fear of losing her home was devastating. Keisha worried about uprooting
-  her children and undoing all the progress she had worked so hard for.&nbsp;</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
+feed_content: "<p class=\"\">For Keisha, a single mom of three, stability meant everything—especially
+  for her oldest child, who has autism and thrives on routine. After years of effort,
+  Keisha had finally built a steady life for her family. They’d faced challenging
+  times before, even experiencing homelessness together, but things were finally stable
+  and looking up for the young family. Then Keisha’s childcare fell through. Without
+  it, she lost her job, and bills quickly piled up.&nbsp;</p><p class=\"\">The fear
+  of losing her home was devastating. Keisha worried about uprooting her children
+  and undoing all the progress she had worked so hard for.&nbsp;</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
   \ \n  \n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
   \ \n\n    \n  \n    \n\n      \n\n      \n        <figure class=\"\n              sqs-block-image-figure\n
   \             intrinsic\n            \"\n        >\n          \n        \n        \n\n
@@ -47,20 +43,10 @@ original_content: "<p class=\"\">For Keisha, a single mom of three, stability me
   class=\"sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element\"
   data-sqsp-button target=\"_blank\"\n  >\n    Make a gift to help support more families
   like Keisha's\n  </a>"
-original_markdown_body: |-
-  For Keisha, a single mom of three, stability meant everything—especially for her oldest child, who has autism and thrives on routine. After years of effort, Keisha had finally built a steady life for her family. They’d faced challenging times before, even experiencing homelessness together, but things were finally stable and looking up for the young family. Then Keisha’s childcare fell through. Without it, she lost her job, and bills quickly piled up.&nbsp;
-
-  The fear of losing her home was devastating. Keisha worried about uprooting her children and undoing all the progress she had worked so hard for.&nbsp;
-
-  ![](https://images.squarespace-cdn.com/content/v1/64b05d3e3547604a82ed3df3/2bf295aa-2f21-44a7-8f06-74ced505b639/sipho-ngondo-5dhDWZsce5E-unsplash.jpg?format=1000w)
-
-  That’s when she turned to Mary’s Place. Thanks to the support of our community, Keisha didn’t have to face this challenge alone. Our prevention team was able to step in to cover her rent, keeping her housing secure. This support gave Keisha the breathing room she needed to focus on her family and search for a job that fit their needs.
-
-  Keisha’s story is one of resilience and determination—but it’s also a reminder of how fragile stability can be for so many families in our community. A lost job, unexpected childcare changes, or a medical bill can put a family at risk of losing their home.
-
-  Thanks to your support, Mary’s Place can step in at critical moments to prevent families from losing their homes. Together, we can keep more children safe, housed, and thriving.
-
-  [Make a gift to help support more families like Keisha's](https://give.marysplaceseattle.org/campaign/673342/donate?utm_source=website&utm_medium=blog&utm_campaign=blogs-public&c_src=blogs-public&c_src2=blog)
+images:
+- 68ee3e88914cd2fbe6d75610b050fd085e233bbfb83d44796138d4ada80d85cc
+locations:
+- King County
 source: Mary's Place
 source_url: https://www.marysplaceseattle.org/blog/holding-on-to-stability-keishas-story
 summarized: true

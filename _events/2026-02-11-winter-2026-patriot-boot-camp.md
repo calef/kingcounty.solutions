@@ -1,10 +1,6 @@
 ---
 end_date: '2026-02-14T00:00:00-08:00'
-images: []
-location: ''
-locations:
-- King County
-original_content: <div class="container"> <section id="tribe-events-pg-template" class="tribe-events-pg-template">
+feed_content: <div class="container"> <section id="tribe-events-pg-template" class="tribe-events-pg-template">
   <div id="tribe-events-content" class="tribe-events-single"> <p class="tribe-events-back">
   <a href="https://www.dav.org/events-calendar/"> « All Events</a> </p> <h1 class="tribe-events-single-event-title">Winter
   2026 Patriot Boot Camp</h1> <div class="tribe-events-schedule tribe-clearfix"> <div>
@@ -38,10 +34,10 @@ original_content: <div class="container"> <section id="tribe-events-pg-template"
   <span class="tribe-events-meta-value"> <abbr class="tribe-events-abbr tribe-events-end-date
   dtend" title="2026-02-13"> February 13, 2026 </abbr> </span> </li> </ul> </div>
   </div> </div> </div> </section> </div>
-original_markdown_body: "« All Events  Winter 2026 Patriot Boot Camp   February 11,
-  2026 - February 13, 2026     February 11-13, 2026 Find out more         Google Calendar
-  \    iCalendar     Outlook 365     Outlook Live           Details    Start:   February
-  11, 2026     End:   February 13, 2026"
+images: []
+location: ''
+locations:
+- King County
 published: false
 source: Disabled American Veterans
 source_url: https://www.dav.org/events-calendar/winter-2026-patriot-boot-camp/

@@ -1,8 +1,6 @@
 ---
 date: '2025-11-06T01:29:24+00:00'
-images: []
-locations: []
-original_content: "<div class=\"et_pb_section et_pb_section_2 blog-post-type et_section_regular\"
+feed_content: "<div class=\"et_pb_section et_pb_section_2 blog-post-type et_section_regular\"
   >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_row
   et_pb_row_5\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4 et_pb_column_8
   \ et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div
@@ -74,32 +72,8 @@ original_content: "<div class=\"et_pb_section et_pb_section_2 blog-post-type et_
   post <a href=\"https://lcsnw.org/2025/11/lcsnw-hits-milestone-with-launch-of-additional-office-in-portland-vancouver-metro-area/\">LCSNW
   expands behavioral health services with Gresham office</a> appeared first on <a
   href=\"https://lcsnw.org\">LCSNW</a>.</p>"
-original_markdown_body: |-
-  # LCSNW expands behavioral health services with Gresham office
-
-  Our agency marked a major milestone recently as we officially opened the doors to our newest location, which is in Gresham, Oregon. The grand opening on Wednesday, Oct. 29, 2025, celebrated the expansion of our behavioral health services and school wellness programs further into Multnomah County.
-
-  We were warmly received by local leaders and community partners. Officials from the City of Gresham, Gresham City Police, and Gresham Area Chamber of Commerce helped kick off the celebration. Their presence underscored the strong local support for our mission and the vital role our services play in the region.
-
-  Chamber CEO Lynn Snodgrass warmed the audience to LCSNW and its history by sharing a story about the way we helped mother-daughter clients find a home after fleeing Ukraine.
-
-  Another highlight of the event was a ribbon-cutting ceremony led by Gresham Mayor Travis Stovall, whose remarks emphasized the importance of accessible mental health care and the value of community partnerships. “Across the nation we are all struggling with a lack of services that you are now going to provide in this great city,” said Mayor Stovall prior to cutting a ceremonial ribbon.
-
-  “To see this service delivered right here in Gresham is a tremendous win for the folks who live here,” Stovall said.
-
-  Staff from across LCSNW attended, along with invited guests and stakeholders who have supported our services. An estimated 80-plus people attended.
-
-  The Gresham office provides trauma-informed counseling and case management, delivered by a multilingual, multicultural team. It reflects our commitment to meeting people where they are — both geographically and culturally — and ensuring that behavioral health care is inclusive, respectful, and effective.
-
-  In addition, a team from our Community Integration Services is based at the office. Those staff work Gresham-Barlow schools..
-
-  We’re grateful for the enthusiastic welcome from the Gresham community and look forward to deepening our impact in the area. Thank you to everyone who helped make this day a success!
-
-  The office is at 2074 NE Burnside Road, Gresham, Oregon, 97030.
-
-   ![Two youth picking out school supplies at the free event](https://lcsnw.org/wp-content/uploads/2025/11/IMG_3307-scaled-e1762392117458.jpg "IMG\_3307")
-
-  The post [LCSNW expands behavioral health services with Gresham office](https://lcsnw.org/2025/11/lcsnw-hits-milestone-with-launch-of-additional-office-in-portland-vancouver-metro-area/) appeared first on [LCSNW](https://lcsnw.org).
+images: []
+locations: []
 published: false
 source: Lutheran Community Services Northwest
 source_url: https://lcsnw.org/2025/11/lcsnw-hits-milestone-with-launch-of-additional-office-in-portland-vancouver-metro-area/

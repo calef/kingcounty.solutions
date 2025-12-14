@@ -1,10 +1,6 @@
 ---
 end_date: '2026-01-29T22:00:00-08:00'
-images: []
-location: Meany Hall (MNY)
-locations:
-- King County
-original_content: '<a href="#main-content" class="element-invisible element-focusable">Skip
+feed_content: '<a href="#main-content" class="element-invisible element-focusable">Skip
   to main content</a> <div class="l-page has-one-sidebar has-sidebar-first"> <div
   class="full-wrapper header"> <header class="l-header" role="banner"> <a href="#main-content"
   class="element-invisible element-focusable">Skip to main content</a> <div class="l-branding">
@@ -124,29 +120,10 @@ original_content: '<a href="#main-content" class="element-invisible element-focu
   Asherie Dance Facebook</a>| <a href="https://www.instagram.com/ephratasheriedance/">Ephrat
   Asherie Dance Instagram</a> </div> </div> </div> </div> </div> </div> </div> </div>
   </div> </div>'
-original_markdown_body: Skip to main content    Skip to main content  Meany Center  Official
-  Site   Show Navigation Hide Navigation    My Account  Calendar                  fy26-ephrat-asherie-hero.jpg             You
-  are here  Events & Tickets >Ephrat Asherie Dance with Arturo O’Farrill     Ephrat
-  Asherie Dance with Arturo O’Farrill Shadow Cities Jan 292026 — Jan 312026           Performance
-  Dates    Thu Jan 29 2026 8:00 PM   Fri Jan 30 2026 8:00 PM   Sat Jan 31 2026 8:00
-  PM      Buy TicketsSubscribe Now    Venue   Meany Hall – Katharyn Alvord Gerlich
-  Theater     ticket@uw.edu   (206) 543-4880   Get Directions      Share    Share
-  on Facebook       Ephrat Asherie’s exhilarating choreography remixes street and
-  club dance styles with the live Latin jazz sound of Grammy-winner Arturo O’Farrill.
-  Shadow Cities asks how and why we can feel our most enlivened selves when we are
-  halfway between disparate extremes in time, space and state. With an amalgam of
-  cultures, our identities are fixed and infinitely fluid, our movements malleable
-  and explosive.                 Upcoming Site Maintenance This site will undergo
-  planned maintenance December 13–17. During this period, online ticket purchases
-  will be unavailable. To buy a ticket, please contact the ArtsUW Ticket Office.  Contact
-  Us    Subscriber Care Commitment We are committed to making your Meany experience
-  the best it can be.  LEARN MORE    Subscriber Extra Tickets Save 10% on additional
-  tickets. Enjoy pre-sale access to special events.  Add Now    Accessibility The
-  University of Washington is committed to providing access, equal opportunity and
-  reasonable accommodation in its services, programs and activities for individuals
-  with disabilities.   Learn More              Watch       sneak_peek_ephrat_asherie_dance                Learn
-  More       About the Artist     Ephrat Asherie Dance Official Website| Ephrat Asherie
-  Dance Facebook| Ephrat Asherie Dance Instagram
+images: []
+location: Meany Hall (MNY)
+locations:
+- King County
 published: false
 source: University of Washington
 source_url: https://meanycenter.org/tickets/2026-01/production/ephrat-asherie-dance-arturo-ofarrill

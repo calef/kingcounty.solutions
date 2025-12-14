@@ -2,11 +2,7 @@
 date: '2025-05-18T21:06:39+00:00'
 events: []
 events_extracted: true
-images:
-- 996c63501ba67731534051a8a9025a298a590937a4dd1d17959d6673354937d6
-locations:
-- King County
-original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Council
+feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Council
   Roundup: Update on middle housing and Meydenbauer Bay Park expansion</span>\n<span
   class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span
   lang about=\"https://bellevuewa.gov/users/mdegrand\" typeof=\"schema:Person\" property=\"schema:name\"
@@ -90,72 +86,10 @@ original_content: "<span class=\"field field--name-title field--type-string fiel
   \     \n\n            <div class=\"field field--name-field-article-date field--type-datetime
   field--label-hidden field__item\"><time datetime=\"2025-05-18T12:00:00Z\" class=\"datetime\">May
   18 2025</time>\n</div>\n      \n    </div>\n  </div>"
-original_markdown_body: "Council Roundup: Update on middle housing and Meydenbauer
-  Bay Park expansionMDeGrand<time datetime=\"2025-05-18T14:06:39-07:00\" title=\"Sunday,
-  May 18, 2025 - 14:06\" class=\"datetime\">Sun, 05/18/2025 - 14:06</time>\n\n ![Meydenbauer
-  Bay park and Bellevue's downtown can be seen in this aerial photo.](https://bellevuewa.gov/sites/default/files/styles/article_featured_image/public/media/article_featured_image/2024-06/meydenbauer-bay-park-aerial-2024.JPG?h=84071268&itok=mUQxiguZ)\n\nPlus,
-  2025-26 federal legislative agenda and city proclamations\n\nAt its meeting Tuesday
-  the City Council received a briefing on the proposed land use code amendments recommended
-  by the Planning Commission to support middle housing development throughout the
-  city, as required by recent changes to state law.&nbsp;\n\nIn 2023, the Washington
-  Legislature passed House Bills 1110 and 1337, which require cities like Bellevue
-  to allow more housing types and density in residential areas to expand housing choices,
-  improve affordability and increase supply. Cities must adopt the necessary code
-  changes by June 30.\n\nState law now requires Bellevue to allow a minimum number
-  of units per lot citywide, permit at least six types of middle housing, allow two
-  accessory dwelling units (ADUs) per lot and enable separate ownership for these
-  housing types. The proposed city land use code amendments meet these requirements
-  and also include additional density recommendations in key geographies adjacent
-  to transit and growth centers, as well as development regulation flexibility to
-  support the goals of the city’s updated Comprehensive Plan. &nbsp;\n\nThe Planning
-  Commission held three study sessions and a public hearing before recommending the
-  code amendments to the council.&nbsp;\n\nCouncil discussion on these proposals will
-  continue at a future study session. The full presentation and discussion from this
-  week are available through [video replay](https://youtu.be/_Sw12rrqm40?t=3240 \"Link
-  to video replay of topic at meeting\") on Bellevue Television with supporting information
-  available in the [meeting materials](https://bellevue.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=10898
-  \"Link to meeting materials\").\n\n#### Feedback on Meydenbauer Bay Park expansion\n\nLater,
-  the City Council directed staff to return with more information on the “Meydenbauer
-  Gateway and Promenade expansion” that will connect Meydenbauer Bay Park with downtown.
-  As an anchor of the west end of the Grand Connection, the gateway will feature a
-  plaza at Main Street with an accessible walkway down toward the beach, offering
-  a new safe pedestrian connection to the existing park.\n\nOnce council approves
-  the next phase of design work, the project will move forward to the engineering
-  and permitting phase.\n\nStaff presented the latest plan for Phase 2 of Meydenbauer
-  Bay Park’s expansion to the council. The next phase builds upon the master plan
-  for the park that was originally adopted in 2010. Current concepts were developed
-  with input from thousands of community members in meetings and surveys over the
-  past two years.\n\nIn addition to the gateway, which could include a significant
-  art installation, the plan calls for improvements at the intersection of Main Street,
-  100th Avenue and Lake Washington Boulevard, which will make it easier for people
-  walking and biking to navigate to and through the park safely.\n\nThis second phase
-  of expansion is expected to start construction in 2029. The first phase of park
-  construction was completed in 2019 and included a curved pedestrian pier, larger
-  beach, children’s play area and kayak/paddleboard launch facilities.\n\nMore information
-  about the progress is available in the [meeting materials](https://bellevue.legistar.com/LegislationDetail.aspx?ID=7379055&GUID=51370A23-4580-4FCB-887B-AAE569B6459E
-  \"Link to meeting materials\").&nbsp;\n\n#### 2025-26 Federal Legislative Agenda
-  approved\n\nIn other business, the council received an update on the recently finished
-  state Legislative session and councilmembers unanimously approved the city’s [federal
-  legislative agenda](https://bellevue.legistar.com/View.ashx?M=F&ID=14161662&GUID=CFF564E1-00DC-4D16-A82B-B25515E467E4
-  \"Link to legislative agenda\"), which includes key priorities for the city that
-  are communicated to Bellevue’s federal representatives.&nbsp;\n\nThe top three areas
-  in the updated federal legislative agenda are: transportation and mobility; essential
-  and sustainable infrastructure; and housing and safety net programs. Members of
-  the City Council will travel to Washington DC in June to have meetings with federal
-  representatives and share these priorities and the specific work the city aims to
-  accomplish within these areas.&nbsp;\n\nFurther details are in the [meeting materials](https://bellevue.legistar.com/LegislationDetail.aspx?ID=7379058&GUID=0B375331-D61F-4330-B823-BDCDF8D89258
-  \"Link to meeting materials\").&nbsp;\n\n#### Proclamations for Asian heritage,
-  older Americans and building safety\n\nThe council read proclamations in recognition
-  of [Asian American, Native Hawaiian and Pacific Islander Heritage Month](https://bellevue.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=10937
-  \"AANHPI Heritage Month proclamation\"), [Older Americans Month](https://bellevue.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=10938
-  \"Older Americans Month Proclamation\") and [Building Safety Month](https://bellevue.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=10936
-  \"Link to Building Safety Month proclamation\"). &nbsp;\n\nFor alternate formats
-  or reasonable accommodations please phone at least 48 hours in advance 425-452-4346
-  (voice) or email [mdegrand@bellevuewa.gov](mailto:mdegrand@bellevuewa.gov). For
-  complaints regarding modifications, contact the City of Bellevue ADA, Title VI,
-  and Equal Opportunity Officer at [ADATitleVI@bellevuewa.gov](mailto:ADATitleVI@bellevuewa.gov).&nbsp;
-  \ \n&nbsp;\n\n<time datetime=\"2025-05-18T12:00:00Z\" class=\"datetime\">May 18
-  2025</time>"
+images:
+- 996c63501ba67731534051a8a9025a298a590937a4dd1d17959d6673354937d6
+locations:
+- King County
 source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/council-roundup-update-middle-housing-meydenbauer-bay-park-expansion
 summarized: true

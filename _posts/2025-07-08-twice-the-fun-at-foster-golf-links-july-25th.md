@@ -1,8 +1,6 @@
 ---
 date: '2025-07-08T17:23:50+00:00'
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   ###### ![](https://www.tukwilawa.gov/wp-content/uploads/Glow-Ball-at-Foster-Golf-Links-1-1.png)
 
   Foster Golf Links centennial celebration continues!
@@ -30,6 +28,8 @@ original_content: |-
   Call the Pro Shop at&nbsp;206-242-4221&nbsp;to sign up!
 
   The post [Twice the Fun at Foster Golf Links July 25th](https://www.tukwilawa.gov/twice-the-fun-at-foster-golf-links-july-25th/) appeared first on [City of Tukwila](https://www.tukwilawa.gov).
+images: []
+locations: []
 published: false
 source: City of Tukwila
 source_url: https://www.tukwilawa.gov/twice-the-fun-at-foster-golf-links-july-25th/

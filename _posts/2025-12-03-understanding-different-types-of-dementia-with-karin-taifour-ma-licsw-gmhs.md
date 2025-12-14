@@ -2,11 +2,7 @@
 date: '2025-12-03T19:55:09+00:00'
 events: []
 events_extracted: true
-images:
-- b678951db69a4cbeab464b508b223108c348665568bf62471ffc1ac42cb832f6
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <p class="has-text-align-center"><strong>January 14th, 2026</strong><br><strong>8:30am-12:00pm PDT</strong></p>
 
 
@@ -85,46 +81,10 @@ original_content: |-
 
   <p></p>
   <p>The post <a href="https://soundgenerations.org/understanding-different-types-of-dementia-with-karin-taifour-ma-licsw-gmhs/">Understanding Different Types of Dementia with Karin Taifour, MA, LICSW, GMHS</a> appeared first on <a href="https://soundgenerations.org">Sound Generations</a>.</p>
-original_markdown_body: "**January 14th, 2026**  \n**8:30am-12:00pm PDT**\n\n**3 CEUs**\n\n![](https://i0.wp.com/soundgenerations.org/wp-content/uploads/Karin-Taifour-Photo-3.jpg?resize=300%2C300&ssl=1)\n\nDementia
-  is an umbrella term covering a wide variety of conditions affecting the brain that
-  typically get worse over time. Defined as a loss of skills and abilities related
-  to thinking, memory, and reasoning – with this loss being significant enough that
-  it interferes with functioning and daily life.&nbsp;Alzheimer’s disease is the most
-  common cause of dementia, but there are numerous other conditions and contributing
-  factors that can cause memory loss, confusion, changes in personality, and problems
-  with language or mobility.&nbsp;This class will review cognitive changes common
-  with typical aging compared with changes that should raise concern; the most common
-  causes of dementia and the associated symptoms and presentation; and strategies
-  for management and support as well as emerging treatments. Case examples and information
-  on resources and references will be included throughout the class.&nbsp;\n\nIn this
-  workshop you will learn to:\n\n- Distinguish between cognitive changes common with
-  typical aging vs. changes that should raise concern;\n- Recognize symptoms and presentation
-  associated with common causes of dementia;\n- Identify potential strategies for
-  management and support of various symptoms and problems;&nbsp;\n- Determine when
-  to appropriate specialists for diagnosis and/or more specialized assessment and
-  care.&nbsp;\n\n## About the Instructor\n\nKarin Taifour, MA, LMHC GMHS, holds a
-  masters is Applied Behavioral Sciences from Bastyr University and a certificate
-  in geriatric mental health from University of Washington. Karin has been a practicing
-  clinician and consultant for over 20 years, in private practice since 2017. A qualified
-  clinical supervisor, Karin also has taught graduate level courses and provided professional
-  training and continuing education, as well as public/community presentations.\n\nKarin
-  has written articles and presented at conferences and for organizations such as
-  the Elder Abuse Council of Seattle and King County, the Washington State Bar Association,
-  and the King County Bar Association, the state guardianship certification program,
-  the Washington State Elder Abuse Conference, and others.\n\nKarin teaches EEI’s
-  Decision-Making Capacity Assessment Professional Training Program and is recognized
-  for her expertise and experience in assessing decisional capacity, cognitive functioning,
-  and care needs.\n\nAll case managers and other service providers from all industries
-  are also welcome to attend.\n\n**​Wednesday, January 14th, 2026, 8:30am-12:00pm
-  PDT** The session begins promptly at 8:30AM and includes short breaks. This program
-  will be taught over Zoom. Information and Zoom link will be sent out 1 week beforehand.
-  Please make sure to save the link.\n\n**COST –&nbsp;$125&nbsp; REGISTRATION IS OPEN&nbsp;–
-  ORGANIZATIONAL DISCOUNTS AND SCHOLARAHIPS AVAILABLE**\n\n[Register Online](https://soundgenerations.givecloud.co/eei-workshops)\n\nPlease
-  Note: For those of you with special payment arrangements or organizational group
-  discounts, please contact Alison at [alisonc@soundgenerations.org](mailto:alisonc@soundgenerations.org)
-  to register.\n\nThe post [Understanding Different Types of Dementia with Karin Taifour,
-  MA, LICSW, GMHS](https://soundgenerations.org/understanding-different-types-of-dementia-with-karin-taifour-ma-licsw-gmhs/)
-  appeared first on [Sound Generations](https://soundgenerations.org)."
+images:
+- b678951db69a4cbeab464b508b223108c348665568bf62471ffc1ac42cb832f6
+locations:
+- King County
 source: Sound Generations
 source_url: https://soundgenerations.org/understanding-different-types-of-dementia-with-karin-taifour-ma-licsw-gmhs/
 summarized: true

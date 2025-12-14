@@ -2,11 +2,10 @@
 date: '2025-12-01T14:25:10+00:00'
 events: []
 events_extracted: true
+feed_content: Tips Director’s Rules
 images: []
 locations:
 - King County
-original_content: Tips Director’s Rules
-original_markdown_body: Tips Director’s Rules
 source: City of Seattle
 source_url: https://buildingconnections.seattle.gov/2025/12/01/november-publication-updates/
 summarized: true

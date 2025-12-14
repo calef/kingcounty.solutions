@@ -1,17 +1,13 @@
 ---
 date: '2025-12-11T23:56:09+00:00'
+feed_content: Seattle police have arrested another “High Utilizer Initiative” offender.
+  On Dec. 10, at about 2:15 p.m., patrol officers responded to reports of a repeat
+  shoplifter trespassing at a pharmacy in the 500 block of 15th Avenue East. There,
+  the...
+feed_content_checksum: 82728e71afe5faaf006fc9b14c29944391a962b2
 images: []
 locations:
 - King County
-original_content: Seattle police have arrested another “High Utilizer Initiative”
-  offender. On Dec. 10, at about 2:15 p.m., patrol officers responded to reports of
-  a repeat shoplifter trespassing at a pharmacy in the 500 block of 15th Avenue East.
-  There, the...
-original_content_checksum: 82728e71afe5faaf006fc9b14c29944391a962b2
-original_markdown_body: Seattle police have arrested another “High Utilizer Initiative”
-  offender. On Dec. 10, at about 2:15 p.m., patrol officers responded to reports of
-  a repeat shoplifter trespassing at a pharmacy in the 500 block of 15th Avenue East.
-  There, the...
 published: false
 rss_guid: https://spdblotter.seattle.gov/?p=44662
 source: City of Seattle

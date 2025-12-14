@@ -2,12 +2,7 @@
 date: '2025-06-25T19:35:28+00:00'
 events: []
 events_extracted: true
-images:
-- 7fe9e217198874fc167238ed4bc8cf4539684f79881e2af457381c88888f3a94
-- a7c35ce003c355fe485eede1fd0e297ebd1ea9ba972b32c2df825f2e4f96b0d9
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <p>“Catholic Housing Services is a great help and made a big difference for our family.”&nbsp;</p>
 
 
@@ -91,50 +86,11 @@ original_content: |-
 
 
   <p>* Names have been changed. </p>The post <a href="https://ccsww.org/farmworker-housing-welcomes-daniel-and-maria-home/">Farmworker Housing Welcomes Daniel and Maria Home </a> first appeared on <a href="https://ccsww.org">Catholic Community Services of Western Washington</a>.
-original_markdown_body: |-
-  “Catholic Housing Services is a great help and made a big difference for our family.”&nbsp;
-
-  When Maria and Daniel\* moved to Washington state, they were determined to create a better life for their infant son. Daniel found work in the agricultural industry, but the communal housing provided by his employer was not a safe place to raise their son.&nbsp;&nbsp;
-
-  Every day when he left for work, Daniel worried about Maria and their baby. Housing options that were both safe and affordable were next to nonexistent. “It was challenging to find a place to live,” Daniel says. said.&nbsp;
-
-  Then Daniel’s coworker told him about Catholic Housing Services (CHS) and the organization’s housing dedicated to farmworker families. Daniel and Maria submitted an application, and, in September 2023, they moved into their new apartment.&nbsp;&nbsp;
-
-  “We felt really happy and excited,” Daniel says said. “Finally, we had a home for ourselves.”&nbsp;
-
-  ![](https://ccsww.org/wp-content/uploads/2025/06/MariaDaniel-Family-Resized-1400x933.jpg)
-  _Since moving into CHS agriculture housing in 2023, Daniel and Maria report that their family has been thriving._
-
-  ### **Farmworker Housing: Supporting Essential Workers** &nbsp;
-
-  CHS farmworker housing provides permanent housing to people working in the agricultural industry across Western Washington. While farmworkers play a vital role in feeding our communities, many of them are paid very low wages. According to the 2019-2020 [National Agricultural Workers Survey](https://www.dol.gov/sites/dolgov/files/ETA/publications/ETAOP2022-16_NAWS_Research_Report_16_508c.pdf), farmworkers’ average income is less than $30,000 a year and 20 percent have household incomes below the federal poverty threshold.&nbsp;&nbsp;
-
-  CHS provides 13 farmworker housing properties throughout Western Washington, offering a total of 520 housing units for agricultural workers and their families. Farmworker housing is permanent, meaning residents can put down roots and build a strong community with their neighbors.&nbsp;&nbsp;
-
-  ### **A Place to Call Home**
-
-  ![](https://ccsww.org/wp-content/uploads/2025/06/MariaBaby_Cropped-Resized-1400x1050.jpg)
-  _With the stability and safety of permanent housing, Maria and Daniel recently welcomed a second child into their family. _
-
-  For Daniel and Maria, permanent housing means they finally have a home where they can see themselves raising a family for years to come. After moving in the fall of 2023, Daniel and Maria began to prepare for the upcoming holiday season. That winter, they celebrated their first Christmas in the apartment, complete with traditional holiday meals and community cheer.&nbsp;&nbsp;
-
-  With a home that is permanent, safe, and affordable, Daniel and Maria hope to celebrate many more Christmases in this community.&nbsp;&nbsp;
-
-  Daniel and Maria’s CHS apartment not only provides a home for their family but also roots them in a supportive community. In this caring community, their family has flourished, and they recently welcomed another baby boy into their home.&nbsp;&nbsp;
-
-  This CHS apartment is so much more than a roof over Daniel and Maria’s heads — it’s a place where their children will take their first steps, form friendships, and grow into the future.&nbsp;
-
-  From outside their window, the family can hear neighbor kids playing kickball. While their sons are too young to play today, Maria and Daniel smile as they imagine the day when the boys will be old enough to join in the game. “To stay here while our kids grow, that would be great,” Daniel says.&nbsp;
-
-  * * *
-
-  [Make a gift to our 2025 Housing Appeal](https://ccsww.org/housing25), supporting our housing and shelter programs, to help more families like Daniel and Maria find a safe and stable place to call home. Together, we can bring hope and transformation to our neighbors who need us most.&nbsp;
-
-  [Donate Now](https://ccsww.org/funds/donate-housing25/)
-
-  \* Names have been changed.&nbsp;
-
-  The post [Farmworker Housing Welcomes Daniel and Maria Home&nbsp;](https://ccsww.org/farmworker-housing-welcomes-daniel-and-maria-home/) first appeared on [Catholic Community Services of Western Washington](https://ccsww.org).
+images:
+- 7fe9e217198874fc167238ed4bc8cf4539684f79881e2af457381c88888f3a94
+- a7c35ce003c355fe485eede1fd0e297ebd1ea9ba972b32c2df825f2e4f96b0d9
+locations:
+- King County
 source: Catholic Community Services of Western Washington
 source_url: https://ccsww.org/farmworker-housing-welcomes-daniel-and-maria-home/?utm_source=rss&utm_medium=rss&utm_campaign=farmworker-housing-welcomes-daniel-and-maria-home
 summarized: true

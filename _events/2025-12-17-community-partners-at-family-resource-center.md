@@ -1,12 +1,7 @@
 ---
 end_date: '2025-12-17T17:00:00-08:00'
-images: []
-location: Wallingford Food Bank, 1501 North 45th Street, Seattle, WA, 98103, United
-  States
-locations:
-- King County
-original_content: '<a class="skip-link screen-reader-text" href="#content">Skip to
-  content</a> <header data-elementor-type="header" data-elementor-id="22629" class="elementor
+feed_content: '<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+  <header data-elementor-type="header" data-elementor-id="22629" class="elementor
   elementor-22629 elementor-location-header" data-elementor-post-type="elementor_library">
   <a class="elementor-element elementor-element-39dcd8d bar-container e-flex e-con-boxed
   e-con e-parent" data-id="39dcd8d" data-element_type="container" data-settings=''{"background_background":"classic"}''
@@ -199,27 +194,11 @@ original_content: '<a class="skip-link screen-reader-text" href="#content">Skip 
   <a class="elementor-button elementor-button-link elementor-size-sm" href="https://familyworksseattle.org/donate/">
   <span class="elementor-button-content-wrapper"> <span class="elementor-button-text">Donate</span>
   </span> </a> </div> </div> </div> </div> </div> </div> </section> </div>'
-original_markdown_body: 'Skip to content      Our Wallingford Food Bank has moved
-  to a temporary location. Learn more →               Calendar     Contact        Instagram     Facebook     Youtube     Linkedin                   Volunteer           Donate                   «
-  All Events    Event Series:    Community Partners at Family Resource Center    Community
-  Partners at Family Resource Center   December 17 @ 2:00 pm - 5:00 pm     Every third
-  Wednesday of the month from 2-5 PM, we welcome our community partners to our Family
-  Resource Center to meet with families. Utility Discount Program & Emergency Bill
-  Assistance from Seattle City Light and Seattle Public Utilities – Need help navigating
-  your utility bills? Eligible households can meet with Amy from the Utility Discount
-  Program and enroll in their program to receive an ongoing discount of 60% on light
-  bills and 50% on SPU (water/waste) bills. Additionally, if your household has more
-  than $250 past due on an SCL or SPU bill, meet with representatives to apply for
-  emergency assistance to help pay off your balance or stop a shut off. Community
-  Health Plan of WA – Meet with Sandra from the Community Health Plan of WA to discuss
-  your Apple Health options. Need help enrolling in Apple Health or have questions
-  about finding a provider, accessing benefits, etc. – Sandra can help! Sandra también
-  habla español! For more information, contact us at [email protected] or (206) 647-1790.         Google
-  Calendar     iCalendar     Outlook 365     Outlook Live           Details    Date:   December
-  17     Time:   2:00 pm - 5:00 pm    Series:    Community Partners at Family Resource
-  Center      Organizer   FamilyWorks    Phone   (206) 647-1770         Venue    Wallingford
-  Food Bank     1501 North 45th Street Seattle, WA 98103 United States  + Google Map    Phone  (206)
-  647-1780                Search for:         Search                       Search            Volunteer           Donate'
+images: []
+location: Wallingford Food Bank, 1501 North 45th Street, Seattle, WA, 98103, United
+  States
+locations:
+- King County
 source: FamilyWorks Seattle
 source_url: https://www.familyworksseattle.org/event/community-partners-at-family-resource-center/2025-12-17/
 start_date: '2025-12-17T14:00:00-08:00'

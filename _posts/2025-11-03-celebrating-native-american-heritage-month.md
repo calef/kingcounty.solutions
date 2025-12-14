@@ -2,10 +2,7 @@
 date: '2025-11-03T19:20:14+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: |-
+feed_content: |-
   Each November, we recognize Native American Heritage Month—a time to honor the history, culture, and ongoing contributions of Native peoples across the country. Here in the Snoqualmie Valley, this month holds special meaning as we live and work on the ancestral lands of the Snoqualmie Tribe.
 
   The Snoqualmie Tribe has cared for these lands since time immemorial, and their presence continues to shape the cultural and natural landscape of our community today. From advocacy for environmental stewardship to investments in healthcare, education, and public services, the Tribe’s leadership is felt across our region.
@@ -21,6 +18,9 @@ original_content: |-
   This month, and every month, we honor the Snoqualmie Tribe and Native peoples everywhere for their resilience, leadership, and commitment to community.
 
   The post [Celebrating Native American Heritage Month](https://snoqualmievalleyhealth.org/native-american-heritage-month/) appeared first on [Snoqualmie Valley Hospital](https://snoqualmievalleyhealth.org).
+images: []
+locations:
+- King County
 source: Hospital District No. 4 (Snoqualmie Valley Hospital)
 source_url: https://snoqualmievalleyhealth.org/native-american-heritage-month/
 summarized: true

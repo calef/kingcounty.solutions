@@ -2,16 +2,7 @@
 date: '2025-10-14T20:53:58+00:00'
 events: []
 events_extracted: true
-images:
-- 1b347a1bbfe0e707e558be1b738c409c919fe24ed9e035e650e48911a64b5fd5
-- 0bcf664103b3ba892085107af7815aa225f9f42a27b5023ee23a713f32550919
-- cb44c5b8dfbfc7711b87a3fb54cad5b280e7d260ed053189c75d2cf26342f519
-- 13ebc71c9895645c57a31903b6744db5dd9188a3774dabf399cce76962112d8e
-- 73ed8c95563093ae6ebdea12987558774e7ea323bf877acf56c0d23071631504
-- a35a2245e1725882d7facee60c125dd9f7ae44afcb4707834a5753b61cf35682
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <p><strong>On October 4, neighbors and friends gathered to celebrate the final Uncork the Night gala, a celebration of wine and giving. </strong>The farewell evening featured wine tastings from renowned local wineries, a spirited auction filled with friendly, competitive bidding, laughter, generosity, and a magnetic energy that filled the room during every toast and paddle raise.</p>
 
 
@@ -95,40 +86,15 @@ original_content: |-
 
 
   <p></p><p>The post <a href="https://www.bellevuelifespring.org/general/a-farewell-to-uncork-the-night/">A Farewell to Uncork the Night | A Celebration of Wine and Giving Benefiting Bellevue Children</a> first appeared on <a href="https://www.bellevuelifespring.org">Bellevue LifeSpring</a>.</p><p>The post <a href="https://www.bellevuelifespring.org/general/a-farewell-to-uncork-the-night/">A Farewell to Uncork the Night | A Celebration of Wine and Giving Benefiting Bellevue Children</a> appeared first on <a href="https://www.bellevuelifespring.org">Bellevue LifeSpring</a>.</p>
-original_markdown_body: |-
-  **On October 4, neighbors and friends gathered to celebrate the final Uncork the Night gala, a celebration of wine and giving.** The farewell evening featured wine tastings from renowned local wineries, a spirited auction filled with friendly, competitive bidding, laughter, generosity, and a magnetic energy that filled the room during every toast and paddle raise.
-
-  ![](https://www.bellevuelifespring.org/wp-content/uploads/2025/10/Uncork2025-102-edited.jpg)
-
-  ![](https://www.bellevuelifespring.org/wp-content/uploads/2025/10/Uncork2025-106-edited.jpg)
-
-  Together, our generous guests raised **nearly $500,000** to break the cycle of poverty for Bellevue families and provide children with the resources they need to reach stability and succeed in the classroom and beyond.
-
-  ![](https://www.bellevuelifespring.org/wp-content/uploads/2025/10/Uncork2025-242-edited-2.jpg)
-
-  ![](https://www.bellevuelifespring.org/wp-content/uploads/2025/10/Uncork2025-317-edited-4.jpg)
-
-  ![](https://www.bellevuelifespring.org/wp-content/uploads/2025/10/Uncork2025-176-edited.jpg)
-
-  Since its beginning over two decades ago, _Uncork the Night_ has grown from a shared love of wine and connection into something much greater: a community tradition rooted in care and compassion. The final gathering was not only a chance to reflect on the incredible legacy of the event, but also to celebrate the brighter tomorrows still to come through our mission.
-
-  While this may have been our last uncorking, our work ahead is more important than ever as we reimagine new, mission-driven ways to deepen and maximize our impact with our investors to prevent Bellevue children and families from experiencing hunger and homelessness.
-
-  ![](https://www.bellevuelifespring.org/wp-content/uploads/2025/10/Uncork2025-108-edited.jpg)
-
-  ![](https://www.bellevuelifespring.org/wp-content/uploads/2025/10/Uncork2025-324-1200x801.jpg)
-
-  We extend gratitude to the 2025 _Uncork the Night_ premier sponsors, Amazon, The Bellevue Collection, Pathstone, and Viome, whose leadership and commitment made this milestone evening possible.
-
-  Most of all, we acknowledge and thank the countless community members, neighbors, local businesses, and donors who, over the years, have made _Uncork the Night_ such a meaningful and impactful tradition.
-
-  The celebration may be over, but the opportunity to make a difference continues—stay tuned for new ways to support our mission and brighten the future for every child in our community.
-
-  [View the full photo gallery](https://photos.app.goo.gl/ToWRTjr725WQDiaE7)
-
-  The post [A Farewell to Uncork the Night | A Celebration of Wine and Giving Benefiting Bellevue Children](https://www.bellevuelifespring.org/general/a-farewell-to-uncork-the-night/) first appeared on [Bellevue LifeSpring](https://www.bellevuelifespring.org).
-
-  The post [A Farewell to Uncork the Night | A Celebration of Wine and Giving Benefiting Bellevue Children](https://www.bellevuelifespring.org/general/a-farewell-to-uncork-the-night/) appeared first on [Bellevue LifeSpring](https://www.bellevuelifespring.org).
+images:
+- 1b347a1bbfe0e707e558be1b738c409c919fe24ed9e035e650e48911a64b5fd5
+- 0bcf664103b3ba892085107af7815aa225f9f42a27b5023ee23a713f32550919
+- cb44c5b8dfbfc7711b87a3fb54cad5b280e7d260ed053189c75d2cf26342f519
+- 13ebc71c9895645c57a31903b6744db5dd9188a3774dabf399cce76962112d8e
+- 73ed8c95563093ae6ebdea12987558774e7ea323bf877acf56c0d23071631504
+- a35a2245e1725882d7facee60c125dd9f7ae44afcb4707834a5753b61cf35682
+locations:
+- King County
 source: Bellevue LifeSpring
 source_url: https://www.bellevuelifespring.org/general/a-farewell-to-uncork-the-night/?utm_source=rss&utm_medium=rss&utm_campaign=a-farewell-to-uncork-the-night
 summarized: true

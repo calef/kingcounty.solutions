@@ -1,11 +1,6 @@
 ---
 end_date: '2026-02-28T19:00:00-08:00'
-images: []
-location: Federal Way Community Center, 876 South 333rd Street, Federal Way, WA, 98003,
-  United States
-locations:
-- King County
-original_content: '<section id="tribe-events-pg-template" class="tribe-events-pg-template"
+feed_content: '<section id="tribe-events-pg-template" class="tribe-events-pg-template"
   role="main"> <div id="tribe-events-content" class="tribe-events-single"> <p class="tribe-events-back">
   <a href="https://itallhappenshere.org/events/"> « All Events</a></p> <h1 class="tribe-events-single-event-title">Family
   Prom: A Night to Believe in Magic!</h1> <div class="tribe-events-schedule tribe-clearfix">
@@ -77,19 +72,11 @@ original_content: '<section id="tribe-events-pg-template" class="tribe-events-pg
   tribe-events-meta-value"> <a href="https://itallhappenshere.org/" target="_self"
   rel="external">View Venue Website</a> </span> </li> </ul> </div> </div> </div> </div>
   </section>'
-original_markdown_body: "« All Events Family Prom: A Night to Believe in Magic!   February
-  28, 2026 @ 5:30 pm - 7:00 pm  $17    Step into a storybook evening at Family Prom.
-  This enchanted night is made for children and their favorite grown-ups to dance,
-  laugh, and create memories that will last happily ever after. Enjoy light refreshments,
-  explore our concessions, and celebrate your own fairytale ending together.  Fairytale
-  or Semi-Formal Attire Encouraged! Saturday, February 28 5:30 PM – 7:00 PM $17 Per
-  Person Located at Federal Way Community Center  Buy Tickets Here      Google Calendar
-  \    iCalendar     Outlook 365     Outlook Live        Details   Date:   February
-  28, 2026     Time:  5:30 pm - 7:00 pm    Cost:  $17    Event Category: Parks     Organizer
-  \  City of Federal Way Parks and Recreation    Phone   253–835–6900     View Organizer
-  Website         Venue   Federal Way Community Center     876 South 333rd Street
-  Federal Way, WA 98003 United States  + Google Map    Phone  253-835-6900     View
-  Venue Website"
+images: []
+location: Federal Way Community Center, 876 South 333rd Street, Federal Way, WA, 98003,
+  United States
+locations:
+- King County
 published: false
 source: Federal Way Community Center
 source_url: https://itallhappenshere.org/event/family-prom-a-night-to-believe-in-magic/

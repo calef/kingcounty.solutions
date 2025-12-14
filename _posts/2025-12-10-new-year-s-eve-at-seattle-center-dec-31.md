@@ -1,16 +1,12 @@
 ---
 date: '2025-12-10T19:40:41+00:00'
+feed_content: 'Note: Links below will open new windows. New Year’s Eve at the CenterPresented
+  by Alaska AirlinesA Night of Music, Light, Comedy, and Fireworks December 31, 2025
+  Seattle Center Armory, International Fountain, and Campus Grounds Join us for a
+  nigh...'
+feed_content_checksum: 5337767a3169d94068e5cb9b5a080f64f8dbdcc3
 images: []
 locations: []
-original_content: 'Note: Links below will open new windows. New Year’s Eve at the
-  CenterPresented by Alaska AirlinesA Night of Music, Light, Comedy, and Fireworks
-  December 31, 2025 Seattle Center Armory, International Fountain, and Campus Grounds
-  Join us for a nigh...'
-original_content_checksum: 5337767a3169d94068e5cb9b5a080f64f8dbdcc3
-original_markdown_body: 'Note: Links below will open new windows. New Year’s Eve at
-  the CenterPresented by Alaska AirlinesA Night of Music, Light, Comedy, and Fireworks
-  December 31, 2025 Seattle Center Armory, International Fountain, and Campus Grounds
-  Join us for a nigh...'
 published: false
 source: City of Seattle
 source_url: https://centerspotlight.seattle.gov/2025/12/10/new-years-eve-at-the-center-dec-31/

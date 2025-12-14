@@ -1,11 +1,6 @@
 ---
 end_date: '2025-12-15T22:00:00-08:00'
-images: []
-location: Tukwila City Hall – Council Chambers, 6200 Southcenter Blvd. , Tukwila,
-  98188, United States
-locations:
-- King County
-original_content: '<section class="page-layout interior-layout"> <div class="main-content-area
+feed_content: '<section class="page-layout interior-layout"> <div class="main-content-area
   events-template"> <div class="container"> <div id="tribe-events-pg-template" class="tribe-events-pg-template">
   <section id="tribe-events-pg-template" class="tribe-events-pg-template"> <div id="tribe-events-content"
   class="tribe-events-single"> <div class="tribe-events-series-relationship-single-marker
@@ -108,32 +103,11 @@ original_content: '<section class="page-layout interior-layout"> <div class="mai
   <span class="tribe-event-date-start">December 8 @ 7:00 pm</span> - <span class="tribe-event-time">10:00
   pm</span> </div> </li> </ul> </div> <p class="tribe-events-back"> <a href="https://www.tukwilawa.gov/events/"
   class="btn"> Back to events</a> </p> </div> </section> </div> </div> </div> </section>'
-original_markdown_body: 'Event Series:    City Council Regular Meeting    City Council
-  Regular Meeting   December 15 @ 7:00 pm - 10:00 pm     The meeting will be conducted
-  BOTH on-site at Tukwila City Hall and also virtually.    Regular Meetings are held
-  the first and third Mondays of each month at 7:00 p.m. at City Hall. At these meetings
-  the Council conducts general and routine business and adopts ordinances and resolutions.
-  At these meetings, the Mayor presides but does not vote unless it is to break a
-  tie.   THE PHONE NUMBER FOR THE PUBLIC TO PARTICIPATE IN THE MEETING IS:      To
-  listen, call:     1-253-292-9750,  Access Code 670077847# To view the meeting, join
-  at this link:      Join Microsoft Teams Meeting For Technical Support during the
-  meeting call:     1-206-433-7155.   Those wishing to provide public comments have
-  the ability to address the City Council both on-site at City Hall or via phone or
-  Microsoft Teams for up to 5 minutes for items both on and not on the agenda.  To
-  provide comment via phone or Microsoft Teams, please email citycouncil@tukwilawa.gov
-  with your name and topic by 5:00 p.m. on the meeting date. Please clearly indicate
-  that you would like to make public comment during the meeting, and you will receive
-  further instructions. See link for agenda packets:     http://records.tukwilawa.gov/WebLink8/1/fol/6806/Row1.aspx
-    SIGN UP TO RECEIVE LINKS TO COUNCIL, COMMITTEE, BOARDS & COMMISSION PACKETS ON
-  FRIDAYS:   https://www.tukwilawa.gov/departments/city-clerks-office/             Google
-  Calendar     iCalendar     Outlook 365     Outlook Live           Details    Date:   December
-  15     Time:   7:00 pm - 10:00 pm    Series:    City Council Regular Meeting    Event
-  Categories: City Council, Meeting     Organizer   City Clerk’s Office    Email   TukwilaCityClerk@tukwilawa.gov         Venue    Tukwila
-  City Hall – Council Chambers     6200 Southcenter Blvd.  Tukwila, 98188 United States  +
-  Google Map    Phone  206-433-1800       Related Events    Planning & Community Development
-  Committee December 8 @ 5:30 pm - 6:45 pm     Community Services & Safety Committee
-  December 8 @ 5:30 pm - 6:45 pm     City Council Committee of the Whole Meeting December
-  8 @ 7:00 pm - 10:00 pm       Back to events'
+images: []
+location: Tukwila City Hall – Council Chambers, 6200 Southcenter Blvd. , Tukwila,
+  98188, United States
+locations:
+- King County
 published: false
 source: City of Tukwila
 source_url: https://www.tukwilawa.gov/event/city-council-regular-meeting-21-2-2/2025-12-15/

@@ -2,12 +2,7 @@
 date: '2025-11-21T19:45:00+00:00'
 events: []
 events_extracted: true
-images:
-- 9a9d7a74882eee35b4fdf069f5a99d67debf50cdf77c1530475b42840b28c4bd
-- 6525220e0e2dd7742262d399ae154a8a3f3eb049101dbbd30cb4fa761cd7b799
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <p class="has-medium-font-size">MOU will memorialize government-to-government relations between the sovereign nation and state agency</p>
 
 
@@ -61,32 +56,11 @@ original_content: |-
 
 
   <p>To learn more and follow Commerce’s work with tribal nations and communities within Washington, visit the <a href="https://www.commerce.wa.gov/tribal-relations/">Office of Tribal Relations webpage</a>.</p>
-original_markdown_body: |-
-  MOU will memorialize government-to-government relations between the sovereign nation and state agency
-
-  SEATTLE, Wash. — The Jamestown S’Klallam Tribe and the Washington State Department of Commerce signed a historic memorandum of understanding (MOU) memorializing government-to-government relations between the Tribe and the agency. The agreement removes administrative barriers, improves communications, implements culturally appropriate data privacy and security measures, and more. Jamestown S’Klallam Tribal Chair W. Ron Allen and Commerce Director Joe Nguyễn signed the agreement in November.
-
-  ![Two men sign paperwork in an office.](https://www.commerce.wa.gov/wp-content/uploads/2025/11/Jamestown-SKlallam-MOU-1.png)
-
-  _Jamestown S’Klallam Tribal Chair W. Ron Allen and Commerce Director Joe Nguyễn signed the MOU on Nov. 20 in Seattle._
-
-  “The Jamestown S’Klallam Tribe is honored to sign this MOU commitment between the State Department of Commerce and our Tribe. It exhibits the respectful government-to-government relationship and improved collaboration between our governments and advances our vision of a stronger state and tribal economy while respecting and upholding our sovereignty,” said Ron Allen, CEO and Chairman of the Jamestown S’Klallam Tribe.
-
-  For thousands of years, the Jamestown S’Klallam (a Salish term for “The Strong People”) lived in villages along the north coast of the Olympic Peninsula. The second-largest employer in Clallam County, the Tribe has become a highly collaborative, well-respected partner in dozens of programs in the areas of economic development, health care, natural resources, cultural preservation, and the arts. Jamestown focuses on developing partnerships with local, state, and federal organizations and governments, as well as cultural education to these partners.&nbsp;
-
-  The MOU with the Jamestown S’Klallam Tribe is the twelfth such agreement Commerce has made with tribal governments. Commerce anticipates similar agreements with tribes within Washington in 2026.
-
-  “We are glad to enter into this agreement with the Jamestown S’Klallam Tribe. We recognize Jamestown S’Klallam’s continued presence as the strong people of a strong sovereign nation and their invaluable contributions to our state history, economy, and culture,” Commerce Director Joe Nguyễn said.
-
-  ![A group of people pose for a photo in an office.](https://www.commerce.wa.gov/wp-content/uploads/2025/11/Jamestown-SKlallam-MOU-2.png)
-
-  _Jamestown S’Klallam citizens and Department of Commerce employees gathered for the MOU signing in November in Seattle._
-
-  Commerce is committed to improving processes for applying for funding, streamlining and co-creating grant opportunities, and strengthening partnerships with tribal nations.
-
-  To learn more about the Jamestown S’Klallam Tribe, visit the [Tribe’s website](https://jamestowntribe.org/).
-
-  To learn more and follow Commerce’s work with tribal nations and communities within Washington, visit the [Office of Tribal Relations webpage](https://www.commerce.wa.gov/tribal-relations/).
+images:
+- 9a9d7a74882eee35b4fdf069f5a99d67debf50cdf77c1530475b42840b28c4bd
+- 6525220e0e2dd7742262d399ae154a8a3f3eb049101dbbd30cb4fa761cd7b799
+locations:
+- King County
 source: Department of Commerce
 source_url: https://www.commerce.wa.gov/the-jamestown-sklallam-tribe-commerce-sign-memorandum-of-understanding/
 summarized: true

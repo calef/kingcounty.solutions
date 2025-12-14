@@ -2,10 +2,7 @@
 date: '2025-11-04T20:46:00+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <p>Chelon Jackson is a child care provider who exemplifies what it means to provide high-quality early learning experiences. Chelon is the owner and preschool teacher at Lovable Nest, an in-home family child care center serving children from birth to age 5. She has been providing care for children in her community for over 30 years.</p>
 
 
@@ -120,52 +117,9 @@ original_content: |-
 
   <p></p>
   <p>The post <a href="https://www.brightspark.org/2025/11/committed-to-quality-care-chelons-story/">Committed to Quality Care: Chelon’s Story</a> appeared first on <a href="https://www.brightspark.org">BrightSpark</a>.</p>
-original_markdown_body: |-
-  Chelon Jackson is a child care provider who exemplifies what it means to provide high-quality early learning experiences. Chelon is the owner and preschool teacher at Lovable Nest, an in-home family child care center serving children from birth to age 5. She has been providing care for children in her community for over 30 years.
-
-  As a lifelong learner committed to offering excellent service, Chelon has never stopped elevating the quality of her care. Through her partnership with two of BrightSpark’s provider services programs, she has accessed resources and support to help her every step of the way.
-
-  ### **“Not Me, We”: Partnership with BrightSpark’s Early Learning Coaching Team**
-
-  Chelon participates in BrightSpark’s Early Learning Coaching Program, which offers 1:1 and group coaching opportunities covering topics such as curriculum development, environment creation, state licensing requirements, and best practices for small business ownership. Last year, BrightSpark’s Coaching Team served 2,400 providers across King and Pierce County.&nbsp;
-
-  Chelon was one of over 20 providers working with BrightSpark coaches last year to achieve an Early Achievers Quality Level 5 – the highest score possible!&nbsp;
-
-  “I have a really good relationship with my BrightSpark coach. She is awesome. We started off and I just didn’t feel like I wanted to do this, but for some reason she kept pushing me, saying ‘You got it! You got it!’ She gave me a lot of encouragement,” said Chelon. “Then we started the footwork.”
-
-  “She will come early in the morning or come during naptime. She’ll give me different ideas and say, ‘Let’s implement a little bit of this with that.’ But she always respected my decisions on anything I did and we always worked it out. It took a while to get to a 5, but we did it together as a team,” Chelon shared.&nbsp;
-
-  “I always had high-quality care, but it made me go further. If you really know who Chelon is in this Lovable Nest, I take things to another level,” Chelon reflected. “If you bring something to me, I’m going to sit and think about how I’m going to take it in a child’s way to make it work.”&nbsp;
-
-  **_Hear more about Chelon’s experience by watching the video below:_**
-
-  https://www.youtube.com/embed/hyulwDHZyiU?feature=oembed
-
-  ### **Specialized Support: Working with the Seattle Preschool Program**
-
-  The Seattle Preschool Program (SPP) is a holistic early learning option available to low-income families across the city of Seattle. It supports children’s school readiness through its evidence-based, nationally-accredited curriculum while supporting partnering child care providers with specialty coaching and resources for their programs.&nbsp;
-
-  There are over 100 SPP sites across the city, supporting a total of 2,500 children. BrightSpark supports over 10 different partner providers enrolled in SPP, all of which are in-home family child care centers such as Lovable Nest.&nbsp;
-
-  Chelon has been with the program for nine years, having started when the program was still a pilot. Since joining, BrightSpark’s SPP team has supported Chelon with specialized training opportunities, curriculum development, and family engagement.
-
-  “One day, all of the training [SPP provided] just clicked,” Chelon recalled. “I got it. I could implement what I learned into my Early Achievers work and my lessons, so it all came together in a circle. As far as the SPP team staff goes, they’re great! I can call them anytime and whatever I’m going through, they answer the phone and respond quickly.”&nbsp;
-
-  While SPP provides wrap-around support for children and providers, staff members are also there to help families with everything from health screenings to financial resources. “We have a consultant nurse. We have our staff members. If a family is in need or are just struggling, all I have to do is call one of the staff members and they are on it,” said Chelon.
-
-  **_Hear more about Chelon’s experience by watching the video below:_**
-
-  https://www.youtube.com/embed/wyUCmyt5kw0?feature=oembed
-
-  ### **A Passion for Connection**
-
-  For Chelon, the most rewarding part of her job is the relationships she forms with the children and the families she serves. “The families, the kids – you get a passion for what you’re doing,” said Chelon. “Yes, it has its challenging moments like any job, but it’s a passion and I love what I do, even after I’ve been doing this for 30 years.”
-
-  These relationships keep families coming back to Chelon and recommending Lovable Nest to friends and neighbors. “My parents will send another parent, or I’ll have a parent who happened to come back. For example, I have a parent whose first child is 17 and her youngest is 2. I took care of the 17-year-old and now I’m caring for the 2-year-old. And that tells me that this family really cared about my service,” Chelon shared.
-
-  “The most rewarding thing is when a child comes back to me and I can see the rewards I implemented into them. That is very humbling for me. I have several kids who have left me and then came back to say ‘hi’ and it makes me feel good.”
-
-  The post [Committed to Quality Care: Chelon’s Story](https://www.brightspark.org/2025/11/committed-to-quality-care-chelons-story/) appeared first on [BrightSpark](https://www.brightspark.org).
+images: []
+locations:
+- King County
 source: BrightSpark
 source_url: https://www.brightspark.org/2025/11/committed-to-quality-care-chelons-story/
 summarized: true

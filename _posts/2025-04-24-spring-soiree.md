@@ -2,10 +2,7 @@
 date: '2025-04-24T20:53:26+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- Eastside
-original_content: |-
+feed_content: |-
   <h1 style="text-align: center;"><img loading="lazy" decoding="async" class=" wp-image-11287 aligncenter" src="https://positiveplace.org/wp-content/uploads/2025/04/Spring-Soiree_2025-300x150.jpg" alt="" width="808" height="404" srcset="https://positiveplace.org/wp-content/uploads/2025/04/Spring-Soiree_2025-300x150.jpg 300w, https://positiveplace.org/wp-content/uploads/2025/04/Spring-Soiree_2025-768x384.jpg 768w, https://positiveplace.org/wp-content/uploads/2025/04/Spring-Soiree_2025-100x50.jpg 100w, https://positiveplace.org/wp-content/uploads/2025/04/Spring-Soiree_2025.jpg 800w" sizes="auto, (max-width: 808px) 100vw, 808px" /></h1>
   <h1 style="text-align: center;"><b data-olk-copy-source="MessageBody">Join us on Friday, May 16th, for the Spring Soiree, an evening of delicious food, games, and good cheer!</b></h1>
   <p>&nbsp;</p>
@@ -25,28 +22,9 @@ original_content: |-
   <p>&nbsp;</p>
   <p aria-hidden="true">
   <p>The post <a href="https://positiveplace.org/spring-soiree/">Spring Soiree!</a> appeared first on <a href="https://positiveplace.org">Boys &amp; Girls Clubs</a>.</p>
-original_markdown_body: "# ![](https://positiveplace.org/wp-content/uploads/2025/04/Spring-Soiree_2025-300x150.jpg)\n\n#
-  **Join us on Friday, May 16th, for the Spring Soiree, an evening of delicious food,
-  games, and good cheer!**\n\n&nbsp;\n\n#### The event supports Club youth in Kirkland,
-  Redmond, and Sammamish. You’ll learn what makes our Eastside Boys & Girls Clubs,
-  and our Club community, so special.\n\n#### \n\n#### Funds raised will support scholarships
-  for Eastside youth to attend the Club. Scholarships provide access to after-school
-  programs, athletics, and day camps, enabling kids to explore new interests and make
-  friends in a safe, fun, and supportive environment with trusted adult mentors.\n\n####
-  \n\n# [![Right arrow](https://statics.teams.cdn.office.net/evergreen-assets/personal-expressions/v2/assets/emoticons/27a1_blackrightwardsarrow/default/20_f.png?v=v9)
-  ![Right arrow](https://statics.teams.cdn.office.net/evergreen-assets/personal-expressions/v2/assets/emoticons/27a1_blackrightwardsarrow/default/20_f.png?v=v9)
-  ![Right arrow](https://statics.teams.cdn.office.net/evergreen-assets/personal-expressions/v2/assets/emoticons/27a1_blackrightwardsarrow/default/20_f.png?v=v9)
-  ![Right arrow](https://statics.teams.cdn.office.net/evergreen-assets/personal-expressions/v2/assets/emoticons/27a1_blackrightwardsarrow/default/20_f.png?v=v9)CLICK
-  HERE TO GET YOUR TICKETS! ![Left arrow](https://statics.teams.cdn.office.net/evergreen-assets/personal-expressions/v2/assets/emoticons/2b05_leftwardsblackarrow/default/20_f.png?v=v10)
-  ![Left arrow](https://statics.teams.cdn.office.net/evergreen-assets/personal-expressions/v2/assets/emoticons/2b05_leftwardsblackarrow/default/20_f.png?v=v10)
-  ![Left arrow](https://statics.teams.cdn.office.net/evergreen-assets/personal-expressions/v2/assets/emoticons/2b05_leftwardsblackarrow/default/20_f.png?v=v10)
-  ![Left arrow](https://statics.teams.cdn.office.net/evergreen-assets/personal-expressions/v2/assets/emoticons/2b05_leftwardsblackarrow/default/20_f.png?v=v10)](https://positiveplace.ejoinme.org/springsoiree2025)\n\n####
-  \n\n## Event Details\n\n##### When: Friday, May 16, 2025\n\n##### Where:&nbsp;[Woodmark
-  Hotel](https://www.thewoodmark.com/ \"https://www.thewoodmark.com/\")&nbsp;| 1200
-  Carilion Point, Kirkland\n\n##### Schedule of Activities:\n\n##### • 6pm – Registration
-  & Social Hour\n\n##### • 7pm – Dinner & Program\n\n##### • 9pm – Event ends\n\n&nbsp;\n\nThe
-  post [Spring Soiree!](https://positiveplace.org/spring-soiree/) appeared first on
-  [Boys & Girls Clubs](https://positiveplace.org)."
+images: []
+locations:
+- Eastside
 source: Boys & Girls Clubs of King County
 source_url: https://positiveplace.org/spring-soiree/
 summarized: true

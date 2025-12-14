@@ -1,15 +1,11 @@
 ---
 date: '2025-12-03T19:14:59+00:00'
+feed_content: Seattle Parks and Recreation’s Winter 2026 program brochures are here!
+  You’ll find all the in-person, drop in and virtual programs that are coming up soon
+  in the catalogs below. &#160; Registration opens on Tuesday, December 9, 2025 Ready
+  to enroll in ...
 images: []
 locations: []
-original_content: Seattle Parks and Recreation’s Winter 2026 program brochures are
-  here! You’ll find all the in-person, drop in and virtual programs that are coming
-  up soon in the catalogs below. &#160; Registration opens on Tuesday, December 9,
-  2025 Ready to enroll in ...
-original_markdown_body: Seattle Parks and Recreation’s Winter 2026 program brochures
-  are here! You’ll find all the in-person, drop in and virtual programs that are coming
-  up soon in the catalogs below. &nbsp; Registration opens on Tuesday, December 9,
-  2025 Ready to enroll in ...
 published: false
 source: City of Seattle
 source_url: https://parkways.seattle.gov/2025/12/03/winter-2026-recreation-brochure/

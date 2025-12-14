@@ -4,8 +4,6 @@ images: []
 location: ''
 locations:
 - King County
-original_markdown_body: Deadline for young people aged 10-25 in Washington to apply
-  for the HearMeWA Youth Advisory Group.
 published: false
 source: King County School Health
 source_url: https://kingcountyschoolhealthdotcom.wordpress.com/2025/12/09/2026-hearmewa-youth-advisory-group-recruitment/

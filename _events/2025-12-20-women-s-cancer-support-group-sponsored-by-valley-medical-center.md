@@ -1,10 +1,6 @@
 ---
 end_date: '2025-12-20T12:00:00-08:00'
-images: []
-location: "[ONLINE] Valley Medical Center"
-locations:
-- King County
-original_content: "<header> <div> <div><div> <div><div> <a>Lifeline</a> | 206.297.2500
+feed_content: "<header> <div> <div><div> <div><div> <a>Lifeline</a> | 206.297.2500
   | 1.800.255.5505 | <a>Lifeline Chat</a> </div></div> </div></div> </div> </header>
   <div> <div> <div> <div> <section> <div> <p> <a> « All Events</a> </p> <h1>Women’s
   Cancer Support Group Sponsored by Valley Medical Center</h1> <div> <div> <span>December
@@ -40,27 +36,11 @@ original_content: "<header> <div> <div><div> <div><div> <a>Lifeline</a> | 206.29
   Us</a></li> </ul> </div> </aside><aside><h3>Get Involved</h3> <div> <ul> <li><a>Ways
   to Give</a></li> <li><a>Volunteer with Us</a></li> <li><a>Donate Now</a></li> <li><a>Planned
   Giving</a></li> </ul> </div> </aside> </div> </div> </div> </div>"
-original_content_checksum: 53fdaf7a6b774c049dc29dd2d18a10f9e44718c5
-original_markdown_body: 'Lifeline | 206.297.2500 | 1.800.255.5505 | Lifeline Chat             «
-  All Events  Women’s Cancer Support Group Sponsored by Valley Medical Center   December
-  20 @ 10:00 am - 12:00 pm  PST     Event Series    (See All)       Once you hear
-  the words, “you have cancer,” everything in your life shifts and changes. Women
-  with any type of cancer diagnosis are welcome at these monthly groups, whether you
-  are newly diagnosed, working your way through treatment or just finishing treatment.
-  Join other women in a safe, confidential and non-judgmental environment to talk
-  and get support on all the different ways cancer impacts your life. Through educational
-  speakers and open discussion learn ways to help manage your cancer and not be managed
-  by your cancer. CLICK HERE TO REGISTER Need help getting registered? Having trouble
-  joining a class? Please call our Telephone Lifeline at 206-297-2500 M-F, 9am-5pm
-  or connect with us through our Online Lifeline Chat.         Google Calendar     iCalendar     Outlook
-  365     Outlook Live           Details    Date:   December 20     Time:   10:00
-  am - 12:00 pm PST    Series:    Women’s Cancer Support Group Sponsored by Valley
-  Medical Center    Event Category: Support Groups      Venue    [ONLINE] Valley Medical
-  Center     Organizer   Basha Brownstein, MSW                Info   6522 Fremont
-  Ave N Seattle, WA 98103   Monday through Friday 9:00 AM – 5:00 PM   [email protected]   Call
-  Us: 1-206-297-2100   I’m New   FAQ Classes Support Groups Programs & Services   About
-  Us   Team History Partnerships & Sponsors Jobs Privacy Policy Contact Us   Get Involved   Ways
-  to Give Volunteer with Us Donate Now Planned Giving'
+feed_content_checksum: 53fdaf7a6b774c049dc29dd2d18a10f9e44718c5
+images: []
+location: "[ONLINE] Valley Medical Center"
+locations:
+- King County
 source: Cancer Lifeline Financial Assistance for Cancer Patients
 source_url: https://cancerlifeline.org/event/womens-cancer-support-group-sponsored-by-valley-medical-center-3/2025-12-20/
 start_date: '2025-12-20T10:00:00-08:00'

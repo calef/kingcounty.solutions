@@ -1,9 +1,7 @@
 ---
 date: '2025-10-02T21:50:56+00:00'
-images: []
-locations: []
-original_content: "The Tribe seeks to retain the services of an experienced law firm
-  to provide legal services for a three-year term.\n\nThe successful respondent will,
+feed_content: "The Tribe seeks to retain the services of an experienced law firm to
+  provide legal services for a three-year term.\n\nThe successful respondent will,
   in accordance with the highest legal, ethical and professional standards, at the
   direction of the Tribal Council, provide legal services including but not limited
   to the following: business law, civil/litigation law, criminal law, environment
@@ -45,6 +43,8 @@ original_content: "The Tribe seeks to retain the services of an experienced law 
   questions regarding this RFP should be addressed to Amber Holloway through email
   at the above address.\n\n[Download the full RFP with additional information (PDF
   Format)](https://snoqualmietribe.us/wp-content/uploads/2025/10/Snoqualmie-Legal-Services-RFP.pdf)"
+images: []
+locations: []
 published: false
 source: Snoqualmie Indian Tribe
 source_url: https://snoqualmietribe.us/request-for-proposal-rfp-for-legal-services-for-the-snoqualmie-indian-tribe/

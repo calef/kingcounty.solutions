@@ -2,13 +2,7 @@
 date: '2025-04-15T00:06:17+00:00'
 events: []
 events_extracted: true
-images:
-- ae6c8345a8dcd5d1e911598e3c54523c867afe1e8a7401bc2333c50e20ba6c40
-- 402ba98ab8cce26b2046c1b543670893d0ab5c930e4ce1f978a9fa27ff127b5e
-- 6c5eb79264107e3f88d5bf16106f453701fd9eaba1851deb22cdcfb44e3368e8
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <p><img width="361" height="255" src="https://s14621.pcdn.co/wp-content/uploads/2025/04/SandPoint_GirlsReading_NS_02.2025_801x-361x255.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Two young girls behind a microphone reading from a picture book." decoding="async" srcset="https://s14621.pcdn.co/wp-content/uploads/2025/04/SandPoint_GirlsReading_NS_02.2025_801x-361x255.jpg 361w, https://s14621.pcdn.co/wp-content/uploads/2025/04/SandPoint_GirlsReading_NS_02.2025_801x-300x212.jpg 300w, https://s14621.pcdn.co/wp-content/uploads/2025/04/SandPoint_GirlsReading_NS_02.2025_801x-768x543.jpg 768w, https://s14621.pcdn.co/wp-content/uploads/2025/04/SandPoint_GirlsReading_NS_02.2025_801x.jpg 801w" sizes="(max-width: 361px) 100vw, 361px" data-attachment-id="68981" data-permalink="https://www.solid-ground.org/celebrating-a-diversity-of-cultures-at-sand-point-housing/sandpoint_girlsreading_ns_02-2025_801x/" data-orig-file="https://s14621.pcdn.co/wp-content/uploads/2025/04/SandPoint_GirlsReading_NS_02.2025_801x.jpg" data-orig-size="801,566" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;iPhone X&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1738863229&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;6&quot;,&quot;iso&quot;:&quot;100&quot;,&quot;shutter_speed&quot;:&quot;0.032258064516129&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="SandPoint_GirlsReading_(NS)_02.2025_801x" data-image-description="" data-image-caption="&lt;p&gt;Two young Sand Point residents read from &#8220;The boy who never gave up!&#8221;, an OHBD picture book in English and Tigrinya.&lt;/p&gt;
   " data-medium-file="https://s14621.pcdn.co/wp-content/uploads/2025/04/SandPoint_GirlsReading_NS_02.2025_801x-300x212.jpg" data-large-file="https://s14621.pcdn.co/wp-content/uploads/2025/04/SandPoint_GirlsReading_NS_02.2025_801x.jpg" /></p><p class="tmc-intro">On a recent evening at Solid Ground’s Sand Point Housing, a young boy leaned toward a microphone and hesitantly began to read aloud from a children’s book about butterfly migration <span data-contrast="auto">–</span> first in English and then in Arabic:</p>
   <p style="text-align: center;"><strong><em><span style="color: #4d5909;">“A long, long journey begins with one flap of the wings.&#8221;</span></em></strong></p>
@@ -42,67 +36,12 @@ original_content: |-
   <li><b><i><span data-contrast="auto"><span style="color: #595959;">Find all OHBD titles and order copies at</span> </span></i></b><a href="https://ohbd-rsgbooks.com/"><b><i><span data-contrast="none">Open Heart Big Dreams Bilingual Books</span></i></b></a><span style="color: #595959;"><b><i>. </i></b></span><span data-ccp-props="{}"> </span></li>
   <li><b><i><span data-contrast="auto"><span style="color: #595959;">Interested in partnering with Solid Ground? Email</span> </span></i></b><a href="mailto:simonem@solid-ground.org"><b><i><span data-contrast="none">simonem@solid-ground.org</span></i></b></a><span style="color: #595959;"><b><i>.</i></b> </span></li>
   </ul>The post <a href="https://www.solid-ground.org/celebrating-a-diversity-of-cultures-at-sand-point-housing/">Celebrating a diversity of cultures at Sand Point Housing</a> appeared first on <a href="https://www.solid-ground.org">Solid Ground</a>.
-original_markdown_body: |-
-  ![Two young girls behind a microphone reading from a picture book.](https://s14621.pcdn.co/wp-content/uploads/2025/04/SandPoint_GirlsReading_NS_02.2025_801x-361x255.jpg)
-
-  On a recent evening at Solid Ground’s Sand Point Housing, a young boy leaned toward a microphone and hesitantly began to read aloud from a children’s book about butterfly migration – first in English and then in Arabic:
-
-  **_“A long, long journey begins with one flap of the wings.”_**
-
-  “رحلة طويلة جدا تبدأ برفرفة واحدة من الأجنحة.”&nbsp;
-
-  Soon, more kids crowded behind the microphone, taking turns reading from colorful children’s books in Tigrinya, Spanish, and English. A mother stood and read from a book in Amharic. Meanwhile, other families listened as they played games, made crafts, and shared food.&nbsp;
-
-  This is the kind of magic that’s possible when kids have access to books that reflect their own cultures, languages, and identities. And it’s why Ellenore Angelidis founded [Open Hearts Big Dreams](https://openheartsbigdreams.org/) (OHBD), a nonprofit dedicated to improving worldwide children’s literacy by making sure kids have a chance to read books that speak to them.&nbsp;
-
-   ![A close up shot of several picture books spread across a table, the visible one in Amharic.](https://s14621.pcdn.co/wp-content/uploads/2025/04/SandPoint_Books_NS_02.2025.jpg)
-
-  Some of the Open Hearts Big Dreams titles donated to Sand Point Housing
-
-  “The stories out there may be great, but if you don’t see yourself in those stories, maybe you think, ‘I’m not important, I’m not seen,’” Ellenore says. “And if you’re an immigrant, you’re caught in between cultures, so it’s very important to feel that your new culture cherishes and respects your first culture.”&nbsp;
-
-  OHBD recently donated a collection of children’s titles in Amharic, Arabic, Spanish, and Tigrinya to Solid Ground’s [Sand Point Housing](https://www.solid-ground.org/our-impact/housing-homelessness/#sandpointhousing), where around 25% of residents identify as refugees or recent immigrants, many of them from East Africa. We celebrated the arrival of the new books in early February with readings by Sand Point residents and staff, food from Mexico and Ethiopia, and a variety of cultural activities, including an Ethiopian mancala game called Tegre. &nbsp;
-
-  “It’s really important to us that we celebrate all of the cultures represented at Sand Point, so getting these books was a great opportunity to get together to share stories and languages,” says Scott Moorhouse, Sand Point’s Children and Families Program Manager. “And the kids were so excited to get the books and show off their reading skills.”&nbsp;
-
-  OHBD also donated books to Solid Ground’s [Broadview Shelter and Transitional Housing](https://www.solid-ground.org/our-impact/housing-homelessness/#broadview), a safe refuge for people escaping domestic violence and homelessness with their children. Nearly 100 families stay at Broadview each year, including around 190 children.&nbsp;
-
-  The books from OHBD have their own story, going back more than a decade. That’s when Ellenore decided to raise money to build a children’s library in the Ethiopian city of Bahir Dar, where her youngest daughter, Leyla, was born. She quickly ran into a problem.&nbsp;
-
-  “What we learned is there are just not that many children’s books featuring African stories and African languages in the world,” Ellenore says. “Hearing that, we knew we needed to create these books.”&nbsp;
-
-   ![A woman and her teenage daughter hold a selection of colorful picture books infront of a map of the world.](https://s14621.pcdn.co/wp-content/uploads/2025/04/SandPoint_EllenoreAngelidis_Leyla_NS_02.2025.jpg)
-
-  Ellenore and her daughter, Leyla
-
-  In 2017, six years after she started working on literacy projects in Ethiopia, Ellenore founded Open Hearts Big Dreams as a standalone nonprofit organization that today publishes more than 175 children’s titles in 26 languages that are distributed all across the world.&nbsp;In Ethiopia alone, the organization has printed and distributed around 600,000 books in a variety of local languages with help from organizations like Ethiopia Reads, the World Bank, and WEEMA.
-
-  It has also launched internship and training programs and built several model libraries and a STEM lab.&nbsp;“Our goal was to create enough books for a small library, because two or three books isn’t going to change anything,” Ellenore says.&nbsp;
-
-  But while working to make sure every kid in Ethiopia can read stories in their own language, Ellenore kept hearing about communities in the U.S. that also need more multilingual children’s books – including right here at Sand Point.&nbsp;
-
-   ![A man with glasses and a blue jacket smiles as he reads from a comic book titled "Jember."](https://s14621.pcdn.co/wp-content/uploads/2025/04/SandPoint_ArturoValesquez_NS_02.2025.jpg)
-
-  Arturo Velasquez, a Residential Advocate at Solid Ground’s Sand Point Housing, reads from a Spanish-language book about an Ethiopian superhero.
-
-  So Ellenore, a member of the[University District Rotary Club](https://www.udrotary.org/), applied for a Rotary Community Service Grant to pay for a donation of books in the languages most commonly spoken at Sand Point. The titles are all produced by OHBD and include colorfully illustrated stories about migrating butterflies, endangered lions, the Tigrinya number system, and popular Ethiopian proverbs. It also includes a Spanish-language comic book about a young Ethiopian superhero.&nbsp;
-
-  “They definitely run the gamut, just like you would find in any library,” Ellenore says. “Some are funny, some are nonfiction, some are STEM (science, technology, engineering, and math). All the books are different, and we have as many topics as we have books.”&nbsp;
-
-  Ellenore, who is herself the daughter of immigrants, says it’s not good enough for children to have access to books – they should be able to read books with stories they can relate to.&nbsp;
-
-  All of the titles donated to Sand Point also include English translations. Ellenore says children’s books like these are an important tool to help kids learn about and embrace other cultures while they’re still young.&nbsp;
-
-  “The more we learn about each other in our earliest stages, the more likely we are to see others as part of us,” she says.
-
-  * * *
-
-  - **_Image at top: Two young Sand Point residents read from an OHBD picture book in English and Tigrinya, “The boy who never gave up!”_**
-  - **_Photos in this story by Neal Simpson._**
-  - **_Find all OHBD titles and order copies at_** [**_Open Heart Big Dreams Bilingual Books_**](https://ohbd-rsgbooks.com/) **_.&nbsp;_** &nbsp;
-  - **_Interested in partnering with Solid Ground? Email_** [**_simonem@solid-ground.org_**](mailto:simonem@solid-ground.org) **_._** &nbsp;
-
-  The post [Celebrating a diversity of cultures at Sand Point&nbsp;Housing](https://www.solid-ground.org/celebrating-a-diversity-of-cultures-at-sand-point-housing/) appeared first on [Solid Ground](https://www.solid-ground.org).
+images:
+- ae6c8345a8dcd5d1e911598e3c54523c867afe1e8a7401bc2333c50e20ba6c40
+- 402ba98ab8cce26b2046c1b543670893d0ab5c930e4ce1f978a9fa27ff127b5e
+- 6c5eb79264107e3f88d5bf16106f453701fd9eaba1851deb22cdcfb44e3368e8
+locations:
+- King County
 source: Solid Ground
 source_url: https://www.solid-ground.org/celebrating-a-diversity-of-cultures-at-sand-point-housing/
 summarized: true

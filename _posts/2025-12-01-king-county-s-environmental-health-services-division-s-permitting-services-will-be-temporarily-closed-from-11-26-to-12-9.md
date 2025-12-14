@@ -1,15 +1,11 @@
 ---
 date: '2025-12-01T14:26:57+00:00'
+feed_content: Check out King County’s article about how the Environmental Health Services
+  Division’s permitting services will be temporarily closed from Wednesday, November
+  26 at 4 PM through Tuesday, December 9 as we prepare to launch the Public Health
+  Permit Cente...
 images: []
 locations: []
-original_content: Check out King County’s article about how the Environmental Health
-  Services Division’s permitting services will be temporarily closed from Wednesday,
-  November 26 at 4 PM through Tuesday, December 9 as we prepare to launch the Public
-  Health Permit Cente...
-original_markdown_body: Check out King County’s article about how the Environmental
-  Health Services Division’s permitting services will be temporarily closed from Wednesday,
-  November 26 at 4 PM through Tuesday, December 9 as we prepare to launch the Public
-  Health Permit Cente...
 published: false
 source: City of Seattle
 source_url: https://buildingconnections.seattle.gov/2025/12/01/king-countys-environmental-health-services-divisions-permitting-services-will-be-temporarily-closed-from-11-26-to-12-9/

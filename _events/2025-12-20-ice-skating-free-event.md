@@ -1,13 +1,8 @@
 ---
 end_date: '2025-12-20T16:00:00+00:00'
-images: []
-location: Sno King Ice Arenas – Snoqualmie, 35323 Southeast Douglas Street, Snoqualmie,
-  WA, 98065
-locations:
-- King County
-original_content: <div id="page-container"> <div id="et-boc" class="et-boc"> <div
-  id="top-header"> <div class="container clearfix"> <div id="et-secondary-menu"> <ul
-  class="et-social-icons"> <li class="et-social-icon et-social-facebook"> <a href="https://www.facebook.com/EmpowerYouthNetwork/"
+feed_content: <div id="page-container"> <div id="et-boc" class="et-boc"> <div id="top-header">
+  <div class="container clearfix"> <div id="et-secondary-menu"> <ul class="et-social-icons">
+  <li class="et-social-icon et-social-facebook"> <a href="https://www.facebook.com/EmpowerYouthNetwork/"
   class="icon"> <span>Facebook</span> </a> </li> <li class="et-social-icon et-social-instagram">
   <a href="https://www.instagram.com/empoweryouthnetwork/" class="icon"> <span>Instagram</span>
   </a> </li> <li class="et-social-icon et-social-linkedin"> <a href="https://www.linkedin.com/company/empower-youth-network/"
@@ -100,34 +95,11 @@ original_content: <div id="page-container"> <div id="et-boc" class="et-boc"> <di
   title="Click to view a Google Map" target="_blank" rel="noreferrer noopener">+ Google
   Map</a> </address> </li> </ul> </div> </div> </div> </div> </section> </div> </div>
   </div> </div> </div> </div> </div> </div>
-original_markdown_body: 'Facebook     Instagram     LinkedIn     Contact Us          Select
-  Page                « All Events  Ice Skating – Free Event   December 20 @ 3:00
-  pm - 4:00 pm     Welcome to Ice Skating | A Free Youth Event organized by Empower
-  Youth Network! Looking for something fun to do over winter break? We’ve got just
-  the thing! On Saturday, December 20 from 3-4 p.m., middle school and high school
-  students are invited to join us for FREE at Sno King Ice Arena in Snoqualmie. For
-  even more fun, we encourage attendees to wear their favorite winter sweater/attire
-  to get into the spirit! Skates are provided at the rink.  Waiver form must be signed
-  by a parent or guardian in order to skate. Register Here.   *Waiver Instructions*
-  First Option: Enter email address. If you are already a member with Sno-King Ice
-  Arenas, it will ask you to log in and verify that their waiver is up to date. If
-  the waiver has not recently been updated, you will need to do that. If the waiver
-  is up to date, then you are done, as long as your child/children are under your
-  account. If they are not on your account, you will need to add your child/children’s
-  information. Second Option: Enter email address on the log in page. If you are not
-  a member, it will ask the parent/guardian to enter their information. When you hit
-  the “Next” button, you will be asked if you would like to add children. This is
-  where you will enter your child/children. This option is a two-step process because
-  the parent needs to enter their information and then add the child/children’s information.
-  Parents/Guardian Info: This event is only for youth. Parents and guardians are advised
-  to drop off youth to provide the youth with a safe space to interact peer to peer
-  with Empower Youth Network employee supervision. Please arrive by 4 p.m. for pick
-  up. Thank you! If your youth is in need of supervision, supports, or accommodations
-  please email maya@empoweryouthnetwork.org.         Google Calendar     iCalendar     Outlook
-  365     Outlook Live           Details    Date:   December 20     Time:   3:00 pm
-  - 4:00 pm     Event Category: Youth   Website:  https://EYN-SnoKing-FreeIceSkating.eventbrite.com       Venue    Sno
-  King Ice Arenas – Snoqualmie     35323 Southeast Douglas Street Snoqualmie, WA 98065  +
-  Google Map'
+images: []
+location: Sno King Ice Arenas – Snoqualmie, 35323 Southeast Douglas Street, Snoqualmie,
+  WA, 98065
+locations:
+- King County
 published: false
 source: Empower Youth Network
 source_url: https://empoweryouthnetwork.org/event/free-ice-skating-2025/

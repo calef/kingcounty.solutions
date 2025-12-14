@@ -2,12 +2,7 @@
 date: '2025-06-06T15:29:15+00:00'
 events: []
 events_extracted: true
-images:
-- e9c5d3095b56a91ee78a291e6072b5941200f913621a4e95cddefcfe1502bdbb
-locations:
-- King County
-original_content: "<p><img decoding=\"async\" class=\"aligncenter  wp-image-10879\"
-  src=\"https://www.cdhy.wa.gov/wp-content/uploads/2025/06/Meet-Ups-791x1024.png\"
+feed_content: "<p><img decoding=\"async\" class=\"aligncenter  wp-image-10879\" src=\"https://www.cdhy.wa.gov/wp-content/uploads/2025/06/Meet-Ups-791x1024.png\"
   alt=\"CDHY Interpreter HUB local meet ups flyer. \nSave the date for september 20,
   2025. 9am to 10:30am \" width=\"618\" height=\"800\" srcset=\"https://www.cdhy.wa.gov/wp-content/uploads/2025/06/Meet-Ups-200x259.png
   200w, https://www.cdhy.wa.gov/wp-content/uploads/2025/06/Meet-Ups-232x300.png 232w,
@@ -25,12 +20,10 @@ original_content: "<p><img decoding=\"async\" class=\"aligncenter  wp-image-1087
   center;\">CDHY Interpreter HUB will be hosting multiple locations around Washington
   to come and connect with your local DHH and interpreting community.</p>\n<p style=\"text-align:
   center;\">Stay tuned for more details about locations!</p>"
-original_markdown_body: "![CDHY Interpreter HUB local meet ups flyer. \nSave the date
-  for september 20, 2025. 9am to 10:30am ](https://www.cdhy.wa.gov/wp-content/uploads/2025/06/Meet-Ups-791x1024.png)\n\n###
-  **Becoming:**  \nConnection in the Community\n\nSave the Date! Saturday, September
-  20, 2025 | 9am to 10:30am\n\nCDHY Interpreter HUB will be hosting multiple locations
-  around Washington to come and connect with your local DHH and interpreting community.\n\nStay
-  tuned for more details about locations!"
+images:
+- e9c5d3095b56a91ee78a291e6072b5941200f913621a4e95cddefcfe1502bdbb
+locations:
+- King County
 source: Washington Center for Deaf and Hard of Hearing Youth
 source_url: https://www.cdhy.wa.gov/local-meet-ups/
 summarized: true

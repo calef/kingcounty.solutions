@@ -1,16 +1,12 @@
 ---
 date: '2025-12-10T23:07:20+00:00'
+feed_content: I’m extremely honored and grateful to continue in my role as Chief of
+  Police for the Seattle Police Department and for the amazing community that I have
+  come to care for here in Seattle. Public safety is a shared value, and our priorities
+  remain intact...
+feed_content_checksum: f2cde36a69656da98836ce8e4aa070a4c5ab3f19
 images: []
 locations: []
-original_content: I’m extremely honored and grateful to continue in my role as Chief
-  of Police for the Seattle Police Department and for the amazing community that I
-  have come to care for here in Seattle. Public safety is a shared value, and our
-  priorities remain intact...
-original_content_checksum: f2cde36a69656da98836ce8e4aa070a4c5ab3f19
-original_markdown_body: I’m extremely honored and grateful to continue in my role
-  as Chief of Police for the Seattle Police Department and for the amazing community
-  that I have come to care for here in Seattle. Public safety is a shared value, and
-  our priorities remain intact...
 published: false
 rss_guid: https://spdblotter.seattle.gov/?p=44660
 source: City of Seattle

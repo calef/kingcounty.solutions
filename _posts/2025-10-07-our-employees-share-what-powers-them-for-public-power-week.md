@@ -1,8 +1,6 @@
 ---
 date: '2025-10-07T15:50:26+00:00'
-images: []
-locations: []
-original_content: '<img width="150" height="150" src="https://powerlines.seattle.gov/wp-content/uploads/sites/17/2025/10/Powerlines-Featured-Images-12-150x150.png"
+feed_content: '<img width="150" height="150" src="https://powerlines.seattle.gov/wp-content/uploads/sites/17/2025/10/Powerlines-Featured-Images-12-150x150.png"
   class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom:
   5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy"
   srcset="https://powerlines.seattle.gov/wp-content/uploads/sites/17/2025/10/Powerlines-Featured-Images-12-150x150.png
@@ -12,12 +10,8 @@ original_content: '<img width="150" height="150" src="https://powerlines.seattle
   celebrate our collective mission: to provide safe, reliable, and affordable power
   to the communities we serve. From our field crews and engineers to our essential
   teams in customer service, finance, utility technology and beyond, each plays [&#8230;]'
-original_markdown_body: "![](https://powerlines.seattle.gov/wp-content/uploads/sites/17/2025/10/Powerlines-Featured-Images-12-150x150.png)Each
-  year, during the first full week of October, we join other public power utilities
-  across the country to celebrate our collective mission: to provide safe, reliable,
-  and affordable power to the communities we serve. From our field crews and engineers
-  to our essential teams in customer service, finance, utility technology and beyond,
-  each plays […]"
+images: []
+locations: []
 published: false
 source: City Light Bill Assistance Programs
 source_url: https://powerlines.seattle.gov/2025/10/07/our-employees-share-what-powers-them-for-public-power-week/

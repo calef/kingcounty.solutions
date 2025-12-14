@@ -1,10 +1,6 @@
 ---
 end_date: '2026-02-26T22:00:00-08:00'
-images: []
-location: Meany Hall (MNY)
-locations:
-- King County
-original_content: '<a href="#main-content" class="element-invisible element-focusable">Skip
+feed_content: '<a href="#main-content" class="element-invisible element-focusable">Skip
   to main content</a> <div class="l-page has-one-sidebar has-sidebar-first"> <div
   class="full-wrapper header"> <header class="l-header" role="banner"> <a href="#main-content"
   class="element-invisible element-focusable">Skip to main content</a> <div class="l-branding">
@@ -128,33 +124,10 @@ original_content: '<a href="#main-content" class="element-invisible element-focu
   T. Jones/Arnie Zane Company Instagram</a>| <a href="https://www.youtube.com/@BillTJonesArnieZaneCompany">Bill
   T. Jones/Arnie Zane Company YouTube</a> </div> </div> </div> </div> </div> </div>
   </div> </div> </div> </div>'
-original_markdown_body: 'Skip to main content    Skip to main content  Meany Center  Official
-  Site   Show Navigation Hide Navigation    My Account  Calendar                  fy26-bill-t-jones-hero.jpg             You
-  are here  Events & Tickets >Bill T. Jones/Arnie Zane Company     Bill T. Jones/Arnie
-  Zane Company Still/Here Feb 262026 — Feb 282026           Performance Dates    Thu
-  Feb 26 2026 8:00 PM   Fri Feb 27 2026 8:00 PM   Sat Feb 28 2026 8:00 PM      Buy
-  TicketsSubscribe Now    Venue   Meany Hall – Katharyn Alvord Gerlich Theater     ticket@uw.edu   (206)
-  543-4880   Get Directions      Share    Share on Facebook       Thirty years after
-  its historic premiere, the groundbreaking dance theater work by Bill T. Jones returns
-  to the stage. Created during the AIDS epidemic, Still/Here shatters boundaries between
-  the personal and the political, exemplifying a form of dance theater that is uniquely
-  American. At the heart of the piece are “survival workshops” Jones conducted with
-  people living with life-threatening illnesses. The participants are the essence
-  of the piece: their gestures inform the choreography, their words the lyrics, their
-  images the stage; they will always be Still/Here, and this work exists to honor
-  their strength.  An American Classic  — The New York Times Best Dance Performances
-  of 2024 — The New York Times                 Upcoming Site Maintenance This site
-  will undergo planned maintenance December 13–17. During this period, online ticket
-  purchases will be unavailable. To buy a ticket, please contact the ArtsUW Ticket
-  Office.  Contact Us    Subscriber Care Commitment We are committed to making your
-  Meany experience the best it can be.  LEARN MORE    Subscriber Extra Tickets Save
-  10% on additional tickets. Enjoy pre-sale access to special events.  Add Now    Accessibility
-  The University of Washington is committed to providing access, equal opportunity
-  and reasonable accommodation in its services, programs and activities for individuals
-  with disabilities.   Learn More              Watch       stillhere_teaser_trailer                Learn
-  More       About the Artist     Bill T. Jones/Arnie Zane Company Official Website|
-  Bill T. Jones/Arnie Zane Company Facebook| Bill T. Jones/Arnie Zane Company Instagram|
-  Bill T. Jones/Arnie Zane Company YouTube'
+images: []
+location: Meany Hall (MNY)
+locations:
+- King County
 published: false
 source: University of Washington
 source_url: https://meanycenter.org/tickets/2026-02/production/bill-t-jonesarnie-zane-company

@@ -2,10 +2,7 @@
 date: '2025-10-27T20:57:56+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: '<img width="150" height="150" src="https://powerlines.seattle.gov/wp-content/uploads/sites/17/2025/10/Powerlines-Featured-Images-13-150x150.png"
+feed_content: '<img width="150" height="150" src="https://powerlines.seattle.gov/wp-content/uploads/sites/17/2025/10/Powerlines-Featured-Images-13-150x150.png"
   class="webfeedsFeaturedVisual wp-post-image" alt="" style="display: block; margin-bottom:
   5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async" loading="lazy"
   srcset="https://powerlines.seattle.gov/wp-content/uploads/sites/17/2025/10/Powerlines-Featured-Images-13-150x150.png
@@ -16,12 +13,9 @@ original_content: '<img width="150" height="150" src="https://powerlines.seattle
   and contributions that employees with disabilities bring to our workforce. This
   year’s theme, “Celebrating Value and Talent,” underscores that inclusive access
   to meaningful work strengthens the entire [&#8230;]'
-original_markdown_body: "![](https://powerlines.seattle.gov/wp-content/uploads/sites/17/2025/10/Powerlines-Featured-Images-13-150x150.png)Communications
-  Intern Mya Vo and former Communications Intern Ally Hong contributed to this blog
-  post. October is National Disability Employment Awareness Month, a time to celebrate
-  the skills and contributions that employees with disabilities bring to our workforce.
-  This year’s theme, “Celebrating Value and Talent,” underscores that inclusive access
-  to meaningful work strengthens the entire […]"
+images: []
+locations:
+- King County
 source: City Light Bill Assistance Programs
 source_url: https://powerlines.seattle.gov/2025/10/27/city-lights-supported-employees-mark-national-disability-employment-awareness-month/
 summarized: true

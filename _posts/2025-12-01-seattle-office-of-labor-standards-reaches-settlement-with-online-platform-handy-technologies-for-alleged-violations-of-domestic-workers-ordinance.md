@@ -2,21 +2,15 @@
 date: '2025-12-01T16:13:53+00:00'
 events: []
 events_extracted: true
+feed_content: 'Nearly $136,000 in Remedies to 705 Workers For Immediate Release Contact:
+  Cynthia Santana/Communications Manager206-256-5219cynthia.santana@seattle.gov Seattle
+  Office of Labor Standards Reaches Settlement with Online Platform Handy Technologies
+  for Alleged Violations of Domestic Workers Ordinance Nearly $136,000 in Remedies
+  to 705 Workers Seattle, WA – (December 1, 2025) – The Office of Labor Standards
+  (OLS) investigated Handy [&#8230;]'
 images: []
 locations:
 - King County
-original_content: 'Nearly $136,000 in Remedies to 705 Workers For Immediate Release
-  Contact: Cynthia Santana/Communications Manager206-256-5219cynthia.santana@seattle.gov
-  Seattle Office of Labor Standards Reaches Settlement with Online Platform Handy
-  Technologies for Alleged Violations of Domestic Workers Ordinance Nearly $136,000
-  in Remedies to 705 Workers Seattle, WA – (December 1, 2025) – The Office of Labor
-  Standards (OLS) investigated Handy [&#8230;]'
-original_markdown_body: 'Nearly $136,000 in Remedies to 705 Workers For Immediate
-  Release Contact: Cynthia Santana/Communications Manager206-256-5219cynthia.santana@seattle.gov
-  Seattle Office of Labor Standards Reaches Settlement with Online Platform Handy
-  Technologies for Alleged Violations of Domestic Workers Ordinance Nearly $136,000
-  in Remedies to 705 Workers Seattle, WA – (December 1, 2025) – The Office of Labor
-  Standards (OLS) investigated Handy […]'
 published: false
 source: City of Seattle
 source_url: https://news.seattle.gov/2025/12/01/seattle-office-of-labor-standards-reaches-settlement-with-online-platform-handy-technologies-for-alleged-violations-of-domestic-workers-ordinance/

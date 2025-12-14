@@ -1,8 +1,6 @@
 ---
 date: '2025-12-01T13:26:32+00:00'
-images: []
-locations: []
-original_content: "<div class=\"editor clearfix\">\n\n    \n    <p>One of DAV’s greatest
+feed_content: "<div class=\"editor clearfix\">\n\n    \n    <p>One of DAV’s greatest
   strengths is helping veterans with world-class services no matter where they are
   in the country.</p>\n<p>This network of support comes from our benefits advocates—our
   national service officers—spread throughout the country.</p>\n<p>We also see it
@@ -86,64 +84,8 @@ original_content: "<div class=\"editor clearfix\">\n\n    \n    <p>One of DAV’
   bit of time and planning.</p>\n\n</div><p>The post <a href=\"https://www.dav.org/learn-more/news/2025/columbia-trust-funding-success-begins-with-the-afr-tips-for-departments-and-chapters/\">Columbia
   Trust funding success begins with the AFR: Tips for departments and chapters </a>
   appeared first on <a href=\"https://www.dav.org\">DAV</a>.</p>"
-original_markdown_body: |-
-  One of DAV’s greatest strengths is helping veterans with world-class services no matter where they are in the country.
-
-  This network of support comes from our benefits advocates—our national service officers—spread throughout the country.
-
-  We also see it in what you, our members, do for veterans—food pantries, medical equipment distribution, the DAV Transportation Network, chapter outreach events and more.
-
-  These initiatives succeed because they’re organized and run by you. As members and citizens of your community, you know your areas and your veterans better than anyone; what’s needed in rural Iowa is different than downtown Pittsburgh. The challenges in Montana are different than Florida.
-
-  Addressing local needs with local solutions makes sense.
-
-  But when a good initiative faces financial challenges, help is available through the DAV National Service Foundation’s Columbia Trust. This trust focuses resources where they’re needed most.
-
-  It’s a powerful resource.
-
-  But as French philosopher Voltaire (and also Spider-Man’s uncle) said: With great power comes great responsibility.
-
-  This money isn’t automatically distributed. Every year in April, the Foundation begins accepting applications from chapters and departments for the Columbia Trust. These requests are verified, vetted and validated by the Foundation’s board of directors. (You can learn more about that process [here](https://nsf.dav.org/columbia-trust/questions-answers/).)
-
-  A department or chapter in need that’s **in good standing** can receive funds to carry out its initiatives if the board approves the request.
-
-  Those initiatives are your “great power.” You know the veterans’ needs in your area, you know how to meet those needs, and—with funding and a charter—you have the means and support to carry out those initiatives in DAV’s name.
-
-  “In good standing” is where your great responsibility comes in—and where we need to take a deeper look.
-
-  Whether you’re a department or chapter leader now or a member-at-large, the following information can be of benefit to you.
-
-  **In good standing**
-
-  When it comes to requesting Columbia Trust funds, the application that spells out the need and your plan is only one point of consideration for the Foundation’s board.
-
-  They also verify whether your department or chapter needs the funds and is in good standing. That’s determined by reviewing your department or chapter’s most recent Annual Financial Report (AFR).
-
-  The AFR is one of the most important documents your department or chapter must submit to national headquarters. It’s a detailed financial picture that accounts for all your assets and expenses. (If you have any questions about what those assets or expenses are, the [AFR Instructions](https://www.dav.org/wp-content/uploads/Annual_Financial_Report_Kit.pdf) provide excellent definitions.) It also shows our donors and partners that DAV’s resources are managed responsibly nationwide.
-
-  As its name indicates, the AFR is due annually after the financial reporting year ends on June 30. The final submission deadline is Sept. 30. Anything submitted later means your department or chapter will have its charter suspended and be deemed not in good standing.
-
-  When a charter is suspended, the Columbia Trust grant request process halts, potentially jeopardizing the programs and services you provide veterans in your area.
-
-  **Don’t fret**
-
-  Filing an AFR isn’t just about paperwork—it’s how we demonstrate accountability and protect DAV’s ability to serve veterans nationwide. We (and the IRS) need to see how funds are managed to ensure they align with our mission and that we’re being good stewards of donations.
-
-  Yes, a cursory look through the AFR instructions may make the accounting seem daunting or overwhelming.
-
-  But there’s hope. Implementing a few simple habits and routines will make filing the AFR go much smoother:
-
-  - **<u>Create and review a budget</u>** – Creating a budget makes you think through what you plan on spending your money on. Some of these items, like building rent, are recurring or fixed expenses. Some are occasional or fluctuating expenses, like printing brochures. Reviewing your budget at least monthly allows you to check to see if your plan lines up with what actually happened. You can catch discrepancies quickly as well as make adjustments that accurately reflect your department or chapter’s spending requirements.
-  - **<u>Record expenses and income promptly</u>** – Your budget is only as good as the information you feed it. Received a donation? Record it as soon as possible. Bought paper for the office printer? Get a receipt and record it in your budget. Reconcile what comes in and what goes out as often as necessary, ideally weekly, but at least monthly.
-  - **<u>Use checklists</u>** – The [AFR instructions](https://www.dav.org/wp-content/uploads/Annual_Financial_Report_Kit.pdf) have detailed checklists to make sure your AFR contains the right information, including a detailed breakdown of each line item. This checklist can help you build your monthly budget to match what needs to be submitted up to the national organization.
-  - **<u>Don’t procrastinate</u>** – It’s easy to let these records get away from you if you don’t stay on top of them. But, catching back up after missing a week or a month is much easier than letting that turn into a two-, three-, or six-month backlog. Set calendar reminders to devote time to the task. Ask a fellow member with accounting experience for help.
-  - **<u>Investigate discrepancies immediately</u>** – If you find an error, find its cause and fix it right away. The AFR must be in balance, meaning the amounts have to line up and match what’s listed. It’s much harder to resolve an error from months ago than it is to resolve an error that occurred only a few days prior.
-
-  An AFR should never be prepared in haste. It requires ongoing attention, and the more frequently you give that attention, the less headaches you’ll have. Also, it’s important to remember that all departments and chapters must file an AFR regardless of the amount of gross income they have—even those with no income to report must file one.
-
-  Veterans rely on your departments and chapters for the help they need. Losing the ability to provide that help because of unfiled paperwork is one of the most preventable setbacks. It just takes a little bit of time and planning.
-
-  The post [Columbia Trust funding success begins with the AFR: Tips for departments and chapters&nbsp;](https://www.dav.org/learn-more/news/2025/columbia-trust-funding-success-begins-with-the-afr-tips-for-departments-and-chapters/) appeared first on [DAV](https://www.dav.org).
+images: []
+locations: []
 published: false
 source: Disabled American Veterans
 source_url: https://www.dav.org/learn-more/news/2025/columbia-trust-funding-success-begins-with-the-afr-tips-for-departments-and-chapters/

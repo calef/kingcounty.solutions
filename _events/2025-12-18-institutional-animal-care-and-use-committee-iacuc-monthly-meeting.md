@@ -1,10 +1,6 @@
 ---
 end_date: '2025-12-18T17:00:00-08:00'
-images: []
-location: 3939 15th Ave NE Seattle, WA 98105
-locations:
-- King County
-original_content: '<article id="post-1083" class="post-1083 page type-page status-publish
+feed_content: '<article id="post-1083" class="post-1083 page type-page status-publish
   hentry"> <header class="entry-header"> <h1 class="entry-title">IACUC Meeting Schedule
   and Agenda</h1> </header> <div class="entry-content"> <p>The IACUC meets monthly
   and meetings are open to the public. Below you will find the schedule and public
@@ -41,31 +37,10 @@ original_content: '<article id="post-1083" class="post-1083 page type-page statu
   contact the <a href="https://hr.uw.edu/dso/">Disability Services Office</a> at least
   ten days in advance at: 206.543.6450/V, 206.543.6452/TTY, 206.685.7264 (FAX), or
   e-mail at <a href="mailto:dso@uw.edu">dso@uw.edu</a>.</p> </div> </article>'
-original_markdown_body: 'IACUC Meeting Schedule and Agenda   The IACUC meets monthly
-  and meetings are open to the public. Below you will find the schedule and public
-  viewing location for upcoming meetings, as well as instructions for how to provide
-  public comments during a meeting. Public Viewing Location Members of the public
-  can attend the IACUC meeting location at the UW Police Department Building’s Public
-  Meeting Room (3939 15th Ave NE Seattle, WA 98105). via Zoom https://washington.zoom.us/j/94968988107
-  Dial in phone numbers: US West: +1 253 215 8782 US: +1 206 337 9723 Meeting ID:
-  949 6898 8107 Agenda for November 20th  Public Comments Confirmation of a Quorum
-  Approval of October 2025 Meeting Minutes Attending Veterinarian Report OAW Director’s
-  Report Policy Standard Procedures Exemptions     Meeting Dates Time   November 20,
-  2025 2:30 – 5:00 PM   December 18, 2025 2:30 – 5:00 PM   January 15, 2026 2:30 –
-  5:00 PM   February 19, 2026 2:30 – 5:00 PM   March 19, 2026 2:30 – 5:00 PM   April
-  16, 2026 2:30 – 5:00 PM    The Zoom platform requires all users to provide a name
-  and email upon logging in to the meeting. This information is neither requested
-  nor validated by UW. Public Comment Period A ten-minute public comment period will
-  be provided at the beginning of each regular meeting of the committee. Speakers
-  will be allowed up to two minutes each for their comments with preference given
-  to those who sign up in advance, with a maximum of five speakers. Sign up to provide
-  public comment by submitting an email to iacucspeakers@uw.edu. Sign-up opens 7 days
-  prior to the next scheduled meeting. Accommodation The University of Washington
-  is committed to providing access, equal opportunity and reasonable accommodation
-  in its services, programs, activities, education and employment for individuals
-  with disabilities. To request disability accommodation, contact the Disability Services
-  Office at least ten days in advance at: 206.543.6450/V, 206.543.6452/TTY, 206.685.7264
-  (FAX), or e-mail at dso@uw.edu.'
+images: []
+location: 3939 15th Ave NE Seattle, WA 98105
+locations:
+- King County
 published: false
 source: University of Washington
 source_url: https://sites.uw.edu/oawrss/iacuc/iacuc-meeting-schedule-and-agenda/

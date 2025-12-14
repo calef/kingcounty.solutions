@@ -2,19 +2,15 @@
 date: '2025-11-13T16:37:17-08:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div
+feed_content: <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div
   class="field-items"><div class="field-item even" property="content:encoded"><p>Over
   the past week, Mercer Islanders have voiced concern to the City of Mercer Island’s
   Department of Youth and Family Services (YFS) about the threat to food security
   caused by the reduction in SNAP (Supplemental Nutrition Assistance Program) distributions
   due to the prolonged shutdown of the federal government.  </p></div></div></div>
-original_markdown_body: Over the past week, Mercer Islanders have voiced concern to
-  the City of Mercer Island’s Department of Youth and Family Services (YFS) about
-  the threat to food security caused by the reduction in SNAP (Supplemental Nutrition
-  Assistance Program) distributions due to the prolonged shutdown of the federal government.&nbsp;&nbsp;
+images: []
+locations:
+- King County
 source: City of Mercer Island
 source_url: https://www.mercerisland.gov/yfs/page/yfs-accepting-donations-help-island-residents-experiencing-food-insecurity
 summarized: true

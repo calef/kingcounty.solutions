@@ -2,10 +2,7 @@
 date: '2025-06-12T17:17:23+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: |-
+feed_content: |-
   ![](https://encompassnw.org/wp-content/uploads/2025/06/SensoryAdventures_square2-300x300.png) **As summer approaches, many parents and caregivers begin the search for the perfect day camp to provide children with a fun, enriching experience. For families of children with neurodiverse profiles or who face challenges in more traditional camp settings, this search can feel particularly daunting. The right environmental fit can make all the difference between a summer filled with joy or one of stress and frustration. Encompass is excited to offer a unique day camp experience through our Sensory Adventures Therapeutic Immersion Camp.**
 
   At Sensory Adventures Camp, children aged 5-8 who may not thrive in typical camp environments are given a safe, supportive, and therapeutic space to be seen, heard, and valued. Our pediatric therapy team understands the significance of meeting children where they are emotionally and developmentally. Many traditional camps simply aren’t equipped to provide the individualized support that children with mental health, speech, or occupational challenges need.
@@ -61,6 +58,9 @@ original_content: |-
   For more information, please reach out to Megan Walsh, Encompass Mental Health Director, at megan.walsh@encompassnw.org
 
   The post [Sensory Adventures: The Therapeutic Summer Day Camp Your Child Deserves](https://encompassnw.org/sensory-adventures-the-therapeutic-summer-day-camp-your-child-deserves/) first appeared on [Encompass](https://encompassnw.org).
+images: []
+locations:
+- King County
 source: Encompass
 source_url: https://encompassnw.org/sensory-adventures-the-therapeutic-summer-day-camp-your-child-deserves/
 summarized: true

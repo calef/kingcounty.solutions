@@ -1,10 +1,6 @@
 ---
 end_date: '2025-12-14T17:00:00-08:00'
-images: []
-location: Foster High’s Performing Arts Center, 4242 S 144th St, Tukwila, 98188
-locations:
-- King County
-original_content: "<section class=\"page-layout interior-layout\"> <div class=\"main-content-area
+feed_content: "<section class=\"page-layout interior-layout\"> <div class=\"main-content-area
   events-template\"> <div class=\"container\"> <div id=\"tribe-events-pg-template\"
   class=\"tribe-events-pg-template\"> <section id=\"tribe-events-pg-template\" class=\"tribe-events-pg-template\">
   <div id=\"tribe-events-content\" class=\"tribe-events-single\"> <div class=\"tribe-events-series-relationship-single-marker
@@ -121,36 +117,10 @@ original_content: "<section class=\"page-layout interior-layout\"> <div class=\"
   6 @ 11:00 am</span> - <span class=\"tribe-event-time\">1:00 pm</span> </div> </li>
   </ul> </div> <p class=\"tribe-events-back\"> <a href=\"https://www.tukwilawa.gov/events/\"
   class=\"btn\"> Back to events</a> </p> </div> </section> </div> </div> </div> </section>"
-original_markdown_body: "Event Series:    Rainier Symphony Concert    Rainier Symphony
-  Concert   December 14 @ 3:00 pm - 5:00 pm     Program for Rainier Symphony: Season
-  2025/2026 \U0001F4B2Buy tickets here:  https://www.rainiersymphony.org/tickets.shtml
-  __________________________________________ Classics Concert Saturday, October 4
-  – 6:30 pm Sunday, October 5 – 3:00 pm    Ludwig van Beethoven Overture to Egmont
-  \  Florence Price Adoration   Béla Bartók Romanian Folk Dances   Claude Debussy
-  Claire de lune, arr. André Caplet   Felix Mendelssohn Symphony No. 4      Classics
-  Concert Sunday, November 16 – 3:00 pm One performance only!    Alexander Borodin
-  In the Steppes of Central Asia   Ralph Vaughan Williams The Lark Ascending   Jean
-  Sibelius Symphony No. 2      Holiday Concert Saturday, December 13 – 6:30 pm Sunday,
-  December 14 – 3:00 pm    Bill Holcombe ‘Twas the Night Before Christmas   Engelbert
-  Humperdinck Prelude to Hansel and Gretel   Glenn Ballard The Polar Express   Leroy
-  Anderson A Christmas Festival   Howard Blake The Snowman   Leroy Anderson Sleigh
-  Ride    Plus performances by students of the Foster High School Concert Choir!  
-  Classics Concert Saturday, February 21 – 6:30 pm Sunday, February 22 – 3:00 pm    Samuel
-  Coleridge-Taylor The Bamboula   Ignaz Lachner Concertino for Horn and Bassoon   Edward
-  Elgar Enigma Variations      Classics Concert Saturday, April 18 – 6:30 pm Sunday,
-  April 19 – 3:00 pm    Cécile Chaminade Callirhoë, Op.37 Suite for Orchestra   Carl
-  Nielsen Concerto for Flute   Pyotr Ilyich Tchaikovsky Symphony No. 4      Symphonic
-  Pops! Saturday, May 30 – 6:30 pm Sunday, May 31 – 3:00 pm More details on this concert
-  will be announced soon! ________________________________________________________________________
-  Support Rainier Symphony Your donation helps keep classical music alive and affordable
-  in South Sound communities.             Google Calendar     iCalendar     Outlook
-  365     Outlook Live           Details    Date:   December 14     Time:   3:00 pm
-  - 5:00 pm    Series:    Rainier Symphony Concert    Event Category: Community Event
-  \     Venue    Foster High’s Performing Arts Center     4242 S 144th St Tukwila,
-  98188  + Google Map       Related Events    Seafood City Late Night Madness December
-  5 @ 8:00 pm - 11:00 pm     Free Dental Clinic for Kids Eligible for Apple Health/Medicaid
-  December 6 @ 8:00 am - 2:00 pm     Westfield Southcenter – Frosty’s Friends Scavenger
-  Hunt & Kids’ Crafts December 6 @ 11:00 am - 1:00 pm       Back to events"
+images: []
+location: Foster High’s Performing Arts Center, 4242 S 144th St, Tukwila, 98188
+locations:
+- King County
 published: false
 source: City of Tukwila
 source_url: https://www.tukwilawa.gov/event/rainier-symphony-concert-2/2025-12-14/

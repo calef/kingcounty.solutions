@@ -1,19 +1,13 @@
 ---
 date: '2025-12-03T16:12:45+00:00'
-images: []
-locations: []
-original_content: 'For Immediate Release Contact: Cynthia SantanaCommunications Manager206-256-5219cynthia.santana@seattle.gov
+feed_content: 'For Immediate Release Contact: Cynthia SantanaCommunications Manager206-256-5219cynthia.santana@seattle.gov
   Seattle Office of Labor Standards Announces Settlement with Amazon Flex for Violations
   of Gig Worker and App-Based Worker Protections $3,777,924.10 Returned to 10,968
   Workers Seattle, WA – (December 3, 2025)- The Seattle Office of Labor Standards
   (OLS) investigated Amazon Logistics, Inc. (dba Amazon Flex) for alleged violations
   of [&#8230;]'
-original_markdown_body: 'For Immediate Release Contact: Cynthia SantanaCommunications
-  Manager206-256-5219cynthia.santana@seattle.gov Seattle Office of Labor Standards
-  Announces Settlement with Amazon Flex for Violations of Gig Worker and App-Based
-  Worker Protections $3,777,924.10 Returned to 10,968 Workers Seattle, WA – (December
-  3, 2025)- The Seattle Office of Labor Standards (OLS) investigated Amazon Logistics,
-  Inc. (dba Amazon Flex) for alleged violations of […]'
+images: []
+locations: []
 published: false
 source: City of Seattle
 source_url: https://news.seattle.gov/2025/12/03/seattle-office-of-labor-standards-announces-settlement-with-amazon-flex-for-violations-of-gig-worker-and-app-based-worker-protections/

@@ -1,8 +1,6 @@
 ---
 date: '2025-11-14T18:00:37+00:00'
-images: []
-locations: []
-original_content: "<p>Surreal stories, character studies, family sagas and more await
+feed_content: "<p>Surreal stories, character studies, family sagas and more await
   you in November&#8217;s new releases. </p>\r\n\r\n\r\n\r\n<p>11/4: <a href=\"https://seattle.bibliocommons.com/v2/record/S30C4089587\"><strong>Bitter
   Honey</strong></a> by Lolá Ákínmádé </p>\r\n<p>In 1978, Nancy immigrates from Gambia
   to Sweden; in 2006, Nancy’s daughter Tina is representing Sweden at the Eurovision
@@ -187,74 +185,8 @@ original_content: "<p>Surreal stories, character studies, family sagas and more 
   Many Souls as Stars</strong></a> by Natasha Siegel </p>\r\n<p>Beginning in 1592
   and spanning centuries, a witch and a demon match wits over the fate of a powerful
   soul. (fantasy) </p>\r\n\r\n\r\n\r\n<p><em>~ posted by Andrea G.</em></p>"
-original_markdown_body: |-
-  Surreal stories, character studies, family sagas and more await you in November’s new releases.&nbsp;
-
-  11/4:&nbsp;[**Bitter Honey**](https://seattle.bibliocommons.com/v2/record/S30C4089587)&nbsp;by&nbsp;Lolá&nbsp;Ákínmádé&nbsp;
-
-  In 1978, Nancy immigrates from Gambia to Sweden; in 2006, Nancy’s daughter Tina is representing Sweden at the Eurovision contest. But&nbsp;long buried&nbsp;secrets and a complicated mother-daughter relationship&nbsp;threaten to upend&nbsp;both their lives. (general fiction)&nbsp;
-
-  11/4:&nbsp;[**Cursed Daughters**](https://seattle.bibliocommons.com/v2/record/S30C4088736)&nbsp;by&nbsp;Oyinkan&nbsp;Braithwaite&nbsp;
-
-  Eniiyi&nbsp;has grown up with two shadows: the family curse that no woman in her family will find lasting love, and the belief that she is the reincarnation of her cousin. Can&nbsp;Eniiyi&nbsp;work with the superstitions instead of against them to break free? (general fiction)&nbsp;
-
-  11/4:&nbsp;[**The Eleventh Hour**](https://seattle.bibliocommons.com/v2/record/S30C4089592)&nbsp;by Salman Rushdie&nbsp;
-
-  A collection of five stories set across India, England, and the United States examines how we live when death is near. (general fiction)&nbsp;
-
-  11/4:&nbsp;[**The Land in Winter**](https://seattle.bibliocommons.com/v2/record/S30C4087763)&nbsp;by Andrew Miller&nbsp;
-
-  In 1962, two married couples in which the wives are pregnant face down a harsh incoming winter in the English countryside as previously sound marriages begin to crack. (general fiction)&nbsp;
-
-  [![](https://i0.wp.com/blog.spl.org/wp-content/uploads/2025/11/lightbreakers.jpg?fit=199%2C300&ssl=1)](https://blog.spl.org/2025/11/14/new-fiction-roundup-november-2025/lightbreakers/)[![](https://i0.wp.com/blog.spl.org/wp-content/uploads/2025/11/things-and-thoughts.jpg?fit=194%2C300&ssl=1)](https://blog.spl.org/2025/11/14/new-fiction-roundup-november-2025/things-and-thoughts/)[![](https://i0.wp.com/blog.spl.org/wp-content/uploads/2025/11/evensong.png?fit=200%2C300&ssl=1)](https://blog.spl.org/2025/11/14/new-fiction-roundup-november-2025/evensong/)[![](https://i0.wp.com/blog.spl.org/wp-content/uploads/2025/11/seascraper.jpg?fit=187%2C300&ssl=1)](https://blog.spl.org/2025/11/14/new-fiction-roundup-november-2025/seascraper/)[![](https://i0.wp.com/blog.spl.org/wp-content/uploads/2025/11/the-year-of-the-wind.jpg?fit=200%2C300&ssl=1)](https://blog.spl.org/2025/11/14/new-fiction-roundup-november-2025/the-year-of-the-wind/)[![](https://i0.wp.com/blog.spl.org/wp-content/uploads/2025/11/only-son.jpg?fit=200%2C300&ssl=1)](https://blog.spl.org/2025/11/14/new-fiction-roundup-november-2025/only-son/)
-
-  11/4:&nbsp;[**Lightbreakers**](https://seattle.bibliocommons.com/v2/record/S30C4087765)&nbsp;by Aja Gabel&nbsp;
-
-  A married couple is happy, but haunted by losses from the past. A top-secret project gives them the ability to revisit the past, but each must decide if it is a mechanism to deal with their grief, or if it will subsume their future. (general fiction)&nbsp;
-
-  11/4:&nbsp;[**Only Son**](https://seattle.bibliocommons.com/v2/record/S30C4088749)&nbsp;by Kevin Moffett&nbsp;
-
-  A man – himself an only child, and now the father to an only son – embraces the absurd and the serious as he reflects on childhood and fatherhood.&nbsp;
-
-  11/4:&nbsp;**[Seascraper](https://seattle.bibliocommons.com/v2/record/S30C4087769)&nbsp;**by Benjamin Wood&nbsp;
-
-  A young man who works gathering shrimp in Northern England is shaken from his day-to-day when an American arrives in town and enlists Thomas as a location scout, prompting Thomas to envision a different future for himself. (general fiction)&nbsp;
-
-  11/4:&nbsp;**[(Th)ings&nbsp;and (Th)oughts](https://seattle.bibliocommons.com/v2/record/S30C4094102)&nbsp;**by&nbsp;Alla&nbsp;Gorbunova, translated by Elina Alter&nbsp;
-
-  Russian author Gorbunova presents a collection of linked satirical stories that twist fairytales into new shapes. (general fiction)&nbsp;
-
-  11/4:&nbsp;[**The Year of the Wind**](https://seattle.bibliocommons.com/v2/record/S30C4094105)&nbsp;by Karina Pacheco Medrano, translated by Mara Faye Lethem&nbsp;
-
-  Nina, a Peruvian writer, revisits her youth in the 1980s during the time of the Shining Path terrorist group and rampant political violence, and the story of her cousin Bárbara, who disappeared. (general fiction)&nbsp;
-
-  11/11:&nbsp;[**Evensong**](https://seattle.bibliocommons.com/v2/record/S30C4088863)&nbsp;by Stewart&nbsp;O’Nan&nbsp;
-
-  O’Nan&nbsp;brings readers four older women in Pittsburgh – the&nbsp;Humpty&nbsp;Dumpty Club – as they navigate their older years and help one another. (general fiction)&nbsp;
-
-  [![](https://i0.wp.com/blog.spl.org/wp-content/uploads/2025/11/the-week-of-colors.jpg?fit=188%2C300&ssl=1)](https://blog.spl.org/2025/11/14/new-fiction-roundup-november-2025/the-week-of-colors/)[![](https://i0.wp.com/blog.spl.org/wp-content/uploads/2025/11/the-sunshine-man.jpg?fit=199%2C300&ssl=1)](https://blog.spl.org/2025/11/14/new-fiction-roundup-november-2025/the-sunshine-man/)[![](https://i0.wp.com/blog.spl.org/wp-content/uploads/2025/11/some-bright-nowhere.jpg?fit=199%2C300&ssl=1)](https://blog.spl.org/2025/11/14/new-fiction-roundup-november-2025/some-bright-nowhere/)[![](https://i0.wp.com/blog.spl.org/wp-content/uploads/2025/11/as-many-souls-as-stars.jpg?fit=200%2C300&ssl=1)](https://blog.spl.org/2025/11/14/new-fiction-roundup-november-2025/as-many-souls-as-stars/)[![](https://i0.wp.com/blog.spl.org/wp-content/uploads/2025/11/next-time-will-be-our-turn.jpg?fit=194%2C300&ssl=1)](https://blog.spl.org/2025/11/14/new-fiction-roundup-november-2025/next-time-will-be-our-turn/)
-
-  11/11:&nbsp;[**Next Time Will Be Our Turn**](https://seattle.bibliocommons.com/v2/record/S30C4094564)&nbsp;by Jesse Q. Sutanto&nbsp;
-
-  Izzy Chen has been suppressing her attraction to women, fearing the reaction of her Indo-Chinese family. But when her glamorous grandmother Magnolia comes to the family Chinese New Year celebration with a new – female – romantic partner, Izzy gains new understanding of her family history and what is possible. (general fiction)&nbsp;
-
-  11/11:&nbsp;[**Some Bright Nowhere**](https://seattle.bibliocommons.com/v2/record/S30C4089602)&nbsp;by Ann Packer&nbsp;
-
-  Claire and Eliot have been happily married for nearly 40 years, but as Claire nears death after eight years of cancer, she makes a startling request: that she wants her best friends, not Eliot, to take care of her. (general fiction)&nbsp;
-
-  11/11:&nbsp;[**The Sunshine Man**](https://seattle.bibliocommons.com/v2/record/S30C4094586)&nbsp;by Emma&nbsp;Stonex&nbsp;
-
-  18 years after the murder of her sister, Birdie Keller pursues Jimmy Maguire, recently released from prison. In a cat-and-mouse tale of revenge, both have secrets to keep. (thriller)&nbsp;
-
-  11/11:&nbsp;[**The Week of Colors**](https://seattle.bibliocommons.com/v2/record/S30C4094637)&nbsp;by Elena Garro, translated by Megan McDowell&nbsp;
-
-  This new translation of a 1964 collection of short stories reintroduces readers to a woman who set the foundation of magical realism and surrealism in fiction. (general fiction)&nbsp;
-
-  11/25:&nbsp;[**As Many Souls as Stars**](https://seattle.bibliocommons.com/v2/record/S30C4094547)&nbsp;by Natasha Siegel&nbsp;
-
-  Beginning in 1592 and spanning centuries, a&nbsp;witch&nbsp;and a&nbsp;demon match wits&nbsp;over the fate of a powerful soul. (fantasy)&nbsp;
-
-  _~ posted by Andrea G._
+images: []
+locations: []
 published: false
 source: Homework Help
 source_url: https://blog.spl.org/2025/11/14/new-fiction-roundup-november-2025/

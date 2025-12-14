@@ -2,10 +2,7 @@
 date: '2025-01-02T17:16:21+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- Eastside
-original_content: "![](https://sophiaway.org/wp-content/uploads/2025/01/NL-image-for-blog-2025-01.png)\n\nDear
+feed_content: "![](https://sophiaway.org/wp-content/uploads/2025/01/NL-image-for-blog-2025-01.png)\n\nDear
   Friends,\n\nAs we step into 2025, I am deeply grateful for YOU, our community that
   embodies compassion, hope, and unwavering support for women experiencing homelessness
   on the Eastside.\n\nTogether, we accomplished so much in 2024! Your generosity provided
@@ -24,6 +21,9 @@ original_content: "![](https://sophiaway.org/wp-content/uploads/2025/01/NL-image
   and strengthen my self-worth. They provided support and a sense of belonging. They
   made me realize that I do matter!”  \n> – Rachel\n\n> \n\nThe post [Gratitude](https://sophiaway.org/gratitude-ny/)
   first appeared on [The Sophia Way](https://sophiaway.org)."
+images: []
+locations:
+- Eastside
 source: The Sophia Way
 source_url: https://sophiaway.org/gratitude-ny/?utm_source=rss&utm_medium=rss&utm_campaign=gratitude-ny
 summarized: true

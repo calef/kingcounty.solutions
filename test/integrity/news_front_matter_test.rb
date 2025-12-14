@@ -5,7 +5,7 @@ require 'uri'
 require 'yaml'
 require_relative '../test_helper'
 
-class PostsFrontMatterTest < Minitest::Test
+class NewsFrontMatterTest < Minitest::Test
   def setup
     @posts = load_documents('_posts/*.md')
     @organization_titles = load_titles('_organizations/*.md')
@@ -77,34 +77,34 @@ class PostsFrontMatterTest < Minitest::Test
     assert_empty errors, "Source URL issues:\n#{errors.join("\n")}"
   end
 
-  def test_original_content_is_optional_string
+  def test_feed_content_is_optional_string
     errors = []
 
     posts.each do |doc|
-      next unless doc[:data].key?('original_content')
+      next unless doc[:data].key?('feed_content')
 
-      value = doc[:data]['original_content']
+      value = doc[:data]['feed_content']
       next if value.is_a?(String)
 
-      errors << "#{doc[:path]} original_content must be a string"
+      errors << "#{doc[:path]} feed_content must be a string"
     end
 
-    assert_empty errors, "Original content issues:\n#{errors.join("\n")}"
+    assert_empty errors, "Feed content issues:\n#{errors.join("\n")}"
   end
 
-  def test_original_markdown_body_is_optional_string
+  def test_original_source_html_is_optional_string
     errors = []
 
     posts.each do |doc|
-      next unless doc[:data].key?('original_markdown_body')
+      next unless doc[:data].key?('original_source_html')
 
-      value = doc[:data]['original_markdown_body']
+      value = doc[:data]['original_source_html']
       next if value.is_a?(String)
 
-      errors << "#{doc[:path]} original_markdown_body must be a string"
+      errors << "#{doc[:path]} original_source_html must be a string"
     end
 
-    assert_empty errors, "Original markdown issues:\n#{errors.join("\n")}"
+    assert_empty errors, "Original source HTML issues:\n#{errors.join("\n")}"
   end
 
   def test_topics_reference_known_topics

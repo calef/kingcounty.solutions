@@ -2,10 +2,7 @@
 date: '2025-05-16T23:11:04+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Youth
+feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Youth
   Link announces Community Leadership Award winners </span>\n<span class=\"field field--name-uid
   field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"
   typeof=\"schema:Person\" property=\"schema:name\" datatype>CIosso</span></span>\n<span
@@ -75,67 +72,9 @@ original_content: "<span class=\"field field--name-title field--type-string fiel
   \     \n\n            <div class=\"field field--name-field-article-date field--type-datetime
   field--label-hidden field__item\"><time datetime=\"2025-05-16T12:00:00Z\" class=\"datetime\">May
   16 2025</time>\n</div>\n      \n    </div>\n  </div>"
-original_markdown_body: "Youth Link announces Community Leadership Award winners CIosso<time
-  datetime=\"2025-05-16T16:11:04-07:00\" title=\"Friday, May 16, 2025 - 16:11\" class=\"datetime\">Fri,
-  05/16/2025 - 16:11</time>\n\nBellevue Youth Link will honor children and teens for
-  their contributions to the community at the 35th annual Community Leadership Awards
-  celebration on Wednesday, May 28, 6-8 p.m. at City Hall, 450 110th Ave. NE.  \n&nbsp;
-  \ \n**Award Category &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp; &nbsp; Winner &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; School/Org**  \nAdvocacy for Cultural
-  & Heritage Pride &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Sammamish High School
-  Filipino Club  \nAdvocacy for Education &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  Ishaan Mishra &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  &nbsp; Bellevue High&nbsp;  \nAdvocacy for Supporting Families &nbsp; &nbsp; &nbsp;
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ashley Fabian Hernandez&nbsp;&nbsp;&nbsp;&nbsp;
-  Highland Middle&nbsp;  \nAdvocacy for Inclusivity & Allyship &nbsp; &nbsp; &nbsp;
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Wren Nowers&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sammamish High&nbsp;  \nAdvocacy for Social Justice
-  – Group &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Bellevue High
-  School Mental Health Club  \nAdvocacy for Social Justice – Individual &nbsp; &nbsp;
-  &nbsp; &nbsp; &nbsp; &nbsp; Devon Chong&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Newport High&nbsp;  \nAdvocacy for Sports
-  & Recreation &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  &nbsp;Maya Mitchell&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Forest Ridge&nbsp;  \nAdvocacy for Well
-  Being &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Leevia Wang&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Tyee Middle&nbsp;  \nEnvironmental
-  Champion &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Petr Zakonov&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Interlake High&nbsp;  \nExcellence
-  in Youth Arts &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Justis Truitt&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; International&nbsp;  \nOutstanding
-  Creative & Innovative Thinker &nbsp; &nbsp; &nbsp; &nbsp;Anusha Arora&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Interlake High&nbsp;  \nOutstanding Elementary
-  School Student &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Artemis Garcia-Pham&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp; Ardmore Elementary&nbsp;  \nOutstanding Middle School Student &nbsp; &nbsp;
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Stella Lamson&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Sacred Heart &nbsp; &nbsp;  \nOutstanding High
-  School Student &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  &nbsp; &nbsp;Oliver Pelley&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Big Picture&nbsp;  \nOutstanding Youth
-  Volunteer &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Aryav Tanwar&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Newport High&nbsp;  \nUnsung Hero &nbsp;
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  &nbsp; &nbsp; &nbsp;&nbsp;Petra Oweis&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Sammamish High&nbsp;\n\n**Youth
-  Link Program Awards** :  \nYouth Link “Norm Maleng” Social Justice &nbsp; &nbsp;
-  &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;Liam Krol&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Interlake High  \nYouth
-  Link Phil Kushlan Award &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;&nbsp;Mehr Grewal&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Interlake High &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;\n\nDuring
-  the program, Youth Link will recognize all nominees and volunteers. The free event
-  is open to the general public with advanced registration. Please [RSVP](https://www.eventbrite.com/e/youth-link-35th-annual-community-leadership-awards-tickets-1218318556599?aff=oddtdtcreator).
-  For more event information, please email [youthlink@bellevuewa.gov](mailto:youthlink@bellevuewa.gov).&nbsp;\n\n<time
-  datetime=\"2025-05-16T12:00:00Z\" class=\"datetime\">May 16 2025</time>"
+images: []
+locations:
+- King County
 source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/cla-winners-25
 summarized: true

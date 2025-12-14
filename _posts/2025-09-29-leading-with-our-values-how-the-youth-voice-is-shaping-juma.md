@@ -2,16 +2,12 @@
 date: '2025-09-29T21:38:52+00:00'
 events: []
 events_extracted: true
+feed_content: |-
+  <p>Over the past 30 years, Juma has employed more than 11,000 young people with a goal of providing access to the tools, resources, and education they need to bridge the [&#8230;]</p>
+  <p>The post <a href="https://www.juma.org/2025/09/29/leading-with-our-values-how-the-youth-voice-is-shaping-juma/">Leading with Our Values: How the Youth Voice is Shaping Juma</a> appeared first on <a href="https://www.juma.org">Juma</a>.</p>
 images: []
 locations:
 - King County
-original_content: |-
-  <p>Over the past 30 years, Juma has employed more than 11,000 young people with a goal of providing access to the tools, resources, and education they need to bridge the [&#8230;]</p>
-  <p>The post <a href="https://www.juma.org/2025/09/29/leading-with-our-values-how-the-youth-voice-is-shaping-juma/">Leading with Our Values: How the Youth Voice is Shaping Juma</a> appeared first on <a href="https://www.juma.org">Juma</a>.</p>
-original_markdown_body: |-
-  Over the past 30 years, Juma has employed more than 11,000 young people with a goal of providing access to the tools, resources, and education they need to bridge the […]
-
-  The post [Leading with Our Values: How the Youth Voice is Shaping Juma](https://www.juma.org/2025/09/29/leading-with-our-values-how-the-youth-voice-is-shaping-juma/) appeared first on [Juma](https://www.juma.org).
 source: Juma Ventures
 source_url: https://www.juma.org/2025/09/29/leading-with-our-values-how-the-youth-voice-is-shaping-juma/
 summarized: true

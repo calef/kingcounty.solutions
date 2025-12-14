@@ -2,16 +2,11 @@
 date: '2025-11-24T17:52:10+00:00'
 events: []
 events_extracted: true
+feed_content: '[...]<p><a class="btn btn-secondary understrap-read-more-link" href="https://iacswa.org/iacs-youth-outreach-newsletter/">Read
+  More...<span class="screen-reader-text"> from IACS YOUTH OUTREACH NEWSLETTER</span></a></p>'
 images: []
 locations:
 - King County
-original_content: '[...]<p><a class="btn btn-secondary understrap-read-more-link"
-  href="https://iacswa.org/iacs-youth-outreach-newsletter/">Read More...<span class="screen-reader-text">
-  from IACS YOUTH OUTREACH NEWSLETTER</span></a></p>'
-original_markdown_body: |-
-  [...]
-
-  [Read More... from IACS YOUTH OUTREACH NEWSLETTER](https://iacswa.org/iacs-youth-outreach-newsletter/)
 source: Indian American Community Services
 source_url: https://iacswa.org/iacs-youth-outreach-newsletter/
 summarized: true

@@ -4,8 +4,6 @@ images: []
 location: Ballard Senior Center
 locations:
 - Seattle
-original_markdown_body: Dinner featuring pork roast with roasted potatoes, requires
-  RSVP.
 source: Ballard Northwest Senior Center
 source_url: https://ballardseniorcenter.org/dining-menu-december-15th-19th/
 start_date: '2025-12-17T18:00:00-08:00'

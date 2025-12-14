@@ -1,11 +1,6 @@
 ---
 end_date: '2025-12-15T16:00:00-08:00'
-images: []
-location: The Center for Active Living, 4217 SW Oregon St., Seattle, WA, 98116, United
-  States
-locations:
-- King County
-original_content: <a aria-label="Skip to content" class="fl-screen-reader-text" href="#fl-main-content">Skip
+feed_content: <a aria-label="Skip to content" class="fl-screen-reader-text" href="#fl-main-content">Skip
   to content</a><div class="fl-page"> <header class="fl-builder-content fl-builder-content-12203
   fl-builder-global-templates-locked" data-post-id="12203" data-type="header" data-sticky="0"
   data-sticky-on="" data-sticky-breakpoint="medium" data-shrink="0" data-overlay="0"
@@ -166,21 +161,11 @@ original_content: <a aria-label="Skip to content" class="fl-screen-reader-text" 
   </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div>
   </div> </div> </div> <a href="#" role="button" id="fl-to-top"><span class="sr-only">Scroll
   To Top</span></a>
-original_markdown_body: Skip to content             We used to be called the Senior
-  Center of West Seattle.               Join       Donate                 Facebook     Instagram     YouTube     LinkedIn                            Activities
-  & Events                             Traveling the Digital World       Monday, December
-  15, 2025 at 3:00 pm - 4:00 pm      Join us as we take you on an adventure across
-  the technologies that impact your everyday life. Past topics have included scam
-  awareness, email management, cell phone setting, podcasts and more. Stop by the
-  computer lab to pick up a printed description and schedule of upcoming topics. All
-  aboard!      Technology              Calendar       Membership                  Location    The
-  Center for Active Living     4217 SW Oregon St. Seattle, WA 98116 United States  +
-  Google Map    Phone  206-932-4044     View Location Website                   Google
-  Calendar     iCalendar     Outlook 365     Outlook Live                   Related
-  Events    Burke Dykes Computer Lab Monday, December 8, 2025 at 8:30 am - 4:20 pm     Traveling
-  the Digital World Monday, December 8, 2025 at 3:00 pm - 4:00 pm     Burke Dykes
-  Computer Lab Tuesday, December 9, 2025 at 8:30 am - 4:20 pm             Calendar                 Scroll
-  To Top
+images: []
+location: The Center for Active Living, 4217 SW Oregon St., Seattle, WA, 98116, United
+  States
+locations:
+- King County
 source: The Center for Active Living
 source_url: https://wscenter.org/event/digital-discussions-2-2-2-2/2025-12-15/
 start_date: '2025-12-15T15:00:00-08:00'

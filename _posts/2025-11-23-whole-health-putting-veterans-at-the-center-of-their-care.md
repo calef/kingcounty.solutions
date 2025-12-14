@@ -2,10 +2,7 @@
 date: '2025-11-23T21:30:00+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <p>Health care that doesn’t prioritize the person is a thing of the past. At VA, we’re in a new era of care—one that emphasizes what matters to you, not just what is the matter with you. This approach is called <a href="https://www.va.gov/WHOLEHEALTH/get-involved/get-started.asp" rel="noopener">Whole Health</a>, and it puts Veterans at the center of their own health journey.</p>
 
 
@@ -49,26 +46,9 @@ original_content: |-
 
 
   <p>Your well-being is waiting—all you have to do is unlock it. Take the first step today by visiting the&nbsp;<a href="https://www.va.gov/WHOLEHEALTH/get-involved/get-started.asp" rel="noopener">VA Whole Health website</a>&nbsp;to learn more about the Whole Health Pathway and begin building a care plan centered on you. With Whole Health, every Veteran has the opportunity to live their best life—on their terms.</p>
-original_markdown_body: |-
-  Health care that doesn’t prioritize the person is a thing of the past. At VA, we’re in a new era of care—one that emphasizes what matters to you, not just what is the matter with you. This approach is called [Whole Health](https://www.va.gov/WHOLEHEALTH/get-involved/get-started.asp), and it puts Veterans at the center of their own health journey.
-
-  As we approach a new year, it is the perfect time to reflect on your needs, values and goals—your mission, aspiration and purpose. [Whole Health](https://news.va.gov/?s=whole+health) helps you answer these questions, enabling you to create a plan that fits your life. You are so much more than your illnesses, injuries or conditions. You are your hopes and dreams, and Whole Health is designed to help you live them.
-
-  ## Whole Health wherever you are
-
-  For many Veterans, in-person Whole Health services may not always be immediately accessible. That’s why VA offers Tele Whole Health—a convenient option that allows you to meet with your providers from virtually anywhere. It’s a way to stay connected and supported without leaving home.
-
-  In addition to Tele Whole Health, VA offers a variety of digital resources to support your well-being, including:
-
-  - [Personal Health Inventory](https://www.va.gov/WHOLEHEALTH/phi.asp): Reflect on what matters most to you.
-  - [Live Whole Health app](https://www.va.gov/WHOLEHEALTH/Live_Whole_Health_Mobile_App.asp#app): Guided tools to support everyday wellness.
-  - [Whole Health coaching](https://www.va.gov/WHOLEHEALTH/veteran-resources/Well-Being-Programs.asp): Personalized support to help you reach your goals.
-
-  Whether online or in person, these resources are here to ensure Veterans can access care that aligns with their individual needs.
-
-  ## Start your Whole Health journey
-
-  Your well-being is waiting—all you have to do is unlock it. Take the first step today by visiting the&nbsp;[VA Whole Health website](https://www.va.gov/WHOLEHEALTH/get-involved/get-started.asp)&nbsp;to learn more about the Whole Health Pathway and begin building a care plan centered on you. With Whole Health, every Veteran has the opportunity to live their best life—on their terms.
+images: []
+locations:
+- King County
 source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143062/whole-health-putting-veterans-at-center-of-care/
 summarized: true

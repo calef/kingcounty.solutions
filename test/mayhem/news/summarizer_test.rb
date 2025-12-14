@@ -2,7 +2,7 @@
 
 require_relative '../../test_helper'
 require 'minitest/autorun'
-require_relative '../../../lib/mayhem/news/post_summarizer'
+require_relative '../../../lib/mayhem/news/summarizer'
 
 class PostSummarizerTest < Minitest::Test
   def setup
@@ -31,12 +31,12 @@ class PostSummarizerTest < Minitest::Test
   end
 
   def test_fetch_article_text_handles_fetch_error
-    write_post('2025-01-01-test.md', { 'source_url' => 'http://bad', 'summarized' => false }, 'body')
+    write_post('2025-01-01-test.md', { 'source_url' => 'http://bad', 'summarized' => false, 'feed_content' => '<p>body</p>' }, 'body')
     http_stub = Object.new
     def http_stub.fetch(*) = { body: '', 'content-type' => 'text/plain', final_url: 'http://ok' }
     summarizer = Mayhem::News::PostSummarizer.new(posts_dir: @tmp_posts, topic_dir: @tmp_topics,
                                                   http_client: http_stub, logger: @logger, client: Object.new)
-    def summarizer.fetch_article_text(_url)
+    def summarizer.fetch_article_html(_url)
       raise StandardError, 'boom'
     end
 
@@ -46,7 +46,11 @@ class PostSummarizerTest < Minitest::Test
   end
 
   def test_classify_topics_parses_json_and_filters
-    write_post('2025-01-02-test.md', { 'source_url' => 'http://ok', 'summarized' => false }, 'body')
+    write_post('2025-01-02-test.md', {
+                'source_url' => 'http://ok',
+                'summarized' => false,
+                'feed_content' => '<article>body</article>'
+              }, 'body')
     write_topic('t1.md', 'Alpha', 'match')
     write_topic('t2.md', 'Beta', '')
 
@@ -89,6 +93,44 @@ class PostSummarizerTest < Minitest::Test
     stats = summarizer.run
 
     assert_equal 1, stats[:updated]
+  end
+
+  def test_run_stores_original_source_html_from_scraped_html
+    html = '<article><p>Scraped news</p></article>'
+    write_post('2025-01-06-source-html.md', {
+                 'source_url' => 'http://ok-detail',
+                 'summarized' => false,
+                 'feed_content' => '<article><p>Fallback</p></article>'
+               }, 'body')
+
+    http_stub = Object.new
+    def http_stub.fetch(*)
+      { body: '<article><p>Scraped news</p></article>', 'content-type' => 'text/html', final_url: 'http://ok-detail' }
+    end
+
+    client = Object.new
+    def client.chat(*)
+      { 'choices' => [{ 'message' => { 'content' => 'Fresh summary.' } }] }
+    end
+
+    summarizer = Mayhem::News::PostSummarizer.new(
+      posts_dir: @tmp_posts,
+      topic_dir: @tmp_topics,
+      http_client: http_stub,
+      logger: @logger,
+      client: client
+    )
+
+    stats = summarizer.run
+
+    assert_equal 1, stats[:updated]
+    document = Mayhem::FrontMatter::Document.load(File.join(@tmp_posts, '2025-01-06-source-html.md'), logger: @logger)
+    expected_html = Mayhem::Content::ArticleBodyExtractor.sanitized_html(
+      html,
+      max_chars: Mayhem::News::PostSummarizer::MAX_ARTICLE_CHARS
+    )
+    assert_equal expected_html, document.front_matter['original_source_html']
+    assert_equal 'Fresh summary.', document.body.strip
   end
 
   def test_backfills_locations_for_unpublished_summarized_post

@@ -2,12 +2,7 @@
 date: '2025-12-08T21:49:20+00:00'
 events: []
 events_extracted: true
-images:
-- a08a4987a2fd24e597e3ccc9e52b96ea3ac2af7bc309bf35ad1f0bf4af7979c7
-- c235df7dc31ba7917a2532ccfeb82eb6c87e18bd09097afb5052ffdfbb984422
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <figure><img src="https://i0.wp.com/soundgenerations.org/wp-content/uploads/mealsonwheels_0267.jpg?resize=704%2C469&amp;ssl=1"></figure>
 
 
@@ -35,23 +30,12 @@ original_content: |-
   <div><a>Donate</a></div>
   </div>
   <p>The post <a>Delivering More Than Meals This Holiday Season</a> appeared first on <a>Sound Generations</a>.</p>
-original_content_checksum: a0012a1f0b0a8021d0ec8a040b2f89334acb5741
-original_markdown_body: |-
-  ![](https://i0.wp.com/soundgenerations.org/wp-content/uploads/mealsonwheels_0267.jpg?resize=704%2C469&ssl=1)
-
-  When one of our friendly drivers arrives with a week’s worth of meals at a home-bound, aging adult’s residence, Sound Generations delivers more than just food. We’re bringing a boost to their assurance, independence, and health. We come to the door with comforting and nutritious meals, handing them over to someone who might otherwise be facing uncertainty, isolation, and hunger. We show up with a dependable community connection!
-
-  ![](https://i0.wp.com/soundgenerations.org/wp-content/uploads/MOW-quote-ye2025.jpg?resize=704%2C305&ssl=1)
-
-  The meals are ready-to-eat, offering essential support to older adults and their caregivers. With home delivery and specialized options like vegetarian and kosher meals, our program provides aging adults with a reliable, convenient way to maintain their independence and enjoy a healthy diet. Participants receive seven meals, delivered once-a-week by a friendly driver. The meals arrive conveniently frozen and packaged in trays to be heated in a microwave or conventional oven. Menu options include vegetarian, vegan, low-sodium, and kosher upon request.
-
-  **Who is eligible:** Older residents of King County, aged 60 or more, who have difficulty shopping or cooking. We have a suggested donation of $6 per meal.
-
-  **How to connect:** Contact Sound Generations’ Meals on Wheels program at: (206) 448-5767 or 1-888-308-6325; or email us at: mealsonwheels@soundgenerations.org. Interested individuals or their concerned friends or caregivers can choose to submit an application online or complete a printed version and mail it to our downtown office.
-
-  Donate
-
-  The post Delivering More Than Meals This Holiday Season appeared first on Sound Generations.
+feed_content_checksum: a0012a1f0b0a8021d0ec8a040b2f89334acb5741
+images:
+- a08a4987a2fd24e597e3ccc9e52b96ea3ac2af7bc309bf35ad1f0bf4af7979c7
+- c235df7dc31ba7917a2532ccfeb82eb6c87e18bd09097afb5052ffdfbb984422
+locations:
+- King County
 source: Sound Generations
 source_url: https://soundgenerations.org/delivering-more-than-meals/
 summarized: true

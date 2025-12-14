@@ -2,10 +2,7 @@
 date: '2025-11-25T14:10:15+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <p>Editor’s note: This post contains links to jobs that are active at the time of publishing. Most job listings close seven to 30 days after publishing. The sharing of any non-VA information does not constitute an endorsement of products and services on the part of VA. Veterans should verify the information with the organization offering.</p>
 
 
@@ -187,98 +184,9 @@ original_content: |-
 
 
   <p><a href="https://www.va.gov/outreach-and-events/events/77586/" rel="noopener">Norfolk, Va.: Hampton Roads Military Community Education Connect (Southside) – Thursdays</a></p>
-original_markdown_body: |-
-  Editor’s note: This post contains links to jobs that are active at the time of publishing. Most job listings close seven to 30 days after publishing. The sharing of any non-VA information does not constitute an endorsement of products and services on the part of VA. Veterans should verify the information with the organization offering.
-
-  Each week, we receive job announcements from employers and employment websites—including RecruitMilitary, VetJobs and HireMilitary—seeking to hire Veterans. This post includes links to job listings for the week of Nov. 24, 2025. We will continue to post relevant and timely listings as we receive them for the locations listed.
-
-  By recognizing the skills, discipline, leadership and problem-solving abilities that Veterans possess, employers can benefit greatly from hiring them. Veterans bring adaptability, a diverse perspective and a strong work ethic to the workplace, enriching company culture and fostering innovation.
-
-  Check out the latest job listings below for the week of Nov. 24, 2025:
-
-  [Tucson, Ariz. – Calibration Service Tech](https://careers.rtx.com/global/en/job/01802780/Calibration-Service-Technician)
-
-  [Central Texas – Account Manager (Project Management/Business Development/Sales) – Heritage Roofing and Construction](https://recruiterflow.com/tenova/jobs/1345)
-
-  [Washington, D.C. – Mission Support Specialist (ASW)](https://recruiterflow.com/tenova/jobs/1517)
-
-  [Denver, Colo. – Sr. Boiler Tech](https://recruiterflow.com/tenova/jobs/1502)
-
-  [North Carolina – Mission Support Specialist (MAG)](https://recruiterflow.com/tenova/jobs/1518)
-
-  [Nationwide – Regional Sales Manager: Government and Military](https://recruiterflow.com/tenova/jobs/1524)
-
-  [Nationwide – Veteran-Only Franchise Opportunities](https://www.veteranservicebrands.com/lp/hm-four-brands-one-mission/)
-
-  [Multiple Locations – Raytheon Patriot Program](https://careers.rtx.com/patriot)
-
-  [Multiple Locations – Sr. Complex Claims Adjuster, Mass Tort](https://recruiterflow.com/tenova/jobs/1420)
-
-  [Multiple Locations – Complex Claims Director](https://recruiterflow.com/tenova/jobs/1449)
-
-  [Multiple Locations – Senior Analyst](https://recruiterflow.com/tenova/jobs/1449)
-
-  [Find more Jobs & SkillBridge/CSP opportunities at this link](https://tenovallc.com/jobs-and-internships)
-
-  ## Work at VA
-
-  Whether you’re looking for the [care](https://www.va.gov/) you’ve earned or the [career](https://vacareers.va.gov/career-guidance/veterans-and-transitioning-military/?utm_souce=vet+resources&utm_medium=newsletter&utm_campaign=VHA_FY26Q1_NWSLTR_VETRES_VETS) you deserve, we’re all about Veterans at VA. Your military service can [translate into numerous skills](https://vacareers.va.gov/job-news-advice/translate-your-military-skills-to-a-civilian-career/?utm_souce=vet+resources&utm_medium=newsletter&utm_campaign=VHA_FY26Q1_NWSLTR_VETRES_VETS) that federal employers like us value.
-
-  See this week’s job announcements for a variety of clinical and non-clinical positions at VA facilities around the country:
-
-  [Nationwide – Peer Specialist](https://www.usajobs.gov/Search/Results/?k=peer%20specialist&d=VA&p=1)
-
-  [Los Angeles, Calif. – Electrician Leader](https://www.usajobs.gov/job/849108300)
-
-  [Togus, Maine – Physician, Assistant Service Chief (Primary Care)](https://www.usajobs.gov/job/846950500)
-
-  [Biloxi, Miss. – Safety and Occupational Health Manager](https://www.usajobs.gov/job/850052400)
-
-  [New York, N.Y. – Dental Assistant](https://www.usajobs.gov/job/849430800)
-
-  [Chillicothe, Ohio – Nursing Assistant](https://www.usajobs.gov/job/849870000)
-
-  [Pittsburgh, Pa. – Utility Systems Operator](https://www.usajobs.gov/job/850343400)
-
-  [El Paso, Texas – Licensed Vocational Nurse](https://www.usajobs.gov/job/848182500)
-
-  [Spokane, Wash. – Physician (Diagnostic Radiologist)](https://www.usajobs.gov/job/848141500)&nbsp;
-
-  [Beckley, W. Va. – Dietitian (Clinical)](https://www.usajobs.gov/job/849861500)
-
-  [Sheridan, Wyo. – Social Worker (Inpatient Community Living Center)](https://www.usajobs.gov/job/847324700)
-
-  [Find more jobs at VA](https://vacareers.va.gov/?utm_souce=vet+resources&utm_medium=newsletter&utm_campaign=VHA_FY26Q1_NWSLTR_VETRES_VETS)
-
-  ## **Veterans Canteen Service (VCS) Opportunities**
-
-  [Phoenix, Ariz. – Retail Sales Associate](https://recruit.hirebridge.com/v3/goto/?c=7cdhnu)
-
-  [Phoenix, Ariz. – Food Service Worker](https://recruit.hirebridge.com/v3/goto/?c=9ls7mo)
-
-  [San Diego, Calif.- Cook](https://recruit.hirebridge.com/v3/CareerCenter/v2/details.aspx?cid=7891&jid=719645&locvalue=1045&recruiter=ronesha.collins@va.gov&request_id=422376)
-
-  [Aurora, Colo. – Assistant General Manager- Retail](https://recruit.hirebridge.com/v3/CareerCenter/v2/details.aspx?cid=7891&jid=720344&locvalue=1244&recruiter=ronesha.collins@va.gov&request_id=714981)
-
-  [St. Louis, Mo. (JB) – Accountant](https://recruit.hirebridge.com/v3/goto/?c=fp0fgc)
-
-  [Asheville, N.C. – Lead Food Service Worker](https://recruit.hirebridge.com/v3/goto/?c=xx8bgx)
-
-  [Montrose, N.Y. – Cook](https://recruit.hirebridge.com/v3/goto/?c=etd3gr)
-
-  [Northpoint, N.Y. – Food Service Worker](https://recruit.hirebridge.com/v3/goto/?c=1yolpx)
-
-  [Castlepoint, N.Y. – Food Service Worker](https://recruit.hirebridge.com/v3/goto/?c=rmp9d7)
-
-  [Madison, Wis. – Assistant General Manager-Restaurant](https://recruit.hirebridge.com/v3/goto/?c=dyux6k)
-
-  &nbsp;[Click here for seasonal openings and more!](https://recruit.hirebridge.com/v3/jobs/list.aspx?cid=7891)
-
-  ## Career Fairs
-
-  [Newport News, Va.: Hampton Roads Military Community Education Connect (Peninsula) – Thursdays](https://www.va.gov/outreach-and-events/events/77594/)
-
-  [Norfolk, Va.: Hampton Roads Military Community Education Connect (Southside) – Thursdays](https://www.va.gov/outreach-and-events/events/77586/)
+images: []
+locations:
+- King County
 source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143630/hiring-veterans-jobs-of-the-week-for-nov-24-2025/
 summarized: true

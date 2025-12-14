@@ -2,10 +2,7 @@
 date: '2025-11-04T21:14:30+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: |-
+feed_content: |-
   ![](https://www.commerce.wa.gov/wp-content/uploads/2025/10/Connection-Angle-Lake.jpg)
 
   Connection Angle Lake is a new multifamily property for families and individuals in SeaTac. The new property is creating more housing close to transit and for residents with intellectual and developmental disabilities (IDD).
@@ -25,6 +22,9 @@ original_content: |-
   Connection Angle Lake received funding from a variety of sources, including the Washington State Housing Trust Fund, King County, and [Amazon’s Housing Equity Fund](https://www.aboutamazon.com/news/community/amazon-housing-equity-fund).
 
   [You can learn more about this property and others on Mercy Housing Northwest’s website](https://www.mercyhousing.org/northwest/).
+images: []
+locations:
+- King County
 source: Department of Commerce
 source_url: https://www.commerce.wa.gov/connection-angle-lake-transit-oriented-development-designed-to-get-residents-moving/
 summarized: true

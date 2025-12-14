@@ -2,17 +2,13 @@
 date: '2025-12-09T01:28:17+00:00'
 events: []
 events_extracted: true
+feed_content: |-
+  <p>December 10, 2025 KCRHA is indefinitely pausing the local requests for proposals and application submission processes related to the FY2025 Notice of Funding Opportunity (NOFO). On […]</p>
+  <p>The post <a>HUD withdraws Notice of Funding Opportunity</a> appeared first on <a>KCRHA</a>.</p>
+feed_content_checksum: 2273b95504ba16926fa174e0f4b2b9c2bab985ae
 images: []
 locations:
 - King County
-original_content: |-
-  <p>December 10, 2025 KCRHA is indefinitely pausing the local requests for proposals and application submission processes related to the FY2025 Notice of Funding Opportunity (NOFO). On […]</p>
-  <p>The post <a>HUD withdraws Notice of Funding Opportunity</a> appeared first on <a>KCRHA</a>.</p>
-original_content_checksum: 2273b95504ba16926fa174e0f4b2b9c2bab985ae
-original_markdown_body: |-
-  December 10, 2025 KCRHA is indefinitely pausing the local requests for proposals and application submission processes related to the&nbsp;FY2025 Notice of Funding Opportunity (NOFO). On […]
-
-  The post HUD withdraws Notice of Funding Opportunity appeared first on KCRHA.
 source: King County Regional Homelessness Authority
 source_url: https://kcrha.org/news-hud-withdraws-notice-of-funding-opportunity/
 summarized: true

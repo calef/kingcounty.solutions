@@ -1,10 +1,6 @@
 ---
 end_date: '2025-12-20T10:00:00-08:00'
-images: []
-location: "[ONLINE] Valley Medical Center"
-locations:
-- King County
-original_content: "<header> <div> <div><div> <div><div> <a>Lifeline</a> | 206.297.2500
+feed_content: "<header> <div> <div><div> <div><div> <a>Lifeline</a> | 206.297.2500
   | 1.800.255.5505 | <a>Lifeline Chat</a> </div></div> </div></div> </div> </header>
   <div> <div> <div> <div> <section> <div> <p> <a> « All Events</a> </p> <h1>Chair
   Yoga Sponsored by Valley Medical Center</h1> <div> <div> <span>December 20 @ 9:00
@@ -37,24 +33,11 @@ original_content: "<header> <div> <div><div> <div><div> <a>Lifeline</a> | 206.29
   Us</a></li> </ul> </div> </aside><aside><h3>Get Involved</h3> <div> <ul> <li><a>Ways
   to Give</a></li> <li><a>Volunteer with Us</a></li> <li><a>Donate Now</a></li> <li><a>Planned
   Giving</a></li> </ul> </div> </aside> </div> </div> </div> </div>"
-original_content_checksum: 0d6b0b13480a6b0251fe3aa5b375397f23ed8a61
-original_markdown_body: 'Lifeline | 206.297.2500 | 1.800.255.5505 | Lifeline Chat             «
-  All Events  Chair Yoga Sponsored by Valley Medical Center   December 20 @ 9:00 am
-  - 10:00 am  PST     Event Series    (See All)       Heard about all of the incredible
-  benefits of yoga but have never taken a class? Come learn about the basics of chair
-  yoga and the positive health benefits that regular practice can offer. Open to patients
-  and caregivers. All ability levels encouraged. CLICK HERE TO REGISTER Need help
-  getting registered? Having trouble joining a class? Please call our Telephone Lifeline
-  at 206-297-2500 M-F, 9am-5pm or connect with us through our Online Lifeline Chat.         Google
-  Calendar     iCalendar     Outlook 365     Outlook Live           Details    Date:   December
-  20     Time:   9:00 am - 10:00 am PST    Series:    Chair Yoga Sponsored by Valley
-  Medical Center    Event Category: Exercise & Movement      Venue    [ONLINE] Valley
-  Medical Center     Organizer   Ann Ford, Certified Yoga Teacher & Cancer Exercise
-  Specialist                Info   6522 Fremont Ave N Seattle, WA 98103   Monday through
-  Friday 9:00 AM – 5:00 PM   [email protected]   Call Us: 1-206-297-2100   I’m New   FAQ
-  Classes Support Groups Programs & Services   About Us   Team History Partnerships
-  & Sponsors Jobs Privacy Policy Contact Us   Get Involved   Ways to Give Volunteer
-  with Us Donate Now Planned Giving'
+feed_content_checksum: 0d6b0b13480a6b0251fe3aa5b375397f23ed8a61
+images: []
+location: "[ONLINE] Valley Medical Center"
+locations:
+- King County
 source: Cancer Lifeline Financial Assistance for Cancer Patients
 source_url: https://cancerlifeline.org/event/chair-yoga-sponsored-by-valley-medical-center-9/2025-12-20/
 start_date: '2025-12-20T09:00:00-08:00'

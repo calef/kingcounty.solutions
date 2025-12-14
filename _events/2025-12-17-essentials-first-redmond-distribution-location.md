@@ -1,18 +1,14 @@
 ---
 end_date: '2025-12-17T14:00:00-08:00'
-images: []
-location: WA
-locations:
-- King County
-original_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <div> <span>
-  Event Series: </span> <a> <span> Essentials First Redmond Distribution Location
-  </span> </a> </div> <h1>Essentials First Redmond Distribution Location</h1> <div>
-  <div> <span>December 17 @ 10:00 am</span> - <span>2:00 pm</span> </div> </div> <div>
-  <div> <div>Hours: Monday-Friday 10 AM-2 PM</div> <div>Description: Essentials First
-  provides and advocates for essential hygiene access for anyone who needs it. At
-  our Redmond Distribution Location, community members are welcome on a walk-in basis
-  and can receive essential hygiene kits, snack packs, and ORCA cards.</div> <div>ALL
-  ARE WELCOME! Many of our clients are: low income families and individuals; unhoused
+feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <div> <span> Event
+  Series: </span> <a> <span> Essentials First Redmond Distribution Location </span>
+  </a> </div> <h1>Essentials First Redmond Distribution Location</h1> <div> <div>
+  <span>December 17 @ 10:00 am</span> - <span>2:00 pm</span> </div> </div> <div> <div>
+  <div>Hours: Monday-Friday 10 AM-2 PM</div> <div>Description: Essentials First provides
+  and advocates for essential hygiene access for anyone who needs it. At our Redmond
+  Distribution Location, community members are welcome on a walk-in basis and can
+  receive essential hygiene kits, snack packs, and ORCA cards.</div> <div>ALL ARE
+  WELCOME! Many of our clients are: low income families and individuals; unhoused
   and underhoused neighbors; immigrants, refugees, and asylum-seekers; multi-generational
   households; single parents and kinship caregivers; elders; those living with disabilities;
   caregivers; anyone experiencing hardship or in need of hygiene support for any reason.</div>
@@ -37,29 +33,11 @@ original_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <div> <s
   </div> </li> <li> <div> <h3><a>Essentials First Redmond Distribution Location</a></h3>
   <span>December 11 @ 10:00 am</span> - <span>2:00 pm</span> </div> </li> </ul> </div>
   </div> </section> </div>"
-original_content_checksum: 45685eb99bf358688737c7f7768c388e735cd1e9
-original_markdown_body: "« All Events    Event Series:    Essentials First Redmond
-  Distribution Location    Essentials First Redmond Distribution Location   December
-  17 @ 10:00 am - 2:00 pm     Hours: Monday-Friday 10 AM-2 PM Description: Essentials
-  First provides and advocates for essential hygiene access for anyone who needs it.
-  At our Redmond Distribution Location, community members are welcome on a walk-in
-  basis and can receive essential hygiene kits, snack packs, and ORCA cards. ALL ARE
-  WELCOME! Many of our clients are: low income families and individuals; unhoused
-  and underhoused neighbors; immigrants, refugees, and asylum-seekers; multi-generational
-  households; single parents and kinship caregivers; elders; those living with disabilities;
-  caregivers; anyone experiencing hardship or in need of hygiene support for any reason.
-  Eligibility standards: Though our services are intended for those who cannot reasonably
-  access these supplies independently, no concrete eligibility requirements exist
-  at this time. Intake instructions: please bring ID and be prepared to fill out a
-  short intake form with the help of Essentials First staff. Your personal information
-  remains confidential and secure and will never be shared outside of our intake system.
-  Walk-ins welcome: yes         Google Calendar     iCalendar     Outlook 365     Outlook
-  Live           Details    Date:   December 17     Time:   10:00 am - 2:00 pm    Series:
-  \   Essentials First Redmond Distribution Location    Event Category: Open Office
-  Hours   Website:  https://www.essentialsfirst.org/      Organizer   Essentials First
-  \   View Organizer Website       Related Events    Pride Across the Bridge December
-  10 @ 4:00 pm - 6:00 pm     ARCH December 11 @ 10:00 am - 2:00 pm     Essentials
-  First Redmond Distribution Location December 11 @ 10:00 am - 2:00 pm"
+feed_content_checksum: 45685eb99bf358688737c7f7768c388e735cd1e9
+images: []
+location: WA
+locations:
+- King County
 source: Together Center
 source_url: https://togethercenter.org/event/essentials-first-redmond-distribution-location/2025-12-17/
 start_date: '2025-12-17T10:00:00-08:00'

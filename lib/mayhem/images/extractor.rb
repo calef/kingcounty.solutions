@@ -105,14 +105,14 @@ module Mayhem
           return
         end
 
-        markdown_body = frontmatter['original_markdown_body']
-        unless markdown_body
-          stats[:missing_original_markdown] += 1
+        source_html = frontmatter['original_source_html'] || frontmatter['feed_content']
+        unless source_html
+          stats[:missing_source_html] += 1
           ensure_empty_images(document, stats)
           return
         end
 
-        images = extract_images(markdown_body)
+        images = extract_images(source_html)
         if images.empty?
           stats[:no_images_found] += 1
           ensure_empty_images(document, stats)
@@ -289,7 +289,7 @@ module Mayhem
           skipped_unsummarized: stats[:skipped_unsummarized],
           already_has_images: stats[:already_has_images],
           missing_frontmatter: stats[:missing_frontmatter],
-          missing_original_markdown: stats[:missing_original_markdown],
+          missing_source_html: stats[:missing_source_html],
           no_images_found: stats[:no_images_found],
           no_valid_images: stats[:no_valid_images],
           download_failures: stats[:download_failures],

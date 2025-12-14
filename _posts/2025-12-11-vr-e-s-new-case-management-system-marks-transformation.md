@@ -2,10 +2,7 @@
 date: '2025-12-11T14:30:00+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <p>The Department of Veterans Affairs successfully completed phase 1 of the Readiness and Employment System (RES) deployment nearly a month ahead of schedule, modernizing the case management platform for the <a>Veteran Readiness and Employment (VR&amp;E) program</a>. </p>
 
 
@@ -31,21 +28,10 @@ original_content: |-
 
 
   <p>VA will continue with the RES rollout with phase 2 having started in November 2025. This will expand the system incrementally to include remaining VR&amp;E active cases, including re-applicants and Veterans with a 10% service-connected disability ratings. Phase 3 will follow, covering applicants for educational and career counseling. <a>VR&amp;E</a> helps Veterans with service-connected disabilities that limit their ability to work explore employment options and address career development needs, aiming for lifelong success and independence.</p>
-original_content_checksum: 98bdde90127ebb21caf4fd7b825df776baafaa17
-original_markdown_body: |-
-  The Department of Veterans Affairs successfully completed phase 1 of the Readiness and Employment System (RES) deployment nearly a month ahead of schedule, modernizing the case management platform for the Veteran Readiness and Employment (VR&E) program.&nbsp;
-
-  RES enhances how VA supports Veterans in preparing for, finding and maintaining meaningful employment.
-
-  The change results in VR&E reducing manual processes, improving case visibility and integrating features supporting VR&E staff in their day-to-day operations.&nbsp;
-
-  Launching RES is a critical component of VR&E’s comprehensive transformation for revolutionizing how Veterans access and receive support. This will drive innovative career support, sustainability and accountability, ensuring Veterans receive personalized and effective services. Phase 1 of RES serves Veterans with a 20% or more service-connected disability rating who have not previously received VR&E services.&nbsp;
-
-  Early results show a significant impact: average application processing times have dropped from seven days to just over two days, allowing Veterans to connect with Vocational Rehabilitation Counselors more quickly and begin their individual rehabilitation plans sooner.&nbsp;&nbsp;
-
-  “We’re building a VA that’s modern, responsive and relentlessly focused on Veterans’ needs,” said VA Acting Principal Deputy Under Secretary for Benefits, Performing the Delegable Duties of the Under Secretary for Benefits Margarita Devlin. “RES is just one example of how we’re replacing outdated tools with modern systems that put Veterans first and improve outcomes across the board.” &nbsp;
-
-  VA will continue with the RES rollout with phase 2 having started in November 2025. This will expand the system incrementally to include remaining VR&E active cases, including re-applicants and Veterans with a 10% service-connected disability ratings. Phase 3 will follow, covering applicants for educational and career counseling.&nbsp;VR&E helps Veterans with service-connected disabilities that limit their ability to work explore employment options and address career development needs, aiming for lifelong success and independence.
+feed_content_checksum: 98bdde90127ebb21caf4fd7b825df776baafaa17
+images: []
+locations:
+- King County
 rss_guid: https://news.va.gov/?p=143576
 source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143576/vre-new-case-management/

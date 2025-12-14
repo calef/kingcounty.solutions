@@ -1,11 +1,7 @@
 ---
 end_date: '2026-02-08T00:00:00-08:00'
-images: []
-location: ''
-locations:
-- King County
-original_content: <a class="skip-link screen-reader-text" href="#content">Skip to
-  content</a> <header data-elementor-type="header" data-elementor-id="61361" class="elementor
+feed_content: <a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+  <header data-elementor-type="header" data-elementor-id="61361" class="elementor
   elementor-61361 elementor-location-header" data-elementor-post-type="elementor_library">
   <div class="elementor-element elementor-element-ce48bd5 e-flex e-con-boxed e-con
   e-parent" data-id="ce48bd5" data-element_type="container"> <div class="e-con-inner
@@ -86,24 +82,10 @@ original_content: <a class="skip-link screen-reader-text" href="#content">Skip t
   <span class="tribe-events-meta-value"> <abbr title="2026-02-07" class="tribe-events-abbr
   tribe-events-end-date dtend nitro-lazy"> February 7, 2026 </abbr> </span> </li>
   </ul> </div> </div> </div> </div> </section>
-original_markdown_body: 'Skip to content          Donate             Español           Volunteer
-  Login              « All Events  2026 Annual Planning Retreat   February 5, 2026
-  - February 7, 2026     Please mark your calendars for Angel Flight West’s 2026 Annual
-  Planning Retreat, scheduled to take place in Seattle, Washington from February 5
-  – 7. Join us, along with wing leaders, staff, and fellow volunteers, for this valuable
-  opportunity to connect, learn more about the organization, and contribute to planning
-  for our future. This retreat is a time for developing fresh ideas and strategies
-  to expand our services and amplify our impact. Together, we’ll set new goals, celebrate
-  successes, and address challenges, with a focus on enhancing the support we provide
-  to those in need. RSVP today! Click here to book your hotel! Dates: February 5 –
-  Arrival 6:00–8:00 PM — Optional Evening Activity February 6 7:30-8:30 AM – Breakfast
-  9:00 AM–12:30 PM — Open Board Meeting 12:30-1:30 PM — Lunch 2:00–5:00 PM — Retreat
-  Sessions 6:00–8:00 PM — Cocktail Reception & Awards February 7 7:30–8:30 AM — Breakfast
-  9:00 AM–12:30 PM — Retreat Sessions 12:30–2:00 PM — Lunch and Closing Session 2:00
-  PM — Depart As a volunteer with AFW, your presence is truly valued! Reach out to [email protected] with
-  questions. This page will be updated as more details are confirmed.         Google
-  Calendar     iCalendar     Outlook 365     Outlook Live           Details    Start:   February
-  5, 2026     End:   February 7, 2026'
+images: []
+location: ''
+locations:
+- King County
 published: false
 source: Angel Flight West
 source_url: https://angelflightwest.org/event/2026-strategic-planning-retreat/

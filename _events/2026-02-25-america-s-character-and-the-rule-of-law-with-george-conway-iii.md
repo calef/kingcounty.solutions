@@ -1,10 +1,6 @@
 ---
 end_date: '2026-02-25T19:30:00-08:00'
-images: []
-location: Town Hall Seattle
-locations:
-- King County
-original_content: '<article id="post-3855" class="post-3855 uw_oplevents type-uw_oplevents
+feed_content: '<article id="post-3855" class="post-3855 uw_oplevents type-uw_oplevents
   status-publish hentry category-graduate-school-sponsored tag-free"> <header class="entry-header">
   <h1 class="entry-title">The Office of Public Lectures presents: America’s Character
   and the Rule of Law with George Conway III</h1> </header> <div class="entry-content">
@@ -54,37 +50,10 @@ original_content: '<article id="post-3855" class="post-3855 uw_oplevents type-uw
   a widely read political opinion platform. </span><span data-ccp-props=''{"134233117":false,"134233118":false,"335559738":240,"335559739":240}''> </span></p>
   </div> </div> <p class="sponsor-dept"><strong>Sponsoring Departments:</strong> The
   Graduate School</p> </div> </article>'
-original_markdown_body: 'The Office of Public Lectures presents: America’s Character
-  and the Rule of Law with George Conway III    February 25, 2026 6:30 pm Town Hall
-  Seattle, Livestream (Hybrid) Pay What You WillAvailableRecordedLivestreamComing
-  Soon CART Captioning     George Conway III    This talk will explore the idea that
-  the endurance of the rule of law in the United States relies not solely on the provisions
-  of the Constitution—its structural framework, the institutions it established, or
-  the rights it enshrines—but fundamentally on the character of its citizens. Qualities
-  such as public-spiritedness, tolerance, moderation, empathy, mutual respect, a sense
-  of fair play, and, ultimately, intelligence, honor, and decency form the foundation
-  of constitutional democracy.  Echoing Benjamin Franklin’s cautionary remark—“A republic,
-  if you can keep it”—the talk reflects on how the republic now faces one of its most
-  precarious moments. The threat, the speaker contends, does not stem from any single
-  individual, not even the President of the United States, but rather from the pervasive
-  political disquiet within a large segment of the electorate.  A change in administration
-  in 2021 did not resolve this underlying ailment, and a future shift in 2029 will
-  not remedy it either—unless those who grasp the importance of constitutionalism
-  and the rule of law can meaningfully convey to others that the preservation of their
-  rights depends on their willingness to uphold the rights of others. The presentation
-  will conclude with a discussion on whether—and how—such civic understanding can
-  be rekindled. Registration opens December 10, 2025.    About the speaker  George
-  Conway III  Attorney, Author, Political Commentator, Activist George Conway spent
-  three decades as a litigator at the New York law firm Wachtell, Lipton, Rosen &
-  Katz. A former long-serving member of the Federalist Society’s board of visitors,
-  he is now a political commentator and activist dedicated to preserving the rule
-  of law in America. He currently serves as Board President of the Society for the
-  Rule of Law.  Conway is a contributing writer for The Atlantic and The Washington
-  Post, where he has published numerous opinion pieces on law and politics. He is
-  also a co-founder of the Lincoln Project and Anti-Psychopath political action committees,
-  which focus on political accountability. Additionally, he hosts a law and politics
-  podcast for The Bulwark, a widely read political opinion platform.     Sponsoring
-  Departments: The Graduate School'
+images: []
+location: Town Hall Seattle
+locations:
+- King County
 published: false
 source: University of Washington
 source_url: https://www.washington.edu/lectures/events/americas-character-and-the-rule-of-law-presented-by-the-office-of-public-lectures/

@@ -2,10 +2,7 @@
 date: '2025-04-25T21:29:12+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: "## **Local Gardeners Grow Bounties for Hopelink Food Markets&nbsp;**
+feed_content: "## **Local Gardeners Grow Bounties for Hopelink Food Markets&nbsp;**
   &nbsp;\n\n![Picking tomatoes fresh off the vine at St. John Vianney Catholic Church
   in Kirkland. Photo by Mel Martin for Hopelink.](https://www.hopelink.org/wp-content/uploads/2025/04/2024_Community_Gardens_Feature-29-1024x731.jpg
   \"Picking tomatoes fresh off the vine at St. John Vianney Catholic Church in Kirkland.
@@ -104,6 +101,9 @@ original_content: "## **Local Gardeners Grow Bounties for Hopelink Food Markets&
   _provides fresh, nutritious food options to our community by partnering with local
   farms and harvest fields located near our five Hopelink Food Markets. If you need
   food assistance you can_ sign up through the Hopelink [Food Assistance program](https://www.hopelink.org/programs/food-program/)."
+images: []
+locations:
+- King County
 source: Hopelink
 source_url: https://www.hopelink.org/blog/local-gardeners-grow-bounties-for-hopelink-food-markets/
 summarized: true

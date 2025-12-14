@@ -2,11 +2,7 @@
 date: '2025-10-03T21:30:49+00:00'
 events: []
 events_extracted: true
-images:
-- dbf6eb1c6e20a4db839dfd9be3a5447df7d81f5afc0527d4fda6cbe658f5e104
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <p>Happy October! <img loading="lazy" decoding="async" height="16" width="16" alt="&#x1f342;" src="https://static.xx.fbcdn.net/images/emoji.php/v9/t89/1/16/1f342.png"> The weather is changing, and so are our needs for residents. Items in bold are things we&#8217;re really low on, our out of! <img loading="lazy" decoding="async" height="16" width="16" alt="&#x1f628;" src="https://static.xx.fbcdn.net/images/emoji.php/v9/t14/1/16/1f628.png"> Here&#8217;s how you can help:</p>
 
 
@@ -34,22 +30,10 @@ original_content: |-
 
 
   <div data-wp-interactive="core/file" class="wp-block-file"><object data-wp-bind--hidden="!state.hasPdfPreview" hidden class="wp-block-file__embed" data="https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/10.-October-2025-2.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="Embed of 10. October 2025 (2)."></object><a id="wp-block-file--media-1be1bfee-ab03-4720-9da6-4fdb32c66dc6" href="https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/10.-October-2025-2.pdf">10. October 2025 (2)</a><a href="https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/10.-October-2025-2.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-1be1bfee-ab03-4720-9da6-4fdb32c66dc6">Download</a></div>
-original_markdown_body: "Happy October! ![\U0001F342](https://static.xx.fbcdn.net/images/emoji.php/v9/t89/1/16/1f342.png)
-  The weather is changing, and so are our needs for residents. Items in bold are things
-  we’re really low on, our out of! ![\U0001F628](https://static.xx.fbcdn.net/images/emoji.php/v9/t14/1/16/1f628.png)
-  Here’s how you can help:\n\n![\U0001F449\U0001F3FC](https://static.xx.fbcdn.net/images/emoji.php/v9/t8d/1/16/1f449_1f3fc.png)
-  Shop directly from our Amazon wishlist! Items disappear from the list when they’ve
-  been purchased in the quantity we need, so if it’s still there, we still need it!
-  ![\U0001F517](https://static.xx.fbcdn.net/images/emoji.php/v9/tb3/1/16/1f517.png)[https://a.co/9eo400U](https://a.co/9eo400U?fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExQkpUWDBnVFlZYldFM2daagEeVjDnABdAn-M3sMhU-AcvXdkZsTZWDdEbVfmfaKQP9mW60Mluo5RWdEf70rw_aem_7tzIAI47Z8PGp9tMnUjaGg)\n\n[Click
-  HERE to visit our Amazon wish list](https://a.co/9eo400U?fbclid=IwZXh0bgNhZW0CMTAAYnJpZBExQkpUWDBnVFlZYldFM2daagEeVjDnABdAn-M3sMhU-AcvXdkZsTZWDdEbVfmfaKQP9mW60Mluo5RWdEf70rw_aem_7tzIAI47Z8PGp9tMnUjaGg)\n\n![\U0001F449\U0001F3FC](https://static.xx.fbcdn.net/images/emoji.php/v9/t8d/1/16/1f449_1f3fc.png)
-  Think of us while you’re running your errands this weekend! Maybe you’ll see some
-  good deals on pajamas, remember us when you see travel toiletries by the checkout,
-  or grab us an extra pack of paper towels if you’re able!\n\n![\U0001F449\U0001F3FC](https://static.xx.fbcdn.net/images/emoji.php/v9/t8d/1/16/1f449_1f3fc.png)
-  SHARE THIS LIST to help us reach as many people as we can!\n\n![](https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/10.-October-2025-2.png)\n\n<object
-  data-wp-bind--hidden=\"!state.hasPdfPreview\" hidden class=\"wp-block-file__embed\"
-  data=\"https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/10.-October-2025-2.pdf\"
-  type=\"application/pdf\" style=\"width:100%;height:600px\" aria-label=\"Embed of
-  10. October 2025 (2).\"></object>[10. October 2025 (2)](https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/10.-October-2025-2.pdf)[Download](https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/10.-October-2025-2.pdf)"
+images:
+- dbf6eb1c6e20a4db839dfd9be3a5447df7d81f5afc0527d4fda6cbe658f5e104
+locations:
+- King County
 source: Hospitality House
 source_url: https://hospitalityhousesouthking.org/october-2025-donations-needed/
 summarized: true

@@ -1,15 +1,11 @@
 ---
 date: '2025-12-04T20:53:53+00:00'
+feed_content: When the call came that Seattle Restored had an opening in its new commercial
+  kitchen space in Lake City, Jonathan Hudson said it was “a no brainer.” “It was
+  the perfect timing,” said Hudson, owner of Mama Row’s Caramel. “It opened up a lot
+  of possibil...
 images: []
 locations: []
-original_content: When the call came that Seattle Restored had an opening in its new
-  commercial kitchen space in Lake City, Jonathan Hudson said it was “a no brainer.”
-  “It was the perfect timing,” said Hudson, owner of Mama Row’s Caramel. “It opened
-  up a lot of possibil...
-original_markdown_body: When the call came that Seattle Restored had an opening in
-  its new commercial kitchen space in Lake City, Jonathan Hudson said it was “a no
-  brainer.” “It was the perfect timing,” said Hudson, owner of Mama Row’s Caramel.
-  “It opened up a lot of possibil...
 published: false
 source: City of Seattle
 source_url: https://bottomline.seattle.gov/2025/12/04/seattle-restored-in-lake-city-helps-mama-rows-caramels-turn-pain-into-purpose/

@@ -2,16 +2,12 @@
 date: '2025-12-02T22:03:13+00:00'
 events: []
 events_extracted: true
+feed_content: |-
+  <p>Daniele Lyman-Torres, Akin&#8217;s Chief Program Officer, discusses the broken state of federal social services and urges for funding of human service community organizations.</p>
+  <p>The post <a href="https://akinfamily.org/seattle-times-snap-crisis-is-proof-our-social-service-sector-needs-a-reset/">Seattle Times Op-Ed | SNAP crisis is proof our social-service sector needs a reset</a> appeared first on <a href="https://akinfamily.org">akin</a>.</p>
 images: []
 locations:
 - King County
-original_content: |-
-  <p>Daniele Lyman-Torres, Akin&#8217;s Chief Program Officer, discusses the broken state of federal social services and urges for funding of human service community organizations.</p>
-  <p>The post <a href="https://akinfamily.org/seattle-times-snap-crisis-is-proof-our-social-service-sector-needs-a-reset/">Seattle Times Op-Ed | SNAP crisis is proof our social-service sector needs a reset</a> appeared first on <a href="https://akinfamily.org">akin</a>.</p>
-original_markdown_body: |-
-  Daniele Lyman-Torres, Akin’s Chief Program Officer, discusses the broken state of federal social services and urges for funding of human service community organizations.
-
-  The post [Seattle Times Op-Ed | SNAP crisis is proof our social-service sector needs a reset](https://akinfamily.org/seattle-times-snap-crisis-is-proof-our-social-service-sector-needs-a-reset/) appeared first on [akin](https://akinfamily.org).
 source: Akin
 source_url: https://akinfamily.org/seattle-times-snap-crisis-is-proof-our-social-service-sector-needs-a-reset/
 summarized: true

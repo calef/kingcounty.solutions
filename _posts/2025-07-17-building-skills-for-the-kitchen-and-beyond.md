@@ -2,30 +2,7 @@
 date: '2025-07-17T16:47:19+00:00'
 events: []
 events_extracted: true
-images:
-- 26412945fa310f7ab65cd76bd0b6f3746526da0a98b37dec7706c99fab203e3c
-- 6a1a4c680d05354039b53d0903f8b2fbfa924d07d0fcb4ee2c818c21754b2d54
-- 8c98d9366eda256b319c14ac0e287651e80ee934ad3863d6583f379b4e5e5880
-- c4cf3c573733363fac603c1c070d76b801a89b621516f8912c11222c733f5fe3
-- b3c198d9a767b68b1ccc331dafaa4c41230c17320b608c5f2458a4dd98ceb79e
-- 99401096f6483c4c2a60e295cb1ee169466dca5b7cd8bc679d9d298645c519c8
-- 5140786960a4879fb180fd5276524eba5a2327bbaf94f2c5d4335282344681b8
-- 31da166174c9f4c069ff42e772e369d09479fa6ba85d4467fc3e65aa1d060e83
-- 49df6dddfcccef533a6f5536da7217f93d78fa4a3709d5bed3a0ac7a9eef21f5
-- 979bd36ecc71103a25cd6d394caa7152d8fa37e99e0c13320cdbcc667f7e7f13
-- 78c41b627144a76bcb7b9f20883a3914669b64de97b1c13645ca3053ba31d8b7
-- 047e82038df96b9956fb150ebb51c24c8651229452b17278c765a7764e085943
-- bfad84b01102208d9ba6236e81bd592164c8be6eea95aa00169878aa173f9fd5
-- 2dee1e5e7a869f892dfe016b98b664d5a9e8de2a4ecdf9efb78a00111ceffe6c
-- 6194e882e1a0e7406ad36bce76c9f6ca6205c9a7c6f643f683352cb0dbea33b7
-- 56370729968d30e969909aa11991d29a35747373d60f61354bb3af8688f91119
-- e21ff801e057413f30f8e67f5f41e3e832e6c32ee8586cd15d0a1f1e0690647f
-- 6a66ce3e8155f87fda642bde40113dd26d914c0fa52ccaff8ada6553eff6a90e
-- ba4f882ea51f4327da0eb29b5b355ab819e943bb8ec4cbd2293771379808cb26
-- 2025ce18a9a802b61feb8db4029aa7fe2de74c6b988e850d3c3db56d49a0fdf2
-locations:
-- King County
-original_content: "<p><img width=\"361\" height=\"255\" src=\"https://s14621.pcdn.co/wp-content/uploads/2025/07/2025_05_07_SG_CookingClass_DNG045-801x-361x255.jpg\"
+feed_content: "<p><img width=\"361\" height=\"255\" src=\"https://s14621.pcdn.co/wp-content/uploads/2025/07/2025_05_07_SG_CookingClass_DNG045-801x-361x255.jpg\"
   class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"Three
   teenagers lean over a stainless steel countertop, carefully chopping carrots on
   individual wood cutting boards.\" decoding=\"async\" srcset=\"https://s14621.pcdn.co/wp-content/uploads/2025/07/2025_05_07_SG_CookingClass_DNG045-801x-361x255.jpg
@@ -656,225 +633,29 @@ original_content: "<p><img width=\"361\" height=\"255\" src=\"https://s14621.pcd
   Green</a>.</p>The post <a href=\"https://www.solid-ground.org/building-skills-for-the-kitchen-and-beyond/\">Building
   skills for the kitchen and beyond </a> appeared first on <a href=\"https://www.solid-ground.org\">Solid
   Ground</a>."
-original_markdown_body: "![Three teenagers lean over a stainless steel countertop,
-  carefully chopping carrots on individual wood cutting boards.](https://s14621.pcdn.co/wp-content/uploads/2025/07/2025_05_07_SG_CookingClass_DNG045-801x-361x255.jpg)\n\nLined
-  up along one side of a stainless-steel countertop, knives and cutting boards positioned
-  in front of them, a half dozen teenagers listen attentively as Kai Bahls explains
-  how cooking can require both creativity and precision at the same time.\n\n“When
-  you’re baking, you have to pay really close attention to those measurements,” they
-  say. “A half teaspoon of baking powder versus a half tablespoon will make a big
-  difference.”\n\n ![Half a dozen teenagers stand along a stainless steel kitchen
-  countertop listing to a pair of instructors.](https://s14621.pcdn.co/wp-content/uploads/2025/07/2025_05_07_SG_CookingClass_DNG035_400x.jpg)\n\nStudents
-  listen to Kai explaining the recipes and cooking skills they’ll soon tackle (photo
-  by Rachael Green).\n\nThis is one of countless lessons students from [Interagency
-  Academy](https://interagency.seattleschools.org/) in Columbia City learned over
-  the course of 12 weeks this spring with Kai and Bela Sanchez, Solid Ground Youth
-  Food Educators. While chopping vegetables and measuring flour, the students have
-  learned and practiced everything from knife skills and food safety to time management
-  and conflict resolution, all designed to support their success both in the kitchen
-  and in the classroom.\n\n“I’m seeing a lot more self-motivation,” says Brandon Sanchez,
-  a Family Support Specialist at the high school, which is part of Seattle Public
-  Schools. “There’s more conversation and joy around what they’re doing in our classroom.”\n\nThe
-  program, called Recipes for Success, is a new and one-of-a-kind partnership between
-  [Solid Ground Community Food Education](https://www.solid-ground.org/what-we-do/food-access-education/),
-  [PCC Community Markets](https://www.pccmarkets.com/), [Organically Grown](https://www.organicgrown.com/),
-  and the southeast campus of Interagency Academy, an alternative public high school
-  that serves students who do best with kinds of support not available in traditional
-  schools. The growing partnership is the latest extension of Solid Ground’s ongoing
-  mission of empowering communities with the knowledge and access needed to prepare
-  healthy, fresh, and culturally appropriate meals in their own homes.\n\n“Things
-  like cooking classes obviously aren’t equitably available to all kids,” Bela says.
-  “So being able to provide these classes for students who maybe otherwise wouldn’t
-  be able to access them feels like a really unique and exciting opportunity.”\n\nhttps://www.youtube.com/embed/SAdOSLMdXIc?feature=oembed\n\n**_Solid
-  Ground Community Food Education will be directly impacted by cuts to SNAP funding
-  under the budget reconciliation bill signed into law on July 4, 2025. To find out
-  how you support this and other Solid Ground programs, go to_** [**_Ways to Give._**](https://nam02.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.solid-ground.org%2Fdonate%2F&data=05%7C02%7Cneals%40solid-ground.org%7C5859690be2964fe67f9f08ddbf4118af%7C48ef5a6f7c7046cfa2164084e989b067%7C0%7C0%7C638877008492214812%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=3%2F%2BenzCJLHh%2FitUKofzvNEuZncQY0rIZ8yQ0OZ4e6o8%3D&reserved=0)
-  \ \n\n#### ‘Go for it!’&nbsp;\n\nEvery Wednesday this spring, the students left
-  their school building just off Rainier Avenue South and crossed the street to PCC’s
-  state-of-the-art demonstration kitchen, which Kai and Bela stocked with ingredients
-  provided by the co-op and Organically Grown. Students start class with a snack –
-  usually fresh fruit – while going over the recipes of the day and the individual
-  skill lessons that are built into them. Over the course of the program, students
-  made everything from pozole to ravioli, many of the recipes suggested by students
-  based on meals their own families prepare at home.\n\n> “Personally, I’m not very
-  comfortable in the kitchen, but practicing my skills here, learning how to read
-  a recipe and all that stuff, I feel like I’m more capable to make something in the
-  kitchen by myself.”\n> \n> ~Ibri, Interagency student\n\n“The idea behind the partnership
-  was to connect students with really high-quality food and high-quality cooking education,
-  and to give them high school credit at the same time,” says Bela. “It’s really focused
-  more on home cooking, how to get comfortable in the kitchen, how to read a recipe,
-  basic knife skills and measuring skills, and covering a pretty wide range of recipes,
-  both new-to-them recipes and recipes they’ve requested.”\n\nOn this particular Wednesday
-  – the second-to-last of the semester – the students are making Vietnamese banh mi
-  sandwiches and “Add Anything” drop cookies. For the cookies, students can choose
-  from a selection of sweet and savory add-ins – chocolate candies, potato chips,
-  etc. – or they can get creative and mix in something else entirely unexpected from
-  the grocery store.\n\n“PCC is your oyster!” Kai instructs the students – because
-  while learning how to read recipes is one of the program’s key lessons, the students
-  are also encouraged to experiment with different ingredients, flavors, and textures.
-  “There’s certainly not a you-have-to-stick-to-the-recipe rule,” Kai says. “It’s
-  like, ‘If you think that would be good, go for it! Try it out!”\n\n#### Social-emotional
-  learning in the kitchen&nbsp;\n\nAfter the snack, the students gather around the
-  counter as Kai and Bela show them how to zero out a digital scale, compare the volume
-  of sugar to its weight, and tell the difference between the shorthand notations
-  for teaspoon and tablespoon.&nbsp;\n\n ![A young woman standing over a metal mixing
-  bowl in a kitchen gestures with one hand while an instructor and another student
-  look on.](https://s14621.pcdn.co/wp-content/uploads/2025/07/2025_05_07_SG_CookingClass_DNG019-400x.jpg)\n\nMeasuring
-  ingredients for “Add Anything” drop cookies (photo by Rachael Green)\n\nThe teens
-  then split off into teams to weigh and mix their cookie dough, trying to get as
-  close as possible, in grams, to the prescribed weight of each ingredient. They take
-  turns measuring, fetching ingredients, and breaking up clumps of brown sugar, laughing
-  and gently teasing each other as they work. One pair debate whether to mix potato
-  chips into their dough, considering what it would do to the cookies’ flavor and
-  whether they would crunch them up or add them whole. They decide to go for it.&nbsp;\n\nBela
-  and Kai say these interactions are a key part of program, giving the teens a safe
-  space to build social-emotional skills that apply to life far beyond the kitchen.\n\n>
-  “I mostly enjoyed getting to learn new thing and working with more people in the
-  kitchen because I find cooking a lot of fun, and I feel like I need to learn more
-  about communications and working with people.”\n> \n> ~Zaraya, Interagency student&nbsp;\n\n“It’s
-  all about how to work with other people, communicating really clearly about how
-  you’re dividing tasks and who’s doing what. And if you’re frustrated about what
-  your partner is doing, are you communicating to them that you’re frustrated? Or
-  are you just getting frustrated, not saying anything, and then having a harder time?”
-  Bela says. “All those interactions are to me one of the most important things about
-  this class, because social-emotional learning carries through every aspect of your
-  life.”&nbsp;\n\n“It’s also an opportunity to have a really hands-on class that they
-  get credit for and that works well for some students that may have a harder time
-  with a more traditional school class structure,” Kai says. “There are a couple of
-  students who staff have said struggle with attending regularly in their other classes
-  but have been coming really regularly here, and say that this style of learning
-  is working for them.”&nbsp;\n\n ![A cooking instructor standing in front of a counter
-  piled with ingredients holds out a julienned carrot as two students look on.](https://s14621.pcdn.co/wp-content/uploads/2025/07/2025_05_07_SG_CookingClass_DNG038-400.jpg)\n\nKai
-  demonstrates how to julienne a carrot (photo by Rachael Green).\n\nThe students
-  are soon back at the counter, watching Kai demonstrate a technique for julienning
-  carrots and daikon radishes for the banh mi. Then it’s back to their stations to
-  neatly chop the vegetables, which are then quick-pickled. When it’s all done, the
-  students take turns building their own lunch from French rolls filled with butter,
-  liver spread, mayo, shredded chicken, jalapeño, and the pickled carrots and radishes.
-  As they share the meal they’ve prepared together, Kai and Bela hand out $15 PCC
-  gift certificates that students can use to buy groceries at the co-op after class.&nbsp;\n\n####
-  Solutions based on community, partnership\n\nThis shared meal at the end of each
-  class is what sparked the program’s two years ago. At the time, Kerri Hunsley, the
-  Store Director for PCC in Columbia City, had noticed an increase in the loss of
-  prepared food items and began asking questions to better understand what needs might
-  exist in the broader community.\n\nDuring that process, she learned that Interagency
-  Academy at the Columbia Annex next door did not offer a hot meals program like many
-  other Seattle public schools. Instead, students receive meals that are prepared
-  off site, usually consisting of packaged cold-cut items, salads, sandwiches, fruit
-  and vegetables, and occasionally microwaveable items. The school does have microwaves,
-  but they offered only a limited and inconsistent solution.&nbsp;\n\n> “It’s really
-  fun learning the new skills, because before I didn’t really know how to cook. I
-  knew how to kind of heat things up and then, and best, hopefully not let it burn.”\n>
-  \n> ~Keo, Interagency student&nbsp;\n\nBrandon at Interagency says many students
-  at the school also face significant barriers to food access – including housing
-  instability, financial hardship, and lack of transportation – that make it difficult
-  for them to bring lunch from home or purchase meals elsewhere. So rather than respond
-  with assumptions or punishment, Kerri reached out to Brandon at Interagency to build
-  a restorative partnership rooted in community, trust, and care.&nbsp;\n\n“She wanted
-  to figure out a way to actually build a community relationship with our students
-  and the co-op, and just let them know, ‘We see you. We are here to support you,’”
-  Brandon says.&nbsp;\n\nTogether, they created a program that provides students with
-  access to fresh, free meals, cooking education, and credit-earning life skills that
-  support their overall well-being. Brandon says the initiative continues to demonstrate
-  the power of community-centered solutions that restore dignity, build relationships,
-  and address needs without stigma.&nbsp;\n\n ![A group of students and instructors
-  crowd around a table eating bahn mi sandwiches. A brightly lit grocery store is
-  seen through floor-to-ceiling windows behind them.](https://s14621.pcdn.co/wp-content/uploads/2025/07/2025_05_07_SG_CookingClass_DNG062_400x.jpg)\n\nStudents
-  end the class by sharing a lunch of banh mi sandwiches and drop cookies of their
-  own invention (photo by Rachael Green).\n\nKerri started by arranging to have pastries,
-  bagels, and other breakfast items set aside for the school each morning. Brandon
-  talked to students about PCC’s support as a community partner, and the response
-  was such a success that the two began talking about other ways to collaborate.\n\n“I
-  wanted to do something more for the kids that would allow them to walk away with
-  a skill, something they can get out of it that they can use in their life,” Kerri
-  said. “I wanted them to know, ‘Hey, we care about you, and we want to do something
-  nice for you.’”&nbsp;\n\nPCC has been a longtime partner and supporter of Solid
-  Ground, so the co-op reached out about putting together a cooking program for Interagency.
-  Organically Grown, another longtime PCC partner, was soon on board as well.\n\n“The
-  big win was when the curriculum was reviewed and approved by the school district,
-  which meant the students could get school credit for the classes,” says Michael
-  Friedman, Solid Ground’s Community Food Education Program Manager. “This elevated
-  the project from extra-curricular or a fun elective to something the students could
-  use to help them move toward graduation.”\n\n#### A success to build on&nbsp;\n\nIt
-  took another year to get the partnership off the ground, but the first semester
-  in the spring of 2025 was seen as a huge success – by both the partners and the
-  students who participated.\n\n“Personally, I wasn’t very comfortable in the kitchen,”
-  says Ibri Ramirez, an 18-year-old student at Interagency. “But practicing my skills
-  here, learning how to read a recipe and all that stuff, I feel like I’m more capable
-  of making something in the kitchen by myself.”\n\nRecipes for Success is set to
-  start up again in the fall with another batch of students, and Interagency and PCC
-  are both looking at the possibility of replicating the program elsewhere in Seattle
-  Public Schools and beyond.\n\n* * *\n<style>#jtg-70318 .modula-item .jtg-social
-  a, .lightbox-socials.jtg-social a{ fill: #ffffff; color: #ffffff }#jtg-70318 .modula-item
-  .jtg-social-expandable a, #jtg-70318 .modula-item .jtg-social-expandable-icons a{
-  fill: #ffffff; color: #ffffff }#jtg-70318 .modula-item .jtg-social svg, .lightbox-socials.jtg-social
-  svg { height: 16px; width: 16px }#jtg-70318 .modula-item .jtg-social-expandable
-  svg { height: 16px; width: 16px }#jtg-70318 .modula-item .jtg-social-expandable-icons
-  svg { height: 16px; width: 16px }#jtg-70318 .modula-item .jtg-social a:not(:last-child),
-  .lightbox-socials.jtg-social a:not(:last-child) { margin-right: 10px }#jtg-70318
-  .modula-item .jtg-social-expandable-icons { gap: 10px }#jtg-70318 .modula-item .figc
-  {color:#ffffff;}#jtg-70318 .modula-item .figc .jtg-title { font-size: 16px; }#jtg-70318
-  .modula-item .modula-item-content { transform: scale(1); }#jtg-70318 { width:100%;}#jtg-70318
-  .modula-items{height:800px;}@media screen and (max-width: 992px) {#jtg-70318 .modula-items{height:800px;}}@media
-  screen and (max-width: 768px) {#jtg-70318 .modula-items{height:800px;}}#jtg-70318
-  .modula-items .figc p.description { font-size:14px; }#jtg-70318 .modula-items .figc
-  p.description { color:#ffffff;}#jtg-70318 .modula-items .figc .jtg-title { color:#ffffff;
-  }#jtg-70318.modula-gallery .modula-item > a, #jtg-70318.modula-gallery .modula-item,
-  #jtg-70318.modula-gallery .modula-item-content > a:not(.modula-no-follow) { cursor:zoom-in;
-  } #jtg-70318.modula-gallery .modula-item-content .modula-no-follow { cursor: default;
-  } @media screen and (max-width:480px){#jtg-70318 .modula-item .figc .jtg-title {
-  font-size: 12px; }#jtg-70318 .modula-items .figc p.description { color:#ffffff;font-size:10px;
-  }}</style>\n\n ![A young cooking class student smiles as she holds out a bahn mi
-  sandwich on a plate.](https://s14621.pcdn.co/wp-content/uploads/2025/07/2025_05_07_SG_CookingClass_DNG061-683x1024.jpg
-  \"2025\\_05\\_07\\_SG\\_CookingClass\\_DNG061\")\n\n ![A group of cooking class
-  students and instructors crowd around a table eating bahn mi sandwiches. A brightly
-  lit grocery store is seen through floor-to-ceiling windows behind them.](https://s14621.pcdn.co/wp-content/uploads/2025/07/2025_05_07_SG_CookingClass_DNG062_400x.jpg
-  \"2025\\_05\\_07\\_SG\\_CookingClass\\_DNG062\\_400x\")\n\nStudents end the class
-  by sharing a lunch of bahn mi sandwiches and drop cookies of their own invention
-  (photo by Rachael Green).\n\n ![Two cooking class students show off their trays
-  of drop cookies.](https://s14621.pcdn.co/wp-content/uploads/2025/07/2025_05_07_SG_CookingClass_DNG026-1024x683.jpg
-  \"2025\\_05\\_07\\_SG\\_CookingClass\\_DNG026\")\n\n ![A close up of hands assembling
-  bahn mi sandwiches.](https://s14621.pcdn.co/wp-content/uploads/2025/07/2025_05_07_SG_CookingClass_DNG059-1024x683.jpg
-  \"2025\\_05\\_07\\_SG\\_CookingClass\\_DNG059\")\n\n ![A cooking class instructor
-  leans across a crowded kitchen counter top as students work to prepare various ingredients.](https://s14621.pcdn.co/wp-content/uploads/2025/07/2025_05_07_SG_CookingClass_DNG055-1024x683.jpg
-  \"2025\\_05\\_07\\_SG\\_CookingClass\\_DNG055\")\n\n ![A cooking class student carefully
-  slices scallions on a cutting board.](https://s14621.pcdn.co/wp-content/uploads/2025/07/2025_05_07_SG_CookingClass_DNG050-683x1024.jpg
-  \"2025\\_05\\_07\\_SG\\_CookingClass\\_DNG050\")\n\n ![A bowl of julienned carrots
-  and daikon radishes.](https://s14621.pcdn.co/wp-content/uploads/2025/07/2025_05_07_SG_CookingClass_DNG049-1024x683.jpg
-  \"2025\\_05\\_07\\_SG\\_CookingClass\\_DNG049\")\n\n ![A cooking class student carefully
-  juliennes carrots.](https://s14621.pcdn.co/wp-content/uploads/2025/07/2025_05_07_SG_CookingClass_DNG044-1024x683.jpg
-  \"2025\\_05\\_07\\_SG\\_CookingClass\\_DNG044\")\n\n ![A row of cooking class students
-  practice julienning carrots on individual wooden cutting boards.](https://s14621.pcdn.co/wp-content/uploads/2025/07/2025_05_07_SG_CookingClass_DNG041-scaled.jpg
-  \"2025\\_05\\_07\\_SG\\_CookingClass\\_DNG041\")\n\n ![A stack of French rolls alongside
-  carrots, scallions, and other ingredients for bahn mi sandwiches.](https://s14621.pcdn.co/wp-content/uploads/2025/07/2025_05_07_SG_CookingClass_DNG034-1024x683.jpg
-  \"2025\\_05\\_07\\_SG\\_CookingClass\\_DNG034\")\n\n ![A plate of MnM-chocolate
-  chunk drop cookies](https://s14621.pcdn.co/wp-content/uploads/2025/07/2025_05_07_SG_CookingClass_DNG031-683x1024.jpg
-  \"2025\\_05\\_07\\_SG\\_CookingClass\\_DNG031\")\n\n ![Two plates of freshly baked
-  cookies](https://s14621.pcdn.co/wp-content/uploads/2025/07/2025_05_07_SG_CookingClass_DNG030-683x1024.jpg
-  \"2025\\_05\\_07\\_SG\\_CookingClass\\_DNG030\")\n\n ![Balls of raw cookie dough
-  on a cookie tray.](https://s14621.pcdn.co/wp-content/uploads/2025/07/2025_05_07_SG_CookingClass_DNG024-1024x683.jpg
-  \"2025\\_05\\_07\\_SG\\_CookingClass\\_DNG024\")\n\n ![Two cooking class students
-  chat about the cookies they're making.](https://s14621.pcdn.co/wp-content/uploads/2025/07/2025_05_07_SG_CookingClass_DNG023-1024x683.jpg
-  \"2025\\_05\\_07\\_SG\\_CookingClass\\_DNG023\")\n\n ![Two cooking class students
-  laugh as they work on their recipe.](https://s14621.pcdn.co/wp-content/uploads/2025/07/2025_05_07_SG_CookingClass_DNG018-1024x683.jpg
-  \"2025\\_05\\_07\\_SG\\_CookingClass\\_DNG018\")\n\n ![Two cooking class instructors
-  smile as they pose together.](https://s14621.pcdn.co/wp-content/uploads/2025/07/2025_05_07_SG_CookingClass_DNG016-1024x683.jpg
-  \"2025\\_05\\_07\\_SG\\_CookingClass\\_DNG016\")\n\n ![A cooking class student in
-  a black hoodie smiles at the camera.](https://s14621.pcdn.co/wp-content/uploads/2025/07/2025_05_07_SG_CookingClass_DNG015-1024x819.jpg
-  \"2025\\_05\\_07\\_SG\\_CookingClass\\_DNG015\")\n\n ![Two cooking class students
-  work on their cookie dough.](https://s14621.pcdn.co/wp-content/uploads/2025/07/2025_05_07_SG_CookingClass_DNG011-1024x683.jpg
-  \"2025\\_05\\_07\\_SG\\_CookingClass\\_DNG011\")\n\n ![Two cooking class students
-  weigh and mix ingredients.](https://s14621.pcdn.co/wp-content/uploads/2025/07/2025_05_07_SG_CookingClass_DNG008-683x1024.jpg
-  \"2025\\_05\\_07\\_SG\\_CookingClass\\_DNG008\")\n\n ![A cooking class student carefully
-  weighs ingredients on a digital scale.](https://s14621.pcdn.co/wp-content/uploads/2025/07/2025_05_07_SG_CookingClass_DNG007-1024x683.jpg
-  \"2025\\_05\\_07\\_SG\\_CookingClass\\_DNG007\")\n\n ![A cooking class student measures
-  ingredients for cookies.](https://s14621.pcdn.co/wp-content/uploads/2025/07/2025_05_07_SG_CookingClass_DNG006-683x1024.jpg
-  \"2025\\_05\\_07\\_SG\\_CookingClass\\_DNG006\")\n\n<script type=\"application/ld+json\">\n\t{\n\t\t\"@context\":
-  \"http://schema.org\",\n\t\t\"@type\" : \"ImageGallery\",\n\t\t\"id\" : \"https://www.solid-ground.org/building-skills-for-the-kitchen-and-beyond/\",\n\t\t\"url\"
-  : \"https://www.solid-ground.org/building-skills-for-the-kitchen-and-beyond/\"\n\t}\n\n\t</script>\n\n*
-  * *\n\nAll photography by [Rachael Green](https://rachaelgreenphotography.pixieset.com/).\n\nThe
-  post [Building skills for the kitchen and beyond&nbsp;](https://www.solid-ground.org/building-skills-for-the-kitchen-and-beyond/)
-  appeared first on [Solid Ground](https://www.solid-ground.org)."
+images:
+- 26412945fa310f7ab65cd76bd0b6f3746526da0a98b37dec7706c99fab203e3c
+- 6a1a4c680d05354039b53d0903f8b2fbfa924d07d0fcb4ee2c818c21754b2d54
+- 8c98d9366eda256b319c14ac0e287651e80ee934ad3863d6583f379b4e5e5880
+- c4cf3c573733363fac603c1c070d76b801a89b621516f8912c11222c733f5fe3
+- b3c198d9a767b68b1ccc331dafaa4c41230c17320b608c5f2458a4dd98ceb79e
+- 99401096f6483c4c2a60e295cb1ee169466dca5b7cd8bc679d9d298645c519c8
+- 5140786960a4879fb180fd5276524eba5a2327bbaf94f2c5d4335282344681b8
+- 31da166174c9f4c069ff42e772e369d09479fa6ba85d4467fc3e65aa1d060e83
+- 49df6dddfcccef533a6f5536da7217f93d78fa4a3709d5bed3a0ac7a9eef21f5
+- 979bd36ecc71103a25cd6d394caa7152d8fa37e99e0c13320cdbcc667f7e7f13
+- 78c41b627144a76bcb7b9f20883a3914669b64de97b1c13645ca3053ba31d8b7
+- 047e82038df96b9956fb150ebb51c24c8651229452b17278c765a7764e085943
+- bfad84b01102208d9ba6236e81bd592164c8be6eea95aa00169878aa173f9fd5
+- 2dee1e5e7a869f892dfe016b98b664d5a9e8de2a4ecdf9efb78a00111ceffe6c
+- 6194e882e1a0e7406ad36bce76c9f6ca6205c9a7c6f643f683352cb0dbea33b7
+- 56370729968d30e969909aa11991d29a35747373d60f61354bb3af8688f91119
+- e21ff801e057413f30f8e67f5f41e3e832e6c32ee8586cd15d0a1f1e0690647f
+- 6a66ce3e8155f87fda642bde40113dd26d914c0fa52ccaff8ada6553eff6a90e
+- ba4f882ea51f4327da0eb29b5b355ab819e943bb8ec4cbd2293771379808cb26
+- 2025ce18a9a802b61feb8db4029aa7fe2de74c6b988e850d3c3db56d49a0fdf2
+locations:
+- King County
 source: Solid Ground
 source_url: https://www.solid-ground.org/building-skills-for-the-kitchen-and-beyond/
 summarized: true

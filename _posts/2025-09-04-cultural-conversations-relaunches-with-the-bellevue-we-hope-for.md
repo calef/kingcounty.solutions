@@ -2,11 +2,7 @@
 date: '2025-09-04T22:23:57+00:00'
 events: []
 events_extracted: true
-images:
-- 1d0d92155208edc5507e79288c59af45c591279397cd5c0921997a581848e66c
-locations:
-- King County
-original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Cultural
+feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Cultural
   Conversations relaunches with ‘The Bellevue We Hope For’</span>\n<span class=\"field
   field--name-uid field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"
   typeof=\"schema:Person\" property=\"schema:name\" datatype>CIosso</span></span>\n<span
@@ -54,28 +50,10 @@ original_content: "<span class=\"field field--name-title field--type-string fiel
   \     \n\n            <div class=\"field field--name-field-article-date field--type-datetime
   field--label-hidden field__item\"><time datetime=\"2025-09-04T12:00:00Z\" class=\"datetime\">September
   4 2025</time>\n</div>\n      \n    </div>\n  </div>"
-original_markdown_body: |-
-  Cultural Conversations relaunches with ‘The Bellevue We Hope For’CIosso<time datetime="2025-09-04T15:23:57-07:00" title="Thursday, September 4, 2025 - 15:23" class="datetime">Thu, 09/04/2025 - 15:23</time>
-
-   ![Two women participating in Cultural Conversations pose for a photograph.](https://bellevuewa.gov/sites/default/files/styles/article_featured_image/public/media/article_featured_image/2025-09/cultural-conversations-selfie.jpg?h=ea95bb15&itok=p4MpeVhV)
-
-  Part of city’s lineup of Welcoming Week festivities
-
-  Following a brief hiatus, the City of Bellevue is relaunching the Cultural Conversations program. Now in its 15th year, this series of gatherings works to bring Bellevue residents together through powerful storytelling and open dialogue.
-
-  The 2025 season of Cultural Conversations kicks off with “The Bellevue We Hope For” &nbsp;on Monday, Sept. 15, 6:30-8 p.m., at the Bellevue Botanical Garden. Hear stories from Bellevue residents who are making an impact in the community, working to create a hopeful future. Light refreshments will be provided.
-
-  The event’s panel discussion will feature Kelly Aramaki, superintendent of the Bellevue School District; Randy Nuñez, educator and founder of the Maíz Education Collaborative and a member of the city’s Communities of Color Coordinating Team; and Ruhi Gadde, a local high school student and also a member of the Communities of Color Coordinating Team.
-
-  Aramaki, Nuñez and Gadde will share their personal connections to the city, acknowledge the current reality for immigrants in our area and point us toward hope for the future of Bellevue. There will also be opportunities for all participants to share feedback on future Cultural Conversations themes and their personal thoughts on "The Bellevue We Hope For."
-
-  Cultural Conversations are free to attend but require [registration](https://rb.gy/q0mkym). For more information, contact Cara Iwasaki ([ciwasaki@bellevuewa.gov](mailto:ciwasaki@bellevuewa.gov) or 425-229-6557).
-
-  This event is part of the national [Welcoming Week](https://welcomingweek.org/home/) annual celebration, bringing together neighbors of all backgrounds to affirm inclusion for everyone in the United States, particularly the country’s newest residents. [Bellevue Welcoming Week](https://bellevuewa.gov/city-government/departments/city-managers-office/diversity-advantage-initiative/diversity-advantage-events/welcoming-week "Welcoming Week") covers Bellevue’s activities; [Eastside for All](https://eastsideforall.org/welcoming-week/) is the hub for Welcoming Week activities on the Eastside.&nbsp;
-
-  Cultural Conversations is sponsored by Amazon.
-
-  <time datetime="2025-09-04T12:00:00Z" class="datetime">September 4 2025</time>
+images:
+- 1d0d92155208edc5507e79288c59af45c591279397cd5c0921997a581848e66c
+locations:
+- King County
 source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/cultural-conversations-relaunch
 summarized: true

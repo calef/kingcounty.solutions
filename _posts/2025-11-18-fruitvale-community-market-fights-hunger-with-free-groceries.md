@@ -2,17 +2,13 @@
 date: '2025-11-18T18:35:50+00:00'
 events: []
 events_extracted: true
+feed_content: |-
+  <p>[Non Stop Local – Yakima] Northwest Harvest, a nonprofit founded in 1967, has been making significant strides in combating food insecurity across Washington. The organization distributed over 20 million pounds of food in the 2024 fiscal year.</p>
+  <p>The post <a>Fruitvale Community Market fights hunger with free groceries</a> appeared first on <a>Northwest Harvest</a>.</p>
+feed_content_checksum: db2a265c434fa3eadfbd7b7ae548efcbb62af4ce
 images: []
 locations:
 - King County
-original_content: |-
-  <p>[Non Stop Local – Yakima] Northwest Harvest, a nonprofit founded in 1967, has been making significant strides in combating food insecurity across Washington. The organization distributed over 20 million pounds of food in the 2024 fiscal year.</p>
-  <p>The post <a>Fruitvale Community Market fights hunger with free groceries</a> appeared first on <a>Northwest Harvest</a>.</p>
-original_content_checksum: db2a265c434fa3eadfbd7b7ae548efcbb62af4ce
-original_markdown_body: |-
-  [Non Stop Local – Yakima] Northwest Harvest, a nonprofit founded in 1967, has been making significant strides in combating food insecurity across Washington. The organization distributed over 20 million pounds of food in the 2024 fiscal year.
-
-  The post Fruitvale Community Market fights hunger with free groceries appeared first on Northwest Harvest.
 source: Northwest Harvest
 source_url: https://www.northwestharvest.org/news-insights/fruitvale-community-market-fights-hunger-with-free-groceries/
 summarized: true

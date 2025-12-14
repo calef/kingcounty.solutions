@@ -2,14 +2,7 @@
 date: '2025-09-11T21:57:42+00:00'
 events: []
 events_extracted: true
-images:
-- 2584e2734c67597be6314a90ae18efe81d018cd8bc75d848bbcbbb415e0587ae
-- b969f171a2711625d931d0cd2ef8ee0e6c3375a9689e7107da5e94b5e2bd18e3
-- d0bcaf59233714b195cd9cb9970d0dc462f202ba90d39dd1d4c81e0ef465f1f7
-- 4dbd7232d4fb7cf720034a51d9cf7a97f83c9f19ad46182e62257e7fed963d52
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <p>This past August, Bellevue LifeSpring’s Fairweather Circle hosted a unique summer fundraiser called Blooms, Bubbles, and Bling. Neighbors and friends spent the afternoon in Fairweather Circle Member Denise Lane’s award-winning one-acre garden browsing new and gently used jewelry, sipping bubbles, and supporting a powerful cause: preventing hunger and homelessness for Bellevue children.</p>
 
 
@@ -63,32 +56,13 @@ original_content: |-
 
 
   <figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1200" height="800" src="https://www.bellevuelifespring.org/wp-content/uploads/2025/09/BBB-Group-Photo-1200x800.jpg" alt="" class="wp-image-5340" srcset="https://www.bellevuelifespring.org/wp-content/uploads/2025/09/BBB-Group-Photo-1200x800.jpg 1200w, https://www.bellevuelifespring.org/wp-content/uploads/2025/09/BBB-Group-Photo-640x427.jpg 640w, https://www.bellevuelifespring.org/wp-content/uploads/2025/09/BBB-Group-Photo-320x213.jpg 320w, https://www.bellevuelifespring.org/wp-content/uploads/2025/09/BBB-Group-Photo-768x512.jpg 768w, https://www.bellevuelifespring.org/wp-content/uploads/2025/09/BBB-Group-Photo-1536x1024.jpg 1536w, https://www.bellevuelifespring.org/wp-content/uploads/2025/09/BBB-Group-Photo-2048x1365.jpg 2048w, https://www.bellevuelifespring.org/wp-content/uploads/2025/09/BBB-Group-Photo-2000x1333.jpg 2000w" sizes="auto, (max-width: 1200px) 100vw, 1200px" /></figure><p>The post <a href="https://www.bellevuelifespring.org/general/blooms-bubbles-bling/">Blooms, bubbles, bling, and giving back!</a> first appeared on <a href="https://www.bellevuelifespring.org">Bellevue LifeSpring</a>.</p><p>The post <a href="https://www.bellevuelifespring.org/general/blooms-bubbles-bling/">Blooms, bubbles, bling, and giving back!</a> appeared first on <a href="https://www.bellevuelifespring.org">Bellevue LifeSpring</a>.</p>
-original_markdown_body: |-
-  This past August, Bellevue LifeSpring’s Fairweather Circle hosted a unique summer fundraiser called Blooms, Bubbles, and Bling. Neighbors and friends spent the afternoon in Fairweather Circle Member Denise Lane’s award-winning one-acre garden browsing new and gently used jewelry, sipping bubbles, and supporting a powerful cause: preventing hunger and homelessness for Bellevue children.
-
-  ![](https://www.bellevuelifespring.org/wp-content/uploads/2025/09/IMG_7478-edited-scaled.jpg)
-
-  Stepping into Denise’s garden, guests were greeted by yellow roses, a warm welcome from Fairweather circle members, and an array of jewelry for sale.
-
-  “We were waiting for the right time and a unique way to sell the merchandise our circle held onto from the former Bellevue LifeSpring thrift store,” shared Fairweather Circle Co-Chair Maggie Vergien. “We combined those gently used pieces with new treasures donated by thoughtful community members. Denise’s garden was the true inspiration for the theme!”
-
-  Denise is well known for hosting many events in her garden and enjoys sharing its wonders with her community. “I open up my home for these events to share my garden with others in hopes that they will enjoy it as much as I do,” said Denise.
-
-  The Fairweather Circle has always prided itself on hosting a variety of events that bring the community together around a common cause. Events like Blooms, Bubbles, and Bling highlight how creativity and collaboration can spark real impact. With every piece of jewelry purchased and every glass of bubbles raised, attendees contributed to Bellevue LifeSpring’s vital programs, which provide basic needs support for local children.
-
-  For over a century, our circle members have carried on Bellevue LifeSpring’s legacy of neighbors helping neighbors, finding new ways to raise funds, and advocating for Bellevue children.
-
-  The Fairweather Circle is one of five membership circles made up of Bellevue community members. [**Learn more**](http://Learn more) about our membership opportunities and stay tuned for more inspiring events from this dedicated group.
-
-  ![](https://www.bellevuelifespring.org/wp-content/uploads/2025/09/BBB-Guest-Looking-at-Jewerly-1200x800.jpg)
-
-  ![](https://www.bellevuelifespring.org/wp-content/uploads/2025/09/BBB-Maria-Photo-1200x800.jpg)
-
-  ![](https://www.bellevuelifespring.org/wp-content/uploads/2025/09/BBB-Group-Photo-1200x800.jpg)
-
-  The post [Blooms, bubbles, bling, and giving back!](https://www.bellevuelifespring.org/general/blooms-bubbles-bling/) first appeared on [Bellevue LifeSpring](https://www.bellevuelifespring.org).
-
-  The post [Blooms, bubbles, bling, and giving back!](https://www.bellevuelifespring.org/general/blooms-bubbles-bling/) appeared first on [Bellevue LifeSpring](https://www.bellevuelifespring.org).
+images:
+- 2584e2734c67597be6314a90ae18efe81d018cd8bc75d848bbcbbb415e0587ae
+- b969f171a2711625d931d0cd2ef8ee0e6c3375a9689e7107da5e94b5e2bd18e3
+- d0bcaf59233714b195cd9cb9970d0dc462f202ba90d39dd1d4c81e0ef465f1f7
+- 4dbd7232d4fb7cf720034a51d9cf7a97f83c9f19ad46182e62257e7fed963d52
+locations:
+- King County
 source: Bellevue LifeSpring
 source_url: https://www.bellevuelifespring.org/general/blooms-bubbles-bling/?utm_source=rss&utm_medium=rss&utm_campaign=blooms-bubbles-bling
 summarized: true

@@ -2,10 +2,7 @@
 date: '2025-10-30T03:48:32+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: "## Additional Food Resources\n\n![Hopelink Food Resources 10.30.25](https://www.hopelink.org/wp-content/uploads/2025/10/Hopelink_Food-Resources_10.30.25.png
+feed_content: "## Additional Food Resources\n\n![Hopelink Food Resources 10.30.25](https://www.hopelink.org/wp-content/uploads/2025/10/Hopelink_Food-Resources_10.30.25.png
   \"A family sits down to open a present.\")\n\nThis list highlights community partners
   and businesses across our region who are here to support you and your loved ones.
   Each organization offers food resources to help ease the challenges many of us may
@@ -385,6 +382,9 @@ original_content: "## Additional Food Resources\n\n![Hopelink Food Resources 10.
   defer>\n\t\t(() => {\n\t\t\tlet article = document.querySelector('.block8816230550032');\n\n\t\t\tarticle.querySelectorAll('a').forEach(elm
   => {\n\t\t\t\tif (!elm.href.search(/^(http).+(hopelink.com).+$/)) {\n\t\t\t\t\telm.target
   = '_blank';\n\t\t\t\t\telm.title = 'Opens in a new tab';\n\t\t\t\t}\n\t\t\t});\n\t\t})();\n\t</script>"
+images: []
+locations:
+- King County
 source: Hopelink
 source_url: https://www.hopelink.org/blog/food-assistance-resources/
 summarized: true

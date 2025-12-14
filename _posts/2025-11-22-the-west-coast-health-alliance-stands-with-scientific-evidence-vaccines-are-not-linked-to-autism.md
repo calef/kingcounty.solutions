@@ -2,10 +2,7 @@
 date: '2025-11-22T02:11:19+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <span class="field field--name-title field--type-string field--label-hidden">The West Coast Health Alliance Stands with Scientific Evidence: Vaccines Are Not Linked to Autism</span>
 
               <div class="field field--name-field-date-and-time field--type-datetime field--label-hidden field__item"><time datetime="2025-11-22T02:07:00Z" class="datetime">November 21, 2025 - 6:07pm</time>
@@ -34,28 +31,9 @@ original_content: |-
   <p>The Alliance encourages families to seek information from trusted health care providers and reputable medical organizations, including the American Academy of Pediatrics.</p>
 
   <p class="text-align-center">###</p></div>
-original_markdown_body: |-
-  The West Coast Health Alliance Stands with Scientific Evidence: Vaccines Are Not Linked to Autism
-  <time datetime="2025-11-22T02:07:00Z" class="datetime">November 21, 2025 - 6:07pm</time>
-  derek.olson@do…<time datetime="2025-11-21T18:11:19-08:00" title="Friday, November 21, 2025 - 6:11pm" class="datetime">November 21, 2025 - 6:11pm</time>
-
-  News Category
-
-  [health-news](https://doh.wa.gov/taxonomy/term/1732)
-
-  **For immediate release:** November 21, 2025&nbsp;(25-141)
-
-  **Contact:** [DOH Communications](mailto:doh-pio@doh.wa.gov)
-
-  **OLYMPIA** – The West Coast Health Alliance continues to strongly recommend vaccines to protect our children, noting that rigorous research of millions of people in multiple countries over decades provides **high quality**  **evidence** that **vaccines are not linked to autism**. The Alliance is deeply concerned about inaccurate claims to the contrary recently posted on the federal Centers for Disease Control and Prevention website.
-
-  [Autism is a complex neurodevelopmental condition](https://autismsciencefoundation.org/causes-signs-and-symptoms/#:~:text=Scientists%20have%20learned%20that%20there,factors%20is%20the%20usual%20cause.) with multiple contributing genetic and environmental factors. Suggesting it stems from any single cause, such as vaccination, misleads families who deserve accurate guidance. It is not only a disservice to families seeking clarity about vaccines but also potentially harmful to autistic individuals and their families.
-
-  Vaccines are thoroughly tested and remain one of the most import ant tools for preventing infectious diseases. Public health guidance on immunization must be grounded in credible, evidence-based science to help parents and caregivers who may be receiving conflicting or inaccurate messages about immunization.
-
-  The Alliance encourages families to seek information from trusted health care providers and reputable medical organizations, including the American Academy of Pediatrics.
-
-  ###
+images: []
+locations:
+- King County
 source: Department of Health
 source_url: https://doh.wa.gov/newsroom/west-coast-health-alliance-stands-scientific-evidence-vaccines-are-not-linked-autism
 summarized: true

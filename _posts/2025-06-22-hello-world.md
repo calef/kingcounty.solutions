@@ -2,13 +2,11 @@
 date: '2025-06-22T16:04:42+00:00'
 events: []
 events_extracted: true
+feed_content: "<p>Welcome to WordPress. This is your first post. Edit or delete it,
+  then start writing!</p>"
 images: []
 locations:
 - King County
-original_content: "<p>Welcome to WordPress. This is your first post. Edit or delete
-  it, then start writing!</p>"
-original_markdown_body: Welcome to WordPress. This is your first post. Edit or delete
-  it, then start writing!
 source: East African Community Services
 source_url: https://www.eastafricancs.org/hello-world/
 summarized: true

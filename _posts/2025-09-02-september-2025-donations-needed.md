@@ -2,14 +2,7 @@
 date: '2025-09-02T18:58:16+00:00'
 events: []
 events_extracted: true
-images:
-- 30c19eb6bcaea188db48545bf896a07279869f6ea3d9978db0bbd2c992908275
-- 9b6caa7a1a77314c6c99b9a4c1ae839994ffb92b6941ec252a5b03914e54ea8f
-- 061011d1b46f02fdb203146350fee691ce9b1f250f22071f1f5cd78539a84893
-- 9dd12251f62fe9c4468f85e882cf8ab9fd40c2e6765722ba9f14ad45fbc075d3
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <p>When you enter Hospitality House, one of the first thing you&#8217;ll see are bins of items generously donated by YOU! Items purchased from our Amazon Donations Needed list are sent directly to Hospitality House, processed, and stored where they are available for residents to &#8220;shop,&#8221; giving them the autonomy and dignity they so deserve.</p>
 
 
@@ -47,19 +40,13 @@ original_content: |-
 
 
   <p></p>
-original_markdown_body: "When you enter Hospitality House, one of the first thing
-  you’ll see are bins of items generously donated by YOU! Items purchased from our
-  Amazon Donations Needed list are sent directly to Hospitality House, processed,
-  and stored where they are available for residents to “shop,” giving them the autonomy
-  and dignity they so deserve.\n\nResidents are encouraged to take what they need.
-  No one should have to worry about access to shampoo or deodorant while they search
-  for a job or a place to live. Your generosity is visible & so appreciated each &
-  every day! THANK YOU! ![\U0001F49A](https://static.xx.fbcdn.net/images/emoji.php/v9/t94/1/16/1f49a.png)\n\n[**CLICK
-  HERE to shop our needs!**](https://a.co/9eo400U)\n\n![](https://hospitalityhousesouthking.org/wp-content/uploads/2025/09/9.-September-2025-1024x791.png)\n\n![](https://hospitalityhousesouthking.org/wp-content/uploads/2025/09/IMG_8273-1024x768.jpg)\n\n![](https://hospitalityhousesouthking.org/wp-content/uploads/2025/09/thumbnail_IMG_8272-663x1024.jpg)\n\n![](https://hospitalityhousesouthking.org/wp-content/uploads/2025/09/thumbnail_IMG_8274-1-1024x768.jpg)\n\n<object
-  data-wp-bind--hidden=\"!state.hasPdfPreview\" hidden class=\"wp-block-file__embed\"
-  data=\"https://hospitalityhousesouthking.org/wp-content/uploads/2025/09/9.-September-2025.pdf\"
-  type=\"application/pdf\" style=\"width:100%;height:600px\" aria-label=\"Embed of
-  9. September 2025.\"></object>[9. September 2025](https://hospitalityhousesouthking.org/wp-content/uploads/2025/09/9.-September-2025.pdf)[Download](https://hospitalityhousesouthking.org/wp-content/uploads/2025/09/9.-September-2025.pdf)"
+images:
+- 30c19eb6bcaea188db48545bf896a07279869f6ea3d9978db0bbd2c992908275
+- 9b6caa7a1a77314c6c99b9a4c1ae839994ffb92b6941ec252a5b03914e54ea8f
+- 061011d1b46f02fdb203146350fee691ce9b1f250f22071f1f5cd78539a84893
+- 9dd12251f62fe9c4468f85e882cf8ab9fd40c2e6765722ba9f14ad45fbc075d3
+locations:
+- King County
 source: Hospitality House
 source_url: https://hospitalityhousesouthking.org/september-2025-donations-needed/
 summarized: true

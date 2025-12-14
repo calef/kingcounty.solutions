@@ -2,10 +2,7 @@
 date: '2025-10-09T17:24:19+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <p data-start="431" data-end="723"><strong data-start="431" data-end="468">BELLEVUE, Wash. — October 6, 2025</strong> — More than 350 community members, advocates, and supporters gathered for the <strong data-start="547" data-end="595">Asian Counseling and Referral Service (ACRS)</strong> Annual Benefit Gala on <strong data-start="619" data-end="632">October 4</strong> at the <strong data-start="640" data-end="666">Hyatt Regency Bellevue</strong>, coming together under the theme <em data-start="700" data-end="721">“Not on Our Watch.”</em></p>
   <p data-start="725" data-end="1081">The evening was filled with powerful performances, moving stories, and a collective spirit of resilience — culminating in an address by <strong data-start="861" data-end="897">ACRS’s new CEO, Kendee Yamaguchi</strong>, who announced the <strong data-start="917" data-end="952">relaunch of ACRS’s Legal Clinic</strong> this fall in partnership with the <strong data-start="987" data-end="1033">Asian Bar Association of Washington (ABAW)</strong> and the <strong data-start="1042" data-end="1080">King County Bar Association (KCBA)</strong>.</p>
   <div id="attachment_13138" style="width: 210px" class="wp-caption alignleft"><a href="https://acrs.org/wp-content/uploads/2025/10/acrs-gala25-highlights-20.jpg"><img fetchpriority="high" decoding="async" aria-describedby="caption-attachment-13138" class="size-medium wp-image-13138" src="https://acrs.org/wp-content/uploads/2025/10/acrs-gala25-highlights-20-200x300.jpg" alt="" width="200" height="300" srcset="https://acrs.org/wp-content/uploads/2025/10/acrs-gala25-highlights-20-200x300.jpg 200w, https://acrs.org/wp-content/uploads/2025/10/acrs-gala25-highlights-20-683x1024.jpg 683w, https://acrs.org/wp-content/uploads/2025/10/acrs-gala25-highlights-20-768x1152.jpg 768w, https://acrs.org/wp-content/uploads/2025/10/acrs-gala25-highlights-20.jpg 1000w" sizes="(max-width: 200px) 100vw, 200px" /></a><p id="caption-attachment-13138" class="wp-caption-text">ACRS CEO Kendee Yamaguchi affirmed ACRS’s unwavering commitment to equity, justice, and community care. Photo credit: Charissa Soriano</p></div>
@@ -31,89 +28,9 @@ original_content: |-
   <div id="attachment_13142" style="width: 310px" class="wp-caption alignleft"><a href="https://acrs.org/wp-content/uploads/2025/10/acrs-gala25-highlights-29.jpg"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-13142" class="size-medium wp-image-13142" src="https://acrs.org/wp-content/uploads/2025/10/acrs-gala25-highlights-29-300x200.jpg" alt="" width="300" height="200" srcset="https://acrs.org/wp-content/uploads/2025/10/acrs-gala25-highlights-29-300x200.jpg 300w, https://acrs.org/wp-content/uploads/2025/10/acrs-gala25-highlights-29-1024x683.jpg 1024w, https://acrs.org/wp-content/uploads/2025/10/acrs-gala25-highlights-29-768x512.jpg 768w, https://acrs.org/wp-content/uploads/2025/10/acrs-gala25-highlights-29.jpg 1500w" sizes="auto, (max-width: 300px) 100vw, 300px" /></a><p id="caption-attachment-13142" class="wp-caption-text">The program concluded with a performance by the Massive Monkees, the award-winning breakdance crew from Seattle’s Beacon Hill. Photo credit: Charissa Soriano</p></div>
   <div id="attachment_13146" style="width: 310px" class="wp-caption alignleft"><a href="https://acrs.org/wp-content/uploads/2025/10/acrs-gala25-highlights-25.jpg"><img loading="lazy" decoding="async" aria-describedby="caption-attachment-13146" class="size-medium wp-image-13146" src="https://acrs.org/wp-content/uploads/2025/10/acrs-gala25-highlights-25-300x200.jpg" alt="" width="300" height="200" srcset="https://acrs.org/wp-content/uploads/2025/10/acrs-gala25-highlights-25-300x200.jpg 300w, https://acrs.org/wp-content/uploads/2025/10/acrs-gala25-highlights-25-1024x683.jpg 1024w, https://acrs.org/wp-content/uploads/2025/10/acrs-gala25-highlights-25-768x512.jpg 768w, https://acrs.org/wp-content/uploads/2025/10/acrs-gala25-highlights-25.jpg 1500w" sizes="auto, (max-width: 300px) 100vw, 300px" /></a><p id="caption-attachment-13146" class="wp-caption-text">Photo credit: Charissa Soriano</p></div>
   <p>The post <a href="https://acrs.org/community-rises-at-2025-acrs-gala-as-ceo-kendee-yamaguchi-announces-relaunch-of-legal-clinic/">Community Rises at ACRS Gala, Stand Together Under the Theme ‘Not On Our Watch’</a> appeared first on <a href="https://acrs.org">ACRS</a>.</p>
-original_markdown_body: "**BELLEVUE, Wash. — October 6, 2025** — More than 350 community
-  members, advocates, and supporters gathered for the **Asian Counseling and Referral
-  Service (ACRS)** Annual Benefit Gala on **October 4** at the **Hyatt Regency Bellevue**
-  , coming together under the theme _“Not on Our Watch.”_\n\nThe evening was filled
-  with powerful performances, moving stories, and a collective spirit of resilience
-  — culminating in an address by **ACRS’s new CEO, Kendee Yamaguchi** , who announced
-  the **relaunch of ACRS’s Legal Clinic** this fall in partnership with the **Asian
-  Bar Association of Washington (ABAW)** and the **King County Bar Association (KCBA)**.\n\n[![](https://acrs.org/wp-content/uploads/2025/10/acrs-gala25-highlights-20-200x300.jpg)](https://acrs.org/wp-content/uploads/2025/10/acrs-gala25-highlights-20.jpg)\n\nACRS
-  CEO Kendee Yamaguchi affirmed ACRS’s unwavering commitment to equity, justice, and
-  community care. Photo credit: Charissa Soriano\n\n“Too many of our families are
-  living in fear — fear of deportation, separation, and being targeted for who they
-  are,” said Yamaguchi. “That’s why ACRS is expanding our advocacy and services, including
-  the relaunch of our Legal Clinic, to ensure no one faces those challenges alone.
-  _Not on our watch._”\n\n“Bringing this clinic back reminds us — and everyone watching
-  — that no matter what obstacles come our way, we will meet the need.”\n\nIn her
-  first major public speech since stepping into the role earlier this year, Yamaguchi’s
-  message captured both courage and continuity, affirming ACRS’s unwavering commitment
-  to equity, justice, and community care. The Legal Clinic’s return marks a renewed
-  investment in providing accessible, culturally responsive support to those most
-  in need.\n\nThe gala opened with an electrifying performance by **Seattle Kokon
-  Taiko** , whose thunderous drumming set an atmosphere of strength and solidarity.
-  Later in the evening, the program concluded with a performance by the internationally
-  renowned **Massive Monkees** , the award-winning breakdance crew from Seattle’s
-  Beacon Hill, who brought their high-energy celebrating culture and community.\n\nAmong
-  the night’s speakers was **Shomya Tripathy** , ACRS’s Policy and Civic Engagement
-  Director, who spoke about the power of collective advocacy in protecting the rights
-  of immigrant and refugee families.\n\nThe evening’s featured guest speaker, **Tessa
-  Hulls** — artist, writer, and _Pulitzer Prize–winning author_ of _Feeding Ghosts_
-  — delivered a deeply moving multimedia presentation about her family’s history and
-  their multigenerational journey through trauma, mental illness, and healing. Her
-  reflections on the power of community and belonging mirrored ACRS’s mission to provide
-  culturally responsive care and connection.\n\n[![](https://acrs.org/wp-content/uploads/2025/10/acrs-gala25-highlights-21-200x300.jpg)](https://acrs.org/wp-content/uploads/2025/10/acrs-gala25-highlights-21.jpg)\n\nThe
-  evening featured guest speaker Tessa Hulls — artist, writer, and Pulitzer Prize–winning
-  graphic novelist of Feeding Ghosts. Photo credit: Charissa Soriano\n\nGuests were
-  also invited to view Hulls’s original artwork in the foyer, featuring portraits
-  of **ACRS Club Bamboo** clients — a tribute to the elders whose stories of resilience
-  continue to inspire the community.\n\n“If something like ACRS had existed for my
-  grandmother, everything could have been different,” Hulls said. “Care requires connection,
-  and connection cannot happen without people who have the lived experience and the
-  language to understand your story.”\n\nThe program also paid tribute to two beloved
-  members of the ACRS family. The evening honored ACRS building project director and
-  first legal counsel **John Chen Beckwith** , who passed away earlier this year,
-  recognizing his vision and decades-long commitment to community. The program also
-  saluted photojournalist, recently retired ACRS employee, and longtime Chinatown–International
-  District advocate, **Dean Wong** , for his tireless dedication to uplifting the
-  stories and spirit of the community.\n\nThe evening was made possible through the
-  generous support of longtime community partners and sponsors. ACRS extends special
-  thanks to **Presenting Sponsor TMS** , which includes the former company **PMI**
-  , for its enduring partnership and commitment to ACRS’s mission. We also thank our
-  **Premier Sponsors, Amazon and Asians at Amazon** , and **Microsoft** , whose continued
-  support uplifts immigrant and refugee communities across the region.\n\nAdditional
-  gratitude goes to our **Advocate Sponsors** — the **Bill & Melinda Gates Foundation**
-  and **UPS** — as well as our **Partner Sponsors** , including **Muckleshoot Casino**
-  , **Swire Coca-Cola** , and **Uwajimaya**. We are also deeply thankful to our **Community
-  Partners** — **Banyan Legal Counsel** , **East West Bank** , and **Keller Rohrback
-  L.L.P.** — along with the many donors and volunteers whose collective generosity
-  fuels ACRS’s work year-round.\n\nTogether, these sponsors and community members
-  ensure that ACRS can continue providing vital services — from food and mental-health
-  support to citizenship, workforce training, and legal assistance — for tens of thousands
-  of people each year.\n\n**Asian Counseling and Referral Service (ACRS)** is a social
-  justice organization that promotes the health and well-being of Asians, Native Hawaiians/Pacific
-  Islanders (A&NH/PIs) and other communities by providing and advocating for responsive,
-  community-based services. ACRS offers a broad range of programs, including behavioral
-  health, human services, and civic engagement, delivered in more than 40 languages
-  and dialects. Each year, ACRS serves nearly 30,000 individuals across the Pacific
-  Northwest, empowering immigrant and refugee communities through care, connection,
-  and justice.\n\nFor more information or to support our work, visit [**acrs.org**](https://acrs.org?utm_source=chatgpt.com).\n\n**Media
-  Contact:**  \nLiza Javier  \nSenior Development & Communications Manager  \nAsian
-  Counseling and Referral Service  \nPhone: (206) 695-7600 | lizaj@acrs.org\n\n[![](https://acrs.org/wp-content/uploads/2025/10/acrs-gala25-highlights-18-300x200.jpg)](https://acrs.org/wp-content/uploads/2025/10/acrs-gala25-highlights-18.jpg)\n\nACRS’s
-  new CEO, Kendee Yamaguchi, announced the relaunch of ACRS’s Legal Clinic this fall
-  in partnership with the Asian Bar Association of Washington (ABAW) and the King
-  County Bar Association (KCBA). Photo credit: Charissa Soriano\n\n[![](https://acrs.org/wp-content/uploads/2025/10/acrs-gala25-highlights-6-300x200.jpg)](https://acrs.org/wp-content/uploads/2025/10/acrs-gala25-highlights-6.jpg)\n\nGuests
-  view Tessa Hulls’s original artwork in the foyer, featuring portraits of ACRS Club
-  Bamboo clients — a tribute to the elders whose stories of resilience continue to
-  inspire the community. Photo credit: Charissa Soriano\n\n[![](https://acrs.org/wp-content/uploads/2025/10/acrs-gala25-highlights-8-300x200.jpg)](https://acrs.org/wp-content/uploads/2025/10/acrs-gala25-highlights-8.jpg)\n\nThe
-  program saluted photojournalist, recently retired ACRS employee, and longtime Chinatown–International
-  District advocate, Dean Wong, for his tireless dedication to uplifting the stories
-  and spirit of the community. Photo credit: Charissa Soriano\n\n[![](https://acrs.org/wp-content/uploads/2025/10/acrs-gala25-highlights-29-300x200.jpg)](https://acrs.org/wp-content/uploads/2025/10/acrs-gala25-highlights-29.jpg)\n\nThe
-  program concluded with a performance by the Massive Monkees, the award-winning breakdance
-  crew from Seattle’s Beacon Hill. Photo credit: Charissa Soriano\n\n[![](https://acrs.org/wp-content/uploads/2025/10/acrs-gala25-highlights-25-300x200.jpg)](https://acrs.org/wp-content/uploads/2025/10/acrs-gala25-highlights-25.jpg)\n\nPhoto
-  credit: Charissa Soriano\n\nThe post [Community Rises at ACRS Gala, Stand Together
-  Under the Theme ‘Not On Our Watch’](https://acrs.org/community-rises-at-2025-acrs-gala-as-ceo-kendee-yamaguchi-announces-relaunch-of-legal-clinic/)
-  appeared first on [ACRS](https://acrs.org)."
+images: []
+locations:
+- King County
 source: Asian Counseling and Referral Service
 source_url: https://acrs.org/community-rises-at-2025-acrs-gala-as-ceo-kendee-yamaguchi-announces-relaunch-of-legal-clinic/
 summarized: true

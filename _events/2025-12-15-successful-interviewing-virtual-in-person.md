@@ -1,10 +1,6 @@
 ---
 end_date: '2025-12-15T12:30:00-08:00'
-images: []
-location: ''
-locations:
-- King County
-original_content: '<div> <div> <section> <title>WorkSource Seattle-King County</title>
+feed_content: '<div> <div> <section> <title>WorkSource Seattle-King County</title>
   <script>{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://worksourceskc.org/event/successful-interviewing-virtual-in-person-137/","url":"https://worksourceskc.org/event/successful-interviewing-virtual-in-person-137/","name":"Successful
   Interviewing - Virtual &amp; In Person - WorkSource Seattle-King County","isPartOf":{"@id":"https://www.worksourceskc.org/#website"},"datePublished":"2025-11-19T16:26:50+00:00","dateModified":"2025-12-12T18:35:06+00:00","description":"You
   might have the best r&#233;sum&#233; ever, but if you don&#8217;t interview well,
@@ -53,43 +49,11 @@ original_content: '<div> <div> <section> <title>WorkSource Seattle-King County</
   REGISTRATION NECESSARY: This workshop will take place in-person at the Lewiston
   City Library. You can join the workshop virtually using the link below.</p> </div>
   </div> </div> </section> </div> </section> </div> </div>'
-original_content_checksum: 1e4af715def96ba9b56fc20cb6759b4d4468bf87
-original_markdown_body: 'WorkSource Seattle-King County {"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://worksourceskc.org/event/successful-interviewing-virtual-in-person-137/","url":"https://worksourceskc.org/event/successful-interviewing-virtual-in-person-137/","name":"Successful
-  Interviewing - Virtual &amp; In Person - WorkSource Seattle-King County","isPartOf":{"@id":"https://www.worksourceskc.org/#website"},"datePublished":"2025-11-19T16:26:50+00:00","dateModified":"2025-12-12T18:35:06+00:00","description":"You
-  might have the best r&#233;sum&#233; ever, but if you don&#8217;t interview well,
-  it won&#8217;t matter. Being able to handle a job interview is a","breadcrumb":{"@id":"https://worksourceskc.org/event/successful-interviewing-virtual-in-person-137/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://worksourceskc.org/event/successful-interviewing-virtual-in-person-137/"]}]},{"@type":"BreadcrumbList","@id":"https://worksourceskc.org/event/successful-interviewing-virtual-in-person-137/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"Successful
-  Interviewing &#8211; Virtual &amp; In Person"}]},{"@type":"WebSite","@id":"https://www.worksourceskc.org/#website","url":"https://www.worksourceskc.org/","name":"WorkSource
-  Seattle-King County","description":"Let&#039;s find your path together!","publisher":{"@id":"https://www.worksourceskc.org/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.worksourceskc.org/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://www.worksourceskc.org/#organization","name":"WorkSource
-  Seattle-King County","url":"https://www.worksourceskc.org/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.worksourceskc.org/#/schema/logo/image/","url":"","contentUrl":"","caption":"WorkSource
-  Seattle-King County"},"image":{"@id":"https://www.worksourceskc.org/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/worksourceskc/"]},{"@type":"Event","name":"Successful
-  Interviewing &#8211; Virtual &amp; In Person","description":"You might have the
-  best r&#233;sum&#233; ever, but if you don&#8217;t interview well, it won&#8217;t
-  matter. Being able to handle&hellip;","url":"https://worksourceskc.org/event/successful-interviewing-virtual-in-person-137/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2025-12-15T11:00:00-08:00","endDate":"2025-12-15T12:30:00-08:00","@id":"https://worksourceskc.org/event/successful-interviewing-virtual-in-person-137/#event","mainEntityOfPage":{"@id":"https://worksourceskc.org/event/successful-interviewing-virtual-in-person-137/"}}]}
-  Successful Interviewing – Virtual & In Person – WorkSource Seattle-King County Skip
-  to main content        Job Board    Staff Log-In        Job Seekers   Get Started
-  with Personalized Support  Sign Up for Services Layoff Support    Self-Serve Resources  Career
-  Exploration Skills & Training Job Search   Workshops & Hiring Events    Employers   Business
-  Services  Employer Inquiry Form Business Connection Partners Business Assistance
-  & Workforce Support Small-Business Assistance Employee Development   Layoff Support,
-  Aversion and Retention    Locations  Auburn Downtown Seattle North Seattle Rainier
-  South Seattle   About            Go to Back to Calendar  Successful Interviewing
-  – Virtual & In Person December 15 Monday | 11:00am - 12:30pm  Add to Calendar December
-  15 11:00am 12/15/2025 12:30pm America/Los_Angeles Successful Interviewing – Virtual
-  & In Person You might have the best résumé ever, but if you don’t interview well,
-  it won’t matter. Being able to handle…  Lewiston Public Library2nd Floor - Community
-  Room411 D StreetLewiston, ID Room: 2nd Floor - Community Room Contact Name: Ray
-  Keevy Contact Phone: 509-758-5461 Contact Email: raymond.keevy@esd.wa.gov Workshop
-  Language: English Approved Unemployment Insurance (UI) Job Search Activity: Yes
-  Description:You might have the best résumé ever, but if you don’t interview well,
-  it won’t matter. Being able to handle a job interview is a necessity for any job
-  seeker. Knowing what employers are looking for and being prepared are absolute musts.
-  In this workshop, you will learn valuable interviewing tips and have the chance
-  to practice answers to frequently asked—and sometimes difficult—questions in a supportive,
-  realistic environment. Please go to WorkSourceWA.com and create your account prior
-  to attending this workshop.When you sign up for this event, please use the same
-  name and email address that you use with your worksourcewa.com account, if possible.
-  NO REGISTRATION NECESSARY: This workshop will take place in-person at the Lewiston
-  City Library. You can join the workshop virtually using the link below.'
+feed_content_checksum: 1e4af715def96ba9b56fc20cb6759b4d4468bf87
+images: []
+location: ''
+locations:
+- King County
 source: WorkSource Seattle-King County
 source_url: https://worksourceskc.org/event/successful-interviewing-virtual-in-person-137/
 start_date: '2025-12-15T11:00:00-08:00'

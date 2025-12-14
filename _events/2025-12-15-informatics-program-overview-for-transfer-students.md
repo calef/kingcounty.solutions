@@ -1,15 +1,12 @@
 ---
 end_date: '2025-12-15T17:00:00-08:00'
+feed_content: Developing a startup from the ground up can feel intimidating, especially
+  while navigating the uncertainty and pressure of entrepreneurship.After receiving
+  his Master of Science in Information Management, Nishit Bhasin, ‘24,...
 images: []
 location: Zoom
 locations:
 - King County
-original_content: Developing a startup from the ground up can feel intimidating, especially
-  while navigating the uncertainty and pressure of entrepreneurship.After receiving
-  his Master of Science in Information Management, Nishit Bhasin, ‘24,...
-original_markdown_body: Developing a startup from the ground up can feel intimidating,
-  especially while navigating the uncertainty and pressure of entrepreneurship.After
-  receiving his Master of Science in Information Management, Nishit Bhasin, ‘24,...
 published: false
 source: University of Washington
 source_url: https://ischool.uw.edu/programs/informatics

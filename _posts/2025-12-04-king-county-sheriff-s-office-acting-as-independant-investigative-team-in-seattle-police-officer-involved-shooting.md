@@ -1,15 +1,11 @@
 ---
 date: '2025-12-04T17:12:58+00:00'
-images: []
-locations: []
-original_content: Based on the Seattle Police Department’s exit from the Federal Consent
+feed_content: Based on the Seattle Police Department’s exit from the Federal Consent
   Decree in September 2025, the Seattle Police Department must now adhere to Washington
   State law for any use of deadly force by an officer. In these situations, the department
   is sub...
-original_markdown_body: Based on the Seattle Police Department’s exit from the Federal
-  Consent Decree in September 2025, the Seattle Police Department must now adhere
-  to Washington State law for any use of deadly force by an officer. In these situations,
-  the department is sub...
+images: []
+locations: []
 published: false
 source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/12/04/king-county-sheriffs-office-acting-as-independant-investigative-team-in-seattle-police-officer-involved-shooting/

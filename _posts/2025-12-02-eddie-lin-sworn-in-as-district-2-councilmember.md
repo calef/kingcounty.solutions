@@ -1,14 +1,10 @@
 ---
 date: '2025-12-02T22:55:33+00:00'
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   <p>Earlier today at a meeting of the full City Council, Eddie Lin was ceremoniously sworn in as the councilmember representing District 2. Councilmember Lin, who previously served as an attorney for the City of Seattle, won a special election for the open district seat in November. His term began immediately upon certification on Nov. 25...</p>
   <p>The post <a rel="nofollow" href="https://council.seattle.gov/2025/12/02/eddie-lin-sworn-in-as-district-2-councilmember/">Eddie Lin sworn in as District 2 councilmember</a> appeared first on <a rel="nofollow" href="https://council.seattle.gov/">Seattle City Council Blog</a>.</p>
-original_markdown_body: |-
-  Earlier today at a meeting of the full City Council, Eddie Lin was ceremoniously sworn in as the councilmember representing District 2. Councilmember Lin, who previously served as an attorney for the City of Seattle, won a special election for the open district seat in November. His term began immediately upon certification on Nov. 25...
-
-  The post [Eddie Lin sworn in as District 2 councilmember](https://council.seattle.gov/2025/12/02/eddie-lin-sworn-in-as-district-2-councilmember/) appeared first on [Seattle City Council Blog](https://council.seattle.gov/).
+images: []
+locations: []
 published: false
 source: City of Seattle
 source_url: https://council.seattle.gov/2025/12/02/eddie-lin-sworn-in-as-district-2-councilmember/

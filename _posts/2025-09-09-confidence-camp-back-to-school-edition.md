@@ -2,10 +2,7 @@
 date: '2025-09-09T18:54:29+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: "![](https://encompassnw.org/wp-content/uploads/2025/09/Confidence-Camp-Square-300x300.png)When
+feed_content: "![](https://encompassnw.org/wp-content/uploads/2025/09/Confidence-Camp-Square-300x300.png)When
   a new school year approaches, many kids experience a whirlwind of mixed emotions.
   While some might be excited about returning to school, others are anxious at the
   thought of navigating structured routines, peer interactions, new teachers, or schoolwork.\n\nIn
@@ -70,6 +67,9 @@ original_content: "![](https://encompassnw.org/wp-content/uploads/2025/09/Confid
   more or register: [https://bit.ly/3I3dJFe](https://bit.ly/3I3dJFe)**\n\nThe post
   [Confidence Camp: Back-to-School Edition](https://encompassnw.org/confidence-camp-back-to-school-edition/)
   first appeared on [Encompass](https://encompassnw.org)."
+images: []
+locations:
+- King County
 source: Encompass
 source_url: https://encompassnw.org/confidence-camp-back-to-school-edition/
 summarized: true

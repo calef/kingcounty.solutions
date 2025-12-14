@@ -1,12 +1,8 @@
 ---
 end_date: '2025-12-21T17:00:00-08:00'
-images: []
-location: Virtual/Online, United States
-locations:
-- King County
-original_content: "<section> <div> <div> <div> <section> <div> <div> <span> Event
-  Series: </span> <a> <span> Open Healthcare Enrollment – Ends Jan 15, 2026 </span>
-  </a> </div> <h1>Open Healthcare Enrollment – Ends Jan 15, 2026</h1> <div> <h2> <span>December
+feed_content: "<section> <div> <div> <div> <section> <div> <div> <span> Event Series:
+  </span> <a> <span> Open Healthcare Enrollment – Ends Jan 15, 2026 </span> </a> </div>
+  <h1>Open Healthcare Enrollment – Ends Jan 15, 2026</h1> <div> <h2> <span>December
   21 @ 8:00 am</span> - <span>5:00 pm</span> </h2> </div> <div> <div> <p>Health plans
   are changing for 2026.</p> <p>Contact <strong>WA Health Plan Finder</strong> to
   find a health and dental plan that fits your life.  Services are often free with
@@ -30,20 +26,11 @@ original_content: "<section> <div> <div> <div> <section> <div> <div> <span> Even
   to Save 3 Lives</a></h3> <span>December 14 @ 8:00 am</span> - <span>5:00 pm</span>
   </div> </li> </ul> </div> <p> <a> Back to events</a> </p> </div> </section> </div>
   </div> </div> </section>"
-original_content_checksum: 25511562cb5703b693a38d5ee2343807c3fa982b
-original_markdown_body: 'Event Series:    Open Healthcare Enrollment – Ends Jan 15,
-  2026    Open Healthcare Enrollment – Ends Jan 15, 2026   December 21 @ 8:00 am -
-  5:00 pm     Health plans are changing for 2026. Contact WA Health Plan Finder to
-  find a health and dental plan that fits your life.  Services are often free with
-  over 200 languages available for assistance. Apple Health (Medicaid) is free or
-  low-cost health insurance coverage for those who qualify. Open enrollment ends January
-  15, 2026.  Apply now! For more information and apply, visit wahealthplanfinder.org.         Google
-  Calendar     iCalendar     Outlook 365     Outlook Live           Details    Date:   December
-  21     Time:   8:00 am - 5:00 pm    Series:    Open Healthcare Enrollment – Ends
-  Jan 15, 2026    Event Category: Community Event   Website:  wahealthplanfinder.org       Venue    Virtual/Online     United
-  States  + Google Map       Related Events    Community Resource Fair December 13
-  @ 11:30 am - 2:30 pm     Rainier Symphony Concert December 13 @ 6:30 pm - 8:30 pm     Give
-  Blood to Save 3 Lives December 14 @ 8:00 am - 5:00 pm       Back to events'
+feed_content_checksum: 25511562cb5703b693a38d5ee2343807c3fa982b
+images: []
+location: Virtual/Online, United States
+locations:
+- King County
 source: City of Tukwila
 source_url: https://www.tukwilawa.gov/event/open-healthcare-enrollment-ends-jan-15-2026/2025-12-21/
 start_date: '2025-12-21T08:00:00-08:00'

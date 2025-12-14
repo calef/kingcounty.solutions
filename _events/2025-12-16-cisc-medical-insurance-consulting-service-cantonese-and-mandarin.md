@@ -1,10 +1,6 @@
 ---
 end_date: '2025-12-16T17:00:00-08:00'
-images: []
-location: CISC, 16305 NE 87th St, Suite 123, Redmond, WA, 98052, United States
-locations:
-- King County
-original_content: '<div class="ast-container"> <section id="tribe-events-pg-template"
+feed_content: '<div class="ast-container"> <section id="tribe-events-pg-template"
   class="tribe-events-pg-template" role="main"> <div id="tribe-events-content" class="tribe-events-single">
   <p class="tribe-events-back"> <a href="https://togethercenter.org/events/"> « All
   Events</a> </p> <div class="tribe-events-series-relationship-single-marker tribe-common">
@@ -107,29 +103,10 @@ original_content: '<div class="ast-container"> <section id="tribe-events-pg-temp
   class="tribe-event-url" rel="bookmark">Essentials First Redmond Distribution Location</a></h3>
   <span class="tribe-event-date-start">December 5 @ 10:00 am</span> - <span class="tribe-event-time">2:00
   pm</span> </div> </li> </ul> </div> </div> </section> </div>'
-original_markdown_body: "« All Events    Event Series:    East King County Family
-  Resource Center – Information and Assistance Services – Russian Speaking    CISC
-  – Medical Insurance Consulting Service – Cantonese and Mandarin   December 16 @
-  9:00 am - 5:00 pm  Free    Person-Centered Support Access to affordable healthcare
-  provides peace of mind. Our Healthcare Access Team is dedicated to providing person-centered
-  assistance to enable clients to make informed decisions about their healthcare coverage.
-  Our team empowers community members through workshops, information and assistance,
-  and outreach. Benefits Enrollment Center (BEC) We operate the first regional BEC
-  in the state of Washington that is funded by the National Council on Aging. Along
-  with our partners, we provide person-centered assistance to low-income seniors and
-  persons with disabilities in accessing benefits for which they may be eligible,
-  such as Medicare, Medicaid, Low-income Subsidy, Medicare Savings Programs, Supplemental
-  Nutrition Assistance Program, utility discount, and prescription drug assistance
-  programs. Languages offered: Cantonese, Mandarin         Google Calendar     iCalendar
-  \    Outlook 365     Outlook Live           Details    Date:   December 16     Time:
-  \  9:00 am - 5:00 pm    Series:    East King County Family Resource Center – Information
-  and Assistance Services – Russian Speaking    Cost:  Free    Event Category: Open
-  Office Hours   Website:  https://cisc-seattle.org/healthcare-access-team/      Organizer
-  \  CISC    Phone   206-624-5633     Email   info@cisc-seattle.org     View Organizer
-  Website         Venue    CISC     16305 NE 87th St, Suite 123 Redmond, WA 98052
-  United States     Phone  4258696699       Related Events    ARCH December 5 @ 10:00
-  am - 2:00 pm     Manos Unidas International December 5 @ 10:00 am - 2:00 pm     Essentials
-  First Redmond Distribution Location December 5 @ 10:00 am - 2:00 pm"
+images: []
+location: CISC, 16305 NE 87th St, Suite 123, Redmond, WA, 98052, United States
+locations:
+- King County
 source: Together Center
 source_url: https://togethercenter.org/event/cisc-medical-insurance-consulting-service-cantonese-and-mandarin/2025-12-16/
 start_date: '2025-12-16T09:00:00-08:00'

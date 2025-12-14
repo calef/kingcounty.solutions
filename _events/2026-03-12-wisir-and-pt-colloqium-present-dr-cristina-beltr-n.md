@@ -1,10 +1,6 @@
 ---
 end_date: '2026-03-12T13:30:00-07:00'
-images: []
-location: Gowen Hall (GWN)
-locations:
-- King County
-original_content: "<a>Skip to main content</a><div><div> <div> <div> <div> <div> <div>
+feed_content: "<a>Skip to main content</a><div><div> <div> <div> <div> <div> <div>
   <div> <div> <form> <span>Hit enter to search or ESC to close</span> </form> </div>
   </div> </div> <div><a><span>Close Search</span> </a></div> </div> </div> </div>
   <header> <div> <div> <div> <a><span>search</span></a> <div> <div> <a> <span>Menu</span>
@@ -235,150 +231,11 @@ original_content: "<a>Skip to main content</a><div><div> <div> <div> <div> <div>
   Policing, &amp; Resistance</a></li> <li><a>Sawyer Seminar on Race and Capitalism</a></li>
   </ul> </li> <li> <a>About</a> <ul> <li><a>Contact</a></li> </ul> </li> <li><a>Make
   A Gift</a></li> </ul> </div> </div> </div> </div> </div> </div></div>"
-original_content_checksum: d74c9d60885732b3fef51f83f6e8445641e0699c
-original_markdown_body: 'Skip to main content         Hit enter to search or ESC to
-  close     Close Search         search    Menu                     FUTURE EVENTS                Friday,
-  October 24th, 2025. 12:00–1:30PM. WISIR and Political Theory Colloquium Distinguished
-  Lecture: Shatema Threadcraft | Vanderbilt University, Associate Professor of Gender
-  and Sexuality Studies Gowen 1A.               Thursday, March 12th, 2026. 12:00–1:30PM.
-  WISIR and Political Theory Colloquium Distinguished Lecture: Cristina Beltrán |
-  NYU, Associate Professor of Latin American Studies Gowen 1A.               PREVIOUS
-  EVENTS                Spring 2025               Tuesday, April 15th, 2024. 12:30–2:00PM.
-  WISIR Distinguished Lecture: Emily Zackin | Johns Hopkins University, Associate
-  Professor of Political Science “The Political Development of American Debt Relief”
-  Smith 40A.               Fall 2024               Monday, October 14th, 2024. 6:30PM.
-  Public Lecture: “The 2024 Election: A Conversation on Race, Gender, and Democracy”
-  Featuring Dr. Christina Greer (Fordham University) and moderated by Dr. Megan Francis
-  (University of Washington). Kane Hall 210               Spring 2024               Tuesday
-  March 26th, 2024. 1:30–3:00PM WISIR Distinguished Lecture: Juliet Hooker | Brown
-  University, Royce Family Professor of Political Science “Black Grief/White Grievance:
-  Democracy and the Problem of Political Loss” The Olson Room (Gowen 1A)               Postponed
-  to later day in 2024-2025 AY Book Launch: Margaret Perez Brower | UW Political Science
-  “Intersectional Advocacy: Redrawing Boundaries Around Race, Gender, and Class” The
-  Olson Room (Gowen 1A)               Winter 2024               Friday, February 16th,
-  2024. 10:30AM–12:00PM WISIR Distinguished Lecture: Jeannine Bell | Loyola University
-  Chicago, Curt and Linda Rodin Professor of Law and Social Justice “Protest, Police
-  and Interaction: Sorting out Americans Complicated Views Police Behavior” The Olson
-  Room (Gowen 1A)               Friday, March 8th, 2023. 12:00PM–1:30PM WISIR Distinguished
-  Lecture: Dara Strolovitch | Yale University, Professor of Women’s Gender and Sexuality
-  Studies, American Studies, and Political Science “When Bad Things Happen to Privileged
-  People: Race, Gender, and What Makes a Crisis in America” The Olson Room (Gowen
-  1A)               Winter 2023               WISIR Distinguished Lecture: Abbye Atkinson,
-  Professor of Law, University of California, Berkeley, School of Law. Friday, March
-  31st, 2023, 12:00 – 1:30 PM. The Olson Room (Gowen 1A).  Title TBD.                WISIR
-  Distinguished Lecture: Dara Strolovitch, Professor of Gender and Sexuality Studies,
-  Princeton University. Friday, May 12, 2023, 12:00 – 1:30 PM. The Olson Room (Gowen
-  1A).  Title TBD.               Fall 2022               WISIR Distinguished Lecture:
-  Michael Rodríguez Muñiz, Professor of Sociology and Latino/Latina Studies, Northwestern
-  University. Friday, October 21st, 2022. 12:00-1:30 pm, The Olson Room (Gowen 1A).  “A
-  Few Bad Apples or a Rotten Tree? Racial State Frames in Times of Political Distrust”               Spring
-  2022               WISIR Distinguished Lecture: Destin Jenkins, Professor of History,
-  Stanford University. This talk, titled “The Bonds of Racial Inequality in Postwar
-  America,” was held on May 20th, 2022.               WISIR Distinguished Lecture:
-  Adom Getachew, Professor Neubauer Family Assistant Professor of Political Science,
-  University of Chicago. This talk, titled “A History of Self-Determination before
-  Decolonization,” was held on May 27th, 2022.               Spring 2021               Friday,
-  February 26, 1:00-2:30 p.m. WISIR Distinguished Lecture: Marisa Abrajano, Professor
-  of Political Science, UC San Diego. “(Mis)Informed: What Americans Know About Social
-  Groups and Why it Matters for Politics.”               Winter 2020               Thursday,
-  January 30 5:30-7:00 p.m. WISIR Distinguished Lecture: Melanye Price, Endowed Professor
-  of Political Science, Prairie View A&M University. “Mountaintop Removal: MLK, Trump,
-  and the Racial Mountain”, Gowen Hall 301               Fall 2019               Friday,
-  December 13th 1:00-2:30 p.m. WISIR Distinguished Lecture: Shatema Threadcraft, Associate
-  Professor of Government, Dartmouth University. “Redistributing Narrative Capital:
-  Lynching, Rape, and Stories of Black Peoplehood”. Gowen Hall, Olson Room               Spring
-  2017               Monday, April 3, 4:30-6:00 p.m. WISIR Reading Group Our text
-  will be Alvin B. Tillery, Jr., Between Homeland and Motherland: Africa, U.S. Foreign
-  Policy, and Black Leadership in America (Ithaca, NY: Cornell University Press, 2011),
-  Introduction and Chapter 1. Refreshments served. Smith Hall 40A.     Monday, April
-  10, 12:00-1:30 p.m. WISIR Distinguished Lecture: Alvin B. Tillery, Jr., Associate
-  Professor of Political Science, Northwestern University. “Immigration in the African
-  American Mind: Reverse Racial Triangulation and Proxy Representation, 1830-1945.”
-  Refreshments served. The Petersen Room, Allen Library, Room 485.     Monday, April
-  10, 4:30-6:00 p.m. Discussion Group with Professor Tillery. Refreshments served.
-  The Olson Room, Gowen 1A.               Friday, April 21st 10:00-11:30 a.m. Distinguished
-  Lecture: Efrén Pérez,  Associate Professor of Political Science, UT Austin. “E Pluribus
-  Unum: Clarifying When and How Elites (Dis)Incline Immigrants Towards a Political
-  Ideal.” Gowen Hall, Olson Room               Winter 2017               Monday, January
-  23, 4:30-6:00 p.m. WISIR Reading Group Our text will be Phillip Ayoub, When States
-  Come Out: Europe’s Sexual Minorities and the Politics of Visibility, Chapters 1
-  and 2. Refreshments served. Smith Hall 40A.     Monday, January 30, 12:00-1:30 p.m.
-  WISIR Distinguished Lecture: Phillip Ayoub, Assistant Professor of Politics, Drexel
-  University. “When States Come Out: Europe’s Sexual Minorities and the Politics of
-  Visibility.” Refreshments served. The Petersen Room, Allen Library, Room 485.     Monday,
-  January 30, 4:30-6:00 p.m. Discussion Group with Professor Ayoub. Refreshments served.
-  The Olson Room, Gowen 1A.               Spring 2016               Monday, April
-  11, 4:30-6:00 p.m. WISIR Reading Group Our text will be Michael Dawson, “Katrina
-  and the Nadir of Black Politics,” in Not In Our Lifetimes: The Future of Black Politics
-  (Chicago: University of Chicago Press, 2011), Chapter 2 (pp. 21-62). Drinks and
-  refreshments served. Smith Hall 40A.     Monday, April 18, 12:00-1:30 p.m. WISIR
-  Distinguished Lecture: Michael C. Dawson, John D. MacArthur Professor of Political
-  Science, University of Chicago. “Support for Reparations in the Early 21st Century.”
-  Light lunch served. The Petersen Room, Allen Library, Room 485.     Monday, April
-  18, 4:30-6:00 p.m. Discussion Group with Professor Dawson. Drinks and refreshments
-  served. The Olson Room, Gowen 1A.               Wednesday, May 18, 12:00-1:30 p.m.
-  WISIR Postdoctoral Prize Lecture: Kirstine S. Taylor, Postdoctoral Lecturer in Political
-  Science and WISIR Postdoctoral Prize Fellow, University of Washington. “The Alchemy
-  of Racial Innocence.” Light lunch served. The Petersen Room, Allen Library, Room
-  485.     Wednesday, May 18, 4:30-6:00 p.m. Year-End Reception. Drinks and refreshments
-  served. The Olson Room, Gowen 1A.               Winter 2016               Monday,
-  January 25, 4:30-6:00 p.m. WISIR Reading Group Our text will be Natalie Matsuoka
-  and Jane Junn, The Politics of Belonging: Race, Public Opinion, and Immigration
-  (Chicago: University of Chicago Press, 2013), Introduction, Chapter 1, and Chapter
-  5 (pp. 1-35, 122-155). Drinks and refreshments served. Smith Hall 40A.     Monday,
-  February 1, 12:00-1:30 p.m. WISIR Distinguished Lecture: Jane Junn, Professor of
-  Political Science, University of Southern California. “A Spatial Theory of Racial
-  Identity in U.S. Politics: Two Applications of the Racial Prism of Group Identity
-  Model.” Light lunch served. The Petersen Room, Allen Library, Room 485.     Monday,
-  February 1, 4:30-6:00 p.m. Discussion Group with Professor Junn. Drinks and refreshments
-  served. The Olson Room, Gowen 1A.               Autumn 2016               Monday,
-  October 10, 4:30-6:00 p.m. WISIR Reading Group Our text will be Cristina Beltrán, The
-  Trouble with Unity: Latino Politics and the Creation of Identity (Oxford: Oxford
-  University Press, 2010), Introduction and Chapter 4 (pp. 3-19, 99-128). Refreshments
-  served. The Olson Room, Gowen 1A. Co-sponsored by the Center for Communication,
-  Difference, and Equity (CCDE).     Monday, October 17, 12:00-1:30 p.m. WISIR Distinguished
-  Lecture: Cristina Beltrán, Associate Professor of Social and Cultural Analysis and
-  Director of Latino Studies, New York University. “When Passion Trumps: The Latino
-  Vote in 2016 and the Republican Melodrama of Loss.” Refreshments served. The Petersen
-  Room, Allen Library, Room 485. Co-sponsored by the Center for Communication, Difference,
-  and Equity (CCDE).     Monday, October 17, 4:30-6:00 p.m. Discussion Group with
-  Professor Beltrán. Refreshments served. The Olson Room, Gowen 1A. Co-sponsored by
-  the Center for Communication, Difference, and Equity (CCDE).               Friday,
-  November 18, 3:00-4:00 p.m. Distinguished Lecture: Juliet Hooker,  Associate Professor
-  of Government and Africa and African Diaspora Studies, UT Austin. “Black Protest
-  beyond Democratic Sacrifice: BLM and the Memory of the Civil Rights Movement.” Savory
-  Hall 260               Autumn 2015               Monday, October 26, 4:30-6:00 p.m.
-  WISIR Reading Group. Our text will be Christopher J. Lebron, “The Problem of Social
-  Value,” Chapter 2 of The Color of Our Shame: Race and Justice in Our Time (Oxford:
-  Oxford University Press, 2013), 43-71. Drinks and refreshments served. Smith Hall
-  40A.     Monday, November 2, 12:00-1:30 p.m. WISIR Distinguished Lecture: Christopher
-  J. Lebron, Assistant Professor of Philosophy and African American Studies, Yale
-  University. “Black Love and Black Rage in America: The Burden of Hope.” Light Lunch
-  Served. The Smith Room, Suzzallo Library, Room 324.     Monday, November 2, 4:30-6:00
-  p.m. Discussion Group with Professor Lebron. Drinks and refreshments served. Smith
-  Hall 40A.           Recent News   Emily Zackin Talk: April 15th @ 12:30pm March
-  29, 2025  José Jorge Mendoza Lunch Workshare: February 7th at 12:30 January 21,
-  2025  10/14 Public Talk: The 2024 Election – Race, Gender, & Democracy w/ Dr. Christina
-  Greer! October 2, 2024  Dara Strolovitch Talk: March 8th at 12pm February 14, 2024  Jeannine
-  Bell Talk: February 16th at 10:30 February 10, 2024    Archives  March 2025 January
-  2025 October 2024 February 2024 January 2024 December 2023 November 2023 October
-  2023 May 2022 March 2022 December 2021 November 2021 August 2021 June 2021 April
-  2021 March 2021 February 2021 January 2021 October 2020 September 2020 August 2020
-  July 2020 June 2020 May 2020 February 2020 September 2019 August 2019 October 2018
-  May 2018 April 2018 February 2018 December 2017 October 2017 April 2017 January
-  2017 October 2016 May 2016 April 2016 December 2015 November 2015 October 2015    Categories   Brown
-  Bag Series   Events   News   Research Projects   Sawyer Seminar   Uncategorized   Visiting
-  Speakers     Tags  African American Politics Announcement Capitalism Christopher
-  J. Lebron Elections Empire Events Extremism Fellowships Grant Competition History
-  Immigration Jane Junn Kirstine Taylor Labor Latino Politics Law MAGA Media Megan
-  Francis Megan Ming Francis Michael C. Dawson Michael McCann News Panels Party Politics
-  Police Policing Protest Race Race and Capitalism Racial Capitalism Resistance Sawyer
-  Series social movements Sophia Wallace State Politics Violence Voting             About
-  Contact         © 2025 WISIR. All Rights Reserved.    twitter facebook         Close
-  Menu     People  Leadership Advisory Committee Sawyer Seminar Fellows Graduate Fellows   News  Events  Webinar
-  Series on Race and Contemporary Issues Speakers and Gatherings Lunch Workshare Series
-  Histories of Racial Capitalism: Empire, Policing, & Resistance Sawyer Seminar on
-  Race and Capitalism    About  Contact   Make A Gift'
+feed_content_checksum: d74c9d60885732b3fef51f83f6e8445641e0699c
+images: []
+location: Gowen Hall (GWN)
+locations:
+- King County
 published: false
 source: University of Washington
 source_url: https://depts.washington.edu/wisir/events/

@@ -1,13 +1,9 @@
 ---
 end_date: '2025-12-29T11:00:00-08:00'
-images: []
-location: Foster High School, 4242 S 144th St, Tukwila, 98188
-locations:
-- King County
-original_content: "<section> <div> <div> <div> <section> <div> <div> <span> Event
-  Series: </span> <a> <span> Free Rave Winter Soccer Clinics (Ages 5-11) </span> </a>
-  </div> <h1>Free Rave Winter Soccer Clinics (Ages 5-11)</h1> <div> <h2> <span>December
-  29 @ 9:30 am</span> - <span>11:00 am</span> </h2> </div> <div> <div> <div> <div>Dribble,
+feed_content: "<section> <div> <div> <div> <section> <div> <div> <span> Event Series:
+  </span> <a> <span> Free Rave Winter Soccer Clinics (Ages 5-11) </span> </a> </div>
+  <h1>Free Rave Winter Soccer Clinics (Ages 5-11)</h1> <div> <h2> <span>December 29
+  @ 9:30 am</span> - <span>11:00 am</span> </h2> </div> <div> <div> <div> <div>Dribble,
   pass, score!<strong>  Free Rave soccer clinics</strong> will offer an introduction
   to the sport and focus on ball handling, passing, and teamwork with a variety of
   drills, games, and a scrimmage.</div> <div>Thanks to RAVE soccer foundation all
@@ -43,28 +39,11 @@ original_content: "<section> <div> <div> <div> <section> <div> <div> <span> Even
   <h3><a>Free Rave Winter Soccer Clinics (Ages 5-11)</a></h3> <span>December 31 @
   9:30 am</span> - <span>11:00 am</span> </div> </li> </ul> </div> <p> <a> Back to
   events</a> </p> </div> </section> </div> </div> </div> </section>"
-original_content_checksum: 55d9515a822a91569109d17c5c1ed7b5ad45a133
-original_markdown_body: 'Event Series:    Free Rave Winter Soccer Clinics (Ages 5-11)    Free
-  Rave Winter Soccer Clinics (Ages 5-11)   December 29 @ 9:30 am - 11:00 am      Dribble,
-  pass, score!  Free Rave soccer clinics will offer an introduction to the sport and
-  focus on ball handling, passing, and teamwork with a variety of drills, games, and
-  a scrimmage. Thanks to RAVE soccer foundation all participants will be going home
-  with a soccer ball and shin guards. Hosted at Foster High School soccer field in
-  partnership with Tukwila School District. __________________________________ RAVE
-  Soccer Clinic #23515     12/29/25   Age: 5 to 11    9:30 am – 11:30 am  Tukwila
-  Community Center – Foster High School     Register Now!    __________________________________    RAVE
-  Soccer Clinic #23516     12/30/25  Age: 5 to 11 9:30 am – 11:30 am   Tukwila Community
-  Center – Foster High School    Register Now!  __________________________________  RAVE
-  Soccer Clinic #23517        12/31/25     Age: 5 to 11 9:30 am – 11:30 am    Tukwila
-  Community Center – Foster High School            Google Calendar     iCalendar     Outlook
-  365     Outlook Live           Details    Date:   December 29     Time:   9:30 am
-  - 11:00 am    Series:    Free Rave Winter Soccer Clinics (Ages 5-11)    Event Category:
-  City Event      Venue    Foster High School     4242 S 144th St Tukwila, 98188  +
-  Google Map       Related Events    Tukwila Community Center Maintenance Closure
-  – Dec 22 – Jan 4 December 22, 2025 @ 8:00 am - January 4, 2026 @ 7:00 pm     Free
-  Rave Winter Soccer Clinics (Ages 5-11) December 30 @ 9:30 am - 11:00 am     Free
-  Rave Winter Soccer Clinics (Ages 5-11) December 31 @ 9:30 am - 11:00 am       Back
-  to events'
+feed_content_checksum: 55d9515a822a91569109d17c5c1ed7b5ad45a133
+images: []
+location: Foster High School, 4242 S 144th St, Tukwila, 98188
+locations:
+- King County
 source: City of Tukwila
 source_url: https://www.tukwilawa.gov/event/free-rave-winter-soccer-clinics-ages-5-11/2025-12-29/
 start_date: '2025-12-29T09:30:00-08:00'

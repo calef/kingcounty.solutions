@@ -1,11 +1,7 @@
 ---
 end_date: '2025-12-17T12:30:00-08:00'
-images: []
-location: El Centro de la Raza, 2524 16th Ave S, Seattle, WA, 98144, United States
-locations:
-- King County
-original_content: "<article><div><section> <div> <p> <a> « All Events</a></p> <div>
-  <span> Event Series: </span> <a> <span> Kaleidoscope Play and Learn (Evento en Español)
+feed_content: "<article><div><section> <div> <p> <a> « All Events</a></p> <div> <span>
+  Event Series: </span> <a> <span> Kaleidoscope Play and Learn (Evento en Español)
   </span> </a> </div> <h1>Kaleidoscope Play and Learn (Evento en Español)</h1> <div>
   <div> <span>December 17 @ 10:30 am</span> - <span>12:30 pm</span> </div> <span>Free</span>
   </div> <div> <div> <p>What is Kaleidoscope Play &amp; Learn? Kaleidoscope Play &amp;
@@ -40,30 +36,11 @@ original_content: "<article><div><section> <div> <p> <a> « All Events</a></p> <
   pm</span> </div> </li> <li> <div> <h3><a>Herramientas Digitales/ Digital Skills
   for Life</a></h3> <span>December 11 @ 5:30 pm</span> - <span>7:30 pm</span> </div>
   </li> </ul> </div> </div> </section></div></article>"
-original_content_checksum: 91e3f7dcfa15deac750194f4d6c440bf1f957777
-original_markdown_body: "« All Events   Event Series:    Kaleidoscope Play and Learn
-  (Evento en Español)    Kaleidoscope Play and Learn (Evento en Español)   December
-  17 @ 10:30 am - 12:30 pm  Free    What is Kaleidoscope Play & Learn? Kaleidoscope
-  Play & Learn groups are gathering spaces for Family, Friend, and Neighbor caregivers,
-  parent, and young children to meet with others in their community and learn about
-  fostering healthy child development and school readiness. Kaleidoscope Play & Learn
-  is a place where everyone, children and adults, learn through play. Groups are led
-  by members of the community in culturally-responsive environments. ¿Qué es Kaleidoscope
-  Play & Learn? Los grupos Kaleidoscope Play & Learn son espacios de reunión para
-  que familiares, amigos y vecinos, cuidadores, padres y niños pequeños se reúnan
-  con otras personas en su comunidad y aprendan cómo fomentar el desarrollo infantil
-  saludable y la preparación escolar. Kaleidoscope Play & Learn es un lugar donde
-  todos, niños y adultos, aprendemos jugando. Los grupos están dirigidos por miembros
-  de la comunidad en entornos culturalmente receptivos.      Google Calendar     iCalendar
-  \    Outlook 365     Outlook Live        Details   Date:   December 17     Time:
-  10:30 am - 12:30 pm   Series:   Kaleidoscope Play and Learn (Evento en Español)
-  \   Cost:  Free    Event Categories: Child & Family Services, Community Resource
-  \  Event Tags:Children, Community, Community Resource, Latino     Organizer   El
-  Centro de la Raza    Phone   206-957-4649         Venue   El Centro de la Raza     2524
-  16th Ave S Seattle, WA 98144 United States  + Google Map       Related Events    Digital
-  Skills for Life/ Herramientas Digitales December 11 @ 5:30 pm - 7:30 pm     Latin@s
-  in Business/ Latin@s en Negocios December 11 @ 5:30 pm - 7:30 pm     Herramientas
-  Digitales/ Digital Skills for Life December 11 @ 5:30 pm - 7:30 pm"
+feed_content_checksum: 91e3f7dcfa15deac750194f4d6c440bf1f957777
+images: []
+location: El Centro de la Raza, 2524 16th Ave S, Seattle, WA, 98144, United States
+locations:
+- King County
 source: El Centro de la Raza
 source_url: https://www.elcentrodelaraza.org/event/kaleidoscope-play-and-learn-evento-en-espanol-2/2025-12-17/
 start_date: '2025-12-17T10:30:00-08:00'

@@ -2,18 +2,14 @@
 date: '2025-12-09T01:14:46+00:00'
 events: []
 events_extracted: true
+feed_content: Seattle and the surrounding region may be impacted by high winds and
+  a strong atmospheric river event that will bring heavy rain to western Washington
+  today through Wednesday, leading to potential for flooding and landslides. The City
+  of Seattle is pla...
+feed_content_checksum: fd38742dc9ab879047382b6b1e071242888219ac
 images: []
 locations:
 - King County
-original_content: Seattle and the surrounding region may be impacted by high winds
-  and a strong atmospheric river event that will bring heavy rain to western Washington
-  today through Wednesday, leading to potential for flooding and landslides. The City
-  of Seattle is pla...
-original_content_checksum: fd38742dc9ab879047382b6b1e071242888219ac
-original_markdown_body: Seattle and the surrounding region may be impacted by high
-  winds and a strong atmospheric river event that will bring heavy rain to western
-  Washington today through Wednesday, leading to potential for flooding and landslides.
-  The City of Seattle is pla...
 source: City of Seattle
 source_url: https://harrell.seattle.gov/2025/12/09/december-winter-weather-update/
 summarized: true

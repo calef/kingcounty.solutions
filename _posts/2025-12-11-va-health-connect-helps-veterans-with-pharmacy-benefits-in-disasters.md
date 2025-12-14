@@ -1,9 +1,6 @@
 ---
 date: '2025-12-11T15:30:00+00:00'
-images: []
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <h2>Program can help provide medications to Veterans via local pharmacy</h2>
 
 
@@ -71,39 +68,10 @@ original_content: |-
 
 
   <p><a>VA Health Connect</a> provides pharmacy services (hours vary based on location), appointment scheduling, clinical triage (to speak to a registered nurse) and more.</p>
-original_content_checksum: 7065a468eb9a8ffbfcc1b6f40ab1214fff8d99b2
-original_markdown_body: |-
-  ## Program can help provide medications to Veterans via local pharmacy
-
-  If you’ve ever lived through a natural disaster—a flood, wildfire or hurricane—you know how quickly access to medications can be cut off: Power may be out, roads may be closed and pharmacies may be unreachable.
-
-  That’s why VA offers the Disaster Pharmacy Benefit for enrolled Veterans who need prescriptions during an emergency.
-
-  “Access to prescription medications is a matter of life and death for many Veterans,” said Molly Bruvold, VA Health Connect pharmacy program manager. “The Disaster Pharmacy Benefit is there for Veterans when the unexpected happens—whether you lost medication in a flood or need certain medication quickly. There are many different scenarios where the benefit is extremely valuable when time is of the essence.”
-
-  During disasters, local VA leadership can activate the Disaster Pharmacy Benefit to make sure Veterans can continue their treatment without interruption. When this benefit is in effect, Veterans may bring their empty medication bottles to a community pharmacy to receive an emergency supply of the VA-prescribed medications, especially when local VA pharmacies are closed or unreachable.
-
-  Peter Wills, pharmacy services chief for VISN 8, recalled one instance shortly after Hurricane Milton struck in October 2024. A Veteran living in the Sarasota, Florida, area called the clinical contact center pharmacy two days after the storm passed.
-
-  “His car was flooded by the storm surge and he didn’t have access to public transportation,” Wills said. “He still needed his medication and couldn’t wait until he could reach a pharmacy safely.”
-
-  Thanks to the Disaster Pharmacy Benefit, the local VA team was able to coordinate with a nearby community pharmacy, allowing the Veteran to receive an emergency refill.
-
-  “That’s the goal, to make sure no Veteran goes without essential care, even when a disaster strikes,” Bruvold said.
-
-  This benefit covers a broad range of essential medications and is available to enrolled Veterans whenever a natural disaster or declared emergency disrupts access to VA pharmacies. The goal is to provide same-day or next-day medication, allowing Veterans to access the benefit after hours, on weekends and during emergencies.
-
-  Veterans can call VA Health Connect by dialing the local VA medical facility phone number (press #1 for pharmacy). VA staff will coordinate with pharmacies.
-
-  ## Helpful tips
-
-  - Write down your local VA medical facility phone number and put it in your phone so you have it handy if and when you need it.
-  - Veterans (or the person picking up the medication) should render proper ID and relevant prescription information when picking up the medication from a local pharmacy.
-  - During a medical emergency, dial 911.
-
-  ## About VA Health Connect
-
-  VA Health Connect provides pharmacy services (hours vary based on location), appointment scheduling, clinical triage (to speak to a registered nurse) and more.
+feed_content_checksum: 7065a468eb9a8ffbfcc1b6f40ab1214fff8d99b2
+images: []
+locations:
+- King County
 published: false
 rss_guid: https://news.va.gov/?p=143757
 source: Veterans Affairs Pension Program

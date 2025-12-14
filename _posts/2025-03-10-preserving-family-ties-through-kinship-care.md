@@ -2,10 +2,7 @@
 date: '2025-03-10T20:48:14+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: |-
+feed_content: |-
   ![](https://encompassnw.org/wp-content/uploads/2025/03/Kinship_1-300x300.png)Considered the oldest form of family preservation, Kinship Care is an important safety net for children whose parents are either unable or unwilling to care for them. By placing them in the care of a family member, cultural, family, and community ties are maintained, and the trauma of displacement can be minimized through familiarity and continuity.
 
   While there is no question about the benefits of Kinship Care, the sudden shift for caregivers assuming full-time parental responsibility can be overwhelming. This is where the Encompass Kinship Care program steps in.
@@ -21,6 +18,9 @@ original_content: |-
   The Encompass Kinship Care program provides weekly virtual and monthly in-person support groups. To learn more, visit [https://encompassnw.org/program/family-enrichment/kinship/](https://encompassnw.org/program/family-enrichment/kinship/).
 
   The post [Preserving Family Ties Through Kinship Care](https://encompassnw.org/preserving-family-ties-through-kinship-care/) first appeared on [Encompass](https://encompassnw.org).
+images: []
+locations:
+- King County
 source: Encompass
 source_url: https://encompassnw.org/preserving-family-ties-through-kinship-care/
 summarized: true

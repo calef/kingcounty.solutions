@@ -4,8 +4,6 @@ images: []
 location: ''
 locations:
 - King County
-original_markdown_body: Offering behavioral health support groups including Behavioral
-  Activation for teens, STAND for parents, and an anxiety group for young people.
 source: King County School Health
 source_url: https://kingcountyschoolhealthdotcom.wordpress.com/2025/12/10/behavioral-health-supports-for-youth-and-caregivers-odessa-brown-childrens-children/
 start_date: '2026-01-01T00:00:00-08:00'

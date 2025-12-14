@@ -1,18 +1,14 @@
 ---
 end_date: '2025-12-22T18:45:00-08:00'
-images: []
-location: Hybrid – Virtual/Onsite, United States
-locations:
-- King County
-original_content: "<section> <div> <div> <div> <section> <div> <div> <span> Event
-  Series: </span> <a> <span> Transportation &amp; Infrastructure Services Committee
-  </span> </a> </div> <h1>Transportation &amp; Infrastructure Services Committee</h1>
-  <div> <h2> <span>December 22 @ 5:30 pm</span> - <span>6:45 pm</span> </h2> </div>
-  <div> <div> <p>The Transportation &amp; Infrastructure Services Committee provides
-  policy recommendations on legislative matters relating to transportation, traffic,
-  streets, water, sewer, surface water, power, street lighting and signals, solid
-  waste and recycling, river basins and levees, aviation, telecommunications, shops
-  facilities, fleet, public transit and other ad hoc matters as assigned.</p> <p><a>Transportation
+feed_content: "<section> <div> <div> <div> <section> <div> <div> <span> Event Series:
+  </span> <a> <span> Transportation &amp; Infrastructure Services Committee </span>
+  </a> </div> <h1>Transportation &amp; Infrastructure Services Committee</h1> <div>
+  <h2> <span>December 22 @ 5:30 pm</span> - <span>6:45 pm</span> </h2> </div> <div>
+  <div> <p>The Transportation &amp; Infrastructure Services Committee provides policy
+  recommendations on legislative matters relating to transportation, traffic, streets,
+  water, sewer, surface water, power, street lighting and signals, solid waste and
+  recycling, river basins and levees, aviation, telecommunications, shops facilities,
+  fleet, public transit and other ad hoc matters as assigned.</p> <p><a>Transportation
   &amp; Infrastructure Services Committee Agendas/Minutes/Audio</a></p> <p>Meetings
   are open to the public. This is a hybrid meeting, conducted both onsite and electronically
   via MS Teams. The meeting room is the Duwamish Conference Room located in the 6300
@@ -42,31 +38,11 @@ original_content: "<section> <div> <div> <div> <section> <div> <div> <span> Even
   </li> <li> <div> <h3><a>City Council Committee of the Whole Meeting</a></h3> <span>December
   8 @ 7:00 pm</span> - <span>10:00 pm</span> </div> </li> </ul> </div> <p> <a> Back
   to events</a> </p> </div> </section> </div> </div> </div> </section>"
-original_content_checksum: 269aee379565a2a78cbe6ef94b32a0fe7f9960de
-original_markdown_body: 'Event Series:    Transportation & Infrastructure Services
-  Committee    Transportation & Infrastructure Services Committee   December 22 @
-  5:30 pm - 6:45 pm     The Transportation & Infrastructure Services Committee provides
-  policy recommendations on legislative matters relating to transportation, traffic,
-  streets, water, sewer, surface water, power, street lighting and signals, solid
-  waste and recycling, river basins and levees, aviation, telecommunications, shops
-  facilities, fleet, public transit and other ad hoc matters as assigned. Transportation
-  & Infrastructure Services Committee Agendas/Minutes/Audio Meetings are open to the
-  public. This is a hybrid meeting, conducted both onsite and electronically via MS
-  Teams. The meeting room is the Duwamish Conference Room located in the 6300 Building
-  at 6300 Southcenter Boulevard. Information about how to access the meeting is printed
-  on each agenda. Sign up for the Council Agenda Packet Email List here: https://www.tukwilawa.gov/departments/city-clerks-office/
-  Join on your computer, mobile app or room device Click here to join the meeting
-  Meeting ID: 284 792 891 576 Passcode: ztPkUH Download Teams | Join on the web Or
-  call in (audio only) +1 253-292-9750,,252508487#   United States, Tacoma Phone Conference
-  ID: 252 508 487# Find a local number | Reset PIN         Google Calendar     iCalendar     Outlook
-  365     Outlook Live           Details    Date:   December 22     Time:   5:30 pm
-  - 6:45 pm    Series:    Transportation & Infrastructure Services Committee    Event
-  Categories: City Council, Meeting      Venue    Hybrid – Virtual/Onsite     United
-  States       Organizer   Laurel Humphrey    Phone   206-433-8993     Email   citycouncil@tukwilawa.gov       Related
-  Events    Planning & Community Development Committee December 8 @ 5:30 pm - 6:45
-  pm     Community Services & Safety Committee December 8 @ 5:30 pm - 6:45 pm     City
-  Council Committee of the Whole Meeting December 8 @ 7:00 pm - 10:00 pm       Back
-  to events'
+feed_content_checksum: 269aee379565a2a78cbe6ef94b32a0fe7f9960de
+images: []
+location: Hybrid – Virtual/Onsite, United States
+locations:
+- King County
 source: City of Tukwila
 source_url: https://www.tukwilawa.gov/event/transportation-infrastructure-services-committee-9/2025-12-22/
 start_date: '2025-12-22T17:30:00-08:00'

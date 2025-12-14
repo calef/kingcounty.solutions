@@ -1,8 +1,6 @@
 ---
 date: '2025-01-03T21:34:55+00:00'
-images: []
-locations: []
-original_content: "<p><div class=\"et_pb_section et_pb_section_1 et_section_regular\"
+feed_content: "<p><div class=\"et_pb_section et_pb_section_1 et_section_regular\"
   >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_row
   et_pb_row_2\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4 et_pb_column_2
   \ et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div
@@ -29,12 +27,8 @@ original_content: "<p><div class=\"et_pb_section et_pb_section_1 et_section_regu
   We were thrilled to spend the evening with so many of our incredible Launch families
   and our special community. A big thank you to the staff at Umpqua &#8211; South
   Lake Union for providing another year of joy for our families!</p></div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div></p>"
-original_markdown_body: |-
-  # Umpqua Santa Event 2024
-
-   ![](http://launchlearning.org/wp-content/uploads/2025/01/UMPQUA_Santa2024-78-scaled.jpg "UMPQUA\_Santa2024-78")
-
-  Launch families were treated to a very special evening with Santa, courtesy of Umpqua Bank’s South Lake Union Branch! For the third year in a row, Umpqua turned the branch into a winter wonderland featuring “snowballs,” crafts, cookies, games, gingerbread house decorating, and photos with Old Saint Nick himself. Santa even treated the kids to some quality storytime in the snow! We were thrilled to spend the evening with so many of our incredible Launch families and our special community. A big thank you to the staff at Umpqua – South Lake Union for providing another year of joy for our families!
+images: []
+locations: []
 published: false
 source: Launch Learning
 source_url: https://launchlearning.org/umpqua-santa-event-2024/

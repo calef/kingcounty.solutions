@@ -2,13 +2,10 @@
 date: '2025-11-13T21:41:40+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: "<div id=\"preheader\" style=\"color: transparent; display: none;
-  font-size: 1px; line-height: 1px; max-height: 0px; max-width: 0px; opacity: 0; overflow:
-  hidden;\"><span data-entity-ref=\"preheader\">Your Help Makes All the Difference.</span></div>
-  <div class=\"shell\" lang=\"en-US\" dir=\"ltr\" style=\"background-color: #EDF5F6;\">
+feed_content: "<div id=\"preheader\" style=\"color: transparent; display: none; font-size:
+  1px; line-height: 1px; max-height: 0px; max-width: 0px; opacity: 0; overflow: hidden;\"><span
+  data-entity-ref=\"preheader\">Your Help Makes All the Difference.</span></div> <div
+  class=\"shell\" lang=\"en-US\" dir=\"ltr\" style=\"background-color: #EDF5F6;\">
   <table class=\"shell_panel-row\" width=\"100%\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\"
   style=\"background-color: #EDF5F6;\" bgcolor=\"#EDF5F6\"> <tbody> <tr class=\"\">
   <td class=\"shell_panel-cell\" style=\"\" align=\"center\" valign=\"top\"> <table
@@ -211,31 +208,9 @@ original_content: "<div id=\"preheader\" style=\"color: transparent; display: no
   data-track=\"false\" style=\"color: inherit;\">Constant Contact Data Notice</a></span>
   </p> </td> </tr> </tbody> </table> </td> </tr> </tbody> </table> </td> </tr> </tbody>
   </table> </td> </tr> </tbody> </table> </td> </tr> </tbody> </table> </div>"
-original_markdown_body: "Your Help Makes All the Difference.\n \n \n\n  |   \n\n  |
-  \  \n\n  |   \n\n  |   \n \n  |\n  \n \n\n  |   \n\n  |  \n# Three Ways to Help\n
-  |\n  \n \n\n  |   \n\nThe holiday season can be a challenging time for the women
-  we serve, but with your help, we can make it brighter. Join us in creating warm,
-  festive spaces and uplifting programming that brings joy, comfort,\n\n \n\n\uFEFFand
-  connection to our community.\n\n  |\n  \n  |\n  \n \n\n  |  \n \n |\n  \n \n\n  |
-  \  \n\n  |   \n## 1.Deck The Halls \n \n\nCome help Jubilee decorate our homes for
-  the holidays! Open to groups of 4 or more.\n\n  |\n  \n \n\n  |   \n\n  | [Email
-  us to Schedule](mailto:volunteer@jwcenter.org) |\n  \n  |\n  \n  |\n  \n \n\n  |
-  \ \n \n |\n  \n \n\n  |   \n\n  |   \n## 2.Holiday WishLists \n \n\nJubilee's program
-  is in need of decorations for the interior and exterior of our three homes so we
-  can make the holidays bright! You can also help provide gifts and stocking stuffers
-  for the women we serve.\n\n  |\n  \n \n\n  |   \n\n  | [Decorations WishList](https://www.amazon.com/hz/wishlist/ls/2OWRW7DJ1CNXI?ref_=wl_fv_le)
-  |\n  \n  |\n  \n \n\n  |   \n\n  | [Gift WishList](https://www.amazon.com/hz/wishlist/ls/PR7H96VWTELA?ref_=wl_share)
-  |\n  \n  |\n  \n  |\n  \n \n\n  |  \n \n |\n  \n \n\n  |   \n\n  |   \n## 3.Monday
-  Meals \n \n\nKeep this wonderful program operating year-round! Sign up for 2026
-  dates below.\n\n  |\n  \n \n\n  |   \n\n  | [Sign Up Here](https://www.mealtrain.com/trains/v2yk7w)
-  |\n  \n  |\n  \n  |\n  \n \n\n  |   \n \n \n\n  |   \n\nWould you rather give directly
-  to help keep our programs\n\n \n\nfunded and healthy? Just click the button below.\n\n
-  \ |\n  \n \n\n  |   \n\n  | [Make a Holiday Gift](https://jwcenter.org/donate/)
-  |\n  \n  |\n  \n \n\n  |  \n\n[Contact Us](https://jwcenter.org/contact/)\n\n |\n
-  \ \n  |\n  \n  |\n  \n  |\n  \n  |\n |   \n\n  |   \n\n  |   \n\n  |   \n\n  |   \n\nJubilee
-  Women's Center | 620 18th Avenue East | Seattle, WA 98112 US\n\n  |\n  \n \n\n  |
-  \  \n\n[Unsubscribe](#) | [Update Profile](#) | [Constant Contact Data Notice](https://www.constantcontact.com/legal/customer-contact-data-notice)\n\n
-  \ |\n  \n  |\n  \n  |\n  \n  |\n  \n  |"
+images: []
+locations:
+- King County
 source: Jubilee Women's Center
 source_url: https://myemail.constantcontact.com/Three-Ways-to-Share-Holiday-Warmth.html?soid=1116358109063&aid=0ZF8Ets-8gM#new_tab
 summarized: true

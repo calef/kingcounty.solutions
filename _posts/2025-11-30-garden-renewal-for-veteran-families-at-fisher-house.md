@@ -1,8 +1,6 @@
 ---
 date: '2025-11-30T21:30:00+00:00'
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   <h2 class="wp-block-heading">Offering a home away from home</h2>
 
 
@@ -56,32 +54,8 @@ original_content: |-
 
 
   <p></p>
-original_markdown_body: |-
-  ## Offering a home away from home
-
-  To help welcome families visiting inpatient Veterans at VA Boston Healthcare System, Kathy Johnson and Alisha Long volunteered for a mission to restore the raised bed gardens outside the [Fisher House](https://news.va.gov/?s=Fisher+House).
-
-  “The planters needed some help,” said Long, a registered nurse. “We wanted to brighten up the patio for families who come out here to relax.”
-
-  Fisher Houses, like the one at VA Boston’s West Roxbury campus, offer a “home away from home,” allowing families to be close to their loved ones during hospital stays, which can help reduce stress and financial burden during difficult times, helping Veterans and families focus on healing and recovery.
-
-  New raised beds were bought by Elizabeth St. Pierre, former Fisher House manager, with donated funds. They were used to supplement the originals, which were made and donated by the Boy Scouts, to provide additional space for growing.
-
-  Long and Johnson prepared the new raised beds and planted vegetables, including eggplant, long beans, peas and tomatoes. Other nurses assisted in watering and maintenance, as well.
-
-  ## Growing a community
-
-  “We wanted the families to feel more comfortable while they’re staying here,” said Johnson, a medical support assistant. “Whatever’s grown to maturity is given to the Fisher House guests.”
-
-  The patio planters burst again with fresh life, offering an inviting spot for contemplation and conversation.
-
-  “A special shout out to the volunteers who installed and take care of the vegetable garden,” one guest wrote in a thank-you note to Fisher House staff. “What a treat to enjoy some sweet peas today!”
-
-  [Learn more about VA’s Fisher House program](https://www.socialwork.va.gov/fisher.asp).
-
-  * * *
-
-  This article was originally published on the [VA Boston Health care System site](https://www.va.gov/boston-health-care/stories/garden-renewal-for-veteran-families-at-fisher-house/)and has been edited for style and clarity. &nbsp;
+images: []
+locations: []
 published: false
 source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143253/garden-renewal-veteran-families-fisher-house/

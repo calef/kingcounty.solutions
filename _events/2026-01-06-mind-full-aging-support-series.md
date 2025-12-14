@@ -5,8 +5,6 @@ images: []
 location: Shoreline Lake Forest Park Senior Activity Center
 locations:
 - King County
-original_markdown_body: An 8-week group support series aimed at addressing aging-related
-  anxiety and depression.
 source: Shoreline Lake Forest Park Senior Activity Center
 source_url: https://shorelinelfpseniorcenter.org/mindfull-aging/
 start_date: '2026-01-06T12:30:00-08:00'

@@ -162,7 +162,7 @@ class ImageExtractorUnitTest < Minitest::Test
       date: 2025-01-01
       source: Test
       source_url: https://example.com/unsummarized
-      original_markdown_body: '![](https://example.com/image.jpg)'
+      original_source_html: '![](https://example.com/image.jpg)'
       summarized: false
       ---
 

@@ -1,22 +1,20 @@
 ---
 date: '2025-08-01T16:24:01+00:00'
-images: []
-locations: []
-original_content: "The City Council is seeking applications for Councilmember pro
-  tem for Position 6.&nbsp; To be eligible for the position, an applicant must be
-  registered to vote in Tukwila and a resident of Tukwila for at least one year prior
-  to the date of appointment.\n\nThe duration of the appointment will be until the
-  incumbent returns, resigns, or the certification of the November 2027 General Election.
-  _(Edited 8/1, 2:16 p.m. to clarify term of appointment).&nbsp;_ Per RCW 35A.12.030,
-  no individual may simultaneously hold the pro tem position and any other public
-  office or employment within City of Tukwila government except as permitted under
-  the provisions of chapter 42.23 RCW. Therefore, a current City Council candidate
-  that wishes to apply would be required to forfeit one or the other should they be
-  appointed to Position No. 6, then elected to a different position. Similarly, anyone
-  currently serving on a City of Tukwila commission or board would need to resign
-  that position prior to taking office as a city councilmember and cannot serve both
-  simultaneously.\n\nClick here: &nbsp;[Application for Counclmember Pro Tem by Appointment
-  – Tukwila City Council Position #6](https://www.tukwilawa.gov/wp-content/uploads/ApplicationPosition6.pdf)\n\nTo
+feed_content: "The City Council is seeking applications for Councilmember pro tem
+  for Position 6.&nbsp; To be eligible for the position, an applicant must be registered
+  to vote in Tukwila and a resident of Tukwila for at least one year prior to the
+  date of appointment.\n\nThe duration of the appointment will be until the incumbent
+  returns, resigns, or the certification of the November 2027 General Election. _(Edited
+  8/1, 2:16 p.m. to clarify term of appointment).&nbsp;_ Per RCW 35A.12.030, no individual
+  may simultaneously hold the pro tem position and any other public office or employment
+  within City of Tukwila government except as permitted under the provisions of chapter
+  42.23 RCW. Therefore, a current City Council candidate that wishes to apply would
+  be required to forfeit one or the other should they be appointed to Position No.
+  6, then elected to a different position. Similarly, anyone currently serving on
+  a City of Tukwila commission or board would need to resign that position prior to
+  taking office as a city councilmember and cannot serve both simultaneously.\n\nClick
+  here: &nbsp;[Application for Counclmember Pro Tem by Appointment – Tukwila City
+  Council Position #6](https://www.tukwilawa.gov/wp-content/uploads/ApplicationPosition6.pdf)\n\nTo
   be considered for Tukwila City Council Position No. 6, applications must be fully
   completed, signed and received **_no later than 5:00 p.m. on Friday, August 15,
   2025_**. Applications may be typed or neatly handwritten. In addition to a completed
@@ -61,6 +59,8 @@ original_content: "The City Council is seeking applications for Councilmember pr
   but not limited to applications and all written and electronic correspondence.\n\nThe
   post [Seeking Applicants for City Councilmember Pro Tem](https://www.tukwilawa.gov/2025councilprotem/)
   appeared first on [City of Tukwila](https://www.tukwilawa.gov)."
+images: []
+locations: []
 published: false
 source: City of Tukwila
 source_url: https://www.tukwilawa.gov/2025councilprotem/

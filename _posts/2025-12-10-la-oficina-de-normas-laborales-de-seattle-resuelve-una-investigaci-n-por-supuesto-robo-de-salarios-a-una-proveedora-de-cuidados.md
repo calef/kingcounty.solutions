@@ -1,20 +1,13 @@
 ---
 date: '2025-12-10T16:08:04+00:00'
+feed_content: 'Para publicación inmediata Contacto: Cynthia Santana, gerenta de Comunicaciones206-256-5219cynthia.santana@seattle.gov
+  La Oficina de Normas Laborales de Seattle resuelve una investigación por supuesto
+  robo de salarios a una proveedora de cuidados Seattle, WA (10 de diciembre de 2025)
+  – La Oficina de Normas Laborales (OLS, Office of Labor Standards) anunció que terminó
+  una investigación sobre un empleador […]'
+feed_content_checksum: 50b3b638967eed91e91bcf18ed41018011443b34
 images: []
 locations: []
-original_content: 'Para publicación inmediata Contacto: Cynthia Santana, gerenta de
-  Comunicaciones206-256-5219cynthia.santana@seattle.gov La Oficina de Normas Laborales
-  de Seattle resuelve una investigación por supuesto robo de salarios a una proveedora
-  de cuidados Seattle, WA (10 de diciembre de 2025) – La Oficina de Normas Laborales
-  (OLS, Office of Labor Standards) anunció que terminó una investigación sobre un
-  empleador […]'
-original_content_checksum: 50b3b638967eed91e91bcf18ed41018011443b34
-original_markdown_body: 'Para publicación inmediata Contacto: Cynthia Santana, gerenta
-  de Comunicaciones206-256-5219cynthia.santana@seattle.gov La Oficina de Normas Laborales
-  de Seattle resuelve una investigación por supuesto robo de salarios a una proveedora
-  de cuidados Seattle, WA (10 de diciembre de 2025) – La Oficina de Normas Laborales
-  (OLS, Office of Labor Standards) anunció que terminó una investigación sobre un
-  empleador […]'
 published: false
 source: City of Seattle
 source_url: https://news.seattle.gov/2025/12/10/la-oficina-de-normas-laborales-de-seattle-resuelve-una-investigacion-por-supuesto-robo-de-salarios-a-una-proveedora-de-cuidados/

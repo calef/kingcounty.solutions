@@ -2,17 +2,13 @@
 date: '2025-11-21T09:16:42-08:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: OLYMPIA – An annual compilation of prioritized transportation improvement
+feed_content: OLYMPIA – An annual compilation of prioritized transportation improvement
   projects is now ready for public review and comment through Friday, Dec. 19. The
   statewide list of projects is a required step to authorize federal funds for the
   work.
-original_markdown_body: OLYMPIA – An annual compilation of prioritized transportation
-  improvement projects is now ready for public review and comment through Friday,
-  Dec. 19. The statewide list of projects is a required step to authorize federal
-  funds for the work.
+images: []
+locations:
+- King County
 source: Washington State Department of Transportation
 source_url: https://wsdot.wa.gov/about/news/2025/draft-2026-29-statewide-transportation-improvement-program-list-projects-available-public-comment
 summarized: true

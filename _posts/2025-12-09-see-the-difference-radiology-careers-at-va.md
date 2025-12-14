@@ -2,10 +2,7 @@
 date: '2025-12-09T21:30:00+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <p>Radiology professionals at VA connect diagnoses with treatment to enable the highly personalized care Veterans deserve. From capturing images on state-of-the-art equipment to collaborating with clinical teams on the proper treatment, radiology specialists at VA play a vital role in delivering high-quality care to those who served our nation. Keep reading to learn more about radiology at VA and see if a career caring for Veterans is right for you. </p>
 
 
@@ -65,34 +62,10 @@ original_content: |-
 
 
   <p></p>
-original_content_checksum: 983d787a54a63a033e445db8941b6e16129f4921
-original_markdown_body: |-
-  Radiology professionals at VA connect diagnoses with treatment to enable the highly personalized care Veterans deserve. From capturing images on&nbsp;state-of-the-art&nbsp;equipment to collaborating with clinical teams on the proper treatment, radiology specialists at VA play a vital role in delivering high-quality care to those who&nbsp;served&nbsp;our nation. Keep reading to learn more about radiology at VA and see if a career caring for Veterans is right for you.&nbsp;
-
-  ## Technology that leads to better care&nbsp;
-
-  VA radiology teams use some of the most advanced imaging technologies available, including magnetic resonance imaging (MRI), ultrasound, mammography and interventional radiology.&nbsp;VA is also exploring&nbsp;artificial intelligence&nbsp;(AI) to serve as a “second pair of eyes” on images.&nbsp;These tools support&nbsp;timely,&nbsp;accurate&nbsp;diagnoses across a wide range of medical specialties.&nbsp;&nbsp;
-
-  “If we didn’t have x-ray or radiology within Butler VA, a lot of things would be sent out&nbsp;(to external partners for imaging)&nbsp;and it would be a slower process for the Vets,” said&nbsp;Samantha Kurtz, lead X-ray technician.&nbsp;&nbsp;
-
-  Through VA’s integrated health care system, radiology professionals can share imaging results seamlessly across facilities, ensuring continuity of care and faster treatment for Veterans.&nbsp;
-
-  ## Opportunities across disciplines&nbsp;
-
-  VA is always hiring qualified and caring imaging professionals, including:&nbsp;
-
-  - Radiologic&nbsp;Technicians, who&nbsp;perform&nbsp;urgent and emergent radiographic examinations.&nbsp;They receive patients, explain procedures, position&nbsp;the&nbsp;patients,&nbsp;and&nbsp;set&nbsp;up and adjust equipment.&nbsp;
-  - Radiologists, who provide image interpretation and diagnoses, contribute to quality assurance and performance improvement, provide oversight of technical quality and educate staff and trainees.&nbsp;
-
-  Explore open radiology positions&nbsp;online.&nbsp;
-
-  ## Career growth, employee benefits and mission that matters&nbsp;
-
-  When you join VA,&nbsp;you’re&nbsp;joining the largest integrated health care system in the nation.&nbsp;You’ll&nbsp;have access to professional development opportunities, continuing education and pathways to leadership. Radiology professionals enjoy competitive&nbsp;federal pay, comprehensive health and retirement benefits and generous paid leave. And most importantly, every image taken is a step toward&nbsp;improving&nbsp;the health, independence and quality of life for a Veteran.&nbsp;&nbsp;
-
-  ## Ready to make an impact?
-
-  If&nbsp;you’re&nbsp;All About Veterans like we are,&nbsp;visit&nbsp;VA&nbsp;Careers&nbsp;to explore&nbsp;radiology career&nbsp;opportunities and&nbsp;discover how your skills can help Veterans see a clearer, healthier future.
+feed_content_checksum: 983d787a54a63a033e445db8941b6e16129f4921
+images: []
+locations:
+- King County
 source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143761/see-the-difference-radiology-careers-at-va/
 summarized: true

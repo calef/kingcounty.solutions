@@ -2,19 +2,14 @@
 date: '2025-12-02T00:09:27+00:00'
 events: []
 events_extracted: true
+feed_content: December 2025 Across Washington state, there is a stark disparity between
+  the demographics of students and the educators who serve them. Many students go
+  through their K-12 school experience without being taught by someone who shares
+  or understands their racial, ethnic, or cultural backgrounds.   Why does this matter?
+  Research and lived experience show student success [&#8230;]
 images: []
 locations:
 - King County
-original_content: December 2025 Across Washington state, there is a stark disparity
-  between the demographics of students and the educators who serve them. Many students
-  go through their K-12 school experience without being taught by someone who shares
-  or understands their racial, ethnic, or cultural backgrounds.   Why does this matter?
-  Research and lived experience show student success [&#8230;]
-original_markdown_body: December 2025 Across Washington state, there is a stark disparity
-  between the demographics of students and the educators who serve them. Many students
-  go through their K-12 school experience without being taught by someone who shares
-  or understands their racial, ethnic, or cultural backgrounds.&nbsp;&nbsp; Why does
-  this matter? Research and lived experience show student success […]
 source: Technology Access Foundation
 source_url: https://techaccess.org/equipping-teachers-with-a-student-centered-approach/
 summarized: true

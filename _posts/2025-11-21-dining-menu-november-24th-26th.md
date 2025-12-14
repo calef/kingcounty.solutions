@@ -2,9 +2,7 @@
 date: '2025-11-21T23:00:00+00:00'
 events: []
 events_extracted: true
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   <p><strong>Monday ~</strong> Grilled Roast Beef &amp; Cheddar Sandwich, Veggie Barley Soup, Fruit &amp; Cookie</p>
 
 
@@ -23,14 +21,8 @@ original_content: |-
 
   <p></p>
   <p>The post <a href="https://ballardseniorcenter.org/dining-menu-november-24th-26th/">Dining Menu November 24th &#8211; 26th</a> appeared first on <a href="https://ballardseniorcenter.org">Ballard Senior Center</a>.</p>
-original_markdown_body: "**Monday ~** Grilled Roast Beef & Cheddar Sandwich, Veggie
-  Barley Soup, Fruit & Cookie\n\n**Tuesday _~_**  **Thanksgiving Lunch ~** Roast Turkey,
-  Mashed Potatoes & Gravy, Stuffing, Seasonal Veggies, Rolls, Cranberry Sauce & Pumpkin
-  Pie!  \n**Vegetarian option ~** Veggie Cottage Pie\n\n**Wednesday ~** Twice Baked
-  Potato, Veggie Chili & Fruit\n\nBallard Senior Center is closed Thursday & Friday
-  for Thanksgiving.   \n**Warm wishes for joyful Thanksgiving Holiday.**\n\nThe post
-  [Dining Menu November 24th – 26th](https://ballardseniorcenter.org/dining-menu-november-24th-26th/)
-  appeared first on [Ballard Senior Center](https://ballardseniorcenter.org)."
+images: []
+locations: []
 published: false
 source: Ballard Northwest Senior Center
 source_url: https://ballardseniorcenter.org/dining-menu-november-24th-26th/

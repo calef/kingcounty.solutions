@@ -2,17 +2,7 @@
 date: '2025-03-05T16:55:12+00:00'
 events: []
 events_extracted: true
-images:
-- 0a7cdbb1e0af471ebf55a6c3e0d18db0dbe7cca480c319825f328fb0165365a4
-- 97e8fea58cb36f12efe83bc2ca38b83067eecab73ca7c4ea5a73c1a82731278f
-- 045167e3e3c0c5e10993a8bfda5d5996953d8ba40b985592f881e70b98e01f30
-- 227d98ff6f821b98e666bb760ea3646d9e1fe7fd65c8766b0caccad797f640eb
-- d015c014437ec4a48cf1790ce91580e7a40ef96e1e025376358c9ef655edd995
-- 51394d21af7cfa20176274f9031a0fcff78a9b593d975f724ce67299595e1478
-- 00a823d5f87ad231ac30c6668f763a678a08cc5a73396873cda33a42d91f2b22
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1024" height="379" src="https://firstchurchseattle.org/wp-content/uploads/2025/03/Bulletins-4-8-1024x379.png" alt="" class="wp-image-6250" srcset="https://firstchurchseattle.org/wp-content/uploads/2025/03/Bulletins-4-8-1024x379.png 1024w, https://firstchurchseattle.org/wp-content/uploads/2025/03/Bulletins-4-8-300x111.png 300w, https://firstchurchseattle.org/wp-content/uploads/2025/03/Bulletins-4-8-768x284.png 768w, https://firstchurchseattle.org/wp-content/uploads/2025/03/Bulletins-4-8.png 1080w" sizes="auto, (max-width: 1024px) 100vw, 1024px" /></figure>
 
 
@@ -93,46 +83,16 @@ original_content: |-
 
   <p>Come celebrate &nbsp;International Women&#8217;s Day event at the Museum of Pop Culture at the Seattle Center from 1-4:30pm,<a href="https://www.mopop.org/events/international-womens-day" target="_blank" rel="noreferrer noopener">https://www.mopop.org/events/international-womens-day</a></p>
   <p>The post <a href="https://firstchurchseattle.org/lent-opportunities-2025/">Lent Opportunities 2025</a> appeared first on <a href="https://firstchurchseattle.org">First Church Seattle</a>.</p>
-original_markdown_body: |-
-  ![](https://firstchurchseattle.org/wp-content/uploads/2025/03/Bulletins-4-8-1024x379.png)
-
-  <object data-wp-bind--hidden="!state.hasPdfPreview" hidden class="wp-block-file__embed" data="https://firstchurchseattle.org/wp-content/uploads/2025/03/First-Church-Lent-letter-2025-.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="Embed of First Church Lent letter 2025."></object>[First Church Lent letter 2025](https://firstchurchseattle.org/wp-content/uploads/2025/03/First-Church-Lent-letter-2025-.pdf)[Download](https://firstchurchseattle.org/wp-content/uploads/2025/03/First-Church-Lent-letter-2025-.pdf)
-
-  ![](https://firstchurchseattle.org/wp-content/uploads/2025/03/Updated-Lenten-Devotional-25-2-Option-3-1024x1024.png)
-
-  <object data-wp-bind--hidden="!state.hasPdfPreview" hidden class="wp-block-file__embed" data="https://firstchurchseattle.org/wp-content/uploads/2025/03/Lenten-Devotional-25.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="Embed of Lenten Devotional 25."></object>[Lenten Devotional 25](https://firstchurchseattle.org/wp-content/uploads/2025/03/Lenten-Devotional-25.pdf)[Download](https://firstchurchseattle.org/wp-content/uploads/2025/03/Lenten-Devotional-25.pdf)
-
-  ![](https://firstchurchseattle.org/wp-content/uploads/2025/03/Bulletins-4-10-1024x1024.png)
-
-  [Lent playlist](https://soundcloud.com/elisabethellis/sets/throughout-these-forty-days?si=e228e9edafb747d4886f7818715b4a01&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
-
-  “This year for Lent, I have decided to take on a project that will hopefully bless our church congregation and will enrich my life as well, as I &nbsp;give my time and passion to creating each piece of music. For each of the forty days of Lent, I will create an improvisation on a hymn and will upload it to an ongoing playlist on Soundcloud. Church members can listen and share the music for free through the Soundcloud app or website! My goal is to give us each something sacred, beautiful, and calm to contemplate throughout Lent. Each day’s musical offering would make a great pairing with our Lenten Devotional! I would also encourage you to look up the lyrics for the hymns to meditate on as you listen to the music. Most of these hymn selections are requests from your fellow congregants, and knowing the lyrics will give us a way to connect with the longings of each other‘s hearts and minds. I have uploaded the first 9 tracks already, since I am out of town for the next week, and after that you can check back each day for the newest uploads through Lent!” _Elisabeth Ellis, Music Director_
-
-  ![](https://firstchurchseattle.org/wp-content/uploads/2025/03/Special-Events-21-1024x1024.png)
-
-  Pastor Wongee will lead us in a discussion of the book, The Cross and the Lynching Tree, by James Cone. Expect an important and challenging time! We will meet March 16, 23, 30 and April 6 after worship in Fellowship Hall. Lunch will be served. You may attend in person or virtually. Please register. Our discussion will be richer if you have read the book. It is available at Seattle and King County libraries and the usual online sources.
-
-  [register here](https://firstchurchseattle.breezechms.com/form/6e4389289596509791367741722849930)
-
-  ![](https://firstchurchseattle.org/wp-content/uploads/2025/03/Special-Events-36-1024x1024.png)
-
-  Kids will have an opportunity to participate in the practice of almsgiving with the United Methodist’s Church’s&nbsp;“Coins for Lent” activity. During Lent, we are reminded to examine our lifestyles and ask, “What can we do for others?” Part of faith formation at any age is compassion and serving our neighbors. Lent is a good time to commit to giving money to a project that helps people in need. Use the attached calendar to collect coins in a jar for each day of Lent. We’ll then collect everyone’s coins together and donate it to an organization after Easter, decided on by the participants. Let me know if you are participating in the activity so that we can coordinate! – Rev. Jackie
-
-  [Coins for lent calendar](https://firstchurchseattle.org/events/coins-for-lent-kids-activity/)
-
-  ![](https://firstchurchseattle.org/wp-content/uploads/2025/03/Special-Events-40-1-1024x1024.png)
-
-  The Global Missions Team is working with local non-profit, Neighborhood&nbsp;House, to&nbsp;put together Welcome Kits during Lent, to participate in the Lenten practice of almsgiving.&nbsp;Neighborhood House works with 15,000 people every year in the Seattle area to address the needs of entire&nbsp;families, with a focus on immigrants, refugees, low-income community members, and public housing residents. ([NH website](https://nhwa.org/programs/)).&nbsp;We will collect items for&nbsp;the Welcome Kits throughout Lent. Please be on the&nbsp;lookout&nbsp;for further information about the items we will need.
-
-  ![](https://firstchurchseattle.org/wp-content/uploads/2025/03/Bulletins-3-3-1024x1024.png)
-
-  Pastor Wongee and Pastor Jackie will also be at the International Fountain at the Seattle Center on **Ash Wednesday, March 5th** , from 12:30 pm – 2:30 pm to provide the imposition of ashes for anyone that would like to experience Ash Wednesday but is unable to join us later in the evening for our worship service.
-
-  **AND** &nbsp;
-
-  Come celebrate &nbsp;International Women’s Day event at the Museum of Pop Culture at the Seattle Center from 1-4:30pm,[https://www.mopop.org/events/international-womens-day](https://www.mopop.org/events/international-womens-day)
-
-  The post [Lent Opportunities 2025](https://firstchurchseattle.org/lent-opportunities-2025/) appeared first on [First Church Seattle](https://firstchurchseattle.org).
+images:
+- 0a7cdbb1e0af471ebf55a6c3e0d18db0dbe7cca480c319825f328fb0165365a4
+- 97e8fea58cb36f12efe83bc2ca38b83067eecab73ca7c4ea5a73c1a82731278f
+- 045167e3e3c0c5e10993a8bfda5d5996953d8ba40b985592f881e70b98e01f30
+- 227d98ff6f821b98e666bb760ea3646d9e1fe7fd65c8766b0caccad797f640eb
+- d015c014437ec4a48cf1790ce91580e7a40ef96e1e025376358c9ef655edd995
+- 51394d21af7cfa20176274f9031a0fcff78a9b593d975f724ce67299595e1478
+- 00a823d5f87ad231ac30c6668f763a678a08cc5a73396873cda33a42d91f2b22
+locations:
+- King County
 source: First Church Seattle
 source_url: https://firstchurchseattle.org/lent-opportunities-2025/
 summarized: true

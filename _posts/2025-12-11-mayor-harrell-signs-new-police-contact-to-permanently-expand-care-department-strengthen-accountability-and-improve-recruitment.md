@@ -1,17 +1,13 @@
 ---
 date: '2025-12-11T20:04:50+00:00'
-images: []
-locations:
-- King County
-original_content: Approval reflects monumental, nation-leading step forward in diversified
+feed_content: Approval reflects monumental, nation-leading step forward in diversified
   public safety response Seattle – Today, Mayor Bruce Harrell signed a new contract
   with rank-and-file Seattle police officers that will allow for the permanent expansion
   and direct...
-original_content_checksum: 22622a56817d1e0e29efb1ff628a7732507737f1
-original_markdown_body: Approval reflects monumental, nation-leading step forward
-  in diversified public safety response Seattle – Today, Mayor Bruce Harrell signed
-  a new contract with rank-and-file Seattle police officers that will allow for the
-  permanent expansion and direct...
+feed_content_checksum: 22622a56817d1e0e29efb1ff628a7732507737f1
+images: []
+locations:
+- King County
 published: false
 rss_guid: https://harrell.seattle.gov/?p=1614
 source: City of Seattle

@@ -1,10 +1,6 @@
 ---
 end_date: '2025-12-19T14:00:00-08:00'
-images: []
-location: Beaver Lake Lodge, 25099 SE 24th St, Kirkland, WA, United States
-locations:
-- King County
-original_content: <div class="site" id="page"> <div id="wrapper-topbar" class="bg-transparent
+feed_content: <div class="site" id="page"> <div id="wrapper-topbar" class="bg-transparent
   text-light"> <div class="container-fluid"> <div class="row"> <div id="topbar-content"
   class="col-12"> <div class="navTop"> <div class="wp-block-columns is-layout-flex
   wp-container-core-columns-is-layout-9d6595d7 wp-block-columns-is-layout-flex"> <div
@@ -58,11 +54,10 @@ original_content: <div class="site" id="page"> <div id="wrapper-topbar" class="b
   <abbr class="tribe-region tribe-events-abbr" title="Washington">WA</abbr> <span
   class="tribe-country-name">United States</span> </span> </address> </li> </ul> </div>
   </div> </div> </div> </section> </div>
-original_markdown_body: 'Login Volunteer DONATE          Skip to content      « All
-  Events  SENIORS Sammamish Popup   December 19 @ 10:30 am - 2:00 pm           Google
-  Calendar     iCalendar     Outlook 365     Outlook Live           Details    Date:   December
-  19     Time:   10:30 am - 2:00 pm        Venue    Beaver Lake Lodge     25099 SE
-  24th St Kirkland, WA United States'
+images: []
+location: Beaver Lake Lodge, 25099 SE 24th St, Kirkland, WA, United States
+locations:
+- King County
 source: Indian American Community Services
 source_url: https://iacswa.org/event/seniors-sammamish-popup-301/
 start_date: '2025-12-19T10:30:00-08:00'

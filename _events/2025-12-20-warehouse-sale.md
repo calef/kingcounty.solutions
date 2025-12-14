@@ -1,10 +1,6 @@
 ---
 end_date: '2025-12-20T16:00:00-08:00'
-images: []
-location: Bike Works Warehouse, 3715 S Hudson St, Seattle, WA, 98118, United States
-locations:
-- King County
-original_content: '<section id="tribe-events-pg-template" class="tribe-events-pg-template"
+feed_content: '<section id="tribe-events-pg-template" class="tribe-events-pg-template"
   role="main"><div class="tribe-events-before-html"><h1>Events</h1></div> <div id="tribe-events-content"
   class="tribe-events-single tribe-blocks-editor"> <p class="tribe-events-back"> <a
   href="https://bikeworks.org/events/"> « All Events </a></p> <div class="tribe-events-series-relationship-single-marker
@@ -59,17 +55,10 @@ original_content: '<section id="tribe-events-pg-template" class="tribe-events-pg
   href="https://bikeworks.org/event/volunteer-repair-party-2/2025-12-18/"><span>«</span>
   Volunteer Repair Party</a></li> <li class="tribe-events-nav-next"><a href="https://bikeworks.org/event/cancelled-volunteer-repair-party/2025-12-22/">**Cancelled**
   Volunteer Repair Party <span>»</span></a></li> </ul> </div> </div> </section>'
-original_markdown_body: 'Events    « All Events    Event Series:    Warehouse Sale    Warehouse
-  sale    December 20   @   1:00 PM   –   4:00 PM  If Bike Works is the trailhead
-  for the Seattle Bicycle Ecosystem (SBE), warehouse sales are the not-so-secret pseudo-yard
-  sales where you’ll find us making space for newly donated bikes by selling perfectly
-  fine as-is bikes, parts, and who knows what else. On average, we get about 18 bikes
-  per day and it’s our job to get those bikes back on the road. But we can’t fix them
-  all, and that’s where you come in. Bring a wagon and some gloves and help us keep
-  the SBE thriving!   Bike Works Warehouse   3715 S Hudson St Seattle, WA 98118 United
-  States  + Google Map  View Venue Website       Google Calendar     iCalendar     Outlook
-  365     Outlook Live     Related   Event Navigation  « Volunteer Repair Party **Cancelled**
-  Volunteer Repair Party »'
+images: []
+location: Bike Works Warehouse, 3715 S Hudson St, Seattle, WA, 98118, United States
+locations:
+- King County
 published: false
 source: Bike Works
 source_url: https://bikeworks.org/event/warehouse-sale-2/2025-12-20/

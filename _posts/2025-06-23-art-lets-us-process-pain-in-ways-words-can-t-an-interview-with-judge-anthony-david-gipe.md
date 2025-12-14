@@ -2,10 +2,7 @@
 date: '2025-06-23T20:58:09+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: |-
+feed_content: |-
   **_“Art Lets us Process Pain in Ways Words Can’t.”_**
 
   **_An Interview with Judge Anthony David Gipe_**
@@ -119,6 +116,9 @@ original_content: |-
   The post [“Art Lets us Process Pain in Ways Words Can’t.” An Interview with Judge Anthony David Gipe](https://nami-eastside.org/art-lets-us-process-pain-in-ways-words-cant-an-interview-with-judge-anthony-david-gipe/) first appeared on [Nami-Eastside WA](https://nami-eastside.org).
 
   The post [“Art Lets us Process Pain in Ways Words Can’t.” An Interview with Judge Anthony David Gipe](https://nami-eastside.org/art-lets-us-process-pain-in-ways-words-cant-an-interview-with-judge-anthony-david-gipe/) appeared first on [Nami-Eastside WA](https://nami-eastside.org).
+images: []
+locations:
+- King County
 source: National Alliance on Mental Illness Eastside
 source_url: https://nami-eastside.org/art-lets-us-process-pain-in-ways-words-cant-an-interview-with-judge-anthony-david-gipe/
 summarized: true

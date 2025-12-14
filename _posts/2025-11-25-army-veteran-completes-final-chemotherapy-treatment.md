@@ -2,10 +2,7 @@
 date: '2025-11-25T19:30:00+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <h2 class="wp-block-heading">Finds hope and support at her local VA</h2>
 
 
@@ -51,30 +48,9 @@ original_content: |-
 
 
   <p>This article was originally published on the <a href="https://www.va.gov/asheville-health-care/stories/army-veteran-rings-the-bell-after-completing-final-chemotherapy-treatment/" rel="noopener">VA Asheville Health care site</a> and has been edited for style and clarity.  </p>
-original_markdown_body: |-
-  ## Finds hope and support at her local VA
-
-  With joy and enthusiasm, Army Veteran Patricia Ann Reynolds rose from her chair and pulled the bell’s cord, marking the end of her final chemotherapy session at the [Charles George VA Medical Center](https://news.va.gov/?s=Charles+George+VA+Medical+Center).
-
-  Reynolds first learned about the oncology services at the 5-star-rated facility while living in Charleston, South Carolina. Confident in the care the center offered, she made the decision to relocate to Asheville to receive her treatment.
-
-  ## Reflecting on her journey
-
-  After approximately four months of chemotherapy, Reynolds wanted to celebrate this milestone with the dedicated employees who supported her throughout her healing journey.
-
-  “Keep doing what you are doing, because you are excellent and you are saving people’s lives,” she said, moments before ringing the bell.
-
-  But the celebration didn’t end with the ringing of the bell. Reynolds also shared a special song she dedicated to the occasion, titled&nbsp;‘Ring That Bell (Oh Lord—Celebration Version),’ bringing even more unity to the moment.
-
-  Reynolds mentioned Taylor Vanreenen, a registered nurse, in her song as a way of expressing gratitude for the compassionate care she received.
-
-  “I like to bring joy and create a fun experience whenever I interact with Veterans, to help take their minds off what they are going through,” said Vanreenen. “Our entire team works together to ensure Veterans receive the compassionate care they deserve, and we are all thrilled for Ms. Reynolds—she brings light into the clinic every time she visits.”
-
-  Learn more about [VA’s National Oncology Program](https://www.cancer.va.gov/).
-
-  * * *
-
-  This article was originally published on the [VA Asheville Health care site](https://www.va.gov/asheville-health-care/stories/army-veteran-rings-the-bell-after-completing-final-chemotherapy-treatment/) and has been edited for style and clarity. &nbsp;
+images: []
+locations:
+- King County
 source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143219/veteran-completes-final-chemotherapy-treatment/
 summarized: true

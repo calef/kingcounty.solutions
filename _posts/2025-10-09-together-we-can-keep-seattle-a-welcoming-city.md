@@ -2,12 +2,7 @@
 date: '2025-10-09T21:48:06+00:00'
 events: []
 events_extracted: true
-images:
-- '07934d6346971be3d69900292d1cc9b96ab0820c7ec74a1e86516d1626a0c9d0'
-- c1f2d2bc9bd291fe36e4b8f0c16b41052d8886e60b552d8d9abb12e6a12a4c19
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <div class="wp-block-image">
   <figure class="alignright size-large is-resized"><img decoding="async" width="600" height="400" src="https://www.rewa.org/wp-content/uploads/2025/10/022-600x400.jpg" alt="" class="wp-image-12222" style="width:408px;height:auto" srcset="https://www.rewa.org/wp-content/uploads/2025/10/022-600x400.jpg 600w, https://www.rewa.org/wp-content/uploads/2025/10/022-360x240.jpg 360w, https://www.rewa.org/wp-content/uploads/2025/10/022-150x100.jpg 150w, https://www.rewa.org/wp-content/uploads/2025/10/022-768x512.jpg 768w, https://www.rewa.org/wp-content/uploads/2025/10/022-1536x1024.jpg 1536w, https://www.rewa.org/wp-content/uploads/2025/10/022-scaled.jpg 2048w" sizes="(max-width: 600px) 100vw, 600px" /></figure></div>
 
@@ -141,36 +136,11 @@ original_content: |-
   <li>Catholic Community Services of Western Washington</li>
   </ul>
   <p>The post <a href="https://www.rewa.org/together-we-can-keep-seattle-a-welcoming-city/">Together, We Can Keep Seattle a Welcoming City</a> appeared first on <a href="https://www.rewa.org">Refugee Women&#039;s Alliance</a>.</p>
-original_markdown_body: "![](https://www.rewa.org/wp-content/uploads/2025/10/022-600x400.jpg)\n\nThank
-  you for caring about immigrants and refugees. In the next few days, you can voice
-  your support for our work. Refugee Women’s Alliance (ReWA) is part of a coalition
-  of organizations that provide critical services and advocacy for Seattle’s immigrant
-  and refugee communities.\n\nWe are proud that Seattle is a “Welcoming City” that
-  is standing strong to ensure that all immigrants in our community are treated with
-  dignity – and are given the opportunity to thrive in our city.&nbsp;\n\nThese are
-  especially important priorities right now, as Seattle’s immigrant communities and
-  communities of color are facing unprecedented attacks.&nbsp;\n\nReWA welcomes the
-  fact that there is proposed additional funding in the 2026 budget for the City of
-  Seattle’s Office of Immigrant Affairs (OIRA). We ask you to join us in helping make
-  sure that the full amount of this committed money reaches immigrant communities.\n\n**If
-  you are a Seattle resident or if you are associated with a company or organization
-  that serves the city, we invite you to take the following steps:&nbsp;**\n\n1. Learn
-  more about why we are in support of this funding by clicking the “_Immigration Advocacy
-  Letter_” below.\n2. Consider indicating your support through the “_Sign on Link._“\n\n**To
-  have the most impact, please sign on by Monday, October 13th.**\n\n### **Sign-on
-  Deadline: Monday, October 13, 2025, at 5:00pm**\n\n**Immigration Advocacy Letter
-  –** Monday, October 6, 2025\n\n[Click Here to View](https://tinyurl.com/4ft7wbes)\n\n**Sign-on
-  Link:**\n\n[Click Here to View](https://tinyurl.com/2p8ywj9y)\n\nYou can also help
-  by forwarding this message to your own friends, family members, and colleagues who
-  share ReWA’s commitment to our community. Thank you!\n\n![](https://www.rewa.org/wp-content/uploads/2025/10/2025-Seattle-Budget-Action_update-480x600.jpg)\n\n**Our
-  coalition includes the following organizations:**\n\n- OneAmerica\n- Refugee Women’s
-  Alliance\n- Neighborhood House\n- Legal Counsel for Youth and Children \n- Northwest
-  Immigrant Rights Project\n- Colectiva Legal del Pueblo\n- Kids in Need of Defense
-  (KIND)\n- Asian Counseling Referral Service\n- International Rescue Committee\n-
-  Chinese Information and Service Center\n- El Centro de la Raza\n- Catholic Community
-  Services of Western Washington\n\nThe post [Together, We Can Keep Seattle a Welcoming
-  City](https://www.rewa.org/together-we-can-keep-seattle-a-welcoming-city/) appeared
-  first on [Refugee Women's Alliance](https://www.rewa.org)."
+images:
+- '07934d6346971be3d69900292d1cc9b96ab0820c7ec74a1e86516d1626a0c9d0'
+- c1f2d2bc9bd291fe36e4b8f0c16b41052d8886e60b552d8d9abb12e6a12a4c19
+locations:
+- King County
 source: Refugee Women's Alliance
 source_url: https://www.rewa.org/together-we-can-keep-seattle-a-welcoming-city/?utm_source=rss&utm_medium=rss&utm_campaign=together-we-can-keep-seattle-a-welcoming-city
 summarized: true

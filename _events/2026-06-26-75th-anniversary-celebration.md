@@ -4,7 +4,6 @@ images: []
 location: ''
 locations:
 - King County
-original_markdown_body: Join the organization for its 75th anniversary celebration.
 published: false
 source: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/thank-you-for-supporting-celebration-of-youth-1

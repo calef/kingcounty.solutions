@@ -2,11 +2,7 @@
 date: '2025-10-01T16:59:49+00:00'
 events: []
 events_extracted: true
-images:
-- 938c390db8974ab1918e231beee88f0ad14149398b20896bfbf236d4def0e076
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <p>The Seattle Times recently published an article <em><a href="https://www.seattletimes.com/seattle-news/politics/how-a-seattle-immigration-leader-is-reacting-to-trumps-agenda/">How a Seattle immigration leader is reacting to Trump’s agenda</a></em> highlighting how a local Seattle immigration leader, Hamdi Mohamed is responding to shifting federal agendas. The piece talks about what many of us know well &#8211; when national policies change, immigrant and refugee families feel the impact, from job insecurity to fear of family separation.</p>
 
 
@@ -30,21 +26,10 @@ original_content: |-
 
   <p></p>
   <p>The post <a href="https://www.rewa.org/standing-strong/">Standing Strong</a> appeared first on <a href="https://www.rewa.org">Refugee Women&#039;s Alliance</a>.</p>
-original_markdown_body: "The Seattle Times recently published an article _[How a Seattle
-  immigration leader is reacting to Trump’s agenda](https://www.seattletimes.com/seattle-news/politics/how-a-seattle-immigration-leader-is-reacting-to-trumps-agenda/)_
-  highlighting how a local Seattle immigration leader, Hamdi Mohamed is responding
-  to shifting federal agendas. The piece talks about what many of us know well – when
-  national policies change, immigrant and refugee families feel the impact, from job
-  insecurity to fear of family separation.\n\n![](https://www.rewa.org/wp-content/uploads/2025/10/Screenshot-2025-10-01-095518-1-600x385.jpg)\n_Hamdi
-  Mohamed_\n\nThis reality is why Refugee Women’s Alliance (ReWA) is so vital. For
-  more than 40 years, ReWA has been a trusted anchor in Seattle’s immigrant and refugee
-  communities, offering wraparound services that go far beyond legal support. From
-  English classes and job readiness training, to housing, domestic violence counseling,
-  and early childhood education, ReWA helps families build stability and self-sufficiency,
-  especially during uncertain times.\n\n##   \nTo read the Seattle Times article,
-  click the button below:\n\n[Click Here to Read the Seattle Times Article](https://www.seattletimes.com/seattle-news/politics/how-a-seattle-immigration-leader-is-reacting-to-trumps-agenda/)\n\nThe
-  post [Standing Strong](https://www.rewa.org/standing-strong/) appeared first on
-  [Refugee Women's Alliance](https://www.rewa.org)."
+images:
+- 938c390db8974ab1918e231beee88f0ad14149398b20896bfbf236d4def0e076
+locations:
+- King County
 source: Refugee Women's Alliance
 source_url: https://www.rewa.org/standing-strong/?utm_source=rss&utm_medium=rss&utm_campaign=standing-strong
 summarized: true

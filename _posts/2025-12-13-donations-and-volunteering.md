@@ -2,20 +2,15 @@
 date: '2025-12-13T03:48:28+00:00'
 events: []
 events_extracted: true
+feed_content: Many people are asking how they can help by donating their time or money
+  during this difficult time. While King County is not able to accept donations directly,
+  there are several trusted ways to support response and recovery efforts. If you
+  are interested in volunteering, consider checking with local organizations in your
+  community to see […]
+feed_content_checksum: e7a094549f6033da025e99e4d20da975ceff7897
 images: []
 locations:
 - King County
-original_content: Many people are asking how they can help by donating their time
-  or money during this difficult time. While King County is not able to accept donations
-  directly, there are several trusted ways to support response and recovery efforts.
-  If you are interested in volunteering, consider checking with local organizations
-  in your community to see […]
-original_content_checksum: e7a094549f6033da025e99e4d20da975ceff7897
-original_markdown_body: Many people are asking how they can help by donating their
-  time or money during this difficult time. While King County is not able to accept
-  donations directly, there are several trusted ways to support response and recovery
-  efforts. If you are interested in volunteering, consider checking with local organizations
-  in your community to see […]
 rss_guid: https://kcemergency.com/?p=6848
 source: King County Emergency Management
 source_url: https://kcemergency.com/2025/12/12/donations-and-volunteering/

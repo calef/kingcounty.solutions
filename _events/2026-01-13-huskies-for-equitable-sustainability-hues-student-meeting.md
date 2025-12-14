@@ -1,11 +1,7 @@
 ---
 end_date: '2026-01-13T19:00:00-08:00'
-images: []
-location: Student Union Building (HUB)
-locations:
-- King County
-original_content: '<a href="#main_content" class="screen-reader-shortcut">Skip to
-  main content</a> <div id="uwsearcharea" aria-hidden="true" class="uw-search-bar-container">
+feed_content: '<a href="#main_content" class="screen-reader-shortcut">Skip to main
+  content</a> <div id="uwsearcharea" aria-hidden="true" class="uw-search-bar-container">
   <div class="container no-height" role="search"> <div class="center-block uw-search-wrapper">
   <div class="region region-search"> <section id="block-block-22" class="block block-block
   clearfix"> <form id="site_search" accept-charset="utf-8" action="https://www.washington.edu/search"
@@ -398,83 +394,10 @@ original_content: '<a href="#main_content" class="screen-reader-shortcut">Skip t
   target="_blank">Sustainability Action Plan</a></div> <div><a class="uw-btn" href="/newsletters"
   target="_blank">Newsletter Signup</a></div> </section> </div> </aside> </aside>
   </div> </div> </section> </div> </div> </div> </div>'
-original_markdown_body: 'Skip to main content       Current site   All of the UW           University
-  of Washington University of Washington            Campus          Topics          Energy     Greenhouse
-  gases     Buildings     Commuting     Air Travel     Waste     Water     Food     Sustainability
-  data dashboard            Energy transformation           UW Tacoma     UW Bothell     Sustainability
-  action plan          2025 update            Maps          Walking tour     Sustainability
-  map     Century of sustainability                   Get involved          Students          Student
-  groups     Huskies for Equitable Sustainability     Campus Sustainability Fund     UW
-  as Living Laboratory            Staff & faculty          Green Office program     Green
-  Laboratories                  Alumni     Volunteer     Take the Pledge     Guides          Reduce
-  paper     Green your event     Connect with nature                   Academics          UW
-  departments and centers     Courses     Sustainability directory (pdf)            Stay
-  informed          In Our Nature Blog     Newsletters     Webinars     Photos, videos
-  & more     Husky Sustainability Awards            Events     About          UW Sustainability
-  office          Our team     Connect with us     Equity, diversity & inclusion            Reports,
-  plans & policies          Sustainability Action Plan     Green Building Standard                  UW''s
-  commitment          Executive order     Definition of sustainability            Environmental
-  Stewardship Committee     Campus sustainability partners               Sign up for
-  our newsletter        UW Sustainability  Huskies for Equitable Sustainability (HuES)        Next
-  meeting Tuesday, January 13 6-7 p.m., HUB 337 Learn how you can get involved with
-  sustainability projects and make an impact on campus. Sign up  Growing together
-  through projects, skills, and community - You are welcome here! HuES is open to
-  all UW students who care about sustainability, equity, and building community. You
-  don''t need prior experience - just curiosity and a willingness to learn and collaborate.
-  What is HuES? Huskies for Equitable Sustainability (HuES) is an opportunity for
-  students to actively engage in the UW''s sustainability efforts, organized by UW
-  Sustainability. HuES will connect students with projects that impact sustainability
-  on our campus and in our community. You''ll get the chance to work together on tangible
-  efforts - whether that’s contributing to UW’s Sustainability Action Plan, volunteering
-  at existing sustainability events or projects, or helping develop your own student-led
-  initiatives. Whether you volunteer at an event or jump in to a project, you''ll
-  leave not just with ideas but with something you''ve helped bring to life. In addition,
-  HuES will host workshops to grow your sustainability knowledge and skills. You''ll
-  gain experiences that translate into leadership opportunities on campus - and beyond.
-  Who can participate? All students are welcome and encouraged to join HuES. You can
-  drop in to any meeting to learn more and discover how you can get involved. HuES
-  is intended to be more than just a club; it’s a community. We’re carving out space
-  not only to work and learn, but also to connect with each other as peers and friends.
-  HuES will be led by students, allowing for deeper peer-to-peer connections, while
-  UW Sustainability staff will be on hand to provide insight on how best to move projects
-  forward. Expect time for informal conversations, social events, and shared meals.
-  Because building a sustainable future starts with building relationships. How often
-  will HuES meet? HuES meetings will be held every other week and are open to everyone.
-  In between there will be optional working meetings primarily for the student leadership
-  board and project leads. Meetings will be held every other week on Tuesdays at 6
-  p.m. The first meeting of the Winter quarter will be Jan. 13 in HUB 337. How to
-  be a part of HuES HuES is open to all UW students who care about sustainability,
-  equity, and building community. You don’t need prior experience - just curiosity
-  and a willingness to learn and collaborate.  We know there are lots of students
-  who are interested in sustainability and want to make a difference, but don''t know
-  where to start or how to move their ideas forward. HuES helps connect you with existing
-  volunteer opportunities, RSOs and projects - or lets you pitch your ideas to students
-  who want to help.  Easy ways to get involved:   Sign up: Fill out our interest form
-  so we can keep you updated on meetings, events, and projects.  Come to a meeting
-  or event: See above for the meeting schedule. You’re welcome to drop in anytime,
-  whether you want to check it out once or become a regular. HuES members can choose
-  to get engaged in a variety of ways , such as event planning, campus campaigns,
-  volunteering, and hands-on projects throughout the year. All of these opportunities
-  are a great way to grow your knowledge, build skills, meet people, and make a tangible
-  impact.  What You’ll Get Out of HuES:  Community of students who care about change
-  Workshops and trainings to grow your skills Leadership opportunities to run events
-  and projects A chance to help shape sustainability efforts at UW  Follow UW Sustainability
-  on Instagram to learn about events, meetings and other HuES opportunities. If you
-  have any questions, please reach out to Emily Adams at emiadams@uw.edu. More about
-  HuES      The history of HuES    Huskies for Equitable Sustainability (HuES) launched
-  in Fall 2024 as a space for students to learn more about sustainability, equity,
-  and the ways they intersect on campus and beyond. We started with a model that paired
-  short lectures with group activities - a chance to hear from peers and guest speakers,
-  and then try something hands-on. It was a great starting point. We learned together,
-  built connections, and started conversations that mattered. But as we wrapped up
-  the year, one theme kept coming up in your feedback: you wanted more. More opportunities
-  to put ideas into action. More ways to develop concrete skills. And more time to
-  just be in community with one another. So we listened, and in Fall 2025 HuES evolved
-  to have a more collaborative, project-based focus.      Videos    In 2024-2025,
-  HuES was focused on presentations and speakers around different sustainability topics.
-  Below are some videos from those meetings: April 2025: Green Jobs panel November
-  2024: Sustainability Action Plan update October 2024: Intersectional Sustainability              Connect
-  with us: InstagramYouTubeFlickr Sustainability Action Plan Newsletter Signup'
+images: []
+location: Student Union Building (HUB)
+locations:
+- King County
 published: false
 source: University of Washington
 source_url: https://sustainability.uw.edu/action/students/hues

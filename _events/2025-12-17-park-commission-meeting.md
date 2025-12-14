@@ -1,11 +1,6 @@
 ---
 end_date: '2025-12-17T21:00:00-08:00'
-images: []
-location: City Hall – Normandy Park, 801 SW 174th Street, Normandy Park, WA, 98166,
-  United States
-locations:
-- King County
-original_content: '<div id="page-container"> <div id="et-boc" class="et-boc"> <header
+feed_content: '<div id="page-container"> <div id="et-boc" class="et-boc"> <header
   id="main-header" data-height-onload="80"> <div class="container clearfix et_menu_container">
   <div id="et-top-navigation" data-height="80" data-fixed-height="80"> <div id="et_mobile_nav_menu">
   <div class="mobile_nav closed"> <span class="select_page">Select Page</span> </div>
@@ -112,23 +107,11 @@ original_content: '<div id="page-container"> <div id="et-boc" class="et-boc"> <h
   news and updates from our team.</p> </div> </div> </div> <div class="et_bloom_form_content
   et_bloom_1_field et_bloom_bottom_stacked"> <h2 class="et_bloom_success_message">You
   have Successfully Subscribed!</h2> </div> </div> </div> </div>'
-original_markdown_body: 'Select Page           « All Events   Hybrid Event   Event
-  Series:    Park Commission Meeting    Park Commission Meeting   December 17 @ 7:00
-  pm - 9:00 pm   Hybrid Event    The Normandy Park Park Commission holds a regular
-  meeting on the 3rd Wednesday of each month at 7:00 pm, in-person at City Hall and
-  remotely via Zoom. MEETING LINK Meeting ID: 862 8036 6968 Missed the meeting? Meeting
-  recordings are available! You can sign up for the City newsletter to receive updates
-  on upcoming meetings. AGENDA         Google Calendar     iCalendar     Outlook 365     Outlook
-  Live           Details    Date:   December 17     Time:   7:00 pm - 9:00 pm    Series:    Park
-  Commission Meeting    Event Category: Parks Commission    Watch       Venue    City
-  Hall – Normandy Park     801 SW 174th Street Normandy Park, WA 98166 United States  +
-  Google Map    Phone  (206) 248-7603     View Venue Website      Organizer   Parks
-  & Recreation Manager    Phone   206-248-8258     Email   alloyd@normandyparkwa.gov       Related
-  Events    Park Commission Meeting January 21, 2026 @ 7:00 pm - 9:00 pm Hybrid Event     Park
-  Commission Meeting February 18, 2026 @ 7:00 pm - 9:00 pm Hybrid Event     Park Commission
-  Meeting March 18, 2026 @ 7:00 pm - 9:00 pm Hybrid Event                Subscribe
-  To Our Newsletter Join our mailing list to receive the latest news and updates from
-  our team.     You have Successfully Subscribed!'
+images: []
+location: City Hall – Normandy Park, 801 SW 174th Street, Normandy Park, WA, 98166,
+  United States
+locations:
+- King County
 published: false
 source: City of Normandy Park
 source_url: https://normandyparkwa.gov/event/park-commission-meeting-4/2025-12-17/

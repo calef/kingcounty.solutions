@@ -1,8 +1,6 @@
 ---
 date: '2025-12-08T21:42:48+00:00'
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   <p>The following Tribal Members will receive tickets to Dave Chappelle at Climate Pledge Arena</p>
   <p>All tickets will be distributed electronically to the email on file and do require a Ticketmaster account. If you are unable to attend your event please email <strong>TCR@snoqualmietribe.us</strong> at your earliest convenience.</p>
   <p> </p>
@@ -50,24 +48,9 @@ original_content: |-
   </tr>
   </tbody>
   </table>
-original_content_checksum: e8c1a49958b33f65a5c1c8d4e9892d75c7cfb276
-original_markdown_body: |-
-  The following Tribal Members will receive tickets to Dave Chappelle at Climate Pledge Arena
-
-  All tickets will be distributed electronically to the email on file and do require a Ticketmaster account. If you are unable to attend your event please email **TCR@snoqualmietribe.us** at your earliest convenience.
-
-  &nbsp;
-
-  | Dave Chappelle Winners | |
-  | | |
-  | Desiree Jai Weese | Dave Chappelle Tue • Dec 9, 2025 • 07:30 PM |
-  | Jackson Kimmel | |
-  | Pierre White | |
-  | Teanna Applebee-Ramirez | |
-  | Jeffrey LaMar | |
-  | Heather Sado | |
-  | Donavin Weese | |
-  | Travis Adams | |
+feed_content_checksum: e8c1a49958b33f65a5c1c8d4e9892d75c7cfb276
+images: []
+locations: []
 published: false
 source: Snoqualmie Indian Tribe
 source_url: https://snoqualmietribe.us/dave-chappelle-at-climate-pledge-arena-ticket-distribution/

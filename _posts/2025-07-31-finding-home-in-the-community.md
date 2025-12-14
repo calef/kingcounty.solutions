@@ -2,13 +2,13 @@
 date: '2025-07-31T23:27:25+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: |-
+feed_content: |-
   Finding Home in the Community The truth of being a part of a diaspora is best described in the words of the author Salman Rushdie, who writes — “sometimes we [...]
 
   [Read More... from Finding Home in the Community](https://iacswa.org/finding-home-in-the-community/)
+images: []
+locations:
+- King County
 source: Indian American Community Services
 source_url: https://iacswa.org/finding-home-in-the-community/
 summarized: true

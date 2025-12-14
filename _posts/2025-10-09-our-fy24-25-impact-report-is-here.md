@@ -2,13 +2,7 @@
 date: '2025-10-09T23:53:14+00:00'
 events: []
 events_extracted: true
-images:
-- 796f4803fbd553f9a0bd3351f24fbd5a8d0d716b3cbeca5c66f9bb070d57505c
-- ca879517e14554fa129509340e6e34f4a011fc0718ab22ccdc64327f1848bea9
-- b39ca577375854575f6d3e201b3ab878451a24c67f882ad43131b497457c7c6f
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <div class="wp-block-uagb-image uagb-block-db8ab62f wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure class="wp-block-uagb-image__figure"><img decoding="async" src="https://www.brightspark.org/wp-content/uploads/2025/10/Fund-Dev-Newsletter-Banners-3.png" alt="" class="uag-image-9257" width="768" height="231" title="Fund Dev Newsletter Banners (3)" loading="lazy" role="img" /></figure></div>
 
 
@@ -95,46 +89,12 @@ original_content: |-
 
   <p></p>
   <p>The post <a href="https://www.brightspark.org/2025/10/our-fy24-25-impact-report-is-here/">Our FY24/25 Impact Report is here!</a> appeared first on <a href="https://www.brightspark.org">BrightSpark</a>.</p>
-original_markdown_body: "![](https://www.brightspark.org/wp-content/uploads/2025/10/Fund-Dev-Newsletter-Banners-3.png
-  \"Fund Dev Newsletter Banners (3)\")\n\n## **Celebrating Impact, Together**\n\n![Provider
-  with child on their lap points to another child holding a green frog while another
-  child watches](https://www.brightspark.org/wp-content/uploads/2025/09/Untitled-design-13-1024x536.png
-  \"Untitled design (13)\")\n\n| We’re thrilled to share BrightSpark’s FY24/25 Community
-  Impact Report, a snapshot of the incredible progress our community has made in expanding
-  access to and improving the quality of child care.  \n  \nThis year’s report lifts
-  up the power of families, providers, and partners who are reimagining early learning
-  together. It reflects the strength of a movement that is building child-centered,
-  antiracist systems of care, and the momentum that grows when people come together
-  with a shared purpose.  \n  \nNow more than ever, amid uncertainty in the funding
-  landscape, your ongoing support means everything.  \n  \nThank you for being an
-  integral part of a community that is reshaping what’s possible for children and
-  families. Together, we are creating lasting change in early learning. |\n\n[Explore
-  the Full Impact Report Here!](https://www.brightspark.org/wp-content/uploads/2025/10/2025-annual-report.pdf)\n\n![](https://www.brightspark.org/wp-content/uploads/2025/10/Phoebe-Sade-Ex-819x1024.png
-  \"Phoebe Sade Ex\")\n\n_“While this was a year of significant expansion for our
-  organization, we also spent it refocusing on and refining our established programs
-  and services. We intentionally honed in on two guiding goals: increasing families’_
-  **_access_** _to early learning and elevating the_ **_quality_** _of child care
-  across King and Pierce Counties.&nbsp;_  \n_This is why we are so excited that our
-  work has connected thousands of families to care; distributed millions of dollars
-  in subsidies; and supported thousands of child care providers and Family, Friend,
-  & Neighbor caregivers with resources and education to elevate their work. And that’s
-  just scratching the surface!”_  \n  \n— **_Phoebe Sade, Executive Officer_**\n\n|
-  **See the Impact in Action** |\n\n| Our 2024-2025 Impact Video is here!&nbsp;This
-  short video captures the heart of our collective work. Click the image below to
-  watch our full video! |\n\n[Watch Our Impact Video Here!](https://youtu.be/9q1ApCLT5B0?si=t8YCYouk1lIzveOq)\n\n|
-  **Highlights from FY24/25**  \n  \nThese milestones are only possible because of
-  the shared dedication of families, providers, educators, advocates, and community
-  members, all working hand in hand to uplift children and those who care for them.
-  \ \n  \nThis past year BrightSpark…  \n  \n**Completed 5,630 Referrals** through
-  CCA of WA Family Center  \n**Offered 119 Unique Classes** to early learning professionals
-  \ \n**Supported 2,390 child care providers** through our Early Learning Coaches
-  Program  \n**Distributed $15,012,167** to families via subsidies to help afford
-  child care  \n  \nWe couldn’t do this work without our outstanding community. Let’s
-  see what we can do together in the next year!  \n  \nWith deep appreciation,  \n**The
-  BrightSpark Team** |\n\n![](https://www.brightspark.org/wp-content/uploads/2025/10/Thank-you-to-our-sponsors-Blog-Banner-1-1024x576.png)\n\n_All
-  photos on this email are credited to ©LisaBontjePhotography_\n\nThe post [Our FY24/25
-  Impact Report is here!](https://www.brightspark.org/2025/10/our-fy24-25-impact-report-is-here/)
-  appeared first on [BrightSpark](https://www.brightspark.org)."
+images:
+- 796f4803fbd553f9a0bd3351f24fbd5a8d0d716b3cbeca5c66f9bb070d57505c
+- ca879517e14554fa129509340e6e34f4a011fc0718ab22ccdc64327f1848bea9
+- b39ca577375854575f6d3e201b3ab878451a24c67f882ad43131b497457c7c6f
+locations:
+- King County
 source: BrightSpark
 source_url: https://www.brightspark.org/2025/10/our-fy24-25-impact-report-is-here/
 summarized: true

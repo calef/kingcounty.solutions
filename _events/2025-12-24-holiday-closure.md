@@ -5,7 +5,6 @@ images: []
 location: ''
 locations:
 - Snoqualmie Valley
-original_markdown_body: The center will be closed for the holidays.
 published: false
 source: Sno-Valley Senior Center
 source_url: https://snovalleysenior.org/december-2025-directors-letter/

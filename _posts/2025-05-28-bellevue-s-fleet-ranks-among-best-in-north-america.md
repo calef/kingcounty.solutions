@@ -1,8 +1,6 @@
 ---
 date: '2025-05-28T23:16:54+00:00'
-images: []
-locations: []
-original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Bellevue’s
+feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Bellevue’s
   fleet ranks among best in North America</span>\n<span class=\"field field--name-uid
   field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"
   typeof=\"schema:Person\" property=\"schema:name\" datatype>CIosso</span></span>\n<span
@@ -47,24 +45,8 @@ original_content: "<span class=\"field field--name-title field--type-string fiel
   and Communications</a>.</p></div>\n      \n\n            <div class=\"field field--name-field-article-date
   field--type-datetime field--label-hidden field__item\"><time datetime=\"2025-05-28T12:00:00Z\"
   class=\"datetime\">May 28 2025</time>\n</div>\n      \n    </div>\n  </div>"
-original_markdown_body: |-
-  Bellevue’s fleet ranks among best in North AmericaCIosso<time datetime="2025-05-28T16:16:54-07:00" title="Wednesday, May 28, 2025 - 16:16" class="datetime">Wed, 05/28/2025 - 16:16</time>
-
-   ![The Fleet team stands in front of some trucks.](https://bellevuewa.gov/sites/default/files/styles/article_featured_image/public/media/article_featured_image/2025-05/fleet-and-communications.JPEG?h=4521fff0&itok=JTY1HUdP)
-
-  For its commitment to continuous improvement and industry-leading use of electric vehicles, the City of Bellevue’s vehicle fleet has been ranked #22 in North America by the National Association of Fleet Administrators on its annual list of the top 100 fleets. Bellevue ranked higher than any other organization in Washington state that made the list.
-
-  The [100 Best Fleets in the Americas](https://www.nafa.org/awards/the-100-best-fleets/) program recognizes high-performing public and commercial fleet operations. These programs identify and encourage increasing levels of performance improvement and innovation within the fleet industry.
-
-  “This award validates Bellevue’s investments in environmental responsibility and helps solidify our reputation as a high-performance organization,” said City Manager Diane Carlson. “I want to recognize the teams who work hard every day to ensure we are delivering exceptional service in our fleet operations – they are the reason for this achievement.”
-
-  The ranking highlights Bellevue’s proactive efforts to reduce greenhouse gas emissions by transitioning to electric vehicles and implementing anti-idle strategies.
-
-  Bellevue’s Fleet and Communications division, part of the city’s Finance & Asset Management department, manages nearly 1,000 vehicles, including fire engines, utility trucks, police SUVs, and smaller cars. The city is working on installing more charging stations to support the shift to electric vehicles. By 2030, the city aims to convert half of its light-duty fleet to electric, and by 2040, it plans for all light-duty vehicles to be electric.
-
-  The award also recognized the city’s commitment to long-term financial sustainability in its fleet management and concerted efforts to promote staff development and retention. More information about Bellevue’s fleet operations can be found at [Fleet and Communications](https://bellevuewa.gov/city-government/departments/finance/fleet-communications "Fleet and Communications").
-
-  <time datetime="2025-05-28T12:00:00Z" class="datetime">May 28 2025</time>
+images: []
+locations: []
 published: false
 source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/fleet-among-best

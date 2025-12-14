@@ -2,10 +2,7 @@
 date: '2025-02-06T18:20:41+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: "![](https://sophiaway.org/wp-content/uploads/2025/02/Image-BHM-2025-02.png)\n\nAs
+feed_content: "![](https://sophiaway.org/wp-content/uploads/2025/02/Image-BHM-2025-02.png)\n\nAs
   we commemorate Black History Month, **The Sophia Way recognizes the deep-rooted
   systemic barriers that have disproportionately impacted Black individuals in experiencing
   homelessness**. According to the 2024 Point-in-Time Count, 19% of individuals experiencing
@@ -36,6 +33,9 @@ original_content: "![](https://sophiaway.org/wp-content/uploads/2025/02/Image-BH
   local black-owned small businesses on our **[webpage here](https://sophiaway.org/bhm-drive/).&nbsp;**\n\n>
   \n\nThe post [Honoring Black History Month: A Call for Housing Equity](https://sophiaway.org/bhm-2025/)
   first appeared on [The Sophia Way](https://sophiaway.org)."
+images: []
+locations:
+- King County
 source: The Sophia Way
 source_url: https://sophiaway.org/bhm-2025/?utm_source=rss&utm_medium=rss&utm_campaign=bhm-2025
 summarized: true

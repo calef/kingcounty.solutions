@@ -1,8 +1,6 @@
 ---
 date: '2025-11-28T18:00:51+00:00'
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   <p>Are people born wicked? Or do they have wickedness thrust upon them? These stories reinvent well-known stories and turn fairy-tale tropes inside out. Once-overlooked characters learn about themselves and grow their magical powers, and good and evil can depend on your perspective.</p>
   <p>In <a href="https://seattle.bibliocommons.com/v2/record/S30C3760077"><strong>Nettle &amp; Bone</strong></a> by T. Kingfisher, an unassuming third-born princess allies with a gravewitch, a disgraced knight, and a well-meaning fairy godmother (who’s better at casting curses than blessings) to save her sisters from an abusive prince.</p>
   <p>A ruthless young woman seeks power and revenge on the colonizer nobles who murdered her family in <a href="https://seattle.bibliocommons.com/v2/record/S30C3484733"><strong>Queen of the Conquered</strong></a>, a twisty tale of power and privilege by Kacen Callender, set in a Caribbean-inspired world full of dangerous magic.</p>
@@ -10,20 +8,8 @@ original_content: |-
   <p><a href="https://seattle.bibliocommons.com/v2/record/S30C2649171"><strong>Black Swan</strong></a> by Mercedes Lackey switches the perspective of Swan Lake to that of Odile, the Black Swan, who finds her own path and confronts her father to save the women he has enchanted into swans.</p>
   <p>A peasant girl chases after her foretold destiny &#8211; to become Empress &#8211; in <a href="https://seattle.bibliocommons.com/v2/record/S30C3296387"><strong>Forest of a Thousand Lanterns</strong></a>, the first book of a YA duology by Julie C. Dao which tells a version of Snow White set in an East Asian fantasy world.</p>
   <p><em>~posted by Amy L.</em></p>
-original_markdown_body: |-
-  Are people born wicked? Or do they have wickedness thrust upon them? These stories reinvent well-known stories and turn fairy-tale tropes inside out. Once-overlooked characters learn about themselves and grow their magical powers, and good and evil can depend on your perspective.
-
-  In [**Nettle & Bone**](https://seattle.bibliocommons.com/v2/record/S30C3760077) by T. Kingfisher, an unassuming third-born princess allies with a gravewitch, a disgraced knight, and a well-meaning fairy godmother (who’s better at casting curses than blessings) to save her sisters from an abusive prince.
-
-  A ruthless young woman seeks power and revenge on the colonizer nobles who murdered her family in [**Queen of the Conquered**](https://seattle.bibliocommons.com/v2/record/S30C3484733), a twisty tale of power and privilege by Kacen Callender, set in a Caribbean-inspired world full of dangerous magic.
-
-  A village girl sent as a sacrifice to serve a powerful wizard learns to channel her own unique magic and must find a way to rescue her village and her country from dark forces in [**Uprooted**](https://seattle.bibliocommons.com/v2/record/S30C3878049) by Naomi Novik.
-
-  [**Black Swan**](https://seattle.bibliocommons.com/v2/record/S30C2649171) by Mercedes Lackey switches the perspective of Swan Lake to that of Odile, the Black Swan, who finds her own path and confronts her father to save the women he has enchanted into swans.
-
-  A peasant girl chases after her foretold destiny – to become Empress – in [**Forest of a Thousand Lanterns**](https://seattle.bibliocommons.com/v2/record/S30C3296387), the first book of a YA duology by Julie C. Dao which tells a version of Snow White set in an East Asian fantasy world.
-
-  _~posted by Amy L._
+images: []
+locations: []
 published: false
 source: The Seattle Public Library
 source_url: https://blog.spl.org/2025/11/28/fractured-fairy-tales-and-female-antiheroes-5-readalikes-for-fans-of-wicked/

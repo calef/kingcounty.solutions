@@ -2,19 +2,11 @@
 date: '2025-11-12T15:11:02-05:00'
 events: []
 events_extracted: true
+feed_content: "<p>artifact_description: Tip Sheet</p><p>date: Wed, 05 Nov 2025 20:11:49
+  -0500</p><p>title: Tips for Agents &#x26; Brokers When Using the Marketplace Call
+  Center</p><p>topic: Marketplace Call Center</p>"
 images: []
 locations: []
-original_content: "<p>artifact_description: Tip Sheet</p><p>date: Wed, 05 Nov 2025
-  20:11:49 -0500</p><p>title: Tips for Agents &#x26; Brokers When Using the Marketplace
-  Call Center</p><p>topic: Marketplace Call Center</p>"
-original_markdown_body: |-
-  artifact\_description: Tip Sheet
-
-  date: Wed, 05 Nov 2025 20:11:49 -0500
-
-  title: Tips for Agents & Brokers When Using the Marketplace Call Center
-
-  topic: Marketplace Call Center
 published: false
 source: Centers for Medicare & Medicaid Services
 source_url: https://www.cms.gov//marketplace/agents-brokers/general-resources/tips-agents-brokers-when-using-marketplace-call-center-0

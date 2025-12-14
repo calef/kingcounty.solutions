@@ -1,8 +1,6 @@
 ---
 date: '2025-10-04T18:17:09+00:00'
-images: []
-locations: []
-original_content: "<section class=\"elementor-section elementor-top-section elementor-element
+feed_content: "<section class=\"elementor-section elementor-top-section elementor-element
   elementor-element-a3ed10d ang-section-padding-no elementor-section-boxed elementor-section-height-default
   elementor-section-height-default elementor-repeater-item-none elementor-repeater-item-none_hover\"
   data-id=\"a3ed10d\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container
@@ -52,6 +50,8 @@ original_content: "<section class=\"elementor-section elementor-top-section elem
   1545w\" sizes=\"(max-width: 791px) 100vw, 791px\"> </div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>\n\nThe
   post [Reimagining Committee – Second Listening Session](https://redmondumc.org/reimagining-committee-second-listening-session/)
   appeared first on [Redmond United Methodist Church](https://redmondumc.org)."
+images: []
+locations: []
 published: false
 source: Redmond United Methodist Church - Social Ministries
 source_url: https://redmondumc.org/reimagining-committee-second-listening-session/

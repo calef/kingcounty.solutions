@@ -2,11 +2,7 @@
 date: '2025-04-14T23:19:31+00:00'
 events: []
 events_extracted: true
-images:
-- a3c098329c3a8f3eb8ced56eb645707203d6f845c0582397bbf58107bb4fd5e1
-locations:
-- King County
-original_content: "<div class=\"et_pb_section et_pb_section_11 blog-post-type et_section_regular\"
+feed_content: "<div class=\"et_pb_section et_pb_section_11 blog-post-type et_section_regular\"
   >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_row
   et_pb_row_34\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4 et_pb_column_50
   \ et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div
@@ -96,34 +92,10 @@ original_content: "<div class=\"et_pb_section et_pb_section_11 blog-post-type et
   post <a href=\"https://lcsnw.org/2025/04/lcsnw-housing-services-team-doubles/\">LCSNW
   housing services team doubles in size, broadens in scope</a> appeared first on <a
   href=\"https://lcsnw.org\">LCSNW</a>.</p>"
-original_markdown_body: |-
-  # LCSNW housing services team doubles in size, broadens in scope
-
-  _Photo at right: LCSNW’s new Tacoma-based housing services team (L to R): Kenneth Williams, Sonia Chebbi, Dominique Johnson and David Moser.&nbsp;_
-
-  LCSNW’s housing services have quietly doubled in size in recent months, with the addition of three new programs in the Greater Puget Sound (GPS) District. The housing team has expanded from six to 11 members and added a Tacoma team to help meet growing community needs.
-
-  Through new contracts for Rapid Rehousing Programs in King and Pierce County, LCSNW is proud to serve individuals and families experiencing homelessness – those sleeping outside, in a car, or in another place not meant for human habitation.
-
-  Rapid Rehousing focuses on helping people referred though the County Coordinated Entry System to improve their living situations and prepare them for longer-term self-sufficiency. Based on their needs, eligible clients receive rent assistance, resource referral and intensive case management support.
-
-  The new Homelessness Prevention Rent Assistance program is also funded by Pierce County and works to prevent homelessness for those facing eviction due to any number of life circumstances (SEE VIDEO BELOW).&nbsp; David Moser, Housing Services Manager, is especially excited about this program because it focuses further upstream on problems before people become homeless. David wants the community to know that the majority of unhoused persons in the U.S. — and within our client base — are employed.
-
-  “As we all know, rents in our state are too high, and affordable housing too scarce,” David said. “Because of this systemic housing crisis, the majority of LCSNW client households across all programs are extremely rent-burdened. A single life event can send a person or family down a path that leads to losing their housing, even with a full-time job.”
-
-  “Many people just need a boost or safety net for a couple of months to stay in their housing, while we work with them to figure out a plan for longer term stability,” David added. “Prevention resources are a crucial component of stability for every community that LCSNW serves, and this program has the funding flexibility so more clients in other programs may qualify for rent assistance.”
-
-  The latest programs also broaden language accessibility in LCSNW’s housing services, which now includes staff who speak seven languages.
-
-  The new housing services employees join LCSNW’s existing housing team based at SeaTac and Everett. They have served an estimated 3,750 individuals in 1,500 households since January 2024.
-
-  LCSNW is also growing our housing expertise through an affiliation with Seattle-based Compass Housing Alliance. The two organizations are on a path to full integration.
-
-  https://www.youtube.com/embed/OVZoEH5PXH0?feature=oembed
-
-   ![](https://lcsnw.org/wp-content/uploads/2025/04/Tacoma-Housing-Team-0325-cropped.jpeg "Tacoma Housing Team 0325 -cropped")
-
-  The post [LCSNW housing services team doubles in size, broadens in scope](https://lcsnw.org/2025/04/lcsnw-housing-services-team-doubles/) appeared first on [LCSNW](https://lcsnw.org).
+images:
+- a3c098329c3a8f3eb8ced56eb645707203d6f845c0582397bbf58107bb4fd5e1
+locations:
+- King County
 source: Lutheran Community Services Northwest
 source_url: https://lcsnw.org/2025/04/lcsnw-housing-services-team-doubles/
 summarized: true

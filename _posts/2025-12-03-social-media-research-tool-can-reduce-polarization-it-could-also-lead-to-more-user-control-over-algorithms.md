@@ -1,8 +1,6 @@
 ---
 date: '2025-12-03T16:35:46+00:00'
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   <div id="attachment_89253" class="wp-caption aligncenter" style="width: 1150px"><img fetchpriority="high" decoding="async" class="wp-image-89253 size-page" src="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/09/17141815/iStock-1642292511-1140x759.jpg" alt="Icons for social media apps on a smartphone." width="1140" height="759" srcset="https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/09/17141815/iStock-1642292511-1140x759.jpg 1140w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/09/17141815/iStock-1642292511-300x200.jpg 300w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/09/17141815/iStock-1642292511-1024x681.jpg 1024w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/09/17141815/iStock-1642292511-768x511.jpg 768w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/09/17141815/iStock-1642292511-1536x1022.jpg 1536w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/09/17141815/iStock-1642292511-2048x1363.jpg 2048w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/09/17141815/iStock-1642292511-375x250.jpg 375w, https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/09/17141815/iStock-1642292511-750x499.jpg 750w" sizes="(max-width: 1140px) 100vw, 1140px" /></p>
   <p class="wp-caption-text">A web-based method was shown to mitigate political polarization on X by nudging antidemocratic and extremely negative partisan posts lower in a user’s feed. The tool, which is independent of the platform, has the potential to give users more say over what they see on social media.<a href="https://www.istockphoto.com/photo/new-social-media-apps-formerly-twitter-x-and-threads-on-smart-phone-screen-gm1642292511-533365123"><span class="wp-media-credit">iStock</span></a></span></p>
   </div>
@@ -33,54 +31,8 @@ original_content: |-
   <p><i><span style="font-weight: 400">For more information, contact Saveski at </span></i><a href="mailto:msaveski@uw.edu"><i><span style="font-weight: 400">msaveski@uw.edu</span></i></a><i><span style="font-weight: 400">.</span></i></p>
   <p><i><span style="font-weight: 400">This story was adapted from a </span></i><a href="https://news.stanford.edu/stories/2025/11/social-media-tool-polarization-user-control-research"><i><span style="font-weight: 400">press release</span></i></a><i><span style="font-weight: 400"> by Stanford University.</span></i></p>
   <p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.washington.edu%2Fcms%2Fnews%2F2025%2F12%2F03%2Fsocial-media-research-tool-can-reduce-polarization-it-could-also-lead-to-more-user-control-over-algorithms%2F&amp;linkname=Social%20media%20research%20tool%20can%20reduce%20polarization%20%E2%80%94%20it%20could%20also%20lead%20to%20more%20user%20control%20over%20algorithms" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.washington.edu%2Fcms%2Fnews%2F2025%2F12%2F03%2Fsocial-media-research-tool-can-reduce-polarization-it-could-also-lead-to-more-user-control-over-algorithms%2F&amp;linkname=Social%20media%20research%20tool%20can%20reduce%20polarization%20%E2%80%94%20it%20could%20also%20lead%20to%20more%20user%20control%20over%20algorithms" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_reddit a2a_counter" href="https://www.addtoany.com/add_to/reddit?linkurl=https%3A%2F%2Fwww.washington.edu%2Fcms%2Fnews%2F2025%2F12%2F03%2Fsocial-media-research-tool-can-reduce-polarization-it-could-also-lead-to-more-user-control-over-algorithms%2F&amp;linkname=Social%20media%20research%20tool%20can%20reduce%20polarization%20%E2%80%94%20it%20could%20also%20lead%20to%20more%20user%20control%20over%20algorithms" title="Reddit" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_email" href="https://www.addtoany.com/add_to/email?linkurl=https%3A%2F%2Fwww.washington.edu%2Fcms%2Fnews%2F2025%2F12%2F03%2Fsocial-media-research-tool-can-reduce-polarization-it-could-also-lead-to-more-user-control-over-algorithms%2F&amp;linkname=Social%20media%20research%20tool%20can%20reduce%20polarization%20%E2%80%94%20it%20could%20also%20lead%20to%20more%20user%20control%20over%20algorithms" title="Email" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_print" href="https://www.addtoany.com/add_to/print?linkurl=https%3A%2F%2Fwww.washington.edu%2Fcms%2Fnews%2F2025%2F12%2F03%2Fsocial-media-research-tool-can-reduce-polarization-it-could-also-lead-to-more-user-control-over-algorithms%2F&amp;linkname=Social%20media%20research%20tool%20can%20reduce%20polarization%20%E2%80%94%20it%20could%20also%20lead%20to%20more%20user%20control%20over%20algorithms" title="Print" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.washington.edu%2Fcms%2Fnews%2F2025%2F12%2F03%2Fsocial-media-research-tool-can-reduce-polarization-it-could-also-lead-to-more-user-control-over-algorithms%2F&#038;title=Social%20media%20research%20tool%20can%20reduce%20polarization%20%E2%80%94%20it%20could%20also%20lead%20to%20more%20user%20control%20over%20algorithms" data-a2a-url="https://www.washington.edu/news/2025/12/03/social-media-research-tool-can-reduce-polarization-it-could-also-lead-to-more-user-control-over-algorithms/" data-a2a-title="Social media research tool can reduce polarization — it could also lead to more user control over algorithms"></a></p>
-original_markdown_body: |-
-  ![Icons for social media apps on a smartphone.](https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/09/17141815/iStock-1642292511-1140x759.jpg)
-
-  A web-based method was shown to mitigate political polarization on X by nudging antidemocratic and extremely negative partisan posts lower in a user’s feed. The tool, which is independent of the platform, has the potential to give users more say over what they see on social media.[iStock](https://www.istockphoto.com/photo/new-social-media-apps-formerly-twitter-x-and-threads-on-smart-phone-screen-gm1642292511-533365123)
-
-  A new tool shows it is possible to turn down the partisan rancor in an X feed — without removing political posts and without the direct cooperation of the platform.&nbsp;
-
-  The study, from researchers at the University of Washington, Stanford University and Northeastern University, also indicates that it may one day be possible to let users take control of their social media algorithms.&nbsp;
-
-  The researchers created a seamless, web-based tool that reorders content to move posts lower in a user’s feed when they contain antidemocratic attitudes and partisan animosity, such as advocating for violence or jailing supporters of the opposing party.&nbsp;
-
-  Researchers [published their findings](https://www.science.org/doi/10.1126/science.adu5584) Nov. 27 in Science.
-
-  “Social media algorithms direct our attention and influence our moods and attitudes, but until now, only platforms had the power to change their algorithms’ design and study their effects,” said co-lead author [Martin Saveski](https://faculty.washington.edu/msaveski/), a UW assistant professor in the Information School. “Our tool gives that ability to external researchers.”
-
-  In an experiment, about 1,200 volunteer participants used the tool over 10 days during the 2024 election. Participants who had anti-democratic content downranked showed more positive views of the opposing party. The effect was also bipartisan, holding true for people who identified as liberals or conservatives.
-
-  “Previous studies intervened at the level of the users or platform features — demoting content from users with similar political views, or switching to a chronological feed, for example. But we built on recent advances in AI to develop a more nuanced intervention that reranks content that is likely to polarize,” Saveski said.
-
-  For this study, the team drew from previous sociology research identifying categories of antidemocratic attitudes and partisan animosity that can be threats to democracy. In addition to advocating for extreme measures against the opposing party, these attitudes include statements that show rejection of any bipartisan cooperation, skepticism of facts that favor the other party’s views, and a willingness to forgo democratic principles to help the favored party.
-
-  Related:
-
-  - [Community Notes help reduce the virality of false information on X, study finds](https://www.washington.edu/news/2025/09/18/community-notes-x-false-information-viral/)
-
-  The researchers tackled the problem from a range of disciplines including information science, computer science, psychology and communication.&nbsp;
-
-  The team created a web extension tool coupled with an artificial intelligence large language model that scans posts for these types of antidemocratic and extreme negative partisan sentiments. The tool then reorders posts on the user’s X feed in a matter of seconds.&nbsp;
-
-  Then, in separate experiments, the researchers had a group of participants view their feeds with this type of content downranked or upranked over seven days and compared their reactions to a control group. No posts were removed, but the more incendiary political posts appeared lower or higher in their content streams.
-
-  The impact on polarization was clear.&nbsp;
-
-  “When the participants were exposed to less of this content, they felt warmer toward the people of the opposing party,” said co-lead author [Tiziano Piccardi](https://piccardi.me/), an assistant professor at Johns Hopkins University. “When they were exposed to more, they felt colder.”&nbsp;
-
-  Before and after the experiment, the researchers surveyed participants on their feelings toward the opposing party on a scale of 1 to 100. The attitudes among the participants who had the negative content downranked improved on average by two points — equivalent to the estimated change in attitudes that has occurred among the general U.S. population over a period of three years.&nbsp;
-
-  The researchers are now looking into other interventions using a similar method, including ones that aim to improve mental health. The team has also made the code of the current tool available, so other researchers and developers can use it to create their own ranking systems independent of a social media platform’s algorithm.
-
-  “In this work, we focused on affective polarization, but our framework can be applied to improve other outcomes, including well-being, mental health and civic engagement,” Saveski said. “We hope that other researchers will use our tool to explore the vast design space of potential feed algorithms and articulate alternative visions of how social media platforms could operate.”
-
-  _Additional co-authors on this study include_ [_Chenyan Jia_](https://www.jiachenyan.com/) _of Northeastern and_ [_Michael Bernstein_](https://engineering.stanford.edu/people/michael-bernstein)_,_ [_Jeanne Tsai_](https://profiles.stanford.edu/jeanne-tsai) _and_ [_Jeff Hancock_](https://sml.stanford.edu/people/jeff-hancock) _of Stanford._
-
-  _This work was supported in part by the National Science Foundation, the Swiss National Science Foundation and a Hoffman-Yee grant from the Stanford Institute for Human-Centered Artificial Intelligence.&nbsp;_
-
-  _For more information, contact Saveski at_ [_msaveski@uw.edu_](mailto:msaveski@uw.edu)_._
-
-  _This story was adapted from a_ [_press release_](https://news.stanford.edu/stories/2025/11/social-media-tool-polarization-user-control-research) _by Stanford University._
+images: []
+locations: []
 published: false
 source: University of Washington
 source_url: https://www.washington.edu/news/2025/12/03/social-media-research-tool-can-reduce-polarization-it-could-also-lead-to-more-user-control-over-algorithms/

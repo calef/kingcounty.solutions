@@ -2,10 +2,7 @@
 date: '2025-10-10T17:28:10+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: "### ![](https://encompassnw.org/wp-content/uploads/2025/10/Telehealth_1-300x300.png)Therapy
+feed_content: "### ![](https://encompassnw.org/wp-content/uploads/2025/10/Telehealth_1-300x300.png)Therapy
   That Works with Your Life\n\n#### ![❄](https://s.w.org/images/core/emoji/16.0.1/72x72/2744.png)
   Life Happens—But Therapy Can Still Happen!\n\nBad weather? Is someone in the family
   sick? Is your schedule too tight to make it to the clinic? Telehealth gives you
@@ -58,6 +55,9 @@ original_content: "### ![](https://encompassnw.org/wp-content/uploads/2025/10/Te
   disorders. Journal of Developmental & Behavioral Pediatrics, 43(9), 569–585. https://doi.org/10.1097/DBP.0000000000001064\n\nThe
   post [Telehealth: Helping Your Child Thrive—From Home!](https://encompassnw.org/telehealth-helping-your-child-thrive-from-home/)
   first appeared on [Encompass](https://encompassnw.org)."
+images: []
+locations:
+- King County
 source: Encompass
 source_url: https://encompassnw.org/telehealth-helping-your-child-thrive-from-home/
 summarized: true

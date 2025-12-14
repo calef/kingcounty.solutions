@@ -1,8 +1,6 @@
 ---
 date: '2025-09-25T18:29:54+00:00'
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   By Steven Schauer, Deputy Executive Director, and King County Staff
 
   The King County Flood Control District (KCFCD) has been working diligently since its creation in 2007 to safeguard our communities from flooding. The KCFCD, in collaboration with King County as service provider, has spearheaded over 370 capital projects aimed at mitigating the risk of levee and revetment failures. These projects, along with the operation and maintenance of over 500 flood protection facilities, cover 118 linear miles and approximately 800 acres of land crucial for flood mitigation.
@@ -65,6 +63,8 @@ original_content: |-
   The Irwin Right Bank Revetment Repair is a reminder of how proactive flood risk reduction measures can prevent future crises, reduce risks, and sustain communities for generations to come.
 
   The post [Reducing Flood Risk: A Look Back at Completed Flood Risk Reduction Projects](https://kingcountyfloodcontrol.org/reducing-flood-risk-a-look-back-at-completed-flood-risk-reduction-projects-6/) appeared first on [King County Flood Control District](https://kingcountyfloodcontrol.org).
+images: []
+locations: []
 published: false
 source: King County Flood Control District
 source_url: https://kingcountyfloodcontrol.org/reducing-flood-risk-a-look-back-at-completed-flood-risk-reduction-projects-6/?utm_source=rss&utm_medium=rss&utm_campaign=reducing-flood-risk-a-look-back-at-completed-flood-risk-reduction-projects-6

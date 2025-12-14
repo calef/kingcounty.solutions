@@ -1,10 +1,6 @@
 ---
 end_date: '2025-12-22T13:00:00-08:00'
-images: []
-location: "[ONLINE] EvergreenHealth"
-locations:
-- King County
-original_content: "<header> <div> <div><div> <div><div> <a>Lifeline</a> | 206.297.2500
+feed_content: "<header> <div> <div><div> <div><div> <a>Lifeline</a> | 206.297.2500
   | 1.800.255.5505 | <a>Lifeline Chat</a> </div></div> </div></div> </div> </header>
   <div> <div> <div> <div> <section> <div> <p> <a> « All Events</a> </p> <h1>Vital
   Moves Mondays Sponsored by EvergreenHealth</h1> <div> <div> <span>December 22 @
@@ -36,22 +32,11 @@ original_content: "<header> <div> <div><div> <div><div> <a>Lifeline</a> | 206.29
   Us</a></li> </ul> </div> </aside><aside><h3>Get Involved</h3> <div> <ul> <li><a>Ways
   to Give</a></li> <li><a>Volunteer with Us</a></li> <li><a>Donate Now</a></li> <li><a>Planned
   Giving</a></li> </ul> </div> </aside> </div> </div> </div> </div>"
-original_content_checksum: 2a19b5143e0f455157210a32a4c3f2fa0cd12132
-original_markdown_body: 'Lifeline | 206.297.2500 | 1.800.255.5505 | Lifeline Chat             «
-  All Events  Vital Moves Mondays Sponsored by EvergreenHealth   December 22 @ 12:00
-  pm - 1:00 pm  PST     Event Series    (See All)       Learn gentle upbeat movements
-  that can increase energy, strength, clarity, and balance. Great for patients, survivors,
-  & caregivers. Especially beneficial for those affected by lymphedema. CLICK HERE
-  TO REGISTER Need help getting registered? Having trouble joining a class? Please
-  call our Telephone Lifeline at 206-297-2500 M-F, 9am-5pm or connect with us through
-  our Online Lifeline Chat.         Google Calendar     iCalendar     Outlook 365     Outlook
-  Live           Details    Date:   December 22     Time:   12:00 pm - 1:00 pm PST    Series:    Vital
-  Moves Mondays Sponsored by EvergreenHealth    Event Category: Exercise & Movement      Venue    [ONLINE]
-  EvergreenHealth     Organizer   Meryl Shier                Info   6522 Fremont Ave
-  N Seattle, WA 98103   Monday through Friday 9:00 AM – 5:00 PM   [email protected]   Call
-  Us: 1-206-297-2100   I’m New   FAQ Classes Support Groups Programs & Services   About
-  Us   Team History Partnerships & Sponsors Jobs Privacy Policy Contact Us   Get Involved   Ways
-  to Give Volunteer with Us Donate Now Planned Giving'
+feed_content_checksum: 2a19b5143e0f455157210a32a4c3f2fa0cd12132
+images: []
+location: "[ONLINE] EvergreenHealth"
+locations:
+- King County
 source: Cancer Lifeline Financial Assistance for Cancer Patients
 source_url: https://cancerlifeline.org/event/vital-moves-mondays-sponsored-by-evergreenhealth-12/2025-12-22/
 start_date: '2025-12-22T12:00:00-08:00'

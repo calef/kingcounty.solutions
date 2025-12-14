@@ -1,10 +1,6 @@
 ---
 end_date: '2026-02-14T13:00:00-08:00'
-images: []
-location: WA
-locations:
-- King County
-original_content: '<div id="simple-banner" class="simple-banner"><div class="simple-banner-text"><span>Did
+feed_content: '<div id="simple-banner" class="simple-banner"><div class="simple-banner-text"><span>Did
   you know we offer virtual office hours every weekday? Click <a href="https://us02web.zoom.us/j/88987063870">VIRTUAL
   OFFICE HOURS</a> Mon-Fri, 11AM-1PM or call 253-205-0468 and enter Meeting ID: 889-8706-3870.
   We look forward to helping you!</span></div></div> <div id="page-container"> <div
@@ -156,34 +152,10 @@ original_content: '<div id="simple-banner" class="simple-banner"><div class="sim
   switcher : Russian" class="weglot-language-ru" role="option" data-wg-notranslate=""
   href="https://kcdrc.org/ru/event/kc-connect-online-workshop/2026-02-14/?wg-choose-original=false">Русский</a></li>
   </ul></aside>'
-original_markdown_body: 'Did you know we offer virtual office hours every weekday?
-  Click VIRTUAL OFFICE HOURS Mon-Fri, 11AM-1PM or call 253-205-0468 and enter Meeting
-  ID: 889-8706-3870. We look forward to helping you!         Donate         Donate     Contact                  «
-  All Events    Event Series:    KC CONNECT: Online Workshop    KC CONNECT: 2nd Saturdays
-  Online Workshop   February 14, 2026 @ 11:00 am - 1:00 pm     Join us for a KC CONNECT
-  Online Workshop! These free, youth-centered sessions are open to young people and
-  their families across King County. Each month, we explore a different real-life
-  topic related to conflict, communication, and justice all in a welcoming virtual
-  space. Workshops take place on the 2nd Saturday of each month from 11am to 1pm online.
-  No prep needed- just bring yourself, your voice, and an open mind! Topics are grouped
-  into three modules: Module 1: Foundations of Conflict Resolution   October 11th,
-  2025: Intro to Conflict – Understanding the Roots  November 8th, 2025: Communication
-  that Builds Trust  December 13th, 2025: Emotion in Conflict  January 10th, 2026: Power,
-  Privilege, and Identity in Conflict  Module 2: Skill Building   February 14th, 2026: Facing
-  the Conflict  March 14th, 2026: Restorative Response to Harm  April 14th, 2026: Family
-  Repair Circles  May 9th, 2026: Digital Conflict & Social Media Drama  Module 3:
-  Critical Awareness and Cultural Power   June 13th, 2026: Conflict as a Tool for
-  Change  July 18th, 2026: Youth Circles for Change  August 8th, 2026: Taking Back
-  Power    To learn more: Youth & School Conflicts – Dispute Resolution Center of
-  King County To RSVP: Select a Date & Time – Calendly         Google Calendar     iCalendar     Outlook
-  365     Outlook Live           Details    Date:   February 14, 2026     Time:   11:00
-  am - 1:00 pm    Series:    KC CONNECT: Online Workshop    Event Categories: Workshop,
-  Youth Development   Website:  https://calendly.com/kcdrc-youth-development/2nd-saturdays-with-kc-connect?month=2025-10      Organizer   KCDRC      Related
-  Events    KC CONNECT: 2nd Saturdays Online Workshop December 13 @ 11:00 am - 1:00
-  pm     KC CONNECT: 2nd Saturdays Online Workshop January 10, 2026 @ 11:00 am - 1:00
-  pm     KC CONNECT: 2nd Saturdays Online Workshop March 14, 2026 @ 11:00 am - 1:00
-  pm                English Tiếng Việt Soomaaliga Español (América Latina) Русский  English
-  Tiếng Việt Soomaaliga Español (América Latina) Русский'
+images: []
+location: WA
+locations:
+- King County
 source: Dispute Resolution Center of King County
 source_url: https://kcdrc.org/event/kc-connect-online-workshop/2026-02-14/
 start_date: '2026-02-14T11:00:00-08:00'

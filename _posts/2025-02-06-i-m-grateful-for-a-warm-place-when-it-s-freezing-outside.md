@@ -2,10 +2,7 @@
 date: '2025-02-06T18:15:06+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: "![](https://sophiaway.org/wp-content/uploads/2025/02/Image-blog-2025-02.png)\n\nWhen
+feed_content: "![](https://sophiaway.org/wp-content/uploads/2025/02/Image-blog-2025-02.png)\n\nWhen
   winter temperatures plummet in King County, it can be life-threatening for women
   experiencing homelessness. During severe cold snaps, like the one in January and
   this week, The Sophia Way increases its shelter capacity – **extending Day Center
@@ -44,6 +41,9 @@ original_content: "![](https://sophiaway.org/wp-content/uploads/2025/02/Image-bl
   Way a place of hope and healing, especially when it is needed most.\n\n> \n\nThe
   post [“I’m grateful for a warm place when it’s freezing outside.”](https://sophiaway.org/winter-care/)
   first appeared on [The Sophia Way](https://sophiaway.org)."
+images: []
+locations:
+- King County
 source: The Sophia Way
 source_url: https://sophiaway.org/winter-care/?utm_source=rss&utm_medium=rss&utm_campaign=winter-care
 summarized: true

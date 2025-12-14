@@ -2,9 +2,7 @@
 date: '2025-12-09T16:22:33+00:00'
 events: []
 events_extracted: true
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   <span>Pharmacist in Spokane County suspended due to diversion of controlled substances</span>
 
               <div>
@@ -40,33 +38,9 @@ original_content: |-
 
   <p>###</p>
   </div>
-original_content_checksum: bb3e45ea5023e9784cccd72333440947e7e2c833
-original_markdown_body: |-
-  Pharmacist in Spokane County suspended due to diversion of controlled substances
-  <time>December 9, 2025 - 8:20am</time>
-  Sharon.Moysiuk…<time>December 9, 2025 - 8:22am</time>
-
-  News Category
-
-  disciplinary-actions
-
-  **For immediate release** : December 9, 2025&nbsp;&nbsp; (25-147)
-
-  **Contact** : DOH Communications
-
-  **OLYMPIA** – The Pharmacy Quality Assurance Commission suspended the license of Spokane County pharmacist Sandra Lee Symington Bang (PH00021680) pending further legal action.
-
-  Bang allegedly falsified prescriptions to obtain medications, including controlled substances, for her personal use.
-
-  The suspension prohibits Bang from practicing as a pharmacist in Washington to protect patient safety and public health. Bang has 20 days to request a hearing to contest the charges.
-
-  Legal documents related to this case are posted online and can be found via the Provider Credential Search on the Department of Health website. Copies can also be requested by calling 360-236-4700. Anyone who believes a health care provider acted unprofessionally is encouraged to call this number and report their complaint.
-
-  The Department of Health protects and promotes public health, safety, and welfare in Washington by regulating the competency and quality of health care providers. The agency establishes, monitors, and enforces qualifications for licensing, consistent standards of practice, continuing competency mechanisms, and discipline. Rules, policies, and procedures promote the delivery of quality health care to people in Washington.
-
-  Our website is your source for a healthy dose of information. Get updates by following us on social media.
-
-  ###
+feed_content_checksum: bb3e45ea5023e9784cccd72333440947e7e2c833
+images: []
+locations: []
 published: false
 source: Department of Health
 source_url: https://doh.wa.gov/newsroom/pharmacist-spokane-county-suspended-due-diversion-controlled-substances

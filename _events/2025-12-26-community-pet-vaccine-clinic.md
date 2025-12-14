@@ -1,18 +1,14 @@
 ---
 end_date: '2025-12-26T14:00:00-08:00'
-images: []
-location: El Centro de la Raza, 2524 16th Ave S, Seattle, WA, 98144, United States
-locations:
-- King County
-original_content: <article id="post-0" class="post-0 page type-page status-publish
-  hentry"><div class="entry-content"><section id="tribe-events" role="main"> <div
-  id="tribe-events-content" class="tribe-events-single"> <p class="tribe-events-back">
-  <a href="https://www.elcentrodelaraza.org/events/"> « All Events</a></p> <h1 class="tribe-events-single-event-title">Community
-  Pet Vaccine Clinic</h1> <div class="tribe-events-schedule tribe-clearfix"> <div>
-  <span class="tribe-event-date-start">December 26 @ 10:00 am</span> - <span class="tribe-event-time">2:00
-  pm</span> </div> <div class="tribe-events-series-relationship-single-marker tribe-common
-  tribe-events-series-relationship-single-marker--pill"> <span class="tribe-events-series-relationship-single-marker__prefix">
-  Event Series </span> <a href="https://www.elcentrodelaraza.org/series/community-pet-vaccine-clinic/"
+feed_content: <article id="post-0" class="post-0 page type-page status-publish hentry"><div
+  class="entry-content"><section id="tribe-events" role="main"> <div id="tribe-events-content"
+  class="tribe-events-single"> <p class="tribe-events-back"> <a href="https://www.elcentrodelaraza.org/events/">
+  « All Events</a></p> <h1 class="tribe-events-single-event-title">Community Pet Vaccine
+  Clinic</h1> <div class="tribe-events-schedule tribe-clearfix"> <div> <span class="tribe-event-date-start">December
+  26 @ 10:00 am</span> - <span class="tribe-event-time">2:00 pm</span> </div> <div
+  class="tribe-events-series-relationship-single-marker tribe-common tribe-events-series-relationship-single-marker--pill">
+  <span class="tribe-events-series-relationship-single-marker__prefix"> Event Series
+  </span> <a href="https://www.elcentrodelaraza.org/series/community-pet-vaccine-clinic/"
   class="tribe-events-series-relationship-single-marker__title tribe-common-cta--alt">
   <span class="tec_series_marker__title"> (See All) </span> </a> </div> </div> <div
   id="post-10006625" class="post-10006625 tribe_events type-tribe_events status-publish
@@ -75,16 +71,10 @@ original_content: <article id="post-0" class="post-0 page type-page status-publi
   class="tribe-event-url" rel="bookmark">Community Pet Vaccine Clinic</a></h3> <span
   class="tribe-event-date-start">March 27, 2026 @ 10:00 am</span> - <span class="tribe-event-time">2:00
   pm</span> </div> </li> </ul> </div> </div> </section></div></article>
-original_markdown_body: "« All Events Community Pet Vaccine Clinic   December 26 @
-  10:00 am - 2:00 pm    Event Series    (See All)       Fourth Friday of every month,
-  except December. November a week earlier due to thanksgiving.      Google Calendar
-  \    iCalendar     Outlook 365     Outlook Live        Details   Date:   December
-  26     Time: 10:00 am - 2:00 pm   Series:   Community Pet Vaccine Clinic    Event
-  Category: Benefits & Resource Navigation      Venue   El Centro de la Raza     2524
-  16th Ave S Seattle, WA 98144 United States  + Google Map       Related Events    Community
-  Pet Vaccine Clinic January 23, 2026 @ 10:00 am - 2:00 pm     Community Pet Vaccine
-  Clinic February 27, 2026 @ 10:00 am - 2:00 pm     Community Pet Vaccine Clinic March
-  27, 2026 @ 10:00 am - 2:00 pm"
+images: []
+location: El Centro de la Raza, 2524 16th Ave S, Seattle, WA, 98144, United States
+locations:
+- King County
 published: false
 source: El Centro de la Raza
 source_url: https://www.elcentrodelaraza.org/event/community-pet-vaccine-clinic/2025-12-26/

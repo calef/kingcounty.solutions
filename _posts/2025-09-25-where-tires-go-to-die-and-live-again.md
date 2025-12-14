@@ -1,8 +1,6 @@
 ---
 date: '2025-09-25T20:42:16+00:00'
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   <figure class="wp-block-image size-large"><img data-recalc-dims="1" fetchpriority="high" decoding="async" width="625" height="375" data-attachment-id="16037" data-permalink="https://bikeworks.org/where-tires-go-to-die-and-live-again/tires-1/" data-orig-file="https://i0.wp.com/bikeworks.org/wp-content/uploads/2025/09/tires-1.png?fit=1500%2C900&amp;ssl=1" data-orig-size="1500,900" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="tires (1)" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/bikeworks.org/wp-content/uploads/2025/09/tires-1.png?fit=320%2C192&amp;ssl=1" data-large-file="https://i0.wp.com/bikeworks.org/wp-content/uploads/2025/09/tires-1.png?fit=625%2C375&amp;ssl=1" src="https://i0.wp.com/bikeworks.org/wp-content/uploads/2025/09/tires-1.png?resize=625%2C375&#038;ssl=1" alt="" class="wp-image-16037" srcset="https://i0.wp.com/bikeworks.org/wp-content/uploads/2025/09/tires-1.png?resize=716%2C430&amp;ssl=1 716w, https://i0.wp.com/bikeworks.org/wp-content/uploads/2025/09/tires-1.png?resize=320%2C192&amp;ssl=1 320w, https://i0.wp.com/bikeworks.org/wp-content/uploads/2025/09/tires-1.png?resize=180%2C108&amp;ssl=1 180w, https://i0.wp.com/bikeworks.org/wp-content/uploads/2025/09/tires-1.png?resize=768%2C461&amp;ssl=1 768w, https://i0.wp.com/bikeworks.org/wp-content/uploads/2025/09/tires-1.png?resize=624%2C374&amp;ssl=1 624w, https://i0.wp.com/bikeworks.org/wp-content/uploads/2025/09/tires-1.png?w=1500&amp;ssl=1 1500w, https://i0.wp.com/bikeworks.org/wp-content/uploads/2025/09/tires-1.png?w=1250&amp;ssl=1 1250w" sizes="(max-width: 625px) 100vw, 625px" /></figure>
 
 
@@ -41,26 +39,8 @@ original_content: |-
 
   <p></p>
   <p>The post <a href="https://bikeworks.org/where-tires-go-to-die-and-live-again/">Where tires go to die (and live again)</a> appeared first on <a href="https://bikeworks.org">Bike Works</a>.</p>
-original_markdown_body: |-
-  ![](https://i0.wp.com/bikeworks.org/wp-content/uploads/2025/09/tires-1.png?resize=625%2C375&ssl=1)
-
-  Back in 1887, Scottish veterinarian and inventor John Boyd Dunlop invented a pneumatic tire for his child’s tricycle. It wasn’t the first pneumatic tire patented—another Scot named Robert William Thompson gets the credit for his 1847 patent. When you google who made the first pneumatic tire, it mostly comes up Dunlop. But all you want to know is where do tires go to die.
-
-  ![](https://i0.wp.com/bikeworks.org/wp-content/uploads/2025/09/20250910_114403-scaled.jpg?resize=625%2C469&ssl=1)
-
-  The average bike tire lasts between 1,000 and 3,000 miles if inflated properly, kept clear of sharps, and is stored away from the elements. Bike Works accepts the donation of tires in any form, and some are new enough for use on the [refurbished bikes](https://shop.bikeworks.org/) we sell in the shop, while others are nice enough to sell as-is in the shop and during [warehouse sales](https://bikeworks.org/event/warehouse-sale/2025-10-04/). What about the punctured, the rotten, the tires worn to the threads? Well, we hoard them out back in a pile, and once a year we load up a van and haul them to be recycled at [Liberty Tire](https://libertytire.com/) in Portland.
-
-  ![](https://i0.wp.com/bikeworks.org/wp-content/uploads/2025/09/20250910_114350-scaled.jpg?resize=625%2C833&ssl=1)
-
-  It is said that the horse always pulls the strongest when it faces the barn, and there may be some synergistic relevance to loading and unloading tires. On average, it takes ten people about an hour to load a year’s worth of tires, though it takes two people about twenty minutes to unload them at the recycler. Needless to say, people aren’t horses and tires are a handful, particularly when they’re wet, dirty, and full of bugs.&nbsp;
-
-  ![](https://i0.wp.com/bikeworks.org/wp-content/uploads/2025/09/IMG_0332-scaled.jpg?resize=625%2C469&ssl=1)
-
-  So what happens to the tires? They are ground up, and separated into reusable resources including but not limited to: asphalt, loose and rigid playground surfacing, the weird stuff that sits under astroturfed sporting surfaces, wire, and a couple different types of fuels. And while those processes do involve many physical and chemical treatments, it is the industry standard for lifeless tires, and Portland is the nearest option.
-
-  The costs associated with recycling just shy of a ton of tires are nothing to shake a spoke at. All told, the expenses include around 15 hours of living wage labor, around $300 for the recycling fee, fuel costs, and vehicle maintenance. While much of the bike industry’s market offerings are [designed for obsolescence](https://bikeworks.org/steves-manifesto/), the concept of the [forever bike](https://bikeworks.org/mark-and-the-purple-bike/) does minimize waste to consumable parts like tires, inner tubes, cables, and so-forth. So while it’s true a waste-free bicycle experience does not exist, we can all extend the practice of minimizing harm to the decisions we make with bike componentry. And if you have an armload of tires in your garage, unburden yourself. We got you. We’ll reuse what we can and recycle the rest.
-
-  The post [Where tires go to die (and live again)](https://bikeworks.org/where-tires-go-to-die-and-live-again/) appeared first on [Bike Works](https://bikeworks.org).
+images: []
+locations: []
 published: false
 source: Bike Works
 source_url: https://bikeworks.org/where-tires-go-to-die-and-live-again/?utm_source=rss&utm_medium=rss&utm_campaign=where-tires-go-to-die-and-live-again

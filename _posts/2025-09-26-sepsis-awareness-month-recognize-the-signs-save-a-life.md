@@ -1,8 +1,6 @@
 ---
 date: '2025-09-26T21:41:35+00:00'
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   September is Sepsis Awareness Month, a time to shine a spotlight on one of the leading causes of death in the United States—and one of the least recognized. Sepsis occurs when the body has an extreme response to infection, leading to organ failure and, if not treated quickly, death.
 
   At Snoqualmie Valley Health, we want our community to be aware of the signs and risks of sepsis, because awareness truly saves lives.
@@ -70,6 +68,8 @@ original_content: |-
   This September, let’s work together to raise awareness about sepsis. By knowing the signs, acting quickly, and spreading the word, we can save lives right here in our Valley.
 
   The post [Sepsis Awareness Month: Recognize the Signs, Save a Life](https://snoqualmievalleyhealth.org/sepsis-awareness-month-recognize-the-signs/) appeared first on [Snoqualmie Valley Hospital](https://snoqualmievalleyhealth.org).
+images: []
+locations: []
 published: false
 source: Hospital District No. 4 (Snoqualmie Valley Hospital)
 source_url: https://snoqualmievalleyhealth.org/sepsis-awareness-month-recognize-the-signs/

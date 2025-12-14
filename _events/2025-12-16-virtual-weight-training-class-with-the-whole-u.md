@@ -1,25 +1,17 @@
 ---
 end_date: '2025-12-16T06:45:00-08:00'
+feed_content: "<div> <div> <header> <h3>UW NetID sign-in - Stale Request</h3> </header>
+  <div> <p>You may be seeing this page because you used the Back button while browsing
+  a secure web site or application. Alternatively, you may have mistakenly bookmarked
+  the UW NetID sign-in form instead of the actual web site you wanted to bookmark
+  or used a link created by somebody else who made the same mistake.</p> <p>Left unchecked,
+  this can cause errors on some browsers or result in you returning to the web site
+  you tried to leave, so this page is presented instead.</p> </div> </div> </div>"
+feed_content_checksum: 35b6b98b892cd0171035cd60691a0a1999a2728e
 images: []
 location: ''
 locations:
 - King County
-original_content: "<div> <div> <header> <h3>UW NetID sign-in - Stale Request</h3>
-  </header> <div> <p>You may be seeing this page because you used the Back button
-  while browsing a secure web site or application. Alternatively, you may have mistakenly
-  bookmarked the UW NetID sign-in form instead of the actual web site you wanted to
-  bookmark or used a link created by somebody else who made the same mistake.</p>
-  <p>Left unchecked, this can cause errors on some browsers or result in you returning
-  to the web site you tried to leave, so this page is presented instead.</p> </div>
-  </div> </div>"
-original_content_checksum: 35b6b98b892cd0171035cd60691a0a1999a2728e
-original_markdown_body: UW NetID sign-in - Stale Request   You may be seeing this
-  page because you used the Back button while browsing a secure web site or application.
-  Alternatively, you may have mistakenly bookmarked the UW NetID sign-in form instead
-  of the actual web site you wanted to bookmark or used a link created by somebody
-  else who made the same mistake. Left unchecked, this can cause errors on some browsers
-  or result in you returning to the web site you tried to leave, so this page is presented
-  instead.
 published: false
 source: University of Washington
 source_url: https://idp.u.washington.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1

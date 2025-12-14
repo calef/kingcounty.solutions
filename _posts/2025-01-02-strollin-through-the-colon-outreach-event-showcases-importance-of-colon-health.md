@@ -2,35 +2,7 @@
 date: '2025-01-02T23:07:43+00:00'
 events: []
 events_extracted: true
-images:
-- b42b1b7b58c9684fcffa44c7625774c3ca75f2bade6c8807558dbc1cc8a5e87d
-locations:
-- Kent
-- Renton
-- Auburn
-- Covington
-- Federal Way
-- Des Moines
-- Tukwila
-- SeaTac
-- Black Diamond
-- Maple Valley
-- Algona
-- Milton
-- Pacific
-- White Center
-- East Renton Highlands
-- Lake Morton-Berrydale
-- Fairwood
-- Bryn Mawr-Skyway
-- Boulevard Park
-- Enumclaw
-- Ravensdale
-- Carnation
-- Duvall
-- North Bend
-- Snoqualmie
-original_content: |-
+feed_content: |-
   <p><img width="300" height="188" src="https://blog.valleymed.org/wp-content/uploads/2024/12/Dr.Roberts-StrollinColon-300x188.jpg" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://blog.valleymed.org/wp-content/uploads/2024/12/Dr.Roberts-StrollinColon-300x188.jpg 300w, https://blog.valleymed.org/wp-content/uploads/2024/12/Dr.Roberts-StrollinColon-768x480.jpg 768w, https://blog.valleymed.org/wp-content/uploads/2024/12/Dr.Roberts-StrollinColon-600x375.jpg 600w, https://blog.valleymed.org/wp-content/uploads/2024/12/Dr.Roberts-StrollinColon.jpg 800w" sizes="auto, (max-width: 300px) 100vw, 300px" /></p>
   <p>Staff and visitors to Valley got an immersive lesson on colorectal health in December, thanks to a stroll through a 20-foot inflatable colon.</p>
 
@@ -59,28 +31,34 @@ original_content: |-
 
 
   <p><em>Pictured at top: Joseph Roberts, MD, inside the Strollin&#8217; Colon.</em><br><em>Pictured above: Valley team members who supported the Strollin&#8217; Colon event.</em> <em> </em><br></p>
-original_markdown_body: "![](https://blog.valleymed.org/wp-content/uploads/2024/12/Dr.Roberts-StrollinColon-300x188.jpg)\n\nStaff
-  and visitors to Valley got an immersive lesson on colorectal health in December,
-  thanks to a stroll through a 20-foot inflatable colon.\n\nIn partnership with **[Colon
-  Cancer Stars](https://www.facebook.com/colonstars? __cft__ [0]=AZVxK3V91LSteKmU0p_IuNy6zGsMwoYGGfqNhuElEenb3_NKu2dkvGTyosTIiRWRhLWM_-8XupLOpU3vsYFkA12y2B2FbRpXllAXUg6UGud3KjQx_uIrNSDVPAxljpoHnS1fFyPqyhnxTnr-nA9_m8GxbeGpIunQ7JM-EdFCBP45_T6gTpAzTHwaYZxZWg27Cuk&
-  __tn__ =-]K-R),** a unique, fun and informational inflatable walk-thru colon provided
-  valuable information about colon health. Valley’s **[Gastroenterology](https://www.valleymed.org/services/all-specialties/digestive)**,
-  **[Colorectal Surgery](https://www.valleymed.org/find-a-location/c/colorectal-surgery-clinic)**,
-  and **[Medical Oncology](https://www.valleymed.org/services/all-specialties/cancer-treatment--support)**
-  teams were available to discuss screening options.\n\n“Our hope is that this event
-  (helped) to lessen the fear of colonoscopy by showing the benefits of early detection
-  and polyp removal,” said **[Joseph Roberts, MD,](https://www.valleymed.org/find-a-provider/r/joseph-r-roberts)**
-  a gastroenterologist at Valley.\n\nExercise and healthy habits, such as diets high
-  in vegetables, fruits, and whole grains, support a healthy colon. **[Lifestyle Medicine](http://valleymed.org/lifestylemed)**
-  team members presented our **[LAUNCH program,](https://blog.valleymed.org/2024/12/12/5-essential-health-metrics-you-should-check-every-year-but-probably-arent/)**
-  designed to help you get started with exercise in a safe and practical way, and
-  dietician Natalia Zakharova offered recipes high in vegetables and whole grains.\n\nColorectal
-  cancer is the second-leading cause of cancer mortality in the U.S. The good news
-  is that unlike many cancers, it is often preventable and treatable when caught early
-  through screening. People at average risk are now advised to begin getting screened
-  at age 45. Learn more about screening colonoscopies at **[valleymed.org/colonoscopy](http://valleymed.org/colonoscopy?fbclid=IwZXh0bgNhZW0CMTAAAR3ceFg5-98l9pEhJvMf2LJIA96slSjxgRL1U326U0JoEBSE4SsISJFGVnY_aem_doGGxeD1OsjIlr0d95G8UQ).**\n\n![](http://blog.valleymed.org/wp-content/uploads/2024/12/StrollinColon-team.jpg)\n\n_Pictured
-  at top: Joseph Roberts, MD, inside the Strollin’ Colon._  \n_Pictured above: Valley
-  team members who supported the Strollin’ Colon event._"
+images:
+- b42b1b7b58c9684fcffa44c7625774c3ca75f2bade6c8807558dbc1cc8a5e87d
+locations:
+- Kent
+- Renton
+- Auburn
+- Covington
+- Federal Way
+- Des Moines
+- Tukwila
+- SeaTac
+- Black Diamond
+- Maple Valley
+- Algona
+- Milton
+- Pacific
+- White Center
+- East Renton Highlands
+- Lake Morton-Berrydale
+- Fairwood
+- Bryn Mawr-Skyway
+- Boulevard Park
+- Enumclaw
+- Ravensdale
+- Carnation
+- Duvall
+- North Bend
+- Snoqualmie
 source: Hospital District No. 1 (Valley Medical Center)
 source_url: https://blog.valleymed.org/2025/01/02/strollin-through-the-colon-outreach-event-showcases-importance-of-colon-health/?utm_source=rss&utm_medium=rss&utm_campaign=strollin-through-the-colon-outreach-event-showcases-importance-of-colon-health
 summarized: true

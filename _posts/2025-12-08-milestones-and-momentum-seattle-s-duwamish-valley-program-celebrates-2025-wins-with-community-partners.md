@@ -1,15 +1,11 @@
 ---
 date: '2025-12-08T20:51:14+00:00'
-images: []
-locations: []
-original_content: Seattle’s Duwamish Valley Program is celebrating a big year of accomplishments
+feed_content: Seattle’s Duwamish Valley Program is celebrating a big year of accomplishments
   engaging local kids and teens, building resilient infrastructure, and strengthening
   climate preparedness for South Park and Georgetown communities.   The Duwamish ...
-original_content_checksum: 4e9e167280007b17f113714ef1d379edb91ecd44
-original_markdown_body: Seattle’s Duwamish Valley Program is celebrating a big year
-  of accomplishments engaging local kids and teens, building resilient infrastructure,
-  and strengthening climate preparedness for South Park and Georgetown communities.&nbsp;&nbsp;
-  The Duwamish ...
+feed_content_checksum: 4e9e167280007b17f113714ef1d379edb91ecd44
+images: []
+locations: []
 published: false
 source: City of Seattle
 source_url: https://greenspace.seattle.gov/2025/12/milestones-and-momentum-seattles-duwamish-valley-program-celebrates-2025-wins-with-community-partners/

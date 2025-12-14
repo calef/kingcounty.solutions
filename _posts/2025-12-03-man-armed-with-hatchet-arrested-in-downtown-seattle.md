@@ -1,15 +1,11 @@
 ---
 date: '2025-12-03T19:59:12+00:00'
+feed_content: Seattle police officers arrested a 33-year-old man, armed with a knife
+  and a hatchet, in possession of Meth and Cocaine in Downtown Seattle last night.
+  On Dec. 2, at about 6:20 p.m., officers proactively patrolling an alleyway behind
+  the Smith Tower ne...
 images: []
 locations: []
-original_content: Seattle police officers arrested a 33-year-old man, armed with a
-  knife and a hatchet, in possession of Meth and Cocaine in Downtown Seattle last
-  night. On Dec. 2, at about 6:20 p.m., officers proactively patrolling an alleyway
-  behind the Smith Tower ne...
-original_markdown_body: Seattle police officers arrested a 33-year-old man, armed
-  with a knife and a hatchet, in possession of Meth and Cocaine in Downtown Seattle
-  last night. On Dec. 2, at about 6:20 p.m., officers proactively patrolling an alleyway
-  behind the Smith Tower ne...
 published: false
 source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/12/03/man-armed-with-hatchet-arrested-in-downtown-seattle/

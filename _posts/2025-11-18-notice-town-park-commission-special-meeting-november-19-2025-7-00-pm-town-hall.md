@@ -1,8 +1,6 @@
 ---
 date: '2025-11-18T21:48:25+00:00'
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   <p><a href="https://yarrowpointwa.gov/wp-content/uploads/2025/11/COMPLETE-PACKET-1.pdf">COMPLETE PACKET</a></p>
   <p>Notice is hereby given that on Wednesday, November 19, 2025, the Town Park Commission will hold a regular meeting at Town Hall at 7:00 PM.</p>
   <p><strong><u>**At this meeting, the following topics will be discussed:</u></strong><strong><u>** </u></strong></p>
@@ -21,42 +19,8 @@ original_content: |-
   <p>&nbsp;</p>
   <p>Your attendance is always encouraged.</p>
   <p>Thank you.</p>
-original_markdown_body: |-
-  [COMPLETE PACKET](https://yarrowpointwa.gov/wp-content/uploads/2025/11/COMPLETE-PACKET-1.pdf)
-
-  Notice is hereby given that on Wednesday, November 19, 2025, the Town Park Commission will hold a regular meeting at Town Hall at 7:00 PM.
-
-  **<u>** At this meeting, the following topics will be discussed:</u> ****<u>** </u>**
-
-  **8.1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Planting Plan and Budget for Corner of 92<sup>nd</sup> and Points Dr.**
-
-  **8.2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Update on Benches**
-
-  **8.3&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Morningside Update&nbsp;&nbsp;**
-
-  The Town of Yarrow Point has moved to hybrid Park Commission meetings, both in-person at Town Hall and virtual online or by phone. Individuals wishing to speak live should register their request with the Deputy Clerk at 425-454-6994 or email [depclerk@yarrowpointwa.gov](mailto:depclerk@yarrowpointwa.gov) before 2:00 PM the day of the Council meeting. Please reference _Public Comments for the Park Commission Meeting_ in your correspondence. Comments via email may be submitted to [depclerk@yarrowpointwa.gov](mailto:depclerk@yarrowpointwa.gov) or regular mail to: Town of Yarrow Point, 4030 95<sup>th</sup> Ave NE, Yarrow Point, WA 98004.
-
-  &nbsp;
-
-  Join on your computer or mobile app
-
-  Or call in (audio only)
-
-  1-253-205-0468
-
-  [https://us02web.zoom.us/j/87975002987?pwd=s89sBCMuVLbnZ7w3WA87OXTwE9R2mw.1](https://us02web.zoom.us/j/87975002987?pwd=s89sBCMuVLbnZ7w3WA87OXTwE9R2mw.1)
-
-  Meeting ID: 879 7500 2987 #
-
-  Passcode: 373796
-
-  &nbsp;
-
-  &nbsp;
-
-  Your attendance is always encouraged.
-
-  Thank you.
+images: []
+locations: []
 published: false
 source: Town of Yarrow Point
 source_url: https://yarrowpointwa.gov/2025/11/notice-town-park-commission-special-meeting-november-19-2025-700-pm-town-hall/

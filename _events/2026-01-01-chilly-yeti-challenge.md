@@ -1,10 +1,6 @@
 ---
 end_date: '2026-02-01T00:00:00-08:00'
-images: []
-location: ''
-locations:
-- King County
-original_content: '<section id="tribe-events-pg-template" class="tribe-events-pg-template"
+feed_content: '<section id="tribe-events-pg-template" class="tribe-events-pg-template"
   role="main"> <div id="tribe-events-content" class="tribe-events-single"> <p class="tribe-events-back">
   <a href="https://kidvantagenw.org/events/"> « All Events</a> </p> <h1 class="tribe-events-single-event-title">Chilly
   Yeti Challenge</h1> <div class="tribe-events-schedule tribe-clearfix"> <h2> <span
@@ -58,19 +54,10 @@ original_content: '<section id="tribe-events-pg-template" class="tribe-events-pg
   class="tribe-events-meta-item"> <span class="tribe-organizer-url tribe-events-meta-value">
   <a href="https://www.challengenorthwest.com/" target="_self" rel="external">View
   Organizer Website</a> </span> </li> </ul> </div> </div> </div> </div> </section>'
-original_markdown_body: "« All Events  Chilly Yeti Challenge   January 1, 2026 - January
-  31, 2026     We hope you’ll join us in getting active in the new year with the Chilly
-  Yeti Challenge! Formerly the New Year Challenge, the Chilly Yeti Challenge encourages
-  the community to get outside and run, walk or hike one mile every day during the
-  month of January.  Registration open now through January 5, 2026 Merchandise orders
-  are available through January 20, 2026, at the Challenge Northwest Store Challenge
-  period: January 1-31, 2026  The Chilly Yeti Challenge will help raise money for
-  KidVantage – helping to provide the items local kids and their families need to
-  thrive! To learn more about the challenge or to sign up now, visit https://www.challengenorthwest.com/chilly-yeti-challenge.html#/!
-  \        Google Calendar     iCalendar     Outlook 365     Outlook Live           Details
-  \   Start:   January 1, 2026     End:   January 31, 2026     Event Categories: Bremerton
-  Hub, Issaquah Hub, Shoreline Hub     Organizer   Challenge Northwest    View Organizer
-  Website"
+images: []
+location: ''
+locations:
+- King County
 source: KidVantage
 source_url: https://kidvantagenw.org/event/chilly-yeti-challenge/
 start_date: '2026-01-01T00:00:00-08:00'
