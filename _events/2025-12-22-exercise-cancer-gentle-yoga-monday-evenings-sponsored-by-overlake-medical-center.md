@@ -1,0 +1,69 @@
+---
+end_date: '2025-12-22T19:45:00-08:00'
+images: []
+location: "[ONLINE] Overlake Medical Center"
+locations:
+- King County
+original_content: "<header> <div> <div><div> <div><div> <a>Lifeline</a> | 206.297.2500
+  | 1.800.255.5505 | <a>Lifeline Chat</a> </div></div> </div></div> </div> </header>
+  <div> <div> <div> <div> <section> <div> <p> <a> « All Events</a> </p> <h1>Exercise
+  &amp; Cancer: Gentle Yoga Monday Evenings Sponsored by Overlake Medical Center</h1>
+  <div> <div> <span>December 22 @ 6:30 pm</span> - <span>7:45 pm</span> <span> PST
+  </span> </div> <div> <span> Event Series </span> <a> <span> (See All) </span> </a>
+  </div> </div> <div> <div> <p>Enjoy a nurturing practice that combines easy soothing
+  stretches, accessible therapeutic postures, guided meditation, and breathwork designed
+  to release tension, promote relaxation, and support overall well-being.</p> <p><a>CLICK
+  HERE TO REGISTER</a></p> <p>Need help getting registered? Having trouble joining
+  a class? Please call our Telephone Lifeline at 206-297-2500 M-F, 9am-5pm or connect
+  with us through our Online Lifeline Chat.</p> </div> <div> <div> <div> <div> <ul>
+  <li> <a> Google Calendar </a> </li> <li> <a> iCalendar </a> </li> <li> <a> Outlook
+  365 </a> </li> <li> <a> Outlook Live </a> </li> </ul> </div> </div> </div> </div>
+  <div> <div> <h2> Details </h2> <ul> <li> <span>Date:</span> <span> <abbr> December
+  22 </abbr> </span> </li> <li> <span>Time:</span> <span> <div> <div>6:30 pm - 7:45
+  pm</div> <span>PST</span> </div> </span> </li> <dt>Series: </dt> <dd> <a> Exercise
+  &amp; Cancer: Gentle Yoga Monday Evenings Sponsored by Overlake Medical Center </a>
+  </dd> <li> <span>Event Category:</span> <span><a>Exercise &amp; Movement</a></span>
+  </li> </ul> </div> <div> <h2> Venue </h2> <ul> <li> <a>[ONLINE] Overlake Medical
+  Center</a> </li> </ul> </div> <div> <h2>Organizer</h2> <ul> <li> <a>Kadee Barello,
+  Certified Yoga Teacher</a> </li> </ul> </div> </div> </div> </div> </section> </div>
+  </div> </div> </div> <div> <div> <div> <div> <aside><h3>Info</h3> <div> <div> <span>6522
+  Fremont Ave N</span> <span>Seattle, WA 98103</span> </div> <div> <span>Monday through
+  Friday</span> <span>9:00 AM – 5:00 PM</span> </div> <div> <span><a><span>[email protected]</span></a></span>
+  </div> <div> <span>Call Us: 1-206-297-2100</span> </div> </div> </aside><aside><h3>I’m
+  New</h3> <div> <ul> <li><a>FAQ</a></li> <li><a>Classes</a></li> <li><a>Support Groups</a></li>
+  <li><a>Programs &amp; Services</a></li> </ul> </div> </aside><aside><h3>About Us</h3>
+  <div> <ul> <li><a>Team</a></li> <li><a>History</a></li> <li><a>Partnerships &amp;
+  Sponsors</a></li> <li><a>Jobs</a></li> <li><a>Privacy Policy</a></li> <li><a>Contact
+  Us</a></li> </ul> </div> </aside><aside><h3>Get Involved</h3> <div> <ul> <li><a>Ways
+  to Give</a></li> <li><a>Volunteer with Us</a></li> <li><a>Donate Now</a></li> <li><a>Planned
+  Giving</a></li> </ul> </div> </aside> </div> </div> </div> </div>"
+original_content_checksum: 0ba627d894e5de15159bbedee04a431228f2d7f2
+original_markdown_body: 'Lifeline | 206.297.2500 | 1.800.255.5505 | Lifeline Chat             «
+  All Events  Exercise & Cancer: Gentle Yoga Monday Evenings Sponsored by Overlake
+  Medical Center   December 22 @ 6:30 pm - 7:45 pm  PST     Event Series    (See All)       Enjoy
+  a nurturing practice that combines easy soothing stretches, accessible therapeutic
+  postures, guided meditation, and breathwork designed to release tension, promote
+  relaxation, and support overall well-being. CLICK HERE TO REGISTER Need help getting
+  registered? Having trouble joining a class? Please call our Telephone Lifeline at
+  206-297-2500 M-F, 9am-5pm or connect with us through our Online Lifeline Chat.         Google
+  Calendar     iCalendar     Outlook 365     Outlook Live           Details    Date:   December
+  22     Time:   6:30 pm - 7:45 pm PST    Series:    Exercise & Cancer: Gentle Yoga
+  Monday Evenings Sponsored by Overlake Medical Center    Event Category: Exercise
+  & Movement      Venue    [ONLINE] Overlake Medical Center     Organizer   Kadee
+  Barello, Certified Yoga Teacher                Info   6522 Fremont Ave N Seattle,
+  WA 98103   Monday through Friday 9:00 AM – 5:00 PM   [email protected]   Call Us:
+  1-206-297-2100   I’m New   FAQ Classes Support Groups Programs & Services   About
+  Us   Team History Partnerships & Sponsors Jobs Privacy Policy Contact Us   Get Involved   Ways
+  to Give Volunteer with Us Donate Now Planned Giving'
+source: Cancer Lifeline Financial Assistance for Cancer Patients
+source_url: https://cancerlifeline.org/event/exercise-cancer-gentle-yoga-monday-evenings-sponsored-by-overlake-medical-center-9/2025-12-22/
+start_date: '2025-12-22T18:30:00-08:00'
+summarized: true
+title: 'Exercise & Cancer: Gentle Yoga Monday Evenings Sponsored by Overlake Medical
+  Center'
+topics:
+- Health Care
+- Mental Health & Counseling
+---
+
+Join Overlake Medical Center for "Exercise & Cancer: Gentle Yoga" on December 22 at 6:30 p.m. PST. This online event offers a calming yoga practice designed specifically for those affected by cancer. Participants can expect easy stretches, therapeutic postures, guided meditation, and breathwork aimed at releasing tension and enhancing relaxation. The session will run until 7:45 p.m., providing a supportive environment for individuals to focus on their well-being. Whether you are new to yoga or looking to deepen your practice, this class is tailored to meet your needs. Don't miss this opportunity to nurture your body and mind in a gentle, welcoming space.

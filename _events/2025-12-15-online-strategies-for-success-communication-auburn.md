@@ -5,17 +5,17 @@ location: ''
 locations:
 - King County
 original_content: '<div> <div> <section> <title>WorkSource Seattle-King County</title>
-  <script>{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://worksourceskc.org/event/online-strategies-for-success-communication-auburn-895/","url":"https://worksourceskc.org/event/online-strategies-for-success-communication-auburn-895/","name":"ONLINE
-  Strategies for Success: Communication (Auburn) - WorkSource Seattle-King County","isPartOf":{"@id":"https://www.worksourceskc.org/#website"},"datePublished":"2025-11-19T16:28:35+00:00","dateModified":"2025-12-13T16:33:44+00:00","description":"Class
+  <script>{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://worksourceskc.org/event/online-strategies-for-success-communication-auburn-894/","url":"https://worksourceskc.org/event/online-strategies-for-success-communication-auburn-894/","name":"ONLINE
+  Strategies for Success: Communication (Auburn) - WorkSource Seattle-King County","isPartOf":{"@id":"https://www.worksourceskc.org/#website"},"datePublished":"2025-11-19T16:28:10+00:00","description":"Class
   times: 8:30-11:30 (4-day class)Communication &#8211; Communication is a skill that
-  never stops growing! Come learn how to improve your skills and","breadcrumb":{"@id":"https://worksourceskc.org/event/online-strategies-for-success-communication-auburn-895/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://worksourceskc.org/event/online-strategies-for-success-communication-auburn-895/"]}]},{"@type":"BreadcrumbList","@id":"https://worksourceskc.org/event/online-strategies-for-success-communication-auburn-895/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"ONLINE
+  never stops growing! Come learn how to improve your skills and","breadcrumb":{"@id":"https://worksourceskc.org/event/online-strategies-for-success-communication-auburn-894/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://worksourceskc.org/event/online-strategies-for-success-communication-auburn-894/"]}]},{"@type":"BreadcrumbList","@id":"https://worksourceskc.org/event/online-strategies-for-success-communication-auburn-894/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"ONLINE
   Strategies for Success: Communication (Auburn)"}]},{"@type":"WebSite","@id":"https://www.worksourceskc.org/#website","url":"https://www.worksourceskc.org/","name":"WorkSource
   Seattle-King County","description":"Let&#039;s find your path together!","publisher":{"@id":"https://www.worksourceskc.org/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.worksourceskc.org/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://www.worksourceskc.org/#organization","name":"WorkSource
   Seattle-King County","url":"https://www.worksourceskc.org/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.worksourceskc.org/#/schema/logo/image/","url":"","contentUrl":"","caption":"WorkSource
   Seattle-King County"},"image":{"@id":"https://www.worksourceskc.org/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/worksourceskc/"]},{"@type":"Event","name":"ONLINE
   Strategies for Success: Communication (Auburn)","description":"Class times: 8:30-11:30
   (4-day class) Communication &#8211; Communication is a skill that never stops growing!
-  Come learn how to improve&hellip;","url":"https://worksourceskc.org/event/online-strategies-for-success-communication-auburn-895/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2025-12-15T08:30:00-08:00","endDate":"2025-12-18T11:30:00-08:00","@id":"https://worksourceskc.org/event/online-strategies-for-success-communication-auburn-895/#event","mainEntityOfPage":{"@id":"https://worksourceskc.org/event/online-strategies-for-success-communication-auburn-895/"}}]}</script>
+  Come learn how to improve&hellip;","url":"https://worksourceskc.org/event/online-strategies-for-success-communication-auburn-894/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2025-12-15T08:30:00-08:00","endDate":"2025-12-18T11:30:00-08:00","@id":"https://worksourceskc.org/event/online-strategies-for-success-communication-auburn-894/#event","mainEntityOfPage":{"@id":"https://worksourceskc.org/event/online-strategies-for-success-communication-auburn-894/"}}]}</script>
   <title>ONLINE Strategies for Success: Communication (Auburn) – WorkSource Seattle-King
   County</title> <a>Skip to main content</a> <header> <div> <div> <div> <div> <div>
   <ul> <li><a>Job Board</a></li> </ul> <ul> <li> <a>Staff Log-In</a> </li> </ul> </div>
@@ -69,18 +69,18 @@ original_content: '<div> <div> <section> <title>WorkSource Seattle-King County</
   conflict resolution and get tips on emotional control </li> <li>Get tips on how
   to present yourself the right way on the phone, in email and on social media.</li>
   </ul> </div> </div> </div> </section> </div> </section> </div> </div>'
-original_content_checksum: bd0512085edc692f26b8bd7d947163439679891c
-original_markdown_body: 'WorkSource Seattle-King County {"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://worksourceskc.org/event/online-strategies-for-success-communication-auburn-895/","url":"https://worksourceskc.org/event/online-strategies-for-success-communication-auburn-895/","name":"ONLINE
-  Strategies for Success: Communication (Auburn) - WorkSource Seattle-King County","isPartOf":{"@id":"https://www.worksourceskc.org/#website"},"datePublished":"2025-11-19T16:28:35+00:00","dateModified":"2025-12-13T16:33:44+00:00","description":"Class
+original_content_checksum: 26aaae2ebb716a48e1fd71d4f74a1e227d1549e0
+original_markdown_body: 'WorkSource Seattle-King County {"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://worksourceskc.org/event/online-strategies-for-success-communication-auburn-894/","url":"https://worksourceskc.org/event/online-strategies-for-success-communication-auburn-894/","name":"ONLINE
+  Strategies for Success: Communication (Auburn) - WorkSource Seattle-King County","isPartOf":{"@id":"https://www.worksourceskc.org/#website"},"datePublished":"2025-11-19T16:28:10+00:00","description":"Class
   times: 8:30-11:30 (4-day class)Communication &#8211; Communication is a skill that
-  never stops growing! Come learn how to improve your skills and","breadcrumb":{"@id":"https://worksourceskc.org/event/online-strategies-for-success-communication-auburn-895/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://worksourceskc.org/event/online-strategies-for-success-communication-auburn-895/"]}]},{"@type":"BreadcrumbList","@id":"https://worksourceskc.org/event/online-strategies-for-success-communication-auburn-895/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"ONLINE
+  never stops growing! Come learn how to improve your skills and","breadcrumb":{"@id":"https://worksourceskc.org/event/online-strategies-for-success-communication-auburn-894/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://worksourceskc.org/event/online-strategies-for-success-communication-auburn-894/"]}]},{"@type":"BreadcrumbList","@id":"https://worksourceskc.org/event/online-strategies-for-success-communication-auburn-894/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"ONLINE
   Strategies for Success: Communication (Auburn)"}]},{"@type":"WebSite","@id":"https://www.worksourceskc.org/#website","url":"https://www.worksourceskc.org/","name":"WorkSource
   Seattle-King County","description":"Let&#039;s find your path together!","publisher":{"@id":"https://www.worksourceskc.org/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.worksourceskc.org/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://www.worksourceskc.org/#organization","name":"WorkSource
   Seattle-King County","url":"https://www.worksourceskc.org/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.worksourceskc.org/#/schema/logo/image/","url":"","contentUrl":"","caption":"WorkSource
   Seattle-King County"},"image":{"@id":"https://www.worksourceskc.org/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/worksourceskc/"]},{"@type":"Event","name":"ONLINE
   Strategies for Success: Communication (Auburn)","description":"Class times: 8:30-11:30
   (4-day class) Communication &#8211; Communication is a skill that never stops growing!
-  Come learn how to improve&hellip;","url":"https://worksourceskc.org/event/online-strategies-for-success-communication-auburn-895/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2025-12-15T08:30:00-08:00","endDate":"2025-12-18T11:30:00-08:00","@id":"https://worksourceskc.org/event/online-strategies-for-success-communication-auburn-895/#event","mainEntityOfPage":{"@id":"https://worksourceskc.org/event/online-strategies-for-success-communication-auburn-895/"}}]}
+  Come learn how to improve&hellip;","url":"https://worksourceskc.org/event/online-strategies-for-success-communication-auburn-894/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2025-12-15T08:30:00-08:00","endDate":"2025-12-18T11:30:00-08:00","@id":"https://worksourceskc.org/event/online-strategies-for-success-communication-auburn-894/#event","mainEntityOfPage":{"@id":"https://worksourceskc.org/event/online-strategies-for-success-communication-auburn-894/"}}]}
   ONLINE Strategies for Success: Communication (Auburn) – WorkSource Seattle-King
   County Skip to main content        Job Board    Staff Log-In        Job Seekers   Get
   Started with Personalized Support  Sign Up for Services Layoff Support    Self-Serve
@@ -120,17 +120,16 @@ original_markdown_body: 'WorkSource Seattle-King County {"@context":"https://sch
   practice conflict resolution and get tips on emotional control  Get tips on how
   to present yourself the right way on the phone, in email and on social media.'
 source: WorkSource Seattle-King County
-source_url: https://worksourceskc.org/event/online-strategies-for-success-communication-auburn-895/
+source_url: https://worksourceskc.org/event/online-strategies-for-success-communication-auburn-894/
 start_date: '2025-12-15T08:30:00-08:00'
 summarized: true
 title: 'ONLINE Strategies for Success: Communication (Auburn)'
 topics:
 - Employment & Job Support
-- Education & Learning
 ---
 
-Join the ONLINE Strategies for Success: Communication workshop hosted by WorkSource Seattle-King County from December 15 to December 18, 2025. This four-day online event runs from 8:30 a.m. to 11:30 a.m. each day and focuses on enhancing communication skills crucial for career advancement.
+Join the ONLINE Strategies for Success: Communication workshop, hosted by WorkSource Seattle-King County, from December 15 to December 18, 2025. This four-day online class runs daily from 8:30 a.m. to 11:30 a.m.
 
-Participants can expect to improve their interpersonal and business communication abilities, develop better listening and writing skills, and learn effective conflict resolution techniques. The workshop will also cover verbal and non-verbal cues, emotional control, and tips for professional presentation across various platforms, including phone, email, and social media.
+Attendees will enhance their communication skills crucial for job success, focusing on interpersonal and business communication. Participants will explore their communication styles, improve listening and writing abilities, and learn about verbal and non-verbal cues. The workshop also covers conflict resolution techniques and tips for effective self-presentation across various platforms, including phone, email, and social media.
 
-Registration is required, and attendees will receive Zoom meeting links via email prior to the start of the workshop. Don’t miss this opportunity to refine your communication skills and boost your job prospects.
+This flexible workshop is open to everyone, with registration required. For more details, contact Erik Hontz at erik.hontz@esd.wa.gov.

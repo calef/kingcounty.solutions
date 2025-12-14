@@ -1,7 +1,6 @@
 ---
 date: '2025-11-19T19:42:58+00:00'
 events:
-- 2025-12-13-disney-s-the-lion-king-sensory-friendly-performance
 - 2025-12-20-winter-at-the-beach
 events_extracted: true
 images:

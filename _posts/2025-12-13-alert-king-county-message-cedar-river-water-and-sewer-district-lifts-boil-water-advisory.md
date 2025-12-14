@@ -1,0 +1,27 @@
+---
+date: '2025-12-13T17:50:52+00:00'
+images: []
+locations:
+- King County
+original_content: Cedar River Water and Sewer District (CRWSD) is lifting the Precautionary
+  Boil Water Advisory for the east area of the district, including the area east of
+  the Cedar River and south of Highway 18. All required water quality samples have
+  been completed, and results confirm that your drinking water is safe. Please flush
+  lines for […]
+original_content_checksum: '00281e6b47fa3233c076347cc2a42df10c252840'
+original_markdown_body: Cedar River Water and Sewer District (CRWSD) is lifting the
+  Precautionary Boil Water Advisory for the east area of the district, including the
+  area east of the Cedar River and south of Highway 18. All required water quality
+  samples have been completed, and results confirm that your drinking water is safe.
+  Please flush lines for […]
+published: false
+rss_guid: https://kcemergency.com/2025/12/13/cedar-river-water-and-sewer-district-boil-water-advisory-lifted/
+source: King County Emergency Management
+source_url: https://kcemergency.com/2025/12/13/cedar-river-water-and-sewer-district-boil-water-advisory-lifted/
+summarized: true
+title: ALERT King County Message – Cedar River Water and Sewer District lifts boil
+  water advisory
+topics: []
+---
+
+The Cedar River Water and Sewer District (CRWSD) has lifted the Precautionary Boil Water Advisory for the eastern area of the district. This includes regions east of the Cedar River and south of Highway 18. The advisory was issued earlier due to concerns about water quality. However, all necessary water quality tests have been conducted, and the results show that the drinking water is now safe. Residents are advised to flush their water lines to ensure the system is clear.

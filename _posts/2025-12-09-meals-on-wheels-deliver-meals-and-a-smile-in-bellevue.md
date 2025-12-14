@@ -1,7 +1,6 @@
 ---
 date: '2025-12-09T16:00:07+00:00'
-events:
-- 2025-12-14-meals-on-wheels-volunteer-delivery
+events: []
 events_extracted: true
 images: []
 locations:
