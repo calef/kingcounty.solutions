@@ -92,7 +92,7 @@ module Mayhem
 
       def convert_emphasis_headings(body)
         lines = body.to_s.each_line.to_a
-        current_heading_level = 0
+        explicit_heading_level = 0
         in_fenced_code = false
 
         lines.each_with_index do |line, index|
@@ -106,16 +106,15 @@ module Mayhem
 
           heading_level = heading_level_for_line(stripped)
           if heading_level
-            current_heading_level = heading_level
+            explicit_heading_level = heading_level
             next
           end
 
           emphasized_title = extract_emphasized_title(stripped)
           next unless emphasized_title
 
-          new_level = [current_heading_level + 1, 6].min
+          new_level = [explicit_heading_level + 1, 6].min
           lines[index] = "#{'#' * new_level} #{emphasized_title}\n"
-          current_heading_level = new_level
         end
 
         lines.join

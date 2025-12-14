@@ -222,4 +222,22 @@ class FrontMatterTidierTest < Minitest::Test
 
     assert_includes result, "```\n**Not A Header**\n```\n"
   end
+
+  def test_repeated_emphasis_under_same_heading_does_not_nest_deeper
+    original = <<~MD
+      ---
+      title: Multi Emphasis
+      ---
+      ## Header 2
+      **emphasis 1**
+
+      text 1
+
+      **emphasis 2**
+    MD
+
+    result = @tidier.tidy_markdown(original)
+
+    assert_includes result, "## Header 2\n\n### emphasis 1\n\ntext 1\n\n### emphasis 2\n"
+  end
 end
