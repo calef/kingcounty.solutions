@@ -1,7 +1,12 @@
 # frozen_string_literal: true
 
 source 'https://rubygems.org'
+gem 'base64'
+gem 'digest'
 gem 'fileutils'
+gem 'open-uri'
+gem 'time'
+gem 'uri'
 gem 'yaml'
 gem 'icalendar'
 gem 'jekyll'

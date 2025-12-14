@@ -6,7 +6,6 @@ GEM
     ast (2.4.3)
     base64 (0.3.0)
     bigdecimal (3.3.1)
-    citrus (3.0.2)
     colorator (1.1.0)
     concurrent-ruby (1.3.5)
     crack (1.0.1)
@@ -15,6 +14,7 @@ GEM
     csv (3.3.5)
     date (3.5.1)
     diff-lcs (1.6.2)
+    digest (3.2.1)
     docile (1.4.1)
     domain_name (0.6.20240107)
     em-websocket (0.5.3)
@@ -32,6 +32,7 @@ GEM
       net-http (~> 0.5)
     ffi (1.17.2-arm64-darwin)
     ffi (1.17.2-x86_64-linux-gnu)
+    fileutils (1.8.0)
     forwardable-extended (2.6.0)
     google-protobuf (4.33.1-arm64-darwin)
       bigdecimal
@@ -118,6 +119,10 @@ GEM
       racc (~> 1.4)
     nokogiri (1.18.10-x86_64-linux-gnu)
       racc (~> 1.4)
+    open-uri (0.5.0)
+      stringio
+      time
+      uri
     ostruct (0.6.3)
     parallel (1.27.0)
     parallel_tests (5.5.0)
@@ -199,6 +204,8 @@ GEM
     stringio (3.1.9)
     terminal-table (3.0.2)
       unicode-display_width (>= 1.1.1, < 3)
+    time (0.4.1)
+      date
     unicode-display_width (2.6.0)
     uri (1.1.1)
     vcr (6.3.1)
@@ -215,6 +222,9 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
+  base64
+  digest
+  fileutils
   html5_validator
   icalendar
   jekyll
@@ -226,6 +236,7 @@ DEPENDENCIES
   mini_magick
   minitest
   nokogiri
+  open-uri
   parallel_tests
   reverse_markdown
   rss
@@ -233,8 +244,11 @@ DEPENDENCIES
   rubocop-minitest
   ruby-openai
   simplecov
+  time
+  uri
   vcr
   webmock
+  yaml
 
 BUNDLED WITH
    2.7.2
