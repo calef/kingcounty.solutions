@@ -8,8 +8,6 @@ Utility commands that automate content imports, auditing, and metadata maintenan
 | --- | --- |
 | `mayhem` | Unified entry point for content management commands (see `mayhem help` for details). |
 | `generate-weekly-summary` | Builds a weekly roundup article from `_posts/`, grouping stories into themes with LLM assistance. |
-| `rewrite-ap-style` | Rewrites Markdown bodies so they follow AP style using the OpenAI API. |
-
 > Many scripts call the OpenAI API; export `OPENAI_API_KEY` before using them.
 
 ## Mayhem commands
@@ -258,24 +256,3 @@ Enforces a tidy YAML front-matter block for Markdown files so other scripts can 
 - `PATH` accepts a single Markdown file or directory; directories are processed recursively.
 - The tidier sorts YAML keys alphabetically, trims duplicate delimiters, and leaves a single blank line between the closing `---` and the Markdown body.
 - Runs via `Mayhem::FrontMatter::Tidier`, so other scripts can call `tidy_markdown` before writing Markdown files.
-
-### `rewrite-ap-style`
-
-**Purpose**
-Rewrites Markdown bodies with OpenAI so wording and punctuation align with the Associated Press Stylebook while preserving existing structure.
-
-**Usage**
-
-- `bin/rewrite-ap-style [--model MODEL] [--dry-run] PATH [PATH ...]`
-
-**Key env/config**
-
-- `OPENAI_API_KEY` – required.
-- `OPENAI_AP_STYLE_MODEL` – overrides the default `gpt-4o-mini` model.
-- `LOG_LEVEL` – shared logging control; raise to `INFO` (default) or `DEBUG` for per-file progress.
-
-**Behavior notes**
-
-- Accepts multiple files or directories; directories are scanned recursively for `.md` files.
-- Parses front matter via `FrontMatterDocument`, then sends only the Markdown body (plus key metadata) to the LLM and replaces the body with the AP-styled revision.
-- Leaves YAML untouched, preserves Markdown semantics, and logs which files changed. Use `--dry-run` to preview edits without writing to disk.
