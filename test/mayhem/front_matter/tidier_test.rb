@@ -240,4 +240,19 @@ class FrontMatterTidierTest < Minitest::Test
 
     assert_includes result, "## Header 2\n\n### emphasis 1\n\ntext 1\n\n### emphasis 2\n"
   end
+
+  def test_top_level_unordered_list_is_not_indented
+    original = <<~MD
+      ---
+      title: Indented List
+      ---
+        - item one
+        - item two
+          - nested
+    MD
+
+    result = @tidier.tidy_markdown(original)
+
+    assert_includes result, "- item one\n- item two\n  - nested\n"
+  end
 end
