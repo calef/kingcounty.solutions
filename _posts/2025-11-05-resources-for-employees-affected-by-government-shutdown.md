@@ -2,10 +2,7 @@
 date: '2025-11-05T03:23:00+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: "<p>With the federal government now in shutdown, thousands of workers
+feed_content: "<p>With the federal government now in shutdown, thousands of workers
   and families across the nation — including right here in our community — are feeling
   the impact. Whether it’s missed paychecks, delayed benefits, or uncertainty about
   vital services, the effects can ripple quickly. The City of Des Moines has gathered
@@ -64,63 +61,10 @@ original_content: "<p>With the federal government now in shutdown, thousands of 
   or employment advice, and the City does not guarantee eligibility for any of the
   programs listed. For the most accurate and up-to-date information, please consult
   the official federal websites or contact your federal agency directly.</p>"
-original_content_checksum: 5e0af8f23fd99deb58e09cf3f20b3f9f3a6e8c84
-original_markdown_body: "With the federal government now in shutdown, thousands of
-  workers and families across the nation — including right here in our community —
-  are feeling the impact. Whether it’s missed paychecks, delayed benefits, or uncertainty
-  about vital services, the effects can ripple quickly. The City of Des Moines has
-  gathered helpful information and links to support those affected and to guide neighbors
-  who want to lend a hand. **What’s going on** On October 1, 2025, the U.S. Federal
-  Government entered a funding lapse (a “shutdown”) because Congress was unable to
-  pass the required appropriations bills in time. **During a shutdown**\n\n \n- Many
-  federal agencies must halt or reduce operations; some employees are furloughed (not
-  working and not being paid) while “excepted” employees (those in essential public-safety
-  or national-security roles) may be required to work without pay.&nbsp;\n- Certain
-  services continue (e.g., law enforcement, air traffic control, national defense)
-  but numerous programs and services may be delayed or suspended.&nbsp;\n- The economic
-  and personal-financial impacts can ripple quickly into local communities, especially
-  where federal workers, contractors, or service industries are involved.\n- All City
-  of Des Moines employees, including law enforcement, are City employees and not impacted
-  by this.&nbsp;\n\n \n\n**Local Resources** Below are some reliable links and resources.
-  Please note that the city is providing this information for convenience only, and
-  it is essential to verify eligibility and terms independently.\n\n \n- WA 211 Information
-  Line - If you or someone you know is facing difficulties with food, utilities, housing,
-  financial help, mental health, or other supports associated with disruptions from
-  the shutdown, WA 211 is a strong first point of contact. WA211.org \n- Backpack
-  Brigade - Backpack Brigade delivers weekend-hunger relief every week of the school
-  year. BackpackBrigade.org \n- Des Moines Area Food Bank – The Food Bank provides
-  nutritious food and grocery items to anyone in need, no residency restrictions.
-  FoodBank.org \n- Multi Area Service Center - Provides a wide range of services to
-  residents including housing and rental assistance, employment support, energy bill
-  assistance, and help with food and nutrition. MultiAreaServiceCenter.org \n- Pregnancy
-  Aid of South King County - Pregnancy Aid of South King County provides practical
-  support such as clothing, diapers, baby supplies, toys, and books, along with friendship
-  and encouragement. When additional assistance is needed, the organization also connects
-  families with other community resources. PregnancyAid.org&nbsp; \n- Community Enrichment
-  Services - The Des Moines Community Enrichment Services Department (formerly Park
-  & Recreation) offers a variety of low-cost programs and classes for residents of
-  all ages. These activities provide opportunities for learning, recreation, and community
-  engagement in a safe and supportive environment. Scholarships available! CommunityEnrichmentServices.gov
-  \n\n \n\n**How you can help** If you are a concerned neighbor and want to help families
-  and individuals in Des Moines, consider donating to one of our local non-profits
-  that are providing valuable assistance during this time, such as Des Moines Food
-  Bank or Pregnancy Aide. **Other Resources**\n\n \n- Federal Employee Education &
-  Assistance Fund (FEEA) — shutdown grants and hardship loans for federal civilian
-  employees impacted by a lapse in appropriations. feea.org \n- Partnership for Public
-  Service — compiled list of financial, mental-health, and job-transition resources
-  for federal workers. Our Public Service U.S. Senate Federal Credit Union / credit-union
-  programs — many credit unions are offering zero-interest loans or payment assistance
-  for those impacted. ResourcesForFederalWorkers \n- For those who are worried about
-  their mortgage and rent payments, Fannie Mae and Freddie Mac have issued guidance
-  encouraging mortgage lenders and servicers to work with customers affected by the
-  shutdown. It is recommended that if you’re unable to cover your mortgage or rent
-  payment, contact your lender or landlord immediately. They may offer options such
-  as waived late fees, repayment plans, or forbearance.&nbsp;\n\n \n\n**Disclaimer**
-  The City of Des Moines is providing this information as a public service to assist
-  residents and workers affected by the federal funding lapse. This information is
-  not legal, tax or employment advice, and the City does not guarantee eligibility
-  for any of the programs listed. For the most accurate and up-to-date information,
-  please consult the official federal websites or contact your federal agency directly."
+feed_content_checksum: 5e0af8f23fd99deb58e09cf3f20b3f9f3a6e8c84
+images: []
+locations:
+- King County
 source: City of Des Moines
 source_url: https://www.desmoineswa.gov/news/what_s_new/resources_for_employees_affected_by_gov_t_shutdown/
 summarized: true

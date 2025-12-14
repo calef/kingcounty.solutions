@@ -2,10 +2,7 @@
 date: '2025-11-04T00:36:54+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: |-
+feed_content: |-
   As the holiday season approaches, many people find themselves spending more time in the kitchen, traveling, or preparing for family gatherings. While these moments bring joy, they can also bring increased physical demands and emotional stress.
 
   November is the perfect time to focus on injury prevention, body mechanics, and stress management strategies that support overall well-being.
@@ -87,6 +84,9 @@ original_content: |-
   <!-- /wp:paragraph -->
 
   The post [Holiday Ergonomics and Stress Relief](https://snoqualmievalleyhealth.org/holiday-ergonomics-and-stress-relief/) appeared first on [Snoqualmie Valley Hospital](https://snoqualmievalleyhealth.org).
+images: []
+locations:
+- King County
 source: Hospital District No. 4 (Snoqualmie Valley Hospital)
 source_url: https://snoqualmievalleyhealth.org/holiday-ergonomics-and-stress-relief/
 summarized: true

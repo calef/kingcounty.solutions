@@ -163,7 +163,7 @@ class RssImporterMethodsTest < Minitest::Test
     write_post('2025-11-25-test.md', {
       'title' => 'Test',
       'source_url' => 'https://example.com/post',
-      'original_content' => '<p>body</p>',
+      'feed_content' => '<p>body</p>',
       'rss_guid' => 'guid-abc'
     })
 
@@ -232,8 +232,8 @@ class RssImporterMethodsTest < Minitest::Test
     normalized_html = Mayhem::Content::HtmlNormalizer.normalize('<p>body</p>', base_url: 'https://source')
     checksum = Mayhem::Content::HtmlNormalizer.checksum(normalized_html)
     path = write_post('2025-11-25-test.md', {
-      'original_content' => '<p>body</p>',
-      'original_content_checksum' => checksum,
+      'feed_content' => '<p>body</p>',
+      'feed_content_checksum' => checksum,
       'source_url' => 'https://source',
       'published' => true
     }, '<p>body</p>')
@@ -263,7 +263,7 @@ class RssImporterMethodsTest < Minitest::Test
 
   def write_post(filename, front_matter, body = '')
     path = File.join(@tmp_posts, filename)
-    File.write(path, Mayhem::FrontMatter::Document.build_markdown(front_matter.merge('original_content' => front_matter['original_content'] || ''), body))
+    File.write(path, Mayhem::FrontMatter::Document.build_markdown(front_matter.merge('feed_content' => front_matter['feed_content'] || ''), body))
     path
   end
 

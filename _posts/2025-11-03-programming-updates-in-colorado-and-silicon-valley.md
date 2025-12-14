@@ -3,14 +3,12 @@ date: '2025-11-03T23:34:40+00:00'
 events:
 - 2026-01-01-tutoring-partnerships-launch-in-seattle
 events_extracted: true
+feed_content: <p>The post <a href="https://readingpartners.org/blog/programming-updates-co-and-sv/">Programming
+  updates in Colorado and Silicon Valley</a> appeared first on <a href="https://readingpartners.org">Reading
+  Partners</a>.</p>
 images: []
 locations:
 - King County
-original_content: <p>The post <a href="https://readingpartners.org/blog/programming-updates-co-and-sv/">Programming
-  updates in Colorado and Silicon Valley</a> appeared first on <a href="https://readingpartners.org">Reading
-  Partners</a>.</p>
-original_markdown_body: The post [Programming updates in Colorado and Silicon Valley](https://readingpartners.org/blog/programming-updates-co-and-sv/)
-  appeared first on [Reading Partners](https://readingpartners.org).
 source: Reading Partners Seattle
 source_url: https://readingpartners.org/blog/programming-updates-co-and-sv/
 summarized: true

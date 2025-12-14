@@ -1,8 +1,6 @@
 ---
 date: '2025-11-03T20:30:00+00:00'
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   ### Public Works Board announces $734,310 to emergency infrastructure failures
 
   OLYMPIA, Wash. – The&nbsp;[Washington State Public Works Board](https://www.commerce.wa.gov/pwb/) recently awarded $734,310 in emergency loans to the cities of Pateros and Wapato to address critical infrastructure failures threatening public health and safety.
@@ -25,6 +23,8 @@ original_content: |-
   Ed Stern, board member and deputy mayor of Poulsbo, emphasized the unique role the board plays in infrastructure emergencies. “This is a perfect example of how PWB remains the sole first responder for emergency infrastructure failure in the state,” Stern said. “Our ability to pivot and meet the need in short order is unparalleled.” &nbsp;
 
   Applications for the PWB emergency and pre-construction funding programs remain open until funds are exhausted. &nbsp;As of October 2025, $6.8 million in emergency funding remains available for the 2025-27 biennium.
+images: []
+locations: []
 published: false
 source: Department of Commerce
 source_url: https://www.commerce.wa.gov/critical-wastewater-repairs-coming-to-the-cities-of-pateros-and-wapato/

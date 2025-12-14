@@ -2,10 +2,7 @@
 date: '2025-07-03T19:35:58+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- South King County
-original_content: |-
+feed_content: |-
   **![](https://encompassnw.org/wp-content/uploads/2025/06/img-blog-6ways-square-300x300.jpg)The Impact of Community Stress and Changes in Routine on Kids’ Nervous Systems During Summer Break**
 
   As the school year comes to a close and summer vacation begins, many families experience a significant shift in their daily routines. While the prospect of summer freedom is exciting, it can also bring intense challenges that might impact young children’s emotional and physical well-being. The changes in structure, combined with heightened community stress, can trigger responses in our nervous systems that often lead to anxiety, irritability, or mood fluctuations.
@@ -41,6 +38,9 @@ original_content: |-
   By focusing on connection and offering soothing, supportive strategies, parents and caregivers can help their children navigate the emotional challenges of summer break with greater ease. A calm and predictable environment provides the stability children need to process their emotions and stay grounded, no matter how much their world may be shifting.&nbsp; If you or your child needs a little more support, please reach out to Encompass.&nbsp; We are here to help.
 
   The post [6 Tips to Help Kids Navigate Uncertain Times](https://encompassnw.org/6-tips-to-help-kids-navigate-uncertain-times/) first appeared on [Encompass](https://encompassnw.org).
+images: []
+locations:
+- South King County
 source: Encompass
 source_url: https://encompassnw.org/6-tips-to-help-kids-navigate-uncertain-times/
 summarized: true

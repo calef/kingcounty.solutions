@@ -3,16 +3,12 @@ date: '2025-11-17T22:54:02+00:00'
 events:
 - 2025-12-18-application-deadline-for-uos-funding
 events_extracted: true
+feed_content: The Seattle Office of Housing is announcing a new opportunity to support
+  affordable housing providers across Seattle. We are making up to $27.8 million in
+  stabilization funding available to help organizations facing financial challenges.
 images: []
 locations:
 - King County
-original_content: The Seattle Office of Housing is announcing a new opportunity to
-  support affordable housing providers across Seattle. We are making up to $27.8 million
-  in stabilization funding available to help organizations facing financial challenges.
-original_markdown_body: The Seattle Office of Housing is announcing a new opportunity
-  to support affordable housing providers across Seattle. We are making up to $27.8
-  million in stabilization funding available to help organizations facing financial
-  challenges.
 source: City of Seattle
 source_url: https://housing.seattle.gov/uos-rfq/
 summarized: true

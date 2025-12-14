@@ -1,8 +1,6 @@
 ---
 date: '2025-07-02T13:40:25+00:00'
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   The Valley Regional Fire Authority (VRFA) proudly announces the retirement of Deputy Fire Marshal Matt Harrington, who has dedicated over two decades of exemplary service to our community since joining the legacy Auburn Fire Department on January 3, 2000. Throughout his career, Harrington has made a memorable impact on the VRFA and the lives of countless community members.
 
   Before joining the VRFA, Harrington was a North Kitsap Fire & Rescue resident firefighter. He also had a distinguished military career in the U.S. Navy as a Submariner and Deep Sea Diver from 1989 to 1994, followed by service in the Navy Reserves until 2006. His military experience and his previous role as a bartender laid the foundation for a career characterized by skill, compassion, and dedication to the fire service.
@@ -22,6 +20,8 @@ original_content: |-
   &nbsp;
 
   The post [The Valley Regional Fire Authority Announces the Retirement of Deputy Fire Marshal Matt Harrington](https://www.vrfa.org/2025/07/the-valley-regional-fire-authority-announces-the-retirement-of-deputy-fire-marshal-matt-harrington/) appeared first on [Valley Regional Fire Authority (VRFA)](https://www.vrfa.org).
+images: []
+locations: []
 published: false
 source: Valley Regional Fire Authority
 source_url: https://www.vrfa.org/2025/07/the-valley-regional-fire-authority-announces-the-retirement-of-deputy-fire-marshal-matt-harrington/

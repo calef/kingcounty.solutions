@@ -2,17 +2,13 @@
 date: '2025-12-04T23:28:20+00:00'
 events: []
 events_extracted: true
+feed_content: Can you devote your time to helping your community? The Seattle Renters’
+  Commission seeks community members to fill two vacant seats on the Seattle Social
+  Housing Developer Board, a Public Development Authority (PDA) responsible for developing,
+  owning,...
 images: []
 locations:
 - King County
-original_content: Can you devote your time to helping your community? The Seattle
-  Renters’ Commission seeks community members to fill two vacant seats on the Seattle
-  Social Housing Developer Board, a Public Development Authority (PDA) responsible
-  for developing, owning,...
-original_markdown_body: Can you devote your time to helping your community? The Seattle
-  Renters’ Commission seeks community members to fill two vacant seats on the Seattle
-  Social Housing Developer Board, a Public Development Authority (PDA) responsible
-  for developing, owning,...
 source: City of Seattle
 source_url: https://frontporch.seattle.gov/2025/12/04/help-prevent-displacement-and-shape-affordable-housing-in-seattle-apply-for-the-seattle-social-housing-developer-board/
 summarized: true

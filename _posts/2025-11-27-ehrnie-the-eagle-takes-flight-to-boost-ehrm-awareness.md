@@ -2,10 +2,7 @@
 date: '2025-11-27T14:30:00+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <p>Chillicothe VA Medical Center (VAMC) is taking a creative, community-centered approach to preparing Veterans and staff for its upcoming Federal Electronic Health Record (EHR) “go-live” on June 6, 2026. Leading the charge is an energetic new ambassador: EHRnie the Eagle, a mascot who has quickly become the face of Chillicothe’s outreach efforts.</p>
 
 
@@ -31,18 +28,9 @@ original_content: |-
 
 
   <p><a id="_msocom_1"></a></p>
-original_markdown_body: |-
-  Chillicothe VA Medical Center (VAMC) is taking a creative, community-centered approach to preparing Veterans and staff for its upcoming Federal Electronic Health Record (EHR) “go-live” on June 6, 2026. Leading the charge is an energetic new ambassador: EHRnie the Eagle, a mascot who has quickly become the face of Chillicothe’s outreach efforts.
-
-  EHRnie has been on the road visiting VA medical facilities in southern Ohio alongside members of Chillicothe’s Change Leadership Team (CLT). Together, they have been meeting directly with staff and Veterans to talk about the upcoming Federal EHR deployment, explain the benefits of the new system, answer questions and listen to feedback from front-line employees and the Veterans they serve.
-
-  These visits have included stops at two key community-based outpatient clinic in Wilmington and Portsmouth, where EHRnie and the team spent time discussing what the transition to the new system will mean for clinic operations, care coordination and daily workflows. The CLT shared lessons learned from previous deployments and provided updates on next steps as Chillicothe moves closer to its go-live date. The presence of EHRnie the Eagle brought energy and excitement to each stop, turning what could be a routine technical conversation into a memorable experience for everyone involved.
-
-  As June 2026 nears, Chillicothe VAMC plans to continue using EHRnie’s visits, on-site discussions and messaging to prepare its workforce and community. With enthusiasm building and awareness growing, Chillicothe’s comprehensive, grassroots communications approach is positioning the facility for a successful Federal EHR go-live—with EHRnie the Eagle leading the way.
-
-  For more information and resources, visit the&nbsp;[EHRM website](http://www.ehrm.va.gov/).
-
-  * * *
+images: []
+locations:
+- King County
 source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143580/ehrnie-the-eagle-takes-flight-to-boost-ehrm-awareness/
 summarized: true

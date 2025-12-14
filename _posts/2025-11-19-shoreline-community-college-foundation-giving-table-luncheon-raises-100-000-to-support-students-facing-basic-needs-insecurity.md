@@ -2,12 +2,8 @@
 date: '2025-11-19T08:39:28+00:00'
 events: []
 events_extracted: true
-images:
-- b0e997764bd3bd8c5c5616c633329a4980ea252a94a50a24acf4e3b589e77f8f
-locations:
-- King County
-original_content: '<div class="wp-rss-image" style="margin-bottom:20px;max-width:
-  600px !important;padding-top: 0.75em;"><img width="400" height="300" src="https://i0.wp.com/news.shoreline.edu/wp-content/uploads/2025/11/IMG_3859-3-scaled.jpg?fit=400%2C300&amp;ssl=1"
+feed_content: '<div class="wp-rss-image" style="margin-bottom:20px;max-width: 600px
+  !important;padding-top: 0.75em;"><img width="400" height="300" src="https://i0.wp.com/news.shoreline.edu/wp-content/uploads/2025/11/IMG_3859-3-scaled.jpg?fit=400%2C300&amp;ssl=1"
   class="attachment-medium size-medium wp-post-image" alt="Governor and First Lady
   Ferguson spend some quality time with Shoreline students at the Giving Table event"
   decoding="async" fetchpriority="high" srcset="https://i0.wp.com/news.shoreline.edu/wp-content/uploads/2025/11/IMG_3859-3-scaled.jpg?w=2560&amp;ssl=1
@@ -26,9 +22,10 @@ original_content: '<div class="wp-rss-image" style="margin-bottom:20px;max-width
   too many face barriers like the rising costs of food, housing, transportation, and
   healthcare, that threaten their ability to stay in school and complete their goals.
   These challenges make it difficult for students &#8230;'
-original_markdown_body: |-
-  ![Governor and First Lady Ferguson spend some quality time with Shoreline students at the Giving Table event](https://i0.wp.com/news.shoreline.edu/wp-content/uploads/2025/11/IMG_3859-3-scaled.jpg?fit=400%2C300&ssl=1)
-  Shoreline Community College serves students who are working hard to build stable lives, support their families, and move into living-wage careers. However, too many face barriers like the rising costs of food, housing, transportation, and healthcare, that threaten their ability to stay in school and complete their goals. These challenges make it difficult for students …
+images:
+- b0e997764bd3bd8c5c5616c633329a4980ea252a94a50a24acf4e3b589e77f8f
+locations:
+- King County
 source: Shoreline Community College
 source_url: https://news.shoreline.edu/2025/11/19/shoreline-community-college-foundation-giving-table-luncheon-raises-100000-to-support-students-facing-basic-needs-insecurity/
 summarized: true

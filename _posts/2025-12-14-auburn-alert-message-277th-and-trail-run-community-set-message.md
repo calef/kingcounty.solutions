@@ -1,19 +1,14 @@
 ---
 date: '2025-12-14T04:20:16+00:00'
+feed_content: This message is for residents and businesses along South 277th St in
+  Auburn including those along intersecting streets of Frontage Road, D Street Northwest,
+  B Street Northwest, D Street Northeast, I Street Northeast and the Trail Run community.
+  Due to flooding and rising levels of water north of the area and the risk of flood
+  […]
+feed_content_checksum: 6aa8f5405fc5a680c77abc29db2ebb388b3b1e95
 images: []
 locations:
 - South King County
-original_content: This message is for residents and businesses along South 277th St
-  in Auburn including those along intersecting streets of Frontage Road, D Street
-  Northwest, B Street Northwest, D Street Northeast, I Street Northeast and the Trail
-  Run community. Due to flooding and rising levels of water north of the area and
-  the risk of flood […]
-original_content_checksum: 6aa8f5405fc5a680c77abc29db2ebb388b3b1e95
-original_markdown_body: This message is for residents and businesses along South 277th
-  St in Auburn including those along intersecting streets of Frontage Road, D Street
-  Northwest, B Street Northwest, D Street Northeast, I Street Northeast and the Trail
-  Run community. Due to flooding and rising levels of water north of the area and
-  the risk of flood […]
 published: false
 rss_guid: https://kcemergency.com/2025/12/13/277th-and-trail-run-community-set-message/
 source: King County Emergency Management

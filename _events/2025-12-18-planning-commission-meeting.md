@@ -1,10 +1,6 @@
 ---
 end_date: '2025-12-18T21:00:00-08:00'
-images: []
-location: Zoom Meeting
-locations:
-- Normandy Park
-original_content: <div> <div> <header> <div> <div> <div> <div> <span>Select Page</span>
+feed_content: <div> <div> <header> <div> <div> <div> <div> <span>Select Page</span>
   </div> </div> </div> </div> </header> <div> <section> <div> <p> <a> « All Events</a>
   </p> <h1>Planning Commission Meeting</h1> <div> <div> <span>December 18 @ 7:00 pm</span>
   - <span>9:00 pm</span> </div> </div> <div> <div> <h1><span>Agenda</span></h1> <div>
@@ -27,16 +23,11 @@ original_content: <div> <div> <header> <div> <div> <div> <div> <span>Select Page
   from our team.</p> </div> </div> </div> <div> <h2>You have Successfully Subscribed!</h2>
   </div> </div> </div> </div> <script> {"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://normandyparkwa.gov/wp-includes/js/wp-emoji-release.min.js?ver=6.9"}}
   </script>
-original_content_checksum: c984fd600dffc15e7baf3643288ace3973c0c5fd
-original_markdown_body: 'Select Page           « All Events  Planning Commission Meeting   December
-  18 @ 7:00 pm - 9:00 pm     Agenda   Agenda materials Zoom Link for Attendees           Google
-  Calendar     iCalendar     Outlook 365     Outlook Live           Details    Date:   December
-  18     Time:   7:00 pm - 9:00 pm     Event Categories: Community Development, Planning
-  Commission     Organizer   Community Development Director    Phone   206-248-8253     Email   nmatz@normandyparkwa.gov        Venues       Zoom
-  Meeting        Council Chambers    801 SW 174th Street Normandy Park, WA 98166 United
-  States  + Google Map                  Subscribe To Our Newsletter Join our mailing
-  list to receive the latest news and updates from our team.     You have Successfully
-  Subscribed!      {"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://normandyparkwa.gov/wp-includes/js/wp-emoji-release.min.js?ver=6.9"}}'
+feed_content_checksum: c984fd600dffc15e7baf3643288ace3973c0c5fd
+images: []
+location: Zoom Meeting
+locations:
+- Normandy Park
 published: false
 source: City of Normandy Park
 source_url: https://normandyparkwa.gov/event/planning-commission-meeting-14/

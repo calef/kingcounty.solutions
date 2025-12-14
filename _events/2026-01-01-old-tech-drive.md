@@ -4,8 +4,6 @@ images: []
 location: ''
 locations:
 - King County
-original_markdown_body: A drive encouraging city employees to donate unwanted electronics
-  to bridge the digital divide and promote responsible e-waste disposal.
 published: false
 source: City of Seattle
 source_url: https://techtalk.seattle.gov/2025/11/20/seattle-its-old-tech-drive-a-smashing-success/

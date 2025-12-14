@@ -1,10 +1,6 @@
 ---
 end_date: '2026-01-28T11:30:00-08:00'
-images: []
-location: Sunshine Garden, 611 S Lane St, Seattle, WA, 98104
-locations:
-- King County
-original_content: '<div class="fusion-row" style=""> <section id="content" style="float:
+feed_content: '<div class="fusion-row" style=""> <section id="content" style="float:
   left;"> <div id="tribe-events-pg-template"> <div id="tribe-events-content" class="tribe-events-single">
   <p class="tribe-events-back"> <a href="https://cisc-seattle.org/events/"><span>All
   Events</span></a> </p> <div class="tribe-events-series-relationship-single-marker
@@ -112,13 +108,10 @@ original_content: '<div class="fusion-row" style=""> <section id="content" style
   class="tribe-postal-code">98104</span> </span> <a class="tribe-events-gmap" href="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=611+S+Lane+St+Seattle+WA+98104"
   title="Click to view a Google Map" target="_blank" rel="noreferrer noopener">+ Google
   Map</a> </address> </li> </ul> </div> </div> </aside> </div>'
-original_markdown_body: 'All Events    Event Series:    Sunshine Garden: Basic Yoga        Sunshine
-  Garden: Basic Yoga   January 28, 2026 @ 10:30 am - 11:30 am       Learn and practice
-  basic yoga with our instructor and participants.         Google Calendar     iCalendar     Outlook
-  365     Outlook Live          Share This Story, Choose Your Platform!  FacebookXRedditLinkedInWhatsAppTelegramTumblrPinterestVkXingEmail    Event
-  Navigation  Sunshine Garden: Basic Yoga Sunshine Garden: Basic Yoga          Details    Date:   January
-  28, 2026     Time:   10:30 am - 11:30 am    Series:    Sunshine Garden: Basic Yoga       Venue    Sunshine
-  Garden     611 S Lane St Seattle, WA 98104  + Google Map'
+images: []
+location: Sunshine Garden, 611 S Lane St, Seattle, WA, 98104
+locations:
+- King County
 published: false
 source: Chinese Information & Service Center
 source_url: https://cisc-seattle.org/event/sunshine-garden-basic-yoga-3/2026-01-28/

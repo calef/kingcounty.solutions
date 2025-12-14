@@ -1,21 +1,17 @@
 ---
 end_date: '2025-12-15T12:00:00-08:00'
-images: []
-location: ''
-locations:
-- King County
-original_content: '<div> <div> <section> <title>WorkSource Seattle-King County</title>
-  <script>{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-information-63/","url":"https://www.worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-information-63/","name":"DCYF
-  101: Jobs with Heart and Impact Information - WorkSource Seattle-King County","isPartOf":{"@id":"https://www.worksourceskc.org/#website"},"datePublished":"2025-12-11T20:44:33+00:00","description":"DCYF
+feed_content: '<div> <div> <section> <title>WorkSource Seattle-King County</title>
+  <script>{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-information-64/","url":"https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-information-64/","name":"DCYF
+  101: Jobs with Heart and Impact Information - WorkSource Seattle-King County","isPartOf":{"@id":"https://www.worksourceskc.org/#website"},"datePublished":"2025-12-11T20:44:49+00:00","dateModified":"2025-12-14T21:34:06+00:00","description":"DCYF
   101: Jobs with Heart and Impact Information session for job seekers about employment
-  with the Department of Children, Youth, and Families (DCYF). The","breadcrumb":{"@id":"https://www.worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-information-63/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-information-63/"]}]},{"@type":"BreadcrumbList","@id":"https://www.worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-information-63/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"DCYF
+  with the Department of Children, Youth, and Families (DCYF). The","breadcrumb":{"@id":"https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-information-64/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-information-64/"]}]},{"@type":"BreadcrumbList","@id":"https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-information-64/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"DCYF
   101: Jobs with Heart and Impact Information"}]},{"@type":"WebSite","@id":"https://www.worksourceskc.org/#website","url":"https://www.worksourceskc.org/","name":"WorkSource
   Seattle-King County","description":"Let&#039;s find your path together!","publisher":{"@id":"https://www.worksourceskc.org/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.worksourceskc.org/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://www.worksourceskc.org/#organization","name":"WorkSource
   Seattle-King County","url":"https://www.worksourceskc.org/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.worksourceskc.org/#/schema/logo/image/","url":"","contentUrl":"","caption":"WorkSource
   Seattle-King County"},"image":{"@id":"https://www.worksourceskc.org/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/worksourceskc/"]},{"@type":"Event","name":"DCYF
   101: Jobs with Heart and Impact Information","description":"DCYF 101: Jobs with
   Heart and Impact Information session for job seekers about employment with the Department
-  of Children, Youth,&hellip;","url":"https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-information-63/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2025-12-15T11:00:00-08:00","endDate":"2025-12-15T12:00:00-08:00","@id":"https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-information-63/#event","mainEntityOfPage":{"@id":"https://www.worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-information-63/"}}]}</script>
+  of Children, Youth,&hellip;","url":"https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-information-64/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2025-12-15T11:00:00-08:00","endDate":"2025-12-15T12:00:00-08:00","@id":"https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-information-64/#event","mainEntityOfPage":{"@id":"https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-information-64/"}}]}</script>
   <title>DCYF 101: Jobs with Heart and Impact Information – WorkSource Seattle-King
   County</title> <a>Skip to main content</a> <header> <div> <div> <div> <div> <div>
   <ul> <li><a>Job Board</a></li> </ul> <ul> <li> <a>Staff Log-In</a> </li> </ul> </div>
@@ -48,40 +44,201 @@ original_content: '<div> <div> <section> <title>WorkSource Seattle-King County</
   application process, and the broader mission of DCYF. Virtual – December Monday,
   12/15: 11:00 AM – 12:00 PM </div> </div> </div> </section> </div> </section> </div>
   </div>'
-original_content_checksum: 917c29836814f0ae857c0db5bf403a99412874c2
-original_markdown_body: 'WorkSource Seattle-King County {"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-information-63/","url":"https://www.worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-information-63/","name":"DCYF
-  101: Jobs with Heart and Impact Information - WorkSource Seattle-King County","isPartOf":{"@id":"https://www.worksourceskc.org/#website"},"datePublished":"2025-12-11T20:44:33+00:00","description":"DCYF
+feed_content_checksum: 8332d8740b84f02899b4cae103be92fce1e662e5
+images: []
+location: ''
+locations:
+- King County
+original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta charset=\"UTF-8\"
+  />\n\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\n<meta
+  name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'
+  />\n\t<style>img:is([sizes=\"auto\" i], [sizes^=\"auto,\" i]) { contain-intrinsic-size:
+  3000px 1500px }</style>\n\t\n\t<!-- This site is optimized with the Yoast SEO plugin
+  v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n\t<meta name=\"description\"
+  content=\"DCYF 101: Jobs with Heart and Impact Information session for job seekers
+  about employment with the Department of Children, Youth, and Families (DCYF). The\"
+  />\n\t<link rel=\"canonical\" href=\"https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-information-64/\"
+  />\n\t<meta property=\"og:locale\" content=\"en_US\" />\n\t<meta property=\"og:type\"
+  content=\"article\" />\n\t<meta property=\"og:title\" content=\"DCYF 101: Jobs with
+  Heart and Impact Information - WorkSource Seattle-King County\" />\n\t<meta property=\"og:description\"
+  content=\"DCYF 101: Jobs with Heart and Impact Information session for job seekers
+  about employment with the Department of Children, Youth, and Families (DCYF). The\"
+  />\n\t<meta property=\"og:url\" content=\"https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-information-64/\"
+  />\n\t<meta property=\"og:site_name\" content=\"WorkSource Seattle-King County\"
+  />\n\t<meta property=\"article:publisher\" content=\"https://www.facebook.com/worksourceskc/\"
+  />\n\t<meta property=\"article:modified_time\" content=\"2025-12-14T21:35:12+00:00\"
+  />\n\t<meta name=\"twitter:card\" content=\"summary_large_image\" />\n\t<script
+  type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-information-64/\",\"url\":\"https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-information-64/\",\"name\":\"DCYF
+  101: Jobs with Heart and Impact Information - WorkSource Seattle-King County\",\"isPartOf\":{\"@id\":\"https://www.worksourceskc.org/#website\"},\"datePublished\":\"2025-12-11T20:44:49+00:00\",\"dateModified\":\"2025-12-14T21:35:12+00:00\",\"description\":\"DCYF
   101: Jobs with Heart and Impact Information session for job seekers about employment
-  with the Department of Children, Youth, and Families (DCYF). The","breadcrumb":{"@id":"https://www.worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-information-63/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-information-63/"]}]},{"@type":"BreadcrumbList","@id":"https://www.worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-information-63/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"DCYF
-  101: Jobs with Heart and Impact Information"}]},{"@type":"WebSite","@id":"https://www.worksourceskc.org/#website","url":"https://www.worksourceskc.org/","name":"WorkSource
-  Seattle-King County","description":"Let&#039;s find your path together!","publisher":{"@id":"https://www.worksourceskc.org/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.worksourceskc.org/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://www.worksourceskc.org/#organization","name":"WorkSource
-  Seattle-King County","url":"https://www.worksourceskc.org/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.worksourceskc.org/#/schema/logo/image/","url":"","contentUrl":"","caption":"WorkSource
-  Seattle-King County"},"image":{"@id":"https://www.worksourceskc.org/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/worksourceskc/"]},{"@type":"Event","name":"DCYF
-  101: Jobs with Heart and Impact Information","description":"DCYF 101: Jobs with
+  with the Department of Children, Youth, and Families (DCYF). The\",\"breadcrumb\":{\"@id\":\"https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-information-64/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-information-64/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-information-64/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.worksourceskc.org/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Events\",\"item\":\"https://worksourceskc.org/events_list/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"DCYF
+  101: Jobs with Heart and Impact Information\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://www.worksourceskc.org/#website\",\"url\":\"https://www.worksourceskc.org/\",\"name\":\"WorkSource
+  Seattle-King County\",\"description\":\"Let&#039;s find your path together!\",\"publisher\":{\"@id\":\"https://www.worksourceskc.org/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://www.worksourceskc.org/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https://www.worksourceskc.org/#organization\",\"name\":\"WorkSource
+  Seattle-King County\",\"url\":\"https://www.worksourceskc.org/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://www.worksourceskc.org/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"WorkSource
+  Seattle-King County\"},\"image\":{\"@id\":\"https://www.worksourceskc.org/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/worksourceskc/\"]},{\"@type\":\"Event\",\"name\":\"DCYF
+  101: Jobs with Heart and Impact Information\",\"description\":\"DCYF 101: Jobs with
   Heart and Impact Information session for job seekers about employment with the Department
-  of Children, Youth,&hellip;","url":"https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-information-63/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2025-12-15T11:00:00-08:00","endDate":"2025-12-15T12:00:00-08:00","@id":"https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-information-63/#event","mainEntityOfPage":{"@id":"https://www.worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-information-63/"}}]}
-  DCYF 101: Jobs with Heart and Impact Information – WorkSource Seattle-King County
-  Skip to main content        Job Board    Staff Log-In        Job Seekers   Get Started
-  with Personalized Support  Sign Up for Services Layoff Support    Self-Serve Resources  Career
-  Exploration Skills & Training Job Search   Workshops & Hiring Events    Employers   Business
-  Services  Employer Inquiry Form Business Connection Partners Business Assistance
-  & Workforce Support Small-Business Assistance Employee Development   Layoff Support,
-  Aversion and Retention    Locations  Auburn Downtown Seattle North Seattle Rainier
-  South Seattle   About            Go to Back to Calendar  DCYF 101: Jobs with Heart
-  and Impact Information December 15 Monday | 11:00am - 12:00pm  Add to Calendar December
-  15 11:00am 12/15/2025 12:00pm America/Los_Angeles DCYF 101: Jobs with Heart and
-  Impact Information DCYF 101: Jobs with Heart and Impact Information session for
-  job seekers about employment with the Department of Children, Youth,…  VIRTUAL Room:
-  VIRTUAL Contact Name: Maegan Lezcano Contact Phone: 360-870-1905 Contact Email:
-  maegan.lezcano@dcyf.wa.gov Workshop Language: English Additional Info: Please go
-  to WorkSourceWA.com and create your account prior to attending this workshop. Description:DCYF
-  101: Jobs with Heart and Impact Information session for job seekers about employment
-  with the Department of Children, Youth, and Families (DCYF). The session will offer
-  detailed information on Child Welfare positions, qualifications, application process,
-  and the broader mission of DCYF. Virtual – December Monday, 12/15: 11:00 AM – 12:00
-  PM'
+  of Children, Youth,&hellip;\",\"url\":\"https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-information-64/\",\"eventAttendanceMode\":\"https://schema.org/OfflineEventAttendanceMode\",\"eventStatus\":\"https://schema.org/EventScheduled\",\"startDate\":\"2025-12-15T11:00:00-08:00\",\"endDate\":\"2025-12-15T12:00:00-08:00\",\"@id\":\"https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-information-64/#event\",\"mainEntityOfPage\":{\"@id\":\"https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-information-64/\"}}]}</script>\n\t<!--
+  / Yoast SEO plugin. -->\n\n\n<title>DCYF 101: Jobs with Heart and Impact Information
+  - WorkSource Seattle-King County</title>\n<link rel='dns-prefetch' href='//worksourceskc.org'
+  />\n<link rel='dns-prefetch' href='//connect.facebook.net' />\n<link rel='dns-prefetch'
+  href='//static.addtoany.com' />\n<link rel='dns-prefetch' href='//ajax.googleapis.com'
+  />\n<link rel='dns-prefetch' href='//maps.googleapis.com' />\n<link rel='dns-prefetch'
+  href='//www.googletagmanager.com' />\n<link rel='dns-prefetch' href='//www.google.com'
+  />\n<link rel=\"alternate\" type=\"application/rss+xml\" title=\"WorkSource Seattle-King
+  County &raquo; Feed\" href=\"https://worksourceskc.org/feed/\" />\n<link rel=\"alternate\"
+  type=\"application/rss+xml\" title=\"WorkSource Seattle-King County &raquo; Comments
+  Feed\" href=\"https://worksourceskc.org/comments/feed/\" />\n<link rel=\"alternate\"
+  type=\"text/calendar\" title=\"WorkSource Seattle-King County &raquo; iCal Feed\"
+  href=\"https://worksourceskc.org/events_list/?ical=1\" />\n<link rel=\"alternate\"
+  type=\"application/rss+xml\" title=\"WorkSource Seattle-King County &raquo; DCYF
+  101: Jobs with Heart and Impact Information Comments Feed\" href=\"https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-information-64/feed/\"
+  />\n\t\t<!-- This site uses the Google Analytics by MonsterInsights plugin v8.7.0
+  - Using Analytics tracking - https://www.monsterinsights.com/ -->\n\t\t\t\t\t\t\t<script
+  src=\"//www.googletagmanager.com/gtag/js?id=G-LT415XR2H3\"  data-cfasync=\"false\"
+  data-wpfc-render=\"false\" async></script>\n\t\t\t<script data-cfasync=\"false\"
+  data-wpfc-render=\"false\">\n\t\t\t\tvar mi_version = '8.7.0';\n\t\t\t\tvar mi_track_user
+  = true;\n\t\t\t\tvar mi_no_track_reason = '';\n\t\t\t\t\n\t\t\t\t\t\t\t\tvar disableStrs
+  = [\n\t\t\t\t\t\t\t\t\t\t'ga-disable-G-LT415XR2H3',\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t];\n\n\t\t\t\t/*
+  Function to detect opted out users */\n\t\t\t\tfunction __gtagTrackerIsOptedOut()
+  {\n\t\t\t\t\tfor ( var index = 0; index < disableStrs.length; index++ ) {\n\t\t\t\t\t\tif
+  ( document.cookie.indexOf( disableStrs[ index ] + '=true' ) > -1 ) {\n\t\t\t\t\t\t\treturn
+  true;\n\t\t\t\t\t\t}\n\t\t\t\t\t}\n\n\t\t\t\t\treturn false;\n\t\t\t\t}\n\n\t\t\t\t/*
+  Disable tracking if the opt-out cookie exists. */\n\t\t\t\tif ( __gtagTrackerIsOptedOut()
+  ) {\n\t\t\t\t\tfor ( var index = 0; index < disableStrs.length; index++ ) {\n\t\t\t\t\t\twindow[
+  disableStrs[ index ] ] = true;\n\t\t\t\t\t}\n\t\t\t\t}\n\n\t\t\t\t/* Opt-out function
+  */\n\t\t\t\tfunction __gtagTrackerOptout() {\n\t\t\t\t\tfor ( var index = 0; index
+  < disableStrs.length; index++ ) {\n\t\t\t\t\t\tdocument.cookie = disableStrs[ index
+  ] + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';\n\t\t\t\t\t\twindow[
+  disableStrs[ index ] ] = true;\n\t\t\t\t\t}\n\t\t\t\t}\n\n\t\t\t\tif ( 'undefined'
+  === typeof gaOptout ) {\n\t\t\t\t\tfunction gaOptout() {\n\t\t\t\t\t\t__gtagTrackerOptout();\n\t\t\t\t\t}\n\t\t\t\t}\n\t\t\t\t\t\t\t\twindow.dataLayer
+  = window.dataLayer || [];\n\n\t\t\t\twindow.MonsterInsightsDualTracker = {\n\t\t\t\t\thelpers:
+  {},\n\t\t\t\t\ttrackers: {},\n\t\t\t\t};\n\t\t\t\tif ( mi_track_user ) {\n\t\t\t\t\tfunction
+  __gtagDataLayer() {\n\t\t\t\t\t\tdataLayer.push( arguments );\n\t\t\t\t\t}\n\n\t\t\t\t\tfunction
+  __gtagTracker( type, name, parameters ) {\n\t\t\t\t\t\tif (!parameters) {\n\t\t\t\t\t\t\tparameters
+  = {};\n\t\t\t\t\t\t}\n\n\t\t\t\t\t\tif (parameters.send_to) {\n\t\t\t\t\t\t\t__gtagDataLayer.apply(
+  null, arguments );\n\t\t\t\t\t\t\treturn;\n\t\t\t\t\t\t}\n\n\t\t\t\t\t\tif ( type
+  === 'event' ) {\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tparameters.send_to = monsterinsights_frontend.v4_id;\n\t\t\t\t\t\t\t\tvar
+  hookName = name;\n\t\t\t\t\t\t\t\tif ( typeof parameters[ 'event_category' ] !==
+  'undefined' ) {\n\t\t\t\t\t\t\t\t\thookName = parameters[ 'event_category' ] + ':'
+  + name;\n\t\t\t\t\t\t\t\t}\n\n\t\t\t\t\t\t\t\tif ( typeof MonsterInsightsDualTracker.trackers[
+  hookName ] !== 'undefined' ) {\n\t\t\t\t\t\t\t\t\tMonsterInsightsDualTracker.trackers[
+  hookName ]( parameters );\n\t\t\t\t\t\t\t\t} else {\n\t\t\t\t\t\t\t\t\t__gtagDataLayer(
+  'event', name, parameters );\n\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t\n\t\t\t\t\t\t\t\t\t\t\t\t\t}
+  else {\n\t\t\t\t\t\t\t__gtagDataLayer.apply( null, arguments );\n\t\t\t\t\t\t}\n\t\t\t\t\t}\n\t\t\t\t\t__gtagTracker(
+  'js', new Date() );\n\t\t\t\t\t__gtagTracker( 'set', {\n\t\t\t\t\t\t'developer_id.dZGIzZG'
+  : true,\n\t\t\t\t\t\t\t\t\t\t\t} );\n\t\t\t\t\t\t\t\t\t\t__gtagTracker( 'config',
+  'G-LT415XR2H3', {\"forceSSL\":\"true\",\"link_attribution\":\"true\"} );\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\twindow.gtag
+  = __gtagTracker;\t\t\t\t\t\t\t\t\t\t\t(function () {\n\t\t\t\t\t\t\t/* https://developers.google.com/analytics/devguides/collection/analyticsjs/
+  */\n\t\t\t\t\t\t\t/* ga and __gaTracker compatibility shim. */\n\t\t\t\t\t\t\tvar
+  noopfn = function () {\n\t\t\t\t\t\t\t\treturn null;\n\t\t\t\t\t\t\t};\n\t\t\t\t\t\t\tvar
+  newtracker = function () {\n\t\t\t\t\t\t\t\treturn new Tracker();\n\t\t\t\t\t\t\t};\n\t\t\t\t\t\t\tvar
+  Tracker = function () {\n\t\t\t\t\t\t\t\treturn null;\n\t\t\t\t\t\t\t};\n\t\t\t\t\t\t\tvar
+  p = Tracker.prototype;\n\t\t\t\t\t\t\tp.get = noopfn;\n\t\t\t\t\t\t\tp.set = noopfn;\n\t\t\t\t\t\t\tp.send
+  = function (){\n\t\t\t\t\t\t\t\tvar args = Array.prototype.slice.call(arguments);\n\t\t\t\t\t\t\t\targs.unshift(
+  'send' );\n\t\t\t\t\t\t\t\t__gaTracker.apply(null, args);\n\t\t\t\t\t\t\t};\n\t\t\t\t\t\t\tvar
+  __gaTracker = function () {\n\t\t\t\t\t\t\t\tvar len = arguments.length;\n\t\t\t\t\t\t\t\tif
+  ( len === 0 ) {\n\t\t\t\t\t\t\t\t\treturn;\n\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t\tvar
+  f = arguments[len - 1];\n\t\t\t\t\t\t\t\tif ( typeof f !== 'object' || f === null
+  || typeof f.hitCallback !== 'function' ) {\n\t\t\t\t\t\t\t\t\tif ( 'send' === arguments[0]
+  ) {\n\t\t\t\t\t\t\t\t\t\tvar hitConverted, hitObject = false, action;\n\t\t\t\t\t\t\t\t\t\tif
+  ( 'event' === arguments[1] ) {\n\t\t\t\t\t\t\t\t\t\t\tif ( 'undefined' !== typeof
+  arguments[3] ) {\n\t\t\t\t\t\t\t\t\t\t\t\thitObject = {\n\t\t\t\t\t\t\t\t\t\t\t\t\t'eventAction':
+  arguments[3],\n\t\t\t\t\t\t\t\t\t\t\t\t\t'eventCategory': arguments[2],\n\t\t\t\t\t\t\t\t\t\t\t\t\t'eventLabel':
+  arguments[4],\n\t\t\t\t\t\t\t\t\t\t\t\t\t'value': arguments[5] ? arguments[5] :
+  1,\n\t\t\t\t\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t\t\t\tif
+  ( 'pageview' === arguments[1] ) {\n\t\t\t\t\t\t\t\t\t\t\tif ( 'undefined' !== typeof
+  arguments[2] ) {\n\t\t\t\t\t\t\t\t\t\t\t\thitObject = {\n\t\t\t\t\t\t\t\t\t\t\t\t\t'eventAction':
+  'page_view',\n\t\t\t\t\t\t\t\t\t\t\t\t\t'page_path' : arguments[2],\n\t\t\t\t\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t\t\t\tif
+  ( typeof arguments[2] === 'object' ) {\n\t\t\t\t\t\t\t\t\t\t\thitObject = arguments[2];\n\t\t\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t\t\t\tif
+  ( typeof arguments[5] === 'object' ) {\n\t\t\t\t\t\t\t\t\t\t\tObject.assign( hitObject,
+  arguments[5] );\n\t\t\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t\t\t\tif ( 'undefined' !==
+  typeof arguments[1].hitType ) {\n\t\t\t\t\t\t\t\t\t\t\thitObject = arguments[1];\n\t\t\t\t\t\t\t\t\t\t\tif
+  ( 'pageview' === hitObject.hitType ) {\n\t\t\t\t\t\t\t\t\t\t\t\thitObject.eventAction
+  = 'page_view';\n\t\t\t\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t\t\t\tif
+  ( hitObject ) {\n\t\t\t\t\t\t\t\t\t\t\taction = 'timing' === arguments[1].hitType
+  ? 'timing_complete' : hitObject.eventAction;\n\t\t\t\t\t\t\t\t\t\t\thitConverted
+  = mapArgs( hitObject );\n\t\t\t\t\t\t\t\t\t\t\t__gtagTracker( 'event', action, hitConverted
+  );\n\t\t\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t\t\treturn;\n\t\t\t\t\t\t\t\t}\n\n\t\t\t\t\t\t\t\tfunction
+  mapArgs( args ) {\n\t\t\t\t\t\t\t\t\tvar arg, hit = {};\n\t\t\t\t\t\t\t\t\tvar gaMap
+  = {\n\t\t\t\t\t\t\t\t\t\t'eventCategory': 'event_category',\n\t\t\t\t\t\t\t\t\t\t'eventAction':
+  'event_action',\n\t\t\t\t\t\t\t\t\t\t'eventLabel': 'event_label',\n\t\t\t\t\t\t\t\t\t\t'eventValue':
+  'event_value',\n\t\t\t\t\t\t\t\t\t\t'nonInteraction': 'non_interaction',\n\t\t\t\t\t\t\t\t\t\t'timingCategory':
+  'event_category',\n\t\t\t\t\t\t\t\t\t\t'timingVar': 'name',\n\t\t\t\t\t\t\t\t\t\t'timingValue':
+  'value',\n\t\t\t\t\t\t\t\t\t\t'timingLabel': 'event_label',\n\t\t\t\t\t\t\t\t\t\t'page'
+  : 'page_path',\n\t\t\t\t\t\t\t\t\t\t'location' : 'page_location',\n\t\t\t\t\t\t\t\t\t\t'title'
+  : 'page_title',\n\t\t\t\t\t\t\t\t\t};\n\t\t\t\t\t\t\t\t\tfor ( arg in args ) {\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tif
+  ( ! ( ! args.hasOwnProperty(arg) || ! gaMap.hasOwnProperty(arg) ) ) {\n\t\t\t\t\t\t\t\t\t\t\thit[gaMap[arg]]
+  = args[arg];\n\t\t\t\t\t\t\t\t\t\t} else {\n\t\t\t\t\t\t\t\t\t\t\thit[arg] = args[arg];\n\t\t\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t\t\treturn
+  hit;\n\t\t\t\t\t\t\t\t}\n\n\t\t\t\t\t\t\t\ttry {\n\t\t\t\t\t\t\t\t\tf.hitCallback();\n\t\t\t\t\t\t\t\t}
+  catch ( ex ) {\n\t\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\t};\n\t\t\t\t\t\t\t__gaTracker.create
+  = newtracker;\n\t\t\t\t\t\t\t__gaTracker.getByName = newtracker;\n\t\t\t\t\t\t\t__gaTracker.getAll
+  = function () {\n\t\t\t\t\t\t\t\treturn [];\n\t\t\t\t\t\t\t};\n\t\t\t\t\t\t\t__gaTracker.remove
+  = noopfn;\n\t\t\t\t\t\t\t__gaTracker.loaded = true;\n\t\t\t\t\t\t\twindow['__gaTracker']
+  = __gaTracker;\n\t\t\t\t\t\t})();\n\t\t\t\t\t\t\t\t\t} else {\n\t\t\t\t\t\t\t\t\t\tconsole.log(
+  \"\" );\n\t\t\t\t\t( function () {\n\t\t\t\t\t\t\tfunction __gtagTracker() {\n\t\t\t\t\t\t\t\treturn
+  null;\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\twindow['__gtagTracker'] = __gtagTracker;\n\t\t\t\t\t\t\twindow['gtag']
+  = __gtagTracker;\n\t\t\t\t\t} )();\n\t\t\t\t\t\t\t\t\t}\n\t\t\t</script>\n\t\t\t\t<!--
+  / Google Analytics by MonsterInsights -->\n\t\t<link rel='stylesheet' id='advgb_blocks_styles-css'
+  href='https://worksourceskc.org/wp-content/plugins/advanced-gutenberg-pro/lib/vendor/publishpress/publishpress-blocks/assets/css/blocks.css?ver=3.2.0'
+  media='all' />\n<link rel='stylesheet' id='advgb_blocks_styles_pro-css' href='https://worksourceskc.org/wp-content/plugins/advanced-gutenberg-pro/assets/css/blocks-pro.css?ver=3.2.0'
+  media='all' />\n<style id='wp-block-site-title-inline-css'>\n.wp-block-site-title{box-sizing:border-box}.wp-block-site-title
+  :where(a){color:inherit;font-family:inherit;font-size:inherit;font-style:inherit;font-weight:inherit;letter-spacing:inherit;line-height:inherit;text-decoration:inherit}\n</style>\n<style
+  id='wp-block-paragraph-inline-css'>\n.is-small-text{font-size:.875em}.is-regular-text{font-size:1em}.is-large-text{font-size:2.25em}.is-larger-text{font-size:3em}.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;font-style:normal;font-weight:100;line-height:.68;margin:.05em
+  .1em 0 0;text-transform:uppercase}body.rtl .has-drop-cap:not(:focus):first-letter{float:none;margin-left:.1em}p.has-drop-cap.has-background{overflow:hidden}:root
+  :where(p.has-background){padding:1.25em 2.375em}:where(p.has-text-color:not(.has-link-color))
+  a{color:inherit}p.has-text-align-left[style*=\"writing-mode:vertical-lr\"],p.has-text-align-right[style*=\"writing-mode:vertical-rl\"]{rotate:180deg}\n</style>\n<link
+  rel=\"https://api.w.org/\" href=\"https://worksourceskc.org/wp-json/\" /><link rel=\"alternate\"
+  title=\"JSON\" type=\"application/json\" href=\"https://worksourceskc.org/wp-json/wp/v2/tribe_events/391649\"
+  /><link rel=\"EditURI\" type=\"application/rsd+xml\" title=\"RSD\" href=\"https://worksourceskc.org/xmlrpc.php?rsd\"
+  />\n<link rel='shortlink' href='https://worksourceskc.org/?p=391649' />\n<link rel=\"alternate\"
+  title=\"oEmbed (JSON)\" type=\"application/json+oembed\" href=\"https://worksourceskc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fworksourceskc.org%2Fevent%2Fdcyf-101-jobs-with-heart-and-impact-information-64%2F\"
+  />\n<link rel=\"alternate\" title=\"oEmbed (XML)\" type=\"text/xml+oembed\" href=\"https://worksourceskc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fworksourceskc.org%2Fevent%2Fdcyf-101-jobs-with-heart-and-impact-information-64%2F&#038;format=xml\"
+  />\n<script type=\"text/javascript\" src=\"https://www.bugherd.com/sidebarv2.js?apikey=kzhpjsbdgxin5llwmvzeeg\"
+  async=\"true\"></script><!-- Custom Facebook Feed JS vars -->\n<script type=\"text/javascript\">\nvar
+  cffsiteurl = \"https://worksourceskc.org/wp-content/plugins\";\nvar cffajaxurl =
+  \"https://worksourceskc.org/wp-admin/admin-ajax.php\";\n\n\nvar cfflinkhashtags
+  = \"false\";\n</script>\n<meta name=\"generator\" content=\"Site Kit by Google 1.153.0\"
+  /><meta name=\"tec-api-version\" content=\"v1\"><meta name=\"tec-api-origin\" content=\"https://worksourceskc.org\"><link
+  rel=\"alternate\" href=\"https://worksourceskc.org/wp-json/tribe/events/v1/events/391649\"
+  /><script type=\"importmap\" id=\"wp-importmap\">\n{\"imports\":{\"@wordpress\\/interactivity\":\"https:\\/\\/worksourceskc.org\\/wp-includes\\/js\\/dist\\/script-modules\\/interactivity\\/index.min.js?ver=55aebb6e0a16726baffb\"}}\n</script>\n<script
+  type=\"module\" src=\"https://worksourceskc.org/wp-includes/js/dist/script-modules/block-library/navigation/view.min.js?ver=61572d447d60c0aa5240\"
+  id=\"@wordpress/block-library/navigation/view-js-module\"></script>\n<link rel=\"modulepreload\"
+  href=\"https://worksourceskc.org/wp-includes/js/dist/script-modules/interactivity/index.min.js?ver=55aebb6e0a16726baffb\"
+  id=\"@wordpress/interactivity-js-modulepreload\"><meta name=\"google-site-verification\"
+  content=\"T-otGnXdjJCQ09FHnnweUS5zrAEEa446c8duCq6zzQ8\"><style type=\"text/css\">.blue-message
+  {\nbackground: none repeat scroll 0 0 #3399ff;\n    color: #ffffff;\n    text-shadow:
+  none;\n    font-size: 16px;\n    line-height: 24px;\n    padding: 10px;\n} \n.green-message
+  {\nbackground: none repeat scroll 0 0 #8cc14c;\n    color: #ffffff;\n    text-shadow:
+  none;\n    font-size: 16px;\n    line-height: 24px;\n    padding: 10px;\n} \n.orange-message
+  {\nbackground: none repeat scroll 0 0 #faa732;\n    color: #ffffff;\n    text-shadow:
+  none;\n    font-size: 16px;\n    line-height: 24px;\n    padding: 10px;\n} \n.red-message
+  {\nbackground: none repeat scroll 0 0 #da4d31;\n    color: #ffffff;\n    text-shadow:
+  none;\n    font-size: 16px;\n    line-height: 24px;\n    padding: 10px;\n} \n.grey-message
+  {\nbackground: none repeat scroll 0 0 #53555c;\n    color: #ffffff;\n    text-shadow:
+  none;\n    font-size: 16px;\n    line-height: 24px;\n    padding: 10px;\n} \n.left-block
+  {\nbackground: none repeat scroll 0 0px, radial-gradient(ellipse at center center,
+  #ffffff 0%, #f2f2f2 100%) repeat scroll 0 0 rgba(0, 0, 0, 0);\n    color: #8b8e97;\n
+  \   padding: 10px;\n    margin: 10px;\n    float: left;\n} \n.right-block {\nbackground:
+  none repeat scroll 0 0px, radial-gradient(ellipse at center center, #ffffff 0%,
+  #f2f2f2 100%) repeat scroll 0 0 rgba(0, 0, 0, 0);\n    color: #8b8e97;\n    padding:
+  10px;\n    margin: 10px;\n    float: right;\n} \n.blockquotes {\nbackground: none;\n
+  \   border-left: 5px solid #f1f1f1;\n    color: #8B8E97;\n    font-size: 16px;\n
+  \   font-style: italic;\n    line-height: 22px;\n    padding-left: 15px;\n    padding:
+  10px;\n    width: 60%;\n    float: left;\n} \n</style><link rel=\"icon\" href=\"https://worksourceskc.org/wp-content/uploads/2024/09/cropped-android-chrome-512x512-36x36.png\"
+  sizes=\"32x32\" />\n<link rel=\"icon\" href=\"https://worksourceskc.org/wp-content/uploads/2024/09/cropped-android-chrome-512x512-300x300.png\"
+  sizes=\"192x192\" />\n<link rel=\"apple-touch-icon\" href=\"https://worksourceskc.org/wp-content/uploads/2024/09/cropped-android-chrome-512x512-300x300.png\"
+  />\n<meta name=\"msapplication-TileImage\" content=\"https://worksourceskc.org/wp-content/uploads/2024/09/cropped-android-chrome-512x512-300x300.png\"
+  />\n<style id='asp-basic'>.asp_r .item{.price{--regular-price-color:#666;--sale_price_color:#666;color:var(--regular-price-color);del{opacity:.5;display:inline-block;text-decoration:line-through;color:var(--regular-price-color)}ins{margin-left:.5em;text-decoration:none;font-weight:700;display:inline-block;color:var(--sale_price_color)}}.stock{.quantity{color:#666}.out-of-stock{color:#a00}.on-backorder{color:#eaa600}.in-stock{color:#7ad03a}}.add-to-cart-container{display:flex;flex-wrap:wrap;align-items:center;position:relative;z-index:10;width:100%;margin:12px
+  0;.add-to-cart-quantity{padding:8px 0 8px 8px;background:#eaeaea;width:32px;border-radius:4px
+  0 0 4px;height:18px;min-height:unset;display:inline-block;font-size:13px;line-height:normal}.add-to-cart-button{padding:8px;border-radius:4px;background:#6246d7;color:white;height:18px;min-height:unset;display:block;text-align:center;min-width:90px;font-size:13px;line-height:normal;&.add-to-cart-variable{border-radius:4px}&.loading{content:url(\"data:image/svg+xml,%3Csvg
+  width='38' height='38' viewBox='0 0 38 38' xmlns='http://www.w3.org/2000/svg' stroke='%23fff'%3E%3Cg
+  fill='none' fill-rule='evenodd'%3E%3Cg transform='translate(1 1)' stroke-width='2'%3E%3Ccircle
+  stroke-opacity='.5' cx='18' cy='18' r='18'/%3E%3Cpath d='M36 18c0-9.94-8.06-18-18-18'%3E%3CanimateTransform
+  attributeName='transform' type='rotate' from='0 18 18' to='360 18 18' dur='1s' repeatCount='indefinite'/%3E%3C/path%3E%3C/g%3E%3C/g%3E%3C/svg%3E\")}}a.added_to_cart{flex-basis:100%;margin-top:8px}}.add-to-cart-container:has(.add-to-cart-quantity){.add-to-cart-button{border-radius:0
+  4px 4px 0}}.sale-badge{"
 source: WorkSource Seattle-King County
-source_url: https://www.worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-information-63/
+source_url: https://worksourceskc.org/event/dcyf-101-jobs-with-heart-and-impact-information-64/
 start_date: '2025-12-15T11:00:00-08:00'
 summarized: true
 title: 'DCYF 101: Jobs with Heart and Impact Information'
@@ -89,4 +246,4 @@ topics:
 - Employment & Job Support
 ---
 
-Join the DCYF 101: Jobs with Heart and Impact Information session on Dec. 15, 2025, from 11 a.m. to noon. This virtual event, hosted by WorkSource Seattle-King County, is designed for job seekers interested in employment with the Department of Children, Youth, and Families (DCYF). Attendees will gain valuable insights into Child Welfare positions, qualifications, and the application process, while also learning about DCYF's mission. This is an excellent opportunity to explore meaningful career paths that make a difference in the community.
+Join WorkSource Seattle-King County for "DCYF 101: Jobs with Heart and Impact Information" on Dec. 15, 2025, at 11 a.m. This informative session will provide attendees with insights into job opportunities within the Department of Children, Youth, and Families (DCYF). Participants can expect to learn about various roles that make a difference in the community, as well as the application process and support available for job seekers. Whether you're looking to start a career in social services or simply want to know more about impactful employment options, this event is a great opportunity to connect and engage with professionals in the field. Don't miss this chance to explore meaningful work that contributes to the well-being of children and families in your community.

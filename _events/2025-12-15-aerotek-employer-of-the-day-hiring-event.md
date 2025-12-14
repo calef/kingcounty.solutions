@@ -1,9 +1,6 @@
 ---
 end_date: '2025-12-15T12:00:00-08:00'
-images: []
-location: ''
-locations: []
-original_content: '<div> <div> <section> <title>WorkSource Seattle-King County</title>
+feed_content: '<div> <div> <section> <title>WorkSource Seattle-King County</title>
   <script>{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://worksourceskc.org/event/aerotek-employer-of-the-day-hiring-event-171/","url":"https://worksourceskc.org/event/aerotek-employer-of-the-day-hiring-event-171/","name":"AEROTEK
   - EMPLOYER OF THE DAY - HIRING EVENT - WorkSource Seattle-King County","isPartOf":{"@id":"https://www.worksourceskc.org/#website"},"datePublished":"2025-12-10T04:45:27+00:00","dateModified":"2025-12-12T18:34:57+00:00","description":"AEROTEK-
   Recruiting &amp; Staffing AgencyImproving access to career development opportunitiesCaring
@@ -70,59 +67,10 @@ original_content: '<div> <div> <section> <title>WorkSource Seattle-King County</
   WIOA Title III Wagner-Peyser Employment Services For more detailed information.see
   <em><strong><a>esd.wa.gov…</a></strong></em> </div> </div> </div> </section> </div>
   </section> </div> </div>'
-original_content_checksum: 12cdbad2f06c9e0399376591648d7d8c0b70e65c
-original_markdown_body: 'WorkSource Seattle-King County {"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://worksourceskc.org/event/aerotek-employer-of-the-day-hiring-event-171/","url":"https://worksourceskc.org/event/aerotek-employer-of-the-day-hiring-event-171/","name":"AEROTEK
-  - EMPLOYER OF THE DAY - HIRING EVENT - WorkSource Seattle-King County","isPartOf":{"@id":"https://www.worksourceskc.org/#website"},"datePublished":"2025-12-10T04:45:27+00:00","dateModified":"2025-12-12T18:34:57+00:00","description":"AEROTEK-
-  Recruiting &amp; Staffing AgencyImproving access to career development opportunitiesCaring
-  for the communities where we live and workHIRE","breadcrumb":{"@id":"https://worksourceskc.org/event/aerotek-employer-of-the-day-hiring-event-171/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://worksourceskc.org/event/aerotek-employer-of-the-day-hiring-event-171/"]}]},{"@type":"BreadcrumbList","@id":"https://worksourceskc.org/event/aerotek-employer-of-the-day-hiring-event-171/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"AEROTEK
-  &#8211; EMPLOYER OF THE DAY &#8211; HIRING EVENT"}]},{"@type":"WebSite","@id":"https://www.worksourceskc.org/#website","url":"https://www.worksourceskc.org/","name":"WorkSource
-  Seattle-King County","description":"Let&#039;s find your path together!","publisher":{"@id":"https://www.worksourceskc.org/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.worksourceskc.org/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://www.worksourceskc.org/#organization","name":"WorkSource
-  Seattle-King County","url":"https://www.worksourceskc.org/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.worksourceskc.org/#/schema/logo/image/","url":"","contentUrl":"","caption":"WorkSource
-  Seattle-King County"},"image":{"@id":"https://www.worksourceskc.org/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/worksourceskc/"]},{"@type":"Event","name":"AEROTEK
-  &#8211; EMPLOYER OF THE DAY &#8211; HIRING EVENT","description":"AEROTEK- Recruiting
-  &amp; Staffing AgencyImproving access to career development opportunitiesCaring
-  for the communities where we live and work HIRE EVENTMonday&hellip;","url":"https://worksourceskc.org/event/aerotek-employer-of-the-day-hiring-event-171/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2025-12-15T09:00:00-08:00","endDate":"2025-12-15T12:00:00-08:00","@id":"https://worksourceskc.org/event/aerotek-employer-of-the-day-hiring-event-171/#event","mainEntityOfPage":{"@id":"https://worksourceskc.org/event/aerotek-employer-of-the-day-hiring-event-171/"}}]}
-  AEROTEK – EMPLOYER OF THE DAY – HIRING EVENT – WorkSource Seattle-King County Skip
-  to main content        Job Board    Staff Log-In        Job Seekers   Get Started
-  with Personalized Support  Sign Up for Services Layoff Support    Self-Serve Resources  Career
-  Exploration Skills & Training Job Search   Workshops & Hiring Events    Employers   Business
-  Services  Employer Inquiry Form Business Connection Partners Business Assistance
-  & Workforce Support Small-Business Assistance Employee Development   Layoff Support,
-  Aversion and Retention    Locations  Auburn Downtown Seattle North Seattle Rainier
-  South Seattle   About            Go to Back to Calendar  AEROTEK – EMPLOYER OF THE
-  DAY – HIRING EVENT December 15 Monday | 9:00am - 12:00pm  Add to Calendar December
-  15 9:00am 12/15/2025 12:00pm America/Los_Angeles AEROTEK – EMPLOYER OF THE DAY –
-  HIRING EVENT AEROTEK- Recruiting & Staffing AgencyImproving access to career development
-  opportunitiesCaring for the communities where we live and work HIRE EVENTMonday…  WorkSource
-  Kitsap3120 NW Randall WaySilverdale, WA 98383 Sponsor: WORKSOURCE KITSAP/ SILVERDALE
-  Contact Name: Hildo Rodriguez Contact Email: merehildo.rodriguez@esd.wa.gov Workshop
-  Language: English Approved Unemployment Insurance (UI) Job Search Activity: Yes
-  Description:AEROTEK- Recruiting & Staffing AgencyImproving access to career development
-  opportunitiesCaring for the communities where we live and workHIRE EVENTMonday December
-  15, 20259:00 am – 12:00 noonEvent Held at:WorkSource Kitsap3120 NW Randall WaySilverdale,
-  WA 98383Hiring for the following:Positions Offered may be at Bangor Base or PSNS**
-  Shipyard Bremerton - Marine Electrician Bremerton, Washington, USA Facilities &
-  MaintenanceThe ideal candidate will have extensive experience with shipboard electrical
-  systems and demonstrate proficiency in interpreting technical documentation and
-  government drawings.** Shipyard Labor/Firewatch - Pay $22/hr.Bremerton, Washington,
-  USA Manufacturing & ProductionSeeking a dynamic role in a prestigious naval shipyard
-  where you can utilize your skills in firewatch duties and assist trades like mechanics
-  and welders. Enjoy a competitive pay of $22/hr, a focus on safety, and opportunities
-  for skill development in a supportive team environment.** Welder - Shipyard - Pay
-  $32-$34 An Hour Bremerton, Washington, USA Manufacturing & ProductionPerform various
-  welding techniques, including Stick and Flux, to join metal components according
-  to blueprints and specifications. Cut, shape, and assemble metal parts using hand
-  tools, power tools.PLEASE BRING 2 PIECES OF IDENTIFICATION SUCH AS ENHANCE DIVER’S
-  LICENSE, PASSPORT OR OTHER PICTURE ID.  (REQUIRED FOR SHIPYARD ENTRY)** (Entry Level)
-  Production Workers (non-shipyard position)Poulsbo, Washington, USA Manufacturing
-  & ProductionAre you looking for a hands-on opportunity in an electrical production
-  environment? Join a team crafting custom office furniture, utilizing your skills
-  such as Wood Fabrication, Wood Assembly, Steel Fabrication, and Steel Assembly.Bring
-  Your ResumeInterview one on one with an Aerotek RecruiterMust be registered onWorkSourcewa.comHow
-  To Register:•Go to www.worksourcewa.com•Click on “Job Seeker”•Create AccountThis
-  Hiring Event is made possible by the support and funding from the U.S. Department
-  of Labor’s WIOA Title III Wagner-Peyser Employment Services For more detailed information.see
-  esd.wa.gov…'
+feed_content_checksum: 12cdbad2f06c9e0399376591648d7d8c0b70e65c
+images: []
+location: ''
+locations: []
 published: false
 source: WorkSource Seattle-King County
 source_url: https://worksourceskc.org/event/aerotek-employer-of-the-day-hiring-event-171/

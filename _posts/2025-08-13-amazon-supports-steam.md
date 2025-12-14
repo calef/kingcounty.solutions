@@ -2,16 +2,7 @@
 date: '2025-08-13T21:03:39+00:00'
 events: []
 events_extracted: true
-images:
-- 77d3b9655da06438e3592ef119b6baab332dd2636fd758579c857c9c5b1a408d
-- 13962a00b731a4247afe8a6c6149a0632d6dbb30d6b6dd6934175be97859050a
-- c1c7f193143a361a4fda79b7db3aefb4021cba3fa26cb1e0e4a2d835869e2c06
-- f2d55610a8b39e59374fd23fa025e3804837ab999676a5054a941360ecf8dbdf
-- 16447bb6fce52de475618d2d520d75a7d1f1f27391bf1fbcd63de06b2a4a892f
-- 2871eaf1bcd716e13b2482eea47b235182c784b25efee16336eb40fcb14ea712
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <p>Partnering with Amazon has significantly enriched ReWA’s Youth Program by integrating advanced robotics into our STEAM curriculum. Through hands-on learning with the Path-Following Robot, students &#8211; many of whom lack access to such technology &#8211; are gaining essential 21st-century skills in coding, engineering, and automation.</p>
 
 
@@ -66,28 +57,15 @@ original_content: |-
   </div>
   </div>
   <p>The post <a href="https://www.rewa.org/amazon-support-steam/">Amazon Supports STEAM</a> appeared first on <a href="https://www.rewa.org">Refugee Women&#039;s Alliance</a>.</p>
-original_markdown_body: |-
-  Partnering with Amazon has significantly enriched ReWA’s Youth Program by integrating advanced robotics into our STEAM curriculum. Through hands-on learning with the Path-Following Robot, students – many of whom lack access to such technology – are gaining essential 21st-century skills in coding, engineering, and automation.
-
-  Our afterschool program now fosters deeper engagement, thanks to interactive projects and mentorship from Amazon volunteers. During a recent field trip to an Amazon facility, students collaborated with engineers to build and test robots, sparking curiosity and real-world insight into STEAM careers.
-
-  The Path-Following Robot introduces middle and high schoolers to core concepts in electronics, sensors, and Arduino programming. With ready-to-use components and customizable coding challenges, students explore how programmable hardware interacts with the physical world, developing problem-solving, teamwork, and computational thinking skills along the way.
-
-  We’re excited about the possibilities this partnership creates—and grateful for Amazon’s support in inspiring the next generation of innovators.
-
-  ![](https://www.rewa.org/wp-content/uploads/2025/08/IMG_5357-600x450.jpg)
-
-  ![](https://www.rewa.org/wp-content/uploads/2025/08/IMG_5352-600x450.jpg)
-
-  ![](https://www.rewa.org/wp-content/uploads/2025/08/IMG_5338-600x450.jpg)
-
-  ![](https://www.rewa.org/wp-content/uploads/2025/08/IMG_5336-600x450.jpg)
-
-  ![](https://www.rewa.org/wp-content/uploads/2025/08/IMG_5341-600x450.jpg)
-
-  ![](https://www.rewa.org/wp-content/uploads/2025/08/IMG_5350-600x450.jpg)
-
-  The post [Amazon Supports STEAM](https://www.rewa.org/amazon-support-steam/) appeared first on [Refugee Women's Alliance](https://www.rewa.org).
+images:
+- 77d3b9655da06438e3592ef119b6baab332dd2636fd758579c857c9c5b1a408d
+- 13962a00b731a4247afe8a6c6149a0632d6dbb30d6b6dd6934175be97859050a
+- c1c7f193143a361a4fda79b7db3aefb4021cba3fa26cb1e0e4a2d835869e2c06
+- f2d55610a8b39e59374fd23fa025e3804837ab999676a5054a941360ecf8dbdf
+- 16447bb6fce52de475618d2d520d75a7d1f1f27391bf1fbcd63de06b2a4a892f
+- 2871eaf1bcd716e13b2482eea47b235182c784b25efee16336eb40fcb14ea712
+locations:
+- King County
 source: Refugee Women's Alliance
 source_url: https://www.rewa.org/amazon-support-steam/?utm_source=rss&utm_medium=rss&utm_campaign=amazon-support-steam
 summarized: true

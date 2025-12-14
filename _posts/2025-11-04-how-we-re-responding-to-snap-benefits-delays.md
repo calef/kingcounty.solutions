@@ -2,16 +2,12 @@
 date: '2025-11-04T00:25:49+00:00'
 events: []
 events_extracted: true
+feed_content: |-
+  <p>Over the past week, we’ve felt an incredible outpouring of care from our community. So many of you have reached out to help, from donating funds and food, organizing donation drives, and signing up to [&#8230;]</p>
+  <p>The post <a href="https://www.familyworksseattle.org/how-were-responding-to-snap-benefits-delays/">How We&#8217;re Responding to SNAP Benefits Delays</a> appeared first on <a href="https://www.familyworksseattle.org">FamilyWorks Seattle</a>.</p>
 images: []
 locations:
 - King County
-original_content: |-
-  <p>Over the past week, we’ve felt an incredible outpouring of care from our community. So many of you have reached out to help, from donating funds and food, organizing donation drives, and signing up to [&#8230;]</p>
-  <p>The post <a href="https://www.familyworksseattle.org/how-were-responding-to-snap-benefits-delays/">How We&#8217;re Responding to SNAP Benefits Delays</a> appeared first on <a href="https://www.familyworksseattle.org">FamilyWorks Seattle</a>.</p>
-original_markdown_body: |-
-  Over the past week, we’ve felt an incredible outpouring of care from our community. So many of you have reached out to help, from&nbsp;donating funds&nbsp;and&nbsp;food,&nbsp;organizing donation drives, and&nbsp;signing up to […]
-
-  The post [How We’re Responding to SNAP Benefits Delays](https://www.familyworksseattle.org/how-were-responding-to-snap-benefits-delays/) appeared first on [FamilyWorks Seattle](https://www.familyworksseattle.org).
 source: FamilyWorks Seattle
 source_url: https://www.familyworksseattle.org/how-were-responding-to-snap-benefits-delays/
 summarized: true

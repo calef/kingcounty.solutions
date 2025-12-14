@@ -1,10 +1,6 @@
 ---
 end_date: '2025-12-16T11:30:00-08:00'
-images: []
-location: "[ONLINE] Virginia Mason Franciscan Health"
-locations:
-- King County
-original_content: "<header> <div> <div><div> <div><div> <a>Lifeline</a> | 206.297.2500
+feed_content: "<header> <div> <div><div> <div><div> <a>Lifeline</a> | 206.297.2500
   | 1.800.255.5505 | <a>Lifeline Chat</a> </div></div> </div></div> </div> </header>
   <div> <div> <div> <div> <section> <div> <p> <a> « All Events</a> </p> <h1>Pancreatic
   Cancer Support Group: Building Resilience Sponsored by Virginia Mason Franciscan
@@ -36,23 +32,11 @@ original_content: "<header> <div> <div><div> <div><div> <a>Lifeline</a> | 206.29
   Us</a></li> </ul> </div> </aside><aside><h3>Get Involved</h3> <div> <ul> <li><a>Ways
   to Give</a></li> <li><a>Volunteer with Us</a></li> <li><a>Donate Now</a></li> <li><a>Planned
   Giving</a></li> </ul> </div> </aside> </div> </div> </div> </div>"
-original_content_checksum: fde36ff16b08c2ce180428351eb1f29cbd84af69
-original_markdown_body: 'Lifeline | 206.297.2500 | 1.800.255.5505 | Lifeline Chat             «
-  All Events  Pancreatic Cancer Support Group: Building Resilience Sponsored by Virginia
-  Mason Franciscan Health   December 16 @ 10:00 am - 11:30 am  PST     Event Series    (See
-  All)       Tuesday meetings provide educational presentations and a supportive environment
-  to share with others living with pancreatic cancer. Open to patients and caregivers.
-  Facilitated by Kathryn Swingle, MSW, LICSW & Jennifer Bryan, BSN, RN, OCN,  Pancreatic
-  Nurse Navigator Every other Tuesday, 10:00am-11:30am Currently offered online via
-  Zoom. Call 206-341-0930 to RSVP.         Google Calendar     iCalendar     Outlook
-  365     Outlook Live           Details    Date:   December 16     Time:   10:00
-  am - 11:30 am PST    Series:    Pancreatic Cancer Support Group: Building Resilience
-  Sponsored by Virginia Mason Franciscan Health    Event Category: Support Groups      Venue    [ONLINE]
-  Virginia Mason Franciscan Health                Info   6522 Fremont Ave N Seattle,
-  WA 98103   Monday through Friday 9:00 AM – 5:00 PM   [email protected]   Call Us:
-  1-206-297-2100   I’m New   FAQ Classes Support Groups Programs & Services   About
-  Us   Team History Partnerships & Sponsors Jobs Privacy Policy Contact Us   Get Involved   Ways
-  to Give Volunteer with Us Donate Now Planned Giving'
+feed_content_checksum: fde36ff16b08c2ce180428351eb1f29cbd84af69
+images: []
+location: "[ONLINE] Virginia Mason Franciscan Health"
+locations:
+- King County
 source: Cancer Lifeline Financial Assistance for Cancer Patients
 source_url: https://cancerlifeline.org/event/pancreatic-cancer-support-group-building-resilience-sponsored-by-virginia-mason-franciscan-health/2025-12-16/
 start_date: '2025-12-16T10:00:00-08:00'

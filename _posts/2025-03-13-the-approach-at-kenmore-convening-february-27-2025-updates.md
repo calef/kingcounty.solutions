@@ -2,16 +2,12 @@
 date: '2025-03-13T23:55:56+00:00'
 events: []
 events_extracted: true
+feed_content: |-
+  <p>On February 27, 2025, Imagine Housing hosted a community convening with the City of Kenmore at Kenmore City Hall to talk about<span class="excerpt-hellip"> […]</span></p>
+  <p>The post <a href="https://imaginehousing.org/the-approach-at-kenmore-convening-february-27-2025-updates/">The Approach at Kenmore Convening February 27, 2025 Updates</a> appeared first on <a href="https://imaginehousing.org">Imagine Housing</a>.</p>
 images: []
 locations:
 - King County
-original_content: |-
-  <p>On February 27, 2025, Imagine Housing hosted a community convening with the City of Kenmore at Kenmore City Hall to talk about<span class="excerpt-hellip"> […]</span></p>
-  <p>The post <a href="https://imaginehousing.org/the-approach-at-kenmore-convening-february-27-2025-updates/">The Approach at Kenmore Convening February 27, 2025 Updates</a> appeared first on <a href="https://imaginehousing.org">Imagine Housing</a>.</p>
-original_markdown_body: |-
-  On February 27, 2025, Imagine Housing hosted a community convening with the City of Kenmore at Kenmore City Hall to talk about […]
-
-  The post [The Approach at Kenmore Convening February 27, 2025 Updates](https://imaginehousing.org/the-approach-at-kenmore-convening-february-27-2025-updates/) appeared first on [Imagine Housing](https://imaginehousing.org).
 source: Imagine Housing
 source_url: https://imaginehousing.org/the-approach-at-kenmore-convening-february-27-2025-updates/
 summarized: true

@@ -1,8 +1,6 @@
 ---
 date: '2025-10-23T18:03:53+00:00'
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   By Steven Schauer, Deputy Executive Director
 
   Each year, the King County Flood Control District (KCFCD) sets aside funding through its Subregional Opportunity Fund for use by cities and jurisdictions within King County. These funds support the design and implementation of projects that reduce flood and stormwater risks. Projects focused on water quality or habitat improvement are also eligible, provided they directly address flooding or stormwater management.
@@ -195,6 +193,8 @@ original_content: |-
   The project will clean debris and blockage out of storm lines and camera along 94TH AVE NE and 47TH ST; as well as 36TH ST, 90TH AVE NE, 91ST AVE NE, and 34TH ST. The project will address the stormwater management and maintenance needed for the noted areas, as outlined in the Storm Camera and Clean Schedule. The proposed activity will remove any build-up or debris within the stormwater system, increasing efficiency and maintaining the infrastructure.
 
   The post [2025 Subregional Opportunity Fund Project](https://kingcountyfloodcontrol.org/2025-subregional-opportunity-fund-project/) appeared first on [King County Flood Control District](https://kingcountyfloodcontrol.org).
+images: []
+locations: []
 published: false
 source: King County Flood Control District
 source_url: https://kingcountyfloodcontrol.org/2025-subregional-opportunity-fund-project/?utm_source=rss&utm_medium=rss&utm_campaign=2025-subregional-opportunity-fund-project
@@ -204,7 +204,7 @@ topics:
 - Health Care
 ---
 
-# King County Flood Control District's 2025 Subregional Opportunity Fund
+## King County Flood Control District's 2025 Subregional Opportunity Fund
 
 The King County Flood Control District allocates annual funding through its Subregional Opportunity Fund to assist cities and jurisdictions in flood and stormwater risk reduction projects. Representing 10.23% of the district's levy proceeds, this year’s fund totals over $8.6 million, pending budget approval. Projects include habitat restoration, stormwater management improvements, and infrastructure upgrades across 40 jurisdictions. Notable funded initiatives for 2025 include culvert replacements, invasive species removal, and stormwater bypass systems, all aimed at enhancing community safety and environmental resilience.
 

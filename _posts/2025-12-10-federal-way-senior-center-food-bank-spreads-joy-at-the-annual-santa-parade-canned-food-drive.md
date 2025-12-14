@@ -2,16 +2,13 @@
 date: '2025-12-10T18:05:25+00:00'
 events: []
 events_extracted: true
+feed_content: The Federal Way Senior Center Food Bank was proud to join South King
+  Fire &amp; Rescue once again for the beloved Santa Parade and Canned Food Drive!
+  On a crisp […]
+feed_content_checksum: 6b674175c8fd0a985be17d308953f8c6cb121ece
 images: []
 locations:
 - King County
-original_content: The Federal Way Senior Center Food Bank was proud to join South
-  King Fire &amp; Rescue once again for the beloved Santa Parade and Canned Food Drive!
-  On a crisp […]
-original_content_checksum: 6b674175c8fd0a985be17d308953f8c6cb121ece
-original_markdown_body: The Federal Way Senior Center Food Bank was proud to join
-  South King Fire & Rescue once again for the beloved Santa Parade and Canned Food
-  Drive! On a crisp […]
 source: Federal Way Senior Center
 source_url: https://federalwayseniorcenter.org/federal-way-senior-center-food-bank-spreads-joy-at-the-annual-santa-parade-canned-food-drive/
 summarized: true

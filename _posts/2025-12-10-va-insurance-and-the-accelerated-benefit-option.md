@@ -2,10 +2,7 @@
 date: '2025-12-10T14:30:00+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <p>VA has announced an amendment to the <a>Servicemembers’ Group Life Insurance</a> (SGLI), Family SGLI (FSGLI), and Veterans’ Group Life Insurance (VGLI) Accelerated Benefit Option (ABO) <a>regulation</a>.</p>
 
 
@@ -33,19 +30,10 @@ original_content: |-
 
 
   <p>This change comes as an update to the ABO that’s been in effect since 1998 when only the member could apply. Visit <a>VA benefits</a> for more information, or to apply.<a></a></p>
-original_content_checksum: 5a717346a8e8976122e304376f88628f94b3e978
-original_markdown_body: |-
-  VA has announced an amendment to the Servicemembers’ Group Life Insurance (SGLI), Family SGLI (FSGLI), and Veterans’ Group Life Insurance (VGLI) Accelerated Benefit Option (ABO) regulation.
-
-  This update allows an alternate applicant to apply for an ABO on a member’s behalf, such as when a member is medically incapacitated. With accelerated benefits, you can get up to 50% of the face value of your coverage in increments of $5,000—paid to you before death.
-
-  This change will:
-
-  - Allow an alternate applicant to apply for the ABO on behalf of a terminally ill member, who is medically incapacitated.
-  - Authorize a member to apply for the ABO when their insured spouse is terminally ill.
-  - Ensure that stepchildren and children, who are 18-22 and in school, are included in FSGLI dependent child coverage.
-
-  This change comes as an update to the ABO that’s been in effect since 1998 when only the member could apply. Visit VA benefits for more information, or to apply.
+feed_content_checksum: 5a717346a8e8976122e304376f88628f94b3e978
+images: []
+locations:
+- King County
 source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143584/insurance-accelerated-benefit/
 summarized: true

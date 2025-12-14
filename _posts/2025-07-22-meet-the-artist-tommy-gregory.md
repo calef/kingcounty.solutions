@@ -1,8 +1,6 @@
 ---
 date: '2025-07-22T18:15:29+00:00'
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   <figure class="wp-block-gallery has-nested-images columns-default is-cropped wp-block-gallery-1 is-layout-flex wp-block-gallery-is-layout-flex">
   <figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="794" height="1000" data-id="3334" src="https://www.seedseattle.org/wp-content/uploads/2025/07/Tommy-Gregory-by-Casey-Arguelles-Gregory-2020-side-view-1000px.jpg" alt="Tommy-Gregory-by-Casey-Arguelles-Gregory" class="wp-image-3334" srcset="https://www.seedseattle.org/wp-content/uploads/2025/07/Tommy-Gregory-by-Casey-Arguelles-Gregory-2020-side-view-1000px.jpg 794w, https://www.seedseattle.org/wp-content/uploads/2025/07/Tommy-Gregory-by-Casey-Arguelles-Gregory-2020-side-view-1000px-238x300.jpg 238w, https://www.seedseattle.org/wp-content/uploads/2025/07/Tommy-Gregory-by-Casey-Arguelles-Gregory-2020-side-view-1000px-768x967.jpg 768w" sizes="(max-width: 794px) 100vw, 794px" /></figure>
 
@@ -27,19 +25,8 @@ original_content: |-
 
   <p></p>
   <p>The post <a href="https://www.seedseattle.org/meet-the-artist-tommy-gregory/">Meet the artist: Tommy Gregory</a> appeared first on <a href="https://www.seedseattle.org">SouthEast Effective Development</a>.</p>
-original_markdown_body: "![Tommy-Gregory-by-Casey-Arguelles-Gregory](https://www.seedseattle.org/wp-content/uploads/2025/07/Tommy-Gregory-by-Casey-Arguelles-Gregory-2020-side-view-1000px.jpg)\n\n![Dove-in-Bronze-by-Tommy-Gregory](https://www.seedseattle.org/wp-content/uploads/2025/07/Dove-in-Bronze-by-Tommy-Gregory-1000px.jpg)\n\n![TGregory_HolyLoading](https://www.seedseattle.org/wp-content/uploads/2025/07/TGregory_HolyLoading1.1-770x1024.jpg)\n\nTommy
-  Gregory is an artist, curator, and arts administrator. He earned his BFA from the
-  University of Houston and his MFA from the University of Texas at San Antonio. He
-  creates some of his work at the [SEEDArts Studios](https://www.seedseattle.org/seedarts-studios/),
-  including the neon you may have seen in SEED’s [Rainier Arts Center](https://rainierartscenter.org/)
-  windows. He curates The Space in Columbia City and is active in the local arts community.
-  Gregory is also the Public Art Program Sr. Manager and Curator for the Port of Seattle
-  at Pier 69. He lives in Seattle with his wife, artist and writer Casey Arguelles
-  Gregory, and their 12-year-old daughter Clementine, who enjoys blowing glass and
-  playing basketball.\n\n[Learn more about Tommy Gregory](http://www.tommygregory.com/)
-  \ \n[Follow him on Instagram](https://www.instagram.com/tommy.g.human/)\n\nThe post
-  [Meet the artist: Tommy Gregory](https://www.seedseattle.org/meet-the-artist-tommy-gregory/)
-  appeared first on [SouthEast Effective Development](https://www.seedseattle.org)."
+images: []
+locations: []
 published: false
 source: SouthEast Effective Development
 source_url: https://www.seedseattle.org/meet-the-artist-tommy-gregory/

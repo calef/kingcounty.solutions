@@ -1,16 +1,12 @@
 ---
 date: '2025-12-10T00:56:37+00:00'
+feed_content: The City of Seattle has awarded $935,448 to support 23 community-initiated
+  projects through the Seattle Department of Neighborhoods’ Neighborhood Matching
+  Fund Community Partnership Fund. These community groups received awards averaging
+  $40,672 and hav...
+feed_content_checksum: 4849b50e02904910ede30d865af107761223f219
 images: []
 locations: []
-original_content: The City of Seattle has awarded $935,448 to support 23 community-initiated
-  projects through the Seattle Department of Neighborhoods’ Neighborhood Matching
-  Fund Community Partnership Fund. These community groups received awards averaging
-  $40,672 and hav...
-original_content_checksum: 4849b50e02904910ede30d865af107761223f219
-original_markdown_body: The City of Seattle has awarded $935,448 to support 23 community-initiated
-  projects through the Seattle Department of Neighborhoods’ Neighborhood Matching
-  Fund Community Partnership Fund. These community groups received awards averaging
-  $40,672 and hav...
 published: false
 source: City of Seattle
 source_url: https://frontporch.seattle.gov/2025/12/09/community-initiated-projects-receive-935000-in-seattle-neighborhood-funding/

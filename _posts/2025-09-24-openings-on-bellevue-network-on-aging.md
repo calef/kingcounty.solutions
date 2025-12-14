@@ -2,10 +2,7 @@
 date: '2025-09-24T22:45:52+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- Bellevue
-original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Openings
+feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Openings
   on Bellevue Network on Aging </span>\n<span class=\"field field--name-uid field--type-entity-reference
   field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\" typeof=\"schema:Person\"
   property=\"schema:name\" datatype>CIosso</span></span>\n<span class=\"field field--name-created
@@ -28,18 +25,9 @@ original_content: "<span class=\"field field--name-title field--type-string fiel
   \     \n\n            <div class=\"field field--name-field-article-date field--type-datetime
   field--label-hidden field__item\"><time datetime=\"2025-09-24T12:00:00Z\" class=\"datetime\">September
   24 2025</time>\n</div>\n      \n    </div>\n  </div>"
-original_markdown_body: |-
-  Openings on Bellevue Network on Aging CIosso<time datetime="2025-09-24T15:45:52-07:00" title="Wednesday, September 24, 2025 - 15:45" class="datetime">Wed, 09/24/2025 - 15:45</time>
-
-  The City of Bellevue is recruiting new members for the Bellevue Network on Aging, a group that supports healthy aging in our community. Interested candidates may [apply online](https://bellevuewa.gov/sites/default/files/media/pdf_document/2022/BNOA-Application-Form-2022.pdf) by Friday, Oct. 19.
-
-  The Network on Aging promotes awareness of needs and resources that support older adults through life transitions. Through effective outreach, regional collaboration and community involvement, the Network champions the well-being of older adults in Bellevue.
-
-  Members serve on the Network on Aging for a term of three years with a commitment of six to 12 hours per month. Members must live or work in Bellevue, and 51% of the group must be over 50 years old.
-
-  For more information, please contact community services supervisor Dan Lassiter, 425-452-4470 or [dlassiter@bellevuewa.gov](mailto:dlassiter@bellevuewa.gov).&nbsp;
-
-  <time datetime="2025-09-24T12:00:00Z" class="datetime">September 24 2025</time>
+images: []
+locations:
+- Bellevue
 source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/noa-25
 summarized: true

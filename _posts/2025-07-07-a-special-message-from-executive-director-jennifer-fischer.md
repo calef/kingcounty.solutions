@@ -2,10 +2,7 @@
 date: '2025-07-07T16:00:20+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <figure class="wp-block-embed is-type-video is-provider-vimeo wp-block-embed-vimeo wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
   <iframe loading="lazy" title="A special message from Jennifer Fischer" src="https://player.vimeo.com/video/1099492513?dnt=1&amp;app_id=122963" width="1264" height="711" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write; encrypted-media; web-share"></iframe>
   </div></figure>
@@ -23,14 +20,9 @@ original_content: |-
 
 
   <p></p><p>The post <a href="https://www.bellevuelifespring.org/impact/special-message/">A special message from Executive Director Jennifer Fischer</a> first appeared on <a href="https://www.bellevuelifespring.org">Bellevue LifeSpring</a>.</p><p>The post <a href="https://www.bellevuelifespring.org/impact/special-message/">A special message from Executive Director Jennifer Fischer</a> appeared first on <a href="https://www.bellevuelifespring.org">Bellevue LifeSpring</a>.</p>
-original_markdown_body: |-
-  https://player.vimeo.com/video/1099492513?dnt=1&app_id=122963
-
-  [Support Bellevue Kids](https://www.bellevuelifespring.org/donate/)
-
-  The post [A special message from Executive Director Jennifer Fischer](https://www.bellevuelifespring.org/impact/special-message/) first appeared on [Bellevue LifeSpring](https://www.bellevuelifespring.org).
-
-  The post [A special message from Executive Director Jennifer Fischer](https://www.bellevuelifespring.org/impact/special-message/) appeared first on [Bellevue LifeSpring](https://www.bellevuelifespring.org).
+images: []
+locations:
+- King County
 source: Bellevue LifeSpring
 source_url: https://www.bellevuelifespring.org/impact/special-message/?utm_source=rss&utm_medium=rss&utm_campaign=special-message
 summarized: true

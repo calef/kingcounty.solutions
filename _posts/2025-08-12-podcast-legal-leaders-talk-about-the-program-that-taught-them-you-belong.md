@@ -2,13 +2,7 @@
 date: '2025-08-12T21:24:25+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- Eastside
-- Bryn Mawr-Skyway
-- Lake Forest Park
-- Kenmore
-original_content: |-
+feed_content: |-
   By Annika Hauer, ELAP intern
 
   The [Washington Leadership Institute](https://www.law.uw.edu/academics/continuing-education/wli) (WLI), a collaborative project between the Washington Bar Association and the UW School of Law, released a podcast this summer to celebrate 20 years of building the next generation of leaders.
@@ -32,6 +26,12 @@ original_content: |-
   The podcast is free to listen to on [Spotify](https://open.spotify.com/show/6VanHQpy6PCe34o90fSFEt?si=k7meIJilT22qkSgSq6TiAA&nd=1&dlsi=a0989f07bef541ef), [YouTube](https://www.youtube.com/@wli20thanniversary), and [Apple Music](https://podcasts.apple.com/us/podcast/wli-presents-voices-that-move-us/id1830142675). View the criteria to apply to be a WLI fellow [here](https://www.law.uw.edu/academics/continuing-education/wli).
 
   The post [Podcast: Legal leaders talk about the program that taught them “you belong”](https://elap.org/podcast-legal-leaders-talk-about-the-program-that-taught-them-you-belong/) appeared first on [Eastside Legal Assistance Program](https://elap.org).
+images: []
+locations:
+- Eastside
+- Bryn Mawr-Skyway
+- Lake Forest Park
+- Kenmore
 source: Eastside Legal Assistance Program
 source_url: https://elap.org/podcast-legal-leaders-talk-about-the-program-that-taught-them-you-belong/?utm_source=rss&utm_medium=rss&utm_campaign=podcast-legal-leaders-talk-about-the-program-that-taught-them-you-belong
 summarized: true

@@ -2,17 +2,13 @@
 date: '2025-12-04T00:06:03+00:00'
 events: []
 events_extracted: true
+feed_content: 'Blog stats: 250 words &#124; 2-minute read Seattle, get ready! Sound
+  Transit, the transportation agency that manages the Link light rail system, is opening
+  three new 1 Line stations in the greater Seattle area on Saturday, December 6. While
+  the Seattle...'
 images: []
 locations:
 - King County
-original_content: 'Blog stats: 250 words &#124; 2-minute read Seattle, get ready!
-  Sound Transit, the transportation agency that manages the Link light rail system,
-  is opening three new 1 Line stations in the greater Seattle area on Saturday, December
-  6. While the Seattle...'
-original_markdown_body: 'Blog stats: 250 words | 2-minute read Seattle, get ready!
-  Sound Transit, the transportation agency that manages the Link light rail system,
-  is opening three new 1 Line stations in the greater Seattle area on Saturday, December
-  6. While the Seattle...'
 source: City of Seattle
 source_url: https://sdotblog.seattle.gov/2025/12/03/federal-way-link-extension/
 summarized: true

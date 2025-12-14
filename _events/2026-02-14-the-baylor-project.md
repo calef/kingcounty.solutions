@@ -1,10 +1,6 @@
 ---
 end_date: '2026-02-14T22:00:00-08:00'
-images: []
-location: Meany Hall (MNY)
-locations:
-- King County
-original_content: '<a href="#main-content" class="element-invisible element-focusable">Skip
+feed_content: '<a href="#main-content" class="element-invisible element-focusable">Skip
   to main content</a> <div class="l-page has-one-sidebar has-sidebar-first"> <div
   class="full-wrapper header"> <header class="l-header" role="banner"> <a href="#main-content"
   class="element-invisible element-focusable">Skip to main content</a> <div class="l-branding">
@@ -119,29 +115,10 @@ original_content: '<a href="#main-content" class="element-invisible element-focu
   Baylor Project Instagram</a>| <a href="https://www.youtube.com/channel/UC-YhNTPtJDp2ge8sr45b0vg">The
   Baylor Project YouTube</a> </div> </div> </div> </div> </div> </div> </div> </div>
   </div> </div>'
-original_markdown_body: Skip to main content    Skip to main content  Meany Center  Official
-  Site   Show Navigation Hide Navigation    My Account  Calendar                  fy26-baylor-project-hero.jpg             You
-  are here  Events & Tickets >The Baylor Project     The Baylor Project  Feb 142026           Performance
-  Dates    Sat Feb 14 2026 8:00 PM      Buy TicketsSubscribe Now    Venue   Meany
-  Hall – Katharyn Alvord Gerlich Theater     ticket@uw.edu   (206) 543-4880   Get
-  Directions      Share    Share on Facebook       Celebrate Valentine’s Day with
-  8x Grammy nominee and NAACP Image Award winner The Baylor Project — featuring vocalist
-  Jean Baylor and drummer Marcus Baylor. Steeped in the heart of jazz, with dynamic
-  performances that are soulful to the core, their musical roots are deeply planted
-  in gospel, blues and R&B. Their eclectic sound and infectious chemistry provide
-  the perfect backdrop for a memorable evening filled with vibrant, spiritual, feel-good
-  music. Jean and Marcus Baylor are a married couple whose buoyant, convivial music
-  unites gospel, jazz and R&B.  — The New York Times                Upcoming Site
-  Maintenance This site will undergo planned maintenance December 13–17. During this
-  period, online ticket purchases will be unavailable. To buy a ticket, please contact
-  the ArtsUW Ticket Office.  Contact Us    Subscriber Care Commitment We are committed
-  to making your Meany experience the best it can be.  LEARN MORE    Subscriber Extra
-  Tickets Save 10% on additional tickets. Enjoy pre-sale access to special events.  Add
-  Now    Accessibility The University of Washington is committed to providing access,
-  equal opportunity and reasonable accommodation in its services, programs and activities
-  for individuals with disabilities.   Learn More              Watch       the_baylor_project_-_walk_with_me_lord_sound_spirit_official_music_video                Learn
-  More       About the Artist     The Baylor Project Official Website| The Baylor
-  Project Facebook| The Baylor Project Instagram| The Baylor Project YouTube
+images: []
+location: Meany Hall (MNY)
+locations:
+- King County
 published: false
 source: University of Washington
 source_url: https://meanycenter.org/tickets/2026-02/production/baylor-project

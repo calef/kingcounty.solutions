@@ -2,9 +2,7 @@
 date: '2025-11-14T00:20:20+00:00'
 events: []
 events_extracted: true
-images: []
-locations: []
-original_content: "<p><div class=\"et_pb_section et_pb_section_0 blog-post-type et_section_regular\"
+feed_content: "<p><div class=\"et_pb_section et_pb_section_0 blog-post-type et_section_regular\"
   >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_row
   et_pb_row_0\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4 et_pb_column_0
   \ et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div
@@ -102,38 +100,8 @@ original_content: "<p><div class=\"et_pb_section et_pb_section_0 blog-post-type 
   post <a href=\"https://lcsnw.org/2025/11/lcsnw-volunteer-stands-by-survivors/\">At
   the hospital and on the hotline, LCSNW volunteer stands by survivors</a> appeared
   first on <a href=\"https://lcsnw.org\">LCSNW</a>.</p>"
-original_markdown_body: |-
-  # At the hospital and on the hotline, LCSNW volunteer stands by survivors
-
-  _This is one in a series of volunteer spotlight stories by Volunteer Manager Alex Power._
-
-  As a Crisis Response Advocate (CRA) volunteer in Spokane,&nbsp; **Wendy Bachman** &nbsp;believes in the power of showing up for others during their most vulnerable moments.&nbsp; Wendy, and all the CRA volunteers, support individuals experiencing trauma, crisis, or violence by sharing compassion and courage through every call they answer.&nbsp;
-
-  “Every time I help someone, I’m reminded that kindness and connection can be life-changing, for them and for me,” Wendy said.&nbsp;
-
-  As part of LCSNW’s Community Sexual Assault Program, CRA volunteers provide one-of-a-kind support. They answer the 24/7 sexual assault support line after hours and provide relief for staff during business hours by answering calls.
-
-  Volunteers respond in person to hospital calls when a survivor of sexual assault goes to the ER for medical care or evidence collection. No matter the time of day, these volunteers are available.&nbsp;&nbsp;
-
-  Wendy’s numbers are impressive: 500 on-call hours, 40 hotline calls, and 15 hospital calls.&nbsp;
-
-  Whether managing calls or supporting survivors through immediate crises, Wendy consistently demonstrates empathy, strength, and a deep commitment to advocacy. Drawing from her nursing background and personal experiences, Wendy offers support and empowerment to those impacted by sexual assault. Her calm presence and thoughtful communication have made a meaningful difference in the lives of many.
-
-  &nbsp;Wendy recently celebrated 5 years as a CRA volunteer and shared that she is continuously blown away by the resilience and strength of the survivors she works with. Their power inspires her to continue volunteering and be a steady presence for them.&nbsp;&nbsp;
-
-  Volunteering has not only strengthened Wendy’s sense of purpose, but it’s also improved her own well-being. She strongly encourages others to take the leap and reach out about volunteering.
-
-  “You might just find that helping others helps you, too,” she said.
-
-  Thank you, Wendy, for showing up when it matters most. Your work embodies the heart of what it means to advocate for survivors and support our communities in times of need.
-
-  **Interested in volunteering for LCSNW?**
-
-  Please go to our volunteer webpage at [https://lcsnw.org/make-a-difference/volunteer/](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Flcsnw.org%2Fmake-a-difference%2Fvolunteer%2F&data=05%7C02%7CMMisterek%40lcsnw.org%7C1b3585cf7dc841ba134908ddd50df209%7Cebde5e19b4234db3a6aa702f10df1177%7C0%7C0%7C638900978155945735%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C4000%7C%7C%7C&sdata=9Bs%2FuvcZdttbLD8MgABPrUr9fvPyY4fxin14JIvu49Q%3D&reserved=0 "Original URL: https://lcsnw.org/make-a-difference/volunteer/. Click or tap if you trust this link.")&nbsp;or email lcsnw-volunteers@lcsnw.org
-
-   ![Teenagers and young adults stand in a group discussion](https://lcsnw.org/wp-content/uploads/2025/11/WendyBachman3.jpg "WendyBachman3")
-
-  The post [At the hospital and on the hotline, LCSNW volunteer stands by survivors](https://lcsnw.org/2025/11/lcsnw-volunteer-stands-by-survivors/) appeared first on [LCSNW](https://lcsnw.org).
+images: []
+locations: []
 published: false
 source: Lutheran Community Services Northwest
 source_url: https://lcsnw.org/2025/11/lcsnw-volunteer-stands-by-survivors/

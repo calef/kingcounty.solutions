@@ -2,10 +2,7 @@
 date: '2025-04-14T19:11:38+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <p>She told you she’s pregnant&#8230;now you might be freaking out.&nbsp;</p>
 
 
@@ -181,79 +178,9 @@ original_content: |-
   <div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
   <div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="https://carenetps.org/make-appointment/">Book No-Cost Appointment</a></div>
   </div><p>The post <a href="https://carenetps.org/my-girlfriend-is-pregnant-what-do-i-do/">My Girlfriend is Pregnant. What Do I Do?</a> first appeared on <a href="https://carenetps.org">Care Net of Puget Sound</a>.</p>
-original_markdown_body: |-
-  She told you she’s pregnant…now you might be freaking out.&nbsp;
-
-  Maybe you’re in high school or college. Or maybe you already have other kids to support. You might even be wondering if you have a say in the pregnancy at all.&nbsp;&nbsp;
-
-  Here’s a few pointers on how you should handle this new information.
-
-  # **My girlfriend is pregnant. Now what?**
-
-  ## **Be real with yourself**
-
-  You may be flooded with all sorts of overwhelming questions and emotions.&nbsp;
-
-  Whatever your situation is, it’s completely normal to be wondering how this will all work out.&nbsp;
-
-  Before jumping into how you will navigate this situation, first figure out what you are truly thinking and feeling. Here are a few questions to ask yourself:&nbsp;&nbsp;
-
-  - **How am I feeling about this pregnancy?** Angry, ashamed, overwhelmed, nervous, scared, kind of excited?&nbsp;&nbsp;
-  - **Why am I feeling those things?** Am I mad at myself for letting this happen? Am I nervous about what my parents will think of me? Am I scared of what my future will look like? Am I wondering if I even want to be with my girlfriend in the future?&nbsp;
-  - **What is it that I might be scared of?** That I won’t be a good dad? That I might not be a good parental figure in my child’s life…after all, I didn’t have a good role model to follow. What if my girlfriend ends up wanting to leave me?&nbsp;&nbsp;
-
-  Working through some of these questions can help you figure out where your feelings are coming from. From there, you can decide how to work through them and whether you want your fears or your courage to drive what pregnancy decision you both choose.&nbsp;
-
-  ## **Know your role in this pregnancy**
-
-  Some men may feel like they don’t get a say in the pregnancy since they aren’t the one’s carrying it. Maybe you feel like you need to stay silent or are obligated to tell her you support whatever she chooses.&nbsp;
-
-  Even though the final decision may ultimately be hers, unexpected pregnancies involve both the woman and the man, therefore it is your right to voice what you want. And the reality is she most likely _WANTS_ to know what you think and feel about this too.&nbsp;
-
-  If you have strong feelings about the pregnancy, speak up respectfully and with gentleness. Don’t be afraid to share all the questions, feelings, and fears you have been working through. She desperately needs to be affirmed in what your intentions are and know she is not alone.&nbsp;
-
-  Make sure you don’t pressure her into making a decision, no matter what you think the right decision is.&nbsp;
-
-  If you are scared about[financial worries](https://carenetps.org/im-pregnant-and-cant-afford-the-baby/),[relational problems](https://carenetps.org/how-many-relationships-stay-together-after-an-abortion/), or feeling underprepared to be a father, Care Net of Puget Sound has[resources just for you.](https://carenetps.org/men/) You don’t have to navigate this journey alone.&nbsp;
-
-  ## **Support her**
-
-  Just like you might be freaking out, she more than likely is too. Listen to her. Listen to what she is feeling. Listen to what she wants.&nbsp;
-
-  Let her know how important she is to you and that you are here with her every step of the way.&nbsp;&nbsp;
-
-  Talk to her like you are a team. It is no longer _me_ and _you,_ it is _us_ and _we. “We are pregnant. So, let’s make a plan together.”_ You can start by offering to go with her to a pregnancy test and ultrasound appointment.&nbsp;&nbsp;
-
-  Talk through your[pregnancy options](https://carenetps.org/know-your-pregnancy-options/), what you both want the future to look like, and what steps you need to take to get there together. Regardless of where you think the relationship might end up down the road, you are _both_ parents.&nbsp;&nbsp;
-
-  At Care Net of Puget Sound, we offer[free ultrasounds](https://carenetps.org/free-viability-ultrasound/) to find out how far along you are (which determines what pregnancy options are available to you). We also offer free pregnancy consultations to help you be informed about what options and resources are best for you.&nbsp;&nbsp;
-
-  ## **Don’t try to make decisions alone**
-
-  It can be tempting to try to make this decision alone. While the decision does rest on what you and your partner agree upon, it is always a good idea to get advice from one or two other people you trust, especially if you are considering[abortion.](https://carenetps.org/abortion/)&nbsp;
-
-  It can be extremely hard to see clearly when in a state of worry and fear. Talking to your parents or a trusted friend can help you see another side to things.&nbsp;
-
-  You both need a support system right now. Find someone to talk to together or people to lean on separately. Don’t let isolation decide for you.&nbsp;&nbsp;
-
-  ### **Get Support at Care Net of Puget Sound**.
-
-  A good next step for you both would be to schedule a[free pregnancy consultation](https://carenetps.org/make-appointment/) and viability ultrasound. This gives you the important information you need to figure out what your next steps might look like. This includes:&nbsp;&nbsp;
-
-  - **Free medical-grade pregnancy test** (to confirm she really is pregnant)&nbsp;
-  - **Viability ultrasound** (to find out how far along she is)&nbsp;
-  - **Pregnancy consultation & resource options** (discover all your pregnancy options and resources)&nbsp;
-  - **Abortion education** (types, risks, side effects, and more)&nbsp;
-
-  We don’t refer for or provide abortions and do not profit off your decision.
-
-  We also offer a[fatherhood mentorship program](https://carenetps.org/men/) for men looking for advice and guidance to become great dads. Don’t navigate this journey alone.&nbsp;
-
-  [Book a pregnancy consultation for you and your](https://carenetps.org/make-appointment/) partner at one of our locations nearest to you.
-
-  [Book No-Cost Appointment](https://carenetps.org/make-appointment/)
-
-  The post [My Girlfriend is Pregnant. What Do I Do?](https://carenetps.org/my-girlfriend-is-pregnant-what-do-i-do/) first appeared on [Care Net of Puget Sound](https://carenetps.org).
+images: []
+locations:
+- King County
 source: Care Net of Puget Sound
 source_url: https://carenetps.org/my-girlfriend-is-pregnant-what-do-i-do/?utm_source=rss&utm_medium=rss&utm_campaign=my-girlfriend-is-pregnant-what-do-i-do
 summarized: true

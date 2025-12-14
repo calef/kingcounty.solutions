@@ -2,10 +2,7 @@
 date: '2025-07-31T20:51:46+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: <p class="">We’re thrilled to share that we have raised $16 million
+feed_content: <p class="">We’re thrilled to share that we have raised $16 million
   towards our campaign to renovate our former warehouse space into a thriving food
   hub for South Seattle—and <a href="https://www.rvfb.org/room-for-all">we’re inviting
   everyone into the “Room for All” campaign for abundance with a new giving challenge</a>.&nbsp;</p><p
@@ -48,44 +45,9 @@ original_content: <p class="">We’re thrilled to share that we have raised $16 
   class="">“We were always going to expand,” Hatcher-Mays said. “That’s what we do.
   We grow to meet our neighbors’ needs. But now our growth is more important than
   ever.”</p>
-original_markdown_body: |-
-  We’re thrilled to share that we have raised $16 million towards our campaign to renovate our former warehouse space into a thriving food hub for South Seattle—and [we’re inviting everyone into the “Room for All” campaign for abundance with a new giving challenge](https://www.rvfb.org/room-for-all).&nbsp;
-
-  With $1 million remaining on the campaign’s total goal, Sue Levitt and Ellen Ferguson have pledged to match new dollars raised, in honor of Levitt’s late husband, Bill Block, a longtime advocate for community members experiencing housing and food insecurity.&nbsp;
-
-  [The “Bill Block’s Building Blocks” challenge will match up to $250,000 in donations](https://givebutter.com/funding-abundance), pushing the campaign’s progress right up to the goal line.&nbsp;
-
-  “We are setting the table for community resilience,” said Gloria Hatcher-Mays, Executive Director of Rainier Valley Food Bank. “South Seattle has always been a strong community; our new facility, and the partnerships it makes possible, will be an asset that makes sure that all of us can live in more abundance.”&nbsp;
-
-  RVFB’s new community food hub will have its [grand opening celebration on Sunday, September 7th](https://givebutter.com/RVFB-grand-opening).&nbsp;
-
-  At 11,000 square&nbsp;feet, the new facility will be more than nine times the size of the organization’s former and longtime home. The community food hub will:
-
-  - Provide dedicated, dignified space for services, including ample food storage, a commercial kitchen, a community garden, and a grocery store&nbsp;
-
-  - Expand programs and increase the overall number of people we serve
-
-  - Improve community members' physical and mental health by reducing stigma around accessing services, cultivating a sense of connection and belonging
-
-  - Build&nbsp;meaningful relationships among guests, volunteers,&nbsp;and community partners as we share meals, learn new skills,&nbsp;and engage in collective action against hunger
-
-  Being part of the Room for All campaign can take many forms, Hatcher-Mays said. While funding is crucial for the project, it's not the only way for residents to support the work of RVFB.&nbsp;
-
-  “Every grocery bag packed, every hour given, every connection made, and every dollar raised from a contribution of&nbsp;_any&nbsp;_size—they are all signs of abundance,” she said. “Scarcity thrives in isolation. But we all have something to offer, together. Community care is the solution in these times, and all times.”&nbsp;&nbsp;
-
-  Community leaders serving as co-chairs for the Room for All campaign include:
-
-  - Roz Edison, co-founder of Marination Station restaurants
-
-  - Maria Kolby-Wolfe, president and CEO of Washington Women’s Foundation
-
-  - Linda Breneman, co-founder of Richard Hugo House
-
-  - Becky Selengut, celebrity chef and author
-
-  Each year, Rainier Valley Food Bank serves more than 8,000 families and distributes more than 1 million pounds of food—numbers that will only grow in the current economic landscape.&nbsp;
-
-  “We were always going to expand,” Hatcher-Mays said. “That’s what we do. We grow to meet our neighbors’ needs. But now our growth is more important than ever.”
+images: []
+locations:
+- King County
 source: Rainier Valley Food Bank
 source_url: https://www.rvfb.org/blog/find-your-place-in-abundance-with-room-for-all-campaign
 summarized: true

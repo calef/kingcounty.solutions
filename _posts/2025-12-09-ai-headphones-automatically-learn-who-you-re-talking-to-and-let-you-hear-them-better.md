@@ -1,8 +1,6 @@
 ---
 date: '2025-12-09T17:30:37+00:00'
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   <div>
   <!--[if lt IE 9]><script>document.createElement('video');</script><![endif]--><br>
   <video><source></source><a>https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/14101348/proactive_listening_demo.mp4</a></video>
@@ -36,65 +34,9 @@ original_content: |-
   <p><i><span>This research was funded by the Moore Inventor Fellows program.</span></i></p>
   <p><i><span>For more information, contact <a>proactivehearing@cs.washington.edu </a></span></i></p>
   <p><a></a><a></a><a></a><a></a><a></a><a></a></p>
-original_content_checksum: 14770966ac71d13a7d0e1d7782c0c5a4ad310bc6
-original_markdown_body: "<!--[if lt IE 9]><script>document.createElement('video');</script><![endif]-->
-  \ \n<video><source></source><a>https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/14101348/proactive_listening_demo.mp4</a></video>\n\n&nbsp;\n\nHolding
-  a conversation in a crowded room often leads to the frustrating “cocktail party
-  problem,” or the challenge of separating the voices of conversation partners from
-  a hubbub. It’s a mentally taxing situation that can be exacerbated by hearing impairment.&nbsp;\n\nAs
-  a solution to this common conundrum, researchers at the University of Washington
-  have developed smart headphones that proactively isolate all the wearer’s conversation
-  partners in a noisy soundscape. The headphones are powered by an AI model that detects
-  the cadence of a conversation and another model that mutes any voices which don’t
-  follow that pattern, along with other unwanted background noises. The prototype
-  uses off-the-shelf hardware and can identify conversation partners using just two
-  to four seconds of audio.\n\nThe system’s developers think the technology could
-  one day help users of hearing aids, earbuds and smart glasses to filter their soundscapes
-  without the need to manually direct the AI’s “attention.”\n\nThe team presented
-  the technology Nov. 7 in Suzhou, China at the Conference on Empirical Methods in
-  Natural Language Processing. The underlying code is open-source and available for
-  download.\n\n“Existing approaches to identifying who the wearer is listening to
-  predominantly involve electrodes implanted in the brain to track attention,” said
-  senior author Shyam Gollakota, a UW professor in the Paul G. Allen School of Computer
-  Science & Engineering. “Our insight is that when we’re conversing with a specific
-  group of people, our speech naturally follows a turn-taking rhythm. And we can train
-  AI to predict and track those rhythms using only audio, without the need for implanting
-  electrodes.”\n\n**Related:**\n\n- For more information, visit the team’s website\n-
-  Story from IEEE Spectrum\n\nThe prototype system, dubbed “proactive hearing assistants,”
-  activates when the person wearing the headphones begins speaking. From there, one
-  AI model begins tracking conversation participants by performing a “who spoke when”
-  analysis and looking for low overlap in exchanges. The system then forwards the
-  result to a second model which isolates the participants and plays the cleaned up
-  audio for the wearer. The system is fast enough to avoid confusing audio lag for
-  the user, and can currently juggle one to four conversation partners in addition
-  to the wearer’s audio.\n\nThe team tested the headphones with 11 participants, who
-  rated qualities like noise suppression and comprehension with and without the AI
-  filtration. Overall, the group rated the filtered audio more than twice as favorably
-  as the baseline.&nbsp;\n\n ![](https://uw-s3-cdn.s3.us-west-2.amazonaws.com/wp-content/uploads/sites/6/2025/11/14101410/proactive_listening_prototype-scaled.jpg)\n\nThe
-  team combined off-the-shelf noise-canceling headphones with binaural microphones
-  to create the prototype, pictured here.Hu et al./EMNLP\n\nGollakota’s team has been
-  experimenting with AI-powered hearing assistants for the past few years. They developed
-  one smart headphone prototype that can pick a person’s audio out of a crowd when
-  the wearer looks at them, and another that creates a “sound bubble” by muting all
-  sounds within a set distance of the wearer.&nbsp;\n\n“Everything we’ve done previously
-  requires the user to manually select a specific speaker or a distance within which
-  to listen, which is not great for user experience,” said lead author Guilin Hu,
-  a doctoral student in the Allen School. “What we’ve demonstrated is a technology
-  that’s proactive — something that infers human intent noninvasively and automatically.”\n\nPlenty
-  of work remains to refine the experience. The more dynamic a conversation gets,
-  the more the system is likely to struggle, as participants talk over one another
-  or speak in longer monologues. Participants entering and leaving a conversation
-  present another hurdle, though Gollakota was surprised by how well the current prototype
-  performed in these more complicated scenarios. The authors also note that the models
-  were tested on English, Mandarin and Japanese dialog, and that the rhythms of other
-  languages might require further fine-tuning.\n\nThe current prototype uses commercial
-  over-the-ear headphones, microphones and circuitry. Eventually, Gollakota expects
-  to make the system small enough to run on a tiny chip within an earbud or a hearing
-  aid. In concurrent work that appeared at MobiCom 2025, the authors demonstrated
-  that it is possible to run AI models on tiny hearing aid devices.\n\n_Co-authors
-  include_ _Malek Itani_ _and_ _Tuochao Chen__, UW doctoral students in the Allen
-  School._\n\n_This research was funded by the Moore Inventor Fellows program._\n\n_For
-  more information, contact proactivehearing@cs.washington.edu_"
+feed_content_checksum: 14770966ac71d13a7d0e1d7782c0c5a4ad310bc6
+images: []
+locations: []
 published: false
 source: University of Washington
 source_url: https://www.washington.edu/news/2025/12/09/ai-headphones-smart-noise-cancellation-proactive-listening/

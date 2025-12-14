@@ -2,10 +2,7 @@
 date: '2025-12-12T19:30:00+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <h2>Music has an impact on memory</h2>
 
 
@@ -47,29 +44,10 @@ original_content: |-
 
 
   <p>This article was originally published on the <a>VA North Florida Healthcare System</a> and has been edited for style and clarity.  </p>
-original_content_checksum: ef3ec5484aac3866f2280ac276fe744e613d80d6
-original_markdown_body: |-
-  ## Music has an impact on memory
-
-  A new sanctuary of sound and serenity now welcomes residents at the Lake City VA Medical Center (LCVAMC).
-
-  The sound garden honors Jeffery Clark, a Veteran, colleague and friend whose passion for service continues to echo through the space he helped create.
-
-  “Jeff often reflected about his life and said his purpose was to be a servant,” said his wife, Cameila Clark. “He defined his role at the LCVAMC as being of service to Veterans and providing respite care for them.”
-
-  ## Honoring a legacy of service and compassion
-
-  The project began as a vision from the recreation therapy team, rooted in understanding that music and nature can profoundly enhance the lives of those living with dementia. Today that vision has blossomed into a vibrant, multisensory space.
-
-  “The sound garden is more than just a space,” said Tiffany Gilliam, nurse manager of the Dementia Specialty Care Unit. **&nbsp;“** It is a sanctuary, a place where residents can reconnect with cherished memories through music, where families can share meaningful moments,and where caregivers can witness the power of therapeutic engagement.”
-
-  For Veterans at the LCVAMC, the sound garden stands as a living tribute to healing, service and the enduring power of compassion.&nbsp;
-
-  Reach out to your local VAMC to learn more about its creative arts programs.
-
-  * * *
-
-  This article was originally published on the VA North Florida Healthcare System and has been edited for style and clarity.&nbsp;&nbsp;
+feed_content_checksum: ef3ec5484aac3866f2280ac276fe744e613d80d6
+images: []
+locations:
+- King County
 rss_guid: https://news.va.gov/?p=143805
 source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143805/a-sanctuary-music-veterans-dementia/

@@ -2,20 +2,15 @@
 date: '2025-12-12T17:38:47+00:00'
 events: []
 events_extracted: true
+feed_content: 'Rainfall and flooding have caused sewage overflows in many areas across
+  King County. Please avoid touching all surface water (including lakes, ponds, streams,
+  rivers, and Puget Sound) at this time. If your home or business has flooded: 1.
+  If there is still standing water, turn off power before re-entering (do NOT touch
+  electrical equipment while […]'
+feed_content_checksum: 16fac661362e53ef3ce8e474c1a2bf72551b28f4
 images: []
 locations:
 - King County
-original_content: 'Rainfall and flooding have caused sewage overflows in many areas
-  across King County. Please avoid touching all surface water (including lakes, ponds,
-  streams, rivers, and Puget Sound) at this time. If your home or business has flooded:
-  1. If there is still standing water, turn off power before re-entering (do NOT touch
-  electrical equipment while […]'
-original_content_checksum: 16fac661362e53ef3ce8e474c1a2bf72551b28f4
-original_markdown_body: 'Rainfall and flooding have caused sewage overflows in many
-  areas across King County. Please avoid touching all surface water (including lakes,
-  ponds, streams, rivers, and Puget Sound) at this time. If your home or business
-  has flooded: 1. If there is still standing water, turn off power before re-entering
-  (do NOT touch electrical equipment while […]'
 rss_guid: https://kcemergency.com/?p=6801
 source: King County Emergency Management
 source_url: https://kcemergency.com/2025/12/12/safety-tips-as-you-clean-your-home-or-business/

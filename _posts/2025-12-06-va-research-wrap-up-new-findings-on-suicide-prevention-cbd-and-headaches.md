@@ -2,10 +2,7 @@
 date: '2025-12-06T14:30:00+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <p>VA’s Office of Research and Development recently published three&nbsp;<a href="https://www.research.va.gov/news_briefs/default.cfm" rel="noopener">News Briefs</a>&nbsp;highlighting research findings on a decision aid to prevent suicide, how CBD affects the kidneys, and brain stimulation to reduce headaches.</p>
 
 
@@ -47,28 +44,9 @@ original_content: |-
 
 
   <p>For more Office of Research and Development updates, visit&nbsp;<a href="https://www.research.va.gov/" rel="noopener">ORD online</a>&nbsp;or go to https://www.research.va.gov/news_briefs/.</p>
-original_markdown_body: |-
-  VA’s Office of Research and Development recently published three&nbsp;[News Briefs](https://www.research.va.gov/news_briefs/default.cfm)&nbsp;highlighting research findings on a decision aid to prevent suicide, how CBD affects the kidneys, and brain stimulation to reduce headaches.
-
-  ## New aid may reduce suicide in Women Veterans
-
-  Women Veterans die by firearm suicide at a rate almost 1.5 times higher than non-Veteran women. To help address this issue, a team of researchers led by the&nbsp;[VHA Office of Rural Health Veterans Rural Health Resource Center](https://www.ruralhealth.va.gov/aboutus/vrhrc.asp)&nbsp;created a patient decision aid tailored for Reserve and National Guard Women Veterans to promote safe firearm storage and suicide prevention through informed decision-making.
-
-  The decision aid includes a shared decision-making model that helps Veterans and clinicians make an explicit plan for securing firearms and reducing suicide risk. Twenty Women Veteran gun owners who reviewed the aid reported high satisfaction with the decision aid on its own, and 70% reported that when reviewed with a clinician, the aid made them more likely to identify and act on a safety plan. Researchers are encouraged by Veterans’ high satisfaction with the decision aid to promote safe firearm storage and suicide prevention in Women Veterans. [View the full study from the “Journal of General Internal Medicine.”](https://link.springer.com/article/10.1007/s11606-025-09942-4)
-
-  ## Hemp compound CBD may harm kidneys
-
-  VA researchers from James A. Haley Medical Center in Tampa, Florida, reported cannabidiol, commonly known as CBD, may negatively impact kidney function.
-
-  CBD is a non-psychoactive compound found in hemp that often is used for treating various conditions, such as pain, anxiety and nausea. The research team explored the effects of CBD on living cells in a laboratory setting and found that long-term, high doses of CBD increased calcium levels in cells, triggering genetic changes and impairing their ability to make new, healthy cells, which led to cell damage and death. The researchers focused their observations on podocyte cells, specialized cells in the kidneys that filter out toxins. Problems with these cells increased with longer CBD exposure and higher doses. The research suggests that high-dose, long-term exposure to CBD may impair podocyte health and potentially affect kidney function. [View the full study from “Biochemical and Biophysical Communications.”](https://pubmed.ncbi.nlm.nih.gov/40967036/)
-
-  ## Magnetic brain stimulation reduces TBI-related headaches
-
-  Persistent, incapacitating headaches are common after a mild traumatic brain injury and can lead to profound problems in a Veteran’s daily life. San Diego VA researchers found 10 sessions of magnetic brain stimulation can significantly reduce these headaches and improve brain function, such as memory and attention.
-
-  The research team randomly assigned 70 Veterans into a group that received the treatment and a placebo group. The treatment group received 10 sessions of repetitive transcranial magnetic stimulation—noninvasive stimulation of the brain using an electromagnetic field—on the left motor cortex, a region of the brain responsible for muscle coordination, speech and fine motor control. The researchers assessed the Veterans weekly during treatment and for three months after. Treatment recipients had significant reductions in both frequency of persistent headaches and duration of debilitating headaches when they did occur, and they also reported improved memory, concentration, and attention. The findings suggest this treatment could both prevent post-traumatic headaches and improve cognitive impairment. [View the full study from “Neuromodulation Technology at the Neural Interface.”](https://pubmed.ncbi.nlm.nih.gov/41109991/)
-
-  For more Office of Research and Development updates, visit&nbsp;[ORD online](https://www.research.va.gov/)&nbsp;or go to https://www.research.va.gov/news\_briefs/.
+images: []
+locations:
+- King County
 source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143566/va-research-wrap-up-suicide-cbd-headaches/
 summarized: true

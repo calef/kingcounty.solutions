@@ -2,12 +2,7 @@
 date: '2025-09-17T23:14:31+00:00'
 events: []
 events_extracted: true
-images:
-- 3447d6098cab3b4f3b55d35c77ca9867cc533331e9d1c5be587b467802c41cfe
-- b2a040dd4d1fc755d995782aca5b839b8a7cf28a18e24c7c32e56f2e0877cd69
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <div class='author-name' style='font-size: 18px; width: 100%; padding: .5em 0;'><p>By Dawn Rains</p></div><p><span data-contrast="auto"><img decoding="async" class="aligncenter wp-image-195975 size-large" src="https://www.treehouseforkids.org/wp-content/uploads/2025/09/Dawn-Speaking-at-Champions-25-1024x636.png" alt="" width="1024" height="636" />For nearly 40 years, Treehouse has walked alongside children and youth in foster care with the clear mission to ensure they complete high school and step into adulthood with the tools, support, and confidence they need to thrive.</span><span data-ccp-props="{}"> </span></p>
   <p><span data-contrast="none">Now, we’re facing one of the most significant challenges in our history. As reported in </span><a href="https://www.seattletimes.com/seattle-news/wa-slashes-grants-funding-foster-care-programs-amid-budget-deficit/" target="_blank" rel="noopener"><span data-contrast="none">the </span><i><span data-contrast="none">Seattle Times</span></i></a> <span data-contrast="none">and other news outlets, earlier this year the Washington State Legislature eliminated $7.46 million of Treehouse’s state funding. We were just one of many organizations impacted by devastating funding cuts that threaten essential services for our most marginalized and vulnerable youth.</span><span data-ccp-props="{}"> </span></p>
   <h3>Treehouse Remains Steadfast</h3>
@@ -43,56 +38,11 @@ original_content: |-
   </ul>
   <p><span data-contrast="none">While we didn’t choose these circumstances, we are approaching this moment with the same commitment to youth, integrity in decision-making, and care for our community that has always guided us. We still fiercely believe that young people in foster care deserve every opportunity to thrive—and </span><b><span data-contrast="none">we won’t stop until that’s the reality for every young person in every community across our state.</span></b><span data-ccp-props="{}"> </span></p>
   <hr style='clear: both; margin: 2rem; padding: 0; border-bottom: 2px solid #64413c;'><div class='about-author' style='padding: 0 1rem; clear: both; overflow: auto;'><div class='author-image' style='width: 20%; float: left; margin: 1.5rem 0 0 0;'><img src='https://www.treehouseforkids.org/wp-content/uploads/2016/06/Dawn-Rains294_Crop-scaled-e1726684521984.jpg'/></div><div class='author-description' style='width: 76%; float: left; padding: 1rem 0 1rem 4%;'><div class='author-name' style='font-size: 18px; width: 100%; padding: .5rem 0;'>About the Author</div><p>Dawn Rains (she/her) has more than 30 years of experience in nonprofit management, fundraising, program management, and legislative advocacy. She has served at Treehouse for 16 years, leading Treehouse’s policy teams (2017–2022), programs teams (2012–2017), and fundraising and marketing teams (2009–2012). She co-founded Project Education Impact, a collective impact effort to achieve educational equity for children and youth experiencing foster care or homelessness in Washington state involving legislators, state agencies, and statewide nonprofit organizations. Dawn is also a former foster parent.</p></div></div><hr style='clear: both; padding: 0; margin: 0 0 40px 0; border-bottom: 2px solid #64413c;'><p>The post <a href="https://www.treehouseforkids.org/treehouse-stays-focused-on-plans-for-the-future/">Treehouse Stays Focused on Plans for the Future</a> appeared first on <a href="https://www.treehouseforkids.org">Treehouse</a>.</p>
-original_markdown_body: |-
-  By Dawn Rains
-
-  ![](https://www.treehouseforkids.org/wp-content/uploads/2025/09/Dawn-Speaking-at-Champions-25-1024x636.png)For nearly 40 years, Treehouse has walked alongside children and youth in foster care with the clear mission to ensure they complete high school and step into adulthood with the tools, support, and confidence they need to thrive.&nbsp;
-
-  Now, we’re facing one of the most significant challenges in our history. As reported in [the _Seattle Times_](https://www.seattletimes.com/seattle-news/wa-slashes-grants-funding-foster-care-programs-amid-budget-deficit/) and other news outlets, earlier this year the Washington State Legislature eliminated $7.46 million of Treehouse’s state funding. We were just one of many organizations impacted by devastating funding cuts that threaten essential services for our most marginalized and vulnerable youth.&nbsp;
-
-  ### Treehouse Remains Steadfast
-
-  Despite the loss of nearly one-third of our budget, **Treehouse remains firm in our commitment to young people** and laser focused on our strategic goal: _Young people in foster care will complete high school at the same rate as their peers, prepared to implement their post–high school plan._&nbsp;
-
-  We are grateful for the partnership of OSPI Superintendent Chris Reykdal, who has redirected $1.4 million in discretionary funding to help bridge us to the next opportunity to restore state funding. Superintendent Reykdal considers Treehouse an invaluable partner in improving outcomes for students experiencing foster care, and OSPI’s confidence in our work is steadying.&nbsp;&nbsp;
-
-  ### Our Plan Forward
-
-  Even so, Treehouse had to make the painful decision to adjust services in many parts of the state. However, **Treehouse will continue to support more than 5,500 youth across Washington state in the year ahead.** Here’s how we’re preserving the depth and consistency of our services while continuing to deliver the impact Treehouse is known for:&nbsp;
-
-  - **We’re preserving education services for as many young people as possible**. Treehouse will now provide Graduation Success, our one-on-one educational coaching for high school students, in geographic areas with a high density of young people in foster care: Clark, King, Pierce, and Spokane counties. This change alone sustains service to more than 58% of the young people we served in 2024–2025. Educational Advocacy, our educational barrier intervention program, will remain statewide with reduced capacity, limiting service to high-urgency cases. We anticipate significant waitlists for both programs.&nbsp;
-
-  - **We’re streamlining our programs** to eliminate transitions for participants. By integrating our post-high school program with Graduation Success, post-secondary planning will begin in junior year. Youth can access a full year of coaching and up to four years of resource navigation after graduation.&nbsp;&nbsp;
-
-  - **We’re continuing to provide material and financial resources to children and youth**  **statewide** through the Treehouse Store, Just-in-Time Funding, Driver’s Assistance, and Holiday Magic—largely made possible by Treehouse donors.&nbsp;
-
-  - **We’re strengthening our policy and advocacy work**. We will continue to advocate to restore our funding in the state’s 2026 supplemental budget, and to improve law and investments at both the state and the federal level to ensure students in foster care have the protections and supports they need to stay on track to graduate.&nbsp;
-
-  - **We’re preparing for long-term sustainability**. We may face multiple years of reduced government investment, so we are staying nimble, mission-driven, and youth-focused. To retain as many direct-service staff as possible, we’ve cut administrative expenses and reduced management roles by 40%.&nbsp;
-
-  ### Community Is Key
-
-  Robust community investment from people like you is a huge reason we are able to safeguard services to such a large portion of youth. We ask you to stay with us for the long haul, because none of this is possible without you. We have a few easy but impactful ways you can rally around the youth we serve:&nbsp;
-
-  - **S**** ign up for our**[**Advocacy Action Center**](https://www.treehouseforkids.org/take-action/advocate/advocacy-action-center/#/signup/go/) to receive updates on our legislative priorities for the upcoming session and help us advocate to restore state funding for our essential education programs.&nbsp;
-
-  - **Continue to** [**give**](https://www.treehouseforkids.org/take-action/give/) **generously,** whether it’s a one-time gift, a monthly gift, a legacy gift, or a gift of your time.&nbsp;&nbsp;
-
-  - **Host a** [**donation drive or fundraiser**](https://www.treehouseforkids.org/take-action/host-a-fundraiser-drive/) so youth across the state can always get what they need from our free store and/or services.&nbsp;&nbsp;
-
-  While we didn’t choose these circumstances, we are approaching this moment with the same commitment to youth, integrity in decision-making, and care for our community that has always guided us. We still fiercely believe that young people in foster care deserve every opportunity to thrive—and **we won’t stop until that’s the reality for every young person in every community across our state.** &nbsp;
-
-  * * *
-
-   ![](https://www.treehouseforkids.org/wp-content/uploads/2016/06/Dawn-Rains294_Crop-scaled-e1726684521984.jpg)
-
-  About the Author
-
-  Dawn Rains (she/her) has more than 30 years of experience in nonprofit management, fundraising, program management, and legislative advocacy. She has served at Treehouse for 16 years, leading Treehouse’s policy teams (2017–2022), programs teams (2012–2017), and fundraising and marketing teams (2009–2012). She co-founded Project Education Impact, a collective impact effort to achieve educational equity for children and youth experiencing foster care or homelessness in Washington state involving legislators, state agencies, and statewide nonprofit organizations. Dawn is also a former foster parent.
-
-  * * *
-
-  The post [Treehouse Stays Focused on Plans for the Future](https://www.treehouseforkids.org/treehouse-stays-focused-on-plans-for-the-future/) appeared first on [Treehouse](https://www.treehouseforkids.org).
+images:
+- 3447d6098cab3b4f3b55d35c77ca9867cc533331e9d1c5be587b467802c41cfe
+- b2a040dd4d1fc755d995782aca5b839b8a7cf28a18e24c7c32e56f2e0877cd69
+locations:
+- King County
 source: Treehouse
 source_url: https://www.treehouseforkids.org/treehouse-stays-focused-on-plans-for-the-future/
 summarized: true

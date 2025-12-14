@@ -151,8 +151,9 @@ class IcalImporterTest < Minitest::Test
     assert_includes content, "end_date: '2024-02-12T20:00:00+00:00'"
     assert_includes content, 'location: Community Hall'
     assert_includes content, 'source_url: https://example.org/events/test'
-    assert_includes content, 'original_content: "<p>Article body</p>"'
-    assert_includes content, 'original_markdown_body: Article body'
+    assert_includes content, 'feed_content: "<p>Article body</p>"'
+    assert_includes content, 'feed_content_checksum:'
+    refute_includes content, 'original_content:'
     refute_includes content, '<script'
     assert_includes content, 'Article body'
   end
@@ -169,7 +170,7 @@ class IcalImporterTest < Minitest::Test
         end_date: '2024-02-12T20:00:00+00:00'
         location: Anywhere
         source_url: https://example.org/events/locked
-        original_content: '<p>Locked</p>'
+        feed_content: '<p>Locked</p>'
         locked: true
         ---
         Locked body

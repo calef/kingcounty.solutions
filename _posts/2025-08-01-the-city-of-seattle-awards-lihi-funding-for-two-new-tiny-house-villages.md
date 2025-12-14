@@ -2,13 +2,11 @@
 date: '2025-08-01T20:47:11+00:00'
 events: []
 events_extracted: true
+feed_content: The City of Seattle has allocated $5.9 million in its 2025 budget to
+  cover the permitting, construction, and operational costs for new...
 images: []
 locations:
 - King County
-original_content: The City of Seattle has allocated $5.9 million in its 2025 budget
-  to cover the permitting, construction, and operational costs for new...
-original_markdown_body: The City of Seattle has allocated $5.9 million in its 2025
-  budget to cover the permitting, construction, and operational costs for new...
 source: Low Income Housing Institute
 source_url: https://www.lihihousing.org/post/the-city-of-seattle-awards-lihi-funding-for-two-new-tiny-house-villages
 summarized: true

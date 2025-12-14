@@ -1,8 +1,6 @@
 ---
 date: '2025-05-16T16:48:27+00:00'
-images: []
-locations: []
-original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Celebration
+feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Celebration
   and sustainability on Lake to Lake</span>\n<span class=\"field field--name-uid field--type-entity-reference
   field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\" typeof=\"schema:Person\"
   property=\"schema:name\" datatype>CIosso</span></span>\n<span class=\"field field--name-created
@@ -34,22 +32,8 @@ original_content: "<span class=\"field field--name-title field--type-string fiel
   \     \n\n            <div class=\"field field--name-field-article-date field--type-datetime
   field--label-hidden field__item\"><time datetime=\"2025-05-16T12:00:00Z\" class=\"datetime\">May
   16 2025</time>\n</div>\n      \n    </div>\n  </div>"
-original_markdown_body: |-
-  Celebration and sustainability on Lake to LakeCIosso<time datetime="2025-05-16T09:48:27-07:00" title="Friday, May 16, 2025 - 09:48" class="datetime">Fri, 05/16/2025 - 09:48</time>
-
-   ![A woman with flowers in her hair dances at City Hall.](https://bellevuewa.gov/sites/default/files/styles/article_featured_image/public/media/article_featured_image/2025-05/aanhpi-event-internet.jpg?h=ee8b6af7&itok=Bn5hjgEN)
-
-  This month's [Lake to Lake](https://www.youtube.com/watch?v=6ULn94lodGA) news show captures some of the magic of the opening reception for our exhibition at City Hall of works by local Asian American, Native Hawaiian and Pacific Islander artists. Dancers bedecked with flowers brightened the concourse that early May evening. The art will continue to entertain and engage visitors at City Hall through the end of the month.
-
-  Also presented on the program are:&nbsp;
-
-  - highlights from our State of the City presentation with the Bellevue Downtown Association, including staff from the city and its partners showing how we are "better together."
-  - a panel of climate experts sharing ways we can all support resilience
-  - community members helping shape the update of the comprehensive plan completed last year&nbsp;
-
-  Bellevue Television produces Lake to Lake. All of the city's videos can be seen on our [YouTube channel](https://www.youtube.com/BellevueWashington). Questions? Reach out to [btv@bellevuewa.gov](mailto:btv@bellevuewa.gov).&nbsp;
-
-  <time datetime="2025-05-16T12:00:00Z" class="datetime">May 16 2025</time>
+images: []
+locations: []
 published: false
 source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/lake-to-lake-5-25

@@ -1,11 +1,6 @@
 ---
 end_date: '2025-12-17T18:00:00-08:00'
-images: []
-location: 'South Park Neighborhood Center, 8201 10th Ave S, #4, Seattle, WA, 98108,
-  United States'
-locations:
-- King County
-original_content: '<div class="row"> <div class="main col-md-12" id="ktmain" role="main">
+feed_content: '<div class="row"> <div class="main col-md-12" id="ktmain" role="main">
   <div class="entry-content" itemprop="mainContentOfPage"> <section id="tribe-events"
   role="main"> <div id="tribe-events-content" class="tribe-events-single"> <p class="tribe-events-back">
   <a href="https://www.spseniors.org/events/"> « All Events</a> </p> <h1 class="tribe-events-single-event-title">SPSC
@@ -62,14 +57,11 @@ original_content: '<div class="row"> <div class="main col-md-12" id="ktmain" rol
   tribe-events-meta-label">Phone</span> <span class="tribe-venue-tel tribe-events-meta-value">
   206-767-2544 </span> </li> </ul> </div> </div> </div> <p class="nocomments">Comments
   are closed.</p> </div> </section> </div> </div> </div>'
-original_markdown_body: "« All Events  SPSC Book Club   December 17 @ 4:00 PM - 6:00
-  PM      Connect, learn, and grow with fellow readers as we explore inspiring books
-  and spark meaningful conversations. Whether you’re a casual reader or a book lover,
-  there’s a place for you here!   Book Club meets on the third Wednesday of each month.
-  \         Google Calendar     iCalendar     Outlook 365     Outlook Live           Details
-  \   Date:   December 17     Time:   4:00 PM - 6:00 PM       Organizer   SP Senior
-  Center        Venue    South Park Neighborhood Center     8201 10th Ave S, #4 Seattle,
-  WA 98108 United States  + Google Map    Phone  206-767-2544       Comments are closed."
+images: []
+location: 'South Park Neighborhood Center, 8201 10th Ave S, #4, Seattle, WA, 98108,
+  United States'
+locations:
+- King County
 source: South Park Senior Citizens
 source_url: https://www.spseniors.org/calendar/spsc-book-club/
 start_date: '2025-12-17T16:00:00-08:00'

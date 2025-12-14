@@ -1,19 +1,14 @@
 ---
 date: '2025-12-11T22:04:08+00:00'
-images: []
-locations:
-- King County
-original_content: Today at 1pm, staff from Seattle Public Utilities, King County Local
+feed_content: Today at 1pm, staff from Seattle Public Utilities, King County Local
   Services, Roads Division and the King County Flood Warning Center departed from
   the King County Office of Emergency Management landing zone aboard Guardian 2, the
   helicopter operated by the King County Air Support Unit. The helicopter landed at
   OEM to pick up the assessment […]
-original_content_checksum: b9c10c58466f3056cf13bbe06e1845e6f382b3df
-original_markdown_body: Today at 1pm, staff from Seattle Public Utilities, King County
-  Local Services, Roads Division and the King County Flood Warning Center departed
-  from the King County Office of Emergency Management landing zone aboard Guardian
-  2, the helicopter operated by the King County Air Support Unit. The helicopter landed
-  at OEM to pick up the assessment […]
+feed_content_checksum: b9c10c58466f3056cf13bbe06e1845e6f382b3df
+images: []
+locations:
+- King County
 published: false
 rss_guid: https://kcemergency.com/?p=6746
 source: King County Emergency Management

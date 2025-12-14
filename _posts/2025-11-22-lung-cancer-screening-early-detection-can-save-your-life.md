@@ -2,10 +2,7 @@
 date: '2025-11-22T19:30:00+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <p>Every year, nearly 8,000 Veterans are diagnosed with <a href="https://news.va.gov/?s=lung+cancer">lung cancer</a>, a staggering reminder of the disease’s frequency. VA’s emphasis on early detection is changing lives by providing every eligible Veteran with systematic, integrated and equitable access to high-quality lung cancer screening.</p>
 
 
@@ -57,28 +54,9 @@ original_content: |-
 
 
   <p></p>
-original_markdown_body: |-
-  Every year, nearly 8,000 Veterans are diagnosed with [lung cancer](https://news.va.gov/?s=lung+cancer), a staggering reminder of the disease’s frequency. VA’s emphasis on early detection is changing lives by providing every eligible Veteran with systematic, integrated and equitable access to high-quality lung cancer screening.
-
-  With early detection, the survival rate for this type of cancer is high. Lung cancer screening is done with a painless, low-dose CT scan that only takes five minutes.
-
-  You may qualify for lung cancer screening if you:
-
-  - Are 50 to 80-years old.
-  - Smoke cigarettes now or quit within the past 15 years.
-  - Smoked cigarettes for at least 20 pack-years.
-
-  A “pack year” is an estimate of how many tobacco products you have smoked in your lifetime. Twenty “pack years” equals smoking one pack of cigarettes a day for 20 years or two packs of cigarettes a day for 10 years.
-
-  ## Get screened!
-
-  November is Lung Cancer Awareness Month and VA is proud to join in the fourth annual&nbsp;[National Lung Cancer Screening (LCS) Day](https://www.lungcancerscreeningday.org/)&nbsp;to raise awareness about this essential preventive measure.&nbsp;
-
-  VA facilities nationwide will engage in lung cancer screening awareness outreach efforts Nov. 3 to 12. Enrolled Veterans are encouraged to contact their primary care providers and participate in the week’s events to prioritize their lung health. VA remains steadfast in improving Veterans’ lives through early detection and comprehensive care.
-
-  If you are a Veteran between 50- and 80-years old and are a current or former smoker, contact your local VA health care provider to find out if lung cancer screening is right for you.
-
-  To learn more about how VA works to expand access and reduce barriers to cancer care and screening at VA, visit Cancer.va.gov.
+images: []
+locations:
+- King County
 source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143180/lung-cancer-screening-early-detection-save-life/
 summarized: true

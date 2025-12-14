@@ -3,8 +3,6 @@ generated_from_post: true
 images: []
 location: Washington, D.C.
 locations: []
-original_markdown_body: Gala event where awardees of the Military Child of the Year®
-  Award will be recognized.
 published: false
 source: Operation Homefront - Critical Financial Assistance Program
 source_url: https://operationhomefront.org/final-call-for-2026-mcoy-nominations/

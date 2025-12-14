@@ -2,10 +2,7 @@
 date: '2025-04-30T19:05:55+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: |-
+feed_content: |-
   ![](https://encompassnw.org/wp-content/uploads/2025/04/InspireAwards-300x157.png)A highlight of our Inspire Breakfast each year is our Community Awards segment, which honors a business, a community organization, and a volunteer who all share in our vision of a community where ALL children thrive. &nbsp;This year’s awards were presented by Honorary Chair Nancy Whitaker and Encompass Executive Director Nela Cumming.
 
   The John Castle Corporate Partner of the Year award is given to a business in honor of Dr. John Castle, a long-time Encompass Board and emeritus board member until his passing in 2017.&nbsp; John’s passion was in helping staff develop new business initiatives, including the Encompass Pediatric Therapy clinic that has helped thousands of children with high-quality, innovative pediatric therapies. This clinic evolved into the new purpose-built Child Development Center in Snoqualmie
@@ -49,6 +46,9 @@ original_content: |-
   &nbsp;
 
   The post [2025 Inspire Community Awards](https://encompassnw.org/inspire-community-awards-2025/) first appeared on [Encompass](https://encompassnw.org).
+images: []
+locations:
+- King County
 source: Encompass
 source_url: https://encompassnw.org/inspire-community-awards-2025/
 summarized: true

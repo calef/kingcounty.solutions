@@ -2,16 +2,12 @@
 date: '2025-10-21T19:06:49+00:00'
 events: []
 events_extracted: true
+feed_content: |-
+  <p>We&#8217;re excited to share that the renovation of the Wallingford Food Bank is finally underway! We&#8217;ve moved to a temporary location through Summer 2026, located at 4318 Stone Way N [&#8230;]</p>
+  <p>The post <a href="https://www.familyworksseattle.org/food-bank-temp-location-announcement/">Our Temporary Location is Now Open!</a> appeared first on <a href="https://www.familyworksseattle.org">FamilyWorks Seattle</a>.</p>
 images: []
 locations:
 - King County
-original_content: |-
-  <p>We&#8217;re excited to share that the renovation of the Wallingford Food Bank is finally underway! We&#8217;ve moved to a temporary location through Summer 2026, located at 4318 Stone Way N [&#8230;]</p>
-  <p>The post <a href="https://www.familyworksseattle.org/food-bank-temp-location-announcement/">Our Temporary Location is Now Open!</a> appeared first on <a href="https://www.familyworksseattle.org">FamilyWorks Seattle</a>.</p>
-original_markdown_body: |-
-  We’re excited to share that the renovation of the Wallingford Food Bank is finally underway! We’ve moved to a temporary location through Summer 2026, located at 4318 Stone Way N […]
-
-  The post [Our Temporary Location is Now Open!](https://www.familyworksseattle.org/food-bank-temp-location-announcement/) appeared first on [FamilyWorks Seattle](https://www.familyworksseattle.org).
 source: FamilyWorks Seattle
 source_url: https://www.familyworksseattle.org/food-bank-temp-location-announcement/
 summarized: true

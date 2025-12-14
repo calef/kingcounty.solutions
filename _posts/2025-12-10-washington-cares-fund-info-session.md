@@ -2,23 +2,17 @@
 date: '2025-12-10T21:24:09+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <p>WA Cares Fund provides working Washingtonians a way to earn access to long-term care benefits that will be available when they need them. It could cover most of the need for some people, while for others it will provide breathing room during one of life’s most challenging stages. Join us for a conversation about how the program works, how caregiving responsibilities impact families, who contributes to the fund, how to qualify for benefits, and more! Free</p>
 
 
 
   <p>Thursday, February 12, 10:00 am—11:30 am</p>
   <p>The post <a>Washington Cares Fund Info Session</a> appeared first on <a>Shoreline Lake Forest Park Senior Activity Center</a>.</p>
-original_content_checksum: fa187babd478e4272e019ba39c7c3d2eb00e1e04
-original_markdown_body: |-
-  WA Cares Fund provides working Washingtonians a way to earn access to long-term care benefits that will be available when they need them. It could cover most of the need for some people, while for others it will provide breathing room during one of life’s most challenging stages. Join us for a conversation about how the program works, how caregiving responsibilities impact families, who contributes to the fund, how to qualify for benefits, and more! Free
-
-  Thursday, February 12, 10:00 am—11:30 am
-
-  The post Washington Cares Fund Info Session appeared first on Shoreline Lake Forest Park Senior Activity Center.
+feed_content_checksum: fa187babd478e4272e019ba39c7c3d2eb00e1e04
+images: []
+locations:
+- King County
 rss_guid: https://shorelinelfpseniorcenter.org/?p=10598
 source: Shoreline Lake Forest Park Senior Activity Center
 source_url: https://shorelinelfpseniorcenter.org/washington-cares-fund-info-session/

@@ -1,16 +1,12 @@
 ---
 date: '2025-12-04T19:38:18+00:00'
+feed_content: Today, Mayor Bruce Harrell announced $27.8 million in awards to 33 projects
+  through the Equitable Development Initiative (EDI), part of the City’s effort to
+  support property ownership among Seattle’s diverse communities in neighborhoods
+  at high risk of...
+feed_content_checksum: 07ce495423044d11a63e703a4b1587358ace42ca
 images: []
 locations: []
-original_content: Today, Mayor Bruce Harrell announced $27.8 million in awards to
-  33 projects through the Equitable Development Initiative (EDI), part of the City’s
-  effort to support property ownership among Seattle’s diverse communities in neighborhoods
-  at high risk of...
-original_content_checksum: 07ce495423044d11a63e703a4b1587358ace42ca
-original_markdown_body: Today, Mayor Bruce Harrell announced $27.8 million in awards
-  to 33 projects through the Equitable Development Initiative (EDI), part of the City’s
-  effort to support property ownership among Seattle’s diverse communities in neighborhoods
-  at high risk of...
 published: false
 source: City of Seattle
 source_url: https://dailyplanit.seattle.gov/mayor-harrell-announces-27-8-million-to-community-organizations-through-the-equitable-development-initiative/

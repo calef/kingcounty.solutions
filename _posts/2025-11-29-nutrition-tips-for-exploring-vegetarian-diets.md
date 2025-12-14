@@ -1,8 +1,6 @@
 ---
 date: '2025-11-29T19:30:00+00:00'
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   <p>Small food choices can lead to significant health benefits. Whether you want to follow a strict vegetarian diet or add a few plant-based meals to your week, the benefits are undeniable.  </p>
 
 
@@ -54,30 +52,8 @@ original_content: |-
 
 
   <p>If you’re interested in exploring vegetarian cooking or any other nutrition-related topics, contact your <a href="https://www.va.gov/find-locations/" rel="noopener">local VA</a> to speak with a <a href="https://news.va.gov/129475/va-dietitians-food-and-nutrition-experts/">registered dietitian</a>.</p>
-original_markdown_body: |-
-  Small food choices can lead to significant health benefits. Whether you want to follow a strict vegetarian diet or add a few plant-based meals to your week, the benefits are undeniable.&nbsp;&nbsp;
-
-  From improving heart health and boosting energy levels to supporting a more sustainable environment, a plant-based diet can have a profoundly positive impact on your well-being and the planet. Plus, with an ever-growing variety of delicious and nutritious plant-based options, incorporating a vegetarian diet has never been easier or more enjoyable.
-
-  ## Plant-based protein
-
-  Just like all balanced diets, including healthy proteins is important and easy to do. Protein is the building block for bones, muscles, cartilage, skin and blood. While many vegetarians continue to incorporate dairy and eggs into their diet, according to MyPlate.gov, vegetarian diets can meet daily protein recommendations if the variety and amounts of protein foods selected are adequate. Some familiar sources include black beans, kidney beans, edamame, quinoa, tofu, and various nuts and seed butters (e.g., peanut, almond, cashew, walnut, sunflower seed).
-
-  In addition to protein, incorporating foods with a variety of nutrients—such as iron, calcium, and vitamin B12—is an important part of any healthy diet. These nutrients can be found in many plants, along with easily found, fortified cereals, breads, plant-based milks and fruit juices.
-
-  ## Vegetarian recipes
-
-  Try one of these tasty vegetarian recipes that are protein-packed and perfect for fall:
-
-  - [Spinach-Mozzarella Egg Bake](https://www.nutrition.va.gov/Recipes/Breakfast/docs/Spinach-Mozzarella-Egg-BakeJUL21.pdf).
-  - [Curried Lentil & Pumpkin Soup](https:/www.nutrition.va.gov/docs/Recipes/MainDishes/VegetableQuesadillaMay2021.pdf).
-  - [Vegetable Quesadilla](https://www.nutrition.va.gov/docs/Recipes/MainDishes/VegetableQuesadillaMay2021.pdf). &nbsp;
-
-  According to the [USDA](https://www.nal.usda.gov/human-nutrition-and-food-safety/vegetarian-nutrition), eating more plant-based foods can help you maintain a healthy weight and lower the risk of diseases, such as heart disease, obesity and diabetes.&nbsp;
-
-  When exploring any new lifestyles, it is essential to consume a variety of foods in the appropriate amounts to obtain the energy and nutrients your body needs. Fuel your body and feel better—one plant-based meal at a time!
-
-  If you’re interested in exploring vegetarian cooking or any other nutrition-related topics, contact your [local VA](https://www.va.gov/find-locations/) to speak with a [registered dietitian](https://news.va.gov/129475/va-dietitians-food-and-nutrition-experts/).
+images: []
+locations: []
 published: false
 source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143250/nutrition-tips-for-exploring-vegetarian-diets/

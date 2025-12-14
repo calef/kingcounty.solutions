@@ -1,9 +1,6 @@
 ---
 end_date: '2026-02-25T00:00:00-08:00'
-images: []
-location: ''
-locations: []
-original_content: <div class="container"> <section id="tribe-events-pg-template" class="tribe-events-pg-template">
+feed_content: <div class="container"> <section id="tribe-events-pg-template" class="tribe-events-pg-template">
   <div id="tribe-events-content" class="tribe-events-single"> <p class="tribe-events-back">
   <a href="https://www.dav.org/events-calendar/"> « All Events</a> </p> <h1 class="tribe-events-single-event-title">Virtual
   (Eastern) Job Fair, February 24, 2026</h1> <div class="tribe-events-schedule tribe-clearfix">
@@ -34,9 +31,9 @@ original_content: <div class="container"> <section id="tribe-events-pg-template"
   <span class="tribe-events-meta-value"> <abbr class="tribe-events-abbr tribe-events-start-date
   published dtstart" title="2026-02-24"> February 24, 2026 </abbr> </span> </li> </ul>
   </div> </div> </div> </div> </section> </div>
-original_markdown_body: "« All Events  Virtual (Eastern) Job Fair, February 24, 2026
-  \ February 24, 2026    Find out more         Google Calendar     iCalendar     Outlook
-  365     Outlook Live           Details    Date:   February 24, 2026"
+images: []
+location: ''
+locations: []
 published: false
 source: Disabled American Veterans
 source_url: https://www.dav.org/events-calendar/virtual-eastern-job-fair-february-24-2026/

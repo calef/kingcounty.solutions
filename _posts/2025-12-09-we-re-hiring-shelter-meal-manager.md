@@ -2,10 +2,7 @@
 date: '2025-12-09T19:14:00+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: "<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n<p><!--
+feed_content: "<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div>\n<p><!--
   divi:paragraph --><strong>Full-Time, Hourly</strong><br><strong>Reports to: Co-Executive
   Director of Programs<br>$29.81 – $32.81/hour DOE<br>Seattle and Shoreline, Washington</strong></p>\n<p><!--
   divi:heading {\"level\":4} --></p>\n<h4>About Hunger Intervention Program</h4>\n<p><!--
@@ -119,115 +116,10 @@ original_content: "<div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t
   /divi:paragraph --></p>\n</div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n<p>The
   post <a>We’re Hiring: Shelter Meal Manager</a> appeared first on <a>Hunger Intervention
   Program</a>.</p>"
-original_content_checksum: 17cfb5af01408a4db3a6312677721d94e3849a2a
-original_markdown_body: "<!-- divi:paragraph --> **Full-Time, Hourly**  \n**Reports
-  to: Co-Executive Director of Programs  \n$29.81 – $32.81/hour DOE  \nSeattle and
-  Shoreline, Washington**\n\n<!-- divi:heading {\"level\":4} -->\n\n#### About Hunger
-  Intervention Program\n\n<!-- divi:paragraph -->Hunger Intervention Program (HIP)
-  is a nonprofit organization based in the Lake City neighborhood of North Seattle.
-  HIP’s mission is to increase food security for underserved populations in North
-  King County through nutritious meals, educational programs, and advocacy. If you
-  are looking for experience working with a great team and making a difference in
-  the community, this is a great fit for you.\n\n<!-- divi:heading {\"level\":4} -->\n\n####
-  Hunger Intervention Program Values\n\n<!-- divi:paragraph --> **Nutritious Food:**
-  We believe that eating healthily is a basic foundation for optimum well-being.&nbsp;
-  We strive to prepare and serve high-quality food that is nutritious and seasonal.\n\n<!--
-  /divi:paragraph --> **Community:** We celebrate the connections that food fosters
-  in our diverse community.&nbsp; We believe in strengthening the community by building
-  strong and vital partnerships with our volunteers, non-profit organizations, schools,
-  businesses, and individuals.\n\n<!-- divi:paragraph --> **Equity:** We believe that
-  every individual should have access to nutritious meals. We know that inequities
-  to food access exist based on race, class, and other factors. We focus our resources
-  on programs and activities that reduce these disproportionalities.<!-- /divi:paragraph
-  --> <!-- divi:paragraph -->\n\n**Empowerment:** We believe that individuals are
-  empowered when they have the knowledge to shop and cook healthy meals as well as
-  the tools to influence the mechanisms and policies of food production and distribution.&nbsp;<!--
-  /divi:paragraph --> <!-- divi:paragraph -->\n\n**Advocacy:** We believe that food
-  insecurity is a systemic issue and to end food insecurity, existing policies, systems
-  and institutions must change.&nbsp; We advocate for a just and sustainable food
-  system to address the root causes of food insecurity.<!-- /divi:paragraph --> <!--
-  divi:paragraph -->\n\n**Environmental Sustainability:** We believe food should be
-  grown in an environmentally sustainable way so that we can continue to grow food
-  for generations to come. We strive to make environmentally friendly decisions in
-  all aspects of our program operations.\n\n<!-- divi:heading {\"level\":4} -->\n\n####
-  Position Summary\n\nThe individual will collaborate with the Shelter Meal Coordinator,
-  HIP’s Co-Executive Director of Programs, Lake City Partners Ending Homelessness,
-  AmeriCorps volunteers and HIP volunteers to manage the operations of HIP’s Shelter
-  Meal Program. This program currently serves three NE King County Shelters (The Oaks
-  Enhanced Shelter, The Heron’s Nest Shelter, and the LPEH Emergency Winter Shelter).\n\nThe
-  Shelter Meal Program Manager directly supervises the Shelter Meal Program Coordinator.
-  Under the supervision of the Shelter Program Manager, this small team will create
-  menus that satisfy nutrition requirements, manage weekly food ordering, run daily
-  preps, and coordinate delivery to multiple locations. As a Program Manager, this
-  person will also take a leadership role among program staff by supporting good organizational
-  inventory management, fundraising activities, and other projects that build the
-  organization as a whole. This position requires an individual with a passion for
-  feeding people, especially community members experiencing homelessness, and the
-  ability to communicate effectively with individuals from diverse backgrounds.\n\n<!--
-  divi:heading {\"level\":4} -->\n\n#### Key Responsibilities and Duties\n\n- Directly
-  manage a Shelter Meal Coordinator and occasional supervise AmeriCorps Member(s),
-  job training employees, interns, and work-study students.\n- Lead staff, AmeriCorps
-  members, interns and volunteers in the preparation of meals\n- Lead staff, AmeriCorps
-  members, interns and volunteers in the occasional in-person serving and cleanup
-  of meals\n- Lead the evaluation and continued improvement of meal service\n- Act
-  as the main contact for Shelter Meal Program partnerships and fulfill all contractual
-  obligations to partners\n- Act as the main contact for the Summer Eats program (a
-  10-week, multi-site program, requiring supervision of a small summer meal team)
-  partnerships and fulfill all contractual obligations to partners\n- Plan menus,
-  production sheets, and shopping lists for daily meal service\n- Maintain an orderly
-  inventory and food budgeting system and place bi-weekly food orders from multiple
-  vendors\n- Coordinate with fellow program staff to incorporate food donations to
-  reduce food waste\n- Organize and compile meal tracking data used for monthly reporting
-  and forecasting\n- Ensure the safe handling of food by complying with local health
-  and safety standards\n- Maintain up-to-date contingency plans for when emergencies
-  prevent normal meal service\n- Create a dynamic and welcoming environment for all
-  volunteers and program participants\n- Drive the HIP van to deliver food and supplies\n-
-  Set and achieve annual goals that are in line with HIP’s current strategic plan\n-
-  Participate in regular staff meetings, relevant partner meetings, one-on-ones, and
-  other HIP events\n- Additional related duties as assigned\n\n<!-- divi:heading {\"level\":4}
-  -->\n\n#### Preferred Skills and Qualifications\n\n- A culinary degree and/or two
-  years of hands-on professional or community kitchen experience\n- Management and
-  mentorship experience preferred\n- Lived experience or demonstrated ability to lead
-  and work effectively with people from diverse backgrounds including program participants,
-  staff, volunteers, and community partners\n- De-escalation skills and an earnest
-  interest in working with individuals from a trauma-informed viewpoint\n- Excellent
-  communication skills and the ability to take multiple perspectives into account\n-
-  Strong skills in space efficiency, organization, and time management, both in and
-  out of the kitchen\n- Creativity in problem solving on the fly\n- Willingness to
-  learn and comply with food safety and sanitation rules\n- Passionate about food
-  and addressing issues of hunger\n- Committed to social justice, anti-racism, and
-  the process of ongoing unlearning and relearning.\n\n#### Requirements\n\n<!-- /divi:heading
-  -->\n\n- Comfortable lifting up to 40 pounds on a regular basis\n- Comfortable standing
-  and remaining active for an 8-hour shift\n- Comfortable reaching, bending, and/or
-  kneeling repeatedly\n- Willing to learn and comply with food safety and sanitation
-  rules\n- Pass the Washington State Patrol background check (paid for by employer)\n-
-  Have or obtain a current Washington State Food Worker Card (paid for by employer)\n-
-  Have basic computer proficiency including MS Word, Excel, and the Google Suite\n\n<!--
-  divi:heading {\"level\":4} -->\n\n#### Benefits and Compensation\n\n<!-- /divi:heading
-  -->In addition to the compensation listed above HIP provides a benefits package
-  that includes:\n\n- 100% employer-paid medical insurance, including dental and vision\n-
-  Retirement contribution option with 3% employer matching\n- Generous paid time off
-  as well as 11 paid holidays\n- Support for professional development and training\n-
-  Unlimited ORCA pass\n\n<!-- divi:heading {\"level\":4} -->\n\n#### How to apply\n\nPlease
-  send a resume and paragraph explaining why you are interested in the position to
-  jobs@hungerintervention.org with “Shelter Meal Program Manager” in the subject line.
-  If you do not have access to email, call 206-538-6567 and leave a message. Interviews
-  will be conducted on a rolling basis until the position is filled. For priority
-  consideration, **please submit your application by December 12<sup>th</sup>.**\n\n&nbsp;\n\n<!--
-  divi:paragraph -->HIP is an equal opportunity employer. We aspire to be a diverse
-  organization and seek to hire individuals who contribute to our cultural fluency.
-  We value employees who are aware of their cultural lens and the impact it has on
-  their interactions, and who can effectively connect across differences including
-  (but not limited to) race, class, gender identity, sexual orientation, and physical
-  ability. Black, Indigenous, People of Color, LGBTQ+, those who have lived experience
-  of poverty, first-generation students, and those with intersectionality that place
-  them at a professional or social disadvantage are strongly encouraged to apply.\n\n<!--
-  divi:paragraph -->_Disclaimer: This job description is not to be construed as an
-  exhaustive list of all responsibilities, duties, and skills required for this position.
-  All HIP employees may be required to perform duties outside of their normal responsibilities
-  from time to time, as needed, to meet the ongoing needs of the organization._\n\n<!--
-  /divi:paragraph -->\n\nThe post We’re Hiring: Shelter Meal Manager appeared first
-  on Hunger Intervention Program."
+feed_content_checksum: 17cfb5af01408a4db3a6312677721d94e3849a2a
+images: []
+locations:
+- King County
 source: Hunger Intervention Program
 source_url: https://hungerintervention.org/2025/12/09/were-hiring-shelter-meal-manager/
 summarized: true

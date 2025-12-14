@@ -2,10 +2,7 @@
 date: '2025-11-25T18:17:16+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <p>On December 1, 2025, new federal work requirements for the Supplemental Nutrition Assistance Program (SNAP) will take effect statewide. These rules, passed under H.R. 1 (the “Big Beautiful Bill”), expand who must demonstrate that they are working to keep their benefits.</p>
   <p>Below is an overview of the coming changes to SNAP, who they’ll impact, and what we can do to prepare. You’ll find detailed information about the new work requirements at <a>the USDA website</a>.</p>
   <h3>What are the new work requirements?</h3>
@@ -68,54 +65,10 @@ original_content: |-
   <li><a>Basic Food Employment and Training (BFET)</a></li>
   </ul>
   <p>The post <a>New SNAP Work Requirements Start December 1: What They Mean for Washington Families</a> appeared first on <a>Northwest Harvest</a>.</p>
-original_content_checksum: 8f18d7b30f20a2322d888a421dca14820e578170
-original_markdown_body: "On December 1, 2025, new federal work requirements for the
-  Supplemental Nutrition Assistance Program (SNAP) will take effect statewide. These
-  rules, passed under H.R. 1 (the “Big Beautiful Bill”), expand who must demonstrate
-  that they are working to keep their benefits.\n\nBelow is an overview of the coming
-  changes to SNAP, who they’ll impact, and what we can do to prepare. You’ll find
-  detailed information about the new work requirements at the USDA website.\n\n###
-  What are the new work requirements?\n\nUnder federal law, Able-Bodied Adults Without
-  Dependents (ABAWDs) can only receive SNAP for three months in any three-year period
-  unless they meet work requirements or qualify for an exemption.\n\nTo stay on SNAP
-  longer than three months, individuals must either:\n\n- Complete at least 80 hours
-  of verified work per month (about 20 hours per week), _OR_\n- Participate in a SNAP
-  Employment & Training program (Washington’s BFET program), _OR_\n- Combine qualifying
-  activities such as paid employment, self‑employment, or certain verified unpaid
-  work (volunteering, bartering, or training) to meet the 80‑hour monthly threshold.
-  Documentation is required to verify compliance.\n\n### Who will be impacted?\n\nH.R.
-  1 removes exemptions that previously protected vulnerable groups. Now, the following
-  must meet work requirements or risk losing benefits:\n\n- Veterans\n- Young adults
-  aging out of foster care\n- People experiencing homelessness\n- Parents with children
-  over age 14\n- Adults ages 18–64 who are not employed full‑time year‑round\n- Additionally,
-  refugees, asylum seekers, and immigrants with humanitarian protections will no longer
-  qualify for SNAP under the new law.\n\nAltogether, as many as 170,300 Washingtonians
-  could lose food assistance — 137,300 due to expanded work rules and 33,000 due to
-  immigrant eligibility changes.\n\n### What Can SNAP Recipients Do to Prepare?\n\n-
-  **Check your notices:** Watch for letters or portal updates on eligibility and recertification
-  from DSHS.\n- **Understand exemptions:** Some people may still qualify (e.g., health
-  conditions, caregiving responsibilities, enrollment in school or treatment programs).
-  Verification may be required.\n- **Document your activities:** Keep pay stubs, volunteer
-  logs, or BFET participation records to show compliance.\n- **Seek support early:**
-  Contact your local DSHS office or BFET program to explore options.\n\n### What Can
-  Supporters Do?\n\n- **Spread awareness:** Share accurate, verified information from
-  sources like DSHS and USDA.\n- **Support food banks:** Demand is expected to continue
-  rising; donations and volunteers will be critical. Find a food bank near you that
-  could benefit from your help \\>\n- \n\n### Calls to Action\n\n- **Advocate for
-  change locally:** Push for policies that protect access to food and reduce barriers
-  to assistance in Washington. Take action now by urging WA representatives to protect
-  food assistance in the upcoming legislative session \\>\n- **Advocate for national
-  change:** Urge members of Congress to cosponsor and support the Restoring Food Security
-  for American Families and Farmers Act of 2025, which repeals the cuts to SNAP.&nbsp;\n\n###
-  Moving Forward\n\nThe new SNAP work requirements, combined with other impacts from
-  H.R. 1, will reshape food access in Washington. While they place heavy burdens on
-  families and individuals already struggling, our communities can respond with resilience
-  and solidarity. By preparing now, supporting one another, and advocating for food
-  justice, we can work to mitigate these changes and ensure no one in Washington goes
-  hungry.\n\n* * *\n\n**Additional Information&nbsp;**\n\n- Department of Social and
-  Health Services (DSHS)\n- US Department of Agriculture (USDA)\n- Basic Food Employment
-  and Training (BFET)\n\nThe post New SNAP Work Requirements Start December 1: What
-  They Mean for Washington Families appeared first on Northwest Harvest."
+feed_content_checksum: 8f18d7b30f20a2322d888a421dca14820e578170
+images: []
+locations:
+- King County
 source: Northwest Harvest
 source_url: https://www.northwestharvest.org/news-insights/new-snap-work-requirements-start-december-1-what-they-mean-for-washington-families/
 summarized: true

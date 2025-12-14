@@ -1,8 +1,6 @@
 ---
 date: '2025-02-11T00:30:09+00:00'
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   <p>SouthEast Effective Development (SEED) and SEEDArts are pleased to announce that we have transferred operations and ownership of KVRU 105.7FM to Media for Informed Communities, led by Crystal Fincher and Monisha Harrell.</p>
 
 
@@ -32,25 +30,8 @@ original_content: |-
 
   <p>Watch for updates at <a href="https://www.kvru.org/" target="_blank" rel="noreferrer noopener">kvru.org</a>.</p>
   <p>The post <a href="https://www.seedseattle.org/seed-transfers-kvru-105-7fm-to-community-ownership/">SEED Transfers KVRU 105.7FM to Community Ownership</a> appeared first on <a href="https://www.seedseattle.org">SouthEast Effective Development</a>.</p>
-original_markdown_body: |-
-  SouthEast Effective Development (SEED) and SEEDArts are pleased to announce that we have transferred operations and ownership of KVRU 105.7FM to Media for Informed Communities, led by Crystal Fincher and Monisha Harrell.
-
-  ![](https://www.seedseattle.org/wp-content/uploads/2025/02/KVRU-transfer-signing-1024x964.png)
-  _Crystal Fincher and Michael Seiwerath sign documents; Monisha Harrell, Maurice Jones, and Kathy Fowells look on_
-
-  After the Obama administration passed legislation that made it possible for urban communities to create FCC-licensed low-power FM radio stations, SEED applied for a license at the urging of community members. KVRU launched its first broadcast on October 10, 2017. &nbsp;SEED has invested over $750,000 to build, equip, and activate KVRU – and hundreds of community members have volunteered, created programs and participated in workshops. SEED’s long-term goal was to ensure that this vital resource be community owned and operated.
-
-  Under SEED’s stewardship, KVRU has provided hands-on media training to residents and youth, broadcast hundreds of community stories, and served as a crucial information hub for Southeast Seattle’s diverse communities. _ **“SEED has been proud to incubate KVRU since its founding, and we’re delighted to transition operations to such capable and community-focused leadership,”** _ said Michael Seiwerath, SEED Executive Director. _“We’re thrilled that the new ownership includes a longtime KVRU program creator as well as other people deeply committed to Southeast Seattle.”_
-
-  Media for Informed Communities will continue to operate out of the KVRU Studios in the South End. Programming Director Maurice Jones Jr., who has been with the station since 2018, will continue in his role after the transition. KVRU will expand its programming to include local music, multi-lingual talk shows, community news, and high school sports coverage – creating a true voice for the diverse communities of Southeast Seattle.&nbsp;
-
-  _“Community radio thrives when it reflects the full spectrum of local voices and experiences,”_ said Crystal Fincher. _“We’re building a radio station where you’ll hear your neighbors’ music, your community’s stories, and coverage of your local high school’s big games – all in the languages spoken in our neighborhoods.”_
-
-  _“At a time when local media voices are disappearing and communities struggle to see themselves reflected in mainstream coverage, non-commercial community radio plays an essential role,”_ said Monisha Harrell. _“Our goal is to deliver what community radio should be – locally owned, locally programmed, and deeply connected to the people it serves. We’re excited to continue KVRU’s mission of amplifying Southeast Seattle’s diverse voices and stories at a time when independent local media is more important than ever.”_
-
-  Watch for updates at [kvru.org](https://www.kvru.org/).
-
-  The post [SEED Transfers KVRU 105.7FM to Community Ownership](https://www.seedseattle.org/seed-transfers-kvru-105-7fm-to-community-ownership/) appeared first on [SouthEast Effective Development](https://www.seedseattle.org).
+images: []
+locations: []
 published: false
 source: SouthEast Effective Development
 source_url: https://www.seedseattle.org/seed-transfers-kvru-105-7fm-to-community-ownership/

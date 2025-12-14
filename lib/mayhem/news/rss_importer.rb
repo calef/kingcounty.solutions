@@ -6,7 +6,6 @@ require 'net/http'
 require 'open-uri'
 require 'openssl'
 require 'nokogiri'
-require 'reverse_markdown'
 require 'rss'
 require 'time'
 require 'uri'
@@ -265,7 +264,6 @@ module Mayhem
 
       def write_post(source_title, title_text, link_url, published_time, original_html, rss_guid = nil)
         normalized_html = Mayhem::Content::HtmlNormalizer.normalize(original_html, base_url: link_url)
-        content_md = ReverseMarkdown.convert(normalized_html)
         checksum = Mayhem::Content::HtmlNormalizer.checksum(normalized_html)
         date_prefix = published_time.strftime('%Y-%m-%d')
         title_slug = Mayhem::FrontMatter::SlugGenerator.filename_slug(
@@ -300,13 +298,13 @@ module Mayhem
           'source' => source_title,
           'source_url' => link_url.to_s,
           'rss_guid' => rss_guid,
-          'original_content' => normalized_html,
-          'original_content_checksum' => checksum
+          'feed_content' => normalized_html,
+          'feed_content_checksum' => checksum
         }
         document = Mayhem::FrontMatter::Document.new(
           path: filename,
           front_matter: frontmatter,
-          body: "\n#{content_md}"
+          body: ''
         )
         document.save
         register_post(link_url, rss_guid)
@@ -494,7 +492,7 @@ module Mayhem
           next unless doc
 
           fm = doc.front_matter
-          next unless fm['original_content']
+          next unless fm['feed_content']
 
           url = Mayhem::Support::UrlNormalizer.normalize(fm['source_url'])
           key = post_key_for_link(url)
@@ -512,10 +510,10 @@ module Mayhem
         return false unless document
 
         front_matter = document.front_matter
-        existing_checksum = front_matter['original_content_checksum'].to_s
+        existing_checksum = front_matter['feed_content_checksum'].to_s
         return true if !existing_checksum.empty? && existing_checksum == checksum
 
-        existing_content = front_matter['original_content']
+        existing_content = front_matter['feed_content']
         return false unless existing_content
 
         base_url = front_matter['source_url'].to_s

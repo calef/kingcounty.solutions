@@ -2,13 +2,11 @@
 date: '2025-03-14T07:00:00+00:00'
 events: []
 events_extracted: true
+feed_content: We're pleased to report that we received word yesterday that the City
+  of Seattle's Human Services Department has given Nickelsville the...
 images: []
 locations:
 - King County
-original_content: We're pleased to report that we received word yesterday that the
-  City of Seattle's Human Services Department has given Nickelsville the...
-original_markdown_body: We're pleased to report that we received word yesterday that
-  the City of Seattle's Human Services Department has given Nickelsville the...
 source: Nickelsville
 source_url: https://www.nickelsville.org/post/brighton-village-nickelsville-resumes-work-thanks-to-community-support
 summarized: true

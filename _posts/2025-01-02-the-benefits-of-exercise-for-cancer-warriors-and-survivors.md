@@ -2,10 +2,7 @@
 date: '2025-01-02T19:05:44+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <p><img width="300" height="188" src="https://blog.valleymed.org/wp-content/uploads/2020/10/Seniors-Walking_SS_526061074_blog-300x188.jpg" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://blog.valleymed.org/wp-content/uploads/2020/10/Seniors-Walking_SS_526061074_blog-300x188.jpg 300w, https://blog.valleymed.org/wp-content/uploads/2020/10/Seniors-Walking_SS_526061074_blog-600x375.jpg 600w, https://blog.valleymed.org/wp-content/uploads/2020/10/Seniors-Walking_SS_526061074_blog-768x480.jpg 768w, https://blog.valleymed.org/wp-content/uploads/2020/10/Seniors-Walking_SS_526061074_blog.jpg 800w" sizes="auto, (max-width: 300px) 100vw, 300px" /></p>
   <p>Exercise is a powerful tool for improving the quality of life for people fighting cancer and survivors alike. Whether during treatment or in recovery, engaging in regular physical activity can offer a wide range of physical, emotional, and psychological benefits.</p>
 
@@ -32,37 +29,9 @@ original_content: |-
 
 
   <p><em>Content for this article is for educational purposes only and is not a substitute for professional medical advice.</em></p>
-original_markdown_body: "![](https://blog.valleymed.org/wp-content/uploads/2020/10/Seniors-Walking_SS_526061074_blog-300x188.jpg)\n\nExercise
-  is a powerful tool for improving the quality of life for people fighting cancer
-  and survivors alike. Whether during treatment or in recovery, engaging in regular
-  physical activity can offer a wide range of physical, emotional, and psychological
-  benefits.\n\n**Physical Benefits**  \nExercise can help combat some of the most
-  challenging side effects of cancer treatment, such as fatigue, loss of muscle strength,
-  and weight changes. It improves cardiovascular health, enhances mobility, and reduces
-  the risk of developing other chronic diseases like diabetes and heart disease. Studies
-  have also shown that regular physical activity may help reduce the risk of cancer
-  recurrence in some types of cancer, such as breast and colon cancer.\n\n**Emotional
-  and Psychological Benefits**  \nCancer treatment can take a toll on mental health,
-  often leading to anxiety, depression, or feelings of isolation. Exercise releases
-  endorphins, the body’s natural mood elevators, helping to reduce stress and improve
-  overall mental well-being. Group fitness classes or walking with friends can also
-  provide a sense of community and support, combating feelings of loneliness.\n\n**Improved
-  Treatment Tolerance and Recovery**  \nStaying active during treatment has been linked
-  to improved tolerance of therapies like chemotherapy and radiation. It may help
-  reduce treatment-related side effects and improve recovery times. For survivors,
-  physical activity supports the body’s healing process and enhances long-term vitality.\n\n**Starting
-  Safely**  \nIt’s essential for cancer patients and survivors to consult their healthcare
-  team before starting or modifying an exercise routine. Programs should be tailored
-  to individual needs, considering the type and stage of cancer, treatment status,
-  and overall health.\n\nIncorporating exercise into daily life doesn’t just strengthen
-  the body—it fosters hope, resilience, and a sense of control during and after the
-  cancer journey. Valley Medical Center is proud to offer specialists in exercise
-  programming through our Lifestyle Medicine Centers in Covington, Maple Valley, and
-  Renton. Our team of certified fitness professionals work to ensure your exercise
-  prescription ties in seamlessly with the care directed by your healthcare team.
-  Learn more about our services at **[valleymed.org/lifestylemed](http://valleymed.org/lifestylemed)**.&nbsp;\n\n_Content
-  for this article is for educational purposes only and is not a substitute for professional
-  medical advice._"
+images: []
+locations:
+- King County
 source: Hospital District No. 1 (Valley Medical Center)
 source_url: https://blog.valleymed.org/2025/01/02/the-benefits-of-exercise-for-cancer-warriors-and-survivors/?utm_source=rss&utm_medium=rss&utm_campaign=the-benefits-of-exercise-for-cancer-warriors-and-survivors
 summarized: true

@@ -2,13 +2,9 @@
 date: '2025-03-10T16:20:04+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: "<div class=\"et_pb_section et_pb_section_0 et_section_regular\"
-  >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_row
-  et_pb_row_0\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4 et_pb_column_0
-  \ et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div
+feed_content: "<div class=\"et_pb_section et_pb_section_0 et_section_regular\" >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div
+  class=\"et_pb_row et_pb_row_0\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4
+  et_pb_column_0  et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div
   class=\"et_pb_module et_pb_text et_pb_text_0  et_pb_text_align_left et_pb_bg_layout_light\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div
   class=\"et_pb_text_inner\"><p><em>As seen in the Federal Way Mirror.</em></p>\n<p>&nbsp;</p>\n<p>Every
   veteran’s journey is unique, but for many, the transition from military to civilian
@@ -92,63 +88,9 @@ original_content: "<div class=\"et_pb_section et_pb_section_0 et_section_regular
   class=\"et_bloom_bottom_trigger\"></span><p>The post <a href=\"https://valleycities.org/support-for-king-county-veterans-mental-health-careers-and-community-resources/\">Support
   for King County Veterans: Mental health, careers and community resources</a> appeared
   first on <a href=\"https://valleycities.org\">Valley Cities Behavioral Health Care</a>.</p>"
-original_markdown_body: |-
-  _As seen in the Federal Way Mirror._
-
-  &nbsp;
-
-  Every veteran’s journey is unique, but for many, the transition from military to civilian life comes with unexpected challenges.
-
-  Of the estimated 127,000 veterans who call King County home, approximately 20,000 have experienced post-traumatic stress disorder (PTSD), traumatic brain injury (TBI) or military sexual trauma (MST).
-
-  Despite the need for support, national trends suggest that another 12,000 veterans in the region hesitate to seek help on their own.
-
-  While the weight of these struggles leads to homelessness, poverty and/or unemployment, one King County organization is working to change that.
-
-  [Valley Cities Behavioral Health&nbsp;](https://valleycities.org/service/military-veterans-services/)[Care](https://valleycities.org/service/military-veterans-services/), particularly the&nbsp;[Steven A. Cohen Military Family Clinic at Valley&nbsp;](https://cohen.valleycities.org/)[Cities](https://cohen.valleycities.org/), provides essential services to help veterans rebuild their lives and rediscover their sense of purpose.
-
-  **A lifeline for veterans and their families**
-
-  At the Cohen Clinic, veterans and their families find a safe, supportive space where they can access tailored mental health services:
-
-  - **Therapy services –** &nbsp;Individual, couples and family therapy using evidence-based practices to address behavioral health challenges.
-  - **Group therapy –** &nbsp;Various therapy and non-therapy groups for children and adults, offered as openings become available.
-  - **Medication management –** &nbsp;Short-term medication support for mental health and substance use disorders, including depression, anxiety and PTSD.
-  - **Case management –** &nbsp;Collaborative assistance to help veterans address diverse needs beyond therapy, ensuring holistic support.
-
-  “Our veterans sacrificed so much to protect others, and the least we can do is ensure they receive proper care and support when they need it most,” says Jacqueline Scott Howard, a recruiter at Valley Cities.
-
-  **More than just support**
-
-  For many veterans, healing goes beyond mental health care – it includes finding stability and a renewed sense of purpose through employment. Valley Cities actively prepares veterans for careers, not just in the broader workforce but within the organization itself.
-
-  “Not only do we assist veterans in finding employment with other organizations and businesses in their communities, we also provide opportunities within our own organization,” Scott Howard says. “By first ensuring they receive the support, training and high-quality, trauma-informed care they need, we can then employ many of the veterans we help, allowing them to assist us in supporting future veterans in need.”
-
-  **Connecting Veterans to new opportunities**
-
-  For those ready to take the next step in their careers, Valley Cities is participating in the coming&nbsp;[RecruitMilitary Job Fair](https://my.recruitmilitary.com/events/job-fair-at-joint-base-lewis-mcchord-march-27-2025?fbclid=IwY2xjawI7FZRleHRuA2FlbQIxMAABHapRNFZaKzD3hWGsghD_TUFgtdkv1fFhWVHSz9CRGIoNUX5PKOs_y8JJow_aem_z6y7EjdfBKhw3cSugGoZcw)&nbsp;at the American Lake Conference Center at Fort Lewis. The event features dozens of employers offering information and resources to veterans actively seeking employment.
-
-  **RecruitMilitary Job Fair**
-
-  - **Date:** &nbsp;Thursday, March 27, from 11 a.m. to 3 p.m.
-  - **Location:** &nbsp;American Lake Conference Center ([8085](https://www.google.com/maps/dir//8085+Nco+Beach+Rd,+Joint+Base+Lewis-McChord,+WA+98438,+United+States/@47.110176,-122.6624299,24865m/data=!3m1!1e3!4m8!4m7!1m0!1m5!1m1!1s0x5491066fd96df111:0x6e97aef7766253c8!2m2!1d-122.5801711!2d47.1100223?entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoJLDEwMjExNDUzSAFQAw%3D%3D)[&nbsp;NCO Beach Rd., Joint Base Lewis-McChord, WA](https://www.google.com/maps/dir//8085+Nco+Beach+Rd,+Joint+Base+Lewis-McChord,+WA+98438,+United+States/@47.110176,-122.6624299,24865m/data=!3m1!1e3!4m8!4m7!1m0!1m5!1m1!1s0x5491066fd96df111:0x6e97aef7766253c8!2m2!1d-122.5801711!2d47.1100223?entry=ttu&g_ep=EgoyMDI1MDMwNC4wIKXMDSoJLDEwMjExNDUzSAFQAw%3D%3D))
-  - **Free parking and admission** &nbsp;for attendees and their families.&nbsp;**[Find more information online&nbsp;](https://www.facebook.com/events/1143745357271495/)****[here](https://www.facebook.com/events/1143745357271495/)**.
-
-  “Our veteran team members at Valley Cities, as well as those at the Cohen Clinic, share one primary goal: to connect with and serve our veteran population and their families to the best of our abilities,” says Jenna Kuechler, a recruiter at Valley Cities. “It’s vital that we support our veterans and their families so they can find a path to success and recovery.”
-
-  Valley Cities’ Veteran Outreach Pathfinders are actively working in the community to build trust with veterans in need.
-
-  “Our Pathfinders program is successful because our Pathfinders are veterans themselves. They have faced many of the same struggles as those they’re helping,” Kuechler adds. “Their shared experiences foster trust and provide veterans in crisis with the stability and support they need.”
-
-  **Are you a Veteran or know one in need?** &nbsp;Reach out to Sarah Faison at&nbsp;[sfaison@valleycities.org](mailto: sfaison@valleycities.org)&nbsp;or by phone: 425-757-7875, and contact Jay Latham at&nbsp;[jalatham@valleycities.org](mailto: jalatham@valleycities.org)&nbsp;or 253-335-3749.
-
-  To learn more about Valley Cities and their services, call 253-833-7444 or visit&nbsp;[valleycities.org](https://valleycities.org/service/military-veterans-services/). Follow them on&nbsp;[Facebook](https://www.facebook.com/valleycitiesbehavioralHC)&nbsp;for news and updates.
-
-  **Help support Valley Cities:**
-
-  Valley Cities Behavioral Health Care accepts one-time, monthly and legacy donations to help sustain and expand its services throughout King County. Learn how you can support Valley Cities at&nbsp;[valleycities.org](https://valleycities.org/).
-
-  The post [Support for King County Veterans: Mental health, careers and community resources](https://valleycities.org/support-for-king-county-veterans-mental-health-careers-and-community-resources/) appeared first on [Valley Cities Behavioral Health Care](https://valleycities.org).
+images: []
+locations:
+- King County
 source: Valley Cities Behavioral Health Care
 source_url: https://valleycities.org/support-for-king-county-veterans-mental-health-careers-and-community-resources/
 summarized: true

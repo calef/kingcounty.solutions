@@ -1,10 +1,6 @@
 ---
 end_date: '2025-12-16T19:30:00-08:00'
-images: []
-location: El Centro de la Raza, 2524 16th Ave S, Seattle, WA, 98144, United States
-locations:
-- King County
-original_content: "<article><div><section> <div> <p> <a> « All Events</a></p> <h1>Latin@s
+feed_content: "<article><div><section> <div> <p> <a> « All Events</a></p> <h1>Latin@s
   in Business/ Latin@s en Negocios</h1> <div> <div> <span>December 16 @ 5:30 pm</span>
   - <span>7:30 pm</span> </div> <div> <span> Event Series </span> <a> <span> (See
   All) </span> </a> </div> <span>Free</span> </div> <div> <div> <p>\U0001F3AF ¡Prepárate
@@ -57,47 +53,11 @@ original_content: "<article><div><section> <div> <p> <a> « All Events</a></p> <
   <span>7:30 pm</span> </div> </li> <li> <div> <h3><a>Kaleidoscope Play and Learn
   (Evento en Español)</a></h3> <span>December 17 @ 10:30 am</span> - <span>12:30 pm</span>
   </div> </li> </ul> </div> </div> </section></div></article>"
-original_content_checksum: 883e7fdb478a20daa3971653f63dccf59376cbd7
-original_markdown_body: "« All Events Latin@s in Business/ Latin@s en Negocios   December
-  16 @ 5:30 pm - 7:30 pm    Event Series    (See All)    Free    \U0001F3AF ¡Prepárate
-  para cerrar el 2025 con éxito! \U0001F680 El último trimestre del año es la oportunidad
-  perfecta para organizar tus ideas, fortalecer tu negocio y arrancar el próximo año
-  con un plan claro y poderoso. \U0001F4A1✨ \U0001F449 Te invitamos al programa GRATIS
-  y 100% virtual: Creación y Expansión de Negocios – Latin@s en Negocios \U0001F4C5
-  Fechas: del 16 de septiembre al 9 de octubre \U0001F560 Horario: Martes y jueves,
-  5:30 – 7:30 PM (8 clases por Zoom) \U0001F4B0 Costo: ¡Totalmente gratis! Lo que
-  recibirás: ✅ Fundamentos de negocio ✅ Creación de tu plan de negocio ✅ Información
-  sobre licencias y permisos ✅ Estrategias digitales ✅ Finanzas y administración ✅
-  Comunicación empresarial ✅ Marca y publicidad digital ✅ Red de expertos para apoyarte
-  \U0001F525 No dejes que termine el año sin invertir en tu futuro. Este es tu momento
-  para dar el siguiente paso como emprendedor. \U0001F4DE Inscríbete hoy: Luis Jaimez
-  Ocampo – 206.833.2986 \U0001F4E7 ljocampo@elcentrodelaraza.org Berenice Abarca-
-  360.986.7019 \U0001F4E7babarca@elcentrodelaraza.org \U0001F4A1 ¡Comienza a construir
-  el éxito del 2026 desde ahora! #LatinosEnNegocios #Emprendimiento #CursoGratis #NegociosExitosos
-  ____________________________________________________________ \U0001F3AF Get ready
-  to close 2025 with success! \U0001F680 The last quarter of the year is the perfect
-  opportunity to organize your ideas, strengthen your business, and start the upcoming
-  year with a clear and powerful plan. \U0001F4A1✨ \U0001F449 We invite you to the
-  FREE and 100% virtual program: Business Creation and Expansion – Latin@s in Business
-  \U0001F4C5 Dates: September 16 – October 9 \U0001F560 Schedule: Tuesdays and Thursdays,
-  5:30 – 7:30 PM (8 Zoom classes) \U0001F4B0 Cost: Totally free! What you’ll receive:
-  ✅ Business fundamentals ✅ Creation of your business plan ✅ Information on licenses
-  and permits ✅ Digital strategies ✅ Finance and administration ✅ Business communication
-  ✅ Branding and digital advertising ✅ Expert support network \U0001F525 Don’t let
-  the year end without investing in your future. This is your moment to take the next
-  step as an entrepreneur. \U0001F4DE Register today: Luis Jaimez Ocampo – 206.833.2986
-  \U0001F4E7 ljocampo@elcentrodelaraza.org Berenice Abarca – 360.986.7019 \U0001F4E7
-  babarca@elcentrodelaraza.org \U0001F4A1 Start building your 2026 success now! #LatinosInBusiness
-  #Entrepreneurship #FreeCourse #SuccessfulBusiness      Google Calendar     iCalendar
-  \    Outlook 365     Outlook Live        Details   Date:   December 16     Time:
-  5:30 pm - 7:30 pm   Series:   Latin@s in Business/ Latin@s en Negocios    Cost:
-  \ Free    Event Category: Small Business Services   Event Tags:Business, Community
-  Resource, Latino, Services     Organizer  Business Opportunity Center       Venue
-  \  El Centro de la Raza     2524 16th Ave S Seattle, WA 98144 United States  + Google
-  Map       Related Events    Digital Skills for Life/ Herramientas Digitales December
-  16 @ 5:30 pm - 7:30 pm     Herramientas Digitales/ Digital Skills for Life December
-  16 @ 5:30 pm - 7:30 pm     Kaleidoscope Play and Learn (Evento en Español) December
-  17 @ 10:30 am - 12:30 pm"
+feed_content_checksum: 883e7fdb478a20daa3971653f63dccf59376cbd7
+images: []
+location: El Centro de la Raza, 2524 16th Ave S, Seattle, WA, 98144, United States
+locations:
+- King County
 published: false
 source: El Centro de la Raza
 source_url: https://www.elcentrodelaraza.org/event/latins-in-business-latins-en-negocios-3/2025-12-16/

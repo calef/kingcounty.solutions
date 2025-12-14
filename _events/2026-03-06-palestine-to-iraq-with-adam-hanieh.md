@@ -1,10 +1,6 @@
 ---
 end_date: '2026-03-06T13:00:00-08:00'
-images: []
-location: Livestreaming
-locations:
-- King County
-original_content: '<article id="post-3862" class="post-3862 uw_oplevents type-uw_oplevents
+feed_content: '<article id="post-3862" class="post-3862 uw_oplevents type-uw_oplevents
   status-publish hentry category-department-of-american-ethnic-studies category-department-of-gender-women-sexuality-studies
   category-department-of-history category-graduate-school-sponsored category-jackson-school-of-international-studies">
   <header class="entry-header"> <h1 class="entry-title">The Office of Public Lectures
@@ -68,46 +64,10 @@ original_content: '<article id="post-3862" class="post-3862 uw_oplevents type-uw
   of History, Henry M. Jackson School of International Studies, Department of Women,
   Gender &amp; Sexuality Studies, Department of American Ethnic Studies, The Graduate
   School</p> </div> </article>'
-original_markdown_body: 'The Office of Public Lectures presents: Palestine to Iraq
-  with Adam Hanieh    March 6, 2026 12:00 pm Livestream Pay What You WillAvailableRecordedLivestreamComing
-  Soon CART Captioning     Adam Hanieh    While World War I is often framed as a European
-  conflict, its most far-reaching consequences were profoundly felt far beyond Europe’s
-  borders. In the Middle East, the war sparked a sweeping political crisis that ultimately
-  led to the collapse of the Ottoman Empire. In its wake, the European victors imposed
-  new borders and mandates, carving the region into fragmented zones of imperial control
-  and influence.  But this was not merely a story of unchecked colonial dominance.
-  In the postwar moment, a spectrum of fluid, intersecting anti-colonial movements
-  emerged. Palestine became a key site in these struggles, as a racialized order of
-  settler-colonial capitalism took shape under British rule. This talk locates those
-  movements within the broader transition from British to American imperial ascendancy,
-  contending that the political history of the region must be understood as integral
-  to the global history of fossil capitalism.  Moving beyond frameworks centered solely
-  on empire, the talk examines how anti-colonial actors envisioned their futures within
-  a rapidly transforming global system—even as new hierarchies of race, empire, and
-  capital were being redefined.  Registration opens December 10, 2025.    About the
-  speaker  Adam Hanieh  Professor of Political Economy and Global Development, Institute
-  of Arab and Islamic Studies (IAIS), University of Exeter, Joint Chair in Area Studies
-  (Middle East), IAIS (Exeter) and IIAS (Tsinghua), Distinguished Visiting Professor,
-  Tsinghua University, Beijing, China Adam Hanieh is a Professor of Political Economy
-  and Global Development at IAIS, University of Exeter, and Joint Chair in Middle
-  East Studies at the Institute of International and Area Studies (IIAS) at Tsinghua
-  University, Beijing, China.  His research focuses on oil and capitalism, energy
-  transitions, and the political economy of the Middle East. To date, he has published
-  five books—four single-authored and one co-edited—the most recent being Crude Capitalism:
-  Oil, Corporate Power, and the Making of the World Market (Verso Books, 2024). His
-  third book, Money, Markets, and Monarchies: The Gulf Cooperation Council and the
-  Political Economy of the Contemporary Middle East (Cambridge University Press, 2018),
-  received the 2019 British International Studies Association International Political
-  Economy Group Book Prize.  Before joining the University of Exeter, he served as
-  a Professor of Development Studies at SOAS, University of London, where he taught
-  for a decade. At SOAS, he was a founding member of the Centre for Palestine Studies,
-  an active participant in the London Middle East Institute, and co-chaired the SOAS
-  Centre for Migration and Diaspora Studies from 2018 to 2020.  Beyond academia, he
-  holds positions on the Board of Directors of the Middle East Research and Information
-  Project (MERIP) in Washington, D.C. and is a Research Fellow at the Transnational
-  Institute (TNI).    Sponsoring Departments: Department of History, Henry M. Jackson
-  School of International Studies, Department of Women, Gender & Sexuality Studies,
-  Department of American Ethnic Studies, The Graduate School'
+images: []
+location: Livestreaming
+locations:
+- King County
 published: false
 source: University of Washington
 source_url: https://www.washington.edu/lectures/events/toward-a-global-history-of-fossil-capitalism-and-anticolonial-imaginaries-presented-by-the-office-of-public-lectures/

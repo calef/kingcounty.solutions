@@ -2,10 +2,7 @@
 date: '2025-05-03T05:01:42+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: |-
+feed_content: |-
   ![](https://sophiaway.org/wp-content/uploads/2025/05/Image-blog-2025-05.png)
 
   When Amber shared these words at our Fall Community Brunch, she captured not just her personal experience, but the heart of what we strive to be – a place of hope, belonging, and new beginnings. Her words remind us why we do what we do. Every day, we are inspired by the women we meet and serve – by their courage, their resilience, and their determination to rebuild their lives.
@@ -27,6 +24,9 @@ original_content: |-
   ![](https://sophiaway.org/wp-content/uploads/2025/05/NL-image-for-Q1-impact.jpg)
 
   The post [“The Sophia Way will always be my family.”](https://sophiaway.org/tsw-family/) first appeared on [The Sophia Way](https://sophiaway.org).
+images: []
+locations:
+- King County
 source: The Sophia Way
 source_url: https://sophiaway.org/tsw-family/?utm_source=rss&utm_medium=rss&utm_campaign=tsw-family
 summarized: true

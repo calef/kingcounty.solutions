@@ -2,10 +2,7 @@
 date: '2025-10-21T20:40:27+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">DOH
+feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">DOH
   Launches Measles Exposure Map to Help Keep Washingtonians Safe</span>\n\n            <div
   class=\"field field--name-field-date-and-time field--type-datetime field--label-hidden
   field__item\"><time datetime=\"2025-10-21T20:29:00Z\" class=\"datetime\">October
@@ -61,45 +58,9 @@ original_content: "<span class=\"field field--name-title field--type-string fiel
   href=\"https://www.doh.wa.gov/\">website</a>&nbsp;is your source for a healthy dose
   of information. Get updates by following us on&nbsp;<a href=\"https://doh.wa.gov/about-us/contact-us/social-media\">social
   media</a>.</p>\n\n<p class=\"text-align-center\">###</p></div>"
-original_markdown_body: |-
-  DOH Launches Measles Exposure Map to Help Keep Washingtonians Safe
-  <time datetime="2025-10-21T20:29:00Z" class="datetime">October 21, 2025 - 1:29pm</time>
-  Sharon.Moysiuk…<time datetime="2025-10-21T13:40:27-07:00" title="Tuesday, October 21, 2025 - 1:40pm" class="datetime">October 21, 2025 - 1:40pm</time>
-
-  News Category
-
-  [health-news](/taxonomy/term/1732)
-
-  **For immediate release** : October 21, 2025&nbsp; &nbsp;(25-128)
-
-  **Contact** : [DOH Communications](mailto:doh-pio@doh.wa.gov)
-
-  ## Map shows live, real-time updates during active measles exposures
-
-  **OLYMPIA** – The Washington State Department of Health (DOH) has created a new online tool to help people see where measles exposures may have occurred in the state. The [Measles Exposure Location Tracker](https://wadoh.maps.arcgis.com/apps/dashboards/10e3b2b43f784eabbdb0a5873acd660d) shows public places where a person with contagious measles recently was. On October 13, 2025, a visitor with [confirmed measles](https://kingcounty.gov/en/dept/dph/about-king-county/about-public-health/news/news-archive-2025/10-17-measles-exposure) traveled through Seattle-Tacoma International Airport (SEA).&nbsp;This tool helps people determine if they may have been exposed and take appropriate [preventive measures](https://doh.wa.gov/you-and-your-family/illness-and-disease-z/measles#prevention).
-
-  Measles is a highly contagious disease that spreads through the air when a person who is sick breathes, coughs, sneezes, or speaks. The virus can live on surfaces or in the air for up to&nbsp;two hours. Measles can cause serious life-threatening complications, especially in young children and people who are unvaccinated. The measles, mumps, and rubella (MMR) vaccine is the strongest protection against measles.
-
-  People who are not immune to measles and are exposed to the virus have a high risk of being infected. Getting vaccinated within 72 hours of first exposure can reduce the chance that a person will become infected or seriously ill. Washington has had 11 confirmed measles cases so far in 2025.
-
-  This new map brings together information from local health departments across Washington state into one convenient, easy-to-navigate platform. It is also mobile-friendly, making it easy to check potential exposure sites from any device. It’s designed to:
-
-  - Share clear, up-to-date information people can trust
-  - Support local health departments by collecting exposure information in one place
-  - Help the public understand their risk and what to do if they might have been exposed
-  - Strengthen outbreak response by helping health officials prepare and communicate faster
-
-  Image
-
-   ![Mapping Tool for Public Measles Exposures Locations in Washington State](/sites/default/files/styles/max_1300x1300/public/2025-10-images/Public%20Measles%20Exposures%20Locations%20in%20Washington%20State.png?itok=K-cvatu7&uid=69167209c51dc)
-
-  “Information and vaccination are our strongest tools for preventing measles and keeping our communities safe,” said Dr. Tao Sheng Kwan-Gett, State Health Officer, DOH. “Before there is another exposure, get the best protection available against measles by making sure that you and your family are up to date on MMR vaccine.”
-
-  DOH also launched a new webpage to help people [track measles cases](https://doh.wa.gov/you-and-your-family/illness-and-disease-z/measles/measles-cases-washington-state-2025) across the state. The site is regularly updated to help the public, health care professionals, and media stay informed and up to date.
-
-  Our&nbsp;[website](https://www.doh.wa.gov/)&nbsp;is your source for a healthy dose of information. Get updates by following us on&nbsp;[social media](https://doh.wa.gov/about-us/contact-us/social-media).
-
-  ###
+images: []
+locations:
+- King County
 source: Department of Health
 source_url: https://doh.wa.gov/newsroom/doh-launches-measles-exposure-map-help-keep-washingtonians-safe
 summarized: true

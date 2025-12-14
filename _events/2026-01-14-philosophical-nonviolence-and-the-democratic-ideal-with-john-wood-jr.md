@@ -1,10 +1,6 @@
 ---
 end_date: '2026-01-14T19:30:00-08:00'
-images: []
-location: Town Hall Seattle
-locations:
-- King County
-original_content: '<article id="post-3847" class="post-3847 uw_oplevents type-uw_oplevents
+feed_content: '<article id="post-3847" class="post-3847 uw_oplevents type-uw_oplevents
   status-publish hentry category-graduate-school-sponsored"> <header class="entry-header">
   <h1 class="entry-title">The Office of Public Lectures presents: Philosophical Nonviolence
   and the Democratic Ideal with John Wood Jr.</h1> </header> <div class="entry-content">
@@ -77,48 +73,10 @@ original_content: '<article id="post-3847" class="post-3847 uw_oplevents type-uw
   children.</span><span data-ccp-props=''{"134233117":false,"134233118":false,"335559738":240,"335559739":240}''> </span></p>
   </div> </div> <p class="sponsor-dept"><strong>Sponsoring Departments:</strong> The
   Graduate School</p> </div> </article>'
-original_markdown_body: 'The Office of Public Lectures presents: Philosophical Nonviolence
-  and the Democratic Ideal with John Wood Jr.    January 14, 2026 6:30 pm Town Hall
-  Seattle, Livestream (Hybrid) Pay What You WillAvailableRecordedLivestreamComing
-  Soon CART Captioning     John Wood Jr.    Too often, democracy is narrowly defined
-  by the act of voting, reducing the citizen’s role to mere electoral participation.
-  However, a truly thriving democratic society is one in which full inclusion is built
-  upon a foundation of cultural goodwill between distinct communities. This vision
-  of a beloved community—rooted in the philosophy of nonviolence—was championed by
-  Martin Luther King Jr. It is this philosophy that we must revive to bridge the deep
-  political and cultural divides that threaten American democracy today.  Registration
-  opens December 10, 2025.    About the speaker  John Wood Jr.  National Ambassador,
-  Braver Angels; Former 2nd Vice Chairman of the Republican Party of Los Angeles,
-  and writer John Wood Jr. is a leading voice in the American depolarization movement.
-  As National Ambassador for Braver Angels—the nation’s largest bipartisan grassroots
-  organization dedicated to political reconciliation—he works to bridge ideological
-  divides and foster dialogue. A nationally recognized speaker on political and racial
-  reconciliation, Wood has addressed audiences across the country, including top think
-  tanks, universities, corporations, philanthropic organizations, and political associations
-  such as the Aspen Institute, Manhattan Institute, CPAC, Global Philanthropy Forum,
-  and the Philanthropy Roundtable. His campus engagements have included Pepperdine,
-  Duke, USC, Purdue, and UC Berkeley.  Wood’s writing has been featured in The Wall
-  Street Journal, USA Today, The Washington Examiner, Quillette, Areo Magazine, Reflections
-  (Yale School of Divinity), RealClearPolitics, Persuasion Magazine, and The American
-  Interest, among others. He hosts a radio show called The Reconstruction Project
-  on KBLA.   Prior to his work with Braver Angels, Wood made history as California’s
-  youngest active congressional nominee in the 2014 election, challenging Rep. Maxine
-  Waters in the 43rd district. His campaign, focused on unity, garnered media attention
-  from The National Review and The Larry Elder Show. After the election, he was elected
-  2nd Vice-Chairman of the Republican Party of Los Angeles, the largest county-level
-  GOP organization in the nation.  Beyond Braver Angels, Wood advises several initiatives,
-  including The American Project (a Pepperdine School of Public Policy initiative
-  focused on conservatism’s communitarian roots), the Foundation Against Intolerance
-  and Racism, and the 1776 Unites Project. He is a member of The Progress Network
-  (an initiative of the New America Foundation) and a field-builder with the New Pluralists
-  Collaborative, which supports organizations committed to depolarization and social
-  justice. Wood has also worked extensively to expand educational opportunities for
-  at-risk youth in Los Angeles, serving on the board of Strive Arts and Academics. 
-  Raised in a musical family, Wood’s father is jazz pianist John Wood, and his mother,
-  Deonda Theus, is a Los Angeles-based R&B singer. His grandfather, Randy Wood, was
-  a pioneering record executive behind Dot Records and Randy’s Record Shop. He lives
-  in Los Angeles with his wife and three children.    Sponsoring Departments: The
-  Graduate School'
+images: []
+location: Town Hall Seattle
+locations:
+- King County
 published: false
 source: University of Washington
 source_url: https://www.washington.edu/lectures/events/philosophical-nonviolence-and-the-democratic-ideal/

@@ -2,17 +2,13 @@
 date: '2025-11-21T21:26:01+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: Seattle police detectives have arrested a 17-year-old boy for attacking
+feed_content: Seattle police detectives have arrested a 17-year-old boy for attacking
   an 80-year-old man who confronted him while the teen was scrawling graffiti onto
   the side of the Ballard Bridge earlier this week. The victim was driving on Nov.
   17 when he saw fou...
-original_markdown_body: Seattle police detectives have arrested a 17-year-old boy
-  for attacking an 80-year-old man who confronted him while the teen was scrawling
-  graffiti onto the side of the Ballard Bridge earlier this week. The victim was driving
-  on Nov. 17 when he saw fou...
+images: []
+locations:
+- King County
 source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/11/21/detectives-arrest-teen-for-ballard-bridge-graffiti-attacking-80-year-old/
 summarized: true

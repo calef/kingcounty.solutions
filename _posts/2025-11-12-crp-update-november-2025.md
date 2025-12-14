@@ -2,10 +2,7 @@
 date: '2025-11-12T19:09:15+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: "In the coming weeks, the Community Reinvestment Program (CRP) will
+feed_content: "In the coming weeks, the Community Reinvestment Program (CRP) will
   be launching three funding opportunities. Commerce is taking a regional approach
   to CRP funding. For every grant program, there will be only one grantee selected
   per region. Interested applicants may apply for multiple opportunities or regions.\n\n![](https://www.commerce.wa.gov/wp-content/uploads/2025/11/CRP-2025-2027-Map-v4-1024x758.jpg)\n\nThe
@@ -47,6 +44,9 @@ original_content: "In the coming weeks, the Community Reinvestment Program (CRP)
   Program team\n\nAdditional resources\n\n- [CRP Investment Plan 2025-2027 (PDF)](https://deptofcommerce.app.box.com/file/2038841116698?s=vi27blgg9qbgwqznf329ek1qjrdm1wsq)\n-
   [CRP Implementation Report 2023-2025 (PDF)](https://deptofcommerce.app.box.com/s/i5a8dxflmkupghuis6eq9ikm9m6l31ut)\n-
   [Community Feedback Results – October 2025 (PDF)](https://deptofcommerce.box.com/s/mcim9q6gt5s77i81ug8sody2ld8eq8pg)"
+images: []
+locations:
+- King County
 source: Department of Commerce
 source_url: https://www.commerce.wa.gov/crp-update-november-2025/
 summarized: true

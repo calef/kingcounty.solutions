@@ -2,10 +2,7 @@
 date: '2025-09-05T06:45:00+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: |-
+feed_content: |-
   We are unable to meet the current demand in our family law clinics. Help us fill these critical slots by signing up to be a pro bono attorney!
 
   Commitment is typically 1-3 hours per month. Family law clinics are held virtually, so you can volunteer easily from your home or office.
@@ -17,6 +14,9 @@ original_content: |-
   If you’re interested, learn more and sign up on our website: [elap.org/pro-bono](http://elap.org/pro-bono).
 
   The post [High need for family law attorneys](https://elap.org/high-need-for-family-law-attorneys/) appeared first on [Eastside Legal Assistance Program](https://elap.org).
+images: []
+locations:
+- King County
 source: Eastside Legal Assistance Program
 source_url: https://elap.org/high-need-for-family-law-attorneys/?utm_source=rss&utm_medium=rss&utm_campaign=high-need-for-family-law-attorneys
 summarized: true

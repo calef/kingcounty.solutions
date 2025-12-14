@@ -1,11 +1,6 @@
 ---
 end_date: '2025-12-16T19:30:00-08:00'
-images: []
-location: Tukwila Library, 14380 Tukwila International Boulevard, Tukwila, WA, United
-  States
-locations:
-- King County
-original_content: <section class="page-layout interior-layout"> <div class="main-content-area
+feed_content: <section class="page-layout interior-layout"> <div class="main-content-area
   events-template"> <div class="container"> <div id="tribe-events-pg-template" class="tribe-events-pg-template">
   <section id="tribe-events-pg-template" class="tribe-events-pg-template"> <div id="tribe-events-content"
   class="tribe-events-single"> <h1 class="tribe-events-single-event-title">Musicals
@@ -88,24 +83,11 @@ original_content: <section class="page-layout interior-layout"> <div class="main
   6 @ 11:00 am</span> - <span class="tribe-event-time">1:00 pm</span> </div> </li>
   </ul> </div> <p class="tribe-events-back"> <a href="https://www.tukwilawa.gov/events/"
   class="btn"> Back to events</a> </p> </div> </section> </div> </div> </div> </section>
-original_markdown_body: 'Musicals at Tukwila Library   December 16 @ 5:30 pm - 7:30
-  pm         Join us for a free screening of the 2023 feel-good musical, Greatest
-  Days!  Featuring the hit songs of Take That, Greatest Days is the epic musical about
-  five best friends, brought together by their shared love of the band before drifting
-  apart and then relighting their friendship 25 years later at the band’s reunion
-  concert. This and many other films can be streamed from the Kanopy database, free
-  with your KCLS library card: https://kcls.org/resources-types/streaming/ Reasonable
-  accommodation for people with disabilities is available by request. Email access@kcls.org at
-  least seven days before the event. Automated closed captioning is always available
-  for online events. Suitable for:      Adults (Ages 18 and older)              Google
-  Calendar     iCalendar     Outlook 365     Outlook Live           Details    Date:   December
-  16     Time:   5:30 pm - 7:30 pm     Event Category: Community Event      Venue    Tukwila
-  Library     14380 Tukwila International Boulevard Tukwila, WA United States  + Google
-  Map    Phone  (206) 242-1640     View Venue Website       Related Events    Seafood
-  City Late Night Madness December 5 @ 8:00 pm - 11:00 pm     Free Dental Clinic for
-  Kids Eligible for Apple Health/Medicaid December 6 @ 8:00 am - 2:00 pm     Westfield
-  Southcenter – Frosty’s Friends Scavenger Hunt & Kids’ Crafts December 6 @ 11:00
-  am - 1:00 pm       Back to events'
+images: []
+location: Tukwila Library, 14380 Tukwila International Boulevard, Tukwila, WA, United
+  States
+locations:
+- King County
 published: false
 source: City of Tukwila
 source_url: https://www.tukwilawa.gov/event/musicals-at-tukwila-library/

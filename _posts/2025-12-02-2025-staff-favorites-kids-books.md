@@ -1,8 +1,6 @@
 ---
 date: '2025-12-02T18:00:26+00:00'
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   <p><b><span data-contrast="none">KIDS CHAPTER BOOKS</span></b><span data-ccp-props="{}"> </span></p>
   <p><a href="https://seattle.bibliocommons.com/v2/record/S30C4062250"><span data-contrast="none">Benny on the Case</span></a><span data-contrast="none"> by Wesley King is a </span><span data-contrast="auto">heartfelt character-driven mystery featuring a neurodivergent male protagonist that explores friendship, belonging, and family. [-School Library Journal]</span><span data-ccp-props="{}"> </span></p>
   <p><span data-contrast="auto">In Grace Lin’s </span><a href="https://seattle.bibliocommons.com/v2/record/S30C4042693"><span data-contrast="none">The Gate, the Girl and the Dragon,</span></a><span data-contrast="auto"> a Stone Lion cub travels from the spirit realm into ours in order to save his world from a sinister force. Captivating, thrilling, and emotionally satisfying. [-Kirkus]</span><span data-ccp-props="{}"> </span></p>
@@ -41,50 +39,8 @@ original_content: |-
   <li aria-setsize="-1" data-leveltext="" data-font="Symbol" data-listid="1" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-aria-posinset="2" data-aria-level="1"><a href="https://seattle.bibliocommons.com/v2/list/display/73413760/2898672365"><span data-contrast="none">Seattle Staff Faves 2025: Kids Chapter Books, Graphic Novels &amp; Nonfiction</span></a><span data-ccp-props="{}"> </span></li>
   </ul>
   <p><span data-contrast="auto">Happy Reading and Sharing!</span><span data-ccp-props="{}"> </span></p>
-original_markdown_body: |-
-  **KIDS CHAPTER BOOKS** &nbsp;
-
-  [Benny on the Case](https://seattle.bibliocommons.com/v2/record/S30C4062250) by Wesley King is a heartfelt character-driven mystery featuring a neurodivergent male protagonist that explores friendship, belonging, and family. [-School Library Journal]&nbsp;
-
-  In Grace Lin’s [The Gate, the Girl and the Dragon,](https://seattle.bibliocommons.com/v2/record/S30C4042693) a Stone Lion cub travels from the spirit realm into ours in order to save his world from a sinister force. Captivating, thrilling, and emotionally satisfying. [-Kirkus]&nbsp;
-
-  Clare is [The Undead Fox of Deadwood Forest,](https://seattle.bibliocommons.com/v2/record/S30C4027842) a lonely silver-tailed fox, who ushers animals’ souls into the Afterlife. When a mysterious badger spirit appears, Clare’s world is turned upside down. Aubrey Hartman’s tale is heartbreaking, marvelously funny, and generously redemptive. [-Kirkus]&nbsp;&nbsp;&nbsp;
-
-  William Samuels and his father leave their lives as sharecroppers in Texas to join the 1889 Oklahoma Land Rush. [Will’s Race for Home,](https://seattle.bibliocommons.com/v2/record/S30C4015588) by Jewell Parker Rhodes, is an edge-of-your-seat adventure survival story, as Will and his father face the dangers of violence and racism at every turn. [-Lauren]&nbsp;
-
-  [![](https://i0.wp.com/blog.spl.org/wp-content/uploads/2025/12/benny-on-the-case.jpg?fit=263%2C400&ssl=1)](https://blog.spl.org/2025/12/02/2025-staff-favorites-kids-books/benny-on-the-case/)[![](https://i0.wp.com/blog.spl.org/wp-content/uploads/2025/12/gate-girl-dragon.jpg?fit=275%2C400&ssl=1)](https://blog.spl.org/2025/12/02/2025-staff-favorites-kids-books/gate-girl-dragon/)[![](https://i0.wp.com/blog.spl.org/wp-content/uploads/2025/12/wills-race.jpg?fit=275%2C400&ssl=1)](https://blog.spl.org/2025/12/02/2025-staff-favorites-kids-books/wills-race/)
-
-  **KIDS GRAPHIC NOVELS** &nbsp;
-
-  “I generally don’t like to recommend sequels, but [Beetle & the Chimera Carnival](https://seattle.bibliocommons.com/v2/record/S30C4043310) by Aliza Layne is an exception. The first book in the series was so delightful and heartfelt, I waited eagerly for the sequel. The wait was well worth it. Just as heartfelt as the first, Layne really captures how scary and monstrous it feels to be a tween girl. And not just in the fact that Beetle is a literal goblin.” [-Eliza E]&nbsp;
-
-  If there’s one thing that can bridge the human/undead divide, it’s donuts. [Dracula’s Brunch Club](https://seattle.bibliocommons.com/v2/record/S30C4071348) by Brian Gonsar is a friendly, funny vampire story with a little bit of bite. [-Kirkus]&nbsp;
-
-  In Gus Gordon’s [Into the Bewilderness,](https://seattle.bibliocommons.com/v2/record/S30C4065178) best friends Luis (the large furry one) and Pablo (the small furry one) decide to venture from their cozy home into the Big City.&nbsp; It doesn’t go at all well for the two rustic cabin mates – but luckily, they have each other. [-Kirkus]&nbsp;
-
-  In [A Song for You & I](https://seattle.bibliocommons.com/v2/record/S30C4043811) by Kay O’Neill, two young people travel their own paths to personal authenticity. A sweet and thoughtful rumination on the joy of being one’s true self. [-Kirkus]&nbsp;
-
-  [![](https://i0.wp.com/blog.spl.org/wp-content/uploads/2025/12/beetle.jpg?fit=266%2C400&ssl=1)](https://blog.spl.org/2025/12/02/2025-staff-favorites-kids-books/beetle/)[![](https://i0.wp.com/blog.spl.org/wp-content/uploads/2025/12/draculas-brunch-club.jpg?fit=266%2C400&ssl=1)](https://blog.spl.org/2025/12/02/2025-staff-favorites-kids-books/draculas-brunch-club/)[![](https://i0.wp.com/blog.spl.org/wp-content/uploads/2025/12/into-bewilderness.jpg?fit=324%2C400&ssl=1)](https://blog.spl.org/2025/12/02/2025-staff-favorites-kids-books/into-bewilderness/)
-
-  **KIDS NONFICTION** &nbsp;
-
-  Through Squamish language and cultural traditions, learn about Indigenous plant relationships and how we are all connected to nature in [The Land Knows Me: A Nature Walk Exploring Indigenous Wisdom](https://seattle.bibliocommons.com/v2/record/S30C4069659) by Leigh Joseph and illustrated by Natalie Schnitter. [-publisher]&nbsp;
-
-  In [My Presentation Today Is About the Anaconda](https://seattle.bibliocommons.com/v2/record/S30C4035496) by Bibi Dumon Tok, translated by Nancy Forest-Flier and illustrated by Annemarie van Haeringen, hilarity ensues when animals give class presentations about other animals.&nbsp; A brilliant use of anthropomorphic animals, serving up facts and entertainment.&nbsp; [-Kirkus]&nbsp;&nbsp;&nbsp;
-
-  “Much like she does in her adult nonfiction book (Marsha), in [One Day in June: A Story Inspired by the Life and Activism of Marsha P. Johnson](https://seattle.bibliocommons.com/v2/record/S30C4052894) (illustrated by Charlot Kristensen), author Tourmaline tells Johnson’s story for younger audiences and contextualizes her legacy amidst today’s movements for Black Lives and trans liberation. I needed tissues for this one!” [-Nico]&nbsp;
-
-  Author Patricia Morris Buckley (Kahnawá:ke Mohawk) and illustrator E.B. Lewis (Lenni-Lenape) pay tribute to the courage and perseverance of Iroquois steelworkers in [To Walk the Sky: How Iroquois Steelworkers Helped Build Towering Cities](https://seattle.bibliocommons.com/v2/record/S30C4025403). [-Kirkus]&nbsp;
-
-  [![](https://i0.wp.com/blog.spl.org/wp-content/uploads/2025/12/land-knows-me.jpg?fit=309%2C400&ssl=1)](https://blog.spl.org/2025/12/02/2025-staff-favorites-kids-books/land-knows-me/)[![](https://i0.wp.com/blog.spl.org/wp-content/uploads/2025/12/my-presentation-today.jpg?fit=282%2C400&ssl=1)](https://blog.spl.org/2025/12/02/2025-staff-favorites-kids-books/my-presentation-today/)[![](https://i0.wp.com/blog.spl.org/wp-content/uploads/2025/12/to-walk-the-sky.jpg?fit=311%2C400&ssl=1)](https://blog.spl.org/2025/12/02/2025-staff-favorites-kids-books/to-walk-the-sky/)
-
-  &nbsp;Explore more of our favorite Kids books of the year, here:&nbsp;&nbsp;&nbsp;
-
-  - [Seattle Staff Faves 2025: Kids Picture Books](https://seattle.bibliocommons.com/v2/list/display/73413760/2898616557)&nbsp;
-
-  - [Seattle Staff Faves 2025: Kids Chapter Books, Graphic Novels & Nonfiction](https://seattle.bibliocommons.com/v2/list/display/73413760/2898672365)&nbsp;
-
-  Happy Reading and Sharing!&nbsp;
+images: []
+locations: []
 published: false
 source: The Seattle Public Library
 source_url: https://blog.spl.org/2025/12/02/2025-staff-favorites-kids-books/

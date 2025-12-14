@@ -1,19 +1,16 @@
 ---
 end_date: '2026-03-12T00:00:00-07:00'
+feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <h1>San Diego Job
+  Fair, March 11, 2026</h1> <div> <div><span>March 11, 2026</span></div> </div> <div>
+  <div> <p><a>Find out more</a></p> </div> <div> <div> <div> <div> <ul> <li> <a> Google
+  Calendar </a> </li> <li> <a> iCalendar </a> </li> <li> <a> Outlook 365 </a> </li>
+  <li> <a> Outlook Live </a> </li> </ul> </div> </div> </div> </div> <div> <div> <h2>
+  Details </h2> <ul> <li> <span>Date:</span> <span> <abbr> March 11, 2026 </abbr>
+  </span> </li> </ul> </div> </div> </div> </div> </section> </div>"
+feed_content_checksum: fdf2fee1a6c25981a44aa3b20af8364cd02a75f9
 images: []
 location: ''
 locations: []
-original_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <h1>San Diego
-  Job Fair, March 11, 2026</h1> <div> <div><span>March 11, 2026</span></div> </div>
-  <div> <div> <p><a>Find out more</a></p> </div> <div> <div> <div> <div> <ul> <li>
-  <a> Google Calendar </a> </li> <li> <a> iCalendar </a> </li> <li> <a> Outlook 365
-  </a> </li> <li> <a> Outlook Live </a> </li> </ul> </div> </div> </div> </div> <div>
-  <div> <h2> Details </h2> <ul> <li> <span>Date:</span> <span> <abbr> March 11, 2026
-  </abbr> </span> </li> </ul> </div> </div> </div> </div> </section> </div>"
-original_content_checksum: fdf2fee1a6c25981a44aa3b20af8364cd02a75f9
-original_markdown_body: "« All Events  San Diego Job Fair, March 11, 2026  March 11,
-  2026    Find out more         Google Calendar     iCalendar     Outlook 365     Outlook
-  Live           Details    Date:   March 11, 2026"
 published: false
 source: Disabled American Veterans
 source_url: https://www.dav.org/events-calendar/san-diego-job-fair-march-11-2026/

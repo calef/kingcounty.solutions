@@ -1,11 +1,6 @@
 ---
 end_date: '2025-12-15T14:30:00-08:00'
-images: []
-location: The Center for Active Living, 4217 SW Oregon St., Seattle, WA, 98116, United
-  States
-locations:
-- King County
-original_content: '<a aria-label="Skip to content" class="fl-screen-reader-text" href="#fl-main-content">Skip
+feed_content: '<a aria-label="Skip to content" class="fl-screen-reader-text" href="#fl-main-content">Skip
   to content</a><div class="fl-page"> <header class="fl-builder-content fl-builder-content-12203
   fl-builder-global-templates-locked" data-post-id="12203" data-type="header" data-sticky="0"
   data-sticky-on="" data-sticky-breakpoint="medium" data-shrink="0" data-overlay="0"
@@ -181,33 +176,11 @@ original_content: '<a aria-label="Skip to content" class="fl-screen-reader-text"
   </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div>
   </div> </div> </div> <a href="#" role="button" id="fl-to-top"><span class="sr-only">Scroll
   To Top</span></a>'
-original_markdown_body: 'Skip to content             We used to be called the Senior
-  Center of West Seattle.               Join       Donate                 Facebook     Instagram     YouTube     LinkedIn                            Activities
-  & Events                             Terry’s The Greatest Movies You’ve Never Heard
-  Of       Monday, December 15, 2025 at 12:30 pm - 2:30 pm      Mondays at 12:30 p.m.
-  in the second-floor Nucor Room Featuring newsreels, popcorn, previews and cartoons
-  November 3: The 39 Steps (1935) with Robert Donat, Madeleine Carroll, Lucie Mannheim,
-  Godfrey Tearle, Peggy Ashcroft, John Laurie. (86 min.; b/w)  November 10: The Lady
-  Vanishes (1938) with Margaret Lockwood, Michael Redgrave, Paul Lukas, May Whitty,
-  Cecil Parker. (96 min.; b/w)  November 17: Foreign Correspondent (1940) with Joel
-  McCrea, Laraine Day, Herbert Marshall, George Sanders, Albert Bassermann. (120 min.;
-  b/w)  November 24: Dial “M” for Murder (1954) with Ray Milland, Grace Kelly, Robert
-  Cummings, John Williams, Anthony Dawson, Patrick Allen. (105 min.; color)  December
-  1: Mildred Pierce (1945) with Joan Crawford, Jack Carson, Zachary Scott, Eve Arden,
-  Ann Blyth, Bruce Bennett. (111 min.; b/w)  December 8: The Naked City (1948) with
-  Barry Fitzgerald, Howard Duff, Dorothy Hart, Don Taylor, Frank Conroy. (96 min.;
-  b/w)  December 15: Pick Up on South Street (1953) with Richard Widmark, Jean Peters,
-  Thelma Ritter, Richard Kiley, Murvyn Vye. (80 min.; b/w)  December 22: The Breaking
-  Point (1950) with John Garfield, Patricia Neal, Phyllis Thaxter, Juano Hernandez,
-  Wallace Ford. (97 min.; b/w)         Movies              Calendar       Membership                  Location    The
-  Center for Active Living     4217 SW Oregon St. Seattle, WA 98116 United States  +
-  Google Map    Phone  206-932-4044     View Location Website                   Google
-  Calendar     iCalendar     Outlook 365     Outlook Live                   Related
-  Events    Terry’s The Greatest Movies You’ve Never Heard Of Monday, December 8,
-  2025 at 12:30 pm - 2:30 pm     Terry’s The Greatest Movies You’ve Never Heard Of
-  Monday, December 22, 2025 at 12:30 pm - 2:30 pm     Terry’s The Greatest Movies
-  You’ve Never Heard Of Monday, January 5, 2026 at 12:30 pm - 2:30 pm             Calendar                 Scroll
-  To Top'
+images: []
+location: The Center for Active Living, 4217 SW Oregon St., Seattle, WA, 98116, United
+  States
+locations:
+- King County
 published: false
 source: The Center for Active Living
 source_url: https://wscenter.org/event/terrys-the-greatest-movies-youve-never-heard-of-2-2-2/2025-12-15/

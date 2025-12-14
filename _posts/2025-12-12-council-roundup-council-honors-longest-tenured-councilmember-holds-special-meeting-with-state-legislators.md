@@ -1,9 +1,6 @@
 ---
 date: '2025-12-12T19:41:09+00:00'
-images: []
-locations:
-- King County
-original_content: "<span>Council Roundup: Council honors longest-tenured councilmember,
+feed_content: "<span>Council Roundup: Council honors longest-tenured councilmember,
   holds special meeting with state legislators</span>\n<span><span>CIosso</span></span>\n<span><time>Fri,
   12/12/2025 - 11:41</time>\n</span>\n  <div>\n    <div>\n      \n\n            <div>
   \   <div>\n    <div>\n      \n\n            <div>  <img src=\"https://bellevuewa.gov/sites/default/files/styles/article_featured_image/public/media/article_featured_image/2025-12/conrad-lee-commendation.jpg?h=5286853f&amp;itok=PCjl2QJr\">\n\n\n</div>\n
@@ -47,48 +44,10 @@ original_content: "<span>Council Roundup: Council honors longest-tenured council
   full discussion is available on <a>video replay</a>.</p>\n<p><em><strong>NOTE</strong>:
   The council’s next meeting will be Tuesday, Jan. 6.</em></p>\n</div>\n      \n\n
   \           <div>\n<time>December 12 2025</time>\n</div>\n      \n    </div>\n  </div>"
-original_content_checksum: f15a6fac8eba63ed0eed49bdb4b1147c81ace03a
-original_markdown_body: "Council Roundup: Council honors longest-tenured councilmember,
-  holds special meeting with state legislatorsCIosso<time>Fri, 12/12/2025 - 11:41</time>\n\n
-  ![](https://bellevuewa.gov/sites/default/files/styles/article_featured_image/public/media/article_featured_image/2025-12/conrad-lee-commendation.jpg?h=5286853f&itok=PCjl2QJr)\n\nPlus,
-  advancement of key policy actions on equity and critical areas\n\nThe City Council
-  Tuesday recognized the city’s longest serving councilmember, Conrad Lee, with a
-  commendation honoring his decades of service to the Bellevue community. Lee, who
-  was first elected to the council in 1993 and served terms as mayor and deputy mayor
-  during his tenure, is leaving the council.\n\nFellow councilmembers reflected on
-  Lee’s lasting impact, citing his dedication to public service, commitment to transparent
-  decision-making and role in key moments in the city’s history. Lee expressed appreciation
-  for his colleagues, city staff and the Bellevue community, noting that public service
-  is rooted in working together for the long-term good of the city.\n\nThe commendation
-  and comments for Councilmember Lee’s service are available on Bellevue Television
-  replay. &nbsp;\n\nDiversity Advantage Plan 2035 adopted\n\nIn other business, the
-  council unanimously voted to adopt the Diversity Advantage Plan 2035, the city’s
-  update to its strategic diversity, equity and inclusion plan guiding this work for
-  the next decade.\n\nThe plan includes guiding principles and long-term equity objectives
-  informed by community and staff priorities that have been aligned to existing city
-  priorities, such as the council’s strategic target areas, which focus on both community-facing
-  services and the organization’s internal culture and practices.\n\nMore information
-  on the presentation of the final plan is in the meeting materials.\n\nCritical Areas
-  ordinance update approved\n\nThe council also unanimously approved updates to the
-  city’s critical areas development regulations to comply with state-mandated requirements
-  by the Dec. 31 deadline.\n\nThe presentation covered stakeholder and community engagement
-  that informed the update, noting the code’s balance between environmental protection,
-  restoration and development. Councilmembers expressed appreciation for the thoughtful
-  approach and alignment with housing and environmental goals.\n\nThe changes affect
-  several chapters of Bellevue’s land use code and strengthen protections for wetlands,
-  streams, flood zones, geologically hazardous areas, underground water resources
-  and wildlife habitats while supporting the city’s long-term growth goals.&nbsp;
-  \ \nThe council received a project update on Nov. 12 and directed staff to return
-  with the final ordinance for approval. More information, including the approved
-  ordinance, is available in the meeting materials. &nbsp;\n\nSpecial meeting held
-  with state legislators to advance Bellevue interests\n\nAlso this week, the council
-  held a special meeting Monday to gather state elected officials from the 41st and
-  48th legislative districts to share the topics and projects of interest from Bellevue’s
-  2026 legislative agenda. State representatives also shared their priorities for
-  the 2026 session with the group. The 2026 legislative session is a 60-day (short)
-  session starting Jan. 12.\n\nTheir full discussion is available on video replay.\n\n_
-  **NOTE** : The council’s next meeting will be Tuesday, Jan. 6._\n\n<time>December
-  12 2025</time>"
+feed_content_checksum: f15a6fac8eba63ed0eed49bdb4b1147c81ace03a
+images: []
+locations:
+- King County
 published: false
 rss_guid: 215531 at https://bellevuewa.gov
 source: City of Bellevue

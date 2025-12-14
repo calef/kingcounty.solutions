@@ -5,7 +5,6 @@ images: []
 location: ACRS’s main office, Seattle, WA
 locations:
 - King County
-original_markdown_body: Monthly operation of the clinic providing free legal consultations.
 source: Asian Counseling and Referral Service
 source_url: https://acrs.org/acrs-abaw-and-kcba-relaunch-rainier-valley-legal-clinic-to-expand-community-access-to-free-legal-support/
 start_date: '2025-12-17T17:00:00-07:00'

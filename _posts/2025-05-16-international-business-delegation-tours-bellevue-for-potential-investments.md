@@ -1,8 +1,6 @@
 ---
 date: '2025-05-16T02:47:41+00:00'
-images: []
-locations: []
-original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">International
+feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">International
   business delegation tours Bellevue for potential investments</span>\n<span class=\"field
   field--name-uid field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"
   typeof=\"schema:Person\" property=\"schema:name\" datatype>CIosso</span></span>\n<span
@@ -53,30 +51,8 @@ original_content: "<span class=\"field field--name-title field--type-string fiel
   \     \n\n            <div class=\"field field--name-field-article-date field--type-datetime
   field--label-hidden field__item\"><time datetime=\"2025-05-15T12:00:00Z\" class=\"datetime\">May
   15 2025</time>\n</div>\n      \n    </div>\n  </div>"
-original_markdown_body: |-
-  International business delegation tours Bellevue for potential investmentsCIosso<time datetime="2025-05-15T19:47:41-07:00" title="Thursday, May 15, 2025 - 19:47" class="datetime">Thu, 05/15/2025 - 19:47</time>
-
-   ![Eastside economic experts speak in a panel discussion.](https://bellevuewa.gov/sites/default/files/styles/article_featured_image/public/media/article_featured_image/2025-05/selectusa-delegation.jpg?h=3c2239fe&itok=v6uNPGTN)
-
-  A delegation representing companies from eight countries recently toured Bellevue and other cities across Puget Sound as part of the SelectUSA Seattle Spinoff organized by Greater Seattle Partners.
-
-  This three-day initiative was designed to attract global business investments to the region to maintain and grow a diverse, thriving economy. The Eastside’s annual gross domestic product totals $139 billion, surpassing that of Salt Lake City or Cleveland. With the second largest economy in Washington, Bellevue plays an important role in supporting the region’s job growth.
-
-  Visiting companies spanned the aerospace, artificial intelligence, cleantech and manufacturing industries and chose to make Bellevue the first stop and home base of activities. These companies are considering establishing a North American presence, partnering with American companies or other ways to invest here. Multiple regional employers including Amazon and Microsoft participated in the tours.
-
-  Opportunities to work with the region’s pioneering companies and access a world-class workforce are major pulls for foreign firms. The activities included a panel discussion at T-Mobile’s Tech Experience 5G Hub, with representatives from Xplore, Lithos Carbon and T-Mobile sharing what makes Bellevue stand out in a competitive field of global cities.
-
-  “Bellevue is a place where big ideas take root and grow,” said Mayor Lynne Robinson, who welcomed the delegation at the opening dinner event. “From global tech leaders to agile startups, businesses here benefit from a collaborative ecosystem, strong infrastructure and a city government committed to being a proactive, reliable partner.”
-
-  Greater Seattle Partners organized the event, which was made possible by support from public and private partners across Puget Sound. This is the second year the group has used downtown Bellevue as its base camp.
-
-  “The SelectUSA Seattle Spinoff highlights the diverse industries and global opportunities across our region,” said Brian Surratt, President and CEO of Greater Seattle Partners. “Showcasing our communities through a regional lens: rich in talent,
-
-  clean energy, and the largest aerospace supply chain in the U.S. is key to attracting international investment.”
-
-  For more information on business development in Bellevue, visit [Economic Development](https://bellevuewa.gov/city-government/departments/community-development/economic-development). More information about the SelectUSA Seattle Spinoff can be found at [Greater-Seattle.com/selectusa-seattle-spinoff](https://greater-seattle.com/selectusa-seattle-spinoff/).
-
-  <time datetime="2025-05-15T12:00:00Z" class="datetime">May 15 2025</time>
+images: []
+locations: []
 published: false
 source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/selectusa-delegation

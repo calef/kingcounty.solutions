@@ -1,14 +1,12 @@
 ---
 end_date: '2026-02-23T19:30:00-08:00'
+feed_content: '<div class="field-items"> <div class="field-item"> <p> </p> <p>UW music
+  students perform music from the Baroque era under the direction of Tekla Cunningham.</p>
+  <h2 style="font-weight: 400;">Director Biography</h2> </div> </div>'
 images: []
 location: Music Building (MUS)
 locations:
 - King County
-original_content: '<div class="field-items"> <div class="field-item"> <p> </p> <p>UW
-  music students perform music from the Baroque era under the direction of Tekla Cunningham.</p>
-  <h2 style="font-weight: 400;">Director Biography</h2> </div> </div>'
-original_markdown_body: "&nbsp;\n\n \n\nUW music students perform music from the Baroque
-  era under the direction of Tekla Cunningham.\n\n \n## Director Biography"
 published: false
 source: University of Washington
 source_url: https://music.washington.edu/events/2026-02-23/baroque-ensemble

@@ -1,14 +1,12 @@
 ---
 end_date: '2026-03-10T14:00:00-07:00'
+feed_content: "<div> <div> <p>Students of John Popham present a chamber music showcase.</p>
+  <h2>Biography</h2> <p> </p> </div> </div>"
+feed_content_checksum: bce4ae7dd634da19c729099ff262c64decdd371c
 images: []
 location: Music Building (MUS)
 locations:
 - King County
-original_content: "<div> <div> <p>Students of John Popham present a chamber music showcase.</p>
-  <h2>Biography</h2> <p> </p> </div> </div>"
-original_content_checksum: bce4ae7dd634da19c729099ff262c64decdd371c
-original_markdown_body: "Students of John Popham present a chamber music&nbsp;showcase.\n\n
-  \n## Biography\n \n\n&nbsp;"
 published: false
 source: University of Washington
 source_url: https://music.washington.edu/events/2026-03-10/chamber-music-showcase

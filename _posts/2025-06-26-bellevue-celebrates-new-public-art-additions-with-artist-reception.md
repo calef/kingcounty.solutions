@@ -1,8 +1,6 @@
 ---
 date: '2025-06-26T19:13:13+00:00'
-images: []
-locations: []
-original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Bellevue
+feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Bellevue
   celebrates new public art additions with artist reception</span>\n<span class=\"field
   field--name-uid field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"
   typeof=\"schema:Person\" property=\"schema:name\" datatype>CIosso</span></span>\n<span
@@ -40,20 +38,8 @@ original_content: "<span class=\"field field--name-title field--type-string fiel
   class=\"field field--name-field-article-date field--type-datetime field--label-hidden
   field__item\"><time datetime=\"2025-06-26T12:00:00Z\" class=\"datetime\">June 26
   2025</time>\n</div>\n      \n    </div>\n  </div>"
-original_markdown_body: |-
-  Bellevue celebrates new public art additions with artist receptionCIosso<time datetime="2025-06-26T12:13:13-07:00" title="Thursday, June 26, 2025 - 12:13" class="datetime">Thu, 06/26/2025 - 12:13</time>
-
-   ![Two women look at paintings hanging in a City Hall corridor.](https://bellevuewa.gov/sites/default/files/styles/article_featured_image/public/media/article_featured_image/2025-06/portable-art-25.jpg?h=56d0ca2e&itok=2Xv8enDY)
-
-  The City of Bellevue has added 15 new artworks to its public art collection, selected from over 200 submissions by local artists. These acquisitions underscore the city’s ongoing commitment to supporting local artists and showcasing the creativity and cultural richness of our community.
-
-  To mark this acquisition, the city will host a free reception at 6 p.m., Wednesday, July 9, at City Hall, which will feature live music by cellist Gretchen Yanover, remarks from city leaders and light refreshments.
-
-  The newly acquired art – two-dimensional paintings now hanging on the second floor of City Hall – has been added to the city’s Portable Artworks collection. Part of the [Bellevue Public Art Collection](https://bellevuewa.gov/city-government/departments/community-development/arts-and-culture/public-art "Public Art and Opportunities"), the portable art is intended for rotating display throughout Bellevue’s public spaces, including libraries, city buildings and other gathering spaces.
-
-  The vision of the Public Art Collection is to serve as a leading community resource for cultural exchange, enhancing public spaces, fostering pride and belonging, and showcasing the diverse identities and cultures of Bellevue residents. Since 2020, the Arts Commission has added 65 new works to the portable collection, with calls for new artwork roughly every two years.&nbsp;
-
-  <time datetime="2025-06-26T12:00:00Z" class="datetime">June 26 2025</time>
+images: []
+locations: []
 published: false
 source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/new-portable-art-25

@@ -1,11 +1,6 @@
 ---
 end_date: '2025-12-16T14:00:00-08:00'
-images: []
-location: North Bellevue Community Center, 4063 148th Ave NE, Bellevue, 98007, United
-  States
-locations:
-- Eastside
-original_content: '<div class="fusion-row" style=""> <section id="content" style="float:
+feed_content: '<div class="fusion-row" style=""> <section id="content" style="float:
   left;"> <div id="tribe-events-pg-template"> <div id="tribe-events-content" class="tribe-events-single">
   <p class="tribe-events-back"> <a href="https://cisc-seattle.org/events/"><span>All
   Events</span></a> </p> <div class="tribe-events-series-relationship-single-marker
@@ -142,23 +137,11 @@ original_content: '<div class="fusion-row" style=""> <section id="content" style
   States</span> </span> <a class="tribe-events-gmap" href="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=4063+148th+Ave+NE+Bellevue+98007+United+States"
   title="Click to view a Google Map" target="_blank" rel="noreferrer noopener">+ Google
   Map</a> </address> </li> </ul> </div> </div> </aside> </div>'
-original_markdown_body: 'All Events    Event Series:    Russian-Speaking Senior Day
-  Program        Russian-Speaking Senior Day Program (Bellevue)   December 16 @ 9:30
-  am - 2:00 pm       Participants enjoy a welcoming, supportive environment with access
-  to resources and culturally-relevant programming. The program operates Tuesdays
-  and Fridays at the North Bellevue Community Center. Our team members design activities
-  that will promote health, social connections, well-being, and quality of life. This
-  program is funded by the City of Bellevue and Amazon. Languages: Russian, Ukrainian
-  Ages: Older Adults Holidays may affect operating hours.         Google Calendar     iCalendar     Outlook
-  365     Outlook Live           Related Events      Russian-Speaking Senior Day Program
-  (Bellevue) December 5 @ 9:30 am - 2:00 pm     Sunshine Garden: Tech Help December
-  5 @ 1:00 pm - 2:00 pm     Russian-Speaking Senior Day Program (Bellevue) December
-  9 @ 9:30 am - 2:00 pm       Share This Story, Choose Your Platform!  FacebookXRedditLinkedInWhatsAppTelegramTumblrPinterestVkXingEmail    Event
-  Navigation  Sunshine Garden: Tech Help Sunshine Garden: Basic Yoga          Details    Date:   December
-  16     Time:   9:30 am - 2:00 pm    Series:    Russian-Speaking Senior Day Program    Event
-  Category: Older Adult Activities   Website:  https://cisc-seattle.org/senior-and-disabled-adults/#toc_Senior-Activities       Venue    North
-  Bellevue Community Center     4063 148th Ave NE Bellevue, 98007 United States  +
-  Google Map'
+images: []
+location: North Bellevue Community Center, 4063 148th Ave NE, Bellevue, 98007, United
+  States
+locations:
+- Eastside
 source: Chinese Information & Service Center
 source_url: https://cisc-seattle.org/event/russian-speaking-senior-day-program-2/2025-12-16/
 start_date: '2025-12-16T09:30:00-08:00'

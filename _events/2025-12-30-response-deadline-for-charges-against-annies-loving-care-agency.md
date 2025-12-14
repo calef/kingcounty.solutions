@@ -3,8 +3,6 @@ generated_from_post: true
 images: []
 locations: []
 locked: true
-original_markdown_body: Annies Loving Care Agency has 20 days to respond to the charges
-  filed by the Washington State Department of Health.
 published: false
 source: Department of Health
 source_url: https://doh.wa.gov/newsroom/department-health-issues-statement-charges-license-home-services-facility

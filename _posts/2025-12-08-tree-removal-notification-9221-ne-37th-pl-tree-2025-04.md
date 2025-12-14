@@ -1,15 +1,11 @@
 ---
 date: '2025-12-08T17:05:09+00:00'
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   <p><img src="https://yarrowpointwa.gov/wp-content/uploads/2025/12/Tree-Posting-Notice-TREE-2025-04-Page-1-scaled.jpg"></p>
   <p><img src="https://yarrowpointwa.gov/wp-content/uploads/2025/12/Tree-Posting-Notice-TREE-2025-04-Page-2-scaled.jpg"></p>
-original_content_checksum: 053ef7b74cac81050d9cd4555c9022a31762f7ca
-original_markdown_body: |-
-  ![](https://yarrowpointwa.gov/wp-content/uploads/2025/12/Tree-Posting-Notice-TREE-2025-04-Page-1-scaled.jpg)
-
-  ![](https://yarrowpointwa.gov/wp-content/uploads/2025/12/Tree-Posting-Notice-TREE-2025-04-Page-2-scaled.jpg)
+feed_content_checksum: 053ef7b74cac81050d9cd4555c9022a31762f7ca
+images: []
+locations: []
 published: false
 source: Town of Yarrow Point
 source_url: https://yarrowpointwa.gov/2025/12/tree-removal-notification-9221-ne-37th-pl-tree-2025-04/

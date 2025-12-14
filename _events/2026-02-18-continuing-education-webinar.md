@@ -1,9 +1,6 @@
 ---
 end_date: '2026-02-18T16:00:00-05:00'
-images: []
-location: ''
-locations: []
-original_content: '<!DOCTYPE html> <html class="avada-html-layout-wide avada-html-header-position-top"
+feed_content: '<!DOCTYPE html> <html class="avada-html-layout-wide avada-html-header-position-top"
   lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#" prefix="og:
   https://ogp.me/ns#"> <head> <meta http-equiv="X-UA-Compatible" content="IE=edge"
   /> <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/> <meta name="viewport"
@@ -7702,7 +7699,9 @@ original_content: '<!DOCTYPE html> <html class="avada-html-layout-wide avada-htm
   auto);--awb-column-spacing:var(--text_column_spacing, normal);--awb-column-min-width:var(--text_column_min_width,
   auto);--awb-rule-style:var(--text_rule_style, initial);--awb-margin-top:0;--awb-margin-right:0;--awb-margin-bottom:0;--awb-margin-left:0;--awb-user-select:var(--text_user_select,
   auto);--awb-width:au'
-original_markdown_body: ''
+images: []
+location: ''
+locations: []
 published: false
 source: NOSSCR Referral Service
 source_url: https://nosscr.org/event/continuing-education-webinar-7/

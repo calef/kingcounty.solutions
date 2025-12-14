@@ -4,7 +4,6 @@ images: []
 location: ''
 locations:
 - King County
-original_markdown_body: A presentation about traveling across the USA.
 published: false
 source: Wallingford Community Senior Center
 source_url: https://wallingfordseniors.org/december-2025-lunch-menu/

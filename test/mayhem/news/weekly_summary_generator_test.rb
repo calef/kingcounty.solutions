@@ -153,9 +153,9 @@ class WeeklySummaryGeneratorTest < Minitest::Test
 
   def test_weekly_posts_filters_unpublished_and_missing_content
     write_post('2025-11-24-unpublished.md',
-               { 'title' => 'Skip', 'published' => false, 'source_url' => 'http://skip', 'original_content' => 'x' }, 'body')
+               { 'title' => 'Skip', 'published' => false, 'source_url' => 'http://skip', 'feed_content' => 'x' }, 'body')
     write_post('2025-11-25-valid.md',
-               { 'title' => 'Keep', 'source' => 'S', 'source_url' => 'http://keep', 'original_content' => 'y', 'summary' => 'text' }, 'body')
+               { 'title' => 'Keep', 'source' => 'S', 'source_url' => 'http://keep', 'feed_content' => 'y', 'summary' => 'text' }, 'body')
     gen = build_generator
     posts = gen.send(:weekly_posts, Date.new(2025, 11, 24), Date.new(2025, 11, 30))
 

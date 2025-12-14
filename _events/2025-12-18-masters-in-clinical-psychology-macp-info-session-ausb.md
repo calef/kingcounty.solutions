@@ -1,9 +1,6 @@
 ---
 end_date: '2025-12-18T17:00:00-08:00'
-images: []
-location: Virtual Events @ Antioch University
-locations: []
-original_content: '<div class="wp-site-blocks"> <header class="wp-block-template-part">
+feed_content: '<div class="wp-site-blocks"> <header class="wp-block-template-part">
   <div class="wp-block-group alignfull antioch-header is-layout-flow wp-block-group-is-layout-flow">
   <div class="wp-block-group has-background-color has-primary-gray-background-color
   header-top is-layout-flow wp-block-group-is-layout-flow"> <div id="mega-menu-wrap-audience_nav"
@@ -404,51 +401,9 @@ original_content: '<div class="wp-site-blocks"> <header class="wp-block-template
   </div></div> <div class="ancr-btn-wrap"><a href="https://www.antioch.edu/about/new-president-announcement/"
   target="_self" class="ancr-btn ancr-btn-primary ancr-close">Learn More</a></div>
   </div> </div></div>'
-original_markdown_body: Give Now Request Info Visit Apply Employment        About       About  About
-  Antioch University Core Attributes of an Antioch Education Why Antioch University?
-  Coalition for the Common Good Equity, Belonging, and Culture History Common Thread        Leadership  Office
-  of the President Executive Leadership Academic Leadership Board of Governors    Administrative
-  Resources  Accreditation University Policies        Discover Our Campuses  Los Angeles
-  New England Online Santa Barbara Seattle          Academics       Discover Your
-  Own Path  Explore degrees that align with your passions and goals. Find your fit
-  today and take the first step toward a meaningful future.   Find Your Program      Academic
-  Focus Areas  Bachelor's Completion Creative Writing & Communication Counseling,
-  Psychology, & Therapy Education Environmental Studies & Sustainability Individualized
-  Studies Leadership & Management Nursing & Health Professions        Learn Your Way  Low-Residency
-  On-Campus Online        Programs by Type  Doctoral Master's Bachelor's Certificates
-  Credentials & Endorsements Continuing Education          Admission & Aid       Admissions  Admissions
-  Overview Unofficial Transcript Evaluation Upcoming Admissions Events What to Expect    Information
-  for  DREAMERS International Students Transfer & Degree Completion Students Veterans
-  & Military-Connected Students        Dates & Deadlines  Graduate School of Leadership
-  & Change Los Angeles New England Online Santa Barbara Seattle        Tuition & Fees  GSLC
-  Tuition & Fees AULA Tuition & Fees AUNE Tuition & Fees AUO Tuition & Fees AUSB Tuition
-  & Fees AUS Tuition & Fees        Financial Aid  Financial Aid Overview Financial
-  Aid Forms Scholarships & Grants Types of Aid Work-Study Opportunities         Library  Resources        Departments
-  & Offices  Advancement Disability Support Services Grants and Foundation Relations
-  Information Technology Institutional Effectiveness Registrar Strategic Partnerships
-  Student Accounts Writing Centers          Academic Resources  Academic Assessment
-  Academic Calendar Academic Catalog Bookstore Consumer Information Licensure Information
-  Resource List Student Policies University Policies          Additional Resources  President's
-  Communications Event Calendar Common Thread (University News) Alumni Magazine Faculty
-  Directory Report/Request It Hub                    « All Events   Masters in Clinical
-  Psychology (MACP) Info Session | AUSB     December 18   @   4:00 pm   -   5:00 pm  PST   Please
-  join us for our MA in Clinical Psychology info session on Thursday, December 18,
-  2025, 4:00 PM - 5:00 PM PST to learn about the program, discuss degree requirements,
-  and career outcomes with our faculty. Discover options to pursue your Master’s in
-  Clinical Psychology Degree with a concentration in Latinx Mental Health or Somatic
-  Psychotherapy. Antioch University Santa Barbara’s Award-winning Master of Arts in
-  Clinical Psychology program emphasizes authentic relationships and understanding
-  diverse identities and perspectives. Our program’s core strongly emphasizes supporting
-  positive change within the greater context of diverse communities and with an eye
-  toward social justice. We look forward to connecting with you!   Register Here     AUSB
-  Admissions  (805) 962-8179 x 5301 admissions.ausb@antioch.edu     Virtual Events
-  @ Antioch University            Google Calendar     iCalendar     Outlook 365     Outlook
-  Live         Related Events      Application Essay Workshop | AU   December 8 @
-  5:00 pm - 6:00 pm  PST        Graduate Management Info Session | GSLC   December
-  9 @ 12:00 pm - 12:30 pm  EST        PhD in Leadership and Change Info Session |
-  GSLC   December 10 @ 12:00 pm - 1:00 pm  EST       Event Navigation  « Undergraduate
-  Programs Info Session | AU          Announcing the New President of Antioch University  Learn
-  More
+images: []
+location: Virtual Events @ Antioch University
+locations: []
 published: false
 source: Antioch University
 source_url: https://www.antioch.edu/event/masters-in-clinical-psychology-macp-info-session-ausb-12-18-25/

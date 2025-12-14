@@ -1,17 +1,13 @@
 ---
 end_date: '2026-03-03T19:30:00-08:00'
+feed_content: <div class="field-items"> <div class="field-item"> <p>Chamber Singers
+  and University Chorale collaborate with Seattle University Choirs (Leann Conley-Holcom,
+  director) in performing <em>Considering Matthew Shepard,</em> a profound tale of
+  discrimination, cruelty, death, yet with themes of hope.</p> <h2> </h2> </div> </div>
 images: []
 location: Meany Hall (MNY)
 locations:
 - King County
-original_content: <div class="field-items"> <div class="field-item"> <p>Chamber Singers
-  and University Chorale collaborate with Seattle University Choirs (Leann Conley-Holcom,
-  director) in performing <em>Considering Matthew Shepard,</em> a profound tale of
-  discrimination, cruelty, death, yet with themes of hope.</p> <h2> </h2> </div> </div>
-original_markdown_body: "Chamber Singers and University Chorale collaborate with Seattle
-  University Choirs (Leann Conley-Holcom, director) in performing _Considering Matthew
-  Shepard,_ a profound tale of discrimination, cruelty, death, yet with themes of
-  hope.\n\n \n## &nbsp;"
 published: false
 source: University of Washington
 source_url: https://music.washington.edu/events/2026-03-03/chamber-singers-and-university-chorale-compassion-considering-matthew-shepard

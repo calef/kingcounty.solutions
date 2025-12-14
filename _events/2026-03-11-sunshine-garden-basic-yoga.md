@@ -1,11 +1,7 @@
 ---
 end_date: '2026-03-11T11:30:00-07:00'
-images: []
-location: Sunshine Garden, 611 S Lane St, Seattle, WA, 98104
-locations:
-- King County
-original_content: "<div> <section> <div> <div> <p> <a><span>All Events</span></a>
-  </p> <div> <span> Event Series: </span> <a> <span> Sunshine Garden: Basic Yoga </span>
+feed_content: "<div> <section> <div> <div> <p> <a><span>All Events</span></a> </p>
+  <div> <span> Event Series: </span> <a> <span> Sunshine Garden: Basic Yoga </span>
   </a> </div> <div> <div> <div> <div> <h2>Sunshine Garden: Basic Yoga</h2> <div> <h3>
   <span>March 11, 2026 @ 10:30 am</span> - <span>11:30 am</span> </h3> </div> </div>
   </div> </div> <div> <p>Learn and practice basic yoga with our instructor and participants.</p>
@@ -22,14 +18,11 @@ original_content: "<div> <section> <div> <div> <p> <a><span>All Events</span></a
   <li> <a>Sunshine Garden</a> </li> <li> <address> <span> <span>611 S Lane St</span>
   <span>Seattle</span><span>,</span> <abbr>WA</abbr> <span>98104</span> </span> <a>+
   Google Map</a> </address> </li> </ul> </div> </div> </aside> </div>"
-original_content_checksum: c5b66eee73dbe05c141a28b39f36fdcf62bb7a9e
-original_markdown_body: 'All Events    Event Series:    Sunshine Garden: Basic Yoga        Sunshine
-  Garden: Basic Yoga   March 11, 2026 @ 10:30 am - 11:30 am       Learn and practice
-  basic yoga with our instructor and participants.         Google Calendar     iCalendar     Outlook
-  365     Outlook Live          Share This Story, Choose Your Platform!  FacebookXRedditLinkedInWhatsAppTelegramTumblrPinterestVkXingEmail    Event
-  Navigation  Sunshine Garden: Basic Yoga Sunshine Garden: Basic Yoga          Details    Date:   March
-  11, 2026     Time:   10:30 am - 11:30 am    Series:    Sunshine Garden: Basic Yoga       Venue    Sunshine
-  Garden     611 S Lane St Seattle, WA 98104  + Google Map'
+feed_content_checksum: c5b66eee73dbe05c141a28b39f36fdcf62bb7a9e
+images: []
+location: Sunshine Garden, 611 S Lane St, Seattle, WA, 98104
+locations:
+- King County
 published: false
 source: Chinese Information & Service Center
 source_url: https://cisc-seattle.org/event/sunshine-garden-basic-yoga-3/2026-03-11/

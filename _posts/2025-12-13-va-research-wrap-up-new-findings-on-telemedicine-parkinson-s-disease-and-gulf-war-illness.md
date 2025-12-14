@@ -2,10 +2,7 @@
 date: '2025-12-13T14:30:00+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <p>VA’s Office of Research and Development recently published three <a>News Briefs</a> highlighting research finding on telemedicine use in nursing homes, the effect of obstructive sleep apnea on Parkinson’s disease risk and Gulf War illness.</p>
 
 
@@ -51,31 +48,10 @@ original_content: |-
 
 
   <p>For more Office of Research and Development updates, visit <a>ORD online</a> or go to https://www.research.va.gov/news_briefs/.</p>
-original_content_checksum: 2dd0da32f7e556fa9c2c9a7c0a21f245501d0be0
-original_markdown_body: |-
-  VA’s Office of Research and Development recently published three&nbsp;News Briefs&nbsp;highlighting research finding on telemedicine use in nursing homes, the effect of obstructive sleep apnea on Parkinson’s disease risk and Gulf War illness.
-
-  ## Telemedicine program vastly improves nursing home care
-
-  Nationwide, three out of four nursing homes face staffing shortages, especially during nights and weekends. Pittsburgh VA researchers found having a Telemedicine Medical Officer of the Day (Tele-MOD) program implemented in two VA nursing homes reduced emergency department visits by 33%, hospitalizations by 50% and 30-day readmission rates by 55%. The program also reduced VA and community care costs for the VA nursing home by $45,000 per resident.
-
-  The Tele-MOD program provides after-hours consultation via telemedicine and telephone to appropriate health professionals, including doctors, nurses and pharmacists. The researchers examined the Tele-MOD program over one year, which included 3,949 visits with 492 Veterans. They found that a robust, remote, after-hours telemedicine program, including video visits, can effectively reduce costs while maintaining quality care across multiple sites. View the full study from the “Journal of the American Medical Directors Association.”
-
-  ## Obstructive sleep apnea linked to Parkinson’s disease
-
-  Portland VA and&nbsp;Northwest Mental Illness Research, Education and Clinical Center&nbsp;researchers learned that Veterans with obstructive sleep apnea (OSA) had nearly twice the risk of developing Parkinson’s disease. Encouragingly, starting continuous positive airway pressure (CPAP) within two years of OSA diagnosis reduced the risk by about 30%.
-
-  The study examined more than 11 million Veteran records from 1999 to 2022, identifying patients diagnosed with obstructive sleep apnea and following them for up to six years. The researchers found the increased risk even after controlling for other Parkinson’s risk factors, such as weight, heart ailments and medications. They suggest early screening for OSA and early intervention with CPAP or other evidence-based treatments as keys to protecting brain health. View the full study from “JAMA Neurology.”
-
-  ## VA study improves understanding of Gulf War illness
-
-  Atlanta VA and University of Texas Southwestern Medical Center researchers discovered that Gulf War Illness may be related to reduced energy production in brain cells rather than to neural damage.
-
-  Researchers looked at specialized MRI brain scans of 39 Veterans with GWI and 16 without. The scans showed those with GWI had dysfunctional mitochondria—cell structures responsible for generating energy—resulting in energy imbalances and dysfunctional cell activity. The current study was the fourth in a 23-year longitudinal study of GWI in this group of 24th Reserve Naval Mobile Construction Battalion (Navy Seabees) who served in Iraq in 1991.
-
-  When the research group began this study more than two decades ago, scanning technology wasn’t advanced enough to pinpoint these cellular problems. The findings open new possibilities for treating GWI by invigorating the cells’ ability to produce energy and for reducing inflammation—treatment possibilities with more prospects than correcting neural pathways. View the full study from “Scientific Reports.”
-
-  For more Office of Research and Development updates, visit&nbsp;ORD online&nbsp;or go to https://www.research.va.gov/news\_briefs/.
+feed_content_checksum: 2dd0da32f7e556fa9c2c9a7c0a21f245501d0be0
+images: []
+locations:
+- King County
 rss_guid: https://news.va.gov/?p=143850
 source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143850/va-research-wrap-uptelemedicine-parkinsons-gwi/

@@ -2,11 +2,7 @@
 date: '2025-11-21T16:17:19+00:00'
 events: []
 events_extracted: true
-images:
-- db94e72c4837a19cae513d61ded92a68f2f4398f61c148a290f153f1250849af
-locations:
-- King County
-original_content: "<div class=\"editor clearfix\">\n\n    \n    <figure id=\"attachment_54651\"
+feed_content: "<div class=\"editor clearfix\">\n\n    \n    <figure id=\"attachment_54651\"
   aria-describedby=\"caption-attachment-54651\" style=\"width: 300px\" class=\"wp-caption
   alignleft\"><img fetchpriority=\"high\" decoding=\"async\" class=\"wp-image-54651
   size-full\" src=\"https://www.dav.org/wp-content/uploads/Coleman_Nee_WashingtonPost_Statement.jpg\"
@@ -29,19 +25,10 @@ original_content: "<div class=\"editor clearfix\">\n\n    \n    <figure id=\"att
   America’s veterans.</p>\n\n</div><p>The post <a href=\"https://www.dav.org/learn-more/news/2025/dav-applauds-congress-va-for-full-year-appropriations-and-program-reauthorizations/\">DAV
   applauds Congress &amp; VA for full year appropriations and program reauthorizations</a>
   appeared first on <a href=\"https://www.dav.org\">DAV</a>.</p>"
-original_markdown_body: |-
-  ![](https://www.dav.org/wp-content/uploads/Coleman_Nee_WashingtonPost_Statement.jpg)
-  _DAV National Commander Coleman Nee_
-
-  On November 12, Congress passed and the President signed legislation to temporarily reopen the federal government through next January, ending a 43-day shutdown. Crucially, this measure includes full funding for the Department of Veterans Affairs (VA), effectively insulating the VA from any further funding lapses or furloughs in FY 2026.
-
-  The enactment of this legislation brings immediate and necessary relief to the veterans, families, caregivers and survivors who have been negatively impacted over the last several weeks. A properly funded VA is essential to providing them with the services and benefits they have earned.
-
-  Beyond securing full-year funding, this legislation reauthorizes critical programs that expired in September, including initiatives for homeless veterans, suicide prevention and long-term nursing home care for the severely disabled.
-
-  DAV applauds Congress and VA for working together to pass VA’s full year appropriation that will help keep the promise to America’s veterans.
-
-  The post [DAV applauds Congress & VA for full year appropriations and program reauthorizations](https://www.dav.org/learn-more/news/2025/dav-applauds-congress-va-for-full-year-appropriations-and-program-reauthorizations/) appeared first on [DAV](https://www.dav.org).
+images:
+- db94e72c4837a19cae513d61ded92a68f2f4398f61c148a290f153f1250849af
+locations:
+- King County
 source: Disabled American Veterans
 source_url: https://www.dav.org/learn-more/news/2025/dav-applauds-congress-va-for-full-year-appropriations-and-program-reauthorizations/
 summarized: true

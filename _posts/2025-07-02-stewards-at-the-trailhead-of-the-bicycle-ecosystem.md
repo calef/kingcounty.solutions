@@ -1,8 +1,6 @@
 ---
 date: '2025-07-02T22:03:11+00:00'
-images: []
-locations: []
-original_content: "<figure class=\"wp-block-image size-large\"><img data-recalc-dims=\"1\"
+feed_content: "<figure class=\"wp-block-image size-large\"><img data-recalc-dims=\"1\"
   decoding=\"async\" width=\"625\" height=\"416\" data-attachment-id=\"15508\" data-permalink=\"https://bikeworks.org/steves-manifesto/img_1386/\"
   data-orig-file=\"https://i0.wp.com/bikeworks.org/wp-content/uploads/2025/07/IMG_1386-scaled.jpg?fit=1920%2C1280&amp;ssl=1\"
   data-orig-size=\"1920,1280\" data-comments-opened=\"0\" data-image-meta=\"{&quot;aperture&quot;:&quot;2&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;Canon
@@ -94,22 +92,8 @@ original_content: "<figure class=\"wp-block-image size-large\"><img data-recalc-
   /><br /></p>\r\n<p>The post <a href=\"https://bikeworks.org/steves-manifesto/\">stewards
   at the trailhead of the bicycle ecosystem</a> appeared first on <a href=\"https://bikeworks.org\">Bike
   Works</a>.</p>"
-original_markdown_body: |-
-  ![](https://i0.wp.com/bikeworks.org/wp-content/uploads/2025/07/IMG_1386.jpg?resize=625%2C416&ssl=1)
-
-  Preventing bicycles from entering the waste stream feels more like common sense than an act of environmentalism.&nbsp;When word got to me that the Recycle & Reuse department received a Green Globe award as a “Leader of the Circular Economy”, the highest honor of environmental stewardship from King County Natural Resources and Parks (KCNRP), our warehouse was bursting with donations, like an over-inflated tube. We triage, sort, breakdown, rebuild, and redistribute at a small scale compared to the output of the bike industry. In 2024 we processed just over 5,000 bicycles from King County, while all of the factories overseas combined can produce [55,000 bikes a day](https://solar.lowtechmagazine.com/2023/02/can-we-make-bicycles-sustainable-again/). While I feel honor and deep gratitude for the acknowledgement from KCNRP, the Recycle & Reuse department is a patch-kit sized response to the bicycle industrial complex. &nbsp;
-
-  The largest bicycle companies in the world spend millions of dollars in an arms race for a few extra watts of power and a few hundred less grams of weight just to shave a few seconds over the competition. Once a symbol of environmentalism, the bicycle industrial complex derailed an uncomplicated machine into a disposable commodity. Department store [bike-shaped-objects](https://pirg.org/newmexico/articles/the-bikes-that-last-4-months/) and the elite bikes of the [Tour de France](https://www.cyclingnews.com/features/how-much-does-a-tour-de-france-bike-cost/) have much more in common than we think. Despite the staggering differences in price and technology, these bikes simply will not last longer than a generation. In 20-30 years, do you think your eBike’s battery will still function? What about your apps and batteries for wireless shifting? Will they still be manufacturing that proprietary bottom bracket or headset? Who is accountable for maintaining all of these systems after they are built? How many more tools will we need to fix the future of bicycles?&nbsp;
-
-  ![](https://i0.wp.com/bikeworks.org/wp-content/uploads/2025/07/IMG_1390.jpg?resize=477%2C716&ssl=1)
-
-  We ask questions like this all the time in Recycle & Reuse. Our team simply cannot recycle nor reuse every product of the bicycle industrial complex, despite how often they [green wash](https://theradavist.com/the-bike-industry-is-broken) their involvement with the circular economy.&nbsp;Three years ago I&nbsp;documented my search for an ethical tire recycler in the Pacific Northwest, that search led me to making a sixty second [dark comedy](https://www.instagram.com/reel/Ccfu4bBjzMn/?igsh=b3dmY3dtdHA3N2Q0).&nbsp;When we are not sorting through the [noise](https://www.instagram.com/bike_crap?igsh=aGl4cHp0M2lzMnZm), we try to uphold the values of building the&nbsp;[forever bike](https://www.highonadventure.com/hoa23jul/north/in-pursuit-of-the-forever-bike.htm). Analog, [mechanical](https://www.cyclingweekly.com/products/is-the-bike-industry-phasing-out-mechanical-shifting-and-does-it-matter), non-powered, old-fashioned systems&nbsp;that can&nbsp;survive generations are still being [mass produced](https://www.microshift.com/). A forever bike has parts that can be repaired, replaced, and refurbished in the rich cultural centers of the global south or in the sprawling suburbs of the dystopian west. One could even pedal backwards through time 25 years and still manage to find the correct chain compatibility. &nbsp;
-
-  The Recycle & Reuse team here at Bike Works and the many other nonprofits, bike kitchens, bike shops, and home mechanics focusing on forever bicycles are the real environmental stewards of the circular economy. &nbsp;
-
-  Adopting a forever bike mindset is not only about taking care in our consumer decisions; there are many ways to practice this outlook. Here at Bike Works, we offer community Dirty Bike Parties and Volunteer Repair Parties where people with or without mechanical experience help us [clean and fix salvaged bikes](https://bikeworks.org/calendar/). We welcome [tax deductible financial contributions](https://bikeworks.org/donate), which keep the lights on and our staff paid. And of course, you can push, pull, or haul your excess bikes&nbsp;to our warehouse in Columbia City or to one of our [convenient drop-off locations](https://bikeworks.org/donate/used-bicycle/).&nbsp;
-
-  The post [stewards at the trailhead of the bicycle ecosystem](https://bikeworks.org/steves-manifesto/) appeared first on [Bike Works](https://bikeworks.org).
+images: []
+locations: []
 published: false
 source: Bike Works
 source_url: https://bikeworks.org/steves-manifesto/?utm_source=rss&utm_medium=rss&utm_campaign=steves-manifesto

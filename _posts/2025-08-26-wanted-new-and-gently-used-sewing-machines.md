@@ -2,12 +2,7 @@
 date: '2025-08-26T21:45:51+00:00'
 events: []
 events_extracted: true
-images:
-- 52871b2cd8c1267017523dc6f53682b58ecfd117bc1ebf4da894ed98ffffd79a
-- 329ed2b5e5f5ec1b587dd9bb444fd75c5d87465fdaeb15c53d6424b3c997687a
-locations:
-- King County
-original_content: "<p class=\"\">Sewing machines are needed to accommodate the growing
+feed_content: "<p class=\"\">Sewing machines are needed to accommodate the growing
   number of students in the EF Essential Skills program. </p><p class=\"\">Essential
   Skills programs provide skill-building and build community connections for refugees,
   seniors, and other community members experiencing social isolation.​</p><p class=\"\">New
@@ -50,16 +45,11 @@ original_content: "<p class=\"\">Sewing machines are needed to accommodate the g
   1500w, https://images.squarespace-cdn.com/content/v1/6244ce6a3e335a451b9540a9/abe612c9-d74c-4ccb-b8f1-de3873061201/533683886_1075715481340549_114320793488421605_n.jpg?format=2500w
   2500w\" loading=\"lazy\" decoding=\"async\" data-loader=\"sqs\">\n\n            \n
   \         \n        \n          \n        \n\n        \n      \n        </figure>"
-original_markdown_body: |-
-  Sewing machines are needed to accommodate the growing number of students in the EF Essential Skills program.
-
-  Essential Skills programs provide skill-building and build community connections for refugees, seniors, and other community members experiencing social isolation.​
-
-  New and gently used sewing machines can be delivered or dropped off to EF Kent, or purchased and delivered using our [Amazon Wish List](https://www.amazon.com/hz/wishlist/ls/2GCYYSV8J4IR9?ref_=wl_share).
-
-  ![](https://images.squarespace-cdn.com/content/v1/6244ce6a3e335a451b9540a9/e0ea1d37-5acc-4383-90c0-9ddbee68ab5c/Copy+of+WANTED+%282%29.png?format=1000w)
-
-  ![](https://images.squarespace-cdn.com/content/v1/6244ce6a3e335a451b9540a9/abe612c9-d74c-4ccb-b8f1-de3873061201/533683886_1075715481340549_114320793488421605_n.jpg?format=1000w)
+images:
+- 52871b2cd8c1267017523dc6f53682b58ecfd117bc1ebf4da894ed98ffffd79a
+- 329ed2b5e5f5ec1b587dd9bb444fd75c5d87465fdaeb15c53d6424b3c997687a
+locations:
+- King County
 source: Essentials First
 source_url: https://www.essentialsfirst.org/blog/jmdktpaqrir8bwhatpeb17ucwmyt8j
 summarized: true

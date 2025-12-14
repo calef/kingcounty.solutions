@@ -1,10 +1,6 @@
 ---
 end_date: '2025-12-19T08:00:00-08:00'
-images: []
-location: Still Waters Snack Pack, PO Box 88984, Tukwila, 98138, United States
-locations:
-- King County
-original_content: '<section class="page-layout interior-layout"> <div class="main-content-area
+feed_content: '<section class="page-layout interior-layout"> <div class="main-content-area
   events-template"> <div class="container"> <div id="tribe-events-pg-template" class="tribe-events-pg-template">
   <section id="tribe-events-pg-template" class="tribe-events-pg-template"> <div id="tribe-events-content"
   class="tribe-events-single"> <div class="tribe-events-series-relationship-single-marker
@@ -92,22 +88,10 @@ original_content: '<section class="page-layout interior-layout"> <div class="mai
   class="tribe-event-date-start">December 7 @ 8:00 am</span> - <span class="tribe-event-time">5:00
   pm</span> </div> </li> </ul> </div> <p class="tribe-events-back"> <a href="https://www.tukwilawa.gov/events/"
   class="btn"> Back to events</a> </p> </div> </section> </div> </div> </div> </section>'
-original_markdown_body: 'Event Series:    Still Waters’ Snack Pack Winter Donation
-  Drive    Still Waters’ Snack Pack Winter Donation Drive  December 19 @ 8:00 am    Your
-  donations go directly to fighting food insecurity for Tukwila students who are homeless. 
-  Help them focus on school work to prosper in their future. Thank you for your generous
-  donations. To donate by Paypal, click here:  https://www.paypal.com/donate/?hosted_button_id=Y4MHAJB54HTSC&source=qr
-  Or, to donate by check:      Still Waters Services for Families in Transition  
-     PO Box 88984      Tukwila  WA  98138   Still Waters rely on volunteers to help
-  assemble and distribute weekly Snack Packs.  Email us at Stillwatersfamilyservices@gmail.com if
-  you are interested in volunteering! For more information, visit stillwaters.services.         Google
-  Calendar     iCalendar     Outlook 365     Outlook Live           Details    Date:   December
-  19     Time:   8:00 am    Series:    Still Waters’ Snack Pack Winter Donation Drive    Event
-  Categories: Community Event, Volunteer Opportunity      Venue    Still Waters Snack
-  Pack     PO Box 88984 Tukwila, 98138 United States  + Google Map       Related Events    Westfield
-  Southcenter – Frosty’s Friends Scavenger Hunt & Kids’ Crafts December 6 @ 11:00
-  am - 1:00 pm     Seafood City Late Night Madness December 6 @ 8:00 pm - 11:00 pm     Give
-  Blood to Save 3 Lives December 7 @ 8:00 am - 5:00 pm       Back to events'
+images: []
+location: Still Waters Snack Pack, PO Box 88984, Tukwila, 98138, United States
+locations:
+- King County
 source: City of Tukwila
 source_url: https://www.tukwilawa.gov/event/still-waters-snack-pack-winter-donation-drive/2025-12-19/
 start_date: '2025-12-19T08:00:00-08:00'

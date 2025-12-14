@@ -4,7 +4,6 @@ require 'date'
 require 'fileutils'
 require 'icalendar'
 require 'nokogiri'
-require 'reverse_markdown'
 require_relative '../logging'
 require_relative '../front_matter/document'
 require_relative '../support/http_client'
@@ -238,9 +237,6 @@ module Mayhem
         description_html = Mayhem::Support::EncodingUtils.ensure_utf8(description_html)
         normalized_description = Mayhem::Content::HtmlNormalizer.normalize(description_html, base_url: canonical_url)
         checksum = Mayhem::Content::HtmlNormalizer.checksum(normalized_description)
-        markdown_body = Mayhem::Support::EncodingUtils.ensure_utf8(
-          Mayhem::Content::ContentUtils.normalized_markdown(normalized_description)
-        )
 
         if locked_entry?(filename)
           register_event_url(canonical_url)
@@ -257,12 +253,10 @@ module Mayhem
           'source_url' => canonical_url
         }
         unless normalized_description.to_s.strip.empty?
-          front_matter['original_content'] = normalized_description
-          front_matter['original_content_checksum'] = checksum
+          front_matter['feed_content'] = normalized_description
+          front_matter['feed_content_checksum'] = checksum
         end
-        front_matter['original_markdown_body'] = markdown_body unless markdown_body.to_s.strip.empty?
-
-        body_content = Mayhem::Support::EncodingUtils.ensure_utf8(formatted_body(markdown_body))
+        body_content = ''
         if event_content_unchanged?(filename, normalized_description, checksum, canonical_url)
           register_event_url(canonical_url)
           register_event_url(source_url) unless canonical_url == source_url
@@ -318,10 +312,10 @@ module Mayhem
         return false unless document
 
         front_matter = document.front_matter
-        existing_checksum = front_matter['original_content_checksum'].to_s
+        existing_checksum = front_matter['feed_content_checksum'].to_s
         return true if !existing_checksum.empty? && existing_checksum == checksum
 
-        existing_content = front_matter['original_content']
+        existing_content = front_matter['feed_content']
         return false unless existing_content
 
         base_url = front_matter['source_url'].to_s
@@ -359,13 +353,6 @@ module Mayhem
         return field if field.is_a?(Date) || field.is_a?(Time) || field.is_a?(DateTime)
 
         field.value if field.respond_to?(:value)
-      end
-
-      def formatted_body(description)
-        body = description.to_s.strip
-        return '' if body.empty?
-
-        "\n#{body}\n"
       end
 
       def locked_entry?(path)

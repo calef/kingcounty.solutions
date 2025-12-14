@@ -2,10 +2,7 @@
 date: '2025-03-27T19:51:02+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <p>With your incredible support, we expanded housing services, secured new dedicated resources for veterans and their families, leveraged our expertise, integrated our unique support services to transform and expand resident care models within the affordable housing landscape, and celebrated our rapid rehousing program’s zero percent return-to-homelessness rate for four consecutive years! Our Family Store provided more than 2,200 families with essential items—clothing, diapers, hygiene products, and household supplies—helping them stretch limited resources and direct their finances toward critical expenses that keep them safely and stably housed. At the same time, our Employee Stability Program (ESP) officially began service. It is now in full swing, equipping employers with the tools to help their employees navigate crises and maintain or regain housing stability. Our Early Learning Center proudly graduated eleven children prepared to succeed in kindergarten and beyond, and equipped their parents and caregivers with the support and resources they need to continue their journey towards a stronger future.</p>
   <p>None of this would have been possible without your support. Through change and challenge, you have remained unwavering in your commitment to the families we serve, ensuring that Wellspring remains a source of stability and support.</p>
   <p>Over the past year, Wellspring encountered transformative challenges that tested our resilience and resolve. Amid significant program shifts, leadership transitions, and moments when our future was uncertain, we took bold, decisive action to realign our strategy and reaffirm our commitment to the families we serve. This journey not only significantly strengthened our foundation for long-term sustainability but also deepened our impact for the families we serve.  As we begin 2025, the board of directors has engaged in a strategic planning process and will begin the search effort for our next permanent CEO.</p>
@@ -20,47 +17,9 @@ original_content: |-
   Michaela Kay<br />
   Board Chair</p>
   <p>The post <a href="https://wellspringfs.org/2024inreview/">Transition to Transformation: 2024 in Review</a> appeared first on <a href="https://wellspringfs.org">Wellspring</a>.</p>
-original_markdown_body: "With your incredible support, we expanded housing services,
-  secured new dedicated resources for veterans and their families, leveraged our expertise,
-  integrated our unique support services to transform and expand resident care models
-  within the affordable housing landscape, and celebrated our rapid rehousing program’s
-  zero percent return-to-homelessness rate for four consecutive years! Our Family
-  Store provided more than 2,200 families with essential items—clothing, diapers,
-  hygiene products, and household supplies—helping them stretch limited resources
-  and direct their finances toward critical expenses that keep them safely and stably
-  housed. At the same time, our Employee Stability Program (ESP) officially began
-  service. It is now in full swing, equipping employers with the tools to help their
-  employees navigate crises and maintain or regain housing stability. Our Early Learning
-  Center proudly graduated eleven children prepared to succeed in kindergarten and
-  beyond, and equipped their parents and caregivers with the support and resources
-  they need to continue their journey towards a stronger future.\n\nNone of this would
-  have been possible without your support. Through change and challenge, you have
-  remained unwavering in your commitment to the families we serve, ensuring that Wellspring
-  remains a source of stability and support.\n\nOver the past year, Wellspring encountered
-  transformative challenges that tested our resilience and resolve. Amid significant
-  program shifts, leadership transitions, and moments when our future was uncertain,
-  we took bold, decisive action to realign our strategy and reaffirm our commitment
-  to the families we serve. This journey not only significantly strengthened our foundation
-  for long-term sustainability but also deepened our impact for the families we serve.&nbsp;
-  As we begin 2025, the board of directors has engaged in a strategic planning process
-  and will begin the search effort for our next permanent CEO.\n\nAs we look ahead,
-  we know the need for Wellspring’s services is growing. More families than ever face
-  housing instability. With a strengthened foundation, our core services thrive and
-  expansion in affordable housing resident support services was made possible. Wellspring
-  is well positioned to help more families find stability. But we cannot do it alone.
-  Your support fuels our ability to respond, innovate, and create lasting change.\n\nAmid
-  the evolving landscape of federal policies, Wellspring faces uncertainty about the
-  future of our government funding and the social safety net for families. With potential
-  shifts in funding, these uncertainties bring both challenges and opportunities.
-  At Wellspring, we are proactively strengthening our partnerships and diversifying
-  our strategies to ensure that our critical services remain robust and responsive.
-  Our resilience and commitment to finding innovative solutions strongly positions
-  us to navigate these fiscal and policy shifts while continuing to support the families
-  we serve.\n\nThank you for being part of Wellspring. Together, we are shaping a
-  future where every child and family has safe and stable housing.\n\nWith gratitude,\n\n![](https://wellspringfs.org/wp-content/uploads/2025/03/SchultzSignature-e1743104426750-300x183.png)
-  \ \nPeter Schultz  \nInterim CEO\n\n![](https://wellspringfs.org/wp-content/uploads/2025/03/MichaelaKaySignature-300x135.png)
-  \ \nMichaela Kay  \nBoard Chair\n\nThe post [Transition to Transformation: 2024
-  in Review](https://wellspringfs.org/2024inreview/) appeared first on [Wellspring](https://wellspringfs.org)."
+images: []
+locations:
+- King County
 source: Wellspring Family Services
 source_url: https://wellspringfs.org/2024inreview/
 summarized: true

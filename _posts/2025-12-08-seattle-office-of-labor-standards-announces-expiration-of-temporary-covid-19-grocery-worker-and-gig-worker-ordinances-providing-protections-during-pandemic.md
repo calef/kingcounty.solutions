@@ -2,22 +2,16 @@
 date: '2025-12-08T16:35:32+00:00'
 events: []
 events_extracted: true
+feed_content: 'For Immediate Release Contact InformationCynthia SantanaPhone: 206-256-5219Email:
+  cynthia.santana@seattle.gov Seattle Office of Labor Standards Announces Expiration
+  of Temporary COVID-19 Grocery Worker and Gig Worker Ordinances Providing Protections
+  During Pandemic Combined $18,711,472.14 Returned to 81,561 Workers Seattle, WA (December
+  8, 2025) – The Seattle Office of Labor Standards (OLS) announces the Grocery Employee
+  Hazard Pay (GEHP), Gig […]'
+feed_content_checksum: 46cd8026ab987b8143250401572a0aa048835cdc
 images: []
 locations:
 - King County
-original_content: 'For Immediate Release Contact InformationCynthia SantanaPhone:
-  206-256-5219Email: cynthia.santana@seattle.gov Seattle Office of Labor Standards
-  Announces Expiration of Temporary COVID-19 Grocery Worker and Gig Worker Ordinances
-  Providing Protections During Pandemic Combined $18,711,472.14 Returned to 81,561
-  Workers Seattle, WA (December 8, 2025) – The Seattle Office of Labor Standards (OLS)
-  announces the Grocery Employee Hazard Pay (GEHP), Gig […]'
-original_content_checksum: 46cd8026ab987b8143250401572a0aa048835cdc
-original_markdown_body: 'For Immediate Release Contact InformationCynthia SantanaPhone:
-  206-256-5219Email: cynthia.santana@seattle.gov Seattle Office of Labor Standards
-  Announces Expiration of Temporary COVID-19 Grocery Worker and Gig Worker Ordinances
-  Providing Protections During Pandemic Combined $18,711,472.14 Returned to 81,561
-  Workers Seattle, WA (December 8, 2025) – The Seattle Office of Labor Standards (OLS)
-  announces the Grocery Employee Hazard Pay (GEHP), Gig […]'
 source: City of Seattle
 source_url: https://news.seattle.gov/2025/12/08/seattle-office-of-labor-standards-announces-expiration-of-temporary-covid-19-grocery-worker-and-gig-worker-ordinances-providing-protections-during-pandemic/
 summarized: true

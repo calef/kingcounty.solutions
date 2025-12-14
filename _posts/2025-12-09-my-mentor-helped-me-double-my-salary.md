@@ -2,10 +2,7 @@
 date: '2025-12-09T14:30:00+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <p>The sharing of non-VA information does not constitute an endorsement of products or services by the Department of Veterans Affairs. Veterans should always verify information with the organization offering the program.</p>
 
 
@@ -137,62 +134,10 @@ original_content: |-
 
 
   <p><a>ACP Youtube</a></p>
-original_content_checksum: f8e23cfd2053b0bf08452e7d571849f662226d1a
-original_markdown_body: |-
-  The sharing of non-VA information does not constitute an endorsement of products or services by the Department of Veterans Affairs. Veterans should always verify information with the organization offering the program.
-
-  Are you ready to start 2026 with a fresh outlook and a raise? With American Corporate Partners’ (ACP) customized mentorships for Veterans and military spouses, you’ll supercharge your job search with access to dedicated mentors from America’s top companies. ACP’s mentorships are free, year-long connections that help you find the right job the first time.
-
-  > “After working with [my ACP Mentor] James, I landed the best possible job out of everything I had applied for,” said Army National Guard Major Jared Hendler. He’s now a manager at a major global company, earning double his previous salary.
-
-  ## What ACP can do for you
-
-  - ACP Protégés earn an average $40,000+ increase from their previous salary.
-  - Personalized résumé and interview help.
-  - Higher confidence and job satisfaction.
-  - Long-term planning for your next career.
-
-  ![](https://news.va.gov/wp-content/uploads/sites/3/2025/12/image.gif?w=730)
-
-  ![](https://news.va.gov/wp-content/uploads/sites/3/2025/12/image.png)
-
-  > “I started my journey with ACP a few months after I got back from deployment,” said Hendler. “I was looking for the next chapter in my civilian career and wanted a mentor outside my current circle. The staff at ACP were extremely professional and fast, pairing me with my current Mentor in less than a few weeks.”
-
-  For a full year, your ACP Mentor will work one-on-one with you, building a relationship that evolves alongside your goals. They’ll help you translate your skills and experience so you can present employers with the best version of yourself and find the role that sparks your personal passion.&nbsp;
-
-  Apply Today
-
-  ## How to get started
-
-  Visit ACP’s website to learn more about the program and fill out a brief application. You’ll answer questions about your career goals, military experience and mentoring preferences.&nbsp;
-
-  What’s Next?
-
-  - ACP staff will reach out within 24 hours and schedule a 15-minute call to learn more about you and find the right mentor match.
-  - Your ACP associate will hand-select a mentor match and will check in with you throughout the year-long program to provide customized support. 98% of protégés who participate would recommend ACP.
-  - The program is open to transitioning service members, post-9/11 Veterans, active-duty military spouses, Gold Star spouses and spouses of recently transitioned Veterans. Visit our website for full eligibility info.
-
-  If you’re years out from your transition or at a tough place in your career, ACP can still help. A few months into her mentorship, Army Veteran Shameka Howell, who had been laid off from her previous role, got an offer $20,000 higher than her last job. &nbsp;
-
-  ![](https://news.va.gov/wp-content/uploads/sites/3/2025/12/image_143662.png)
-
-  > “By following [my Mentor’s] advice on networking, I was able to land a new, higher paying position at a company that will be paying for me to learn new skills,” said Howell. “I am so grateful for her guidance and for the connection to her through ACP.”
-
-  ACP Mentors offer lasting support.
-
-  > “I am now working with my Mentor, changing gears to the first 90 days [on the job] and making the biggest impact,” added Hendler. “This program pays out what you put into it… I highly recommend it, as someone who has benefited greatly from the process.”
-
-  Have 6+ years of civilian work experience and want to volunteer just an hour a month? Sign up as a mentor today and help a Veteran or military spouse find lasting career success!
-
-  Social Media links:
-
-  ACP LinkedIn
-
-  ACP Facebook
-
-  ACP Instagram
-
-  ACP Youtube
+feed_content_checksum: f8e23cfd2053b0bf08452e7d571849f662226d1a
+images: []
+locations:
+- King County
 source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143786/my-mentor-helped-me-double-my-salary/
 summarized: true

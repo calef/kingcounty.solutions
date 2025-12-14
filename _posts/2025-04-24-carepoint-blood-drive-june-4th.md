@@ -1,8 +1,6 @@
 ---
 date: '2025-04-24T19:09:24+00:00'
-images: []
-locations: []
-original_content: "<figure class=\"\n              sqs-block-image-figure\n              intrinsic\n
+feed_content: "<figure class=\"\n              sqs-block-image-figure\n              intrinsic\n
   \           \"\n        >\n          \n        \n        \n\n        \n          <a
   class=\"\n                sqs-block-image-link\n                \n          \n        \n
   \             \" href=\"https://donate.bloodworksnw.org/donor/schedules/drive_schedule/91756\"\n
@@ -28,16 +26,8 @@ original_content: "<figure class=\"\n              sqs-block-image-figure\n     
   so please sign up and help us fill every single spot!</p><p class=\"\">SVA Family
   Life Center Gym</p><p class=\"\">June 4th 2025 9a-3p</p><p class=\"\">Sign up <a
   href=\"https://donate.bloodworksnw.org/donor/schedules/drive_schedule/91756\" target=\"_blank\">HERE</a></p>"
-original_markdown_body: |-
-  [![](https://images.squarespace-cdn.com/content/v1/65c1886a315e4b1ef7f00c6a/f6107d73-2de7-4e7a-b949-6529f38c6622/CarePoint+BloodDrive+June4th.png?format=1000w)](https://donate.bloodworksnw.org/donor/schedules/drive_schedule/91756)
-
-  Time again for another CarePoint blood drive.&nbsp; In partnership with BloodWorks NW we will be offering appointments to donate blood.&nbsp; The regional blood supply is critically low and we have the opportunity to help build it back up. We are hoping to make this a regular occurrence so please sign up and help us fill every single spot!
-
-  SVA Family Life Center Gym
-
-  June 4th 2025 9a-3p
-
-  Sign up [HERE](https://donate.bloodworksnw.org/donor/schedules/drive_schedule/91756)
+images: []
+locations: []
 published: false
 source: CarePoint Clinic
 source_url: https://www.carepointonline.org/news/carepoint-blood-drive-ttpgs-rfzs9

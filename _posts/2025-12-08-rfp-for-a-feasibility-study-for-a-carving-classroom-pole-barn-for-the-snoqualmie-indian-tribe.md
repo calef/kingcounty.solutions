@@ -1,8 +1,6 @@
 ---
 date: '2025-12-08T23:26:21+00:00'
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   <p>The Snoqualmie Indian Tribe seeks to retain the services of a qualified consulting firm to conduct a land development feasibility study for up to three separate parcels of land owned by the Tribe. This project is currently in the pre-construction phase with the scope of services listed below based on the outcome of the studies the Tribe’s intent is to select the parcel that best fits the project needs to move forward to a design and construction phase.</p>
   <p>The overall framework of the feasibility study would be executed within the confines and parameters established by the Snoqualmie Indian Tribe with the anticipated outcomes from the feasibility study being:</p>
   <ul>
@@ -18,30 +16,9 @@ original_content: |-
   <p>Audrey Castleberry will serve as the primary contacts for the review process for the consultant’s proposal. Any questions regarding this RFP should be addressed through email at the above address.</p>
   <p><a>Download the full RFP in PDF format</a></p>
   <p> </p>
-original_content_checksum: 612ee4c899a0b8a1821069641413aab483f2e419
-original_markdown_body: "The Snoqualmie Indian Tribe seeks to retain the services
-  of a qualified consulting firm to conduct a land development feasibility study for
-  up to three separate parcels of land owned by the Tribe. This project is currently
-  in the pre-construction phase with the scope of services listed below based on the
-  outcome of the studies the Tribe’s intent is to select the parcel that best fits
-  the project needs to move forward to a design and construction phase.\n\nThe overall
-  framework of the feasibility study would be executed within the confines and parameters
-  established by the Snoqualmie Indian Tribe with the anticipated outcomes from the
-  feasibility study being:\n\n- Identification of a preferred location for a proposed
-  carving classroom and pole barn from the identified parSite analysis including engineering
-  needs, topographical studies, etc.\n- Identification of projected development costs
-  for each site;\n- Preliminary space allocation allowances and assessment of those
-  against programming needs;\n- Preliminary building and site design concepts inclusive
-  of any limitations the site might render;\n\nThis list of Services is intended as
-  a general guide and is not intended to be a complete list of all work necessary
-  to provide the requested Services. The successful proposer shall have a demonstrated
-  knowledge and expertise to serve the unique needs of the Snoqualmie Indian Tribe.\n\nPlease
-  remit an electronic version of the consultant’s proposal no later than **noon Pacific
-  Standard Time on January 15, 2026** , to:\n\nAudrey Castleberry, Deputy Executive
-  Director of Community Services  \nEmail: Audrey.castleberry@snoqualmietribe.us\n\nAudrey
-  Castleberry will serve as the primary contacts for the review process for the consultant’s
-  proposal. Any questions regarding this RFP should be addressed through email at
-  the above address.\n\nDownload the full RFP in PDF format\n\n&nbsp;"
+feed_content_checksum: 612ee4c899a0b8a1821069641413aab483f2e419
+images: []
+locations: []
 published: false
 source: Snoqualmie Indian Tribe
 source_url: https://snoqualmietribe.us/rfp-for-a-feasibility-study-for-a-carving-classroom-pole-barn-for-the-snoqualmie-indian-tribe/

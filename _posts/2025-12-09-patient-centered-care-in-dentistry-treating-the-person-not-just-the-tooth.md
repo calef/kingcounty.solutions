@@ -2,11 +2,7 @@
 date: '2025-12-09T21:55:01+00:00'
 events: []
 events_extracted: true
-images:
-- ac28bd1f575df670f35224a97c4be5d3cea9627a540f96d5b3492095778189e5
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <div><div> <a> <img src="https://www.everyoneforveterans.org/uploads/2/8/1/3/28134129/parminder_orig.png"> </a> <div></div> </div></div>  <div>In dentistry, true care goes far beyond repairing decay or relieving pain. A person sitting<br>in the chair is not “a molar that needs a filling” or “a tooth that broke yesterday.” They<br>are a human being with fears, history, goals, and individual health challenges. At E4V,<br>we emphasize a patient-centered approach, a philosophy that ensures veterans feel<br>respected, heard, and supported throughout their oral health journey.<br><br><strong><font>What Does Patient-Centered Care Mean?</font></strong><br>A patient-centered approach is grounded in empathy, communication, and partnership.<br>It means:<ul>
   <li>Listening to the patient’s concerns, not just their symptoms</li>
   <li>Considering overall health, mental well-being, habits, and lifestyle</li>
@@ -33,61 +29,11 @@ original_content: |-
   </ul>
   <br>They build trust, deliver comprehensive care, and empower veterans and their spouses<br>with the information they need to maintain lifelong oral wellness.<br><br>This is the kind of dentistry that rebuilds smiles, restores confidence, and changes lives.<br><br><em><font><strong>Citations :</strong><br>American Cancer Society. (2024). Oral cavity and oropharyngeal cancer: Survival statistics.<br>American Dental Association. (2023). Oral cancer: Early detection and prevention. ADA.<br>Centers for Disease Control and Prevention. (2024). HPV and oropharyngeal cancer. CDC.<br>National Institute of Dental and Craniofacial Research. (2023). Head and neck cancer symptoms and risks. NIH.<br>World Health Organization. (2023). Oral health: Key facts. WHO.</font></em>
   </div>
-original_content_checksum: b16ee7748b9088792cea36600702126032be93f4
-original_markdown_body: "![](https://www.everyoneforveterans.org/uploads/2/8/1/3/28134129/parminder_orig.png)
-  \ \n\n \n\nIn dentistry, true care goes far beyond repairing decay or relieving
-  pain. A person sitting  \nin the chair is not “a molar that needs a filling” or
-  “a tooth that broke yesterday.” They  \nare a human being with fears, history, goals,
-  and individual health challenges. At E4V,  \nwe emphasize a patient-centered approach,
-  a philosophy that ensures veterans feel  \nrespected, heard, and supported throughout
-  their oral health journey.  \n  \n**<font>What Does Patient-Centered Care Mean?</font>**
-  \ \nA patient-centered approach is grounded in empathy, communication, and partnership.
-  \ \nIt means:\n- Listening to the patient’s concerns, not just their symptoms\n-
-  Considering overall health, mental well-being, habits, and lifestyle\n- Providing
-  treatment options that the patient can clearly understand\n- Supporting long-term
-  health, not temporary fixes\n\n  \nInstead of “fixing a tooth,” we focus on restoring
-  health, function, confidence, and  \ndignity.  \n  \n**<font>Education as the First
-  Step in Prevention</font>**  \nEmpowering veterans with knowledge is just as important
-  as delivering excellent clinical  \ncare. A key part of comprehensive dentistry
-  is helping patients recognize early signs of  \noral disease, especially oral lesions.
-  \ \n  \n**<font>The Rule of Two Weeks</font>**  \nA crucial message to remember:
-  \ \nAny ulcer, sore, or patch in the mouth that does not heal within two weeks should
-  never  \nbe ignored.  \n  \nThis is particularly important for:\n- The lateral (side)
-  border of the tongue\n- The floor of the mouth\n- Persistent white or red patches
-  (leukoplakia, erythroplakia)\n- Unexplained lumps, firmness, or changes in texture\n\n
-  \ \nThese areas carry a higher risk for oral cancer. Early detection significantly
-  improves  \noutcomes.  \n  \n**<font>Why Early Diagnosis Matters</font>**  \nOral
-  cancer is one of the most serious conditions encountered in dentistry, largely  \nbecause
-  it is often discovered late. When all stages are combined, the overall five-year
-  survival rate is about 68 percent. However, when oral cancer is diagnosed early
-  and  \nremains localized, survival improves dramatically and can reach approximately
-  83  \npercent. Once the cancer spreads to lymph nodes or distant sites, survival
-  rates  \ndecrease sharply. More than 40 percent of people diagnosed with oral cancer
-  do not  \nsurvive five years when the diagnosis occurs at a later stage. Early detection
-  not only  \nincreases survival but also allows for less aggressive treatment and
-  better preservation  \nof speech, chewing, facial function, and quality of life.
-  \ \n  \n**<font>Encourage Screening and Prevention</font>**  \nVeterans should be
-  encouraged to:\n- See a dentist promptly if a lesion lasts longer than two weeks\n-
-  Ask about oral cancer screenings\n- Learn about HPV vaccination, which reduces the
-  risk of HPV-related oropharyngeal cancers\n- Reduce or quit smoking when possible\n\n
-  \ \n​Prevention is always better than treatment. Education is one of the strongest
-  tools we have to reduce late-stage diagnosis and support lifelong oral health.  \n
-  \ \n**<font>Why This Matters</font>**  \nMany veterans may postpone dental care
-  because of various challenges, such as high  \ncost, anxiety, limited access, or
-  the instinct to put others’ needs ahead of their own.  \nWhen we approach care with
-  compassion, and when we take time to educate, patients  \ngain the confidence to
-  seek help early. This protects not only their smile but also their  \noverall health
-  and quality of life.  \n  \n**<font>The Heart of E4V’s Mission</font>**  \nOur partner
-  dentists are more than clinical providers. They are:\n- Listeners\n- Educators\n-
-  Advocates\n- Supporters\n\n  \nThey build trust, deliver comprehensive care, and
-  empower veterans and their spouses  \nwith the information they need to maintain
-  lifelong oral wellness.  \n  \nThis is the kind of dentistry that rebuilds smiles,
-  restores confidence, and changes lives.  \n  \n_<font><strong>Citations :</strong><br>American
-  Cancer Society. (2024). Oral cavity and oropharyngeal cancer: Survival statistics.<br>American
-  Dental Association. (2023). Oral cancer: Early detection and prevention. ADA.<br>Centers
-  for Disease Control and Prevention. (2024). HPV and oropharyngeal cancer. CDC.<br>National
-  Institute of Dental and Craniofacial Research. (2023). Head and neck cancer symptoms
-  and risks. NIH.<br>World Health Organization. (2023). Oral health: Key facts. WHO.</font>_"
+feed_content_checksum: b16ee7748b9088792cea36600702126032be93f4
+images:
+- ac28bd1f575df670f35224a97c4be5d3cea9627a540f96d5b3492095778189e5
+locations:
+- King County
 source: Everyone for Veterans
 source_url: https://www.everyoneforveterans.org/blog/patient-centered-care-in-dentistry-treating-the-person-not-just-the-tooth
 summarized: true

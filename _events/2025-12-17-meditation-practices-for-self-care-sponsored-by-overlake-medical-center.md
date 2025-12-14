@@ -1,10 +1,6 @@
 ---
 end_date: '2025-12-17T18:30:00-08:00'
-images: []
-location: "[ONLINE] Overlake Medical Center"
-locations:
-- King County
-original_content: "<header> <div> <div><div> <div><div> <a>Lifeline</a> | 206.297.2500
+feed_content: "<header> <div> <div><div> <div><div> <a>Lifeline</a> | 206.297.2500
   | 1.800.255.5505 | <a>Lifeline Chat</a> </div></div> </div></div> </div> </header>
   <div> <div> <div> <div> <section> <div> <p> <a> « All Events</a> </p> <h1>Meditation
   Practices for Self-care Sponsored by Overlake Medical Center</h1> <div> <div> <span>December
@@ -38,24 +34,11 @@ original_content: "<header> <div> <div><div> <div><div> <a>Lifeline</a> | 206.29
   <div> <ul> <li><a>Ways to Give</a></li> <li><a>Volunteer with Us</a></li> <li><a>Donate
   Now</a></li> <li><a>Planned Giving</a></li> </ul> </div> </aside> </div> </div>
   </div> </div>"
-original_content_checksum: 3b4fea82b3ebc094fadd5688d365dd21a5ec2bb3
-original_markdown_body: 'Lifeline | 206.297.2500 | 1.800.255.5505 | Lifeline Chat             «
-  All Events  Meditation Practices for Self-care Sponsored by Overlake Medical Center   December
-  17 @ 5:30 pm - 6:30 pm  PST     Event Series    (See All)       Join us to learn
-  simple ways to quiet the mind and learn how meditation can be beneficial to your
-  overall health. You will learn a variety of meditation techniques that you can easily
-  practice whenever you need it most. Come to one or all classes. CLICK HERE TO REGISTER
-  Need help getting registered? Having trouble joining a class? Please call our Telephone
-  Lifeline at 206-297-2500 M-F, 9am-5pm or connect with us through our Online Lifeline
-  Chat.         Google Calendar     iCalendar     Outlook 365     Outlook Live           Details    Date:   December
-  17     Time:   5:30 pm - 6:30 pm PST    Series:    Meditation Practices for Self-care
-  Sponsored by Overlake Medical Center    Event Category: Stress Reduction & Relaxation      Venue    [ONLINE]
-  Overlake Medical Center     Organizer   Sharon St. John, RYT-500, Certified Cancer
-  Exercise Specialist                Info   6522 Fremont Ave N Seattle, WA 98103   Monday
-  through Friday 9:00 AM – 5:00 PM   [email protected]   Call Us: 1-206-297-2100   I’m
-  New   FAQ Classes Support Groups Programs & Services   About Us   Team History Partnerships
-  & Sponsors Jobs Privacy Policy Contact Us   Get Involved   Ways to Give Volunteer
-  with Us Donate Now Planned Giving'
+feed_content_checksum: 3b4fea82b3ebc094fadd5688d365dd21a5ec2bb3
+images: []
+location: "[ONLINE] Overlake Medical Center"
+locations:
+- King County
 source: Cancer Lifeline Financial Assistance for Cancer Patients
 source_url: https://cancerlifeline.org/event/meditation-practices-for-self-care-sponsored-by-overlake-medical-center-6/2025-12-17/
 start_date: '2025-12-17T17:30:00-08:00'

@@ -2,11 +2,7 @@
 date: '2025-05-29T21:14:13+00:00'
 events: []
 events_extracted: true
-images:
-- fbb2e5e0560edcc529ba23a9ae442a276a489b0fe170c9f86c03bf762e53eb3f
-locations:
-- Bellevue
-original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Bellevue
+feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Bellevue
   Essentials application period opens</span>\n<span class=\"field field--name-uid
   field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"
   typeof=\"schema:Person\" property=\"schema:name\" datatype>CIosso</span></span>\n<span
@@ -48,24 +44,10 @@ original_content: "<span class=\"field field--name-title field--type-string fiel
   \     \n\n            <div class=\"field field--name-field-article-date field--type-datetime
   field--label-hidden field__item\"><time datetime=\"2025-05-29T12:00:00Z\" class=\"datetime\">May
   29 2025</time>\n</div>\n      \n    </div>\n  </div>"
-original_markdown_body: |-
-  Bellevue Essentials application period opensCIosso<time datetime="2025-05-29T14:14:13-07:00" title="Thursday, May 29, 2025 - 14:14" class="datetime">Thu, 05/29/2025 - 14:14</time>
-
-   ![A park ranger meets with the Bellevue Essentials class of 2019 at Lewis Creek Park.](https://bellevuewa.gov/sites/default/files/styles/article_featured_image/public/media/article_featured_image/2020-06/Bellevue-Essentials-Lewis-Creek.jpg?h=6bb52cf1&itok=sZspsz6-)
-
-  Bellevue Essentials, the city’s 10-week civic engagement course offering Bellevue residents a behind-the-scenes look at city government, is now accepting applications for the fall 2025 cohort through Wednesday, July 23. This course is designed to teach participants how the City of Bellevue makes municipal decisions and highlight ways residents can help shape their community.
-
-  The fall session runs Sept. 10 to Nov. 12, with eight Wednesday classes, 5:30-8:30 p.m., plus one Tuesday evening class and one Saturday afternoon field trip to Bellevue's neighborhoods and parks.&nbsp;
-
-  Since the program started in 2013, more than 400 people have graduated from Bellevue Essentials. Many alumni now serve on city boards, commissions and neighborhood associations, making meaningful contributions to their community.
-
-  Participants in Bellevue Essentials will experience the structure and daily operations of city government through immersive and interactive learning. They will see the work, challenges and collaboration between staff and community that make Bellevue a great place to live, work and play. Class members finish the course knowing how to impact decision making in the city, with an expanded personal network and greater awareness of volunteer opportunities. &nbsp;&nbsp;
-
-  Session tuition is $150, with fee waivers available. To graduate, participants must attend at least eight of the 10 sessions. Applications at [Bellevue Essentials](https://bellevuewa.gov/city-government/departments/community-development/neighborhoods/classes-and-events/bellevue-essentials "Bellevue Essentials ") are due by 5 p.m., July 23.&nbsp;
-
-  For questions or accommodations, contact Sarina Miller at 425-452-4295 or [samiller@bellevuewa.gov](mailto:samiller@bellevuewa.gov).
-
-  <time datetime="2025-05-29T12:00:00Z" class="datetime">May 29 2025</time>
+images:
+- fbb2e5e0560edcc529ba23a9ae442a276a489b0fe170c9f86c03bf762e53eb3f
+locations:
+- Bellevue
 source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/bellevue-essentials-25
 summarized: true

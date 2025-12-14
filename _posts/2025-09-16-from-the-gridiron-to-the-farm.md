@@ -2,12 +2,9 @@
 date: '2025-09-16T01:36:24+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: "## **From the Gridiron to the Farm:** \n\n### **Meet Jason Brown,
-  30th Annual Reaching Out Celebration Keynote Speaker** &nbsp;\n\n![2025 Reaching
-  Out Celebration Keynote Speaker, Jason Brown](https://www.hopelink.org/wp-content/uploads/2025/09/061225_Jason_Brown_AAE_Headshot_1-1024x746.png
+feed_content: "## **From the Gridiron to the Farm:** \n\n### **Meet Jason Brown, 30th
+  Annual Reaching Out Celebration Keynote Speaker** &nbsp;\n\n![2025 Reaching Out
+  Celebration Keynote Speaker, Jason Brown](https://www.hopelink.org/wp-content/uploads/2025/09/061225_Jason_Brown_AAE_Headshot_1-1024x746.png
   \" 2025 Reaching Out Celebration Keynote Speaker, Jason Brown\")\n_30th Annual Reaching
   Out Celebration Keynote Speaker, Jason Brown_\n\nHopelink is proud to welcome Jason
   Brown as the keynote speaker for the [30th Annual Reaching Out Celebration](https://www.hopelink.org/events/reaching-out-celebration/).
@@ -50,6 +47,9 @@ original_content: "## **From the Gridiron to the Farm:** \n\n### **Meet Jason Br
   => {\n\t\t\tlet article = document.querySelector('.block3787034518108698');\n\n\t\t\tarticle.querySelectorAll('a').forEach(elm
   => {\n\t\t\t\tif (!elm.href.search(/^(http).+(hopelink.com).+$/)) {\n\t\t\t\t\telm.target
   = '_blank';\n\t\t\t\t\telm.title = 'Opens in a new tab';\n\t\t\t\t}\n\t\t\t});\n\t\t})();\n\t</script>"
+images: []
+locations:
+- King County
 source: Hopelink
 source_url: https://www.hopelink.org/blog/from-the-gridiron-to-the-farm/
 summarized: true

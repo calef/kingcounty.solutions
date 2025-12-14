@@ -2,10 +2,7 @@
 date: '2025-08-29T17:56:33+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- Vashon
-original_content: "<p><strong>Program:</strong> Meals on Wheels<br /><strong>Location:</strong>
+feed_content: "<p><strong>Program:</strong> Meals on Wheels<br /><strong>Location:</strong>
   Vashon<br /><strong>Schedule:</strong> Tuesday mornings<br /><strong>Duration:</strong> Ongoing<br
   /><strong>Group or Individual:</strong> Individual<br /><strong>Kid Friendly:</strong> Yes<br
   /><strong>Contact:</strong><a href=\"mailto:mealsonwheels@soundgenerations.org\">mealsonwheels@soundgenerations.org</a></p>\r\n\r\n\r\n\r\n<p>Join
@@ -24,22 +21,9 @@ original_content: "<p><strong>Program:</strong> Meals on Wheels<br /><strong>Lo
   <a href=\"https://soundgenerations.org/meals-on-wheels-help-make-a-difference-in-vashon/\">Meals
   on Wheels: Pack and Deliver Meals in Vashon!</a> appeared first on <a href=\"https://soundgenerations.org\">Sound
   Generations</a>.</p>"
-original_markdown_body: "**Program:** &nbsp;Meals on Wheels  \n**Location:** Vashon
-  \ \n**Schedule:** Tuesday mornings  \n**Duration:** &nbsp;Ongoing  \n**Group or
-  Individual:** &nbsp;Individual  \n**Kid Friendly:** &nbsp;Yes  \n**Contact:** [mealsonwheels@soundgenerations.org](mailto:mealsonwheels@soundgenerations.org)\n\nJoin
-  our Volunteer team to help Meals on Wheels in King County fight hunger! As a Meals
-  on Wheels Volunteer, you will belong to a team committed to helping homebound seniors
-  maintain their health and independence with nutritious food, personal contact, and
-  caring service.\n\nA volunteer **Meal Packer and Delivery Driver** is needed on
-  **Tuesday mornings 9:15am – 11:15am.** Training is provided. We are looking for
-  someone interested in volunteering with us on an on-going basis.\n\n**Qualities
-  sought in Meals on Wheels volunteers:** Good communication and people skills, reliable,
-  a commitment to the well-being of elders, and good cheer. Local to and/or familiar
-  with the West Seattle area.\n\n**Requirements:** Complete the Meals on Wheels Volunteer
-  Application, consent to a Washington State Patrol background check, the ability
-  to lift 15 pounds and over the age of 18.\n\nThe post [Meals on Wheels: Pack and
-  Deliver Meals in Vashon!](https://soundgenerations.org/meals-on-wheels-help-make-a-difference-in-vashon/)
-  appeared first on [Sound Generations](https://soundgenerations.org)."
+images: []
+locations:
+- Vashon
 source: Sound Generations
 source_url: https://soundgenerations.org/meals-on-wheels-help-make-a-difference-in-vashon/
 summarized: true

@@ -2,10 +2,7 @@
 date: '2025-10-01T22:21:27+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- Snoqualmie Valley
-original_content: |-
+feed_content: |-
   Seizures occur when the brain’s electrical signals misfire, leading to sudden changes such as unusual movements, brief confusion, or loss of awareness. While one seizure does not always mean a person has epilepsy, repeated seizures may signal the condition.
 
   Epilepsy is more common than many people realize. As the fourth most common neurological disorder, it affects one in 26 people during their lifetime. Because seizures can happen without warning, they can sometimes lead to injuries, cognitive impairment, or other complications. That’s why early diagnosis and treatment are so important. With the right care, many patients are able to reduce or even stop seizures, improving both safety and quality of life.
@@ -31,6 +28,9 @@ original_content: |-
   Expert neurology care is available close to home. Call Snoqualmie Valley Health at (425) 831-2313 to schedule a visit with Dr. Jimmy Young today.
 
   The post [Expert Epilepsy and Seizure Care Now Available at Snoqualmie Valley Hospital](https://snoqualmievalleyhealth.org/expert-epilepsy-and-seizure-care-now-available-at-snoqualmie-valley-hospital/) appeared first on [Snoqualmie Valley Hospital](https://snoqualmievalleyhealth.org).
+images: []
+locations:
+- Snoqualmie Valley
 source: Hospital District No. 4 (Snoqualmie Valley Hospital)
 source_url: https://snoqualmievalleyhealth.org/expert-epilepsy-and-seizure-care-now-available-at-snoqualmie-valley-hospital/
 summarized: true

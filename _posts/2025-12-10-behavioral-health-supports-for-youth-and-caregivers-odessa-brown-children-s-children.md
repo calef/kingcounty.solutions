@@ -3,20 +3,15 @@ date: '2025-12-10T18:32:59+00:00'
 events:
 - 2026-01-01-behavioral-health-support-groups-for-youth-and-caregivers
 events_extracted: true
+feed_content: Odessa Brown Children's Clinic offers behavioral health groups for youth
+  and caregivers starting in 2026. Groups include Behavioral Activation for teens,
+  STAND for parents, and an anxiety group for youth. These sessions focus on managing
+  stress, effective parenting strategies, and preventing anxiety, enhancing communication
+  and organizational skills.
+feed_content_checksum: 1de8a70593c59e9226d59a59ab67541ca6948714
 images: []
 locations:
 - King County
-original_content: Odessa Brown Children's Clinic offers behavioral health groups for
-  youth and caregivers starting in 2026. Groups include Behavioral Activation for
-  teens, STAND for parents, and an anxiety group for youth. These sessions focus on
-  managing stress, effective parenting strategies, and preventing anxiety, enhancing
-  communication and organizational skills.
-original_content_checksum: 1de8a70593c59e9226d59a59ab67541ca6948714
-original_markdown_body: Odessa Brown Children's Clinic offers behavioral health groups
-  for youth and caregivers starting in 2026. Groups include Behavioral Activation
-  for teens, STAND for parents, and an anxiety group for youth. These sessions focus
-  on managing stress, effective parenting strategies, and preventing anxiety, enhancing
-  communication and organizational skills.
 source: King County School Health
 source_url: https://kingcountyschoolhealthdotcom.wordpress.com/2025/12/10/behavioral-health-supports-for-youth-and-caregivers-odessa-brown-childrens-children/
 summarized: true

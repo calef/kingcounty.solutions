@@ -2,13 +2,9 @@
 date: '2025-07-07T21:55:15+00:00'
 events: []
 events_extracted: true
-images:
-- f55c4aeb9c4bc72fe180a9edf7b7ae2ae9a21baed592a41042329223973105fd
-locations:
-- King County
-original_content: "<p class=\"\">Join us for a day of in-person community-building
-  and connection! Come help distribute hygiene kits and snack bags to our unhoused
-  neighbors in Downtown Seattle.<br><br>Please contact Marryam Ali at marryamali@essentialsfirst.org
+feed_content: "<p class=\"\">Join us for a day of in-person community-building and
+  connection! Come help distribute hygiene kits and snack bags to our unhoused neighbors
+  in Downtown Seattle.<br><br>Please contact Marryam Ali at marryamali@essentialsfirst.org
   with any questions.</p><p class=\"\">When: July 12, 2025 at 12 noon</p><p class=\"\">Where:
   meet in Pioneer Square</p><p class=\"\"><a href=\"https://lp.constantcontactpages.com/ev/reg/km3f3up/lp/b6ed9d14-ed9d-41b4-b744-e49fc254ccb5\"
   target=\"_blank\">RSVP here</a>!</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
@@ -30,11 +26,10 @@ original_content: "<p class=\"\">Join us for a day of in-person community-buildi
   1500w, https://images.squarespace-cdn.com/content/v1/6244ce6a3e335a451b9540a9/49ec93a9-39f2-43ee-b5d9-bdfcada004b2/484049002_965257205719711_5624098662318760822_n.jpg?format=2500w
   2500w\" loading=\"lazy\" decoding=\"async\" data-loader=\"sqs\">\n\n            \n
   \         \n        \n          \n        \n\n        \n      \n        </figure>"
-original_markdown_body: "Join us for a day of in-person community-building and connection!
-  Come help distribute hygiene kits and snack bags to our unhoused neighbors in Downtown
-  Seattle.  \n  \nPlease contact Marryam Ali at marryamali@essentialsfirst.org with
-  any questions.\n\nWhen: July 12, 2025 at 12 noon\n\nWhere: meet in Pioneer Square\n\n[RSVP
-  here](https://lp.constantcontactpages.com/ev/reg/km3f3up/lp/b6ed9d14-ed9d-41b4-b744-e49fc254ccb5)!\n\n![](https://images.squarespace-cdn.com/content/v1/6244ce6a3e335a451b9540a9/49ec93a9-39f2-43ee-b5d9-bdfcada004b2/484049002_965257205719711_5624098662318760822_n.jpg?format=1000w)"
+images:
+- f55c4aeb9c4bc72fe180a9edf7b7ae2ae9a21baed592a41042329223973105fd
+locations:
+- King County
 source: Essentials First
 source_url: https://www.essentialsfirst.org/blog/coming-up-614-ef-outreach-drive
 summarized: true

@@ -1,10 +1,6 @@
 ---
 end_date: '2025-12-16T14:00:00-08:00'
-images: []
-location: Bothell, WA, USA
-locations:
-- Bothell
-original_content: <div class="site" id="page"> <div id="wrapper-topbar" class="bg-transparent
+feed_content: <div class="site" id="page"> <div id="wrapper-topbar" class="bg-transparent
   text-light"> <div class="container-fluid"> <div class="row"> <div id="topbar-content"
   class="col-12"> <div class="navTop"> <div class="wp-block-columns is-layout-flex
   wp-container-core-columns-is-layout-9d6595d7 wp-block-columns-is-layout-flex"> <div
@@ -54,10 +50,10 @@ original_content: <div class="site" id="page"> <div id="wrapper-topbar" class="b
   Venue </h2> <ul class="tribe-events-meta-list"> <li class="tribe-events-meta-item
   tribe-venue"> Bothell, WA, USA </li> </ul> </div> </div> </div> </div> </section>
   </div>
-original_markdown_body: 'Login Volunteer DONATE          Skip to content      « All
-  Events  SENIORS Bothell Popup   December 16 @ 10:30 am - 2:00 pm           Google
-  Calendar     iCalendar     Outlook 365     Outlook Live           Details    Date:   December
-  16     Time:   10:30 am - 2:00 pm        Venue    Bothell, WA, USA'
+images: []
+location: Bothell, WA, USA
+locations:
+- Bothell
 source: Indian American Community Services
 source_url: https://iacswa.org/event/seniors-bothell-popup-46/
 start_date: '2025-12-16T10:30:00-08:00'

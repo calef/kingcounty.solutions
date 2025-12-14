@@ -2,14 +2,7 @@
 date: '2025-11-26T22:28:27+00:00'
 events: []
 events_extracted: true
-images:
-- 3228846b2f4bb1a019f806df6b4cb6101a31bd3f8128cc4c12175d5e1f5818be
-- 02de085043b3a8bf9a503560bcda4b5eae536231455a631dc3d7ee8130d1ac7b
-- 4b6b6173bced96a89d5595a83ceb3adeeb9d34bcd12821c0cf29bd4d54ab6385
-- 5b07e9d39520c3fca460091cc2927881a8a45fc88dd2b225551a2871d120fc60
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <p>Head to the Library in December for stirring author talks, artist tours, a special community celebration at the Douglass-Truth Branch, a screening of “The Librarians” and more!</p>
 
 
@@ -126,78 +119,13 @@ original_content: |-
 
 
   <p></p>
-original_markdown_body: "Head to the Library in December for stirring author talks,
-  artist tours, a special community celebration at the Douglass-Truth Branch, a screening
-  of “The Librarians” and more!\n\nAll Library events are free and open to the public.
-  Find information and registration through the event links below or at [www.spl.org/Calendar](https://www.spl.org/Calendar).
-  Registration is not required unless noted.\n\n![Eve L. Ewng, author of Original
-  Sins](https://i0.wp.com/blog.spl.org/wp-content/uploads/2025/11/Eve-Ewing.jpg?resize=940%2C530&ssl=1)\n\n###
-  [**Eve L. Ewing, author of “Original Sins,” presents the 2025 Bullitt Lecture in
-  American History**](https://www.spl.org/event-calendar?trumbaEmbed=view%3Devent%26eventid%3D192739888)
-  \n\n**Thursday, Dec. 4, from 7 p.m. to 8:30 p.m.** Central Library, Level 1 – Microsoft
-  Auditorium. Eve L. Ewing – bestselling author, cultural organizer, and Marvel comics
-  writer – will present the [2025 Bullitt Lecture in American History](https://www.spl.org/programs-and-services/arts-and-culture/bullitt-lecture)
-  about her new book “Original Sins: The (Mis)education of Black and Native Children
-  and the Construction of American Racism.” Ewing argues that from the country’s founding,
-  our schools were designed as an institution that would fortify the country’s racial
-  hierarchy. **Registration is required**.\n\n### [**Classical Guitar: Concert with
-  Reyes González**](https://www.spl.org/programs-and-services/arts-and-culture/arts-and-culture-calendar?trumbaEmbed=view%3Devent%26eventid%3D192745502)\n\n**Saturday,
-  Dec. 6, from 2 p.m. to 3 p.m.** Central Library, Level 3 – Living Room. Join us
-  for an afternoon concert of classical guitar presented by guitarist Reyes González,
-  with classical works and transcriptions for guitar by J.S. Bach, Luigi Legnani,
-  Tárrega, Albéniz, Schubert, Villa-Lobos, Agustín Barrios, and Andrew York.\n\n###
-  [**George M. Johnson & Leah Johnson discuss “There’s Always Next Year”**](https://www.spl.org/programs-and-services/authors-and-books/authors-and-books-calendar?trumbaEmbed=view%3Devent%26eventid%3D192789522)\n\n**Saturday,
-  Dec. 6, from 2 p.m. to 3:30 p.m.** Central Library, Level 1 – Microsoft Auditorium.
-  Join us for an afternoon of new beginnings, second chances, and the magic of love
-  with George M. Johnson (“All Boys Aren’t Blue”) and Leah Johnson (“You Should See
-  Me In a Crown”). In their new book, journalism student Andy and her influencer cousin
-  Dominique, who is on the verge of securing a major deal, navigate their respective
-  love stories over the New Year. With Charlie’s Queer Books. **Registration is required.**\n\n[**Ladies
-  Musical Club Concert**](https://www.spl.org/programs-and-services/arts-and-culture/arts-and-culture-calendar?trumbaEmbed=view%3Devent%26eventid%3D190947336).
-  **Wednesday, Dec. 10, from noon to 1 p.m.** Central Library, Level 1 – Microsoft
-  Auditorium. A program titled “Songs From a Midwinter’s Heart” features pieces by
-  Handel, Holst, Mendelssohn, Blake, Bach, and Schubert, with performances by Melet
-  Whinston on cello and Michael Housley on piano.\n\n[**Art Walk through the Central
-  Library**](https://www.spl.org/programs-and-services/arts-and-culture/arts-and-culture-calendar?trumbaEmbed=view%3Devent%26eventid%3D192807551).
-  **Saturday, Dec. 13, from 1 p.m. to 3 p.m.** Central Library, Level 8 – Gallery.
-  Join artist in residence Nina Vichayapai for this guided walk through each of the
-  Library’s public floors, with art activities intended to deepen your connection
-  to the Library’s spaces and collection. Come with your curiosity and be prepared
-  to find joyful surprises on each level.\n\n![the Librarians documentary](https://i0.wp.com/blog.spl.org/wp-content/uploads/2025/11/the-Librarians-830.jpg?resize=691%2C1024&ssl=1)\n\n###
-  [**Screening and Discussion of the “The Librarians”**](https://www.spl.org/event-calendar?trumbaEmbed=view%3Devent%26eventid%3D193516008)
-  \n\n**Thursday, Dec. 11, from 6 p.m. to 8:30 p.m.** Central Library, Level 1 Microsoft
-  Auditorium. Learn about the unprecedented wave of book banning and the librarians
-  brave enough to stand up to it at a screening of the award-winning documentary “The
-  Librarians.” In states such as Texas and Florida, librarians are under siege, defending
-  intellectual freedom on the front lines of democracy. The film will be followed
-  by a panel discussion with director/producer Kim A. Snyder and The Seattle Public
-  Library’s Chief Librarian, Tom Fay. With Washington State Library and Washington
-  Center for the Book. **Registration is required.**\n\n![Douglass-Truth 50th Anniversary
-  celebration](https://i0.wp.com/blog.spl.org/wp-content/uploads/2025/11/DTH50th_Graphic.jpg?resize=1024%2C1024&ssl=1)\n\n###
-  [**Douglass-Truth Branch 50<sup>th</sup> Anniversary of Renaming Celebration**](https://www.spl.org/event-calendar?trumbaEmbed=view%3Devent%26eventid%3D192720671)\n\n**Saturday,
-  Dec. 13, from noon to 5 p.m.** Douglass-Truth Branch, 2300 E. Yesler Way. Help celebrate
-  the 50<sup>th</sup> anniversary of the renaming of the Douglass-Truth Branch after
-  Black abolitionists Frederick Douglass and Sojourner Truth, chosen by the Central
-  District community in 1975. Activities include a Garfield Jazz Quartet performance,
-  branch history tours, and a presentation about the branch’s African American collection.&nbsp;The
-  event is presented with the Alpha Kappa Alpha Sorority, Inc.®, Delta Upsilon Omega
-  Chapter in Seattle (AKA-DUO) and the Black Heritage Society of Washington State.\n\n![Image
-  of people wearing colorful folkloric dresses with text \"Nuestra Euforia,\" Oct.
-  18, 2025 to Jan. 10, 2026](https://i0.wp.com/blog.spl.org/wp-content/uploads/2025/10/Euforia-exhibit-830.jpg?resize=830%2C576&ssl=1)\n\n###
-  [**Nuestra Euforia/Our Euphoria: Exhibit Tour & Talk with Vaquero Azul**](https://www.spl.org/programs-and-services/arts-and-culture/arts-and-culture-calendar?trumbaEmbed=view%3Devent%26eventid%3D192808479)
-  \n\n**Sunday, Dec. 14, from 3 p.m. to 4 p.m.** Central Library, Level 8 – Gallery.
-  “Nuestra Euforia” showcases artwork by local trans and gender non-conforming artists
-  and photographs of local cultural bearers and icons, including a Trans Pride Ofrenda.
-  At this special event, curator and artist Vaquero Azul will lead a tour, spotlighting
-  the art pieces on display, as well as their art process and sewing techniques.\n\n###
-  [**Book Club: Gays Reading Books at the Library**](https://www.spl.org/programs-and-services/authors-and-books/authors-and-books-calendar?trumbaEmbed=view%3Devent%26eventid%3D192797783)\n\n**Thursday**
-  , **Dec. 18, from 6 p.m. to 7:45 p.m**. Central Library, Level 3 – Living Room.
-  Queer folks and allies: join us for silent reading and bookish chit-chat with Queer
-  Silent Book Club Seattle! We’ll meet on Level 4 of the Central Library for quick
-  intros and then we’ll disperse throughout the Library for an hour of reading (we
-  recommend the Reading Room on Level 10). With Queer Silent Book Club Seattle. **Registration
-  is required.**\n\nMany of these events are supported by The Seattle Public Library
-  Foundation and the Gary and Connie Kunis Foundation."
+images:
+- 3228846b2f4bb1a019f806df6b4cb6101a31bd3f8128cc4c12175d5e1f5818be
+- 02de085043b3a8bf9a503560bcda4b5eae536231455a631dc3d7ee8130d1ac7b
+- 4b6b6173bced96a89d5595a83ceb3adeeb9d34bcd12821c0cf29bd4d54ab6385
+- 5b07e9d39520c3fca460091cc2927881a8a45fc88dd2b225551a2871d120fc60
+locations:
+- King County
 source: Homework Help
 source_url: https://blog.spl.org/2025/11/26/december-2025-author-and-community-events/
 summarized: true

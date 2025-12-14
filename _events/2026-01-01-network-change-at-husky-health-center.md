@@ -4,8 +4,6 @@ images: []
 location: ''
 locations:
 - King County
-original_markdown_body: Starting January 1, 2026, Husky Health Center and other UW
-  Medicine facilities will no longer accept certain insurance coverages.
 source: Husky Health Center
 source_url: https://wellbeing.uw.edu/important-network-change-for-husky-health-center/
 start_date: '2026-01-01T00:00:00-08:00'

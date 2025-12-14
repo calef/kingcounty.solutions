@@ -1,31 +1,25 @@
 ---
 end_date: '2025-12-17T12:30:00-08:00'
-images: []
-location: The Center for Active Living, 4217 SW Oregon St., Seattle, WA, 98116, United
-  States
-locations:
-- King County
-original_content: '<a>Skip to content</a><div> <header><div> <div> <div> <div> <div>
-  <div> <div> <div> <div> <div> <div> <div> <p>We used to be called the Senior Center
-  of West Seattle.</p> </div> </div> </div> </div> </div> <div> <div> <div> <div>
-  <div> <div> <div> <div> <a> <span>Join</span> </a> </div> </div> <div> <div> <a>
-  <span>Donate</span> </a> </div> </div> </div> </div> </div> </div> </div> </div>
-  <div> <div> <div> <div> <div> <span> <a> <span>Facebook</span> </a> </span> <span>
-  <a> <span>Instagram</span> </a> </span> <span> <a> <span>YouTube</span> </a> </span>
-  <span> <a> <span>LinkedIn</span> </a> </span> </div> </div> </div> </div> </div>
-  </div> </div> </div> </div> </div> </div> </div> <div> <div> <div> <div> <div> <div>
-  <div> <div> <div> <div> <div> <h1> <a> <span>Activities &amp; Events</span> </a>
-  </h1> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div>
-  </header> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div>
-  <div> <h1> <span>Writing Group</span> </h1> </div> </div> <div> <div> <div> <p><span>Wednesday,
-  December 17, 2025 at 11:00 am</span> - <span>12:30 pm</span></p> </div> </div> </div>
-  <div> <div> <p><span>This writing group encourages you to write for your family
-  or for yourself. Facilitated by Natalie Bumgardner, the group shares stories in
-  a comfortable environment with fellow writers offering comments and encouragement.
-  Space limited. To participate, contact Natalie in advance for materials and other
-  info: </span><a><span>nataliebumgardner@yahoo.com</span></a><span>.</span></p> </div>
-  </div> <div> <div> <span><a>Languages, Reading &amp; Writing</a></span> </div> </div>
-  </div> </div> <div> <div> <div> <div> <div> <div> <div> <div> <a> <span>Calendar</span>
+feed_content: '<a>Skip to content</a><div> <header><div> <div> <div> <div> <div> <div>
+  <div> <div> <div> <div> <div> <div> <p>We used to be called the Senior Center of
+  West Seattle.</p> </div> </div> </div> </div> </div> <div> <div> <div> <div> <div>
+  <div> <div> <div> <a> <span>Join</span> </a> </div> </div> <div> <div> <a> <span>Donate</span>
+  </a> </div> </div> </div> </div> </div> </div> </div> </div> <div> <div> <div> <div>
+  <div> <span> <a> <span>Facebook</span> </a> </span> <span> <a> <span>Instagram</span>
+  </a> </span> <span> <a> <span>YouTube</span> </a> </span> <span> <a> <span>LinkedIn</span>
+  </a> </span> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div>
+  </div> </div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div>
+  <h1> <a> <span>Activities &amp; Events</span> </a> </h1> </div> </div> </div> </div>
+  </div> </div> </div> </div> </div> </div> </div> </header> <div> <div> <div> <div>
+  <div> <div> <div> <div> <div> <div> <div> <div> <div> <h1> <span>Writing Group</span>
+  </h1> </div> </div> <div> <div> <div> <p><span>Wednesday, December 17, 2025 at 11:00
+  am</span> - <span>12:30 pm</span></p> </div> </div> </div> <div> <div> <p><span>This
+  writing group encourages you to write for your family or for yourself. Facilitated
+  by Natalie Bumgardner, the group shares stories in a comfortable environment with
+  fellow writers offering comments and encouragement. Space limited. To participate,
+  contact Natalie in advance for materials and other info: </span><a><span>nataliebumgardner@yahoo.com</span></a><span>.</span></p>
+  </div> </div> <div> <div> <span><a>Languages, Reading &amp; Writing</a></span> </div>
+  </div> </div> </div> <div> <div> <div> <div> <div> <div> <div> <div> <a> <span>Calendar</span>
   </a> </div> </div> <div> <div> <a> <span>Membership</span> </a> </div> </div> </div>
   </div> </div> </div> </div> </div> </div> <div> <div> <div> <div> <div> <div> <h2>
   Location </h2> <ul> <li> The Center for Active Living </li> <li> <address> <span>
@@ -46,22 +40,12 @@ original_content: '<a>Skip to content</a><div> <header><div> <div> <div> <div> <
   </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div>
   </div> <a><span>Scroll To Top</span></a> <script> {"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://wscenter.org/wp-includes/js/wp-emoji-release.min.js?ver=6.9"}}
   </script>'
-original_content_checksum: 3ca257678dfcc8b6e46659da88729feee456cf3d
-original_markdown_body: 'Skip to content             We used to be called the Senior
-  Center of West Seattle.               Join       Donate                 Facebook     Instagram     YouTube     LinkedIn                            Activities
-  & Events                             Writing Group       Wednesday, December 17,
-  2025 at 11:00 am - 12:30 pm      This writing group encourages you to write for
-  your family or for yourself. Facilitated by Natalie Bumgardner, the group shares
-  stories in a comfortable environment with fellow writers offering comments and encouragement.
-  Space limited. To participate, contact Natalie in advance for materials and other
-  info: nataliebumgardner@yahoo.com.     Languages, Reading & Writing              Calendar       Membership                  Location    The
-  Center for Active Living     4217 SW Oregon St. Seattle, WA 98116 United States  +
-  Google Map    Phone  206-932-4044     View Location Website                   Google
-  Calendar     iCalendar     Outlook 365     Outlook Live                   Related
-  Events    Beginner Spanish Class Thursday, December 11, 2025 at 9:00 am - 10:00
-  am     Casual Spanish Conversation Class Thursday, December 11, 2025 at 10:00 am
-  - 11:00 am     Conversational German Friday, December 12, 2025 at 9:45 am - 10:45
-  am             Calendar                 Scroll To Top  {"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://wscenter.org/wp-includes/js/wp-emoji-release.min.js?ver=6.9"}}'
+feed_content_checksum: 3ca257678dfcc8b6e46659da88729feee456cf3d
+images: []
+location: The Center for Active Living, 4217 SW Oregon St., Seattle, WA, 98116, United
+  States
+locations:
+- King County
 published: false
 source: The Center for Active Living
 source_url: https://wscenter.org/event/writing-group/2025-12-17/

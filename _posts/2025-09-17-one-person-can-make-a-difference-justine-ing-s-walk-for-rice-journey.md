@@ -2,10 +2,7 @@
 date: '2025-09-17T23:58:27+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <p data-start="264" data-end="465">In these times, when our communities are facing so many challenges, it’s easy to feel helpless as one person. But stories like <strong data-start="391" data-end="407">Justine Ing’s</strong> remind us that each of us can—and do—make a difference.</p>
   <p data-start="467" data-end="933">Justine was only eight years old when she joined her first <strong data-start="526" data-end="543">Walk for Rice</strong> in 2014. A year later, at just nine, she became a team captain. Her inspiration came from her grandmother, who had walked in Walk for Rice alongside her grandfather for many years. When her grandmother passed away in 2014, Justine decided to carry forward her legacy. She has walked every year since, leading with the same heart and commitment to community that her grandmother embodied.</p>
   <p data-start="935" data-end="1205">For Justine, Walk for Rice isn’t just about honoring her grandmother’s memory—it’s about standing up for those experiencing hunger. <em data-start="1067" data-end="1189">“It seems like every year there is a lot of food insecurity and I want to do my part to help with this important issue,”</em> she explains.</p>
@@ -25,34 +22,9 @@ original_content: |-
   <p data-start="1742" data-end="1882">Outside of volunteering and fundraising, Justine has a sweet side hobby: baking. It’s another way she brings joy to the people around her.</p>
   <p data-start="1884" data-end="2170">Justine’s journey is proof that the actions of one person, rooted in love and legacy, ripple outward to strengthen an entire community. She is a reminder that when we step forward—whether in memory of a loved one, or to tackle an issue like food insecurity—we are never walking alone.</p>
   <p>The post <a href="https://acrs.org/supporter-spotlight-justine-ing-walk-for-rice-champion/">One Person Can Make A Difference:  Justine Ing&#8217;s Walk for Rice Journey</a> appeared first on <a href="https://acrs.org">ACRS</a>.</p>
-original_markdown_body: |-
-  In these times, when our communities are facing so many challenges, it’s easy to feel helpless as one person. But stories like **Justine Ing’s** remind us that each of us can—and do—make a difference.
-
-  Justine was only eight years old when she joined her first **Walk for Rice** in 2014. A year later, at just nine, she became a team captain. Her inspiration came from her grandmother, who had walked in Walk for Rice alongside her grandfather for many years. When her grandmother passed away in 2014, Justine decided to carry forward her legacy. She has walked every year since, leading with the same heart and commitment to community that her grandmother embodied.
-
-  For Justine, Walk for Rice isn’t just about honoring her grandmother’s memory—it’s about standing up for those experiencing hunger. _“It seems like every year there is a lot of food insecurity and I want to do my part to help with this important issue,”_ she explains.
-
-  [![](https://acrs.org/wp-content/uploads/2025/09/justine_01-300x236.jpg)](https://acrs.org/wp-content/uploads/2025/09/justine_01.jpg)
-
-  Longtime Walk for Rice supporter and champion Justine Ing (center) and her family during Walk for Rice 2023.
-
-  Some moments along the way have been especially meaningful. In 2023, her brother, who lives in New York, joined the walk for the very first time, alongside her grandfather. _“Walk for Rice 2023 was extra special because my grandpa and brother walked with me,”_ she says.
-
-  Her advice for encouraging others to join is simple and heartfelt: _“If you explain why the Walk for Rice is important to you and how important it is that we have the ACRS Food Bank for the AAPI community, most people would be happy to support this cause.”_
-
-  Justine’s grandmother Vera was a lifelong community activist. Under her leadership, InterIm wrote the charter for the Seattle Chinatown-International District Preservation and Development Authority and helped build the International Community Health Clinic and the Danny Woo Garden in the 1970s and 1980s. The year Justine started walking in Walk for Rice was the same year her grandma Vera passed away. Her inspiration to Walk for Rice every year comes from her spirit to carry on her grandmother’s legacy.
-
-  [![](https://acrs.org/wp-content/uploads/2025/09/image-75-199x300.jpg)](https://acrs.org/wp-content/uploads/2025/09/image-75.jpg)
-
-  Justine (bottom left) with her mother Audrey (left) and grandmother, community advocate Vera Ing.
-
-  “Joining this walk allows me to honor my grandmother’s many civic contributions by helping to feed hungry Asian American and Pacific Islanders and others in the community that she loved.”
-
-  Outside of volunteering and fundraising, Justine has a sweet side hobby: baking. It’s another way she brings joy to the people around her.
-
-  Justine’s journey is proof that the actions of one person, rooted in love and legacy, ripple outward to strengthen an entire community. She is a reminder that when we step forward—whether in memory of a loved one, or to tackle an issue like food insecurity—we are never walking alone.
-
-  The post [One Person Can Make A Difference: Justine Ing’s Walk for Rice Journey](https://acrs.org/supporter-spotlight-justine-ing-walk-for-rice-champion/) appeared first on [ACRS](https://acrs.org).
+images: []
+locations:
+- King County
 source: Asian Counseling and Referral Service
 source_url: https://acrs.org/supporter-spotlight-justine-ing-walk-for-rice-champion/
 summarized: true

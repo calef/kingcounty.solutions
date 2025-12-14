@@ -1,13 +1,9 @@
 ---
 end_date: '2026-02-04T17:00:00-08:00'
-images: []
-location: ''
-locations:
-- King County
-original_content: "<div><div><span>Did you know we offer virtual office hours every
-  weekday? Click <a>VIRTUAL OFFICE HOURS</a> Mon-Fri, 11AM-1PM or call 253-205-0468
-  and enter Meeting ID: 889-8706-3870. We look forward to helping you!</span></div></div>
-  <div> <div> <header> <div> <div> <div> <div> <div> <a>Donate</a> </div> </div> </div>
+feed_content: "<div><div><span>Did you know we offer virtual office hours every weekday?
+  Click <a>VIRTUAL OFFICE HOURS</a> Mon-Fri, 11AM-1PM or call 253-205-0468 and enter
+  Meeting ID: 889-8706-3870. We look forward to helping you!</span></div></div> <div>
+  <div> <header> <div> <div> <div> <div> <div> <a>Donate</a> </div> </div> </div>
   </div> <div> <div> <div> <div> <a>Donate</a> </div> </div> <div> <div> <a>Contact</a>
   </div> </div> </div> </div> </div> </header> <div> <div> <div> <div> <div> <article>
   <div> <section> <div> <p> <a> « All Events</a> </p> <h1>CoRE™ Orientation</h1> <div>
@@ -35,22 +31,11 @@ original_content: "<div><div><span>Did you know we offer virtual office hours ev
   <li><a>Русский</a></li> </ul></aside> <aside><label><span>English</span></label><ul>
   <li><a>Tiếng Việt</a></li> <li><a>Soomaaliga</a></li> <li><a>Español (América Latina)</a></li>
   <li><a>Русский</a></li> </ul></aside>"
-original_content_checksum: f9dfce0833dd7b3c5b99deabc478803152fce1df
-original_markdown_body: 'Did you know we offer virtual office hours every weekday?
-  Click VIRTUAL OFFICE HOURS Mon-Fri, 11AM-1PM or call 253-205-0468 and enter Meeting
-  ID: 889-8706-3870. We look forward to helping you!         Donate         Donate     Contact                  «
-  All Events  CoRE™ Orientation   February 4, 2026 @ 1:00 pm - 5:00 pm     Visit our
-  Learning Portal for more information/registration. If you already hold a BMT Certificate
-  from another program, join us for a 1-day orientation designed to familiarize you
-  with the unique aspects of the CoRE™ approach. This session will help you integrate
-  your existing skills with CoRE™ methods and practices.         Google Calendar     iCalendar     Outlook
-  365     Outlook Live           Details    Date:   February 4, 2026     Time:   1:00
-  pm - 5:00 pm     Event Category: Learning   Website:  https://training.kcdrc.org/      Organizer   KCDRC      Related
-  Events    CoRE™ Part A: Conflict Resolution Skills January 5, 2026 @ 9:00 am - January
-  6, 2026 @ 6:00 pm     CoRE™ Part B: A Mediation Process January 7, 2026 @ 9:00 am
-  - January 9, 2026 @ 6:00 pm     Advanced Mediation Topic Series February 11, 2026
-  @ 9:00 am - 6:00 pm                English Tiếng Việt Soomaaliga Español (América
-  Latina) Русский  English Tiếng Việt Soomaaliga Español (América Latina) Русский'
+feed_content_checksum: f9dfce0833dd7b3c5b99deabc478803152fce1df
+images: []
+location: ''
+locations:
+- King County
 published: false
 source: Dispute Resolution Center of King County
 source_url: https://kcdrc.org/event/core-orientation/

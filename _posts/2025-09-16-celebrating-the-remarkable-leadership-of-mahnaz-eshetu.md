@@ -2,16 +2,7 @@
 date: '2025-09-16T22:27:24+00:00'
 events: []
 events_extracted: true
-images:
-- 8305a5cf19d9f57c384f46f7ec33af50c2f2783edaf86770eb768d6b2e546666
-- 98be3a067c204e192e9c35c0dce1c2c797505e199bbc7c88b2817a37acf67dca
-- 9e26cda2f45d88c3dd8a4187b7d3980575ed79f3184153fd9b9ee0d39412d45c
-- ce52961eb31b164680874a2d54e222ae9e9968aecf127b1d89042329264b59f0
-- 4b5fb40cd48c4ac47724bcc991540f7240246eb1513572e7d5bd7c62faf41b1b
-- 8ec8f910d37b3924bd2212ce66bb6445ab455c7390f5234aef987c7515b1ca71
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <p>On Wednesday, September 3, 2025, Refugee Women’s Alliance (ReWA) gathered to honor and celebrate the extraordinary contributions of Executive Director, Mahnaz Eshetu, as she prepared for her well-deserved retirement.</p>
 
 
@@ -74,32 +65,15 @@ original_content: |-
   </div>
   </div>
   <p>The post <a href="https://www.rewa.org/celebrating-the-remarkable-leadership-of-mahnaz-eshetu/">Celebrating the Remarkable Leadership of Mahnaz Eshetu</a> appeared first on <a href="https://www.rewa.org">Refugee Women&#039;s Alliance</a>.</p>
-original_markdown_body: |-
-  On Wednesday, September 3, 2025, Refugee Women’s Alliance (ReWA) gathered to honor and celebrate the extraordinary contributions of Executive Director, Mahnaz Eshetu, as she prepared for her well-deserved retirement.
-
-  Mahnaz’s journey with ReWA began more than 18 years ago, serving seven years on our Board of Directors before stepping into the role of Executive Director. Over the past 11 years, she has been a strong advocate for immigrant and refugee communities throughout Seattle and King County.
-
-  Her vision and dedication has been key in the expansion of ReWA’s programs, strengthening sustainability, and enhancing services that empower hundreds of families and individuals each year.
-
-  Under Mahnaz’s leadership, ReWA has provided vital resources, ranging from early learning and employment training to legal assistance and housing support. Her commitment has ensured that ReWA remains a trusted partner and a place of hope for those building new lives in our community.
-
-  “We are deeply grateful for Mahnaz’s vision and leadership,” said Shevanthi Daniel-Rabkin, Chair of ReWA’s Board of Directors.
-
-  As Mahnaz enters this next chapter, ReWA would like to thank her for the many years of service and wish her nothing but happiness during this next chapter in life.
-
-  ![](https://www.rewa.org/wp-content/uploads/2025/09/image00005-edited-scaled.jpeg)
-
-  ![](https://www.rewa.org/wp-content/uploads/2025/09/image00011-edited-scaled.jpeg)
-
-  ![](https://www.rewa.org/wp-content/uploads/2025/09/image00002-edited-scaled.jpeg)
-
-  ![](https://www.rewa.org/wp-content/uploads/2025/09/image00006-1-edited-scaled.jpeg)
-
-  ![](https://www.rewa.org/wp-content/uploads/2025/09/image00003-1-edited-scaled.jpeg)
-
-  ![](https://www.rewa.org/wp-content/uploads/2025/09/image00014-edited-scaled.jpeg)
-
-  The post [Celebrating the Remarkable Leadership of Mahnaz Eshetu](https://www.rewa.org/celebrating-the-remarkable-leadership-of-mahnaz-eshetu/) appeared first on [Refugee Women's Alliance](https://www.rewa.org).
+images:
+- 8305a5cf19d9f57c384f46f7ec33af50c2f2783edaf86770eb768d6b2e546666
+- 98be3a067c204e192e9c35c0dce1c2c797505e199bbc7c88b2817a37acf67dca
+- 9e26cda2f45d88c3dd8a4187b7d3980575ed79f3184153fd9b9ee0d39412d45c
+- ce52961eb31b164680874a2d54e222ae9e9968aecf127b1d89042329264b59f0
+- 4b5fb40cd48c4ac47724bcc991540f7240246eb1513572e7d5bd7c62faf41b1b
+- 8ec8f910d37b3924bd2212ce66bb6445ab455c7390f5234aef987c7515b1ca71
+locations:
+- King County
 source: Refugee Women's Alliance
 source_url: https://www.rewa.org/celebrating-the-remarkable-leadership-of-mahnaz-eshetu/?utm_source=rss&utm_medium=rss&utm_campaign=celebrating-the-remarkable-leadership-of-mahnaz-eshetu
 summarized: true

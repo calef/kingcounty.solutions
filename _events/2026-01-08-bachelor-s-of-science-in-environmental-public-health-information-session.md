@@ -1,20 +1,16 @@
 ---
 end_date: '2026-01-08T13:30:00-08:00'
-images: []
-location: ''
-locations:
-- King County
-original_content: '<a> Skip to main content </a> <div> <div> <div> <div> <div> <div>
-  <a>University of Washington</a> </div> <div> <div> <a>Environmental &amp; Occupational
-  Health Sciences</a> <section> <div> <div> <section> <div><div> <a>School of Public
-  Health</a> </div></div> </section> </div> </div> </section> <section> <div> <form>
-  <div> <label>Search </label> </div> </form> </div> </section> </div> </div> </div>
-  </div> </div> </div> <header> <div> <div> <section> <ul> <li> <a>About DEOHS</a>
-  <ul> <li> <a> Faculty Directory</a> <ul> <li> <a>Regular Faculty</a> </li> <li>
-  <a>Affiliate Faculty</a> </li> <li> <a>Emeritus Faculty</a> </li> <li> <a>Clinical
-  Faculty</a> </li> <li> <a>Adjunct Faculty</a> </li> </ul> </li> <li> <a>Our Mission,
-  Vision &amp; Values</a> </li> <li> <a>Serving Washington State</a> </li> <li> <a>History</a>
-  </li> <li> <a>Advisory Committee</a> </li> <li> <a>DEOHS Faculty Positions and Fellowships</a>
+feed_content: '<a> Skip to main content </a> <div> <div> <div> <div> <div> <div> <a>University
+  of Washington</a> </div> <div> <div> <a>Environmental &amp; Occupational Health
+  Sciences</a> <section> <div> <div> <section> <div><div> <a>School of Public Health</a>
+  </div></div> </section> </div> </div> </section> <section> <div> <form> <div> <label>Search
+  </label> </div> </form> </div> </section> </div> </div> </div> </div> </div> </div>
+  <header> <div> <div> <section> <ul> <li> <a>About DEOHS</a> <ul> <li> <a> Faculty
+  Directory</a> <ul> <li> <a>Regular Faculty</a> </li> <li> <a>Affiliate Faculty</a>
+  </li> <li> <a>Emeritus Faculty</a> </li> <li> <a>Clinical Faculty</a> </li> <li>
+  <a>Adjunct Faculty</a> </li> </ul> </li> <li> <a>Our Mission, Vision &amp; Values</a>
+  </li> <li> <a>Serving Washington State</a> </li> <li> <a>History</a> </li> <li>
+  <a>Advisory Committee</a> </li> <li> <a>DEOHS Faculty Positions and Fellowships</a>
   </li> <li> <a>Contact Us</a> <ul> <li> <a>Directions</a> </li> </ul> </li> </ul>
   </li> <li> <a>Prospective Students</a> <ul> <li> <a>Undergraduate Program</a> <ul>
   <li> <a>Degree requirements</a> </li> <li> <a>Applying to the major</a> </li> <li>
@@ -115,85 +111,11 @@ original_content: '<a> Skip to main content </a> <div> <div> <div> <div> <div> <
   <div> <div> <h3>Online advising available</h3> <p>Connect with an adviser now via
   Zoom or phone.</p> <p><a>Make an appointment</a></p> </div> </div> </section> </div>
   </div> </section> </div> </section> </div> </div> </div>'
-original_content_checksum: 241bc6ab07dcfa27c6249d6442cf1b0f7e82af13
-original_markdown_body: 'Skip to main content        University of Washington    Environmental
-  & Occupational Health Sciences      School of Public Health          Search                  About
-  DEOHS    Faculty Directory   Regular Faculty   Affiliate Faculty   Emeritus Faculty   Clinical
-  Faculty   Adjunct Faculty     Our Mission, Vision & Values   Serving Washington
-  State   History   Advisory Committee   DEOHS Faculty Positions and Fellowships   Contact
-  Us   Directions       Prospective Students   Undergraduate Program   Degree requirements   Applying
-  to the major   Transfer   Career pathways   Funded Research for UW Undergraduates   Environmental
-  Public Health Minor     Graduate Program   How to Apply   Graduate degree finder   Master
-  of Science Applied   Master of Science Thesis   Master of Public Health   PhD in
-  Environmental Health Sciences   MPH, Occupational and Environmental Medicine   Areas
-  of Emphasis   Environmental Public Health   Environmental Toxicology   Climate Change
-  and Health   Infectious Diseases   Occupational Hygiene/ Exposure Science   One
-  Health     Graduate Certificates   Concurrent Degrees     Course Information   Tuition
-  & Funding Opportunities   Biostatistics, Epidemiologic, and Bioinformatic Training
-  in Environmental Health   Environmental Pathology/Toxicology Training Program   Northwest
-  Center for Occupational Health and Safety   Supporting Undergraduate Research Experiences
-  in Environmental Health (SURE-EH)     Career Services   Internship 101   Launch
-  your career   Job Openings In the Field     Student and Alumni profiles   Contact
-  an Adviser     Research   Clean Air   Clean Water   Safe Food   Safe Workplaces   Sustainable
-  Communities   Funded Projects   Student Research     Services   Continuing Education   Field
-  Research and Consultation Group   Environmental Health Laboratory   Occupational
-  & Environmental Medicine   Pediatric Environmental Health Specialty Unit   Teratogen
-  Information System (TERIS)     Alumni and Employers   Alumni   Alumni profiles   Job
-  Openings in the Field     Employers     News and Events   Our Blog   DEOHS Newsroom   Calendar   Environmental
-  Health Seminar       Giving   Search            Declaring the Major     The BS in
-  Environmental Public Health is a "minimum requirements" major, which means that
-  all students who meet the minimum requirements listed below, and who can complete
-  the degree within the UW''s maximum time frame, are admitted. Students can request
-  to declare the major at any time by submitting an online declaration form.   On-demand
-  Information Session  Application Dates We review applications as they are submitted,
-  and students should hear back from us within 10 business days. The application deadline
-  for entry to the following quarter is the Friday of finals week. The upcoming application
-  windows for entry to the following quarters are:   Autumn 2025: CLOSED Winter 2026:
-  Aug 25 - Dec 12 OPEN  Spring 2026: Dec 13 - Mar 20 Summer 2026: Mar 21 - Jun 12  Minimum
-  Admission Requirements Students with 30-90 credits, and/or fewer than 6 quarters
-  completed at the time of application will apply under early admission. Students
-  with more than 90 credits and/or 6 quarters or more completed will apply under upper
-  division requirements. Applicants must have a 2.0 in each of the prerequisites courses.
-  Early admission applicants must have a cumulative GPA of 3.0. Upper division applicants
-  must have a cumulative GPA of 2.5. Math Preparation: Students do not have to complete
-  the math graduation requirement before applying to the major. However, we recommend
-  that students complete a math course before they register for the other supporting
-  science courses. The recommended preparation for PHYS 114 is a previous algebra
-  course covering concepts such as trigonometry and exponential functions. The recommended
-  preparation for CHEM 142 is a good working knowledge of algebra. Students may have
-  prerequisites courses in progress at the time of application. Students who have
-  questions about the major or the admission process are encouraged to meet with an
-  adviser. Early Admission Prerequisites 30-90 credits / fewer than 6 quarters completed
-  at time of application CHEM 142, 152 Chemistry seriesENGL 131 or equivalent English
-  compositionCumulative GPA of 3.0 Upper Division Admission Prerequisites 90 or more
-  credits / 6 or more quarters completed at time of application complete all early
-  admission prerequisites above plus: BIOL 180, 200, 220 (15) Introductory Biology
-  with labs(choose one chemistry sequence) CHEM 142, 152, CHEM 220 OR CHEM 142, 152,
-  CHEM 223, 224, 241 ORCHEM 142, 152, 162, CHEM 237, 238, 241 General and Organic
-  ChemistryCumulative GPA of 2.5 Transfer Student Information As a transfer student,
-  you can declare the Bachelors of Science in Environmental Public Health major after
-  you are admitted to the UW. Please consult the Environmental Public Health Transfer
-  page for more information.  How to Declare the Major The application consists of
-  three components which you should prepare before you access the online application
-  form 1. Personal statement:  Your statement should be approximately 500 words, and
-  should address the following questions:  Why do you want to be an Environmental
-  Public Health major? How will completing this degree help you to achieve your professional
-  and academic goals?  2. Unofficial UW transcript: Current students may access unofficial
-  transcripts through the Grades and Transcripts section found on the Academics block
-  on MyUW. Select the Academics block at the bottom of the page. Next, select Unofficial
-  Transcript under the Grades and Transcripts section. Select Printer-Friendly Version
-  on the Unofficial Transcript page. It will create a PDF file of your unofficial
-  transcript, which you can save and then upload into the application form. 3. Prerequisites
-  and satisfactory progress: In the application you will be asked whether you are
-  applying for early or upper division admission, and you will need to list out the
-  prerequisites that you''ve already completed. You will also need to indicate how
-  many quarters and credits you have completed.  If you have any questions about early
-  versus upper division admission, or prerequisites, please contact an advisor.  online
-  application form Notification: Applications are reviewed as they are submitted.
-  Applicants who meet the minimum prerequisites and can complete the degree within
-  the UW''s maximum time frame will be notified within 10 business days and asked
-  to come in for an advising appointment to formally declare the major.             Online
-  advising available Connect with an adviser now via Zoom or phone. Make an appointment'
+feed_content_checksum: 241bc6ab07dcfa27c6249d6442cf1b0f7e82af13
+images: []
+location: ''
+locations:
+- King County
 published: false
 source: University of Washington
 source_url: https://deohs.washington.edu/declaring-major

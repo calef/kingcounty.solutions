@@ -1,8 +1,6 @@
 ---
 date: '2025-09-09T17:54:19+00:00'
-images: []
-locations: []
-original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Kelsey
+feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Kelsey
   Creek Farm Fair celebrates old-fashioned fun</span>\n<span class=\"field field--name-uid
   field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"
   typeof=\"schema:Person\" property=\"schema:name\" datatype>CIosso</span></span>\n<span
@@ -36,26 +34,8 @@ original_content: "<span class=\"field field--name-title field--type-string fiel
   &nbsp;</p></div>\n      \n\n            <div class=\"field field--name-field-article-date
   field--type-datetime field--label-hidden field__item\"><time datetime=\"2025-09-09T12:00:00Z\"
   class=\"datetime\">September 9 2025</time>\n</div>\n      \n    </div>\n  </div>"
-original_markdown_body: |-
-  Kelsey Creek Farm Fair celebrates old-fashioned funCIosso<time datetime="2025-09-09T10:54:19-07:00" title="Tuesday, September 9, 2025 - 10:54" class="datetime">Tue, 09/09/2025 - 10:54</time>
-
-   ![Pumpkins Kelsey Creek Farm Fair.jpg](https://bellevuewa.gov/sites/default/files/styles/article_featured_image/public/media/article_featured_image/Pumpkins%20Kelsey%20Creek%20Farm%20Fair.jpg?itok=EOMm9cql "Pumpkins Kelsey Creek Farm Fair.jpg")
-
-  Rejoice, farm lovers! Following nearly half a century of tradition, the community will gather to meet farm animals, collect pumpkins and take a wagon ride at the Kelsey Creek Farm Fair on Saturday, Oct. 4, 11 a.m.-4 p.m.
-
-  Festivities will include pony rides, a pumpkin patch and decorating, hands-on heritage activities, animal viewing, children’s activities, pedal tractors, tractor-pulled wagon rides and food trucks.
-
-  Free shuttles will run from Bannerwood Sports Park, 1790 Richards Road, and the Wilburton park and ride, 720 114th Ave. SE, to Kelsey Creek Farm, 410 130th Pl. SE. The last shuttle will leave the farm at 4:15 p.m.
-
-  Twin Valley Dairy began in the 1920s, producing milk, cream and butter for Bellevue residents. Fifty years later, the City of Bellevue purchased the farm and opened it as a public park.
-
-  Kelsey Creek Farm features 150 acres of forest, meadows and wetlands in the heart of Bellevue.
-
-  Please note there is no ATM on site. Some activities have a charge. Pets are not allowed in the barnyard area.
-
-  For more information, call 425-452-7688 or email [kelseycreekfarm@bellevuewa.gov](mailto:kelseycreekfarm@bellevuewa.gov). &nbsp;
-
-  <time datetime="2025-09-09T12:00:00Z" class="datetime">September 9 2025</time>
+images: []
+locations: []
 published: false
 source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/kelsey-creek-fair-25

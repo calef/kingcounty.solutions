@@ -4,8 +4,6 @@ images: []
 location: ''
 locations:
 - King County
-original_markdown_body: Announcement of award decisions for funding applications aimed
-  at affordable housing.
 source: Department of Commerce
 source_url: https://www.commerce.wa.gov/commerce-receives-112-applications-to-recent-funding-opportunities/
 start_date: '2026-01-01T00:00:00-08:00'

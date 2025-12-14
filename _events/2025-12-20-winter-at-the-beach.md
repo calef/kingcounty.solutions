@@ -4,8 +4,6 @@ images: []
 location: Allegro Performing Arts Academy, Auburn Performing Arts Center
 locations:
 - King County
-original_markdown_body: An inclusive winter event designed for families with sensory
-  sensitivities.
 source: Institute on Human Development and Disability
 source_url: https://ihdd.org/2025/11/19/winter-sensory-friendly-events-in-washington/
 start_date: '2025-12-20T13:30:00-08:00'

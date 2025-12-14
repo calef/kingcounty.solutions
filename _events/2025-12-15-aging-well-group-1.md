@@ -1,11 +1,6 @@
 ---
 end_date: '2025-12-15T14:00:00-08:00'
-images: []
-location: The Center for Active Living, 4217 SW Oregon St., Seattle, WA, 98116, United
-  States
-locations:
-- King County
-original_content: '<a aria-label="Skip to content" class="fl-screen-reader-text" href="#fl-main-content">Skip
+feed_content: '<a aria-label="Skip to content" class="fl-screen-reader-text" href="#fl-main-content">Skip
   to content</a><div class="fl-page"> <header class="fl-builder-content fl-builder-content-12203
   fl-builder-global-templates-locked" data-post-id="12203" data-type="header" data-sticky="0"
   data-sticky-on="" data-sticky-breakpoint="medium" data-shrink="0" data-overlay="0"
@@ -174,24 +169,11 @@ original_content: '<a aria-label="Skip to content" class="fl-screen-reader-text"
   </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div>
   </div> </div> </div> <a href="#" role="button" id="fl-to-top"><span class="sr-only">Scroll
   To Top</span></a>'
-original_markdown_body: 'Skip to content             We used to be called the Senior
-  Center of West Seattle.               Join       Donate                 Facebook     Instagram     YouTube     LinkedIn                            Activities
-  & Events                             Aging Well – Group #1       Monday, December
-  15, 2025 at 1:00 pm - 2:00 pm      Through discussions and sharing, participants
-  in Aging Well support each other at this weekly group that meets in person. All
-  discussions are confidential. If you are not pre-registered, you will not be admitted. 
-  We offer two sessions of Aging Well: Group #1: Mondays, 1 – 2 p.m. (full) Group
-  #2: Mondays, 11 a.m. – 12 p.m. To be added to the wait list for Group #1, contact
-  our social worker Josh Maduell: 206-932-4044 / ext. 2 or joshm@wscenter.org. For
-  info on Group #2, contact Michele Fawcett-Long: 206-928-1730 or michelef@wscenter.org. 
-          Support Groups              Calendar       Membership                  Location    The
-  Center for Active Living     4217 SW Oregon St. Seattle, WA 98116 United States  +
-  Google Map    Phone  206-932-4044     View Location Website                   Google
-  Calendar     iCalendar     Outlook 365     Outlook Live                   Related
-  Events    Men’s Support Group #1 Friday, December 5, 2025 at 11:00 am - 12:30 pm     Diabetic
-  Support Group Friday, December 5, 2025 at 1:00 pm - 2:00 pm     Caregivers Support
-  Group Friday, December 5, 2025 at 2:15 pm - 3:15 pm             Calendar                 Scroll
-  To Top'
+images: []
+location: The Center for Active Living, 4217 SW Oregon St., Seattle, WA, 98116, United
+  States
+locations:
+- King County
 source: The Center for Active Living
 source_url: https://wscenter.org/event/aging-well-group-2-3/2025-12-15/
 start_date: '2025-12-15T13:00:00-08:00'

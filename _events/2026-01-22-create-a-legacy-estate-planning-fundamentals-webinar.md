@@ -1,11 +1,7 @@
 ---
 end_date: '2026-01-22T13:30:00-08:00'
-images: []
-location: Virtual Event
-locations:
-- King County
-original_content: "<div> <div> <div> <p>We’re excited to see you at <strong>Create
-  a Legacy: Estate Planning Fundamentals</strong>, a free virtual session with <a><strong>James
+feed_content: "<div> <div> <div> <p>We’re excited to see you at <strong>Create a Legacy:
+  Estate Planning Fundamentals</strong>, a free virtual session with <a><strong>James
   McBain</strong></a>, Senior VP at U.S. Bank Private Wealth Management, and Anna
   Cronin, Chief Philanthropy Officer at United Way of King County.</p> <p>Estate planning
   isn’t just for certain people—it’s for everyone. James will walk through how thoughtful
@@ -26,25 +22,11 @@ original_content: "<div> <div> <div> <p>We’re excited to see you at <strong>Cr
   </div> <div> <div> <a><h4>Volunteer - Spread Joy this Holiday Season - Shift 2</h4></a>
   <p>Dec 13</p> </div> </div> </div> <p> <a>&lt;&lt; Back to Events</a> </p> </div>
   </div> </div>"
-original_content_checksum: 7d0bf9f8dafeb864cd7f50c00d5ff1650455d819
-original_markdown_body: 'We’re excited to see you at Create a Legacy: Estate Planning
-  Fundamentals, a free virtual session with James McBain, Senior VP at U.S. Bank Private
-  Wealth Management, and Anna Cronin, Chief Philanthropy Officer at United Way of
-  King County. Estate planning isn’t just for certain people—it’s for everyone. James
-  will walk through how thoughtful planning can help you care for the people you love,
-  reflect your values, and leave a lasting legacy. You’ll also learn how to incorporate
-  philanthropy into your plans in a way that aligns with your long-term goals. James
-  will cover the fundamentals of estate planning, including wills, trusts, power of
-  attorneys (POAs), and living wills. We hope to make planning accessible and empowering
-  so you can support your family and the causes you care about for years to come.
-  RSVP now to plan your future. United is the Way™ we build a just and equitable community.
-  United Way is committed to making all our events accessible. When you register,
-  you’ll be able to indicate any accommodation you may need. Please note that at least
-  two weeks’ notice is recommended for some accessibility needs. If you have questions,
-  please reach out to eventregistration@uwkc.org.   Add to Calendar >> Coming Up    Become
-  a free tax volunteer Oct 10     Volunteer - Spread Joy This Holiday Season! Dec
-  13     Volunteer - Spread Joy this Holiday Season - Shift 2 Dec 13     << Back to
-  Events'
+feed_content_checksum: 7d0bf9f8dafeb864cd7f50c00d5ff1650455d819
+images: []
+location: Virtual Event
+locations:
+- King County
 published: false
 source: United Way of King County
 source_url: https://www.uwkc.org/event/create-a-legacy-estate-planning-fundamentals-webinar/

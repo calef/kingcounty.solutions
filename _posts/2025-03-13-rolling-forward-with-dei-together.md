@@ -2,11 +2,7 @@
 date: '2025-03-13T22:24:54+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- South King County
-- Seattle
-original_content: |-
+feed_content: |-
   <p></p>
 
 
@@ -65,32 +61,10 @@ original_content: |-
 
   <p>Bike Works has been serving the Seattle community since 1996, providing accessible bike education, affordable transportation, and a welcoming space for riders of all backgrounds. Through bike repair programs, youth leadership initiatives, and community events, Bike Works is committed to using bicycles as a vehicle for social change.&nbsp;</p>
   <p>The post <a href="https://bikeworks.org/rolling-forward-with-dei/">Rolling Forward with DEI, together </a> appeared first on <a href="https://bikeworks.org">Bike Works</a>.</p>
-original_markdown_body: |-
-  While national Diversity, Equity, and Inclusion efforts are being rolled back, Bike Works is rolling forward with clarity and purpose. Bike Works remains committed to our mission, our work, and our community — at a time when many social advancements are under challenge, our work remains the same. **We hold anti-racism and racial equity at the core of our work, both internally and externally.** We use the bicycle to build connections to people, to places, and to the self. **We celebrate Black joy. We celebrate trans inclusion.** We celebrate belonging for each and every body. We are all called to ground ourselves in community and to uplift and support those closest to us. This is the ethos at the core of everything we do at Bike Works.&nbsp;
-
-  DEI in cycling means breaking down barriers to entry and ensuring that everyone—regardless of race, gender identity, or economic background—feels welcomed, supported, and safe in the cycling world. It means addressing the historical exclusion of BIPOC riders in competitive cycling, ensuring trans and non-binary cyclists have access to affirming spaces, and making sure affordable bikes and repair services are available to those who need them most. It means investing in infrastructure so that all communities—not just affluent ones—have access to safe bike lanes and trails.
-
-  In light of&nbsp;all this, we are&nbsp;increasing&nbsp;our impact by investing over&nbsp; **$450,000** &nbsp;in a&nbsp; **Youth Leadership Initiative** &nbsp;and year-round bike education programming in South Seattle schools.&nbsp;&nbsp;[You can join us on this journey by donating here.](https://bikeworks.org/donate/)
-
-  **Investing in the Future** &nbsp;
-
-  - **BIPOC Youth Leadership Initiative** – A new program supporting young leaders through mentorship, skill development, and hands-on opportunities to engage in the cycling movement. This includes opportunities to lead group rides, advocate for bike-friendly policies, and connect with professionals in the cycling industry.&nbsp;
-
-  - **Year-Round Bike Education** – Expanding programming in South Seattle schools to ensure students gain bike safety skills, confidence, and access to sustainable transportation. In 2024, Bike Works partnered with 4 schools, reaching over 500 students.&nbsp;
-
-  - **Adult Bike Education** – Increasing opportunities for BIPOC community members, women, and trans folks to learn bike maintenance and safe riding practices. Last year, 65% of participants in our adult programs identified as BIPOC, women, or gender-diverse individuals. Our Women & Gender Diverse nights create space for individuals to learn mechanics in an affirming environment, addressing the historical gender gap in bike shops and repair spaces.&nbsp;
-
-  - **Community Building Events** – Strengthening connections through signature events like **Tour De Fleurs, Bikecitement!** , and the annual celebration of Black cycling pioneer **Major Taylor** —bringing together over 1,200 community members in 2024. Events like these highlight the stories of underrepresented cyclists, create spaces for inclusive group rides, and encourage more people to get on bikes.&nbsp;
-
-  _“Bike Works exists because we believe in racial equity, mobility, and community,”_ says **Ed Ewing, Executive Director**. _“Now more than ever, we remain committed to these values, ensuring that bikes remain a tool for social change.”_&nbsp;
-
-  With a deep and unwavering commitment to social justice, racial equity, and accessible mobility, Bike Works is making tangible investments in the community. In 2024 alone, Bike Works provided over **554 youth and adults with free or low-cost bikes** , delivered **3,500 hours of hands-on bike education** , and **diverted 5,000 bicycles from landfills** , redistributing them to individuals in need.&nbsp;
-
-  **About Bike Works** &nbsp;
-
-  Bike Works has been serving the Seattle community since 1996, providing accessible bike education, affordable transportation, and a welcoming space for riders of all backgrounds. Through bike repair programs, youth leadership initiatives, and community events, Bike Works is committed to using bicycles as a vehicle for social change.&nbsp;
-
-  The post [Rolling Forward with DEI, together&nbsp;](https://bikeworks.org/rolling-forward-with-dei/) appeared first on [Bike Works](https://bikeworks.org).
+images: []
+locations:
+- South King County
+- Seattle
 source: Bike Works
 source_url: https://bikeworks.org/rolling-forward-with-dei/?utm_source=rss&utm_medium=rss&utm_campaign=rolling-forward-with-dei
 summarized: true

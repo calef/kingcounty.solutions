@@ -4,8 +4,6 @@ images: []
 location: ''
 locations:
 - King County
-original_markdown_body: All transit services will operate on regular weekday schedules,
-  with late-night service details to be announced.
 source: King County Metro Transit
 source_url: https://kingcountymetro.blog/2025/11/25/holiday-travel-metro-will-help-you-get-there/
 start_date: '2025-12-31T00:00:00-08:00'

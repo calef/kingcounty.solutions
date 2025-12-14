@@ -2,24 +2,17 @@
 date: '2025-12-10T18:26:34+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: Rev Lawrence Willis of Love-To presents gifts to Sharon Lee, LIHI
-  Executive Director. LIHI's Gala &amp; Auction  on Friday evening at the Four Seasons,
-  plus Virtual Auction that ran from November 19 to December 3, raised a record $645,000!
+feed_content: Rev Lawrence Willis of Love-To presents gifts to Sharon Lee, LIHI Executive
+  Director. LIHI's Gala &amp; Auction  on Friday evening at the Four Seasons, plus
+  Virtual Auction that ran from November 19 to December 3, raised a record $645,000!
   We are very grateful to everyone who participated. The  Gala &amp; Auction , held
   in-person for the first time since the pandemic was a fun, fast-paced evening of
   bidding on exciting auction items, playing games, dashing for delicious desserts,
   listening to...
-original_content_checksum: 1712320a070700662035b81d368bbfe6612b853c
-original_markdown_body: Rev Lawrence Willis of Love-To presents gifts to Sharon Lee,
-  LIHI Executive Director. LIHI's Gala & Auction &nbsp;on Friday evening at the Four
-  Seasons, plus Virtual Auction that ran from November 19 to December 3, raised a
-  record $645,000! We are very grateful&nbsp;to everyone who participated. The&nbsp;
-  Gala & Auction , held in-person for the first time since the pandemic was a fun,
-  fast-paced evening of bidding on exciting auction items, playing games, dashing
-  for delicious desserts, listening to...
+feed_content_checksum: 1712320a070700662035b81d368bbfe6612b853c
+images: []
+locations:
+- King County
 source: Low Income Housing Institute
 source_url: https://www.lihihousing.org/post/lihi-gala-auction-and-virtual-auction-raises-645-000-thank-you-sponsors-and-supporters
 summarized: true

@@ -3,16 +3,12 @@ date: '2025-12-05T23:22:18+00:00'
 events:
 - 2026-01-26-2026-point-in-time-count
 events_extracted: true
+feed_content: |-
+  <p>The Point-in-Time (PIT) Count is a regularly conducted (biennial), federally mandated survey of homelessness across all of King County. The information gathered in the PIT [&#8230;]</p>
+  <p>The post <a href="https://kcrha.org/news-volunteer-for-the-2026-point-in-time-count/">Volunteer for the 2026 Point-in-Time Count</a> appeared first on <a href="https://kcrha.org">KCRHA</a>.</p>
 images: []
 locations:
 - King County
-original_content: |-
-  <p>The Point-in-Time (PIT) Count is a regularly conducted (biennial), federally mandated survey of homelessness across all of King County. The information gathered in the PIT [&#8230;]</p>
-  <p>The post <a href="https://kcrha.org/news-volunteer-for-the-2026-point-in-time-count/">Volunteer for the 2026 Point-in-Time Count</a> appeared first on <a href="https://kcrha.org">KCRHA</a>.</p>
-original_markdown_body: |-
-  The Point-in-Time (PIT) Count is a regularly conducted (biennial), federally mandated survey of homelessness across all of King County. The information gathered in the PIT […]
-
-  The post [Volunteer for the 2026 Point-in-Time Count](https://kcrha.org/news-volunteer-for-the-2026-point-in-time-count/) appeared first on [KCRHA](https://kcrha.org).
 source: King County Regional Homelessness Authority
 source_url: https://kcrha.org/news-volunteer-for-the-2026-point-in-time-count/
 summarized: true

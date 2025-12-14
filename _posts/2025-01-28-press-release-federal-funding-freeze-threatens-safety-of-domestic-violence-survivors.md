@@ -2,10 +2,7 @@
 date: '2025-01-28T21:42:34+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-9d6595d7 wp-block-columns-is-layout-flex">
   <div class="wp-block-column is-layout-flow wp-block-column-is-layout-flow">
   <div class="wp-block-columns is-layout-flex wp-container-core-columns-is-layout-9d6595d7 wp-block-columns-is-layout-flex">
@@ -57,41 +54,9 @@ original_content: |-
 
   <p></p>
   <p>The post <a href="https://www.lifewire.org/press-release-federal-funding-freeze-threatens-safety-of-domestic-violence-survivors/">Press Release: Federal Funding Freeze Threatens Safety of Domestic Violence Survivors</a> appeared first on <a href="https://www.lifewire.org">LifeWire</a>.</p>
-original_markdown_body: "**FOR IMMEDIATE RELEASE**  \nJan. 28, 2025\n\n**Contact:**
-  Patrick Martin  \nDirector of Community Relations  \n425-457-1039  \npatrickm@lifewire.org\n\n![LifeWire](https://www.lifewire.org/wp-content/uploads/2024/07/LW-Logo-CMYK.png)\n\n**EASTSIDE
-  KING COUNTY** – LifeWire, Washington State’s leading nonprofit provider of shelter
-  and services for domestic violence survivors, expressed deep concern over President
-  Trump’s executive order freezing federal financial support. Public funding, including
-  contracts from the Department of Justice and Department of Housing and Urban Development,
-  makes up over two-thirds of LifeWire’s budget; It is essential to supporting survivors
-  fleeing high-lethality situations.\n\n“With just two pages, a vital four-decade
-  partnership between our organization and &nbsp;the federal government to ensure
-  safety and stability for survivors has been abruptly undermined, leaving critical
-  services in jeopardy,” said Janeira Bencosme-Gil, Interim Executive Director. “A
-  freeze on federal grant payments means catastrophic consequences for survivors and
-  their children, imperiling LifeWire’s work to meet their urgent needs. This places
-  their safety and wellbeing directly at risk.”\n\nFederal funding is the backbone
-  of LifeWire’s capacity to provide critical housing, basic needs, and advocacy services
-  to survivors of domestic violence. A disruption to this funding threatens to leave
-  survivors without essential, lifesaving support. According to the National Domestic
-  Violence Hotline, 1 in 4 women and 1 in 7 men will experience physical violence
-  from a partner in their lifetime.\n\nThe scope of the executive order, which halts
-  federal grants and contracts to “ensure alignment with administration priorities,”
-  has created chaos and uncertainty across the nonprofit sector. Diane Yentel, President
-  of the National Council of Nonprofits, warned it could “decimate thousands of organizations
-  and leave neighbors without the services they need.”\n\n“This is far more than a
-  budgetary concern – it is a matter of life and death for the survivors and families
-  we serve,” said Janeira. “We call on the administration to immediately reverse this
-  order and safeguard the programs that are vital to protecting families and saving
-  lives. LifeWire stands firmly opposed to any action so blatantly aimed at ending
-  federal investment in the safety, wellness, and survival of the most vulnerable
-  members of our community.”\n\n**About LifeWire**\n\nLifeWire is Washington State’s
-  leading provider of services for survivors of domestic violence. Since 1982, LifeWire
-  has helped over 165,000 survivors and their children build safer, healthier lives
-  through housing support, advocacy, and community outreach. Learn more at www.lifewire.org.\n\nThe
-  post [Press Release: Federal Funding Freeze Threatens Safety of Domestic Violence
-  Survivors](https://www.lifewire.org/press-release-federal-funding-freeze-threatens-safety-of-domestic-violence-survivors/)
-  appeared first on [LifeWire](https://www.lifewire.org)."
+images: []
+locations:
+- King County
 source: LifeWire
 source_url: https://www.lifewire.org/press-release-federal-funding-freeze-threatens-safety-of-domestic-violence-survivors/?utm_source=rss&utm_medium=rss&utm_campaign=press-release-federal-funding-freeze-threatens-safety-of-domestic-violence-survivors
 summarized: true

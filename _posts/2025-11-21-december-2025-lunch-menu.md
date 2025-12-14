@@ -2,9 +2,7 @@
 date: '2025-11-21T18:26:03+00:00'
 events: []
 events_extracted: true
-images: []
-locations: []
-original_content: '<figure class="wp-block-image size-large"><img fetchpriority="high"
+feed_content: '<figure class="wp-block-image size-large"><img fetchpriority="high"
   decoding="async" width="791" height="1024" src="https://wallingfordseniors.org/wp-content/uploads/2025/11/2025.12-Lunch-Menu-791x1024.png"
   alt="" class="wp-image-3639" srcset="https://wallingfordseniors.org/wp-content/uploads/2025/11/2025.12-Lunch-Menu-791x1024.png
   791w, https://wallingfordseniors.org/wp-content/uploads/2025/11/2025.12-Lunch-Menu-232x300.png
@@ -13,7 +11,8 @@ original_content: '<figure class="wp-block-image size-large"><img fetchpriority=
   50w, https://wallingfordseniors.org/wp-content/uploads/2025/11/2025.12-Lunch-Menu-1187x1536.png
   1187w, https://wallingfordseniors.org/wp-content/uploads/2025/11/2025.12-Lunch-Menu.png
   1275w" sizes="(max-width: 791px) 100vw, 791px" /></figure>'
-original_markdown_body: "![](https://wallingfordseniors.org/wp-content/uploads/2025/11/2025.12-Lunch-Menu-791x1024.png)"
+images: []
+locations: []
 published: false
 source: Wallingford Community Senior Center
 source_url: https://wallingfordseniors.org/december-2025-lunch-menu/

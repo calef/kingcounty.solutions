@@ -2,10 +2,7 @@
 date: '2025-10-20T23:15:44+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- South King County
-original_content: |-
+feed_content: |-
   <p>If you or someone you know would be a great fit for our team, share this description with them. Resumes (no cover letter) should be sent to olivia@hospitalityhousesouthking.org, with &#8220;Program Office Assistant&#8221; in the subject line. </p>
 
 
@@ -15,10 +12,9 @@ original_content: |-
 
 
   <p></p>
-original_markdown_body: |-
-  If you or someone you know would be a great fit for our team, share this description with them. Resumes (no cover letter) should be sent to olivia@hospitalityhousesouthking.org, with “Program Office Assistant” in the subject line.
-
-  <object data-wp-bind--hidden="!state.hasPdfPreview" hidden class="wp-block-file__embed" data="https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/Program-Office-Assistant.pdf" type="application/pdf" style="width:100%;height:1520px" aria-label="Embed of Program Office Assistant."></object>[Program Office Assistant](https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/Program-Office-Assistant.pdf)[Download](https://hospitalityhousesouthking.org/wp-content/uploads/2025/10/Program-Office-Assistant.pdf)
+images: []
+locations:
+- South King County
 source: Hospitality House
 source_url: https://hospitalityhousesouthking.org/were-hiring-3/
 summarized: true

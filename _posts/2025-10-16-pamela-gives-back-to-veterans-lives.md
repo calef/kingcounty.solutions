@@ -2,12 +2,7 @@
 date: '2025-10-16T18:24:53+00:00'
 events: []
 events_extracted: true
-images:
-- 535bbe53ed15a2bde96361a1153c8db599dd68fe0b042b9fb4aac2592cf2dd8b
-- a24e8c0b4775c492b00e222b07f97abfaf73d90c36be58585dc4491fbcd53500
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <p class="has-text-align-center"><em><strong>Pamela Gives Back to Ensure Veterans’ Lives Are the Best They Can Be</strong></em></p>
 
 
@@ -82,40 +77,11 @@ original_content: |-
 
   <p>Thank you to our Veterans Day campaign partners: CarMax, Hilton Grand Vacation, The Home Depot Foundation, Impossible Foods, Love’s, Meritage Homes, Northrop Grumman, PulteGroup Inc., Walmart, Bob&#8217;s Discount Furniture, and Homefront Brands.&nbsp;</p>
   <p>The post <a href="https://operationhomefront.org/pamela-gives-back-to-veterans-lives/">Pamela Gives Back to Veterans’ Lives</a> appeared first on <a href="https://operationhomefront.org">Operation Homefront</a>.</p>
-original_markdown_body: |-
-  _ **Pamela Gives Back to Ensure Veterans’ Lives Are the Best They Can Be** _
-
-  “Nothing fills my cup more than seeing the impact our work at Operation Homefront has on our military and veteran families.”&nbsp;
-
-  **WHAT MOTIVATES YOU TO GIVE BACK TO OUR MILITARY FAMILIES AND VETERANS?&nbsp;** &nbsp;
-
-  The military has been my entire existence. Both my grandparents served in the Navy, and both my parents were drill instructors in the Marine Corps. I began talking to military recruiters in early high school and joined the Air Force after I graduated. Being medically separated after breaking both feet in multiple places was devastating. It was everything I ever wanted to do in life.&nbsp;
-
-  Then I became a military spouse and caregiver. I got engaged to a Marine before he deployed to Iraq in 2004. He was catastrophically wounded in 2005 on Pearl Harbor Day. We married in 2006, and I became acquainted with the military nonprofit space when I joined the ranks of military spouses and caregivers. Nonprofits filled gaps after the VA scaled back the caregiver program.&nbsp;&nbsp;
-
-  My work with Operation Homefront is not about the path I walked, though. It’s about uplifting those who are currently going through hardships and making sure they are seen.&nbsp;
-
-  ![](https://operationhomefront.org/wp-content/uploads/2025/10/VETDAY-2025-Pamela-Frustaglio-PHOTO-Air-Force-768x1024.jpg)
-
-  **WHAT IS YOUR MESSAGE TO MILITARY FAMILIES ABOUT OPERATION HOMEFRONT?** &nbsp;
-
-  ![](https://operationhomefront.org/wp-content/uploads/2025/10/VETDAY-2025-Pamela-Frustaglio-PHOTO-Leadership-769x1024.jpg)
-
-  I know, and Operation Homefront knows, that service members and their families struggle to put their pride aside and reach out for help. We also understand that every military brother and sister who has walked this path has needed help at some point.&nbsp;
-
-  Operation Homefront is here to ensure they don’t fall through the cracks. We want to ensure their long-term social, emotional and financial well-being.&nbsp;&nbsp;
-
-  **WHAT IS YOUR MESSAGE TO SUPPORTERS OF MILITARY FAMILIES AND OPERATION HOMEFRONT?** &nbsp;
-
-  Our service members put their lives on the line. It is the least we can do as a society to give back and make sure their life is the best it possibly can be.&nbsp;
-
-  Nothing fills my cup more than seeing the impact we at Operation Homefront have on our military families.&nbsp;
-
-  Our Critical Financial Assistance Program® caseworkers speak to veterans and military families at some of their lowest times, and they provide hope, and hope really does spark change. We get to be part of that hope and that change.&nbsp;
-
-  Thank you to our Veterans Day campaign partners: CarMax, Hilton Grand Vacation, The Home Depot Foundation, Impossible Foods, Love’s, Meritage Homes, Northrop Grumman, PulteGroup Inc., Walmart, Bob’s Discount Furniture, and Homefront Brands.&nbsp;
-
-  The post [Pamela Gives Back to Veterans’ Lives](https://operationhomefront.org/pamela-gives-back-to-veterans-lives/) appeared first on [Operation Homefront](https://operationhomefront.org).
+images:
+- 535bbe53ed15a2bde96361a1153c8db599dd68fe0b042b9fb4aac2592cf2dd8b
+- a24e8c0b4775c492b00e222b07f97abfaf73d90c36be58585dc4491fbcd53500
+locations:
+- King County
 source: Operation Homefront - Critical Financial Assistance Program
 source_url: https://operationhomefront.org/pamela-gives-back-to-veterans-lives/
 summarized: true

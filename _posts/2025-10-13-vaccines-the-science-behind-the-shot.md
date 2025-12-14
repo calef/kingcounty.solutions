@@ -1,8 +1,6 @@
 ---
 date: '2025-10-13T18:08:08+00:00'
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   <p>Join UW Pharmacist Abby Winter for a discussion on vaccines for older adults, and their importance in maintaining health and preventing serious illness as we age. We will dive into vaccine history and development, discuss how common vaccines work, and touch on what it means for a vaccine to be “effective.”</p>
 
 
@@ -13,17 +11,8 @@ original_content: |-
 
   <p>When: Thursday, 12/11<br>2:15 pm—3:15<br>Location: Craft Room<br>Cost: FREE</p>
   <p>The post <a href="https://shorelinelfpseniorcenter.org/vaccines-the-science-behind-the-shot/">Vaccines: The Science Behind the Shot</a> appeared first on <a href="https://shorelinelfpseniorcenter.org">Shoreline Lake Forest Park Senior Activity Center</a>.</p>
-original_markdown_body: "Join UW Pharmacist Abby Winter for a discussion on vaccines
-  for older adults, and their importance in maintaining health and preventing serious
-  illness as we age. We will dive into vaccine history and development, discuss how
-  common vaccines work, and touch on what it means for a vaccine to be “effective.”\n\nAbby
-  Winter, PharmD, MPA, BCACP is a licensed pharmacist and Assistant Teaching Professor
-  at the University of Washington School of Pharmacy, and serves as the Director of
-  Outreach for the Plein Center for Aging. Abby leads the educational, clinical, and
-  outreach efforts for the UW School of Pharmacy at the Era Living communities. Please
-  call the Reception Desk to register.\n\nWhen: Thursday, 12/11  \n2:15 pm—3:15  \nLocation:
-  Craft Room  \nCost: FREE\n\nThe post [Vaccines: The Science Behind the Shot](https://shorelinelfpseniorcenter.org/vaccines-the-science-behind-the-shot/)
-  appeared first on [Shoreline Lake Forest Park Senior Activity Center](https://shorelinelfpseniorcenter.org)."
+images: []
+locations: []
 published: false
 source: Shoreline Lake Forest Park Senior Activity Center
 source_url: https://shorelinelfpseniorcenter.org/vaccines-the-science-behind-the-shot/

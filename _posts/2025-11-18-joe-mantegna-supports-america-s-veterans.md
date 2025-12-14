@@ -2,11 +2,7 @@
 date: '2025-11-18T14:41:14+00:00'
 events: []
 events_extracted: true
-images:
-- 036b742a57d78c535ec5a3566af1459bc7e05c6478a5a6bc6c5bfbced346f04a
-locations:
-- King County
-original_content: "<div class=\"editor clearfix\">\n\n    \n    <figure id=\"attachment_55365\"
+feed_content: "<div class=\"editor clearfix\">\n\n    \n    <figure id=\"attachment_55365\"
   aria-describedby=\"caption-attachment-55365\" style=\"width: 300px\" class=\"wp-caption
   alignleft\"><img decoding=\"async\" class=\"size-full wp-image-55365\" src=\"https://www.dav.org/wp-content/uploads/Nick-Koulchar_PBC.jpg\"
   alt=\"\" width=\"300\" height=\"449\" srcset=\"https://www.dav.org/wp-content/uploads/Nick-Koulchar_PBC.jpg
@@ -55,34 +51,10 @@ original_content: "<div class=\"editor clearfix\">\n\n    \n    <figure id=\"att
   target=\"_blank\" rel=\"noopener\">helpdav.org</a> or call 888-984-4493.</p>\n\n</div><p>The
   post <a href=\"https://www.dav.org/learn-more/news/2025/joe-mantegna-supports-americas-veterans/\">Joe
   Mantegna supports America’s veterans</a> appeared first on <a href=\"https://www.dav.org\">DAV</a>.</p>"
-original_markdown_body: |-
-  ![](https://www.dav.org/wp-content/uploads/Nick-Koulchar_PBC.jpg)
-  _Nick Koulchar_
-
-  Army veteran [Nick Koulchar’s](https://www.ihelpveterans.org/blogs/army-veteran-empowers-and-inspires) **courage and perseverance have inspired countless people—including actor** [Joe Mantegna](https://www.youtube.com/watch?v=TIU_60rEXg8) **—to support America’s ill and injured veterans.**  **Koulchar’s path to becoming such an inspiration started years earlier, during his service in Iraq.**
-
-  In 2006, Koulchar joined the Army and by 2008 he was deployed to Sadr City, Iraq, where his unit conducted counter-improvised explosive device operations. On Aug. 26, 2008, while performing route clearance operations, his vehicle was hit by an IED. The blast cost Koulchar both legs above the knee.
-
-  Koulchar has gone on to accomplish more as an amputee—both physically and professionally—than he ever imagined. He’s completed more than 20 marathons, several CrossFit competitions and numerous endurance events that push his limits.
-
-  DAV gave Koulchar a new purpose by serving other veterans. As a DAV benefits advocate, he helped fellow veterans receive the benefits they earned.
-
-  “DAV provided me with stable full-time employment after my injuries, creating a sense of self-worth and giving me a new worthwhile mission to help veterans,” he said.
-
-  Now, as an adaptive athlete and motivational speaker, Koulchar continues to honor, empower and motivate veterans nationwide.
-
-  ![](https://www.dav.org/wp-content/uploads/JoeMantegna_DRTV-226x300.jpg)
-  _Actor and DAV supporter Joe Mantegna_
-
-  Stories like Koulchar’s are what inspire actor Joe Mantegna to support the work of DAV and America’s ill and injured veterans. The Tony Award-winning actor best known for his roles in _Criminal Minds,_ _Three Amigos_, and _The Godfather Part III_ has been a passionate supporter of DAV for years, lending his voice and time to ensure veterans get the care and recognition they deserve.
-
-  “America is blessed with countless servicemen and women who have bravely fought on our behalf,” Mantegna said. “They’ve paid the price in body and spirit so we can enjoy our freedom. Many return home only to face a new battle with devastating injuries, emotional pain and trauma. Far too many struggle to get the care and benefits they earned through service and sacrifice. Disabled American Veterans is a lifesaver for our injured heroes, but they can’t do it alone.”
-
-  Through his advocacy, Mantegna continues to shine a light on the sacrifices of veterans like Koulchar and the essential work DAV does to support them. You can join Mantegna and other patriotic Americans by donating only $19 a month to say “thank you” to veterans like Koulchar. Through your support, DAV can ensure no veteran is left behind.
-
-  To donate today, visit [helpdav.org](https://help.dav.org/page/52572/donate/1?ea.tracking.id=fund_sem&en_txn6=B25FN044AANAANSA&utm_campaign=fund&utm_medium=cpc&utm_source=google&gclsrc=aw.ds&&utm_term=disabled%20veterans%20of%20america&matchtype=b&gad_source=1&gad_campaignid=20727867044&gbraid=0AAAAADut3XU88tLTmF1Z4IZov6y9qmJbM&gclid=CjwKCAiAw9vIBhBBEiwAraSATog1olzB64TmFz2qUgLOT6tso4vz9STrZy7X4Bp8H1QK8B7XCNx64xoCXXsQAvD_BwE) or call 888-984-4493.
-
-  The post [Joe Mantegna supports America’s veterans](https://www.dav.org/learn-more/news/2025/joe-mantegna-supports-americas-veterans/) appeared first on [DAV](https://www.dav.org).
+images:
+- 036b742a57d78c535ec5a3566af1459bc7e05c6478a5a6bc6c5bfbced346f04a
+locations:
+- King County
 source: Disabled American Veterans
 source_url: https://www.dav.org/learn-more/news/2025/joe-mantegna-supports-americas-veterans/
 summarized: true

@@ -2,10 +2,7 @@
 date: '2025-04-07T22:48:45+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <p></p>
 
 
@@ -36,12 +33,9 @@ original_content: |-
 
   <p></p>
   <p>The post <a href="https://bikeworks.org/ed-ewing-on-the-day-with-trae/">Ed Ewing on &#8216;The Day with Trae&#8217;</a> appeared first on <a href="https://bikeworks.org">Bike Works</a>.</p>
-original_markdown_body: |-
-  https://www.youtube.com/embed/tpzevElKWOE?si=2dqCrTMrdE6p4fv7
-
-  ​In the April 7th, 2025 episode of “[The Day With Trae](https://www.whereweconverge.com/the-day-with-trae),” host Trae Holiday interviews Ed Ewing, focusing on his contributions to the cycling community and his initiatives promoting diversity and inclusion within the sport. Ewing shares insights into his journey, the challenges faced in advocating for equitable access to cycling, and the impact of his work on underrepresented communities. The conversation also touches upon upcoming projects like the Youth Leadership Collective and events like [Bikecitement!](https://bikeworks.org/bikecitement/), aimed at fostering a more inclusive environment internally and externally at Bike Works. Check it out!
-
-  The post [Ed Ewing on ‘The Day with Trae’](https://bikeworks.org/ed-ewing-on-the-day-with-trae/) appeared first on [Bike Works](https://bikeworks.org).
+images: []
+locations:
+- King County
 source: Bike Works
 source_url: https://bikeworks.org/ed-ewing-on-the-day-with-trae/?utm_source=rss&utm_medium=rss&utm_campaign=ed-ewing-on-the-day-with-trae
 summarized: true

@@ -1,9 +1,7 @@
 ---
 date: '2025-11-06T19:32:02+00:00'
-images: []
-locations: []
-original_content: "**Notice: Town Council Vacancy**\n\n[Application for Appointment
-  to Town Council](https://yarrowpointwa.gov/wp-content/uploads/2025/11/Application-for-Appointment-to-Town-Council.pdf)\n\nThe
+feed_content: "**Notice: Town Council Vacancy**\n\n[Application for Appointment to
+  Town Council](https://yarrowpointwa.gov/wp-content/uploads/2025/11/Application-for-Appointment-to-Town-Council.pdf)\n\nThe
   Town of Yarrow Point is requesting applications from residents to fill Councilmember
   Michael Hyman’s position on the Town Council commencing on December 9<sup>th</sup>,
   2025, for a two-year term, ending December 31<sup>st</sup>, 2027.\n\nTo be eligible
@@ -43,6 +41,8 @@ original_content: "**Notice: Town Council Vacancy**\n\n[Application for Appointm
   it is a public record. Application materials received from all candidates who meet
   the minimum requirements of state law will be presented as part of the public meeting
   to select an appointee.\n\nThank you for your interest in serving our community."
+images: []
+locations: []
 published: false
 source: Town of Yarrow Point
 source_url: https://yarrowpointwa.gov/2025/11/town-council-vacancy/

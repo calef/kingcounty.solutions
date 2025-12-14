@@ -2,13 +2,11 @@
 date: '2025-03-11T07:12:18+00:00'
 events: []
 events_extracted: true
+feed_content: As temperatures rise and the days grow longer, we often get the urge
+  to embark on that annual tradition of “spring cleaning.” It’s the...
 images: []
 locations:
 - King County
-original_content: As temperatures rise and the days grow longer, we often get the
-  urge to embark on that annual tradition of “spring cleaning.” It’s the...
-original_markdown_body: As temperatures rise and the days grow longer, we often get
-  the urge to embark on that annual tradition of “spring cleaning.” It’s the...
 source: Eastside Friends of Seniors
 source_url: https://www.eastsidefriendsofseniors.org/post/refreshing-your-home-easy-organizing-and-cleaning-tips
 summarized: true

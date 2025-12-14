@@ -1,8 +1,6 @@
 ---
 date: '2025-12-04T21:53:29+00:00'
-images: []
-locations: []
-original_content: '<img width="150" height="150" src="https://powerlines.seattle.gov/wp-content/uploads/sites/17/2025/04/iStock-1338921291-150x150.jpg"
+feed_content: '<img width="150" height="150" src="https://powerlines.seattle.gov/wp-content/uploads/sites/17/2025/04/iStock-1338921291-150x150.jpg"
   class="webfeedsFeaturedVisual wp-post-image" alt="A light bulb, a pen, a calculator
   and some copper euro cent coins lie on top of an electricity bill." style="display:
   block; margin-bottom: 5px; clear:both;max-width: 100%;" link_thumbnail="" decoding="async"
@@ -13,13 +11,8 @@ original_content: '<img width="150" height="150" src="https://powerlines.seattle
   the communities we serve. Effective January 1, 2026, you will see the previously
   approved average rate increase of 5.4% start appearing on your bill. Residential
   customers can anticipate an increase of around $4 per month; those enrolled in [&#8230;]'
-original_markdown_body: "![A light bulb, a pen, a calculator and some copper euro
-  cent coins lie on top of an electricity bill.](https://powerlines.seattle.gov/wp-content/uploads/sites/17/2025/04/iStock-1338921291-150x150.jpg)As
-  a public, not-for-profit utility, Seattle City Light makes decisions for the long-term
-  benefit of our customers and the communities we serve. Effective January 1, 2026,
-  you will see the previously approved average rate increase of 5.4% start appearing
-  on your bill. Residential customers can anticipate an&nbsp;increase of around $4
-  per month; those enrolled in […]"
+images: []
+locations: []
 published: false
 source: City Light Bill Assistance Programs
 source_url: https://powerlines.seattle.gov/2025/12/04/city-light-outlines-2026-rate-increases/

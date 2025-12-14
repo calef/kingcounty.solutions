@@ -2,10 +2,7 @@
 date: '2025-05-02T20:27:53+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- Eastside
-original_content: "<p class=\"\">DBT (Dialectical Behavior Therapy) and RO-DBT (Radically
+feed_content: "<p class=\"\">DBT (Dialectical Behavior Therapy) and RO-DBT (Radically
   Open Dialectical Behavior Therapy) are both evidence-based behavioral and cognitive-behavioral
   therapies, but they’re designed for different kinds of emotional and behavioral
   challenges.</p><p class=\"sqsrte-large\"><strong>DBT (Dialectical Behavior Therapy)</strong></p><p
@@ -96,54 +93,9 @@ original_content: "<p class=\"\">DBT (Dialectical Behavior Therapy) and RO-DBT (
   \           <td>Over-controlled behaviors:</td>\n            <td>Perfectionism,
   emotional inhibition and \"emotional leakage\" when limits are reached</td>\n        </tr>\n
   \   </tbody>\n</table>"
-original_markdown_body: "DBT (Dialectical Behavior Therapy) and RO-DBT (Radically
-  Open Dialectical Behavior Therapy) are both evidence-based behavioral and cognitive-behavioral
-  therapies, but they’re designed for different kinds of emotional and behavioral
-  challenges.\n\n**DBT (Dialectical Behavior Therapy)**\n\n**Developed by:** Dr. Marsha
-  Linehan  \n**Best for:** People who struggle with emotional dysregulation, impulsivity,
-  and interpersonal issues.\n\n- \n#### <button class=\"accordion-item__click-target\"
-  aria-expanded=\"false\" style=\"\n            padding-top: 15px;\n            padding-bottom:
-  15px;\n            padding-left: 0px;\n            padding-right: 0px;\n          \">\n
-  \         <span class=\"accordion-item__title\">\n            Useful for treating:\n
-  \         </span>\n          \n            \n              \n                \n
-  \               \n              \n            \n          \n        </button>\n\n
-  \ - Borderline Personality Disorder (BPD) – DBT’s original focus\n\n  - Suicidal
-  and self-harming behaviors\n\n  - Emotional dysregulation\n\n  - Eating disorders
-  - like bulimia and binge eating\n\n  - Substance use disorders\n\n  - PTSD\n\n  -
-  Depression and anxiety (especially when linked to emotional instability)\n\n- \n####
-  <button class=\"accordion-item__click-target\" aria-expanded=\"false\" style=\"\n
-  \           padding-top: 15px;\n            padding-bottom: 15px;\n            padding-left:
-  0px;\n            padding-right: 0px;\n          \">\n          <span class=\"accordion-item__title\">\n
-  \           Core Components: \n          </span>\n          \n            \n              \n
-  \               \n                \n              \n            \n          \n        </button>\n\n
-  \ 1. Mindfulness\n\n  2. Distress Tolerance\n\n  3. Emotion Regulation\n\n  4. Interpersonal
-  Effectiveness\n\nDBT is especially helpful for people who are “super feelers” –
-  who feel their emotions (at times) as intense, overwhelming, and difficult to control.\n\n**RO-DBT
-  (Radically Open Dialectical Behavior Therapy)**\n\n**Developed by:** Dr. Thomas
-  Lynch  \n**Best for:** People who are overly controlled, perfectionistic, judgmental
-  of self and others, emotionally inhibited (unless at their limit), and rigid/fixed/fatalistic
-  in their mindset.\n\n- \n#### <button class=\"accordion-item__click-target\" aria-expanded=\"false\"
-  style=\"\n            padding-top: 15px;\n            padding-bottom: 15px;\n            padding-left:
-  0px;\n            padding-right: 0px;\n          \">\n          <span class=\"accordion-item__title\">\n
-  \           Useful for treating:\n          </span>\n          \n            \n
-  \             \n                \n                \n              \n            \n
-  \         \n        </button>\n\n  - Chronic depression (especially treatment-resistant)\n\n
-  \ - Anorexia Nervosa (and other types of restrictive eating disorders)\n\n  - Obsessive-Compulsive
-  Personality Disorder (OCPD)\n\n  - Autism Spectrum Disorders (higher functioning)\n\n
-  \ - Maladaptive overcontrol\n\n  - Social isolation and loneliness\n\n- \n#### <button
-  class=\"accordion-item__click-target\" aria-expanded=\"false\" style=\"\n            padding-top:
-  15px;\n            padding-bottom: 15px;\n            padding-left: 0px;\n            padding-right:
-  0px;\n          \">\n          <span class=\"accordion-item__title\">\n            Key
-  Concepts:\n          </span>\n          \n            \n              \n                \n
-  \               \n              \n            \n          \n        </button>\n\n
-  \ - Focuses on **openness, flexibility, and social connectedness**\n\n  - Works
-  well when emotional inhibition and excessive self-control are the main issues –
-  may be opposite of DBT’s focus\n\n  - Encourages **emotional expression** , spontaneity,
-  and **social signaling**\n\n<center>Quick Summary:</center>\n\n<caption>\n        <p><br></p>\n
-  \   </caption>| Therapy | Best For | Key Traits Addressed |\n| --- | --- | --- |\n|
-  DBT | Under-controlled behaviors: | Impulsivity, emotional dysregulation |\n| RO-DBT
-  | Over-controlled behaviors: | Perfectionism, emotional inhibition and \"emotional
-  leakage\" when limits are reached |"
+images: []
+locations:
+- Eastside
 source: DBT Eastside
 source_url: https://www.dbteastside.com/blog/symptoms-and-diagnoses-useful-for
 summarized: true

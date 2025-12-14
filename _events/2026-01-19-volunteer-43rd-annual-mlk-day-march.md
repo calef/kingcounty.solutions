@@ -1,13 +1,9 @@
 ---
 end_date: '2026-01-19T13:30:00-08:00'
-images: []
-location: Garfield High School, 400 23rd Ave, Seattle, WA, 98122, United States
-locations:
-- King County
-original_content: '<div class="event-content"> <div class="event-container"> <div
-  class="event-col"> <p>Martin Luther King Jr. Day is fast approaching! We have more
-  to speak out for than in recent years and as Dr. King said “The day we become silent
-  about things that matter, is the day we begin to die.” <a href="https://volunteer.uwkc.org/need/detail/?need_id=1172586">So
+feed_content: '<div class="event-content"> <div class="event-container"> <div class="event-col">
+  <p>Martin Luther King Jr. Day is fast approaching! We have more to speak out for
+  than in recent years and as Dr. King said “The day we become silent about things
+  that matter, is the day we begin to die.” <a href="https://volunteer.uwkc.org/need/detail/?need_id=1172586">So
   Speak up now! </a></p> <p> </p> <h4><span style="font-family: Palanquin;">Volunteer
   to hand out signs to those marching in the parade and join the march if you’d like.
   <a href="https://volunteer.uwkc.org/need/detail/?need_id=1172586">Sign Up Here!</a>
@@ -36,25 +32,10 @@ original_content: '<div class="event-content"> <div class="event-container"> <di
   class="upcoming-title">Volunteer - Spread Joy this Holiday Season - Shift 2</h4></a>
   <p class="upcoming-description">Dec 13</p> </div> </div> </div> <p> <a href="/events">&lt;&lt;
   Back to Events</a> </p> </div> </div> </div>'
-original_markdown_body: Martin Luther King Jr. Day is fast approaching! We have more
-  to speak out for than in recent years and as Dr. King said “The day we become silent
-  about things that matter, is the day we begin to die.” So Speak up now!    Volunteer
-  to hand out signs to those marching in the parade and join the march if you’d like.
-  Sign Up Here!       Volunteering on  January 19th, 2026 supports the Seattle Martin
-  Luther King Jr Coalition in celebrating and honoring Dr. King’s legacy. The event
-  includes a rally, the march for peace, internship opportunities, workshops, youth
-  led programming and a job fair.   Volunteers will help by getting signs ready to
-  distribute for the march right after the workshop and rally. We will be strategically
-  dispersed throughout the Garfield High School parking lot to pass out all sign handles.
-    This opportunity is hosted by our Emerging Leaders 365 young professionals and
-  all are welcome to volunteer! Each opportunity supports United Way of King County’s
-  mission to create racially just communities where all people have homes, students
-  graduate, and families are financially stable.   It will be cold and we will be
-  outside, so make sure to dress warm and wear comfortable shoes and gloves!   Join
-  us to honor his legacy and belief in equality.    Add to Calendar >> Coming Up    Become
-  a free tax volunteer Oct 10     Volunteer - Spread Joy this Holiday Season! Dec
-  13     Volunteer - Spread Joy this Holiday Season - Shift 2 Dec 13     << Back to
-  Events
+images: []
+location: Garfield High School, 400 23rd Ave, Seattle, WA, 98122, United States
+locations:
+- King County
 source: United Way of King County
 source_url: https://www.uwkc.org/event/volunteer_43rd-annual-mlk-day-march/
 start_date: '2026-01-19T11:45:00-08:00'

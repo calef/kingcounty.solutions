@@ -2,10 +2,7 @@
 date: '2025-12-03T13:30:00+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <p>VA is excited to announce that the <a href="https://www.shopredbrickclothing.com/redbrickclothing/groupproducts.php?prodgroup_id=31250&amp;prodgroupbypass=true" rel="noopener">National Veterans Golden Age Games Online Store</a>, powered by <a href="https://www.vacanteen.va.gov/" rel="noopener">Veterans Canteen Service</a>, is officially open. Athletes, families, volunteers and supporters can now browse and purchase exclusive Golden Age Games merchandise for the 2026 season.</p>
 
 
@@ -27,18 +24,9 @@ original_content: |-
 
 
   <p>To explore available items and place your order, visit the <a href="https://www.shopredbrickclothing.com/redbrickclothing/groupproducts.php?prodgroup_id=31250&amp;prodgroupbypass=true" rel="noopener">National Veterans Golden Age Games Online Store</a> today. Do not miss your chance to gear up and show your support for our incredible Veteran athletes.</p>
-original_markdown_body: |-
-  VA is excited to announce that the [National Veterans Golden Age Games Online Store](https://www.shopredbrickclothing.com/redbrickclothing/groupproducts.php?prodgroup_id=31250&prodgroupbypass=true), powered by [Veterans Canteen Service](https://www.vacanteen.va.gov/), is officially open. Athletes, families, volunteers and supporters can now browse and purchase exclusive Golden Age Games merchandise for the 2026 season.
-
-  [![VA is excited to announce that the National Veterans Golden Age Games Online Store, powered by Veterans Canteen Service, is officially open.](https://news.va.gov/wp-content/uploads/sites/3/2025/12/online_store_vcs.png?w=730)](https://news.va.gov/wp-content/uploads/sites/3/2025/12/online_store_vcs.png)
-
-  This online store offers a range of apparel and gear designed to celebrate the spirit of competition, wellness and camaraderie that define the [National Veterans Golden Age Games](https://news.va.gov/?s=golden+age+games). Whether you are an athlete preparing for Tampa in 2026 or a supporter cheering from home, this is your opportunity to secure limited edition items that honor the dedication and achievements of our participating Veterans.
-
-  The [Golden Age Games](https://department.va.gov/veteran-sports/national-veterans-golden-age-games/) continue to be one of VA’s largest adaptive sports events, promoting physical fitness, friendly competition and healthy aging for Veterans aged 55 and older. The online store helps extend that celebration by giving participants and supporters a convenient way to showcase their pride in the event.
-
-  Orders must be submitted no later than&nbsp;Sunday, Dec. 21, 2025.&nbsp;The store will close after this date, and late orders cannot be accepted. We encourage everyone planning to participate or support the Games to visit the store early and complete their order before the deadline.
-
-  To explore available items and place your order, visit the [National Veterans Golden Age Games Online Store](https://www.shopredbrickclothing.com/redbrickclothing/groupproducts.php?prodgroup_id=31250&prodgroupbypass=true) today. Do not miss your chance to gear up and show your support for our incredible Veteran athletes.
+images: []
+locations:
+- King County
 source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143767/national-veterans-golden-age-games-online-store-now-open/
 summarized: true

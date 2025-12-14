@@ -1,8 +1,6 @@
 ---
 date: '2025-12-09T15:30:00+00:00'
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   <h2>VA Salt Lake City Veterans share recovery journeys in San Diego</h2>
 
 
@@ -116,65 +114,9 @@ original_content: |-
 
 
   <p></p>
-original_content_checksum: 5deee28d9a6446d8ce761cc062ef045f121f1da0
-original_markdown_body: |-
-  ## VA Salt Lake City Veterans share recovery journeys in San Diego
-
-  Veterans from VA Salt Lake City Health Care System joined more than 500 participants at the 2025 National Veterans Summer Sports Clinic, held Aug. 23–30 in San Diego, California. The weeklong event introduced Veterans to adaptive activities such as cycling, kayaking, sailing and surfing.
-
-  ## Belonging matters
-
-  First-time participant and Army Veteran Bailey Palmer said the experience was better than she expected.
-
-  “It was amazing, honestly, beyond expectation,” Palmer said. “For me, the most healing part of this is the camaraderie. Meeting so many Veterans, including new female Veterans, in such a beautiful place, you can hardly ask for anything better.”
-
-  Palmer was especially looking forward to the women Veterans-only gathering at the clinic. She said connecting with other women who served is empowering because they make up a smaller part of the Veteran community.
-
-  “Connecting with any Veterans is really special to me,” Palmer said. “But women Veterans, obviously, you know, the numbers game, there are a lot fewer of us. And there is something special about just getting together with female Veterans and connecting in a unique way that’s really healing.”
-
-  She added that surfing was on her bucket list and was grateful for this step in her recovery.
-
-  “It’s something I’ve never imagined I could do,” Palmer said. “When you’re here in San Diego, what better sport to do than surfing?”
-
-  ## Confidence through challenge
-
-  ![](https://news.va.gov/wp-content/uploads/sites/3/2025/11/MarkWager_r2.jpg?w=730)
-  _Air Force Veteran Mark Wager at the National Veterans Summer Sports Clinic in San Diego._
-
-  Air Force Veteran Mark Wager lives with paralysis on the left side of his body after a stroke 16 years ago. He said the Summer Sports Clinic gave him a chance to try activities he never thought possible.
-
-  “I loved it, because it got me to use my left arm,” Wager said. “I was looking forward to surfing. I’d never done it before, and it’s something new.”
-
-  He explained that staff fitted him with an adaptive glove so he could keep using his arm.
-
-  “The glove helps me use my paralyzed arm so it doesn’t freeze up,” Wager said.
-
-  That equipment, along with encouragement from other Veterans, gave him the confidence to hop on the board and try surfing.
-
-  “Everybody was wonderful,” Wager said. “I’d tell Veterans to get in the program. See how you do. This helps repair the brain.”
-
-  Adaptive sports improve balance, mobility and overall health. They also help Veterans reduce stress, build confidence and reconnect with their community.
-
-  ## Pushing past limits
-
-  ![](https://news.va.gov/wp-content/uploads/sites/3/2025/11/BaileyPalmer_r1.jpg?w=730)
-  _Army Veteran Bailey Palmer at the National Veterans Summer Sports Clinic in San Diego._
-
-  Recreation therapist Allison Thelin works in VA Salt Lake City’s outpatient PTSD clinic. She traveled to San Diego to support Veterans she had been working with all year.
-
-  “They have created such an inclusive space for all Veterans, regardless of their ability,” Thelin said. “They’re all able to come here from all different parts of the country to try out new things in this beautiful weather.”
-
-  She said the best part is watching Veterans encourage each other, whether they’ve known each other for years or just met at the clinic.
-
-  “They don’t even know each other, but they’re brothers and sisters here to support each other,” Thelin said. “Immediately, nobody’s left behind. Everybody’s getting support and giving support.”
-
-  Thelin said attending for the first time also gave her insight as a therapist.
-
-  “Now that I’ve been here, I know how to support my Veterans better to prepare for next year,” she said.
-
-  The National Veterans Summer Sports Clinic is presented by Wounded Warrior Project, with support from Fisher House Foundation and Veterans Canteen Service.
-
-  Learn more about VA Adaptive Sports and Arts.
+feed_content_checksum: 5deee28d9a6446d8ce761cc062ef045f121f1da0
+images: []
+locations: []
 published: false
 source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143344/adaptive-sports-heal-vets-summer-sports-clinic/

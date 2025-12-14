@@ -1,9 +1,6 @@
 ---
 end_date: '2026-01-07T20:00:00-05:00'
-images: []
-location: Virtual Events @ Antioch University
-locations: []
-original_content: <div> <header> <div> <div> <div> <ul> <li><a>Give Now</a></li> <li><a>Request
+feed_content: <div> <header> <div> <div> <div> <ul> <li><a>Give Now</a></li> <li><a>Request
   Info</a></li> <li><a>Visit</a></li> <li><a>Apply</a></li> <li><a>Employment</a></li>
   </ul> </div> </div> <div> <div> <ul> <li> <a>About</a> <ul> <li> <ul> <li> <ul>
   <li> <h4>About</h4> <div><ul> <li><a>About Antioch University</a></li> <li><a>Core
@@ -89,49 +86,10 @@ original_content: <div> <header> <div> <div> <div> <ul> <li><a>Give Now</a></li>
   of Antioch University</b></span></h5> </div></div> <div><a>Learn More</a></div>
   </div> </div></div> <script> {"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://www.antioch.edu/wp-includes/js/wp-emoji-release.min.js?ver=6.9"}}
   </script>
-original_content_checksum: 7b356ebf467615ea6ba568e844e7448ce4fea617
-original_markdown_body: Give Now Request Info Visit Apply Employment        About       About  About
-  Antioch University Core Attributes of an Antioch Education Why Antioch University?
-  Coalition for the Common Good Equity, Belonging, and Culture History Common Thread        Leadership  Office
-  of the President Executive Leadership Academic Leadership Board of Governors    Administrative
-  Resources  Accreditation University Policies        Discover Our Campuses  Los Angeles
-  New England Online Santa Barbara Seattle          Academics       Discover Your
-  Own Path  Explore degrees that align with your passions and goals. Find your fit
-  today and take the first step toward a meaningful future.   Find Your Program      Academic
-  Focus Areas  Bachelor's Completion Creative Writing & Communication Counseling,
-  Psychology, & Therapy Education Environmental Studies & Sustainability Individualized
-  Studies Leadership & Management Nursing & Health Professions        Learn Your Way  Low-Residency
-  On-Campus Online        Programs by Type  Doctoral Master's Bachelor's Certificates
-  Credentials & Endorsements Continuing Education          Admission & Aid       Admissions  Admissions
-  Overview Unofficial Transcript Evaluation Upcoming Admissions Events What to Expect    Information
-  for  DREAMERS International Students Transfer & Degree Completion Students Veterans
-  & Military-Connected Students        Dates & Deadlines  Graduate School of Leadership
-  & Change Los Angeles New England Online Santa Barbara Seattle        Tuition & Fees  GSLC
-  Tuition & Fees AULA Tuition & Fees AUNE Tuition & Fees AUO Tuition & Fees AUSB Tuition
-  & Fees AUS Tuition & Fees        Financial Aid  Financial Aid Overview Financial
-  Aid Forms Scholarships & Grants Types of Aid Work-Study Opportunities         Library  Resources        Departments
-  & Offices  Advancement Disability Support Services Grants and Foundation Relations
-  Information Technology Institutional Effectiveness Registrar Strategic Partnerships
-  Student Accounts Writing Centers          Academic Resources  Academic Assessment
-  Academic Calendar Academic Catalog Bookstore Consumer Information Licensure Information
-  Resource List Student Policies University Policies          Additional Resources  President's
-  Communications Event Calendar Common Thread (University News) Alumni Magazine Faculty
-  Directory Report/Request It Hub                    « All Events   PhD in Leadership
-  and Change Info Session | GSLC     January 7, 2026   @   7:00 pm   -   8:00 pm  EST   If
-  you’ve been wondering whether Antioch University’s PhD in Leadership and Change is
-  right for you, join our upcoming information session to explore the curriculum and
-  meet members of our learning community on Wednesday, January 7, 2026, 7:00 PM -
-  8:00 PM EST! Antioch’s PhD in Leadership and Change program is dedicated to engaging
-  working professionals in the interdisciplinary study, research, and practice of
-  leading positive change in workplaces, schools, organizations, and communities across
-  the country and the world.   Register Here     GSLC Admissions      Virtual Events
-  @ Antioch University            Google Calendar     iCalendar     Outlook 365     Outlook
-  Live         Related Events      MS in Athletic Training Info Session | AUO   December
-  11 @ 5:30 pm - 6:30 pm  EST        Individualized Masters of Arts Info Session |
-  AUO   December 11 @ 6:00 pm - 7:00 pm  EST        Nursing Programs Info Session
-  | AUO   December 13 @ 1:00 pm - 2:00 pm  EST       Event Navigation  « Doctoral
-  Counseling, Psychology and Therapy Info Session | AU          Announcing the New
-  President of Antioch University  Learn More    {"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://www.antioch.edu/wp-includes/js/wp-emoji-release.min.js?ver=6.9"}}
+feed_content_checksum: 7b356ebf467615ea6ba568e844e7448ce4fea617
+images: []
+location: Virtual Events @ Antioch University
+locations: []
 published: false
 source: Antioch University
 source_url: https://www.antioch.edu/event/phd-in-leadership-and-change-info-session-gslc-1-7-26/

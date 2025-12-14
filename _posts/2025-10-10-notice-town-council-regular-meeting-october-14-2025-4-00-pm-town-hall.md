@@ -1,8 +1,6 @@
 ---
 date: '2025-10-10T20:15:36+00:00'
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   [COMPLETE PACKET](https://yarrowpointwa.gov/wp-content/uploads/2025/10/COMPLETE-PACKET.pdf)
 
   [2026 Tax Levy Hearing Notice](https://yarrowpointwa.gov/wp-content/uploads/2025/10/2026-Tax-Levy-Hearing-Notice.pdf) [2026](https://yarrowpointwa.gov/wp-content/uploads/2025/10/2026-Preliminary-Budget-Hearing-Notice.pdf)
@@ -45,6 +43,8 @@ original_content: |-
   Your attendance is always encouraged.
 
   Thank you.
+images: []
+locations: []
 published: false
 source: Town of Yarrow Point
 source_url: https://yarrowpointwa.gov/2025/10/notice-town-council-regular-meeting-october-14-2025-400-pm-town-hall/

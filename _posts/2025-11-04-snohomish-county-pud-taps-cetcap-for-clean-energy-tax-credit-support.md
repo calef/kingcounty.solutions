@@ -1,8 +1,6 @@
 ---
 date: '2025-11-04T21:14:52+00:00'
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   > “As a consumer-owned utility, the PUD has limited experience filing tax returns. The CETCAP program has provided valuable support in bridging this expertise, helping the PUD to maximize potential project tax benefits and minimize tax preparation costs.”
 
   ## Project overview
@@ -24,6 +22,8 @@ original_content: |-
   ![Lawyers for Good Government logo](https://www.commerce.wa.gov/wp-content/uploads/2025/10/l4gg-color.png)
 
   ![Giraffe logo](https://www.commerce.wa.gov/wp-content/uploads/2025/10/giraffe-logo-purple.png)
+images: []
+locations: []
 published: false
 source: Department of Commerce
 source_url: https://www.commerce.wa.gov/snohomish-county-pud-taps-cetcap-for-clean-energy-tax-credit-support/

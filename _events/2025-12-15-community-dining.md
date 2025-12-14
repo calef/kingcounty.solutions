@@ -1,11 +1,6 @@
 ---
 end_date: '2025-12-15T12:30:00-08:00'
-images: []
-location: The Center for Active Living, 4217 SW Oregon St., Seattle, WA, 98116, United
-  States
-locations:
-- King County
-original_content: '<a aria-label="Skip to content" class="fl-screen-reader-text" href="#fl-main-content">Skip
+feed_content: '<a aria-label="Skip to content" class="fl-screen-reader-text" href="#fl-main-content">Skip
   to content</a><div class="fl-page"> <header class="fl-builder-content fl-builder-content-12203
   fl-builder-global-templates-locked" data-post-id="12203" data-type="header" data-sticky="0"
   data-sticky-on="" data-sticky-breakpoint="medium" data-shrink="0" data-overlay="0"
@@ -165,20 +160,11 @@ original_content: '<a aria-label="Skip to content" class="fl-screen-reader-text"
   </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div>
   </div> </div> </div> <a href="#" role="button" id="fl-to-top"><span class="sr-only">Scroll
   To Top</span></a>'
-original_markdown_body: Skip to content             We used to be called the Senior
-  Center of West Seattle.               Join       Donate                 Facebook     Instagram     YouTube     LinkedIn                            Activities
-  & Events                             Community Dining       Monday, December 15,
-  2025 at 11:45 am - 12:30 pm      We serve a hot meal prepared from scratch by our
-  staff Chef Francisco in a communal setting. Our menu changes every day and is designed
-  to be culturally varied and nutritious. Suggested $5/person ages 60+; required $10
-  under 60.      Food & Meals              Calendar       Membership                  Location    The
-  Center for Active Living     4217 SW Oregon St. Seattle, WA 98116 United States  +
-  Google Map    Phone  206-932-4044     View Location Website                   Google
-  Calendar     iCalendar     Outlook 365     Outlook Live                   Related
-  Events    Margie’s Café Friday, December 5, 2025 at 9:00 am - 1:30 pm     Margie’s
-  Café Monday, December 8, 2025 at 9:00 am - 1:30 pm     Community Dining Monday,
-  December 8, 2025 at 11:45 am - 12:30 pm             Calendar                 Scroll
-  To Top
+images: []
+location: The Center for Active Living, 4217 SW Oregon St., Seattle, WA, 98116, United
+  States
+locations:
+- King County
 source: The Center for Active Living
 source_url: https://wscenter.org/event/community-dining-hot-lunches-2/2025-12-15/
 start_date: '2025-12-15T11:45:00-08:00'

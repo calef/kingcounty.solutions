@@ -2,11 +2,8 @@
 date: '2025-06-10T16:55:50+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: '<div class="wp-rss-image" style="margin-bottom:20px;max-width:
-  600px !important;padding-top: 0.75em;"><img width="400" height="267" src="https://i0.wp.com/news.shoreline.edu/wp-content/uploads/2025/06/Catalog-1-scaled.jpg?fit=400%2C267&amp;ssl=1"
+feed_content: '<div class="wp-rss-image" style="margin-bottom:20px;max-width: 600px
+  !important;padding-top: 0.75em;"><img width="400" height="267" src="https://i0.wp.com/news.shoreline.edu/wp-content/uploads/2025/06/Catalog-1-scaled.jpg?fit=400%2C267&amp;ssl=1"
   class="attachment-medium size-medium wp-post-image" alt="This is an image of a pathway
   at Shoreline framed by blossoming spring foliage." decoding="async" loading="lazy"
   srcset="https://i0.wp.com/news.shoreline.edu/wp-content/uploads/2025/06/Catalog-1-scaled.jpg?w=2560&amp;ssl=1
@@ -25,9 +22,9 @@ original_content: '<div class="wp-rss-image" style="margin-bottom:20px;max-width
   a strategic change that reflects the College’s growth, while reaffirming its deep
   commitment to student success, equity, and community engagement. This decision came
   after a community-wide survey was conducted asking participants to &#8230;'
-original_markdown_body: |-
-  ![This is an image of a pathway at Shoreline framed by blossoming spring foliage.](https://i0.wp.com/news.shoreline.edu/wp-content/uploads/2025/06/Catalog-1-scaled.jpg?fit=400%2C267&ssl=1)
-  At the May 2025 Board meeting, the Shoreline Community College Board of Trustees voted to officially change the institution’s name to Shoreline College, a strategic change that reflects the College’s growth, while reaffirming its deep commitment to student success, equity, and community engagement. This decision came after a community-wide survey was conducted asking participants to …
+images: []
+locations:
+- King County
 source: Shoreline Community College
 source_url: https://news.shoreline.edu/2025/06/10/shoreline-community-college-announces-name-change-to-shoreline-college/
 summarized: true

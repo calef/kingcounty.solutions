@@ -2,17 +2,13 @@
 date: '2025-11-04T20:06:33+00:00'
 events: []
 events_extracted: true
+feed_content: |-
+  <p>[Seattle’s Child] Local restaurants, organizations, and community members have launched into action, organizing grassroots efforts to make sure that anyone who needs food can access it.</p>
+  <p>The post <a>How to help Seattle families impacted by SNAP cuts</a> appeared first on <a>Northwest Harvest</a>.</p>
+feed_content_checksum: fce162f499d236a76d30f17c1877f05c700ee560
 images: []
 locations:
 - King County
-original_content: |-
-  <p>[Seattle’s Child] Local restaurants, organizations, and community members have launched into action, organizing grassroots efforts to make sure that anyone who needs food can access it.</p>
-  <p>The post <a>How to help Seattle families impacted by SNAP cuts</a> appeared first on <a>Northwest Harvest</a>.</p>
-original_content_checksum: fce162f499d236a76d30f17c1877f05c700ee560
-original_markdown_body: |-
-  [Seattle’s Child] Local restaurants, organizations, and community members have launched into action, organizing grassroots efforts to make sure that anyone who needs food can access it.
-
-  The post How to help Seattle families impacted by SNAP cuts appeared first on Northwest Harvest.
 source: Northwest Harvest
 source_url: https://www.northwestharvest.org/news-insights/how-to-help-seattle-families-impacted-by-snap-cuts/
 summarized: true

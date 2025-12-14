@@ -1,10 +1,6 @@
 ---
 end_date: '2025-12-22T00:00:00-08:00'
-images: []
-location: Johnny Rockets Kent, 418 Ramsay Way, Kent, WA, 98032, United States
-locations:
-- King County
-original_content: '<div id="page-container"> <div id="et-boc" class="et-boc"> <header
+feed_content: '<div id="page-container"> <div id="et-boc" class="et-boc"> <header
   class="et-l et-l--header"> <div class="et_builder_inner_content et_pb_gutters3">
   <div class="et_pb_section et_pb_section_0_tb_header et_section_regular"> <div class="et_pb_row
   et_pb_row_0_tb_header et_pb_equal_columns et_pb_gutters2"> <div class="et_pb_column
@@ -81,15 +77,10 @@ original_content: '<div id="page-container"> <div id="et-boc" class="et-boc"> <h
   tribe-events-meta-value"> <a href="https://www.johnnyrockets.com/" target="_self"
   rel="external">View Venue Website</a> </span> </li> </ul> </div> </div> </div> </div>
   </section> </div> </div> </div>'
-original_markdown_body: "   ADVOCACY & SUPPORT LINE You are NOT ALONE! CALL (425)
-  656-7867        Need Help?   Donate            « All Events  Johnny Rockets – 20%
-  of Sales   December 15 - December 21     20% of sales from self-identifying Dawn
-  supporters the third week of the month from October through March 2026         Google
-  Calendar     iCalendar     Outlook 365     Outlook Live           Details    Start:
-  \  December 15     End:   December 21     Event Category: Purple Light Nights     Organizer
-  \  Domestic Abuse Women’s Network        Venue    Johnny Rockets Kent     418 Ramsay
-  Way Kent, WA 98032 United States  + Google Map    Phone  (253) 854-1573     View
-  Venue Website"
+images: []
+location: Johnny Rockets Kent, 418 Ramsay Way, Kent, WA, 98032, United States
+locations:
+- King County
 source: Domestic Abuse Women's Network (DAWN)
 source_url: https://dawnrising.org/event-calendar/johnny-rockets-20-of-sales-dec/
 start_date: '2025-12-15T00:00:00-08:00'

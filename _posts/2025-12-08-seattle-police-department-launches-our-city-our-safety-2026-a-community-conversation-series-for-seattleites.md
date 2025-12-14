@@ -1,16 +1,12 @@
 ---
 date: '2025-12-08T22:37:33+00:00'
+feed_content: On January 14, the Seattle Police Department will launch the first of
+  its 10 monthly community conversations, “Our City, Our Safety 2026” across the city,
+  with each gathering designed to influence how the department will approach safety
+  neighborhood by...
+feed_content_checksum: f254ed30dc30be2d331c4d84364bc2fb28e983f9
 images: []
 locations: []
-original_content: On January 14, the Seattle Police Department will launch the first
-  of its 10 monthly community conversations, “Our City, Our Safety 2026” across the
-  city, with each gathering designed to influence how the department will approach
-  safety neighborhood by...
-original_content_checksum: f254ed30dc30be2d331c4d84364bc2fb28e983f9
-original_markdown_body: On January 14, the Seattle Police Department will launch the
-  first of its 10 monthly community conversations, “Our City, Our Safety 2026” across
-  the city, with each gathering designed to influence how the department will approach
-  safety neighborhood by...
 published: false
 source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/12/08/seattle-police-department-launches-our-city-our-safety-2026-a-community-conversation-series-for-seattleites/

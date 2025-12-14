@@ -2,13 +2,11 @@
 date: '2025-03-17T01:21:10+00:00'
 events: []
 events_extracted: true
+feed_content: Vashon Youth and Family Services in Collaboration with The DOVE Project
+  present Parent and Caregiver Yoga with Nyn Grey Come Join us for...
 images: []
 locations:
 - Vashon
-original_content: Vashon Youth and Family Services in Collaboration with The DOVE
-  Project present Parent and Caregiver Yoga with Nyn Grey Come Join us for...
-original_markdown_body: Vashon Youth and Family Services in Collaboration with The
-  DOVE Project present Parent and Caregiver Yoga with Nyn Grey Come Join us for...
 source: The Vashon DOVE Project
 source_url: https://www.vashondoveproject.org/post/parent-and-caregiver-yoga-with-nyn
 summarized: true

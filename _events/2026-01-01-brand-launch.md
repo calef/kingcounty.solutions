@@ -4,8 +4,6 @@ images: []
 location: ''
 locations:
 - King County
-original_markdown_body: Complete brand launch, including updated signage, set for
-  the first half of 2026.
 published: false
 source: Shoreline Community College
 source_url: https://news.shoreline.edu/2025/06/10/shoreline-community-college-announces-name-change-to-shoreline-college/

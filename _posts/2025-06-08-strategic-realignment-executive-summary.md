@@ -2,10 +2,7 @@
 date: '2025-06-08T11:15:43+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
   <div class="wp-block-button"><a class="wp-block-button__link wp-element-button" href="/wp-content/uploads/2025/07/Executive-Summary-7725.pdf" target="_blank" rel="noreferrer noopener">View Full Executive Summary</a></div>
 
@@ -67,34 +64,9 @@ original_content: |-
 
 
   <p><strong>View the Full Executive Summary button at the top of the page.</strong></p>
-original_markdown_body: |-
-  [View Full Executive Summary](/wp-content/uploads/2025/07/Executive-Summary-7725.pdf)
-
-  [View Q&A](/wp-content/uploads/2025/07/StrategicRealignmentQAJune2025FINAL.pdf)
-
-  [View Timeline](/wp-content/uploads/2025/07/StrategicRealignmentTimeline.pdf)
-
-  [View Work Groups](/wp-content/uploads/2025/07/StrategicRealignmentWorkGroups.pdf)
-
-  After a comprehensive and extensive operational review by FirstRule Group, the WA 211 Board of Introduction
-
-  **(View the Full Executive Summary button above.)**
-
-  * * *
-
-  Starting in January 2023, the WA 211 Board of Directors has engaged in thoughtful strategic discussions to address long standing structural and funding issues that have limited access to and the efficient use of the WA 211 system. These conversations included a strong community voice from call center representatives on the board) as well as diverse stakeholders. Sharing the commitment that everyone should have easy access to the information and resources they need to manage life crises, we recognized the need to change our business model to ensure our communities continue to have inclusive access to critical 211 services.
-
-  A Board established Strategy Taskforce guided the process. In July 2024, the Board hired an interim executive director (the first executive director since 2010) and the FirstRule Group (FRG) to conduct a robust assessment of 211 operations. The goal was to provide recommendations based on their findings on how to best implement a re-designed, sustainable business model to
-
-  1. more inclusively and effectively serve our communities,
-  2. address key needs of the evolving public safety and health systems, and
-  3. respond nimbly to both economic and community crises.
-
-  FirstRule Group and the interim executive conducted more than sixty stakeholder interviews (See Appendix B of Executive Summary above), including staff and clients from the seven regional contact centers, government agencies and other community partners. They also conducted a three-day design workshop to gain firsthand insight into WA 211’s strengths and weaknesses, challenges and opportunities.
-
-  * * *
-
-  **View the Full Executive Summary button at the top of the page.**
+images: []
+locations:
+- King County
 source: Washington 211
 source_url: https://wa211.org/strategic-realignment-executive-summary/
 summarized: true

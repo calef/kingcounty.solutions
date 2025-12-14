@@ -1,8 +1,6 @@
 ---
 date: '2025-11-24T17:58:29+00:00'
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   <p class="cvGsUA direction-ltr align-center para-style-body"><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">We share with prayers and sadness </span><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">the passing of a beloved Tribal Elder</span></p>
   <h1><span class="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">Irene Daniels</span></h1>
   <p class="cvGsUA direction-ltr align-center para-style-body"><span class="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">Sunrise: 2/4/1940</span> <span class="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">Sunset:</span> <span class="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">11/23/2025</span></p>
@@ -15,10 +13,8 @@ original_content: |-
   <p>&nbsp;</p>
   <p>&nbsp;</p>
   <p>&nbsp;</p>
-original_markdown_body: "We share with prayers and sadness&nbsp;the passing of a beloved
-  Tribal Elder\n\n# Irene Daniels\n\nSunrise: 2/4/1940 Sunset: 11/23/2025\n\nWe will
-  share additional information when it is available.  \nOut of respect and according
-  to our policy, tribal flags are flying at half-staff.\n\n&nbsp;\n\n[![](https://snoqualmietribe.us/wp-content/uploads/2025/11/Irene-Daniels-700x587.png)](https://snoqualmietribe.us/wp-content/uploads/2025/11/Irene-Daniels.png)\n\n&nbsp;\n\n&nbsp;\n\n&nbsp;\n\n&nbsp;\n\n&nbsp;"
+images: []
+locations: []
 published: false
 source: Snoqualmie Indian Tribe
 source_url: https://snoqualmietribe.us/we-share-with-prayers-and-sadness-the-passing-of-beloved-tribal-elder-irene-daniels/

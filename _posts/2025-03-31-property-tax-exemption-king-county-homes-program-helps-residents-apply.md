@@ -2,10 +2,7 @@
 date: '2025-03-31T20:04:59+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <p class="" data-start="410" data-end="770">Starting in May 2025, a powerful new resource is available to help eligible residents apply for the <strong data-start="512" data-end="550">property tax exemption King County</strong> offers. The <strong data-start="563" data-end="580">HOMES program</strong>—short for <em data-start="591" data-end="648">Homeowners’ Outreach, Mentoring, and Education Services</em>—supports older adults, veterans, and people with disabilities in completing their applications for this valuable benefit.</p>
   <p class="" data-start="772" data-end="970">Thanks to a recent income limit increase to $84,000, more residents now qualify for the <strong data-start="860" data-end="898">property tax exemption King County</strong> provides, helping ease the financial burden for those who need it most.</p>
   <p data-start="997" data-end="1103">
@@ -87,41 +84,9 @@ original_content: |-
   <h4 data-start="2922" data-end="3002"></h4>
   <h4 style="text-align: center;" data-start="2922" data-end="3002"><strong data-start="2922" data-end="3002">Together, we can build stronger, more stable communities—one home at a time.</strong></h4>
   <p>The post <a href="https://kcdrc.org/property-tax-exemption-king-county/">Property Tax Exemption King County: HOMES Program Helps Residents Apply</a> appeared first on <a href="https://kcdrc.org">Dispute Resolution Center of King County</a>.</p>
-original_markdown_body: "Starting in May 2025, a powerful new resource is available
-  to help eligible residents apply for the **property tax exemption King County**
-  offers. The **HOMES program** —short for _Homeowners’ Outreach, Mentoring, and Education
-  Services_—supports older adults, veterans, and people with disabilities in completing
-  their applications for this valuable benefit.\n\nThanks to a recent income limit
-  increase to $84,000, more residents now qualify for the **property tax exemption
-  King County** provides, helping ease the financial burden for those who need it
-  most.\n\n#### **What Services Does HOMES Provide?**\n\n#### \n\n#### _Application
-  Assistance Workshops_\n\nStarting in **May 2025** , HOMES will host **monthly in-person
-  workshops** on the **third Saturday of each month**. During these workshops, trained
-  counselors will be available to help residents complete their property tax exemption
-  applications.\n\n**Workshop Dates:**\n\n- May 17\n\n- June 21\n\n- July 19\n\n-
-  August 16\n\n- September 20\n\n- October 18\n\n- November 15\n\n- December 20\n\n**Eligibility
-  Requirements:**\n\n- Must be **62 or older** during the year you apply\n\n- OR be
-  **disabled** or a **veteran** with a **service-connected disability rating of 80%
-  or more**\n\n**What to Bring:**\n\n- Previous year’s tax return\n\n- Disability
-  verification letter\n\n- Proof of age/ID (WA driver’s license or similar)\n\n- Property
-  ownership documents (such as a deed)\n\n- Records of out-of-pocket medical expenses
-  (doctor’s letters, pharmacy records, bank statements, etc.)\n\n&nbsp;\n\n#### _Virtual
-  Information Hub_\n\nBeginning in **June** , the **King County Dispute Resolution
-  Center (KCDRC)** will host **virtual Information Hub meetings**. These sessions
-  are open to all homeowners and provide access to a range of community resources
-  focused on **foreclosure prevention**.\n\nKCDRC is a trusted nonprofit offering
-  mediation and conflict resolution services. Their mediators have helped many residents
-  navigate housing challenges and avoid foreclosure through guided conversations and
-  problem-solving.\n\n#### **How to Get Involved**\n\n- [**Download the informational
-  PDF**](https://kcdrc.org/wp-content/uploads/2025/03/HOMES-Flyer-1.pdf) and/or see
-  [web page](https://kcdrc.org/housing/homes/) for more details\n\n- [**Sign up for
-  a workshop**](https://calendly.com/michellew-kcdrc/new-meeting) to get hands-on
-  help from experienced counselors\n\nWhether you’re a homeowner concerned about rising
-  taxes or supporting a loved one through the application process, the HOMES program
-  is here to guide you every step of the way.\n\n#### \n\n#### \n\n#### **Together,
-  we can build stronger, more stable communities—one home at a time.**\n\nThe post
-  [Property Tax Exemption King County: HOMES Program Helps Residents Apply](https://kcdrc.org/property-tax-exemption-king-county/)
-  appeared first on [Dispute Resolution Center of King County](https://kcdrc.org)."
+images: []
+locations:
+- King County
 source: Dispute Resolution Center of King County
 source_url: https://kcdrc.org/property-tax-exemption-king-county/
 summarized: true

@@ -1,9 +1,6 @@
 ---
 end_date: '2025-12-15T12:00:00-08:00'
-images: []
-location: ''
-locations: []
-original_content: '<div> <div> <section> <title>WorkSource Seattle-King County</title>
+feed_content: '<div> <div> <section> <title>WorkSource Seattle-King County</title>
   <script>{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://worksourceskc.org/event/service-patriots-hiring-event-2/","url":"https://worksourceskc.org/event/service-patriots-hiring-event-2/","name":"Service
   Patriots Hiring Event - WorkSource Seattle-King County","isPartOf":{"@id":"https://www.worksourceskc.org/#website"},"datePublished":"2025-12-11T20:43:28+00:00","dateModified":"2025-12-12T18:34:57+00:00","description":"Recruiting
   for Sales Associate PositionsDo you&#160; have a go getter attitude, willingness
@@ -47,36 +44,10 @@ original_content: '<div> <div> <section> <title>WorkSource Seattle-King County</
   commission</strong> </li> <li><strong>Weekends required</strong></li> </ul>Drug
   free workplace including THC </div> </div> </div> </section> </div> </section> </div>
   </div>'
-original_content_checksum: eb91bb8a54a49e922f65671812044715613ebab3
-original_markdown_body: 'WorkSource Seattle-King County {"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://worksourceskc.org/event/service-patriots-hiring-event-2/","url":"https://worksourceskc.org/event/service-patriots-hiring-event-2/","name":"Service
-  Patriots Hiring Event - WorkSource Seattle-King County","isPartOf":{"@id":"https://www.worksourceskc.org/#website"},"datePublished":"2025-12-11T20:43:28+00:00","dateModified":"2025-12-12T18:34:57+00:00","description":"Recruiting
-  for Sales Associate PositionsDo you&#160; have a go getter attitude, willingness
-  &amp; dedication to thrive in the workplace?We&#039;d like to","breadcrumb":{"@id":"https://worksourceskc.org/event/service-patriots-hiring-event-2/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://worksourceskc.org/event/service-patriots-hiring-event-2/"]}]},{"@type":"BreadcrumbList","@id":"https://worksourceskc.org/event/service-patriots-hiring-event-2/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"Service
-  Patriots Hiring Event"}]},{"@type":"WebSite","@id":"https://www.worksourceskc.org/#website","url":"https://www.worksourceskc.org/","name":"WorkSource
-  Seattle-King County","description":"Let&#039;s find your path together!","publisher":{"@id":"https://www.worksourceskc.org/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.worksourceskc.org/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://www.worksourceskc.org/#organization","name":"WorkSource
-  Seattle-King County","url":"https://www.worksourceskc.org/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.worksourceskc.org/#/schema/logo/image/","url":"","contentUrl":"","caption":"WorkSource
-  Seattle-King County"},"image":{"@id":"https://www.worksourceskc.org/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/worksourceskc/"]},{"@type":"Event","name":"Service
-  Patriots Hiring Event","description":"Recruiting for Sales Associate PositionsDo
-  you&#160; have a go getter attitude, willingness &amp; dedication to thrive in the
-  workplace?We&#039;d like&hellip;","url":"https://worksourceskc.org/event/service-patriots-hiring-event-2/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2025-12-15T10:00:00-08:00","endDate":"2025-12-15T12:00:00-08:00","@id":"https://worksourceskc.org/event/service-patriots-hiring-event-2/#event","mainEntityOfPage":{"@id":"https://worksourceskc.org/event/service-patriots-hiring-event-2/"}}]}
-  Service Patriots Hiring Event – WorkSource Seattle-King County Skip to main content        Job
-  Board    Staff Log-In        Job Seekers   Get Started with Personalized Support  Sign
-  Up for Services Layoff Support    Self-Serve Resources  Career Exploration Skills
-  & Training Job Search   Workshops & Hiring Events    Employers   Business Services  Employer
-  Inquiry Form Business Connection Partners Business Assistance & Workforce Support
-  Small-Business Assistance Employee Development   Layoff Support, Aversion and Retention    Locations  Auburn
-  Downtown Seattle North Seattle Rainier South Seattle   About            Go to Back
-  to Calendar  Service Patriots Hiring Event December 15 Monday | 10:00am - 12:00pm  Add
-  to Calendar December 15 10:00am 12/15/2025 12:00pm America/Los_Angeles Service Patriots
-  Hiring Event Recruiting for Sales Associate PositionsDo you  have a go getter attitude,
-  willingness & dedication to thrive in the workplace?We''d like…  Service Patriots6511
-  E 18th ST.Vancouver, WA 98661 Contact Name: Hildo Rodriguez Contact Email: jacob@servicepatriots.com
-  Workshop Language: English Approved Unemployment Insurance (UI) Job Search Activity:
-  Yes Description:Recruiting for Sales Associate PositionsDo you  have a go getter
-  attitude, willingness & dedication to thrive in the workplace?We''d like to meet
-  you!  Bring resume & dress for success   Previous sales professional encouraged
-  to apply   Hourly pay + commission  Weekends required Drug free workplace including
-  THC'
+feed_content_checksum: eb91bb8a54a49e922f65671812044715613ebab3
+images: []
+location: ''
+locations: []
 published: false
 source: WorkSource Seattle-King County
 source_url: https://worksourceskc.org/event/service-patriots-hiring-event-2/

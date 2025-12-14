@@ -1,8 +1,6 @@
 ---
 date: '2025-01-12T17:57:55+00:00'
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   Governor-elect Bob Ferguson forms transition committee to improve public safety&nbsp;
 
   Publish Date
@@ -34,6 +32,8 @@ original_content: |-
   **About Governor-Elect Bob Ferguson** &nbsp;
 
   Bob Ferguson has dedicated his career to serving the people. He is completing his third term as Washington State's Attorney General. He is committed to improving government and building a stronger future by focusing on key issues such as public safety, health care costs and housing affordability, child care, education, and economic growth.&nbsp;&nbsp;
+images: []
+locations: []
 published: false
 source: State Executive Branch
 source_url: https://governor.wa.gov/news/2024/governor-elect-bob-ferguson-forms-transition-committee-improve-public-safety

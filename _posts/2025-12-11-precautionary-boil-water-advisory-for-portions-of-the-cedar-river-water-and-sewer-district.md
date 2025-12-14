@@ -1,5 +1,11 @@
 ---
 date: '2025-12-11T22:39:16+00:00'
+feed_content: Cedar River Water and Sewer District has issued a 48-hour Precautionary
+  Boil Water Advisory beginning on 12/11 for the east area of the Water District to
+  include the area east of the Cedar River and south of Highway 18 while samples are
+  collected to ensure safe drinking water. Customers should boil water for at least
+  […]
+feed_content_checksum: 9c9c52a91f18a2774ec9429dfa72bc32657c09e8
 images: []
 locations:
 - Maple Valley
@@ -22,17 +28,6 @@ locations:
 - Fairwood
 - Lake Morton-Berrydale
 - Ravensdale
-original_content: Cedar River Water and Sewer District has issued a 48-hour Precautionary
-  Boil Water Advisory beginning on 12/11 for the east area of the Water District to
-  include the area east of the Cedar River and south of Highway 18 while samples are
-  collected to ensure safe drinking water. Customers should boil water for at least
-  […]
-original_content_checksum: 9c9c52a91f18a2774ec9429dfa72bc32657c09e8
-original_markdown_body: Cedar River Water and Sewer District has issued a 48-hour
-  Precautionary Boil Water Advisory beginning on 12/11 for the east area of the Water
-  District to include the area east of the Cedar River and south of Highway 18 while
-  samples are collected to ensure safe drinking water. Customers should boil water
-  for at least […]
 published: false
 rss_guid: https://kcemergency.com/?p=6752
 source: King County Emergency Management

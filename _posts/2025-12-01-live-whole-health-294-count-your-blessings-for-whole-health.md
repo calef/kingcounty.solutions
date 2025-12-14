@@ -2,10 +2,7 @@
 date: '2025-12-01T21:30:00+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <p>Are you ready to count your blessings? Even if you’re not feeling particularly grateful this year, this season offers us a chance to stop and think about what really matters to us. Taking “inventory” of your blessings can be good for your <a href="https://www.va.gov/WHOLEHEALTH/index.asp" rel="noopener">Whole Health</a>.</p>
 
 
@@ -71,29 +68,9 @@ original_content: |-
   <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper">
   <div class="video-shortcode"><iframe title="#LiveWholeHealth: A season of gratitude" width="1400" height="788" src="https://www.youtube.com/embed/o7DhHcj1jE4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
   </div></figure>
-original_markdown_body: |-
-  Are you ready to count your blessings? Even if you’re not feeling particularly grateful this year, this season offers us a chance to stop and think about what really matters to us. Taking “inventory” of your blessings can be good for your [Whole Health](https://www.va.gov/WHOLEHEALTH/index.asp).
-
-  Gratitude has been linked to many psychological, physical and social benefits, such as:
-
-  - Self-reported physical health.
-  - More feelings of happiness, pride and hope.
-  - A greater sense of social connection and cooperation with others—feeling less lonely and isolated.
-  - Helps maintain intimate bonds.&nbsp;
-  - Increased motivation for self-improvement and positive change.
-  - A reduction in risk for depression, anxiety and substance abuse disorders.
-  - Improvement in body image.
-  - Increased acts of kindness and generosity.
-  - Resilience in the face of trauma-induced stress, recovering more quickly from illness and enjoying more robust physical health.
-  - Improvement in sleep and energy.
-
-  ## Gratitude takes practice!
-
-  Take a few minutes right now to reflect on a happy moment in your life that stands out for you—a memory that is still strong and has remained with you, even if it happened 10, 20 or 40 years ago. Re-experience it. Visualize the scene, hear the sounds that were around you, feel the sensations in your body. What was it about that experience that stayed with you all these years? Was gratitude part of it? What was happening that allowed you to feel grateful?
-
-  Give yourself five minutes to enjoy this simple gratitude meditation:
-
-  https://www.youtube.com/embed/o7DhHcj1jE4?feature=oembed
+images: []
+locations:
+- King County
 source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143664/live-whole-health-294-blessings-whole-health/
 summarized: true

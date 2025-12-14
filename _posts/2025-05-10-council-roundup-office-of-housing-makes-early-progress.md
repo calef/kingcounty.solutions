@@ -2,11 +2,7 @@
 date: '2025-05-10T00:54:44+00:00'
 events: []
 events_extracted: true
-images:
-- 17352124dba834371eb31a0a1c6805fc342760f8d281aea7a95b4ab439d97918
-locations:
-- King County
-original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Council
+feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Council
   Roundup: Office of Housing makes early progress</span>\n<span class=\"field field--name-uid
   field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/mdegrand\"
   typeof=\"schema:Person\" property=\"schema:name\" datatype>MDeGrand</span></span>\n<span
@@ -89,40 +85,10 @@ original_content: "<span class=\"field field--name-title field--type-string fiel
   field--name-field-article-date field--type-datetime field--label-hidden field__item\"><time
   datetime=\"2025-05-09T12:00:00Z\" class=\"datetime\">May 9 2025</time>\n</div>\n
   \     \n    </div>\n  </div>"
-original_markdown_body: |-
-  Council Roundup: Office of Housing makes early progressMDeGrand<time datetime="2025-05-09T17:54:44-07:00" title="Friday, May 9, 2025 - 17:54" class="datetime">Fri, 05/09/2025 - 17:54</time>
-
-   ![Officials with the City of Bellevue, Amazon, Bridge Housing and King County dig into a pile of dirt with shiny shovels.](https://bellevuewa.gov/sites/default/files/styles/article_featured_image/public/media/article_featured_image/2025-02/bridge-housing-shovels.jpg?h=d402cc56&itok=cGsYvWIU)
-
-  Plus, King County sewer rates, new councilmember sworn in, council training and proclamations
-
-  At its meeting on Tuesday, the City Council received an update on the city’s recently formed Office of Housing. The new division in the City Manager’s Office was launched in February with staff from the existing affordable housing and homelessness outreach teams.
-
-  The Office of Housing is furthering progress on a number of housing initiatives, including the city’s Affordable Housing Strategy update, continuing the strong work of the city’s homelessness outreach program and updating the Multi-Family Tax Exemption (MFTE) program. Since it launched, the office has released two solicitations for residential development of city-owned sites in Wilburton and BelRed, which combined have the potential to support up to 400 new units of affordable housing in these transit-oriented areas.
-
-  The office’s mission is to facilitate policy, projects, services and resources that accelerate production and preservation of housing in Bellevue. The office partners with multiple city departments and A Regional Coalition for Housing (ARCH), as well as housing developers, funders and service providers. Further details are in the [meeting materials](https://bellevue.legistar.com/LegislationDetail.aspx?ID=7360711&GUID=2A66FA12-3203-482E-AB99-5B4CAE50C66A "Link to meeting materials").
-
-  #### King County sewer rate proposal and 20-year forecast
-
-  The City Council received an update from the King County Wastewater Treatment Division on proposed 2026 sewer rate and capacity charges, and a 20-year forecast that includes rate increases. The forecast would increase wholesale sewer treatment rates over the next 20 years from $58.28 per month per average residential customer in 2025 to $139.42 in 2035 and $173.57 in 2045, equating to a 140 percent increase over the next 10 years and a 198 percent increase over the next 20 years. These costs exclude Bellevue Utilities’ local costs to maintain, operate and improve the city sewer infrastructure.
-
-  The Council expressed concern about the impact significant rate increases will have on affordability for Bellevue community members. The council decided to prepare a letter to the King County Council communicating the City of Bellevue position concerning the proposed 2026 sewer rate, sharing the council’s thoughts on the long-term rate path and the importance of completing the Regional Wastewater Services Plan update. The letter will include recommendations on guiding principles for King County to work towards reasonable planning, clear rate transparency, and continued refinement of rate methodology to ensure generational equity and accuracy.
-
-  Due to the impact of rising King County sewer costs, Bellevue staff will continue to evaluate and improve access to [bill assistance options](https://bellevuewa.gov/city-government/departments/utilities/pay-your-utility-bill/utility-bill-assistance "Access bill assistance information") for community members. This includes expanded outreach to more neighborhoods, easier application processes and an examination of eligibility requirements, rate design and external funding options.
-
-  The full presentation and council discussion are available through [video replay](https://youtu.be/jejWkfbv_Ts?t=5833 "Access video replay of topic") on Bellevue Television with supporting information available in the [meeting materials](https://bellevue.legistar.com/LegislationDetail.aspx?ID=7360701&GUID=D7290E67-F58F-4D06-BF1B-D5D4A531FC31 "Link to meeting materials").
-
-  #### Vishal Bhargava sworn in and council receives training
-
-  In other business, newly appointed councilmember Vishal Bhargava was formally sworn in, serving in the Position 1 seat recently vacated by John Stokes. Bhargava’s appointment will last until the results of the November General Election are certified. The person elected for Position 1 in that election would then serve through Stokes’ original term ending Dec. 31, 2027.
-
-  The council also received open government training as required by state law. The training must be taken at least every four years and covers the requirements of the Open Public Meetings Act, the Public Records Act and records retention laws. The city’s board and commission members will get similar training in the fall. The presentation is available in the [meeting materials](https://bellevue.legistar.com/LegislationDetail.aspx?ID=7360705&GUID=ADDE1761-40B8-408E-9D03-F2441D6AF97A "Link to information in meeting materials").
-
-  #### Council proclamations
-
-  At the start of the meeting, the council proclaimed May as [Jewish American Heritage Month](https://bellevue.legistar.com/View.ashx?M=F&ID=14129615&GUID=A749EFAD-4A1E-46C5-95F0-357B2D367CB5 "Link to Jewish American Heritage Month proclamation") and also recognized [Affordable Housing Week](https://bellevue.legistar.com/View.ashx?M=F&ID=14129616&GUID=EDC51ED3-995E-475D-8B63-AC56BEF85E6A "Link to Affordable Housing Week proclamation"), [National Police Week](https://bellevue.legistar.com/View.ashx?M=F&ID=14129617&GUID=04C23D13-9427-4D1E-ADFB-C2B932561597 "Link to National Police Week proclamation") and [Public Service Recognition Week](https://bellevue.legistar.com/View.ashx?M=F&ID=14129618&GUID=A53F0FE0-6FDD-4B10-88AD-10E60D1EDCC9 "Link to Public Service Recognition Week proclamation").
-
-  <time datetime="2025-05-09T12:00:00Z" class="datetime">May 9 2025</time>
+images:
+- 17352124dba834371eb31a0a1c6805fc342760f8d281aea7a95b4ab439d97918
+locations:
+- King County
 source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/council-roundup-office-housing-makes-early-progress
 summarized: true

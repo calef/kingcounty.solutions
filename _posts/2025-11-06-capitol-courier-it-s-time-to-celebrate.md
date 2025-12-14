@@ -2,12 +2,7 @@
 date: '2025-11-06T18:49:09+00:00'
 events: []
 events_extracted: true
-images:
-- c0e38217d92352696787534926a994fb5af767b7629432d107214c5dc7f5e6e4
-- fa0ed03fe3f08870df318646b8049f56616c842860ea9362b26cb684080796ca
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <p>We are ecstatic to announce that <strong>Proposal 1 was passed</strong> and the renewal and expansion of the <strong>Family, Education, Preschool, and Promise (FEPP) Levy was approved&nbsp;</strong>by Seattle voters!</p>
 
 
@@ -142,37 +137,11 @@ original_content: |-
 
   <p></p>
   <p>The post <a href="https://www.brightspark.org/2025/11/capitol-courier-its-time-to-celebrate/">Capitol Courier: It&#8217;s Time to Celebrate!</a> appeared first on <a href="https://www.brightspark.org">BrightSpark</a>.</p>
-original_markdown_body: "We are ecstatic to announce that **Proposal 1 was passed**
-  and the renewal and expansion of the **Family, Education, Preschool, and Promise
-  (FEPP) Levy was approved&nbsp;**by Seattle voters!\n\nThis levy will fund the renewal
-  and expansion of the **Seattle Preschool Program (SPP)**, which will provide high-quality
-  care to **3,000**  **total children** from low-income families over the next **7
-  years.**\n\n* * *\n\n### **A Popular Proposal with Voters**\n\n**77% of Seattle
-  voters approved the FEPP levy,** demonstrating a strong commitment to improving
-  families’ access to child care and elevating the quality of care throughout the
-  city.&nbsp;\n\nThis win is a testament to the hard work put in by our community
-  of advocates and demonstrates a growing understanding of the importance of early
-  learning.&nbsp;\n\n![](https://www.brightspark.org/wp-content/uploads/2025/11/voted-YES-2-1024x712.png
-  \"voted YES! (2)\")\n\n* * *\n\n### What is the FEPP Levy and SPP?\n\nThe Family,
-  Education, Preschool and Promise Levy is a **$1.3 billion dollar**  **investment**
-  in education across the city of Seattle. Over 50% of these funds will go to early
-  learning through programs such as child care subsidies, staff retention payments,
-  and the Seattle Preschool Program.\n\nThe Seattle Preschool Program will connects
-  children from low-income families to subsidized early learning opportunities. SPP’s
-  accredited, evidence-based curriculum prepares children to succeed in kindergarten
-  while offering specialized coaching to partnering child care providers.\n\n[**Learn
-  more about the FEPP Levy and SPP here**!](https://www.brightspark.org/fepp)\n\n*
-  * *\n\n### Thank you, Every Child Ready!\n\n![](https://www.brightspark.org/wp-content/uploads/2025/11/voted-YES-3-1024x653.png
-  \"voted YES! (3)\")\n\nWe would also like to extend a huge thank you to [Every Child
-  Ready](https://everychildreadyseattle.com/) for leading the efforts in this campaign
-  to ensure Seattle continues its culture of investing in early learning and beyond!\n\n*
-  * *\n\n### Stay Engaged! \n\nElection day may be over, but there’s still work to
-  do! The 2026 Legislative Session will be here before we know it, and many important
-  conversations will be happening about early learning. Join an Advocacy Pod today
-  and have the chance to meet directly with lawmakers from your district and share
-  your experiences with the child care sector.\n\n[**Join an Advocacy Pod today!**](https://forms.monday.com/forms/03bc180e10d00ac0af3b2e8149712945?r=use1)\n\nThe
-  post [Capitol Courier: It’s Time to Celebrate!](https://www.brightspark.org/2025/11/capitol-courier-its-time-to-celebrate/)
-  appeared first on [BrightSpark](https://www.brightspark.org)."
+images:
+- c0e38217d92352696787534926a994fb5af767b7629432d107214c5dc7f5e6e4
+- fa0ed03fe3f08870df318646b8049f56616c842860ea9362b26cb684080796ca
+locations:
+- King County
 source: BrightSpark
 source_url: https://www.brightspark.org/2025/11/capitol-courier-its-time-to-celebrate/
 summarized: true

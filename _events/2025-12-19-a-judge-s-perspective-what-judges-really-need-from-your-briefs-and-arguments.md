@@ -1,10 +1,6 @@
 ---
 end_date: '2025-12-19T14:00:00-05:00'
-images: []
-location: ''
-locations:
-- King County
-original_content: '<!DOCTYPE html> <html class="avada-html-layout-wide avada-html-header-position-top"
+feed_content: '<!DOCTYPE html> <html class="avada-html-layout-wide avada-html-header-position-top"
   lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#" prefix="og:
   https://ogp.me/ns#"> <head> <meta http-equiv="X-UA-Compatible" content="IE=edge"
   /> <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/> <meta name="viewport"
@@ -7709,7 +7705,10 @@ original_content: '<!DOCTYPE html> <html class="avada-html-layout-wide avada-htm
   100%,100% 0,100% 100%)}.fusion-testimonials.classic .avatar-image .awb-triangle{position:relative;margin:0
   var(--awb-avatar-size,40px)}.fusion-testimonials.classic .author{display:flex;align-items:center;position:relative;margin:.5em
   -.5em 0 -.5em;font-size:var(--awb-name-company-font-size)}.fusion-testimon'
-original_markdown_body: ''
+images: []
+location: ''
+locations:
+- King County
 published: false
 source: NOSSCR Referral Service
 source_url: https://nosscr.org/event/a-judges-perspective-what-judges-really-need-from-your-briefs-and-arguments-3/

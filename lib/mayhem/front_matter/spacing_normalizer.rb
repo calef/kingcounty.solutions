@@ -6,10 +6,22 @@ module Mayhem
       class << self
         def normalize(text)
           lines = text.to_s.each_line.map(&:rstrip)
+          lines = normalize_unordered_list_indentation(lines)
           normalized = []
           in_list = false
+          index = 0
 
-          lines.each_with_index do |line, index|
+          while index < lines.length
+            line = lines[index]
+
+            if table_start?(lines, index)
+              ensure_blank_line(normalized, allow_at_start: false)
+              index = append_table_block(lines, index, normalized)
+              ensure_blank_line(normalized, allow_at_start: false) unless blank_line?(lines[index])
+              in_list = false
+              next
+            end
+
             if header_line?(line)
               ensure_blank_line(normalized, allow_at_start: false)
               append_line(normalized, line)
@@ -36,6 +48,7 @@ module Mayhem
               append_line(normalized, line)
               in_list = false
             end
+            index += 1
           end
 
           trim_trailing_blank_lines(normalized)
@@ -51,8 +64,88 @@ module Mayhem
           line.match?(/\A\s{0,3}\#{1,6}\s+/)
         end
 
+        def normalize_unordered_list_indentation(lines)
+          adjusted = []
+          in_fenced_code = false
+          current_base_indent = nil
+          list_active = false
+
+          lines.each do |line|
+            if code_fence_line?(line)
+              in_fenced_code = !in_fenced_code
+              adjusted << line
+              next
+            end
+
+            if in_fenced_code
+              adjusted << line
+              next
+            end
+
+            if unordered_list_line?(line)
+              indent = leading_spaces(line)
+              unless list_active
+                current_base_indent = indent
+                list_active = true
+              end
+
+              if current_base_indent&.positive?
+                removal = [current_base_indent, indent].min
+                line = line.sub(/\A[ \t]{0,#{removal}}/, '')
+              end
+
+              adjusted << line
+            else
+              adjusted << line
+              if !line.strip.empty? && !line.start_with?(' ')
+                list_active = false
+                current_base_indent = nil
+              end
+            end
+          end
+
+          adjusted
+        end
+
+        def table_start?(lines, index)
+          current = lines[index]
+          following = lines[index + 1]
+          table_line?(current) && table_separator_line?(following)
+        end
+
+        def append_table_block(lines, index, normalized)
+          while index < lines.length && table_line?(lines[index])
+            append_line(normalized, lines[index])
+            index += 1
+          end
+          index
+        end
+
+        def table_line?(line)
+          line.to_s.strip.match?(/\A\|.*\|\s*\z/)
+        end
+
+        def table_separator_line?(line)
+          return false unless line
+
+          line.strip.match?(/\A\|?\s*:?-{2,}:?\s*(\|\s*:?-{2,}:?\s*)+\|?\s*\z/)
+        end
+
         def list_line?(line)
           line.match?(/\A\s{0,3}(?:[-+*]|\d+\.)\s+/)
+        end
+
+        def unordered_list_line?(line)
+          line.match?(/\A\s*[-+*]\s+/)
+        end
+
+        def leading_spaces(line)
+          (line[/\A[ \t]*/] || '').length
+        end
+
+        def code_fence_line?(line)
+          stripped = line.to_s.strip
+          stripped.start_with?('```') || stripped.start_with?('~~~')
         end
 
         def blank_line?(line)

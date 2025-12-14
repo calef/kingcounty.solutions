@@ -1,9 +1,6 @@
 ---
 end_date: '2026-02-17T19:30:00-08:00'
-images: []
-location: ''
-locations: []
-original_content: '<header class="page-header background-image-page-header wpex-supports-mods
+feed_content: '<header class="page-header background-image-page-header wpex-supports-mods
   wpex-relative wpex-mb-40 wpex-flex wpex-items-center wpex-flex-wrap wpex-bg-gray-900
   wpex-text-white wpex-text-center"> <div class="page-header-inner container wpex-py-20
   wpex-z-5 wpex-relative"> <div class="page-header-content"> <h1 class="page-header-title
@@ -75,19 +72,9 @@ original_content: '<header class="page-header background-image-page-header wpex-
   class="tribe-events-event-url tribe-events-meta-value"> <a href="https://olivecrest-org.zoom.us/meeting/register/tZYvcO-rrDwsHN1m6r7yQLJmmfp0BRFRB8Qp"
   target="_self" rel="external">https://olivecrest-org.zoom.us/meeting/register/tZYvcO-rrDwsHN1m6r7yQLJmmfp0BRFRB8Qp</a>
   </span> </li> </ul> </div> </div> </div> </div> </div> </div> </div> </div>'
-original_markdown_body: 'Virtual Volunteer Orientation | Orange County   February
-  17, 2026 @ 6:30 pm - 7:30 pm          Coachella Valley  |   Food Industry  |   
-  Los Angeles   |    Nevada   |   Orange County   |   Riverside & San Bernardino | 
-   San Diego  |  Santa Barbara  |   Washington         « All Events  Virtual Volunteer
-  Orientation | Orange County   February 17, 2026 @ 6:30 pm - 7:30 pm     Are you
-  willing and able to give your time and talent to help kids who need safety, loving
-  homes, or an encouraging word and smile? At Olive Crest, we appreciate and love
-  our volunteers—and we need more. Join us for a virtual volunteer orientation to
-  learn more about different volunteer options at Olive Crest in Orange County! Click
-  here to join the orientation. 2026 Orientations | 6:30 – 7:30 PM Every 3rd Tuesday
-  of the month         Google Calendar     iCalendar     Outlook 365     Outlook Live           Details    Date:   February
-  17, 2026     Time:   6:30 pm - 7:30 pm     Event Categories: California, Orange
-  County   Website:  https://olivecrest-org.zoom.us/meeting/register/tZYvcO-rrDwsHN1m6r7yQLJmmfp0BRFRB8Qp'
+images: []
+location: ''
+locations: []
 published: false
 source: Olive Crest
 source_url: https://www.olivecrest.org/calendar/virtual-volunteer-orientation-orange-county-10/

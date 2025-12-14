@@ -1,17 +1,13 @@
 ---
 date: '2025-12-10T02:09:47+00:00'
+feed_content: Due to severe weather conditions and damage to the roads, as of today,
+  Dec. 9, the SE Edgewick Road at 453rd Avenue SE will be restricted to one lane.
+  The road may need to be closed completely. Crews will work on the road beginning
+  Dec. 10, and there will be intermittent closures. Your safety is […]
+feed_content_checksum: b88c1843148a3a7f7868625f00575a17b3476684
 images: []
 locations:
 - King County
-original_content: Due to severe weather conditions and damage to the roads, as of
-  today, Dec. 9, the SE Edgewick Road at 453rd Avenue SE will be restricted to one
-  lane. The road may need to be closed completely. Crews will work on the road beginning
-  Dec. 10, and there will be intermittent closures. Your safety is […]
-original_content_checksum: b88c1843148a3a7f7868625f00575a17b3476684
-original_markdown_body: Due to severe weather conditions and damage to the roads,
-  as of today, Dec. 9, the SE Edgewick Road at 453rd Avenue SE will be restricted
-  to one lane. The road may need to be closed completely. Crews will work on the road
-  beginning Dec. 10, and there will be intermittent closures. Your safety is […]
 published: false
 rss_guid: https://kcemergency.com/2025/12/09/edgewick-flooding-alert/
 source: King County Emergency Management

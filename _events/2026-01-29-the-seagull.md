@@ -1,10 +1,6 @@
 ---
 end_date: '2026-01-29T21:30:00-08:00'
-images: []
-location: Floyd and Delores Jones Playhouse Theater (PHT)
-locations:
-- King County
-original_content: <div class="max-bound"> <div class="hero-image--large"> <div class="hero">
+feed_content: <div class="max-bound"> <div class="hero-image--large"> <div class="hero">
   <div class="hero__content"> <div class="hero__content-inner"> <h1> <span>The Seagull</span>
   </h1> </div> </div> </div> </div> <div class="page-content"> <div class="layout-content">
   <div class="page-body"> <div class="page-body__inner"> <div> <div id="block-uw-castrum-dwf-content">
@@ -94,33 +90,10 @@ original_content: <div class="max-bound"> <div class="hero-image--large"> <div c
   class="field-label">Season or Series</div> <div class="field-items"> <div class="field-item"><a
   href="/2025-2026-season" hreflang="und">2025-2026 Season</a></div> </div> </div>
   </div> </div> </article> </div> </div> </div> </div> </div> </div> </div>
-original_markdown_body: The Seagull                   Thu, Jan 29 - Sun, Feb 8 2026      Floyd
-  and Delores Jones Playhouse     4045 University Way NE - Google Map         Buy
-  Tickets      $10 - $23      Performance Showtimes   Thu, Jan 29 2026, 7:30pm   Fri,
-  Jan 30 2026, 7:30pm   Sat, Jan 31 2026, 7:30pm   Sun, Feb 1 2026, 2pm   Wed, Feb
-  4 2026, 7:30pm   Thu, Feb 5 2026, 7:30pm   Fri, Feb 6 2026, 7:30pm   Sat, Feb 7
-  2026, 2pm   Sat, Feb 7 2026, 7:30pm   Sun, Feb 8 2026, 2pm       "Why are we worn
-  out? Why do we, who start out so passionate, brave, noble, believing, become totally
-  bankrupt by the age of thirty of thirty-five? Why is it that, once fallen, we do
-  not try to rise, and, having lost one thing, we do not seek another? Why?"   In
-  this new translation of Chekhov’s ”serious comedy of human contradictions”, a group
-  of artists and dreamers meet in the countryside and wrestle with the costs of ambition,
-  unspoken longings, and the harsh realities of artistic pursuits. Set against a backdrop
-  of love, passionate aspirations, and the search for meaning, The Seagull captures
-  the fierce hopes and quiet heartbreaks of an artistic career.  Directed by MFA Student
-  Sebastián Bravo Montenegro.    The SeagullBy Anton ChekhovNew adaptation by Richard
-  Nelson, Richard Pevear, and Larissa PevearDirected by Sebastián Bravo MontenegroJanuary
-  29 - February 8, 2026Previews January 23 & 26, 2026  Floyd and Delores Jones Playhouse     Cast    Konstantin
-  Jaris Owens   Nina Taylor McWilliams-Woods   Arkadina Marena Kleinpeter   Trigorin
-  Sebastian Wang   Sorin Jerik Fernandez   Dorn Yeonshin Kim   Masha Olivia Hyzy   Medvedenko
-  Minki Bai   Polina Adriana Gonzales   Shamraev Sean Morrin   Yakov/Medvedenko &
-  Dorn Orion Aungst   Cook/Arkadina Understudy Grace Abbot   Maid/Nina Understudy
-  Zo Eisenbrey   Masha/Polina Understudy Bella Morris      Creative Team     Director
-  Sebastián Bravo Montenegro   Scenic Designer Porter Lance   Costume Designer Nour
-  Afifi   Lighting Designer Marley Keith   Sound Designer Gideon Hall   Stage Manager
-  Aly Lubiens   ˚ Undergraduate student at UW      *Graduate student at UW †School
-  of Drama faculty/staff member      Event Type  Performances    Season or Series  2025-2026
-  Season
+images: []
+location: Floyd and Delores Jones Playhouse Theater (PHT)
+locations:
+- King County
 published: false
 source: University of Washington
 source_url: https://drama.washington.edu/events/2026-01-29/seagull

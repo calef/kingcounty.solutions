@@ -4,9 +4,6 @@ images: []
 location: ''
 locations:
 - King County
-original_markdown_body: A vital initiative that assesses homelessness in the region,
-  where volunteers will help conduct surveys and gather information from individuals
-  experiencing homelessness.
 source: King County Regional Homelessness Authority
 source_url: https://kcrha.org/news-volunteer-for-the-2026-point-in-time-count/
 start_date: '2026-01-26T00:00:00-08:00'

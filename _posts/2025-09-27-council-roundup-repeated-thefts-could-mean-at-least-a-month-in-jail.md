@@ -2,10 +2,7 @@
 date: '2025-09-27T18:53:27+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Council
+feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Council
   Roundup: Repeated thefts could mean at least a month in jail</span>\n<span class=\"field
   field--name-uid field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/mdegrand\"
   typeof=\"schema:Person\" property=\"schema:name\" datatype>MDeGrand</span></span>\n<span
@@ -65,55 +62,9 @@ original_content: "<span class=\"field field--name-title field--type-string fiel
   field--name-field-article-date field--type-datetime field--label-hidden field__item\"><time
   datetime=\"2025-09-27T12:00:00Z\" class=\"datetime\">September 27 2025</time>\n</div>\n
   \     \n    </div>\n  </div>"
-original_markdown_body: "Council Roundup: Repeated thefts could mean at least a month
-  in jailMDeGrand<time datetime=\"2025-09-27T11:53:27-07:00\" title=\"Saturday, September
-  27, 2025 - 11:53\" class=\"datetime\">Sat, 09/27/2025 - 11:53</time>\n\nPlus, Housing
-  Accord Program helps reduce evictions and city receives Public Benefit Rating System
-  application\n\nThe City Council on Tuesday voted to prepare a city ordinance that
-  would set minimum sentencing requirements for repeat offenders of certain theft
-  crimes in Bellevue, including shoplifting.\n\nThe ordinance would set a 30-day minimum
-  jail sentence for offenders of third-degree theft crimes if the offender has two
-  or more prior theft convictions in Washington state within the last two years. The
-  ordinance would provide for certain exceptions to the minimum jail sentence, such
-  as participation in diversion programs, community court, and mental health and substance
-  abuse treatment, and when there is substantial risk of mental or physical harm,
-  serving the sentence by electronic home monitoring.\n\nCouncilmembers voted 6-1
-  to prepare the ordinance for action at a future meeting, with Councilmember Dave
-  Hamilton voting no. The council also requested a check-in on the ordinance after
-  one year.\n\nThe [full discussion](https://youtu.be/ZbI03CKzb8s?t=5276) is available
-  through a replay of the meeting on Bellevue Television. &nbsp;\n\n#### Housing Accord
-  Program helps reduce evictions\n\nThe council also received an update on the Conflict
-  Resolution Center’s Housing Accord Program, which focuses on building positive relationships
-  between tenants and landlords to reduce evictions and prevent homelessness.\n\nSince
-  2023, the program has managed 454 landlord-tenant cases and provided support to
-  more than 100 property managers. The program has nurtured relationships with property
-  managers, negotiated repayment plans and helped solidify agreements on maintenance
-  and other issues.\n\nAdditional information about the council presentation on the
-  program is in the [meeting materials](https://bellevue.legistar.com/LegislationDetail.aspx?ID=7665317&GUID=C45BE49A-0DA3-40B9-B188-29E7B4486EE0).\n\n####
-  Public Benefit Rating System application\n\nIn advance of an upcoming Oct. 14 public
-  hearing, the council reviewed a Bridle Trails resident’s application to have a portion
-  of his property reclassified as open space.\n\nThe property owner is applying for
-  a reclassification through the King County Public Benefit Rating System program,
-  which allows private property owners to conserve natural resources and protect wildlife
-  habitat, open spaces, wetlands, forests and productive farmlands in exchange for
-  receiving a property tax reduction. Both the city and county must independently
-  and identically approve the application.\n\nAfter reviewing the application, the
-  city identified approximately 1.10 acres of the 1.33-acre property as potentially
-  eligible for the public benefit rating system program. Further analysis and recommendations
-  will be provided at the upcoming city public hearing. More information is available
-  in the meeting [agenda materials](https://bellevue.legistar.com/LegislationDetail.aspx?ID=7665308&GUID=47E1EABD-308A-4D70-8B83-EE53E9804B6F).\n\n####
-  Proclamations for Domestic Violence Action Month, Filipino American History Month
-  and Disability Employment Awareness Month\n\nThe council issued a proclamation in
-  honor of D[omestic Violence Action Month](https://bellevue.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=11200)
-  to raise awareness of the societal impacts of domestic violence and resources available
-  to survivors. They also issued proclamations celebrating [Filipino American History
-  Month](https://bellevue.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=11201)
-  and raising awareness for [Disability Employment Awareness Month](https://bellevue.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=11202),
-  which celebrates the contributions and talents of people with disabilities in our
-  workplaces and recognizes the employment barriers they face.\n\nNote: Council meetings
-  are not held on the fifth week of the month. The next Bellevue City Council meeting
-  will be held on Tuesday, Oct. 7.&nbsp;  \n&nbsp;\n\n<time datetime=\"2025-09-27T12:00:00Z\"
-  class=\"datetime\">September 27 2025</time>"
+images: []
+locations:
+- King County
 source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/council-roundup-repeated-thefts-could-mean-least-month-jail
 summarized: true

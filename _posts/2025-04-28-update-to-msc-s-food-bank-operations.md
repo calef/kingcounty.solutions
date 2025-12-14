@@ -2,19 +2,14 @@
 date: '2025-04-28T17:15:01+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: Providing nutritious food for our neighbors is a vital resource
-  that MSC continues to prioritize as one of our core services in our community. Unfortunately,
+feed_content: Providing nutritious food for our neighbors is a vital resource that
+  MSC continues to prioritize as one of our core services in our community. Unfortunately,
   funding for food banks is declining significantly as need is increasing with inflation
   and rising food costs.   Last fall, we began efforts to address a deficit in our
   food  [...]
-original_markdown_body: Providing nutritious food for our neighbors is a vital resource
-  that MSC continues to prioritize as one of our core services in our community. Unfortunately,
-  funding for food banks is declining significantly as need is increasing with inflation
-  and rising food costs.&nbsp;&nbsp; Last fall, we began efforts to address a deficit
-  in our food [...]
+images: []
+locations:
+- King County
 source: Multi-Service Center
 source_url: https://mschelps.org/update-to-mscs-food-bank-operations/
 summarized: true

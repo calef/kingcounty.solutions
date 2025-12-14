@@ -1,10 +1,6 @@
 ---
 end_date: '2026-01-17T21:30:00-08:00'
-images: []
-location: Meany Hall (MNY)
-locations:
-- King County
-original_content: '<a href="#main-content" class="element-invisible element-focusable">Skip
+feed_content: '<a href="#main-content" class="element-invisible element-focusable">Skip
   to main content</a> <div class="l-page has-one-sidebar has-sidebar-first"> <div
   class="full-wrapper header"> <header class="l-header" role="banner"> <a href="#main-content"
   class="element-invisible element-focusable">Skip to main content</a> <div class="l-branding">
@@ -132,37 +128,10 @@ original_content: '<a href="#main-content" class="element-invisible element-focu
   <a href="https://www.youtube.com/@KarimSulaymanTenor">Karim Sulayman YouTube</a>|
   <a href="https://www.youtube.com/user/seanstshibe">Sean Shibe YouTube</a> </div>
   </div> </div> </div> </div> </div> </div> </div> </div> </div>'
-original_markdown_body: 'Skip to main content    Skip to main content  Meany Center  Official
-  Site   Show Navigation Hide Navigation    My Account  Calendar                  fy26-sulayman-shibe-hero.jpg             You
-  are here  Events & Tickets >Karim Sulayman, tenor & Sean Shibe, guitar     Karim
-  Sulayman, tenor & Sean Shibe, guitar Broken Branches Jan 172026           Performance
-  Dates    Sat Jan 17 2026 7:30 PM      Buy TicketsSubscribe Now    Venue   Meany
-  Hall – Katharyn Alvord Gerlich Theater     ticket@uw.edu   (206) 543-4880   Get
-  Directions      Share    Share on Facebook       Karim Sulayman — lauded for his
-  “velvety tenor and pop-star charisma” (BBC Music Magazine) — joins guitarist Sean
-  Shibe, whose “music-making is masterful, beautiful and convincing in every way”
-  (The Times, UK), for an intimate recital of music ranging from the Middle Ages to
-  the present. This compelling musical journey examines the close cultural and musical
-  ties between East and West, reflecting the artists’ personal experiences with roots
-  in Lebanon and Japan.    PROGRAM HENRY PURCELL: Music for a While JOHN DOWLAND:
-  Praeludium; Fantasia; Time Stands Still GIULIO CACCINI: Dalla porta d’oriente CLAUDIO
-  MONTEVERDI: Si dolce è’l tormento; La mia turca TRADITIONAL: La prima vez (Sephardic) 
-  TRADITIONAL: Lamma bada yetathanna (Arab Andalusian) SAYED DARWISH: El Helwa Di
-  RODRIGO/FAIRUZ: Li Beirut JONATHAN HARVEY: Sufi Dance  LAYALE CHAKER: A Butterfly
-  in New York TŌRU TAKEMITSU: In the Woods: Wainscot Pond BENJAMIN BRITTEN: Songs
-  from the Chinese    Chamber Music Series generously underwritten by Cecilia Paul
-  & Harry Reinert and Eric & Margaret Rothchild​                Upcoming Site Maintenance
-  This site will undergo planned maintenance December 13–17. During this period, online
-  ticket purchases will be unavailable. To buy a ticket, please contact the ArtsUW
-  Ticket Office.  Contact Us    Subscriber Care Commitment We are committed to making
-  your Meany experience the best it can be.  LEARN MORE    Subscriber Extra Tickets
-  Save 10% on additional tickets. Enjoy pre-sale access to special events.  Add Now    Accessibility
-  The University of Washington is committed to providing access, equal opportunity
-  and reasonable accommodation in its services, programs and activities for individuals
-  with disabilities.   Learn More              Watch       li_beirut_fairuz_-_arr._duvallkaplan_-_karim_sulayman_with_eighth_blackbird                Learn
-  More       About the Artist     Karim Sulayman Official Website| Sean Shibe Official
-  Website| Karim Sulayman Facebook| Sean Shibe Facebook| Karim Sulayman Instagram|
-  Sean Shibe Instagram| Karim Sulayman YouTube| Sean Shibe YouTube'
+images: []
+location: Meany Hall (MNY)
+locations:
+- King County
 published: false
 source: University of Washington
 source_url: https://meanycenter.org/tickets/2026-01/production/karim-sulayman-tenor-sean-shibe-guitar

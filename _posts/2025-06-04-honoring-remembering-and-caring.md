@@ -2,10 +2,7 @@
 date: '2025-06-04T19:28:35+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: |-
+feed_content: |-
   ![](https://sophiaway.org/wp-content/uploads/2025/06/NL-image-for-blog-06.png)
 
   June is a month to reflect and to celebrate. It’s Pride Month – a time to honor the resilience, joy, and rights of LGBTQIA+ communities. And on June 19th, we recognize Juneteenth, the day that marks the end of slavery in the United States. Both moments invite us to recommit to justice, equity, and inclusion.
@@ -23,6 +20,9 @@ original_content: |-
   This month, and every day, we celebrate the strength and resilience of the women we walk alongside. We’re grateful for their trust and for your support in giving them shelter, safety, and stability.
 
   The post [Honoring, Remembering, and Caring](https://sophiaway.org/honoring-remembering-caring/) first appeared on [The Sophia Way](https://sophiaway.org).
+images: []
+locations:
+- King County
 source: The Sophia Way
 source_url: https://sophiaway.org/honoring-remembering-caring/?utm_source=rss&utm_medium=rss&utm_campaign=honoring-remembering-caring
 summarized: true
