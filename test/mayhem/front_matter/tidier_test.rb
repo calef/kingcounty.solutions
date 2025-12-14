@@ -153,4 +153,21 @@ class FrontMatterTidierTest < Minitest::Test
       assert_equal "Just body text\n", content
     end
   end
+
+  def test_tables_are_surrounded_by_blank_lines
+    original = <<~MD
+      ---
+      title: Table Doc
+      ---
+      Intro paragraph.
+      | Col1 | Col2 |
+      | ---- | ---- |
+      | A    | B    |
+      Following paragraph.
+    MD
+
+    result = @tidier.tidy_markdown(original)
+
+    assert_includes result, "Intro paragraph.\n\n| Col1 | Col2 |\n| ---- | ---- |\n| A    | B    |\n\nFollowing paragraph.\n"
+  end
 end
