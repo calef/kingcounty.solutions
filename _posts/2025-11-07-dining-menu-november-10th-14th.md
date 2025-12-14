@@ -2,9 +2,7 @@
 date: '2025-11-07T23:00:00+00:00'
 events: []
 events_extracted: true
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   <p><strong>Monday ~</strong> Chicken Tamale Pie, Soup, Salad &amp; Fruit</p>
 
 
@@ -35,20 +33,8 @@ original_content: |-
 
   <p></p>
   <p>The post <a href="https://ballardseniorcenter.org/dining-menu-november-10-14/">Dining Menu November 10th &#8211; 14th</a> appeared first on <a href="https://ballardseniorcenter.org">Ballard Senior Center</a>.</p>
-original_markdown_body: |-
-  **Monday ~** Chicken Tamale Pie, Soup, Salad & Fruit
-
-  **Tuesday ~** BNWSC is closed for Veterans Day.
-
-  **Wednesday ~** Pasta & Veggie Marinara, Garlic Bread, Salad, Fruit
-
-  **Thursday ~** Ruben Sandwich, Veggie Soup, Fruit & Dessert
-
-  **Friday ~** Chicken Tenders, Mac & Cheese, Garden Salad & Fruit
-
-  **[Wednesday Night Dinner](https://ballardseniorcenter.org/events/wednesday-happy-hour-dinner-bingo/)~** Lemon Chicken w/Rice Pilaf, Veggies, Soup & Dessert
-
-  The post [Dining Menu November 10th – 14th](https://ballardseniorcenter.org/dining-menu-november-10-14/) appeared first on [Ballard Senior Center](https://ballardseniorcenter.org).
+images: []
+locations: []
 published: false
 source: Ballard Northwest Senior Center
 source_url: https://ballardseniorcenter.org/dining-menu-november-10-14/

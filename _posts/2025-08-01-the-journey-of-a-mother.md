@@ -2,13 +2,13 @@
 date: '2025-08-01T23:04:12+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: |-
+feed_content: |-
   The Journey of a Mother After a harrowing year-long wait, Durga arrived in the US from India with a meagre 200 dollars. Her daughters needed their mother – the only [...]
 
   [Read More... from The Journey of a Mother](https://iacswa.org/journey-of-a-mother/)
+images: []
+locations:
+- King County
 source: Indian American Community Services
 source_url: https://iacswa.org/journey-of-a-mother/
 summarized: true

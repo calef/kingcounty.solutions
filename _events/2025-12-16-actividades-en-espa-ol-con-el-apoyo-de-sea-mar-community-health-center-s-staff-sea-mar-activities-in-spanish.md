@@ -1,11 +1,6 @@
 ---
 end_date: '2025-12-16T14:00:00-08:00'
-images: []
-location: The Center for Active Living, 4217 SW Oregon St., Seattle, WA, 98116, United
-  States
-locations:
-- King County
-original_content: '<a aria-label="Skip to content" class="fl-screen-reader-text" href="#fl-main-content">Skip
+feed_content: '<a aria-label="Skip to content" class="fl-screen-reader-text" href="#fl-main-content">Skip
   to content</a><div class="fl-page"> <header class="fl-builder-content fl-builder-content-12203
   fl-builder-global-templates-locked" data-post-id="12203" data-type="header" data-sticky="0"
   data-sticky-on="" data-sticky-breakpoint="medium" data-shrink="0" data-overlay="0"
@@ -177,28 +172,11 @@ original_content: '<a aria-label="Skip to content" class="fl-screen-reader-text"
   </div> </div> </div> <a href="#" role="button" id="fl-to-top"><span class="sr-only">Scroll
   To Top</span></a> <script id="wp-emoji-settings" type="application/json"> {"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://wscenter.org/wp-includes/js/wp-emoji-release.min.js?ver=6.9"}}
   </script>'
-original_markdown_body: 'Skip to content             We used to be called the Senior
-  Center of West Seattle.               Join       Donate                 Facebook     Instagram     YouTube     LinkedIn                            Activities
-  & Events                             Actividades En Español Con El Apoyo De Sea
-  Mar Community Health Center’s Staff / Sea Mar Activities In Spanish       Tuesday,
-  December 16, 2025 at 9:00 am - 2:00 pm      El Personal de Sea Mar le da la bienvenida
-  a todos los miembros para disfrutar de un día completo de actividades divertidas,
-  socialización, almuerzo, información, asistencia y recursos en Español. Para obtener
-  más información, envíe un correo electrónico a Yanin Diaz: yanindiaz@sea.m.archc.org
-  o 206-227-6025. We welcome all members of the Latinx community for a full day of
-  activities, social time, lunch information, assistance and resources. For more info,
-  contact Yanin Diaz: yanindiaz@sea.m.archc.org or 206-227-6025. Martes (Tuesdays),
-  9 a.m.-2 p.m.     Actividades En Español              Calendar       Membership                  Location    The
-  Center for Active Living     4217 SW Oregon St. Seattle, WA 98116 United States  +
-  Google Map    Phone  206-932-4044     View Location Website                   Google
-  Calendar     iCalendar     Outlook 365     Outlook Live                   Related
-  Events    Actividades En Español Con El Apoyo De Sea Mar Community Health Center’s
-  Staff / Sea Mar Activities In Spanish Tuesday, December 9, 2025 at 9:00 am - 2:00
-  pm     Actividades En Español Con El Apoyo De Sea Mar Community Health Center’s
-  Staff / Sea Mar Activities In Spanish Tuesday, December 23, 2025 at 9:00 am - 2:00
-  pm     Actividades En Español Con El Apoyo De Sea Mar Community Health Center’s
-  Staff / Sea Mar Activities In Spanish Tuesday, January 6, 2026 at 9:00 am - 2:00
-  pm             Calendar                 Scroll To Top  {"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://wscenter.org/wp-includes/js/wp-emoji-release.min.js?ver=6.9"}}'
+images: []
+location: The Center for Active Living, 4217 SW Oregon St., Seattle, WA, 98116, United
+  States
+locations:
+- King County
 published: false
 source: The Center for Active Living
 source_url: https://wscenter.org/event/sea-mar-activities-in-spanish/2025-12-16/

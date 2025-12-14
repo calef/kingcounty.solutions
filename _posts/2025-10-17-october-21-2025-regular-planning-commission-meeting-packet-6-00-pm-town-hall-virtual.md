@@ -1,8 +1,6 @@
 ---
 date: '2025-10-17T17:25:42+00:00'
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   [COMPLETE PACKET](https://yarrowpointwa.gov/wp-content/uploads/2025/10/10-October-21-2025-Regular-Meeting.pdf)
 
   Notice is hereby given that on October 21, 2025, the Town Planning Commission will hold a regular meeting at Town Hall at 6:00 PM.
@@ -30,6 +28,8 @@ original_content: |-
   Your attendance is always encouraged.
 
   Thank you.
+images: []
+locations: []
 published: false
 source: Town of Yarrow Point
 source_url: https://yarrowpointwa.gov/2025/10/october-21-2025-regular-planning-commission-meeting-packet-600-pm-town-hall-virtual/

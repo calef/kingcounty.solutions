@@ -1,8 +1,6 @@
 ---
 date: '2025-11-04T21:01:37+00:00'
-images: []
-locations: []
-original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Community
+feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Community
   invited to share input by Nov. 12 on Bellevue’s water plans </span>\n<span class=\"field
   field--name-uid field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/arich\"
   typeof=\"schema:Person\" property=\"schema:name\" datatype>ARich</span></span>\n<span
@@ -35,20 +33,8 @@ original_content: "<span class=\"field field--name-title field--type-string fiel
   \           <div class=\"field field--name-field-article-date field--type-datetime
   field--label-hidden field__item\"><time datetime=\"2025-11-04T12:00:00Z\" class=\"datetime\">November
   4 2025</time>\n</div>\n      \n    </div>\n  </div>"
-original_markdown_body: |-
-  Community invited to share input by Nov. 12 on Bellevue’s water plans ARich<time datetime="2025-11-04T13:01:37-08:00" title="Tuesday, November 4, 2025 - 13:01" class="datetime">Tue, 11/04/2025 - 13:01</time>
-
-   ![Vehicles traveling in high water on a flooded street. Additional vehicles and trees in the background.](https://bellevuewa.gov/sites/default/files/styles/article_featured_image/public/media/article_featured_image/2025-11/utilities-11042015-factoria-flooding-photo.jpg?h=525c20e5&itok=QfAq5wAr)
-
-  Bellevue Utilities is updating three essential plans that guide how the city manages its storm and surface water, drinking water, and wastewater systems. These plans help ensure Bellevue continues to provide reliable services, protect the environment and support a healthy, thriving community.
-
-  “No one likes flooded streets, polluted waterways, or declining plant and animal habitats,” said Lucy Liu, Utilities Director. “We want to hear from residents about their priorities as we plan for the city’s future water needs.”
-
-  Residents are invited to share feedback by Nov. 12 through a short online survey and to apply for a focus group to discuss community values and water priorities in more detail.
-
-  Visit the project website at [BellevueWA.gov/ssw-plan](https://bellevuewa.gov/city-government/departments/utilities/utilities-projects-plans-standards/utilities-plans-and-reports/storm-and-surface-water-system-plan "go to page") to learn more about the plans, take the survey or apply to participate in a focus group.&nbsp;
-
-  <time datetime="2025-11-04T12:00:00Z" class="datetime">November 4 2025</time>
+images: []
+locations: []
 published: false
 source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/community-invited-share-input-nov-12-bellevues-water-plans

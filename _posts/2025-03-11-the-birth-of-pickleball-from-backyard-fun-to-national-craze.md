@@ -1,11 +1,9 @@
 ---
 date: '2025-03-11T07:09:45+00:00'
+feed_content: Pickleball is sweeping the country, quickly becoming one of the fastest-growing
+  sports in the U.S. Across the nation—especially in the...
 images: []
 locations: []
-original_content: Pickleball is sweeping the country, quickly becoming one of the
-  fastest-growing sports in the U.S. Across the nation—especially in the...
-original_markdown_body: Pickleball is sweeping the country, quickly becoming one of
-  the fastest-growing sports in the U.S. Across the nation—especially in the...
 published: false
 source: Eastside Friends of Seniors
 source_url: https://www.eastsidefriendsofseniors.org/post/the-birth-of-pickleball-from-backyard-fun-to-national-craze

@@ -1,10 +1,6 @@
 ---
 end_date: '2025-12-16T14:00:00-08:00'
-images: []
-location: WA
-locations:
-- King County
-original_content: '<div class="ast-container"> <section id="tribe-events-pg-template"
+feed_content: '<div class="ast-container"> <section id="tribe-events-pg-template"
   class="tribe-events-pg-template" role="main"> <div id="tribe-events-content" class="tribe-events-single">
   <p class="tribe-events-back"> <a href="https://togethercenter.org/events/"> « All
   Events</a> </p> <div class="tribe-events-series-relationship-single-marker tribe-common">
@@ -88,29 +84,10 @@ original_content: '<div class="ast-container"> <section id="tribe-events-pg-temp
   – Cantonese and Mandarin</a></h3> <span class="tribe-event-date-start">December
   9 @ 9:00 am</span> - <span class="tribe-event-time">5:00 pm</span> </div> </li>
   </ul> </div> </div> </section> </div>'
-original_markdown_body: "« All Events    Event Series:    Essentials First Redmond
-  Distribution Location    Essentials First Redmond Distribution Location   December
-  16 @ 10:00 am - 2:00 pm     Hours: Monday-Friday 10 AM-2 PM Description: Essentials
-  First provides and advocates for essential hygiene access for anyone who needs it.
-  At our Redmond Distribution Location, community members are welcome on a walk-in
-  basis and can receive essential hygiene kits, snack packs, and ORCA cards. ALL ARE
-  WELCOME! Many of our clients are: low income families and individuals; unhoused
-  and underhoused neighbors; immigrants, refugees, and asylum-seekers; multi-generational
-  households; single parents and kinship caregivers; elders; those living with disabilities;
-  caregivers; anyone experiencing hardship or in need of hygiene support for any reason.
-  Eligibility standards: Though our services are intended for those who cannot reasonably
-  access these supplies independently, no concrete eligibility requirements exist
-  at this time. Intake instructions: please bring ID and be prepared to fill out a
-  short intake form with the help of Essentials First staff. Your personal information
-  remains confidential and secure and will never be shared outside of our intake system.
-  Walk-ins welcome: yes         Google Calendar     iCalendar     Outlook 365     Outlook
-  Live           Details    Date:   December 16     Time:   10:00 am - 2:00 pm    Series:
-  \   Essentials First Redmond Distribution Location    Event Category: Open Office
-  Hours   Website:  https://www.essentialsfirst.org/      Organizer   Essentials First
-  \   View Organizer Website       Related Events    Essentials First Redmond Distribution
-  Location December 8 @ 10:00 am - 2:00 pm     WorkSource December 8 @ 1:00 pm - 5:00
-  pm     CISC – Medical Insurance Consulting Service – Cantonese and Mandarin December
-  9 @ 9:00 am - 5:00 pm"
+images: []
+location: WA
+locations:
+- King County
 source: Together Center
 source_url: https://togethercenter.org/event/essentials-first-redmond-distribution-location/2025-12-16/
 start_date: '2025-12-16T10:00:00-08:00'

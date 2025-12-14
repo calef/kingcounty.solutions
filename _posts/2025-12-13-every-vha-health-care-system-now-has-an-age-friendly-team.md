@@ -2,10 +2,7 @@
 date: '2025-12-13T21:30:00+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <h2>Enhancing the well-being of aging Veterans</h2>
 
 
@@ -47,27 +44,10 @@ original_content: |-
 
 
   <p></p>
-original_content_checksum: f534921eb0134eb5585fb3000a1948b18b00bcde
-original_markdown_body: |-
-  ## Enhancing the well-being of aging Veterans
-
-  VHA is proud to announce a remarkable achievement for Veterans: Every VHA Health Care System now includes at least one team recognized as an Age-Friendly Health System. This accomplishment, achieved in just five years, spans approximately 500 VA teams nationwide, highlighting VHA’s unwavering dedication to enhancing the well-being of aging Veterans through Age-Friendly care.
-
-  The Age-Friendly Health System movement propels VA’s focus on Veterans by adopting the&nbsp;4Ms Framework—What Matters, Medication, Mentation and Mobility. Becoming an Age-Friendly Health System delivers vast benefits to health care systems, providers and most importantly, prioritizes the needs and preferences of older Veterans.
-
-  ## Age-friendly success story: Veteran triumphs with the 4Ms framework
-
-  Manuel Velasco, an 87-year-old Veteran who is wheelchair-bound due to chronic hemiplegia, showcased the transformational power of the 4Ms Framework. Despite his condition, he lived independently with his wife until a routine follow-up revealed his disheveled appearance, leading to his ER admission and subsequent placement in a Community Living Center (CLC).
-
-  At the CLC, the team discovered what mattered most to Velasco: returning home. He was completely dependent with his Activities of Daily Living (ADL) but still wanted to live independently at home. He felt trapped in the CLC and expressed feelings of depression and suicidal ideation, stemming from his fear of institutionalization.
-
-  ## Home sweet home
-
-  Through the tireless efforts of the health care team and the structured application of the 4Ms Framework, Velasco’s heartfelt wish to return home was realized. The team provided suitable equipment, coordinated home-based care and supported his primary caregivers, enabling him to live happily at home.
-
-  By focusing on what truly matters to each Veteran, we ensure they receive personalized, holistic care that supports their goals and promotes their independence.
-
-  As we advance these vital practices, we remain committed to offering every Veteran the dedicated care they deserve. Learn more about the Age-Friendly Health Systems Initiative.
+feed_content_checksum: f534921eb0134eb5585fb3000a1948b18b00bcde
+images: []
+locations:
+- King County
 rss_guid: https://news.va.gov/?p=143884
 source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143884/vha-health-care-system-has-age-friendly-team/

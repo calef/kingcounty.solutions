@@ -1,10 +1,6 @@
 ---
 end_date: '2025-12-17T10:30:00-08:00'
-images: []
-location: "[ONLINE] EvergreenHealth"
-locations:
-- King County
-original_content: "<header> <div> <div><div> <div><div> <a>Lifeline</a> | 206.297.2500
+feed_content: "<header> <div> <div><div> <div><div> <a>Lifeline</a> | 206.297.2500
   | 1.800.255.5505 | <a>Lifeline Chat</a> </div></div> </div></div> </div> </header>
   <div> <div> <div> <div> <section> <div> <p> <a> « All Events</a> </p> <h1>The Emotional
   Roller Coaster of Cancer: Finding Balance Sponsored by EvergreenHealth</h1> <div>
@@ -37,25 +33,11 @@ original_content: "<header> <div> <div><div> <div><div> <a>Lifeline</a> | 206.29
   Us</a></li> </ul> </div> </aside><aside><h3>Get Involved</h3> <div> <ul> <li><a>Ways
   to Give</a></li> <li><a>Volunteer with Us</a></li> <li><a>Donate Now</a></li> <li><a>Planned
   Giving</a></li> </ul> </div> </aside> </div> </div> </div> </div>"
-original_content_checksum: 7e0f67a8b9b87170fb7890a9f4c61d858e3b048c
-original_markdown_body: 'Lifeline | 206.297.2500 | 1.800.255.5505 | Lifeline Chat             «
-  All Events  The Emotional Roller Coaster of Cancer: Finding Balance Sponsored by
-  EvergreenHealth   December 17 @ 9:30 am - 10:30 am  PST      Living with the uncertainty,
-  fear, anxiety and sadness that often accompany a cancer diagnosis can leave us feeling
-  undone and out of control. While these are normal, healthy emotions in response
-  to a life changing event, there are healthy and unhealthy ways to deal with them.
-  Come learn skills and strategies for coping well with the roller coaster of emotions
-  that come along with living with cancer. CLICK HERE TO REGISTER Need help getting
-  registered? Having trouble joining a class? Please call our Telephone Lifeline at
-  206-297-2500 M-F, 9am-5pm or connect with us through our Online Lifeline Chat.         Google
-  Calendar     iCalendar     Outlook 365     Outlook Live           Details    Date:   December
-  17     Time:   9:30 am - 10:30 am PST     Event Category: Presentations & Special
-  Events      Venue    [ONLINE] EvergreenHealth     Organizer   Denise Krouse, MC,
-  LMHC, MDFT                Info   6522 Fremont Ave N Seattle, WA 98103   Monday through
-  Friday 9:00 AM – 5:00 PM   [email protected]   Call Us: 1-206-297-2100   I’m New   FAQ
-  Classes Support Groups Programs & Services   About Us   Team History Partnerships
-  & Sponsors Jobs Privacy Policy Contact Us   Get Involved   Ways to Give Volunteer
-  with Us Donate Now Planned Giving'
+feed_content_checksum: 7e0f67a8b9b87170fb7890a9f4c61d858e3b048c
+images: []
+location: "[ONLINE] EvergreenHealth"
+locations:
+- King County
 source: Cancer Lifeline Financial Assistance for Cancer Patients
 source_url: https://cancerlifeline.org/event/the-emotional-roller-coaster-of-cancer-finding-balance-sponsored-by-evergreenhealth/
 start_date: '2025-12-17T09:30:00-08:00'

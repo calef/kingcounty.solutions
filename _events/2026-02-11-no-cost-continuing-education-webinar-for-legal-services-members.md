@@ -1,9 +1,6 @@
 ---
 end_date: '2026-02-11T16:00:00-05:00'
-images: []
-location: ''
-locations: []
-original_content: '<!DOCTYPE html> <html class="avada-html-layout-wide avada-html-header-position-top"
+feed_content: '<!DOCTYPE html> <html class="avada-html-layout-wide avada-html-header-position-top"
   lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#" prefix="og:
   https://ogp.me/ns#"> <head> <meta http-equiv="X-UA-Compatible" content="IE=edge"
   /> <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/> <meta name="viewport"
@@ -7705,7 +7702,9 @@ original_content: '<!DOCTYPE html> <html class="avada-html-layout-wide avada-htm
   .author{margin-top:1.5rem;font-size:18px;text-align:center;letter-spacing:2px}.fusion-testimonials.clean
   .author a{text-decoration:none}.fusion-testimonials.clean .avatar-above .testimonial-thumbnail{margin-bottom:1.5rem}.fusion-testimonials.clean
   .avatar-below .testimonial-thumbnail{margin-top:1.5rem}.fusion-text{--awb-content-alignment:initial;--awb-font-size:inherit;--awb-line-height:inhe'
-original_markdown_body: ''
+images: []
+location: ''
+locations: []
 published: false
 source: NOSSCR Referral Service
 source_url: https://nosscr.org/event/no-cost-continuing-education-webinar-for-legal-services-members/

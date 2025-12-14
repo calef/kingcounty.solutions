@@ -1,8 +1,6 @@
 ---
 date: '2025-11-25T19:50:43+00:00'
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   <p><span class="TextRun SCXW20729476 BCX8" lang="EN-US" xml:lang="EN-US" data-contrast="auto"><span class="NormalTextRun SCXW20729476 BCX8">A half-century ago, the Central District</span> <span class="NormalTextRun SCXW20729476 BCX8">came together to rename its library to reflect its community. </span></span></p>
 
 
@@ -128,58 +126,8 @@ original_content: |-
 
 
   <p></p>
-original_markdown_body: |-
-  A half-century ago, the Central District came together to rename its library to reflect its community.
-
-  On [**Saturday, Dec. 13, from noon to 5 p.m.**](https://www.spl.org/douglasstruth50), all of Seattle is invited to celebrate this milestone at the Douglass-Truth Branch, and honor its rich community histories.
-
-  The branch library opened in 1914, but it didn’t become the Douglass-Truth Branch until 1975, when neighborhood residents voted on a new name that would honor two prominent Black abolitionists, Frederick Douglass and Sojourner Truth. The renaming affirmed the branch’s connection to the Central District community.
-
-  On December 13, you can enjoy live jazz, take a branch history tour, and learn about the branch’s [African-American Collection](https://www.spl.org/books-and-media/unique-collections/african-american-collection), which started with a donation from Alpha Kappa Alpha Sorority, Inc.®, Delta Upsilon Omega Chapter in Seattle (AKA-DUO) in 1965 and has grown to become one of the largest collections of African American literature and history on the West Coast. There will also be opportunities to dream about the next 50 years at the branch.
-
-  ![Douglass-Truth 50th Anniversary celebration](https://i0.wp.com/blog.spl.org/wp-content/uploads/2025/11/DTH50th_Graphic.jpg?resize=1024%2C1024&ssl=1)
-
-  ### **Schedule for Dec. 13 renaming celebration at the Douglass-Truth Branch**
-
-  - **Noon to 12:30 p.m.:** &nbsp;Douglass-Truth Branch History Tours
-  - **12:30 p.m. to 1 p.m.:** &nbsp;Branch History Tour Follow-Up Q & A
-  - **1 p.m. to 2:30 p.m.:** &nbsp;Creative Engagement Program for all ages
-  - **3 p.m. to 4 p.m.:** &nbsp;Garfield Jazz Quartet performance
-  - **4:15 p.m. to 5 p.m.:** &nbsp;African American Collection Presentation & Tour
-
-  “The Douglass-Truth Branch stands as a living testament to the power of history, community, and purpose,” said Saunjah Brantley, President of AKA-DUO. “The women of Alpha Kappa Alpha Sorority, Inc.®, Delta Upsilon Omega chapter, are proud to be at the forefront of a movement that turned knowledge into action and legacy into light. The change signified solidifying representation for the heart of the community that beats in the walls of this Library and through every book of the collection.”
-
-  ### **What’s in a name? About the Douglass-Truth Branch**
-
-  When it opened on September 15, 1914, the Seattle Public Library branch at 23<sup>rd</sup> Avenue and E. Yesler Way was named the Henry L. Yesler Memorial Library to recognize Yesler’s early efforts to start a library in Seattle.
-
-  Seattle’s Central Area experienced many demographic transitions [in its first decades](https://www.spl.org/hours-and-locations/douglass-truth-branch/douglass-truth-branch-highlights). By the 1960s, the majority of the branch’s users were African American, but the Library was slow to adapt to the changing community. Leaders of AKA-DUO – including Dr. Millie Russell, Roberta Byrd Barr, and Ruth Marie Brown — partnered with branch librarian James Welsh to increase the branch’s relevance to the community, including launching the African American Collection in 1965.
-
-  Dr. Russell also worked with the Black Friends of the Yesler Library, AKA-DUO and other community groups to gather support for renaming the branch. In 1974, a [ballot](https://cdm16118.contentdm.oclc.org/digital/collection/p16118coll42/id/293/rec/30) was distributed to neighborhood residents, listing 10 names of notable African Americans. Frederick Douglass and Sojourner Truth tied for first place.
-
-  ![Douglass-Truth renaming ballot](https://i0.wp.com/blog.spl.org/wp-content/uploads/2025/11/Douglass-Truth-renaming-ballot.jpg?resize=292%2C754&ssl=1)
-  _The renaming ballot that was distributed to community residents in 1974. Frederick Douglass and Sojourner Truth tying for first place. From Seattle Room Digital Collections._
-
-  [In a letter](https://cdm16118.contentdm.oclc.org/digital/collection/p16118coll42/id/303/rec/34) to Seattle Mayor Wesley Uhlman, Dr. Russell described the renaming as the culmination of an “eight-year effort to rename the Central Area library to a name which would instill a deep oneness and response in our library.”
-
-  On Dec. 5, 1975, Mayor Uhlman issued a [proclamation](https://cdm16118.contentdm.oclc.org/digital/collection/p16118coll42/id/292/rec/38) to officially change the name, and a two-day celebration was held at the branch.
-
-  ![Dr. Millie Russell at the Douglass-Truth renaming ceremony on Dec. 5, 1975](https://i0.wp.com/blog.spl.org/wp-content/uploads/2025/11/Millie-Russell-at-Douglass-Truth-renamingjpg.jpg?resize=500%2C696&ssl=1)
-  _The Douglass-Truth renaming ceremony on Dec. 5, 1975. Pictured are (l to r) Robert Maxie, Vice President of the Library Board of Trustees; Cheryl Watson, Branch Librarian; Millie Russell, Friends of Douglass-Truth; and Seattle Mayor Wes Uhlman. From Seattle Room Digital Collections._
-
-  “As a hub of accessible knowledge for all people, the Douglass-Truth Branch embodies the history and legacy of the Central District,” said Stephanie Johnson-Toliver, president of the Black Heritage Society of Washington State.
-
-  “A passionate group called the Black Friends of Yesler Library led the charge to rename the branch to represent the tenacity of community. This action of civic engagement is the history and service that the Black Heritage Society of Washington State recognizes as the power of community.”
-
-  Find out more at the [Douglass-Truth Branch history page](https://www.spl.org/hours-and-locations/douglass-truth-branch/douglass-truth-branch-highlights) and in the [Seattle Room Digital Collections](https://cdm16118.contentdm.oclc.org/digital/search/searchterm/Seattle%20Public%20Library.%20Douglass-truth%20Branch/field/subjec/mode/exact/conn/and/order/datea/ad/asc), which includes photos and documents from the branch’s history, including one of [Dr. Russell at the renaming ceremony](https://cdm16118.contentdm.oclc.org/digital/collection/p16118coll42/id/236/rec/37) on Dec. 5, 1975.
-
-  The celebration will be presented in partnership with the Alpha Kappa Alpha Sorority, Inc.®, Delta Upsilon Omega Chapter in Seattle and the Black Heritage Society of Washington State, longtime community partners of the branch.
-
-  The renaming celebration is sponsored by donors of The Seattle Public Library Foundation. Find more information at [www.spl.org/DouglassTruth50](http://www.spl.org/DouglassTruth50)
-
-  [https://cdm16118.contentdm.oclc.org/digital/collection/p16118coll42/id/293/rec/30](https://cdm16118.contentdm.oclc.org/digital/collection/p16118coll42/id/293/rec/30)
-
-  &nbsp;
+images: []
+locations: []
 published: false
 source: Homework Help
 source_url: https://blog.spl.org/2025/11/25/power-of-community-celebrating-50-years-of-douglass-truth/

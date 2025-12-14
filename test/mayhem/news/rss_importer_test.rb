@@ -73,19 +73,19 @@ class RssImporterTest < Minitest::Test
         title: Locked version
         date: '#{@published_time.strftime("%Y-%m-%dT%H:%M:%S+00:00")}'
         source_url: https://example.com/locked
-        original_content: Locked body
+        feed_content: Locked body
         locked: true
         ---
         Locked summary
       MD
     )
 
-    original_content = File.read(locked_path)
+    locked_content = File.read(locked_path)
     @importer.run
 
     files = Dir.glob(File.join(@tmp_posts, '*.md'))
     assert_equal 1, files.length
-    assert_equal original_content, File.read(locked_path)
+    assert_equal locked_content, File.read(locked_path)
   end
 
   def test_register_post_tracks_link_and_guid_keys

@@ -2,10 +2,7 @@
 date: '2025-12-07T21:30:00+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <h2>Veteran and volunteer gives back through art</h2>
 
 
@@ -51,31 +48,10 @@ original_content: |-
 
 
   <p>This article was originally published on the <a>VA Minneapolis Health care System site </a> and has been edited for style and clarity.  </p>
-original_content_checksum: b9617c3e4594563357f6858302fd157ecdc994fa
-original_markdown_body: |-
-  ## Veteran and volunteer gives back through art
-
-  “It all started with art,” said volunteer Maggie DeRee. That’s how she began what is now a 25-year relationship with VA, clocking in nearly 28,000 volunteer hours.&nbsp;&nbsp;&nbsp;
-
-  DeRee, also a Veteran, went to basic training at a time when women were still referred to as “WACs,” the Women’s Army Corps. She served for 20 years in the Army Reserve as a chef. During that time, she served in Korea, where she learned a lot about kimchi, and also deployed to Saudi Arabia during Desert Storm.&nbsp;&nbsp;
-
-  Her love of art led her to the Veterans Creative Arts Festival. It was through that experience, and the people she met, that she became a volunteer and began giving back to the Veteran community.&nbsp;&nbsp;
-
-  ## A lifelong mission to serve through creativity and compassion
-
-  DeRee’s commitment and tireless efforts have touched the lives of countless individuals. Primarily assisting the Recreation/Creative Arts department with events and projects, she has contributed significantly to the Center for Development and Civic Engagement (CDCE) office. Since its inception, she has volunteered at the Monthly Pop-up Veteran Food Pantry, distributing fresh produce to those in need. She also played a vital role in the National Veterans Wheelchair Games, both 20 years ago and again this past summer when the Games were held in Minneapolis.&nbsp;
-
-  DeRee is a pillar of resilience, displaying her unwavering grit and commitment daily. Her radiant energy and enthusiasm infuse the entire office with positivity, lifting spirits and fostering a joyful atmosphere. Even in the face of adversity, she never fails to light up the room with her humor and infectious spirit.&nbsp;
-
-  Unfazed by inclement weather or any obstacles thrown her way, DeRee consistently demonstrates her devotion to serving Veterans. She is a perfect example of selflessness and dedication, enriching the lives of others through her unwavering commitment to VA’s mission.
-
-  Interested in volunteering with VA?
-
-  Fill out this form and your local representative will contact you.
-
-  * * *
-
-  This article was originally published on the VA Minneapolis Health care System site &nbsp;and has been edited for style and clarity.&nbsp;&nbsp;
+feed_content_checksum: b9617c3e4594563357f6858302fd157ecdc994fa
+images: []
+locations:
+- King County
 source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143687/veteran-volunteer-gives-28000-hours/
 summarized: true

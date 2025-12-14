@@ -1,10 +1,6 @@
 ---
 end_date: '2025-12-14T16:00:00-08:00'
-images: []
-location: Together Center, 16305 NE 87th St, Redmond, WA, 98052, United States
-locations:
-- King County
-original_content: '<div class="ast-container"> <section id="tribe-events-pg-template"
+feed_content: '<div class="ast-container"> <section id="tribe-events-pg-template"
   class="tribe-events-pg-template" role="main"> <div id="tribe-events-content" class="tribe-events-single">
   <p class="tribe-events-back"> <a href="https://togethercenter.org/events/"> « All
   Events</a> </p> <div class="tribe-events-series-relationship-single-marker tribe-common">
@@ -118,32 +114,10 @@ original_content: '<div class="ast-container"> <section id="tribe-events-pg-temp
   Wellness</a></h3> <span class="tribe-event-date-start">December 9 @ 6:00 pm</span>
   - <span class="tribe-event-time">8:30 pm</span> </div> </li> </ul> </div> </div>
   </section> </div>'
-original_markdown_body: "« All Events    Event Series:    Pride Across the Bridge
-  | Queer Figure Drawing    Pride Across the Bridge | Queer Figure Drawing   December
-  14 @ 2:00 pm - 4:00 pm  Free     Queer Figure Drawing   Dates: 1st and 3rd Sunday
-  of the Month Time: 2:00-4:00pm Activity Description Artists will take turns posing
-  for each other during these monthly free, laid-back clothed figure drawing session.
-  Feel free to come in your fancy clothes, your regular clothes, or even in costume.
-  Modeling is voluntary and attendees can choose how long they want to hold a pose.
-  No drawing instruction will be provided. Artists are responsible for bringing their
-  own drawing supplies. Facilitated by Jack from Wolfberry Studio LLC with support
-  from PAB volunteers A. and M. Transit: Buse: Redmond Transit Center is within walking
-  distance. Light Rail: Redmond Technology Station ~3 miles away  Masks encouraged
-  to keep our community safe! The venue is a gallery space. For the safety of the
-  art exhibits in the gallery, and to maintain an odor-free environment, food is not
-  allowed in the gallery. Limited consumption of packaged dry snack bars and non-alcoholic
-  beverages in closed containers is okay. Please do your part to keep the space clean.
-  \          Google Calendar     iCalendar     Outlook 365     Outlook Live           Details
-  \   Date:   December 14     Time:   2:00 pm - 4:00 pm    Series:    Pride Across
-  the Bridge | Queer Figure Drawing    Cost:  Free    Event Category: Public Events
-  \  Website:  https://prideacrossthebridge.org/queer-figure-drawing-description/
-  \     Organizer   Pride Across the Bridge    Phone   (971) 380-5873     Email   info@prideacrossthebridge.org
-  \    View Organizer Website         Venue    Together Center     16305 NE 87th St
-  Redmond, WA 98052 United States  + Google Map    Phone  4258696699     View Venue
-  Website       Related Events    NAMI Eastside | In Person Peer Support Group December
-  4 @ 6:30 pm - 8:00 pm     NorthWest Share Free Weekly Food Truck December 4 @ 6:30
-  pm - 8:00 pm     NAMI Eastside Creative Minds: Art for Mental Wellness December
-  9 @ 6:00 pm - 8:30 pm"
+images: []
+location: Together Center, 16305 NE 87th St, Redmond, WA, 98052, United States
+locations:
+- King County
 published: false
 source: Together Center
 source_url: https://togethercenter.org/event/pride-across-the-bridge-queer-figure-drawing/2025-12-14/

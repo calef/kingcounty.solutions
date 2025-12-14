@@ -4,8 +4,6 @@ images: []
 location: Lake Washington area
 locations:
 - King County
-original_markdown_body: Continuation of the launch of the Stride bus rapid transit
-  system connecting communities around Lake Washington.
 published: false
 source: Sound Transit
 source_url: https://www.soundtransit.org/blog/platform/construction-update-stride-bus-rapid-transit

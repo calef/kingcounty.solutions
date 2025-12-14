@@ -1,11 +1,8 @@
 ---
 date: '2025-10-28T00:15:03+00:00'
-images: []
-locations: []
-original_content: "<div class=\"et_pb_section et_pb_section_5 et_section_regular\"
-  >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_row
-  et_pb_row_10\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4 et_pb_column_10
-  \ et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div
+feed_content: "<div class=\"et_pb_section et_pb_section_5 et_section_regular\" >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div
+  class=\"et_pb_row et_pb_row_10\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4
+  et_pb_column_10  et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div
   class=\"et_pb_module et_pb_image et_pb_image_5 et_pb_image_sticky\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<span
   class=\"et_pb_image_wrap \"><img loading=\"lazy\" decoding=\"async\" width=\"1200\"
   height=\"628\" src=\"https://inatai.org/wp-content/uploads/2025/10/Grace-Tissell_1200x628.jpg\"
@@ -72,55 +69,8 @@ original_content: "<div class=\"et_pb_section et_pb_section_5 et_section_regular
   our two rough collies, Penny and Ruby, or sharing cozy moments with loved ones over
   puzzles or games, warm drinks, and good conversation. Those simple, grounding moments
   mean the most to me.</p></div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>"
-original_markdown_body: "![](https://inatai.org/wp-content/uploads/2025/10/Grace-Tissell_1200x628.jpg
-  \"Grace Tissell\\_1200x628\")\n\n_Human Resources Operations Manager Grace Tissell
-  and her husband, Peter, enjoy a sunny winter day in San Antonio, TX._\n\nGrace Tissell
-  joins Inatai Foundation as Human Resources Operations Manager. We asked Grace ten
-  questions to learn more about her story, community, and her connection to our mission.\n\n**Name:**
-  Grace Tissell  \n**Pronouns:**  she/her  \n**Role: ** Human Resources Operations
-  Manager  \n**Home County: ** Douglas County\n\n**1. What are three words that describe
-  you?**\n\nEmpathetic, intentional, and grounded.\n\n**2. What is the “long story
-  short” of how you landed at Inatai?**\n\nI’ve always been drawn to understanding
-  systems and advocating for those most impacted by injustice. With a background in
-  sociology and a heart for racial justice and equity, I’ve worked in spaces centered
-  on belonging—from supporting first-generation college students to facilitating inclusion
-  in tech. Human Resources felt like a natural extension. When I found Inatai, it
-  felt like everything I care about—racial justice, people-centered work, and learning—aligned.
-  I remember thinking, “This is the kind of place I didn’t know I was allowed to hope
-  for.” Now I’m here—eager, inspired, and ready to begin.\n\n**3. What excites you
-  most about being part of Team Inatai?**\n\nI’m most excited to be part of a team
-  that doesn’t just talk about racial justice, but tries to live it. Being at Inatai
-  means contributing to a mission that aligns with my core values and working alongside
-  people who are committed to transformative change. I’m eager to help build systems
-  that center equity, uplift community voices, and create space for people to thrive.\n\n**4.
-  Tell us about the community or communities you belong to.**\n\nI belong to communities
-  rooted in intentional living and growth. As a DINKWAD—dual income, no kids, with
-  dogs—I prioritize mental health, career focus, and animals as family. I’m also a
-  lifelong learner, pursuing education while working full time. These communities
-  reflect my values of peace, presence, and creating space for people to thrive.\n\n**5.
-  Inatai’s strategies are underlined by a 50-Year Vision informed by communities.
-  What is it about your community that keeps you hopeful for the future?**\n\nThere’s
-  power in unity. In a time when isolation is easy, I find hope in people coming together
-  around shared purpose. Intentional connection and community spark transformation—and
-  I believe we can shape a future rooted in healing, peace, and change when we show
-  up for each other.\n\n**6. Finish this sentence: The Inatai value the most resonates
-  with me is…**\n\nJoy\n\n**7. What is your favorite fact about Washington?**\n\nI
-  love that Washington is the Evergreen state. After having lived in other states,
-  it’s amazing to come back to Washington and be surrounded by mountains and green
-  trees – there’s no better feeling than being able to call this beautiful state my
-  home.\n\n**8. Where is your favorite place in Washington?**\n\nKirby Billingsley
-  Hydro Park in East Wenatchee is my favorite spot in Washington. I love walking my
-  dogs along the Columbia River trail, letting them splash in the water, dipping my
-  toes in on hot days, and playing pickleball at the public courts.\n\n**9. What is
-  the last thing you read, watched, or listened to that you would recommend? Why?**\n\nI’d
-  recommend “The Five Dysfunctions of a Team” by Patrick Lencioni. It’s a practical,
-  accessible read that offers valuable insights into building trust and accountability.
-  As someone in HR who centers equity, I found it especially helpful for fostering
-  inclusive, high-functioning teams.\n\n**10. What do you like to do when you’re not
-  at work?**\n\nI find joy in creating spaces of comfort and connection—whether that’s
-  quiet time with my husband, and our two rough collies, Penny and Ruby, or sharing
-  cozy moments with loved ones over puzzles or games, warm drinks, and good conversation.
-  Those simple, grounding moments mean the most to me."
+images: []
+locations: []
 published: false
 source: Inatai Foundation
 source_url: https://inatai.org/news/meet-grace-tissell/

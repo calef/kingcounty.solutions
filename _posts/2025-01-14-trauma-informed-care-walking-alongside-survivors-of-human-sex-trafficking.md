@@ -2,10 +2,7 @@
 date: '2025-01-14T00:04:23+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: "<div class=\"vc_row wpb_row vc_row-fluid\"><div class=\"wpb_column
+feed_content: "<div class=\"vc_row wpb_row vc_row-fluid\"><div class=\"wpb_column
   vc_column_container vc_col-sm-12\"><div class=\"vc_column-inner\"><div class=\"wpb_wrapper\"><div
   class=\"vcex-module vcex-image-banner wpex-relative wpex-overflow-hidden wpex-max-w-100
   wpex-bg-gray-900 wpex-text-white wpex-float-center wpex-text-center\" ><span class=\"vcex-ib-img
@@ -83,63 +80,9 @@ original_content: "<div class=\"vc_row wpb_row vc_row-fluid\"><div class=\"wpb_c
   post <a href=\"https://www.olivecrest.org/trauma-informed-care/\">Trauma-Informed
   Care: Walking Alongside Survivors of Human Sex Trafficking</a> first appeared on
   <a href=\"https://www.olivecrest.org\">Olive Crest</a>.</p>"
-original_markdown_body: "TRAUMA-INFORMED CARE: WALKING ALONGSIDE SURVIVORS OF HUMAN
-  SEX TRAFFICKING \n\nFor over 50 years, Olive Crest has been a trusted leader in
-  child abuse prevention and family restoration. Our attention to providing trauma-informed
-  care reflects our unwavering commitment to creating safe, nurturing environments
-  for children and families affected by abuse, neglect, and exploitation.\n\n#####
-  **Understanding the Impact of Trauma**\n\nHuman sex trafficking leaves deep and
-  lasting scars on survivors, affecting every aspect of their physical, emotional,
-  and psychological well-being, Survivors often endure:\n\n- Complex trauma, resulting
-  from prolonged abuse and manipulation.\n- Distrust in relationships, stemming from
-  exploitation by those they thought they could rely on.\n- Mental health challenges,
-  such as PTSD, anxiety, and depression.\n\nA trauma-informed approach is essential
-  to address these challenges, helping survivors rebuild their lives with dignity
-  and hope.\n\n##### **What is Trauma-Informed Care?&nbsp;**\n\nTrauma-informed care
-  is an empathetic and evidence-based approach that acknowledges the profound impact
-  of trauma and prioritizes safety, healing, and empowerment. It is grounded in five
-  core principles:\n\n1. **Safety** – Creating environments where survivors feel physically
-  and emotionally secure.\n2. **Trustworthiness and Transparency** – Building trust
-  through honesty, consistency, and clear communication.\n3. **Peer Support** – Connecting
-  survivors with individuals who share similar experiences.\n4. **Collaboration and
-  Empowerment** – Engaging survivors as active participants in their recovery journey.\n5.
-  **Cultural Humility** – Recognizing and respecting the unique cultural backgrounds
-  and identities of survivors.\n\n##### **Olive Crest: A Legacy of Care**\n\nFor more
-  than five decades, Olive Crest has been at the forefront of protecting children
-  in crisis and strengthening families. As a leader in child abuse prevention, we’ve
-  built a reputation for providing innovative and compassionate care to those in crisis.
-  Through our trauma-informed approach, we walk alongside survivors of human trafficking,
-  offering the tools and resources they need to heal and thrive.\n\n1. **Safe, Stable
-  Housing**  \nSurvivors of trafficking often face homelessness or unsafe living conditions.
-  Olive Crest provides secure, trauma-sensitive housing options, including our Hope
-  Refuge program. These spaces are designed to offer stability, safety, and a sense
-  of belonging as survivors work toward independence.\n2. **Individualized Support
-  Services**  \nAt Olive Crest, we understand that no two survivors are alike. Our
-  care is tailored to meet the unique needs of each individual and includes:\n  -
-  **Therapeutic counseling** to address trauma and mental health concerns.\n  - **Life
-  skills training** to build confidence and prepare for the future.\n\n3. **Compassionate,
-  Trained Staff**  \nOur team receives specialized training in trauma-informed practices,
-  enabling them to engage survivors with sensitivity and respect. At Olive Crest,
-  survivors are not defined by their pasts but celebrated for their resilience and
-  potential.\n4. **Community and Connection**  \nIsolation can be one of the most
-  painful aspects of recovery. Olive Crest fosters connection through mentorship,
-  peer support groups, and family-style community activities that help survivors rebuild
-  trust and experience belonging.\n5. **Advocacy and Education**  \nIn addition to
-  providing direct care, Olive Crest raises awareness about human trafficking and
-  equips communities with tools to prevent exploitation. Our workshops and training
-  programs empower families, educators, and caregivers to recognize warning signs
-  and take action.\n\n##### **A Story of Transformation&nbsp;**\n\n“Emma” (name changed
-  for privacy) came to Olive Crest after escaping a trafficking situation that had
-  robbed her of her confidence and hope. Through our trauma-informed approach, Emma
-  received counseling, safe housing, and mentorship. With Olive Crest’s support, she
-  completed her education and discovered her passion for helping others. Today, Emma
-  is thriving and working toward a degree in social work to advocate for others who
-  have experienced trauma.\n\n—\n\n1. Substance Abuse and Mental Health Services Administration
-  (SAMHSA), _Trauma-Informed Care in Behavioral Health Services_\n2. National Human
-  Trafficking Hotline, _Trafficking and Trauma Resources_\n3. Polaris Project, _The
-  Role of Trauma-Informed Care in Anti-Trafficking Efforts_\n\nThe post [Trauma-Informed
-  Care: Walking Alongside Survivors of Human Sex Trafficking](https://www.olivecrest.org/trauma-informed-care/)
-  first appeared on [Olive Crest](https://www.olivecrest.org)."
+images: []
+locations:
+- King County
 source: Olive Crest
 source_url: https://www.olivecrest.org/trauma-informed-care/
 summarized: true

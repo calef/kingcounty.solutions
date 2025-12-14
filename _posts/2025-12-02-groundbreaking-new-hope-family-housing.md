@@ -2,23 +2,16 @@
 date: '2025-12-02T21:49:22+00:00'
 events: []
 events_extracted: true
+feed_content: On November 30th, friends, family, and congregation members along with
+  affordable housing supporters, gathered to celebrate the groundbreaking of New Hope
+  Family Housing, a joint project of New Hope Community Development Institute (NHCDI)
+  and LIHI. New Hope Family Housing is  a new mixed-use development with 92 units
+  for families and individuals earning up to 50% and 60% of the Area Median Income.
+  located on two properties owned by New Hope Missionary Baptist Church at 114 and
+  123 - 21st Ave....
 images: []
 locations:
 - King County
-original_content: On November 30th, friends, family, and congregation members along
-  with affordable housing supporters, gathered to celebrate the groundbreaking of
-  New Hope Family Housing, a joint project of New Hope Community Development Institute
-  (NHCDI) and LIHI. New Hope Family Housing is  a new mixed-use development with 92
-  units for families and individuals earning up to 50% and 60% of the Area Median
-  Income. located on two properties owned by New Hope Missionary Baptist Church at
-  114 and 123 - 21st Ave....
-original_markdown_body: On November 30th, friends, family, and congregation members
-  along with affordable housing supporters, gathered to celebrate the groundbreaking
-  of New Hope Family Housing, a joint project of New Hope Community Development Institute
-  (NHCDI) and LIHI. New Hope Family Housing is a new mixed-use development with 92
-  units for families and individuals earning up to 50% and 60% of the Area Median
-  Income. located on two properties owned by New Hope Missionary Baptist Church at
-  114 and 123 - 21st Ave....
 source: Low Income Housing Institute
 source_url: https://www.lihihousing.org/post/groundbreaking-new-hope-family-housing
 summarized: true

@@ -2,10 +2,7 @@
 date: '2025-07-21T20:40:50+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <p><img decoding="async" class="alignright wp-image-11438" src="https://www.pacificmedicalcenters.org/wp-content/uploads/2025/07/istockphoto-1340575683-170667a-300x169.jpg" alt="" width="360" height="203" srcset="https://www.pacificmedicalcenters.org/wp-content/uploads/2025/07/istockphoto-1340575683-170667a-300x169.jpg 300w, https://www.pacificmedicalcenters.org/wp-content/uploads/2025/07/istockphoto-1340575683-170667a.jpg 553w" sizes="(max-width: 360px) 100vw, 360px" /></p>
   <p>If you&#8217;re a PacMed patient traveling from the north to Seattle, please be aware of significant delays due to ongoing construction on the <strong>I-5 Ship Canal Bridge</strong>. The <strong>Express Lanes Northbound</strong> will be <strong>closed for the next four weeks</strong>, causing major traffic backups during peak hours.</p>
   <p><strong>What to Expect</strong></p>
@@ -29,36 +26,9 @@ original_content: |-
   </ul>
   <p>Your health and time matter to us—thank you for your patience as we navigate this together.</p>
   <p>The post <a href="https://www.pacificmedicalcenters.org/news/major-i-5-construction/">Major I-5 Construction Impacting Patient Northbound Travel to Seattle</a> appeared first on <a href="https://www.pacificmedicalcenters.org">Pacific Medical Centers</a>.</p>
-original_markdown_body: |-
-  ![](https://www.pacificmedicalcenters.org/wp-content/uploads/2025/07/istockphoto-1340575683-170667a-300x169.jpg)
-
-  If you’re a PacMed patient traveling from the north to Seattle, please be aware of significant delays due to ongoing construction on the&nbsp; **I-5 Ship Canal Bridge**. The&nbsp; **Express Lanes Northbound** &nbsp;will be&nbsp; **closed for the next four weeks** , causing major traffic backups during peak hours.
-
-  **What to Expect**
-
-  - As of Monday morning, July 21, 2025, at 7:30 AM, delays were already **45 minutes** , with traffic backed up to the&nbsp; **145th Street exit**.
-  - By midday, congestion extended all the way to the&nbsp; **Mountlake Terrace exit** , according to Google Maps.
-
-  **Timeline**
-
-  - This phase of construction is expected to last&nbsp; **until August 15th**.
-  - A&nbsp; **Southbound I-5 closure** &nbsp;is also planned for&nbsp; **Fall/Winter 2025** , as part of the broader&nbsp; **Revive I-5 Ship Canal Bridge Preservation Project** , which will continue through&nbsp; **2027**.
-
-  **More Info**
-
-  For full details and updates, visit the official WSDOT project page:&nbsp;[https://wsdot.wa.gov/construction-planning/search-projects/revive-i-5-ship-canal-bridge-preservation](https://wsdot.wa.gov/construction-planning/search-projects/revive-i-5-ship-canal-bridge-preservation)
-
-  **Plan Ahead**
-
-  We recommend:
-
-  - Allowing extra travel time for appointments.
-  - Considering alternate routes or public transit options.
-  - Rescheduling non-urgent visits if travel becomes too difficult.
-
-  Your health and time matter to us—thank you for your patience as we navigate this together.
-
-  The post [Major I-5 Construction Impacting Patient Northbound Travel to Seattle](https://www.pacificmedicalcenters.org/news/major-i-5-construction/) appeared first on [Pacific Medical Centers](https://www.pacificmedicalcenters.org).
+images: []
+locations:
+- King County
 source: Pacific Medical Centers
 source_url: https://www.pacificmedicalcenters.org/news/major-i-5-construction/
 summarized: true

@@ -2,34 +2,7 @@
 date: '2025-09-12T18:49:49+00:00'
 events: []
 events_extracted: true
-images:
-- 836dd9241824d7363b11cf1904c34fd264c9afb2e05149a729b4ed9384d6c6f6
-- 5c6ea8c0a37779bc59c3cf6001835625165bbbff386769a6c6a045d84e0c4879
-- b684abb4d7427843d4a0cf624ff37870e1ddd112aafd260ec2ea3a029ad505b7
-- bcdc3458054160aebfa326c1ed24e8e8c6ba7645c410cdcaef73bd3fad64db67
-- cf14190007739dfa8f194e150e5e207c6199f944e64a1d694ffa1c8e4e0701e0
-- 94242c480a7ee21714c5316e4f23547cf31c426e225ae63533030727c3526182
-- f53a88a4b005ba2e225c6b2d5e7fadc659a6289054050dcc1bb9fc2db35d1e7b
-- 83bb8828a82dc0aacbb3687d672e637ce67c4b5d17351c4cb7bfe11693fa8857
-- dccd9e72521cd5558fe69f7f0bb1704e0b60e7e0e34e2c28cc529f9d820718af
-- 59f9b7b78dbddf66f19faaba9273e10cefaad3fe9c66295ecbd84ea488531306
-- 6be8b57d4d219d3766de58cf45cc1148c30102681421c74a445058045e4bd451
-- bfc2737d059da45871ea45664492a64eef426219c338999e33039c19d373cff6
-- 707805e5f4654483b5722bc435797f955fe5e5210a11f7e23815c85b3f52b9c6
-- ae6b8683be885a73b325793db3d149346e3c5c695994647de1ad4d841b4c592a
-- 144c79f69ffd78e32fe8b9d62d031bef6ca78a145471c31f9550f181fe3f36ae
-- 9de1e400edc7f18d81a79a2420ad8e890e5f371901059747e4d25b95a09ca43b
-- deef652e5ddbbd40173ff851649fecd3c57ebe32dadb155e1c9502af504ee6d2
-- 2d716eabc53bebb21bb6d05a6aa3a836fad2273e3c7a179917dbcd0414350323
-- '08c0b8433947a5c1e039c55ee411a4e822c5dd3607d6b24caa8172a0797913c0'
-- f227311629ea8548f84a52952485c6d9ae4a86616bd8eede3b2d940e3aa60f68
-- 608dd06cad67e0f1e2daa016b9a86ebbb9d85714ab86434c0df11993c78aaede
-- 063fa395185fff720aae08bac672e5c617f67ba971eb9125aea64429924d623a
-- e7bba1c6eab1896f7a9605729bb93de8f54ecca8ff3d2c41f3cd40c18dccb1a8
-- 016bbb2a3eb286a0c37d731aa43096aa061ae84f1db09e7aac119323547f4393
-locations:
-- King County
-original_content: "<p><img width=\"361\" height=\"255\" src=\"https://s14621.pcdn.co/wp-content/uploads/2025/09/Back2School-SandPoint-RG-08.25.2025-13-801x566-1-361x255.jpg\"
+feed_content: "<p><img width=\"361\" height=\"255\" src=\"https://s14621.pcdn.co/wp-content/uploads/2025/09/Back2School-SandPoint-RG-08.25.2025-13-801x566-1-361x255.jpg\"
   class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"A mom
   smiles as she crouches down besides her young son wearing a backpack almost as big
   as he is.\" decoding=\"async\" srcset=\"https://s14621.pcdn.co/wp-content/uploads/2025/09/Back2School-SandPoint-RG-08.25.2025-13-801x566-1-361x255.jpg
@@ -554,107 +527,33 @@ original_content: "<p><img width=\"361\" height=\"255\" src=\"https://s14621.pcd
   data-ccp-props=\"{}\"> </span></p>The post <a href=\"https://www.solid-ground.org/heres-how-you-made-back-to-school-better/\">Here’s
   how you made back-to-school better! </a> appeared first on <a href=\"https://www.solid-ground.org\">Solid
   Ground</a>."
-original_markdown_body: "![A mom smiles as she crouches down besides her young son
-  wearing a backpack almost as big as he is.](https://s14621.pcdn.co/wp-content/uploads/2025/09/Back2School-SandPoint-RG-08.25.2025-13-801x566-1-361x255.jpg)\n\nHeading
-  back to school in the fall can be especially hard for kids from struggling families,
-  full of reminders of the privileges their peers take for granted and things their
-  own families can’t afford.\n\n![A young girl with beaded braids shows off new school
-  supplies.](https://s14621.pcdn.co/wp-content/uploads/2025/09/Back2School-SandPoint-RG-08.25.2025-9-400x-1.jpg)But
-  for the more than 100 children and teenagers who live in Solid Ground housing, this
-  school year got off to a strong and promising start thanks to the generosity of
-  community members who answered our call to [Pack it Forward](https://www.solid-ground.org/donation-drive/)
-  last month. In all, we received more than 150 backpacks and countless notebooks,
-  binders, books, pens, crayons, and more – plus cash donations to sustain and strengthen
-  the programs and services Solid Ground residents rely on.&nbsp;\n\nAt [Sand Point
-  Housing](https://www.solid-ground.org/our-impact/housing-homelessness/#sandpointhousing),
-  which is home to 180 individuals and families who’ve experienced homelessness, parents
-  and kids had a chance to peruse the options in the basement of our community center
-  before heading upstairs for a brief session on youth financial education offered
-  by [Chase Bank](https://www.chase.com/). Then families were treated to a hamburger
-  lunch donated by our friends at [Dick’s Drive-in](https://www.ddir.com/)!&nbsp;\n\nBackpacks
-  and school supplies were also handed out to families at Solid Ground’s [Broadview
-  Shelter and Transitional Housing](https://www.solid-ground.org/our-impact/housing-homelessness/#broadview),
-  home to about 100 families escaping the dual traumas of homelessness and domestic
-  violence. At both housing sites, it was a joyful way to wrap up summer activities
-  and get kids ready for academic success!&nbsp;\n\n##### _Special thanks to the community
-  partners who made this day possible:&nbsp;_\n\n- Washington Athletic Club&nbsp;\n\n-
-  University District Rotary&nbsp;\n\n- Corporate Pero Latinos – Seattle Chapter&nbsp;\n\n-
-  Fremont Baptist Church&nbsp;\n\n- WaFD Bank Downtown Seattle&nbsp;\n\n- Blue Origin
-  Legal & Compliance team&nbsp;\n\n- Wallingford United Methodist Church&nbsp;\n\n&nbsp;\n\n####
-  It’s not too late to get involved!&nbsp;\n\n**_The need doesn’t stop after the first
-  day of school. Check out all the [Ways to Give](https://www.solid-ground.org/donate/)
-  – and support Solid Ground’s work to solve poverty in Seattle and King County._**&nbsp;\n\n&nbsp;\n\n<style>#jtg-71297
-  .modula-item .jtg-social a, .lightbox-socials.jtg-social a{ fill: #ffffff; color:
-  #ffffff }#jtg-71297 .modula-item .jtg-social-expandable a, #jtg-71297 .modula-item
-  .jtg-social-expandable-icons a{ fill: #ffffff; color: #ffffff }#jtg-71297 .modula-item
-  .jtg-social svg, .lightbox-socials.jtg-social svg { height: 16px; width: 16px }#jtg-71297
-  .modula-item .jtg-social-expandable svg { height: 16px; width: 16px }#jtg-71297
-  .modula-item .jtg-social-expandable-icons svg { height: 16px; width: 16px }#jtg-71297
-  .modula-item .jtg-social a:not(:last-child), .lightbox-socials.jtg-social a:not(:last-child)
-  { margin-right: 10px }#jtg-71297 .modula-item .jtg-social-expandable-icons { gap:
-  10px }#jtg-71297 .modula-item .figc {color:#ffffff;}#jtg-71297 .modula-item .figc
-  .jtg-title { font-size: 24px; }#jtg-71297 .modula-item .modula-item-content { transform:
-  scale(1); }#jtg-71297 { width:100%;}#jtg-71297 .modula-items .figc p.description
-  { font-size:16px; }#jtg-71297 .modula-items .figc p.description { color:#ffffff;}#jtg-71297
-  .modula-items .figc .jtg-title { color:#ffffff; }#jtg-71297.modula-gallery .modula-item
-  > a, #jtg-71297.modula-gallery .modula-item, #jtg-71297.modula-gallery .modula-item-content
-  > a:not(.modula-no-follow) { cursor:zoom-in; } #jtg-71297.modula-gallery .modula-item-content
-  .modula-no-follow { cursor: default; } @media screen and (max-width:480px){#jtg-71297
-  .modula-item .figc .jtg-title { font-size: 12px; }#jtg-71297 .modula-items .figc
-  p.description { color:#ffffff;font-size:10px; }}</style>\n\n ![A young boy looks
-  at the camera as he tries on a backpack almost as big as he is.](https://s14621.pcdn.co/wp-content/uploads/2025/09/Back2School-SandPoint-RG-08.25.2025-12-683x1024.jpg
-  \"Back2School-SandPoint-(RG)-08.25.2025- (12)\")\n\n ![A woman with green braids
-  and wearing a tie-dyed dress puts her arm around her young son, who has a mock shocked
-  expression on his face.](https://s14621.pcdn.co/wp-content/uploads/2025/09/Back2School-SandPoint-RG-08.25.2025-23-683x1024.jpg
-  \"Back2School-SandPoint-(RG)-08.25.2025- (23)\")\n\n ![A small child with his back
-  to the camera shows off his new Minecraft backpack.](https://s14621.pcdn.co/wp-content/uploads/2025/09/Back2School-SandPoint-RG-08.25.2025-24-683x1024.jpg
-  \"Back2School-SandPoint-(RG)-08.25.2025- (24)\")\n\n ![A mother with a couple of
-  backpacks slung over her shoulder bends over a bin with her children.](https://s14621.pcdn.co/wp-content/uploads/2025/09/Back2School-SandPoint-RG-08.25.2025-18-819x1024.jpg
-  \"Back2School-SandPoint-(RG)-08.25.2025- (18)\")\n\n ![A mother examines a backpack
-  as her kids look on.](https://s14621.pcdn.co/wp-content/uploads/2025/09/Back2School-SandPoint-RG-08.25.2025-21-683x1024.jpg
-  \"Back2School-SandPoint-(RG)-08.25.2025- (21)\")\n\n ![A table stacked high with
-  notebooks.](https://s14621.pcdn.co/wp-content/uploads/2025/09/Back2School-SandPoint-RG-08.25.2025-4-683x1024.jpg
-  \"Back2School-SandPoint-(RG)-08.25.2025- (4)\")\n\n ![A young girl tilts her head
-  and smiles and she shows off a new pencil pouch.](https://s14621.pcdn.co/wp-content/uploads/2025/09/Back2School-SandPoint-RG-08.25.2025-14-683x1024.jpg
-  \"Back2School-SandPoint-(RG)-08.25.2025- (14)\")\n\n ![A girl with beaded braids
-  shows off several new school supplies.](https://s14621.pcdn.co/wp-content/uploads/2025/09/Back2School-SandPoint-RG-08.25.2025-9-683x1024.jpg
-  \"Back2School-SandPoint-(RG)-08.25.2025- (9)\")\n\n ![A smiling mother with long
-  hair crouches down and empraces her young daughter, who is holding a new backpack.](https://s14621.pcdn.co/wp-content/uploads/2025/09/Back2School-SandPoint-RG-08.25.2025-15-683x1024.jpg
-  \"Back2School-SandPoint-(RG)-08.25.2025- (15)\")\n\n ![A box full of yellow Sharpie
-  highlighters, with a few pink, green, and orange ones mixed in.](https://s14621.pcdn.co/wp-content/uploads/2025/09/Back2School-SandPoint-RG-08.25.2025-6-819x1024.jpg
-  \"Back2School-SandPoint-(RG)-08.25.2025- (6)\")\n\n ![A girl holding a plate of
-  food smiles into the camera.](https://s14621.pcdn.co/wp-content/uploads/2025/09/Back2School-SandPoint-RG-08.25.2025-36-683x1024.jpg
-  \"Back2School-SandPoint-(RG)-08.25.2025- (36)\")\n\n ![Cardboard boxes filled with
-  backpacks sit on and under a folding table.](https://s14621.pcdn.co/wp-content/uploads/2025/09/Back2School-SandPoint-RG-08.25.2025-2-1024x819.jpg
-  \"Back2School-SandPoint-(RG)-08.25.2025- (2)\")\n\n ![A little boy peeks over a
-  countertop at boxes filled with hamburgers.](https://s14621.pcdn.co/wp-content/uploads/2025/09/Back2School-SandPoint-RG-08.25.2025-35-1024x683.jpg
-  \"Back2School-SandPoint-(RG)-08.25.2025- (35)\")\n\n ![A woman with purple dreds
-  smiles as she holds a plate piled high with hamburgers in one hand and reaches for
-  another plate with the other.](https://s14621.pcdn.co/wp-content/uploads/2025/09/Back2School-SandPoint-RG-08.25.2025-34-1024x683.jpg
-  \"Back2School-SandPoint-(RG)-08.25.2025- (34)\")\n\n ![Two moms with kids are handed
-  several hamburgers from a box labeled \"Dick's.\"](https://s14621.pcdn.co/wp-content/uploads/2025/09/Back2School-SandPoint-RG-08.25.2025-33-1024x683.jpg
-  \"Back2School-SandPoint-(RG)-08.25.2025- (33)\")\n\n ![Three boxes labeled \"Dick's\"
-  and filled with hamburgers sit on a countertop.](https://s14621.pcdn.co/wp-content/uploads/2025/09/Back2School-SandPoint-RG-08.25.2025-32-1024x683.jpg
-  \"Back2School-SandPoint-(RG)-08.25.2025- (32)\")\n\n ![A mother digs through a pile
-  of children's books.](https://s14621.pcdn.co/wp-content/uploads/2025/09/Back2School-SandPoint-RG-08.25.2025-19-683x1024.jpg
-  \"Back2School-SandPoint-(RG)-08.25.2025- (19)\")\n\n ![Two smiling women stand behind
-  three boxes filled with hamburgers labeled \"Dick's.\"](https://s14621.pcdn.co/wp-content/uploads/2025/09/Back2School-SandPoint-RG-08.25.2025-31-1024x683.jpg
-  \"Back2School-SandPoint-(RG)-08.25.2025- (31)\")\n\n ![A woman opens a box labeled
-  \"Dick's,\" revealing neat stacks of hamburgers inside.](https://s14621.pcdn.co/wp-content/uploads/2025/09/Back2School-SandPoint-RG-08.25.2025-30-1024x819.jpg
-  \"Back2School-SandPoint-(RG)-08.25.2025- (30)\")\n\n ![A little child with a poof
-  of hair looks over their shoulder at the camera.](https://s14621.pcdn.co/wp-content/uploads/2025/09/Back2School-SandPoint-RG-08.25.2025-29-1024x683.jpg
-  \"Back2School-SandPoint-(RG)-08.25.2025- (29)\")\n\n ![A man gestures while standing
-  next to a TV screen that reads \"Valuable money lessons to teach your kids.\"](https://s14621.pcdn.co/wp-content/uploads/2025/09/Back2School-SandPoint-RG-08.25.2025-28-683x1024.jpg
-  \"Back2School-SandPoint-(RG)-08.25.2025- (28)\")\n\n ![A man gestures while speaking
-  to a crowd.](https://s14621.pcdn.co/wp-content/uploads/2025/09/Back2School-SandPoint-RG-08.25.2025-26-1024x683.jpg
-  \"Back2School-SandPoint-(RG)-08.25.2025- (26)\")\n\n ![A child with their hair pulled
-  back leans over a foosball table.](https://s14621.pcdn.co/wp-content/uploads/2025/09/Back2School-SandPoint-RG-08.25.2025-16-1024x683.jpg
-  \"Back2School-SandPoint-(RG)-08.25.2025- (16)\")\n\n<script type=\"application/ld+json\">\n\t{\n\t\t\"@context\":
-  \"http://schema.org\",\n\t\t\"@type\" : \"ImageGallery\",\n\t\t\"id\" : \"https://www.solid-ground.org/heres-how-you-made-back-to-school-better/\",\n\t\t\"url\"
-  : \"https://www.solid-ground.org/heres-how-you-made-back-to-school-better/\"\n\t}\n\n\t</script>\n\n**_All
-  photos by [Rachael Green](https://rachaelgreenphotography.pixieset.com/)._**\n\n&nbsp;\n\nThe
-  post [Here’s how you made back-to-school better!&nbsp;](https://www.solid-ground.org/heres-how-you-made-back-to-school-better/)
-  appeared first on [Solid Ground](https://www.solid-ground.org)."
+images:
+- 836dd9241824d7363b11cf1904c34fd264c9afb2e05149a729b4ed9384d6c6f6
+- 5c6ea8c0a37779bc59c3cf6001835625165bbbff386769a6c6a045d84e0c4879
+- b684abb4d7427843d4a0cf624ff37870e1ddd112aafd260ec2ea3a029ad505b7
+- bcdc3458054160aebfa326c1ed24e8e8c6ba7645c410cdcaef73bd3fad64db67
+- cf14190007739dfa8f194e150e5e207c6199f944e64a1d694ffa1c8e4e0701e0
+- 94242c480a7ee21714c5316e4f23547cf31c426e225ae63533030727c3526182
+- f53a88a4b005ba2e225c6b2d5e7fadc659a6289054050dcc1bb9fc2db35d1e7b
+- 83bb8828a82dc0aacbb3687d672e637ce67c4b5d17351c4cb7bfe11693fa8857
+- dccd9e72521cd5558fe69f7f0bb1704e0b60e7e0e34e2c28cc529f9d820718af
+- 59f9b7b78dbddf66f19faaba9273e10cefaad3fe9c66295ecbd84ea488531306
+- 6be8b57d4d219d3766de58cf45cc1148c30102681421c74a445058045e4bd451
+- bfc2737d059da45871ea45664492a64eef426219c338999e33039c19d373cff6
+- 707805e5f4654483b5722bc435797f955fe5e5210a11f7e23815c85b3f52b9c6
+- ae6b8683be885a73b325793db3d149346e3c5c695994647de1ad4d841b4c592a
+- 144c79f69ffd78e32fe8b9d62d031bef6ca78a145471c31f9550f181fe3f36ae
+- 9de1e400edc7f18d81a79a2420ad8e890e5f371901059747e4d25b95a09ca43b
+- deef652e5ddbbd40173ff851649fecd3c57ebe32dadb155e1c9502af504ee6d2
+- 2d716eabc53bebb21bb6d05a6aa3a836fad2273e3c7a179917dbcd0414350323
+- '08c0b8433947a5c1e039c55ee411a4e822c5dd3607d6b24caa8172a0797913c0'
+- f227311629ea8548f84a52952485c6d9ae4a86616bd8eede3b2d940e3aa60f68
+- 608dd06cad67e0f1e2daa016b9a86ebbb9d85714ab86434c0df11993c78aaede
+- 063fa395185fff720aae08bac672e5c617f67ba971eb9125aea64429924d623a
+- e7bba1c6eab1896f7a9605729bb93de8f54ecca8ff3d2c41f3cd40c18dccb1a8
+- 016bbb2a3eb286a0c37d731aa43096aa061ae84f1db09e7aac119323547f4393
+locations:
+- King County
 source: Solid Ground
 source_url: https://www.solid-ground.org/heres-how-you-made-back-to-school-better/
 summarized: true

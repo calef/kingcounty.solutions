@@ -2,10 +2,7 @@
 date: '2025-12-12T19:39:20+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <p><b>What steps to take if your home has flooded and it is SAFE to RETURN!</b></p>
   <p>After a flood, prioritize safety by waiting for official clearance before entering and ensuring electricity and gas are shut off.  <b><i><u>Do not turn on your water, gas or electricity</u></i></b>. Get your utility company or a qualified electrician to check that it is safe before turning them back on.</p>
   <p><b>Homeowners</b></p>
@@ -34,55 +31,10 @@ original_content: |-
   <p><b><span>Use “What steps to take…” </span></b><span>to keep track of documentation and contact information.</span></p>
   <p><b><span>Contact the Housing Department</span></b><span> if you have questions regarding availability of Home Repair/ Improvement benefits and other resources that may be available in your area.</span></p>
   <p><a>Download a PDF of this information for reference</a></p>
-original_content_checksum: 0a607de72666c4ebc730d47792f7467e6af37378
-original_markdown_body: |-
-  **What steps to take if your home has flooded and it is SAFE to RETURN!**
-
-  After a flood, prioritize safety by waiting for official clearance before entering and ensuring electricity and gas are shut off.&nbsp;&nbsp; **_<u>Do not turn on your water, gas or electricity</u>_**. Get your utility company or a qualified electrician to check that it is safe before turning them back on.
-
-  **Homeowners**
-
-  You will need to provide documentation of all the damage and then contact your homeowner insurance company.&nbsp; They will then designate an adjuster/contractor to complete the repairs and water remediation, or they may provide you with a list of approved contractors to choose from.
-
-  **Renters**
-
-  Your landlord is responsible for repairing flood damage to your home/apartment. Renters Insurance will cover your loss/damage of personal belongings.
-
-  - **Crucial Claim Documentation:**
-
-  1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Record the water level** &nbsp;on both the interior and exterior of buildings
-
-  2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Take photos** &nbsp;inside and out. Photograph all damaged items before disposing of them
-
-  3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Separate damaged from undamaged** &nbsp;items and start a room-by-room inventory of all damaged items
-
-  4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Keep receipts** &nbsp;for everything
-
-  5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Keep a 3×3 ft swatch of flooring** &nbsp;before throwing it out for insurance purposes
-
-  &nbsp;
-
-  - **<u>File your flood claim:</u>**
-
-  1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Take pictures to text to your adjuster
-
-  2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Have your cell, email and temporary mailing address (if displaced) ready to give to claims dept.&nbsp; Provide a second&nbsp;contact detail if you have someone helping you like a friend or Tribe Housing Department (Angelina or Peyton&nbsp;housing@snoqualmietribe.us)
-
-  3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Know the address that was flooded?
-
-  4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Know the Date of Loss (12/10/2025)
-
-  5.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;How many feet of water were in the building? Please mark the high-water level (Take photo)
-
-  6.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;How many days has water been in the home?
-
-  &nbsp;
-
-  **Use “What steps to take…”&nbsp;** to keep track of documentation and contact information.
-
-  **Contact the Housing Department** &nbsp;if you have questions regarding availability of Home Repair/ Improvement benefits and other resources that may be available in your area.
-
-  Download a PDF of this information for reference
+feed_content_checksum: 0a607de72666c4ebc730d47792f7467e6af37378
+images: []
+locations:
+- King County
 rss_guid: https://snoqualmietribe.us/?p=6898
 source: Snoqualmie Indian Tribe
 source_url: https://snoqualmietribe.us/what-steps-to-take-if-your-home-has-flooded-and-it-is-safe-to-return/

@@ -2,15 +2,12 @@
 date: '2025-12-01T20:59:06+00:00'
 events: []
 events_extracted: true
+feed_content: They enjoy taking photos, playing soccer and practicing peaceful martial
+  arts. They travel and garden. There are ukulele, piano and guitar players and happy
+  grandparents.  Those who ride with them...
 images: []
 locations:
 - King County
-original_content: They enjoy taking photos, playing soccer and practicing peaceful
-  martial arts. They travel and garden. There are ukulele, piano and guitar players
-  and happy grandparents.  Those who ride with them...
-original_markdown_body: They enjoy taking photos, playing soccer and practicing peaceful
-  martial arts. They travel and garden. There are ukulele, piano and guitar players
-  and happy grandparents. &nbsp;Those who ride with them...
 source: King County Metro Transit
 source_url: https://kingcountymetro.blog/2025/12/01/recognizing-metros-operators-of-the-month-september-october-2025/
 summarized: true

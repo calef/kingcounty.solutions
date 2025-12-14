@@ -1,8 +1,6 @@
 ---
 date: '2025-10-02T18:54:43+00:00'
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   By Steven Schauer, Deputy Executive Director
 
   Every fall, King County’s rivers come alive with one of nature’s most extraordinary spectacles: the salmon run. These iconic fish return from the ocean to the very streams where they were born, completing a journey that is as inspiring as it is essential to the health of our region. Salmon are more than just a Northwest treasure—they are a keystone species, central to the environment, our communities, and our shared future.
@@ -77,6 +75,8 @@ original_content: |-
   - [https://www.fisheries.noaa.gov/west-coast/endangered-species-conservation/what-you-can-do-help-recover-salmon-and-steelhead-west-coast#:~:text=Be%20an%20informed%20consumer.,Conserve%20water%20and%20electricity](https://www.fisheries.noaa.gov/west-coast/endangered-species-conservation/what-you-can-do-help-recover-salmon-and-steelhead-west-coast#:~:text=Be%20an%20informed%20consumer.,Conserve%20water%20and%20electricity).
 
   The post [Celebrate Salmon Season in King County: Protecting a Northwest Icon](https://kingcountyfloodcontrol.org/celebrate-salmon-season-in-king-county-protecting-a-northwest-icon/) appeared first on [King County Flood Control District](https://kingcountyfloodcontrol.org).
+images: []
+locations: []
 published: false
 source: King County Flood Control District
 source_url: https://kingcountyfloodcontrol.org/celebrate-salmon-season-in-king-county-protecting-a-northwest-icon/?utm_source=rss&utm_medium=rss&utm_campaign=celebrate-salmon-season-in-king-county-protecting-a-northwest-icon

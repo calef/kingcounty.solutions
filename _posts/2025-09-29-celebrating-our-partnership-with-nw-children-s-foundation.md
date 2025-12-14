@@ -2,13 +2,11 @@
 date: '2025-09-29T17:25:59+00:00'
 events: []
 events_extracted: true
+feed_content: We are thrilled to celebrate NW Children’s Foundation for their continued
+  partnership and commitment to young people in our community .  ...
 images: []
 locations:
 - King County
-original_content: We are thrilled to celebrate NW Children’s Foundation for their
-  continued partnership and commitment to young people in our community .  ...
-original_markdown_body: We are thrilled to celebrate NW Children’s Foundation for
-  their continued partnership and commitment to young people in our community . &nbsp;...
 source: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/celebrating-our-partnership-with-nw-children-s-foundation
 summarized: true

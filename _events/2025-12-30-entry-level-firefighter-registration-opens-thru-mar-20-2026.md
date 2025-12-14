@@ -1,13 +1,9 @@
 ---
 end_date: '2025-12-30T23:30:00-08:00'
-images: []
-location: Virtual/Online, United States
-locations:
-- King County
-original_content: "<section> <div> <div> <div> <section> <div> <div> <span> Event
-  Series: </span> <a> <span> Entry-Level Firefighter Registration Opens thru Mar 20,
-  2026 </span> </a> </div> <h1>Entry-Level Firefighter Registration Opens thru Mar
-  20, 2026</h1> <div> <h2> <span>December 30 @ 11:00 pm</span> - <span>11:30 pm</span>
+feed_content: "<section> <div> <div> <div> <section> <div> <div> <span> Event Series:
+  </span> <a> <span> Entry-Level Firefighter Registration Opens thru Mar 20, 2026
+  </span> </a> </div> <h1>Entry-Level Firefighter Registration Opens thru Mar 20,
+  2026</h1> <div> <h2> <span>December 30 @ 11:00 pm</span> - <span>11:30 pm</span>
   </h2> </div> <div> <div> <div> <div>Entry-level firefighters registration for 2026
   is open for the WA Fire Careers partner agencies: Enumclaw Fire Department, King
   County Fire District 20, Puget Sound Regional Fire Authority, Renton Regional Fire
@@ -41,31 +37,11 @@ original_content: "<section> <div> <div> <div> <section> <div> <div> <span> Even
   at Tukwila Library</a></h3> <span>December 16 @ 5:30 pm</span> - <span>7:30 pm</span>
   </div> </li> </ul> </div> <p> <a> Back to events</a> </p> </div> </section> </div>
   </div> </div> </section>"
-original_content_checksum: 599d289e3e05bd15b9aa835c9d723c644ee20566
-original_markdown_body: 'Event Series:    Entry-Level Firefighter Registration Opens
-  thru Mar 20, 2026    Entry-Level Firefighter Registration Opens thru Mar 20, 2026   December
-  30 @ 11:00 pm - 11:30 pm      Entry-level firefighters registration for 2026 is
-  open for the WA Fire Careers partner agencies: Enumclaw Fire Department, King County
-  Fire District 20, Puget Sound Regional Fire Authority, Renton Regional Fire Authority
-  and Valley Regional Fire Authority. __________________________________________________________________________________   **
-  TO REGISTER **        1. Visit the National Testing Network        2. Select Firefighter
-  in the “Find Jobs” drop-down menu        3. Select “Washington”        4. Select
-  “WA Fire Careers” partner agencies (look for Enumclaw – our first agency on our
-  list).  This will register you automatically for our five partner fire departments
-  for the price of a single test!  __________________________________________________________________________________  WA
-  Fire Careers is running a continuous recruitment process for entry level firefighters
-  in anticipation of upcoming recruitment academies. The recruitment will remain open,
-  and WA Fire Careers will be pulling scores on , , in anticipation of the August
-  2026 academy.   To learn more about each fire department, our testing and hiring
-  process, and the schedule, visit each department’s websites or our WA Fire Careers
-  site:  https://nationaltestingnetwork.com/publicsafetyjobs/           Google Calendar     iCalendar     Outlook
-  365     Outlook Live           Details    Date:   December 30     Time:   11:00
-  pm - 11:30 pm    Series:    Entry-Level Firefighter Registration Opens thru Mar
-  20, 2026    Event Category: Community Event      Venue    Virtual/Online     United
-  States  + Google Map       Related Events    Free or Low-Cost Mobile Pet Clinic
-  December 14 @ 11:00 am - 1:00 pm     Rainier Symphony Concert December 14 @ 3:00
-  pm - 5:00 pm     Musicals at Tukwila Library December 16 @ 5:30 pm - 7:30 pm       Back
-  to events'
+feed_content_checksum: 599d289e3e05bd15b9aa835c9d723c644ee20566
+images: []
+location: Virtual/Online, United States
+locations:
+- King County
 source: City of Tukwila
 source_url: https://www.tukwilawa.gov/event/entry-level-firefighter-registration-opens-thru-mar-20-2026/2025-12-30/
 start_date: '2025-12-30T23:00:00-08:00'

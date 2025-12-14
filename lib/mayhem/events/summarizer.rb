@@ -1,14 +1,15 @@
 # frozen_string_literal: true
 
-require 'nokogiri'
 require 'ruby/openai'
 require_relative '../logging'
 require_relative '../news/topic_classifier'
 require_relative '../locations/classifier'
+require_relative '../content/article_body_extractor'
 require_relative '../content/content_pruner'
 require_relative '../front_matter/document'
 require_relative '../support/http_client'
 require_relative '../feed/discovery'
+require_relative '../support/encoding_utils'
 require_relative '../summarizer/helpers'
 
 module Mayhem
@@ -120,50 +121,67 @@ module Mayhem
 
         generated_from_post = front_matter['generated_from_post'] == true
         source_url = front_matter['source_url']
+        feed_html = front_matter['feed_content']
+        fallback_text = Mayhem::Content::ArticleBodyExtractor.text_from_html(feed_html)
         article_text = nil
+        html_for_summary = nil
 
+        summary_text = nil
         if needs_summary
-          # For events generated from posts, use the existing body instead of fetching source_url
           if generated_from_post
-            article_text = document.body.to_s.strip
-            if article_text.empty?
+            if feed_html.to_s.strip.empty?
               @logger.warn "Skipping #{file_path}: generated from post but has no body"
               stats[:skipped_missing_body] += 1
-              return unless needs_topics || needs_locations
+              return
             end
+            article_text = fallback_text
+            html_for_summary = feed_html
           elsif source_url.to_s.strip.empty?
             @logger.warn "Skipping #{file_path}: no source_url"
             stats[:skipped_missing_source] += 1
-            return unless needs_topics || needs_locations
+            return
           else
-            article_text = fetch_article_text(source_url)
-            article_text = document.body.to_s.strip if article_text.to_s.strip.empty?
+            scraped_html = fetch_event_html(source_url)
+            scraped_text = Mayhem::Content::ArticleBodyExtractor.text_from_html(scraped_html)
+            if prefer_fallback_body?(scraped_text, fallback_text)
+              article_text = fallback_text
+              html_for_summary = feed_html
+              @logger.debug "Using fallback body for #{file_path}"
+            else
+              article_text = scraped_text
+              html_for_summary = scraped_html
+            end
+            article_text ||= fallback_text
+            html_for_summary ||= feed_html
           end
 
-          if article_text && article_text.length > MAX_ARTICLE_CHARS
+          article_text = article_text&.strip
+          if article_text.to_s.empty?
+            handle_unusable_content(document, front_matter, file_path, stats, generated_from_post: generated_from_post)
+            return
+          end
+
+          if article_text.length > MAX_ARTICLE_CHARS
             @logger.info "Truncating #{file_path} article text from #{article_text.length} to #{MAX_ARTICLE_CHARS} chars"
             article_text = article_text[0, MAX_ARTICLE_CHARS]
           end
-        end
-        article_text ||= document.body.to_s.strip
 
-        summary_text = if needs_summary
-                         summary = generate_summary(article_text, front_matter, file_path, generated_from_post: generated_from_post)
-                         if summary.to_s.strip.empty?
-                           stats[:failed_summary] += 1
-                           return
-                         end
-                         summary
-                       else
-                         document.body&.strip
-                       end
-        summary_text ||= ''
+          if (source_html = Mayhem::Content::ArticleBodyExtractor.sanitized_html(html_for_summary, max_chars: MAX_ARTICLE_CHARS))
+            front_matter['original_source_html'] = source_html
+          end
 
-        if needs_summary
-          front_matter['original_markdown_body'] ||= document.body&.strip
+          summary_text = generate_summary(article_text, front_matter, file_path, generated_from_post: generated_from_post)
+          if summary_text.to_s.strip.empty?
+            stats[:failed_summary] += 1
+            return
+          end
           front_matter['summarized'] = true
           document.body = summary_text
+        else
+          summary_text = document.body&.strip
         end
+
+        summary_text ||= ''
 
         if needs_topics
           classified_topics = @topic_classifier.classify(summary_text)
@@ -304,16 +322,14 @@ module Mayhem
         updated_posts
       end
 
-      def fetch_article_text(url)
-        return '' if url.to_s.strip.empty?
+      def fetch_event_html(url)
+        return nil if url.to_s.strip.empty?
 
         page = @http.fetch(url, accept: Mayhem::FeedDiscovery::ACCEPT_HTML, max_bytes: MAX_ARTICLE_CHARS)
-        doc = Nokogiri::HTML(page[:body])
-        doc.search('script, style, nav, header, footer, noscript, iframe').remove
-        doc.css('article, main, body').text.strip.gsub(/\s+/, ' ')
+        Mayhem::Support::EncodingUtils.ensure_utf8(page[:body])
       rescue StandardError => e
         @logger.warn "Error fetching #{url}: #{e.class} - #{e.message}"
-        ''
+        nil
       end
 
       def log_summary(stats)
@@ -333,6 +349,33 @@ module Mayhem
         }
         summary_text = summary_fields.map { |key, value| "#{key}=#{value}" }.join(', ')
         @logger.info "Event summarization complete: #{summary_text}"
+      end
+
+      def prefer_fallback_body?(scraped_text, fallback_body)
+        return false if fallback_body.to_s.strip.empty?
+
+        cleaned = scraped_text.to_s.strip
+        cleaned.empty?
+      end
+
+      def handle_unusable_content(document, front_matter, file_path, stats, generated_from_post:)
+        @logger.warn "Skipping #{file_path}: no usable content to summarize"
+        stats[:failed_summary] += 1
+
+        front_matter['topics'] ||= []
+        front_matter['locations'] ||= []
+        front_matter['published'] = false
+        front_matter['summarized'] = true
+        document.front_matter = front_matter
+        document.body = ''
+        document.save
+        @content_pruner.unpublish_event(file_path, document)
+
+        return unless generated_from_post
+
+        event_slug = File.basename(file_path, '.md')
+        removed_refs = remove_event_references(event_slug)
+        stats[:events_unlinked] += removed_refs if removed_refs&.positive?
       end
     end
   end

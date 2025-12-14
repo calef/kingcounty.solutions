@@ -1,8 +1,6 @@
 ---
 date: '2025-12-04T19:24:11+00:00'
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   <p>By Steven Schauer, Deputy Executive Director</p>
 
 
@@ -158,84 +156,8 @@ original_content: |-
 
 
   <p>The North Fork Snoqualmie River Confluence Revetment Removal Project represents a forward-looking investment in ecological resilience, floodplain reconnection, and the health of our watershed. By removing outdated infrastructure and restoring natural processes, the KCFCD is helping ensure that future generations experience a more vibrant and sustainable Snoqualmie River system.</p><p>The post <a href="https://kingcountyfloodcontrol.org/river-restoration-along-the-north-fork-snoqualmie-river/">River Restoration Along the North Fork Snoqualmie River</a> appeared first on <a href="https://kingcountyfloodcontrol.org">King County Flood Control District</a>.</p>
-original_markdown_body: |-
-  By Steven Schauer, Deputy Executive Director
-
-  The King County Flood Control District (KCFCD), in partnership with King County as its service provider, completed construction of an important habitat restoration project in Three Forks Natural Area near North Bend in September 2025. The **North Fork Snoqualmie River Confluence Revetment Removal Project** removed a decades-old rock revetment, known as the Scott Revetment, to restore natural river processes, improve fish and wildlife habitat, and eliminate long-term maintenance costs for a facility that no longer serves a flood risk reduction purpose.
-
-  ![](https://kingcountyfloodcontrol.org/wp-content/uploads/2025/12/NF-Snoqualmie-Revetment-Removal-Project-Location-Map.jpg)
-  _North Fork Snoqualmie River Confluence Revetment Removal Project Location Map_
-
-  This project builds on regional goals to improve ecological function, enhance recreational experiences, and steward public resources responsibly while maintaining close collaboration with community members, Tribes, and local partners.
-
-  ![](https://kingcountyfloodcontrol.org/wp-content/uploads/2025/12/NF-Snoqualmie-Revetment-Removal-Project-Map.jpg)
-  _North Fork Snoqualmie River Confluence Revetment Removal Project Map_
-
-  ## **A Changing Landscape: Why This Revetment Is No Longer Needed**
-
-  The Scott Revetment was built around 1960 to protect privately owned agricultural land from erosion and channel migration. Today, the story is quite different. Removing the outdated and unnecessary revetment was both fiscally and environmentally responsible.
-
-  ![](https://kingcountyfloodcontrol.org/wp-content/uploads/2025/12/NF-Snoqualmie-Revetment-1024x768.jpg)
-  _North Fork Snoqualmie River Confluence Revetment Removal. Pre-construction._
-
-  The surrounding land is now a natural area managed by King County Parks, and the revetment no longer protects farmland, buildings, roads, or any other public infrastructure. Yet, King County was still inspecting and maintaining it using funding from the KCFCD.
-
-  ![](https://kingcountyfloodcontrol.org/wp-content/uploads/2025/12/20250723_NF-Snqualmie-Revetment-PreConstruction_bank-credit-KC-1024x576.jpg)
-  _North Fork Snoqualmie River Confluence Revetment Removal Project. Pre-construction. Credit: King County_
-
-  By removing the rock armoring, the river can reconnect with its floodplain and resume natural processes, such as eroding, depositing gravel, and shifting gently over time. These are essential processes for sustaining fish and wildlife habitat, revitalizing riparian forests, and increasing flood storage capacity in a natural, healthy way.
-
-  ## **A Companion to Nearby Restoration Investments**
-
-  The project was identified as an ideal companion restoration site for the recently constructed [Mason Thorson Ells Levee Rehabilitation Project](https://kingcounty.gov/en/dept/dnrp/nature-recreation/environment-ecology-conservation/flood-services/capital-projects-studies/mason-thorson-ells-levee-rehabilitation). This was a KCFCD project on the Middle Fork Snoqualmie River, which was implemented by the U.S. Army Corps of Engineers in partnership with King County. Because this levee rehabilitation project site offered limited opportunities for habitat enhancement, a secondary location was identified to offset impacts. The confluence of the Middle Fork and North Fork Snoqualmie rivers emerged as a perfect fit, being that it is only two miles downstream, ecologically valuable, and fully capable of supporting restoration.
-
-  ![](https://kingcountyfloodcontrol.org/wp-content/uploads/2025/12/20250902_NF-Snoqualmie-Revetment-Removal-DuringConstruction_Excavator-credit-KC-1024x768.jpg)
-  _North Fork Snoqualmie River Confluence Revetment Removal Project. Construction. Credit: King County_
-
-  The North Fork Snoqualmie River Confluence Revetment Removal Project also aligns with the **2022 Upper Snoqualmie Resilient River Corridor Management Plan** , published by the Snoqualmie Indian Tribe, which recommends removing obsolete riprap and restoring natural bank conditions at the Three Forks Confluence.
-
-  ![](https://kingcountyfloodcontrol.org/wp-content/uploads/2025/08/cm-perry-headshot-2025-768x1024.jpg)
-
-  “I’m grateful we were able to get the North Fork Snoqualmie River Confluence Revetment Removal Project constructed this year,” said Sarah Perry, Vice Chair of the King County Flood Control District. “By pairing it with a nearby levee rehabilitation project, we’re making every public dollar work harder, reducing flood risks for people while restoring a more natural, living river system at the same time. This is the kind of work that helps to protect our communities and strengthens the environment for fish, wildlife, and future generations.”
-
-  ## **A Place of Convergence: Ecological and Cultural Significance**
-
-  The project sits at a unique landscape feature where the North Fork and Middle Fork Snoqualmie rivers come together. This area is culturally significant for indigenous people who have been in the Snoqualmie Valley since time immemorial gathering, harvesting foods, and hunting. The area is also ecologically rich with fish, birds, and other wildlife calling this floodplain home. Elk, black bear, cougar, river otter, and deer use the Three Forks valley as a major migration corridor in their search for food and water, safe breeding locations, and to find better living conditions.
-
-  Reconnecting the river with its natural floodplain will:
-
-  - Improve aquatic habitat conditions
-  - Restore natural river processes
-  - Remove artificial constraints on the river channel
-  - Support wooded areas and forests vital to riparian ecosystems
-  - Reduce future maintenance obligations for the KCFCD and King County
-
-  ![](https://kingcountyfloodcontrol.org/wp-content/uploads/2025/12/20250912_NF-Fork-Snoqualmie-Revetment-removal-PostConBankCondition-credit-KC-1024x768.jpg)
-  _North Fork Snoqualmie River Confluence Revetment Removal. Post-construction. Credit: King County._
-
-  ## **What Changed? Understanding the Project Work**
-
-  The project removed approximately 600 feet of rock revetment, allowing the river to naturally shape the bank over time.
-
-  Key features include:
-
-  - Removal of rock armoring and artificial materials
-  - Limited grading to allow natural bank evolution
-  - Removal of invasive plants
-  - Planting approximately **2 acres of native trees and shrubs** in December 2025
-  - Installation of educational signage in collaboration with King County Parks in 2026
-  - Monitoring through 2029 to ensure long-term ecological success
-
-  Where possible, mature cottonwood trees were retained. Several alder trees were removed for safe access and construction; however, replanting will improve long-term habitat quality.
-
-  ![](https://kingcountyfloodcontrol.org/wp-content/uploads/2025/12/NF-Snoqualmie-Revetment-Removal_Post_-credit-KC-1024x767.jpg)
-  _North Fork Snoqualmie River Confluence Revetment Removal. Post-construction. Credit: King County._
-
-  ## **Looking Ahead**
-
-  The North Fork Snoqualmie River Confluence Revetment Removal Project represents a forward-looking investment in ecological resilience, floodplain reconnection, and the health of our watershed. By removing outdated infrastructure and restoring natural processes, the KCFCD is helping ensure that future generations experience a more vibrant and sustainable Snoqualmie River system.
-
-  The post [River Restoration Along the North Fork Snoqualmie River](https://kingcountyfloodcontrol.org/river-restoration-along-the-north-fork-snoqualmie-river/) appeared first on [King County Flood Control District](https://kingcountyfloodcontrol.org).
+images: []
+locations: []
 published: false
 source: King County Flood Control District
 source_url: https://kingcountyfloodcontrol.org/river-restoration-along-the-north-fork-snoqualmie-river/?utm_source=rss&utm_medium=rss&utm_campaign=river-restoration-along-the-north-fork-snoqualmie-river

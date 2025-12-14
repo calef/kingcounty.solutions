@@ -1,28 +1,23 @@
 ---
 end_date: '2025-12-31T11:00:00-08:00'
+feed_content: "<div> <div> <div> <div> <div> <div> <div> <div> <div><div><ul> <li><a>Login</a></li>
+  <li><a>Volunteer</a></li> <li><a>DONATE</a></li> </ul></div></div> </div> </div>
+  </div> </div> </div> </div> </div> <div> <a>Skip to content</a> </div> <section>
+  <div> <p> <a> « All Events</a> </p> <h1>EARLY START Maple Valley</h1> <div> <div>
+  <span>December 31 @ 10:00 am</span> - <span>11:00 am</span> </div> </div> <div>
+  <div> <div> <div> <div> <ul> <li> <a> Google Calendar </a> </li> <li> <a> iCalendar
+  </a> </li> <li> <a> Outlook 365 </a> </li> <li> <a> Outlook Live </a> </li> </ul>
+  </div> </div> </div> </div> <div> <div> <h2> Details </h2> <ul> <li> <span>Date:</span>
+  <span> <abbr> December 31 </abbr> </span> </li> <li> <span>Time:</span> <span> <div>
+  10:00 am - 11:00 am </div> </span> </li> </ul> </div> <div> <h2> Venue </h2> <ul>
+  <li> Maple Valley </li> <li> <address> <span> <span>Maplevalley</span><span>,</span>
+  <abbr>WA</abbr> <span>United States</span> </span> </address> </li> </ul> </div>
+  </div> </div> </div> </section> </div>"
+feed_content_checksum: 93c1afa59639875fc207000fe05ca73b97700bc9
 images: []
 location: Maple Valley, Maplevalley, WA, United States
 locations:
 - King County
-original_content: "<div> <div> <div> <div> <div> <div> <div> <div> <div><div><ul>
-  <li><a>Login</a></li> <li><a>Volunteer</a></li> <li><a>DONATE</a></li> </ul></div></div>
-  </div> </div> </div> </div> </div> </div> </div> <div> <a>Skip to content</a> </div>
-  <section> <div> <p> <a> « All Events</a> </p> <h1>EARLY START Maple Valley</h1>
-  <div> <div> <span>December 31 @ 10:00 am</span> - <span>11:00 am</span> </div> </div>
-  <div> <div> <div> <div> <div> <ul> <li> <a> Google Calendar </a> </li> <li> <a>
-  iCalendar </a> </li> <li> <a> Outlook 365 </a> </li> <li> <a> Outlook Live </a>
-  </li> </ul> </div> </div> </div> </div> <div> <div> <h2> Details </h2> <ul> <li>
-  <span>Date:</span> <span> <abbr> December 31 </abbr> </span> </li> <li> <span>Time:</span>
-  <span> <div> 10:00 am - 11:00 am </div> </span> </li> </ul> </div> <div> <h2> Venue
-  </h2> <ul> <li> Maple Valley </li> <li> <address> <span> <span>Maplevalley</span><span>,</span>
-  <abbr>WA</abbr> <span>United States</span> </span> </address> </li> </ul> </div>
-  </div> </div> </div> </section> </div>"
-original_content_checksum: 93c1afa59639875fc207000fe05ca73b97700bc9
-original_markdown_body: 'Login Volunteer DONATE          Skip to content      « All
-  Events  EARLY START Maple Valley   December 31 @ 10:00 am - 11:00 am           Google
-  Calendar     iCalendar     Outlook 365     Outlook Live           Details    Date:   December
-  31     Time:   10:00 am - 11:00 am        Venue    Maple Valley     Maplevalley,
-  WA United States'
 source: Indian American Community Services
 source_url: https://iacswa.org/event/early-start-maple-valley-102/
 start_date: '2025-12-31T10:00:00-08:00'

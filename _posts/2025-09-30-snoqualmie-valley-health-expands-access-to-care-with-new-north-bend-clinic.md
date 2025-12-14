@@ -2,10 +2,7 @@
 date: '2025-09-30T22:49:09+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- Snoqualmie Valley
-original_content: |-
+feed_content: |-
   **SNOQUALMIE, WA** – Snoqualmie Valley Health is proud to announce the opening of its new North Bend Clinic, expanding access to care for residents across the Valley. The clinic will welcome its first patients on Monday, October 20, 2025., with a Grand Opening Celebration to be announced.&nbsp;
 
   Located in the former Chase Bank Building at 712 SW Mt Si Blvd, North Bend, WA 98045, the clinic features six exam rooms designed to serve the growing needs of the community.
@@ -25,6 +22,9 @@ original_content: |-
   Read the full press release [here](https://snoqualmievalleyhealth.org/wp-content/uploads/2025/09/9.30.2025-Snoqualmie-Valley-Health-Expands-Access-to-Care-with-New-North-Bend-Clinic-003-1.pdf).&nbsp;
 
   The post [Snoqualmie Valley Health Expands Access to Care with New North Bend Clinic](https://snoqualmievalleyhealth.org/svh-expands-access-to-care-with-new-north-bend-clinic/) appeared first on [Snoqualmie Valley Hospital](https://snoqualmievalleyhealth.org).
+images: []
+locations:
+- Snoqualmie Valley
 source: Hospital District No. 4 (Snoqualmie Valley Hospital)
 source_url: https://snoqualmievalleyhealth.org/svh-expands-access-to-care-with-new-north-bend-clinic/
 summarized: true

@@ -4,8 +4,6 @@ images: []
 location: ''
 locations:
 - King County
-original_markdown_body: Deadline for submitting applications for the IHDD Pilot Grant
-  Program for 2025-2026.
 source: Institute on Human Development and Disability
 source_url: https://ihdd.org/2025/11/13/ihdd-pilot-grant-applications-now-open-for-2025-2026/
 start_date: '2026-01-01T00:00:00-08:00'

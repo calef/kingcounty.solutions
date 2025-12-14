@@ -1,10 +1,6 @@
 ---
 end_date: '2026-01-15T12:00:00-08:00'
-images: []
-location: Online (Zoom)
-locations:
-- King County
-original_content: '<div id="skiptocontent"> <a aria-label="Skip to main content" href="#the-main-content">Skip
+feed_content: '<div id="skiptocontent"> <a aria-label="Skip to main content" href="#the-main-content">Skip
   to Main Content</a> </div> <div id="accessibilityHome"> <a aria-label="Accessibility
   overview" href="https://washington.zoom.us/en/accessibility">Accessibility Overview</a>
   </div> <div id="header_container" class=" "> <div id="header_outer" class="container
@@ -35,17 +31,10 @@ original_content: '<div id="skiptocontent"> <a aria-label="Skip to main content"
   &amp; Legal Policies</a> <a id="ot-do-not-sell" class="ot-sdk-show-settings" style="cursor:
   pointer">Do Not Sell My Personal Information</a> <a class="ot-sdk-show-settings"
   style="cursor: pointer">Cookie Preferences</a> </p> </div> </div> </div> </div>'
-original_markdown_body: "[Skip to Main Content](#the-main-content) \n \n [Accessibility
-  Overview](https://washington.zoom.us/en/accessibility) \n \n \n \n \n \n [Support](https://support.zoom.us/hc/en-us)
-  \n \n \n-  \n [English](javascript:;) \n  - [English](javascript:;)\n  - [Español](javascript:;)\n
-  \ - [Deutsch](javascript:;)\n  - [简体中文](javascript:;)\n  - [繁體中文](javascript:;)\n
-  \ - [Français](javascript:;)\n  - [Português](javascript:;)\n  - [日本語](javascript:;)\n
-  \ - [Русский](javascript:;)\n  - [한국어](javascript:;)\n  - [Italiano](javascript:;)\n
-  \ - [Tiếng Việt](javascript:;)\n  - [Polski](javascript:;)\n  - [Türkçe](javascript:;)\n
-  \ - [Bahasa Indonesia](javascript:;)\n  - [Nederlands](javascript:;)\n  - [Svenska](javascript:;)\n\n
-  \n \n\n \n \n \n \n \n \n \n \n \n \n\nCopyright ©2025 Zoom Video Communications,
-  Inc. All rights reserved. [Privacy & Legal Policies](https://washington.zoom.us/en/legal)
-  Do Not Sell My Personal Information Cookie Preferences"
+images: []
+location: Online (Zoom)
+locations:
+- King County
 published: false
 source: University of Washington
 source_url: https://washington.zoom.us/webinar/register/7517597748194/WN_xeLRhb_yTrC6h-t-REBAcA

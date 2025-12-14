@@ -1,8 +1,6 @@
 ---
 date: '2025-10-09T20:08:34+00:00'
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   The following Tribal Members will receive tickets to these supplemental events in Q4 2025 at Climate Pledge Arena.
 
   All tickets will be distributed electronically to the email on file and do require a Ticketmaster account. If you are unable to attend your event or you cannot locate your tickets, then please email peyton.titus@snoqualmietribe.us&nbsp;for assistance.
@@ -35,6 +33,8 @@ original_content: |-
   | Desiree Jai Weese | |
   | | |
   | Thomas Zackuse | Heart Sun • Nov 23, 2025 • 07:00 PM |
+images: []
+locations: []
 published: false
 source: Snoqualmie Indian Tribe
 source_url: https://snoqualmietribe.us/supplemental-ticket-distribution-for-q4-climate-pledge-arena-concert-events/

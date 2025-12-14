@@ -2,11 +2,7 @@
 date: '2025-08-03T18:03:00+00:00'
 events: []
 events_extracted: true
-images:
-- 1a4f38456fffb57c119095542f0d8069053ccbafb504095f8b59017a9ea4d141
-locations:
-- King County
-original_content: "<figure class=\"\n              sqs-block-image-figure\n              intrinsic\n
+feed_content: "<figure class=\"\n              sqs-block-image-figure\n              intrinsic\n
   \           \"\n        >\n          \n        \n        \n\n        \n          \n
   \           \n          \n            \n                \n                \n                \n
   \               \n                \n                \n                \n                <img
@@ -47,18 +43,10 @@ original_content: "<figure class=\"\n              sqs-block-image-figure\n     
   class=\"sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element\"
   data-sqsp-button target=\"_blank\"\n  >\n    Make a gift to help more families like
   Nikki and Sara's\n  </a>"
-original_markdown_body: |-
-  ![](https://images.squarespace-cdn.com/content/v1/64b05d3e3547604a82ed3df3/75c05ce9-4064-4f0a-a1de-06704c9f43de/luiza-braun--yHi3ZC6W14-unsplash.jpg?format=1000w)
-
-  When Nikki’s teenage son was killed by gun violence, grief pushed her to seek a new beginning and safety for her daughter, Sara. She and Sara left Louisiana and moved to Washington, where Nikki found steady work and began building a life. For three years, things felt stable and the pair was hopeful for the future.&nbsp;Nikki worked at a fulfillment warehouse making a good wage and Sara was thriving in school, making new friends, and healing from the loss of her brother.
-
-  Then illness forced Nikki to take unpaid time off. Temporarily without a paycheck and with medical bills stacking up, rent became impossible, and eventually, Nikki and Sara lost their home. For months, they lived in their car—nights were cold, mornings began before dawn, and every day Nikki fought to keep her daughter safe.&nbsp;
-
-  Hope returned when Nikki connected with our mobile outreach team. They met Nikki and Sara at the parking lot where they slept in their car, bringing food, gas cards, and hygiene supplies—but more importantly, a path forward. Our outreach team walked alongside Nikki, helping her search for housing, connecting her with landlords and assistance programs, and checking in with supplies and support. When she found an apartment, Mary’s Place helped cover move-in costs.&nbsp;
-
-  Today, Nikki and Sara are safe in their own home. Their story is one of heartbreak and resilience—but also of community. Because of your support, families like Nikki’s never have to walk through hardship alone.&nbsp;
-
-  [Make a gift to help more families like Nikki and Sara's](https://give.marysplaceseattle.org/campaign/673342/donate?utm_source=website&utm_medium=blog&utm_campaign=blogs-public&c_src=blogs-public&c_src2=blog)
+images:
+- 1a4f38456fffb57c119095542f0d8069053ccbafb504095f8b59017a9ea4d141
+locations:
+- King County
 source: Mary's Place
 source_url: https://www.marysplaceseattle.org/blog/a-long-journey-home-nikki-and-saras-story
 summarized: true

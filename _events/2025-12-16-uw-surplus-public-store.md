@@ -1,10 +1,6 @@
 ---
 end_date: '2025-12-16T16:00:00-08:00'
-images: []
-location: Plant Services Building (PSB)
-locations:
-- King County
-original_content: "<a>Skip to main content</a> <div> <div> <header> <div> <a>University
+feed_content: "<a>Skip to main content</a> <div> <div> <header> <div> <a>University
   of Washington</a> <a>University of Washington</a> </div> </header> <div> <div> <div>
   <div> <div> <div> <div> <form> <div> <label>Search for:</label> </div> </form> <h3>Not
   what you were expecting?</h3> <p>Dubs tells us this page might not be what you had
@@ -16,14 +12,11 @@ original_content: "<a>Skip to main content</a> <div> <div> <header> <div> <a>Uni
   </div> </div> </div> <div> <a>University of Washington</a> <a><h3>Be boundless</h3></a>
   <h4>Connect with us:</h4> <p>© 2019 University of Washington | Seattle, WA</p> </div>
   </div> </div>"
-original_content_checksum: c7bfd6cf62ddaa2718c5b27e48081f7653f2c98b
-original_markdown_body: "Skip to main content     University of Washington University
-  of Washington            Search for:   Not what you were expecting? Dubs tells us
-  this page might not be what you had in mind when you set out on your journey through
-  the UW Web. Don\x92t worry, you\x92re not in the Dawg House! Here are some of Dubs\x92
-  favorite pages if you feel like exploring:     UW home page Discover the UW Maps
-  UW Today Husky Sports Visitor and Information Center          University of Washington
-  Be boundless Connect with us: © 2019 University of Washington | Seattle, WA"
+feed_content_checksum: c7bfd6cf62ddaa2718c5b27e48081f7653f2c98b
+images: []
+location: Plant Services Building (PSB)
+locations:
+- King County
 published: false
 source: University of Washington
 source_url: https://www.washington.edu/www.uwsurplus.com

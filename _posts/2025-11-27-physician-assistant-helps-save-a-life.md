@@ -2,9 +2,7 @@
 date: '2025-11-27T15:30:00+00:00'
 events: []
 events_extracted: true
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   <h2 class="wp-block-heading">VA medical providers team up to provide CPR</h2>
 
 
@@ -57,35 +55,8 @@ original_content: |-
 
 
   <p>To learn more about the physician assistant profession at VA, visit the <a href="https://www.patientcare.va.gov/PA/index.asp" rel="noopener">physician assistants home page</a>.</p>
-original_markdown_body: |-
-  ## VA medical providers team up to provide CPR
-
-  When a patient collapsed and became unresponsive in the lobby of the Tomball VA Outpatient Clinic in Texas in April, a page went out for help. Physician assistant Eric Lopez and nurse Tiffany Massenburg were the first to respond.
-
-  ## Life restored through teamwork
-
-  [![Two health care professionals smiling in an office. One wears navy scrubs, the other purple with an LVN badge.](https://news.va.gov/wp-content/uploads/sites/3/2025/10/EricLopez_TiffanyMassenburg_Tomball_r1.png?w=352)](https://news.va.gov/wp-content/uploads/sites/3/2025/10/EricLopez_TiffanyMassenburg_Tomball_r1.png)
-  _Physician assistant Eric Lopez and licensed vocational nurse Tiffany Massenburg stand side by side at the Tomball VA Outpatient Clinic in Texas._
-
-  Lopez and Massenburg immediately began [CPR and used an automated external defibrillator](https://news.va.gov/140624/why-caregivers-for-veterans-should-know-cpr/) (AED). After two rounds of CPR and two shocks, the patient regained a heartbeat. Emergency medical services transported her safely to a local hospital, where she recovered.
-
-  Days later, the patient emailed the clinic to thank the team for saving her life. She later returned for a visit with Lopez, sharing her gratitude again: “Even though I was experiencing some difficult times in my life and career, I am grateful to still be here with my loved ones.”
-
-  At VA, PAs play a vital role in ensuring Veterans have access to timely, patient-centered care. They see their own panels of patients, manage acute needs and support nearly every clinical specialty—from primary care and mental health to surgical subspecialties.
-
-  Lopez serves as a “gap provider,” covering sick call and filling in when other providers are unavailable. “It’s important that our Veterans always have access to care, no matter the circumstances,” he explained. “The last thing you want is for a Veteran to face delays in care because of staffing or office hours.”
-
-  ## A call to service
-
-  For Lopez, serving Veterans is more than a profession—it’s a mission. Before joining VA, he worked in correctional health care, responding to “man down codes” that often required CPR. Many of the individuals he treated were homeless Veterans, an experience that deepened his respect for their resilience and sacrifices.
-
-  “I chose VA because I encountered so many Veterans in correctional health who deserved better access to care,” Lopez said. “Here, I can serve them directly.”
-
-  Today, Lopez finds meaning not only in his clinical role but also in the opportunities VA provides for his family. “I transferred from the Las Vegas VA system because we wanted the school districts here in Tomball,” he said. “I enjoy and will continue to work for VA for the rest of my career. It’s an honor.”
-
-  Lopez insists that Massenburg deserves equal credit for saving the patient’s life. Their partnership underscores the teamwork and dedication of VA’s clinical staff, where every role contributes to Veteran care.
-
-  To learn more about the physician assistant profession at VA, visit the [physician assistants home page](https://www.patientcare.va.gov/PA/index.asp).
+images: []
+locations: []
 published: false
 source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143226/physician-assistant-helps-save-a-life/

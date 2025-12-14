@@ -2,9 +2,7 @@
 date: '2025-11-30T18:42:02+00:00'
 events: []
 events_extracted: true
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   <p><strong>Monday ~</strong> Small Chef Salad, Veggie Noodle Soup &amp; Fruit </p>
 
 
@@ -35,20 +33,8 @@ original_content: |-
 
   <p></p>
   <p>The post <a href="https://ballardseniorcenter.org/dining-menu-december-1st-5th/">Dining Menu December 1st &#8211; 5th</a> appeared first on <a href="https://ballardseniorcenter.org">Ballard Senior Center</a>.</p>
-original_markdown_body: |-
-  **Monday ~** Small Chef Salad, Veggie Noodle Soup & Fruit
-
-  **Tuesday ~** Teriyaki Chicken, Veggie Fried Rice, Egg Rolls, Fruit & Dessert
-
-  **Wednesday ~** Ribolitta Soup (vegetarian Italian bean soup), Antipasti Salad & Fruit
-
-  **Thursday ~** BBQ Ribs, Mac & Cheese, Broccoli Salad, Fruit & Dessert
-
-  **Friday ~** White Bean Chicken Chili, Cheesy Corn Bread, Salad & Fruit
-
-  [**Wednesday Night Dinner** (RSVP Required)](https://ballardseniorcenter.org/coming-up/wednesday-happy-hour-dinner-bingo/) ~ Meatloaf, Mashed Potatoes, Gravy, Veggies & Dessert
-
-  The post [Dining Menu December 1st – 5th](https://ballardseniorcenter.org/dining-menu-december-1st-5th/) appeared first on [Ballard Senior Center](https://ballardseniorcenter.org).
+images: []
+locations: []
 published: false
 source: Ballard Northwest Senior Center
 source_url: https://ballardseniorcenter.org/dining-menu-december-1st-5th/

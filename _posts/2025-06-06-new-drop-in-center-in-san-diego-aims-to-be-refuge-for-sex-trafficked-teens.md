@@ -2,9 +2,7 @@
 date: '2025-06-06T23:00:42+00:00'
 events: []
 events_extracted: true
-images: []
-locations: []
-original_content: "<div class=\"vc_row wpb_row vc_row-fluid\"><div class=\"wpb_column
+feed_content: "<div class=\"vc_row wpb_row vc_row-fluid\"><div class=\"wpb_column
   vc_column_container vc_col-sm-12\"><div class=\"vc_column-inner\"><div class=\"wpb_wrapper\">\n\t<div
   \ class=\"wpb_single_image wpb_content_element vc_align_\">\n\t\t\n\t\t<figure class=\"wpb_wrapper
   vc_figure\">\n\t\t\t<div class=\"vc_single_image-wrapper   vc_box_border_grey\"><img
@@ -19,10 +17,8 @@ original_content: "<div class=\"vc_row wpb_row vc_row-fluid\"><div class=\"wpb_c
   post <a href=\"https://www.olivecrest.org/21253-2/\">New Drop-In Center in San Diego
   Aims to be Refuge for Sex-Trafficked Teens</a> first appeared on <a href=\"https://www.olivecrest.org\">Olive
   Crest</a>.</p>"
-original_markdown_body: |-
-  ![](https://www.olivecrest.org/wp-content/uploads/2025/06/Olive-Crest-San-Diego-Union-Tribune-Print-Clip-Jpeg-scaled.jpg)
-
-  The post [New Drop-In Center in San Diego Aims to be Refuge for Sex-Trafficked Teens](https://www.olivecrest.org/21253-2/) first appeared on [Olive Crest](https://www.olivecrest.org).
+images: []
+locations: []
 published: false
 source: Olive Crest
 source_url: https://www.olivecrest.org/21253-2/

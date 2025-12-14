@@ -2,9 +2,7 @@
 date: '2025-12-08T14:30:00+00:00'
 events: []
 events_extracted: true
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   <p>Editor’s note: This post contains links to jobs that are active at the time of publishing. Most job listings close 7–30 days after posting. The sharing of any non-VA information does not constitute an endorsement of products or services by VA. Veterans should verify all information with the organization offering the opportunity.</p>
 
 
@@ -246,129 +244,9 @@ original_content: |-
 
 
   <p><a>Norfolk, VA: Hampton Roads Military Community Education Connect (Southside) – Thursdays</a></p>
-original_content_checksum: 1ae0a58e8c9ea1ec3dd9a864d92a9d527bdbf387
-original_markdown_body: |-
-  Editor’s note: This post contains links to jobs that are active at the time of publishing. Most job listings close 7–30 days after posting. The sharing of any non-VA information does not constitute an endorsement of products or services by VA. Veterans should verify all information with the organization offering the opportunity.
-
-  Each week, we receive job announcements from employers and employment websites seeking to hire Veterans. This post includes links to job listings for the week of Dec. 8, 2025. We will continue to post relevant and timely listings as we receive them for the locations listed.
-
-  By recognizing the skills, discipline, leadership and problem-solving abilities that Veterans possess, employers can benefit greatly from hiring them. Veterans bring adaptability, a diverse perspective and a strong work ethic to the workplace, enriching company culture and fostering innovation.
-
-  Job Listings: Week of Dec. 8, 2025
-
-  Yuma Proving Ground, AZ – Business Manager
-
-  Denver, CO – Sr. Boiler Tech
-
-  Davenport, IA – Quality Site Lead, Eaton
-
-  Fort Meade, MD – Project Manager
-
-  Hunt Valley, MD – Claim Representative Workers Compensation RTW
-
-  Jessup, MD – Heavy Equipment Operator II / Weighmaster.
-
-  Minneapolis, MN – Field Service Technician
-
-  “My mentor helped me double my salary”:&nbsp;Supercharge your job search with&nbsp;customized mentorship from ACP.
-
-  Cleveland, OH – QC Laboratory Technologist II
-
-  New Albany, OH – Facilities & Maintenance Technician
-
-  Philadelphia, PA – Mechanic II
-
-  Central Texas – Account Manager (Project Management/Business Development/Sales), Heritage Roofing and Construction
-
-  Dallas, TX – Fabrication Technician/Installer, Atlas Copco Group
-
-  Houston, TX – Auto Liability Inside Claim Representative
-
-  Plano, TX – Analyst, Data Analysis, Toyota North America&nbsp;
-
-  Hampton, VA – Advanced Leader Program, Howmet Aerospace
-
-  Multiple Locations – Senior Complex Claims Adjuster, Mass Tort
-
-  Multiple Locations – Complex Claims Director
-
-  Multiple Locations – Senior Analyst
-
-  Nationwide – Regional Sales Manager: Government and Military
-
-  Nationwide – Veteran-only franchise opportunities.
-
-  Find more Jobs & SkillBridge/CSP opportunities.
-
-  ## Work at VA
-
-  Whether you’re looking for the care you’ve earned or the career you deserve, we’re all about Veterans at VA. Your military service can translate into numerous skills that federal employers like us value.
-
-  See this week’s job announcements for a variety of clinical and non-clinical positions at VA facilities around the country:
-
-  Nationwide – Peer Specialist
-
-  Nationwide – Radiologist
-
-  Nationwide – Diagnostic Radiological Technologist&nbsp;
-
-  Eureka, CA – Telehealth Licensed Vocational Nurse
-
-  Bay Pines, FL – Social Worker (Mental Health and Behavioral Health Service)
-
-  North Chicago, IL – Security Assistant (Police Dispatcher)
-
-  Indianapolis, IN – Healthcare Engineer
-
-  East Orange, NJ – Physician (Emergency Medicine)
-
-  Artesia, NM – Physician Assistant (Primary Care)
-
-  Northport, NY – Licensed Practical Nurse
-
-  Philadelphia, PA – Supervisory Medical Instrument Technician (Vascular)
-
-  Richmond, VA – Environmental Service Technician
-
-  Find more jobs at VA.
-
-  ## Veterans Canteen Service (VCS) opportunities
-
-  Prescott, AZ – Cook&nbsp;
-
-  Orlando, FL – Certified Dietary Manger
-
-  West Palm Beach, FL – Assistant General Manager, Retail
-
-  Boise, ID – Supervisory Operations Clerk
-
-  Hines, IL – Food Service Worker/Barista
-
-  Bedford, MS – Supervisory Operations Clerk
-
-  Biloxi, MS – Assistant General Manager, Restaurant
-
-  Asheville, NC – Lead Food Service Worker
-
-  Northpoint, NY – Food Service Worker
-
-  Pittsburgh, PA – Retail Sales Associate
-
-  Nashville, TN – Assistant General Manager, Restaurant
-
-  White River Junction, VT – Cook
-
-  White River Junction, VT – Food Service Worker
-
-  Spokane, WA – Food Service Worker
-
-  View more seasonal openings online.
-
-  ## Career Fairs
-
-  Newport News, VA: Hampton Roads Military Community Education Connect (Peninsula) – Thursdays
-
-  Norfolk, VA: Hampton Roads Military Community Education Connect (Southside) – Thursdays
+feed_content_checksum: 1ae0a58e8c9ea1ec3dd9a864d92a9d527bdbf387
+images: []
+locations: []
 published: false
 source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143913/hiring-veterans-jobs-week-dec-8-2025/

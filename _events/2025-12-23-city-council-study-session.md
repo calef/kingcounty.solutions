@@ -1,11 +1,6 @@
 ---
 end_date: '2025-12-23T22:00:00-08:00'
-images: []
-location: Council Chambers, 801 SW 174th Street, Normandy Park, WA, 98166, United
-  States
-locations:
-- King County
-original_content: '<div id="page-container"> <div id="et-boc" class="et-boc"> <header
+feed_content: '<div id="page-container"> <div id="et-boc" class="et-boc"> <header
   id="main-header" data-height-onload="80"> <div class="container clearfix et_menu_container">
   <div id="et-top-navigation" data-height="80" data-fixed-height="80"> <div id="et_mobile_nav_menu">
   <div class="mobile_nav closed"> <span class="select_page">Select Page</span> </div>
@@ -85,17 +80,11 @@ original_content: '<div id="page-container"> <div id="et-boc" class="et-boc"> <h
   news and updates from our team.</p> </div> </div> </div> <div class="et_bloom_form_content
   et_bloom_1_field et_bloom_bottom_stacked"> <h2 class="et_bloom_success_message">You
   have Successfully Subscribed!</h2> </div> </div> </div> </div>'
-original_markdown_body: 'Select Page           « All Events  City Council Study Session   December
-  23 @ 7:00 pm - 10:00 pm    Event Series    (See All)       The City Council is holding
-  study sessions on the 4th Tuesday of the month beginning at 7:00 pm. This meeting
-  will be held in person at Normandy Park City Hall and remotely using Zoom. [View
-  Meeting Agenda & Packet] [Meeting Link]         Google Calendar     iCalendar     Outlook
-  365     Outlook Live           Details    Date:   December 23     Time:   7:00 pm
-  - 10:00 pm    Series:    City Council Study Session       Venue    Council Chambers     801
-  SW 174th Street Normandy Park, WA 98166 United States  + Google Map      Organizer   City
-  Clerk    Phone   206-248-8248     Email   esmith@normandyparkwa.gov                  Subscribe
-  To Our Newsletter Join our mailing list to receive the latest news and updates from
-  our team.     You have Successfully Subscribed!'
+images: []
+location: Council Chambers, 801 SW 174th Street, Normandy Park, WA, 98166, United
+  States
+locations:
+- King County
 published: false
 source: City of Normandy Park
 source_url: https://normandyparkwa.gov/event/event-title-mm-dd-yyyy/2025-12-23/

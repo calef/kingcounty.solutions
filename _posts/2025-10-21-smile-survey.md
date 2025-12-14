@@ -2,11 +2,7 @@
 date: '2025-10-21T22:22:31+00:00'
 events: []
 events_extracted: true
-images:
-- 596b3bb8797565f3d97f4d83a9e334646442834fe6f09ea35f58a048827f1924
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <h4 class="wp-block-heading"><strong>Washington Smile Survey 2023–2024: Tracking Trends in Children’s Oral Health</strong></h4>
 
 
@@ -89,55 +85,10 @@ original_content: |-
 
   <p></p>
   <p>The post <a href="https://arcorafoundation.org/smile-survey/">Smile Survey</a> appeared first on <a href="https://arcorafoundation.org">Arcora Foundation</a>.</p>
-original_markdown_body: |-
-  #### **Washington Smile Survey 2023–2024: Tracking Trends in Children’s Oral Health**
-
-  [Infographic](https://arcorafoundation.org/wp-content/uploads/2025/10/Smile-Survey-2023-24-Infographic-DOH-Approved.pdf)
-
-  [DOH Fact Sheet](https://doh.wa.gov/sites/default/files/2025-09/140319-SmileSurveyFactSheet.pdf)
-
-  [Tableau Dashboard](https://public.tableau.com/views/SmileSurveyDashboard2023-24/1_Key_Insights?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
-  [Feedback Form](https://app.smartsheet.com/b/form/be7aa9aeead847768a6ddb146bf855c6)
-
-  #### **About the Smile Survey**  &nbsp;
-
-  The Smile Survey is a public/private partnership that includes the Washington State Department of Health, the Office of Superintendent of Public Instruction, local health jurisdictions (LHJs), and oral health professionals, and with funding and planning support from Arcora Foundation. Usually conducted every five years, this survey provides a comprehensive overview of the current state of children’s oral health across the state. &nbsp;
-
-  #### Smile Survey Dashboard
-
-  The Smile Survey Dashboard allows advocates, analysts, and other interested groups to explore the most recent survey data.&nbsp;&nbsp;
-
-  While the [fact sheet](https://doh.wa.gov/sites/default/files/2025-09/140319-SmileSurveyFactSheet.pdf) and [infographic](https://arcorafoundation.org/wp-content/uploads/2025/10/Smile-Survey-2023-24-Infographic-DOH-Approved.pdf) provide key takeaways across Washington state, the dashboard allows you to explore data at the county level across demographic groups.&nbsp;
-
-  Arcora designed the refreshed Smile Survey Dashboard with three key levels of analysis:&nbsp;
-
-  - **Snapshots** at the state and county levels that provide quick references on key figures and changes since the last survey (2015-16).&nbsp;
-  - **Comparison views** for you to compare findings across demographic groups within a county, or overall results across counties to identify populations with the greatest need for oral health support.&nbsp;
-  - **A self-service table view** for quick access to data points for specific counties and demographic groups.&nbsp;
-
-  In addition, the dashboard has a county profile view designed to print as a one-page fact sheet. &nbsp;
-
-  Access the dashboard in the embedded window on this page, best viewed in expanded mode, or on [Tableau Public](https://public.tableau.com/views/SmileSurveyDashboard2023-24/1_Key_Insights?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).&nbsp;
-
-  We value your input! Please take a moment to share your thoughts using the [feedback form](https://app.smartsheet.com/b/form/be7aa9aeead847768a6ddb146bf855c6).
-
-  <center>
-  <div class="tableauPlaceholder" id="viz1763066651456" style='position: relative;"&gt;&lt;noscript&gt;&lt;a href='>
-  <img alt=" " src="https://public.tableau.com/static/images/Sm/SmileSurveyDashboard2023-24/1_Key_Insights/1_rss.png" style="border: none"><object class="tableauViz" style="display:none;"><param name="host_url" value="https%3A%2F%2Fpublic.tableau.com%2F"> <param name="embed_code_version" value="3"> <param name="site_root" value="">
-  <param name="name" value="SmileSurveyDashboard2023-24/1_Key_Insights">
-  <param name="tabs" value="yes">
-  <param name="toolbar" value="yes">
-  <param name="static_image" value="https://public.tableau.com/static/images/Sm/SmileSurveyDashboard2023-24/1_Key_Insights/1.png"> <param name="animate_transition" value="yes">
-  <param name="display_static_image" value="yes">
-  <param name="display_spinner" value="yes">
-  <param name="display_overlay" value="yes">
-  <param name="display_count" value="yes">
-  <param name="language" value="en-US"></object>
-  </div> <script type="text/javascript"> var divElement = document.getElementById('viz1763066651456'); var vizElement = divElement.getElementsByTagName('object')[0]; if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1600px';vizElement.style.height='1150px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1600px';vizElement.style.height='1150px';} else { vizElement.style.width='100%';vizElement.style.height='6300px';} var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement); </script>
-  </center>
-
-  The post [Smile Survey](https://arcorafoundation.org/smile-survey/) appeared first on [Arcora Foundation](https://arcorafoundation.org).
+images:
+- 596b3bb8797565f3d97f4d83a9e334646442834fe6f09ea35f58a048827f1924
+locations:
+- King County
 source: Arcora Foundation
 source_url: https://arcorafoundation.org/smile-survey/
 summarized: true

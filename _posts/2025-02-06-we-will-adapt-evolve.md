@@ -2,10 +2,7 @@
 date: '2025-02-06T18:20:51+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: "![](https://sophiaway.org/wp-content/uploads/2025/02/Image-msg-2025-02.png)\n\n>
+feed_content: "![](https://sophiaway.org/wp-content/uploads/2025/02/Image-msg-2025-02.png)\n\n>
   **_“When the world implodes and explodes… you can either stay the course the best
   you can, or adapt and evolve.”_**\n\nDear Friends,\n\nI spoke those words in[our
   video celebrating 15 years of Resilience and Renewal.](https://www.youtube.com/watch?v=xwnPCcB0Yn4)
@@ -37,6 +34,9 @@ original_content: "![](https://sophiaway.org/wp-content/uploads/2025/02/Image-ms
   gratitude,\n\nDietra Clayton  \n_Executive Director_\n\n> \n\nThe post [We Will
   Adapt & Evolve](https://sophiaway.org/adapt-and-evolve/) first appeared on [The
   Sophia Way](https://sophiaway.org)."
+images: []
+locations:
+- King County
 source: The Sophia Way
 source_url: https://sophiaway.org/adapt-and-evolve/?utm_source=rss&utm_medium=rss&utm_campaign=adapt-and-evolve
 summarized: true

@@ -2,10 +2,7 @@
 date: '2025-11-19T19:00:00+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <p class="has-medium-font-size">Chartock was appointed as the new Assistant Director of the Office of Economic Development and Competitiveness in November</p>
 
 
@@ -47,24 +44,9 @@ original_content: |-
 
 
   <p></p>
-original_markdown_body: |-
-  Chartock was appointed as the new Assistant Director of the Office of Economic Development and Competitiveness in November
-
-  ![AD Andrea Chartock](https://www.commerce.wa.gov/wp-content/uploads/2025/11/Andrea-Chartock-4x5-1-240x300.jpg)
-
-  OLYMPIA, Wash. — Washington State Department of Commerce Director Joe Nguyễn appointed Andrea Chartock to lead the state’s Office of Economic Development and Competitiveness, a division of Commerce. Chartock was previously with the international development company DAI and has more than 25 years of experience in global economic development, spanning more than 30 countries.
-
-  “Andrea is an exceptional addition to Commerce,” said Director Nguyễn. “She has the experience and dedication needed to elevate our existing business community and foster growth in innovative ways. I am delighted to have her join our team.”
-
-  “I’m excited to join Commerce and the Office of Economic Development and Competitiveness. My focus will be on growth of high-quality jobs, market expansion for businesses, and equitable economic development across all communities in Washington,” Chartock said. “I look forward to strengthening what works and enhancing our efforts to help Washington thrive.”
-
-  Chartock’s experience includes supporting small and medium-sized enterprises to increase sales, jobs, exports&nbsp;and attract investments. In her previous role, she implemented projects with U.S. Agency for International Development (USAID) funding, and has led teams completing assessments to understand market opportunities and constraints to design and adaptively manage inclusive economic development programming.
-
-  She has extensive experience in the industry sectors important to Washington, such as agriculture (tree fruit, grain and berries), information and communication technology, tourism, creative economy, industrial symbiosis, forest products and clean tech. Andrea has a master’s degree in international policy studies and undergraduate degree with honors from Stanford University.
-
-  Chartock will lead the Office of Economic Development and Competitiveness teams at Commerce, including industry sector development, circular economy, rural and marketing services, small business export assistance, small business finance and community support, finance and grant services, and contracts and procurement. She will serve on the agency’s Executive Leadership Team.
-
-  Chartock began state service with Commerce on Nov. 3. She can be reached at (564) 233-9055 and by email at [Andrea.Chartock@commerce.wa.gov](mailto:Andrea.Chartock@commerce.wa.gov).
+images: []
+locations:
+- King County
 source: Department of Commerce
 source_url: https://www.commerce.wa.gov/andrea-chartock-selected-to-lead-states-economic-development-office/
 summarized: true

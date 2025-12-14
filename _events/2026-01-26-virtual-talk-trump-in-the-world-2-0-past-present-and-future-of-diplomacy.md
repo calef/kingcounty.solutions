@@ -1,10 +1,6 @@
 ---
 end_date: '2026-01-26T18:20:00-08:00'
-images: []
-location: ''
-locations:
-- King County
-original_content: '<script type="application/ld+json"> { "@context": "https://schema.org",
+feed_content: '<script type="application/ld+json"> { "@context": "https://schema.org",
   "@type": "Event", "name": "Trump in the World 2.0 Winter Lecture Series 2026", "description":
   "Join us online for a series of talks and discussion exploring global perspectives
   on a second Trump administration. Presentations by faculty and guest speakers will
@@ -14,7 +10,10 @@ original_content: '<script type="application/ld+json"> { "@context": "https://sc
   "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode", "location":
   {"@type":"VirtualLocation","url":"https://events.uw.edu/event/958eec2c-bf2a-42cf-bfad-5547356c64da"}
   } </script>'
-original_markdown_body: ''
+images: []
+location: ''
+locations:
+- King County
 published: false
 source: University of Washington
 source_url: https://events.uw.edu/event/958eec2c-bf2a-42cf-bfad-5547356c64da/

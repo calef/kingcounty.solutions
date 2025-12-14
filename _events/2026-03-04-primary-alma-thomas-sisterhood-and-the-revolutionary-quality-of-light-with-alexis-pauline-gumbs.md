@@ -1,10 +1,6 @@
 ---
 end_date: '2026-03-04T19:30:00-08:00'
-images: []
-location: Town Hall Seattle
-locations:
-- King County
-original_content: '<article id="post-3858" class="post-3858 uw_oplevents type-uw_oplevents
+feed_content: '<article id="post-3858" class="post-3858 uw_oplevents type-uw_oplevents
   status-publish hentry category-department-of-anthropology category-graduate-school-sponsored
   category-school-of-nursing category-school-of-public-health"> <header class="entry-header">
   <h1 class="entry-title">The Office of Public Lectures presents: Primary: Alma Thomas,
@@ -68,24 +64,10 @@ original_content: '<article id="post-3858" class="post-3858 uw_oplevents type-uw
   </div> </div> <p class="sponsor-dept"><strong>Sponsoring Departments:</strong> School
   of Nursing, School of Public Health, Department of Anthropology, Center for Anti-Racism
   and Community Health (ARCH), The Graduate School</p> </div> </article>'
-original_markdown_body: 'The Office of Public Lectures presents: Primary: Alma Thomas,
-  Sisterhood and the Revolutionary Quality of Light with Alexis Pauline Gumbs    March
-  4, 2026 6:30 pm Town Hall Seattle, Livestream (Hybrid) Pay What You WIllAvailableRecordedLivestreamComing
-  Soon CART Captioning     Alexis Pauline Gumbs   Based on Alexis Pauline Gumbs’ forthcoming
-  book of poetic indexes, this interactive poetic lecture explores the life, teaching,
-  and artwork of color theorist Alma Thomas. Engaging themes of audience, intimacy,
-  abstract expressionist art, and the dynamic relationship between Black women’s creativity
-  and the process of being Earth, the lecture invites participants into a rhythmic
-  dialogue of form, meaning, and presence.  Registration opens December 10, 2025.    About
-  the speaker  Alexis Pauline Gumbs Author, Poet Alexis Pauline Gumbs is a Queer Black
-  Feminist Love Evangelist and an aspirational cousin to all life. She/they are the
-  author of several transformative books, including Survival is a Promise: The Eternal
-  Life of Audre Lorde and the award-winning Undrowned: Black Feminist Lessons from
-  Marine Mammals. As the co-founder of the Mobile Homecoming Trust, she/they help
-  steward an intergenerational, experiential living library celebrating Black LGBTQ
-  brilliance.    Sponsoring Departments: School of Nursing, School of Public Health,
-  Department of Anthropology, Center for Anti-Racism and Community Health (ARCH),
-  The Graduate School'
+images: []
+location: Town Hall Seattle
+locations:
+- King County
 published: false
 source: University of Washington
 source_url: https://www.washington.edu/lectures/events/primary-alma-thomas-sisterhood-and-the-revolutionary-quality-of-light-presented-by-the-office-of-public-lectures/

@@ -1,8 +1,6 @@
 ---
 date: '2025-12-01T18:00:02+00:00'
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   <p><span data-contrast="auto">Every year, we ask staff members around the library system what their favorite reads published this year were. 2025 is no different, and we have a stellar lineup of fiction and graphic novels. </span><span data-ccp-props="{}"> </span></p>
   <p><span data-contrast="auto">Graphic novels first: <strong><a href="https://seattle.bibliocommons.com/v2/search?query=Cat%20Companions%20Maruru%20and%20Hachi&amp;searchType=smart">Cat Companions Maruru and Hachi</a></strong> began in 2024, but volumes 3 through 5 were published this year. The series follows two cats – pampered Maruru and tough Hachi – as they make their life on the streets of Tokyo.</span><span data-ccp-props="{}"> </span></p>
   <p><span data-contrast="auto">Trung Le Nguyen, who created the beautiful coming-out story <a href="https://seattle.bibliocommons.com/v2/record/S30C3601708">The Magic Fish</a>, follows up this year with <strong><a href="https://seattle.bibliocommons.com/v2/record/S30C4079353">Angelica and the Bear Prince</a></strong>, a story about a girl grieving her grandmother and finding solace in the friendship of a theater mascot dressed as a bear prince. </span><span data-ccp-props="{}"> </span></p>
@@ -32,42 +30,8 @@ original_content: |-
   <p><span data-contrast="auto">In Xan Kaur’s gothic horror novel <strong><a href="https://seattle.bibliocommons.com/v2/record/S30C4047599">When Devils Sing</a></strong>, four teens explore the disappearance of another teen in a small Georgian town named Carrion, which coincides with the re-emergence of cicadas after thirteen years. As they uncover terrifying secrets about the town, the true nature of the cycle becomes all too clear.</span><span data-ccp-props="{}"> </span></p>
   <p><span data-contrast="auto">For a contemporary urban fantasy, look no further than Ibi Zoboi’s latest, <strong><a href="https://seattle.bibliocommons.com/v2/record/S30C4026633">(S)kin</a></strong>, which follows two girls.  Their lives intersect as one follows her mother’s path as a soucouyant, a shape-shifting witch who feeds on others’ life force, and the other as she learns her true heritage when the other girl’s mother comes to her home as the new nanny to her baby siblings.</span><span data-ccp-props="{}"> </span></p>
   <p><em>~Posted by Wally B.</em></p>
-original_markdown_body: |-
-  Every year, we ask staff members around the library system what their favorite reads published this year were. 2025 is no different, and we have a stellar lineup of fiction and graphic novels. &nbsp;
-
-  Graphic novels first: **[Cat Companions Maruru and Hachi](https://seattle.bibliocommons.com/v2/search?query=Cat%20Companions%20Maruru%20and%20Hachi&searchType=smart)** began in 2024, but volumes 3 through 5 were published this year. The series follows two cats – pampered Maruru and tough Hachi – as they make their life on the streets of Tokyo.&nbsp;
-
-  Trung Le Nguyen, who created the beautiful coming-out story [The Magic Fish](https://seattle.bibliocommons.com/v2/record/S30C3601708), follows up this year with **[Angelica and the Bear Prince](https://seattle.bibliocommons.com/v2/record/S30C4079353)**, a story about a girl grieving her grandmother and finding solace in the friendship of a theater mascot dressed as a bear prince.&nbsp;&nbsp;
-
-  Ursula K. LeGuin’s fantasy classic, [The Wizard of Earthsea](https://seattle.bibliocommons.com/v2/record/S30C2861350), was finally given **[the graphic novel treatment](https://seattle.bibliocommons.com/v2/record/S30C4031862)** it deserves (by Fred Fordham) with the release of volume one in the series. This adaptation captures details that others have missed, notably the wizard Ged’s darker skin color. If you haven’t yet read this series, start here with young Ged as he learns the ways of names and magic, and struggles to contain the shadow he releases in a prideful dare, chasing it around the world before a final confrontation.&nbsp;
-
-  Agnes Lee crafted a beautiful, haunting graphic novel titled **[49 Days](https://seattle.bibliocommons.com/v2/record/S30C3937887)**, which, in Buddhist tradition, is the number of days the dead must inhabit the afterlife before moving on. The story follows, almost wordlessly, Korean American Kit as she makes her way through a vast, unchanging landscape bereft of life. Meanwhile, here on earth, her family and friends learn to live their lives without her.&nbsp;
-
-  The one nonfiction title on our list is a standout: **[Death in the Jungle: Murder, Betrayal, and the Lost Dream of Jonestown](https://seattle.bibliocommons.com/v2/record/S30C4033067)** by Candace Fleming. Known for other explorations of crime and mystery, Fleming chronicles the rise and fall of Jim Jones, who led over 900 followers of his cult to commit mass suicide in 1978.&nbsp;
-
-  [![](https://i0.wp.com/blog.spl.org/wp-content/uploads/2025/12/I-cant-even-think-straight.jpg?fit=264%2C400&ssl=1)](https://blog.spl.org/2025/12/01/staff-faves-teen-fiction-december-2025/i-cant-even-think-straight/)[![](https://i0.wp.com/blog.spl.org/wp-content/uploads/2025/12/on-again-awkward-again.jpg?fit=266%2C400&ssl=1)](https://blog.spl.org/2025/12/01/staff-faves-teen-fiction-december-2025/on-again-awkward-again/)[![](https://i0.wp.com/blog.spl.org/wp-content/uploads/2025/12/eliza-from-scratch.jpg?fit=264%2C400&ssl=1)](https://blog.spl.org/2025/12/01/staff-faves-teen-fiction-december-2025/eliza-from-scratch/)[![](https://i0.wp.com/blog.spl.org/wp-content/uploads/2025/12/daughter-of-doom.jpg?fit=269%2C400&ssl=1)](https://blog.spl.org/2025/12/01/staff-faves-teen-fiction-december-2025/daughter-of-doom/)
-
-  Dean Atta’s novel in verse, **[I Can’t Even Think Straight](https://seattle.bibliocommons.com/v2/record/S30C4044490)**, follows Kai and Matt as they navigate their queer identities. Kai wants to come out at school, but Matt fears his parents’ reaction if they find out he (Matt) is gay, so he pressures Kai to stay closeted. &nbsp;
-
-  Erin Entrada Kelly’s new novel, **[On Again, Awkward Again](https://seattle.bibliocommons.com/v2/record/S30C4062251)**, follows two high school freshmen, Pacy and Cecil, as they meet and fall in love at first sight. Because both are quite shy around the other person, they rely on the questionable advice of ignorant friends, dysfunctional family members, and the Internet before they realize their connection might be best if they just learn to be themselves.&nbsp;
-
-  Sophia Lee’s debut novel, **[Eliza, from Scratch](https://seattle.bibliocommons.com/v2/record/S30C4069565)**, follows Eliza Park as she plans her perfect senior year in high school. When she is somehow enrolled in Culinary Arts class, her lack of knowledge and ability to cook leaves her foundering. The presence of Thai-American Wesley, whose abilities are both awe-inspiring and annoying, drives her to compete for the midterm cooking contest win, bringing her and Wesley closer together than she likes.&nbsp;
-
-  Jean-Claude van Rijckeghem’s novel **[Daughter of Doom](https://seattle.bibliocommons.com/v2/record/S30C4047584)** transports readers to 870 AD and a Viking village in Denmark. Yrsa, a Viking girl born with a crooked foot, cannot move easily, which leaves her to spend much of her time with the newly captured nun named Job. When Job is attacked by one of the villagers and Yrsa kills him in self-defense, the two young women must flee the village forever.&nbsp;
-
-  [![](https://i0.wp.com/blog.spl.org/wp-content/uploads/2025/12/A-bird-in-the-air.jpg?fit=264%2C400&ssl=1)](https://blog.spl.org/2025/12/01/staff-faves-teen-fiction-december-2025/a-bird-in-the-air/)[![](https://i0.wp.com/blog.spl.org/wp-content/uploads/2025/12/augmented.jpg?fit=260%2C400&ssl=1)](https://blog.spl.org/2025/12/01/staff-faves-teen-fiction-december-2025/augmented/)[![](https://i0.wp.com/blog.spl.org/wp-content/uploads/2025/12/Candle-Island.jpg?fit=264%2C400&ssl=1)](https://blog.spl.org/2025/12/01/staff-faves-teen-fiction-december-2025/candle-island/)[![](https://i0.wp.com/blog.spl.org/wp-content/uploads/2025/12/when-devils-sing.jpg?fit=258%2C400&ssl=1)](https://blog.spl.org/2025/12/01/staff-faves-teen-fiction-december-2025/when-devils-sing/)[![](https://i0.wp.com/blog.spl.org/wp-content/uploads/2025/12/skin.jpg?fit=264%2C400&ssl=1)](https://blog.spl.org/2025/12/01/staff-faves-teen-fiction-december-2025/skin/)
-
-  Usually known for her evocative historical fiction, Lauren Wolk has crafted a contemporary novel full of secrets called **[Candle Island](https://seattle.bibliocommons.com/v2/record/S30C4060943)**. After her father dies in a car crash, young Lucretia and her famous artist mother leave the big city and move to a farmhouse on Candle Island where Lucretia finds and nurses a baby osprey, navigates new friendships and a difficult peer, and discovers a secret room within her own room, one that holds the works of an unknown poet.&nbsp;
-
-  In Mahogany L. Browne’s novel **[A Bird in the Air Means We Can Still Breathe](https://seattle.bibliocommons.com/v2/record/S30C4046892)**, six youths from Brooklyn tell interconnected stories of their lives during COVID.&nbsp; Sometimes poetry, sometimes prose, the novel captures the experience of living on the margins during this worldwide emergency.&nbsp;
-
-  The science fiction novel **[Augmented](https://seattle.bibliocommons.com/v2/record/S30C4072077)** by Kenechi Udogu follows Akaego as she steps up to become augmented, using mind control and tech implants to help her grow new plants and trees in a devastated future London. An outside group warns her against getting augmented, leaving her to rely on her instincts to see the right path forward.&nbsp;
-
-  In Xan Kaur’s gothic horror novel **[When Devils Sing](https://seattle.bibliocommons.com/v2/record/S30C4047599)**, four teens explore the disappearance of another teen in a small Georgian town named Carrion, which coincides with the re-emergence of cicadas after thirteen years. As they uncover terrifying secrets about the town, the true nature of the cycle becomes all too clear.&nbsp;
-
-  For a contemporary urban fantasy, look no further than Ibi Zoboi’s latest, **[(S)kin](https://seattle.bibliocommons.com/v2/record/S30C4026633)**, which follows two girls.&nbsp; Their lives intersect as one follows her mother’s path as a soucouyant, a shape-shifting witch who feeds on others’ life force, and the other as she learns her true heritage when the other girl’s mother comes to her home as the new nanny to her baby siblings.&nbsp;
-
-  _~Posted by Wally B._
+images: []
+locations: []
 published: false
 source: The Seattle Public Library
 source_url: https://blog.spl.org/2025/12/01/staff-faves-teen-fiction-december-2025/

@@ -1,12 +1,8 @@
 ---
 end_date: '2025-12-15T20:30:00-08:00'
-images: []
-location: WA
-locations:
-- King County
-original_content: <div id="page-container"> <div id="et-boc" class="et-boc"> <header
-  id="main-header" data-height-onload="80"> <div class="container clearfix et_menu_container">
-  <div id="et-top-navigation" data-height="80" data-fixed-height="80"> <div id="et_mobile_nav_menu">
+feed_content: <div id="page-container"> <div id="et-boc" class="et-boc"> <header id="main-header"
+  data-height-onload="80"> <div class="container clearfix et_menu_container"> <div
+  id="et-top-navigation" data-height="80" data-fixed-height="80"> <div id="et_mobile_nav_menu">
   <div class="mobile_nav closed"> <span class="select_page">Select Page</span> </div>
   </div> </div> </div> </header> <div id="et-main-area"> <section id="tribe-events-pg-template"
   class="tribe-events-pg-template"> <div id="tribe-events-content" class="tribe-events-single">
@@ -77,17 +73,10 @@ original_content: <div id="page-container"> <div id="et-boc" class="et-boc"> <he
   news and updates from our team.</p> </div> </div> </div> <div class="et_bloom_form_content
   et_bloom_1_field et_bloom_bottom_stacked"> <h2 class="et_bloom_success_message">You
   have Successfully Subscribed!</h2> </div> </div> </div> </div>
-original_markdown_body: 'Select Page           « All Events  Light the Park   December
-  15 @ 6:30 pm - 8:30 pm     Decorate your home and win an award for the best light
-  display! Light the Park is brought to you by the Normandy Park Arts Commission each
-  winter to celebrate festive holiday spirit. Our commissioners will be out to give
-  awards on Monday, December 15th, 2025, from 6:30-8:30 pm.         Google Calendar     iCalendar     Outlook
-  365     Outlook Live           Details    Date:   December 15     Time:   6:30 pm
-  - 8:30 pm     Event Categories: Arts Commission, Parks and Community Services, Recreation
-  & Community     Organizer   Parks & Recreation Manager    Phone   206-248-8258     Email   alloyd@normandyparkwa.gov       Related
-  Events    Solstice Soiree December 13 @ 6:00 pm - 9:00 pm                Subscribe
-  To Our Newsletter Join our mailing list to receive the latest news and updates from
-  our team.     You have Successfully Subscribed!'
+images: []
+location: WA
+locations:
+- King County
 published: false
 source: City of Normandy Park
 source_url: https://normandyparkwa.gov/event/light-the-park-3/

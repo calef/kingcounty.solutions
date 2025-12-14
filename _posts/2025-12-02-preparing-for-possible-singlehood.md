@@ -1,14 +1,10 @@
 ---
 date: '2025-12-02T06:00:57+00:00'
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   <p>If you are presently partnered, chances are that household duties and responsibilities—everything from running the dishwasher to managing finances—are split between you. That means that you might not be prepared to seamlessly take over should your partner be rendered incapable by a debilitating accident or disease, or even death. In other words, sudden singlehood. As [&#8230;]</p>
   <p>The post <a href="https://agingwisdom.com/preparing-for-possible-singlehood/">Preparing for possible singlehood</a> appeared first on <a href="https://agingwisdom.com">Aging Wisdom</a>.</p>
-original_markdown_body: |-
-  If you are presently partnered, chances are that household duties and responsibilities—everything from running the dishwasher to managing finances—are split between you. That means that you might not be prepared to seamlessly take over should your partner be rendered incapable by a debilitating accident or disease, or even death. In other words, sudden singlehood. As […]
-
-  The post [Preparing for possible singlehood](https://agingwisdom.com/preparing-for-possible-singlehood/) appeared first on [Aging Wisdom](https://agingwisdom.com).
+images: []
+locations: []
 published: false
 source: Aging Wisdom
 source_url: https://agingwisdom.com/preparing-for-possible-singlehood/?utm_source=rss&utm_medium=rss&utm_campaign=preparing-for-possible-singlehood

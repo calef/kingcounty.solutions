@@ -1,8 +1,6 @@
 ---
 date: '2025-12-03T18:00:44+00:00'
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   <p><span data-contrast="none">As the year draws to a close, we enjoy asking staff from across the library system to share their favorite Kids books of the year.  From picture books to chapter books, and from graphic novels to nonfiction – below are just a few of the Kids books published in 2025 that our SPL staff loved!</span><span data-ccp-props="{}"> </span></p>
   <p><i><span data-contrast="none">(Annotations are by staff or adapted from review sources as noted.)</span></i></p>
   <p><b><span data-contrast="none">PICTURE BOOKS</span></b><span data-ccp-props="{}"> </span></p>
@@ -29,46 +27,8 @@ original_content: |-
   <li aria-setsize="-1" data-leveltext="" data-font="Symbol" data-listid="1" data-list-defn-props="{&quot;335552541&quot;:1,&quot;335559685&quot;:720,&quot;335559991&quot;:360,&quot;469769226&quot;:&quot;Symbol&quot;,&quot;469769242&quot;:[8226],&quot;469777803&quot;:&quot;left&quot;,&quot;469777804&quot;:&quot;&quot;,&quot;469777815&quot;:&quot;hybridMultilevel&quot;}" data-aria-posinset="2" data-aria-level="1"><a href="https://seattle.bibliocommons.com/v2/list/display/73413760/2898672365"><span data-contrast="none">Seattle Staff Faves 2025: Kids Chapter Books, Graphic Novels &amp; Nonfiction</span></a><span data-ccp-props="{}"> </span></li>
   </ul>
   <p><span data-contrast="auto">Happy Reading and Sharing!</span><span data-ccp-props="{}"> </span></p>
-original_markdown_body: "As the year draws to a close, we enjoy asking staff from
-  across the library system to share their favorite Kids books of the year.&nbsp;
-  From picture books to chapter books, and from graphic novels to nonfiction – below
-  are just a few of the Kids books published in 2025 that our SPL staff loved!&nbsp;\n\n_(Annotations
-  are by staff or adapted from review sources as noted.)_\n\n**PICTURE BOOKS** &nbsp;\n\nIn
-  [Cranky, Crabby Crow (Saves the World)](https://seattle.bibliocommons.com/v2/record/S30C4053203)
-  by local author Corey R. Tabor, Crow sits on a telephone wire as various animals
-  approach, cajoling him into playing — but it turns out he has more on his mind than
-  silly games! [-Kirkus]&nbsp;\n\nTake a dip in a pool where everyone is welcome!
-  [Everybelly](https://seattle.bibliocommons.com/v2/record/S30C4054392) by Thao Lam
-  is a unique, joyful celebration of bellies, bodies, and beauty. [-Kirkus]&nbsp;\n\nLife’s
-  busy enough for young Cecilia in [The Interpreter,](https://seattle.bibliocommons.com/v2/record/S30C4025548)
-  written by Olivia Abtahi and illustrated by Monica Arnaldo, as she has two full-time
-  jobs: being a kid and interpreting for her Spanish-speaking parents. [-Kirkus]&nbsp;
-  (also available in Spanish: [La intérprete](https://seattle.bibliocommons.com/v2/record/S30C4039917))\n\nIn
-  [Midnight Motorbike](https://seattle.bibliocommons.com/v2/record/S30C4064987), written
-  by Maureen Shay Tajsar and illustrated by Ishita Jain, an Indian mother and child
-  zoom off on a nocturnal motorbike ride. A visual feast sure to have readers finding
-  magic in the mundane. [-Kirkus]&nbsp;\n\n[![](https://i0.wp.com/blog.spl.org/wp-content/uploads/2025/12/peanut-man.jpg?fit=245%2C300&ssl=1)](https://blog.spl.org/2025/12/03/2025-staff-favorites-picture-books/peanut-man/)[![](https://i0.wp.com/blog.spl.org/wp-content/uploads/2025/12/Stalacite.jpg?fit=227%2C300&ssl=1)](https://blog.spl.org/2025/12/03/2025-staff-favorites-picture-books/stalacite/)[![](https://i0.wp.com/blog.spl.org/wp-content/uploads/2025/12/ravens-ribbons.jpg?fit=300%2C300&ssl=1)](https://blog.spl.org/2025/12/03/2025-staff-favorites-picture-books/ravens-ribbons/)[![](https://i0.wp.com/blog.spl.org/wp-content/uploads/2025/12/we-go-slow.jpg?fit=300%2C246&ssl=1)](https://blog.spl.org/2025/12/03/2025-staff-favorites-picture-books/we-go-slow/)\n\nIn
-  Carmen Agra Deedy and Raúl Colón’s [The Peanut Man,](https://seattle.bibliocommons.com/v2/record/S30C4045829)
-  Cuban refugee Coqui warmly recalls Emilio, the peanut man of her hometown, when
-  she encounters a peanut vendor at a baseball game in Georgia, where her family has
-  relocated. [-NoveList Plus]  \n“This picture book made me cry (in a good way).”
-  [-Amanda]&nbsp;\n\nAuthor Tasha Spillett and illustrator Daniel Ramire weave Two-Spirit
-  self-expression and collective belonging into a beautiful tribute to Indigenous
-  heritage in&nbsp;[Raven’s Ribbons](https://seattle.bibliocommons.com/v2/record/S30C4014508),
-  which tells the story of a Cree boy who longs for a ribbon skirt. [-Kirkus]&nbsp;\n\nWhen
-  drips of water enter a cave, they pick up minerals, creating two “nubs” that become
-  [Stalactite & Stalagmite](https://seattle.bibliocommons.com/v2/record/S30C4032367).
-  Author & illustrator Drew Beckmeyer unfolds their tale, which spans millions of
-  years, as a jaunty conversation between the two anthropomorphic characters as they
-  witness major changes to the world. [-Kirkus]&nbsp;\n\n“Aaron Becker’s evocative
-  watercolor and pencil illustrations bring Mariahadessa Ekere Tallie’s heartwarming
-  story, [We Go Slow](https://seattle.bibliocommons.com/v2/record/S30C4077678), to
-  life. I love that this book shows intergenerational family connection, and how this
-  can expand a child’s view of their city as a site of hope, belonging, and gentle
-  reflection.” [-Bean]&nbsp;\n\nExplore more of our favorite Kids books of the year,
-  here:&nbsp;&nbsp;&nbsp;\n\n- [Seattle Staff Faves 2025: Kids Picture Books](https://seattle.bibliocommons.com/v2/list/display/73413760/2898616557)&nbsp;\n\n-
-  [Seattle Staff Faves 2025: Kids Chapter Books, Graphic Novels & Nonfiction](https://seattle.bibliocommons.com/v2/list/display/73413760/2898672365)&nbsp;\n\nHappy
-  Reading and Sharing!&nbsp;"
+images: []
+locations: []
 published: false
 source: The Seattle Public Library
 source_url: https://blog.spl.org/2025/12/03/2025-staff-favorites-picture-books/

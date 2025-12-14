@@ -1,22 +1,18 @@
 ---
 end_date: '2025-12-22T18:45:00-08:00'
-images: []
-location: Hybrid – Virtual/Onsite, United States
-locations:
-- King County
-original_content: "<section> <div> <div> <div> <section> <div> <div> <span> Event
-  Series: </span> <a> <span> Finance &amp; Governance Committee </span> </a> </div>
-  <h1>Finance &amp; Governance Committee</h1> <div> <h2> <span>December 22 @ 5:30
-  pm</span> - <span>6:45 pm</span> </h2> </div> <div> <div> <p>The Finance &amp; Governance
-  Committee provides policy recommendations on legislative matters relating to financial
-  management and fiscal operations of the City, administrative services, insurance,
-  personnel, compensation, technology systems, government performance, public records,
-  City Hall/6300 Building, and other ad hoc matters as assigned.</p> <p><a>Finance
-  &amp; Governance Committee Agendas/Minutes/Audio</a></p> <p>Meetings are open to
-  the public. This is a hybrid meeting, conducted both onsite and electronically via
-  MS Teams. The meeting room is the Hazelnut Conference Room located in City Hall,
-  6200 Southcenter Boulevard Information about how to access the meeting is printed
-  on each agenda. Sign up for the Council Agenda Packet Email List here: <a>https://www.tukwilawa.gov/departments/city-clerks-office/</a></p>
+feed_content: "<section> <div> <div> <div> <section> <div> <div> <span> Event Series:
+  </span> <a> <span> Finance &amp; Governance Committee </span> </a> </div> <h1>Finance
+  &amp; Governance Committee</h1> <div> <h2> <span>December 22 @ 5:30 pm</span> -
+  <span>6:45 pm</span> </h2> </div> <div> <div> <p>The Finance &amp; Governance Committee
+  provides policy recommendations on legislative matters relating to financial management
+  and fiscal operations of the City, administrative services, insurance, personnel,
+  compensation, technology systems, government performance, public records, City Hall/6300
+  Building, and other ad hoc matters as assigned.</p> <p><a>Finance &amp; Governance
+  Committee Agendas/Minutes/Audio</a></p> <p>Meetings are open to the public. This
+  is a hybrid meeting, conducted both onsite and electronically via MS Teams. The
+  meeting room is the Hazelnut Conference Room located in City Hall, 6200 Southcenter
+  Boulevard Information about how to access the meeting is printed on each agenda.
+  Sign up for the Council Agenda Packet Email List here: <a>https://www.tukwilawa.gov/departments/city-clerks-office/</a></p>
   <p><strong>Join on your computer, mobile app or room device</strong></p> <p><a>Click
   here to join the meeting</a></p> <p><span>Meeting ID: </span>298 107 496 832 Passcode:
   zNwe2Q</p> <p><a>Download Teams</a> | <a>Join on the web</a></p> <p><strong>Or call
@@ -40,29 +36,11 @@ original_content: "<section> <div> <div> <div> <section> <div> <div> <span> Even
   <h3><a>City Council Committee of the Whole Meeting</a></h3> <span>December 8 @ 7:00
   pm</span> - <span>10:00 pm</span> </div> </li> </ul> </div> <p> <a> Back to events</a>
   </p> </div> </section> </div> </div> </div> </section>"
-original_content_checksum: 7c82937e61199b0396150891c7f133f166dd4d2c
-original_markdown_body: 'Event Series:    Finance & Governance Committee    Finance
-  & Governance Committee   December 22 @ 5:30 pm - 6:45 pm     The Finance & Governance
-  Committee provides policy recommendations on legislative matters relating to financial
-  management and fiscal operations of the City, administrative services, insurance,
-  personnel, compensation, technology systems, government performance, public records,
-  City Hall/6300 Building, and other ad hoc matters as assigned. Finance & Governance
-  Committee Agendas/Minutes/Audio Meetings are open to the public. This is a hybrid
-  meeting, conducted both onsite and electronically via MS Teams. The meeting room
-  is the Hazelnut Conference Room located in City Hall, 6200 Southcenter Boulevard
-  Information about how to access the meeting is printed on each agenda. Sign up for
-  the Council Agenda Packet Email List here: https://www.tukwilawa.gov/departments/city-clerks-office/
-  Join on your computer, mobile app or room device Click here to join the meeting
-  Meeting ID: 298 107 496 832 Passcode: zNwe2Q Download Teams | Join on the web Or
-  call in (audio only) +1 253-292-9750,,441656166#   United States, Tacoma Phone Conference
-  ID: 441 656 166#           Google Calendar     iCalendar     Outlook 365     Outlook
-  Live           Details    Date:   December 22     Time:   5:30 pm - 6:45 pm    Series:    Finance
-  & Governance Committee    Event Categories: City Council, Meeting      Venue    Hybrid
-  – Virtual/Onsite     United States       Organizer   Laurel Humphrey    Phone   206-433-8993     Email   citycouncil@tukwilawa.gov       Related
-  Events    Planning & Community Development Committee December 8 @ 5:30 pm - 6:45
-  pm     Community Services & Safety Committee December 8 @ 5:30 pm - 6:45 pm     City
-  Council Committee of the Whole Meeting December 8 @ 7:00 pm - 10:00 pm       Back
-  to events'
+feed_content_checksum: 7c82937e61199b0396150891c7f133f166dd4d2c
+images: []
+location: Hybrid – Virtual/Onsite, United States
+locations:
+- King County
 published: false
 source: City of Tukwila
 source_url: https://www.tukwilawa.gov/event/finance-governance-committee-6/2025-12-22/

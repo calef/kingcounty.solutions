@@ -1,8 +1,6 @@
 ---
 date: '2025-12-03T19:30:00+00:00'
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   <p>More than 1,200 Houston-area Veterans received an early turkey dinner last week thanks to a special collaboration between the <a href="https://news.va.gov/?s=Michael+E.+DeBakey+VA+Medical+Center">Michael E. DeBakey VA Medical Center</a>, a group of area car dealerships and Combined Arms, a nonprofit organization that connects Veterans and their families with vital resources.</p>
 
 
@@ -52,34 +50,8 @@ original_content: |-
 
 
   <p>The turkey giveaway not only provided meals but also fostered a sense of camaraderie among Veterans, reminding them they are not alone. “I just moved here last year from the East Coast and I am so impressed with how the community here comes together to support Veterans,” said Army Veteran Michael Woodward, summing up the sentiments of the day. “Texas really knows how to treat us right.”</p>
-original_markdown_body: |-
-  More than 1,200 Houston-area Veterans received an early turkey dinner last week thanks to a special collaboration between the [Michael E. DeBakey VA Medical Center](https://news.va.gov/?s=Michael+E.+DeBakey+VA+Medical+Center), a group of area car dealerships and Combined Arms, a nonprofit organization that connects Veterans and their families with vital resources.
-
-  Hundreds of Veterans lined up on a cloudy Monday morning for a drive-thru food distribution of holiday meals, complete with turkeys, sides and desserts donated by the Big Star Dealership Group and Texan Dodge Chrysler Jeep Ram.
-
-  ## Veteran reaction
-
-  [![Two people in neon vests assist in loading a turkey in a car trunk during a drive-through event. Red bags line the sidewalk.](https://news.va.gov/wp-content/uploads/sites/3/2025/11/HoustonVATurkeyDistribution_r1-scaled.jpg?w=730)](https://news.va.gov/wp-content/uploads/sites/3/2025/11/HoustonVATurkeyDistribution_r1-scaled.jpg)
-  _Amanda Slover and Stacy Brouwer, associate chiefs of Houston VA’s Nutrition and Food Service fill up a Veteran’s car with food._
-
-  Alicia, an Army Veteran from Tomball, Texas, and a single mother of two small children, arrived with a heart heavy with worry. “I was down to just $22 until my payday next Friday,” she said, her voice filled with emotion. “I didn’t know how I would provide a Thanksgiving meal for my kids. This turkey means the world to us.”
-
-  Shelita Magee, Houston VA’s chief of Civic Engagement, explained the significance of the donation and of supporting Veterans. “When Big Star Dealership Group approached us with this amazing donation, we knew we had to make it happen,” she said. “Houston VA is committed to supporting our Veterans and doing whatever we can to fight food insecurity. It was amazing to see our community come together in such a profound way.”
-
-  ## An army of volunteers
-
-  More than 25 Houston VA staff, members from local Veterans organizations and employees from the Big Star Dealership group volunteered at the event to ensure Veterans were served. VA social workers went from car to car, handing out information about resources and connecting Veterans with benefits.
-
-  [![A diverse group of people in safety vests and jackets stand in a line on a cloudy day, smiling at the camera. They are near traffic cones and cars.](https://news.va.gov/wp-content/uploads/sites/3/2025/11/HoustonVATurkeyDistribution_r2-scaled.jpg?w=730)](https://news.va.gov/wp-content/uploads/sites/3/2025/11/HoustonVATurkeyDistribution_r2-scaled.jpg)
-  _Houston VA employee volunteers lined up to fill Veterans cars with food._
-
-  “When I got the email from VA about this meal, I felt it was God’s answer to my prayer,” said teary-eyed Air Force Veteran Grant Omare, who shook the hands of every volunteer he could find as they put the meal in his trunk. “Now I can invite my two sons over for Thanksgiving and express my thanks to the Lord for this support. I can’t thank you all enough.”
-
-  John Smith, the Combined Arms Southeast Texas regional manager and a Marine Corps Veteran, jumped into action after hearing about the donation, organizing volunteers and securing a central location for the event. “We have seen requests for food assistance surge 49% since the beginning of October, while rent and mortgage aid requests are up 23 %,” he said. “We are determined to support our Veterans and their families, especially over the holidays.”
-
-  ## Fostering camaraderie among Veterans
-
-  The turkey giveaway not only provided meals but also fostered a sense of camaraderie among Veterans, reminding them they are not alone. “I just moved here last year from the East Coast and I am so impressed with how the community here comes together to support Veterans,” said Army Veteran Michael Woodward, summing up the sentiments of the day. “Texas really knows how to treat us right.”
+images: []
+locations: []
 published: false
 source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143675/community-support-brings-veterans-early-turkey/

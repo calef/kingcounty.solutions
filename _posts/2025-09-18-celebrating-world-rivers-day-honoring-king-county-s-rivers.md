@@ -1,8 +1,6 @@
 ---
 date: '2025-09-18T16:25:15+00:00'
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   By Steven Schauer, Deputy Executive Director
 
   As we approach World Rivers Day, which falls this year on Sunday, September 28, 2025, the King County Flood Control District (KCFCD) is proud to celebrate the vital waterways that flow across our region. World Rivers Day is a global movement established in 2005 to elevate awareness about the importance of rivers and inspire widespread stewardship.
@@ -96,6 +94,8 @@ original_content: |-
   **Happy World Rivers Day, King County!**
 
   The post [Celebrating World Rivers Day: Honoring King County’s Rivers](https://kingcountyfloodcontrol.org/celebrating-world-rivers-day-honoring-king-countys-rivers/) appeared first on [King County Flood Control District](https://kingcountyfloodcontrol.org).
+images: []
+locations: []
 published: false
 source: King County Flood Control District
 source_url: https://kingcountyfloodcontrol.org/celebrating-world-rivers-day-honoring-king-countys-rivers/?utm_source=rss&utm_medium=rss&utm_campaign=celebrating-world-rivers-day-honoring-king-countys-rivers

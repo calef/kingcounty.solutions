@@ -1,11 +1,7 @@
 ---
 end_date: '2026-01-08T17:20:00-08:00'
-images: []
-location: Sieg Building (SIG)
-locations:
-- King County
-original_content: "<div class=\"row\"> <section id=\"content\"> <section> <header>
-  <h1> <span>UX Speaker Series</span> </h1> </header><div id=\"block-uwcoe-system-main\">
+feed_content: "<div class=\"row\"> <section id=\"content\"> <section> <header> <h1>
+  <span>UX Speaker Series</span> </h1> </header><div id=\"block-uwcoe-system-main\">
   <article> <div> <div> <p class=\"lead\">Each winter, the Department of Human Centered
   Design &amp; Engineering welcomes designers, researchers, and technology leaders
   to campus for a 10-week UX Speaker Series. Join us on Thursday afternoons to hear
@@ -86,29 +82,10 @@ original_content: "<div class=\"row\"> <section id=\"content\"> <section> <heade
   <div id=\"block-boundless-block-23\"> <div> <h2>Connect with HCDE</h2> <p>      
             </p> <p><a class=\"btn btn-primary btn-sm\" href=\"/news/e-news\">Join
   our Mailing List</a></p> </div> </div> </section> </aside> </div>"
-original_markdown_body: "UX Speaker Series      Each winter, the Department of Human
-  Centered Design & Engineering welcomes designers, researchers, and technology leaders
-  to campus for a 10-week UX Speaker Series. Join us on Thursday afternoons to hear
-  how industry experts are shaping the future of user experience across sectors. 2026
-  UX Speaker Series  Thursdays, Winter QuarterJanuary 8 – March 124:30 – 5:20 p.m.Sieg
-  Building, room 134 All events are free and open to the public. Talk details and
-  recordings will be posted here as they are available throughout the quarter.   January
-  8  Liz Juhnke UX Principal Designer, Home Depot  \U0001F4C5  Save    January 15
-  \ Eva Snee Director of User Experience, Databricks  \U0001F4C5  Save    January
-  22  Sena Janky UX Manager, Fluke  \U0001F4C5  Save    January 29  Brad Jacobson
-  Head of Data, Engineering, and VoteShield, Protect Democracy  \U0001F4C5  Save 
-  \  February 5  Julie Zhuying Novak Staff UX Manager, Gemini, AI Security, Google
-  \ \U0001F4C5  Save    February 12  Nicole Washington Product Designer II, Xbox  \U0001F4C5
-   Save    February 19  Yuan Zhuang & Rajiv Pennathur Senior Manager, User Experience
-  Research, Expedia (Yuan Zhuang)User Experience Researcher, Expedia (Rajiv Pennathur)
-  Thriving in a Changing World  \U0001F4C5  Save    February 26  Dr. Matt Klenk &
-  Dr. Matt Hong Director, Future Product Innovation (HCAI), Toyota  (Matt Klenk)Senior
-  Research Scientist, Toyota  (Matt Hong)  \U0001F4C5  Save    March 5  Carolyn Wei
-  UX Research Lead, Instagram, Meta   \U0001F4C5  Save    March 12  Jess Hollbrook
-  & Mike Davidson Head of UX Research, Microsoft AI  (Jess Hollbrook)Corporate VP,
-  Design & User Research, Microsoft AI  (Mike Davidson)  \U0001F4C5  Save               Questions?
-  Melissa Ewing Manager, Outreach and Events mewing3@uw.edu 206.221.0997 428 Sieg
-  Building        Connect with HCDE                   Join our Mailing List"
+images: []
+location: Sieg Building (SIG)
+locations:
+- King County
 published: false
 source: University of Washington
 source_url: https://www.hcde.washington.edu/ux

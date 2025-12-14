@@ -1,8 +1,6 @@
 ---
 date: '2025-09-07T23:50:42+00:00'
-images: []
-locations: []
-original_content: "<section class=\"elementor-section elementor-top-section elementor-element
+feed_content: "<section class=\"elementor-section elementor-top-section elementor-element
   elementor-element-f4d5627 ang-section-padding-no elementor-section-boxed elementor-section-height-default
   elementor-section-height-default elementor-repeater-item-none elementor-repeater-item-none_hover\"
   data-id=\"f4d5627\" data-element_type=\"section\">\n\t\t\t\t\t\t<div class=\"elementor-container
@@ -77,6 +75,8 @@ original_content: "<section class=\"elementor-section elementor-top-section elem
   sizes=\"(max-width: 800px) 100vw, 800px\"> </div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>\n\nThe
   post [Reimagining September 14 Presentation](https://redmondumc.org/reimaginingseptember-14-presentation/)
   appeared first on [Redmond United Methodist Church](https://redmondumc.org)."
+images: []
+locations: []
 published: false
 source: Redmond United Methodist Church - Social Ministries
 source_url: https://redmondumc.org/reimaginingseptember-14-presentation/

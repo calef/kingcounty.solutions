@@ -1,11 +1,6 @@
 ---
 end_date: '2025-12-16T13:00:00-08:00'
-images: []
-location: Advocate Office @ Together Center, 16305 NE 87th S Suite 111, Redmond, WA,
-  98052, United States
-locations:
-- King County
-original_content: '<div class="ast-container"> <section id="tribe-events-pg-template"
+feed_content: '<div class="ast-container"> <section id="tribe-events-pg-template"
   class="tribe-events-pg-template" role="main"> <div id="tribe-events-content" class="tribe-events-single">
   <p class="tribe-events-back"> <a href="https://togethercenter.org/events/"> « All
   Events</a> </p> <div class="tribe-events-series-relationship-single-marker tribe-common">
@@ -111,27 +106,11 @@ original_content: '<div class="ast-container"> <section id="tribe-events-pg-temp
   Housing</a></h3> <span class="tribe-event-date-start">December 10 @ 11:00 am</span>
   - <span class="tribe-event-time">1:00 pm</span> </div> </li> </ul> </div> </div>
   </section> </div>'
-original_markdown_body: "« All Events    Event Series:    Advocate Office @ Together
-  Center – Community Health Plan of Washington    Community Health Plan of Washington
-  \  December 16 @ 11:00 am - 1:00 pm  Free       Community Health Plan of Washington
-  Community Health Plan of Washington (CHPW) has been providing quality health care
-  to Washington families and supporting your choices for health care since 1992. 
-  You’re the expert on your health and well-being. Our mission is to support you in
-  making the best health care decisions for you and your family.  Let’s make sure
-  you are covered!  We are here to support your health every day. We can help you
-  schedule doctor visits, get medicine, or connect to community services. We are more
-  than your health care team, we are your community. Join us. 3rd Tuesday of every
-  month, 11:00am-1:00pm Together Center Advocate Office            Google Calendar
-  \    iCalendar     Outlook 365     Outlook Live           Details    Date:   December
-  16     Time:   11:00 am - 1:00 pm    Series:    Advocate Office @ Together Center
-  – Community Health Plan of Washington    Cost:  Free    Event Category: Advocate
-  Office   Website:  https://www.chpw.org/      Organizer   Together Center    Phone
-  \  4258696699     Email   events@togethercenter.org     View Organizer Website         Venue
-  \   Advocate Office @ Together Center     16305 NE 87th S Suite 111 Redmond, WA
-  98052 United States  + Google Map    Phone  4258696699     View Venue Website       Related
-  Events    WorkSource December 8 @ 1:00 pm - 5:00 pm     City of Redmond Homeless
-  & Housing Stability December 9 @ 1:00 pm - 3:00 pm     Advocate Office @ Together
-  Center – Plymouth Housing December 10 @ 11:00 am - 1:00 pm"
+images: []
+location: Advocate Office @ Together Center, 16305 NE 87th S Suite 111, Redmond, WA,
+  98052, United States
+locations:
+- King County
 source: Together Center
 source_url: https://togethercenter.org/event/advocate-office-together-center-community-health-plan-of-washington/2025-12-16/
 start_date: '2025-12-16T11:00:00-08:00'

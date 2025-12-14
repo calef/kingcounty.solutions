@@ -1,9 +1,6 @@
 ---
 date: '2025-12-11T20:05:41+00:00'
-images: []
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <p>In this class we will explore one of the Ukrainian Folk Arts -paper cut named “Vytynanka”. Join instructor Nataliya Zigelboym to learn about paper cut art around the world  with focus on traditional and contemporary Ukrainian Vytynanka. We will create several artworks. This is a hands-on class. All the materials provided, no previous experience required.</p>
 
 
@@ -14,15 +11,10 @@ original_content: |-
 
   <p></p>
   <p>The post <a>Ukrainian Folk Art</a> appeared first on <a>Shoreline Lake Forest Park Senior Activity Center</a>.</p>
-original_content_checksum: 490f7fb6589495c66f048d4282ab009954b10ca6
-original_markdown_body: "In this class we will explore one of the Ukrainian Folk Arts
-  -paper cut named “Vytynanka”. Join instructor Nataliya Zigelboym to learn about
-  paper cut art around the world &nbsp;with focus on&nbsp;traditional and contemporary
-  Ukrainian Vytynanka. We will create several artworks. This is a hands-on class.
-  All the materials provided, no previous experience required.\n\nFriday, 1/16 10:00
-  am—12:00 pm  \nMembers: $25/Non Members: $30 per session  \n(Sales tax included
-  in the price)\n\nThe post Ukrainian Folk Art appeared first on Shoreline Lake Forest
-  Park Senior Activity Center."
+feed_content_checksum: 490f7fb6589495c66f048d4282ab009954b10ca6
+images: []
+locations:
+- King County
 published: false
 rss_guid: https://shorelinelfpseniorcenter.org/?p=10635
 source: Shoreline Lake Forest Park Senior Activity Center

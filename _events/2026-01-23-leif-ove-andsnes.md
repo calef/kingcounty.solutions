@@ -1,10 +1,6 @@
 ---
 end_date: '2026-01-23T21:30:00-08:00'
-images: []
-location: Meany Hall (MNY)
-locations:
-- King County
-original_content: '<a href="#main-content" class="element-invisible element-focusable">Skip
+feed_content: '<a href="#main-content" class="element-invisible element-focusable">Skip
   to main content</a> <div class="l-page has-one-sidebar has-sidebar-first"> <div
   class="full-wrapper header"> <header class="l-header" role="banner"> <a href="#main-content"
   class="element-invisible element-focusable">Skip to main content</a> <div class="l-branding">
@@ -123,32 +119,10 @@ original_content: '<a href="#main-content" class="element-invisible element-focu
   Ove Andsnes Instagram</a>| <a href="https://www.youtube.com/user/LeifOveAndsnesTV">Leif
   Ove Andsnes YouTube</a> </div> </div> </div> </div> </div> </div> </div> </div>
   </div> </div>'
-original_markdown_body: 'Skip to main content    Skip to main content  Meany Center  Official
-  Site   Show Navigation Hide Navigation    My Account  Calendar                  fy26-leif-ove-andsnes-hero.jpg             You
-  are here  Events & Tickets >Leif Ove Andsnes     Leif Ove Andsnes Jan 232026           Performance
-  Dates    Fri Jan 23 2026 7:30 PM      Buy TicketsSubscribe Now    Venue   Meany
-  Hall – Katharyn Alvord Gerlich Theater     ticket@uw.edu   (206) 543-4880   Get
-  Directions      Share    Share on Facebook       With his commanding technique and
-  searching interpretations, the celebrated Norwegian pianist Leif Ove Andsnes has
-  won worldwide acclaim, performing in the world’s leading concert halls and with
-  its foremost orchestras while building an esteemed and extensive discography. He
-  brings his “magisterial elegance, power and insight” (The New York Times) to an
-  eclectic program featuring works by Robert Schumann, Leoš Janáček and György Kurtág. 
-    Andsnes has entered an elite circle of pianistic stardom…When he sits in front
-  of the keyboard…extraordinary things happen— The New York Times   PROGRAM  ROBERT
-  SCHUMANN: Klavierstücke, Op. 32  GYÖRGY KURTÁG: Selections from Játékok  LEOŠ JANÁČEK:
-  Selections from On the Overgrown Path  ROBERT SCHUMANN: Carnaval, Op. 9     Piano
-  Series generously underwritten by Sven & Melinda Bitners and Sally Schaake Kincaid                Upcoming
-  Site Maintenance This site will undergo planned maintenance December 13–17. During
-  this period, online ticket purchases will be unavailable. To buy a ticket, please
-  contact the ArtsUW Ticket Office.  Contact Us    Subscriber Care Commitment We are committed
-  to making your Meany experience the best it can be.  LEARN MORE    Subscriber Extra
-  Tickets Save 10% on additional tickets. Enjoy pre-sale access to special events.  Add
-  Now    Accessibility The University of Washington is committed to providing access,
-  equal opportunity and reasonable accommodation in its services, programs and activities
-  for individuals with disabilities.   Learn More              Watch       leif_ove_andsnes_-_a._dvorak_poetic_tone_pictures_op._85_vii._furiant                Learn
-  More       About the Artist     Leif Ove Andsnes Official Website| Leif Ove Andsnes
-  Facebook| Leif Ove Andsnes Instagram| Leif Ove Andsnes YouTube'
+images: []
+location: Meany Hall (MNY)
+locations:
+- King County
 published: false
 source: University of Washington
 source_url: https://meanycenter.org/tickets/2026-01/production/leif-ove-andsnes

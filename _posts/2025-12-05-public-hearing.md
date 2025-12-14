@@ -1,18 +1,14 @@
 ---
 date: '2025-12-05T00:36:50+00:00'
-images: []
-locations: []
-original_content: "<div class=\"field field-name-field-date-and-time field-type-datetime
+feed_content: "<div class=\"field field-name-field-date-and-time field-type-datetime
   field-label-hidden\">\n  \n      \n    <span  property=\"dc:date\" datatype=\"xsd:dateTime\"
   content=\"2025-12-08T18:00:00-08:00\" class=\"date-display-single\">12/08/2025 -
   6:00pm</span>\n      </div>\n\n<div class=\"field field-name-body field-type-text-with-summary
   field-label-hidden\">\n  \n      \n    <p>Notice of Public Hearing - Lawson Hills
   Master Planned Development (MPD) - Major Amendment to the MPD Permit and Development
   Agreement.  Public Hearing will be held on December 8, 2025, at 6 p.m.</p>\n      </div>"
-original_markdown_body: |-
-  12/08/2025 - 6:00pm
-
-  Notice of Public Hearing - Lawson Hills Master Planned Development (MPD) - Major Amendment to the MPD Permit and Development Agreement.&nbsp; Public Hearing will be held on December 8, 2025, at 6 p.m.
+images: []
+locations: []
 published: false
 source: City of Black Diamond
 source_url: https://www.blackdiamondwa.gov/home/events/27046

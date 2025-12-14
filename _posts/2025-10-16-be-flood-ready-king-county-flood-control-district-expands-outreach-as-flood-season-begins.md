@@ -1,10 +1,8 @@
 ---
 date: '2025-10-16T17:22:55+00:00'
-images: []
-locations: []
-original_content: "**Begins**\n\nBy Steven Schauer, Deputy Executive Director\n\nAs
-  the rainy season returns to the Pacific Northwest, so does the risk of flooding.
-  In King County, flood season runs from October through April, bringing with it the
+feed_content: "**Begins**\n\nBy Steven Schauer, Deputy Executive Director\n\nAs the
+  rainy season returns to the Pacific Northwest, so does the risk of flooding. In
+  King County, flood season runs from October through April, bringing with it the
   potential for swollen rivers, rising groundwater, and storm-related impacts. Flooding
   remains one of the largest risks to people and property in our region, making preparation
   essential for every household and community.\n\n![](https://kingcountyfloodcontrol.org/wp-content/uploads/2025/10/Flooding-on-the-Snoqualmie-River-1986-credit-KC.jpg)\n_1986
@@ -101,6 +99,8 @@ original_content: "**Begins**\n\nBy Steven Schauer, Deputy Executive Director\n\
   post [Be Flood Ready: King County Flood Control District Expands Outreach as Flood
   Season Begins](https://kingcountyfloodcontrol.org/be-flood-ready-king-county-flood-control-district-expands-outreach-as-flood-season-begins/)
   appeared first on [King County Flood Control District](https://kingcountyfloodcontrol.org)."
+images: []
+locations: []
 published: false
 source: King County Flood Control District
 source_url: https://kingcountyfloodcontrol.org/be-flood-ready-king-county-flood-control-district-expands-outreach-as-flood-season-begins/?utm_source=rss&utm_medium=rss&utm_campaign=be-flood-ready-king-county-flood-control-district-expands-outreach-as-flood-season-begins

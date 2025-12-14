@@ -1,17 +1,13 @@
 ---
 date: '2025-11-27T01:00:22+00:00'
-images: []
-locations: []
-original_content: "<div class=\"field field-name-field-date-and-time field-type-datetime
+feed_content: "<div class=\"field field-name-field-date-and-time field-type-datetime
   field-label-hidden\">\n  \n      \n    <span  property=\"dc:date\" datatype=\"xsd:dateTime\"
   content=\"2025-12-04T11:00:00-08:00\" class=\"date-display-single\">12/04/2025 -
   11:00am</span>\n      </div>\n\n<div class=\"field field-name-body field-type-text-with-summary
   field-label-hidden\">\n  \n      \n    <p><a href=\"https://www.blackdiamondwa.gov/home/files/civil-service-commission-cancellation-notice-12-04-2025\"
   target=\"_blank\">Notice</a></p>\n      </div>"
-original_markdown_body: |-
-  12/04/2025 - 11:00am
-
-  [Notice](https://www.blackdiamondwa.gov/home/files/civil-service-commission-cancellation-notice-12-04-2025)
+images: []
+locations: []
 published: false
 source: City of Black Diamond
 source_url: https://www.blackdiamondwa.gov/home/events/26946

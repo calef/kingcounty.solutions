@@ -1,17 +1,13 @@
 ---
 date: '2025-11-13T16:37:17-08:00'
-images: []
-locations: []
-original_content: <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div
+feed_content: <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div
   class="field-items"><div class="field-item even" property="content:encoded"><p><span><span><span>The
   City of Mercer Island recently wrapped up a four-year effort to modernize its water
   storage and distribution system. This work, carried out through a series of coordinated
   projects, has greatly improved resilience and reliability, ensuring high quality
   water service for Island residents and businesses.</span></span></span></p></div></div></div>
-original_markdown_body: The City of Mercer Island recently wrapped up a four-year
-  effort to modernize its water storage and distribution system. This work, carried
-  out through a series of coordinated projects, has greatly improved resilience and
-  reliability, ensuring high quality water service for Island residents and businesses.
+images: []
+locations: []
 published: false
 source: City of Mercer Island
 source_url: https://www.mercerisland.gov/publicworks/page/city-completes-generational-upgrades-water-system

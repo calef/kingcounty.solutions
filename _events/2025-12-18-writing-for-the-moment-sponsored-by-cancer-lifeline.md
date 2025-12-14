@@ -1,10 +1,6 @@
 ---
 end_date: '2025-12-18T15:00:00-08:00'
-images: []
-location: "[ONLINE] Cancer Lifeline"
-locations:
-- King County
-original_content: "<header> <div> <div><div> <div><div> <a>Lifeline</a> | 206.297.2500
+feed_content: "<header> <div> <div><div> <div><div> <a>Lifeline</a> | 206.297.2500
   | 1.800.255.5505 | <a>Lifeline Chat</a> </div></div> </div></div> </div> </header>
   <div> <div> <div> <div> <section> <div> <p> <a> « All Events</a> </p> <h1>Writing
   For The Moment Sponsored by Cancer Lifeline</h1> <div> <div> <span>December 18 @
@@ -37,24 +33,11 @@ original_content: "<header> <div> <div><div> <div><div> <a>Lifeline</a> | 206.29
   Us</a></li> </ul> </div> </aside><aside><h3>Get Involved</h3> <div> <ul> <li><a>Ways
   to Give</a></li> <li><a>Volunteer with Us</a></li> <li><a>Donate Now</a></li> <li><a>Planned
   Giving</a></li> </ul> </div> </aside> </div> </div> </div> </div>"
-original_content_checksum: 6cb01de07770dc74482587b03a923af0011efe7a
-original_markdown_body: 'Lifeline | 206.297.2500 | 1.800.255.5505 | Lifeline Chat             «
-  All Events  Writing For The Moment Sponsored by Cancer Lifeline   December 18 @
-  1:00 pm - 3:00 pm  PST     Event Series    (See All)       Discover the power of
-  writing as a way to process everyday life when impacted by a cancer diagnosis. No
-  matter your writing style or experience, this workshop will inspire you to put pen
-  to paper. This class invites sharing rather than critiquing. Start any time. No
-  experience required. *No Class 11/27 CLICK HERE TO REGISTER Need help getting registered?
-  Having trouble joining a class? Please call our Telephone Lifeline at 206-297-2500
-  M-F, 9am-5pm or connect with us through our Online Lifeline Chat.         Google
-  Calendar     iCalendar     Outlook 365     Outlook Live           Details    Date:   December
-  18     Time:   1:00 pm - 3:00 pm PST    Series:    Writing For The Moment Sponsored
-  by Cancer Lifeline    Event Category: Creative Expression      Venue    [ONLINE]
-  Cancer Lifeline     Organizer   Peggy Sturdivant                Info   6522 Fremont
-  Ave N Seattle, WA 98103   Monday through Friday 9:00 AM – 5:00 PM   [email protected]   Call
-  Us: 1-206-297-2100   I’m New   FAQ Classes Support Groups Programs & Services   About
-  Us   Team History Partnerships & Sponsors Jobs Privacy Policy Contact Us   Get Involved   Ways
-  to Give Volunteer with Us Donate Now Planned Giving'
+feed_content_checksum: 6cb01de07770dc74482587b03a923af0011efe7a
+images: []
+location: "[ONLINE] Cancer Lifeline"
+locations:
+- King County
 published: false
 source: Cancer Lifeline Financial Assistance for Cancer Patients
 source_url: https://cancerlifeline.org/event/writing-for-the-moment-sponsored-by-cancer-lifeline-10/2025-12-18/

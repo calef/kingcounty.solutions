@@ -2,10 +2,7 @@
 date: '2025-10-20T16:17:55+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: "[The Housing Accountability Act](https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Session%20Laws/Senate/5148-S2.SL.pdf?q=20251016092533)
+feed_content: "[The Housing Accountability Act](https://lawfilesext.leg.wa.gov/biennium/2025-26/Pdf/Bills/Session%20Laws/Senate/5148-S2.SL.pdf?q=20251016092533)
   provides for voluntary and selected approval processes for local government housing
   elements and related development regulations.\n\nThe selected review process provides
   that Commerce may select up to 10 cities or counties each year for review, based
@@ -17,6 +14,9 @@ original_content: "[The Housing Accountability Act](https://lawfilesext.leg.wa.g
   to be inconsistent with state law, the jurisdiction must work with Commerce to make
   changes, may not deny affordable or moderate-income housing development and would
   be ineligible for certain state infrastructure grants and loans.\n\n[![](https://www.commerce.wa.gov/wp-content/uploads/2025/10/Selected-Review-procedure-cover.jpeg)](https://deptofcommerce.app.box.com/file/2010239759433?s=d4uluw4s4kpys8a7y2588vyt3ihp3nyu)"
+images: []
+locations:
+- King County
 source: Department of Commerce
 source_url: https://www.commerce.wa.gov/housing-accountability-act-commerce-shares-draft-selected-review-procedures/
 summarized: true

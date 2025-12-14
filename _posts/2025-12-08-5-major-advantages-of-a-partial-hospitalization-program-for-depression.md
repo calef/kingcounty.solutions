@@ -2,10 +2,7 @@
 date: '2025-12-08T14:41:39+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <p>In a<a><span> partial hospitalization program (PHP) for depression</span></a>, participants spend a full day, often 8-9 hours, in a communal therapeutic setting, five days a week, while spending evenings, overnights, and weekends at home. Treatment typically takes 6-8 weeks, though this may be adjusted based on individual treatment plans.</p>
   <p>Participants attend individual and group DBT-based therapy sessions daily, and enjoy holistic treatment approaches like expressive art therapy and mindful movement, such as yoga or qi gong, as well. Nourishing meals, medication management, and family education and guidance are also key components of a PHP for depression. A PHP should take a whole-body and mind approach to depression treatment. Depression can touch every facet of your life, so <a><span>effective depression treatment</span></a> will support you just as comprehensively.</p>
   <p>So, what are some advantages to this dual approach to healing?</p>
@@ -32,59 +29,10 @@ original_content: |-
   <p>Enter the partial hospitalization program. <a><span>A PHP can be a highly useful step</span></a> in a mental health continuum of care. A PHP is a therapy option that doesn’t have the same time demands as residential depression treatment, giving you space to start reintegrating into your everyday life, but still offers extensive support, more than is available in an IOP.</p>
   <h2>THIRA Health offers holistic residential, PHP, and IOP intensive depression treatment in Bellevue, WA</h2>
   <p>Finding the right intensive depression treatment option for you is a crucial step in the healing process. THIRA Health’s helpful intake professionals take the guesswork out of the process for you, helping you decide which treatment program will work best for you. By offering comprehensive, holistic, DBT-based depression treatment at their residential, PHP, and IOP programs, THIRA Health ensures that you get the right care, wherever you are in your mental health journey.<a><span> Contact our intake team today</span></a> to schedule a free consultation, so you can get started on mental healthcare that will bring you lasting relief from depression.</p>
-original_content_checksum: 56e06fca5bf288f14a392894005589fef8fd77f2
-original_markdown_body: |-
-  In a partial hospitalization program (PHP) for depression, participants spend a full day, often 8-9 hours, in a communal therapeutic setting, five days a week, while spending evenings, overnights, and weekends at home. Treatment typically takes 6-8 weeks, though this may be adjusted based on individual treatment plans.
-
-  Participants attend individual and group DBT-based therapy sessions daily, and enjoy holistic treatment approaches like expressive art therapy and mindful movement, such as yoga or qi gong, as well. Nourishing meals, medication management, and family education and guidance are also key components of a PHP for depression. A PHP should take a whole-body and mind approach to depression treatment. Depression can touch every facet of your life, so effective depression treatment will support you just as comprehensively.
-
-  So, what are some advantages to this dual approach to healing?
-
-  ### _#1: Access to individual, group, and holistic therapy support all in one space_
-
-  Imagine trying to locate and coordinate care with an individual therapist, a DBT support group, a yoga class, a meditation group, an art class, a nutritionist, a personal chef, a medical doctor, and more, all while trying to fit in family time every evening. Now imagine trying to schedule appointments with all these people several times a week, for 6-8 weeks. Sounds impossible, right?
-
-  Not with a PHP. Because a PHP program provides access to multiple professionals and intensive depression treatment support, on par with a residential treatment program, during the day, but also gives you your evenings at home, you can access an impressive and incredibly helpful array of professional support in one place, all at the same time.
-
-  This is one of the most important advantages of a PHP; depression can derail your life and make it hard for you to manage one appointment, let alone manage communication across an entire care team. A PHP gives you access to the experts who will help you quickly establish a care plan, and they will work together to help you start healing from depression from the very beginning of your care. Prompt access to comprehensive, holistic depression treatment is within reach with a PHP, empowering you to make meaningful progress with multiple forms of support, all in one space.
-
-  ### _#2 A balanced combination of intensive depression treatment and regular life routines_
-
-  While residential depression treatment offers 24/7 support, and an intensive outpatient program (IOP) offers a lot more access to the comforts and routines of your everyday life, a PHP strikes a unique balance between these two models.
-
-  For some people, fully walking away from the responsibilities of life for 6-8 weeks of residential treatment is impossible, or it feels too daunting to spend that much time away from support and routine at home, yet an IOP program (even with its intensive nature) doesn’t provide enough mental health support.
-
-  A PHP provides balance when life gets complicated (and life is often complicated!) Participants are able to access all the treatment options available in a residential program during the day, providing much more care than an IOP, and in the evenings, they can continue to spend time with their family, work, relax, and enjoy the comfort of home.
-
-  ### _#3: A space set aside to focus on mental health_
-
-  Outpatient therapy may help you focus on mental health for an hour a week, and an IOP can provide you with a few hours a day of focus on your mental health. For some people, that’s not enough. The distractions and pressures of life can make it hard to sustain that focus outside of therapy, slowing your progress. These very pressures can be the cause of, or worsen, your mental health, so having space to really focus and immerse yourself in the work of healing can be a huge advantage.
-
-  A PHP gives you that space to focus, where you’ll have 40+ hours a week of access to expert support and guidance. By setting aside this time and entering a space dedicated to your mental health, you reduce the distractions and pressures of your day, giving you a chance to make a sustained effort at tackling depression.
-
-  Depression can also feel isolating and shameful, especially if people in your life buy into stigmas against therapy and mental healthcare. In a DBT-based intensive depression treatment PHP like the one offered at THIRA Health, you’ll spend enough time each day in the program to be better able to cut through the noise of stigmatizing influences in your daily life. You’ll spend time with participants who understand exactly what you’re going through, who are there to accept and support you. Your therapists will validate you in your experiences and cheer you on as you make meaningful change.
-
-  ### _#4: Real-time DBT skills practice at home reinforces therapy progress_
-
-  Dialectical behavior therapy (DBT) is a therapy that focuses on behavior first, and so learning and using DBT skills are key to healing. In group and individual therapy at a PHP, you’ll learn and practice DBT skills that support mindfulness, interpersonal effectiveness, emotional regulation, and distress tolerance. These DBT skills help you manage and reduce your depression symptoms, eventually becoming an integral part of how you live your life.
-
-  DBT skills require practice to both understand what to do and to see progress in helping you overcome the pain and heaviness of depression. While practice in a controlled environment with your therapist or other PHP participants can be highly helpful for learning how to use a DBT skill, practicing in your everyday life is where you make real change.
-
-  A major advantage of a PHP is an immediate opportunity to gain real-world practice in using the DBT skills you learn during the program. You can use skills at home on the same day you learn them, quickly integrating them into your daily life. You can push back against the negative self-beliefs of depression by showing yourself, in real-time, that you’re mastering DBT skills; you’re not worthless or hopeless, you’re capable and hard working!
-
-  Additionally, you build rewarding and supportive connections in your everyday life through immediate DBT skill usage, helping you reject the isolation that depression can demand of you. By using the helpful concepts and coping behaviors you learn in therapy, you can use your time at home between sessions to immediately further your progress toward healing from depression..
-
-  ### _#5: A step-down option for residential depression treatment, a step-up option for IOP depression treatment_
-
-  It can feel very abrupt to exit residential depression treatment and step down to an IOP or non-intensive outpatient therapy. You’re not in crisis anymore, and you have a care plan, but this change can still feel too sudden, becoming disruptive to your continued improvement.
-
-  At the same time, some people in IOP programs find that even though they’re receiving consistent support, it’s not enough. Depression symptoms may still be highly disruptive, indicating they need more time in therapy, more access to holistic therapy options, more support in meeting nutritional needs and developing their family support network; overall, they just need more to make the progress they want to see in healing from depression.
-
-  Enter the partial hospitalization program. A PHP can be a highly useful step in a mental health continuum of care. A PHP is a therapy option that doesn’t have the same time demands as residential depression treatment, giving you space to start reintegrating into your everyday life, but still offers extensive support, more than is available in an IOP.
-
-  ## THIRA Health offers holistic residential, PHP, and IOP intensive depression treatment in Bellevue, WA
-
-  Finding the right intensive depression treatment option for you is a crucial step in the healing process. THIRA Health’s helpful intake professionals take the guesswork out of the process for you, helping you decide which treatment program will work best for you. By offering comprehensive, holistic, DBT-based depression treatment at their residential, PHP, and IOP programs, THIRA Health ensures that you get the right care, wherever you are in your mental health journey. Contact our intake team today to schedule a free consultation, so you can get started on mental healthcare that will bring you lasting relief from depression.
+feed_content_checksum: 56e06fca5bf288f14a392894005589fef8fd77f2
+images: []
+locations:
+- King County
 source: THIRA Health
 source_url: https://thirahealth.com/2025/12/08/5-major-advantages-of-a-partial-hospitalization-program-for-depression/
 summarized: true

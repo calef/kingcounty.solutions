@@ -2,16 +2,12 @@
 date: '2025-11-20T23:02:27+00:00'
 events: []
 events_extracted: true
-images: []
-locations: []
-original_content: Seattle IT’s Old Tech Drive, held in partnership with PCs for People
+feed_content: Seattle IT’s Old Tech Drive, held in partnership with PCs for People
   on October 7 and 8 at the Seattle Municipal Tower, proved to be a fantastic partnership
   that offered Seattle employees the opportunity to upcycle their old technology and
   donate it to...
-original_markdown_body: Seattle IT’s Old Tech Drive, held in partnership with PCs
-  for People on October 7 and 8 at the Seattle Municipal Tower, proved to be a fantastic
-  partnership that offered Seattle employees the opportunity to upcycle their old
-  technology and donate it to...
+images: []
+locations: []
 published: false
 source: City of Seattle
 source_url: https://techtalk.seattle.gov/2025/11/20/seattle-its-old-tech-drive-a-smashing-success/

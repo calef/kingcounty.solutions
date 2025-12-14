@@ -2,10 +2,7 @@
 date: '2025-11-14T02:54:38+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Council
+feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Council
   Roundup: Council draws $600,000 from its contingency to support urgent community
   needs</span>\n<span class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span
   lang about=\"https://bellevuewa.gov/users/ciosso\" typeof=\"schema:Person\" property=\"schema:name\"
@@ -71,42 +68,9 @@ original_content: "<span class=\"field field--name-title field--type-string fiel
   \     \n\n            <div class=\"field field--name-field-article-date field--type-datetime
   field--label-hidden field__item\"><time datetime=\"2025-11-13T12:00:00Z\" class=\"datetime\">November
   13 2025</time>\n</div>\n      \n    </div>\n  </div>"
-original_markdown_body: |-
-  Council Roundup: Council draws $600,000 from its contingency to support urgent community needsCIosso<time datetime="2025-11-13T18:54:38-08:00" title="Thursday, November 13, 2025 - 18:54" class="datetime">Thu, 11/13/2025 - 18:54</time>
-
-  Plus, discussion about critical areas ordinance, co-living housing and transgender awareness proclamation
-
-  In response to increasing community need, the City Council voted unanimously Wednesday to invest $600,000 from its contingency for organizations providing immigrant and refugee legal assistance and urgent food and financial support.
-
-  The resources, to be divided equally among the three kinds of assistance (food, financial and legal), will be directed to multiple agencies who have current contracts through the city’s human services funding. This adds to the $235,000 the city manager [recently approved](https://bellevuewa.gov/city-news/city-takes-action-address-immediate-nutrition-needs-community "City takes action to address immediate nutrition needs in community") from the city’s operating budget for immediate food assistance in the community.
-
-  The decision to draw from the contingency came following a public hearing concerning adjustments for the second year of the city’s 2025-2026 biennial budget and capital improvement program. Several community members spoke and sent letters asking the council to address the mounting needs in the community. The council had previously drawn $1 million from the $2 million contingency for urgent community needs during this biennium. &nbsp;
-
-  While staff will immediately begin directing the $600,000 to human service agencies, the final mid-biennial budget legislation is being prepared for action at the Nov.18 meeting. Details on the proposed adjustments and potential implications of the current economic outlook were discussed at the [Oct. 28 meeting](https://bellevue.legistar.com/LegislationDetail.aspx?ID=7713740&GUID=A5801AE8-885E-47D5-80C4-CB7D2BF74E45).&nbsp;
-
-  The full discussion can be viewed on replay through [Bellevue Television](https://www.youtube.com/watch?v=b1ElJUfw5RU).
-
-  Updates to critical areas ordinance reviewed
-
-  In other business, the council reviewed the Planning Commission’s recommendation to update the city’s Critical Areas Ordinance. Critical areas are natural features protected under Washington’s Growth Management Act, including streams, wetlands, frequently flooded areas, steep slopes and groundwater resources. As part of the update required under state law, the recommendation includes proposed changes to how the city’s most sensitive environmental areas are protected.&nbsp;
-
-  These updates are designed to reflect current science, meet state standards and balance the city’s growth with environmental protection. The update also modernizes outdated rules and offers more flexibility for restoring disturbed land and degraded areas, making it easier for property owners to protect the environment while supporting responsible growth.&nbsp;
-
-  At the council’s direction, staff will finalize the proposed land use code amendment for consideration and final action at a future meeting. The proposed ordinance and supporting materials are available in the [meeting materials](https://bellevue.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=11315).&nbsp;
-
-  State requirements for co-living housing
-
-  The council also reviewed a proposed change to the city’s land use code that would allow co-living housing in areas where six or more residential units per lot are already permitted. This update is required under state law following the passage of House Bill 1998 in 2024 to expand housing options across Washington.&nbsp;
-
-  Co-living housing consists of individual, lockable rooms with private living and sleeping areas where kitchen facilities are shared with others in the building. Cities must allow this type of housing in certain areas and may not impose local restrictions that are more stringent than state standards.&nbsp;
-
-  To meet a state deadline, the council directed staff to schedule a public hearing on this code amendment on Dec. 2. The [meeting materials](https://bellevue.legistar.com/gateway.aspx?m=l&id=/matter.aspx?key=10790) include the draft code updates and supporting materials.
-
-  Transgender Awareness Proclamation
-
-  The council also issued a proclamation for&nbsp;[Transgender Awareness Week and Transgender Day of Remembrance](https://bellevue.legistar.com/View.ashx?M=F&ID=14918884&GUID=E71F2188-FE90-486A-B6DD-3EA03AEE42E2). &nbsp;
-
-  <time datetime="2025-11-13T12:00:00Z" class="datetime">November 13 2025</time>
+images: []
+locations:
+- King County
 source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/council-roundup-11-12-25
 summarized: true

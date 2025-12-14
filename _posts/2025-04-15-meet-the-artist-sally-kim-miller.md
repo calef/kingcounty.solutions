@@ -1,8 +1,6 @@
 ---
 date: '2025-04-15T00:13:25+00:00'
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   <div style="height:0px" aria-hidden="true" class="wp-block-spacer"></div>
 
 
@@ -43,20 +41,8 @@ original_content: |-
 
   <p></p>
   <p>The post <a href="https://www.seedseattle.org/meet-the-artist-sally-kim-miller/">Meet the Artist: Sally Kim-Miller</a> appeared first on <a href="https://www.seedseattle.org">SouthEast Effective Development</a>.</p>
-original_markdown_body: |-
-  ![](https://www.seedseattle.org/wp-content/uploads/2025/04/BlueTripod1-830x1024.jpg)
-
-  ![](https://www.seedseattle.org/wp-content/uploads/2025/04/FaceFlower-799x1024.jpg)
-
-  ![](https://www.seedseattle.org/wp-content/uploads/2025/04/Dress-for-Jenny-827x1024.jpg)
-
-  Many years ago, I started learning black and white photography in the traditional darkroom where I saw the magic of seeing an image “develop” in a tray of photochemistry. I still enjoy doing film and darkroom printing in my space at [SEEDArts Studios](https://www.seedseattle.org/seedarts-studios/). It is my creative haven.
-
-  I also enjoy digital color photography on the computer because it allows for more efficient editing and for more creative ways to produce different types of images. The digital technology allows photographic imagination to be explored in ways that was not possible in the past. Now for the past 5-10 years, my favorite photographic process is “alternative photographic process” such as cyanotype, ziatype, photopolymer photogravure, platinum/palladium, lumen, lith printing, chlorophyll printing, gum-bichromate, and others. This is a hybrid method of using both the traditional historic chemistry with digital technology and the computer. The results are beautiful, “hand made” images. There has been a growing interest in this alternative process photography in recent years.
-
-  On my website, you will see different categories of photography that I have done over the years. [www.sallykimmillerphotography.com](http://www.sallykimmillerphotography.com)
-
-  The post [Meet the Artist: Sally Kim-Miller](https://www.seedseattle.org/meet-the-artist-sally-kim-miller/) appeared first on [SouthEast Effective Development](https://www.seedseattle.org).
+images: []
+locations: []
 published: false
 source: SouthEast Effective Development
 source_url: https://www.seedseattle.org/meet-the-artist-sally-kim-miller/

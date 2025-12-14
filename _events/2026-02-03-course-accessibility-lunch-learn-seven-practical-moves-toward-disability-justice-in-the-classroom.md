@@ -1,10 +1,6 @@
 ---
 end_date: '2026-02-03T13:00:00-08:00'
-images: []
-location: Zoom, registration required.
-locations:
-- King County
-original_content: '<div id="skiptocontent"> <a aria-label="Skip to main content" href="#the-main-content">Skip
+feed_content: '<div id="skiptocontent"> <a aria-label="Skip to main content" href="#the-main-content">Skip
   to Main Content</a> </div> <div id="accessibilityHome"> <a aria-label="Accessibility
   overview" href="https://washington.zoom.us/en/accessibility">Accessibility Overview</a>
   </div> <div id="header_container" class="branding "> <div id="header_outer" class="container
@@ -26,14 +22,10 @@ original_content: '<div id="skiptocontent"> <a aria-label="Skip to main content"
   <p style="text-align: center; margin-top: 24px;">Copyright ©2025 Zoom Video Communications,
   Inc. All rights reserved. <a href="https://washington.zoom.us/en/legal">Privacy
   &amp; Legal Policies</a> </p> </div> </div> </div> </div>'
-original_markdown_body: "[Skip to Main Content](#the-main-content) \n \n [Accessibility
-  Overview](https://washington.zoom.us/en/accessibility) \n \n \n \n \n \n Welcome
-  to UW Zoom \n \n \n- [UW ZOOM FAQ](https://itconnect.uw.edu/connect/phones/conferencing/zoom-video-conferencing/uw-zoom-faq/)\n-
-  [SCHEDULE A MEETING](/schedule)\n- [JOIN A MEETING](/join)\n-  \n HOST A MEETING
-  \ \n  - [With Video Off](/start/webmeeting)\n  - [With Video On](/start/videomeeting)\n\n
-  \n \n- [HOST A MEETING WITH VIDEO](/start/webmeeting)\n- [HOST A MEETING WITHOUT
-  VIDEO](/start/videomeeting)\n\n Welcome to UW Zoom \n \n \n \n \n \n \n \n \n \n\nCopyright
-  ©2025 Zoom Video Communications, Inc. All rights reserved. [Privacy & Legal Policies](https://washington.zoom.us/en/legal)"
+images: []
+location: Zoom, registration required.
+locations:
+- King County
 source: University of Washington
 source_url: https://washington.zoom.us/meeting/register/mkZQ3FtJTGaHuhGv4uLUAQ
 start_date: '2026-02-03T12:00:00-08:00'

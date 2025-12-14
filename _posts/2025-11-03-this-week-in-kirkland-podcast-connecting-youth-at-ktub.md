@@ -2,10 +2,7 @@
 date: '2025-11-03T23:30:07+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <p data-start="161" data-end="670"><em>We’re excited to share that YES Counselor at the <span style="color: #ff6600;"><a style="color: #ff6600;" href="https://www.kirklandwa.gov/Government/Departments/Parks-and-Community-Services/Kirkland-Teen-Union-Building" target="_blank" rel="noopener">Kirkland Teen Union Building (KTUB</a></span>), Katelyn Mullinkin, was featured on the City of Kirkland’s &#8220;This Week in Kirkland&#8221; podcast, and it is such a fun listen. The episode is full of laughter, quick banter, surprising insights, and genuinely animated conversation about teen life, creativity, connectedness, and how KTUB provides a space where young people can belong, be themselves, and access mental health support right in their own neighborhood.</em></p>
   <p data-start="672" data-end="840"><em>Below, we’re highlighting just a few of the great topics and quotes shared in the interview, but we highly recommend listening to the whole episode.</em></p>
   <p data-start="887" data-end="952"> Listen to the episode here (the interview starts at 12:30): <span style="color: #ff6600;"><a class="decorated-link" style="color: #ff6600;" href="https://www.buzzsprout.com/2255207/episodes/17752542-what-s-waiting-for-teens-at-ktub-hint-more-than-you-think" target="_blank" rel="noopener" data-start="918" data-end="952">https://www.kirklandwa.gov/podcast</a></span></p>
@@ -64,90 +61,9 @@ original_content: |-
   <p>Thanks to donations like yours, <strong>no family is turned away</strong> because they can’t afford to pay for services.</p>
   <p><a href="https://interland3.donorperfect.net/weblink/WebLink.aspx?name=yes&amp;id=64"><img fetchpriority="high" decoding="async" class="lazyloaded aligncenter wp-image-11851 ls-is-cached " src="https://www.youtheastsideservices.org/wp-content/uploads/2022/08/Fall-2020-Event-Donation-Header.png" alt="donate to youth mental health" width="528" height="132" data-src="https://www.youtheastsideservices.org/wp-content/uploads/2022/08/Fall-2020-Event-Donation-Header.png" srcset="https://www.youtheastsideservices.org/wp-content/uploads/2022/08/Fall-2020-Event-Donation-Header.png 960w, https://www.youtheastsideservices.org/wp-content/uploads/2022/08/Fall-2020-Event-Donation-Header-300x75.png 300w, https://www.youtheastsideservices.org/wp-content/uploads/2022/08/Fall-2020-Event-Donation-Header-768x192.png 768w" sizes="(max-width: 528px) 100vw, 528px" /></a></p>
   <p>The post <a href="https://www.youtheastsideservices.org/podcast-ktub/">&#8220;This Week in Kirkland&#8221; Podcast: Connecting Youth at KTUB</a> appeared first on <a href="https://www.youtheastsideservices.org">Youth Eastside Services</a>.</p>
-original_markdown_body: |-
-  _We’re excited to share that YES Counselor at the [Kirkland Teen Union Building (KTUB](https://www.kirklandwa.gov/Government/Departments/Parks-and-Community-Services/Kirkland-Teen-Union-Building)), Katelyn Mullinkin, was featured on the City of Kirkland’s “This Week in Kirkland” podcast, and it is such a fun listen. The episode is full of laughter, quick banter, surprising insights, and genuinely animated conversation about teen life, creativity, connectedness, and how KTUB provides a space where young people can belong, be themselves, and access mental health support right in their own neighborhood._
-
-  _Below, we’re highlighting just a few of the great topics and quotes shared in the interview, but we highly recommend listening to the whole episode._
-
-  Listen to the episode here (the interview starts at 12:30): [https://www.kirklandwa.gov/podcast](https://www.buzzsprout.com/2255207/episodes/17752542-what-s-waiting-for-teens-at-ktub-hint-more-than-you-think)
-
-  * * *
-
-  ### Meeting Teens Where They Are
-
-  KTUB — Kirkland Teen Union Building — is a free after-school drop-in community center dedicated entirely to teens. It’s a place to just _be a teen._ A place to hang out, have fun, create, learn, and build friendships.
-
-  > As Katelyn describes it: “K-TUB… is an after-school drop-in space. It’s a community center, and it’s totally free for teens in the area who want to come here and hang out, get some homework done, get snacks, play games.”
-
-  YES partners with the City of Kirkland to embed a trained mental health counselor directly in the teen space, removing barriers and making support far more accessible. Katelyn is on-site full-time.
-
-  ### Why Mental Health Support Inside Community Spaces Matters
-
-  Not every teen wants or feels comfortable walking into a clinic or starting counseling at school. KTUB provides an alternative that feels natural and teen-driven.
-
-  > “Having a space that’s not school where you can go and get mental health services… can be really beneficial for teens who just don’t feel like school is the place where they want to be doing that.”
-
-  Teens can drop in for a conversation, ask questions, check out the space, and decide what support looks like for them.
-
-  > “You can always just drop into the Teen Center to my office. I’m there every day it’s open,” says Katelyn.
-
-  This model normalizes mental health support as part of everyday life, not something separate, scary, or only for moments of crisis.
-
-  ### A Place Built With Teen Voice at the Center
-
-  KTUB’s programs are intentionally shaped by youth input —from snacks and activities to music to new program ideas.
-
-  > “We try to really emphasize their interests and their voice in a lot of the work we do.”
-
-  There are ongoing creative and skill-building programs like cooking classes, crochet crew, art studio time, and even access to a professional recording studio. Teens have created original music, learned production, and tried new instruments.
-
-  Katelyn also uses this drop-in time to build trust in natural, relational ways.
-
-  > “When I’m not doing these one-on-one appointments, I can just kind of be in the Teen Center hanging out and getting to know them so that they feel comfortable coming to me at a later time.”
-
-  That might mean playing ping pong, doing art, joining a cooking class, or burning pizza in the toaster oven together.
-
-  ### Building Skills That Stick For Life
-
-  KTUB also invests in leadership development, advocacy, and shared decision-making. Teens help identify new programming, reflect on policies, and suggest change, learning real civic engagement skills in the process.
-
-  > “We want to offer them an opportunity to learn how to advocate for that change… and learn how to carve out change in different ways.”
-
-  ### What Teens Are Experiencing Today
-
-  Katelyn sees a range of teen stressors: identity exploration, friendships, social comparison, sometimes anxiety and depression, and the complicated role of technology.
-
-  > “They’re trying to figure out what works best for them… but I just want to give them some ideas that they can draw from.”
-
-  Even conversations around device use and phone-free school environments are happening in this space, in real time, with peer perspective.
-
-  ### Wellness Infused Into the Culture
-
-  YES support at KTUB isn’t just one-on-one therapy; it’s woven into the entire environment.
-
-  > “It’s infused throughout the whole center… making sure we’re being supportive and we’re being non-judgmental and we’re facilitating relationship building.”
-
-  Staff intentionally model healthy relationships and wellness practices as everyday skills teens can carry forward.
-
-  ### Stay Connected With KTUB
-
-  KTUB shares updates about programs, schedule changes, and activities through the City of Kirkland website and on social media.
-
-  Whether a teen wants to learn how to record music, try cooking, explore art, play games with friends, or talk with a mental health professional. KTUB is a space where they belong, and where support meets them right where they are.
-
-  * * *
-
-  ## Donors Make [Spaces Like This](https://www.youtheastsideservices.org/services/community-based/community-centers/) Possible
-
-  YES is able to reach youth where they are because caring community members make it possible. When youth have access to safe environments, supportive adults, and peers who uplift them, healing and hope take root.
-
-  **[Please consider making a gift today](https://interland3.donorperfect.net/weblink/WebLink.aspx?name=yes&id=64)**&nbsp;to continue providing children, youth, and families with the services and programs that support their mental health and recovery.
-
-  Thanks to donations like yours,&nbsp; **no family is turned away** &nbsp;because they can’t afford to pay for services.
-
-  [![donate to youth mental health](https://www.youtheastsideservices.org/wp-content/uploads/2022/08/Fall-2020-Event-Donation-Header.png)](https://interland3.donorperfect.net/weblink/WebLink.aspx?name=yes&id=64)
-
-  The post [“This Week in Kirkland” Podcast: Connecting Youth at KTUB](https://www.youtheastsideservices.org/podcast-ktub/) appeared first on [Youth Eastside Services](https://www.youtheastsideservices.org).
+images: []
+locations:
+- King County
 source: Youth Eastside Services
 source_url: https://www.youtheastsideservices.org/podcast-ktub/?utm_source=rss&utm_medium=rss&utm_campaign=podcast-ktub
 summarized: true

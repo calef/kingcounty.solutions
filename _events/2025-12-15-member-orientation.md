@@ -1,11 +1,6 @@
 ---
 end_date: '2025-12-15T11:00:00-08:00'
-images: []
-location: The Center for Active Living, 4217 SW Oregon St., Seattle, WA, 98116, United
-  States
-locations:
-- King County
-original_content: <a aria-label="Skip to content" class="fl-screen-reader-text" href="#fl-main-content">Skip
+feed_content: <a aria-label="Skip to content" class="fl-screen-reader-text" href="#fl-main-content">Skip
   to content</a><div class="fl-page"> <header class="fl-builder-content fl-builder-content-12203
   fl-builder-global-templates-locked" data-post-id="12203" data-type="header" data-sticky="0"
   data-sticky-on="" data-sticky-breakpoint="medium" data-shrink="0" data-overlay="0"
@@ -164,18 +159,11 @@ original_content: <a aria-label="Skip to content" class="fl-screen-reader-text" 
   </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div>
   </div> </div> </div> <a href="#" role="button" id="fl-to-top"><span class="sr-only">Scroll
   To Top</span></a>
-original_markdown_body: Skip to content             We used to be called the Senior
-  Center of West Seattle.               Join       Donate                 Facebook     Instagram     YouTube     LinkedIn                            Activities
-  & Events                             Member Orientation       Monday, December 15,
-  2025 at 10:00 am - 11:00 am      Get a free orientation to membership at The Center
-  from our Member Concierge, Cynthia. Drop in at any time.      Games & Social Activities              Calendar       Membership                  Location    The
-  Center for Active Living     4217 SW Oregon St. Seattle, WA 98116 United States  +
-  Google Map    Phone  206-932-4044     View Location Website                   Google
-  Calendar     iCalendar     Outlook 365     Outlook Live                   Related
-  Events    Scrabble Club Friday, December 5, 2025 at 12:30 pm - 1:30 pm     Member
-  Orientation Monday, December 8, 2025 at 10:00 am - 11:00 am     New Member Concierge
-  Monday, December 8, 2025 at 11:00 am - 1:30 pm             Calendar                 Scroll
-  To Top
+images: []
+location: The Center for Active Living, 4217 SW Oregon St., Seattle, WA, 98116, United
+  States
+locations:
+- King County
 source: The Center for Active Living
 source_url: https://wscenter.org/event/member-orientation/2025-12-15/
 start_date: '2025-12-15T10:00:00-08:00'

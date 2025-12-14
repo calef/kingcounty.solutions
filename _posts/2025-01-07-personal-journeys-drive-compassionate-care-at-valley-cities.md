@@ -2,14 +2,9 @@
 date: '2025-01-07T19:50:13+00:00'
 events: []
 events_extracted: true
-images:
-- 1290d1508ca84c7222b90c17d52f5c3bc2056b8d713a797b5d201c78f5f562ad
-locations:
-- King County
-original_content: "<div class=\"et_pb_section et_pb_section_3 et_section_regular\"
-  >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_row
-  et_pb_row_3\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4 et_pb_column_3
-  \ et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div
+feed_content: "<div class=\"et_pb_section et_pb_section_3 et_section_regular\" >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div
+  class=\"et_pb_row et_pb_row_3\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4
+  et_pb_column_3  et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div
   class=\"et_pb_module et_pb_text et_pb_text_3  et_pb_text_align_left et_pb_bg_layout_light\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div
   class=\"et_pb_text_inner\"><p><a href=\"https://www.kentreporter.com/local-marketplace/personal-journeys-drive-compassionate-care-at-valley-cities/\"><strong>As
   seen in the Kent Reporter.</strong></a></p>\n<p>“Behavioral health care is not an
@@ -75,36 +70,10 @@ original_content: "<div class=\"et_pb_section et_pb_section_3 et_section_regular
   class=\"et_bloom_bottom_trigger\"></span><p>The post <a href=\"https://valleycities.org/personal-journeys-drive-compassionate-care-at-valley-cities/\">Personal
   journeys drive compassionate care at Valley Cities</a> appeared first on <a href=\"https://valleycities.org\">Valley
   Cities Behavioral Health Care</a>.</p>"
-original_markdown_body: |-
-  [**As seen in the Kent Reporter.**](https://www.kentreporter.com/local-marketplace/personal-journeys-drive-compassionate-care-at-valley-cities/)
-
-  “Behavioral health care is not an easy field to work in. Our team members often support individuals at some of the lowest points in their lives, grappling with substance use disorders and/or mental health crises,” says John Grossman, Director of Development and Community Giving at&nbsp;[Valley&nbsp;](https://valleycities.org/)[Cities Behavioral Health Care](https://valleycities.org/).
-
-  “Having a team that knows their ‘why’ and holds that purpose close is crucial for ensuring our clients receive the compassion and care they need.”
-
-  For many Valley Cities team members, their “why” is deeply personal. Past struggles with substance use or mental health challenges often drive their passion and dedication to helping clients on their recovery journeys.
-
-  “I navigated my own battles with substance use and mental health before joining the Valley Cities team,” says Erica Allen, Admissions Manager at Valley Cities Recovery Place Seattle. “During my recovery, I saw the barriers in the existing systems and was inspired to work toward improving access to care for others.”
-
-  **Turning personal recovery into professional impact**
-
-  Sofia Goff, a Substance Use Disorder Professional Trainee (SUDPT) at Recovery Place Seattle, initially came to Valley Cities as a client. “In the early days of my recovery, I felt so ashamed and alone. My counselor at Valley Cities gave me hope that things could get better if I focused on my recovery,” she shares. “Her impact inspired me to go back to school so I could help others the way she helped me.”
-
-  John South, a Certified Peer Support Specialist, also credits Valley Cities with helping him find his footing. “After 20 years of mental health challenges, I returned to Valley Cities in 2017 and started working with a peer support worker. That experience transformed my recovery process and led me to become a Peer Support Specialist. Seeing clients invest in their recoveries helps me stay empowered in my own journey.”
-
-   ![](https://i0.wp.com/valleycities.org/wp-content/uploads/2025/01/John-South.jpg?resize=1080%2C720&ssl=1 "John South")
-
-  **Meeting clients where they are**
-
-  For Erica, Sofia and John, their past experiences have not only strengthened their connections with clients but also helped them navigate the emotional toll of their work.
-
-  “Many people enter behavioral health care with the goal of saving others, but that’s not the essence of what we do,” Sofia explains. “Our role is to meet clients where they are and support them with the challenges they’re ready to address. Sometimes, the small victories are just as meaningful as the major breakthroughs.”
-
-  Erica reflects on the bonds formed with clients. “It’s hard not knowing how their stories end, but when we do hear from past clients, it’s incredibly rewarding. One client recently visited with his daughter, whom he had regained custody of. Knowing we played a part in that reunification was a powerful reminder of why I do this work.”
-
-  _To learn more about the services offered at Valley Cities, visit&nbsp;[valleycities.org](https://valleycities.org/wrap-seminars/). If you or someone you know is currently struggling with mental health and/or addiction, contact the Valley Cities team by phone at 253-833-7444 or in person at your local&nbsp;[Valley Cities&nbsp;](https://valleycities.org/locations/)[location](https://valleycities.org/locations/). You can also call the&nbsp;[24 hour crisis line](https://valleycities.org/crisis-contact/)&nbsp;at 206-461-3222 or toll free at 866-427-4747._
-
-  The post [Personal journeys drive compassionate care at Valley Cities](https://valleycities.org/personal-journeys-drive-compassionate-care-at-valley-cities/) appeared first on [Valley Cities Behavioral Health Care](https://valleycities.org).
+images:
+- 1290d1508ca84c7222b90c17d52f5c3bc2056b8d713a797b5d201c78f5f562ad
+locations:
+- King County
 source: Valley Cities Behavioral Health Care
 source_url: https://valleycities.org/personal-journeys-drive-compassionate-care-at-valley-cities/
 summarized: true

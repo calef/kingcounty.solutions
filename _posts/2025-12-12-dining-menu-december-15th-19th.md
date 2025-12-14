@@ -4,10 +4,7 @@ events:
 - 2025-12-15-dining-menu-at-ballard-senior-center
 - 2025-12-17-wednesday-night-dinner
 events_extracted: true
-images: []
-locations:
-- Seattle
-original_content: |-
+feed_content: |-
   <p><strong>Monday ~</strong> Sheppard Pie, Garden Salad, Cookie &amp; Fruit</p>
 
 
@@ -34,21 +31,10 @@ original_content: |-
 
   <p><a><strong>Wednesday Night Dinner </strong>(RSVP Required)</a> ~ Pork Roast w/Roasted Potatoes, Cheesy Cauliflower, Salad &amp; Dessert</p>
   <p>The post <a>Dining Menu December 15th – 19th</a> appeared first on <a>Ballard Senior Center</a>.</p>
-original_content_checksum: 30b8334b453f3035f806f4a38bb4763bcd918b8a
-original_markdown_body: |-
-  **Monday ~** Sheppard Pie, Garden Salad, Cookie & Fruit
-
-  **Tuesday ~** Seahawks Lunch ~ Cheeseburgers, Hot Dogs, Potato Salad, Chips, Fruit & Cookies
-
-  **Wednesday ~** Artichoke Lemon Soup, Grilled Cheese Sandwich, Salad & Fruit
-
-  **Thursday ~** Chicken Marsala, Mashed Potatoes, Seasonal Veggies, Soup & Fruit
-
-  **Friday ~** Bacon & Corn Chowder, Salad, Cornbread & Fruit
-
-  **Wednesday Night Dinner** (RSVP Required) ~ Pork Roast w/Roasted Potatoes, Cheesy Cauliflower, Salad & Dessert
-
-  The post Dining Menu December 15th – 19th appeared first on Ballard Senior Center.
+feed_content_checksum: 30b8334b453f3035f806f4a38bb4763bcd918b8a
+images: []
+locations:
+- Seattle
 rss_guid: https://ballardseniorcenter.org/?p=7565
 source: Ballard Northwest Senior Center
 source_url: https://ballardseniorcenter.org/dining-menu-december-15th-19th/

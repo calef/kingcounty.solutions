@@ -1,18 +1,14 @@
 ---
 end_date: '2026-03-02T19:30:00-08:00'
+feed_content: <div class="field-items"> <div class="field-item"> <p> </p> <p>The Campus
+  Band (Solomon Encina, conductor) and Concert Band (Yuman Wu, conductor) present
+  their Winter Quarter concert, performing music by Julie Giroux, John Philip Sousa,
+  Percy Grainger, Johan de Meij, Frank Ticheli, Aaron Perrine, and others.</p> <h3>Director
+  Biographies</h3> </div> </div>
 images: []
 location: Meany Hall (MNY)
 locations:
 - King County
-original_content: <div class="field-items"> <div class="field-item"> <p> </p> <p>The
-  Campus Band (Solomon Encina, conductor) and Concert Band (Yuman Wu, conductor) present
-  their Winter Quarter concert, performing music by Julie Giroux, John Philip Sousa,
-  Percy Grainger, Johan de Meij, Frank Ticheli, Aaron Perrine, and others.</p> <h3>Director
-  Biographies</h3> </div> </div>
-original_markdown_body: "&nbsp;\n\n \n\nThe Campus Band (Solomon Encina, conductor)
-  and Concert Band (Yuman Wu, conductor) present their Winter Quarter concert, performing
-  music by Julie Giroux, John Philip Sousa, Percy Grainger, Johan de Meij, Frank Ticheli,
-  Aaron Perrine, and others.\n\n \n### Director Biographies"
 published: false
 source: University of Washington
 source_url: https://music.washington.edu/events/2026-03-02/campus-and-concert-bands

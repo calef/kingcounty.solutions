@@ -2,21 +2,7 @@
 date: '2025-01-27T20:43:22+00:00'
 events: []
 events_extracted: true
-images:
-- 003d99fecdeb2f387847bf7afef90d82fc5456f48862de8e9809dda898708b15
-- 21e14244ecfd566eb59827da0b8835016a34f8f9f9c7d0ea5e383594a5b55fb2
-- 904a56ebffa431256852dd2436654fe34cb96a5eddf33c881e1e699496c5e0cf
-- 89aceb63bb1065b011922bcb48d0793fb812e0ef572d3fff46852c1c9d2f54ae
-- efa76c19ae7212aba377a1d2db8a1eb1b7e7055f7721611fa37a97eee050abbe
-- 78c5e3cc6500365d483f6fae927a523020d878337d7aa5ac61b6fc1471a8b3b8
-- 1100c39324a46965040458b66a657a93622494b6c2e8a224d78a7c21c0a4f8b5
-- bcf94ac1536886d32998ff9e5e2a15b8eae559a9dbd8cf10dfa87446c26eb8b8
-- b34496bcc718797b6987f2e98090be07ad428b2c39224c7babecab2859a48cf9
-- 2bf64470cfc4e53d4df820cdbe4a66ab18ce695db0fcc89f051fefcb10b5f90a
-- eeec0f8d230e4e8a92711cce9e5f17cccb840a1fcc97fc95eeb9c8baa3f07e7f
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <figure class="wp-block-image size-full"><img decoding="async" width="1200" height="546" data-attachment-id="8648" data-permalink="https://www.lifewire.org/lifewire-2025-winter-newsletter/header-3/" data-orig-file="https://www.lifewire.org/wp-content/uploads/2025/01/Header-1.jpg" data-orig-size="1200,546" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Header" data-image-description="" data-image-caption="" data-medium-file="https://www.lifewire.org/wp-content/uploads/2025/01/Header-1-600x273.jpg" data-large-file="https://www.lifewire.org/wp-content/uploads/2025/01/Header-1.jpg" src="https://www.lifewire.org/wp-content/uploads/2025/01/Header-1.jpg" alt="" class="wp-image-8648" srcset="https://www.lifewire.org/wp-content/uploads/2025/01/Header-1.jpg 1200w, https://www.lifewire.org/wp-content/uploads/2025/01/Header-1-600x273.jpg 600w, https://www.lifewire.org/wp-content/uploads/2025/01/Header-1-300x137.jpg 300w" sizes="(max-width: 1200px) 100vw, 1200px" /></figure>
 
 
@@ -261,136 +247,20 @@ original_content: |-
 
   <p></p>
   <p>The post <a href="https://www.lifewire.org/lifewire-2025-winter-newsletter/">LifeWire 2025 Winter Newsletter</a> appeared first on <a href="https://www.lifewire.org">LifeWire</a>.</p>
-original_markdown_body: "![](https://www.lifewire.org/wp-content/uploads/2025/01/Header-1.jpg)\n\n###
-  <mark style=\"background-color:rgba(0, 0, 0, 0);color:#783681\" class=\"has-inline-color\">Executive
-  Director’s Welcome</mark>\n\nDear Friends,\n\nYour steadfast support makes every
-  LifeWire success story possible. In this edition, you’ll meet Erica, whose journey
-  to safety and stability was powered by your generosity, relive the joy of our 1980s-themed
-  World of Hope Gala and LifeWire’s Holiday Shop, and learn about exciting new partnerships
-  helping survivors and their pets.\n\nThank you for being a vital part of our mission
-  to bring hope, healing, and stability to families in need. Together, we’re building
-  a brighter, safer future.\n\n![](https://www.lifewire.org/wp-content/uploads/2025/01/Sig.jpg)\n\nJaneira
-  Bencosme-Gil  \nInterim Executive Director\n\n* * *\n\n### <mark style=\"background-color:rgba(0,
-  0, 0, 0);color:#783681\" class=\"has-inline-color\">Stories of Hope</mark>\n\n![](https://www.lifewire.org/wp-content/uploads/2025/01/Heading-2-827x827.jpg)\n\nJust
-  as Erica was about to begin school and build a new life for herself and her two
-  daughters, her former partner – whom they had escaped – found them. The safety risks
-  were so severe that she knew her only option was to move across the country, staying
-  with her brother while they searched for a new community to put down roots. Thanks
-  to the generosity of our partners and supporters, LifeWire was able to step up and
-  provide crucial assistance.\n\nWe navigated the complex process of transferring
-  her Section 8 housing voucher to a new city, secured a new birth certificate, and
-  assisted her in getting approved for a new home. LifeWire also provided support
-  during their long journey. Today, Erica and her children are safely housed and thriving
-  in their new community, embracing their fresh start.\n\n* * *\n\n### <mark style=\"background-color:rgba(0,
-  0, 0, 0);color:#773680\" class=\"has-inline-color\">Events</mark>\n\n![](https://www.lifewire.org/wp-content/uploads/2025/01/Screenshot-2025-01-21-134254-1240x284.png)\n\n![](https://www.lifewire.org/wp-content/uploads/2025/01/mc-2.jpg)\n_Auctioneer
-  Sasha Summer Cousineau, Emcee Jake Whittenberg, and Advocate Arely Madrid-Baker_\n\nOn
-  October 26th, LifeWire’s **<mark style=\"background-color:rgba(0, 0, 0, 0);color:#793581\"
-  class=\"has-inline-color\">World of Hope Gala &amp; Auction</mark>** transported
-  more than 300 supporters, advocates, and change-makers back to the 1980s. It was
-  a Prom Night extravaganza celebrating our work offering hope, stability, and healing.
-  Big hair, neon outfits, and incredible generosity filled the room as attendees and
-  sponsors raised more than **<mark style=\"background-color:rgba(0, 0, 0, 0);color:#7a3783\"
-  class=\"has-inline-color\">$312,000</mark>** to support survivors of domestic violence
-  and their families. Every dollar will make a meaningful difference.\n\nGuests had
-  a blast while making a difference for survivors and their families, enjoying new
-  experiences like **<mark style=\"background-color:rgba(0, 0, 0, 0);color:#783680\"
-  class=\"has-inline-color\">Amazon</mark>** Blast from the Past Packs, the **<mark
-  style=\"background-color:rgba(0, 0, 0, 0);color:#783780\" class=\"has-inline-color\">Bank
-  of America</mark>** Time Machine, and LifeWire Radio by **<mark style=\"background-color:rgba(0,
-  0, 0, 0);color:#793781\" class=\"has-inline-color\">Intracorp</mark>**, as well
-  as bidding on incredible auction packages and gourmet desserts. Special thanks to
-  our sponsors, dedicated volunteers, Event Committee members, and everyone who made
-  this event unforgettable.\n\nDon’t miss next year’s **<mark style=\"background-color:rgba(0,
-  0, 0, 0);color:#793581\" class=\"has-inline-color\">World of Hope Gala &amp; Auction</mark>**
-  on **<mark style=\"background-color:rgba(0, 0, 0, 0);color:#7a3683\" class=\"has-inline-color\">September
-  13th, 2025</mark>** at Meydenbauer Center—we can’t wait to see you there! For more
-  information on sponsorship, auction donations, or volunteering, contact Patrick
-  Martin, Director of Community Relations, at [patrickm@lifewire.org](mailto:patrickm@lifewire.org).\n\n![](https://www.lifewire.org/wp-content/uploads/2025/01/dance.jpg)\n_Busting
-  out those schweet ’80s moves!_\n\n![](https://www.lifewire.org/wp-content/uploads/2025/01/bids.jpg)\n_The
-  bidding frenzy begins!_\n\n![](https://www.lifewire.org/wp-content/uploads/2025/01/ballroom.jpg)\n_A
-  welcome from Board Past President Theresa Anderson and President Laurie Miyauchi._\n\n![](https://www.lifewire.org/wp-content/uploads/2025/01/monique.jpg)\n_Board
-  Member Monique Gablehouse (R) and partner Adam (L) rocking the finest ’80s styles._\n\n![](https://www.lifewire.org/wp-content/uploads/2025/01/AV-Factory-858x827.jpg)\n\n![](https://www.lifewire.org/wp-content/uploads/2025/01/Holiday-Shop-2024-1.jpg)\n\n![](https://www.lifewire.org/wp-content/uploads/2025/01/IMG_0262-002-1088x827.jpg)\n_Amazing
-  Holiday Shop volunteers!_\n\nThe holiday season shines brightest when it’s filled
-  with joy—and at LifeWire, joy includes gifts! This year, our Holiday Shop brought
-  smiles and warmth to **<mark style=\"background-color:rgba(0, 0, 0, 0);color:#773580\"
-  class=\"has-inline-color\">111 parents</mark>** and their **<mark style=\"background-color:rgba(0,
-  0, 0, 0);color:#793682\" class=\"has-inline-color\">245 children</mark>**. LifeWire
-  offered presents and gift cards to program participants, Hope Starts Here residents,
-  and their families. Adding to the magic, our Hope Starts Here holiday party gave
-  kids the chance to pick out and wrap heartfelt gifts for their parents!\n\nAs one
-  participant shared with their LifeWire advocate, <mark style=\"background-color:rgba(0,
-  0, 0, 0);color:#76357e\" class=\"has-inline-color\">“Last year we had a very difficult
-  holiday. This year, while we are thankful to be in our own place, I have been very
-  mindful of budgeting as my little one is currently unable to attend childcare. It
-  was a tremendous relief to have the opportunity to receive gifts for my daughter.
-  The thoughtful presents were a much-needed boost for our holiday spirits, and it
-  was a wonderful reminder that even if it feels like it at times, we are not alone.
-  I can’t say thank you enough.”</mark>\n\nWe owe a tremendous thank you to the amazing
-  friends and partners who made this year’s Holiday Shop a reality. **<mark style=\"background-color:rgba(0,
-  0, 0, 0);color:#793682\" class=\"has-inline-color\">The Forgotten Children’s Fund</mark>**
-  and **<mark style=\"background-color:rgba(0, 0, 0, 0);color:#793682\" class=\"has-inline-color\">Timberlake
-  Church</mark>** donated beloved toys and cozy winter clothing, while volunteers
-  from **<mark style=\"background-color:rgba(0, 0, 0, 0);color:#793682\" class=\"has-inline-color\">Meta</mark>**,
-  **<mark style=\"background-color:rgba(0, 0, 0, 0);color:#783580\" class=\"has-inline-color\">Butterfly
-  Effect</mark>**, and **<mark style=\"background-color:rgba(0, 0, 0, 0);color:#793782\"
-  class=\"has-inline-color\">Movement Mortgage</mark>** (pictured) worked tirelessly
-  to wrap hundreds of gifts with care. Your generosity created a season of hope, love,
-  and unforgettable memories for so many families.\n\n* * *\n\n### <mark style=\"background-color:rgba(0,
-  0, 0, 0);color:#793581\" class=\"has-inline-color\">LifeWire In the News</mark>\n\n![](https://www.lifewire.org/wp-content/uploads/2025/01/download.png)\n\nLifeWire
-  is honored to have our work supporting survivors and their pets featured by **_<mark
-  style=\"background-color:rgba(0, 0, 0, 0);color:#793581\" class=\"has-inline-color\">The
-  Seattle Times</mark>_** in the annual Fund for Those in Need. As their article highlights,
-  up to 50% of survivors delay or avoid leaving abusive situations because of their
-  pets. Our new Hope Starts Here shelter, one of only a few in the region designed
-  to welcome pets, ensures that every family member—furry ones included—can find safety,
-  stability, and healing.\n\n[Check out the article!](https://www.seattletimes.com/seattle-news/eastside/bellevue-shelter-welcomes-abuse-survivors-and-their-beloved-pets/?fbclid=IwY2xjawH9D7dleHRuA2FlbQIxMQABHWcFwcqLvoIDJZeeHpI8LR2PWvI5dV0_6rm0YdVknLpE1AZmfZNAz_RsDQ_aem_lnnjcf92kWSWZuPx5QC_vw)\n\n*
-  * *\n\n### <mark style=\"background-color:rgba(0, 0, 0, 0);color:#783680\" class=\"has-inline-color\">Donor
-  Spotlight</mark>\n\n![](https://www.lifewire.org/wp-content/uploads/2025/01/rr.png)\n\nLifeWire
-  is thrilled to announce our **<mark style=\"background-color:rgba(0, 0, 0, 0);color:#793682\"
-  class=\"has-inline-color\">RedRover</mark>** Safe Housing grant, supporting survivors
-  of domestic violence and their pets. This funding tackles a critical issue: ensuring
-  survivors never have to choose between their safety and leaving beloved animals
-  behind.\n\nOur new Hope Starts Here apartment complex is LifeWire’s, and one of
-  the region’s, first pet-friendly domestic violence shelters, allowing survivors
-  to stay with their pets as they rebuild their lives.\n\nThe grant enables us to
-  provide essential pet care, including:\n\n- Discounted routine veterinary care (vaccinations,
-  spaying/neutering).\n- Pet deposits at pet-friendly hotels.\n- Emergency vet services.\n-
-  Supplies like food, crates, and leashes.\n\nOur partnership with **<mark style=\"background-color:rgba(0,
-  0, 0, 0);color:#793581\" class=\"has-inline-color\">Seattle Humane</mark>** strengthens
-  this work by offering affordable veterinary services, boarding services, and staff
-  training to meet the unique needs of survivors and their pets.\n\nFor many, pets
-  are more than companions—they’re lifelines. Thanks to **<mark style=\"background-color:rgba(0,
-  0, 0, 0);color:#783680\" class=\"has-inline-color\">RedRover</mark>** and **<mark
-  style=\"background-color:rgba(0, 0, 0, 0);color:#783680\" class=\"has-inline-color\">Seattle
-  Humane</mark>**, LifeWire can ensure safety, stability, and healing for survivors
-  and their furry family members.\n\n* * *\n\n### <mark style=\"background-color:rgba(0,
-  0, 0, 0);color:#76357f\" class=\"has-inline-color\">Get Involved</mark>\n\nAre you
-  looking to get involved and make a meaningful difference for survivors? Volunteer
-  with LifeWire! Current opportunities include:\n\n**<mark style=\"background-color:rgba(0,
-  0, 0, 0);color:#793682\" class=\"has-inline-color\">Social Media Content Strategist</mark>**:
-  Do you have a knack for crafting and reaching audiences with engaging content on
-  social media? Help LifeWire spread the word about resources for survivors and opportunities
-  to support our team!\n\n**<mark style=\"background-color:rgba(0, 0, 0, 0);color:#783580\"
-  class=\"has-inline-color\">Event Assistant</mark>**: LifeWire hosts events throughout
-  the year, both for our participants and supporters. Help us make them memorable
-  by helping with planning, setup, operation, and pack-out!\n\n**<mark style=\"background-color:rgba(0,
-  0, 0, 0);color:#793682\" class=\"has-inline-color\">Stewardship Ambassador</mark>**:
-  Donors make LifeWire’s work possible. Help us show our appreciation to these incredible
-  partners with a thank you call or card after their contribution.\n\n[Reach out and
-  get involved!](https://www.lifewire.org/get-involved/volunteer/)\n\n* * *\n\n###
-  <mark style=\"background-color:rgba(0, 0, 0, 0);color:#783681\" class=\"has-inline-color\">Special
-  Announcements</mark>\n\n![](https://www.lifewire.org/wp-content/uploads/2025/01/jan.jpg)\n\nLifeWire
-  and its Board of Directors are excited to share that Janeira Bencosme-Gil, previously
-  Co-Executive Director for Organizational Operations, has been promoted to Interim
-  Executive Director. With over 17 years of experience addressing gender-based violence
-  and a proven track record of innovative leadership, Janeira is well-positioned to
-  guide LifeWire into its next chapter.\n\nHer expertise, leveraged through this new,
-  unified management structure, will be instrumental as the organization embarks on
-  a comprehensive strategic planning efforts in the first half of this year. We look
-  forward to continually strengthening our work supporting survivors of domestic violence
-  under Janeira’s capable leadership!\n\n* * *\n\n[Donate today!](https://www.lifewire.org/donate/)\n\nThe
-  post [LifeWire 2025 Winter Newsletter](https://www.lifewire.org/lifewire-2025-winter-newsletter/)
-  appeared first on [LifeWire](https://www.lifewire.org)."
+images:
+- 003d99fecdeb2f387847bf7afef90d82fc5456f48862de8e9809dda898708b15
+- 21e14244ecfd566eb59827da0b8835016a34f8f9f9c7d0ea5e383594a5b55fb2
+- 904a56ebffa431256852dd2436654fe34cb96a5eddf33c881e1e699496c5e0cf
+- 89aceb63bb1065b011922bcb48d0793fb812e0ef572d3fff46852c1c9d2f54ae
+- efa76c19ae7212aba377a1d2db8a1eb1b7e7055f7721611fa37a97eee050abbe
+- 78c5e3cc6500365d483f6fae927a523020d878337d7aa5ac61b6fc1471a8b3b8
+- 1100c39324a46965040458b66a657a93622494b6c2e8a224d78a7c21c0a4f8b5
+- bcf94ac1536886d32998ff9e5e2a15b8eae559a9dbd8cf10dfa87446c26eb8b8
+- b34496bcc718797b6987f2e98090be07ad428b2c39224c7babecab2859a48cf9
+- 2bf64470cfc4e53d4df820cdbe4a66ab18ce695db0fcc89f051fefcb10b5f90a
+- eeec0f8d230e4e8a92711cce9e5f17cccb840a1fcc97fc95eeb9c8baa3f07e7f
+locations:
+- King County
 source: LifeWire
 source_url: https://www.lifewire.org/lifewire-2025-winter-newsletter/?utm_source=rss&utm_medium=rss&utm_campaign=lifewire-2025-winter-newsletter
 summarized: true

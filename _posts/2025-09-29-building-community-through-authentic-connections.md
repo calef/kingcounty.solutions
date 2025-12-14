@@ -2,13 +2,11 @@
 date: '2025-09-29T17:26:58+00:00'
 events: []
 events_extracted: true
+feed_content: Equity and inclusion live in our daily choices, our relationships, and
+  the way we show up for one another .   Across our community,...
 images: []
 locations:
 - King County
-original_content: Equity and inclusion live in our daily choices, our relationships,
-  and the way we show up for one another .   Across our community,...
-original_markdown_body: Equity and inclusion live in our daily choices, our relationships,
-  and the way we show up for one another . &nbsp; Across our community,...
 source: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/building-community-through-authentic-connections
 summarized: true

@@ -1,15 +1,11 @@
 ---
 date: '2025-12-01T23:59:08+00:00'
-images: []
-locations: []
-original_content: Seattle police officers recovered drugs and cash during an arrest
-  in the First Hill neighborhood on Nov. 28. At about 6:20 p.m., officers doing proactive
+feed_content: Seattle police officers recovered drugs and cash during an arrest in
+  the First Hill neighborhood on Nov. 28. At about 6:20 p.m., officers doing proactive
   patrols near Harvard Avenue and Spring Street found two people inside of a vehicle
   with expired ca...
-original_markdown_body: Seattle police officers recovered drugs and cash during an
-  arrest in the First Hill neighborhood on Nov. 28. At about 6:20 p.m., officers doing
-  proactive patrols near Harvard Avenue and Spring Street found two people inside
-  of a vehicle with expired ca...
+images: []
+locations: []
 published: false
 source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/12/01/drugs-and-cash-recovered-during-arrest-in-first-hill/

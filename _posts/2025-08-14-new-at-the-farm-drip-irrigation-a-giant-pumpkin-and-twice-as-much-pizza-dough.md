@@ -2,22 +2,7 @@
 date: '2025-08-14T22:49:32+00:00'
 events: []
 events_extracted: true
-images:
-- fb745890285ccd74da24dc5861ecd5afd112556ff2ee9fa6a855d50b75c0c178
-- b10f6f3275b1ceb421c8ee3206aa52bc2cc76b28c52dd4ac611bdf4a039f646a
-- c64a78cf6a313875eaebc16605e177b39aaeaa14f822686c25bd6c9db18ef88b
-- f698cd132c3d350afcccf827c5af0d06c27adcab94780f86e2a8562906469857
-- 36b5df76e7d94e9cc82fbdacad2389b6f862b0ffa18ea96cff749975814d0645
-- c9f0534bf983ac830ab9aedd9f41da64135476cbc69abbc061d632f5d90ea134
-- 3637816eda9cfd3dd3785c671e2eb7d9d45e6403f944946445b847f5b6d637da
-- 6b600174d9501b86ed675022c371f2de5bd8d76f8790e1ae4cf78cbceb43f798
-- 0b7720e1f8bf986a47b49dc1666cfd1146074ad937d5fb6905f9c0bd07d3e5e0
-- 2012afada53efd30b867d7a9594648accbef48ce1ec4dd30de20db57cf10d4f1
-- ddf4c8660f0d3e6dc867690236609aab4a8f57ffa161887fdda0f62c051bc58f
-- 3675513e57f439d3242d5cad1b6603932f8c290b2b723351b7d815bda59fd764
-locations:
-- King County
-original_content: "<p><img width=\"361\" height=\"255\" src=\"https://s14621.pcdn.co/wp-content/uploads/2025/08/MarraFarm-flowers-CM-07.30.25-2-801x566-1-361x255.jpg\"
+feed_content: "<p><img width=\"361\" height=\"255\" src=\"https://s14621.pcdn.co/wp-content/uploads/2025/08/MarraFarm-flowers-CM-07.30.25-2-801x566-1-361x255.jpg\"
   class=\"attachment-post-thumbnail size-post-thumbnail wp-post-image\" alt=\"A trellis
   with purple and red sweet peas climbing up it.\" decoding=\"async\" srcset=\"https://s14621.pcdn.co/wp-content/uploads/2025/08/MarraFarm-flowers-CM-07.30.25-2-801x566-1-361x255.jpg
   361w, https://s14621.pcdn.co/wp-content/uploads/2025/08/MarraFarm-flowers-CM-07.30.25-2-801x566-1-300x212.jpg
@@ -384,114 +369,21 @@ original_content: "<p><img width=\"361\" height=\"255\" src=\"https://s14621.pcd
   class=\"tmc-caption\">All photos by Clarissa Magdich</p>The post <a href=\"https://www.solid-ground.org/new-at-the-farm-drip-irrigation-a-giant-pumpkin-and-twice-as-much-pizza-dough/\">New
   at the farm: drip irrigation, a giant pumpkin, and twice as much pizza dough </a>
   appeared first on <a href=\"https://www.solid-ground.org\">Solid Ground</a>."
-original_markdown_body: "![A trellis with purple and red sweet peas climbing up it.](https://s14621.pcdn.co/wp-content/uploads/2025/08/MarraFarm-flowers-CM-07.30.25-2-801x566-1-361x255.jpg)\n\nIt’s
-  been nearly 30 years since Solid Ground first started growing produce at Marra Farm
-  in South Park, and each season still brings something new.\n\nThis summer, Solid
-  Ground’s [Giving Garden](https://www.solid-ground.org/what-we-do/food-access-education/#garden)
-  is getting its first-ever drip irrigation system, growing a giant pumpkin already
-  topping 1,000 pounds, and doubling its (still relatively small) crop of wheat and
-  corn for pizza dough and tortillas. Farmer Scott Behmer says his team is also reaping
-  benefits from some of the work done last year, including a hoophouse that’s enabled
-  the farm to grow more warm-weather crops like cantaloupe.&nbsp;\n\nSolid Ground’s
-  ¾-acre garden in South Park serves two purposes: to grow fresh produce for the surrounding
-  community (more than 5,000 pounds in 2024) and as an educational tool to teach local
-  school children about farming, food systems, and food justice. Last year alone,
-  1,155 kids visited the farm.&nbsp;\n\n#### Drip irrigation means less water use,
-  fewer weeds&nbsp;\n\nEach visit brings something new. This year, the biggest development
-  is the new drip irrigation system, which Scott and his team have spent most of the
-  summer installing.\n\n“There have been many fits and starts, but it’s pretty much
-  done,” says Scott. “We’re just putting the finishing touches on – then it’ll be
-  put to use – and we’ll use it for many years.”&nbsp;\n\nhttps://www.youtube.com/embed/Buoo2wSJk90\n\nThe
-  new irrigation system will have two benefits: less water and fewer weeds.&nbsp;“It’s
-  dripping into the ground instead of spraying into the sunny air, so it’s much more
-  water efficient,” Scott says. “In theory, we’ll also have fewer weeds, because those
-  seeds germinate in the very top layer of soil. And one of the reasons drip irrigation
-  is so efficient is it doesn’t really water that top layer of soil – it waters down
-  deep.”\n\nWith the growing season already well underway, Scott says the farm will
-  see most of the benefits of the new irrigation system next spring.\n\n##### _Get
-  your hands dirty at the Giving Garden!_ \n\n#### Solid Ground’s Annual Day of Service\n\n####
-  Friday, August 22, 2025 | 9am-noon\n\nMarra Farm is one of three sites where our
-  community of volunteers will gather on for Solid Ground’s 2025 [Day of Service](https://www.solid-ground.org/day-of-service).
-  Join your fellow volunteers for coffee and pastries, then roll up your sleeves and
-  get to work building soil, preparing vegetable beds, planting starts and seeds,
-  weeding, composting, watering, harvesting, and washing produce.\n\n[Register now!](https://www.solid-ground.org/day-of-service/#register)\n\n####
-  ![](https://s14621.pcdn.co/wp-content/uploads/2025/08/MarraFarm-pumpkin-CM-07.30.25-3-801px.jpg)The
-  ‘Great Pumpkin’&nbsp;\n\nFor an example of rapid growth happening now, just check
-  out the Giving Garden’s new giant pumpkin. Already weighing in at more than 1,000
-  pounds, the massive gourd is the result of a collaboration with a neighbor who’s
-  been growing the beasts at his own plot at Marra Farm for several years. The neighbor’s
-  enormous pumpkins became such a popular stop on Solid Ground’s field trip tours
-  for visiting kids that he suggested they work together to grow an even bigger one
-  in the Giving Garden.&nbsp;\n\n“It’s from a special seed, requires special pruning
-  – special everything,” Scott says&nbsp;\n\nThe resulting pumpkin has rocketed past
-  the neighbor’s old record – about 700 pounds – and is being fed by a single plant
-  that covers about 1,000 square feet. Scott says he has no idea how big it’ll get
-  before the neighbor harvests and takes it to a competitive weigh-off.&nbsp;\n\n####
-  A hoophouse, ‘just-for-fun’ things, and educational tools&nbsp;\n\n![Cherry tomatoes
-  ripening on the vine](https://s14621.pcdn.co/wp-content/uploads/2025/08/MarraFarm-tomatoes-CM-07.30.25-1-801px.jpg)Other
-  highlights at the farm this summer can be found inside the hoophouse, which is home
-  to cantaloupes, tomatoes, and peppers – crops that thrive in longer, hotter growing
-  seasons than we typically have in the Pacific Northwest. Built two summers ago,
-  the hoophouse is essentially a greenhouse made of plastic sheeting pulled tight
-  over arched supports. &nbsp;\n\nScott has also doubled his crop of wheat and corn,
-  which will be used to make corn tortillas and pizza dough for visiting classes.
-  Once the wheat is harvested, threshed, winnowed, and milled into flour, it should
-  make enough for about eight pizzas.&nbsp;\n\n“It’s kind of a just-for-fun thing,”
-  Scott says. “The pumpkin is 100% just for fun. The wheat and corn is half just for
-  fun and half, ‘Where does bread come from? Where do tortillas come from?’ So it’s
-  a little more educational.”&nbsp;\n\n**Learn more about Solid Ground’s [Community
-  Food Education](https://www.solid-ground.org/what-we-do/food-access-education/).**\n\n*
-  * *\n<style>#jtg-70685 .modula-item .jtg-social a, .lightbox-socials.jtg-social
-  a{ fill: #ffffff; color: #ffffff }#jtg-70685 .modula-item .jtg-social-expandable
-  a, #jtg-70685 .modula-item .jtg-social-expandable-icons a{ fill: #ffffff; color:
-  #ffffff }#jtg-70685 .modula-item .jtg-social svg, .lightbox-socials.jtg-social svg
-  { height: 16px; width: 16px }#jtg-70685 .modula-item .jtg-social-expandable svg
-  { height: 16px; width: 16px }#jtg-70685 .modula-item .jtg-social-expandable-icons
-  svg { height: 16px; width: 16px }#jtg-70685 .modula-item .jtg-social a:not(:last-child),
-  .lightbox-socials.jtg-social a:not(:last-child) { margin-right: 10px }#jtg-70685
-  .modula-item .jtg-social-expandable-icons { gap: 10px }#jtg-70685 .modula-item .figc
-  {color:#ffffff;}#jtg-70685 .modula-item .figc .jtg-title { font-size: 16px; }#jtg-70685
-  .modula-item .modula-item-content { transform: scale(1); }#jtg-70685 { width:100%;}#jtg-70685
-  .modula-items{height:800px;}@media screen and (max-width: 992px) {#jtg-70685 .modula-items{height:800px;}}@media
-  screen and (max-width: 768px) {#jtg-70685 .modula-items{height:800px;}}#jtg-70685
-  .modula-items .figc p.description { font-size:14px; }#jtg-70685 .modula-items .figc
-  p.description { color:#ffffff;}#jtg-70685 .modula-items .figc .jtg-title { color:#ffffff;
-  }#jtg-70685.modula-gallery .modula-item > a, #jtg-70685.modula-gallery .modula-item,
-  #jtg-70685.modula-gallery .modula-item-content > a:not(.modula-no-follow) { cursor:zoom-in;
-  } #jtg-70685.modula-gallery .modula-item-content .modula-no-follow { cursor: default;
-  } @media screen and (max-width:480px){#jtg-70685 .modula-item .figc .jtg-title {
-  font-size: 12px; }#jtg-70685 .modula-items .figc p.description { color:#ffffff;font-size:10px;
-  }}</style>\n\n ![Lavender with a large bumblebee in the center](https://s14621.pcdn.co/wp-content/uploads/2025/08/MarraFarm-lavender-CM-07.30.25-801px-300x300.jpg
-  \"MarraFarm-lavender-(CM)-07.30.25-801px\")\n\n ![Cherry tomatoes ripening on the
-  vine](https://s14621.pcdn.co/wp-content/uploads/2025/08/MarraFarm-tomatoes-CM-07.30.25-2-801px-300x300.jpg
-  \"MarraFarm-tomatoes-(CM)-07.30.25-2-801px\")\n\n ![An enormous white pumpkin grows
-  alone in a patch surrounded by black screening.](https://s14621.pcdn.co/wp-content/uploads/2025/08/MarraFarm-pumpkin-CM-07.30.25-3-801px-300x300.jpg
-  \"MarraFarm-pumpkin-(CM)-07.30.25-3-801px\")\n\n ![A covered hoophouse to the left
-  of a large tent of scarlet runner beans](https://s14621.pcdn.co/wp-content/uploads/2025/08/MarraFarm-hoophouse-beantent-CM-07.30.25-801px-300x300.jpg
-  \"MarraFarm-hoophouse-beantent-(CM)-07.30.25-801px\")\n\n ![A sign on a stake in
-  the middle of a farm field has an illustration of a beet with the words in several
-  languages.](https://s14621.pcdn.co/wp-content/uploads/2025/08/MarraFarm-chard-sign-CM-07.30.25-801px-300x300.jpg
-  \"MarraFarm-chard-sign-(CM)-07.30.25-801px\")\n\n ![A trellis with purple and red
-  sweet peas climbing up it.](https://s14621.pcdn.co/wp-content/uploads/2025/08/MarraFarm-flowers-CM-07.30.25-2-801px-300x300.jpg
-  \"MarraFarm-flowers-(CM)-07.30.25-2-801px\")\n\n ![A sign on a stake amidst rows
-  of lettuce with an illustration of lettuce with the words in several languages.](https://s14621.pcdn.co/wp-content/uploads/2025/08/MarraFarm-lettuce-sign-CM-07.30.25-801px-300x300.jpg
-  \"MarraFarm-lettuce-sign-(CM)-07.30.25-801px\")\n\n ![A tall stand of corn growing](https://s14621.pcdn.co/wp-content/uploads/2025/08/MarraFarm-corn-CM-07.30.25-801px-300x300.jpg
-  \"MarraFarm-corn-(CM)-07.30.25-801px\")\n\n ![A trellis with purple and red sweet
-  peas climbing up it.](https://s14621.pcdn.co/wp-content/uploads/2025/08/MarraFarm-flowers-CM-07.30.25-1-801x1067-1-225x300.jpg
-  \"MarraFarm-flowers-(CM)-07.30.25-1-801x1,067\")\n\n ![A stone painted with the
-  Marra Farm logo, placed on the ground by a rock and some plants](https://s14621.pcdn.co/wp-content/uploads/2025/08/MarraFarm-painted-stone-CM-07.30.25-400px-300x300.jpg
-  \"MarraFarm-painted-stone-(CM)-07.30.25-400px\")\n\n ![A plant with green peppers
-  growing out of black landscape fabric.](https://s14621.pcdn.co/wp-content/uploads/2025/08/MarraFarm-peppers-CM-07.30.25-801px-300x300.jpg
-  \"MarraFarm-peppers-(CM)-07.30.25-801px\")\n\n ![An enormous white pumpkin](https://s14621.pcdn.co/wp-content/uploads/2025/08/MarraFarm-pumpkin-CM-07.30.25-1-801x566-1-300x212.jpg
-  \"MarraFarm-pumpkin-(CM)-07.30.25-1-801x566\")\n\n ![Closeup of two sunflowers](https://s14621.pcdn.co/wp-content/uploads/2025/08/MarraFarm-sunflowers-CM-07.30.25-2-801x566-1-300x212.jpg
-  \"MarraFarm-sunflowers-(CM)-07.30.25-2-801x566\")\n\n ![An enormous white pumpkin
-  grows alone in a patch surrounded by black screening.](https://s14621.pcdn.co/wp-content/uploads/2025/08/MarraFarm-pumpkin-CM-07.30.25-2-801x566-1-300x212.jpg
-  \"MarraFarm-pumpkin-(CM)-07.30.25-2-801x566\")\n\n<script type=\"application/ld+json\">\n\t{\n\t\t\"@context\":
-  \"http://schema.org\",\n\t\t\"@type\" : \"ImageGallery\",\n\t\t\"id\" : \"https://www.solid-ground.org/new-at-the-farm-drip-irrigation-a-giant-pumpkin-and-twice-as-much-pizza-dough/\",\n\t\t\"url\"
-  : \"https://www.solid-ground.org/new-at-the-farm-drip-irrigation-a-giant-pumpkin-and-twice-as-much-pizza-dough/\"\n\t}\n\n\t</script>\n\nAll
-  photos by Clarissa Magdich\n\nThe post [New at the farm: drip irrigation, a giant
-  pumpkin, and twice as much pizza dough&nbsp;](https://www.solid-ground.org/new-at-the-farm-drip-irrigation-a-giant-pumpkin-and-twice-as-much-pizza-dough/)
-  appeared first on [Solid Ground](https://www.solid-ground.org)."
+images:
+- fb745890285ccd74da24dc5861ecd5afd112556ff2ee9fa6a855d50b75c0c178
+- b10f6f3275b1ceb421c8ee3206aa52bc2cc76b28c52dd4ac611bdf4a039f646a
+- c64a78cf6a313875eaebc16605e177b39aaeaa14f822686c25bd6c9db18ef88b
+- f698cd132c3d350afcccf827c5af0d06c27adcab94780f86e2a8562906469857
+- 36b5df76e7d94e9cc82fbdacad2389b6f862b0ffa18ea96cff749975814d0645
+- c9f0534bf983ac830ab9aedd9f41da64135476cbc69abbc061d632f5d90ea134
+- 3637816eda9cfd3dd3785c671e2eb7d9d45e6403f944946445b847f5b6d637da
+- 6b600174d9501b86ed675022c371f2de5bd8d76f8790e1ae4cf78cbceb43f798
+- 0b7720e1f8bf986a47b49dc1666cfd1146074ad937d5fb6905f9c0bd07d3e5e0
+- 2012afada53efd30b867d7a9594648accbef48ce1ec4dd30de20db57cf10d4f1
+- ddf4c8660f0d3e6dc867690236609aab4a8f57ffa161887fdda0f62c051bc58f
+- 3675513e57f439d3242d5cad1b6603932f8c290b2b723351b7d815bda59fd764
+locations:
+- King County
 source: Solid Ground
 source_url: https://www.solid-ground.org/new-at-the-farm-drip-irrigation-a-giant-pumpkin-and-twice-as-much-pizza-dough/
 summarized: true

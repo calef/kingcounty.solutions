@@ -1,11 +1,6 @@
 ---
 end_date: '2025-12-15T15:00:00-08:00'
-images: []
-location: The Center for Active Living, 4217 SW Oregon St., Seattle, WA, 98116, United
-  States
-locations:
-- King County
-original_content: '<a aria-label="Skip to content" class="fl-screen-reader-text" href="#fl-main-content">Skip
+feed_content: '<a aria-label="Skip to content" class="fl-screen-reader-text" href="#fl-main-content">Skip
   to content</a><div class="fl-page"> <header class="fl-builder-content fl-builder-content-12203
   fl-builder-global-templates-locked" data-post-id="12203" data-type="header" data-sticky="0"
   data-sticky-on="" data-sticky-breakpoint="medium" data-shrink="0" data-overlay="0"
@@ -168,23 +163,11 @@ original_content: '<a aria-label="Skip to content" class="fl-screen-reader-text"
   </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div>
   </div> </div> </div> <a href="#" role="button" id="fl-to-top"><span class="sr-only">Scroll
   To Top</span></a>'
-original_markdown_body: 'Skip to content             We used to be called the Senior
-  Center of West Seattle.               Join       Donate                 Facebook     Instagram     YouTube     LinkedIn                            Activities
-  & Events                             Parkinson’s Support Group       Monday, December
-  15, 2025 at 2:00 pm - 3:00 pm      Are you looking for a group to support you in
-  your Parkinson’s experience? This monthly in-person group is for people with Parkinson’s
-  and their caregivers, spouses and significant others. Our goal is to help everyone
-  live their life to the fullest by providing information, resources and space to
-  share personal experiences. We will also host outside speakers from the Northwest
-  Chapter of the American Parkinson’s Disease Association. RSVP and info: Anne Bowman:
-  mikeannewa@comcast.net.     Support Groups              Calendar       Membership                  Location    The
-  Center for Active Living     4217 SW Oregon St. Seattle, WA 98116 United States  +
-  Google Map    Phone  206-932-4044     View Location Website                   Google
-  Calendar     iCalendar     Outlook 365     Outlook Live                   Related
-  Events    Men’s Support Group #1 Friday, December 5, 2025 at 11:00 am - 12:30 pm     Diabetic
-  Support Group Friday, December 5, 2025 at 1:00 pm - 2:00 pm     Caregivers Support
-  Group Friday, December 5, 2025 at 2:15 pm - 3:15 pm             Calendar                 Scroll
-  To Top'
+images: []
+location: The Center for Active Living, 4217 SW Oregon St., Seattle, WA, 98116, United
+  States
+locations:
+- King County
 source: The Center for Active Living
 source_url: https://wscenter.org/event/parkinsons-support-group/2025-12-15/
 start_date: '2025-12-15T14:00:00-08:00'

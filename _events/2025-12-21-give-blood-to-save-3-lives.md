@@ -1,12 +1,8 @@
 ---
 end_date: '2025-12-21T17:00:00-08:00'
-images: []
-location: 'Bloodworks Donation Center, 660 SW 39TH ST #100, Renton'
-locations:
-- King County
-original_content: "<section> <div> <div> <div> <section> <div> <div> <span> Event
-  Series: </span> <a> <span> Give Blood to Save 3 Lives </span> </a> </div> <h1>Give
-  Blood to Save 3 Lives</h1> <div> <h2> <span>December 21 @ 8:00 am</span> - <span>5:00
+feed_content: "<section> <div> <div> <div> <section> <div> <div> <span> Event Series:
+  </span> <a> <span> Give Blood to Save 3 Lives </span> </a> </div> <h1>Give Blood
+  to Save 3 Lives</h1> <div> <h2> <span>December 21 @ 8:00 am</span> - <span>5:00
   pm</span> </h2> </div> <div> <div> <h2>You’re the type to help save lives.</h2>
   <p><strong>DONATE BLOOD WITH BLOODWORKS AND FILL OUT THE ENTRY FORM TO WIN A BIG
   PRIZE THIS MONTH!</strong></p> <p>Every two seconds in the United States, someone
@@ -33,23 +29,11 @@ original_content: "<section> <div> <div> <div> <section> <div> <div> <span> Even
   <h3><a>Park Commission</a></h3> <span>December 10 @ 5:30 pm</span> - <span>6:30
   pm</span> </div> </li> </ul> </div> <p> <a> Back to events</a> </p> </div> </section>
   </div> </div> </div> </section>"
-original_content_checksum: 7fd150dc4fe50eb3cefed9c2c8b919df43c8de02
-original_markdown_body: 'Event Series:    Give Blood to Save 3 Lives    Give Blood
-  to Save 3 Lives   December 21 @ 8:00 am - 5:00 pm     You’re the type to help save
-  lives. DONATE BLOOD WITH BLOODWORKS AND FILL OUT THE ENTRY FORM TO WIN A BIG PRIZE
-  THIS MONTH! Every two seconds in the United States, someone needs blood. No matter
-  who you are, you can help. Here are what types of blood we most urgently need right
-  now. Your donation is critical! To schedule an appointment, call 1-800-398-7888.
-  Click here for more information and to schedule an appointment online.   BLOODWORKS
-  DONATION CENTER 660 SW 39TH ST #100, RENTON  (1 block from IKEA)   You can also
-  donate umbilical cord blood after the birth of your baby to save a life. Click here
-  for information.         Google Calendar     iCalendar     Outlook 365     Outlook
-  Live           Details    Date:   December 21     Time:   8:00 am - 5:00 pm    Series:    Give
-  Blood to Save 3 Lives    Event Categories: Community Event, Volunteer Opportunity      Venue    Bloodworks
-  Donation Center     660 SW 39TH ST #100 Renton,  + Google Map       Related Events    Green
-  Tukwila Event December 9 @ 11:30 am - 1:30 pm     Green Tukwila Event December 10
-  @ 9:30 am - 1:00 pm     Park Commission December 10 @ 5:30 pm - 6:30 pm       Back
-  to events'
+feed_content_checksum: 7fd150dc4fe50eb3cefed9c2c8b919df43c8de02
+images: []
+location: 'Bloodworks Donation Center, 660 SW 39TH ST #100, Renton'
+locations:
+- King County
 published: false
 source: City of Tukwila
 source_url: https://www.tukwilawa.gov/event/give-blood-to-save-3-lives-3/2025-12-21/

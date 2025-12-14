@@ -2,10 +2,7 @@
 date: '2025-08-04T18:27:31+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- Snoqualmie Valley
-original_content: "**From Mission to Purpose: A Heartfelt Evolution at Encompass&nbsp;**
+feed_content: "**From Mission to Purpose: A Heartfelt Evolution at Encompass&nbsp;**
   \ \n_By Kim Darby, Encompass Board President, and Nela Cumming, Encompass Executive
   Director_\n\n![](https://encompassnw.org/wp-content/uploads/2025/08/img-instagram-blog-purpose-819x1024.jpg)In
   2024, the Encompass Board of Directors embarked on a journey—one rooted in reflection,
@@ -66,6 +63,9 @@ original_content: "**From Mission to Purpose: A Heartfelt Evolution at Encompass
   A commitment to the community.\n\nAnd most of all, it’s a commitment to generations
   to come.\n\nThe post [From Mission to Purpose: A Heartfelt Evolution at Encompass](https://encompassnw.org/from-mission-to-purpose-a-heartfelt-evolution-at-encompass/)
   first appeared on [Encompass](https://encompassnw.org)."
+images: []
+locations:
+- Snoqualmie Valley
 source: Encompass
 source_url: https://encompassnw.org/from-mission-to-purpose-a-heartfelt-evolution-at-encompass/
 summarized: true

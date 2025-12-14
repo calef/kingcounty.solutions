@@ -1,15 +1,11 @@
 ---
 date: '2025-12-04T18:42:29+00:00'
-images: []
-locations: []
-original_content: Odessa Brown Children's Clinic is inviting high schoolers and young
+feed_content: Odessa Brown Children's Clinic is inviting high schoolers and young
   adults to apply for their new Career Pathway Leadership Program. Interested individuals
   can find more information and submit their applications by scanning the provided
   QR code. Please share this opportunity widely.
-original_markdown_body: Odessa Brown Children's Clinic is inviting high schoolers
-  and young adults to apply for their new Career Pathway Leadership Program. Interested
-  individuals can find more information and submit their applications by scanning
-  the provided QR code. Please share this opportunity widely.
+images: []
+locations: []
 published: false
 source: King County School Health
 source_url: https://kingcountyschoolhealthdotcom.wordpress.com/2025/12/04/odessa-brown-youth-leadership-council-open-for-applications/

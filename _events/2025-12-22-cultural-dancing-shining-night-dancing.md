@@ -1,11 +1,6 @@
 ---
 end_date: '2025-12-22T20:00:00-08:00'
-images: []
-location: 'South Park Neighborhood Center, 8201 10th Ave S, #4, Seattle, WA, 98108,
-  United States'
-locations:
-- King County
-original_content: '<div class="row"> <div class="main col-md-12" id="ktmain" role="main">
+feed_content: '<div class="row"> <div class="main col-md-12" id="ktmain" role="main">
   <div class="entry-content" itemprop="mainContentOfPage"> <section id="tribe-events"
   role="main"> <div id="tribe-events-content" class="tribe-events-single"> <p class="tribe-events-back">
   <a href="https://www.spseniors.org/events/"> « All Events</a> </p> <div class="tribe-events-series-relationship-single-marker
@@ -71,17 +66,11 @@ original_content: '<div class="row"> <div class="main col-md-12" id="ktmain" rol
   tribe-events-meta-label">Phone</span> <span class="tribe-venue-tel tribe-events-meta-value">
   206-767-2544 </span> </li> </ul> </div> </div> </div> <p class="nocomments">Comments
   are closed.</p> </div> </section> </div> </div> </div>'
-original_markdown_body: "« All Events    Event Series:    Cultural Dancing—Shining
-  Night Dancing    Cultural Dancing—Shining Night Dancing   December 22 @ 6:00 PM
-  - 8:00 PM     Every Monday, 6:00-8:00pm An evening of dance that represents the
-  many cultures we serve at SPSC including traditional dances from Cambodia, Latin
-  America, and Vietnam. If you would like to be added to our ongoing guestlist, please
-  contact Andrew Pardini Thank you! Andrew Pardini Engagement & Programs Manager (206)
-  909-0346         Google Calendar     iCalendar     Outlook 365     Outlook Live
-  \          Details    Date:   December 22     Time:   6:00 PM - 8:00 PM    Series:
-  \   Cultural Dancing—Shining Night Dancing      Organizer   SP Senior Center        Venue
-  \   South Park Neighborhood Center     8201 10th Ave S, #4 Seattle, WA 98108 United
-  States  + Google Map    Phone  206-767-2544       Comments are closed."
+images: []
+location: 'South Park Neighborhood Center, 8201 10th Ave S, #4, Seattle, WA, 98108,
+  United States'
+locations:
+- King County
 published: false
 source: South Park Senior Citizens
 source_url: https://www.spseniors.org/calendar/cultural-dancing-shining-night-dancing/2025-12-22/

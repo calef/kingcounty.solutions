@@ -1,10 +1,6 @@
 ---
 end_date: '2025-12-18T16:00:00-08:00'
-images: []
-location: ''
-locations:
-- King County
-original_content: '<div> <div> <section> <title>WorkSource Seattle-King County</title>
+feed_content: '<div> <div> <section> <title>WorkSource Seattle-King County</title>
   <script>{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://worksourceskc.org/event/online-strategies-for-success-communication-island-211/","url":"https://worksourceskc.org/event/online-strategies-for-success-communication-island-211/","name":"ONLINE
   Strategies for Success: Communication (Island) - WorkSource Seattle-King County","isPartOf":{"@id":"https://www.worksourceskc.org/#website"},"datePublished":"2025-11-19T16:26:54+00:00","dateModified":"2025-12-13T16:32:54+00:00","description":"Communication
   &#8211; Communication is a skill that never stops growing! Come learn how to improve
@@ -80,66 +76,11 @@ original_content: '<div> <div> <section> <title>WorkSource Seattle-King County</
   conflict resolution and get tips on emotional control </li> <li>Get tips on how
   to present yourself the right way on the phone, in email and on social media.</li>
   </ul> </div> </div> </div> </section> </div> </section> </div> </div>'
-original_content_checksum: aae43f224f6a0a2287d12f83c653624edb55a109
-original_markdown_body: 'WorkSource Seattle-King County {"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://worksourceskc.org/event/online-strategies-for-success-communication-island-211/","url":"https://worksourceskc.org/event/online-strategies-for-success-communication-island-211/","name":"ONLINE
-  Strategies for Success: Communication (Island) - WorkSource Seattle-King County","isPartOf":{"@id":"https://www.worksourceskc.org/#website"},"datePublished":"2025-11-19T16:26:54+00:00","dateModified":"2025-12-13T16:32:54+00:00","description":"Communication
-  &#8211; Communication is a skill that never stops growing! Come learn how to improve
-  your skills and odds of landing that next job! Learn","breadcrumb":{"@id":"https://worksourceskc.org/event/online-strategies-for-success-communication-island-211/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://worksourceskc.org/event/online-strategies-for-success-communication-island-211/"]}]},{"@type":"BreadcrumbList","@id":"https://worksourceskc.org/event/online-strategies-for-success-communication-island-211/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"ONLINE
-  Strategies for Success: Communication (Island)"}]},{"@type":"WebSite","@id":"https://www.worksourceskc.org/#website","url":"https://www.worksourceskc.org/","name":"WorkSource
-  Seattle-King County","description":"Let&#039;s find your path together!","publisher":{"@id":"https://www.worksourceskc.org/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.worksourceskc.org/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://www.worksourceskc.org/#organization","name":"WorkSource
-  Seattle-King County","url":"https://www.worksourceskc.org/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.worksourceskc.org/#/schema/logo/image/","url":"","contentUrl":"","caption":"WorkSource
-  Seattle-King County"},"image":{"@id":"https://www.worksourceskc.org/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/worksourceskc/"]},{"@type":"Event","name":"ONLINE
-  Strategies for Success: Communication (Island)","description":"Communication &#8211;
-  Communication is a skill that never stops growing! Come learn how to improve your
-  skills and odds of&hellip;","url":"https://worksourceskc.org/event/online-strategies-for-success-communication-island-211/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2025-12-15T13:00:00-08:00","endDate":"2025-12-18T16:00:00-08:00","@id":"https://worksourceskc.org/event/online-strategies-for-success-communication-island-211/#event","mainEntityOfPage":{"@id":"https://worksourceskc.org/event/online-strategies-for-success-communication-island-211/"}}]}
-  ONLINE Strategies for Success: Communication (Island) – WorkSource Seattle-King
-  County Skip to main content        Job Board    Staff Log-In        Job Seekers   Get
-  Started with Personalized Support  Sign Up for Services Layoff Support    Self-Serve
-  Resources  Career Exploration Skills & Training Job Search   Workshops & Hiring
-  Events    Employers   Business Services  Employer Inquiry Form Business Connection
-  Partners Business Assistance & Workforce Support Small-Business Assistance Employee
-  Development   Layoff Support, Aversion and Retention    Locations  Auburn Downtown
-  Seattle North Seattle Rainier South Seattle   About            Go to Back to Calendar  ONLINE
-  Strategies for Success: Communication (Island) December 15 Monday | 1:00pm - 4:00pm  Add
-  to Calendar December 15 1:00pm 12/18/2025 4:00pm America/Los_Angeles ONLINE Strategies
-  for Success: Communication (Island) Communication – Communication is a skill that
-  never stops growing! Come learn how to improve your skills and odds of…  ZOOM Online
-  Meeting: Link and meeting information will be shared by e-mail at a minimum of 1
-  hour before the online workshop begins. Room: Virtual class via ZOOM Contact Name:
-  Kim Newkirk Contact Phone: 360-499-0004 Contact Email: kimberly.newkirk@esd.wa.gov
-  Workshop Language: English Event Registration: Sign Up Required Sign Up Approved
-  Unemployment Insurance (UI) Job Search Activity: Yes Additional Info: Strategies
-  for Success is a series of life-skills workshops open to everyone. It is flexible
-  and customizable – each workshop module can stand alone or be combined with other
-  modules to provide a personalized experience. Modules can be taken in any order.
-  Each of the six modules is four days long (3-hours each day), starting on the first
-  business day of each week. Class Times: 1:00pm – 4:00pm (Virtual – Zoom) This is
-  a 4-day workshop (Monday, Tuesday, Wednesday, Thursday) If class registration is
-  full and participants are waitlisted, all registrations (regular and waitlist) will
-  be evaluated according to the following criteria for deferment or acceptance into
-  class:  Program referrals  Veterans  Continuing or returning students (those working
-  through the series of modules)  Repeating students (those who have previously completed
-  the module)  Walk-ins (not program-connected)  Please go to WorkSourceWA.com and
-  create a job-seeker account prior to attending the workshop.  When you sign up for
-  this event, please use the same name and email address that you use with your worksourcewa.com
-  account, if possible. *If you entered a valid email address, you will receive email
-  updates of any registration or status changes. Remember to check your SPAM folder
-  if you are not receiving emails from us. A Zoom Meeting link will be emailed at
-  least one hour prior to class start time. This workshop is offered online through
-  Zoom meetings. Before signing up, check to see if you have the minimum hardware,
-  browser, and operating systems required to access this service: https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0060748. 
-  For information on how to join a Zoom meeting to attend the workshop, go to: https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0060732
-  Participant controls in a Zoom meeting: https://support.zoom.com/hc/en/article?id=zm_kb&sysparm_article=KB0062674
-    If you need an accommodation to participate in this training, contact Kim Newkirk,
-  Kimberly.Newkirk@esd.wa.gov, (360) 499-0004, Washington Relay 711. Please provide
-  your name and accommodation request. Please make your accommodation request as early
-  as possible so arrangements can be made.   Description:Communication – Communication
-  is a skill that never stops growing! Come learn how to improve your skills and odds
-  of landing that next job! Learn about interpersonal and business communication and
-  discover your own style  Develop better listening, writing, computer and presentation
-  skills  Find out about verbal & non-verbal cues, practice conflict resolution and
-  get tips on emotional control  Get tips on how to present yourself the right way
-  on the phone, in email and on social media.'
+feed_content_checksum: aae43f224f6a0a2287d12f83c653624edb55a109
+images: []
+location: ''
+locations:
+- King County
 source: WorkSource Seattle-King County
 source_url: https://worksourceskc.org/event/online-strategies-for-success-communication-island-211/
 start_date: '2025-12-15T13:00:00-08:00'

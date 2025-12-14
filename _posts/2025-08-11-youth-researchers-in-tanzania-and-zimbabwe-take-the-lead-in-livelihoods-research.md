@@ -2,15 +2,11 @@
 date: '2025-08-11T11:49:21+00:00'
 events: []
 events_extracted: true
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   <p>Six graduates in the CAMFED Association of women leaders educated with CAMFED support in Tanzania and Zimbabwe are leading research into how young women build thriving enterprises. Following a rigorous selection process, they recently participated in a week&#x2d;long Youth Researchers Academy in Harare to hone their expertise for qualitative and quantitative research methods.</p>
   <p><a href="https://camfed.org/youth-researchers-tanzania-zimbabwe/" rel="nofollow">Source</a></p>
-original_markdown_body: |-
-  Six graduates in the CAMFED Association of women leaders educated with CAMFED support in Tanzania and Zimbabwe are leading research into how young women build thriving enterprises. Following a rigorous selection process, they recently participated in a week-long Youth Researchers Academy in Harare to hone their expertise for qualitative and quantitative research methods.
-
-  [Source](https://camfed.org/youth-researchers-tanzania-zimbabwe/)
+images: []
+locations: []
 published: false
 source: CAMFED - Campaign for Female Education
 source_url: https://camfed.org/youth-researchers-tanzania-zimbabwe/

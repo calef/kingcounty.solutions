@@ -1,22 +1,16 @@
 ---
 end_date: '2026-03-13T19:30:00-07:00'
-images: []
-location: Meany Hall (MNY)
-locations:
-- King County
-original_content: "<div> <div> <p> </p> <p>David Alexander Rahbee leads  the UW Symphony
+feed_content: "<div> <div> <p> </p> <p>David Alexander Rahbee leads  the UW Symphony
   in a program of music by Mieczyslaw Karlowicz and Sergei Prokofiev. Faculty violinist
   Rachel Lee Priday is featured soloist with the orchestra for Karlowicz's Violin
   Concerto in A major, op. 8. </p> <h2>Program</h2> <p><strong>Mieczyslaw Karłowicz:
   </strong>Violin Concerto in A major, op.8</p> <p><strong>Prokofiev: </strong>Symphony
   No.5 in B-flat major, op.100</p> <h2>Biographies</h2> </div> </div>"
-original_content_checksum: 3323ec936c30675affd1945246eec85303873fbb
-original_markdown_body: "&nbsp;\n\n \n\nDavid Alexander Rahbee leads &nbsp;the UW
-  Symphony in a program of music by Mieczyslaw Karlowicz and Sergei Prokofiev. Faculty
-  violinist Rachel Lee Priday is featured soloist with the orchestra for Karlowicz's
-  Violin Concerto in A major, op. 8.&nbsp;\n\n \n## Program\n \n\n**Mieczyslaw Karłowicz:**
-  Violin Concerto in A major, op.8\n\n \n\n**Prokofiev:** Symphony No.5 in B-flat
-  major, op.100\n\n \n## Biographies"
+feed_content_checksum: 3323ec936c30675affd1945246eec85303873fbb
+images: []
+location: Meany Hall (MNY)
+locations:
+- King County
 published: false
 source: University of Washington
 source_url: https://music.washington.edu/events/2026-03-13/uw-symphony-orchestra-rachel-lee-priday

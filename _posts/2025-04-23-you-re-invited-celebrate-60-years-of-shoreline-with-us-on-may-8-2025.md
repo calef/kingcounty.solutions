@@ -2,11 +2,8 @@
 date: '2025-04-23T16:07:10+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: '<div class="wp-rss-image" style="margin-bottom:20px;max-width:
-  600px !important;padding-top: 0.75em;"><img width="400" height="271" src="https://i0.wp.com/news.shoreline.edu/wp-content/uploads/2025/04/60TH-ANNIVERSARY-Email-Graphic.png?fit=400%2C271&amp;ssl=1"
+feed_content: '<div class="wp-rss-image" style="margin-bottom:20px;max-width: 600px
+  !important;padding-top: 0.75em;"><img width="400" height="271" src="https://i0.wp.com/news.shoreline.edu/wp-content/uploads/2025/04/60TH-ANNIVERSARY-Email-Graphic.png?fit=400%2C271&amp;ssl=1"
   class="attachment-medium size-medium wp-post-image" alt="" decoding="async" loading="lazy"
   srcset="https://i0.wp.com/news.shoreline.edu/wp-content/uploads/2025/04/60TH-ANNIVERSARY-Email-Graphic.png?w=648&amp;ssl=1
   648w, https://i0.wp.com/news.shoreline.edu/wp-content/uploads/2025/04/60TH-ANNIVERSARY-Email-Graphic.png?resize=400%2C271&amp;ssl=1
@@ -21,9 +18,9 @@ original_content: '<div class="wp-rss-image" style="margin-bottom:20px;max-width
   May 8, 2025, from 3:00–7:00 p.m.&#160;for a special&#160;60th Anniversary Open House
   Celebration. It’s our way of saying thank you to the students, alumni, staff, faculty,
   and community members who’ve made Shoreline what it &#8230;'
-original_markdown_body: |-
-  ![](https://i0.wp.com/news.shoreline.edu/wp-content/uploads/2025/04/60TH-ANNIVERSARY-Email-Graphic.png?fit=400%2C271&ssl=1)
-  You’re Invited—Celebrate 60 Years of Shoreline with Us!&nbsp; We’re turning 60—and you’re invited to the party!&nbsp; Join Shoreline Community College on Thursday, May 8, 2025, from 3:00–7:00 p.m.&nbsp;for a special&nbsp;60th Anniversary Open House Celebration. It’s our way of saying thank you to the students, alumni, staff, faculty, and community members who’ve made Shoreline what it …
+images: []
+locations:
+- King County
 source: Shoreline Community College
 source_url: https://news.shoreline.edu/2025/04/23/youre-invited-celebrate-60-years-of-shoreline-with-us/
 summarized: true

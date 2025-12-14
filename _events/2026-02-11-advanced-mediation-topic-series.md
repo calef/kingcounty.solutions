@@ -1,13 +1,9 @@
 ---
 end_date: '2026-02-11T18:00:00-08:00'
-images: []
-location: ''
-locations:
-- King County
-original_content: "<div><div><span>Did you know we offer virtual office hours every
-  weekday? Click <a>VIRTUAL OFFICE HOURS</a> Mon-Fri, 11AM-1PM or call 253-205-0468
-  and enter Meeting ID: 889-8706-3870. We look forward to helping you!</span></div></div>
-  <div> <div> <header> <div> <div> <div> <div> <div> <a>Donate</a> </div> </div> </div>
+feed_content: "<div><div><span>Did you know we offer virtual office hours every weekday?
+  Click <a>VIRTUAL OFFICE HOURS</a> Mon-Fri, 11AM-1PM or call 253-205-0468 and enter
+  Meeting ID: 889-8706-3870. We look forward to helping you!</span></div></div> <div>
+  <div> <header> <div> <div> <div> <div> <div> <a>Donate</a> </div> </div> </div>
   </div> <div> <div> <div> <div> <a>Donate</a> </div> </div> <div> <div> <a>Contact</a>
   </div> </div> </div> </div> </div> </header> <div> <div> <div> <div> <div> <article>
   <div> <section> <div> <p> <a> « All Events</a> </p> <h1>Advanced Mediation Topic
@@ -45,30 +41,11 @@ original_content: "<div><div><span>Did you know we offer virtual office hours ev
   <li><a>Русский</a></li> </ul></aside> <aside><label><span>English</span></label><ul>
   <li><a>Tiếng Việt</a></li> <li><a>Soomaaliga</a></li> <li><a>Español (América Latina)</a></li>
   <li><a>Русский</a></li> </ul></aside>"
-original_content_checksum: 85b794f477f63bf5ebdb782e675d00f1ff7d30cc
-original_markdown_body: 'Did you know we offer virtual office hours every weekday?
-  Click VIRTUAL OFFICE HOURS Mon-Fri, 11AM-1PM or call 253-205-0468 and enter Meeting
-  ID: 889-8706-3870. We look forward to helping you!         Donate         Donate     Contact                  «
-  All Events  Advanced Mediation Topic Series   February 11, 2026 @ 9:00 am - 6:00
-  pm     Visit our learning portal for more information/registration. Prerequisites:
-  Completion of CoRE™ or CoRE™ orientation Take the next step in your conflict management
-  journey with our Advanced Topics Series. Designed for those looking to deepen their
-  mediation skills, become a certified mediator, or expand their volunteer opportunities
-  with KCDRC, this multi-part series offers in-depth training on advanced mediation
-  topics. Participants will gain additional practice through roleplays, experiencing
-  both the mediator and party perspectives, and build confidence in applying complex
-  techniques in real-world scenarios. (Virtual – On Zoom) 3-day Facilitative Mediation
-  training and practice.   Day 1: Wednesday, February 11 – 9am-6pm  Topics: Observation
-  & Debrief; Managing the Process; Caucus    Day 2: Wednesday, February 18 – 9am-6pm  Topics:
-  Managing Emotions; Co-Mediation; Working with Interpreters    Day 3: Wednesday,
-  February 25 – 9am-6pm  Topics: Supporting Negotiation; Agreement Writing & Durability;
-  Shuttle            Google Calendar     iCalendar     Outlook 365     Outlook Live           Details    Date:   February
-  11, 2026     Time:   9:00 am - 6:00 pm     Event Category: Learning   Website:  https://training.kcdrc.org/      Organizer   KCDRC      Related
-  Events    CoRE™ Part A: Conflict Resolution Skills January 5, 2026 @ 9:00 am - January
-  6, 2026 @ 6:00 pm     CoRE™ Part B: A Mediation Process January 7, 2026 @ 9:00 am
-  - January 9, 2026 @ 6:00 pm     CoRE™ Orientation February 4, 2026 @ 1:00 pm - 5:00
-  pm                English Tiếng Việt Soomaaliga Español (América Latina) Русский  English
-  Tiếng Việt Soomaaliga Español (América Latina) Русский'
+feed_content_checksum: 85b794f477f63bf5ebdb782e675d00f1ff7d30cc
+images: []
+location: ''
+locations:
+- King County
 published: false
 source: Dispute Resolution Center of King County
 source_url: https://kcdrc.org/event/advanced-mediation-topic-series/

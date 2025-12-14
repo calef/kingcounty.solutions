@@ -2,17 +2,14 @@
 date: '2025-10-30T16:44:59+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: "By Steven Schauer, Deputy Executive Director\n\nAs the ghosts and
-  goblins come out for Halloween, there’s another kind of fright creeping into King
-  County – flood season! From October through April, rain-swollen rivers and rising
-  groundwater can turn your neighborhood into something straight out of a horror movie.
-  But unlike haunted houses or eerie fog, this is one “scare” you can prepare for.\n\nJust
-  like you wouldn’t face a zombie apocalypse without a plan, you shouldn’t face flood
-  season unprepared. So, grab your flashlight, put on your brave face, and get ready
-  for a frightfully smart way to stay safe this Halloween.\n\n![](https://kingcountyfloodcontrol.org/wp-content/uploads/2025/10/Snoqualmie-River-11-06-credit-KC.jpg)\n_Snoqualmie
+feed_content: "By Steven Schauer, Deputy Executive Director\n\nAs the ghosts and goblins
+  come out for Halloween, there’s another kind of fright creeping into King County
+  – flood season! From October through April, rain-swollen rivers and rising groundwater
+  can turn your neighborhood into something straight out of a horror movie. But unlike
+  haunted houses or eerie fog, this is one “scare” you can prepare for.\n\nJust like
+  you wouldn’t face a zombie apocalypse without a plan, you shouldn’t face flood season
+  unprepared. So, grab your flashlight, put on your brave face, and get ready for
+  a frightfully smart way to stay safe this Halloween.\n\n![](https://kingcountyfloodcontrol.org/wp-content/uploads/2025/10/Snoqualmie-River-11-06-credit-KC.jpg)\n_Snoqualmie
   River Nov. 2006 flooding. Credit: King County._\n\n## **![\U0001F47B](https://s.w.org/images/core/emoji/16.0.1/72x72/1f47b.png)
   The Real-Life Thriller: Flood Season in King County**\n\nEvery year, as the rains
   return to the Pacific Northwest, our rivers begin to swell and low-lying areas can
@@ -65,6 +62,9 @@ original_content: "By Steven Schauer, Deputy Executive Director\n\nAs the ghosts
   not fright!**\n\nThe post [\U0001F383 Don’t Get Spooked by Flood Season: Be Flood
   Ready This Halloween](https://kingcountyfloodcontrol.org/%f0%9f%8e%83-dont-get-spooked-by-flood-season-be-flood-ready-this-halloween/)
   appeared first on [King County Flood Control District](https://kingcountyfloodcontrol.org)."
+images: []
+locations:
+- King County
 source: King County Flood Control District
 source_url: https://kingcountyfloodcontrol.org/%f0%9f%8e%83-dont-get-spooked-by-flood-season-be-flood-ready-this-halloween/?utm_source=rss&utm_medium=rss&utm_campaign=%25f0%259f%258e%2583-dont-get-spooked-by-flood-season-be-flood-ready-this-halloween
 summarized: true

@@ -2,13 +2,11 @@
 date: '2025-09-29T17:23:29+00:00'
 events: []
 events_extracted: true
+feed_content: At this year’s Celebration of Youth Foster Care event, Autumn Liner-Sanders
+  took home our raffle prize, two Diamond Club Mariners...
 images: []
 locations:
 - King County
-original_content: At this year’s Celebration of Youth Foster Care event, Autumn Liner-Sanders
-  took home our raffle prize, two Diamond Club Mariners...
-original_markdown_body: At this year’s Celebration of Youth Foster Care event, Autumn
-  Liner-Sanders took home our raffle prize, two Diamond Club Mariners...
 source: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/from-celebration-of-youth-to-the-diamond-club-mariners-raffle-recap
 summarized: true

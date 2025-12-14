@@ -2,10 +2,7 @@
 date: '2025-11-08T16:30:03+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- Snoqualmie Valley
-original_content: |-
+feed_content: |-
   _The Tribe donated $130,000 to community organizations providing food services and has expanded efforts in partnership with the Snoqualmie Casino & Resort and Snoqualmie Valley Food Bank_
 
   [Snoqualmie, WA] This past month, the Snoqualmie Indian Tribe distributed checks exceeding $1,019,000 in donations to nonprofit organizations from the state of Washington.&nbsp;The need was great this year shown by the unprecedented number of applications received. This year’s charitable donations recipient organizations applied earlier in the year for projects and initiatives focused on specific categories including Arts & Culture, Native Services, Family Services, Veterans Services, Salmon Habitat Restoration, Environmental Education, Senior/Elders, and Snoqualmie Valley Community Services.
@@ -37,6 +34,9 @@ original_content: |-
   For all 501c3 organizations both awarded, and not awarded this year, the 2026 application cycle will open on January 1st, 2026, and close March 31st, 2022. To learn more, visit&nbsp;[www.snoqualmietribedonations.us](https://snoqualmietribedonations.us/).
 
   _The Snoqualmie Indian Tribe is a federally recognized tribe in the Puget Sound region of Washington State. Known as the People of the Moon, Snoqualmie were signatories to the Treaty of Point Elliott in 1855. For more information visit_ [_www.snoqualmietribe.us_](http://www.snoqualmietribe.us)
+images: []
+locations:
+- Snoqualmie Valley
 source: Snoqualmie Indian Tribe
 source_url: https://snoqualmietribe.us/snoqualmie-indian-tribe-donates-over-1-million-in-charitable-donations-in-2025/
 summarized: true

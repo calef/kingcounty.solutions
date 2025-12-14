@@ -2,9 +2,7 @@
 date: '2025-04-07T15:39:30+00:00'
 events: []
 events_extracted: true
-images: []
-locations: []
-original_content: "<div class=\"et_pb_section et_pb_section_12 blog-post-type et_section_regular\"
+feed_content: "<div class=\"et_pb_section et_pb_section_12 blog-post-type et_section_regular\"
   >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_row
   et_pb_row_36\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4 et_pb_column_53
   \ et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div
@@ -61,22 +59,8 @@ original_content: "<div class=\"et_pb_section et_pb_section_12 blog-post-type et
   et_pb_column_56  et_pb_css_mix_blend_mode_passthrough et-last-child et_pb_column_empty\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n<p>The
   post <a href=\"https://lcsnw.org/2025/04/tc-opmh/\">Celebrating a year of growth:
   \ the Tri-Cities Outpatient Mental Health Program</a> appeared first on <a href=\"https://lcsnw.org\">LCSNW</a>.</p>"
-original_markdown_body: |-
-  # Celebrating a year of growth: the Tri-Cities Outpatient Mental Health Program
-
-  This spring marks the one-year anniversary of the [Outpatient Mental Health (OPMH) program](https://lcsnw.org/program/opmh/) in the Tri-Cities. Focused 100 percent on LCNSW’s behavioral health service line, the Tri-Cities district introduced outpatient services as an expansion of &nbsp;our Medication Management program in April 2024. The program was developed in response to the growing need across Benton and Franklin Counties to shorten the time between referral for mental health services and service delivery. Heading into year two of OPMH, we look forward to evolving the program even further.
-
-  The OPMH program is dedicated to supporting youth up to age 21 on their journey to mental health and emotional well-being. Services in OPMH include therapy, case management, medication management, and resource navigation. By emphasizing strengths and promoting mental wellness, the program works to ensure every young person receives the support needed to thrive.
-
-  LCSNW has served as a leading provider of intensive youth programs in the Tri-Cities for more than 60 years. Wraparound with Intensive Services (WISe) and Stabilization and Wellness in Families Together (SWIFT) are cornerstone, intensive behavioral health programs in the Tri-Cities; clients in these programs often are referred to outside agencies for less intensive outpatient services. The addition of OPMH offers a less intensive option, not only for WISe and SWIFT clients, but also for individuals not currently enrolled in any LCSNW program.
-
-  In addition to reaching a larger audience, OPMH is hopeful to offer additional payment methods for clients in the near future. Currently, all mental and behavioral health programs offered by the Tri-Cities are available only to individuals with Medicaid. However, through the OPMH program, plans are underway to offer services to individuals using private insurance, self-pay, and more.
-
-  Although the outpatient program’s capacity currently is limited to two Mental Health Clinicians, we are hopeful to grow the program as staffing and space become available. Through these efforts, OPMH aims to create a nurturing environment where youth can thrive and reach their full potential. As we continue to develop and expand, we remain committed to addressing the mental health needs of our community and ensuring that timely, effective support is accessible to all.
-
-   ![medical prescriber with patient](https://lcsnw.org/wp-content/uploads/2025/04/medication-mgt.png "medication mgt")
-
-  The post [Celebrating a year of growth: the Tri-Cities Outpatient Mental Health Program](https://lcsnw.org/2025/04/tc-opmh/) appeared first on [LCSNW](https://lcsnw.org).
+images: []
+locations: []
 published: false
 source: Lutheran Community Services Northwest
 source_url: https://lcsnw.org/2025/04/tc-opmh/

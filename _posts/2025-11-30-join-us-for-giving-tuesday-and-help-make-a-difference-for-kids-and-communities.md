@@ -2,12 +2,7 @@
 date: '2025-11-30T22:25:35+00:00'
 events: []
 events_extracted: true
-images:
-- 129373fcebfe8f05e4765f9f8a7364540d702739cda35cb5be81b380f3e87c7c
-- b7da5b7b1e746b71fc95c4fa06b91cc0f4e7fa94b6a71fd1286b3989152b2839
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <div class="wp-block-uagb-image uagb-block-db8ab62f wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure class="wp-block-uagb-image__figure"><img decoding="async" src="https://www.brightspark.org/wp-content/uploads/2025/11/Fund-Dev-Newsletter-Banners-5.png" alt="" class="uag-image-9593" width="768" height="256" title="Fund Dev Newsletter Banners (5)" loading="lazy" role="img" /></figure></div>
 
 
@@ -110,28 +105,11 @@ original_content: |-
 
   <p></p>
   <p>The post <a href="https://www.brightspark.org/2025/11/join-us-for-giving-tuesday-and-help-make-a-difference-for-kids-and-communities/">Join us for Giving Tuesday and help make a difference for kids and communities!</a> appeared first on <a href="https://www.brightspark.org">BrightSpark</a>.</p>
-original_markdown_body: "![](https://www.brightspark.org/wp-content/uploads/2025/11/Fund-Dev-Newsletter-Banners-5.png
-  \"Fund Dev Newsletter Banners (5)\")\n\n### **Giving Tuesday is Tomorrow!**\n\nAs
-  Gratitude Week comes to a close, our hearts are full. We’ve spent the past several
-  days celebrating the families, child care providers, staff, and community partners
-  who make BrightSpark’s mission possible. We are deeply thankful for each of you.\n\nAnd
-  tomorrow, we take that gratitude and turn it into action. Giving Tuesday is just
-  one day away, a global moment to support the causes that strengthen our communities.\n\nIf
-  you believe in nurturing child-centered, antiracist early learning communities and
-  expanding access and quality for kids and families, your gift can make a real impact.\n\nJoin
-  us for Giving Tuesday or make your gift today!  \n  \nEvery contribution, no matter
-  the size, helps us continue this work.\n\n[Donate Early!](https://bit.ly/4oCHqgm)\n\nThank
-  you for being part of our BrightSpark community. Your support fuels the change we
-  create together.\n\nWith gratitude,  \nBrightSpark\n\n![](https://www.brightspark.org/wp-content/uploads/2025/11/9-1024x1024.png
-  \"9\")\n\n**Follow Along on Social Media For Updates!**\n\nBrightSpark accepts donations
-  in many forms: cash, credit cards, fund transfers, checks, money orders, stocks,
-  bonds, mutual funds, donor-advised funds, and more! If you have any questions or
-  would like more information on ways to give, please get in touch with our fund development
-  department at&nbsp;[getinvolved@childcare.org](mailto:getinvolved@childcare.org).\n\n![](https://www.brightspark.org/wp-content/uploads/2025/10/Thank-you-to-our-sponsors-Blog-Banner-2-1024x576.png)\n\n[Make
-  A Donation Today!](https://bit.ly/4oCHqgm)\n\n_All photos on this email are credited
-  to ©LisaBontjePhotography_\n\nThe post [Join us for Giving Tuesday and help make
-  a difference for kids and communities!](https://www.brightspark.org/2025/11/join-us-for-giving-tuesday-and-help-make-a-difference-for-kids-and-communities/)
-  appeared first on [BrightSpark](https://www.brightspark.org)."
+images:
+- 129373fcebfe8f05e4765f9f8a7364540d702739cda35cb5be81b380f3e87c7c
+- b7da5b7b1e746b71fc95c4fa06b91cc0f4e7fa94b6a71fd1286b3989152b2839
+locations:
+- King County
 source: BrightSpark
 source_url: https://www.brightspark.org/2025/11/join-us-for-giving-tuesday-and-help-make-a-difference-for-kids-and-communities/
 summarized: true

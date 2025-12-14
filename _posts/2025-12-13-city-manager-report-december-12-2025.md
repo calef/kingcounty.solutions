@@ -1,9 +1,6 @@
 ---
 date: '2025-12-13T00:56:38+00:00'
-images: []
-locations:
-- King County
-original_content: City Council Meeting Roundup. On Tuesday, December 9th, the Normandy
+feed_content: City Council Meeting Roundup. On Tuesday, December 9th, the Normandy
   Park City Council held its regular monthly meeting. Below is a summary of key actions
   and discussions. Approval of the Miller and Walker Creeks Basin Stewardship 2026
   Technical Services Agreement - Normandy Park continues to partner with Burien, SeaTac,
@@ -15,19 +12,10 @@ original_content: City Council Meeting Roundup. On Tuesday, December 9th, the No
   of Sunnyside for jail services. This amendment changes the daily cost from $64 to
   $76.59 per person. Even with the increase, Sunnyside remains the most cost-effective
   option compared to other available jail contracts.
-original_content_checksum: 3740c24dec92ef5141ef37c284d8f4f7ae50174c
-original_markdown_body: City Council Meeting Roundup. On Tuesday, December 9th, the
-  Normandy Park City Council held its regular monthly meeting. Below is a summary
-  of key actions and discussions. Approval of the Miller and Walker Creeks Basin Stewardship
-  2026 Technical Services Agreement - Normandy Park continues to partner with Burien,
-  SeaTac, King County, and the Port of Seattle to protect and improve Miller and Walker
-  Creeks. This agreement hires technical experts to help manage environmental work,
-  improve water quality, support fish and wildlife habitat, and meet the City’s stormwater
-  permit requirements. Approving it allows this shared work to continue. Amendment
-  to the Sunnyside City Jail Interlocal Agreement - The City contracts with the City
-  of Sunnyside for jail services. This amendment changes the daily cost from $64 to
-  $76.59 per person. Even with the increase, Sunnyside remains the most cost-effective
-  option compared to other available jail contracts.
+feed_content_checksum: 3740c24dec92ef5141ef37c284d8f4f7ae50174c
+images: []
+locations:
+- King County
 published: false
 rss_guid: https://normandyparkwa.gov/?p=52603
 source: City of Normandy Park

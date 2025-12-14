@@ -2,10 +2,7 @@
 date: '2025-08-22T05:55:00+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: |-
+feed_content: |-
   _By Annika Hauer, ELAP Intern_
 
   Civil legal aid is legal advice for folks facing “civil” legal situations: domestic violence, housing charges or evictions, medical bills, immigration cases, and more. Civil legal aid is free, and it exists for people whom the legal system is not set up to support.
@@ -29,6 +26,9 @@ original_content: |-
   Civil legal aid continues to be a way for vulnerable, low-income people to move through life understanding their legal rights. ELAP empowers people who are furthest from justice to know how they can help their families and themselves.
 
   The post [What exactly is civil legal aid and why is it so important?](https://elap.org/what-exactly-is-civil-legal-aid-and-why-is-it-so-important/) appeared first on [Eastside Legal Assistance Program](https://elap.org).
+images: []
+locations:
+- King County
 source: Eastside Legal Assistance Program
 source_url: https://elap.org/what-exactly-is-civil-legal-aid-and-why-is-it-so-important/?utm_source=rss&utm_medium=rss&utm_campaign=what-exactly-is-civil-legal-aid-and-why-is-it-so-important
 summarized: true

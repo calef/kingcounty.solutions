@@ -2,12 +2,7 @@
 date: '2025-12-08T18:43:40+00:00'
 events: []
 events_extracted: true
-images:
-- 53e786401d0d5a611bf9f1046f74a712ae4cf64e3566a64b68a92fa1fbb85280
-- 293e5241ba196d292e63998ea579bf30fb464dfb6f8c9dea48fb54d6e8bfcfd0
-locations:
-- King County
-original_content: "<p>At Mary’s Place, our mission is simple but urgent: <strong>ensure
+feed_content: "<p>At Mary’s Place, our mission is simple but urgent: <strong>ensure
   that no child sleeps outside</strong>. Every day, we work toward that vision through
   a three-pronged approach—emergency family shelter, mobile outreach, and homelessness
   prevention—all designed to center equity, opportunity, and stability for the families
@@ -93,68 +88,12 @@ original_content: "<p>At Mary’s Place, our mission is simple but urgent: <str
   ensure that no child sleeps outside.</strong></p><h4><strong>watch the Mary’s Place
   Moment interview:</strong></h4>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n  \n
   \ \n\n\n\n\n\n\n\n\n  <iframe></iframe>"
-original_content_checksum: e4459aa4fd9eb4583af02c8822e8ba7deb0f9108
-original_markdown_body: |-
-  At Mary’s Place, our mission is simple but urgent:&nbsp; **ensure that no child sleeps outside**. Every day, we work toward that vision through a three-pronged approach—emergency family shelter, mobile outreach, and homelessness prevention—all designed to center equity, opportunity, and stability for the families we serve.
-
-  In a recent&nbsp;_Mary’s Place Moment_&nbsp;conversation, CEO&nbsp;Dominique Alex&nbsp;sat down with two people who play an essential role in one of our most joyful and transformative programs:&nbsp;Make-a-Home.
-
-  Dominique was joined by Olga Chinka, Mary’s Place Make-a-Home Coordinator, and Katie Bernson, a longtime volunteer partner with Coldstream Wealth Management. Their conversation offered a powerful look at how a furnished home can change the entire trajectory of a family leaving homelessness.
-
-  #### **What Is the Make-a-Home Program?**
-
-  As Olga explains, Make-a-Home is a special, wraparound support program for families transitioning from homelessness into permanent housing. The program provides all of the essential furnishings a family needs to turn their new housing into a functional home.
-
-  _“Almost all of our families are starting over,”_ she says. _“They’re moving into an empty apartment with only the bag of belongings they brought into shelter or the few possessions they had in their car or tent. By partnering with donors, we make sure every family gets at the very least a couch to sit on, a table to eat at, and a bed for every family member.”_
-
-  #### **Why a Furnished Home Matters**
-
-  These essential items are more than furniture—they’re the foundation families need to feel settled, safe, and stable. Dominique put it perfectly: having basic furniture transforms a dwelling into a&nbsp; **loving, secure place** &nbsp;where memories can be made. For families who have endured trauma and instability, that sense of comfort is everything.
-
-  Olga adds, _“It takes away so much stress. A furnished home gives families the stability they need to focus on healing and building their future. Imagine coming home from school and doing homework on a hard floor or heading to work after a night on an air mattress shared with your entire family. Furniture allows families to cook, study, rest, and start building routines. Without it, the space can feel cold and temporary. With it, they can finally feel at home.”_
-
-  #### **A Volunteer’s Perspective: “A Meaningful Way to Give Back”**
-
-  Katie has volunteered with Make-a-Home for four years alongside her team at Coldstream Wealth Management. For her, the experience has been both humbling and inspiring.
-
-  ![](https://images.squarespace-cdn.com/content/v1/64b05d3e3547604a82ed3df3/70aef8ed-c058-41d3-ae8e-986cf2228f2b/Screen+Shot+2025-12-03+at+4.46.00+PM.png?format=1000w)
-  _Katie and the Coldstream team at their most recent Make-a-Home volunteer day!_
-
-  _“The first year, we helped furnish a home for a family of eight,”_ she recalls. _“I was terrified we wouldn’t have enough in our budget to give the family what they deserved. But once people understood the impact, the donations poured in—bedding, toys, kitchen supplies. It was truly heartwarming.”_
-
-  What keeps Katie and her team coming back year after year?
-
-  _“Helping a family get set up for success—to move into a home that’s warm, safe, and stable—is a truly meaningful way to give back,”_ she says. **_“These families are our neighbors, co-workers, and classmates. Anyone can find themselves needing help with just one unexpected life event._**
-
-  Katie says the experience has also opened her eyes to the importance of wraparound services that go beyond emergency shelter_—_the journey to long-term stability is only beginning when a family receives the keys to permanent housing.
-
-  #### **Why Community Partnerships Matter**
-
-  ![](https://images.squarespace-cdn.com/content/v1/64b05d3e3547604a82ed3df3/086e3dd5-9932-4e6a-a440-133eb9009208/FB0F88BD-DA59-4019-B1B5-1AE6422D76E8.jpg?format=1000w)
-
-  _“When the program started in 2018, we were serving three to five families a month,”_ Olga explains. _“Now, because of the way our community members and partner organizations have stepped up, we’re supporting 25 to 30 families every month.”_
-
-  Corporate teams and community groups or families can fully furnish a home, or furnish just one room, creating an immediate and life-changing transformation for families. _“It’s a huge blessing,”_ Olga says. _“These partnerships allow us to meet urgent needs quickly, restoring dignity and a sense of normalcy for families in one afternoon.”_
-
-  #### **It Takes a Million Little Things—and the Whole Community**
-
-  Furniture isn’t the only need. Small household items matter just as much.
-
-  _“If you don’t have furniture to donate, we accept all kinds of household goods,”_ Olga explains. _“Dishes, bedding, new towels, diapers, kitchen essentials, strollers—you name it. Families moving from our emergency shelters into permanent housing can select what they need from our home store at no cost.”_
-
-  These items help families settle in, prepare for work or school, and continue building stability after months or years of uncertainty.
-
-  #### Together, We Make a Home
-
-  Dominique closed the conversation with gratitude for both Olga and Katie—and for every donor, volunteer, and partner who makes this program possible.
-
-  _“It truly takes all of us,”_ she said. _“Thanks to our Make-a-Home team, corporate partners like Coldstream, and generous community donors, families leaving shelter have a safe place to land and the opportunity to thrive.”_
-
-  By furnishing homes, our volunteers are doing more than delivering couches or beds. **They’re delivering dignity, stability, and hope.**
-
-  And most of all— **they’re helping ensure that no child sleeps outside.**
-
-  #### **watch the Mary’s Place Moment interview:**
+feed_content_checksum: e4459aa4fd9eb4583af02c8822e8ba7deb0f9108
+images:
+- 53e786401d0d5a611bf9f1046f74a712ae4cf64e3566a64b68a92fa1fbb85280
+- 293e5241ba196d292e63998ea579bf30fb464dfb6f8c9dea48fb54d6e8bfcfd0
+locations:
+- King County
 source: Mary's Place
 source_url: https://www.marysplaceseattle.org/blog/making-a-home-the-power-of-community-furniture-and-fresh-starts
 summarized: true

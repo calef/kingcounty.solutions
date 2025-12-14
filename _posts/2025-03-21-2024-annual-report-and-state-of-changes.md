@@ -1,9 +1,7 @@
 ---
 date: '2025-03-21T00:35:10+00:00'
-images: []
-locations: []
-original_content: "<div data-elementor-type=\"wp-post\" data-elementor-id=\"4841\"
-  class=\"elementor elementor-4841\">\n\t\t\t\t<div class=\"elementor-element elementor-element-48a90128
+feed_content: "<div data-elementor-type=\"wp-post\" data-elementor-id=\"4841\" class=\"elementor
+  elementor-4841\">\n\t\t\t\t<div class=\"elementor-element elementor-element-48a90128
   e-flex e-con-boxed e-con e-parent\" data-id=\"48a90128\" data-element_type=\"container\">\n\t\t\t\t\t<div
   class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-61c4a935
   elementor-widget elementor-widget-text-editor\" data-id=\"61c4a935\" data-element_type=\"widget\"
@@ -212,96 +210,8 @@ original_content: "<div data-elementor-type=\"wp-post\" data-elementor-id=\"4841
   Evans</p></td></tr><tr><td width=\"324\"><p style=\"text-align: left;\">Tyler &amp;
   Sharon Whitney <sup>6</sup></p></td></tr><tr><td width=\"324\"><p style=\"text-align:
   left;\">Wendy Rader-Konofalski</p></td></tr></tbody></table>\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>"
-original_markdown_body: "**2024 Accomplishments**\n\n2024 was an extremely productive
-  year for Changes, and I applaud and thank outgoing Board President Karen Gustafson
-  for such great progress under her leadership.&nbsp; Our org was able to\n\n- Offset
-  missed fundraising budget with investment and seminar income and hold expenses under
-  budget\n- Update our Mission and Vision statements\n- Reduce new member onboarding
-  time to under 1 week (from initial info line call to orientation to meeting attendance)\n-
-  Expand our national presence to 28 states\n- Deploy our first-ever Facebook video
-  ads\n- Produce an animated video of the Changes journey\n- Revise and refresh all
-  member docs\n- Deepen cross-pollination across chapters\n- Hold two Seattle-area
-  social events plus picnic\n- Transition Tues & Sat meetings from at-risk to&nbsp;healthy\n-
-  Present twice to Microsoft employee parenting group and receive a stipend for doing
-  so\n\n**Board Transition**\n\nAs we begin 2025, we have substantial transition in
-  the composition and roles of our board members.&nbsp; In addition to Karen Gustafson
-  stepping down as Board President, please note the following:\n\n- Kathleen Coletta,
-  Board member and Program Committee and Events Committee Chair, has stepped down
-  after many years of service. She was instrumental in the refreshing of all our program
-  content to reflect our fully online meeting format as well as establishing our additional
-  social events to build community and connection.\n- Ellen Lewis, Board Vice President
-  and Board Development Chair, stepped down from her Board role but remains a Program
-  Rep for Tuesday meeting.\n- Paul Jensen remains on the board and now serves as our
-  Vice President.\n- Jenine Solack has joined the board and will co-chair the Program
-  Committee with Stacy Piedmont.\n- Soph Davenberry has joined the board and is a
-  member of the Finance Committee.\n- Jen Baisch and Ann Forrest have joined the board.
-  Jen is Chair of Board Development Committee and Ann has volunteered to investigate
-  how we might reach and maintain a more diverse member base (we skew heavily white
-  and female.)\n- Robert M. Huberth will continue as an independent board member and
-  will continue to serve as Treasurer.\n- Bill Mannion, Susan Veals, Dean Berry, and
-  Terry Ann Olsen will continue as board members. Terry has recently volunteered to
-  Chair our Outreach Committee.\n- I have agreed to serve a one-year term as interim
-  Board president, reprising the role I had from 2014 through 2018.\n\nI thank our
-  outgoing members for their service and their commitment to giving back more than
-  they took, and I look forward to working with the new Board to further expand our
-  reach and help more families.\n\nA summary of our 2024 finances follows, as well
-  as a list of 2024 donors.&nbsp; Please join me in thanking our donors, whose generosity
-  is literally the fuel that keeps our scrappy little non-profit operating.\n\nSincerely,\n\nStephanie
-  Mannion,&nbsp;Board President\n\nChanges Parent Support Network\n\n ![](https://cpsn.org/wp-content/uploads/2025/03/Annual-Report-Pie-Chart-Income-2024.jpg)\n\n
-  ![](https://cpsn.org/wp-content/uploads/2025/03/Annual-Report-Pie-Chart-Expenses-2024.jpg)\n\n##
-  Corporate and Generous Individual Donors \n\n| \n### **Corporate Donors**\n |\n|
-  \n\nAbbvie <sup>1</sup>&nbsp;\n\n |\n| \n\nBoeing <sup>2</sup>&nbsp;\n\n |\n| \n\nDisney
-  <sup>3</sup>&nbsp;\n\n |\n| \n\nFred Meyer Community Rewards–Kroger <sup>4</sup>&nbsp;\n\n
-  |\n| \n\nMedtronics Foundation <sup>5</sup>\n\n |\n| \n\nMicrosoft – American Online
-  Giving <sup>6</sup>&nbsp;\n\n |\n| \n\nMicrosoft – UK Online Giving&nbsp;<sup>7</sup>\n\n
-  |\n| \n\nWells Fargo Corp Giving <sup>8</sup>\n\n |\n| &nbsp; |\n| \n### **Generous
-  Donors**\n |\n| \n\ns_uperscript indicates_\n\n_corporate matching&nbsp;_\n\nAlison
-  Miller\n\n |\n| \n\nAmy Hance-Brancati\n\n |\n| \n\nAnn Forrest\n\n |\n| \n\nAnna
-  Marshak\n\n |\n| \n\nAnne Kalkbrenner\n\n |\n| \n\nAnne Tiura\n\n |\n| \n\nAnnlee
-  Rinehart\n\n |\n| \n\nAnonymous\n\n |\n| \n\nArchana Ramesh <sup>6</sup>\n\n |\n|
-  \n\nBaird Johnson & Katie O’Sullivan\n\n |\n| \n\nBarbara Robles\n\n |\n| \n\nBernice
-  Gulek\n\n |\n| \n\nBertus Greeff <sup>6</sup>\n\n |\n| \n\nBill & Stephanie Mannion\n\n
-  |\n| \n\nBlair & Lisa Pattenaude\n\n |\n| \n\nBriggs Nieman\n\n |\n| \n\nCandace
-  McKay\n\n |\n| \n\nCarol Hughes\n\n |\n| \n\nCarolyn Fletcher\n\n |\n| \n\nCatherine&nbsp;
-  Crane\n\n |\n| \n\nCathy Aubin\n\n |\n| \n\nCheryl Snyder\n\n |\n| \n\nChinda Roach\n\n
-  |\n| \n\nChrissy Russillo\n\n |\n| \n\nCindy & Mike Gallagher\n\n |\n| \n\nCindy
-  Katz & David Volk\n\n |\n| \n\nCorinna Barrus\n\n |\n| \n\nCurtis &&nbsp; Michelle
-  Siemens\n\n |\n| \n\nCynthia Nash\n\n |\n| \n\nDan Williams\n\n |\n| \n\nDana &
-  Willie Olson\n\n |\n| \n\nDaniel & Claudia Pravat Family Fund\n\n |\n| \n\nDave
-  & Amy Eichel\n\n |\n| \n\nDean Berry <sup>3</sup>\n\n |\n| \n\nDebbie Hickox\n\n
-  |\n| \n\nDebbie Pearsons\n\n |\n| \n\nDebbie & Bob Duffy\n\n |\n| \n\nDenise Barbour\n\n
-  |\n| \n\nDenise Winter\n\n |\n| \n\nDennis & Carol Dudder\n\n |\n| \n\nDonna Dumont\n\n
-  |\n| \n\nElaine Pappas\n\n |\n| \n\nElisa Herro\n\n |\n| \n\nElizabeth Loudon\n\n
-  |\n| \n\nEllen Koretz\n\n |\n| \n\nEllen Lewis\n\n |\n| \n\nEmily Knaphus-Soran\n\n
-  |\n| \n\nErika Greco\n\n |\n| \n\nFia Gibbs & Corinne Heinen\n\n |\n| \n\nFletcher
-  Family Charitable Foundation\n\n |\n| \n\nFurong Li\n\n |\n| \n\nGail McCormick\n\n
-  |\n| \n\nGina Lagalbo\n\n |\n| \n\nGina Wilkinson\n\n |\n| \n\nGuiping Huang\n\n
-  |\n| \n\nHeather Drennan <sup>1</sup>\n\n |\n| \n\nHenry & Theresa Herfindahl\n\n
-  |\n| \n\nJanet Cornell\n\n |\n| \n\nJeff Austin <sup>2</sup>\n\n |\n| \n\nJen Baisch\n\n
-  |\n| \n\nJennifer Cody\n\n |\n| \n\nJennifer Juhl\n\n |\n| \n\nJennifer Scott\n\n
-  |\n| \n\nJerry Kramer\n\n |\n| \n\nJessi Stringham\n\n |\n| \n\nJohn & Loree Schoonover\n\n
-  |\n| \n\nJoline El-Hai\n\n |\n| \n\nJoseph Dunn\n\n |\n| \n\nJoy Amulya\n\n |\n|
-  \n\nJoyce&nbsp; Aoyama\n\n |\n| \n\nJudy Russell\n\n |\n| \n\nJudy Seman\n\n |\n|
-  \n\nJulie Johnson\n\n |\n| \n\nKaren & Bill Gustafson\n\n |\n| \n\nKarsten & Sue
-  Andersen\n\n |\n| \n\nKaty & Dan Hiett <sup>8</sup>\n\n |\n| \n\nKC Yatsko\n\n |\n|
-  \n\nKing WM S Cole\n\n |\n| \n\nKirsten Sharp\n\n |\n| \n\nLaurie Sivonen\n\n |\n|
-  \n\nLesley Wynn\n\n |\n| \n\nLeslie Buter\n\n |\n| \n\nLeslie Dumont\n\n |\n| \n\nLeslie
-  Serling\n\n |\n| \n\nLisa Atwell\n\n |\n| \n\nLisa Rivas\n\n |\n| \n\nMartha &&nbsp;
-  Grover Shegrud\n\n |\n| \n\nMary Chapman Cole\n\n |\n| \n\nMary Wood\n\n |\n| \n\nMary-Ann
-  Micale\n\n |\n| \n\nMaryAnn & Todd Wagner\n\n |\n| \n\nMichelle Ham <sup>6</sup>\n\n
-  |\n| \n\nNancy Barber-Smith\n\n |\n| \n\nNancy Lewis\n\n |\n| \n\nNancy Strom\n\n
-  |\n| \n\nNelly Delgado <sup>6</sup>\n\n |\n| \n\nNicole Martin\n\n |\n| \n\nNita
-  Cherry\n\n |\n| \n\nPam Kidder-Arimoto <sup>6</sup>\n\n |\n| \n\nPat Delgado\n\n
-  |\n| \n\nRobert M Huberth & Tracey Alexander\n\n |\n| \n\nRosemarie Fantham\n\n
-  |\n| \n\nRozlynn Cramer\n\n |\n| \n\nSandi Tunis\n\n |\n| \n\nSari Israel\n\n |\n|
-  \n\nSharon O’Grady <sup>5</sup>\n\n |\n| \n\nSoph & Leilani Davenberry\n\n |\n|
-  \n\nStacy Piedmonte\n\n |\n| \n\nStephanie & Justin Lansberg\n\n |\n| \n\nSteve
-  & Jollee Stegner\n\n |\n| \n\nSteven Kleban\n\n |\n| \n\nStutzman-Gruenewald\n\nCharitable
-  Trust\n\n |\n| \n\nSue Morgan\n\n |\n| \n\nSue Romero\n\n |\n| \n\nSue Somers\n\n
-  |\n| \n\nSusan Bruzas\n\n |\n| \n\nSusan Veals\n\n |\n| \n\nSusana Dinges\n\n |\n|
-  \n\nTerrence Jaret\n\n |\n| \n\nTerry Ann Olsen\n\n |\n| \n\nTessa Holmes\n\n |\n|
-  \n\nTracie Evans\n\n |\n| \n\nTyler & Sharon Whitney <sup>6</sup>\n\n |\n| \n\nWendy
-  Rader-Konofalski\n\n |"
+images: []
+locations: []
 published: false
 source: Changes Parent Support Network
 source_url: https://cpsn.org/2024-annual-report-and-state-of-changes/?utm_source=rss&utm_medium=rss&utm_campaign=2024-annual-report-and-state-of-changes

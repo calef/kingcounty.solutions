@@ -2,15 +2,7 @@
 date: '2025-04-01T21:39:16+00:00'
 events: []
 events_extracted: true
-images:
-- 53fd7729a23314eee41d455a7c96392962ae37e49e1e791c89a0f076576b7ab8
-- 2ca037309b1f5ab8593314acb72a9c523505c7b0c8738458d4c8c3c64488c139
-- da6a8f0e318635885485928e8169c5172f74690f80f41672fc81e71366ce8980
-- bb2031c0e94a281cb47a21c8075db9a068da457da89660cc86222e833c24068b
-- d29f10edba5c3040df68e8933aa43e89d79b15090d3dead009a5e8a8f5b4d5d3
-locations:
-- King County
-original_content: <h3>Shannon Braddock sworn in as acting King County Executive</h3><p>Today,
+feed_content: <h3>Shannon Braddock sworn in as acting King County Executive</h3><p>Today,
   Shannon Braddock was sworn in as acting King County Executive after a unanimous
   vote by the County Council. King County voters will elect a new Executive in November.</p><figure><img
   alt="" src="https://cdn-images-1.medium.com/max/1024/1*lJ97n__X9hTTXPLNFeHg4g.jpeg"
@@ -68,57 +60,14 @@ original_content: <h3>Shannon Braddock sworn in as acting King County Executive<
   Braddock sworn in as acting Executive</a> was originally published in <a href="https://medium.com/kingcounty">KingCounty</a>
   on Medium, where people are continuing the conversation by highlighting and responding
   to this story.</p>
-original_markdown_body: |-
-  ### Shannon Braddock sworn in as acting King County Executive
-
-  Today, Shannon Braddock was sworn in as acting King County Executive after a unanimous vote by the County Council. King County voters will elect a new Executive in November.
-
-  ![](https://cdn-images-1.medium.com/max/1024/1*lJ97n__X9hTTXPLNFeHg4g.jpeg)
-
-  ![](https://cdn-images-1.medium.com/max/1024/1*Bnn648ZuedhG4XLxOU_kEg.jpeg)
-
-  Braddock is the first woman to serve as King County Executive. She previously served as Deputy County Executive and has 15 years of local government experience.
-
-  “It’s an incredible honor to be acting King County Executive. I’m committed to providing strong and steady leadership for the people of King County and delivering the essential services communities rely on, from roads, parks and trails to public transit, health, safety and more,” said **Executive Braddock**. “Thank you to the County Council for entrusting me with the privilege of serving King County as acting Executive during this transition.”
-
-  “I look forward to continuing to partner with county leaders across the three branches of our government and working with our 39 cities, unincorporated areas, community partners, labor, business, other governments and Tribal nations,” **Braddock&nbsp;added**.
-
-  Braddock appointed Chief of Staff [Karan Gill](https://kingcounty.gov/en/dept/executive/governance-leadership/king-county-executive/about-executive-leadership-team) to fill the now-vacated Deputy Executive position.
-
-  Her prior roles at King County include Deputy Executive, Chief of Staff, Deputy Chief of Staff and Council Relations Director in former Executive Dow Constantine’s office, as well as Chief of Staff for former Councilmember Joe McDermott.
-
-  She was also previously a PTA leader and a board member at nonprofit organizations WestSide Baby and the West Seattle Food&nbsp;Bank.
-
-  Braddock graduated from Western Washington University and the University of Washington, earning a master’s degree in public administration. She is a mother of three and has called King County home for over 26&nbsp;years.
-
-  ![](https://cdn-images-1.medium.com/max/1024/1*YxXm0h8q8SVTDL5f99HO7Q.jpeg)
-
-  ![](https://cdn-images-1.medium.com/max/1024/1*S6jLP2YeKYPxRi_pjlLR6Q.jpeg)
-
-  ![](https://cdn-images-1.medium.com/max/1024/1*4rC2bOoNkagp21c-aUGAqA.jpeg)
-
-  **Quotes**
-
-  “As Auburn’s first woman mayor, I’m thrilled to congratulate Shannon Braddock on becoming the first woman to serve as King County’s acting executive. Her depth of knowledge and expertise will be invaluable in this role, and I look forward to collaborating with her on key regional issues.” - **Nancy Backus, City of Auburn&nbsp;Mayor**
-
-  “With 15 years of experience in King County, Shannon Braddock brings unmatched ability, and I know she will provide steady leadership during this transition. Having worked with her on various complex issues, I’ve always been impressed by her deep knowledge and dedication to public service.” - **Angela Birney, City of Redmond&nbsp;Mayor**
-
-  “Over the five years I’ve worked with Shannon, I have nothing but respect for her as a woman, a leader, a mother, and a friend. As a dedicated public servant, she has consistently demonstrated a commitment to making a positive impact. I look forward to collaborating with her in her new role as King County Executive.” - **Tiffany Washington, City of Seattle Deputy&nbsp;Mayor**
-
-  “I’m excited for Shannon Braddock to step into the role of King County Executive. She has always been a forward-thinker and a strong collaborator, and I have no doubt she will thrive in this position.” - **Alesha Washington, President and CEO, Seattle Foundation**
-
-  “One of the many ways Shannon Braddock has demonstrated her strong commitment to our local communities is through her service on the board of the West Seattle Food Bank and her continued support of our mission. Her leadership in our strategic planning process and as Secretary of our Board was instrumental in advancing our mission to provide essential services to those in need.” - **Fran Yeatts, Executive Director, West Seattle Food&nbsp;Bank**
-
-  **Links**
-
-  -[Photos available for&nbsp;download](https://www.dropbox.com/scl/fo/q6pbhz1iz6erfm91np4fj/AGTZwBgct_AJu-0AHfLI_ak?rlkey=kijzfatd0ajzfguhfqo5js43a&st=x1sud8y4&dl=0)
-
-  -[King County Executive homepage](https://kingcounty.gov/en/dept/executive)
-
-   ![](https://medium.com/_/stat?event=post.clientViewed&referrerSource=full_rss&postId=f89a801dba15)
-  * * *
-
-  [Shannon Braddock sworn in as acting Executive](https://medium.com/kingcounty/shannon-braddock-sworn-in-as-acting-king-county-executive-f89a801dba15) was originally published in [KingCounty](https://medium.com/kingcounty) on Medium, where people are continuing the conversation by highlighting and responding to this story.
+images:
+- 53fd7729a23314eee41d455a7c96392962ae37e49e1e791c89a0f076576b7ab8
+- 2ca037309b1f5ab8593314acb72a9c523505c7b0c8738458d4c8c3c64488c139
+- da6a8f0e318635885485928e8169c5172f74690f80f41672fc81e71366ce8980
+- bb2031c0e94a281cb47a21c8075db9a068da457da89660cc86222e833c24068b
+- d29f10edba5c3040df68e8933aa43e89d79b15090d3dead009a5e8a8f5b4d5d3
+locations:
+- King County
 source: King County
 source_url: https://medium.com/kingcounty/shannon-braddock-sworn-in-as-acting-king-county-executive-f89a801dba15?source=rss-cc0752750177------2
 summarized: true

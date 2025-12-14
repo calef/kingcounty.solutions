@@ -2,11 +2,8 @@
 date: '2025-07-02T14:39:00+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: "## **A Heat Pump Keeps Your Home Cool in the Summer and Warm in
-  the Winter**\n\n![Local elected officials, as well as representatives from the Washington
+feed_content: "## **A Heat Pump Keeps Your Home Cool in the Summer and Warm in the
+  Winter**\n\n![Local elected officials, as well as representatives from the Washington
   Department of Commerce, partnering organizations, and participating Energy Smart
   Eastside municipalities, gather with former Washington Governor Jay Inslee to see
   the heat pumps in action at an Acres of Diamonds transitional housing facility in
@@ -106,6 +103,9 @@ original_content: "## **A Heat Pump Keeps Your Home Cool in the Summer and Warm 
   able to offer a well-rounded, one-stop service that helps clients both upgrade their
   systems and manage their ongoing energy costs.”\n\nTo find out if getting a heat
   pump is right for you, head to the [Energy Smart Eastside website](https://www.energysmarteastside.org/).&nbsp;&nbsp;"
+images: []
+locations:
+- King County
 source: Hopelink
 source_url: https://www.hopelink.org/blog/a-heat-pump-keeps-your-home-cool-in-the-summer-and-warm-in-the-winter/
 summarized: true

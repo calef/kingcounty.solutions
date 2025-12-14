@@ -2,12 +2,11 @@
 date: '2025-10-25T00:06:00+00:00'
 events: []
 events_extracted: true
+feed_content: <img src="https://www.auburnwa.gov/UserFiles/Servers/Server_11470554/Image/News/COVID%2019.jpg"
+  />
 images: []
 locations:
 - King County
-original_content: <img src="https://www.auburnwa.gov/UserFiles/Servers/Server_11470554/Image/News/COVID%2019.jpg"
-  />
-original_markdown_body: "![](https://www.auburnwa.gov/UserFiles/Servers/Server_11470554/Image/News/COVID%2019.jpg)"
 source: City of Auburn
 source_url: https://www.auburnwa.gov/cms/One.aspx?portalId=11470638&pageId=16499115
 summarized: true

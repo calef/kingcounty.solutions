@@ -2,9 +2,7 @@
 date: '2025-11-14T23:00:00+00:00'
 events: []
 events_extracted: true
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   <p><strong>Monday ~</strong> Sweet &amp; Sour Chicken w/brown rice, Eggroll &amp; Fruit<strong> </strong> </p>
 
 
@@ -35,20 +33,8 @@ original_content: |-
 
   <p></p>
   <p>The post <a href="https://ballardseniorcenter.org/dining-menu-november-17th-20th/">Dining Menu November 17th &#8211; 20th</a> appeared first on <a href="https://ballardseniorcenter.org">Ballard Senior Center</a>.</p>
-original_markdown_body: |-
-  **Monday ~** Sweet & Sour Chicken w/brown rice, Eggroll & Fruit **&nbsp;** &nbsp;
-
-  **Tuesday ~** Smothered Chicken, Mashed Potatoes, Seasonal Veggies, Fruit & Dessert&nbsp;
-
-  **Wednesday ~ November Birthdays Lunch ~** Grilled Cheese, Tomato Soup, Garden Salad & Fruit&nbsp;
-
-  **Thursday ~** Taco Salad, Soup, Fruit & Dessert&nbsp;
-
-  **Friday ~** Holiday Bazaar. No Community Dining
-
-  **[Wednesday Night Dinner](https://ballardseniorcenter.org/events/wednesday-happy-hour-dinner-bingo/)~** &nbsp;Chicken & Mushroom Stroganoff over Mashed Potatoes, Seasonal Veggies, Soup & Dessert&nbsp;
-
-  The post [Dining Menu November 17th – 20th](https://ballardseniorcenter.org/dining-menu-november-17th-20th/) appeared first on [Ballard Senior Center](https://ballardseniorcenter.org).
+images: []
+locations: []
 published: false
 source: Ballard Northwest Senior Center
 source_url: https://ballardseniorcenter.org/dining-menu-november-17th-20th/

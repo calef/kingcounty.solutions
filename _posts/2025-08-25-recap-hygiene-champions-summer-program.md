@@ -2,12 +2,7 @@
 date: '2025-08-25T21:52:00+00:00'
 events: []
 events_extracted: true
-images:
-- b146a1d0434b674d1ce7548d3b447ea1988ef5115de890da31899f186008bc0b
-- 3b7d6693c7847bf7455a782888fb9bb2e49e15b061241e60d198baa3e972526b
-locations:
-- King County
-original_content: "<p class=\"\">This summer, our Hygiene Champions, a group of amazing
+feed_content: "<p class=\"\">This summer, our Hygiene Champions, a group of amazing
   middle and high school students, stepped up to lead a community fundraiser supporting
   Essentials First’s mission, ensuring everyone has access to basic hygiene essentials
   with dignity&nbsp;</p><p class=\"\">Over several weeks, these youth took charge
@@ -76,32 +71,11 @@ original_content: "<p class=\"\">This summer, our Hygiene Champions, a group of 
   1500w, https://images.squarespace-cdn.com/content/v1/6244ce6a3e335a451b9540a9/d1b7aa45-f408-48bb-a8dc-2b52a9301b08/528305030_1067936462118451_2541067880283278295_n.jpg?format=2500w
   2500w\" loading=\"lazy\" decoding=\"async\" data-loader=\"sqs\">\n\n            \n
   \         \n        \n          \n        \n\n        \n      \n        </figure>"
-original_markdown_body: |-
-  This summer, our Hygiene Champions, a group of amazing middle and high school students, stepped up to lead a community fundraiser supporting Essentials First’s mission, ensuring everyone has access to basic hygiene essentials with dignity&nbsp;
-
-  Over several weeks, these youth took charge through team-based leadership:
-
-  - **Operations Team** &nbsp;handled event logistics, signage, setting up the welcome table, and ran the Kahoot game!&nbsp;
-
-  - **Food & Decor Team** &nbsp;They set up the event space, designed the decor, and ran a fun bake sale.
-
-  - **Marketing Team** &nbsp;designed flyers, promoted the event, and managed outreach.
-
-  - **Fundraising Team** &nbsp;led hygiene drives, made brochures and pledge forms, and engaged stores and neighbors to collect supplies.
-
-  - **Entertainment Team** &nbsp;curated stage fun, coordinated performances, and kept the energy high!
-
-  The program culminated with a fundraising event on August 2nd, where this group of youth pulled off a fun and educational afternoon and raised over $75,000 to support the mission of Essentials First!
-
-  We have so much gratitude to share -- to the donors whose generosity will echo through our communities empowering dignity for thousands of neighbors; to Essentials First Programs & Operations Manager Marryam Ali for coordinating the program and to the parent volunteers and EF staff who helped bring the vision to life; to our partners at the [**Together Center**](https://www.facebook.com/togethercenter? __cft__ [0]=AZUevT52ugNMLptNn71NldNpo6q5dTBI3AGqhBdUvkIFFU_mEKrcneYdA8tYzOND6g9TIVxQ1yOI0YRyfpJDHeTd5_PQniKc20Hyo9eukS6NUGTc-QnZvrgKPXaGp_IGZah6yll6GzOvSGURhmkAmt7zwGGXaWab87em8WAMUCpXKIMNktr_9EG1rU4VQ9BAW-8& __tn__ =-]K-R) for hosting and the [**Rotary Club of Woodinville**](https://www.facebook.com/RotaryClubofWoodinville? __cft__ [0]=AZUevT52ugNMLptNn71NldNpo6q5dTBI3AGqhBdUvkIFFU_mEKrcneYdA8tYzOND6g9TIVxQ1yOI0YRyfpJDHeTd5_PQniKc20Hyo9eukS6NUGTc-QnZvrgKPXaGp_IGZah6yll6GzOvSGURhmkAmt7zwGGXaWab87em8WAMUCpXKIMNktr_9EG1rU4VQ9BAW-8& __tn__ =-]K-R) for sponsoring and pulling off a memorable Dessert Dash; to [**Washington State Representative Osman Salahuddin**](https://housedemocrats.wa.gov/salahuddin/)for sharing a powerful message and example to the youth; and to the Sheriff family for their ongoing stewardship of this movement to end hygiene poverty for good.
-
-  Most of all, thank you to the Hygiene Champions who planned and participated in every aspect of this event; we are beyond proud of these young leaders' creativity, passion, and perseverance - powerful reminders that our future is in capable hands.
-
-  Sign up to receive occasional email updates on Hygiene Champions at [**essentialsfirst.org/champions**](https://l.facebook.com/l.php?u=http%3A%2F%2Fessentialsfirst.org%2Fchampions%3Ffbclid%3DIwZXh0bgNhZW0CMTAAYnJpZBExcEVQNElzS3RVVndtdHcycQEedgCaWRqCR0niqU6I96GvQuTZPx5Pnn8xxVq7r5iL56fBqv0B7DJEO8ISJ6g_aem_8CI-iMWioP2IVCJAYcfagw&h=AT1jUixQmPgdl2x2jldUpBHaahwwM98bSE79hRzSQQwnk0SbieI7lEEsSxZgkLEnBwcid41sEdOYPmiM6vujm-tZX0vQkvPiWduTYz5yT1hQKwWGGG2F5jGiGKwFm8fXDjQUhVltA5-mPA3tDR6RGeD8FOB0VQ& __tn__ =-UK-R&c[0]=AT1TpC7-NLf-9k8FRYAHBsG-z6ofePmTpOL_bkgrbOoAE4wXr0bO8W74P5EIXFUFSK16rIkG6PXluzEvs78ygaetDxUoogU7oEQ2-OkjRgRdO9c5ErnouseRlP3_7P3yjpaHDrafjJbqX2xSVuhaFHdpoFrLowkCJjpPS05HyHPQzyCJxkSiuSHAValnVXLO7eb_DvLxhA_J-EDOdrstuwsXLg)
-
-  ![](https://images.squarespace-cdn.com/content/v1/6244ce6a3e335a451b9540a9/e8f53333-f62c-4cc8-a7e2-57b267b9e5b5/528329050_1067936628785101_49593423554339011_n.jpg?format=1000w)
-
-  ![](https://images.squarespace-cdn.com/content/v1/6244ce6a3e335a451b9540a9/d1b7aa45-f408-48bb-a8dc-2b52a9301b08/528305030_1067936462118451_2541067880283278295_n.jpg?format=1000w)
+images:
+- b146a1d0434b674d1ce7548d3b447ea1988ef5115de890da31899f186008bc0b
+- 3b7d6693c7847bf7455a782888fb9bb2e49e15b061241e60d198baa3e972526b
+locations:
+- King County
 source: Essentials First
 source_url: https://www.essentialsfirst.org/blog/x6fbag35a54h6xwsgd7ssjuh90fb18
 summarized: true

@@ -1,8 +1,6 @@
 ---
 date: '2025-10-07T18:33:45+00:00'
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   - The record is held open through 10/9 for public comment from members of the public who tried to join the virtual hearing but were unable to join/make comment for technology or access reasons.
 
   &nbsp;
@@ -30,6 +28,8 @@ original_content: |-
   &nbsp;
 
   &nbsp;
+images: []
+locations: []
 published: false
 source: Town of Yarrow Point
 source_url: https://yarrowpointwa.gov/2025/10/post-hearing-schedule-4634-95th-ave-ne-zhuang-variance-2025-01/

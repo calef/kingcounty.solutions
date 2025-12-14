@@ -1,8 +1,6 @@
 ---
 date: '2025-11-11T00:06:08+00:00'
-images: []
-locations: []
-original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Infant
+feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Infant
   formula recalled because of possible link to infant botulism cases</span>\n\n            <div
   class=\"field field--name-field-date-and-time field--type-datetime field--label-hidden
   field__item\"><time datetime=\"2025-11-11T00:01:00Z\" class=\"datetime\">November
@@ -63,42 +61,8 @@ original_content: "<span class=\"field field--name-title field--type-string fiel
   is your source for a healthy dose of information. Get updates by following us on
   <a data-entity-substitution=\"canonical\" data-entity-type=\"node\" data-entity-uuid=\"793e85b5-17aa-40fb-8ac5-3d5b44f34363\"
   href=\"/about-us/contact-us/social-media\">social media</a>.</p>\n\n<p class=\"text-align-center\">###</p></div>"
-original_markdown_body: "Infant formula recalled because of possible link to infant
-  botulism cases\n<time datetime=\"2025-11-11T00:01:00Z\" class=\"datetime\">November
-  10, 2025 - 4:01pm</time>\nSharon.Moysiuk…<time datetime=\"2025-11-10T16:06:08-08:00\"
-  title=\"Monday, November 10, 2025 - 4:06pm\" class=\"datetime\">November 10, 2025
-  - 4:06pm</time>\n\nNews Category\n\n[health-news](/taxonomy/term/1732)\n\n**For
-  immediate release** : November 10, 2025&nbsp; &nbsp;(25-135)\n\n**Contact** : [DOH
-  Communications](mailto:doh-pio@doh.wa.gov)\n\n## Ten states are involved, one of
-  the 13 affected infants is from Washington\n\n**OLYMPIA** – The Centers for Disease
-  Control and Prevention (CDC), the U.S. Food and Drug Administration (FDA), the Washington
-  State Department of Health (DOH), and officials in nine other states are investigating
-  [an outbreak of botulism linked to powdered infant formula produced by ByHeart](/you-and-your-family/food-safety/recalls).\n\nThirteen
-  infants in 10 states have been involved in the outbreak, [including one infant from
-  Lewis County in Washington state](/you-and-your-family/illness-and-disease-z/foodborne-illness/outbreaks).
-  All cases included in this outbreak are reported to have consumed ByHeart brand
-  powdered infant formula. ByHeart has voluntarily recalled the formula.\n\nIf you
-  have recently purchased a ByHeart Whole Nutrition Infant Formula:\n\n- **Do not
-  use**. Throw it away or return it to where you bought it. If you still have the
-  container, record the lot number before discarding.\n\n- **Wash items and surfaces**
-  that may have touched the recalled formula using hot soapy water or a dishwasher.\n\n-
-  **Seek immediate medical care** if your infant has consumed ByHeart Whole Nutrition
-  Infant Formula and has any of these symptoms: \n  - Poor feeding\n  - Loss of head
-  control\n  - Difficulty swallowing\n  - Decreased facial expression\n\n ![Label
-  on the bottom of the By Heart infant formula can](/sites/default/files/2025-11-images/ByHeartInfantFormula2.jpg?uid=691672096c9a4)\n\n
-  ![By Heart infant formula packaging with label](/sites/default/files/2025-11-images/ByHeartInfantFormula1.jpg?uid=6916720975234)\n\nSymptoms
-  of infant botulism can take as long as several weeks to develop, so parents should
-  remain vigilant if they used the recalled lots of infant formula.\n\n[Infant botulism
-  is a rare illness](/emergencies/be-prepared-be-safe/bioterrorism-and-terrorism/botulism)
-  that usually affects babies less than six months of age. Babies get ill when bacteria
-  (Clostridium botulinum) they have ingested produce a toxin that can weaken muscles.
-  These bacteria are naturally found in dust, soil and honey (which should never be
-  given to babies under a year). It is rare for a commercial infant food product to
-  be linked to an outbreak of infant botulism.\n\nThis is an active investigation.
-  For the most current updates, please see the [CDC Food Safety Alert](https://www.cdc.gov/botulism/outbreaks-investigations/infant-formula-nov-2025/)
-  and [FDA Outbreak Investigation of Infant Botulism](https://www.fda.gov/food/outbreaks-foodborne-illness/outbreak-investigation-infant-botulism-infant-formula-november-2025).\n\nOur
-  [website](https://doh.wa.gov/) is your source for a healthy dose of information.
-  Get updates by following us on [social media](/about-us/contact-us/social-media).\n\n###"
+images: []
+locations: []
 published: false
 source: Department of Health
 source_url: https://doh.wa.gov/newsroom/infant-formula-recalled-because-possible-link-infant-botulism-cases

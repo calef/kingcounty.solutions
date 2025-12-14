@@ -3,8 +3,6 @@ generated_from_post: true
 images: []
 location: Myrtle Beach
 locations: []
-original_markdown_body: A boot camp for military and veteran founders, focusing on
-  entrepreneurship and business development.
 published: false
 source: Disabled American Veterans
 source_url: https://www.dav.org/learn-more/news/2025/empowering-veterans-as-business-founders/

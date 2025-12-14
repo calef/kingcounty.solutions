@@ -14,14 +14,14 @@ class ImageExtractorIntegrationTest < Minitest::Test
     @tmp_images = Dir.mktmpdir
     @assets = Dir.mktmpdir
 
-    # create a post with original_markdown_body containing an image
+    # create a post with original_source_html containing an image
     fm = <<~MD
       ---
       title: Img Post
       date: #{Time.now.iso8601}
       source: Test
       source_url: https://example.com/p/1
-      original_markdown_body: '![](https://example.com/image.jpg)'
+      original_source_html: '<p>Image <img src="https://example.com/image.jpg" alt="Example"></p>'
       summarized: true
       ---
 

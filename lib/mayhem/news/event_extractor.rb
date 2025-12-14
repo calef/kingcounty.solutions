@@ -6,6 +6,8 @@ require_relative '../logging'
 require_relative '../openai/chat_client'
 require_relative '../front_matter/document'
 require_relative '../front_matter/slug_generator'
+require_relative '../support/encoding_utils'
+require_relative '../content/html_normalizer'
 
 module Mayhem
   module News
@@ -247,6 +249,14 @@ module Mayhem
         front_matter['end_date'] = end_time.iso8601 if end_time
         front_matter['topics'] = post_topics.dup if post_topics.is_a?(Array) && post_topics.any?
         front_matter['locations'] = post_locations.dup if post_locations.is_a?(Array) && post_locations.any?
+
+        unless description.to_s.strip.empty?
+          normalized_description = Mayhem::Content::HtmlNormalizer.normalize(
+            Mayhem::Support::EncodingUtils.ensure_utf8(description)
+          )
+          front_matter['feed_content'] = normalized_description
+          front_matter['feed_content_checksum'] = Mayhem::Content::HtmlNormalizer.checksum(normalized_description)
+        end
 
         # Create event document
         body = "\n#{description}\n"

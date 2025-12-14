@@ -2,11 +2,7 @@
 date: '2025-06-24T19:21:48+00:00'
 events: []
 events_extracted: true
-images:
-- ed3873ce7a2a0415d216a7d102ca2477523e9ebf6852b8b838e32b178f225c96
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <p><img width="361" height="255" src="https://s14621.pcdn.co/wp-content/uploads/2025/06/LaurenBrown-SandPoint-BehavioralHealth-NS-06.25.25x801-361x255.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="A woman with long dark hair, tattoos, and a teal tank top stands in front of a concrete wall with the words &quot;Lowry Community Building.&quot;" decoding="async" srcset="https://s14621.pcdn.co/wp-content/uploads/2025/06/LaurenBrown-SandPoint-BehavioralHealth-NS-06.25.25x801-361x255.jpg 361w, https://s14621.pcdn.co/wp-content/uploads/2025/06/LaurenBrown-SandPoint-BehavioralHealth-NS-06.25.25x801-300x212.jpg 300w, https://s14621.pcdn.co/wp-content/uploads/2025/06/LaurenBrown-SandPoint-BehavioralHealth-NS-06.25.25x801-768x543.jpg 768w, https://s14621.pcdn.co/wp-content/uploads/2025/06/LaurenBrown-SandPoint-BehavioralHealth-NS-06.25.25x801.jpg 801w" sizes="(max-width: 361px) 100vw, 361px" data-attachment-id="70093" data-permalink="https://www.solid-ground.org/addressing-mental-health-and-housing-together/laurenbrown-sandpoint-behavioralhealth-ns-06-25-25x801/" data-orig-file="https://s14621.pcdn.co/wp-content/uploads/2025/06/LaurenBrown-SandPoint-BehavioralHealth-NS-06.25.25x801.jpg" data-orig-size="801,566" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;2.4&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;iPhone X&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;1750873401&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;6&quot;,&quot;iso&quot;:&quot;25&quot;,&quot;shutter_speed&quot;:&quot;0.0083333333333333&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="LaurenBrown-SandPoint-BehavioralHealth-(NS)-06.25.25&#215;801" data-image-description="" data-image-caption="&lt;p&gt;Lauren Brown, an experienced social worker and therapist who works with children and teenagers at Solid Ground&#8217;s Sand Point Housing (photo by Neal Simpson)&lt;/p&gt;
   " data-medium-file="https://s14621.pcdn.co/wp-content/uploads/2025/06/LaurenBrown-SandPoint-BehavioralHealth-NS-06.25.25x801-300x212.jpg" data-large-file="https://s14621.pcdn.co/wp-content/uploads/2025/06/LaurenBrown-SandPoint-BehavioralHealth-NS-06.25.25x801.jpg" /></p><p class="tmc-intro">At Solid Ground, we know that homelessness and other traumatic experiences are deeply interconnected with behavioral health, which means we’re far more effective supporting people to build stability in their lives when working holistically to address housing and health in tandem.</p>
   <p><span data-contrast="none">Unfortunately, behavioral health care remains out of reach for many people who’ve experienced homelessness and live on low incomes. That’s why Solid Ground works to improve the health and well-being of people living at our <a href="https://www.solid-ground.org/what-we-do/housing-homelessness/#sandpointhousing">Sand Point Housing</a> campus through free onsite behavioral health support services to improve access to and engagement with mental health care for adults, children, and youth – helping individuals heal from trauma and families begin to disrupt generational cycles of poverty.</span><span data-ccp-props="{}"> </span></p>
@@ -46,56 +42,10 @@ original_content: |-
   <p style="text-align: center;"><a class="btn btn-md btn-info" href="https://www.solid-ground.org/donate/">Learn About Ways to Give to Solid Ground</a>
   </div>
   <p class="tmc-caption"><strong>Image at top:</strong> Lauren Brown, an experienced social worker and therapist, provides behavioral health services for children and teenagers at  Solid Ground&#8217;s Sand Point Housing. (photo by Neal Simpson)</p>The post <a href="https://www.solid-ground.org/addressing-mental-health-and-housing-together/">Addressing mental health and housing together</a> appeared first on <a href="https://www.solid-ground.org">Solid Ground</a>.
-original_markdown_body: |-
-  ![A woman with long dark hair, tattoos, and a teal tank top stands in front of a concrete wall with the words "Lowry Community Building."](https://s14621.pcdn.co/wp-content/uploads/2025/06/LaurenBrown-SandPoint-BehavioralHealth-NS-06.25.25x801-361x255.jpg)
-
-  At Solid Ground, we know that homelessness and other traumatic experiences are deeply interconnected with behavioral health, which means we’re far more effective supporting people to build stability in their lives when working holistically to address housing and health in tandem.
-
-  Unfortunately, behavioral health care remains out of reach for many people who’ve experienced homelessness and live on low incomes. That’s why Solid Ground works to improve the health and well-being of people living at our [Sand Point Housing](https://www.solid-ground.org/what-we-do/housing-homelessness/#sandpointhousing) campus through free onsite behavioral health support services to improve access to and engagement with mental health care for adults, children, and youth – helping individuals heal from trauma and families begin to disrupt generational cycles of poverty.&nbsp;
-
-  This past quarter, we were thrilled to renew our partnership with [Virginia Mason Franciscan Health (VMFH)](https://www.vmfh.org/) through their CommonSpirit Community Health Improvement Grants. This is the second year VMFH has helped fund Sand Point’s Behavioral Health Partnerships, aligning with their mission to address some of our region’s most pressing health needs, from access to care and behavioral health, to chronic disease and violence prevention.&nbsp;
-
-   ![A bald man with a short wh ite beard and a blue shirt smiles as he stands in front of the trunk of a tree](https://s14621.pcdn.co/wp-content/uploads/2025/06/Ruben_SandPoint-CM-7.19.24_2x400.jpg)
-
-  Ruben Rivera Jackman, a behavioral health counsel who works one-on-one with residents at Solid Ground’s Sand Point Housing. (photo by Clarissa Magdich)
-
-  In 2024, VMFH’s partnership was instrumental to our ability to partner with specialized behavioral health providers who share residents’ backgrounds and lived experiences. These providers offer a wide range of individual and group services to address conditions like depression, anxiety, and substance use disorder. &nbsp;
-
-  This year, we’re grateful to continue this partnership to expand behavioral health support for children and youth living at Sand Point. With VMFH’s support, we’ve already begun providing additional group activities designed to give Sand Point Housing staff, parents, and children an opportunity to learn together how trauma shows up in our lives and ways to manage it.
-
-  We’re also hosting group activities with children to help them develop healthy identities, manage emotions, feel and show empathy for others, and make responsible and caring decisions. &nbsp;
-
-  “At Virginia Mason Franciscan Health, we’re deeply committed to the well-being of our communities, and our Community Health Improvement Grants are one of the ways we demonstrate that commitment,” says Ketul J. Patel, CEO of Virginia Mason Franciscan Health and President of CommonSpirit Health’s Northwest Region.
-
-  “This investment reflects our mission to improve health and advance social justice, directly supporting the incredible work these local organizations do to strengthen families and communities across the Puget Sound region.”&nbsp;
-
-  Poverty, domestic violence, systemic racism, and other traumatic experiences can cause harm throughout a person’s life, leading to negative outcomes in health, income, and well-being.
-
-  We’re grateful to VMFH and other funders who support free, onsite behavioral health services to resident youth and adults. These services continue to remove barriers to behavioral health care access and achieve more equitable health outcomes for youth and families living on low incomes.&nbsp;
-
-  We’re always looking to build new connections and would love to connect with you! Please reach out to us at [giving@solid-ground.org](mailto:giving@solid-ground.org)&nbsp;if you’d like to get involved.
-
-  * * *
-
-  **_We’d also like to thank our new and returning grant partners, who provided funding for Solid Ground in the last quarter:_** &nbsp;
-
-  - **Legal Foundation of Washington&nbsp;**
-
-  - **PCC Community Markets&nbsp;**
-
-  - **Microsoft&nbsp;**
-
-  - **SeedMoney&nbsp;**
-
-  - **Washington State Budget & Policy Center&nbsp;**
-
-  #### _Want to help us build more pathways beyond poverty?_
-
-  [Learn About Ways to Give to Solid Ground](https://www.solid-ground.org/donate/)
-
-  **Image at top:** Lauren Brown, an experienced social worker and therapist, provides behavioral health services for children and teenagers at&nbsp; Solid Ground’s Sand Point Housing. (photo by Neal Simpson)
-
-  The post [Addressing mental health and housing together](https://www.solid-ground.org/addressing-mental-health-and-housing-together/) appeared first on [Solid Ground](https://www.solid-ground.org).
+images:
+- ed3873ce7a2a0415d216a7d102ca2477523e9ebf6852b8b838e32b178f225c96
+locations:
+- King County
 source: Solid Ground
 source_url: https://www.solid-ground.org/addressing-mental-health-and-housing-together/
 summarized: true

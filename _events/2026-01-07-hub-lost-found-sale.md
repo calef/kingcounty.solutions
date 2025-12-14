@@ -1,10 +1,6 @@
 ---
 end_date: '2026-01-07T16:30:00-08:00'
-images: []
-location: Student Union Building (HUB)
-locations:
-- King County
-original_content: '<a id="main-content" href="#main_content" class="screen-reader-shortcut">Skip
+feed_content: '<a id="main-content" href="#main_content" class="screen-reader-shortcut">Skip
   to main content</a> <div id="uw-container"> <div id="uw-container-inner"> <header
   class="uw-thinstrip" role="banner"> <div class="container"> <a href="http://uw.edu"
   title="University of Washington Home" class="uw-patch">University of Washington</a>
@@ -144,68 +140,10 @@ original_content: '<a id="main-content" href="#main_content" class="screen-reade
   of Washington Division of Student Life</a> <a href="http://www.washington.edu/boundless/"><h3
   class="be-boundless">Be boundless</h3></a> <h4>Connect with The HUB:</h4> <p>© 2025
   University of Washington | Seattle, WA</p> </div> </div> </div>'
-original_markdown_body: 'Skip to main content     University of Washington University
-  of Washington    HUB Lost & Found       HUB HOURS  Fall Break (August 23 – September
-  14) Monday – Friday 7:00am – 5:00pm Saturday & Sunday CLOSED Fall Quarter (September
-  15 – December 12) Monday – Thursday 7:00am – 10:00pm Friday 7:00am – 11:00pm Saturday
-  7:00am – 11:00pm Sunday CLOSED Holiday & Revised Hours Sept 1 CLOSED Nov 11 CLOSED
-  Nov 27-28 CLOSED Dec 12 7:00am – 9:00pm *Husky Card is required for access after
-  5:00pm. Guests without a Husky Card can use the Main Entrance.    CONTACT US  Phone: 206-543-8191
-  Email: thehub@uw.edu    STAY CONNECTED   IMPACT REPORT      The HUB Lost & Found
-  serves as the central lost and found for the UW Seattle campus. The HUB processes
-  over one thousand items each month from buildings and departments across campus. 
-  Lost an Item? Visit our Pixit page! Submit one claim for each item you are looking
-  for and HUB staff will respond to all inquiries.  Submit a claim Once HUB staff
-  verify a claim, the item may be retrieved at the HUB Information Desk during business
-  hours. Your photo ID, full name, and email address are needed to complete the claim
-  process. Please note: Items not claimed or retrieved in a timely fashion may be
-  sold, donated, or destroyed.* Lost Husky Cards Individual Husky Cards found without
-  accompanying items (wallets, bags, phones, etc.) are returned to the Husky Card
-  office weekly. The Husky Card office is located on the Ground Floor of Odegaard
-  Library and can be contacted at 206-543-7222 or huskycrd@uw.edu. Found an Item?
-  Items may be turned into the HUB Lost & Found at the HUB Information Desk during
-  business hours, or sent via campus mail to UW Box 352230, c/o HUB Lost & Found.
-  Drop-Off Guidelines for Departments and Facilities The HUB recommends that departments
-  or facilities with their own lost and found drop items off in bulk at least once
-  a month. To schedule your drop-off, please submit the following request. Schedule
-  an Appointment When submitting departmental drops to the HUB Lost & Found:   Empty
-  all containers of liquids and perishables. If containers are not emptied, HUB staff
-  may ask you to do so before accepting the item(s).   Keep small items separate from
-  clothing and other larger items.   Group items by type for faster processing.   Complete
-  an Inventory List: All drops must include a detailed inventory list using the below
-  checklist. Items without an inventory list may not be accepted. Download HUB L&F
-  Inventory List   Remember to schedule your appointment! Appointments are required
-  for all department and facilities drops to ensure we have staff available to collect
-  and log your items.      Items Not Accepted by the HUB Lost & Found   Wet, dirty,
-  or soiled items Underwear, socks, bras, bathing suits, or other undergarments Towels,
-  pillows, sheets, blankets, or other bedding Toiletries, cleaning products, chemicals,
-  or detergents Food items, containers with food inside, or other perishables  Full
-  water bottles, coffee mugs, or other liquid-filled containers  Please empty fluids
-  or perishables prior to turning them into the HUB Lost & Found    Bicycles, skateboards,
-  strollers, or any other “wheeled vehicles”  Finders must contact UW Police directly
-  at 206-685-8973    Knives with blades longer than 6 inches, other weapons, controlled/illegal
-  substances, and paraphernalia  Finders must contact UW Police directly at 206-685-8973   Any
-  items deemed by HUB staff to be unsanitary and/or hazardous for storage     Lost
-  & Found Sale On the First Wednesday* of every month from 9am-4:30pm between October-May,
-  the HUB sells a variety of items based on what has expired from the Lost & Found
-  inventory. Items are sold at a deep discount and may include small electronics,
-  jewelry, jackets, sunglasses, books, calculators, USB drives, water bottles, and
-  much more. *Spring Quarter sales will be held during the 2nd Wednesday, see dates
-  below. 2025 – 2026 Lost & Found Sale Dates:  October 1, 2025 November 5, 2025 December
-  3, 2025 January 7, 2026 February 4, 2026 March 4, 2026 April 8, 2026 (2nd Wednesday)
-  May 13, 2026 (2nd Wednesday)  Items are sold as-is and all sales are final – no
-  refunds or exchanges. *Per RCW 63.21, the HUB Lost & Found holds items with personally
-  identifiable information and/or a value estimated to be above $100 for sixty days,
-  and all other items for fourteen days. Unclaimed items expire out of our inventory
-  and are sold, destroyed, or donated to charity, depending on the item and its condition. 
-  Lost and Found Policy HUB Lost and Found Policy Other Lost & Found Resources If
-  the HUB has not yet received an item, we encourage owners to directly contact the
-  department or building the item was lost in. Information can be found via the UW
-  Campus Map or UW Office Directory. Seattle Area Transit Services  King County Metro
-  Sound Transit/Light Rail Community Transit  Other UW Campuses & Services  UW Bothell
-  UW Tacoma UW Seattle Athletics Facilities  Updated: November 2025      University
-  of Washington Division of Student Life Be boundless Connect with The HUB: © 2025
-  University of Washington | Seattle, WA'
+images: []
+location: Student Union Building (HUB)
+locations:
+- King County
 published: false
 source: University of Washington
 source_url: http://hub.washington.edu/campus-services/hub-lost-found/

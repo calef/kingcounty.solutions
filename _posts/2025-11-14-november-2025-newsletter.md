@@ -1,8 +1,6 @@
 ---
 date: '2025-11-14T22:36:00+00:00'
-images: []
-locations: []
-original_content: "<figure class=\"\n              sqs-block-image-figure\n              intrinsic\n
+feed_content: "<figure class=\"\n              sqs-block-image-figure\n              intrinsic\n
   \           \"\n        >\n          \n        \n        \n\n        \n          <a
   class=\"\n                sqs-block-image-link\n                \n          \n        \n
   \             \" href=\"https://carepointclinic.dm.networkforgood.com/emails/4296363?recipient_id=gKmitG8yqD88wZ7BRslDrA||ZGVzaXJlZXN3YW5zb25AZ21haWwuY29t\"
@@ -24,10 +22,8 @@ original_content: "<figure class=\"\n              sqs-block-image-figure\n     
   \     \n\n    \n  \n\n\n  \n\n\n\n\n\n  <p class=\"\">Be sure to take a peek at
   the November 2025 newsletter  <a href=\"https://carepointclinic.dm.networkforgood.com/emails/4296363?recipient_id=gKmitG8yqD88wZ7BRslDrA||ZGVzaXJlZXN3YW5zb25AZ21haWwuY29t\"
   target=\"_blank\">HERE!</a></p>"
-original_markdown_body: |-
-  [![](https://images.squarespace-cdn.com/content/v1/65c1886a315e4b1ef7f00c6a/7211414a-8bc0-44fa-a75e-418eeaf08bdf/November+2025+Newsletter?format=1000w)](https://carepointclinic.dm.networkforgood.com/emails/4296363?recipient_id=gKmitG8yqD88wZ7BRslDrA||ZGVzaXJlZXN3YW5zb25AZ21haWwuY29t)
-
-  Be sure to take a peek at the November 2025 newsletter [HERE!](https://carepointclinic.dm.networkforgood.com/emails/4296363?recipient_id=gKmitG8yqD88wZ7BRslDrA||ZGVzaXJlZXN3YW5zb25AZ21haWwuY29t)
+images: []
+locations: []
 published: false
 source: CarePoint Clinic
 source_url: https://www.carepointonline.org/news/cjs3nmb1sgjnwig08hd5u4peh0zwnw-j4cj8-bpmhr-k43fa-7a5ma-swlke-2g5kz-k9c5t-jz292-yg2ex-cz466

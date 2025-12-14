@@ -1,11 +1,6 @@
 ---
 end_date: '2026-02-06T23:00:00+00:00'
-images: []
-location: Overlake Golf and Country Club, 8000 NE 16th St, Medina, Washington, 98039,
-  United States
-locations:
-- King County
-original_content: '<section id="tribe-events-pg-template" class="tribe-events-pg-template">
+feed_content: '<section id="tribe-events-pg-template" class="tribe-events-pg-template">
   <div id="tribe-events-content" class="tribe-events-single tribe-blocks-editor">
   <p class="tribe-events-back"> <a href="https://www.bellevuelifespring.org/events/">
   « All Events </a> </p> <h1 class="tribe-events-single-event-title">One Heart/One
@@ -91,24 +86,11 @@ original_content: '<section id="tribe-events-pg-template" class="tribe-events-pg
   <h3 class="tribe-events-visuallyhidden">Event Navigation</h3> <ul class="tribe-events-sub-nav">
   <li class="tribe-events-nav-previous"><a href="https://www.bellevuelifespring.org/event/holiday-shop-and-mingle/"><span>«</span>
   Holiday Shop and Mingle with Refind</a></li> </ul> </div> </div> </section>'
-original_markdown_body: "« All Events   One Heart/One Community – A Party With a Purpose!
-  \    February 6, 2026   @   6:00 pm   –   11:00 pm      The Bellevue LifeSpring
-  One Circle’s Annual One Heart/One Community, A Party with a Purpose, is back this
-  coming February! Guests will enjoy cocktails, hors d’oeuvres, a four-course dinner,
-  a raffle, opportunities to purchase unique experiences, dancing, and more! The best
-  part? Your support directly provides vital nutrition for Bellevue children facing
-  food insecurity. Event details: Date: Friday, February 6, 2026 Time: 6:00 p.m. to
-  11:00 p.m. Registration opens at 5:30 p.m. Location: Overlake Golf and Country Club
-  8000 NE 16th St, Medina, WA 98039 Attire: Festive   Thank You to Our Community Celebrity
-  Volunteers!   Purchase Tickets    View unique experiences   View the raffle   Dinner
-  Menu   Thank You, Sponsors!   Presenting Partner Anu and Naveen Jain, together with
-  their children, are devoted to creating scalable impact in their communities and
-  beyond. Through their companies—Viome, Bilt, and Evvy—they’re driving innovation
-  that improves lives, proving that business and purpose can thrive together. Legacy
-  Partner Kai Cheng & Elise Lee Guardian Sponsor   Trish and Collin Carpenter   Diamond
-  Sponsors Platinum Sponsors   Starnium Holdings LLC      Purchase Tickets    View
-  unique experiences   View the raffle   Dinner Menu     Event Navigation  « Holiday
-  Shop and Mingle with Refind"
+images: []
+location: Overlake Golf and Country Club, 8000 NE 16th St, Medina, Washington, 98039,
+  United States
+locations:
+- King County
 source: Bellevue LifeSpring
 source_url: https://www.bellevuelifespring.org/event/one-heart/
 start_date: '2026-02-06T18:00:00+00:00'

@@ -2,9 +2,7 @@
 date: '2025-11-05T23:30:06+00:00'
 events: []
 events_extracted: true
-images: []
-locations: []
-original_content: "<div class=\"et_pb_section et_pb_section_3 blog-post-type et_section_regular\"
+feed_content: "<div class=\"et_pb_section et_pb_section_3 blog-post-type et_section_regular\"
   >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_row
   et_pb_row_8\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4 et_pb_column_12
   \ et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div
@@ -71,34 +69,8 @@ original_content: "<div class=\"et_pb_section et_pb_section_3 blog-post-type et_
   post <a href=\"https://lcsnw.org/2025/11/iraq-veteran-mental-health-counselor/\">Iraq
   War veteran brings important skills to LCSNW Mental Health team</a> appeared first
   on <a href=\"https://lcsnw.org\">LCSNW</a>.</p>"
-original_markdown_body: |-
-  # Iraq War veteran brings important skills to LCSNW Mental Health team
-
-  Shaun Vallery sees a direct correlation between his service with U.S. Air Force security forces and his work in LCSNW’s Yamhill County District on the Clinic-based Mental Health Team.
-
-  “Many skills from law enforcement carry over and have an impact on my counseling relationship with clients,” said Shaun, Program Manager on the team.&nbsp;
-
-  Military veterans like Shaun are a tremendous asset to LCSNW. They deserve recognition as we prepare to observe Veterans Day on November 11th.
-
-  Shaun was inspired to join the military when he watched television news reports of the Columbine High School mass shooting in 1999. After seeing first responders help kids in the shooting aftermath, he aspired to a career in law enforcement so he could also be a helper.
-
-  Shaun was part of a Quick Response Force while serving on the front lines during a tour of duty in Iraq.&nbsp;
-
-  The Air Force took a toll on his body, and he shifted into military law enforcement before being honorably discharged after a 13-year career. One role he thoroughly enjoyed was training young soldiers, both physically and mentally, prior to deployment. He also worked with soldiers returning from overseas, many of whom suffered from Post Traumatic Stress Disorder (PTSD).&nbsp;
-
-  Shaun grew up in Newberg, Oregon, and returned there with his family after leaving the Air Force. He earned his master’s in counseling (marriage and family track) from George Fox University and started his post-military career working for Columbia County Mental Health in northwest Oregon.
-
-  Wanting to help people in his own community, he joined LCSNW’s Yamhill District in July 2024 and was quickly promoted to Program Manager a few months later.
-
-  His work is based on principles of Trauma Informed Care; he has first-hand experience with a wide variety of situations and can tell clients: “I’ve been there.”&nbsp; He also earned his certification as an alcohol and drug counselor (CADC level 1), which allows him to holistically support clients.
-
-  As a Program Manager, he takes pride in implementing a plan he developed to train new counselors. “I love developing people into new positions.”
-
-  LCSNW is grateful to Shaun and all military veterans on staff for serving their country, clients, and colleagues with professionalism and compassion.
-
-   ![Two youth picking out school supplies at the free event](https://lcsnw.org/wp-content/uploads/2025/11/ShawnVallery.png "ShawnVallery")
-
-  The post [Iraq War veteran brings important skills to LCSNW Mental Health team](https://lcsnw.org/2025/11/iraq-veteran-mental-health-counselor/) appeared first on [LCSNW](https://lcsnw.org).
+images: []
+locations: []
 published: false
 source: Lutheran Community Services Northwest
 source_url: https://lcsnw.org/2025/11/iraq-veteran-mental-health-counselor/

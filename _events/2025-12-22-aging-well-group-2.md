@@ -1,32 +1,27 @@
 ---
 end_date: '2025-12-22T12:00:00-08:00'
-images: []
-location: The Center for Active Living, 4217 SW Oregon St., Seattle, WA, 98116, United
-  States
-locations:
-- King County
-original_content: '<a>Skip to content</a><div> <header><div> <div> <div> <div> <div>
-  <div> <div> <div> <div> <div> <div> <div> <p>We used to be called the Senior Center
-  of West Seattle.</p> </div> </div> </div> </div> </div> <div> <div> <div> <div>
-  <div> <div> <div> <div> <a> <span>Join</span> </a> </div> </div> <div> <div> <a>
-  <span>Donate</span> </a> </div> </div> </div> </div> </div> </div> </div> </div>
-  <div> <div> <div> <div> <div> <span> <a> <span>Facebook</span> </a> </span> <span>
-  <a> <span>Instagram</span> </a> </span> <span> <a> <span>YouTube</span> </a> </span>
-  <span> <a> <span>LinkedIn</span> </a> </span> </div> </div> </div> </div> </div>
-  </div> </div> </div> </div> </div> </div> </div> <div> <div> <div> <div> <div> <div>
-  <div> <div> <div> <div> <div> <h1> <a> <span>Activities &amp; Events</span> </a>
-  </h1> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div>
-  </header> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div>
-  <div> <h1> <span>Aging Well – Group #2</span> </h1> </div> </div> <div> <div> <div>
-  <p><span>Monday, December 22, 2025 at 11:00 am</span> - <span>12:00 pm</span></p>
-  </div> </div> </div> <div> <div> <p><span>Through discussions and sharing, participants
-  in Aging Well support each other at this weekly group that meets in person. All
-  discussions are confidential. If you are not pre-registered, you will not be admitted. </span></p>
-  <p><span>We offer two sessions of Aging Well: Group #1: Mondays, 1 – 2 p.m. (full)
-  Group #2: Mondays, 11 a.m. – 12 p.m.</span></p> <p><span>To be added to the wait
-  list for Group #1, contact our social worker Josh Maduell: <a>206-932-4044</a> /
-  ext. 2 or <a>joshm@wscenter.org.</a> For info on Group #2, </span><span>contact
-  Michele Fawcett-Long: <a>206-928-1730</a> or </span><a><span>michelef@wscenter.org</span></a><span>.</span><span> </span></p>
+feed_content: '<a>Skip to content</a><div> <header><div> <div> <div> <div> <div> <div>
+  <div> <div> <div> <div> <div> <div> <p>We used to be called the Senior Center of
+  West Seattle.</p> </div> </div> </div> </div> </div> <div> <div> <div> <div> <div>
+  <div> <div> <div> <a> <span>Join</span> </a> </div> </div> <div> <div> <a> <span>Donate</span>
+  </a> </div> </div> </div> </div> </div> </div> </div> </div> <div> <div> <div> <div>
+  <div> <span> <a> <span>Facebook</span> </a> </span> <span> <a> <span>Instagram</span>
+  </a> </span> <span> <a> <span>YouTube</span> </a> </span> <span> <a> <span>LinkedIn</span>
+  </a> </span> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div>
+  </div> </div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div>
+  <h1> <a> <span>Activities &amp; Events</span> </a> </h1> </div> </div> </div> </div>
+  </div> </div> </div> </div> </div> </div> </div> </header> <div> <div> <div> <div>
+  <div> <div> <div> <div> <div> <div> <div> <div> <div> <h1> <span>Aging Well – Group
+  #2</span> </h1> </div> </div> <div> <div> <div> <p><span>Monday, December 22, 2025
+  at 11:00 am</span> - <span>12:00 pm</span></p> </div> </div> </div> <div> <div>
+  <p><span>Through discussions and sharing, participants in Aging Well support each
+  other at this weekly group that meets in person. All discussions are confidential.
+  If you are not pre-registered, you will not be admitted. </span></p> <p><span>We
+  offer two sessions of Aging Well: Group #1: Mondays, 1 – 2 p.m. (full) Group #2:
+  Mondays, 11 a.m. – 12 p.m.</span></p> <p><span>To be added to the wait list for
+  Group #1, contact our social worker Josh Maduell: <a>206-932-4044</a> / ext. 2 or
+  <a>joshm@wscenter.org.</a> For info on Group #2, </span><span>contact Michele Fawcett-Long:
+  <a>206-928-1730</a> or </span><a><span>michelef@wscenter.org</span></a><span>.</span><span> </span></p>
   <p><span> </span></p> <p><span> </span></p> </div> </div> <div> <div> <span><a>Support
   Groups</a></span> </div> </div> </div> </div> <div> <div> <div> <div> <div> <div>
   <div> <div> <a> <span>Calendar</span> </a> </div> </div> <div> <div> <a> <span>Membership</span>
@@ -49,25 +44,12 @@ original_content: '<a>Skip to content</a><div> <header><div> <div> <div> <div> <
   </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> <a><span>Scroll
   To Top</span></a> <script> {"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://wscenter.org/wp-includes/js/wp-emoji-release.min.js?ver=6.9"}}
   </script>'
-original_content_checksum: 4e795faf4e3c6dcc2890d9f7c7ac93721f4215d9
-original_markdown_body: 'Skip to content             We used to be called the Senior
-  Center of West Seattle.               Join       Donate                 Facebook     Instagram     YouTube     LinkedIn                            Activities
-  & Events                             Aging Well – Group #2       Monday, December
-  22, 2025 at 11:00 am - 12:00 pm      Through discussions and sharing, participants
-  in Aging Well support each other at this weekly group that meets in person. All
-  discussions are confidential. If you are not pre-registered, you will not be admitted. 
-  We offer two sessions of Aging Well: Group #1: Mondays, 1 – 2 p.m. (full) Group
-  #2: Mondays, 11 a.m. – 12 p.m. To be added to the wait list for Group #1, contact
-  our social worker Josh Maduell: 206-932-4044 / ext. 2 or joshm@wscenter.org. For
-  info on Group #2, contact Michele Fawcett-Long: 206-928-1730 or michelef@wscenter.org. 
-          Support Groups              Calendar       Membership                  Location    The
-  Center for Active Living     4217 SW Oregon St. Seattle, WA 98116 United States  +
-  Google Map    Phone  206-932-4044     View Location Website                   Google
-  Calendar     iCalendar     Outlook 365     Outlook Live                   Related
-  Events    Men’s Support Group #1 Friday, December 12, 2025 at 11:00 am - 12:30 pm     Aging
-  Well – Group #2 Monday, December 15, 2025 at 11:00 am - 12:00 pm     Men’s Support
-  Group #2 Monday, December 15, 2025 at 11:45 am - 12:45 pm             Calendar                 Scroll
-  To Top  {"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://wscenter.org/wp-includes/js/wp-emoji-release.min.js?ver=6.9"}}'
+feed_content_checksum: 4e795faf4e3c6dcc2890d9f7c7ac93721f4215d9
+images: []
+location: The Center for Active Living, 4217 SW Oregon St., Seattle, WA, 98116, United
+  States
+locations:
+- King County
 source: The Center for Active Living
 source_url: https://wscenter.org/event/aging-well-group-2-2-2/2025-12-22/
 start_date: '2025-12-22T11:00:00-08:00'

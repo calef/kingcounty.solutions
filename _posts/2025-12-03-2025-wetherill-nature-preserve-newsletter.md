@@ -1,10 +1,9 @@
 ---
 date: '2025-12-03T15:49:31+00:00'
+feed_content: <p><a href="https://yarrowpointwa.gov/wp-content/uploads/2025/12/2025-WNP-Newsletter.pdf"><strong>2025
+  WNP Newsletter</strong></a></p>
 images: []
 locations: []
-original_content: <p><a href="https://yarrowpointwa.gov/wp-content/uploads/2025/12/2025-WNP-Newsletter.pdf"><strong>2025
-  WNP Newsletter</strong></a></p>
-original_markdown_body: "[**2025 WNP Newsletter**](https://yarrowpointwa.gov/wp-content/uploads/2025/12/2025-WNP-Newsletter.pdf)"
 published: false
 source: Town of Yarrow Point
 source_url: https://yarrowpointwa.gov/2025/12/2025-wetherill-nature-preserve-newsletter/

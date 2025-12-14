@@ -2,12 +2,7 @@
 date: '2025-12-06T21:30:00+00:00'
 events: []
 events_extracted: true
-images:
-- 7a6efde449c1aa8ddf79fbb495add927063ca55d2d34e84c130f348d4e20f22e
-- c3b1c5d7f9cccb076aa7ee8603667eb7d6ba02b27afa9f0848e1f9a1d93585b4
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <h2 class="wp-block-heading">93-year-old Virginia Veteran is home and thriving after VA treatment</h2>
 
 
@@ -133,72 +128,11 @@ original_content: |-
 
 
   <p>This article was originally published on the <a href="https://www.va.gov/salem-health-care/stories/va-gave-me-a-new-lease-on-life-93-year-old-virginia-veteran-home-and-thriving-after-va-treatment/" rel="noopener">VA Salem Health Care site</a> and has been edited for style and clarity.  </p>
-original_markdown_body: |-
-  ## 93-year-old Virginia Veteran is home and thriving after VA treatment
-
-  Army Veteran William Huff is a resilient man who, with the help of the [Salem VA Health Care System](https://news.va.gov/?s=Salem+VA+Medical+Center) (SVAMC), defied the odds to return home to continue doing the things he loves most.
-
-  But in January 2025, the future for the 93-year-old Veteran was discouraging.
-
-  “We thought we were bringing him home to die,” Huff’s son Howard said.
-
-  After a fall at a local nursing home broke his back, his family feared he would never return to the vibrant, active man they once knew.But, in less than half a year, Huff’s outlook would change dramatically. “He not only survived, he’s home and thriving—thanks to Salem VA,” Howard said.
-
-  [![Elderly man in a plaid shirt and cap stirs flour in a bowl at a cozy kitchen. He smiles in a homey and inviting scene.](https://news.va.gov/wp-content/uploads/sites/3/2025/10/Huff_r2-scaled.jpg?w=730)](https://news.va.gov/wp-content/uploads/sites/3/2025/10/Huff_r2-scaled.jpg)
-  _93-year-old Virginia Veteran is thriving after VA gave him back the things he loves most._
-
-  In February 2025, Huff underwent kyphoplasty surgery at the SVAMC. The procedure, which treats vertebral compression fractures, is not the most common for a 93-year-old to receive, but this treatment made all the difference for him.
-
-  “It was night and day—there was instant relief,” his son Howard recalled. “And the personalized care the staff gave him was second-to-none.”
-
-  Huff’s recovery was supported by a dedicated care team at the SVAMC, including Physical Therapy Assistant Brittany Mills. Their connection was so strong that when they reunited recently, Huff’s eyes welled with tears, and he gave her a big hug.
-
-  Huff fondly recalled how Mills would sit outside with him, working through therapy sessions. “The therapy was slow at first, then it took off. He did all of the hard work, he was motivated,” Mills said.
-
-  Huff’s main motivation? Returning to the place he loves most—his home.
-
-  ## From soldier to home builder
-
-  Drafted during the Cold War, Huff served in the Army from 1956 to 1958, then continued in the Army Reserve until 1962. Stationed at Fort Bliss, Texas, he was responsible for putting the complex electronics and hydraulics systems into position to fire/test.
-
-  After his military service, Huff turned his skills to construction, building houses with his own hands. Over a lifetime, he built more than 176 homes, overseeing every detail—from foundations to plumbing to roofing.
-
-  “I’d start from nothing, and drop the keys off in their hands,” he said proudly.
-
-  Living and working at home is meaningful, as it represents his life’s work, not just physical home he built for himself, but the life he built with the people who lived inside it. He lived there with his late wife Lola, his children and many cherished moments.
-
-  “It means everything&nbsp;to be back home,” Huff said. “My wife’s memory and spirit stay with me here.”
-
-  He reminisced with a chuckle, “Lola wanted a pony. I had to buy 10 more acres to get one, though.” He loved caring for his 10-acre lot, and exploring the property, something he can do once again thanks to a scooter from VA.
-
-  ## Thriving today
-
-  [![Elderly man in a plaid shirt and cap, sitting in a wheelchair on a porch. He smiles softly next to a pot of colorful flowers, brick wall in the background.](https://news.va.gov/wp-content/uploads/sites/3/2025/10/Huff_r1-scaled.jpg?w=730)](https://news.va.gov/wp-content/uploads/sites/3/2025/10/Huff_r1-scaled.jpg)
-  _Army Veteran William Huff credits VA for turning his life around._
-
-  In addition to a scooter, the SVAMC provided Huff with a specialized bed, lift, two wheelchairs and a walker.
-
-  Today, Huff starts his days getting out of bed, dressing himself and making breakfast. “I’m a pretty good cook,” he laughed. He exercises on the back porch using a homemade ladder to pull himself up and down.
-
-  He tends to his plants and takes pride in using his blower to clean the porch and driveway, taking special care to ensure no grass, dust or debris is left behind.
-
-  He also completed a 500-piece puzzle recently, just one of the many ways he keeps his mind sharp.
-
-  “I enjoy doing these things… they keep me going,” he shared.
-
-  ## VA care
-
-  Huff has received care through VA for 17 years and has a simple message for Veterans, whom he knows often put the well-being of others before themselves: “It’s not a weakness to come to VA—they want to help you, and they will help you. Every time I come here, I leave better than when I left. I trust the people here.”
-
-  Mills reflected on what drives her and her fellow employees at the SVAMC. “It’s always special to see the impact your care has, when they can go home and enjoy their favorite things in life, that’s why we do what we do here at the Salem VA,” she said.
-
-  “She saved me… VA changed my life and gave me back the things I love most,” Huff said.
-
-  It’s never too late to apply for VA health care you’ve earned. If you are a Veteran or know a Veteran who has not yet applied for their VA health care benefits, learn how to&nbsp;[get started](https://www.choose.va.gov/health).
-
-  * * *
-
-  This article was originally published on the [VA Salem Health Care site](https://www.va.gov/salem-health-care/stories/va-gave-me-a-new-lease-on-life-93-year-old-virginia-veteran-home-and-thriving-after-va-treatment/) and has been edited for style and clarity. &nbsp;
+images:
+- 7a6efde449c1aa8ddf79fbb495add927063ca55d2d34e84c130f348d4e20f22e
+- c3b1c5d7f9cccb076aa7ee8603667eb7d6ba02b27afa9f0848e1f9a1d93585b4
+locations:
+- King County
 source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143148/va-treatment-gave-me-a-new-lease-on-life/
 summarized: true

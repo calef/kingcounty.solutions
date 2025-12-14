@@ -2,11 +2,7 @@
 date: '2025-09-19T14:45:20+00:00'
 events: []
 events_extracted: true
-images:
-- a7a125584e0ec4f274b0c0a43f0e6d19fd7205001536359a3783ed0aa53228b1
-locations:
-- King County
-original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Nourish
+feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Nourish
   neighbors by donating food and hygiene items</span>\n<span class=\"field field--name-uid
   field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"
   typeof=\"schema:Person\" property=\"schema:name\" datatype>CIosso</span></span>\n<span
@@ -53,24 +49,10 @@ original_content: "<span class=\"field field--name-title field--type-string fiel
   \     \n\n            <div class=\"field field--name-field-article-date field--type-datetime
   field--label-hidden field__item\"><time datetime=\"2025-09-19T12:00:00Z\" class=\"datetime\">September
   19 2025</time>\n</div>\n      \n    </div>\n  </div>"
-original_markdown_body: |-
-  Nourish neighbors by donating food and hygiene itemsCIosso<time datetime="2025-09-19T07:45:20-07:00" title="Friday, September 19, 2025 - 07:45" class="datetime">Fri, 09/19/2025 - 07:45</time>
-
-   ![A variety of canned and boxed food is stacked up in a pile.](https://bellevuewa.gov/sites/default/files/styles/article_featured_image/public/media/article_featured_image/2025-09/food-drive-giving-campaign.JPG?h=6ba5d9a3&itok=euSKb4Q7)
-
-  City and community partners collecting items Oct. 1-Nov. 15
-
-  About one in four school-age children in Bellevue experiences food insecurity—putting their health, development and academic success at risk. To address the community’s growing lack of access to sufficient, nutritious food and an increasing need for essential products and services in the community, the City of Bellevue and nearly a dozen partners are collecting food and hygiene products Oct. 1-Nov. 15.
-
-  The “Essentials for All” drive will include collection points at various locations throughout the city, including community centers, City Hall and Mini City Hall at Crossroads Mall. Details on what to donate can be found at [Essentials for All](https://bellevuewa.gov/city-government/departments/parks/community-services/human-services/food-assistance/essentials-all-food-hygiene-supplies-drive "Essentials for All Food and Hygiene Supplies Drive").
-
-  “The food and hygiene products drive is an opportunity for neighbors to care for and support each other,” said City Manager Diane Carlson. “By working together, the city and community organizations are able to expand the collection and distribution of donations across the city to community members in need.”
-
-  At the end of the collection period, the food and hygiene items will be distributed to local food banks and community nonprofits who will then get them to community members. Neighbors can also donate to the [Human Services Fund](https://bellevuewa.gov/city-government/departments/parks/community-services/human-services/donations-success-stories "Donations and Success Stories") to help community members access the vital services and resources they need.
-
-  Participating food banks and community nonprofits include: Africans on the Eastside, ANEW, Babies of Homelessness, Catholic Community Services, Chinese Information and Service Center (CISC), EatHappy, Essentials First, Friends of Youth, Hopelink, IKRON, Imagine Housing, Indian American Community Services, International Community Health Services (ICHS), Jubilee Reach, KidVantage, LifeWire, Mary’s Place, Muslim Community Resource Center (MCRC), Renewal Food Bank, Salvation Army and YMCA.
-
-  <time datetime="2025-09-19T12:00:00Z" class="datetime">September 19 2025</time>
+images:
+- a7a125584e0ec4f274b0c0a43f0e6d19fd7205001536359a3783ed0aa53228b1
+locations:
+- King County
 source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/essentials-for-all
 summarized: true

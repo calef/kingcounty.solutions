@@ -1,11 +1,7 @@
 ---
 end_date: '2025-12-16T11:30:00-08:00'
-images: []
-location: Family Resource Center, 1005 NE 67th St, Seattle, WA, 98115, United States
-locations:
-- King County
-original_content: '<a class="skip-link screen-reader-text" href="#content">Skip to
-  content</a> <header data-elementor-type="header" data-elementor-id="22629" class="elementor
+feed_content: '<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+  <header data-elementor-type="header" data-elementor-id="22629" class="elementor
   elementor-22629 elementor-location-header" data-elementor-post-type="elementor_library">
   <a class="elementor-element elementor-element-39dcd8d bar-container e-flex e-con-boxed
   e-con e-parent" data-id="39dcd8d" data-element_type="container" data-settings=''{"background_background":"classic"}''
@@ -211,25 +207,10 @@ original_content: '<a class="skip-link screen-reader-text" href="#content">Skip 
   <a class="elementor-button elementor-button-link elementor-size-sm" href="https://familyworksseattle.org/donate/">
   <span class="elementor-button-content-wrapper"> <span class="elementor-button-text">Donate</span>
   </span> </a> </div> </div> </div> </div> </div> </div> </section> </div>'
-original_markdown_body: 'Skip to content      Our Wallingford Food Bank has moved
-  to a temporary location. Learn more →               Calendar     Contact        Instagram     Facebook     Youtube     Linkedin                   Volunteer           Donate                   «
-  All Events    Event Series:    Spanish Playgroup (Kaleidoscope Play & Learn Group)    Spanish
-  Playgroup (Kaleidoscope Play & Learn Group)   December 16 @ 10:00 am - 11:30 am     Inviting
-  all children 0-5 and their caregivers to join us for 1.5 hours of learning through
-  play! Every playgroup has stations with rotating toys and activities, crafts, songs,
-  and storytime, plus snack! This playgroup, a Kaleidoscope Play & Learn Group, is
-  led in Spanish, but you don’t have to speak Spanish to participate! We’ll be hosting
-  playgroups at our new Family Resource Center at Cedar Crossing in Roosevelt (1005
-  NE 67th St, Seattle, WA 98103). Drop-ins are welcome, and registration is not required.
-  If you have any questions, please email Gladys Martinez at [email protected].         Google
-  Calendar     iCalendar     Outlook 365     Outlook Live           Details    Date:   December
-  16     Time:   10:00 am - 11:30 am    Series:    Spanish Playgroup (Kaleidoscope
-  Play & Learn Group)    Event Category: Family Resource Center     Organizer   FamilyWorks    Phone   (206)
-  647-1770         Venue    Family Resource Center     1005 NE 67th St Seattle, WA
-  98115 United States  + Google Map    Phone  (206) 647-1790       Related Events    Family
-  Resource Center Drop-In Hours December 5 @ 11:00 am - 2:00 pm     Spanish Playgroup
-  (Kaleidoscope Play & Learn Group) December 9 @ 10:00 am - 11:30 am     Family Resource
-  Center Drop-In Hours December 10 @ 2:00 pm - 5:00 pm              Search for:         Search                       Search            Volunteer           Donate'
+images: []
+location: Family Resource Center, 1005 NE 67th St, Seattle, WA, 98115, United States
+locations:
+- King County
 source: FamilyWorks Seattle
 source_url: https://www.familyworksseattle.org/event/spanish-playgroup-kaleidoscope-play-learn-group-3/2025-12-16/
 start_date: '2025-12-16T10:00:00-08:00'

@@ -2,10 +2,7 @@
 date: '2025-02-03T06:18:06+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: |-
+feed_content: |-
   For Jasmine, 42, her car had become her home. For more than a year, she lived in her vehicle at a safe parking program in Kirkland, enduring long, cold nights, constant uncertainty, and daily struggles.
 
   One day, she reached out to our Vehicle Outreach Coordinator who supports the safe parking program with case management. Our coordinator met her with warmth and understanding, simply asking, _“What do you need?”_ Jasmine shared her story – she had lost her job unexpectedly, and without a steady income or savings, she could no longer afford rent. With nowhere else to go, she lived in her car.
@@ -17,6 +14,9 @@ original_content: |-
   Jasmine is no longer living in her car; she has a home and she couldn’t be happier!
 
   The post [Jasmine’s Journey Home!](https://sophiaway.org/jasmines-journey-home/) first appeared on [The Sophia Way](https://sophiaway.org).
+images: []
+locations:
+- King County
 source: The Sophia Way
 source_url: https://sophiaway.org/jasmines-journey-home/?utm_source=rss&utm_medium=rss&utm_campaign=jasmines-journey-home
 summarized: true

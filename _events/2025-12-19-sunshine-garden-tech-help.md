@@ -1,10 +1,6 @@
 ---
 end_date: '2025-12-19T14:00:00-08:00'
-images: []
-location: Sunshine Garden, 611 S Lane St, Seattle, WA, 98104
-locations:
-- King County
-original_content: '<div class="fusion-row" style=""> <section id="content" style="float:
+feed_content: '<div class="fusion-row" style=""> <section id="content" style="float:
   left;"> <div id="tribe-events-pg-template"> <div id="tribe-events-content" class="tribe-events-single">
   <p class="tribe-events-back"> <a href="https://cisc-seattle.org/events/"><span>All
   Events</span></a> </p> <div class="tribe-events-series-relationship-single-marker
@@ -144,21 +140,10 @@ original_content: '<div class="fusion-row" style=""> <section id="content" style
   class="tribe-postal-code">98104</span> </span> <a class="tribe-events-gmap" href="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=611+S+Lane+St+Seattle+WA+98104"
   title="Click to view a Google Map" target="_blank" rel="noreferrer noopener">+ Google
   Map</a> </address> </li> </ul> </div> </div> </aside> </div>'
-original_markdown_body: 'All Events    Event Series:    Sunshine Garden: Tech Help        Sunshine
-  Garden: Tech Help   December 19 @ 1:00 pm - 2:00 pm       Looking for help to learn
-  more about your smartphone or tablet? Sunshine Garden Chinese Senior Community Center
-  is offering drop-in technology help each week. Join us to learn how you can stay
-  connected to family and friends, use translation apps, and much more. Please check
-  the Sunshine Garden calendar for the most updated schedule.           Google Calendar     iCalendar     Outlook
-  365     Outlook Live           Related Events      Russian-Speaking Senior Day Program
-  (Bellevue) December 5 @ 9:30 am - 2:00 pm     Sunshine Garden: Tech Help December
-  5 @ 1:00 pm - 2:00 pm     Russian-Speaking Senior Day Program (Bellevue) December
-  9 @ 9:30 am - 2:00 pm       Share This Story, Choose Your Platform!  FacebookXRedditLinkedInWhatsAppTelegramTumblrPinterestVkXingEmail    Event
-  Navigation  Russian-Speaking Senior Day Program (Bellevue) Russian-Speaking Senior
-  Day Program (Bellevue)          Details    Date:   December 19     Time:   1:00
-  pm - 2:00 pm    Series:    Sunshine Garden: Tech Help    Event Category: Older Adult
-  Activities     Organizer   CISC    Phone   206 624 5633     Email   info@cisc-seattle.org         Venue    Sunshine
-  Garden     611 S Lane St Seattle, WA 98104  + Google Map'
+images: []
+location: Sunshine Garden, 611 S Lane St, Seattle, WA, 98104
+locations:
+- King County
 source: Chinese Information & Service Center
 source_url: https://cisc-seattle.org/event/sunshine-garden-tech-help-4/2025-12-19/
 start_date: '2025-12-19T13:00:00-08:00'

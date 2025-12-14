@@ -1,10 +1,6 @@
 ---
 end_date: '2025-12-16T13:00:00-08:00'
-images: []
-location: ''
-locations:
-- King County
-original_content: <div class="site" id="page"> <div id="wrapper-topbar" class="bg-transparent
+feed_content: <div class="site" id="page"> <div id="wrapper-topbar" class="bg-transparent
   text-light"> <div class="container-fluid"> <div class="row"> <div id="topbar-content"
   class="col-12"> <div class="navTop"> <div class="wp-block-columns is-layout-flex
   wp-container-core-columns-is-layout-9d6595d7 wp-block-columns-is-layout-flex"> <div
@@ -51,10 +47,10 @@ original_content: <div class="site" id="page"> <div id="wrapper-topbar" class="b
   <span class="tribe-events-meta-value"> <div class="tribe-events-abbr tribe-events-start-time
   published dtstart" title="2025-12-16"> 12:00 pm - 1:00 pm </div> </span> </li> </ul>
   </div> </div> </div> </div> </section> </div>
-original_markdown_body: 'Login Volunteer DONATE          Skip to content      « All
-  Events  EARLY START Kent   December 16 @ 12:00 pm - 1:00 pm           Google Calendar     iCalendar     Outlook
-  365     Outlook Live           Details    Date:   December 16     Time:   12:00
-  pm - 1:00 pm'
+images: []
+location: ''
+locations:
+- King County
 source: Indian American Community Services
 source_url: https://iacswa.org/event/early-start-kent-48/
 start_date: '2025-12-16T12:00:00-08:00'

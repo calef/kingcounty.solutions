@@ -1,8 +1,6 @@
 ---
 date: '2025-10-13T17:25:41+00:00'
-images: []
-locations: []
-original_content: "<div class=\"et_pb_section et_pb_section_4 blog-post-type et_section_regular\"
+feed_content: "<div class=\"et_pb_section et_pb_section_4 blog-post-type et_section_regular\"
   >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_row
   et_pb_row_11\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4 et_pb_column_16
   \ et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div
@@ -123,45 +121,8 @@ original_content: "<div class=\"et_pb_section et_pb_section_4 blog-post-type et_
   class=\"et_pb_module et_pb_divider_4 et_pb_space et_pb_divider_hidden\"><div class=\"et_pb_divider_internal\"></div></div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n<p>The
   post <a href=\"https://lcsnw.org/2025/10/new-tc-location/\">New office and expansion
   plans in Tri-Cities announced</a> appeared first on <a href=\"https://lcsnw.org\">LCSNW</a>.</p>"
-original_markdown_body: |-
-  # New office and expansion plans in Tri-Cities announced
-
-  **LCSNW is thrilled to announce a major step forward in our mission to support youth and families in the region: we’re expanding and relocating!**
-
-  Tentatively scheduled for late August 2026, the [LCSNW Tri-Cities district](https://lcsnw.org/office/tri-cities/) will consolidate operations from two long-serving facilities into a modern, 38,000-square-foot space designed to better support staff and community needs. The new LCSNW office will be located in the former Amazon building at 7011 W Canal Drive in Kennewick.
-
-  LCSNW has provided mental and behavioral health services to youth across Benton and Franklin Counties for 61 years, and more than half of that time has been operated out of the non-profit’s current offices on Kennewick Avenue and Morain Street in Kennewick. Programs expanded into a new office in Pasco in 2021; however, with a steady stream of referrals, LCSNW programs have outgrown their current Kennewick space.
-
-   ![exterior view of the new office building](https://lcsnw.org/wp-content/uploads/2025/10/current-exterior-2-scaled.jpeg "current exterior 2")
-
-  _Exterior view of the future home of LCSNW in Kennewick. The building (formerly occupied by Amazon) is located at 7011 W Canal Drive and is around the corner from Hobby Lobby in Kennewick._
-
-   ![exterior view of the new office building](https://lcsnw.org/wp-content/uploads/2025/10/web-interior-large-main-1024x576.jpg "web-interior large main")
-
-  _Formerly the home of Amazon, the new LCSNW building in Kennewick will double the nonprofit’s current usable space._
-
-   ![exterior view of the new office building](https://lcsnw.org/wp-content/uploads/2025/10/web-staff-lunch-room-kitchen-1024x576.jpg "web-staff lunch room-kitchen")
-
-  _A staff break/lunchroom and kitchen will be a new and greatly appreciated feature for LCSNW Tri-Cities staff._
-
-   ![exterior view of the new office building](https://lcsnw.org/wp-content/uploads/2025/10/web-conference-room1-1024x576.jpg "web-conference room1")
-
-  _The Canal Drive office building will provide 25 new offices, 8 conference rooms, and 3 staff break rooms._
-
-  > _“This is more than a move—it’s an investment in the future of youth mental health in our community,” says District Director Sharon Gentry. “We’re creating a healing-centered space that will allow us to serve more youth, collaborate more effectively, and grow with the needs of our region.”_
-
-  Currently, LCSNW operates out of two buildings in Kennewick and one office in Pasco. With services spread across multiple buildings and the Kennewick leases expiring next summer, LCSNW is looking for the new Canal Drive location to:
-
-  - Double square footage and usable space
-  - Allow program staff to operate from a single, trauma-informed setting designed for youth and families
-  - Provide space for on-site staff and family events, which current space cannot accommodate
-  - Address longstanding infrastructure upgrades, including HVAC, electrical, safety, and technology
-
-  Renovations on LCSNW’s new Canal Drive location are expected to begin in November 2025, with staff move-in tentatively scheduled for August 2026. In addition to applying for grant funding, LCSNW is seeking community support to help fund this project and create a space that meets the urgent mental health needs of our youth — today and for generations to come. Those interested in learning more are encouraged to contact Regional Advancement Manager, Amy Marinoni, at amarinoni@lcsnw.org.
-
-  &nbsp;
-
-  The post [New office and expansion plans in Tri-Cities announced](https://lcsnw.org/2025/10/new-tc-location/) appeared first on [LCSNW](https://lcsnw.org).
+images: []
+locations: []
 published: false
 source: Lutheran Community Services Northwest
 source_url: https://lcsnw.org/2025/10/new-tc-location/

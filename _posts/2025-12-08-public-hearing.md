@@ -1,16 +1,12 @@
 ---
 date: '2025-12-08T16:15:15+00:00'
-images: []
-locations: []
-original_content: "<div>\n  \n      \n    <span>12/15/2025 - 6:00am</span>\n      </div>\n\n<div>\n
+feed_content: "<div>\n  \n      \n    <span>12/15/2025 - 6:00am</span>\n      </div>\n\n<div>\n
   \ \n      \n    <p>Notice of Public Hearing - The Villages Master Planned Development
   (MPD) - Major Amendment to the MPD Permit and Development Agreement.  Public Hearing
   will be held on December 15, 2025, at 6 p.m.</p>\n      </div>"
-original_content_checksum: eb6f84caf15918387d588c6f4cfc22f50cd3e6db
-original_markdown_body: |-
-  12/15/2025 - 6:00am
-
-  Notice of Public Hearing - The Villages Master Planned Development (MPD) - Major Amendment to the MPD Permit and Development Agreement.&nbsp; Public Hearing will be held on December 15, 2025, at 6 p.m.
+feed_content_checksum: eb6f84caf15918387d588c6f4cfc22f50cd3e6db
+images: []
+locations: []
 published: false
 source: City of Black Diamond
 source_url: https://www.blackdiamondwa.gov/home/events/27081

@@ -2,11 +2,8 @@
 date: '2025-10-31T18:53:46+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: '<p class="">Find your way to additional food resources throughout
-  the Seattle area with our list of resources, meals, and community fridges. <span><strong>If
+feed_content: '<p class="">Find your way to additional food resources throughout the
+  Seattle area with our list of resources, meals, and community fridges. <span><strong>If
   transportation is a barrier to accessing these resources, please reach out to a
   staff member about accessing bus tickets. </strong></span></p><h2>Resources to find
   food support </h2><ul data-rte-list="default"><li><p class=""><a href="https://www.seattle.gov/human-services/services-and-programs/food-resources">Seattle
@@ -199,128 +196,9 @@ original_content: '<p class="">Find your way to additional food resources throug
   Tea - Wallingford</p><ul data-rte-list="default"><li><p class="">Community pantry;
   take what you need and leave what you can // <a href="https://www.instagram.com/reel/DQYYIJNDqdG/?utm_source=ig_web_copy_link"
   target="_blank">More Information</a> </p></li></ul>'
-original_markdown_body: "Find your way to additional food resources throughout the
-  Seattle area with our list of resources, meals, and community fridges. **If transportation
-  is a barrier to accessing these resources, please reach out to a staff member about
-  accessing bus tickets.**\n\n## Resources to find food support \n\n- [Seattle Human
-  Services Website \\>\\>](https://www.seattle.gov/human-services/services-and-programs/food-resources)\n\n-
-  [King County – Find a Food Bank/Pantry \\>\\>](https://find-human-services.kingcounty.gov/search?query=BD-1800.2000&query_label=Food%20Pantries%2FBanks&query_type=taxonomy)\n\n-
-  [Ingersoll Gender Center: Resource and Referral Database for Food Assistance and
-  Mutal Aid \\>\\>](https://ingersollgendercenter.org/resourcedatabase-food/)\n\n-
-  [Food Lifeline – Find a Food Bank \\>\\>](https://foodlifeline.org/find-food?t-location-type=community-gardens)\n\n-
-  [Seattle Food Committee – Find a Food Bank \\>\\>](https://www.seattlefoodcommittee.org/find-a-food-bank/)\n\n-
-  [Hunger Free Washington – Find a Food Bank \\>\\>](https://www.hungerfreewa.org/foodbanks)\n\n-
-  [FamilyWorks Programs \\>\\>](https://www.familyworksseattle.org/programs/)\n\n-
-  [Seattle Community Refrigerators \\>\\>](https://www.google.com/maps/d/u/0/viewer?mid=1tvJjJGleyZ_qcX0PhlUPRlJfs0zEapE&ll=47.6036892598734%2C-122.31432295&z=12)\n\n-
-  [Community Dinners \\>\\>](https://www.communitydinners.com/gatherings/) \n\n##
-  [Interactive Map \\>\\>  \n ](https://maps.app.goo.gl/soTduTc6o8QZ6HCf6)\n\n&nbsp;\n\n##
-  MEALS \n\nToasted\n\n- Starting November 1st \n\n- “Can I put this on my neighbor’s
-  tab” to cover meals\n\n- [https://toastedseattle.com/](https://toastedseattle.com/)
-  &nbsp;\n\nSabine’s Back Bar\n\n- One-day event: November 2nd \n\n- Free food and
-  coffee for all \n\n- Community resources \n\n- Food drives for local food banks\n\n-
-  [https://www.sabineseattle.com/events](https://www.sabineseattle.com/events) &nbsp;\n\nPhinney
-  Neighborhood Association – St. John Church   \n 5515 Phinney Ave N\n\n- Accessible
-  by bus route 5 \n\nRoots – Chapel on the Ave  \n 4130 University Wy NE\n\n- Friday
-  Feast is an all-ages meal every Friday. Open to anyone in the community who would
-  like to pick up a meal.\n\n- Accessible by bus routes 44, 48, 49, 70, 271, 372,
-  542, 556 \n\nNorthwest Share Food Truck  \n 5034 University Way NE\n\n- Wednesdays,
-  Thursdays, Fridays, Saturdays, Sundays from 6:30-8 pm \n\n- Healthy, vegetarian
-  and vegan cuisine \n\n- Accessible by bus routes 45, 48 \n\n- [https://www.freefoodtruck.com/](https://www.freefoodtruck.com/)
-  \n\nChuMinh Tofu  \n 1043 Jackson St\n\n- Sundays from 10:30-12:15 pm \n\n- Free
-  hot, vegan meals and survival supplies \n\n- Distributed each Sunday from 10:30
-  am – 12:15 pm \n\n- Accessible by bus routes 1, 7, 14, 36, 60, 106 \n\n- [https://chuminhtofu.com/menu?utm\\_source=menu](https://chuminhtofu.com/menu?utm_source=menu)
-  \n\nFood Not Bombs – Occidental Square\n\n- Saturdays and Sundays from 5-6 pm \n\n-
-  Under the glass shelter \n\n- Served on Saturdays from 5-6 pm &nbsp;\n\n- Accessible
-  by bus routes 11, 212, 218, 550, 554, E line & 0.2 miles from the Pioneer Square
-  Light Rail Station \n\n- [https://seattlefoodnotbombs.org/](https://seattlefoodnotbombs.org/)
-  \n\nOperation Sack Lunch Serves – Compass Housing\n\n- Serves on \n\n- Secure, anonymous,
-  no barrier, non-denominational, all inclusive \n\n- Vegetarian, diabetic friendly,
-  pork free, shellfish free, tree nut, peanut, and gluten free meal options \n\n-
-  Accessible by bus routes 21, 56, 57, 113, 125, C line, H line \n\nCommunity Lunch
-  on Capitol Hill – All Pilgrims Christian Church\n\n- Free breakfast and lunch Monday
-  through Friday\n\n- Meals are open to all, no sign-in required\n\n- [https://www.communitylunch.org/](https://www.communitylunch.org/)
-  \n\nLenoxwa&nbsp;  \n2510 1st Ave\n\n- Pick up available Wednesday through Sunday
-  from 4:30pm-7:30pm&nbsp;\n\n- Place order ahead of time by filling out the reservation
-  form \n\n- Email for any questions: [Info@lenoxwa.com](mailto:Info@lenoxwa.com)&nbsp;\n\n-
-  [More Information](https://www.instagram.com/p/DQnZJ5UAWzS/) &nbsp;\n\nLuv-a-Latte
-  Espresso&nbsp;  \n[1102 South Yakima Ave Tacoma, WA](https://maps.google.com/?daddr=47.2523281,-122.4475292)\n\n-
-  Ask owner for support to access free food and coffee&nbsp;\n\n- Open Monday through
-  Friday 7 am - 3 pm and Saturdays 10 am - 3 pm\n\n- [More Information](https://www.instagram.com/p/DQfmMtAgQxf/)
-  \n\nTaco City (Columbia City)&nbsp;  \n5212 Rainier Avenue South\n\n- All kids (12
-  & under) eat free during month of November with the purchase of an adult entrée&nbsp;\n\n-
-  Present your SNAP card + ID at the register&nbsp; &nbsp;\n\n- Open Monday - Friday
-  11 am - 9 pm and Weekends 10 am - 9 pm\n\n- [More Information](https://www.instagram.com/p/DQZwXM6Eh0q/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)&nbsp;\n\nSeattle
-  Bagel Oasis   \n2112 NE 65th St.\n\n- Come in or call (206) 526-0525 and ask for
-  a manager, they will help you order\n\n- Contact bageloasismanager@gmail.com for
-  more information\n\n- [Learn more here](https://www.instagram.com/p/DQZiNaIiYOb/)\n\nCocoa
-  Legato   \n8420 Greenwood Ave N\n\n- Offering a SNAP menu that includes a free pastry,
-  coffee, or food item on the house \n\n- Tuesday – Sunday 8 am - 6 pm\n\n- [More
-  Information](https://www.instagram.com/p/DQcWbY3kj_R/)\n\nFriday Feast   \n4130
-  University Wy NE\n\n- A free hot meal every Friday from 4:30 to 7:00 p.m.&nbsp;\n\n-
-  [https://www.fridayfeast.org/](https://www.fridayfeast.org/) \n\nAlexandra’s Macarons
-  \  \n1410 18th Ave\n\n- Free food for community members losing their SNAP benefits
-  // [More Information](https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.instagram.com%2Fp%2FDQcGl-zCTmN%2F%3Fhl%3Den%26img_index%3D1&data=05%7C02%7Czara.teger%40rvfb.org%7C9b2e861f486a4d1636b208de1b371d79%7C32596e9920824466b342b6bac7d3e398%7C0%7C0%7C638978122460981256%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=crYWIEMXRZRRHv9ozvoNFVW%2BNCawAIX7sXKDxMey0hM%3D&reserved=0)\n\nConscious
-  Eatery   \n5620 6th Ave S\n\n- Free meal for those in need due to government shutdown
-  // [More Information](https://www.instagram.com/p/DQermF8j2xX/)\n\nThe Couth Buzzard
-  \ \n8310 Greenwood Ave N\n\n- Pay what you can for all food and baked goods // [More
-  Information](https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.instagram.com%2Fp%2FDQhUkoRiVM5%2F%3Figsh%3DZGdtYjI0dG12MXJ0&data=05%7C02%7Czara.teger%40rvfb.org%7C9b2e861f486a4d1636b208de1b371d79%7C32596e9920824466b342b6bac7d3e398%7C0%7C0%7C638978122461035846%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=eIrb4yJqmW%2BRB7LA9cme8RReABWleyKi09VwX55Vw80%3D&reserved=0)\n\nFalafel
-  Salam   \n4746 California Ave SW\n\n- Offering free “Family Meals” to anyone in
-  need — no questions asked // [More Information](https://www.instagram.com/p/DQe_X4MEjR3/)\n\nLil
-  Woody’s   \nNeighborhoods: Ballard, Capitol Hill, White Center, Green Lake\n\n-
-  Free burger for community members losing SNAP benefits // [More Information](https://www.instagram.com/p/DQfdsOJkv2E/?utm_source=ig_web_copy_link)\n\nLune
-  Cafe  \nNeighborhoods: Auburn, Lakewood, Pioneer Square, Tacoma, U District&nbsp;\n\n-
-  Free coffees and pastries for community members losing their SNAP benefits // [More
-  Information](https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.instagram.com%2Fp%2FDQfl5kIAb9W%2F%3Figsh%3DOG9vbHB0MzNkbDcw&data=05%7C02%7Czara.teger%40rvfb.org%7C9b2e861f486a4d1636b208de1b371d79%7C32596e9920824466b342b6bac7d3e398%7C0%7C0%7C638978122461125753%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=0y%2BlgorIvcMkiY%2BlJ%2FWXidK%2FLAidxGlbUucGpYesHQ0%3D&reserved=0)&nbsp;\n\nNielsen
-  Pastries  \n520 2nd Ave W. Suite A\n\n- Free breakfast to anyone in need \n\n- Open
-  Monday - Saturday 8 am - 2 pm\n\n- [More Information](https://www.instagram.com/p/DQZd4QCEYZY/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)\n\nRadnor’s
-  \  \n5415 South Tacoma Way, Tacoma, WA\n\n- Free lunch or dinner for community members
-  losing their SNAP benefits\n\n- Mention to the staff “Can I put this on my neighbors
-  tab” // [More Information](https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.instagram.com%2Fp%2FDQcfNr7kstl%2F%3Figsh%3DeWY5b2RzbHU5eWZ3&data=05%7C02%7Czara.teger%40rvfb.org%7C9b2e861f486a4d1636b208de1b371d79%7C32596e9920824466b342b6bac7d3e398%7C0%7C0%7C638978122461171486%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=O2814iILDHV9etKd8Wsy6wvG8YvSYxvne6ekvfwSzQQ%3D&reserved=0)\n\nHowdy
-  Bagel   \n5421 S Tacoma Way, Tacoma, WA\n\n- Offering free sandwiches and bagels
-  to those whose SNAP benefits are being taken away // [More Information](https://www.instagram.com/p/DQdDXDAgVm2/?utm_source=ig_web_copy_link)\n\nSalima
-  Specialties   \n11805 Renton Ave S\n\n- Free meal Fridays – Pickup between 10:00
-  am – 12:00 pm // [More Information](https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.instagram.com%2Fp%2FDQhteYfEnJE%2F%3Figsh%3DMWxkNmdqd3B0azdhNA%253D%253D&data=05%7C02%7Czara.teger%40rvfb.org%7C9b2e861f486a4d1636b208de1b371d79%7C32596e9920824466b342b6bac7d3e398%7C0%7C0%7C638978122461217169%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=GtPRUAiG%2FetS8YKhNkYgh9fP1T5JrA6O9EbH%2F0g1Z%2Fo%3D&reserved=0)&nbsp;\n\nSpark
-  Pizza  \n8110 164th Ave NE, Redmond, WA\n\n- Anyone in need can order the “Community
-  Special” – Free pizza, no questions asked // [More Information](https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.instagram.com%2Fp%2FDQheaqNEt9C%2F%3Figsh%3DMXBmYmhhMGMwY3JjNQ%253D%253D&data=05%7C02%7Czara.teger%40rvfb.org%7C9b2e861f486a4d1636b208de1b371d79%7C32596e9920824466b342b6bac7d3e398%7C0%7C0%7C638978122461238135%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=PUZPsct%2BY%2B96b%2BYRuVeAbyQt23BA5XRuNWBY9iLH4QI%3D&reserved=0)&nbsp;\n\nThe
-  Station   \nNeighborhoods: Beacon Hill and Columbia City&nbsp;\n\n- Community Card
-  // [More Information](https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.instagram.com%2Freel%2FDQX5WyGgeQP%2F%3Figsh%3DZ2JvYno0bnpqaHhr&data=05%7C02%7Czara.teger%40rvfb.org%7C9b2e861f486a4d1636b208de1b371d79%7C32596e9920824466b342b6bac7d3e398%7C0%7C0%7C638978122461258713%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=LAiQJkS%2B3UFeE%2BsRDYQTcWrXaF8yd5PhZY4Cl7wz4EY%3D&reserved=0)&nbsp;\n\nTibbits
-  @ Fern Hill   \n8237 S Park Ave, Tacoma, WA\n\n- Free hot breakfasts on Thursdays
-  from 10:00 AM – 12:00 PM // [More Information](https://www.instagram.com/p/DQb98vQEYkB/?utm_source=ig_web_copy_link)\n\nTJ’s
-  Street Tacos  \n129 Belmont Ave E.\n\n- Free food for community members losing SNAP
-  benefits // [More Information](https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.instagram.com%2Freel%2FDQiH0roAS2b%2F%3Figsh%3DMTRtbGhkbHk3NmZ6cQ%253D%253D&data=05%7C02%7Czara.teger%40rvfb.org%7C9b2e861f486a4d1636b208de1b371d79%7C32596e9920824466b342b6bac7d3e398%7C0%7C0%7C638978122461311927%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=VXFTxpeJFzxkiTmN0rz3pD5B8JH0teLS9la70T3e%2BZg%3D&reserved=0)&nbsp;\n\nTwede’s
-  Cafe   \n137 W North Bend Way, North Bend, WA\n\n- Free kid’s meals for kids 12
-  and under, and 20% discount to families receiving SNAP \n\n- [More Information](https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.instagram.com%2Fp%2FDQZ-dTCEmWg%2F%3Figsh%3DMWo3dGhqaTgxZnRibA%3D%3D&data=05%7C02%7Czara.teger%40rvfb.org%7C9b2e861f486a4d1636b208de1b371d79%7C32596e9920824466b342b6bac7d3e398%7C0%7C0%7C638978122461336422%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=LfQeFbq44c9eSiCn7rrScmUKx0manNp9zad4AVyqON4%3D&reserved=0)&nbsp;\n\nYaygit
-  \  \n5309 22nd Ave NW, Suite D\n\n- Free food for those community members losing
-  SNAP benefits (allergy friendly) // [More Information](https://nam11.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.instagram.com%2Freel%2FDQhUvjCCa20%2F%3Figsh%3DMWg4bXM4cDIybzU1Mg%3D%3D&data=05%7C02%7Czara.teger%40rvfb.org%7C9b2e861f486a4d1636b208de1b371d79%7C32596e9920824466b342b6bac7d3e398%7C0%7C0%7C638978122461360449%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=2e2ZpL%2F1gs9zBpL3bXHvHLlB1a2pu2IAnCaOHxiONo0%3D&reserved=0)&nbsp;\n\nZax
-  Eat 'N Three   \n7815 Aurora Ave N\n\n- Free food pantry and hot meal vouchers //
-  [More Information](https://www.instagram.com/p/DQkj-uFkjBK/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)\n\n##
-  Pantries & Community Fridges \n\nCapitol Hill – St. Joseph Community Fridge &nbsp;
-  \ \n 745 19th Ave E, Seattle, WA 98112\n\n- Full sized fridge and pantry \n\n- Located
-  at 19th and Aloha on the southwest corner, tucked behind the bus stop \n\n- Accessible
-  by bus route 12 \n\nLGBTQ+ Center   \n 400 E Pine St, Seattle, WA 98122\n\n- Indoors
-  and only available when the center is open \n\n- Accessible by bus routes 3, 10,
-  11, 12, 49 \n\nEstelita’s Library   \n 241 Martin Luther King Jr Way S, Seattle,
-  WA\n\n- Full-sized fridge with small pantry \n\n- Accessible by bus routes 8, 14
-  \n\nBurien – 12027 10th Ave S, Seattle, WA 98168\n\n- About 1 mile away from bus
-  routes 128, 132 \n\nPhinney Ridge – Woodland Park Presbyterian   \n 225 N 70th St,
-  Seattle, WA 98103\n\n- Full-sized fridge and medium pantry \n\n- On the corner of
-  Greenwood and 70th \n\n- Accessible by bus route 5\n\nDunlap/Rainier Beach – in
-  alley   \n 48th Ave S & S Thistle St, Seattle, WA 98118\n\n- Full-sized fridge with
-  large pantry \n\n- Contains a public telephone and free WiFi\n\n- Looks like an
-  alley, but it’s a street \n\n- Accessible by bus routes 7, 9\n\nNorth Beacon Hill
-  – Queer the Land   \n 1307 13th Ave S, Seattle, WA 98144\n\n- Mini fridge and very
-  small pantry \n\nFree Community Food Market – Colored Girls Garden Club&nbsp;  \n9254
-  57th Ave S\n\n- Thursdays from 1-3pm&nbsp;\n\n- Saturdays from 12-3pm&nbsp;\n\n-
-  Bring your own bag and a mask&nbsp;\n\n- Accessible on bus route 7&nbsp;\n\n- [More
-  Information](https://www.facebook.com/p/Colored-Girls-Garden-Club-100070119225455/)
-  \n\nSeattle Neighborhood Farmers Markets&nbsp;&nbsp;\n\n- Show your SNAP card to
-  staff at the manager tent and receive $20 in Farm Bucks to spend at these markets&nbsp;\n\n-
-  [More Information](https://www.instagram.com/p/DQf2q0gCbiq/)&nbsp;&nbsp;\n\nRootstock
-  NW\n\n- Fresh local groceries delivered throughout King County // [More Information](https://rootstocknw.org/)
-  \n\nSweet Alchemy   \n4301 University Way NE\n\n- Community pantry and warm clothing
-  items&nbsp;// [More Information](https://www.instagram.com/reel/DQVjjNQkWol/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
-  \n\nFriday Afternoon Tea - Wallingford\n\n- Community pantry; take what you need
-  and leave what you can // [More Information](https://www.instagram.com/reel/DQYYIJNDqdG/?utm_source=ig_web_copy_link)"
+images: []
+locations:
+- King County
 source: Rainier Valley Food Bank
 source_url: https://www.rvfb.org/blog/finding-additional-food-resources-in-seattle
 summarized: true

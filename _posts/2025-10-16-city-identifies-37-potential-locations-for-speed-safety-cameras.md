@@ -1,8 +1,6 @@
 ---
 date: '2025-10-16T17:13:37+00:00'
-images: []
-locations: []
-original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">City
+feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">City
   identifies 37 potential locations for speed safety cameras</span>\n<span class=\"field
   field--name-uid field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"
   typeof=\"schema:Person\" property=\"schema:name\" datatype>CIosso</span></span>\n<span
@@ -69,39 +67,8 @@ original_content: "<span class=\"field field--name-title field--type-string fiel
   citations are issued.</p></div>\n      \n\n            <div class=\"field field--name-field-article-date
   field--type-datetime field--label-hidden field__item\"><time datetime=\"2025-10-16T12:00:00Z\"
   class=\"datetime\">October 16 2025</time>\n</div>\n      \n    </div>\n  </div>"
-original_markdown_body: |-
-  City identifies 37 potential locations for speed safety camerasCIosso<time datetime="2025-10-16T10:13:37-07:00" title="Thursday, October 16, 2025 - 10:13" class="datetime">Thu, 10/16/2025 - 10:13</time>
-
-   ![Cars and pedestrians cross an intersection in downtown Bellevue at night.](https://bellevuewa.gov/sites/default/files/styles/article_featured_image/public/media/article_featured_image/2025-10/speed-safety-camera-downtown.jpg?h=48f6ef61&itok=yXo4c8fw)
-
-  Council to consider camera sites and code changes this winter
-
-  The City of Bellevue has identified 37 potential locations for new speed safety cameras as part of its ongoing efforts to reduce crashes and improve safety on city streets. The proposed sites will be presented to the City Council this winter, along with recommended city code changes to support expanded camera enforcement.
-
-  The [proposed camera locations map](https://gcc02.safelinks.protection.outlook.com/?url=https%3A%2F%2Farcg.is%2FjLOuG0&data=05%7C02%7CLMilstead%40bellevuewa.gov%7C12ba1726f49d4d9cb57708de0c3470b1%7C222d2edd825545bd859752141b82f713%7C0%7C0%7C638961616553945160%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C0%7C%7C%7C&sdata=HkTY6a7AruwgnceQ1yXrMvq81ir9oW25S0tYhQPJ8Ic%3D&reserved=0) and evaluation criteria used for selection are available at [Speed Safety Cameras](https://bellevuewa.gov/speed-safety-cameras "Speed Safety Cameras").&nbsp;Registration is now open on the webpage for two information sessions about the site selection process on Tuesday, Oct. 28, 12–1 p.m., and Thursday, Oct. 30, 6–7 p.m.&nbsp;
-
-  Community members are invited to review the proposed locations and share feedback in a&nbsp;[brief survey](https://www.surveymonkey.com/r/JHFF6Q7)&nbsp;available through Nov. 30. Earlier this summer, community members shared their priorities for additional safety cameras through surveys, emails and conversations with staff at events. Common themes included:
-
-  - Speeding is a serious safety concern, and cameras are viewed as an effective tool to address it.
-  - Top priority areas for placement include streets with severe crashes, street-racing hot spots and school zones.
-  - Cameras should be accurate, effective and protect personal privacy. &nbsp;
-
-  With the proposed locations identified, the city is finalizing an operations guide for the Speed Safety Camera program, which outlines how Bellevue will administer the expanded program and reinvest citation revenue into safety improvements. The guide emphasizes safety, equity and fairness, including:
-
-  - Cameras located on streets with the highest speeding-related crashes and systemic safety risks
-  - Fines set intentionally lower than standard tickets to encourage compliance without causing financial hardship
-  - Cameras distributed citywide so no single neighborhood is disproportionately affected
-  - A 50% fine reduction available to individuals receiving public assistance or participating in the Washington WIC program, if requested within 21 days.
-
-  Launched in 2009, the Speed Safety Camera Program is one strategy in Bellevue’s [Vision Zero initiative](https://bellevuewa.gov/city-government/departments/transportation/safety-and-maintenance/traffic-safety/vision-zero "Vision Zero"), which aims to eliminate traffic deaths and serious injuries on city streets by 2030. In 2024, the state Legislature authorized local governments to install automated speed enforcement cameras not only in school zones, but also in hospital zones, public parks, school walk areas and high-crash corridors.
-
-  “Speed remains a top contributing factor in serious and fatal collisions,” said Andrew Singelakis, Bellevue’s Transportation director. “By identifying strategic locations for speed safety cameras, we’re taking a proactive step to protect people walking, biking and driving in Bellevue.”
-
-  Pending City Council approval in December, the city could begin phased installation of a limited number of cameras in mid-2026. This approach will allow the city to evaluate program effectiveness, raise community awareness and confirm operational capacity.
-
-  Before any cameras are installed, the city will launch a public awareness campaign and host additional community engagement opportunities. Each camera will also include a minimum 30-day warning period before citations are issued.
-
-  <time datetime="2025-10-16T12:00:00Z" class="datetime">October 16 2025</time>
+images: []
+locations: []
 published: false
 source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/speed-camera-locations

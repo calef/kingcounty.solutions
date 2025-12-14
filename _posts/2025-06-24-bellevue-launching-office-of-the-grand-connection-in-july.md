@@ -1,8 +1,6 @@
 ---
 date: '2025-06-24T22:03:57+00:00'
-images: []
-locations: []
-original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Bellevue
+feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Bellevue
   launching Office of the Grand Connection in July </span>\n<span class=\"field field--name-uid
   field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/mdegrand\"
   typeof=\"schema:Person\" property=\"schema:name\" datatype>MDeGrand</span></span>\n<span
@@ -83,36 +81,8 @@ original_content: "<span class=\"field field--name-title field--type-string fiel
   \     \n\n            <div class=\"field field--name-field-article-date field--type-datetime
   field--label-hidden field__item\"><time datetime=\"2025-06-24T12:00:00Z\" class=\"datetime\">June
   24 2025</time>\n</div>\n      \n    </div>\n  </div>"
-original_markdown_body: |-
-  Bellevue launching Office of the Grand Connection in July MDeGrand<time datetime="2025-06-24T15:03:57-07:00" title="Tuesday, June 24, 2025 - 15:03" class="datetime">Tue, 06/24/2025 - 15:03</time>
-
-   ![A glowing yellow line indicates the Grand Connection corridor through downtown.](https://bellevuewa.gov/sites/default/files/styles/article_featured_image/public/media/article_featured_image/2024-03/Grand%20Connection%20Overlay.jpg?h=91df2c66&itok=ryEBTWAY)
-
-  Centralized staff team includes newly hired director to streamline decision-making and advance I-405 crossing component
-
-  The City of Bellevue is officially launching an Office of the Grand Connection July 16, equipping itself to fully activate the city’s main pedestrian corridor through downtown and move beyond 30% design on the Grand Connection Crossing, the critical car-free connection over Interstate 405 to Eastrail in the Wilburton neighborhood. The new, centralized office will encompass all management elements of Bellevue’s Grand Connection program and will be led by Nathan Torgelson, a seasoned regional leader in land use, permitting and urban planning.
-
-   ![Nathan Torgelson joins City of Bellevue](https://bellevuewa.gov/sites/default/files/styles/medium_260_260/public/inline-images/2025-06/n.torgelson.jpg?itok=_dN91ZJS)
-
-  Torgelson starts with the city June 30 and will lead the Office of the Grand Connection as its director, reporting directly to City Manager Diane Carlson. Torgelson will be the most visible spokesperson for the program and brings more than 30 years of experience in regional local government leadership, land use policy development and project management, economic development and real estate agreements. He has served as a senior leader in the cities of Seattle and Kent, and helped oversee key components of complex construction programs including South Lake Union, Kent Station and the Seattle Waterfront.
-
-  The signature program element is the Grand Connection Crossing over I-405, which will influence the land use patterns of the Wilburton commercial area and improve connectivity to the Bellevue’s downtown core. The crossing achieved its early design milestone, completion of 30% design, in December.
-
-  The Office of the Grand Connection includes a core team of staff who are currently in multiple departments and will move to a centralized office model, facilitating decision-making, project oversight and stakeholder communication. Bellevue is also hiring consulting firm HNTB in an owner’s representative capacity to help prepare materials for state committee consideration so final design can advance upon state approval. The City Council is scheduled to receive its next Grand Connection update on July 22, where project updates and funding options will be reviewed.
-
-  The council has consistently advanced the Grand Connection program vision, including it in their priorities since 2014. Significant work has taken place since that time, including the preliminary design work of the crossing and place-making and space activation work with the Bellevue Downtown Association. Further development, such as installation of public art along the Grand Connection – including Piloti in Downtown Park – raised intersections at the transit center, and expansion of Meydenbauer Bay Park also occurred to support the Grand Connection vision.
-
-  “The Grand Connection program represents Bellevue’s ability to innovate, partner and transform public spaces,” said City Manager Diane Carlson. “And we are thrilled Nathan Torgelson is joining this team to help us build an iconic corridor that will attract businesses, visitors and locals to our vibrant city.”
-
-  “It is an honor and great opportunity to join this team as the vision of the Grand Connection takes shape to create a generational advancement in how people interact with and move through Bellevue,” said Torgelson.
-
-  The Grand Connection is Bellevue’s signature downtown place-making initiative. This program functions as a series of cohesive, connected and memorable spaces and pedestrian-focused experiences and initiatives through Bellevue’s thriving central business district. With a length of more than 1.5 miles, the Grand Connection begins at the waterfront of Lake Washington at Meydenbauer Bay Park, and winds through Old Bellevue and Downtown Park. It continues through Bellevue’s dynamic retail and civic-focused parts of downtown, across I-405 and ultimately connects with the regional Eastrail in the Wilburton commercial area.
-
-  The areas of expertise and focus among the Grand Connection Office staff include land use and real estate planning and coordination with developers, public space activation and placemaking, public-private partnerships and stakeholder relations and communication, engineering and infrastructure delivery, program management and execution, and fiscal strategy and financing tools.
-
-  More information is available at [Bellevue Grand Connection](https://www.bellevuegrandconnection.com/ "Link to city website").
-
-  <time datetime="2025-06-24T12:00:00Z" class="datetime">June 24 2025</time>
+images: []
+locations: []
 published: false
 source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/bellevue-launching-office-grand-connection-july

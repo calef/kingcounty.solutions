@@ -1,10 +1,6 @@
 ---
 end_date: '2025-12-16T19:30:00-08:00'
-images: []
-location: El Centro de la Raza, 2524 16th Ave S, Seattle, WA, 98144, United States
-locations:
-- King County
-original_content: "<article><div><section> <div> <p> <a> « All Events</a></p> <h1>Herramientas
+feed_content: "<article><div><section> <div> <p> <a> « All Events</a></p> <h1>Herramientas
   Digitales/ Digital Skills for Life</h1> <div> <div> <span>December 16 @ 5:30 pm</span>
   - <span>7:30 pm</span> </div> <div> <span> Event Series </span> <a> <span> (See
   All) </span> </a> </div> <span>Free</span> </div> <div> <div> <p>\U0001F342✨ ¡Celebra
@@ -40,30 +36,11 @@ original_content: "<article><div><section> <div> <p> <a> « All Events</a></p> <
   </li> <li> <div> <h3><a>Kaleidoscope Play and Learn (Evento en Español)</a></h3>
   <span>December 17 @ 10:30 am</span> - <span>12:30 pm</span> </div> </li> </ul> </div>
   </div> </section></div></article>"
-original_content_checksum: 6573ee5249b253dd812482a4e9f96f875caf43ae
-original_markdown_body: "« All Events Herramientas Digitales/ Digital Skills for Life
-  \  December 16 @ 5:30 pm - 7:30 pm    Event Series    (See All)    Free    \U0001F342✨
-  ¡Celebra la temporada de otoño aprendiendo nuevas HERRAMIENTAS DIGITALES! ✨\U0001F341
-  El otoño es tiempo de cambio, crecimiento y nuevas oportunidades \U0001F33B. Únete
-  a nuestro entrenamiento GRATUITO ofrecido por El Centro de la Raza – Business Opportunity
-  Center y aprende a usar herramientas digitales que te ayudarán en tu vida diaria
-  y tu negocio. \U0001F4BB\U0001F4F2 \U0001F4C5 Fechas: del 28 de octubre al 20 de
-  noviembre \U0001F560 Horario: 5:30 PM – 7:30 PM \U0001F4CD 2 veces por semana (martes
-  y jueves) \U0001F4DE Para registrarte, mándanos un mensaje aquí en Facebook o comunícate
-  con: \U0001F4E7 Yadira Alvarez – 206-957-4620 – yadalvarez@elcentrodelaraza.org
-  \U0001F4E7 Luis Jaimez – 206-833-2986 – ljocampo@elcentrodelaraza.org \U0001F4E3
-  ¡No te pierdas esta oportunidad de aprender, conectar y crecer con tu comunidad
-  este otoño! #ElCentroDeLaRaza #HerramientasDigitales #EntrenamientoGratis #BusinessOpportunityCenter
-  #ComunidadLatina #FallSeason #OtoñoDigital      Google Calendar     iCalendar     Outlook
-  365     Outlook Live        Details   Date:   December 16     Time: 5:30 pm - 7:30
-  pm   Series:   Herramientas Digitales/ Digital Skills for Life    Cost:  Free    Event
-  Category: Small Business Services   Event Tags:Business, Latino   Website:  www.facebook.com/ecdlrboc/
-  \     Organizer  Business Opportunity Center       Venue   El Centro de la Raza
-  \    2524 16th Ave S Seattle, WA 98144 United States  + Google Map       Related
-  Events    Digital Skills for Life/ Herramientas Digitales December 16 @ 5:30 pm
-  - 7:30 pm     Latin@s in Business/ Latin@s en Negocios December 16 @ 5:30 pm - 7:30
-  pm     Kaleidoscope Play and Learn (Evento en Español) December 17 @ 10:30 am -
-  12:30 pm"
+feed_content_checksum: 6573ee5249b253dd812482a4e9f96f875caf43ae
+images: []
+location: El Centro de la Raza, 2524 16th Ave S, Seattle, WA, 98144, United States
+locations:
+- King County
 source: El Centro de la Raza
 source_url: https://www.elcentrodelaraza.org/event/herramientas-digitales-digital-skills-for-life-2/2025-12-16/
 start_date: '2025-12-16T17:30:00-08:00'

@@ -2,11 +2,7 @@
 date: '2025-10-31T04:04:10+00:00'
 events: []
 events_extracted: true
-images:
-- b7da5b7b1e746b71fc95c4fa06b91cc0f4e7fa94b6a71fd1286b3989152b2839
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <div class="wp-block-uagb-image uagb-block-db8ab62f wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure class="wp-block-uagb-image__figure"><img decoding="async" src="https://www.brightspark.org/wp-content/uploads/2025/10/Fund-Dev-Newsletter-Banners-4-1.png" alt="" class="uag-image-9367" width="768" height="256" title="Fund Dev Newsletter Banners (4)" loading="lazy" role="img" /></figure></div>
 
 
@@ -65,30 +61,10 @@ original_content: |-
 
   <p></p>
   <p>The post <a href="https://www.brightspark.org/2025/10/help-provide-support-year-round/">Help Provide Support Year-Round!</a> appeared first on <a href="https://www.brightspark.org">BrightSpark</a>.</p>
-original_markdown_body: "![](https://www.brightspark.org/wp-content/uploads/2025/10/Fund-Dev-Newsletter-Banners-4-1.png
-  \"Fund Dev Newsletter Banners (4)\")\n\n## **Your workplace gift makes a real difference!**\n\n|
-  Last week, we shared how workplace giving and matching gifts can help your donation
-  go twice as far. But did you know these gifts make up one of the most reliable,
-  year-round sources of support for BrightSpark’s work?  \n  \nWhen you give through
-  payroll deduction or a company match, you’re helping ensure we can keep showing
-  up for children, families, and early learning providers, not just in moments of
-  crisis, but every day of the year.  \n  \nThese consistent gifts help us:  \n  \nProvide
-  training and resources for early educators  \nAdvocate for equitable access to quality
-  early learning  \nSupport families navigating complex childcare systems  \n  \nEven
-  small recurring gifts, when combined with employer matches, add up to lasting change
-  for kids in our community.  \n  \nIf you haven’t yet checked, it only takes a minute
-  to see if your employer participates and to make your next gift go even further.
-  |\n\n[Check To See If Your Company Offers A Matching Gift Program!](https://www.brightspark.org/wp-content/uploads/2025/10/WPG-Companies.pdf)\n\n|
-  Thank you for helping all children learn, grow, and thrive, today and into the future!
-  \ \n  \nWarmly,  \nThe BrightSpark Team |\n\n| **There’s More than One Way to Give!**
-  \ \n  \nBrightSpark accepts donations in many forms: cash, credit cards, fund transfers,
-  checks, money orders, stocks, bonds, mutual funds, donor-advised funds, and more!
-  If you have any questions or would like more information on ways to give, please
-  get in touch with our fund development department at&nbsp;[getinvolved@childcare.org](mailto:getinvolved@childcare.org).
-  |\n\n![](https://www.brightspark.org/wp-content/uploads/2025/10/Thank-you-to-our-sponsors-Blog-Banner-2-1024x576.png)\n\n_All
-  photos on this email are credited to ©LisaBontjePhotography_\n\nThe post [Help Provide
-  Support Year-Round!](https://www.brightspark.org/2025/10/help-provide-support-year-round/)
-  appeared first on [BrightSpark](https://www.brightspark.org)."
+images:
+- b7da5b7b1e746b71fc95c4fa06b91cc0f4e7fa94b6a71fd1286b3989152b2839
+locations:
+- King County
 source: BrightSpark
 source_url: https://www.brightspark.org/2025/10/help-provide-support-year-round/
 summarized: true

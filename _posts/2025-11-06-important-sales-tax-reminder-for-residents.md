@@ -1,8 +1,6 @@
 ---
 date: '2025-11-06T19:42:36+00:00'
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   Dear Yarrow Point Residents,
 
   We are creeping up on the Holiday Season…and perhaps gift purchasing season for many. Hope it will be a fun and safe Holiday Season for you!
@@ -35,6 +33,8 @@ original_content: |-
   Katy
 
   &nbsp;
+images: []
+locations: []
 published: false
 source: Town of Yarrow Point
 source_url: https://yarrowpointwa.gov/2025/11/important-sales-tax-reminder-for-residents/

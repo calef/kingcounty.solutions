@@ -1,8 +1,6 @@
 ---
 date: '2025-01-12T18:01:44+00:00'
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   Governor-elect Bob Ferguson announces transition team
 
   Publish Date
@@ -82,6 +80,8 @@ original_content: |-
   52. Sung Yang, former Chief of Staff to King County Executive Dow Constantine
 
   Ferguson’s transition work has already begun, starting with last week’s announcement of his executive leadership team. Christian Sinderman will serve as Transition Coordinator. The Transition Team will meet for the first time on Friday, November 22. Updates will be shared with the public regularly as the process unfolds.
+images: []
+locations: []
 published: false
 source: State Executive Branch
 source_url: https://governor.wa.gov/news/2024/governor-elect-bob-ferguson-announces-transition-team

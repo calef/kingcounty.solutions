@@ -2,11 +2,7 @@
 date: '2025-07-03T21:46:05+00:00'
 events: []
 events_extracted: true
-images:
-- 35d260c9b6bdd225f07a2dd042f380ebc74fa7c3786a5297bbed66ae09260953
-locations:
-- South King County
-original_content: |-
+feed_content: |-
   <div class="wp-block-buttons is-content-justification-center is-layout-flex wp-container-core-buttons-is-layout-16018d1d wp-block-buttons-is-layout-flex">
   <div class="wp-block-button has-custom-width wp-block-button__width-50 is-style-fill"><a class="wp-block-button__link has-black-color has-text-color has-background has-link-color has-medium-font-size has-custom-font-size wp-element-button" href="https://www.amazon.com/hz/wishlist/ls/1BMTT8YXQ8TJI?ref_=wl_share" style="border-radius:14px;background-color:#ed67b5"><strong>CLICK HERE to shop our needs!</strong></a></div>
   </div>
@@ -22,12 +18,10 @@ original_content: |-
 
 
   <p></p>
-original_markdown_body: |-
-  [**CLICK HERE to shop our needs!**](https://www.amazon.com/hz/wishlist/ls/1BMTT8YXQ8TJI?ref_=wl_share)
-
-  ![](http://hospitalityhousesouthking.org/wp-content/uploads/2014/12/7.-July-2025-2.png)
-
-  <object data-wp-bind--hidden="!state.hasPdfPreview" hidden class="wp-block-file__embed" data="https://hospitalityhousesouthking.org/wp-content/uploads/2025/07/7.-July-2025-2.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="Embed of 7. July 2025 (2)."></object>[7. July 2025 (2)](https://hospitalityhousesouthking.org/wp-content/uploads/2025/07/7.-July-2025-2.pdf)[Download](https://hospitalityhousesouthking.org/wp-content/uploads/2025/07/7.-July-2025-2.pdf)
+images:
+- 35d260c9b6bdd225f07a2dd042f380ebc74fa7c3786a5297bbed66ae09260953
+locations:
+- South King County
 source: Hospitality House
 source_url: https://hospitalityhousesouthking.org/july-donations-needed/
 summarized: true

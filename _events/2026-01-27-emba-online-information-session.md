@@ -1,13 +1,12 @@
 ---
 end_date: '2026-01-27T18:00:00-08:00'
+feed_content: "<div> <span>Loading</span> </div> <div><div> <span><a><span>×</span></a><span>Sorry
+  to interrupt</span></span><div>CSS Error</div> <div><a>Refresh</a></div> </div></div>"
+feed_content_checksum: a90d9ff0e8656fa320584f424b7bbb1c72eb7553
 images: []
 location: Webinar
 locations:
 - King County
-original_content: "<div> <span>Loading</span> </div> <div><div> <span><a><span>×</span></a><span>Sorry
-  to interrupt</span></span><div>CSS Error</div> <div><a>Refresh</a></div> </div></div>"
-original_content_checksum: a90d9ff0e8656fa320584f424b7bbb1c72eb7553
-original_markdown_body: "Loading \n \n\n ×Sorry to interrupt\nCSS Error\n \nRefresh"
 published: false
 source: University of Washington
 source_url: https://uwfoster.my.site.com/FosterEvents/s/events-public?eventId=a1wKf00001gMv94

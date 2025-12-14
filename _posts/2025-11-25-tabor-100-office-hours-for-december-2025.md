@@ -2,17 +2,13 @@
 date: '2025-11-25T21:59:05+00:00'
 events: []
 events_extracted: true
+feed_content: Do you want to learn more about doing business with the City? Do you
+  want to know about how the City of Seattle works with women- and minority-owned
+  businesses? Do you have questions about working with unions on City construction
+  projects? Do you want ...
 images: []
 locations:
 - King County
-original_content: Do you want to learn more about doing business with the City? Do
-  you want to know about how the City of Seattle works with women- and minority-owned
-  businesses? Do you have questions about working with unions on City construction
-  projects? Do you want ...
-original_markdown_body: Do you want to learn more about doing business with the City?
-  Do you want to know about how the City of Seattle works with women- and minority-owned
-  businesses? Do you have questions about working with unions on City construction
-  projects? Do you want ...
 source: City of Seattle
 source_url: https://consultants.seattle.gov/2025/11/25/tabor-100-office-hours-for-december-2025/
 summarized: true

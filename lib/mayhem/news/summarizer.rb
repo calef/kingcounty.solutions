@@ -1,7 +1,6 @@
 # frozen_string_literal: true
 
 require 'json'
-require 'nokogiri'
 require 'open-uri'
 require 'ruby/openai'
 require_relative '../logging'
@@ -12,6 +11,7 @@ require_relative '../front_matter/document'
 require_relative '../support/http_client'
 require_relative '../feed/discovery'
 require_relative '../summarizer/helpers'
+require_relative '../content/article_body_extractor'
 
 module Mayhem
   module News
@@ -128,31 +128,47 @@ module Mayhem
           return
         end
 
-        fallback_body = preferred_fallback_body(document)
-        article_text = fetch_article_text(source_url) if source_url
-        article_text = article_text&.strip
-        if needs_summary && prefer_fallback_body?(article_text, fallback_body)
-          article_text = fallback_body
-          @logger.debug "Using fallback body for #{file_path}"
-        end
-        article_text ||= fallback_body
-        article_text ||= document.body
-        article_text = document.body if article_text.nil?
-        if article_text && article_text.length > MAX_ARTICLE_CHARS
-          @logger.info "Truncating #{file_path} article text from #{article_text.length} to #{MAX_ARTICLE_CHARS} chars"
-          article_text = article_text[0, MAX_ARTICLE_CHARS]
-        end
+        feed_html = front_matter['feed_content']
+        fallback_text = Mayhem::Content::ArticleBodyExtractor.text_from_html(feed_html)
+        html_for_summary = nil
+        article_text = nil
 
-        summary_text = if needs_summary
-                         generate_summary(article_text, source_url, file_path,
+        if needs_summary
+          scraped_html = fetch_article_html(source_url)
+          scraped_text = Mayhem::Content::ArticleBodyExtractor.text_from_html(scraped_html)
+          if prefer_fallback_body?(scraped_text, fallback_text)
+            article_text = fallback_text
+            html_for_summary = feed_html
+            @logger.debug "Using fallback body for #{file_path}"
+          else
+            article_text = scraped_text
+            html_for_summary = scraped_html
+          end
+          article_text ||= fallback_text
+          html_for_summary ||= feed_html
+          article_text = article_text&.strip
+          if article_text.to_s.empty?
+            @logger.warn "Skipping #{file_path}: no usable content to summarize"
+            stats[:failed_summary] += 1
+            return
+          end
+          if article_text.length > MAX_ARTICLE_CHARS
+            @logger.info "Truncating #{file_path} article text from #{article_text.length} to #{MAX_ARTICLE_CHARS} chars"
+            article_text = article_text[0, MAX_ARTICLE_CHARS]
+          end
+
+          if (source_html = Mayhem::Content::ArticleBodyExtractor.sanitized_html(html_for_summary, max_chars: MAX_ARTICLE_CHARS))
+            front_matter['original_source_html'] = source_html
+          end
+          summary_text = generate_summary(article_text, source_url, file_path,
                                           stats)
-                       else
-                         document.body&.strip
-                       end
-        return if needs_summary && (summary_text.nil? || summary_text.empty?)
+          return if needs_summary && (summary_text.nil? || summary_text.empty?)
 
-        front_matter['original_markdown_body'] ||= document.body&.strip if needs_summary
-        front_matter['summarized'] = true if needs_summary
+          front_matter['summarized'] = true
+        else
+          summary_text = document.body&.strip
+        end
+
         summary_text ||= document.body&.strip || ''
 
         if needs_topics
@@ -247,13 +263,11 @@ module Mayhem
         nil
       end
 
-      def fetch_article_text(url)
+      def fetch_article_html(url)
         return nil unless url
 
         page = @http.fetch(url, accept: Mayhem::FeedDiscovery::ACCEPT_HTML, max_bytes: MAX_ARTICLE_CHARS)
-        doc = Nokogiri::HTML(page[:body])
-        doc.search('script, style, nav, header, footer, noscript, iframe').remove
-        doc.css('article, main, body').text.strip.gsub(/\s+/, ' ')
+        Mayhem::Support::EncodingUtils.ensure_utf8(page[:body])
       rescue StandardError => e
         @logger.warn "Error fetching #{url}: #{e.class} - #{e.message}"
         nil
@@ -274,15 +288,6 @@ module Mayhem
         }
         summary_text = summary_fields.map { |key, value| "#{key}=#{value}" }.join(', ')
         @logger.info "News summarization complete: #{summary_text}"
-      end
-
-      def preferred_fallback_body(document)
-        original = document.front_matter['original_markdown_body']
-        original = original&.strip
-        return original unless original.to_s.empty?
-
-        body = document.body&.strip
-        body.to_s.empty? ? nil : body
       end
 
       def prefer_fallback_body?(scraped_text, fallback_body)

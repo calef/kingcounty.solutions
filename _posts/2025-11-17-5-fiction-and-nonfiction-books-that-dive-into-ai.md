@@ -1,8 +1,6 @@
 ---
 date: '2025-11-17T19:35:02+00:00'
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   <p>If representations of AI in fiction are starting to feel eerily plausible to you, you’re not alone! AI suddenly seems to be everywhere — in your phone, in your browser, offering tech support and an uncanny form of virtual friendship.</p>
   <p>How did this happen, where is it headed and what will it mean for humanity? In <strong>“<a class="content-link external" href="https://seattle.bibliocommons.com/v2/record/S30C4043179" target="_blank" rel="noopener" data-mrf-link="https://seattle.bibliocommons.com/v2/record/S30C4043179">Empire of AI</a>,”</strong> author Karen Hao sets out to answer those questions. Hao is an award-winning journalist who embedded with the company OpenAI, maker of ChatGPT, in 2019. Drawing from personal experience and dozens of insider interviews, Hao takes us behind the scenes in the race to create a dominant commercial AI model.</p>
   <p>We glimpse the personalities and relationships that guide Big Tech, and the financial forces that fuel the current boom. Hao also turns outward, interviewing workers and individuals around the globe whose livelihoods and environmental resources have been impacted by this race.</p>
@@ -40,50 +38,8 @@ original_content: |-
   </div>
   </div>
   </div>
-original_markdown_body: |-
-  If representations of AI in fiction are starting to feel eerily plausible to you, you’re not alone! AI suddenly seems to be everywhere — in your phone, in your browser, offering tech support and an uncanny form of virtual friendship.
-
-  How did this happen, where is it headed and what will it mean for humanity? In&nbsp;**“[Empire of AI](https://seattle.bibliocommons.com/v2/record/S30C4043179),”**&nbsp;author Karen Hao sets out to answer those questions. Hao is an award-winning journalist who embedded with the company OpenAI, maker of ChatGPT, in 2019. Drawing from personal experience and dozens of insider interviews, Hao takes us behind the scenes in the race to create a dominant commercial AI model.
-
-  We glimpse the personalities and relationships that guide Big Tech, and the financial forces that fuel the current boom. Hao also turns outward, interviewing workers and individuals around the globe whose livelihoods and environmental resources have been impacted by this race.
-
-  The result is a nuanced, factual and deeply engaging exploration of this moment in time, with suggestions for what we, as consumers, can do to shape the next stage.
-
-   ![Superagency by Reid Hoffman](https://i0.wp.com/blog.spl.org/wp-content/uploads/2025/11/Superagency.webp?resize=664%2C1024&ssl=1)
-
-  Where Hao focuses on the present, tech leader Reid Hoffman’s eyes rest on the horizon. In his book&nbsp; **“** [**Superagency: What Could Possibly Go Right With our AI Future?**](https://seattle.bibliocommons.com/v2/record/S30C4009875) **“** &nbsp;he asks readers to focus not on the potential dangers of AI, but on the breakthroughs AI may allow us to achieve.
-
-  Hoffman, a former member of the OpenAI board of directors and an AI investor, likens the emergence of models such as ChatGPT and Claude to the invention of the automobile, the telephone and the internet. Each innovation shook society, but also broke down barriers to movement, communication, learning and advancement.
-
-  Science fiction has been asking questions about the possibility of AI for decades. Two recent science fiction novels look at the dark and positive potential of these developments.
-
-  ![cover of Service Model](https://i0.wp.com/blog.spl.org/wp-content/uploads/2025/11/Service-Model.webp?resize=663%2C1024&ssl=1)
-
-  Adrian Tchaikovsky’s&nbsp;**“[Service Model](https://seattle.bibliocommons.com/v2/record/S30C3959231)“**&nbsp;asks the question: What if the end of humanity as we know it was also kind of, well, hilarious?
-
-  Charles, a robot valet, accidentally receives a mystery command to kill its owner and finds itself entangled in a messy robot-driven bureaucracy in a world now sparsely populated with humankind. Charles, who must relinquish that name, becomes Uncharles, a charmingly befuddled, forlorn robot assistant navigating mindless processes set up for a world that no longer exists.
-
-  While Uncharles’ unique perspective offers some of the same comic relief as Martha Wells’ science fiction series “The Murderbot Diaries,” Tchaikovsky presents a bleaker, more satirical future. This book warns that humanity should perhaps not be too hasty to outsource too much labor to robots.
-
-  ![Cover of Automatic Noodle, by Annalee Newitz](https://i0.wp.com/blog.spl.org/wp-content/uploads/2025/11/Automatic-Noodle.webp?resize=640%2C1024&ssl=1)
-
-  Annalee Newitz’s&nbsp;**“[Automatic Noodle](https://seattle.bibliocommons.com/v2/record/S30C4061228)“**&nbsp;is a cozy novella about a plucky band of robots.
-
-  Set in a future California that has liberated itself from the continental U.S., a group of bots awaken to a gap in their memories after a flooding event. These robots work in a restaurant that now lacks human management. In the absence of supervision, they decide to take the means of their livelihoods into their own hands, even if their existences are not fully accepted in the world at large.
-
-  This found family tale is an uplifting and quick read with a kooky and endearing cast of characters. Also check out Newitz’s novel “[Autonomous](https://seattle.bibliocommons.com/v2/record/S30C3268907).”
-
-  ![Cover of Culpability](https://i0.wp.com/blog.spl.org/wp-content/uploads/2025/11/Culpability.webp?resize=683%2C1024&ssl=1)
-
-  Realistic fiction is also starting to grapple with AI. Bruce Holsinger’s&nbsp;**“[Culpability](https://seattle.bibliocommons.com/v2/record/S30C4061996)“**&nbsp;brings the implications of our increasing reliance on technology into relief with one American family.
-
-  The Cassidys are on their way to a lacrosse tournament, with teenage son Charlie at the wheel of the family’s self-driving car. When a car swerves into their lane, causing an accident that kills two strangers, the family’s sense of order and safety is shattered. Deeper questions surrounding the accident and the mother’s work in ethical AI also abound in this taut psychological thriller about secrets, ambition and the lies we tell ourselves and others.
-
-  One thing is clear: AI is not coming; it’s here. Fiction helps us consider ethics and dream of many possible futures for a world with AI. Nonfiction provides data upon which we can build real-life plans. The next move in the AI race is yours.
-
-  _ **By Misha Stone and Anne Cisney** :&nbsp;Misha Stone is a Reader Services librarian for The Seattle Public Library._ _Anne Cisney is a librarian in the Business, Science and Technology department at The Seattle Public Library.&nbsp;_
-
-  _This column was&nbsp;[originally published](https://www.seattletimes.com/entertainment/books/5-books-that-grapple-with-the-reality-of-ai/)&nbsp;in the Seattle Times as part of our monthly column, and is reprinted here with permission._
+images: []
+locations: []
 published: false
 source: Homework Help
 source_url: https://blog.spl.org/2025/11/17/5-fiction-and-nonfiction-books-that-dive-into-ai/

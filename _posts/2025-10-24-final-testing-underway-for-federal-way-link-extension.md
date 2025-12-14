@@ -2,20 +2,15 @@
 date: '2025-10-24T06:49:11-07:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: <div><p paraid="1335489336" paraeid="{9790bcc5-73d6-4f92-ac30-a107d48d5975}{7}">The
+feed_content: <div><p paraid="1335489336" paraeid="{9790bcc5-73d6-4f92-ac30-a107d48d5975}{7}">The
   Federal Way Link Extension is in the home stretch. For light rail transit that means
   simulated service, where trains will run their planned schedule without passengers
   — every eight to 15 minutes depending on the day and time — south of Angle Lake
   to the Federal Way Downtown Station, stopping at Kent Des Moines and Star Lake stations
   along the way.</p></div>
-original_markdown_body: The Federal Way Link Extension is in the home stretch. For
-  light rail transit that means simulated service, where trains will run their planned
-  schedule without passengers — every eight to 15 minutes depending on the day and
-  time — south of Angle Lake to the Federal Way Downtown Station, stopping at Kent
-  Des Moines and Star Lake stations along the way.
+images: []
+locations:
+- King County
 source: Sound Transit
 source_url: https://www.soundtransit.org/blog/platform/final-testing-underway-federal-way-link-extension
 summarized: true

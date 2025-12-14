@@ -2,15 +2,12 @@
 date: '2025-10-25T01:15:51+00:00'
 events: []
 events_extracted: true
+feed_content: Weekend Service Impacts Construction Route 8 is rerouted off E Denny
+  Way between Fairview Avenue N and E Olive Way on Saturday, October 25 at 1 a.m.
+  to 11 a.m.; Routes...
 images: []
 locations:
 - King County
-original_content: Weekend Service Impacts Construction Route 8 is rerouted off E Denny
-  Way between Fairview Avenue N and E Olive Way on Saturday, October 25 at 1 a.m.
-  to 11 a.m.; Routes...
-original_markdown_body: Weekend Service Impacts Construction Route 8&nbsp;is rerouted
-  off E Denny Way between Fairview Avenue N and E Olive Way on Saturday, October 25
-  at 1 a.m. to 11 a.m.; Routes...
 source: King County Metro Transit
 source_url: https://kingcountymetro.blog/2025/10/24/metro-weekend-update-october-24-26-2025/
 summarized: true

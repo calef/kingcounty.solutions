@@ -1,11 +1,8 @@
 ---
 date: '2025-09-29T23:13:34+00:00'
-images: []
-locations: []
-original_content: "<div class=\"et_pb_section et_pb_section_7 et_section_regular\"
-  >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_row
-  et_pb_row_14\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4 et_pb_column_14
-  \ et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div
+feed_content: "<div class=\"et_pb_section et_pb_section_7 et_section_regular\" >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div
+  class=\"et_pb_row et_pb_row_14\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4
+  et_pb_column_14  et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div
   class=\"et_pb_module et_pb_image et_pb_image_7\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<span
   class=\"et_pb_image_wrap \"><img loading=\"lazy\" decoding=\"async\" width=\"1200\"
   height=\"628\" src=\"https://inatai.org/wp-content/uploads/2025/09/Meet-Alieu-Michelle_1200x628.jpg\"
@@ -47,18 +44,8 @@ original_content: "<div class=\"et_pb_section et_pb_section_7 et_section_regular
   spending time with her family, whether it’s for traveling, attending gatherings,
   or even relaxing at home.</p>\n<p>Learn more about Alieu, Michelle, and all our
   team members on the “<a href=\"https://inatai.org/our-team/\">Our team</a>” page.</p></div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>"
-original_markdown_body: |-
-  ![](https://inatai.org/wp-content/uploads/2025/09/Meet-Alieu-Michelle_1200x628.jpg "Meet Alieu Michelle\_1200x628")
-
-  _Welcome new team members pictured left to right, Alieu Samateh and Michelle Galvan._
-
-  This summer we were pleased to welcome two new members to our team. Representing Snohomish and Yakima counties respectively, our new colleagues Alieu and Michelle are ensuring we run smoothly as an organization so our foundation can better support community leaders and organizations across Washington. From making sure our technology operates efficiently to getting the payment needs of our team, contractors and grantee organizations met, we are so grateful to work alongside each of these talented and committed individuals. Read on to meet Alieu and Michelle and visit the hyperlinks to learn more about their stories and experience.
-
-  **[Alieu Samateh (he/him)](https://inatai.org/news/meet-alieu-samateh/)** joins us as IT Service Desk Associate. Based in Snohomish County, he provides technical support and assistance for remote team members based across the state and at the Seattle and Pasco offices. Authentic, approachable, and witty, Alieu pairs his experience in help desk support with a commitment to racial justice. Alieu belongs to the Gambian community in Seattle and is a proud member of the Mandinka tribe. When he’s not Inatai, Alieu teaches web development courses with MindSight Mentors and is an active volunteer with the Islamic Center of Puget Sound.
-
-  **[Michelle Galvan (she/her)](https://inatai.org/news/meet-michelle-galvan/)** joins us as an Accountant. Based in Yakima County, Michelle ensures payments are delivered quickly and accurately to grantee organizations, vendors, contractors, and foundation employees. Reliable, considerate, and caring, Michelle brings over a decade of accounting experience to her role. Michelle is proud to call the Yakima Valley her home and remains grounded in the values instilled in her thanks to the strong Mexican American community she is a part of. She enjoys spending time with her family, whether it’s for traveling, attending gatherings, or even relaxing at home.
-
-  Learn more about Alieu, Michelle, and all our team members on the “[Our team](https://inatai.org/our-team/)” page.
+images: []
+locations: []
 published: false
 source: Inatai Foundation
 source_url: https://inatai.org/news/welcome-new-team-alieu-michelle/

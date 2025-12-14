@@ -2,22 +2,15 @@
 date: '2025-10-20T22:52:48+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: "New Hope West Building - Rendering by Weber Thompson Seattle, WA
-  – The New Hope Community Development Institute ( NHCDI) and Low Income Housing Institute
+feed_content: "New Hope West Building - Rendering by Weber Thompson Seattle, WA –
+  The New Hope Community Development Institute ( NHCDI) and Low Income Housing Institute
   (LIHI) are pleased to announce the start of construction for New Hope Family Housing.
   \uFEFF The housing will be built on two properties owned by the New Hope Missionary
   Baptist Church at 114 and 123 21st Ave. in Seattle’s Central Area. The buildings
   will face each other across 21st Ave. and include a mix of studio, one, and two-bedroom..."
-original_markdown_body: "New Hope West Building - Rendering by Weber Thompson Seattle,
-  WA – The New Hope Community Development Institute ( NHCDI) and Low Income Housing
-  Institute (LIHI) are pleased to announce the start of construction for New Hope
-  Family Housing. \uFEFF The housing will be built on two properties owned by the
-  New Hope Missionary Baptist Church at 114 and 123 21st Ave. in Seattle’s Central
-  Area. The buildings will face each other across 21st Ave. and include a mix of studio,
-  one, and two-bedroom..."
+images: []
+locations:
+- King County
 source: Low Income Housing Institute
 source_url: https://www.lihihousing.org/post/new-hope-family-housing-starts-construction
 summarized: true

@@ -1,15 +1,11 @@
 ---
 date: '2025-12-01T14:28:56+00:00'
+feed_content: We&#8217;re working with Seattle Public Utilities to update Seattle’s
+  Stormwater Code and Stormwater Manual as required by the Washington State Department
+  of Ecology. The second draft of the updated Code and Manual documents will be available
+  for publi...
 images: []
 locations: []
-original_content: We&#8217;re working with Seattle Public Utilities to update Seattle’s
-  Stormwater Code and Stormwater Manual as required by the Washington State Department
-  of Ecology. The second draft of the updated Code and Manual documents will be available
-  for publi...
-original_markdown_body: We’re working with Seattle Public Utilities to update Seattle’s
-  Stormwater Code and Stormwater Manual as required by the Washington State Department
-  of Ecology. The second draft of the updated Code and Manual documents will be available
-  for publi...
 published: false
 source: City of Seattle
 source_url: https://buildingconnections.seattle.gov/2025/12/01/stormwater-code-and-manual-update-second-public-meeting-january-14-2026/

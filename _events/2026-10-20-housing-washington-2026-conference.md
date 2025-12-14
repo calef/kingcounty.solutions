@@ -4,8 +4,6 @@ generated_from_post: true
 images: []
 location: Spokane
 locations: []
-original_markdown_body: The next conference focused on affordable housing, featuring
-  collaboration across sectors and equitable policy solutions.
 published: false
 source: Neighborhood House
 source_url: https://nhwa.org/2025/10/29/housing-washington-2025/

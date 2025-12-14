@@ -1,19 +1,14 @@
 ---
 date: '2025-12-08T18:13:42+00:00'
-images: []
-locations:
-- King County
-original_content: The Puget Sound region is bracing for intense rain this week, formerly
+feed_content: The Puget Sound region is bracing for intense rain this week, formerly
   known as a “Pineapple Express.” Now called “atmospheric rivers, ” these are long,
   narrow bands of moisture from the tropics filling area rivers, which have and may
   again send some of them over their banks. With the rain expected to persist, the
   National […]
-original_content_checksum: 86353944758004daa67dfe4b89a643f918db8b73
-original_markdown_body: The Puget Sound region is bracing for intense rain this week,
-  formerly known as a “Pineapple Express.” Now called “atmospheric rivers, ” these
-  are long, narrow bands of moisture from the tropics filling area rivers, which have
-  and may again send some of them over their banks. With the rain expected to persist,
-  the National […]
+feed_content_checksum: 86353944758004daa67dfe4b89a643f918db8b73
+images: []
+locations:
+- King County
 published: false
 rss_guid: https://kcemergency.com/?p=6634
 source: King County Emergency Management

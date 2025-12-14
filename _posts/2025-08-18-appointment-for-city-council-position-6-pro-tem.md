@@ -1,8 +1,6 @@
 ---
 date: '2025-08-18T23:54:04+00:00'
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   \*\*Congratulations to Joe Torres Camacho, who was appointed by the City Council on August 25 to Councilmember pro tem for Position 6. Joe was sworn in on Tuesday, September 2, 2025\*\*
 
   ![](https://www.tukwilawa.gov/wp-content/uploads/Camacho-Portait-8x10-1-819x1024.jpeg)
@@ -26,6 +24,8 @@ original_content: |-
   The City Council is expected to make the appointment by the end of September.
 
   The post [Appointment for City Council Position 6 Pro Tem](https://www.tukwilawa.gov/applications-for-city-council-position-6-pro-tem/) appeared first on [City of Tukwila](https://www.tukwilawa.gov).
+images: []
+locations: []
 published: false
 source: City of Tukwila
 source_url: https://www.tukwilawa.gov/applications-for-city-council-position-6-pro-tem/

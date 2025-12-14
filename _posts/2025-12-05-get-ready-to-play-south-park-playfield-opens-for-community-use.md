@@ -1,15 +1,11 @@
 ---
 date: '2025-12-05T23:32:45+00:00'
+feed_content: 'Translated materails: Spanish; Amharic; Somali; Vietnamese Great news
+  for the South Park community! Starting this January, the South Park Playfield will
+  be available for sports teams and community groups to reserve. This pilot program
+  offers free field...'
 images: []
 locations: []
-original_content: 'Translated materails: Spanish; Amharic; Somali; Vietnamese Great
-  news for the South Park community! Starting this January, the South Park Playfield
-  will be available for sports teams and community groups to reserve. This pilot program
-  offers free field...'
-original_markdown_body: 'Translated materails: Spanish; Amharic; Somali; Vietnamese
-  Great news for the South Park community! Starting this January, the South Park Playfield
-  will be available for sports teams and community groups to reserve. This pilot program
-  offers free field...'
 published: false
 source: City of Seattle
 source_url: https://parkways.seattle.gov/2025/12/05/get-ready-to-play-south-park-playfield-opens-for-community-use/

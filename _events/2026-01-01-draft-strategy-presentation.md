@@ -4,8 +4,6 @@ images: []
 location: ''
 locations:
 - King County
-original_markdown_body: A draft of the Affordable Housing Strategy will be presented
-  to the Council.
 source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/council-roundup-updates-provided-affordable-housing-progress-multifamily-tax-exemption-program
 start_date: '2026-01-01T00:00:00-08:00'

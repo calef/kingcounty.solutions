@@ -1,8 +1,6 @@
 ---
 date: '2025-07-30T23:41:43+00:00'
-images: []
-locations: []
-original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Bellevue
+feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Bellevue
   to evaluate installing new speed safety cameras</span>\n<span class=\"field field--name-uid
   field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"
   typeof=\"schema:Person\" property=\"schema:name\" datatype>CIosso</span></span>\n<span
@@ -64,37 +62,8 @@ original_content: "<span class=\"field field--name-title field--type-string fiel
   \           <div class=\"field field--name-field-article-date field--type-datetime
   field--label-hidden field__item\"><time datetime=\"2025-07-31T12:00:00Z\" class=\"datetime\">July
   31 2025</time>\n</div>\n      \n    </div>\n  </div>"
-original_markdown_body: |-
-  Bellevue to evaluate installing new speed safety camerasCIosso<time datetime="2025-07-30T16:41:43-07:00" title="Wednesday, July 30, 2025 - 16:41" class="datetime">Wed, 07/30/2025 - 16:41</time>
-
-   ![A speed camera is currently on Northeast Eighth Street by Stevenson Elementary School.](https://bellevuewa.gov/sites/default/files/styles/article_featured_image/public/media/article_featured_image/2025-07/speed-camera.jpg?h=f11d32b8&itok=oqPBy9rf)
-
-  Council will consider additional camera locations in late 2025
-
-  The City of Bellevue is advancing efforts to improve traffic safety by expanding its use of speed safety cameras, in alignment with new state legislation that allows for broader use. Transportation planners will consider crash data and community input before recommending any new locations for cameras to the City Council.
-
-  Speeding is one of the top factors for fatal and serious crashes in Bellevue. The expanded use of speed safety cameras supports achieving the city's Vision Zero goal of eliminating severe crashes by 2030.
-
-  Speed safety cameras, which detect and record speeding vehicles, have been in use in Bellevue since 2009. They currently operate in three school zones and at four major intersections to enforce red-light violations. Now, under updated state law ([RCW 46.63.250](https://app.leg.wa.gov/RCW/default.aspx?cite=46.63.250)), the city is authorized to install cameras in additional high-risk areas, including near public parks, hospitals, school walk zones and areas with a history of crashes.
-
-  “Crash data and community feedback consistently point to speeding as a serious concern,” said Transportation Director Andrew Singelakis. “We know that speed directly affects the severity of injuries when crashes happen. Speed safety cameras, along with thoughtful street design and other Safe System strategies, are key to creating safer streets where no one is killed or seriously injured in a crash.”
-
-  As part of the expansion, the city is developing a Speed Safety Camera Program Operations Guide. Supported by a federal Safe Streets and Roads for All grant, a cross-departmental team is working to ensure the guide is data-driven, community-informed and aligned with national best practices. The guide will define key program components such as camera siting criteria, fine structures, revenue requirements and long-term program management.
-
-  The state law also includes several safeguards to promote fairness and accountability:
-
-  - Cameras may not capture images of drivers or passengers.
-  - Fine reductions are available for qualifying low-income vehicle owners.
-  - All revenue must be reinvested into traffic safety improvements.
-  - Equity analysis is required to ensure cameras are equitably distributed and that a proportionate share of investments flow to low-income neighborhoods and to corridors with a history of speed-related crashes.
-
-  Following completion of the operations guide, the city will take a phased approach to implementation. The City Council will receive a list of candidate camera locations by the end of 2025, with installations expected to begin in mid-2026.
-
-  Community engagement is an important part of the process. City staff will host informational booths at upcoming events, including the Bellevue International Festival on Saturday, Aug. 2, and the Crossroads Farmer’s Market on Tuesday, Aug. 5.
-
-  Community members are also encouraged to share their feedback by completing a questionnaire now available on the city’s [Engaging Bellevue platform](https://www.engagingbellevue.com/speed-safety-cameras). To learn more or participate in the questionnaire, visit [Speed Safety Cameras](https://bellevuewa.gov/speed-safety-cameras "Speed Safety Cameras").&nbsp;
-
-  <time datetime="2025-07-31T12:00:00Z" class="datetime">July 31 2025</time>
+images: []
+locations: []
 published: false
 source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/more-speed-cameras

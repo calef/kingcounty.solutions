@@ -1,11 +1,8 @@
 ---
 date: '2025-09-24T20:52:07+00:00'
-images: []
-locations: []
-original_content: "<div class=\"et_pb_section et_pb_section_9 et_section_regular\"
-  >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_row
-  et_pb_row_18\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4 et_pb_column_18
-  \ et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div
+feed_content: "<div class=\"et_pb_section et_pb_section_9 et_section_regular\" >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div
+  class=\"et_pb_row et_pb_row_18\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4
+  et_pb_column_18  et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div
   class=\"et_pb_module et_pb_image et_pb_image_9 et_pb_image_sticky\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<span
   class=\"et_pb_image_wrap \"><img loading=\"lazy\" decoding=\"async\" width=\"1200\"
   height=\"628\" src=\"https://inatai.org/wp-content/uploads/2025/09/Alieu-Samateh_1200x6282.jpg\"
@@ -72,55 +69,8 @@ original_content: "<div class=\"et_pb_section et_pb_section_9 et_section_regular
   enjoy going to the gym, hanging out with friends, and trying new foods. I also spend
   time watching shows on YouTube, playing video games, and shopping for clothes that
   match my style.</p></div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>"
-original_markdown_body: "![](https://inatai.org/wp-content/uploads/2025/09/Alieu-Samateh_1200x6282.jpg
-  \"Alieu Samateh\\_1200x6282\")\n\n_IT Service Desk Associate Alieu Samateh enjoys
-  the views on a ferry ride across Puget Sound._\n\n&nbsp;\n\n##### [Alieu Samateh](https://inatai.org/team/alieu-samateh/)
-  joins us as IT Service Desk Associate. We asked Alieu Samateh 10 questions to learn
-  more about his background, community, and how he connects to our work at Inatai.\n\n**Name:**
-   Alieu Samateh  \n**Pronouns:**  he/him  \n**Role: ** IT Service Desk Associate
-  \ \n**Home: ** Snohomish County\n\n**1. What are three words that describe you?**
-  \ \nAuthentic, approachable, and witty.\n\n**2. What is the “long story short” of
-  how you landed at Inatai?**  \nI first came to Inatai with an IT contractor, providing
-  onsite IT support two days a week. Over time, I got to know the people here, built
-  relationships, and learned more about the foundation’s values and mission. When
-  this role opened, I knew I wanted to be part of the team. What drew me most was
-  the culture. Inatai isn’t just about “getting work done,” but also about creating
-  a sense of belonging and community. This role also fit my career path, offering
-  more responsibility and growth than a traditional help desk position.\n\n**3. What
-  excites you most about being part of Team Inatai?&nbsp;**  \nWhat excites me most
-  about being part of Team Inatai is contributing to the foundation’s mission while
-  working in a fun, engaging culture. I value the chance to build relationships and
-  connect with diverse communities across Washington. During my time here, I hope
-  to make the IT department the best it can be for the team, building on what’s already
-  strong and helping improve the overall experience for everyone who relies on our
-  support.\n\n**4. Tell us about the community or communities you belong to.**  \nI’m
-  part of the Gambian community in Seattle, where I connect with others through cultural
-  events and gatherings. I’m also active in the Lynnwood Muslim community, including
-  involvement with our local masjid’s parking management. Culturally, I identify as
-  Mandinka, a tribe from Gambia, and I engage with Mandinka community members here
-  in Washington as well. These communities keep me grounded, connected to my heritage,
-  and supported through shared faith and culture.\n\n**5. Inatai’s strategies are
-  underlined by a 50-Year Vision informed by communities. What is it about your community
-  that keeps you hopeful for the future?**  \nWhat keeps me hopeful about my community
-  is the deep sense of togetherness and support. People step in to help one another
-  without hesitation, making it hard to struggle alone. That spirit of care and connection
-  reflects the kind of future Inatai’s 50-Year Vision is working toward.\n\n**6. Finish
-  this sentence: The Inatai value the most resonates with me is…**  \nRacial Justice.\n\n**7.
-  What is your favorite fact about Washington?**  \nMy favorite fact about Washington
-  is its diversity of climate and landscapes. You can experience warm summers, rainy
-  seasons, and snowy winters, all within one state. From lakes and rivers to rainforests,
-  mountains, and Puget Sound, Washington truly offers a bit of everything.\n\n**8.
-  Where is your favorite place in Washington?**  \nMy favorite place in Washington
-  is Alki Beach. I like the scenery of Seattle’s skyline, the ocean, and the long
-  stretch of sand. It’s the perfect spot for scooter rides, bonfires, and taking in
-  different views all along the strip.\n\n**9. What is the last thing you read, watched,
-  or listened to that you would recommend? Why?**  \nThe last thing I read was an
-  article about how AI is transforming everyday IT tools. I’d recommend it because
-  I’m excited about exploring how AI can make technology more efficient and user-friendly,
-  both in my work and in daily life.\n\n**10. What do you like to do when you’re not
-  at work?**  \nOutside of work, I enjoy going to the gym, hanging out with friends,
-  and trying new foods. I also spend time watching shows on YouTube, playing video
-  games, and shopping for clothes that match my style."
+images: []
+locations: []
 published: false
 source: Inatai Foundation
 source_url: https://inatai.org/news/meet-alieu-samateh/

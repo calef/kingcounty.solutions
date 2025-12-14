@@ -2,11 +2,7 @@
 date: '2025-11-14T17:47:46+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- North King County
-- Eastside
-original_content: |-
+feed_content: |-
   <p><strong>Program:</strong> Meals on Wheels<br />
   <strong>Location:</strong> Northshore/Bothell<br />
   <strong>Schedule:</strong> Monday mornings / Thursday mornings<br />
@@ -19,25 +15,10 @@ original_content: |-
   <p>Be a caring voice our clients look forward to each week. You’ll take their meal orders, keep notes up to date, and connect them to other support when needed—making sure they feel heard, valued, and never alone. Training is provided, and because of the nature of our work, we look for volunteers who are interested in supporting us on an ongoing basis.</p>
   <p><strong>Interested? Contact us for an application to get started!</strong></p>
   <p>The post <a href="https://soundgenerations.org/meals-on-wheels-a-caller-is-needed-to-help-make-a-difference-in-northshore-bothell/">Meals on Wheels: A caller is needed to help Make a Difference in Northshore/Bothell!</a> appeared first on <a href="https://soundgenerations.org">Sound Generations</a>.</p>
-original_markdown_body: "**Program:** &nbsp;Meals on Wheels  \n**Location:** Northshore/Bothell
-  \ \n**Schedule:** Monday mornings / Thursday mornings  \n**Duration:** &nbsp;Ongoing
-  \ \n**Group or Individual:** &nbsp;Individual  \n**Kid Friendly:** No  \n**Contact:**
-  &nbsp;[mealsonwheels@soundgenerations.org](mailto:mealsonwheels@soundgenerations.org)\n\n**Looking
-  for a volunteer opportunity that is fun and rewarding? Join our Volunteer team!**
-  As a Meals on Wheels Volunteer, you will belong to a team committed to helping homebound
-  seniors maintain their health and independence with nutritious food, personal contact,
-  and caring service.\n\n**Caller:** A volunteer is needed to help make calls to our
-  Meals on Wheels participants each week to place their meal orders for their upcoming
-  delivery. This opportunity is currently on **Monday mornings from 8:30am – 11am,
-  but will be changing to take place on Thursday mornings from 8:30am – 11am** in
-  the future.\n\nBe a caring voice our clients look forward to each week. You’ll take
-  their meal orders, keep notes up to date, and connect them to other support when
-  needed—making sure they feel heard, valued, and never alone. Training is provided,
-  and because of the nature of our work, we look for volunteers who are interested
-  in supporting us on an ongoing basis.\n\n**Interested? Contact us for an application
-  to get started!**\n\nThe post [Meals on Wheels: A caller is needed to help Make
-  a Difference in Northshore/Bothell!](https://soundgenerations.org/meals-on-wheels-a-caller-is-needed-to-help-make-a-difference-in-northshore-bothell/)
-  appeared first on [Sound Generations](https://soundgenerations.org)."
+images: []
+locations:
+- North King County
+- Eastside
 source: Sound Generations
 source_url: https://soundgenerations.org/meals-on-wheels-a-caller-is-needed-to-help-make-a-difference-in-northshore-bothell/
 summarized: true

@@ -1,8 +1,6 @@
 ---
 date: '2025-10-28T21:42:47+00:00'
-images: []
-locations: []
-original_content: "![Issaquah city EV vehicle](https://www.commerce.wa.gov/wp-content/uploads/2025/10/city-vehicle-1024x462.jpg)\n\n>
+feed_content: "![Issaquah city EV vehicle](https://www.commerce.wa.gov/wp-content/uploads/2025/10/city-vehicle-1024x462.jpg)\n\n>
   “The CETCAP program was key in understanding the documentation that is needed for
   submission and maintain clear records to make filing easier.” – David Reedy, Sustainability
   Coordinator\n\n## Project overview\n\nThe City of Issaquah, a small local government
@@ -28,6 +26,8 @@ original_content: "![Issaquah city EV vehicle](https://www.commerce.wa.gov/wp-co
   secure hundreds of thousands of dollars in tax credits by providing legal and filing
   assistance for hundreds of projects.\n\n![Lawyers for Good Government logo](https://www.commerce.wa.gov/wp-content/uploads/2025/10/l4gg-color.png)\n\n![Giraffe
   logo](https://www.commerce.wa.gov/wp-content/uploads/2025/10/giraffe-logo-purple.png)"
+images: []
+locations: []
 published: false
 source: Department of Commerce
 source_url: https://www.commerce.wa.gov/cetcap-helps-city-of-issaquah-cut-ev-fleet-costs-by-12-using-federal-credit/

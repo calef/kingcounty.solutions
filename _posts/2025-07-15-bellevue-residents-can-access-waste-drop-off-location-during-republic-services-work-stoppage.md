@@ -1,8 +1,6 @@
 ---
 date: '2025-07-15T15:13:40+00:00'
-images: []
-locations: []
-original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Bellevue
+feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Bellevue
   residents can access waste drop-off location during Republic Services work stoppage</span>\n<span
   class=\"field field--name-uid field--type-entity-reference field--label-hidden\"><span
   lang about=\"https://bellevuewa.gov/users/ciosso\" typeof=\"schema:Person\" property=\"schema:name\"
@@ -38,26 +36,8 @@ original_content: "<span class=\"field field--name-title field--type-string fiel
   class=\"field field--name-field-article-date field--type-datetime field--label-hidden
   field__item\"><time datetime=\"2025-07-15T12:00:00Z\" class=\"datetime\">July 15
   2025</time>\n</div>\n      \n    </div>\n  </div>"
-original_markdown_body: "Bellevue residents can access waste drop-off location during
-  Republic Services work stoppageCIosso<time datetime=\"2025-07-15T08:13:40-07:00\"
-  title=\"Tuesday, July 15, 2025 - 08:13\" class=\"datetime\">Tue, 07/15/2025 - 08:13</time>\n\n
-  ![Row of garbage cans](https://bellevuewa.gov/sites/default/files/styles/article_featured_image/public/media/article_featured_image/2025-07/republic-services-cans.jpg?h=284110ac&itok=4oRyPO8K)\n\nBellevue
-  residents affected by Republic Services ongoing labor dispute and work stoppage
-  now have a location to drop off waste. Republic Services is providing a free drop-off
-  location in Bellevue two days this week.\n\nDrop-off Location, Dates and Times\n\nOdle
-  Middle School, 502 143rd Ave NE  \nSaturday, July 19, 8 a.m.-3 p.m.\n\nOdle Middle
-  School, 502 143rd Ave NE  \nThursday, July 17, 8 a.m.-2:30 p.m.\n\nBannerwood Park
-  parking lot, 1790 Richards Rd  \nTuesday, July 15, 9:30 a.m.-2 p.m.  \nWednesday,
-  July 16, 8 a.m.-2 p.m.\n\nThe drop-off location will accept bagged garbage, recycling
-  and compost materials. Republic Services will be on site to assist community members.
-  If the work stoppage continues beyond Wednesday, the City of Bellevue will coordinate
-  additional drop-off locations with Republic Services.&nbsp;\n\n“We appreciate Republic
-  Services providing this temporary solution, and we are committed to working with
-  them to minimize impacts and ensure residents have options for managing their waste
-  during the work stoppage,” said Utilities Director Lucy Liu.\n\nThe City of Bellevue
-  contracts with Republic Services for garbage, recycling, composting and yard waste
-  services. Bellevue residents can get updates on the work stoppage at [RepublicBellevue.com](https://www.republicservices.com/municipality/bellevue-wa).\n\n<time
-  datetime=\"2025-07-15T12:00:00Z\" class=\"datetime\">July 15 2025</time>"
+images: []
+locations: []
 published: false
 source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/waste-dropoff

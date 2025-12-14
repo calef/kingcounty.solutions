@@ -1,13 +1,12 @@
 ---
 end_date: '2026-01-22T17:00:00-08:00'
+feed_content: '<div id="error-message" style="display: none"> <div class="message
+  message__page-banner message--error"> <div class="message-text"> Something went
+  wrong. Please click "Refresh" to try again. </div> </div> </div>'
 images: []
 location: Thomson Hall (THO)
 locations:
 - King County
-original_content: '<div id="error-message" style="display: none"> <div class="message
-  message__page-banner message--error"> <div class="message-text"> Something went
-  wrong. Please click "Refresh" to try again. </div> </div> </div>'
-original_markdown_body: Something went wrong. Please click "Refresh" to try again.
 published: false
 source: University of Washington
 source_url: https://www.ticketleap.events/tickets/uwtaiwanstudies/cruisy-sleepy-melancholy-sexual-disorientation-in-the-films-of-tsai-ming-lian-with-nicholas-de-villiers

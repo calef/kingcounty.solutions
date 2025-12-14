@@ -2,14 +2,7 @@
 date: '2025-11-17T23:45:42+00:00'
 events: []
 events_extracted: true
-images:
-- f00408c1bd3dedfc9ff3504c17390595abddd23b6ade4ba59a53afc50681bbd3
-- 0d3268df5c309b5c1c82dec197e8fd396924d658d9de94b2171e0768e982b0bb
-- c0ef1f732f794127d20401abf9195512542c94e629661cbb93337021c56b7c9e
-- 6869970cbc8af3c4224c2087204f819c5b6242dd83f208fed47557a75dbd04c9
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <div class="wp-block-group"><div class="wp-block-group__inner-container is-layout-constrained wp-block-group-is-layout-constrained">
   <div class="wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-8cf370e7 wp-block-group-is-layout-flex">
   <p><strong>Advocacy &amp; Culture</strong> </p>
@@ -78,31 +71,13 @@ original_content: |-
 
   <div data-carousel-extra='{"blog_id":1,"permalink":"https:\/\/www.elcentrodelaraza.org\/cuentos-from-our-work-november-2025\/"}'  class="wp-block-jetpack-tiled-gallery aligncenter is-style-rectangular"><div class=""><div class="tiled-gallery__gallery"><div class="tiled-gallery__row"><div class="tiled-gallery__col" style="flex-basis:100.00000%"><figure class="tiled-gallery__item"><img decoding="async" data-attachment-id="21579" data-permalink="https://www.elcentrodelaraza.org/cuentos-from-our-work-november-2025/screenshot-2025-11-17-154458/" data-orig-file="https://www.elcentrodelaraza.org/wp-content/uploads/2025/11/Screenshot-2025-11-17-154458.png" data-orig-size="580,836" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Screenshot 2025-11-17 154458" data-image-description="" data-image-caption="" data-medium-file="https://www.elcentrodelaraza.org/wp-content/uploads/2025/11/Screenshot-2025-11-17-154458-243x350.png" data-large-file="https://www.elcentrodelaraza.org/wp-content/uploads/2025/11/Screenshot-2025-11-17-154458-491x707.png" data-attachment-id="21579" data-permalink="https://www.elcentrodelaraza.org/cuentos-from-our-work-november-2025/screenshot-2025-11-17-154458/" data-orig-file="https://www.elcentrodelaraza.org/wp-content/uploads/2025/11/Screenshot-2025-11-17-154458.png" data-orig-size="580,836" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Screenshot 2025-11-17 154458" data-image-description="" data-image-caption="" data-medium-file="https://www.elcentrodelaraza.org/wp-content/uploads/2025/11/Screenshot-2025-11-17-154458-243x350.png" data-large-file="https://www.elcentrodelaraza.org/wp-content/uploads/2025/11/Screenshot-2025-11-17-154458-491x707.png" role="button" tabindex="0" aria-label="Open image 1 of 1 in full-screen"srcset="https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/11/Screenshot-2025-11-17-154458-491x707.png?strip=info&#038;w=580&#038;ssl=1 580w" alt="" data-height="836" data-id="21579" data-link="https://www.elcentrodelaraza.org/?attachment_id=21579" data-url="https://www.elcentrodelaraza.org/wp-content/uploads/2025/11/Screenshot-2025-11-17-154458-491x707.png" data-width="580" src="https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/11/Screenshot-2025-11-17-154458-491x707.png?ssl=1" data-amp-layout="responsive"/></figure></div></div></div></div></div>
   <p>The post <a href="https://www.elcentrodelaraza.org/cuentos-from-our-work-november-2025/">Cuentos from Our Work: NOVEMBER 2025</a> appeared first on <a href="https://www.elcentrodelaraza.org">El Centro de la Raza</a>.</p>
-original_markdown_body: "**Advocacy & Culture**\n\nOur community came together in
-  a powerful show of unity and spirit for this year’s Día de los Muertos Celebration
-  at Plaza Roberto Maestas. Approximately 2,500 community members and 28 local vendors
-  came together to honor loved ones and celebrate life through art, music, and tradition.\n\nWe
-  are deeply grateful to our performers, emcees, supporters, partners, vendors, and
-  volunteers whose energy and dedication made the event possible—and to everyone who
-  braved the weather to celebrate with us. Your presence reminded us that even in
-  challenging times, our community’s warmth and resilience shine brightest.\n\nAt
-  El Centro de la Raza, we believe that every event, gathering, and act of service
-  strengthens the foundation of a more just and united community.\n\nPhotographs by
-  Sergio Rodriguez.\n\n![](https://www.elcentrodelaraza.org/wp-content/uploads/2025/11/CentroDeLaRaza_20251101-5-1060x707.jpg)\n\n![](https://www.elcentrodelaraza.org/wp-content/uploads/2025/11/CentroDeLaRaza_20251101-3-Copy-1060x707.jpg)\n\n**Ofrenda
-  Exhibit**\n\nSemillas de Justicia: Luchando por Dignidad y Democracia  \n(Seeds
-  of Justice: Fighting for Dignity and Democracy)\n\nJoin us as we honor loved ones
-  through vibrant community ofrendas celebrating life, culture, and justice. This
-  year’s theme honors those who resisted oppression and planted seeds for a more just
-  world—civil rights martyrs, Indigenous land defenders, organizers, student activists,
-  immigrants, and all who spoke truth in the face of injustice.\n\nFeaturing Ofrendas
-  by: Beacon Arts, Chief Seattle Club, Choose180, Joyas Mestizas, From Hiroshima to
-  Hope, Gamma Alpha Omega Sorority, SESEC WA, Mothers for Police Accountability, Open
-  Arms, El Centro Programs, and more.\n\n![](https://www.elcentrodelaraza.org/wp-content/uploads/2025/11/DSCF1034-Copy-471x707.jpg)\n\n**Early
-  Learning & Child Development**\n\nTeacher Rocio’s Pre-K students at the José Martí
-  Child Development Center have been busy crafting piñatas for our upcoming Las Posadas
-  celebration and Christmas market!\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/11/Screenshot-2025-11-17-154458-491x707.png?ssl=1)\n\nThe
-  post [Cuentos from Our Work: NOVEMBER 2025](https://www.elcentrodelaraza.org/cuentos-from-our-work-november-2025/)
-  appeared first on [El Centro de la Raza](https://www.elcentrodelaraza.org)."
+images:
+- f00408c1bd3dedfc9ff3504c17390595abddd23b6ade4ba59a53afc50681bbd3
+- 0d3268df5c309b5c1c82dec197e8fd396924d658d9de94b2171e0768e982b0bb
+- c0ef1f732f794127d20401abf9195512542c94e629661cbb93337021c56b7c9e
+- 6869970cbc8af3c4224c2087204f819c5b6242dd83f208fed47557a75dbd04c9
+locations:
+- King County
 source: El Centro de la Raza
 source_url: https://www.elcentrodelaraza.org/cuentos-from-our-work-november-2025/?utm_source=rss&utm_medium=rss&utm_campaign=cuentos-from-our-work-november-2025
 summarized: true

@@ -1,11 +1,9 @@
 ---
 date: '2025-08-30T01:18:07+00:00'
+feed_content: Check out DOVE's quarterly newsletter for the latest news and happenings
+  at DOVE. Newsletter Link
 images: []
 locations: []
-original_content: Check out DOVE's quarterly newsletter for the latest news and happenings
-  at DOVE. Newsletter Link
-original_markdown_body: Check out DOVE's quarterly newsletter for the latest news
-  and happenings at DOVE. Newsletter Link
 published: false
 source: The Vashon DOVE Project
 source_url: https://www.vashondoveproject.org/post/the-dove-report

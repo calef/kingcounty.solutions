@@ -2,11 +2,7 @@
 date: '2025-06-20T15:58:59+00:00'
 events: []
 events_extracted: true
-images:
-- 245a3dc8bcac6c9e5c288d34be55c24ae0a6fcb822953847bb2197a3fc2b1562
-locations:
-- King County
-original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Affordable
+feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Affordable
   housing explained as Bellevue updates strategy</span>\n<span class=\"field field--name-uid
   field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"
   typeof=\"schema:Person\" property=\"schema:name\" datatype>CIosso</span></span>\n<span
@@ -42,24 +38,10 @@ original_content: "<span class=\"field field--name-title field--type-string fiel
   is issue important.</p></div>\n      \n\n            <div class=\"field field--name-field-article-date
   field--type-datetime field--label-hidden field__item\"><time datetime=\"2025-06-20T12:00:00Z\"
   class=\"datetime\">June 20 2025</time>\n</div>\n      \n    </div>\n  </div>"
-original_markdown_body: |-
-  Affordable housing explained as Bellevue updates strategyCIosso<time datetime="2025-06-20T08:58:59-07:00" title="Friday, June 20, 2025 - 08:58" class="datetime">Fri, 06/20/2025 - 08:58</time>
-
-   ![A Bellevue employee explains the city's affordable housing strategy to a woman as he stands by a board showing pictures of housing.](https://bellevuewa.gov/sites/default/files/styles/article_featured_image/public/media/article_featured_image/2025-06/affordable-housing-101-still-for-internet.jpg?h=25bc9fb1&itok=c01DCo4i)
-
-  The City of Bellevue is updating its Affordable Housing Strategy over the course of 2025. As part of continuing engagement for the update, the Office of Housing has created three videos that provide an overview of the basics of affordable housing in Bellevue.
-
-  - [Part 1 - What is Affordable Housing?](https://www.youtube.com/watch?v=EcpjtEMXZhU)
-  - [Part 2 - What are Housing Needs in Bellevue?](https://www.youtube.com/watch?v=69yY58BY7og)
-  - [Part 3 - How will the Affordable Housing Strategy Help?](https://www.youtube.com/watch?v=8FdM0wKO3zs)
-
-  Like the 2017 Affordable Housing Strategy, the 2025 one is intended to make it easier to find affordable housing in Bellevue.
-
-  Thank you to those who have engaged in the effort so far! Between January and April, hundreds of community members and organizational partners participated in events, presentations and online outreach, all focused on building awareness of the strategy in development. The results of what we heard were captured in the [2025 AHS Phase 1 Engagement report](https://www.engagingbellevue.com/26517/widgets/90389/documents/68672).
-
-  If you want to get involved or continue to be involved, visit [EngagingBellevue.com](https://www.engagingbellevue.com/2025-affordable-housing-strategy). You can also share your housing story online – your stories help us share why this is issue important.
-
-  <time datetime="2025-06-20T12:00:00Z" class="datetime">June 20 2025</time>
+images:
+- 245a3dc8bcac6c9e5c288d34be55c24ae0a6fcb822953847bb2197a3fc2b1562
+locations:
+- King County
 source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/affordable-housing-explained
 summarized: true

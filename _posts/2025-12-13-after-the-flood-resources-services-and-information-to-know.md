@@ -2,16 +2,13 @@
 date: '2025-12-13T17:20:28+00:00'
 events: []
 events_extracted: true
+feed_content: As efforts turn from response to recovery after this week’s heavy rain
+  and historic floods, King County Emergency Management offers tips and information
+  for residents dealing with the aftermath.
+feed_content_checksum: e14d6f2baecdfe18f8c2321db09ce73e001ff725
 images: []
 locations:
 - King County
-original_content: As efforts turn from response to recovery after this week’s heavy
-  rain and historic floods, King County Emergency Management offers tips and information
-  for residents dealing with the aftermath.
-original_content_checksum: e14d6f2baecdfe18f8c2321db09ce73e001ff725
-original_markdown_body: As efforts turn from response to recovery after this week’s
-  heavy rain and historic floods, King County Emergency Management offers tips and
-  information for residents dealing with the aftermath.
 rss_guid: https://kcemergency.com/?p=6834
 source: King County Emergency Management
 source_url: https://kcemergency.com/2025/12/13/after-the-flood-resources-services-and-information-to-know/

@@ -1,8 +1,6 @@
 ---
 date: '2025-10-03T16:06:25+00:00'
-images: []
-locations: []
-original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">City
+feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">City
   survey seeks insights into sense of belonging and engagement</span>\n<span class=\"field
   field--name-uid field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"
   typeof=\"schema:Person\" property=\"schema:name\" datatype>CIosso</span></span>\n<span
@@ -41,24 +39,8 @@ original_content: "<span class=\"field field--name-title field--type-string fiel
   field--name-field-article-date field--type-datetime field--label-hidden field__item\"><time
   datetime=\"2025-10-03T12:00:00Z\" class=\"datetime\">October 3 2025</time>\n</div>\n
   \     \n    </div>\n  </div>"
-original_markdown_body: |-
-  City survey seeks insights into sense of belonging and engagementCIosso<time datetime="2025-10-03T09:06:25-07:00" title="Friday, October 3, 2025 - 09:06" class="datetime">Fri, 10/03/2025 - 09:06</time>
-
-   ![Four people stand in a row in playful poses.](https://bellevuewa.gov/sites/default/files/styles/article_featured_image/public/media/article_featured_image/2025-10/community-survey-graphic.png?h=149ff9a3&itok=fSZk6BeA)
-
-  The City of Bellevue is conducting a [survey](https://surveys.reconmr.com/S2/1/BellevueDEIPublic/) to gain a better understanding of how community members feel about living in Bellevue and whether the city is meeting the diverse needs of the community.
-
-  The city will use findings from the survey to better understand the effectiveness of city services and identify areas where there are unmet needs and opportunities for improvement. The survey will also inform efforts to enhance the city’s approaches to community engagement.
-
-  The survey, available in multiple languages, will be open through Oct. 31. It is part of the city’s[regular](https://bellevuewa.gov/sites/default/files/media/document/dept-city-managers-office/document/Cross-Cultural%20Center%20without%20Walls%20Project%20Budget%20Template.docx "Cross-Cultural Center without Walls Project Budget Template.docx") series of community surveys, and includes questions asked in previous years in order to track outcomes over time. &nbsp;
-
-  The city has partnered with an independent research firm, ReconMR, to conduct the survey.&nbsp;
-
-  For additional questions or comments about the survey, please contact Micah Philips, the city’s performance and outreach coordinator, at [mphillips@bellevuewa.gov](mailto:mphillips@bellevuewa.gov).
-
-  In a related effort, community members can participate in a [separate survey](https://bellevue.az1.qualtrics.com/jfe/form/SV_1YBpsvL24r0ixoy) open until Oct. 5 about the city’s brand identity and communications methods.&nbsp;
-
-  <time datetime="2025-10-03T12:00:00Z" class="datetime">October 3 2025</time>
+images: []
+locations: []
 published: false
 source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/community-survey-25

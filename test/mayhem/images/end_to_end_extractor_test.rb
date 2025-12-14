@@ -28,7 +28,7 @@ module News
             source: Example Org
             source_url: https://example.org/post
             summarized: true
-            original_markdown_body: "![Alt text](https://example.org/image.png)"
+            original_source_html: "![Alt text](https://example.org/image.png)"
             ---
             Body content
           MD
@@ -80,7 +80,7 @@ module News
             source: Example Org
             source_url: https://example.org/event
             summarized: true
-            original_markdown_body: "![Event image](https://example.org/event.png)"
+            original_source_html: "![Event image](https://example.org/event.png)"
             ---
             Event body
           MD
@@ -125,7 +125,7 @@ module News
             title: Locked Post
             source: Example Org
             source_url: https://example.org/post
-            original_markdown_body: "![Alt](https://example.org/image.png)"
+            original_source_html: "![Alt](https://example.org/image.png)"
             locked: true
             ---
             Body

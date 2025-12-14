@@ -5,7 +5,7 @@ require_relative '../test_helper'
 class PottymouthWordsTest < Minitest::Test
 WORDLIST_PATH = File.expand_path('../support/pottymouth_words.txt', __dir__)
   IGNORED_DIRECTORIES = %w[_site coverage node_modules vendor].freeze
-  PATTERN_FIELDS = %w[original_content original_markdown_body].freeze
+  PATTERN_FIELDS = %w[feed_content original_source_html].freeze
 
   def test_markdown_files_are_free_of_pottymouth_words
     offenses = markdown_paths.flat_map { |path| offenses_in_file(path) }

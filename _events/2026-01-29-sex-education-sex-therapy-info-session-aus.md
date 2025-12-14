@@ -1,10 +1,6 @@
 ---
 end_date: '2026-01-29T18:45:00-08:00'
-images: []
-location: Virtual Events @ Antioch University
-locations:
-- King County
-original_content: <div> <header> <div> <div> <div> <ul> <li><a>Give Now</a></li> <li><a>Request
+feed_content: <div> <header> <div> <div> <div> <ul> <li><a>Give Now</a></li> <li><a>Request
   Info</a></li> <li><a>Visit</a></li> <li><a>Apply</a></li> <li><a>Employment</a></li>
   </ul> </div> </div> <div> <div> <ul> <li> <a>About</a> <ul> <li> <ul> <li> <ul>
   <li> <h4>About</h4> <div><ul> <li><a>About Antioch University</a></li> <li><a>Core
@@ -97,55 +93,11 @@ original_content: <div> <header> <div> <div> <div> <ul> <li><a>Give Now</a></li>
   the New President of Antioch University</b></span></h5> </div></div> <div><a>Learn
   More</a></div> </div> </div></div> <script> {"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://www.antioch.edu/wp-includes/js/wp-emoji-release.min.js?ver=6.9"}}
   </script>
-original_content_checksum: d966edacab3a20e061e7149037cbc8a5c284680e
-original_markdown_body: Give Now Request Info Visit Apply Employment        About       About  About
-  Antioch University Core Attributes of an Antioch Education Why Antioch University?
-  Coalition for the Common Good Equity, Belonging, and Culture History Common Thread        Leadership  Office
-  of the President Executive Leadership Academic Leadership Board of Governors    Administrative
-  Resources  Accreditation University Policies        Discover Our Campuses  Los Angeles
-  New England Online Santa Barbara Seattle          Academics       Discover Your
-  Own Path  Explore degrees that align with your passions and goals. Find your fit
-  today and take the first step toward a meaningful future.   Find Your Program      Academic
-  Focus Areas  Bachelor's Completion Creative Writing & Communication Counseling,
-  Psychology, & Therapy Education Environmental Studies & Sustainability Individualized
-  Studies Leadership & Management Nursing & Health Professions        Learn Your Way  Low-Residency
-  On-Campus Online        Programs by Type  Doctoral Master's Bachelor's Certificates
-  Credentials & Endorsements Continuing Education          Admission & Aid       Admissions  Admissions
-  Overview Unofficial Transcript Evaluation Upcoming Admissions Events What to Expect    Information
-  for  DREAMERS International Students Transfer & Degree Completion Students Veterans
-  & Military-Connected Students        Dates & Deadlines  Graduate School of Leadership
-  & Change Los Angeles New England Online Santa Barbara Seattle        Tuition & Fees  GSLC
-  Tuition & Fees AULA Tuition & Fees AUNE Tuition & Fees AUO Tuition & Fees AUSB Tuition
-  & Fees AUS Tuition & Fees        Financial Aid  Financial Aid Overview Financial
-  Aid Forms Scholarships & Grants Types of Aid Work-Study Opportunities         Library  Resources        Departments
-  & Offices  Advancement Disability Support Services Grants and Foundation Relations
-  Information Technology Institutional Effectiveness Registrar Strategic Partnerships
-  Student Accounts Writing Centers          Academic Resources  Academic Assessment
-  Academic Calendar Academic Catalog Bookstore Consumer Information Licensure Information
-  Resource List Student Policies University Policies          Additional Resources  President's
-  Communications Event Calendar Common Thread (University News) Alumni Magazine Faculty
-  Directory Report/Request It Hub                    « All Events   Sex Education
-  & Sex Therapy Info Session | AUS     January 29, 2026   @   5:45 pm   -   6:45 pm  PST   Our
-  clinical Certificate in Sex Therapy is designed for MA students, alumni, and community
-  members to broaden their clinical skills and receive specialized training in sex
-  therapy. Antioch’s certificate has been developed for professionals to meet the
-  minimum education credit requirements to achieve certification as a sex therapist,
-  as issued by the American Association of Sex Educators, Counselors, and Therapists
-  (AASECT) certification requirements. The Certificate in Sex Education provides essential
-  training to become competent in designing and leading a curriculum that encompasses
-  comprehensive sex education from a holistic approach. This certificate is designed
-  for students, alumni, and community members who hold a Master’s degree or higher
-  in Education or Mental Health to broaden their educator skills specific to delivering
-  content around and promoting sexual health. This session will be held on Thursday,
-  January 29, 2026, 5:45 PM - 6:45 PM PST, using Zoom. Login details will be provided
-  after registration.   Register Here     AUS Admissions  (888) 268-4477 admissions.aus@antioch.edu     Virtual
-  Events @ Antioch University            Google Calendar     iCalendar     Outlook
-  365     Outlook Live         Related Events      Individualized Masters of Arts
-  Info Session | AUO   December 11 @ 6:00 pm - 7:00 pm  EST        Nursing Programs
-  Info Session | AUO   December 13 @ 1:00 pm - 2:00 pm  EST        Master's in Exercise
-  Science & Healthcare Administration Info Session | AUO   December 16 @ 12:00 pm
-  - 1:00 pm  EST       Event Navigation  « Relational Therapies Info Session | AU          Announcing
-  the New President of Antioch University  Learn More    {"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://www.antioch.edu/wp-includes/js/wp-emoji-release.min.js?ver=6.9"}}
+feed_content_checksum: d966edacab3a20e061e7149037cbc8a5c284680e
+images: []
+location: Virtual Events @ Antioch University
+locations:
+- King County
 published: false
 source: Antioch University
 source_url: https://www.antioch.edu/event/sex-education-sex-therapy-info-session-aus-1-29-26/

@@ -2,17 +2,13 @@
 date: '2025-07-11T21:00:03+00:00'
 events: []
 events_extracted: true
+feed_content: Ready to have some fun at the annual Vashon Strawberry Festival? The
+  King County Water Taxi is the way to get to the festivities all weekend!&#160; Be
+  first in line on Friday The event starts on Friday, July 18. You can get there with
+  a ride on one of the four midday sailings to Vashon&#8230;
 images: []
 locations:
 - King County
-original_content: Ready to have some fun at the annual Vashon Strawberry Festival?
-  The King County Water Taxi is the way to get to the festivities all weekend!&#160;
-  Be first in line on Friday The event starts on Friday, July 18. You can get there
-  with a ride on one of the four midday sailings to Vashon&#8230;
-original_markdown_body: Ready to have some fun at the annual Vashon Strawberry Festival?
-  The King County Water Taxi is the way to get to the festivities all weekend!&nbsp;
-  Be first in line on Friday The event starts on Friday, July 18. You can get there
-  with a ride on one of the four midday sailings to Vashon…
 source: King County Ferry District
 source_url: https://kingcountywatertaxiblog.com/2025/07/11/special-weekend-water-taxi-service-to-the-vashon-strawberry-festival-july-18-20/
 summarized: true

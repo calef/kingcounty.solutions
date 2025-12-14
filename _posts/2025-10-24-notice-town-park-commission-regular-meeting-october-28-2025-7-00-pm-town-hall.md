@@ -1,8 +1,6 @@
 ---
 date: '2025-10-24T17:21:50+00:00'
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   [COMPLETE PACKET](https://yarrowpointwa.gov/wp-content/uploads/2025/10/08-October-28-2025-Regular-Meeting.pdf)
 
   Notice is hereby given that on Tuesday, October 28, 2025, the Town Park Commission will hold a regular meeting at Town Hall at 7:00 PM. The agenda is attached and the complete packet can be found on the Town’s website:
@@ -40,6 +38,8 @@ original_content: |-
   Your attendance is always encouraged.
 
   Thank you.
+images: []
+locations: []
 published: false
 source: Town of Yarrow Point
 source_url: https://yarrowpointwa.gov/2025/10/notice-town-park-commission-regular-meeting-october-28-2025-700-pm-town-hall/

@@ -2,10 +2,7 @@
 date: '2025-05-14T19:12:44+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <p class="" data-start="407" data-end="764"><strong data-start="407" data-end="451">Foreclosure prevention through mediation</strong> is one of the most effective and underused tools available to homeowners facing financial stress. At the Dispute Resolution Center of King County (KCDRC), mediation helps residents navigate tough conversations with lenders, resolve misunderstandings, and find alternatives before foreclosure becomes a reality.</p>
   <p class="" data-start="766" data-end="1084">This work is closely tied to the <a href="https://kcdrc.org/property-tax-exemption-king-county/"><strong data-start="799" data-end="816">HOMES program</strong></a>—Homeowners’ Outreach, Mentoring, and Education Services—which helps older adults, veterans, and people with disabilities apply for King County’s property tax exemption. Together, these services provide meaningful support to residents at risk of housing instability.</p>
   <h3 class="" data-start="776" data-end="800">What is Mediation?</h3>
@@ -75,70 +72,9 @@ original_content: |-
   </ul>
   <p class="" data-start="2961" data-end="3086"><strong data-start="2961" data-end="3084">You don’t have to face foreclosure alone. Mediation can be the first step toward clarity, stability, and peace of mind.</strong></p>
   <p>The post <a href="https://kcdrc.org/foreclosure-prevention-through-mediation/">Foreclosure Prevention Through Mediation: What You Need to Know</a> appeared first on <a href="https://kcdrc.org">Dispute Resolution Center of King County</a>.</p>
-original_markdown_body: |-
-  **Foreclosure prevention through mediation** is one of the most effective and underused tools available to homeowners facing financial stress. At the Dispute Resolution Center of King County (KCDRC), mediation helps residents navigate tough conversations with lenders, resolve misunderstandings, and find alternatives before foreclosure becomes a reality.
-
-  This work is closely tied to the [**HOMES program**](https://kcdrc.org/property-tax-exemption-king-county/)—Homeowners’ Outreach, Mentoring, and Education Services—which helps older adults, veterans, and people with disabilities apply for King County’s property tax exemption. Together, these services provide meaningful support to residents at risk of housing instability.
-
-  ### What is Mediation?
-
-  [Mediation](https://www.resolutionwa.org/mediation-faq) is a voluntary, confidential process where a neutral third party helps people have structured conversations and work toward agreements. At KCDRC, our trained mediators don’t take sides or offer legal advice. Instead, they create space for understanding, problem-solving, and clarity during difficult moments.
-
-  In the context of housing, this can mean facilitating conversations between:
-
-  - Homeowners and mortgage servicers
-
-  - Family members navigating shared property decisions
-
-  - Homeowners and county officials or financial counselors
-
-  &nbsp;
-
-  ### How Mediation Helps Prevent Foreclosure
-
-  When homeowners fall behind on payments or struggle with taxes, communication often breaks down. Mediation brings everyone to the table and offers a chance to:
-
-  - **Clarify the situation**
-
-  - **Identify options** such as payment plans, tax relief, or temporary adjustments
-
-  - **Connect with support resources** , including legal aid and financial counseling
-
-  - **Rebuild trust and reduce emotional strain**
-
-  &nbsp;
-
-  Mediation can be especially effective when paired with programs like [**HOMES**](https://kcdrc.org/housing-disputes/homes-tax-exemptions/) (Homeowners’ Outreach, Mentoring, and Education Services), which helps eligible residents apply for King County’s property tax exemption. By addressing both the financial and relational sides of housing stress, residents are more likely to find long-term stability.
-
-  ### Real-Life Outcomes
-
-  While every situation is different, here are a few common outcomes of housing-related mediation at KCDRC:
-
-  - Agreement on a new repayment timeline
-
-  - Coordination of property tax exemption documentation
-
-  - Family agreement on shared ownership or financial responsibilities
-
-  - Referrals to housing counselors or attorneys when needed
-
-  &nbsp;
-
-  ### How to Access Help
-
-  If you or someone you know is at risk of foreclosure or struggling with housing stress, **reach out early**. The sooner mediation begins; the more options are typically available.
-
-  You can:
-
-  - Attend a[**HOMES workshop**](https://kcdrc.org/housing-disputes/homes-tax-exemptions/) to learn about tax exemptions
-
-  - Request a [**mediation session**](https://disputeresolution.tfaforms.net/5070876) through KCDRC
-
-  - Join an[**&nbsp;Information Hub**](https://urbanleague.org/homeownership/) meeting to explore housing resources
-
-  **You don’t have to face foreclosure alone. Mediation can be the first step toward clarity, stability, and peace of mind.**
-
-  The post [Foreclosure Prevention Through Mediation: What You Need to Know](https://kcdrc.org/foreclosure-prevention-through-mediation/) appeared first on [Dispute Resolution Center of King County](https://kcdrc.org).
+images: []
+locations:
+- King County
 source: Dispute Resolution Center of King County
 source_url: https://kcdrc.org/foreclosure-prevention-through-mediation/
 summarized: true

@@ -1,28 +1,23 @@
 ---
 end_date: '2025-12-31T14:00:00-08:00'
-images: []
-location: Beaver Lake Lodge, 25099 SE 24th St, Kirkland, WA, United States
-locations:
-- King County
-original_content: "<div> <div> <div> <div> <div> <div> <div> <div> <div><div><ul>
-  <li><a>Login</a></li> <li><a>Volunteer</a></li> <li><a>DONATE</a></li> </ul></div></div>
-  </div> </div> </div> </div> </div> </div> </div> <div> <a>Skip to content</a> </div>
-  <section> <div> <p> <a> « All Events</a> </p> <h1>SENIORS Sammamish Popup</h1> <div>
-  <div> <span>December 31 @ 10:30 am</span> - <span>2:00 pm</span> </div> </div> <div>
-  <div> <div> <div> <div> <ul> <li> <a> Google Calendar </a> </li> <li> <a> iCalendar
-  </a> </li> <li> <a> Outlook 365 </a> </li> <li> <a> Outlook Live </a> </li> </ul>
-  </div> </div> </div> </div> <div> <div> <h2> Details </h2> <ul> <li> <span>Date:</span>
+feed_content: "<div> <div> <div> <div> <div> <div> <div> <div> <div><div><ul> <li><a>Login</a></li>
+  <li><a>Volunteer</a></li> <li><a>DONATE</a></li> </ul></div></div> </div> </div>
+  </div> </div> </div> </div> </div> <div> <a>Skip to content</a> </div> <section>
+  <div> <p> <a> « All Events</a> </p> <h1>SENIORS Sammamish Popup</h1> <div> <div>
+  <span>December 31 @ 10:30 am</span> - <span>2:00 pm</span> </div> </div> <div> <div>
+  <div> <div> <div> <ul> <li> <a> Google Calendar </a> </li> <li> <a> iCalendar </a>
+  </li> <li> <a> Outlook 365 </a> </li> <li> <a> Outlook Live </a> </li> </ul> </div>
+  </div> </div> </div> <div> <div> <h2> Details </h2> <ul> <li> <span>Date:</span>
   <span> <abbr> December 31 </abbr> </span> </li> <li> <span>Time:</span> <span> <div>
   10:30 am - 2:00 pm </div> </span> </li> </ul> </div> <div> <h2> Venue </h2> <ul>
   <li> Beaver Lake Lodge </li> <li> <address> <span> <span>25099 SE 24th St</span>
   <span>Kirkland</span><span>,</span> <abbr>WA</abbr> <span>United States</span> </span>
   </address> </li> </ul> </div> </div> </div> </div> </section> </div>"
-original_content_checksum: 929b1dfdffddc5881a8dce652f7716486f8148df
-original_markdown_body: 'Login Volunteer DONATE          Skip to content      « All
-  Events  SENIORS Sammamish Popup   December 31 @ 10:30 am - 2:00 pm           Google
-  Calendar     iCalendar     Outlook 365     Outlook Live           Details    Date:   December
-  31     Time:   10:30 am - 2:00 pm        Venue    Beaver Lake Lodge     25099 SE
-  24th St Kirkland, WA United States'
+feed_content_checksum: 929b1dfdffddc5881a8dce652f7716486f8148df
+images: []
+location: Beaver Lake Lodge, 25099 SE 24th St, Kirkland, WA, United States
+locations:
+- King County
 source: Indian American Community Services
 source_url: https://iacswa.org/event/seniors-sammamish-popup-306/
 start_date: '2025-12-31T10:30:00-08:00'

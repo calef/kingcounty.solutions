@@ -1,10 +1,6 @@
 ---
 end_date: '2026-01-11T15:00:00-08:00'
-images: []
-location: Meet at the front of Denny Hall
-locations:
-- King County
-original_content: '<div class="Uc2NEf"> <div class="teQAzf"> <form action="https://docs.google.com/forms/d/e/1FAIpQLSfv5BJ87eomEmoIgJl31g_U9-VUBzYRhgHrsT685u5RlHLVyQ/formResponse"
+feed_content: '<div class="Uc2NEf"> <div class="teQAzf"> <form action="https://docs.google.com/forms/d/e/1FAIpQLSfv5BJ87eomEmoIgJl31g_U9-VUBzYRhgHrsT685u5RlHLVyQ/formResponse"
   target="_self" method="POST" id="mG61Hd" jsmodel="TOfxwf Q91hve CEkLOc" data-shuffle-seed="4291644875198100359"
   data-clean-viewform-url="https://docs.google.com/forms/d/e/1FAIpQLSfv5BJ87eomEmoIgJl31g_U9-VUBzYRhgHrsT685u5RlHLVyQ/viewform"
   data-response="%.@.]" data-dlp-data="%.@.null,false]" data-first-entry="0" data-last-entry="10"
@@ -217,30 +213,10 @@ original_content: '<div class="Uc2NEf"> <div class="teQAzf"> <form action="https
   aria-hidden="true"> </div> <div class="Y0xAIe tDDvMb NpcyEe-n5T17d-Bz112c-uQPRwe"
   aria-hidden="true"> </div> </div></span><span jsname="K4r5Ff" class="VfPpkd-StrnGf-rymPhb-b9t22c">Report</span>
   </li> </ul></div> </div> </div></div> </div>'
-original_markdown_body: 'Guided Tree Tours Registration This form can be used to register
-  for the UW Campus Guided Tree Walks. We look forward to seeing you on campus soon!   Sign
-  in to Google to save your progress. Learn more      Number of Participants     Your
-  answer       Participant Name(s)     Your answer       What is the date(s) of the
-  Tour are you Planning to Attend?     Tuesday, December 2nd (12pm-1pm): Washington
-  Native Trees Tour.   Sunday, December 7th (1pm-3pm): Washington Native Trees Tour.   Sunday,
-  January 11th (1pm-3pm): Evergreen Trees Tour.   Tuesday, February 4th (12pm-1pm):
-  Pine Trees Tour   Sunday, February 8th (1pm-3pm): Conifer Trees Tour.   Thursday,
-  February 19th (12pm-1pm): Medicinal Trees Tour   Sunday, March 1st (1pm-3pm): Urban
-  Tree Benefits Tour.    Other:       These guided tree walks depart from the start
-  location within 10 minutes of the advertised start time. Please arrive on time to
-  ensure we don''t miss you!    Do you have an special accommodation needs? If so,
-  please let us know here and provide an email address so we may reach out to ensure
-  we can make the tour comfortable and enjoyable for you.    Your answer      If you
-  would like to provide an email address to be notified in case of last minute changes
-  to the tour schedule?     Your answer       Would you like us to use your email
-  address to send dates of newly scheduled tree tours when they become available?     Yes   No    Clear
-  selection     These Free Guided Tree Walks are offered by a volunteer guide, who
-  also maintains the Campus Tree Tour website. If you would like to leave a donation
-  to help with travel costs and continued maintenance of the tour, it is always so
-  appreciated!      Submit   Clear form   Never submit passwords through Google Forms.     This
-  content is neither created nor endorsed by Google. - Terms of Service - Privacy
-  PolicyDoes this form look suspicious? Report   Forms    Help and feedback      
-      Contact form owner          Help Forms improve          Report'
+images: []
+location: Meet at the front of Denny Hall
+locations:
+- King County
 published: false
 source: University of Washington
 source_url: https://docs.google.com/forms/d/e/1FAIpQLSfv5BJ87eomEmoIgJl31g_U9-VUBzYRhgHrsT685u5RlHLVyQ/viewform
