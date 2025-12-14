@@ -8,6 +8,7 @@ Utility commands that automate content imports, auditing, and metadata maintenan
 | --- | --- |
 | `mayhem` | Unified entry point for content management commands (see `mayhem help` for details). |
 | `generate-weekly-summary` | Builds a weekly roundup article from `_posts/`, grouping stories into themes with LLM assistance. |
+
 > Many scripts call the OpenAI API; export `OPENAI_API_KEY` before using them.
 
 ## Mayhem commands
