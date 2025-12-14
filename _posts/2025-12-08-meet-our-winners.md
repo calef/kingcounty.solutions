@@ -114,4 +114,3 @@ The winners for 2025 include:
 - **Community Advocate:** Maria Carpena, an Emergency Assistance Case Manager, has worked tirelessly to prevent homelessness by connecting tenants facing eviction with property managers.
 
 - **Lifetime Achievement Award:** Esperanza “Espy” Borboa, recognized for over 50 years of advocating for systemic equity and justice, has made a lasting impact in both Los Angeles and Seattle.
-

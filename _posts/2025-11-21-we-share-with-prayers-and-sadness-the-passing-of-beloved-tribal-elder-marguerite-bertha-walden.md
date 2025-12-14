@@ -40,4 +40,3 @@ Upcoming cultural events include:
 - A Christmas tree thinning gathering on December 6
 - A Tribal Christmas party on December 13
 - A holiday break starting December 24
-
