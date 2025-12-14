@@ -4,7 +4,7 @@ require_relative '../../test_helper'
 require 'minitest/autorun'
 require 'nokogiri'
 require 'time'
-require_relative '../../../lib/mayhem/events/event_summarizer'
+require_relative '../../../lib/mayhem/events/summarizer'
 
 class EventSummarizerTest < Minitest::Test
   class FakeLogger
@@ -122,8 +122,10 @@ class EventSummarizerTest < Minitest::Test
                   'start_date' => '2025-01-01',
                   'location' => 'Town Hall',
                   'source_url' => 'https://example.com/event',
-                  'generated_from_post' => true
-                }, 'Body text')
+                  'generated_from_post' => true,
+                  'feed_content' => '<article>Body text</article>',
+                  'feed_content_checksum' => 'abc'
+                }, '')
     write_post('post-one', { 'events' => [slug] })
 
     summarizer = build_summarizer(
@@ -147,6 +149,35 @@ class EventSummarizerTest < Minitest::Test
     post_doc = Mayhem::FrontMatter::Document.load(File.join(@tmp_posts, 'post-one.md'), logger: @logger)
 
     assert_empty Array(post_doc.front_matter['events'])
+  end
+
+  def test_run_records_original_source_html_for_generated_event
+    slug = 'event-source-html'
+    html = '<article><p>Keep it local</p></article>'
+    write_event(slug, {
+                  'title' => 'Source HTML',
+                  'start_date' => '2025-08-08',
+                  'location' => 'City Hall',
+                  'generated_from_post' => true,
+                  'feed_content' => html
+                })
+
+    summarizer = build_summarizer(
+      client_response: { 'choices' => [{ 'message' => { 'content' => 'Summary text' } }] },
+      topics: ['Neighborhood'],
+      locations: ['Seattle']
+    )
+
+    stats = summarizer.run
+
+    assert_equal 1, stats[:updated]
+    document = Mayhem::FrontMatter::Document.load(File.join(@tmp_events, "#{slug}.md"), logger: @logger)
+    expected_html = Mayhem::Content::ArticleBodyExtractor.sanitized_html(
+      html,
+      max_chars: Mayhem::Events::EventSummarizer::MAX_ARTICLE_CHARS
+    )
+    assert_equal expected_html, document.front_matter['original_source_html']
+    assert_equal 'Summary text', document.body.strip
   end
 
   def test_run_records_failed_summary_when_llm_empty
@@ -182,7 +213,7 @@ class EventSummarizerTest < Minitest::Test
     stats = summarizer.run
 
     assert_equal 1, stats[:skipped_missing_source]
-    assert_match(/could not summarize event/, @logger.warns.last)
+    assert_match(/no source_url/, @logger.warns.last)
   end
 
   def test_run_handles_generated_from_post_missing_body
@@ -199,7 +230,7 @@ class EventSummarizerTest < Minitest::Test
     stats = summarizer.run
 
     assert_equal 1, stats[:skipped_missing_body]
-    assert_match(/could not summarize event/, @logger.warns.last)
+    assert_match(/generated from post but has no body/, @logger.warns.last)
   end
 
   def test_run_backfills_locations_for_already_summarized_event

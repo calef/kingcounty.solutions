@@ -146,8 +146,8 @@ Runs the RSS news importer and the iCal events importer so `_posts/` and `_event
 
 **Behavior notes**
 
-- News import: normalizes and validates each RSS item URL before writing `_posts/`, skips duplicates already present in front matter, scrapes article bodies when the feed lacks `content:encoded`, converts HTML to Markdown via `ReverseMarkdown`, and saves the upstream HTML in `original_content`.
-- Events import: scans every `_organizations/*.md` with `events_ical_url`, downloads each calendar, skips events that are missing metadata, in the past, or too far in the future, normalizes canonical URLs to avoid duplicates, fetches event body content when possible, and writes `_events/<date>-<slug>.md` with `original_content`/`original_markdown_body` copies.
+- News import: normalizes and validates each RSS item URL before writing `_posts/`, skips duplicates already present in front matter, scrapes article bodies when the feed lacks `content:encoded`, and saves the upstream HTML in `feed_content` with a `feed_content_checksum`.
+- Events import: scans every `_organizations/*.md` with `events_ical_url`, downloads each calendar, skips events that are missing metadata, in the past, or too far in the future, normalizes canonical URLs to avoid duplicates, fetches event body content when possible, and writes `_events/<date>-<slug>.md` with `feed_content`/`feed_content_checksum` copies.
 - Event extraction from posts: handled by `mayhem extract-events`.
 - All operations honor `locked: true` on disk, skipping rewrites while still registering source URLs to avoid future duplicates.
 - All operations parallelize work with small worker pools, log per-source summaries, and keep running when individual feeds fail so a single bad endpoint never blocks the rest.
