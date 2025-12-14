@@ -1,15 +1,11 @@
 ---
 end_date: '2026-01-01T09:30:00-08:00'
-images: []
-location: El Centro de la Raza, 2524 16th Ave S, Seattle, WA, 98144, United States
-locations:
-- King County
-original_content: <article id="post-0" class="post-0 page type-page status-publish
-  hentry"><div class="entry-content"><section id="tribe-events" role="main"> <div
-  id="tribe-events-content" class="tribe-events-single"> <p class="tribe-events-back">
-  <a href="https://www.elcentrodelaraza.org/events/"> « All Events</a></p> <h1 class="tribe-events-single-event-title">Café
-  con El Centro de la Raza Tour</h1> <div class="tribe-events-schedule tribe-clearfix"><div>
-  <span class="tribe-event-date-start">January 1, 2026 @ 8:30 am</span> - <span class="tribe-event-time">9:30
+feed_content: <article id="post-0" class="post-0 page type-page status-publish hentry"><div
+  class="entry-content"><section id="tribe-events" role="main"> <div id="tribe-events-content"
+  class="tribe-events-single"> <p class="tribe-events-back"> <a href="https://www.elcentrodelaraza.org/events/">
+  « All Events</a></p> <h1 class="tribe-events-single-event-title">Café con El Centro
+  de la Raza Tour</h1> <div class="tribe-events-schedule tribe-clearfix"><div> <span
+  class="tribe-event-date-start">January 1, 2026 @ 8:30 am</span> - <span class="tribe-event-time">9:30
   am</span> </div></div> <div id="post-10000036" class="post-10000036 tribe_events
   type-tribe_events status-publish has-post-thumbnail hentry tribe_events_cat-advocacy-and-cultura
   cat_advocacy-and-cultura tribe-recurring-event tribe-recurring-event-parent"> <div
@@ -86,22 +82,10 @@ original_content: <article id="post-0" class="post-0 page type-page status-publi
   class="tribe-event-url" rel="bookmark">Café con El Centro de la Raza Tour</a></h3>
   <span class="tribe-event-date-start">April 2, 2026 @ 8:30 am</span> - <span class="tribe-event-time">9:30
   am</span> </div> </li> </ul> </div> </div> </section></div></article>
-original_markdown_body: "« All Events Café con El Centro de la Raza Tour  January
-  1, 2026 @ 8:30 am - 9:30 am    Join us for Café con El Centro de la Raza the first
-  Thursday of each month (except holidays) at our historic Beacon Hill building in
-  room 307. This is a monthly opportunity for members of the community to visit our
-  historic main building, learn more about the history of the organization and the
-  work our programs do, and possibly get more information about volunteering. We will
-  see you in room 307 for café, snacks and a tour of our building and programs. See
-  what we’re doing to build our “Beloved Community” and how you can join us.      Google
-  Calendar     iCalendar     Outlook 365     Outlook Live        Details   Date:   January
-  1, 2026     Time: 8:30 am - 9:30 am    Event Category: Advocacy & Culture   Website:
-  \ https://volunteersignup.org/4AYLC      Organizer   Volunteer Coordinator    Phone
-  \  555-555-5555     Email   volunteer@elcentrodelaraza.org         Venue   El Centro
-  de la Raza     2524 16th Ave S Seattle, WA 98144 United States  + Google Map       Related
-  Events    Café con El Centro de la Raza Tour February 5, 2026 @ 8:30 am - 9:30 am
-  \    Café con El Centro de la Raza Tour March 5, 2026 @ 8:30 am - 9:30 am     Café
-  con El Centro de la Raza Tour April 2, 2026 @ 8:30 am - 9:30 am"
+images: []
+location: El Centro de la Raza, 2524 16th Ave S, Seattle, WA, 98144, United States
+locations:
+- King County
 published: false
 source: El Centro de la Raza
 source_url: https://www.elcentrodelaraza.org/event/cafe-con-el-centro-de-la-raza-tour/2026-01-01/

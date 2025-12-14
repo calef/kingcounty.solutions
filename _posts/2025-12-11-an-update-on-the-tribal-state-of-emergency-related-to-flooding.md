@@ -2,10 +2,7 @@
 date: '2025-12-11T20:15:06+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <p>The Snoqualmie River is still at Phase 4 (severe flooding) with some residential areas experiencing dangerously high velocities and flooding of homes. The South Fork Skykomish River and Issaquah Creek are at Phase 3 (moderate flooding). The Tolt River is at Phase 2 (minor flooding). As we’ve experienced throughout this event, Issaquah Creek and the Tolt River can rise and change rapidly, so if you live in this area, please continue to be alert.</p>
   <p><strong>MAJOR ROAD CLOSURE UPDATES</strong></p>
   <ul>
@@ -25,35 +22,10 @@ original_content: |-
   <p>You can call the King County Flood Warning Center at 206-296-8200 or 800-945-9263 during this time to hear current river flow data, get information about sandbags, and learn information about flood phases and flood preparedness.</p>
   <p>Tribal Members or Tribal Staff who need non-emergency assistance can call the Public Safety non-emergency number at 425-765-6623.</p>
   <p>If you’re experiencing a flood emergency, please call 911.</p>
-original_content_checksum: b0d56b03612b70e3d276d03f6ec5ab1255bd033d
-original_markdown_body: |-
-  The Snoqualmie River is still at Phase 4 (severe flooding) with some residential areas experiencing dangerously high velocities and flooding of homes. The South Fork Skykomish River and Issaquah Creek are at Phase 3 (moderate flooding). The Tolt River is at Phase 2 (minor flooding). As we’ve experienced throughout this event, Issaquah Creek and the Tolt River can rise and change rapidly, so if you live in this area, please continue to be alert.
-
-  **MAJOR ROAD CLOSURE UPDATES**
-
-  - As of 7 a.m. this morning, NE Woodinville Duvall Rd & West Snoqualmie Valley Road NE between Duvall and Cottage Lake is closed.
-  - As of 1 a.m. this morning, all of SR 203 from NE Cherry Valley Road to Cherry Valley Road, north of the City of Duvall, is closed.
-  - As of 7 a.m. this morning, all lanes of SR-18 are closed from I-90 to Issaquah Hobart Road.
-  - Eastbound I-90 from Winery Road (milepost 27) to 436th Avenue SE (milepost 32) just before the main exit to North Bend continues to be closed due to multiple mudslides yesterday and Tuesday.
-  - All of SR 202 between Fall City and Snoqualmie is closed from Chief Kanim Middle School to Bendigo Boulevard.
-  - All of SR 203 between Fall City and Carnation is closed.
-  - All of Highway 2 between Index and Skykomish and between Skykomish and Stevens Pass continues to be closed.
-
-  You can check the King County Local Services My Commute map for the most up-to-date information on unincorporated King County road closures: https://gismaps.kingcounty.gov/MyCommute/
-
-  And you can check the WSDOT map for the most up-to-date information on state routes and highways: https://wsdot.com/Travel/Real-time/Map/
-
-  **SHELTER INFORMATION**
-
-  The Snoqualmie Casino & Hotel continues to hold rooms for Tribal Members that have been forced to leave their homes due to flooding. You can contact Carrey Galloway at 425-677-0357 or Lonzell Maddock at 425-998-3677 for assistance with reservations.
-
-  **ADDITIONAL INFORMATION**
-
-  You can call the King County Flood Warning Center at 206-296-8200 or 800-945-9263 during this time to hear current river flow data, get information about sandbags, and learn information about flood phases and flood preparedness.
-
-  Tribal Members or Tribal Staff who need non-emergency assistance can call the Public Safety non-emergency number at 425-765-6623.
-
-  If you’re experiencing a flood emergency, please call 911.
+feed_content_checksum: b0d56b03612b70e3d276d03f6ec5ab1255bd033d
+images: []
+locations:
+- King County
 rss_guid: https://snoqualmietribe.us/?p=6891
 source: Snoqualmie Indian Tribe
 source_url: https://snoqualmietribe.us/an-update-on-the-tribal-state-of-emergency-related-to-flooding/

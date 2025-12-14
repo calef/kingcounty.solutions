@@ -5,8 +5,6 @@ images: []
 location: Shoreline Lake Forest Park Senior Activity Center
 locations:
 - King County
-original_markdown_body: Free performance by the CISC Chinese Musical Instrument Group
-  featuring traditional and contemporary music.
 published: false
 source: Shoreline Lake Forest Park Senior Activity Center
 source_url: https://shorelinelfpseniorcenter.org/cisc-chinese-musical-group/

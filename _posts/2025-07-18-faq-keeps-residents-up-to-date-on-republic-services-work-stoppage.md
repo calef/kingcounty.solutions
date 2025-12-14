@@ -1,8 +1,6 @@
 ---
 date: '2025-07-18T17:19:45+00:00'
-images: []
-locations: []
-original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">FAQ
+feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">FAQ
   keeps residents up-to-date on Republic Services work stoppage</span>\n<span class=\"field
   field--name-uid field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"
   typeof=\"schema:Person\" property=\"schema:name\" datatype>CIosso</span></span>\n<span
@@ -33,23 +31,8 @@ original_content: "<span class=\"field field--name-title field--type-string fiel
   \     \n\n            <div class=\"field field--name-field-article-date field--type-datetime
   field--label-hidden field__item\"><time datetime=\"2025-07-18T12:00:00Z\" class=\"datetime\">July
   18 2025</time>\n</div>\n      \n    </div>\n  </div>"
-original_markdown_body: "FAQ keeps residents up-to-date on Republic Services work
-  stoppageCIosso<time datetime=\"2025-07-18T10:19:45-07:00\" title=\"Friday, July
-  18, 2025 - 10:19\" class=\"datetime\">Fri, 07/18/2025 - 10:19</time>\n\nTo help
-  Bellevue residents cope with Republic Services' work stoppage, the company has added
-  another waste drop-off date – Saturday, July 19, at Odle Middle School, 502 143rd
-  Ave. NE., 8 a.m-3 p.m. Bagged garbage, recycling and compost materials will be accepted
-  there. Residents are advised to be prepared for long wait times impacting traffic
-  in the area.\n\nMore drop-off dates will be made available if the stoppage continues.
-  \ \n  \nUpdates about the work stoppage are at [RepublicBellevue.com](http://republicbellevue.com).
-  To keep residents informed of all the details related to this evolving situation,
-  including all drop-off dates, the city has created an [online Frequently Asked Questions
-  page](https://bellevuewa.gov/city-government/departments/utilities/manage-your-utility-services/solid-waste/republic-services-work-stoppage-faqs-bellevue-residents
-  \"Republic Services Work Stoppage FAQs for Bellevue Residents\"). The city will
-  continue to update the FAQ, as new questions and answers come in.\n\nQuestions can
-  be directed to [solidwaste@bellevuewa.gov](mailto:solidwaste@bellevuewa.gov \"mailto:solidwaste@bellevuewa.gov\").
-  \ \n&nbsp;\n\n<time datetime=\"2025-07-18T12:00:00Z\" class=\"datetime\">July 18
-  2025</time>"
+images: []
+locations: []
 published: false
 source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/republic-faq

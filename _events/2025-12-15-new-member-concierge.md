@@ -1,11 +1,6 @@
 ---
 end_date: '2025-12-15T13:30:00-08:00'
-images: []
-location: The Center for Active Living, 4217 SW Oregon St., Seattle, WA, 98116, United
-  States
-locations:
-- King County
-original_content: <a aria-label="Skip to content" class="fl-screen-reader-text" href="#fl-main-content">Skip
+feed_content: <a aria-label="Skip to content" class="fl-screen-reader-text" href="#fl-main-content">Skip
   to content</a><div class="fl-page"> <header class="fl-builder-content fl-builder-content-12203
   fl-builder-global-templates-locked" data-post-id="12203" data-type="header" data-sticky="0"
   data-sticky-on="" data-sticky-breakpoint="medium" data-shrink="0" data-overlay="0"
@@ -168,22 +163,11 @@ original_content: <a aria-label="Skip to content" class="fl-screen-reader-text" 
   </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div>
   </div> </div> </div> <a href="#" role="button" id="fl-to-top"><span class="sr-only">Scroll
   To Top</span></a>
-original_markdown_body: Skip to content             We used to be called the Senior
-  Center of West Seattle.               Join       Donate                 Facebook     Instagram     YouTube     LinkedIn                            Activities
-  & Events                             New Member Concierge       Monday, December
-  15, 2025 at 11:00 am - 1:30 pm      Cynthia, our dedicated volunteer in this role,
-  will be located upstairs in Margie’s Cafe to answer questions and help guide our
-  new and newer members. She can introduce you to other members, recommend classes
-  and programs, share info about upcoming events and answer your questions about The
-  Center. The Member Concierge hours will be Mondays, Wednesdays & Thursdays from
-  11 a.m. – 1:30 p.m.     Games & Social Activities              Calendar       Membership                  Location    The
-  Center for Active Living     4217 SW Oregon St. Seattle, WA 98116 United States  +
-  Google Map    Phone  206-932-4044     View Location Website                   Google
-  Calendar     iCalendar     Outlook 365     Outlook Live                   Related
-  Events    Scrabble Club Friday, December 5, 2025 at 12:30 pm - 1:30 pm     Member
-  Orientation Monday, December 8, 2025 at 10:00 am - 11:00 am     New Member Concierge
-  Monday, December 8, 2025 at 11:00 am - 1:30 pm             Calendar                 Scroll
-  To Top
+images: []
+location: The Center for Active Living, 4217 SW Oregon St., Seattle, WA, 98116, United
+  States
+locations:
+- King County
 published: false
 source: The Center for Active Living
 source_url: https://wscenter.org/event/new-member-concierge/2025-12-15/

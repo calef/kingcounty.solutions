@@ -1,10 +1,7 @@
 ---
 end_date: '2026-03-11T16:00:00-04:00'
-images: []
-location: ''
-locations: []
-original_content: '   <meta> <meta> <meta> <link> <link> <link> <link> <link> <link>
-  <link> <link> <link> <style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size:
+feed_content: '   <meta> <meta> <meta> <link> <link> <link> <link> <link> <link> <link>
+  <link> <link> <style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size:
   3000px 1500px }</style> <!-- Search Engine Optimization by Rank Math - https://rankmath.com/
   --> <title>Continuing Education Webinar | NOSSCR</title> <meta> <link> <meta> <meta>
   <meta> <meta> <meta> <meta> <meta> <!-- /Rank Math WordPress SEO plugin --> <link>
@@ -7613,8 +7610,10 @@ original_content: '   <meta> <meta> <meta> <link> <link> <link> <link> <link> <l
   auto);--awb-column-spacing:var(--text_column_spacing, normal);--awb-column-min-width:var(--text_column_min_width,
   auto);--awb-rule-style:var(--text_rule_style, initial);--awb-margin-top:0;--awb-margin-right:0;--awb-margin-bottom:0;--awb-margin-left:0;--awb-user-select:var(--text_user_select,
   auto);--awb-width:au</style>'
-original_content_checksum: 5a74974d1701386df40f8c03f30e8ed14402ac12
-original_markdown_body: ''
+feed_content_checksum: 5a74974d1701386df40f8c03f30e8ed14402ac12
+images: []
+location: ''
+locations: []
 published: false
 source: NOSSCR Referral Service
 source_url: https://nosscr.org/event/continuing-education-webinar-8/

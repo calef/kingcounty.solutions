@@ -1,10 +1,6 @@
 ---
 end_date: '2026-02-04T13:00:00-08:00'
-images: []
-location: Denny Hall (DEN)
-locations:
-- King County
-original_content: '<div jscontroller="pc62j" jsmodel="iTeaXe" jsaction="rcuQ6b:WYd;GvneHb:og1FDd;vbaUQc:uAM5ec;"><div
+feed_content: '<div jscontroller="pc62j" jsmodel="iTeaXe" jsaction="rcuQ6b:WYd;GvneHb:og1FDd;vbaUQc:uAM5ec;"><div
   jscontroller="X4BaPc" data-is-embedded-search-enabled="true" jsaction="rcuQ6b:WYd;o6xM5b:Pg9eo;HuL2Hd:mHeCvf;VMhF5:FFYy5e;sk3Qmb:HI1Mdd;JIbuQc:rSzFEd(z2EeY),aSaF6e(ilzYPe);">
   <div jscontroller="o1L5Wb" data-sitename="schoolofenvironmentalandforest" data-search-scope="1"
   data-domain="uw.edu" data-universe="1" data-is-embedded-search-enabled="true" data-embedded-items-count="9"
@@ -528,73 +524,10 @@ original_content: '<div jscontroller="pc62j" jsmodel="iTeaXe" jsaction="rcuQ6b:W
   jsaction="click:dQ6O0c;" data-abuse-reporting-widget-proto=''%.@.null,"https://sites.google.com/uw.edu/schoolofenvironmentalandforest/home"]''><div
   role="button" class="U26fgb kpPxtd J7BuEb" jsshadow aria-label="Report abuse" aria-disabled="false"
   tabindex="0">Report abuse</div></div> </div> </div> </div> </div></div> </div> </div></div>'
-original_markdown_body: 'Search this site    Embedded Files           UW Campus Tree
-  Tours      University of Washington Campus Tree Tours  An interactive experience
-  with significant trees on the grounds of the University of Washington Supported
-  by the School of Environmental and Forest Sciences      Welcome to the Campus Tree
-  Tours!  Here at the University of Washington, we are proud of our trees. About 570
-  different kinds of trees beautify the University of Washington grounds. This means
-  that the U.W. provides a fantastic opportunity to observe and appreciate a wide
-  variety of trees in a relatively small area, and this website is designed to introduce
-  you to the great green realm of a campus renowned for its lovely landscape.     Brockman
-  Memorial Tree Tour  Native Trees of Washington Tour  Fall Colors Tree Tour  Fossil
-  Trees Tour  Tree Families Tour  Cherry Blossoms Tree Tour     How to Meet all theseAwesome
-  Trees?  This website is the key to meeting the trees of UW, with a multitude of
-  self-guided tour information and maps. These tours are designed to offer a simple
-  introduction to some of the more than 12,000 individual tree specimens on the main
-  campus. Visit the Tree Tours webpage to learn more about how to use these self-guided
-  tours.       Guided tours offer an even more immersiveexperience:  Guided Campus
-  Tree Tours are offered free to the public each month to supplement the self-guided
-  versions on this website. Tours generally last about 2 hours, but participants are
-  welcome to leave early if they need. All tours are outdoors so please plan accordingly
-  and dress for the weather! Upcoming tour dates are posted below once they are scheduled.
-  Register for Tours using this form. Please arrive on time to ensure we do not depart
-  without you (the tour usually departs the meeting location within 10 minutes). If
-  you have a club, organization, or group who would like to schedule a special tour,
-  visit the Guided Tree Tours webpage for more information.  Guided Tree Tours        Upcoming
-  Public Guided Tour Dates:  Sunday, December 7th (1pm-3pm): Washington Native Trees
-  Tour. Meet at the front of the Burke Museum of Natural History. Sunday, January
-  11th (1pm-3pm): Evergreen Trees Tour. Meet at the front of Denny Hall. Wednesday,
-  February 4th (12pm-1pm): Pine Trees Tour. Meet at the front of Denny Hall. Sunday,
-  February 8th (1pm-3pm): Conifer Trees Tour. Husky Union Building (HUB) near the
-  Husky statue. Thursday, February 19th (12pm-1pm): Medicinal Trees Tours. Meet at
-  the Bus Shelter on Stevens Way just west of Anderson Hall. Sunday, March 1st (1-3pm):
-  Urban Tree Benefits Tour. Meet at the front of the Burke Museum of Natural History
-  Stay Tuned for Cherry Blossom Tree Tour Dates in Late March!  Register for a Tree
-  Tour Here       Land Acknowledgement   The University of Washington acknowledges
-  the Coast Salish peoples of this land, the land which touches the shared waters
-  of all tribes and bands within the Duwamish, Suquamish, Tulalip and Muckleshoot
-  nations. Since time immemorial, the Coast Salish peoples have been the original
-  stewards of these lands. Colonization and its modern systems of oppression continue
-  to disrupt their work. We hope that this acknowledgement serves as a first step
-  in our commitment to authentic relationships with Native and Indigenous communities
-  moving forward. Additionally, we wish to acknowledge the false narrative applied
-  to the discovery of many of these species. The majority of these species were not
-  in fact discovered by the generally white contingent of botanists arriving in lands
-  besieged by European colonizers, but by the peoples who have lived on those lands
-  since time immemorial. Indigenous peoples have developed connections with these
-  trees going back generations. We would like to acknowledge too that many of these
-  species have distinct practical and medicinal value which have long been known to
-  the first peoples of their native ranges. Credit for the discovery of these properties
-  is too often given to colonizers, who did not in fact "discover" the uses of these
-  plants. Where possible we have avoided common names which memorialize such botanists
-  whose work disregarded the knowledge of Indigenous peoples.     Dedication    This
-  tour is dedicated to the memory of Professor C. Frank Brockman (1902-1985), who
-  capped an influential, productive career in forestry and outdoor recreation by producing
-  in 1980 the original University of Washington tree tour. Edited by Louise M. Hastie,
-  that eight-page publication featured 81 campus trees, and had to be reprinted by
-  popular demand. Along with the tour, Brockman authored five articles about campus
-  trees for the U.W. Arboretum Bulletin. In 1968, the year he retired from the U.W.
-  College of Forestry (now the School of Environmental and Forest Sciences), his best-selling
-  "Golden Guide" to Trees of North America was released. Brockman''s enthusiasm and
-  love of sharing knowledge suggests he would love to see a continued appreciation
-  for the beautiful trees on the U.W. campus. This newly updated tour reflects a compilation
-  of new information and fresh presentation created to ensure that future students
-  may still engage with this resource.      Questions? Feedback? Contact us!      Support
-  for the Guided Tours Comes from the you! These tours and this website are maintained
-  by a volunteer guide. If you enjoy this resource and want to leave a tip, they are
-  gratefully accepted.  Thank you so much for your support!       Report abuse Page
-  details       Page updated  Report abuse'
+images: []
+location: Denny Hall (DEN)
+locations:
+- King County
 published: false
 source: University of Washington
 source_url: https://sites.google.com/uw.edu/schoolofenvironmentalandforest/home

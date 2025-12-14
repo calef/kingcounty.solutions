@@ -1,8 +1,6 @@
 ---
 date: '2025-08-14T19:27:08+00:00'
-images: []
-locations: []
-original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Help
+feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Help
   shape the 2026-2030 Sustainable Bellevue Plan</span>\n<span class=\"field field--name-uid
   field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"
   typeof=\"schema:Person\" property=\"schema:name\" datatype>CIosso</span></span>\n<span
@@ -45,24 +43,8 @@ original_content: "<span class=\"field field--name-title field--type-string fiel
   \     \n\n            <div class=\"field field--name-field-article-date field--type-datetime
   field--label-hidden field__item\"><time datetime=\"2025-08-14T12:00:00Z\" class=\"datetime\">August
   14 2025</time>\n</div>\n      \n    </div>\n  </div>"
-original_markdown_body: |-
-  Help shape the 2026-2030 Sustainable Bellevue PlanCIosso<time datetime="2025-08-14T12:27:08-07:00" title="Thursday, August 14, 2025 - 12:27" class="datetime">Thu, 08/14/2025 - 12:27</time>
-
-   ![Two people kayak the Mercer Slough toward downtown Bellevue.](https://bellevuewa.gov/sites/default/files/styles/article_featured_image/public/media/article_featured_image/2025-08/mercer-slough-kayaks.jpg?h=04d2733c&itok=S5qGrD9v)
-
-  The City of Bellevue has just released a draft 2026-2030 Sustainable Bellevue Plan for public comment. Feedback will be accepted through Monday, Sept. 8, and can be submitted online.
-
-  The new plan will be an update of the current 2021-25 Sustainable Bellevue Plan, adopted by the City Council in 2020. Since the council launched the update in October 2024, staff have already engaged with more than 1,000 residents and organizations. That input helped the city prioritize its work on sustainability and climate programs and policies in the draft plan.
-
-  The aim is to ensure city efforts remain on pace to meet Bellevue’s overarching sustainability goals – including carbon neutrality by 2050. The draft plan includes goals, strategies and actions across five focus areas: Climate Change; Energy and Buildings; Mobility and Land Use; Materials and Waste; and Natural Systems. The city strives to lead by example by achieving carbon-neutral city operations by 2040. &nbsp;
-
-  In addition to reducing greenhouse gas emissions, the Sustainable Bellevue Plan includes goals and strategies related to Bellevue’s tree canopy, access to mobility options and other sustainability issues. The draft 2026-2030 plan also focuses on climate resilience – preparation and response for climate change impacts to support a livable future for everyone in Bellevue.
-
-  The plan update is expected to go to the council for adoption in late 2025.
-
-  Input from our community is critical to shaping a sustainable future. Whether you’re passionate about environmental issues or just starting to consider them, your perspective matters to us. Tell us what you think about the draft plan by visiting the Sustainable Bellevue Plan Update page on [Engaging Bellevue](https://www.engagingbellevue.com/esi-update-2024-25). For more information, contact Colin Munson at [cmunson@bellevuewa.gov](mailto:cmunson@bellevuewa.gov).&nbsp;
-
-  <time datetime="2025-08-14T12:00:00Z" class="datetime">August 14 2025</time>
+images: []
+locations: []
 published: false
 source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/draft-26-30-sustainable-bellevue-plan

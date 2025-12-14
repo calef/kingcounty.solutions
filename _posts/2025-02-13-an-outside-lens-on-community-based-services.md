@@ -2,10 +2,7 @@
 date: '2025-02-13T21:38:19+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: |-
+feed_content: |-
   ![](https://encompassnw.org/wp-content/uploads/2025/02/CBS_square-300x300.png) When a few King County Montessori schools began shutting down during the COVID-19 pandemic, Christine Meredith capitalized on her background in early education and founded Mosaic Montessori. As the mother of a neurodivergent child, she understood the importance of social and educational opportunities for kids and worked to make Mosaic a welcoming space for other children with neurodivergent profiles.
 
   Mosaic began receiving support from Encompass Child Care Health Consultation (CCHC) Nurse, Caitlin Young. Our CCHC team provides free support to licensed childcare programs, preschools, and other care provider programs, empowering providers to nurture the healthy development of the children in their care. When Caitlin learned about the unique needs of many Mosaic students, she suggested the school might benefit from the Encompass Community-Based Services program.
@@ -51,6 +48,9 @@ original_content: |-
   **If you are a center provider and would like to learn more about offering Community-Based Services in your program, reach out to** [pediatrictherapy@encompassnw.org](mailto:pediatrictherapy@encompassnw.org).
 
   The post [An Outside Lens on Community-Based Services](https://encompassnw.org/an-outside-lens-on-community-based-services/) first appeared on [Encompass](https://encompassnw.org).
+images: []
+locations:
+- King County
 source: Encompass
 source_url: https://encompassnw.org/an-outside-lens-on-community-based-services/
 summarized: true

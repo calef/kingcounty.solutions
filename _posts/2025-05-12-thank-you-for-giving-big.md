@@ -2,13 +2,11 @@
 date: '2025-05-12T15:54:09+00:00'
 events: []
 events_extracted: true
+feed_content: Dear Supporters and Friends, A heartfelt thank you for standing up for
+  your community and Giving BIG to LIHI! It is grassroots support...
 images: []
 locations:
 - King County
-original_content: Dear Supporters and Friends, A heartfelt thank you for standing
-  up for your community and Giving BIG to LIHI! It is grassroots support...
-original_markdown_body: Dear Supporters and Friends, A heartfelt thank you for standing
-  up for your community and Giving BIG to LIHI! It is grassroots&nbsp;support...
 source: Low Income Housing Institute
 source_url: https://www.lihihousing.org/post/thank-you-for-giving-big-2
 summarized: true

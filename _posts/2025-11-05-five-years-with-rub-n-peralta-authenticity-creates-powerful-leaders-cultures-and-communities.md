@@ -2,12 +2,9 @@
 date: '2025-11-05T19:52:14+00:00'
 events: []
 events_extracted: true
-images: []
-locations: []
-original_content: "<div class=\"et_pb_section et_pb_section_1 et_section_regular\"
-  >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_row
-  et_pb_row_2\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4 et_pb_column_2
-  \ et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div
+feed_content: "<div class=\"et_pb_section et_pb_section_1 et_section_regular\" >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div
+  class=\"et_pb_row et_pb_row_2\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4
+  et_pb_column_2  et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div
   class=\"et_pb_module et_pb_image et_pb_image_1 et_pb_image_sticky\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<span
   class=\"et_pb_image_wrap \"><img loading=\"lazy\" decoding=\"async\" width=\"1200\"
   height=\"628\" src=\"https://inatai.org/wp-content/uploads/2025/11/Ruben-Peralta_1200x628.jpg\"
@@ -60,32 +57,8 @@ original_content: "<div class=\"et_pb_section et_pb_section_1 et_section_regular
   vibrant traditional Mexican celebrations. Most of all, we have the most authentic
   Mexican food in the state. You cannot find lengua, tripa, and cabeza tacos and menudo
   in just any city in Washington.</p></div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>"
-original_markdown_body: |-
-  ![](https://inatai.org/wp-content/uploads/2025/11/Ruben-Peralta_1200x628.jpg "Ruben Peralta\_1200x628")
-
-  _Program Officer Rubén Peralta shares gratitude to ELLA Adelante for leading the Inatai team through a civic engagement exercise at our all-team retreat in Toppenish. Photo: MxT Visuals_
-
-  When [Rubén Peralta](https://inatai.org/team/ruben-peralta/) joined Inatai Foundation five years ago as a Program Officer, he brought his whole self to this role. It’s those life experiences alongside his career as an educator and community engagement specialist that have made Rubén a compassionate, trustworthy, and strategic partner to grantee organizations. We asked him five questions for his five-year anniversary at Inatai.
-
-  **1. Where is your favorite place in Washington?**
-
-  Anywhere that has beautiful sunsets. We have some of the best in the Tri-Cities, but Port Townsend has some amazing ones featuring the ocean.
-
-  **2. Which Inatai value resonates with you the most?**
-
-  Joy. I think this value touches on the rest of them. Even those that might cause us pain as we seek to realize them, joy will give us the strength to persevere.
-
-  **3. What is an important lesson you learned over the last five years?**
-
-  I’m going to skip the work- and task-related lessons. The most important lesson and the one that has impacted me the most is that at Inatai, my colleagues want me to be who I am. I have an accent on my name, and everyone here knew it meant something; so people have asked me how to pronounce my name because they want to do it correctly. I’ve been expected most of my life to change so I can fit into the dominant culture, and Inatai encouraged me to be who I am. My lived experiences as a formerly undocumented immigrant, first-generation college graduate, bilingual educator, parent, and Pasco-raised Washingtonian were all valued equally along with my professional experience. You also valued my lived experiences as work-related qualifications. I believe this lesson helped me be a better Program Officer.
-
-  **4. Share a community power-building story that has stayed with you during your time at Inatai.**
-
-  Hands down ELLA Adelante’s ascension as a political powerhouse in the Yakima Valley. ELLA Adelante is a Latina-led organization building a network for social justice among Latinas and allies in the Yakima Valley. In such a short period of time, they have done so much. Getting three candidates elected and currently supporting a cohort of 12. They are building community power and it’s getting noticed.
-
-  **5. What is your favorite fact about your home county in Washington?**
-
-  Franklin County, Pasco specifically, is the place many Mexicans/Latinx from throughout the state come to feel like they are back home in México. We have the largest flea market in the Northwest and possibly the West, two Safeway sized Mexican grocery stores, the oldest and largest Cinco de Mayo celebration in Eastern Washington, and other vibrant traditional Mexican celebrations. Most of all, we have the most authentic Mexican food in the state. You cannot find lengua, tripa, and cabeza tacos and menudo in just any city in Washington.
+images: []
+locations: []
 published: false
 source: Inatai Foundation
 source_url: https://inatai.org/news/five-years-with-ruben-peralta/

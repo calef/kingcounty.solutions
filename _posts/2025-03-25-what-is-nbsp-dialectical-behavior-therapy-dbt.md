@@ -2,10 +2,7 @@
 date: '2025-03-25T02:00:00+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: '<p class="">Dialectical Behavior Therapy (DBT) is a type of cognitive-behavioral
+feed_content: '<p class="">Dialectical Behavior Therapy (DBT) is a type of cognitive-behavioral
   therapy (CBT) developed by Dr. Marsha Linehan in the late 1980s. It was initially
   designed to treat individuals with borderline personality disorder (BPD) and suicidal
   ideation, but it has since been adapted for use with a variety of mental health
@@ -31,22 +28,9 @@ original_content: '<p class="">Dialectical Behavior Therapy (DBT) is a type of c
   involves a combination of individual therapy sessions, group skills training, and
   phone coaching. It’s especially helpful for individuals who experience intense emotional
   responses or have difficulty regulating emotions and behaviors.</p>'
-original_markdown_body: |-
-  Dialectical Behavior Therapy (DBT) is a type of cognitive-behavioral therapy (CBT) developed by Dr. Marsha Linehan in the late 1980s. It was initially designed to treat individuals with borderline personality disorder (BPD) and suicidal ideation, but it has since been adapted for use with a variety of mental health conditions, such as depression, anxiety, PTSD, eating disorders, and substance use disorders.
-
-  DBT is based on the idea of helping people balance acceptance and change. The word "dialectical" refers to the concept of finding a balance between opposites—such as accepting things as they are while also working to change unhelpful behaviors. The therapy incorporates elements from cognitive-behavioral therapy, mindfulness practices, and concepts from dialectical philosophy.
-
-  There are four main components of DBT:
-
-  1. **Mindfulness** : Learning to stay present and aware of thoughts, feelings, and physical sensations in the moment without judgment. Mindfulness helps increase emotional awareness and self-regulation.
-
-  2. **Distress Tolerance** : Developing skills to tolerate distressing situations without resorting to harmful or impulsive behaviors. This can involve strategies for managing intense emotions without making things worse.
-
-  3. **Emotion Regulation** : Learning to identify, understand, and manage intense emotions more effectively. This includes strategies for reducing emotional vulnerability and increasing positive emotional experiences.
-
-  4. **Interpersonal Effectiveness** : Improving communication skills and the ability to assert needs while maintaining healthy relationships. This involves learning to say "no" when needed, setting boundaries, and resolving conflicts in a healthy way.
-
-  DBT typically involves a combination of individual therapy sessions, group skills training, and phone coaching. It’s especially helpful for individuals who experience intense emotional responses or have difficulty regulating emotions and behaviors.
+images: []
+locations:
+- King County
 source: DBT Eastside
 source_url: https://www.dbteastside.com/blog/whatisdbt
 summarized: true

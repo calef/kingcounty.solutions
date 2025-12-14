@@ -4,8 +4,6 @@ images: []
 location: ''
 locations:
 - King County
-original_markdown_body: Deadline for eligible organizations to submit applications
-  for the Urgent Operating Support funding.
 source: City of Seattle
 source_url: https://housing.seattle.gov/uos-rfq/
 start_date: '2025-12-18T17:00:00-08:00'

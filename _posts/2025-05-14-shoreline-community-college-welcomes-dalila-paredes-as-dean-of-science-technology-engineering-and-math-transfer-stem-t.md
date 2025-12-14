@@ -2,12 +2,8 @@
 date: '2025-05-14T23:13:58+00:00'
 events: []
 events_extracted: true
-images:
-- 6ade95675efa7952246bcf6cc98df7dfb6c9db698af0010f07205222220f2aa2
-locations:
-- Shoreline
-original_content: '<div class="wp-rss-image" style="margin-bottom:20px;max-width:
-  600px !important;padding-top: 0.75em;"><img src="https://i0.wp.com/news.shoreline.edu/wp-content/uploads/2025/05/image002-1.jpg?fit=400%2C300&amp;ssl=1"
+feed_content: '<div class="wp-rss-image" style="margin-bottom:20px;max-width: 600px
+  !important;padding-top: 0.75em;"><img src="https://i0.wp.com/news.shoreline.edu/wp-content/uploads/2025/05/image002-1.jpg?fit=400%2C300&amp;ssl=1"
   class="attachment-medium size-medium wp-post-image" alt="This is a headshot or Dalila.
   She is wearing a dark blue shirt and brown tortoiseshell glasses." decoding="async"
   loading="lazy" sizes="100vw" data-attachment-id="3631" data-permalink="https://news.shoreline.edu/2025/05/14/shoreline-community-college-welcomes-dalila-paredes-as-dean-of-science-technology-engineering-and-math-transfer-stem-t/image002-1/"
@@ -20,9 +16,10 @@ original_content: '<div class="wp-rss-image" style="margin-bottom:20px;max-width
   to this role over a decade of experience in STEM education, and more than eight
   years of higher education leadership. Her selection reflects Shoreline’s continued
   commitment to equity, student success, and academic &#8230;'
-original_markdown_body: |-
-  ![This is a headshot or Dalila. She is wearing a dark blue shirt and brown tortoiseshell glasses.](https://i0.wp.com/news.shoreline.edu/wp-content/uploads/2025/05/image002-1.jpg?fit=400%2C300&ssl=1)
-  Shoreline Community College is proud to introduce Dalila Paredes as the new Dean of Science, Technology, Engineering, and Math Transfer (STEM-T). She brings to this role over a decade of experience in STEM education, and more than eight years of higher education leadership. Her selection reflects Shoreline’s continued commitment to equity, student success, and academic …
+images:
+- 6ade95675efa7952246bcf6cc98df7dfb6c9db698af0010f07205222220f2aa2
+locations:
+- Shoreline
 source: Shoreline Community College
 source_url: https://news.shoreline.edu/2025/05/14/shoreline-community-college-welcomes-dalila-paredes-as-dean-of-science-technology-engineering-and-math-transfer-stem-t/
 summarized: true

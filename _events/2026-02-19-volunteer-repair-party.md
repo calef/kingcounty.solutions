@@ -1,11 +1,6 @@
 ---
 end_date: '2026-02-19T21:00:00-08:00'
-images: []
-location: 'BIKE WORKS WAREHOUSE, 3715 S Hudson St #111, Seattle, Washington, 98118,
-  United States'
-locations:
-- King County
-original_content: '<section id="tribe-events-pg-template" class="tribe-events-pg-template"
+feed_content: '<section id="tribe-events-pg-template" class="tribe-events-pg-template"
   role="main"><div class="tribe-events-before-html"><h1>Events</h1></div> <div id="tribe-events-content"
   class="tribe-events-single tribe-blocks-editor"> <p class="tribe-events-back"> <a
   href="https://bikeworks.org/events/"> « All Events </a></p> <div class="tribe-events-series-relationship-single-marker
@@ -43,15 +38,11 @@ original_content: '<section id="tribe-events-pg-template" class="tribe-events-pg
   <li class="tribe-events-nav-previous"><a href="https://bikeworks.org/event/volunteer-repair-party/2026-02-16/"><span>«</span>
   Volunteer Repair Party</a></li> <li class="tribe-events-nav-next"><a href="https://bikeworks.org/event/warehouse-sale-2/2026-02-21/">Warehouse
   sale <span>»</span></a></li> </ul> </div> </div> </section>'
-original_markdown_body: 'Events    « All Events    Event Series:    Volunteer Repair
-  Party    Volunteer Repair Party    February 19, 2026   @   6:00 PM   –   9:00 PM  Volunteer
-  Repair Parties (VRP) are weekly bike repair parties for adults (age 18 and up). You
-  do not need to be a skilled bike mechanic to help out. This is how most volunteers with
-  Bike Works get their start. Volunteer Repair Parties are now on Mondays and Thursdays- click
-  here to get started! We require all particpants to complete an application and orientation
-  process before attending Volunteer Repair Parties.   BIKE WORKS WAREHOUSE   3715
-  S Hudson St #111 Seattle, Washington 98118 United States  + Google Map    Related   Event
-  Navigation  « Volunteer Repair Party Warehouse sale »'
+images: []
+location: 'BIKE WORKS WAREHOUSE, 3715 S Hudson St #111, Seattle, Washington, 98118,
+  United States'
+locations:
+- King County
 published: false
 source: Bike Works
 source_url: https://bikeworks.org/event/volunteer-repair-party-2/2026-02-19/

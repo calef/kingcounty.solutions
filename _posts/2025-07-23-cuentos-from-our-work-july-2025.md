@@ -2,35 +2,7 @@
 date: '2025-07-23T20:28:23+00:00'
 events: []
 events_extracted: true
-images:
-- 9a63d9e1f9e171082eb10d41fcfee81f4d611b50c4fce9e639fd5d437e007181
-- 60630784a990529a02cdcd536993441fbb96752e5b9a1fed2437a91c68fb0211
-- e981a330d32a6f69d872280744c6a7805b34e3b646d94e1897f94364bc3c7d1f
-- 522b784418077d82ab86378297790e49eedeb3cc870452a2bd92b041b8fe8c1f
-- b863c1b96644f9129f4cbbdead3dd7941b403b536a4f52659f1a9de266b37462
-- 355be08cdc4b07310f9462ba808e2e30d811e3457b206e50e04af90e4972308d
-- 0e3b810a9bfc2e0a27ee1fd467662d8dd3c6d09e49b2efa773cb0360601c3883
-- ff3fe20b911b1b7b4d4a9b3c4810aafa167b5c08a3b770f4a9791d20127f4967
-- 9e7271654bfe194c7115694f9492ca09e131a97fa62d3eb5347e705ba98fbe1e
-- 88fb0f91f4294e22b5f2cc6ec6953cc3406d6369e4982f3b4aa68ac18c4b91de
-- c87c12e77829b5ebe13046c2ce6b9d7c48b9f683a0bde8a4bf8bf29e52915dd1
-- 02ce07149ba895eb1885e3d4c3a4568c683112866c7de2ff263798cbaaaba981
-- cff10de5045983cac2b8995d434478b2c84a45550476fecac4bdc084c11dbbf1
-- 9bcc595ebf89155f740379fbbaf135245345c04dd8fa994aa1d59a9146d1c5c1
-- e8602196f42ebe896d2818b65133ea409e65e321a97c9b24dc9c4ca20998bb31
-- 5fde0aca7844c3a51e1cbb0b9677279113f30079816318fb9e42359e3c867768
-- 47571fa671e5ea1f7dbd721e1107a82248fc467ca631bad8ac45ba17a65fe30e
-- fa009c602516281d115a3eeda79a2b504ec6f526f9a382dd3a24c1cc36b7f5d0
-- 137278cddb3c178e8aa4ade37459aa6bf16b6f28cb73c5635e44f46baf063052
-- 8586d8e7b26daf3bfac0faed4ab9f90b7c18f180a648c8f3cb10d33133c51c48
-- 15b1f8092ea4d616deb40412989a72da544fa0d17dad9cc90bfd4bd0b0c0e72c
-- 3031ef9cf976178c71f5f635054c05efe2824273294d3c383f7d14eb0a78b7b9
-- b0c53eba0ecba1cc18ffaa26b4138b6b0436202bbbcbade0dd8d3d2b1f132526
-- 2d42dd745001f8bf9821dddfcae805c63a8df6ac56488553ad5b4fb9758baa28
-- 0246e9a1c354afaba6b82a5de856af8cf724c9b7e1cdaf8dceff6611270cbfe3
-locations:
-- King County
-original_content: "<p><strong>We Welcomed The Chilean Consulate</strong> &#8211; July
+feed_content: "<p><strong>We Welcomed The Chilean Consulate</strong> &#8211; July
   16-19, 2025</p>\n\n\n\n<div class=\"wp-block-group is-vertical is-layout-flex wp-container-core-group-is-layout-8cf370e7
   wp-block-group-is-layout-flex\">\n<p>The Chilean Consulate recently completed a
   successful three-day visit to Seattle—right here at El Centro de la Raza</p>\n\n\n\n<p>We
@@ -639,81 +611,34 @@ original_content: "<p><strong>We Welcomed The Chilean Consulate</strong> &#8211;
   post <a href=\"https://www.elcentrodelaraza.org/cuentos-from-our-work-july-2025/\">Cuentos
   from Our Work: July 2025</a> appeared first on <a href=\"https://www.elcentrodelaraza.org\">El
   Centro de la Raza</a>.</p>"
-original_markdown_body: "**We Welcomed The Chilean Consulate** – July 16-19, 2025\n\nThe
-  Chilean Consulate recently completed a successful three-day visit to Seattle—right
-  here at El Centro de la Raza\n\nWe were proud to host this impactful event, which
-  provided critical support to our Chilean community through passport renewals, civil
-  registry services, and other essential consular assistance.\n\nThanks to the Consulate’s
-  team, many community members were able to access the services they needed—right
-  in their own neighborhood.\n\nTogether, we helped bring government services closer
-  to the people who need them most. ¡Gracias a todos los que participaron!\n\n![](https://www.elcentrodelaraza.org/wp-content/uploads/2025/07/Media-4-943x707.jpg)\n\n![](https://www.elcentrodelaraza.org/wp-content/uploads/2025/07/Media-3-943x707.jpg)\n\n![](https://www.elcentrodelaraza.org/wp-content/uploads/2025/07/Media-2-943x707.jpg)\n\n![](https://www.elcentrodelaraza.org/wp-content/uploads/2025/07/Media-1-943x707.jpg)\n\n![](https://www.elcentrodelaraza.org/wp-content/uploads/2025/07/Media-943x707.jpg)\n\n**_Youth
-  Services: Summer of Learning & Leadership Camps_**\n\nSummer is in Session!\n\nAll
-  of our Youth Services Summer Programs&nbsp;are off to a powerful start—including
-  Échale Ganas, Hope for Youth, College ¡Ganas!, and more!\n\nOur Échale Ganas Summer
-  Camp&nbsp;is already making an incredible impact. 75 middle school youth—35 in Seattle
-  and 40 in Federal Way—are spending their summer engaged in Ethnic Studies, STEM,
-  and Marijuana Prevention & Environmental Justice&nbsp;through hands-on learning,
-  critical thinking, and weekly field trips.\n\nRunning June 23–August 13, Monday–Friday
-  | 9:30 AM–3:30 PM, Échale Ganas is designed to prevent summer learning loss while
-  building confidence, curiosity, and community.\n\nHuge thanks to our youth and families
-  for showing up each day ready to grow, learn, and lead. ¡Échale ganas!\n\n![](https://www.elcentrodelaraza.org/wp-content/uploads/2025/07/Image-48-943x707.jpg)\n\n![](https://www.elcentrodelaraza.org/wp-content/uploads/2025/07/Image-40.jpg)\n\n![](https://www.elcentrodelaraza.org/wp-content/uploads/2025/07/Image-41-530x707.jpg)\n\n![](https://www.elcentrodelaraza.org/wp-content/uploads/2025/07/Image-49-943x707.jpg)\n\n&nbsp;\n\n**&nbsp;José
-  Martí Child Development Center** : **New Mural Unveiled at Cedar Crossing!&nbsp;**\n\nWe’re
-  proud to unveil&nbsp;Storybook, a vibrant new mural by @onesevennine (Angelina Villalobos
-  Soto) that now brightens the playground wall at our José Martí Child Development
-  Center – Cedar Crossing. When the new Roosevelt Light Rail Station blocked much
-  of the natural sunlight to the playground, Sound Transit partnered with us to bring
-  warmth and light back to the space—through at. The result? A joyful, bilingual mural
-  that celebrates our children, community, and culture.\n\n“Storybook”&nbsp;features
-  a poem by José Martí in both English and Spanish, honoring our dual-language program
-  and the cultural richness of our youth.What makes this even more special? Angelina—once
-  a student at JMCDC herself—returned to co-create a piece that now inspires the next
-  generation. A heartfelt thank you to the Sound Transit team: Lucile Chich, Barbara
-  Luecke, Joanna Valeri, Amanda Wright,&nbsp;Desmond Brown and Brooke Belman&nbsp;for
-  helping turn this vision into reality.\n\nWith 68 students across 4 classrooms,
-  this mural is more than paint on a wall—it’s a symbol of our enduring belief in
-  the power of arts, culture, and community.\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/07/IMG_5517-943x707.jpg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/07/IMG_5518-943x707.jpg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/07/download-1-1-943x707.png?ssl=1)\n\n**Senior
-  Hub: Celebrating Our Seniors – Health Is Power!**\n\nWe’re proud to celebrate the
-  first graduating cohort of Tomando Control de Su Salud at El Centro de la Raza’s
-  Senior Hub! Over six powerful weeks, our elders took charge of their physical, emotional,
-  and social well-being—learning practical tools to manage chronic conditions and
-  commit to healthier living. Led by our dedicated facilitators, Flor Gomez and Raquel
-  Garcia, this evidence-based workshop helps participants make meaningful lifestyle
-  changes—from nutrition and exercise to setting “action plans” that put learning
-  into practice. Thanks to new funding from the City of Seattle, we’re excited to
-  expand this transformative program and offer two full cohorts this year.  \nBecause
-  la salud es poder—health is power.\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/07/PXL_20250624_192754640.MP_-943x707.jpg?ssl=1)\n\n**Meet
-  Candy—the newest companion to one of our senior veterans.**\n\nAfter losing his
-  beloved dog, one of our Veterans of Color Pathfinders participants dreamed of welcoming
-  a new companion. We connected him with the Auburn Humane Society, who generously
-  covered the adoption fee—and we were there every step of the way.\n\nThanks to our
-  team and support from the MVA, we helped with transportation and made sure he didn’t
-  go through this special moment alone. Candy won him over instantly—and now they’re
-  starting a new chapter together.&nbsp;\n\nAt El Centro de la Raza, our&nbsp; **Veterans
-  of Color Pathfinders Program** &nbsp;supports veterans and their families through
-  advocacy, outreach, and connection to services—with heart.\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/07/alan-sugar-2-379x707.jpg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/07/alan-sugar--379x707.jpg?ssl=1)\n\n**Youth
-  Internships: Bank of America’s Student Leaders**\n\nAt El Centro de la Raza, we’re
-  proud to partner with Bank of America’s Student Leaders® program to help shape the
-  next generation of changemakers.\n\nThis program offers young leaders the opportunity
-  to serve, inspire, and create change through paid internships, leadership training,
-  and a national summit.\n\nWe’re honored to stand alongside fellow host organizations—
-  Mercy Housing, Habitat for Humanity Seattle-King County, Technology Access Foundation,
-  and the The Museum of Flight—to support these driven students as they gain real-world
-  experience and build a more equitable future.\n\nThank you, Bank of America, for
-  investing in youth and community.\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/07/thumbnail_Facetune_16-07-2025-13-55-40-Copy-1-530x707.jpg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/07/Image-33-Copy-1-530x707.jpg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/07/Image-30-2-530x707.jpg?ssl=1)\n\nFour
-  Amigos – Beloved Community was selected as a 2025 VISION 2050 Award winner!\n\nOn
-  July 21, we proudly joined the Seattle and Bellevue 2030 Districts at the Waterfront
-  Overlook Walk in Seattle to receive this meaningful recognition.\n\nThe Vision Awards
-  brought together property owners, architects, engineers, contractors, and community
-  groups to celebrate bold leadership in building a more sustainable and inclusive
-  region.\n\nThank you to the VISION 2050 Awards Selection Committee for recognizing
-  the transformative impact of community-driven development. \U0001F49B\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/07/shared-image-3-530x707.jpg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/07/shared-image-2-943x707.jpg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/07/shared-image-1-943x707.jpg?ssl=1)\n\n**El
-  Centro de la Raza was proud to host the 7th annual #SeattleLatinxPride at Plaza
-  Roberto Maestas!**\n\nHundreds gathered in a powerful and joyful celebration of
-  Latinx identity, culture, and love. From music and dance to community connection,
-  this vibrant event—organized by @SomosSeattle—continues to uplift and unite.\n\nGracias
-  to everyone who showed up with pride and purpose. ¡Pa’lante siempre!\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/07/22-AL101448-1-471x707.jpg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/07/31-AL101479-1-986x707.jpg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/07/50-AL101518-1-769x707.jpg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/07/1-AL101391-471x707.jpg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/07/49-AL101505-471x707.jpg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/07/50-AL101518-769x707.jpg?ssl=1)\n\n![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/07/80-_A745619-471x707.jpg?ssl=1)\n\nThe
-  post [Cuentos from Our Work: July 2025](https://www.elcentrodelaraza.org/cuentos-from-our-work-july-2025/)
-  appeared first on [El Centro de la Raza](https://www.elcentrodelaraza.org)."
+images:
+- 9a63d9e1f9e171082eb10d41fcfee81f4d611b50c4fce9e639fd5d437e007181
+- 60630784a990529a02cdcd536993441fbb96752e5b9a1fed2437a91c68fb0211
+- e981a330d32a6f69d872280744c6a7805b34e3b646d94e1897f94364bc3c7d1f
+- 522b784418077d82ab86378297790e49eedeb3cc870452a2bd92b041b8fe8c1f
+- b863c1b96644f9129f4cbbdead3dd7941b403b536a4f52659f1a9de266b37462
+- 355be08cdc4b07310f9462ba808e2e30d811e3457b206e50e04af90e4972308d
+- 0e3b810a9bfc2e0a27ee1fd467662d8dd3c6d09e49b2efa773cb0360601c3883
+- ff3fe20b911b1b7b4d4a9b3c4810aafa167b5c08a3b770f4a9791d20127f4967
+- 9e7271654bfe194c7115694f9492ca09e131a97fa62d3eb5347e705ba98fbe1e
+- 88fb0f91f4294e22b5f2cc6ec6953cc3406d6369e4982f3b4aa68ac18c4b91de
+- c87c12e77829b5ebe13046c2ce6b9d7c48b9f683a0bde8a4bf8bf29e52915dd1
+- 02ce07149ba895eb1885e3d4c3a4568c683112866c7de2ff263798cbaaaba981
+- cff10de5045983cac2b8995d434478b2c84a45550476fecac4bdc084c11dbbf1
+- 9bcc595ebf89155f740379fbbaf135245345c04dd8fa994aa1d59a9146d1c5c1
+- e8602196f42ebe896d2818b65133ea409e65e321a97c9b24dc9c4ca20998bb31
+- 5fde0aca7844c3a51e1cbb0b9677279113f30079816318fb9e42359e3c867768
+- 47571fa671e5ea1f7dbd721e1107a82248fc467ca631bad8ac45ba17a65fe30e
+- fa009c602516281d115a3eeda79a2b504ec6f526f9a382dd3a24c1cc36b7f5d0
+- 137278cddb3c178e8aa4ade37459aa6bf16b6f28cb73c5635e44f46baf063052
+- 8586d8e7b26daf3bfac0faed4ab9f90b7c18f180a648c8f3cb10d33133c51c48
+- 15b1f8092ea4d616deb40412989a72da544fa0d17dad9cc90bfd4bd0b0c0e72c
+- 3031ef9cf976178c71f5f635054c05efe2824273294d3c383f7d14eb0a78b7b9
+- b0c53eba0ecba1cc18ffaa26b4138b6b0436202bbbcbade0dd8d3d2b1f132526
+- 2d42dd745001f8bf9821dddfcae805c63a8df6ac56488553ad5b4fb9758baa28
+- 0246e9a1c354afaba6b82a5de856af8cf724c9b7e1cdaf8dceff6611270cbfe3
+locations:
+- King County
 source: El Centro de la Raza
 source_url: https://www.elcentrodelaraza.org/cuentos-from-our-work-july-2025/?utm_source=rss&utm_medium=rss&utm_campaign=cuentos-from-our-work-july-2025
 summarized: true

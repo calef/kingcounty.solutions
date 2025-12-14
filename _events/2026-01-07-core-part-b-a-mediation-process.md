@@ -1,11 +1,6 @@
 ---
 end_date: '2026-01-09T18:00:00-08:00'
-images: []
-location: Medical Dental Building, 509 Olive Way, Seattle, WA, 98101-1729, United
-  States
-locations:
-- King County
-original_content: '<div id="simple-banner" class="simple-banner"><div class="simple-banner-text"><span>Did
+feed_content: '<div id="simple-banner" class="simple-banner"><div class="simple-banner-text"><span>Did
   you know we offer virtual office hours every weekday? Click <a href="https://us02web.zoom.us/j/88987063870">VIRTUAL
   OFFICE HOURS</a> Mon-Fri, 11AM-1PM or call 253-205-0468 and enter Meeting ID: 889-8706-3870.
   We look forward to helping you!</span></div></div> <div id="page-container"> <div
@@ -140,24 +135,11 @@ original_content: '<div id="simple-banner" class="simple-banner"><div class="sim
   switcher : Russian" class="weglot-language-ru" role="option" data-wg-notranslate=""
   href="https://kcdrc.org/ru/event/core-part-b-a-mediation-process/?wg-choose-original=false">Русский</a></li>
   </ul></aside>'
-original_markdown_body: 'Did you know we offer virtual office hours every weekday?
-  Click VIRTUAL OFFICE HOURS Mon-Fri, 11AM-1PM or call 253-205-0468 and enter Meeting
-  ID: 889-8706-3870. We look forward to helping you!         Donate         Donate     Contact                  «
-  All Events  CoRE™ Part B: A Mediation Process   January 7, 2026 @ 9:00 am - January
-  9, 2026 @ 6:00 pm     Visit our Learning Portal for more information/registration.
-  We are excited to invite learners to come to our first in-person, full CoRE training
-  experience at our new offices in Downtown Seattle (The Medical-Dental Building).
-  Each day there will be a 1-hour lunch break, with shorter breaks throughout. Lunch,
-  transportation and/or parking are the responsibility of each participant. Prerequisites:
-  All 10 Part A Sessions Part B: Wednesday-Friday: January 7, 8, and 9  9am-6pm, each
-  day 3-day Facilitative Mediation training and practice.          Google Calendar     iCalendar     Outlook
-  365     Outlook Live           Details    Start:   January 7, 2026 @ 9:00 am     End:   January
-  9, 2026 @ 6:00 pm     Event Category: Learning   Website:  https://training.kcdrc.org/      Organizer   KCDRC        Venue    Medical
-  Dental Building     509 Olive Way Seattle, WA 98101-1729 United States  + Google
-  Map       Related Events    CoRE™ Part A: Conflict Resolution Skills January 5,
-  2026 @ 9:00 am - January 6, 2026 @ 6:00 pm                English Tiếng Việt Soomaaliga
-  Español (América Latina) Русский  English Tiếng Việt Soomaaliga Español (América
-  Latina) Русский'
+images: []
+location: Medical Dental Building, 509 Olive Way, Seattle, WA, 98101-1729, United
+  States
+locations:
+- King County
 published: false
 source: Dispute Resolution Center of King County
 source_url: https://kcdrc.org/event/core-part-b-a-mediation-process/

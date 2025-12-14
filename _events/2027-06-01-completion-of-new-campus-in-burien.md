@@ -4,8 +4,6 @@ images: []
 location: Burien, WA
 locations:
 - Burien
-original_markdown_body: Anticipated completion of a transformative campus providing
-  emergency family shelter and affordable housing.
 published: false
 source: Mary's Place
 source_url: https://www.marysplaceseattle.org/blog/building-love-in-burien-new-campus-will-provide-shelter-affordable-housing-and-lasting-stability-for-families

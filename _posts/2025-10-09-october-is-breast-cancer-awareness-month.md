@@ -2,10 +2,7 @@
 date: '2025-10-09T15:37:01+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- Snoqualmie Valley
-original_content: |-
+feed_content: |-
   Breast Cancer Awareness Month is a time to reflect, learn, and take action. Every October, communities around the world come together to raise awareness of breast cancer, honor those who have been impacted, and emphasize the importance of early detection. At Snoqualmie Valley Health, we are proud to support this mission by offering advanced screening technology close to home.
 
   #### Why Screening Matters
@@ -38,6 +35,9 @@ original_content: |-
   Call 425-831-3526 to schedule your mammogram today, or self-schedule through [MyChart](https://linkprotect.cudasvc.com/url?a=https%3a%2f%2fsnoqualmievalleyhealth.org%2fmychart%2f&c=E,1,eClW24bI-0P8eCftnDzPmaRlEGHwIp2LmNjb_PBBcu5BwVj-6XHomKJQLlhu3NLThfvB8geWGGr3sNGqZTeNnFGAI0OYBKCnkbPbcWZQL6oSKCwZrxpTcmu0Qgs,&typo=1)&nbsp;if you’re over 40.
 
   The post [October is Breast Cancer Awareness Month](https://snoqualmievalleyhealth.org/october-is-breast-cancer-awareness-month/) appeared first on [Snoqualmie Valley Hospital](https://snoqualmievalleyhealth.org).
+images: []
+locations:
+- Snoqualmie Valley
 source: Hospital District No. 4 (Snoqualmie Valley Hospital)
 source_url: https://snoqualmievalleyhealth.org/october-is-breast-cancer-awareness-month/
 summarized: true

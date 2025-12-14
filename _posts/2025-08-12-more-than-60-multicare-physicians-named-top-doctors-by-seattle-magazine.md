@@ -2,10 +2,7 @@
 date: '2025-08-12T18:36:42+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <p>TACOMA, Wash. — Seattle Magazine has honored over 60 MultiCare physicians in its 25th annual “Top Doctors” issue. The list names the best physicians in the Puget Sound region.</p>
   <p>Doctors on this list were nominated by their peers — licensed physicians in the region — along with the help of Castle Connolly Medical Ltd., a health care research and information company that identifies the top doctors in America.</p>
   <p>Below are the MultiCare physicians recognized this year by Seattle Magazine. View the full <a href="https://seattlemag.com/top-doctors/" target="_blank" rel="noopener external noreferrer" data-wpel-link="external" class="wpel-icon-right">Top Doctors 2025 list<span class="wpel-icon wpel-image wpel-icon-6"></span></a>.</p>
@@ -87,91 +84,9 @@ original_content: |-
   <li><a href="https://www.multicare.org/provider/brian-j-schoos/" data-wpel-link="internal">Brian Schoos, MD</a>: pediatrics; Woodcreek Pediatrics, Bonney Lake</li>
   </ul>
   <p>The post <a href="https://www.multicare.org/newsroom/2025/08/seattle-magazine-top-doctors-2025/" data-wpel-link="internal">More than 60 MultiCare physicians named ‘Top Doctors’ by Seattle Magazine</a> appeared first on <a href="https://www.multicare.org" data-wpel-link="internal">MultiCare</a>.</p>
-original_markdown_body: |-
-  TACOMA, Wash. — Seattle Magazine has honored over 60 MultiCare physicians in its 25th annual “Top Doctors” issue. The list names the best physicians in the Puget Sound region.
-
-  Doctors on this list were nominated by their peers — licensed physicians in the region — along with the help of Castle Connolly Medical Ltd., a health care research and information company that identifies the top doctors in America.
-
-  Below are the MultiCare physicians recognized this year by Seattle Magazine. View the full [Top Doctors 2025 list](https://seattlemag.com/top-doctors/).
-
-  ### MultiCare Medical Partners
-
-  - [Zachary B. Adler, MD](https://www.multicare.org/provider/zachary-adler/): orthopedic surgery
-  - [Amir Ahmad Azari, MD, FACOG](https://www.multicare.org/provider/amir-ahmad-azari/): obstetrics and gynecology
-  - [Rebecca L. Benko, MD](https://www.multicare.org/provider/rebecca-l-benko/): family medicine
-  - [Camela A. Billick, MD](https://www.multicare.org/provider/camela-billick/): family medicine
-  - [Tamara T. Chao, MD](https://www.multicare.org/provider/tamara-tin-may-chao/): maternal-fetal medicine
-  - [Benjamin Y. Chen, MD](https://www.multicare.org/provider/benjamin-chen/): orthopedic surgery
-  - [Stephen A. Cobert, MD](https://www.multicare.org/provider/stephen-cobert/): otolaryngology
-  - [Jos A. Cove, MD](https://www.multicare.org/provider/jos-a-cove/): orthopedic surgery
-  - [Greg Davis, MD](https://www.multicare.org/provider/greg-davis/): otolaryngology
-  - [Paul S. Degenfelder, MD](https://www.multicare.org/provider/paul-degenfelder/): orthopedic surgery
-  - [William S. Duke, MD, FACS](https://www.multicare.org/provider/william-duke/): otolaryngology
-  - [David Hou, MD](https://www.multicare.org/provider/david-hou/): pain medicine
-  - [John C. Hung, MD](https://www.multicare.org/provider/john-c-hung/): orthopedic surgery
-  - [Helen Kim, MD](https://www.multicare.org/provider/helen-kim/): family medicine
-  - [Gregory R. Lamberton, MD](https://www.multicare.org/provider/gregory-r-lamberton/): urology
-  - [Kimberly A. Mebust, MD](https://www.multicare.org/provider/kimberly-a-mebust/): sleep medicine
-  - [Loren P. Molina, MD](https://www.multicare.org/provider/loren-molina/): maternal-fetal medicine
-  - [Charles C. Nam, MD](https://www.multicare.org/provider/charles-c-nam/): internal medicine
-  - [Patricia Papadopoulos, MD](https://www.multicare.org/provider/patricia-j-papadopoulos/): rheumatology
-  - [Niraj Patel, MD](https://www.multicare.org/provider/niraj-patel/): ophthalmology
-  - [Christine Puig, MD](https://www.multicare.org/provider/christine-puig/): otolaryngology
-  - [Ryan U. Riel, MD](https://www.multicare.org/provider/ryan-riel/): hand surgery
-  - [Arun Sharma, MD](https://www.multicare.org/provider/arun-sharma/): otolaryngology
-  - [Steve C. Stringfellow, MD](https://www.multicare.org/provider/steve-c-stringfellow/): internal medicine
-  - [Robert M. Tamurian, MD](https://www.multicare.org/provider/robert-tamurian/): orthopedic surgery
-  - [Long Tran, MD](https://www.multicare.org/provider/long-tran/): surgery
-
-  ### **MultiCare Cancer Institute**
-
-  - [Chan-Kyung J. Cho, MD](https://www.multicare.org/provider/chan-kyung-jane-cho/): radiation oncology
-  - [Laila Rashidi, MD, FACS, FASCRS](https://www.multicare.org/provider/laila-rashidi/): colon and rectal surgery
-
-  ### **Pulse Heart Institute**
-
-  - [Prashant Atri, MD](https://www.multicare.org/provider/prashant-atri/): interventional cardiology
-  - [Ravi Hira, MD, FACC, FAHA, FSCAI](https://www.multicare.org/provider/ravi-hira/): interventional cardiology
-  - [Tobias T. Lee, MD](https://www.multicare.org/provider/tobias-t-lee/): cardiovascular disease
-
-  ### **MultiCare Mary Bridge Children’s Hospital**
-
-  - [Stephanie Acierno, MD, MPH, FACS, FAAP](https://www.multicare.org/provider/stephanie-p-acierno/): pediatric surgery
-  - [Meade Barlow, MD, FACS, FAAP](https://www.multicare.org/provider/meade-barlow/): pediatric surgery
-  - [Elizabeth Berdan, MD, MS, FAAP, FAPSA](https://www.multicare.org/provider/elizabeth-liz-berdan/): pediatric surgery
-  - [Jason Cheung, MD](https://www.multicare.org/provider/jason-c-cheung/): pediatric ophthalmology
-  - [Sean Ciullo, MD](https://www.multicare.org/provider/sean-ciullo/): pediatric surgery
-  - [Mary P. Fairchok, MD](https://www.multicare.org/provider/mary-p-fairchok/): pediatric infectious disease
-  - [Gavin Falk, MD](https://www.multicare.org/provider/gavin-falk/): pediatric surgery
-  - [Britney G. Frazier, MD](https://www.multicare.org/provider/britney-g-frazier/): pediatric endocrinology
-  - [Joseph D. Gramling, MD](https://www.multicare.org/provider/joseph-gramling/): pediatric gastroenterology
-  - [Rohit Gupta, MD, FAAP](https://www.multicare.org/provider/rohit-gupta/): pediatric gastroenterology
-  - Pin-Yi Ko, MD: pediatric neurology
-  - [Randall M. Holland, MD, FACS](https://www.multicare.org/provider/randall-m-holland/): pediatric surgery
-  - [Bradley Hood, MD](https://www.multicare.org/provider/bradley-hood/): developmental behavioral pediatrics
-  - [Mara Horwitz, MD](https://www.multicare.org/provider/mara-horwitz/): pediatric rheumatology
-  - [Robert G. Irwin, MD](https://www.multicare.org/provider/robert-g-irwin/): pediatric hematology-oncology
-  - [Kimberly A. Johnson, MD](https://www.multicare.org/provider/kimberly-johnson/): developmental behavioral pediatrics
-  - [Allison Langs-Barlow, MD](https://www.multicare.org/provider/allison-langs-barlow/): pediatric infectious disease
-  - [David B. Lashley, MD](https://www.multicare.org/provider/david-lashley/): pediatric urology
-  - [Steven A. Phillips, MD](https://www.multicare.org/provider/steven-phillips/): pediatric neurology
-  - [Nicholas Rajacich, MD](https://www.multicare.org/provider/nicholas-rajacich/): orthopedic surgery
-  - [Catherine Sampert, DO](https://www.multicare.org/provider/catherine-sampert/): pediatric gastroenterology
-  - [Anisha Schwarz, MD](https://www.multicare.org/provider/anisha-schwarz/): pediatric neurology
-  - [Barbara Thompson, MD](https://www.multicare.org/provider/barbara-thompson/): pediatric endocrinology
-  - [Raghu U. Varier, DO](https://www.multicare.org/provider/raghu-varier/): pediatric gastroenterology
-  - [Rebecca Whitesell, MD](https://www.multicare.org/provider/rebecca-whitesell/): orthopedic surgery
-
-  ### MultiCare Mary Bridge Children’s affiliated physicians
-
-  - [Heather L. Cooper, MD](https://www.multicare.org/provider/heather-l-cooper/): pediatrics; Woodcreek Pediatrics, Bonney Lake
-  - [Jennie Hendrie, MD](https://www.multicare.org/provider/jennie-g-hendrie/): pediatrics; Woodcreek Pediatrics, Bonney Lake
-  - [Bradley Kirschner, MD](https://www.multicare.org/provider/bradley-kirschner/): pediatrics; Pediatrics Northwest, Tacoma
-  - [Denise Michaelsen, MD](https://www.multicare.org/provider/denise-michaelsen/): pediatrics; Harbor Pediatrics, Gig Harbor
-  - [Sharon Santos, MD](https://www.multicare.org/provider/sharon-r-santos/): pediatrics; Woodcreek Pediatrics, Bonney Lake
-  - [Brian Schoos, MD](https://www.multicare.org/provider/brian-j-schoos/): pediatrics; Woodcreek Pediatrics, Bonney Lake
-
-  The post [More than 60 MultiCare physicians named ‘Top Doctors’ by Seattle Magazine](https://www.multicare.org/newsroom/2025/08/seattle-magazine-top-doctors-2025/) appeared first on [MultiCare](https://www.multicare.org).
+images: []
+locations:
+- King County
 source: MultiCare
 source_url: https://www.multicare.org/newsroom/2025/08/seattle-magazine-top-doctors-2025/
 summarized: true

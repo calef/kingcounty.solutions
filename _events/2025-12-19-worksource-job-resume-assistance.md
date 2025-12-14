@@ -1,11 +1,6 @@
 ---
 end_date: '2025-12-19T12:00:00-08:00'
-images: []
-location: Tukwila Library, 14380 Tukwila International Boulevard, Tukwila, WA, United
-  States
-locations:
-- King County
-original_content: <section class="page-layout interior-layout"> <div class="main-content-area
+feed_content: <section class="page-layout interior-layout"> <div class="main-content-area
   events-template"> <div class="container"> <div id="tribe-events-pg-template" class="tribe-events-pg-template">
   <section id="tribe-events-pg-template" class="tribe-events-pg-template"> <div id="tribe-events-content"
   class="tribe-events-single"> <h1 class="tribe-events-single-event-title">Worksource
@@ -84,20 +79,11 @@ original_content: <section class="page-layout interior-layout"> <div class="main
   class="tribe-event-date-start">December 7 @ 8:00 am</span> - <span class="tribe-event-time">5:00
   pm</span> </div> </li> </ul> </div> <p class="tribe-events-back"> <a href="https://www.tukwilawa.gov/events/"
   class="btn"> Back to events</a> </p> </div> </section> </div> </div> </div> </section>
-original_markdown_body: 'Worksource Job & Resume Assistance   December 19 @ 10:00
-  am - 12:00 pm       Stop by Worksource tabling in the library for assistance with
-  your resume, preparing for interviews, finding job fairs or exploring your career
-  options. Registration not required. Reasonable accommodation for people with disabilities
-  is available by request. Email access@kcls.org at least seven days before the event.
-  Automated closed captioning is always available for online events.      Program:
-  Invest in Yourself Suitable for: Adults (Ages 18 and older) Teens (Ages 13 to 17)            Google
-  Calendar     iCalendar     Outlook 365     Outlook Live           Details    Date:   December
-  19     Time:   10:00 am - 12:00 pm     Event Category: Community Event      Venue    Tukwila
-  Library     14380 Tukwila International Boulevard Tukwila, WA United States  + Google
-  Map    Phone  (206) 242-1640     View Venue Website       Related Events    Westfield
-  Southcenter – Frosty’s Friends Scavenger Hunt & Kids’ Crafts December 6 @ 11:00
-  am - 1:00 pm     Seafood City Late Night Madness December 6 @ 8:00 pm - 11:00 pm     Give
-  Blood to Save 3 Lives December 7 @ 8:00 am - 5:00 pm       Back to events'
+images: []
+location: Tukwila Library, 14380 Tukwila International Boulevard, Tukwila, WA, United
+  States
+locations:
+- King County
 source: City of Tukwila
 source_url: https://www.tukwilawa.gov/event/worksource-job-resume-assistance-3/
 start_date: '2025-12-19T10:00:00-08:00'

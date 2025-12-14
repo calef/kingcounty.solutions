@@ -1,14 +1,12 @@
 ---
 end_date: '2026-02-06T19:30:00-08:00'
+feed_content: <div class="field-items"> <div class="field-item"> <p>Guitar students
+  of Michael Partington present their quarterly studio recital.</p> <h2>Director Biography</h2>
+  </div> </div>
 images: []
 location: Music Building (MUS)
 locations:
 - King County
-original_content: <div class="field-items"> <div class="field-item"> <p>Guitar students
-  of Michael Partington present their quarterly studio recital.</p> <h2>Director Biography</h2>
-  </div> </div>
-original_markdown_body: "Guitar students of Michael Partington present their quarterly
-  studio recital.\n\n \n## Director Biography"
 published: false
 source: University of Washington
 source_url: https://music.washington.edu/events/2026-02-06/guitar-studio-recital

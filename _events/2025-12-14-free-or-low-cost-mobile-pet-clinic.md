@@ -1,10 +1,6 @@
 ---
 end_date: '2025-12-14T13:00:00-08:00'
-images: []
-location: Renton Library, 100 Mill Ave S, Renton, 98057, United States
-locations:
-- King County
-original_content: '<section class="page-layout interior-layout"> <div class="main-content-area
+feed_content: '<section class="page-layout interior-layout"> <div class="main-content-area
   events-template"> <div class="container"> <div id="tribe-events-pg-template" class="tribe-events-pg-template">
   <section id="tribe-events-pg-template" class="tribe-events-pg-template"> <div id="tribe-events-content"
   class="tribe-events-single"> <div class="tribe-events-series-relationship-single-marker
@@ -128,28 +124,10 @@ original_content: '<section class="page-layout interior-layout"> <div class="mai
   6 @ 11:00 am</span> - <span class="tribe-event-time">1:00 pm</span> </div> </li>
   </ul> </div> <p class="tribe-events-back"> <a href="https://www.tukwilawa.gov/events/"
   class="btn"> Back to events</a> </p> </div> </section> </div> </div> </div> </section>'
-original_markdown_body: 'Event Series:    Free or Low-Cost Mobile Pet Clinic    Free
-  or Low-Cost Mobile Pet Clinic   December 14 @ 11:00 am - 1:00 pm         WA Health
-  Outreach provide free or low-cost services for everyone who is unhoused or low income. 
-  See below for Household Income Levels for eligibility.         Services are first
-  come first serve, no appointments.  We recommend that you arrive earlier than the
-  start time of the clinic. Expect to wait some time for your turn to be seen, so
-  bring what you need to stay comfortable.  We do our best to get through our line
-  as quickly as we can while delivering high quality patient care to every family.
-  Please remember that we are a small team and we may not have the capacity to see
-  every pet that comes to a clinic. We are grateful for your understanding and patience
-  as we work hard to meet the needs in our community.  Español      中文                Everyone
-  who income qualifies is welcome at our King County clinics, regardless of location/jurisdiction. 
-  All clients who access services at any of our clinics must attest in writing to
-  meeting the below income qualification levels.                                   Google
-  Calendar     iCalendar     Outlook 365     Outlook Live           Details    Date:   December
-  14     Time:   11:00 am - 1:00 pm    Series:    Free or Low-Cost Mobile Pet Clinic    Event
-  Category: Community Event   Website:  https://www.wahealthoutreach.org/kingschedule       Venue    Renton
-  Library     100 Mill Ave S Renton, 98057 United States  + Google Map       Related
-  Events    Seafood City Late Night Madness December 5 @ 8:00 pm - 11:00 pm     Free
-  Dental Clinic for Kids Eligible for Apple Health/Medicaid December 6 @ 8:00 am -
-  2:00 pm     Westfield Southcenter – Frosty’s Friends Scavenger Hunt & Kids’ Crafts
-  December 6 @ 11:00 am - 1:00 pm       Back to events'
+images: []
+location: Renton Library, 100 Mill Ave S, Renton, 98057, United States
+locations:
+- King County
 published: false
 source: City of Tukwila
 source_url: https://www.tukwilawa.gov/event/free-or-low-cost-mobile-pet-clinic/2025-12-14/

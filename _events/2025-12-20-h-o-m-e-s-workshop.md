@@ -1,13 +1,9 @@
 ---
 end_date: '2025-12-20T14:00:00-08:00'
-images: []
-location: First Place School, 172 20th Ave, Seattle, 98122, United States
-locations:
-- King County
-original_content: "<div><div><span>Did you know we offer virtual office hours every
-  weekday? Click <a>VIRTUAL OFFICE HOURS</a> Mon-Fri, 11AM-1PM or call 253-205-0468
-  and enter Meeting ID: 889-8706-3870. We look forward to helping you!</span></div></div>
-  <div> <div> <header> <div> <div> <div> <div> <div> <a>Donate</a> </div> </div> </div>
+feed_content: "<div><div><span>Did you know we offer virtual office hours every weekday?
+  Click <a>VIRTUAL OFFICE HOURS</a> Mon-Fri, 11AM-1PM or call 253-205-0468 and enter
+  Meeting ID: 889-8706-3870. We look forward to helping you!</span></div></div> <div>
+  <div> <header> <div> <div> <div> <div> <div> <a>Donate</a> </div> </div> </div>
   </div> <div> <div> <div> <div> <a>Donate</a> </div> </div> <div> <div> <a>Contact</a>
   </div> </div> </div> </div> </div> </header> <div> <div> <div> <div> <div> <article>
   <div> <section> <div> <p> <a> « All Events</a> </p> <h1>H.O.M.E.S Workshop</h1>
@@ -44,27 +40,11 @@ original_content: "<div><div><span>Did you know we offer virtual office hours ev
   <li><a>Русский</a></li> </ul></aside> <aside><label><span>English</span></label><ul>
   <li><a>Tiếng Việt</a></li> <li><a>Soomaaliga</a></li> <li><a>Español (América Latina)</a></li>
   <li><a>Русский</a></li> </ul></aside>"
-original_content_checksum: 87b95c89c79d3b59eb8bd7d19689c5a7d1ca76f6
-original_markdown_body: 'Did you know we offer virtual office hours every weekday?
-  Click VIRTUAL OFFICE HOURS Mon-Fri, 11AM-1PM or call 253-205-0468 and enter Meeting
-  ID: 889-8706-3870. We look forward to helping you!         Donate         Donate     Contact                  «
-  All Events  H.O.M.E.S Workshop   December 20 @ 11:00 am - 2:00 pm  Free    HOMES
-  (Homeowners’ Outreach, Mentoring, and Education Services) is a housing program to
-  educate seniors, veterans and people with disabilities who qualify with assistance
-  in completing the application for the property tax exemption. The income limit has
-  increased to $84,000, enabling a larger group to qualify for this exemption. Monthly
-  workshops will take place where eligible King County residents will meet with counselors
-  who will help them complete the forms to apply for property tax exemption. Not sure
-  if you’re eligible? Check here.           Google Calendar     iCalendar     Outlook
-  365     Outlook Live           Details    Date:   December 20     Time:   11:00
-  am - 2:00 pm     Cost:  Free    Event Category: Workshop   Website:  https://kcdrc.org/housing-disputes/homes-tax-exemptions/      Organizer   KCDRC        Venue    First
-  Place School     172 20th Ave Seattle, 98122 United States  + Google Map            HOMES
-  Workshop   0   Going     7  remaining        RSVP Here         Related Events    KC
-  CONNECT: 2nd Saturdays Online Workshop December 13 @ 11:00 am - 1:00 pm     KC CONNECT:
-  2nd Saturdays Online Workshop January 10, 2026 @ 11:00 am - 1:00 pm     KC CONNECT:
-  2nd Saturdays Online Workshop February 14, 2026 @ 11:00 am - 1:00 pm                English
-  Tiếng Việt Soomaaliga Español (América Latina) Русский  English Tiếng Việt Soomaaliga
-  Español (América Latina) Русский'
+feed_content_checksum: 87b95c89c79d3b59eb8bd7d19689c5a7d1ca76f6
+images: []
+location: First Place School, 172 20th Ave, Seattle, 98122, United States
+locations:
+- King County
 source: Dispute Resolution Center of King County
 source_url: https://kcdrc.org/event/h-o-m-e-s-workshop/
 start_date: '2025-12-20T11:00:00-08:00'

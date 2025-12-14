@@ -2,10 +2,7 @@
 date: '2025-09-08T18:09:55+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- Snoqualmie Valley
-original_content: |-
+feed_content: |-
   #### Stay Steady, Stay Independent
 
   Falls are a leading cause of injury among older adults, yet most are preventable. As we enter the fall season, it is the perfect time to evaluate your risk of falling and take steps to strengthen your balance, improve your confidence, and maintain independence.
@@ -35,6 +32,9 @@ original_content: |-
   <!-- /wp:paragraph -->
 
   The post [Stay Steady, Stay Independent](https://snoqualmievalleyhealth.org/stay-steady-stay-independent/) appeared first on [Snoqualmie Valley Hospital](https://snoqualmievalleyhealth.org).
+images: []
+locations:
+- Snoqualmie Valley
 source: Hospital District No. 4 (Snoqualmie Valley Hospital)
 source_url: https://snoqualmievalleyhealth.org/stay-steady-stay-independent/
 summarized: true

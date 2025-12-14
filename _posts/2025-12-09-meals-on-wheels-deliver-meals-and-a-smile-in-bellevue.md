@@ -2,10 +2,7 @@
 date: '2025-12-09T16:00:07+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- Bellevue
-original_content: |-
+feed_content: |-
   <p><strong>Program:</strong> Meals on Wheels<br><strong>Location:</strong> Bellevue<br><strong>Schedule:</strong> Monday mornings<br><strong>Duration:</strong> Ongoing<br><strong>Group or Individual:</strong> Individual<br><strong>Kid Friendly:</strong> Yes<br><strong>Contact:</strong> <a>mealsonwheels@soundgenerations.org</a><br><strong>Summary: </strong>Deliver meals and a smile!</p>
 
 
@@ -20,23 +17,10 @@ original_content: |-
 
   <p><strong>Interested? Contact us for an application to get started!</strong></p>
   <p>The post <a>Meals on Wheels: Deliver Meals and a Smile in Bellevue!</a> appeared first on <a>Sound Generations</a>.</p>
-original_content_checksum: 8ec31b743acaa8d74ee6220f368fa1d94d80815e
-original_markdown_body: "**Program:** &nbsp;Meals on Wheels  \n**Location:** Bellevue
-  \ \n**Schedule:** Monday mornings  \n**Duration:** &nbsp;Ongoing  \n**Group or Individual:**
-  &nbsp;Individual  \n**Kid Friendly:** &nbsp;Yes  \n**Contact:** &nbsp;mealsonwheels@soundgenerations.org
-  \ \n**Summary:&nbsp;** Deliver meals and a smile!\n\n**Looking for a Fun and Rewarding
-  Volunteer Opportunity? Volunteer with Meals on Wheels!** As a Meals on Wheels Volunteer,
-  you’ll be part of a compassionate team dedicated to helping seniors who are homebound
-  maintain their health and independence. You’ll also be helping to combat social
-  isolation and break down barriers for seniors who need it most. &nbsp;By providing
-  nutritious meals, personal contact, and caring service, you’ll play a crucial role
-  in supporting the well-being of seniors in your community.\n\n**Alternate Delivery**
-  \ **Driver:** &nbsp;Volunteers are needed to deliver meals in Bellevue on **Monday
-  mornings**. Volunteers pick up meals between **9-9:30 am** and are typically done
-  with their route **by 11:00 am**. Mileage is reimbursable. We are looking for volunteers
-  who are interested in volunteering for an on-going basis vs just once or twice.\n\n**Interested?
-  Contact us for an application to get started!**\n\nThe post Meals on Wheels: Deliver
-  Meals and a Smile in Bellevue! appeared first on Sound Generations."
+feed_content_checksum: 8ec31b743acaa8d74ee6220f368fa1d94d80815e
+images: []
+locations:
+- Bellevue
 source: Sound Generations
 source_url: https://soundgenerations.org/meals-on-wheels-deliver-meals-and-a-smile-in-bellevue-2/
 summarized: true

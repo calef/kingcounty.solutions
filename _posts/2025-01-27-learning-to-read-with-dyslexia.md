@@ -2,14 +2,12 @@
 date: '2025-01-27T23:49:40+00:00'
 events: []
 events_extracted: true
+feed_content: <p>The post <a href="https://readingpartners.org/blog/learning-to-read-with-dyslexia/">Learning
+  to read with dyslexia</a> appeared first on <a href="https://readingpartners.org">Reading
+  Partners</a>.</p>
 images: []
 locations:
 - King County
-original_content: <p>The post <a href="https://readingpartners.org/blog/learning-to-read-with-dyslexia/">Learning
-  to read with dyslexia</a> appeared first on <a href="https://readingpartners.org">Reading
-  Partners</a>.</p>
-original_markdown_body: The post [Learning to read with dyslexia](https://readingpartners.org/blog/learning-to-read-with-dyslexia/)
-  appeared first on [Reading Partners](https://readingpartners.org).
 source: Reading Partners Seattle
 source_url: https://readingpartners.org/blog/learning-to-read-with-dyslexia/
 summarized: true

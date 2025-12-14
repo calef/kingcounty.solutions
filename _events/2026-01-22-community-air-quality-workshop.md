@@ -1,11 +1,6 @@
 ---
 end_date: '2026-01-22T19:30:00-08:00'
-images: []
-location: Centilia Cultural Center, 1660 S Plaza Roberto Maestas Festival Street,
-  Seattle, WA, 98144, United States
-locations:
-- King County
-original_content: "<article id=\"post-0\" class=\"post-0 page type-page status-publish
+feed_content: "<article id=\"post-0\" class=\"post-0 page type-page status-publish
   hentry\"><div class=\"entry-content\"><section id=\"tribe-events\" role=\"main\">
   <div id=\"tribe-events-content\" class=\"tribe-events-single tribe-blocks-editor\">
   <p class=\"tribe-events-back\"> <a href=\"https://www.elcentrodelaraza.org/events/\">
@@ -94,24 +89,11 @@ original_content: "<article id=\"post-0\" class=\"post-0 page type-page status-p
   Herramientas Digitales/ Digital Skills for Life</a></li> <li class=\"tribe-events-nav-next\"><a
   href=\"https://www.elcentrodelaraza.org/event/community-pet-vaccine-clinic/2026-01-23/\">Community
   Pet Vaccine Clinic <span>»</span></a></li> </ul> </div> </div> </section></div></article>"
-original_markdown_body: "« All Events  Community Air Quality Workshop    January 22,
-  2026   @   6:00 pm   –   7:30 pm  El Centro de la Raza is excited to host our first
-  community air quality workshop! Join us for a free night of learning and conversation.
-  Learn, connect, and shape solutions for cleaner air in our neighborhoods. We will
-  hear from a UW professor, discuss and reflect as a community, and plan future workshops
-  together. Attendees have the chance at various door prizes like transit passes,
-  air purifiers, and even bicycles! \U0001F6B2 We hope to see you there. \U0001F4C5
-  6:00-7:30PMPM on Thursday January 22nd \U0001F4CD Centilia Cultural Center – 1660
-  S Roberto Maestas Festival St, Seattle \U0001F449 Click here to register!    Google
-  Calendar     iCalendar     Outlook 365     Outlook Live        Details   Date:   January
-  22, 2026     Time:  6:00 pm – 7:30 pm    Cost:  Free    Event Category: Advocacy
-  & Culture      Organizer    El Centro de la Raza     Phone   206-957-4649        Centilia
-  Cultural Center   1660 S Plaza Roberto Maestas Festival Street Seattle, WA 98144
-  United States  + Google Map    Related Events      Café con El Centro de la Raza
-  Tour   January 1, 2026 @ 8:30 am – 9:30 am       Café con El Centro de la Raza Tour
-  \  February 5, 2026 @ 8:30 am – 9:30 am       Café con El Centro de la Raza Tour
-  \  March 5, 2026 @ 8:30 am – 9:30 am      Event Navigation  « Herramientas Digitales/
-  Digital Skills for Life Community Pet Vaccine Clinic »"
+images: []
+location: Centilia Cultural Center, 1660 S Plaza Roberto Maestas Festival Street,
+  Seattle, WA, 98144, United States
+locations:
+- King County
 published: false
 source: El Centro de la Raza
 source_url: https://www.elcentrodelaraza.org/event/community-air-quality-workshop/

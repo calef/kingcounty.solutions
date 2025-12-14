@@ -2,14 +2,10 @@
 date: '2025-12-02T00:10:19+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- South King County
-- Snoqualmie Valley
-original_content: "<div data-elementor-type=\"wp-post\" data-elementor-id=\"18976\"
-  class=\"elementor elementor-18976\" data-elementor-post-type=\"post\">\n\t\t\t\t<div
-  class=\"elementor-element elementor-element-7094ca3 e-flex e-con-boxed e-con e-parent\"
-  data-id=\"7094ca3\" data-element_type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div
+feed_content: "<div data-elementor-type=\"wp-post\" data-elementor-id=\"18976\" class=\"elementor
+  elementor-18976\" data-elementor-post-type=\"post\">\n\t\t\t\t<div class=\"elementor-element
+  elementor-element-7094ca3 e-flex e-con-boxed e-con e-parent\" data-id=\"7094ca3\"
+  data-element_type=\"container\">\n\t\t\t\t\t<div class=\"e-con-inner\">\n\t\t\t\t<div
   class=\"elementor-element elementor-element-16645a1c elementor-widget elementor-widget-text-editor\"
   data-id=\"16645a1c\" data-element_type=\"widget\" data-widget_type=\"text-editor.default\">\n\t\t\t\t<div
   class=\"elementor-widget-container\">\n\t\t\t\t\t\t\t\t\t<p data-start=\"401\" data-end=\"722\">As
@@ -60,46 +56,10 @@ original_content: "<div data-elementor-type=\"wp-post\" data-elementor-id=\"1897
   post <a href=\"https://snoqualmievalleyhealth.org/winter-balance-and-fall-prevention-staying-safe-this-season/\">Winter
   Balance &amp; Fall Prevention: Staying Safe This Season</a> appeared first on <a
   href=\"https://snoqualmievalleyhealth.org\">Snoqualmie Valley Hospital</a>.</p>"
-original_markdown_body: |-
-  As winter settles into the Snoqualmie Valley, colder temperatures, icy walkways, and wet weather increase the risk of slips and falls, especially for older adults or individuals managing mobility challenges. The good news: with a few simple strengthening and balance strategies, many winter-related falls can be prevented.
-
-  #### **Why Winter Increases Fall Risk**
-
-  Ice, wet leaves, uneven surfaces, and reduced daylight all contribute to instability outdoors. Inside the home, cluttered walkways or heavy winter footwear can also make balance more difficult. Strength, flexibility, and reaction time all play a role in keeping you steady when conditions become unpredictable.
-
-  #### **Therapist-Recommended Tips for Winter Balance**
-
-  Physical therapists at Snoqualmie Valley Health recommend incorporating these simple habits into your weekly routine:
-
-  - **Practice single-leg balance** near a stable counter or surface
-
-  - **Strengthen ankles and hips** through step-ups, mini-squats, and side-stepping
-
-  - **Wear supportive footwear** with solid tread and good traction
-
-  - **Slow down** and use handrails on outdoor steps or ramps
-
-  - **Improve visibility** by keeping walkways well-lit and free of clutter
-
-  If you’ve recently had a fall, feel unsteady on your feet, or are concerned about your balance, a physical therapy evaluation can help identify specific areas for improvement. Early support can significantly reduce your risk and improve confidence during the winter months.
-
-  #### **Support for Caregivers and Family Members**
-
-  Winter can also be especially challenging for individuals with chronic conditions or limited mobility. Occupational therapists can help develop indoor activity routines, recommend adaptive equipment, and ensure the home environment remains safe and accessible.
-
-  Speech-language pathologists can support individuals who experience memory, communication, or voice challenges—especially during busy holiday gatherings.
-
-  #### **Stay Steady This Winter**
-
-  Winter doesn’t have to mean staying inside or missing out on seasonal activities. With the right preparation and guidance, you can remain active, safe, and confident.
-
-  To schedule a balance or mobility evaluation, contact Snoqualmie Valley Health’s therapy services by calling [425-831-3572](tel:14258313572).&nbsp;
-
-  Learn more about rehabilitation at SVH: [SnoqualmieValleyHealth.org/Rehabilitation/&nbsp;](https://snoqualmievalleyhealth.org/rehabilitation/)&nbsp;
-
-  <!-- /wp:paragraph -->
-
-  The post [Winter Balance & Fall Prevention: Staying Safe This Season](https://snoqualmievalleyhealth.org/winter-balance-and-fall-prevention-staying-safe-this-season/) appeared first on [Snoqualmie Valley Hospital](https://snoqualmievalleyhealth.org).
+images: []
+locations:
+- South King County
+- Snoqualmie Valley
 source: Hospital District No. 4 (Snoqualmie Valley Hospital)
 source_url: https://snoqualmievalleyhealth.org/winter-balance-and-fall-prevention-staying-safe-this-season/
 summarized: true

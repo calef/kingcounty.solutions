@@ -1,27 +1,21 @@
 ---
 end_date: '2025-12-24T11:00:00-08:00'
-images: []
-location: The Center for Active Living, 4217 SW Oregon St., Seattle, WA, 98116, United
-  States
-locations:
-- King County
-original_content: <a>Skip to content</a><div> <header><div> <div> <div> <div> <div>
-  <div> <div> <div> <div> <div> <div> <div> <p>We used to be called the Senior Center
-  of West Seattle.</p> </div> </div> </div> </div> </div> <div> <div> <div> <div>
-  <div> <div> <div> <div> <a> <span>Join</span> </a> </div> </div> <div> <div> <a>
-  <span>Donate</span> </a> </div> </div> </div> </div> </div> </div> </div> </div>
-  <div> <div> <div> <div> <div> <span> <a> <span>Facebook</span> </a> </span> <span>
-  <a> <span>Instagram</span> </a> </span> <span> <a> <span>YouTube</span> </a> </span>
-  <span> <a> <span>LinkedIn</span> </a> </span> </div> </div> </div> </div> </div>
-  </div> </div> </div> </div> </div> </div> </div> <div> <div> <div> <div> <div> <div>
-  <div> <div> <div> <div> <div> <h1> <a> <span>Activities &amp; Events</span> </a>
-  </h1> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div>
-  </header> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div>
-  <div> <h1> <span>Balance &amp; Strength</span> </h1> </div> </div> <div> <div> <div>
-  <p><span>Wednesday, December 24, 2025 at 10:00 am</span> - <span>11:00 am</span></p>
-  </div> </div> </div> <div> <div> <p><span><span><span><span>Join personal trainer
-  Denise Geroux to i</span></span>mprove your balance and prevent falls with this
-  interactive class using Feldenkrais Method (TM) of Awareness </span></span><span><span>Through
+feed_content: <a>Skip to content</a><div> <header><div> <div> <div> <div> <div> <div>
+  <div> <div> <div> <div> <div> <div> <p>We used to be called the Senior Center of
+  West Seattle.</p> </div> </div> </div> </div> </div> <div> <div> <div> <div> <div>
+  <div> <div> <div> <a> <span>Join</span> </a> </div> </div> <div> <div> <a> <span>Donate</span>
+  </a> </div> </div> </div> </div> </div> </div> </div> </div> <div> <div> <div> <div>
+  <div> <span> <a> <span>Facebook</span> </a> </span> <span> <a> <span>Instagram</span>
+  </a> </span> <span> <a> <span>YouTube</span> </a> </span> <span> <a> <span>LinkedIn</span>
+  </a> </span> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div>
+  </div> </div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div>
+  <h1> <a> <span>Activities &amp; Events</span> </a> </h1> </div> </div> </div> </div>
+  </div> </div> </div> </div> </div> </div> </div> </header> <div> <div> <div> <div>
+  <div> <div> <div> <div> <div> <div> <div> <div> <div> <h1> <span>Balance &amp; Strength</span>
+  </h1> </div> </div> <div> <div> <div> <p><span>Wednesday, December 24, 2025 at 10:00
+  am</span> - <span>11:00 am</span></p> </div> </div> </div> <div> <div> <p><span><span><span><span>Join
+  personal trainer Denise Geroux to i</span></span>mprove your balance and prevent
+  falls with this interactive class using Feldenkrais Method (TM) of Awareness </span></span><span><span>Through
   Movement (TM), Tai Chi and Chi Gung</span></span><span><span> exercises. You will
   learn how to align your posture in standing and sitting and strengthen your lower
   body and core. We will also work on joint stability and flexibility, breathing and
@@ -48,24 +42,12 @@ original_content: <a>Skip to content</a><div> <header><div> <div> <div> <div> <d
   </a> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div>
   </div> </div> </div> </div> <a><span>Scroll To Top</span></a> <script> {"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://wscenter.org/wp-includes/js/wp-emoji-release.min.js?ver=6.9"}}
   </script>
-original_content_checksum: fa459bae59a8bbcf4139c6fcf68ff208e7966272
-original_markdown_body: Skip to content             We used to be called the Senior
-  Center of West Seattle.               Join       Donate                 Facebook     Instagram     YouTube     LinkedIn                            Activities
-  & Events                             Balance & Strength       Wednesday, December
-  24, 2025 at 10:00 am - 11:00 am      Join personal trainer Denise Geroux to improve
-  your balance and prevent falls with this interactive class using Feldenkrais Method
-  (TM) of Awareness Through Movement (TM), Tai Chi and Chi Gung exercises. You will
-  learn how to align your posture in standing and sitting and strengthen your lower
-  body and core. We will also work on joint stability and flexibility, breathing and
-  mindfulness—all of which contribute to better balance. We use chairs in this class.
-  All abilities are welcome.      Fitness              Calendar       Membership                  Location    The
-  Center for Active Living     4217 SW Oregon St. Seattle, WA 98116 United States  +
-  Google Map    Phone  206-932-4044     View Location Website                   Google
-  Calendar     iCalendar     Outlook 365     Outlook Live                   Related
-  Events    Fitness For Fun Monday, December 15, 2025 at 9:00 am - 10:00 am     Gentle
-  Chair Yoga Monday, December 15, 2025 at 10:00 am - 11:00 am     Meditation Class
-  Tuesday, December 16, 2025 at 9:00 am - 10:00 am             Calendar                 Scroll
-  To Top  {"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://wscenter.org/wp-includes/js/wp-emoji-release.min.js?ver=6.9"}}
+feed_content_checksum: fa459bae59a8bbcf4139c6fcf68ff208e7966272
+images: []
+location: The Center for Active Living, 4217 SW Oregon St., Seattle, WA, 98116, United
+  States
+locations:
+- King County
 source: The Center for Active Living
 source_url: https://wscenter.org/event/balance-strength-2-2-2-2/2025-12-24/
 start_date: '2025-12-24T10:00:00-08:00'

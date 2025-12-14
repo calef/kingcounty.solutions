@@ -1,10 +1,6 @@
 ---
 end_date: '2025-12-17T12:00:00-08:00'
-images: []
-location: CISC, 16305 NE 87th St, Suite 123, Redmond, WA, 98052, United States
-locations:
-- King County
-original_content: '<div class="ast-container"> <section id="tribe-events-pg-template"
+feed_content: '<div class="ast-container"> <section id="tribe-events-pg-template"
   class="tribe-events-pg-template" role="main"> <div id="tribe-events-content" class="tribe-events-single">
   <p class="tribe-events-back"> <a href="https://togethercenter.org/events/"> « All
   Events</a> </p> <div class="tribe-events-series-relationship-single-marker tribe-common">
@@ -112,33 +108,10 @@ original_content: '<div class="ast-container"> <section id="tribe-events-pg-temp
   – Cantonese and Mandarin</a></h3> <span class="tribe-event-date-start">December
   9 @ 9:00 am</span> - <span class="tribe-event-time">5:00 pm</span> </div> </li>
   </ul> </div> </div> </section> </div>'
-original_markdown_body: "« All Events    Event Series:    East King County Family
-  Resource Center – Information and Assistance Services – Russian Speaking    East
-  King County Family Resource Center – Information and Assistance Services – Cantonese
-  and Mandarin Speaking   December 17 @ 9:00 am - 12:00 pm  Free    CISC’s Family
-  Resource Centers empower families through culturally and linguistically relevant
-  programs that provide support, skill building, connections, and friendships. We
-  strengthen individuals and families through a multitude of services provided by
-  our bilingual and bicultural staff who respond to the needs of community members.
-  In addition, we enable families to access and navigate government programs related
-  to housing, financial stability, healthcare, and more to resolve issues and improve
-  quality of life. Our Family Resource Centers provide some or all of the following
-  services based on each region’s staff capacity, needs, and resources available:
-  \ Advocacy Community building Cultural activities Employment support and training
-  Information & assistance Outreach Parent and caregiver education Parent/caregiver-child
-  activities Weekly legal clinic Workshops and classes  CISC East King County Family
-  Resource Center  Location: Multiple sites in Bellevue, Kirkland, Redmond Languages
-  offered: Cantonese, Mandarin, Russian, Ukrainian, Vietnamese          Google Calendar
-  \    iCalendar     Outlook 365     Outlook Live           Details    Date:   December
-  17     Time:   9:00 am - 12:00 pm    Series:    East King County Family Resource
-  Center – Information and Assistance Services – Russian Speaking    Cost:  Free    Event
-  Category: Open Office Hours   Website:  https://cisc-seattle.org/family-support/
-  \     Organizer   CISC    Phone   206-624-5633     Email   info@cisc-seattle.org
-  \    View Organizer Website         Venue    CISC     16305 NE 87th St, Suite 123
-  Redmond, WA 98052 United States  + Google Map    Phone  4258696699       Related
-  Events    Essentials First Redmond Distribution Location December 8 @ 10:00 am -
-  2:00 pm     WorkSource December 8 @ 1:00 pm - 5:00 pm     CISC – Medical Insurance
-  Consulting Service – Cantonese and Mandarin December 9 @ 9:00 am - 5:00 pm"
+images: []
+location: CISC, 16305 NE 87th St, Suite 123, Redmond, WA, 98052, United States
+locations:
+- King County
 source: Together Center
 source_url: https://togethercenter.org/event/east-king-county-family-resource-center-information-and-assistance-services-cantonese-and-mandarin-speaking/2025-12-17/
 start_date: '2025-12-17T09:00:00-08:00'

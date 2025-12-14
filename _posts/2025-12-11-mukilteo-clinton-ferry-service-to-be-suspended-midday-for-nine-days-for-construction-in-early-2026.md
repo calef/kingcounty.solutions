@@ -1,18 +1,12 @@
 ---
 date: '2025-12-11T09:07:41-08:00'
+feed_content: MUKILTEO – Washington State Ferries will begin in-water work at the
+  Mukilteo ferry terminal in January 2026 to repair and reposition a key ferry landing
+  structure. The work requires shutting down ferry service during midday for four
+  hours over nine days. It will also affect overnight schedules in January and February.
+feed_content_checksum: 6c430e3e9b9d318b1acf9823e0cd162ffb8a6b2f
 images: []
 locations: []
-original_content: MUKILTEO – Washington State Ferries will begin in-water work at
-  the Mukilteo ferry terminal in January 2026 to repair and reposition a key ferry
-  landing structure. The work requires shutting down ferry service during midday for
-  four hours over nine days. It will also affect overnight schedules in January and
-  February.
-original_content_checksum: 6c430e3e9b9d318b1acf9823e0cd162ffb8a6b2f
-original_markdown_body: MUKILTEO – Washington State Ferries will begin in-water work
-  at the Mukilteo ferry terminal in January 2026 to repair and reposition a key ferry
-  landing structure. The work requires shutting down ferry service during midday for
-  four hours over nine days. It will also affect overnight schedules in January and
-  February.
 published: false
 rss_guid: https://wsdot.wa.gov/about/news/2025/mukilteo-clinton-ferry-service-be-suspended-midday-nine-days-construction-early-2026
 source: Washington State Department of Transportation

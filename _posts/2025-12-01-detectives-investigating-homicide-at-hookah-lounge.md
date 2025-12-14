@@ -1,15 +1,11 @@
 ---
 date: '2025-12-01T18:15:55+00:00'
-images: []
-locations: []
-original_content: Seattle police detectives are investigating a homicide this morning
+feed_content: Seattle police detectives are investigating a homicide this morning
   at a hookah lounge in the Chinatown-International District.&#160; Just before 8:00
   a.m., patrol officers responded to a shooting in the 400 block of Rainier Avenue
   South. There, police...
-original_markdown_body: Seattle police detectives are investigating a homicide this
-  morning at a hookah lounge in the Chinatown-International District.&nbsp; Just before
-  8:00 a.m., patrol officers responded to a shooting in the 400 block of Rainier Avenue
-  South. There, police...
+images: []
+locations: []
 published: false
 source: City of Seattle
 source_url: https://spdblotter.seattle.gov/2025/12/01/detectives-investigating-homicide-at-hookah-lounge/

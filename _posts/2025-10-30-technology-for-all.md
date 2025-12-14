@@ -2,10 +2,7 @@
 date: '2025-10-30T17:42:40+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <p>Complete the form below for instant access to your copy of our free eBook.</p>
 
 
@@ -20,14 +17,9 @@ original_content: |-
 
   <p></p>
   <p>The post <a href="https://transformingage.org/blog/technology-for-all-33/">Technology for all.</a> appeared first on <a href="https://transformingage.org">Transforming Age | Senior Housing, Community Services, Philanthropy, Technology &amp; Partnerships</a>.</p>
-original_markdown_body: |-
-  Complete the form below for instant access to your copy of our free eBook.
-
-  Youth, as they say, may be wasted on the young, but technology certainly shouldn’t be. At Transforming Age, we’ve both embraced and pioneered the use of technology to make lives better for older adults.
-
-  While you’re obviously no stranger to technology (you are, after all, reading this on a computer or smartphone), we believe you’ll be even more excited about how technology can help you live a happier, healthier life after reading our free eBook _Better Living Through Technology_. It’s yours for the asking, so download your copy today.
-
-  The post [Technology for all.](https://transformingage.org/blog/technology-for-all-33/) appeared first on [Transforming Age | Senior Housing, Community Services, Philanthropy, Technology & Partnerships](https://transformingage.org).
+images: []
+locations:
+- King County
 source: Transforming Age
 source_url: https://transformingage.org/blog/technology-for-all-33/
 summarized: true

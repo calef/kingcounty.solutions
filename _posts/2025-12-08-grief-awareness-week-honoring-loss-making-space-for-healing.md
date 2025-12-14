@@ -2,10 +2,7 @@
 date: '2025-12-08T16:10:57+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <p><span><span><strong>Author:</strong></span></span><em><span><span> Mistee Denson, </span></span><span><span>NYC 988 Clinical Supervisor</span></span></em><span><em><span> </span></em><br></span></p>
   <h2>
   <b><span>December 2 through 8 marks Grief Awareness Week</span></b><span>, a time to acknowledge the many faces of grief and the often-invisible impact it has on mental health. </span>
@@ -84,50 +81,10 @@ original_content: |-
   </ul>
   <p><span>Grief is not a problem to solve; it is a part of life to be honored. This Grief Awareness Week, we remember those we’ve lost, support those still mourning, and hold space for healing, however long it takes.</span></p>
   <p>The post <a>Grief Awareness Week: Honoring Loss, Making Space for Healing</a> appeared first on <a>Vibrant Emotional Health</a>.</p>
-original_content_checksum: 75b703b21ef3a1661d6b325c03c4197a6df5040b
-original_markdown_body: "**Author:** _Mistee Denson, NYC 988 Clinical Supervisor__&nbsp;_\n\n##
-  **December 2 through 8 marks Grief Awareness Week** , a time to acknowledge the
-  many faces of grief and the&nbsp;often-invisible&nbsp;impact it has on mental health.
-  \n\nAt Vibrant, we hold space for every person navigating loss, whether recent or
-  long ago, and affirm that grief is not a weakness, but a reflection of love, connection,
-  and humanity.&nbsp;\n\n**Grief does not follow&nbsp;a schedule.** &nbsp;It&nbsp;doesn’t&nbsp;expire,
-  and it&nbsp;doesn’t&nbsp;always look like sadness. It may show up as numbness, irritability,
-  fatigue, or even anxiety. Some people feel it in their bodies. Others feel it in
-  everyday silence. Grief can be complicated, delayed, cyclical, and still completely
-  valid.&nbsp;\n\nPeople grieve for many reasons: the death of a loved one, the loss
-  of a relationship, a job, a home, or even the loss of a version of life that once
-  was.&nbsp;Grief can&nbsp;come&nbsp;with any event that may shake up our sense of
-  normalcy.&nbsp;&nbsp;During the holidays, when joy and togetherness are emphasized,
-  grief can feel especially heavy, and&nbsp;the effects of our&nbsp;losses&nbsp;can&nbsp;become
-  even more visible.&nbsp;\n\n### Grief and Mental Health&nbsp;\n\nGrief, while natural,
-  can&nbsp;cause&nbsp;unexpected&nbsp;mental&nbsp;health&nbsp;effects, such as&nbsp;depression,
-  anxiety,&nbsp;physical pain,&nbsp;traumatic stress, or prolonged grief disorder.&nbsp;&nbsp;These
-  symptoms can be raw at the&nbsp;start or&nbsp;unexpectedly appear.&nbsp;These symptoms
-  can be&nbsp;felt&nbsp;more&nbsp;intensively&nbsp;if&nbsp;grief goes unacknowledged,
-  unsupported, or stigmatized. Many people&nbsp;may try quickly&nbsp;to “move on,”
-  even when they&nbsp;haven’t&nbsp;fully&nbsp;understood&nbsp;the extent of&nbsp;what&nbsp;they’ve&nbsp;lost.&nbsp;\n\nWe
-  must recognize that:&nbsp;\n\n- Grief affects how we function, how we connect, and
-  how we heal.&nbsp;\n\n- There is no right way to grieve,&nbsp;and no roadmap for
-  what will happen after a loss.&nbsp;\n\n- Healing does not mean&nbsp;forgetting.
-  It means learning to&nbsp;live with loss and finding&nbsp;personal&nbsp;tools that
-  can&nbsp;assist&nbsp;in this new world.&nbsp;\n\n- Community, compassion, and time
-  can be some of the most powerful supports.&nbsp;\n\n### You Are Not Alone&nbsp;\n\nGrief
-  Awareness Week is a reminder that no one should carry loss in silence. Whether&nbsp;you’re&nbsp;grieving
-  someone who passed years ago or are facing a new loss today, your grief is real,
-  and you&nbsp;don’t&nbsp;have to go through it alone.&nbsp;\n\n**Let this week be
-  an invitation to:&nbsp;**\n\n- Check in with yourself and others, especially those
-  who may seem “fine.”&nbsp;\n\n- Tell stories, share memories, or light a candle
-  for those&nbsp;you’ve&nbsp;lost.&nbsp;\n\n- Give yourself grace, whatever&nbsp;you’re&nbsp;feeling,
-  or not feeling, is okay.&nbsp;\n\n- Seek out&nbsp;supports&nbsp;that&nbsp;fit&nbsp;your
-  personal needs.&nbsp;\n\n### Resources for Grief Support&nbsp;\n\nIf you or someone
-  you know is navigating grief, here are some resources that can help:&nbsp;\n\n-
-  Dougy&nbsp;Center: The National Grief Center for Children & Families&nbsp;\n\n-
-  Grief.com&nbsp;– Resources, support groups, and education&nbsp;\n\n- What’s Your
-  Grief&nbsp;– Creative and practical tools for coping&nbsp;\n\nGrief is not a problem
-  to solve; it is a part of life to be honored. This Grief Awareness Week, we remember
-  those&nbsp;we’ve&nbsp;lost, support those still mourning, and hold space for healing,
-  however long it takes.\n\nThe post Grief Awareness Week: Honoring Loss, Making Space
-  for Healing appeared first on Vibrant Emotional Health."
+feed_content_checksum: 75b703b21ef3a1661d6b325c03c4197a6df5040b
+images: []
+locations:
+- King County
 source: Vibrant Emotional Health
 source_url: https://www.vibrant.org/grief-awareness-week-honoring-loss-making-space-for-healing/
 summarized: true

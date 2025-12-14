@@ -2,13 +2,11 @@
 date: '2025-06-26T21:38:54+00:00'
 events: []
 events_extracted: true
+feed_content: <p>The post <a href="https://www.kcsarc.org/en/nicks-blog/">Nick&#8217;s
+  Blog</a> appeared first on <a href="https://www.kcsarc.org/en/">KCSARC</a>.</p>
 images: []
 locations:
 - King County
-original_content: <p>The post <a href="https://www.kcsarc.org/en/nicks-blog/">Nick&#8217;s
-  Blog</a> appeared first on <a href="https://www.kcsarc.org/en/">KCSARC</a>.</p>
-original_markdown_body: The post [Nick’s Blog](https://www.kcsarc.org/en/nicks-blog/)
-  appeared first on [KCSARC](https://www.kcsarc.org/en/).
 source: King County Sexual Assault Resource Center
 source_url: https://www.kcsarc.org/en/nicks-blog/
 summarized: true

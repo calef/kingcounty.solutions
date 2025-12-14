@@ -2,10 +2,7 @@
 date: '2025-01-15T23:53:15+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: "Governor Ferguson signs three executive orders moments after inauguration\n\nPublish
+feed_content: "Governor Ferguson signs three executive orders moments after inauguration\n\nPublish
   Date\n\n<time datetime=\"2025-01-15T12:00:00Z\" class=\"datetime\">January 15, 2025</time>\n\nmaleah.jackson…<time
   datetime=\"2025-01-15T15:53:15-08:00\" title=\"Wednesday, January 15, 2025 - 3:53pm\"
   class=\"datetime\">January 15, 2025 - 3:53pm</time>\n\nStory Body\n\n**Ferguson
@@ -85,6 +82,9 @@ original_content: "Governor Ferguson signs three executive orders moments after 
   — I support your legislation prohibiting the National Guard from other states from
   coming into Washington to advance any president’s agenda without our permission.
   Texas and Montana have adopted similar policies. Washington must join them.”\n\n![Speech](https://content.govdelivery.com/attachments/fancy_images/WAGOV/2025/01/10870130/5943466/dsc07736_crop.jpg)"
+images: []
+locations:
+- King County
 source: State Executive Branch
 source_url: https://governor.wa.gov/news/2025/governor-ferguson-signs-three-executive-orders-moments-after-inauguration
 summarized: true

@@ -3,10 +3,7 @@ date: '2025-11-04T04:26:39+00:00'
 events:
 - 2026-01-19-cqc-scholarship-application-deadline
 events_extracted: true
-images: []
-locations:
-- Carnation
-original_content: "The City of Carnation is accepting applications for an Association
+feed_content: "The City of Carnation is accepting applications for an Association
   of Washington Cities (AWC) Center for Quality Communities (CQC) Scholarship!\n\nThe
   CQC will award up to four $3,000 scholarships in Spring 2026 to graduating high
   school seniors who are active in leadership in their city government, community,
@@ -16,6 +13,9 @@ original_content: "The City of Carnation is accepting applications for an Associ
   Deadline for Carnation Nomination:  \nJanuary 19, 2026, 5:00 PM\n\nThe post [Scholarship
   Nomination Opportunity](https://www.carnationwa.gov/scholarship-nomination-opportunity/)
   appeared first on [Carnation, WA](https://www.carnationwa.gov)."
+images: []
+locations:
+- Carnation
 source: City of Carnation
 source_url: https://www.carnationwa.gov/scholarship-nomination-opportunity/
 summarized: true

@@ -1,15 +1,11 @@
 ---
 date: '2025-12-09T17:19:35+00:00'
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   <p>As the final Public Safety Committee meeting of 2025 concluded today, Councilmember Bob Kettle (District 7), the Committee’s chair, offered reflections on the City’s coordinated work over the past two years. In 2023, Seattle voters sent a clear message to City Hall: public safety needs to be a priority. Nearly two years later, I’m proud...</p>
   <p>The post <a>Chair Kettle: Maintaining collaborative approach critical to continued public safety success in 2026 and beyond</a> appeared first on <a>Seattle City Council Blog</a>.</p>
-original_content_checksum: 79c0f7fa66f8d6d5928f7eb3dc129a60ae26fa03
-original_markdown_body: |-
-  As the final Public Safety Committee meeting of 2025 concluded today, Councilmember Bob Kettle (District 7), the Committee’s chair, offered reflections on the City’s coordinated work over the past two years. In 2023, Seattle voters sent a clear message to City Hall: public safety needs to be a priority. Nearly two years later, I’m proud...
-
-  The post Chair Kettle: Maintaining collaborative approach critical to continued public safety success in 2026 and beyond appeared first on Seattle City Council Blog.
+feed_content_checksum: 79c0f7fa66f8d6d5928f7eb3dc129a60ae26fa03
+images: []
+locations: []
 published: false
 source: City of Seattle
 source_url: https://council.seattle.gov/2025/12/09/chair-kettle-maintaining-collaborative-approach-critical-to-continued-public-safety-success-in-2026-and-beyond/

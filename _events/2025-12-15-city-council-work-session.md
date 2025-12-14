@@ -1,11 +1,6 @@
 ---
 end_date: '2025-12-15T18:45:00-08:00'
-images: []
-location: City Hall – Council Chamber, 6200 Southcenter Boulevard, Tukwila, WA, 98188,
-  United States
-locations:
-- King County
-original_content: '<section class="page-layout interior-layout"> <div class="main-content-area
+feed_content: '<section class="page-layout interior-layout"> <div class="main-content-area
   events-template"> <div class="container"> <div id="tribe-events-pg-template" class="tribe-events-pg-template">
   <section id="tribe-events-pg-template" class="tribe-events-pg-template"> <div id="tribe-events-content"
   class="tribe-events-single"> <div class="tribe-events-series-relationship-single-marker
@@ -95,23 +90,11 @@ original_content: '<section class="page-layout interior-layout"> <div class="mai
   <span class="tribe-event-date-start">December 8 @ 7:00 pm</span> - <span class="tribe-event-time">10:00
   pm</span> </div> </li> </ul> </div> <p class="tribe-events-back"> <a href="https://www.tukwilawa.gov/events/"
   class="btn"> Back to events</a> </p> </div> </section> </div> </div> </div> </section>'
-original_markdown_body: 'Event Series:    City Council Work Session    City Council
-  Work Session   December 15 @ 5:30 pm - 6:45 pm     Every 1st and 3rd Monday, the
-  City Council will convene in a work session to informally discuss topics of general
-  interest or to receive presentations.  No formal action is taken.   Hybrid Meeting:
-  Council Chamber and MS Teams Microsoft Teams meeting Join on your computer, mobile
-  app or room device Click here to join the meeting Meeting ID: 238 629 963 322 Passcode:
-  ZV2Sd4 Download Teams | Join on the web Or call in (audio only) +1 253-292-9750,,56095437#
-    United States, Tacoma Phone Conference ID: 560 954 37#         Google Calendar     iCalendar     Outlook
-  365     Outlook Live           Details    Date:   December 15     Time:   5:30 pm
-  - 6:45 pm    Series:    City Council Work Session    Event Categories: City Council,
-  Meeting      Venue    City Hall – Council Chamber     6200 Southcenter Boulevard
-  Tukwila, WA 98188 United States     Phone  206-433-8993      Organizer   Laurel
-  Humphrey    Phone   206-433-8993     Email   citycouncil@tukwilawa.gov       Related
-  Events    Planning & Community Development Committee December 8 @ 5:30 pm - 6:45
-  pm     Community Services & Safety Committee December 8 @ 5:30 pm - 6:45 pm     City
-  Council Committee of the Whole Meeting December 8 @ 7:00 pm - 10:00 pm       Back
-  to events'
+images: []
+location: City Hall – Council Chamber, 6200 Southcenter Boulevard, Tukwila, WA, 98188,
+  United States
+locations:
+- King County
 published: false
 source: City of Tukwila
 source_url: https://www.tukwilawa.gov/event/city-council-work-session-6/2025-12-15/

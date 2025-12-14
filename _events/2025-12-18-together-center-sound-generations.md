@@ -1,12 +1,7 @@
 ---
 end_date: '2025-12-18T12:00:00-08:00'
-images: []
-location: Advocate Office @ Together Center, 16305 NE 87th S Suite 111, Redmond, WA,
-  98052, United States
-locations:
-- King County
-original_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <div> <span>
-  Event Series: </span> <a> <span> Advocate Office @ Together Center – Sound Generations
+feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <div> <span> Event
+  Series: </span> <a> <span> Advocate Office @ Together Center – Sound Generations
   </span> </a> </div> <h1>Together Center – Sound Generations</h1> <div> <div> <span>December
   18 @ 10:00 am</span> - <span>12:00 pm</span> </div> <span>Free</span> </div> <div>
   <div> <div> <div> <div> <p><span>Sound Generations</span></p> </div> </div> </div>
@@ -45,29 +40,12 @@ original_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <div> <s
   - <span>1:00 pm</span> </div> </li> <li> <div> <h3><a>City of Redmond Homeless &amp;
   Housing Stability</a></h3> <span>December 16 @ 1:00 pm</span> - <span>3:00 pm</span>
   </div> </li> </ul> </div> </div> </section> </div>"
-original_content_checksum: 71bf3ac43119ddfc268259e87f9ac197a9fad5ef
-original_markdown_body: "« All Events    Event Series:    Advocate Office @ Together
-  Center – Sound Generations    Together Center – Sound Generations   December 18
-  @ 10:00 am - 12:00 pm  Free       Sound Generations    Sound Generations is the
-  largest provider of comprehensive services for aging adults and their loved ones
-  in King County. We connect older adults and adults with disabilities to vital resources
-  in their communities by providing food security, transportation, health and wellness,
-  and assistance services. 3rd Thursday of every month from 10am-Noon Together Center
-  Advocate Office Food Security  Meals on Wheels Community Dining  Transportation
-  \ Hyde Shuttle Volunteer Transportation  Health & Wellness  Fitness Fall Prevention
-  Health Management  Assistance Services  Pathways Information & Assistance Elder
-  Education Institute Caregiver Support Veteran Caregiver Support Minor Home Repair
-  Legal Assistance Crisis Prevention          Google Calendar     iCalendar     Outlook
-  365     Outlook Live           Details    Date:   December 18     Time:   10:00
-  am - 12:00 pm    Series:    Advocate Office @ Together Center – Sound Generations
-  \   Cost:  Free    Event Category: Advocate Office   Website:  https://soundgenerations.org/
-  \     Organizer   Together Center    Phone   4258696699     Email   events@togethercenter.org
-  \    View Organizer Website         Venue    Advocate Office @ Together Center     16305
-  NE 87th S Suite 111 Redmond, WA 98052 United States  + Google Map    Phone  4258696699
-  \    View Venue Website       Related Events    WorkSource December 15 @ 1:00 pm
-  - 5:00 pm     Community Health Plan of Washington December 16 @ 11:00 am - 1:00
-  pm     City of Redmond Homeless & Housing Stability December 16 @ 1:00 pm - 3:00
-  pm"
+feed_content_checksum: 71bf3ac43119ddfc268259e87f9ac197a9fad5ef
+images: []
+location: Advocate Office @ Together Center, 16305 NE 87th S Suite 111, Redmond, WA,
+  98052, United States
+locations:
+- King County
 source: Together Center
 source_url: https://togethercenter.org/event/advocate-office-together-center-sound-generations/2025-12-18/
 start_date: '2025-12-18T10:00:00-08:00'

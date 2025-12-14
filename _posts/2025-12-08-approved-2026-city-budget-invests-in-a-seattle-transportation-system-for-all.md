@@ -2,18 +2,14 @@
 date: '2025-12-08T22:43:10+00:00'
 events: []
 events_extracted: true
+feed_content: 'Thank you, City Council and Mayor Harrell, for continued funding dedicated
+  to travel safety and mobility initiatives as we head into a big year Blog stats:
+  350 words | 2-minute read Seattle Mayor Bruce Harrell has signed the City of Seattle’s
+  2026...'
+feed_content_checksum: a988edfc473dab1d82858cdfc04decdc259f2bd8
 images: []
 locations:
 - King County
-original_content: 'Thank you, City Council and Mayor Harrell, for continued funding
-  dedicated to travel safety and mobility initiatives as we head into a big year Blog
-  stats: 350 words | 2-minute read Seattle Mayor Bruce Harrell has signed the City
-  of Seattle’s 2026...'
-original_content_checksum: a988edfc473dab1d82858cdfc04decdc259f2bd8
-original_markdown_body: 'Thank you, City Council and Mayor Harrell, for continued
-  funding dedicated to travel safety and mobility initiatives as we head into a big
-  year Blog stats: 350 words | 2-minute read Seattle Mayor Bruce Harrell has signed
-  the City of Seattle’s 2026...'
 source: City of Seattle
 source_url: https://sdotblog.seattle.gov/2025/12/08/approved-2026-city-budget-invests-in-seattle-transportation-system-for-all/
 summarized: true

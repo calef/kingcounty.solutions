@@ -1,10 +1,7 @@
 ---
 end_date: '2026-03-12T15:30:00-04:00'
-images: []
-location: ''
-locations: []
-original_content: '   <meta> <meta> <meta> <link> <link> <link> <link> <link> <link>
-  <link> <link> <link> <style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size:
+feed_content: '   <meta> <meta> <meta> <link> <link> <link> <link> <link> <link> <link>
+  <link> <link> <style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size:
   3000px 1500px }</style> <!-- Search Engine Optimization by Rank Math - https://rankmath.com/
   --> <title>Tenth Circuit Virtual Meeting | NOSSCR</title> <meta> <link> <meta> <meta>
   <meta> <meta> <meta> <meta> <meta> <meta> <!-- /Rank Math WordPress SEO plugin -->
@@ -7613,8 +7610,10 @@ original_content: '   <meta> <meta> <meta> <link> <link> <link> <link> <link> <l
   .avatar-below .testimonial-thumbnail{margin-top:1.5rem}.fusion-text{--awb-content-alignment:initial;--awb-font-size:inherit;--awb-line-height:inherit;--awb-letter-spacing:inherit;--awb-text-transform:inherit;--awb-text-color:inherit;--awb-text-font-family:inherit;--awb-text-font-style:inherit;--awb-text-font-weight:inherit;--awb-columns:var(--text_columns,
   auto);--awb-column-spacing:var(--text_column_spacing, normal);--awb-column-min-width:var(--text_column_min_width,
   auto);--awb-rule-style:var(--text_rule_style, i</style>'
-original_content_checksum: a084a9233b2d3ac9a4cfab62f2ddb3988f6cdef8
-original_markdown_body: ''
+feed_content_checksum: a084a9233b2d3ac9a4cfab62f2ddb3988f6cdef8
+images: []
+location: ''
+locations: []
 published: false
 source: NOSSCR Referral Service
 source_url: https://nosscr.org/event/tenth-circuit-virtual-meeting/

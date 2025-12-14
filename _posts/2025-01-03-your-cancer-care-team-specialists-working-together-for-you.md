@@ -1,8 +1,6 @@
 ---
 date: '2025-01-03T23:51:05+00:00'
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   <p><img width="300" height="188" src="https://blog.valleymed.org/wp-content/uploads/2024/09/Janette-Swensen-blog-300x188.jpg" class="attachment-medium size-medium wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://blog.valleymed.org/wp-content/uploads/2024/09/Janette-Swensen-blog-300x188.jpg 300w, https://blog.valleymed.org/wp-content/uploads/2024/09/Janette-Swensen-blog-768x480.jpg 768w, https://blog.valleymed.org/wp-content/uploads/2024/09/Janette-Swensen-blog-600x375.jpg 600w, https://blog.valleymed.org/wp-content/uploads/2024/09/Janette-Swensen-blog.jpg 800w" sizes="auto, (max-width: 300px) 100vw, 300px" /></p>
   <p>At Valley, we believe in the power of collaboration. Our specialists work together to create personalized treatment plans for our patients, ensuring they receive the best care possible. Here are some of the specialized team members who may be part of a patient’s cancer journey at Valley:</p>
 
@@ -41,37 +39,8 @@ original_content: |-
 
 
   <p><em>Pictured: Patient Janette with Gynecologic Oncologist <strong><span style="text-decoration: underline;"><a href="https://www.valleymed.org/find-a-provider/s/ron-e-swensen" data-type="page" data-id="3128" target="_blank" rel="noreferrer noopener">Ron Swensen, MD</a></span></strong>. <strong><span style="text-decoration: underline;"><a href="https://blog.valleymed.org/2024/09/09/janettes-story-gynecologic-cancer-care-at-valley/" data-type="link" data-id="https://blog.valleymed.org/2024/09/09/janettes-story-gynecologic-cancer-care-at-valley/" target="_blank" rel="noreferrer noopener">Watch Janette&#8217;s story. </a></span></strong></em></p>
-original_markdown_body: |-
-  ![](https://blog.valleymed.org/wp-content/uploads/2024/09/Janette-Swensen-blog-300x188.jpg)
-
-  At Valley, we believe in the power of collaboration. Our specialists work together to create personalized treatment plans for our patients, ensuring they receive the best care possible. Here are some of the specialized team members who may be part of a patient’s cancer journey at Valley:
-
-  - **Medical oncologists** specialize in treating cancer with chemotherapy, immunotherapy, and other medications. They often serve as the primary coordinator for cancer care.
-  - **Gynecologic oncologists** specialize in treating cancers of the female reproductive system including ovarian, uterine, and cervical cancers.
-  - **Radiation oncologists** use targeted radiation therapy to treat cancer, carefully protecting healthy tissue while treating cancer cells.
-  - **Pathologists** examine tissue samples to diagnose cancer and determine its characteristics, providing crucial information to guide treatment decisions.
-  - **Radiologists** perform and interpret imaging studies like CT scans, MRIs, and mammograms to diagnose cancer and monitor how well treatments are working.
-
-  A patient’s care team may also include specialty clinicians who focus on specific types of cancer or aspects of recovery. Below are the specialists at Valley who provide medical, surgical, and/or procedural care for patients who have cancer:
-
-  | **Valley Specialist** | **Care\* for patients with these types of cancers** |
-  | Breast surgeons | Breast cancers |
-  | Colorectal surgeons | Colon and rectal cancers |
-  | Dermatologists | Skin cancers |
-  | Endocrine surgeons | Thyroid, parathyroid, and adrenal cancers |
-  | Gastroenterologists | Colon and rectal cancers, Esophageal, pancreatic, liver, stomach cancers |
-  | Gynecologic Oncologists | Female-reproductive cancers including ovarian, uterine, and cervical |
-  | Hematologists/Oncologists | Blood-related cancers including leukemia and lymphoma, and cancer of the other organs |
-  | Neurosurgeons | Brain and spinal cord cancers |
-  | Otolaryngologists/ENTs | Head and neck cancers |
-  | Palliative Care specialists | Focus on quality of life through symptom relief, emotional support, and care coordination |
-  | Plastic & Reconstructive surgeons | Breast reconstruction and other needed plastic surgeries following treatment |
-  | Pulmonologists | Lung cancers |
-  | Urologists | Prostate, bladder, testicular, and kidney cancers |
-
-  _*diagnose, treat, perform surgery/procedures, co-manage ongoing care_
-
-  _Pictured: Patient Janette with Gynecologic Oncologist **[Ron Swensen, MD](https://www.valleymed.org/find-a-provider/s/ron-e-swensen)**. **[Watch Janette’s story.](https://blog.valleymed.org/2024/09/09/janettes-story-gynecologic-cancer-care-at-valley/)**_
+images: []
+locations: []
 published: false
 source: Hospital District No. 1 (Valley Medical Center)
 source_url: https://blog.valleymed.org/2025/01/03/your-cancer-care-team-specialists-working-together-for-you/?utm_source=rss&utm_medium=rss&utm_campaign=your-cancer-care-team-specialists-working-together-for-you

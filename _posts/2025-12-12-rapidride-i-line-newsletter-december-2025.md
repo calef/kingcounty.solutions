@@ -2,16 +2,13 @@
 date: '2025-12-12T19:50:29+00:00'
 events: []
 events_extracted: true
+feed_content: 'Call for Artists: Moving Stories As King County’s population grows,
+  Metro is expanding its RapidRide system to help meet rider needs. With this expansion
+  comes an opportunity to highlight the...'
+feed_content_checksum: c77a5da8e9212299c51bf347d1e41027ea594adf
 images: []
 locations:
 - King County
-original_content: 'Call for Artists: Moving Stories As King County’s population grows,
-  Metro is expanding its RapidRide system to help meet rider needs. With this expansion
-  comes an opportunity to highlight the...'
-original_content_checksum: c77a5da8e9212299c51bf347d1e41027ea594adf
-original_markdown_body: 'Call for Artists: Moving Stories As King County’s population
-  grows, Metro is expanding its RapidRide system to help meet rider needs. With this
-  expansion comes an opportunity to highlight the...'
 rss_guid: https://kingcountymetro.blog/?p=67665
 source: King County Metro Transit
 source_url: https://kingcountymetro.blog/2025/12/12/rapidride-i-line-newsletter-december-2025/

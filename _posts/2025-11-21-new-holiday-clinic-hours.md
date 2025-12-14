@@ -1,8 +1,6 @@
 ---
 date: '2025-11-21T19:13:00+00:00'
-images: []
-locations: []
-original_content: "<figure class=\"\n              sqs-block-image-figure\n              intrinsic\n
+feed_content: "<figure class=\"\n              sqs-block-image-figure\n              intrinsic\n
   \           \"\n        >\n          \n        \n        \n\n        \n          \n
   \           \n          \n            \n                \n                \n                \n
   \               \n                \n                \n                \n                <img
@@ -25,14 +23,8 @@ original_content: "<figure class=\"\n              sqs-block-image-figure\n     
   to view our Event Calendar and find <strong>upcoming clinic dates</strong> and hours.
   </p><p class=\"\"><strong>Happy Holidays!</strong></p><p data-rte-preserve-empty=\"true\"
   class=\"\"></p>"
-original_markdown_body: |-
-  ![](https://images.squarespace-cdn.com/content/v1/65c1886a315e4b1ef7f00c6a/142c5bd8-8012-499d-a623-d35be5b98b09/CarePointHolidayHours2025.png?format=1000w)
-
-  Please note our _adjusted holiday hours_ for the remainder of the holiday season.
-
-  [CLICK HERE](https://www.carepointonline.org/events) to view our Event Calendar and find **upcoming clinic dates** and hours.
-
-  **Happy Holidays!**
+images: []
+locations: []
 published: false
 source: CarePoint Clinic
 source_url: https://www.carepointonline.org/news/adjustedholidayhours

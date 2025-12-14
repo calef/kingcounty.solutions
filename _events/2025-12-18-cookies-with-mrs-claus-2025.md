@@ -1,11 +1,6 @@
 ---
 end_date: '2025-12-18T18:30:00-08:00'
-images: []
-location: Federal Way Community Center, 876 South 333rd Street, Federal Way, WA, 98003,
-  United States
-locations:
-- King County
-original_content: <section id="tribe-events-pg-template" class="tribe-events-pg-template"
+feed_content: <section id="tribe-events-pg-template" class="tribe-events-pg-template"
   role="main"> <div id="tribe-events-content" class="tribe-events-single"> <p class="tribe-events-back">
   <a href="https://itallhappenshere.org/events/"> « All Events</a></p> <h1 class="tribe-events-single-event-title">Cookies
   with Mrs. Claus 2025</h1> <div class="tribe-events-schedule tribe-clearfix"> <div>
@@ -80,17 +75,11 @@ original_content: <section id="tribe-events-pg-template" class="tribe-events-pg-
   tribe-events-meta-value"> <a href="https://rec.cityoffederalway.com/wbwsc/webtrac.wsc/splash.html"
   target="_self" rel="external">View Organizer Website</a> </span> </li> </ul> </div>
   </div> </div> </div> </section>
-original_markdown_body: "« All Events Cookies with Mrs. Claus 2025   December 18 @
-  5:30 pm - 6:30 pm  $5    Experience a sweet holiday delight with Cookies with Mrs.
-  Claus at the Federal Way Community Center in 2025! This magical event is perfect
-  for children ages 2-10 and features cookie decorating, photo opportunities, warm
-  cocoa, and festive music. Come share the holiday spirit and create lasting memories
-  with Mrs. Claus! PURCHASE TICKETS HERE $5 Per person      Google Calendar     iCalendar
-  \    Outlook 365     Outlook Live        Details   Date:   December 18     Time:
-  \ 5:30 pm - 6:30 pm    Cost:  $5    Event Category: Parks      Venue   Federal Way
-  Community Center     876 South 333rd Street Federal Way, WA 98003 United States
-  \ + Google Map    Phone  253-835-6900     View Venue Website      Organizer   City
-  of Federal Way Parks and Recreation    Phone   253–835–6900     View Organizer Website"
+images: []
+location: Federal Way Community Center, 876 South 333rd Street, Federal Way, WA, 98003,
+  United States
+locations:
+- King County
 published: false
 source: Federal Way Community Center
 source_url: https://itallhappenshere.org/event/cookies-with-mrs-claus-2025/

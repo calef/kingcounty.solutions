@@ -2,11 +2,7 @@
 date: '2025-10-16T04:03:16+00:00'
 events: []
 events_extracted: true
-images:
-- 54b2194cee32cf79de9f69c90e4cd73bda2ca4953238e2c9d467f54ca8adda82
-locations:
-- King County
-original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Grand
+feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Grand
   Connection is focus of October Lake to Lake</span>\n<span class=\"field field--name-uid
   field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"
   typeof=\"schema:Person\" property=\"schema:name\" datatype>CIosso</span></span>\n<span
@@ -40,22 +36,10 @@ original_content: "<span class=\"field field--name-title field--type-string fiel
   class=\"field field--name-field-article-date field--type-datetime field--label-hidden
   field__item\"><time datetime=\"2025-10-15T12:00:00Z\" class=\"datetime\">October
   15 2025</time>\n</div>\n      \n    </div>\n  </div>"
-original_markdown_body: |-
-  Grand Connection is focus of October Lake to LakeCIosso<time datetime="2025-10-15T21:03:16-07:00" title="Wednesday, October 15, 2025 - 21:03" class="datetime">Wed, 10/15/2025 - 21:03</time>
-
-   ![Four people look at a sidewalk decal in downtown Bellevue.](https://bellevuewa.gov/sites/default/files/styles/article_featured_image/public/media/article_featured_image/2025-10/lake-to-lake-10-25.jpg?h=d1cb525d&itok=TPulCFUY)
-
-  What do you like to do in Bellevue? The city planners behind the Grand Connection corridor want to know. Learn how you can weigh in on this month's [Lake to Lake](https://youtu.be/2uaCSc9KguA), the news show about Bellevue.
-
-  Scan the QR code on sidewalk decals featuring Belle the Bobcat and you'll be invited to share your thoughts on activities along the non-motorized corridor, which stretches from Meydenbauer Bay Park through downtown, over Interstate 405, to Eastrail in Wilburton. There are things to do along the Grand Connection now and more placemaking planned.
-
-  The show will also provide insights on the planning behind improvements and additions to our streets and sidewalks. Transportation Director Andrew Singelakis paves the way to better understanding.
-
-  Last but not least, the recent Kelsey Creek Farm Fair is captured on film (or video) in Lake to Lake, with ponies, pumpkins and hay wagon rides.
-
-  **Photo caption** : People enjoying downtown take a look at one of the decals featuring Belle the Bobcat and a QR code for input.
-
-  <time datetime="2025-10-15T12:00:00Z" class="datetime">October 15 2025</time>
+images:
+- 54b2194cee32cf79de9f69c90e4cd73bda2ca4953238e2c9d467f54ca8adda82
+locations:
+- King County
 source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/lake-to-lake-10-25
 summarized: true

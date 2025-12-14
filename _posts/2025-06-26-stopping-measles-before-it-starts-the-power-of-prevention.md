@@ -2,13 +2,11 @@
 date: '2025-06-26T23:48:55+00:00'
 events: []
 events_extracted: true
+feed_content: The U.S. experienced many changes and challenges due to the COVID-19
+  pandemic that shook the globe, but one unanticipated consequence was...
 images: []
 locations:
 - King County
-original_content: The U.S. experienced many changes and challenges due to the COVID-19
-  pandemic that shook the globe, but one unanticipated consequence was...
-original_markdown_body: The U.S. experienced many changes and challenges due to the
-  COVID-19 pandemic that shook the globe, but one unanticipated consequence was...
 source: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/stopping-measles-before-it-starts-the-power-of-prevention
 summarized: true

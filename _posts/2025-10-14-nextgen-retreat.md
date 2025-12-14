@@ -1,8 +1,6 @@
 ---
 date: '2025-10-14T20:39:18+00:00'
-images: []
-locations: []
-original_content: "<script type=\"text/javascript\">\n\t\t\t\t\t\tvar map_fusion_map_69210e326ab66;\n\t\t\t\t\t\tvar
+feed_content: "<script type=\"text/javascript\">\n\t\t\t\t\t\tvar map_fusion_map_69210e326ab66;\n\t\t\t\t\t\tvar
   markers = [];\n\t\t\t\t\t\tvar counter = 0;\n\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\t\tvar
   fusionMapNonce = '3ec4bded6a';\n\t\t\t\t\t\t\t\t\t\t\t\tfunction fusion_run_map_fusion_map_69210e326ab66()
   {\n\t\t\t\t\t\t\tjQuery ('#fusion_map_69210e326ab66' ).fusion_maps( {\n\t\t\t\t\t\t\t\taddresses:
@@ -17,7 +15,8 @@ original_content: "<script type=\"text/javascript\">\n\t\t\t\t\t\tvar map_fusion
   14,\n\t\t\t\t\t\t\t\tzoom_control: true,\n\t\t\t\t\t\t\t} );\n\t\t\t\t\t\t}\n\n\t\t\t\t\t\tgoogle.maps.event.addDomListener(window,
   'load', fusion_run_map_fusion_map_69210e326ab66);\n\t\t\t\t\t</script>\n\t\t\t\t\t<div
   class=\"shortcode-map fusion-google-map fusion-maps-js-type\" id=\"fusion_map_69210e326ab66\"></div>"
-original_markdown_body: ''
+images: []
+locations: []
 published: false
 source: NOSSCR Referral Service
 source_url: https://nosscr.org/nextgen-retreat/

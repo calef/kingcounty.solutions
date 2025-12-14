@@ -1,15 +1,11 @@
 ---
 date: '2025-12-05T15:41:50+00:00'
-images: []
-locations: []
-original_content: " The annual election for the International Special Review District
+feed_content: " The annual election for the International Special Review District
   (ISRD) Board was held by mail, with ballots tabulated on the evening of Tuesday,
   December 2. Seattle Department of Neighborhoods received a total of 89 ballots.
   Three positions were up ..."
-original_markdown_body: "&nbsp;The annual election for the International Special Review
-  District (ISRD) Board was held by mail, with ballots tabulated on the evening of
-  Tuesday, December 2. Seattle Department of Neighborhoods received a total of 89
-  ballots. Three positions were up ..."
+images: []
+locations: []
 published: false
 source: City of Seattle
 source_url: https://frontporch.seattle.gov/2025/12/05/international-special-review-district-announces-results-of-its-annual-election/

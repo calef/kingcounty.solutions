@@ -1,37 +1,27 @@
 ---
 end_date: '2026-03-13T09:00:00-07:00'
+feed_content: "<div> <article> <header> <h1><span>CISSKC Breakfast for the Kids 2026</span></h1>
+  </header> <div> <div> <div> <div> <span> March 13, 2026 </span> <span> | </span>
+  <span> 7:00 am </span> <span>  –  </span> <span> 9:00 am </span> </div> </div> <div>
+  <span> Free </span> <span> *Donations can be made online or at the event.</span>
+  </div> <p>Please <strong>SAVE THE DATE</strong> to join us at our <strong>Annual
+  CISSKC Breakfast for the Kids</strong> fundraiser event.</p> <p>This year’s program
+  will include student stories, successes, needs and highlight examples of our collaboration
+  and supports across the <strong>Kent School District </strong>and <strong>Federal
+  Way Public Schools</strong>.</p> <div> <a> Register Here! </a> </div> <div> <div>
+  <div> <h3>Kent-Meridian High School</h3> </div> <address> <span> <span>10020 SE
+  256th St.</span> <span>Kent</span><span>,</span> <abbr>Washington</abbr> <span>98030</span>
+  <span>United States</span> </span> </address> <span><a>View Venue Website</a></span>
+  </div> </div> <p>If you have any questions, please contact:</p> <p><strong>Angela
+  Stave</strong>, our <strong>Development Director </strong>at <strong>angelas@cisskc.org</strong>
+  or at <strong>206-715-9259</strong>. </p> <p>Thank you for your RSVP and we look
+  forward to seeing you on March 13, 2026.</p> </div> </div> </article> </div>"
+feed_content_checksum: c5951a2d6e724f59f4675e4b6ac59e00b63d1ae5
 images: []
 location: Kent-Meridian High School, 10020 SE 256th St., Kent, Washington, 98030,
   United States
 locations:
 - King County
-original_content: "<div> <article> <header> <h1><span>CISSKC Breakfast for the Kids
-  2026</span></h1> </header> <div> <div> <div> <div> <span> March 13, 2026 </span>
-  <span> | </span> <span> 7:00 am </span> <span>  –  </span> <span> 9:00 am </span>
-  </div> </div> <div> <span> Free </span> <span> *Donations can be made online or
-  at the event.</span> </div> <p>Please <strong>SAVE THE DATE</strong> to join us
-  at our <strong>Annual CISSKC Breakfast for the Kids</strong> fundraiser event.</p>
-  <p>This year’s program will include student stories, successes, needs and highlight
-  examples of our collaboration and supports across the <strong>Kent School District
-  </strong>and <strong>Federal Way Public Schools</strong>.</p> <div> <a> Register
-  Here! </a> </div> <div> <div> <div> <h3>Kent-Meridian High School</h3> </div> <address>
-  <span> <span>10020 SE 256th St.</span> <span>Kent</span><span>,</span> <abbr>Washington</abbr>
-  <span>98030</span> <span>United States</span> </span> </address> <span><a>View Venue
-  Website</a></span> </div> </div> <p>If you have any questions, please contact:</p>
-  <p><strong>Angela Stave</strong>, our <strong>Development Director </strong>at <strong>angelas@cisskc.org</strong>
-  or at <strong>206-715-9259</strong>. </p> <p>Thank you for your RSVP and we look
-  forward to seeing you on March 13, 2026.</p> </div> </div> </article> </div>"
-original_content_checksum: c5951a2d6e724f59f4675e4b6ac59e00b63d1ae5
-original_markdown_body: 'CISSKC Breakfast for the Kids 2026       March 13, 2026   |   7:00
-  am    –    9:00 am      Free   *Donations can be made online or at the event.  Please
-  SAVE THE DATE to join us at our Annual CISSKC Breakfast for the Kids fundraiser
-  event. This year’s program will include student stories, successes, needs and highlight
-  examples of our collaboration and supports across the Kent School District and Federal
-  Way Public Schools.   Register Here!      Kent-Meridian High School    10020 SE
-  256th St. Kent, Washington 98030 United States   View Venue Website   If you have
-  any questions, please contact: Angela Stave, our Development Director at angelas@cisskc.org
-  or at 206-715-9259.  Thank you for your RSVP and we look forward to seeing you on
-  March 13, 2026.'
 source: Communities In Schools of South King County
 source_url: https://skc.ciswa.org/event/cisskc-breakfast-for-the-kids-2026/
 start_date: '2026-03-13T07:00:00-07:00'

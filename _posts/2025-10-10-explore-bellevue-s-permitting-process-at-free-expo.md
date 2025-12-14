@@ -1,8 +1,6 @@
 ---
 date: '2025-10-10T16:31:28+00:00'
-images: []
-locations: []
-original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Explore
+feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Explore
   Bellevue’s permitting process at free expo</span>\n<span class=\"field field--name-uid
   field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"
   typeof=\"schema:Person\" property=\"schema:name\" datatype>CIosso</span></span>\n<span
@@ -38,30 +36,8 @@ original_content: "<span class=\"field field--name-title field--type-string fiel
   \     \n\n            <div class=\"field field--name-field-article-date field--type-datetime
   field--label-hidden field__item\"><time datetime=\"2025-10-10T12:00:00Z\" class=\"datetime\">October
   10 2025</time>\n</div>\n      \n    </div>\n  </div>"
-original_markdown_body: |-
-  Explore Bellevue’s permitting process at free expoCIosso<time datetime="2025-10-10T09:31:28-07:00" title="Friday, October 10, 2025 - 09:31" class="datetime">Fri, 10/10/2025 - 09:31</time>
-
-   ![A miniature house and a hardhat sit on blueprints.](https://bellevuewa.gov/sites/default/files/styles/article_featured_image/public/media/article_featured_image/2025-10/pcs-25-56525a-permitting-expo.jpg?h=5a22e328&itok=AnxL8eDJ)
-
-  Family-friendly Residential Permitting Expo to feature workshops, expert panel and opportunities to connect with staff
-
-  Planning a remodel or addition? Curious about accessory dwelling units or other housing options? Want to better understand Bellevue’s permitting process and how to apply for permits?
-
-  The City of Bellevue invites community members to a Residential Permitting Expo on Saturday, Oct. 25, 10 a.m.-1 p.m., at City Hall, 450 110th Ave. NE.
-
-  This free, family-friendly event offers a chance to meet city experts, ask questions and get practical guidance on everything from code updates and permit review to inspection and compliance. Staff from across the Development Services and Community Development departments will share resources and answer questions.
-
-  Expo highlights include:
-
-  - A panel discussion on ADU construction
-  - Workshops on using [MyBuildingPermit.com](https://mybuildingpermit.com/)
-  - Fun activities for kids
-
-  Whether you’re considering a new home or ADU, planning a DIY remodel or interested in housing and policy updates, the expo has something for you.
-
-  City Hall is accessible by light rail, walking or rolling, and free visitor parking is available. [Registration](https://www.eventbrite.com/e/bellevue-residential-permitting-expo-tickets-1685559787699) is encouraged, but not required.&nbsp;
-
-  <time datetime="2025-10-10T12:00:00Z" class="datetime">October 10 2025</time>
+images: []
+locations: []
 published: false
 source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/permitting-expo-25

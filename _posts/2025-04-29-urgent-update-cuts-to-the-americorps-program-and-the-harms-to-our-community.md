@@ -2,13 +2,9 @@
 date: '2025-04-29T19:19:34+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: "<div class=\"et_pb_section et_pb_section_4 et_section_regular\"
-  >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_row
-  et_pb_row_3\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4 et_pb_column_7
-  \ et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div
+feed_content: "<div class=\"et_pb_section et_pb_section_4 et_section_regular\" >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div
+  class=\"et_pb_row et_pb_row_3\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4
+  et_pb_column_7  et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div
   class=\"et_pb_module et_pb_text et_pb_text_7  et_pb_text_align_left et_pb_bg_layout_light\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div
   class=\"et_pb_text_inner\"><p><span>For Immediate Release</span></p>\n<p><span>Tuesday,
   April 29</span><span></span></p>\n<p><span style=\"font-weight: 400;\">This weekend,
@@ -86,32 +82,9 @@ original_content: "<div class=\"et_pb_section et_pb_section_4 et_section_regular
   post <a href=\"https://hungerintervention.org/2025/04/29/urgent-update-cuts-to-the-americorps-program-and-the-harms-to-our-community/\">Urgent
   Update: Cuts to the AmeriCorps Program and the Harms to Our Community</a> appeared
   first on <a href=\"https://hungerintervention.org\">Hunger Intervention Program</a>.</p>"
-original_markdown_body: |-
-  For Immediate Release
-
-  Tuesday, April 29
-
-  This weekend, all six of HIP’s AmeriCorps folks were terminated or put on unpaid leave by DOGE and the Trump administration. On Friday, United Way announced the Trump administration terminated two of our AmeriCorps, Zahraa (our volunteer coordinator) and Cameron (our Afterschool Meals lead). Late in the afternoon yesterday, our WSC AmeriCorps (Alyssa, Aidyn, Charlotte, and Amariah) found out via email that they were to stop service immediately and be put on unpaid leave for the foreseeable future. They likely will not be paid for their service yesterday. HIP was told to stop hiring for our Summer Meals HungerCorps this year and next year’s WSC cohort and rescind all extended AmeriCorps position offers.
-
-  For many reasons, this decision left us in utter shock. While we were trying to figure out how to best take care of Zahraa, Cameron, Alyssa, Aidyn, Charlotte, and Amariah, all they could think about was our program participants. Some even offered to come in for free to help our programs, because they know how much our students, seniors, and neighbors depend on HIP’s meals. Without them, homebound seniors can’t receive their meals. Without them, students cannot receive Healthy HIP Packs or Afterschool Meals.
-
-  We at HIP are heartbroken. Our programs have taken a hit. Half of our close friends and colleagues are gone. Our communities will suffer greatly as a consequence of this decision. Everyone who volunteers at HIP knows how essential our AmeriCorps members are. They are the best this country has to offer, and this country has let them down.
-
-  Here are some ways you can help in this hour of unprecedented need:
-
-  **1. Volunteer** –We need volunteers now more than ever. Each of our programs is going to require more volunteers and time. [Sign up for a packing party](https://www.signupgenius.com/go/20F0B4CA8AB22A4F85-hipvolunteering#/). Sign up for a [prep](https://www.signupgenius.com/go/20F0B4CA8AB22A4F85-senior#/) or [serving](https://www.signupgenius.com/go/20F0B4CA8AB22A4F85-senior2#/) shift. Most importantly, sign up to be a volunteer driver. Without a designated delivery meals coordinator, our homebound seniors cannot receive meals unless someone volunteers for a volunteer route. We will also need volunteers for Summer.
-
-  **2. Send Job Opportunities** –Our AmeriCorps folks were let go without any warning and the rent is due. If you or someone you know has any type of job opportunity, whether it is temporary or part-time, especially in Seattle or the surrounding areas, feel free to send it to us at [daniel@hungerintervention.org](mailto:daniel@hungerintervention.org). Dan will pass these opportunities along to our former AmeriCorps folks. These folks come with our highest recommendation.
-
-  **3. Advocate** –Call your representatives, especially at the county, state, and federal levels. Tell them about why AmeriCorps is so important to you and this community. We encourage you to reach out to your elected reps to express your concern for the cuts to these crucial programs (especially [Rep Jayapal](https://jayapal.house.gov/contact/email/); [Sen Murray](https://www.murray.senate.gov/write-to-patty/); [Sen Cantwell](https://www.cantwell.senate.gov/contact/email/form)). You can use [this tool](https://voicesforservice.org/take-action/contact-congress/?emci=b00b98fd-3724-f011-8b3d-6045bded8cca&emdi=78fe2d49-4324-f011-8b3d-6045bded8cca&ceid=13344245) to email them and [this tool](https://voicesforservice.org/grassroots-call-script-and-instructions/?emci=b00b98fd-3724-f011-8b3d-6045bded8cca&emdi=78fe2d49-4324-f011-8b3d-6045bded8cca&ceid=13344245) to call them. Call your city representative and let them know about how this change will harm our communities, so that we can start reform on the local level as well.
-
-  **4. [Donate](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=6XS32BZAJ23PN&source=url)**–If you have the capacity, we would appreciate a donation. We would love to bring some of our AmeriCorps members on as staff or recruit additional help to ensure we can continue the critical services for children, seniors, and families. But we cannot do that without your support.
-
-  We are angry, sad, and deeply concerned for the communities we serve. What happened this weekend was an attack on poor people in our neighborhood and everywhere. We will do everything in our power to pick up the pieces and continue to feed our community. We could use your help if you can lend it. We will provide updates on how this will affect our programs in the coming days.
-
-  If you have any questions, please contact [info@hungerintervention.org](mailto:info@hungerintervention.org).
-
-  The post [Urgent Update: Cuts to the AmeriCorps Program and the Harms to Our Community](https://hungerintervention.org/2025/04/29/urgent-update-cuts-to-the-americorps-program-and-the-harms-to-our-community/) appeared first on [Hunger Intervention Program](https://hungerintervention.org).
+images: []
+locations:
+- King County
 source: Hunger Intervention Program
 source_url: https://hungerintervention.org/2025/04/29/urgent-update-cuts-to-the-americorps-program-and-the-harms-to-our-community/?utm_source=rss&utm_medium=rss&utm_campaign=urgent-update-cuts-to-the-americorps-program-and-the-harms-to-our-community
 summarized: true

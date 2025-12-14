@@ -1,8 +1,6 @@
 ---
 date: '2025-07-01T14:41:13+00:00'
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   As we reflect on the retirement of Deputy Fire Chief Rick Olson, we feel a mix of emotions and gratitude for his years of dedicated service and sadness at losing a remarkable leader. Chief Olson has been an integral part of our community and the Valley Regional Fire Authority (VRFA), profoundly impacting his colleagues and the citizens he serves.
 
   Chief Olson began his career with the legacy Auburn Fire Department on January 11, 1999. That first day marked the beginning of an incredible journey that would see him rise through the ranks, driven by an unwavering desire to help people. His journey truly reflects the essence of public service, where the rewards come not from accolades but from the lives touched and saved.
@@ -32,6 +30,8 @@ original_content: |-
   &nbsp;
 
   The post [Celebrating a Dedicated Career: Retirement of Deputy Fire Chief Rick Olson](https://www.vrfa.org/2025/07/celebrating-a-dedicated-career-retirement-of-deputy-fire-chief-rick-olson/) appeared first on [Valley Regional Fire Authority (VRFA)](https://www.vrfa.org).
+images: []
+locations: []
 published: false
 source: Valley Regional Fire Authority
 source_url: https://www.vrfa.org/2025/07/celebrating-a-dedicated-career-retirement-of-deputy-fire-chief-rick-olson/

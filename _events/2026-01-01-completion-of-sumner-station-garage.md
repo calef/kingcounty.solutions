@@ -3,8 +3,6 @@ generated_from_post: true
 images: []
 location: Sumner Station
 locations: []
-original_markdown_body: The new parking garage at Sumner Station will feature 600
-  stalls and electric vehicle charging.
 published: false
 source: Sound Transit
 source_url: https://www.soundtransit.org/blog/platform/construction-update-new-parking-garages-more-sumner-auburn-kent

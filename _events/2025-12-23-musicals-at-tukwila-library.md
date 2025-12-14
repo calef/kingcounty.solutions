@@ -1,11 +1,6 @@
 ---
 end_date: '2025-12-23T19:30:00-08:00'
-images: []
-location: Tukwila Library, 14380 Tukwila International Boulevard, Tukwila, WA, United
-  States
-locations:
-- King County
-original_content: "<section> <div> <div> <div> <section> <div> <h1>Musicals at Tukwila
+feed_content: "<section> <div> <div> <div> <section> <div> <h1>Musicals at Tukwila
   Library</h1> <div> <h2> <span>December 23 @ 5:00 pm</span> - <span>7:30 pm</span>
   </h2> </div> <div> <div> <div> <div> <p>Join us for a free screening of the 1955
   Academy Award nominated musical, <b>Guys and Dolls</b>!  In New York, a gambler
@@ -34,24 +29,12 @@ original_content: "<section> <div> <div> <div> <section> <div> <h1>Musicals at T
   to Save 3 Lives</a></h3> <span>December 14 @ 8:00 am</span> - <span>5:00 pm</span>
   </div> </li> </ul> </div> <p> <a> Back to events</a> </p> </div> </section> </div>
   </div> </div> </section>"
-original_content_checksum: d70008e53db2f9b073004d465d25612cbfac87e7
-original_markdown_body: 'Musicals at Tukwila Library   December 23 @ 5:00 pm - 7:30
-  pm       Join us for a free screening of the 1955 Academy Award nominated musical, Guys
-  and Dolls!  In New York, a gambler is challenged to take a cold female missionary
-  to Havana, but they fall for each other, and the bet has a hidden motive to finance
-  a crap game. Starring Frank Sinatra, Marlon Brando, and Jean Simmons. This and many
-  other films can be streamed from the Kanopy database, free with your KCLS library
-  card: https://kcls.org/resources-types/streaming/ Reasonable accommodation for people
-  with disabilities is available by request. Email access@kcls.org at least seven
-  days before the event. Automated closed captioning is always available for online
-  events. Suitable for:      Adults (Ages 18 and older)            Google Calendar     iCalendar     Outlook
-  365     Outlook Live           Details    Date:   December 23     Time:   5:00 pm
-  - 7:30 pm     Event Category: Community Event      Venue    Tukwila Library     14380
-  Tukwila International Boulevard Tukwila, WA United States  + Google Map    Phone  (206)
-  242-1640     View Venue Website       Related Events    Community Resource Fair
-  December 13 @ 11:30 am - 2:30 pm     Rainier Symphony Concert December 13 @ 6:30
-  pm - 8:30 pm     Give Blood to Save 3 Lives December 14 @ 8:00 am - 5:00 pm       Back
-  to events'
+feed_content_checksum: d70008e53db2f9b073004d465d25612cbfac87e7
+images: []
+location: Tukwila Library, 14380 Tukwila International Boulevard, Tukwila, WA, United
+  States
+locations:
+- King County
 source: City of Tukwila
 source_url: https://www.tukwilawa.gov/event/musicals-at-tukwila-library-2/
 start_date: '2025-12-23T17:00:00-08:00'

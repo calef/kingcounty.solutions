@@ -1,8 +1,6 @@
 ---
 date: '2025-10-20T16:19:03+00:00'
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   ![Klickitat Valley Health Hospital in Goldendale, Washington](https://www.commerce.wa.gov/wp-content/uploads/2025/10/Klickitat.jpg)
 
   > “Elective pay finally makes clean energy real for rural hospitals. Without it, our hydrogen fuel cell wouldn’t have been feasible.” – Jonathan Lewis, Director of Support Services, KVH
@@ -43,6 +41,8 @@ original_content: |-
   ![Lawyers for Good Government logo](https://www.commerce.wa.gov/wp-content/uploads/2025/10/l4gg-color.png)
 
   ![Giraffe logo](https://www.commerce.wa.gov/wp-content/uploads/2025/10/giraffe-logo-purple.png)
+images: []
+locations: []
 published: false
 source: Department of Commerce
 source_url: https://www.commerce.wa.gov/klickitat-valley-health-builds-a-cleaner-more-resilient-future-with-cetcap-support/

@@ -1,8 +1,6 @@
 ---
 date: '2025-09-11T17:22:43+00:00'
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   By Steven Schauer, Deputy Executive Director
 
   The King County Flood Control District (KCFCD) is proud to announce the recipients of the 2025 Steve Bleifuhs Memorial Flood Reduction Grant Program. This year, the KCFCD awarded over $14.8 million in grant funding to 35 projects across King County. This is an investment that will reduce flood risks, restore fish passage, and strengthen the resilience of communities in every corner of the county.
@@ -83,6 +81,8 @@ original_content: |-
   For more information about the program and to learn when the **2026 grant application window opens in spring 2026** , please visit the [Steve Bleifuhs Memorial Flood Reduction Grants page](https://kingcountyfloodcontrol.org/grant-programs-funding/flood-reduction-grants-open/) on the King County Flood Control District website.
 
   The post [Honoring a Legacy: 2025 Steve Bleifuhs Memorial Flood Reduction Grant Program](https://kingcountyfloodcontrol.org/honoring-a-legacy-2025-steve-bleifuhs-memorial-flood-reduction-grant-program/) appeared first on [King County Flood Control District](https://kingcountyfloodcontrol.org).
+images: []
+locations: []
 published: false
 source: King County Flood Control District
 source_url: https://kingcountyfloodcontrol.org/honoring-a-legacy-2025-steve-bleifuhs-memorial-flood-reduction-grant-program/?utm_source=rss&utm_medium=rss&utm_campaign=honoring-a-legacy-2025-steve-bleifuhs-memorial-flood-reduction-grant-program

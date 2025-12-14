@@ -2,9 +2,7 @@
 date: '2025-07-01T15:21:04+00:00'
 events: []
 events_extracted: true
-images: []
-locations: []
-original_content: "<p><div class=\"et_pb_section et_pb_section_9 blog-post-type et_section_regular\"
+feed_content: "<p><div class=\"et_pb_section et_pb_section_9 blog-post-type et_section_regular\"
   >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_row
   et_pb_row_29\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4 et_pb_column_42
   \ et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div
@@ -173,34 +171,8 @@ original_content: "<p><div class=\"et_pb_section et_pb_section_9 blog-post-type 
   et_pb_column_49  et_pb_css_mix_blend_mode_passthrough et-last-child et_pb_column_empty\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div></p>\n<p>The
   post <a href=\"https://lcsnw.org/2025/07/nextgen/\">Youth voices shape the future:
   Listening sessions reveal hopes and challenges</a> appeared first on <a href=\"https://lcsnw.org\">LCSNW</a>.</p>"
-original_markdown_body: |-
-  # Youth voices shape the future: Listening sessions reveal hopes and challenges
-
-  Over the past several weeks, young people across Benton and Franklin Counties were invited to share their voices, concerns, and dreams for the future during a series of Community Needs Assessment listening sessions hosted by LCSNW of the Tri-Cities.
-
-  The sessions, held on May 20 and June 26 at the LCSNW office in Kennewick, brought together 26 youth ages 16 to 21 to discuss the issues that matter most to them. These conversations marked the launch of the&nbsp;[**NextGen Leaders of Benton and Franklin Counties**](https://lcsnw.org/program/nextgen/), a new initiative aimed at empowering youth voices and fostering youth-led solutions for a safer, healthier community.
-
-  Through individual and group activities, participants were invited to reflect on their personal experiences and the challenges and opportunities they’ve experienced. They shared what they value about their community, where they feel safe and supported, and what changes they believe are needed to improve the well-being of their peers. Program Director Andrea Peyton is responsible for spearheading this new initiative.
-
-   ![Teenagers and young adults stand in a group discussion](https://lcsnw.org/wp-content/uploads/2025/07/PXL_20250627_011422095-scaled.jpg "PXL\_20250627\_011422095")
-
-  &nbsp;
-
-  > _ **“It is our belief that young people have practical and creative solutions to solve community challenges,” Andrea says. “Often, adults think we have the answers, and we take up decision making space on behalf of young people. These listening sessions have allowed youth to highlight what they believe are the most pressing issues they are facing along with what they love about our community.”** _
-
-  ![A poster on a window with sticky notes recording youth responses to the question:](https://lcsnw.org/wp-content/uploads/2025/07/trashed-1751502296-PXL_20250521_010443822-169x300.jpg)The responses shared painted a vivid picture of both the strengths and struggles facing local youth and young adults. Many expressed appreciation for the cultural diversity&nbsp;offered by the Tri-Cities and “its small town feel with bigger city activities,” while also highlighting concerns and struggles such as safety at school, finding jobs, and feeling pressured to have their futures planned out.
-
-  Looking ahead, the next step is to use the experiences and ideas shared during the sessions to formally establish the NextGen Leaders – **&nbsp;** a youth-led council that will represent and advocate for the needs of teenagers and young adults in Benton and Franklin Counties. Many participants from the May and June sessions expressed strong interest in continuing their involvement to help shape this work, and their first council meeting is scheduled for July 31st.
-
-  LCSNW is also seeking to partner with local organizations and community leaders to support the development of this council and strengthen the broader support systems available to youth. The goal is to allow young people to steer this work, encourage their peers to discover available resources, and ensure they have a voice in shaping the programs and services that affect their futures.
-
-   ![table with pizza boxes](https://lcsnw.org/wp-content/uploads/2025/07/trashed-1751502296-PXL_20250521_010416751-scaled.jpg ".trashed-1751502296-PXL\_20250521\_010416751")
-
-   ![](https://lcsnw.org/wp-content/uploads/2025/07/1751502294-PXL_20250521_010110297-scaled.jpg)
-
-   ![Posters on a wall with prompts for session participants to respond to](https://lcsnw.org/wp-content/uploads/2025/07/PXL_20250627_001914614-scaled.jpg "PXL\_20250627\_001914614")
-
-  The post [Youth voices shape the future: Listening sessions reveal hopes and challenges](https://lcsnw.org/2025/07/nextgen/) appeared first on [LCSNW](https://lcsnw.org).
+images: []
+locations: []
 published: false
 source: Lutheran Community Services Northwest
 source_url: https://lcsnw.org/2025/07/nextgen/

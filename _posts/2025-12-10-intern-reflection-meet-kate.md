@@ -1,8 +1,6 @@
 ---
 date: '2025-12-10T16:55:48+00:00'
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   <figure><img src="https://angelflightwest.org/wp-content/uploads/2025/12/Facetune_01-12-2025-21-29-37-2-651x1024.jpeg"></figure>
 
 
@@ -24,21 +22,9 @@ original_content: |-
 
 
   <p>My time at Angel Flight West has reaffirmed my desire to build a career where my communication skills can make a real difference. I’m incredibly grateful for the opportunity to contribute to such a meaningful organization and to learn from professionals who truly care about the people they serve. This internship has shaped not only my professional growth but also my perspective on purpose-driven work, and I will carry these lessons with me far beyond this semester. </p><p>The post <a>Intern Reflection: Meet Kate</a> first appeared on <a>Angel Flight West</a>.</p>
-original_content_checksum: 78b6dc3e7750ba9dd9edba650d5709b322d2a62c
-original_markdown_body: |-
-  ![](https://angelflightwest.org/wp-content/uploads/2025/12/Facetune_01-12-2025-21-29-37-2-651x1024.jpeg)
-
-  My name is Kate Malone, and I have had the privilege of serving as a Communications Intern with Angel Flight West for the Fall 2025 semester. I’m a Public Relations major at the University of South Carolina, and coming into this internship, I was excited to sharpen my communications skills within a mission-driven organization. What I didn’t expect was just how meaningful and inspiring this experience would become. Working with AFW has given me a deeper appreciation for the power of storytelling and the real impact it can have on the lives of patients, pilots, and families across the country.&nbsp;
-
-  From the beginning, I was drawn to AFW’s mission of providing free transportation for individuals facing medical and health-related challenges. Throughout my internship, I’ve had the opportunity to bring that mission to life by crafting social media content, writing volunteer and passenger spotlights, creating mission milestone updates, and contributing to newsletters and blog stories. Each assignment allowed me to deepen my understanding of the organization while also challenging me to write with empathy, clarity, and purpose.&nbsp;
-
-  Some of the most rewarding moments of my internship came from sharing stories about our volunteers, especially volunteer pilots and Earth Angels whose generosity makes every mission possible. Learning about their commitment made my work feel incredibly meaningful, and it gave me a chance to refine my storytelling skills through writing spotlights that honored their dedication. I also enjoyed creating graphics and campaign content that helped strengthen AFW’s online presence and expand engagement across platforms. These experiences strengthened my abilities in Canva, Mailchimp, WordPress, and social media strategy, giving me hands-on practice with the tools used every day in nonprofit communications.&nbsp;
-
-  Beyond the technical skills, this internship allowed me to grow in areas that matter just as much: listening closely, communicating thoughtfully, managing deadlines, and adapting to the needs of a remote team. Working with such a supportive and mission-centered staff has been one of the greatest parts of this experience. Even while working remotely, I always felt connected to the team and inspired by the passion they brought&nbsp;to their work.&nbsp;
-
-  My time at Angel Flight West has reaffirmed my desire to build a career where my communication skills can make a real difference. I’m incredibly grateful for the opportunity to contribute to such a meaningful organization and to learn from professionals who truly care about the people they serve. This internship has shaped not only my professional growth but also my perspective on purpose-driven work, and I will carry these lessons with me far beyond this semester.&nbsp;
-
-  The post Intern Reflection: Meet Kate first appeared on Angel Flight West.
+feed_content_checksum: 78b6dc3e7750ba9dd9edba650d5709b322d2a62c
+images: []
+locations: []
 published: false
 source: Angel Flight West
 source_url: https://angelflightwest.org/news/intern-reflection-meet-kate/

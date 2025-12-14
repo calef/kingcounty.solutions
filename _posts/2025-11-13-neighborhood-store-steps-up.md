@@ -2,12 +2,8 @@
 date: '2025-11-13T19:48:56+00:00'
 events: []
 events_extracted: true
-images:
-- 480680d89b46088b1cf1cdccbb4a1868e0e622f179b097c6279f5b36f08bcf72
-locations:
-- King County
-original_content: "<div data-elementor-type=\"wp-post\" data-elementor-id=\"9578\"
-  class=\"elementor elementor-9578\">\n\t\t\t\t<div class=\"elementor-element elementor-element-3cb6c0e
+feed_content: "<div data-elementor-type=\"wp-post\" data-elementor-id=\"9578\" class=\"elementor
+  elementor-9578\">\n\t\t\t\t<div class=\"elementor-element elementor-element-3cb6c0e
   e-flex e-con-boxed e-con e-parent\" data-id=\"3cb6c0e\" data-element_type=\"container\">\n\t\t\t\t\t<div
   class=\"e-con-inner\">\n\t\t\t\t<div class=\"elementor-element elementor-element-1ee2625
   elementor-widget elementor-widget-text-editor\" data-id=\"1ee2625\" data-element_type=\"widget\"
@@ -62,37 +58,10 @@ original_content: "<div data-elementor-type=\"wp-post\" data-elementor-id=\"9578
   King County – 2023 | <strong><a href=\"https://ccsww.org/services/kinship-services/\">LINK</a></strong></p><p><a
   href=\"#_ftnref2\" name=\"_ftn2\">[2]</a> Census Reporter – King County, WA – 2023
   | <strong><a href=\"https://censusreporter.org/profiles/05000US53033-king-county-wa/\">LINK</a></strong></p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>"
-original_markdown_body: "With so many expensive grocery stores throughout King County,
-  it can be challenging for any family to find ingredients that are affordable and
-  fit their cultural and taste needs. And when you factor in allergies, intolerances,
-  and the price of gas or transportation, our communities continue to face barriers
-  for their most basic need: eating.\n\nThanks to a new and delectable friendship
-  with our local Trader Joe’s, more of our families have found access to great prices
-  and products. With assistance from knowledgeable Crew Members, our Atlantic Street
-  Center families have also discovered new recipes, specifically our Kinship Care
-  Support Group participants!\n\n![](https://atlanticstreetcenter.org/wp-content/uploads/2025/11/pngIMG_3482-285x300.jpg)\n\nThere
-  are 18,000 kinship caregivers in King County, which means that many older adults
-  of retirement age are raising children.[[1]](#_ftn1) Additionally, 10% of seniors
-  in King County are below the poverty line.[[2]](#_ftn2) Atlantic Street Center (ASC)
-  must allocate as many resources as possible for the participants we serve.\n\nWhen
-  Trader Joe’s in Burien stepped up to support, they created a true shopping adventure
-  for our grandparents and their families. ASC participants were invited to the store
-  to learn more about Trader Joe’s branded items, and how certain groceries could
-  be helpful and nutritious additions to their homes.\n\n## \n## “This was an amazing
-  experience,” said participant Mary.&nbsp;“I learned a lot about how to read the
-  tags for gluten free, vegan and organic food options. The items the store staff
-  displayed helped me put together a healthy meal for under $10 dollars.”\n\n![](https://atlanticstreetcenter.org/wp-content/uploads/2025/11/pngIMG_3468-271x300.jpg)The
-  Trader Joe’s Crew Members treated us to some amazing samples (yum!) and showed us
-  exactly where to find each ingredient in the store. They made the experience even
-  better by walking us through how each item is made and what goes into it.\n\nValue
-  is vital, especially when food accessibility is shrinking. By Trader Joe’s hosting
-  our Kinship Care Support Group, our families now have uncovered their own resource
-  they can visit again and again. Having the ability to purchase affordable and tasty
-  food is not just helpful; it is survival.\n\nThank you, Trader Joe’s! This is one
-  way the community can work to help families go from surviving to thriving.\n\n![](https://atlanticstreetcenter.org/wp-content/uploads/2025/11/pngIMG_3661-1024x805.jpg)\n\n[[1]](#_ftnref1)
-  Catholic Community Services of Western Washington – Kinship Care Services, King
-  County – 2023 | **[LINK](https://ccsww.org/services/kinship-services/)**\n\n[[2]](#_ftnref2)
-  Census Reporter – King County, WA – 2023 | **[LINK](https://censusreporter.org/profiles/05000US53033-king-county-wa/)**"
+images:
+- 480680d89b46088b1cf1cdccbb4a1868e0e622f179b097c6279f5b36f08bcf72
+locations:
+- King County
 source: Atlantic Street Center
 source_url: https://atlanticstreetcenter.org/2025/11/13/neighborhood-store-steps-up/?utm_source=rss&utm_medium=rss&utm_campaign=neighborhood-store-steps-up
 summarized: true

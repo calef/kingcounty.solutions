@@ -2,11 +2,7 @@
 date: '2025-06-27T16:34:37+00:00'
 events: []
 events_extracted: true
-images:
-- 34a9ecd566e623cf6581f456034d1a644326745b861352243937b7b1792c7823
-locations:
-- King County
-original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Council
+feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Council
   Roundup: Council approves middle housing regulations</span>\n<span class=\"field
   field--name-uid field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"
   typeof=\"schema:Person\" property=\"schema:name\" datatype>CIosso</span></span>\n<span
@@ -77,44 +73,10 @@ original_content: "<span class=\"field field--name-title field--type-string fiel
   \     \n\n            <div class=\"field field--name-field-article-date field--type-datetime
   field--label-hidden field__item\"><time datetime=\"2025-06-27T12:00:00Z\" class=\"datetime\">June
   27 2025</time>\n</div>\n      \n    </div>\n  </div>"
-original_markdown_body: |-
-  Council Roundup: Council approves middle housing regulationsCIosso<time datetime="2025-06-27T09:34:37-07:00" title="Friday, June 27, 2025 - 09:34" class="datetime">Fri, 06/27/2025 - 09:34</time>
-
-   ![Multifamily housing that looks like a duplex or quadruplex stands between trees on a Bellevue street.](https://bellevuewa.gov/sites/default/files/styles/article_featured_image/public/media/article_featured_image/2025-06/middle-housing-quadruplex.jpg?h=c9f93661&itok=vyPvmaRL)
-
-  Plus, Community Court presentation and Disability Pride and Parks and Recreation proclamations
-
-  On Tuesday, the City Council approved updates to Bellevue’s housing policies to comply with state laws aimed at expanding housing options. The changes align local regulations with House Bills 1110 and 1337, passed by the State Legislature in 2023. These laws require cities to allow a wide range of housing types and greater residential density. Cities must adopt the changes by June 30.
-
-  During a June 10 study session, the council reviewed the proposed code amendments and provided direction on several key policies to shape the final middle housing updates. Councilmembers requested changes to the Planning Commission’s recommendation, including reducing the distance near transit where six units can be built, lowering the maximum building height for most middle housing and placing additional limits on the size and height of cottage housing.
-
-  The council also approved a fee-in-lieu option allowing developers to pay a set amount to build up to six units, upheld parking requirements, with exemptions near major transit, and confirmed that six units can be built within a quarter mile of specific identified growth areas. The council also decided that detached accessory dwelling units will count toward the total number of units on a property, while attached ADUs will not.
-
-  The council unanimously approved the code updates following discussion of the proposed amendments. A video replay of the full discussion is available on Bellevue Television with supporting information available in the [meeting materials](https://bellevue.legistar.com/View.ashx?M=A&ID=1273100&GUID=9745B328-470A-4B8E-8082-58450D051387).
-
-  Bellevue partners with county to launch Community Court
-
-  The City of Bellevue is partnering with King County District Court to launch a Community Court here, likely in mid-July. The court will convene at the Bellevue Library and is intended to address the root causes behind low-level, nonviolent misdemeanor crimes.
-
-  At Tuesday’s meeting, District Court Presiding Judge Rebecca Robertson delivered a State of the Court presentation, highlighting court structure, key priorities, caseload statistics and updates – most notably the launch of the Bellevue Community Court and Resource Center.
-
-  Shown to deliver many benefits including reduced recidivism, which leads to the use of fewer judicial resources, community court is an alternative to traditional court for eligible, nonviolent, less-serious misdemeanor cases. City staff discussed the need and purpose of Community Court, which is to increase safety for everyone by holding community court clients accountable, while helping them improve their lives. Community courts work to identify and address the underlying challenges people face that often contribute to involvement with the criminal justice system, reducing recidivism. &nbsp;
-
-  Community Court is the result of a partnership between several city departments, District Court, the King County Library System and a number of community providers. The library will host the weekly court and provide space for a resource center, making it easier for individuals to access help and support. Similar courts are already operating in Auburn, Redmond and Shoreline/Kenmore with demonstrated effectiveness.
-
-  Volunteer opportunities
-
-  Community Court relies on volunteers to help with weekly operations and support services. Learn about [available opportunities](https://bellevuewa.gov/volunteering/bellevue-community-court-volunteer-opportunities).
-
-  The full presentation and discussion for this week are available through [video replay](https://www.youtube.com/watch?v=-EYDcwdM2ak) on Bellevue Television with supporting information available in the&nbsp;[meeting materials](https://bellevue.legistar.com/LegislationDetail.aspx?ID=7443296&GUID=BD48E891-4ABE-41F4-A5B5-1178E9F21D25).
-
-  Council proclamations
-
-  In other business, the council proclaimed the month of July as [Disability Pride Month](https://bellevue.legistar.com/View.ashx?M=F&ID=14306993&GUID=015565B3-B469-40A1-942D-722BF17A7745) and [Parks and Recreation Month](https://bellevue.legistar.com/View.ashx?M=F&ID=14306994&GUID=D25AEB22-2FD5-4737-BDBB-97BD1F37C4A0).
-
-  _ **NOTE:** The next council meeting will be July 15. The meetings on July 1 and July 8 have been canceled._
-
-  <time datetime="2025-06-27T12:00:00Z" class="datetime">June 27 2025</time>
+images:
+- 34a9ecd566e623cf6581f456034d1a644326745b861352243937b7b1792c7823
+locations:
+- King County
 source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/council-roundup-6-24-25
 summarized: true

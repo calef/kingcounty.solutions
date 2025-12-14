@@ -2,14 +2,11 @@
 date: '2025-11-18T11:35:00+00:00'
 events: []
 events_extracted: true
-images: []
-locations: []
-original_content: <img src="https://www.burienwa.gov/UserFiles/Servers/Server_11045935/Image/Featured_Events/City%20Chat%20ED-HS%20-%20FE.png"
+feed_content: <img src="https://www.burienwa.gov/UserFiles/Servers/Server_11045935/Image/Featured_Events/City%20Chat%20ED-HS%20-%20FE.png"
   />Join us for free light refreshments at our "City Chat" on Thursday, November 20
   at the Burien Library and City Hall multipurpose room!
-original_markdown_body: '![](https://www.burienwa.gov/UserFiles/Servers/Server_11045935/Image/Featured_Events/City%20Chat%20ED-HS%20-%20FE.png)Join
-  us for free light refreshments at our "City Chat" on Thursday, November 20 at the
-  Burien Library and City Hall multipurpose room!'
+images: []
+locations: []
 published: false
 source: City of Burien
 source_url: https://www.burienwa.gov/cms/One.aspx?portalId=11046019&pageId=21059577

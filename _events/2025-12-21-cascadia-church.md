@@ -1,10 +1,6 @@
 ---
 end_date: '2025-12-21T12:00:00-08:00'
-images: []
-location: ''
-locations:
-- Federal Way
-original_content: '<div class="wp-site-blocks"> <div class="tribe-block tec-block__single-event">
+feed_content: '<div class="wp-site-blocks"> <div class="tribe-block tec-block__single-event">
   <section id="tribe-events-pg-template" class="tribe-events-pg-template" role="main">
   <div id="tribe-events-content" class="tribe-events-single"> <p class="tribe-events-back">
   <a href="https://federalwayseniorcenter.org/events/"> « All Events</a> </p> <div
@@ -47,10 +43,10 @@ original_content: '<div class="wp-site-blocks"> <div class="tribe-block tec-bloc
   </a> </dd> </ul> </div> </div> </div> </div> </section> </div> </div> <script id="wp-emoji-settings"
   type="application/json"> {"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://federalwayseniorcenter.org/wp-includes/js/wp-emoji-release.min.js?ver=6.9"}}
   </script>'
-original_markdown_body: '« All Events    Event Series:    Cascadia Church    Cascadia
-  Church   December 21 @ 9:00 am – 12:00 pm           Google Calendar     iCalendar     Outlook
-  365     Outlook Live           Details    Date:   December 21     Time:   9:00 am
-  – 12:00 pm    Series:    Cascadia Church            {"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://federalwayseniorcenter.org/wp-includes/js/wp-emoji-release.min.js?ver=6.9"}}'
+images: []
+location: ''
+locations:
+- Federal Way
 published: false
 source: Federal Way Senior Center
 source_url: https://federalwayseniorcenter.org/event/cascadia-church/2025-12-21/

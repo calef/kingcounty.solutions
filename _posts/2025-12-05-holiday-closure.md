@@ -1,21 +1,13 @@
 ---
 date: '2025-12-05T23:02:16+00:00'
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   <a href="https://wscenter.org/holiday-closure/"><p>We want to let our members know that we will be closed at the end of the month for a holiday break. Please mark your calendar!</p>
 
 
 
   <p>Wednesday, December 24: The &hellip;</p></a>
-original_markdown_body: |-
-  [
-
-  We want to let our members know that we will be closed at the end of the month for a holiday break. Please mark your calendar!
-
-  Wednesday, December 24: The …
-
-  ](https://wscenter.org/holiday-closure/)
+images: []
+locations: []
 published: false
 source: The Center for Active Living
 source_url: https://wscenter.org/holiday-closure/

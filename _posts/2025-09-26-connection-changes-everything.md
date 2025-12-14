@@ -2,13 +2,11 @@
 date: '2025-09-26T20:03:12+00:00'
 events: []
 events_extracted: true
+feed_content: For older adults, isolation can have serious consequences. Studies show
+  that loneliness can lead to depression, cognitive decline, and...
 images: []
 locations:
 - Eastside
-original_content: For older adults, isolation can have serious consequences. Studies
-  show that loneliness can lead to depression, cognitive decline, and...
-original_markdown_body: For older adults, isolation can have serious consequences.
-  Studies show that loneliness can lead to depression, cognitive decline, and...
 source: Eastside Friends of Seniors
 source_url: https://www.eastsidefriendsofseniors.org/post/connection-changes-everything
 summarized: true

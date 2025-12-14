@@ -1,8 +1,6 @@
 ---
 date: '2025-10-20T16:18:37+00:00'
-images: []
-locations: []
-original_content: "[U.S. DOE – Advanced Technology Vehicles Manufacturing Loan Program](https://www.energy.gov/lpo/articles/doe-announces-availability-10-billion-loan-authority-automotive-manufacturing)\n\n-
+feed_content: "[U.S. DOE – Advanced Technology Vehicles Manufacturing Loan Program](https://www.energy.gov/lpo/articles/doe-announces-availability-10-billion-loan-authority-automotive-manufacturing)\n\n-
   **Qualifying applicants: ** Manufacturers of advanced technology vehicles that achieve
   defined fuel economy targets and producers of components or materials that enhance
   eligible vehicles’ fuel economy and emissions performance.\n- **Qualifying projects: **
@@ -33,6 +31,8 @@ original_content: "[U.S. DOE – Advanced Technology Vehicles Manufacturing Loan
   reduce toxic diesel emissions from diesel vehicles, engines, and equipment in Washington.\n-
   **Total funding amount:** Approximately $25 million.\n- **Application due date:**
   January 8, 2026"
+images: []
+locations: []
 published: false
 source: Department of Commerce
 source_url: https://www.commerce.wa.gov/october-2025-transportation-electrification-open-funding-opportunities/

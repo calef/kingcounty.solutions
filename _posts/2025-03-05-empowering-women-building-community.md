@@ -2,10 +2,7 @@
 date: '2025-03-05T18:33:47+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: "![](https://sophiaway.org/wp-content/uploads/2025/03/Image-blog-2025-03.jpg)\n\n>
+feed_content: "![](https://sophiaway.org/wp-content/uploads/2025/03/Image-blog-2025-03.jpg)\n\n>
   > > _“There is no limit to what we, as women, can accomplish.”_   \n> > > Michelle
   Obama\n\nAs we celebrate Women’s History Month, we honor the extraordinary women
   who have been part of The Sophia Way’s journey – those who have supported and empowered
@@ -48,6 +45,9 @@ original_content: "![](https://sophiaway.org/wp-content/uploads/2025/03/Image-bl
   we extend our deepest gratitude. Your compassion and dedication make a difference
   every single day.\n\n> \n\nThe post [Empowering Women, Building Community.](https://sophiaway.org/empowering-women-building-community/)
   first appeared on [The Sophia Way](https://sophiaway.org)."
+images: []
+locations:
+- King County
 source: The Sophia Way
 source_url: https://sophiaway.org/empowering-women-building-community/?utm_source=rss&utm_medium=rss&utm_campaign=empowering-women-building-community
 summarized: true

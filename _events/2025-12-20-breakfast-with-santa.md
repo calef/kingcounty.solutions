@@ -1,10 +1,6 @@
 ---
 end_date: '2025-12-20T10:30:00-08:00'
-images: []
-location: Tutta Bella Pizzeria, 715 NW Gilman Blvd, Issaquah, WA, 98027, United States
-locations:
-- King County
-original_content: <section id="tribe-events-pg-template" class="tribe-events-pg-template"
+feed_content: <section id="tribe-events-pg-template" class="tribe-events-pg-template"
   role="main"> <div id="tribe-events-content" class="tribe-events-single"> <p class="tribe-events-back">
   <a href="https://kidvantagenw.org/events/"> « All Events</a> </p> <h1 class="tribe-events-single-event-title">Breakfast
   with Santa</h1> <div class="tribe-events-schedule tribe-clearfix"> <h2> <span class="tribe-event-date-start">December
@@ -67,18 +63,10 @@ original_content: <section id="tribe-events-pg-template" class="tribe-events-pg-
   States</span> </span> <a class="tribe-events-gmap" href="https://maps.google.com/maps?f=q&amp;source=s_q&amp;hl=en&amp;geocode=&amp;q=715+NW+Gilman+Blvd+Issaquah+WA+98027+United+States"
   title="Click to view a Google Map" target="_blank" rel="noreferrer noopener">+ Google
   Map</a> </address> </li> </ul> </div> </div> </div> </div> </section>
-original_markdown_body: "« All Events  Breakfast with Santa   December 20 @ 9:00 am
-  - 10:30 am     Please join us for Breakfast with Santa benefitting KidVantage!  Saturday,
-  December 20th 9:00 a.m. -10:30 a.m. Tutta Bella Neapolitan Pizza 715 NW Gilman Blvd,
-  Issaquah WA  Purchase your tickets now to have breakfast with Santa this December!
-  Tickets are $15 for adults & $12 for children (check the Issaquah Commons website
-  for more information). Don’t forget to bring a new toy for a child in need! All
-  new toys will be donated to KidVantage.         Google Calendar     iCalendar     Outlook
-  365     Outlook Live           Details    Date:   December 20     Time:   9:00 am
-  - 10:30 am     Event Category: Issaquah Hub   Website:  https://www.visitissaquahwa.com/event/breakfast-with-santa-at-tutta-bella-pizzeria/
-  \     Organizer   Issaquah Commons    View Organizer Website         Venue    Tutta
-  Bella Pizzeria     715 NW Gilman Blvd Issaquah, WA 98027 United States  + Google
-  Map"
+images: []
+location: Tutta Bella Pizzeria, 715 NW Gilman Blvd, Issaquah, WA, 98027, United States
+locations:
+- King County
 source: KidVantage
 source_url: https://kidvantagenw.org/event/breakfast-with-santa/
 start_date: '2025-12-20T09:00:00-08:00'

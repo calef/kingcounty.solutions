@@ -2,10 +2,7 @@
 date: '2025-10-08T19:28:53+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: |-
+feed_content: |-
   This week, our Encompass It All Series takes a closer look at Encompass Pediatric Therapy Services. Providing over 2000 visits each month, our therapies are tailored to meet the unique needs of each child to help them reach their developmental milestones in a supportive environment.
 
   In this episode of our **Parent Talks** podcast, we take a deeper dive with members of our Pediatric Therapy team: Occupational Therapy Supervisor Lisa Krejci, Speech-Language Supervisor Jim Engracia, and Child and Family Therapist Amber Eckert. Together, they provide a closer look at their work – challenges kids might be facing when they seek services, what therapy sessions look like, the benefits of multidisciplinary collaboration, the importance of family partnership, and more.
@@ -31,6 +28,9 @@ original_content: |-
   [View All Podcast Episodes](https://encompassnw.org/category/family-enrichment/parent-talks-podcast/)
 
   The post [Parent Talks Podcast: Pediatric Therapy Services](https://encompassnw.org/parent-talks-podcast-pediatric-therapy-services/) first appeared on [Encompass](https://encompassnw.org).
+images: []
+locations:
+- King County
 source: Encompass
 source_url: https://encompassnw.org/parent-talks-podcast-pediatric-therapy-services/
 summarized: true

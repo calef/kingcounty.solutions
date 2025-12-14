@@ -1,29 +1,18 @@
 ---
 date: '2025-12-02T20:16:19+00:00'
+feed_content: This position is responsible for professional-level urban planning and
+  assistance with a variety of tasks in day-to-day operations of the Community Development
+  Department. Work involves activities in support of major planning projects, such
+  as preparation of the Comprehensive Plan, general long-range planning issues, current
+  planning, permit processing, and assisting with SEPA administration. The work also
+  requires the application of well-developed written and analytical skills in subjects
+  related to planning and permit processing. Issues are often highly sensitive and
+  require direct contact with residents, elected officials, and other community stakeholders.
+  This position is the first point of contact for inquiries regarding the Normandy
+  Park Municipal Code for building, land use, and environmental regulations, and submittal
+  requirements for permit applications.
 images: []
 locations: []
-original_content: This position is responsible for professional-level urban planning
-  and assistance with a variety of tasks in day-to-day operations of the Community
-  Development Department. Work involves activities in support of major planning projects,
-  such as preparation of the Comprehensive Plan, general long-range planning issues,
-  current planning, permit processing, and assisting with SEPA administration. The
-  work also requires the application of well-developed written and analytical skills
-  in subjects related to planning and permit processing. Issues are often highly sensitive
-  and require direct contact with residents, elected officials, and other community
-  stakeholders. This position is the first point of contact for inquiries regarding
-  the Normandy Park Municipal Code for building, land use, and environmental regulations,
-  and submittal requirements for permit applications.
-original_markdown_body: This position is responsible for professional-level urban
-  planning and assistance with a variety of tasks in day-to-day operations of the
-  Community Development Department. Work involves activities in support of major planning
-  projects, such as preparation of the Comprehensive Plan, general long-range planning
-  issues, current planning, permit processing, and assisting with SEPA administration.
-  The work also requires the application of well-developed written and analytical
-  skills in subjects related to planning and permit processing. Issues are often highly
-  sensitive and require direct contact with residents, elected officials, and other
-  community stakeholders. This position is the first point of contact for inquiries
-  regarding the Normandy Park Municipal Code for building, land use, and environmental
-  regulations, and submittal requirements for permit applications.
 published: false
 source: City of Normandy Park
 source_url: https://normandyparkwa.gov/human-resources/assistant-planner-permit-technician/

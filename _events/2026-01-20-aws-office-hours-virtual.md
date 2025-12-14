@@ -1,10 +1,6 @@
 ---
 end_date: '2026-01-20T12:00:00-08:00'
-images: []
-location: ''
-locations:
-- King County
-original_content: '<!DOCTYPE html> <html xmlns:fb="http://ogp.me/ns/fb#"> <head prefix="og:
+feed_content: '<!DOCTYPE html> <html xmlns:fb="http://ogp.me/ns/fb#"> <head prefix="og:
   http://ogp.me/ns# fb: http://ogp.me/ns/fb# zoomvideocall: http://ogp.me/ns/fb/zoomvideocall#">
   <meta charset="utf-8"> <meta name="referrer" content="origin-when-cross-origin">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,Chrome=1"> <meta name="viewport"
@@ -53,7 +49,10 @@ original_content: '<!DOCTYPE html> <html xmlns:fb="http://ogp.me/ns/fb#"> <head 
   ''https://st1.zoom.us/static/6.3.47619/image/webclient/chromium-edge.png'' } };
   </script> <script nomodule nonce="AmDG3jj5QxuqXrh7VPQEVw" src="https://st1.zoom.us/static/6.3.47619/js/app/meeting/launch-ie-compatibility.min.js"></script>
   </body> </html>'
-original_markdown_body: ''
+images: []
+location: ''
+locations:
+- King County
 published: false
 source: University of Washington
 source_url: https://washington.zoom.us/j/95052911044

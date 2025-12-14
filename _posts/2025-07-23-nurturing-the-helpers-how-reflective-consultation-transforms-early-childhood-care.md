@@ -2,10 +2,7 @@
 date: '2025-07-23T19:32:07+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: |-
+feed_content: |-
   ![](https://encompassnw.org/wp-content/uploads/2025/07/Nurturing-Helpers-1024x537.png)When we think about mental health support, we often focus on direct services to children and families. But what happens when the professionals caring for our youngest and most vulnerable need support themselves? This is where Reflective Consultation becomes a game-changer in early childhood systems. Over the last 7 years, Encompass has built a robust support system throughout Snoqualmie Valley for these important professionals.
 
   ### **What Is Reflective Consultation?**
@@ -47,6 +44,9 @@ original_content: |-
   [Reflective Consultation Meeting for Early Learning Professionals](https://www.eventbrite.com/e/1355353501809?aff=oddtdtcreator)
 
   The post [Nurturing the Helpers: How Reflective Consultation Transforms Early Childhood Care](https://encompassnw.org/nurturing-the-helpers-how-reflective-consultation-transforms-early-childhood-care/) first appeared on [Encompass](https://encompassnw.org).
+images: []
+locations:
+- King County
 source: Encompass
 source_url: https://encompassnw.org/nurturing-the-helpers-how-reflective-consultation-transforms-early-childhood-care/
 summarized: true

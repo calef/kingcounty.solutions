@@ -2,10 +2,7 @@
 date: '2025-09-18T21:48:08+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: |-
+feed_content: |-
   By ELAP intern Annika Hauer
 
   When Judge Catherine Shaffer retired after 23 years as a King County Superior Court judge, she wasn’t planning to take on other work. However, when the current presidential administration took office, she said, “I started looking into getting involved as a volunteer attorney.”
@@ -29,6 +26,9 @@ original_content: |-
   “ELAP screens cases carefully,” Shaffer said. “The folks that they need attorneys for are incredibly deserving of legal help. It’s not that huge a commitment of time to do the work, and it’s very effective in terms of helping someone who really needs and deserves help.”
 
   The post [From the bench to the community](https://elap.org/from-the-bench-to-the-community/) appeared first on [Eastside Legal Assistance Program](https://elap.org).
+images: []
+locations:
+- King County
 source: Eastside Legal Assistance Program
 source_url: https://elap.org/from-the-bench-to-the-community/?utm_source=rss&utm_medium=rss&utm_campaign=from-the-bench-to-the-community
 summarized: true

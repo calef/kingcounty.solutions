@@ -2,10 +2,7 @@
 date: '2025-12-13T19:30:00+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <h2>Expert guidance for your caregiving journey</h2>
 
 
@@ -89,38 +86,10 @@ original_content: |-
 
 
   <p>No matter where you are in your caregiving journey, you don’t have to face legal and financial planning questions alone. We’re here to help you feel confident, supported and prepared so you can focus on what matters most—caring for your Veteran. Visit <a>Legal and Financial Planning Page</a> to get started, <a>Find Your CSP Team online</a> or call the 24/7 Support Line at 1-833-422-7382 anytime.</p>
-original_content_checksum: bfbbed734419f6ba4e70ea08337d61136f220925
-original_markdown_body: |-
-  ## Expert guidance for your caregiving journey
-
-  Caregiving can often be met with tricky legal and financial questions. This is why the Program of Comprehensive Assistance for Family Caregivers (PCAFC) includes legal and financial planning services to support the unique needs of injured Veterans and their primary family caregivers.
-
-  Think of it as having a knowledgeable friend in your corner—one who understands what you’re going through and can point you toward the right answers.
-
-  Caregivers are often appreciative of the knowledgeable legal and financial planning concierges who answer their questions and guide them to the resources they need.
-
-  ## Services available
-
-  - One on one support from a certified concierge.
-  - Personalized legal and financial planning guidance.
-  - Referrals to trusted attorneys.
-  - Educational tools tailored to you.
-  - 24/7 website and phone support.
-
-  You may benefit if you:
-
-  - Aren’t sure where to start with legal or financial planning concerns.
-  - Want help managing your finances.
-  - Need guidance finding the right legal resources.
-
-  ## How it works
-
-  1. Connect with a concierge.
-  2. Receive personal support and answers.
-  3. Utilize resources as needed.
-  4. Covered services at no cost to you. Covered Legal and Financial Planning Services.
-
-  No matter where you are in your caregiving journey, you don’t have to face legal and financial planning questions alone. We’re here to help you feel confident, supported and prepared so you can focus on what matters most—caring for your Veteran. Visit Legal and Financial Planning Page to get started, Find Your CSP Team online or call the 24/7 Support Line at 1-833-422-7382 anytime.
+feed_content_checksum: bfbbed734419f6ba4e70ea08337d61136f220925
+images: []
+locations:
+- King County
 rss_guid: https://news.va.gov/?p=143881
 source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143881/legal-financial-planning-assistance-caregivers/

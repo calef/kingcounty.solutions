@@ -1,13 +1,9 @@
 ---
 end_date: '2026-03-14T13:00:00-07:00'
-images: []
-location: ''
-locations:
-- King County
-original_content: "<div><div><span>Did you know we offer virtual office hours every
-  weekday? Click <a>VIRTUAL OFFICE HOURS</a> Mon-Fri, 11AM-1PM or call 253-205-0468
-  and enter Meeting ID: 889-8706-3870. We look forward to helping you!</span></div></div>
-  <div> <div> <header> <div> <div> <div> <div> <div> <a>Donate</a> </div> </div> </div>
+feed_content: "<div><div><span>Did you know we offer virtual office hours every weekday?
+  Click <a>VIRTUAL OFFICE HOURS</a> Mon-Fri, 11AM-1PM or call 253-205-0468 and enter
+  Meeting ID: 889-8706-3870. We look forward to helping you!</span></div></div> <div>
+  <div> <header> <div> <div> <div> <div> <div> <a>Donate</a> </div> </div> </div>
   </div> <div> <div> <div> <div> <a>Donate</a> </div> </div> <div> <div> <a>Contact</a>
   </div> </div> </div> </div> </div> </header> <div> <div> <div> <div> <div> <article>
   <div> <section> <div> <p> <a> « All Events</a> </p> <div> <span> Event Series: </span>
@@ -52,35 +48,11 @@ original_content: "<div><div><span>Did you know we offer virtual office hours ev
   <li><a>Русский</a></li> </ul></aside> <aside><label><span>English</span></label><ul>
   <li><a>Tiếng Việt</a></li> <li><a>Soomaaliga</a></li> <li><a>Español (América Latina)</a></li>
   <li><a>Русский</a></li> </ul></aside>"
-original_content_checksum: 073a987a5f907bbb91fb255305227b6606b2da77
-original_markdown_body: 'Did you know we offer virtual office hours every weekday?
-  Click VIRTUAL OFFICE HOURS Mon-Fri, 11AM-1PM or call 253-205-0468 and enter Meeting
-  ID: 889-8706-3870. We look forward to helping you!         Donate         Donate     Contact                  «
-  All Events    Event Series:    KC CONNECT: Online Workshop    KC CONNECT: 2nd Saturdays
-  Online Workshop   March 14, 2026 @ 11:00 am - 1:00 pm     Join us for a KC CONNECT
-  Online Workshop! These free, youth-centered sessions are open to young people and
-  their families across King County. Each month, we explore a different real-life
-  topic related to conflict, communication, and justice all in a welcoming virtual
-  space. Workshops take place on the 2nd Saturday of each month from 11am to 1pm online.
-  No prep needed- just bring yourself, your voice, and an open mind! Topics are grouped
-  into three modules: Module 1: Foundations of Conflict Resolution   October 11th,
-  2025: Intro to Conflict – Understanding the Roots  November 8th, 2025: Communication
-  that Builds Trust  December 13th, 2025: Emotion in Conflict  January 10th, 2026: Power,
-  Privilege, and Identity in Conflict  Module 2: Skill Building   February 14th, 2026: Facing
-  the Conflict  March 14th, 2026: Restorative Response to Harm  April 14th, 2026: Family
-  Repair Circles  May 9th, 2026: Digital Conflict & Social Media Drama  Module 3:
-  Critical Awareness and Cultural Power   June 13th, 2026: Conflict as a Tool for
-  Change  July 18th, 2026: Youth Circles for Change  August 8th, 2026: Taking Back
-  Power    To learn more: Youth & School Conflicts – Dispute Resolution Center of
-  King County To RSVP: Select a Date & Time – Calendly         Google Calendar     iCalendar     Outlook
-  365     Outlook Live           Details    Date:   March 14, 2026     Time:   11:00
-  am - 1:00 pm    Series:    KC CONNECT: Online Workshop    Event Categories: Workshop,
-  Youth Development   Website:  https://calendly.com/kcdrc-youth-development/2nd-saturdays-with-kc-connect?month=2025-10      Organizer   KCDRC      Related
-  Events    H.O.M.E.S Workshop December 20 @ 11:00 am - 2:00 pm     KC CONNECT: 2nd
-  Saturdays Online Workshop January 10, 2026 @ 11:00 am - 1:00 pm     KC CONNECT:
-  2nd Saturdays Online Workshop February 14, 2026 @ 11:00 am - 1:00 pm                English
-  Tiếng Việt Soomaaliga Español (América Latina) Русский  English Tiếng Việt Soomaaliga
-  Español (América Latina) Русский'
+feed_content_checksum: 073a987a5f907bbb91fb255305227b6606b2da77
+images: []
+location: ''
+locations:
+- King County
 published: false
 source: Dispute Resolution Center of King County
 source_url: https://kcdrc.org/event/kc-connect-online-workshop/2026-03-14/

@@ -2,10 +2,7 @@
 date: '2025-01-12T17:29:25+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: |-
+feed_content: |-
   Gov.-elect Ferguson announces budget priorities, including $4 billion in reduced spending
 
   Publish Date
@@ -73,6 +70,9 @@ original_content: |-
   ## Ferguson on revenue
 
   “Washingtonians expect that we will increase revenue as a last resort,” Ferguson said. “I will not start contemplating additional revenue options until we have exhausted efforts to improve efficiency.”
+images: []
+locations:
+- King County
 source: State Executive Branch
 source_url: https://governor.wa.gov/news/2025/gov-elect-ferguson-announces-budget-priorities-including-4-billion-reduced-spending
 summarized: true

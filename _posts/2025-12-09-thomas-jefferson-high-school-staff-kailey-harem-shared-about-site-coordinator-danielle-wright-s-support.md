@@ -2,17 +2,13 @@
 date: '2025-12-09T07:44:09+00:00'
 events: []
 events_extracted: true
+feed_content: |-
+  <p>“We had a big ask, and everyone came through amazingly. Thank you all SO MUCH for your generosity; between the financial and physical contributions, we were able to support 25 families through our Communities in Schools! Ms. D might seem all tough, but she definitely had some big, sappy feelings this morning.<img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f600.png"> And if all the food in that one photo isn’t enough, there’s also all the food that went out to 5 ECEAP families last Thursday.” </p>
+  <p>You just read <a>Thomas Jefferson High School Staff (Kailey Harem) shared about Site Coordinator Danielle Wright’s support</a> on <a>Communities In Schools of South King County</a>.</p>
+feed_content_checksum: 8937cc18847beed2a0e7ec50f623a66a4564e202
 images: []
 locations:
 - King County
-original_content: |-
-  <p>“We had a big ask, and everyone came through amazingly. Thank you all SO MUCH for your generosity; between the financial and physical contributions, we were able to support 25 families through our Communities in Schools! Ms. D might seem all tough, but she definitely had some big, sappy feelings this morning.<img src="https://s.w.org/images/core/emoji/16.0.1/72x72/1f600.png"> And if all the food in that one photo isn’t enough, there’s also all the food that went out to 5 ECEAP families last Thursday.” </p>
-  <p>You just read <a>Thomas Jefferson High School Staff (Kailey Harem) shared about Site Coordinator Danielle Wright’s support</a> on <a>Communities In Schools of South King County</a>.</p>
-original_content_checksum: 8937cc18847beed2a0e7ec50f623a66a4564e202
-original_markdown_body: |-
-  “We had a big ask, and everyone came through amazingly. Thank you all SO MUCH for your generosity; between the financial and physical contributions, we were able to support 25 families through our Communities in Schools! Ms. D might seem all tough, but she definitely had some big, sappy feelings this morning. ![](https://s.w.org/images/core/emoji/16.0.1/72x72/1f600.png) And if all the food in that one photo isn’t enough, there’s also all the food that went out to 5 ECEAP families last Thursday.”&nbsp;
-
-  You just read Thomas Jefferson High School Staff (Kailey Harem) shared about Site Coordinator Danielle Wright’s support on Communities In Schools of South King County.
 source: Communities In Schools of South King County
 source_url: https://skc.ciswa.org/news/thomas-jefferson-high-school-staff-kailey-harem-shared-about-site-coordinator-danielle-wrights-support/
 summarized: true

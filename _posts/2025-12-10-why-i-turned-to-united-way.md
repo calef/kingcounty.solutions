@@ -1,15 +1,11 @@
 ---
 date: '2025-12-10T17:17:37+00:00'
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   <p>Renton Technical College student Abdullah Alizada grew up in Afghanistan, watching Hollywood movies and dreaming of coming to America. That dream got fast-tracked while enrolled as a college student and working as an activist in Afghanistan, he recalled, “It was hard for me to stay.” Ultimately, Alizada made it to Western Washington and, with the help of friends, enrolled at Renton Technical…</p>
   <p><a>Source</a></p>
-original_content_checksum: b0e63b3a45ee2888861a1b02afea6bd1ac9703e0
-original_markdown_body: |-
-  Renton Technical College student Abdullah Alizada grew up in Afghanistan, watching Hollywood movies and dreaming of coming to America. That dream got fast-tracked while enrolled as a college student and working as an activist in Afghanistan, he recalled, “It was hard for me to stay.” Ultimately, Alizada made it to Western Washington and, with the help of friends, enrolled at Renton Technical…
-
-  Source
+feed_content_checksum: b0e63b3a45ee2888861a1b02afea6bd1ac9703e0
+images: []
+locations: []
 published: false
 source: United Way of King County
 source_url: https://www.uwkc.org/access-to-resources/why-i-turned-to-united-way/

@@ -2,12 +2,7 @@
 date: '2025-12-10T19:45:27+00:00'
 events: []
 events_extracted: true
-images:
-- 4d89cb5684e2436c8296f58e52352211a7511e5d83116565095acc16c0a59326
-- b7da5b7b1e746b71fc95c4fa06b91cc0f4e7fa94b6a71fd1286b3989152b2839
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <div><figure><img src="https://www.brightspark.org/wp-content/uploads/2025/11/Fund-Dev-Newsletter-Banners-5.png"></figure></div>
 
 
@@ -97,38 +92,12 @@ original_content: |-
 
   <p></p>
   <p>The post <a>Many Ways to Give This Season! Find What Works for You!</a> appeared first on <a>BrightSpark</a>.</p>
-original_content_checksum: d1f7cb26038c8a0fc337645378109c35daefcd8e
-original_markdown_body: "![](https://www.brightspark.org/wp-content/uploads/2025/11/Fund-Dev-Newsletter-Banners-5.png)\n\n###
-  **Many Ways to Give This Season! Find What Works for You**\n\n| As we move into
-  the final weeks of the year, we’re reminded once again how much your support makes
-  possible. Every gift, whether it’s time, resources, or advocacy, helps ensure children,
-  families, and child care providers have what they need to thrive. This week, we’re
-  highlighting the many ways you can contribute to BrightSpark’s mission before the
-  year ends. We know that each family and supporter gives in the way that works best
-  for them, and we are grateful for every form of generosity. |\n\nDonate Today on
-  Giving Tuesday!\n\n### **Ways to Give Before December 31st**\n\n| **Make a one-time
-  gift:**  \nA single contribution at year-end strengthens our ability to respond
-  to the most pressing challenges facing early learning right now, from program funding
-  gaps to provider shortages.  \n  \n**Become a recurring donor:**  \nMonthly giving
-  provides dependable support all year long. These steady contributions help us sustain
-  community programs, advocate for equitable access, and show up consistently for
-  families.  \n  \n_You can also check here to see if your company offers payroll
-  donations or a matching gift__,_&nbsp;which can stretch your impact even further!
-  \ \n  \n**Give a gift of stock:**  \nIf this year has been financially strong for
-  you, a stock donation may be a meaningful way to deepen your impact. Gifts of appreciated
-  stock can offer potential tax advantages and allow you to contribute to the work
-  you care about while receiving a charitable acknowledgement for this tax year. |\n\n![](https://www.brightspark.org/wp-content/uploads/2025/12/EOY-Quotes-1-1024x576.jpg)\n\nNo
-  matter how you choose to give, your generosity helps build the kind of child-centered,
-  antiracist early learning communities that all children deserve. Together, we’re
-  creating a brighter, more equitable future for families across our region.  \n&nbsp;
-  \ \n**Thank you for being part of this work and for lifting up our community in
-  the ways that feel right for you.**  \n&nbsp;  \nWith gratitude,  \n**The BrightSpark
-  Team**\n\nBrightSpark accepts donations in many forms: cash, credit cards, fund
-  transfers, checks, money orders, stocks, bonds, mutual funds, donor-advised funds,
-  and more! If you have any questions or would like more information on ways to give,
-  please get in touch with our fund development department at&nbsp;getinvolved@childcare.org.\n\n![](https://www.brightspark.org/wp-content/uploads/2025/10/Thank-you-to-our-sponsors-Blog-Banner-2-1024x576.png)\n\nMake
-  A Donation Today!\n\n_All photos on this email are credited to ©LisaBontjePhotography_\n\nThe
-  post Many Ways to Give This Season! Find What Works for You! appeared first on BrightSpark."
+feed_content_checksum: d1f7cb26038c8a0fc337645378109c35daefcd8e
+images:
+- 4d89cb5684e2436c8296f58e52352211a7511e5d83116565095acc16c0a59326
+- b7da5b7b1e746b71fc95c4fa06b91cc0f4e7fa94b6a71fd1286b3989152b2839
+locations:
+- King County
 source: BrightSpark
 source_url: https://www.brightspark.org/2025/12/many-ways-to-give-this-season-find-what-works-for-you/
 summarized: true

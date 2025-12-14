@@ -2,11 +2,7 @@
 date: '2025-10-10T22:37:16+00:00'
 events: []
 events_extracted: true
-images:
-- 418dcd99cbbb28502ade967ed693d63ea82a542575b304600572819766bdad2c
-locations:
-- King County
-original_content: "<div class=\"et_pb_section et_pb_section_5 blog-post-type et_section_regular\"
+feed_content: "<div class=\"et_pb_section et_pb_section_5 blog-post-type et_section_regular\"
   >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_row
   et_pb_row_18\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4 et_pb_column_26
   \ et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div
@@ -86,40 +82,10 @@ original_content: "<div class=\"et_pb_section et_pb_section_5 blog-post-type et_
   post <a href=\"https://lcsnw.org/2025/10/lcsnw-staff-embedded-in-seattle-schools/\">LCSNW
   staff embedded in Seattle schools to support youth mental health</a> appeared first
   on <a href=\"https://lcsnw.org\">LCSNW</a>.</p>"
-original_markdown_body: |-
-  # LCSNW staff embedded in Seattle schools to support youth mental health
-
-  By Teri McKeown, Greater Puget Sound Communications Specialist&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-
-  Youth across the U.S. continue to face a mental health crisis, struggling to access care while navigating ongoing challenges brought on by the COVID pandemic. In King County, student advocacy helped spark an exciting new investment: City of Seattle funding that nearly doubled the number of school-based mental health therapists.&nbsp;
-
-  It also added 21 Behavioral Health Coordinators (BHCs) through community partners, including Lutheran Community Services Northwest.&nbsp;
-
-  Although school-based programming is new to LCSNW’s Greater Puget Sound District (GPS), the agency has had school-based mental health teams in other districts, including Tri-Cities, Washington and Yamhill, Oregon, for many years.&nbsp;
-
-  In Seattle, the innovative school-based programming launched this fall. LCSNW is one of three agencies contracted by King County to carry out the work during the 2025–26 school year, with eight of the BHCs placed in Seattle middle and high schools.&nbsp;
-
-  Dr. Jake Bentley, LCSNW GPS Clinical Manager and Supervisor of the program, oversees the eight coordinators. He describes the initiative as a “capacity-building project” that reflects local and national concerns, “Recognizing the growing mental health needs of youth, King County—and Seattle in particular—are representative of what’s happening nationwide.”&nbsp;
-
-  BHCs are embedded in schools all day, every day. They build trust with students, collaborate with teachers and social workers, and serve as a critical bridge between young people and the resources they need. Their role is focused on prevention, early detection, education, and connection to services. Each coordinator is trained to work independently, while also supported by Jake and the LCSNW team.&nbsp;
-
-  Many students face serious challenges such as anxiety, depression, substance abuse, and housing instability. By being consistently present, BHCs help students and their families navigate complex systems and access vital community-based resources.&nbsp;
-
-  BHCs also make referrals to other GPS programs, including Wraparound with Intensive Services (WISe) and housing services, ensuring a more holistic approach to care.&nbsp;
-
-  The program is both exciting and complex. Some schools already have health centers that offer counseling, reproductive health care, and basic medical services. Coordinators must navigate this busy landscape, working alongside principals, teachers, social workers, and families. &nbsp;
-
-  At its heart, the work is about building trust and relationships to help students thrive.&nbsp;
-
-  “This program is a great reflection of what we do at LCSNW—meeting communities where they are, filling gaps, and resourcing underserved populations in innovative ways,” Jake said.
-
-  “We don’t always have to rely on credentialed psychologists or social workers. We can empower people who are well-positioned to support communities and carry out this work in real-world settings.”&nbsp;
-
-  &nbsp;[Click here](https://kingcountyschoolhealthdotcom.wordpress.com/2025/03/20/mental-health-services-expand-at-seattle-school-based-health-centers/) for more information about school-based programming in Seattle Public Schools.
-
-   ![Two youth picking out school supplies at the free event](https://lcsnw.org/wp-content/uploads/2025/10/iStock-826212368-scaled.jpg "iStock-826212368")
-
-  The post [LCSNW staff embedded in Seattle schools to support youth mental health](https://lcsnw.org/2025/10/lcsnw-staff-embedded-in-seattle-schools/) appeared first on [LCSNW](https://lcsnw.org).
+images:
+- 418dcd99cbbb28502ade967ed693d63ea82a542575b304600572819766bdad2c
+locations:
+- King County
 source: Lutheran Community Services Northwest
 source_url: https://lcsnw.org/2025/10/lcsnw-staff-embedded-in-seattle-schools/
 summarized: true

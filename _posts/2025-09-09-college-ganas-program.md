@@ -2,12 +2,7 @@
 date: '2025-09-09T21:04:58+00:00'
 events: []
 events_extracted: true
-images:
-- 01a2b18d1828e9e744151ac028d8dbf1628b20a7d9b72599b20bc05acebe2c13
-- 9b94f1b278d7a91a6e0ba84e2fe6c64d86cb3232c51e03b5b8441762ec6f8b43
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <div class="wp-block-cover alignfull is-light"><img loading="lazy" decoding="async" width="800" height="600" data-attachment-id="21163" data-permalink="https://www.elcentrodelaraza.org/college-ganas-program/2e0358be-6833-4c04-b788-b04e6e760819/" data-orig-file="https://www.elcentrodelaraza.org/wp-content/uploads/2025/09/2e0358be-6833-4c04-b788-b04e6e760819.jpg" data-orig-size="800,600" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="2e0358be-6833-4c04-b788-b04e6e760819" data-image-description="" data-image-caption="" data-medium-file="https://www.elcentrodelaraza.org/wp-content/uploads/2025/09/2e0358be-6833-4c04-b788-b04e6e760819-467x350.jpg" data-large-file="https://www.elcentrodelaraza.org/wp-content/uploads/2025/09/2e0358be-6833-4c04-b788-b04e6e760819.jpg" class="wp-block-cover__image-background wp-image-21163 size-full" alt="" src="https://www.elcentrodelaraza.org/wp-content/uploads/2025/09/2e0358be-6833-4c04-b788-b04e6e760819.jpg" data-object-fit="cover" srcset="https://www.elcentrodelaraza.org/wp-content/uploads/2025/09/2e0358be-6833-4c04-b788-b04e6e760819.jpg 800w, https://www.elcentrodelaraza.org/wp-content/uploads/2025/09/2e0358be-6833-4c04-b788-b04e6e760819-467x350.jpg 467w, https://www.elcentrodelaraza.org/wp-content/uploads/2025/09/2e0358be-6833-4c04-b788-b04e6e760819-160x120.jpg 160w, https://www.elcentrodelaraza.org/wp-content/uploads/2025/09/2e0358be-6833-4c04-b788-b04e6e760819-768x576.jpg 768w" sizes="auto, (max-width: 800px) 100vw, 800px" /><span aria-hidden="true" class="wp-block-cover__background has-background-dim-30 has-background-dim" style="background-color:#80757a"></span><div class="wp-block-cover__inner-container is-layout-flow wp-block-cover-is-layout-flow">
   <div class="wp-block-group alignwide"><div class="wp-block-group__inner-container is-layout-constrained wp-block-group-is-layout-constrained">
   <h1 class="wp-block-heading has-text-align-center has-white-off-color has-text-color" style="text-transform:uppercase">College Ganas Program</h1>
@@ -160,40 +155,11 @@ original_content: |-
   </div>
   </div>
   <p>The post <a href="https://www.elcentrodelaraza.org/college-ganas-program/">College GANAS Program</a> appeared first on <a href="https://www.elcentrodelaraza.org">El Centro de la Raza</a>.</p>
-original_markdown_body: "![](https://www.elcentrodelaraza.org/wp-content/uploads/2025/09/2e0358be-6833-4c04-b788-b04e6e760819.jpg)\n\n#
-  College Ganas Program\n\nEmpowering and fostering ganas in youth on their pursuit
-  of higher education.\n\n[Sign Up Now](https://forms.office.com/pages/responsepage.aspx?id=3WlTYBb4pUWsg3KRI3DSAg09nZilj29NqpSTaB-05ShUQjFIMjlWVzRCV0c5ODZBRks4OTg3Rk9KOC4u)\n\nEmpowering
-  and fostering ganas in youth on their pursuit of higher education. Our overall goal
-  is to increase access to higher education. Our program highlights the cultural aspect
-  of “GANAS” in the Latino community, which can be translated as the desire to advance,
-  to accomplish their dreams. Thus, through our program, our advisors will support
-  our scholars to turn their GANAS into reality.&nbsp;&nbsp;\n\nOur advisors provide
-  workshops at the schools focused on college readiness and career planning grounded
-  in community and ethnic studies. In addition to our workshops, we also provide field
-  trip opportunities to different colleges in the area, scholarship application and
-  financial aid support. We acknowledge the importance of scholars envisioning themselves
-  on campus and the value of individualized mentorship.&nbsp;\n\nWhile our focus is
-  to support our youth, we also provide workshops for caregivers to support the development
-  of generational knowledge. We understand that many of our students and families
-  face a variety of barriers, making it difficult to always attend our large gatherings.
-  Therefore, we provide 1;1 support for youth and their families to receive the support
-  they need.&nbsp;&nbsp;\n\n![](https://www.elcentrodelaraza.org/wp-content/uploads/2025/09/8c4c8fc2-6981-40c2-8699-e30e2a170e87.jpg)\n\n##
-  Eligibility Requirement\n\n- High School students enrolled at Seattle Public Schools
-  or Auburn School District&nbsp;&nbsp;\n- If you are based out of Seattle, feel free&nbsp;to
-  contact Leslie Jacobo\n- If you are based out of Auburn, feel free to contact Isabel
-  Corona-Campiz\n\n## Program Managers\n\n### Leslie Jacobo\n\n(617) 798-1057  \n[ljacobo@elcentrodelaraza.org](mailto:ljacobo@elcentrodelaraza.org)\n\n###
-  ISABEL corona-campiz\n\n(206) 222-8426  \n[iccampiz@elcentrodelaraza.org](mailto:iccampiz@elcentrodelaraza.org)\n\nIt’s
-  simple to get started with College GANAS!\n\n[Sign Up Now](https://forms.office.com/pages/responsepage.aspx?id=3WlTYBb4pUWsg3KRI3DSAg09nZilj29NqpSTaB-05ShUQjFIMjlWVzRCV0c5ODZBRks4OTg3Rk9KOC4u)\n\n##
-  Frequently Asked Questions\n\n### Cost for the program?\n\nThis program is free
-  for all youth and families.&nbsp;&nbsp;\n\n### When should I start applying to college?\n\nSenior
-  year is when you should officially start applying. College application dates may
-  vary.\n\n### When should I start planning for college?&nbsp;&nbsp;\n\nYou can submit
-  your application during your senior year. However, it is never too early to start
-  thinking about it.&nbsp;\n\n### How can I pay for college?\n\nCollege can be paid
-  for using a combination of FAFSA/WASFA, scholarships, Work Study award, grants and
-  loans depending on what you are eligible for. &nbsp;\n\n## Stay In Touch\n\nThe
-  post [College GANAS Program](https://www.elcentrodelaraza.org/college-ganas-program/)
-  appeared first on [El Centro de la Raza](https://www.elcentrodelaraza.org)."
+images:
+- 01a2b18d1828e9e744151ac028d8dbf1628b20a7d9b72599b20bc05acebe2c13
+- 9b94f1b278d7a91a6e0ba84e2fe6c64d86cb3232c51e03b5b8441762ec6f8b43
+locations:
+- King County
 source: El Centro de la Raza
 source_url: https://www.elcentrodelaraza.org/college-ganas-program/?utm_source=rss&utm_medium=rss&utm_campaign=college-ganas-program
 summarized: true

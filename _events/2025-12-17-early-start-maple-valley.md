@@ -1,10 +1,6 @@
 ---
 end_date: '2025-12-17T11:00:00-08:00'
-images: []
-location: Maple Valley, Maplevalley, WA, United States
-locations:
-- King County
-original_content: <div class="site" id="page"> <div id="wrapper-topbar" class="bg-transparent
+feed_content: <div class="site" id="page"> <div id="wrapper-topbar" class="bg-transparent
   text-light"> <div class="container-fluid"> <div class="row"> <div id="topbar-content"
   class="col-12"> <div class="navTop"> <div class="wp-block-columns is-layout-flex
   wp-container-core-columns-is-layout-9d6595d7 wp-block-columns-is-layout-flex"> <div
@@ -58,11 +54,10 @@ original_content: <div class="site" id="page"> <div id="wrapper-topbar" class="b
   <abbr class="tribe-region tribe-events-abbr" title="Washington">WA</abbr> <span
   class="tribe-country-name">United States</span> </span> </address> </li> </ul> </div>
   </div> </div> </div> </section> </div>
-original_markdown_body: 'Login Volunteer DONATE          Skip to content      « All
-  Events  EARLY START Maple Valley   December 17 @ 10:00 am - 11:00 am           Google
-  Calendar     iCalendar     Outlook 365     Outlook Live           Details    Date:   December
-  17     Time:   10:00 am - 11:00 am        Venue    Maple Valley     Maplevalley,
-  WA United States'
+images: []
+location: Maple Valley, Maplevalley, WA, United States
+locations:
+- King County
 published: false
 source: Indian American Community Services
 source_url: https://iacswa.org/event/early-start-maple-valley-100/

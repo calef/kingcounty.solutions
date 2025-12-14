@@ -1,11 +1,6 @@
 ---
 end_date: '2025-12-17T19:30:00-08:00'
-images: []
-location: Tukwila Community Center, 12424 42nd Avenue South , Tukwila, WA, 98168,
-  United States
-locations:
-- King County
-original_content: '<section class="page-layout interior-layout"> <div class="main-content-area
+feed_content: '<section class="page-layout interior-layout"> <div class="main-content-area
   events-template"> <div class="container"> <div id="tribe-events-pg-template" class="tribe-events-pg-template">
   <section id="tribe-events-pg-template" class="tribe-events-pg-template"> <div id="tribe-events-content"
   class="tribe-events-single"> <h1 class="tribe-events-single-event-title">Arts Commission
@@ -83,21 +78,11 @@ original_content: '<section class="page-layout interior-layout"> <div class="mai
   <span class="tribe-event-date-start">December 8 @ 5:30 pm</span> - <span class="tribe-event-time">6:45
   pm</span> </div> </li> </ul> </div> <p class="tribe-events-back"> <a href="https://www.tukwilawa.gov/events/"
   class="btn"> Back to events</a> </p> </div> </section> </div> </div> </div> </section>'
-original_markdown_body: 'Arts Commission – Cancelled   December 17 @ 6:00 pm - 7:30
-  pm     Advises City officials on arts matters, encourages citizen participation
-  in the arts, promote art projects. Advises the Mayor on expenditure of arts-related
-  budget appropriations.  Arts Commission meets on the 3rd Wednesday of each month
-  starting May 15, 2024. For more information, contact Michael May at Michael.May@TukwilaWA.gov.
-  See link for agendas and minutes:     http://records.tukwilawa.gov/WebLink8/1/fol/173956/Row1.aspx
-    SIGN UP TO RECEIVE LINKS TO COUNCIL, COMMITTEE, BOARD & COMMISSION PACKETS ON
-  FRIDAYS:   https://www.tukwilawa.gov/departments/city-clerks-office/         Google
-  Calendar     iCalendar     Outlook 365     Outlook Live           Details    Date:   December
-  17     Time:   6:00 pm - 7:30 pm     Event Categories: Meeting, Volunteer Opportunity      Venue    Tukwila
-  Community Center     12424 42nd Avenue South  Tukwila, WA 98168 United States  +
-  Google Map    Phone  206-768-2822       Related Events    Give Blood to Save 3 Lives
-  December 7 @ 8:00 am - 5:00 pm     Planning & Community Development Committee December
-  8 @ 5:30 pm - 6:45 pm     Community Services & Safety Committee December 8 @ 5:30
-  pm - 6:45 pm       Back to events'
+images: []
+location: Tukwila Community Center, 12424 42nd Avenue South , Tukwila, WA, 98168,
+  United States
+locations:
+- King County
 published: false
 source: City of Tukwila
 source_url: https://www.tukwilawa.gov/event/arts-commission-cancelled-3/

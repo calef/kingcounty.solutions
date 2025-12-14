@@ -1,17 +1,13 @@
 ---
 date: '2025-12-11T17:56:26+00:00'
+feed_content: Join Seattle Parks and Recreation as we come together to honor the enduring
+  life and legacy of Dr. Martin Luther King Jr. This special day of reflection, unity,
+  and community action will be highlighted by a youth-led march and celebration, guided
+  by th...
+feed_content_checksum: a2519006105ae56f5e9e7bdc1c9ee80fb35f87f0
 images: []
 locations:
 - King County
-original_content: Join Seattle Parks and Recreation as we come together to honor the
-  enduring life and legacy of Dr. Martin Luther King Jr. This special day of reflection,
-  unity, and community action will be highlighted by a youth-led march and celebration,
-  guided by th...
-original_content_checksum: a2519006105ae56f5e9e7bdc1c9ee80fb35f87f0
-original_markdown_body: Join Seattle Parks and Recreation as we come together to honor
-  the enduring life and legacy of Dr. Martin Luther King Jr. This special day of reflection,
-  unity, and community action will be highlighted by a youth-led march and celebration,
-  guided by th...
 published: false
 rss_guid: https://parkways.seattle.gov/?p=17034
 source: City of Seattle

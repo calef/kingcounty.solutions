@@ -1,10 +1,6 @@
 ---
 end_date: '2026-01-30T15:00:00-08:00'
-images: []
-location: Gowen Hall (GWN)
-locations:
-- King County
-original_content: '<a id="main-content" href="#main_content" class="screen-reader-shortcut">Skip
+feed_content: '<a id="main-content" href="#main_content" class="screen-reader-shortcut">Skip
   to main content</a> <div id="uw-container"> <div id="uw-container-inner"> <header
   class="uw-thinstrip" role="banner"> <div class="container"> <a href="http://uw.edu"
   title="University of Washington Home" class="uw-patch">University of Washington</a>
@@ -45,24 +41,10 @@ original_content: '<a id="main-content" href="#main_content" class="screen-reade
   class="ab-item ab-empty-item" tabindex="-1" role="menuitem"><form action="https://sites.uw.edu/uwisc/"
   method="get" id="adminbarsearch"> <label for="adminbar-search" class="screen-reader-text">Search</label>
   </form></div></li> </ul> </div> </div>'
-original_markdown_body: 'Skip to main content     University of Washington University
-  of Washington      UW International Security Colloquium  Current Seminars  October
-  24, 2025 Jessica Weeks, Professor and H. Douglas Weaver Chair in Diplomacy and International
-  Relations, University of Wisconsin—Madison  “TBD”  Location: The Olson Room, Gowen
-  Hall 1A, 1:30-3:00pm  November 14, 2025 Ryan Reynolds, PhD student, University of
-  Washington “Structurally Induced Anxiety and Anti-War Voting: Military Social Networks
-  and Presidential Elections” Location: Smith 40A, Smith Hall, 1:30-3:00pm January
-  30, 2026 Candela Arias Perez, PhD student, University of Washington “Debating Regularization:
-  Media Frames of Immigration Policy in Spain” Location: The Olson Room, Gowen Hall
-  1A, 1:30-3:00pm March 6, 2026 Jessica Stanton, Associate Professor of Political
-  Science, Temple University “TBD” Location: The Olson Room, Gowen Hall 1A, 1:30-3:00pm
-  April 10, 2026 Ji Hyeon Chung, PhD student, University of Washington “Carrots and
-  Sticks: Variation In Emotional Valence in International Human Rights Monitoring”
-  Location: Smith 40A, Smith Hall, 1:30-3:00pm May 15, 2026 Daniel Krcmaric, Associate
-  Professor of Political Science and Law, Northwestern University “Above the Law:
-  The United States and the International Criminal Court” Location: The Olson Room,
-  Gowen Hall 1A, 1:30-3:00pm      University of Washington Be boundless Connect with
-  us: © 2025 University of Washington | Seattle, WA     Skip to toolbar   Log In  Search'
+images: []
+location: Gowen Hall (GWN)
+locations:
+- King County
 published: false
 source: University of Washington
 source_url: https://sites.uw.edu/uwisc/current-seminars/

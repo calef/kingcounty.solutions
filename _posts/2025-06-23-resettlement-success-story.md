@@ -2,13 +2,11 @@
 date: '2025-06-23T22:36:42+00:00'
 events: []
 events_extracted: true
+feed_content: One of our clients, Niloofar, resettled in Washington State with her
+  family in 2023, after eight years of displacement. Originally from...
 images: []
 locations:
 - King County
-original_content: One of our clients, Niloofar, resettled in Washington State with
-  her family in 2023, after eight years of displacement. Originally from...
-original_markdown_body: One of our clients, Niloofar, resettled in Washington State
-  with her family in 2023, after eight years of displacement. Originally from...
 source: Diocese of Olympia Refugee Resettlement Office
 source_url: https://www.dioceserroseattle.org/post/resettlement-success-story
 summarized: true

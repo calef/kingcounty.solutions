@@ -1,20 +1,16 @@
 ---
 end_date: '2025-12-30T16:30:00-08:00'
-images: []
-location: ''
-locations:
-- King County
-original_content: "<a> Skip to main content </a> <div> <div> <div> <div> <div> <div>
-  <a>University of Washington</a> </div> <div> <div> <a>Environmental &amp; Occupational
-  Health Sciences</a> <section> <div> <div> <section> <div><div> <a>School of Public
-  Health</a> </div></div> </section> </div> </div> </section> <section> <div> <form>
-  <div> <label>Search </label> </div> </form> </div> </section> </div> </div> </div>
-  </div> </div> </div> <header> <div> <div> <section> <ul> <li> <a>About DEOHS</a>
-  <ul> <li> <a> Faculty Directory</a> <ul> <li> <a>Regular Faculty</a> </li> <li>
-  <a>Affiliate Faculty</a> </li> <li> <a>Emeritus Faculty</a> </li> <li> <a>Clinical
-  Faculty</a> </li> <li> <a>Adjunct Faculty</a> </li> </ul> </li> <li> <a>Our Mission,
-  Vision &amp; Values</a> </li> <li> <a>Serving Washington State</a> </li> <li> <a>History</a>
-  </li> <li> <a>Advisory Committee</a> </li> <li> <a>DEOHS Faculty Positions and Fellowships</a>
+feed_content: "<a> Skip to main content </a> <div> <div> <div> <div> <div> <div> <a>University
+  of Washington</a> </div> <div> <div> <a>Environmental &amp; Occupational Health
+  Sciences</a> <section> <div> <div> <section> <div><div> <a>School of Public Health</a>
+  </div></div> </section> </div> </div> </section> <section> <div> <form> <div> <label>Search
+  </label> </div> </form> </div> </section> </div> </div> </div> </div> </div> </div>
+  <header> <div> <div> <section> <ul> <li> <a>About DEOHS</a> <ul> <li> <a> Faculty
+  Directory</a> <ul> <li> <a>Regular Faculty</a> </li> <li> <a>Affiliate Faculty</a>
+  </li> <li> <a>Emeritus Faculty</a> </li> <li> <a>Clinical Faculty</a> </li> <li>
+  <a>Adjunct Faculty</a> </li> </ul> </li> <li> <a>Our Mission, Vision &amp; Values</a>
+  </li> <li> <a>Serving Washington State</a> </li> <li> <a>History</a> </li> <li>
+  <a>Advisory Committee</a> </li> <li> <a>DEOHS Faculty Positions and Fellowships</a>
   </li> <li> <a>Contact Us</a> <ul> <li> <a>Directions</a> </li> </ul> </li> </ul>
   </li> <li> <a>Prospective Students</a> <ul> <li> <a>Undergraduate Program</a> <ul>
   <li> <a>Degree requirements</a> </li> <li> <a>Applying to the major</a> </li> <li>
@@ -100,71 +96,11 @@ original_content: "<a> Skip to main content </a> <div> <div> <div> <div> <div> <
   Guide - Environmental Public Health</a></div> <div><a>Yakima Valley Transfer Course
   Guide - Environmental Public Health</a></div> </div> </div> </div> </div> </div>
   </section> </div> </div> </div> </article> </div> </section> </div> </div> </div>"
-original_content_checksum: 9349ce3670d2b7ba83345d0cfe1284072d5b6190
-original_markdown_body: 'Skip to main content        University of Washington    Environmental
-  & Occupational Health Sciences      School of Public Health          Search                  About
-  DEOHS    Faculty Directory   Regular Faculty   Affiliate Faculty   Emeritus Faculty   Clinical
-  Faculty   Adjunct Faculty     Our Mission, Vision & Values   Serving Washington
-  State   History   Advisory Committee   DEOHS Faculty Positions and Fellowships   Contact
-  Us   Directions       Prospective Students   Undergraduate Program   Degree requirements   Applying
-  to the major   Transfer   Career pathways   Funded Research for UW Undergraduates   Environmental
-  Public Health Minor     Graduate Program   How to Apply   Graduate degree finder   Master
-  of Science Applied   Master of Science Thesis   Master of Public Health   PhD in
-  Environmental Health Sciences   MPH, Occupational and Environmental Medicine   Areas
-  of Emphasis   Environmental Public Health   Environmental Toxicology   Climate Change
-  and Health   Infectious Diseases   Occupational Hygiene/ Exposure Science   One
-  Health     Graduate Certificates   Concurrent Degrees     Course Information   Tuition
-  & Funding Opportunities   Biostatistics, Epidemiologic, and Bioinformatic Training
-  in Environmental Health   Environmental Pathology/Toxicology Training Program   Northwest
-  Center for Occupational Health and Safety   Supporting Undergraduate Research Experiences
-  in Environmental Health (SURE-EH)     Career Services   Internship 101   Launch
-  your career   Job Openings In the Field     Student and Alumni profiles   Contact
-  an Adviser     Research   Clean Air   Clean Water   Safe Food   Safe Workplaces   Sustainable
-  Communities   Funded Projects   Student Research     Services   Continuing Education   Field
-  Research and Consultation Group   Environmental Health Laboratory   Occupational
-  & Environmental Medicine   Pediatric Environmental Health Specialty Unit   Teratogen
-  Information System (TERIS)     Alumni and Employers   Alumni   Alumni profiles   Job
-  Openings in the Field     Employers     News and Events   Our Blog   DEOHS Newsroom   Calendar   Environmental
-  Health Seminar       Giving   Search            Transfer            Contact an adviser
-  We are happy to meet with you in person or virtually to help you transfer in Contact
-  us  We are ready to make transferring into the Department of Environmental & Occupational
-  Health Sciences a welcoming and tailor-made experience for each student. Our goal
-  is to ensure your time in the department is fulfilling, which begins with the moment
-  you explore transferring into our department.   As a transfer student, you can declare
-  the Bachelors of Science in Environmental Public Health major after you are admitted
-  to UW. Please consult the transfer admission website for more information about
-  applying. Local students should plan to attend the weekly UW Admissions Transfer
-  Thursday sessions, if possible.   Washington state community college students should
-  use the transfer guides and sample transfer plans below as planning tools only.
-  For updated courses, consult the online equivalency guide.   A UW Environmental
-  Public Health adviser can guide you through the details of the major and is a wonderful
-  resource to meet with before declaring the major. To schedule an appointment either
-  in person or over the phone, see the Contact an Adviser page.  Transfer steps:   Students
-  transferring in as juniors (6 quarters/90 credits or more) should complete the Environmental
-  Public Health major’s upper division prerequisite courses prior to enrolling at
-  UW. Transfer students can declare the major after they have been admitted to the
-  UW. Please consult the transfer admission website for more information about applying
-  to the UW. Once you’ve applied and are admitted to the UW. Submit an Environmental
-  Public Health application at https://apps.sphcm.washington.edu/envh/Apply    Sample
-  transfer plan This plan can give you an idea of what classes to take if you want
-  to transfer into DEOHS Download now  Students should apply for entry to Fall quarter.
-  See application windows here https://deohs.washington.edu/declaring-major If you
-  have any questions about declaring the Environmental Public Health major, you can
-  schedule an appointment with an adviser at https://deohs.washington.edu/prospective-and-current-student-advising
-  UW transfer resources    Check the UW Equivalency Guide to see which courses at
-  your institution will satisfy UW requirements https://admit.washington.edu/apply/transfer/equivalency-guide/  UW
-  Transfer Student Portal Website: https://transfer.uw.edu/  Local students should
-  plan to attend the weekly UW Transfer Thursday sessions: https://transfer.uw.edu/thursday/               As
-  a student transferring to the UW: I thought, this is the perfect major for me as
-  a premed student. It prepared me for medical school and gave me a bigger lens going
-  forward. -Bruk Molla, DEOHS BS graduateRead more               Transfer Guides for
-  Selected Community Colleges  South Seattle Transfer Course Guide - Environmental
-  Public Health Shoreline Transfer Course Guide - Environmental Public Health Seattle
-  Central Transfer Course Guide - Environmental Public Health North Seattle Transfer
-  Course Guide - Environmental Public Health Highline Transfer Course Guide - Environmental
-  Public Health Green River Transfer Course Guide - Environmental Public Health Bellevue
-  Transfer Course Guide - Environmental Public Health Yakima Valley Transfer Course
-  Guide - Environmental Public Health'
+feed_content_checksum: 9349ce3670d2b7ba83345d0cfe1284072d5b6190
+images: []
+location: ''
+locations:
+- King County
 published: false
 source: University of Washington
 source_url: https://deohs.washington.edu/ug/transfer

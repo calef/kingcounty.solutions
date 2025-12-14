@@ -1,25 +1,20 @@
 ---
 end_date: '2026-01-04T19:00:00-08:00'
-images: []
-location: Tukwila Community Center, 12424 42nd Avenue South , Tukwila, WA, 98168,
-  United States
-locations:
-- King County
-original_content: "<section> <div> <div> <div> <section> <div> <div> <span> Event
-  Series: </span> <a> <span> Tukwila Community Center Maintenance Closure – Dec 22
-  – Jan 4 </span> </a> </div> <h1>Tukwila Community Center Maintenance Closure – Dec
-  22 – Jan 4</h1> <div> <h2> <span>December 22, 2025 @ 8:00 am</span> - <span>January
-  4, 2026 @ 7:00 pm</span> </h2> </div> <div> <div> <div> <div> <div> <ul> <li> <a>
-  Google Calendar </a> </li> <li> <a> iCalendar </a> </li> <li> <a> Outlook 365 </a>
-  </li> <li> <a> Outlook Live </a> </li> </ul> </div> </div> </div> </div> <div> <div>
-  <h2> Details </h2> <ul> <li> <span>Start:</span> <span> <abbr> December 22 @ 8:00
-  am </abbr> </span> </li> <li> <span>End:</span> <span> <abbr> January 4, 2026 @
-  7:00 pm </abbr> </span> </li> <dt>Series: </dt> <dd> <a> Tukwila Community Center
-  Maintenance Closure – Dec 22 – Jan 4 </a> </dd> <li> <span>Event Category:</span>
-  <span><a>City Event</a></span> </li> </ul> </div> <div> <h2> Venue </h2> <ul> <li>
-  <a>Tukwila Community Center</a> </li> <li> <address> <span> <span>12424 42nd Avenue
-  South </span> <span>Tukwila</span><span>,</span> <abbr>WA</abbr> <span>98168</span>
-  <span>United States</span> </span> <a>+ Google Map</a> </address> </li> <li> <span>Phone</span>
+feed_content: "<section> <div> <div> <div> <section> <div> <div> <span> Event Series:
+  </span> <a> <span> Tukwila Community Center Maintenance Closure – Dec 22 – Jan 4
+  </span> </a> </div> <h1>Tukwila Community Center Maintenance Closure – Dec 22 –
+  Jan 4</h1> <div> <h2> <span>December 22, 2025 @ 8:00 am</span> - <span>January 4,
+  2026 @ 7:00 pm</span> </h2> </div> <div> <div> <div> <div> <div> <ul> <li> <a> Google
+  Calendar </a> </li> <li> <a> iCalendar </a> </li> <li> <a> Outlook 365 </a> </li>
+  <li> <a> Outlook Live </a> </li> </ul> </div> </div> </div> </div> <div> <div> <h2>
+  Details </h2> <ul> <li> <span>Start:</span> <span> <abbr> December 22 @ 8:00 am
+  </abbr> </span> </li> <li> <span>End:</span> <span> <abbr> January 4, 2026 @ 7:00
+  pm </abbr> </span> </li> <dt>Series: </dt> <dd> <a> Tukwila Community Center Maintenance
+  Closure – Dec 22 – Jan 4 </a> </dd> <li> <span>Event Category:</span> <span><a>City
+  Event</a></span> </li> </ul> </div> <div> <h2> Venue </h2> <ul> <li> <a>Tukwila
+  Community Center</a> </li> <li> <address> <span> <span>12424 42nd Avenue South </span>
+  <span>Tukwila</span><span>,</span> <abbr>WA</abbr> <span>98168</span> <span>United
+  States</span> </span> <a>+ Google Map</a> </address> </li> <li> <span>Phone</span>
   <span> 206-768-2822 </span> </li> </ul> </div> </div> <h2> Related Events</h2> <ul>
   <li> <div> <h3><a>Green Tukwila Event</a></h3> <span>December 9 @ 11:30 am</span>
   - <span>1:30 pm</span> </div> </li> <li> <div> <h3><a>Green Tukwila Event</a></h3>
@@ -27,17 +22,12 @@ original_content: "<section> <div> <div> <div> <section> <div> <div> <span> Even
   <h3><a>Green Tukwila Event</a></h3> <span>December 11 @ 11:00 am</span> - <span>2:00
   pm</span> </div> </li> </ul> </div> <p> <a> Back to events</a> </p> </div> </section>
   </div> </div> </div> </section>"
-original_content_checksum: 757bfe2e8087f71ae3358cf36cbaf19c10fd9f27
-original_markdown_body: 'Event Series:    Tukwila Community Center Maintenance Closure
-  – Dec 22 – Jan 4    Tukwila Community Center Maintenance Closure – Dec 22 – Jan
-  4   December 22, 2025 @ 8:00 am - January 4, 2026 @ 7:00 pm           Google Calendar     iCalendar     Outlook
-  365     Outlook Live           Details    Start:   December 22 @ 8:00 am     End:   January
-  4, 2026 @ 7:00 pm    Series:    Tukwila Community Center Maintenance Closure – Dec
-  22 – Jan 4    Event Category: City Event      Venue    Tukwila Community Center     12424
-  42nd Avenue South  Tukwila, WA 98168 United States  + Google Map    Phone  206-768-2822       Related
-  Events    Green Tukwila Event December 9 @ 11:30 am - 1:30 pm     Green Tukwila
-  Event December 10 @ 9:30 am - 1:00 pm     Green Tukwila Event December 11 @ 11:00
-  am - 2:00 pm       Back to events'
+feed_content_checksum: 757bfe2e8087f71ae3358cf36cbaf19c10fd9f27
+images: []
+location: Tukwila Community Center, 12424 42nd Avenue South , Tukwila, WA, 98168,
+  United States
+locations:
+- King County
 published: false
 source: City of Tukwila
 source_url: https://www.tukwilawa.gov/event/tukwila-community-center-maintenance-closure-dec-22-jan-4/2025-12-22/

@@ -1,10 +1,6 @@
 ---
 end_date: '2026-01-01T17:00:00-08:00'
-images: []
-location: ''
-locations:
-- King County
-original_content: <section id="tribe-events-pg-template" class="tribe-events-pg-template"
+feed_content: <section id="tribe-events-pg-template" class="tribe-events-pg-template"
   role="main"><div class="tribe-events-before-html"><h1>Events</h1></div> <div id="tribe-events-content"
   class="tribe-events-single tribe-blocks-editor"> <p class="tribe-events-back"> <a
   href="https://bikeworks.org/events/"> « All Events </a></p> <h1 class="tribe-events-single-event-title">***All
@@ -43,11 +39,10 @@ original_content: <section id="tribe-events-pg-template" class="tribe-events-pg-
   **Cancelled** Volunteer Repair Party</a></li> <li class="tribe-events-nav-next"><a
   href="https://bikeworks.org/event/warehouse-sale-4/2026-01-03/">Warehouse sale <span>»</span></a></li>
   </ul> </div> </div> </section>
-original_markdown_body: Events    « All Events  ***All Bike Works Operations Closed***    December
-  23, 2025   @   8:00 AM   –   January 1, 2026   @   5:00 PM  All Bike Works operations
-  are closed for the end-of-year holidays, but our web store never closes.     Google
-  Calendar     iCalendar     Outlook 365     Outlook Live     Related   Event Navigation  «
-  **Cancelled** Volunteer Repair Party Warehouse sale »
+images: []
+location: ''
+locations:
+- King County
 published: false
 source: Bike Works
 source_url: https://bikeworks.org/event/all-bike-works-operations-closed/

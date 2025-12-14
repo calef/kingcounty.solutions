@@ -2,13 +2,11 @@
 date: '2025-09-29T17:28:09+00:00'
 events: []
 events_extracted: true
+feed_content: Youth and young adults are heading back to school this month, and we
+  are asking for school supplies, hygiene items, and snacks to get...
 images: []
 locations:
 - King County
-original_content: Youth and young adults are heading back to school this month, and
-  we are asking for school supplies, hygiene items, and snacks to get...
-original_markdown_body: Youth and young adults are heading back to school this month,
-  and we are asking for school supplies, hygiene items, and snacks to get...
 source: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/champion-student-success-join-our-back-to-school-supply-drive
 summarized: true

@@ -1,10 +1,6 @@
 ---
 end_date: '2026-01-20T14:00:00-08:00'
-images: []
-location: ''
-locations:
-- King County
-original_content: '<script type="application/ld+json"> { "@context": "https://schema.org",
+feed_content: '<script type="application/ld+json"> { "@context": "https://schema.org",
   "@type": "Event", "name": "DON&#39;T BREAK THE BANK: EXPLORING LOWER-COST LIVING
   OPTIONS IN RETIREMENT", "description": "Looking for housing options that fit your
   retirement budget? This online session explores possibilities for living well without
@@ -16,7 +12,10 @@ original_content: '<script type="application/ld+json"> { "@context": "https://sc
   "eventAttendanceMode": "https://schema.org/OnlineEventAttendanceMode", "location":
   {"@type":"VirtualLocation","url":"https://events.uw.edu/event/42b08237-3c74-4264-a573-7a6f8b086836"}
   } </script>'
-original_markdown_body: ''
+images: []
+location: ''
+locations:
+- King County
 source: University of Washington
 source_url: https://events.uw.edu/event/42b08237-3c74-4264-a573-7a6f8b086836/
 start_date: '2026-01-20T13:00:00-08:00'

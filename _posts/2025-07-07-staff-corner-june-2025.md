@@ -2,14 +2,7 @@
 date: '2025-07-07T20:49:10+00:00'
 events: []
 events_extracted: true
-images:
-- ef90d0d359f88f129564b23d39c519fc63d1f2079792ff41bac4ad2bad6a613b
-- feadd195dfdb37c60ca994486e67b21dc72a3253b2eaae870178c1b235966aa1
-- bd0388d6702b850377ea4b4c6b23019dbfb42001e6db12a9718002042ba60758
-- e4f10f0042c4f9c7b3105f4810dfdab888e8d041e8ea645a5fe3f64073bad43e
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <p><strong>Internship and Work-Study Programs </strong></p>
 
 
@@ -51,32 +44,13 @@ original_content: |-
 
   <p></p>
   <p>The post <a href="https://www.elcentrodelaraza.org/staff-corner-june-2025/">Staff Corner: June 2025</a> appeared first on <a href="https://www.elcentrodelaraza.org">El Centro de la Raza</a>.</p>
-original_markdown_body: |-
-  **Internship and Work-Study Programs**
-
-  Our Internship and Work-Study programs welcomed outstanding students from the University of Washington and Seattle University this season. These emerging leaders brought fresh energy, creativity, and a strong sense of purpose to El Centro de la Raza—supporting critical projects that advanced our mission across multiple departments.
-
-  Thanks to their contributions, we were able to expand our reach, strengthen our community connections, and enhance the effectiveness of our programming. Our Communications and Digital Media Interns played a key role in developing the marketing strategy for the El Centro Skate Rink, elevating our customer service efforts, and managing dynamic social media content that increased public engagement.
-
-  Our Procurement Intern contributed directly to the success of our signature event, the _Building the Beloved Community Gala_, by supporting the auction process—helping secure in-kind donations, organizing items, and ensuring a seamless experience for guests and donors alike.
-
-  Their work has had a lasting impact, not only on the programs they supported but also on the lives of the individuals and families we serve every day.
-
-  ![](https://www.elcentrodelaraza.org/wp-content/uploads/2025/07/Image-24-1.jpg)
-
-  ![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/07/4-566x707.png?ssl=1)
-
-  ![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/07/6-566x707.png?ssl=1)
-
-  ![](https://i0.wp.com/www.elcentrodelaraza.org/wp-content/uploads/2025/07/11-566x707.png?ssl=1)
-
-  Thank you for being a part of this journey, and for your unwavering support of El Centro de la Raza.
-
-  With heartfelt appreciation,
-
-  El Centro de la Raza
-
-  The post [Staff Corner: June 2025](https://www.elcentrodelaraza.org/staff-corner-june-2025/) appeared first on [El Centro de la Raza](https://www.elcentrodelaraza.org).
+images:
+- ef90d0d359f88f129564b23d39c519fc63d1f2079792ff41bac4ad2bad6a613b
+- feadd195dfdb37c60ca994486e67b21dc72a3253b2eaae870178c1b235966aa1
+- bd0388d6702b850377ea4b4c6b23019dbfb42001e6db12a9718002042ba60758
+- e4f10f0042c4f9c7b3105f4810dfdab888e8d041e8ea645a5fe3f64073bad43e
+locations:
+- King County
 source: El Centro de la Raza
 source_url: https://www.elcentrodelaraza.org/staff-corner-june-2025/?utm_source=rss&utm_medium=rss&utm_campaign=staff-corner-june-2025
 summarized: true

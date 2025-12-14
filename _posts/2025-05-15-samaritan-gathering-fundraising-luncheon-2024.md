@@ -1,8 +1,6 @@
 ---
 date: '2025-05-15T21:53:07+00:00'
-images: []
-locations: []
-original_content: "<div class=\"wpb-content-wrapper\"><div class=\"\"><div class=\"container\"><div
+feed_content: "<div class=\"wpb-content-wrapper\"><div class=\"\"><div class=\"container\"><div
   class=\"vc_row wpb_row vc_row-fluid\" ><div class=\"wpb_column vc_column_container
   vc_col-sm-12\"><div class=\"vc_column-inner\"><div class=\"wpb_wrapper\">\n\t<div
   class=\"wpb_text_column wpb_content_element vc_custom_1763078625890\" >\n\t\t<div
@@ -62,24 +60,8 @@ original_content: "<div class=\"wpb-content-wrapper\"><div class=\"\"><div class
   in 2024. The uncompensated care in 2024 amounted to $823,548.\" title=\"2024 Therapy
   Stats\" loading=\"lazy\" /></div>\n\t\t</figure>\n\t</div>\n<div class=\"vc_empty_space\"
   \  style=\"height: 22px\"><span class=\"vc_empty_space_inner\"></span></div></div></div></div></div></div></div>\n</div>"
-original_markdown_body: |-
-  ### We Are Not Alone
-
-  In May we hosted our first gathering in six years! We gathered at Newport Presbyterian Church to enjoy a luncheon and a talk by author and mindfulness mentor, Kurt Hoelting.
-
-  #### **94% of registrants attended, making for great discussion.**
-
-  #### **We raised $19,040 total, netting $14, 299.50.**
-
-  ![Photo of Samaritan Center Luncheon. Guests sit around round tables in a church fellowship hall. The tables are dressed in green tablecloths with elegant northwest centerpieces. Guests eat as they listen to Kurt present.](https://samaritanps.org/wp-content/uploads/2-1-350x350.png "2")
-
-  ![Our executive director, Bev, stands and smiles with Kurt Hoelting, our event speaker. They stand in front of a cloth backdrop with a photo of a cedar forest and nurse log.](https://samaritanps.org/wp-content/uploads/Bev-Kurt-Photo-350x350.jpg "Bev & Kurt Photo")
-
-  ![Guests received a copy of Kurt's recent book.](https://samaritanps.org/wp-content/uploads/4-2-350x350.png "4 (2)")
-
-  ## 2024 Therapy Stats
-
-  ![849 people served in 2024. 12, 431 therapy sessions provided in 2024, 27.2% of which were in-person. 772 sessions were for couples and families, 318 were for children. 89.3% of clients did not pay full cost of care in 2024. The uncompensated care in 2024 amounted to $823,548.](https://samaritanps.org/wp-content/uploads/2024-Therapy-Stats-400x400.jpg "2024 Therapy Stats")
+images: []
+locations: []
 published: false
 source: Samaritan Center of Puget Sound
 source_url: https://samaritanps.org/we-are-not-alone-samaritan-gathering-fundraising-luncheon/?utm_source=rss&utm_medium=rss&utm_campaign=we-are-not-alone-samaritan-gathering-fundraising-luncheon

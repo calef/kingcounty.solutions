@@ -2,11 +2,7 @@
 date: '2025-08-21T18:23:00+00:00'
 events: []
 events_extracted: true
-images:
-- ba1e40fd96f6b1348fa1985f21d659d6e293a0a65f23780425faa25a378d76df
-locations:
-- Snoqualmie Valley
-original_content: "<figure class=\"\n              sqs-block-image-figure\n              intrinsic\n
+feed_content: "<figure class=\"\n              sqs-block-image-figure\n              intrinsic\n
   \           \"\n        >\n          \n        \n        \n\n        \n          <a
   class=\"\n                sqs-block-image-link\n                \n          \n        \n
   \             \" href=\"https://carepointclinic.networkforgood.com/events/88936-healthcare-on-the-move-annual-benefit\"
@@ -31,12 +27,10 @@ original_content: "<figure class=\"\n              sqs-block-image-figure\n     
   CarePoint’s mission and discover how we're making a difference in the Snoqualmie
   Valley. Together, we can keep the wheels turning! </p><p class=\"\"><a href=\"https://carepointclinic.networkforgood.com/events/88936-healthcare-on-the-move-annual-benefit\"
   target=\"_blank\">RESERVE YOUR TICKET HERE!</a></p>"
-original_markdown_body: |-
-  [![](https://images.squarespace-cdn.com/content/v1/65c1886a315e4b1ef7f00c6a/fe2123b9-d9b5-4ad5-b8af-5fa280ec2dd7/HealthcareOnTheMoveBenefit.jpg?format=1000w)](https://carepointclinic.networkforgood.com/events/88936-healthcare-on-the-move-annual-benefit)
-
-  Its almost here! Bring a friend and join us for the Healthcare on the Move Annual Benefit - An evening of food, drinks, live music and celebration! Take a tour of our mobile unit, learn more about CarePoint’s mission and discover how we're making a difference in the Snoqualmie Valley. Together, we can keep the wheels turning!
-
-  [RESERVE YOUR TICKET HERE!](https://carepointclinic.networkforgood.com/events/88936-healthcare-on-the-move-annual-benefit)
+images:
+- ba1e40fd96f6b1348fa1985f21d659d6e293a0a65f23780425faa25a378d76df
+locations:
+- Snoqualmie Valley
 source: CarePoint Clinic
 source_url: https://www.carepointonline.org/news/cjs3nmb1sgjnwig08hd5u4peh0zwnw-j4cj8-bpmhr-k43fa-7a5ma-swlke-2g5kz-ydpck
 summarized: true

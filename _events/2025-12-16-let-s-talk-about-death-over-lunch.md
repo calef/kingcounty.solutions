@@ -1,11 +1,6 @@
 ---
 end_date: '2025-12-16T13:30:00-08:00'
-images: []
-location: The Center for Active Living, 4217 SW Oregon St., Seattle, WA, 98116, United
-  States
-locations:
-- King County
-original_content: '<a aria-label="Skip to content" class="fl-screen-reader-text" href="#fl-main-content">Skip
+feed_content: '<a aria-label="Skip to content" class="fl-screen-reader-text" href="#fl-main-content">Skip
   to content</a><div class="fl-page"> <header class="fl-builder-content fl-builder-content-12203
   fl-builder-global-templates-locked" data-post-id="12203" data-type="header" data-sticky="0"
   data-sticky-on="" data-sticky-breakpoint="medium" data-shrink="0" data-overlay="0"
@@ -170,23 +165,11 @@ original_content: '<a aria-label="Skip to content" class="fl-screen-reader-text"
   </div> </div> </div> <a href="#" role="button" id="fl-to-top"><span class="sr-only">Scroll
   To Top</span></a> <script id="wp-emoji-settings" type="application/json"> {"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://wscenter.org/wp-includes/js/wp-emoji-release.min.js?ver=6.9"}}
   </script>'
-original_markdown_body: 'Skip to content             We used to be called the Senior
-  Center of West Seattle.               Join       Donate                 Facebook     Instagram     YouTube     LinkedIn                            Activities
-  & Events                             Let’s Talk About Death Over Lunch       Tuesday,
-  December 16, 2025 at 12:00 pm - 1:30 pm      Join us for lunch as we gather around
-  the table to engage in one of life’s most important conversation topics: death.
-  This casual discussion group is based on Michael Hebb’s book Let’s Talk About Death
-  over Dinner and is designed to help us become more at ease with the subject. New
-  talking points are presented at each gathering to help keep the discussion fresh
-  and lively. Intrigued? Then bring your own lunch or just bring yourself and join
-  the conversation!     Games & Social Activities              Calendar       Membership                  Location    The
-  Center for Active Living     4217 SW Oregon St. Seattle, WA 98116 United States  +
-  Google Map    Phone  206-932-4044     View Location Website                   Google
-  Calendar     iCalendar     Outlook 365     Outlook Live                   Related
-  Events    Member Orientation Monday, December 8, 2025 at 10:00 am - 11:00 am     New
-  Member Concierge Monday, December 8, 2025 at 11:00 am - 1:30 pm     Older Westside
-  Lesbian Group (OWLS) Monday, December 8, 2025 at 3:00 pm - 4:30 pm             Calendar                 Scroll
-  To Top  {"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://wscenter.org/wp-includes/js/wp-emoji-release.min.js?ver=6.9"}}'
+images: []
+location: The Center for Active Living, 4217 SW Oregon St., Seattle, WA, 98116, United
+  States
+locations:
+- King County
 source: The Center for Active Living
 source_url: https://wscenter.org/event/lets-talk-about-death-over-lunch/2025-12-16/
 start_date: '2025-12-16T12:00:00-08:00'

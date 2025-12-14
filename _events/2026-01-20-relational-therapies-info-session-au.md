@@ -1,10 +1,6 @@
 ---
 end_date: '2026-01-20T17:00:00-08:00'
-images: []
-location: Virtual Events @ Antioch University
-locations:
-- King County
-original_content: <div> <header> <div> <div> <div> <ul> <li><a>Give Now</a></li> <li><a>Request
+feed_content: <div> <header> <div> <div> <div> <ul> <li><a>Give Now</a></li> <li><a>Request
   Info</a></li> <li><a>Visit</a></li> <li><a>Apply</a></li> <li><a>Employment</a></li>
   </ul> </div> </div> <div> <div> <ul> <li> <a>About</a> <ul> <li> <ul> <li> <ul>
   <li> <h4>About</h4> <div><ul> <li><a>About Antioch University</a></li> <li><a>Core
@@ -96,54 +92,11 @@ original_content: <div> <header> <div> <div> <div> <ul> <li><a>Give Now</a></li>
   the New President of Antioch University</b></span></h5> </div></div> <div><a>Learn
   More</a></div> </div> </div></div> <script> {"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://www.antioch.edu/wp-includes/js/wp-emoji-release.min.js?ver=6.9"}}
   </script>
-original_content_checksum: 2d58ffa44e2277db20a0e4703a866acbcf33b75e
-original_markdown_body: Give Now Request Info Visit Apply Employment        About       About  About
-  Antioch University Core Attributes of an Antioch Education Why Antioch University?
-  Coalition for the Common Good Equity, Belonging, and Culture History Common Thread        Leadership  Office
-  of the President Executive Leadership Academic Leadership Board of Governors    Administrative
-  Resources  Accreditation University Policies        Discover Our Campuses  Los Angeles
-  New England Online Santa Barbara Seattle          Academics       Discover Your
-  Own Path  Explore degrees that align with your passions and goals. Find your fit
-  today and take the first step toward a meaningful future.   Find Your Program      Academic
-  Focus Areas  Bachelor's Completion Creative Writing & Communication Counseling,
-  Psychology, & Therapy Education Environmental Studies & Sustainability Individualized
-  Studies Leadership & Management Nursing & Health Professions        Learn Your Way  Low-Residency
-  On-Campus Online        Programs by Type  Doctoral Master's Bachelor's Certificates
-  Credentials & Endorsements Continuing Education          Admission & Aid       Admissions  Admissions
-  Overview Unofficial Transcript Evaluation Upcoming Admissions Events What to Expect    Information
-  for  DREAMERS International Students Transfer & Degree Completion Students Veterans
-  & Military-Connected Students        Dates & Deadlines  Graduate School of Leadership
-  & Change Los Angeles New England Online Santa Barbara Seattle        Tuition & Fees  GSLC
-  Tuition & Fees AULA Tuition & Fees AUNE Tuition & Fees AUO Tuition & Fees AUSB Tuition
-  & Fees AUS Tuition & Fees        Financial Aid  Financial Aid Overview Financial
-  Aid Forms Scholarships & Grants Types of Aid Work-Study Opportunities         Library  Resources        Departments
-  & Offices  Advancement Disability Support Services Grants and Foundation Relations
-  Information Technology Institutional Effectiveness Registrar Strategic Partnerships
-  Student Accounts Writing Centers          Academic Resources  Academic Assessment
-  Academic Calendar Academic Catalog Bookstore Consumer Information Licensure Information
-  Resource List Student Policies University Policies          Additional Resources  President's
-  Communications Event Calendar Common Thread (University News) Alumni Magazine Faculty
-  Directory Report/Request It Hub                    « All Events   Relational Therapies
-  Info Session | AU     January 20, 2026   @   4:00 pm   -   5:00 pm  PST   Join us
-  for an insightful info session covering Antioch University’s Relational Therapies
-  programs—Dance/Movement Therapy (DMT), Art Therapy (AT), and the Low-Residency Master’s
-  in Couple & Family Therapy (CFT). Discover how each pathway prepares practitioners
-  to help individuals, couples, families, and communities navigate complex dynamics,
-  promote wellbeing, and foster lasting change. You’ll learn about:• Program overviews
-  & curricula• Training experiences• Format & flexibility• Careers & impact Meet faculty
-  in an informal Q&A, hear student-centered perspectives, and explore which program
-  best aligns with your goals.Join us virtually on Tuesday, January 20, 2026, 4:00
-  PM - 5:00 PM PST to see if Antioch University is the right fit for your next step
-  in relational, creative, and systemic therapy practice.   Register Here     AUS
-  Admissions  (888) 268-4477 admissions.aus@antioch.edu     Virtual Events @ Antioch
-  University            Google Calendar     iCalendar     Outlook 365     Outlook
-  Live         Related Events      Individualized Masters of Arts Info Session | AUO   December
-  11 @ 6:00 pm - 7:00 pm  EST        Nursing Programs Info Session | AUO   December
-  13 @ 1:00 pm - 2:00 pm  EST        Master's in Exercise Science & Healthcare Administration
-  Info Session | AUO   December 16 @ 12:00 pm - 1:00 pm  EST       Event Navigation  «
-  Masters in Clinical Psychology (MACP) Info Session | AUSB Sex Education & Sex Therapy
-  Info Session | AUS »          Announcing the New President of Antioch University  Learn
-  More    {"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://www.antioch.edu/wp-includes/js/wp-emoji-release.min.js?ver=6.9"}}
+feed_content_checksum: 2d58ffa44e2277db20a0e4703a866acbcf33b75e
+images: []
+location: Virtual Events @ Antioch University
+locations:
+- King County
 source: Antioch University
 source_url: https://www.antioch.edu/event/relational-therapies-info-session-au-1-20-26/
 start_date: '2026-01-20T16:00:00-08:00'

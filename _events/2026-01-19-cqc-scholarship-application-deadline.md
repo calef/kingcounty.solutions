@@ -4,8 +4,6 @@ images: []
 location: ''
 locations:
 - King County
-original_markdown_body: Deadline for submitting applications and recommendation letters
-  for the CQC Scholarship.
 source: City of Carnation
 source_url: https://www.carnationwa.gov/scholarship-nomination-opportunity/
 start_date: '2026-01-19T17:00:00-08:00'

@@ -1,8 +1,6 @@
 ---
 date: '2025-07-10T17:26:43+00:00'
-images: []
-locations: []
-original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Bellevue
+feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Bellevue
   International Festival celebrates culture and community</span>\n<span class=\"field
   field--name-uid field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/einlowhood\"
   typeof=\"schema:Person\" property=\"schema:name\" datatype>EInlowhood</span></span>\n<span
@@ -39,27 +37,8 @@ original_content: "<span class=\"field field--name-title field--type-string fiel
   \     \n\n            <div class=\"field field--name-field-article-date field--type-datetime
   field--label-hidden field__item\"><time datetime=\"2025-07-10T12:00:00Z\" class=\"datetime\">July
   10 2025</time>\n</div>\n      \n    </div>\n  </div>"
-original_markdown_body: "Bellevue International Festival celebrates culture and communityEInlowhood<time
-  datetime=\"2025-07-10T10:26:43-07:00\" title=\"Thursday, July 10, 2025 - 10:26\"
-  class=\"datetime\">Thu, 07/10/2025 - 10:26</time>\n\n ![Four photos of performers
-  at International Festival.](https://bellevuewa.gov/sites/default/files/styles/article_featured_image/public/media/article_featured_image/2025-07/international-festival-news-release.jpg?h=63d2fa23&itok=qTJUfe8t)\n\nThe
-  City of Bellevue invites all members of the public to attend the Bellevue International
-  Festival, featuring family-friendly activities and performances at Crossroads Park
-  to celebrate Bellevue’s diverse cultures and communities.\n\nIn its second year,
-  the festival will feature food trucks and a variety of vendors and tables offering
-  family-friendly activities, giveaways and community information. Parents will appreciate
-  last-minute kindergarten registration and a school supplies giveaway.\n\n**Bellevue
-  International Festival**  \nDate: Saturday, Aug. 2  \nTime: noon-5 p.m.  \nWhere:
-  Crossroads Park, 999 164th Ave. NE\n\n\"We are proud to support an event that promotes
-  our city’s values of inclusion and belonging, especially at a time when we are seeing
-  fear and uncertainty among many community members,\" said Dr. Linda Whitehead, chief
-  diversity, equity and inclusion officer for the city. \"The Bellevue International
-  Festival is an opportunity to continue celebrating our diverse roots, embracing
-  the connections that unite us and fostering mutual respect across our community
-  and region.\"\n\nMore information about the event, including parking and transit
-  options, is available at [Bellevue International Festival](https://bellevuewa.gov/city-government/departments/city-managers-office/diversity-advantage-initiative/diversity-advantage-events/bellevue-international-festival
-  \"Bellevue International Festival\").&nbsp;\n\n<time datetime=\"2025-07-10T12:00:00Z\"
-  class=\"datetime\">July 10 2025</time>"
+images: []
+locations: []
 published: false
 source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/international-festival-25

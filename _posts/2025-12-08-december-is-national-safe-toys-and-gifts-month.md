@@ -2,10 +2,7 @@
 date: '2025-12-08T18:03:14+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: "<div>\n\t\t\t\t<div>\n\t\t\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t\t\t\t\t\t<p><strong>’Tis
+feed_content: "<div>\n\t\t\t\t<div>\n\t\t\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t\t\t\t\t\t<p><strong>’Tis
   the season for holiday festivities, cozy time with family, and, of course, presents!</strong></p>\n<p>For
   the little ones in our lives, that often means an influx of new toys. But while
   the holidays bring joy, December is also National Safe Toys and Gifts Month, making
@@ -38,57 +35,10 @@ original_content: "<div>\n\t\t\t\t<div>\n\t\t\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\
   Reeve, ARNP, DNP, FNP-C</strong></p>\n<p><!-- /wp:paragraph --></p>\t\t\t\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t\t\t</div>\n\t\t<p>The
   post <a>December is National Safe Toys and Gifts Month</a> appeared first on <a>Snoqualmie
   Valley Hospital</a>.</p>"
-original_content_checksum: bdf9072df260257282bb46aea73ccbedd2ee15a6
-original_markdown_body: |-
-  **’Tis the season for holiday festivities, cozy time with family, and, of course, presents!**
-
-  For the little ones in our lives, that often means an influx of new toys. But while the holidays bring joy, December is also National Safe Toys and Gifts Month, making it the perfect time to double-check that the gifts we give are as safe as they are fun.
-
-  Here’s a quick, practical guide to safe toy giving, so your presents spark excitement, not a trip to my friends in the emergency room.
-
-  1. **Choose age-appropriate toys**
-
-  Make sure the toy matches the child’s age and developmental level. For kids under three, avoid anything with small parts that could pose a choking risk. Also watch out for:
-
-  - Ropes or cords
-  - Heating elements
-  - Button batteries
-  - Magnets
-
-  These can be especially dangerous for younger children.
-
-  1. **Inspect toys (new or used)**
-
-  Passing along gently loved toys is wonderful, but give them a careful once-over:
-
-  - Loose or broken parts can become choking hazards
-  - Rough, sharp, or cracked edges can cause cuts
-  - Vintage toys may contain peeling paint or even lead-based paint, which is toxic
-
-  When in doubt, toss it out!
-
-  1. **AVOID BUTTON BATTERY TOYS**
-
-  This one deserves its own spotlight. If swallowed, **button batteries can cause severe internal burns within hours** due to a chemical reaction with the mucous membranes. Sadly, fatalities do occur.
-
-  The safest option is to avoid toys that use them altogether. If you _must_ purchase one, choose devices that use batteries with:
-
-  - **Taste deterrent coatings** (they taste sour so kids spit them out)
-  - **Blue dye** to aid early ingestion detection
-
-  If you suspect your child may have swallowed a button battery, **seek emergency care immediately.** Time is critical.
-
-  1. **Pair active gifts with proper safety gear**
-
-  Bikes, rollerblades, snowboards, skates—so much fun comes with wheels (or edges). Just make sure gifts that encourage active play are paired with the right helmet or protective equipment. It’s part of the present, and part of keeping them safe.
-
-  Wishing you and your loved ones a joyful, festive, and _very safe_ holiday season.
-
-  **Kaylin Reeve, ARNP, DNP, FNP-C**
-
-  <!-- /wp:paragraph -->
-
-  The post December is National Safe Toys and Gifts Month appeared first on Snoqualmie Valley Hospital.
+feed_content_checksum: bdf9072df260257282bb46aea73ccbedd2ee15a6
+images: []
+locations:
+- King County
 source: Hospital District No. 4 (Snoqualmie Valley Hospital)
 source_url: https://snoqualmievalleyhealth.org/december-is-national-safe-toys-and-gifts-month-2/
 summarized: true

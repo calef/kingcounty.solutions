@@ -2,14 +2,7 @@
 date: '2025-08-12T19:10:54+00:00'
 events: []
 events_extracted: true
-images:
-- 490e8aac0771143fc429567f3d6c5518ad7629dc44a6d3797dfa1531bc142ad1
-- 359c981ac0c478972e7ed230189a6acfe36a47d673d4ce3b5dd0c0978ce85277
-- 6afb541efe96d349a8ebf382af431c52ed61643bcd3e8b8528e7091697c5585f
-- 119c087614e953e9a28a965bd4dc6d9f4fae9abda6926df4c0a7729ceb999af6
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <p><strong>Raise a glass! Tickets are officially on sale (and going fast!) for the grand finale of <em><a href="https://www.bellevuelifespring.org/event/uncorkthenight/" target="_blank" rel="noreferrer noopener">Uncork the Night</a></em>. Our final celebration of wine and giving is happening on October 4 at the W Bellevue, and we hope you can make it.</strong></p>
 
 
@@ -125,60 +118,13 @@ original_content: |-
 
 
   <p></p><p>The post <a href="https://www.bellevuelifespring.org/general/2025-uncork-the-night-chairs/">Meet the 2025 Uncork the Night Chairs</a> first appeared on <a href="https://www.bellevuelifespring.org">Bellevue LifeSpring</a>.</p><p>The post <a href="https://www.bellevuelifespring.org/general/2025-uncork-the-night-chairs/">Meet the 2025 Uncork the Night Chairs</a> appeared first on <a href="https://www.bellevuelifespring.org">Bellevue LifeSpring</a>.</p>
-original_markdown_body: |-
-  **Raise a glass! Tickets are officially on sale (and going fast!) for the grand finale of _[Uncork the Night](https://www.bellevuelifespring.org/event/uncorkthenight/)_. Our final celebration of wine and giving is happening on October 4 at the W Bellevue, and we hope you can make it.**
-
-  Leading the charge for this milestone evening are two Bellevue community members close to our mission: Greet West Bellevue Magazine’s Lindsay Rucker, and Bellevue LifeSpring Board Member Sophia Siu.
-
-  As this year’s fearless Event Chairs, Lindsay and Sophia are pouring their hearts, energy, and passion into making this final uncorking an unforgettable celebration of generosity and connection.
-
-  ![](https://www.bellevuelifespring.org/wp-content/uploads/2025/07/IMG_3092-edited.jpeg)
-
-  **Lindsay Rucker** , Franchise Owner, Greet West Bellevue Magazine
-
-  ![](https://www.bellevuelifespring.org/wp-content/uploads/2024/07/Sophia-Siu_Head-Shot-e1722029915625.jpg)
-
-  **Sophia Siu** , Bellevue LifeSpring Board Member, Senior Director, Regulatory Affairs, Allogene Therapeutics
-
-  ### **The closing of a beloved chapter**
-
-  For more than two decades, Uncork the Night has been a treasured tradition. Thanks to this community’s generosity, the event has funded vital programs that provide urgent basic needs support to the children in our community who need it most.
-
-  This year’s gala will be both a joyful celebration of our community’s generosity and a bold step toward the future, as we close this beloved chapter on a high note and open the door to new, meaningful ways to deepen our collective impact.
-
-  Sophia, a local community member and parent of a Bellevue School District student, hosted a table of guests at the 2024 gala and was inspired to take on a larger role for this final send-off.
-
-  _“The number of children in Bellevue facing hunger and homelessness has been growing, and accordingly, Bellevue LifeSpring has been growing to meet those needs,” shared Sophia. “We have entered the next phase for Bellevue LifeSpring, and sunsetting Uncork the Night creates space to maximize our impact and focus on devoting as much time and resources as possible to supporting Bellevue families.”_
-
-  Lindsay, also a local community member, holds the event quite close to her heart, as this year’s gala is her eighth time attending.
-
-  _“Having once been a single mom navigating the challenges of a fixed income, I know how hard it can be to break free from that cycle without the right support,” shared Lindsay. “I was fortunate to have people who helped me during that time. Being involved with Bellevue LifeSpring and chairing this event is one of my ways of paying that kindness forward.”_
-
-  ### **A night to remember**
-
-  Beyond the cause, Lindsay and Sophia both look forward to the undeniable energy and fun of the evening. Guests can expect curated wine tastings, an exclusive silent wine auction, an exhilarating live auction, and heartfelt stories of impact—all shared in the company of neighbors, peers, and friends.
-
-  _“Uncork the Night is just one of those events my husband and I genuinely look forward to,” said Lindsay. “Not just for the incredible food and wine, but rather the energy in the room and the joy of seeing so many people come together to make a combined difference.”_
-
-  ![](https://www.bellevuelifespring.org/wp-content/uploads/2025/08/Uncork-198-1200x801.jpg)
-
-  _Sophia agrees, “There aren’t too many times throughout the year when I get dressed up for&nbsp;an evening out in Bellevue, but this is one of them. The team behind the scenes works hard to make this a fun and memorable night for everyone. I hope all of our guests have as good&nbsp;a time as we did last year, enjoying old friends and meeting new&nbsp;ones, while making an impact. ”_
-
-  ![](https://www.bellevuelifespring.org/wp-content/uploads/2025/08/Sophia-and-Guest-1200x801.jpg)
-
-  Among Lindsay and Sophia’s favorite moments? The interactive games that make generosity come alive—like dessert dash, where guests collectively bid for decadent treats donated by the very best restaurants and bakeries in the area. Like a whole chocolate cake from Deru Market or a macaroon tower from Lady Yum.
-
-  Lindsay shared, “Last year, one of my guests went head-to-head on a live auction item. The excitement in the room was incredible, and the auctioneer’s banter kept everyone on the edge of their seats. We had so much fun cheering for our guest, and he was thrilled when he eventually won the one-of-a-kind experience he was bidding on! It’s those kinds of moments that are both joyful and unexpected that have made this event unforgettable.”
-
-  For both of our chairs, celebrating the event’s legacy and all the lives touched by the generosity is of the utmost importance. Lindsay and Sophia hope that the spirit of Uncork the Night continues in new ways long after the final toast on October 4.
-
-  When asked to sum up this final uncorking in three words, Sophia shared, “Community, friendship, and philanthropy.” She adds, “To my neighbors and fellow Bellevue School District parents: Next time you see me, ask me about Bellevue LifeSpring and Uncork the Night! I hope that the conversation inspires more of you to get involved.”
-
-  **Learn more about Uncork the Night and [purchase tickets here](https://www.bellevuelifespring.org/event/uncorkthenight/).**
-
-  The post [Meet the 2025 Uncork the Night Chairs](https://www.bellevuelifespring.org/general/2025-uncork-the-night-chairs/) first appeared on [Bellevue LifeSpring](https://www.bellevuelifespring.org).
-
-  The post [Meet the 2025 Uncork the Night Chairs](https://www.bellevuelifespring.org/general/2025-uncork-the-night-chairs/) appeared first on [Bellevue LifeSpring](https://www.bellevuelifespring.org).
+images:
+- 490e8aac0771143fc429567f3d6c5518ad7629dc44a6d3797dfa1531bc142ad1
+- 359c981ac0c478972e7ed230189a6acfe36a47d673d4ce3b5dd0c0978ce85277
+- 6afb541efe96d349a8ebf382af431c52ed61643bcd3e8b8528e7091697c5585f
+- 119c087614e953e9a28a965bd4dc6d9f4fae9abda6926df4c0a7729ceb999af6
+locations:
+- King County
 source: Bellevue LifeSpring
 source_url: https://www.bellevuelifespring.org/general/2025-uncork-the-night-chairs/?utm_source=rss&utm_medium=rss&utm_campaign=2025-uncork-the-night-chairs
 summarized: true

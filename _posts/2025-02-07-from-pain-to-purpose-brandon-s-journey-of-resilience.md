@@ -2,14 +2,7 @@
 date: '2025-02-07T00:00:48+00:00'
 events: []
 events_extracted: true
-images:
-- 26d224ad010661b87a98dd1382f482fdac06daaa8fc1e60ed7bd4115a707f728
-- d56d0b0df0e9af1aa5898858295aacf8d626467fe7f110d20e6ff8eeac18c625
-- 6e7c8c77503ef774f086563c63549634f3ca97cd988fbfd397e7d18137d37a91
-- bb29c5afa134dc2d649b9fcc7acaa4f62048079686a67af4f2b9f8c180983159
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <p></p>
 
 
@@ -58,30 +51,13 @@ original_content: |-
 
   <hr class="wp-block-separator has-alpha-channel-opacity"/>
   <p>The post <a href="https://youthcare.org/blog/from-pain-to-purpose-brandons-journey-of-resiliency/">From Pain to Purpose: Brandon&#8217;s Journey of Resilience</a> appeared first on <a href="https://youthcare.org">YouthCare</a>.</p>
-original_markdown_body: |-
-  Brandon’s life story speaks to the extraordinary resilience of the human spirit, a journey marked by both profound loss and enduring hope. Growing up in New Orleans, he learned early about life’s harsh realities – the sound of gunfire in his neighborhood was all too familiar, and the loss of his beloved cousin to a drive-by shooting taught him too soon about life’s fragility.
-
-  ![client Brandon, hero shot](https://i0.wp.com/youthcare.org/wp-content/uploads/2025/02/Brandon_still_4.png?resize=825%2C464&ssl=1)
-
-  A devastating car accident later changed his life in an instant, leaving him wheelchair-bound and forcing him to reimagine his future. **Then came an unimaginable loss** – the death of his son in another tragic accident. In those darkest moments, Brandon made a choice that would define his path forward: to transform his pain into purpose.
-
-  When he first arrived at YouthCare seeking housing assistance and basic necessities, his determination was unmistakable. **“My wheelchair isn’t my limitation – it’s my tool,”** Brandon often says with quiet conviction. These words reflect his approach to life’s challenges, facing them with strength and grace. Now pursuing his degree at Seattle Central College and living independently, Brandon’s dream of becoming a professor speaks to his deeper mission – showing young people facing homelessness and adversity that **their struggles don’t define their future.**
-
-  ![Brandon at YouthCare with Casey](https://i0.wp.com/youthcare.org/wp-content/uploads/2025/02/Brandon_still_3.png?resize=825%2C464&ssl=1)
-
-  > **_“My wheelchair isn’t my limitation – it’s my tool.”_**
-
-  His positivity radiates through every aspect of his life. Each morning starts with a workout at his gym, where he’s become a familiar and inspiring presence. In his own apartment, carefully adapted to his needs, **he’s created a space that represents his independence.** YouthCare staff still speak warmly of his infectious optimism, and his academic advisor, Dr. Webster, has grown to think of him as a little brother, **&nbsp;remarking that Brandon teaches him something new every day.**
-
-  ![](https://i0.wp.com/youthcare.org/wp-content/uploads/2025/02/Brandon_still_1.png?resize=825%2C464&ssl=1)
-
-  ![](https://i0.wp.com/youthcare.org/wp-content/uploads/2025/02/Brandon_still_2.png?resize=825%2C464&ssl=1)
-
-  From the streets of New Orleans to the classrooms of Seattle, Brandon’s journey reminds us that resilience isn’t just about surviving – **it’s about choosing to thrive and using our experiences to light the way for others.**
-
-  * * *
-
-  The post [From Pain to Purpose: Brandon’s Journey of Resilience](https://youthcare.org/blog/from-pain-to-purpose-brandons-journey-of-resiliency/) appeared first on [YouthCare](https://youthcare.org).
+images:
+- 26d224ad010661b87a98dd1382f482fdac06daaa8fc1e60ed7bd4115a707f728
+- d56d0b0df0e9af1aa5898858295aacf8d626467fe7f110d20e6ff8eeac18c625
+- 6e7c8c77503ef774f086563c63549634f3ca97cd988fbfd397e7d18137d37a91
+- bb29c5afa134dc2d649b9fcc7acaa4f62048079686a67af4f2b9f8c180983159
+locations:
+- King County
 source: YouthCare
 source_url: https://youthcare.org/blog/from-pain-to-purpose-brandons-journey-of-resiliency/
 summarized: true

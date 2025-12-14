@@ -2,11 +2,7 @@
 date: '2025-11-11T00:31:06+00:00'
 events: []
 events_extracted: true
-images:
-- fdeef3207d36ffb4c16b09e078eba32db9a771f854d378087f13733f283346b4
-locations:
-- King County
-original_content: "<p class=\"\">Thousands of King County residents struggle to afford
+feed_content: "<p class=\"\">Thousands of King County residents struggle to afford
   basic hygiene items — soap, toothpaste, laundry detergent, menstrual products —
   essentials most of us take for granted.</p><p class=\"\"><strong>Good news:</strong>&nbsp;The
   King County Council is considering approval of the <strong>2026–2027 King County
@@ -71,43 +67,10 @@ original_content: "<p class=\"\">Thousands of King County residents struggle to 
   1500w, https://images.squarespace-cdn.com/content/v1/6244ce6a3e335a451b9540a9/4363f478-3abd-437b-ae76-0f79e1e28a64/ACTIONALERT_KCBudget2627+%281%29.png?format=2500w
   2500w\" loading=\"lazy\" decoding=\"async\" data-loader=\"sqs\">\n\n            \n
   \         \n        \n          \n        \n\n        \n      \n        </figure>"
-original_markdown_body: "Thousands of King County residents struggle to afford basic
-  hygiene items — soap, toothpaste, laundry detergent, menstrual products — essentials
-  most of us take for granted.\n\n**Good news:** &nbsp;The King County Council is
-  considering approval of the **2026–2027 King County Budget** , which includes a
-  **$50,000 proviso to study hygiene poverty** &nbsp;and develop real, data-driven
-  solutions.\n\nThis is a crucial step forward in the fight against hygiene poverty
-  in King County. The results will provide a foundation for sustainable recommendations
-  in the next budget cycle — piloting a replicable model for equitable, community-driven
-  hygiene access.\n\n**\U0001F5E3️ Your Voice Can Make This Happen!**\n\nTell the
-  King County Council **TODAY** &nbsp;that you support keeping $50,000 in the 2026–2027
-  budget to study and address hygiene poverty.\n\nEvery message and testimony helps
-  show that our community believes **hygiene is a human right** &nbsp;— and that King
-  County must take action now.\\\n\n**✳️ Two Easy Ways to Take Action**\n\n**➡️ 1.
-  Attend and Testify at the Budget Town Hall**\n\n**Date:** &nbsp;Wednesday, November
-  12, 2025  \n**Time:** &nbsp;5:30–7:30 PM  \n**Location:** &nbsp;King County Council
-  Chambers, 10th Floor, King County Courthouse, 516 Third Ave, Seattle\n\nYou can
-  also attend **remotely** :\n\n- **Zoom:** [Join via Webinar ID 867 1228 9077](https://chatgpt.com/c/69128103-82ac-832e-a2e9-c458f8d9b431#)\n\n-
-  **Phone:** &nbsp;Call 1-253-215-8782 and enter the Webinar ID above\n\n- **Watch
-  Live:** &nbsp;On KCTV — Comcast channels 22 & 322 (HD), Astound Broadband channels
-  22 & 711 (HD), or [livestream here](https://chatgpt.com/c/69128103-82ac-832e-a2e9-c458f8d9b431#)\n\nIf
-  you do not wish to provide public comment, please use the Livestream or KCTV options
-  to watch or listen.\n\n**➡️ 2. Email Your King County Councilmember**\n\nFind your
-  Councilmember here: [King County Councilmember Directory](https://kingcounty.gov/en/dept/council/governance-leadership/county-council/councilmembers-districts)\n\n**Sample
-  Message:**\n\n> Dear Councilmember [Name],\n> \n> I’m writing to express my strong
-  support for the proposed **$50,000 proviso in the 2026–2027 King County Budget**
-  &nbsp;to research hygiene poverty and develop recommendations to address it.\n>
-  \n> Hygiene is a human right, and every resident deserves access to basic hygiene
-  essentials and the dignity they bring.\n> \n> As a King County [resident/voter],
-  I urge you to support this funding and help make our County a safer, healthier,
-  and more equitable community for us all.\n> \n> Thank you,  \n> [Your Name]  \n>
-  [City or District]\n\nYou can also add any **personal stories or thoughts** &nbsp;about
-  why access to hygiene products matters to you and your community.\n\n**\U0001F4E9
-  Questions?**\n\nContact **Irene Muller** ,  \nEssentials First Director of Advocacy
-  and Outreach  \n\U0001F4E7 irene@essentialsfirst.org&nbsp;| ☎️ (206) 207-3438\n\n**\U0001F4AA
-  Thank You for Standing with Us**\n\nTogether, we can make hygiene a human right
-  for every person in King County.  \nWe won’t stop until everyone in our community
-  has access to hygiene essentials — and the dignity they empower.\n\n![](https://images.squarespace-cdn.com/content/v1/6244ce6a3e335a451b9540a9/4363f478-3abd-437b-ae76-0f79e1e28a64/ACTIONALERT_KCBudget2627+%281%29.png?format=1000w)"
+images:
+- fdeef3207d36ffb4c16b09e078eba32db9a771f854d378087f13733f283346b4
+locations:
+- King County
 source: Essentials First
 source_url: https://www.essentialsfirst.org/blog/budget
 summarized: true

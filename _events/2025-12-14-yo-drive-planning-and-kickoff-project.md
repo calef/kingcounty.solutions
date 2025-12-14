@@ -5,8 +5,6 @@ images: []
 location: Together Center, Redmond
 locations:
 - King County
-original_markdown_body: A planning and kickoff project for the YO Drive to mobilize
-  volunteers and engage the community in youth outreach initiatives.
 published: false
 source: Indian American Community Services
 source_url: https://iacswa.org/iacs-youth-outreach-newsletter/

@@ -1,8 +1,6 @@
 ---
 date: '2025-11-21T21:13:26+00:00'
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   <p class="cvGsUA direction-ltr align-center para-style-body"><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">We share with prayers and sadness </span><span class="OYPEnA font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">the passing of a beloved Tribal Elder</span></p>
   <h1><span class="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">Marguerite Bertha Walden</span></h1>
   <p class="cvGsUA direction-ltr align-center para-style-body"><span class="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">Sunrise: 3/19/1937</span> <span class="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">Sunset:</span> <span class="a_GcMg font-feature-liga-off font-feature-clig-off font-feature-calt-off text-decoration-none text-strikethrough-none">11/21/2025</span></p>
@@ -14,10 +12,8 @@ original_content: |-
   <p>&nbsp;</p>
   <p>&nbsp;</p>
   <p>&nbsp;</p>
-original_markdown_body: "We share with prayers and sadness&nbsp;the passing of a beloved
-  Tribal Elder\n\n# Marguerite Bertha Walden\n\nSunrise: 3/19/1937 Sunset: 11/21/2025\n\nWe
-  will share additional information when it is available.  \nOut of respect and according
-  to our policy, tribal flags are flying at half-staff.\n\n&nbsp;\n\n[![](https://snoqualmietribe.us/wp-content/uploads/2025/11/Marguerite-Bertha-Walden-700x587.png)](https://snoqualmietribe.us/wp-content/uploads/2025/11/Marguerite-Bertha-Walden.png)\n\n&nbsp;\n\n&nbsp;\n\n&nbsp;\n\n&nbsp;"
+images: []
+locations: []
 published: false
 source: Snoqualmie Indian Tribe
 source_url: https://snoqualmietribe.us/we-share-with-prayers-and-sadness-the-passing-of-beloved-tribal-elder-marguerite-bertha-walden/

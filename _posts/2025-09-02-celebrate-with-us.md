@@ -1,20 +1,13 @@
 ---
 date: '2025-09-02T20:49:52-07:00'
-images: []
-locations: []
-original_content: 'Registration is now open for Lighthouse''s 9th Annual Celebrate
-  Event  Online Auction!Date: Saturday, October 18th  6:00–8:30 PMLocation: Des Moines
-  Beach Park AuditoriumTickets: $40Join us for an inspiring evening of hope, transformation,
+feed_content: 'Registration is now open for Lighthouse''s 9th Annual Celebrate Event  Online
+  Auction!Date: Saturday, October 18th  6:00–8:30 PMLocation: Des Moines Beach Park
+  AuditoriumTickets: $40Join us for an inspiring evening of hope, transformation,
   and community impact as we raise vital funds to support survivors of abuse. Enjoy powerful
   stories of life change, live music, drinks, and a delicious Italian dinner. Celebrate
   with us and learn how Lighthouse is breaking the cycle of abuse in our'
-original_markdown_body: 'Registration is now open for&nbsp;Lighthouse''s 9th Annual
-  Celebrate Event Online Auction!Date: Saturday, October 18th 6:00–8:30 PMLocation:
-  Des Moines Beach Park AuditoriumTickets: $40Join us for an inspiring evening of&nbsp;hope,
-  transformation, and community impact&nbsp;as we raise vital funds to support survivors
-  of abuse. Enjoy&nbsp;powerful stories of life change, live music, drinks, and a
-  delicious Italian dinner.&nbsp;Celebrate with us and learn how&nbsp;Lighthouse&nbsp;is
-  breaking the cycle of abuse in our'
+images: []
+locations: []
 published: false
 source: Lighthouse NW
 source_url: https://lighthousenw.org/blog/celebrate-with-us

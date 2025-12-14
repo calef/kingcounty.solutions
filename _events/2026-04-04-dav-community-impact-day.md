@@ -4,8 +4,6 @@ images: []
 location: ''
 locations:
 - King County
-original_markdown_body: Members are invited to volunteer at least one hour for veterans,
-  aiming to double participation this year.
 published: false
 source: Disabled American Veterans
 source_url: https://www.dav.org/learn-more/news/2025/the-future-of-dav-belongs-to-those-who-serve/

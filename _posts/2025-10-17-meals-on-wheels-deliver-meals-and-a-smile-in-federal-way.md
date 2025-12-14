@@ -2,12 +2,9 @@
 date: '2025-10-17T15:00:25+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: "<p><strong>Position: </strong>Alternate Delivery Driver       
+feed_content: "<p><strong>Position: </strong>Alternate Delivery Driver           
                                                                                  
-                <strong>Program:</strong> Meals on Wheels<br /><strong>Location:</strong>
+            <strong>Program:</strong> Meals on Wheels<br /><strong>Location:</strong>
   Federal Way<br /><strong>Schedule:</strong> Thursdays<br /><strong>Duration:</strong> Ongoing<br
   /><strong>Group or Individual:</strong> Individual<br /><strong>Kid Friendly:</strong>
   Yes<br /><strong>Contact:</strong> <a href=\"mailto:mealsonwheels@soundgenerations.org\">mealsonwheels@soundgenerations.org</a></p>\r\n<p><strong>Looking
@@ -23,25 +20,9 @@ original_content: "<p><strong>Position: </strong>Alternate Delivery Driver    
   to get started!</strong></p><p>The post <a href=\"https://soundgenerations.org/meals-on-wheels-make-a-difference-in-federal-way/\">Meals
   on Wheels: Deliver Meals and a Smile in Federal Way!</a> appeared first on <a href=\"https://soundgenerations.org\">Sound
   Generations</a>.</p>"
-original_markdown_body: "**Position:** Alternate Delivery Driver&nbsp; &nbsp; &nbsp;
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
-  **Program:** Meals on Wheels  \n**Location:** Federal Way  \n**Schedule:** Thursdays
-  \ \n**Duration:** &nbsp;Ongoing  \n**Group or Individual:** &nbsp;Individual  \n**Kid
-  Friendly:** Yes  \n**Contact:** &nbsp;[mealsonwheels@soundgenerations.org](mailto:mealsonwheels@soundgenerations.org)\n\n**Looking
-  for a volunteer opportunity that is fun and rewarding? Join our Volunteer team!**
-  As a Meals on Wheels Volunteer, you will belong to a team committed to helping homebound
-  seniors maintain their health and independence with nutritious food, personal contact,
-  and caring service.\n\n<!-- /wp:post-content --><!-- wp:paragraph -->\n\n**Alternate
-  Driver:** A Volunteer is needed to deliver meals in Federal Way on **Thursday mornings,**
-  as needed. Delivery drivers pick up meals between **8 – 9 am and are typically done
-  with their route in 1-2 hours**. Training is provided, and mileage is reimbursable
-  while making deliveries.\n\n<!-- /wp:paragraph --><!-- wp:paragraph -->\n\n**Interested?
-  Contact us for an application to get started!**\n\nThe post [Meals on Wheels: Deliver
-  Meals and a Smile in Federal Way!](https://soundgenerations.org/meals-on-wheels-make-a-difference-in-federal-way/)
-  appeared first on [Sound Generations](https://soundgenerations.org)."
+images: []
+locations:
+- King County
 source: Sound Generations
 source_url: https://soundgenerations.org/meals-on-wheels-make-a-difference-in-federal-way/
 summarized: true

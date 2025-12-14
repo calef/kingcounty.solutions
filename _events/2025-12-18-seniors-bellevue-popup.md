@@ -1,11 +1,6 @@
 ---
 end_date: '2025-12-18T14:30:00-08:00'
-images: []
-location: North Bellevue Community Center, 4063 148th Ave NE, Bellevue, WA, United
-  States
-locations:
-- Bellevue
-original_content: <div class="site" id="page"> <div id="wrapper-topbar" class="bg-transparent
+feed_content: <div class="site" id="page"> <div id="wrapper-topbar" class="bg-transparent
   text-light"> <div class="container-fluid"> <div class="row"> <div id="topbar-content"
   class="col-12"> <div class="navTop"> <div class="wp-block-columns is-layout-flex
   wp-container-core-columns-is-layout-9d6595d7 wp-block-columns-is-layout-flex"> <div
@@ -59,11 +54,11 @@ original_content: <div class="site" id="page"> <div id="wrapper-topbar" class="b
   class="tribe-delimiter">,</span> <abbr class="tribe-region tribe-events-abbr" title="Washington">WA</abbr>
   <span class="tribe-country-name">United States</span> </span> </address> </li> </ul>
   </div> </div> </div> </div> </section> </div>
-original_markdown_body: 'Login Volunteer DONATE          Skip to content      « All
-  Events  SENIORS Bellevue Popup   December 18 @ 10:00 am - 2:30 pm           Google
-  Calendar     iCalendar     Outlook 365     Outlook Live           Details    Date:   December
-  18     Time:   10:00 am - 2:30 pm        Venue    North Bellevue Community Center     4063
-  148th Ave NE Bellevue, WA United States'
+images: []
+location: North Bellevue Community Center, 4063 148th Ave NE, Bellevue, WA, United
+  States
+locations:
+- Bellevue
 source: Indian American Community Services
 source_url: https://iacswa.org/event/seniors-bellevue-popup-101/
 start_date: '2025-12-18T10:00:00-08:00'

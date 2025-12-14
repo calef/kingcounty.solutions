@@ -2,11 +2,7 @@
 date: '2025-08-08T19:42:47+00:00'
 events: []
 events_extracted: true
-images:
-- aee9befd6ba48493a1a03904e7fce1a3a13d45ab28e36dc9afde24c88b9f2bc0
-locations:
-- King County
-original_content: "<p><div class=\"et_pb_section et_pb_section_7 blog-post-type et_section_regular\"
+feed_content: "<p><div class=\"et_pb_section et_pb_section_7 blog-post-type et_section_regular\"
   >\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div class=\"et_pb_row
   et_pb_row_24\">\n\t\t\t\t<div class=\"et_pb_column et_pb_column_4_4 et_pb_column_34
   \ et_pb_css_mix_blend_mode_passthrough et-last-child\">\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t<div
@@ -89,32 +85,10 @@ original_content: "<p><div class=\"et_pb_section et_pb_section_7 blog-post-type 
   post <a href=\"https://lcsnw.org/2025/08/volunteer-is-a-champion-for-immigrants/\">Former
   LCSNW employee, now volunteer, is a champion for immigrants</a> appeared first on
   <a href=\"https://lcsnw.org\">LCSNW</a>.</p>"
-original_markdown_body: |-
-  # Former LCSNW employee, now volunteer, is a champion for immigrants
-
-  Navigating the immigration system can be overwhelming, beyond simply starting a new life far from home. Immigrants come to the U.S. in search of safety, stability, and a chance to rebuild.
-
-  That’s where dedicated LCSNW volunteers like Kinza Schuyler make all the difference. &nbsp;
-
-  As a Department of Justice Accredited Immigration Representative, Kinza offers critical guidance to refugees and immigrants facing a maze of paperwork, deadlines, and legal uncertainty. With a thorough understanding of policy and a deep well of compassion, Kinza strives to help her clients go “from adversity to success.”&nbsp;&nbsp;
-
-  Kinza found her passion for immigration through her work as Director of Operations for a small non-profit on the East Coast before moving to Seattle in the early 2000s. She volunteered for LCSNW for 2 ½ years before being hired to lead our immigration program in Seattle.&nbsp;
-
-  In 2017, Kinza transitioned back to volunteering for Immigration Services at the SeaTac office. Since then, she has been a champion for her clients and believes that “when someone has nothing, the least you can do is honor them, respect them.”&nbsp;
-
-  With a workload of over 200 cases, Kinza recently added a day of volunteering, upping it to three days a week. She sees her work as a puzzle that needs solving, and she strives to make it work for the person sitting in front of her.&nbsp;
-
-  “Nothing makes you feel better than helping others,” Kinza said about volunteering.&nbsp;
-
-  LCSNW is honored to have incredible volunteers like Kinza Schuyler, who help us carry out our mission of health, justice, and hope.&nbsp;
-
-  **Interested in volunteering for LCSNW?**
-
-  Please go to our volunteer webpage at [https://lcsnw.org/make-a-difference/volunteer/](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Flcsnw.org%2Fmake-a-difference%2Fvolunteer%2F&data=05%7C02%7CMMisterek%40lcsnw.org%7C1b3585cf7dc841ba134908ddd50df209%7Cebde5e19b4234db3a6aa702f10df1177%7C0%7C0%7C638900978155945735%7CUnknown%7CTWFpbGZsb3d8eyJFbXB0eU1hcGkiOnRydWUsIlYiOiIwLjAuMDAwMCIsIlAiOiJXaW4zMiIsIkFOIjoiTWFpbCIsIldUIjoyfQ%3D%3D%7C4000%7C%7C%7C&sdata=9Bs%2FuvcZdttbLD8MgABPrUr9fvPyY4fxin14JIvu49Q%3D&reserved=0 "Original URL: https://lcsnw.org/make-a-difference/volunteer/. Click or tap if you trust this link.")&nbsp;or email lcsnw-volunteers@lcsnw.org
-
-   ![Teenagers and young adults stand in a group discussion](https://lcsnw.org/wp-content/uploads/2025/08/Kinzapic.jpg "Kinzapic")
-
-  The post [Former LCSNW employee, now volunteer, is a champion for immigrants](https://lcsnw.org/2025/08/volunteer-is-a-champion-for-immigrants/) appeared first on [LCSNW](https://lcsnw.org).
+images:
+- aee9befd6ba48493a1a03904e7fce1a3a13d45ab28e36dc9afde24c88b9f2bc0
+locations:
+- King County
 source: Lutheran Community Services Northwest
 source_url: https://lcsnw.org/2025/08/volunteer-is-a-champion-for-immigrants/
 summarized: true

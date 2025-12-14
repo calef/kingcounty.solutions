@@ -2,10 +2,7 @@
 date: '2025-12-03T20:16:39+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- Eastside
-original_content: |-
+feed_content: |-
   <p data-start="168" data-end="253"><strong data-start="168" data-end="253">Starting Prevention Earlier: Supporting Middle School Students and Their Families</strong></p>
   <p data-start="255" data-end="454">YES is expanding prevention education to reach youth earlier than ever before, giving middle school students the knowledge, skills, and support they need to make safe, healthy decisions as they grow.</p>
   <p data-start="456" data-end="725">For years, YES has offered the<span style="color: #ff6600;"><a style="color: #ff6600;" href="https://www.youtheastsideservices.org/drug-and-alcohol-education/"> Alcohol Drug Education Class (ADEC)</a></span> for high school students and their families. Now, that same proven model is being adapted for middle schoolers through a new class called <span style="color: #ff6600;"><a style="color: #ff6600;" href="https://www.youtheastsideservices.org/drug-and-alcohol-education/"><strong data-start="661" data-end="669">VIBE</strong></a></span>, short for <em data-start="681" data-end="724">Values, Influence, Beliefs, and Education</em>.</p>
@@ -34,52 +31,9 @@ original_content: |-
   <p>Thanks to donations like yours, <strong>no family is turned away</strong> because they can’t afford to pay for services.</p>
   <p><a href="https://interland3.donorperfect.net/weblink/WebLink.aspx?name=yes&amp;id=64"><img fetchpriority="high" decoding="async" class="lazyloaded aligncenter wp-image-11851 ls-is-cached" src="https://www.youtheastsideservices.org/wp-content/uploads/2022/08/Fall-2020-Event-Donation-Header.png" alt="donate to youth mental health" width="528" height="132" data-src="https://www.youtheastsideservices.org/wp-content/uploads/2022/08/Fall-2020-Event-Donation-Header.png" srcset="https://www.youtheastsideservices.org/wp-content/uploads/2022/08/Fall-2020-Event-Donation-Header.png 960w, https://www.youtheastsideservices.org/wp-content/uploads/2022/08/Fall-2020-Event-Donation-Header-300x75.png 300w, https://www.youtheastsideservices.org/wp-content/uploads/2022/08/Fall-2020-Event-Donation-Header-768x192.png 768w" sizes="(max-width: 528px) 100vw, 528px" /></a></p>
   <p>The post <a href="https://www.youtheastsideservices.org/helping-middle-schoolers-find-their-vibe/">Helping Middle Schoolers Find Their Vibe</a> appeared first on <a href="https://www.youtheastsideservices.org">Youth Eastside Services</a>.</p>
-original_markdown_body: "**Starting Prevention Earlier: Supporting Middle School Students
-  and Their Families**\n\nYES is expanding prevention education to reach youth earlier
-  than ever before, giving middle school students the knowledge, skills, and support
-  they need to make safe, healthy decisions as they grow.\n\nFor years, YES has offered
-  the[Alcohol Drug Education Class (ADEC)](https://www.youtheastsideservices.org/drug-and-alcohol-education/)
-  for high school students and their families. Now, that same proven model is being
-  adapted for middle schoolers through a new class called [**VIBE**](https://www.youtheastsideservices.org/drug-and-alcohol-education/),
-  short for _Values, Influence, Beliefs, and Education_.\n\n**Responding to What Youth
-  Are Experiencing Today**\n\nCreated by YES’ Substance Use Prevention and School-Based
-  Services teams, VIBE was developed in direct response to what counselors are seeing
-  in local schools. Middle school students are navigating increasing pressures around
-  social media, vaping, and early experimentation with substances.\n\n> “We want to
-  meet kids where they’re at, before problems begin,” says Jennifer Klee, YES counselor
-  and VIBE facilitator. “By starting these conversations early, families can build
-  the trust and skills they need to navigate bigger challenges together.”\n\n**Learning
-  Together as a Family**\n\nVIBE brings middle school students and their parents or
-  caregivers together to learn, listen, and grow. In each session, families explore
-  how substances affect the developing brain and body, practice healthier coping skills,
-  and learn how and where to find support if they or a friend ever needs help.\n\nWhat
-  makes VIBE especially impactful is the shared learning experience. Youth gain tools
-  to resist pressure and make confident choices, while caregivers learn how to have
-  open, judgment-free conversations about topics that are often hard to approach.
-  Families leave better equipped and more connected.\n\n**What Families Have Shared
-  About ADEC**\n\nFamilies who have attended the high school ADEC program often describe
-  it as eye-opening and deeply meaningful:\n\n> “Thank you for the class. It had so
-  much information. You are a blessing for these kids, more than you can ever imagine.”\n>
-  \n> “Hearing students honestly describe their experiences with drugs and alcohol,
-  and how they felt afterward, was more powerful than reading statistics.”\n\nBecause
-  these programs are built from real trends counselors observe in local schools and
-  communities, families receive timely, relevant information that reflects what youth
-  are currently facing.\n\n**Accessible Education for Our Community**\n\nThrough partnerships
-  with the Lake Washington, Bellevue, and Issaquah School Districts, programs like
-  VIBE and ADEC are offered at no cost to families. This ensures access to prevention
-  education without financial barriers.\n\nBy starting prevention earlier, YES is
-  helping families build stronger communication, healthier coping skills, and lasting
-  foundations for well-being that extend into schools and neighborhoods across our
-  region.\n\n**To Register for ADEC or VIBE:**  \nPlease email Andrea Frost at&nbsp;[andrea.frost@youtheastsideservices.org](mailto:andrea.frost@youtheastsideservices.org)&nbsp;and
-  include either ADEC (high school class) or VIBE (middle school class) in the subject
-  line.\n\n* * *\n\nPrograms like VIBE and ADEC are only made possible through the
-  generosity of supporters like you. **[Please consider making a gift today](https://interland3.donorperfect.net/weblink/WebLink.aspx?name=yes&id=64)**&nbsp;to
-  continue providing children, youth, and families with the services and programs
-  that support their mental health and recovery.\n\nThanks to donations like yours,&nbsp;
-  **no family is turned away** &nbsp;because they can’t afford to pay for services.\n\n[![donate
-  to youth mental health](https://www.youtheastsideservices.org/wp-content/uploads/2022/08/Fall-2020-Event-Donation-Header.png)](https://interland3.donorperfect.net/weblink/WebLink.aspx?name=yes&id=64)\n\nThe
-  post [Helping Middle Schoolers Find Their Vibe](https://www.youtheastsideservices.org/helping-middle-schoolers-find-their-vibe/)
-  appeared first on [Youth Eastside Services](https://www.youtheastsideservices.org)."
+images: []
+locations:
+- Eastside
 source: Youth Eastside Services
 source_url: https://www.youtheastsideservices.org/helping-middle-schoolers-find-their-vibe/?utm_source=rss&utm_medium=rss&utm_campaign=helping-middle-schoolers-find-their-vibe
 summarized: true

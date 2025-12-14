@@ -2,10 +2,7 @@
 date: '2025-10-29T19:51:41+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: |-
+feed_content: |-
   ## What to Know About SNAP Benefits & the Government Shutdown
 
   ![On October 17, Washington’s DSHS alerted Hopelink and social service organizations around the state that they will be unable to administer SNAP food benefits starting on November 1 if they do not receive federal funding, as the federal government remains shut down since October 1.  ](https://www.hopelink.org/wp-content/uploads/2025/10/shutterstock_2390843059-1024x683.jpg "What to Know About SNAP Benefits & the Government Shutdown 1")
@@ -53,6 +50,9 @@ original_content: |-
   1. **[Join the Circle of Hope](https://www.hopelink.org/ways-to-help/monthly-giving/):&nbsp;**By giving a set amount each month, Circle of Hope members provide sustainable support throughout the year.&nbsp;
 
   To learn more about the growing needs in our region, explore&nbsp;Hopelink’s&nbsp;recently released&nbsp;[2025 Community Needs Assessment](https://www.hopelink.org/wp-content/uploads/2023/03/Hopelink-2025-Community-Needs-Assessment-Report.pdf).&nbsp;
+images: []
+locations:
+- King County
 source: Hopelink
 source_url: https://www.hopelink.org/blog/what-to-know-about-snap-benefits-and-the-government-shutdown/
 summarized: true

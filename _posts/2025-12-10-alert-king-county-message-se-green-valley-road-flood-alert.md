@@ -1,19 +1,14 @@
 ---
 date: '2025-12-10T04:37:42+00:00'
+feed_content: River levels in the SE Green Valley Road area between SE Auburn Black
+  Diamond Road and 218th Ave SE will remain high this evening (Tuesday, Dec. 9) and
+  increase through Friday. Driving by vehicle should still be possible through Wednesday
+  morning. Drive towards the Whitney Bridge (up river or east) for safety. Do not
+  go […]
+feed_content_checksum: 6c58f0ef5bddc5c8b1c29b8f93e5b0fbfe89634a
 images: []
 locations:
 - King County
-original_content: River levels in the SE Green Valley Road area between SE Auburn
-  Black Diamond Road and 218th Ave SE will remain high this evening (Tuesday, Dec.
-  9) and increase through Friday. Driving by vehicle should still be possible through
-  Wednesday morning. Drive towards the Whitney Bridge (up river or east) for safety.
-  Do not go […]
-original_content_checksum: 6c58f0ef5bddc5c8b1c29b8f93e5b0fbfe89634a
-original_markdown_body: River levels in the SE Green Valley Road area between SE Auburn
-  Black Diamond Road and 218th Ave SE will remain high this evening (Tuesday, Dec.
-  9) and increase through Friday. Driving by vehicle should still be possible through
-  Wednesday morning. Drive towards the Whitney Bridge (up river or east) for safety.
-  Do not go […]
 published: false
 rss_guid: https://kcemergency.com/2025/12/09/se-green-valley-road-flood-alert/
 source: King County Emergency Management

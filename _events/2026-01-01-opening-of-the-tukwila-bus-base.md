@@ -4,7 +4,6 @@ images: []
 location: Tukwila, WA
 locations:
 - King County
-original_markdown_body: Development aimed at zero-emission buses.
 published: false
 source: King County Metro Transit
 source_url: https://kingcountymetro.blog/2025/11/24/approved-king-county-metros-2026-27-budget-adds-service-invests-in-zero-emissions-safety-and-cleaning/

@@ -1,10 +1,6 @@
 ---
 end_date: '2025-12-17T17:30:00-08:00'
-images: []
-location: Virtual Events @ Antioch University
-locations:
-- King County
-original_content: '<div class="wp-site-blocks"> <header class="wp-block-template-part">
+feed_content: '<div class="wp-site-blocks"> <header class="wp-block-template-part">
   <div class="wp-block-group alignfull antioch-header is-layout-flow wp-block-group-is-layout-flow">
   <div class="wp-block-group has-background-color has-primary-gray-background-color
   header-top is-layout-flow wp-block-group-is-layout-flow"> <div id="mega-menu-wrap-audience_nav"
@@ -409,53 +405,10 @@ original_content: '<div class="wp-site-blocks"> <header class="wp-block-template
   </div></div> <div class="ancr-btn-wrap"><a href="https://www.antioch.edu/about/new-president-announcement/"
   target="_self" class="ancr-btn ancr-btn-primary ancr-close">Learn More</a></div>
   </div> </div></div>'
-original_markdown_body: Give Now Request Info Visit Apply Employment        About       About  About
-  Antioch University Core Attributes of an Antioch Education Why Antioch University?
-  Coalition for the Common Good Equity, Belonging, and Culture History Common Thread        Leadership  Office
-  of the President Executive Leadership Academic Leadership Board of Governors    Administrative
-  Resources  Accreditation University Policies        Discover Our Campuses  Los Angeles
-  New England Online Santa Barbara Seattle          Academics       Discover Your
-  Own Path  Explore degrees that align with your passions and goals. Find your fit
-  today and take the first step toward a meaningful future.   Find Your Program      Academic
-  Focus Areas  Bachelor's Completion Creative Writing & Communication Counseling,
-  Psychology, & Therapy Education Environmental Studies & Sustainability Individualized
-  Studies Leadership & Management Nursing & Health Professions        Learn Your Way  Low-Residency
-  On-Campus Online        Programs by Type  Doctoral Master's Bachelor's Certificates
-  Credentials & Endorsements Continuing Education          Admission & Aid       Admissions  Admissions
-  Overview Unofficial Transcript Evaluation Upcoming Admissions Events What to Expect    Information
-  for  DREAMERS International Students Transfer & Degree Completion Students Veterans
-  & Military-Connected Students        Dates & Deadlines  Graduate School of Leadership
-  & Change Los Angeles New England Online Santa Barbara Seattle        Tuition & Fees  GSLC
-  Tuition & Fees AULA Tuition & Fees AUNE Tuition & Fees AUO Tuition & Fees AUSB Tuition
-  & Fees AUS Tuition & Fees        Financial Aid  Financial Aid Overview Financial
-  Aid Forms Scholarships & Grants Types of Aid Work-Study Opportunities         Library  Resources        Departments
-  & Offices  Advancement Disability Support Services Grants and Foundation Relations
-  Information Technology Institutional Effectiveness Registrar Strategic Partnerships
-  Student Accounts Writing Centers          Academic Resources  Academic Assessment
-  Academic Calendar Academic Catalog Bookstore Consumer Information Licensure Information
-  Resource List Student Policies University Policies          Additional Resources  President's
-  Communications Event Calendar Common Thread (University News) Alumni Magazine Faculty
-  Directory Report/Request It Hub                    « All Events   Undergraduate
-  Programs Info Session | AU     December 17   @   4:30 pm   -   5:30 pm  PST   Join
-  us from the comfort of your home on Wednesday, December 17, 2025, 4:30 PM - 5:30
-  PM PST for a virtual information session designed to help you take the next step
-  in your academic journey and discover available undergraduate programs.During this
-  session, you'll learn about:-Campus and online program options-Bachelor’s degree
-  completion pathways-Internship opportunities-The admissions process-How to earn
-  credit for prior learning experiences Hosted by our core faculty and admissions
-  team, this is your opportunity to explore how Antioch University can support your
-  academic and professional goals.Explore undergraduate programs at:-Antioch University
-  Los Angeles-Antioch University Seattle-Antioch University Santa Barbara-Antioch
-  University Online We look forward to connecting with you and helping you take the
-  next step toward your future!   Register Here     AULA Admissions  (310) 578-1080
-  ext. 3100 admissions.aula@antioch.edu     Virtual Events @ Antioch University            Google
-  Calendar     iCalendar     Outlook 365     Outlook Live         Related Events      Application
-  Essay Workshop | AU   December 8 @ 5:00 pm - 6:00 pm  PST        Graduate Management
-  Info Session | GSLC   December 9 @ 12:00 pm - 12:30 pm  EST        PhD in Leadership
-  and Change Info Session | GSLC   December 10 @ 12:00 pm - 1:00 pm  EST       Event
-  Navigation  « EdD Info Session | AUO Masters in Clinical Psychology (MACP) Info
-  Session | AUSB »          Announcing the New President of Antioch University  Learn
-  More
+images: []
+location: Virtual Events @ Antioch University
+locations:
+- King County
 source: Antioch University
 source_url: https://www.antioch.edu/event/undergraduate-programs-info-session-au-12-17-25/
 start_date: '2025-12-17T16:30:00-08:00'

@@ -4,8 +4,6 @@ images: []
 location: ''
 locations:
 - King County
-original_markdown_body: The 2025 Snoqualmie Tribal Christmas Party has been canceled
-  due to severe weather.
 published: false
 source: Snoqualmie Indian Tribe
 source_url: https://snoqualmietribe.us/snoqualmie-tribal-council-passes-motion-to-approve-resolution-345-2025-declaring-a-tribal-state-of-emergency-related-to-flooding/

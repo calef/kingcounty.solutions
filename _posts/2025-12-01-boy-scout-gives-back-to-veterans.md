@@ -1,8 +1,6 @@
 ---
 date: '2025-12-01T19:30:00+00:00'
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   <p>A new generation is rising through the ranks to serve Veterans. One of them is 16-year-old Haden Toenjes, an Illinois native and member of Boy Scouts of America’s Tinley Park Troup 385. </p>
 
 
@@ -72,42 +70,8 @@ original_content: |-
 
 
   <p>This article was originally published on the <a href="https://www.va.gov/hines-health-care/stories/local-boy-scout-gives-back-to-the-veteran-community/" rel="noopener">VA Hines Health care System site </a> and has been edited for style and clarity.  </p>
-original_markdown_body: |-
-  A new generation is rising through the ranks to serve Veterans. One of them is 16-year-old Haden Toenjes, an Illinois native and member of Boy Scouts of America’s Tinley Park Troup 385.&nbsp;
-
-  Toenjes holds the second-highest rank in the organization, called a Life Scout, with hopes of earning the top-ranked title of Eagle Scout with a little help from the Veterans at [Edward Hines Jr. VA Hospital](https://news.va.gov/?s=Edward+Hines+Jr.+VA+Hospital).&nbsp;
-
-  “In Boy Scouts, there are seven ranks you have to advance through, with eagle scout being the highest rank, and 21 merit badge requirements,” said Toenjes. “Some of the merit badges you have to achieve include personal management, first aid, communication and emergency preparedness.”
-
-  To earn his Eagle Rank, Toenjes built a handicap-accessible picnic table and bench for Veterans using Hines VA’s community garden.&nbsp;
-
-  “My grandfather, who served in the Army in the early 1960s, receives great care here at Hines,” Toenjes explained when asked why he chose Hines for his project. “Veterans like my grandfather deserve all of our support because of how they put their lives on the line to protect our freedoms.”&nbsp;
-
-  ## Building community through service and leadership
-
-  Toenjes’ passion for serving Veterans started at a young age.&nbsp;
-
-  “Since the second grade, I’ve volunteered with Kruse’s Krew, a Veteran organization that sends care packages to service members overseas,” said Toenjes.
-
-  That drive led him to make a difference in the lives of Veterans served at Hines VA. Toenjes held a fundraiser to raise money for the bench and handicap accessible picnic table.&nbsp;
-
-  Leading the effort, Toenjes selected the plans, completed a material list and purchased all needed items.&nbsp;He then built the table and bench with help from his fellow scouts and father.
-
-  Throughout the process, Toenjes worked with Hines Employee Whole Health Coordinator Sheila Swann-Guerro on identifying the need, purpose and shared impact it could have on Veterans and their families.
-
-  “His ideas have a great impact on providing a space for people of all abilities,” said Swann-Guerro.
-
-  After Toenjes completed his project at Hines VA, he showed his grandfather his hard work.&nbsp;
-
-  “I felt a sense of pride that I made an impact on the Veterans here,” he said.&nbsp;
-
-  Toenjes is ready for his next project, earning Eagle Scout.
-
-  It’s never too late to apply for VA health care you’ve earned. If you are a Veteran or know a Veteran who has not yet applied for their VA health care benefits, learn how to&nbsp;[get started](https://www.choose.va.gov/health).
-
-  * * *
-
-  This article was originally published on the [VA Hines Health care System site](https://www.va.gov/hines-health-care/stories/local-boy-scout-gives-back-to-the-veteran-community/)&nbsp;and has been edited for style and clarity.&nbsp;&nbsp;
+images: []
+locations: []
 published: false
 source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143264/boy-scout-gives-back-to-veterans/

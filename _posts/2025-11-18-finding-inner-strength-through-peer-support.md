@@ -2,11 +2,7 @@
 date: '2025-11-18T15:14:36+00:00'
 events: []
 events_extracted: true
-images:
-- 9b96a42650615192a1897a2b4fffbe7ff9302ebcdf9bdc9a66aa69e32409860a
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <h2><span data-contrast="auto">This November, we celebrate the power of allyship and express gratitude to those who use their own experiences to lift others up. </span><span data-ccp-props="{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;201341983&quot;:0,&quot;335551550&quot;:1,&quot;335551620&quot;:1,&quot;335559685&quot;:0,&quot;335559737&quot;:0,&quot;335559738&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:279}"> </span></h2>
   <p><span data-contrast="auto">Sometimes, the best support comes from someone who’s faced similar obstacles. Peer Advocates bring empathy, credibility, and lived experience that can’t be replaced. </span><span data-ccp-props="{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;201341983&quot;:0,&quot;335551550&quot;:1,&quot;335551620&quot;:1,&quot;335559685&quot;:0,&quot;335559737&quot;:0,&quot;335559738&quot;:0,&quot;335559739&quot;:160,&quot;335559740&quot;:279}"> </span></p>
   <p><span data-contrast="auto">Yasmin, a mother of five, is part of Vibrant’s </span><a href="https://www.vibrant.org/what-we-do/community-programs/parents-caregivers/family-youth-peer-support-services/"><span data-contrast="auto">Family and Youth Peer Support</span></a><span data-contrast="auto"> (FYPS) program. FYPS offers free, compassionate, and culturally competent support for parents/caregivers of youth under 18 with behavioral or emotional health challenges, and young people up to 24 seeking support.</span><span data-ccp-props="{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335557856&quot;:16777215,&quot;335559738&quot;:0,&quot;335559739&quot;:0}"> </span></p>
@@ -30,52 +26,10 @@ original_content: |-
   <p><span data-contrast="auto">The care Yasmin received inspired her to give back as she now hopes to become a Peer Advocate herself. “Out of all of this&#8230; the negative situation&#8230; the positive influence I’ve had is that after everything is over, I want to be an advocate also.  </span><b><span data-contrast="auto">I want to help someone else get to the finish line. That’s my calling now.”</span></b><span data-ccp-props="{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335559738&quot;:240,&quot;335559739&quot;:240}"> </span></p>
   <p><span data-contrast="auto">The dynamic between Yasmin and Genessis embodies the heart of peer support—the courage to ask for help and the transformations that come from connection. This November, we honor people like them, whose compassion and lived experience prove that giving back doesn’t just come circle—it keeps it moving beyond each of us.</span></p>
   <p>The post <a href="https://www.vibrant.org/finding-inner-strength-through-peer-support/">Finding Inner Strength Through Peer Support</a> appeared first on <a href="https://www.vibrant.org">Vibrant Emotional Health</a>.</p>
-original_markdown_body: |-
-  ## This November, we celebrate the power of allyship and express gratitude to those who use their own experiences to lift others up.&nbsp;&nbsp;
-
-  Sometimes, the best support comes from someone&nbsp;who’s&nbsp;faced similar obstacles.&nbsp;Peer&nbsp;Advocates&nbsp;bring empathy, credibility, and lived experience that&nbsp;can’t&nbsp;be replaced.&nbsp;&nbsp;
-
-  Yasmin,&nbsp;a mother of&nbsp;five, is part of Vibrant’s&nbsp;[Family and Youth Peer Support](https://www.vibrant.org/what-we-do/community-programs/parents-caregivers/family-youth-peer-support-services/)&nbsp;(FYPS)&nbsp;program.&nbsp;FYPS offers&nbsp;free, compassionate, and&nbsp;culturally competent&nbsp;support for parents/caregivers of youth under 18 with behavioral or emotional health challenges, and young people up to 24 seeking support.&nbsp;
-
-  When an incident involving one of her children led to a complicated legal situation, Yasmin felt lost and alone&nbsp;in trying to&nbsp;navigate&nbsp;multiple systems.&nbsp;
-
-   ![](https://www.vibrant.org/wp-content/uploads/2025/11/IMG_20250212_172418995_HDR-1-scaled.jpg "Yasmin, Program Participant, Family and Youth Peer Support (FYPS)")
-
-  **“You kind of lose yourself when something bad happens, and you become something you’re not,” she shared. “You forget who you are. You lose hope.&nbsp;[Peer Advocates]&nbsp;help bring you back to reality&nbsp;to find yourself again.”**&nbsp;
-
-  Soon&nbsp;after,&nbsp;Yasmin&nbsp;was connected with&nbsp;Genessis, a&nbsp;Family&nbsp;Peer Advocate from Vibrant’s&nbsp;Staten Island&nbsp;FYPS&nbsp;team.&nbsp;Referred from another agency that&nbsp;couldn’t&nbsp;meet her needs, Yasmin found in Genessis someone who listened without judgment and stood beside her with care and persistence.&nbsp;&nbsp;
-
-  **“They take the time to listen, to understand what&nbsp;you’re&nbsp;going through, what&nbsp;you’re&nbsp;saying, and what&nbsp;you’re&nbsp;feeling.&nbsp;It’s&nbsp;a different type of support,”&nbsp;Yasmin added.&nbsp;**
-
-  ##### &nbsp; Yasmin, Program Participant, Family and Youth Peer Support (FYPS)
-
-  Genessis helped&nbsp;Yasmin&nbsp;find a new attorney&nbsp;and&nbsp;accompanied&nbsp;Yasmin to court.&nbsp;“I was so nervous,”&nbsp;she&nbsp;said. “Genessis&nbsp;told me ‘Come on,&nbsp;don’t&nbsp;worry about it.&nbsp;You’re&nbsp;very&nbsp;honest, and&nbsp;truthful, and transparent. Just be you.’”&nbsp;&nbsp;
-
-  For Genessis, this work is personal.&nbsp;Her&nbsp;lived&nbsp;experience in special education and within a family affected by addiction&nbsp;shapes&nbsp;her&nbsp;role&nbsp;as a Peer Advocate.&nbsp;&nbsp;
-
-  “We&nbsp;know how it feels to be unheard or feel like we are less than in society because of the struggles that we’ve had,”&nbsp;she&nbsp;said.&nbsp;&nbsp;
-
-  “We are not here to tell you what to&nbsp;do.&nbsp;We are here to be your village,”&nbsp;she&nbsp;shared.&nbsp; **“To teach you how to advocate for&nbsp;yourself&nbsp;and be&nbsp;your&nbsp;own&nbsp;safety net.”** &nbsp;
-
-  FYPS uses a goal-based, person-centered model, helping families&nbsp;identify&nbsp;and work toward what matters most to them,&nbsp;in periods of 3-6 months.&nbsp;&nbsp;
-
-  “The grey areas are a big part of the job I do,” Genessis explained. “That’s&nbsp;why empathy is important—meeting people
-
-   ![](https://www.vibrant.org/wp-content/uploads/2025/11/Genessis-Family-Peer-Advocate-from-Vibrants-Staten-Island-FYPS-1.png)
-
-  where&nbsp;they’re&nbsp;at, not judging a book by its cover. What matters is&nbsp;what’s&nbsp;right and aligned with the goal for the parent, and how we can make this child’s life better and safer.”&nbsp;&nbsp;
-
-  Peer Advocates like Genessis also help families navigate systems such as&nbsp;the Administration&nbsp;for&nbsp;Child&nbsp;Services, Department&nbsp;of&nbsp;Education, and the court&nbsp;system, and offer group classes like&nbsp;_Parenting Journey_,&nbsp;_Circle of Security_, and&nbsp;_Parenting in America_.&nbsp;&nbsp;&nbsp;
-
-  Yasmin’s daughter now works with a Youth Peer Advocate and is setting her own goals for growth and independence.&nbsp;&nbsp;
-
-  “Seeing my daughter, who is usually uncomfortable and defensive with people,&nbsp;interact&nbsp;with the staff at FYPS…&nbsp;I was blown away,” Yasmin said. “It’s&nbsp;not like a hospital.&nbsp;It’s&nbsp;warm.&nbsp;It’s&nbsp;professional, but personal.”&nbsp;
-
-  The care Yasmin received inspired her to give back as she now hopes to become a Peer Advocate herself. “Out of all of this… the negative situation… the positive influence I’ve had is that after everything is over, I want to be an advocate also.&nbsp;&nbsp; **I want to&nbsp;help someone else get to the finish line.&nbsp;That’s&nbsp;my calling now.”** &nbsp;
-
-  The&nbsp;dynamic&nbsp;between&nbsp;Yasmin and Genessis embodies&nbsp;the heart of peer support—the courage to ask for help&nbsp;and the&nbsp;transformations that come from connection.&nbsp;This November, we honor people like them, whose compassion and lived experience prove that giving back&nbsp;doesn’t&nbsp;just come circle—it keeps it moving&nbsp;beyond&nbsp;each of&nbsp;us.
-
-  The post [Finding Inner Strength Through Peer Support](https://www.vibrant.org/finding-inner-strength-through-peer-support/) appeared first on [Vibrant Emotional Health](https://www.vibrant.org).
+images:
+- 9b96a42650615192a1897a2b4fffbe7ff9302ebcdf9bdc9a66aa69e32409860a
+locations:
+- King County
 source: Vibrant Emotional Health
 source_url: https://www.vibrant.org/finding-inner-strength-through-peer-support/
 summarized: true

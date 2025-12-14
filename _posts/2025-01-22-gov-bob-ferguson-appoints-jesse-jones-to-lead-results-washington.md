@@ -1,8 +1,6 @@
 ---
 date: '2025-01-22T17:03:09+00:00'
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   Gov. Bob Ferguson appoints Jesse Jones to lead Results Washington
 
   Publish Date
@@ -40,6 +38,8 @@ original_content: |-
   More recently, Jones’ investigation revealed a hidden 3% charge on certain concessions at Climate Pledge Arena. That work led to a class action lawsuit and subsequent action by the state Attorney General’s Office.
 
   Jones currently lives in Snohomish County with Kim, his wife of 34 years. His daughter, Cydney, attends college in Colorado.
+images: []
+locations: []
 published: false
 source: State Executive Branch
 source_url: https://governor.wa.gov/news/2025/gov-bob-ferguson-appoints-jesse-jones-lead-results-washington

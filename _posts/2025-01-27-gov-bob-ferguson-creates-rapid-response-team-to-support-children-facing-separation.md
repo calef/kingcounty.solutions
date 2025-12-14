@@ -2,11 +2,8 @@
 date: '2025-01-27T19:04:30+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: "Gov. Bob Ferguson creates rapid response team to support children
-  facing separation\n\nPublish Date\n\n<time datetime=\"2025-01-27T12:00:00Z\" class=\"datetime\">January
+feed_content: "Gov. Bob Ferguson creates rapid response team to support children facing
+  separation\n\nPublish Date\n\n<time datetime=\"2025-01-27T12:00:00Z\" class=\"datetime\">January
   27, 2025</time>\n\nBrionna.Aho@GO…<time datetime=\"2025-01-27T11:04:30-08:00\" title=\"Monday,
   January 27, 2025 - 11:04am\" class=\"datetime\">January 27, 2025 - 11:04am</time>\n\nStory
   Body\n\n_Executive Order brings agencies, schools together to support kids separated
@@ -61,6 +58,9 @@ original_content: "Gov. Bob Ferguson creates rapid response team to support chil
   caregivers deported or detained.\n\nThe Family Separation Rapid Response Team will
   be in regular contact with the Governor’s Office to share its findings and recommendations
   as work progresses."
+images: []
+locations:
+- King County
 source: State Executive Branch
 source_url: https://governor.wa.gov/news/2025/gov-bob-ferguson-creates-rapid-response-team-support-children-facing-separation
 summarized: true

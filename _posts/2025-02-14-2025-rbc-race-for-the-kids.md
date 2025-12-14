@@ -2,11 +2,7 @@
 date: '2025-02-14T20:46:14+00:00'
 events: []
 events_extracted: true
-images:
-- a8219409aee66b23a35ca531b9748e65dcef89a47f880d0cb9a59782fe2c99d4
-locations:
-- King County
-original_content: "<div  class=\"wpb_row vc_row vc_row-fluid  mk-fullwidth-false  attched-false
+feed_content: "<div  class=\"wpb_row vc_row vc_row-fluid  mk-fullwidth-false  attched-false
   \    js-master-row \">\n\t\t\n\t\t\t\n<div style=\"\" class=\"vc_col-sm-12 wpb_column
   column_container  _ height-full\">\n\t<div class=\"vc_separator wpb_content_element
   vc_separator_align_center vc_sep_width_100 vc_sep_pos_align_center vc_sep_color_grey
@@ -38,22 +34,10 @@ original_content: "<div  class=\"wpb_row vc_row vc_row-fluid  mk-fullwidth-false
   Clinic</a>.</p><p>The post <a rel=\"nofollow\" href=\"https://www.boyercc.org/general/rbc2025-2/\">2025
   RBC Race for the Kids</a> appeared first on <a rel=\"nofollow\" href=\"https://www.boyercc.org\">Boyer
   Children&#039;s Clinic</a>.</p>"
-original_markdown_body: |-
-  #### Sunday, June 8, 2025
-
-  #### Magnuson Park
-
-  Thank you for your incredible support! Our our preliminary results show a **record-breaking fundraising total of $67,053 (and counting!), which will directly support the children and families at the heart of Boyer’s work.** The morning brought together more than 450 participants and volunteers, and it was truly inspiring to witness such robust community engagement in support of our cause.
-
-  [Race Times can be found here.](https://runsignup.com/Race/Results/166241/#resultSetId-556212;perpage:100)
-
-  We are tremendously grateful for our amazing Title Sponsor, RBC, and all of our wonderful sponsors, whose generous partnership makes this event possible.
-
-  ![](https://i0.wp.com/www.boyercc.org/wp-content/uploads/2020/06/rbc_r4tklogo_seattle_h_solid_rgb_pe.jpg?resize=1024%2C423&ssl=1)
-
-  The post [2025 RBC Race for the Kids](https://www.boyercc.org/general/rbc2025-2/) first appeared on [Boyer Children's Clinic](https://www.boyercc.org).
-
-  The post [2025 RBC Race for the Kids](https://www.boyercc.org/general/rbc2025-2/) appeared first on [Boyer Children's Clinic](https://www.boyercc.org).
+images:
+- a8219409aee66b23a35ca531b9748e65dcef89a47f880d0cb9a59782fe2c99d4
+locations:
+- King County
 source: Boyer Children's Clinic
 source_url: https://www.boyercc.org/general/rbc2025-2/
 summarized: true

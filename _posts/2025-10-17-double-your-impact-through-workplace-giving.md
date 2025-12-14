@@ -2,11 +2,7 @@
 date: '2025-10-17T21:13:03+00:00'
 events: []
 events_extracted: true
-images:
-- b39ca577375854575f6d3e201b3ab878451a24c67f882ad43131b497457c7c6f
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <div class="wp-block-uagb-image uagb-block-db8ab62f wp-block-uagb-image--layout-default wp-block-uagb-image--effect-static wp-block-uagb-image--align-none"><figure class="wp-block-uagb-image__figure"><img decoding="async" src="https://www.brightspark.org/wp-content/uploads/2025/10/Fund-Dev-Newsletter-Banners-4-1.png" alt="" class="uag-image-9367" width="768" height="256" title="Fund Dev Newsletter Banners (4)" loading="lazy" role="img" /></figure></div>
 
 
@@ -65,30 +61,10 @@ original_content: |-
 
   <p></p>
   <p>The post <a href="https://www.brightspark.org/2025/10/double-your-impact-through-workplace-giving/">Double Your Impact Through Workplace Giving!</a> appeared first on <a href="https://www.brightspark.org">BrightSpark</a>.</p>
-original_markdown_body: "![](https://www.brightspark.org/wp-content/uploads/2025/10/Fund-Dev-Newsletter-Banners-4-1.png
-  \"Fund Dev Newsletter Banners (4)\")\n\n## **Did you know your employer might double
-  your gift?  \nYou can donate through your company!**  \n\n| Did you know many employers
-  across our region offer matching gift programs or workplace giving options?  \n
-  \ \n  \nBy donating to BrightSpark through your company’s giving platform, or by
-  requesting a match after you give,&nbsp;you can help your contribution go twice
-  as far for children, families, and early learning providers in King and Pierce Counties.
-  \ \n  \n  \nWorkplace giving isn’t just an easy way to give, it helps create a steady,
-  sustainable source of support that ensures BrightSpark can continue strengthening
-  access, quality, and advocacy in early learning year-round.  \n  \n  \n**It’s simple:**
-  check with your HR department to see if your employer offers a matching gift or
-  payroll giving option. If they do, designate **BrightSpark Early Learning Services
-  (EIN: 94-1465046)** as your nonprofit of choice.  \n  \n  \n**Your gift could be
-  matched dollar for dollar!** |\n\n[See If Your Company Participates!](https://www.brightspark.org/wp-content/uploads/2025/10/WPG-Companies.pdf)\n\n|
-  \  \nTogether, we can strengthen child-centered, antiracist early learning in our
-  community. |\n\n| **There’s More than One Way to Give!**  \n  \nBrightSpark accepts
-  donations in many forms: cash, credit cards, fund transfers, checks, money orders,
-  stocks, bonds, mutual funds, donor-advised funds, and more! If you have any questions
-  or would like more information on ways to give, please get in touch with our fund
-  development department at&nbsp;[getinvolved@childcare.org](mailto:getinvolved@childcare.org).
-  |\n\n![](https://www.brightspark.org/wp-content/uploads/2025/10/Thank-you-to-our-sponsors-Blog-Banner-1-1024x576.png)\n\n_All
-  photos on this email are credited to ©LisaBontjePhotography_\n\nThe post [Double
-  Your Impact Through Workplace Giving!](https://www.brightspark.org/2025/10/double-your-impact-through-workplace-giving/)
-  appeared first on [BrightSpark](https://www.brightspark.org)."
+images:
+- b39ca577375854575f6d3e201b3ab878451a24c67f882ad43131b497457c7c6f
+locations:
+- King County
 source: BrightSpark
 source_url: https://www.brightspark.org/2025/10/double-your-impact-through-workplace-giving/
 summarized: true

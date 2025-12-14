@@ -2,15 +2,11 @@
 date: '2025-07-02T21:14:36+00:00'
 events: []
 events_extracted: true
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   <div data-wp-interactive="core/file" class="wp-block-file"><object data-wp-bind--hidden="!state.hasPdfPreview" hidden class="wp-block-file__embed" data="https://ballardseniorcenter.org/wp-content/uploads/sites/7/july.aug2025.newsletter.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="Embed of july.aug2025.newsletter."></object><a id="wp-block-file--media-7408d4dc-f2ce-4d0c-b0f4-df98d84547a5" href="https://ballardseniorcenter.org/wp-content/uploads/sites/7/july.aug2025.newsletter.pdf">july.aug2025.newsletter</a><a href="https://ballardseniorcenter.org/wp-content/uploads/sites/7/july.aug2025.newsletter.pdf" class="wp-block-file__button wp-element-button" download aria-describedby="wp-block-file--media-7408d4dc-f2ce-4d0c-b0f4-df98d84547a5">Download</a></div>
   <p>The post <a href="https://ballardseniorcenter.org/july-august-2025-newsletter/">July &amp; August 2025 Newsletter</a> appeared first on <a href="https://ballardseniorcenter.org">Ballard Senior Center</a>.</p>
-original_markdown_body: |-
-  <object data-wp-bind--hidden="!state.hasPdfPreview" hidden class="wp-block-file__embed" data="https://ballardseniorcenter.org/wp-content/uploads/sites/7/july.aug2025.newsletter.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="Embed of july.aug2025.newsletter."></object>[july.aug2025.newsletter](https://ballardseniorcenter.org/wp-content/uploads/sites/7/july.aug2025.newsletter.pdf)[Download](https://ballardseniorcenter.org/wp-content/uploads/sites/7/july.aug2025.newsletter.pdf)
-
-  The post [July & August 2025 Newsletter](https://ballardseniorcenter.org/july-august-2025-newsletter/) appeared first on [Ballard Senior Center](https://ballardseniorcenter.org).
+images: []
+locations: []
 published: false
 source: Ballard Northwest Senior Center
 source_url: https://ballardseniorcenter.org/july-august-2025-newsletter/

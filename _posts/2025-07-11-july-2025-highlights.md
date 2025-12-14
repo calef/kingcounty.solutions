@@ -1,8 +1,6 @@
 ---
 date: '2025-07-11T17:00:11+00:00'
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   <figure class="wp-block-image size-full"><img loading="lazy" decoding="async" width="1545" height="2000" src="https://hospitalityhousesouthking.org/wp-content/uploads/2025/07/7.-July-2025-5.png" alt="" class="wp-image-3841" srcset="https://hospitalityhousesouthking.org/wp-content/uploads/2025/07/7.-July-2025-5.png 1545w, https://hospitalityhousesouthking.org/wp-content/uploads/2025/07/7.-July-2025-5-768x994.png 768w" sizes="auto, (max-width: 1545px) 100vw, 1545px" /></figure>
 
 
@@ -18,12 +16,8 @@ original_content: |-
 
 
   <p></p>
-original_markdown_body: |-
-  ![](https://hospitalityhousesouthking.org/wp-content/uploads/2025/07/7.-July-2025-5.png)
-
-  [**DOUBLE YOUR IMPACT – DONATE NOW**](https://www.paypal.com/ncp/payment/BF634WBJM7A5E)
-
-  <object data-wp-bind--hidden="!state.hasPdfPreview" hidden class="wp-block-file__embed" data="https://hospitalityhousesouthking.org/wp-content/uploads/2025/07/7.-July-2025-4.pdf" type="application/pdf" style="width:100%;height:600px" aria-label="Embed of 7. July 2025 (4)."></object>[7. July 2025 (4)](https://hospitalityhousesouthking.org/wp-content/uploads/2025/07/7.-July-2025-4.pdf)[Download](https://hospitalityhousesouthking.org/wp-content/uploads/2025/07/7.-July-2025-4.pdf)
+images: []
+locations: []
 published: false
 source: Hospitality House
 source_url: https://hospitalityhousesouthking.org/july-2025-highlights/

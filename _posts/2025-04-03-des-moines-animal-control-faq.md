@@ -1,8 +1,6 @@
 ---
 date: '2025-04-03T17:15:00+00:00'
-images: []
-locations: []
-original_content: "<p style=\"text-align: center;\"><strong>Des Moines Animal Control
+feed_content: "<p style=\"text-align: center;\"><strong>Des Moines Animal Control
   FAQ</strong></p>\n<p style=\"text-align: center;\"><span style=\"text-align: left;\">3
   April 2025</span></p>\n<p>The City is aware of concerns in the community about reductions
   to animal control services. We want to provide information on this issue.<br>\n<br>\nDuring
@@ -58,53 +56,8 @@ original_content: "<p style=\"text-align: center;\"><strong>Des Moines Animal Co
   not been well promoted or enforced in the past. The City is exploring a contract
   with a firm to administer pet licensing. All proceeds would go to expand animal
   control services. </p>"
-original_markdown_body: "**Des Moines Animal Control FAQ**\n\n3 April 2025\n\nThe
-  City is aware of concerns in the community about reductions to animal control services.
-  We want to provide information on this issue.  \n  \nDuring the last budget cycle,
-  the City had to find over $4 million in cost savings and new revenue to balance
-  the 2025-26 budget. To preserve funding for the highest priority functions, the
-  City had to make difficult cuts, including:&nbsp;  \n  \n●Staff layoffs in Administration
-  and Parks & Recreation  \n●Freezing police positions  \n●Closing the Redondo police
-  substation  \n●Reducing Senior Services and Parks & Recreation programming  \n●Reducing
-  human services&nbsp;  \n●Cutting administrative costs  \n●Eliminating downtown beautification
-  \ \n●Reducing contracted animal control services&nbsp;  \n  \nWe recognize all these
-  reductions, including animal control services, have impacts on our residents. We
-  are doing our best to meet essential needs while we look for opportunities to restore
-  funding in the future.&nbsp;  \n  \n**_FAQ_**  \n**_In the past, Des Moines had
-  a dedicated animal control officer. Why was that eliminated?_**  \n  \nA dedicated
-  animal control officer requires about $200,000 annually for salary, benefits, fleet
-  and equipment to provide 40 hours of service per week (not 24/7 coverage.) Due to
-  budget constraints, the City can no longer afford to fund this position. Several
-  years ago the City moved animal control services to a contract with Burien CARES.
-  The City now has a reduced contract for animal services, which covers legally required
-  services.  \n  \n**_What animal control services does Des Moines provide?_**  \nThe
-  City provides limited animal control services through a contract with Burien CARES.
-  This contract ensures a response to dangerous or potentially dangerous dogs and
-  investigation of dog bites.&nbsp;  \n  \nThe Des Moines Police Department has a
-  microchip reader to help you identify the owner of a stray animal. However, the
-  City no longer has staff to respond to lost or found pets or other animal control
-  issues.  \n  \n**Why can't the police respond to reports of stray animals?**  \nUnfortunately,
-  our police department does not have the capacity to retrieve lost or stray animals
-  and take them to shelters. The department is short-staffed due to budget constraints
-  and has vacant positions. While we acknowledge that responding to stray animals
-  is an important service, our police must prioritize responses to issues of public
-  safety.&nbsp;  \n  \n**_How should residents handle lost or found pets?_**  \nWe
-  encourage community members to post information about lost or found pets on one
-  or more of the following:  \n  \n●[PawBoost.com](https://www.pawboost.com/ \"https://www.pawboost.com/\")
-  \ \n●[NextDoor&nbsp;](https://nextdoor.com/login/ \"https://nextdoor.com/login/\")
-  \ \n●[Neighbors by Ring](https://ring.com/neighbors \"https://ring.com/neighbors\")
-  \ \n●[Lost & Found Pets of South King County](https://www.facebook.com/groups/604556463019923
-  \"https://www.facebook.com/groups/604556463019923\") Facebook group  \n●[Lost Dogs
-  of King County](https://www.facebook.com/groups/763044283717023 \"https://www.facebook.com/groups/763044283717023\")
-  Facebook group  \n●[Lost Dogs of King County](https://lostdogsofkingcounty.com/
-  \"https://lostdogsofkingcounty.com/\") website  \n  \nIf an animal is injured, contact
-  a 24-hour veterinary hospital for assistance.&nbsp;  \n  \nIf an animal has bitten
-  someone, call 9-1-1. Please do not call 9-1-1 to report a stray animal.&nbsp;  \n
-  \ \n**_What opportunities does the City have for restoring animal control services?_**
-  \ \nSome funding for animal control services is generated through pet licensing,
-  which has not been well promoted or enforced in the past. The City is exploring
-  a contract with a firm to administer pet licensing. All proceeds would go to expand
-  animal control services.&nbsp;"
+images: []
+locations: []
 published: false
 source: City of Des Moines
 source_url: https://www.desmoineswa.gov/cms/One.aspx?portalId=17385088&pageId=20778914

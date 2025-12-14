@@ -2,12 +2,7 @@
 date: '2025-02-18T14:43:03+00:00'
 events: []
 events_extracted: true
-images:
-- fb79273188201b481d8ccfabe5edc9651bb95f68c63b3f3802057bcabcd10d4f
-- 14dfc0df50d70c2c57a124964fd1cc06a8b9fa7c22f957cd28ed51ad9009845b
-locations:
-- King County
-original_content: "<div id=\"fws_692139bba4fcb\"  data-column-margin=\"default\" data-midnight=\"dark\"
+feed_content: "<div id=\"fws_692139bba4fcb\"  data-column-margin=\"default\" data-midnight=\"dark\"
   \ class=\"wpb_row vc_row-fluid vc_row\"  style=\"padding-top: 0px; padding-bottom:
   0px; \"><div class=\"row-bg-wrap\" data-bg-animation=\"none\" data-bg-animation-delay=\"\"
   data-bg-overlay=\"false\"><div class=\"inner-wrap row-bg-layer\" ><div class=\"row-bg
@@ -138,48 +133,11 @@ original_content: "<div id=\"fws_692139bba4fcb\"  data-column-margin=\"default\"
   \n\t\t</div>\n\t</div> \n</div></div><p>The post <a href=\"https://wonderlandkids.org/2025-letter-from-the-ed/\">2025
   Letter from the ED</a> appeared first on <a href=\"https://wonderlandkids.org\">Wonderland
   Child &amp; Family Services</a>.</p>"
-original_markdown_body: "## Letter from the Executive Director\n\n&nbsp;\n\nIt’s during
-  uncertain times, when the world’s priorities may not align with our own, that I
-  lean into the incredible community that surrounds Wonderland and Hope Rising Clinic.
-  This past year, 2024, was a testament to what we can achieve when we come together
-  with a shared purpose—providing vital services to children and families impacted
-  by developmental challenges and prenatal substance exposure (PSE), regardless of
-  ability to pay.\n\nIn 2024, we witnessed transformative moments that highlight the
-  power of partnership and perseverance. Season of Wonder was a collective effort,
-  resulting in unlocking an additional $150,000 match from a highly committed anonymous
-  donor. Your generosity deepened our impact, from helping us create and launch HRC’s
-  groundbreaking Caregiver Education Program, to designing curriculum to train clinicians
-  and eventually school district staff across the state in our PSE methods, allowing
-  our unique services to reach thousands more children and families impacted by PSE.
-  You made each milestone possible!\n\n**2024 Achievements**\n\n- Total number of
-  children served: 1156\n\n**Hope Rising Clinic**\n\n- 86% of HRC families reported
-  that their relationship with their child had improved\n- 89% of HRC children made
-  progress in at least two treatment goals\n\n**Early Support Program (birth-to-three)**\n\n-
-  96% of ES children moved closer to same aged peers in at least one area of development\n-
-  91% of ES families reported coping better with issues related to raising their child\n\n
-  ![](https://wonderlandkids.org/wp-content/uploads/2025/02/iStock-2164923656-scaled.jpg)\n\nOur
-  focus in 2025 is clear: Sustainability and advocacy. The urgency to ensure that
-  every child has access to the care they need to thrive has never been more important
-  or more at risk. Wonderland’s Hope Rising Clinic is committed to providing evidence-based
-  therapies and sharing curriculum that addresses the unique needs of children and
-  their caregivers affected by prenatal substance exposure. Simultaneously, we will
-  continue advocating for systemic changes to create a future where these services
-  are universally accessible across the nation, even the world.\n\nWe have strengthened
-  our commitment to the unique needs of caregivers of children with PSE with our paradigm-shifting
-  Caregiver Education Program because families are at the heart of a child’s healing
-  journey. They simply must have the tools, knowledge, and encouragement to create
-  environments where their children can flourish. Healthy families make healthy communities.\n\nIn
-  closing, I would be remiss in not sharing that Wonderland and HRC are 70% funded
-  by state and federal contracts, 10% from insurance billing, and 20% from donations
-  and private grants. Now more than ever our critical, time-sensitive services would
-  not be possible without the trust and support of this community. Together, we are
-  responding to immediate needs but also building a legacy of hope and opportunity
-  for generations to come. This year, we invite you–implore you–to deepen your involvement
-  with Wonderland’s mission. Your support is rocket fuel that makes our shared vision
-  a reality.\n\nThank you for standing with us.\n\nWith gratitude and determination,\n\n
-  ![](https://wonderlandkids.org/wp-content/uploads/2023/07/MaryK.jpg)\n\n ![](https://wonderlandkids.org/wp-content/uploads/2019/01/Marys-Signature.jpg)\n\nMary
-  Kirchoff  \nExecutive Director, CEO\n\nThe post [2025 Letter from the ED](https://wonderlandkids.org/2025-letter-from-the-ed/)
-  appeared first on [Wonderland Child & Family Services](https://wonderlandkids.org)."
+images:
+- fb79273188201b481d8ccfabe5edc9651bb95f68c63b3f3802057bcabcd10d4f
+- 14dfc0df50d70c2c57a124964fd1cc06a8b9fa7c22f957cd28ed51ad9009845b
+locations:
+- King County
 source: Wonderland Child & Family Services
 source_url: https://wonderlandkids.org/2025-letter-from-the-ed/
 summarized: true

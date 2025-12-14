@@ -1,15 +1,11 @@
 ---
 date: '2025-12-03T19:18:06+00:00'
+feed_content: As only U.S. city to participate in international cohort, Seattle joined
+  environmental leaders from around the world to share best practices on urban habitat
+  restoration Seattle&#160;–&#160;After two years of active participation, the City
+  of Seattle i...
 images: []
 locations: []
-original_content: As only U.S. city to participate in international cohort, Seattle
-  joined environmental leaders from around the world to share best practices on urban
-  habitat restoration Seattle&#160;–&#160;After two years of active participation,
-  the City of Seattle i...
-original_markdown_body: As only U.S. city to participate in international cohort,
-  Seattle joined environmental leaders from around the world to share best practices
-  on urban habitat restoration Seattle&nbsp;–&nbsp;After two years of active participation,
-  the City of Seattle i...
 published: false
 source: City of Seattle
 source_url: https://harrell.seattle.gov/2025/12/03/seattle-completes-two-year-united-nations-generation-restoration-program/

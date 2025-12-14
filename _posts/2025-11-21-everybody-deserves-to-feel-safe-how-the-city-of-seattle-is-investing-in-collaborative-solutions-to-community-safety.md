@@ -2,17 +2,13 @@
 date: '2025-11-21T21:07:07+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: Around the world, people may know Seattle because of the Space Needle,
+feed_content: Around the world, people may know Seattle because of the Space Needle,
   Orcas, Pike Place Market, or even the Mariners. Locally, Seattle is known for the
   character and charm of its many neighborhoods. From Lake City to Rainier View, Broadview
   to Highlan...
-original_markdown_body: Around the world, people may know Seattle because of the Space
-  Needle, Orcas, Pike Place Market, or even the Mariners. Locally, Seattle is known
-  for the character and charm of its many neighborhoods. From Lake City to Rainier
-  View, Broadview to Highlan...
+images: []
+locations:
+- King County
 source: City of Seattle
 source_url: https://frontporch.seattle.gov/2025/11/21/everybody-deserves-to-feel-safe-how-the-city-of-seattle-is-investing-in-collaborative-solutions-to-community-safety/
 summarized: true

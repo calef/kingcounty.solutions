@@ -1,15 +1,11 @@
 ---
 date: '2025-12-08T16:23:09+00:00'
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   <p>Contact information: <a>davelcarlton@gmail.com</a></p>
   <p>Location: Pinellas Park, Florida</p>
-original_content_checksum: 399ac4b91296d76795deb210d9567f21f4f5830a
-original_markdown_body: |-
-  Contact information: davelcarlton@gmail.com
-
-  Location: Pinellas Park, Florida
+feed_content_checksum: 399ac4b91296d76795deb210d9567f21f4f5830a
+images: []
+locations: []
 published: false
 source: NOSSCR Referral Service
 source_url: https://nosscr.org/david-carlton/

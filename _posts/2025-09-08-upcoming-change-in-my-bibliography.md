@@ -1,20 +1,14 @@
 ---
 date: '2025-09-08T18:49:20+00:00'
-images: []
-locations: []
-original_content: Use of earliest publication date for determining NIH Public Access
-  compliance As shared in the July National Center for Biotechnology Information (NCBI)
-  Insights post, NCBI at the National Library of Medicine (NLM) is making ongoing
-  improvements to several offerings to support implementation of the 2024 NIH Public
-  Access Policy. Effective October 1, 2025, My Bibliography &#8230; <a href="https://ncbiinsights.ncbi.nlm.nih.gov/2025/09/08/upcoming-change-my-bibliography/"
+feed_content: Use of earliest publication date for determining NIH Public Access compliance
+  As shared in the July National Center for Biotechnology Information (NCBI) Insights
+  post, NCBI at the National Library of Medicine (NLM) is making ongoing improvements
+  to several offerings to support implementation of the 2024 NIH Public Access Policy.
+  Effective October 1, 2025, My Bibliography &#8230; <a href="https://ncbiinsights.ncbi.nlm.nih.gov/2025/09/08/upcoming-change-my-bibliography/"
   class="more-link">Continue reading <span class="screen-reader-text">Upcoming Change
   in My Bibliography</span> <span class="meta-nav">&#8594;</span></a>
-original_markdown_body: Use of earliest publication date for determining NIH Public
-  Access compliance As shared in the July National Center for Biotechnology Information
-  (NCBI) Insights post, NCBI at the National Library of Medicine (NLM) is making ongoing
-  improvements to several offerings to support implementation of the 2024 NIH Public
-  Access Policy. Effective October 1, 2025, My Bibliography … [Continue reading Upcoming
-  Change in My Bibliography →](https://ncbiinsights.ncbi.nlm.nih.gov/2025/09/08/upcoming-change-my-bibliography/)
+images: []
+locations: []
 published: false
 source: National Center for Biotechnology Information
 source_url: https://ncbiinsights.ncbi.nlm.nih.gov/2025/09/08/upcoming-change-my-bibliography/

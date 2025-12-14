@@ -1,16 +1,13 @@
 ---
 end_date: '2026-03-07T19:30:00-08:00'
+feed_content: "<div> <div> <p>Emerging and established composers explore unconventional
+  sonic landscapes in this concert of music by students, faculty, alumni, and guests
+  of the UW Composition program.</p> <h2>Director Biographies</h2> </div> </div>"
+feed_content_checksum: 8001302ffdfd1c213b854e99bd75217a581b24fd
 images: []
 location: Music Building (MUS)
 locations:
 - King County
-original_content: "<div> <div> <p>Emerging and established composers explore unconventional
-  sonic landscapes in this concert of music by students, faculty, alumni, and guests
-  of the UW Composition program.</p> <h2>Director Biographies</h2> </div> </div>"
-original_content_checksum: 8001302ffdfd1c213b854e99bd75217a581b24fd
-original_markdown_body: "Emerging and established composers explore unconventional
-  sonic landscapes in this concert of music by students, faculty, alumni, and guests
-  of the UW Composition program.\n\n \n## Director Biographies"
 published: false
 source: University of Washington
 source_url: https://music.washington.edu/events/2026-03-07/composition-studio-concert

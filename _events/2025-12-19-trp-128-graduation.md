@@ -1,10 +1,6 @@
 ---
 end_date: '2025-12-19T13:00:00-08:00'
-images: []
-location: ANEW, 18338 Andover Park West, ANEW Tukwila, 98188, United States
-locations:
-- King County
-original_content: <div id="page-container"> <header id="main-header" data-height-onload="89">
+feed_content: <div id="page-container"> <header id="main-header" data-height-onload="89">
   <div class="container clearfix et_menu_container"> <div id="et-top-navigation" data-height="89"
   data-fixed-height="40"> <div id="et_mobile_nav_menu"> <div class="mobile_nav closed">
   <span class="select_page">Select Page</span> </div> </div> </div> </div> </header>
@@ -55,12 +51,10 @@ original_content: <div id="page-container"> <header id="main-header" data-height
   tribe-events-meta-value"> <a href="https://anewcareer.org/" target="_self" rel="external">View
   Venue Website</a> </span> </li> </ul> </div> </div> </div> </div> </section> </div>
   </div>
-original_markdown_body: 'Select Page           « All Events  TRP 128 Graduation   December
-  19 @ 11:00 am - 1:00 pm     Join us in celebrating the achievements of TRP 128 pre-apprenticeship
-  graduates!         Google Calendar     iCalendar     Outlook 365     Outlook Live           Details    Date:   December
-  19     Time:   11:00 am - 1:00 pm        Venue    ANEW     18338 Andover Park West
-  ANEW Tukwila, 98188 United States  + Google Map    Phone  2067101008     View Venue
-  Website'
+images: []
+location: ANEW, 18338 Andover Park West, ANEW Tukwila, 98188, United States
+locations:
+- King County
 published: false
 source: Apprenticeship & Nontraditional Employment for Women
 source_url: https://anewcareer.org/event/trp-128-graduation/

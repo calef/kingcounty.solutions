@@ -1,10 +1,6 @@
 ---
 end_date: '2025-12-18T16:00:00-08:00'
-images: []
-location: Pickering Barn, 1730 10th Ave NW, Issaquah, Washington, 98027, United States
-locations:
-- King County
-original_content: <section id="tribe-events-pg-template" class="tribe-events-pg-template"
+feed_content: <section id="tribe-events-pg-template" class="tribe-events-pg-template"
   role="main"> <div id="tribe-events-content" class="tribe-events-single"> <p class="tribe-events-back">
   <a href="https://kidvantagenw.org/events/"> « All Events</a> </p> <h1 class="tribe-events-single-event-title">Embrace
   for Good</h1> <div class="tribe-events-schedule tribe-clearfix"> <h2> <span class="tribe-event-date-start">December
@@ -63,17 +59,10 @@ original_content: <section id="tribe-events-pg-template" class="tribe-events-pg-
   tribe-events-meta-value"> <a href="https://www.issaquahwa.gov/875/Pickering-Barn"
   target="_self" rel="external">View Venue Website</a> </span> </li> </ul> </div>
   </div> </div> </div> </section>
-original_markdown_body: "« All Events  Embrace for Good   December 18 @ 10:00 am -
-  4:00 pm     EXPERIENCE THE JOY OF GIVING BACK. Take a test-drive during our Embrace
-  for Good event and Lincoln will make a $35 donation-contributing up to $7,500. Your
-  participation in this special event helps support KidVantage. Please join us at
-  The Pickering Barn – 1730 10th Ave NW, Issaquah, WA 98027 on Thursday, December
-  18h between 10:00 a.m. – 4:00 p.m. and help make a difference.         Google Calendar
-  \    iCalendar     Outlook 365     Outlook Live           Details    Date:   December
-  18     Time:   10:00 am - 4:00 pm     Website:  https://survey.expansemarketing.com/s/2025EFG_Evergreen_Lincoln?lang=en
-  \     Organizer   Lincoln Events    View Organizer Website         Venue    Pickering
-  Barn     1730 10th Ave NW Issaquah, Washington 98027 United States  + Google Map
-  \    View Venue Website"
+images: []
+location: Pickering Barn, 1730 10th Ave NW, Issaquah, Washington, 98027, United States
+locations:
+- King County
 published: false
 source: KidVantage
 source_url: https://kidvantagenw.org/event/embrace-for-good/

@@ -2,10 +2,7 @@
 date: '2025-08-12T20:56:37+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- Eastside
-original_content: |-
+feed_content: |-
   We have two new Bilingual Legal Services Coordinators on the ELAP team!
 
   **Bianca Reynaga** (she/her), joined ELAP in June. She previously worked at the Washington State Department of Social and Health Services.
@@ -19,6 +16,9 @@ original_content: |-
   See ELAP’s full staff team [on our website](https://elap.org/staff-and-board/).
 
   The post [Welcome Bianca and Deyanira](https://elap.org/welcome-bianca-and-deyanira/) appeared first on [Eastside Legal Assistance Program](https://elap.org).
+images: []
+locations:
+- Eastside
 source: Eastside Legal Assistance Program
 source_url: https://elap.org/welcome-bianca-and-deyanira/?utm_source=rss&utm_medium=rss&utm_campaign=welcome-bianca-and-deyanira
 summarized: true

@@ -1,11 +1,9 @@
 ---
 date: '2025-12-03T07:11:22-08:00'
+feed_content: WINTHROP – State Route 20 North Cascades Highway will close for the
+  winter season at 6 p.m. Thursday, Dec. 4.
 images: []
 locations: []
-original_content: WINTHROP – State Route 20 North Cascades Highway will close for
-  the winter season at 6 p.m. Thursday, Dec. 4.
-original_markdown_body: WINTHROP – State Route 20 North Cascades Highway will close
-  for the winter season at 6 p.m. Thursday, Dec. 4.
 published: false
 source: Washington State Department of Transportation
 source_url: https://wsdot.wa.gov/about/news/2025/sr-20-north-cascades-highway-closes-season-thursday-dec-4-6-pm

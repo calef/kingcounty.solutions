@@ -1,10 +1,6 @@
 ---
 end_date: '2026-01-02T00:00:00-08:00'
-images: []
-location: WA
-locations:
-- King County
-original_content: <section id="tribe-events-pg-template" class="tribe-events-pg-template"
+feed_content: <section id="tribe-events-pg-template" class="tribe-events-pg-template"
   role="main"> <div id="tribe-events-content" class="tribe-events-single"> <p class="tribe-events-back">
   <a href="https://kidvantagenw.org/events/"> « All Events</a> </p> <h1 class="tribe-events-single-event-title">Holiday
   Closure</h1> <div class="tribe-events-schedule tribe-clearfix"> <h2> <span class="tribe-event-date-start">December
@@ -40,12 +36,10 @@ original_content: <section id="tribe-events-pg-template" class="tribe-events-pg-
   class="tribe-events-meta-value"> <abbr class="tribe-events-abbr tribe-events-end-date
   dtend" title="2026-01-01"> January 1, 2026 </abbr> </span> </li> </ul> </div> </div>
   </div> </div> </section>
-original_markdown_body: "« All Events  Holiday Closure   December 22, 2025 - January
-  1, 2026     All of the KidVantage Hubs will be closed for the holidays from Monday,
-  December 22nd through Thursday, January 1st. We will return to our normal hours
-  on Friday, January 2nd. Happy Holidays from KidVantage to you!         Google Calendar
-  \    iCalendar     Outlook 365     Outlook Live           Details    Start:   December
-  22     End:   January 1, 2026"
+images: []
+location: WA
+locations:
+- King County
 source: KidVantage
 source_url: https://kidvantagenw.org/event/holiday-closure/
 start_date: '2025-12-22T00:00:00-08:00'

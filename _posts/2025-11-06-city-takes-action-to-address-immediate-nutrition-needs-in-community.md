@@ -2,11 +2,7 @@
 date: '2025-11-06T02:32:43+00:00'
 events: []
 events_extracted: true
-images:
-- a7a125584e0ec4f274b0c0a43f0e6d19fd7205001536359a3783ed0aa53228b1
-locations:
-- King County
-original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">City
+feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">City
   takes action to address immediate nutrition needs in community</span>\n<span class=\"field
   field--name-uid field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/mdegrand\"
   typeof=\"schema:Person\" property=\"schema:name\" datatype>MDeGrand</span></span>\n<span
@@ -58,28 +54,10 @@ original_content: "<span class=\"field field--name-title field--type-string fiel
   class=\"field field--name-field-article-date field--type-datetime field--label-hidden
   field__item\"><time datetime=\"2025-11-05T12:00:00Z\" class=\"datetime\">November
   5 2025</time>\n</div>\n      \n    </div>\n  </div>"
-original_markdown_body: |-
-  City takes action to address immediate nutrition needs in communityMDeGrand<time datetime="2025-11-05T18:32:43-08:00" title="Wednesday, November 5, 2025 - 18:32" class="datetime">Wed, 11/05/2025 - 18:32</time>
-
-   ![A variety of canned and boxed food is stacked up in a pile.](https://bellevuewa.gov/sites/default/files/styles/article_featured_image/public/media/article_featured_image/2025-09/food-drive-giving-campaign.JPG?h=6ba5d9a3&itok=euSKb4Q7)
-
-  Multiple city sources used to fund local food assistance agencies
-
-  The City of Bellevue announced today it would dedicate $235,000 to address immediate food assistance needs in the community following the reduction in SNAP (Supplemental Nutrition Assistance Program) benefits at the federal level impacting local families.&nbsp;
-
-  More than 3,000 households in Bellevue qualify for SNAP benefits, including nearly 4,000 children. The Bellevue School District has reported an increase in students eligible for free or reduced lunch, which is now approximately one in four students. Further, approximately 52.5% of households receiving SNAP benefits have a family member with a disability. &nbsp;
-
-  “We are seeing the direct impacts of federal funding reductions in our community and among our families and children who are now unsure where their next meal will come from,” said Mayor Lynne Robinson. “As a city dedicated to the value of caring for each other, we wanted to utilize our community partnerships to respond as quickly as possible.”
-
-  In response to this time-sensitive need, the city has committed $150,000 from operating contingency funds that will be allocated across 11 community-based organizations already contracted with the city to provide food assistance services in Bellevue. This effort will get the assistance to community members as quickly as possible through existing channels.&nbsp;
-
-  In addition, the city’s parks and community services department is funding grocery gift cards using $85,000 in donations received from the community. These gift cards will be distributed to all agencies that took part in the city’s [Essentials For All](https://bellevuewa.gov/city-government/departments/parks/community-services/human-services/food-assistance/essentials-all-food-hygiene-supplies-drive) food and hygiene drive, which is continuing to collect community donations of food and hygiene items through Nov. 15.&nbsp;
-
-  “We appreciate the many wonderful and dedicated partners in the community doing this difficult work at a time of great need,” said City Manager Diane Carlson. “I’m pleased to see these local support agencies join forces with city departments in this critical effort, which builds on the $17 million in human services funding the city has already invested during the current biennium to meet our community’s most urgent needs.”
-
-  The city will continue to monitor and explore available options to address immediate challenges in the community during times of uncertainty and increased need. For a full list of assistance resources in Bellevue, please visit the city’s [Assistance and Discounts](https://bellevuewa.gov/resident-resources/assistance-discounts) page.
-
-  <time datetime="2025-11-05T12:00:00Z" class="datetime">November 5 2025</time>
+images:
+- a7a125584e0ec4f274b0c0a43f0e6d19fd7205001536359a3783ed0aa53228b1
+locations:
+- King County
 source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/city-takes-action-address-immediate-nutrition-needs-community
 summarized: true

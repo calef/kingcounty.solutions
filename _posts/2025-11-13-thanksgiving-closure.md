@@ -1,8 +1,6 @@
 ---
 date: '2025-11-13T18:44:45+00:00'
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   <a href="https://wscenter.org/thanksgiving-closure/"><p>Mark your calendar! </p>
 
 
@@ -16,18 +14,8 @@ original_content: |-
 
 
   <p>Thursday, November 27 &#8211; &hellip;</p></a>
-original_markdown_body: |-
-  [
-
-  Mark your calendar!
-
-  We will be closed on these upcoming dates for the Thanksgiving holiday.
-
-  Wednesday, November 26: The Center will close early at 3:30 p.m.
-
-  Thursday, November 27 – …
-
-  ](https://wscenter.org/thanksgiving-closure/)
+images: []
+locations: []
 published: false
 source: The Center for Active Living
 source_url: https://wscenter.org/thanksgiving-closure/

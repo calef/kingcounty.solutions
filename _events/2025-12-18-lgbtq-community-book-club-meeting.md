@@ -4,7 +4,6 @@ images: []
 location: Library
 locations:
 - King County
-original_markdown_body: A book club meeting for the LGBTQ+ community.
 published: false
 source: Homework Help
 source_url: https://blog.spl.org/2025/11/26/december-2025-author-and-community-events/

@@ -1,10 +1,6 @@
 ---
 end_date: '2025-12-14T15:00:00-08:00'
-images: []
-location: ''
-locations:
-- King County
-original_content: '<div class="wp-site-blocks"> <div class="tribe-block tec-block__single-event">
+feed_content: '<div class="wp-site-blocks"> <div class="tribe-block tec-block__single-event">
   <section id="tribe-events-pg-template" class="tribe-events-pg-template" role="main">
   <div id="tribe-events-content" class="tribe-events-single"> <p class="tribe-events-back">
   <a href="https://federalwayseniorcenter.org/events/"> « All Events</a> </p> <div
@@ -47,10 +43,10 @@ original_content: '<div class="wp-site-blocks"> <div class="tribe-block tec-bloc
   Pacific NW Metropolitan Club </a> </dd> </ul> </div> </div> </div> </div> </section>
   </div> </div> <script id="wp-emoji-settings" type="application/json"> {"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://federalwayseniorcenter.org/wp-includes/js/wp-emoji-release.min.js?ver=6.9"}}
   </script>'
-original_markdown_body: '« All Events    Event Series:    Pacific NW Metropolitan
-  Club    Pacific NW Metropolitan Club   December 14 @ 12:30 pm – 3:00 pm           Google
-  Calendar     iCalendar     Outlook 365     Outlook Live           Details    Date:   December
-  14     Time:   12:30 pm – 3:00 pm    Series:    Pacific NW Metropolitan Club            {"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://federalwayseniorcenter.org/wp-includes/js/wp-emoji-release.min.js?ver=6.9"}}'
+images: []
+location: ''
+locations:
+- King County
 published: false
 source: Federal Way Senior Center
 source_url: https://federalwayseniorcenter.org/event/pacific-nw-metropolitan-club/2025-12-14/

@@ -2,10 +2,7 @@
 date: '2025-12-04T14:30:00+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <h2 class="wp-block-heading">The role of genomics in guiding better health decision for Veterans</h2>
 
 
@@ -57,32 +54,9 @@ original_content: |-
   <figure class="wp-block-embed is-type-wp-embed is-provider-transistor wp-block-embed-transistor"><div class="wp-block-embed__wrapper">
   <div class="video-shortcode"><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="The Future of Veteran Health: Dr. Jason Vassy on Genomic Medicine" width="100%" height="180" frameborder="no" scrolling="no" src="https://share.transistor.fm/e/225e89c7#?secret=2e3IPD1Gvs" data-secret="2e3IPD1Gvs"></iframe></div>
   </div></figure>
-original_markdown_body: |-
-  ## The role of genomics in guiding better health decision for Veterans
-
-  Dr. Jason Vassy is a primary care physician at VA Boston Healthcare System. He leads the Genomes to Veterans Research Program, which focuses on bringing genomic tools to help VA use genetic information to improve Veterans’ health.
-
-  “How can we use a Veteran’s genetic makeup to help improve their health care?” he asked, in the podcast. While not all conditions require genetic testing, “in the areas where we know doctors should be using genetic testing… how do we make it easier for them?”
-
-  This work shows how VA is staying ahead when it comes to health and technology.
-
-  ## Exploring the potential of DNA-guided treatment
-
-  In Dr. Vassy’s [VA study on pharmacogenetics](https://www.va.gov/washington-dc-health-care/programs/pharmacogenomics/) for depression, he found that Veterans who received DNA-guided medication choices fared better, stating, “Patients that got that kind of testing were more likely to have a medication that was a better match for their DNA and had lower rates of depressive symptoms.” His team also used data from the [Million Veteran Program (MVP)](https://www.research.va.gov/mvp/) to identify Veterans with a genetic form of extremely high cholesterol, noting, “We reached back out… and got them connected to clinical genetic testing, increased surveillance, and treatment.” These actions helped Veterans and their families reduce their risk of early heart disease.
-
-  ## Using genetic risk to guide prostate cancer screening
-
-  In addition, Vassy leads the nationwide [PROGRESS Study](https://www.progress-study.org/), which uses genetic risk to guide prostate [cancer](https://www.research.va.gov/services/amp/precision_oncology.cfm)screening for men ages 55 to 70. Veterans can enroll online and submit a saliva kit from home.
-
-  “Prostate cancer is the most common cancer in men,” Vassy said. Genetic guidance may allow VA to detect dangerous cancers earlier while reducing harm from over-screening. He also stressed that VA protects genetic information with the strictest safeguards: “These data are password-protected, encrypted… only people with a right to access it can do so.”
-
-  ## Looking ahead at the future of genomic medicine
-
-  Looking ahead, Vassy believes [genomic medicine](https://news.va.gov/?s=genomic+medicine) will increasingly shape preventive care as technology advances and costs fall. He encourages Veterans to start by learning their family history and talking with their providers about potential genetic risks, noting, “Genetics is just another tool in the toolbox for how to manage a concern you bring to your provider.”
-
-  Veterans can explore opportunities to participate in ongoing research and learn more about genomic testing throughout VA’s national programs.
-
-  https://share.transistor.fm/e/225e89c7#?secret=2e3IPD1Gvs
+images: []
+locations:
+- King County
 source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143709/future-veteran-health-dr-vassy-genomic-medicine/
 summarized: true

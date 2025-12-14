@@ -4,8 +4,6 @@ images: []
 location: North Seattle
 locations:
 - King County
-original_markdown_body: Introduction of Route 77 providing a direct link to Sound
-  Transit’s new light rail station at 130th Street and I-5.
 source: City of Seattle
 source_url: https://sdotblog.seattle.gov/2025/12/11/connecting-lake-city-transit-30th-ave-ne-project/
 start_date: '2026-01-01T00:00:00-08:00'

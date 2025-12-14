@@ -3,18 +3,14 @@ date: '2025-12-11T23:00:13+00:00'
 events:
 - 2026-01-01-launch-of-route-77
 events_extracted: true
+feed_content: 'Blog stats: 500 words | 3-minute read Good news for Lake City! New
+  transportation connections are coming your way next year. King County Metro will
+  launch the new Route 77, giving North Seattle residents a more direct link to Sound
+  Transit’s new P...'
+feed_content_checksum: '02494e22a4bd95c902292f60ea661f81591f08b3'
 images: []
 locations:
 - King County
-original_content: 'Blog stats: 500 words | 3-minute read Good news for Lake City!
-  New transportation connections are coming your way next year. King County Metro
-  will launch the new Route 77, giving North Seattle residents a more direct link
-  to Sound Transit’s new P...'
-original_content_checksum: '02494e22a4bd95c902292f60ea661f81591f08b3'
-original_markdown_body: 'Blog stats: 500 words | 3-minute read Good news for Lake
-  City! New transportation connections are coming your way next year. King County
-  Metro will launch the new Route 77, giving North Seattle residents a more direct
-  link to Sound Transit’s new P...'
 rss_guid: https://sdotblog.seattle.gov/?p=37984
 source: City of Seattle
 source_url: https://sdotblog.seattle.gov/2025/12/11/connecting-lake-city-transit-30th-ave-ne-project/

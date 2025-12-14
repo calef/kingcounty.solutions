@@ -1,11 +1,7 @@
 ---
 end_date: '2025-12-17T18:00:00-08:00'
-images: []
-location: Together Center, 16305 NE 87th St, Redmond, WA, 98052, United States
-locations:
-- King County
-original_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <div> <span>
-  Event Series: </span> <a> <span> Pride Across the Bridge </span> </a> </div> <h1>Pride
+feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <div> <span> Event
+  Series: </span> <a> <span> Pride Across the Bridge </span> </a> </div> <h1>Pride
   Across the Bridge</h1> <div> <div> <span>December 17 @ 4:00 pm</span> - <span>6:00
   pm</span> </div> <span>Free</span> </div> <div> <div> <p>Open Hours! An opportunity
   to come and talk to the leadership of PAB, ask questions, share your needs, or learn
@@ -32,20 +28,11 @@ original_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <div> <s
   <h3><a>Essentials First Redmond Distribution Location</a></h3> <span>December 11
   @ 10:00 am</span> - <span>2:00 pm</span> </div> </li> </ul> </div> </div> </section>
   </div>"
-original_content_checksum: d938d52d8d08011c2615b4be0ad03fe2e446f98d
-original_markdown_body: "« All Events    Event Series:    Pride Across the Bridge
-  \   Pride Across the Bridge   December 17 @ 4:00 pm - 6:00 pm  Free    Open Hours!
-  An opportunity to come and talk to the leadership of PAB, ask questions, share your
-  needs, or learn more. Stop by for some coffee, tea, and chat!         Google Calendar
-  \    iCalendar     Outlook 365     Outlook Live           Details    Date:   December
-  17     Time:   4:00 pm - 6:00 pm    Series:    Pride Across the Bridge    Cost:
-  \ Free    Event Category: Open Office Hours   Website:  https://prideacrossthebridge.org/
-  \     Organizer   Pride Across the Bridge    Phone   (971) 380-5873     Email   info@prideacrossthebridge.org
-  \    View Organizer Website         Venue    Together Center     16305 NE 87th St
-  Redmond, WA 98052 United States  + Google Map    Phone  4258696699     View Venue
-  Website       Related Events    Pride Across the Bridge December 10 @ 4:00 pm -
-  6:00 pm     ARCH December 11 @ 10:00 am - 2:00 pm     Essentials First Redmond Distribution
-  Location December 11 @ 10:00 am - 2:00 pm"
+feed_content_checksum: d938d52d8d08011c2615b4be0ad03fe2e446f98d
+images: []
+location: Together Center, 16305 NE 87th St, Redmond, WA, 98052, United States
+locations:
+- King County
 published: false
 source: Together Center
 source_url: https://togethercenter.org/event/pride-across-the-bridge-2/2025-12-17/

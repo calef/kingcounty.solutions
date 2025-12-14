@@ -1,13 +1,10 @@
 ---
 date: '2025-12-04T09:21:17-08:00'
+feed_content: TACOMA - From 8 a.m. to 7 p.m. Saturday, Dec. 13, Washington State Department
+  of Transportation maintenance crews will close the two left westbound lanes across
+  the bridge for pothole repiars.
 images: []
 locations: []
-original_content: TACOMA - From 8 a.m. to 7 p.m. Saturday, Dec. 13, Washington State
-  Department of Transportation maintenance crews will close the two left westbound
-  lanes across the bridge for pothole repiars.
-original_markdown_body: TACOMA - From 8 a.m. to 7 p.m. Saturday, Dec. 13, Washington
-  State Department of Transportation maintenance crews will close the two left westbound
-  lanes across the bridge for pothole repiars.
 published: false
 source: Washington State Department of Transportation
 source_url: https://wsdot.wa.gov/about/news/2025/tacoma-narrows-bridge-repair-requires-daytime-westbound-lane-closures-saturday-dec-13

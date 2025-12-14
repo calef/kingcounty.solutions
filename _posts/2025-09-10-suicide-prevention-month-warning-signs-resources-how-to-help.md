@@ -2,10 +2,7 @@
 date: '2025-09-10T20:54:30+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- Snoqualmie Valley
-original_content: |-
+feed_content: |-
   September brings us the introduction to fall vibes, breaking out the cozy sweaters and for those who partake, the pumpkin spice. It is also our back-to-school season, with fresh books and new teachers and friends. With all the excitement of the changing seasons, it’s easy to forget that some people find these transitions stressful, scary, or even impossible.
 
   September is also Suicide Prevention Month, a reminder of the importance of mental health and strong communities.
@@ -50,6 +47,9 @@ original_content: |-
   - **Immediate help:** If you or your loved one is not safe, Call **911** or the **SVH Emergency Department** for psychiatric help and monitoring.
 
   The post [Suicide Prevention Month: Warning Signs, Resources & How to Help](https://snoqualmievalleyhealth.org/suicide-prevention-month-2/) appeared first on [Snoqualmie Valley Hospital](https://snoqualmievalleyhealth.org).
+images: []
+locations:
+- Snoqualmie Valley
 source: Hospital District No. 4 (Snoqualmie Valley Hospital)
 source_url: https://snoqualmievalleyhealth.org/suicide-prevention-month-2/
 summarized: true

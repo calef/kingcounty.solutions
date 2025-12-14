@@ -1,9 +1,6 @@
 ---
 date: '2025-12-12T18:00:37+00:00'
-images: []
-locations:
-- King County
-original_content: |-
+feed_content: |-
   <p>Each year we ask our staff across the library for their favorite books published in the current year. Below you will find some of the fiction books that stood out to library staff in 2025. Find the full list of staff faves in our catalog: <a>Seattle Staff Faves 2025: Fiction, Part 1</a> and <a>Seattle Staff Faves 2025: Fiction, Part 2</a>.</p>
   <p><a>Malinalli</a> by Veronica Chapa<br>
   Malinalli is a complicated figure in history, known as an interpreter who assisted conquistadors in Mexico, but Chapa’s haunting debut novel gives her a new story. Booklist says, “this novel is a must-read for fans of magical realism and stories that challenge traditional views of history.”</p>
@@ -19,37 +16,10 @@ original_content: |-
   Here in the Pacific Northwest, we get regular reminders about the “Big One,” a catastrophic earthquake that will have a major and life-changing structural impact on the region. Author Pattee vividly imagines this frightening scenario, focusing on a pregnant woman in Portland whose world shifts in a moment when she’s on a routine shopping trip to IKEA.</p>
   <p>The word “tilt” may also refer to your to-be-read pile after reviewing our staff faves! Happy reading!</p>
   <p><em>~ posted by Eric G.</em></p>
-original_content_checksum: 9adf025264cac1f9566ab564f266b84d19ccc840
-original_markdown_body: "Each year we ask our staff across the library for their favorite
-  books published in the current year. Below you will find some of the fiction books
-  that stood out to library staff in 2025. Find the full list of staff faves in our
-  catalog: Seattle Staff Faves 2025: Fiction, Part 1 and Seattle Staff Faves 2025:
-  Fiction, Part 2.\n\nMalinalli by Veronica Chapa  \nMalinalli is a complicated figure
-  in history, known as an interpreter who assisted conquistadors in Mexico, but Chapa’s
-  haunting debut novel gives her a new story. Booklist says, “this novel is a must-read
-  for fans of magical realism and stories that challenge traditional views of history.”\n\nCrawl
-  by Max Delsohn  \nDelsohn recently visited the Seattle Public Library to discuss
-  this sharp and humorous short story collection, which explores the transmasculine
-  experience in 2010s Seattle. In a starred review, Kirkus called Delsohn’s debut
-  “entrancing” and “a no-skips collection.”\n\nA Palace Near the Wind by Ai Jiang
-  \ \nA princess from the wild land of Feng, a home to tree people, must marry a human
-  king to appease the human government’s desire for more land. However, the princess
-  has other ideas. Nebula Award-winning author Jiang’s atmospheric fantasy is the
-  first installment of a duology.\n\nMurder at Gulls Nest by Jess Kidd  \nKidd’s new
-  cozy mystery series kicks off with a large cast of likeable characters in 1950s
-  Kent, England. A nun who has recently asked to be released from her vows aims to
-  solve both a murder and the mysterious disappearance of her friend.\n\nUnsex Me
-  Here by Aurora Mattia  \nAuthor Mattia spans genres in this surrealist short story
-  collection featuring queer and transgender characters who explore desire and sexual
-  attraction. Staff member Eliza says “Mattia is one of the most lush and descriptive
-  writers I’ve ever read” and that “she is truly writing a new queer mythology.”\n\nTilt
-  by Emma Pattee  \nHere in the Pacific Northwest, we get regular reminders about
-  the “Big One,” a catastrophic earthquake that will have a major and life-changing
-  structural impact on the region. Author Pattee vividly imagines this frightening
-  scenario, focusing on a pregnant woman in Portland whose world shifts in a moment
-  when she’s on a routine shopping trip to IKEA.\n\nThe word “tilt” may also refer
-  to your to-be-read pile after reviewing our staff faves! Happy reading!\n\n_~ posted
-  by Eric G._"
+feed_content_checksum: 9adf025264cac1f9566ab564f266b84d19ccc840
+images: []
+locations:
+- King County
 published: false
 rss_guid: https://blog.spl.org/?p=93469
 source: The Seattle Public Library

@@ -2,11 +2,7 @@
 date: '2025-12-01T23:19:53+00:00'
 events: []
 events_extracted: true
-images:
-- bac2132fad8b97a7cff2984bd9e67e54815ee9bc0e93fce0b1d1e9cbbc3d11ba
-locations:
-- Bellevue
-original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">City
+feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">City
   survey seeks input on priorities for 2027–28 budget</span>\n<span class=\"field
   field--name-uid field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/ciosso\"
   typeof=\"schema:Person\" property=\"schema:name\" datatype>CIosso</span></span>\n<span
@@ -65,40 +61,10 @@ original_content: "<span class=\"field field--name-title field--type-string fiel
   \     \n\n            <div class=\"field field--name-field-article-date field--type-datetime
   field--label-hidden field__item\"><time datetime=\"2025-12-01T12:00:00Z\" class=\"datetime\">December
   1 2025</time>\n</div>\n      \n    </div>\n  </div>"
-original_markdown_body: |-
-  City survey seeks input on priorities for 2027–28 budgetCIosso<time datetime="2025-12-01T15:19:53-08:00" title="Monday, December 1, 2025 - 15:19" class="datetime">Mon, 12/01/2025 - 15:19</time>
-
-   ![City Hall as seen from 112th Avenue Northeast](https://bellevuewa.gov/sites/default/files/styles/article_featured_image/public/media/article_featured_image/2020-12/City%20Hall%20112th.jpg?h=7fb2964e&itok=hyAqf0rf)
-
-  The City of Bellevue is asking for input on the current state of the city and future needs to ensure the next two-year budget reflects the needs and perspectives of Bellevue community members. The [survey](https://insights.reconmr.com/isurveys/BEL009/cgi-bin/ciwweb.pl?hid_studyname=Bellevue2025BudgetSurvey&hid_pagenum=1&SurveyID=OP3NPAG3&source=20&hid_link=1&hid_javascript=1&hid_screenwidth=1920) will be open until Wednesday, Dec. 31.
-
-  Every two years, the city reaches out directly to a randomly selected group of residents to complete a budget survey. The city supplements the random-sample survey with a survey open to all who live, work or visit Bellevue, with the same questions in multiple languages, helping the city ensure more demographic groups are reached. &nbsp;
-
-  Community members are asked to provide input on a variety of topics including:&nbsp;
-
-  - Priority outcomes for the city budget
-  - Importance and satisfaction ratings for city services and facilities
-  - Overall perceptions of life in Bellevue &nbsp;
-
-  Read more about past [budget surveys](https://bellevuewa.gov/city-government/departments/finance/budget-and-performance/performance-reports/budget-survey "Budget Survey"), including results. More information about the next biennium budget and [ways to provide additional input](https://bellevuewa.gov/city-government/departments/finance/budget-and-performance/budgets/public-involvement "Budget Public Involvement") will be shared in early 2026.
-
-  La ciudad de Bellevue desea conocer su opinión sobre el presupuesto de Bellevue para 2027-28. Para acceder a la encuesta en su idioma, visite el sitio web de la [encuesta](https://insights.reconmr.com/isurveys/BEL009/cgi-bin/ciwweb.pl?hid_studyname=Bellevue2025BudgetSurvey&hid_pagenum=1&SurveyID=OP3NPAG3&source=20&hid_link=1&hid_javascript=1&hid_screenwidth=1920).
-
-  ベルビュー市では、2027～2028年度予算に関する皆様のご意見を伺いたいと考えております。ご希望の言語でアンケートにアクセスするには、[調査](https://insights.reconmr.com/isurveys/BEL009/cgi-bin/ciwweb.pl?hid_studyname=Bellevue2025BudgetSurvey&hid_pagenum=1&SurveyID=OP3NPAG3&source=20&hid_link=1&hid_javascript=1&hid_screenwidth=1920) ウェブサイトにアクセスする.
-
-  2027-2028 벨뷰 시 예산에 대한 여러분의 의견을 환영합니다. 원하시는 언어로 설문조사에 참여하시려면 설문[조사](https://insights.reconmr.com/isurveys/BEL009/cgi-bin/ciwweb.pl?hid_studyname=Bellevue2025BudgetSurvey&hid_pagenum=1&SurveyID=OP3NPAG3&source=20&hid_link=1&hid_javascript=1&hid_screenwidth=1920) 웹사이트를 방문하세요.
-
-  Администрация города Белвью хотела бы узнать Ваше мнение по поводу бюджета Белвью на 2027–28 год. Чтобы получить доступ к опросу на Вашем языке, посетите сайт [опроса](https://insights.reconmr.com/isurveys/BEL009/cgi-bin/ciwweb.pl?hid_studyname=Bellevue2025BudgetSurvey&hid_pagenum=1&SurveyID=OP3NPAG3&source=20&hid_link=1&hid_javascript=1&hid_screenwidth=1920).
-
-  Thành Phố Bellevue muốn nhận được phản hồi của quý vị về ngân sách năm 2027-2028 của Bellevue. Để truy cập khảo sát bằng ngôn ngữ của quý vị, truy cập [trang web khảo sát](https://insights.reconmr.com/isurveys/BEL009/cgi-bin/ciwweb.pl?hid_studyname=Bellevue2025BudgetSurvey&hid_pagenum=1&SurveyID=OP3NPAG3&source=20&hid_link=1&hid_javascript=1&hid_screenwidth=1920).
-
-  贝尔维尤市政府（City of Bellevue）希望就该市 2027-28 年的预算征求您的反馈。要使用您的语言参与调查，[访问调查网站](https://insights.reconmr.com/isurveys/BEL009/cgi-bin/ciwweb.pl?hid_studyname=Bellevue2025BudgetSurvey&hid_pagenum=1&SurveyID=OP3NPAG3&source=20&hid_link=1&hid_javascript=1&hid_screenwidth=1920)。
-
-  貝爾維尤市歡迎您分享對於 2027-28 年度市政預算的回饋意見。欲以您的語言接受意見調查，[訪問調查網站](https://insights.reconmr.com/isurveys/BEL009/cgi-bin/ciwweb.pl?hid_studyname=Bellevue2025BudgetSurvey&hid_pagenum=1&SurveyID=OP3NPAG3&source=20&hid_link=1&hid_javascript=1&hid_screenwidth=1920)。
-
-  _For alternate formats, interpreters or reasonable accommodations, please phone at least 48 hours in advance 425-452-6944 or email [mphillips@bellevuewa.gov](mailto:mphillips@bellevuewa.gov). For complaints regarding accommodations, contact the City of Bellevue ADA, Title VI and equal opportunity officer at 425-452-6168 (voice).&nbsp;_
-
-  <time datetime="2025-12-01T12:00:00Z" class="datetime">December 1 2025</time>
+images:
+- bac2132fad8b97a7cff2984bd9e67e54815ee9bc0e93fce0b1d1e9cbbc3d11ba
+locations:
+- Bellevue
 source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/budget-survey-25
 summarized: true

@@ -2,10 +2,7 @@
 date: '2025-01-12T21:39:46+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: |-
+feed_content: |-
   Governor-elect Bob Ferguson creates transition committee to prepare for potential harms of “Project 2025"
 
   Publish Date
@@ -33,6 +30,9 @@ original_content: |-
   **About Governor-Elect Bob Ferguson** &nbsp;
 
   Bob Ferguson has dedicated his career to serving the people. He is completing his third term as Washington State's Attorney General. He is committed to improving government and building a stronger future by focusing on key issues such as public safety, health care costs and housing affordability, child care, education, and economic growth.&nbsp;
+images: []
+locations:
+- King County
 source: State Executive Branch
 source_url: https://governor.wa.gov/news/2024/governor-elect-bob-ferguson-creates-transition-committee-prepare-potential-harms-project-2025
 summarized: true

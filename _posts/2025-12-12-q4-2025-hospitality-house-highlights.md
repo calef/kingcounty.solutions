@@ -2,15 +2,14 @@
 date: '2025-12-12T19:06:27+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- South King County
-original_content: |-
+feed_content: |-
   <div>
   <object></object><a>Q4 2025-1</a><a>Download</a>
   </div>
-original_content_checksum: 1746e0c26f43724b304ecea28ed0135e9f7e69be
-original_markdown_body: "<object></object>Q4 2025-1Download"
+feed_content_checksum: 1746e0c26f43724b304ecea28ed0135e9f7e69be
+images: []
+locations:
+- South King County
 rss_guid: https://hospitalityhousesouthking.org/?p=3951
 source: Hospitality House
 source_url: https://hospitalityhousesouthking.org/q4-2025-hospitality-house-highlights/

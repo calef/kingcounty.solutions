@@ -4,8 +4,6 @@ images: []
 location: Broadway and Pine, Capitol Hill
 locations:
 - King County
-original_markdown_body: Celebration for the completion of the Constellation Center,
-  a collaborative project addressing youth homelessness.
 published: false
 source: Community Roots Housing
 source_url: https://communityrootshousing.org/2025/02/youthcare-constellation-center/

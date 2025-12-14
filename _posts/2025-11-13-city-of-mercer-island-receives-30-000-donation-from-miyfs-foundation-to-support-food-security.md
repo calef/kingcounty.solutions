@@ -2,19 +2,15 @@
 date: '2025-11-13T16:37:17-08:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div
+feed_content: <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div
   class="field-items"><div class="field-item even" property="content:encoded"><p><span><span><span>The
   City of Mercer Island has received a generous, one-time donation of $30,000 from
   the Mercer Island Youth and Family Services (MIYFS) Foundation to bolster food security
   efforts and mitigate the impact of recent federal reductions to the Supplemental
   Nutrition Assistance Program (SNAP).</span></span></span></p></div></div></div>
-original_markdown_body: The City of Mercer Island has received a generous, one-time
-  donation of $30,000 from the Mercer Island Youth and Family Services (MIYFS) Foundation
-  to bolster food security efforts and mitigate the impact of recent federal reductions
-  to the Supplemental Nutrition Assistance Program (SNAP).
+images: []
+locations:
+- King County
 source: City of Mercer Island
 source_url: https://www.mercerisland.gov/yfs/page/city-mercer-island-receives-30000-donation-miyfs-foundation-support-food-security
 summarized: true

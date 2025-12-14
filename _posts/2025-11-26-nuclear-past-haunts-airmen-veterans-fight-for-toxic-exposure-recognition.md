@@ -2,11 +2,7 @@
 date: '2025-11-26T14:45:18+00:00'
 events: []
 events_extracted: true
-images:
-- 53f1d8f6219b06261156dab116b0a7e36a3d2ed8981b2fe0ac16e12ebfd3bf07
-locations:
-- King County
-original_content: "<div class=\"editor clearfix\">\n\n    \n    <figure id=\"attachment_48533\"
+feed_content: "<div class=\"editor clearfix\">\n\n    \n    <figure id=\"attachment_48533\"
   aria-describedby=\"caption-attachment-48533\" style=\"width: 300px\" class=\"wp-caption
   alignleft\"><img decoding=\"async\" class=\"wp-image-48533\" src=\"https://www.dav.org/wp-content/uploads/David_Crete_LandingPage.jpg\"
   alt=\"\" width=\"300\" height=\"450\" srcset=\"https://www.dav.org/wp-content/uploads/David_Crete_LandingPage.jpg
@@ -52,31 +48,10 @@ original_content: "<div class=\"editor clearfix\">\n\n    \n    <figure id=\"att
   post <a href=\"https://www.dav.org/learn-more/news/2025/nuclear-past-haunts-airmen-veterans-fight-for-toxic-exposure-recognition/\">Nuclear
   past haunts airmen: Veterans fight for toxic exposure recognition</a> appeared first
   on <a href=\"https://www.dav.org\">DAV</a>.</p>"
-original_markdown_body: |-
-  ![](https://www.dav.org/wp-content/uploads/David_Crete_LandingPage.jpg)
-  _David Crete_
-
-  Air Force veteran David Crete didn’t think much of the small, painful lump he discovered beneath his skin years after leaving the service. But when that lump grew to the size of a grapefruit—pressing against his spine and requiring surgical removal—he began to fear something far more serious was at play.
-
-  This was the painful reality for Crete and many other service members who had served at the Nevada Test and Training Range (NTTR), a massive, 2.9-million-acre military complex and the largest uninterrupted air and ground space available globally for peacetime operations. Today it supports crucial combat readiness training using live munitions, but NTTR’s history includes decades of intense toxic contamination.
-
-  The contamination began on Jan. 27, 1951, with the first atmospheric nuclear test. A total of 100 atmospheric tests were conducted until July 1962. The U.S. then moved testing underground, conducting 828 additional tests until a moratorium was announced in 1992.
-
-  Over those four decades, thousands of service members worked and trained across the NTTR, none of whom were ever officially told they’d served in a contaminated area. Many of those veterans later developed severe, adverse health issues they attribute to radiation and other toxic exposure.
-
-  When the PACT Act was signed in 2022, [Crete attempted to file for disability compensation for his conditions based on toxic exposure](https://www.dav.org/learn-more/news/2024/radiation-exposure-denied-due-to-top-secret-location/), but he was denied.
-
-  The reason? The VA and Department of Defense do not officially recognize NTTR as a toxic exposure location.
-
-  DAV National Service Director Scott Hope said that while the PACT Act provided relief for many veterans harmed by burn pits, “it did not include all known military toxic exposures, nor did it adequately reform the presumption-making process to address all current and future exposures in a timely manner.”
-
-  To close this gap, Nevada Senators Jacky Rosen and Catherine Cortez Masto introduced S. 2220, the [Fighting for Overlooked Recognition of Groups Operating in Toxic Test Environments in Nevada (FORGOTTEN) Veterans Act](https://dav.quorum.us/campaign/148178/). This bill aims to expand the recognition of toxic exposure and create new presumptions of service connection, with a specific focus on those who served at NTTR locations.
-
-  “The FORGOTTEN Veterans Act represents a crucial step toward keeping our promise to America’s veterans,” said DAV National Commander Coleman Nee. “For far too long, veterans exposed at domestic sites like NTTR have been forced to fight an uphill battle for health care and benefits. This bill not only provides justice but will [end the wait for these toxic-exposed veterans](https://www.dav.org/ending-the-wait/).”
-
-  For more updates on other major veterans’ legislation, join the Commander’s Action Network (DAV CAN) at [davcan.org](https://dav.quorum.us/home/).
-
-  The post [Nuclear past haunts airmen: Veterans fight for toxic exposure recognition](https://www.dav.org/learn-more/news/2025/nuclear-past-haunts-airmen-veterans-fight-for-toxic-exposure-recognition/) appeared first on [DAV](https://www.dav.org).
+images:
+- 53f1d8f6219b06261156dab116b0a7e36a3d2ed8981b2fe0ac16e12ebfd3bf07
+locations:
+- King County
 source: Disabled American Veterans
 source_url: https://www.dav.org/learn-more/news/2025/nuclear-past-haunts-airmen-veterans-fight-for-toxic-exposure-recognition/
 summarized: true

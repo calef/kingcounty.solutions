@@ -1,9 +1,8 @@
 ---
 date: '2025-11-19T00:00:00-08:00'
+feed_content: <summary type="html"></summary>
 images: []
 locations: []
-original_content: <summary type="html"></summary>
-original_markdown_body: ''
 published: false
 source: Rootstock Northwest
 source_url: https://rootstocknw.org/2025/11/19/fundraiser.html

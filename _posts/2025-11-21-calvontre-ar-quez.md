@@ -2,10 +2,7 @@
 date: '2025-11-21T21:31:02+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: "<div  class=\"wpb_row vc_row vc_row-fluid  mk-fullwidth-false  attched-false
+feed_content: "<div  class=\"wpb_row vc_row vc_row-fluid  mk-fullwidth-false  attched-false
   \    js-master-row \">\n\t\t\n\t\t\t\n<div style=\"\" class=\"vc_col-sm-12 wpb_column
   column_container  _ height-full\">\n\t\t<div class=\" vc_custom_1764014851872\">\n\n<div
   id=\"text-block-1\" class=\"mk-text-block   \">\n\n\t\n\t<p>Ms. White is a lifelong
@@ -29,14 +26,9 @@ original_content: "<div  class=\"wpb_row vc_row vc_row-fluid  mk-fullwidth-false
   Clinic</a>.</p><p>The post <a rel=\"nofollow\" href=\"https://www.boyercc.org/family-stories/calvontre-arquez/\">Calvontre
   &#038; Ar&#8217;Quez</a> appeared first on <a rel=\"nofollow\" href=\"https://www.boyercc.org\">Boyer
   Children&#039;s Clinic</a>.</p>"
-original_markdown_body: |-
-  Ms. White is a lifelong resident of Seattle’s Central District, born in the very house where she now lives with her children, Apraisjah and Calvontre, and her grandson, Ar’Quez. Theirs is a remarkable second-generation Boyer story: Calvontre was born prematurely and without hearing. He received Early Services during his earliest years, and Ms. White credits Boyer with giving him the strong foundation he needed to succeed. When Calvontre was a toddler, surgery restored his hearing, and he has only continued to thrive. Now a recent high school graduate, he’s preparing to begin his next chapter at Central Washington University.
-
-  When Ar’Quez’s mom, Apraisjah, noticed some developmental delays, the family got back in touch with Boyer. Today Ar’Quez receives home visits from his care team, including Nancy (Occupational Therapist), Stella (Speech Therapist), Emily (Early Childhood Educator) and Mike (Family Resources Coordinator). When speaking about his nephew receiving care at Boyer, Calvontre says, “I know he’s in good hands!” Ms. Whitebeams with pride when describing his curiosity and eagerness to try new things. “I’m most excited to watch Ar’Quez grow!” she says.
-
-  The post [Calvontre & Ar’Quez](https://www.boyercc.org/family-stories/calvontre-arquez/) first appeared on [Boyer Children's Clinic](https://www.boyercc.org).
-
-  The post [Calvontre & Ar’Quez](https://www.boyercc.org/family-stories/calvontre-arquez/) appeared first on [Boyer Children's Clinic](https://www.boyercc.org).
+images: []
+locations:
+- King County
 source: Boyer Children's Clinic
 source_url: https://www.boyercc.org/family-stories/calvontre-arquez/
 summarized: true

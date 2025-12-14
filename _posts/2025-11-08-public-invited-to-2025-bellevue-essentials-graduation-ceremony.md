@@ -1,8 +1,6 @@
 ---
 date: '2025-11-08T00:00:32+00:00'
-images: []
-locations: []
-original_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Public
+feed_content: "<span class=\"field field--name-title field--type-string field--label-hidden\">Public
   invited to 2025 Bellevue Essentials graduation ceremony </span>\n<span class=\"field
   field--name-uid field--type-entity-reference field--label-hidden\"><span lang about=\"https://bellevuewa.gov/users/arich\"
   typeof=\"schema:Person\" property=\"schema:name\" datatype>ARich</span></span>\n<span
@@ -55,28 +53,8 @@ original_content: "<span class=\"field field--name-title field--type-string fiel
   \     \n\n            <div class=\"field field--name-field-article-date field--type-datetime
   field--label-hidden field__item\"><time datetime=\"2025-11-07T12:00:00Z\" class=\"datetime\">November
   7 2025</time>\n</div>\n      \n    </div>\n  </div>"
-original_markdown_body: |-
-  Public invited to 2025 Bellevue Essentials graduation ceremony ARich<time datetime="2025-11-07T16:00:32-08:00" title="Friday, November 7, 2025 - 16:00" class="datetime">Fri, 11/07/2025 - 16:00</time>
-
-   ![Photo of Kevin P. Henry, Bellevue Essentials graduation speaker](https://bellevuewa.gov/sites/default/files/styles/article_featured_image/public/media/article_featured_image/2025-11/cd-11072025-bellevueessentials-graduation-speaker-photo.png?h=279a6be1&itok=BfTi3OHh)
-
-  ## Keynote address by former city diversity leader Kevin P. Henry&nbsp;
-
-  With a keynote address from former City of Bellevue diversity, equity and inclusion leader Kevin P. Henry, Bellevue will celebrate the 2025 graduating class from Bellevue Essentials, the city’s introductory program to civic engagement.
-
-  In his address, “The True Leader in All of Us,” Henry will inspire the 36 new graduates by sharing his experiences and expertise in creating communities and relationship-building with new communities. He’ll also share insights on emerging leaders, belonging and discovering Bellevue’s diverse communities. &nbsp;
-
-  For 20 years, Henry worked for the City of Bellevue to shape its approach to diversity, equity and inclusion efforts. During his tenure, Henry designed trainings, produced educational videos, organized public forums and launched and hosted the “Voices of Diversity” radio program, which elevated diverse community perspectives. His work fostering dialogue and connection across cultures helped lay the foundation for Bellevue’s reputation as an inclusive and welcoming city.
-
-  After leaving the city in 2015, Henry continued to serve in leadership and communications roles in several states, always maintaining an emphasis on equity and community engagement. He has partnered with organizations in the public and nonprofit sectors, bringing a Bellevue-grounded understanding of how diversity and inclusion help to strengthen communities. &nbsp;
-
-  The Bellevue Essentials graduation ceremony and dessert reception will take place at City Hall on Wednesday, Nov. 19, 7-9 p.m. This celebration is open to the public and provides community members a chance to learn more about the program. Register for the reception at [BellevueWA.gov/bellevue-essentials](https://bellevuewa.gov/city-government/departments/community-development/neighborhoods/classes-and-events/bellevue-essentials "go to page").
-
-  Over the last 13 years, the Bellevue Essentials program has inspired more than 400 community members to learn about their city and become civically engaged. During the ceremony, this year’s class speaker Cosmos Darwin will also share his own Bellevue Essentials experience. He has lived in downtown Bellevue since 2015 and works as a product manager for Microsoft.
-
-  Bellevue Essentials' next class starts in September 2026. For updates on the application period that opens next spring or other program information, visit the city’s [Bellevue Essentials](https://bellevuewa.gov/city-government/departments/community-development/neighborhoods/classes-and-events/bellevue-essentials "go to page") webpage.&nbsp;
-
-  <time datetime="2025-11-07T12:00:00Z" class="datetime">November 7 2025</time>
+images: []
+locations: []
 published: false
 source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/public-invited-2025-bellevue-essentials-graduation-ceremony

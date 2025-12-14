@@ -1,8 +1,6 @@
 ---
 date: '2025-10-09T16:00:00+00:00'
-images: []
-locations: []
-original_content: |-
+feed_content: |-
   By Steven Schauer, Deputy Executive Director
 
   On August 11 and 12, 2025, the King County Flood Control District (KCFCD), together with King County as service provider, successfully completed the [Momb Revetment 2020 Repair Project](https://kingcounty.gov/en/dept/dnrp/nature-recreation/environment-ecology-conservation/flood-services/capital-projects-studies/momb-revetment-repair-project) on Issaquah Creek. This important project provides flood risk reduction for residents, roads, and utilities in the Cedar Grove community while also supporting fish habitat in Issaquah Creek.
@@ -54,6 +52,8 @@ original_content: |-
   The project demonstrates the KCFCD’s commitment to safeguarding critical infrastructure, supporting public safety, and enhancing the natural environment.
 
   The post [Protecting Homes and Roads: Momb Revetment 2020 Repair Project Completed](https://kingcountyfloodcontrol.org/protecting-homes-and-roads-momb-revetment-2020-repair-project-completed/) appeared first on [King County Flood Control District](https://kingcountyfloodcontrol.org).
+images: []
+locations: []
 published: false
 source: King County Flood Control District
 source_url: https://kingcountyfloodcontrol.org/protecting-homes-and-roads-momb-revetment-2020-repair-project-completed/?utm_source=rss&utm_medium=rss&utm_campaign=protecting-homes-and-roads-momb-revetment-2020-repair-project-completed

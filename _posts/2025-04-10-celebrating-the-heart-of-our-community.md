@@ -2,10 +2,7 @@
 date: '2025-04-10T18:12:58+00:00'
 events: []
 events_extracted: true
-images: []
-locations:
-- King County
-original_content: |-
+feed_content: |-
   The Sophia Way began with a small group of compassionate individuals who saw a need and took action. Their commitment built more than programs – they created a place of hope and change for women experiencing homelessness. Many of those early volunteers are still with us today, continuing to walk alongside the women we serve. We honor their dedication and the many who have since joined this journey.
 
   We know we ask a lot of you, and yet, you continue to show up. As our mission becomes more urgent, we feel the momentum of this incredible community in action. From the thoughtful meals lovingly prepared, to the donation drives you host, the hours spent organizing items, supporting staff during mealtimes, and showing up for women every day – you are creating lasting change.
@@ -35,6 +32,9 @@ original_content: |-
   Thank you to our Wednesday volunteers for making a big difference in just a few short hours.
 
   The post [Celebrating the Heart of Our Community](https://sophiaway.org/celebrating-volunteers/) first appeared on [The Sophia Way](https://sophiaway.org).
+images: []
+locations:
+- King County
 source: The Sophia Way
 source_url: https://sophiaway.org/celebrating-volunteers/?utm_source=rss&utm_medium=rss&utm_campaign=celebrating-volunteers
 summarized: true
