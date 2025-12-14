@@ -4,8 +4,8 @@ require_relative '../logging'
 require_relative '../front_matter/document'
 
 module Mayhem
-  module Content
-    class LocationRepository
+  module Locations
+    class Repository
       LOCATIONS_DIR = '_locations'
 
       def initialize(
@@ -55,18 +55,14 @@ module Mayhem
       def filter_to_highest_level(titles, locations)
         return titles if titles.empty?
 
-        # Build a map of title to location for easy lookup
         title_to_location = locations.each_with_object({}) do |loc, hash|
           hash[loc[:title]] = loc
         end
 
-        # For each location, check if any of its ancestors are also in the list
-        # If so, remove the child location
         titles.reject do |title|
           location = title_to_location[title]
           next false unless location
 
-          # Walk up the parent chain to see if any ancestor is in the titles list
           has_ancestor_in_list = false
           current_parent = location[:parent_place]
 
@@ -76,7 +72,6 @@ module Mayhem
               break
             end
 
-            # Move to the next level up
             parent_location = title_to_location[current_parent]
             current_parent = parent_location ? parent_location[:parent_place] : nil
           end

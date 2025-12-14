@@ -2,7 +2,7 @@
 
 require_relative '../../test_helper'
 require 'minitest/autorun'
-require_relative '../../../lib/mayhem/content/location_classifier'
+require_relative '../../../lib/mayhem/locations/classifier'
 
 class LocationClassifierTest < Minitest::Test
   class FakeLogger
@@ -49,11 +49,11 @@ class LocationClassifierTest < Minitest::Test
 
   def build_classifier(client_response:)
     client = FakeChatClient.new(response: client_response)
-    location_repository = Mayhem::Content::LocationRepository.new(
+    location_repository = Mayhem::Locations::Repository.new(
       locations_dir: @tmp_locations,
       logger: @logger
     )
-    Mayhem::Content::LocationClassifier.new(
+    Mayhem::Locations::Classifier.new(
       location_repository: location_repository,
       client: client,
       logger: @logger,
@@ -117,11 +117,11 @@ class LocationClassifierTest < Minitest::Test
     client = FakeChatClient.new(
       response: { 'choices' => [{ 'message' => { 'content' => '["Seattle"]' } }] }
     )
-    location_repository = Mayhem::Content::LocationRepository.new(
+    location_repository = Mayhem::Locations::Repository.new(
       locations_dir: @tmp_locations,
       logger: @logger
     )
-    classifier = Mayhem::Content::LocationClassifier.new(
+    classifier = Mayhem::Locations::Classifier.new(
       location_repository: location_repository,
       client: client,
       logger: @logger,
@@ -151,11 +151,11 @@ class LocationClassifierTest < Minitest::Test
       { 'choices' => [{ 'message' => { 'content' => '["Seattle"]' } }] }
     end
 
-    location_repository = Mayhem::Content::LocationRepository.new(
+    location_repository = Mayhem::Locations::Repository.new(
       locations_dir: @tmp_locations,
       logger: @logger
     )
-    classifier = Mayhem::Content::LocationClassifier.new(
+    classifier = Mayhem::Locations::Classifier.new(
       location_repository: location_repository,
       client: client,
       logger: @logger,

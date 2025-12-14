@@ -5,7 +5,7 @@ require 'set'
 require 'tmpdir'
 require 'time'
 require_relative '../../test_helper'
-require 'mayhem/content/image_cleanup'
+require 'mayhem/images/cleanup'
 require 'mayhem/front_matter/document'
 require 'mayhem/logging'
 
@@ -19,7 +19,7 @@ class ImageCleanupTest < Minitest::Test
     FileUtils.mkdir_p(@images_dir)
     FileUtils.mkdir_p(@assets_dir)
     @logger = Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL', default_level: 'FATAL')
-    @cleanup = Mayhem::Content::ImageCleanup.new(
+    @cleanup = Mayhem::Images::Cleanup.new(
       posts_dir: @posts_dir,
       images_dir: @images_dir,
       assets_dir: @assets_dir,

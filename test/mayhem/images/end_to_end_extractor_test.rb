@@ -5,11 +5,11 @@ require 'tmpdir'
 require 'fileutils'
 require_relative '../../test_helper'
 require_relative '../../../lib/mayhem/logging'
-require_relative '../../../lib/mayhem/content/content_image_extractor'
+require_relative '../../../lib/mayhem/images/extractor'
 require_relative '../../../lib/mayhem/front_matter/document'
 
 module News
-  class ContentImageExtractorTest < Minitest::Test
+  class ImageExtractorEndToEndTest < Minitest::Test
     def test_updates_post_with_downloaded_image
       Dir.mktmpdir do |dir|
         posts_dir = File.join(dir, 'posts')
@@ -34,7 +34,7 @@ module News
           MD
         )
 
-        extractor = Mayhem::Content::ContentImageExtractor.new(
+        extractor = Mayhem::Images::Extractor.new(
           posts_dir: posts_dir,
           image_docs_dir: images_dir,
           asset_dir: assets_dir,
@@ -86,7 +86,7 @@ module News
           MD
         )
 
-        extractor = Mayhem::Content::ContentImageExtractor.new(
+        extractor = Mayhem::Images::Extractor.new(
           posts_dir: posts_dir,
           events_dir: events_dir,
           image_docs_dir: images_dir,
@@ -132,7 +132,7 @@ module News
           MD
         )
 
-        extractor = Mayhem::Content::ContentImageExtractor.new(
+        extractor = Mayhem::Images::Extractor.new(
           posts_dir: posts_dir,
           events_dir: nil,
           image_docs_dir: images_dir,

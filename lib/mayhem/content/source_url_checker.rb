@@ -3,7 +3,7 @@
 require_relative '../logging'
 require_relative '../content/content_pruner'
 require_relative '../front_matter/document'
-require_relative 'http_status_resolver'
+require_relative '../support/http_status_resolver'
 
 module Mayhem
   module Content
@@ -29,7 +29,7 @@ module Mayhem
         @events_dir = events_dir
         @logger = logger
         @user_agent = user_agent
-        @http_status_resolver = http_status_resolver || HttpStatusResolver.new(
+        @http_status_resolver = http_status_resolver || Mayhem::Support::HttpStatusResolver.new(
           logger: @logger,
           user_agent: @user_agent,
           http_client: http_client

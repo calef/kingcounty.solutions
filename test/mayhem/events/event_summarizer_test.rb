@@ -4,7 +4,7 @@ require_relative '../../test_helper'
 require 'minitest/autorun'
 require 'nokogiri'
 require 'time'
-require_relative '../../../lib/mayhem/summarizer/event_summarizer'
+require_relative '../../../lib/mayhem/events/event_summarizer'
 
 class EventSummarizerTest < Minitest::Test
   class FakeLogger

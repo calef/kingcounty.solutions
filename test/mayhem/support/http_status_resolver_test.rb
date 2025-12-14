@@ -1,10 +1,10 @@
 # frozen_string_literal: true
 
 require_relative '../../test_helper'
-require 'mayhem/content/http_status_resolver'
 require 'mayhem/logging'
+require 'mayhem/support/http_status_resolver'
 
-class HttpStatusResolverTest < Minitest::Test
+class SupportHttpStatusResolverTest < Minitest::Test
   def setup
     @logger = Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL', default_level: 'FATAL')
   end
@@ -48,7 +48,7 @@ class HttpStatusResolverTest < Minitest::Test
   private
 
   def build_resolver(**kwargs)
-    Mayhem::Content::HttpStatusResolver.new(
+    Mayhem::Support::HttpStatusResolver.new(
       logger: @logger,
       **kwargs
     )

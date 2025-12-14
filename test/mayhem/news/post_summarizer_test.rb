@@ -2,7 +2,7 @@
 
 require_relative '../../test_helper'
 require 'minitest/autorun'
-require_relative '../../../lib/mayhem/summarizer/post_summarizer'
+require_relative '../../../lib/mayhem/news/post_summarizer'
 
 class PostSummarizerTest < Minitest::Test
   def setup

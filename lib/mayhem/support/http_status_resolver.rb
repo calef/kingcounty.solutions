@@ -2,10 +2,10 @@
 
 require 'uri'
 
-require_relative '../support/http_client'
+require_relative 'http_client'
 
 module Mayhem
-  module Content
+  module Support
     class HttpStatusResolver
       MAX_REDIRECTS = 5
       DEFAULT_TIMEOUT = 10

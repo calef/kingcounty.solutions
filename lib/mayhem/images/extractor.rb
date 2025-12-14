@@ -11,8 +11,8 @@ require_relative '../support/http_client'
 require_relative '../feed/discovery'
 
 module Mayhem
-  module Content
-    class ContentImageExtractor
+  module Images
+    class Extractor
       IMAGE_DOCS_DIR = '_images'
       POSTS_DIR = '_posts'
       EVENTS_DIR = '_events'

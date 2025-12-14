@@ -5,9 +5,9 @@ require 'fileutils'
 require 'mini_magick'
 require 'uri'
 require 'minitest/autorun'
-require_relative '../../../lib/mayhem/content/content_image_extractor'
+require_relative '../../../lib/mayhem/images/extractor'
 
-class ContentImageExtractorTest < Minitest::Test
+class ImageExtractorUnitTest < Minitest::Test
   class DummyHttp
     attr_accessor :response
 
@@ -29,7 +29,7 @@ class ContentImageExtractorTest < Minitest::Test
     @tmp_assets = Dir.mktmpdir('assets')
     @tmp_images = Dir.mktmpdir('images')
     @http = DummyHttp.new
-    @extractor = Mayhem::Content::ContentImageExtractor.new(
+    @extractor = Mayhem::Images::Extractor.new(
       posts_dir: @tmp_posts,
       events_dir: nil,
       image_docs_dir: @tmp_images,

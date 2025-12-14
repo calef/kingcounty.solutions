@@ -2,7 +2,7 @@
 
 require_relative '../../test_helper'
 require 'minitest/autorun'
-require_relative '../../../lib/mayhem/content/location_repository'
+require_relative '../../../lib/mayhem/locations/repository'
 
 class LocationRepositoryTest < Minitest::Test
   class FakeLogger
@@ -41,7 +41,7 @@ class LocationRepositoryTest < Minitest::Test
     write_location('seattle', { 'title' => 'Seattle', 'type' => 'City' }, 'The city of Seattle')
     write_location('bellevue', { 'title' => 'Bellevue', 'type' => 'City' }, 'The city of Bellevue')
 
-    repository = Mayhem::Content::LocationRepository.new(
+    repository = Mayhem::Locations::Repository.new(
       locations_dir: @tmp_locations,
       logger: @logger
     )
@@ -55,7 +55,7 @@ class LocationRepositoryTest < Minitest::Test
   def test_all_caches_results
     write_location('seattle', { 'title' => 'Seattle', 'type' => 'City' }, 'The city of Seattle')
 
-    repository = Mayhem::Content::LocationRepository.new(
+    repository = Mayhem::Locations::Repository.new(
       locations_dir: @tmp_locations,
       logger: @logger
     )
@@ -73,7 +73,7 @@ class LocationRepositoryTest < Minitest::Test
       { title: 'King County', type: 'County', parent_place: nil }
     ]
 
-    repository = Mayhem::Content::LocationRepository.new(
+    repository = Mayhem::Locations::Repository.new(
       locations_dir: @tmp_locations,
       logger: @logger
     )
@@ -92,7 +92,7 @@ class LocationRepositoryTest < Minitest::Test
     ]
     titles = ['Snoqualmie Valley', 'Snoqualmie']
 
-    repository = Mayhem::Content::LocationRepository.new(
+    repository = Mayhem::Locations::Repository.new(
       locations_dir: @tmp_locations,
       logger: @logger
     )
@@ -110,7 +110,7 @@ class LocationRepositoryTest < Minitest::Test
     ]
     titles = ['Snoqualmie', 'North Bend']
 
-    repository = Mayhem::Content::LocationRepository.new(
+    repository = Mayhem::Locations::Repository.new(
       locations_dir: @tmp_locations,
       logger: @logger
     )
@@ -121,7 +121,7 @@ class LocationRepositoryTest < Minitest::Test
   end
 
   def test_filter_to_highest_level_handles_empty_list
-    repository = Mayhem::Content::LocationRepository.new(
+    repository = Mayhem::Locations::Repository.new(
       locations_dir: @tmp_locations,
       logger: @logger
     )

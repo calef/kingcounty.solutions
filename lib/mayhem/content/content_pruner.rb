@@ -2,7 +2,7 @@
 
 require 'fileutils'
 
-require_relative 'image_cleanup'
+require_relative '../images/cleanup'
 require_relative '../front_matter/document'
 
 module Mayhem
@@ -21,7 +21,7 @@ module Mayhem
         @posts_dir = posts_dir
         @events_dir = events_dir
         @logger = logger
-        @image_cleanup = image_cleanup || ImageCleanup.new(
+        @image_cleanup = image_cleanup || Mayhem::Images::Cleanup.new(
           posts_dir: posts_dir,
           events_dir: events_dir,
           images_dir: images_dir,

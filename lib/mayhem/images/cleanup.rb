@@ -5,8 +5,8 @@ require 'fileutils'
 require_relative '../front_matter/document'
 
 module Mayhem
-  module Content
-    class ImageCleanup
+  module Images
+    class Cleanup
       attr_reader :posts_dir, :events_dir, :images_dir, :assets_dir
 
       def initialize(posts_dir:, images_dir:, assets_dir:, logger:, events_dir: nil)

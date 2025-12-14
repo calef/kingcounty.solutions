@@ -6,12 +6,12 @@ require 'open-uri'
 require 'ruby/openai'
 require_relative '../logging'
 require_relative '../news/topic_classifier'
-require_relative '../content/location_classifier'
+require_relative '../locations/classifier'
 require_relative '../content/content_pruner'
 require_relative '../front_matter/document'
 require_relative '../support/http_client'
 require_relative '../feed/discovery'
-require_relative 'helpers'
+require_relative '../summarizer/helpers'
 
 module Mayhem
   module News
@@ -62,7 +62,7 @@ module Mayhem
                               logger: @logger
                             )
         @location_classifier = location_classifier ||
-                               Mayhem::Content::LocationClassifier.new(
+                               Mayhem::Locations::Classifier.new(
                                  client: @client,
                                  logger: @logger
                                )

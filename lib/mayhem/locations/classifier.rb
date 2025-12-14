@@ -2,11 +2,11 @@
 
 require 'ruby/openai'
 require_relative '../logging'
-require_relative 'location_repository'
+require_relative 'repository'
 
 module Mayhem
-  module Content
-    class LocationClassifier
+  module Locations
+    class Classifier
       DEFAULT_MODEL = ENV.fetch('OPENAI_LOCATION_MODEL', ENV.fetch('OPENAI_MODEL', 'gpt-4o-mini'))
 
       def initialize(
@@ -15,7 +15,7 @@ module Mayhem
         model: DEFAULT_MODEL,
         logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL')
       )
-        @location_repository = location_repository || LocationRepository.new(logger: logger)
+        @location_repository = location_repository || Repository.new(logger: logger)
         @model = model
         @client = client || ::OpenAI::Client.new(access_token: ENV.fetch('OPENAI_API_KEY'))
         @logger = logger
@@ -94,7 +94,6 @@ module Mayhem
       end
 
       def parse_location_response(response, locations)
-        # Try to extract JSON array from response
         json_match = response.match(/\[.*\]/m)
         return [] unless json_match
 
@@ -102,11 +101,9 @@ module Mayhem
           titles = JSON.parse(json_match[0])
           return [] unless titles.is_a?(Array)
 
-          # Validate that returned titles exist in our locations
           valid_titles = locations.map { |loc| loc[:title] }
           matched_titles = titles.select { |title| valid_titles.include?(title) }.uniq
 
-          # Filter to only highest-level locations in hierarchy
           @location_repository.filter_to_highest_level(matched_titles, locations)
         rescue JSON::ParserError => e
           @logger.warn "Failed to parse location response as JSON: #{e.message}"
