@@ -22,9 +22,14 @@ module Mayhem
 
       # Public helper that normalizes a Markdown string according to the tidy rules.
       def tidy_markdown(content)
-        result = Mayhem::FrontMatter::Document.parse(content)
-        normalized_body = normalize_body(result.body, result.front_matter)
-        Mayhem::FrontMatter::Document.build_markdown(result.front_matter, normalized_body)
+        parsed = parse_markdown(content)
+        normalized_body = normalize_body(parsed[:body], parsed[:front_matter])
+
+        if parsed[:has_front_matter]
+          Mayhem::FrontMatter::Document.build_markdown(parsed[:front_matter], normalized_body)
+        else
+          ensure_trailing_newline(normalized_body)
+        end
       end
 
       def ensure_header_spacing(body)
@@ -32,6 +37,34 @@ module Mayhem
       end
 
       private
+
+      def parse_markdown(content)
+        result = Mayhem::FrontMatter::Document.parse(content)
+        {
+          front_matter: result.front_matter,
+          body: result.body,
+          raw: result.raw,
+          has_front_matter: true
+        }
+      rescue Mayhem::FrontMatter::Document::ParseError => e
+        raise unless missing_front_matter?(e)
+
+        {
+          front_matter: {},
+          body: content,
+          raw: content,
+          has_front_matter: false
+        }
+      end
+
+      def ensure_trailing_newline(content)
+        content = content.to_s
+        content.end_with?("\n") ? content : "#{content}\n"
+      end
+
+      def missing_front_matter?(error)
+        error.message =~ /missing front matter/i
+      end
 
       def normalize_body(body, front_matter)
         spacing_target = ensure_body_title(result_title(front_matter), body)

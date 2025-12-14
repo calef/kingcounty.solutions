@@ -127,4 +127,30 @@ class FrontMatterTidierTest < Minitest::Test
     assert @tidier.send(:titles_match?, 'Great News!', '  Great News ')
     refute @tidier.send(:titles_match?, 'Different', 'Great News')
   end
+
+  def test_tidy_markdown_without_front_matter_preserves_body_only
+    original = <<~MD
+      **Standalone Title**
+
+      Body paragraph.
+    MD
+
+    result = @tidier.tidy_markdown(original)
+
+    refute_match(/\A---/, result)
+    assert_includes result, "## Standalone Title\n\nBody paragraph.\n"
+  end
+
+  def test_tidy_updates_files_without_front_matter
+    Dir.mktmpdir do |dir|
+      file = File.join(dir, 'plain.md')
+      File.write(file, "Just body text")
+
+      @tidier.tidy(file)
+
+      content = File.read(file)
+      refute_match(/\A---/, content)
+      assert_equal "Just body text\n", content
+    end
+  end
 end
