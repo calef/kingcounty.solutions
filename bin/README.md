@@ -31,21 +31,22 @@ Set `locked: true` in a post or event's front matter to freeze it in place. Impo
 
 ### `mayhem audit-topics`
 
-**Purpose**
+#### Purpose
+
 Reviews each `_organizations/*.md` file's topics using `_topics/` metadata plus up to `--max-posts` recent news posts, letting OpenAI classify topics as `true`, `false`, or `unclear`. Can output a JSON report and optionally rewrite `topics` front matter entries.
 
-**Usage**
+#### Usage
 
 - `mayhem audit-topics [--model MODEL] [--max-posts N] [--force] [--output report.json] [--apply]`
 
-**Key env/config**
+#### Key env/config
 
 - `OPENAI_API_KEY` – required.
 - `OPENAI_TOPIC_AUDIT_MODEL` – overrides the default `gpt-4o-mini`.
 - `LOG_LEVEL` – logging level shared by all scripts (`TRACE`, `DEBUG`, `INFO`, `WARN`, `ERROR`, or `FATAL`; default `WARN`). Raise to `INFO` to see per-organization progress and summaries.
 - Caches per-organization responses under `.jekyll-cache/topic_audit/`; `--force` bypasses cache.
 
-**Behavior notes**
+#### Behavior notes
 
 - Without `--apply`, the script only logs or writes the audit report results.
 - When `--apply` is supplied, it edits each organization file by removing unsupported topics and appending new ones suggested by the audit, keeping the list sorted and unique.
@@ -53,14 +54,15 @@ Reviews each `_organizations/*.md` file's topics using `_topics/` metadata plus 
 
 ### `mayhem new-organization`
 
-**Purpose**
+#### Purpose
+
 Scrapes a single organization website (following same-host links) and asks OpenAI to draft front matter and a short summary, then writes a new `_organizations/<slug>.md` entry.
 
-**Usage**
+#### Usage
 
 - `mayhem new-organization URL`
 
-**Key env/config**
+#### Key env/config
 
 - `OPENAI_API_KEY` – required.
 - `OPENAI_ORG_MODEL` – overrides the default `gpt-4o-mini`.
@@ -69,7 +71,7 @@ Scrapes a single organization website (following same-host links) and asks OpenA
 - `ORG_SCRAPER_TIMEOUT` – HTTP open/read timeout in seconds (default 10).
 - `LOG_LEVEL` – logging level shared by all scripts (`TRACE`, `DEBUG`, `INFO`, `WARN`, `ERROR`, or `FATAL`; default `WARN`). Set to `INFO` to see skip reasons and newly created paths.
 
-**Behavior notes**
+#### Behavior notes
 
 - Skips creation if an existing `_organizations/*.md` already lists the same normalized `website`.
 - Crawls up to the configured page limit on the target host, strips nav/scripts, and feeds truncated text to the LLM along with allowed topics/types inferred from existing files.
@@ -79,14 +81,15 @@ Scrapes a single organization website (following same-host links) and asks OpenA
 
 ### `generate-weekly-summary`
 
-**Purpose**
+#### Purpose
+
 Builds an editorial roundup post for the current week (Saturday–Friday window) by clustering `_posts/` entries into themes, drafting a Markdown article with OpenAI, and saving it back into `_posts/` under the ending Saturday's date.
 
-**Usage**
+#### Usage
 
 - `bin/generate-weekly-summary`
 
-**Key env/config**
+#### Key env/config
 
 - `OPENAI_API_KEY` – required.
 - `OPENAI_MODEL` – overrides the default `gpt-4o-mini`.
@@ -94,7 +97,7 @@ Builds an editorial roundup post for the current week (Saturday–Friday window)
 - `WEEKLY_DATE` – optional `YYYY-MM-DD` anchor date to regenerate a specific week.
 - `LOG_LEVEL` – logging level shared by all scripts (`TRACE`, `DEBUG`, `INFO`, `WARN`, `ERROR`, or `FATAL`; default `WARN`). Raise to `INFO` for creation notices and fallback explanations.
 
-**Behavior notes**
+#### Behavior notes
 
 - Builds a "theme plan" JSON via one LLM call, then passes that plan plus post metadata into a second prompt that produces the final article (with themed sections and optional "Other updates").
 - Falls back to a deterministic, non-LLM summary if either call fails.
@@ -102,21 +105,22 @@ Builds an editorial roundup post for the current week (Saturday–Friday window)
 
 ### `mayhem extract-images`
 
-**Purpose**
+#### Purpose
+
 Downloads images referenced in each post or event `original_markdown_body`, renames them to their SHA256 checksum plus extension, writes `_images/<checksum>.md` entries, and stores the related image checksums back into the source front matter.
 
-**Usage**
+#### Usage
 
 - `mayhem extract-images`
 
-**Key env/config**
+#### Key env/config
 
 - `IMAGE_OPEN_TIMEOUT` – HTTP open timeout in seconds (default 10).
 - `IMAGE_READ_TIMEOUT` – HTTP read timeout in seconds (default 30).
 - `IMAGE_MIN_DIMENSION` – minimum width/height in pixels for WebP conversions (default 300). Assets smaller than this threshold are skipped.
 - `LOG_LEVEL` – logging level shared by all scripts (`TRACE`, `DEBUG`, `INFO`, `WARN`, `ERROR`, or `FATAL`; default `WARN`). Use `INFO` to see per-post updates and run summaries.
 
-**Behavior notes**
+#### Behavior notes
 
 - Skips entries without `original_markdown_body` or without image references; supports Markdown `![]()` and `<img>` tags with `http/https` sources.
 - Skips entries that already have an `images` front matter attribute; intended for one-time population.
@@ -129,14 +133,15 @@ Downloads images referenced in each post or event `original_markdown_body`, rena
 
 ### `mayhem import-content`
 
-**Purpose**
+#### Purpose
+
 Runs the RSS news importer and the iCal events importer so `_posts/` and `_events/` reflect the latest partner updates declared in `_organizations/*.md`. This is the primary script for ingesting content.
 
-**Usage**
+#### Usage
 
 - `mayhem import-content`
 
-**Key env/config**
+#### Key env/config
 
 - Honors each organization's `news_rss_url`, `events_ical_url`, and metadata when creating posts/events.
 - Skips RSS items older than `rss_max_item_age_days` (configured in `_config.yml`, default 365) days ago.
@@ -145,7 +150,7 @@ Runs the RSS news importer and the iCal events importer so `_posts/` and `_event
 - `ICAL_WORKERS` – thread count for the events importer (default 6); lower it if feed endpoints are sensitive.
 - `LOG_LEVEL` – logging level shared by both importers (`TRACE`, `DEBUG`, `INFO`, `WARN`, `ERROR`, or `FATAL`; default `WARN`). Use `INFO` to surface per-feed/per-organization summaries.
 
-**Behavior notes**
+#### Behavior notes
 
 - News import: normalizes and validates each RSS item URL before writing `_posts/`, skips duplicates already present in front matter, scrapes article bodies when the feed lacks `content:encoded`, and saves the upstream HTML in `feed_content` with a `feed_content_checksum`.
 - Events import: scans every `_organizations/*.md` with `events_ical_url`, downloads each calendar, skips events that are missing metadata, in the past, or too far in the future, normalizes canonical URLs to avoid duplicates, fetches event body content when possible, and writes `_events/<date>-<slug>.md` with `feed_content`/`feed_content_checksum` copies.
@@ -155,20 +160,21 @@ Runs the RSS news importer and the iCal events importer so `_posts/` and `_event
 
 ### `mayhem extract-events`
 
-**Purpose**
+#### Purpose
+
 Analyzes news posts to identify event announcements using LLM, creates corresponding event entries in `_events/`, and cross-links posts to their generated events. Designed for organizations that publish event announcements in their news feeds but don't provide iCal feeds.
 
-**Usage**
+#### Usage
 
 - `mayhem extract-events`
 
-**Key env/config**
+#### Key env/config
 
 - `OPENAI_API_KEY` – required.
 - `OPENAI_EVENT_EXTRACTION_MODEL` – overrides the default `gpt-4o-mini`.
 - `LOG_LEVEL` – logging level shared by all scripts (`TRACE`, `DEBUG`, `INFO`, `WARN`, `ERROR`, or `FATAL`; default `WARN`). Use `INFO` to see per-post extraction progress.
 
-**Behavior notes**
+#### Behavior notes
 
 - Only processes posts in `_posts/` whose front matter has `summarized: true`; unsummarized entries are skipped so you can summarize first.
 - Processes **all** posts in `_posts/` directory, skipping only those marked with `locked: true`, `published: false`, or `events_extracted: true`.
@@ -181,18 +187,19 @@ Analyzes news posts to identify event announcements using LLM, creates correspon
 
 ### `mayhem expire`
 
-**Purpose**
+#### Purpose
+
 Deletes `_posts/*.md` (and their referenced `_images/*.md` metadata plus any `assets/images/<hash>.*` files) whose `date` front matter falls outside of the configured window, then removes `_events/*.md` entries whose `start_date` is earlier than the current time.
 
-**Usage**
+#### Usage
 
  - `mayhem expire`
 
-**Key env/config**
+#### Key env/config
 
  - `content_max_age_days` – configured in `_config.yml`, defaults to 365. The script honors this value and silently skips content that is already within the threshold.
 
-**Behavior notes**
+#### Behavior notes
 
  - Loads `_config.yml` for `content_max_age_days`; missing or invalid values fall back to 365 days.
  - Removes posts older than the threshold, then deletes referenced `_images/` metadata files and any assets named after those image checksums (e.g., `assets/images/<hash>.webp`) unless another post still references the same checksum.
@@ -202,32 +209,34 @@ Deletes `_posts/*.md` (and their referenced `_images/*.md` metadata plus any `as
 
 ### `mayhem ls-models`
 
-**Purpose**
+#### Purpose
+
 Simple helper that echoes every model ID visible to the configured OpenAI account—useful for confirming newer `gpt-4o` variants.
 
-**Usage**
+#### Usage
 
 - `mayhem ls-models`
 
-**Key env/config**
+#### Key env/config
 
 - `OPENAI_API_KEY` – required.
 - `LOG_LEVEL` – logging level shared by all scripts (`TRACE`, `DEBUG`, `INFO`, `WARN`, `ERROR`, or `FATAL`; default `WARN`). Set to `INFO` to see the model list.
 
-**Behavior notes**
+#### Behavior notes
 
 - Returns one line per model and exits; no other arguments are supported.
 
 ### `mayhem summarize`
 
-**Purpose**
+#### Purpose
+
 Runs both news and event summarizers so `_posts/` and `_events/` files missing `summarized: true` gain a concise Markdown summary while keeping the original Markdown body in front matter. Both content types also receive automatic topic classification when the `topics` array is empty.
 
-**Usage**
+#### Usage
 
 - `mayhem summarize`
 
-**Key env/config**
+#### Key env/config
 
 - `OPENAI_API_KEY` – required.
 - `OPENAI_MODEL` – overrides the default `gpt-4o-mini` for news summaries (and topic classification defaults).
@@ -235,7 +244,7 @@ Runs both news and event summarizers so `_posts/` and `_events/` files missing `
 - `OPENAI_TOPIC_MODEL` – optional override for the topic classifier (defaults to `OPENAI_MODEL` when unset).
 - `LOG_LEVEL` – logging level shared by all scripts (`TRACE`, `DEBUG`, `INFO`, `WARN`, `ERROR`, or `FATAL`; default `WARN`). Use `INFO` to see update summaries without surfacing all warnings.
 
-**Behavior notes**
+#### Behavior notes
 
 - Processes news posts first, preserving any existing body as `original_markdown_body`, fetching the source article (20k character cap) when available, generating a summary, and classifying topics if needed (marking `published: false` when no topics match).
 - Runs through `_events/` afterward, pulling article text either from the remote source or stored body, generating an event-focused summary, classifying topics when missing, and flagging the event as unpublished if no topics apply.
@@ -245,14 +254,15 @@ Runs both news and event summarizers so `_posts/` and `_events/` files missing `
 
 ### `mayhem tidy`
 
-**Purpose**
+#### Purpose
+
 Enforces a tidy YAML front-matter block for Markdown files so other scripts can process a consistent format.
 
-**Usage**
+#### Usage
 
 - `mayhem tidy PATH...`
 
-**Behavior notes**
+#### Behavior notes
 
 - `PATH` accepts a single Markdown file or directory; directories are processed recursively.
 - The tidier sorts YAML keys alphabetically, trims duplicate delimiters, and leaves a single blank line between the closing `---` and the Markdown body.
