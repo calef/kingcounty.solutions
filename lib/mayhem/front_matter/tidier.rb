@@ -68,6 +68,7 @@ module Mayhem
 
       def normalize_body(body, front_matter)
         spacing_target = ensure_body_title(result_title(front_matter), body)
+        spacing_target = convert_emphasis_headings(spacing_target)
         ensure_header_spacing(spacing_target)
       end
 
@@ -89,12 +90,50 @@ module Mayhem
         lines.join
       end
 
+      def convert_emphasis_headings(body)
+        lines = body.to_s.each_line.to_a
+        current_heading_level = 0
+        in_fenced_code = false
+
+        lines.each_with_index do |line, index|
+          stripped = line.strip
+
+          if stripped.start_with?('```', '~~~')
+            in_fenced_code = !in_fenced_code
+            next
+          end
+          next if in_fenced_code
+
+          heading_level = heading_level_for_line(stripped)
+          if heading_level
+            current_heading_level = heading_level
+            next
+          end
+
+          emphasized_title = extract_emphasized_title(stripped)
+          next unless emphasized_title
+
+          new_level = [current_heading_level + 1, 6].min
+          lines[index] = "#{'#' * new_level} #{emphasized_title}\n"
+          current_heading_level = new_level
+        end
+
+        lines.join
+      end
+
       def extract_emphasized_title(line)
         stripped = line.to_s.strip
         match = stripped.match(/\A(\*{1,3}|_{1,3})(.+?)\1\z/)
         return unless match
 
         match[2].strip
+      end
+
+      def heading_level_for_line(line)
+        match = line.match(/\A\s{0,3}(#+)\s+/)
+        return unless match
+
+        match[1].length
       end
 
       def normalize_title(value)

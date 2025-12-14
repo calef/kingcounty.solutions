@@ -46,14 +46,20 @@ class FrontMatterTidierTest < Minitest::Test
     end
   end
 
-  def test_skips_invalid_front_matter
+  def test_skips_files_with_unparseable_front_matter
     Dir.mktmpdir do |dir|
       file = File.join(dir, 'broken.md')
-      File.write(file, 'No front matter here')
+      File.write(file, <<~MD)
+        ---
+        this: [is not valid
+      MD
 
       @tidier.tidy(file)
 
-      assert_equal 'No front matter here', File.read(file)
+      assert_equal <<~MD, File.read(file)
+        ---
+        this: [is not valid
+      MD
     end
   end
 
@@ -169,5 +175,51 @@ class FrontMatterTidierTest < Minitest::Test
     result = @tidier.tidy_markdown(original)
 
     assert_includes result, "Intro paragraph.\n\n| Col1 | Col2 |\n| ---- | ---- |\n| A    | B    |\n\nFollowing paragraph.\n"
+  end
+
+  def test_emphasis_under_header_converts_to_next_heading_level
+    original = <<~MD
+      ---
+      title: Nested Headers
+      ---
+      ### Parent
+      **Child Header**
+      Content line.
+    MD
+
+    result = @tidier.tidy_markdown(original)
+
+    assert_includes result, "### Parent\n\n#### Child Header\n\nContent line.\n"
+  end
+
+  def test_emphasis_without_parent_header_becomes_h1
+    original = <<~MD
+      ---
+      title: None
+      ---
+
+      _Standalone Section_
+      Text under it.
+    MD
+
+    result = @tidier.tidy_markdown(original)
+
+    assert_includes result, "# Standalone Section\n\nText under it.\n"
+  end
+
+  def test_emphasis_inside_code_block_is_ignored
+    original = <<~MD
+      ---
+      title: Code Block
+      ---
+
+      ```
+      **Not A Header**
+      ```
+    MD
+
+    result = @tidier.tidy_markdown(original)
+
+    assert_includes result, "```\n**Not A Header**\n```\n"
   end
 end
