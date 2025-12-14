@@ -15,6 +15,7 @@ end
 gem 'mini_magick'
 gem 'minitest'
 gem 'nokogiri'
+gem 'open-uri'
 gem 'reverse_markdown'
 gem 'rss'
 gem 'ruby-openai'
