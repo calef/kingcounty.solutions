@@ -624,9 +624,9 @@
   background: #f4f6f8;
   display: flex;
   flex-direction: column;
-  justify-content: center;
-  align-items: center;
-  padding: 1rem;
+  justify-content: flex-start;
+  align-items: stretch;
+  padding: 0;
 }
 
 .media-carousel-slide img {
@@ -636,6 +636,11 @@
   max-height: 100%;
   object-fit: contain;
   display: block;
+  flex: 1 1 auto;
+  align-self: center;
+  justify-self: center;
+  margin: auto 0;
+  padding: 1rem;
 }
 
 .media-carousel-slide img[src$=".svg"] {
@@ -652,6 +657,7 @@
   display: flex;
   flex-direction: column;
   gap: 0.25rem;
+  flex: 0 0 auto;
 }
 
 .media-carousel-caption-source {
