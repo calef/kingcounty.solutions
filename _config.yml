@@ -48,7 +48,7 @@ contact_form:
   action: "https://formsubmit.co/chris@crickertech.com"
   next: "/contact-thanks/"
   subject: "King County Solutions contact request"
-content_max_age_days: 365
+content_max_age_days: 180
 defaults:
   - scope:
       path: "_events"
