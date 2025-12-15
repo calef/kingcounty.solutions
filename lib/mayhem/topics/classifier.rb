@@ -5,20 +5,21 @@ require 'json'
 require_relative '../logging'
 require_relative '../openai/chat_client'
 require_relative '../front_matter/document'
+require_relative './repository'
 
 module Mayhem
   module Topics
     class Classifier
-      TOPIC_DIR = '_topics'
       DEFAULT_MODEL = ENV.fetch('OPENAI_TOPIC_MODEL', ENV.fetch('OPENAI_MODEL', 'gpt-5.1'))
       DEFAULT_TEMPERATURE = 0.2
 
-      def initialize(topic_dir: TOPIC_DIR, model: DEFAULT_MODEL, client: nil, chat_client: nil,
-                     logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'))
+      def initialize(topic_dir: nil, model: DEFAULT_MODEL, client: nil, chat_client: nil,
+                     logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'), topics_repository: nil)
         @topic_dir = topic_dir
         @model = model
         @logger = logger
         @chat_client = chat_client || Mayhem::OpenAI::ChatClient.new(client: client, logger: @logger)
+        @topics_repository = topics_repository || Mayhem::Topics::Repository.new(directory: @topic_dir || Mayhem::Topics::Repository::DEFAULT_DIR)
       end
 
       def classify(text)
@@ -81,7 +82,7 @@ module Mayhem
       private
 
       def load_topic_catalog
-        Dir.glob(File.join(@topic_dir, '*.md')).filter_map do |path|
+        @topics_repository.all_file_paths.filter_map do |path|
           doc = Mayhem::FrontMatter::Document.load(path, logger: @logger)
           next unless doc
 

@@ -4,15 +4,18 @@ require 'fileutils'
 
 require_relative '../front_matter/document'
 require_relative '../images/pruner'
+require_relative '../news/repository'
 
 module Mayhem
   module Events
     class Pruner
-      def initialize(posts_dir:, events_dir:, images_pruner:, logger:)
+      def initialize(posts_dir: nil, events_dir: nil, images_pruner:, logger:, posts_repository: nil, events_repository: nil)
         @posts_dir = posts_dir
         @events_dir = events_dir
         @images_pruner = images_pruner
         @logger = logger
+        @posts_repository = posts_repository || Mayhem::News::Repository.new(directory: @posts_dir || Mayhem::News::Repository::DEFAULT_DIR)
+        @events_repository = events_repository
       end
 
       def unpublish(path, document)
@@ -29,7 +32,7 @@ module Mayhem
       end
 
       def delete(path)
-        event_id = File.basename(path, '.md')
+        event_id = @events_repository ? @events_repository.basename(path) : File.basename(path, '.md')
         delete_file(path)
         prune_event_links([event_id])
       end
@@ -48,7 +51,7 @@ module Mayhem
         removed_set = removed_event_ids.to_set
         posts_updated = 0
 
-        Dir.glob(File.join(@posts_dir, '*.md')).each do |post_path|
+        @posts_repository.all_file_paths.each do |post_path|
           document = Mayhem::FrontMatter::Document.load(post_path, logger: @logger)
           next unless document
 

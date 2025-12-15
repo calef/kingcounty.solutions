@@ -5,13 +5,13 @@ require 'yaml'
 require 'fileutils'
 require_relative '../logging'
 require_relative '../front_matter/document'
+require_relative '../organizations/repository'
+require_relative '../topics/repository'
+require_relative '../news/repository'
 
 module Mayhem
   module Topics
     class OrganizationAudit
-      ORG_DIR = '_organizations'
-      TOPIC_DIR = '_topics'
-      POSTS_DIR = '_posts'
       CACHE_DIR = File.join('.jekyll-cache', 'topic_audit')
       DEFAULT_MODEL = ENV.fetch('OPENAI_TOPIC_AUDIT_MODEL', 'gpt-4o-mini')
       DEFAULT_MAX_POSTS = 5
@@ -23,11 +23,14 @@ module Mayhem
         force: false,
         output: nil,
         apply: false,
-        org_dir: ORG_DIR,
-        topic_dir: TOPIC_DIR,
-        posts_dir: POSTS_DIR,
+        org_dir: nil,
+        topic_dir: nil,
+        posts_dir: nil,
         cache_dir: CACHE_DIR,
-        logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL')
+        logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'),
+        organizations_repository: nil,
+        topics_repository: nil,
+        posts_repository: nil
       )
         @client = client
         @model = model
@@ -41,6 +44,9 @@ module Mayhem
         @cache_dir = cache_dir
         @logger = logger
         @report = []
+        @organizations_repository = organizations_repository || Mayhem::Organizations::Repository.new(directory: @org_dir || Mayhem::Organizations::Repository::DEFAULT_DIR)
+        @topics_repository = topics_repository || Mayhem::Topics::Repository.new(directory: @topic_dir || Mayhem::Topics::Repository::DEFAULT_DIR)
+        @posts_repository = posts_repository || Mayhem::News::Repository.new(directory: @posts_dir || Mayhem::News::Repository::DEFAULT_DIR)
       end
 
       def run
@@ -57,7 +63,7 @@ module Mayhem
       private
 
       def load_topics
-        Dir.glob(File.join(@topic_dir, '*.md')).each_with_object({}) do |path, acc|
+        @topics_repository.all_file_paths.each_with_object({}) do |path, acc|
           document = Mayhem::FrontMatter::Document.load(path, logger: @logger)
           next unless document
 
@@ -71,7 +77,7 @@ module Mayhem
       end
 
       def load_organizations
-        Dir.glob(File.join(@org_dir, '*.md')).filter_map do |path|
+        @organizations_repository.all_file_paths.filter_map do |path|
           document = Mayhem::FrontMatter::Document.load(path, logger: @logger)
           next unless document
 
@@ -88,7 +94,7 @@ module Mayhem
       end
 
       def load_recent_posts(org_title)
-        cached_posts = Dir.glob(File.join(@posts_dir, '**', '*.md')).filter_map do |path|
+        cached_posts = @posts_repository.all_file_paths.filter_map do |path|
           document = Mayhem::FrontMatter::Document.load(path, logger: @logger)
           next unless document
 
@@ -290,7 +296,8 @@ module Mayhem
       end
 
       def default_title(path)
-        File.basename(path, '.md').tr('-', ' ')
+        filename = @organizations_repository.basename(path)
+        filename.tr('-', ' ')
       end
     end
   end

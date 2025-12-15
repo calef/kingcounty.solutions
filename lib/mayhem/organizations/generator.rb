@@ -12,12 +12,12 @@ require_relative '../feed/discovery'
 require_relative '../front_matter/slug_generator'
 require_relative '../support/http_client'
 require_relative '../support/url_utils'
+require_relative './repository'
+require_relative '../topics/repository'
 
 module Mayhem
   module Organizations
     class Generator
-      ORG_DIR = '_organizations'
-      TOPIC_DIR = '_topics'
       DEFAULT_TYPE = 'Community-Based Organization'
       MAX_PAGES = Integer(ENV.fetch('ORG_SCRAPER_MAX_PAGES', 5))
       PAGE_SNIPPET = Integer(ENV.fetch('ORG_SCRAPER_PAGE_SNIPPET', 3000))
@@ -25,12 +25,14 @@ module Mayhem
       OPENAI_MODEL = ENV.fetch('OPENAI_ORG_MODEL', 'gpt-4o-mini')
 
       def initialize(
-        org_dir: ORG_DIR,
-        topic_dir: TOPIC_DIR,
+        org_dir: nil,
+        topic_dir: nil,
         client: nil,
         feed_finder: nil,
         http_client: nil,
-        logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL')
+        logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'),
+        organizations_repository: nil,
+        topics_repository: nil
       )
         @org_dir = org_dir
         @topic_dir = topic_dir
@@ -38,6 +40,8 @@ module Mayhem
         @client = client || OpenAI::Client.new(access_token: ENV.fetch('OPENAI_API_KEY'))
         @http = http_client || Mayhem::Support::HttpClient.new(timeout: READ_TIMEOUT, logger: @logger)
         @feed_finder = feed_finder || default_feed_finder
+        @organizations_repository = organizations_repository || Mayhem::Organizations::Repository.new(directory: @org_dir || Mayhem::Organizations::Repository::DEFAULT_DIR)
+        @topics_repository = topics_repository || Mayhem::Topics::Repository.new(directory: @topic_dir || Mayhem::Topics::Repository::DEFAULT_DIR)
       end
 
       def run(raw_url)
@@ -110,7 +114,7 @@ module Mayhem
       end
 
       def load_existing_websites
-        Dir.glob(File.join(@org_dir, '*.md')).each_with_object(Set.new) do |path, set|
+        @organizations_repository.all_file_paths.each_with_object(Set.new) do |path, set|
           doc = Mayhem::FrontMatter::Document.load(path, logger: @logger)
           next unless doc
 
@@ -122,7 +126,7 @@ module Mayhem
       end
 
       def load_existing_types
-        Dir.glob(File.join(@org_dir, '*.md')).each_with_object(Set.new) do |path, set|
+        @organizations_repository.all_file_paths.each_with_object(Set.new) do |path, set|
           doc = Mayhem::FrontMatter::Document.load(path, logger: @logger)
           next unless doc
 
@@ -182,7 +186,7 @@ module Mayhem
       end
 
       def load_topics
-        Dir.glob(File.join(@topic_dir, '*.md')).filter_map do |path|
+        @topics_repository.all_file_paths.filter_map do |path|
           doc = Mayhem::FrontMatter::Document.load(path, logger: @logger)
           next unless doc
 
@@ -235,7 +239,7 @@ module Mayhem
       def ensure_unique_slug(base)
         slug = base
         idx = 1
-        while File.exist?(File.join(@org_dir, "#{slug}.md"))
+        while File.exist?(@organizations_repository.file_path(slug))
           slug = "#{base}-#{idx}"
           idx += 1
         end
@@ -309,8 +313,8 @@ module Mayhem
       end
 
       def write_organization_file(slug, front_matter, body)
-        FileUtils.mkdir_p(@org_dir)
-        path = File.join(@org_dir, "#{slug}.md")
+        FileUtils.mkdir_p(@organizations_repository.directory)
+        path = @organizations_repository.file_path(slug)
         document = Mayhem::FrontMatter::Document.new(
           path: path,
           front_matter: front_matter,

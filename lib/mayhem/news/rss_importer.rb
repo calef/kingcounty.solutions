@@ -20,6 +20,8 @@ require_relative '../content/article_body_selectors'
 require_relative '../feed/discovery'
 require_relative '../front_matter/publish_guard'
 require_relative '../content/html_normalizer'
+require_relative './repository'
+require_relative '../organizations/repository'
 
 module Mayhem
   module News
@@ -28,8 +30,6 @@ module Mayhem
 
       MAX_ITEM_AGE_DAYS = 365
       MAX_FILENAME_BYTES = 255
-      DEFAULT_NEWS_DIR = '_posts'
-      DEFAULT_SOURCES_DIR = '_organizations'
       DEFAULT_MAX_WORKERS = begin
         Integer(ENV.fetch('RSS_WORKERS', '6'))
       rescue StandardError
@@ -57,8 +57,8 @@ module Mayhem
       ].freeze
 
       def initialize(
-        news_dir: DEFAULT_NEWS_DIR,
-        sources_dir: DEFAULT_SOURCES_DIR,
+        news_dir: nil,
+        sources_dir: nil,
         logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'),
         workers: DEFAULT_MAX_WORKERS,
         open_timeout: DEFAULT_OPEN_TIMEOUT,
@@ -66,7 +66,9 @@ module Mayhem
         http_client: nil,
         fetch_retries: DEFAULT_FETCH_RETRIES,
         max_item_age_days: nil,
-        config_path: DEFAULT_CONFIG_PATH
+        config_path: DEFAULT_CONFIG_PATH,
+        news_repository: nil,
+        sources_repository: nil
       )
         @news_dir = news_dir
         @sources_dir = sources_dir
@@ -75,9 +77,11 @@ module Mayhem
         @open_timeout = open_timeout
         @read_timeout = read_timeout
         @fetch_retries = fetch_retries
+        @news_repository = news_repository || Mayhem::News::Repository.new(directory: @news_dir || Mayhem::News::Repository::DEFAULT_DIR)
+        @sources_repository = sources_repository || Mayhem::Organizations::Repository.new(directory: @sources_dir || Mayhem::Organizations::Repository::DEFAULT_DIR)
         @existing_posts = build_existing_post_index
         @existing_lock = Mutex.new
-        FileUtils.mkdir_p(@news_dir)
+        FileUtils.mkdir_p(@news_repository.directory)
         @http = http_client || Mayhem::Support::HttpClient.new(
           open_timeout: @open_timeout,
           read_timeout: @read_timeout,
@@ -94,7 +98,7 @@ module Mayhem
 
       def run
         queue = Queue.new
-        Dir.glob(File.join(@sources_dir, '*.md')).each { |source_file| queue << source_file }
+        @sources_repository.all_file_paths.each { |source_file| queue << source_file }
 
         threads = Array.new(@workers) do
           Thread.new do
@@ -272,7 +276,7 @@ module Mayhem
           date_prefix: date_prefix,
           max_bytes: MAX_FILENAME_BYTES
         )
-        filename = File.join(@news_dir, "#{date_prefix}-#{title_slug}.md")
+        filename = @news_repository.file_path("#{date_prefix}-#{title_slug}")
 
         if locked_post?(filename)
           @logger.info "Skipping update for locked post #{filename}"
@@ -487,7 +491,7 @@ module Mayhem
       end
 
       def build_existing_post_index
-        Dir.glob(File.join(@news_dir, '*.md')).each_with_object({}) do |post_path, memo|
+        @news_repository.all_file_paths.each_with_object({}) do |post_path, memo|
           doc = Mayhem::FrontMatter::Document.load(post_path, logger: @logger)
           next unless doc
 

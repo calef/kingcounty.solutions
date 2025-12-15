@@ -9,26 +9,26 @@ require_relative '../topics/classifier'
 require_relative '../openai/chat_client'
 require_relative '../front_matter/document'
 require_relative '../front_matter/slug_generator'
+require_relative './repository'
 
 module Mayhem
   module News
     class WeeklySummaryGenerator
-      POSTS_DIR = '_posts'
-      TOPIC_DIR = '_topics'
       DEFAULT_MODEL = ENV.fetch('OPENAI_MODEL', 'gpt-5.1')
       DEFAULT_TOPIC_MODEL = ENV.fetch('OPENAI_TOPIC_MODEL', DEFAULT_MODEL)
       LLM_MAX_POSTS = ENV.fetch('WEEKLY_SUMMARY_LIMIT', '60').to_i
 
       def initialize(
-        posts_dir: POSTS_DIR,
+        posts_dir: nil,
         client: nil,
         logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'),
         model: DEFAULT_MODEL,
         llm_limit: LLM_MAX_POSTS,
-        topic_dir: TOPIC_DIR,
+        topic_dir: nil,
         topic_model: DEFAULT_TOPIC_MODEL,
         topic_classifier: nil,
-        chat_client: nil
+        chat_client: nil,
+        posts_repository: nil
       )
         @posts_dir = posts_dir
         @logger = logger
@@ -38,6 +38,7 @@ module Mayhem
         @topic_dir = topic_dir
         @topic_model = topic_model
         @chat_client = chat_client || Mayhem::OpenAI::ChatClient.new(client: @client, logger: @logger)
+        @posts_repository = posts_repository || Mayhem::News::Repository.new(directory: @posts_dir || Mayhem::News::Repository::DEFAULT_DIR)
         @topic_classifier = topic_classifier ||
                             Mayhem::Topics::Classifier.new(
                               topic_dir: @topic_dir,
@@ -91,7 +92,7 @@ module Mayhem
       end
 
       def weekly_posts(start_date, end_date)
-        raw_posts = Dir.glob(File.join(@posts_dir, '*.md')).each_with_object([]) do |path, memo|
+        raw_posts = @posts_repository.all_file_paths.each_with_object([]) do |path, memo|
           basename = File.basename(path)
           match = basename.match(/\A(\d{4}-\d{2}-\d{2})-/)
           next unless match
@@ -302,8 +303,8 @@ module Mayhem
         title = "King County Solutions Weekly Roundup: #{human_range(start_date, end_date)}"
         slug = Mayhem::FrontMatter::SlugGenerator.sanitized_slug(title)
         slug = 'post' if slug.empty?
-        filename = "#{end_date}-#{slug}.md"
-        dest = File.join(@posts_dir, filename)
+        filename = "#{end_date}-#{slug}"
+        dest = @posts_repository.file_path(filename)
 
         timezone_offset = Time.now.utc_offset
         publish_time = Time.new(end_date.year, end_date.month, end_date.day, 18, 0, 0, timezone_offset)

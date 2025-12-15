@@ -9,13 +9,13 @@ require_relative '../logging'
 require_relative '../front_matter/document'
 require_relative '../support/http_client'
 require_relative '../feed/discovery'
+require_relative '../news/repository'
+require_relative '../events/repository'
+require_relative './repository'
 
 module Mayhem
   module Images
     class Extractor
-      IMAGE_DOCS_DIR = '_images'
-      POSTS_DIR = '_posts'
-      EVENTS_DIR = '_events'
       IMAGE_ASSET_DIR = File.join('assets', 'images')
       DEFAULT_OPEN_TIMEOUT = begin
         Integer(ENV.fetch('IMAGE_OPEN_TIMEOUT', '10'))
@@ -45,17 +45,23 @@ module Mayhem
       attr_reader :logger
 
       def initialize(
-        posts_dir: POSTS_DIR,
-        events_dir: EVENTS_DIR,
-        image_docs_dir: IMAGE_DOCS_DIR,
+        posts_dir: nil,
+        events_dir: nil,
+        image_docs_dir: nil,
         asset_dir: IMAGE_ASSET_DIR,
         logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'),
         open_timeout: DEFAULT_OPEN_TIMEOUT,
         read_timeout: DEFAULT_READ_TIMEOUT,
-        http_client: nil
+        http_client: nil,
+        posts_repository: nil,
+        events_repository: nil,
+        images_repository: nil
       )
-        @content_dirs = [posts_dir, events_dir].compact.uniq
-        @image_docs_dir = image_docs_dir
+        @posts_repository = posts_repository || Mayhem::News::Repository.new(directory: posts_dir || Mayhem::News::Repository::DEFAULT_DIR)
+        @events_repository = events_repository || (events_dir ? Mayhem::Events::Repository.new(directory: events_dir) : nil)
+        @images_repository = images_repository || Mayhem::Images::Repository.new(directory: image_docs_dir || Mayhem::Images::Repository::DEFAULT_DIR)
+        @content_dirs = [@posts_repository.directory, @events_repository&.directory].compact.uniq
+        @image_docs_dir = @images_repository.directory
         @asset_dir = asset_dir
         @logger = logger
         @open_timeout = open_timeout
@@ -258,7 +264,7 @@ module Mayhem
       end
 
       def ensure_image_doc(checksum, alt, filename, frontmatter, original_url)
-        doc_path = File.join(@image_docs_dir, "#{checksum}.md")
+        doc_path = @images_repository.file_path(checksum)
         return if File.exist?(doc_path)
 
         frontmatter_data = {
