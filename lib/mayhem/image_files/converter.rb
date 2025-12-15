@@ -1,12 +1,11 @@
 # frozen_string_literal: true
 
 require 'mini_magick'
+require_relative 'validator'
 
 module Mayhem
   module ImageFiles
     class Converter
-      RASTER_EXTENSIONS = %w[.jpg .jpeg .png .gif .bmp .tif .tiff].freeze
-
       attr_reader :logger
 
       def initialize(logger:)
@@ -15,7 +14,7 @@ module Mayhem
 
       def convert_to_webp(data, ext, source_url)
         ext = ext.to_s.downcase
-        return [data, ext] unless RASTER_EXTENSIONS.include?(ext)
+        return [data, ext] unless Validator::RASTER_EXTENSIONS.include?(ext)
 
         image = MiniMagick::Image.read(data)
         image.format 'webp'
