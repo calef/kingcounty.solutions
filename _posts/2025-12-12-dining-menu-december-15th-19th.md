@@ -1,7 +1,6 @@
 ---
 date: '2025-12-12T23:00:00+00:00'
 events:
-- 2025-12-15-dining-menu-at-ballard-senior-center
 - 2025-12-17-wednesday-night-dinner
 events_extracted: true
 feed_content: |-
