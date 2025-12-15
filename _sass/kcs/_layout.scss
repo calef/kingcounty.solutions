@@ -928,6 +928,11 @@
   margin: 0;
 }
 
+.event-past {
+  opacity: 0.5;
+  filter: grayscale(60%);
+}
+
 .news-pagination {
   margin-top: 2rem;
   border-top: 1px solid #e0e0e0;
