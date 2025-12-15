@@ -6,7 +6,8 @@ require 'ruby/openai'
 require_relative '../logging'
 require_relative '../topics/classifier'
 require_relative '../locations/classifier'
-require_relative '../content/content_pruner'
+require_relative '../news/pruner'
+require_relative '../images/pruner'
 require_relative '../front_matter/document'
 require_relative '../support/http_client'
 require_relative '../feed/discovery'
@@ -47,7 +48,8 @@ module Mayhem
         logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'),
         topic_classifier: nil,
         location_classifier: nil,
-        content_pruner: nil
+        news_pruner: nil,
+        images_pruner: nil
       )
         @posts_dir = posts_dir
         @topic_dir = topic_dir
@@ -66,14 +68,20 @@ module Mayhem
                                  client: @client,
                                  logger: @logger
                                )
-        @content_pruner = content_pruner ||
-                          Mayhem::Content::ContentPruner.new(
-                            posts_dir: posts_dir,
-                            events_dir: events_dir,
-                            images_dir: images_dir,
-                            assets_dir: assets_dir,
-                            logger: logger
-                          )
+        @images_pruner = images_pruner ||
+                         Mayhem::Images::Pruner.new(
+                           posts_dir: posts_dir,
+                           events_dir: events_dir,
+                           images_dir: images_dir,
+                           assets_dir: assets_dir,
+                           logger: logger
+                         )
+        @news_pruner = news_pruner ||
+                       Mayhem::News::Pruner.new(
+                         posts_dir: posts_dir,
+                         images_pruner: @images_pruner,
+                         logger: logger
+                       )
       end
 
       def run
@@ -105,11 +113,10 @@ module Mayhem
           stats[:skipped_unpublished] += 1
           # For unpublished posts during backfill, just set locations to empty array
           # without making API calls to classify locations
-          # Use ContentPruner to properly clean up images
           needs_locations = !front_matter.key?('locations')
           if needs_locations && front_matter['summarized'] == true
             front_matter['locations'] = []
-            @content_pruner.unpublish_post(file_path, document)
+            @news_pruner.unpublish_post(file_path, document)
             stats[:locations_backfilled] += 1
             @logger.info "Set locations to [] and cleaned up images for unpublished #{file_path}"
           end
@@ -194,7 +201,6 @@ module Mayhem
         end
 
         # Set published to false if either topics or locations are empty
-        # Use ContentPruner to properly clean up images
         should_unpublish = (needs_topics && Array(front_matter['topics']).empty?) ||
                            (needs_locations && Array(front_matter['locations']).empty?)
 
@@ -202,7 +208,7 @@ module Mayhem
         document.body = summary_text
         document.save
 
-        @content_pruner.unpublish_post(file_path, document) if should_unpublish
+        @news_pruner.unpublish_post(file_path, document) if should_unpublish
 
         stats[:updated] += 1
         @logger.info "Updated #{file_path}"

@@ -5,7 +5,8 @@ require 'time'
 require 'yaml'
 
 require_relative '../logging'
-require_relative '../content/content_pruner'
+require_relative '../images/pruner'
+require_relative '../news/pruner'
 require_relative '../front_matter/document'
 
 module Mayhem
@@ -26,7 +27,8 @@ module Mayhem
         config_path: CONFIG_PATH,
         logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'),
         clock: -> { Time.now },
-        content_pruner: nil
+        news_pruner: nil,
+        images_pruner: nil
       )
         @posts_dir = posts_dir
         @images_dir = images_dir
@@ -35,13 +37,20 @@ module Mayhem
         @config_path = config_path
         @logger = logger
         @clock = clock
-        @content_pruner = content_pruner || Mayhem::Content::ContentPruner.new(
-          posts_dir: posts_dir,
-          events_dir: events_dir,
-          images_dir: images_dir,
-          assets_dir: assets_dir,
-          logger: logger
-        )
+        @images_pruner = images_pruner ||
+                         Mayhem::Images::Pruner.new(
+                           posts_dir: posts_dir,
+                           events_dir: events_dir,
+                           images_dir: images_dir,
+                           assets_dir: assets_dir,
+                           logger: logger
+                         )
+        @news_pruner = news_pruner ||
+                       Mayhem::News::Pruner.new(
+                         posts_dir: posts_dir,
+                         images_pruner: @images_pruner,
+                         logger: logger
+                       )
       end
 
       def run
@@ -63,7 +72,7 @@ module Mayhem
           remove_file(entry[:path])
         end
 
-        removed_images = @content_pruner.cleanup_images(
+        removed_images = @news_pruner.cleanup_images(
           posts.flat_map { |entry| entry[:images] }.uniq,
           excluded_paths: excluded_paths
         )
@@ -106,7 +115,7 @@ module Mayhem
 
           memo << {
             path: path,
-            images: @content_pruner.collect_image_ids(document.front_matter),
+            images: @news_pruner.collect_image_ids(document.front_matter),
             events: collect_event_ids(document.front_matter)
           }
         end

@@ -1,43 +1,41 @@
 # frozen_string_literal: true
 
 require 'fileutils'
-require 'time'
 require 'tmpdir'
 require_relative '../../test_helper'
-require 'mayhem/content/content_pruner'
+require 'mayhem/news/pruner'
+require 'mayhem/images/pruner'
 require 'mayhem/front_matter/document'
 require 'mayhem/logging'
 
-class ContentPrunerTest < Minitest::Test
+class NewsPrunerTest < Minitest::Test
   def setup
-    @tmpdir = Dir.mktmpdir('content-pruner-test')
+    @tmpdir = Dir.mktmpdir('news-pruner')
     @posts_dir = File.join(@tmpdir, '_posts')
+    @events_dir = File.join(@tmpdir, '_events')
     @images_dir = File.join(@tmpdir, '_images')
     @assets_dir = File.join(@tmpdir, 'assets', 'images')
-    @events_dir = File.join(@tmpdir, '_events')
-    FileUtils.mkdir_p(@posts_dir)
-    FileUtils.mkdir_p(@images_dir)
-    FileUtils.mkdir_p(@assets_dir)
-    FileUtils.mkdir_p(@events_dir)
+    FileUtils.mkdir_p([@posts_dir, @events_dir, @images_dir, @assets_dir])
     @logger = Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL', default_level: 'FATAL')
-    @pruner = Mayhem::Content::ContentPruner.new(
+    @images_pruner = Mayhem::Images::Pruner.new(
       posts_dir: @posts_dir,
       events_dir: @events_dir,
       images_dir: @images_dir,
       assets_dir: @assets_dir,
       logger: @logger
     )
+    @pruner = Mayhem::News::Pruner.new(posts_dir: @posts_dir, images_pruner: @images_pruner, logger: @logger)
   end
 
   def teardown
     FileUtils.remove_entry(@tmpdir)
   end
 
-  def test_unpublish_post_updates_front_matter_and_removes_images
+  def test_unpublish_post_updates_front_matter_and_prunes_images
     image_id = 'shared-img'
     write_image_metadata(image_id)
     write_asset(image_id)
-    post_path = write_post('post.md', 'https://example.com', [image_id], true)
+    post_path = write_post('post.md', [image_id])
     document = Mayhem::FrontMatter::Document.load(post_path)
 
     @pruner.unpublish_post(post_path, document)
@@ -46,42 +44,21 @@ class ContentPrunerTest < Minitest::Test
     refute updated.front_matter['published']
     assert_empty updated.front_matter['images']
     refute_path_exists File.join(@images_dir, "#{image_id}.md")
-  end
-
-  def test_delete_event_removes_file_and_cleans_posts
-    event_path = write_event('event-1')
-    post_path = write_post('post.md', 'https://example.com', [], true, ['event-1'])
-
-    @pruner.delete_event(event_path)
-
-    refute_path_exists event_path
-    updated = Mayhem::FrontMatter::Document.load(post_path)
-    assert_empty updated.front_matter['events']
+    assert_empty Dir.glob(File.join(@assets_dir, "#{image_id}.*"))
   end
 
   private
 
-  def write_post(filename, source_url, images, published, events = [])
+  def write_post(filename, images)
     front_matter = {
       'title' => 'Test Post',
       'date' => Time.now.utc.iso8601,
-      'source_url' => source_url,
+      'source_url' => 'https://example.com',
       'images' => images,
-      'events' => events,
-      'published' => published
+      'published' => true
     }
     path = File.join(@posts_dir, filename)
     File.write(path, Mayhem::FrontMatter::Document.build_markdown(front_matter, ''))
-    path
-  end
-
-  def write_event(id)
-    path = File.join(@events_dir, "#{id}.md")
-    content = Mayhem::FrontMatter::Document.build_markdown(
-      { 'title' => "Event #{id}", 'start_date' => Time.now.utc.iso8601 },
-      ''
-    )
-    File.write(path, content)
     path
   end
 

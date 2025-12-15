@@ -16,6 +16,7 @@ Utility commands that automate content imports, auditing, and metadata maintenan
 The `mayhem` script consolidates content management functionality. Run `mayhem help` to see all available commands:
 
 - `mayhem audit-topics` – Uses OpenAI to reconcile each organization's topics against recent news coverage and optionally rewrites front matter.
+- `mayhem check-source-urls` – Checks `source_url` availability, unpublishing posts or deleting events when links are dead.
 - `mayhem expire` – Deletes posts and events outside configured age window.
 - `mayhem extract-events` – Analyzes news posts to identify and create event entries.
 - `mayhem extract-images` – Downloads images from posts/events and creates image metadata.
@@ -157,6 +158,23 @@ Runs the RSS news importer and the iCal events importer so `_posts/` and `_event
 - Event extraction from posts: handled by `mayhem extract-events`.
 - All operations honor `locked: true` on disk, skipping rewrites while still registering source URLs to avoid future duplicates.
 - All operations parallelize work with small worker pools, log per-source summaries, and keep running when individual feeds fail so a single bad endpoint never blocks the rest.
+
+### `mayhem check-source-urls`
+
+#### Purpose
+
+Validates every `_posts` and `_events` `source_url`, pruning or deleting entries that point to dead links.
+
+#### Usage
+
+- `mayhem check-source-urls`
+
+#### Behavior notes
+
+- Unpublishes posts whose `source_url` resolves to `:not_found`, clearing related image metadata/assets when no other entries reference them.
+- Deletes events with dead `source_url` values and leaves entries with empty `source_url` untouched.
+- Warns (but does not delete) on transient errors, and uses a dedicated user agent `King County Solutions Link Checker`.
+- Runs concurrently with a small worker pool (default 6; override via `SOURCE_URL_CHECKER_WORKERS`).
 
 ### `mayhem extract-events`
 

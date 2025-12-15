@@ -13,6 +13,10 @@ module Mayhem
         description: 'Uses OpenAI to reconcile each organization\'s topics against recent news coverage',
         handler: :run_audit_topics
       },
+      'check-source-urls' => {
+        description: 'Checks source_url availability and unpublishes or deletes content when links are dead',
+        handler: :run_check_source_urls
+      },
       'expire' => {
         description: 'Deletes posts and events outside configured age window',
         handler: :run_expire
@@ -122,6 +126,12 @@ module Mayhem
         end.parse!(args)
 
         options
+      end
+
+      def run_check_source_urls(_args)
+        require 'mayhem/content/source_url_checker'
+
+        Mayhem::Content::SourceUrlChecker.new.run
       end
 
       def run_expire(_args)

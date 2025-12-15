@@ -1,7 +1,9 @@
 # frozen_string_literal: true
 
 require_relative '../logging'
-require_relative '../content/content_pruner'
+require_relative '../events/pruner'
+require_relative '../images/pruner'
+require_relative '../news/pruner'
 require_relative '../front_matter/document'
 require_relative '../support/http_status_resolver'
 
@@ -21,7 +23,9 @@ module Mayhem
         logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'),
         http_client: nil,
         http_status_resolver: nil,
-        content_pruner: nil,
+        news_pruner: nil,
+        events_pruner: nil,
+        images_pruner: nil,
         user_agent: 'King County Solutions Link Checker',
         workers: ENV.fetch('SOURCE_URL_CHECKER_WORKERS', '6').to_i
       )
@@ -34,15 +38,29 @@ module Mayhem
           user_agent: @user_agent,
           http_client: http_client
         )
-        @content_pruner = content_pruner || Mayhem::Content::ContentPruner.new(
-          posts_dir: posts_dir,
-          events_dir: events_dir,
-          images_dir: images_dir,
-          assets_dir: assets_dir,
-          logger: logger
-        )
+        @images_pruner = images_pruner ||
+                         Mayhem::Images::Pruner.new(
+                           posts_dir: posts_dir,
+                           events_dir: events_dir,
+                           images_dir: images_dir,
+                           assets_dir: assets_dir,
+                           logger: logger
+                         )
+        @news_pruner = news_pruner ||
+                       Mayhem::News::Pruner.new(
+                         posts_dir: posts_dir,
+                         images_pruner: @images_pruner,
+                         logger: logger
+                       )
+        @events_pruner = events_pruner ||
+                         Mayhem::Events::Pruner.new(
+                           posts_dir: posts_dir,
+                           events_dir: events_dir,
+                           images_pruner: @images_pruner,
+                           logger: logger
+                         )
         @workers = [workers, 1].max
-        @content_pruner_mutex = Mutex.new
+        @pruner_mutex = Mutex.new
       end
 
       def run
@@ -62,7 +80,7 @@ module Mayhem
           case status
           when :not_found
             @logger.info "Source URL not found for post #{File.basename(path)}: #{source_url}"
-            with_pruner { @content_pruner.unpublish_post(path, document) }
+            with_pruner { @news_pruner.unpublish_post(path, document) }
           when :error
             @logger.warn "Error checking source URL for post #{File.basename(path)}: #{source_url}"
           end
@@ -79,7 +97,7 @@ module Mayhem
           case status
           when :not_found
             @logger.info "Source URL not found for event #{File.basename(path)}: #{source_url}"
-            with_pruner { @content_pruner.delete_event(path) }
+            with_pruner { @events_pruner.delete_event(path) }
           when :error
             @logger.warn "Error checking source URL for event #{File.basename(path)}: #{source_url}"
           end
@@ -110,7 +128,7 @@ module Mayhem
       end
 
       def with_pruner(&)
-        @content_pruner_mutex.synchronize(&)
+        @pruner_mutex.synchronize(&)
       end
     end
   end
