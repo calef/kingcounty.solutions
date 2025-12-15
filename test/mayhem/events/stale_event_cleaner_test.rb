@@ -55,7 +55,7 @@ class StaleEventCleanerTest < Minitest::Test
     future_event = write_event('future-event', '2025-12-06T10:00:00-08:00')
 
     # Create posts that link to events
-    post1_path = write_post('post1', ['old-event', 'future-event'])
+    post1_path = write_post('post1', %w[old-event future-event])
     post2_path = write_post('post2', ['old-event'])
     post3_path = write_post('post3', ['future-event'])
 
@@ -67,14 +67,17 @@ class StaleEventCleanerTest < Minitest::Test
 
     # Verify post1 only has future event link
     post1_doc = Mayhem::FrontMatter::Document.load(post1_path)
+
     assert_equal ['future-event'], post1_doc.front_matter['events']
 
     # Verify post2 has empty events array
     post2_doc = Mayhem::FrontMatter::Document.load(post2_path)
-    assert_equal [], post2_doc.front_matter['events']
+
+    assert_empty post2_doc.front_matter['events']
 
     # Verify post3 still has its event link
     post3_doc = Mayhem::FrontMatter::Document.load(post3_path)
+
     assert_equal ['future-event'], post3_doc.front_matter['events']
   end
 
@@ -93,7 +96,7 @@ class StaleEventCleanerTest < Minitest::Test
       'date' => '2025-12-01T12:00:00-08:00',
       'events' => events
     }
-    path = File.join(@posts_dir, "#{name}.md")
+    path = File.join(@news_dir, "#{name}.md")
     File.write(path, Mayhem::FrontMatter::Document.build_markdown(front_matter, ''))
     path
   end

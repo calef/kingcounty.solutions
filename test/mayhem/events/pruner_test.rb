@@ -11,21 +11,21 @@ require 'mayhem/logging'
 class EventsPrunerTest < Minitest::Test
   def setup
     @tmpdir = Dir.mktmpdir('events-pruner')
-    @posts_dir = File.join(@tmpdir, '_posts')
+    @news_dir = File.join(@tmpdir, '_posts')
     @events_dir = File.join(@tmpdir, '_events')
     @images_dir = File.join(@tmpdir, '_images')
     @assets_dir = File.join(@tmpdir, 'assets', 'images')
-    FileUtils.mkdir_p([@posts_dir, @events_dir, @images_dir, @assets_dir])
+    FileUtils.mkdir_p([@news_dir, @events_dir, @images_dir, @assets_dir])
     @logger = Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL', default_level: 'FATAL')
     @images_pruner = Mayhem::Images::Pruner.new(
-      posts_dir: @posts_dir,
+      news_dir: @news_dir,
       events_dir: @events_dir,
       images_dir: @images_dir,
       assets_dir: @assets_dir,
       logger: @logger
     )
     @pruner = Mayhem::Events::Pruner.new(
-      posts_dir: @posts_dir,
+      news_dir: @news_dir,
       events_dir: @events_dir,
       images_pruner: @images_pruner,
       logger: @logger
@@ -43,7 +43,8 @@ class EventsPrunerTest < Minitest::Test
     @pruner.delete(event_path)
 
     refute_path_exists event_path
-    updated = Mayhem::FrontMatter::Document.load(File.join(@posts_dir, 'post.md'))
+    updated = Mayhem::FrontMatter::Document.load(File.join(@news_dir, 'post.md'))
+
     assert_empty updated.front_matter['events']
   end
 
@@ -57,6 +58,7 @@ class EventsPrunerTest < Minitest::Test
     @pruner.unpublish(event_path, document)
 
     updated = Mayhem::FrontMatter::Document.load(event_path)
+
     refute updated.front_matter['published']
     assert_empty updated.front_matter['images']
     refute_path_exists File.join(@images_dir, "#{image_id}.md")
@@ -84,7 +86,7 @@ class EventsPrunerTest < Minitest::Test
       'source_url' => 'https://example.com',
       'events' => events
     }
-    path = File.join(@posts_dir, filename)
+    path = File.join(@news_dir, filename)
     File.write(path, Mayhem::FrontMatter::Document.build_markdown(front_matter, ''))
     path
   end
