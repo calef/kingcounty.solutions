@@ -11,7 +11,7 @@ require_relative '../support/http_client'
 require_relative '../feed/discovery'
 require_relative '../news/repository'
 require_relative '../events/repository'
-require_relative './repository'
+require_relative 'repository'
 
 module Mayhem
   module Images

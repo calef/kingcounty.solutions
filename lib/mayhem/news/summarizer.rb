@@ -13,7 +13,7 @@ require_relative '../support/http_client'
 require_relative '../feed/discovery'
 require_relative '../summarizer/helpers'
 require_relative '../content/article_body_extractor'
-require_relative './repository'
+require_relative 'repository'
 
 module Mayhem
   module News

@@ -8,7 +8,7 @@ require_relative '../logging'
 require_relative '../images/pruner'
 require_relative '../news/pruner'
 require_relative '../front_matter/document'
-require_relative './repository'
+require_relative 'repository'
 require_relative '../events/repository'
 
 module Mayhem

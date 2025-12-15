@@ -12,7 +12,7 @@ require_relative '../support/http_client'
 require_relative '../feed/discovery'
 require_relative '../support/encoding_utils'
 require_relative '../summarizer/helpers'
-require_relative './repository'
+require_relative 'repository'
 require_relative '../news/repository'
 
 module Mayhem

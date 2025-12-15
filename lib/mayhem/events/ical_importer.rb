@@ -15,7 +15,7 @@ require_relative '../support/encoding_utils'
 require_relative '../content/content_utils'
 require_relative '../front_matter/publish_guard'
 require_relative '../content/html_normalizer'
-require_relative './repository'
+require_relative 'repository'
 require_relative '../organizations/repository'
 
 module Mayhem

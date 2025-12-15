@@ -8,7 +8,7 @@ require_relative '../front_matter/document'
 require_relative '../front_matter/slug_generator'
 require_relative '../support/encoding_utils'
 require_relative '../content/html_normalizer'
-require_relative './repository'
+require_relative 'repository'
 require_relative '../events/repository'
 
 module Mayhem

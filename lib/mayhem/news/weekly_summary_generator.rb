@@ -9,7 +9,7 @@ require_relative '../topics/classifier'
 require_relative '../openai/chat_client'
 require_relative '../front_matter/document'
 require_relative '../front_matter/slug_generator'
-require_relative './repository'
+require_relative 'repository'
 
 module Mayhem
   module News

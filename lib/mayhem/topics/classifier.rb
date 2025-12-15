@@ -5,7 +5,7 @@ require 'json'
 require_relative '../logging'
 require_relative '../openai/chat_client'
 require_relative '../front_matter/document'
-require_relative './repository'
+require_relative 'repository'
 
 module Mayhem
   module Topics

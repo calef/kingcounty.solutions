@@ -20,7 +20,7 @@ require_relative '../content/article_body_selectors'
 require_relative '../feed/discovery'
 require_relative '../front_matter/publish_guard'
 require_relative '../content/html_normalizer'
-require_relative './repository'
+require_relative 'repository'
 require_relative '../organizations/repository'
 
 module Mayhem
