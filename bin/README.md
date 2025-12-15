@@ -19,6 +19,7 @@ The `mayhem` script consolidates content management functionality. Run `mayhem h
 - `mayhem expire` – Deletes posts and events outside configured age window.
 - `mayhem extract-events` – Analyzes news posts to identify and create event entries.
 - `mayhem extract-images` – Downloads images from posts/events and creates image metadata.
+- `mayhem ingest` – Runs import-content, summarize, extract-events, summarize again, extract-images, then expire.
 - `mayhem new-organization` – Scrapes a site and creates a new `_organizations/*.md` entry.
 - `mayhem import-content` – Runs RSS and iCal importers to fetch partner content.
 - `mayhem ls-models` – Lists available OpenAI model IDs.
@@ -157,6 +158,21 @@ Runs the RSS news importer and the iCal events importer so `_posts/` and `_event
 - Event extraction from posts: handled by `mayhem extract-events`.
 - All operations honor `locked: true` on disk, skipping rewrites while still registering source URLs to avoid future duplicates.
 - All operations parallelize work with small worker pools, log per-source summaries, and keep running when individual feeds fail so a single bad endpoint never blocks the rest.
+
+### `mayhem ingest`
+
+#### Purpose
+
+Runs the full content pipeline in order so one command can be used for routine updates.
+
+#### Usage
+
+- `mayhem ingest`
+
+#### Behavior notes
+
+- Executes `import-content`, `summarize`, `extract-events`, another `summarize`, `extract-images`, then `expire` in sequence.
+- Respects `locked: true` within each step; check individual commands for their specific options and environment variables.
 
 ### `mayhem extract-events`
 
