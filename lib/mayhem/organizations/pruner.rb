@@ -16,6 +16,7 @@ module Mayhem
         events_dir = File.expand_path('_events', Dir.pwd)
         images_dir = File.expand_path('_images', Dir.pwd)
         assets_dir = File.expand_path('assets/images', Dir.pwd)
+        organizations_dir = File.expand_path('_organizations', Dir.pwd)
 
         # Create pruner instances
         images_pruner = Mayhem::Images::Pruner.new(
@@ -42,6 +43,7 @@ module Mayhem
         pruner = new(
           posts_dir: posts_dir,
           events_dir: events_dir,
+          organizations_dir: organizations_dir,
           events_pruner: events_pruner,
           news_pruner: news_pruner,
           logger: logger
@@ -50,9 +52,10 @@ module Mayhem
         pruner.prune_organization_content(organization_title)
       end
 
-      def initialize(posts_dir:, events_dir:, events_pruner:, news_pruner:, logger:)
+      def initialize(posts_dir:, events_dir:, organizations_dir:, events_pruner:, news_pruner:, logger:)
         @posts_dir = posts_dir
         @events_dir = events_dir
+        @organizations_dir = organizations_dir
         @events_pruner = events_pruner
         @news_pruner = news_pruner
         @logger = logger
@@ -67,9 +70,12 @@ module Mayhem
         # Find and prune all news posts for this organization
         posts_deleted = prune_news(organization_title)
 
+        # Delete the organization file itself
+        organization_deleted = delete_organization_file(organization_title)
+
         @logger.info "Pruned #{events_deleted} event(s) and #{posts_deleted} post(s) for #{organization_title}"
-        result = { events: events_deleted, posts: posts_deleted }
-        @logger.info "Deletion complete: #{result[:events]} event(s) and #{result[:posts]} post(s) removed"
+        result = { events: events_deleted, posts: posts_deleted, organization: organization_deleted }
+        @logger.info "Deletion complete: #{result[:events]} event(s), #{result[:posts]} post(s), and organization file removed"
         result
       end
 
@@ -106,6 +112,27 @@ module Mayhem
           deleted_count += 1
         end
         deleted_count
+      end
+
+      def delete_organization_file(organization_title)
+        Dir.glob(File.join(@organizations_dir, '*.md')).each do |org_path|
+          document = Mayhem::FrontMatter::Document.load(org_path, logger: @logger)
+          next unless document
+
+          title = document.front_matter['title']
+          next unless title == organization_title
+
+          @logger.info "Deleting organization file: #{File.basename(org_path)}"
+          delete_file(org_path)
+          return true
+        end
+        false
+      end
+
+      def delete_file(path)
+        FileUtils.rm(path)
+      rescue Errno::ENOENT
+        # already removed
       end
     end
   end
