@@ -32,12 +32,12 @@ module Mayhem
         current_time = @clock.call
         removed = []
 
-        @events_repository.all_file_paths.each do |path|
+        @events_repository.each do |path|
           event_time = event_time_for(path)
           next unless event_time
           next unless event_time < current_time
 
-          event_id = @events_repository.basename(path)
+          event_id = @events_repository.identifier_from_path(path)
           remove_file(path)
           removed << event_id
           @logger.info "Removed past event #{File.basename(path)}"
@@ -91,7 +91,7 @@ module Mayhem
         removed_set = removed_event_ids.to_set
         posts_updated = 0
 
-        @posts_repository.all_file_paths.each do |post_path|
+        @posts_repository.each do |post_path|
           document = Mayhem::FrontMatter::Document.load(post_path, logger: @logger)
           next unless document
 

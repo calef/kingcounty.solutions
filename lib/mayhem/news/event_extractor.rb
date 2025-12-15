@@ -233,12 +233,12 @@ module Mayhem
           date_prefix: date_prefix,
           max_bytes: MAX_FILENAME_BYTES
         )
-        filename = @events_repository.file_path("#{date_prefix}-#{slug}")
+        filename = @events_repository.build_path(date_prefix: date_prefix, slug: slug)
 
         # Check if event already exists
         if File.exist?(filename)
           stats[:duplicate_events] += 1
-          return @events_repository.basename(filename)
+          return @events_repository.identifier_from_path(filename)
         end
 
         # Create event frontmatter

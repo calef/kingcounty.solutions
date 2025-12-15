@@ -235,7 +235,7 @@ module Mayhem
           date_prefix: start_prefix,
           max_bytes: MAX_FILENAME_BYTES
         )
-        filename = @events_repository.file_path("#{start_prefix}-#{slug}")
+        filename = @events_repository.build_path(date_prefix: start_prefix, slug: slug)
 
         description_html = Mayhem::Support::EncodingUtils.ensure_utf8(raw_html)
         description_html = Mayhem::Content::ContentUtils.sanitize_html(event.description) if description_html.to_s.strip.empty?

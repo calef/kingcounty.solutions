@@ -9,13 +9,13 @@ require_relative '../news/repository'
 module Mayhem
   module Events
     class Pruner
-      def initialize(posts_dir: nil, events_dir: nil, images_pruner:, logger:, posts_repository: nil, events_repository: nil)
+      def initialize(images_pruner:, logger:, posts_dir: nil, events_dir: nil, posts_repository: nil, events_repository: nil)
         @posts_dir = posts_dir
         @events_dir = events_dir
         @images_pruner = images_pruner
         @logger = logger
         @posts_repository = posts_repository || Mayhem::News::Repository.new(directory: @posts_dir || Mayhem::News::Repository::DEFAULT_DIR)
-        @events_repository = events_repository
+        @events_repository = events_repository || (events_dir ? Mayhem::Events::Repository.new(directory: events_dir) : nil)
       end
 
       def unpublish(path, document)
@@ -32,7 +32,11 @@ module Mayhem
       end
 
       def delete(path)
-        event_id = @events_repository ? @events_repository.basename(path) : File.basename(path, '.md')
+        event_id = if @events_repository
+                     @events_repository.identifier_from_path(path)
+                   else
+                     File.basename(path, '.md')
+                   end
         delete_file(path)
         prune_event_links([event_id])
       end

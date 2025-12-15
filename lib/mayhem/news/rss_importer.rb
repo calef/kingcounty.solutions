@@ -276,7 +276,7 @@ module Mayhem
           date_prefix: date_prefix,
           max_bytes: MAX_FILENAME_BYTES
         )
-        filename = @news_repository.file_path("#{date_prefix}-#{title_slug}")
+        filename = @news_repository.build_path(date_prefix: date_prefix, slug: title_slug)
 
         if locked_post?(filename)
           @logger.info "Skipping update for locked post #{filename}"
