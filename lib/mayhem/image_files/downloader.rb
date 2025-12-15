@@ -17,7 +17,7 @@ module Mayhem
 
       def download(url, stats)
         uri = URI.parse(url)
-        return nil unless %w[http https].include?(uri.scheme) && uri.host
+        return nil unless %w[http https].include?(uri.scheme) && !uri.host.to_s.empty?
 
         page = http_client.fetch(uri.to_s, accept: Mayhem::FeedDiscovery::ACCEPT_FEED, max_bytes: 2_097_152)
         ext = validator.image_extension(uri, page[:content_type])
