@@ -6,31 +6,32 @@ Utility commands that automate content imports, auditing, and metadata maintenan
 
 | Script | What it does |
 | --- | --- |
-| `mayhem` | Unified entry point for content management commands (see `mayhem help` for details). |
-| `generate-weekly-summary` | Builds a weekly roundup article from `_posts/`, grouping stories into themes with LLM assistance. |
+| `bin/generate-weekly-summary` | Builds a weekly roundup article from `_posts/`, grouping stories into themes with LLM assistance. |
+| `bin/mayhem` | Unified entry point for content management commands (see `bin/mayhem help` for details). |
 
 > Many scripts call the OpenAI API; export `OPENAI_API_KEY` before using them.
 
 ## Mayhem commands
 
-The `mayhem` script consolidates content management functionality. Run `bin/mayhem help` to see all available commands:
+The `bin/mayhem` script consolidates content management functionality. Run `bin/mayhem help` to see all available commands:
 
-- `mayhem audit-topics` – Uses OpenAI to reconcile each organization's topics against recent news coverage and optionally rewrites front matter.
-- `mayhem check-source-urls` – Checks `source_url` availability, unpublishing posts or deleting events when links are dead.
-- `mayhem expire` – Deletes posts and events outside configured age window.
-- `mayhem extract-events` – Analyzes news posts to identify and create event entries.
-- `mayhem extract-images` – Downloads images from posts/events and creates image metadata.
-- `mayhem import-content` – Runs RSS and iCal importers to fetch partner content.
-- `mayhem ls-models` – Lists available OpenAI model IDs.
-- `mayhem new-organization` – Scrapes a site and creates a new `_organizations/*.md` entry.
-- `mayhem summarize` – Generates AI summaries for posts and events.
-- `mayhem tidy` – Normalizes Markdown front matter formatting.
+- `bin/mayhem audit-topics` – Uses OpenAI to reconcile each organization's topics against recent news coverage and optionally rewrites front matter.
+- `bin/mayhem check-source-urls` – Checks `source_url` availability, unpublishing posts or deleting events when links are dead.
+- `bin/mayhem expire` – Deletes posts and events outside configured age window.
+- `bin/mayhem extract-events` – Analyzes news posts to identify and create event entries.
+- `bin/mayhem extract-images` – Downloads images from posts/events and creates image metadata.
+- `bin/mayhem import-content` – Runs RSS and iCal importers to fetch partner content.
+- `bin/mayhem ingest` – Runs import-content, summarize, extract-events, summarize again, extract-images, then expire.
+- `bin/mayhem ls-models` – Lists available OpenAI model IDs.
+- `bin/mayhem new-organization` – Scrapes a site and creates a new `_organizations/*.md` entry.
+- `bin/mayhem summarize` – Generates AI summaries for posts and events.
+- `bin/mayhem tidy` – Normalizes Markdown front matter formatting.
 
 ## Freezing files during automation
 
 Set `locked: true` in a post or event's front matter to freeze it in place. Importers, summarizers, and the image extractor all detect this flag and skip the entry so curated edits stay untouched while the rest of the pipeline continues to run.
 
-### `generate-weekly-summary`
+### `bin/generate-weekly-summary`
 
 #### Purpose
 
@@ -54,7 +55,7 @@ Builds an editorial roundup post for the current week (Saturday–Friday window)
 - Falls back to a deterministic, non-LLM summary if either call fails.
 - Sets front matter with `source: King County Solutions`, `summarized: true`, and `openai_model` (or `fallback` if heuristics kick in), and adds a closing encouragement paragraph.
 
-### `mayhem audit-topics`
+### `bin/mayhem audit-topics`
 
 #### Purpose
 
@@ -77,7 +78,7 @@ Reviews each `_organizations/*.md` file's topics using `_topics/` metadata plus 
 - When `--apply` is supplied, it edits each organization file by removing unsupported topics and appending new ones suggested by the audit, keeping the list sorted and unique.
 - Includes up to `--max-posts` (default 5) of the organization's recent `_posts/` content in the LLM prompt.
 
-### `mayhem check-source-urls`
+### `bin/mayhem check-source-urls`
 
 #### Purpose
 
@@ -94,7 +95,7 @@ Validates every `_posts` and `_events` `source_url`, pruning or deleting entries
 - Warns (but does not delete) on transient errors, and uses a dedicated user agent `King County Solutions Link Checker`.
 - Runs concurrently with a small worker pool (default 6; override via `SOURCE_URL_CHECKER_WORKERS`).
 
-### `mayhem expire`
+### `bin/mayhem expire`
 
 #### Purpose
 
@@ -116,7 +117,7 @@ Deletes `_posts/*.md` (and their referenced `_images/*.md` metadata plus any `as
 - After post cleanup, scans `_events/` and removes events whose `start_date` timestamps are already in the past (relative to the time the script runs), and cleans up any `events` references in posts that link to the removed events.
 - Prints a short summary of how many posts, events, and images were removed so you can verify the cleanup before committing.
 
-### `mayhem extract-events`
+### `bin/mayhem extract-events`
 
 #### Purpose
 
@@ -143,7 +144,7 @@ Analyzes news posts to identify event announcements using LLM, creates correspon
 - Marks posts with `events_extracted: true` to avoid reprocessing, even when no events are found.
 - Generated events are automatically cleaned up when their source posts are removed by `bin/mayhem expire` or when they expire via `StaleEventCleaner`.
 
-### `mayhem extract-images`
+### `bin/mayhem extract-images`
 
 #### Purpose
 
@@ -171,7 +172,7 @@ Downloads images referenced in each post or event `original_markdown_body`, rena
 - Creates `_images/<checksum>.md` with `checksum`, optional `title` (set only when the image had alt text), `image_url`, `source_url`, and copies `source`/`date` from the originating entry; appends discovered checksums to an entry's `images` array without removing existing entries.
 - Logs WARN-level issues for missing front matter or failed downloads/conversions, INFO for updates/empty images actions, DEBUG for already-processed posts, and prints a per-run summary when the log level allows it.
 
-### `mayhem import-content`
+### `bin/mayhem import-content`
 
 #### Purpose
 
@@ -198,7 +199,22 @@ Runs the RSS news importer and the iCal events importer so `_posts/` and `_event
 - All operations honor `locked: true` on disk, skipping rewrites while still registering source URLs to avoid future duplicates.
 - All operations parallelize work with small worker pools, log per-source summaries, and keep running when individual feeds fail so a single bad endpoint never blocks the rest.
 
-### `mayhem ls-models`
+### `bin/mayhem ingest`
+
+#### Purpose
+
+Runs the full content pipeline in order so one command can be used for routine updates.
+
+#### Usage
+
+- `bin/mayhem ingest`
+
+#### Behavior notes
+
+- Executes `import-content`, `summarize`, `extract-events`, another `summarize`, `extract-images`, then `expire` in sequence.
+- Respects `locked: true` within each step; check individual commands for their specific options and environment variables.
+
+### `bin/mayhem ls-models`
 
 #### Purpose
 
@@ -217,7 +233,7 @@ Simple helper that echoes every model ID visible to the configured OpenAI accoun
 
 - Returns one line per model and exits; no other arguments are supported.
 
-### `mayhem new-organization`
+### `bin/mayhem new-organization`
 
 #### Purpose
 
@@ -244,7 +260,7 @@ Scrapes a single organization website (following same-host links) and asks OpenA
 - Attempts to auto-detect RSS/Atom and iCal links while scraping and fills `news_rss_url` / `events_ical_url` when absent.
 - Generates a slug from the title, ensures uniqueness, writes ordered front matter plus a 100-word-capped summary body, and logs the created path when the log level allows it.
 
-### `mayhem summarize`
+### `bin/mayhem summarize`
 
 #### Purpose
 
@@ -270,7 +286,7 @@ Runs both news and event summarizers so `_posts/` and `_events/` files missing `
 - Leaves files untouched when `summarized: true` is already present, but you can force a re-run by deleting that flag (or the stored summary) before invoking the script.
 - Honors `locked: true` across posts and events, skipping both summary and topic updates for frozen entries.
 
-### `mayhem tidy`
+### `bin/mayhem tidy`
 
 #### Purpose
 
