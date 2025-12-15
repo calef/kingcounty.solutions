@@ -46,7 +46,7 @@ module Mayhem
         @client = client || ::OpenAI::Client.new(access_token: ENV.fetch('OPENAI_API_KEY'))
         @http = http_client || Mayhem::Support::HttpClient.new(logger: @logger)
         @events_repository = events_repository || Mayhem::Events::Repository.new(directory: @events_dir || Mayhem::Events::Repository::DEFAULT_DIR)
-        @posts_repository = posts_repository || Mayhem::News::Repository.new
+        @posts_repository = posts_repository || Mayhem::News::Repository.new(directory: Mayhem::News::Repository::DEFAULT_DIR)
         @topic_classifier = topic_classifier ||
                             Mayhem::Topics::Classifier.new(
                               topic_dir: topic_dir,
