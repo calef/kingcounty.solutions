@@ -5,10 +5,51 @@ require 'fileutils'
 require_relative '../front_matter/document'
 require_relative '../events/pruner'
 require_relative '../news/pruner'
+require_relative '../images/pruner'
 
 module Mayhem
   module Organizations
     class Pruner
+      def self.prune(organization_title, logger:)
+        # Set up directory paths
+        posts_dir = File.expand_path('_posts', Dir.pwd)
+        events_dir = File.expand_path('_events', Dir.pwd)
+        images_dir = File.expand_path('_images', Dir.pwd)
+        assets_dir = File.expand_path('assets/images', Dir.pwd)
+
+        # Create pruner instances
+        images_pruner = Mayhem::Images::Pruner.new(
+          posts_dir: posts_dir,
+          events_dir: events_dir,
+          images_dir: images_dir,
+          assets_dir: assets_dir,
+          logger: logger
+        )
+
+        events_pruner = Mayhem::Events::Pruner.new(
+          posts_dir: posts_dir,
+          events_dir: events_dir,
+          images_pruner: images_pruner,
+          logger: logger
+        )
+
+        news_pruner = Mayhem::News::Pruner.new(
+          posts_dir: posts_dir,
+          images_pruner: images_pruner,
+          logger: logger
+        )
+
+        pruner = new(
+          posts_dir: posts_dir,
+          events_dir: events_dir,
+          events_pruner: events_pruner,
+          news_pruner: news_pruner,
+          logger: logger
+        )
+
+        pruner.prune_organization_content(organization_title)
+      end
+
       def initialize(posts_dir:, events_dir:, events_pruner:, news_pruner:, logger:)
         @posts_dir = posts_dir
         @events_dir = events_dir
