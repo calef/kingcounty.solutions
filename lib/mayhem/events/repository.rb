@@ -17,7 +17,12 @@ module Mayhem
 
       # Build a file path for an event with date prefix and slug
       def build_path(date_prefix:, slug:)
-        file_path("#{date_prefix}-#{slug}")
+        path_for("#{date_prefix}-#{slug}")
+      end
+
+      # Build a file path for a given identifier
+      def path_for(identifier)
+        File.join(@directory, "#{identifier}#{FILE_EXTENSION}")
       end
 
       # Get the identifier (basename without extension) from a path
@@ -39,16 +44,6 @@ module Mayhem
           document = load_document(path)
           [document, path] if document
         end
-      end
-
-      # Legacy method for backward compatibility
-      def file_path(filename)
-        File.join(@directory, "#{filename}#{FILE_EXTENSION}")
-      end
-
-      # Legacy method for backward compatibility
-      def basename(path)
-        identifier_from_path(path)
       end
 
       private

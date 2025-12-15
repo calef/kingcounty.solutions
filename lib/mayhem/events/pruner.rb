@@ -14,8 +14,11 @@ module Mayhem
         @events_dir = events_dir
         @images_pruner = images_pruner
         @logger = logger
-        @posts_repository = posts_repository || Mayhem::News::Repository.new(directory: @posts_dir || Mayhem::News::Repository::DEFAULT_DIR)
-        @events_repository = events_repository || (events_dir ? Mayhem::Events::Repository.new(directory: events_dir) : nil)
+        @posts_repository = posts_repository || Mayhem::News::Repository.new(
+          directory: @posts_dir || Mayhem::News::Repository::DEFAULT_DIR,
+          logger: @logger
+        )
+        @events_repository = events_repository || (events_dir ? Mayhem::Events::Repository.new(directory: events_dir, logger: @logger) : nil)
       end
 
       def unpublish(path, document)
@@ -55,10 +58,7 @@ module Mayhem
         removed_set = removed_event_ids.to_set
         posts_updated = 0
 
-        @posts_repository.all_file_paths.each do |post_path|
-          document = Mayhem::FrontMatter::Document.load(post_path, logger: @logger)
-          next unless document
-
+        @posts_repository.each do |document, post_path|
           front_matter = document.front_matter
           events = front_matter['events']
           next unless events.is_a?(Array)
