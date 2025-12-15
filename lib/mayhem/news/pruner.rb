@@ -12,7 +12,7 @@ module Mayhem
         @logger = logger
       end
 
-      def unpublish_post(path, document)
+      def unpublish(path, document)
         front_matter = document.front_matter
 
         front_matter['published'] = false
@@ -22,11 +22,11 @@ module Mayhem
         document.front_matter = front_matter
         document.save
 
-        @images_pruner.cleanup(image_ids, excluded_paths: Set[path]) if image_ids.any?
+        @images_pruner.prune(image_ids, excluded_paths: Set[path]) if image_ids.any?
       end
 
-      def cleanup_images(image_ids, excluded_paths:)
-        @images_pruner.cleanup(image_ids, excluded_paths: excluded_paths)
+      def prune_images(image_ids, excluded_paths:)
+        @images_pruner.prune(image_ids, excluded_paths: excluded_paths)
       end
 
       def collect_image_ids(front_matter)

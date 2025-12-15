@@ -72,13 +72,13 @@ module Mayhem
           remove_file(entry[:path])
         end
 
-        removed_images = @news_pruner.cleanup_images(
+        removed_images = @news_pruner.prune_images(
           posts.flat_map { |entry| entry[:images] }.uniq,
           excluded_paths: excluded_paths
         )
 
         # Clean up events generated from removed posts
-        cleanup_generated_events(removed_event_ids) if removed_event_ids.any?
+        prune_generated_events(removed_event_ids) if removed_event_ids.any?
 
         @logger.info "Removed #{posts.size} post#{'s' unless posts.size == 1} older than #{max_age_days} days."
         @logger.info "Removed #{removed_images.size} image metadata entr#{removed_images.size == 1 ? 'y' : 'ies'}."
@@ -140,7 +140,7 @@ module Mayhem
         # already removed
       end
 
-      def cleanup_generated_events(event_ids)
+      def prune_generated_events(event_ids)
         removed = 0
         # Get all remaining posts and their event references
         remaining_event_refs = remaining_event_references

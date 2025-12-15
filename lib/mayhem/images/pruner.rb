@@ -47,30 +47,30 @@ module Mayhem
         counts
       end
 
-      def cleanup(image_ids, excluded_paths: Set.new)
+      def prune(image_ids, excluded_paths: Set.new)
         remaining_refs = remaining_image_counts(excluded_paths)
-        cleanup_images(image_ids, remaining_refs)
+        prune_images(image_ids, remaining_refs)
       end
 
       private
 
-      def cleanup_images(image_ids, remaining_refs)
+      def prune_images(image_ids, remaining_refs)
         removed = []
         image_ids.each do |id|
           next if remaining_refs[id]&.positive?
 
           removed << id
-          remove_image_files(id)
+          delete_image_files(id)
         end
         removed
       end
 
-      def remove_image_files(image_id)
-        remove_file(File.join(@images_dir, "#{image_id}.md"))
-        Dir.glob(File.join(@assets_dir, "#{image_id}.*")).each { |asset| remove_file(asset) }
+      def delete_image_files(image_id)
+        delete_file(File.join(@images_dir, "#{image_id}.md"))
+        Dir.glob(File.join(@assets_dir, "#{image_id}.*")).each { |asset| delete_file(asset) }
       end
 
-      def remove_file(path)
+      def delete_file(path)
         FileUtils.rm(path)
       rescue Errno::ENOENT
         # already removed

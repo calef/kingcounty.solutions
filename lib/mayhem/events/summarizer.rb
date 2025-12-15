@@ -113,7 +113,7 @@ module Mayhem
             document.save
 
             if classified_locations.empty?
-              @event_pruner.unpublish_event(file_path, document)
+              @event_pruner.unpublish(file_path, document)
               @logger.info "No locations matched for #{file_path}, marking as unpublished and cleaning up images"
             end
 
@@ -223,7 +223,7 @@ module Mayhem
         document.save
 
         if should_unpublish
-          @event_pruner.unpublish_event(file_path, document)
+          @event_pruner.unpublish(file_path, document)
           if generated_from_post
             event_slug = File.basename(file_path, '.md')
             removed_refs = remove_event_references(event_slug)
@@ -377,7 +377,7 @@ module Mayhem
         document.front_matter = front_matter
         document.body = ''
         document.save
-        @event_pruner.unpublish_event(file_path, document)
+        @event_pruner.unpublish(file_path, document)
 
         return unless generated_from_post
 

@@ -116,7 +116,7 @@ module Mayhem
           needs_locations = !front_matter.key?('locations')
           if needs_locations && front_matter['summarized'] == true
             front_matter['locations'] = []
-            @news_pruner.unpublish_post(file_path, document)
+            @news_pruner.unpublish(file_path, document)
             stats[:locations_backfilled] += 1
             @logger.info "Set locations to [] and cleaned up images for unpublished #{file_path}"
           end
@@ -208,7 +208,7 @@ module Mayhem
         document.body = summary_text
         document.save
 
-        @news_pruner.unpublish_post(file_path, document) if should_unpublish
+        @news_pruner.unpublish(file_path, document) if should_unpublish
 
         stats[:updated] += 1
         @logger.info "Updated #{file_path}"

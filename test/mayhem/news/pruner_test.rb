@@ -31,14 +31,14 @@ class NewsPrunerTest < Minitest::Test
     FileUtils.remove_entry(@tmpdir)
   end
 
-  def test_unpublish_post_updates_front_matter_and_prunes_images
+  def test_unpublish_updates_front_matter_and_prunes_images
     image_id = 'shared-img'
     write_image_metadata(image_id)
     write_asset(image_id)
     post_path = write_post('post.md', [image_id])
     document = Mayhem::FrontMatter::Document.load(post_path)
 
-    @pruner.unpublish_post(post_path, document)
+    @pruner.unpublish(post_path, document)
 
     updated = Mayhem::FrontMatter::Document.load(post_path)
     refute updated.front_matter['published']

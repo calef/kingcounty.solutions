@@ -47,12 +47,12 @@ class ImagePrunerTest < Minitest::Test
     refute counts.key?('id1')
   end
 
-  def test_cleanup_removes_unreferenced_images
+  def test_prune_removes_unreferenced_images
     post_path = write_post('post.md', %w[id-rm])
     write_image_metadata('id-rm')
     write_asset('id-rm')
 
-    removed = @pruner.cleanup(%w[id-rm], excluded_paths: Set[post_path])
+    removed = @pruner.prune(%w[id-rm], excluded_paths: Set[post_path])
 
     assert_equal ['id-rm'], removed
     refute_path_exists File.join(@images_dir, 'id-rm.md')

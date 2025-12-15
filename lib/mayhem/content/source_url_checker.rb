@@ -80,7 +80,7 @@ module Mayhem
           case status
           when :not_found
             @logger.info "Source URL not found for post #{File.basename(path)}: #{source_url}"
-            with_pruner { @news_pruner.unpublish_post(path, document) }
+            with_pruner { @news_pruner.unpublish(path, document) }
           when :error
             @logger.warn "Error checking source URL for post #{File.basename(path)}: #{source_url}"
           end
@@ -97,7 +97,7 @@ module Mayhem
           case status
           when :not_found
             @logger.info "Source URL not found for event #{File.basename(path)}: #{source_url}"
-            with_pruner { @events_pruner.delete_event(path) }
+            with_pruner { @events_pruner.delete(path) }
           when :error
             @logger.warn "Error checking source URL for event #{File.basename(path)}: #{source_url}"
           end

@@ -15,7 +15,7 @@ module Mayhem
         @logger = logger
       end
 
-      def unpublish_event(path, document)
+      def unpublish(path, document)
         front_matter = document.front_matter
 
         front_matter['published'] = false
@@ -25,17 +25,17 @@ module Mayhem
         document.front_matter = front_matter
         document.save
 
-        @images_pruner.cleanup(image_ids, excluded_paths: Set[path]) if image_ids.any?
+        @images_pruner.prune(image_ids, excluded_paths: Set[path]) if image_ids.any?
       end
 
-      def delete_event(path)
+      def delete(path)
         event_id = File.basename(path, '.md')
-        remove_file(path)
-        clean_event_links([event_id])
+        delete_file(path)
+        prune_event_links([event_id])
       end
 
-      def cleanup_images(image_ids, excluded_paths:)
-        @images_pruner.cleanup(image_ids, excluded_paths: excluded_paths)
+      def prune_images(image_ids, excluded_paths:)
+        @images_pruner.prune(image_ids, excluded_paths: excluded_paths)
       end
 
       def collect_image_ids(front_matter)
@@ -44,7 +44,7 @@ module Mayhem
 
       private
 
-      def clean_event_links(removed_event_ids)
+      def prune_event_links(removed_event_ids)
         removed_set = removed_event_ids.to_set
         posts_updated = 0
 
@@ -71,7 +71,7 @@ module Mayhem
         @logger.info "Updated #{posts_updated} post#{'s' unless posts_updated == 1} to remove deleted event links." if posts_updated.positive?
       end
 
-      def remove_file(path)
+      def delete_file(path)
         FileUtils.rm(path)
       rescue Errno::ENOENT
         # already removed
