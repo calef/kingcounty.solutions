@@ -79,7 +79,7 @@
     {%- assign location_value = '' -%}
     {%- assign has_location = false -%}
   {%- endif -%}
-  <article class="news-item event-item{% if primary_image_url %} news-item--has-image{% endif %}">
+  <article class="news-item event-item{% if primary_image_url %} news-item--has-image{% endif %}" data-event-end="{{ end_value | default: start_value | date_to_xmlschema }}">
     <header>
       <h3>
         <a href="{{ event.url | relative_url }}">{{ event.title }}</a>
