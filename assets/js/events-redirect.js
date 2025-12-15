@@ -3,6 +3,10 @@
    * Redirects /events/ links to /events/YYYY-MM-DD/ based on current date
    * This ensures events are always relevant even if the site hasn't been rebuilt
    */
+  
+  // Pattern to match /events/ URLs (with or without trailing slash)
+  const EVENTS_ROOT_PATTERN = /^(https?:\/\/[^/]+)?\/events\/?$/;
+
   function formatDate(date) {
     const year = date.getFullYear();
     const month = String(date.getMonth() + 1).padStart(2, '0');
@@ -21,14 +25,13 @@
     if (!target) return;
 
     const href = target.getAttribute('href');
-    // Only redirect if link points exactly to /events/ (with or without trailing slash)
-    // Allow domain-prefixed URLs and relative URLs
-    const eventsPattern = /^(https?:\/\/[^/]+)?\/events\/?$/;
+    if (!href) return;
     
-    if (href && eventsPattern.test(href)) {
+    // Only redirect if link points exactly to /events/ (with or without trailing slash)
+    if (EVENTS_ROOT_PATTERN.test(href)) {
       event.preventDefault();
       const currentDatePath = getCurrentDatePath();
-      window.location.href = currentDatePath;
+      window.location.replace(currentDatePath);
     }
   }
 
