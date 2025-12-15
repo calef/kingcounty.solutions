@@ -30,7 +30,7 @@ module Mayhem
 
       def delete(path, document = nil)
         event_id = File.basename(path, '.md')
-        
+
         # If document is provided, collect and prune images
         if document
           image_ids = @images_pruner.collect_image_ids(document.front_matter)
@@ -39,7 +39,7 @@ module Mayhem
         else
           delete_file(path)
         end
-        
+
         prune_event_links([event_id])
       end
 
