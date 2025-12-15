@@ -2,79 +2,49 @@
 
 require 'fileutils'
 
-require_relative '../images/cleanup'
 require_relative '../front_matter/document'
+require_relative '../images/pruner'
 
 module Mayhem
-  module Content
-    class ContentPruner
-      attr_reader :posts_dir, :events_dir, :image_cleanup
-
-      def initialize(
-        posts_dir:,
-        events_dir:,
-        images_dir:,
-        assets_dir:,
-        logger:,
-        image_cleanup: nil
-      )
+  module Events
+    class Pruner
+      def initialize(posts_dir:, events_dir:, images_pruner:, logger:)
         @posts_dir = posts_dir
         @events_dir = events_dir
+        @images_pruner = images_pruner
         @logger = logger
-        @image_cleanup = image_cleanup || Mayhem::Images::Cleanup.new(
-          posts_dir: posts_dir,
-          events_dir: events_dir,
-          images_dir: images_dir,
-          assets_dir: assets_dir,
-          logger: logger
-        )
       end
 
-      def unpublish_post(path, document)
+      def unpublish(path, document)
         front_matter = document.front_matter
 
         front_matter['published'] = false
-        image_ids = @image_cleanup.collect_image_ids(front_matter)
+        image_ids = @images_pruner.collect_image_ids(front_matter)
         front_matter['images'] = []
 
         document.front_matter = front_matter
         document.save
 
-        @image_cleanup.cleanup(image_ids, excluded_paths: Set[path]) if image_ids.any?
+        @images_pruner.prune(image_ids, excluded_paths: Set[path]) if image_ids.any?
       end
 
-      def unpublish_event(path, document)
-        front_matter = document.front_matter
-
-        front_matter['published'] = false
-        image_ids = @image_cleanup.collect_image_ids(front_matter)
-        front_matter['images'] = []
-
-        document.front_matter = front_matter
-        document.save
-
-        # For events, we need to check both posts and events directories
-        excluded_paths = Set[path]
-        @image_cleanup.cleanup(image_ids, excluded_paths: excluded_paths) if image_ids.any?
-      end
-
-      def delete_event(path)
+      def delete(path)
         event_id = File.basename(path, '.md')
-        remove_file(path)
-        clean_event_links([event_id])
+        delete_file(path)
+        prune_event_links([event_id])
       end
 
-      def cleanup_images(image_ids, excluded_paths:)
-        @image_cleanup.cleanup(image_ids, excluded_paths: excluded_paths)
+      def prune_images(image_ids, excluded_paths:)
+        @images_pruner.prune(image_ids, excluded_paths: excluded_paths)
       end
 
       def collect_image_ids(front_matter)
-        @image_cleanup.collect_image_ids(front_matter)
+        @images_pruner.collect_image_ids(front_matter)
       end
 
       private
 
-      def clean_event_links(removed_event_ids)
+      def prune_event_links(removed_event_ids)
         removed_set = removed_event_ids.to_set
         posts_updated = 0
 
@@ -101,7 +71,7 @@ module Mayhem
         @logger.info "Updated #{posts_updated} post#{'s' unless posts_updated == 1} to remove deleted event links." if posts_updated.positive?
       end
 
-      def remove_file(path)
+      def delete_file(path)
         FileUtils.rm(path)
       rescue Errno::ENOENT
         # already removed
