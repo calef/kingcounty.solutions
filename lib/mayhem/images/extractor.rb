@@ -9,6 +9,10 @@ require_relative '../logging'
 require_relative '../front_matter/document'
 require_relative '../support/http_client'
 require_relative '../feed/discovery'
+require_relative '../image_files/validator'
+require_relative '../image_files/converter'
+require_relative '../image_files/downloader'
+require_relative '../image_files/writer'
 
 module Mayhem
   module Images
@@ -27,15 +31,6 @@ module Mayhem
       rescue StandardError
         30
       end
-      RASTER_EXTENSIONS = %w[.jpg .jpeg .png .gif .bmp .tif .tiff].freeze
-      ALLOWED_EXTENSIONS = (RASTER_EXTENSIONS + %w[.webp .svg]).freeze
-      CONTENT_TYPE_TO_EXTENSION = {
-        'image/jpeg' => '.jpg',
-        'image/png' => '.png',
-        'image/gif' => '.gif',
-        'image/webp' => '.webp',
-        'image/svg+xml' => '.svg'
-      }.freeze
       MIN_IMAGE_DIMENSION = begin
         Integer(ENV.fetch('IMAGE_MIN_DIMENSION', '300'))
       rescue StandardError
@@ -61,8 +56,12 @@ module Mayhem
         @open_timeout = open_timeout
         @read_timeout = read_timeout
         FileUtils.mkdir_p(@image_docs_dir)
-        FileUtils.mkdir_p(@asset_dir)
         @http = http_client || Mayhem::Support::HttpClient.new(timeout: @read_timeout, logger: @logger)
+
+        @validator = Mayhem::ImageFiles::Validator.new(logger: @logger, min_dimension: MIN_IMAGE_DIMENSION)
+        @converter = Mayhem::ImageFiles::Converter.new(logger: @logger)
+        @downloader = Mayhem::ImageFiles::Downloader.new(logger: @logger, http_client: @http, validator: @validator)
+        @writer = Mayhem::ImageFiles::Writer.new(asset_dir: @asset_dir)
       end
 
       def run
@@ -173,88 +172,19 @@ module Mayhem
             collected_ids << cached_checksum
             next
           end
-          downloaded = download_image(img[:url], stats)
+          downloaded = @downloader.download(img[:url], stats)
           next unless downloaded
 
-          converted_data, converted_ext = convert_to_webp(downloaded[:data], downloaded[:ext], img[:url])
-          next if converted_ext == '.webp' && !meets_minimum_dimensions?(converted_data, img[:url], stats)
+          converted_data, converted_ext = @converter.convert_to_webp(downloaded[:data], downloaded[:ext], img[:url])
+          next if converted_ext == '.webp' && !@validator.meets_minimum_dimensions?(converted_data, img[:url], stats)
 
           checksum = Digest::SHA256.hexdigest(converted_data)
-          filename = image_asset_filename(checksum, converted_ext) { converted_data }
+          filename = @writer.write(checksum, converted_ext, converted_data)
           ensure_image_doc(checksum, img[:alt], filename, frontmatter, img[:url])
           cache[img[:url]] = checksum
           collected_ids << checksum
         end
         collected_ids.uniq
-      end
-
-      def download_image(url, stats)
-        uri = URI.parse(url)
-        return nil unless %w[http https].include?(uri.scheme) && uri.host
-
-        page = @http.fetch(uri.to_s, accept: Mayhem::FeedDiscovery::ACCEPT_FEED, max_bytes: 2_097_152)
-        ext = image_extension(uri, page[:content_type])
-        unless allowed_extension?(ext)
-          logger.info "Skipping #{url}: unsupported image type (#{ext || 'unknown'})"
-          stats[:skipped_unsupported_images] += 1
-          return nil
-        end
-        data = page[:body]
-        { data:, ext: ext }
-      rescue StandardError => e
-        logger.warn "Failed to download #{url}: #{e.message}"
-        stats[:download_failures] += 1
-        nil
-      end
-
-      def image_extension(uri, content_type)
-        from_path = File.extname(uri.path).downcase
-        return from_path if allowed_extension?(from_path)
-
-        CONTENT_TYPE_TO_EXTENSION[content_type.to_s.split(';').first]
-      end
-
-      def allowed_extension?(extension)
-        extension && ALLOWED_EXTENSIONS.include?(extension)
-      end
-
-      def convert_to_webp(data, ext, source_url)
-        ext = ext.to_s.downcase
-        return [data, ext] unless RASTER_EXTENSIONS.include?(ext)
-
-        image = MiniMagick::Image.read(data)
-        image.format 'webp'
-        [image.to_blob, '.webp']
-      rescue StandardError => e
-        logger.warn "Failed to convert #{source_url} to WebP: #{e.message}"
-        [data, ext]
-      end
-
-      def meets_minimum_dimensions?(data, source_url, stats)
-        return true unless MIN_IMAGE_DIMENSION.positive?
-
-        image = MiniMagick::Image.read(data)
-        if image.width >= MIN_IMAGE_DIMENSION && image.height >= MIN_IMAGE_DIMENSION
-          true
-        else
-          logger.info(
-            "Skipping #{source_url}: WebP image " \
-            "#{image.width}x#{image.height} smaller than #{MIN_IMAGE_DIMENSION}px"
-          )
-          stats[:skipped_small_images] += 1
-          false
-        end
-      rescue MiniMagick::Error => e
-        logger.warn "Failed to inspect dimensions for #{source_url}: #{e.message}"
-        stats[:skipped_small_images] += 1
-        false
-      end
-
-      def image_asset_filename(checksum, ext)
-        filename = "#{checksum}#{ext}"
-        path = File.join(@asset_dir, filename)
-        File.binwrite(path, yield) unless File.exist?(path)
-        filename
       end
 
       def ensure_image_doc(checksum, alt, filename, frontmatter, original_url)
