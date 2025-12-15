@@ -28,9 +28,18 @@ module Mayhem
         @images_pruner.prune(image_ids, excluded_paths: Set[path]) if image_ids.any?
       end
 
-      def delete(path)
+      def delete(path, document = nil)
         event_id = File.basename(path, '.md')
-        delete_file(path)
+        
+        # If document is provided, collect and prune images
+        if document
+          image_ids = @images_pruner.collect_image_ids(document.front_matter)
+          delete_file(path)
+          @images_pruner.prune(image_ids, excluded_paths: Set[path]) if image_ids.any?
+        else
+          delete_file(path)
+        end
+        
         prune_event_links([event_id])
       end
 

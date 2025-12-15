@@ -65,7 +65,7 @@ module Mayhem
         events_deleted = prune_events(organization_title)
 
         # Find and prune all news posts for this organization
-        posts_deleted = prune_posts(organization_title)
+        posts_deleted = prune_news(organization_title)
 
         @logger.info "Pruned #{events_deleted} event(s) and #{posts_deleted} post(s) for #{organization_title}"
         { events: events_deleted, posts: posts_deleted }
@@ -83,13 +83,13 @@ module Mayhem
           next unless source == organization_title
 
           @logger.info "Deleting event: #{File.basename(event_path)}"
-          @events_pruner.delete(event_path)
+          @events_pruner.delete(event_path, document)
           deleted_count += 1
         end
         deleted_count
       end
 
-      def prune_posts(organization_title)
+      def prune_news(organization_title)
         deleted_count = 0
         Dir.glob(File.join(@posts_dir, '*.md')).each do |post_path|
           document = Mayhem::FrontMatter::Document.load(post_path, logger: @logger)
@@ -98,24 +98,12 @@ module Mayhem
           source = document.front_matter['source']
           next unless source == organization_title
 
-          # Collect image IDs before deleting
-          image_ids = @news_pruner.collect_image_ids(document.front_matter)
-
           @logger.info "Deleting post: #{File.basename(post_path)}"
-          delete_file(post_path)
-
-          # Prune images that are no longer referenced
-          @news_pruner.prune_images(image_ids, excluded_paths: Set[post_path]) if image_ids.any?
+          @news_pruner.delete(post_path, document)
 
           deleted_count += 1
         end
         deleted_count
-      end
-
-      def delete_file(path)
-        FileUtils.rm(path)
-      rescue Errno::ENOENT
-        # already removed
       end
     end
   end
