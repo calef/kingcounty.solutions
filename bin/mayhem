@@ -17,6 +17,10 @@ module Mayhem
         description: 'Checks source_url availability and unpublishes or deletes content when links are dead',
         handler: :run_check_source_urls
       },
+      'delete-organization' => {
+        description: 'Deletes all events and news posts associated with an organization',
+        handler: :run_delete_organization
+      },
       'expire' => {
         description: 'Deletes posts and events outside configured age window',
         handler: :run_expire
@@ -136,6 +140,21 @@ module Mayhem
         require 'mayhem/content/source_url_checker'
 
         Mayhem::Content::SourceUrlChecker.new.run
+      end
+
+      def run_delete_organization(args)
+        require 'mayhem/logging'
+        require 'mayhem/organizations/pruner'
+
+        if args.empty?
+          warn 'Usage: mayhem delete-organization "Organization Title"'
+          exit 1
+        end
+
+        organization_title = args.first
+        logger = Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL', default_level: 'INFO', program_name: 'mayhem')
+
+        Mayhem::Organizations::Pruner.prune(organization_title, logger: logger)
       end
 
       def run_expire(_args)
