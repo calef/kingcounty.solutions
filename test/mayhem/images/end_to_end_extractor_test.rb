@@ -6,6 +6,9 @@ require 'fileutils'
 require_relative '../../test_helper'
 require_relative '../../../lib/mayhem/logging'
 require_relative '../../../lib/mayhem/images/extractor'
+require_relative '../../../lib/mayhem/image_files/downloader'
+require_relative '../../../lib/mayhem/image_files/converter'
+require_relative '../../../lib/mayhem/image_files/validator'
 require_relative '../../../lib/mayhem/front_matter/document'
 
 module News
@@ -42,13 +45,21 @@ module News
           logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL')
         )
 
-        extractor.stub(:download_image, { data: 'image-data', ext: '.png' }) do
-          extractor.stub(:convert_to_webp, ['image-data', '.webp']) do
-            extractor.stub(:meets_minimum_dimensions?, true) do
-              extractor.run
-            end
-          end
-        end
+        # Stub the downloader, converter, and validator instances
+        downloader_stub = Minitest::Mock.new
+        downloader_stub.expect(:download, { data: 'image-data', ext: '.png' }, [String, Hash])
+        
+        converter_stub = Minitest::Mock.new
+        converter_stub.expect(:convert_to_webp, ['image-data', '.webp'], [String, String, String])
+        
+        validator_stub = Minitest::Mock.new
+        validator_stub.expect(:meets_minimum_dimensions?, true, [String, String, Hash])
+
+        extractor.instance_variable_set(:@downloader, downloader_stub)
+        extractor.instance_variable_set(:@converter, converter_stub)
+        extractor.instance_variable_set(:@validator, validator_stub)
+
+        extractor.run
 
         document = Mayhem::FrontMatter::Document.load(post_path)
         checksums = document.front_matter['images']
@@ -60,6 +71,10 @@ module News
         image_doc_path = File.join(images_dir, "#{checksum}.md")
 
         assert_path_exists image_doc_path, 'expected image document to be created'
+        
+        downloader_stub.verify
+        converter_stub.verify
+        validator_stub.verify
       end
     end
 
@@ -94,19 +109,31 @@ module News
           logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL')
         )
 
-        extractor.stub(:download_image, { data: 'image-data', ext: '.png' }) do
-          extractor.stub(:convert_to_webp, ['image-data', '.webp']) do
-            extractor.stub(:meets_minimum_dimensions?, true) do
-              extractor.run
-            end
-          end
-        end
+        # Stub the downloader, converter, and validator instances
+        downloader_stub = Minitest::Mock.new
+        downloader_stub.expect(:download, { data: 'image-data', ext: '.png' }, [String, Hash])
+        
+        converter_stub = Minitest::Mock.new
+        converter_stub.expect(:convert_to_webp, ['image-data', '.webp'], [String, String, String])
+        
+        validator_stub = Minitest::Mock.new
+        validator_stub.expect(:meets_minimum_dimensions?, true, [String, String, Hash])
+
+        extractor.instance_variable_set(:@downloader, downloader_stub)
+        extractor.instance_variable_set(:@converter, converter_stub)
+        extractor.instance_variable_set(:@validator, validator_stub)
+
+        extractor.run
 
         document = Mayhem::FrontMatter::Document.load(event_path)
         checksums = document.front_matter['images']
 
         refute_nil checksums
         assert_equal 1, checksums.length
+        
+        downloader_stub.verify
+        converter_stub.verify
+        validator_stub.verify
       end
     end
 

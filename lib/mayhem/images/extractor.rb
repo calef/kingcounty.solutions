@@ -229,27 +229,6 @@ module Mayhem
         summary = summary_fields.map { |k, v| "#{k}=#{v}" }.join(', ')
         logger.info "extract-images-from-content complete: #{summary}"
       end
-
-      # Delegation methods for backward compatibility with tests
-      def download_image(url, stats)
-        @downloader.download(url, stats)
-      end
-
-      def image_extension(uri, content_type)
-        @validator.image_extension(uri, content_type)
-      end
-
-      def allowed_extension?(extension)
-        @validator.allowed_extension?(extension)
-      end
-
-      def convert_to_webp(data, ext, source_url)
-        @converter.convert_to_webp(data, ext, source_url)
-      end
-
-      def meets_minimum_dimensions?(data, source_url, stats)
-        @validator.meets_minimum_dimensions?(data, source_url, stats)
-      end
     end
   end
 end
