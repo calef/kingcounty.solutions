@@ -1,115 +1,100 @@
 ---
-end_date: '2025-12-18T11:30:00-08:00'
+end_date: '2025-12-15T16:30:00-08:00'
 feed_content: '<div> <div> <section> <title>WorkSource Seattle-King County</title>
-  <script>{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://worksourceskc.org/event/online-strategies-for-success-communication-n-seattle-860/","url":"https://worksourceskc.org/event/online-strategies-for-success-communication-n-seattle-860/","name":"ONLINE
-  Strategies for Success: Communication (N. Seattle) - WorkSource Seattle-King County","isPartOf":{"@id":"https://www.worksourceskc.org/#website"},"datePublished":"2025-11-19T16:27:43+00:00","dateModified":"2025-12-14T21:34:12+00:00","description":"Class
-  times: 8:30AM-11:30AM (4-day class)Module 3: Communication &#8211; Communication
-  is a skill that never stops growing! Come learn how to improve your","breadcrumb":{"@id":"https://worksourceskc.org/event/online-strategies-for-success-communication-n-seattle-860/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://worksourceskc.org/event/online-strategies-for-success-communication-n-seattle-860/"]}]},{"@type":"BreadcrumbList","@id":"https://worksourceskc.org/event/online-strategies-for-success-communication-n-seattle-860/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"ONLINE
-  Strategies for Success: Communication (N. Seattle)"}]},{"@type":"WebSite","@id":"https://www.worksourceskc.org/#website","url":"https://www.worksourceskc.org/","name":"WorkSource
+  <script>{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://worksourceskc.org/event/online-financial-capabilities-make-changes-with-your-money-pullman-day-1-of-2-194/","url":"https://worksourceskc.org/event/online-financial-capabilities-make-changes-with-your-money-pullman-day-1-of-2-194/","name":"ONLINE
+  Financial Capabilities: Make Changes With Your Money (Pullman) Day 1 of 2 - WorkSource
+  Seattle-King County","isPartOf":{"@id":"https://www.worksourceskc.org/#website"},"datePublished":"2025-11-19T16:26:54+00:00","dateModified":"2025-12-15T15:33:51+00:00","description":"Make
+  changes with your moneyConsider your financial goals and learn how to use banks
+  and lending institutions.","breadcrumb":{"@id":"https://worksourceskc.org/event/online-financial-capabilities-make-changes-with-your-money-pullman-day-1-of-2-194/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://worksourceskc.org/event/online-financial-capabilities-make-changes-with-your-money-pullman-day-1-of-2-194/"]}]},{"@type":"BreadcrumbList","@id":"https://worksourceskc.org/event/online-financial-capabilities-make-changes-with-your-money-pullman-day-1-of-2-194/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"ONLINE
+  Financial Capabilities: Make Changes With Your Money (Pullman) Day 1 of 2"}]},{"@type":"WebSite","@id":"https://www.worksourceskc.org/#website","url":"https://www.worksourceskc.org/","name":"WorkSource
   Seattle-King County","description":"Let&#039;s find your path together!","publisher":{"@id":"https://www.worksourceskc.org/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.worksourceskc.org/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://www.worksourceskc.org/#organization","name":"WorkSource
   Seattle-King County","url":"https://www.worksourceskc.org/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.worksourceskc.org/#/schema/logo/image/","url":"","contentUrl":"","caption":"WorkSource
   Seattle-King County"},"image":{"@id":"https://www.worksourceskc.org/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/worksourceskc/"]},{"@type":"Event","name":"ONLINE
-  Strategies for Success: Communication (N. Seattle)","description":"Class times:
-  8:30AM-11:30AM (4-day class) Module 3: Communication &#8211; Communication is a
-  skill that never stops growing! Come learn how&hellip;","url":"https://worksourceskc.org/event/online-strategies-for-success-communication-n-seattle-860/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2025-12-15T08:30:00-08:00","endDate":"2025-12-18T11:30:00-08:00","@id":"https://worksourceskc.org/event/online-strategies-for-success-communication-n-seattle-860/#event","mainEntityOfPage":{"@id":"https://worksourceskc.org/event/online-strategies-for-success-communication-n-seattle-860/"}}]}</script>
-  <title>ONLINE Strategies for Success: Communication (N. Seattle) – WorkSource Seattle-King
-  County</title> <a>Skip to main content</a> <header> <div> <div> <div> <div> <div>
-  <ul> <li><a>Job Board</a></li> </ul> <ul> <li> <a>Staff Log-In</a> </li> </ul> </div>
-  </div> <div> <ul> <li> <a>Job Seekers</a> <ul> <li> <a>Get Started with Personalized
-  Support</a> <ul> <li><a>Sign Up for Services</a></li> <li><a>Layoff Support</a></li>
-  </ul> </li> <li> <a>Self-Serve Resources</a> <ul> <li><a>Career Exploration</a></li>
-  <li><a>Skills &amp; Training</a></li> <li><a>Job Search</a></li> </ul> </li> <li><a>Workshops
-  &amp; Hiring Events</a></li> </ul> </li> <li> <a>Employers</a> <ul> <li> <a>Business
-  Services</a> <ul> <li><a>Employer Inquiry Form</a></li> <li><a>Business Connection
-  Partners</a></li> <li><a>Business Assistance &amp; Workforce Support</a></li> <li><a>Small-Business
-  Assistance</a></li> <li><a>Employee Development</a></li> </ul> </li> <li><a>Layoff
-  Support, Aversion and Retention</a></li> </ul> </li> <li> <a>Locations</a> <ul>
-  <li><a>Auburn</a></li> <li><a>Downtown Seattle</a></li> <li><a>North Seattle</a></li>
-  <li><a>Rainier</a></li> <li><a>South Seattle</a></li> </ul> </li> <li><a>About</a></li>
-  </ul> </div> </div> </div> </div> </header> <div> <section> <div> <div> <div> <a>Go
-  to Back to Calendar </a> <h1>ONLINE Strategies for Success: Communication (N. Seattle)</h1>
-  <div><p><strong>December 15</strong> Monday | 8:30am - 11:30am</p></div> <div> <a>Add
-  to Calendar</a> <span>December 15 8:30am</span> <span>12/18/2025 11:30am</span>
-  <span>America/Los_Angeles</span> <span>ONLINE Strategies for Success: Communication
-  (N. Seattle)</span> <span>Class times: 8:30AM-11:30AM (4-day class) Module 3: Communication
-  – Communication is a skill that never stops growing! Come learn how…</span> </div>
-  <div><p>Zoom Online Meeting: Register for the workshop and the instructor will email
-  meeting links to you.</p></div> <p><strong>Room: </strong>Zoom</p> <p><strong>Contact
-  Name: </strong>Frank Chafe</p> <p><strong>Contact Phone: </strong>206-934-6102</p>
-  <p><strong>Contact Email: </strong><a>frank.chafe@esd.wa.gov</a></p> <p><strong>Workshop
+  Financial Capabilities: Make Changes With Your Money (Pullman) Day 1 of 2","description":"Make
+  changes with your money Consider your financial goals and learn how to use banks
+  and lending institutions.","url":"https://worksourceskc.org/event/online-financial-capabilities-make-changes-with-your-money-pullman-day-1-of-2-194/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2025-12-15T14:30:00-08:00","endDate":"2025-12-15T16:30:00-08:00","@id":"https://worksourceskc.org/event/online-financial-capabilities-make-changes-with-your-money-pullman-day-1-of-2-194/#event","mainEntityOfPage":{"@id":"https://worksourceskc.org/event/online-financial-capabilities-make-changes-with-your-money-pullman-day-1-of-2-194/"}}]}</script>
+  <title>ONLINE Financial Capabilities: Make Changes With Your Money (Pullman) Day
+  1 of 2 – WorkSource Seattle-King County</title> <a>Skip to main content</a> <header>
+  <div> <div> <div> <div> <div> <ul> <li><a>Job Board</a></li> </ul> <ul> <li> <a>Staff
+  Log-In</a> </li> </ul> </div> </div> <div> <ul> <li> <a>Job Seekers</a> <ul> <li>
+  <a>Get Started with Personalized Support</a> <ul> <li><a>Sign Up for Services</a></li>
+  <li><a>Layoff Support</a></li> </ul> </li> <li> <a>Self-Serve Resources</a> <ul>
+  <li><a>Career Exploration</a></li> <li><a>Skills &amp; Training</a></li> <li><a>Job
+  Search</a></li> </ul> </li> <li><a>Workshops &amp; Hiring Events</a></li> </ul>
+  </li> <li> <a>Employers</a> <ul> <li> <a>Business Services</a> <ul> <li><a>Employer
+  Inquiry Form</a></li> <li><a>Business Connection Partners</a></li> <li><a>Business
+  Assistance &amp; Workforce Support</a></li> <li><a>Small-Business Assistance</a></li>
+  <li><a>Employee Development</a></li> </ul> </li> <li><a>Layoff Support, Aversion
+  and Retention</a></li> </ul> </li> <li> <a>Locations</a> <ul> <li><a>Auburn</a></li>
+  <li><a>Downtown Seattle</a></li> <li><a>North Seattle</a></li> <li><a>Rainier</a></li>
+  <li><a>South Seattle</a></li> </ul> </li> <li><a>About</a></li> </ul> </div> </div>
+  </div> </div> </header> <div> <section> <div> <div> <div> <a>Go to Back to Calendar
+  </a> <h1>ONLINE Financial Capabilities: Make Changes With Your Money (Pullman) Day
+  1 of 2</h1> <div><p><strong>December 15</strong> Monday | 2:30pm - 4:30pm</p></div>
+  <div> <a>Add to Calendar</a> <span>December 15 2:30pm</span> <span>12/15/2025 4:30pm</span>
+  <span>America/Los_Angeles</span> <span>ONLINE Financial Capabilities: Make Changes
+  With Your Money (Pullman) Day 1 of 2</span> <span>Make changes with your money Consider
+  your financial goals and learn how to use banks and lending institutions.</span>
+  </div> <div><p>Online virtual workshop series: Mon and Wed</p></div> <p><strong>Room:
+  </strong>Online Zoom Meeting</p> <p><strong>Contact Name: </strong>Karla Hood</p>
+  <p><strong>Contact Email: </strong><a>karla.hood@esd.wa.gov</a></p> <p><strong>Workshop
   Language: </strong>English</p> <p><strong>Event Registration: </strong>Sign Up Required</p>
   <p><a>Sign Up</a></p> <p><strong>Approved Unemployment Insurance (UI) Job Search
-  Activity:</strong> Yes</p> <p><strong>Additional Info:</strong></p> <p>Strategies
-  for Success is a series of life-skills workshops open to everyone. It is flexible
-  and customizable – each workshop module can stand alone or be combined with other
-  modules to provide a personalized experience. Modules can be taken in any order.
-  Each of the six modules is four days long, starting on the first business day of
-  each week.</p> <p>If class registration is full and participants are waitlisted,
-  all registrations (regular and waitlist) will be evaluated according to the following
-  criteria for deferment or acceptance into class:</p> <ol> <li>Program referrals
-  </li> <li>Veterans </li> <li>Continuing or returning students (those working through
-  the series of modules) </li> <li>Repeating students (those who have previously completed
-  the module) </li> <li>Walk-ins (not program-connected)</li> </ol> <p>Please go to
-  WorkSourceWA.com and create a job-seeker account prior to attending the workshop.</p>
-  <p>*If you entered a valid email address, you will receive email updates of any
-  registration or status changes. Remember to check your SPAM folder if you are not
-  receiving emails from us.</p> <p>If you need an accommodation to participate in
-  this training, contact Frank Chafe, <a>frank.chafe@esd.wa.gov</a>360-801-8404, Washington
-  Relay 711. Please provide your name and accommodation request. Please make your
-  accommodation request as early as possible so arrangements can be made.</p> <p>Video
-  conferencing can use a large portion of bandwidth and will use a significant amount
-  of data. Before signing up, be sure you have a data plan or reliable WiFi access
-  that can accommodate this. To attend the workshop, you are encouraged to use a device
-  capable of viewing video and content (computer, mobile device, or video system)
-  and have audio capability.When you sign up for this event, please use the same name
-  and email address that you use with your worksourcewa.com account, if possible.</p>
-  <strong>Description:</strong><strong>Class times: 8:30AM-11:30AM (4-day class)</strong>Module
-  3: Communication – C<em>ommunication is a skill that never stops growing! Come learn
-  how to improve your skills and odds of landing that next job!</em><ul> <li>Learn
-  about interpersonal and business communication and discover your own style </li>
-  <li>Develop better listening, writing, computer and presentation skills </li> <li>Find
-  out about verbal &amp; non-verbal cues, practice conflict resolution and get tips
-  on emotional control </li> <li>Get tips on how to present yourself the right way
-  on the phone, in email and on social media.</li> </ul> </div> </div> </div> </section>
-  </div> </section> </div> </div>'
-feed_content_checksum: 55fcdb9ff89cae7ca5152d0ca44b6610c34225b0
+  Activity:</strong> Yes</p> <p><strong>Additional Info:</strong></p> <p>*Register
+  through the Day 1 listing of this two-part workshop*This twice-a-week, six-week
+  workshop series empowers you to make informed and smart financial decisions. The
+  series is flexible and customizable – each unit can stand alone or be combined with
+  other units to provide a personalized experience. Units can be taken in any order.
+  Please go to WorkSourceWA.com and create your account prior to attending this workshop.</p>
+  <p>If class registration is full and participants are waitlisted, all registrations
+  (regular and waitlist) will be evaluated according to the following criteria for
+  deferment or acceptance into class:</p> <ol> <li>Program referrals </li> <li>Veterans
+  </li> <li>Continuing or returning students (those working through the series of
+  modules) </li> <li>Repeating students (those who have previously completed the module)
+  </li> <li>Walk-ins (not program-connected)</li> </ol> <p><strong><em>If you need
+  an accommodation to participate in this training, contact NAME, EMAIL, PHONE NUMBER,
+  Washington Relay 711. Please provide your name and accommodation request. Please
+  make your accommodation request as early as possible so arrangements can be made.</em></strong></p>
+  <strong>Description:</strong><strong>Make changes with your money</strong><p>Consider
+  your financial goals and learn how to use banks and lending institutions.</p> </div>
+  </div> </div> </section> </div> </section> </div> </div>'
+feed_content_checksum: 2d003dc3082786728112d3ba88d8e108c1a3264a
 images: []
 location: ''
-locations:
-- King County
+locations: []
 original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta charset=\"UTF-8\"
   />\n\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\n<meta
   name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'
   />\n\t<style>img:is([sizes=\"auto\" i], [sizes^=\"auto,\" i]) { contain-intrinsic-size:
   3000px 1500px }</style>\n\t\n\t<!-- This site is optimized with the Yoast SEO plugin
   v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n\t<meta name=\"description\"
-  content=\"Class times: 8:30AM-11:30AM (4-day class)Module 3: Communication &#8211;
-  Communication is a skill that never stops growing! Come learn how to improve your\"
-  />\n\t<link rel=\"canonical\" href=\"https://worksourceskc.org/event/online-strategies-for-success-communication-n-seattle-860/\"
+  content=\"Make changes with your moneyConsider your financial goals and learn how
+  to use banks and lending institutions.\" />\n\t<link rel=\"canonical\" href=\"https://worksourceskc.org/event/online-financial-capabilities-make-changes-with-your-money-pullman-day-1-of-2-194/\"
   />\n\t<meta property=\"og:locale\" content=\"en_US\" />\n\t<meta property=\"og:type\"
-  content=\"article\" />\n\t<meta property=\"og:title\" content=\"ONLINE Strategies
-  for Success: Communication (N. Seattle) - WorkSource Seattle-King County\" />\n\t<meta
-  property=\"og:description\" content=\"Class times: 8:30AM-11:30AM (4-day class)Module
-  3: Communication &#8211; Communication is a skill that never stops growing! Come
-  learn how to improve your\" />\n\t<meta property=\"og:url\" content=\"https://worksourceskc.org/event/online-strategies-for-success-communication-n-seattle-860/\"
+  content=\"article\" />\n\t<meta property=\"og:title\" content=\"ONLINE Financial
+  Capabilities: Make Changes With Your Money (Pullman) Day 1 of 2 - WorkSource Seattle-King
+  County\" />\n\t<meta property=\"og:description\" content=\"Make changes with your
+  moneyConsider your financial goals and learn how to use banks and lending institutions.\"
+  />\n\t<meta property=\"og:url\" content=\"https://worksourceskc.org/event/online-financial-capabilities-make-changes-with-your-money-pullman-day-1-of-2-194/\"
   />\n\t<meta property=\"og:site_name\" content=\"WorkSource Seattle-King County\"
   />\n\t<meta property=\"article:publisher\" content=\"https://www.facebook.com/worksourceskc/\"
-  />\n\t<meta property=\"article:modified_time\" content=\"2025-12-14T21:35:11+00:00\"
+  />\n\t<meta property=\"article:modified_time\" content=\"2025-12-15T15:33:51+00:00\"
   />\n\t<meta name=\"twitter:card\" content=\"summary_large_image\" />\n\t<script
-  type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://worksourceskc.org/event/online-strategies-for-success-communication-n-seattle-860/\",\"url\":\"https://worksourceskc.org/event/online-strategies-for-success-communication-n-seattle-860/\",\"name\":\"ONLINE
-  Strategies for Success: Communication (N. Seattle) - WorkSource Seattle-King County\",\"isPartOf\":{\"@id\":\"https://www.worksourceskc.org/#website\"},\"datePublished\":\"2025-11-19T16:27:43+00:00\",\"dateModified\":\"2025-12-14T21:35:11+00:00\",\"description\":\"Class
-  times: 8:30AM-11:30AM (4-day class)Module 3: Communication &#8211; Communication
-  is a skill that never stops growing! Come learn how to improve your\",\"breadcrumb\":{\"@id\":\"https://worksourceskc.org/event/online-strategies-for-success-communication-n-seattle-860/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://worksourceskc.org/event/online-strategies-for-success-communication-n-seattle-860/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://worksourceskc.org/event/online-strategies-for-success-communication-n-seattle-860/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.worksourceskc.org/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Events\",\"item\":\"https://worksourceskc.org/events_list/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"ONLINE
-  Strategies for Success: Communication (N. Seattle)\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://www.worksourceskc.org/#website\",\"url\":\"https://www.worksourceskc.org/\",\"name\":\"WorkSource
+  type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://worksourceskc.org/event/online-financial-capabilities-make-changes-with-your-money-pullman-day-1-of-2-194/\",\"url\":\"https://worksourceskc.org/event/online-financial-capabilities-make-changes-with-your-money-pullman-day-1-of-2-194/\",\"name\":\"ONLINE
+  Financial Capabilities: Make Changes With Your Money (Pullman) Day 1 of 2 - WorkSource
+  Seattle-King County\",\"isPartOf\":{\"@id\":\"https://www.worksourceskc.org/#website\"},\"datePublished\":\"2025-11-19T16:26:54+00:00\",\"dateModified\":\"2025-12-15T15:33:51+00:00\",\"description\":\"Make
+  changes with your moneyConsider your financial goals and learn how to use banks
+  and lending institutions.\",\"breadcrumb\":{\"@id\":\"https://worksourceskc.org/event/online-financial-capabilities-make-changes-with-your-money-pullman-day-1-of-2-194/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://worksourceskc.org/event/online-financial-capabilities-make-changes-with-your-money-pullman-day-1-of-2-194/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://worksourceskc.org/event/online-financial-capabilities-make-changes-with-your-money-pullman-day-1-of-2-194/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.worksourceskc.org/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Events\",\"item\":\"https://worksourceskc.org/events_list/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"ONLINE
+  Financial Capabilities: Make Changes With Your Money (Pullman) Day 1 of 2\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://www.worksourceskc.org/#website\",\"url\":\"https://www.worksourceskc.org/\",\"name\":\"WorkSource
   Seattle-King County\",\"description\":\"Let&#039;s find your path together!\",\"publisher\":{\"@id\":\"https://www.worksourceskc.org/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://www.worksourceskc.org/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https://www.worksourceskc.org/#organization\",\"name\":\"WorkSource
   Seattle-King County\",\"url\":\"https://www.worksourceskc.org/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://www.worksourceskc.org/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"WorkSource
   Seattle-King County\"},\"image\":{\"@id\":\"https://www.worksourceskc.org/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/worksourceskc/\"]},{\"@type\":\"Event\",\"name\":\"ONLINE
-  Strategies for Success: Communication (N. Seattle)\",\"description\":\"Class times:
-  8:30AM-11:30AM (4-day class) Module 3: Communication &#8211; Communication is a
-  skill that never stops growing! Come learn how&hellip;\",\"url\":\"https://worksourceskc.org/event/online-strategies-for-success-communication-n-seattle-860/\",\"eventAttendanceMode\":\"https://schema.org/OfflineEventAttendanceMode\",\"eventStatus\":\"https://schema.org/EventScheduled\",\"startDate\":\"2025-12-15T08:30:00-08:00\",\"endDate\":\"2025-12-18T11:30:00-08:00\",\"@id\":\"https://worksourceskc.org/event/online-strategies-for-success-communication-n-seattle-860/#event\",\"mainEntityOfPage\":{\"@id\":\"https://worksourceskc.org/event/online-strategies-for-success-communication-n-seattle-860/\"}}]}</script>\n\t<!--
-  / Yoast SEO plugin. -->\n\n\n<title>ONLINE Strategies for Success: Communication
-  (N. Seattle) - WorkSource Seattle-King County</title>\n<link rel='dns-prefetch'
-  href='//worksourceskc.org' />\n<link rel='dns-prefetch' href='//connect.facebook.net'
+  Financial Capabilities: Make Changes With Your Money (Pullman) Day 1 of 2\",\"description\":\"Make
+  changes with your money Consider your financial goals and learn how to use banks
+  and lending institutions.\",\"url\":\"https://worksourceskc.org/event/online-financial-capabilities-make-changes-with-your-money-pullman-day-1-of-2-194/\",\"eventAttendanceMode\":\"https://schema.org/OfflineEventAttendanceMode\",\"eventStatus\":\"https://schema.org/EventScheduled\",\"startDate\":\"2025-12-15T14:30:00-08:00\",\"endDate\":\"2025-12-15T16:30:00-08:00\",\"@id\":\"https://worksourceskc.org/event/online-financial-capabilities-make-changes-with-your-money-pullman-day-1-of-2-194/#event\",\"mainEntityOfPage\":{\"@id\":\"https://worksourceskc.org/event/online-financial-capabilities-make-changes-with-your-money-pullman-day-1-of-2-194/\"}}]}</script>\n\t<!--
+  / Yoast SEO plugin. -->\n\n\n<title>ONLINE Financial Capabilities: Make Changes
+  With Your Money (Pullman) Day 1 of 2 - WorkSource Seattle-King County</title>\n<link
+  rel='dns-prefetch' href='//worksourceskc.org' />\n<link rel='dns-prefetch' href='//connect.facebook.net'
   />\n<link rel='dns-prefetch' href='//static.addtoany.com' />\n<link rel='dns-prefetch'
   href='//ajax.googleapis.com' />\n<link rel='dns-prefetch' href='//maps.googleapis.com'
   />\n<link rel='dns-prefetch' href='//www.googletagmanager.com' />\n<link rel='dns-prefetch'
@@ -120,8 +105,8 @@ original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta c
   />\n<link rel=\"alternate\" type=\"text/calendar\" title=\"WorkSource Seattle-King
   County &raquo; iCal Feed\" href=\"https://worksourceskc.org/events_list/?ical=1\"
   />\n<link rel=\"alternate\" type=\"application/rss+xml\" title=\"WorkSource Seattle-King
-  County &raquo; ONLINE Strategies for Success: Communication (N. Seattle) Comments
-  Feed\" href=\"https://worksourceskc.org/event/online-strategies-for-success-communication-n-seattle-860/feed/\"
+  County &raquo; ONLINE Financial Capabilities: Make Changes With Your Money (Pullman)
+  Day 1 of 2 Comments Feed\" href=\"https://worksourceskc.org/event/online-financial-capabilities-make-changes-with-your-money-pullman-day-1-of-2-194/feed/\"
   />\n\t\t<!-- This site uses the Google Analytics by MonsterInsights plugin v8.7.0
   - Using Analytics tracking - https://www.monsterinsights.com/ -->\n\t\t\t\t\t\t\t<script
   src=\"//www.googletagmanager.com/gtag/js?id=G-LT415XR2H3\"  data-cfasync=\"false\"
@@ -218,18 +203,18 @@ original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta c
   :where(p.has-background){padding:1.25em 2.375em}:where(p.has-text-color:not(.has-link-color))
   a{color:inherit}p.has-text-align-left[style*=\"writing-mode:vertical-lr\"],p.has-text-align-right[style*=\"writing-mode:vertical-rl\"]{rotate:180deg}\n</style>\n<link
   rel=\"https://api.w.org/\" href=\"https://worksourceskc.org/wp-json/\" /><link rel=\"alternate\"
-  title=\"JSON\" type=\"application/json\" href=\"https://worksourceskc.org/wp-json/wp/v2/tribe_events/349444\"
+  title=\"JSON\" type=\"application/json\" href=\"https://worksourceskc.org/wp-json/wp/v2/tribe_events/349374\"
   /><link rel=\"EditURI\" type=\"application/rsd+xml\" title=\"RSD\" href=\"https://worksourceskc.org/xmlrpc.php?rsd\"
-  />\n<link rel='shortlink' href='https://worksourceskc.org/?p=349444' />\n<link rel=\"alternate\"
-  title=\"oEmbed (JSON)\" type=\"application/json+oembed\" href=\"https://worksourceskc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fworksourceskc.org%2Fevent%2Fonline-strategies-for-success-communication-n-seattle-860%2F\"
-  />\n<link rel=\"alternate\" title=\"oEmbed (XML)\" type=\"text/xml+oembed\" href=\"https://worksourceskc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fworksourceskc.org%2Fevent%2Fonline-strategies-for-success-communication-n-seattle-860%2F&#038;format=xml\"
+  />\n<link rel='shortlink' href='https://worksourceskc.org/?p=349374' />\n<link rel=\"alternate\"
+  title=\"oEmbed (JSON)\" type=\"application/json+oembed\" href=\"https://worksourceskc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fworksourceskc.org%2Fevent%2Fonline-financial-capabilities-make-changes-with-your-money-pullman-day-1-of-2-194%2F\"
+  />\n<link rel=\"alternate\" title=\"oEmbed (XML)\" type=\"text/xml+oembed\" href=\"https://worksourceskc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fworksourceskc.org%2Fevent%2Fonline-financial-capabilities-make-changes-with-your-money-pullman-day-1-of-2-194%2F&#038;format=xml\"
   />\n<script type=\"text/javascript\" src=\"https://www.bugherd.com/sidebarv2.js?apikey=kzhpjsbdgxin5llwmvzeeg\"
   async=\"true\"></script><!-- Custom Facebook Feed JS vars -->\n<script type=\"text/javascript\">\nvar
   cffsiteurl = \"https://worksourceskc.org/wp-content/plugins\";\nvar cffajaxurl =
   \"https://worksourceskc.org/wp-admin/admin-ajax.php\";\n\n\nvar cfflinkhashtags
   = \"false\";\n</script>\n<meta name=\"generator\" content=\"Site Kit by Google 1.153.0\"
   /><meta name=\"tec-api-version\" content=\"v1\"><meta name=\"tec-api-origin\" content=\"https://worksourceskc.org\"><link
-  rel=\"alternate\" href=\"https://worksourceskc.org/wp-json/tribe/events/v1/events/349444\"
+  rel=\"alternate\" href=\"https://worksourceskc.org/wp-json/tribe/events/v1/events/349374\"
   /><script type=\"importmap\" id=\"wp-importmap\">\n{\"imports\":{\"@wordpress\\/interactivity\":\"https:\\/\\/worksourceskc.org\\/wp-includes\\/js\\/dist\\/script-modules\\/interactivity\\/index.min.js?ver=55aebb6e0a16726baffb\"}}\n</script>\n<script
   type=\"module\" src=\"https://worksourceskc.org/wp-includes/js/dist/script-modules/block-library/navigation/view.min.js?ver=61572d447d60c0aa5240\"
   id=\"@wordpress/block-library/navigation/view-js-module\"></script>\n<link rel=\"modulepreload\"
@@ -262,16 +247,17 @@ original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta c
   0;.add-to-cart-quantity{padding:8px 0 8px 8px;background:#eaeaea;width:32px;border-radius:4px
   0 0 4px;height:18px;min-height:unset;display:inline-block;font-size:13px;line-height:normal}.add-to-cart-button{padding:8px;border-radius:4px;background:#6246d7;color:white;height:18px;min-height:unset;display:block;text-align:center;min-width:90px;font-size:13px;line-height:normal;&.add-to-cart-variable{border-radius:4px}&.loading{content:url(\"data:image/svg+xml,%3Csvg
   width='38' height='38' viewBox='0 0 38 38' xmlns='http://www.w3.org/2000/svg' stroke='%23fff'%3E%3Cg
-  fill='none' fill-rule='evenodd'%3E%3Cg transform='translate(1 1)' stroke-width='2'%3E%3Ccircle
-  stroke-opacity='.5' cx='18' cy='18' r='18'/%3E%3Cpath d='M36 18c0-9.94-8.06-18-18-18'%3E%3CanimateTransform
-  attributeName='transform' type='rotate' from='0 18 18' to='360 18 18' dur='1s' repeatCount='indefinite'/%3E%3C/path%3E%3C/g%3E%3C/g%3E%3C/svg%3E\")}}a."
+  fill='none' fill-rule='evenodd'%3E%3Cg transform='translate(1 1)' strok"
+published: false
 source: WorkSource Seattle-King County
-source_url: https://worksourceskc.org/event/online-strategies-for-success-communication-n-seattle-860/
-start_date: '2025-12-15T08:30:00-08:00'
+source_url: https://worksourceskc.org/event/online-financial-capabilities-make-changes-with-your-money-pullman-day-1-of-2-194/
+start_date: '2025-12-15T14:30:00-08:00'
 summarized: true
-title: 'ONLINE Strategies for Success: Communication (N. Seattle)'
+title: 'ONLINE Financial Capabilities: Make Changes With Your Money (Pullman) Day
+  1 of 2'
 topics:
+- Financial Assistance
 - Employment & Job Support
 ---
 
-Join WorkSource Seattle-King County for the ONLINE Strategies for Success: Communication workshop on Dec. 15, 2025, starting at 8:30 a.m. This interactive session is designed to enhance your communication skills, focusing on effective strategies for personal and professional growth. Attendees can expect engaging discussions, practical tips, and valuable insights to improve their communication techniques. Whether you are looking to boost your confidence in speaking or refine your writing skills, this workshop will provide the tools you need to succeed. Don’t miss this opportunity to connect with others and learn from experienced facilitators in a supportive online environment.
+Join WorkSource Seattle-King County for "ONLINE Financial Capabilities: Make Changes With Your Money," a two-day workshop designed to empower participants with essential financial skills. On December 15, from 2:30 to 4:30 p.m. PST, attendees will learn practical strategies to manage their finances effectively and make informed decisions. This interactive session will cover budgeting, saving, and other financial tools to help individuals take control of their money. The event will be held online, making it accessible to everyone in the Pullman area. Don't miss this opportunity to enhance your financial literacy and create positive changes in your financial life.

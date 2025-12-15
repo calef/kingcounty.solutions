@@ -1,18 +1,18 @@
 ---
-end_date: '2025-12-18T11:30:00-08:00'
+end_date: '2025-12-16T12:00:00-08:00'
 feed_content: '<div> <div> <section> <title>WorkSource Seattle-King County</title>
-  <script>{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://worksourceskc.org/event/online-strategies-for-success-communication-auburn-895/","url":"https://worksourceskc.org/event/online-strategies-for-success-communication-auburn-895/","name":"ONLINE
-  Strategies for Success: Communication (Auburn) - WorkSource Seattle-King County","isPartOf":{"@id":"https://www.worksourceskc.org/#website"},"datePublished":"2025-11-19T16:28:35+00:00","dateModified":"2025-12-14T21:33:50+00:00","description":"Class
-  times: 8:30-11:30 (4-day class)Communication &#8211; Communication is a skill that
-  never stops growing! Come learn how to improve your skills and","breadcrumb":{"@id":"https://worksourceskc.org/event/online-strategies-for-success-communication-auburn-895/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://worksourceskc.org/event/online-strategies-for-success-communication-auburn-895/"]}]},{"@type":"BreadcrumbList","@id":"https://worksourceskc.org/event/online-strategies-for-success-communication-auburn-895/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"ONLINE
-  Strategies for Success: Communication (Auburn)"}]},{"@type":"WebSite","@id":"https://www.worksourceskc.org/#website","url":"https://www.worksourceskc.org/","name":"WorkSource
+  <script>{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://worksourceskc.org/event/cancelled-microsoft-word-fundamentals-part-1-in-person-50/","url":"https://worksourceskc.org/event/cancelled-microsoft-word-fundamentals-part-1-in-person-50/","name":"CANCELLED
+  - Microsoft Word Fundamentals Part 1 (In-Person) - WorkSource Seattle-King County","isPartOf":{"@id":"https://www.worksourceskc.org/#website"},"datePublished":"2025-12-10T04:45:14+00:00","description":"If
+  you are new to Microsoft Word or need a refresher on the newer versions, this workshop
+  provides a basic understanding of the software. User interface","breadcrumb":{"@id":"https://worksourceskc.org/event/cancelled-microsoft-word-fundamentals-part-1-in-person-50/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://worksourceskc.org/event/cancelled-microsoft-word-fundamentals-part-1-in-person-50/"]}]},{"@type":"BreadcrumbList","@id":"https://worksourceskc.org/event/cancelled-microsoft-word-fundamentals-part-1-in-person-50/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"CANCELLED
+  &#8211; Microsoft Word Fundamentals Part 1 (In-Person)"}]},{"@type":"WebSite","@id":"https://www.worksourceskc.org/#website","url":"https://www.worksourceskc.org/","name":"WorkSource
   Seattle-King County","description":"Let&#039;s find your path together!","publisher":{"@id":"https://www.worksourceskc.org/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.worksourceskc.org/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://www.worksourceskc.org/#organization","name":"WorkSource
   Seattle-King County","url":"https://www.worksourceskc.org/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.worksourceskc.org/#/schema/logo/image/","url":"","contentUrl":"","caption":"WorkSource
-  Seattle-King County"},"image":{"@id":"https://www.worksourceskc.org/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/worksourceskc/"]},{"@type":"Event","name":"ONLINE
-  Strategies for Success: Communication (Auburn)","description":"Class times: 8:30-11:30
-  (4-day class) Communication &#8211; Communication is a skill that never stops growing!
-  Come learn how to improve&hellip;","url":"https://worksourceskc.org/event/online-strategies-for-success-communication-auburn-895/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2025-12-15T08:30:00-08:00","endDate":"2025-12-18T11:30:00-08:00","@id":"https://worksourceskc.org/event/online-strategies-for-success-communication-auburn-895/#event","mainEntityOfPage":{"@id":"https://worksourceskc.org/event/online-strategies-for-success-communication-auburn-895/"}}]}</script>
-  <title>ONLINE Strategies for Success: Communication (Auburn) – WorkSource Seattle-King
+  Seattle-King County"},"image":{"@id":"https://www.worksourceskc.org/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/worksourceskc/"]},{"@type":"Event","name":"CANCELLED
+  &#8211; Microsoft Word Fundamentals Part 1 (In-Person)","description":"If you are
+  new to Microsoft Word or need a refresher on the newer versions, this workshop provides
+  a basic&hellip;","url":"https://worksourceskc.org/event/cancelled-microsoft-word-fundamentals-part-1-in-person-50/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2025-12-16T10:00:00-08:00","endDate":"2025-12-16T12:00:00-08:00","@id":"https://worksourceskc.org/event/cancelled-microsoft-word-fundamentals-part-1-in-person-50/#event","mainEntityOfPage":{"@id":"https://worksourceskc.org/event/cancelled-microsoft-word-fundamentals-part-1-in-person-50/"}}]}</script>
+  <title>CANCELLED – Microsoft Word Fundamentals Part 1 (In-Person) – WorkSource Seattle-King
   County</title> <a>Skip to main content</a> <header> <div> <div> <div> <div> <div>
   <ul> <li><a>Job Board</a></li> </ul> <ul> <li> <a>Staff Log-In</a> </li> </ul> </div>
   </div> <div> <ul> <li> <a>Job Seekers</a> <ul> <li> <a>Get Started with Personalized
@@ -27,45 +27,29 @@ feed_content: '<div> <div> <section> <title>WorkSource Seattle-King County</titl
   <li><a>Auburn</a></li> <li><a>Downtown Seattle</a></li> <li><a>North Seattle</a></li>
   <li><a>Rainier</a></li> <li><a>South Seattle</a></li> </ul> </li> <li><a>About</a></li>
   </ul> </div> </div> </div> </div> </header> <div> <section> <div> <div> <div> <a>Go
-  to Back to Calendar </a> <h1>ONLINE Strategies for Success: Communication (Auburn)</h1>
-  <div><p><strong>December 15</strong> Monday | 8:30am - 11:30am</p></div> <div> <a>Add
-  to Calendar</a> <span>December 15 8:30am</span> <span>12/18/2025 11:30am</span>
-  <span>America/Los_Angeles</span> <span>ONLINE Strategies for Success: Communication
-  (Auburn)</span> <span>Class times: 8:30-11:30 (4-day class) Communication – Communication
-  is a skill that never stops growing! Come learn how to improve…</span> </div> <div><p>Zoom
-  Online Meeting: Register for the workshop and the instructor will email meeting
-  links to you up to 15 minutes prior to start of meeting.</p></div> <p><strong>Room:
-  </strong>Zoom</p> <p><strong>Contact Name: </strong>Erik Hontz</p> <p><strong>Contact
-  Email: </strong><a>Erik.Hontz@esd.wa.gov</a></p> <p><strong>Workshop Language: </strong>English</p>
-  <p><strong>Event Registration: </strong>Sign Up Required</p> <p><a>Sign Up</a></p>
-  <p><strong>Approved Unemployment Insurance (UI) Job Search Activity:</strong> Yes</p>
-  <p><strong>Additional Info:</strong></p> <p>Strategies for Success is a series of
-  life-skills workshops open to everyone. It is flexible and customizable – each workshop
-  module can stand alone or be combined with other modules to provide a personalized
-  experience. Modules can be taken in any order. Each of the six modules is four days
-  long, starting on the first business day of each week.</p> <p>If class registration
-  is full and participants are waitlisted, all registrations (regular and waitlist)
-  will be evaluated according to the following criteria for deferment or acceptance
-  into class:</p> <ol> <li>Program referrals </li> <li>Veterans </li> <li>Continuing
-  or returning students (those working through the series of modules) </li> <li>Repeating
-  students (those who have previously completed the module) </li> <li>Walk-ins (not
-  program-connected)</li> </ol> <p>Please go to WorkSourceWA.com and create a job-seeker
-  account prior to attending the workshop.</p> <p>*If you entered a valid email address,
-  you will receive email updates of any registration or status changes. Remember to
-  check your SPAM folder if you are not receiving emails from us.</p> <p><strong><em>If
-  you need an accommodation to participate in this training, contact Erik Hontz at
-  <a>erik.hontz@esd.wa.gov</a>, 253-804-1146, Washington Relay 711. Please provide
-  your name and accommodation request. Please make your accommodation request as early
-  as possible so arrangements can be made.</em></strong></p> <strong>Description:</strong><p><strong>Class
-  times: 8:30-11:30 (4-day class)</strong></p>Communication – C<em>ommunication is
-  a skill that never stops growing! Come learn how to improve your skills and odds
-  of landing that next job!</em><ul> <li>Learn about interpersonal and business communication
-  and discover your own style </li> <li>Develop better listening, writing, computer
-  and presentation skills </li> <li>Find out about verbal &amp; non-verbal cues, practice
-  conflict resolution and get tips on emotional control </li> <li>Get tips on how
-  to present yourself the right way on the phone, in email and on social media.</li>
-  </ul> </div> </div> </div> </section> </div> </section> </div> </div>'
-feed_content_checksum: 193ca7070cd588daa718467a461609e658846f7c
+  to Back to Calendar </a> <h1>CANCELLED – Microsoft Word Fundamentals Part 1 (In-Person)</h1>
+  <div><p><strong>December 16</strong> Tuesday | 10:00am - 12:00pm</p></div> <div>
+  <a>Add to Calendar</a> <span>December 16 10:00am</span> <span>12/16/2025 12:00pm</span>
+  <span>America/Los_Angeles</span> <span>CANCELLED – Microsoft Word Fundamentals Part
+  1 (In-Person)</span> <span>If you are new to Microsoft Word or need a refresher
+  on the newer versions, this workshop provides a basic…</span> </div> <div><p><a>WorkSource
+  North SeattleOpportunity Center9600 College Way NorthSeattle, WA 98103</a></p></div>
+  <p><strong>Room: </strong>101D</p> <p><strong>Contact Name: </strong>Kim Klein</p>
+  <p><strong>Contact Email: </strong><a>kim.klein@esd.wa.gov</a></p> <p><strong>Workshop
+  Language: </strong>English</p> <p><strong>Event Registration: </strong>Sign Up Required</p>
+  <p><a>Sign Up</a></p> <p><strong>Approved Unemployment Insurance (UI) Job Search
+  Activity:</strong> Yes</p> <p><strong>Additional Info:</strong></p> <p>Please go
+  to <a>WorkSourceWA.com</a> and create your account prior to attending this workshop.<strong>WorkSource
+  WA Job Seeker accounts are mandatory to take this workshop.</strong></p> <p>If you
+  need an accommodation to participate in this training, please contact the workshop
+  facilitator. <strong>Please provide your name, accommodation request, and your town/city
+  of residence. Please make your</strong> accommodation request as early as possible
+  so arrangements can be made.</p> <strong>Description:</strong><p>If you are new
+  to Microsoft Word or need a refresher on the newer versions, this workshop provides
+  a basic understanding of the software.</p> <ul> <li>User interface overview </li>
+  <li>Creating, opening, editing, saving documents </li> <li>Working with text, links,
+  and lists</li> </ul> </div> </div> </div> </section> </div> </section> </div> </div>'
+feed_content_checksum: cf43ab3d565f320e4e5fb5314937ebc3b4f6f76e
 images: []
 location: ''
 locations:
@@ -76,44 +60,44 @@ original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta c
   />\n\t<style>img:is([sizes=\"auto\" i], [sizes^=\"auto,\" i]) { contain-intrinsic-size:
   3000px 1500px }</style>\n\t\n\t<!-- This site is optimized with the Yoast SEO plugin
   v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n\t<meta name=\"description\"
-  content=\"Class times: 8:30-11:30 (4-day class)Communication &#8211; Communication
-  is a skill that never stops growing! Come learn how to improve your skills and\"
-  />\n\t<link rel=\"canonical\" href=\"https://worksourceskc.org/event/online-strategies-for-success-communication-auburn-895/\"
+  content=\"If you are new to Microsoft Word or need a refresher on the newer versions,
+  this workshop provides a basic understanding of the software. User interface\" />\n\t<link
+  rel=\"canonical\" href=\"https://worksourceskc.org/event/cancelled-microsoft-word-fundamentals-part-1-in-person-50/\"
   />\n\t<meta property=\"og:locale\" content=\"en_US\" />\n\t<meta property=\"og:type\"
-  content=\"article\" />\n\t<meta property=\"og:title\" content=\"ONLINE Strategies
-  for Success: Communication (Auburn) - WorkSource Seattle-King County\" />\n\t<meta
-  property=\"og:description\" content=\"Class times: 8:30-11:30 (4-day class)Communication
-  &#8211; Communication is a skill that never stops growing! Come learn how to improve
-  your skills and\" />\n\t<meta property=\"og:url\" content=\"https://worksourceskc.org/event/online-strategies-for-success-communication-auburn-895/\"
+  content=\"article\" />\n\t<meta property=\"og:title\" content=\"CANCELLED - Microsoft
+  Word Fundamentals Part 1 (In-Person) - WorkSource Seattle-King County\" />\n\t<meta
+  property=\"og:description\" content=\"If you are new to Microsoft Word or need a
+  refresher on the newer versions, this workshop provides a basic understanding of
+  the software. User interface\" />\n\t<meta property=\"og:url\" content=\"https://worksourceskc.org/event/cancelled-microsoft-word-fundamentals-part-1-in-person-50/\"
   />\n\t<meta property=\"og:site_name\" content=\"WorkSource Seattle-King County\"
   />\n\t<meta property=\"article:publisher\" content=\"https://www.facebook.com/worksourceskc/\"
-  />\n\t<meta property=\"article:modified_time\" content=\"2025-12-14T21:35:10+00:00\"
   />\n\t<meta name=\"twitter:card\" content=\"summary_large_image\" />\n\t<script
-  type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://worksourceskc.org/event/online-strategies-for-success-communication-auburn-895/\",\"url\":\"https://worksourceskc.org/event/online-strategies-for-success-communication-auburn-895/\",\"name\":\"ONLINE
-  Strategies for Success: Communication (Auburn) - WorkSource Seattle-King County\",\"isPartOf\":{\"@id\":\"https://www.worksourceskc.org/#website\"},\"datePublished\":\"2025-11-19T16:28:35+00:00\",\"dateModified\":\"2025-12-14T21:35:10+00:00\",\"description\":\"Class
-  times: 8:30-11:30 (4-day class)Communication &#8211; Communication is a skill that
-  never stops growing! Come learn how to improve your skills and\",\"breadcrumb\":{\"@id\":\"https://worksourceskc.org/event/online-strategies-for-success-communication-auburn-895/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://worksourceskc.org/event/online-strategies-for-success-communication-auburn-895/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://worksourceskc.org/event/online-strategies-for-success-communication-auburn-895/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.worksourceskc.org/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Events\",\"item\":\"https://worksourceskc.org/events_list/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"ONLINE
-  Strategies for Success: Communication (Auburn)\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://www.worksourceskc.org/#website\",\"url\":\"https://www.worksourceskc.org/\",\"name\":\"WorkSource
+  type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://worksourceskc.org/event/cancelled-microsoft-word-fundamentals-part-1-in-person-50/\",\"url\":\"https://worksourceskc.org/event/cancelled-microsoft-word-fundamentals-part-1-in-person-50/\",\"name\":\"CANCELLED
+  - Microsoft Word Fundamentals Part 1 (In-Person) - WorkSource Seattle-King County\",\"isPartOf\":{\"@id\":\"https://www.worksourceskc.org/#website\"},\"datePublished\":\"2025-12-10T04:45:14+00:00\",\"description\":\"If
+  you are new to Microsoft Word or need a refresher on the newer versions, this workshop
+  provides a basic understanding of the software. User interface\",\"breadcrumb\":{\"@id\":\"https://worksourceskc.org/event/cancelled-microsoft-word-fundamentals-part-1-in-person-50/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://worksourceskc.org/event/cancelled-microsoft-word-fundamentals-part-1-in-person-50/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://worksourceskc.org/event/cancelled-microsoft-word-fundamentals-part-1-in-person-50/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.worksourceskc.org/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Events\",\"item\":\"https://worksourceskc.org/events_list/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"CANCELLED
+  &#8211; Microsoft Word Fundamentals Part 1 (In-Person)\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://www.worksourceskc.org/#website\",\"url\":\"https://www.worksourceskc.org/\",\"name\":\"WorkSource
   Seattle-King County\",\"description\":\"Let&#039;s find your path together!\",\"publisher\":{\"@id\":\"https://www.worksourceskc.org/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://www.worksourceskc.org/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https://www.worksourceskc.org/#organization\",\"name\":\"WorkSource
   Seattle-King County\",\"url\":\"https://www.worksourceskc.org/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://www.worksourceskc.org/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"WorkSource
-  Seattle-King County\"},\"image\":{\"@id\":\"https://www.worksourceskc.org/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/worksourceskc/\"]},{\"@type\":\"Event\",\"name\":\"ONLINE
-  Strategies for Success: Communication (Auburn)\",\"description\":\"Class times:
-  8:30-11:30 (4-day class) Communication &#8211; Communication is a skill that never
-  stops growing! Come learn how to improve&hellip;\",\"url\":\"https://worksourceskc.org/event/online-strategies-for-success-communication-auburn-895/\",\"eventAttendanceMode\":\"https://schema.org/OfflineEventAttendanceMode\",\"eventStatus\":\"https://schema.org/EventScheduled\",\"startDate\":\"2025-12-15T08:30:00-08:00\",\"endDate\":\"2025-12-18T11:30:00-08:00\",\"@id\":\"https://worksourceskc.org/event/online-strategies-for-success-communication-auburn-895/#event\",\"mainEntityOfPage\":{\"@id\":\"https://worksourceskc.org/event/online-strategies-for-success-communication-auburn-895/\"}}]}</script>\n\t<!--
-  / Yoast SEO plugin. -->\n\n\n<title>ONLINE Strategies for Success: Communication
-  (Auburn) - WorkSource Seattle-King County</title>\n<link rel='dns-prefetch' href='//worksourceskc.org'
-  />\n<link rel='dns-prefetch' href='//connect.facebook.net' />\n<link rel='dns-prefetch'
-  href='//static.addtoany.com' />\n<link rel='dns-prefetch' href='//ajax.googleapis.com'
-  />\n<link rel='dns-prefetch' href='//maps.googleapis.com' />\n<link rel='dns-prefetch'
-  href='//www.googletagmanager.com' />\n<link rel='dns-prefetch' href='//www.google.com'
+  Seattle-King County\"},\"image\":{\"@id\":\"https://www.worksourceskc.org/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/worksourceskc/\"]},{\"@type\":\"Event\",\"name\":\"CANCELLED
+  &#8211; Microsoft Word Fundamentals Part 1 (In-Person)\",\"description\":\"If you
+  are new to Microsoft Word or need a refresher on the newer versions, this workshop
+  provides a basic&hellip;\",\"url\":\"https://worksourceskc.org/event/cancelled-microsoft-word-fundamentals-part-1-in-person-50/\",\"eventAttendanceMode\":\"https://schema.org/OfflineEventAttendanceMode\",\"eventStatus\":\"https://schema.org/EventScheduled\",\"startDate\":\"2025-12-16T10:00:00-08:00\",\"endDate\":\"2025-12-16T12:00:00-08:00\",\"@id\":\"https://worksourceskc.org/event/cancelled-microsoft-word-fundamentals-part-1-in-person-50/#event\",\"mainEntityOfPage\":{\"@id\":\"https://worksourceskc.org/event/cancelled-microsoft-word-fundamentals-part-1-in-person-50/\"}}]}</script>\n\t<!--
+  / Yoast SEO plugin. -->\n\n\n<title>CANCELLED - Microsoft Word Fundamentals Part
+  1 (In-Person) - WorkSource Seattle-King County</title>\n<link rel='dns-prefetch'
+  href='//worksourceskc.org' />\n<link rel='dns-prefetch' href='//connect.facebook.net'
+  />\n<link rel='dns-prefetch' href='//static.addtoany.com' />\n<link rel='dns-prefetch'
+  href='//ajax.googleapis.com' />\n<link rel='dns-prefetch' href='//maps.googleapis.com'
+  />\n<link rel='dns-prefetch' href='//www.googletagmanager.com' />\n<link rel='dns-prefetch'
+  href='//www.google.com' />\n<link rel=\"alternate\" type=\"application/rss+xml\"
+  title=\"WorkSource Seattle-King County &raquo; Feed\" href=\"https://worksourceskc.org/feed/\"
   />\n<link rel=\"alternate\" type=\"application/rss+xml\" title=\"WorkSource Seattle-King
-  County &raquo; Feed\" href=\"https://worksourceskc.org/feed/\" />\n<link rel=\"alternate\"
-  type=\"application/rss+xml\" title=\"WorkSource Seattle-King County &raquo; Comments
-  Feed\" href=\"https://worksourceskc.org/comments/feed/\" />\n<link rel=\"alternate\"
-  type=\"text/calendar\" title=\"WorkSource Seattle-King County &raquo; iCal Feed\"
-  href=\"https://worksourceskc.org/events_list/?ical=1\" />\n<link rel=\"alternate\"
-  type=\"application/rss+xml\" title=\"WorkSource Seattle-King County &raquo; ONLINE
-  Strategies for Success: Communication (Auburn) Comments Feed\" href=\"https://worksourceskc.org/event/online-strategies-for-success-communication-auburn-895/feed/\"
+  County &raquo; Comments Feed\" href=\"https://worksourceskc.org/comments/feed/\"
+  />\n<link rel=\"alternate\" type=\"text/calendar\" title=\"WorkSource Seattle-King
+  County &raquo; iCal Feed\" href=\"https://worksourceskc.org/events_list/?ical=1\"
+  />\n<link rel=\"alternate\" type=\"application/rss+xml\" title=\"WorkSource Seattle-King
+  County &raquo; CANCELLED &#8211; Microsoft Word Fundamentals Part 1 (In-Person)
+  Comments Feed\" href=\"https://worksourceskc.org/event/cancelled-microsoft-word-fundamentals-part-1-in-person-50/feed/\"
   />\n\t\t<!-- This site uses the Google Analytics by MonsterInsights plugin v8.7.0
   - Using Analytics tracking - https://www.monsterinsights.com/ -->\n\t\t\t\t\t\t\t<script
   src=\"//www.googletagmanager.com/gtag/js?id=G-LT415XR2H3\"  data-cfasync=\"false\"
@@ -210,18 +194,18 @@ original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta c
   :where(p.has-background){padding:1.25em 2.375em}:where(p.has-text-color:not(.has-link-color))
   a{color:inherit}p.has-text-align-left[style*=\"writing-mode:vertical-lr\"],p.has-text-align-right[style*=\"writing-mode:vertical-rl\"]{rotate:180deg}\n</style>\n<link
   rel=\"https://api.w.org/\" href=\"https://worksourceskc.org/wp-json/\" /><link rel=\"alternate\"
-  title=\"JSON\" type=\"application/json\" href=\"https://worksourceskc.org/wp-json/wp/v2/tribe_events/349506\"
+  title=\"JSON\" type=\"application/json\" href=\"https://worksourceskc.org/wp-json/wp/v2/tribe_events/390863\"
   /><link rel=\"EditURI\" type=\"application/rsd+xml\" title=\"RSD\" href=\"https://worksourceskc.org/xmlrpc.php?rsd\"
-  />\n<link rel='shortlink' href='https://worksourceskc.org/?p=349506' />\n<link rel=\"alternate\"
-  title=\"oEmbed (JSON)\" type=\"application/json+oembed\" href=\"https://worksourceskc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fworksourceskc.org%2Fevent%2Fonline-strategies-for-success-communication-auburn-895%2F\"
-  />\n<link rel=\"alternate\" title=\"oEmbed (XML)\" type=\"text/xml+oembed\" href=\"https://worksourceskc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fworksourceskc.org%2Fevent%2Fonline-strategies-for-success-communication-auburn-895%2F&#038;format=xml\"
+  />\n<link rel='shortlink' href='https://worksourceskc.org/?p=390863' />\n<link rel=\"alternate\"
+  title=\"oEmbed (JSON)\" type=\"application/json+oembed\" href=\"https://worksourceskc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fworksourceskc.org%2Fevent%2Fcancelled-microsoft-word-fundamentals-part-1-in-person-50%2F\"
+  />\n<link rel=\"alternate\" title=\"oEmbed (XML)\" type=\"text/xml+oembed\" href=\"https://worksourceskc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fworksourceskc.org%2Fevent%2Fcancelled-microsoft-word-fundamentals-part-1-in-person-50%2F&#038;format=xml\"
   />\n<script type=\"text/javascript\" src=\"https://www.bugherd.com/sidebarv2.js?apikey=kzhpjsbdgxin5llwmvzeeg\"
   async=\"true\"></script><!-- Custom Facebook Feed JS vars -->\n<script type=\"text/javascript\">\nvar
   cffsiteurl = \"https://worksourceskc.org/wp-content/plugins\";\nvar cffajaxurl =
   \"https://worksourceskc.org/wp-admin/admin-ajax.php\";\n\n\nvar cfflinkhashtags
   = \"false\";\n</script>\n<meta name=\"generator\" content=\"Site Kit by Google 1.153.0\"
   /><meta name=\"tec-api-version\" content=\"v1\"><meta name=\"tec-api-origin\" content=\"https://worksourceskc.org\"><link
-  rel=\"alternate\" href=\"https://worksourceskc.org/wp-json/tribe/events/v1/events/349506\"
+  rel=\"alternate\" href=\"https://worksourceskc.org/wp-json/tribe/events/v1/events/390863\"
   /><script type=\"importmap\" id=\"wp-importmap\">\n{\"imports\":{\"@wordpress\\/interactivity\":\"https:\\/\\/worksourceskc.org\\/wp-includes\\/js\\/dist\\/script-modules\\/interactivity\\/index.min.js?ver=55aebb6e0a16726baffb\"}}\n</script>\n<script
   type=\"module\" src=\"https://worksourceskc.org/wp-includes/js/dist/script-modules/block-library/navigation/view.min.js?ver=61572d447d60c0aa5240\"
   id=\"@wordpress/block-library/navigation/view-js-module\"></script>\n<link rel=\"modulepreload\"
@@ -256,14 +240,15 @@ original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta c
   width='38' height='38' viewBox='0 0 38 38' xmlns='http://www.w3.org/2000/svg' stroke='%23fff'%3E%3Cg
   fill='none' fill-rule='evenodd'%3E%3Cg transform='translate(1 1)' stroke-width='2'%3E%3Ccircle
   stroke-opacity='.5' cx='18' cy='18' r='18'/%3E%3Cpath d='M36 18c0-9.94-8.06-18-18-18'%3E%3CanimateTransform
-  attributeName='transform' type='rotate' from='0 18 18' to='360 18 18' dur='1s' repeatCount='indefinite'/%3E%3C/path%3E%3C/g%3E%3C/g%3E%3C/svg%3E\")}}a.added_to_cart{flex-basis:100%;margin-top:8px}}.add-to-cart-container:has(.a"
+  attributeName='transform' type='rotate' from='0 18 18' to='360 18 18' dur='1s' repeatCount='indefinite'/%3E%3C/path%3E%3C/g%3E%3C/g%3E%3C/svg%3E\")}}a.added_to_cart{flex-basis:100%;margin-top:8px}}.add-to-cart-container:has(.add-to-cart-quantity){.add-to-cart-button{border-radius:0
+  4px 4"
+published: false
 source: WorkSource Seattle-King County
-source_url: https://worksourceskc.org/event/online-strategies-for-success-communication-auburn-895/
-start_date: '2025-12-15T08:30:00-08:00'
+source_url: https://worksourceskc.org/event/cancelled-microsoft-word-fundamentals-part-1-in-person-50/
+start_date: '2025-12-16T10:00:00-08:00'
 summarized: true
-title: 'ONLINE Strategies for Success: Communication (Auburn)'
-topics:
-- Employment & Job Support
+title: CANCELLED - Microsoft Word Fundamentals Part 1 (In-Person)
+topics: []
 ---
 
-Join WorkSource Seattle-King County for the ONLINE Strategies for Success: Communication workshop on Dec. 15, 2025, starting at 8:30 a.m. This interactive session will equip attendees with essential communication skills to enhance personal and professional relationships. Participants can expect to engage in practical exercises and discussions that foster effective communication strategies. Whether you're looking to improve your networking abilities or enhance your workplace interactions, this workshop is tailored to help you succeed. Don't miss this opportunity to develop valuable skills from the comfort of your home.
+The Microsoft Word Fundamentals Part 1 workshop scheduled for Dec. 16, 2025, at WorkSource Seattle-King County has been cancelled. Participants were expected to learn essential skills in Microsoft Word, focusing on document creation and formatting techniques. This in-person event aimed to provide valuable training for individuals looking to enhance their word processing capabilities. Please check for future workshops or similar events.
