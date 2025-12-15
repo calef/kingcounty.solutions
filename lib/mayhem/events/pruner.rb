@@ -9,13 +9,13 @@ require_relative '../news/repository'
 module Mayhem
   module Events
     class Pruner
-      def initialize(images_pruner:, logger:, posts_dir: nil, events_dir: nil, posts_repository: nil, events_repository: nil)
-        @posts_dir = posts_dir
+      def initialize(images_pruner:, logger:, news_dir: nil, events_dir: nil, news_repository: nil, events_repository: nil)
+        @news_dir = news_dir
         @events_dir = events_dir
         @images_pruner = images_pruner
         @logger = logger
-        @posts_repository = posts_repository || Mayhem::News::Repository.new(
-          directory: @posts_dir || Mayhem::News::Repository::DEFAULT_DIR,
+        @news_repository = news_repository || Mayhem::News::Repository.new(
+          directory: @news_dir || Mayhem::News::Repository::DEFAULT_DIR,
           logger: @logger
         )
         @events_repository = events_repository || (events_dir ? Mayhem::Events::Repository.new(directory: events_dir, logger: @logger) : nil)
@@ -56,9 +56,9 @@ module Mayhem
 
       def prune_event_links(removed_event_ids)
         removed_set = removed_event_ids.to_set
-        posts_updated = 0
+        news_updated = 0
 
-        @posts_repository.each do |document, post_path|
+        @news_repository.each do |document, news_path|
           front_matter = document.front_matter
           events = front_matter['events']
           next unless events.is_a?(Array)
@@ -71,11 +71,11 @@ module Mayhem
           front_matter['events'] = updated_events
           document.front_matter = front_matter
           document.save
-          posts_updated += 1
-          @logger.info "Cleaned event links from #{File.basename(post_path)}"
+          news_updated += 1
+          @logger.info "Cleaned event links from #{File.basename(news_path)}"
         end
 
-        @logger.info "Updated #{posts_updated} post#{'s' unless posts_updated == 1} to remove deleted event links." if posts_updated.positive?
+        @logger.info "Updated #{news_updated} news article#{'s' unless news_updated == 1} to remove deleted event links." if news_updated.positive?
       end
 
       def delete_file(path)

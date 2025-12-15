@@ -15,7 +15,7 @@ module Mayhem
       IMAGE_ASSETS_DIR = File.join('assets', 'images')
 
       def initialize(
-        posts_dir: nil,
+        news_dir: nil,
         events_dir: nil,
         images_dir: nil,
         assets_dir: IMAGE_ASSETS_DIR,
@@ -27,15 +27,21 @@ module Mayhem
         images_pruner: nil,
         user_agent: 'King County Solutions Link Checker',
         workers: ENV.fetch('SOURCE_URL_CHECKER_WORKERS', '6').to_i,
-        posts_repository: nil,
+        news_repository: nil,
         events_repository: nil
       )
-        @posts_dir = posts_dir
+        @news_dir = news_dir
         @events_dir = events_dir
         @logger = logger
         @user_agent = user_agent
-        @posts_repository = posts_repository || Mayhem::News::Repository.new(directory: @posts_dir || Mayhem::News::Repository::DEFAULT_DIR)
-        @events_repository = events_repository || Mayhem::Events::Repository.new(directory: @events_dir || Mayhem::Events::Repository::DEFAULT_DIR)
+        @news_repository = news_repository || Mayhem::News::Repository.new(
+          directory: @news_dir || Mayhem::News::Repository::DEFAULT_DIR,
+          logger: @logger
+        )
+        @events_repository = events_repository || Mayhem::Events::Repository.new(
+          directory: @events_dir || Mayhem::Events::Repository::DEFAULT_DIR,
+          logger: @logger
+        )
         @http_status_resolver = http_status_resolver || Mayhem::Support::HttpStatusResolver.new(
           logger: @logger,
           user_agent: @user_agent,
@@ -43,7 +49,7 @@ module Mayhem
         )
         @images_pruner = images_pruner ||
                          Mayhem::Images::Pruner.new(
-                           posts_dir: posts_dir,
+                           news_dir: news_dir,
                            events_dir: events_dir,
                            images_dir: images_dir,
                            assets_dir: assets_dir,
@@ -51,13 +57,13 @@ module Mayhem
                          )
         @news_pruner = news_pruner ||
                        Mayhem::News::Pruner.new(
-                         posts_dir: posts_dir,
+                         news_dir: news_dir,
                          images_pruner: @images_pruner,
                          logger: logger
                        )
         @events_pruner = events_pruner ||
                          Mayhem::Events::Pruner.new(
-                           posts_dir: posts_dir,
+                           news_dir: news_dir,
                            events_dir: events_dir,
                            images_pruner: @images_pruner,
                            logger: logger
@@ -67,14 +73,14 @@ module Mayhem
       end
 
       def run
-        check_posts
+        check_news
         check_events
       end
 
       private
 
-      def check_posts
-        process_documents(@posts_repository.all_file_paths) do |path, document|
+      def check_news
+        process_documents(@news_repository.all_file_paths) do |path, document|
           source_url = document.front_matter['source_url']
           next if source_url.nil? || source_url.empty?
 
@@ -82,10 +88,10 @@ module Mayhem
 
           case status
           when :not_found
-            @logger.info "Source URL not found for post #{File.basename(path)}: #{source_url}"
+            @logger.info "Source URL not found for news article #{File.basename(path)}: #{source_url}"
             with_pruner { @news_pruner.unpublish(path, document) }
           when :error
-            @logger.warn "Error checking source URL for post #{File.basename(path)}: #{source_url}"
+            @logger.warn "Error checking source URL for news article #{File.basename(path)}: #{source_url}"
           end
         end
       end

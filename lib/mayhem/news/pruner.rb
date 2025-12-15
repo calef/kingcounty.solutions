@@ -6,8 +6,8 @@ require_relative '../images/pruner'
 module Mayhem
   module News
     class Pruner
-      def initialize(posts_dir:, images_pruner:, logger:)
-        @posts_dir = posts_dir
+      def initialize(news_dir:, images_pruner:, logger:)
+        @news_dir = news_dir
         @images_pruner = images_pruner
         @logger = logger
       end

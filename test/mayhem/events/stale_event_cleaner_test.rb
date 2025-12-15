@@ -11,13 +11,13 @@ class StaleEventCleanerTest < Minitest::Test
   def setup
     @tmpdir = Dir.mktmpdir('stale-events')
     @events_dir = File.join(@tmpdir, '_events')
-    @posts_dir = File.join(@tmpdir, '_posts')
+    @news_dir = File.join(@tmpdir, '_posts')
     FileUtils.mkdir_p(@events_dir)
-    FileUtils.mkdir_p(@posts_dir)
+    FileUtils.mkdir_p(@news_dir)
     clock_time = Time.utc(2025, 12, 5, 19, 0, 0)
     @cleaner = Mayhem::Events::StaleEventCleaner.new(
       events_dir: @events_dir,
-      posts_dir: @posts_dir,
+      news_dir: @news_dir,
       logger: Logger.new(IO::NULL),
       clock: -> { clock_time }
     )
