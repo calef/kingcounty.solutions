@@ -6,7 +6,6 @@ Utility commands that automate content imports, auditing, and metadata maintenan
 
 | Script | What it does |
 | --- | --- |
-| `bin/generate-weekly-summary` | Builds a weekly roundup article from `_posts/`, grouping stories into themes with LLM assistance. |
 | `bin/mayhem` | Unified entry point for content management commands (see `bin/mayhem help` for details). |
 
 > Many scripts call the OpenAI API; export `OPENAI_API_KEY` before using them.
@@ -31,30 +30,6 @@ The `bin/mayhem` script consolidates content management functionality. Run `bin/
 ## Freezing files during automation
 
 Set `locked: true` in a post or event's front matter to freeze it in place. Importers, summarizers, and the image extractor all detect this flag and skip the entry so curated edits stay untouched while the rest of the pipeline continues to run.
-
-### `bin/generate-weekly-summary`
-
-#### Purpose
-
-Builds an editorial roundup post for the current week (Saturday–Friday window) by clustering `_posts/` entries into themes, drafting a Markdown article with OpenAI, and saving it back into `_posts/` under the ending Saturday's date.
-
-#### Usage
-
-- `bin/generate-weekly-summary`
-
-#### Key env/config
-
-- `OPENAI_API_KEY` – required.
-- `OPENAI_MODEL` – overrides the default `gpt-4o-mini`.
-- `WEEKLY_SUMMARY_LIMIT` – caps how many posts are passed to the LLM for theme planning (default 60).
-- `WEEKLY_DATE` – optional `YYYY-MM-DD` anchor date to regenerate a specific week.
-- `LOG_LEVEL` – logging level shared by all scripts (`TRACE`, `DEBUG`, `INFO`, `WARN`, `ERROR`, or `FATAL`; default `WARN`). Raise to `INFO` for creation notices and fallback explanations.
-
-#### Behavior notes
-
-- Builds a "theme plan" JSON via one LLM call, then passes that plan plus post metadata into a second prompt that produces the final article (with themed sections and optional "Other updates").
-- Falls back to a deterministic, non-LLM summary if either call fails.
-- Sets front matter with `source: King County Solutions`, `summarized: true`, and `openai_model` (or `fallback` if heuristics kick in), and adds a closing encouragement paragraph.
 
 ### `bin/mayhem audit-topics`
 
