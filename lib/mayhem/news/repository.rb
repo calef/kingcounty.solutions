@@ -1,5 +1,7 @@
 # frozen_string_literal: true
 
+require_relative '../front_matter/document'
+
 module Mayhem
   module News
     class Repository
@@ -8,8 +10,9 @@ module Mayhem
 
       attr_reader :directory
 
-      def initialize(directory: DEFAULT_DIR)
+      def initialize(directory: DEFAULT_DIR, logger: nil)
         @directory = directory
+        @logger = logger
       end
 
       # Build a file path for a post with date prefix and slug
@@ -22,19 +25,20 @@ module Mayhem
         File.basename(path, FILE_EXTENSION)
       end
 
-      # Iterate over all posts
+      # Iterate over all posts, yielding document objects
       def each(&)
-        all_paths.each(&)
+        all_paths.each do |path|
+          document = load_document(path)
+          yield(document, path) if document
+        end
       end
 
-      # Get all post paths
+      # Get all posts as document objects with their paths
       def all
-        all_paths
-      end
-
-      # Get all file paths (for backward compatibility)
-      def all_file_paths
-        all_paths
+        all_paths.filter_map do |path|
+          document = load_document(path)
+          [document, path] if document
+        end
       end
 
       # Legacy method for backward compatibility
@@ -55,6 +59,10 @@ module Mayhem
 
       def all_paths
         Dir.glob(glob_pattern)
+      end
+
+      def load_document(path)
+        Mayhem::FrontMatter::Document.load(path, logger: @logger)
       end
     end
   end

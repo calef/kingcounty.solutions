@@ -6,7 +6,7 @@ require 'time'
 
 require_relative '../logging'
 require_relative '../front_matter/document'
-require_relative './repository'
+require_relative 'repository'
 require_relative '../news/repository'
 
 module Mayhem
@@ -24,16 +24,22 @@ module Mayhem
         @posts_dir = posts_dir
         @logger = logger
         @clock = clock
-        @events_repository = events_repository || Mayhem::Events::Repository.new(directory: @events_dir || Mayhem::Events::Repository::DEFAULT_DIR)
-        @posts_repository = posts_repository || Mayhem::News::Repository.new(directory: @posts_dir || Mayhem::News::Repository::DEFAULT_DIR)
+        @events_repository = events_repository || Mayhem::Events::Repository.new(
+          directory: @events_dir || Mayhem::Events::Repository::DEFAULT_DIR,
+          logger: @logger
+        )
+        @posts_repository = posts_repository || Mayhem::News::Repository.new(
+          directory: @posts_dir || Mayhem::News::Repository::DEFAULT_DIR,
+          logger: @logger
+        )
       end
 
       def run
         current_time = @clock.call
         removed = []
 
-        @events_repository.each do |path|
-          event_time = event_time_for(path)
+        @events_repository.each do |document, path|
+          event_time = event_time_for(document)
           next unless event_time
           next unless event_time < current_time
 
@@ -55,11 +61,10 @@ module Mayhem
 
       private
 
-      def event_time_for(path)
-        document = Mayhem::FrontMatter::Document.load(path, logger: @logger)
+      def event_time_for(document)
         return unless document
 
-        parse_start_time(document.front_matter['start_date'], path)
+        parse_start_time(document.front_matter['start_date'], document.path)
       end
 
       def parse_start_time(value, path)
@@ -91,10 +96,7 @@ module Mayhem
         removed_set = removed_event_ids.to_set
         posts_updated = 0
 
-        @posts_repository.each do |post_path|
-          document = Mayhem::FrontMatter::Document.load(post_path, logger: @logger)
-          next unless document
-
+        @posts_repository.each do |document, post_path|
           front_matter = document.front_matter
           events = front_matter['events']
           next unless events.is_a?(Array)
