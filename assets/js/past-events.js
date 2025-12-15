@@ -10,11 +10,9 @@
 
     eventItems.forEach(function(eventItem) {
       const eventEndStr = eventItem.getAttribute('data-event-end');
-      if (!eventEndStr) return;
-
       const eventEnd = new Date(eventEndStr);
       
-      if (eventEnd < now) {
+      if (!isNaN(eventEnd.getTime()) && eventEnd < now) {
         eventItem.classList.add('event-past');
       }
     });
