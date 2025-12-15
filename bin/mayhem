@@ -29,6 +29,10 @@ module Mayhem
         description: 'Downloads images from posts/events and creates image metadata',
         handler: :run_extract_images
       },
+      'ingest' => {
+        description: 'Runs import-content, summarize, extract-events, summarize, extract-images, expire',
+        handler: :run_ingest
+      },
       'new-organization' => {
         description: 'Scrapes a site and creates a new organization entry',
         handler: :run_new_organization
@@ -153,6 +157,15 @@ module Mayhem
 
         extractor = Mayhem::Images::Extractor.new
         extractor.run
+      end
+
+      def run_ingest(_args)
+        run_import_content([])
+        run_summarize([])
+        run_extract_events([])
+        run_summarize([])
+        run_extract_images([])
+        run_expire([])
       end
 
       def run_new_organization(args)
