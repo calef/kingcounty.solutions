@@ -17,6 +17,7 @@ The `bin/mayhem` script consolidates content management functionality. Run `bin/
 
 - `bin/mayhem audit-topics` – Uses OpenAI to reconcile each organization's topics against recent news coverage and optionally rewrites front matter.
 - `bin/mayhem check-source-urls` – Checks `source_url` availability, unpublishing posts or deleting events when links are dead.
+- `bin/mayhem delete-organization` – Deletes all events and news posts associated with an organization.
 - `bin/mayhem expire` – Deletes posts and events outside configured age window.
 - `bin/mayhem extract-events` – Analyzes news posts to identify and create event entries.
 - `bin/mayhem extract-images` – Downloads images from posts/events and creates image metadata.
@@ -94,6 +95,26 @@ Validates every `_posts` and `_events` `source_url`, pruning or deleting entries
 - Deletes events with dead `source_url` values and leaves entries with empty `source_url` untouched.
 - Warns (but does not delete) on transient errors, and uses a dedicated user agent `King County Solutions Link Checker`.
 - Runs concurrently with a small worker pool (default 6; override via `SOURCE_URL_CHECKER_WORKERS`).
+
+### `bin/mayhem delete-organization`
+
+#### Purpose
+
+Deletes all events and news posts associated with an organization by finding and removing content where the `source` front matter field matches the specified organization title. Also cleans up associated images and event references.
+
+#### Usage
+
+- `bin/mayhem delete-organization "Organization Title"`
+
+#### Behavior notes
+
+- Finds and deletes all events in `_events/` where the `source` field matches the specified organization title.
+- Finds and deletes all posts in `_posts/` where the `source` field matches the specified organization title.
+- Cleans up associated image metadata in `_images/` and image assets in `assets/images/` when they are no longer referenced by other content.
+- Removes event references from posts when events are deleted (handled by the events pruner).
+- Logs each file deletion at INFO level, making it easy to see what content is being removed.
+- Returns a summary of how many events and posts were deleted.
+- Safe to run multiple times—repeated calls with the same organization name simply report zero deletions if content was already removed.
 
 ### `bin/mayhem expire`
 

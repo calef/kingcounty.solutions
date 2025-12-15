@@ -17,6 +17,10 @@ module Mayhem
         description: 'Checks source_url availability and unpublishes or deletes content when links are dead',
         handler: :run_check_source_urls
       },
+      'delete-organization' => {
+        description: 'Deletes all events and news posts associated with an organization',
+        handler: :run_delete_organization
+      },
       'expire' => {
         description: 'Deletes posts and events outside configured age window',
         handler: :run_expire
@@ -136,6 +140,62 @@ module Mayhem
         require 'mayhem/content/source_url_checker'
 
         Mayhem::Content::SourceUrlChecker.new.run
+      end
+
+      def run_delete_organization(args)
+        require 'mayhem/logging'
+        require 'mayhem/organizations/pruner'
+        require 'mayhem/events/pruner'
+        require 'mayhem/news/pruner'
+        require 'mayhem/images/pruner'
+
+        if args.empty?
+          warn 'Usage: mayhem delete-organization "Organization Title"'
+          exit 1
+        end
+
+        organization_title = args.first
+        logger = Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL', default_level: 'INFO', program_name: 'mayhem')
+
+        # Set up directory paths
+        posts_dir = File.expand_path('_posts', Dir.pwd)
+        events_dir = File.expand_path('_events', Dir.pwd)
+        images_dir = File.expand_path('_images', Dir.pwd)
+        assets_dir = File.expand_path('assets/images', Dir.pwd)
+
+        # Create pruner instances
+        images_pruner = Mayhem::Images::Pruner.new(
+          posts_dir: posts_dir,
+          events_dir: events_dir,
+          images_dir: images_dir,
+          assets_dir: assets_dir,
+          logger: logger
+        )
+
+        events_pruner = Mayhem::Events::Pruner.new(
+          posts_dir: posts_dir,
+          events_dir: events_dir,
+          images_pruner: images_pruner,
+          logger: logger
+        )
+
+        news_pruner = Mayhem::News::Pruner.new(
+          posts_dir: posts_dir,
+          images_pruner: images_pruner,
+          logger: logger
+        )
+
+        org_pruner = Mayhem::Organizations::Pruner.new(
+          posts_dir: posts_dir,
+          events_dir: events_dir,
+          events_pruner: events_pruner,
+          news_pruner: news_pruner,
+          logger: logger
+        )
+
+        # Prune organization content
+        result = org_pruner.prune_organization_content(organization_title)
+        logger.info "Deletion complete: #{result[:events]} event(s) and #{result[:posts]} post(s) removed"
       end
 
       def run_expire(_args)
