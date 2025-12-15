@@ -8,32 +8,36 @@ require_relative '../front_matter/document'
 require_relative '../front_matter/slug_generator'
 require_relative '../support/encoding_utils'
 require_relative '../content/html_normalizer'
+require_relative './repository'
+require_relative '../events/repository'
 
 module Mayhem
   module News
     class EventExtractor
-      POSTS_DIR = '_posts'
-      EVENTS_DIR = '_events'
       MAX_FILENAME_BYTES = 255
       DEFAULT_MODEL = ENV.fetch('OPENAI_EVENT_EXTRACTION_MODEL', ENV.fetch('OPENAI_MODEL', 'gpt-4o-mini'))
 
       def initialize(
-        posts_dir: POSTS_DIR,
-        events_dir: EVENTS_DIR,
+        posts_dir: nil,
+        events_dir: nil,
         model: DEFAULT_MODEL,
         chat_client: nil,
-        logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL')
+        logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'),
+        posts_repository: nil,
+        events_repository: nil
       )
         @posts_dir = posts_dir
         @events_dir = events_dir
         @model = model
         @logger = logger
         @chat_client = chat_client || Mayhem::OpenAI::ChatClient.new(logger: @logger)
+        @posts_repository = posts_repository || Mayhem::News::Repository.new(directory: @posts_dir || Mayhem::News::Repository::DEFAULT_DIR)
+        @events_repository = events_repository || Mayhem::Events::Repository.new(directory: @events_dir || Mayhem::Events::Repository::DEFAULT_DIR)
       end
 
       def run
         stats = Hash.new(0)
-        Dir.glob(File.join(@posts_dir, '*.md')).each do |file_path|
+        @posts_repository.all_file_paths.each do |file_path|
           process_post(file_path, stats)
         end
         log_summary(stats)
@@ -229,12 +233,12 @@ module Mayhem
           date_prefix: date_prefix,
           max_bytes: MAX_FILENAME_BYTES
         )
-        filename = File.join(@events_dir, "#{date_prefix}-#{slug}.md")
+        filename = @events_repository.file_path("#{date_prefix}-#{slug}")
 
         # Check if event already exists
         if File.exist?(filename)
           stats[:duplicate_events] += 1
-          return File.basename(filename, '.md')
+          return @events_repository.basename(filename)
         end
 
         # Create event frontmatter

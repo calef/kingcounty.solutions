@@ -6,19 +6,18 @@ require_relative '../images/pruner'
 require_relative '../news/pruner'
 require_relative '../front_matter/document'
 require_relative '../support/http_status_resolver'
+require_relative '../news/repository'
+require_relative '../events/repository'
 
 module Mayhem
   module Content
     class SourceUrlChecker
-      POSTS_DIR = '_posts'
-      EVENTS_DIR = '_events'
-      IMAGES_DIR = '_images'
       IMAGE_ASSETS_DIR = File.join('assets', 'images')
 
       def initialize(
-        posts_dir: POSTS_DIR,
-        events_dir: EVENTS_DIR,
-        images_dir: IMAGES_DIR,
+        posts_dir: nil,
+        events_dir: nil,
+        images_dir: nil,
         assets_dir: IMAGE_ASSETS_DIR,
         logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'),
         http_client: nil,
@@ -27,12 +26,16 @@ module Mayhem
         events_pruner: nil,
         images_pruner: nil,
         user_agent: 'King County Solutions Link Checker',
-        workers: ENV.fetch('SOURCE_URL_CHECKER_WORKERS', '6').to_i
+        workers: ENV.fetch('SOURCE_URL_CHECKER_WORKERS', '6').to_i,
+        posts_repository: nil,
+        events_repository: nil
       )
         @posts_dir = posts_dir
         @events_dir = events_dir
         @logger = logger
         @user_agent = user_agent
+        @posts_repository = posts_repository || Mayhem::News::Repository.new(directory: @posts_dir || Mayhem::News::Repository::DEFAULT_DIR)
+        @events_repository = events_repository || Mayhem::Events::Repository.new(directory: @events_dir || Mayhem::Events::Repository::DEFAULT_DIR)
         @http_status_resolver = http_status_resolver || Mayhem::Support::HttpStatusResolver.new(
           logger: @logger,
           user_agent: @user_agent,
@@ -71,7 +74,7 @@ module Mayhem
       private
 
       def check_posts
-        process_documents(Dir.glob(File.join(@posts_dir, '*.md'))) do |path, document|
+        process_documents(@posts_repository.all_file_paths) do |path, document|
           source_url = document.front_matter['source_url']
           next if source_url.nil? || source_url.empty?
 
@@ -88,7 +91,7 @@ module Mayhem
       end
 
       def check_events
-        process_documents(Dir.glob(File.join(@events_dir, '*.md'))) do |path, document|
+        process_documents(@events_repository.all_file_paths) do |path, document|
           source_url = document.front_matter['source_url']
           next if source_url.nil? || source_url.empty?
 

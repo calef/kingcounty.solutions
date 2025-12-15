@@ -15,12 +15,12 @@ require_relative '../support/encoding_utils'
 require_relative '../content/content_utils'
 require_relative '../front_matter/publish_guard'
 require_relative '../content/html_normalizer'
+require_relative './repository'
+require_relative '../organizations/repository'
 
 module Mayhem
   module Events
     class IcalImporter
-      DEFAULT_EVENTS_DIR = '_events'
-      DEFAULT_ORGS_DIR = '_organizations'
       MAX_FILENAME_BYTES = 255
       DEFAULT_MAX_WORKERS = begin
         Integer(ENV.fetch('ICAL_WORKERS', '6'))
@@ -34,12 +34,14 @@ module Mayhem
       attr_reader :events_dir
 
       def initialize(
-        org_dir: DEFAULT_ORGS_DIR,
-        events_dir: DEFAULT_EVENTS_DIR,
+        org_dir: nil,
+        events_dir: nil,
         http_client: nil,
         workers: DEFAULT_MAX_WORKERS,
         logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'),
-        time_source: -> { Time.now }
+        time_source: -> { Time.now },
+        orgs_repository: nil,
+        events_repository: nil
       )
         @org_dir = org_dir
         @events_dir = events_dir
@@ -55,13 +57,16 @@ module Mayhem
         @existing_lock = Mutex.new
         @stats_lock = Mutex.new
         @processed_lock = Mutex.new
+        @orgs_repository = orgs_repository || Mayhem::Organizations::Repository.new(directory: @org_dir || Mayhem::Organizations::Repository::DEFAULT_DIR)
+        @events_repository = events_repository || Mayhem::Events::Repository.new(directory: @events_dir || Mayhem::Events::Repository::DEFAULT_DIR)
+        @events_dir = @events_repository.directory
       end
 
       def run
         ensure_events_dir
         @existing_urls = build_existing_event_index
         queue = Queue.new
-        Dir.glob(File.join(@org_dir, '*.md')).each { |org_path| queue << org_path }
+        @orgs_repository.all_file_paths.each { |org_path| queue << org_path }
 
         threads = Array.new(@workers) do
           Thread.new do
@@ -85,7 +90,7 @@ module Mayhem
 
       def build_existing_event_index
         index = {}
-        Dir.glob(File.join(@events_dir, '*.md')).each do |path|
+        @events_repository.all_file_paths.each do |path|
           document = Mayhem::FrontMatter::Document.load(path, logger: @logger)
           next unless document
 
@@ -230,7 +235,7 @@ module Mayhem
           date_prefix: start_prefix,
           max_bytes: MAX_FILENAME_BYTES
         )
-        filename = File.join(@events_dir, "#{start_prefix}-#{slug}.md")
+        filename = @events_repository.file_path("#{start_prefix}-#{slug}")
 
         description_html = Mayhem::Support::EncodingUtils.ensure_utf8(raw_html)
         description_html = Mayhem::Content::ContentUtils.sanitize_html(event.description) if description_html.to_s.strip.empty?
