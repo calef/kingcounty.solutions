@@ -5,7 +5,8 @@ require_relative '../logging'
 require_relative '../topics/classifier'
 require_relative '../locations/classifier'
 require_relative '../content/article_body_extractor'
-require_relative '../content/content_pruner'
+require_relative '../events/pruner'
+require_relative '../images/pruner'
 require_relative '../front_matter/document'
 require_relative '../support/http_client'
 require_relative '../feed/discovery'
@@ -36,7 +37,8 @@ module Mayhem
         logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'),
         topic_classifier: nil,
         location_classifier: nil,
-        content_pruner: nil
+        event_pruner: nil,
+        images_pruner: nil
       )
         @events_dir = events_dir
         @logger = logger
@@ -54,14 +56,21 @@ module Mayhem
                                  client: @client,
                                  logger: @logger
                                )
-        @content_pruner = content_pruner ||
-                          Mayhem::Content::ContentPruner.new(
-                            posts_dir: POSTS_DIR,
-                            events_dir: events_dir,
-                            images_dir: images_dir,
-                            assets_dir: assets_dir,
-                            logger: logger
-                          )
+        @images_pruner = images_pruner ||
+                         Mayhem::Images::Pruner.new(
+                           posts_dir: POSTS_DIR,
+                           events_dir: events_dir,
+                           images_dir: images_dir,
+                           assets_dir: assets_dir,
+                           logger: logger
+                         )
+        @event_pruner = event_pruner ||
+                        Mayhem::Events::Pruner.new(
+                          posts_dir: POSTS_DIR,
+                          events_dir: events_dir,
+                          images_pruner: @images_pruner,
+                          logger: logger
+                        )
       end
 
       def run
@@ -104,7 +113,7 @@ module Mayhem
             document.save
 
             if classified_locations.empty?
-              @content_pruner.unpublish_event(file_path, document)
+              @event_pruner.unpublish(file_path, document)
               @logger.info "No locations matched for #{file_path}, marking as unpublished and cleaning up images"
             end
 
@@ -207,7 +216,6 @@ module Mayhem
         end
 
         # Set published to false if either topics or locations are empty
-        # Use ContentPruner to properly clean up images
         should_unpublish = (needs_topics && Array(front_matter['topics']).empty?) ||
                            (needs_locations && Array(front_matter['locations']).empty?)
 
@@ -215,7 +223,7 @@ module Mayhem
         document.save
 
         if should_unpublish
-          @content_pruner.unpublish_event(file_path, document)
+          @event_pruner.unpublish(file_path, document)
           if generated_from_post
             event_slug = File.basename(file_path, '.md')
             removed_refs = remove_event_references(event_slug)
@@ -369,7 +377,7 @@ module Mayhem
         document.front_matter = front_matter
         document.body = ''
         document.save
-        @content_pruner.unpublish_event(file_path, document)
+        @event_pruner.unpublish(file_path, document)
 
         return unless generated_from_post
 

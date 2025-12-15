@@ -6,7 +6,7 @@ require_relative '../front_matter/document'
 
 module Mayhem
   module Images
-    class Cleanup
+    class Pruner
       attr_reader :posts_dir, :events_dir, :images_dir, :assets_dir
 
       def initialize(posts_dir:, images_dir:, assets_dir:, logger:, events_dir: nil)
@@ -24,7 +24,6 @@ module Mayhem
       def remaining_image_counts(excluded_paths = Set.new)
         counts = Hash.new(0)
 
-        # Check posts directory
         Dir.glob(File.join(@posts_dir, '*.md')).each do |path|
           next if excluded_paths.include?(path)
 
@@ -34,7 +33,6 @@ module Mayhem
           collect_image_ids(document.front_matter).each { |id| counts[id] += 1 }
         end
 
-        # Check events directory if provided
         if @events_dir
           Dir.glob(File.join(@events_dir, '*.md')).each do |path|
             next if excluded_paths.include?(path)
@@ -49,30 +47,30 @@ module Mayhem
         counts
       end
 
-      def cleanup(image_ids, excluded_paths: Set.new)
+      def prune(image_ids, excluded_paths: Set.new)
         remaining_refs = remaining_image_counts(excluded_paths)
-        cleanup_images(image_ids, remaining_refs)
+        prune_images(image_ids, remaining_refs)
       end
 
       private
 
-      def cleanup_images(image_ids, remaining_refs)
+      def prune_images(image_ids, remaining_refs)
         removed = []
         image_ids.each do |id|
           next if remaining_refs[id]&.positive?
 
           removed << id
-          remove_image_files(id)
+          delete_image_files(id)
         end
         removed
       end
 
-      def remove_image_files(image_id)
-        remove_file(File.join(@images_dir, "#{image_id}.md"))
-        Dir.glob(File.join(@assets_dir, "#{image_id}.*")).each { |asset| remove_file(asset) }
+      def delete_image_files(image_id)
+        delete_file(File.join(@images_dir, "#{image_id}.md"))
+        Dir.glob(File.join(@assets_dir, "#{image_id}.*")).each { |asset| delete_file(asset) }
       end
 
-      def remove_file(path)
+      def delete_file(path)
         FileUtils.rm(path)
       rescue Errno::ENOENT
         # already removed
