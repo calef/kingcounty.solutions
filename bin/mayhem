@@ -154,8 +154,7 @@ module Mayhem
         organization_title = args.first
         logger = Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL', default_level: 'INFO', program_name: 'mayhem')
 
-        result = Mayhem::Organizations::Pruner.prune(organization_title, logger: logger)
-        logger.info "Deletion complete: #{result[:events]} event(s) and #{result[:posts]} post(s) removed"
+        Mayhem::Organizations::Pruner.prune(organization_title, logger: logger)
       end
 
       def run_expire(_args)

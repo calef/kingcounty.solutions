@@ -68,7 +68,9 @@ module Mayhem
         posts_deleted = prune_news(organization_title)
 
         @logger.info "Pruned #{events_deleted} event(s) and #{posts_deleted} post(s) for #{organization_title}"
-        { events: events_deleted, posts: posts_deleted }
+        result = { events: events_deleted, posts: posts_deleted }
+        @logger.info "Deletion complete: #{result[:events]} event(s) and #{result[:posts]} post(s) removed"
+        result
       end
 
       private
