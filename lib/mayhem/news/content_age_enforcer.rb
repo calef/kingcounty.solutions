@@ -8,27 +8,28 @@ require_relative '../logging'
 require_relative '../images/pruner'
 require_relative '../news/pruner'
 require_relative '../front_matter/document'
+require_relative './repository'
+require_relative '../events/repository'
 
 module Mayhem
   module News
     class ContentAgeEnforcer
-      POSTS_DIR = '_posts'
-      IMAGES_DIR = '_images'
       IMAGE_ASSETS_DIR = File.join('assets', 'images')
-      EVENTS_DIR = '_events'
       DEFAULT_MAX_AGE_DAYS = 365
       CONFIG_PATH = File.expand_path('../../../_config.yml', __dir__)
 
       def initialize(
-        posts_dir: POSTS_DIR,
-        images_dir: IMAGES_DIR,
+        posts_dir: nil,
+        images_dir: nil,
         assets_dir: IMAGE_ASSETS_DIR,
-        events_dir: EVENTS_DIR,
+        events_dir: nil,
         config_path: CONFIG_PATH,
         logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'),
         clock: -> { Time.now },
         news_pruner: nil,
-        images_pruner: nil
+        images_pruner: nil,
+        posts_repository: nil,
+        events_repository: nil
       )
         @posts_dir = posts_dir
         @images_dir = images_dir
@@ -37,6 +38,8 @@ module Mayhem
         @config_path = config_path
         @logger = logger
         @clock = clock
+        @posts_repository = posts_repository || Mayhem::News::Repository.new(directory: @posts_dir || Mayhem::News::Repository::DEFAULT_DIR)
+        @events_repository = events_repository || Mayhem::Events::Repository.new(directory: @events_dir || Mayhem::Events::Repository::DEFAULT_DIR)
         @images_pruner = images_pruner ||
                          Mayhem::Images::Pruner.new(
                            posts_dir: posts_dir,
@@ -105,7 +108,7 @@ module Mayhem
       end
 
       def posts_older_than(cutoff)
-        Dir.glob(File.join(@posts_dir, '*.md')).each_with_object([]) do |path, memo|
+        @posts_repository.all_file_paths.each_with_object([]) do |path, memo|
           document = Mayhem::FrontMatter::Document.load(path, logger: @logger)
           next unless document
 
@@ -146,7 +149,7 @@ module Mayhem
         remaining_event_refs = remaining_event_references
 
         event_ids.each do |event_id|
-          event_path = File.join(@events_dir, "#{event_id}.md")
+          event_path = @events_repository.file_path(event_id)
           next unless File.exist?(event_path)
 
           # Only remove events that were generated from posts
@@ -170,7 +173,7 @@ module Mayhem
 
       def remaining_event_references
         counts = Hash.new(0)
-        Dir.glob(File.join(@posts_dir, '*.md')).each do |path|
+        @posts_repository.all_file_paths.each do |path|
           document = Mayhem::FrontMatter::Document.load(path, logger: @logger)
           next unless document
 

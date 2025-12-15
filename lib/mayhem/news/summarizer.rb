@@ -13,17 +13,14 @@ require_relative '../support/http_client'
 require_relative '../feed/discovery'
 require_relative '../summarizer/helpers'
 require_relative '../content/article_body_extractor'
+require_relative './repository'
 
 module Mayhem
   module News
     class PostSummarizer
       include Mayhem::SummarizerHelpers
 
-      POSTS_DIR = '_posts'
-      TOPIC_DIR = '_topics'
-      IMAGES_DIR = '_images'
       IMAGE_ASSETS_DIR = File.join('assets', 'images')
-      EVENTS_DIR = '_events'
       MAX_ARTICLE_CHARS = 20_000
       MIN_SCRAPED_LENGTH = 400
       BOILERPLATE_PATTERNS = [
@@ -37,11 +34,11 @@ module Mayhem
       DEFAULT_TOPIC_MODEL = ENV.fetch('OPENAI_TOPIC_MODEL', DEFAULT_MODEL)
 
       def initialize(
-        posts_dir: POSTS_DIR,
-        topic_dir: TOPIC_DIR,
-        images_dir: IMAGES_DIR,
+        posts_dir: nil,
+        topic_dir: nil,
+        images_dir: nil,
         assets_dir: IMAGE_ASSETS_DIR,
-        events_dir: EVENTS_DIR,
+        events_dir: nil,
         client: nil,
         topic_model: DEFAULT_TOPIC_MODEL,
         http_client: nil,
@@ -49,13 +46,15 @@ module Mayhem
         topic_classifier: nil,
         location_classifier: nil,
         news_pruner: nil,
-        images_pruner: nil
+        images_pruner: nil,
+        posts_repository: nil
       )
         @posts_dir = posts_dir
         @topic_dir = topic_dir
         @logger = logger
         @client = client || ::OpenAI::Client.new(access_token: ENV.fetch('OPENAI_API_KEY'))
         @http = http_client || Mayhem::Support::HttpClient.new(logger: @logger)
+        @posts_repository = posts_repository || Mayhem::News::Repository.new(directory: @posts_dir || Mayhem::News::Repository::DEFAULT_DIR)
         @topic_classifier = topic_classifier ||
                             Mayhem::Topics::Classifier.new(
                               topic_dir: @topic_dir,
@@ -86,7 +85,7 @@ module Mayhem
 
       def run
         stats = Hash.new(0)
-        Dir.glob(File.join(@posts_dir, '*.md')).each do |file_path|
+        @posts_repository.all_file_paths.each do |file_path|
           process_post(file_path, stats)
         end
         log_summary(stats)

@@ -6,35 +6,38 @@ require 'time'
 
 require_relative '../logging'
 require_relative '../front_matter/document'
+require_relative './repository'
+require_relative '../news/repository'
 
 module Mayhem
   module Events
     class StaleEventCleaner
-      EVENTS_DIR = '_events'
-      POSTS_DIR = '_posts'
-
       def initialize(
-        events_dir: EVENTS_DIR,
-        posts_dir: POSTS_DIR,
+        events_dir: nil,
+        posts_dir: nil,
         logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'),
-        clock: -> { Time.now }
+        clock: -> { Time.now },
+        events_repository: nil,
+        posts_repository: nil
       )
         @events_dir = events_dir
         @posts_dir = posts_dir
         @logger = logger
         @clock = clock
+        @events_repository = events_repository || Mayhem::Events::Repository.new(directory: @events_dir || Mayhem::Events::Repository::DEFAULT_DIR)
+        @posts_repository = posts_repository || Mayhem::News::Repository.new(directory: @posts_dir || Mayhem::News::Repository::DEFAULT_DIR)
       end
 
       def run
         current_time = @clock.call
         removed = []
 
-        Dir.glob(File.join(@events_dir, '*.md')).each do |path|
+        @events_repository.all_file_paths.each do |path|
           event_time = event_time_for(path)
           next unless event_time
           next unless event_time < current_time
 
-          event_id = File.basename(path, '.md')
+          event_id = @events_repository.basename(path)
           remove_file(path)
           removed << event_id
           @logger.info "Removed past event #{File.basename(path)}"
@@ -88,7 +91,7 @@ module Mayhem
         removed_set = removed_event_ids.to_set
         posts_updated = 0
 
-        Dir.glob(File.join(@posts_dir, '*.md')).each do |post_path|
+        @posts_repository.all_file_paths.each do |post_path|
           document = Mayhem::FrontMatter::Document.load(post_path, logger: @logger)
           next unless document
 

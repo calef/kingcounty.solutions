@@ -73,17 +73,12 @@ class EventSummarizerTest < Minitest::Test
     @tmp_posts = Dir.mktmpdir('posts')
     @tmp_topics = Dir.mktmpdir('topics')
     @logger = FakeLogger.new
-    @original_posts_dir = Mayhem::Events::EventSummarizer.const_get(:POSTS_DIR)
-    Mayhem::Events::EventSummarizer.send(:remove_const, :POSTS_DIR)
-    Mayhem::Events::EventSummarizer.const_set(:POSTS_DIR, @tmp_posts)
   end
 
   def teardown
     FileUtils.remove_entry(@tmp_events)
     FileUtils.remove_entry(@tmp_posts)
     FileUtils.remove_entry(@tmp_topics)
-    Mayhem::Events::EventSummarizer.send(:remove_const, :POSTS_DIR)
-    Mayhem::Events::EventSummarizer.const_set(:POSTS_DIR, @original_posts_dir)
   end
 
   def write_event(slug, front_matter, body = '')
@@ -103,6 +98,7 @@ class EventSummarizerTest < Minitest::Test
     http = FakeHttpClient.new(response: { body: http_body, content_type: 'text/html' })
     topic_classifier = FakeTopicClassifier.new(topics: topics)
     location_classifier = FakeLocationClassifier.new(locations: locations)
+    posts_repository = Mayhem::News::Repository.new(directory: @tmp_posts)
     Mayhem::Events::EventSummarizer.new(
       events_dir: @tmp_events,
       topic_dir: @tmp_topics,
@@ -111,7 +107,8 @@ class EventSummarizerTest < Minitest::Test
       topic_classifier: topic_classifier,
       location_classifier: location_classifier,
       logger: @logger,
-      model: 'test-model'
+      model: 'test-model',
+      posts_repository: posts_repository
     )
   end
 

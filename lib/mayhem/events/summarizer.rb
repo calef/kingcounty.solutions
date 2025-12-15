@@ -12,24 +12,22 @@ require_relative '../support/http_client'
 require_relative '../feed/discovery'
 require_relative '../support/encoding_utils'
 require_relative '../summarizer/helpers'
+require_relative './repository'
+require_relative '../news/repository'
 
 module Mayhem
   module Events
     class EventSummarizer
       include Mayhem::SummarizerHelpers
 
-      EVENTS_DIR = '_events'
-      POSTS_DIR = '_posts'
-      IMAGES_DIR = '_images'
       IMAGE_ASSETS_DIR = File.join('assets', 'images')
       MAX_ARTICLE_CHARS = 20_000
       DEFAULT_MODEL = ENV.fetch('OPENAI_EVENT_MODEL', ENV.fetch('OPENAI_MODEL', 'gpt-4o-mini'))
-      TOPIC_DIR = '_topics'
 
       def initialize(
-        events_dir: EVENTS_DIR,
-        topic_dir: TOPIC_DIR,
-        images_dir: IMAGES_DIR,
+        events_dir: nil,
+        topic_dir: nil,
+        images_dir: nil,
         assets_dir: IMAGE_ASSETS_DIR,
         client: nil,
         model: DEFAULT_MODEL,
@@ -38,13 +36,17 @@ module Mayhem
         topic_classifier: nil,
         location_classifier: nil,
         event_pruner: nil,
-        images_pruner: nil
+        images_pruner: nil,
+        events_repository: nil,
+        posts_repository: nil
       )
         @events_dir = events_dir
         @logger = logger
         @model = model
         @client = client || ::OpenAI::Client.new(access_token: ENV.fetch('OPENAI_API_KEY'))
         @http = http_client || Mayhem::Support::HttpClient.new(logger: @logger)
+        @events_repository = events_repository || Mayhem::Events::Repository.new(directory: @events_dir || Mayhem::Events::Repository::DEFAULT_DIR)
+        @posts_repository = posts_repository || Mayhem::News::Repository.new
         @topic_classifier = topic_classifier ||
                             Mayhem::Topics::Classifier.new(
                               topic_dir: topic_dir,
@@ -58,16 +60,16 @@ module Mayhem
                                )
         @images_pruner = images_pruner ||
                          Mayhem::Images::Pruner.new(
-                           posts_dir: POSTS_DIR,
-                           events_dir: events_dir,
+                           posts_dir: @posts_repository.directory,
+                           events_dir: @events_repository.directory,
                            images_dir: images_dir,
                            assets_dir: assets_dir,
                            logger: logger
                          )
         @event_pruner = event_pruner ||
                         Mayhem::Events::Pruner.new(
-                          posts_dir: POSTS_DIR,
-                          events_dir: events_dir,
+                          posts_dir: @posts_repository.directory,
+                          events_dir: @events_repository.directory,
                           images_pruner: @images_pruner,
                           logger: logger
                         )
@@ -75,7 +77,7 @@ module Mayhem
 
       def run
         stats = Hash.new(0)
-        Dir.glob(File.join(@events_dir, '*.md')).each do |file_path|
+        @events_repository.all_file_paths.each do |file_path|
           process_event(file_path, stats)
         end
         log_summary(stats)
@@ -311,7 +313,7 @@ module Mayhem
 
       def remove_event_references(event_slug)
         updated_posts = 0
-        Dir.glob(File.join(POSTS_DIR, '*.md')).each do |post_path|
+        @posts_repository.all_file_paths.each do |post_path|
           document = Mayhem::FrontMatter::Document.load(post_path, logger: @logger)
           next unless document
 
