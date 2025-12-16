@@ -79,6 +79,7 @@ module Mayhem
         post_date = front_matter['date']
         source = front_matter['source']
         source_url = front_matter['source_url']
+        reference_time = reference_time_from(post_date)
 
         if post_content.strip.empty? && post_title.strip.empty?
           stats[:skipped_empty_content] += 1
@@ -111,7 +112,8 @@ module Mayhem
             source_url,
             stats,
             front_matter['topics'],
-            front_matter['locations']
+            front_matter['locations'],
+            reference_time
           )
           event_ids << event_id if event_id
         end
@@ -185,7 +187,7 @@ module Mayhem
         nil
       end
 
-      def create_event(event_data, source, source_url, stats, post_topics, post_locations)
+      def create_event(event_data, source, source_url, stats, post_topics, post_locations, reference_time)
         title = event_data['title']
         start_date_str = event_data['start_date']
         end_date_str = event_data['end_date']
@@ -206,7 +208,7 @@ module Mayhem
         end
 
         # Skip events that have already started
-        if start_time < Time.now
+        if start_time < reference_time
           @logger.debug "Skipping past event '#{title}' with start_date #{start_date_str}"
           stats[:past_events_skipped] += 1
           return nil
@@ -297,6 +299,15 @@ module Mayhem
         }
         summary_text = summary_fields.map { |key, value| "#{key}=#{value}" }.join(', ')
         @logger.info "Event extraction complete: #{summary_text}"
+      end
+
+      def reference_time_from(post_date)
+        return Time.now unless post_date
+
+        Time.parse(post_date)
+      rescue StandardError => e
+        @logger.warn "Failed to parse post date '#{post_date}': #{e.message}"
+        Time.now
       end
     end
   end
