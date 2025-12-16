@@ -27,17 +27,21 @@ class StaleEventCleanerTest < Minitest::Test
     FileUtils.remove_entry(@tmpdir)
   end
 
-  def test_removes_events_scheduled_before_now
-    old_event = write_event('old-event', '2025-12-04T10:00:00-08:00')
-    early_today = write_event('early-today', '2025-12-05T10:30:00-08:00')
-    upcoming_today = write_event('upcoming-today', '2025-12-05T12:30:00-08:00')
-    future_event = write_event('future-event', '2025-12-06T10:00:00-08:00')
+  def test_removes_events_after_expiration_window
+    old_event = write_event('old-event', '2025-12-03T10:00:00Z')
+    early_today = write_event('early-today', '2025-12-05T10:30:00Z')
+    in_progress = write_event('in-progress', '2025-12-05T10:00:00Z', '2025-12-05T20:00:00Z')
+    ended_yesterday = write_event('ended-yesterday', '2025-12-04T10:00:00Z', '2025-12-04T18:00:00Z')
+    ends_today = write_event('ends-today', '2025-12-05T08:00:00Z', '2025-12-05T18:00:00Z')
+    future_event = write_event('future-event', '2025-12-06T10:00:00Z')
 
     @cleaner.run
 
     refute_path_exists old_event
-    refute_path_exists early_today
-    assert_path_exists upcoming_today
+    refute_path_exists ended_yesterday
+    assert_path_exists early_today
+    assert_path_exists in_progress
+    assert_path_exists ends_today
     assert_path_exists future_event
   end
 
@@ -80,8 +84,9 @@ class StaleEventCleanerTest < Minitest::Test
 
   private
 
-  def write_event(name, start_date)
+  def write_event(name, start_date, end_date = nil)
     front_matter = { 'start_date' => start_date }
+    front_matter['end_date'] = end_date if end_date
     path = File.join(@events_dir, "#{name}.md")
     File.write(path, Mayhem::FrontMatter::Document.build_markdown(front_matter, ''))
     path

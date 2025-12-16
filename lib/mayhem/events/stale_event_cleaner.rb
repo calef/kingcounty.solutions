@@ -12,6 +12,7 @@ module Mayhem
     class StaleEventCleaner
       EVENTS_DIR = '_events'
       POSTS_DIR = '_posts'
+      ONE_DAY_IN_SECONDS = 86_400
 
       def initialize(
         events_dir: EVENTS_DIR,
@@ -30,9 +31,9 @@ module Mayhem
         removed = []
 
         Dir.glob(File.join(@events_dir, '*.md')).each do |path|
-          event_time = event_time_for(path)
-          next unless event_time
-          next unless event_time < current_time
+          expiration_time = expiration_time_for(path)
+          next unless expiration_time
+          next unless expiration_time <= current_time
 
           event_id = File.basename(path, '.md')
           remove_file(path)
@@ -52,16 +53,22 @@ module Mayhem
 
       private
 
-      def event_time_for(path)
+      def expiration_time_for(path)
         document = Mayhem::FrontMatter::Document.load(path, logger: @logger)
         return unless document
 
-        parse_start_time(document.front_matter['start_date'], path)
+        front_matter = document.front_matter
+        start_time = parse_time(front_matter['start_date'], path, 'start_date', required: true)
+        return unless start_time
+
+        end_time = parse_time(front_matter['end_date'], path, 'end_date', required: false)
+
+        (end_time || start_time) + ONE_DAY_IN_SECONDS
       end
 
-      def parse_start_time(value, path)
+      def parse_time(value, path, field_name, required:)
         if value.nil? || (value.respond_to?(:empty?) && value.empty?)
-          @logger.warn "Skipping #{File.basename(path)}: missing start_date"
+          @logger.warn "Skipping #{File.basename(path)}: missing #{field_name}" if required
           return nil
         end
 
@@ -74,7 +81,7 @@ module Mayhem
           Time.iso8601(value.to_s)
         end
       rescue ArgumentError => e
-        @logger.warn "Skipping #{File.basename(path)}: invalid start_date '#{value}' (#{e.message})"
+        @logger.warn "Skipping #{File.basename(path)}: invalid #{field_name} '#{value}' (#{e.message})"
         nil
       end
 
