@@ -71,7 +71,7 @@ module Mayhem
         posts_deleted = prune_news(organization_title)
 
         # Delete the organization file itself
-        organization_deleted = delete_organization_file(organization_title)
+        organization_deleted = delete?(organization_title)
 
         @logger.info "Pruned #{events_deleted} event(s) and #{posts_deleted} post(s) for #{organization_title}"
         result = { events: events_deleted, posts: posts_deleted, organization: organization_deleted }
@@ -114,7 +114,7 @@ module Mayhem
         deleted_count
       end
 
-      def delete_organization_file(organization_title)
+      def delete?(organization_title)
         Dir.glob(File.join(@organizations_dir, '*.md')).each do |org_path|
           document = Mayhem::FrontMatter::Document.load(org_path, logger: @logger)
           next unless document
