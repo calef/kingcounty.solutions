@@ -4,7 +4,7 @@ require 'fmrepo'
 
 module Mayhem
   module Models
-    # Location model represents geographic locations in King County, such as cities,
+    # Location model represents geographic locations, such as cities,
     # neighborhoods, and regions. Each location is stored as a markdown file in the
     # _locations directory with front matter containing location metadata.
     #
