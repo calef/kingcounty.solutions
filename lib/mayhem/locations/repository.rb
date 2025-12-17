@@ -69,15 +69,8 @@ module Mayhem
       private
 
       def build_location_hash(location)
-        rel_path = location.rel_path
-        slug = if rel_path
-                 rel_path.basename(rel_path.extname).to_s
-               else
-                 FMRepo.slugify(location.title || '')
-               end
-
         {
-          slug: slug,
+          id: location.id,
           title: location.title,
           type: location.location_type,
           parent_location: location.parent_location,
