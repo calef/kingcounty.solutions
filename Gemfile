@@ -6,7 +6,7 @@ gem 'digest'
 gem 'fileutils'
 gem 'icalendar'
 gem 'jekyll'
-gem 'fmrepo', github: 'calef/fmrepo'
+gem 'fmrepo', github: 'calef/fmrepo', ref: '26089e2a90b672b17277479203a9e05f1231e107'
 group :jekyll_plugins do
   gem 'jekyll-feed'
   gem 'jekyll-last-modified-at'
