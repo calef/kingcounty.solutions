@@ -20,7 +20,6 @@ module Mayhem
       include Mayhem::SummarizerHelpers
 
       POSTS_DIR = '_posts'
-      TOPIC_DIR = '_topics'
       IMAGES_DIR = '_images'
       IMAGE_ASSETS_DIR = File.join('assets', 'images')
       EVENTS_DIR = '_events'
@@ -38,7 +37,7 @@ module Mayhem
 
       def initialize(
         posts_dir: POSTS_DIR,
-        topic_dir: TOPIC_DIR,
+        topic_repo: nil,
         images_dir: IMAGES_DIR,
         assets_dir: IMAGE_ASSETS_DIR,
         events_dir: EVENTS_DIR,
@@ -52,13 +51,12 @@ module Mayhem
         images_pruner: nil
       )
         @posts_dir = posts_dir
-        @topic_dir = topic_dir
         @logger = logger
         @client = client || ::OpenAI::Client.new(access_token: ENV.fetch('OPENAI_API_KEY'))
         @http = http_client || Mayhem::Support::HttpClient.new(logger: @logger)
         @topic_classifier = topic_classifier ||
                             Mayhem::Topics::Classifier.new(
-                              topic_dir: @topic_dir,
+                              topic_repo: topic_repo,
                               model: topic_model,
                               client: @client,
                               logger: @logger

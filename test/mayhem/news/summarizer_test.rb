@@ -34,7 +34,7 @@ class PostSummarizerTest < Minitest::Test
     write_post('2025-01-01-test.md', { 'source_url' => 'http://bad', 'summarized' => false, 'feed_content' => '<p>body</p>' }, 'body')
     http_stub = Object.new
     def http_stub.fetch(*) = { body: '', 'content-type' => 'text/plain', final_url: 'http://ok' }
-    summarizer = Mayhem::News::PostSummarizer.new(posts_dir: @tmp_posts, topic_dir: @tmp_topics,
+    summarizer = Mayhem::News::PostSummarizer.new(posts_dir: @tmp_posts, topic_repo: @tmp_topics,
                                                   http_client: http_stub, logger: @logger, client: Object.new)
     def summarizer.fetch_article_html(_url)
       raise StandardError, 'boom'
@@ -59,7 +59,7 @@ class PostSummarizerTest < Minitest::Test
       { 'choices' => [{ 'message' => { 'content' => '["Alpha"]' } }] }
     end
 
-    summarizer = Mayhem::News::PostSummarizer.new(posts_dir: @tmp_posts, topic_dir: @tmp_topics,
+    summarizer = Mayhem::News::PostSummarizer.new(posts_dir: @tmp_posts, topic_repo: @tmp_topics,
                                                   http_client: Object.new, logger: @logger, client: client)
     # stub generate_summary to skip OpenAI call
     def summarizer.generate_summary(*) = 'summary'
@@ -86,7 +86,7 @@ class PostSummarizerTest < Minitest::Test
     # Use a summarizer with a client object that will raise once then return
     http_stub = Object.new
     def http_stub.fetch(*) = { body: 'abc', 'content-type' => 'text/plain', final_url: 'http://ok' }
-    summarizer = Mayhem::News::PostSummarizer.new(posts_dir: @tmp_posts, topic_dir: @tmp_topics,
+    summarizer = Mayhem::News::PostSummarizer.new(posts_dir: @tmp_posts, topic_repo: @tmp_topics,
                                                   http_client: http_stub, logger: @logger, client: client)
     def summarizer.fetch_article_text(_url) = 'abc'
 
@@ -115,7 +115,7 @@ class PostSummarizerTest < Minitest::Test
 
     summarizer = Mayhem::News::PostSummarizer.new(
       posts_dir: @tmp_posts,
-      topic_dir: @tmp_topics,
+      topic_repo: @tmp_topics,
       http_client: http_stub,
       logger: @logger,
       client: client
@@ -151,7 +151,7 @@ class PostSummarizerTest < Minitest::Test
 
     summarizer = Mayhem::News::PostSummarizer.new(
       posts_dir: @tmp_posts,
-      topic_dir: @tmp_topics,
+      topic_repo: @tmp_topics,
       http_client: Object.new,
       logger: @logger,
       client: Object.new,
@@ -187,7 +187,7 @@ class PostSummarizerTest < Minitest::Test
 
     summarizer = Mayhem::News::PostSummarizer.new(
       posts_dir: @tmp_posts,
-      topic_dir: @tmp_topics,
+      topic_repo: @tmp_topics,
       http_client: Object.new,
       logger: @logger,
       client: Object.new,

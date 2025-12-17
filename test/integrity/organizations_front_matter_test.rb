@@ -4,6 +4,7 @@ require 'uri'
 require 'yaml'
 require_relative '../test_helper'
 require 'mayhem/models/location'
+require 'mayhem/models/topic'
 
 class OrganizationsFrontMatterTest < Minitest::Test
   ALLOWED_FIELDS = %w[
@@ -69,7 +70,7 @@ class OrganizationsFrontMatterTest < Minitest::Test
     @organizations = load_documents('_organizations/*.md')
     @organization_titles = @organizations.map { |doc| doc[:data]['title'] }.compact
     @locations = Mayhem::Models::Location.all.map(&:title)
-    @topics = load_titles('_topics/*.md')
+    @topics = Mayhem::Models::Topic.all.map(&:title)
   end
 
   def test_documents_only_use_allowed_fields

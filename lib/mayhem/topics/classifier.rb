@@ -4,18 +4,18 @@ require 'json'
 
 require_relative '../logging'
 require_relative '../openai/chat_client'
-require_relative '../front_matter/document'
+require_relative '../models/topic'
 
 module Mayhem
   module Topics
     class Classifier
-      TOPIC_DIR = '_topics'
       DEFAULT_MODEL = ENV.fetch('OPENAI_TOPIC_MODEL', ENV.fetch('OPENAI_MODEL', 'gpt-5.1'))
       DEFAULT_TEMPERATURE = 0.2
 
-      def initialize(topic_dir: TOPIC_DIR, model: DEFAULT_MODEL, client: nil, chat_client: nil,
-                     logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'))
-        @topic_dir = topic_dir
+      def initialize(topic_repo: nil, topic_model: Mayhem::Models::Topic, model: DEFAULT_MODEL, client: nil,
+                     chat_client: nil, logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'))
+        @topic_repo = topic_repo
+        @topic_model = topic_model
         @model = model
         @logger = logger
         @chat_client = chat_client || Mayhem::OpenAI::ChatClient.new(client: client, logger: @logger)
@@ -81,14 +81,12 @@ module Mayhem
       private
 
       def load_topic_catalog
-        Dir.glob(File.join(@topic_dir, '*.md')).filter_map do |path|
-          doc = Mayhem::FrontMatter::Document.load(path, logger: @logger)
-          next unless doc
-
-          title = doc.front_matter['title']
-          summary = doc.body.to_s.strip
+        relation = @topic_model.relation(repo: @topic_repo)
+        relation.to_a.filter_map do |topic|
+          title = topic.title
           next unless title
 
+          summary = topic.body.to_s.strip
           { 'title' => title, 'summary' => summary }
         end
       end
