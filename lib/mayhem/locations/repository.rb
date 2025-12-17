@@ -22,7 +22,11 @@ module Mayhem
         return @locations_cache if @locations_cache
 
         relation = @location_model.relation(repo: @location_repo)
-        @locations_cache = relation.to_a.map { |location| build_location_hash(location) }
+        @locations_cache = relation.to_a.each_with_object([]) do |location, locations|
+          next unless location.title
+
+          locations << build_location_hash(location)
+        end
       end
 
       def build_location_list(locations)
