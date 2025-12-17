@@ -4,7 +4,6 @@ require 'yaml'
 require_relative '../test_helper'
 
 class LocationsFrontMatterTest < Minitest::Test
-  ZIP_CODE_REGEX = /\A\d{5}(?:-\d{4})?\z/
   ALLOWED_TYPES = [
     'Census-Designated Place',
     'City',
@@ -16,32 +15,6 @@ class LocationsFrontMatterTest < Minitest::Test
   def setup
     @locations = load_documents('_locations/*.md')
     @location_title_map = load_title_map('_locations/*.md')
-  end
-
-  def test_latitude_if_present_is_numeric
-    errors = []
-
-    locations.each do |doc|
-      latitude = doc[:data]['latitude']
-      next if latitude.nil?
-
-      errors << "#{doc[:path]} latitude '#{latitude}' must be numeric" unless latitude.is_a?(Numeric)
-    end
-
-    assert_empty errors, "Latitude issues:\n#{errors.join("\n")}"
-  end
-
-  def test_longitude_if_present_is_numeric
-    errors = []
-
-    locations.each do |doc|
-      longitude = doc[:data]['longitude']
-      next if longitude.nil?
-
-      errors << "#{doc[:path]} longitude '#{longitude}' must be numeric" unless longitude.is_a?(Numeric)
-    end
-
-    assert_empty errors, "Longitude issues:\n#{errors.join("\n")}"
   end
 
   def test_parent_location_if_present_matches_a_place
@@ -106,37 +79,6 @@ class LocationsFrontMatterTest < Minitest::Test
     assert_empty errors, "Type issues:\n#{errors.join("\n")}"
   end
 
-  def test_zip_codes_if_present_are_valid_and_unique
-    errors = []
-
-    locations.each do |doc|
-      zips = doc[:data]['zip_codes']
-      next if zips.nil?
-
-      unless zips.is_a?(Array)
-        errors << "#{doc[:path]} zip_codes must be an array"
-        next
-      end
-
-      seen = Set.new
-      zips.each do |zip|
-        unless zip.is_a?(String) && zip.match?(ZIP_CODE_REGEX)
-          errors << "#{doc[:path]} zip code '#{zip}' must be a valid US postal code"
-          next
-        end
-
-        normalized = zip.strip
-        if seen.include?(normalized)
-          errors << "#{doc[:path]} zip code '#{zip}' is duplicated"
-        else
-          seen << normalized
-        end
-      end
-    end
-
-    assert_empty errors, "ZIP code issues:\n#{errors.join("\n")}"
-  end
-
   def test_filename_matches_title_slug
     errors = []
 
@@ -152,19 +94,6 @@ class LocationsFrontMatterTest < Minitest::Test
     end
 
     assert_empty errors, "Filename issues:\n#{errors.join("\n")}"
-  end
-
-  def test_topic_summary_generated_if_present_is_true
-    errors = []
-
-    locations.each do |doc|
-      next unless doc[:data].key?('topic_summary_generated')
-
-      value = doc[:data]['topic_summary_generated']
-      errors << "#{doc[:path]} topic_summary_generated must be true if present" unless value == true
-    end
-
-    assert_empty errors, "Topic summary issues:\n#{errors.join("\n")}"
   end
 
   private

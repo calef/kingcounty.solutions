@@ -35,8 +35,7 @@ module Mayhem
             title: title,
             type: front_matter['type'],
             parent_location: front_matter['parent_location'],
-            description: document.body&.strip,
-            zip_codes: Array(front_matter['zip_codes'])
+            description: document.body&.strip
           }
         end
 
