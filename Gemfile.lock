@@ -1,3 +1,9 @@
+GIT
+  remote: https://github.com/calef/fmrepo.git
+  revision: 26089e2a90b672b17277479203a9e05f1231e107
+  specs:
+    fmrepo (0.1.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -225,6 +231,7 @@ DEPENDENCIES
   base64
   digest
   fileutils
+  fmrepo!
   html5_validator
   icalendar
   jekyll
@@ -251,4 +258,4 @@ DEPENDENCIES
   yaml
 
 BUNDLED WITH
-   2.7.2
+  4.0.2

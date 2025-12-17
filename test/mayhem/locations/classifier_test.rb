@@ -3,6 +3,8 @@
 require_relative '../../test_helper'
 require 'minitest/autorun'
 require_relative '../../../lib/mayhem/locations/classifier'
+require 'fmrepo'
+require 'mayhem/models/location'
 
 class LocationClassifierTest < Minitest::Test
   class FakeLogger
@@ -34,6 +36,7 @@ class LocationClassifierTest < Minitest::Test
 
   def setup
     @tmp_locations = Dir.mktmpdir('locations')
+    @fm_repo = FMRepo::Repository.new(root: @tmp_locations)
     @logger = FakeLogger.new
   end
 
@@ -42,15 +45,14 @@ class LocationClassifierTest < Minitest::Test
   end
 
   def write_location(slug, front_matter, body = '')
-    path = File.join(@tmp_locations, "#{slug}.md")
-    File.write(path, Mayhem::FrontMatter::Document.build_markdown(front_matter, body))
-    path
+    attrs = front_matter.merge('slug' => slug)
+    Mayhem::Models::Location.create!(attrs, body:, repo: @fm_repo)
   end
 
   def build_classifier(client_response:)
     client = FakeChatClient.new(response: client_response)
     location_repository = Mayhem::Locations::Repository.new(
-      locations_dir: @tmp_locations,
+      location_repo: @fm_repo,
       logger: @logger
     )
     Mayhem::Locations::Classifier.new(
@@ -118,7 +120,7 @@ class LocationClassifierTest < Minitest::Test
       response: { 'choices' => [{ 'message' => { 'content' => '["Seattle"]' } }] }
     )
     location_repository = Mayhem::Locations::Repository.new(
-      locations_dir: @tmp_locations,
+      location_repo: @fm_repo,
       logger: @logger
     )
     classifier = Mayhem::Locations::Classifier.new(
@@ -152,7 +154,7 @@ class LocationClassifierTest < Minitest::Test
     end
 
     location_repository = Mayhem::Locations::Repository.new(
-      locations_dir: @tmp_locations,
+      location_repo: @fm_repo,
       logger: @logger
     )
     classifier = Mayhem::Locations::Classifier.new(

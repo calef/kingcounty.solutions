@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 
-require 'yaml'
 require_relative '../test_helper'
+require 'mayhem/models/location'
 
 class LocationsFrontMatterTest < Minitest::Test
   ALLOWED_TYPES = [
@@ -13,8 +13,8 @@ class LocationsFrontMatterTest < Minitest::Test
   ].freeze
 
   def setup
-    @locations = load_documents('_locations/*.md')
-    @location_title_map = load_title_map('_locations/*.md')
+    @locations = load_documents
+    @location_title_map = load_title_map(@locations)
   end
 
   def test_parent_location_if_present_matches_a_place
@@ -100,26 +100,18 @@ class LocationsFrontMatterTest < Minitest::Test
 
   attr_reader :locations, :location_title_map
 
-  def load_documents(glob)
-    Dir[glob].map { |path| { path: path, data: read_front_matter(path) } }
-  end
-
-  def load_title_map(glob)
-    Dir[glob].each_with_object(Hash.new { |hash, key| hash[key] = [] }) do |path, map|
-      data = read_front_matter(path)
-      next unless data
-
-      title = data['title']
-      map[title] << path if title.is_a?(String)
+  def load_documents
+    Mayhem::Models::Location.all.to_a.map do |location|
+      { path: location.id, data: location.front_matter }
     end
   end
 
-  def read_front_matter(path)
-    content = File.read(path)
-    match = content.match(/\A---\s*\n(.*?)\n---/m)
-    return {} unless match
-
-    YAML.safe_load(match[1], permitted_classes: [], aliases: true) || {}
+  def load_title_map(locations)
+    locations.each_with_object(Hash.new { |hash, key| hash[key] = [] }) do |doc, map|
+      data = doc[:data]
+      title = data['title']
+      map[title] << doc[:path] if title.is_a?(String)
+    end
   end
 
   def value_as_string(doc, field)
@@ -129,7 +121,9 @@ class LocationsFrontMatterTest < Minitest::Test
     value.strip
   end
 
-  def slugify(value)
-    value.downcase.gsub(/[^a-z0-9]+/, '-').gsub(/^-|-$/, '')
+  def slugify(title)
+    title.downcase
+         .gsub(/[^a-z0-9]+/, '-')
+         .gsub(/\A-+|-+\z/, '')
   end
 end

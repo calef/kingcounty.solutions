@@ -1,18 +1,19 @@
 # frozen_string_literal: true
 
 require_relative '../logging'
-require_relative '../front_matter/document'
+require_relative '../models/location'
 
 module Mayhem
   module Locations
     class Repository
-      LOCATIONS_DIR = '_locations'
-
       def initialize(
-        locations_dir: LOCATIONS_DIR,
+        location_repo: nil,
+        location_model: Mayhem::Models::Location,
         logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL')
       )
-        @locations_dir = locations_dir
+        @location_repo = location_repo
+        @location_model = location_model
+        @location_model.repository(location_repo) if location_repo
         @logger = logger
         @locations_cache = nil
       end
@@ -20,26 +21,12 @@ module Mayhem
       def all
         return @locations_cache if @locations_cache
 
-        @locations_cache = []
-        Dir.glob(File.join(@locations_dir, '*.md')).each do |file_path|
-          document = Mayhem::FrontMatter::Document.load(file_path, logger: @logger)
-          next unless document
+        relation = @location_model.relation(repo: @location_repo)
+        @locations_cache = relation.to_a.each_with_object([]) do |location, locations|
+          next unless location.title
 
-          front_matter = document.front_matter
-          title = front_matter['title']
-          next unless title
-
-          slug = File.basename(file_path, '.md')
-          @locations_cache << {
-            slug: slug,
-            title: title,
-            type: front_matter['type'],
-            parent_location: front_matter['parent_location'],
-            description: document.body&.strip
-          }
+          locations << build_location_hash(location)
         end
-
-        @locations_cache
       end
 
       def build_location_list(locations)
@@ -77,6 +64,18 @@ module Mayhem
 
           has_ancestor_in_list
         end
+      end
+
+      private
+
+      def build_location_hash(location)
+        {
+          id: location.id,
+          title: location.title,
+          type: location.location_type,
+          parent_location: location.parent_location,
+          description: location.body&.strip
+        }
       end
     end
   end
