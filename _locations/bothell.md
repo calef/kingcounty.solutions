@@ -1,7 +1,7 @@
 ---
 latitude: 47.7617
 longitude: -122.2054
-parent_place: Eastside
+parent_location: Eastside
 title: Bothell
 type: City
 zip_codes:

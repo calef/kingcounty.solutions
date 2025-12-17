@@ -1,7 +1,7 @@
 ---
 latitude: 47.4822
 longitude: -122.1633
-parent_place: South King County
+parent_location: South King County
 title: East Renton Highlands
 type: Census-Designated Place
 zip_codes:

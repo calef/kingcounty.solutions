@@ -1,7 +1,7 @@
 ---
 latitude: 47.6279
 longitude: -122.245
-parent_place: Eastside
+parent_location: Eastside
 title: Medina
 type: City
 zip_codes:

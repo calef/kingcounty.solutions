@@ -1,5 +1,5 @@
 ---
-parent_place: King County
+parent_location: King County
 title: North King County
 type: County Region
 ---

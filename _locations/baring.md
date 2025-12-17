@@ -1,7 +1,7 @@
 ---
 latitude: 47.6905
 longitude: -121.6192
-parent_place: Eastside
+parent_location: Eastside
 title: Baring
 type: Census-Designated Place
 zip_codes:

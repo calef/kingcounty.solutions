@@ -1,7 +1,7 @@
 ---
 latitude: 47.3809
 longitude: -122.2348
-parent_place: South King County
+parent_location: South King County
 title: Kent
 type: City
 zip_codes:

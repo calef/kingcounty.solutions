@@ -1,7 +1,7 @@
 ---
 latitude: 47.6062
 longitude: -122.3321
-parent_place: King County
+parent_location: King County
 title: Seattle
 type: City
 zip_codes:

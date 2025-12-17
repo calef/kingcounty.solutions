@@ -1,7 +1,7 @@
 ---
 latitude: 47.6821
 longitude: -121.9964
-parent_place: Eastside
+parent_location: Eastside
 title: Lake Marcel-Stillwater
 type: Census-Designated Place
 zip_codes:

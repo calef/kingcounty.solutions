@@ -1,7 +1,7 @@
 ---
 latitude: 47.444
 longitude: -122.3018
-parent_place: South King County
+parent_location: South King County
 title: SeaTac
 type: City
 zip_codes:

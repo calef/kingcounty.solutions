@@ -44,25 +44,25 @@ class LocationsFrontMatterTest < Minitest::Test
     assert_empty errors, "Longitude issues:\n#{errors.join("\n")}"
   end
 
-  def test_parent_place_if_present_matches_a_place
+  def test_parent_location_if_present_matches_a_place
     errors = []
 
     locations.each do |doc|
-      parent_place = value_as_string(doc, 'parent_place')
-      next if parent_place.nil? || parent_place.empty?
+      parent_location = value_as_string(doc, 'parent_location')
+      next if parent_location.nil? || parent_location.empty?
 
-      matching_paths = location_title_map[parent_place]
+      matching_paths = location_title_map[parent_location]
       if matching_paths.nil? || matching_paths.empty?
-        errors << "#{doc[:path]} parent_place '#{parent_place}' must match another place title"
+        errors << "#{doc[:path]} parent_location '#{parent_location}' must match another place title"
         next
       end
 
       if matching_paths.all? { |path| path == doc[:path] }
-        errors << "#{doc[:path]} parent_place '#{parent_place}' must reference a different place document"
+        errors << "#{doc[:path]} parent_location '#{parent_location}' must reference a different place document"
       end
     end
 
-    assert_empty errors, "Parent place issues:\n#{errors.join("\n")}"
+    assert_empty errors, "Parent location issues:\n#{errors.join("\n")}"
   end
 
   def test_title_is_present_unique_and_string

@@ -11,7 +11,7 @@
 - `script/cibuild` — invokes `bundle exec jekyll build` plus any future CI checks; run locally before PRs.
 
 ## Coding Style & Naming Conventions
-- Use two spaces for indentation in Liquid templates, Markdown front matter, and Ruby scripts. Keep YAML keys lowercase with snake_case (e.g., `parent_place`).
+- Use two spaces for indentation in Liquid templates, Markdown front matter, and Ruby scripts. Keep YAML keys lowercase with snake_case (e.g., `parent_location`).
 - When adding pages, name files with kebab-case (e.g., `locations.md`) and keep collection documents singular (`title: Auburn`, filename `auburn.md`).
 - Prefer the existing inline-comment style: concise and only when necessary to explain non-obvious logic.
 

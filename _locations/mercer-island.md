@@ -1,7 +1,7 @@
 ---
 latitude: 47.5707
 longitude: -122.2224
-parent_place: Eastside
+parent_location: Eastside
 title: Mercer Island
 type: City
 zip_codes:

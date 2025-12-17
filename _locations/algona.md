@@ -1,7 +1,7 @@
 ---
 latitude: 47.3091
 longitude: -122.2392
-parent_place: South King County
+parent_location: South King County
 title: Algona
 type: City
 zip_codes:

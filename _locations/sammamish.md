@@ -1,7 +1,7 @@
 ---
 latitude: 47.6165
 longitude: -122.0353
-parent_place: Eastside
+parent_location: Eastside
 title: Sammamish
 type: City
 zip_codes:

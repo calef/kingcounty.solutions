@@ -1,7 +1,7 @@
 ---
 latitude: 47.436
 longitude: -122.338
-parent_place: West King County
+parent_location: West King County
 title: Normandy Park
 type: City
 zip_codes:

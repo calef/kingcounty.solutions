@@ -1,5 +1,5 @@
 ---
-parent_place: Snoqualmie Valley
+parent_location: Snoqualmie Valley
 title: Preston
 type: Census-Designated Place
 ---

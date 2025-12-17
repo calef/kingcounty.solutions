@@ -1,7 +1,7 @@
 ---
 latitude: 47.6272
 longitude: -122.242
-parent_place: Eastside
+parent_location: Eastside
 title: Clyde Hill
 type: City
 zip_codes:

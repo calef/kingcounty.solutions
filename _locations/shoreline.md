@@ -1,7 +1,7 @@
 ---
 latitude: 47.756
 longitude: -122.339
-parent_place: North King County
+parent_location: North King County
 title: Shoreline
 type: City
 zip_codes:

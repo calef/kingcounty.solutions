@@ -1,7 +1,7 @@
 ---
 latitude: 47.61
 longitude: -122.242
-parent_place: Eastside
+parent_location: Eastside
 title: Beaux Arts Village
 type: Town
 zip_codes:

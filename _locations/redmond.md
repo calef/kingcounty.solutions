@@ -1,7 +1,7 @@
 ---
 latitude: 47.6739
 longitude: -122.1215
-parent_place: Eastside
+parent_location: Eastside
 title: Redmond
 type: City
 zip_codes:

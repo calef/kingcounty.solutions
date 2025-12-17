@@ -1,7 +1,7 @@
 ---
 latitude: 47.5301
 longitude: -122.0326
-parent_place: Eastside
+parent_location: Eastside
 title: Issaquah
 type: City
 zip_codes:

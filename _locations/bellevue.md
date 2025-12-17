@@ -1,7 +1,7 @@
 ---
 latitude: 47.6101
 longitude: -122.2015
-parent_place: Eastside
+parent_location: Eastside
 title: Bellevue
 type: City
 zip_codes:

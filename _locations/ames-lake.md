@@ -1,7 +1,7 @@
 ---
 latitude: 47.7061
 longitude: -122.0706
-parent_place: Eastside
+parent_location: Eastside
 title: Ames Lake
 type: Census-Designated Place
 zip_codes:

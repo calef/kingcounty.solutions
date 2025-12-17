@@ -34,7 +34,7 @@ module Mayhem
             slug: slug,
             title: title,
             type: front_matter['type'],
-            parent_place: front_matter['parent_place'],
+            parent_location: front_matter['parent_location'],
             description: document.body&.strip,
             zip_codes: Array(front_matter['zip_codes'])
           }
@@ -47,7 +47,7 @@ module Mayhem
         locations.map do |loc|
           parts = [loc[:title]]
           parts << "(#{loc[:type]})" if loc[:type]
-          parts << "in #{loc[:parent_place]}" if loc[:parent_place]
+          parts << "in #{loc[:parent_location]}" if loc[:parent_location]
           parts.join(' ')
         end.join("\n")
       end
@@ -64,7 +64,7 @@ module Mayhem
           next false unless location
 
           has_ancestor_in_list = false
-          current_parent = location[:parent_place]
+          current_parent = location[:parent_location]
 
           while current_parent
             if titles.include?(current_parent)
@@ -73,7 +73,7 @@ module Mayhem
             end
 
             parent_location = title_to_location[current_parent]
-            current_parent = parent_location ? parent_location[:parent_place] : nil
+            current_parent = parent_location ? parent_location[:parent_location] : nil
           end
 
           has_ancestor_in_list

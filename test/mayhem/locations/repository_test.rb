@@ -68,9 +68,9 @@ class LocationRepositoryTest < Minitest::Test
 
   def test_build_location_list_formats_locations
     locations = [
-      { title: 'Seattle', type: 'City', parent_place: nil },
-      { title: 'Snoqualmie', type: 'City', parent_place: 'Snoqualmie Valley' },
-      { title: 'King County', type: 'County', parent_place: nil }
+      { title: 'Seattle', type: 'City', parent_location: nil },
+      { title: 'Snoqualmie', type: 'City', parent_location: 'Snoqualmie Valley' },
+      { title: 'King County', type: 'County', parent_location: nil }
     ]
 
     repository = Mayhem::Locations::Repository.new(
@@ -87,8 +87,8 @@ class LocationRepositoryTest < Minitest::Test
 
   def test_filter_to_highest_level_removes_child_when_parent_present
     locations = [
-      { title: 'Snoqualmie Valley', type: 'County Region', parent_place: 'Eastside' },
-      { title: 'Snoqualmie', type: 'City', parent_place: 'Snoqualmie Valley' }
+      { title: 'Snoqualmie Valley', type: 'County Region', parent_location: 'Eastside' },
+      { title: 'Snoqualmie', type: 'City', parent_location: 'Snoqualmie Valley' }
     ]
     titles = ['Snoqualmie Valley', 'Snoqualmie']
 
@@ -104,9 +104,9 @@ class LocationRepositoryTest < Minitest::Test
 
   def test_filter_to_highest_level_keeps_siblings
     locations = [
-      { title: 'Snoqualmie Valley', type: 'County Region', parent_place: 'Eastside' },
-      { title: 'Snoqualmie', type: 'City', parent_place: 'Snoqualmie Valley' },
-      { title: 'North Bend', type: 'City', parent_place: 'Snoqualmie Valley' }
+      { title: 'Snoqualmie Valley', type: 'County Region', parent_location: 'Eastside' },
+      { title: 'Snoqualmie', type: 'City', parent_location: 'Snoqualmie Valley' },
+      { title: 'North Bend', type: 'City', parent_location: 'Snoqualmie Valley' }
     ]
     titles = ['Snoqualmie', 'North Bend']
 

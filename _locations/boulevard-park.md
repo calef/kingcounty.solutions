@@ -1,7 +1,7 @@
 ---
 latitude: 47.5307
 longitude: -122.3397
-parent_place: South King County
+parent_location: South King County
 title: Boulevard Park
 type: Census-Designated Place
 zip_codes:

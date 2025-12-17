@@ -1,7 +1,7 @@
 ---
 latitude: 47.7541
 longitude: -122.1635
-parent_place: Eastside
+parent_location: Eastside
 title: Woodinville
 type: City
 zip_codes:
