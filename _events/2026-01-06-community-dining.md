@@ -1,5 +1,5 @@
 ---
-end_date: '2025-12-17T16:00:00-08:00'
+end_date: '2026-01-06T12:30:00-08:00'
 feed_content: <a>Skip to content</a><div> <header><div> <div> <div> <div> <div> <div>
   <div> <div> <div> <div> <div> <div> <p>We used to be called the Senior Center of
   West Seattle.</p> </div> </div> </div> </div> </div> <div> <div> <div> <div> <div>
@@ -11,16 +11,13 @@ feed_content: <a>Skip to content</a><div> <header><div> <div> <div> <div> <div> 
   </div> </div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div>
   <h1> <a> <span>Activities &amp; Events</span> </a> </h1> </div> </div> </div> </div>
   </div> </div> </div> </div> </div> </div> </div> </header> <div> <div> <div> <div>
-  <div> <div> <div> <div> <div> <div> <div> <div> <div> <h1> <span>Functional Mobility
-  Yoga</span> </h1> </div> </div> <div> <div> <div> <p><span>Wednesday, December 17,
-  2025 at 3:00 pm</span> - <span>4:00 pm</span></p> </div> </div> </div> <div> <div>
-  <p><span><span>Nally Michelle, certified yoga instructor, will lead this class designed
-  to move and strengthen body parts that support healthy living. She focuses on the
-  seven functional movements (locomotion, hinge, squat, push, pull, rotate and anti-rotation)
-  that allow our bodies to maintain mobility and pain-free movements as we age. All
-  levels and all bodies are appropriate for this class, and chair yogis and modifications
-  are welcome. Bring a water bottle, yoga mat and desired props.</span></span><span> </span></p>
-  </div> </div> <div> <div> <span><a>Fitness</a></span> </div> </div> </div> </div>
+  <div> <div> <div> <div> <div> <div> <div> <div> <div> <h1> <span>Community Dining</span>
+  </h1> </div> </div> <div> <div> <div> <p><span>Tuesday, January 6, 2026 at 11:45
+  am</span> - <span>12:30 pm</span></p> </div> </div> </div> <div> <div> <p><span>We
+  serve a hot meal prepared from scratch by our staff Chef Francisco in a communal
+  setting. Our menu changes every day and is designed to be culturally varied and
+  nutritious. Suggested $5/person ages 60+; required $10 under 60. </span></p> </div>
+  </div> <div> <div> <span><a>Food &amp; Meals</a></span> </div> </div> </div> </div>
   <div> <div> <div> <div> <div> <div> <div> <div> <a> <span>Calendar</span> </a> </div>
   </div> <div> <div> <a> <span>Membership</span> </a> </div> </div> </div> </div>
   </div> </div> </div> </div> </div> <div> <div> <div> <div> <div> <div> <h2> Location
@@ -32,17 +29,16 @@ feed_content: <a>Skip to content</a><div> <header><div> <div> <div> <div> <div> 
   <div> <ul> <li> <a> Google Calendar </a> </li> <li> <a> iCalendar </a> </li> <li>
   <a> Outlook 365 </a> </li> <li> <a> Outlook Live </a> </li> </ul> </div> </div>
   </div> </div> </div> </div> </div> </div> </div> <div> <div> <div> <div> <div> <h2>
-  Related Events</h2> <ul> <li> <div> <h3><a>Move, Dance &amp; Socialize</a></h3>
-  <span>Wednesday, December 17, 2025 at 9:00 am</span> - <span>10:00 am</span> </div>
-  </li> <li> <div> <h3><a>Balance &amp; Strength</a></h3> <span>Wednesday, December
-  17, 2025 at 10:00 am</span> - <span>11:00 am</span> </div> </li> <li> <div> <h3><a>Tai
-  Chi Level 1 Beginners</a></h3> <span>Thursday, December 18, 2025 at 9:00 am</span>
-  - <span>9:30 am</span> </div> </li> </ul> </div> </div> <div> <div> <div> <div>
-  <div> <div> <a> <span>Calendar</span> </a> </div> </div> </div> </div> </div> </div>
-  </div> </div> </div> </div> </div> </div> </div> </div> </div> <a><span>Scroll To
-  Top</span></a> <script> {"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://wscenter.org/wp-includes/js/wp-emoji-release.min.js?ver=6.9"}}
+  Related Events</h2> <ul> <li> <div> <h3><a>Margie’s Café</a></h3> <span>Wednesday,
+  December 17, 2025 at 9:00 am</span> - <span>1:30 pm</span> </div> </li> <li> <div>
+  <h3><a>Community Dining</a></h3> <span>Wednesday, December 17, 2025 at 11:45 am</span>
+  - <span>12:30 pm</span> </div> </li> <li> <div> <h3><a>Margie’s Café</a></h3> <span>Thursday,
+  December 18, 2025 at 9:00 am</span> - <span>1:30 pm</span> </div> </li> </ul> </div>
+  </div> <div> <div> <div> <div> <div> <div> <a> <span>Calendar</span> </a> </div>
+  </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div>
+  </div> </div> <a><span>Scroll To Top</span></a> <script> {"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://wscenter.org/wp-includes/js/wp-emoji-release.min.js?ver=6.9"}}
   </script>
-feed_content_checksum: d1125a402ab29ce3bfa29eac02477c3a427dbcd5
+feed_content_checksum: 93b37a80cc84c4e5aeb3cf45f00e169177711cbc
 images: []
 location: The Center for Active Living, 4217 SW Oregon St., Seattle, WA, 98116, United
   States
@@ -51,7 +47,7 @@ locations:
 original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n<meta charset=\"UTF-8\"
   />\n<meta name='viewport' content='width=device-width, initial-scale=1.0' />\n<meta
   http-equiv='X-UA-Compatible' content='IE=edge' />\n<link rel=\"profile\" href=\"https://gmpg.org/xfn/11\"
-  />\n<title>Functional Mobility Yoga &#8211; The Center for Active Living</title>\n<link
+  />\n<title>Community Dining &#8211; The Center for Active Living</title>\n<link
   rel='stylesheet' id='tec-variables-skeleton-css' href='https://wscenter.org/wp-content/plugins/the-events-calendar/common/build/css/variables-skeleton.css?ver=6.10.0'
   media='all' />\n<link rel='stylesheet' id='tribe-common-skeleton-style-css' href='https://wscenter.org/wp-content/plugins/the-events-calendar/common/build/css/common-skeleton.css?ver=6.10.0'
   media='all' />\n<link rel='stylesheet' id='tribe-events-views-v2-bootstrap-datepicker-styles-css'
@@ -75,8 +71,8 @@ original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n<meta cha
   Active Living &raquo; Comments Feed\" href=\"https://wscenter.org/comments/feed/\"
   />\n<link rel=\"alternate\" type=\"text/calendar\" title=\"The Center for Active
   Living &raquo; iCal Feed\" href=\"https://wscenter.org/calendar/?ical=1\" />\n<link
-  rel=\"alternate\" title=\"oEmbed (JSON)\" type=\"application/json+oembed\" href=\"https://wscenter.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwscenter.org%2Fevent%2Frejuvenating-yoga-2-2-2-2%2F2025-12-17%2F\"
-  />\n<link rel=\"alternate\" title=\"oEmbed (XML)\" type=\"text/xml+oembed\" href=\"https://wscenter.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwscenter.org%2Fevent%2Frejuvenating-yoga-2-2-2-2%2F2025-12-17%2F&#038;format=xml\"
+  rel=\"alternate\" title=\"oEmbed (JSON)\" type=\"application/json+oembed\" href=\"https://wscenter.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwscenter.org%2Fevent%2Fcommunity-dining-hot-lunches-2%2F2026-01-06%2F\"
+  />\n<link rel=\"alternate\" title=\"oEmbed (XML)\" type=\"text/xml+oembed\" href=\"https://wscenter.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwscenter.org%2Fevent%2Fcommunity-dining-hot-lunches-2%2F2026-01-06%2F&#038;format=xml\"
   />\n<link rel=\"preload\" href=\"https://wscenter.org/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-regular-400.woff2\"
   as=\"font\" type=\"font/woff2\" crossorigin=\"anonymous\">\n<link rel=\"preload\"
   href=\"https://wscenter.org/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-solid-900.woff2\"
@@ -228,16 +224,15 @@ original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n<meta cha
   media='all' />\n<link rel='stylesheet' id='fl-child-theme-css' href='https://wscenter.org/wp-content/themes/bb-theme-child/style.css?ver=6.9'
   media='all' />\n<link rel='stylesheet' id='pp-animate-css' href='https://wscenter.org/wp-content/plugins/bbpowerpack/assets/css/animate.min.css?ver=3.5.1'
   media='all' />\n<link rel='stylesheet' id='fl-builder-google-fonts-0345043d0ebb04888497a79ed20df371-css'
-  href='//fonts.googleapis.com/css?"
+  href='//fonts.googleapis.com/cs"
 source: The Center for Active Living
-source_url: https://wscenter.org/event/rejuvenating-yoga-2-2-2-2/2025-12-17/
-start_date: '2025-12-17T15:00:00-08:00'
+source_url: https://wscenter.org/event/community-dining-hot-lunches-2/2026-01-06/
+start_date: '2026-01-06T11:45:00-08:00'
 summarized: true
-title: Functional Mobility Yoga
+title: Community Dining
 topics:
+- Food & Nutrition
 - Senior Services
-- Disabilities
-- Health Care
 ---
 
-Join us for Functional Mobility Yoga at The Center for Active Living in Seattle on Dec. 17, 2025, at 3 p.m. This class focuses on enhancing flexibility, strength, and balance through a series of adaptive yoga poses. Participants can expect to improve their overall mobility and body awareness in a supportive environment. Whether you're a beginner or have experience, this session is designed to accommodate all skill levels. Don't miss this opportunity to boost your physical well-being and connect with others in the community.
+Join the Community Dining event at The Center for Active Living on Jan. 6, 2026, starting at 11:45 a.m. Located at 4217 SW Oregon St. in Seattle, this gathering offers a chance to enjoy a delicious meal while connecting with neighbors and friends. Attendees can expect a welcoming atmosphere, nutritious food options, and opportunities for social interaction. This event is perfect for individuals and families looking to engage with their community and make new connections. Don't miss out on this chance to dine and socialize in a friendly setting.

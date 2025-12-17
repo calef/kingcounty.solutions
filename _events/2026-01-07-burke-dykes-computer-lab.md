@@ -1,5 +1,5 @@
 ---
-end_date: '2025-12-17T16:00:00-08:00'
+end_date: '2026-01-07T16:20:00-08:00'
 feed_content: <a>Skip to content</a><div> <header><div> <div> <div> <div> <div> <div>
   <div> <div> <div> <div> <div> <div> <p>We used to be called the Senior Center of
   West Seattle.</p> </div> </div> </div> </div> </div> <div> <div> <div> <div> <div>
@@ -11,38 +11,35 @@ feed_content: <a>Skip to content</a><div> <header><div> <div> <div> <div> <div> 
   </div> </div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div>
   <h1> <a> <span>Activities &amp; Events</span> </a> </h1> </div> </div> </div> </div>
   </div> </div> </div> </div> </div> </div> </div> </header> <div> <div> <div> <div>
-  <div> <div> <div> <div> <div> <div> <div> <div> <div> <h1> <span>Functional Mobility
-  Yoga</span> </h1> </div> </div> <div> <div> <div> <p><span>Wednesday, December 17,
-  2025 at 3:00 pm</span> - <span>4:00 pm</span></p> </div> </div> </div> <div> <div>
-  <p><span><span>Nally Michelle, certified yoga instructor, will lead this class designed
-  to move and strengthen body parts that support healthy living. She focuses on the
-  seven functional movements (locomotion, hinge, squat, push, pull, rotate and anti-rotation)
-  that allow our bodies to maintain mobility and pain-free movements as we age. All
-  levels and all bodies are appropriate for this class, and chair yogis and modifications
-  are welcome. Bring a water bottle, yoga mat and desired props.</span></span><span> </span></p>
-  </div> </div> <div> <div> <span><a>Fitness</a></span> </div> </div> </div> </div>
-  <div> <div> <div> <div> <div> <div> <div> <div> <a> <span>Calendar</span> </a> </div>
-  </div> <div> <div> <a> <span>Membership</span> </a> </div> </div> </div> </div>
-  </div> </div> </div> </div> </div> <div> <div> <div> <div> <div> <div> <h2> Location
-  </h2> <ul> <li> The Center for Active Living </li> <li> <address> <span> <span>4217
-  SW Oregon St.</span> <span>Seattle</span><span>,</span> <abbr>WA</abbr> <span>98116</span>
-  <span>United States</span> </span> <a>+ Google Map</a> </address> </li> <li> <span>Phone</span>
-  <span> 206-932-4044 </span> </li> <li> <span> <a>View Location Website</a> </span>
-  </li> </ul> </div> </div> </div> </div> </div> </div> <div> <div> <div> <div> <div>
-  <div> <ul> <li> <a> Google Calendar </a> </li> <li> <a> iCalendar </a> </li> <li>
-  <a> Outlook 365 </a> </li> <li> <a> Outlook Live </a> </li> </ul> </div> </div>
-  </div> </div> </div> </div> </div> </div> </div> <div> <div> <div> <div> <div> <h2>
-  Related Events</h2> <ul> <li> <div> <h3><a>Move, Dance &amp; Socialize</a></h3>
-  <span>Wednesday, December 17, 2025 at 9:00 am</span> - <span>10:00 am</span> </div>
-  </li> <li> <div> <h3><a>Balance &amp; Strength</a></h3> <span>Wednesday, December
-  17, 2025 at 10:00 am</span> - <span>11:00 am</span> </div> </li> <li> <div> <h3><a>Tai
-  Chi Level 1 Beginners</a></h3> <span>Thursday, December 18, 2025 at 9:00 am</span>
-  - <span>9:30 am</span> </div> </li> </ul> </div> </div> <div> <div> <div> <div>
-  <div> <div> <a> <span>Calendar</span> </a> </div> </div> </div> </div> </div> </div>
-  </div> </div> </div> </div> </div> </div> </div> </div> </div> <a><span>Scroll To
-  Top</span></a> <script> {"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://wscenter.org/wp-includes/js/wp-emoji-release.min.js?ver=6.9"}}
+  <div> <div> <div> <div> <div> <div> <div> <div> <div> <h1> <span>Burke Dykes Computer
+  Lab</span> </h1> </div> </div> <div> <div> <div> <p><span>Wednesday, January 7,
+  2026 at 8:30 am</span> - <span>4:20 pm</span></p> </div> </div> </div> <div> <div>
+  <p><span>Use our Windows computers to check email, surf the internet, search online
+  resources and access popular software like Microsoft Office. Printer and scanner
+  available. If you want support while using our computers, stop by during our Drop-In
+  Digital Navigation program hours. </span> </p> </div> </div> <div> <div> <span><a>Technology</a></span>
+  </div> </div> </div> </div> <div> <div> <div> <div> <div> <div> <div> <div> <a>
+  <span>Calendar</span> </a> </div> </div> <div> <div> <a> <span>Membership</span>
+  </a> </div> </div> </div> </div> </div> </div> </div> </div> </div> <div> <div>
+  <div> <div> <div> <div> <h2> Location </h2> <ul> <li> The Center for Active Living
+  </li> <li> <address> <span> <span>4217 SW Oregon St.</span> <span>Seattle</span><span>,</span>
+  <abbr>WA</abbr> <span>98116</span> <span>United States</span> </span> <a>+ Google
+  Map</a> </address> </li> <li> <span>Phone</span> <span> 206-932-4044 </span> </li>
+  <li> <span> <a>View Location Website</a> </span> </li> </ul> </div> </div> </div>
+  </div> </div> </div> <div> <div> <div> <div> <div> <div> <ul> <li> <a> Google Calendar
+  </a> </li> <li> <a> iCalendar </a> </li> <li> <a> Outlook 365 </a> </li> <li> <a>
+  Outlook Live </a> </li> </ul> </div> </div> </div> </div> </div> </div> </div> </div>
+  </div> <div> <div> <div> <div> <div> <h2> Related Events</h2> <ul> <li> <div> <h3><a>Burke
+  Dykes Computer Lab</a></h3> <span>Wednesday, December 17, 2025 at 8:30 am</span>
+  - <span>4:20 pm</span> </div> </li> <li> <div> <h3><a>Tech Made Easy</a></h3> <span>Wednesday,
+  December 17, 2025 at 3:00 pm</span> - <span>4:00 pm</span> </div> </li> <li> <div>
+  <h3><a>Drop-in Digital Navigation</a></h3> <span>Thursday, December 18, 2025 at
+  11:30 am</span> - <span>3:00 pm</span> </div> </li> </ul> </div> </div> <div> <div>
+  <div> <div> <div> <div> <a> <span>Calendar</span> </a> </div> </div> </div> </div>
+  </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> <a><span>Scroll
+  To Top</span></a> <script> {"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://wscenter.org/wp-includes/js/wp-emoji-release.min.js?ver=6.9"}}
   </script>
-feed_content_checksum: d1125a402ab29ce3bfa29eac02477c3a427dbcd5
+feed_content_checksum: 3290ac73eeb7afea16b57244512a8865659ec72a
 images: []
 location: The Center for Active Living, 4217 SW Oregon St., Seattle, WA, 98116, United
   States
@@ -51,7 +48,7 @@ locations:
 original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n<meta charset=\"UTF-8\"
   />\n<meta name='viewport' content='width=device-width, initial-scale=1.0' />\n<meta
   http-equiv='X-UA-Compatible' content='IE=edge' />\n<link rel=\"profile\" href=\"https://gmpg.org/xfn/11\"
-  />\n<title>Functional Mobility Yoga &#8211; The Center for Active Living</title>\n<link
+  />\n<title>Burke Dykes Computer Lab &#8211; The Center for Active Living</title>\n<link
   rel='stylesheet' id='tec-variables-skeleton-css' href='https://wscenter.org/wp-content/plugins/the-events-calendar/common/build/css/variables-skeleton.css?ver=6.10.0'
   media='all' />\n<link rel='stylesheet' id='tribe-common-skeleton-style-css' href='https://wscenter.org/wp-content/plugins/the-events-calendar/common/build/css/common-skeleton.css?ver=6.10.0'
   media='all' />\n<link rel='stylesheet' id='tribe-events-views-v2-bootstrap-datepicker-styles-css'
@@ -75,8 +72,8 @@ original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n<meta cha
   Active Living &raquo; Comments Feed\" href=\"https://wscenter.org/comments/feed/\"
   />\n<link rel=\"alternate\" type=\"text/calendar\" title=\"The Center for Active
   Living &raquo; iCal Feed\" href=\"https://wscenter.org/calendar/?ical=1\" />\n<link
-  rel=\"alternate\" title=\"oEmbed (JSON)\" type=\"application/json+oembed\" href=\"https://wscenter.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwscenter.org%2Fevent%2Frejuvenating-yoga-2-2-2-2%2F2025-12-17%2F\"
-  />\n<link rel=\"alternate\" title=\"oEmbed (XML)\" type=\"text/xml+oembed\" href=\"https://wscenter.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwscenter.org%2Fevent%2Frejuvenating-yoga-2-2-2-2%2F2025-12-17%2F&#038;format=xml\"
+  rel=\"alternate\" title=\"oEmbed (JSON)\" type=\"application/json+oembed\" href=\"https://wscenter.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwscenter.org%2Fevent%2Fburke-dykes-computer-lab-2%2F2026-01-07%2F\"
+  />\n<link rel=\"alternate\" title=\"oEmbed (XML)\" type=\"text/xml+oembed\" href=\"https://wscenter.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwscenter.org%2Fevent%2Fburke-dykes-computer-lab-2%2F2026-01-07%2F&#038;format=xml\"
   />\n<link rel=\"preload\" href=\"https://wscenter.org/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-regular-400.woff2\"
   as=\"font\" type=\"font/woff2\" crossorigin=\"anonymous\">\n<link rel=\"preload\"
   href=\"https://wscenter.org/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-solid-900.woff2\"
@@ -228,16 +225,15 @@ original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n<meta cha
   media='all' />\n<link rel='stylesheet' id='fl-child-theme-css' href='https://wscenter.org/wp-content/themes/bb-theme-child/style.css?ver=6.9'
   media='all' />\n<link rel='stylesheet' id='pp-animate-css' href='https://wscenter.org/wp-content/plugins/bbpowerpack/assets/css/animate.min.css?ver=3.5.1'
   media='all' />\n<link rel='stylesheet' id='fl-builder-google-fonts-0345043d0ebb04888497a79ed20df371-css'
-  href='//fonts.googleapis.com/css?"
+  href='//fonts.googleapis.com/cs"
 source: The Center for Active Living
-source_url: https://wscenter.org/event/rejuvenating-yoga-2-2-2-2/2025-12-17/
-start_date: '2025-12-17T15:00:00-08:00'
+source_url: https://wscenter.org/event/burke-dykes-computer-lab-2/2026-01-07/
+start_date: '2026-01-07T08:30:00-08:00'
 summarized: true
-title: Functional Mobility Yoga
+title: Burke Dykes Computer Lab
 topics:
+- Education & Learning
 - Senior Services
-- Disabilities
-- Health Care
 ---
 
-Join us for Functional Mobility Yoga at The Center for Active Living in Seattle on Dec. 17, 2025, at 3 p.m. This class focuses on enhancing flexibility, strength, and balance through a series of adaptive yoga poses. Participants can expect to improve their overall mobility and body awareness in a supportive environment. Whether you're a beginner or have experience, this session is designed to accommodate all skill levels. Don't miss this opportunity to boost your physical well-being and connect with others in the community.
+Join the Burke Dykes Computer Lab at The Center for Active Living in Seattle on Jan. 7, 2026, starting at 8:30 a.m. This event offers a supportive environment for individuals to enhance their computer skills, whether you're a beginner or looking to refine your expertise. Attendees can expect hands-on assistance from knowledgeable volunteers, access to computers, and resources to help navigate various software and online tools. The lab aims to empower participants by building confidence in their technology use. Don't miss this opportunity to connect with others and improve your digital literacy at 4217 SW Oregon St.

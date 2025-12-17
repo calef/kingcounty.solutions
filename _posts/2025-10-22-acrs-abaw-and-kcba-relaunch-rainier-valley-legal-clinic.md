@@ -2,18 +2,20 @@
 date: '2025-10-22T14:01:00+00:00'
 events: []
 events_extracted: true
-feed_content: "<p>ACRS, ABAW, and KCBA relaunch Rainier Valley Legal Clinic.</p>"
+feed_content: "&lt;p&gt;ACRS, ABAW, and KCBA relaunch Rainier Valley Legal Clinic.&lt;/p&gt;"
+feed_content_checksum: db28d7f7cc99cf8b4c443cd66504076de9668aba
 images: []
 locations:
 - King County
+original_source_html: "&lt;p&gt;ACRS, ABAW, and KCBA relaunch Rainier Valley Legal
+  Clinic.&lt;/p&gt;"
+rss_guid: tag:http://www.kcba.org/?pg=news-and-announcements&amp;blAction=showEntry&amp;blogEntry=133031:3D32C7A7-9CAC-4BAC-9568-FA090B090043
 source: King County Bar Association
-source_url: http://www.kcba.org/?pg=news-and-announcements&blAction=showEntry&blogEntry=133031
+source_url: http://www.kcba.org/?amp%3BblAction=showEntry&amp%3BblogEntry=133031&pg=news-and-announcements
 summarized: true
 title: ACRS, ABAW, and KCBA relaunch Rainier Valley Legal Clinic
 topics:
-- Domestic Violence
-- Education & Learning
-- Employment & Job Support
+- Legal Aid
 ---
 
-Justice, professionalism, service. The Asian Counseling and Referral Service (ACRS), in collaboration with the Asian Bar Association of Washington (ABAW) and the King County Bar Association (KCBA), has announced the relaunch of the Rainier Valley Legal Clinic. This pro bono clinic is an essential resource offering free legal consultations to low-income individuals, immigrants, and refugees in the Seattle area. The initiative aims to address legal needs within these communities, providing vital support and access to legal services. The clinic's reopening underscores a commitment to enhancing legal assistance for marginalized populations, ensuring that those who may face barriers to legal representation can receive the help they need. The partnership reflects a dedication to community service and the promotion of justice for all.
+ACRS, ABAW, and KCBA have announced the relaunch of the Rainier Valley Legal Clinic. This initiative aims to provide essential legal services to the Rainier Valley community. The clinic will offer support in various legal areas, helping residents navigate their legal challenges. This revitalization reflects a commitment to improving access to justice for local residents. The collaboration between ACRS, ABAW, and KCBA underscores the importance of community partnerships in addressing legal needs. The clinic is expected to serve as a vital resource for those in the Rainier Valley area seeking legal assistance.

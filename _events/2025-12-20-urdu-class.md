@@ -1,16 +1,13 @@
 ---
-end_date: '2025-12-20T12:30:00-08:00'
+end_date: '2025-12-20T13:00:00-08:00'
 feed_content: "<div> <div> <div> <div> <div> <p> <a> « All Events </a> </p> <h1>Urdu
   Class</h1> <div> <span>Recurring Event</span> <a> see all </a> </div> <div> <div>
-  <h2> <span> December 20 </span> <span> @ </span> <span> 10:30 am </span> <span>
-  – </span> <span> 12:30 pm </span> </h2> </div> <p>Discover the joy of learning a
-  new language! Learn Urdu language arts at our weekly classes that will be held throughout
-  the year. This class is for both beginners and advanced students.</p> <p><strong>Starting
-  September 16th, 2023Every Saturday10:30 AM – 12:30 PM</strong></p> <div> <div><a><strong>Register</strong></a></div>
+  <h2> <span> December 20 </span> <span> @ </span> <span> 11:00 am </span> <span>
+  – </span> <span> 1:00 pm </span> </h2> </div> <div> <div><a><strong>Register</strong></a></div>
   </div> <div> <div> <div> <div> <div> <ul> <li> <a> Google Calendar </a> </li> <li>
   <a> iCalendar </a> </li> <li> <a> Outlook 365 </a> </li> <li> <a> Outlook Live </a>
   </li> </ul> </div> </div> </div> </div> </div> <h2>Related Events</h2> <ul> <li>
-  <div> <h3> <a> Urdu Class </a> </h3> <span>December 20 @ 11:00 am</span> – <span>1:00
+  <div> <h3> <a> Urdu Class </a> </h3> <span>December 20 @ 10:30 am</span> – <span>12:30
   pm</span><div><div> <span>|</span>Recurring Event <a>(See all)</a><div> <div>Recurring
   Event</div> </div> </div></div> </div> </li> <li> <div> <h3> <a> Urdu Class </a>
   </h3> <span>December 27 @ 10:30 am</span> – <span>12:30 pm</span><div><div> <span>|</span>Recurring
@@ -18,9 +15,9 @@ feed_content: "<div> <div> <div> <div> <div> <p> <a> « All Events </a> </p> <h1
   </li> <li> <div> <h3> <a> Urdu Class </a> </h3> <span>December 27 @ 11:00 am</span>
   – <span>1:00 pm</span><div><div> <span>|</span>Recurring Event <a>(See all)</a><div>
   <div>Recurring Event</div> </div> </div></div> </div> </li> </ul> </div> <div> <h3>Event
-  Navigation</h3> <ul> <li><a><span>«</span> Tafseer with Br. Alaa Badr</a></li> <li><a>Urdu
-  Class <span>»</span></a></li> </ul> </div> </div> </div> </div> </div> </div>"
-feed_content_checksum: 74f6e68bc25a6b14ec39598f58d54182facd953f
+  Navigation</h3> <ul> <li><a><span>«</span> Urdu Class</a></li> <li><a>MCRC Seattle
+  Office Hours <span>»</span></a></li> </ul> </div> </div> </div> </div> </div> </div>"
+feed_content_checksum: 679ca3cafcd3f99c75190b0f3a0043cda3a8895a
 images: []
 location: ''
 locations:
@@ -41,35 +38,27 @@ original_source_html: "<!DOCTYPE html>\n<html class=\"html\" lang=\"en-US\">\n<h
   href='https://mapsredmond.org/wp-content/plugins/events-calendar-pro/src/resources/css/views-print.min.css?ver=6.3.2'
   media='print' />\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n<!--
   The SEO Framework by Sybre Waaijer -->\n<meta name=\"robots\" content=\"max-snippet:-1,max-image-preview:standard,max-video-preview:-1\"
-  />\n<link rel=\"canonical\" href=\"https://mapsredmond.org/event/urdu-class/2025-12-20/\"
-  />\n<meta name=\"description\" content=\"Discover the joy of learning a new language!
-  Learn Urdu language arts at our weekly classes that will be held throughout the
-  year. This class is for both&#8230;\" />\n<meta property=\"og:type\" content=\"article\"
-  />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta property=\"og:site_name\"
-  content=\"MAPS\" />\n<meta property=\"og:title\" content=\"Urdu Class &#x2d; MAPS\"
-  />\n<meta property=\"og:description\" content=\"Discover the joy of learning a new
-  language! Learn Urdu language arts at our weekly classes that will be held throughout
-  the year. This class is for both beginners and advanced students.\" />\n<meta property=\"og:url\"
-  content=\"https://mapsredmond.org/event/urdu-class/2025-12-20/\" />\n<meta property=\"og:image\"
-  content=\"https://mapsredmond.org/wp-content/uploads/2023/09/Urdu-Classes-2-819x1024.png\"
-  />\n<meta property=\"article:published_time\" content=\"2023-09-02T07:41:06+00:00\"
-  />\n<meta property=\"article:modified_time\" content=\"2023-09-02T07:41:06+00:00\"
+  />\n<link rel=\"canonical\" href=\"https://mapsredmond.org/event/urdu-class-2/2025-12-20/\"
+  />\n<meta name=\"description\" content=\"Register&#8230;\" />\n<meta property=\"og:type\"
+  content=\"article\" />\n<meta property=\"og:locale\" content=\"en_US\" />\n<meta
+  property=\"og:site_name\" content=\"MAPS\" />\n<meta property=\"og:title\" content=\"Urdu
+  Class &#x2d; MAPS\" />\n<meta property=\"og:description\" content=\"Register&#8230;\"
+  />\n<meta property=\"og:url\" content=\"https://mapsredmond.org/event/urdu-class-2/2025-12-20/\"
+  />\n<meta property=\"og:image\" content=\"https://mapsredmond.org/wp-content/uploads/2025/05/New-Urdu-Flyer-1-819x1024.jpg\"
+  />\n<meta property=\"article:published_time\" content=\"2024-08-30T07:55:15+00:00\"
+  />\n<meta property=\"article:modified_time\" content=\"2024-08-30T07:55:15+00:00\"
   />\n<meta name=\"twitter:card\" content=\"summary_large_image\" />\n<meta name=\"twitter:title\"
-  content=\"Urdu Class &#x2d; MAPS\" />\n<meta name=\"twitter:description\" content=\"Discover
-  the joy of learning a new language! Learn Urdu language arts at our weekly classes
-  that will be held throughout the year. This class is for both beginners and advanced
-  students.\" />\n<meta name=\"twitter:image\" content=\"https://mapsredmond.org/wp-content/uploads/2023/09/Urdu-Classes-2-819x1024.png\"
+  content=\"Urdu Class &#x2d; MAPS\" />\n<meta name=\"twitter:description\" content=\"Register&#8230;\"
+  />\n<meta name=\"twitter:image\" content=\"https://mapsredmond.org/wp-content/uploads/2025/05/New-Urdu-Flyer-1-819x1024.jpg\"
   />\n<script type=\"application/ld+json\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebSite\",\"@id\":\"https://mapsredmond.org/#/schema/WebSite\",\"url\":\"https://mapsredmond.org/\",\"name\":\"MAPS\",\"description\":\"Muslim
   Association of Puget Sound\",\"inLanguage\":\"en-US\",\"potentialAction\":{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://mapsredmond.org/search/{search_term_string}/\"},\"query-input\":\"required
-  name=search_term_string\"},\"publisher\":{\"@type\":\"Organization\",\"@id\":\"https://mapsredmond.org/#/schema/Organization\",\"name\":\"MAPS\",\"url\":\"https://mapsredmond.org/\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://mapsredmond.org/wp-content/uploads/2020/03/MapsLogoFinal_Full-logo-RedWhite.png\",\"contentUrl\":\"https://mapsredmond.org/wp-content/uploads/2020/03/MapsLogoFinal_Full-logo-RedWhite.png\",\"width\":1075,\"height\":641}}},{\"@type\":\"WebPage\",\"@id\":\"https://mapsredmond.org/event/urdu-class/2025-12-20/\",\"url\":\"https://mapsredmond.org/event/urdu-class/2025-12-20/\",\"name\":\"Urdu
-  Class &#x2d; MAPS\",\"description\":\"Discover the joy of learning a new language!
-  Learn Urdu language arts at our weekly classes that will be held throughout the
-  year. This class is for both&#8230;\",\"inLanguage\":\"en-US\",\"isPartOf\":{\"@id\":\"https://mapsredmond.org/#/schema/WebSite\"},\"breadcrumb\":{\"@type\":\"BreadcrumbList\",\"@id\":\"https://mapsredmond.org/#/schema/BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"item\":\"https://mapsredmond.org/\",\"name\":\"MAPS\"},{\"@type\":\"ListItem\",\"position\":2,\"item\":\"https://mapsredmond.org/events/\",\"name\":\"Archives:
-  Events\"},{\"@type\":\"ListItem\",\"position\":3,\"item\":\"https://mapsredmond.org/events/category/maps-events/\",\"name\":\"Event
-  Category: MAPS Events\"},{\"@type\":\"ListItem\",\"position\":4,\"item\":\"https://mapsredmond.org/event/urdu-class/2023-09-16/\",\"name\":\"Urdu
-  Class\"},{\"@type\":\"ListItem\",\"position\":5,\"name\":\"Urdu Class\"}]},\"potentialAction\":{\"@type\":\"ReadAction\",\"target\":\"https://mapsredmond.org/event/urdu-class/2025-12-20/\"},\"datePublished\":\"2023-09-02T07:41:06+00:00\",\"dateModified\":\"2023-09-02T07:41:06+00:00\",\"author\":{\"@type\":\"Person\",\"@id\":\"https://mapsredmond.org/#/schema/Person/a95c40cba41763a3636c08f5a2ed4c8b\",\"name\":\"Juned
-  Ansari\"}}]}</script>\n<!-- / The SEO Framework by Sybre Waaijer | 7.05ms meta |
-  0.26ms boot -->\n\n<link rel='dns-prefetch' href='//fonts.googleapis.com' />\n<link
+  name=search_term_string\"},\"publisher\":{\"@type\":\"Organization\",\"@id\":\"https://mapsredmond.org/#/schema/Organization\",\"name\":\"MAPS\",\"url\":\"https://mapsredmond.org/\",\"logo\":{\"@type\":\"ImageObject\",\"url\":\"https://mapsredmond.org/wp-content/uploads/2020/03/MapsLogoFinal_Full-logo-RedWhite.png\",\"contentUrl\":\"https://mapsredmond.org/wp-content/uploads/2020/03/MapsLogoFinal_Full-logo-RedWhite.png\",\"width\":1075,\"height\":641}}},{\"@type\":\"WebPage\",\"@id\":\"https://mapsredmond.org/event/urdu-class-2/2025-12-20/\",\"url\":\"https://mapsredmond.org/event/urdu-class-2/2025-12-20/\",\"name\":\"Urdu
+  Class &#x2d; MAPS\",\"description\":\"Register&#8230;\",\"inLanguage\":\"en-US\",\"isPartOf\":{\"@id\":\"https://mapsredmond.org/#/schema/WebSite\"},\"breadcrumb\":{\"@type\":\"BreadcrumbList\",\"@id\":\"https://mapsredmond.org/#/schema/BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"item\":\"https://mapsredmond.org/\",\"name\":\"MAPS\"},{\"@type\":\"ListItem\",\"position\":2,\"item\":\"https://mapsredmond.org/events/\",\"name\":\"Archives:
+  Events\"},{\"@type\":\"ListItem\",\"position\":3,\"item\":\"https://mapsredmond.org/events/category/kids-4-12-education/\",\"name\":\"Event
+  Category: Kids (4&#x2d;12) Education\"},{\"@type\":\"ListItem\",\"position\":4,\"item\":\"https://mapsredmond.org/event/urdu-class-2/2025-05-03/\",\"name\":\"Urdu
+  Class\"},{\"@type\":\"ListItem\",\"position\":5,\"name\":\"Urdu Class\"}]},\"potentialAction\":{\"@type\":\"ReadAction\",\"target\":\"https://mapsredmond.org/event/urdu-class-2/2025-12-20/\"},\"datePublished\":\"2024-08-30T07:55:15+00:00\",\"dateModified\":\"2024-08-30T07:55:15+00:00\",\"author\":{\"@type\":\"Person\",\"@id\":\"https://mapsredmond.org/#/schema/Person/a95c40cba41763a3636c08f5a2ed4c8b\",\"name\":\"Juned
+  Ansari\"}}]}</script>\n<!-- / The SEO Framework by Sybre Waaijer | 4.71ms meta |
+  0.24ms boot -->\n\n<link rel='dns-prefetch' href='//fonts.googleapis.com' />\n<link
   rel=\"alternate\" type=\"application/rss+xml\" title=\"MAPS &raquo; Feed\" href=\"https://mapsredmond.org/feed/\"
   />\n<link rel=\"alternate\" type=\"application/rss+xml\" title=\"MAPS &raquo; Comments
   Feed\" href=\"https://mapsredmond.org/comments/feed/\" />\n<link rel=\"alternate\"
@@ -80,7 +69,7 @@ original_source_html: "<!DOCTYPE html>\n<html class=\"html\" lang=\"en-US\">\n<h
   data-wpfc-render=\"false\" async></script>\n\t\t\t<script data-cfasync=\"false\"
   data-wpfc-render=\"false\">\n\t\t\t\tvar mi_version = '9.2.4';\n\t\t\t\tvar mi_track_user
   = true;\n\t\t\t\tvar mi_no_track_reason = '';\n\t\t\t\t\t\t\t\tvar MonsterInsightsDefaultLocations
-  = {\"page_location\":\"https:\\/\\/mapsredmond.org\\/event\\/urdu-class\\/2025-12-20\\/\"};\n\t\t\t\tif
+  = {\"page_location\":\"https:\\/\\/mapsredmond.org\\/event\\/urdu-class-2\\/2025-12-20\\/\"};\n\t\t\t\tif
   ( typeof MonsterInsightsPrivacyGuardFilter === 'function' ) {\n\t\t\t\t\tvar MonsterInsightsLocations
   = (typeof MonsterInsightsExcludeQuery === 'object') ? MonsterInsightsPrivacyGuardFilter(
   MonsterInsightsExcludeQuery ) : MonsterInsightsPrivacyGuardFilter( MonsterInsightsDefaultLocations
@@ -206,14 +195,20 @@ original_source_html: "<!DOCTYPE html>\n<html class=\"html\" lang=\"en-US\">\n<h
   media='all' />\n<link rel='stylesheet' id='tribe-events-block-event-website-css'
   href='https://mapsredmond.org/wp-content/plugins/the-events-calendar/src/resources/css/app/event-website/frontend.min.css?ver=6.3.5'
   media='all' />\n<link rel='stylesheet' id='tribe-events-calendar-mobile-style-css'
-  href='https://mapsredmond.org/wp-content/plugins/the-events-calendar/src/resourc"
+  href='https://mapsredmond.org/wp-content/plugins/the-events-calendar/src/resources/css/tribe-events-theme-mobile.min.css?ver=6.3.5'
+  media='only screen and (max-width: 768px)' />\n<link rel='stylesheet' id='tec-events-pro-single-css'
+  href='https://mapsredmond.org/wp-content/plugins/events-calendar-pro/src/resources/css/events-single.min.css?ver=6.3.2'
+  media='all' />\n<link rel='stylesheet' id='tribe-events-pro-mini-calendar-block-styles-css'
+  href='https://mapsredmond.org/wp-content/plugins/events-calendar-pro/src/resources/css/tribe-events-pro-mini-calendar-block.min.css?ver=6.3.2'
+  media='all' />\n<style id='wp-emoji-styles-inline-css'>\n\n\timg.wp-smiley, img.emoji
+  {\n\t"
 source: Muslim Association of Puget Sound
-source_url: https://mapsredmond.org/event/urdu-class/2025-12-20/
-start_date: '2025-12-20T10:30:00-08:00'
+source_url: https://mapsredmond.org/event/urdu-class-2/2025-12-20/
+start_date: '2025-12-20T11:00:00-08:00'
 summarized: true
 title: Urdu Class
 topics:
 - Education & Learning
 ---
 
-Join the Urdu Class at the Muslim Association of Puget Sound (MAPS) starting Dec. 20, 2025, at 10:30 a.m. This engaging class offers participants the opportunity to learn Urdu, a rich and expressive language spoken by millions. Attendees can expect interactive lessons that cover basic vocabulary, grammar, and conversational skills, making it suitable for beginners and those looking to refresh their knowledge. The class aims to create a welcoming environment for all, fostering cultural exchange and community bonding. Don't miss this chance to expand your language skills and connect with others interested in Urdu.
+Join the Urdu Class at the Muslim Association of Puget Sound (MAPS) starting Dec. 20, 2025, at 11 a.m. This engaging class offers participants the opportunity to learn the Urdu language, focusing on speaking, reading, and writing skills. Whether you are a beginner or looking to improve your proficiency, this class is designed for all levels. Connect with fellow language enthusiasts and immerse yourself in the rich culture associated with Urdu. The class will be held at MAPS, providing a welcoming environment for learning and community interaction. Don't miss this chance to expand your language skills and cultural understanding.

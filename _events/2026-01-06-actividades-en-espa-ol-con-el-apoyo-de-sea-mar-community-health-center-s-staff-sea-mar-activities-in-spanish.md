@@ -1,6 +1,6 @@
 ---
-end_date: '2025-12-17T16:00:00-08:00'
-feed_content: <a>Skip to content</a><div> <header><div> <div> <div> <div> <div> <div>
+end_date: '2026-01-06T14:00:00-08:00'
+feed_content: '<a>Skip to content</a><div> <header><div> <div> <div> <div> <div> <div>
   <div> <div> <div> <div> <div> <div> <p>We used to be called the Senior Center of
   West Seattle.</p> </div> </div> </div> </div> </div> <div> <div> <div> <div> <div>
   <div> <div> <div> <a> <span>Join</span> </a> </div> </div> <div> <div> <a> <span>Donate</span>
@@ -11,38 +11,43 @@ feed_content: <a>Skip to content</a><div> <header><div> <div> <div> <div> <div> 
   </div> </div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div> <div>
   <h1> <a> <span>Activities &amp; Events</span> </a> </h1> </div> </div> </div> </div>
   </div> </div> </div> </div> </div> </div> </div> </header> <div> <div> <div> <div>
-  <div> <div> <div> <div> <div> <div> <div> <div> <div> <h1> <span>Functional Mobility
-  Yoga</span> </h1> </div> </div> <div> <div> <div> <p><span>Wednesday, December 17,
-  2025 at 3:00 pm</span> - <span>4:00 pm</span></p> </div> </div> </div> <div> <div>
-  <p><span><span>Nally Michelle, certified yoga instructor, will lead this class designed
-  to move and strengthen body parts that support healthy living. She focuses on the
-  seven functional movements (locomotion, hinge, squat, push, pull, rotate and anti-rotation)
-  that allow our bodies to maintain mobility and pain-free movements as we age. All
-  levels and all bodies are appropriate for this class, and chair yogis and modifications
-  are welcome. Bring a water bottle, yoga mat and desired props.</span></span><span> </span></p>
-  </div> </div> <div> <div> <span><a>Fitness</a></span> </div> </div> </div> </div>
-  <div> <div> <div> <div> <div> <div> <div> <div> <a> <span>Calendar</span> </a> </div>
-  </div> <div> <div> <a> <span>Membership</span> </a> </div> </div> </div> </div>
-  </div> </div> </div> </div> </div> <div> <div> <div> <div> <div> <div> <h2> Location
-  </h2> <ul> <li> The Center for Active Living </li> <li> <address> <span> <span>4217
-  SW Oregon St.</span> <span>Seattle</span><span>,</span> <abbr>WA</abbr> <span>98116</span>
-  <span>United States</span> </span> <a>+ Google Map</a> </address> </li> <li> <span>Phone</span>
-  <span> 206-932-4044 </span> </li> <li> <span> <a>View Location Website</a> </span>
-  </li> </ul> </div> </div> </div> </div> </div> </div> <div> <div> <div> <div> <div>
-  <div> <ul> <li> <a> Google Calendar </a> </li> <li> <a> iCalendar </a> </li> <li>
-  <a> Outlook 365 </a> </li> <li> <a> Outlook Live </a> </li> </ul> </div> </div>
-  </div> </div> </div> </div> </div> </div> </div> <div> <div> <div> <div> <div> <h2>
-  Related Events</h2> <ul> <li> <div> <h3><a>Move, Dance &amp; Socialize</a></h3>
-  <span>Wednesday, December 17, 2025 at 9:00 am</span> - <span>10:00 am</span> </div>
-  </li> <li> <div> <h3><a>Balance &amp; Strength</a></h3> <span>Wednesday, December
-  17, 2025 at 10:00 am</span> - <span>11:00 am</span> </div> </li> <li> <div> <h3><a>Tai
-  Chi Level 1 Beginners</a></h3> <span>Thursday, December 18, 2025 at 9:00 am</span>
-  - <span>9:30 am</span> </div> </li> </ul> </div> </div> <div> <div> <div> <div>
-  <div> <div> <a> <span>Calendar</span> </a> </div> </div> </div> </div> </div> </div>
-  </div> </div> </div> </div> </div> </div> </div> </div> </div> <a><span>Scroll To
-  Top</span></a> <script> {"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://wscenter.org/wp-includes/js/wp-emoji-release.min.js?ver=6.9"}}
-  </script>
-feed_content_checksum: d1125a402ab29ce3bfa29eac02477c3a427dbcd5
+  <div> <div> <div> <div> <div> <div> <div> <div> <div> <h1> <span>Actividades En
+  Español Con El Apoyo De Sea Mar Community Health Center’s Staff / Sea Mar Activities
+  In Spanish</span> </h1> </div> </div> <div> <div> <div> <p><span>Tuesday, January
+  6, 2026 at 9:00 am</span> - <span>2:00 pm</span></p> </div> </div> </div> <div>
+  <div> <p>El Personal de Sea Mar le da la bienvenida a todos los miembros para disfrutar
+  de un día completo de actividades divertidas, socialización, almuerzo, información,
+  asistencia y recursos en Español.</p> <p>Para obtener más información, envíe un
+  correo electrónico a Yanin Diaz: <a>yanindiaz@sea.m.archc.org</a> o <a>206-227-6025</a>.</p>
+  <p>We welcome all members of the Latinx community for a full day of activities,
+  social time, lunch information, assistance and resources.</p> <p>For more info,
+  contact Yanin Diaz: <a>yanindiaz@sea.m.archc.org</a> or <a>206-227-6025</a>.</p>
+  <p><span>Martes (Tuesdays), 9 a.m.-2 p.m.</span></p> </div> </div> <div> <div> <span><a>Actividades
+  En Español</a></span> </div> </div> </div> </div> <div> <div> <div> <div> <div>
+  <div> <div> <div> <a> <span>Calendar</span> </a> </div> </div> <div> <div> <a> <span>Membership</span>
+  </a> </div> </div> </div> </div> </div> </div> </div> </div> </div> <div> <div>
+  <div> <div> <div> <div> <h2> Location </h2> <ul> <li> The Center for Active Living
+  </li> <li> <address> <span> <span>4217 SW Oregon St.</span> <span>Seattle</span><span>,</span>
+  <abbr>WA</abbr> <span>98116</span> <span>United States</span> </span> <a>+ Google
+  Map</a> </address> </li> <li> <span>Phone</span> <span> 206-932-4044 </span> </li>
+  <li> <span> <a>View Location Website</a> </span> </li> </ul> </div> </div> </div>
+  </div> </div> </div> <div> <div> <div> <div> <div> <div> <ul> <li> <a> Google Calendar
+  </a> </li> <li> <a> iCalendar </a> </li> <li> <a> Outlook 365 </a> </li> <li> <a>
+  Outlook Live </a> </li> </ul> </div> </div> </div> </div> </div> </div> </div> </div>
+  </div> <div> <div> <div> <div> <div> <h2> Related Events</h2> <ul> <li> <div> <h3><a>Actividades
+  En Español Con El Apoyo De Sea Mar Community Health Center’s Staff / Sea Mar Activities
+  In Spanish</a></h3> <span>Tuesday, December 23, 2025 at 9:00 am</span> - <span>2:00
+  pm</span> </div> </li> <li> <div> <h3><a>Actividades En Español Con El Apoyo De
+  Sea Mar Community Health Center’s Staff / Sea Mar Activities In Spanish</a></h3>
+  <span>Tuesday, January 13, 2026 at 9:00 am</span> - <span>2:00 pm</span> </div>
+  </li> <li> <div> <h3><a>Actividades En Español Con El Apoyo De Sea Mar Community
+  Health Center’s Staff / Sea Mar Activities In Spanish</a></h3> <span>Tuesday, January
+  20, 2026 at 9:00 am</span> - <span>2:00 pm</span> </div> </li> </ul> </div> </div>
+  <div> <div> <div> <div> <div> <div> <a> <span>Calendar</span> </a> </div> </div>
+  </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div> </div>
+  </div> <a><span>Scroll To Top</span></a> <script> {"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://wscenter.org/wp-includes/js/wp-emoji-release.min.js?ver=6.9"}}
+  </script>'
+feed_content_checksum: 1fd1567d060449e2652f844314d9b6286dc465ed
 images: []
 location: The Center for Active Living, 4217 SW Oregon St., Seattle, WA, 98116, United
   States
@@ -51,7 +56,8 @@ locations:
 original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n<meta charset=\"UTF-8\"
   />\n<meta name='viewport' content='width=device-width, initial-scale=1.0' />\n<meta
   http-equiv='X-UA-Compatible' content='IE=edge' />\n<link rel=\"profile\" href=\"https://gmpg.org/xfn/11\"
-  />\n<title>Functional Mobility Yoga &#8211; The Center for Active Living</title>\n<link
+  />\n<title>Actividades En Español Con El Apoyo De Sea Mar Community Health Center’s
+  Staff / Sea Mar Activities In Spanish &#8211; The Center for Active Living</title>\n<link
   rel='stylesheet' id='tec-variables-skeleton-css' href='https://wscenter.org/wp-content/plugins/the-events-calendar/common/build/css/variables-skeleton.css?ver=6.10.0'
   media='all' />\n<link rel='stylesheet' id='tribe-common-skeleton-style-css' href='https://wscenter.org/wp-content/plugins/the-events-calendar/common/build/css/common-skeleton.css?ver=6.10.0'
   media='all' />\n<link rel='stylesheet' id='tribe-events-views-v2-bootstrap-datepicker-styles-css'
@@ -75,8 +81,8 @@ original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n<meta cha
   Active Living &raquo; Comments Feed\" href=\"https://wscenter.org/comments/feed/\"
   />\n<link rel=\"alternate\" type=\"text/calendar\" title=\"The Center for Active
   Living &raquo; iCal Feed\" href=\"https://wscenter.org/calendar/?ical=1\" />\n<link
-  rel=\"alternate\" title=\"oEmbed (JSON)\" type=\"application/json+oembed\" href=\"https://wscenter.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwscenter.org%2Fevent%2Frejuvenating-yoga-2-2-2-2%2F2025-12-17%2F\"
-  />\n<link rel=\"alternate\" title=\"oEmbed (XML)\" type=\"text/xml+oembed\" href=\"https://wscenter.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwscenter.org%2Fevent%2Frejuvenating-yoga-2-2-2-2%2F2025-12-17%2F&#038;format=xml\"
+  rel=\"alternate\" title=\"oEmbed (JSON)\" type=\"application/json+oembed\" href=\"https://wscenter.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwscenter.org%2Fevent%2Fsea-mar-activities-in-spanish%2F2026-01-06%2F\"
+  />\n<link rel=\"alternate\" title=\"oEmbed (XML)\" type=\"text/xml+oembed\" href=\"https://wscenter.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwscenter.org%2Fevent%2Fsea-mar-activities-in-spanish%2F2026-01-06%2F&#038;format=xml\"
   />\n<link rel=\"preload\" href=\"https://wscenter.org/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-regular-400.woff2\"
   as=\"font\" type=\"font/woff2\" crossorigin=\"anonymous\">\n<link rel=\"preload\"
   href=\"https://wscenter.org/wp-content/plugins/bb-plugin/fonts/fontawesome/5.15.4/webfonts/fa-solid-900.woff2\"
@@ -227,17 +233,15 @@ original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n<meta cha
   media='all' />\n<link rel='stylesheet' id='fl-automator-skin-css' href='https://wscenter.org/wp-content/uploads/bb-theme/skin-69330cf1bca47.css?ver=1.7.19.1'
   media='all' />\n<link rel='stylesheet' id='fl-child-theme-css' href='https://wscenter.org/wp-content/themes/bb-theme-child/style.css?ver=6.9'
   media='all' />\n<link rel='stylesheet' id='pp-animate-css' href='https://wscenter.org/wp-content/plugins/bbpowerpack/assets/css/animate.min.css?ver=3.5.1'
-  media='all' />\n<link rel='stylesheet' id='fl-builder-google-fonts-0345043d0ebb04888497a79ed20df371-css'
-  href='//fonts.googleapis.com/css?"
+  media='all' />\n<link rel='stylesheet' id"
 source: The Center for Active Living
-source_url: https://wscenter.org/event/rejuvenating-yoga-2-2-2-2/2025-12-17/
-start_date: '2025-12-17T15:00:00-08:00'
+source_url: https://wscenter.org/event/sea-mar-activities-in-spanish/2026-01-06/
+start_date: '2026-01-06T09:00:00-08:00'
 summarized: true
-title: Functional Mobility Yoga
+title: Actividades En Español Con El Apoyo De Sea Mar Community Health Center’s Staff
+  / Sea Mar Activities In Spanish
 topics:
-- Senior Services
-- Disabilities
 - Health Care
 ---
 
-Join us for Functional Mobility Yoga at The Center for Active Living in Seattle on Dec. 17, 2025, at 3 p.m. This class focuses on enhancing flexibility, strength, and balance through a series of adaptive yoga poses. Participants can expect to improve their overall mobility and body awareness in a supportive environment. Whether you're a beginner or have experience, this session is designed to accommodate all skill levels. Don't miss this opportunity to boost your physical well-being and connect with others in the community.
+Join Sea Mar Community Health Center for engaging activities in Spanish at The Center for Active Living. Starting on January 6, 2026, at 9 a.m., this event offers a welcoming space for Spanish-speaking community members to participate in various activities designed to promote health and wellness. Attendees can expect interactive sessions led by Sea Mar staff, fostering connection and engagement among participants. The Center for Active Living is located at 4217 SW Oregon St., Seattle, WA, 98116. Don’t miss this opportunity to enjoy a morning filled with fun and community spirit.
