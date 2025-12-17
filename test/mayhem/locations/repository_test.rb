@@ -3,6 +3,8 @@
 require_relative '../../test_helper'
 require 'minitest/autorun'
 require_relative '../../../lib/mayhem/locations/repository'
+require 'fmrepo'
+require 'mayhem/models/location'
 
 class LocationRepositoryTest < Minitest::Test
   class FakeLogger
@@ -23,26 +25,25 @@ class LocationRepositoryTest < Minitest::Test
   end
 
   def setup
-    @tmp_locations = Dir.mktmpdir('locations')
+    @tmp_root = Dir.mktmpdir('locations')
+    @fm_repo = FMRepo::Repository.new(root: @tmp_root)
     @logger = FakeLogger.new
   end
 
   def teardown
-    FileUtils.remove_entry(@tmp_locations)
+    FileUtils.remove_entry(@tmp_root)
   end
 
-  def write_location(slug, front_matter, body = '')
-    path = File.join(@tmp_locations, "#{slug}.md")
-    File.write(path, Mayhem::FrontMatter::Document.build_markdown(front_matter, body))
-    path
+  def create_location(front_matter, body = '')
+    Mayhem::Models::Location.create!(front_matter, body:, repo: @fm_repo)
   end
 
   def test_all_returns_all_locations
-    write_location('seattle', { 'title' => 'Seattle', 'type' => 'City' }, 'The city of Seattle')
-    write_location('bellevue', { 'title' => 'Bellevue', 'type' => 'City' }, 'The city of Bellevue')
+    create_location({ 'title' => 'Seattle', 'type' => 'City' }, 'The city of Seattle')
+    create_location({ 'title' => 'Bellevue', 'type' => 'City' }, 'The city of Bellevue')
 
     repository = Mayhem::Locations::Repository.new(
-      locations_dir: @tmp_locations,
+      location_repo: @fm_repo,
       logger: @logger
     )
 
@@ -53,10 +54,10 @@ class LocationRepositoryTest < Minitest::Test
   end
 
   def test_all_caches_results
-    write_location('seattle', { 'title' => 'Seattle', 'type' => 'City' }, 'The city of Seattle')
+    create_location({ 'title' => 'Seattle', 'type' => 'City' }, 'The city of Seattle')
 
     repository = Mayhem::Locations::Repository.new(
-      locations_dir: @tmp_locations,
+      location_repo: @fm_repo,
       logger: @logger
     )
 
@@ -74,7 +75,7 @@ class LocationRepositoryTest < Minitest::Test
     ]
 
     repository = Mayhem::Locations::Repository.new(
-      locations_dir: @tmp_locations,
+      location_repo: @fm_repo,
       logger: @logger
     )
 
@@ -93,7 +94,7 @@ class LocationRepositoryTest < Minitest::Test
     titles = ['Snoqualmie Valley', 'Snoqualmie']
 
     repository = Mayhem::Locations::Repository.new(
-      locations_dir: @tmp_locations,
+      location_repo: @fm_repo,
       logger: @logger
     )
 
@@ -111,7 +112,7 @@ class LocationRepositoryTest < Minitest::Test
     titles = ['Snoqualmie', 'North Bend']
 
     repository = Mayhem::Locations::Repository.new(
-      locations_dir: @tmp_locations,
+      location_repo: @fm_repo,
       logger: @logger
     )
 
@@ -122,7 +123,7 @@ class LocationRepositoryTest < Minitest::Test
 
   def test_filter_to_highest_level_handles_empty_list
     repository = Mayhem::Locations::Repository.new(
-      locations_dir: @tmp_locations,
+      location_repo: @fm_repo,
       logger: @logger
     )
 
