@@ -22,7 +22,11 @@ module Mayhem
         return @locations_cache if @locations_cache
 
         relation = @location_model.relation(repo: @location_repo)
-        @locations_cache = relation.to_a.map { |location| build_location_hash(location) }
+        @locations_cache = relation.to_a.each_with_object([]) do |location, locations|
+          next unless location.title
+
+          locations << build_location_hash(location)
+        end
       end
 
       def build_location_list(locations)
@@ -65,11 +69,8 @@ module Mayhem
       private
 
       def build_location_hash(location)
-        rel_path = location.rel_path
-        slug = rel_path ? rel_path.basename(rel_path.extname).to_s : location.title.to_s.downcase
-
         {
-          slug: slug,
+          id: location.id,
           title: location.title,
           type: location.location_type,
           parent_location: location.parent_location,
