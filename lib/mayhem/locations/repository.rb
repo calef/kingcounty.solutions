@@ -68,20 +68,12 @@ module Mayhem
 
       private
 
-      def slugify_title(title)
-        return '' if title.nil?
-
-        slug = title.to_s.downcase
-        slug = slug.gsub(/[^a-z0-9]+/, '-')
-        slug.gsub(/^-+|-+$/, '')
-      end
-
       def build_location_hash(location)
         rel_path = location.rel_path
         slug = if rel_path
                  rel_path.basename(rel_path.extname).to_s
                else
-                 slugify_title(location.title)
+                 FMRepo.slugify(location.title || '')
                end
 
         {
