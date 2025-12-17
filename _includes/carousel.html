@@ -28,12 +28,12 @@
           {% if caption_text == checksum_value %}
             {% assign caption_text = '' %}
           {% endif %}
-          {% assign alt_text = image_doc.data.alt | default: image_doc.data.alt_text | default: caption_text | default: image_doc.source | default: 'Image' %}
+          {% assign alt_text = image_doc.data.alt | default: image_doc.data.alt_text | default: caption_text | default: image_doc.organization_title | default: 'Image' %}
           {% assign alt_text = alt_text | to_s | strip %}
           {% if alt_text == '' or alt_text == checksum_value %}
             {% assign alt_text = 'Image' %}
           {% endif %}
-          {% assign source_name = image_doc.source | to_s | strip %}
+          {% assign source_name = image_doc.organization_title | to_s | strip %}
           {% assign source_url = image_doc.source_url %}
           {% assign caption_source_org = nil %}
           {% if source_name %}
