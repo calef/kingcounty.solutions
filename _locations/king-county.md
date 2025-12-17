@@ -1,6 +1,4 @@
 ---
-latitude: 47.548
-longitude: -121.9836
 title: King County
 type: County
 ---
