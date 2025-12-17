@@ -13,7 +13,6 @@ module Mayhem
       )
         @location_repo = location_repo
         @location_model = location_model
-        @location_model.repository(location_repo) if location_repo
         @logger = logger
         @locations_cache = nil
       end
