@@ -26,6 +26,7 @@ module Mayhem
 
       def setup
         @temp_dir = Dir.mktmpdir('topic_catalog')
+        @repo = FMRepo::Repository.new(root: @temp_dir)
       end
 
       def teardown
@@ -42,7 +43,7 @@ module Mayhem
           ]
         )
 
-        classifier = Classifier.new(topic_dir: @temp_dir, client: client)
+        classifier = Classifier.new(topic_repo: @repo, client: client)
 
         assert_equal ['Food'], classifier.classify('A weekly recap mentions community meals and food assistance.')
         assert_equal 1, client.call_count
@@ -51,7 +52,7 @@ module Mayhem
       def test_returns_empty_when_text_blank
         create_topic('Safety', 'Articles about safety nets.')
         client = FakeClient.new('choices' => [{ 'message' => { 'content' => '["Safety"]' } }])
-        classifier = Classifier.new(topic_dir: @temp_dir, client: client)
+        classifier = Classifier.new(topic_repo: @repo, client: client)
 
         assert_empty classifier.classify('   ')
         assert_equal 0, client.call_count
@@ -59,7 +60,7 @@ module Mayhem
 
       def test_returns_empty_when_no_topics_available
         client = FakeClient.new('choices' => [{ 'message' => { 'content' => '["Safety"]' } }])
-        classifier = Classifier.new(topic_dir: @temp_dir, client: client)
+        classifier = Classifier.new(topic_repo: @repo, client: client)
 
         assert_empty classifier.classify('New content about safety.')
         assert_equal 0, client.call_count
@@ -68,13 +69,11 @@ module Mayhem
       private
 
       def create_topic(title, summary)
-        filename = File.join(@temp_dir, "#{title.downcase.tr(' ', '_')}.md")
-        File.write(filename, <<~MD)
-          ---
-          title: #{title}
-          ---
-          #{summary}
-        MD
+        Mayhem::Models::Topic.create!(
+          { 'title' => title },
+          body: summary,
+          repo: @repo
+        )
       end
     end
   end

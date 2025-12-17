@@ -4,12 +4,13 @@ require 'time'
 require 'uri'
 require 'yaml'
 require_relative '../test_helper'
+require 'mayhem/models/topic'
 
 class NewsFrontMatterTest < Minitest::Test
   def setup
     @posts = load_documents('_posts/*.md')
     @organization_titles = load_titles('_organizations/*.md')
-    @topic_titles = load_titles('_topics/*.md')
+    @topic_titles = Mayhem::Models::Topic.all.map(&:title)
     @image_checksums = load_field_values('_images/*.md', 'checksum')
     @event_documents = load_event_documents('_events/*.md')
     @event_slugs = event_documents.keys.to_set

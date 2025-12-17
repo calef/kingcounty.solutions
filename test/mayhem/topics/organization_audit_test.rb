@@ -19,7 +19,7 @@ class OrganizationAuditTest < Minitest::Test
     @audit = Mayhem::Topics::OrganizationAudit.new(
       client: client,
       org_dir: @tmp_dirs[0],
-      topic_dir: @tmp_dirs[1],
+      topic_repo: @tmp_dirs[1],
       posts_dir: @tmp_dirs[2],
       logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL')
     )

@@ -5,12 +5,12 @@ require 'yaml'
 require 'fileutils'
 require_relative '../logging'
 require_relative '../front_matter/document'
+require_relative '../models/topic'
 
 module Mayhem
   module Topics
     class OrganizationAudit
       ORG_DIR = '_organizations'
-      TOPIC_DIR = '_topics'
       POSTS_DIR = '_posts'
       CACHE_DIR = File.join('.jekyll-cache', 'topic_audit')
       DEFAULT_MODEL = ENV.fetch('OPENAI_TOPIC_AUDIT_MODEL', 'gpt-4o-mini')
@@ -24,7 +24,8 @@ module Mayhem
         output: nil,
         apply: false,
         org_dir: ORG_DIR,
-        topic_dir: TOPIC_DIR,
+        topic_repo: nil,
+        topic_model: Mayhem::Models::Topic,
         posts_dir: POSTS_DIR,
         cache_dir: CACHE_DIR,
         logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL')
@@ -36,7 +37,8 @@ module Mayhem
         @output = output
         @apply = apply
         @org_dir = org_dir
-        @topic_dir = topic_dir
+        @topic_repo = topic_repo
+        @topic_model = topic_model
         @posts_dir = posts_dir
         @cache_dir = cache_dir
         @logger = logger
@@ -57,16 +59,10 @@ module Mayhem
       private
 
       def load_topics
-        Dir.glob(File.join(@topic_dir, '*.md')).each_with_object({}) do |path, acc|
-          document = Mayhem::FrontMatter::Document.load(path, logger: @logger)
-          next unless document
-
-          title = document.front_matter['title'] || default_title(path)
-          summary = document.body.to_s.strip
-          acc[title] = {
-            'title' => title,
-            'summary' => summary
-          }
+        @topic_model.relation(repo: @topic_repo).each_with_object({}) do |topic, acc|
+          title = topic.title || default_title(topic.rel_path || topic.id || 'topic')
+          summary = topic.body.to_s.strip
+          acc[title] = { 'title' => title, 'summary' => summary }
         end
       end
 
