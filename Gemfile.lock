@@ -1,8 +1,8 @@
 GIT
   remote: https://github.com/calef/fmrepo.git
-  revision: 26089e2a90b672b17277479203a9e05f1231e107
+  revision: bb67b3eac63eaa53241688aa4b9bd31dd666ca04
   specs:
-    fmrepo (0.1.0)
+    fmrepo (0.2.3)
 
 GEM
   remote: https://rubygems.org/
