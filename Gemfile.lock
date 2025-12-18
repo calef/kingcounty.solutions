@@ -118,6 +118,7 @@ GEM
       logger
     minitest (6.0.0)
       prism (~> 1.5)
+    minitest-mock (5.27.0.beta.1.beta.1)
     multipart-post (2.4.1)
     net-http (0.8.0)
       uri (>= 0.11.1)
@@ -243,6 +244,7 @@ DEPENDENCIES
   jekyll-sitemap
   mini_magick
   minitest
+  minitest-mock
   nokogiri
   open-uri
   parallel_tests
