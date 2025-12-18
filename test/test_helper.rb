@@ -13,6 +13,7 @@ end
 
 # reduce noisy logs during tests
 ENV['LOG_LEVEL'] ||= 'ERROR'
+# fall back to development instead of test here so that integration tests run against real data
 fmrepo_env = ENV['FMREPO_ENV'] || ENV['JEKYLL_ENV'] || 'development'
 ENV['FMREPO_ENV'] = fmrepo_env
 require 'bundler/setup'
