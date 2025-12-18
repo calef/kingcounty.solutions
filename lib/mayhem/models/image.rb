@@ -5,12 +5,8 @@ require 'fmrepo'
 module Mayhem
   module Models
     class Image < FMRepo::Record
-      DEFAULT_REPOSITORY_ROOT = File.expand_path('../../..', __dir__)
-
-      repository DEFAULT_REPOSITORY_ROOT
-
+      repository_role :images
       scope glob: '_images/**/*.{md,markdown}'
-
       naming do |front_matter:, **|
         checksum = front_matter['checksum'] || FMRepo.slugify(front_matter['title'] || 'image')
         "_images/#{checksum}.md"
