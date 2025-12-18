@@ -13,11 +13,22 @@ end
 
 # reduce noisy logs during tests
 ENV['LOG_LEVEL'] ||= 'ERROR'
+fmrepo_env = ENV['FMREPO_ENV'] || ENV['JEKYLL_ENV'] || 'development'
+ENV['FMREPO_ENV'] = fmrepo_env
 require 'bundler/setup'
 require 'minitest/autorun'
 
 # Load default gems so tests can use the same environment as the site build.
 Bundler.require(:default, :test)
+
+require 'fmrepo'
+FMRepo.environment = fmrepo_env
+FMRepo.configure do |config|
+  config.repositories = {}
+  config.load_yaml('.fmrepo.yml')
+end
+require 'fmrepo/test_helpers'
+Minitest.after_run { FMRepo.repository_registry.cleanup_temp_dirs }
 
 # Configure VCR to record HTTP interactions for tests
 require 'vcr'

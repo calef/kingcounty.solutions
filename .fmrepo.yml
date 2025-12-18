@@ -1,0 +1,11 @@
+---
+default:
+  test: <tmp>         # create a temp repo automatically
+locations:
+  test: <tmp>
+  development: "."
+  production: "."
+topics:
+  test: <tmp>
+  development: "."
+  production: "."
