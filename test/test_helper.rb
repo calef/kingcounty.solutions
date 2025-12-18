@@ -18,6 +18,7 @@ fmrepo_env = ENV['FMREPO_ENV'] || ENV['JEKYLL_ENV'] || 'development'
 ENV['FMREPO_ENV'] = fmrepo_env
 require 'bundler/setup'
 require 'minitest/autorun'
+require 'minitest/mock'
 
 # Load default gems so tests can use the same environment as the site build.
 Bundler.require(:default, :test)

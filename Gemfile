@@ -16,6 +16,7 @@ group :jekyll_plugins do
 end
 gem 'mini_magick'
 gem 'minitest'
+gem 'minitest-mock'
 gem 'nokogiri'
 gem 'open-uri'
 gem 'reverse_markdown'
