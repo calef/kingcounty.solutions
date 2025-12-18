@@ -10,13 +10,15 @@ class EventsRecencyTest < Minitest::Test
   end
 
   def test_events_are_not_in_the_past
-    yesterday = Date.today - 1
+    today_utc = Time.now.utc.to_date
+    yesterday = today_utc - 1
     errors = []
 
     events.each do |doc|
       start_time = parse_start_time(doc[:data]['start_date'], doc[:path], errors)
       next unless start_time
-      next unless start_time.to_date < yesterday
+      event_date = start_time.utc.to_date
+      next unless event_date < yesterday
 
       errors << "#{doc[:path]} start_date #{start_time.utc.iso8601} is earlier than #{yesterday}"
     end
