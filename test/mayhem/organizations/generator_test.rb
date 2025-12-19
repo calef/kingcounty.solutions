@@ -42,11 +42,14 @@ class OrganizationsGeneratorTest < Minitest::Test
 
   def setup
     @org_dir = Dir.mktmpdir('orgs')
+    @topic_dir = Dir.mktmpdir('topics')
+    @topic_repo = FMRepo::Repository.new(root: @topic_dir)
     @logger = FakeLogger.new
     @fake_client = Object.new
     @feed_finder = FakeFeedFinder.new(OpenStruct.new(rss_url: 'https://feed', ical_url: 'https://calendar'))
     @generator = Mayhem::Organizations::Generator.new(
       org_dir: @org_dir,
+      topic_repo: @topic_repo,
       client: @fake_client,
       feed_finder: @feed_finder,
       logger: @logger
@@ -55,6 +58,7 @@ class OrganizationsGeneratorTest < Minitest::Test
 
   def teardown
     FileUtils.remove_entry(@org_dir)
+    FileUtils.remove_entry(@topic_dir)
   end
 
   def write_doc(dir, name, front_matter)
@@ -64,7 +68,7 @@ class OrganizationsGeneratorTest < Minitest::Test
   end
 
   def create_topic(title)
-    Mayhem::Models::Topic.create!({ 'title' => title }, body: 'body')
+    Mayhem::Models::Topic.create!({ 'title' => title }, body: 'body', repo: @topic_repo)
   end
 
   def test_normalize_and_canonicalize_urls
@@ -133,6 +137,7 @@ class OrganizationsGeneratorTest < Minitest::Test
     failing = FakeFeedFinder.new
     failed_gen = Mayhem::Organizations::Generator.new(
       org_dir: @org_dir,
+      topic_repo: @topic_repo,
       client: @fake_client,
       feed_finder: failing,
       logger: @logger
@@ -167,6 +172,7 @@ class OrganizationsGeneratorTest < Minitest::Test
 
     generator = Mayhem::Organizations::Generator.new(
       org_dir: @org_dir,
+      topic_repo: @topic_repo,
       client: @fake_client,
       feed_finder: @feed_finder,
       logger: @logger
@@ -194,6 +200,7 @@ class OrganizationsGeneratorTest < Minitest::Test
     write_doc(@org_dir, 'existing.md', { 'website' => 'https://example.com' })
     generator = Mayhem::Organizations::Generator.new(
       org_dir: @org_dir,
+      topic_repo: @topic_repo,
       client: @fake_client,
       feed_finder: @feed_finder,
       logger: @logger
