@@ -1,17 +1,17 @@
 ---
 end_date: '2025-12-23T12:00:00-08:00'
 feed_content: '<div> <div> <section> <title>WorkSource Seattle-King County</title>
-  <script>{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://worksourceskc.org/event/microsoft-word-fundamentals-part-2-in-person-515/","url":"https://worksourceskc.org/event/microsoft-word-fundamentals-part-2-in-person-515/","name":"Microsoft
-  Word Fundamentals Part 2 (In-Person) - WorkSource Seattle-King County","isPartOf":{"@id":"https://www.worksourceskc.org/#website"},"datePublished":"2025-11-25T21:45:17+00:00","description":"A
+  <script>{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.worksourceskc.org/event/microsoft-word-fundamentals-part-2-in-person-514/","url":"https://www.worksourceskc.org/event/microsoft-word-fundamentals-part-2-in-person-514/","name":"Microsoft
+  Word Fundamentals Part 2 (In-Person) - WorkSource Seattle-King County","isPartOf":{"@id":"https://www.worksourceskc.org/#website"},"datePublished":"2025-11-25T21:45:04+00:00","description":"A
   continuation of the Microsoft Word refresher for new users or those needing additional
-  tips and tricks. Headers, footers, page numbers Working with","breadcrumb":{"@id":"https://worksourceskc.org/event/microsoft-word-fundamentals-part-2-in-person-515/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://worksourceskc.org/event/microsoft-word-fundamentals-part-2-in-person-515/"]}]},{"@type":"BreadcrumbList","@id":"https://worksourceskc.org/event/microsoft-word-fundamentals-part-2-in-person-515/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"Microsoft
+  tips and tricks. Headers, footers, page numbers Working with","breadcrumb":{"@id":"https://www.worksourceskc.org/event/microsoft-word-fundamentals-part-2-in-person-514/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.worksourceskc.org/event/microsoft-word-fundamentals-part-2-in-person-514/"]}]},{"@type":"BreadcrumbList","@id":"https://www.worksourceskc.org/event/microsoft-word-fundamentals-part-2-in-person-514/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"Microsoft
   Word Fundamentals Part 2 (In-Person)"}]},{"@type":"WebSite","@id":"https://www.worksourceskc.org/#website","url":"https://www.worksourceskc.org/","name":"WorkSource
   Seattle-King County","description":"Let&#039;s find your path together!","publisher":{"@id":"https://www.worksourceskc.org/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.worksourceskc.org/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://www.worksourceskc.org/#organization","name":"WorkSource
   Seattle-King County","url":"https://www.worksourceskc.org/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.worksourceskc.org/#/schema/logo/image/","url":"","contentUrl":"","caption":"WorkSource
   Seattle-King County"},"image":{"@id":"https://www.worksourceskc.org/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/worksourceskc/"]},{"@type":"Event","name":"Microsoft
   Word Fundamentals Part 2 (In-Person)","description":"A continuation of the Microsoft
   Word refresher for new users or those needing additional tips and tricks. Headers,
-  footers, page&hellip;","url":"https://worksourceskc.org/event/microsoft-word-fundamentals-part-2-in-person-515/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2025-12-23T10:00:00-08:00","endDate":"2025-12-23T12:00:00-08:00","@id":"https://worksourceskc.org/event/microsoft-word-fundamentals-part-2-in-person-515/#event","mainEntityOfPage":{"@id":"https://worksourceskc.org/event/microsoft-word-fundamentals-part-2-in-person-515/"}}]}</script>
+  footers, page&hellip;","url":"https://worksourceskc.org/event/microsoft-word-fundamentals-part-2-in-person-514/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2025-12-23T10:00:00-08:00","endDate":"2025-12-23T12:00:00-08:00","@id":"https://worksourceskc.org/event/microsoft-word-fundamentals-part-2-in-person-514/#event","mainEntityOfPage":{"@id":"https://www.worksourceskc.org/event/microsoft-word-fundamentals-part-2-in-person-514/"}}]}</script>
   <title>Microsoft Word Fundamentals Part 2 (In-Person) – WorkSource Seattle-King
   County</title> <a>Skip to main content</a> <header> <div> <div> <div> <div> <div>
   <ul> <li><a>Job Board</a></li> </ul> <ul> <li> <a>Staff Log-In</a> </li> </ul> </div>
@@ -49,7 +49,7 @@ feed_content: '<div> <div> <section> <title>WorkSource Seattle-King County</titl
   tricks.</p> <ul> <li>Headers, footers, page numbers </li> <li>Working with objects
   and graphics </li> <li>Working with styles</li> </ul> </div> </div> </div> </section>
   </div> </section> </div> </div>'
-feed_content_checksum: 53fedc9bfcba134930c733118d2615fa234895e4
+feed_content_checksum: 3b2389e0556428f0045771d5dcdc5ba5f4e7ddd4
 images: []
 location: ''
 locations:
@@ -62,41 +62,41 @@ original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta c
   v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n\t<meta name=\"description\"
   content=\"A continuation of the Microsoft Word refresher for new users or those
   needing additional tips and tricks. Headers, footers, page numbers Working with\"
-  />\n\t<link rel=\"canonical\" href=\"https://worksourceskc.org/event/microsoft-word-fundamentals-part-2-in-person-515/\"
+  />\n\t<link rel=\"canonical\" href=\"https://www.worksourceskc.org/event/microsoft-word-fundamentals-part-2-in-person-514/\"
   />\n\t<meta property=\"og:locale\" content=\"en_US\" />\n\t<meta property=\"og:type\"
   content=\"article\" />\n\t<meta property=\"og:title\" content=\"Microsoft Word Fundamentals
   Part 2 (In-Person) - WorkSource Seattle-King County\" />\n\t<meta property=\"og:description\"
   content=\"A continuation of the Microsoft Word refresher for new users or those
   needing additional tips and tricks. Headers, footers, page numbers Working with\"
-  />\n\t<meta property=\"og:url\" content=\"https://worksourceskc.org/event/microsoft-word-fundamentals-part-2-in-person-515/\"
+  />\n\t<meta property=\"og:url\" content=\"https://www.worksourceskc.org/event/microsoft-word-fundamentals-part-2-in-person-514/\"
   />\n\t<meta property=\"og:site_name\" content=\"WorkSource Seattle-King County\"
   />\n\t<meta property=\"article:publisher\" content=\"https://www.facebook.com/worksourceskc/\"
   />\n\t<meta name=\"twitter:card\" content=\"summary_large_image\" />\n\t<script
-  type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://worksourceskc.org/event/microsoft-word-fundamentals-part-2-in-person-515/\",\"url\":\"https://worksourceskc.org/event/microsoft-word-fundamentals-part-2-in-person-515/\",\"name\":\"Microsoft
-  Word Fundamentals Part 2 (In-Person) - WorkSource Seattle-King County\",\"isPartOf\":{\"@id\":\"https://www.worksourceskc.org/#website\"},\"datePublished\":\"2025-11-25T21:45:17+00:00\",\"description\":\"A
+  type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://www.worksourceskc.org/event/microsoft-word-fundamentals-part-2-in-person-514/\",\"url\":\"https://www.worksourceskc.org/event/microsoft-word-fundamentals-part-2-in-person-514/\",\"name\":\"Microsoft
+  Word Fundamentals Part 2 (In-Person) - WorkSource Seattle-King County\",\"isPartOf\":{\"@id\":\"https://www.worksourceskc.org/#website\"},\"datePublished\":\"2025-11-25T21:45:04+00:00\",\"description\":\"A
   continuation of the Microsoft Word refresher for new users or those needing additional
-  tips and tricks. Headers, footers, page numbers Working with\",\"breadcrumb\":{\"@id\":\"https://worksourceskc.org/event/microsoft-word-fundamentals-part-2-in-person-515/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://worksourceskc.org/event/microsoft-word-fundamentals-part-2-in-person-515/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://worksourceskc.org/event/microsoft-word-fundamentals-part-2-in-person-515/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.worksourceskc.org/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Events\",\"item\":\"https://worksourceskc.org/events_list/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Microsoft
+  tips and tricks. Headers, footers, page numbers Working with\",\"breadcrumb\":{\"@id\":\"https://www.worksourceskc.org/event/microsoft-word-fundamentals-part-2-in-person-514/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://www.worksourceskc.org/event/microsoft-word-fundamentals-part-2-in-person-514/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://www.worksourceskc.org/event/microsoft-word-fundamentals-part-2-in-person-514/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.worksourceskc.org/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Events\",\"item\":\"https://www.worksourceskc.org/events_list/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Microsoft
   Word Fundamentals Part 2 (In-Person)\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://www.worksourceskc.org/#website\",\"url\":\"https://www.worksourceskc.org/\",\"name\":\"WorkSource
   Seattle-King County\",\"description\":\"Let&#039;s find your path together!\",\"publisher\":{\"@id\":\"https://www.worksourceskc.org/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://www.worksourceskc.org/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https://www.worksourceskc.org/#organization\",\"name\":\"WorkSource
   Seattle-King County\",\"url\":\"https://www.worksourceskc.org/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://www.worksourceskc.org/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"WorkSource
   Seattle-King County\"},\"image\":{\"@id\":\"https://www.worksourceskc.org/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/worksourceskc/\"]},{\"@type\":\"Event\",\"name\":\"Microsoft
   Word Fundamentals Part 2 (In-Person)\",\"description\":\"A continuation of the Microsoft
   Word refresher for new users or those needing additional tips and tricks. Headers,
-  footers, page&hellip;\",\"url\":\"https://worksourceskc.org/event/microsoft-word-fundamentals-part-2-in-person-515/\",\"eventAttendanceMode\":\"https://schema.org/OfflineEventAttendanceMode\",\"eventStatus\":\"https://schema.org/EventScheduled\",\"startDate\":\"2025-12-23T10:00:00-08:00\",\"endDate\":\"2025-12-23T12:00:00-08:00\",\"@id\":\"https://worksourceskc.org/event/microsoft-word-fundamentals-part-2-in-person-515/#event\",\"mainEntityOfPage\":{\"@id\":\"https://worksourceskc.org/event/microsoft-word-fundamentals-part-2-in-person-515/\"}}]}</script>\n\t<!--
+  footers, page&hellip;\",\"url\":\"https://www.worksourceskc.org/event/microsoft-word-fundamentals-part-2-in-person-514/\",\"eventAttendanceMode\":\"https://schema.org/OfflineEventAttendanceMode\",\"eventStatus\":\"https://schema.org/EventScheduled\",\"startDate\":\"2025-12-23T10:00:00-08:00\",\"endDate\":\"2025-12-23T12:00:00-08:00\",\"@id\":\"https://www.worksourceskc.org/event/microsoft-word-fundamentals-part-2-in-person-514/#event\",\"mainEntityOfPage\":{\"@id\":\"https://www.worksourceskc.org/event/microsoft-word-fundamentals-part-2-in-person-514/\"}}]}</script>\n\t<!--
   / Yoast SEO plugin. -->\n\n\n<title>Microsoft Word Fundamentals Part 2 (In-Person)
-  - WorkSource Seattle-King County</title>\n<link rel='dns-prefetch' href='//worksourceskc.org'
+  - WorkSource Seattle-King County</title>\n<link rel='dns-prefetch' href='//www.worksourceskc.org'
   />\n<link rel='dns-prefetch' href='//connect.facebook.net' />\n<link rel='dns-prefetch'
   href='//static.addtoany.com' />\n<link rel='dns-prefetch' href='//ajax.googleapis.com'
   />\n<link rel='dns-prefetch' href='//maps.googleapis.com' />\n<link rel='dns-prefetch'
   href='//www.googletagmanager.com' />\n<link rel='dns-prefetch' href='//www.google.com'
   />\n<link rel=\"alternate\" type=\"application/rss+xml\" title=\"WorkSource Seattle-King
-  County &raquo; Feed\" href=\"https://worksourceskc.org/feed/\" />\n<link rel=\"alternate\"
+  County &raquo; Feed\" href=\"https://www.worksourceskc.org/feed/\" />\n<link rel=\"alternate\"
   type=\"application/rss+xml\" title=\"WorkSource Seattle-King County &raquo; Comments
-  Feed\" href=\"https://worksourceskc.org/comments/feed/\" />\n<link rel=\"alternate\"
+  Feed\" href=\"https://www.worksourceskc.org/comments/feed/\" />\n<link rel=\"alternate\"
   type=\"text/calendar\" title=\"WorkSource Seattle-King County &raquo; iCal Feed\"
-  href=\"https://worksourceskc.org/events_list/?ical=1\" />\n<link rel=\"alternate\"
+  href=\"https://www.worksourceskc.org/events_list/?ical=1\" />\n<link rel=\"alternate\"
   type=\"application/rss+xml\" title=\"WorkSource Seattle-King County &raquo; Microsoft
-  Word Fundamentals Part 2 (In-Person) Comments Feed\" href=\"https://worksourceskc.org/event/microsoft-word-fundamentals-part-2-in-person-515/feed/\"
+  Word Fundamentals Part 2 (In-Person) Comments Feed\" href=\"https://www.worksourceskc.org/event/microsoft-word-fundamentals-part-2-in-person-514/feed/\"
   />\n\t\t<!-- This site uses the Google Analytics by MonsterInsights plugin v8.7.0
   - Using Analytics tracking - https://www.monsterinsights.com/ -->\n\t\t\t\t\t\t\t<script
   src=\"//www.googletagmanager.com/gtag/js?id=G-LT415XR2H3\"  data-cfasync=\"false\"
@@ -184,31 +184,31 @@ original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta c
   null;\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\twindow['__gtagTracker'] = __gtagTracker;\n\t\t\t\t\t\t\twindow['gtag']
   = __gtagTracker;\n\t\t\t\t\t} )();\n\t\t\t\t\t\t\t\t\t}\n\t\t\t</script>\n\t\t\t\t<!--
   / Google Analytics by MonsterInsights -->\n\t\t<link rel='stylesheet' id='advgb_blocks_styles-css'
-  href='https://worksourceskc.org/wp-content/plugins/advanced-gutenberg-pro/lib/vendor/publishpress/publishpress-blocks/assets/css/blocks.css?ver=3.2.0'
-  media='all' />\n<link rel='stylesheet' id='advgb_blocks_styles_pro-css' href='https://worksourceskc.org/wp-content/plugins/advanced-gutenberg-pro/assets/css/blocks-pro.css?ver=3.2.0'
+  href='https://www.worksourceskc.org/wp-content/plugins/advanced-gutenberg-pro/lib/vendor/publishpress/publishpress-blocks/assets/css/blocks.css?ver=3.2.0'
+  media='all' />\n<link rel='stylesheet' id='advgb_blocks_styles_pro-css' href='https://www.worksourceskc.org/wp-content/plugins/advanced-gutenberg-pro/assets/css/blocks-pro.css?ver=3.2.0'
   media='all' />\n<style id='wp-block-site-title-inline-css'>\n.wp-block-site-title{box-sizing:border-box}.wp-block-site-title
   :where(a){color:inherit;font-family:inherit;font-size:inherit;font-style:inherit;font-weight:inherit;letter-spacing:inherit;line-height:inherit;text-decoration:inherit}\n</style>\n<style
   id='wp-block-paragraph-inline-css'>\n.is-small-text{font-size:.875em}.is-regular-text{font-size:1em}.is-large-text{font-size:2.25em}.is-larger-text{font-size:3em}.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;font-style:normal;font-weight:100;line-height:.68;margin:.05em
   .1em 0 0;text-transform:uppercase}body.rtl .has-drop-cap:not(:focus):first-letter{float:none;margin-left:.1em}p.has-drop-cap.has-background{overflow:hidden}:root
   :where(p.has-background){padding:1.25em 2.375em}:where(p.has-text-color:not(.has-link-color))
   a{color:inherit}p.has-text-align-left[style*=\"writing-mode:vertical-lr\"],p.has-text-align-right[style*=\"writing-mode:vertical-rl\"]{rotate:180deg}\n</style>\n<link
-  rel=\"https://api.w.org/\" href=\"https://worksourceskc.org/wp-json/\" /><link rel=\"alternate\"
-  title=\"JSON\" type=\"application/json\" href=\"https://worksourceskc.org/wp-json/wp/v2/tribe_events/362602\"
-  /><link rel=\"EditURI\" type=\"application/rsd+xml\" title=\"RSD\" href=\"https://worksourceskc.org/xmlrpc.php?rsd\"
-  />\n<link rel='shortlink' href='https://worksourceskc.org/?p=362602' />\n<link rel=\"alternate\"
-  title=\"oEmbed (JSON)\" type=\"application/json+oembed\" href=\"https://worksourceskc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fworksourceskc.org%2Fevent%2Fmicrosoft-word-fundamentals-part-2-in-person-515%2F\"
-  />\n<link rel=\"alternate\" title=\"oEmbed (XML)\" type=\"text/xml+oembed\" href=\"https://worksourceskc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fworksourceskc.org%2Fevent%2Fmicrosoft-word-fundamentals-part-2-in-person-515%2F&#038;format=xml\"
+  rel=\"https://api.w.org/\" href=\"https://www.worksourceskc.org/wp-json/\" /><link
+  rel=\"alternate\" title=\"JSON\" type=\"application/json\" href=\"https://www.worksourceskc.org/wp-json/wp/v2/tribe_events/362594\"
+  /><link rel=\"EditURI\" type=\"application/rsd+xml\" title=\"RSD\" href=\"https://www.worksourceskc.org/xmlrpc.php?rsd\"
+  />\n<link rel='shortlink' href='https://www.worksourceskc.org/?p=362594' />\n<link
+  rel=\"alternate\" title=\"oEmbed (JSON)\" type=\"application/json+oembed\" href=\"https://www.worksourceskc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.worksourceskc.org%2Fevent%2Fmicrosoft-word-fundamentals-part-2-in-person-514%2F\"
+  />\n<link rel=\"alternate\" title=\"oEmbed (XML)\" type=\"text/xml+oembed\" href=\"https://www.worksourceskc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.worksourceskc.org%2Fevent%2Fmicrosoft-word-fundamentals-part-2-in-person-514%2F&#038;format=xml\"
   />\n<script type=\"text/javascript\" src=\"https://www.bugherd.com/sidebarv2.js?apikey=kzhpjsbdgxin5llwmvzeeg\"
   async=\"true\"></script><!-- Custom Facebook Feed JS vars -->\n<script type=\"text/javascript\">\nvar
-  cffsiteurl = \"https://worksourceskc.org/wp-content/plugins\";\nvar cffajaxurl =
-  \"https://worksourceskc.org/wp-admin/admin-ajax.php\";\n\n\nvar cfflinkhashtags
+  cffsiteurl = \"https://www.worksourceskc.org/wp-content/plugins\";\nvar cffajaxurl
+  = \"https://www.worksourceskc.org/wp-admin/admin-ajax.php\";\n\n\nvar cfflinkhashtags
   = \"false\";\n</script>\n<meta name=\"generator\" content=\"Site Kit by Google 1.153.0\"
-  /><meta name=\"tec-api-version\" content=\"v1\"><meta name=\"tec-api-origin\" content=\"https://worksourceskc.org\"><link
-  rel=\"alternate\" href=\"https://worksourceskc.org/wp-json/tribe/events/v1/events/362602\"
-  /><script type=\"importmap\" id=\"wp-importmap\">\n{\"imports\":{\"@wordpress\\/interactivity\":\"https:\\/\\/worksourceskc.org\\/wp-includes\\/js\\/dist\\/script-modules\\/interactivity\\/index.min.js?ver=55aebb6e0a16726baffb\"}}\n</script>\n<script
-  type=\"module\" src=\"https://worksourceskc.org/wp-includes/js/dist/script-modules/block-library/navigation/view.min.js?ver=61572d447d60c0aa5240\"
+  /><meta name=\"tec-api-version\" content=\"v1\"><meta name=\"tec-api-origin\" content=\"https://www.worksourceskc.org\"><link
+  rel=\"alternate\" href=\"https://www.worksourceskc.org/wp-json/tribe/events/v1/events/362594\"
+  /><script type=\"importmap\" id=\"wp-importmap\">\n{\"imports\":{\"@wordpress\\/interactivity\":\"https:\\/\\/www.worksourceskc.org\\/wp-includes\\/js\\/dist\\/script-modules\\/interactivity\\/index.min.js?ver=55aebb6e0a16726baffb\"}}\n</script>\n<script
+  type=\"module\" src=\"https://www.worksourceskc.org/wp-includes/js/dist/script-modules/block-library/navigation/view.min.js?ver=61572d447d60c0aa5240\"
   id=\"@wordpress/block-library/navigation/view-js-module\"></script>\n<link rel=\"modulepreload\"
-  href=\"https://worksourceskc.org/wp-includes/js/dist/script-modules/interactivity/index.min.js?ver=55aebb6e0a16726baffb\"
+  href=\"https://www.worksourceskc.org/wp-includes/js/dist/script-modules/interactivity/index.min.js?ver=55aebb6e0a16726baffb\"
   id=\"@wordpress/interactivity-js-modulepreload\"><meta name=\"google-site-verification\"
   content=\"T-otGnXdjJCQ09FHnnweUS5zrAEEa446c8duCq6zzQ8\"><style type=\"text/css\">.blue-message
   {\nbackground: none repeat scroll 0 0 #3399ff;\n    color: #ffffff;\n    text-shadow:
@@ -229,10 +229,10 @@ original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta c
   10px;\n    margin: 10px;\n    float: right;\n} \n.blockquotes {\nbackground: none;\n
   \   border-left: 5px solid #f1f1f1;\n    color: #8B8E97;\n    font-size: 16px;\n
   \   font-style: italic;\n    line-height: 22px;\n    padding-left: 15px;\n    padding:
-  10px;\n    width: 60%;\n    float: left;\n} \n</style><link rel=\"icon\" href=\"https://worksourceskc.org/wp-content/uploads/2024/09/cropped-android-chrome-512x512-36x36.png\"
-  sizes=\"32x32\" />\n<link rel=\"icon\" href=\"https://worksourceskc.org/wp-content/uploads/2024/09/cropped-android-chrome-512x512-300x300.png\"
-  sizes=\"192x192\" />\n<link rel=\"apple-touch-icon\" href=\"https://worksourceskc.org/wp-content/uploads/2024/09/cropped-android-chrome-512x512-300x300.png\"
-  />\n<meta name=\"msapplication-TileImage\" content=\"https://worksourceskc.org/wp-content/uploads/2024/09/cropped-android-chrome-512x512-300x300.png\"
+  10px;\n    width: 60%;\n    float: left;\n} \n</style><link rel=\"icon\" href=\"https://www.worksourceskc.org/wp-content/uploads/2024/09/cropped-android-chrome-512x512-36x36.png\"
+  sizes=\"32x32\" />\n<link rel=\"icon\" href=\"https://www.worksourceskc.org/wp-content/uploads/2024/09/cropped-android-chrome-512x512-300x300.png\"
+  sizes=\"192x192\" />\n<link rel=\"apple-touch-icon\" href=\"https://www.worksourceskc.org/wp-content/uploads/2024/09/cropped-android-chrome-512x512-300x300.png\"
+  />\n<meta name=\"msapplication-TileImage\" content=\"https://www.worksourceskc.org/wp-content/uploads/2024/09/cropped-android-chrome-512x512-300x300.png\"
   />\n<style id='asp-basic'>.asp_r .item{.price{--regular-price-color:#666;--sale_price_color:#666;color:var(--regular-price-color);del{opacity:.5;display:inline-block;text-decoration:line-through;color:var(--regular-price-color)}ins{margin-left:.5em;text-decoration:none;font-weight:700;display:inline-block;color:var(--sale_price_color)}}.stock{.quantity{color:#666}.out-of-stock{color:#a00}.on-backorder{color:#eaa600}.in-stock{color:#7ad03a}}.add-to-cart-container{display:flex;flex-wrap:wrap;align-items:center;position:relative;z-index:10;width:100%;margin:12px
   0;.add-to-cart-quantity{padding:8px 0 8px 8px;background:#eaeaea;width:32px;border-radius:4px
   0 0 4px;height:18px;min-height:unset;display:inline-block;font-size:13px;line-height:normal}.add-to-cart-button{padding:8px;border-radius:4px;background:#6246d7;color:white;height:18px;min-height:unset;display:block;text-align:center;min-width:90px;font-size:13px;line-height:normal;&.add-to-cart-variable{border-radius:4px}&.loading{content:url(\"data:image/svg+xml,%3Csvg
@@ -240,16 +240,17 @@ original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta c
   fill='none' fill-rule='evenodd'%3E%3Cg transform='translate(1 1)' stroke-width='2'%3E%3Ccircle
   stroke-opacity='.5' cx='18' cy='18' r='18'/%3E%3Cpath d='M36 18c0-9.94-8.06-18-18-18'%3E%3CanimateTransform
   attributeName='transform' type='rotate' from='0 18 18' to='360 18 18' dur='1s' repeatCount='indefinite'/%3E%3C/path%3E%3C/g%3E%3C/g%3E%3C/svg%3E\")}}a.added_to_cart{flex-basis:100%;margin-top:8px}}.add-to-cart-container:has(.add-to-cart-quantity){.add-to-cart-button{border-radius:0
-  4px 4px 0}}.sale-badge{--font-size:14px;--font-color:white;--background-color:#6246d7;position:absolute;top:12px;right:12px;padding:6px
-  12px;font-size:var(--font-size);color:var(--font-color);backgro"
+  4px 4px 0}}.sale-badge{--font-size:14px;--font-colo"
 source: WorkSource Seattle-King County
-source_url: https://worksourceskc.org/event/microsoft-word-fundamentals-part-2-in-person-515/
+source_url: https://www.worksourceskc.org/event/microsoft-word-fundamentals-part-2-in-person-514/
 start_date: '2025-12-23T10:00:00-08:00'
 summarized: true
 title: Microsoft Word Fundamentals Part 2 (In-Person)
 topics:
-- Employment & Job Support
 - Education & Learning
+- Employment & Job Support
 ---
 
-Join WorkSource Seattle-King County for Microsoft Word Fundamentals Part 2 on Dec. 23, 2025, at 10 a.m. This in-person workshop is designed for those looking to enhance their skills in Microsoft Word. Attendees can expect to learn advanced features, improve document formatting, and gain tips for efficient use of the software. This session is perfect for individuals seeking to boost their productivity and confidence in using Word for personal or professional projects. Don't miss this opportunity to elevate your word processing skills in a supportive environment.
+Join us for Microsoft Word Fundamentals Part 2, an in-person workshop designed to enhance your skills in using Microsoft Word. This session will focus on advanced features, formatting techniques, and practical applications to improve your productivity. Attendees can expect hands-on exercises and personalized support to help them master the software.
+
+The event will take place on Dec. 23, 2025, starting at 10 a.m. at WorkSource Seattle-King County. Whether you're looking to boost your career or simply improve your document creation skills, this workshop is perfect for you. Don't miss this opportunity to learn and connect with others in the community.

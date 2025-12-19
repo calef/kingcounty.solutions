@@ -1,7 +1,6 @@
 ---
 date: '2025-12-19T01:13:27+00:00'
-events:
-- 2025-12-19-free-weekend-storm-debris-drop-off
+events: []
 events_extracted: true
 feed_content: 'The King County Solid Waste Division will accept flood debris, including
   yard waste and garbage, free of charge from individual customers* on Saturdays and

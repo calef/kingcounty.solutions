@@ -1,11 +1,11 @@
 ---
 end_date: '2025-12-22T14:00:00-08:00'
 feed_content: '<div> <div> <section> <title>WorkSource Seattle-King County</title>
-  <script>{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1078/","url":"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1078/","name":"Spanish
+  <script>{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/","url":"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/","name":"Spanish
   Speakers only_Curriculum Vitae - EN L&#205;NEA R&#233;sum&#233; and Cover Letter
-  - WorkSource Seattle-King County","isPartOf":{"@id":"https://www.worksourceskc.org/#website"},"datePublished":"2025-11-25T21:45:16+00:00","dateModified":"2025-12-19T19:34:08+00:00","description":"Este
+  - WorkSource Seattle-King County","isPartOf":{"@id":"https://www.worksourceskc.org/#website"},"datePublished":"2025-11-25T21:45:03+00:00","description":"Este
   taller te ensenara sobre c&#243;mo crear un curr&#237;culum vitae (CV) profesional
-  y efectivo. Explica los principales modelos de CV, las claves para","breadcrumb":{"@id":"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1078/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1078/"]}]},{"@type":"BreadcrumbList","@id":"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1078/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"Spanish
+  y efectivo. Explica los principales modelos de CV, las claves para","breadcrumb":{"@id":"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/"]}]},{"@type":"BreadcrumbList","@id":"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"Spanish
   Speakers only_Curriculum Vitae &#8211; EN L&#205;NEA R&#233;sum&#233; and Cover
   Letter"}]},{"@type":"WebSite","@id":"https://www.worksourceskc.org/#website","url":"https://www.worksourceskc.org/","name":"WorkSource
   Seattle-King County","description":"Let&#039;s find your path together!","publisher":{"@id":"https://www.worksourceskc.org/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.worksourceskc.org/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://www.worksourceskc.org/#organization","name":"WorkSource
@@ -13,7 +13,7 @@ feed_content: '<div> <div> <section> <title>WorkSource Seattle-King County</titl
   Seattle-King County"},"image":{"@id":"https://www.worksourceskc.org/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/worksourceskc/"]},{"@type":"Event","name":"Spanish
   Speakers only_Curriculum Vitae &#8211; EN L&#205;NEA R&#233;sum&#233; and Cover
   Letter","description":"Este taller te ensenara sobre c&#243;mo crear un curr&#237;culum
-  vitae (CV) profesional y efectivo. Explica los principales modelos de CV,&hellip;","url":"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1078/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2025-12-22T13:00:00-08:00","endDate":"2025-12-22T14:00:00-08:00","@id":"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1078/#event","mainEntityOfPage":{"@id":"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1078/"}}]}</script>
+  vitae (CV) profesional y efectivo. Explica los principales modelos de CV,&hellip;","url":"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2025-12-22T13:00:00-08:00","endDate":"2025-12-22T14:00:00-08:00","@id":"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/#event","mainEntityOfPage":{"@id":"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/"}}]}</script>
   <title>Spanish Speakers only_Curriculum Vitae – EN LÍNEA Résumé and Cover Letter
   – WorkSource Seattle-King County</title> <a>Skip to main content</a> <header> <div>
   <div> <div> <div> <div> <ul> <li><a>Job Board</a></li> </ul> <ul> <li> <a>Staff
@@ -55,7 +55,7 @@ feed_content: '<div> <div> <section> <title>WorkSource Seattle-King County</titl
   herramientas y plantillas útiles para elaborar CVs impactantes. No te lo pierdas,
   sera una via muy util para incorporarte al mundo laboral.</p> </div> </div> </div>
   </section> </div> </section> </div> </div>'
-feed_content_checksum: a47539ec872215be830135d58abceaa8d140dedb
+feed_content_checksum: 301d714b3bbf45eebd605f738e1fbe8d6226733b
 images: []
 location: ''
 locations:
@@ -68,23 +68,22 @@ original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta c
   v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n\t<meta name=\"description\"
   content=\"Este taller te ensenara sobre c&#243;mo crear un curr&#237;culum vitae
   (CV) profesional y efectivo. Explica los principales modelos de CV, las claves para\"
-  />\n\t<link rel=\"canonical\" href=\"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1078/\"
+  />\n\t<link rel=\"canonical\" href=\"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/\"
   />\n\t<meta property=\"og:locale\" content=\"en_US\" />\n\t<meta property=\"og:type\"
   content=\"article\" />\n\t<meta property=\"og:title\" content=\"Spanish Speakers
   only_Curriculum Vitae - EN L&#205;NEA R&#233;sum&#233; and Cover Letter - WorkSource
   Seattle-King County\" />\n\t<meta property=\"og:description\" content=\"Este taller
   te ensenara sobre c&#243;mo crear un curr&#237;culum vitae (CV) profesional y efectivo.
   Explica los principales modelos de CV, las claves para\" />\n\t<meta property=\"og:url\"
-  content=\"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1078/\"
+  content=\"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/\"
   />\n\t<meta property=\"og:site_name\" content=\"WorkSource Seattle-King County\"
   />\n\t<meta property=\"article:publisher\" content=\"https://www.facebook.com/worksourceskc/\"
-  />\n\t<meta property=\"article:modified_time\" content=\"2025-12-19T20:37:10+00:00\"
   />\n\t<meta name=\"twitter:card\" content=\"summary_large_image\" />\n\t<script
-  type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1078/\",\"url\":\"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1078/\",\"name\":\"Spanish
+  type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/\",\"url\":\"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/\",\"name\":\"Spanish
   Speakers only_Curriculum Vitae - EN L&#205;NEA R&#233;sum&#233; and Cover Letter
-  - WorkSource Seattle-King County\",\"isPartOf\":{\"@id\":\"https://www.worksourceskc.org/#website\"},\"datePublished\":\"2025-11-25T21:45:16+00:00\",\"dateModified\":\"2025-12-19T20:37:10+00:00\",\"description\":\"Este
+  - WorkSource Seattle-King County\",\"isPartOf\":{\"@id\":\"https://www.worksourceskc.org/#website\"},\"datePublished\":\"2025-11-25T21:45:03+00:00\",\"description\":\"Este
   taller te ensenara sobre c&#243;mo crear un curr&#237;culum vitae (CV) profesional
-  y efectivo. Explica los principales modelos de CV, las claves para\",\"breadcrumb\":{\"@id\":\"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1078/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1078/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1078/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.worksourceskc.org/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Events\",\"item\":\"https://worksourceskc.org/events_list/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Spanish
+  y efectivo. Explica los principales modelos de CV, las claves para\",\"breadcrumb\":{\"@id\":\"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.worksourceskc.org/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Events\",\"item\":\"https://worksourceskc.org/events_list/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Spanish
   Speakers only_Curriculum Vitae &#8211; EN L&#205;NEA R&#233;sum&#233; and Cover
   Letter\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://www.worksourceskc.org/#website\",\"url\":\"https://www.worksourceskc.org/\",\"name\":\"WorkSource
   Seattle-King County\",\"description\":\"Let&#039;s find your path together!\",\"publisher\":{\"@id\":\"https://www.worksourceskc.org/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://www.worksourceskc.org/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https://www.worksourceskc.org/#organization\",\"name\":\"WorkSource
@@ -92,7 +91,7 @@ original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta c
   Seattle-King County\"},\"image\":{\"@id\":\"https://www.worksourceskc.org/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/worksourceskc/\"]},{\"@type\":\"Event\",\"name\":\"Spanish
   Speakers only_Curriculum Vitae &#8211; EN L&#205;NEA R&#233;sum&#233; and Cover
   Letter\",\"description\":\"Este taller te ensenara sobre c&#243;mo crear un curr&#237;culum
-  vitae (CV) profesional y efectivo. Explica los principales modelos de CV,&hellip;\",\"url\":\"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1078/\",\"eventAttendanceMode\":\"https://schema.org/OfflineEventAttendanceMode\",\"eventStatus\":\"https://schema.org/EventScheduled\",\"startDate\":\"2025-12-22T13:00:00-08:00\",\"endDate\":\"2025-12-22T14:00:00-08:00\",\"@id\":\"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1078/#event\",\"mainEntityOfPage\":{\"@id\":\"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1078/\"}}]}</script>\n\t<!--
+  vitae (CV) profesional y efectivo. Explica los principales modelos de CV,&hellip;\",\"url\":\"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/\",\"eventAttendanceMode\":\"https://schema.org/OfflineEventAttendanceMode\",\"eventStatus\":\"https://schema.org/EventScheduled\",\"startDate\":\"2025-12-22T13:00:00-08:00\",\"endDate\":\"2025-12-22T14:00:00-08:00\",\"@id\":\"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/#event\",\"mainEntityOfPage\":{\"@id\":\"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/\"}}]}</script>\n\t<!--
   / Yoast SEO plugin. -->\n\n\n<title>Spanish Speakers only_Curriculum Vitae - EN
   L&#205;NEA R&#233;sum&#233; and Cover Letter - WorkSource Seattle-King County</title>\n<link
   rel='dns-prefetch' href='//worksourceskc.org' />\n<link rel='dns-prefetch' href='//connect.facebook.net'
@@ -107,7 +106,7 @@ original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta c
   County &raquo; iCal Feed\" href=\"https://worksourceskc.org/events_list/?ical=1\"
   />\n<link rel=\"alternate\" type=\"application/rss+xml\" title=\"WorkSource Seattle-King
   County &raquo; Spanish Speakers only_Curriculum Vitae &#8211; EN L&#205;NEA R&#233;sum&#233;
-  and Cover Letter Comments Feed\" href=\"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1078/feed/\"
+  and Cover Letter Comments Feed\" href=\"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/feed/\"
   />\n\t\t<!-- This site uses the Google Analytics by MonsterInsights plugin v8.7.0
   - Using Analytics tracking - https://www.monsterinsights.com/ -->\n\t\t\t\t\t\t\t<script
   src=\"//www.googletagmanager.com/gtag/js?id=G-LT415XR2H3\"  data-cfasync=\"false\"
@@ -204,18 +203,18 @@ original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta c
   :where(p.has-background){padding:1.25em 2.375em}:where(p.has-text-color:not(.has-link-color))
   a{color:inherit}p.has-text-align-left[style*=\"writing-mode:vertical-lr\"],p.has-text-align-right[style*=\"writing-mode:vertical-rl\"]{rotate:180deg}\n</style>\n<link
   rel=\"https://api.w.org/\" href=\"https://worksourceskc.org/wp-json/\" /><link rel=\"alternate\"
-  title=\"JSON\" type=\"application/json\" href=\"https://worksourceskc.org/wp-json/wp/v2/tribe_events/362600\"
+  title=\"JSON\" type=\"application/json\" href=\"https://worksourceskc.org/wp-json/wp/v2/tribe_events/362592\"
   /><link rel=\"EditURI\" type=\"application/rsd+xml\" title=\"RSD\" href=\"https://worksourceskc.org/xmlrpc.php?rsd\"
-  />\n<link rel='shortlink' href='https://worksourceskc.org/?p=362600' />\n<link rel=\"alternate\"
-  title=\"oEmbed (JSON)\" type=\"application/json+oembed\" href=\"https://worksourceskc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fworksourceskc.org%2Fevent%2Fspanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1078%2F\"
-  />\n<link rel=\"alternate\" title=\"oEmbed (XML)\" type=\"text/xml+oembed\" href=\"https://worksourceskc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fworksourceskc.org%2Fevent%2Fspanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1078%2F&#038;format=xml\"
+  />\n<link rel='shortlink' href='https://worksourceskc.org/?p=362592' />\n<link rel=\"alternate\"
+  title=\"oEmbed (JSON)\" type=\"application/json+oembed\" href=\"https://worksourceskc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fworksourceskc.org%2Fevent%2Fspanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077%2F\"
+  />\n<link rel=\"alternate\" title=\"oEmbed (XML)\" type=\"text/xml+oembed\" href=\"https://worksourceskc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fworksourceskc.org%2Fevent%2Fspanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077%2F&#038;format=xml\"
   />\n<script type=\"text/javascript\" src=\"https://www.bugherd.com/sidebarv2.js?apikey=kzhpjsbdgxin5llwmvzeeg\"
   async=\"true\"></script><!-- Custom Facebook Feed JS vars -->\n<script type=\"text/javascript\">\nvar
   cffsiteurl = \"https://worksourceskc.org/wp-content/plugins\";\nvar cffajaxurl =
   \"https://worksourceskc.org/wp-admin/admin-ajax.php\";\n\n\nvar cfflinkhashtags
   = \"false\";\n</script>\n<meta name=\"generator\" content=\"Site Kit by Google 1.153.0\"
   /><meta name=\"tec-api-version\" content=\"v1\"><meta name=\"tec-api-origin\" content=\"https://worksourceskc.org\"><link
-  rel=\"alternate\" href=\"https://worksourceskc.org/wp-json/tribe/events/v1/events/362600\"
+  rel=\"alternate\" href=\"https://worksourceskc.org/wp-json/tribe/events/v1/events/362592\"
   /><script type=\"importmap\" id=\"wp-importmap\">\n{\"imports\":{\"@wordpress\\/interactivity\":\"https:\\/\\/worksourceskc.org\\/wp-includes\\/js\\/dist\\/script-modules\\/interactivity\\/index.min.js?ver=55aebb6e0a16726baffb\"}}\n</script>\n<script
   type=\"module\" src=\"https://worksourceskc.org/wp-includes/js/dist/script-modules/block-library/navigation/view.min.js?ver=61572d447d60c0aa5240\"
   id=\"@wordpress/block-library/navigation/view-js-module\"></script>\n<link rel=\"modulepreload\"
@@ -247,9 +246,10 @@ original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta c
   />\n<style id='asp-basic'>.asp_r .item{.price{--regular-price-color:#666;--sale_price_color:#666;color:var(--regular-price-color);del{opacity:.5;display:inline-block;text-decoration:line-through;color:var(--regular-price-color)}ins{margin-left:.5em;text-decoration:none;font-weight:700;display:inline-block;color:var(--sale_price_color)}}.stock{.quantity{color:#666}.out-of-stock{color:#a00}.on-backorder{color:#eaa600}.in-stock{color:#7ad03a}}.add-to-cart-container{display:flex;flex-wrap:wrap;align-items:center;position:relative;z-index:10;width:100%;margin:12px
   0;.add-to-cart-quantity{padding:8px 0 8px 8px;background:#eaeaea;width:32px;border-radius:4px
   0 0 4px;height:18px;min-height:unset;display:inline-block;font-size:13px;line-height:normal}.add-to-cart-button{padding:8px;border-radius:4px;background:#6246d7;color:white;height:18px;min-height:unset;display:block;text-align:center;min-width:90px;font-size:13px;line-height:normal;&.add-to-cart-variable{border-radius:4px}&.loading{content:url(\"data:image/svg+xml,%3Csvg
-  width='38' height='38' viewBox='0 0 38 38' "
+  width='38' height='38' viewBox='0 0 38 38' xmlns='http://www.w3.org/2000/svg' stroke='%23fff'%3E%3Cg
+  fill='none' fill-rule='evenodd'%3E%3Cg transform='translate(1 1)"
 source: WorkSource Seattle-King County
-source_url: https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1078/
+source_url: https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/
 start_date: '2025-12-22T13:00:00-08:00'
 summarized: true
 title: Spanish Speakers only_Curriculum Vitae - EN LÍNEA Résumé and Cover Letter
@@ -257,4 +257,4 @@ topics:
 - Employment & Job Support
 ---
 
-Join WorkSource Seattle-King County for a Spanish-speaking workshop focused on crafting effective resumes and cover letters. This event will take place online on Dec. 22, 2025, starting at 1 p.m. Participants can expect to learn best practices for creating standout application materials that enhance their job search. Attendees will receive guidance tailored to their needs, ensuring they leave with valuable skills to help them succeed in the competitive job market. Don't miss this opportunity to improve your professional documents in a supportive environment.
+Join WorkSource Seattle-King County for a Spanish Speakers only workshop focused on creating effective résumés and cover letters. Attendees will learn essential tips and strategies to enhance their job application materials, tailored specifically for Spanish-speaking individuals. The event will take place on Dec. 22, 2025, starting at 1 p.m. This online session is a great opportunity to gain valuable insights and improve your job search skills in a supportive environment. Don't miss this chance to boost your career prospects!
