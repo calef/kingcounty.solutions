@@ -7,6 +7,7 @@ require 'open-uri'
 require 'ruby/openai'
 require 'uri'
 require_relative '../logging'
+require_relative '../models/topic'
 require_relative '../front_matter/document'
 require_relative '../feed/discovery'
 require_relative '../front_matter/slug_generator'
@@ -17,7 +18,6 @@ module Mayhem
   module Organizations
     class Generator
       ORG_DIR = '_organizations'
-      TOPIC_DIR = '_topics'
       DEFAULT_TYPE = 'Community-Based Organization'
       MAX_PAGES = Integer(ENV.fetch('ORG_SCRAPER_MAX_PAGES', 5))
       PAGE_SNIPPET = Integer(ENV.fetch('ORG_SCRAPER_PAGE_SNIPPET', 3000))
@@ -26,14 +26,16 @@ module Mayhem
 
       def initialize(
         org_dir: ORG_DIR,
-        topic_dir: TOPIC_DIR,
+        topic_repo: nil,
+        topic_model: Mayhem::Models::Topic,
         client: nil,
         feed_finder: nil,
         http_client: nil,
         logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL')
       )
         @org_dir = org_dir
-        @topic_dir = topic_dir
+        @topic_repo = topic_repo
+        @topic_model = topic_model
         @logger = logger
         @client = client || OpenAI::Client.new(access_token: ENV.fetch('OPENAI_API_KEY'))
         @http = http_client || Mayhem::Support::HttpClient.new(timeout: READ_TIMEOUT, logger: @logger)
@@ -182,12 +184,7 @@ module Mayhem
       end
 
       def load_topics
-        Dir.glob(File.join(@topic_dir, '*.md')).filter_map do |path|
-          doc = Mayhem::FrontMatter::Document.load(path, logger: @logger)
-          next unless doc
-
-          doc.front_matter['title']
-        end.compact.sort
+        @topic_model.relation(repo: @topic_repo).filter_map(&:title).compact.sort
       end
 
       def build_prompt(url, pages, topics, types)
