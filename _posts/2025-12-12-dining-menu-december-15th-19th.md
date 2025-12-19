@@ -1,7 +1,6 @@
 ---
 date: '2025-12-12T23:00:00+00:00'
-events:
-- 2025-12-17-wednesday-night-dinner
+events: []
 events_extracted: true
 feed_content: |-
   <p><strong>Monday ~</strong> Sheppard Pie, Garden Salad, Cookie &amp; Fruit</p>
