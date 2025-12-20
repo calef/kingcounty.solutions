@@ -22,6 +22,7 @@ images: []
 location: ''
 locations:
 - King County
+locked: true
 original_source_html: "<!DOCTYPE html>\n<html class=\"html\" lang=\"en-US\">\n<head>\n\t<meta
   charset=\"UTF-8\">\n\t<link rel=\"profile\" href=\"https://gmpg.org/xfn/11\">\n\n\t<title>Urdu
   Class &#x2d; MAPS</title>\n<link rel='stylesheet' id='tribe-events-views-v2-bootstrap-datepicker-styles-css'

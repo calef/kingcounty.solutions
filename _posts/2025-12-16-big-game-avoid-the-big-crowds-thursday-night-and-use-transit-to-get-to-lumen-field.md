@@ -10,6 +10,7 @@ feed_content_checksum: a34c7fa23b9d7f37a78ea898fe9ec558897d6e2b
 images: []
 locations:
 - King County
+locked: true
 original_source_html: Are you ready for a little Thursday Night football?? Rams… Seahawks…
   The battle for first place in the NFC West and possible home field throughout the
   playoffs comes to Lumen...

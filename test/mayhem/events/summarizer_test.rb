@@ -105,7 +105,6 @@ class EventSummarizerTest < Minitest::Test
     location_classifier = FakeLocationClassifier.new(locations: locations)
     Mayhem::Events::EventSummarizer.new(
       events_dir: @tmp_events,
-      topic_dir: @tmp_topics,
       client: client,
       http_client: http,
       topic_classifier: topic_classifier,
@@ -307,7 +306,6 @@ class EventSummarizerTest < Minitest::Test
 
     summarizer = Mayhem::Events::EventSummarizer.new(
       events_dir: @tmp_events,
-      topic_dir: @tmp_topics,
       client: FakeChatClient.new(response: {}),
       http_client: FakeHttpClient.new(response: { body: '<html></html>', content_type: 'text/html' }),
       topic_classifier: topic_classifier,

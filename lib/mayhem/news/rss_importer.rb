@@ -171,8 +171,10 @@ module Mayhem
 
         original_html = item_content_html(item).to_s.strip
         body_data = nil
+        force_unpublished = false
         if normalized && (original_html.empty? || canonical_redirect_host?(normalized))
           body_data = fetch_article_body(normalized)
+          force_unpublished = true if body_data && body_data[:not_found]
           fetched_html = body_data[:html].to_s.strip
           original_html = fetched_html if original_html.empty?
         end
@@ -187,8 +189,12 @@ module Mayhem
           end
         end
         if original_html.empty?
-          stats[:empty_content] += 1
-          return
+          if force_unpublished
+            stats[:not_found] += 1
+          else
+            stats[:empty_content] += 1
+            return
+          end
         end
 
         if duplicate_post?(normalized, guid_value)
@@ -196,7 +202,16 @@ module Mayhem
           return
         end
 
-        result = write_post(source_title, title_text, normalized, published_time, original_html, guid_value)
+        publish_flag = force_unpublished ? false : nil
+        result = write_post(
+          source_title,
+          title_text,
+          normalized,
+          published_time,
+          original_html,
+          guid_value,
+          published: publish_flag
+        )
         case result
         when :created
           stats[:created] += 1
@@ -262,7 +277,7 @@ module Mayhem
         text.empty? ? nil : text
       end
 
-      def write_post(source_title, title_text, link_url, published_time, original_html, rss_guid = nil)
+      def write_post(source_title, title_text, link_url, published_time, original_html, rss_guid = nil, published: nil)
         normalized_html = Mayhem::Content::HtmlNormalizer.normalize(original_html, base_url: link_url)
         checksum = Mayhem::Content::HtmlNormalizer.checksum(normalized_html)
         date_prefix = published_time.strftime('%Y-%m-%d')
@@ -301,6 +316,7 @@ module Mayhem
           'feed_content' => normalized_html,
           'feed_content_checksum' => checksum
         }
+        frontmatter['published'] = false if published == false
         document = Mayhem::FrontMatter::Document.new(
           path: filename,
           front_matter: frontmatter,
@@ -411,6 +427,7 @@ module Mayhem
         labels = {
           created: 'created',
           duplicates: 'duplicates',
+          not_found: 'not_found',
           stale: 'stale',
           missing_link: 'missing_link',
           missing_title: 'missing_title',
@@ -557,6 +574,9 @@ module Mayhem
         return { html: '', canonical_url: nil } unless url
 
         @content_fetcher.fetch(url)
+      rescue Mayhem::Support::HttpClient::NotFoundError => e
+        @logger.warn "Article URL returned 404 (#{url}): #{e.message}"
+        { html: '', canonical_url: url, not_found: true }
       rescue OpenURI::HTTPError, OpenSSL::SSL::SSLError, SocketError,
              Net::OpenTimeout, Net::ReadTimeout => e
         @logger.warn "Failed to fetch article body (#{url}): #{e.message}"
