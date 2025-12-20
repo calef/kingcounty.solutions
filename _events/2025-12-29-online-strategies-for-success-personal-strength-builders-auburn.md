@@ -1,18 +1,18 @@
 ---
 end_date: '2026-01-02T11:30:00-08:00'
 feed_content: '<div> <div> <section> <title>WorkSource Seattle-King County</title>
-  <script>{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://worksourceskc.org/event/online-strategies-for-success-personal-strength-builders-auburn-567/","url":"https://worksourceskc.org/event/online-strategies-for-success-personal-strength-builders-auburn-567/","name":"ONLINE
+  <script>{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://worksourceskc.org/event/online-strategies-for-success-personal-strength-builders-auburn-568/","url":"https://worksourceskc.org/event/online-strategies-for-success-personal-strength-builders-auburn-568/","name":"ONLINE
   Strategies for Success: Personal Strength Builders (Auburn) - WorkSource Seattle-King
-  County","isPartOf":{"@id":"https://www.worksourceskc.org/#website"},"datePublished":"2025-12-02T09:16:33+00:00","description":"Class
+  County","isPartOf":{"@id":"https://www.worksourceskc.org/#website"},"datePublished":"2025-12-02T09:17:23+00:00","dateModified":"2025-12-20T20:34:09+00:00","description":"Class
   times: 8:30-11:30 (4-day class).&#160;No class on Thursday due to New Year&#039;s
-  Day.Personal strength builders &#8211; What makes you shine?","breadcrumb":{"@id":"https://worksourceskc.org/event/online-strategies-for-success-personal-strength-builders-auburn-567/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://worksourceskc.org/event/online-strategies-for-success-personal-strength-builders-auburn-567/"]}]},{"@type":"BreadcrumbList","@id":"https://worksourceskc.org/event/online-strategies-for-success-personal-strength-builders-auburn-567/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"ONLINE
+  Day.Personal strength builders &#8211; What makes you shine?","breadcrumb":{"@id":"https://worksourceskc.org/event/online-strategies-for-success-personal-strength-builders-auburn-568/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://worksourceskc.org/event/online-strategies-for-success-personal-strength-builders-auburn-568/"]}]},{"@type":"BreadcrumbList","@id":"https://worksourceskc.org/event/online-strategies-for-success-personal-strength-builders-auburn-568/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"ONLINE
   Strategies for Success: Personal Strength Builders (Auburn)"}]},{"@type":"WebSite","@id":"https://www.worksourceskc.org/#website","url":"https://www.worksourceskc.org/","name":"WorkSource
   Seattle-King County","description":"Let&#039;s find your path together!","publisher":{"@id":"https://www.worksourceskc.org/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.worksourceskc.org/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://www.worksourceskc.org/#organization","name":"WorkSource
   Seattle-King County","url":"https://www.worksourceskc.org/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.worksourceskc.org/#/schema/logo/image/","url":"","contentUrl":"","caption":"WorkSource
   Seattle-King County"},"image":{"@id":"https://www.worksourceskc.org/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/worksourceskc/"]},{"@type":"Event","name":"ONLINE
   Strategies for Success: Personal Strength Builders (Auburn)","description":"Class
   times: 8:30-11:30 (4-day class).&#160;No class on Thursday due to New Year&#039;s
-  Day. Personal strength builders &#8211; What makes you&hellip;","url":"https://worksourceskc.org/event/online-strategies-for-success-personal-strength-builders-auburn-567/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2025-12-29T08:30:00-08:00","endDate":"2026-01-02T11:30:00-08:00","@id":"https://worksourceskc.org/event/online-strategies-for-success-personal-strength-builders-auburn-567/#event","mainEntityOfPage":{"@id":"https://worksourceskc.org/event/online-strategies-for-success-personal-strength-builders-auburn-567/"}}]}</script>
+  Day. Personal strength builders &#8211; What makes you&hellip;","url":"https://worksourceskc.org/event/online-strategies-for-success-personal-strength-builders-auburn-568/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2025-12-29T08:30:00-08:00","endDate":"2026-01-02T11:30:00-08:00","@id":"https://worksourceskc.org/event/online-strategies-for-success-personal-strength-builders-auburn-568/#event","mainEntityOfPage":{"@id":"https://worksourceskc.org/event/online-strategies-for-success-personal-strength-builders-auburn-568/"}}]}</script>
   <title>ONLINE Strategies for Success: Personal Strength Builders (Auburn) – WorkSource
   Seattle-King County</title> <a>Skip to main content</a> <header> <div> <div> <div>
   <div> <div> <ul> <li><a>Job Board</a></li> </ul> <ul> <li> <a>Staff Log-In</a> </li>
@@ -67,11 +67,12 @@ feed_content: '<div> <div> <section> <title>WorkSource Seattle-King County</titl
   flexibility and adaptability </li> <li>Get hold of your finances by forming good
   spending habits, getting rid of bad behaviors and become financially literate</li>
   </ul> </div> </div> </div> </section> </div> </section> </div> </div>'
-feed_content_checksum: e60a774a4f0faa424a09c9f4e20df5ea61d0682f
+feed_content_checksum: bb0b7bd8aa11ef4e9ce25f1615fd491a11744a47
 images: []
 location: ''
 locations:
 - King County
+locked: true
 organization_title: WorkSource Seattle-King County
 original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta charset=\"UTF-8\"
   />\n\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\n<meta
@@ -81,28 +82,29 @@ original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta c
   v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n\t<meta name=\"description\"
   content=\"Class times: 8:30-11:30 (4-day class).&#160;No class on Thursday due to
   New Year&#039;s Day.Personal strength builders &#8211; What makes you shine?\" />\n\t<link
-  rel=\"canonical\" href=\"https://worksourceskc.org/event/online-strategies-for-success-personal-strength-builders-auburn-567/\"
+  rel=\"canonical\" href=\"https://worksourceskc.org/event/online-strategies-for-success-personal-strength-builders-auburn-568/\"
   />\n\t<meta property=\"og:locale\" content=\"en_US\" />\n\t<meta property=\"og:type\"
   content=\"article\" />\n\t<meta property=\"og:title\" content=\"ONLINE Strategies
   for Success: Personal Strength Builders (Auburn) - WorkSource Seattle-King County\"
   />\n\t<meta property=\"og:description\" content=\"Class times: 8:30-11:30 (4-day
   class).&#160;No class on Thursday due to New Year&#039;s Day.Personal strength builders
-  &#8211; What makes you shine?\" />\n\t<meta property=\"og:url\" content=\"https://worksourceskc.org/event/online-strategies-for-success-personal-strength-builders-auburn-567/\"
+  &#8211; What makes you shine?\" />\n\t<meta property=\"og:url\" content=\"https://worksourceskc.org/event/online-strategies-for-success-personal-strength-builders-auburn-568/\"
   />\n\t<meta property=\"og:site_name\" content=\"WorkSource Seattle-King County\"
   />\n\t<meta property=\"article:publisher\" content=\"https://www.facebook.com/worksourceskc/\"
+  />\n\t<meta property=\"article:modified_time\" content=\"2025-12-20T20:34:09+00:00\"
   />\n\t<meta name=\"twitter:card\" content=\"summary_large_image\" />\n\t<script
-  type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://worksourceskc.org/event/online-strategies-for-success-personal-strength-builders-auburn-567/\",\"url\":\"https://worksourceskc.org/event/online-strategies-for-success-personal-strength-builders-auburn-567/\",\"name\":\"ONLINE
+  type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://worksourceskc.org/event/online-strategies-for-success-personal-strength-builders-auburn-568/\",\"url\":\"https://worksourceskc.org/event/online-strategies-for-success-personal-strength-builders-auburn-568/\",\"name\":\"ONLINE
   Strategies for Success: Personal Strength Builders (Auburn) - WorkSource Seattle-King
-  County\",\"isPartOf\":{\"@id\":\"https://www.worksourceskc.org/#website\"},\"datePublished\":\"2025-12-02T09:16:33+00:00\",\"description\":\"Class
+  County\",\"isPartOf\":{\"@id\":\"https://www.worksourceskc.org/#website\"},\"datePublished\":\"2025-12-02T09:17:23+00:00\",\"dateModified\":\"2025-12-20T20:34:09+00:00\",\"description\":\"Class
   times: 8:30-11:30 (4-day class).&#160;No class on Thursday due to New Year&#039;s
-  Day.Personal strength builders &#8211; What makes you shine?\",\"breadcrumb\":{\"@id\":\"https://worksourceskc.org/event/online-strategies-for-success-personal-strength-builders-auburn-567/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://worksourceskc.org/event/online-strategies-for-success-personal-strength-builders-auburn-567/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://worksourceskc.org/event/online-strategies-for-success-personal-strength-builders-auburn-567/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.worksourceskc.org/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Events\",\"item\":\"https://worksourceskc.org/events_list/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"ONLINE
+  Day.Personal strength builders &#8211; What makes you shine?\",\"breadcrumb\":{\"@id\":\"https://worksourceskc.org/event/online-strategies-for-success-personal-strength-builders-auburn-568/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://worksourceskc.org/event/online-strategies-for-success-personal-strength-builders-auburn-568/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://worksourceskc.org/event/online-strategies-for-success-personal-strength-builders-auburn-568/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.worksourceskc.org/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Events\",\"item\":\"https://worksourceskc.org/events_list/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"ONLINE
   Strategies for Success: Personal Strength Builders (Auburn)\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://www.worksourceskc.org/#website\",\"url\":\"https://www.worksourceskc.org/\",\"name\":\"WorkSource
   Seattle-King County\",\"description\":\"Let&#039;s find your path together!\",\"publisher\":{\"@id\":\"https://www.worksourceskc.org/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://www.worksourceskc.org/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https://www.worksourceskc.org/#organization\",\"name\":\"WorkSource
   Seattle-King County\",\"url\":\"https://www.worksourceskc.org/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://www.worksourceskc.org/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"WorkSource
   Seattle-King County\"},\"image\":{\"@id\":\"https://www.worksourceskc.org/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/worksourceskc/\"]},{\"@type\":\"Event\",\"name\":\"ONLINE
   Strategies for Success: Personal Strength Builders (Auburn)\",\"description\":\"Class
   times: 8:30-11:30 (4-day class).&#160;No class on Thursday due to New Year&#039;s
-  Day. Personal strength builders &#8211; What makes you&hellip;\",\"url\":\"https://worksourceskc.org/event/online-strategies-for-success-personal-strength-builders-auburn-567/\",\"eventAttendanceMode\":\"https://schema.org/OfflineEventAttendanceMode\",\"eventStatus\":\"https://schema.org/EventScheduled\",\"startDate\":\"2025-12-29T08:30:00-08:00\",\"endDate\":\"2026-01-02T11:30:00-08:00\",\"@id\":\"https://worksourceskc.org/event/online-strategies-for-success-personal-strength-builders-auburn-567/#event\",\"mainEntityOfPage\":{\"@id\":\"https://worksourceskc.org/event/online-strategies-for-success-personal-strength-builders-auburn-567/\"}}]}</script>\n\t<!--
+  Day. Personal strength builders &#8211; What makes you&hellip;\",\"url\":\"https://worksourceskc.org/event/online-strategies-for-success-personal-strength-builders-auburn-568/\",\"eventAttendanceMode\":\"https://schema.org/OfflineEventAttendanceMode\",\"eventStatus\":\"https://schema.org/EventScheduled\",\"startDate\":\"2025-12-29T08:30:00-08:00\",\"endDate\":\"2026-01-02T11:30:00-08:00\",\"@id\":\"https://worksourceskc.org/event/online-strategies-for-success-personal-strength-builders-auburn-568/#event\",\"mainEntityOfPage\":{\"@id\":\"https://worksourceskc.org/event/online-strategies-for-success-personal-strength-builders-auburn-568/\"}}]}</script>\n\t<!--
   / Yoast SEO plugin. -->\n\n\n<title>ONLINE Strategies for Success: Personal Strength
   Builders (Auburn) - WorkSource Seattle-King County</title>\n<link rel='dns-prefetch'
   href='//worksourceskc.org' />\n<link rel='dns-prefetch' href='//connect.facebook.net'
@@ -117,7 +119,7 @@ original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta c
   County &raquo; iCal Feed\" href=\"https://worksourceskc.org/events_list/?ical=1\"
   />\n<link rel=\"alternate\" type=\"application/rss+xml\" title=\"WorkSource Seattle-King
   County &raquo; ONLINE Strategies for Success: Personal Strength Builders (Auburn)
-  Comments Feed\" href=\"https://worksourceskc.org/event/online-strategies-for-success-personal-strength-builders-auburn-567/feed/\"
+  Comments Feed\" href=\"https://worksourceskc.org/event/online-strategies-for-success-personal-strength-builders-auburn-568/feed/\"
   />\n\t\t<!-- This site uses the Google Analytics by MonsterInsights plugin v8.7.0
   - Using Analytics tracking - https://www.monsterinsights.com/ -->\n\t\t\t\t\t\t\t<script
   src=\"//www.googletagmanager.com/gtag/js?id=G-LT415XR2H3\"  data-cfasync=\"false\"
@@ -214,18 +216,18 @@ original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta c
   :where(p.has-background){padding:1.25em 2.375em}:where(p.has-text-color:not(.has-link-color))
   a{color:inherit}p.has-text-align-left[style*=\"writing-mode:vertical-lr\"],p.has-text-align-right[style*=\"writing-mode:vertical-rl\"]{rotate:180deg}\n</style>\n<link
   rel=\"https://api.w.org/\" href=\"https://worksourceskc.org/wp-json/\" /><link rel=\"alternate\"
-  title=\"JSON\" type=\"application/json\" href=\"https://worksourceskc.org/wp-json/wp/v2/tribe_events/376607\"
+  title=\"JSON\" type=\"application/json\" href=\"https://worksourceskc.org/wp-json/wp/v2/tribe_events/376685\"
   /><link rel=\"EditURI\" type=\"application/rsd+xml\" title=\"RSD\" href=\"https://worksourceskc.org/xmlrpc.php?rsd\"
-  />\n<link rel='shortlink' href='https://worksourceskc.org/?p=376607' />\n<link rel=\"alternate\"
-  title=\"oEmbed (JSON)\" type=\"application/json+oembed\" href=\"https://worksourceskc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fworksourceskc.org%2Fevent%2Fonline-strategies-for-success-personal-strength-builders-auburn-567%2F\"
-  />\n<link rel=\"alternate\" title=\"oEmbed (XML)\" type=\"text/xml+oembed\" href=\"https://worksourceskc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fworksourceskc.org%2Fevent%2Fonline-strategies-for-success-personal-strength-builders-auburn-567%2F&#038;format=xml\"
+  />\n<link rel='shortlink' href='https://worksourceskc.org/?p=376685' />\n<link rel=\"alternate\"
+  title=\"oEmbed (JSON)\" type=\"application/json+oembed\" href=\"https://worksourceskc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fworksourceskc.org%2Fevent%2Fonline-strategies-for-success-personal-strength-builders-auburn-568%2F\"
+  />\n<link rel=\"alternate\" title=\"oEmbed (XML)\" type=\"text/xml+oembed\" href=\"https://worksourceskc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fworksourceskc.org%2Fevent%2Fonline-strategies-for-success-personal-strength-builders-auburn-568%2F&#038;format=xml\"
   />\n<script type=\"text/javascript\" src=\"https://www.bugherd.com/sidebarv2.js?apikey=kzhpjsbdgxin5llwmvzeeg\"
   async=\"true\"></script><!-- Custom Facebook Feed JS vars -->\n<script type=\"text/javascript\">\nvar
   cffsiteurl = \"https://worksourceskc.org/wp-content/plugins\";\nvar cffajaxurl =
   \"https://worksourceskc.org/wp-admin/admin-ajax.php\";\n\n\nvar cfflinkhashtags
   = \"false\";\n</script>\n<meta name=\"generator\" content=\"Site Kit by Google 1.153.0\"
   /><meta name=\"tec-api-version\" content=\"v1\"><meta name=\"tec-api-origin\" content=\"https://worksourceskc.org\"><link
-  rel=\"alternate\" href=\"https://worksourceskc.org/wp-json/tribe/events/v1/events/376607\"
+  rel=\"alternate\" href=\"https://worksourceskc.org/wp-json/tribe/events/v1/events/376685\"
   /><script type=\"importmap\" id=\"wp-importmap\">\n{\"imports\":{\"@wordpress\\/interactivity\":\"https:\\/\\/worksourceskc.org\\/wp-includes\\/js\\/dist\\/script-modules\\/interactivity\\/index.min.js?ver=55aebb6e0a16726baffb\"}}\n</script>\n<script
   type=\"module\" src=\"https://worksourceskc.org/wp-includes/js/dist/script-modules/block-library/navigation/view.min.js?ver=61572d447d60c0aa5240\"
   id=\"@wordpress/block-library/navigation/view-js-module\"></script>\n<link rel=\"modulepreload\"
@@ -259,9 +261,8 @@ original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta c
   0 0 4px;height:18px;min-height:unset;display:inline-block;font-size:13px;line-height:normal}.add-to-cart-button{padding:8px;border-radius:4px;background:#6246d7;color:white;height:18px;min-height:unset;display:block;text-align:center;min-width:90px;font-size:13px;line-height:normal;&.add-to-cart-variable{border-radius:4px}&.loading{content:url(\"data:image/svg+xml,%3Csvg
   width='38' height='38' viewBox='0 0 38 38' xmlns='http://www.w3.org/2000/svg' stroke='%23fff'%3E%3Cg
   fill='none' fill-rule='evenodd'%3E%3Cg transform='translate(1 1)' stroke-width='2'%3E%3Ccircle
-  stroke-opacity='.5' cx='18' cy='18' r='18'/%3E%3Cpath d='M36 18c0-9.94-8.06-18-18-18'%3E%3CanimateTransform
-  attributeName='transform' type='rotate' from='0 18 18' to='360 18 18' dur='1s' repeatCount='indefinite'"
-source_url: https://worksourceskc.org/event/online-strategies-for-success-personal-strength-builders-auburn-567/
+  stroke-opacity='.5' cx='18' cy='18' r='18'/%3E%3Cpath d='M36 18c0-9.94-8.06-18-18-18'%3E%"
+source_url: https://worksourceskc.org/event/online-strategies-for-success-personal-strength-builders-auburn-568/
 start_date: '2025-12-29T08:30:00-08:00'
 summarized: true
 title: 'ONLINE Strategies for Success: Personal Strength Builders (Auburn)'
@@ -269,4 +270,4 @@ topics:
 - Employment & Job Support
 ---
 
-Join the ONLINE Strategies for Success: Personal Strength Builders event hosted by WorkSource Seattle-King County on Dec. 29, 2025, at 8:30 a.m. This virtual workshop is designed to help participants identify and develop their personal strengths to enhance their success in various aspects of life. Attendees can expect interactive discussions and practical tools to boost their confidence and effectiveness. Whether you are looking to improve your career prospects or personal growth, this event offers valuable insights and strategies. Don’t miss this opportunity to invest in your future from the comfort of your home.
+Join WorkSource Seattle-King County for the ONLINE Strategies for Success: Personal Strength Builders event on Dec. 29, 2025, at 8:30 a.m. This interactive session is designed to help attendees identify and develop their personal strengths, enhancing their skills for professional and personal growth. Participants can expect to engage in practical exercises, gain valuable insights, and connect with others seeking to build their strengths. Don't miss this opportunity to empower yourself and set the foundation for future success.
