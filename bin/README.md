@@ -182,7 +182,7 @@ Downloads images referenced in each post or event `original_markdown_body`, rena
 - Avoids redownloading the same URL within a run; writes files under `assets/images/<checksum>.webp` (or the original extension when conversion fails).
 - Converts raster image downloads (JPEG/PNG/GIF/BMP/TIFF) into WebP via ImageMagick (`mini_magick` must be bundled and ImageMagick's `magick`/`convert` binary available); non-raster/media or failed conversions leave the original bytes/extension untouched.
 - Skips storing WebP assets whose dimensions fall below `IMAGE_MIN_DIMENSION`, logging a per-post warning and incrementing the run summary's `skipped_small_images` counter.
-- Creates `_images/<checksum>.md` with `checksum`, optional `title` (set only when the image had alt text), `image_url`, `source_url`, and copies `source` (posts) or `organization_title` (events) plus `date` from the originating entry; appends discovered checksums to an entry's `images` array without removing existing entries.
+- Creates `_images/<checksum>.md` with `checksum`, optional `title` (set only when the image had alt text), `image_url`, `source_url`, and copies `organization_title` plus `date` from the originating entry; appends discovered checksums to an entry's `images` array without removing existing entries.
 - Logs WARN-level issues for missing front matter or failed downloads/conversions, INFO for updates/empty images actions, DEBUG for already-processed posts, and prints a per-run summary when the log level allows it.
 
 ### `bin/mayhem import-content`

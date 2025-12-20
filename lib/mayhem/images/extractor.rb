@@ -205,8 +205,7 @@ module Mayhem
         title = alt.to_s.strip
         title = 'Image' if title.empty?
         frontmatter_data['title'] = title
-        source_title = frontmatter['source'] || frontmatter['organization_title']
-        frontmatter_data['source'] = source_title if source_title
+        frontmatter_data['organization_title'] = frontmatter['organization_title'] if frontmatter['organization_title']
         frontmatter_data['date'] = frontmatter['date'] if frontmatter['date']
 
         document = Mayhem::FrontMatter::Document.new(
