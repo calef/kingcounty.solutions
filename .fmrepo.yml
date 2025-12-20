@@ -5,6 +5,10 @@ locations:
   test: <tmp>
   development: "."
   production: "."
+news:
+  test: <tmp>
+  development: "."
+  production: "."
 topics:
   test: <tmp>
   development: "."
