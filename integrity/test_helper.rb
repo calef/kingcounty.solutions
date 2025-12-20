@@ -13,7 +13,7 @@ end
 
 # reduce noisy logs during tests
 ENV['LOG_LEVEL'] ||= 'ERROR'
-# default to a development-specific FMRepo environment unless explicitly overridden
+# choose FMRepo env from FMREPO_ENV, then JEKYLL_ENV, otherwise default to 'development'
 fmrepo_env = ENV['FMREPO_ENV'] || ENV['JEKYLL_ENV'] || 'development'
 ENV['FMREPO_ENV'] = fmrepo_env
 require 'bundler/setup'
