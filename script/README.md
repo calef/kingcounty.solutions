@@ -7,11 +7,11 @@ The `script/` directory contains lightweight automation used during setup, local
 | Script | Purpose |
 | --- | --- |
 | `bootstrap` | Installs the Bundler version listed in `.bundler-version` (via `ensure-bundler`) and runs `bundle install`. |
-| `cibuild` | Cleans the workspace via `script/setup`, runs `JEKYLL_ENV=production bundle exec jekyll build --drafts`, and executes `bundle exec rake test`. |
+| `cibuild` | Cleans the workspace via `script/setup`, runs `JEKYLL_ENV=production bundle exec jekyll build --drafts`, and executes `bundle exec rake test` for the mayhem/unit suite. |
 | `server` | Pulls the latest dependencies (`script/update`) and runs `bundle exec jekyll serve --livereload --host 0.0.0.0`. |
 | `setup` | Removes `_site`, `.jekyll-cache`, and `.jekyll-metadata` to give CI/build scripts a clean slate. |
 | `update` | Runs `script/bootstrap`; use after pulling remote changes to make sure gems are current. |
-| `test` | Invokes `bundle exec rake test` so just the Ruby test suite runs without building the site. |
+| `test` | Invokes `bundle exec rake test` for the mayhem/unit suite. |
 
 > Most installers have macOS and Ubuntu paths only. Other platforms should rely on containerized builds or install prerequisites manually.
 
@@ -25,6 +25,7 @@ The `script/` directory contains lightweight automation used during setup, local
 
 - Runs `script/setup` (cleans build artifacts), then executes `JEKYLL_ENV=production bundle exec jekyll build --drafts`.  
 - Runs `bundle exec rake test` after the site build so CI-style checks stay in sync with local verification.  
+- Run `bin/mayhem check-integrity` after the build when you need the site data validation suite.  
 - Intended to mirror CI behavior locally; use before opening a PR to catch Liquid/front-matter errors.  
 - Respects any environment variables recognized by `jekyll build` (e.g., `JEKYLL_ENV` override).
 
@@ -44,5 +45,5 @@ The `script/` directory contains lightweight automation used during setup, local
 
 ### `test`
 
-- Runs `bundle exec rake test` outside of any site build so you can verify Ruby unit tests quickly.  
+- Runs `bundle exec rake test` for the mayhem/unit suite without triggering a site build.  
 - Useful when iterating on backend code or when CI already covers the full `script/cibuild` path.

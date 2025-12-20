@@ -46,10 +46,10 @@
 
 ### Build and Testing
 
-- `script/bootstrap` vendors Ruby/Bundler via mise into `.mise`/`vendor/bundle`; run first after pulling. Request escalated perms if sandboxed without Homebrew/network.
-- `script/test` uses `script/env` to set repo-local mise/Bundler paths and RuboCop cache; run this to verify changes.
-- `script/cibuild` runs `script/setup`, `JEKYLL_ENV=production bundle exec jekyll build --drafts`, then `script/test`; prefer this before PRs.
-- If you run `bundle`/`rake`/`jekyll` manually, source `script/env` so `MISE_DATA_DIR=.mise`, `BUNDLE_APP_CONFIG=.bundle`, `BUNDLE_PATH=vendor/bundle`, and `RUBOCOP_CACHE_ROOT=tmp/rubocop_cache` are set.
+- Activate mise in your shell so the repo Ruby and gems are used.
+- `script/bootstrap` installs the pinned Bundler version; run first after pulling. Request escalated perms if sandboxed without Homebrew/network.
+- `script/test` runs the test suite; use it to verify changes.
+- `script/cibuild` builds the site and runs tests; prefer this before PRs.
 - For script changes, test with `--help` or dry-run flags when available.
 
 ### Security Awareness

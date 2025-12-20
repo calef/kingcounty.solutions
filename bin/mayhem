@@ -9,7 +9,7 @@ begin
   require 'bundler/setup'
 rescue LoadError => e
   warn "Bundler not available: #{e.message}"
-  warn 'Install dependencies with `script/bootstrap` or run via `bundle exec`.'
+  warn 'Install dependencies with `script/bootstrap`.'
 end
 
 require 'optparse'
@@ -21,6 +21,10 @@ module Mayhem
       'audit-topics' => {
         description: 'Uses OpenAI to reconcile each organization\'s topics against recent news coverage',
         handler: :run_audit_topics
+      },
+      'check-integrity' => {
+        description: 'Runs site integrity checks against the generated content',
+        handler: :run_check_integrity
       },
       'check-source-urls' => {
         description: 'Checks source_url availability and unpublishes or deletes content when links are dead',
@@ -145,6 +149,24 @@ module Mayhem
         options
       end
 
+      def run_check_integrity(args)
+        if help_requested?(args)
+          puts 'Usage: mayhem check-integrity [minitest options]'
+          puts ''
+          puts 'Builds the site and runs data integrity checks.'
+          puts 'Additional arguments are passed directly to Minitest (e.g., --name, --seed).'
+          return
+        end
+
+        require 'mayhem/integrity/checker'
+
+        success = Mayhem::Integrity::Checker.new.run(args)
+        return if success
+
+        warn 'Integrity checks failed'
+        exit 1
+      end
+
       def run_check_source_urls(_args)
         require 'mayhem/content/source_url_checker'
 
@@ -246,6 +268,10 @@ module Mayhem
 
         tidier = Mayhem::FrontMatter::Tidier.new
         tidier.tidy(args)
+      end
+
+      def help_requested?(args)
+        args.include?('--help') || args.include?('-h')
       end
     end
   end

@@ -15,6 +15,7 @@ Utility commands that automate content imports, auditing, and metadata maintenan
 The `bin/mayhem` script consolidates content management functionality. Run `bin/mayhem help` to see all available commands:
 
 - `bin/mayhem audit-topics` – Uses OpenAI to reconcile each organization's topics against recent news coverage and optionally rewrites front matter.
+- `bin/mayhem check-integrity` – Runs site integrity checks (front matter, generated HTML/JSON/JS validation) against the built site output.
 - `bin/mayhem check-source-urls` – Checks `source_url` availability, unpublishing posts or deleting events when links are dead.
 - `bin/mayhem delete-organization` – Deletes all events and news posts associated with an organization.
 - `bin/mayhem expire` – Deletes posts and events outside configured age window.
@@ -53,6 +54,22 @@ Reviews each `_organizations/*.md` file's topics using `_topics/` metadata plus 
 - Without `--apply`, the script only logs or writes the audit report results.
 - When `--apply` is supplied, it edits each organization file by removing unsupported topics and appending new ones suggested by the audit, keeping the list sorted and unique.
 - Includes up to `--max-posts` (default 5) of the organization's recent `_posts/` content in the LLM prompt.
+
+### `bin/mayhem check-integrity`
+
+#### Purpose
+
+Runs the site integrity test suite (front matter, generated HTML/JSON/JS validation, and other content checks) outside the main mayhem unit tests.
+
+#### Usage
+
+- `bin/mayhem check-integrity [minitest options]`
+
+#### Behavior notes
+
+- Automatically builds the site before executing the checks.
+- Passes provided arguments straight through to Minitest (e.g., `--name`, `--seed`).
+- Respects `RUN_EXPENSIVE_TESTS` to opt into the HTML5 validator checks.
 
 ### `bin/mayhem check-source-urls`
 
