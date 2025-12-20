@@ -28,16 +28,16 @@
           {% if caption_text == checksum_value %}
             {% assign caption_text = '' %}
           {% endif %}
-          {% assign alt_text = image_doc.data.alt | default: image_doc.data.alt_text | default: caption_text | default: image_doc.source | default: 'Image' %}
+          {% assign organization_title = image_doc.data.organization_title | default: image_doc.organization_title | to_s | strip %}
+          {% assign alt_text = image_doc.data.alt | default: image_doc.data.alt_text | default: caption_text | default: organization_title | default: 'Image' %}
           {% assign alt_text = alt_text | to_s | strip %}
           {% if alt_text == '' or alt_text == checksum_value %}
             {% assign alt_text = 'Image' %}
           {% endif %}
-          {% assign source_name = image_doc.source | to_s | strip %}
           {% assign source_url = image_doc.source_url %}
           {% assign caption_source_org = nil %}
-          {% if source_name %}
-            {% assign caption_source_org = site.organizations | where: "title", source_name | first %}
+          {% if organization_title %}
+            {% assign caption_source_org = site.organizations | where: "title", organization_title | first %}
           {% endif %}
           {% assign image_checksum = image_doc.data.checksum | default: image_doc.checksum | default: '' | strip %}
           {% assign associated_posts = site.posts | where_exp: "post", "post.images and post.images contains image_checksum" %}
@@ -65,7 +65,7 @@
         {% if forloop.first %}
           {% assign first_flag_span = image_flag_span %}
         {% endif %}
-        {% assign has_caption_content = caption_text or (carousel_show_source and (source_name or source_url)) or (associated_posts and associated_posts.size > 0) %}
+        {% assign has_caption_content = caption_text or (carousel_show_source and (organization_title or source_url)) or (associated_posts and associated_posts.size > 0) %}
           <figure class="media-carousel-slide" data-carousel-slide data-carousel-index="{{ current_index }}">
             <img src="{{ image_url | relative_url }}" alt="{{ alt_text | escape }}" loading="{% if current_index == 0 %}eager{% else %}lazy{% endif %}">
             {% if has_caption_content %}
@@ -73,15 +73,15 @@
                 {% if caption_text %}
                   <span class="media-carousel-caption-text">{{ caption_text | escape }}</span>
                 {% endif %}
-                {% if carousel_show_source and (source_name or source_url) %}
+                {% if carousel_show_source and (organization_title or source_url) %}
                   <span class="media-carousel-caption-source">
-                    {% if source_name %}<span class="media-carousel-caption-label">Source:</span> {% endif %}
+                    {% if organization_title %}<span class="media-carousel-caption-label">Source:</span> {% endif %}
                     {% if caption_source_org %}
-                      <a href="{{ caption_source_org.url | relative_url }}">{{ source_name }}</a>
+                      <a href="{{ caption_source_org.url | relative_url }}">{{ organization_title }}</a>
                     {% elsif source_url %}
-                      <a href="{{ source_url }}" rel="noopener noreferrer">{{ source_name | default: source_url | escape }}</a>
-                    {% elsif source_name %}
-                      {{ source_name | escape }}
+                      <a href="{{ source_url }}" rel="noopener noreferrer">{{ organization_title | default: source_url | escape }}</a>
+                    {% elsif organization_title %}
+                      {{ organization_title | escape }}
                     {% else %}
                       <a href="{{ source_url }}" rel="noopener noreferrer">{{ source_url }}</a>
                     {% endif %}
