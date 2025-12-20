@@ -8,7 +8,7 @@ require 'yaml'
 require_relative '../test_helper'
 
 class ImageDocumentsTest < Minitest::Test
-  REQUIRED_FIELDS = %w[checksum date image_url source source_url title].freeze
+  REQUIRED_FIELDS = %w[checksum date image_url organization_title source_url title].freeze
   CHECKSUM_REGEX = /\A[0-9a-f]{64}\z/
   IMAGE_EXTENSIONS = %w[
     .avif .bmp .gif .heic .jpeg .jpg .png .svg .tif .tiff .webp
@@ -104,12 +104,12 @@ class ImageDocumentsTest < Minitest::Test
     assert_empty errors, errors.join("\n")
   end
 
-  def test_source_matches_an_organization_title
+  def test_organization_title_matches_an_organization_title
     errors = @image_docs.filter_map do |doc|
-      source = doc[:data]['source']
-      next if source && @organization_titles.include?(source)
+      organization_title = doc[:data]['organization_title']
+      next if organization_title && @organization_titles.include?(organization_title)
 
-      "#{relative_path(doc[:path])}: source must match an organization title"
+      "#{relative_path(doc[:path])}: organization_title must match an organization title"
     end
 
     assert_empty errors, errors.join("\n")
