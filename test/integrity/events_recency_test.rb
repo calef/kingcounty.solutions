@@ -3,6 +3,7 @@
 require 'time'
 require 'yaml'
 require_relative '../test_helper'
+require 'mayhem/events/stale_event_cleaner'
 
 class EventsRecencyTest < Minitest::Test
   def setup
@@ -10,17 +11,21 @@ class EventsRecencyTest < Minitest::Test
   end
 
   def test_events_are_not_in_the_past
-    today_utc = Time.now.utc.to_date
-    yesterday = today_utc - 1
+    cutoff_date = Mayhem::Events::StaleEventCleaner.cutoff_date(Time.now)
     errors = []
 
     events.each do |doc|
-      start_time = parse_start_time(doc[:data]['start_date'], doc[:path], errors)
+      start_time = parse_time(doc[:data]['start_date'], doc[:path], 'start_date', errors, required: true)
       next unless start_time
-      event_date = start_time.utc.to_date
-      next unless event_date < yesterday
+      end_time = parse_time(doc[:data]['end_date'], doc[:path], 'end_date', errors, required: false)
+      next unless Mayhem::Events::StaleEventCleaner.stale?(
+        start_time: start_time,
+        end_time: end_time,
+        cutoff_date: cutoff_date
+      )
 
-      errors << "#{doc[:path]} start_date #{start_time.utc.iso8601} is earlier than #{yesterday}"
+      window_end = (end_time || start_time).utc.iso8601
+      errors << "#{doc[:path]} ends at #{window_end} which is earlier than #{cutoff_date}"
     end
 
     assert_empty errors, "Remove or update events scheduled before yesterday:\n#{errors.join("\n")}"
@@ -51,9 +56,9 @@ class EventsRecencyTest < Minitest::Test
     raise "Failed to parse #{path}: #{e.message}"
   end
 
-  def parse_start_time(value, path, errors)
+  def parse_time(value, path, field_name, errors, required:)
     if value.nil? || (value.respond_to?(:empty?) && value.empty?)
-      errors << "#{path} missing required start_date"
+      errors << "#{path} missing required #{field_name}" if required
       return nil
     end
 
@@ -71,7 +76,7 @@ class EventsRecencyTest < Minitest::Test
 
     timestamp
   rescue ArgumentError
-    errors << "#{path} has invalid start_date '#{value}'"
+    errors << "#{path} has invalid #{field_name} '#{value}'"
     nil
   end
 end
