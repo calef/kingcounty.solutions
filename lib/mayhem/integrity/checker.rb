@@ -14,7 +14,7 @@ module Mayhem
             return false
           end
 
-          run_tests(args)
+          return run_tests(args)
         end
       end
 
