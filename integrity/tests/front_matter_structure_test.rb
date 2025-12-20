@@ -2,7 +2,7 @@
 
 require 'logger'
 require 'pathname'
-require_relative '../../test_helper'
+require_relative '../test_helper'
 require 'mayhem/front_matter/tidier'
 
 class FrontMatterStructureTest < Minitest::Test
