@@ -1,61 +1,57 @@
 ---
-end_date: '2025-12-22T14:00:00-08:00'
+end_date: '2025-12-26T16:00:00-08:00'
 feed_content: '<div> <div> <section> <title>WorkSource Seattle-King County</title>
-  <script>{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/","url":"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/","name":"Spanish
-  Speakers only_Curriculum Vitae - EN L&#205;NEA R&#233;sum&#233; and Cover Letter
-  - WorkSource Seattle-King County","isPartOf":{"@id":"https://www.worksourceskc.org/#website"},"datePublished":"2025-11-25T21:45:03+00:00","description":"Este
-  taller te ensenara sobre c&#243;mo crear un curr&#237;culum vitae (CV) profesional
-  y efectivo. Explica los principales modelos de CV, las claves para","breadcrumb":{"@id":"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/"]}]},{"@type":"BreadcrumbList","@id":"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"Spanish
-  Speakers only_Curriculum Vitae &#8211; EN L&#205;NEA R&#233;sum&#233; and Cover
-  Letter"}]},{"@type":"WebSite","@id":"https://www.worksourceskc.org/#website","url":"https://www.worksourceskc.org/","name":"WorkSource
+  <script>{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://worksourceskc.org/event/cancelled-your-next-employment-opportunity-job-club-virtual-112/","url":"https://worksourceskc.org/event/cancelled-your-next-employment-opportunity-job-club-virtual-112/","name":"CANCELLED
+  - Your Next Employment Opportunity - Job Club - Virtual - WorkSource Seattle-King
+  County","isPartOf":{"@id":"https://www.worksourceskc.org/#website"},"datePublished":"2025-12-14T04:51:35+00:00","dateModified":"2025-12-20T10:34:54+00:00","description":"Take
+  advantage of this opportunity to network with other job seekers, share your victories
+  and your challenges. Each week you will participate in a","breadcrumb":{"@id":"https://worksourceskc.org/event/cancelled-your-next-employment-opportunity-job-club-virtual-112/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://worksourceskc.org/event/cancelled-your-next-employment-opportunity-job-club-virtual-112/"]}]},{"@type":"BreadcrumbList","@id":"https://worksourceskc.org/event/cancelled-your-next-employment-opportunity-job-club-virtual-112/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"CANCELLED
+  &#8211; Your Next Employment Opportunity &#8211; Job Club &#8211; Virtual"}]},{"@type":"WebSite","@id":"https://www.worksourceskc.org/#website","url":"https://www.worksourceskc.org/","name":"WorkSource
   Seattle-King County","description":"Let&#039;s find your path together!","publisher":{"@id":"https://www.worksourceskc.org/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.worksourceskc.org/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://www.worksourceskc.org/#organization","name":"WorkSource
   Seattle-King County","url":"https://www.worksourceskc.org/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.worksourceskc.org/#/schema/logo/image/","url":"","contentUrl":"","caption":"WorkSource
-  Seattle-King County"},"image":{"@id":"https://www.worksourceskc.org/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/worksourceskc/"]},{"@type":"Event","name":"Spanish
-  Speakers only_Curriculum Vitae &#8211; EN L&#205;NEA R&#233;sum&#233; and Cover
-  Letter","description":"Este taller te ensenara sobre c&#243;mo crear un curr&#237;culum
-  vitae (CV) profesional y efectivo. Explica los principales modelos de CV,&hellip;","url":"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2025-12-22T13:00:00-08:00","endDate":"2025-12-22T14:00:00-08:00","@id":"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/#event","mainEntityOfPage":{"@id":"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/"}}]}</script>
-  <title>Spanish Speakers only_Curriculum Vitae – EN LÍNEA Résumé and Cover Letter
-  – WorkSource Seattle-King County</title> <a>Skip to main content</a> <header> <div>
-  <div> <div> <div> <div> <ul> <li><a>Job Board</a></li> </ul> <ul> <li> <a>Staff
-  Log-In</a> </li> </ul> </div> </div> <div> <ul> <li> <a>Job Seekers</a> <ul> <li>
-  <a>Get Started with Personalized Support</a> <ul> <li><a>Sign Up for Services</a></li>
-  <li><a>Layoff Support</a></li> </ul> </li> <li> <a>Self-Serve Resources</a> <ul>
-  <li><a>Career Exploration</a></li> <li><a>Skills &amp; Training</a></li> <li><a>Job
-  Search</a></li> </ul> </li> <li><a>Workshops &amp; Hiring Events</a></li> </ul>
-  </li> <li> <a>Employers</a> <ul> <li> <a>Business Services</a> <ul> <li><a>Employer
-  Inquiry Form</a></li> <li><a>Business Connection Partners</a></li> <li><a>Business
-  Assistance &amp; Workforce Support</a></li> <li><a>Small-Business Assistance</a></li>
-  <li><a>Employee Development</a></li> </ul> </li> <li><a>Layoff Support, Aversion
-  and Retention</a></li> </ul> </li> <li> <a>Locations</a> <ul> <li><a>Auburn</a></li>
-  <li><a>Downtown Seattle</a></li> <li><a>North Seattle</a></li> <li><a>Rainier</a></li>
-  <li><a>South Seattle</a></li> </ul> </li> <li><a>About</a></li> </ul> </div> </div>
-  </div> </div> </header> <div> <section> <div> <div> <div> <a>Go to Back to Calendar
-  </a> <h1>Spanish Speakers only_Curriculum Vitae – EN LÍNEA Résumé and Cover Letter</h1>
-  <div><p><strong>December 22</strong> Monday | 1:00pm - 2:00pm</p></div> <div> <a>Add
-  to Calendar</a> <span>December 22 1:00pm</span> <span>12/22/2025 2:00pm</span> <span>America/Los_Angeles</span>
-  <span>Spanish Speakers only_Curriculum Vitae – EN LÍNEA Résumé and Cover Letter</span>
-  <span>Este taller te ensenara sobre cómo crear un currículum vitae (CV) profesional
-  y efectivo. Explica los principales modelos de CV,…</span> </div> <div><p>Location:Reunión
-  en línea de Zoom La información del enlace y de la reunión se compartirá por correo
-  electrónico como mínimo 1 hora antes de que comience el taller en línea.</p></div>
-  <p><strong>Contact Name: </strong>Lama Salameh</p> <p><strong>Contact Email: </strong><a>lama@tracassoc.com</a></p>
-  <p><strong>Workshop Language: </strong>Spanish</p> <p><strong>Event Registration:
-  </strong>Sign Up Required</p> <p><a>Sign Up</a></p> <p><strong>Approved Unemployment
-  Insurance (UI) Job Search Activity:</strong> Yes</p> <p><strong>Additional Info:</strong></p>
-  <p>El cliente tendrá que registrarse en WorkSourceWA.com antes de la clase. Este
-  taller se ofrece en línea a través de las reuniones de Zoom.               Cuando
-  se registra en este evento, usa el mismo nombre y dirección de correo electrónico
-  que usa con la cuenta de worksourcewa.com.</p>Si necesita alojamiento para participar
-  en esta capacitación, comuníquese con el facilitador del taller. Indique su nombre,
-  la solicitud de alojamiento y su ciudad de residencia. Envíe su solicitud de alojamiento
-  lo antes posible para que podamos hacer los arreglos necesarios. <strong>Description:</strong><p>Este
-  taller te ensenara sobre cómo crear un currículum vitae (CV) profesional y efectivo.
-  Explica los principales modelos de CV, las claves para su creación, la estructura
-  recomendada, consejos para mejorarlo y errores comunes a evitar. Además, menciona
-  herramientas y plantillas útiles para elaborar CVs impactantes. No te lo pierdas,
-  sera una via muy util para incorporarte al mundo laboral.</p> </div> </div> </div>
-  </section> </div> </section> </div> </div>'
-feed_content_checksum: 301d714b3bbf45eebd605f738e1fbe8d6226733b
+  Seattle-King County"},"image":{"@id":"https://www.worksourceskc.org/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/worksourceskc/"]},{"@type":"Event","name":"CANCELLED
+  &#8211; Your Next Employment Opportunity &#8211; Job Club &#8211; Virtual","description":"Take
+  advantage of this opportunity to network with other job seekers, share your victories
+  and your challenges. Each week you&hellip;","url":"https://worksourceskc.org/event/cancelled-your-next-employment-opportunity-job-club-virtual-112/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2025-12-26T14:00:00-08:00","endDate":"2025-12-26T16:00:00-08:00","@id":"https://worksourceskc.org/event/cancelled-your-next-employment-opportunity-job-club-virtual-112/#event","mainEntityOfPage":{"@id":"https://worksourceskc.org/event/cancelled-your-next-employment-opportunity-job-club-virtual-112/"}}]}</script>
+  <title>CANCELLED – Your Next Employment Opportunity – Job Club – Virtual – WorkSource
+  Seattle-King County</title> <a>Skip to main content</a> <header> <div> <div> <div>
+  <div> <div> <ul> <li><a>Job Board</a></li> </ul> <ul> <li> <a>Staff Log-In</a> </li>
+  </ul> </div> </div> <div> <ul> <li> <a>Job Seekers</a> <ul> <li> <a>Get Started
+  with Personalized Support</a> <ul> <li><a>Sign Up for Services</a></li> <li><a>Layoff
+  Support</a></li> </ul> </li> <li> <a>Self-Serve Resources</a> <ul> <li><a>Career
+  Exploration</a></li> <li><a>Skills &amp; Training</a></li> <li><a>Job Search</a></li>
+  </ul> </li> <li><a>Workshops &amp; Hiring Events</a></li> </ul> </li> <li> <a>Employers</a>
+  <ul> <li> <a>Business Services</a> <ul> <li><a>Employer Inquiry Form</a></li> <li><a>Business
+  Connection Partners</a></li> <li><a>Business Assistance &amp; Workforce Support</a></li>
+  <li><a>Small-Business Assistance</a></li> <li><a>Employee Development</a></li> </ul>
+  </li> <li><a>Layoff Support, Aversion and Retention</a></li> </ul> </li> <li> <a>Locations</a>
+  <ul> <li><a>Auburn</a></li> <li><a>Downtown Seattle</a></li> <li><a>North Seattle</a></li>
+  <li><a>Rainier</a></li> <li><a>South Seattle</a></li> </ul> </li> <li><a>About</a></li>
+  </ul> </div> </div> </div> </div> </header> <div> <section> <div> <div> <div> <a>Go
+  to Back to Calendar </a> <h1>CANCELLED – Your Next Employment Opportunity – Job
+  Club – Virtual</h1> <div><p><strong>December 26</strong> Friday | 2:00pm - 4:00pm</p></div>
+  <div> <a>Add to Calendar</a> <span>December 26 2:00pm</span> <span>12/26/2025 4:00pm</span>
+  <span>America/Los_Angeles</span> <span>CANCELLED – Your Next Employment Opportunity
+  – Job Club – Virtual</span> <span>Take advantage of this opportunity to network
+  with other job seekers, share your victories and your challenges. Each week you…</span>
+  </div> <div><p>Virtual using Zoom. If you do not believe you received a Zoom link
+  please check your SPAM email folder.</p></div> <p><strong>Room: </strong>Zoom</p>
+  <p><strong>Contact Name: </strong>Ray Keevy</p> <p><strong>Contact Phone: </strong>509-758-5461</p>
+  <p><strong>Contact Email: </strong><a>raymond.keevy@esd.wa.gov</a></p> <p><strong>Workshop
+  Language: </strong>English</p> <p><strong>Event Registration: </strong>Sign Up Required</p>
+  <p><a>Sign Up</a></p> <p><strong>Approved Unemployment Insurance (UI) Job Search
+  Activity:</strong> Yes</p> <p><strong>Additional Info:</strong></p> <p>Please go
+  to <a>WorkSourceWA.com</a> and create your account prior to attending this workshop.
+  If you have trouble creating your account please view the video at <a>Create Your
+  Account</a>.Registrations received less than 24 hours prior to the workshop may
+  not be included </p> <strong>Description:</strong><p>Take advantage of this opportunity
+  to network with other job seekers, share your victories and your challenges. Each
+  week you will participate in a facilitated group discussion focused on topics related
+  to effectively securing your next job. Part of the conversation will address one
+  of the components of the “Success Mindset”. The Success Mindset will give you an
+  advantage over the competition with similar skills, knowledge, and experience. </p>
+  </div> </div> </div> </section> </div> </section> </div> </div>'
+feed_content_checksum: 51a2e7f38780a16acd21754ad69b4b8e3c61dfd6
 images: []
 location: ''
 locations:
@@ -67,35 +63,34 @@ original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta c
   />\n\t<style>img:is([sizes=\"auto\" i], [sizes^=\"auto,\" i]) { contain-intrinsic-size:
   3000px 1500px }</style>\n\t\n\t<!-- This site is optimized with the Yoast SEO plugin
   v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n\t<meta name=\"description\"
-  content=\"Este taller te ensenara sobre c&#243;mo crear un curr&#237;culum vitae
-  (CV) profesional y efectivo. Explica los principales modelos de CV, las claves para\"
-  />\n\t<link rel=\"canonical\" href=\"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/\"
+  content=\"Take advantage of this opportunity to network with other job seekers,
+  share your victories and your challenges. Each week you will participate in a\"
+  />\n\t<link rel=\"canonical\" href=\"https://worksourceskc.org/event/cancelled-your-next-employment-opportunity-job-club-virtual-112/\"
   />\n\t<meta property=\"og:locale\" content=\"en_US\" />\n\t<meta property=\"og:type\"
-  content=\"article\" />\n\t<meta property=\"og:title\" content=\"Spanish Speakers
-  only_Curriculum Vitae - EN L&#205;NEA R&#233;sum&#233; and Cover Letter - WorkSource
-  Seattle-King County\" />\n\t<meta property=\"og:description\" content=\"Este taller
-  te ensenara sobre c&#243;mo crear un curr&#237;culum vitae (CV) profesional y efectivo.
-  Explica los principales modelos de CV, las claves para\" />\n\t<meta property=\"og:url\"
-  content=\"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/\"
+  content=\"article\" />\n\t<meta property=\"og:title\" content=\"CANCELLED - Your
+  Next Employment Opportunity - Job Club - Virtual - WorkSource Seattle-King County\"
+  />\n\t<meta property=\"og:description\" content=\"Take advantage of this opportunity
+  to network with other job seekers, share your victories and your challenges. Each
+  week you will participate in a\" />\n\t<meta property=\"og:url\" content=\"https://worksourceskc.org/event/cancelled-your-next-employment-opportunity-job-club-virtual-112/\"
   />\n\t<meta property=\"og:site_name\" content=\"WorkSource Seattle-King County\"
   />\n\t<meta property=\"article:publisher\" content=\"https://www.facebook.com/worksourceskc/\"
+  />\n\t<meta property=\"article:modified_time\" content=\"2025-12-20T10:34:54+00:00\"
   />\n\t<meta name=\"twitter:card\" content=\"summary_large_image\" />\n\t<script
-  type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/\",\"url\":\"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/\",\"name\":\"Spanish
-  Speakers only_Curriculum Vitae - EN L&#205;NEA R&#233;sum&#233; and Cover Letter
-  - WorkSource Seattle-King County\",\"isPartOf\":{\"@id\":\"https://www.worksourceskc.org/#website\"},\"datePublished\":\"2025-11-25T21:45:03+00:00\",\"description\":\"Este
-  taller te ensenara sobre c&#243;mo crear un curr&#237;culum vitae (CV) profesional
-  y efectivo. Explica los principales modelos de CV, las claves para\",\"breadcrumb\":{\"@id\":\"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.worksourceskc.org/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Events\",\"item\":\"https://worksourceskc.org/events_list/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Spanish
-  Speakers only_Curriculum Vitae &#8211; EN L&#205;NEA R&#233;sum&#233; and Cover
-  Letter\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://www.worksourceskc.org/#website\",\"url\":\"https://www.worksourceskc.org/\",\"name\":\"WorkSource
+  type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://worksourceskc.org/event/cancelled-your-next-employment-opportunity-job-club-virtual-112/\",\"url\":\"https://worksourceskc.org/event/cancelled-your-next-employment-opportunity-job-club-virtual-112/\",\"name\":\"CANCELLED
+  - Your Next Employment Opportunity - Job Club - Virtual - WorkSource Seattle-King
+  County\",\"isPartOf\":{\"@id\":\"https://www.worksourceskc.org/#website\"},\"datePublished\":\"2025-12-14T04:51:35+00:00\",\"dateModified\":\"2025-12-20T10:34:54+00:00\",\"description\":\"Take
+  advantage of this opportunity to network with other job seekers, share your victories
+  and your challenges. Each week you will participate in a\",\"breadcrumb\":{\"@id\":\"https://worksourceskc.org/event/cancelled-your-next-employment-opportunity-job-club-virtual-112/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://worksourceskc.org/event/cancelled-your-next-employment-opportunity-job-club-virtual-112/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://worksourceskc.org/event/cancelled-your-next-employment-opportunity-job-club-virtual-112/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.worksourceskc.org/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Events\",\"item\":\"https://worksourceskc.org/events_list/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"CANCELLED
+  &#8211; Your Next Employment Opportunity &#8211; Job Club &#8211; Virtual\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://www.worksourceskc.org/#website\",\"url\":\"https://www.worksourceskc.org/\",\"name\":\"WorkSource
   Seattle-King County\",\"description\":\"Let&#039;s find your path together!\",\"publisher\":{\"@id\":\"https://www.worksourceskc.org/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://www.worksourceskc.org/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https://www.worksourceskc.org/#organization\",\"name\":\"WorkSource
   Seattle-King County\",\"url\":\"https://www.worksourceskc.org/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://www.worksourceskc.org/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"WorkSource
-  Seattle-King County\"},\"image\":{\"@id\":\"https://www.worksourceskc.org/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/worksourceskc/\"]},{\"@type\":\"Event\",\"name\":\"Spanish
-  Speakers only_Curriculum Vitae &#8211; EN L&#205;NEA R&#233;sum&#233; and Cover
-  Letter\",\"description\":\"Este taller te ensenara sobre c&#243;mo crear un curr&#237;culum
-  vitae (CV) profesional y efectivo. Explica los principales modelos de CV,&hellip;\",\"url\":\"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/\",\"eventAttendanceMode\":\"https://schema.org/OfflineEventAttendanceMode\",\"eventStatus\":\"https://schema.org/EventScheduled\",\"startDate\":\"2025-12-22T13:00:00-08:00\",\"endDate\":\"2025-12-22T14:00:00-08:00\",\"@id\":\"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/#event\",\"mainEntityOfPage\":{\"@id\":\"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/\"}}]}</script>\n\t<!--
-  / Yoast SEO plugin. -->\n\n\n<title>Spanish Speakers only_Curriculum Vitae - EN
-  L&#205;NEA R&#233;sum&#233; and Cover Letter - WorkSource Seattle-King County</title>\n<link
-  rel='dns-prefetch' href='//worksourceskc.org' />\n<link rel='dns-prefetch' href='//connect.facebook.net'
+  Seattle-King County\"},\"image\":{\"@id\":\"https://www.worksourceskc.org/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/worksourceskc/\"]},{\"@type\":\"Event\",\"name\":\"CANCELLED
+  &#8211; Your Next Employment Opportunity &#8211; Job Club &#8211; Virtual\",\"description\":\"Take
+  advantage of this opportunity to network with other job seekers, share your victories
+  and your challenges. Each week you&hellip;\",\"url\":\"https://worksourceskc.org/event/cancelled-your-next-employment-opportunity-job-club-virtual-112/\",\"eventAttendanceMode\":\"https://schema.org/OfflineEventAttendanceMode\",\"eventStatus\":\"https://schema.org/EventScheduled\",\"startDate\":\"2025-12-26T14:00:00-08:00\",\"endDate\":\"2025-12-26T16:00:00-08:00\",\"@id\":\"https://worksourceskc.org/event/cancelled-your-next-employment-opportunity-job-club-virtual-112/#event\",\"mainEntityOfPage\":{\"@id\":\"https://worksourceskc.org/event/cancelled-your-next-employment-opportunity-job-club-virtual-112/\"}}]}</script>\n\t<!--
+  / Yoast SEO plugin. -->\n\n\n<title>CANCELLED - Your Next Employment Opportunity
+  - Job Club - Virtual - WorkSource Seattle-King County</title>\n<link rel='dns-prefetch'
+  href='//worksourceskc.org' />\n<link rel='dns-prefetch' href='//connect.facebook.net'
   />\n<link rel='dns-prefetch' href='//static.addtoany.com' />\n<link rel='dns-prefetch'
   href='//ajax.googleapis.com' />\n<link rel='dns-prefetch' href='//maps.googleapis.com'
   />\n<link rel='dns-prefetch' href='//www.googletagmanager.com' />\n<link rel='dns-prefetch'
@@ -106,8 +101,8 @@ original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta c
   />\n<link rel=\"alternate\" type=\"text/calendar\" title=\"WorkSource Seattle-King
   County &raquo; iCal Feed\" href=\"https://worksourceskc.org/events_list/?ical=1\"
   />\n<link rel=\"alternate\" type=\"application/rss+xml\" title=\"WorkSource Seattle-King
-  County &raquo; Spanish Speakers only_Curriculum Vitae &#8211; EN L&#205;NEA R&#233;sum&#233;
-  and Cover Letter Comments Feed\" href=\"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/feed/\"
+  County &raquo; CANCELLED &#8211; Your Next Employment Opportunity &#8211; Job Club
+  &#8211; Virtual Comments Feed\" href=\"https://worksourceskc.org/event/cancelled-your-next-employment-opportunity-job-club-virtual-112/feed/\"
   />\n\t\t<!-- This site uses the Google Analytics by MonsterInsights plugin v8.7.0
   - Using Analytics tracking - https://www.monsterinsights.com/ -->\n\t\t\t\t\t\t\t<script
   src=\"//www.googletagmanager.com/gtag/js?id=G-LT415XR2H3\"  data-cfasync=\"false\"
@@ -204,18 +199,18 @@ original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta c
   :where(p.has-background){padding:1.25em 2.375em}:where(p.has-text-color:not(.has-link-color))
   a{color:inherit}p.has-text-align-left[style*=\"writing-mode:vertical-lr\"],p.has-text-align-right[style*=\"writing-mode:vertical-rl\"]{rotate:180deg}\n</style>\n<link
   rel=\"https://api.w.org/\" href=\"https://worksourceskc.org/wp-json/\" /><link rel=\"alternate\"
-  title=\"JSON\" type=\"application/json\" href=\"https://worksourceskc.org/wp-json/wp/v2/tribe_events/362592\"
+  title=\"JSON\" type=\"application/json\" href=\"https://worksourceskc.org/wp-json/wp/v2/tribe_events/393688\"
   /><link rel=\"EditURI\" type=\"application/rsd+xml\" title=\"RSD\" href=\"https://worksourceskc.org/xmlrpc.php?rsd\"
-  />\n<link rel='shortlink' href='https://worksourceskc.org/?p=362592' />\n<link rel=\"alternate\"
-  title=\"oEmbed (JSON)\" type=\"application/json+oembed\" href=\"https://worksourceskc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fworksourceskc.org%2Fevent%2Fspanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077%2F\"
-  />\n<link rel=\"alternate\" title=\"oEmbed (XML)\" type=\"text/xml+oembed\" href=\"https://worksourceskc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fworksourceskc.org%2Fevent%2Fspanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077%2F&#038;format=xml\"
+  />\n<link rel='shortlink' href='https://worksourceskc.org/?p=393688' />\n<link rel=\"alternate\"
+  title=\"oEmbed (JSON)\" type=\"application/json+oembed\" href=\"https://worksourceskc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fworksourceskc.org%2Fevent%2Fcancelled-your-next-employment-opportunity-job-club-virtual-112%2F\"
+  />\n<link rel=\"alternate\" title=\"oEmbed (XML)\" type=\"text/xml+oembed\" href=\"https://worksourceskc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fworksourceskc.org%2Fevent%2Fcancelled-your-next-employment-opportunity-job-club-virtual-112%2F&#038;format=xml\"
   />\n<script type=\"text/javascript\" src=\"https://www.bugherd.com/sidebarv2.js?apikey=kzhpjsbdgxin5llwmvzeeg\"
   async=\"true\"></script><!-- Custom Facebook Feed JS vars -->\n<script type=\"text/javascript\">\nvar
   cffsiteurl = \"https://worksourceskc.org/wp-content/plugins\";\nvar cffajaxurl =
   \"https://worksourceskc.org/wp-admin/admin-ajax.php\";\n\n\nvar cfflinkhashtags
   = \"false\";\n</script>\n<meta name=\"generator\" content=\"Site Kit by Google 1.153.0\"
   /><meta name=\"tec-api-version\" content=\"v1\"><meta name=\"tec-api-origin\" content=\"https://worksourceskc.org\"><link
-  rel=\"alternate\" href=\"https://worksourceskc.org/wp-json/tribe/events/v1/events/362592\"
+  rel=\"alternate\" href=\"https://worksourceskc.org/wp-json/tribe/events/v1/events/393688\"
   /><script type=\"importmap\" id=\"wp-importmap\">\n{\"imports\":{\"@wordpress\\/interactivity\":\"https:\\/\\/worksourceskc.org\\/wp-includes\\/js\\/dist\\/script-modules\\/interactivity\\/index.min.js?ver=55aebb6e0a16726baffb\"}}\n</script>\n<script
   type=\"module\" src=\"https://worksourceskc.org/wp-includes/js/dist/script-modules/block-library/navigation/view.min.js?ver=61572d447d60c0aa5240\"
   id=\"@wordpress/block-library/navigation/view-js-module\"></script>\n<link rel=\"modulepreload\"
@@ -248,13 +243,15 @@ original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta c
   0;.add-to-cart-quantity{padding:8px 0 8px 8px;background:#eaeaea;width:32px;border-radius:4px
   0 0 4px;height:18px;min-height:unset;display:inline-block;font-size:13px;line-height:normal}.add-to-cart-button{padding:8px;border-radius:4px;background:#6246d7;color:white;height:18px;min-height:unset;display:block;text-align:center;min-width:90px;font-size:13px;line-height:normal;&.add-to-cart-variable{border-radius:4px}&.loading{content:url(\"data:image/svg+xml,%3Csvg
   width='38' height='38' viewBox='0 0 38 38' xmlns='http://www.w3.org/2000/svg' stroke='%23fff'%3E%3Cg
-  fill='none' fill-rule='evenodd'%3E%3Cg transform='translate(1 1)"
-source_url: https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/
-start_date: '2025-12-22T13:00:00-08:00'
+  fill='none' fill-rule='evenodd'%3E%3Cg transform='translate(1 1)' stroke-width='2'%3E%3Ccircle
+  stroke-opacity='.5' cx='18' cy='18' r='18'/%3E%3Cpath d='M36 18c0-9.94-8.06-18-18-18'%3E%3CanimateTransform
+  attri"
+source_url: https://worksourceskc.org/event/cancelled-your-next-employment-opportunity-job-club-virtual-112/
+start_date: '2025-12-26T14:00:00-08:00'
 summarized: true
-title: Spanish Speakers only_Curriculum Vitae - EN LÍNEA Résumé and Cover Letter
+title: CANCELLED - Your Next Employment Opportunity - Job Club - Virtual
 topics:
 - Employment & Job Support
 ---
 
-Join WorkSource Seattle-King County for a Spanish-speaking workshop focused on creating effective résumés and cover letters. Attendees will learn essential tips and strategies to enhance their job application materials, tailored specifically for Spanish speakers. This event will take place on Dec. 22, 2025, starting at 1 p.m. Participants can expect an interactive session that will help them stand out in the job market. Don't miss this opportunity to improve your professional documents and boost your career prospects.
+The "Your Next Employment Opportunity - Job Club" event, hosted by WorkSource Seattle-King County, has been cancelled. This virtual job club was scheduled to take place on December 26, 2025, at 2 p.m. PST. Attendees were expected to network, share job search strategies, and gain insights into employment opportunities. While this event will not occur, those seeking employment resources are encouraged to explore other available programs and services through WorkSource Seattle-King County.
