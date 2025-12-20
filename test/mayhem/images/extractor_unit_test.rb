@@ -60,7 +60,7 @@ class ImageExtractorUnitTest < Minitest::Test
     assert_match(%r{/#{Regexp.escape(filename)}\z}, doc.front_matter['image_url'])
     assert_equal original_url, doc.front_matter['source_url']
     assert_equal 'Alt', doc.front_matter['title']
-    assert_equal frontmatter['source'], doc.front_matter['source']
+    assert_equal frontmatter['source'], doc.front_matter['organization_title']
   end
 
   def test_run_skips_unsummarized_posts
