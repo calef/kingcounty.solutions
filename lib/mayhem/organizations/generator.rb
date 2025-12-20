@@ -116,10 +116,10 @@ module Mayhem
           doc = Mayhem::FrontMatter::Document.load(path, logger: @logger)
           next unless doc
 
-          website = doc.front_matter['website_url']
-          next unless website
+          website_url = doc.front_matter['website_url']
+          next unless website_url
 
-          set << normalize_url(website)
+          set << normalize_url(website_url)
         end
       end
 
