@@ -9,7 +9,7 @@ begin
   require 'bundler/setup'
 rescue LoadError => e
   warn "Bundler not available: #{e.message}"
-  warn 'Install dependencies with `script/bootstrap` or run via `bundle exec`.'
+  warn 'Install dependencies with `script/bootstrap`.'
 end
 
 require 'optparse'
@@ -153,7 +153,7 @@ module Mayhem
         if help_requested?(args)
           puts 'Usage: mayhem check-integrity [minitest options]'
           puts ''
-          puts 'Runs data integrity checks (front matter, HTML/JSON/JS validations) against the built site.'
+          puts 'Builds the site and runs data integrity checks.'
           puts 'Additional arguments are passed directly to Minitest (e.g., --name, --seed).'
           return
         end

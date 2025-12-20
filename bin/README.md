@@ -67,7 +67,7 @@ Runs the site integrity test suite (front matter, generated HTML/JSON/JS validat
 
 #### Behavior notes
 
-- Expects `_site/` to already exist; run `bundle exec jekyll build` or `./script/cibuild` beforehand.
+- Automatically builds the site before executing the checks.
 - Passes provided arguments straight through to Minitest (e.g., `--name`, `--seed`).
 - Respects `RUN_EXPENSIVE_TESTS` to opt into the HTML5 validator checks.
 
