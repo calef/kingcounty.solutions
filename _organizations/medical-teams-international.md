@@ -3,12 +3,12 @@ address: 14150 SW Milton Court, Tigard, OR 97224, USA
 email: info@medicalteams.org
 phone: "(503) 624-1000"
 title: Medical Teams International
-topics:
+topic_titles:
 - Health Care
 - Mental Health & Counseling
 - Food & Nutrition
 type: Community-Based Organization
-website: https://www.medicalteams.org/
+website_url: https://www.medicalteams.org/
 ---
 
 Medical Teams International provides medical care, strengthens health care systems, and builds communities in crisis-affected areas. Its services include treating malnutrition, delivering babies, and offering psychiatric care, ensuring that those who have been forgotten receive the help they need.

@@ -1,13 +1,13 @@
 ---
 acronym: DCHS
-parent_organization: King County
+parent_organization_title: King County
 title: Department of Community and Human Services
-topics:
+topic_titles:
 - Employment & Job Support
 - Health Care
 - Shelter & Housing
 type: Department
-website: https://kingcounty.gov/depts/community-human-services.aspx
+website_url: https://kingcounty.gov/depts/community-human-services.aspx
 ---
 
 The **Department of Community and Human Services (DCHS)** connects people, communities, and organizations to resources that support health, housing, and human potential. Key service areas include:

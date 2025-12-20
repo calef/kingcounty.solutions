@@ -1,15 +1,15 @@
 ---
 acronym: OHY
 news_rss_url: https://www.commerce.wa.gov/feed/
-parent_organization: Department of Commerce
+parent_organization_title: Department of Commerce
 title: Office of Homeless Youth
-topics:
+topic_titles:
 - Shelter & Housing
 - Education & Learning
 - Employment & Job Support
 - Mental Health & Counseling
 type: Division
-website: https://www.commerce.wa.gov/homelessness-response/ohy/
+website_url: https://www.commerce.wa.gov/homelessness-response/ohy/
 ---
 
 The **Office of Homeless Youth (OHY)** works to ensure youth and young adults have safe, stable housing and access to supportive services. It focuses on:

@@ -2,10 +2,10 @@
 address: 700 5th Ave, Suite 5800, Seattle, WA, 98104
 email: HSD_Info@seattle.gov
 news_rss_url: https://humaninterests.seattle.gov/feed/
-parent_organization: City of Seattle
+parent_organization_title: City of Seattle
 phone: "(206) 386-1001"
 title: Seattle Human Services Department
-topics:
+topic_titles:
 - Disabilities
 - Domestic Violence
 - Food & Nutrition
@@ -14,7 +14,7 @@ topics:
 - Personal & Household Needs
 - Shelter & Housing
 type: Department
-website: https://humaninterests.seattle.gov/
+website_url: https://humaninterests.seattle.gov/
 ---
 
 The Seattle Human Services Department connects people with essential resources and solutions during times of need. Services include assistance with utilities, food, housing, and support for individuals facing domestic violence, disabilities, and mental health challenges.

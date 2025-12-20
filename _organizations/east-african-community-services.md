@@ -5,11 +5,11 @@ email: info@eastafricancs.org
 news_rss_url: https://www.eastafricancs.org/feed/
 phone: "(206) 721-1119"
 title: East African Community Services
-topics:
+topic_titles:
 - Education & Learning
 - Shelter & Housing
 type: Community-Based Organization
-website: https://www.eastafricancs.org/
+website_url: https://www.eastafricancs.org/
 ---
 
 East African Community Services empowers East African immigrant and refugee families through education, mentorship, and community support. We offer programs from pre-K to 12th grade, focusing on STEM education, youth mentorship, and citizenship classes, while also working on affordable housing initiatives.

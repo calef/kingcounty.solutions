@@ -4,10 +4,10 @@ email: stpeters1@msn.com
 news_rss_url: https://stpetersumc.net/feed/
 phone: 425-747-3210
 title: St. Peter's United Methodist Church
-topics:
+topic_titles:
 - Shelter & Housing
 type: Community-Based Organization
-website: https://stpetersumc.net/
+website_url: https://stpetersumc.net/
 ---
 
 St. Peter's United Methodist Church is a neighborhood congregation in Bellevue’s Crossroads area that blends worship, small groups, and community outreach. The church hosts in-person and online Sunday services, a mix of multilingual and intergenerational gatherings, and weekly opportunities for newcomers to connect with ministry leaders. Staff and volunteers coordinate affordable housing advocacy, family support drives, and other partnerships that respond to the needs of North and South Bellevue residents.

@@ -5,11 +5,11 @@ email: administration@carenetps.org
 news_rss_url: https://carenetps.org/feed/
 phone: 253-383-6033
 title: Care Net of Puget Sound
-topics:
+topic_titles:
 - Education & Learning
 - Health Care
 type: Community-Based Organization
-website: https://carenetps.org/parenting-support/
+website_url: https://carenetps.org/parenting-support/
 ---
 
 Care Net of Puget Sound offers free, confidential support for parents, including parenting classes, material assistance, and emergency aid. Services are available from pregnancy through the child's first four years, ensuring parents receive the education and resources they need.

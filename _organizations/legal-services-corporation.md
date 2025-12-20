@@ -1,13 +1,13 @@
 ---
 acronym: LSC
-parent_organization: Federal Executive Branch
+parent_organization_title: Federal Executive Branch
 title: Legal Services Corporation
-topics:
+topic_titles:
 - Domestic Violence
 - Financial Assistance
 - Legal Aid
 type: Independent Federal Agency
-website: https://www.lsc.gov/
+website_url: https://www.lsc.gov/
 ---
 
 The **Legal Services Corporation (LSC)** is an independent federal agency that funds legal aid organizations assisting low-income Americans. It contributes to:

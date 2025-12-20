@@ -176,7 +176,7 @@ class RssImporterMethodsTest < Minitest::Test
     stats = Hash.new(0)
     item = Object.new
     @importer.stub(:item_link_url, nil) do
-      @importer.send(:process_item, item, 'Title', stats, { 'website' => 'https://example.com' })
+      @importer.send(:process_item, item, 'Title', stats, { 'website_url' => 'https://example.com' })
     end
     assert_equal 1, stats[:missing_link]
   end

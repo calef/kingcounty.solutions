@@ -6,10 +6,10 @@ events_ical_url: https://bikeworks.org/events/?ical=1
 news_rss_url: https://bikeworks.org/feed/
 phone: 206.695.2522
 title: Bike Works
-topics:
+topic_titles:
 - Transportation & Mobility
 type: Community-Based Organization
-website: https://bikeworks.org
+website_url: https://bikeworks.org
 ---
 
 Bike Works promotes the bicycle as a vehicle for change, empowering youth and building resilient communities. We offer bike education programs for youth and adults, a community bike shop, and accept bike donations to support our mission.

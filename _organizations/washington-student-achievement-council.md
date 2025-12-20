@@ -1,13 +1,13 @@
 ---
 acronym: WSAC
-parent_organization: State Executive Branch
+parent_organization_title: State Executive Branch
 title: Washington Student Achievement Council
-topics:
+topic_titles:
 - Education & Learning
 - Financial Assistance
 - Employment & Job Support
 type: Agency
-website: https://wsac.wa.gov/
+website_url: https://wsac.wa.gov/
 ---
 
 The **Washington Student Achievement Council (WSAC)** expands access to higher education and lifelong learning. Its work contributes to social services through:

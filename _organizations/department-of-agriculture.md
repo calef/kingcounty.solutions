@@ -1,13 +1,13 @@
 ---
 acronym: USDA
-parent_organization: Federal Executive Branch
+parent_organization_title: Federal Executive Branch
 title: Department of Agriculture
-topics:
+topic_titles:
 - Food & Nutrition
 - Health Care
 - Shelter & Housing
 type: Department
-website: https://www.usda.gov/
+website_url: https://www.usda.gov/
 ---
 
 The **Department of Agriculture (USDA)** supports farmers, rural communities, and food access programs. Its services connect with:

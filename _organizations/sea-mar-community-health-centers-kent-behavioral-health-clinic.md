@@ -1,12 +1,12 @@
 ---
 address: 25028 104th Ave SE, Kent, WA 98030
-parent_organization: Sea Mar Community Health Centers
+parent_organization_title: Sea Mar Community Health Centers
 phone: 206.764.8019
 title: Sea Mar Community Health Centers - Kent Behavioral Health Clinic
-topics:
+topic_titles:
 - Mental Health & Counseling
 type: Community-Based Organization
-website: https://www.seamar.org/king-bh-kent.html
+website_url: https://www.seamar.org/king-bh-kent.html
 ---
 
 Sea Mar Community Health Centers provides comprehensive mental health services, including individual and group psychotherapy, case management, and psychiatric assessments for all ages. They accept most insurance plans and offer a sliding fee scale for those without insurance, ensuring access to care regardless of the ability to pay.

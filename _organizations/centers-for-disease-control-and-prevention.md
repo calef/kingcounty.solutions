@@ -1,12 +1,12 @@
 ---
 acronym: CDC
-parent_organization: Department of Health and Human Services
+parent_organization_title: Department of Health and Human Services
 title: Centers for Disease Control and Prevention
-topics:
+topic_titles:
 - Health Care
 - Education & Learning
 type: Agency
-website: https://www.cdc.gov/
+website_url: https://www.cdc.gov/
 ---
 
 The **Centers for Disease Control and Prevention (CDC)** protects public health through research, education, and disease prevention. Its programs relate to:

@@ -4,11 +4,11 @@ email: admin@eastsidetherapists.com
 news_rss_url: https://eastsidecenterforhealing.com/feed/
 phone: 425.462.8558
 title: Eastside Center for Healing
-topics:
+topic_titles:
 - Mental Health & Counseling
 - Childcare
 type: Community-Based Organization
-website: https://eastsidecenterforhealing.com/
+website_url: https://eastsidecenterforhealing.com/
 ---
 
 Eastside Center for Healing offers individualized, trauma-informed therapy for children, teens, adults, and families. Our services include play therapy, couples therapy, and intensive outpatient programs, all tailored to meet unique emotional and behavioral challenges. We emphasize a holistic approach, integrating evidence-based practices to foster healing and growth.

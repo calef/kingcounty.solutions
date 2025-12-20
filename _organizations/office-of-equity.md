@@ -1,11 +1,11 @@
 ---
-parent_organization: State Executive Branch
+parent_organization_title: State Executive Branch
 title: Office of Equity
-topics:
+topic_titles:
 - Employment & Job Support
 - Education & Learning
 type: Agency
-website: https://equity.wa.gov/
+website_url: https://equity.wa.gov/
 ---
 
 The **Office of Equity** leads statewide efforts to promote equitable access to government services and reduce disparities by coordinating agency equity plans and community navigation support. Relevant to social services through:

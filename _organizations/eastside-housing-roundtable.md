@@ -3,10 +3,10 @@ acronym: EHR
 email: EHR@eastsidehousingrt.org
 news_rss_url: https://eastsidehousingrt.org/feed/
 title: Eastside Housing Roundtable
-topics:
+topic_titles:
 - Shelter & Housing
 type: Community-Based Organization
-website: https://eastsidehousingrt.org/
+website_url: https://eastsidehousingrt.org/
 ---
 
 The Eastside Housing Roundtable unites employers, housing developers, chambers of commerce, nonprofits, and advocates to advance coordinated affordable housing solutions across fast-growing Eastside communities. Members collaborate on evidence-based policy recommendations, align around shared housing production targets, and center equity so the benefits of the region’s growth are accessible to residents and workers at every income level.

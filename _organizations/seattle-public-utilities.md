@@ -2,15 +2,15 @@
 address: 700 5th Avenue, Suite 4900, Seattle, WA, 98104
 email: SPUCustomerService@seattle.gov
 news_rss_url: https://atyourservice.seattle.gov/feed/
-parent_organization: City of Seattle
+parent_organization_title: City of Seattle
 phone: "(206) 684-3000"
 title: Seattle Public Utilities
-topics:
+topic_titles:
 - Food & Nutrition
 - Health Care
 - Personal & Household Needs
 type: Department
-website: https://www.seattle.gov/utilities
+website_url: https://www.seattle.gov/utilities
 ---
 
 Seattle Public Utilities provides essential services, including water, sewer, and solid waste management. It offers programs for bill assistance, waste collection, and environmental protection, ensuring access to necessary utilities for all residents.

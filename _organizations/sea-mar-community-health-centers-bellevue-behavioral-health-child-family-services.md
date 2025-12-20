@@ -1,13 +1,13 @@
 ---
 address: 1811 156th Ave NE, Suite 2, Bellevue, WA 98007
-parent_organization: Sea Mar Community Health Centers
+parent_organization_title: Sea Mar Community Health Centers
 phone: 425.460.7125
 title: Sea Mar Community Health Centers - Bellevue Behavioral Health Child & Family
   Services
-topics:
+topic_titles:
 - Mental Health & Counseling
 type: Community-Based Organization
-website: https://www.seamar.org/king-bh-bellevue-family.html
+website_url: https://www.seamar.org/king-bh-bellevue-family.html
 ---
 
 Sea Mar Community Health Centers provides comprehensive mental health services, including assessments, individual and family therapy, and case management. It serves diverse communities and accepts most insurances, offering a sliding fee scale for those without insurance.

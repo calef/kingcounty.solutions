@@ -13,6 +13,10 @@ news:
   test: <tmp>
   development: "."
   production: "."
+organizations:
+  test: <tmp>
+  development: "."
+  production: "."
 topics:
   test: <tmp>
   development: "."

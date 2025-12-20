@@ -2,7 +2,7 @@
 address: 1118 Fifth Ave, Seattle, WA 98101
 phone: 206-461-4888
 title: YWCA Seattle | King | Snohomish
-topics:
+topic_titles:
 - Disabilities
 - Domestic Violence
 - Education & Learning
@@ -14,7 +14,7 @@ topics:
 - Personal & Household Needs
 - Shelter & Housing
 type: Community-Based Organization
-website: https://www.ywcaworks.org/
+website_url: https://www.ywcaworks.org/
 ---
 
 YWCA Seattle | King | Snohomish (YWCA SKS) is a regional branch of the YWCA movement focused on eliminating racism, empowering women, and advancing justice for communities across Seattle, King County, and Snohomish County. From its downtown Seattle headquarters, the organization partners with public agencies, philanthropy, and resident leaders to deliver culturally rooted services that reflect the needs of women, gender-diverse people, and families of color.
