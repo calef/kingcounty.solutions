@@ -32,8 +32,8 @@ location: Tukwila Library, 14380 Tukwila International Boulevard, Tukwila, WA, U
   States
 locations:
 - King County
+organization_title: City of Tukwila
 published: false
-source: City of Tukwila
 source_url: https://www.tukwilawa.gov/event/electric-cello-concert-with-gretchen-yanover/
 start_date: '2025-12-23T15:00:00-08:00'
 summarized: true

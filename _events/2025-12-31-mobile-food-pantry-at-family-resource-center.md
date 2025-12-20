@@ -211,7 +211,7 @@ images: []
 location: Family Resource Center, 1005 NE 67th St, Seattle, WA, 98115, United States
 locations:
 - King County
-source: FamilyWorks Seattle
+organization_title: FamilyWorks Seattle
 source_url: https://www.familyworksseattle.org/event/mobile-food-pantry-at-family-resource-center/2025-12-31/
 start_date: '2025-12-31T15:30:00-08:00'
 summarized: true

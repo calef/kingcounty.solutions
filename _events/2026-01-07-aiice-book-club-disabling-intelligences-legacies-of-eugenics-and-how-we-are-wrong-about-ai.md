@@ -153,8 +153,8 @@ images: []
 location: Zoom
 locations:
 - King County
+organization_title: University of Washington
 published: false
-source: University of Washington
 source_url: https://proxy.link.app/198886819888/forms.gle/fREqpkrH9EtFy7PB7
 start_date: '2026-01-07T10:00:00-08:00'
 summarized: true

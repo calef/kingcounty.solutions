@@ -179,6 +179,7 @@ class EventExtractorTest < Minitest::Test
     assert_equal 'Planning Meeting', event_doc.front_matter['title']
     assert_equal '2025-12-15T18:00:00-08:00', event_doc.front_matter['start_date']
     assert_equal 'City Hall', event_doc.front_matter['location']
+    assert_equal 'Test Source', event_doc.front_matter['organization_title']
     assert event_doc.front_matter['generated_from_post']
 
     mock_chat_client.verify

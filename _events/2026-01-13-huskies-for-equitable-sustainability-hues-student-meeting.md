@@ -398,8 +398,8 @@ images: []
 location: Student Union Building (HUB)
 locations:
 - King County
+organization_title: University of Washington
 published: false
-source: University of Washington
 source_url: https://sustainability.uw.edu/action/students/hues
 start_date: '2026-01-13T18:00:00-08:00'
 summarized: true

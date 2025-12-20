@@ -38,8 +38,8 @@ images: []
 location: ''
 locations:
 - King County
+organization_title: Disabled American Veterans
 published: false
-source: Disabled American Veterans
 source_url: https://www.dav.org/events-calendar/winter-2026-patriot-boot-camp/
 start_date: '2026-02-11T00:00:00-08:00'
 summarized: true

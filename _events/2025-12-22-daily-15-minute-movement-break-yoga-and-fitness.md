@@ -12,6 +12,7 @@ images: []
 location: ''
 locations:
 - King County
+organization_title: University of Washington
 original_source_html: "\t<!DOCTYPE html>\n<html>\n  \t<head>\n    \t<meta charset=\"utf-8\">\n
   \   \t<title>UW NetID sign-in - Stale Request</title>\n    \t<link rel=\"stylesheet\"
   type=\"text/css\" href=\"/idp/css/main.css\">\n  \t</head>\n  \t\n  \t<body>\n    <div
@@ -28,7 +29,6 @@ original_source_html: "\t<!DOCTYPE html>\n<html>\n  \t<head>\n    \t<meta charse
   class=\"footer-text\"></p>\n        \t</div>\n      \t</footer>\n      \t\n    </div>\n
   \   </body>\n</html>"
 published: false
-source: University of Washington
 source_url: https://idp.u.washington.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1
 start_date: '2025-12-22T11:00:00-08:00'
 summarized: true

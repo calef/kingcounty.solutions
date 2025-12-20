@@ -85,6 +85,7 @@ feed_content_checksum: e9580ee723276de1aeec6fed4072ff961344ea58
 images: []
 location: Virtual Events @ Antioch University
 locations: []
+organization_title: Antioch University
 original_source_html: "<!DOCTYPE html>\n<html dir=\"ltr\" lang=\"en-US\" prefix=\"og:
   https://ogp.me/ns#\">\n<head>\n\t<meta charset=\"UTF-8\" />\n\t<meta name=\"viewport\"
   content=\"width=device-width, initial-scale=1\" />\n<link rel='stylesheet' id='tribe-events-pro-views-v2-print-css'
@@ -214,7 +215,6 @@ original_source_html: "<!DOCTYPE html>\n<html dir=\"ltr\" lang=\"en-US\" prefix=
   .wp-block-page-list,.wp-block-navigation__container,.wp-block-navigation__responsive-close,.wp-block-navigation__responsive-container,.wp-block-navigation__responsive-container-content,.wp-block-navigation__responsive-dialog{gap:inherit}:where(.wp-block-navigation.has-background
   .wp-block-navigation-item a:not(.wp-element-button)),:where(.wp-block-navigation.has-"
 published: false
-source: Antioch University
 source_url: https://www.antioch.edu/event/mfa-in-creative-writing-info-session-aula-1-10-26/
 start_date: '2026-01-10T10:00:00-08:00'
 summarized: true

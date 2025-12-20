@@ -77,8 +77,8 @@ images: []
 location: Town Hall Seattle
 locations:
 - King County
+organization_title: University of Washington
 published: false
-source: University of Washington
 source_url: https://www.washington.edu/lectures/events/philosophical-nonviolence-and-the-democratic-ideal/
 start_date: '2026-01-14T18:30:00-08:00'
 summarized: true

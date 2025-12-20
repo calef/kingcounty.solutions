@@ -53,7 +53,7 @@ images: []
 location: Kent, WA, USA
 locations:
 - King County
-source: Indian American Community Services
+organization_title: Indian American Community Services
 source_url: https://iacswa.org/event/seniors-kent-popup-47/
 start_date: '2025-12-23T12:30:00-08:00'
 summarized: true

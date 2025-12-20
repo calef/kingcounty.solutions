@@ -28,8 +28,8 @@ location: Tukwila Community Center, 12424 42nd Avenue South , Tukwila, WA, 98168
   United States
 locations:
 - King County
+organization_title: City of Tukwila
 published: false
-source: City of Tukwila
 source_url: https://www.tukwilawa.gov/event/tukwila-community-center-maintenance-closure-dec-22-jan-4/2025-12-22/
 start_date: '2025-12-22T08:00:00-08:00'
 summarized: true

@@ -45,7 +45,7 @@ images: []
 location: First Place School, 172 20th Ave, Seattle, 98122, United States
 locations:
 - King County
-source: Dispute Resolution Center of King County
+organization_title: Dispute Resolution Center of King County
 source_url: https://kcdrc.org/event/h-o-m-e-s-workshop/
 start_date: '2025-12-20T11:00:00-08:00'
 summarized: true

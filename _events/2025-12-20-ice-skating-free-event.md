@@ -100,8 +100,8 @@ location: Sno King Ice Arenas – Snoqualmie, 35323 Southeast Douglas Street, Sn
   WA, 98065
 locations:
 - King County
+organization_title: Empower Youth Network
 published: false
-source: Empower Youth Network
 source_url: https://empoweryouthnetwork.org/event/free-ice-skating-2025/
 start_date: '2025-12-20T15:00:00+00:00'
 summarized: true

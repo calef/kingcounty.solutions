@@ -4,8 +4,8 @@ images: []
 location: Broadway and Pine, Capitol Hill
 locations:
 - King County
+organization_title: Community Roots Housing
 published: false
-source: Community Roots Housing
 source_url: https://communityrootshousing.org/2025/02/youthcare-constellation-center/
 start_date: '2027-03-25T00:00:00-07:00'
 summarized: true

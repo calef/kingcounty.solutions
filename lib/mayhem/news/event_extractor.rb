@@ -77,7 +77,7 @@ module Mayhem
         post_content = document.body || ''
         post_title = front_matter['title'] || ''
         post_date = front_matter['date']
-        source = front_matter['source']
+        organization_title = front_matter['source']
         source_url = front_matter['source_url']
         reference_time = reference_time_from(post_date)
 
@@ -87,7 +87,7 @@ module Mayhem
         end
 
         # Extract events from the post
-        events = extract_events(post_title, post_content, post_date, source, source_url)
+        events = extract_events(post_title, post_content, post_date, organization_title, source_url)
         if events.nil?
           stats[:extraction_failed] += 1
           return
@@ -108,7 +108,7 @@ module Mayhem
         events.each do |event_data|
           event_id = create_event(
             event_data,
-            source,
+            organization_title,
             source_url,
             stats,
             front_matter['topics'],
@@ -135,12 +135,12 @@ module Mayhem
         @logger.error "Error processing #{file_path}: #{e.class} - #{e.message}"
       end
 
-      def extract_events(title, content, post_date, source, source_url)
+      def extract_events(title, content, post_date, organization_title, source_url)
         prompt = <<~PROMPT
           Analyze the following news article and extract any event announcements.
           An event is something that will happen at a specific time and potentially a specific place.
 
-          Article Source: #{source}
+          Article Source: #{organization_title}
           Article URL: #{source_url}
           Article Title: #{title}
           Article Date: #{post_date}
@@ -187,7 +187,7 @@ module Mayhem
         nil
       end
 
-      def create_event(event_data, source, source_url, stats, post_topics, post_locations, reference_time)
+      def create_event(event_data, organization_title, source_url, stats, post_topics, post_locations, reference_time)
         title = event_data['title']
         start_date_str = event_data['start_date']
         end_date_str = event_data['end_date']
@@ -227,7 +227,7 @@ module Mayhem
         date_prefix = start_time.strftime('%Y-%m-%d')
         slug = Mayhem::FrontMatter::SlugGenerator.filename_slug(
           title: title,
-          link: source_url || source,
+          link: source_url || organization_title,
           date_prefix: date_prefix,
           max_bytes: MAX_FILENAME_BYTES
         )
@@ -242,7 +242,7 @@ module Mayhem
         # Create event frontmatter
         front_matter = {
           'title' => title,
-          'source' => source,
+          'organization_title' => organization_title,
           'start_date' => start_time.iso8601,
           'location' => location,
           'source_url' => source_url,

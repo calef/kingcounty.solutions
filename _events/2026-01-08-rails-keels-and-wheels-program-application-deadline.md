@@ -4,8 +4,8 @@ images: []
 location: ''
 locations:
 - King County
+organization_title: Department of Commerce
 published: false
-source: Department of Commerce
 source_url: https://www.commerce.wa.gov/november-2025-transportation-electrification-open-funding-opportunities/
 start_date: '2026-01-08T00:00:00-08:00'
 summarized: true

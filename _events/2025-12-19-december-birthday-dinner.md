@@ -62,7 +62,7 @@ location: 'South Park Neighborhood Center, 8201 10th Ave S, #4, Seattle, WA, 981
   United States'
 locations:
 - King County
-source: South Park Senior Citizens
+organization_title: South Park Senior Citizens
 source_url: https://www.spseniors.org/calendar/november-birthday-dinner/
 start_date: '2025-12-19T17:00:00-08:00'
 summarized: true

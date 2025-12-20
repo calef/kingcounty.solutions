@@ -38,7 +38,7 @@ images: []
 location: "[ONLINE] EvergreenHealth"
 locations:
 - King County
-source: Cancer Lifeline Financial Assistance for Cancer Patients
+organization_title: Cancer Lifeline Financial Assistance for Cancer Patients
 source_url: https://cancerlifeline.org/event/exercise-cancer-gentle-yoga-friday-mornings-sponsored-by-evergreenhealth-9/2025-12-19/
 start_date: '2025-12-19T10:00:00-08:00'
 summarized: true

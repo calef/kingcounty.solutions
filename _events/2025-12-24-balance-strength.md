@@ -48,7 +48,7 @@ location: The Center for Active Living, 4217 SW Oregon St., Seattle, WA, 98116, 
   States
 locations:
 - King County
-source: The Center for Active Living
+organization_title: The Center for Active Living
 source_url: https://wscenter.org/event/balance-strength-2-2-2-2/2025-12-24/
 start_date: '2025-12-24T10:00:00-08:00'
 summarized: true

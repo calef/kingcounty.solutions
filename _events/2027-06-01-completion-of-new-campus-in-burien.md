@@ -4,8 +4,8 @@ images: []
 location: Burien, WA
 locations:
 - Burien
+organization_title: Mary's Place
 published: false
-source: Mary's Place
 source_url: https://www.marysplaceseattle.org/blog/building-love-in-burien-new-campus-will-provide-shelter-affordable-housing-and-lasting-stability-for-families
 start_date: '2027-06-01T00:00:00-07:00'
 summarized: true

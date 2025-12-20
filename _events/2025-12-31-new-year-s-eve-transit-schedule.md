@@ -4,7 +4,7 @@ images: []
 location: ''
 locations:
 - King County
-source: King County Metro Transit
+organization_title: King County Metro Transit
 source_url: https://kingcountymetro.blog/2025/11/25/holiday-travel-metro-will-help-you-get-there/
 start_date: '2025-12-31T00:00:00-08:00'
 summarized: true

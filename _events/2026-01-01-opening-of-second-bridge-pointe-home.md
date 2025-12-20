@@ -7,9 +7,9 @@ images: []
 location: ''
 locations:
 - King County
+organization_title: Friends of Youth
 original_source_html: Anticipated opening of the second Bridge Pointe house for young
   adults transitioning from inpatient behavioral health treatment.
-source: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/celebrating-hope-and-healing-bridge-pointe-ribbon-cutting
 start_date: '2026-01-01T00:00:00-08:00'
 summarized: true

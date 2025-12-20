@@ -8,9 +8,9 @@ images: []
 location: ''
 locations:
 - King County
+organization_title: Department of Commerce
 original_source_html: A listening session to gather feedback from multifamily housing
   providers on supporting less experienced funding applicants.
-source: Department of Commerce
 source_url: https://www.commerce.wa.gov/multifamily-housing-developers-share-your-experiences-at-a-listening-session/
 start_date: '2025-12-19T10:00:00-08:00'
 summarized: true

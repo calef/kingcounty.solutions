@@ -52,6 +52,7 @@ images: []
 location: ''
 locations:
 - King County
+organization_title: WorkSource Seattle-King County
 original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta charset=\"UTF-8\"
   />\n\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\n<meta
   name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'
@@ -240,7 +241,6 @@ original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta c
   fill='none' fill-rule='evenodd'%3E%3Cg transform='translate(1 1)' stroke-width='2'%3E%3Ccircle
   stroke-opacity='.5' cx='18' cy='18' r='18'/%3E%3Cpath d='M36 18c0-9.94-8.06-18-18-18'%3E%3CanimateTransform
   attributeName='transform' type='rotate'"
-source: WorkSource Seattle-King County
 source_url: https://worksourceskc.org/event/applications-that-get-interviews-virtual-and-in-person-155/
 start_date: '2025-12-22T11:00:00-08:00'
 summarized: true

@@ -91,7 +91,7 @@ location: Overlake Golf and Country Club, 8000 NE 16th St, Medina, Washington, 9
   United States
 locations:
 - King County
-source: Bellevue LifeSpring
+organization_title: Bellevue LifeSpring
 source_url: https://www.bellevuelifespring.org/event/one-heart/
 start_date: '2026-02-06T18:00:00+00:00'
 summarized: true

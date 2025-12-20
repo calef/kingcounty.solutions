@@ -7703,8 +7703,8 @@ feed_content: '<!DOCTYPE html> <html class="avada-html-layout-wide avada-html-he
 images: []
 location: ''
 locations: []
+organization_title: NOSSCR Referral Service
 published: false
-source: NOSSCR Referral Service
 source_url: https://nosscr.org/event/pac-washington-webinar/
 start_date: '2026-01-23T15:00:00-05:00'
 summarized: true

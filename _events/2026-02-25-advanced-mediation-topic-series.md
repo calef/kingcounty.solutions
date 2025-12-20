@@ -46,8 +46,8 @@ images: []
 location: ''
 locations:
 - King County
+organization_title: Dispute Resolution Center of King County
 published: false
-source: Dispute Resolution Center of King County
 source_url: https://kcdrc.org/event/advanced-mediation-topic-series-3/
 start_date: '2026-02-25T09:00:00-08:00'
 summarized: true

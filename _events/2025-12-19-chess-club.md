@@ -23,6 +23,7 @@ images: []
 location: Chamberlain Room
 locations:
 - King County
+organization_title: SouthEast Seattle Senior Center
 original_source_html: "<!DOCTYPE html>\n<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->\n<html
   lang=\"en-US\" class=\"no-js\">\n<!--<![endif]-->\n<head>\n\t<meta charset=\"UTF-8\"
   />\n\t\t\t\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1,
@@ -187,7 +188,6 @@ original_source_html: "<!DOCTYPE html>\n<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><
   !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background:
   var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background:
   var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cya"
-source: SouthEast Seattle Senior Center
 source_url: https://sessc.org/event/chess-club-2-2-2/2025-12-19/
 start_date: '2025-12-19T13:00:00-08:00'
 summarized: true

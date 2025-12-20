@@ -37,8 +37,8 @@ location: Museum of Flight, 9404 East Marginal Way South, Seattle, WA, 98108, Un
   States
 locations:
 - King County
+organization_title: City of Tukwila
 published: false
-source: City of Tukwila
 source_url: https://www.tukwilawa.gov/event/museum-of-flight-free-boeing-appreciation-days/2025-12-29/
 start_date: '2025-12-29T10:00:00-08:00'
 summarized: true

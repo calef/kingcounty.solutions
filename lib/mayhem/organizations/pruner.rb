@@ -87,8 +87,8 @@ module Mayhem
           document = Mayhem::FrontMatter::Document.load(event_path, logger: @logger)
           next unless document
 
-          source = document.front_matter['source']
-          next unless source == organization_title
+          event_org = document.front_matter['organization_title']
+          next unless event_org == organization_title
 
           @logger.info "Deleting event: #{File.basename(event_path)}"
           @events_pruner.delete(event_path, document)

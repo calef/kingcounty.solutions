@@ -37,6 +37,7 @@ feed_content_checksum: d55270a9a73cb6083d341b4c268fa1b2caf3c3a8
 images: []
 location: "[ONLINE] Virginia Mason Franciscan Health"
 locations: []
+organization_title: Cancer Lifeline Financial Assistance for Cancer Patients
 original_source_html: "<!DOCTYPE html>\r\n<html lang=\"en-US\" class=\"cmsmasters_html\">\r\n<head>\r\n<meta
   charset=\"UTF-8\" />\r\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1,
   maximum-scale=1\" />\r\n<meta name=\"format-detection\" content=\"telephone=no\"
@@ -245,7 +246,6 @@ original_source_html: "<!DOCTYPE html>\r\n<html lang=\"en-US\" class=\"cmsmaster
   !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange)
   !important;}.has-luminous-vivid-amber-color{color"
 published: false
-source: Cancer Lifeline Financial Assistance for Cancer Patients
 source_url: https://cancerlifeline.org/event/living-in-the-after-support-for-loss-due-to-pancreatic-cancer-sponsored-by-virginia-mason-franciscan-health-2/2025-12-29/
 start_date: '2025-12-29T16:00:00-08:00'
 summarized: true

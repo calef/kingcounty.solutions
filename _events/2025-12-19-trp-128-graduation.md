@@ -55,8 +55,8 @@ images: []
 location: ANEW, 18338 Andover Park West, ANEW Tukwila, 98188, United States
 locations:
 - King County
+organization_title: Apprenticeship & Nontraditional Employment for Women
 published: false
-source: Apprenticeship & Nontraditional Employment for Women
 source_url: https://anewcareer.org/event/trp-128-graduation/
 start_date: '2025-12-19T11:00:00-08:00'
 summarized: true

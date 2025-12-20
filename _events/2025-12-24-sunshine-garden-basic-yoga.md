@@ -112,8 +112,8 @@ images: []
 location: Sunshine Garden, 611 S Lane St, Seattle, WA, 98104
 locations:
 - King County
+organization_title: Chinese Information & Service Center
 published: false
-source: Chinese Information & Service Center
 source_url: https://cisc-seattle.org/event/sunshine-garden-basic-yoga-3/2025-12-24/
 start_date: '2025-12-24T10:30:00-08:00'
 summarized: true

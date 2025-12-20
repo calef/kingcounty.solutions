@@ -12,6 +12,7 @@ images: []
 location: ''
 locations:
 - King County
+organization_title: Disabled American Veterans
 original_source_html: "\n\n\n<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta
   charset=\"UTF-8\">\n\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1,
   shrink-to-fit=no\">\n\t<meta name=\"theme-color\" content=\"#bed12b\">\n\t<meta
@@ -171,7 +172,6 @@ original_source_html: "\n\n\n<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<
   var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color:
   var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color:
   var(--wp--preset--color"
-source: Disabled American Veterans
 source_url: https://www.dav.org/events-calendar/virtual-national-job-fair-march-17-2026/
 start_date: '2026-03-17T00:00:00-07:00'
 summarized: true

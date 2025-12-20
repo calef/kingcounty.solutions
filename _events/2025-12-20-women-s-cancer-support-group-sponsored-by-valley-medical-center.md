@@ -41,7 +41,7 @@ images: []
 location: "[ONLINE] Valley Medical Center"
 locations:
 - King County
-source: Cancer Lifeline Financial Assistance for Cancer Patients
+organization_title: Cancer Lifeline Financial Assistance for Cancer Patients
 source_url: https://cancerlifeline.org/event/womens-cancer-support-group-sponsored-by-valley-medical-center-3/2025-12-20/
 start_date: '2025-12-20T10:00:00-08:00'
 summarized: true

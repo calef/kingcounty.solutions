@@ -50,6 +50,7 @@ images: []
 location: WA
 locations:
 - King County
+organization_title: El Centro de la Raza
 original_source_html: "<!doctype html><html lang=\"en-US\"><head><meta charset=\"UTF-8\"><meta
   name=\"viewport\" content=\"width=device-width, initial-scale=1\"><link rel=\"profile\"
   href=\"https://gmpg.org/xfn/11\"><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link
@@ -201,7 +202,6 @@ original_source_html: "<!doctype html><html lang=\"en-US\"><head><meta charset=\
   media='all' /><link rel='stylesheet' id='tec-events-pro-single-style-css' href='https://www.elcentrodelaraza.org/wp-content/plugins/events-calendar-pro/build/css/custom-tables-v1/tec-events-pro-single-style.min.css?ver=7.7.11'
   media='all' /><link rel='stylesheet' id='wp-block-library-css' href='https://www.elcentrodelaraza.org/wp-includes/css/dist/block-library/style.min.css?ver=6.9'
   media='all' /> <style id='wp-block-button-inline-css'> .wp-block-button__link{align-"
-source: El Centro de la Raza
 source_url: https://www.elcentrodelaraza.org/event/digital-skills-for-life-herramientas-digitales/2025-12-23/
 start_date: '2025-12-23T17:30:00-08:00'
 summarized: true
