@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 require 'digest'
+require 'fmrepo'
 
 module Mayhem
   module FrontMatter
@@ -8,7 +9,7 @@ module Mayhem
       module_function
 
       def sanitized_slug(text)
-        text.to_s.downcase.gsub(/[^a-z0-9]+/, '-').gsub(/^-|-$/, '')
+        FMRepo.slugify(text)
       end
 
       def filename_slug(title:, link:, date_prefix:, max_bytes: 255)

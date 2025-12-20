@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 require 'fileutils'
+require 'fmrepo'
 require 'json'
 require 'nokogiri'
 require 'open-uri'
@@ -10,7 +11,6 @@ require_relative '../logging'
 require_relative '../models/topic'
 require_relative '../front_matter/document'
 require_relative '../feed/discovery'
-require_relative '../front_matter/slug_generator'
 require_relative '../support/http_client'
 require_relative '../support/url_utils'
 
@@ -224,9 +224,7 @@ module Mayhem
       end
 
       def slugify(title)
-        slug = Mayhem::FrontMatter::SlugGenerator.sanitized_slug(title)
-        slug = 'organization' if slug.to_s.strip.empty?
-        slug
+        FMRepo.slugify(title)
       end
 
       def ensure_unique_slug(base)
