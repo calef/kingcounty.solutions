@@ -12,7 +12,18 @@ module Mayhem
     class StaleEventCleaner
       EVENTS_DIR = '_events'
       POSTS_DIR = '_posts'
-      ONE_DAY_IN_SECONDS = 86_400
+      GRACE_PERIOD_DAYS = 1
+
+      class << self
+        def cutoff_date(reference_time)
+          reference_time.utc.to_date - GRACE_PERIOD_DAYS
+        end
+
+        def stale?(start_time:, end_time:, cutoff_date:)
+          last_time = end_time || start_time
+          last_time.utc.to_date < cutoff_date
+        end
+      end
 
       def initialize(
         events_dir: EVENTS_DIR,
@@ -28,12 +39,13 @@ module Mayhem
 
       def run
         current_time = @clock.call
+        cutoff_date = self.class.cutoff_date(current_time)
         removed = []
 
         Dir.glob(File.join(@events_dir, '*.md')).each do |path|
-          expiration_time = expiration_time_for(path)
-          next unless expiration_time
-          next unless expiration_time <= current_time
+          start_time, end_time = event_times_for(path)
+          next unless start_time
+          next unless self.class.stale?(start_time: start_time, end_time: end_time, cutoff_date: cutoff_date)
 
           event_id = File.basename(path, '.md')
           remove_file(path)
@@ -53,7 +65,7 @@ module Mayhem
 
       private
 
-      def expiration_time_for(path)
+      def event_times_for(path)
         document = Mayhem::FrontMatter::Document.load(path, logger: @logger)
         return unless document
 
@@ -63,7 +75,7 @@ module Mayhem
 
         end_time = parse_time(front_matter['end_date'], path, 'end_date', required: false)
 
-        (end_time || start_time) + ONE_DAY_IN_SECONDS
+        [start_time, end_time]
       end
 
       def parse_time(value, path, field_name, required:)
