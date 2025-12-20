@@ -94,6 +94,7 @@ module Mayhem
 
       def fetch(url, accept:, max_bytes:)
         attempt = 0
+        max_attempts = @max_retries + 1
         begin
           attempt += 1
           _response, payload = perform_request(
@@ -106,19 +107,19 @@ module Mayhem
           )
           sleep @delay
         rescue TooManyRequestsError => e
-          raise if attempt >= @max_retries
+          raise if attempt > @max_retries
 
           wait = e.retry_after || @too_many_requests_delay
-          log_too_many_requests_backoff(e, wait, attempt: attempt, max_attempts: @max_retries)
+          log_too_many_requests_backoff(e, wait, attempt: attempt, max_attempts: max_attempts)
           sleep wait
           retry
         rescue *RETRYABLE_ERRORS => e
-          raise if attempt >= @max_retries
+          raise if attempt > @max_retries
 
           wait = @retry_initial_delay * (@retry_backoff_factor**(attempt - 1))
           @logger.warn(
             "Retrying #{url} after #{e.class} (#{e.message}) in #{format('%.2f', wait)}s " \
-            "(attempt #{attempt}/#{@max_retries})"
+            "(attempt #{attempt}/#{max_attempts})"
           )
           sleep wait
           retry
@@ -128,6 +129,7 @@ module Mayhem
 
       def resolve_final_url(url)
         attempt = 0
+        max_attempts = @max_retries + 1
         begin
           attempt += 1
           uri = URI.parse(url)
@@ -140,19 +142,19 @@ module Mayhem
           @logger.debug "Skipping canonical redirect for #{url} due to status #{status}" if status
           nil
         rescue TooManyRequestsError => e
-          raise if attempt >= @max_retries
+          raise if attempt > @max_retries
 
           wait = e.retry_after || @too_many_requests_delay
-          log_too_many_requests_backoff(e, wait, attempt: attempt, max_attempts: @max_retries)
+          log_too_many_requests_backoff(e, wait, attempt: attempt, max_attempts: max_attempts)
           sleep wait
           retry
         rescue *RETRYABLE_ERRORS => e
-          raise if attempt >= @max_retries
+          raise if attempt > @max_retries
 
           wait = @retry_initial_delay * (@retry_backoff_factor**(attempt - 1))
           @logger.warn(
             "Retrying HEAD #{url} after #{e.class} (#{e.message}) in #{format('%.2f', wait)}s " \
-            "(attempt #{attempt}/#{@max_retries})"
+            "(attempt #{attempt}/#{max_attempts})"
           )
           sleep wait
           retry
@@ -167,6 +169,7 @@ module Mayhem
 
       def response_for(url, accept: HTML_ACCEPT, max_bytes: 0)
         attempt = 0
+        max_attempts = @max_retries + 1
         begin
           attempt += 1
           response, payload = perform_request(
@@ -189,19 +192,19 @@ module Mayhem
             response: nil
           }
         rescue TooManyRequestsError => e
-          raise if attempt >= @max_retries
+          raise if attempt > @max_retries
 
           wait = e.retry_after || @too_many_requests_delay
-          log_too_many_requests_backoff(e, wait, attempt: attempt, max_attempts: @max_retries)
+          log_too_many_requests_backoff(e, wait, attempt: attempt, max_attempts: max_attempts)
           sleep wait
           retry
         rescue *RETRYABLE_ERRORS => e
-          raise if attempt >= @max_retries
+          raise if attempt > @max_retries
 
           wait = @retry_initial_delay * (@retry_backoff_factor**(attempt - 1))
           @logger.warn(
             "Retrying #{url} after #{e.class} (#{e.message}) in #{format('%.2f', wait)}s " \
-            "(attempt #{attempt}/#{@max_retries})"
+            "(attempt #{attempt}/#{max_attempts})"
           )
           sleep wait
           retry
