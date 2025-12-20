@@ -115,14 +115,14 @@ class OrganizationsFrontMatterTest < Minitest::Test
     seen = {}
 
     organizations.each do |doc|
-      website = value_as_string(doc, 'website_url')
-      next if website.nil? || website.empty?
+      website_url = value_as_string(doc, 'website_url')
+      next if website_url.nil? || website_url.empty?
 
-      errors << "#{doc[:path]} has invalid website_url URL: #{website}" unless valid_url?(website)
+      errors << "#{doc[:path]} has invalid website_url URL: #{website_url}" unless valid_url?(website_url)
 
-      normalized = website.strip.downcase
+      normalized = website_url.strip.downcase
       if seen.key?(normalized)
-        errors << "website_url #{website} reused in #{doc[:path]} and #{seen[normalized]}"
+        errors << "website_url #{website_url} reused in #{doc[:path]} and #{seen[normalized]}"
       else
         seen[normalized] = doc[:path]
       end
