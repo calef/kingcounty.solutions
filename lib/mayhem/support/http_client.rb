@@ -53,6 +53,18 @@ module Mayhem
         end
       end
 
+      class NotFoundError < StandardError
+        attr_reader :url, :origin_url, :operation, :status
+
+        def initialize(url:, origin_url:, operation:, status: 404)
+          super("HTTP #{status} for #{url}")
+          @url = url
+          @origin_url = origin_url
+          @operation = operation
+          @status = status
+        end
+      end
+
       def initialize(user_agent: UA, delay: DEFAULTS[:delay], max_redirects: DEFAULTS[:max_redirects],
                      timeout: nil, open_timeout: nil, read_timeout: nil,
                      max_retries: DEFAULTS[:max_retries],
@@ -170,6 +182,12 @@ module Mayhem
             final_url: payload[:final_url],
             response: response
           }
+        rescue NotFoundError => e
+          {
+            status: e.status || 404,
+            final_url: e.url || url,
+            response: nil
+          }
         rescue TooManyRequestsError => e
           raise if attempt >= @max_retries
 
@@ -201,6 +219,7 @@ module Mayhem
       def perform_request(url, accept, max_bytes, remaining_redirects, origin_url:, operation:)
         uri = URI.parse(url)
         response, body = execute_request(uri, accept, max_bytes, operation: operation)
+        status_code = response.code.to_i
         if response.is_a?(Net::HTTPRedirection)
           return follow_redirect(
             response,
@@ -212,7 +231,8 @@ module Mayhem
             operation: operation
           )
         end
-        raise_too_many_requests(response, uri, origin_url: origin_url, operation: operation) if response.code.to_i == 429
+        raise_too_many_requests(response, uri, origin_url: origin_url, operation: operation) if status_code == 429
+        raise NotFoundError.new(url: uri.to_s, origin_url: origin_url, operation: operation, status: status_code) if status_code == 404
 
         raise OpenURI::HTTPError.new("#{response.code} #{response.message} for #{uri}", response) unless response.is_a?(Net::HTTPSuccess)
 

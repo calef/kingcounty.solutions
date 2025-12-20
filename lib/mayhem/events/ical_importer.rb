@@ -252,6 +252,7 @@ module Mayhem
           'location' => location,
           'source_url' => canonical_url
         }
+        front_matter['published'] = false if fetch_result && fetch_result[:not_found]
         unless normalized_description.to_s.strip.empty?
           front_matter['feed_content'] = normalized_description
           front_matter['feed_content_checksum'] = checksum
@@ -363,6 +364,10 @@ module Mayhem
         return unless url
 
         @content_fetcher.fetch(url)
+      rescue Mayhem::Support::HttpClient::NotFoundError => e
+        record_stat(:fetch_failed, stats)
+        @logger.warn "Source returned 404 for #{url}: #{e.message}"
+        { html: '', canonical_url: url, not_found: true }
       rescue StandardError => e
         record_stat(:fetch_failed, stats)
         @logger.warn "Failed to fetch more info for #{url}: #{e.message}"
