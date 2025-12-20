@@ -20,8 +20,8 @@ module Mayhem
         self['image_url']
       end
 
-      def source
-        self['source']
+      def organization_title
+        self['organization_title']
       end
 
       def source_url

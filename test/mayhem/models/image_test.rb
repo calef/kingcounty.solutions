@@ -11,7 +11,7 @@ class ImageModelTest < Minitest::Test
           'checksum' => 'abc123',
           'date' => '2025-12-20T07:54:25+00:00',
           'image_url' => '/assets/images/abc123.webp',
-          'source' => 'Test Source',
+          'organization_title' => 'Test Source',
           'source_url' => 'https://example.com/image.png',
           'title' => 'Test Image'
         },
@@ -22,7 +22,7 @@ class ImageModelTest < Minitest::Test
       assert_equal 'abc123', record.checksum
       assert_equal '2025-12-20T07:54:25+00:00', record.date
       assert_equal '/assets/images/abc123.webp', record.image_url
-      assert_equal 'Test Source', record.source
+      assert_equal 'Test Source', record.organization_title
       assert_equal 'https://example.com/image.png', record.source_url
       assert_equal 'Test Image', record.title
 
