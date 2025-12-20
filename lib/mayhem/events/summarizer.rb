@@ -24,11 +24,10 @@ module Mayhem
       IMAGE_ASSETS_DIR = File.join('assets', 'images')
       MAX_ARTICLE_CHARS = 20_000
       DEFAULT_MODEL = ENV.fetch('OPENAI_EVENT_MODEL', ENV.fetch('OPENAI_MODEL', 'gpt-4o-mini'))
-      TOPIC_DIR = '_topics'
 
       def initialize(
         events_dir: EVENTS_DIR,
-        topic_dir: TOPIC_DIR,
+        topic_repo: nil,
         images_dir: IMAGES_DIR,
         assets_dir: IMAGE_ASSETS_DIR,
         client: nil,
@@ -47,7 +46,7 @@ module Mayhem
         @http = http_client || Mayhem::Support::HttpClient.new(logger: @logger)
         @topic_classifier = topic_classifier ||
                             Mayhem::Topics::Classifier.new(
-                              topic_dir: topic_dir,
+                              topic_repo: topic_repo,
                               client: @client,
                               logger: @logger
                             )

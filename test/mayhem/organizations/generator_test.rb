@@ -43,12 +43,13 @@ class OrganizationsGeneratorTest < Minitest::Test
   def setup
     @org_dir = Dir.mktmpdir('orgs')
     @topic_dir = Dir.mktmpdir('topics')
+    @topic_repo = FMRepo::Repository.new(root: @topic_dir)
     @logger = FakeLogger.new
     @fake_client = Object.new
     @feed_finder = FakeFeedFinder.new(OpenStruct.new(rss_url: 'https://feed', ical_url: 'https://calendar'))
     @generator = Mayhem::Organizations::Generator.new(
       org_dir: @org_dir,
-      topic_dir: @topic_dir,
+      topic_repo: @topic_repo,
       client: @fake_client,
       feed_finder: @feed_finder,
       logger: @logger
@@ -64,6 +65,10 @@ class OrganizationsGeneratorTest < Minitest::Test
     path = File.join(dir, name)
     File.write(path, Mayhem::FrontMatter::Document.build_markdown(front_matter, 'body'))
     path
+  end
+
+  def create_topic(title)
+    Mayhem::Models::Topic.create!({ 'title' => title }, body: 'body', repo: @topic_repo)
   end
 
   def test_normalize_and_canonicalize_urls
@@ -132,7 +137,7 @@ class OrganizationsGeneratorTest < Minitest::Test
     failing = FakeFeedFinder.new
     failed_gen = Mayhem::Organizations::Generator.new(
       org_dir: @org_dir,
-      topic_dir: @topic_dir,
+      topic_repo: @topic_repo,
       client: @fake_client,
       feed_finder: failing,
       logger: @logger
@@ -144,8 +149,8 @@ class OrganizationsGeneratorTest < Minitest::Test
   end
 
   def test_load_topics_sort_titles
-    write_doc(@topic_dir, 'topic-one.md', { 'title' => 'B' })
-    write_doc(@topic_dir, 'topic-two.md', { 'title' => 'A' })
+    create_topic('B')
+    create_topic('A')
 
     topics = @generator.send(:load_topics)
 
@@ -163,11 +168,11 @@ class OrganizationsGeneratorTest < Minitest::Test
   end
 
   def test_run_creates_organization_file_with_feed
-    write_doc(@topic_dir, 'topic.md', { 'title' => 'Health' })
+    create_topic('Health')
 
     generator = Mayhem::Organizations::Generator.new(
       org_dir: @org_dir,
-      topic_dir: @topic_dir,
+      topic_repo: @topic_repo,
       client: @fake_client,
       feed_finder: @feed_finder,
       logger: @logger
@@ -195,7 +200,7 @@ class OrganizationsGeneratorTest < Minitest::Test
     write_doc(@org_dir, 'existing.md', { 'website' => 'https://example.com' })
     generator = Mayhem::Organizations::Generator.new(
       org_dir: @org_dir,
-      topic_dir: @topic_dir,
+      topic_repo: @topic_repo,
       client: @fake_client,
       feed_finder: @feed_finder,
       logger: @logger
