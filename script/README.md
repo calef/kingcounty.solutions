@@ -46,5 +46,4 @@ The `script/` directory contains lightweight automation used during setup, local
 ### `test`
 
 - Runs `bundle exec rake test` for the mayhem/unit suite without triggering a site build.  
-- Excludes site integrity checks; run `bin/mayhem check-integrity` after a Jekyll build when you need them.  
 - Useful when iterating on backend code or when CI already covers the full `script/cibuild` path.
