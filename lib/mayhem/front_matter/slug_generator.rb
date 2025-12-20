@@ -9,7 +9,9 @@ module Mayhem
       module_function
 
       def sanitized_slug(text)
-        FMRepo.slugify(text)
+        slug = FMRepo.slugify(text)
+        # Return empty string for fallback case to maintain backward compatibility
+        slug == 'untitled' && text.to_s.strip.empty? ? '' : slug
       end
 
       def filename_slug(title:, link:, date_prefix:, max_bytes: 255)
