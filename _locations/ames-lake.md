@@ -1,5 +1,5 @@
 ---
-parent_location: Eastside
+parent_location_title: Eastside
 title: Ames Lake
 type: Census-Designated Place
 ---

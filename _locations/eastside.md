@@ -1,5 +1,5 @@
 ---
-parent_location: King County
+parent_location_title: King County
 title: Eastside
 type: County Region
 ---

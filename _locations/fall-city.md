@@ -1,5 +1,5 @@
 ---
-parent_location: Snoqualmie Valley
+parent_location_title: Snoqualmie Valley
 title: Fall City
 type: Census-Designated Place
 ---

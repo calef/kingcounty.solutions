@@ -21,8 +21,8 @@ module Mayhem
         self['type']
       end
 
-      def parent_location
-        self['parent_location']
+      def parent_location_title
+        self['parent_location_title']
       end
     end
   end

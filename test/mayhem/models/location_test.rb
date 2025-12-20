@@ -10,7 +10,7 @@ class LocationModelTest < Minitest::Test
         {
           'title' => 'Test Place',
           'type' => 'City',
-          'parent_location' => 'King County'
+          'parent_location_title' => 'King County'
         },
         body: 'A test place.'
       )
@@ -18,7 +18,7 @@ class LocationModelTest < Minitest::Test
       assert_equal '_locations/test-place.md', record.id
       assert_equal 'Test Place', record.title
       assert_equal 'City', record.location_type
-      assert_equal 'King County', record.parent_location
+      assert_equal 'King County', record.parent_location_title
       assert_equal 'A test place.', record.body.strip
 
       loaded = Mayhem::Models::Location.find(record.id)
