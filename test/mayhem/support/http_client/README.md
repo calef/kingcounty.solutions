@@ -17,6 +17,7 @@ This directory contains unit tests for individual components of the `HttpClient`
 #### `request_test.rb`
 
 Tests for request building and execution:
+
 - Building GET and HEAD requests with proper headers
 - Executing HTTP and HTTPS requests  
 - SSL certificate verification and fallback to insecure connections
@@ -25,6 +26,7 @@ Tests for request building and execution:
 #### `response_test.rb`
 
 Tests for response handling:
+
 - Following HTTP redirects (301, 302, etc.)
 - Parsing `Retry-After` headers (numeric and HTTP date formats)
 - Handling 429 Too Many Requests errors
@@ -35,6 +37,7 @@ Tests for response handling:
 #### `response_body_reader_test.rb`
 
 Tests for reading response bodies:
+
 - Reading full response body when no limit is set
 - Limiting response body to `max_bytes`
 - Handling multibyte UTF-8 characters correctly
@@ -44,6 +47,7 @@ Tests for reading response bodies:
 #### `operation_delay_manager_test.rb`
 
 Tests for operation delay management:
+
 - Normalizing delay configuration (host-specific delays per operation)
 - Applying delays between requests to the same host for the same operation
 - Host-specific delay isolation (delays for one host don't affect another)
@@ -54,6 +58,7 @@ Tests for operation delay management:
 ## Test Coverage
 
 The refactored test suite has expanded from 20 tests to 44 tests:
+
 - Integration tests: 9 tests (public API)
 - Request unit tests: 6 tests
 - Response unit tests: 11 tests  
@@ -63,16 +68,19 @@ The refactored test suite has expanded from 20 tests to 44 tests:
 ## Running Tests
 
 Run all HttpClient tests:
+
 ```bash
 bundle exec rake test TEST=test/mayhem/support/http_client*
 ```
 
 Run a specific test file:
+
 ```bash
 bundle exec rake test TEST=test/mayhem/support/http_client/request_test.rb
 ```
 
 Run a specific test method:
+
 ```bash
 bundle exec rake test TEST=test/mayhem/support/http_client/request_test.rb TESTOPTS="--name=test_build_request_sets_headers"
 ```
