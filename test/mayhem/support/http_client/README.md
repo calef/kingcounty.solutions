@@ -1,3 +1,5 @@
+---
+---
 # HttpClient Test Refactoring
 
 This directory contains unit tests for individual components of the `HttpClient` class, organized by functionality.
@@ -19,7 +21,7 @@ This directory contains unit tests for individual components of the `HttpClient`
 Tests for request building and execution:
 
 - Building GET and HEAD requests with proper headers
-- Executing HTTP and HTTPS requests  
+- Executing HTTP and HTTPS requests
 - SSL certificate verification and fallback to insecure connections
 - Request retry logic for SSL errors
 
@@ -61,7 +63,7 @@ The refactored test suite has expanded from 20 tests to 44 tests:
 
 - Integration tests: 9 tests (public API)
 - Request unit tests: 6 tests
-- Response unit tests: 11 tests  
+- Response unit tests: 11 tests
 - ResponseBodyReader unit tests: 7 tests
 - OperationDelayManager unit tests: 11 tests
 

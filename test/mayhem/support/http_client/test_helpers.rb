@@ -47,7 +47,7 @@ module HttpClientTestHelpers
   end
 
   class FakeHttp
-    attr_reader :started, :request
+    attr_reader :started, :last_request
     attr_accessor :use_ssl, :read_timeout, :open_timeout, :verify_mode, :cert_store
 
     def initialize(response)
@@ -61,7 +61,7 @@ module HttpClientTestHelpers
     end
 
     def request(_request)
-      @request = _request
+      @last_request = _request
       @response
     end
 

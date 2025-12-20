@@ -6,7 +6,7 @@
   {% assign ancestor_path = include.ancestors | default: "" %}
   {% capture current_token %}|{{ include.organization.title }}|{% endcapture %}
   {% unless ancestor_path contains current_token %}
-    {% assign children = include.organizations | where: "parent_organization", include.organization.title | sort: "title" %}
+    {% assign children = include.organizations | where: "parent_organization_title", include.organization.title | sort: "title" %}
     {% if children and children.size > 0 %}
       {% capture next_path %}{{ ancestor_path }}{{ current_token }}{% endcapture %}
       <ul class="hierarchy-tree-list">

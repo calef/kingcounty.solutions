@@ -37,18 +37,19 @@ class HttpClientTest < Minitest::Test
       read_timeout: 1,
       host_operation_delays: {}
     )
+    @request_flow = @client.instance_variable_get(:@request_flow)
   end
 
   # Public API: resolve_final_url
 
   def test_resolve_final_url_returns_successful_redirect
-    @client.stub(:follow_head_redirect, { status: 200, url: 'https://final' }) do
+    @request_flow.stub(:resolve_head_redirects, { status: 200, url: 'https://final' }) do
       assert_equal 'https://final', @client.resolve_final_url('https://start')
     end
   end
 
   def test_resolve_final_url_returns_nil_for_non_successful_status
-    @client.stub(:follow_head_redirect, { status: 400, url: 'https://start' }) do
+    @request_flow.stub(:resolve_head_redirects, { status: 400, url: 'https://start' }) do
       assert_nil @client.resolve_final_url('https://start')
       assert_match(/Skipping canonical redirect/, @logger.debugs.last)
     end
@@ -64,7 +65,7 @@ class HttpClientTest < Minitest::Test
   def test_response_for_returns_hash_with_status_and_url
     response = Struct.new(:code) { def [](key); nil; end }
     payload = { final_url: 'https://example.com' }
-    @client.stub(:perform_request, [response.new('200'), payload]) do
+    @request_flow.stub(:fetch_with_redirects, [response.new('200'), payload]) do
       result = @client.response_for('https://example.com', accept: 'text/plain', max_bytes: 1)
       assert_equal 200, result[:status]
       assert_equal 'https://example.com', result[:final_url]
@@ -83,7 +84,7 @@ class HttpClientTest < Minitest::Test
       operation: 'status_check',
       status: 404
     )
-    @client.stub(:perform_request, proc { raise error }) do
+    @request_flow.stub(:fetch_with_redirects, proc { raise error }) do
       result = @client.response_for('https://example.com')
       assert_equal 404, result[:status]
       assert_equal 'https://example.com', result[:final_url]
@@ -100,7 +101,7 @@ class HttpClientTest < Minitest::Test
       final_url: 'https://example.com'
     }
     response = Struct.new(:code) { def [](key); nil; end }
-    @client.stub(:perform_request, [response.new('200'), payload]) do
+    @request_flow.stub(:fetch_with_redirects, [response.new('200'), payload]) do
       result = @client.fetch('https://example.com', accept: 'text/html', max_bytes: 0)
       assert_equal payload, result
     end
@@ -118,7 +119,7 @@ class HttpClientTest < Minitest::Test
     payload = { body: 'success', content_type: 'text/html', final_url: 'https://example.com' }
     response = Struct.new(:code) { def [](key); nil; end }
     
-    @client.stub(:perform_request, proc do
+    @request_flow.stub(:fetch_with_redirects, proc do
       call_count += 1
       raise error if call_count == 1
       [response.new('200'), payload]
@@ -137,7 +138,7 @@ class HttpClientTest < Minitest::Test
       operation: 'content_fetch'
     )
     
-    @client.stub(:perform_request, proc { raise error }) do
+    @request_flow.stub(:fetch_with_redirects, proc { raise error }) do
       assert_raises(Mayhem::Support::HttpClient::TooManyRequestsError) do
         @client.fetch('https://example.com', accept: 'text/html', max_bytes: 0)
       end
