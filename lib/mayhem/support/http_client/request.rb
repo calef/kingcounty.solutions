@@ -106,14 +106,14 @@ module Mayhem
           body
         end
 
-        def retry_without_verification(uri, accept, max_bytes, error, operation: nil)
+        def retry_without_verification(uri, accept, max_bytes, error)
           return handle_terminal_ssl_error(uri, error) unless @allow_insecure_fallback
 
           @logger.warn "SSL error (#{error.message}), retrying without verification for #{uri}"
           perform_http_request(uri, accept, max_bytes, OpenSSL::SSL::VERIFY_NONE)
         end
 
-        def retry_without_verification_head(uri, error, operation: nil)
+        def retry_without_verification_head(uri, error)
           return handle_terminal_ssl_error(uri, error) unless @allow_insecure_fallback
 
           @logger.warn "SSL error (#{error.message}), retrying HEAD without verification for #{uri}"

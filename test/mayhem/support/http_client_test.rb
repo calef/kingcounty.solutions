@@ -276,7 +276,7 @@ class HttpClientTest < Minitest::Test
     called = false
     request = @client.instance_variable_get(:@request)
     request.stub(:perform_http_request, proc { called = true; [:retried] }) do
-      assert_equal [:retried], request.send(:retry_without_verification, URI('https://example.com'), 'text/html', 0, error, operation: 'op')
+      assert_equal [:retried], request.send(:retry_without_verification, URI('https://example.com'), 'text/html', 0, error)
       assert called
     end
 
@@ -292,7 +292,7 @@ class HttpClientTest < Minitest::Test
     )
     denial_request = denial_client.instance_variable_get(:@request)
     assert_raises(OpenSSL::SSL::SSLError) do
-      denial_request.send(:retry_without_verification, URI('https://example.com'), 'text/html', 0, error, operation: 'op')
+      denial_request.send(:retry_without_verification, URI('https://example.com'), 'text/html', 0, error)
     end
   end
 
