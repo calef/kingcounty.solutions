@@ -4,54 +4,16 @@ require_relative '../../../test_helper'
 require 'minitest/autorun'
 require 'time'
 require_relative '../../../../lib/mayhem/support/http_client'
+require_relative 'test_helpers'
 
 module Mayhem
   module Support
     module HttpClient
       class ResponseTest < Minitest::Test
-        class FakeLogger
-          attr_reader :warns, :debugs
-
-          def initialize
-            @warns = []
-            @debugs = []
-          end
-
-          def warn(message)
-            @warns << message
-          end
-
-          def debug(message)
-            @debugs << message
-          end
-
-          def info(_message); end
-        end
-
-        class FakeResponse
-          def initialize(code, headers = {}, redirect: false)
-            @code = code
-            @headers = headers
-            @redirect = redirect
-          end
-
-          def code
-            @code
-          end
-
-          def [](key)
-            @headers[key]
-          end
-
-          def is_a?(klass)
-            return true if klass == Net::HTTPRedirection && @redirect
-
-            super
-          end
-        end
+        include HttpClientTestHelpers
 
         def setup
-          @logger = FakeLogger.new
+          @logger = HttpClientTestHelpers::FakeLogger.new
           @client = Mayhem::Support::HttpClient.new(
             logger: @logger,
             delay: 0,
@@ -64,8 +26,8 @@ module Mayhem
         end
 
         def test_follow_head_redirect_follows_multiple_hops
-          first = FakeResponse.new('301', { 'location' => 'https://example.com/final' }, redirect: true)
-          second = FakeResponse.new('200', {}, redirect: false)
+          first = HttpClientTestHelpers::FakeResponse.new('301', { 'location' => 'https://example.com/final' }, redirect: true)
+          second = HttpClientTestHelpers::FakeResponse.new('200', {}, redirect: false)
           responses = [first, second]
 
           @client.stub(:execute_head_request, proc { |_uri, **_| responses.shift }) do
@@ -95,7 +57,7 @@ module Mayhem
         end
 
         def test_too_many_requests_delay_respects_parse_result_and_minimum
-          response = FakeResponse.new('429', { 'retry-after' => '5' })
+          response = HttpClientTestHelpers::FakeResponse.new('429', { 'retry-after' => '5' })
           @client.stub(:parse_retry_after, 5) do
             assert_equal 5, @client.send(:too_many_requests_delay, response)
           end
@@ -117,7 +79,7 @@ module Mayhem
         end
 
         def test_perform_request_follows_redirect
-          response = FakeResponse.new('301', { 'location' => 'https://example.com/next' }, redirect: true)
+          response = HttpClientTestHelpers::FakeResponse.new('301', { 'location' => 'https://example.com/next' }, redirect: true)
           @client.stub(:execute_request, [response, {}]) do
             redirected = false
             @client.stub(:follow_redirect, proc { |*_| redirected = true; :redirected }) do
@@ -129,7 +91,7 @@ module Mayhem
         end
 
         def test_perform_request_raises_on_too_many_requests
-          response = FakeResponse.new('429', {})
+          response = HttpClientTestHelpers::FakeResponse.new('429', {})
           @client.stub(:execute_request, [response, {}]) do
             assert_raises(Mayhem::Support::HttpClient::TooManyRequestsError) do
               @client.send(:perform_request, 'https://example.com', 'text/html', 2, 2, origin_url: 'https://example.com', operation: 'op')
@@ -138,19 +100,19 @@ module Mayhem
         end
 
         def test_follow_redirect_requires_location_and_limit
-          response = FakeResponse.new('301', {}, redirect: true)
+          response = HttpClientTestHelpers::FakeResponse.new('301', {}, redirect: true)
           assert_raises(RuntimeError) do
             @client.send(:follow_redirect, response, URI('https://example.com'), 'text/html', 1, 1, origin_url: 'origin', operation: 'op')
           end
 
-          response = FakeResponse.new('301', { 'location' => 'https://example.com' }, redirect: true)
+          response = HttpClientTestHelpers::FakeResponse.new('301', { 'location' => 'https://example.com' }, redirect: true)
           assert_raises(RuntimeError) do
             @client.send(:follow_redirect, response, URI('https://example.com'), 'text/html', 0, 0, origin_url: 'origin', operation: 'op')
           end
         end
 
         def test_follow_redirect_calls_perform_request_with_absolutized_url
-          response = FakeResponse.new('301', { 'location' => '/next' }, redirect: true)
+          response = HttpClientTestHelpers::FakeResponse.new('301', { 'location' => '/next' }, redirect: true)
           Mayhem::Support::UrlUtils.stub(:absolutize, 'https://example.com/absolute') do
             performed = false
             @client.stub(:perform_request, proc { performed = true; :visited }) do
@@ -161,21 +123,21 @@ module Mayhem
         end
 
         def test_follow_head_redirect_handles_too_many_requests_and_missing_location
-          error_response = FakeResponse.new('429', {})
+          error_response = HttpClientTestHelpers::FakeResponse.new('429', {})
           @client.stub(:execute_head_request, proc { |_uri, **_| error_response }) do
             assert_raises(Mayhem::Support::HttpClient::TooManyRequestsError) do
               @client.send(:follow_head_redirect, URI('https://example.com'), 1, origin_url: 'origin', operation: 'op')
             end
           end
 
-          redirect_response = FakeResponse.new('301', {}, redirect: true)
+          redirect_response = HttpClientTestHelpers::FakeResponse.new('301', {}, redirect: true)
           @client.stub(:execute_head_request, proc { |_uri, **_| redirect_response }) do
             assert_equal({ url: 'https://example.com', status: 301 }, @client.send(:follow_head_redirect, URI('https://example.com'), 1, origin_url: 'origin', operation: 'op'))
           end
         end
 
         def test_follow_head_redirect_respects_remaining_redirects
-          response = FakeResponse.new('301', { 'location' => 'https://example.com/next' }, redirect: true)
+          response = HttpClientTestHelpers::FakeResponse.new('301', { 'location' => 'https://example.com/next' }, redirect: true)
           @client.stub(:execute_head_request, proc { |_uri, **_| response }) do
             assert_raises(RuntimeError) do
               @client.send(:follow_head_redirect, URI('https://example.com'), 0, origin_url: 'origin', operation: 'op')
@@ -184,7 +146,7 @@ module Mayhem
         end
 
         def test_perform_request_redirects_when_response_is_redirection
-          response = FakeResponse.new('301', { 'location' => 'https://example.com/next' }, redirect: true)
+          response = HttpClientTestHelpers::FakeResponse.new('301', { 'location' => 'https://example.com/next' }, redirect: true)
           @client.stub(:execute_request, [response, {}]) do
             redirected = false
             @client.stub(:follow_redirect, proc { redirected = true; :sent }) do

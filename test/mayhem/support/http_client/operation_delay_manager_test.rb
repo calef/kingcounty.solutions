@@ -3,19 +3,16 @@
 require_relative '../../../test_helper'
 require 'minitest/autorun'
 require_relative '../../../../lib/mayhem/support/http_client'
+require_relative 'test_helpers'
 
 module Mayhem
   module Support
     module HttpClient
       class OperationDelayManagerTest < Minitest::Test
-        class FakeLogger
-          def warn(_message); end
-          def debug(_message); end
-          def info(_message); end
-        end
+        include HttpClientTestHelpers
 
         def setup
-          @logger = FakeLogger.new
+          @logger = HttpClientTestHelpers::FakeLogger.new
         end
 
         def test_normalize_operation_host_delays_with_valid_config

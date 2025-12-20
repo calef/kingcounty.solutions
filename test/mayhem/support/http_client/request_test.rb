@@ -3,71 +3,16 @@
 require_relative '../../../test_helper'
 require 'minitest/autorun'
 require_relative '../../../../lib/mayhem/support/http_client'
+require_relative 'test_helpers'
 
 module Mayhem
   module Support
     module HttpClient
       class RequestTest < Minitest::Test
-        class FakeLogger
-          attr_reader :warns, :debugs
-
-          def initialize
-            @warns = []
-            @debugs = []
-          end
-
-          def warn(message)
-            @warns << message
-          end
-
-          def debug(message)
-            @debugs << message
-          end
-
-          def info(_message); end
-        end
-
-        class FakeResponse
-          def initialize(code, headers = {})
-            @code = code
-            @headers = headers
-          end
-
-          def code
-            @code
-          end
-
-          def [](key)
-            @headers[key]
-          end
-        end
-
-        class FakeHttp
-          attr_reader :started, :request
-          attr_accessor :use_ssl, :read_timeout, :open_timeout, :verify_mode, :cert_store
-
-          def initialize(response)
-            @response = response
-            @started = false
-          end
-
-          def start
-            @started = true
-            yield self
-          end
-
-          def request(_request)
-            @request = _request
-            @response
-          end
-
-          def use_ssl?
-            !!@use_ssl
-          end
-        end
+        include HttpClientTestHelpers
 
         def setup
-          @logger = FakeLogger.new
+          @logger = HttpClientTestHelpers::FakeLogger.new
           @client = Mayhem::Support::HttpClient.new(
             logger: @logger,
             delay: 0,
@@ -80,8 +25,8 @@ module Mayhem
         end
 
         def test_perform_http_head_uses_net_http_connection
-          response = FakeResponse.new('200', {})
-          fake_http = FakeHttp.new(response)
+          response = HttpClientTestHelpers::FakeResponse.new('200', {})
+          fake_http = HttpClientTestHelpers::FakeHttp.new(response)
           Net::HTTP.stub(:new, ->(_host, _port) { fake_http }) do
             result = @client.send(:perform_http_head, URI('https://example.com'), OpenSSL::SSL::VERIFY_PEER)
             assert_equal response, result
