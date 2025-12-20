@@ -251,6 +251,6 @@ topics:
 - Employment & Job Support
 ---
 
-Join us for Microsoft Word Fundamentals Part 2, an in-person workshop designed to enhance your skills in using Microsoft Word. This session will focus on advanced features, formatting techniques, and practical applications to improve your productivity. Attendees can expect hands-on exercises and personalized support to help them master the software.
+Join us for Microsoft Word Fundamentals Part 2, an in-person workshop designed to enhance your skills in Microsoft Word. Attendees can expect to dive deeper into advanced features, formatting techniques, and effective document creation strategies. This session is perfect for those looking to boost their productivity and confidence with the software.
 
-The event will take place on Dec. 23, 2025, starting at 10 a.m. at WorkSource Seattle-King County. Whether you're looking to boost your career or simply improve your document creation skills, this workshop is perfect for you. Don't miss this opportunity to learn and connect with others in the community.
+The event takes place on Dec. 23, 2025, starting at 10 a.m. at WorkSource Seattle-King County. Don't miss this opportunity to improve your Word proficiency in a supportive learning environment.

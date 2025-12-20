@@ -1,28 +1,24 @@
 ---
-end_date: '2025-12-22T14:00:00-08:00'
+end_date: '2025-12-24T15:30:00-08:00'
 feed_content: '<div> <div> <section> <title>WorkSource Seattle-King County</title>
-  <script>{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/","url":"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/","name":"Spanish
-  Speakers only_Curriculum Vitae - EN L&#205;NEA R&#233;sum&#233; and Cover Letter
-  - WorkSource Seattle-King County","isPartOf":{"@id":"https://www.worksourceskc.org/#website"},"datePublished":"2025-11-25T21:45:03+00:00","description":"Este
-  taller te ensenara sobre c&#243;mo crear un curr&#237;culum vitae (CV) profesional
-  y efectivo. Explica los principales modelos de CV, las claves para","breadcrumb":{"@id":"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/"]}]},{"@type":"BreadcrumbList","@id":"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"Spanish
-  Speakers only_Curriculum Vitae &#8211; EN L&#205;NEA R&#233;sum&#233; and Cover
-  Letter"}]},{"@type":"WebSite","@id":"https://www.worksourceskc.org/#website","url":"https://www.worksourceskc.org/","name":"WorkSource
+  <script>{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://worksourceskc.org/event/interviewing-techniques-1403/","url":"https://worksourceskc.org/event/interviewing-techniques-1403/","name":"Interviewing
+  Techniques - WorkSource Seattle-King County","isPartOf":{"@id":"https://www.worksourceskc.org/#website"},"datePublished":"2025-11-25T21:45:20+00:00","description":"You
+  might have the best r&#233;sum&#233; ever, but if you don&#8217;t interview well,
+  it won&#8217;t matter. Being able to handle a job interview is a","breadcrumb":{"@id":"https://worksourceskc.org/event/interviewing-techniques-1403/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://worksourceskc.org/event/interviewing-techniques-1403/"]}]},{"@type":"BreadcrumbList","@id":"https://worksourceskc.org/event/interviewing-techniques-1403/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"Interviewing
+  Techniques"}]},{"@type":"WebSite","@id":"https://www.worksourceskc.org/#website","url":"https://www.worksourceskc.org/","name":"WorkSource
   Seattle-King County","description":"Let&#039;s find your path together!","publisher":{"@id":"https://www.worksourceskc.org/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.worksourceskc.org/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://www.worksourceskc.org/#organization","name":"WorkSource
   Seattle-King County","url":"https://www.worksourceskc.org/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.worksourceskc.org/#/schema/logo/image/","url":"","contentUrl":"","caption":"WorkSource
-  Seattle-King County"},"image":{"@id":"https://www.worksourceskc.org/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/worksourceskc/"]},{"@type":"Event","name":"Spanish
-  Speakers only_Curriculum Vitae &#8211; EN L&#205;NEA R&#233;sum&#233; and Cover
-  Letter","description":"Este taller te ensenara sobre c&#243;mo crear un curr&#237;culum
-  vitae (CV) profesional y efectivo. Explica los principales modelos de CV,&hellip;","url":"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2025-12-22T13:00:00-08:00","endDate":"2025-12-22T14:00:00-08:00","@id":"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/#event","mainEntityOfPage":{"@id":"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/"}}]}</script>
-  <title>Spanish Speakers only_Curriculum Vitae – EN LÍNEA Résumé and Cover Letter
-  – WorkSource Seattle-King County</title> <a>Skip to main content</a> <header> <div>
-  <div> <div> <div> <div> <ul> <li><a>Job Board</a></li> </ul> <ul> <li> <a>Staff
-  Log-In</a> </li> </ul> </div> </div> <div> <ul> <li> <a>Job Seekers</a> <ul> <li>
-  <a>Get Started with Personalized Support</a> <ul> <li><a>Sign Up for Services</a></li>
-  <li><a>Layoff Support</a></li> </ul> </li> <li> <a>Self-Serve Resources</a> <ul>
-  <li><a>Career Exploration</a></li> <li><a>Skills &amp; Training</a></li> <li><a>Job
-  Search</a></li> </ul> </li> <li><a>Workshops &amp; Hiring Events</a></li> </ul>
-  </li> <li> <a>Employers</a> <ul> <li> <a>Business Services</a> <ul> <li><a>Employer
+  Seattle-King County"},"image":{"@id":"https://www.worksourceskc.org/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/worksourceskc/"]},{"@type":"Event","name":"Interviewing
+  Techniques","description":"You might have the best r&#233;sum&#233; ever, but if
+  you don&#8217;t interview well, it won&#8217;t matter. Being able to handle&hellip;","url":"https://worksourceskc.org/event/interviewing-techniques-1403/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2025-12-24T13:30:00-08:00","endDate":"2025-12-24T15:30:00-08:00","@id":"https://worksourceskc.org/event/interviewing-techniques-1403/#event","mainEntityOfPage":{"@id":"https://worksourceskc.org/event/interviewing-techniques-1403/"}}]}</script>
+  <title>Interviewing Techniques – WorkSource Seattle-King County</title> <a>Skip
+  to main content</a> <header> <div> <div> <div> <div> <div> <ul> <li><a>Job Board</a></li>
+  </ul> <ul> <li> <a>Staff Log-In</a> </li> </ul> </div> </div> <div> <ul> <li> <a>Job
+  Seekers</a> <ul> <li> <a>Get Started with Personalized Support</a> <ul> <li><a>Sign
+  Up for Services</a></li> <li><a>Layoff Support</a></li> </ul> </li> <li> <a>Self-Serve
+  Resources</a> <ul> <li><a>Career Exploration</a></li> <li><a>Skills &amp; Training</a></li>
+  <li><a>Job Search</a></li> </ul> </li> <li><a>Workshops &amp; Hiring Events</a></li>
+  </ul> </li> <li> <a>Employers</a> <ul> <li> <a>Business Services</a> <ul> <li><a>Employer
   Inquiry Form</a></li> <li><a>Business Connection Partners</a></li> <li><a>Business
   Assistance &amp; Workforce Support</a></li> <li><a>Small-Business Assistance</a></li>
   <li><a>Employee Development</a></li> </ul> </li> <li><a>Layoff Support, Aversion
@@ -30,32 +26,29 @@ feed_content: '<div> <div> <section> <title>WorkSource Seattle-King County</titl
   <li><a>Downtown Seattle</a></li> <li><a>North Seattle</a></li> <li><a>Rainier</a></li>
   <li><a>South Seattle</a></li> </ul> </li> <li><a>About</a></li> </ul> </div> </div>
   </div> </div> </header> <div> <section> <div> <div> <div> <a>Go to Back to Calendar
-  </a> <h1>Spanish Speakers only_Curriculum Vitae – EN LÍNEA Résumé and Cover Letter</h1>
-  <div><p><strong>December 22</strong> Monday | 1:00pm - 2:00pm</p></div> <div> <a>Add
-  to Calendar</a> <span>December 22 1:00pm</span> <span>12/22/2025 2:00pm</span> <span>America/Los_Angeles</span>
-  <span>Spanish Speakers only_Curriculum Vitae – EN LÍNEA Résumé and Cover Letter</span>
-  <span>Este taller te ensenara sobre cómo crear un currículum vitae (CV) profesional
-  y efectivo. Explica los principales modelos de CV,…</span> </div> <div><p>Location:Reunión
-  en línea de Zoom La información del enlace y de la reunión se compartirá por correo
-  electrónico como mínimo 1 hora antes de que comience el taller en línea.</p></div>
-  <p><strong>Contact Name: </strong>Lama Salameh</p> <p><strong>Contact Email: </strong><a>lama@tracassoc.com</a></p>
-  <p><strong>Workshop Language: </strong>Spanish</p> <p><strong>Event Registration:
-  </strong>Sign Up Required</p> <p><a>Sign Up</a></p> <p><strong>Approved Unemployment
-  Insurance (UI) Job Search Activity:</strong> Yes</p> <p><strong>Additional Info:</strong></p>
-  <p>El cliente tendrá que registrarse en WorkSourceWA.com antes de la clase. Este
-  taller se ofrece en línea a través de las reuniones de Zoom.               Cuando
-  se registra en este evento, usa el mismo nombre y dirección de correo electrónico
-  que usa con la cuenta de worksourcewa.com.</p>Si necesita alojamiento para participar
-  en esta capacitación, comuníquese con el facilitador del taller. Indique su nombre,
-  la solicitud de alojamiento y su ciudad de residencia. Envíe su solicitud de alojamiento
-  lo antes posible para que podamos hacer los arreglos necesarios. <strong>Description:</strong><p>Este
-  taller te ensenara sobre cómo crear un currículum vitae (CV) profesional y efectivo.
-  Explica los principales modelos de CV, las claves para su creación, la estructura
-  recomendada, consejos para mejorarlo y errores comunes a evitar. Además, menciona
-  herramientas y plantillas útiles para elaborar CVs impactantes. No te lo pierdas,
-  sera una via muy util para incorporarte al mundo laboral.</p> </div> </div> </div>
-  </section> </div> </section> </div> </div>'
-feed_content_checksum: 301d714b3bbf45eebd605f738e1fbe8d6226733b
+  </a> <h1>Interviewing Techniques</h1> <div><p><strong>December 24</strong> Wednesday
+  | 1:30pm - 3:30pm</p></div> <div> <a>Add to Calendar</a> <span>December 24 1:30pm</span>
+  <span>12/24/2025 3:30pm</span> <span>America/Los_Angeles</span> <span>Interviewing
+  Techniques</span> <span>You might have the best résumé ever, but if you don’t interview
+  well, it won’t matter. Being able to handle…</span> </div> <div><p><a>2707 I St
+  NE, Auburn, WA 98002</a></p></div> <p><strong>Contact Name: </strong>Virtual Services
+  Team</p> <p><strong>Contact Phone: </strong>253.804.1177</p> <p><strong>Contact
+  Email: </strong><a>ESDGPVirtualServices@esd.wa.gov</a></p> <p><strong>Workshop Language:
+  </strong>English</p> <p><strong>Event Registration: </strong>Sign Up Required</p>
+  <p><a>Sign Up</a></p> <p><strong>Approved Unemployment Insurance (UI) Job Search
+  Activity:</strong> Yes</p> <p><strong>Additional Info:</strong></p> <p>Please go
+  to <a>WorkSourceWA.com</a> and create your account prior to attending this workshop.
+  If you have a disability and need an accommodation to participate in this event,
+  please contact Auburn WorkSource at 253.804.1177WorkSource is an equal opportunity
+  employer/program. Auxiliary aids and services are available upon request to individuals
+  with disabilities. Washington Relay Service: 711 </p> <strong>Description:</strong><p>You
+  might have the best résumé ever, but if you don’t interview well, it won’t matter.
+  Being able to handle a job interview is a necessity for any job seeker. Knowing
+  what employers are looking for and being prepared are absolute musts. In this workshop,
+  you will learn valuable interviewing tips and have the chance to practice answers
+  to frequently asked—and sometimes difficult—questions in a supportive, realistic
+  environment.</p> </div> </div> </div> </section> </div> </section> </div> </div>'
+feed_content_checksum: 30d4b6a39e81fad456f36f6c2b039987e3d32b16
 images: []
 location: ''
 locations:
@@ -67,47 +60,41 @@ original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta c
   />\n\t<style>img:is([sizes=\"auto\" i], [sizes^=\"auto,\" i]) { contain-intrinsic-size:
   3000px 1500px }</style>\n\t\n\t<!-- This site is optimized with the Yoast SEO plugin
   v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n\t<meta name=\"description\"
-  content=\"Este taller te ensenara sobre c&#243;mo crear un curr&#237;culum vitae
-  (CV) profesional y efectivo. Explica los principales modelos de CV, las claves para\"
-  />\n\t<link rel=\"canonical\" href=\"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/\"
+  content=\"You might have the best r&#233;sum&#233; ever, but if you don&#8217;t
+  interview well, it won&#8217;t matter. Being able to handle a job interview is a\"
+  />\n\t<link rel=\"canonical\" href=\"https://worksourceskc.org/event/interviewing-techniques-1403/\"
   />\n\t<meta property=\"og:locale\" content=\"en_US\" />\n\t<meta property=\"og:type\"
-  content=\"article\" />\n\t<meta property=\"og:title\" content=\"Spanish Speakers
-  only_Curriculum Vitae - EN L&#205;NEA R&#233;sum&#233; and Cover Letter - WorkSource
-  Seattle-King County\" />\n\t<meta property=\"og:description\" content=\"Este taller
-  te ensenara sobre c&#243;mo crear un curr&#237;culum vitae (CV) profesional y efectivo.
-  Explica los principales modelos de CV, las claves para\" />\n\t<meta property=\"og:url\"
-  content=\"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/\"
-  />\n\t<meta property=\"og:site_name\" content=\"WorkSource Seattle-King County\"
-  />\n\t<meta property=\"article:publisher\" content=\"https://www.facebook.com/worksourceskc/\"
+  content=\"article\" />\n\t<meta property=\"og:title\" content=\"Interviewing Techniques
+  - WorkSource Seattle-King County\" />\n\t<meta property=\"og:description\" content=\"You
+  might have the best r&#233;sum&#233; ever, but if you don&#8217;t interview well,
+  it won&#8217;t matter. Being able to handle a job interview is a\" />\n\t<meta property=\"og:url\"
+  content=\"https://worksourceskc.org/event/interviewing-techniques-1403/\" />\n\t<meta
+  property=\"og:site_name\" content=\"WorkSource Seattle-King County\" />\n\t<meta
+  property=\"article:publisher\" content=\"https://www.facebook.com/worksourceskc/\"
   />\n\t<meta name=\"twitter:card\" content=\"summary_large_image\" />\n\t<script
-  type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/\",\"url\":\"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/\",\"name\":\"Spanish
-  Speakers only_Curriculum Vitae - EN L&#205;NEA R&#233;sum&#233; and Cover Letter
-  - WorkSource Seattle-King County\",\"isPartOf\":{\"@id\":\"https://www.worksourceskc.org/#website\"},\"datePublished\":\"2025-11-25T21:45:03+00:00\",\"description\":\"Este
-  taller te ensenara sobre c&#243;mo crear un curr&#237;culum vitae (CV) profesional
-  y efectivo. Explica los principales modelos de CV, las claves para\",\"breadcrumb\":{\"@id\":\"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.worksourceskc.org/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Events\",\"item\":\"https://worksourceskc.org/events_list/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Spanish
-  Speakers only_Curriculum Vitae &#8211; EN L&#205;NEA R&#233;sum&#233; and Cover
-  Letter\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://www.worksourceskc.org/#website\",\"url\":\"https://www.worksourceskc.org/\",\"name\":\"WorkSource
+  type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://worksourceskc.org/event/interviewing-techniques-1403/\",\"url\":\"https://worksourceskc.org/event/interviewing-techniques-1403/\",\"name\":\"Interviewing
+  Techniques - WorkSource Seattle-King County\",\"isPartOf\":{\"@id\":\"https://www.worksourceskc.org/#website\"},\"datePublished\":\"2025-11-25T21:45:20+00:00\",\"description\":\"You
+  might have the best r&#233;sum&#233; ever, but if you don&#8217;t interview well,
+  it won&#8217;t matter. Being able to handle a job interview is a\",\"breadcrumb\":{\"@id\":\"https://worksourceskc.org/event/interviewing-techniques-1403/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://worksourceskc.org/event/interviewing-techniques-1403/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://worksourceskc.org/event/interviewing-techniques-1403/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.worksourceskc.org/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Events\",\"item\":\"https://worksourceskc.org/events_list/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Interviewing
+  Techniques\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://www.worksourceskc.org/#website\",\"url\":\"https://www.worksourceskc.org/\",\"name\":\"WorkSource
   Seattle-King County\",\"description\":\"Let&#039;s find your path together!\",\"publisher\":{\"@id\":\"https://www.worksourceskc.org/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://www.worksourceskc.org/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https://www.worksourceskc.org/#organization\",\"name\":\"WorkSource
   Seattle-King County\",\"url\":\"https://www.worksourceskc.org/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://www.worksourceskc.org/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"WorkSource
-  Seattle-King County\"},\"image\":{\"@id\":\"https://www.worksourceskc.org/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/worksourceskc/\"]},{\"@type\":\"Event\",\"name\":\"Spanish
-  Speakers only_Curriculum Vitae &#8211; EN L&#205;NEA R&#233;sum&#233; and Cover
-  Letter\",\"description\":\"Este taller te ensenara sobre c&#243;mo crear un curr&#237;culum
-  vitae (CV) profesional y efectivo. Explica los principales modelos de CV,&hellip;\",\"url\":\"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/\",\"eventAttendanceMode\":\"https://schema.org/OfflineEventAttendanceMode\",\"eventStatus\":\"https://schema.org/EventScheduled\",\"startDate\":\"2025-12-22T13:00:00-08:00\",\"endDate\":\"2025-12-22T14:00:00-08:00\",\"@id\":\"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/#event\",\"mainEntityOfPage\":{\"@id\":\"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/\"}}]}</script>\n\t<!--
-  / Yoast SEO plugin. -->\n\n\n<title>Spanish Speakers only_Curriculum Vitae - EN
-  L&#205;NEA R&#233;sum&#233; and Cover Letter - WorkSource Seattle-King County</title>\n<link
-  rel='dns-prefetch' href='//worksourceskc.org' />\n<link rel='dns-prefetch' href='//connect.facebook.net'
-  />\n<link rel='dns-prefetch' href='//static.addtoany.com' />\n<link rel='dns-prefetch'
-  href='//ajax.googleapis.com' />\n<link rel='dns-prefetch' href='//maps.googleapis.com'
-  />\n<link rel='dns-prefetch' href='//www.googletagmanager.com' />\n<link rel='dns-prefetch'
-  href='//www.google.com' />\n<link rel=\"alternate\" type=\"application/rss+xml\"
-  title=\"WorkSource Seattle-King County &raquo; Feed\" href=\"https://worksourceskc.org/feed/\"
-  />\n<link rel=\"alternate\" type=\"application/rss+xml\" title=\"WorkSource Seattle-King
-  County &raquo; Comments Feed\" href=\"https://worksourceskc.org/comments/feed/\"
+  Seattle-King County\"},\"image\":{\"@id\":\"https://www.worksourceskc.org/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/worksourceskc/\"]},{\"@type\":\"Event\",\"name\":\"Interviewing
+  Techniques\",\"description\":\"You might have the best r&#233;sum&#233; ever, but
+  if you don&#8217;t interview well, it won&#8217;t matter. Being able to handle&hellip;\",\"url\":\"https://worksourceskc.org/event/interviewing-techniques-1403/\",\"eventAttendanceMode\":\"https://schema.org/OfflineEventAttendanceMode\",\"eventStatus\":\"https://schema.org/EventScheduled\",\"startDate\":\"2025-12-24T13:30:00-08:00\",\"endDate\":\"2025-12-24T15:30:00-08:00\",\"@id\":\"https://worksourceskc.org/event/interviewing-techniques-1403/#event\",\"mainEntityOfPage\":{\"@id\":\"https://worksourceskc.org/event/interviewing-techniques-1403/\"}}]}</script>\n\t<!--
+  / Yoast SEO plugin. -->\n\n\n<title>Interviewing Techniques - WorkSource Seattle-King
+  County</title>\n<link rel='dns-prefetch' href='//worksourceskc.org' />\n<link rel='dns-prefetch'
+  href='//connect.facebook.net' />\n<link rel='dns-prefetch' href='//static.addtoany.com'
+  />\n<link rel='dns-prefetch' href='//ajax.googleapis.com' />\n<link rel='dns-prefetch'
+  href='//maps.googleapis.com' />\n<link rel='dns-prefetch' href='//www.googletagmanager.com'
+  />\n<link rel='dns-prefetch' href='//www.google.com' />\n<link rel=\"alternate\"
+  type=\"application/rss+xml\" title=\"WorkSource Seattle-King County &raquo; Feed\"
+  href=\"https://worksourceskc.org/feed/\" />\n<link rel=\"alternate\" type=\"application/rss+xml\"
+  title=\"WorkSource Seattle-King County &raquo; Comments Feed\" href=\"https://worksourceskc.org/comments/feed/\"
   />\n<link rel=\"alternate\" type=\"text/calendar\" title=\"WorkSource Seattle-King
   County &raquo; iCal Feed\" href=\"https://worksourceskc.org/events_list/?ical=1\"
   />\n<link rel=\"alternate\" type=\"application/rss+xml\" title=\"WorkSource Seattle-King
-  County &raquo; Spanish Speakers only_Curriculum Vitae &#8211; EN L&#205;NEA R&#233;sum&#233;
-  and Cover Letter Comments Feed\" href=\"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/feed/\"
+  County &raquo; Interviewing Techniques Comments Feed\" href=\"https://worksourceskc.org/event/interviewing-techniques-1403/feed/\"
   />\n\t\t<!-- This site uses the Google Analytics by MonsterInsights plugin v8.7.0
   - Using Analytics tracking - https://www.monsterinsights.com/ -->\n\t\t\t\t\t\t\t<script
   src=\"//www.googletagmanager.com/gtag/js?id=G-LT415XR2H3\"  data-cfasync=\"false\"
@@ -204,18 +191,18 @@ original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta c
   :where(p.has-background){padding:1.25em 2.375em}:where(p.has-text-color:not(.has-link-color))
   a{color:inherit}p.has-text-align-left[style*=\"writing-mode:vertical-lr\"],p.has-text-align-right[style*=\"writing-mode:vertical-rl\"]{rotate:180deg}\n</style>\n<link
   rel=\"https://api.w.org/\" href=\"https://worksourceskc.org/wp-json/\" /><link rel=\"alternate\"
-  title=\"JSON\" type=\"application/json\" href=\"https://worksourceskc.org/wp-json/wp/v2/tribe_events/362592\"
+  title=\"JSON\" type=\"application/json\" href=\"https://worksourceskc.org/wp-json/wp/v2/tribe_events/362606\"
   /><link rel=\"EditURI\" type=\"application/rsd+xml\" title=\"RSD\" href=\"https://worksourceskc.org/xmlrpc.php?rsd\"
-  />\n<link rel='shortlink' href='https://worksourceskc.org/?p=362592' />\n<link rel=\"alternate\"
-  title=\"oEmbed (JSON)\" type=\"application/json+oembed\" href=\"https://worksourceskc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fworksourceskc.org%2Fevent%2Fspanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077%2F\"
-  />\n<link rel=\"alternate\" title=\"oEmbed (XML)\" type=\"text/xml+oembed\" href=\"https://worksourceskc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fworksourceskc.org%2Fevent%2Fspanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077%2F&#038;format=xml\"
+  />\n<link rel='shortlink' href='https://worksourceskc.org/?p=362606' />\n<link rel=\"alternate\"
+  title=\"oEmbed (JSON)\" type=\"application/json+oembed\" href=\"https://worksourceskc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fworksourceskc.org%2Fevent%2Finterviewing-techniques-1403%2F\"
+  />\n<link rel=\"alternate\" title=\"oEmbed (XML)\" type=\"text/xml+oembed\" href=\"https://worksourceskc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fworksourceskc.org%2Fevent%2Finterviewing-techniques-1403%2F&#038;format=xml\"
   />\n<script type=\"text/javascript\" src=\"https://www.bugherd.com/sidebarv2.js?apikey=kzhpjsbdgxin5llwmvzeeg\"
   async=\"true\"></script><!-- Custom Facebook Feed JS vars -->\n<script type=\"text/javascript\">\nvar
   cffsiteurl = \"https://worksourceskc.org/wp-content/plugins\";\nvar cffajaxurl =
   \"https://worksourceskc.org/wp-admin/admin-ajax.php\";\n\n\nvar cfflinkhashtags
   = \"false\";\n</script>\n<meta name=\"generator\" content=\"Site Kit by Google 1.153.0\"
   /><meta name=\"tec-api-version\" content=\"v1\"><meta name=\"tec-api-origin\" content=\"https://worksourceskc.org\"><link
-  rel=\"alternate\" href=\"https://worksourceskc.org/wp-json/tribe/events/v1/events/362592\"
+  rel=\"alternate\" href=\"https://worksourceskc.org/wp-json/tribe/events/v1/events/362606\"
   /><script type=\"importmap\" id=\"wp-importmap\">\n{\"imports\":{\"@wordpress\\/interactivity\":\"https:\\/\\/worksourceskc.org\\/wp-includes\\/js\\/dist\\/script-modules\\/interactivity\\/index.min.js?ver=55aebb6e0a16726baffb\"}}\n</script>\n<script
   type=\"module\" src=\"https://worksourceskc.org/wp-includes/js/dist/script-modules/block-library/navigation/view.min.js?ver=61572d447d60c0aa5240\"
   id=\"@wordpress/block-library/navigation/view-js-module\"></script>\n<link rel=\"modulepreload\"
@@ -248,13 +235,19 @@ original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta c
   0;.add-to-cart-quantity{padding:8px 0 8px 8px;background:#eaeaea;width:32px;border-radius:4px
   0 0 4px;height:18px;min-height:unset;display:inline-block;font-size:13px;line-height:normal}.add-to-cart-button{padding:8px;border-radius:4px;background:#6246d7;color:white;height:18px;min-height:unset;display:block;text-align:center;min-width:90px;font-size:13px;line-height:normal;&.add-to-cart-variable{border-radius:4px}&.loading{content:url(\"data:image/svg+xml,%3Csvg
   width='38' height='38' viewBox='0 0 38 38' xmlns='http://www.w3.org/2000/svg' stroke='%23fff'%3E%3Cg
-  fill='none' fill-rule='evenodd'%3E%3Cg transform='translate(1 1)"
-source_url: https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/
-start_date: '2025-12-22T13:00:00-08:00'
+  fill='none' fill-rule='evenodd'%3E%3Cg transform='translate(1 1)' stroke-width='2'%3E%3Ccircle
+  stroke-opacity='.5' cx='18' cy='18' r='18'/%3E%3Cpath d='M36 18c0-9.94-8.06-18-18-18'%3E%3CanimateTransform
+  attributeName='transform' type='rotate' from='0 18 18' to='360 18 18' dur='1s' repeatCount='indefinite'/%3E%3C/path%3E%3C/g%3E%3C/g%3E%3C/svg%3E\")}}a.added_to_cart{flex-basis:100%;margin-top:8px}}.add-to-cart-container:has(.add-to-cart-quantity){.add-to-cart-button{border-radius:0
+  4px 4px 0}}.sale-badge{--font-size:14px;--font-color:white;--background-color:#6246d7;position:absolute;top:12px;right:12px;padding:6px
+  12px;font-size:var(--font-size);color:var(--font-color);background:var(--background-color);box-shadow:0
+  0 6px -3px rgb(0,0,0);&.sale-badge-capsule{border-radius:50px}&.sale-badge-round{border-radius:3px}&.sale-badge-top-left{right:unset;left:12px}&.sale-badge-bottom-left{right:unset;top:unset;bottom:12px;left:12px}&.sale-badge-bottom-right{top:unset;bottom:12px}}}.asp_r
+  .item{.asp__af-tt-container{position:relative;z-index:2;.asp__af-tt-link{transition:"
+source_url: https://worksourceskc.org/event/interviewing-techniques-1403/
+start_date: '2025-12-24T13:30:00-08:00'
 summarized: true
-title: Spanish Speakers only_Curriculum Vitae - EN LÍNEA Résumé and Cover Letter
+title: Interviewing Techniques
 topics:
 - Employment & Job Support
 ---
 
-Join WorkSource Seattle-King County for a Spanish-speaking workshop focused on creating effective résumés and cover letters. Attendees will learn essential tips and strategies to enhance their job application materials, tailored specifically for Spanish speakers. This event will take place on Dec. 22, 2025, starting at 1 p.m. Participants can expect an interactive session that will help them stand out in the job market. Don't miss this opportunity to improve your professional documents and boost your career prospects.
+Join WorkSource Seattle-King County for a workshop on Interviewing Techniques on Dec. 24, 2025, starting at 1:30 p.m. This event is designed to equip attendees with essential skills for successful job interviews. Participants will learn effective strategies to prepare for interviews, answer common questions, and present themselves confidently to potential employers. Whether you're entering the job market or looking to enhance your interviewing skills, this workshop offers valuable insights and hands-on practice. Don't miss this opportunity to improve your chances of landing your dream job.

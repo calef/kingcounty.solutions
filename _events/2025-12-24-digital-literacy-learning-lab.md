@@ -1,28 +1,24 @@
 ---
-end_date: '2025-12-22T14:00:00-08:00'
+end_date: '2025-12-24T16:00:00-08:00'
 feed_content: '<div> <div> <section> <title>WorkSource Seattle-King County</title>
-  <script>{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/","url":"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/","name":"Spanish
-  Speakers only_Curriculum Vitae - EN L&#205;NEA R&#233;sum&#233; and Cover Letter
-  - WorkSource Seattle-King County","isPartOf":{"@id":"https://www.worksourceskc.org/#website"},"datePublished":"2025-11-25T21:45:03+00:00","description":"Este
-  taller te ensenara sobre c&#243;mo crear un curr&#237;culum vitae (CV) profesional
-  y efectivo. Explica los principales modelos de CV, las claves para","breadcrumb":{"@id":"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/"]}]},{"@type":"BreadcrumbList","@id":"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"Spanish
-  Speakers only_Curriculum Vitae &#8211; EN L&#205;NEA R&#233;sum&#233; and Cover
-  Letter"}]},{"@type":"WebSite","@id":"https://www.worksourceskc.org/#website","url":"https://www.worksourceskc.org/","name":"WorkSource
+  <script>{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://worksourceskc.org/event/digital-literacy-learning-lab-4645/","url":"https://worksourceskc.org/event/digital-literacy-learning-lab-4645/","name":"Digital
+  Literacy Learning Lab - WorkSource Seattle-King County","isPartOf":{"@id":"https://www.worksourceskc.org/#website"},"datePublished":"2025-11-25T21:44:49+00:00","dateModified":"2025-12-20T10:34:51+00:00","description":"Our
+  self-paced digital literacy learning lab is a welcoming and supportive space for
+  people of all ages and skill levels to learn the basics of computer","breadcrumb":{"@id":"https://worksourceskc.org/event/digital-literacy-learning-lab-4645/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://worksourceskc.org/event/digital-literacy-learning-lab-4645/"]}]},{"@type":"BreadcrumbList","@id":"https://worksourceskc.org/event/digital-literacy-learning-lab-4645/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"Digital
+  Literacy Learning Lab"}]},{"@type":"WebSite","@id":"https://www.worksourceskc.org/#website","url":"https://www.worksourceskc.org/","name":"WorkSource
   Seattle-King County","description":"Let&#039;s find your path together!","publisher":{"@id":"https://www.worksourceskc.org/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.worksourceskc.org/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://www.worksourceskc.org/#organization","name":"WorkSource
   Seattle-King County","url":"https://www.worksourceskc.org/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.worksourceskc.org/#/schema/logo/image/","url":"","contentUrl":"","caption":"WorkSource
-  Seattle-King County"},"image":{"@id":"https://www.worksourceskc.org/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/worksourceskc/"]},{"@type":"Event","name":"Spanish
-  Speakers only_Curriculum Vitae &#8211; EN L&#205;NEA R&#233;sum&#233; and Cover
-  Letter","description":"Este taller te ensenara sobre c&#243;mo crear un curr&#237;culum
-  vitae (CV) profesional y efectivo. Explica los principales modelos de CV,&hellip;","url":"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2025-12-22T13:00:00-08:00","endDate":"2025-12-22T14:00:00-08:00","@id":"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/#event","mainEntityOfPage":{"@id":"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/"}}]}</script>
-  <title>Spanish Speakers only_Curriculum Vitae – EN LÍNEA Résumé and Cover Letter
-  – WorkSource Seattle-King County</title> <a>Skip to main content</a> <header> <div>
-  <div> <div> <div> <div> <ul> <li><a>Job Board</a></li> </ul> <ul> <li> <a>Staff
-  Log-In</a> </li> </ul> </div> </div> <div> <ul> <li> <a>Job Seekers</a> <ul> <li>
-  <a>Get Started with Personalized Support</a> <ul> <li><a>Sign Up for Services</a></li>
-  <li><a>Layoff Support</a></li> </ul> </li> <li> <a>Self-Serve Resources</a> <ul>
-  <li><a>Career Exploration</a></li> <li><a>Skills &amp; Training</a></li> <li><a>Job
-  Search</a></li> </ul> </li> <li><a>Workshops &amp; Hiring Events</a></li> </ul>
-  </li> <li> <a>Employers</a> <ul> <li> <a>Business Services</a> <ul> <li><a>Employer
+  Seattle-King County"},"image":{"@id":"https://www.worksourceskc.org/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/worksourceskc/"]},{"@type":"Event","name":"Digital
+  Literacy Learning Lab","description":"Our self-paced digital literacy learning lab
+  is a welcoming and supportive space for people of all ages and skill levels&hellip;","url":"https://worksourceskc.org/event/digital-literacy-learning-lab-4645/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2025-12-24T12:30:00-08:00","endDate":"2025-12-24T16:00:00-08:00","@id":"https://worksourceskc.org/event/digital-literacy-learning-lab-4645/#event","mainEntityOfPage":{"@id":"https://worksourceskc.org/event/digital-literacy-learning-lab-4645/"}}]}</script>
+  <title>Digital Literacy Learning Lab – WorkSource Seattle-King County</title> <a>Skip
+  to main content</a> <header> <div> <div> <div> <div> <div> <ul> <li><a>Job Board</a></li>
+  </ul> <ul> <li> <a>Staff Log-In</a> </li> </ul> </div> </div> <div> <ul> <li> <a>Job
+  Seekers</a> <ul> <li> <a>Get Started with Personalized Support</a> <ul> <li><a>Sign
+  Up for Services</a></li> <li><a>Layoff Support</a></li> </ul> </li> <li> <a>Self-Serve
+  Resources</a> <ul> <li><a>Career Exploration</a></li> <li><a>Skills &amp; Training</a></li>
+  <li><a>Job Search</a></li> </ul> </li> <li><a>Workshops &amp; Hiring Events</a></li>
+  </ul> </li> <li> <a>Employers</a> <ul> <li> <a>Business Services</a> <ul> <li><a>Employer
   Inquiry Form</a></li> <li><a>Business Connection Partners</a></li> <li><a>Business
   Assistance &amp; Workforce Support</a></li> <li><a>Small-Business Assistance</a></li>
   <li><a>Employee Development</a></li> </ul> </li> <li><a>Layoff Support, Aversion
@@ -30,32 +26,43 @@ feed_content: '<div> <div> <section> <title>WorkSource Seattle-King County</titl
   <li><a>Downtown Seattle</a></li> <li><a>North Seattle</a></li> <li><a>Rainier</a></li>
   <li><a>South Seattle</a></li> </ul> </li> <li><a>About</a></li> </ul> </div> </div>
   </div> </div> </header> <div> <section> <div> <div> <div> <a>Go to Back to Calendar
-  </a> <h1>Spanish Speakers only_Curriculum Vitae – EN LÍNEA Résumé and Cover Letter</h1>
-  <div><p><strong>December 22</strong> Monday | 1:00pm - 2:00pm</p></div> <div> <a>Add
-  to Calendar</a> <span>December 22 1:00pm</span> <span>12/22/2025 2:00pm</span> <span>America/Los_Angeles</span>
-  <span>Spanish Speakers only_Curriculum Vitae – EN LÍNEA Résumé and Cover Letter</span>
-  <span>Este taller te ensenara sobre cómo crear un currículum vitae (CV) profesional
-  y efectivo. Explica los principales modelos de CV,…</span> </div> <div><p>Location:Reunión
-  en línea de Zoom La información del enlace y de la reunión se compartirá por correo
-  electrónico como mínimo 1 hora antes de que comience el taller en línea.</p></div>
-  <p><strong>Contact Name: </strong>Lama Salameh</p> <p><strong>Contact Email: </strong><a>lama@tracassoc.com</a></p>
-  <p><strong>Workshop Language: </strong>Spanish</p> <p><strong>Event Registration:
-  </strong>Sign Up Required</p> <p><a>Sign Up</a></p> <p><strong>Approved Unemployment
-  Insurance (UI) Job Search Activity:</strong> Yes</p> <p><strong>Additional Info:</strong></p>
-  <p>El cliente tendrá que registrarse en WorkSourceWA.com antes de la clase. Este
-  taller se ofrece en línea a través de las reuniones de Zoom.               Cuando
-  se registra en este evento, usa el mismo nombre y dirección de correo electrónico
-  que usa con la cuenta de worksourcewa.com.</p>Si necesita alojamiento para participar
-  en esta capacitación, comuníquese con el facilitador del taller. Indique su nombre,
-  la solicitud de alojamiento y su ciudad de residencia. Envíe su solicitud de alojamiento
-  lo antes posible para que podamos hacer los arreglos necesarios. <strong>Description:</strong><p>Este
-  taller te ensenara sobre cómo crear un currículum vitae (CV) profesional y efectivo.
-  Explica los principales modelos de CV, las claves para su creación, la estructura
-  recomendada, consejos para mejorarlo y errores comunes a evitar. Además, menciona
-  herramientas y plantillas útiles para elaborar CVs impactantes. No te lo pierdas,
-  sera una via muy util para incorporarte al mundo laboral.</p> </div> </div> </div>
-  </section> </div> </section> </div> </div>'
-feed_content_checksum: 301d714b3bbf45eebd605f738e1fbe8d6226733b
+  </a> <h1>Digital Literacy Learning Lab</h1> <div><p><strong>December 24</strong>
+  Wednesday | 12:30pm - 4:00pm</p></div> <div> <a>Add to Calendar</a> <span>December
+  24 12:30pm</span> <span>12/24/2025 4:00pm</span> <span>America/Los_Angeles</span>
+  <span>Digital Literacy Learning Lab</span> <span>Our self-paced digital literacy
+  learning lab is a welcoming and supportive space for people of all ages and skill
+  levels…</span> </div> <div><p>WorkSource Spokane130 S. ArthurSpokane, WA 99202</p></div>
+  <p><strong>Room: </strong>Latah Creek Computer Lab</p> <p><strong>Contact Name:
+  </strong>Tyler Wright</p> <p><strong>Contact Email: </strong><a>tyler.wright@esd.wa.gov</a></p>
+  <p><strong>Workshop Language: </strong>English</p> <p><strong>Approved Unemployment
+  Insurance (UI) Job Search Activity:</strong> Yes</p> <strong>Description:</strong>Our
+  self-paced digital literacy learning lab is a welcoming and supportive space for
+  people of all ages and skill levels to learn the basics of computer and internet
+  use. Our curriculum covers a wide range of topics, from basic computer skills like
+  using a mouse and keyboard to more advanced topics like using email, word processing,
+  and spreadsheets. You can learn at your own pace and on your own schedule. Staff
+  are available to help you if you get stuck. Whether you''re new to computers or
+  you just want to brush up on your skills, our self-paced digital literacy learning
+  lab is the perfect place for you.<strong>Benefits of taking self-paced digital literacy
+  learning modules</strong><ul> <li>Learn at your own pace and on your own schedule
+  </li> <li>Get personalized help from friendly staff </li> <li>Access a variety of
+  resources, including online tutorials, books, and practice exercises </li> <li>Learn
+  the skills you need to use computers and the internet effectively in your daily
+  life, work, and education</li> </ul> <strong>Who can benefit from taking self-paced
+  digital literacy learning modules?</strong><ul> <li>Anyone who is new to computers
+  or wants to brush up on their skills </li> <li>Students who need to learn computer
+  skills for school or college </li> <li>Adults who need to learn computer skills
+  for work or job hunting </li> <li>Seniors who want to learn how to use computers
+  and the internet to stay connected with family and friends</li> </ul> <strong>How
+  to get started:</strong>To get started, simply visit our self-paced digital literacy
+  learning lab during our open hours. The instructor will assist you with getting
+  set up within our learning management system. You can then start learning at your
+  own pace and on your own schedule.Not sure what modules to start with? Take our
+  <a>Digital Skills Placement Assessment</a>.Or visit this link to register: <a>WorkSource
+  Spokane Learning Center Registration</a><strong>We look forward to helping you learn
+  the digital skills you need to succeed!</strong> </div> </div> </div> </section>
+  </div> </section> </div> </div>'
+feed_content_checksum: f9384f5f2138e51e4289c3304b87448546af29c9
 images: []
 location: ''
 locations:
@@ -67,47 +74,43 @@ original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta c
   />\n\t<style>img:is([sizes=\"auto\" i], [sizes^=\"auto,\" i]) { contain-intrinsic-size:
   3000px 1500px }</style>\n\t\n\t<!-- This site is optimized with the Yoast SEO plugin
   v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n\t<meta name=\"description\"
-  content=\"Este taller te ensenara sobre c&#243;mo crear un curr&#237;culum vitae
-  (CV) profesional y efectivo. Explica los principales modelos de CV, las claves para\"
-  />\n\t<link rel=\"canonical\" href=\"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/\"
+  content=\"Our self-paced digital literacy learning lab is a welcoming and supportive
+  space for people of all ages and skill levels to learn the basics of computer\"
+  />\n\t<link rel=\"canonical\" href=\"https://worksourceskc.org/event/digital-literacy-learning-lab-4645/\"
   />\n\t<meta property=\"og:locale\" content=\"en_US\" />\n\t<meta property=\"og:type\"
-  content=\"article\" />\n\t<meta property=\"og:title\" content=\"Spanish Speakers
-  only_Curriculum Vitae - EN L&#205;NEA R&#233;sum&#233; and Cover Letter - WorkSource
-  Seattle-King County\" />\n\t<meta property=\"og:description\" content=\"Este taller
-  te ensenara sobre c&#243;mo crear un curr&#237;culum vitae (CV) profesional y efectivo.
-  Explica los principales modelos de CV, las claves para\" />\n\t<meta property=\"og:url\"
-  content=\"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/\"
+  content=\"article\" />\n\t<meta property=\"og:title\" content=\"Digital Literacy
+  Learning Lab - WorkSource Seattle-King County\" />\n\t<meta property=\"og:description\"
+  content=\"Our self-paced digital literacy learning lab is a welcoming and supportive
+  space for people of all ages and skill levels to learn the basics of computer\"
+  />\n\t<meta property=\"og:url\" content=\"https://worksourceskc.org/event/digital-literacy-learning-lab-4645/\"
   />\n\t<meta property=\"og:site_name\" content=\"WorkSource Seattle-King County\"
   />\n\t<meta property=\"article:publisher\" content=\"https://www.facebook.com/worksourceskc/\"
-  />\n\t<meta name=\"twitter:card\" content=\"summary_large_image\" />\n\t<script
-  type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/\",\"url\":\"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/\",\"name\":\"Spanish
-  Speakers only_Curriculum Vitae - EN L&#205;NEA R&#233;sum&#233; and Cover Letter
-  - WorkSource Seattle-King County\",\"isPartOf\":{\"@id\":\"https://www.worksourceskc.org/#website\"},\"datePublished\":\"2025-11-25T21:45:03+00:00\",\"description\":\"Este
-  taller te ensenara sobre c&#243;mo crear un curr&#237;culum vitae (CV) profesional
-  y efectivo. Explica los principales modelos de CV, las claves para\",\"breadcrumb\":{\"@id\":\"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.worksourceskc.org/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Events\",\"item\":\"https://worksourceskc.org/events_list/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Spanish
-  Speakers only_Curriculum Vitae &#8211; EN L&#205;NEA R&#233;sum&#233; and Cover
-  Letter\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://www.worksourceskc.org/#website\",\"url\":\"https://www.worksourceskc.org/\",\"name\":\"WorkSource
+  />\n\t<meta property=\"article:modified_time\" content=\"2025-12-20T10:34:51+00:00\"
+  />\n\t<meta name=\"twitter:card\" content=\"summary_large_image\" />\n\t<meta name=\"twitter:label1\"
+  content=\"Est. reading time\" />\n\t<meta name=\"twitter:data1\" content=\"2 minutes\"
+  />\n\t<script type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://worksourceskc.org/event/digital-literacy-learning-lab-4645/\",\"url\":\"https://worksourceskc.org/event/digital-literacy-learning-lab-4645/\",\"name\":\"Digital
+  Literacy Learning Lab - WorkSource Seattle-King County\",\"isPartOf\":{\"@id\":\"https://www.worksourceskc.org/#website\"},\"datePublished\":\"2025-11-25T21:44:49+00:00\",\"dateModified\":\"2025-12-20T10:34:51+00:00\",\"description\":\"Our
+  self-paced digital literacy learning lab is a welcoming and supportive space for
+  people of all ages and skill levels to learn the basics of computer\",\"breadcrumb\":{\"@id\":\"https://worksourceskc.org/event/digital-literacy-learning-lab-4645/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://worksourceskc.org/event/digital-literacy-learning-lab-4645/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://worksourceskc.org/event/digital-literacy-learning-lab-4645/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.worksourceskc.org/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Events\",\"item\":\"https://worksourceskc.org/events_list/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Digital
+  Literacy Learning Lab\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://www.worksourceskc.org/#website\",\"url\":\"https://www.worksourceskc.org/\",\"name\":\"WorkSource
   Seattle-King County\",\"description\":\"Let&#039;s find your path together!\",\"publisher\":{\"@id\":\"https://www.worksourceskc.org/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://www.worksourceskc.org/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https://www.worksourceskc.org/#organization\",\"name\":\"WorkSource
   Seattle-King County\",\"url\":\"https://www.worksourceskc.org/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://www.worksourceskc.org/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"WorkSource
-  Seattle-King County\"},\"image\":{\"@id\":\"https://www.worksourceskc.org/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/worksourceskc/\"]},{\"@type\":\"Event\",\"name\":\"Spanish
-  Speakers only_Curriculum Vitae &#8211; EN L&#205;NEA R&#233;sum&#233; and Cover
-  Letter\",\"description\":\"Este taller te ensenara sobre c&#243;mo crear un curr&#237;culum
-  vitae (CV) profesional y efectivo. Explica los principales modelos de CV,&hellip;\",\"url\":\"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/\",\"eventAttendanceMode\":\"https://schema.org/OfflineEventAttendanceMode\",\"eventStatus\":\"https://schema.org/EventScheduled\",\"startDate\":\"2025-12-22T13:00:00-08:00\",\"endDate\":\"2025-12-22T14:00:00-08:00\",\"@id\":\"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/#event\",\"mainEntityOfPage\":{\"@id\":\"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/\"}}]}</script>\n\t<!--
-  / Yoast SEO plugin. -->\n\n\n<title>Spanish Speakers only_Curriculum Vitae - EN
-  L&#205;NEA R&#233;sum&#233; and Cover Letter - WorkSource Seattle-King County</title>\n<link
-  rel='dns-prefetch' href='//worksourceskc.org' />\n<link rel='dns-prefetch' href='//connect.facebook.net'
-  />\n<link rel='dns-prefetch' href='//static.addtoany.com' />\n<link rel='dns-prefetch'
-  href='//ajax.googleapis.com' />\n<link rel='dns-prefetch' href='//maps.googleapis.com'
-  />\n<link rel='dns-prefetch' href='//www.googletagmanager.com' />\n<link rel='dns-prefetch'
-  href='//www.google.com' />\n<link rel=\"alternate\" type=\"application/rss+xml\"
-  title=\"WorkSource Seattle-King County &raquo; Feed\" href=\"https://worksourceskc.org/feed/\"
-  />\n<link rel=\"alternate\" type=\"application/rss+xml\" title=\"WorkSource Seattle-King
-  County &raquo; Comments Feed\" href=\"https://worksourceskc.org/comments/feed/\"
+  Seattle-King County\"},\"image\":{\"@id\":\"https://www.worksourceskc.org/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/worksourceskc/\"]},{\"@type\":\"Event\",\"name\":\"Digital
+  Literacy Learning Lab\",\"description\":\"Our self-paced digital literacy learning
+  lab is a welcoming and supportive space for people of all ages and skill levels&hellip;\",\"url\":\"https://worksourceskc.org/event/digital-literacy-learning-lab-4645/\",\"eventAttendanceMode\":\"https://schema.org/OfflineEventAttendanceMode\",\"eventStatus\":\"https://schema.org/EventScheduled\",\"startDate\":\"2025-12-24T12:30:00-08:00\",\"endDate\":\"2025-12-24T16:00:00-08:00\",\"@id\":\"https://worksourceskc.org/event/digital-literacy-learning-lab-4645/#event\",\"mainEntityOfPage\":{\"@id\":\"https://worksourceskc.org/event/digital-literacy-learning-lab-4645/\"}}]}</script>\n\t<!--
+  / Yoast SEO plugin. -->\n\n\n<title>Digital Literacy Learning Lab - WorkSource Seattle-King
+  County</title>\n<link rel='dns-prefetch' href='//worksourceskc.org' />\n<link rel='dns-prefetch'
+  href='//connect.facebook.net' />\n<link rel='dns-prefetch' href='//static.addtoany.com'
+  />\n<link rel='dns-prefetch' href='//ajax.googleapis.com' />\n<link rel='dns-prefetch'
+  href='//maps.googleapis.com' />\n<link rel='dns-prefetch' href='//www.googletagmanager.com'
+  />\n<link rel='dns-prefetch' href='//www.google.com' />\n<link rel=\"alternate\"
+  type=\"application/rss+xml\" title=\"WorkSource Seattle-King County &raquo; Feed\"
+  href=\"https://worksourceskc.org/feed/\" />\n<link rel=\"alternate\" type=\"application/rss+xml\"
+  title=\"WorkSource Seattle-King County &raquo; Comments Feed\" href=\"https://worksourceskc.org/comments/feed/\"
   />\n<link rel=\"alternate\" type=\"text/calendar\" title=\"WorkSource Seattle-King
   County &raquo; iCal Feed\" href=\"https://worksourceskc.org/events_list/?ical=1\"
   />\n<link rel=\"alternate\" type=\"application/rss+xml\" title=\"WorkSource Seattle-King
-  County &raquo; Spanish Speakers only_Curriculum Vitae &#8211; EN L&#205;NEA R&#233;sum&#233;
-  and Cover Letter Comments Feed\" href=\"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/feed/\"
+  County &raquo; Digital Literacy Learning Lab Comments Feed\" href=\"https://worksourceskc.org/event/digital-literacy-learning-lab-4645/feed/\"
   />\n\t\t<!-- This site uses the Google Analytics by MonsterInsights plugin v8.7.0
   - Using Analytics tracking - https://www.monsterinsights.com/ -->\n\t\t\t\t\t\t\t<script
   src=\"//www.googletagmanager.com/gtag/js?id=G-LT415XR2H3\"  data-cfasync=\"false\"
@@ -204,18 +207,18 @@ original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta c
   :where(p.has-background){padding:1.25em 2.375em}:where(p.has-text-color:not(.has-link-color))
   a{color:inherit}p.has-text-align-left[style*=\"writing-mode:vertical-lr\"],p.has-text-align-right[style*=\"writing-mode:vertical-rl\"]{rotate:180deg}\n</style>\n<link
   rel=\"https://api.w.org/\" href=\"https://worksourceskc.org/wp-json/\" /><link rel=\"alternate\"
-  title=\"JSON\" type=\"application/json\" href=\"https://worksourceskc.org/wp-json/wp/v2/tribe_events/362592\"
+  title=\"JSON\" type=\"application/json\" href=\"https://worksourceskc.org/wp-json/wp/v2/tribe_events/362589\"
   /><link rel=\"EditURI\" type=\"application/rsd+xml\" title=\"RSD\" href=\"https://worksourceskc.org/xmlrpc.php?rsd\"
-  />\n<link rel='shortlink' href='https://worksourceskc.org/?p=362592' />\n<link rel=\"alternate\"
-  title=\"oEmbed (JSON)\" type=\"application/json+oembed\" href=\"https://worksourceskc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fworksourceskc.org%2Fevent%2Fspanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077%2F\"
-  />\n<link rel=\"alternate\" title=\"oEmbed (XML)\" type=\"text/xml+oembed\" href=\"https://worksourceskc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fworksourceskc.org%2Fevent%2Fspanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077%2F&#038;format=xml\"
+  />\n<link rel='shortlink' href='https://worksourceskc.org/?p=362589' />\n<link rel=\"alternate\"
+  title=\"oEmbed (JSON)\" type=\"application/json+oembed\" href=\"https://worksourceskc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fworksourceskc.org%2Fevent%2Fdigital-literacy-learning-lab-4645%2F\"
+  />\n<link rel=\"alternate\" title=\"oEmbed (XML)\" type=\"text/xml+oembed\" href=\"https://worksourceskc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fworksourceskc.org%2Fevent%2Fdigital-literacy-learning-lab-4645%2F&#038;format=xml\"
   />\n<script type=\"text/javascript\" src=\"https://www.bugherd.com/sidebarv2.js?apikey=kzhpjsbdgxin5llwmvzeeg\"
   async=\"true\"></script><!-- Custom Facebook Feed JS vars -->\n<script type=\"text/javascript\">\nvar
   cffsiteurl = \"https://worksourceskc.org/wp-content/plugins\";\nvar cffajaxurl =
   \"https://worksourceskc.org/wp-admin/admin-ajax.php\";\n\n\nvar cfflinkhashtags
   = \"false\";\n</script>\n<meta name=\"generator\" content=\"Site Kit by Google 1.153.0\"
   /><meta name=\"tec-api-version\" content=\"v1\"><meta name=\"tec-api-origin\" content=\"https://worksourceskc.org\"><link
-  rel=\"alternate\" href=\"https://worksourceskc.org/wp-json/tribe/events/v1/events/362592\"
+  rel=\"alternate\" href=\"https://worksourceskc.org/wp-json/tribe/events/v1/events/362589\"
   /><script type=\"importmap\" id=\"wp-importmap\">\n{\"imports\":{\"@wordpress\\/interactivity\":\"https:\\/\\/worksourceskc.org\\/wp-includes\\/js\\/dist\\/script-modules\\/interactivity\\/index.min.js?ver=55aebb6e0a16726baffb\"}}\n</script>\n<script
   type=\"module\" src=\"https://worksourceskc.org/wp-includes/js/dist/script-modules/block-library/navigation/view.min.js?ver=61572d447d60c0aa5240\"
   id=\"@wordpress/block-library/navigation/view-js-module\"></script>\n<link rel=\"modulepreload\"
@@ -248,13 +251,19 @@ original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta c
   0;.add-to-cart-quantity{padding:8px 0 8px 8px;background:#eaeaea;width:32px;border-radius:4px
   0 0 4px;height:18px;min-height:unset;display:inline-block;font-size:13px;line-height:normal}.add-to-cart-button{padding:8px;border-radius:4px;background:#6246d7;color:white;height:18px;min-height:unset;display:block;text-align:center;min-width:90px;font-size:13px;line-height:normal;&.add-to-cart-variable{border-radius:4px}&.loading{content:url(\"data:image/svg+xml,%3Csvg
   width='38' height='38' viewBox='0 0 38 38' xmlns='http://www.w3.org/2000/svg' stroke='%23fff'%3E%3Cg
-  fill='none' fill-rule='evenodd'%3E%3Cg transform='translate(1 1)"
-source_url: https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/
-start_date: '2025-12-22T13:00:00-08:00'
+  fill='none' fill-rule='evenodd'%3E%3Cg transform='translate(1 1)' stroke-width='2'%3E%3Ccircle
+  stroke-opacity='.5' cx='18' cy='18' r='18'/%3E%3Cpath d='M36 18c0-9.94-8.06-18-18-18'%3E%3CanimateTransform
+  attributeName='transform' type='rotate' from='0 18 18' to='360 18 18' dur='1s' repeatCount='indefinite'/%3E%3C/path%3E%3C/g%3E%3C/g%3E%3C/svg%3E\")}}a.added_to_cart{flex-basis:100%;margin-top:8px}}.add-to-cart-container:has(.add-to-cart-quantity){.add-to-cart-button{border-radius:0
+  4px 4px 0}}.sale-badge{--font-size:14px;--font-color:white;--background-color:#6246d7;position:absolute;top:12px;right:12px;padding:6px
+  12px;font-size:var(--font-size);color:var(--font-color);background:var(--background-color);box-shadow:0
+  0 6px -3p"
+source_url: https://worksourceskc.org/event/digital-literacy-learning-lab-4645/
+start_date: '2025-12-24T12:30:00-08:00'
 summarized: true
-title: Spanish Speakers only_Curriculum Vitae - EN LÍNEA Résumé and Cover Letter
+title: Digital Literacy Learning Lab
 topics:
+- Education & Learning
 - Employment & Job Support
 ---
 
-Join WorkSource Seattle-King County for a Spanish-speaking workshop focused on creating effective résumés and cover letters. Attendees will learn essential tips and strategies to enhance their job application materials, tailored specifically for Spanish speakers. This event will take place on Dec. 22, 2025, starting at 1 p.m. Participants can expect an interactive session that will help them stand out in the job market. Don't miss this opportunity to improve your professional documents and boost your career prospects.
+Join the Digital Literacy Learning Lab on Dec. 24, 2025, at WorkSource Seattle-King County. This interactive event offers attendees the opportunity to enhance their digital skills through hands-on activities and guided instruction. Participants can expect to learn about essential tools and resources that can improve their job search, workplace productivity, and overall technology use. Whether you're a beginner or looking to sharpen your skills, this lab is designed to cater to all levels. Don't miss this chance to boost your digital literacy in a supportive environment.
