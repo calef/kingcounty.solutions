@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 require 'fileutils'
+require 'fmrepo'
 require 'tmpdir'
 require_relative '../../test_helper'
 require 'mayhem/organizations/pruner'
@@ -133,7 +134,7 @@ class OrganizationsPrunerTest < Minitest::Test
   private
 
   def write_organization(title)
-    slug = title.downcase.gsub(/[^a-z0-9]+/, '-')
+    slug = FMRepo.slugify(title)
     front_matter = {
       'title' => title,
       'type' => 'Community-Based Organization',

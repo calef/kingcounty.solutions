@@ -1,6 +1,7 @@
 # frozen_string_literal: true
 
 require_relative '../test_helper'
+require 'fmrepo'
 require 'mayhem/models/location'
 
 class LocationsFrontMatterTest < Minitest::Test
@@ -122,8 +123,6 @@ class LocationsFrontMatterTest < Minitest::Test
   end
 
   def slugify(title)
-    title.downcase
-         .gsub(/[^a-z0-9]+/, '-')
-         .gsub(/\A-+|-+\z/, '')
+    FMRepo.slugify(title)
   end
 end
