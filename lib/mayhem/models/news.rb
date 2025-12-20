@@ -54,10 +54,13 @@ module Mayhem
       end
 
       def published?
+        # Posts are published by default (nil means published)
+        # Only unpublished when explicitly set to false
         self['published'] != false
       end
 
       def summarized?
+        # Posts must always have summarized set to true
         self['summarized'] == true
       end
     end
