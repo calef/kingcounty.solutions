@@ -1,7 +1,9 @@
 # frozen_string_literal: true
 
+require 'net/http'
 require 'time'
 require 'uri'
+require 'open-uri'
 require_relative '../url_utils'
 
 module Mayhem
@@ -9,9 +11,10 @@ module Mayhem
     class HttpClient
       # Handles HTTP response processing and redirect following
       class Response
-        def initialize(request:, max_redirects:, logger:)
+        def initialize(request:, max_redirects:, too_many_requests_delay:, logger:)
           @request = request
           @max_redirects = max_redirects
+          @too_many_requests_delay = too_many_requests_delay
           @logger = logger
         end
 
@@ -111,8 +114,8 @@ module Mayhem
         def too_many_requests_delay(response)
           header = response&.[]('retry-after')
           parsed = parse_retry_after(header)
-          wait = parsed || 60
-          wait = 60 if wait <= 0
+          wait = parsed || @too_many_requests_delay
+          wait = @too_many_requests_delay if wait <= 0
           wait
         end
 

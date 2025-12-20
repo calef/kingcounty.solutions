@@ -102,6 +102,7 @@ module Mayhem
         @response = Response.new(
           request: @request,
           max_redirects: @max_redirects,
+          too_many_requests_delay: @too_many_requests_delay,
           logger: @logger
         )
       end
