@@ -9,26 +9,16 @@ class IntegrityCheckerTest < Minitest::Test
     calls = []
 
     Dir.stub(:chdir, ->(path, &block) { calls << path; block.call }) do
-      checker.stub(:run_command, ->(path, args) { calls << [path, args] }) do
-        checker.run(%w[--seed 123])
+      checker.stub(:run_build, -> { calls << :run_build; true }) do
+        checker.stub(:run_tests, ->(args) { calls << [:run_tests, args]; true }) do
+          checker.run(%w[--seed 123])
+        end
       end
     end
 
     assert_equal checker.send(:project_root), calls[0]
-    assert_equal [Mayhem::Integrity::Checker::RUNNER_PATH, %w[--seed 123]], calls[1]
+    assert_equal :run_build, calls[1]
+    assert_equal [:run_tests, %w[--seed 123]], calls[2]
   end
 
-  def test_run_command_invokes_bundle_exec_ruby_runner
-    checker = Mayhem::Integrity::Checker.new
-    commands = []
-
-    Bundler.stub(:with_unbundled_env, ->(&block) { commands << :with_unbundled_env; block.call }) do
-      checker.stub(:system, ->(*args) { commands << args; true }) do
-        assert checker.send(:run_command, '/tmp/runner.rb', %w[--name foo])
-      end
-    end
-
-    assert_equal :with_unbundled_env, commands.first
-    assert_equal ['bundle', 'exec', 'ruby', '/tmp/runner.rb', '--name', 'foo'], commands.last
-  end
 end

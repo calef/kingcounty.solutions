@@ -9,7 +9,12 @@ module Mayhem
 
       def run(args = [])
         Dir.chdir(project_root) do
-          run_command(RUNNER_PATH, args)
+          unless run_build
+            warn 'Jekyll build failed'
+            return false
+          end
+
+          run_tests(args)
         end
       end
 
@@ -19,13 +24,12 @@ module Mayhem
         File.expand_path('../../..', __dir__)
       end
 
-      def run_command(runner_path, args)
-        command = ['bundle', 'exec', 'ruby', runner_path, *args]
-        if defined?(Bundler) && Bundler.respond_to?(:with_unbundled_env)
-          Bundler.with_unbundled_env { system(*command) }
-        else
-          system(*command)
-        end
+      def run_build
+        system('bundle', 'exec', 'jekyll', 'build')
+      end
+
+      def run_tests(args)
+        system('bundle', 'exec', 'ruby', RUNNER_PATH, *args)
       end
     end
   end
