@@ -1,12 +1,12 @@
 # frozen_string_literal: true
 
 require_relative '../../test_helper'
-require 'mayhem/models/images'
+require 'mayhem/models/image'
 
-class ImagesModelTest < Minitest::Test
+class ImageModelTest < Minitest::Test
   def test_creates_and_reads_images
     FMRepo::TestHelpers.with_temp_repo(role: :images) do
-      record = Mayhem::Models::Images.create!(
+      record = Mayhem::Models::Image.create!(
         {
           'checksum' => 'abc123',
           'date' => '2025-12-20T07:54:25+00:00',
@@ -26,7 +26,7 @@ class ImagesModelTest < Minitest::Test
       assert_equal 'https://example.com/image.png', record.source_url
       assert_equal 'Test Image', record.title
 
-      loaded = Mayhem::Models::Images.find(record.id)
+      loaded = Mayhem::Models::Image.find(record.id)
       assert_equal record.id, loaded.id
       assert_equal 'Test Image', loaded.title
       assert_equal 'abc123', loaded.checksum

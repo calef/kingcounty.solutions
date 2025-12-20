@@ -4,7 +4,7 @@ require 'fmrepo'
 
 module Mayhem
   module Models
-    class Images < FMRepo::Record
+    class Image < FMRepo::Record
       repository_role :images
       scope glob: '_images/**/*.{md,markdown}'
       naming do |front_matter:, **|
