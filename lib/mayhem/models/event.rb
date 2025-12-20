@@ -21,6 +21,10 @@ module Mayhem
         self['location']
       end
 
+      def organization_title
+        self['organization_title']
+      end
+
       def start_date
         self['start_date']
       end
@@ -31,10 +35,6 @@ module Mayhem
 
       def title
         self['title']
-      end
-
-      def organization_title
-        self['organization_title']
       end
     end
   end
