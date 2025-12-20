@@ -38,9 +38,10 @@
 - Always review the context of the code you're modifying to understand the full impact.
 
 ### Build and Testing
-- `script/bootstrap`, `script/server`, and `script/cibuild` verify local builds, however agents lack permissions to run them.
-- Run `bundle exec jekyll build` to validate structural changes and catch Liquid errors.
-- Run `bundle exec rake test` to execute the test suite after code changes.
+- `script/bootstrap` vendors Ruby/Bundler via mise into `.mise`/`vendor/bundle`; run first after pulling. Request escalated perms if sandboxed without Homebrew/network.
+- `script/test` uses `script/env` to set repo-local mise/Bundler paths and RuboCop cache; run this to verify changes.
+- `script/cibuild` runs `script/setup`, `JEKYLL_ENV=production bundle exec jekyll build --drafts`, then `script/test`; prefer this before PRs.
+- If you run `bundle`/`rake`/`jekyll` manually, source `script/env` so `MISE_DATA_DIR=.mise`, `BUNDLE_APP_CONFIG=.bundle`, `BUNDLE_PATH=vendor/bundle`, and `RUBOCOP_CACHE_ROOT=tmp/rubocop_cache` are set.
 - For script changes, test with `--help` or dry-run flags when available.
 
 ### Security Awareness
