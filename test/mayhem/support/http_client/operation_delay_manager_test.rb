@@ -7,7 +7,7 @@ require_relative 'test_helpers'
 
 module Mayhem
   module Support
-    module HttpClient
+    class HttpClient
       class OperationDelayManagerTest < Minitest::Test
         include HttpClientTestHelpers
 
@@ -163,7 +163,7 @@ module Mayhem
           client = Mayhem::Support::HttpClient.new(logger: @logger, delay: 0)
           
           # Should not raise error
-          assert_nothing_raised do
+          assert_silent do
             client.send(:apply_operation_delay, nil, URI('https://example.com'))
           end
         end
@@ -172,7 +172,7 @@ module Mayhem
           client = Mayhem::Support::HttpClient.new(logger: @logger, delay: 0)
           
           # Should not raise error
-          assert_nothing_raised do
+          assert_silent do
             client.send(:apply_operation_delay, 'test_op', nil)
           end
         end

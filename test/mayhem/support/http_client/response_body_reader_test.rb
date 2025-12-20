@@ -7,7 +7,7 @@ require_relative 'test_helpers'
 
 module Mayhem
   module Support
-    module HttpClient
+    class HttpClient
       class ResponseBodyReaderTest < Minitest::Test
         include HttpClientTestHelpers
 
