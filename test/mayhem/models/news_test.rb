@@ -16,6 +16,12 @@ class NewsModelTest < Minitest::Test
           'locations' => ['King County'],
           'images' => [],
           'events' => [],
+          'events_extracted' => true,
+          'feed_content' => 'Test feed content',
+          'feed_content_checksum' => 'feed-checksum',
+          'locked' => true,
+          'original_source_html' => '<p>Original source</p>',
+          'rss_guid' => 'rss-guid-123',
           'summarized' => true
         },
         body: 'This is a test news article body.'
@@ -30,6 +36,15 @@ class NewsModelTest < Minitest::Test
       assert_equal ['King County'], record.locations
       assert_equal [], record.images
       assert_equal [], record.events
+      assert_equal true, record.events_extracted
+      assert record.events_extracted?
+      assert_equal 'Test feed content', record.feed_content
+      assert_equal 'feed-checksum', record.feed_content_checksum
+      assert_equal true, record.locked
+      assert record.locked?
+      assert_equal '<p>Original source</p>', record.original_source_html
+      assert_equal 'rss-guid-123', record.rss_guid
+      assert_equal true, record.summarized
       assert record.summarized?
       assert record.published?
       assert_equal 'This is a test news article body.', record.body.strip
@@ -88,6 +103,7 @@ class NewsModelTest < Minitest::Test
         body: 'Explicitly unpublished.'
       )
 
+      assert_equal false, record.published
       refute record.published?
     end
   end

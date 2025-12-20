@@ -21,12 +21,58 @@ module Mayhem
         "_posts/#{date_prefix}-#{slug}.md"
       end
 
-      def title
-        self['title']
-      end
-
       def date
         self['date']
+      end
+
+      def events
+        self['events'] || []
+      end
+
+      def events_extracted
+        self['events_extracted']
+      end
+
+      def events_extracted?
+        self['events_extracted'] == true
+      end
+
+      def feed_content
+        self['feed_content']
+      end
+
+      def feed_content_checksum
+        self['feed_content_checksum']
+      end
+
+      def images
+        self['images'] || []
+      end
+
+      def locations
+        self['locations'] || []
+      end
+
+      def locked
+        self['locked']
+      end
+
+      def locked?
+        self['locked'] == true
+      end
+
+      def original_source_html
+        self['original_source_html']
+      end
+
+      def published
+        self['published']
+      end
+
+      def published?
+        # Posts are published by default (nil means published)
+        # Only unpublished when explicitly set to false
+        self['published'] != false
       end
 
       def source
@@ -37,31 +83,25 @@ module Mayhem
         self['source_url']
       end
 
-      def topics
-        self['topics'] || []
+      def rss_guid
+        self['rss_guid']
       end
 
-      def locations
-        self['locations'] || []
-      end
-
-      def images
-        self['images'] || []
-      end
-
-      def events
-        self['events'] || []
-      end
-
-      def published?
-        # Posts are published by default (nil means published)
-        # Only unpublished when explicitly set to false
-        self['published'] != false
+      def summarized
+        self['summarized']
       end
 
       def summarized?
         # Posts must always have summarized set to true
         self['summarized'] == true
+      end
+
+      def title
+        self['title']
+      end
+
+      def topics
+        self['topics'] || []
       end
     end
   end
