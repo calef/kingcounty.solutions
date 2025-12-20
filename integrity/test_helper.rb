@@ -13,8 +13,8 @@ end
 
 # reduce noisy logs during tests
 ENV['LOG_LEVEL'] ||= 'ERROR'
-# default to a test-specific FMRepo environment unless explicitly overridden
-fmrepo_env = ENV['FMREPO_ENV'] || ENV['JEKYLL_ENV'] || 'test'
+# default to a development-specific FMRepo environment unless explicitly overridden
+fmrepo_env = ENV['FMREPO_ENV'] || ENV['JEKYLL_ENV'] || 'development'
 ENV['FMREPO_ENV'] = fmrepo_env
 require 'bundler/setup'
 require 'minitest/autorun'

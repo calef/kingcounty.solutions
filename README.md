@@ -14,15 +14,18 @@ The `jekyll-sitemap` plugin is enabled so every build emits an up-to-date `sitem
 
 ## Tests
 
-This repo uses Minitest for any Ruby automation or helpers. `bundle exec rake test` now invokes `parallel_tests` when the gem is installed so the suite runs across multiple workers; it falls back to the legacy `rake test` task when the gem is missing. The HTML/JSON/JS assertions simply read files from `_site`, so make sure you generate the site first (e.g., `./script/cibuild` already runs before the suite in CI). To run sequentially (for debugging), disable the parallel runner or pass `PARALLEL_TEST_PROCESSORS=1` before invoking the task:
+This repo uses Minitest for any Ruby automation or helpers. `bundle exec rake test` now invokes `parallel_tests` when the gem is installed so the suite runs across multiple workers; it falls back to the legacy `rake test` task when the gem is missing. The standard suite only covers mayhem code—site data integrity checks now run separately via `bin/mayhem check-integrity`. To run sequentially (for debugging), disable the parallel runner or pass `PARALLEL_TEST_PROCESSORS=1` before invoking the task:
 
 ```sh
 bundle exec rake test
 PARALLEL_TEST_PROCESSORS=1 bundle exec rake test
 ```
 
-Some tests (like the HTML5 validator) are intentionally expensive and therefore do not run by default. Set `RUN_EXPENSIVE_TESTS` to a truthy value before invoking the suite to opt into those checks:
+Run the integrity checks after building the site (they read from `_site/`, so run `./script/cibuild` or `bundle exec jekyll build` first):
 
 ```sh
-RUN_EXPENSIVE_TESTS=true bundle exec rake test
+bin/mayhem check-integrity
+RUN_EXPENSIVE_TESTS=true bin/mayhem check-integrity
 ```
+
+`RUN_EXPENSIVE_TESTS` opts into the HTML5 validator; additional arguments (like `--name` or `--seed`) are passed straight through to Minitest.

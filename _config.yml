@@ -85,6 +85,7 @@ exclude:
   - bin/
   - coverage/
   - gemfiles/
+  - integrity/
   - lib/
   - logs/
   - Rakefile

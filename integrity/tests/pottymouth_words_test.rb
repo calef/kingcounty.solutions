@@ -3,7 +3,7 @@
 require_relative '../test_helper'
 
 class PottymouthWordsTest < Minitest::Test
-WORDLIST_PATH = File.expand_path('../support/pottymouth_words.txt', __dir__)
+  WORDLIST_PATH = File.expand_path('../support/pottymouth_words.txt', __dir__)
   IGNORED_DIRECTORIES = %w[_site coverage node_modules vendor].freeze
   PATTERN_FIELDS = %w[feed_content original_source_html].freeze
 

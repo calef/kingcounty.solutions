@@ -4,7 +4,7 @@ require 'logger'
 require 'pathname'
 require_relative '../../test_helper'
 require 'mayhem/front_matter/tidier'
-require_relative '../../support/site_build_helper'
+require_relative '../../../integrity/support/site_build_helper'
 
 class FrontMatterStructureTest < Minitest::Test
   DELIMITER = /\A---\s*\z/
