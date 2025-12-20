@@ -27,22 +27,24 @@ class StaleEventCleanerTest < Minitest::Test
     FileUtils.remove_entry(@tmpdir)
   end
 
-  def test_removes_events_after_expiration_window
+  def test_removes_events_older_than_yesterday
     old_event = write_event('old-event', '2025-12-03T10:00:00Z')
     early_today = write_event('early-today', '2025-12-05T10:30:00Z')
     in_progress = write_event('in-progress', '2025-12-05T10:00:00Z', '2025-12-05T20:00:00Z')
     ended_yesterday = write_event('ended-yesterday', '2025-12-04T10:00:00Z', '2025-12-04T18:00:00Z')
     ends_today = write_event('ends-today', '2025-12-05T08:00:00Z', '2025-12-05T18:00:00Z')
     future_event = write_event('future-event', '2025-12-06T10:00:00Z')
+    spanning_event = write_event('spanning-event', '2025-12-03T10:00:00Z', '2025-12-06T18:00:00Z')
 
     @cleaner.run
 
     refute_path_exists old_event
-    refute_path_exists ended_yesterday
+    assert_path_exists ended_yesterday
     assert_path_exists early_today
     assert_path_exists in_progress
     assert_path_exists ends_today
     assert_path_exists future_event
+    assert_path_exists spanning_event
   end
 
   def test_skips_events_with_missing_start_date
@@ -55,7 +57,7 @@ class StaleEventCleanerTest < Minitest::Test
   end
 
   def test_removes_event_links_from_posts
-    old_event = write_event('old-event', '2025-12-04T10:00:00-08:00')
+    old_event = write_event('old-event', '2025-12-03T10:00:00-08:00')
     future_event = write_event('future-event', '2025-12-06T10:00:00-08:00')
 
     # Create posts that link to events
