@@ -1,13 +1,13 @@
 ---
 acronym: OCLA
-parent_organization: State Judicial Branch
+parent_organization_title: State Judicial Branch
 title: Office of Civil Legal Aid
-topics:
+topic_titles:
 - Domestic Violence
 - Financial Assistance
 - Legal Aid
 type: Agency
-website: https://ocla.wa.gov/
+website_url: https://ocla.wa.gov/
 ---
 
 The **Office of Civil Legal Aid (OCLA)** ensures equal access to justice for people with low incomes. Its work contributes to several social service domains:

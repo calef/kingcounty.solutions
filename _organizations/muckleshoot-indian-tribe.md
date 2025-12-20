@@ -1,9 +1,9 @@
 ---
 title: Muckleshoot Indian Tribe
-topics:
+topic_titles:
 - Shelter & Housing
 type: Tribe
-website: https://www.muckleshoot.nsn.us/
+website_url: https://www.muckleshoot.nsn.us/
 ---
 
 The **Muckleshoot Indian Tribe** is a federally recognized tribal government based near Auburn in King County. The tribe descends from the Duwamish and Upper Puyallup peoples and maintains a sovereign government that provides essential services, cultural preservation, and economic development for its members.

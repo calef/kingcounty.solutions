@@ -3,12 +3,12 @@ email: info@standtalloutreach.org
 news_rss_url:
 phone: 253-254-5685
 title: Stand Tall Outreach
-topics:
+topic_titles:
 - Food & Nutrition
 - Mental Health & Counseling
 - Personal & Household Needs
 type: Community-Based Organization
-website: https://www.standtalloutreach.org/
+website_url: https://www.standtalloutreach.org/
 ---
 
 Stand Tall Outreach is a grassroots mutual-aid nonprofit that brings food, street outreach, and trauma-informed peer support directly to neighbors experiencing homelessness in Seattle. Volunteers distribute hot meals, hygiene kits, warm clothing, and emergency items, while the We Hear You support line offers confidential text or phone check-ins for people facing emotional crises, domestic violence, or isolation.

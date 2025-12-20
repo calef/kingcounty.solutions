@@ -1,11 +1,11 @@
 ---
-parent_organization: Hopelink
+parent_organization_title: Hopelink
 phone: 1-800-923-7433
 title: MyRideOnline Transportation Brokerage
-topics:
+topic_titles:
 - Transportation & Mobility
 type: Program
-website: https://www.myrideonline.org
+website_url: https://www.myrideonline.org
 ---
 
 MyRideOnline provides transportation brokerage services for residents in King and Snohomish counties. Users can look up trip information, cancel scheduled trips, and notify Hopelink if a ride is late. Customer service representatives are available for assistance.

@@ -1,11 +1,11 @@
 ---
 acronym: ISD
-parent_organization: Puget Sound Educational Service District 121
+parent_organization_title: Puget Sound Educational Service District 121
 title: Issaquah School District
-topics:
+topic_titles:
 - Education & Learning
 type: School District
-website: https://www.isd411.org
+website_url: https://www.isd411.org
 ---
 
 The Issaquah School District is committed to providing quality education and support to its students and the community. The district offers a range of educational programs and services designed to meet the diverse needs of its student population.

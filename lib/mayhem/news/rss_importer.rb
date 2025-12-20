@@ -144,7 +144,7 @@ module Mayhem
       def process_item(item, source_title, stats, source_frontmatter)
         link_url = item_link_url(item)
         normalized = Mayhem::Support::UrlNormalizer.normalize(link_url,
-                                                              base: source_frontmatter && source_frontmatter['website'])
+                                                              base: source_frontmatter && source_frontmatter['website_url'])
         normalized = canonical_link(normalized)
         if normalized.to_s.strip.empty?
           stats[:missing_link] += 1

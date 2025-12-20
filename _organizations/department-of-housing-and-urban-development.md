@@ -1,12 +1,12 @@
 ---
 acronym: HUD
-parent_organization: Federal Executive Branch
+parent_organization_title: Federal Executive Branch
 title: Department of Housing and Urban Development
-topics:
+topic_titles:
 - Shelter & Housing
 - Financial Assistance
 type: Department
-website: https://www.hud.gov/
+website_url: https://www.hud.gov/
 ---
 
 The **Department of Housing and Urban Development (HUD)** ensures access to affordable housing and builds inclusive, sustainable communities. It contributes to several social service areas:

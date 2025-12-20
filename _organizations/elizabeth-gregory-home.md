@@ -4,11 +4,11 @@ address: 1604 NE 50th St, Seattle, WA 98105
 email: acollinsworth@eghseattle.org
 news_rss_url: https://eghseattle.org/feed/
 title: Elizabeth Gregory Home
-topics:
+topic_titles:
 - Shelter & Housing
 - Domestic Violence
 type: Community-Based Organization
-website: https://eghseattle.org
+website_url: https://eghseattle.org
 ---
 
 Elizabeth Gregory Home provides a welcoming refuge for women experiencing homelessness, trauma, or economic insecurity. We offer a drop-in day shelter, transitional housing, and case management services to help women thrive in our community.

@@ -5,11 +5,11 @@ events_ical_url: https://valleygirlsandguys.org/events/?ical=1
 news_rss_url: https://valleygirlsandguys.org/feed/
 phone: 206-793-3175
 title: Valley Girls & Guys
-topics:
+topic_titles:
 - Health Care
 - Personal & Household Needs
 type: Community-Based Organization
-website: https://valleygirlsandguys.org/
+website_url: https://valleygirlsandguys.org/
 ---
 
 Valley Girls & Guys (VG&G) is a Maple Valley-based grassroots nonprofit that rallies the community to support people fighting cancer. Founded by caregivers and friends, VG&G funds mammogram assistance, organizes the Be the Hope XOXO Walk and blood and bone marrow drives, and deploys rapid mini-grants when neighbors need diagnostic support, transportation, or other immediate cancer-related help.

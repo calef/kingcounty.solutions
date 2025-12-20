@@ -1,18 +1,18 @@
 ---
 end_date: '2025-12-23T16:00:00-08:00'
 feed_content: '<div> <div> <section> <title>WorkSource Seattle-King County</title>
-  <script>{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.worksourceskc.org/event/work-for-washington-job-hunter-virtual-workshop-statewide-3466/","url":"https://www.worksourceskc.org/event/work-for-washington-job-hunter-virtual-workshop-statewide-3466/","name":"Work
+  <script>{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://worksourceskc.org/event/work-for-washington-job-hunter-virtual-workshop-statewide-3467/","url":"https://worksourceskc.org/event/work-for-washington-job-hunter-virtual-workshop-statewide-3467/","name":"Work
   for Washington &#8211; Job Hunter Virtual Workshop &#8211; Statewide - WorkSource
-  Seattle-King County","isPartOf":{"@id":"https://www.worksourceskc.org/#website"},"datePublished":"2025-11-25T21:43:56+00:00","description":"Would
+  Seattle-King County","isPartOf":{"@id":"https://www.worksourceskc.org/#website"},"datePublished":"2025-11-25T21:44:07+00:00","dateModified":"2025-12-20T20:34:08+00:00","description":"Would
   you consider service to the people of the State of Washington? Advantages and benefits
-  of working for various state agencies will be discussed. In","breadcrumb":{"@id":"https://www.worksourceskc.org/event/work-for-washington-job-hunter-virtual-workshop-statewide-3466/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.worksourceskc.org/event/work-for-washington-job-hunter-virtual-workshop-statewide-3466/"]}]},{"@type":"BreadcrumbList","@id":"https://www.worksourceskc.org/event/work-for-washington-job-hunter-virtual-workshop-statewide-3466/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"Work
+  of working for various state agencies will be discussed. In","breadcrumb":{"@id":"https://worksourceskc.org/event/work-for-washington-job-hunter-virtual-workshop-statewide-3467/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://worksourceskc.org/event/work-for-washington-job-hunter-virtual-workshop-statewide-3467/"]}]},{"@type":"BreadcrumbList","@id":"https://worksourceskc.org/event/work-for-washington-job-hunter-virtual-workshop-statewide-3467/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"Work
   for Washington &#8211; Job Hunter Virtual Workshop &#8211; Statewide"}]},{"@type":"WebSite","@id":"https://www.worksourceskc.org/#website","url":"https://www.worksourceskc.org/","name":"WorkSource
   Seattle-King County","description":"Let&#039;s find your path together!","publisher":{"@id":"https://www.worksourceskc.org/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.worksourceskc.org/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://www.worksourceskc.org/#organization","name":"WorkSource
   Seattle-King County","url":"https://www.worksourceskc.org/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.worksourceskc.org/#/schema/logo/image/","url":"","contentUrl":"","caption":"WorkSource
   Seattle-King County"},"image":{"@id":"https://www.worksourceskc.org/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/worksourceskc/"]},{"@type":"Event","name":"Work
   for Washington &#8211; Job Hunter Virtual Workshop &#8211; Statewide","description":"Would
   you consider service to the people of the State of Washington? Advantages and benefits
-  of working for various state&hellip;","url":"https://worksourceskc.org/event/work-for-washington-job-hunter-virtual-workshop-statewide-3466/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2025-12-23T13:00:00-08:00","endDate":"2025-12-23T16:00:00-08:00","@id":"https://worksourceskc.org/event/work-for-washington-job-hunter-virtual-workshop-statewide-3466/#event","mainEntityOfPage":{"@id":"https://www.worksourceskc.org/event/work-for-washington-job-hunter-virtual-workshop-statewide-3466/"}}]}</script>
+  of working for various state&hellip;","url":"https://worksourceskc.org/event/work-for-washington-job-hunter-virtual-workshop-statewide-3467/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2025-12-23T13:00:00-08:00","endDate":"2025-12-23T16:00:00-08:00","@id":"https://worksourceskc.org/event/work-for-washington-job-hunter-virtual-workshop-statewide-3467/#event","mainEntityOfPage":{"@id":"https://worksourceskc.org/event/work-for-washington-job-hunter-virtual-workshop-statewide-3467/"}}]}</script>
   <title>Work for Washington – Job Hunter Virtual Workshop – Statewide – WorkSource
   Seattle-King County</title> <a>Skip to main content</a> <header> <div> <div> <div>
   <div> <div> <ul> <li><a>Job Board</a></li> </ul> <ul> <li> <a>Staff Log-In</a> </li>
@@ -69,11 +69,12 @@ feed_content: '<div> <div> <section> <title>WorkSource Seattle-King County</titl
   agencies use different application processes how to prepare to meet their expectations.
   Specific tips for applying to state agencies will be provided.</p> </div> </div>
   </div> </section> </div> </section> </div> </div>'
-feed_content_checksum: e03773fa6381cb23c6cb4367ab1ef85df791f4f5
+feed_content_checksum: b7bcb87f34711099448972f29355da7151826e38
 images: []
 location: ''
 locations:
 - King County
+locked: true
 organization_title: WorkSource Seattle-King County
 original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta charset=\"UTF-8\"
   />\n\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\n<meta
@@ -83,43 +84,44 @@ original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta c
   v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n\t<meta name=\"description\"
   content=\"Would you consider service to the people of the State of Washington? Advantages
   and benefits of working for various state agencies will be discussed. In\" />\n\t<link
-  rel=\"canonical\" href=\"https://www.worksourceskc.org/event/work-for-washington-job-hunter-virtual-workshop-statewide-3466/\"
+  rel=\"canonical\" href=\"https://worksourceskc.org/event/work-for-washington-job-hunter-virtual-workshop-statewide-3467/\"
   />\n\t<meta property=\"og:locale\" content=\"en_US\" />\n\t<meta property=\"og:type\"
   content=\"article\" />\n\t<meta property=\"og:title\" content=\"Work for Washington
   &#8211; Job Hunter Virtual Workshop &#8211; Statewide - WorkSource Seattle-King
   County\" />\n\t<meta property=\"og:description\" content=\"Would you consider service
   to the people of the State of Washington? Advantages and benefits of working for
-  various state agencies will be discussed. In\" />\n\t<meta property=\"og:url\" content=\"https://www.worksourceskc.org/event/work-for-washington-job-hunter-virtual-workshop-statewide-3466/\"
+  various state agencies will be discussed. In\" />\n\t<meta property=\"og:url\" content=\"https://worksourceskc.org/event/work-for-washington-job-hunter-virtual-workshop-statewide-3467/\"
   />\n\t<meta property=\"og:site_name\" content=\"WorkSource Seattle-King County\"
   />\n\t<meta property=\"article:publisher\" content=\"https://www.facebook.com/worksourceskc/\"
+  />\n\t<meta property=\"article:modified_time\" content=\"2025-12-20T20:34:08+00:00\"
   />\n\t<meta name=\"twitter:card\" content=\"summary_large_image\" />\n\t<script
-  type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://www.worksourceskc.org/event/work-for-washington-job-hunter-virtual-workshop-statewide-3466/\",\"url\":\"https://www.worksourceskc.org/event/work-for-washington-job-hunter-virtual-workshop-statewide-3466/\",\"name\":\"Work
+  type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://worksourceskc.org/event/work-for-washington-job-hunter-virtual-workshop-statewide-3467/\",\"url\":\"https://worksourceskc.org/event/work-for-washington-job-hunter-virtual-workshop-statewide-3467/\",\"name\":\"Work
   for Washington &#8211; Job Hunter Virtual Workshop &#8211; Statewide - WorkSource
-  Seattle-King County\",\"isPartOf\":{\"@id\":\"https://www.worksourceskc.org/#website\"},\"datePublished\":\"2025-11-25T21:43:56+00:00\",\"description\":\"Would
+  Seattle-King County\",\"isPartOf\":{\"@id\":\"https://www.worksourceskc.org/#website\"},\"datePublished\":\"2025-11-25T21:44:07+00:00\",\"dateModified\":\"2025-12-20T20:34:08+00:00\",\"description\":\"Would
   you consider service to the people of the State of Washington? Advantages and benefits
-  of working for various state agencies will be discussed. In\",\"breadcrumb\":{\"@id\":\"https://www.worksourceskc.org/event/work-for-washington-job-hunter-virtual-workshop-statewide-3466/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://www.worksourceskc.org/event/work-for-washington-job-hunter-virtual-workshop-statewide-3466/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://www.worksourceskc.org/event/work-for-washington-job-hunter-virtual-workshop-statewide-3466/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.worksourceskc.org/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Events\",\"item\":\"https://www.worksourceskc.org/events_list/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Work
+  of working for various state agencies will be discussed. In\",\"breadcrumb\":{\"@id\":\"https://worksourceskc.org/event/work-for-washington-job-hunter-virtual-workshop-statewide-3467/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://worksourceskc.org/event/work-for-washington-job-hunter-virtual-workshop-statewide-3467/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://worksourceskc.org/event/work-for-washington-job-hunter-virtual-workshop-statewide-3467/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.worksourceskc.org/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Events\",\"item\":\"https://worksourceskc.org/events_list/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Work
   for Washington &#8211; Job Hunter Virtual Workshop &#8211; Statewide\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://www.worksourceskc.org/#website\",\"url\":\"https://www.worksourceskc.org/\",\"name\":\"WorkSource
   Seattle-King County\",\"description\":\"Let&#039;s find your path together!\",\"publisher\":{\"@id\":\"https://www.worksourceskc.org/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://www.worksourceskc.org/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https://www.worksourceskc.org/#organization\",\"name\":\"WorkSource
   Seattle-King County\",\"url\":\"https://www.worksourceskc.org/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://www.worksourceskc.org/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"WorkSource
   Seattle-King County\"},\"image\":{\"@id\":\"https://www.worksourceskc.org/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/worksourceskc/\"]},{\"@type\":\"Event\",\"name\":\"Work
   for Washington &#8211; Job Hunter Virtual Workshop &#8211; Statewide\",\"description\":\"Would
   you consider service to the people of the State of Washington? Advantages and benefits
-  of working for various state&hellip;\",\"url\":\"https://www.worksourceskc.org/event/work-for-washington-job-hunter-virtual-workshop-statewide-3466/\",\"eventAttendanceMode\":\"https://schema.org/OfflineEventAttendanceMode\",\"eventStatus\":\"https://schema.org/EventScheduled\",\"startDate\":\"2025-12-23T13:00:00-08:00\",\"endDate\":\"2025-12-23T16:00:00-08:00\",\"@id\":\"https://www.worksourceskc.org/event/work-for-washington-job-hunter-virtual-workshop-statewide-3466/#event\",\"mainEntityOfPage\":{\"@id\":\"https://www.worksourceskc.org/event/work-for-washington-job-hunter-virtual-workshop-statewide-3466/\"}}]}</script>\n\t<!--
+  of working for various state&hellip;\",\"url\":\"https://worksourceskc.org/event/work-for-washington-job-hunter-virtual-workshop-statewide-3467/\",\"eventAttendanceMode\":\"https://schema.org/OfflineEventAttendanceMode\",\"eventStatus\":\"https://schema.org/EventScheduled\",\"startDate\":\"2025-12-23T13:00:00-08:00\",\"endDate\":\"2025-12-23T16:00:00-08:00\",\"@id\":\"https://worksourceskc.org/event/work-for-washington-job-hunter-virtual-workshop-statewide-3467/#event\",\"mainEntityOfPage\":{\"@id\":\"https://worksourceskc.org/event/work-for-washington-job-hunter-virtual-workshop-statewide-3467/\"}}]}</script>\n\t<!--
   / Yoast SEO plugin. -->\n\n\n<title>Work for Washington &#8211; Job Hunter Virtual
   Workshop &#8211; Statewide - WorkSource Seattle-King County</title>\n<link rel='dns-prefetch'
-  href='//www.worksourceskc.org' />\n<link rel='dns-prefetch' href='//connect.facebook.net'
+  href='//worksourceskc.org' />\n<link rel='dns-prefetch' href='//connect.facebook.net'
   />\n<link rel='dns-prefetch' href='//static.addtoany.com' />\n<link rel='dns-prefetch'
   href='//ajax.googleapis.com' />\n<link rel='dns-prefetch' href='//maps.googleapis.com'
   />\n<link rel='dns-prefetch' href='//www.googletagmanager.com' />\n<link rel='dns-prefetch'
   href='//www.google.com' />\n<link rel=\"alternate\" type=\"application/rss+xml\"
-  title=\"WorkSource Seattle-King County &raquo; Feed\" href=\"https://www.worksourceskc.org/feed/\"
+  title=\"WorkSource Seattle-King County &raquo; Feed\" href=\"https://worksourceskc.org/feed/\"
   />\n<link rel=\"alternate\" type=\"application/rss+xml\" title=\"WorkSource Seattle-King
-  County &raquo; Comments Feed\" href=\"https://www.worksourceskc.org/comments/feed/\"
+  County &raquo; Comments Feed\" href=\"https://worksourceskc.org/comments/feed/\"
   />\n<link rel=\"alternate\" type=\"text/calendar\" title=\"WorkSource Seattle-King
-  County &raquo; iCal Feed\" href=\"https://www.worksourceskc.org/events_list/?ical=1\"
+  County &raquo; iCal Feed\" href=\"https://worksourceskc.org/events_list/?ical=1\"
   />\n<link rel=\"alternate\" type=\"application/rss+xml\" title=\"WorkSource Seattle-King
   County &raquo; Work for Washington &#8211; Job Hunter Virtual Workshop &#8211; Statewide
-  Comments Feed\" href=\"https://www.worksourceskc.org/event/work-for-washington-job-hunter-virtual-workshop-statewide-3466/feed/\"
+  Comments Feed\" href=\"https://worksourceskc.org/event/work-for-washington-job-hunter-virtual-workshop-statewide-3467/feed/\"
   />\n\t\t<!-- This site uses the Google Analytics by MonsterInsights plugin v8.7.0
   - Using Analytics tracking - https://www.monsterinsights.com/ -->\n\t\t\t\t\t\t\t<script
   src=\"//www.googletagmanager.com/gtag/js?id=G-LT415XR2H3\"  data-cfasync=\"false\"
@@ -207,31 +209,31 @@ original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta c
   null;\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\twindow['__gtagTracker'] = __gtagTracker;\n\t\t\t\t\t\t\twindow['gtag']
   = __gtagTracker;\n\t\t\t\t\t} )();\n\t\t\t\t\t\t\t\t\t}\n\t\t\t</script>\n\t\t\t\t<!--
   / Google Analytics by MonsterInsights -->\n\t\t<link rel='stylesheet' id='advgb_blocks_styles-css'
-  href='https://www.worksourceskc.org/wp-content/plugins/advanced-gutenberg-pro/lib/vendor/publishpress/publishpress-blocks/assets/css/blocks.css?ver=3.2.0'
-  media='all' />\n<link rel='stylesheet' id='advgb_blocks_styles_pro-css' href='https://www.worksourceskc.org/wp-content/plugins/advanced-gutenberg-pro/assets/css/blocks-pro.css?ver=3.2.0'
+  href='https://worksourceskc.org/wp-content/plugins/advanced-gutenberg-pro/lib/vendor/publishpress/publishpress-blocks/assets/css/blocks.css?ver=3.2.0'
+  media='all' />\n<link rel='stylesheet' id='advgb_blocks_styles_pro-css' href='https://worksourceskc.org/wp-content/plugins/advanced-gutenberg-pro/assets/css/blocks-pro.css?ver=3.2.0'
   media='all' />\n<style id='wp-block-site-title-inline-css'>\n.wp-block-site-title{box-sizing:border-box}.wp-block-site-title
   :where(a){color:inherit;font-family:inherit;font-size:inherit;font-style:inherit;font-weight:inherit;letter-spacing:inherit;line-height:inherit;text-decoration:inherit}\n</style>\n<style
   id='wp-block-paragraph-inline-css'>\n.is-small-text{font-size:.875em}.is-regular-text{font-size:1em}.is-large-text{font-size:2.25em}.is-larger-text{font-size:3em}.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;font-style:normal;font-weight:100;line-height:.68;margin:.05em
   .1em 0 0;text-transform:uppercase}body.rtl .has-drop-cap:not(:focus):first-letter{float:none;margin-left:.1em}p.has-drop-cap.has-background{overflow:hidden}:root
   :where(p.has-background){padding:1.25em 2.375em}:where(p.has-text-color:not(.has-link-color))
   a{color:inherit}p.has-text-align-left[style*=\"writing-mode:vertical-lr\"],p.has-text-align-right[style*=\"writing-mode:vertical-rl\"]{rotate:180deg}\n</style>\n<link
-  rel=\"https://api.w.org/\" href=\"https://www.worksourceskc.org/wp-json/\" /><link
-  rel=\"alternate\" title=\"JSON\" type=\"application/json\" href=\"https://www.worksourceskc.org/wp-json/wp/v2/tribe_events/362561\"
-  /><link rel=\"EditURI\" type=\"application/rsd+xml\" title=\"RSD\" href=\"https://www.worksourceskc.org/xmlrpc.php?rsd\"
-  />\n<link rel='shortlink' href='https://www.worksourceskc.org/?p=362561' />\n<link
-  rel=\"alternate\" title=\"oEmbed (JSON)\" type=\"application/json+oembed\" href=\"https://www.worksourceskc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.worksourceskc.org%2Fevent%2Fwork-for-washington-job-hunter-virtual-workshop-statewide-3466%2F\"
-  />\n<link rel=\"alternate\" title=\"oEmbed (XML)\" type=\"text/xml+oembed\" href=\"https://www.worksourceskc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.worksourceskc.org%2Fevent%2Fwork-for-washington-job-hunter-virtual-workshop-statewide-3466%2F&#038;format=xml\"
+  rel=\"https://api.w.org/\" href=\"https://worksourceskc.org/wp-json/\" /><link rel=\"alternate\"
+  title=\"JSON\" type=\"application/json\" href=\"https://worksourceskc.org/wp-json/wp/v2/tribe_events/362567\"
+  /><link rel=\"EditURI\" type=\"application/rsd+xml\" title=\"RSD\" href=\"https://worksourceskc.org/xmlrpc.php?rsd\"
+  />\n<link rel='shortlink' href='https://worksourceskc.org/?p=362567' />\n<link rel=\"alternate\"
+  title=\"oEmbed (JSON)\" type=\"application/json+oembed\" href=\"https://worksourceskc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fworksourceskc.org%2Fevent%2Fwork-for-washington-job-hunter-virtual-workshop-statewide-3467%2F\"
+  />\n<link rel=\"alternate\" title=\"oEmbed (XML)\" type=\"text/xml+oembed\" href=\"https://worksourceskc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fworksourceskc.org%2Fevent%2Fwork-for-washington-job-hunter-virtual-workshop-statewide-3467%2F&#038;format=xml\"
   />\n<script type=\"text/javascript\" src=\"https://www.bugherd.com/sidebarv2.js?apikey=kzhpjsbdgxin5llwmvzeeg\"
   async=\"true\"></script><!-- Custom Facebook Feed JS vars -->\n<script type=\"text/javascript\">\nvar
-  cffsiteurl = \"https://www.worksourceskc.org/wp-content/plugins\";\nvar cffajaxurl
-  = \"https://www.worksourceskc.org/wp-admin/admin-ajax.php\";\n\n\nvar cfflinkhashtags
+  cffsiteurl = \"https://worksourceskc.org/wp-content/plugins\";\nvar cffajaxurl =
+  \"https://worksourceskc.org/wp-admin/admin-ajax.php\";\n\n\nvar cfflinkhashtags
   = \"false\";\n</script>\n<meta name=\"generator\" content=\"Site Kit by Google 1.153.0\"
-  /><meta name=\"tec-api-version\" content=\"v1\"><meta name=\"tec-api-origin\" content=\"https://www.worksourceskc.org\"><link
-  rel=\"alternate\" href=\"https://www.worksourceskc.org/wp-json/tribe/events/v1/events/362561\"
-  /><script type=\"importmap\" id=\"wp-importmap\">\n{\"imports\":{\"@wordpress\\/interactivity\":\"https:\\/\\/www.worksourceskc.org\\/wp-includes\\/js\\/dist\\/script-modules\\/interactivity\\/index.min.js?ver=55aebb6e0a16726baffb\"}}\n</script>\n<script
-  type=\"module\" src=\"https://www.worksourceskc.org/wp-includes/js/dist/script-modules/block-library/navigation/view.min.js?ver=61572d447d60c0aa5240\"
+  /><meta name=\"tec-api-version\" content=\"v1\"><meta name=\"tec-api-origin\" content=\"https://worksourceskc.org\"><link
+  rel=\"alternate\" href=\"https://worksourceskc.org/wp-json/tribe/events/v1/events/362567\"
+  /><script type=\"importmap\" id=\"wp-importmap\">\n{\"imports\":{\"@wordpress\\/interactivity\":\"https:\\/\\/worksourceskc.org\\/wp-includes\\/js\\/dist\\/script-modules\\/interactivity\\/index.min.js?ver=55aebb6e0a16726baffb\"}}\n</script>\n<script
+  type=\"module\" src=\"https://worksourceskc.org/wp-includes/js/dist/script-modules/block-library/navigation/view.min.js?ver=61572d447d60c0aa5240\"
   id=\"@wordpress/block-library/navigation/view-js-module\"></script>\n<link rel=\"modulepreload\"
-  href=\"https://www.worksourceskc.org/wp-includes/js/dist/script-modules/interactivity/index.min.js?ver=55aebb6e0a16726baffb\"
+  href=\"https://worksourceskc.org/wp-includes/js/dist/script-modules/interactivity/index.min.js?ver=55aebb6e0a16726baffb\"
   id=\"@wordpress/interactivity-js-modulepreload\"><meta name=\"google-site-verification\"
   content=\"T-otGnXdjJCQ09FHnnweUS5zrAEEa446c8duCq6zzQ8\"><style type=\"text/css\">.blue-message
   {\nbackground: none repeat scroll 0 0 #3399ff;\n    color: #ffffff;\n    text-shadow:
@@ -252,17 +254,18 @@ original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta c
   10px;\n    margin: 10px;\n    float: right;\n} \n.blockquotes {\nbackground: none;\n
   \   border-left: 5px solid #f1f1f1;\n    color: #8B8E97;\n    font-size: 16px;\n
   \   font-style: italic;\n    line-height: 22px;\n    padding-left: 15px;\n    padding:
-  10px;\n    width: 60%;\n    float: left;\n} \n</style><link rel=\"icon\" href=\"https://www.worksourceskc.org/wp-content/uploads/2024/09/cropped-android-chrome-512x512-36x36.png\"
-  sizes=\"32x32\" />\n<link rel=\"icon\" href=\"https://www.worksourceskc.org/wp-content/uploads/2024/09/cropped-android-chrome-512x512-300x300.png\"
-  sizes=\"192x192\" />\n<link rel=\"apple-touch-icon\" href=\"https://www.worksourceskc.org/wp-content/uploads/2024/09/cropped-android-chrome-512x512-300x300.png\"
-  />\n<meta name=\"msapplication-TileImage\" content=\"https://www.worksourceskc.org/wp-content/uploads/2024/09/cropped-android-chrome-512x512-300x300.png\"
+  10px;\n    width: 60%;\n    float: left;\n} \n</style><link rel=\"icon\" href=\"https://worksourceskc.org/wp-content/uploads/2024/09/cropped-android-chrome-512x512-36x36.png\"
+  sizes=\"32x32\" />\n<link rel=\"icon\" href=\"https://worksourceskc.org/wp-content/uploads/2024/09/cropped-android-chrome-512x512-300x300.png\"
+  sizes=\"192x192\" />\n<link rel=\"apple-touch-icon\" href=\"https://worksourceskc.org/wp-content/uploads/2024/09/cropped-android-chrome-512x512-300x300.png\"
+  />\n<meta name=\"msapplication-TileImage\" content=\"https://worksourceskc.org/wp-content/uploads/2024/09/cropped-android-chrome-512x512-300x300.png\"
   />\n<style id='asp-basic'>.asp_r .item{.price{--regular-price-color:#666;--sale_price_color:#666;color:var(--regular-price-color);del{opacity:.5;display:inline-block;text-decoration:line-through;color:var(--regular-price-color)}ins{margin-left:.5em;text-decoration:none;font-weight:700;display:inline-block;color:var(--sale_price_color)}}.stock{.quantity{color:#666}.out-of-stock{color:#a00}.on-backorder{color:#eaa600}.in-stock{color:#7ad03a}}.add-to-cart-container{display:flex;flex-wrap:wrap;align-items:center;position:relative;z-index:10;width:100%;margin:12px
   0;.add-to-cart-quantity{padding:8px 0 8px 8px;background:#eaeaea;width:32px;border-radius:4px
   0 0 4px;height:18px;min-height:unset;display:inline-block;font-size:13px;line-height:normal}.add-to-cart-button{padding:8px;border-radius:4px;background:#6246d7;color:white;height:18px;min-height:unset;display:block;text-align:center;min-width:90px;font-size:13px;line-height:normal;&.add-to-cart-variable{border-radius:4px}&.loading{content:url(\"data:image/svg+xml,%3Csvg
   width='38' height='38' viewBox='0 0 38 38' xmlns='http://www.w3.org/2000/svg' stroke='%23fff'%3E%3Cg
   fill='none' fill-rule='evenodd'%3E%3Cg transform='translate(1 1)' stroke-width='2'%3E%3Ccircle
-  stroke-opacity='.5' cx='18' cy='18' r='18'/%3E%3Cpath d='M36 18c0-9.94-8.06-18-18-18'%3E%3Canim"
-source_url: https://www.worksourceskc.org/event/work-for-washington-job-hunter-virtual-workshop-statewide-3466/
+  stroke-opacity='.5' cx='18' cy='18' r='18'/%3E%3Cpath d='M36 18c0-9.94-8.06-18-18-18'%3E%3CanimateTransform
+  attributeName"
+source_url: https://worksourceskc.org/event/work-for-washington-job-hunter-virtual-workshop-statewide-3467/
 start_date: '2025-12-23T13:00:00-08:00'
 summarized: true
 title: Work for Washington – Job Hunter Virtual Workshop – Statewide
@@ -270,4 +273,4 @@ topics:
 - Employment & Job Support
 ---
 
-Join the Work for Washington Job Hunter Virtual Workshop on Dec. 23, 2025, at 1 p.m. PST. This statewide event, hosted by WorkSource Seattle-King County, offers job seekers valuable resources and strategies for navigating the job market. Attendees can expect to learn about effective job search techniques, resume building, and interview preparation. Participants will also have the opportunity to connect with career coaches and network with other job seekers. Don't miss this chance to enhance your job-hunting skills and take a step closer to your next career opportunity.
+Join the Work for Washington – Job Hunter Virtual Workshop on Dec. 23, 2025, at 1 p.m. PST. This statewide event, hosted by WorkSource Seattle-King County, offers job seekers valuable resources and strategies for navigating the job market. Attendees can expect to learn about effective job search techniques, resume building, and interview preparation. This interactive workshop is designed to empower participants with the tools needed to secure employment opportunities in Washington. Don't miss this chance to enhance your job-hunting skills from the comfort of your home.

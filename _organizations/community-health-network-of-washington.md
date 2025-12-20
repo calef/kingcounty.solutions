@@ -5,11 +5,11 @@ email: info@chnw.chpw.org
 news_rss_url: https://chnw.chpw.org/feed/
 phone: 1-866-907-1906
 title: Community Health Network of Washington
-topics:
+topic_titles:
 - Health Care
 - Mental Health & Counseling
 type: Community-Based Organization
-website: https://chnw.chpw.org/
+website_url: https://chnw.chpw.org/
 ---
 
 Community Health Network of Washington (CHNW) provides affordable, community-based health care services across Washington state. With a focus on health equity, CHNW operates a network of community health centers that offer comprehensive care tailored to the unique needs of diverse populations, including immigrants and refugees.

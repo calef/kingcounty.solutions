@@ -1,10 +1,10 @@
 ---
 news_rss_url: https://pugetsoundfire.org/feed/
 title: Puget Sound Regional Fire Authority
-topics:
+topic_titles:
 - Health Care
 type: Special Purpose District
-website: https://www.pugetsoundfire.org
+website_url: https://www.pugetsoundfire.org
 ---
 
 The **Puget Sound Regional Fire Authority** delivers fire, EMS, and rescue services for South King County. It focuses on **community safety education, emergency response, and risk reduction** through strong regional collaboration.

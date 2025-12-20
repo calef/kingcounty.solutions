@@ -4,10 +4,10 @@ address: 1340 W Smith St, Kent, WA 98032
 email: email@ccskent.org
 phone: 253-852-7030
 title: Calvary Chapel South
-topics:
+topic_titles:
 - Education & Learning
 type: Faith-Based Organization
-website: https://ccskent.org
+website_url: https://ccskent.org
 ---
 
 Calvary Chapel South is a community-based Christian church in Kent, Washington, offering services every Sunday and Wednesday. The church focuses on worship, Bible study, and community outreach, fostering a family-like atmosphere for all ages.

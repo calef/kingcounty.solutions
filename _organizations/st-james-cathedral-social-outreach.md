@@ -3,12 +3,12 @@ address: 804 9th Avenue, Seattle, WA 98104
 email: outreach@stjames-cathedral.org
 phone: 206-622-3559
 title: St. James Cathedral Social Outreach and Advocacy
-topics:
+topic_titles:
 - Food & Nutrition
 - Mental Health & Counseling
 - Personal & Household Needs
 type: Community-Based Organization
-website: https://www.stjames-cathedral.org/outreach/
+website_url: https://www.stjames-cathedral.org/outreach/
 ---
 
 St. James Cathedral’s Social Outreach and Advocacy ministry mobilizes parish volunteers to serve neighbors across Seattle’s First Hill and downtown core. Through the Cathedral Kitchen and garden, teams prepare weeknight dinners sourced with fresh produce; the Sunday Breakfast program offers one of the few hot morning meals for people experiencing homelessness, and the Sandwich Making Ministry keeps St. Martin de Porres Shelter stocked with ready-to-eat food.

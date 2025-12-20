@@ -3,10 +3,10 @@ email: office@porchlightcares.org
 news_rss_url: https://porchlightcares.org/feed/
 phone: 425-698-1295
 title: PorchLight
-topics:
+topic_titles:
 - Shelter & Housing
 type: Community-Based Organization
-website: https://porchlightcares.org/
+website_url: https://porchlightcares.org/
 ---
 
 PorchLight partners with men and the community to create a path from homelessness to stable living. It provides emergency shelter, a day center, and various resources to support individuals in need.

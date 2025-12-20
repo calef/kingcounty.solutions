@@ -1,13 +1,13 @@
 ---
 acronym: SBOH
-parent_organization: State Executive Branch
+parent_organization_title: State Executive Branch
 title: State Board of Health
-topics:
+topic_titles:
 - Health Care
 - Mental Health & Counseling
 - Education & Learning
 type: Agency
-website: https://sboh.wa.gov/
+website_url: https://sboh.wa.gov/
 ---
 
 The **State Board of Health (SBOH)** develops public health policies that shape statewide wellness and prevention initiatives. It contributes to:

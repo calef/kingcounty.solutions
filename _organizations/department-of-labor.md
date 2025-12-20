@@ -1,13 +1,13 @@
 ---
 acronym: DOL
-parent_organization: Federal Executive Branch
+parent_organization_title: Federal Executive Branch
 title: Department of Labor
-topics:
+topic_titles:
 - Disabilities
 - Employment & Job Support
 - Financial Assistance
 type: Department
-website: https://www.dol.gov/
+website_url: https://www.dol.gov/
 ---
 
 The **Department of Labor (DOL)** fosters job creation, worker rights, and economic opportunity. Its programs align with:

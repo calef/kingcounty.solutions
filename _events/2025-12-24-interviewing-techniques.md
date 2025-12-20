@@ -1,16 +1,16 @@
 ---
 end_date: '2025-12-24T15:30:00-08:00'
 feed_content: '<div> <div> <section> <title>WorkSource Seattle-King County</title>
-  <script>{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://worksourceskc.org/event/interviewing-techniques-1403/","url":"https://worksourceskc.org/event/interviewing-techniques-1403/","name":"Interviewing
-  Techniques - WorkSource Seattle-King County","isPartOf":{"@id":"https://www.worksourceskc.org/#website"},"datePublished":"2025-11-25T21:45:20+00:00","description":"You
+  <script>{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://worksourceskc.org/event/interviewing-techniques-1404/","url":"https://worksourceskc.org/event/interviewing-techniques-1404/","name":"Interviewing
+  Techniques - WorkSource Seattle-King County","isPartOf":{"@id":"https://www.worksourceskc.org/#website"},"datePublished":"2025-11-25T21:45:33+00:00","dateModified":"2025-12-20T20:34:08+00:00","description":"You
   might have the best r&#233;sum&#233; ever, but if you don&#8217;t interview well,
-  it won&#8217;t matter. Being able to handle a job interview is a","breadcrumb":{"@id":"https://worksourceskc.org/event/interviewing-techniques-1403/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://worksourceskc.org/event/interviewing-techniques-1403/"]}]},{"@type":"BreadcrumbList","@id":"https://worksourceskc.org/event/interviewing-techniques-1403/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"Interviewing
+  it won&#8217;t matter. Being able to handle a job interview is a","breadcrumb":{"@id":"https://worksourceskc.org/event/interviewing-techniques-1404/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://worksourceskc.org/event/interviewing-techniques-1404/"]}]},{"@type":"BreadcrumbList","@id":"https://worksourceskc.org/event/interviewing-techniques-1404/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"Interviewing
   Techniques"}]},{"@type":"WebSite","@id":"https://www.worksourceskc.org/#website","url":"https://www.worksourceskc.org/","name":"WorkSource
   Seattle-King County","description":"Let&#039;s find your path together!","publisher":{"@id":"https://www.worksourceskc.org/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.worksourceskc.org/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://www.worksourceskc.org/#organization","name":"WorkSource
   Seattle-King County","url":"https://www.worksourceskc.org/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.worksourceskc.org/#/schema/logo/image/","url":"","contentUrl":"","caption":"WorkSource
   Seattle-King County"},"image":{"@id":"https://www.worksourceskc.org/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/worksourceskc/"]},{"@type":"Event","name":"Interviewing
   Techniques","description":"You might have the best r&#233;sum&#233; ever, but if
-  you don&#8217;t interview well, it won&#8217;t matter. Being able to handle&hellip;","url":"https://worksourceskc.org/event/interviewing-techniques-1403/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2025-12-24T13:30:00-08:00","endDate":"2025-12-24T15:30:00-08:00","@id":"https://worksourceskc.org/event/interviewing-techniques-1403/#event","mainEntityOfPage":{"@id":"https://worksourceskc.org/event/interviewing-techniques-1403/"}}]}</script>
+  you don&#8217;t interview well, it won&#8217;t matter. Being able to handle&hellip;","url":"https://worksourceskc.org/event/interviewing-techniques-1404/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2025-12-24T13:30:00-08:00","endDate":"2025-12-24T15:30:00-08:00","@id":"https://worksourceskc.org/event/interviewing-techniques-1404/#event","mainEntityOfPage":{"@id":"https://worksourceskc.org/event/interviewing-techniques-1404/"}}]}</script>
   <title>Interviewing Techniques – WorkSource Seattle-King County</title> <a>Skip
   to main content</a> <header> <div> <div> <div> <div> <div> <ul> <li><a>Job Board</a></li>
   </ul> <ul> <li> <a>Staff Log-In</a> </li> </ul> </div> </div> <div> <ul> <li> <a>Job
@@ -48,11 +48,12 @@ feed_content: '<div> <div> <section> <title>WorkSource Seattle-King County</titl
   you will learn valuable interviewing tips and have the chance to practice answers
   to frequently asked—and sometimes difficult—questions in a supportive, realistic
   environment.</p> </div> </div> </div> </section> </div> </section> </div> </div>'
-feed_content_checksum: 30d4b6a39e81fad456f36f6c2b039987e3d32b16
+feed_content_checksum: 0d0030b817ebad68368a2fa8f23d9b0d9733ecbc
 images: []
 location: ''
 locations:
 - King County
+locked: true
 organization_title: WorkSource Seattle-King County
 original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta charset=\"UTF-8\"
   />\n\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\n<meta
@@ -62,26 +63,27 @@ original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta c
   v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n\t<meta name=\"description\"
   content=\"You might have the best r&#233;sum&#233; ever, but if you don&#8217;t
   interview well, it won&#8217;t matter. Being able to handle a job interview is a\"
-  />\n\t<link rel=\"canonical\" href=\"https://worksourceskc.org/event/interviewing-techniques-1403/\"
+  />\n\t<link rel=\"canonical\" href=\"https://worksourceskc.org/event/interviewing-techniques-1404/\"
   />\n\t<meta property=\"og:locale\" content=\"en_US\" />\n\t<meta property=\"og:type\"
   content=\"article\" />\n\t<meta property=\"og:title\" content=\"Interviewing Techniques
   - WorkSource Seattle-King County\" />\n\t<meta property=\"og:description\" content=\"You
   might have the best r&#233;sum&#233; ever, but if you don&#8217;t interview well,
   it won&#8217;t matter. Being able to handle a job interview is a\" />\n\t<meta property=\"og:url\"
-  content=\"https://worksourceskc.org/event/interviewing-techniques-1403/\" />\n\t<meta
+  content=\"https://worksourceskc.org/event/interviewing-techniques-1404/\" />\n\t<meta
   property=\"og:site_name\" content=\"WorkSource Seattle-King County\" />\n\t<meta
   property=\"article:publisher\" content=\"https://www.facebook.com/worksourceskc/\"
+  />\n\t<meta property=\"article:modified_time\" content=\"2025-12-20T20:34:08+00:00\"
   />\n\t<meta name=\"twitter:card\" content=\"summary_large_image\" />\n\t<script
-  type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://worksourceskc.org/event/interviewing-techniques-1403/\",\"url\":\"https://worksourceskc.org/event/interviewing-techniques-1403/\",\"name\":\"Interviewing
-  Techniques - WorkSource Seattle-King County\",\"isPartOf\":{\"@id\":\"https://www.worksourceskc.org/#website\"},\"datePublished\":\"2025-11-25T21:45:20+00:00\",\"description\":\"You
+  type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://worksourceskc.org/event/interviewing-techniques-1404/\",\"url\":\"https://worksourceskc.org/event/interviewing-techniques-1404/\",\"name\":\"Interviewing
+  Techniques - WorkSource Seattle-King County\",\"isPartOf\":{\"@id\":\"https://www.worksourceskc.org/#website\"},\"datePublished\":\"2025-11-25T21:45:33+00:00\",\"dateModified\":\"2025-12-20T20:34:08+00:00\",\"description\":\"You
   might have the best r&#233;sum&#233; ever, but if you don&#8217;t interview well,
-  it won&#8217;t matter. Being able to handle a job interview is a\",\"breadcrumb\":{\"@id\":\"https://worksourceskc.org/event/interviewing-techniques-1403/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://worksourceskc.org/event/interviewing-techniques-1403/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://worksourceskc.org/event/interviewing-techniques-1403/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.worksourceskc.org/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Events\",\"item\":\"https://worksourceskc.org/events_list/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Interviewing
+  it won&#8217;t matter. Being able to handle a job interview is a\",\"breadcrumb\":{\"@id\":\"https://worksourceskc.org/event/interviewing-techniques-1404/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://worksourceskc.org/event/interviewing-techniques-1404/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://worksourceskc.org/event/interviewing-techniques-1404/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.worksourceskc.org/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Events\",\"item\":\"https://worksourceskc.org/events_list/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Interviewing
   Techniques\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://www.worksourceskc.org/#website\",\"url\":\"https://www.worksourceskc.org/\",\"name\":\"WorkSource
   Seattle-King County\",\"description\":\"Let&#039;s find your path together!\",\"publisher\":{\"@id\":\"https://www.worksourceskc.org/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://www.worksourceskc.org/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https://www.worksourceskc.org/#organization\",\"name\":\"WorkSource
   Seattle-King County\",\"url\":\"https://www.worksourceskc.org/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://www.worksourceskc.org/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"WorkSource
   Seattle-King County\"},\"image\":{\"@id\":\"https://www.worksourceskc.org/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/worksourceskc/\"]},{\"@type\":\"Event\",\"name\":\"Interviewing
   Techniques\",\"description\":\"You might have the best r&#233;sum&#233; ever, but
-  if you don&#8217;t interview well, it won&#8217;t matter. Being able to handle&hellip;\",\"url\":\"https://worksourceskc.org/event/interviewing-techniques-1403/\",\"eventAttendanceMode\":\"https://schema.org/OfflineEventAttendanceMode\",\"eventStatus\":\"https://schema.org/EventScheduled\",\"startDate\":\"2025-12-24T13:30:00-08:00\",\"endDate\":\"2025-12-24T15:30:00-08:00\",\"@id\":\"https://worksourceskc.org/event/interviewing-techniques-1403/#event\",\"mainEntityOfPage\":{\"@id\":\"https://worksourceskc.org/event/interviewing-techniques-1403/\"}}]}</script>\n\t<!--
+  if you don&#8217;t interview well, it won&#8217;t matter. Being able to handle&hellip;\",\"url\":\"https://worksourceskc.org/event/interviewing-techniques-1404/\",\"eventAttendanceMode\":\"https://schema.org/OfflineEventAttendanceMode\",\"eventStatus\":\"https://schema.org/EventScheduled\",\"startDate\":\"2025-12-24T13:30:00-08:00\",\"endDate\":\"2025-12-24T15:30:00-08:00\",\"@id\":\"https://worksourceskc.org/event/interviewing-techniques-1404/#event\",\"mainEntityOfPage\":{\"@id\":\"https://worksourceskc.org/event/interviewing-techniques-1404/\"}}]}</script>\n\t<!--
   / Yoast SEO plugin. -->\n\n\n<title>Interviewing Techniques - WorkSource Seattle-King
   County</title>\n<link rel='dns-prefetch' href='//worksourceskc.org' />\n<link rel='dns-prefetch'
   href='//connect.facebook.net' />\n<link rel='dns-prefetch' href='//static.addtoany.com'
@@ -94,7 +96,7 @@ original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta c
   />\n<link rel=\"alternate\" type=\"text/calendar\" title=\"WorkSource Seattle-King
   County &raquo; iCal Feed\" href=\"https://worksourceskc.org/events_list/?ical=1\"
   />\n<link rel=\"alternate\" type=\"application/rss+xml\" title=\"WorkSource Seattle-King
-  County &raquo; Interviewing Techniques Comments Feed\" href=\"https://worksourceskc.org/event/interviewing-techniques-1403/feed/\"
+  County &raquo; Interviewing Techniques Comments Feed\" href=\"https://worksourceskc.org/event/interviewing-techniques-1404/feed/\"
   />\n\t\t<!-- This site uses the Google Analytics by MonsterInsights plugin v8.7.0
   - Using Analytics tracking - https://www.monsterinsights.com/ -->\n\t\t\t\t\t\t\t<script
   src=\"//www.googletagmanager.com/gtag/js?id=G-LT415XR2H3\"  data-cfasync=\"false\"
@@ -191,18 +193,18 @@ original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta c
   :where(p.has-background){padding:1.25em 2.375em}:where(p.has-text-color:not(.has-link-color))
   a{color:inherit}p.has-text-align-left[style*=\"writing-mode:vertical-lr\"],p.has-text-align-right[style*=\"writing-mode:vertical-rl\"]{rotate:180deg}\n</style>\n<link
   rel=\"https://api.w.org/\" href=\"https://worksourceskc.org/wp-json/\" /><link rel=\"alternate\"
-  title=\"JSON\" type=\"application/json\" href=\"https://worksourceskc.org/wp-json/wp/v2/tribe_events/362606\"
+  title=\"JSON\" type=\"application/json\" href=\"https://worksourceskc.org/wp-json/wp/v2/tribe_events/362614\"
   /><link rel=\"EditURI\" type=\"application/rsd+xml\" title=\"RSD\" href=\"https://worksourceskc.org/xmlrpc.php?rsd\"
-  />\n<link rel='shortlink' href='https://worksourceskc.org/?p=362606' />\n<link rel=\"alternate\"
-  title=\"oEmbed (JSON)\" type=\"application/json+oembed\" href=\"https://worksourceskc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fworksourceskc.org%2Fevent%2Finterviewing-techniques-1403%2F\"
-  />\n<link rel=\"alternate\" title=\"oEmbed (XML)\" type=\"text/xml+oembed\" href=\"https://worksourceskc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fworksourceskc.org%2Fevent%2Finterviewing-techniques-1403%2F&#038;format=xml\"
+  />\n<link rel='shortlink' href='https://worksourceskc.org/?p=362614' />\n<link rel=\"alternate\"
+  title=\"oEmbed (JSON)\" type=\"application/json+oembed\" href=\"https://worksourceskc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fworksourceskc.org%2Fevent%2Finterviewing-techniques-1404%2F\"
+  />\n<link rel=\"alternate\" title=\"oEmbed (XML)\" type=\"text/xml+oembed\" href=\"https://worksourceskc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fworksourceskc.org%2Fevent%2Finterviewing-techniques-1404%2F&#038;format=xml\"
   />\n<script type=\"text/javascript\" src=\"https://www.bugherd.com/sidebarv2.js?apikey=kzhpjsbdgxin5llwmvzeeg\"
   async=\"true\"></script><!-- Custom Facebook Feed JS vars -->\n<script type=\"text/javascript\">\nvar
   cffsiteurl = \"https://worksourceskc.org/wp-content/plugins\";\nvar cffajaxurl =
   \"https://worksourceskc.org/wp-admin/admin-ajax.php\";\n\n\nvar cfflinkhashtags
   = \"false\";\n</script>\n<meta name=\"generator\" content=\"Site Kit by Google 1.153.0\"
   /><meta name=\"tec-api-version\" content=\"v1\"><meta name=\"tec-api-origin\" content=\"https://worksourceskc.org\"><link
-  rel=\"alternate\" href=\"https://worksourceskc.org/wp-json/tribe/events/v1/events/362606\"
+  rel=\"alternate\" href=\"https://worksourceskc.org/wp-json/tribe/events/v1/events/362614\"
   /><script type=\"importmap\" id=\"wp-importmap\">\n{\"imports\":{\"@wordpress\\/interactivity\":\"https:\\/\\/worksourceskc.org\\/wp-includes\\/js\\/dist\\/script-modules\\/interactivity\\/index.min.js?ver=55aebb6e0a16726baffb\"}}\n</script>\n<script
   type=\"module\" src=\"https://worksourceskc.org/wp-includes/js/dist/script-modules/block-library/navigation/view.min.js?ver=61572d447d60c0aa5240\"
   id=\"@wordpress/block-library/navigation/view-js-module\"></script>\n<link rel=\"modulepreload\"
@@ -240,9 +242,8 @@ original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta c
   attributeName='transform' type='rotate' from='0 18 18' to='360 18 18' dur='1s' repeatCount='indefinite'/%3E%3C/path%3E%3C/g%3E%3C/g%3E%3C/svg%3E\")}}a.added_to_cart{flex-basis:100%;margin-top:8px}}.add-to-cart-container:has(.add-to-cart-quantity){.add-to-cart-button{border-radius:0
   4px 4px 0}}.sale-badge{--font-size:14px;--font-color:white;--background-color:#6246d7;position:absolute;top:12px;right:12px;padding:6px
   12px;font-size:var(--font-size);color:var(--font-color);background:var(--background-color);box-shadow:0
-  0 6px -3px rgb(0,0,0);&.sale-badge-capsule{border-radius:50px}&.sale-badge-round{border-radius:3px}&.sale-badge-top-left{right:unset;left:12px}&.sale-badge-bottom-left{right:unset;top:unset;bottom:12px;left:12px}&.sale-badge-bottom-right{top:unset;bottom:12px}}}.asp_r
-  .item{.asp__af-tt-container{position:relative;z-index:2;.asp__af-tt-link{transition:"
-source_url: https://worksourceskc.org/event/interviewing-techniques-1403/
+  0 6px -3px rgb(0,0,0);&.sale-badge-capsule{border-radius:50px}&.sale-badge-round{border-radius:3px}&.sale-badge-top-left{right:unset;left:12px}&.sale-badge-bottom-left{right:unset;top:unset;bottom:12px;left:12px}&.sale-badge-bottom"
+source_url: https://worksourceskc.org/event/interviewing-techniques-1404/
 start_date: '2025-12-24T13:30:00-08:00'
 summarized: true
 title: Interviewing Techniques
@@ -250,4 +251,4 @@ topics:
 - Employment & Job Support
 ---
 
-Join WorkSource Seattle-King County for a workshop on Interviewing Techniques on Dec. 24, 2025, starting at 1:30 p.m. This event is designed to equip attendees with essential skills for successful job interviews. Participants will learn effective strategies to prepare for interviews, answer common questions, and present themselves confidently to potential employers. Whether you're entering the job market or looking to enhance your interviewing skills, this workshop offers valuable insights and hands-on practice. Don't miss this opportunity to improve your chances of landing your dream job.
+Join WorkSource Seattle-King County for a workshop on Interviewing Techniques on Dec. 24, 2025, at 1:30 p.m. This event is designed to help job seekers enhance their interviewing skills and boost their confidence. Attendees will learn effective strategies for answering common interview questions, understanding body language, and making a positive impression on potential employers. Whether you are new to the job market or looking to refine your skills, this workshop offers valuable insights and practical tips. Don't miss this opportunity to improve your interviewing abilities in a supportive environment.

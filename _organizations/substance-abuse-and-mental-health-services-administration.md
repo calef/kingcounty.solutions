@@ -1,13 +1,13 @@
 ---
 acronym: SAMHSA
 news_rss_url: https://www.samhsa.gov/find-help/988/press-announcements.rss
-parent_organization: Department of Health and Human Services
+parent_organization_title: Department of Health and Human Services
 title: Substance Abuse and Mental Health Services Administration
-topics:
+topic_titles:
 - Mental Health & Counseling
 - Education & Learning
 type: Agency
-website: https://www.samhsa.gov/
+website_url: https://www.samhsa.gov/
 ---
 
 The **Substance Abuse and Mental Health Services Administration (SAMHSA)** advances behavioral health nationwide. It supports:

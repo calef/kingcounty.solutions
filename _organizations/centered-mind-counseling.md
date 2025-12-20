@@ -5,10 +5,10 @@ email: contact@centeredmindcounseling.com
 news_rss_url: https://centeredmindcounseling.com/feed/
 phone: "(425) 269-3277"
 title: Centered Mind Counseling
-topics:
+topic_titles:
 - Mental Health & Counseling
 type: Agency
-website: https://centeredmindcounseling.com/
+website_url: https://centeredmindcounseling.com/
 ---
 
 Centered Mind Counseling offers therapy services for adults and children struggling with anxiety, depression, and other life challenges. We provide in-person and telehealth sessions, ensuring accessible mental health support tailored to individual needs.

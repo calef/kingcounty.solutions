@@ -1,12 +1,12 @@
 ---
 acronym: ALTSA
-parent_organization: Department of Social and Health Services
+parent_organization_title: Department of Social and Health Services
 title: Aging and Long-Term Support Administration
-topics:
+topic_titles:
 - Disabilities
 - Health Care
 type: Division
-website: https://www.dshs.wa.gov/altsa
+website_url: https://www.dshs.wa.gov/altsa
 ---
 
 The **Aging and Long-Term Support Administration (ALTSA)** provides services that help seniors and people with disabilities live independently. Its programs align with:

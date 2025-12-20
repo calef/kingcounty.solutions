@@ -4,10 +4,10 @@ email: ben@benluedke.com
 news_rss_url: https://benluedke.com/?feed=rss2
 phone: 425.454.0422
 title: Ben Luedke, MA, LMHC
-topics:
+topic_titles:
 - Mental Health & Counseling
 type: Licensed Mental Health Counselor
-website: https://benluedke.com/
+website_url: https://benluedke.com/
 ---
 
 Ben Luedke is a licensed mental health counselor offering psychotherapy and counseling for individuals, couples, families, and groups. He specializes in anxiety, depression, PTSD, relationship issues, and parenting challenges. Services include both in-person and online therapy options.
