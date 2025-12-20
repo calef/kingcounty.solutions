@@ -1,9 +1,9 @@
 ---
 title: Connect To Care Jobs
-topics:
+topic_titles:
 - Employment & Job Support
 type: Program
-website: https://www.connecttocarejobs.com/
+website_url: https://www.connecttocarejobs.com/
 ---
 
 Connect to Care Jobs is a program designed to assist individuals in finding employment opportunities and job support services.

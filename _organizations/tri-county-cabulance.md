@@ -1,10 +1,10 @@
 ---
 phone: 425-775-8358
 title: Tri-County Cabulance
-topics:
+topic_titles:
 - Transportation & Mobility
 type: Corporation
-website: https://tricountycabulance.com/
+website_url: https://tricountycabulance.com/
 ---
 
 Tri-County Cabulance provides safe and reliable nonemergency medical transportation in King and Snohomish counties. Services include wheelchair, stretcher, and ambulatory rides, ensuring comfort and safety for all passengers.

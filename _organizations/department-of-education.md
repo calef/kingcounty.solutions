@@ -1,11 +1,11 @@
 ---
-parent_organization: Federal Executive Branch
+parent_organization_title: Federal Executive Branch
 title: Department of Education
-topics:
+topic_titles:
 - Education & Learning
 - Financial Assistance
 type: Department
-website: https://www.ed.gov/
+website_url: https://www.ed.gov/
 ---
 
 The **Department of Education** promotes educational excellence and equal access to learning. Its social service relevance includes:

@@ -1,11 +1,11 @@
 ---
-parent_organization: Federal Executive Branch
+parent_organization_title: Federal Executive Branch
 title: Corporation for National and Community Service (AmeriCorps)
-topics:
+topic_titles:
 - Education & Learning
 - Employment & Job Support
 type: Agency
-website: https://americorps.gov/
+website_url: https://americorps.gov/
 ---
 
 The **Corporation for National and Community Service (AmeriCorps)** strengthens communities through volunteerism and service, building local capacity through national service members and community partners. It aligns with:

@@ -168,7 +168,7 @@ module Mayhem
         return if ical_url.empty?
 
         source_title = document.front_matter['title'] || File.basename(path, '.md')
-        website = document.front_matter['website']
+        website = document.front_matter['website_url']
 
         import_from_url(ical_url, source_title, website, stats)
         { title: source_title, source: ical_url }

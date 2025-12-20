@@ -4,12 +4,12 @@ email: early.learning@villacomunitaria.org
 events_ical_url: https://villacomunitaria.org/events/?ical=1
 news_rss_url: https://villacomunitaria.org/feed/
 title: Villa Comunitaria
-topics:
+topic_titles:
 - Education & Learning
 - Food & Nutrition
 - Employment & Job Support
 type: Community-Based Organization
-website: https://villacomunitaria.org/
+website_url: https://villacomunitaria.org/
 ---
 
 Villa Comunitaria empowers Latine families in South Park through programs focused on economic development, education, and community engagement. With a bilingual staff, it provides resources to navigate immigration, housing, and health systems, fostering resilience and leadership within the community.

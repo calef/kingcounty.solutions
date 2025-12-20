@@ -5,11 +5,11 @@ email: info@acb.org
 news_rss_url: https://pinecast.com/feed/acb-reports
 phone: 202-467-5081
 title: American Council of the Blind
-topics:
+topic_titles:
 - Disabilities
 - Education & Learning
 type: Community-Based Organization
-website: https://www.acb.org/home
+website_url: https://www.acb.org/home
 ---
 
 The American Council of the Blind (ACB) advocates for the equality and independence of people who are blind or visually impaired. ACB provides education, resources, and community connections to support individuals in their journey through vision loss.

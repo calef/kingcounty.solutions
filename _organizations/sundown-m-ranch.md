@@ -2,10 +2,10 @@
 news_rss_url: https://sundown.org/feed/
 phone: "(509) 457-0290"
 title: Sundown M Ranch
-topics:
+topic_titles:
 - Mental Health & Counseling
 type: Agency
-website: https://sundown.org/
+website_url: https://sundown.org/
 ---
 
 Sundown M Ranch offers comprehensive drug and alcohol treatment services, including withdrawal management, residential treatment, and outpatient programs. Since 1968, we have supported more than 200,000 individuals and families in recovery, focusing on integrated care that addresses the mind, body, and spirit.

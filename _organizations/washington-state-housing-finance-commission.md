@@ -1,12 +1,12 @@
 ---
 acronym: WSHFC
-parent_organization: State Executive Branch
+parent_organization_title: State Executive Branch
 title: Washington State Housing Finance Commission
-topics:
+topic_titles:
 - Financial Assistance
 - Shelter & Housing
 type: Agency
-website: https://www.wshfc.org/
+website_url: https://www.wshfc.org/
 ---
 
 The **Washington State Housing Finance Commission (WSHFC)** promotes affordable housing and community investment. Its key focus areas include:

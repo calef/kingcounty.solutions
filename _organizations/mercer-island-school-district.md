@@ -1,11 +1,11 @@
 ---
 acronym: MISD
-parent_organization: Puget Sound Educational Service District 121
+parent_organization_title: Puget Sound Educational Service District 121
 title: Mercer Island School District
-topics:
+topic_titles:
 - Education & Learning
 type: School District
-website: https://www.mercerislandschools.org
+website_url: https://www.mercerislandschools.org
 ---
 
 The Mercer Island School District serves the educational needs of the Mercer Island community. It is committed to providing quality education and support for all students.

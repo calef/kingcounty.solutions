@@ -1,13 +1,13 @@
 ---
 acronym: OPD
-parent_organization: State Judicial Branch
+parent_organization_title: State Judicial Branch
 title: Office of Public Defense
-topics:
+topic_titles:
 - Domestic Violence
 - Education & Learning
 - Legal Aid
 type: Agency
-website: https://www.opd.wa.gov/
+website_url: https://www.opd.wa.gov/
 ---
 
 The **Office of Public Defense (OPD)** ensures quality legal representation for indigent defendants and parents involved in child welfare cases. It aligns with the social service framework through:

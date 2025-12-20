@@ -1,14 +1,14 @@
 ---
 acronym: VA
-parent_organization: Federal Executive Branch
+parent_organization_title: Federal Executive Branch
 title: Department of Veterans Affairs
-topics:
+topic_titles:
 - Health Care
 - Shelter & Housing
 - Mental Health & Counseling
 - Employment & Job Support
 type: Department
-website: https://www.va.gov/
+website_url: https://www.va.gov/
 ---
 
 The **Department of Veterans Affairs (VA)** delivers health care, housing, and benefits to veterans and their families. It supports multiple social service domains:

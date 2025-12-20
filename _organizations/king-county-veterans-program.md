@@ -1,14 +1,14 @@
 ---
 acronym: KCVP
-parent_organization: Department of Community and Human Services
+parent_organization_title: Department of Community and Human Services
 title: King County Veterans Program
-topics:
+topic_titles:
 - Financial Assistance
 - Shelter & Housing
 - Employment & Job Support
 - Mental Health & Counseling
 type: Program
-website: https://kingcounty.gov/depts/community-human-services/veterans.aspx
+website_url: https://kingcounty.gov/depts/community-human-services/veterans.aspx
 ---
 
 The **King County Veterans Program (KCVP)** provides financial, housing, and employment support to veterans and their families.

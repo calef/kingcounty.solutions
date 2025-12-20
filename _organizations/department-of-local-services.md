@@ -1,12 +1,12 @@
 ---
 acronym: DLS
-parent_organization: King County
+parent_organization_title: King County
 title: Department of Local Services
-topics:
+topic_titles:
 - Personal & Household Needs
 - Transportation & Mobility
 type: Department
-website: https://kingcounty.gov/depts/local-services.aspx
+website_url: https://kingcounty.gov/depts/local-services.aspx
 ---
 
 The **Department of Local Services (DLS)** serves residents and businesses in unincorporated King County. Its social service contributions include:

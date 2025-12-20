@@ -4,12 +4,12 @@ email: info@breadoflifemission.org
 news_rss_url: https://breadoflifemission.org/stories/rss.xml
 phone: 206-682-3579
 title: Bread of Life Mission
-topics:
+topic_titles:
 - Food & Nutrition
 - Mental Health & Counseling
 - Shelter & Housing
 type: Faith-Based Organization
-website: https://breadoflifemission.org/
+website_url: https://breadoflifemission.org/
 ---
 
 Bread of Life Mission is a faith-based nonprofit in Pioneer Square serving men experiencing homelessness, addiction, and deep poverty. Since 1939, the mission has offered low-barrier outreach, emergency meals, showers, and winter-weather mats alongside a 24/7 enhanced shelter and LifePath recovery program that pairs case management with counseling and discipleship.

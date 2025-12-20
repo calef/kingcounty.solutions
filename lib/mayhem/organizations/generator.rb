@@ -84,7 +84,7 @@ module Mayhem
           front_matter['events_ical_url'] ||= feed_result.ical_url
         end
         front_matter['title'] = title
-        front_matter['website'] = website_url
+        front_matter['website_url'] = website_url
 
         body = body_from_data(data)
         path = write_organization_file(slug, front_matter, body)
@@ -116,7 +116,7 @@ module Mayhem
           doc = Mayhem::FrontMatter::Document.load(path, logger: @logger)
           next unless doc
 
-          website = doc.front_matter['website']
+          website = doc.front_matter['website_url']
           next unless website
 
           set << normalize_url(website)
@@ -200,8 +200,8 @@ module Mayhem
             - title (string, required)
             - type (string chosen from the allowed organization types)
             - acronym (string of capital letters like YMCA; omit if none)
-            - topics (array of titles chosen from the allowed topics list, most relevant only)
-            - parent_organization (string or null)
+            - topic_titles (array of titles chosen from the allowed topics list, most relevant only)
+            - parent_organization_title (string or null)
             - news_rss_url (string or null)
             - events_ical_url (string or null)
             - phone (string or null)
@@ -242,7 +242,7 @@ module Mayhem
 
       def build_front_matter(data, types:)
         front_matter = {}
-        %w[acronym news_rss_url events_ical_url parent_organization phone email address topics
+        %w[acronym news_rss_url events_ical_url parent_organization_title phone email address topic_titles
            type].each do |key|
           value = normalize_value(data[key])
           front_matter[key] = value unless value.nil?

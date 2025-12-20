@@ -3,12 +3,12 @@ acronym: GGG
 email: care@gogograndparent.com
 phone: 1 (855) 464-6872
 title: GoGoGrandparent
-topics:
+topic_titles:
 - Transportation & Mobility
 - Food & Nutrition
 - Health Care
 type: Community-Based Organization
-website: https://gogograndparent.com/
+website_url: https://gogograndparent.com/
 ---
 
 GoGoGrandparent provides on-demand services for seniors and people with disabilities, including grocery delivery, meal delivery, rides, and home care. Our services are accessible via phone, ensuring independence and convenience for those who may not use smartphones.

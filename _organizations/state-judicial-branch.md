@@ -1,9 +1,9 @@
 ---
-parent_organization: State of Washington
+parent_organization_title: State of Washington
 title: State Judicial Branch
-topics: []
+topic_titles: []
 type: Division
-website: https://www.courts.wa.gov/
+website_url: https://www.courts.wa.gov/
 ---
 
 The **Washington State Judicial Branch** interprets and applies state laws, ensuring justice is administered fairly and consistently. It includes the **Supreme Court**, **Court of Appeals**, and **superior, district, and municipal courts**. The branch resolves legal disputes, protects individual rights, and upholds the state and U.S. constitutions. The **Administrative Office of the Courts (AOC)** supports court operations statewide. Through its independent structure, the judicial branch provides checks and balances on the legislative and executive branches while ensuring equal access to justice for all Washington residents.

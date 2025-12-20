@@ -3,7 +3,7 @@ events_ical_url: https://normandyparkwa.gov/events/?ical=1
 news_rss_url: https://normandyparkwa.gov/feed/
 title: City of Normandy Park
 type: City
-website: https://normandyparkwa.gov/
+website_url: https://normandyparkwa.gov/
 ---
 
 City of Normandy Park serves the community of **Normandy Park**, Washington. The city provides various services to support its residents.

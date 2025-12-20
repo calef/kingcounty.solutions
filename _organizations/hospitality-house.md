@@ -5,13 +5,13 @@ events_ical_url: https://hospitalityhousesouthking.org/events/?ical=1
 news_rss_url: https://hospitalityhousesouthking.org/feed/
 phone: 206-242-1860
 title: Hospitality House
-topics:
+topic_titles:
 - Shelter & Housing
 - Food & Nutrition
 - Health Care
 - Mental Health & Counseling
 type: Community-Based Organization
-website: https://hospitalityhousesouthking.org
+website_url: https://hospitalityhousesouthking.org
 ---
 
 Hospitality House provides a 90-day shelter program for women experiencing homelessness, offering essential services such as meals, case management, and access to health care. The program focuses on empowerment and stability, helping residents secure permanent housing and develop life skills.

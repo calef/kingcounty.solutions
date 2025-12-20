@@ -10,12 +10,12 @@ class OrganizationModelTest < Minitest::Test
         {
           'title' => 'Test Organization',
           'type' => 'Community-Based Organization',
-          'website' => 'https://example.org',
+          'website_url' => 'https://example.org',
           'phone' => '206-555-0123',
           'email' => 'contact@example.org',
           'address' => '123 Main St, Seattle, WA 98101',
-          'topics' => ['Housing', 'Food'],
-          'parent_organization' => 'Parent Org'
+          'topic_titles' => ['Housing', 'Food'],
+          'parent_organization_title' => 'Parent Org'
         },
         body: 'Test organization description.'
       )
@@ -23,11 +23,11 @@ class OrganizationModelTest < Minitest::Test
       assert_equal '_organizations/test-organization.md', record.id
       assert_equal 'Test Organization', record.title
       assert_equal 'Community-Based Organization', record.type
-      assert_equal 'https://example.org', record.website
+      assert_equal 'https://example.org', record.website_url
       assert_equal '206-555-0123', record.phone
       assert_equal 'contact@example.org', record.email
       assert_equal '123 Main St, Seattle, WA 98101', record.address
-      assert_equal ['Housing', 'Food'], record.topics
+      assert_equal ['Housing', 'Food'], record.topic_titles
       assert_equal 'Parent Org', record.parent_organization_title
       assert_equal 'Test organization description.', record.body.strip
 
@@ -44,7 +44,7 @@ class OrganizationModelTest < Minitest::Test
         body: 'The parent organization.'
       )
       child = Mayhem::Models::Organization.create!(
-        { 'title' => 'Child Org', 'type' => 'Program', 'parent_organization' => 'Parent Org' },
+        { 'title' => 'Child Org', 'type' => 'Program', 'parent_organization_title' => 'Parent Org' },
         body: 'A child organization.'
       )
 
@@ -57,7 +57,7 @@ class OrganizationModelTest < Minitest::Test
   def test_parent_organization_handles_missing_parent
     FMRepo::TestHelpers.with_temp_repo(role: :organizations) do
       child = Mayhem::Models::Organization.create!(
-        { 'title' => 'Solo Org', 'type' => 'Agency', 'parent_organization' => 'Missing Org' },
+        { 'title' => 'Solo Org', 'type' => 'Agency', 'parent_organization_title' => 'Missing Org' },
         body: 'A solo organization.'
       )
 
@@ -91,9 +91,9 @@ class OrganizationModelTest < Minitest::Test
       assert_nil record.events_ical_url
       assert_nil record.news_rss_url
       assert_nil record.phone
-      assert_nil record.topics
+      assert_nil record.topic_titles
       assert_nil record.parent_organization_title
-      assert_nil record.website
+      assert_nil record.website_url
     end
   end
 

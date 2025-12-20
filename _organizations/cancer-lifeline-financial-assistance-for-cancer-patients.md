@@ -6,11 +6,11 @@ events_ical_url: https://cancerlifeline.org/events/?ical=1
 news_rss_url: https://cancerlifeline.org/feed/
 phone: "(206) 832-1282"
 title: Cancer Lifeline Financial Assistance for Cancer Patients
-topics:
+topic_titles:
 - Financial Assistance
 - Health Care
 type: Community-Based Organization
-website: https://cancerlifeline.org/services/financial-assistance-for-cancer-patients/
+website_url: https://cancerlifeline.org/services/financial-assistance-for-cancer-patients/
 ---
 
 Cancer Lifeline provides financial assistance to low-income cancer patients in Western Washington to help cover basic needs and medical expenses during treatment. Eligible patients can receive funds for living expenses or unreimbursed medical costs.

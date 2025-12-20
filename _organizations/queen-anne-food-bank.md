@@ -3,14 +3,14 @@ acronym: QAFB
 address: 205 2nd Avenue N, Seattle, WA 98109
 email: QueenAnneFoodBank@ccsww.org
 news_rss_url: https://sacredheartseattle.org/newsRSS
-parent_organization: Catholic Community Services of Western Washington
+parent_organization_title: Catholic Community Services of Western Washington
 phone: 206-216-4102
 title: Queen Anne Food Bank at Sacred Heart
-topics:
+topic_titles:
 - Food & Nutrition
 - Personal & Household Needs
 type: Community-Based Organization
-website: https://sacredheartseattle.org/qafb
+website_url: https://sacredheartseattle.org/qafb
 ---
 
 Queen Anne Food Bank at Sacred Heart (QAFB) is a ministry of Sacred Heart of Jesus Parish that distributes healthy prepared meals and groceries for neighbors living in Lower Queen Anne and the surrounding downtown core. Staff and volunteers operate out of the parish campus across from Climate Pledge Arena, offering sandwiches, fruit, yogurt, bread, pastries, and hot soup Monday through Friday, 52 weeks a year.

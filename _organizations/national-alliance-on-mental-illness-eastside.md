@@ -1,10 +1,10 @@
 ---
 news_rss_url: https://nami-eastside.org/feed/
 title: National Alliance on Mental Illness Eastside
-topics:
+topic_titles:
 - Mental Health & Counseling
 type: Community-Based Organization
-website: https://nami-eastside.org/
+website_url: https://nami-eastside.org/
 ---
 
 NAMI Eastside supports individuals and families affected by mental illness by offering peer-led groups, education, advocacy, and resource connections. Its focus on behavioral health and family support strengthens its mission of serving across service domains, promoting organizational excellence, and adding a strong voice for Eastside human services.

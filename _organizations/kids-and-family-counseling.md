@@ -1,10 +1,10 @@
 ---
 title: Kids And Family Counseling
-topics:
+topic_titles:
 - Mental Health & Counseling
 - Disabilities
 type: Community-Based Organization
-website: https://www.kidsandfamilycounseling.com/
+website_url: https://www.kidsandfamilycounseling.com/
 ---
 
 Kids and Family Counseling offers compassionate mental health counseling, ABA therapy, and autism diagnostic services for individuals of all ages. Our approach emphasizes family involvement and personalized support, utilizing evidence-based strategies to empower clients and promote meaningful skill development.

@@ -2,7 +2,7 @@
 news_rss_url: https://yarrowpointwa.gov/feed/
 title: Town of Yarrow Point
 type: Town
-website: https://www.yarrowpointwa.gov/
+website_url: https://www.yarrowpointwa.gov/
 ---
 
 The town of Yarrow Point serves the community of **Yarrow Point**, Washington.

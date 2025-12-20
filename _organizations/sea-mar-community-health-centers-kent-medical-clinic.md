@@ -1,13 +1,13 @@
 ---
 address: 233 2nd Avenue S, Kent, WA 98032
-parent_organization: Sea Mar Community Health Centers
+parent_organization_title: Sea Mar Community Health Centers
 phone: 206.436.6380
 title: Sea Mar Community Health Centers - Kent Medical Clinic
-topics:
+topic_titles:
 - Health Care
 - Mental Health & Counseling
 type: Community-Based Organization
-website: https://www.seamar.org/king-medical-kent.html
+website_url: https://www.seamar.org/king-medical-kent.html
 ---
 
 Sea Mar Community Health Centers provides comprehensive health services, including physical exams, immunizations, chronic disease management, and referrals to specialty care. It serves diverse communities, ensuring access regardless of income or immigration status.

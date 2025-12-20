@@ -5,12 +5,12 @@ email: vita@pimsavvy.com
 news_rss_url: https://pimsavvy.com/feed/
 phone: 425-452-2800
 title: PIM Savvy
-topics:
+topic_titles:
 - Financial Assistance
 - Education & Learning
 - Employment & Job Support
 type: Community-Based Organization
-website: https://pimsavvy.com/bellevue/
+website_url: https://pimsavvy.com/bellevue/
 ---
 
 PIM Savvy offers free financial coaching, English conversation practice, and resume reviews at Bellevue Mini City Hall. They provide assistance with tax preparation and applications for various financial benefits, helping low- to moderate-income individuals in King and Snohomish counties.

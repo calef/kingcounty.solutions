@@ -1,13 +1,13 @@
 ---
 acronym: ACL
-parent_organization: Department of Social and Health Services
+parent_organization_title: Department of Social and Health Services
 title: Administration for Community Living
-topics:
+topic_titles:
 - Disabilities
 - Health Care
 - Senior Services
 type: Agency
-website: https://acl.gov/
+website_url: https://acl.gov/
 ---
 
 The **Administration for Community Living (ACL)** ensures older adults and people with disabilities can live independently. It focuses on:

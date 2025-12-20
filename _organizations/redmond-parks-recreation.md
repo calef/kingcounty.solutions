@@ -1,10 +1,10 @@
 ---
-parent_organization: City of Redmond
+parent_organization_title: City of Redmond
 title: Redmond Parks & Recreation
-topics:
+topic_titles:
 - Education & Learning
 type: Department
-website: https://www.redmond.gov/Parks
+website_url: https://www.redmond.gov/Parks
 ---
 
 Redmond Parks and Recreation builds community through parks, arts, recreation, and conservation. It offers innovative classes and services for all ages and abilities, integrating art and cultural experiences into community activities.

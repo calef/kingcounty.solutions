@@ -34,7 +34,7 @@ module Mayhem
       end
 
       def parent_organization_title
-        self['parent_organization']
+        self['parent_organization_title']
       end
 
       def parent_organization
@@ -55,16 +55,16 @@ module Mayhem
         self['title']
       end
 
-      def topics
-        self['topics']
+      def topic_titles
+        self['topic_titles']
       end
 
       def type
         self['type']
       end
 
-      def website
-        self['website']
+      def website_url
+        self['website_url']
       end
     end
   end

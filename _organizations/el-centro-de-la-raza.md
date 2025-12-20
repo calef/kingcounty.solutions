@@ -6,7 +6,7 @@ events_ical_url: https://www.elcentrodelaraza.org/events/?ical=1
 news_rss_url: https://www.elcentrodelaraza.org/feed/
 phone: 206-957-4634
 title: El Centro de la Raza
-topics:
+topic_titles:
 - Education & Learning
 - Employment & Job Support
 - Financial Assistance
@@ -14,7 +14,7 @@ topics:
 - Health Care
 - Shelter & Housing
 type: Community-Based Organization
-website: https://www.elcentrodelaraza.org/
+website_url: https://www.elcentrodelaraza.org/
 ---
 
 El Centro de la Raza (ECDLR) is a civil rights-rooted community anchor that now combines **43 programs** into nine service areas: Food and Health, Benefits and Resource Navigation, Workforce Development, Advocacy and Culture, Youth Services, Housing, Small Business Services, Child and Family Services, and Financial Empowerment. This structure allows multilingual families to find culturally specific support in one place.

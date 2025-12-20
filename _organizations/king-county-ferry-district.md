@@ -4,10 +4,10 @@ email: watertaxi.info@kingcounty.gov
 news_rss_url: https://kingcountywatertaxiblog.com/feed/
 phone: 206-477-3979
 title: King County Ferry District
-topics:
+topic_titles:
 - Transportation & Mobility
 type: Special Purpose District
-website: https://kingcountywatertaxiblog.com
+website_url: https://kingcountywatertaxiblog.com
 ---
 
 The **King County Ferry District** operates passenger ferries between Seattle, West Seattle, and Vashon Island. It provides **reliable marine transit** that connects neighborhoods and supports sustainable commuting options.
