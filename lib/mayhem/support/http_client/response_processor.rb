@@ -14,7 +14,7 @@ module Mayhem
           @logger = logger
         end
 
-        def check_status(response, uri, origin_url:, operation:)
+        def check_status?(response, uri, origin_url:, operation:)
           status_code = response.code.to_i
 
           raise_too_many_requests(response, uri, origin_url: origin_url, operation: operation) if status_code == 429
@@ -25,7 +25,7 @@ module Mayhem
           true
         end
 
-        def is_redirect?(response)
+        def redirect?(response)
           response.is_a?(Net::HTTPRedirection)
         end
 

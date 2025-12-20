@@ -30,7 +30,7 @@ module Mayhem
           uri = URI.parse(url)
           response = @transport.execute_get(uri, accept, operation: operation)
 
-          if @response_processor.is_redirect?(response)
+          if @response_processor.redirect?(response)
             return follow_redirect(
               response,
               uri,
@@ -42,7 +42,7 @@ module Mayhem
             )
           end
 
-          @response_processor.check_status(response, uri, origin_url: origin_url, operation: operation)
+          @response_processor.check_status?(response, uri, origin_url: origin_url, operation: operation)
 
           body = ResponseBodyReader.read(response, max_bytes)
 
@@ -78,11 +78,9 @@ module Mayhem
           status_code = response&.code&.to_i
 
           # Check for 429 before processing redirect
-          if status_code == 429
-            @response_processor.check_status(response, uri, origin_url: origin_url, operation: operation)
-          end
+          @response_processor.check_status?(response, uri, origin_url: origin_url, operation: operation) if status_code == 429
 
-          if @response_processor.is_redirect?(response)
+          if @response_processor.redirect?(response)
             raise 'Too many redirects' if remaining_redirects <= 0
 
             location = @response_processor.extract_redirect_location(response)
