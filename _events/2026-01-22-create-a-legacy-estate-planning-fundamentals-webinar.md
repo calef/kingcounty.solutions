@@ -27,8 +27,8 @@ images: []
 location: Virtual Event
 locations:
 - King County
+organization_title: United Way of King County
 published: false
-source: United Way of King County
 source_url: https://www.uwkc.org/event/create-a-legacy-estate-planning-fundamentals-webinar/
 start_date: '2026-01-22T12:00:00-08:00'
 summarized: true

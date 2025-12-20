@@ -32,8 +32,8 @@ images: []
 location: Gates Center (CSE2), G20 | Amazon Auditorium
 locations:
 - King County
+organization_title: University of Washington
 published: false
-source: University of Washington
 source_url: https://www.cs.washington.edu/news-events/event-details/?id=3378
 start_date: '2026-01-29T15:30:00-08:00'
 summarized: true

@@ -41,6 +41,7 @@ images: []
 location: El Centro de la Raza, 2524 16th Ave S, Seattle, WA, 98144, United States
 locations:
 - King County
+organization_title: El Centro de la Raza
 original_source_html: "<!doctype html><html lang=\"en-US\"><head><meta charset=\"UTF-8\"><meta
   name=\"viewport\" content=\"width=device-width, initial-scale=1\"><link rel=\"profile\"
   href=\"https://gmpg.org/xfn/11\"><link rel=\"preconnect\" href=\"https://fonts.googleapis.com\"><link
@@ -193,7 +194,6 @@ original_source_html: "<!doctype html><html lang=\"en-US\"><head><meta charset=\
   media='all' /><link rel='stylesheet' id='tribe-events-virtual-single-v2-full-css'
   href='https://www.elcentrodelaraza.org/wp-content/plugins/events-calendar-pro/build/css/tribe-events-virtual-single-v2-full.min.css?ver=7.7.11'
   media='all' /><link rel='stylesheet' id='tribe-events-v2-virtual-single-"
-source: El Centro de la Raza
 source_url: https://www.elcentrodelaraza.org/event/herramientas-digitales-digital-skills-for-life-2/2025-12-23/
 start_date: '2025-12-23T17:30:00-08:00'
 summarized: true

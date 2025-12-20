@@ -53,8 +53,8 @@ images: []
 location: ''
 locations:
 - King County
+organization_title: Dispute Resolution Center of King County
 published: false
-source: Dispute Resolution Center of King County
 source_url: https://kcdrc.org/event/kc-connect-online-workshop/2026-03-14/
 start_date: '2026-03-14T11:00:00-07:00'
 summarized: true

@@ -63,6 +63,7 @@ images: []
 location: ''
 locations:
 - King County
+organization_title: WorkSource Seattle-King County
 original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta charset=\"UTF-8\"
   />\n\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\n<meta
   name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'
@@ -251,7 +252,6 @@ original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta c
   width='38' height='38' viewBox='0 0 38 38' xmlns='http://www.w3.org/2000/svg' stroke='%23fff'%3E%3Cg
   fill='none' fill-rule='evenodd'%3E%3Cg transform='translate(1 1)' stroke-width='2'%3E%3Ccircle
   stroke-opacity='.5' cx='18' c"
-source: WorkSource Seattle-King County
 source_url: https://worksourceskc.org/event/in-person-workfirst-job-search-orientation-requires-dshs-referral-2241/
 start_date: '2025-12-24T11:00:00-08:00'
 summarized: true

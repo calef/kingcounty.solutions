@@ -7709,8 +7709,8 @@ images: []
 location: ''
 locations:
 - King County
+organization_title: NOSSCR Referral Service
 published: false
-source: NOSSCR Referral Service
 source_url: https://nosscr.org/event/a-judges-perspective-what-judges-really-need-from-your-briefs-and-arguments-3/
 start_date: '2025-12-19T09:00:00-05:00'
 summarized: true

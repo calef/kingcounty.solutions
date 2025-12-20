@@ -7605,6 +7605,7 @@ feed_content_checksum: e41977733008b525e69c1769ffcbaf21b8bebb21
 images: []
 location: ''
 locations: []
+organization_title: NOSSCR Referral Service
 original_source_html: "<!DOCTYPE html>\n<html class=\"avada-html-layout-wide avada-html-header-position-top\"
   lang=\"en-US\" prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#\" prefix=\"og:
   https://ogp.me/ns#\">\n<head>\n\t<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\"
@@ -7787,7 +7788,6 @@ original_source_html: "<!DOCTYPE html>\n<html class=\"avada-html-layout-wide ava
   position: sticky; top: var(--awb-sticky-offset,0); }}@media screen and (min-width:
   1025px){.fusion-no-large-visibility{display:none !important;}body .lg-text-align-cen"
 published: false
-source: NOSSCR Referral Service
 source_url: https://nosscr.org/event/eleventh-circuit-virtual-meeting/
 start_date: '2026-03-19T14:30:00-04:00'
 summarized: true

@@ -4,8 +4,8 @@ images: []
 location: ''
 locations:
 - King County
+organization_title: Friends of Youth
 published: false
-source: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/thank-you-for-supporting-celebration-of-youth-1
 start_date: '2026-06-26T00:00:00-07:00'
 summarized: true

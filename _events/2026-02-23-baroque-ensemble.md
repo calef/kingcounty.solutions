@@ -7,8 +7,8 @@ images: []
 location: Music Building (MUS)
 locations:
 - King County
+organization_title: University of Washington
 published: false
-source: University of Washington
 source_url: https://music.washington.edu/events/2026-02-23/baroque-ensemble
 start_date: '2026-02-23T19:30:00-08:00'
 summarized: true

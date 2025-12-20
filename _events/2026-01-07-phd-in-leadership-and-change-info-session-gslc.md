@@ -90,8 +90,8 @@ feed_content_checksum: 7b356ebf467615ea6ba568e844e7448ce4fea617
 images: []
 location: Virtual Events @ Antioch University
 locations: []
+organization_title: Antioch University
 published: false
-source: Antioch University
 source_url: https://www.antioch.edu/event/phd-in-leadership-and-change-info-session-gslc-1-7-26/
 start_date: '2026-01-07T19:00:00-05:00'
 summarized: true

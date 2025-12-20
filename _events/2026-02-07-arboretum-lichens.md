@@ -6,8 +6,8 @@ images: []
 location: Washington Park Arboretum
 locations:
 - King County
+organization_title: University of Washington
 published: false
-source: University of Washington
 source_url: https://apps.ideal-logic.com/uwbg?key=2WSB-TGY2T_K9KH-5PTF_9a781a534777
 start_date: '2026-02-07T10:00:00-08:00'
 summarized: true

@@ -229,8 +229,8 @@ images: []
 location: Zoom
 locations:
 - King County
+organization_title: University of Washington
 published: false
-source: University of Washington
 source_url: https://evans.uw.edu/
 start_date: '2026-01-14T14:30:00-08:00'
 summarized: true

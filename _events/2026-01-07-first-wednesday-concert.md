@@ -9,8 +9,8 @@ images: []
 location: Allen Library (ALB)
 locations:
 - King County
+organization_title: University of Washington
 published: false
-source: University of Washington
 source_url: https://music.washington.edu/page-not-found
 start_date: '2026-01-07T12:30:00-08:00'
 summarized: true

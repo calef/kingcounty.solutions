@@ -43,8 +43,8 @@ images: []
 location: ''
 locations:
 - King County
+organization_title: Bike Works
 published: false
-source: Bike Works
 source_url: https://bikeworks.org/event/all-bike-works-operations-closed/
 start_date: '2025-12-23T08:00:00-08:00'
 summarized: true

@@ -4,7 +4,7 @@ images: []
 location: ''
 locations:
 - King County
-source: King County School Health
+organization_title: King County School Health
 source_url: https://kingcountyschoolhealthdotcom.wordpress.com/2025/10/30/share-your-expertise-at-the-2026-national-school-based-health-care-conference-be-the-change-youth-training-program/
 start_date: '2026-10-30T09:00:00-07:00'
 summarized: true

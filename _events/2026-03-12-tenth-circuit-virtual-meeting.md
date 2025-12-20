@@ -7614,8 +7614,8 @@ feed_content_checksum: a084a9233b2d3ac9a4cfab62f2ddb3988f6cdef8
 images: []
 location: ''
 locations: []
+organization_title: NOSSCR Referral Service
 published: false
-source: NOSSCR Referral Service
 source_url: https://nosscr.org/event/tenth-circuit-virtual-meeting/
 start_date: '2026-03-12T14:30:00-04:00'
 summarized: true

@@ -528,8 +528,8 @@ images: []
 location: Denny Hall (DEN)
 locations:
 - King County
+organization_title: University of Washington
 published: false
-source: University of Washington
 source_url: https://sites.google.com/uw.edu/schoolofenvironmentalandforest/home
 start_date: '2026-02-04T12:00:00-08:00'
 summarized: true

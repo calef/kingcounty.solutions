@@ -7,6 +7,7 @@ images: []
 location: Eastside Executive Center - Foster School of Business
 locations:
 - Eastside
+organization_title: University of Washington
 original_source_html: "\r\n    <!DOCTYPE html><html lang=\"en-US\" dir=\"ltr\"><head><title>Foster
   Events</title><meta http-equiv=\"Content-Security-Policy\" content=\"default-src
   'self'; script-src 'self' 'unsafe-eval' 'unsafe-inline' https://service.force.com/embeddedservice/
@@ -194,7 +195,6 @@ original_source_html: "\r\n    <!DOCTYPE html><html lang=\"en-US\" dir=\"ltr\"><
   243, 243);--pymt-colorBackgroundInput:rgb(255, 255, 255);--pymt-sizeSmall:15rem;--pymt-userDefaultAvatar:url(../../../_slds/images/profile_avatar_200.png?cache=7bdcafae);--pymt-colorTextButtonInverse:rgb(243,
   243, 243);--pymt-colorBackgroundInputCheckboxDisabled:rgb"
 published: false
-source: University of Washington
 source_url: https://uwfoster.my.site.com/FosterEvents/s/events-public?eventId=a1wKf00001gMquU
 start_date: '2026-01-21T18:00:00-08:00'
 summarized: true

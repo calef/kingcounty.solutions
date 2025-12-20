@@ -67,7 +67,7 @@ images: []
 location: Tutta Bella Pizzeria, 715 NW Gilman Blvd, Issaquah, WA, 98027, United States
 locations:
 - King County
-source: KidVantage
+organization_title: KidVantage
 source_url: https://kidvantagenw.org/event/breakfast-with-santa/
 start_date: '2025-12-20T09:00:00-08:00'
 summarized: true

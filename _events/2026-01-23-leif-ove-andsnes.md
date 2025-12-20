@@ -123,8 +123,8 @@ images: []
 location: Meany Hall (MNY)
 locations:
 - King County
+organization_title: University of Washington
 published: false
-source: University of Washington
 source_url: https://meanycenter.org/tickets/2026-01/production/leif-ove-andsnes
 start_date: '2026-01-23T19:30:00-08:00'
 summarized: true

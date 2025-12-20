@@ -5,7 +5,7 @@ images: []
 location: American Legion Hall
 locations:
 - King County
-source: Westside Neighbors Shelter
+organization_title: Westside Neighbors Shelter
 source_url: https://westsideneighborsshelter.org/medical-team-to-visit-westside-neighbors-shelter/
 start_date: '2026-01-03T09:30:00-08:00'
 summarized: true

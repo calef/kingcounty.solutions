@@ -16,7 +16,7 @@ images: []
 location: ''
 locations:
 - King County
-source: University of Washington
+organization_title: University of Washington
 source_url: https://events.uw.edu/event/42b08237-3c74-4264-a573-7a6f8b086836/
 start_date: '2026-01-20T13:00:00-08:00'
 summarized: true

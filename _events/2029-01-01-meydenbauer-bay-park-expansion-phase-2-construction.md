@@ -4,8 +4,8 @@ images: []
 location: Meydenbauer Bay Park
 locations:
 - King County
+organization_title: City of Bellevue
 published: false
-source: City of Bellevue
 source_url: https://bellevuewa.gov/city-news/council-roundup-update-middle-housing-meydenbauer-bay-park-expansion
 start_date: '2029-01-01T00:00:00-08:00'
 summarized: true

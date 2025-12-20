@@ -4,8 +4,8 @@ images: []
 location: ''
 locations:
 - King County
+organization_title: Snoqualmie Indian Tribe
 published: false
-source: Snoqualmie Indian Tribe
 source_url: https://snoqualmietribe.us/snoqualmie-tribal-council-passes-motion-to-approve-resolution-345-2025-declaring-a-tribal-state-of-emergency-related-to-flooding/
 start_date: '2025-12-25T00:00:00-08:00'
 summarized: true

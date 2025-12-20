@@ -41,6 +41,7 @@ images: []
 location: Hybrid – Virtual/Onsite, United States
 locations:
 - King County
+organization_title: City of Tukwila
 original_source_html: "<section> <div> <div> <div> <section> <div> <div> <span> Event
   Series: </span> <a> <span> Finance &amp; Governance Committee </span> </a> </div>
   <h1>Finance &amp; Governance Committee – Cancelled</h1> <div> <h2> <span>December
@@ -78,7 +79,6 @@ original_source_html: "<section> <div> <div> <div> <section> <div> <div> <span> 
   <span>January 5, 2026 @ 7:00 pm</span> - <span>10:00 pm</span> </div> </li> </ul>
   </div> <p> <a> Back to events</a> </p> </div> </section> </div> </div> </div> </section>"
 published: false
-source: City of Tukwila
 source_url: https://www.tukwilawa.gov/event/finance-governance-committee-6-3/2025-12-22/
 start_date: '2025-12-22T17:30:00-08:00'
 summarized: true

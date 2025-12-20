@@ -38,7 +38,7 @@ images: []
 location: "[ONLINE] Virginia Mason Franciscan Health"
 locations:
 - King County
-source: Cancer Lifeline Financial Assistance for Cancer Patients
+organization_title: Cancer Lifeline Financial Assistance for Cancer Patients
 source_url: https://cancerlifeline.org/event/pancreatic-cancer-caregiver-support-group-finding-connection-sponsored-by-virginia-mason-franciscan-health/2025-12-19/
 start_date: '2025-12-19T14:00:00-08:00'
 summarized: true

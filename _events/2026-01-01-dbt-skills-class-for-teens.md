@@ -8,10 +8,10 @@ images: []
 location: ''
 locations:
 - King County
+organization_title: Friends of Youth
 original_source_html: A Dialectical Behavior Therapy (DBT) Skills Class for teens
   to help manage emotional regulation, relationship issues, impulsive behaviors, and
   intense mood swings.
-source: Friends of Youth
 source_url: https://www.friendsofyouth.org/post/now-enrolling-dbt-skills-class-for-teens-starting-january-2026
 start_date: '2026-01-01T00:00:00-08:00'
 summarized: true

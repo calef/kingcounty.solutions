@@ -34,8 +34,8 @@ images: []
 location: 'Bloodworks Donation Center, 660 SW 39TH ST #100, Renton'
 locations:
 - King County
+organization_title: City of Tukwila
 published: false
-source: City of Tukwila
 source_url: https://www.tukwilawa.gov/event/give-blood-to-save-3-lives-3/2025-12-21/
 start_date: '2025-12-21T08:00:00-08:00'
 summarized: true

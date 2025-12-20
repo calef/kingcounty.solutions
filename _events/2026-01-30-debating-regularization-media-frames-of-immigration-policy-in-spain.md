@@ -45,8 +45,8 @@ images: []
 location: Gowen Hall (GWN)
 locations:
 - King County
+organization_title: University of Washington
 published: false
-source: University of Washington
 source_url: https://sites.uw.edu/uwisc/current-seminars/
 start_date: '2026-01-30T13:30:00-08:00'
 summarized: true

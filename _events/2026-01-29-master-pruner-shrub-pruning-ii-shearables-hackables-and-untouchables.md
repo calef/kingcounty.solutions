@@ -6,8 +6,8 @@ images: []
 location: ''
 locations:
 - King County
+organization_title: University of Washington
 published: false
-source: University of Washington
 source_url: https://apps.ideal-logic.com/uwbg?key=2WSB-TGY2T_K9KH-5PTF_65c85d6ea678
 start_date: '2026-01-29T12:30:00-08:00'
 summarized: true

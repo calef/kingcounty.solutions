@@ -51,8 +51,8 @@ images: []
 location: ''
 locations:
 - King County
+organization_title: Indian American Community Services
 published: false
-source: Indian American Community Services
 source_url: https://iacswa.org/event/early-start-kent-50/
 start_date: '2025-12-30T12:00:00-08:00'
 summarized: true

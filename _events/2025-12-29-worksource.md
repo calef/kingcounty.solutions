@@ -31,6 +31,7 @@ location: Advocate Office @ Together Center, 16305 NE 87th S Suite 111, Redmond,
   98052, United States
 locations:
 - King County
+organization_title: Together Center
 original_source_html: "<!DOCTYPE html>\r\n<html lang=\"en-US\">\r\n<head>\r\n<meta
   charset=\"UTF-8\">\r\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\r\n<link
   rel=\"profile\" href=\"https://gmpg.org/xfn/11\">\r\n\r\n<link rel='stylesheet'
@@ -166,7 +167,6 @@ original_source_html: "<!DOCTYPE html>\r\n<html lang=\"en-US\">\r\n<head>\r\n<me
   > .wp-block-button__link:not(.has-text-color),div.wp-block-button.wp-block-button__link.is-style-outline:not(.has-text-color){color:#5dc1f7;}.wp-block-button.is-style-outline
   .wp-block-button__link:hover,.wp-block-buttons .wp-block-button.is-style-outline
   .wp-block-bu"
-source: Together Center
 source_url: https://togethercenter.org/event/worksource/2025-12-29/
 start_date: '2025-12-29T13:00:00-08:00'
 summarized: true

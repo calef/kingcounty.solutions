@@ -8,8 +8,8 @@ images: []
 location: Meany Hall (MNY)
 locations:
 - King County
+organization_title: University of Washington
 published: false
-source: University of Washington
 source_url: https://music.washington.edu/events/2026-03-03/chamber-singers-and-university-chorale-compassion-considering-matthew-shepard
 start_date: '2026-03-03T19:30:00-08:00'
 summarized: true

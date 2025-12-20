@@ -94,8 +94,8 @@ location: Centilia Cultural Center, 1660 S Plaza Roberto Maestas Festival Street
   Seattle, WA, 98144, United States
 locations:
 - King County
+organization_title: El Centro de la Raza
 published: false
-source: El Centro de la Raza
 source_url: https://www.elcentrodelaraza.org/event/community-air-quality-workshop/
 start_date: '2026-01-22T18:00:00-08:00'
 summarized: true

@@ -36,6 +36,7 @@ images: []
 location: ''
 locations:
 - King County
+organization_title: Dispute Resolution Center of King County
 original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta charset=\"UTF-8\"
   />\n<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n\t<link rel=\"pingback\"
   href=\"https://kcdrc.org/xmlrpc.php\" />\n\n\t<script type=\"text/javascript\">\n\t\tdocument.documentElement.className
@@ -198,7 +199,6 @@ original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta c
   > .aligncenter{margin-left: auto !important;margin-right: auto !important;}.is-layout-constrained
   > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}.is-layout-constrained
   > .alignr"
-source: Dispute Resolution Center of King County
 source_url: https://kcdrc.org/event/small-claims-program-training/
 start_date: '2026-03-18T09:00:00-07:00'
 summarized: true

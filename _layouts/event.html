@@ -55,7 +55,7 @@ layout: default
 {%- endcapture -%}
 {%- assign when_text = when_text | strip -%}
 {%- assign location_value = page.location -%}
-{%- assign source_text = page.source | default: page.source_url -%}
+{%- assign organization_text = page.organization_title | default: page.source_url -%}
 {%- assign calendar_timezone = site.timezone | default: "America/Los_Angeles" -%}
 {%- assign location_plain = location_value | to_s | strip -%}
 {%- assign location_has_address = false -%}
@@ -210,20 +210,20 @@ END:VCALENDAR
             </td>
           </tr>
         {% endif %}
-        {% if source_text %}
+        {% if organization_text %}
           <tr class="event-detail-meta-row">
             <th scope="row">Organization</th>
             <td>
               {% assign matching_org = nil %}
-              {% if page.source %}
-                {% assign matching_org = site.organizations | where: "title", page.source | first %}
+              {% if page.organization_title %}
+                {% assign matching_org = site.organizations | where: "title", page.organization_title | first %}
               {% endif %}
               {% if matching_org %}
-                <a href="{{ matching_org.url | relative_url }}" itemprop="organizer">{{ page.source }}</a>
+                <a href="{{ matching_org.url | relative_url }}" itemprop="organizer">{{ page.organization_title }}</a>
               {% elsif page.source_url %}
-                <a href="{{ page.source_url }}" rel="noopener noreferrer" itemprop="organizer">{{ source_text }}</a>
+                <a href="{{ page.source_url }}" rel="noopener noreferrer" itemprop="organizer">{{ organization_text }}</a>
               {% else %}
-                <span itemprop="organizer">{{ source_text }}</span>
+                <span itemprop="organizer">{{ organization_text }}</span>
               {% endif %}
             </td>
           </tr>

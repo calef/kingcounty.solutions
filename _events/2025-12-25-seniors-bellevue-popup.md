@@ -59,7 +59,7 @@ location: North Bellevue Community Center, 4063 148th Ave NE, Bellevue, WA, Unit
   States
 locations:
 - Bellevue
-source: Indian American Community Services
+organization_title: Indian American Community Services
 source_url: https://iacswa.org/event/seniors-bellevue-popup-102/
 start_date: '2025-12-25T10:00:00-08:00'
 summarized: true
