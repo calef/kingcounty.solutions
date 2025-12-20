@@ -12,7 +12,7 @@ module Mayhem
               next if body.bytesize >= max_bytes
 
               needed = max_bytes - body.bytesize
-              body << chunk.byteslice(0, needed)
+              body << chunk.byteslice(0, [needed, chunk.bytesize].min) if needed.positive?
             else
               body << chunk
             end
