@@ -2,7 +2,12 @@
 
 set -euo pipefail
 
-./script/ensure-bundler
+SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
+. "$SCRIPT_DIR/env"
+
+"$ROOT/script/ensure-bundler"
+bundle config set --local path "$BUNDLE_PATH"
+bundle config set --local disable_shared_gems true
 
 # Ensure development tools like rubocop are installed even if a user previously
 # excluded them via `bundle config set without`.
