@@ -38,6 +38,8 @@ module Mayhem
       end
 
       def parent_organization
+        return nil if parent_organization_title.nil? || parent_organization_title.empty?
+
         self.class.find_by(title: parent_organization_title)
       end
 
