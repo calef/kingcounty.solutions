@@ -3,13 +3,12 @@
 require 'net/http'
 require 'openssl'
 require 'uri'
-require_relative 'response_body_reader'
 
 module Mayhem
   module Support
     class HttpClient
-      # Handles HTTP request building and execution
-      class Request
+      # Handles raw HTTP transport operations (connections, request execution)
+      class HttpTransport
         def initialize(user_agent:, open_timeout:, read_timeout:, allow_insecure_fallback:, logger:, operation_delay_manager:)
           @user_agent = user_agent
           @open_timeout = open_timeout
@@ -19,32 +18,30 @@ module Mayhem
           @operation_delay_manager = operation_delay_manager
         end
 
-        def execute_get(uri, accept, max_bytes, operation: nil)
+        def execute_get(uri, accept, operation: nil)
           @operation_delay_manager.apply_delay(operation, uri)
-          perform_http_request(uri, accept, max_bytes, OpenSSL::SSL::VERIFY_PEER)
+          perform_http_request(uri, accept, OpenSSL::SSL::VERIFY_PEER)
         rescue OpenSSL::SSL::SSLError => e
-          retry_without_verification(uri, accept, max_bytes, e, operation: operation)
+          retry_without_verification(uri, accept, e)
         end
 
         def execute_head(uri, operation: nil)
           @operation_delay_manager.apply_delay(operation, uri)
           perform_http_head(uri, OpenSSL::SSL::VERIFY_PEER)
         rescue OpenSSL::SSL::SSLError => e
-          retry_without_verification_head(uri, e, operation: operation)
+          retry_without_verification_head(uri, e)
         end
 
         private
 
-        def perform_http_request(uri, accept, max_bytes, verify_mode)
+        def perform_http_request(uri, accept, verify_mode)
           http = build_http_connection(uri, verify_mode)
           response = nil
-          body = nil
           http.start do |connection|
             request = build_request(uri, accept)
-            response = connection.request(request) { |res| body = ResponseBodyReader.read(res, max_bytes) }
+            response = connection.request(request)
           end
-
-          [response, body]
+          response
         end
 
         def perform_http_head(uri, verify_mode)
@@ -91,11 +88,11 @@ module Mayhem
           end
         end
 
-        def retry_without_verification(uri, accept, max_bytes, error)
+        def retry_without_verification(uri, accept, error)
           return handle_terminal_ssl_error(uri, error) unless @allow_insecure_fallback
 
           @logger.warn "SSL error (#{error.message}), retrying without verification for #{uri}"
-          perform_http_request(uri, accept, max_bytes, OpenSSL::SSL::VERIFY_NONE)
+          perform_http_request(uri, accept, OpenSSL::SSL::VERIFY_NONE)
         end
 
         def retry_without_verification_head(uri, error)

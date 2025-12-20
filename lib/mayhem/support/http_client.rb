@@ -9,8 +9,9 @@ require 'open-uri'
 require 'mayhem/logging'
 require_relative 'env_utils'
 require_relative 'http_client/response_body_reader'
-require_relative 'http_client/request'
-require_relative 'http_client/response'
+require_relative 'http_client/http_transport'
+require_relative 'http_client/response_processor'
+require_relative 'http_client/request_flow'
 require_relative 'http_client/operation_delay_manager'
 
 module Mayhem
@@ -92,7 +93,7 @@ module Mayhem
         @too_many_requests_delay = too_many_requests_delay
 
         @operation_delay_manager = OperationDelayManager.new(host_operation_delays: host_operation_delays)
-        @request = Request.new(
+        @transport = HttpTransport.new(
           user_agent: @user_agent,
           open_timeout: @open_timeout,
           read_timeout: @read_timeout,
@@ -100,10 +101,14 @@ module Mayhem
           logger: @logger,
           operation_delay_manager: @operation_delay_manager
         )
-        @response = Response.new(
-          request: @request,
-          max_redirects: @max_redirects,
+        @response_processor = ResponseProcessor.new(
           too_many_requests_delay: @too_many_requests_delay,
+          logger: @logger
+        )
+        @request_flow = RequestFlow.new(
+          transport: @transport,
+          response_processor: @response_processor,
+          max_redirects: @max_redirects,
           logger: @logger
         )
       end
@@ -112,7 +117,7 @@ module Mayhem
         attempt = 0
         begin
           attempt += 1
-          _response, payload = @response.fetch_with_redirects(
+          _response, payload = @request_flow.fetch_with_redirects(
             url,
             accept,
             max_bytes,
@@ -146,7 +151,7 @@ module Mayhem
         begin
           attempt += 1
           uri = URI.parse(url)
-          result = @response.resolve_head_redirects(uri, origin_url: url, operation: 'canonical_head')
+          result = @request_flow.resolve_head_redirects(uri, origin_url: url, operation: 'canonical_head')
           return unless result
 
           status = result[:status]
@@ -184,7 +189,7 @@ module Mayhem
         attempt = 0
         begin
           attempt += 1
-          response, payload = @response.fetch_with_redirects(
+          response, payload = @request_flow.fetch_with_redirects(
             url,
             accept,
             max_bytes,
