@@ -2,7 +2,7 @@
 email: sponsorships@inatai.org
 news_rss_url: https://inatai.org/feed/
 title: Inatai Foundation
-topics:
+topic_titles:
 - Disabilities
 - Domestic Violence
 - Education & Learning
@@ -17,7 +17,7 @@ topics:
 - Shelter & Housing
 - Transportation & Mobility
 type: Community-Based Organization
-website: https://inatai.org
+website_url: https://inatai.org
 ---
 
 Inatai Foundation is a multiracial grantmaking organization dedicated to advancing racial justice and equity across Washington. We support community-rooted organizations and leaders through grantmaking, advocacy, and relationship building, empowering them to reshape their communities.

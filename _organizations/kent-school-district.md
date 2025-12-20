@@ -1,11 +1,11 @@
 ---
 acronym: KSD
-parent_organization: Puget Sound Educational Service District 121
+parent_organization_title: Puget Sound Educational Service District 121
 title: Kent School District
-topics:
+topic_titles:
 - Education & Learning
 type: School District
-website: https://www.kent.k12.wa.us
+website_url: https://www.kent.k12.wa.us
 ---
 
 Kent School District is a school district located in Kent, Washington. It serves a diverse student population and is committed to providing quality education and support services to its students and families.

@@ -1,13 +1,13 @@
 ---
 end_date: '2025-12-25T08:30:00-08:00'
 feed_content: '<div> <div> <section> <title>WorkSource Seattle-King County</title>
-  <script>{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.worksourceskc.org/event/holiday-office-closed-1571/","url":"https://www.worksourceskc.org/event/holiday-office-closed-1571/","name":"holiday
-  - office closed - WorkSource Seattle-King County","isPartOf":{"@id":"https://www.worksourceskc.org/#website"},"datePublished":"2025-11-26T05:10:02+00:00","breadcrumb":{"@id":"https://www.worksourceskc.org/event/holiday-office-closed-1571/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://www.worksourceskc.org/event/holiday-office-closed-1571/"]}]},{"@type":"BreadcrumbList","@id":"https://www.worksourceskc.org/event/holiday-office-closed-1571/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"holiday
+  <script>{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://worksourceskc.org/event/holiday-office-closed-1572/","url":"https://worksourceskc.org/event/holiday-office-closed-1572/","name":"holiday
+  - office closed - WorkSource Seattle-King County","isPartOf":{"@id":"https://www.worksourceskc.org/#website"},"datePublished":"2025-11-26T05:10:11+00:00","dateModified":"2025-12-20T20:34:08+00:00","breadcrumb":{"@id":"https://worksourceskc.org/event/holiday-office-closed-1572/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://worksourceskc.org/event/holiday-office-closed-1572/"]}]},{"@type":"BreadcrumbList","@id":"https://worksourceskc.org/event/holiday-office-closed-1572/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"holiday
   &#8211; office closed"}]},{"@type":"WebSite","@id":"https://www.worksourceskc.org/#website","url":"https://www.worksourceskc.org/","name":"WorkSource
   Seattle-King County","description":"Let&#039;s find your path together!","publisher":{"@id":"https://www.worksourceskc.org/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.worksourceskc.org/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://www.worksourceskc.org/#organization","name":"WorkSource
   Seattle-King County","url":"https://www.worksourceskc.org/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.worksourceskc.org/#/schema/logo/image/","url":"","contentUrl":"","caption":"WorkSource
   Seattle-King County"},"image":{"@id":"https://www.worksourceskc.org/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/worksourceskc/"]},{"@type":"Event","name":"holiday
-  &#8211; office closed","description":"","url":"https://worksourceskc.org/event/holiday-office-closed-1571/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2025-12-25T08:15:00-08:00","endDate":"2025-12-25T08:30:00-08:00","@id":"https://worksourceskc.org/event/holiday-office-closed-1571/#event","mainEntityOfPage":{"@id":"https://www.worksourceskc.org/event/holiday-office-closed-1571/"}}]}</script>
+  &#8211; office closed","description":"","url":"https://worksourceskc.org/event/holiday-office-closed-1572/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2025-12-25T08:15:00-08:00","endDate":"2025-12-25T08:30:00-08:00","@id":"https://worksourceskc.org/event/holiday-office-closed-1572/#event","mainEntityOfPage":{"@id":"https://worksourceskc.org/event/holiday-office-closed-1572/"}}]}</script>
   <title>holiday – office closed – WorkSource Seattle-King County</title> <a>Skip
   to main content</a> <header> <div> <div> <div> <div> <div> <ul> <li><a>Job Board</a></li>
   </ul> <ul> <li> <a>Staff Log-In</a> </li> </ul> </div> </div> <div> <ul> <li> <a>Job
@@ -31,11 +31,12 @@ feed_content: '<div> <div> <section> <title>WorkSource Seattle-King County</titl
   Language: </strong>English</p> <p><strong>Additional Info:</strong></p> <p>Please
   go to <a>WorkSourceWA.com</a> and create your account prior to attending this workshop.</p>
   </div> </div> </div> </section> </div> </section> </div> </div>'
-feed_content_checksum: 0f2bd2b0ddb47fa41607727d5b6626eaeb1c1495
+feed_content_checksum: 680b8b9e029e1f75d632723d774fe2841764251d
 images: []
 location: ''
 locations:
 - King County
+locked: true
 organization_title: WorkSource Seattle-King County
 original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta charset=\"UTF-8\"
   />\n\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\n<meta
@@ -43,33 +44,34 @@ original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta c
   />\n\t<style>img:is([sizes=\"auto\" i], [sizes^=\"auto,\" i]) { contain-intrinsic-size:
   3000px 1500px }</style>\n\t\n\t<!-- This site is optimized with the Yoast SEO plugin
   v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n\t<link rel=\"canonical\"
-  href=\"https://www.worksourceskc.org/event/holiday-office-closed-1571/\" />\n\t<meta
+  href=\"https://worksourceskc.org/event/holiday-office-closed-1572/\" />\n\t<meta
   property=\"og:locale\" content=\"en_US\" />\n\t<meta property=\"og:type\" content=\"article\"
   />\n\t<meta property=\"og:title\" content=\"holiday - office closed - WorkSource
-  Seattle-King County\" />\n\t<meta property=\"og:url\" content=\"https://www.worksourceskc.org/event/holiday-office-closed-1571/\"
+  Seattle-King County\" />\n\t<meta property=\"og:url\" content=\"https://worksourceskc.org/event/holiday-office-closed-1572/\"
   />\n\t<meta property=\"og:site_name\" content=\"WorkSource Seattle-King County\"
   />\n\t<meta property=\"article:publisher\" content=\"https://www.facebook.com/worksourceskc/\"
+  />\n\t<meta property=\"article:modified_time\" content=\"2025-12-20T20:34:08+00:00\"
   />\n\t<meta name=\"twitter:card\" content=\"summary_large_image\" />\n\t<script
-  type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://www.worksourceskc.org/event/holiday-office-closed-1571/\",\"url\":\"https://www.worksourceskc.org/event/holiday-office-closed-1571/\",\"name\":\"holiday
-  - office closed - WorkSource Seattle-King County\",\"isPartOf\":{\"@id\":\"https://www.worksourceskc.org/#website\"},\"datePublished\":\"2025-11-26T05:10:02+00:00\",\"breadcrumb\":{\"@id\":\"https://www.worksourceskc.org/event/holiday-office-closed-1571/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://www.worksourceskc.org/event/holiday-office-closed-1571/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://www.worksourceskc.org/event/holiday-office-closed-1571/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.worksourceskc.org/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Events\",\"item\":\"https://www.worksourceskc.org/events_list/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"holiday
+  type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://worksourceskc.org/event/holiday-office-closed-1572/\",\"url\":\"https://worksourceskc.org/event/holiday-office-closed-1572/\",\"name\":\"holiday
+  - office closed - WorkSource Seattle-King County\",\"isPartOf\":{\"@id\":\"https://www.worksourceskc.org/#website\"},\"datePublished\":\"2025-11-26T05:10:11+00:00\",\"dateModified\":\"2025-12-20T20:34:08+00:00\",\"breadcrumb\":{\"@id\":\"https://worksourceskc.org/event/holiday-office-closed-1572/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://worksourceskc.org/event/holiday-office-closed-1572/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://worksourceskc.org/event/holiday-office-closed-1572/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.worksourceskc.org/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Events\",\"item\":\"https://worksourceskc.org/events_list/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"holiday
   &#8211; office closed\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://www.worksourceskc.org/#website\",\"url\":\"https://www.worksourceskc.org/\",\"name\":\"WorkSource
   Seattle-King County\",\"description\":\"Let&#039;s find your path together!\",\"publisher\":{\"@id\":\"https://www.worksourceskc.org/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://www.worksourceskc.org/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https://www.worksourceskc.org/#organization\",\"name\":\"WorkSource
   Seattle-King County\",\"url\":\"https://www.worksourceskc.org/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://www.worksourceskc.org/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"WorkSource
   Seattle-King County\"},\"image\":{\"@id\":\"https://www.worksourceskc.org/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/worksourceskc/\"]},{\"@type\":\"Event\",\"name\":\"holiday
-  &#8211; office closed\",\"description\":\"\",\"url\":\"https://www.worksourceskc.org/event/holiday-office-closed-1571/\",\"eventAttendanceMode\":\"https://schema.org/OfflineEventAttendanceMode\",\"eventStatus\":\"https://schema.org/EventScheduled\",\"startDate\":\"2025-12-25T08:15:00-08:00\",\"endDate\":\"2025-12-25T08:30:00-08:00\",\"@id\":\"https://www.worksourceskc.org/event/holiday-office-closed-1571/#event\",\"mainEntityOfPage\":{\"@id\":\"https://www.worksourceskc.org/event/holiday-office-closed-1571/\"}}]}</script>\n\t<!--
+  &#8211; office closed\",\"description\":\"\",\"url\":\"https://worksourceskc.org/event/holiday-office-closed-1572/\",\"eventAttendanceMode\":\"https://schema.org/OfflineEventAttendanceMode\",\"eventStatus\":\"https://schema.org/EventScheduled\",\"startDate\":\"2025-12-25T08:15:00-08:00\",\"endDate\":\"2025-12-25T08:30:00-08:00\",\"@id\":\"https://worksourceskc.org/event/holiday-office-closed-1572/#event\",\"mainEntityOfPage\":{\"@id\":\"https://worksourceskc.org/event/holiday-office-closed-1572/\"}}]}</script>\n\t<!--
   / Yoast SEO plugin. -->\n\n\n<title>holiday - office closed - WorkSource Seattle-King
-  County</title>\n<link rel='dns-prefetch' href='//www.worksourceskc.org' />\n<link
-  rel='dns-prefetch' href='//connect.facebook.net' />\n<link rel='dns-prefetch' href='//static.addtoany.com'
+  County</title>\n<link rel='dns-prefetch' href='//worksourceskc.org' />\n<link rel='dns-prefetch'
+  href='//connect.facebook.net' />\n<link rel='dns-prefetch' href='//static.addtoany.com'
   />\n<link rel='dns-prefetch' href='//ajax.googleapis.com' />\n<link rel='dns-prefetch'
   href='//maps.googleapis.com' />\n<link rel='dns-prefetch' href='//www.googletagmanager.com'
   />\n<link rel='dns-prefetch' href='//www.google.com' />\n<link rel=\"alternate\"
   type=\"application/rss+xml\" title=\"WorkSource Seattle-King County &raquo; Feed\"
-  href=\"https://www.worksourceskc.org/feed/\" />\n<link rel=\"alternate\" type=\"application/rss+xml\"
-  title=\"WorkSource Seattle-King County &raquo; Comments Feed\" href=\"https://www.worksourceskc.org/comments/feed/\"
+  href=\"https://worksourceskc.org/feed/\" />\n<link rel=\"alternate\" type=\"application/rss+xml\"
+  title=\"WorkSource Seattle-King County &raquo; Comments Feed\" href=\"https://worksourceskc.org/comments/feed/\"
   />\n<link rel=\"alternate\" type=\"text/calendar\" title=\"WorkSource Seattle-King
-  County &raquo; iCal Feed\" href=\"https://www.worksourceskc.org/events_list/?ical=1\"
+  County &raquo; iCal Feed\" href=\"https://worksourceskc.org/events_list/?ical=1\"
   />\n<link rel=\"alternate\" type=\"application/rss+xml\" title=\"WorkSource Seattle-King
-  County &raquo; holiday &#8211; office closed Comments Feed\" href=\"https://www.worksourceskc.org/event/holiday-office-closed-1571/feed/\"
+  County &raquo; holiday &#8211; office closed Comments Feed\" href=\"https://worksourceskc.org/event/holiday-office-closed-1572/feed/\"
   />\n\t\t<!-- This site uses the Google Analytics by MonsterInsights plugin v8.7.0
   - Using Analytics tracking - https://www.monsterinsights.com/ -->\n\t\t\t\t\t\t\t<script
   src=\"//www.googletagmanager.com/gtag/js?id=G-LT415XR2H3\"  data-cfasync=\"false\"
@@ -157,31 +159,31 @@ original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta c
   null;\n\t\t\t\t\t\t\t}\n\t\t\t\t\t\t\twindow['__gtagTracker'] = __gtagTracker;\n\t\t\t\t\t\t\twindow['gtag']
   = __gtagTracker;\n\t\t\t\t\t} )();\n\t\t\t\t\t\t\t\t\t}\n\t\t\t</script>\n\t\t\t\t<!--
   / Google Analytics by MonsterInsights -->\n\t\t<link rel='stylesheet' id='advgb_blocks_styles-css'
-  href='https://www.worksourceskc.org/wp-content/plugins/advanced-gutenberg-pro/lib/vendor/publishpress/publishpress-blocks/assets/css/blocks.css?ver=3.2.0'
-  media='all' />\n<link rel='stylesheet' id='advgb_blocks_styles_pro-css' href='https://www.worksourceskc.org/wp-content/plugins/advanced-gutenberg-pro/assets/css/blocks-pro.css?ver=3.2.0'
+  href='https://worksourceskc.org/wp-content/plugins/advanced-gutenberg-pro/lib/vendor/publishpress/publishpress-blocks/assets/css/blocks.css?ver=3.2.0'
+  media='all' />\n<link rel='stylesheet' id='advgb_blocks_styles_pro-css' href='https://worksourceskc.org/wp-content/plugins/advanced-gutenberg-pro/assets/css/blocks-pro.css?ver=3.2.0'
   media='all' />\n<style id='wp-block-site-title-inline-css'>\n.wp-block-site-title{box-sizing:border-box}.wp-block-site-title
   :where(a){color:inherit;font-family:inherit;font-size:inherit;font-style:inherit;font-weight:inherit;letter-spacing:inherit;line-height:inherit;text-decoration:inherit}\n</style>\n<style
   id='wp-block-paragraph-inline-css'>\n.is-small-text{font-size:.875em}.is-regular-text{font-size:1em}.is-large-text{font-size:2.25em}.is-larger-text{font-size:3em}.has-drop-cap:not(:focus):first-letter{float:left;font-size:8.4em;font-style:normal;font-weight:100;line-height:.68;margin:.05em
   .1em 0 0;text-transform:uppercase}body.rtl .has-drop-cap:not(:focus):first-letter{float:none;margin-left:.1em}p.has-drop-cap.has-background{overflow:hidden}:root
   :where(p.has-background){padding:1.25em 2.375em}:where(p.has-text-color:not(.has-link-color))
   a{color:inherit}p.has-text-align-left[style*=\"writing-mode:vertical-lr\"],p.has-text-align-right[style*=\"writing-mode:vertical-rl\"]{rotate:180deg}\n</style>\n<link
-  rel=\"https://api.w.org/\" href=\"https://www.worksourceskc.org/wp-json/\" /><link
-  rel=\"alternate\" title=\"JSON\" type=\"application/json\" href=\"https://www.worksourceskc.org/wp-json/wp/v2/tribe_events/362980\"
-  /><link rel=\"EditURI\" type=\"application/rsd+xml\" title=\"RSD\" href=\"https://www.worksourceskc.org/xmlrpc.php?rsd\"
-  />\n<link rel='shortlink' href='https://www.worksourceskc.org/?p=362980' />\n<link
-  rel=\"alternate\" title=\"oEmbed (JSON)\" type=\"application/json+oembed\" href=\"https://www.worksourceskc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.worksourceskc.org%2Fevent%2Fholiday-office-closed-1571%2F\"
-  />\n<link rel=\"alternate\" title=\"oEmbed (XML)\" type=\"text/xml+oembed\" href=\"https://www.worksourceskc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.worksourceskc.org%2Fevent%2Fholiday-office-closed-1571%2F&#038;format=xml\"
+  rel=\"https://api.w.org/\" href=\"https://worksourceskc.org/wp-json/\" /><link rel=\"alternate\"
+  title=\"JSON\" type=\"application/json\" href=\"https://worksourceskc.org/wp-json/wp/v2/tribe_events/362982\"
+  /><link rel=\"EditURI\" type=\"application/rsd+xml\" title=\"RSD\" href=\"https://worksourceskc.org/xmlrpc.php?rsd\"
+  />\n<link rel='shortlink' href='https://worksourceskc.org/?p=362982' />\n<link rel=\"alternate\"
+  title=\"oEmbed (JSON)\" type=\"application/json+oembed\" href=\"https://worksourceskc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fworksourceskc.org%2Fevent%2Fholiday-office-closed-1572%2F\"
+  />\n<link rel=\"alternate\" title=\"oEmbed (XML)\" type=\"text/xml+oembed\" href=\"https://worksourceskc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fworksourceskc.org%2Fevent%2Fholiday-office-closed-1572%2F&#038;format=xml\"
   />\n<script type=\"text/javascript\" src=\"https://www.bugherd.com/sidebarv2.js?apikey=kzhpjsbdgxin5llwmvzeeg\"
   async=\"true\"></script><!-- Custom Facebook Feed JS vars -->\n<script type=\"text/javascript\">\nvar
-  cffsiteurl = \"https://www.worksourceskc.org/wp-content/plugins\";\nvar cffajaxurl
-  = \"https://www.worksourceskc.org/wp-admin/admin-ajax.php\";\n\n\nvar cfflinkhashtags
+  cffsiteurl = \"https://worksourceskc.org/wp-content/plugins\";\nvar cffajaxurl =
+  \"https://worksourceskc.org/wp-admin/admin-ajax.php\";\n\n\nvar cfflinkhashtags
   = \"false\";\n</script>\n<meta name=\"generator\" content=\"Site Kit by Google 1.153.0\"
-  /><meta name=\"tec-api-version\" content=\"v1\"><meta name=\"tec-api-origin\" content=\"https://www.worksourceskc.org\"><link
-  rel=\"alternate\" href=\"https://www.worksourceskc.org/wp-json/tribe/events/v1/events/362980\"
-  /><script type=\"importmap\" id=\"wp-importmap\">\n{\"imports\":{\"@wordpress\\/interactivity\":\"https:\\/\\/www.worksourceskc.org\\/wp-includes\\/js\\/dist\\/script-modules\\/interactivity\\/index.min.js?ver=55aebb6e0a16726baffb\"}}\n</script>\n<script
-  type=\"module\" src=\"https://www.worksourceskc.org/wp-includes/js/dist/script-modules/block-library/navigation/view.min.js?ver=61572d447d60c0aa5240\"
+  /><meta name=\"tec-api-version\" content=\"v1\"><meta name=\"tec-api-origin\" content=\"https://worksourceskc.org\"><link
+  rel=\"alternate\" href=\"https://worksourceskc.org/wp-json/tribe/events/v1/events/362982\"
+  /><script type=\"importmap\" id=\"wp-importmap\">\n{\"imports\":{\"@wordpress\\/interactivity\":\"https:\\/\\/worksourceskc.org\\/wp-includes\\/js\\/dist\\/script-modules\\/interactivity\\/index.min.js?ver=55aebb6e0a16726baffb\"}}\n</script>\n<script
+  type=\"module\" src=\"https://worksourceskc.org/wp-includes/js/dist/script-modules/block-library/navigation/view.min.js?ver=61572d447d60c0aa5240\"
   id=\"@wordpress/block-library/navigation/view-js-module\"></script>\n<link rel=\"modulepreload\"
-  href=\"https://www.worksourceskc.org/wp-includes/js/dist/script-modules/interactivity/index.min.js?ver=55aebb6e0a16726baffb\"
+  href=\"https://worksourceskc.org/wp-includes/js/dist/script-modules/interactivity/index.min.js?ver=55aebb6e0a16726baffb\"
   id=\"@wordpress/interactivity-js-modulepreload\"><meta name=\"google-site-verification\"
   content=\"T-otGnXdjJCQ09FHnnweUS5zrAEEa446c8duCq6zzQ8\"><style type=\"text/css\">.blue-message
   {\nbackground: none repeat scroll 0 0 #3399ff;\n    color: #ffffff;\n    text-shadow:
@@ -202,10 +204,10 @@ original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta c
   10px;\n    margin: 10px;\n    float: right;\n} \n.blockquotes {\nbackground: none;\n
   \   border-left: 5px solid #f1f1f1;\n    color: #8B8E97;\n    font-size: 16px;\n
   \   font-style: italic;\n    line-height: 22px;\n    padding-left: 15px;\n    padding:
-  10px;\n    width: 60%;\n    float: left;\n} \n</style><link rel=\"icon\" href=\"https://www.worksourceskc.org/wp-content/uploads/2024/09/cropped-android-chrome-512x512-36x36.png\"
-  sizes=\"32x32\" />\n<link rel=\"icon\" href=\"https://www.worksourceskc.org/wp-content/uploads/2024/09/cropped-android-chrome-512x512-300x300.png\"
-  sizes=\"192x192\" />\n<link rel=\"apple-touch-icon\" href=\"https://www.worksourceskc.org/wp-content/uploads/2024/09/cropped-android-chrome-512x512-300x300.png\"
-  />\n<meta name=\"msapplication-TileImage\" content=\"https://www.worksourceskc.org/wp-content/uploads/2024/09/cropped-android-chrome-512x512-300x300.png\"
+  10px;\n    width: 60%;\n    float: left;\n} \n</style><link rel=\"icon\" href=\"https://worksourceskc.org/wp-content/uploads/2024/09/cropped-android-chrome-512x512-36x36.png\"
+  sizes=\"32x32\" />\n<link rel=\"icon\" href=\"https://worksourceskc.org/wp-content/uploads/2024/09/cropped-android-chrome-512x512-300x300.png\"
+  sizes=\"192x192\" />\n<link rel=\"apple-touch-icon\" href=\"https://worksourceskc.org/wp-content/uploads/2024/09/cropped-android-chrome-512x512-300x300.png\"
+  />\n<meta name=\"msapplication-TileImage\" content=\"https://worksourceskc.org/wp-content/uploads/2024/09/cropped-android-chrome-512x512-300x300.png\"
   />\n<style id='asp-basic'>.asp_r .item{.price{--regular-price-color:#666;--sale_price_color:#666;color:var(--regular-price-color);del{opacity:.5;display:inline-block;text-decoration:line-through;color:var(--regular-price-color)}ins{margin-left:.5em;text-decoration:none;font-weight:700;display:inline-block;color:var(--sale_price_color)}}.stock{.quantity{color:#666}.out-of-stock{color:#a00}.on-backorder{color:#eaa600}.in-stock{color:#7ad03a}}.add-to-cart-container{display:flex;flex-wrap:wrap;align-items:center;position:relative;z-index:10;width:100%;margin:12px
   0;.add-to-cart-quantity{padding:8px 0 8px 8px;background:#eaeaea;width:32px;border-radius:4px
   0 0 4px;height:18px;min-height:unset;display:inline-block;font-size:13px;line-height:normal}.add-to-cart-button{padding:8px;border-radius:4px;background:#6246d7;color:white;height:18px;min-height:unset;display:block;text-align:center;min-width:90px;font-size:13px;line-height:normal;&.add-to-cart-variable{border-radius:4px}&.loading{content:url(\"data:image/svg+xml,%3Csvg
@@ -220,8 +222,8 @@ original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta c
   0.2s;&:hover{opacity:0.7}}}.average-rating{--percent:0;--color:#2EA3F2;--bg-color:rgba(0,0,0,0.2);--size:17px;position:relative;appearance:none;width:auto;display:inline-block;vertical-align:baseline;font-size:var(--size);line-height:calc(var(--size)
   - 15%);color:var(--bg-color);background:linear-gradient(90deg,var(--color) var(--percent),var(--bg-color)
   var(--percent));-webkit-background-clip:text;-webkit-text-fill-color:transparent}}@keyframes
-  aspAnFadeIn{0%{opacity:0}50%{opacity:0.6}100%{opacity:1}}@-webkit-keyframes aspAnFadeIn{0%{op"
-source_url: https://www.worksourceskc.org/event/holiday-office-closed-1571/
+  aspAnFadeIn{0%{opacity:0}50%{opacity:0.6}100%{opacity:1}}@-webkit-keyframes aspAnFadeIn{0%{opacity:0}50%{opacity:0.6}10"
+source_url: https://worksourceskc.org/event/holiday-office-closed-1572/
 start_date: '2025-12-25T08:15:00-08:00'
 summarized: true
 title: holiday - office closed
@@ -229,4 +231,4 @@ topics:
 - Employment & Job Support
 ---
 
-WorkSource Seattle-King County will be closed for the holiday on Dec. 25, 2025. This closure allows staff to observe the holiday with family and friends. Attendees can expect to resume regular services and support when the office reopens. Please plan accordingly and check back for updates on available resources and programs.
+WorkSource Seattle-King County will be closed on Dec. 25, 2025, in observance of the holiday. This closure provides an opportunity for staff and community members to celebrate the season with family and friends. Please plan accordingly, as regular services will resume the following day.

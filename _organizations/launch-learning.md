@@ -5,13 +5,13 @@ email: enrollment@launchlearning.org
 news_rss_url: https://launchlearning.org/feed/
 phone: 206-726-7972
 title: Launch Learning
-topics:
+topic_titles:
 - Education & Learning
 - Food & Nutrition
 - Financial Assistance
 - Childcare
 type: Community-Based Organization
-website: https://launchlearning.org
+website_url: https://launchlearning.org
 ---
 
 Launch Learning is a Seattle-based nonprofit providing affordable early learning and enrichment programs for children ages 2 to 12. With a focus on educational justice, we support families from diverse backgrounds, offering resources such as tuition assistance and food support through our free pantries.

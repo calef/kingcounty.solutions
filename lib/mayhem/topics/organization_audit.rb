@@ -75,10 +75,10 @@ module Mayhem
           {
             'path' => path,
             'title' => fm['title'] || default_title(path),
-            'topics' => Array(fm['topics']).dup,
+            'topic_titles' => Array(fm['topic_titles']).dup,
             'description' => [fm['summary'], fm['description']].compact.join(' '),
             'content' => document.body,
-            'website' => fm['website']
+            'website_url' => fm['website_url']
           }
         end
       end
@@ -198,7 +198,7 @@ module Mayhem
           #{topic_catalog}
 
           Organization: #{org['title']}
-          Existing topics: #{Array(org['topics']).join(', ')}
+          Existing topics: #{Array(org['topic_titles']).join(', ')}
           Description:
           #{org_desc}
 
@@ -231,7 +231,7 @@ module Mayhem
       end
 
       def record_report(org, result)
-        current = org['topics'] || []
+        current = org['topic_titles'] || []
         true_topics = Array(result['topics_true'])
         false_topics = Array(result['topics_false'])
         unclear = Array(result['topics_unclear'])
@@ -249,17 +249,17 @@ module Mayhem
       end
 
       def apply_changes(org, result)
-        additions = Array(result['topics_true']) - Array(org['topics'])
-        removals = Array(result['topics_false']) & Array(org['topics'])
+        additions = Array(result['topics_true']) - Array(org['topic_titles'])
+        removals = Array(result['topics_false']) & Array(org['topic_titles'])
         return if additions.empty? && removals.empty?
 
         document = Mayhem::FrontMatter::Document.load(org['path'], logger: @logger)
         return unless document
 
-        updated_topics = (Array(document.front_matter['topics']) - removals + additions).uniq.sort
-        document.front_matter['topics'] = updated_topics
+        updated_topics = (Array(document.front_matter['topic_titles']) - removals + additions).uniq.sort
+        document.front_matter['topic_titles'] = updated_topics
         document.save
-        @logger.info "Updated #{org['path']} topics: #{updated_topics.join(', ')}"
+        @logger.info "Updated #{org['path']} topic_titles: #{updated_topics.join(', ')}"
       end
 
       def write_report

@@ -3,12 +3,12 @@ address: 9501 Greenwood Avenue N, Seattle, WA 98103
 email: steve.pavlakis@usw.salvationarmy.org
 phone: 206-783-1225
 title: The Salvation Army Seattle Temple Corps
-topics:
+topic_titles:
 - Financial Assistance
 - Food & Nutrition
 - Personal & Household Needs
 type: Community-Based Organization
-website: https://seattletemple.salvationarmy.org/
+website_url: https://seattletemple.salvationarmy.org/
 ---
 
 Part of the Salvation Army’s Western Territory, the Seattle Temple Corps anchors ministry and social services for North King County from its Greenwood Avenue campus. Officers and volunteers provide Sunday worship, pastoral care, and small groups, while weekday outreach includes food support, financial assistance, elderly visitation, youth enrichment, and partnerships with the Adult Rehabilitation Program and nearby shelters.

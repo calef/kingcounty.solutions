@@ -1,11 +1,11 @@
 ---
 address: 336 2nd Ave S, Kent, WA 98032
-parent_organization: Kent Lutheran Church
+parent_organization_title: Kent Lutheran Church
 title: Kent Community Supper
-topics:
+topic_titles:
 - Food & Nutrition
 type: Program
-website: https://www.kentlutheran.org/kent-community-supper.html
+website_url: https://www.kentlutheran.org/kent-community-supper.html
 ---
 
 Kent Community Supper provides a free meal every Monday from 5 to 6 p.m., serving 60 to 100 people weekly since 1983. The program supports those in need, including families, the elderly, and the homeless, without requiring personal information. Volunteers are always welcome to help with meal preparation and service.

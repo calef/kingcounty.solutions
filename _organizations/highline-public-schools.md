@@ -1,11 +1,11 @@
 ---
 acronym: HPS
-parent_organization: Puget Sound Educational Service District 121
+parent_organization_title: Puget Sound Educational Service District 121
 title: Highline Public Schools
-topics:
+topic_titles:
 - Education & Learning
 type: School District
-website: https://www.highlineschools.org
+website_url: https://www.highlineschools.org
 ---
 
 Highline Public Schools is a school district that serves the educational needs of students in the Highline area. The district is committed to providing quality education and fostering a supportive learning environment for all students.

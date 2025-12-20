@@ -4,11 +4,11 @@ email: donations@imaginehousing.org
 news_rss_url: https://imaginehousing.org/feed/
 phone: 425-576-5190
 title: Imagine Housing
-topics:
+topic_titles:
 - Health Care
 - Shelter & Housing
 type: Community-Based Organization
-website: https://imaginehousing.org/
+website_url: https://imaginehousing.org/
 ---
 
 Imagine Housing develops permanently affordable apartment communities across the Eastside so people with low incomes, seniors, veterans, and families can live near jobs, schools, and transit. The organization pairs housing development with on-site resident services teams that support financial stability, youth enrichment, crisis intervention, and behavioral health referrals.

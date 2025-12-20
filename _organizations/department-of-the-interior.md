@@ -1,13 +1,13 @@
 ---
 acronym: DOI
 news_rss_url: https://www.doi.gov/feeds/content/36980/rss.xml
-parent_organization: Federal Executive Branch
+parent_organization_title: Federal Executive Branch
 title: Department of the Interior
-topics:
+topic_titles:
 - Education & Learning
 - Shelter & Housing
 type: Department
-website: https://www.doi.gov/
+website_url: https://www.doi.gov/
 ---
 
 The **Department of the Interior (DOI)** manages natural resources and supports tribal communities. Its social service functions include:

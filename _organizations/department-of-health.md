@@ -1,15 +1,15 @@
 ---
 acronym: DOH
 news_rss_url: https://doh.wa.gov/newsroom/rss
-parent_organization: State Executive Branch
+parent_organization_title: State Executive Branch
 title: Department of Health
-topics:
+topic_titles:
 - Health Care
 - Mental Health & Counseling
 - Personal & Household Needs
 - Education & Learning
 type: Department
-website: https://doh.wa.gov/
+website_url: https://doh.wa.gov/
 ---
 
 The **Department of Health (DOH)** safeguards public health and promotes wellness across Washington. Its social service impact includes:

@@ -1,7 +1,7 @@
 ---
 news_rss_url: https://akinfamily.org/feed/
 title: Akin
-topics:
+topic_titles:
 - Disabilities
 - Domestic Violence
 - Education & Learning
@@ -13,7 +13,7 @@ topics:
 - Personal & Household Needs
 - Shelter & Housing
 type: Community-Based Organization
-website: https://akinfamily.org/
+website_url: https://akinfamily.org/
 ---
 
 Akin is dedicated to supporting and strengthening families across Washington state. Through a comprehensive range of tailored services, Akin partners with children, families, and communities to improve health and well-being, disrupt cycles of inequity, and ensure families can thrive together.

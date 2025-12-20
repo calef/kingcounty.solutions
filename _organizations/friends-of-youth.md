@@ -4,12 +4,12 @@ email: meggan@friendsofyouth.org
 news_rss_url: https://www.friendsofyouth.org/blog-feed.xml
 phone: 425.449.3868
 title: Friends of Youth
-topics:
+topic_titles:
 - Disabilities
 - Mental Health & Counseling
 - Shelter & Housing
 type: Community-Based Organization
-website: https://friendsofyouth.org
+website_url: https://friendsofyouth.org
 ---
 
 Friends of Youth provides essential services for young people, including housing, mental health support, and community resources. The organization focuses on empowering youth and families through various programs and initiatives.

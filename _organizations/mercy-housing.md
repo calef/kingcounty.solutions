@@ -5,12 +5,12 @@ email: customerservice@mercyhousing.org
 news_rss_url: https://www.mercyhousing.org/feed/
 phone: "(303) 830-3300"
 title: Mercy Housing
-topics:
+topic_titles:
 - Shelter & Housing
 - Financial Assistance
 - Food & Nutrition
 type: Community-Based Organization
-website: https://www.mercyhousing.org/Washington-Properties
+website_url: https://www.mercyhousing.org/Washington-Properties
 ---
 
 Mercy Housing provides affordable, service-enriched housing to families, seniors, and individuals in need. Its mission focuses on creating stable communities and offering vital services such as financial education and health classes to support residents in achieving long-term stability.

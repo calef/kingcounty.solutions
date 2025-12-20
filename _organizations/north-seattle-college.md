@@ -1,6 +1,6 @@
 ---
 title: North Seattle College
-topics:
+topic_titles:
 - Education & Learning
 - Childcare
 - Disabilities
@@ -8,7 +8,7 @@ topics:
 - Financial Assistance
 - Mental Health & Counseling
 type: College
-website: https://northseattle.edu/
+website_url: https://northseattle.edu/
 ---
 
 North Seattle College offers a variety of programs and services, including bachelor's degrees, career training, and support for students with disabilities. The college provides resources for childcare, financial aid, and mental health counseling, fostering access and opportunity for all students.

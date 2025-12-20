@@ -1,13 +1,13 @@
 ---
 acronym: FEMA
-parent_organization: Department of Homeland Security
+parent_organization_title: Department of Homeland Security
 title: Federal Emergency Management Agency
-topics:
+topic_titles:
 - Health Care
 - Domestic Violence
 - Shelter & Housing
 type: Agency
-website: https://www.fema.gov/
+website_url: https://www.fema.gov/
 ---
 
 The **Federal Emergency Management Agency (FEMA)** leads disaster preparedness, response, and recovery. Its role in social services includes:

@@ -5,13 +5,13 @@ email: info@mschelps.org
 news_rss_url: https://mschelps.org/feed/
 phone: 253-838-6810
 title: Multi-Service Center
-topics:
+topic_titles:
 - Employment & Job Support
 - Financial Assistance
 - Food & Nutrition
 - Shelter & Housing
 type: Community-Based Organization
-website: https://mschelps.org/
+website_url: https://mschelps.org/
 ---
 
 Multi-Service Center (MSC) is a South King County community action agency that connects people with housing stability, energy and utility assistance, and a market-style food bank anchored at its Federal Way headquarters. Case managers help families stay housed and move into MSC’s rental communities, while foreclosure counseling, resource navigation, and financial education address longer-term economic security.

@@ -1,12 +1,12 @@
 ---
-parent_organization: King County
+parent_organization_title: King County
 title: Public Health – Seattle & King County
-topics:
+topic_titles:
 - Health Care
 - Mental Health & Counseling
 - Food & Nutrition
 type: Department
-website: https://kingcounty.gov/depts/health.aspx
+website_url: https://kingcounty.gov/depts/health.aspx
 ---
 
 **Public Health – Seattle & King County** protects and improves the health and well-being of all residents. Its programs span multiple social service domains:

@@ -10,11 +10,11 @@ class RssImporterTest < Minitest::Test
   def setup
     @tmp_posts = Dir.mktmpdir
     @tmp_orgs = Dir.mktmpdir
-    # create a minimal organization file with website and rss
+    # create a minimal organization file with website_url and rss
     org = <<~MD
       ---
       title: Test Org
-      website: https://example.com/
+      website_url: https://example.com/
       news_rss_url: https://example.com/feed.xml
       ---
     MD

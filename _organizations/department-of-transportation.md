@@ -1,11 +1,11 @@
 ---
 acronym: DOT
-parent_organization: Federal Executive Branch
+parent_organization_title: Federal Executive Branch
 title: Department of Transportation
-topics:
+topic_titles:
 - Transportation & Mobility
 type: Department
-website: https://www.transportation.gov/
+website_url: https://www.transportation.gov/
 ---
 
 The **Department of Transportation (DOT)** ensures safe, accessible, and efficient mobility. In the context of social services, it supports:

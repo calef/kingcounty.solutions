@@ -1,12 +1,12 @@
 ---
 acronym: SSA
-parent_organization: Federal Executive Branch
+parent_organization_title: Federal Executive Branch
 title: Social Security Administration
-topics:
+topic_titles:
 - Financial Assistance
 - Disabilities
 type: Independent Federal Agency
-website: https://www.ssa.gov/
+website_url: https://www.ssa.gov/
 ---
 
 The **Social Security Administration (SSA)** provides financial protection through retirement, disability, and survivor benefits. It directly aligns with:

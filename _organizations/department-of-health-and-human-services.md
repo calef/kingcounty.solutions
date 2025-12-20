@@ -1,15 +1,15 @@
 ---
 acronym: HHS
-parent_organization: Federal Executive Branch
+parent_organization_title: Federal Executive Branch
 title: Department of Health and Human Services
-topics:
+topic_titles:
 - Health Care
 - Mental Health & Counseling
 - Education & Learning
 - Childcare
 - Senior Services
 type: Department
-website: https://www.hhs.gov/
+website_url: https://www.hhs.gov/
 ---
 
 The **Department of Health and Human Services (HHS)** protects the health and well-being of Americans through healthcare access, disease prevention, and social support. Key domains include:

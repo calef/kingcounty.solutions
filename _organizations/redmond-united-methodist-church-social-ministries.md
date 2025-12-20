@@ -4,11 +4,11 @@ email: rumc@redmondumc.org
 news_rss_url: https://redmondumc.org/feed/
 phone: 425-883-7553
 title: Redmond United Methodist Church - Social Ministries
-topics:
+topic_titles:
 - Food & Nutrition
 - Domestic Violence
 type: Community-Based Organization
-website: https://redmondumc.org/
+website_url: https://redmondumc.org/
 ---
 
 Redmond United Methodist Church’s social ministries programs provide food, housing support, immigration aid, and counseling. Their faith-based provider role engages community volunteer networks, supports service delivery capacity, and fosters collaboration across sectors—echoing AEA’s emphasis on strong human services networks and organizational capacity.

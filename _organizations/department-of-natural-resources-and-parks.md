@@ -1,12 +1,12 @@
 ---
 acronym: DNRP
-parent_organization: King County
+parent_organization_title: King County
 title: Department of Natural Resources and Parks
-topics:
+topic_titles:
 - Education & Learning
 - Transportation & Mobility
 type: Department
-website: https://kingcounty.gov/depts/dnrp.aspx
+website_url: https://kingcounty.gov/depts/dnrp.aspx
 ---
 
 The **Department of Natural Resources and Parks (DNRP)** manages King County’s environmental sustainability, parks, and open spaces. Its programs contribute to social and community well-being through:

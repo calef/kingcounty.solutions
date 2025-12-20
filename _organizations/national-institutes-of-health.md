@@ -1,13 +1,13 @@
 ---
 acronym: NIH
 news_rss_url: https://www.nih.gov/rss.xml
-parent_organization: Department of Health and Human Services
+parent_organization_title: Department of Health and Human Services
 title: National Institutes of Health
-topics:
+topic_titles:
 - Health Care
 - Education & Learning
 type: Agency
-website: https://www.nih.gov/
+website_url: https://www.nih.gov/
 ---
 
 The **National Institutes of Health (NIH)** leads biomedical and public health research. Its work supports:

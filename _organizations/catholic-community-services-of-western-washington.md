@@ -6,7 +6,7 @@ events_ical_url: https://ccsww.org/events/?ical=1
 news_rss_url: https://ccsww.org/feed/
 phone: 206-328-5696
 title: Catholic Community Services of Western Washington
-topics:
+topic_titles:
 - Disabilities
 - Financial Assistance
 - Food & Nutrition
@@ -15,7 +15,7 @@ topics:
 - Personal & Household Needs
 - Shelter & Housing
 type: Faith-Based Organization
-website: https://ccsww.org/
+website_url: https://ccsww.org/
 ---
 
 Catholic Community Services of Western Washington (CCSWW) is the official human-services outreach of the Catholic Church in Western Washington, headquartered in Seattle and operating 12 family centers plus Catholic Housing Services sites across more than a dozen counties. Grounded in Catholic social teaching, CCSWW staff and volunteers provide culturally responsive support regardless of faith background and focus on neighbors impacted by poverty, racism, or social isolation.

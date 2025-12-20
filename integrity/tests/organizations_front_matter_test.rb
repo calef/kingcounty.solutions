@@ -13,12 +13,12 @@ class OrganizationsFrontMatterTest < Minitest::Test
     email
     events_ical_url
     news_rss_url
-    parent_organization
+    parent_organization_title
     phone
     title
-    topics
+    topic_titles
     type
-    website
+    website_url
   ].freeze
   ALLOWED_TYPES = [
     'Agency',
@@ -115,14 +115,14 @@ class OrganizationsFrontMatterTest < Minitest::Test
     seen = {}
 
     organizations.each do |doc|
-      website = value_as_string(doc, 'website')
-      next if website.nil? || website.empty?
+      website_url = value_as_string(doc, 'website_url')
+      next if website_url.nil? || website_url.empty?
 
-      errors << "#{doc[:path]} has invalid website URL: #{website}" unless valid_url?(website)
+      errors << "#{doc[:path]} has invalid website_url URL: #{website_url}" unless valid_url?(website_url)
 
-      normalized = website.strip.downcase
+      normalized = website_url.strip.downcase
       if seen.key?(normalized)
-        errors << "website #{website} reused in #{doc[:path]} and #{seen[normalized]}"
+        errors << "website_url #{website_url} reused in #{doc[:path]} and #{seen[normalized]}"
       else
         seen[normalized] = doc[:path]
       end
@@ -227,19 +227,19 @@ class OrganizationsFrontMatterTest < Minitest::Test
     errors = []
 
     organizations.each do |doc|
-      parent = value_as_string(doc, 'parent_organization')
+      parent = value_as_string(doc, 'parent_organization_title')
       next if parent.nil?
 
       unless organization_titles.include?(parent)
-        errors << "#{doc[:path]} parent_organization '#{parent}' does not match another organization title"
+        errors << "#{doc[:path]} parent_organization_title '#{parent}' does not match another organization title"
         next
       end
 
       title = value_as_string(doc, 'title')
-      errors << "#{doc[:path]} parent_organization must not reference itself" if title && title == parent
+      errors << "#{doc[:path]} parent_organization_title must not reference itself" if title && title == parent
     end
 
-    assert_empty errors, "parent_organization issues:\n#{errors.join("\n")}"
+    assert_empty errors, "parent_organization_title issues:\n#{errors.join("\n")}"
   end
 
   def test_phone_if_present_is_unique_and_resembles_number
@@ -273,11 +273,11 @@ class OrganizationsFrontMatterTest < Minitest::Test
     errors = []
 
     organizations.each do |doc|
-      topics_value = doc[:data]['topics']
+      topics_value = doc[:data]['topic_titles']
       next if topics_value.nil?
 
       unless topics_value.is_a?(Array) && topics_value.all? { |topic| topic.is_a?(String) }
-        errors << "#{doc[:path]} topics must be a list of strings"
+        errors << "#{doc[:path]} topic_titles must be a list of strings"
         next
       end
 
@@ -321,7 +321,7 @@ class OrganizationsFrontMatterTest < Minitest::Test
 
   def test_events_ical_url_news_rss_url_and_website_are_http_or_https
     errors = []
-    fields = %w[events_ical_url news_rss_url website]
+    fields = %w[events_ical_url news_rss_url website_url]
 
     organizations.each do |doc|
       fields.each do |field|

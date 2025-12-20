@@ -5,11 +5,11 @@ email: Office@HOMtransitions.org
 news_rss_url: https://houseofmercyministries.net/feed/
 phone: 206-651-7840
 title: House of Mercy - Clean & Sober Housing Program
-topics:
+topic_titles:
 - Shelter & Housing
 - Mental Health & Counseling
 type: Community-Based Organization
-website: https://houseofmercyministries.net
+website_url: https://houseofmercyministries.net
 ---
 
 House of Mercy provides supportive, clean, and sober living for individuals in transition. Established in 2005, we focus on healing lives through safe housing, leadership training, and community support, helping individuals overcome barriers related to incarceration, homelessness, and substance abuse.

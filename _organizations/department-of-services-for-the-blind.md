@@ -1,12 +1,12 @@
 ---
 acronym: DSB
-parent_organization: State Executive Branch
+parent_organization_title: State Executive Branch
 title: Department of Services for the Blind
-topics:
+topic_titles:
 - Disabilities
 - Employment & Job Support
 type: Department
-website: https://dsb.wa.gov/
+website_url: https://dsb.wa.gov/
 ---
 
 The **Department of Services for the Blind (DSB)** supports individuals with vision loss through employment and independent living programs. It contributes to several social service domains:

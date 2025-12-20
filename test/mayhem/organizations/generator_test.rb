@@ -77,8 +77,8 @@ class OrganizationsGeneratorTest < Minitest::Test
   end
 
   def test_load_existing_websites_and_types
-    write_doc(@org_dir, 'org-one.md', { 'website' => 'https://example.com', 'type' => 'Nonprofit' })
-    write_doc(@org_dir, 'org-two.md', { 'website' => 'https://example.com/', 'type' => 'Nonprofit' })
+    write_doc(@org_dir, 'org-one.md', { 'website_url' => 'https://example.com', 'type' => 'Nonprofit' })
+    write_doc(@org_dir, 'org-two.md', { 'website_url' => 'https://example.com/', 'type' => 'Nonprofit' })
 
     sites = @generator.send(:load_existing_websites)
     types = @generator.send(:load_existing_types)
@@ -119,11 +119,11 @@ class OrganizationsGeneratorTest < Minitest::Test
     data = {
       'acronym' => 'ABC',
       'type' => 'community group',
-      'topics' => ['Food']
+      'topic_titles' => ['Food']
     }
     fm = @generator.send(:build_front_matter, data, types: types)
     assert_equal 'Community Group', fm['type']
-    assert_equal ['Food'], fm['topics']
+    assert_equal ['Food'], fm['topic_titles']
   end
 
   def test_normalize_value_and_enforce_type
@@ -182,7 +182,7 @@ class OrganizationsGeneratorTest < Minitest::Test
     response_body = JSON.generate({
       'title' => 'Test Organization',
       'type' => 'Community-Based Organization',
-      'topics' => ['Health']
+      'topic_titles' => ['Health']
     })
     generator.instance_variable_set(:@client, FakeChatClient.new(response_body))
 
@@ -192,12 +192,12 @@ class OrganizationsGeneratorTest < Minitest::Test
     assert_equal 1, files.size
     fm = Mayhem::FrontMatter::Document.load(files.first).front_matter
     assert_equal 'https://feed', fm['news_rss_url']
-    assert_equal ['Health'], fm['topics']
+    assert_equal ['Health'], fm['topic_titles']
     assert_equal 'https://calendar', fm['events_ical_url']
   end
 
   def test_run_skips_existing_website
-    write_doc(@org_dir, 'existing.md', { 'website' => 'https://example.com' })
+    write_doc(@org_dir, 'existing.md', { 'website_url' => 'https://example.com' })
     generator = Mayhem::Organizations::Generator.new(
       org_dir: @org_dir,
       topic_repo: @topic_repo,

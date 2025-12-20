@@ -6,14 +6,14 @@ events_ical_url: https://www.phinneycenter.org/eventscal/?ical=1
 news_rss_url: https://www.phinneycenter.org/feed/
 phone: 206-783-2244
 title: Phinney Neighborhood Association
-topics:
+topic_titles:
 - Education & Learning
 - Food & Nutrition
 - Health Care
 - Mental Health & Counseling
 - Personal & Household Needs
 type: Community-Based Organization
-website: https://www.phinneycenter.org/
+website_url: https://www.phinneycenter.org/
 ---
 
 The Phinney Neighborhood Association (PNA) is a community anchor for the Phinney Ridge, Greenwood, and broader northwest Seattle neighborhoods. From its historic campus and Greenwood Senior Center, the PNA runs senior services, PNA Village aging-in-place supports, memory loss programming, kids co-ops, and Whittier Kids before-and-after school care so families at every stage can tap into trusted neighborhood resources.
