@@ -28,9 +28,20 @@ module Mayhem
 
         def perform_request(url, accept, max_bytes, remaining_redirects, origin_url:, operation:)
           uri = URI.parse(url)
-          response = @transport.execute_get(uri, accept, operation: operation)
+          body = nil
+          redirect = nil
+          status_checked = false
+          response = @transport.execute_get(uri, accept, operation: operation) do |http_response|
+            redirect = @response_processor.redirect?(http_response)
+            unless redirect
+              @response_processor.check_status?(http_response, uri, origin_url: origin_url, operation: operation)
+              status_checked = true
+              body = ResponseBodyReader.read(http_response, max_bytes)
+            end
+          end
 
-          if @response_processor.redirect?(response)
+          redirect = @response_processor.redirect?(response) if redirect.nil?
+          if redirect
             return follow_redirect(
               response,
               uri,
@@ -42,9 +53,8 @@ module Mayhem
             )
           end
 
-          @response_processor.check_status?(response, uri, origin_url: origin_url, operation: operation)
-
-          body = ResponseBodyReader.read(response, max_bytes)
+          @response_processor.check_status?(response, uri, origin_url: origin_url, operation: operation) unless status_checked
+          body = ResponseBodyReader.read(response, max_bytes) if body.nil?
 
           [
             response,

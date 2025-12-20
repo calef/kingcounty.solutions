@@ -9,10 +9,11 @@ module Mayhem
           body = +''
           response.read_body do |chunk|
             if max_bytes.positive?
-              next if body.bytesize >= max_bytes
-
               needed = max_bytes - body.bytesize
-              body << chunk.byteslice(0, [needed, chunk.bytesize].min) if needed.positive?
+              break unless needed.positive?
+
+              body << chunk.byteslice(0, [needed, chunk.bytesize].min)
+              break if body.bytesize >= max_bytes
             else
               body << chunk
             end

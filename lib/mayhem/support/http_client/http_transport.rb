@@ -18,11 +18,11 @@ module Mayhem
           @operation_delay_manager = operation_delay_manager
         end
 
-        def execute_get(uri, accept, operation: nil)
+        def execute_get(uri, accept, operation: nil, &)
           @operation_delay_manager.apply_delay(operation, uri)
-          perform_http_request(uri, accept, OpenSSL::SSL::VERIFY_PEER)
+          perform_http_request(uri, accept, OpenSSL::SSL::VERIFY_PEER, &)
         rescue OpenSSL::SSL::SSLError => e
-          retry_without_verification(uri, accept, e)
+          retry_without_verification(uri, accept, e, &)
         end
 
         def execute_head(uri, operation: nil)
@@ -34,12 +34,18 @@ module Mayhem
 
         private
 
-        def perform_http_request(uri, accept, verify_mode)
+        def perform_http_request(uri, accept, verify_mode, &block)
           http = build_http_connection(uri, verify_mode)
           response = nil
           http.start do |connection|
             request = build_request(uri, accept)
-            response = connection.request(request)
+            response = if block_given?
+                         connection.request(request) do |http_response|
+                           block.call(http_response)
+                         end
+                       else
+                         connection.request(request)
+                       end
           end
           response
         end
@@ -88,11 +94,11 @@ module Mayhem
           end
         end
 
-        def retry_without_verification(uri, accept, error)
+        def retry_without_verification(uri, accept, error, &)
           return handle_terminal_ssl_error(uri, error) unless @allow_insecure_fallback
 
           @logger.warn "SSL error (#{error.message}), retrying without verification for #{uri}"
-          perform_http_request(uri, accept, OpenSSL::SSL::VERIFY_NONE)
+          perform_http_request(uri, accept, OpenSSL::SSL::VERIFY_NONE, &)
         end
 
         def retry_without_verification_head(uri, error)
