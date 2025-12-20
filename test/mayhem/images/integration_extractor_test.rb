@@ -9,6 +9,8 @@ require_relative '../../../lib/mayhem/logging'
 
 class ImageExtractorIntegrationTest < Minitest::Test
   def setup
+    @original_min_dim = ENV['IMAGE_MIN_DIMENSION']
+    ENV['IMAGE_MIN_DIMENSION'] = '0'
     @tmp_posts = Dir.mktmpdir
     @tmp_events = Dir.mktmpdir
     @tmp_images = Dir.mktmpdir
@@ -21,7 +23,7 @@ class ImageExtractorIntegrationTest < Minitest::Test
       date: #{Time.now.iso8601}
       source: Test
       source_url: https://example.com/p/1
-      original_source_html: '<p>Image <img src="https://example.com/image.jpg" alt="Example"></p>'
+      original_source_html: '<p>Image <img src="https://example.com/image.webp" alt="Example"></p>'
       summarized: true
       ---
 
@@ -31,16 +33,22 @@ class ImageExtractorIntegrationTest < Minitest::Test
 
     # stub image download
     VCR.use_cassette('content_image_extractor/image_download') do
-      stub_request(:get, 'https://example.com/image.jpg').to_return(status: 200, body: File.binread(__FILE__),
-                                                                    headers: { 'Content-Type' => 'image/jpeg' })
+      stub_request(:get, 'https://example.com/image.webp').to_return(status: 200, body: 'webpdata',
+                                                                     headers: { 'Content-Type' => 'image/webp' })
 
       @extractor = Mayhem::Images::Extractor.new(posts_dir: @tmp_posts, events_dir: @tmp_events,
                                                               image_docs_dir: @tmp_images, asset_dir: @assets,
-                                                              logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'))
+                                                              logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'),
+                                                              min_dimension: 0)
     end
   end
 
   def teardown
+    if @original_min_dim
+      ENV['IMAGE_MIN_DIMENSION'] = @original_min_dim
+    else
+      ENV.delete('IMAGE_MIN_DIMENSION')
+    end
     FileUtils.remove_entry(@tmp_posts)
     FileUtils.remove_entry(@tmp_events)
     FileUtils.remove_entry(@tmp_images)
