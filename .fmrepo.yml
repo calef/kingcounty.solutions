@@ -9,3 +9,7 @@ topics:
   test: <tmp>
   development: "."
   production: "."
+images:
+  test: <tmp>
+  development: "."
+  production: "."
