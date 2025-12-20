@@ -18,21 +18,21 @@ class LocationsFrontMatterTest < Minitest::Test
     @location_title_map = load_title_map(@locations)
   end
 
-  def test_parent_location_if_present_matches_a_place
+  def test_parent_location_title_if_present_matches_a_place
     errors = []
 
     locations.each do |doc|
-      parent_location = value_as_string(doc, 'parent_location')
-      next if parent_location.nil? || parent_location.empty?
+      parent_location_title = value_as_string(doc, 'parent_location_title')
+      next if parent_location_title.nil? || parent_location_title.empty?
 
-      matching_paths = location_title_map[parent_location]
+      matching_paths = location_title_map[parent_location_title]
       if matching_paths.nil? || matching_paths.empty?
-        errors << "#{doc[:path]} parent_location '#{parent_location}' must match another place title"
+        errors << "#{doc[:path]} parent_location_title '#{parent_location_title}' must match another place title"
         next
       end
 
       if matching_paths.all? { |path| path == doc[:path] }
-        errors << "#{doc[:path]} parent_location '#{parent_location}' must reference a different place document"
+        errors << "#{doc[:path]} parent_location_title '#{parent_location_title}' must reference a different place document"
       end
     end
 

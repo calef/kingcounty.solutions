@@ -1,5 +1,5 @@
 ---
-parent_location: North King County
+parent_location_title: North King County
 title: Shoreline
 type: City
 ---

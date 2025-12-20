@@ -1,5 +1,5 @@
 ---
-parent_location: Eastside
+parent_location_title: Eastside
 title: Lake Marcel-Stillwater
 type: Census-Designated Place
 ---

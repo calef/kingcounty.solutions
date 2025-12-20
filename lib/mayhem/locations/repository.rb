@@ -32,7 +32,7 @@ module Mayhem
         locations.map do |loc|
           parts = [loc[:title]]
           parts << "(#{loc[:type]})" if loc[:type]
-          parts << "in #{loc[:parent_location]}" if loc[:parent_location]
+          parts << "in #{loc[:parent_location_title]}" if loc[:parent_location_title]
           parts.join(' ')
         end.join("\n")
       end
@@ -49,7 +49,7 @@ module Mayhem
           next false unless location
 
           has_ancestor_in_list = false
-          current_parent = location[:parent_location]
+          current_parent = location[:parent_location_title]
 
           while current_parent
             if titles.include?(current_parent)
@@ -58,7 +58,7 @@ module Mayhem
             end
 
             parent_location = title_to_location[current_parent]
-            current_parent = parent_location ? parent_location[:parent_location] : nil
+            current_parent = parent_location ? parent_location[:parent_location_title] : nil
           end
 
           has_ancestor_in_list
@@ -72,7 +72,7 @@ module Mayhem
           id: location.id,
           title: location.title,
           type: location.location_type,
-          parent_location: location.parent_location,
+          parent_location_title: location.parent_location_title,
           description: location.body&.strip
         }
       end

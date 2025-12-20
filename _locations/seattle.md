@@ -1,5 +1,5 @@
 ---
-parent_location: King County
+parent_location_title: King County
 title: Seattle
 type: City
 ---
