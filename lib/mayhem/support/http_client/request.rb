@@ -3,6 +3,7 @@
 require 'net/http'
 require 'openssl'
 require 'uri'
+require_relative 'response_body_reader'
 
 module Mayhem
   module Support
@@ -40,7 +41,7 @@ module Mayhem
           body = nil
           http.start do |connection|
             request = build_request(uri, accept)
-            response = connection.request(request) { |res| body = read_response_body(res, max_bytes) }
+            response = connection.request(request) { |res| body = ResponseBodyReader.read(res, max_bytes) }
           end
 
           [response, body]
@@ -88,22 +89,6 @@ module Mayhem
           Net::HTTP::Head.new(uri).tap do |request|
             request['User-Agent'] = @user_agent
           end
-        end
-
-        def read_response_body(response, max_bytes)
-          body = +''
-          response.read_body do |chunk|
-            if max_bytes.positive?
-              next if body.bytesize >= max_bytes
-
-              needed = max_bytes - body.bytesize
-              body << chunk.byteslice(0, needed)
-            else
-              body << chunk
-            end
-          end
-          body.force_encoding('BINARY')
-          body
         end
 
         def retry_without_verification(uri, accept, max_bytes, error)
