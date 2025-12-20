@@ -68,8 +68,8 @@ images: []
 location: Livestreaming
 locations:
 - King County
+organization_title: University of Washington
 published: false
-source: University of Washington
 source_url: https://www.washington.edu/lectures/events/toward-a-global-history-of-fossil-capitalism-and-anticolonial-imaginaries-presented-by-the-office-of-public-lectures/
 start_date: '2026-03-06T12:00:00-08:00'
 summarized: true

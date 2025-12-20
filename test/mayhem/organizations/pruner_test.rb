@@ -159,12 +159,12 @@ class OrganizationsPrunerTest < Minitest::Test
     path
   end
 
-  def write_event(id, source, images: [])
+  def write_event(id, organization_title, images: [])
     path = File.join(@events_dir, "#{id}.md")
     front_matter = {
       'title' => "Event #{id}",
       'start_date' => Time.now.utc.iso8601,
-      'source' => source,
+      'organization_title' => organization_title,
       'images' => images,
       'published' => true
     }

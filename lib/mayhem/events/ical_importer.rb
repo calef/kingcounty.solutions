@@ -246,7 +246,7 @@ module Mayhem
 
         front_matter = {
           'title' => Mayhem::Support::EncodingUtils.ensure_utf8(summary),
-          'source' => Mayhem::Support::EncodingUtils.ensure_utf8(source_title),
+          'organization_title' => Mayhem::Support::EncodingUtils.ensure_utf8(source_title),
           'start_date' => start_value,
           'end_date' => end_value,
           'location' => location,

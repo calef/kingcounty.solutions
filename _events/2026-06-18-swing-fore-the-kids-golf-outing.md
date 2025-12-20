@@ -4,8 +4,8 @@ generated_from_post: true
 images: []
 location: Pronghorn Golf Club, Bend, Oregon
 locations: []
+organization_title: Boyer Children's Clinic
 published: false
-source: Boyer Children's Clinic
 source_url: https://www.boyercc.org/events/golf-tournament-2026/
 start_date: '2026-06-18T00:00:00-07:00'
 summarized: true

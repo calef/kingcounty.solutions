@@ -5,8 +5,8 @@ images: []
 location: Shoreline Lake Forest Park Senior Activity Center
 locations:
 - King County
+organization_title: Shoreline Lake Forest Park Senior Activity Center
 published: false
-source: Shoreline Lake Forest Park Senior Activity Center
 source_url: https://shorelinelfpseniorcenter.org/cisc-chinese-musical-group/
 start_date: '2025-12-31T09:00:00-08:00'
 summarized: true

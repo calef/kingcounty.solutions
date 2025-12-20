@@ -11,8 +11,8 @@ images: []
 location: ''
 locations:
 - King County
+organization_title: University of Washington
 published: false
-source: University of Washington
 source_url: https://uwfoster.my.site.com/FosterEvents/s/events-public?eventId=a1wKf00001gMquF
 start_date: '2026-02-11T17:00:00-08:00'
 summarized: true

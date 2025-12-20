@@ -37,6 +37,7 @@ images: []
 location: "[ONLINE] Virginia Mason Franciscan Health"
 locations:
 - King County
+organization_title: Cancer Lifeline Financial Assistance for Cancer Patients
 original_source_html: "<!DOCTYPE html>\r\n<html lang=\"en-US\" class=\"cmsmasters_html\">\r\n<head>\r\n<meta
   charset=\"UTF-8\" />\r\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1,
   maximum-scale=1\" />\r\n<meta name=\"format-detection\" content=\"telephone=no\"
@@ -244,7 +245,6 @@ original_source_html: "<!DOCTYPE html>\r\n<html lang=\"en-US\" class=\"cmsmaster
   var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red)
   !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange)
   !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-"
-source: Cancer Lifeline Financial Assistance for Cancer Patients
 source_url: https://cancerlifeline.org/event/pancreatic-cancer-support-group-building-resilience-sponsored-by-virginia-mason-franciscan-health/2025-12-30/
 start_date: '2025-12-30T10:00:00-08:00'
 summarized: true

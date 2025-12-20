@@ -21,8 +21,8 @@ images: []
 location: ''
 locations:
 - Federal Way
+organization_title: Federal Way Senior Center
 published: false
-source: Federal Way Senior Center
 source_url: https://federalwayseniorcenter.org/event/socializing-2-2-2-2/2025-12-29/
 start_date: '2025-12-29T10:00:00-08:00'
 summarized: true

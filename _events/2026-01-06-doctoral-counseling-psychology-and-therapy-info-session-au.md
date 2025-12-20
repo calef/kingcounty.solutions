@@ -93,7 +93,7 @@ images: []
 location: Virtual Events @ Antioch University
 locations:
 - King County
-source: Antioch University
+organization_title: Antioch University
 source_url: https://www.antioch.edu/event/doctoral-counseling-psychology-and-therapy-info-session-au-01-06-26/
 start_date: '2026-01-06T16:00:00-08:00'
 summarized: true

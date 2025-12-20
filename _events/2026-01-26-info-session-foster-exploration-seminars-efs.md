@@ -56,8 +56,8 @@ images: []
 location: PACCAR Hall (PCAR)
 locations:
 - King County
+organization_title: University of Washington
 published: false
-source: University of Washington
 source_url: https://foster.uw.edu/exploration-seminars/
 start_date: '2026-01-26T12:30:00-08:00'
 summarized: true

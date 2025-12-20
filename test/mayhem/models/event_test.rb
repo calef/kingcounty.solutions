@@ -12,7 +12,7 @@ class EventModelTest < Minitest::Test
           'start_date' => '2025-12-20T09:00:00-08:00',
           'end_date' => '2025-12-20T10:30:00-08:00',
           'location' => 'Community Center',
-          'source' => 'Test Organization',
+          'organization_title' => 'Test Organization',
           'source_url' => 'https://example.com/event'
         },
         body: 'A test community event.'
@@ -23,7 +23,7 @@ class EventModelTest < Minitest::Test
       assert_equal '2025-12-20T09:00:00-08:00', record.start_date
       assert_equal '2025-12-20T10:30:00-08:00', record.end_date
       assert_equal 'Community Center', record.location
-      assert_equal 'Test Organization', record.source
+      assert_equal 'Test Organization', record.organization_title
       assert_equal 'https://example.com/event', record.source_url
       assert_equal 'A test community event.', record.body.strip
 

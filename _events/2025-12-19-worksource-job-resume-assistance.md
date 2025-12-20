@@ -84,7 +84,7 @@ location: Tukwila Library, 14380 Tukwila International Boulevard, Tukwila, WA, U
   States
 locations:
 - King County
-source: City of Tukwila
+organization_title: City of Tukwila
 source_url: https://www.tukwilawa.gov/event/worksource-job-resume-assistance-3/
 start_date: '2025-12-19T10:00:00-08:00'
 summarized: true

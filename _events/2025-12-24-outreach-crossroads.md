@@ -57,8 +57,8 @@ images: []
 location: Crossroads, Bellevue, WA, United States
 locations:
 - Bellevue
+organization_title: Indian American Community Services
 published: false
-source: Indian American Community Services
 source_url: https://iacswa.org/event/outreach-crossroads-101/
 start_date: '2025-12-24T11:00:00-08:00'
 summarized: true

@@ -85,8 +85,8 @@ location: Council Chambers, 801 SW 174th Street, Normandy Park, WA, 98166, Unite
   States
 locations:
 - King County
+organization_title: City of Normandy Park
 published: false
-source: City of Normandy Park
 source_url: https://normandyparkwa.gov/event/event-title-mm-dd-yyyy/2025-12-23/
 start_date: '2025-12-23T19:00:00-08:00'
 summarized: true

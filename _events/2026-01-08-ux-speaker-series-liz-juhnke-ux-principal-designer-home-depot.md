@@ -86,8 +86,8 @@ images: []
 location: Sieg Building (SIG)
 locations:
 - King County
+organization_title: University of Washington
 published: false
-source: University of Washington
 source_url: https://www.hcde.washington.edu/ux
 start_date: '2026-01-08T16:30:00-08:00'
 summarized: true

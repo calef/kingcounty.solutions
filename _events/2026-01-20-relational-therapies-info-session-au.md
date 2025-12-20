@@ -97,8 +97,8 @@ images: []
 location: Virtual Events @ Antioch University
 locations:
 - King County
+organization_title: Antioch University
 published: false
-source: Antioch University
 source_url: https://www.antioch.edu/event/relational-therapies-info-session-au-1-20-26/
 start_date: '2026-01-20T16:00:00-08:00'
 summarized: true

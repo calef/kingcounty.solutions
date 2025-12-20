@@ -54,8 +54,8 @@ images: []
 location: Music Building (MUS)
 locations:
 - King County
+organization_title: University of Washington
 published: false
-source: University of Washington
 source_url: https://music.washington.edu/events/2026-02-18/guest-pianist-master-class-brian-hsu
 start_date: '2026-02-18T16:30:00-08:00'
 summarized: true

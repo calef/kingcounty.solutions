@@ -8,10 +8,10 @@ images: []
 location: Zoom
 locations:
 - King County
+organization_title: University of Washington
 original_source_html: Developing a startup from the ground up can feel intimidating,
   especially while navigating the uncertainty and pressure of entrepreneurship.After
   receiving his Master of Science in Information Management, Nishit Bhasin, ‘24,...
-source: University of Washington
 source_url: https://ischool.uw.edu/programs/informatics
 start_date: '2026-02-06T15:00:00-08:00'
 summarized: true

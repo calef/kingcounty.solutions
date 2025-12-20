@@ -39,7 +39,7 @@ images: []
 location: Virtual/Online, United States
 locations:
 - King County
-source: City of Tukwila
+organization_title: City of Tukwila
 source_url: https://www.tukwilawa.gov/event/free-apprenticeship-class-training-apply-now/2025-12-27/
 start_date: '2025-12-27T08:00:00-08:00'
 summarized: true

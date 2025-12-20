@@ -34,8 +34,8 @@ images: []
 location: Online
 locations:
 - King County
+organization_title: University of Washington
 published: false
-source: University of Washington
 source_url: https://hr.uw.edu/benefits/retirement-plans/nearing-retirement/workshops-prepare-to-retire-from-uw/
 start_date: '2026-01-08T13:00:00-08:00'
 summarized: true

@@ -7,8 +7,8 @@ images: []
 location: Zoom
 locations:
 - King County
+organization_title: University of Washington
 published: false
-source: University of Washington
 source_url: https://ischool.uw.edu/programs/mlis/law-librarianship
 start_date: '2026-02-13T16:00:00-08:00'
 summarized: true

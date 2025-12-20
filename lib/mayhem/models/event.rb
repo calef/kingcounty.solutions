@@ -13,14 +13,6 @@ module Mayhem
         "_events/#{slug}.md"
       end
 
-      def title
-        self['title']
-      end
-
-      def start_date
-        self['start_date']
-      end
-
       def end_date
         self['end_date']
       end
@@ -29,12 +21,20 @@ module Mayhem
         self['location']
       end
 
-      def source
-        self['source']
+      def start_date
+        self['start_date']
       end
 
       def source_url
         self['source_url']
+      end
+
+      def title
+        self['title']
+      end
+
+      def organization_title
+        self['organization_title']
       end
     end
   end

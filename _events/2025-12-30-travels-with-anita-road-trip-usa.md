@@ -4,8 +4,8 @@ images: []
 location: ''
 locations:
 - King County
+organization_title: Wallingford Community Senior Center
 published: false
-source: Wallingford Community Senior Center
 source_url: https://wallingfordseniors.org/december-2025-lunch-menu/
 start_date: '2025-12-30T00:00:00-08:00'
 summarized: true

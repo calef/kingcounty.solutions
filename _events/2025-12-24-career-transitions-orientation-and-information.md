@@ -50,6 +50,7 @@ images: []
 location: ''
 locations:
 - King County
+organization_title: WorkSource Seattle-King County
 original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta charset=\"UTF-8\"
   />\n\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\n<meta
   name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'
@@ -238,7 +239,6 @@ original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta c
   stroke-opacity='.5' cx='18' cy='18' r='18'/%3E%3Cpath d='M36 18c0-9.94-8.06-18-18-18'%3E%3CanimateTransform
   attributeName='transform' type='rotate' from='0 18 18' to='360 18 18' dur='1s' repeatCount='indefinite'/%3E%3C/path%3E%3C/g%3E%3C/g%3E%3C/svg%3E\")}}a.added_to_cart{flex-basis:100%;margin-top:8px}}.add-to-cart-container:has(.add-to-cart-quantity){.add-to-cart-button{border-radius:0
   4px 4px 0}}.sale-badge{--font"
-source: WorkSource Seattle-King County
 source_url: https://worksourceskc.org/event/career-transitions-orientation-and-information-606/
 start_date: '2025-12-24T10:00:00-08:00'
 summarized: true

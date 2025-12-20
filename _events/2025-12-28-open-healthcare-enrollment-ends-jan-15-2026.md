@@ -31,7 +31,7 @@ images: []
 location: Virtual/Online, United States
 locations:
 - King County
-source: City of Tukwila
+organization_title: City of Tukwila
 source_url: https://www.tukwilawa.gov/event/open-healthcare-enrollment-ends-jan-15-2026/2025-12-28/
 start_date: '2025-12-28T08:00:00-08:00'
 summarized: true

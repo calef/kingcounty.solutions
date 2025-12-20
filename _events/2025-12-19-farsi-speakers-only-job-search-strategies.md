@@ -81,6 +81,7 @@ images: []
 location: ''
 locations:
 - King County
+organization_title: WorkSource Seattle-King County
 original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta charset=\"UTF-8\"
   />\n\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\n<meta
   name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'
@@ -279,7 +280,6 @@ original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta c
   \   font-style: italic;\n    line-height: 22px;\n    padding-left: 15px;\n    padding:
   10px;\n    width: 60%;\n    float: left;\n} \n</style><link rel=\"icon\" href=\"https://worksourceskc.org/wp-content/uploads/2024/09/cropped-android-chrome-512x512-36x36.png\"
   sizes=\"32x32\" />\n<link rel=\"icon\" href=\"https://worksourceskc.org/wp-c"
-source: WorkSource Seattle-King County
 source_url: https://worksourceskc.org/event/farsi-speakers-only-157-1154/
 start_date: '2025-12-19T14:00:00-08:00'
 summarized: true

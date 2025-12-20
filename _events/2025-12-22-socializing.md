@@ -64,8 +64,8 @@ images: []
 location: ''
 locations:
 - King County
+organization_title: Federal Way Senior Center
 published: false
-source: Federal Way Senior Center
 source_url: https://federalwayseniorcenter.org/event/socializing-2-2-2-2/2025-12-22/
 start_date: '2025-12-22T10:00:00-08:00'
 summarized: true

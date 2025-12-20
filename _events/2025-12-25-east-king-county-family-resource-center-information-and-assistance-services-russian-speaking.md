@@ -46,6 +46,7 @@ images: []
 location: CISC, 16305 NE 87th St, Suite 123, Redmond, WA, 98052, United States
 locations:
 - King County
+organization_title: Together Center
 original_source_html: "<!DOCTYPE html>\r\n<html lang=\"en-US\">\r\n<head>\r\n<meta
   charset=\"UTF-8\">\r\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\r\n<link
   rel=\"profile\" href=\"https://gmpg.org/xfn/11\">\r\n\r\n<link rel='stylesheet'
@@ -165,7 +166,6 @@ original_source_html: "<!DOCTYPE html>\r\n<html lang=\"en-US\">\r\n<head>\r\n<me
   .wp-block-embed-pocket-casts .ast-oembed-container *{position:unset;}.ast-single-post-featured-section
   + article {margin-top: 2em;}.site-content .ast-single-post-featured-section img
   {width: 100%;overflow: hidden;object-fit: cover;}.site > .ast-single-related-posts-containe"
-source: Together Center
 source_url: https://togethercenter.org/event/east-king-county-family-resource-center-information-and-assistance-services-russian-speaking/2025-12-25/
 start_date: '2025-12-25T14:00:00-08:00'
 summarized: true

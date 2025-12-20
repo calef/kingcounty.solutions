@@ -6,9 +6,9 @@ images: []
 location: Olympia
 locations:
 - King County
+organization_title: Essentials First
 original_source_html: A day of action hosted by Essentials First to advocate for hygiene
   access.
-source: Essentials First
 source_url: https://www.essentialsfirst.org/blog/s83f5lpwk72dl4tlzlpucim3iotan1
 start_date: '2026-01-26T00:00:00-08:00'
 summarized: true

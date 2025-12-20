@@ -50,7 +50,7 @@ location: The Center for Active Living, 4217 SW Oregon St., Seattle, WA, 98116, 
   States
 locations:
 - King County
-source: The Center for Active Living
+organization_title: The Center for Active Living
 source_url: https://wscenter.org/event/aging-well-group-2-2-2/2025-12-22/
 start_date: '2025-12-22T11:00:00-08:00'
 summarized: true

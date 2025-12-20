@@ -144,8 +144,8 @@ images: []
 location: Student Union Building (HUB)
 locations:
 - King County
+organization_title: University of Washington
 published: false
-source: University of Washington
 source_url: http://hub.washington.edu/campus-services/hub-lost-found/
 start_date: '2026-01-07T09:00:00-08:00'
 summarized: true

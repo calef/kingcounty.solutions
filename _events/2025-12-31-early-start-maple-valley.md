@@ -18,7 +18,7 @@ images: []
 location: Maple Valley, Maplevalley, WA, United States
 locations:
 - King County
-source: Indian American Community Services
+organization_title: Indian American Community Services
 source_url: https://iacswa.org/event/early-start-maple-valley-102/
 start_date: '2025-12-31T10:00:00-08:00'
 summarized: true

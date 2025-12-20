@@ -4,8 +4,8 @@ images: []
 location: Auburn Library
 locations:
 - King County
+organization_title: King County Library System
 published: false
-source: King County Library System
 source_url: https://kcls.org/blogs/post/reimagine-library-spaces/
 start_date: '2026-10-01T00:00:00-07:00'
 summarized: true

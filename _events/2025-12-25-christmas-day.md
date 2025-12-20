@@ -273,8 +273,8 @@ images: []
 location: ''
 locations:
 - King County
+organization_title: University of Washington
 published: false
-source: University of Washington
 source_url: https://www.washington.edu/students/reg/2526cal.html#Q3
 start_date: '2025-12-25T00:00:00-08:00'
 summarized: true

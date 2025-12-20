@@ -90,6 +90,7 @@ images: []
 location: Magnuson Health Sciences Center D (HSD)
 locations:
 - King County
+organization_title: University of Washington
 original_source_html: "<header> <div> <div> <div> <a>Department of Laboratory Medicine
   &amp; Pathology, UW Medicine, University of Washington</a> </div> </div> </div>
   </header> <div> <div> <div> <div> <div> <div> <h2>Events &amp; Seminars</h2> </div>
@@ -176,7 +177,6 @@ original_source_html: "<header> <div> <div> <div> <a>Department of Laboratory Me
   Rounds Playlist</a></p> <p> <a>2020-2021 Path Presents Playlist</a></p> </div> </div>
   </div> </div> </div> </div>"
 published: false
-source: University of Washington
 source_url: https://dlmp.uw.edu/seminars/laboratory-medicine-grand-rounds
 start_date: '2026-01-07T15:30:00-08:00'
 summarized: true

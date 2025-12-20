@@ -43,7 +43,7 @@ location: "[IN-PERSON] Cancer Lifeline, 6522 Fremont Ave N, Seattle, 98103, Unit
   States"
 locations:
 - King County
-source: Cancer Lifeline Financial Assistance for Cancer Patients
+organization_title: Cancer Lifeline Financial Assistance for Cancer Patients
 source_url: https://cancerlifeline.org/event/in-person-beneficial-sound-with-gongs-sponsored-by-virginia-mason-franciscan-health-6/
 start_date: '2025-12-20T13:00:00-08:00'
 summarized: true

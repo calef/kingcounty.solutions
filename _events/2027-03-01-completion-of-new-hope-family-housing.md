@@ -4,8 +4,8 @@ images: []
 location: Seattle's Central Area, 114 and 123 21st Ave.
 locations:
 - King County
+organization_title: Low Income Housing Institute
 published: false
-source: Low Income Housing Institute
 source_url: https://www.lihihousing.org/post/new-hope-family-housing-starts-construction
 start_date: '2027-03-01T00:00:00-08:00'
 summarized: true

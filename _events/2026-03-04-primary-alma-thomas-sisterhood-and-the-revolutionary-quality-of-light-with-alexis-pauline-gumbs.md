@@ -68,8 +68,8 @@ images: []
 location: Town Hall Seattle
 locations:
 - King County
+organization_title: University of Washington
 published: false
-source: University of Washington
 source_url: https://www.washington.edu/lectures/events/primary-alma-thomas-sisterhood-and-the-revolutionary-quality-of-light-presented-by-the-office-of-public-lectures/
 start_date: '2026-03-04T18:30:00-08:00'
 summarized: true

@@ -7,8 +7,8 @@ images: []
 location: Webinar
 locations:
 - King County
+organization_title: University of Washington
 published: false
-source: University of Washington
 source_url: https://uwfoster.my.site.com/FosterEvents/s/events-public?eventId=a1wKf00001gMv94
 start_date: '2026-01-27T17:30:00-08:00'
 summarized: true

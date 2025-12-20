@@ -149,8 +149,8 @@ location: Medical Dental Building, 509 Olive Way, Seattle, WA, 98101-1729, Unite
   States
 locations:
 - King County
+organization_title: Dispute Resolution Center of King County
 published: false
-source: Dispute Resolution Center of King County
 source_url: https://kcdrc.org/event/core-part-a-conflict-resolution-skills/
 start_date: '2026-01-05T09:00:00-08:00'
 summarized: true

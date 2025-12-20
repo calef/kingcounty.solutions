@@ -6,8 +6,8 @@ images: []
 location: ''
 locations:
 - King County
+organization_title: The Seattle Public Library
 original_source_html: Various craft events leading up to New Year’s celebrations.
-source: The Seattle Public Library
 source_url: https://blog.spl.org/2025/12/16/winter-break-2025-activities-at-the-seattle-public-library/
 start_date: '2025-12-31T00:00:00-08:00'
 summarized: true

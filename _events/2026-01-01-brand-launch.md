@@ -4,8 +4,8 @@ images: []
 location: ''
 locations:
 - King County
+organization_title: Shoreline Community College
 published: false
-source: Shoreline Community College
 source_url: https://news.shoreline.edu/2025/06/10/shoreline-community-college-announces-name-change-to-shoreline-college/
 start_date: '2026-01-01T00:00:00-08:00'
 summarized: true

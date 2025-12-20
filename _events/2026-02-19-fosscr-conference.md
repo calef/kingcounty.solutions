@@ -7705,8 +7705,8 @@ images: []
 location: ''
 locations:
 - King County
+organization_title: NOSSCR Referral Service
 published: false
-source: NOSSCR Referral Service
 source_url: https://nosscr.org/event/fosscr-conference/
 start_date: '2026-02-19T00:00:00-08:00'
 summarized: true

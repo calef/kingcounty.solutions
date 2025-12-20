@@ -701,6 +701,7 @@ images: []
 location: Northwest Horticultural Society Hall (NHS)
 locations:
 - King County
+organization_title: University of Washington
 original_source_html: "<div> <a>Skip to main content</a> <a>Skip to footer unit links</a>
   </div> <div> <div> <div> <ul> <li> <a>Washington Park Arboretum</a> <ul> <li><a>Washington
   Park Arboretum</a></li> <li> <a>Visit</a> <ul> <li><a>Getting Here</a></li> <li><a>Accessibility</a></li>
@@ -936,7 +937,6 @@ original_source_html: "<div> <a>Skip to main content</a> <a>Skip to footer unit 
   &amp; Announcements</h2> <p>Aiko Yamada, Master’s Graduate Student, Washington State
   University <a>A Bryoflora of the Gifford"
 published: false
-source: University of Washington
 source_url: https://botanicgardens.uw.edu/education/adults/conferences-symposia/wa-botanical-symposium/
 start_date: '2026-03-04T09:00:00-08:00'
 summarized: true

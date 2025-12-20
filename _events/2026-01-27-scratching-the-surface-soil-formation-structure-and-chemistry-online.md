@@ -6,8 +6,8 @@ images: []
 location: Online via Zoom
 locations:
 - King County
+organization_title: University of Washington
 published: false
-source: University of Washington
 source_url: https://apps.ideal-logic.com/uwbg?key=2WSB-TGY2T_K9KH-5PTF_fcd880cec112
 start_date: '2026-01-27T09:00:00-08:00'
 summarized: true
