@@ -11,7 +11,7 @@ The `script/` directory contains lightweight automation used during setup, local
 | `server` | Pulls the latest dependencies (`script/update`) and runs `bundle exec jekyll serve --livereload --host 0.0.0.0`. |
 | `setup` | Removes `_site`, `.jekyll-cache`, and `.jekyll-metadata` to give CI/build scripts a clean slate. |
 | `update` | Runs `script/bootstrap`; use after pulling remote changes to make sure gems are current. |
-| `test` | Invokes `bundle exec rake test` for the mayhem/unit suite without building the site (run `bin/mayhem check-integrity` separately after a build). |
+| `test` | Invokes `bundle exec rake test` for the mayhem/unit suite. |
 
 > Most installers have macOS and Ubuntu paths only. Other platforms should rely on containerized builds or install prerequisites manually.
 
