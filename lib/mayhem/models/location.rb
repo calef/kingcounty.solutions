@@ -13,16 +13,24 @@ module Mayhem
         "_locations/#{slug}.md"
       end
 
-      def title
-        self['title']
-      end
-
       def location_type
         self['type']
       end
 
       def parent_location_title
         self['parent_location_title']
+      end
+
+      def parent_location
+        self.class.find_by(title: parent_location_title)
+      end
+
+      def parent_location?
+        !parent_location.nil?
+      end
+
+      def title
+        self['title']
       end
     end
   end

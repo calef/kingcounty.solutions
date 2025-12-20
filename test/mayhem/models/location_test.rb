@@ -26,4 +26,45 @@ class LocationModelTest < Minitest::Test
       assert_equal 'Test Place', loaded.title
     end
   end
+
+  def test_parent_location_returns_matching_location
+    FMRepo::TestHelpers.with_temp_repo(role: :locations) do
+      parent = Mayhem::Models::Location.create!(
+        { 'title' => 'King County', 'type' => 'County' },
+        body: 'The county.'
+      )
+      child = Mayhem::Models::Location.create!(
+        { 'title' => 'Test Place', 'parent_location_title' => 'King County' },
+        body: 'A test place.'
+      )
+
+      assert_equal parent.id, child.parent_location.id
+      assert_equal 'King County', child.parent_location.title
+      assert child.parent_location?
+    end
+  end
+
+  def test_parent_location_handles_missing_parent
+    FMRepo::TestHelpers.with_temp_repo(role: :locations) do
+      child = Mayhem::Models::Location.create!(
+        { 'title' => 'Solo', 'parent_location_title' => 'Missing' },
+        body: 'A solo place.'
+      )
+
+      assert_nil child.parent_location
+      refute child.parent_location?
+    end
+  end
+
+  def test_parent_location_handles_blank_parent_title
+    FMRepo::TestHelpers.with_temp_repo(role: :locations) do
+      child = Mayhem::Models::Location.create!(
+        { 'title' => 'Solo' },
+        body: 'A solo place.'
+      )
+
+      assert_nil child.parent_location
+      refute child.parent_location?
+    end
+  end
 end
