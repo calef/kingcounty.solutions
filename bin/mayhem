@@ -47,7 +47,7 @@ module Mayhem
         handler: :run_extract_images
       },
       'ingest' => {
-        description: 'Runs import-content, summarize, extract-events, summarize, extract-images, expire',
+        description: 'Runs import-content, summarize, extract-events, summarize, extract-images, expire, check-integrity',
         handler: :run_ingest
       },
       'new-organization' => {
@@ -216,6 +216,7 @@ module Mayhem
         run_summarize([])
         run_extract_images([])
         run_expire([])
+        run_check_integrity([])
       end
 
       def run_new_organization(args)
