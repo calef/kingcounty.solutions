@@ -105,7 +105,7 @@ module Mayhem
               summary_text,
               content_title: front_matter['title'],
               content_location: front_matter['location'],
-              content_source: front_matter['source']
+              content_source: front_matter['organization_title']
             )
             front_matter['locations'] = classified_locations
             document.front_matter = front_matter
@@ -205,7 +205,7 @@ module Mayhem
             summary_text,
             content_title: front_matter['title'],
             content_location: front_matter['location'],
-            content_source: front_matter['source']
+            content_source: front_matter['organization_title']
           )
           front_matter['locations'] = classified_locations
           if classified_locations.empty?

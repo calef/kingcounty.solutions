@@ -35,8 +35,8 @@ images: []
 location: Online (Zoom)
 locations:
 - King County
+organization_title: University of Washington
 published: false
-source: University of Washington
 source_url: https://washington.zoom.us/webinar/register/7517597748194/WN_xeLRhb_yTrC6h-t-REBAcA
 start_date: '2026-01-15T11:00:00-08:00'
 summarized: true

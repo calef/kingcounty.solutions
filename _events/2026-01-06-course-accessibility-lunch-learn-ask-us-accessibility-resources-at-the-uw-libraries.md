@@ -26,7 +26,7 @@ images: []
 location: Zoom, registration required.
 locations:
 - King County
-source: University of Washington
+organization_title: University of Washington
 source_url: https://washington.zoom.us/meeting/register/mRtpUW_XTHK2CAb47jGD5w
 start_date: '2026-01-06T12:00:00-08:00'
 summarized: true

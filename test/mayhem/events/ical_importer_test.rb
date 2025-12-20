@@ -146,7 +146,7 @@ class IcalImporterTest < Minitest::Test
     content = File.read(files.first)
 
     assert_includes content, 'title: Test Event'
-    assert_includes content, 'source: Test Organization'
+    assert_includes content, 'organization_title: Test Organization'
     assert_includes content, "start_date: '2024-02-12T18:00:00+00:00'"
     assert_includes content, "end_date: '2024-02-12T20:00:00+00:00'"
     assert_includes content, 'location: Community Hall'
@@ -165,7 +165,7 @@ class IcalImporterTest < Minitest::Test
       <<~MD
         ---
         title: Locked Event
-        source: Locked Org
+        organization_title: Locked Org
         start_date: '2024-02-12T18:00:00+00:00'
         end_date: '2024-02-12T20:00:00+00:00'
         location: Anywhere

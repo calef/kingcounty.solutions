@@ -37,7 +37,7 @@ images: []
 location: "[ONLINE] Valley Medical Center"
 locations:
 - King County
-source: Cancer Lifeline Financial Assistance for Cancer Patients
+organization_title: Cancer Lifeline Financial Assistance for Cancer Patients
 source_url: https://cancerlifeline.org/event/strengthening-resilience-with-gratitude-sponsored-by-valley-medical-center/
 start_date: '2025-12-20T10:00:00-08:00'
 summarized: true

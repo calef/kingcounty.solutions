@@ -217,8 +217,8 @@ images: []
 location: Meet at the front of Denny Hall
 locations:
 - King County
+organization_title: University of Washington
 published: false
-source: University of Washington
 source_url: https://docs.google.com/forms/d/e/1FAIpQLSfv5BJ87eomEmoIgJl31g_U9-VUBzYRhgHrsT685u5RlHLVyQ/viewform
 start_date: '2026-01-11T13:00:00-08:00'
 summarized: true

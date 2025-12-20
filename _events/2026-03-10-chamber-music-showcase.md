@@ -7,8 +7,8 @@ images: []
 location: Music Building (MUS)
 locations:
 - King County
+organization_title: University of Washington
 published: false
-source: University of Washington
 source_url: https://music.washington.edu/events/2026-03-10/chamber-music-showcase
 start_date: '2026-03-10T14:00:00-07:00'
 summarized: true

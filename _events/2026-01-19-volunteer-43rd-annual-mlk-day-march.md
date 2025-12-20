@@ -36,7 +36,7 @@ images: []
 location: Garfield High School, 400 23rd Ave, Seattle, WA, 98122, United States
 locations:
 - King County
-source: United Way of King County
+organization_title: United Way of King County
 source_url: https://www.uwkc.org/event/volunteer_43rd-annual-mlk-day-march/
 start_date: '2026-01-19T11:45:00-08:00'
 summarized: true

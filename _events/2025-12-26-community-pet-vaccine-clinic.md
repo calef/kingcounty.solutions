@@ -75,8 +75,8 @@ images: []
 location: El Centro de la Raza, 2524 16th Ave S, Seattle, WA, 98144, United States
 locations:
 - King County
+organization_title: El Centro de la Raza
 published: false
-source: El Centro de la Raza
 source_url: https://www.elcentrodelaraza.org/event/community-pet-vaccine-clinic/2025-12-26/
 start_date: '2025-12-26T10:00:00-08:00'
 summarized: true

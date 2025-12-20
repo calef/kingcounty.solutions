@@ -54,8 +54,8 @@ images: []
 location: Town Hall Seattle
 locations:
 - King County
+organization_title: University of Washington
 published: false
-source: University of Washington
 source_url: https://www.washington.edu/lectures/events/americas-character-and-the-rule-of-law-presented-by-the-office-of-public-lectures/
 start_date: '2026-02-25T18:30:00-08:00'
 summarized: true

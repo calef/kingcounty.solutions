@@ -23,6 +23,7 @@ location: ''
 locations:
 - King County
 locked: true
+organization_title: Muslim Association of Puget Sound
 original_source_html: "<!DOCTYPE html>\n<html class=\"html\" lang=\"en-US\">\n<head>\n\t<meta
   charset=\"UTF-8\">\n\t<link rel=\"profile\" href=\"https://gmpg.org/xfn/11\">\n\n\t<title>Urdu
   Class &#x2d; MAPS</title>\n<link rel='stylesheet' id='tribe-events-views-v2-bootstrap-datepicker-styles-css'
@@ -203,7 +204,6 @@ original_source_html: "<!DOCTYPE html>\n<html class=\"html\" lang=\"en-US\">\n<h
   href='https://mapsredmond.org/wp-content/plugins/events-calendar-pro/src/resources/css/tribe-events-pro-mini-calendar-block.min.css?ver=6.3.2'
   media='all' />\n<style id='wp-emoji-styles-inline-css'>\n\n\timg.wp-smiley, img.emoji
   {\n\t"
-source: Muslim Association of Puget Sound
 source_url: https://mapsredmond.org/event/urdu-class-2/2025-12-20/
 start_date: '2025-12-20T11:00:00-08:00'
 summarized: true

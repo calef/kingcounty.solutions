@@ -4,7 +4,7 @@ images: []
 location: ''
 locations:
 - King County
-source: King County Regional Homelessness Authority
+organization_title: King County Regional Homelessness Authority
 source_url: https://kcrha.org/news-volunteer-for-the-2026-point-in-time-count/
 start_date: '2026-01-26T00:00:00-08:00'
 summarized: true

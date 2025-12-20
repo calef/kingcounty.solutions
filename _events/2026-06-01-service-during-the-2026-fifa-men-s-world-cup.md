@@ -4,8 +4,8 @@ images: []
 location: Various locations in King County, WA
 locations:
 - King County
+organization_title: King County Metro Transit
 published: false
-source: King County Metro Transit
 source_url: https://kingcountymetro.blog/2025/11/24/approved-king-county-metros-2026-27-budget-adds-service-invests-in-zero-emissions-safety-and-cleaning/
 start_date: '2026-06-01T00:00:00-08:00'
 summarized: true

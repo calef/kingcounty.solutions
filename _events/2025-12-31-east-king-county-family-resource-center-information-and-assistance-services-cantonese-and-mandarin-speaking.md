@@ -47,6 +47,7 @@ images: []
 location: CISC, 16305 NE 87th St, Suite 123, Redmond, WA, 98052, United States
 locations:
 - King County
+organization_title: Together Center
 original_source_html: "<!DOCTYPE html>\r\n<html lang=\"en-US\">\r\n<head>\r\n<meta
   charset=\"UTF-8\">\r\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\r\n<link
   rel=\"profile\" href=\"https://gmpg.org/xfn/11\">\r\n\r\n<link rel='stylesheet'
@@ -164,7 +165,6 @@ original_source_html: "<!DOCTYPE html>\r\n<html lang=\"en-US\">\r\n<head>\r\n<me
   .menu-toggle-close:focus,#ast-scroll-top:focus,#coupon_code:focus,#ast-coupon-code:focus{border-style:dotted;border-color:inherit;border-width:thin;}input{outline:none;}.site-logo-img
   img{ transition:all 0.2s linear;}body .ast-oembed-container *{position:absolute;top:0;width:100%;height:100%;left:0;}body
   .wp-block-embed-pocket-casts .ast-oembed-container *{position:unse"
-source: Together Center
 source_url: https://togethercenter.org/event/east-king-county-family-resource-center-information-and-assistance-services-cantonese-and-mandarin-speaking/2025-12-31/
 start_date: '2025-12-31T09:00:00-08:00'
 summarized: true

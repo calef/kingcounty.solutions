@@ -92,7 +92,7 @@ Validates every `_posts` and `_events` `source_url`, pruning or deleting entries
 
 #### Purpose
 
-Deletes all events and news posts associated with an organization by finding and removing content where the `source` front matter field matches the specified organization title. Also cleans up associated images and event references.
+Deletes all events and news posts associated with an organization by finding and removing content where the event `organization_title` or post `source` front matter field matches the specified organization title. Also cleans up associated images and event references.
 
 #### Usage
 
@@ -100,7 +100,7 @@ Deletes all events and news posts associated with an organization by finding and
 
 #### Behavior notes
 
-- Finds and deletes all events in `_events/` where the `source` field matches the specified organization title.
+- Finds and deletes all events in `_events/` where the `organization_title` field matches the specified organization title.
 - Finds and deletes all posts in `_posts/` where the `source` field matches the specified organization title.
 - Cleans up associated image metadata in `_images/` and image assets in `assets/images/` when they are no longer referenced by other content.
 - Removes event references from posts when events are deleted (handled by the events pruner).
@@ -182,7 +182,7 @@ Downloads images referenced in each post or event `original_markdown_body`, rena
 - Avoids redownloading the same URL within a run; writes files under `assets/images/<checksum>.webp` (or the original extension when conversion fails).
 - Converts raster image downloads (JPEG/PNG/GIF/BMP/TIFF) into WebP via ImageMagick (`mini_magick` must be bundled and ImageMagick's `magick`/`convert` binary available); non-raster/media or failed conversions leave the original bytes/extension untouched.
 - Skips storing WebP assets whose dimensions fall below `IMAGE_MIN_DIMENSION`, logging a per-post warning and incrementing the run summary's `skipped_small_images` counter.
-- Creates `_images/<checksum>.md` with `checksum`, optional `title` (set only when the image had alt text), `image_url`, `source_url`, and copies `organization_title` (from the originating entry's `source`) plus `date`; appends discovered checksums to an entry's `images` array without removing existing entries.
+- Creates `_images/<checksum>.md` with `checksum`, optional `title` (set only when the image had alt text), `image_url`, `source_url`, and copies `organization_title` plus `date` from the originating entry; appends discovered checksums to an entry's `images` array without removing existing entries.
 - Logs WARN-level issues for missing front matter or failed downloads/conversions, INFO for updates/empty images actions, DEBUG for already-processed posts, and prints a per-run summary when the log level allows it.
 
 ### `bin/mayhem import-content`

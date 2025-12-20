@@ -27,6 +27,7 @@ location: Chamberlain Room
 locations:
 - Seattle
 - South King County
+organization_title: SouthEast Seattle Senior Center
 original_source_html: "<!DOCTYPE html>\n<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><!-->\n<html
   lang=\"en-US\" class=\"no-js\">\n<!--<![endif]-->\n<head>\n\t<meta charset=\"UTF-8\"
   />\n\t\t\t\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1,
@@ -192,7 +193,6 @@ original_source_html: "<!DOCTYPE html>\n<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]><
   !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue)
   !important;}.has-vivid-cyan-blue-border-color{bor"
 published: false
-source: SouthEast Seattle Senior Center
 source_url: https://sessc.org/event/ssug-ukelele-group-3-2/2025-12-19/
 start_date: '2025-12-19T14:00:00-08:00'
 summarized: true

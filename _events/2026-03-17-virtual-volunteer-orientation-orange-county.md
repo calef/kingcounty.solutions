@@ -27,6 +27,7 @@ feed_content_checksum: a68e1724d02518fa5232dadaf09b8dae4c828f65
 images: []
 location: ''
 locations: []
+organization_title: Olive Crest
 original_source_html: "<!doctype html>\n<html dir=\"ltr\" lang=\"en-US\" prefix=\"og:
   https://ogp.me/ns#\" itemscope itemtype=\"http://schema.org/WebPage\">\n<head>\n<meta
   charset=\"UTF-8\">\n<script>\nvar gform;gform||(document.addEventListener(\"gform_main_scripts_loaded\",function(){gform.scriptsLoaded=!0}),document.addEventListener(\"gform/theme/scripts_loaded\",function(){gform.themeScriptsLoaded=!0}),window.addEventListener(\"DOMContentLoaded\",function(){gform.domLoaded=!0}),gform={domLoaded:!1,scriptsLoaded:!1,themeScriptsLoaded:!1,isFormEditor:()=>\"function\"==typeof
@@ -158,7 +159,6 @@ original_source_html: "<!doctype html>\n<html dir=\"ltr\" lang=\"en-US\" prefix=
   p=performance.now();let g;try{return f=t.apply(a,o),g=performance.now(),f}catch(e){throw
   g=performance.now(),i(r+\"err\",[o,a,e],l,d),h=e,h}finally"
 published: false
-source: Olive Crest
 source_url: https://www.olivecrest.org/calendar/virtual-volunteer-orientation-orange-county-11/
 start_date: '2026-03-17T18:30:00-07:00'
 summarized: true

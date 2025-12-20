@@ -94,6 +94,7 @@ feed_content_checksum: 228612c5f4df93944ddacbb6a76e803439749f41
 images: []
 location: Virtual Events @ Antioch University
 locations: []
+organization_title: Antioch University
 original_source_html: "<!DOCTYPE html>\n<html dir=\"ltr\" lang=\"en-US\" prefix=\"og:
   https://ogp.me/ns#\">\n<head>\n\t<meta charset=\"UTF-8\" />\n\t<meta name=\"viewport\"
   content=\"width=device-width, initial-scale=1\" />\n<link rel='stylesheet' id='tribe-events-pro-views-v2-print-css'
@@ -225,7 +226,6 @@ original_source_html: "<!DOCTYPE html>\n<html dir=\"ltr\" lang=\"en-US\" prefix=
   1em}.wp-block-navigation.items-justified-right .wp-block-navigation__container .has-child
   .wp-block-nav"
 published: false
-source: Antioch University
 source_url: https://www.antioch.edu/event/edd-info-session-auo-1-20-26/
 start_date: '2026-01-20T19:30:00-05:00'
 summarized: true

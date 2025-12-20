@@ -4,8 +4,8 @@ images: []
 location: ''
 locations:
 - King County
+organization_title: Disabled American Veterans
 published: false
-source: Disabled American Veterans
 source_url: https://www.dav.org/learn-more/news/2025/the-future-of-dav-belongs-to-those-who-serve/
 start_date: '2026-04-04T00:00:00-07:00'
 summarized: true

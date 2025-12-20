@@ -8,9 +8,9 @@ images: []
 location: Myrtle Beach, South Carolina
 locations:
 - King County
+organization_title: Veterans Affairs Pension Program
 original_source_html: A program that connects transitioning service members, veterans,
   and military spouses with education, mentorship, and community support.
-source: Veterans Affairs Pension Program
 source_url: https://news.va.gov/143919/how-mentorship-helps-veteran-founders-succeed/
 start_date: '2026-02-11T00:00:00-08:00'
 summarized: true

@@ -216,7 +216,7 @@ images: []
 location: ''
 locations:
 - King County
-source: University of Washington
+organization_title: University of Washington
 source_url: https://www.washington.edu/students/reg/2526cal.html#Q2
 start_date: '2026-01-05T00:00:00-08:00'
 summarized: true

@@ -44,7 +44,7 @@ images: []
 location: ''
 locations:
 - King County
-source: University of Washington
+organization_title: University of Washington
 source_url: https://tbi-bh-echo.psychiatry.uw.edu/
 start_date: '2025-12-19T12:00:00-08:00'
 summarized: true

@@ -4,7 +4,7 @@ images: []
 location: Seattle
 locations:
 - King County
-source: Reading Partners Seattle
+organization_title: Reading Partners Seattle
 source_url: https://readingpartners.org/blog/programming-updates-co-and-sv/
 start_date: '2026-01-01T00:00:00-08:00'
 summarized: true

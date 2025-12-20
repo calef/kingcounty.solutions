@@ -14,6 +14,7 @@ images: []
 location: ''
 locations:
 - King County
+organization_title: University of Washington
 original_source_html: "<!doctype html>\n<html xmlns:fb=\"http://ogp.me/ns/fb#\" lang=\"en-US\">\n<head
   prefix=\"og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# zoomvideocall: http://ogp.me/ns/fb/zoomvideocall#\">\n<title>Meeting
   Registration - Zoom</title><script type=\"text/javascript\" nonce=f7Vc5ilSSgqHbSrjgAXI8g
@@ -223,7 +224,6 @@ original_source_html: "<!doctype html>\n<html xmlns:fb=\"http://ogp.me/ns/fb#\" 
   PM Pacific Time (US and Canada) \\n\\nRegister in advance for this meeting:\\nhttps://washington.zoom.us/meeting/register/tJMpce6vrz8sEtR5miKvhsQiXANt6lBORFTu
   \\n\\nAfter registering, you will receive a confirmation email contai"
 published: false
-source: University of Washington
 source_url: https://washington.zoom.us/meeting/register/tJMpce6vrz8sEtR5miKvhsQiXANt6lBORFTu
 start_date: '2026-01-07T14:00:00-08:00'
 summarized: true

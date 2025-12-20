@@ -236,8 +236,8 @@ images: []
 location: Gowen Hall (GWN)
 locations:
 - King County
+organization_title: University of Washington
 published: false
-source: University of Washington
 source_url: https://depts.washington.edu/wisir/events/
 start_date: '2026-03-12T12:00:00-07:00'
 summarized: true

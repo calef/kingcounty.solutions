@@ -86,8 +86,8 @@ images: []
 location: ''
 locations:
 - King County
+organization_title: Angel Flight West
 published: false
-source: Angel Flight West
 source_url: https://angelflightwest.org/event/2026-strategic-planning-retreat/
 start_date: '2026-02-05T00:00:00-08:00'
 summarized: true

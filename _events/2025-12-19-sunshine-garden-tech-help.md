@@ -144,7 +144,7 @@ images: []
 location: Sunshine Garden, 611 S Lane St, Seattle, WA, 98104
 locations:
 - King County
-source: Chinese Information & Service Center
+organization_title: Chinese Information & Service Center
 source_url: https://cisc-seattle.org/event/sunshine-garden-tech-help-4/2025-12-19/
 start_date: '2025-12-19T13:00:00-08:00'
 summarized: true

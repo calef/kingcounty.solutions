@@ -354,8 +354,8 @@ images: []
 location: University Of Washington Tower Building O (UWTO)
 locations:
 - King County
+organization_title: University of Washington
 published: false
-source: University of Washington
 source_url: https://uw.Cloud-CME.com/course/courseoverview?P=5&EID=16608
 start_date: '2026-02-26T07:30:00-08:00'
 summarized: true

@@ -34,8 +34,8 @@ feed_content: <div class="container"> <section id="tribe-events-pg-template" cla
 images: []
 location: ''
 locations: []
+organization_title: Disabled American Veterans
 published: false
-source: Disabled American Veterans
 source_url: https://www.dav.org/events-calendar/virtual-eastern-job-fair-february-24-2026/
 start_date: '2026-02-24T00:00:00-08:00'
 summarized: true

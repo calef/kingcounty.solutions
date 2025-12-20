@@ -7,10 +7,10 @@ images: []
 location: Center for Urban Horticulture Complex (CUH)
 locations:
 - King County
+organization_title: University of Washington
 original_source_html: <div> {"css_file":"/files/ver20251010102854/css/worker.css","login_page":"8ZK9-CS1HF","account":"WGHV-4MQL8","window_id":"wef1a3f8d","o":"2WSB-TGY2T","key":"2WSB-TGY2T_K9KH-5PTF_1571b2ffdecc","js_file":"/files/ver20251219094759/js/worker.js","requested_app":"253KJ-6K95","original_url":"/uwbg?key=2WSB-TGY2T_K9KH-5PTF_1571b2ffdecc","ui":"dynamic","page_mode":"home"}
   </div> <div> <div>Loading </div> </div>
 published: false
-source: University of Washington
 source_url: https://apps.ideal-logic.com/uwbg?key=2WSB-TGY2T_K9KH-5PTF_1571b2ffdecc
 start_date: '2026-03-08T10:00:00-07:00'
 summarized: true

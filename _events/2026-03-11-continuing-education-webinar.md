@@ -7614,8 +7614,8 @@ feed_content_checksum: 5a74974d1701386df40f8c03f30e8ed14402ac12
 images: []
 location: ''
 locations: []
+organization_title: NOSSCR Referral Service
 published: false
-source: NOSSCR Referral Service
 source_url: https://nosscr.org/event/continuing-education-webinar-8/
 start_date: '2026-03-11T15:00:00-04:00'
 summarized: true

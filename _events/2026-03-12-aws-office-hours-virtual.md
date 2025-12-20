@@ -35,8 +35,8 @@ images: []
 location: ''
 locations:
 - King County
+organization_title: University of Washington
 published: false
-source: University of Washington
 source_url: https://washington.zoom.us/j/93221107217
 start_date: '2026-03-12T14:00:00-07:00'
 summarized: true

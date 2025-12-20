@@ -105,7 +105,7 @@ module News
           <<~MD
             ---
             title: Sample Event
-            source: Example Org
+            organization_title: Example Org
             source_url: https://example.org/event
             summarized: true
             original_source_html: "![Event image](https://example.org/event.png)"

@@ -9,8 +9,8 @@ feed_content_checksum: 568a37b1a53bb30977fdb0ad35f824e312e5c00c
 images: []
 location: ''
 locations: []
+organization_title: University of Washington
 published: false
-source: University of Washington
 source_url: https://calendly.com/lwevents-uw/coping-with-the-clouds-at-the-uw-biology-greenh-clone?month=2026-01
 start_date: '2026-01-27T15:00:00-08:00'
 summarized: true

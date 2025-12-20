@@ -119,8 +119,8 @@ images: []
 location: Meany Hall (MNY)
 locations:
 - King County
+organization_title: University of Washington
 published: false
-source: University of Washington
 source_url: https://meanycenter.org/tickets/2026-02/production/baylor-project
 start_date: '2026-02-14T20:00:00-08:00'
 summarized: true

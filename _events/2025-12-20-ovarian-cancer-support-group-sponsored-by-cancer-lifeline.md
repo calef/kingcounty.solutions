@@ -36,8 +36,8 @@ feed_content_checksum: 650715f2fe3c77e04c81bccd0a479872fb7887e3
 images: []
 location: "[ONLINE] Cancer Lifeline"
 locations: []
+organization_title: Cancer Lifeline Financial Assistance for Cancer Patients
 published: false
-source: Cancer Lifeline Financial Assistance for Cancer Patients
 source_url: https://cancerlifeline.org/event/ovarian-cancer-support-group-sponsored-by-cancer-lifeline-4/2025-12-20/
 start_date: '2025-12-20T11:30:00-08:00'
 summarized: true
