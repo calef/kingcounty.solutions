@@ -1,21 +1,20 @@
 ---
-end_date: '2025-12-22T14:00:00-08:00'
+end_date: '2025-12-31T12:00:00-08:00'
 feed_content: '<div> <div> <section> <title>WorkSource Seattle-King County</title>
-  <script>{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/","url":"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/","name":"Spanish
-  Speakers only_Curriculum Vitae - EN L&#205;NEA R&#233;sum&#233; and Cover Letter
-  - WorkSource Seattle-King County","isPartOf":{"@id":"https://www.worksourceskc.org/#website"},"datePublished":"2025-11-25T21:45:03+00:00","description":"Este
-  taller te ensenara sobre c&#243;mo crear un curr&#237;culum vitae (CV) profesional
-  y efectivo. Explica los principales modelos de CV, las claves para","breadcrumb":{"@id":"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/"]}]},{"@type":"BreadcrumbList","@id":"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"Spanish
-  Speakers only_Curriculum Vitae &#8211; EN L&#205;NEA R&#233;sum&#233; and Cover
-  Letter"}]},{"@type":"WebSite","@id":"https://www.worksourceskc.org/#website","url":"https://www.worksourceskc.org/","name":"WorkSource
+  <script>{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://worksourceskc.org/event/online-strategies-for-success-personal-strength-builders-wenatchee-124/","url":"https://worksourceskc.org/event/online-strategies-for-success-personal-strength-builders-wenatchee-124/","name":"Online:
+  Strategies for Success: Personal Strength Builders ( Wenatchee) - WorkSource Seattle-King
+  County","isPartOf":{"@id":"https://www.worksourceskc.org/#website"},"datePublished":"2025-12-02T09:16:55+00:00","dateModified":"2025-12-20T19:33:20+00:00","description":"Personal
+  strength builders &#8211; What makes you shine? Explore the skills it takes for
+  work-place success (and grow the ones you already have)! Learn","breadcrumb":{"@id":"https://worksourceskc.org/event/online-strategies-for-success-personal-strength-builders-wenatchee-124/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://worksourceskc.org/event/online-strategies-for-success-personal-strength-builders-wenatchee-124/"]}]},{"@type":"BreadcrumbList","@id":"https://worksourceskc.org/event/online-strategies-for-success-personal-strength-builders-wenatchee-124/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://www.worksourceskc.org/"},{"@type":"ListItem","position":2,"name":"Events","item":"https://worksourceskc.org/events_list/"},{"@type":"ListItem","position":3,"name":"Online:
+  Strategies for Success: Personal Strength Builders ( Wenatchee)"}]},{"@type":"WebSite","@id":"https://www.worksourceskc.org/#website","url":"https://www.worksourceskc.org/","name":"WorkSource
   Seattle-King County","description":"Let&#039;s find your path together!","publisher":{"@id":"https://www.worksourceskc.org/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.worksourceskc.org/?s={search_term_string}"},"query-input":{"@type":"PropertyValueSpecification","valueRequired":true,"valueName":"search_term_string"}}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://www.worksourceskc.org/#organization","name":"WorkSource
   Seattle-King County","url":"https://www.worksourceskc.org/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://www.worksourceskc.org/#/schema/logo/image/","url":"","contentUrl":"","caption":"WorkSource
-  Seattle-King County"},"image":{"@id":"https://www.worksourceskc.org/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/worksourceskc/"]},{"@type":"Event","name":"Spanish
-  Speakers only_Curriculum Vitae &#8211; EN L&#205;NEA R&#233;sum&#233; and Cover
-  Letter","description":"Este taller te ensenara sobre c&#243;mo crear un curr&#237;culum
-  vitae (CV) profesional y efectivo. Explica los principales modelos de CV,&hellip;","url":"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2025-12-22T13:00:00-08:00","endDate":"2025-12-22T14:00:00-08:00","@id":"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/#event","mainEntityOfPage":{"@id":"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/"}}]}</script>
-  <title>Spanish Speakers only_Curriculum Vitae – EN LÍNEA Résumé and Cover Letter
-  – WorkSource Seattle-King County</title> <a>Skip to main content</a> <header> <div>
+  Seattle-King County"},"image":{"@id":"https://www.worksourceskc.org/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/worksourceskc/"]},{"@type":"Event","name":"Online:
+  Strategies for Success: Personal Strength Builders ( Wenatchee)","description":"Personal
+  strength builders &#8211; What makes you shine? Explore the skills it takes for
+  work-place success (and grow the ones&hellip;","url":"https://worksourceskc.org/event/online-strategies-for-success-personal-strength-builders-wenatchee-124/","eventAttendanceMode":"https://schema.org/OfflineEventAttendanceMode","eventStatus":"https://schema.org/EventScheduled","startDate":"2025-12-29T09:00:00-08:00","endDate":"2025-12-31T12:00:00-08:00","@id":"https://worksourceskc.org/event/online-strategies-for-success-personal-strength-builders-wenatchee-124/#event","mainEntityOfPage":{"@id":"https://worksourceskc.org/event/online-strategies-for-success-personal-strength-builders-wenatchee-124/"}}]}</script>
+  <title>Online: Strategies for Success: Personal Strength Builders ( Wenatchee) –
+  WorkSource Seattle-King County</title> <a>Skip to main content</a> <header> <div>
   <div> <div> <div> <div> <ul> <li><a>Job Board</a></li> </ul> <ul> <li> <a>Staff
   Log-In</a> </li> </ul> </div> </div> <div> <ul> <li> <a>Job Seekers</a> <ul> <li>
   <a>Get Started with Personalized Support</a> <ul> <li><a>Sign Up for Services</a></li>
@@ -30,36 +29,50 @@ feed_content: '<div> <div> <section> <title>WorkSource Seattle-King County</titl
   <li><a>Downtown Seattle</a></li> <li><a>North Seattle</a></li> <li><a>Rainier</a></li>
   <li><a>South Seattle</a></li> </ul> </li> <li><a>About</a></li> </ul> </div> </div>
   </div> </div> </header> <div> <section> <div> <div> <div> <a>Go to Back to Calendar
-  </a> <h1>Spanish Speakers only_Curriculum Vitae – EN LÍNEA Résumé and Cover Letter</h1>
-  <div><p><strong>December 22</strong> Monday | 1:00pm - 2:00pm</p></div> <div> <a>Add
-  to Calendar</a> <span>December 22 1:00pm</span> <span>12/22/2025 2:00pm</span> <span>America/Los_Angeles</span>
-  <span>Spanish Speakers only_Curriculum Vitae – EN LÍNEA Résumé and Cover Letter</span>
-  <span>Este taller te ensenara sobre cómo crear un currículum vitae (CV) profesional
-  y efectivo. Explica los principales modelos de CV,…</span> </div> <div><p>Location:Reunión
-  en línea de Zoom La información del enlace y de la reunión se compartirá por correo
-  electrónico como mínimo 1 hora antes de que comience el taller en línea.</p></div>
-  <p><strong>Contact Name: </strong>Lama Salameh</p> <p><strong>Contact Email: </strong><a>lama@tracassoc.com</a></p>
-  <p><strong>Workshop Language: </strong>Spanish</p> <p><strong>Event Registration:
-  </strong>Sign Up Required</p> <p><a>Sign Up</a></p> <p><strong>Approved Unemployment
-  Insurance (UI) Job Search Activity:</strong> Yes</p> <p><strong>Additional Info:</strong></p>
-  <p>El cliente tendrá que registrarse en WorkSourceWA.com antes de la clase. Este
-  taller se ofrece en línea a través de las reuniones de Zoom.               Cuando
-  se registra en este evento, usa el mismo nombre y dirección de correo electrónico
-  que usa con la cuenta de worksourcewa.com.</p>Si necesita alojamiento para participar
-  en esta capacitación, comuníquese con el facilitador del taller. Indique su nombre,
-  la solicitud de alojamiento y su ciudad de residencia. Envíe su solicitud de alojamiento
-  lo antes posible para que podamos hacer los arreglos necesarios. <strong>Description:</strong><p>Este
-  taller te ensenara sobre cómo crear un currículum vitae (CV) profesional y efectivo.
-  Explica los principales modelos de CV, las claves para su creación, la estructura
-  recomendada, consejos para mejorarlo y errores comunes a evitar. Además, menciona
-  herramientas y plantillas útiles para elaborar CVs impactantes. No te lo pierdas,
-  sera una via muy util para incorporarte al mundo laboral.</p> </div> </div> </div>
+  </a> <h1>Online: Strategies for Success: Personal Strength Builders ( Wenatchee)</h1>
+  <div><p><strong>December 29</strong> Monday | 9:00am - 12:00pm</p></div> <div> <a>Add
+  to Calendar</a> <span>December 29 9:00am</span> <span>12/31/2025 12:00pm</span>
+  <span>America/Los_Angeles</span> <span>Online: Strategies for Success: Personal
+  Strength Builders ( Wenatchee)</span> <span>Personal strength builders – What makes
+  you shine? Explore the skills it takes for work-place success (and grow the ones…</span>
+  </div> <div><p>Zoom Online Meeting: Link and meeting information will be shared
+  by email minimum 1 hour before the online workshop begins* Closed on Thursday. Class
+  will be on Monday, Tuesday, Wednesday and Friday this week9:00 to 12:00</p></div>
+  <p><strong>Room: </strong>Zoom Meeting</p> <p><strong>Contact Name: </strong>Denise
+  Marion</p> <p><strong>Contact Phone: </strong>509-665-3728</p> <p><strong>Contact
+  Email: </strong><a>Denise.marion@esd.wa.gov</a></p> <p><strong>Workshop Language:
+  </strong>English</p> <p><strong>Event Registration: </strong>Sign Up Required</p>
+  <p><a>Sign Up</a></p> <p><strong>Approved Unemployment Insurance (UI) Job Search
+  Activity:</strong> Yes</p> <p><strong>Additional Info:</strong></p> <p>Strategies
+  for Success is a series of life-skills workshops open to everyone. It is flexible
+  and customizable – each workshop module can stand alone or be combined with other
+  modules to provide a personalized experience. Modules can be taken in any order.
+  Each of the six modules is four days long, starting on the first business day of
+  each week.</p> <p>If class registration is full and participants are waitlisted,
+  all registrations (regular and waitlist) will be evaluated according to the following
+  criteria for deferment or acceptance into class:</p> <ol> <li>Program referrals
+  </li> <li>Veterans </li> <li>Continuing or returning students (those working through
+  the series of modules) </li> <li>Repeating students (those who have previously completed
+  the module) </li> <li>Walk-ins (not program-connected)</li> </ol> <p>Please go to
+  WorkSourceWA.com and create a job-seeker account prior to attending the workshop.</p>
+  <p>*If you entered a valid email address, you will receive email updates of any
+  registration or status changes. Remember to check your SPAM folder if you are not
+  receiving emails from us.</p> <p><strong><em>If you need an accommodation to participate
+  in this training, contact Denise Marion 509-665-3728 <a>Denise.marion@esd.wa.gov</a>
+  Washington Relay 711. Please provide your name and accommodation request. Please
+  make your accommodation request as early as possible so arrangements can be made.</em></strong></p>
+  <strong>Description:</strong>Personal strength builders – <em>What makes you shine?
+  Explore the skills it takes for work-place success (and grow the ones you already
+  have)!</em><ul> <li>Learn how to improve your attitude, find motivation, overcome
+  fears, plan for success, improve your situation and create great time management
+  skills </li> <li>Explore how to project self-worth, integrity, flexibility and adaptability
+  </li> <li>Get hold of your finances by forming good spending habits, getting rid
+  of bad behaviors and become financially literate</li> </ul> </div> </div> </div>
   </section> </div> </section> </div> </div>'
-feed_content_checksum: 301d714b3bbf45eebd605f738e1fbe8d6226733b
+feed_content_checksum: e7afd44c8171faaf2d05b6bd5e589f805ed32156
 images: []
 location: ''
-locations:
-- King County
+locations: []
 organization_title: WorkSource Seattle-King County
 original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta charset=\"UTF-8\"
   />\n\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\n<meta
@@ -67,35 +80,34 @@ original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta c
   />\n\t<style>img:is([sizes=\"auto\" i], [sizes^=\"auto,\" i]) { contain-intrinsic-size:
   3000px 1500px }</style>\n\t\n\t<!-- This site is optimized with the Yoast SEO plugin
   v25.7 - https://yoast.com/wordpress/plugins/seo/ -->\n\t<meta name=\"description\"
-  content=\"Este taller te ensenara sobre c&#243;mo crear un curr&#237;culum vitae
-  (CV) profesional y efectivo. Explica los principales modelos de CV, las claves para\"
-  />\n\t<link rel=\"canonical\" href=\"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/\"
+  content=\"Personal strength builders &#8211; What makes you shine? Explore the skills
+  it takes for work-place success (and grow the ones you already have)! Learn\" />\n\t<link
+  rel=\"canonical\" href=\"https://worksourceskc.org/event/online-strategies-for-success-personal-strength-builders-wenatchee-124/\"
   />\n\t<meta property=\"og:locale\" content=\"en_US\" />\n\t<meta property=\"og:type\"
-  content=\"article\" />\n\t<meta property=\"og:title\" content=\"Spanish Speakers
-  only_Curriculum Vitae - EN L&#205;NEA R&#233;sum&#233; and Cover Letter - WorkSource
-  Seattle-King County\" />\n\t<meta property=\"og:description\" content=\"Este taller
-  te ensenara sobre c&#243;mo crear un curr&#237;culum vitae (CV) profesional y efectivo.
-  Explica los principales modelos de CV, las claves para\" />\n\t<meta property=\"og:url\"
-  content=\"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/\"
+  content=\"article\" />\n\t<meta property=\"og:title\" content=\"Online: Strategies
+  for Success: Personal Strength Builders ( Wenatchee) - WorkSource Seattle-King County\"
+  />\n\t<meta property=\"og:description\" content=\"Personal strength builders &#8211;
+  What makes you shine? Explore the skills it takes for work-place success (and grow
+  the ones you already have)! Learn\" />\n\t<meta property=\"og:url\" content=\"https://worksourceskc.org/event/online-strategies-for-success-personal-strength-builders-wenatchee-124/\"
   />\n\t<meta property=\"og:site_name\" content=\"WorkSource Seattle-King County\"
   />\n\t<meta property=\"article:publisher\" content=\"https://www.facebook.com/worksourceskc/\"
+  />\n\t<meta property=\"article:modified_time\" content=\"2025-12-20T19:33:20+00:00\"
   />\n\t<meta name=\"twitter:card\" content=\"summary_large_image\" />\n\t<script
-  type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/\",\"url\":\"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/\",\"name\":\"Spanish
-  Speakers only_Curriculum Vitae - EN L&#205;NEA R&#233;sum&#233; and Cover Letter
-  - WorkSource Seattle-King County\",\"isPartOf\":{\"@id\":\"https://www.worksourceskc.org/#website\"},\"datePublished\":\"2025-11-25T21:45:03+00:00\",\"description\":\"Este
-  taller te ensenara sobre c&#243;mo crear un curr&#237;culum vitae (CV) profesional
-  y efectivo. Explica los principales modelos de CV, las claves para\",\"breadcrumb\":{\"@id\":\"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.worksourceskc.org/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Events\",\"item\":\"https://worksourceskc.org/events_list/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Spanish
-  Speakers only_Curriculum Vitae &#8211; EN L&#205;NEA R&#233;sum&#233; and Cover
-  Letter\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://www.worksourceskc.org/#website\",\"url\":\"https://www.worksourceskc.org/\",\"name\":\"WorkSource
+  type=\"application/ld+json\" class=\"yoast-schema-graph\">{\"@context\":\"https://schema.org\",\"@graph\":[{\"@type\":\"WebPage\",\"@id\":\"https://worksourceskc.org/event/online-strategies-for-success-personal-strength-builders-wenatchee-124/\",\"url\":\"https://worksourceskc.org/event/online-strategies-for-success-personal-strength-builders-wenatchee-124/\",\"name\":\"Online:
+  Strategies for Success: Personal Strength Builders ( Wenatchee) - WorkSource Seattle-King
+  County\",\"isPartOf\":{\"@id\":\"https://www.worksourceskc.org/#website\"},\"datePublished\":\"2025-12-02T09:16:55+00:00\",\"dateModified\":\"2025-12-20T19:33:20+00:00\",\"description\":\"Personal
+  strength builders &#8211; What makes you shine? Explore the skills it takes for
+  work-place success (and grow the ones you already have)! Learn\",\"breadcrumb\":{\"@id\":\"https://worksourceskc.org/event/online-strategies-for-success-personal-strength-builders-wenatchee-124/#breadcrumb\"},\"inLanguage\":\"en-US\",\"potentialAction\":[{\"@type\":\"ReadAction\",\"target\":[\"https://worksourceskc.org/event/online-strategies-for-success-personal-strength-builders-wenatchee-124/\"]}]},{\"@type\":\"BreadcrumbList\",\"@id\":\"https://worksourceskc.org/event/online-strategies-for-success-personal-strength-builders-wenatchee-124/#breadcrumb\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://www.worksourceskc.org/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Events\",\"item\":\"https://worksourceskc.org/events_list/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Online:
+  Strategies for Success: Personal Strength Builders ( Wenatchee)\"}]},{\"@type\":\"WebSite\",\"@id\":\"https://www.worksourceskc.org/#website\",\"url\":\"https://www.worksourceskc.org/\",\"name\":\"WorkSource
   Seattle-King County\",\"description\":\"Let&#039;s find your path together!\",\"publisher\":{\"@id\":\"https://www.worksourceskc.org/#organization\"},\"potentialAction\":[{\"@type\":\"SearchAction\",\"target\":{\"@type\":\"EntryPoint\",\"urlTemplate\":\"https://www.worksourceskc.org/?s={search_term_string}\"},\"query-input\":{\"@type\":\"PropertyValueSpecification\",\"valueRequired\":true,\"valueName\":\"search_term_string\"}}],\"inLanguage\":\"en-US\"},{\"@type\":\"Organization\",\"@id\":\"https://www.worksourceskc.org/#organization\",\"name\":\"WorkSource
   Seattle-King County\",\"url\":\"https://www.worksourceskc.org/\",\"logo\":{\"@type\":\"ImageObject\",\"inLanguage\":\"en-US\",\"@id\":\"https://www.worksourceskc.org/#/schema/logo/image/\",\"url\":\"\",\"contentUrl\":\"\",\"caption\":\"WorkSource
-  Seattle-King County\"},\"image\":{\"@id\":\"https://www.worksourceskc.org/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/worksourceskc/\"]},{\"@type\":\"Event\",\"name\":\"Spanish
-  Speakers only_Curriculum Vitae &#8211; EN L&#205;NEA R&#233;sum&#233; and Cover
-  Letter\",\"description\":\"Este taller te ensenara sobre c&#243;mo crear un curr&#237;culum
-  vitae (CV) profesional y efectivo. Explica los principales modelos de CV,&hellip;\",\"url\":\"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/\",\"eventAttendanceMode\":\"https://schema.org/OfflineEventAttendanceMode\",\"eventStatus\":\"https://schema.org/EventScheduled\",\"startDate\":\"2025-12-22T13:00:00-08:00\",\"endDate\":\"2025-12-22T14:00:00-08:00\",\"@id\":\"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/#event\",\"mainEntityOfPage\":{\"@id\":\"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/\"}}]}</script>\n\t<!--
-  / Yoast SEO plugin. -->\n\n\n<title>Spanish Speakers only_Curriculum Vitae - EN
-  L&#205;NEA R&#233;sum&#233; and Cover Letter - WorkSource Seattle-King County</title>\n<link
-  rel='dns-prefetch' href='//worksourceskc.org' />\n<link rel='dns-prefetch' href='//connect.facebook.net'
+  Seattle-King County\"},\"image\":{\"@id\":\"https://www.worksourceskc.org/#/schema/logo/image/\"},\"sameAs\":[\"https://www.facebook.com/worksourceskc/\"]},{\"@type\":\"Event\",\"name\":\"Online:
+  Strategies for Success: Personal Strength Builders ( Wenatchee)\",\"description\":\"Personal
+  strength builders &#8211; What makes you shine? Explore the skills it takes for
+  work-place success (and grow the ones&hellip;\",\"url\":\"https://worksourceskc.org/event/online-strategies-for-success-personal-strength-builders-wenatchee-124/\",\"eventAttendanceMode\":\"https://schema.org/OfflineEventAttendanceMode\",\"eventStatus\":\"https://schema.org/EventScheduled\",\"startDate\":\"2025-12-29T09:00:00-08:00\",\"endDate\":\"2025-12-31T12:00:00-08:00\",\"@id\":\"https://worksourceskc.org/event/online-strategies-for-success-personal-strength-builders-wenatchee-124/#event\",\"mainEntityOfPage\":{\"@id\":\"https://worksourceskc.org/event/online-strategies-for-success-personal-strength-builders-wenatchee-124/\"}}]}</script>\n\t<!--
+  / Yoast SEO plugin. -->\n\n\n<title>Online: Strategies for Success: Personal Strength
+  Builders ( Wenatchee) - WorkSource Seattle-King County</title>\n<link rel='dns-prefetch'
+  href='//worksourceskc.org' />\n<link rel='dns-prefetch' href='//connect.facebook.net'
   />\n<link rel='dns-prefetch' href='//static.addtoany.com' />\n<link rel='dns-prefetch'
   href='//ajax.googleapis.com' />\n<link rel='dns-prefetch' href='//maps.googleapis.com'
   />\n<link rel='dns-prefetch' href='//www.googletagmanager.com' />\n<link rel='dns-prefetch'
@@ -106,8 +118,8 @@ original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta c
   />\n<link rel=\"alternate\" type=\"text/calendar\" title=\"WorkSource Seattle-King
   County &raquo; iCal Feed\" href=\"https://worksourceskc.org/events_list/?ical=1\"
   />\n<link rel=\"alternate\" type=\"application/rss+xml\" title=\"WorkSource Seattle-King
-  County &raquo; Spanish Speakers only_Curriculum Vitae &#8211; EN L&#205;NEA R&#233;sum&#233;
-  and Cover Letter Comments Feed\" href=\"https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/feed/\"
+  County &raquo; Online: Strategies for Success: Personal Strength Builders ( Wenatchee)
+  Comments Feed\" href=\"https://worksourceskc.org/event/online-strategies-for-success-personal-strength-builders-wenatchee-124/feed/\"
   />\n\t\t<!-- This site uses the Google Analytics by MonsterInsights plugin v8.7.0
   - Using Analytics tracking - https://www.monsterinsights.com/ -->\n\t\t\t\t\t\t\t<script
   src=\"//www.googletagmanager.com/gtag/js?id=G-LT415XR2H3\"  data-cfasync=\"false\"
@@ -204,18 +216,18 @@ original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta c
   :where(p.has-background){padding:1.25em 2.375em}:where(p.has-text-color:not(.has-link-color))
   a{color:inherit}p.has-text-align-left[style*=\"writing-mode:vertical-lr\"],p.has-text-align-right[style*=\"writing-mode:vertical-rl\"]{rotate:180deg}\n</style>\n<link
   rel=\"https://api.w.org/\" href=\"https://worksourceskc.org/wp-json/\" /><link rel=\"alternate\"
-  title=\"JSON\" type=\"application/json\" href=\"https://worksourceskc.org/wp-json/wp/v2/tribe_events/362592\"
+  title=\"JSON\" type=\"application/json\" href=\"https://worksourceskc.org/wp-json/wp/v2/tribe_events/376637\"
   /><link rel=\"EditURI\" type=\"application/rsd+xml\" title=\"RSD\" href=\"https://worksourceskc.org/xmlrpc.php?rsd\"
-  />\n<link rel='shortlink' href='https://worksourceskc.org/?p=362592' />\n<link rel=\"alternate\"
-  title=\"oEmbed (JSON)\" type=\"application/json+oembed\" href=\"https://worksourceskc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fworksourceskc.org%2Fevent%2Fspanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077%2F\"
-  />\n<link rel=\"alternate\" title=\"oEmbed (XML)\" type=\"text/xml+oembed\" href=\"https://worksourceskc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fworksourceskc.org%2Fevent%2Fspanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077%2F&#038;format=xml\"
+  />\n<link rel='shortlink' href='https://worksourceskc.org/?p=376637' />\n<link rel=\"alternate\"
+  title=\"oEmbed (JSON)\" type=\"application/json+oembed\" href=\"https://worksourceskc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fworksourceskc.org%2Fevent%2Fonline-strategies-for-success-personal-strength-builders-wenatchee-124%2F\"
+  />\n<link rel=\"alternate\" title=\"oEmbed (XML)\" type=\"text/xml+oembed\" href=\"https://worksourceskc.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fworksourceskc.org%2Fevent%2Fonline-strategies-for-success-personal-strength-builders-wenatchee-124%2F&#038;format=xml\"
   />\n<script type=\"text/javascript\" src=\"https://www.bugherd.com/sidebarv2.js?apikey=kzhpjsbdgxin5llwmvzeeg\"
   async=\"true\"></script><!-- Custom Facebook Feed JS vars -->\n<script type=\"text/javascript\">\nvar
   cffsiteurl = \"https://worksourceskc.org/wp-content/plugins\";\nvar cffajaxurl =
   \"https://worksourceskc.org/wp-admin/admin-ajax.php\";\n\n\nvar cfflinkhashtags
   = \"false\";\n</script>\n<meta name=\"generator\" content=\"Site Kit by Google 1.153.0\"
   /><meta name=\"tec-api-version\" content=\"v1\"><meta name=\"tec-api-origin\" content=\"https://worksourceskc.org\"><link
-  rel=\"alternate\" href=\"https://worksourceskc.org/wp-json/tribe/events/v1/events/362592\"
+  rel=\"alternate\" href=\"https://worksourceskc.org/wp-json/tribe/events/v1/events/376637\"
   /><script type=\"importmap\" id=\"wp-importmap\">\n{\"imports\":{\"@wordpress\\/interactivity\":\"https:\\/\\/worksourceskc.org\\/wp-includes\\/js\\/dist\\/script-modules\\/interactivity\\/index.min.js?ver=55aebb6e0a16726baffb\"}}\n</script>\n<script
   type=\"module\" src=\"https://worksourceskc.org/wp-includes/js/dist/script-modules/block-library/navigation/view.min.js?ver=61572d447d60c0aa5240\"
   id=\"@wordpress/block-library/navigation/view-js-module\"></script>\n<link rel=\"modulepreload\"
@@ -248,13 +260,15 @@ original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta c
   0;.add-to-cart-quantity{padding:8px 0 8px 8px;background:#eaeaea;width:32px;border-radius:4px
   0 0 4px;height:18px;min-height:unset;display:inline-block;font-size:13px;line-height:normal}.add-to-cart-button{padding:8px;border-radius:4px;background:#6246d7;color:white;height:18px;min-height:unset;display:block;text-align:center;min-width:90px;font-size:13px;line-height:normal;&.add-to-cart-variable{border-radius:4px}&.loading{content:url(\"data:image/svg+xml,%3Csvg
   width='38' height='38' viewBox='0 0 38 38' xmlns='http://www.w3.org/2000/svg' stroke='%23fff'%3E%3Cg
-  fill='none' fill-rule='evenodd'%3E%3Cg transform='translate(1 1)"
-source_url: https://worksourceskc.org/event/spanish-speakers-only_curriculum-vitae-en-lnea-rsum-and-cover-letter-1077/
-start_date: '2025-12-22T13:00:00-08:00'
+  fill='none' fill-rule='evenodd'%3E%3Cg transform='translate(1 1)' stroke-width='2'%3E%3Ccircle
+  stroke-opacity='.5' cx='18'"
+published: false
+source_url: https://worksourceskc.org/event/online-strategies-for-success-personal-strength-builders-wenatchee-124/
+start_date: '2025-12-29T09:00:00-08:00'
 summarized: true
-title: Spanish Speakers only_Curriculum Vitae - EN LÍNEA Résumé and Cover Letter
+title: 'Online: Strategies for Success: Personal Strength Builders ( Wenatchee)'
 topics:
 - Employment & Job Support
 ---
 
-Join WorkSource Seattle-King County for a Spanish-speaking workshop focused on creating effective résumés and cover letters. Attendees will learn essential tips and strategies to enhance their job application materials, tailored specifically for Spanish speakers. This event will take place on Dec. 22, 2025, starting at 1 p.m. Participants can expect an interactive session that will help them stand out in the job market. Don't miss this opportunity to improve your professional documents and boost your career prospects.
+Join WorkSource Seattle-King County for an online workshop titled "Strategies for Success: Personal Strength Builders" on Dec. 29, 2025, starting at 9 a.m. This event is designed to help attendees identify and develop their personal strengths, equipping them with practical strategies to enhance their professional and personal lives. Participants can expect interactive discussions and valuable insights aimed at building resilience and confidence. Don’t miss this opportunity to empower yourself and network with others in the Wenatchee community.
