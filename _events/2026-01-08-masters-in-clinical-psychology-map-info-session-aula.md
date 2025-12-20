@@ -94,6 +94,7 @@ images: []
 location: Virtual Events @ Antioch University
 locations:
 - King County
+published: false
 source: Antioch University
 source_url: https://www.antioch.edu/event/masters-in-clinical-psychology-map-info-session-aula-1-8-26/
 start_date: '2026-01-08T17:00:00-08:00'
