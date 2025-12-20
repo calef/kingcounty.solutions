@@ -1,5 +1,5 @@
 ---
-parent_location: South King County
+parent_location_title: South King County
 title: Renton
 type: City
 ---
