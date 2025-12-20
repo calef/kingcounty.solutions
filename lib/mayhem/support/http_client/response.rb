@@ -1,0 +1,133 @@
+# frozen_string_literal: true
+
+require 'time'
+require 'uri'
+require_relative '../url_utils'
+
+module Mayhem
+  module Support
+    class HttpClient
+      # Handles HTTP response processing and redirect following
+      class Response
+        def initialize(request:, max_redirects:, logger:)
+          @request = request
+          @max_redirects = max_redirects
+          @logger = logger
+        end
+
+        def fetch_with_redirects(url, accept, max_bytes, origin_url:, operation:)
+          perform_request(url, accept, max_bytes, @max_redirects, origin_url: origin_url, operation: operation)
+        end
+
+        def resolve_head_redirects(uri, origin_url:, operation:)
+          follow_head_redirect(uri, @max_redirects, origin_url: origin_url, operation: operation)
+        end
+
+        private
+
+        def perform_request(url, accept, max_bytes, remaining_redirects, origin_url:, operation:)
+          uri = URI.parse(url)
+          response, body = @request.execute_get(uri, accept, max_bytes, operation: operation)
+          status_code = response.code.to_i
+
+          if response.is_a?(Net::HTTPRedirection)
+            return follow_redirect(
+              response,
+              uri,
+              accept,
+              max_bytes,
+              remaining_redirects,
+              origin_url: origin_url,
+              operation: operation
+            )
+          end
+
+          raise_too_many_requests(response, uri, origin_url: origin_url, operation: operation) if status_code == 429
+          raise NotFoundError.new(url: uri.to_s, origin_url: origin_url, operation: operation, status: status_code) if status_code == 404
+
+          raise OpenURI::HTTPError.new("#{response.code} #{response.message} for #{uri}", response) unless response.is_a?(Net::HTTPSuccess)
+
+          [
+            response,
+            {
+              body: body,
+              content_type: response['content-type'],
+              final_url: uri.to_s
+            }
+          ]
+        end
+
+        def follow_redirect(response, uri, accept, max_bytes, remaining_redirects, origin_url:, operation:)
+          raise 'Too many redirects' if remaining_redirects <= 0
+
+          location = response['location']
+          raise 'Redirect missing location header' unless location
+
+          new_url = Mayhem::Support::UrlUtils.absolutize(uri.to_s, location) || location
+          perform_request(
+            new_url,
+            accept,
+            max_bytes,
+            remaining_redirects - 1,
+            origin_url: origin_url,
+            operation: operation
+          )
+        end
+
+        def follow_head_redirect(uri, remaining_redirects, origin_url:, operation:)
+          response = @request.execute_head(uri, operation: operation)
+          status_code = response&.code&.to_i
+          raise_too_many_requests(response, uri, origin_url: origin_url, operation: operation) if status_code == 429
+
+          if response.is_a?(Net::HTTPRedirection)
+            raise 'Too many redirects' if remaining_redirects <= 0
+
+            location = response['location']
+            return { url: uri.to_s, status: status_code } unless location
+
+            new_url = Mayhem::Support::UrlUtils.absolutize(uri.to_s, location) || location
+            new_uri = URI.parse(new_url)
+            follow_head_redirect(
+              new_uri,
+              remaining_redirects - 1,
+              origin_url: origin_url,
+              operation: operation
+            )
+          else
+            { url: uri.to_s, status: status_code }
+          end
+        end
+
+        def raise_too_many_requests(response, uri, origin_url:, operation:)
+          wait = too_many_requests_delay(response)
+          raise TooManyRequestsError.new(
+            url: uri.to_s,
+            retry_after: wait,
+            origin_url: origin_url,
+            operation: operation
+          )
+        end
+
+        def too_many_requests_delay(response)
+          header = response&.[]('retry-after')
+          parsed = parse_retry_after(header)
+          wait = parsed || 60
+          wait = 60 if wait <= 0
+          wait
+        end
+
+        def parse_retry_after(value)
+          return nil unless value
+
+          if value.match?(/\A\d+\z/)
+            value.to_i
+          else
+            (Time.httpdate(value) - Time.now).ceil
+          end
+        rescue ArgumentError
+          nil
+        end
+      end
+    end
+  end
+end
