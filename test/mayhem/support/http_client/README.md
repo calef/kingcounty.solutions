@@ -5,6 +5,7 @@ This directory contains unit tests for individual components of the `HttpClient`
 ## Test Structure
 
 ### Integration Tests
+
 - `../http_client_test.rb` - Tests for the public API of HttpClient
   - `fetch()` - Fetching content with retries
   - `resolve_final_url()` - Resolving canonical URLs via HEAD requests
@@ -14,6 +15,7 @@ This directory contains unit tests for individual components of the `HttpClient`
 ### Unit Tests
 
 #### `request_test.rb`
+
 Tests for request building and execution:
 - Building GET and HEAD requests with proper headers
 - Executing HTTP and HTTPS requests  
@@ -21,6 +23,7 @@ Tests for request building and execution:
 - Request retry logic for SSL errors
 
 #### `response_test.rb`
+
 Tests for response handling:
 - Following HTTP redirects (301, 302, etc.)
 - Parsing `Retry-After` headers (numeric and HTTP date formats)
@@ -30,6 +33,7 @@ Tests for response handling:
 - URL absolutization for relative redirects
 
 #### `response_body_reader_test.rb`
+
 Tests for reading response bodies:
 - Reading full response body when no limit is set
 - Limiting response body to `max_bytes`
@@ -38,6 +42,7 @@ Tests for reading response bodies:
 - Respecting byte boundaries (not character boundaries)
 
 #### `operation_delay_manager_test.rb`
+
 Tests for operation delay management:
 - Normalizing delay configuration (host-specific delays per operation)
 - Applying delays between requests to the same host for the same operation
