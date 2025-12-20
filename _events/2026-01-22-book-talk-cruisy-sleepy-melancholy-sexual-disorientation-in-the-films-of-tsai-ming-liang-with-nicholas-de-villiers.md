@@ -7,8 +7,8 @@ images: []
 location: Thomson Hall (THO)
 locations:
 - King County
+organization_title: University of Washington
 published: false
-source: University of Washington
 source_url: https://www.ticketleap.events/tickets/uwtaiwanstudies/cruisy-sleepy-melancholy-sexual-disorientation-in-the-films-of-tsai-ming-lian-with-nicholas-de-villiers
 start_date: '2026-01-22T15:30:00-08:00'
 summarized: true

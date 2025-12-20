@@ -8,8 +8,8 @@ images: []
 location: Zoom
 locations:
 - King County
+organization_title: University of Washington
 published: false
-source: University of Washington
 source_url: https://ischool.uw.edu/programs/mlis
 start_date: '2026-01-15T11:00:00-08:00'
 summarized: true

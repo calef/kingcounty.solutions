@@ -37,7 +37,7 @@ location: Advocate Office @ Together Center, 16305 NE 87th S Suite 111, Redmond,
   98052, United States
 locations:
 - King County
-source: Together Center
+organization_title: Together Center
 source_url: https://togethercenter.org/event/advocate-office-together-center-city-of-redmond-homeless-outreach-2/2025-12-23/
 start_date: '2025-12-23T13:00:00-08:00'
 summarized: true

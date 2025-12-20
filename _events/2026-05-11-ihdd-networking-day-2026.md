@@ -8,10 +8,10 @@ images: []
 location: University of Washington South Campus Center
 locations:
 - King County
+organization_title: Institute on Human Development and Disability
 original_source_html: An event focusing on connection, learning, and collaboration
   in the field of human development and disability, featuring lightning talks, poster
   presentations, and networking opportunities.
-source: Institute on Human Development and Disability
 source_url: https://ihdd.org/2025/12/15/save-the-date-ihdd-networking-day-2026/
 start_date: '2026-05-11T09:00:00-07:00'
 summarized: true

@@ -45,7 +45,7 @@ images: []
 location: 1218 NE Campus Parkway (ELM-HALL)
 locations:
 - King County
-source: University of Washington
+organization_title: University of Washington
 source_url: https://wellbeing.uw.edu/livewell/health-ed/body/
 start_date: '2026-01-24T10:00:00-08:00'
 summarized: true

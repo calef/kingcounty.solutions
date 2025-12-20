@@ -19,6 +19,7 @@ images: []
 location: Plant Services Building (PSB)
 locations:
 - King County
+organization_title: University of Washington
 original_source_html: 'Event interval: Single day event Campus location: Plant Services
   Building (PSB) Accessibility Contact: surplus@uw.edu Event Types: Special Events
   Facebook: https://www.facebook.com/uwsurplus Twitter: https://twitter.com/UWSurplus
@@ -34,7 +35,6 @@ original_source_html: 'Event interval: Single day event Campus location: Plant S
   auctions. We receive new inventory every day, so our stock is always changing. If
   you''d like to get a preview of new items, you can sign up for our newsletter: https://facilities.uw.edu/uw-surplus/newsletter-signup.'
 published: false
-source: University of Washington
 source_url: https://www.washington.edu/www.uwsurplus.com
 start_date: '2025-12-24T10:00:00-08:00'
 summarized: true

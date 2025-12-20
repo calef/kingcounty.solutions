@@ -4,8 +4,8 @@ images: []
 location: ''
 locations:
 - King County
+organization_title: City of Carnation
 published: false
-source: City of Carnation
 source_url: https://www.carnationwa.gov/scholarship-nomination-opportunity/
 start_date: '2026-05-01T00:00:00-08:00'
 summarized: true

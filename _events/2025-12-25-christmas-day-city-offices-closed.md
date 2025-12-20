@@ -20,8 +20,8 @@ images: []
 location: WA
 locations:
 - King County
+organization_title: City of Tukwila
 published: false
-source: City of Tukwila
 source_url: https://www.tukwilawa.gov/event/christmas-day-city-offices-closed-2/
 start_date: '2025-12-25T08:00:00-08:00'
 summarized: true

@@ -4,7 +4,7 @@ images: []
 location: ''
 locations:
 - Snoqualmie Valley
-source: Sno-Valley Senior Center
+organization_title: Sno-Valley Senior Center
 source_url: https://snovalleysenior.org/december-2025-directors-letter/
 start_date: '2026-01-28T18:00:00-08:00'
 summarized: true

@@ -26,7 +26,7 @@ images: []
 location: Zoom
 locations:
 - King County
-source: University of Washington
+organization_title: University of Washington
 source_url: https://washington.zoom.us/meeting/register/vKZqrJxdTh6CV_B47owlSQ
 start_date: '2026-02-11T15:00:00-08:00'
 summarized: true

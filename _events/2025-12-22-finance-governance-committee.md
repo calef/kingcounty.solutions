@@ -41,8 +41,8 @@ images: []
 location: Hybrid – Virtual/Onsite, United States
 locations:
 - King County
+organization_title: City of Tukwila
 published: false
-source: City of Tukwila
 source_url: https://www.tukwilawa.gov/event/finance-governance-committee-6/2025-12-22/
 start_date: '2025-12-22T17:30:00-08:00'
 summarized: true

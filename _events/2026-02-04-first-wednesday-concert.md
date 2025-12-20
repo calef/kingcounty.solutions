@@ -10,8 +10,8 @@ images: []
 location: Allen Library (ALB)
 locations:
 - King County
+organization_title: University of Washington
 published: false
-source: University of Washington
 source_url: https://music.washington.edu/events/2022-11-02/first-wednesday-concert-series-students-uw-school-music
 start_date: '2026-02-04T12:30:00-08:00'
 summarized: true

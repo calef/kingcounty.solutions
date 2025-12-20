@@ -8,8 +8,8 @@ images: []
 location: Music Building (MUS)
 locations:
 - King County
+organization_title: University of Washington
 published: false
-source: University of Washington
 source_url: https://music.washington.edu/events/2026-02-19/jazz-innovations-ii
 start_date: '2026-02-19T19:30:00-08:00'
 summarized: true

@@ -6,8 +6,8 @@ images: []
 location: Southwest Branch
 locations:
 - King County
+organization_title: The Seattle Public Library
 original_source_html: A celebration event for families.
-source: The Seattle Public Library
 source_url: https://blog.spl.org/2025/12/16/winter-break-2025-activities-at-the-seattle-public-library/
 start_date: '2025-12-29T00:00:00-08:00'
 summarized: true

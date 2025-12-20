@@ -38,6 +38,7 @@ images: []
 location: WA
 locations:
 - King County
+organization_title: Together Center
 original_source_html: "<!DOCTYPE html>\r\n<html lang=\"en-US\">\r\n<head>\r\n<meta
   charset=\"UTF-8\">\r\n<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\r\n<link
   rel=\"profile\" href=\"https://gmpg.org/xfn/11\">\r\n\r\n<link rel='stylesheet'
@@ -173,7 +174,6 @@ original_source_html: "<!DOCTYPE html>\r\n<html lang=\"en-US\">\r\n<head>\r\n<me
   {padding-left: 0;padding-right: 0;}}@media (max-width:768.9px){#ast-desktop-header{display:none;}}@media
   (min-width:769px){#ast-mobile-header{display:none;}}@media( max-width: 420px ) {.single
   .nav-links .nav-previous,.single .nav-links .nav-next {width: 100%;text-align: center;}}.wp-block-buttons."
-source: Together Center
 source_url: https://togethercenter.org/event/essentials-first-redmond-distribution-location/2025-12-30/
 start_date: '2025-12-30T10:00:00-08:00'
 summarized: true

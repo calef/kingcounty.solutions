@@ -98,8 +98,8 @@ images: []
 location: Virtual Events @ Antioch University
 locations:
 - King County
+organization_title: Antioch University
 published: false
-source: Antioch University
 source_url: https://www.antioch.edu/event/sex-education-sex-therapy-info-session-aus-1-29-26/
 start_date: '2026-01-29T17:45:00-08:00'
 summarized: true

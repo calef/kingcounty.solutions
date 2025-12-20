@@ -3,8 +3,8 @@ generated_from_post: true
 images: []
 locations: []
 locked: true
+organization_title: Department of Health
 published: false
-source: Department of Health
 source_url: https://doh.wa.gov/newsroom/department-health-issues-statement-charges-license-home-services-facility
 start_date: '2025-12-30T00:00:00-08:00'
 summarized: true

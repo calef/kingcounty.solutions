@@ -409,7 +409,7 @@ images: []
 location: South Lake Union Administration (Slu Building C) (SLC)
 locations:
 - King County
-source: University of Washington
+organization_title: University of Washington
 source_url: https://uw.Cloud-CME.com/course/courseoverview?P=5&EID=13842
 start_date: '2026-01-30T08:00:00-08:00'
 summarized: true

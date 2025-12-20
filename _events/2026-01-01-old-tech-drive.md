@@ -4,8 +4,8 @@ images: []
 location: ''
 locations:
 - King County
+organization_title: City of Seattle
 published: false
-source: City of Seattle
 source_url: https://techtalk.seattle.gov/2025/11/20/seattle-its-old-tech-drive-a-smashing-success/
 start_date: '2026-01-01T00:00:00-08:00'
 summarized: true

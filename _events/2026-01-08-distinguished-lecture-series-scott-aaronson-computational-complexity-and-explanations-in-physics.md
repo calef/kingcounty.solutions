@@ -40,6 +40,7 @@ images: []
 location: Gates Center (CSE2), G20 | Amazon Auditorium
 locations:
 - King County
+organization_title: University of Washington
 original_source_html: "<!doctype html>\n<html lang=\"en-US\" class=\"no-js\">\n<head>\n\t<meta
   charset=\"UTF-8\">\n\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1,
   minimum-scale=1\">\n\t<link rel=\"shortcut icon\" href=\"https://www.cs.washington.edu/wp-content/themes/uw_wp_theme/favicon.ico\">\n\t<link
@@ -210,7 +211,6 @@ original_source_html: "<!doctype html>\n<html lang=\"en-US\" class=\"no-js\">\n<
   var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background:
   var(-"
 published: false
-source: University of Washington
 source_url: https://www.cs.washington.edu/news-events/event-details/
 start_date: '2026-01-08T15:30:00-08:00'
 summarized: true

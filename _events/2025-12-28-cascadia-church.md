@@ -16,8 +16,8 @@ images: []
 location: ''
 locations:
 - King County
+organization_title: Federal Way Senior Center
 published: false
-source: Federal Way Senior Center
 source_url: https://federalwayseniorcenter.org/event/cascadia-church/2025-12-28/
 start_date: '2025-12-28T09:00:00-08:00'
 summarized: true

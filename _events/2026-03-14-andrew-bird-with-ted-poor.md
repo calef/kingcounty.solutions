@@ -45,6 +45,7 @@ images: []
 location: Meany Hall (MNY)
 locations:
 - King County
+organization_title: University of Washington
 original_source_html: "<!DOCTYPE html>\n  <!--[if IEMobile 7]><html class=\"no-js
   ie iem7\" lang=\"en\" dir=\"ltr\"><![endif]-->\n  <!--[if lte IE 6]><html class=\"no-js
   ie lt-ie9 lt-ie8 lt-ie7\" lang=\"en\" dir=\"ltr\"><![endif]-->\n  <!--[if (IE 7)&(!IEMobile)]><html
@@ -216,7 +217,6 @@ original_source_html: "<!DOCTYPE html>\n  <!--[if IEMobile 7]><html class=\"no-j
   action=\"/tickets/2026-03/production/andrew-bird-ted-poor\" method=\"post\" id=\"search-block-form\"
   accept-c"
 published: false
-source: University of Washington
 source_url: https://meanycenter.org/tickets/2026-03/production/andrew-bird-ted-poor
 start_date: '2026-03-14T20:00:00-07:00'
 summarized: true

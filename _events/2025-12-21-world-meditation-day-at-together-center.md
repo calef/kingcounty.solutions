@@ -26,8 +26,8 @@ images: []
 location: Together Conference Center, 16305 NE 87th St, Redmond, 98052, United States
 locations:
 - King County
+organization_title: Together Center
 published: false
-source: Together Center
 source_url: https://togethercenter.org/event/world-meditation-day-at-together-center/
 start_date: '2025-12-21T15:30:00-08:00'
 summarized: true

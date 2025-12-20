@@ -35,8 +35,8 @@ feed_content: <div class="container"> <section id="tribe-events-pg-template" cla
 images: []
 location: ''
 locations: []
+organization_title: Disabled American Veterans
 published: false
-source: Disabled American Veterans
 source_url: https://www.dav.org/events-calendar/wyoming-information-seminar-14/
 start_date: '2025-12-19T00:00:00-08:00'
 summarized: true

@@ -3,8 +3,8 @@ generated_from_post: true
 images: []
 location: Myrtle Beach
 locations: []
+organization_title: Disabled American Veterans
 published: false
-source: Disabled American Veterans
 source_url: https://www.dav.org/learn-more/news/2025/empowering-veterans-as-business-founders/
 start_date: '2026-02-01T00:00:00-08:00'
 summarized: true

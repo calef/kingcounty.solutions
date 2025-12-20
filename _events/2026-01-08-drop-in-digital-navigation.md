@@ -46,6 +46,7 @@ location: The Center for Active Living, 4217 SW Oregon St., Seattle, WA, 98116, 
   States
 locations:
 - King County
+organization_title: The Center for Active Living
 original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n<meta charset=\"UTF-8\"
   />\n<meta name='viewport' content='width=device-width, initial-scale=1.0' />\n<meta
   http-equiv='X-UA-Compatible' content='IE=edge' />\n<link rel=\"profile\" href=\"https://gmpg.org/xfn/11\"
@@ -227,7 +228,6 @@ original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n<meta cha
   media='all' />\n<link rel='stylesheet' id='pp-animate-css' href='https://wscenter.org/wp-content/plugins/bbpowerpack/assets/css/animate.min.css?ver=3.5.1'
   media='all' />\n<link rel='stylesheet' id='fl-builder-google-fonts-0345043d0ebb04888497a79ed20df371-css'
   href='//fonts"
-source: The Center for Active Living
 source_url: https://wscenter.org/event/drop-in-digital-navigation-2-2-2-2/2026-01-08/
 start_date: '2026-01-08T11:30:00-08:00'
 summarized: true

@@ -47,6 +47,7 @@ location: Bow Lake Recycling & Transfer Station, 18800 Orillia Rd S, Tukwila, Un
   States
 locations:
 - King County
+organization_title: City of Tukwila
 original_source_html: "<section> <div> <div> <div> <section> <div> <h1>Free Flood
   Debris Dropoff</h1> <div> <h2> <span>December 20</span> - <span>December 21</span>
   </h2> </div> <div> <div> <h1>Dates of free debris drop off for stations only</h1>
@@ -89,7 +90,6 @@ original_source_html: "<section> <div> <div> <div> <section> <div> <h1>Free Floo
   - <span>5:00 pm</span> </div> </li> </ul> </div> <p> <a> Back to events</a> </p>
   </div> </section> </div> </div> </div> </section>"
 published: false
-source: City of Tukwila
 source_url: https://www.tukwilawa.gov/event/free-flood-debris-dropoff/
 start_date: '2025-12-20T00:00:00-08:00'
 summarized: true

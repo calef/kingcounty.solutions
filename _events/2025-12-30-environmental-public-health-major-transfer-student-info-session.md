@@ -101,8 +101,8 @@ images: []
 location: ''
 locations:
 - King County
+organization_title: University of Washington
 published: false
-source: University of Washington
 source_url: https://deohs.washington.edu/ug/transfer
 start_date: '2025-12-30T16:00:00-08:00'
 summarized: true

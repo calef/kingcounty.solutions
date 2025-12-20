@@ -45,8 +45,8 @@ location: The Center for Active Living, 4217 SW Oregon St., Seattle, WA, 98116, 
   States
 locations:
 - King County
+organization_title: The Center for Active Living
 published: false
-source: The Center for Active Living
 source_url: https://wscenter.org/event/chess-club/2025-12-23/
 start_date: '2025-12-23T13:30:00-08:00'
 summarized: true

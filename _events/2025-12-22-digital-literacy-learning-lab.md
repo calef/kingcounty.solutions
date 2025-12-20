@@ -67,6 +67,7 @@ images: []
 location: ''
 locations:
 - King County
+organization_title: WorkSource Seattle-King County
 original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta charset=\"UTF-8\"
   />\n\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\" />\n<meta
   name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1'
@@ -256,7 +257,6 @@ original_source_html: "<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta c
   4px 4px 0}}.sale-badge{--font-size:14px;--font-color:white;--background-color:#6246d7;position:absolute;top:12px;right:12px;padding:6px
   12px;font-size:var(--font-size);color:var(--font-color);background:var(--background-color);box-shadow:0
   0 6px -3p"
-source: WorkSource Seattle-King County
 source_url: https://worksourceskc.org/event/digital-literacy-learning-lab-5155/
 start_date: '2025-12-22T12:30:00-08:00'
 summarized: true

@@ -11,6 +11,7 @@ feed_content_checksum: 117d0fc267ed7535bf07ed9db61675441fe50410
 images: []
 location: ''
 locations: []
+organization_title: Disabled American Veterans
 original_source_html: "\n\n\n<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<meta
   charset=\"UTF-8\">\n\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1,
   shrink-to-fit=no\">\n\t<meta name=\"theme-color\" content=\"#bed12b\">\n\t<meta
@@ -171,7 +172,6 @@ original_source_html: "\n\n\n<!DOCTYPE html>\n<html lang=\"en-US\">\n<head>\n\t<
   var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color:
   var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cy"
 published: false
-source: Disabled American Veterans
 source_url: https://www.dav.org/events-calendar/fort-campbell-job-fair-march-18-2026/
 start_date: '2026-03-18T00:00:00-07:00'
 summarized: true

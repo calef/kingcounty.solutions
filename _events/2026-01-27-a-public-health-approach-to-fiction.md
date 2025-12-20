@@ -8,7 +8,7 @@ images: []
 location: ''
 locations:
 - King County
-source: University of Washington
+organization_title: University of Washington
 source_url: https://events.teams.microsoft.com/event/1f77c67d-be1d-444f-92fd-9ab4215331eb@f6b6dd5b-f02f-441a-99a0-162ac5060bd2
 start_date: '2026-01-27T14:00:00-08:00'
 summarized: true

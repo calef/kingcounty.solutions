@@ -134,8 +134,8 @@ feed_content: '<!DOCTYPE html> <html lang="en" id="ng-app" xmlns:ng="http://angu
 images: []
 location: Anaheim Hilton, 777 West Convention Way, Anaheim, CA, 92802, United States
 locations: []
+organization_title: Olive Crest
 published: false
-source: Olive Crest
 source_url: https://give.olivecrest.org/event/food-industry-gala-2026/e727904
 start_date: '2026-02-21T17:00:00-08:00'
 summarized: true

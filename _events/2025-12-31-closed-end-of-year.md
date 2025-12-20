@@ -61,8 +61,8 @@ location: 'South Park Neighborhood Center, 8201 10th Ave S, #4, Seattle, WA, 981
   United States'
 locations:
 - King County
+organization_title: South Park Senior Citizens
 published: false
-source: South Park Senior Citizens
 source_url: https://www.spseniors.org/calendar/closed-end-of-year-2/
 start_date: '2025-12-31T00:00:00-08:00'
 summarized: true

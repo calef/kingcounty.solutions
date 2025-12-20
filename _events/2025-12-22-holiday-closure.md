@@ -40,7 +40,7 @@ images: []
 location: WA
 locations:
 - King County
-source: KidVantage
+organization_title: KidVantage
 source_url: https://kidvantagenw.org/event/holiday-closure/
 start_date: '2025-12-22T00:00:00-08:00'
 summarized: true

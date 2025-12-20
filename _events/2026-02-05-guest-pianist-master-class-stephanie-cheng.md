@@ -33,8 +33,8 @@ images: []
 location: Music Building (MUS)
 locations:
 - King County
+organization_title: University of Washington
 published: false
-source: University of Washington
 source_url: https://music.washington.edu/events/2026-02-05/guest-pianist-master-class-stephanie-cheng
 start_date: '2026-02-05T15:30:00-08:00'
 summarized: true

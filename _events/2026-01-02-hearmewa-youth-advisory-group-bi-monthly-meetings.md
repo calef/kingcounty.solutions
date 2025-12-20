@@ -4,8 +4,8 @@ images: []
 location: Zoom
 locations:
 - King County
+organization_title: King County School Health
 published: false
-source: King County School Health
 source_url: https://kingcountyschoolhealthdotcom.wordpress.com/2025/12/09/2026-hearmewa-youth-advisory-group-recruitment/
 start_date: '2026-01-02T00:00:00-08:00'
 summarized: true

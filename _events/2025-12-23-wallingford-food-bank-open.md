@@ -206,7 +206,7 @@ location: Wallingford Food Bank (Temporary Location), 4318 Stone Way North, Seat
   WA, 98103, United States
 locations:
 - King County
-source: FamilyWorks Seattle
+organization_title: FamilyWorks Seattle
 source_url: https://www.familyworksseattle.org/event/wallingford-food-bank-open-4/2025-12-23/
 start_date: '2025-12-23T12:00:00-08:00'
 summarized: true
