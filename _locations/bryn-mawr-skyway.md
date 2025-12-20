@@ -1,5 +1,5 @@
 ---
-parent_location: West King County
+parent_location_title: West King County
 title: Bryn Mawr-Skyway
 type: Census-Designated Place
 ---

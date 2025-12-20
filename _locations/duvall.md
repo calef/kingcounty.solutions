@@ -1,5 +1,5 @@
 ---
-parent_location: Snoqualmie Valley
+parent_location_title: Snoqualmie Valley
 title: Duvall
 type: City
 ---

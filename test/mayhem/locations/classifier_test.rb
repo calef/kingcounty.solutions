@@ -185,9 +185,9 @@ class LocationClassifierTest < Minitest::Test
 
   def test_filters_child_locations_when_parent_present
     write_location('king-county', { 'title' => 'King County', 'type' => 'County' }, 'King County')
-    write_location('eastside', { 'title' => 'Eastside', 'type' => 'County Region', 'parent_location' => 'King County' }, 'Eastside region')
-    write_location('snoqualmie-valley', { 'title' => 'Snoqualmie Valley', 'type' => 'County Region', 'parent_location' => 'Eastside' }, 'Snoqualmie Valley')
-    write_location('snoqualmie', { 'title' => 'Snoqualmie', 'type' => 'City', 'parent_location' => 'Snoqualmie Valley' }, 'City of Snoqualmie')
+    write_location('eastside', { 'title' => 'Eastside', 'type' => 'County Region', 'parent_location_title' => 'King County' }, 'Eastside region')
+    write_location('snoqualmie-valley', { 'title' => 'Snoqualmie Valley', 'type' => 'County Region', 'parent_location_title' => 'Eastside' }, 'Snoqualmie Valley')
+    write_location('snoqualmie', { 'title' => 'Snoqualmie', 'type' => 'City', 'parent_location_title' => 'Snoqualmie Valley' }, 'City of Snoqualmie')
 
     # AI returns both parent and child
     classifier = build_classifier(
@@ -202,8 +202,8 @@ class LocationClassifierTest < Minitest::Test
 
   def test_keeps_sibling_locations
     write_location('snoqualmie-valley', { 'title' => 'Snoqualmie Valley', 'type' => 'County Region' }, 'Snoqualmie Valley')
-    write_location('snoqualmie', { 'title' => 'Snoqualmie', 'type' => 'City', 'parent_location' => 'Snoqualmie Valley' }, 'City of Snoqualmie')
-    write_location('north-bend', { 'title' => 'North Bend', 'type' => 'City', 'parent_location' => 'Snoqualmie Valley' }, 'City of North Bend')
+    write_location('snoqualmie', { 'title' => 'Snoqualmie', 'type' => 'City', 'parent_location_title' => 'Snoqualmie Valley' }, 'City of Snoqualmie')
+    write_location('north-bend', { 'title' => 'North Bend', 'type' => 'City', 'parent_location_title' => 'Snoqualmie Valley' }, 'City of North Bend')
 
     # AI returns two sibling cities
     classifier = build_classifier(
@@ -218,9 +218,9 @@ class LocationClassifierTest < Minitest::Test
 
   def test_filters_deeply_nested_child_when_grandparent_present
     write_location('king-county', { 'title' => 'King County', 'type' => 'County' }, 'King County')
-    write_location('eastside', { 'title' => 'Eastside', 'type' => 'County Region', 'parent_location' => 'King County' }, 'Eastside region')
-    write_location('snoqualmie-valley', { 'title' => 'Snoqualmie Valley', 'type' => 'County Region', 'parent_location' => 'Eastside' }, 'Snoqualmie Valley')
-    write_location('snoqualmie', { 'title' => 'Snoqualmie', 'type' => 'City', 'parent_location' => 'Snoqualmie Valley' }, 'City of Snoqualmie')
+    write_location('eastside', { 'title' => 'Eastside', 'type' => 'County Region', 'parent_location_title' => 'King County' }, 'Eastside region')
+    write_location('snoqualmie-valley', { 'title' => 'Snoqualmie Valley', 'type' => 'County Region', 'parent_location_title' => 'Eastside' }, 'Snoqualmie Valley')
+    write_location('snoqualmie', { 'title' => 'Snoqualmie', 'type' => 'City', 'parent_location_title' => 'Snoqualmie Valley' }, 'City of Snoqualmie')
 
     # AI returns King County and Snoqualmie (grandparent and grandchild)
     classifier = build_classifier(
