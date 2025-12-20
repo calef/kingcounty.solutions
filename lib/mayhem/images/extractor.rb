@@ -47,6 +47,7 @@ module Mayhem
         logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL'),
         open_timeout: DEFAULT_OPEN_TIMEOUT,
         read_timeout: DEFAULT_READ_TIMEOUT,
+        min_dimension: MIN_IMAGE_DIMENSION,
         http_client: nil
       )
         @content_dirs = [posts_dir, events_dir].compact.uniq
@@ -55,10 +56,11 @@ module Mayhem
         @logger = logger
         @open_timeout = open_timeout
         @read_timeout = read_timeout
+        @min_dimension = min_dimension
         FileUtils.mkdir_p(@image_docs_dir)
         @http = http_client || Mayhem::Support::HttpClient.new(timeout: @read_timeout, logger: @logger)
 
-        @validator = Mayhem::ImageFiles::Validator.new(logger: @logger, min_dimension: MIN_IMAGE_DIMENSION)
+        @validator = Mayhem::ImageFiles::Validator.new(logger: @logger, min_dimension: @min_dimension)
         @converter = Mayhem::ImageFiles::Converter.new(logger: @logger)
         @downloader = Mayhem::ImageFiles::Downloader.new(logger: @logger, http_client: @http, validator: @validator)
         @writer = Mayhem::ImageFiles::Writer.new(asset_dir: @asset_dir)
@@ -175,7 +177,11 @@ module Mayhem
           downloaded = @downloader.download(img[:url], stats)
           next unless downloaded
 
-          converted_data, converted_ext = @converter.convert_to_webp(downloaded[:data], downloaded[:ext], img[:url])
+          converted_data, converted_ext, converted = @converter.convert_to_webp(downloaded[:data], downloaded[:ext], img[:url])
+          if converted && converted_data.nil?
+            stats[:conversion_failures] += 1
+            next
+          end
           next if converted_ext == '.webp' && !@validator.meets_minimum_dimensions?(converted_data, img[:url], stats)
 
           checksum = Digest::SHA256.hexdigest(converted_data)
@@ -223,6 +229,7 @@ module Mayhem
           no_images_found: stats[:no_images_found],
           no_valid_images: stats[:no_valid_images],
           download_failures: stats[:download_failures],
+          conversion_failures: stats[:conversion_failures],
           skipped_unsupported_images: stats[:skipped_unsupported_images],
           skipped_small_images: stats[:skipped_small_images]
         }
