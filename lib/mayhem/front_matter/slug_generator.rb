@@ -10,7 +10,12 @@ module Mayhem
 
       def sanitized_slug(text)
         slug = FMRepo.slugify(text)
-        # Return empty string for fallback case to maintain backward compatibility
+        # FMRepo.slugify returns 'untitled' for empty strings.
+        # For backward compatibility with filename_slug's hash-based fallback,
+        # we return an empty string when the input was truly empty.
+        # This ensures that items with an actual title of "Untitled" are
+        # correctly slugified to 'untitled', while empty inputs trigger the
+        # hash-based fallback in filename_slug.
         slug == 'untitled' && text.to_s.strip.empty? ? '' : slug
       end
 

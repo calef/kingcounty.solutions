@@ -224,6 +224,9 @@ module Mayhem
       end
 
       def slugify(title)
+        # FMRepo.slugify handles empty strings by returning 'untitled'
+        # This replaces the old behavior where we returned 'organization' for empty titles.
+        # In practice, the title is never empty because it falls back to the website host.
         FMRepo.slugify(title)
       end
 
