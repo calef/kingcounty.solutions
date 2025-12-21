@@ -19,6 +19,7 @@ class OrganizationsFrontMatterTest < Minitest::Test
     topic_titles
     type
     website_url
+    website_xml_sitemap_url
   ].freeze
   ALLOWED_TYPES = [
     'Agency',
