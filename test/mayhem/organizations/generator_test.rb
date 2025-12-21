@@ -40,6 +40,20 @@ class OrganizationsGeneratorTest < Minitest::Test
     end
   end
 
+  class FakeSitemapFinder
+    attr_reader :find_calls, :result
+
+    def initialize(result = nil)
+      @result = result
+      @find_calls = []
+    end
+
+    def find(url)
+      @find_calls << url
+      result
+    end
+  end
+
   def setup
     @org_dir = Dir.mktmpdir('orgs')
     @topic_dir = Dir.mktmpdir('topics')
@@ -47,11 +61,13 @@ class OrganizationsGeneratorTest < Minitest::Test
     @logger = FakeLogger.new
     @fake_client = Object.new
     @feed_finder = FakeFeedFinder.new(OpenStruct.new(rss_url: 'https://feed', ical_url: 'https://calendar'))
+    @sitemap_finder = FakeSitemapFinder.new('https://example.com/sitemap.xml')
     @generator = Mayhem::Organizations::Generator.new(
       org_dir: @org_dir,
       topic_repo: @topic_repo,
       client: @fake_client,
       feed_finder: @feed_finder,
+      sitemap_finder: @sitemap_finder,
       logger: @logger
     )
   end
@@ -175,6 +191,7 @@ class OrganizationsGeneratorTest < Minitest::Test
       topic_repo: @topic_repo,
       client: @fake_client,
       feed_finder: @feed_finder,
+      sitemap_finder: @sitemap_finder,
       logger: @logger
     )
     stub_pages(generator)
@@ -194,6 +211,36 @@ class OrganizationsGeneratorTest < Minitest::Test
     assert_equal 'https://feed', fm['news_rss_url']
     assert_equal ['Health'], fm['topic_titles']
     assert_equal 'https://calendar', fm['events_ical_url']
+    assert_equal 'https://example.com/sitemap.xml', fm['website_xml_sitemap_url']
+  end
+
+  def test_run_omits_sitemap_when_missing
+    create_topic('Health')
+
+    sitemap_finder = FakeSitemapFinder.new(nil)
+    generator = Mayhem::Organizations::Generator.new(
+      org_dir: @org_dir,
+      topic_repo: @topic_repo,
+      client: @fake_client,
+      feed_finder: @feed_finder,
+      sitemap_finder: sitemap_finder,
+      logger: @logger
+    )
+    stub_pages(generator)
+
+    response_body = JSON.generate({
+      'title' => 'Test Organization',
+      'type' => 'Community-Based Organization',
+      'topic_titles' => ['Health']
+    })
+    generator.instance_variable_set(:@client, FakeChatClient.new(response_body))
+
+    generator.run('https://example.com')
+
+    files = Dir.glob(File.join(@org_dir, '*.md'))
+    assert_equal 1, files.size
+    fm = Mayhem::FrontMatter::Document.load(files.first).front_matter
+    refute fm.key?('website_xml_sitemap_url')
   end
 
   def test_run_skips_existing_website
@@ -203,6 +250,7 @@ class OrganizationsGeneratorTest < Minitest::Test
       topic_repo: @topic_repo,
       client: @fake_client,
       feed_finder: @feed_finder,
+      sitemap_finder: @sitemap_finder,
       logger: @logger
     )
     stub_pages(generator)

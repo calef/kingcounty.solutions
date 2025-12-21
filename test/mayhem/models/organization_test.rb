@@ -94,6 +94,7 @@ class OrganizationModelTest < Minitest::Test
       assert_nil record.topic_titles
       assert_nil record.parent_organization_title
       assert_nil record.website_url
+      assert_nil record.website_xml_sitemap_url
     end
   end
 
@@ -122,6 +123,21 @@ class OrganizationModelTest < Minitest::Test
 
       assert_equal 'https://example.org/feed.rss', record.news_rss_url
       assert_equal 'https://example.org/events.ical', record.events_ical_url
+    end
+  end
+
+  def test_website_xml_sitemap_url_field
+    FMRepo::TestHelpers.with_temp_repo(role: :organizations) do
+      record = Mayhem::Models::Organization.create!(
+        {
+          'title' => 'Sitemap Org',
+          'type' => 'Agency',
+          'website_xml_sitemap_url' => 'https://example.org/sitemap.xml'
+        },
+        body: 'Organization with sitemap.'
+      )
+
+      assert_equal 'https://example.org/sitemap.xml', record.website_xml_sitemap_url
     end
   end
 end

@@ -66,6 +66,10 @@ module Mayhem
       def website_url
         self['website_url']
       end
+
+      def website_xml_sitemap_url
+        self['website_xml_sitemap_url']
+      end
     end
   end
 end
