@@ -1,7 +1,6 @@
 ---
 date: '2025-12-16T17:27:15+00:00'
-events:
-- 2025-12-19-listening-session-for-multifamily-housing-providers
+events: []
 events_extracted: true
 feed_content: |-
   <p><strong>Commerce will host listening sessions on Dec. 18 and 19 on Teams</strong></p>
