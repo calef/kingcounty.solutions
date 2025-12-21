@@ -11,6 +11,7 @@ topic_titles:
 - Mental Health & Counseling
 type: Community-Based Organization
 website_url: https://hsdc.org/
+website_xml_sitemap_url: https://hsdc.org/wp-sitemap.xml
 ---
 
 Hearing, Speech & Deaf Center (HSDC) serves the Puget Sound area, providing resources and services for individuals who are deaf, hard of hearing, or have speech or language differences. HSDC focuses on communication, advocacy, and education, offering speech therapy, interpreting services, and community support.

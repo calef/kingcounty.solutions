@@ -8,6 +8,7 @@ topic_titles:
 - Mental Health & Counseling
 type: Community-Based Organization
 website_url: https://fetalalcoholsyndrome.org/
+website_xml_sitemap_url: https://fetalalcoholsyndrome.org/sitemap.xml
 ---
 
 The organization provides education about fetal alcohol spectrum disorders (FASD) through research and training. It offers resources and presentations to help parents, guardians, and providers understand the impacts of prenatal alcohol exposure.

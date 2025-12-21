@@ -9,6 +9,7 @@ topic_titles:
 - Domestic Violence
 type: Community-Based Organization
 website_url: https://www.peerwa.org/
+website_xml_sitemap_url: https://www.peerwa.org/sitemap.xml
 ---
 
 Peer Washington provides peer emotional support and development services to individuals impacted by addiction, mental health issues, and HIV/AIDS. Our mission is to cultivate powerful, healthy lives through compassionate support, targeting disproportionately impacted communities across Washington state.

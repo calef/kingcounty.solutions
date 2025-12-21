@@ -9,6 +9,7 @@ topic_titles:
 - Mental Health & Counseling
 type: Corporation
 website_url: https://www.vmfh.org/
+website_xml_sitemap_url: https://www.vmfh.org/sitemap.xml
 ---
 
 Virginia Mason Franciscan Health is a leading health care provider in Washington state, offering a wide range of services, including primary, specialty, and pediatric care, as well as virtual visits. It focuses on providing exceptional care and support for the communities it serves.

@@ -8,6 +8,7 @@ topic_titles:
 - Transportation & Mobility
 type: Community-Based Organization
 website_url: https://svtbus.org/
+website_xml_sitemap_url: https://svtbus.org/sitemap_index.xml
 ---
 
 Mt. Si Senior Center operates Snoqualmie Valley Transportation, providing $1 fixed routes, circulators, and door-to-door rides with wheelchair-accessible buses serving North Bend, Snoqualmie, Fall City, Preston, Carnation, Duvall, and Monroe.

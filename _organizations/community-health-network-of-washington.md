@@ -10,6 +10,7 @@ topic_titles:
 - Mental Health & Counseling
 type: Community-Based Organization
 website_url: https://chnw.chpw.org/
+website_xml_sitemap_url: https://chnw.chpw.org/sitemap_index.xml
 ---
 
 Community Health Network of Washington (CHNW) provides affordable, community-based health care services across Washington state. With a focus on health equity, CHNW operates a network of community health centers that offer comprehensive care tailored to the unique needs of diverse populations, including immigrants and refugees.

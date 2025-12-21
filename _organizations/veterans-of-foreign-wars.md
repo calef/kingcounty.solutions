@@ -10,6 +10,7 @@ topic_titles:
 - Mental Health & Counseling
 type: Community-Based Organization
 website_url: https://www.vfw.org/
+website_xml_sitemap_url: https://www.vfw.org/sitemap.xml
 ---
 
 The VFW is a nonprofit organization dedicated to serving veterans and military families. It provides free assistance with VA claims, advocates for veterans' rights, and offers various support programs to ensure veterans receive their earned benefits.

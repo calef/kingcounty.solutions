@@ -9,6 +9,7 @@ topic_titles:
 - Food & Nutrition
 type: Program
 website_url: https://www.cascadia.edu/student-resources/health-and-wellness-support/hawrc.aspx
+website_xml_sitemap_url: https://www.cascadia.edu/sitemap.xml
 ---
 
 The Health and Wellness Resource Center (HaWRC) connects students with on-campus and community resources, offering financial coaching, public benefits enrollment, peer health education, and referrals to wellness resources. Services include free sexual health supplies and access to food resources.

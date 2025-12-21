@@ -11,6 +11,7 @@ topic_titles:
 - Mental Health & Counseling
 type: Community-Based Organization
 website_url: https://rfwellnessfoundation.org/get-help/
+website_xml_sitemap_url: https://rfwellnessfoundation.org/sitemap_index.xml
 ---
 
 Rainier Foothills Wellness Foundation provides essential services, including hot meal delivery for seniors, transportation to medical appointments, and food assistance for families. We focus on improving community health and well-being through various programs aimed at supporting vulnerable populations.

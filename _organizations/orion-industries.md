@@ -9,6 +9,7 @@ topic_titles:
 - Education & Learning
 type: Community-Based Organization
 website_url: https://orionworks.org
+website_xml_sitemap_url: https://orionworks.org/sitemap_index.xml
 ---
 
 Orion Industries is a social enterprise dedicated to providing training and employment opportunities for individuals seeking meaningful careers. With facilities in Auburn and Mukilteo, Washington, we focus on building skills and confidence through tailored training programs in various sectors, including aerospace manufacturing.

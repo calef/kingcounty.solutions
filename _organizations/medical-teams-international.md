@@ -9,6 +9,7 @@ topic_titles:
 - Food & Nutrition
 type: Community-Based Organization
 website_url: https://www.medicalteams.org/
+website_xml_sitemap_url: https://www.medicalteams.org/sitemap_index.xml
 ---
 
 Medical Teams International provides medical care, strengthens health care systems, and builds communities in crisis-affected areas. Its services include treating malnutrition, delivering babies, and offering psychiatric care, ensuring that those who have been forgotten receive the help they need.

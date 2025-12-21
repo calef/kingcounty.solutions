@@ -9,6 +9,7 @@ topic_titles:
 - Shelter & Housing
 type: Program
 website_url: https://www.bellevuecollege.edu/current-students/benefits-hub/
+website_xml_sitemap_url: https://www.bellevuecollege.edu/sitemap.xml
 ---
 
 The Benefits Hub provides essential support for students facing food insecurity and housing challenges. Services include a food pantry, housing support referrals, financial coaching, and emergency assistance to help students focus on their education and achieve their career goals.

@@ -12,6 +12,7 @@ topic_titles:
 - Personal & Household Needs
 type: Community-Based Organization
 website_url: https://www.operationfirstresponse.org
+website_xml_sitemap_url: https://www.operationfirstresponse.org/sitemap.xml
 ---
 
 Operation First Response provides critical financial and emotional support to wounded heroes, disabled veterans, and first responders. Services include assistance with living expenses, emotional support, and a network of compassionate volunteers to help during times of crisis.

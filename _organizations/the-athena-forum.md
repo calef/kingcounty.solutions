@@ -6,6 +6,7 @@ topic_titles:
 - Education & Learning
 type: Program
 website_url: https://theathenaforum.org
+website_xml_sitemap_url: https://theathenaforum.org/sitemap.xml
 ---
 
 The Athena Forum provides resources and support for community coalitions focused on mental health promotion, substance use prevention, and youth engagement. It offers training, guidance, and a platform for collaboration among various stakeholders in behavioral health.

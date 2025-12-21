@@ -8,6 +8,7 @@ topic_titles:
 - Financial Assistance
 type: Community-Based Organization
 website_url: https://www.plateauoutreach.org/food-bank
+website_xml_sitemap_url: https://www.plateauoutreach.org/sitemap.xml
 ---
 
 Plateau Outreach Ministries Food Bank provides essential food assistance to individuals and families experiencing food insecurity. Open three days a week, the food bank also offers emergency food services and collaborates with local partners to deliver food to those unable to visit in person.

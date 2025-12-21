@@ -7,6 +7,7 @@ topic_titles:
 - Health Care
 type: Community-Based Organization
 website_url: https://www.overlakehospital.org/locations/overlake-clinics-primary-care-redmond
+website_xml_sitemap_url: https://www.overlakehospital.org/sitemap.xml
 ---
 
 Overlake Clinics - Redmond Primary Care offers comprehensive primary care services, including internal and family medicine. We provide same-day and next-day appointments, virtual visits, and on-site laboratories and X-ray services, ensuring convenient access to quality health care.

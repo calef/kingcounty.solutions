@@ -9,6 +9,7 @@ topic_titles:
 - Education & Learning
 type: Community-Based Organization
 website_url: https://www.rfsc.org/refugee-federation-service-center/lep/
+website_xml_sitemap_url: https://www.rfsc.org/sitemap.xml
 ---
 
 The Refugee Federation Service Center assists refugees and immigrants in their transition to life in the U.S. by providing job preparation, skills training, and English language education. We help clients achieve self-sufficiency while maintaining their cultural identity.

@@ -9,6 +9,7 @@ topic_titles:
 - Domestic Violence
 type: Community-Based Organization
 website_url: https://eghseattle.org
+website_xml_sitemap_url: https://eghseattle.org/sitemaps.xml
 ---
 
 Elizabeth Gregory Home provides a welcoming refuge for women experiencing homelessness, trauma, or economic insecurity. We offer a drop-in day shelter, transitional housing, and case management services to help women thrive in our community.

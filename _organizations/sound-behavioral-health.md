@@ -7,6 +7,7 @@ topic_titles:
 - Domestic Violence
 type: Community-Based Organization
 website_url: https://www.sound.health/
+website_xml_sitemap_url: https://www.sound.health/sitemap.xml
 ---
 
 SOUND Behavioral Health provides comprehensive behavioral health services in King County, focusing on mental health and substance use disorders. With nearly 60 years of experience, it offers counseling, crisis management, and supportive housing to help individuals achieve recovery and stability.

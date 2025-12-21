@@ -13,6 +13,7 @@ topic_titles:
 - Senior Services
 type: Community-Based Organization
 website_url: https://lakecityseniors.org/
+website_xml_sitemap_url: https://lakecityseniors.org/wp-sitemap.xml
 ---
 
 Lake City Seniors is a vibrant community hub supporting older adults in Northeast Seattle. We offer accessible programs and services that foster social connection, promote well-being, and empower seniors to live active lives. Our activities include fitness classes, creative arts, health workshops, and mental health counseling.

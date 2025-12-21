@@ -10,6 +10,7 @@ topic_titles:
 - Senior Services
 type: Community-Based Organization
 website_url: https://www.spseniors.org
+website_xml_sitemap_url: https://www.spseniors.org/wp-sitemap.xml
 ---
 
 South Park Senior Citizens supports seniors in leading healthy and active lives through community dining, exercise classes, cultural celebrations, and various support services. Join us for engaging activities and explore our community resources!

@@ -9,6 +9,7 @@ topic_titles:
 - Mental Health & Counseling
 type: Agency
 website_url: https://centeredmindcounseling.com/
+website_xml_sitemap_url: https://centeredmindcounseling.com/sitemap_index.xml
 ---
 
 Centered Mind Counseling offers therapy services for adults and children struggling with anxiety, depression, and other life challenges. We provide in-person and telehealth sessions, ensuring accessible mental health support tailored to individual needs.

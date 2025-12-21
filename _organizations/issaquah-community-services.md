@@ -7,6 +7,7 @@ topic_titles:
 - Shelter & Housing
 type: Community-Based Organization
 website_url: https://issaquahcommunityservices.org
+website_xml_sitemap_url: https://issaquahcommunityservices.org/sitemap.xml
 ---
 
 Issaquah Community Services provides emergency financial aid for rent and utilities to residents facing temporary hardship. With more than 50 years of service, we aim to foster stability and hope in our community, ensuring families can maintain secure housing during difficult times.

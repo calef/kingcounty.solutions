@@ -11,6 +11,7 @@ topic_titles:
 - Food & Nutrition
 type: Community-Based Organization
 website_url: https://www.kandelia.org/programs/youth/
+website_xml_sitemap_url: https://www.kandelia.org/wp-sitemap.xml
 ---
 
 Kandelia Youth Programs support immigrant and refugee youth in achieving academic success and job readiness. We provide culturally responsive programs that include homework help, after-school activities, and access to food resources, helping students overcome barriers to success.

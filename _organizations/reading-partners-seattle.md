@@ -8,6 +8,7 @@ topic_titles:
 - Education & Learning
 type: Community-Based Organization
 website_url: https://readingpartners.org/location/seattle/
+website_xml_sitemap_url: https://readingpartners.org/sitemap_index.xml
 ---
 
 Reading Partners Seattle provides one-on-one tutoring to students in Title I schools, helping them master fundamental reading skills. With a focus on educational equity, the program engages community volunteers to deliver personalized literacy support, ensuring students receive the attention they need to succeed.

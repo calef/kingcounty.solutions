@@ -10,6 +10,7 @@ topic_titles:
 - Education & Learning
 type: Department
 website_url: https://doh.wa.gov/
+website_xml_sitemap_url: https://doh.wa.gov/sitemap.xml
 ---
 
 The **Department of Health (DOH)** safeguards public health and promotes wellness across Washington. Its social service impact includes:

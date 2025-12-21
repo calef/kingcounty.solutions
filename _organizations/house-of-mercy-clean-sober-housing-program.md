@@ -10,6 +10,7 @@ topic_titles:
 - Mental Health & Counseling
 type: Community-Based Organization
 website_url: https://houseofmercyministries.net
+website_xml_sitemap_url: https://houseofmercyministries.net/wp-sitemap.xml
 ---
 
 House of Mercy provides supportive, clean, and sober living for individuals in transition. Established in 2005, we focus on healing lives through safe housing, leadership training, and community support, helping individuals overcome barriers related to incarceration, homelessness, and substance abuse.

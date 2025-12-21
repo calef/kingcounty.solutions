@@ -8,6 +8,7 @@ topic_titles:
 - Mental Health & Counseling
 type: Community-Based Organization
 website_url: https://r2c2blog.wordpress.com/
+website_xml_sitemap_url: https://r2c2blog.wordpress.com/sitemap.xml
 ---
 
 Raging River Community Church offers a welcoming environment for worship and community service. Services include children's programs, Bible studies, and support for mental health through fellowship and prayer.

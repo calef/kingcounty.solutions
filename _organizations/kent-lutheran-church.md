@@ -7,6 +7,7 @@ topic_titles:
 - Mental Health & Counseling
 type: Community-Based Organization
 website_url: https://www.kentlutheran.org/
+website_xml_sitemap_url: https://www.kentlutheran.org/sitemap.xml
 ---
 
 Kent Lutheran Church is a community church that embraces all individuals, offering love, service, and compassion. We provide various missions and programs to support community needs, including outreach and social justice initiatives. Join us for worship every Sunday at 9:30 a.m.

@@ -12,6 +12,7 @@ topic_titles:
 - Childcare
 type: Community-Based Organization
 website_url: https://launchlearning.org
+website_xml_sitemap_url: https://launchlearning.org/wp-sitemap.xml
 ---
 
 Launch Learning is a Seattle-based nonprofit providing affordable early learning and enrichment programs for children ages 2 to 12. With a focus on educational justice, we support families from diverse backgrounds, offering resources such as tuition assistance and food support through our free pantries.

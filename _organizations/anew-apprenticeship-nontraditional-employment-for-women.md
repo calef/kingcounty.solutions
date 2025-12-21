@@ -10,6 +10,7 @@ topic_titles:
 - Education & Learning
 type: Community-Based Organization
 website_url: https://anewcareer.org/
+website_xml_sitemap_url: https://anewcareer.org/sitemap.xml
 ---
 
 ANEW provides training and support for women in nontraditional careers, focusing on construction and manufacturing. Its programs include pre-apprenticeship training, CDL licensing, and retention services, aiming to build equitable pathways to family-wage careers.

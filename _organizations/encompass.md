@@ -8,6 +8,7 @@ topic_titles:
 - Mental Health & Counseling
 type: Community-Based Organization
 website_url: https://www.encompassnw.org/
+website_xml_sitemap_url: https://encompassnw.org/sitemap.xml
 ---
 
 Encompass is a nonprofit organization dedicated to partnering with families in the Snoqualmie Valley and Eastside communities. It provides early learning, pediatric therapy, and family enrichment programs for children ages 0 to 8, focusing on building healthy foundations for children of all abilities.

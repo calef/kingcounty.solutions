@@ -10,6 +10,7 @@ topic_titles:
 - Education & Learning
 type: Community-Based Organization
 website_url: https://www.juma.org/
+website_xml_sitemap_url: https://juma.org/sitemap_index.xml
 ---
 
 Juma Ventures empowers youth from underserved communities by providing job training and employment opportunities. Through partnerships with local venues, Juma helps young people develop essential skills, set personal and professional goals, and achieve financial stability, ultimately breaking the cycle of poverty.

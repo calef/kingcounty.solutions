@@ -12,6 +12,7 @@ topic_titles:
 - Childcare
 type: Community-Based Organization
 website_url: https://wonderlandkids.org/
+website_xml_sitemap_url: https://wonderlandkids.org/sitemap_index.xml
 ---
 
 Wonderland Child & Family Services is a nonprofit agency dedicated to supporting children with developmental delays, disabilities, and prenatal substance exposure. We provide therapy, education, and advocacy to help families thrive, regardless of income or insurance.

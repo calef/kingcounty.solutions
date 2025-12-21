@@ -6,6 +6,7 @@ topic_titles:
 - Employment & Job Support
 type: Agency
 website_url: https://americorps.gov/
+website_xml_sitemap_url: https://www.americorps.gov/sitemap.xml
 ---
 
 The **Corporation for National and Community Service (AmeriCorps)** strengthens communities through volunteerism and service, building local capacity through national service members and community partners. It aligns with:

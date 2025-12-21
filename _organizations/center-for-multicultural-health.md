@@ -9,6 +9,7 @@ topic_titles:
 - Shelter & Housing
 type: Community-Based Organization
 website_url: https://www.centerformulticulturalhealth.org/refugee-health-advocacy
+website_xml_sitemap_url: https://www.centerformulticulturalhealth.org/sitemap.xml
 ---
 
 The Center for MultiCultural Health provides assistance with health care navigation, Washington Apple Health enrollment, connections to social and health services, pre-employment services, and housing applications, including Section 8.

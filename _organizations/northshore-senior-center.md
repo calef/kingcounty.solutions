@@ -12,6 +12,7 @@ topic_titles:
 - Senior Services
 type: Community-Based Organization
 website_url: https://www.northshoreseniorcenter.org
+website_xml_sitemap_url: https://www.northshoreseniorcenter.org/sitemap.xml
 ---
 
 Northshore Senior Center provides holistic services and support to older adults and individuals with disabilities. Services include food pantries, community dining, Meals on Wheels, and social services. The center fosters a vibrant community through various programs, ensuring access to essential resources for all.

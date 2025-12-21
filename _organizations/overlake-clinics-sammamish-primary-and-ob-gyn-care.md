@@ -7,6 +7,7 @@ topic_titles:
 - Health Care
 type: Community-Based Organization
 website_url: https://www.overlakehospital.org/locations/overlake-clinics-primary-care-sammamish
+website_xml_sitemap_url: https://www.overlakehospital.org/sitemap.xml
 ---
 
 Overlake Clinics in Sammamish offers primary care, internal medicine, family medicine, and OB/GYN services. We provide same-day and next-day appointments, virtual visits, and on-site laboratories and X-ray facilities. Our connected medical records ensure seamless care across our system.

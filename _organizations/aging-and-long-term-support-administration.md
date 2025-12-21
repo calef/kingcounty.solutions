@@ -7,6 +7,7 @@ topic_titles:
 - Health Care
 type: Division
 website_url: https://www.dshs.wa.gov/altsa
+website_xml_sitemap_url: https://www.dshs.wa.gov/sitemap.xml
 ---
 
 The **Aging and Long-Term Support Administration (ALTSA)** provides services that help seniors and people with disabilities live independently. Its programs align with:

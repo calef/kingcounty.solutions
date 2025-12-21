@@ -17,6 +17,7 @@ topic_titles:
 - Shelter & Housing
 type: Faith-Based Organization
 website_url: https://archseattle.org/
+website_xml_sitemap_url: https://archseattle.org/sitemap_index.xml
 ---
 
 The Archdiocese of Seattle serves more than 1 million Catholics in Western Washington, offering various ministries, educational institutions, and community support services. It aims to foster faith, provide assistance, and promote social justice across the region.

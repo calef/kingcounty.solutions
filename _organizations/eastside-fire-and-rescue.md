@@ -4,6 +4,7 @@ topic_titles:
 - Health Care
 type: Special Purpose District
 website_url: https://www.eastsidefire-rescue.org
+website_xml_sitemap_url: https://www.eastsidefire-rescue.org/sitemap.xml
 ---
 
 **Eastside Fire & Rescue** provides fire protection, emergency medical response, and community safety programs for East King County. Formed through interlocal partnerships, it ensures equitable and effective emergency services across participating communities.

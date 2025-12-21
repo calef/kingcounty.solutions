@@ -10,6 +10,7 @@ topic_titles:
 - Employment & Job Support
 type: Community-Based Organization
 website_url: https://villacomunitaria.org/
+website_xml_sitemap_url: https://villacomunitaria.org/sitemap_index.xml
 ---
 
 Villa Comunitaria empowers Latine families in South Park through programs focused on economic development, education, and community engagement. With a bilingual staff, it provides resources to navigate immigration, housing, and health systems, fostering resilience and leadership within the community.

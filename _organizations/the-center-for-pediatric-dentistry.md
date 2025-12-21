@@ -8,6 +8,7 @@ topic_titles:
 - Disabilities
 type: Community-Based Organization
 website_url: https://thecenterforpediatricdentistry.com/
+website_xml_sitemap_url: https://thecenterforpediatricdentistry.com/sitemap_index.xml
 ---
 
 The Center for Pediatric Dentistry provides comprehensive preventive and restorative dental services for children ages 0 to 18, including specialized services for children with autism and other special needs. It offers financial aid, transportation assistance, and accepts most insurance plans.

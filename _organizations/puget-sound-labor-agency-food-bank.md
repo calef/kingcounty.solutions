@@ -10,6 +10,7 @@ topic_titles:
 - Disabilities
 type: Community-Based Organization
 website_url: https://www.pugetsoundlaboragency.org/
+website_xml_sitemap_url: https://www.pugetsoundlaboragency.org/sitemap.xml
 ---
 
 The Puget Sound Labor Agency Food Bank provides food, pet supplies, and hygiene products to the Seattle community. Open on Mondays and Wednesdays, it offers a dignified shopping experience with culturally appropriate foods and support for individuals with disabilities through programs such as the Wheelchair Ramp Program.

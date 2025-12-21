@@ -11,6 +11,7 @@ topic_titles:
 - Education & Learning
 type: Agency
 website_url: https://www.insurance.wa.gov/
+website_xml_sitemap_url: https://www.insurance.wa.gov/sitemap.xml
 ---
 
 The **Office of the Insurance Commissioner (OIC)** regulates Washington’s insurance industry and delivers direct consumer support through its Tumwater headquarters and statewide helplines. The agency’s consumer advocacy teams investigate complaints, run disaster-response outreach, and coordinate translators so every resident can access insurance protections. OIC’s social service reach includes:

@@ -10,6 +10,7 @@ topic_titles:
 - Shelter & Housing
 type: Community-Based Organization
 website_url: https://friendsofyouth.org
+website_xml_sitemap_url: https://www.friendsofyouth.org/sitemap.xml
 ---
 
 Friends of Youth provides essential services for young people, including housing, mental health support, and community resources. The organization focuses on empowering youth and families through various programs and initiatives.

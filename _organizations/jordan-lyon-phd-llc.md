@@ -7,6 +7,7 @@ topic_titles:
 - Mental Health & Counseling
 type: Agency
 website_url: https://jordanlyonphd.com/
+website_xml_sitemap_url: https://jordanlyonphd.com/sitemap.xml
 ---
 
 Jordan Lyon, PhD, LLC, offers evidence-based therapy and consultation services for tweens, teens, and adults. Specializing in issues such as anxiety, depression, and gender identity, the practice emphasizes a collaborative approach to therapy, ensuring clients feel understood and empowered.

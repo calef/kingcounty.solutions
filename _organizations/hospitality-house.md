@@ -12,6 +12,7 @@ topic_titles:
 - Mental Health & Counseling
 type: Community-Based Organization
 website_url: https://hospitalityhousesouthking.org
+website_xml_sitemap_url: https://hospitalityhousesouthking.org/wp-sitemap.xml
 ---
 
 Hospitality House provides a 90-day shelter program for women experiencing homelessness, offering essential services such as meals, case management, and access to health care. The program focuses on empowerment and stability, helping residents secure permanent housing and develop life skills.

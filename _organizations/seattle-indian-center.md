@@ -12,6 +12,7 @@ topic_titles:
 - Employment & Job Support
 type: Community-Based Organization
 website_url: https://seattleindiancenter.org/
+website_xml_sitemap_url: https://seattleindiancenter.org/sitemap.xml
 ---
 
 The Seattle Indian Center has served the community since 1958, providing essential services such as food assistance, shelter, education, and employment support. Our programs aim to empower individuals and families, ensuring access to vital resources and fostering a supportive environment for all.

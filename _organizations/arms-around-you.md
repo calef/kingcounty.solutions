@@ -12,6 +12,7 @@ topic_titles:
 - Shelter & Housing
 type: Community-Based Organization
 website_url: https://www.armsaroundyou.org
+website_xml_sitemap_url: https://www.armsaroundyou.org/sitemap.xml
 ---
 
 Arms Around You is a nonprofit reentry resource program supporting formerly incarcerated individuals, the homeless, and victims of domestic violence. We provide employment training, mental health support, transitional housing, and life skills training to help individuals reintegrate into society and become self-sufficient.

@@ -8,6 +8,7 @@ topic_titles:
 - Education & Learning
 type: Community-Based Organization
 website_url: https://gemwa.org/
+website_xml_sitemap_url: https://gemwa.org/sitemap_index.xml
 ---
 
 Glover Empower Mentoring (GEM) is a community-based nonprofit offering mentoring and case management for youth and young adults across King and Pierce counties. The organization uses restorative practices to divert participants from justice involvement into education, employment, and healthy relationships. Based in Kent, GEM partners with local governments and community organizations to provide community, after-school, and in-school mentoring that strengthens protective factors and keeps participants on positive pathways.

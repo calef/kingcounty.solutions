@@ -9,6 +9,7 @@ topic_titles:
 - Food & Nutrition
 type: Community-Based Organization
 website_url: https://www.youthcare.org/
+website_xml_sitemap_url: https://youthcare.org/sitemap_index.xml
 ---
 
 YouthCare works to end youth homelessness and empower young people to achieve their potential. It provides essential services, including hot meals and support for young individuals in need.

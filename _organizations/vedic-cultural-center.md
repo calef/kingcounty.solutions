@@ -9,6 +9,7 @@ topic_titles:
 - Education & Learning
 type: Community-Based Organization
 website_url: https://www.vedicculturalcenter.org/outreach-activities/
+website_xml_sitemap_url: https://www.vedicculturalcenter.org/sitemap_index.xml
 ---
 
 The Vedic Cultural Center offers cultural events, educational programs, and free food distribution through its Food for Life initiative. It promotes Vedic arts, music, dance, and philosophy, aiming to uplift the community through knowledge and social harmony.

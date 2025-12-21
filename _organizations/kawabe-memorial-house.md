@@ -9,6 +9,7 @@ topic_titles:
 - Food & Nutrition
 type: Community-Based Organization
 website_url: https://kawabehouse.org/
+website_xml_sitemap_url: https://kawabehouse.org/sitemap_index.xml
 ---
 
 Kawabe Memorial House provides secure, affordable housing and culturally sensitive programs for seniors aged 62 and older. Established in 1972, it offers recreational, educational, and social activities, along with supportive services such as transportation, meals, and health screenings.

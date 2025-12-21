@@ -6,6 +6,7 @@ topic_titles:
 - Education & Learning
 type: School District
 website_url: https://www.vashonsd.org
+website_xml_sitemap_url: https://www.vashonsd.org/sitemap.xml
 ---
 
 The Vashon Island School District is committed to providing quality education to the students of Vashon Island. The district focuses on fostering a supportive learning environment that encourages academic achievement and personal growth.

@@ -10,6 +10,7 @@ topic_titles:
 - Health Care
 type: Community-Based Organization
 website_url: https://ctckids.org
+website_xml_sitemap_url: https://ctckids.org/sitemap.xml
 ---
 
 Children's Therapy Center provides therapeutic and supportive health and educational services for children with disabilities in King and Pierce counties. It focuses on maximizing children's potential through early developmental services, family resource navigation, and community engagement.

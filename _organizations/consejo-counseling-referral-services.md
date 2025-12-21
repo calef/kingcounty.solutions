@@ -9,6 +9,7 @@ topic_titles:
 - Shelter & Housing
 type: Community-Based Organization
 website_url: https://www.consejocounseling.org/
+website_xml_sitemap_url: https://www.consejocounseling.org/sitemap.xml
 ---
 
 Consejo Counseling & Referral Services provides culturally and linguistically appropriate behavioral health services, including mental health support, substance use treatment, and domestic violence assistance. With more than 45 years of experience, it empowers individuals and families to lead healthier lives through holistic care.

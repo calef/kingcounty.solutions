@@ -8,6 +8,7 @@ topic_titles:
 - Employment & Job Support
 type: Program
 website_url: https://www.nosscr.org/helping-you/referral-service
+website_xml_sitemap_url: https://nosscr.org/sitemap_index.xml
 ---
 
 The NOSSCR Referral Service connects claimants with legal representatives for Social Security cases. With more than 30 years of experience, the service screens calls to ensure the right match for legal needs, facilitating warm transfers to qualified representatives.

@@ -8,6 +8,7 @@ topic_titles:
 - Legal Aid
 type: Agency
 website_url: https://ocla.wa.gov/
+website_xml_sitemap_url: https://ocla.wa.gov/sitemap.xml
 ---
 
 The **Office of Civil Legal Aid (OCLA)** ensures equal access to justice for people with low incomes. Its work contributes to several social service domains:

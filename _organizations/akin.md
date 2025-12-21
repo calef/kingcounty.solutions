@@ -14,6 +14,7 @@ topic_titles:
 - Shelter & Housing
 type: Community-Based Organization
 website_url: https://akinfamily.org/
+website_xml_sitemap_url: https://akinfamily.org/sitemap_index.xml
 ---
 
 Akin is dedicated to supporting and strengthening families across Washington state. Through a comprehensive range of tailored services, Akin partners with children, families, and communities to improve health and well-being, disrupt cycles of inequity, and ensure families can thrive together.

@@ -8,6 +8,7 @@ topic_titles:
 - Shelter & Housing
 type: Department
 website_url: https://www.doi.gov/
+website_xml_sitemap_url: https://www.doi.gov/sitemap.xml
 ---
 
 The **Department of the Interior (DOI)** manages natural resources and supports tribal communities. Its social service functions include:

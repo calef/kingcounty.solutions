@@ -8,6 +8,7 @@ topic_titles:
 - Legal Aid
 type: Community-Based Organization
 website_url: https://elap.org/
+website_xml_sitemap_url: https://elap.org/sitemap_index.xml
 ---
 
 Eastside Legal Assistance Program (ELAP) provides free civil legal aid to low-income residents of East, Northeast, and Southeast King County. It assists individuals facing issues such as domestic violence, housing instability, and immigration challenges, empowering them to achieve fair and equal justice through legal support and community education.

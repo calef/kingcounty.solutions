@@ -6,6 +6,7 @@ topic_titles:
 - Food & Nutrition
 type: Program
 website_url: https://www.kentlutheran.org/kent-community-supper.html
+website_xml_sitemap_url: https://www.kentlutheran.org/sitemap.xml
 ---
 
 Kent Community Supper provides a free meal every Monday from 5 to 6 p.m., serving 60 to 100 people weekly since 1983. The program supports those in need, including families, the elderly, and the homeless, without requiring personal information. Volunteers are always welcome to help with meal preparation and service.

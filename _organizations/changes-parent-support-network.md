@@ -7,6 +7,7 @@ topic_titles:
 - Education & Learning
 type: Community-Based Organization
 website_url: https://cpsn.org/
+website_xml_sitemap_url: https://cpsn.org/sitemap_index.xml
 ---
 
 Changes Parent Support Network is a nonprofit organization dedicated to helping parents of acting-out children aged 13 and older. Through structured, peer-led meetings, we provide support and tools for parents to change their behaviors and improve family dynamics. Our mission is to foster positive relationships and promote independence for both parents and children.

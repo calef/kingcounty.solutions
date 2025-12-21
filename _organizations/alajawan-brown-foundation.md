@@ -9,6 +9,7 @@ topic_titles:
 - Personal & Household Needs
 type: Community-Based Organization
 website_url: https://alajawanshands.com/
+website_xml_sitemap_url: https://alajawanshands.com/wp-sitemap.xml
 ---
 
 The Alajawan Brown Foundation, also known as Alajawan’s Hands, carries on 12-year-old Alajawan Brown’s legacy of “making a difference in our community.” The family-led nonprofit convenes the annual Community Family Reunion, distributes thousands of free backpacks and school supplies, and collaborates with schools, King County agencies, and local businesses to meet urgent needs for children and families across Skyway and neighboring South King County neighborhoods.

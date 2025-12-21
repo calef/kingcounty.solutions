@@ -12,6 +12,7 @@ topic_titles:
 - Shelter & Housing
 type: Community-Based Organization
 website_url: https://mschelps.org/
+website_xml_sitemap_url: https://mschelps.org/sitemap.xml
 ---
 
 Multi-Service Center (MSC) is a South King County community action agency that connects people with housing stability, energy and utility assistance, and a market-style food bank anchored at its Federal Way headquarters. Case managers help families stay housed and move into MSC’s rental communities, while foreclosure counseling, resource navigation, and financial education address longer-term economic security.

@@ -9,6 +9,7 @@ topic_titles:
 - Personal & Household Needs
 type: Community-Based Organization
 website_url: https://www.smileschangelives.org/
+website_xml_sitemap_url: https://smileschangelives.org/sitemap.xml
 ---
 
 Smiles Change Lives provides access to orthodontic treatment for children from families who cannot afford braces. Since 1997, the organization has partnered with orthodontists to help nearly 16,000 children gain confidence through improved smiles.

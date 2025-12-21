@@ -9,6 +9,7 @@ topic_titles:
 - Childcare
 type: Community-Based Organization
 website_url: https://eastsidecenterforhealing.com/
+website_xml_sitemap_url: https://eastsidecenterforhealing.com/sitemap_index.xml
 ---
 
 Eastside Center for Healing offers individualized, trauma-informed therapy for children, teens, adults, and families. Our services include play therapy, couples therapy, and intensive outpatient programs, all tailored to meet unique emotional and behavioral challenges. We emphasize a holistic approach, integrating evidence-based practices to foster healing and growth.

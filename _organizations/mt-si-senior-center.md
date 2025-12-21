@@ -9,6 +9,7 @@ topic_titles:
 - Senior Services
 type: Community-Based Organization
 website_url: https://www.mtsiseniorcenter.org
+website_xml_sitemap_url: https://www.mtsiseniorcenter.org/sitemap.xml
 ---
 
 Mt. Si Senior Center offers a variety of services for seniors, including daily nutritious lunches, senior advocacy, and health care resources. The center fosters community connections and provides essential support to ensure seniors thrive in the Snoqualmie Valley.

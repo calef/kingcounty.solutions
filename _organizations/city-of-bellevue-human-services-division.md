@@ -8,6 +8,7 @@ topic_titles:
 - Shelter & Housing
 type: Division
 website_url: https://bellevuewa.gov/city-government/departments/parks/community-services/human-services
+website_xml_sitemap_url: https://bellevuewa.gov/sitemap.xml
 ---
 
 The City of Bellevue’s Human Services Division funds and coordinates programs in housing, food security, mental and behavioral health, and aging and disability services. As a government partner, it helps build capacity and infrastructure for nonprofits, aligning with AEA’s emphasis on strengthening organizational capacity and promoting excellence among providers.

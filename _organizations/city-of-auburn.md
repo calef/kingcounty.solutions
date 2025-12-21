@@ -5,6 +5,7 @@ title: City of Auburn
 topic_titles: []
 type: City
 website_url: https://www.auburnwa.gov/
+website_xml_sitemap_url: https://www.auburnwa.gov/sitemap.xml
 ---
 
 The city of Auburn serves the community of **Auburn**, Washington, providing various services to enhance the quality of life for its residents.

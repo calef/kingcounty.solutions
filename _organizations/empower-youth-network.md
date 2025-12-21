@@ -7,6 +7,7 @@ topic_titles:
 - Education & Learning
 type: Community-Based Organization
 website_url: https://empoweryouthnetwork.org/
+website_xml_sitemap_url: https://empoweryouthnetwork.org/wp-sitemap.xml
 ---
 
 Empower Youth Network offers mentoring, job readiness support, and life skills coaching for youth in the Eastside area. The organization connects young individuals to education and employment pathways, helping to reduce service gaps for younger populations. Its efforts complement the goals of serving all ages and enhance the network's capacity to respond to youth-focused human services needs.

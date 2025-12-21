@@ -7,6 +7,7 @@ topic_titles:
 - Shelter & Housing
 type: Community-Based Organization
 website_url: https://byrdbarrplace.org
+website_xml_sitemap_url: https://byrdbarrplace.org/sitemap.xml
 ---
 
 Byrd Barr Place is dedicated to helping individuals and families in Seattle achieve self-sufficiency through essential services such as food assistance, energy support, and advocacy for systemic change. We aim to build a more equitable future for all Washingtonians.

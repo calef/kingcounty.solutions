@@ -8,6 +8,7 @@ topic_titles:
 - Legal Aid
 type: Community-Based Organization
 website_url: https://www.kcba.org/
+website_xml_sitemap_url: https://www.kcba.org/sitemap.xml
 ---
 
 The **King County Bar Association (KCBA)** is the county’s volunteer bar association, advancing access to justice and supporting the local legal community. It delivers civil legal aid for low-income residents through programs like Volunteer Legal Services, Neighborhood Legal Clinics, Kinship Care Solutions, the Housing Justice Project, and the Family Law Mentor Program, while offering member education, networking, and public legal education.

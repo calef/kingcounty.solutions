@@ -15,6 +15,7 @@ topic_titles:
 - Shelter & Housing
 type: Department
 website_url: https://humaninterests.seattle.gov/
+website_xml_sitemap_url: https://humaninterests.seattle.gov/sitemap_index.xml
 ---
 
 The Seattle Human Services Department connects people with essential resources and solutions during times of need. Services include assistance with utilities, food, housing, and support for individuals facing domestic violence, disabilities, and mental health challenges.

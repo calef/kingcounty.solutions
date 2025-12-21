@@ -9,6 +9,7 @@ topic_titles:
 - Shelter & Housing
 type: Community-Based Organization
 website_url: https://communityrootshousing.org/find-apartment/
+website_xml_sitemap_url: https://communityrootshousing.org/sitemap_index.xml
 ---
 
 Community Roots Housing develops and manages affordable homes for more than 2,300 residents in Seattle. The organization focuses on providing quality housing and community-centered support, helping families and individuals thrive while combating displacement due to gentrification.

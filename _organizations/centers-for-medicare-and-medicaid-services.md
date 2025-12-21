@@ -8,6 +8,7 @@ topic_titles:
 - Financial Assistance
 type: Agency
 website_url: https://www.cms.gov/
+website_xml_sitemap_url: https://www.cms.gov/sitemap.xml
 ---
 
 The **Centers for Medicare & Medicaid Services (CMS)** administers major federal health insurance programs. Its responsibilities include:

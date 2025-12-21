@@ -9,6 +9,7 @@ topic_titles:
 - Financial Assistance
 type: Community-Based Organization
 website_url: https://ststephenhousing.org/i-need-help-with-rental-assistance/
+website_xml_sitemap_url: https://ststephenhousing.org/wp-sitemap.xml
 ---
 
 St. Stephen Housing Association provides housing stability programs, offering rental and utility assistance to households at risk of homelessness in King County. The organization aims to help families facing financial hardships remain housed and prevent homelessness.

@@ -10,6 +10,7 @@ topic_titles:
 - Health Care
 type: Community-Based Organization
 website_url: https://carenetps.org/parenting-support/
+website_xml_sitemap_url: https://carenetps.org/sitemap.xml
 ---
 
 Care Net of Puget Sound offers free, confidential support for parents, including parenting classes, material assistance, and emergency aid. Services are available from pregnancy through the child's first four years, ensuring parents receive the education and resources they need.

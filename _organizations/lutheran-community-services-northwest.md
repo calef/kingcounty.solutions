@@ -20,6 +20,7 @@ topic_titles:
 - Transportation & Mobility
 type: Community-Based Organization
 website_url: https://lcsnw.org/
+website_xml_sitemap_url: https://lcsnw.org/sitemap_index.xml
 ---
 
 Lutheran Community Services Northwest provides a wide range of services, including behavioral health, family support, crime victim services, and assistance for refugees and immigrants. We aim to strengthen communities by supporting individuals and families in their journey toward health, justice, and hope.

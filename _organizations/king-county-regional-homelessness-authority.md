@@ -9,6 +9,7 @@ topic_titles:
 - Shelter & Housing
 type: Agency
 website_url: https://kcrha.org/
+website_xml_sitemap_url: https://kcrha.org/sitemap_index.xml
 ---
 
 KCRHA is dedicated to unifying and coordinating homelessness response services in King County. By centering people with lived experience, KCRHA aims to create a system that effectively addresses homelessness through data-driven strategies and principles of social justice and racial equity.

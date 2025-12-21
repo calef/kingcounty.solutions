@@ -7,6 +7,7 @@ topic_titles:
 - Education & Learning
 type: School District
 website_url: https://www.seattleschools.org
+website_xml_sitemap_url: https://www.seattleschools.org/sitemap.xml
 ---
 
 Seattle Public Schools is the largest school district in Washington state, serving a diverse student population across numerous schools. The district is committed to providing quality education and fostering a supportive learning environment for all students. Seattle Public Schools offers a variety of programs and services aimed at enhancing educational outcomes and supporting student success.

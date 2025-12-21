@@ -6,6 +6,7 @@ topic_titles:
 - Domestic Violence
 type: Community-Based Organization
 website_url: https://www.acresofdiamonds.org
+website_xml_sitemap_url: https://www.acresofdiamonds.org/sitemap.xml
 ---
 
 Acres of Diamonds is a program dedicated to helping homeless mothers and their children rebuild their lives. Through structured living plans, on-site counseling, and life skills training, the program supports families in overcoming trauma and achieving self-sufficiency.

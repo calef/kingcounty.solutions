@@ -9,6 +9,7 @@ topic_titles:
 - Education & Learning
 type: Community-Based Organization
 website_url: https://linktocarewa.org/
+website_xml_sitemap_url: https://linktocarewa.org/sitemap_index.xml
 ---
 
 Link to Care WA helps individuals connect with health care services using technology. It provides coaching on using phones and the Internet to manage health care, access telehealth services, and find resources for digital skills.

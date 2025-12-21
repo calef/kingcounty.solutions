@@ -7,6 +7,7 @@ topic_titles:
 - Food & Nutrition
 type: Community-Based Organization
 website_url: https://www.sdchp.org/ministries/feeding/
+website_xml_sitemap_url: https://www.sdchp.org/wp-sitemap.xml
 ---
 
 St. Dunstan’s Community Meal offers a self-serve buffet every Tuesday from 5 p.m. to 6:30 p.m., providing good food and fellowship to all. Volunteers prepare meals and serve the community, fostering relationships and support for everyone, regardless of their spiritual journey.

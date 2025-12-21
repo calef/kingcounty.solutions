@@ -7,6 +7,7 @@ topic_titles:
 - Mental Health & Counseling
 type: Agency
 website_url: https://lisahakecounseling.com/
+website_xml_sitemap_url: https://lisahakecounseling.com/sitemap_index.xml
 ---
 
 Lisa Hake Counseling offers therapeutic services for individuals and couples, focusing on mental health challenges such as depression, anxiety, and relationship issues. With a collaborative approach, Lisa integrates various therapeutic methods to support clients in navigating life's hurdles. Services are provided in person, with a commitment to inclusivity for diverse populations.

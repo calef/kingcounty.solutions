@@ -11,6 +11,7 @@ topic_titles:
 - Disabilities
 type: Community-Based Organization
 website_url: https://eeuschool.org/
+website_xml_sitemap_url: https://eeuschool.org/wp-sitemap.xml
 ---
 
 The Experimental Education Unit (EEU) provides inclusive education for children with and without disabilities, fostering a community where diversity is embraced. With a focus on equity and belonging, EEU supports cognitive, motor, communication, and social skill development through collaborative learning environments.

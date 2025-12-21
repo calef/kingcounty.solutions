@@ -6,6 +6,7 @@ topic_titles:
 - Food & Nutrition
 type: Community-Based Organization
 website_url: https://prlc.org/phinney-ridge-lutheran-church-food-bank
+website_xml_sitemap_url: https://prlc.org/sitemap.xml
 ---
 
 The Phinney Ridge Lutheran Church Food Bank serves approximately 50 families weekly without zip code restrictions. Open for distribution on Tuesdays and Wednesdays, it provides a variety of food options, including low sodium and baby items, as well as toiletry supplies. The food bank relies on volunteers and accepts donations during distribution hours.

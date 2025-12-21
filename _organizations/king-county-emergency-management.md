@@ -8,6 +8,7 @@ topic_titles:
 - Transportation & Mobility
 type: Agency
 website_url: https://kcemergency.com/
+website_xml_sitemap_url: https://kcemergency.com/sitemap.xml
 ---
 
 King County Emergency Management provides crucial information and resources during significant events and disasters in King County, Washington. They offer safety tips, emergency directives, and updates to help residents stay informed and prepared.

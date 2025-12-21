@@ -11,6 +11,7 @@ topic_titles:
 - Employment & Job Support
 type: Community-Based Organization
 website_url: https://pimsavvy.com/bellevue/
+website_xml_sitemap_url: https://pimsavvy.com/sitemap_index.xml
 ---
 
 PIM Savvy offers free financial coaching, English conversation practice, and resume reviews at Bellevue Mini City Hall. They provide assistance with tax preparation and applications for various financial benefits, helping low- to moderate-income individuals in King and Snohomish counties.

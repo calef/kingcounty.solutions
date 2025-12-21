@@ -7,6 +7,7 @@ topic_titles:
 - Health Care
 type: Division
 website_url: https://www.dshs.wa.gov/bha
+website_xml_sitemap_url: https://www.dshs.wa.gov/sitemap.xml
 ---
 
 The **Behavioral Health Administration (BHA)** provides prevention, treatment, and recovery support for individuals facing mental health and substance use challenges. It relates to:

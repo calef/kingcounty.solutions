@@ -13,6 +13,7 @@ topic_titles:
 - Mental Health & Counseling
 type: Community-Based Organization
 website_url: https://wcbinfo.org
+website_xml_sitemap_url: https://wcbinfo.org/sitemap.xml
 ---
 
 The Washington Council of the Blind promotes opportunity, equality, and independence for the blind and visually impaired community through education, advocacy, and public awareness. With chapters across the state, WCB offers resources, scholarships, and local activities to support individuals living with vision loss.

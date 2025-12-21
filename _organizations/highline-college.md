@@ -6,6 +6,7 @@ topic_titles:
 - Education & Learning
 type: College
 website_url: https://www.highline.edu/
+website_xml_sitemap_url: https://www.highline.edu/sitemap.xml
 ---
 
 Highline College offers more than 100 degrees and certificates across various pathways, including business, health, education, and STEM. The college provides resources for new, returning, and transfer students, along with programs for adult education and career preparation.

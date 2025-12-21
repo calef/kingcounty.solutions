@@ -9,6 +9,7 @@ topic_titles:
 - Domestic Violence
 type: Community-Based Organization
 website_url: https://marysplaceseattle.org
+website_xml_sitemap_url: https://www.marysplaceseattle.org/sitemap.xml
 ---
 
 Mary's Place is a nonprofit organization dedicated to addressing family homelessness in Seattle and King County. It provides emergency shelter, resources, and support for women and families, ensuring safety and stability through various programs and services.

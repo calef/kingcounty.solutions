@@ -7,6 +7,7 @@ topic_titles:
 - Education & Learning
 type: Agency
 website_url: https://www.epa.gov/
+website_xml_sitemap_url: https://www.epa.gov/sitemap.xml
 ---
 
 The **Environmental Protection Agency (EPA)** protects human health and the environment. It contributes to social services by promoting:

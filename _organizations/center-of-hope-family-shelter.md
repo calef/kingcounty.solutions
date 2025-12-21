@@ -8,6 +8,7 @@ topic_titles:
 - Food & Nutrition
 type: Program
 website_url: https://reachrenton.org/center-of-hope
+website_xml_sitemap_url: https://reachrenton.org/sitemap.xml
 ---
 
 The Center of Hope provides 24/7 emergency shelter for homeless families, offering a safe environment and essential resources such as meals, hygiene supplies, and case management. Our goal is to support families in their journey from homelessness to stability.

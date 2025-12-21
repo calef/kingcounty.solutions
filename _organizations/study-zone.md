@@ -7,6 +7,7 @@ topic_titles:
 - Education & Learning
 type: Program
 website_url: https://kcls.org/study-zone/
+website_xml_sitemap_url: https://kcls.org/sitemap.xml
 ---
 
 Study Zone offers homework help for students in grades K-12, providing both in-person and online tutoring. Students can receive assistance in various subjects, including math, science and English. The program aims to create a positive environment for learning and academic support.

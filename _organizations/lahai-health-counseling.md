@@ -11,6 +11,7 @@ topic_titles:
 - Health Care
 type: Community-Based Organization
 website_url: https://lahai.org/services/counseling
+website_xml_sitemap_url: https://lahai.org/sitemap_index.xml
 ---
 
 Lahai Health Counseling provides professional mental health counseling to individuals, couples, and children. With trained counselors and a focus on compassionate care, we aim to meet the emotional and psychological needs of the underserved in our community. Services are offered at our Lynnwood and Seattle locations, with a suggested co-pay of $10 per appointment.

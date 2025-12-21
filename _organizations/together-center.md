@@ -9,6 +9,7 @@ topic_titles:
 - Mental Health & Counseling
 type: Community-Based Organization
 website_url: https://togethercenter.org/
+website_xml_sitemap_url: https://togethercenter.org/sitemap_index.xml
 ---
 
 Together Center provides high-quality preschool, before- and after-school care, and community education for families in the South Snoqualmie Valley. It combines early-learning services with connections to other human services supports.

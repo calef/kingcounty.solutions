@@ -15,6 +15,7 @@ topic_titles:
 - Shelter & Housing
 type: Community-Based Organization
 website_url: https://www.elcentrodelaraza.org/
+website_xml_sitemap_url: https://www.elcentrodelaraza.org/sitemap_index.xml
 ---
 
 El Centro de la Raza (ECDLR) is a civil rights-rooted community anchor that now combines **43 programs** into nine service areas: Food and Health, Benefits and Resource Navigation, Workforce Development, Advocacy and Culture, Youth Services, Housing, Small Business Services, Child and Family Services, and Financial Empowerment. This structure allows multilingual families to find culturally specific support in one place.

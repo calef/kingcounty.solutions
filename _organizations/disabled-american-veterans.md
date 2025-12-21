@@ -9,6 +9,7 @@ topic_titles:
 - Mental Health & Counseling
 type: Community-Based Organization
 website_url: https://www.dav.org/veterans/i-need-a-ride/
+website_xml_sitemap_url: https://www.dav.org/sitemap_index.xml
 ---
 
 DAV provides free transportation for veterans to and from VA medical facilities through a network of volunteer drivers. Since 1987, DAV has donated thousands of vehicles to support this service, ensuring veterans can access the care they need.

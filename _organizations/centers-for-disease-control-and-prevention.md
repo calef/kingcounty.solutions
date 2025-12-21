@@ -7,6 +7,7 @@ topic_titles:
 - Education & Learning
 type: Agency
 website_url: https://www.cdc.gov/
+website_xml_sitemap_url: https://www.cdc.gov/wcms-auto-sitemap-index.xml
 ---
 
 The **Centers for Disease Control and Prevention (CDC)** protects public health through research, education, and disease prevention. Its programs relate to:

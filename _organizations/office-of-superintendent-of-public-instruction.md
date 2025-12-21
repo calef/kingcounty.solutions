@@ -9,6 +9,7 @@ topic_titles:
 - Transportation & Mobility
 type: Agency
 website_url: https://ospi.k12.wa.us/
+website_xml_sitemap_url: https://ospi.k12.wa.us/sitemap.xml
 ---
 
 **The Office of the Superintendent of Public Instruction (OSPI)** oversees K-12 public education across Washington state. It sets academic standards, administers statewide assessments, allocates funding to school districts, and supports educators and students through programs such as special education, school meals, and pupil transportation.
