@@ -11,6 +11,7 @@ require_relative '../logging'
 require_relative '../models/topic'
 require_relative '../front_matter/document'
 require_relative '../feed/discovery'
+require_relative '../sitemap/discovery'
 require_relative '../support/http_client'
 require_relative '../support/url_utils'
 
@@ -30,6 +31,7 @@ module Mayhem
         topic_model: Mayhem::Models::Topic,
         client: nil,
         feed_finder: nil,
+        sitemap_finder: nil,
         http_client: nil,
         logger: Mayhem::Logging.build_logger(env_var: 'LOG_LEVEL')
       )
@@ -40,6 +42,7 @@ module Mayhem
         @client = client || OpenAI::Client.new(access_token: ENV.fetch('OPENAI_API_KEY'))
         @http = http_client || Mayhem::Support::HttpClient.new(timeout: READ_TIMEOUT, logger: @logger)
         @feed_finder = feed_finder || default_feed_finder
+        @sitemap_finder = sitemap_finder || default_sitemap_finder
       end
 
       def run(raw_url)
@@ -59,6 +62,7 @@ module Mayhem
         abort "No content scraped from #{website_url}" if pages.empty?
 
         feed_result = discover_feed_urls(website_url)
+        sitemap_url = discover_sitemap_url(website_url)
         topics = load_topics
         types = existing_types.empty? ? [DEFAULT_TYPE] : existing_types
         prompt = build_prompt(website_url, pages, topics, types)
@@ -83,6 +87,7 @@ module Mayhem
           front_matter['news_rss_url'] ||= feed_result.rss_url
           front_matter['events_ical_url'] ||= feed_result.ical_url
         end
+        front_matter['website_xml_sitemap_url'] = sitemap_url if sitemap_url
         front_matter['title'] = title
         front_matter['website_url'] = website_url
 
@@ -287,12 +292,25 @@ module Mayhem
         Mayhem::FeedDiscovery::FeedFinder.new(@http, logger: @logger)
       end
 
+      def default_sitemap_finder
+        Mayhem::SitemapDiscovery::Finder.new(http_client: @http, logger: @logger)
+      end
+
       def discover_feed_urls(website_url)
         return nil unless website_url
 
         @feed_finder&.find(website_url)
       rescue StandardError => e
         @logger.warn "Feed discovery failed for #{website_url}: #{e.message}"
+        nil
+      end
+
+      def discover_sitemap_url(website_url)
+        return nil unless website_url
+
+        @sitemap_finder&.find(website_url)
+      rescue StandardError => e
+        @logger.warn "Sitemap discovery failed for #{website_url}: #{e.message}"
         nil
       end
 
