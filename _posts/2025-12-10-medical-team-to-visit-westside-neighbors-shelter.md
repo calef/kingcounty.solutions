@@ -1,7 +1,6 @@
 ---
 date: '2025-12-10T20:07:09+00:00'
 events:
-- 2025-12-20-medical-care-at-american-legion-hall
 - 2026-01-03-medical-care-at-american-legion-hall
 events_extracted: true
 feed_content: |-
