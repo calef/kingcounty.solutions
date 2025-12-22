@@ -6,7 +6,7 @@ feed_content: |-
   <p><label for="pwbox-16666">Password: <input name="post_password" id="pwbox-16666" type="password" spellcheck="false" required size="20" /></label> <input type="submit" name="Submit" value="Enter" /></p>
   </form>
   <p>The post <a href="https://ihdd.org/2025/11/25/down-syndrome-connect-research-study-roundup/">Protected: Down Syndrome-Connect Research Study Roundup</a> appeared first on <a href="https://ihdd.org">UW IHDD</a>.</p>
-images: []
+image_ids: []
 locations: []
 published: false
 source: Institute on Human Development and Disability

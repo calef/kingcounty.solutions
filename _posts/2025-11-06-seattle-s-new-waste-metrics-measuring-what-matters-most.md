@@ -14,7 +14,7 @@ feed_content: '<a href="https://atyourservice.seattle.gov/2025/11/06/seattles-ne
   the way we consume and what we throw away is changing fast. That’s why Seattle Public
   Utilities (SPU) has introduced new industry-leading solid waste metrics that focus
   not just on recycling, [&#8230;]'
-images: []
+image_ids: []
 locations: []
 published: false
 source: Seattle Public Utilities

@@ -67,7 +67,7 @@ feed_content: |-
 
   <p>Visit <a href="https://operationhomefront.org/holiday-meals-for-military/" target="_blank" rel="noreferrer noopener">Operation Homefront&#8217;s family events page</a>&nbsp;or follow Operation Homefront on Facebook to find out if a Holiday Meals for Military event is being held in your area.&nbsp;&nbsp;</p>
   <p>The post <a href="https://operationhomefront.org/tis-the-season-for-holiday-meals-for-military/">‘Tis the Season for Holiday Meals for Military®  </a> appeared first on <a href="https://operationhomefront.org">Operation Homefront</a>.</p>
-images:
+image_ids:
 - 9e98beb00c24fa6337279e196d37d8e8f550e93342c04a9568c3414f35e5595e
 locations:
 - King County

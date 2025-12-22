@@ -103,7 +103,7 @@ feed_content: "## **A Heat Pump Keeps Your Home Cool in the Summer and Warm in t
   able to offer a well-rounded, one-stop service that helps clients both upgrade their
   systems and manage their ongoing energy costs.”\n\nTo find out if getting a heat
   pump is right for you, head to the [Energy Smart Eastside website](https://www.energysmarteastside.org/).&nbsp;&nbsp;"
-images: []
+image_ids: []
 locations:
 - King County
 source: Hopelink

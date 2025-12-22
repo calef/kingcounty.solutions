@@ -65,7 +65,7 @@ feed_content: |-
   </div>
   </div>
   <p>The post <a href="https://www.rewa.org/celebrating-the-remarkable-leadership-of-mahnaz-eshetu/">Celebrating the Remarkable Leadership of Mahnaz Eshetu</a> appeared first on <a href="https://www.rewa.org">Refugee Women&#039;s Alliance</a>.</p>
-images:
+image_ids:
 - 8305a5cf19d9f57c384f46f7ec33af50c2f2783edaf86770eb768d6b2e546666
 - 98be3a067c204e192e9c35c0dce1c2c797505e199bbc7c88b2817a37acf67dca
 - 9e26cda2f45d88c3dd8a4187b7d3980575ed79f3184153fd9b9ee0d39412d45c

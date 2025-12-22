@@ -119,7 +119,7 @@ feed_content: |-
 
 
   <p></p>
-images:
+image_ids:
 - 3228846b2f4bb1a019f806df6b4cb6101a31bd3f8128cc4c12175d5e1f5818be
 - 02de085043b3a8bf9a503560bcda4b5eae536231455a631dc3d7ee8130d1ac7b
 - 4b6b6173bced96a89d5595a83ceb3adeeb9d34bcd12821c0cf29bd4d54ab6385

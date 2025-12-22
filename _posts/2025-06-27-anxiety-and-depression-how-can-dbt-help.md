@@ -27,7 +27,7 @@ feed_content: |-
   <p class="p1">THIRA Health knows that depression and anxiety often co-occur, and that treatment for mental health must support clients to work through all concurrent mental health challenges in order to make sure they can sustain therapy progress long term.</p>
   <p class="p1">THIRA’s DBT-based depression and anxiety treatment in Seattle helps women, teen girls, and gender non-conforming individuals shake off the weight of their mental health symptoms through care that considers the root of their issues, brings them together with others in reparative connection through group therapy, and helps them develop and use strong coping skills that empower clients to make intentional choices about how they respond to life’s challenges.</p>
   <p class="p1">If you’re struggling with depression and anxiety, please know you’re not broken, and you’re not alone. You don’t have to go through this experience without support, and<a href="https://thirahealth.com/contact/"><span class="s1"> we welcome you to reach out to see how DBT can help you, today</span></a>.</p>
-images: []
+image_ids: []
 locations:
 - King County
 source: THIRA Health

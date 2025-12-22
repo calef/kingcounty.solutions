@@ -6,7 +6,7 @@ feed_content: |-
 
 
   <p>Dust off your go-go boots and join us for a groovy night with live DJ music and dancing.<br /><br />Beer, &hellip;</p></a>
-images: []
+image_ids: []
 locations: []
 published: false
 source: The Center for Active Living

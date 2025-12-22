@@ -820,7 +820,7 @@ feed_content: "<div class=\"wp-block-group\"><div class=\"wp-block-group__inner-
   post <a href=\"https://www.elcentrodelaraza.org/cuentos-from-our-work-october-2025/\">Cuentos
   from Our Work: OCTOBER 2025</a> appeared first on <a href=\"https://www.elcentrodelaraza.org\">El
   Centro de la Raza</a>.</p>"
-images:
+image_ids:
 - 37f46900c857f6d6a6fc4a87a06be1244ec3498ee48da2f1b4deb9b5c42fff56
 - f80dcb8a95662a733a02f5094028f2cfb6df14299da31722fccc13631a754aea
 - e0778eb419f66c83cd192355a605b0d564b5d926622d0b8718b4a393988d6d0d

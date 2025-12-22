@@ -4,7 +4,7 @@ events: []
 events_extracted: true
 feed_content: The U.S. experienced many changes and challenges due to the COVID-19
   pandemic that shook the globe, but one unanticipated consequence was...
-images: []
+image_ids: []
 locations:
 - King County
 source: Friends of Youth

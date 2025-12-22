@@ -82,7 +82,7 @@ feed_content: <a class="skip-link screen-reader-text" href="#content">Skip to co
   <span class="tribe-events-meta-value"> <abbr title="2026-02-07" class="tribe-events-abbr
   tribe-events-end-date dtend nitro-lazy"> February 7, 2026 </abbr> </span> </li>
   </ul> </div> </div> </div> </div> </section>
-images: []
+image_ids: []
 location: ''
 locations:
 - King County

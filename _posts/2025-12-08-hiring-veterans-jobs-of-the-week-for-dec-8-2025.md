@@ -245,7 +245,7 @@ feed_content: |-
 
   <p><a>Norfolk, VA: Hampton Roads Military Community Education Connect (Southside) – Thursdays</a></p>
 feed_content_checksum: 1ae0a58e8c9ea1ec3dd9a864d92a9d527bdbf387
-images: []
+image_ids: []
 locations: []
 published: false
 source: Veterans Affairs Pension Program

@@ -7,7 +7,7 @@ feed_content: Zheng Zhou just celebrated his two-year anniversary of working wit
   Zheng writes about his role as an Administrative Specialist, why his work is meaningful
   and rewarding, and how positive energy can be contagious. What is your role as Seattle
   Human Services? As an Administrative Specialist [&#8230;]
-images: []
+image_ids: []
 locations:
 - King County
 source: Seattle Human Services Department

@@ -32,7 +32,7 @@ feed_content: "<h4><strong>Facing winter outside</strong></h4><p>When Nicole, a 
   \ \n  \n\n\n\n\n\n \n  <a>\n    Make a Gift to Support more families like Nicole's\n
   \ </a>"
 feed_content_checksum: 815fbfb1566a69c1fd71a1e0e28a6cd621849ff8
-images: []
+image_ids: []
 locations:
 - King County
 source: Mary's Place

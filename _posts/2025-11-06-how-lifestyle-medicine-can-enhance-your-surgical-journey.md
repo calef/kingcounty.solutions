@@ -53,7 +53,7 @@ feed_content: |-
 
 
   <p><em>Thomas Hammett, DPT, DipACLM, is Director of Operations for Valley&#8217;s Lifestyle Medicine clinics. </em></p>
-images: []
+image_ids: []
 locations:
 - King County
 source: Hospital District No. 1 (Valley Medical Center)

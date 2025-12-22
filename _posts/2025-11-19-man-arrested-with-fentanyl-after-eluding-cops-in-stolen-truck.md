@@ -4,7 +4,7 @@ feed_content: Seattle police officers arrested a 31-year-old felon for eluding p
   in a stolen truck Tuesday afternoon following an eagle-eyed police track from a
   helicopter. On Nov 18, at about 2:00 p.m., patrol officers, equipped with an Automatic
   License Plate...
-images: []
+image_ids: []
 locations: []
 published: false
 source: City of Seattle

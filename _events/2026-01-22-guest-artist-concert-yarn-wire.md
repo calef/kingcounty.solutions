@@ -10,7 +10,7 @@ feed_content: <div class="field-items"> <div class="field-item"> <p>Acclaimed pi
   collaborative projects. Our artistic programming is driven by the desire to present
   music that reflects the full spectrum of our community at the highest level.</p>
   </div> </div>
-images: []
+image_ids: []
 location: Meany Hall (MNY)
 locations:
 - King County

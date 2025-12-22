@@ -37,7 +37,7 @@ feed_content: "<p>On a cool September morning along the southern waters of Hood 
   Canal is the ancestral territory of the Twana (Skokomish) people. The traditional
   name for this body of water is “tuwaduq sidaqʷ” [too-wah-duke SEE-dock], which means
   &#8216;the Twana people&#8217;s saltwater&#8217;.</p>\r\n<p>"
-images: []
+image_ids: []
 locations:
 - King County
 source: Cancer Lifeline Financial Assistance for Cancer Patients

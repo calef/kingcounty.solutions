@@ -34,7 +34,7 @@ feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <div> <span>
   Service – Cantonese and Mandarin</a></h3> <span>December 16 @ 9:00 am</span> - <span>5:00
   pm</span> </div> </li> </ul> </div> </div> </section> </div>"
 feed_content_checksum: 186b221f4e27180f5848b23de5ab02a08bc51a15
-images: []
+image_ids: []
 location: WA
 locations:
 - King County

@@ -57,7 +57,7 @@ feed_content: |-
 
   <p>This article was originally published on the <a>VA Madison Health care System site</a> and has been edited for style and clarity.  </p>
 feed_content_checksum: a9215aadbbe39eac429dd9e574fa9f5ea888db68
-images: []
+image_ids: []
 locations:
 - King County
 source: Veterans Affairs Pension Program

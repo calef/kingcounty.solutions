@@ -4,7 +4,7 @@ events: []
 events_extracted: true
 feed_content: <img src="https://www.auburnwa.gov/UserFiles/Servers/Server_11470554/Image/News/COVID%2019.jpg"
   />
-images: []
+image_ids: []
 locations:
 - King County
 source: City of Auburn

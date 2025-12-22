@@ -241,7 +241,7 @@ feed_content: |-
 
   <p><em>Disclaimer: This job description is not to be construed as an exhaustive list of all responsibilities, duties, and skills required for this position. All HIP employees may be required to perform duties outside of their normal responsibilities from time to time, as needed, to meet the ongoing needs of the organization.</em></p>
   <p>The post <a href="https://hungerintervention.org/2025/11/17/senior-meal-program-coordinator/">We&#8217;re Hiring: Senior Meal Program Coordinator</a> appeared first on <a href="https://hungerintervention.org">Hunger Intervention Program</a>.</p>
-images: []
+image_ids: []
 locations:
 - King County
 source: Hunger Intervention Program

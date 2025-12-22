@@ -41,7 +41,7 @@ feed_content: |-
   ![Lawyers for Good Government logo](https://www.commerce.wa.gov/wp-content/uploads/2025/10/l4gg-color.png)
 
   ![Giraffe logo](https://www.commerce.wa.gov/wp-content/uploads/2025/10/giraffe-logo-purple.png)
-images: []
+image_ids: []
 locations: []
 published: false
 source: Department of Commerce

@@ -45,7 +45,7 @@ feed_content: |-
 
   <p></p>
 feed_content_checksum: f534921eb0134eb5585fb3000a1948b18b00bcde
-images: []
+image_ids: []
 locations:
 - King County
 rss_guid: https://news.va.gov/?p=143884

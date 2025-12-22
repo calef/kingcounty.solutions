@@ -9,7 +9,7 @@ feed_content: LIHI's Virtual Auction  is our big annual public fundraiser for Ti
   19th and run through Wednesday, December 3rd. It's not too late to donate an item
   to the auction. Please visit Donate an Auction Item . There is also still time to
   sponsor. Please...
-images: []
+image_ids: []
 locations:
 - King County
 source: Low Income Housing Institute

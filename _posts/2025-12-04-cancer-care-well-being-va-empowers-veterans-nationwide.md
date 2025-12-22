@@ -92,7 +92,7 @@ feed_content: |-
 
 
   <p>Visit&nbsp;<a href="https://www.myhealth.va.gov/mhv-portal-web/home" rel="noopener">My HealtheVet</a>&nbsp;to learn tips and tools to help you partner with your health care team, so together, you may work to manage your health.&nbsp;</p>
-images: []
+image_ids: []
 locations:
 - King County
 source: Veterans Affairs Pension Program

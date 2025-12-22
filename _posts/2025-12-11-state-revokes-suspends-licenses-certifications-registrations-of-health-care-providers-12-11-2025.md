@@ -87,7 +87,7 @@ feed_content: "<span>State revokes, suspends licenses, certifications, registrat
   \   <div>News Author</div>\n              <div>Washington State Department of Health</div>\n
   \         </div>"
 feed_content_checksum: bce4fd40f6162705818c583e8c7290fa28ffa29d
-images: []
+image_ids: []
 locations:
 - King County
 rss_guid: 39932 at https://doh.wa.gov

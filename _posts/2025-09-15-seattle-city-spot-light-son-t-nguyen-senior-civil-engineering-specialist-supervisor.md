@@ -13,7 +13,7 @@ feed_content: '<img width="150" height="150" src="https://powerlines.seattle.gov
   Tell us about your role. For the last 22 years, it has been a great pleasure to
   work and grow in the Technical Resources Unit. In my current role, I manage a talented
   and skilled team of Computer-Aided Design [&#8230;]'
-images: []
+image_ids: []
 locations: []
 published: false
 source: City Light Bill Assistance Programs

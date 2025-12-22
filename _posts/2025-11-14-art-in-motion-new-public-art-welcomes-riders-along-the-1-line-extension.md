@@ -7,7 +7,7 @@ feed_content: <div><p paraid="1973814904" paraeid="{cd3fb4e6-7e4b-446c-acce-d66d
   noopener">When the 1 Line opens to Federal Way on Dec. 6</a>, riders will be greeted
   not just by new stations — but by vibrant, community-inspired public art that celebrates
   the spirit, history, and diversity of South King County.&nbsp;</p></div>
-images: []
+image_ids: []
 locations:
 - King County
 source: Sound Transit

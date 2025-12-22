@@ -8,7 +8,7 @@ feed_content: <div class="field field-name-body field-type-text-with-summary fie
   Department of Youth and Family Services (YFS) about the threat to food security
   caused by the reduction in SNAP (Supplemental Nutrition Assistance Program) distributions
   due to the prolonged shutdown of the federal government.  </p></div></div></div>
-images: []
+image_ids: []
 locations:
 - King County
 source: City of Mercer Island

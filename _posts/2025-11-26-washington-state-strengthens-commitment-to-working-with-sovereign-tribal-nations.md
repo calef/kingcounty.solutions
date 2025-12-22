@@ -11,7 +11,7 @@ feed_content: |-
   <p>Finally, the order requires agencies to establish protections for sensitive Tribal information and Indigenous Knowledge shared during government-to-government interactions, ensuring that confidential material is handled appropriately and respectfully. This commitment is significant, as it recognizes that such knowledge is not simply data, but part of a living cultural heritage that must be safeguarded with care. By putting these protections in place, the state acknowledges its responsibility to honor Tribal trust and uphold the integrity of the relationships it seeks to strengthen.</p>
   <p>Executive Order 25-10 marks an important step toward more respectful partnerships between the State of Washington and Tribal Nations. For the Snoqualmie Indian Tribe, these commitments affirm that any state decisions affecting our people, lands, culture, and resources must include us from the beginning rather than after plans are already in motion.</p>
   <p>The Tribal Council will continue monitoring the rollout of these changes and will keep members informed as statewide guidelines, trainings, and reporting systems take shape.</p>
-images: []
+image_ids: []
 locations: []
 published: false
 source: Snoqualmie Indian Tribe

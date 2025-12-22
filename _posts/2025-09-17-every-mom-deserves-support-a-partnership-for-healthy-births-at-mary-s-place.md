@@ -67,7 +67,7 @@ feed_content: "<p class=\"\">Pregnancy and childbirth can be both beautiful and 
   out or Mary’s Place moment with Ayan!</strong> </span></h4>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
   \ \n  \n\n\n\n\n\n\n\n\n  <iframe scrolling=\"no\" allowfullscreen src=\"//www.youtube.com/embed/mmFN3HZFnp0?wmode=opaque\"
   width=\"854\" frameborder=\"0\" height=\"480\"></iframe>"
-images:
+image_ids:
 - cb5a9635dead2951c8347a6061e3224ed5fc8bd2b7f8aa37e219f4473ec3cdb1
 locations:
 - King County

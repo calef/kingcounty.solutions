@@ -6,7 +6,7 @@ feed_content: As efforts turn from response to recovery after this week’s heav
   and historic floods, King County Emergency Management offers tips and information
   for residents dealing with the aftermath.
 feed_content_checksum: e14d6f2baecdfe18f8c2321db09ce73e001ff725
-images: []
+image_ids: []
 locations:
 - King County
 rss_guid: https://kcemergency.com/?p=6834

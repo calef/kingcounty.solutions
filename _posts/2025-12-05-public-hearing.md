@@ -7,7 +7,7 @@ feed_content: "<div class=\"field field-name-field-date-and-time field-type-date
   field-label-hidden\">\n  \n      \n    <p>Notice of Public Hearing - Lawson Hills
   Master Planned Development (MPD) - Major Amendment to the MPD Permit and Development
   Agreement.  Public Hearing will be held on December 8, 2025, at 6 p.m.</p>\n      </div>"
-images: []
+image_ids: []
 locations: []
 published: false
 source: City of Black Diamond

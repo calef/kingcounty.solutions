@@ -15,7 +15,7 @@ feed_content: |-
 
   <p></p>
   <p>The post <a href="https://shorelinelfpseniorcenter.org/winter-wonderland-acrylic-painting-workshop/">Winter Wonderland Acrylic Painting Workshop</a> appeared first on <a href="https://shorelinelfpseniorcenter.org">Shoreline Lake Forest Park Senior Activity Center</a>.</p>
-images: []
+image_ids: []
 locations: []
 published: false
 source: Shoreline Lake Forest Park Senior Activity Center

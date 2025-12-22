@@ -58,7 +58,7 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   href=\"https://www.doh.wa.gov/\">website</a>&nbsp;is your source for a healthy dose
   of information. Get updates by following us on&nbsp;<a href=\"https://doh.wa.gov/about-us/contact-us/social-media\">social
   media</a>.</p>\n\n<p class=\"text-align-center\">###</p></div>"
-images: []
+image_ids: []
 locations:
 - King County
 source: Department of Health

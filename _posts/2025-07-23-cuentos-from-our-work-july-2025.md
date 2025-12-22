@@ -611,7 +611,7 @@ feed_content: "<p><strong>We Welcomed The Chilean Consulate</strong> &#8211; Jul
   post <a href=\"https://www.elcentrodelaraza.org/cuentos-from-our-work-july-2025/\">Cuentos
   from Our Work: July 2025</a> appeared first on <a href=\"https://www.elcentrodelaraza.org\">El
   Centro de la Raza</a>.</p>"
-images:
+image_ids:
 - 9a63d9e1f9e171082eb10d41fcfee81f4d611b50c4fce9e639fd5d437e007181
 - 60630784a990529a02cdcd536993441fbb96752e5b9a1fed2437a91c68fb0211
 - e981a330d32a6f69d872280744c6a7805b34e3b646d94e1897f94364bc3c7d1f

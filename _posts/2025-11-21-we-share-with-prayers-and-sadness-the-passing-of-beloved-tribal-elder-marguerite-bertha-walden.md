@@ -12,7 +12,7 @@ feed_content: |-
   <p>&nbsp;</p>
   <p>&nbsp;</p>
   <p>&nbsp;</p>
-images: []
+image_ids: []
 locations: []
 published: false
 source: Snoqualmie Indian Tribe

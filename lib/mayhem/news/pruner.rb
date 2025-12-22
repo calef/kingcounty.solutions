@@ -19,7 +19,7 @@ module Mayhem
 
         front_matter['published'] = false
         image_ids = @images_pruner.collect_image_ids(front_matter)
-        front_matter['images'] = []
+        front_matter['image_ids'] = []
 
         document.front_matter = front_matter
         document.save

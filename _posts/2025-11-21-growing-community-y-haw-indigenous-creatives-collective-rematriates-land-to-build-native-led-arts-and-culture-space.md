@@ -6,7 +6,7 @@ feed_content: "” A long time ago, the sky was too low. Tall people kept bumpin
   heads. Many different communities gathered to do something about it. They spoke
   different languages but realized they only needed to know one word in common to
   understand each other..."
-images: []
+image_ids: []
 locations:
 - King County
 source: City of Seattle

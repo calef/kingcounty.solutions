@@ -3,7 +3,7 @@ date: '2025-12-05T16:35:45+00:00'
 feed_content: |-
   <p>“Goats to Munch on Invasive Plants at York Park!” was the headline of a 2005 media advisory from the Department of Parks and Recreation. The text went on to explain that the goats’ lunch would help clear ground for a new park on the site of a former City Light substation. The park, located between […]</p>
   <p>The post <a href="https://primarysources.seattle.gov/2025/12/05/on-this-day-20-years-ago/">20 Years Ago: Goats at Work</a> appeared first on <a href="https://primarysources.seattle.gov/">Primary Sources</a>.</p>
-images: []
+image_ids: []
 locations: []
 published: false
 source: City of Seattle

@@ -25,7 +25,7 @@ feed_content: |-
 
 
   <p><strong>What will look different?</strong><br>You may notice a slightly updated login screen. While it looks a little different, it functions the same. The photo at the top of this page shows what the login screen will look like beginning November 13.</p>
-images: []
+image_ids: []
 locations:
 - King County
 source: Hospital District No. 1 (Valley Medical Center)

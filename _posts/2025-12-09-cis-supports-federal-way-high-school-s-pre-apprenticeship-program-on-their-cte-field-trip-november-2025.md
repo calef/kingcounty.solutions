@@ -10,7 +10,7 @@ feed_content: |-
   <p></p>
   <p>You just read <a>CIS supports Federal Way High School’s Pre-Apprenticeship Program on their CTE field trip (November 2025)</a> on <a>Communities In Schools of South King County</a>.</p>
 feed_content_checksum: 645a7aced1946ee851887e8ee30be77e7ca6ca1b
-images: []
+image_ids: []
 locations:
 - King County
 source: Communities In Schools of South King County

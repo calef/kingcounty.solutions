@@ -70,7 +70,7 @@ feed_content: '<div> <div> <section> <title>WorkSource Seattle-King County</titl
   Specific tips for applying to state agencies will be provided.</p> </div> </div>
   </div> </section> </div> </section> </div> </div>'
 feed_content_checksum: b7bcb87f34711099448972f29355da7151826e38
-images: []
+image_ids: []
 location: ''
 locations:
 - King County

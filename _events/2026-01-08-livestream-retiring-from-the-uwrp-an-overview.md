@@ -30,7 +30,7 @@ feed_content: "<section> <div> <div> <h2>Benefits</h2> </div> </div> </section> 
   resources that will get you through the retirement process.</p> <p><a>Retirement
   – UW Retirement Checklist</a></p> </div> </div> </aside> </div> </section>"
 feed_content_checksum: deb7e4eace25195bbd64eb43a8334d8adad812ed
-images: []
+image_ids: []
 location: Online
 locations:
 - King County

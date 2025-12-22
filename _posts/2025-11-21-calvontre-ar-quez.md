@@ -26,7 +26,7 @@ feed_content: "<div  class=\"wpb_row vc_row vc_row-fluid  mk-fullwidth-false  at
   Clinic</a>.</p><p>The post <a rel=\"nofollow\" href=\"https://www.boyercc.org/family-stories/calvontre-arquez/\">Calvontre
   &#038; Ar&#8217;Quez</a> appeared first on <a rel=\"nofollow\" href=\"https://www.boyercc.org\">Boyer
   Children&#039;s Clinic</a>.</p>"
-images: []
+image_ids: []
 locations:
 - King County
 source: Boyer Children's Clinic

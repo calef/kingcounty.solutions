@@ -28,7 +28,7 @@ feed_content: |-
   [View All Podcast Episodes](https://encompassnw.org/category/family-enrichment/parent-talks-podcast/)
 
   The post [Parent Talks Podcast: Pediatric Therapy Services](https://encompassnw.org/parent-talks-podcast-pediatric-therapy-services/) first appeared on [Encompass](https://encompassnw.org).
-images: []
+image_ids: []
 locations:
 - King County
 source: Encompass

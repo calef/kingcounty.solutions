@@ -24,7 +24,7 @@ feed_content: |-
   <p><span data-contrast="none">To other young people who may be experiencing hardship, Landon recommends two things: find a connection to get you through and find a way to appreciate your time.</span><span data-ccp-props="{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335551550&quot;:1,&quot;335551620&quot;:1,&quot;335559738&quot;:0,&quot;335559739&quot;:0}"> </span></p>
   <p><span data-contrast="none">“Try to keep close with your friends—to have a way out of your family life, or to talk to someone outside of that. Anyone can help you, even one person,” he says. “My hockey career is almost over—it&#8217;s kind of sad to think about—but appreciate the people that you&#8217;ve been with and grew up with.”</span><span data-ccp-props="{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;335551550&quot;:1,&quot;335551620&quot;:1,&quot;335559738&quot;:0,&quot;335559739&quot;:0}"> </span></p>
   <p>The post <a href="https://www.treehouseforkids.org/landon-is-taking-his-shot/">Landon Is Taking His Shot</a> appeared first on <a href="https://www.treehouseforkids.org">Treehouse</a>.</p>
-images:
+image_ids:
 - 760e41e8d4f6b74d8717cf1ab6c43a50aa4e3cf62a0b9d342b94d8464d7d3805
 - d59b6b79a5cd34756ecb81d9b55d5d8b3e5108ddf7524cfd85a0007a80acf5d2
 locations:

@@ -15,7 +15,7 @@ feed_content: 'Event interval: Single day event Campus location: Plant Services 
   auctions. We receive new inventory every day, so our stock is always changing. If
   you''d like to get a preview of new items, you can sign up for our newsletter: https://facilities.uw.edu/uw-surplus/newsletter-signup.'
 feed_content_checksum: bb822269125ae22215f9c0336eaea4ff7c667519
-images: []
+image_ids: []
 location: Plant Services Building (PSB)
 locations:
 - King County

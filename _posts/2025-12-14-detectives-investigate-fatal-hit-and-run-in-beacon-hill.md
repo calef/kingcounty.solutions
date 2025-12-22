@@ -5,7 +5,7 @@ feed_content: Detectives are investigating a fatal hit-and-run collision that ki
   officers responded to reports of a collision at Beacon Avenue South and South Stevens
   Street. Officer...
 feed_content_checksum: b132bd5a607160496aaee386ce945f6ef7756bbf
-images: []
+image_ids: []
 locations:
 - King County
 published: false

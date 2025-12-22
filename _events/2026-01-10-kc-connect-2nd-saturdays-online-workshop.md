@@ -152,7 +152,7 @@ feed_content: '<div id="simple-banner" class="simple-banner"><div class="simple-
   switcher : Russian" class="weglot-language-ru" role="option" data-wg-notranslate=""
   href="https://kcdrc.org/ru/event/kc-connect-online-workshop/2026-01-10/?wg-choose-original=false">Русский</a></li>
   </ul></aside>'
-images: []
+image_ids: []
 location: WA
 locations:
 - King County

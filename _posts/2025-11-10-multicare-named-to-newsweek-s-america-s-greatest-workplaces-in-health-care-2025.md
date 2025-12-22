@@ -8,7 +8,7 @@ feed_content: |-
   <p>“We’re honored to receive this recognition, which reinforces our ongoing commitment to creating an environment where every employee can feel valued, grow and make a difference,” said Mary Wills, senior vice president and chief human potential officer. “Our people are at the center of everything we do at MultiCare.”</p>
   <p>Visit <a href="https://rankings.newsweek.com/americas-greatest-workplaces-health-care-2025" data-wpel-link="external" rel="external noopener noreferrer" class="wpel-icon-right">America’s Greatest Workplaces in Health Care 2025<span class="wpel-icon wpel-image wpel-icon-6"></span></a> for a complete list of rankings.</p>
   <p>The post <a href="https://www.multicare.org/newsroom/2025/11/multicare-named-to-newsweeks-americas-greatest-workplaces-in-health-care-2025/" data-wpel-link="internal">MultiCare named to Newsweek’s ‘America’s Greatest Workplaces in Health Care’ 2025</a> appeared first on <a href="https://www.multicare.org" data-wpel-link="internal">MultiCare</a>.</p>
-images: []
+image_ids: []
 locations:
 - King County
 source: MultiCare

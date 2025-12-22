@@ -4,7 +4,7 @@ feed_content: |-
   <p>A Sing-Along with Ivar December 17 at 7 pm For a little burst of holiday joy, we’d love to invite all to gather around the piano to sing festive carols. … <a>Read More</a></p>
   <p>The post <a>Carols &amp; Cookies this Wednesday</a> appeared first on <a>St. Luke Episcopal Church</a>.</p>
 feed_content_checksum: 4aed8cfaf980ad20b19517be7fae35838870ad50
-images: []
+image_ids: []
 locations:
 - King County
 original_source_html: |-

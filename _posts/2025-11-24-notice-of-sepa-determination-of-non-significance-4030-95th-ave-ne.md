@@ -9,7 +9,7 @@ feed_content: '<p><img fetchpriority="high" decoding="async" class="alignnone si
   768w, https://yarrowpointwa.gov/wp-content/uploads/2025/11/Tree-SEPA-2025-08-DNS-Posting-Notice-002-1187x1536.jpg
   1187w, https://yarrowpointwa.gov/wp-content/uploads/2025/11/Tree-SEPA-2025-08-DNS-Posting-Notice-002-1583x2048.jpg
   1583w" sizes="(max-width: 1700px) 100vw, 1700px" /></p>'
-images: []
+image_ids: []
 locations: []
 published: false
 source: Town of Yarrow Point

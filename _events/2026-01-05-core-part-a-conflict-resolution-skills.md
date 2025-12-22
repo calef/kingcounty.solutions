@@ -144,7 +144,7 @@ feed_content: '<div id="simple-banner" class="simple-banner"><div class="simple-
   switcher : Russian" class="weglot-language-ru" role="option" data-wg-notranslate=""
   href="https://kcdrc.org/ru/event/core-part-a-conflict-resolution-skills/?wg-choose-original=false">Русский</a></li>
   </ul></aside>'
-images: []
+image_ids: []
 location: Medical Dental Building, 509 Olive Way, Seattle, WA, 98101-1729, United
   States
 locations:

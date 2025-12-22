@@ -57,7 +57,7 @@ feed_content: |-
 
   <p>If you have any questions, please contact Nathan Jackson, communications manager at <a href="mailto:njackson@compasshousingalliance.org">njackson@compasshousingalliance.org</a>.</p>
   <p>The post <a href="https://www.compasshousingalliance.org/2025/09/press-release-boeing-employees-partnership-transforms-lives-of-veterans-through-accessibility-improvements/">Press Release: Boeing Employees’ Partnership Transforms Lives of Veterans Through Accessibility Improvements</a> appeared first on <a href="https://www.compasshousingalliance.org">Compass Housing Alliance</a>.</p>
-images:
+image_ids:
 - 1b3fbf5069e99335c7f05b681ee4c2ba10a55b95d45c8cd6dbc1029f5dd2614c
 - 2e9570bbe9ec363f28b0fa75df3b5662d91d23c4a2813fb4394e1d99fb5550d4
 locations:

@@ -33,7 +33,7 @@ feed_content: |-
   <p><!-- end #mainContent --></p>
   </div>
   <p>The post <a href="https://www.residencexii.org/subscribe.html">Subscribe to our Email Newsletter and Updates</a> appeared first on <a href="https://www.residencexii.org">Residence XII</a>.</p>
-images: []
+image_ids: []
 locations: []
 published: false
 source: Residence XII

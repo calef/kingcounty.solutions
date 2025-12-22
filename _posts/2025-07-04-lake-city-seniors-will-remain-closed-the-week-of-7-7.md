@@ -9,7 +9,7 @@ feed_content: |-
 
   <p>We appreciate your understanding and support. Thank you for being part of our community. Your safety is always our top priority.</p>
   <p>The post <a href="https://lakecityseniors.org/lake-city-seniors-will-remain-closed-the-week-of-7-7/">Lake City Seniors will remain closed the week of 7/7</a> appeared first on <a href="https://lakecityseniors.org">Lake City Seniors</a>.</p>
-images: []
+image_ids: []
 locations: []
 published: false
 source: Lake City Seniors

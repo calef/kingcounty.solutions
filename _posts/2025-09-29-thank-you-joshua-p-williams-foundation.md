@@ -4,7 +4,7 @@ events: []
 events_extracted: true
 feed_content: We are honoring over 20 years of unwavering support from the Joshua
   P. Williams Foundation .   Though this year marks the final chapter,...
-images: []
+image_ids: []
 locations:
 - King County
 source: Friends of Youth

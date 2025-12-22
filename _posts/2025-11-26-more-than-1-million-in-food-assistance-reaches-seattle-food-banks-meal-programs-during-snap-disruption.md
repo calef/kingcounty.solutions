@@ -6,7 +6,7 @@ feed_content: When SNAP benefits were disrupted November 1 amid the federal shut
   tens of thousands of Seattle residents were suddenly left scared and wondering how
   they would afford to feed their families for unforeseeable future.   On October
   30, Seattle Mayor...
-images: []
+image_ids: []
 locations:
 - King County
 source: City of Seattle

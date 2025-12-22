@@ -5,7 +5,7 @@ feed_content: 'Note: Links below will open new windows. New Year’s Eve at the 
   Seattle Center Armory, International Fountain, and Campus Grounds Join us for a
   nigh...'
 feed_content_checksum: 5337767a3169d94068e5cb9b5a080f64f8dbdcc3
-images: []
+image_ids: []
 locations: []
 published: false
 source: City of Seattle

@@ -22,7 +22,7 @@ feed_content: |-
   <p data-start="1742" data-end="1882">Outside of volunteering and fundraising, Justine has a sweet side hobby: baking. It’s another way she brings joy to the people around her.</p>
   <p data-start="1884" data-end="2170">Justine’s journey is proof that the actions of one person, rooted in love and legacy, ripple outward to strengthen an entire community. She is a reminder that when we step forward—whether in memory of a loved one, or to tackle an issue like food insecurity—we are never walking alone.</p>
   <p>The post <a href="https://acrs.org/supporter-spotlight-justine-ing-walk-for-rice-champion/">One Person Can Make A Difference:  Justine Ing&#8217;s Walk for Rice Journey</a> appeared first on <a href="https://acrs.org">ACRS</a>.</p>
-images: []
+image_ids: []
 locations:
 - King County
 source: Asian Counseling and Referral Service

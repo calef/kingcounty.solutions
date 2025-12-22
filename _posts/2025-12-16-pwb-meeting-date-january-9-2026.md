@@ -17,7 +17,7 @@ feed_content: |-
 
   <p></p>
 feed_content_checksum: b186bc7463de4b11f6711cda90153db57c9690af
-images: []
+image_ids: []
 locations: []
 original_source_html: |-
   <p>The Public Works Board’s next meeting is on January 9, 2025, from 8:30 a.m. – 9:30 a.m. This is a hybrid meeting with online Zoom and in-person participation options.</p>

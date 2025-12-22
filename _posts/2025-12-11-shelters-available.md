@@ -5,7 +5,7 @@ events_extracted: true
 feed_content: 'If you have been asked to leave areas that are in danger of flooding
   or have flooded, there are shelters available in the following locations:'
 feed_content_checksum: f77a335236c59d92707ffcb3cedf5831faf17802
-images: []
+image_ids: []
 locations:
 - King County
 rss_guid: https://kcemergency.com/?p=6698

@@ -6,7 +6,7 @@ feed_content: The International Special Review District (ISRD) Board invites com
   members to take part in its annual board election, a meaningful opportunity to help
   guide the future of the Chinatown International District (CID). The election is
   conducted by ma...
-images: []
+image_ids: []
 locations:
 - King County
 source: City of Seattle

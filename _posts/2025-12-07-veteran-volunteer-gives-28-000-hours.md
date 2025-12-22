@@ -49,7 +49,7 @@ feed_content: |-
 
   <p>This article was originally published on the <a>VA Minneapolis Health care System site </a> and has been edited for style and clarity.  </p>
 feed_content_checksum: b9617c3e4594563357f6858302fd157ecdc994fa
-images: []
+image_ids: []
 locations:
 - King County
 source: Veterans Affairs Pension Program

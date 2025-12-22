@@ -32,7 +32,7 @@ feed_content: '<div> <div> <section> <title>WorkSource Seattle-King County</titl
   go to <a>WorkSourceWA.com</a> and create your account prior to attending this workshop.</p>
   </div> </div> </div> </section> </div> </section> </div> </div>'
 feed_content_checksum: 680b8b9e029e1f75d632723d774fe2841764251d
-images: []
+image_ids: []
 location: ''
 locations:
 - King County

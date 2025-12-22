@@ -9,7 +9,7 @@ feed_content: 'LIHI and other nonprofit housing providers are calling on the Cit
   care, transportation, child care, and other basic needs. With an eviction notice
   on their door, tenants are faced with the impossible decision to pay rent or to
   feed their...'
-images: []
+image_ids: []
 locations:
 - King County
 source: Low Income Housing Institute

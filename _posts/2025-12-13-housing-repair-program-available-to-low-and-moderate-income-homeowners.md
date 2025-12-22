@@ -8,7 +8,7 @@ feed_content: The King County Housing Repair program provides assistance to low 
   at Housing Repair Program – King County, Washington to learn more about the process,
   how to access services, and eligibility […]
 feed_content_checksum: ced3579a0b01608bdb02ebce6ba75cd3c96243d1
-images: []
+image_ids: []
 locations:
 - King County
 rss_guid: https://kcemergency.com/?p=6831

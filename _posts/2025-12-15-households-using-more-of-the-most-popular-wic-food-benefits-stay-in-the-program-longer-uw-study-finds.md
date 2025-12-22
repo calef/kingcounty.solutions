@@ -21,7 +21,7 @@ feed_content: |-
   <p><a><i><span>Christopher Anderson</span></i></a><i><span> of the University of Tennessee and PHFE WIC is the corresponding author. This study was funded by </span></i><a><i><span>The Research Innovation and Development Grants in Economics (RIDGE) Partnership</span></i></a><i><span>.</span></i></p>
   <p><a></a><a></a><a></a><a></a><a></a><a></a></p>
 feed_content_checksum: fa92ded04a0e0aa414dfbcf944f44c4225c0e736
-images:
+image_ids:
 - 3b9fb7bf657513e774c66703f5c2f1f24593ecc7c7e8768f715726e608ed1b3c
 locations:
 - King County

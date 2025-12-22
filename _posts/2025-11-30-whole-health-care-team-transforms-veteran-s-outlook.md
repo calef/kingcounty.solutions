@@ -96,7 +96,7 @@ feed_content: |-
 
 
   <p>This article was originally published on the <a href="https://www.va.gov/salisbury-health-care/stories/salisbury-va-whole-health-care-team-transforms-veterans-outlook/" rel="noopener">VA Salisbury Health care System site </a>and has been edited for style and clarity.  </p>
-images: []
+image_ids: []
 locations:
 - King County
 source: Veterans Affairs Pension Program

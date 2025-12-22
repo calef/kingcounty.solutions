@@ -9,7 +9,7 @@ feed_content: 'Last week, we called on the City of Seattle to add $10 million to
   We are writing to request $10 million to be added to the budget for rent assistance
   targeted to tenants living in non-profit housing financed by the Office of Housing
   (OH). This...'
-images: []
+image_ids: []
 locations:
 - King County
 source: Low Income Housing Institute

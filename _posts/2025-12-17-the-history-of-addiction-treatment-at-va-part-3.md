@@ -79,7 +79,7 @@ feed_content: |-
 
   <p>With a variety of treatment approaches, new specialized units and increased community-oriented care, VA addressed addiction among Vietnam Veterans in new and innovative ways. After the Vietnam War, VA continued to improve its services to address the diverse needs of drug-addicted Veterans by establishing specialized and integrated programs that provided comprehensive support—including counseling, rehabilitation and long-term management—to help Veterans recover and reintegrate into society.</p>
 feed_content_checksum: a94c60f83316d88572da32565cd09721155810d5
-images: []
+image_ids: []
 locations:
 - King County
 original_source_html: |-

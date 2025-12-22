@@ -69,7 +69,7 @@ feed_content: |-
 
   <p></p>
 feed_content_checksum: 83f0c88d669e6f22ff17fecdece2886d91d122ea
-images:
+image_ids:
 - 60c499346ca3bfd2e4d70e96adec5840b7dd5de3ecd0a91124ce09bc096298f3
 locations:
 - King County

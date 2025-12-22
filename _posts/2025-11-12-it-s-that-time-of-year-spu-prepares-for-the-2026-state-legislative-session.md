@@ -4,7 +4,7 @@ feed_content: After a landmark 2025 session, Seattle Public Utilities (SPU) is p
   for a short, 60-day state legislative session where lawmakers are expected to struggle
   with declining revenues and negative budget impacts from the federal government.
   Beginning...
-images: []
+image_ids: []
 locations: []
 published: false
 source: City of Seattle

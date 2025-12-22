@@ -405,7 +405,7 @@ feed_content: '<div id="main-wrapper"> <div id="mainContentDiv" class="container
   </tr> <tr> <td><p style="text-align: center;">Lantheus</p></td> <td><p style="text-align:
   center;">Pfizer</p></td> </tr> <tr> <td><p style="text-align: center;">Sumitomo</p></td>
   </tr> </tbody></table> </div> </div> </div> </div> </div> </div> </div>'
-images: []
+image_ids: []
 location: South Lake Union Administration (Slu Building C) (SLC)
 locations:
 - King County

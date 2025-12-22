@@ -56,7 +56,7 @@ feed_content: |-
 
 
   <p>While the medicinal use of morphine continued after World War I, greater precautions were placed on its use. The then-known Veterans Administration, which succeeded the Veterans Bureau, issued a 1934 letter to its out-patient physicians which stipulated that “the use of morphine must be kept to the minimum of actual need.” VA Medical Bulletins in the 1930’s and 1940’s also referenced both the administration of morphine and the dangers of morphine addiction. Today, VA guidelines concerning the administration of opiates and the treatment of opiate addiction remain rooted in this decades-long research and the continued growth of knowledge surrounding the impacts of addiction.</p>
-images:
+image_ids:
 - f7d0c44e1f8b3518a0367cf84df29798ee6cfb68d21c90ec917df4a078002572
 - 562b21e405c8a4167903ff4cd0e799dfa5abdff54c3f528e64694c30666376af
 locations:

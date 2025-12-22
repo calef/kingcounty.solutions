@@ -28,7 +28,7 @@ feed_content: "<div>\n\t\t\n\t\t\t\n<div>\n\t\n<span>\n\t“B</span>\n\n\t<div>\
   post <a>Ben’s Story</a> first appeared on <a>Boyer Children's Clinic</a>.</p><p>The
   post <a>Ben’s Story</a> appeared first on <a>Boyer Children's Clinic</a>.</p>"
 feed_content_checksum: a27d5ba170615460fc7f8e69a38addff43b2dbc1
-images: []
+image_ids: []
 locations:
 - King County
 rss_guid: https://www.boyercc.org/?p=11256

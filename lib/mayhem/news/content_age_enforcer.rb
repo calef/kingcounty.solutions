@@ -72,8 +72,8 @@ module Mayhem
           remove_file(entry[:path])
         end
 
-        removed_images = @news_pruner.prune_images(
-          posts.flat_map { |entry| entry[:images] }.uniq,
+        removed_image_ids = @news_pruner.prune_images(
+          posts.flat_map { |entry| entry[:image_ids] }.uniq,
           excluded_paths: excluded_paths
         )
 
@@ -81,7 +81,7 @@ module Mayhem
         prune_generated_events(removed_event_ids) if removed_event_ids.any?
 
         @logger.info "Removed #{posts.size} post#{'s' unless posts.size == 1} older than #{max_age_days} days."
-        @logger.info "Removed #{removed_images.size} image metadata entr#{removed_images.size == 1 ? 'y' : 'ies'}."
+        @logger.info "Removed #{removed_image_ids.size} image metadata entr#{removed_image_ids.size == 1 ? 'y' : 'ies'}."
       end
 
       private
@@ -115,7 +115,7 @@ module Mayhem
 
           memo << {
             path: path,
-            images: @news_pruner.collect_image_ids(document.front_matter),
+            image_ids: @news_pruner.collect_image_ids(document.front_matter),
             events: collect_event_ids(document.front_matter)
           }
         end

@@ -15,7 +15,7 @@ feed_content: "<p>We are pleased to share that <strong>Olivia Ferrel</strong> ha
   serve women in crisis. Please join us in welcoming Olivia to this important role!
   <img src=\"https://s.w.org/images/core/emoji/16.0.1/72x72/1f49a.png\" alt=\"\U0001F49A\"
   class=\"wp-smiley\" style=\"height: 1em; max-height: 1em;\" /></p>"
-images: []
+image_ids: []
 locations:
 - King County
 source: Hospitality House

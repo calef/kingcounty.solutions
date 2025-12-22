@@ -4,7 +4,7 @@ events: []
 events_extracted: true
 feed_content: Youth and young adults are heading back to school this month, and we
   are asking for school supplies, hygiene items, and snacks to get...
-images: []
+image_ids: []
 locations:
 - King County
 source: Friends of Youth

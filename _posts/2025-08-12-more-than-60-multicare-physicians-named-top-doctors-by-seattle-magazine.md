@@ -84,7 +84,7 @@ feed_content: |-
   <li><a href="https://www.multicare.org/provider/brian-j-schoos/" data-wpel-link="internal">Brian Schoos, MD</a>: pediatrics; Woodcreek Pediatrics, Bonney Lake</li>
   </ul>
   <p>The post <a href="https://www.multicare.org/newsroom/2025/08/seattle-magazine-top-doctors-2025/" data-wpel-link="internal">More than 60 MultiCare physicians named ‘Top Doctors’ by Seattle Magazine</a> appeared first on <a href="https://www.multicare.org" data-wpel-link="internal">MultiCare</a>.</p>
-images: []
+image_ids: []
 locations:
 - King County
 source: MultiCare

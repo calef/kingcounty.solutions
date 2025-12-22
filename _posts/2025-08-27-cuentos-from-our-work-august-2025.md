@@ -1387,7 +1387,7 @@ feed_content: "<div class=\"wp-block-group is-vertical is-layout-flex wp-contain
   post <a href=\"https://www.elcentrodelaraza.org/cuentos-from-our-work-august-2025/\">Cuentos
   from Our Work: August 2025</a> appeared first on <a href=\"https://www.elcentrodelaraza.org\">El
   Centro de la Raza</a>.</p>"
-images:
+image_ids:
 - cbe8cbcd761a59d867953a97dae902c9d62c07d8695884a0faaf67a95750e4d6
 - 70fda73808200aa7fee7cf632197fb3a650008d03fb841e336d47bbb59cbf8be
 - 28771e491afa7642fd4848a50ab046cad74346a9243367f4319e86a959f9e7b7

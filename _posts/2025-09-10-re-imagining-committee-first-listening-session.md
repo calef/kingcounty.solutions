@@ -50,7 +50,7 @@ feed_content: "<section class=\"elementor-section elementor-top-section elemento
   1545w\" sizes=\"(max-width: 791px) 100vw, 791px\"> </div>\n\t\t\t\t</div>\n\t\t\t\t\t</div>\n\t\t</div>\n\t\t\t\t\t</div>\n\t\t</section>\n\nThe
   post [Re-Imagining Committee – First Listening Session](https://redmondumc.org/re-imagining-committee-first-listening-session/)
   appeared first on [Redmond United Methodist Church](https://redmondumc.org)."
-images: []
+image_ids: []
 locations: []
 published: false
 source: Redmond United Methodist Church - Social Ministries

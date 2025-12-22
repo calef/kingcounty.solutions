@@ -115,7 +115,7 @@ feed_content: '<a href="#main-content" class="element-invisible element-focusabl
   Baylor Project Instagram</a>| <a href="https://www.youtube.com/channel/UC-YhNTPtJDp2ge8sr45b0vg">The
   Baylor Project YouTube</a> </div> </div> </div> </div> </div> </div> </div> </div>
   </div> </div>'
-images: []
+image_ids: []
 location: Meany Hall (MNY)
 locations:
 - King County

@@ -7,7 +7,7 @@ feed_content: 'Public Hearing: Setting Normandy Park’s Property Tax Levy The C
   City Council will consider the proposed 2026 property tax levy, which determines
   the amount of revenue to be collected to support essential city services. The proposed
   rate will not exceed $1.60 per $1,000 of assessed value.'
-images: []
+image_ids: []
 locations: []
 published: false
 source: City of Normandy Park

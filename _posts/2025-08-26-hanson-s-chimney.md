@@ -3,7 +3,7 @@ date: '2025-08-26T15:49:39+00:00'
 feed_content: We&#8217;re so grateful for the excellent work done by Hanson&#8217;s
   Chimney (Hanson’s Chimney) on our recent chimney repair at the Federal Way Senior
   Center. Dan Hanson, in particular, was fantastic [&#8230;]
-images: []
+image_ids: []
 locations: []
 published: false
 source: Federal Way Senior Center

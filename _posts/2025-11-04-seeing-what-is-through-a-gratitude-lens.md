@@ -9,7 +9,7 @@ feed_content: As the days grow shorter and the air turns crisp, November invites
   Road , and it’s amazing how quickly that road can darken our mood. Gratitude, on
   the other hand, is like taking a detour in the best possible direction. It doesn’t
   erase...
-images: []
+image_ids: []
 locations:
 - Eastside
 source: Eastside Friends of Seniors

@@ -7,7 +7,7 @@ feed_content: Paola Fernandez joined the Human Services Department&#8217;s Aging
   Month, Paola writes about her passion for guiding clients—many of whom have language
   barriers—and helping them believe in their own power and potential. What is your
   role at Seattle Human Services? As a Counselor/Case Manager [&#8230;]
-images: []
+image_ids: []
 locations:
 - King County
 source: Seattle Human Services Department

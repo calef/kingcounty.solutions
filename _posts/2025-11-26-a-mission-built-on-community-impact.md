@@ -80,7 +80,7 @@ feed_content: |-
 
 
   <p>This article was originally published on the <a href="https://www.va.gov/central-alabama-health-care/stories/cavhcs-firefighters-assist-tuskegee-with-two-structure-fires-in-one-morning/" rel="noopener">VA Central Alabama Health care system site</a> and has been edited for style and clarity.  </p>
-images: []
+image_ids: []
 locations: []
 published: false
 source: Veterans Affairs Pension Program

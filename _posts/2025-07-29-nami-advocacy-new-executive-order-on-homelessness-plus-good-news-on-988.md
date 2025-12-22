@@ -79,7 +79,7 @@ feed_content: |-
   The post [NAMI Advocacy: New Executive Order on Homelessness, Plus Good News on 988](https://nami-eastside.org/nami-advocacy-new-executive-order-on-homelessness-plus-good-news-on-988/) first appeared on [Nami-Eastside WA](https://nami-eastside.org).
 
   The post [NAMI Advocacy: New Executive Order on Homelessness, Plus Good News on 988](https://nami-eastside.org/nami-advocacy-new-executive-order-on-homelessness-plus-good-news-on-988/) appeared first on [Nami-Eastside WA](https://nami-eastside.org).
-images: []
+image_ids: []
 locations:
 - King County
 source: National Alliance on Mental Illness Eastside

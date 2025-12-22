@@ -30,7 +30,7 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   \           <div class=\"field field--name-field-article-date field--type-datetime
   field--label-hidden field__item\"><time datetime=\"2025-11-03T12:00:00Z\" class=\"datetime\">November
   3 2025</time>\n</div>\n      \n    </div>\n  </div>"
-images: []
+image_ids: []
 locations:
 - King County
 source: City of Bellevue

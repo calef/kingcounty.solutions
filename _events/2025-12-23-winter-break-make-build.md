@@ -2,7 +2,7 @@
 feed_content: A make and build event for families.
 feed_content_checksum: 9f02086fa6f48f9bde1d4a0f7d3f374b4c29c8fa
 generated_from_post: true
-images: []
+image_ids: []
 location: Northgate Branch
 locations:
 - King County

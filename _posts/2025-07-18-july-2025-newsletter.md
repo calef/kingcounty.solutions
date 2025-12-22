@@ -24,7 +24,7 @@ feed_content: "<figure class=\"\n              sqs-block-image-figure\n         
   \     \n\n    \n  \n\n\n  \n\n\n\n\n\n  <p class=\"\">Read the July newsletter <a
   href=\"https://carepointclinic.dm.networkforgood.com/emails/4082297?recipient_id=gKmitG8yqD88wZ7BRslDrA||ZGVzaXJlZXN3YW5zb25AZ21haWwuY29t\"
   target=\"_blank\">HERE!</a></p>"
-images:
+image_ids:
 - b9e18bd01c9e1a375f9b745e9927f053c0d8d0d05b3f974d18d8e2120ad76f91
 locations:
 - King County

@@ -2,7 +2,7 @@
 date: '2025-11-21T19:15:04+00:00'
 feed_content: <figure class="wp-block-image size-large"><img decoding="async" src="https://wallingfordseniors.org/wp-content/uploads/2025/11/Jazz-Nutcracker-2-791x1024.png"
   alt="" class="wp-image-3642"/></figure>
-images: []
+image_ids: []
 locations: []
 published: false
 source: Wallingford Community Senior Center

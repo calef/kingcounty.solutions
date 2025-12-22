@@ -73,7 +73,7 @@ feed_content: '<div> <div> <section> <title>WorkSource Seattle-King County</titl
   of bad behaviors and become financially literate</li> </ul> </div> </div> </div>
   </section> </div> </section> </div> </div>'
 feed_content_checksum: 809f243388857d7cde716dad3a69c59e0e549bad
-images: []
+image_ids: []
 location: ''
 locations:
 - King County

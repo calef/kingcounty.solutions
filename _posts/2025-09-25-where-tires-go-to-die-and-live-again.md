@@ -39,7 +39,7 @@ feed_content: |-
 
   <p></p>
   <p>The post <a href="https://bikeworks.org/where-tires-go-to-die-and-live-again/">Where tires go to die (and live again)</a> appeared first on <a href="https://bikeworks.org">Bike Works</a>.</p>
-images: []
+image_ids: []
 locations: []
 published: false
 source: Bike Works

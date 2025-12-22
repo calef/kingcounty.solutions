@@ -8,7 +8,7 @@ feed_content: Thank You for Making Celebrate 2025 a Huge Success!Celebrate 2025
   auction to the energetic dessert dash and raffle drawing, the evening was both fun-filled
   and deeply meaningful.It was a joy to celebrate the powerful stories from women
   in our program of how God is healing, transforming, and creating new life -
-images: []
+image_ids: []
 locations:
 - King County
 source: Lighthouse NW

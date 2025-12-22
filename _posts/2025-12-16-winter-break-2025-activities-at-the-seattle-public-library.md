@@ -32,7 +32,7 @@ feed_content: |-
   <p><strong><a>Winter Break Crafts</a>. Wednesday, Dec. 31, from 2 p.m. to 5 p.m. </strong>Broadview Branch. Families are invited to join us in making simple crafts during winter break.</p>
   <p><strong><a>Nuestra Euforia / Our Euphoria Exhibit</a>. Through Jan. 10. Central Library Level 8 – Gallery. </strong>Curated by our Artist in Residence, Vaquero Azul, Nuestra Euforia/Our Euphoria celebrates trans and gender non-conforming community members past and present. <strong>This exhibit is in English and Spanish.</strong></p>
 feed_content_checksum: 101bc471e400ce2e65ce09b82697a9235df31f1d
-images:
+image_ids:
 - ba6a108785b21a184b50194cc4aa512ef2f6409f1228fbcfb0e0295fda40747a
 - 860563d83f68e60f8a9831e6940326f419da9a3c8b495793d3a18e6c92a7aefd
 locations:

@@ -49,7 +49,7 @@ feed_content: <div class="site" id="page"> <div id="wrapper-topbar" class="bg-tr
   </div> <div class="tribe-events-meta-group tribe-events-meta-group-venue"> <h2 class="tribe-events-single-section-title">
   Venue </h2> <ul class="tribe-events-meta-list"> <li class="tribe-events-meta-item
   tribe-venue"> Kent, WA, USA </li> </ul> </div> </div> </div> </div> </section> </div>
-images: []
+image_ids: []
 location: Kent, WA, USA
 locations:
 - King County

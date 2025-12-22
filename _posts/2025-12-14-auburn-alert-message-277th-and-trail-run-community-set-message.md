@@ -6,7 +6,7 @@ feed_content: This message is for residents and businesses along South 277th St 
   Due to flooding and rising levels of water north of the area and the risk of flood
   […]
 feed_content_checksum: 6aa8f5405fc5a680c77abc29db2ebb388b3b1e95
-images: []
+image_ids: []
 locations:
 - South King County
 published: false

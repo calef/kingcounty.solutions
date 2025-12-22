@@ -115,7 +115,7 @@ feed_content: |-
 
   <p>“We’re constantly under stress, and they’re providing a life jacket for us,” he said.&nbsp;</p>
   <p>The post <a href="https://operationhomefront.org/food-assistance-lifts-weight-off-soldier/">Food Assistance Lifts Weight Off Soldier</a> appeared first on <a href="https://operationhomefront.org">Operation Homefront</a>.</p>
-images:
+image_ids:
 - fa6f7d0f4e20db02b4a1cc1b1a0955b7810bd216730ae7a41bf3078e6c8a4c97
 locations:
 - King County

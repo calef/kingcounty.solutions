@@ -7,7 +7,7 @@ feed_content: The Seattle Police Department was proud to join forces with the Se
   at Rising Star Elementary School. Together, we provided hundreds of brand-new coats
   for children...
 feed_content_checksum: 725b44e1c0006c9e5bdfb77b2b17c25d155c8d31
-images: []
+image_ids: []
 locations:
 - King County
 original_source_html: The Seattle Police Department was proud to join forces with

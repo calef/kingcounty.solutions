@@ -33,7 +33,7 @@ feed_content: |-
 
   <p class="has-normal-font-size">Media Inquiries: <br>Erin Burgy, Senior Director, Integrated Public Relations<br><a href="mailto:Erin.Burgy@OperationHomefront.org">Email Erin</a> or (469) 934-7131</p>
   <p>The post <a href="https://operationhomefront.org/final-call-for-2026-mcoy-nominations/">Final Call for 2026 MCOY Nominations</a> appeared first on <a href="https://operationhomefront.org">Operation Homefront</a>.</p>
-images: []
+image_ids: []
 locations:
 - King County
 source: Operation Homefront - Critical Financial Assistance Program

@@ -14,7 +14,7 @@ feed_content: |-
   <p>Snoqualmie Indian Tribe<br />
   General Resources Department</p>
   <p>Note: A physical copy of this memo will be mailed to all Tribal Members in early December.</p>
-images: []
+image_ids: []
 locations: []
 published: false
 source: Snoqualmie Indian Tribe

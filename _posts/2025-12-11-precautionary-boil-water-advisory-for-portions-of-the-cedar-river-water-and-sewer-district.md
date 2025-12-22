@@ -6,7 +6,7 @@ feed_content: Cedar River Water and Sewer District has issued a 48-hour Precauti
   collected to ensure safe drinking water. Customers should boil water for at least
   […]
 feed_content_checksum: 9c9c52a91f18a2774ec9429dfa72bc32657c09e8
-images: []
+image_ids: []
 locations:
 - Maple Valley
 - Enumclaw

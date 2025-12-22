@@ -11,7 +11,7 @@ feed_content: '<a href="https://atyourservice.seattle.gov/2025/11/06/2025-2026-h
   predicted seasonally high tides:&#160;&#160; Every year, Seattle Public Utilities
   is ready for wet weather and high tide season. We monitor storms, tides, atmospheric
   pressure and more so we can [&#8230;]'
-images: []
+image_ids: []
 locations: []
 published: false
 source: Seattle Public Utilities

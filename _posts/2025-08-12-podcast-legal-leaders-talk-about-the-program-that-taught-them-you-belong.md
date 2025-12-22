@@ -26,7 +26,7 @@ feed_content: |-
   The podcast is free to listen to on [Spotify](https://open.spotify.com/show/6VanHQpy6PCe34o90fSFEt?si=k7meIJilT22qkSgSq6TiAA&nd=1&dlsi=a0989f07bef541ef), [YouTube](https://www.youtube.com/@wli20thanniversary), and [Apple Music](https://podcasts.apple.com/us/podcast/wli-presents-voices-that-move-us/id1830142675). View the criteria to apply to be a WLI fellow [here](https://www.law.uw.edu/academics/continuing-education/wli).
 
   The post [Podcast: Legal leaders talk about the program that taught them “you belong”](https://elap.org/podcast-legal-leaders-talk-about-the-program-that-taught-them-you-belong/) appeared first on [Eastside Legal Assistance Program](https://elap.org).
-images: []
+image_ids: []
 locations:
 - Eastside
 - Bryn Mawr-Skyway

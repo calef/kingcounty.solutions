@@ -41,7 +41,7 @@ feed_content: |-
 
   <p>If you are thinking about quitting, VA is here to help Veterans through its <a>tobacco cessation program</a>. Talk with your primary care provider to get started. </p>
 feed_content_checksum: ff1e5704b95938ffd94d956bd1843eb7784c7328
-images: []
+image_ids: []
 locations:
 - King County
 original_source_html: |-

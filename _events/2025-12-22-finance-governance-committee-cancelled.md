@@ -37,7 +37,7 @@ feed_content: "<section> <div> <div> <div> <section> <div> <div> <span> Event Se
   <span>January 5, 2026 @ 7:00 pm</span> - <span>10:00 pm</span> </div> </li> </ul>
   </div> <p> <a> Back to events</a> </p> </div> </section> </div> </div> </div> </section>"
 feed_content_checksum: 8670ac6553610eb5cec51328c1042ea80b34f5dd
-images: []
+image_ids: []
 location: Hybrid – Virtual/Onsite, United States
 locations:
 - King County

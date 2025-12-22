@@ -28,7 +28,7 @@ feed_content: |-
 
 
   <p></p><p>The post <a href="https://angelflightwest.org/news/intern-reflection-meet-gloriann/">Intern Reflection: Meet Gloriann</a> first appeared on <a href="https://angelflightwest.org">Angel Flight West</a>.</p>
-images: []
+image_ids: []
 locations: []
 published: false
 source: Angel Flight West

@@ -41,7 +41,7 @@ feed_content: "<a>Skip to main content</a> <div> <div> <header> <a>Skip to main 
   programs and activities for individuals with disabilities. </p> <span> <a>Learn
   More</a> </span> </div> </div> </div> </div> </div> </div> </aside> </div> </div>"
 feed_content_checksum: 547dce24c97b2123d20af90013765c4c437b528d
-images: []
+image_ids: []
 location: Meany Hall (MNY)
 locations:
 - King County

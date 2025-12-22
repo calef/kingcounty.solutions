@@ -5,7 +5,7 @@ feed_content: 'Fall Checklist: Prevent Flooding and Protect Our Environment. As 
   tasks for homeowners. Taking small actions now can make a big difference in preventing
   flooding and protecting our local waterways. Here are a few simple steps to get
   your property ready for the season:'
-images: []
+image_ids: []
 locations: []
 published: false
 source: City of Normandy Park

@@ -6,7 +6,7 @@ feed_content: <div><p paraid="1659914425" paraeid="{781cccb4-72a0-4096-9871-b66e
   Saturday, Oct. 25, Sound Transit welcomed about 90 young people ages 15–22 to our
   Youth Conference, a day dedicated to exploring how transit shapes our region — and
   how the next generation can help shape its future.</p></div>
-images: []
+image_ids: []
 locations:
 - King County
 source: Sound Transit

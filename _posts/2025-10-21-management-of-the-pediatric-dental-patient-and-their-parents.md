@@ -73,7 +73,7 @@ feed_content: |-
 
   <p><a href="https://ohlh.talentlms.com/plus/catalog/courses/190">Start the Course</a></p>
   <p>The post <a href="https://arcorafoundation.org/management-of-the-pediatric-dental-patient-and-their-parents/">Management of the Pediatric Dental Patient (and their parents)</a> appeared first on <a href="https://arcorafoundation.org">Arcora Foundation</a>.</p>
-images: []
+image_ids: []
 locations: []
 published: false
 source: Arcora Foundation

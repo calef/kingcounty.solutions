@@ -5,7 +5,7 @@ events_extracted: true
 feed_content: This op-ed originally appeared in Passenger Transport, the flagship
   publication of the American Public Transportation Association (APTA). While I lead
   transit communications and marketing in Washington state, my earliest public...
-images: []
+image_ids: []
 locations:
 - King County
 source: King County Metro Transit

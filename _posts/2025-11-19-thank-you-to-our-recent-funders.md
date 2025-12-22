@@ -5,7 +5,7 @@ events_extracted: true
 feed_content: |-
   <p>We are grateful for the generous support we’ve received this quarter. Because of your support, our youth are able to realize personal and social change through earning an income, learning [&#8230;]</p>
   <p>The post <a href="https://www.juma.org/2025/11/19/thank-you-to-our-recent-funders-14/">Thank You to Our Recent Funders</a> appeared first on <a href="https://www.juma.org">Juma</a>.</p>
-images: []
+image_ids: []
 locations:
 - King County
 source: Juma Ventures

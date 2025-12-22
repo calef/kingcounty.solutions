@@ -196,7 +196,7 @@ feed_content: '<p class="">Find your way to additional food resources throughout
   Tea - Wallingford</p><ul data-rte-list="default"><li><p class="">Community pantry;
   take what you need and leave what you can // <a href="https://www.instagram.com/reel/DQYYIJNDqdG/?utm_source=ig_web_copy_link"
   target="_blank">More Information</a> </p></li></ul>'
-images: []
+image_ids: []
 locations:
 - King County
 source: Rainier Valley Food Bank

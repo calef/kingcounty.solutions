@@ -455,7 +455,7 @@ feed_content: |-
   </div>
       </div>
   </div>
-images: []
+image_ids: []
 locations: []
 published: false
 source: Department of Commerce

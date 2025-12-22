@@ -4,7 +4,7 @@ feed_content: OYLMPIA – The road to Grandma’s house is about to get a lot bu
   That is why the Washington State Department of Transportation recommends planning
   ahead for heavy traffic, delays and potential winter weather this Thanksgiving –
   wherever pumpkin pies and stuffing may lead you.
-images: []
+image_ids: []
 locations: []
 published: false
 source: Washington State Department of Transportation

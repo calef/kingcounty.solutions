@@ -4,7 +4,7 @@ feed_content: |-
   In September, we responded to 1,305 calls for service, an average of 42.1 emergency calls each day. Emergency medical aid calls continue to account for the majority of calls at 84%
 
   The post [September Call Volume](https://www.vrfa.org/2025/10/september-call-volume-2/) appeared first on [Valley Regional Fire Authority (VRFA)](https://www.vrfa.org).
-images: []
+image_ids: []
 locations: []
 published: false
 source: Valley Regional Fire Authority

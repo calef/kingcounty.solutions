@@ -70,7 +70,7 @@ feed_content: |-
   <li><strong>1 year</strong> – Honors a full year of continuous sobriety, a significant milestone.</li>
   </ul>
   <p>The post <a href="https://www.residencexii.org/alcoholic-anonymous-meetings-katy/">Alcoholic Anonymous Meetings in Texas, Harris, Katy, USA</a> appeared first on <a href="https://www.residencexii.org">Residence XII</a>.</p>
-images: []
+image_ids: []
 locations: []
 published: false
 source: Residence XII

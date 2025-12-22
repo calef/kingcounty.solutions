@@ -235,9 +235,9 @@ END:VCALENDAR
   <div class="event-content e-content" itemprop="description">
     {{ content }}
 
-    {% if page.images and page.images.size > 0 %}
+    {% if page.image_ids and page.image_ids.size > 0 %}
       {% assign event_carousel_images = '' | split: '' %}
-      {% for image_id in page.images %}
+      {% for image_id in page.image_ids %}
         {% assign normalized_id = image_id | append: '' | strip %}
         {% assign image_doc = site.images | where: "checksum", normalized_id | first %}
         {% assign image_url = "" %}

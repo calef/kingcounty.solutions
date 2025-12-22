@@ -23,7 +23,7 @@ feed_content: |-
   Ed Stern, board member and deputy mayor of Poulsbo, emphasized the unique role the board plays in infrastructure emergencies. “This is a perfect example of how PWB remains the sole first responder for emergency infrastructure failure in the state,” Stern said. “Our ability to pivot and meet the need in short order is unparalleled.” &nbsp;
 
   Applications for the PWB emergency and pre-construction funding programs remain open until funds are exhausted. &nbsp;As of October 2025, $6.8 million in emergency funding remains available for the 2025-27 biennium.
-images: []
+image_ids: []
 locations: []
 published: false
 source: Department of Commerce

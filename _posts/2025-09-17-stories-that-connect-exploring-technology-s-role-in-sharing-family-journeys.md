@@ -36,7 +36,7 @@ feed_content: "<p class=\"\">At Mary's Place, we're always excited to explore ne
   title=\"mailto:social@alson.ai\">social@alson.ai</a>.</p>\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n
   \ \n  \n\n\n\n\n  \n    <iframe allow=\"clipboard-write\" scrolling=\"no\" allowfullscreen=\"allowfullscreen\"
   src=\"https://heyzine.com/flip-book/e657ddd138.html\" class=\"fp-iframe\"></iframe>"
-images: []
+image_ids: []
 locations:
 - King County
 source: Mary's Place

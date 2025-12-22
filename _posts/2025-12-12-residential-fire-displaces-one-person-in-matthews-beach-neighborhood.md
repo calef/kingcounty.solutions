@@ -5,7 +5,7 @@ feed_content: SEATTLE, Wash. — Just after 6 p.m. on Dec. 11, the Seattle Fire 
   of Bartlett Ave. NE. When crews arrived on scene, they saw flames coming from the
   fron...
 feed_content_checksum: f1a53726fbcb2d8e4c0ce635c4623efdc9abfcfd
-images: []
+image_ids: []
 locations:
 - Seattle
 published: false

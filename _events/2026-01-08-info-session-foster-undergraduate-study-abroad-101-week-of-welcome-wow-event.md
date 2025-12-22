@@ -403,7 +403,7 @@ feed_content: '<a id="main-content" href="#Boundless" class="screen-reader-short
   With one-in-four UW freshman applicants requesting business majors, demand for Foster
   School business education is significant and growing.", "sameAs": ["https://www.facebook.com/UWFosterSchool","https://twitter.com/UWFosterSchool","https://www.instagram.com/uwfosterschool/","https://www.youtube.com/user/UWFosterSchool","https://www.linkedin.com/school/university-of-washington-foster-school-of-business/"]
   } </script>'
-images: []
+image_ids: []
 location: PACCAR Hall (PCAR)
 locations:
 - King County

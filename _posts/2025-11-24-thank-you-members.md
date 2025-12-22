@@ -6,7 +6,7 @@ feed_content: |-
 
 
   <p>Because of you, The Center is a place that's &hellip;</p></a>
-images: []
+image_ids: []
 locations: []
 published: false
 source: The Center for Active Living

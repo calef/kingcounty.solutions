@@ -12,7 +12,7 @@ feed_content: |-
 
 
   <p>At The &hellip;</p></a>
-images: []
+image_ids: []
 locations:
 - King County
 source: The Center for Active Living

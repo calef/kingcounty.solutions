@@ -72,7 +72,7 @@ feed_content: |-
 
 
   <p>This article was originally published on the <a href="https://www.va.gov/orlando-health-care/stories/a-veterans-strength-navy-and-army-veteran-suzanne-clark-shares-her-breast-cancer-journey-and-the-power-of-women/" rel="noopener">VA Orlando Healthcare System site </a>and has been edited for style and clarity.  </p>
-images: []
+image_ids: []
 locations:
 - King County
 source: Veterans Affairs Pension Program

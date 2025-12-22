@@ -11,7 +11,7 @@ feed_content: |-
   </ul>
   <p>If you have interest in serving on the Planning Commission or know someone who does please contact Mayor Katy Harris directly at <a href="mailto:mayor@yarrowpointwa.gov">mayor@yarrowpointwa.gov</a> or 425-941-5289.</p>
   <p>&nbsp;</p>
-images: []
+image_ids: []
 locations: []
 published: false
 source: Town of Yarrow Point

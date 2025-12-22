@@ -20,7 +20,7 @@ feed_content: "<p><strong>Program:</strong> Meals on Wheels<br /><strong>Locati
   Patrol background check and be over the age of 18.</p>\r\n<p>The post <a href=\"https://soundgenerations.org/meals-on-wheels-caller-needed-in-vashon/\">Meals
   on Wheels: Caller needed in Vashon!</a> appeared first on <a href=\"https://soundgenerations.org\">Sound
   Generations</a>.</p>"
-images: []
+image_ids: []
 locations:
 - Vashon
 source: Sound Generations

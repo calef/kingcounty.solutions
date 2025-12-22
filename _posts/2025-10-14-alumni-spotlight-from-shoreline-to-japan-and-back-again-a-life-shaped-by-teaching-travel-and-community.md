@@ -16,7 +16,7 @@ feed_content: '<div class="wp-rss-image" style="margin-bottom:20px;max-width: 60
   her life would take her across continents, into classrooms, and back to Shoreline. 
   Susan’s connection to Shoreline and Shoreline Community College runs deep. In the
   late 1960s, her mother made the &#8230;'
-images:
+image_ids:
 - 5482324fdb3ffcb64a3d53dd907a1874756a7b22a867ddf1a91f6db771190f22
 locations:
 - King County

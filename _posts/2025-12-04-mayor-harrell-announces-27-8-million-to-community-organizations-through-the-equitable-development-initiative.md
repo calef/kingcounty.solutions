@@ -5,7 +5,7 @@ feed_content: Today, Mayor Bruce Harrell announced $27.8 million in awards to 33
   support property ownership among Seattle’s diverse communities in neighborhoods
   at high risk of...
 feed_content_checksum: 07ce495423044d11a63e703a4b1587358ace42ca
-images: []
+image_ids: []
 locations: []
 published: false
 source: City of Seattle

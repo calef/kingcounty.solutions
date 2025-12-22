@@ -54,7 +54,7 @@ feed_content: |-
 
 
   <p></p>
-images: []
+image_ids: []
 locations:
 - King County
 source: Veterans Affairs Pension Program

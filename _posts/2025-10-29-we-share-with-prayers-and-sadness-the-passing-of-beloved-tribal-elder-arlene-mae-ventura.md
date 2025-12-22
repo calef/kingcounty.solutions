@@ -4,7 +4,7 @@ feed_content: "We share with prayers and sadness&nbsp;the passing of a beloved T
   Elder\n\n# Arlene Mae Ventura\n\nSunrise: 8/5/1942 Sunset: 10/29/2025\n\nWe will
   share additional information when it is available.  \nOut of respect and according
   to our policy, tribal flags are flying at half-staff.\n\n&nbsp;\n\n[![](https://snoqualmietribe.us/wp-content/uploads/2025/10/Arlene-Ventura-700x587.png)](https://snoqualmietribe.us/wp-content/uploads/2025/10/Arlene-Ventura.png)\n\n&nbsp;\n\n&nbsp;\n\n&nbsp;\n\n&nbsp;"
-images: []
+image_ids: []
 locations: []
 published: false
 source: Snoqualmie Indian Tribe

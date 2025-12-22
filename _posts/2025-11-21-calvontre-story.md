@@ -35,7 +35,7 @@ feed_content: "<div  class=\"wpb_row vc_row vc_row-fluid  mk-fullwidth-false  at
   post <a rel=\"nofollow\" href=\"https://www.boyercc.org/family-stories/cayden-2/\">Calvontre
   Story</a> appeared first on <a rel=\"nofollow\" href=\"https://www.boyercc.org\">Boyer
   Children&#039;s Clinic</a>.</p>"
-images: []
+image_ids: []
 locations:
 - King County
 source: Boyer Children's Clinic

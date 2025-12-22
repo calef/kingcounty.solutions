@@ -4,7 +4,7 @@ events: []
 events_extracted: true
 feed_content: At Howard House Home, we’re currently supporting a family of six and
   could use your help to make their summer a little brighter!   Meal...
-images: []
+image_ids: []
 locations:
 - King County
 source: Friends of Youth

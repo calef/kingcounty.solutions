@@ -56,7 +56,7 @@ feed_content: '<div> <div> <section> <title>WorkSource Seattle-King County</titl
   sera una via muy util para incorporarte al mundo laboral.</p> </div> </div> </div>
   </section> </div> </section> </div> </div>'
 feed_content_checksum: 59b1c835934e081498c82bfd2c745801c2245546
-images: []
+image_ids: []
 location: ''
 locations:
 - King County

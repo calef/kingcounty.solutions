@@ -5,7 +5,7 @@ feed_content: "<div> <div> <p> </p> <p>The Wind Ensemble and Symphonic Band (Er
   Valencia, Jodie Blackshaw, Reena Esmail, Florent Schmitt, Luigi Zaninelli, and others.
   With guest composer Simon Alami.</p> <h2>Director Biography</h2> </div> </div>"
 feed_content_checksum: 7a6a5b2baa63e5ff3694aa1ea5e3f208a385fb4f
-images: []
+image_ids: []
 location: Meany Hall (MNY)
 locations:
 - King County

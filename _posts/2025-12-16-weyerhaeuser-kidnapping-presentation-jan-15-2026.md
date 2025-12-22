@@ -11,7 +11,7 @@ feed_content: |-
 
   <p></p>
 feed_content_checksum: d1a5678c0f4d4e2c8a4daaa3caf9f7d5e76392c5
-images: []
+image_ids: []
 locations:
 - King County
 original_source_html: |-

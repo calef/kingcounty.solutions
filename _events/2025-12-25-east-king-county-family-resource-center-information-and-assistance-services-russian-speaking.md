@@ -42,7 +42,7 @@ feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <div> <span>
   First Redmond Distribution Location</a></h3> <span>December 22 @ 10:00 am</span>
   - <span>2:00 pm</span> </div> </li> </ul> </div> </div> </section> </div>"
 feed_content_checksum: af07eb6020b835b40d7efb88ead1f3791b835c9b
-images: []
+image_ids: []
 location: CISC, 16305 NE 87th St, Suite 123, Redmond, WA, 98052, United States
 locations:
 - King County

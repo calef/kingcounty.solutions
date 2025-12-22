@@ -4,7 +4,7 @@ events: []
 events_extracted: true
 feed_content: "&lt;p&gt;ACRS, ABAW, and KCBA relaunch Rainier Valley Legal Clinic.&lt;/p&gt;"
 feed_content_checksum: db28d7f7cc99cf8b4c443cd66504076de9668aba
-images: []
+image_ids: []
 locations:
 - King County
 original_source_html: "&lt;p&gt;ACRS, ABAW, and KCBA relaunch Rainier Valley Legal

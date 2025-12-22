@@ -6,7 +6,7 @@ feed_content: 'For Immediate Release Contact: Cynthia SantanaCommunications Mana
   Workers Seattle, WA – (December 3, 2025)- The Seattle Office of Labor Standards
   (OLS) investigated Amazon Logistics, Inc. (dba Amazon Flex) for alleged violations
   of [&#8230;]'
-images: []
+image_ids: []
 locations: []
 published: false
 source: City of Seattle

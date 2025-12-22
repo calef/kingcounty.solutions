@@ -7,7 +7,7 @@ feed_content: The upcoming webinars focus on preventing substance use and addres
   the School-Based Health Alliance, these sessions aim to equip health professionals
   with strategies for prevention and education, fostering collaboration among various
   stakeholders to improve adolescent health outcomes.
-images: []
+image_ids: []
 locations:
 - King County
 source: King County School Health

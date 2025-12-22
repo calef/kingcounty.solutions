@@ -7,7 +7,7 @@ feed_content: <img src="https://powerlines.seattle.gov/wp-content/uploads/sites/
   assists Seattle City Light’s residential and commercial customers. We are responsible
   for remotely disconnecting meters […]
 feed_content_checksum: 755c70d150acbcf3d42e57613ed0b36e60f0cccf
-images: []
+image_ids: []
 locations: []
 published: false
 source: City Light Bill Assistance Programs

@@ -42,7 +42,7 @@ feed_content: '<a>Skip to content</a><div> <header><div> <div> <div> <div> <div>
   Top</span></a> <script> {"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://wscenter.org/wp-includes/js/wp-emoji-release.min.js?ver=6.9"}}
   </script>'
 feed_content_checksum: fb4e8c1450968b7c1f920ee724cc164d1c2bb0ab
-images: []
+image_ids: []
 location: The Center for Active Living, 4217 SW Oregon St., Seattle, WA, 98116, United
   States
 locations:

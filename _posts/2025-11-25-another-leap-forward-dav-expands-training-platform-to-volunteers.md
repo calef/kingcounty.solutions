@@ -41,7 +41,7 @@ feed_content: "<div class=\"editor clearfix\">\n\n    \n    <p><img fetchpriorit
   to evolve.</p>\n\n</div><p>The post <a href=\"https://www.dav.org/learn-more/news/2025/another-leap-forward-dav-expands-training-platform-to-volunteers/\">Another
   leap forward: DAV expands training platform to volunteers</a> appeared first on
   <a href=\"https://www.dav.org\">DAV</a>.</p>"
-images: []
+image_ids: []
 locations:
 - King County
 source: Disabled American Veterans

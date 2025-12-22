@@ -5,7 +5,7 @@ feed_content: Seattle police officers arrested a 25-year-old man for punching a 
   responded to reports of a transit driver being assaulted near 3rd Avenue and Stewart
   Street....
 feed_content_checksum: eb724e8bc51902e7518b7350c4f3e48d4b98fdb3
-images: []
+image_ids: []
 locations:
 - King County
 original_source_html: Seattle police officers arrested a 25-year-old man for punching

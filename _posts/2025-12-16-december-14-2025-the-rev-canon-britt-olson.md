@@ -4,7 +4,7 @@ feed_content: |-
   <p>Advent 3 – Gaudete Sunday Some of my favorite characters in television and books are the failed, flawed and jaded detectives whose careers have stalled or imploded but who continue … <a>Read More</a></p>
   <p>The post <a>December 14, 2025 — The Rev Canon Britt Olson</a> appeared first on <a>St. Luke Episcopal Church</a>.</p>
 feed_content_checksum: a917feeebe94da60bdf9071e300581ca766db321
-images: []
+image_ids: []
 locations:
 - King County
 original_source_html: |-

@@ -51,7 +51,7 @@ feed_content: |-
   <p>Our&nbsp;<a href="https://www.doh.wa.gov/" target="_blank">website</a>&nbsp;is your source for a healthy dose of information. Get updates by following us on&nbsp;<a href="https://doh.wa.gov/about-us/contact-us/social-media" target="_blank">social media</a>.&nbsp;</p>
 
   <p class="text-align-center">###</p></div>
-images: []
+image_ids: []
 locations: []
 published: false
 source: Department of Health

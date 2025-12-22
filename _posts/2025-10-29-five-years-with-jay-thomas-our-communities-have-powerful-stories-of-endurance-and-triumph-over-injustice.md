@@ -48,7 +48,7 @@ feed_content: "<div class=\"et_pb_section et_pb_section_2 et_section_regular\" >
   Finish this sentence: The best view in Washington is…</strong> The Cascade Range
   from the Columbia River Gorge! In my travels visiting communities, I’ve found this
   region to possess some of the most breathtaking scenery in the state.</p></div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>"
-images: []
+image_ids: []
 locations: []
 published: false
 source: Inatai Foundation

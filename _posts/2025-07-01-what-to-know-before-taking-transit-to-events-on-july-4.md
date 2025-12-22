@@ -7,7 +7,7 @@ feed_content: Cross posted from Metro Matters Fireworks, parades, picnics and fe
   onto transit on July 4 to get to your celebration.&#160; More information on travel
   planning&#160; Visit Metro’s online regional Trip Planner  or call the Customer
   Information Office on weekdays at&#8230;
-images: []
+image_ids: []
 locations:
 - King County
 source: King County Ferry District

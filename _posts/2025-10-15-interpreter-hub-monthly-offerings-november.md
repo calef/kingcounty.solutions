@@ -46,7 +46,7 @@ feed_content: |-
   <p align="center"><a href="https://docs.google.com/forms/d/e/1FAIpQLSdACYija70_47FMAFPP0dTlt4U4QoOOuvQmNMo8qXkTnYylLQ/viewform">Link to Register</a></p>
   <p align="center"><strong>Questions?</strong> Contact Melissa Klindtworth at melissa.klindtworth@cdhy.wa.gov</p>
   <p align="center">
-images:
+image_ids:
 - 030117ac8f02615f535297e3630b3e11b8a3798b1c76260870b4fc02c4d9405a
 - ed78799bf3eeb61db6dd74d1cbe16bf04a4083a2c9b269aede350f24519120b9
 locations:

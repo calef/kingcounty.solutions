@@ -6,7 +6,7 @@ feed_content: |-
 
 
   <p>Consider becoming a Lifetime member of The Center! You’ll start off the New Year never needing to renew again, &hellip;</p></a>
-images: []
+image_ids: []
 locations: []
 published: false
 source: The Center for Active Living

@@ -70,7 +70,7 @@ feed_content: |-
 
 
   <p>Learn more about Lincoln Place II and other impactful properties on the <a href="https://vhausa.org/">Vancouver Housing Authority website</a>.</p>
-images: []
+image_ids: []
 locations: []
 published: false
 source: Department of Commerce

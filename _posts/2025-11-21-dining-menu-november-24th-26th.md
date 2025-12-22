@@ -21,7 +21,7 @@ feed_content: |-
 
   <p></p>
   <p>The post <a href="https://ballardseniorcenter.org/dining-menu-november-24th-26th/">Dining Menu November 24th &#8211; 26th</a> appeared first on <a href="https://ballardseniorcenter.org">Ballard Senior Center</a>.</p>
-images: []
+image_ids: []
 locations: []
 published: false
 source: Ballard Northwest Senior Center

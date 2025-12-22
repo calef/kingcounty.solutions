@@ -1,7 +1,6 @@
 ---
 date: '2025-12-10T20:07:09+00:00'
 events:
-- 2025-12-20-medical-care-at-american-legion-hall
 - 2026-01-03-medical-care-at-american-legion-hall
 events_extracted: true
 feed_content: |-
@@ -28,7 +27,7 @@ feed_content: |-
   <p></p>
   <p>The post <a>Medical team to visit Westside Neighbors Shelter</a> appeared first on <a>Westside Neighbors Shelter</a>.</p>
 feed_content_checksum: 8a5b29f6f5a1e6bd9067e51e30e2fa23dfb2c777
-images: []
+image_ids: []
 locations:
 - King County
 source: Westside Neighbors Shelter

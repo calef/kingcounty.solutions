@@ -1,7 +1,6 @@
 ---
 date: '2025-11-19T19:42:58+00:00'
-events:
-- 2025-12-20-winter-at-the-beach
+events: []
 events_extracted: true
 feed_content: "<div class=\"wpb-content-wrapper\">\r\n<div  data-mk-stretch-content=\"true\"
   class=\"wpb_row vc_row vc_row-fluid jupiter-donut- mk-fullwidth-false  attched-false
@@ -134,7 +133,7 @@ feed_content: "<div class=\"wpb-content-wrapper\">\r\n<div  data-mk-stretch-cont
   post <a href=\"https://ihdd.org/2025/11/19/winter-sensory-friendly-events-in-washington/\">Winter
   Sensory Friendly Events in Washington</a> appeared first on <a href=\"https://ihdd.org\">UW
   IHDD</a>.</p>"
-images:
+image_ids:
 - 8ec2b364c37134695d74e659e83b7c3f9f5b957e9945b9a03ba718fe7dc0cf8b
 locations:
 - King County

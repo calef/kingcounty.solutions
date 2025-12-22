@@ -22,7 +22,7 @@ feed_content: '<div id="skiptocontent"> <a aria-label="Skip to main content" hre
   <p style="text-align: center; margin-top: 24px;">Copyright ©2025 Zoom Video Communications,
   Inc. All rights reserved. <a href="https://washington.zoom.us/en/legal">Privacy
   &amp; Legal Policies</a> </p> </div> </div> </div> </div>'
-images: []
+image_ids: []
 location: Zoom
 locations:
 - King County

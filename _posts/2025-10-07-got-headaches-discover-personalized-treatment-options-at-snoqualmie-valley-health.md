@@ -32,7 +32,7 @@ feed_content: |-
   &nbsp;
 
   The post [Got Headaches? Discover Personalized Treatment Options at Snoqualmie Valley Health](https://snoqualmievalleyhealth.org/got-headaches-discover-personalized-treatment-options-at-snoqualmie-valley-health/) appeared first on [Snoqualmie Valley Hospital](https://snoqualmievalleyhealth.org).
-images: []
+image_ids: []
 locations:
 - Snoqualmie Valley
 source: Hospital District No. 4 (Snoqualmie Valley Hospital)

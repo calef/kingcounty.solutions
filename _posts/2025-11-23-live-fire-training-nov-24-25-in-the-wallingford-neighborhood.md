@@ -4,7 +4,7 @@ feed_content: The Seattle Fire Department is conducting live-fire training exerc
   at a vacant home in the Wallingford neighborhood from 9 a.m. to 5 p.m. on Nov. 24
   and 25 at 3502 Meridian Ave. N. Live-fire training is an opportunity for recruits
   to work with vete...
-images: []
+image_ids: []
 locations: []
 published: false
 source: City of Seattle

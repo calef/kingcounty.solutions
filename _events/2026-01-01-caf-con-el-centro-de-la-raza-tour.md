@@ -82,7 +82,7 @@ feed_content: <article id="post-0" class="post-0 page type-page status-publish h
   class="tribe-event-url" rel="bookmark">Café con El Centro de la Raza Tour</a></h3>
   <span class="tribe-event-date-start">April 2, 2026 @ 8:30 am</span> - <span class="tribe-event-time">9:30
   am</span> </div> </li> </ul> </div> </div> </section></div></article>
-images: []
+image_ids: []
 location: El Centro de la Raza, 2524 16th Ave S, Seattle, WA, 98144, United States
 locations:
 - King County

@@ -89,7 +89,7 @@ feed_content: |-
 
   <p></p><p>The post <a>Childhood Hunger in Bellevue: What Every Neighbor Should Know</a> first appeared on <a>Bellevue LifeSpring</a>.</p><p>The post <a>Childhood Hunger in Bellevue: What Every Neighbor Should Know</a> appeared first on <a>Bellevue LifeSpring</a>.</p>
 feed_content_checksum: 14ac89ada04186dc48f9b44605eb1aef691f1118
-images:
+image_ids:
 - b97e554f56e493697fc9a4432f728b0fa02bf13fcc8da6b79b75fe3ecb586d24
 locations:
 - Bellevue

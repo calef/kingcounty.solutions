@@ -21,7 +21,7 @@ feed_content: |-
   <p><span data-contrast="auto">Together, these two propositions represent a critical opportunity to invest in our Seattle communities’ health and fight back against the harm threatened by our federal government. In times like this, these kinds of measures aren’t just acts of civic investment – they’re acts of resistance and hope.</span><span data-ccp-props="{}"> </span></p>
   <hr />
   <p class="tmc-caption"><span data-ccp-props="{}">Now is the time to join together to make meaningful, systemic changes! Check out our <a href="https://www.solid-ground.org/get-involved/advocacy-actions/" target="_blank" rel="noopener">Advocacy Actions</a> to join our work locally and follow our friends at the <a href="https://povertyaction.org/" target="_blank" rel="noopener">Statewide Poverty Action Network</a> for ways to make a difference across Washington state!</span></p>The post <a href="https://www.solid-ground.org/vote-yes-twice-to-safeguard-our-seattle-neighbors/">Vote YES – twice! – to safeguard our Seattle neighbors</a> appeared first on <a href="https://www.solid-ground.org">Solid Ground</a>.
-images: []
+image_ids: []
 locations:
 - King County
 source: Solid Ground

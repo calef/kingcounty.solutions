@@ -21,7 +21,7 @@ feed_content: "<p><strong>Program:</strong> Meals on Wheels<br /><strong>Locati
   <a href=\"https://soundgenerations.org/meals-on-wheels-help-make-a-difference-in-vashon/\">Meals
   on Wheels: Pack and Deliver Meals in Vashon!</a> appeared first on <a href=\"https://soundgenerations.org\">Sound
   Generations</a>.</p>"
-images: []
+image_ids: []
 locations:
 - Vashon
 source: Sound Generations

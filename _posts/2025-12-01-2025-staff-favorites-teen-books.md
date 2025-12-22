@@ -30,7 +30,7 @@ feed_content: |-
   <p><span data-contrast="auto">In Xan Kaur’s gothic horror novel <strong><a href="https://seattle.bibliocommons.com/v2/record/S30C4047599">When Devils Sing</a></strong>, four teens explore the disappearance of another teen in a small Georgian town named Carrion, which coincides with the re-emergence of cicadas after thirteen years. As they uncover terrifying secrets about the town, the true nature of the cycle becomes all too clear.</span><span data-ccp-props="{}"> </span></p>
   <p><span data-contrast="auto">For a contemporary urban fantasy, look no further than Ibi Zoboi’s latest, <strong><a href="https://seattle.bibliocommons.com/v2/record/S30C4026633">(S)kin</a></strong>, which follows two girls.  Their lives intersect as one follows her mother’s path as a soucouyant, a shape-shifting witch who feeds on others’ life force, and the other as she learns her true heritage when the other girl’s mother comes to her home as the new nanny to her baby siblings.</span><span data-ccp-props="{}"> </span></p>
   <p><em>~Posted by Wally B.</em></p>
-images: []
+image_ids: []
 locations: []
 published: false
 source: The Seattle Public Library

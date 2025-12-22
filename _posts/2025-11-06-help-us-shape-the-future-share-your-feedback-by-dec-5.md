@@ -8,7 +8,7 @@ feed_content: <div><p paraid="260982536" paraeid="{d5cba2c4-b8cd-4807-ab49-ea24a
   feedback is invaluable in helping us identify areas where we can improve our services.</p><p
   paraid="260982536" paraeid="{d5cba2c4-b8cd-4807-ab49-ea24a892632b}{11}"><a href="https://thepollingplace.qualtrics.com/jfe/form/SV_bE2H4G9LBkmqNoO"
   target="_blank" rel="noreferrer noopener">Take the survey here!</a></p></div>
-images: []
+image_ids: []
 locations:
 - King County
 source: Sound Transit

@@ -6,7 +6,7 @@ feed_content: <div><p paraid="1576460122" paraeid="{51d93b13-642c-4426-9f77-65d2
   for light rail passengers.&nbsp;</p><p paraid="1576460122" paraeid="{51d93b13-642c-4426-9f77-65d22a5226e3}{56}">In
   fact, if you’re a regular 1 Line rider, you’ve probably already noticed lighting
   upgrades at some of Seattle’s downtown stations — they’re hard to miss!&nbsp;&nbsp;</p></div>
-images: []
+image_ids: []
 locations: []
 published: false
 source: Sound Transit

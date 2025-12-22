@@ -77,7 +77,7 @@ feed_content: |-
 
   <p>This article was originally published on the <a>VA Southern Arizona Health care System site </a> and has been edited for style and clarity.  </p>
 feed_content_checksum: 33e45a8ef0ab911bcec4e77d4edf63385c709e01
-images: []
+image_ids: []
 locations:
 - King County
 original_source_html: |-

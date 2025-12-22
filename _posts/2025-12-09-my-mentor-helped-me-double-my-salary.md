@@ -135,7 +135,7 @@ feed_content: |-
 
   <p><a>ACP Youtube</a></p>
 feed_content_checksum: f8e23cfd2053b0bf08452e7d571849f662226d1a
-images: []
+image_ids: []
 locations:
 - King County
 source: Veterans Affairs Pension Program

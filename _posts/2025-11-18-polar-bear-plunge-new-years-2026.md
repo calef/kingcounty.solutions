@@ -4,7 +4,7 @@ feed_content: Jump into the new year with both feet! Every January 1st at 12 noo
   hundreds of people line up along the beach at Matthews Beach Park for the first
   dunk in the lake of the new year. Special cubs diving at 11:45 A.M. We provide lifeguards
   at this FREE ...
-images: []
+image_ids: []
 locations: []
 published: false
 source: City of Seattle

@@ -17,7 +17,7 @@ feed_content: '<p class="">Recipe shared in partnership with <a href="https://th
   class="">- Allow to cool slightly, turn out cornbread and crumble onto a parchment
   lined sheet tray. Return to the oven and bake crumbles until crispy and golden,
   about 15 minutes more. </p>'
-images: []
+image_ids: []
 locations: []
 published: false
 source: Rainier Valley Food Bank

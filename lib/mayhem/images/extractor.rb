@@ -100,38 +100,38 @@ module Mayhem
           return
         end
 
-        if frontmatter.key?('images')
+        if frontmatter.key?('image_ids')
           stats[:already_has_images] += 1
-          logger.debug "Skipping #{path}: images already present"
+          logger.debug "Skipping #{path}: image_ids already present"
           return
         end
 
         source_html = frontmatter['original_source_html'] || frontmatter['feed_content']
         unless source_html
           stats[:missing_source_html] += 1
-          ensure_empty_images(document, stats)
+          ensure_empty_image_ids(document, stats)
           return
         end
 
         images = extract_images(source_html)
         if images.empty?
           stats[:no_images_found] += 1
-          ensure_empty_images(document, stats)
+          ensure_empty_image_ids(document, stats)
           return
         end
 
         collected_ids = download_images(images, cache, frontmatter, stats)
         if collected_ids.empty?
           stats[:no_valid_images] += 1
-          ensure_empty_images(document, stats)
+          ensure_empty_image_ids(document, stats)
           return
         end
 
-        existing_ids = Array(frontmatter['images']).map(&:to_s)
+        existing_ids = Array(frontmatter['image_ids']).map(&:to_s)
         updated_ids = (existing_ids + collected_ids).uniq
         return if updated_ids == existing_ids
 
-        frontmatter['images'] = updated_ids
+        frontmatter['image_ids'] = updated_ids
         document.save
         stats[:posts_updated] += 1
         logger.info "Updated #{path} with #{collected_ids.length} image IDs"
@@ -139,15 +139,15 @@ module Mayhem
 
       def handle_unpublished(document, stats)
         stats[:skipped_unpublished] += 1
-        ensure_empty_images(document, stats)
+        ensure_empty_image_ids(document, stats)
       end
 
-      def ensure_empty_images(document, stats)
-        return if document.front_matter['images'].is_a?(Array) && document.front_matter['images'].empty?
+      def ensure_empty_image_ids(document, stats)
+        return if document.front_matter['image_ids'].is_a?(Array) && document.front_matter['image_ids'].empty?
 
-        document.front_matter['images'] = []
+        document.front_matter['image_ids'] = []
         document.save
-        logger.info "Set empty images list for #{document.path}"
+        logger.info "Set empty image_ids list for #{document.path}"
         stats[:empties_added] += 1
       end
 

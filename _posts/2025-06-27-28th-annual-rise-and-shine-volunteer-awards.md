@@ -190,7 +190,7 @@ feed_content: |-
   Mike Pusich | Nominated by&nbsp;Max Harrison
 
   _ **Thank you all for your incredible volunteer work!** _
-images: []
+image_ids: []
 locations:
 - King County
 source: Empower Youth Network

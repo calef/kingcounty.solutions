@@ -12,7 +12,7 @@ feed_content: |-
 
 
   <p></p>
-images: []
+image_ids: []
 locations:
 - King County
 source: Hospital District No. 1 (Valley Medical Center)

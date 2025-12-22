@@ -3,7 +3,7 @@ date: '2025-12-09T09:15:24-08:00'
 feed_content: PORT ORCHARD - An online open house is now available for people who
   want to learn more about upcoming fish passage construction in the Gorst area.
 feed_content_checksum: 1c00d6f184f14840757f84fafa44e02ed296a0b9
-images: []
+image_ids: []
 locations: []
 published: false
 source: Washington State Department of Transportation

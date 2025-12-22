@@ -1,6 +1,6 @@
 ---
 generated_from_post: true
-images: []
+image_ids: []
 location: Seattle's Central Area, 114 and 123 21st Ave.
 locations:
 - King County

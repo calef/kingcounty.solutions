@@ -9,7 +9,7 @@ feed_content: July 2025We are so grateful for your generosity in providing all o
   at Sacha's House happens before a new family moves in. The current families write
   welcome letters to remind them they're not alone and they are deeply supported:"I
   have been
-images: []
+image_ids: []
 locations:
 - King County
 source: Lighthouse NW

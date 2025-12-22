@@ -21,7 +21,7 @@ feed_content: |-
   <p>&#8220;600 Seventh demonstrates what&#8217;s possible when we leverage the Low-Income Housing Tax Credit with strong partnerships,&#8221; said Claire Parisa, Originations Director for Enterprise Community Partners&#8217; housing credit investment business. &#8220;Enterprise is proud to work alongside Mercy Housing and Fannie Mae to deliver vital homes to the Bay Area where the need for affordable housing has never been greater.&#8221;</p>
   <p>Designed by Santos Prescott + Associates and built by Suffolk Construction and Guzman Construction Group, 600 Seventh stands as proof that when public agencies, nonprofit developers, private funders, and community voices unite to invest in affordable housing, we can build a city where everyone has a place to call home.</p>
   <p>The post <a href="https://www.mercyhousing.org/2025/12/600-seventh-street-opens-in-san-francisco/">600 Seventh Street Opens in San Francisco</a> appeared first on <a href="https://www.mercyhousing.org">Mercy Housing</a>.</p>
-images: []
+image_ids: []
 locations: []
 published: false
 source: Mercy Housing

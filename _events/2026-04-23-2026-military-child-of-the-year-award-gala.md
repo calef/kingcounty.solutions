@@ -1,6 +1,6 @@
 ---
 generated_from_post: true
-images: []
+image_ids: []
 location: Washington, D.C.
 locations: []
 organization_title: Operation Homefront - Critical Financial Assistance Program

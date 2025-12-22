@@ -72,7 +72,7 @@ feed_content: "<span>Department of Health Releases 2025 Maternal Mortality Revie
   your source for a healthy dose of information. Get updates by following us on <a>social
   media</a>.</p>\n\n<p>###</p>\n</div>"
 feed_content_checksum: d07aae10643bc3b1423d61c3d33d516a0eff5ef0
-images: []
+image_ids: []
 locations:
 - King County
 source: Department of Health

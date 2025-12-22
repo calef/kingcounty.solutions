@@ -34,7 +34,7 @@ feed_content: '<div class="field-items"> <div class="field-item"> <p>Faculty pia
   <p>Ms. Larionoff plays on a 1678 Nicolo Amati violin and contemporary American bows
   by Paul Siefried. When not playing the violin, she enjoys tennis and long walks
   with Barry and their rescue golden retriever, Pamina.</p> </div> </div>'
-images: []
+image_ids: []
 location: Meany Hall (MNY)
 locations:
 - King County

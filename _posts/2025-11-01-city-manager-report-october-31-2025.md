@@ -9,7 +9,7 @@ feed_content: What’s Next for City Hall? We often receive the question, “Wha
   the community well, it was never intended to function as a modern municipal facility.
   As a result, the City has been exploring options to ensure that we have a safe,
   efficient, and functional building that can continue to serve residents daily.
-images: []
+image_ids: []
 locations: []
 published: false
 source: City of Normandy Park

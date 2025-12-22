@@ -10,7 +10,7 @@ feed_content: |-
   Outside of her studies, she enjoys spending time with her rescue Pitbull mix, cooking, and enjoying music. She says she is thrilled to be part of the VRFA CARES team and looks forward to providing meaningful support to those in need!
 
   The post [University of Washington Master of Social Work Student Joins VRFA CARES Team](https://www.vrfa.org/2025/10/university-of-washington-master-of-social-work-student-joins-vrfa-cares-team/) appeared first on [Valley Regional Fire Authority (VRFA)](https://www.vrfa.org).
-images: []
+image_ids: []
 locations:
 - King County
 source: Valley Regional Fire Authority
