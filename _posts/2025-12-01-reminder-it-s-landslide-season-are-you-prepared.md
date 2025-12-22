@@ -4,7 +4,7 @@ feed_content: Landslide season is here, so the City of Seattle is urging residen
   to take preventive measures to protect themselves and their property from possible
   landslides. Did you know that most landslides occur between the months of November
   and March? The th...
-images: []
+image_ids: []
 locations: []
 published: false
 source: City of Seattle

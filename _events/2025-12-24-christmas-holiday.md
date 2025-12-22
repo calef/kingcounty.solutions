@@ -51,7 +51,7 @@ feed_content: <div id="page-container"> <header id="main-header" data-height-onl
   tribe-events-meta-value"> <a href="https://anewcareer.org/" target="_self" rel="external">View
   Venue Website</a> </span> </li> </ul> </div> </div> </div> </div> </section> </div>
   </div>
-images: []
+image_ids: []
 location: ANEW, 18338 Andover Park West, ANEW Tukwila, 98188, United States
 locations:
 - King County

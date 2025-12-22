@@ -7,7 +7,7 @@ feed_content: Boze Elementary Students work together through a math worksheet. I
   and find their own way of learning and absorbing information. The definition of
   pedagogy is the practice of teaching, and the methodology used to influence children’s
   learning and development.   How this applies [&#8230;]
-images: []
+image_ids: []
 locations:
 - King County
 source: Technology Access Foundation

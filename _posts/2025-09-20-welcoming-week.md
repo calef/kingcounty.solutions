@@ -18,7 +18,7 @@ feed_content: |-
   - 9/18 5:30-7:30pm @ Redmond Senior & Community Center – One Table, Many Stories [Flyer attached]
 
   The post [Welcoming Week](https://togethercenter.org/2025/09/20/welcoming-week/) appeared first on [Together Center](https://togethercenter.org).
-images: []
+image_ids: []
 locations:
 - King County
 source: Together Center

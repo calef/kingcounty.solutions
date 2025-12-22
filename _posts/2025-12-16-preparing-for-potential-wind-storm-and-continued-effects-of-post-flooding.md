@@ -25,7 +25,7 @@ feed_content: |-
   <li><span>Keep an emergency kit in your trunk that contains jumper cables, a flashlight, warm blankets, non-perishable snacks, a small shovel, and sand or cat litter for traction.</span></li>
   </ul>
 feed_content_checksum: e205acace75842cde03767eff23a0dcc136517e3
-images: []
+image_ids: []
 locations:
 - King County
 original_source_html: |-

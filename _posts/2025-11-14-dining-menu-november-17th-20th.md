@@ -33,7 +33,7 @@ feed_content: |-
 
   <p></p>
   <p>The post <a href="https://ballardseniorcenter.org/dining-menu-november-17th-20th/">Dining Menu November 17th &#8211; 20th</a> appeared first on <a href="https://ballardseniorcenter.org">Ballard Senior Center</a>.</p>
-images: []
+image_ids: []
 locations: []
 published: false
 source: Ballard Northwest Senior Center

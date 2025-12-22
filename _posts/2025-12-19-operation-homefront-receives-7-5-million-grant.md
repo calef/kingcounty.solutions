@@ -42,7 +42,7 @@ feed_content: |-
   <p><strong>Media Inquiries:</strong><br><strong>Susan Ziesman, Vice President, Integrated Public Relations</strong><br><a>Susan.Ziesman@OperationHomefront.org <br></a>(210) 392-6878</p>
   <p>The post <a>Operation Homefront Receives $7.5 Million Grant</a> appeared first on <a>Operation Homefront</a>.</p>
 feed_content_checksum: b8d030f94853a2677688a36d505ccd14d2428e56
-images: []
+image_ids: []
 locations:
 - King County
 original_source_html: |-

@@ -86,7 +86,7 @@ feed_content: "<header> <div> <div> <div> <a>Department of Laboratory Medicine &
   Rounds Playlist</a></p> <p> <a>2020-2021 Path Presents Playlist</a></p> </div> </div>
   </div> </div> </div> </div>"
 feed_content_checksum: f25a4db0a3e2ef34b684be77831c7035fe91cec9
-images: []
+image_ids: []
 location: Magnuson Health Sciences Center D (HSD)
 locations:
 - King County

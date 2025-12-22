@@ -7,7 +7,7 @@ feed_content: Help Shape the Future of Normandy Park’s Roads. Public Hearing o
   standards ensure that when developers, contractors, or the City itself builds or
   renovates a road, the design is safe, consistent, and supports the needs of our
   community.
-images: []
+image_ids: []
 locations: []
 published: false
 source: City of Normandy Park

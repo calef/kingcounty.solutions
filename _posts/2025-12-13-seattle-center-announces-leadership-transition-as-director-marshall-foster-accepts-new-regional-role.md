@@ -5,7 +5,7 @@ feed_content: 'Pictured: Marshall Foster, Photo by: Janet Chapman Links below wi
   Director, Effective Jan. 17, 2026 SEATTLE – Seattle Center announced today that
   Director Marshall Foster...'
 feed_content_checksum: a327da2cc71e1b2eeced22d4b7b5f0b16594243c
-images: []
+image_ids: []
 locations:
 - King County
 original_source_html: 'Pictured: Marshall Foster, Photo by: Janet Chapman Links below

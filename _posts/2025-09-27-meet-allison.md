@@ -21,7 +21,7 @@ feed_content: |-
   <hr />
   <p style="text-align: center;">If you would like to support other childhood cancer survivors in reaching their educational goals through the Beyond the Cure Ambassador Scholarship Program, <a href="https://nc.thenccs.org/donate-scholarship">click here</a>.</p>
   <p>The post <a href="https://thenccs.org/meet-allison/">Meet Allison!</a> appeared first on <a href="https://thenccs.org">The NCCS</a>.</p>
-images:
+image_ids:
 - '091c7ee1409de32735a56cf58b78643306ef0c11574434e6e06db9e9c88927af'
 - 2596a0cdd657fa61b9ac156ddfc185f011c7deac3f5e8dc3b87f3160d1377ef2
 locations:

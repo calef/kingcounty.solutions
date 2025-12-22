@@ -30,7 +30,7 @@ feed_content: |-
   <hr>
   <p>Photo at top: Phoenica Zhang, Solid Ground Advocacy Specialist, testifies before the King County Budget and Fiscal Management Committee on 11/12/25.</p>The post <a>What we’re doing locally to limit the harm of federal budget cuts </a> appeared first on <a>Solid Ground</a>.
 feed_content_checksum: 75f1565fc24387a18faf68dd77c0f34aab6d381c
-images: []
+image_ids: []
 locations:
 - King County
 rss_guid: https://www.solid-ground.org/?p=72550

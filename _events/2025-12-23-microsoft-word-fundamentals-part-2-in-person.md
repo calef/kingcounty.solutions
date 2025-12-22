@@ -50,7 +50,7 @@ feed_content: '<div> <div> <section> <title>WorkSource Seattle-King County</titl
   and graphics </li> <li>Working with styles</li> </ul> </div> </div> </div> </section>
   </div> </section> </div> </div>'
 feed_content_checksum: 53fedc9bfcba134930c733118d2615fa234895e4
-images: []
+image_ids: []
 location: ''
 locations:
 - King County

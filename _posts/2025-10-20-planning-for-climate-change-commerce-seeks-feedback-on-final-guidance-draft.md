@@ -14,7 +14,7 @@ feed_content: "The Department of Commerce is seeking feedback as it finalizes gu
   iteration of guidance to be released by Commerce and incorporates previous public
   comment, changes to statewide rulemaking, and changes to federal programs and resources.
   \ \n  \nFor questions, contact Ananda Gordon-Peabody at [Ananda.Gordon-Peabody@commerce.wa.gov](mailto:Ananda.Gordon-Peabody@commerce.wa.gov).\n\n[![](https://www.commerce.wa.gov/wp-content/uploads/2025/10/ClimateGuiebookCover.png)](https://deptofcommerce.app.box.com/file/2009332238159?s=l9c7t6sy9xpka49p1uyd88f6i0k31m7x)"
-images: []
+image_ids: []
 locations: []
 published: false
 source: Department of Commerce

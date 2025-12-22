@@ -110,7 +110,7 @@ feed_content: |-
 
 
   <p>Visit <a href="https://department.va.gov/ai/" rel="noopener">Explore AI at VA</a> to learn more about VA’s innovative efforts in AI and digital health solutions.</p>
-images: []
+image_ids: []
 locations: []
 published: false
 source: Veterans Affairs Pension Program

@@ -15,7 +15,7 @@ feed_content: |-
   <p><span class="cf0">The building was designed by WRNS Studio and Santos Prescott and Associates, with Cahill Contractors as the construction partner. It was developed using the Inclusive Design Standards, a framework consisting of over 300 design and operations elements that support cross-disability access for diverse physical, sensory, and support access needs. The Inclusive Design Standards were created in partnership with The Kelsey, </span><span class="cf0">Mikiten</span><span class="cf0"> Architecture, and the Inclusive Design Council, and serve as a resource for public and private housing developers nationwide. </span></p>
   <p><!--EndFragment --></p>
   <p>The post <a href="https://www.mercyhousing.org/2025/11/the-kelsey-civic-center-san-francisco-welcomes-landmark-disability-forward-community/">The Kelsey Civic Center: San Francisco Welcomes Landmark Disability-Forward Community</a> appeared first on <a href="https://www.mercyhousing.org">Mercy Housing</a>.</p>
-images: []
+image_ids: []
 locations: []
 published: false
 source: Mercy Housing

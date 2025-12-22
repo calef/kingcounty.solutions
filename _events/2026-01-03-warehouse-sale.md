@@ -38,7 +38,7 @@ feed_content: '<section id="tribe-events-pg-template" class="tribe-events-pg-tem
   ***All Bike Works Operations Closed***</a></li> <li class="tribe-events-nav-next"><a
   href="https://bikeworks.org/event/open-shop/2026-01-10/">Open Shop <span>»</span></a></li>
   </ul> </div> </div> </section>'
-images: []
+image_ids: []
 location: 'Bike works warehouse, 3715 S Hudson St #111, Seattle, Washington, 98118,
   United States'
 locations:

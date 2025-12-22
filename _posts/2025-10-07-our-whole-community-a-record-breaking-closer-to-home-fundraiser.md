@@ -4,7 +4,7 @@ events: []
 events_extracted: true
 feed_content: On September 25, 2025, more than 750 neighbors, partners, and friends of
   Bellwether Housing filled the Westin Seattle ballroom for...
-images: []
+image_ids: []
 locations:
 - King County
 source: Bellwether Housing

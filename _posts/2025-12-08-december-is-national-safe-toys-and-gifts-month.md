@@ -36,7 +36,7 @@ feed_content: "<div>\n\t\t\t\t<div>\n\t\t\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t<di
   post <a>December is National Safe Toys and Gifts Month</a> appeared first on <a>Snoqualmie
   Valley Hospital</a>.</p>"
 feed_content_checksum: bdf9072df260257282bb46aea73ccbedd2ee15a6
-images: []
+image_ids: []
 locations:
 - King County
 source: Hospital District No. 4 (Snoqualmie Valley Hospital)

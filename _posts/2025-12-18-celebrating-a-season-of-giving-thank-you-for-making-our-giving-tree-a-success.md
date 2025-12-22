@@ -9,7 +9,7 @@ feed_content: This year, our community came together in an extraordinary way to 
   that believes every young person and family deserves to feel seen, supported, and
   celebrated. Your generosity did more than fulfill wish lists —it reminded our youth,...
 feed_content_checksum: 6e6c6af5c400412393a2d8ece9db9c88a4a493e4
-images: []
+image_ids: []
 locations:
 - King County
 original_source_html: This year, our community came together in an extraordinary way

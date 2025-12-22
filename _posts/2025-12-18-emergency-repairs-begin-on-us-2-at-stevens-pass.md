@@ -3,7 +3,7 @@ date: '2025-12-18T01:03:54-08:00'
 feed_content: STEVENS PASS – Emergency work to repair several miles of washouts and
   mudslides on US 2 Stevens Pass began Thursday, Dec. 18.
 feed_content_checksum: 76c1e140be188522ab30c34f252aa91c8003bf3d
-images: []
+image_ids: []
 locations:
 - King County
 original_source_html: "<!DOCTYPE html>\n<html  lang=\"en\" dir=\"ltr\" prefix=\"og:

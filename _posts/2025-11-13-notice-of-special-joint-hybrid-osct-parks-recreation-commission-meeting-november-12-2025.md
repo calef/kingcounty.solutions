@@ -8,7 +8,7 @@ feed_content: <div class="field field-name-body field-type-text-with-summary fie
   will be held on November 12, 2025 at 5:00PM in the Slater Room Council Chambers
   at the Mercer Island Community and Event Center, 8236 SE 24th St., Mercer Island,
   WA 98040, and via Zoom. </span></span></p></div></div></div>
-images: []
+image_ids: []
 locations: []
 published: false
 source: City of Mercer Island

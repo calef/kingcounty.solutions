@@ -44,7 +44,7 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   \           <div class=\"field field--name-field-article-date field--type-datetime
   field--label-hidden field__item\"><time datetime=\"2025-10-30T12:00:00Z\" class=\"datetime\">October
   30 2025</time>\n</div>\n      \n    </div>\n  </div>"
-images:
+image_ids:
 - 025be640318ceac7d9dc181ad508c6c2d1636257707bd813b6d323e60b80d584
 locations:
 - Bellevue

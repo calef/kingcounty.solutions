@@ -127,7 +127,7 @@ feed_content: "<div class=\"wpb-content-wrapper\">\r\n<div  data-mk-stretch-cont
   post <a href=\"https://ihdd.org/2025/12/05/uw-autism-center-annual-benefit/\">UW
   Autism Center Annual Benefit</a> appeared first on <a href=\"https://ihdd.org\">UW
   IHDD</a>.</p>"
-images:
+image_ids:
 - f03690d23e66d1ec4375536dfeed1ab8687e909ab71fa58f702ebb3027e22636
 - 0d3bddaa32fd10f1c058d066cad12caccb429a7945ea292f8026a8b74abb1c04
 locations:

@@ -29,7 +29,7 @@ feed_content: |-
 
   <p>Together, we can ensure that every voice counts and every vote makes a difference.</p>
   <p>The post <a href="https://www.elcentrodelaraza.org/take-action-october-2025/">Take Action: OCTOBER 2025</a> appeared first on <a href="https://www.elcentrodelaraza.org">El Centro de la Raza</a>.</p>
-images: []
+image_ids: []
 locations: []
 published: false
 source: El Centro de la Raza

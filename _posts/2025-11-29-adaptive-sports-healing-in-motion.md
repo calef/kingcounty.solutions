@@ -68,7 +68,7 @@ feed_content: |-
 
 
   <p>This article was originally published on the <a href="https://www.va.gov/charleston-health-care/stories/healing-in-motion-how-adaptive-sports-lifts-a-veteran-to-the-warrior-games/" rel="noopener">Charleston Health care System site</a> and has been edited for style and clarity.  </p>
-images: []
+image_ids: []
 locations:
 - King County
 source: Veterans Affairs Pension Program

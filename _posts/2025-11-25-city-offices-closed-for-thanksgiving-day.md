@@ -4,7 +4,7 @@ feed_content: "<div class=\"field field-name-field-date-and-time field-type-date
   field-label-hidden\">\n  \n      \n    <span  property=\"dc:date\" datatype=\"xsd:dateTime\"
   content=\"2025-11-27T00:00:00-08:00\" class=\"date-display-single\">11/27/2025 (All
   day)</span>\n      </div>"
-images: []
+image_ids: []
 locations: []
 published: false
 source: City of Black Diamond

@@ -38,7 +38,7 @@ feed_content: |-
 
   <p class="text-align-center"><br>
   ###</p></div>
-images: []
+image_ids: []
 locations:
 - King County
 source: Department of Health

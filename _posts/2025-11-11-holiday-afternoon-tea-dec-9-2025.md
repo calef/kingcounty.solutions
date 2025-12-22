@@ -10,7 +10,7 @@ feed_content: |-
 
 
   <p></p>
-images: []
+image_ids: []
 locations: []
 published: false
 source: Wallingford Community Senior Center

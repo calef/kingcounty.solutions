@@ -84,7 +84,7 @@ feed_content: "<div class=\"wpb-content-wrapper\">\r\n<div  data-mk-stretch-cont
   post <a href=\"https://ihdd.org/2025/11/17/research-study-for-parents-of-teens-who-use-aac/\">Research
   Study for Parents of Teens Who Use AAC</a> appeared first on <a href=\"https://ihdd.org\">UW
   IHDD</a>.</p>"
-images: []
+image_ids: []
 locations: []
 published: false
 source: Institute on Human Development and Disability

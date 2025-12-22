@@ -4,7 +4,7 @@ feed_content: Seattle police officers arrested a 44-year-old woman after she sta
   a man during a road rage incident in Downtown Seattle this afternoon. At about 2:55
   p.m., patrol officers responded to reports of a stabbing at the intersection of
   7th Avenue and Ma...
-images: []
+image_ids: []
 locations: []
 published: false
 source: City of Seattle

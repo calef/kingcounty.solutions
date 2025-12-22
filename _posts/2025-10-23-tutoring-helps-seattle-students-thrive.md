@@ -64,7 +64,7 @@ feed_content: |-
 
 
   <p>This fall, YTP has introduced a new curriculum software that will enhance learning and provide even more personalized support. With the support of our generous community of staff, volunteers, and donors, YTP offers these transformational tools and experiences, empowering every scholar at YTP to grow thrive, and reach their full potential.&nbsp;</p>The post <a href="https://ccsww.org/tutoring-helps-seattle-students-thrive/">Tutoring Helps Seattle Students Thrive </a> first appeared on <a href="https://ccsww.org">Catholic Community Services of Western Washington</a>.
-images:
+image_ids:
 - d5e430c0b3417345e39052679b14c414c0c9fb83582a816959143f98a1766566
 - f86b1e9ff00330e4fecfe5946117c7a0f04c05d871fab386b85c0d7093c4a440
 locations:

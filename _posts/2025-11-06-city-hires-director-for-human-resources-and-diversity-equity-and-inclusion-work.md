@@ -50,7 +50,7 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   laws.&nbsp;<br>&nbsp;</p></div>\n      \n\n            <div class=\"field field--name-field-article-date
   field--type-datetime field--label-hidden field__item\"><time datetime=\"2025-11-06T12:00:00Z\"
   class=\"datetime\">November 6 2025</time>\n</div>\n      \n    </div>\n  </div>"
-images:
+image_ids:
 - df3e50a89251faee56bd260a21c9b43379c44668c1b9e81e38c5c7778991fa02
 locations:
 - Bellevue

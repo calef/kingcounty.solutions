@@ -7,7 +7,7 @@ feed_content: There have been recent claims about the work DESC is doing at Bloo
   and community members have the facts.&#160; A Community Partnership&#160; DESC is
   a committed partner in Burien. For starters, we prioritized people for tenancy who
   had already been experiencing [&#8230;]
-images: []
+image_ids: []
 locations:
 - King County
 source: DESC

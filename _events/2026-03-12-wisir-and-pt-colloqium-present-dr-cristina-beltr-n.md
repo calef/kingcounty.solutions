@@ -232,7 +232,7 @@ feed_content: "<a>Skip to main content</a><div><div> <div> <div> <div> <div> <di
   </ul> </li> <li> <a>About</a> <ul> <li><a>Contact</a></li> </ul> </li> <li><a>Make
   A Gift</a></li> </ul> </div> </div> </div> </div> </div> </div></div>"
 feed_content_checksum: d74c9d60885732b3fef51f83f6e8445641e0699c
-images: []
+image_ids: []
 location: Gowen Hall (GWN)
 locations:
 - King County

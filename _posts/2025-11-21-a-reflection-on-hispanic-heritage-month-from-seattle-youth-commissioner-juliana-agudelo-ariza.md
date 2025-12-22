@@ -6,7 +6,7 @@ feed_content: By Juliana Agudelo Ariza, Seattle Youth Commissioner Every year, b
   September 15 and October 15, Hispanic Heritage Month is celebrated around the nation
   to honor the accomplishments and cultural traditions of Hispanic/Latino people.
   On September 2...
-images: []
+image_ids: []
 locations:
 - King County
 source: City of Seattle

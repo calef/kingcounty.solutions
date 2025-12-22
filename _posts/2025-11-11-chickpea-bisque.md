@@ -42,7 +42,7 @@ feed_content: '<p class="">Recipe shared in partnership with <a href="https://th
   Add drained and dried chickpeas to oil and cook, stirring occasionally until golden
   brown, about 5-8 minutes.</p><p class="">- Remove from oil onto paper towels to
   drain and sprinkle with salt, zest, and pepper. </p>'
-images: []
+image_ids: []
 locations: []
 published: false
 source: Rainier Valley Food Bank

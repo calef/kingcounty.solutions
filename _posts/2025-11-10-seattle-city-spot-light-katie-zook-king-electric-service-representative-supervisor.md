@@ -4,7 +4,7 @@ feed_content: 'The Basics How long have you worked at City Light? 12 years Divis
   Customer Operations Tell us about your role: The Customer Operations Division is
   made up of several teams, including Customer Engineering, which is responsible for
   supporting custome...'
-images: []
+image_ids: []
 locations: []
 published: false
 source: City of Seattle

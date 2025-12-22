@@ -58,7 +58,7 @@ feed_content: '<div> <div> <section> <title>WorkSource Seattle-King County</titl
   or learn more about our WorkSource services, please contact us at 509-532-3120.</strong>
   </div> </div> </div> </section> </div> </section> </div> </div>'
 feed_content_checksum: dca693a9288132813f48f0a460b4bc66284c781a
-images: []
+image_ids: []
 location: ''
 locations:
 - King County

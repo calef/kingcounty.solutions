@@ -38,7 +38,7 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   District of Washington.</p></div>\n      \n\n            <div class=\"field field--name-field-article-date
   field--type-datetime field--label-hidden field__item\"><time datetime=\"2025-07-21T12:00:00Z\"
   class=\"datetime\">July 21 2025</time>\n</div>\n      \n    </div>\n  </div>"
-images: []
+image_ids: []
 locations:
 - King County
 source: City of Bellevue

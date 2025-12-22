@@ -32,7 +32,7 @@ feed_content: 'Event interval: Single day event Campus location: South Campus Ce
   Research Fellows or Faculty Fellows planning to join for lunch. For the showcase
   &amp; reception, registration is helpful but not required.'
 feed_content_checksum: 7c070f376e7cfccc3c5deb8cccfb39884c5e458b
-images: []
+image_ids: []
 location: South Campus Center (SOCC)
 locations:
 - King County

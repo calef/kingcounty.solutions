@@ -6,7 +6,7 @@ feed_content: |-
   <p>Neighborhood House’s 2025 Strategic Plan marks a critical juncture in our enduring mission to advance equity, opportunity, and community well-being across King County. At a time when the political landscape is increasingly volatile—marked by rising hostility toward immigrants and refugees, and growing threats to public funding—we remain steadfast in our commitment to our neighbors furthest ... </p>
   <p class="read-more-container"><a title="Sharing Neighborhood House’s 2025-2029 Strategic Plan" class="read-more button" href="https://nhwa.org/2025/08/01/sharing-neighborhood-houses-2025-2029-strategic-plan/#more-25211" aria-label="Read more about Sharing Neighborhood House’s 2025-2029 Strategic Plan">Read more</a></p>
   <p>The post <a href="https://nhwa.org/2025/08/01/sharing-neighborhood-houses-2025-2029-strategic-plan/">Sharing Neighborhood House’s 2025-2029 Strategic Plan</a> appeared first on <a href="https://nhwa.org">Neighborhood House</a>.</p>
-images: []
+image_ids: []
 locations:
 - King County
 source: Neighborhood House

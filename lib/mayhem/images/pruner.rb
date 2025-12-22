@@ -18,7 +18,7 @@ module Mayhem
       end
 
       def collect_image_ids(front_matter)
-        Array(front_matter['images']).map(&:to_s).map(&:strip).reject(&:empty?)
+        Array(front_matter['image_ids']).map(&:to_s).map(&:strip).reject(&:empty?)
       end
 
       def remaining_image_counts(excluded_paths = Set.new)

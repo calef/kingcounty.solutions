@@ -28,7 +28,7 @@ feed_content: |-
   &nbsp;
 
   &nbsp;
-images: []
+image_ids: []
 locations: []
 published: false
 source: Town of Yarrow Point

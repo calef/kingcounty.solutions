@@ -4,7 +4,7 @@ events: []
 events_extracted: true
 feed_content: <p>The post <a href="https://www.kcsarc.org/en/lornas-blog-2/">Lorna&#8217;s
   Blog</a> appeared first on <a href="https://www.kcsarc.org/en/">KCSARC</a>.</p>
-images: []
+image_ids: []
 locations:
 - King County
 source: King County Sexual Assault Resource Center

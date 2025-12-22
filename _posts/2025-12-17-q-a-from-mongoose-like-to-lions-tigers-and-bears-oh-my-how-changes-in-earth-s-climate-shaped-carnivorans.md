@@ -38,7 +38,7 @@ feed_content: |-
   <p><em>For more information, contact Law at </em><a><em>cjlaw@uw.edu</em></a><em>. </em></p>
   <p><a></a><a></a><a></a><a></a><a></a><a></a></p>
 feed_content_checksum: 6daab9e8f1ea5864aa49194f6a4976c3fdc45346
-images: []
+image_ids: []
 locations:
 - King County
 original_source_html: |-

@@ -1,6 +1,6 @@
 ---
 generated_from_post: true
-images: []
+image_ids: []
 location: Zoom
 locations:
 - King County

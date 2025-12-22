@@ -3,7 +3,7 @@ date: '2025-11-26T23:15:38+00:00'
 feed_content: |-
   <p>Husky Health Center is closed November 27th and 28th in observation of Thanksgiving Day and Native American Heritage Day. HHC will resume regular business hours on Monday, December 1. Husky Health follows the University of Washington official holiday calendar: https://hr.uw.edu/time&#x2d;absence/holidays/calendar/</p>
   <p><a href="https://wellbeing.uw.edu/closed-thanksgiving-11-27-and-native-american-heritage-day-11-28/" rel="nofollow">Source</a></p>
-images: []
+image_ids: []
 locations: []
 published: false
 source: Husky Health Center

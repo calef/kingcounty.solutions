@@ -18,7 +18,7 @@ feed_content: |-
   <hr />
   <p style="text-align: center;">If you would like to support other childhood cancer survivors in reaching their educational goals through the Beyond the Cure Ambassador Scholarship Program, <a href="https://nc.thenccs.org/donate-scholarship">click here</a>.</p>
   <p>The post <a href="https://thenccs.org/meet-benjamin/">Meet Benjamin!</a> appeared first on <a href="https://thenccs.org">The NCCS</a>.</p>
-images:
+image_ids:
 - 719f0076e5bc7cbcf4c82a40f751f8292f140dec447a0874804e626a4891bdfb
 locations:
 - King County

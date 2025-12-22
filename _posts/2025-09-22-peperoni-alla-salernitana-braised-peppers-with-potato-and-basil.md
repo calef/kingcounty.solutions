@@ -24,7 +24,7 @@ feed_content: '<p class="">Recipe shared in partnership with <a href="https://th
   and the vinegar. Turn the heat down to a medium low and allow the mixture to simmer
   for 25 minutes.</p><p class="">- Add the cooked potatoes and basil leaves. Season
   to taste with salt. Continue to cook until the potatoes have warmed through. </p>'
-images: []
+image_ids: []
 locations: []
 published: false
 source: Rainier Valley Food Bank

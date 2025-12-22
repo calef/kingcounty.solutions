@@ -1,7 +1,7 @@
 ---
 end_date: '2026-10-22T23:59:59-07:00'
 generated_from_post: true
-images: []
+image_ids: []
 location: Spokane
 locations: []
 organization_title: Neighborhood House

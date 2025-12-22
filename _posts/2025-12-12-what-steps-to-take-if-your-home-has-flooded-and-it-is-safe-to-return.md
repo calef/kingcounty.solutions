@@ -32,7 +32,7 @@ feed_content: |-
   <p><b><span>Contact the Housing Department</span></b><span> if you have questions regarding availability of Home Repair/ Improvement benefits and other resources that may be available in your area.</span></p>
   <p><a>Download a PDF of this information for reference</a></p>
 feed_content_checksum: 0a607de72666c4ebc730d47792f7467e6af37378
-images: []
+image_ids: []
 locations:
 - King County
 rss_guid: https://snoqualmietribe.us/?p=6898

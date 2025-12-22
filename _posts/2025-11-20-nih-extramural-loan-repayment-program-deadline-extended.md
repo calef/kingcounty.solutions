@@ -132,7 +132,7 @@ feed_content: "<div class=\"wpb-content-wrapper\">\r\n<div  data-mk-stretch-cont
   post <a href=\"https://ihdd.org/2025/11/20/nih-extramural-loan-repayment-program-deadline-extended/\">NIH
   Extramural Loan Repayment Program Deadline Extended</a> appeared first on <a href=\"https://ihdd.org\">UW
   IHDD</a>.</p>"
-images: []
+image_ids: []
 locations:
 - King County
 source: Institute on Human Development and Disability

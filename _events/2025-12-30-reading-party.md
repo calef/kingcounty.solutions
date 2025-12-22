@@ -2,7 +2,7 @@
 feed_content: A reading party for families.
 feed_content_checksum: d5ca4a51a13f06588c64119fee4d2412de469f2b
 generated_from_post: true
-images: []
+image_ids: []
 location: Beacon Hill Branch
 locations:
 - King County

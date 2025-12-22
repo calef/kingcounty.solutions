@@ -3,7 +3,7 @@ date: '2025-12-03T11:02:44-05:00'
 feed_content: "<p>artifact_description: Tip Sheet</p><p>date: Wed, 12 Nov 2025 16:03:22
   -0500</p><p>title: Agent, Broker, and Web-broker Guidelines for Compliant Marketplace
   Advertising and Marketing  </p><p>topic: Compliance</p>"
-images: []
+image_ids: []
 locations: []
 published: false
 source: Centers for Medicare & Medicaid Services

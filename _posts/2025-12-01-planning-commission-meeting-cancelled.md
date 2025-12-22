@@ -7,7 +7,7 @@ feed_content: "<div class=\"field field-name-field-date-and-time field-type-date
   field-label-hidden\">\n  \n      \n    <p>For Planning Commission Meeting Agendas
   please <a href=\"https://www.blackdiamondwa.gov/home/pages/minutes-agendas\" target=\"_blank\">CLICK
   HERE</a></p>\n      </div>"
-images: []
+image_ids: []
 locations: []
 published: false
 source: City of Black Diamond

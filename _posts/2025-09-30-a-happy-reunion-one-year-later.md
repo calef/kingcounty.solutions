@@ -8,7 +8,7 @@ feed_content: |-
   Happy 1st Birthday AJ!
 
   The post [A Happy Reunion One Year Later!](https://www.vrfa.org/2025/09/a-happy-reunion-one-year-later/) appeared first on [Valley Regional Fire Authority (VRFA)](https://www.vrfa.org).
-images: []
+image_ids: []
 locations: []
 published: false
 source: Valley Regional Fire Authority

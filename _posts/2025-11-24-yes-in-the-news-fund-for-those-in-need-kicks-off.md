@@ -40,7 +40,7 @@ feed_content: |-
   <p>Last year, Roddewig-Díaz took his dad to a Latino HEAT graduation celebration. This year, it’ll be him taking the stage.</p>
   <p><span style="color: #ff6600;"><a style="color: #ff6600;" href="https://www.seattletimes.com/seattle-news/fund-for-those-in-need-kicks-off-as-nonprofits-face-year-like-no-others/">Read the full article on The Seattle Times »</a></span></p>
   <p>The post <a href="https://www.youtheastsideservices.org/yes-in-the-news-fund-for-those-in-need-kicks-off/">YES in the News: Fund for Those in Need kicks off</a> appeared first on <a href="https://www.youtheastsideservices.org">Youth Eastside Services</a>.</p>
-images: []
+image_ids: []
 locations:
 - King County
 source: Youth Eastside Services

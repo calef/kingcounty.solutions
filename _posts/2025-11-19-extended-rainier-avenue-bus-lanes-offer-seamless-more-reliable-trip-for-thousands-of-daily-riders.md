@@ -5,7 +5,7 @@ events_extracted: true
 feed_content: "(This story was crossposted from the SDOT Blog.) Attention, all Route
   7 riders. We’re now arriving at the next stop of our citywide investment in transit:
   completion of the Rainier..."
-images: []
+image_ids: []
 locations:
 - King County
 source: King County Metro Transit

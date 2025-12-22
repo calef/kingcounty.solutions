@@ -14,7 +14,7 @@ feed_content: |-
   <p class="pf0"><span class="cf1">Hazel’s words remind us that affordable housing isn’t just about shelter. It’s about creating places where people feel supported and proud. Mercy Housing California is proud to create award-winning homes like those at Sister Lillian Murphy Community, and to have them nationally recognized by ULI as examples of excellence. </span></p>
   <p><!--EndFragment --></p>
   <p>The post <a href="https://www.mercyhousing.org/2025/11/more-than-an-address-sister-lillian-murphy-community-is-home/">More than an address &#8211; Sister Lillian Murphy Community is home</a> appeared first on <a href="https://www.mercyhousing.org">Mercy Housing</a>.</p>
-images: []
+image_ids: []
 locations: []
 published: false
 source: Mercy Housing

@@ -86,7 +86,7 @@ feed_content: |-
 
 
   <p>* Names have been changed. </p>The post <a href="https://ccsww.org/farmworker-housing-welcomes-daniel-and-maria-home/">Farmworker Housing Welcomes Daniel and Maria Home </a> first appeared on <a href="https://ccsww.org">Catholic Community Services of Western Washington</a>.
-images:
+image_ids:
 - 7fe9e217198874fc167238ed4bc8cf4539684f79881e2af457381c88888f3a94
 - a7c35ce003c355fe485eede1fd0e297ebd1ea9ba972b32c2df825f2e4f96b0d9
 locations:

@@ -72,7 +72,7 @@ feed_content: |-
 
 
   <p><strong>Read more about St. Margaret’s:</strong>&nbsp;<a href="https://ccsww.org/st-margarets-place-blessing-and-dedication/" target="_blank" rel="noreferrer noopener">Celebrating St. Margaret’s Place: Transforming Lives Through Permanent Supportive Housing | Catholic Community Services of Western Washington</a>&nbsp;</p>The post <a href="https://ccsww.org/veterans-find-a-permanent-home-at-st-margarets-place-apartments/">Veterans Find a Permanent Home at St. Margaret’s Place Apartments </a> first appeared on <a href="https://ccsww.org">Catholic Community Services of Western Washington</a>.
-images:
+image_ids:
 - dc3c28c77162dea23a14b3fd408c51045d882575aa92361d1a9e08f3f07f217f
 - 277b7eceba286876a1995117eb7d0c0a7bb09e14a71395cb7fc969f5e13e4122
 locations:

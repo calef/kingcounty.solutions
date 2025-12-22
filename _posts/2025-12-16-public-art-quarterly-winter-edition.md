@@ -5,7 +5,7 @@ feed_content: Most of us take time in December to reflect and look back at the l
   on how our year went, but our projects don’t follow a fiscal year or Gregorian calendar.
   They mo...
 feed_content_checksum: a246edef9f9ed88cc21ef509dacb5c7502ae78ca
-images: []
+image_ids: []
 locations:
 - King County
 original_source_html: Most of us take time in December to reflect and look back at

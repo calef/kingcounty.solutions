@@ -5,7 +5,7 @@ events_extracted: true
 feed_content: |-
   <p>Thank you to everyone who supported CAMFED in 2025. You have helped us navigate a year marked by uncertainty and change. You are part of a powerful movement committed to ensuring that children can learn today, young women can lead tomorrow, and communities can thrive for generations: This year alone, 44,000 school graduates joined our CAMFED Association, meaning there are now 350,000 girls&rsquo;&#8230;</p>
   <p><a href="https://camfed.org/2025-highlights-girls-education-africa/" rel="nofollow">Source</a></p>
-images: []
+image_ids: []
 locations: []
 published: false
 source: CAMFED - Campaign for Female Education

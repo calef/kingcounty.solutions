@@ -41,7 +41,7 @@ feed_content: "<span>Department of Health issues notice of intent on licenses of
   media</a>.</p>\n\n<p>###</p>\n</div>\n      \n  <div>\n    <div>News Author</div>\n
   \             <div>Washington State Department of Health</div>\n          </div>"
 feed_content_checksum: d6326c9690b2041ac454e72e998aff313479e613
-images: []
+image_ids: []
 locations:
 - King County
 rss_guid: 39920 at https://doh.wa.gov

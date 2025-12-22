@@ -4,7 +4,7 @@ feed_content: We&#8217;re working with Seattle Public Utilities to update Seattl
   Stormwater Code and Stormwater Manual as required by the Washington State Department
   of Ecology. The second draft of the updated Code and Manual documents will be available
   for publi...
-images: []
+image_ids: []
 locations: []
 published: false
 source: City of Seattle

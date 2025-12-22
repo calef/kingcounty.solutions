@@ -68,7 +68,7 @@ feed_content: |-
 
   <li>A healthy mind, body and spirit can make coping with stress easier. Check out the <a href="https://mobile.va.gov/appstore" rel="noopener">VA App Store</a> for free apps to support your wellness throughout this holiday season and beyond.</li>
   </ul>
-images: []
+image_ids: []
 locations:
 - King County
 source: Veterans Affairs Pension Program

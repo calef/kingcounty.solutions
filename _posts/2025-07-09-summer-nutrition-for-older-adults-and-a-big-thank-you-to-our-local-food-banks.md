@@ -4,7 +4,7 @@ events: []
 events_extracted: true
 feed_content: As we move into the heart of summer, it’s the perfect time to talk about
   something near and dear to all of us at Eastside Friends of...
-images: []
+image_ids: []
 locations:
 - Eastside
 source: Eastside Friends of Seniors

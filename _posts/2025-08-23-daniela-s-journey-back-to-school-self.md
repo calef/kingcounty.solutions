@@ -28,7 +28,7 @@ feed_content: |-
   <p><span data-contrast="auto">“People can go through so many, like, ugly things in their life,” says Daniela, “but I feel like that should never define who you are as an individual or, like, change the way you are. I lived so much stuff—a lot of trauma, a lot of ugliness from other people—but I never let that make me mean. Don&#8217;t let it tear you down.”</span><span data-ccp-props="{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;201341983&quot;:0,&quot;335559738&quot;:0,&quot;335559739&quot;:0,&quot;335559740&quot;:240}"> </span></p>
   <h5><strong>To support students get back to school, see how you can <a href="https://www.treehouseforkids.org/take-action/" target="_blank" rel="noopener">take action</a>! </strong></h5>
   <p>The post <a href="https://www.treehouseforkids.org/danielas-journey-back-to-school-self/">Daniela’s Journey Back to School &#038; Self</a> appeared first on <a href="https://www.treehouseforkids.org">Treehouse</a>.</p>
-images:
+image_ids:
 - ce5f6f66e1ac01d11fe5de77d31d285ae30aae04012f1c4e2e57a3036828b785
 locations:
 - King County

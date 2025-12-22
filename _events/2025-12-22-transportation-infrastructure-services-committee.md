@@ -39,7 +39,7 @@ feed_content: "<section> <div> <div> <div> <section> <div> <div> <span> Event Se
   8 @ 7:00 pm</span> - <span>10:00 pm</span> </div> </li> </ul> </div> <p> <a> Back
   to events</a> </p> </div> </section> </div> </div> </div> </section>"
 feed_content_checksum: 269aee379565a2a78cbe6ef94b32a0fe7f9960de
-images: []
+image_ids: []
 location: Hybrid – Virtual/Onsite, United States
 locations:
 - King County

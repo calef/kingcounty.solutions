@@ -58,7 +58,7 @@ feed_content: "<p class=\"\">When Melody found out she was pregnant, she knew on
   class=\"sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element\"
   data-sqsp-button target=\"_blank\"\n  >\n    make a gift to help families like Melody's!\n
   \ </a>"
-images:
+image_ids:
 - 26f09885b03d9be8b02e307f17aea3e8907fbef69e27517d95760be6d843d2f4
 locations:
 - King County

@@ -64,7 +64,7 @@ feed_content: '<div class="row"> <div class="main col-md-12" id="ktmain" role="m
   tribe-events-meta-label">Phone</span> <span class="tribe-venue-tel tribe-events-meta-value">
   206-767-2544 </span> </li> </ul> </div> </div> </div> <p class="nocomments">Comments
   are closed.</p> </div> </section> </div> </div> </div>'
-images: []
+image_ids: []
 location: 'South Park Neighborhood Center, 8201 10th Ave S, #4, Seattle, WA, 98108,
   United States'
 locations:

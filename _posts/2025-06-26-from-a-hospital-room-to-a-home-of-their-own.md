@@ -31,7 +31,7 @@ feed_content: <p class="">Jane and her family know what it means to work hard an
   and open the door to a brand-new home for the family.</p><p class="">Today, Jane
   and her daughter are safe, stable, and settling into their new life. They’ve come
   so far—and they’re finally home.&nbsp;</p>
-images: []
+image_ids: []
 locations:
 - King County
 source: Mary's Place

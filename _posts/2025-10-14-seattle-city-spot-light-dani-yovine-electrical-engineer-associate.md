@@ -13,7 +13,7 @@ feed_content: '<img width="150" height="150" src="https://powerlines.seattle.gov
   Tell us about your role. I’m an electrical engineer on the Generation team. We work
   in the planning, design, construction, operation, and maintenance of City Light&#8217;s
   hydroelectric generation facilities. My favorite thing about my role is that [&#8230;]'
-images: []
+image_ids: []
 locations: []
 published: false
 source: City Light Bill Assistance Programs

@@ -6,7 +6,7 @@ feed_content: 'Para publicación inmediata Contacto: Cynthia Santana, gerenta de
   – La Oficina de Normas Laborales (OLS, Office of Labor Standards) anunció que terminó
   una investigación sobre un empleador […]'
 feed_content_checksum: 50b3b638967eed91e91bcf18ed41018011443b34
-images: []
+image_ids: []
 locations: []
 published: false
 source: City of Seattle

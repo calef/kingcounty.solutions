@@ -31,7 +31,7 @@ feed_content: "<article> <header> <h1>IACUC Meeting Schedule and Agenda</h1> </h
   Services Office</a> at least ten days in advance at: 206.543.6450/V, 206.543.6452/TTY,
   206.685.7264 (FAX), or e-mail at <a>dso@uw.edu</a>.</p> </div> </article>"
 feed_content_checksum: 97d9cd76013cc2380d078cb1209eb8d83d44a1cc
-images: []
+image_ids: []
 location: 3939 15th Ave NE Seattle, WA 98105
 locations:
 - King County

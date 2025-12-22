@@ -6,7 +6,7 @@ events_extracted: true
 feed_content: <p>The post <a href="https://readingpartners.org/blog/programming-updates-co-and-sv/">Programming
   updates in Colorado and Silicon Valley</a> appeared first on <a href="https://readingpartners.org">Reading
   Partners</a>.</p>
-images: []
+image_ids: []
 locations:
 - King County
 source: Reading Partners Seattle

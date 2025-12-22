@@ -5,7 +5,7 @@ feed_content: 'Nestled in the Financial Center in Downtown Seattle, there’s a 
   The Seattle Climate Innovation Hub is the first Downtown space dedicated to designing
   and investing...'
 feed_content_checksum: c4f9b89f76db00b16002ae47987e525d70c4fc5a
-images: []
+image_ids: []
 locations:
 - King County
 published: false

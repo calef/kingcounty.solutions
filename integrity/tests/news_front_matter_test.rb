@@ -136,21 +136,21 @@ class NewsFrontMatterTest < Minitest::Test
     errors = []
 
     posts.each do |doc|
-      images = doc[:data]['images']
-      unless images.is_a?(Array)
-        errors << "#{doc[:path]} images must be a list (empty list allowed)"
+      image_ids = doc[:data]['image_ids']
+      unless image_ids.is_a?(Array)
+        errors << "#{doc[:path]} image_ids must be a list (empty list allowed)"
         next
       end
 
-      images.each do |checksum|
+      image_ids.each do |checksum|
         unless checksum.is_a?(String)
-          errors << "#{doc[:path]} has non-string image reference #{checksum.inspect}"
+          errors << "#{doc[:path]} has non-string image_id reference #{checksum.inspect}"
           next
         end
 
         next if image_checksums.include?(checksum)
 
-        errors << "#{doc[:path]} references missing image checksum #{checksum}"
+        errors << "#{doc[:path]} references missing image_id checksum #{checksum}"
       end
     end
 
@@ -190,10 +190,10 @@ class NewsFrontMatterTest < Minitest::Test
     posts.each do |doc|
       next unless doc[:data]['published'] == false
 
-      images = doc[:data]['images']
-      next if images.is_a?(Array) && images.empty?
+      image_ids = doc[:data]['image_ids']
+      next if image_ids.is_a?(Array) && image_ids.empty?
 
-      errors << "#{doc[:path]} must not reference images when published: false"
+      errors << "#{doc[:path]} must not reference image_ids when published: false"
     end
 
     assert_empty errors, "Unpublished image issues:\n#{errors.join("\n")}"

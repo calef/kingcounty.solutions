@@ -5,7 +5,7 @@ feed_content: By Todd Burley  Seattle recently embarked on a renewed effort to 
   Action Plan. As the third largest City department and manager of the majority of
   public g...
 feed_content_checksum: e71f62f11db5effd0bc9c9de3711d3bba2c8ecc1
-images: []
+image_ids: []
 locations:
 - King County
 original_source_html: By Todd Burley  Seattle recently embarked on a renewed effort

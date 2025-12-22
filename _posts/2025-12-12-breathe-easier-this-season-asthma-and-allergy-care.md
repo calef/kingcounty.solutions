@@ -38,7 +38,7 @@ feed_content: "<div>\n\t\t\t\t<div>\n\t\t\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t<di
   post <a>Breathe Easier This Season: Asthma and Allergy Care</a> appeared first on
   <a>Snoqualmie Valley Hospital</a>.</p>"
 feed_content_checksum: 4457ee43f8b347620f3cacd006c19a4cbffe543a
-images: []
+image_ids: []
 locations:
 - Snoqualmie Valley
 rss_guid: https://snoqualmievalleyhealth.org/?p=19019

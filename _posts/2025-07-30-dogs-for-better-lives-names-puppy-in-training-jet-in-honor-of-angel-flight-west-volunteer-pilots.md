@@ -56,7 +56,7 @@ feed_content: |-
 
 
   <p></p><p>The post <a href="https://angelflightwest.org/news/dogs-for-better-lives-names-puppy-in-training-jet-in-honor-of-angel-flight-west-volunteer-pilots/">Dogs for Better Lives Names Puppy-in-Training “Jet” in Honor of Angel Flight West Volunteer Pilots</a> first appeared on <a href="https://angelflightwest.org">Angel Flight West</a>.</p>
-images:
+image_ids:
 - 9b36066701f2db1f81eb0cb7e2cd88bca6199f9f4a1cd3adab28c232c5a1268a
 locations:
 - King County

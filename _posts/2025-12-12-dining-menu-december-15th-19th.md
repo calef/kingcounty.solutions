@@ -30,7 +30,7 @@ feed_content: |-
   <p><a><strong>Wednesday Night Dinner </strong>(RSVP Required)</a> ~ Pork Roast w/Roasted Potatoes, Cheesy Cauliflower, Salad &amp; Dessert</p>
   <p>The post <a>Dining Menu December 15th – 19th</a> appeared first on <a>Ballard Senior Center</a>.</p>
 feed_content_checksum: 30b8334b453f3035f806f4a38bb4763bcd918b8a
-images: []
+image_ids: []
 locations:
 - Seattle
 rss_guid: https://ballardseniorcenter.org/?p=7565

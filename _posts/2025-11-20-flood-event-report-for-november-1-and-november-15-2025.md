@@ -577,7 +577,7 @@ feed_content: |-
 
 
   <p>The KCFCD would like to recognize and show appreciation for the dedicated public services provided by those who work at National Weather Service, King County, and at cities throughout the county. These talented professionals work long hours during flood events, occasionally at risk to their own safety, to ensure the best possible outcomes for the citizens of King County.</p><p>The post <a href="https://kingcountyfloodcontrol.org/flood-event-report-for-november-1-and-november-15-2025/">Flood Event Report for November 1 and November 15, 2025</a> appeared first on <a href="https://kingcountyfloodcontrol.org">King County Flood Control District</a>.</p>
-images: []
+image_ids: []
 locations: []
 published: false
 source: King County Flood Control District

@@ -139,7 +139,7 @@ feed_content: "<div class=\"wpb-content-wrapper\"><div class=\"vc_row wpb_row ro
   href=\"https://lakesidemilam.com/blog/from-wondering-to-knowing-is-it-time-for-an-addiction-assessment/\">From
   Wondering to Knowing: Is It Time for an Addiction Assessment?</a> appeared first
   on <a href=\"https://lakesidemilam.com\">Lakeside-Milam Recovery Centers</a>.</p>"
-images: []
+image_ids: []
 locations: []
 published: false
 source: Lakeside-Milam Recovery Centers

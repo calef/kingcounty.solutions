@@ -42,7 +42,7 @@ feed_content: |-
   <p style="text-align: center;"><a class="btn btn-md btn-info" href="https://www.solid-ground.org/donate/">Learn About Ways to Give to Solid Ground</a>
   </div>
   <p class="tmc-caption"><strong>Image at top:</strong> Lauren Brown, an experienced social worker and therapist, provides behavioral health services for children and teenagers at  Solid Ground&#8217;s Sand Point Housing. (photo by Neal Simpson)</p>The post <a href="https://www.solid-ground.org/addressing-mental-health-and-housing-together/">Addressing mental health and housing together</a> appeared first on <a href="https://www.solid-ground.org">Solid Ground</a>.
-images:
+image_ids:
 - ed3873ce7a2a0415d216a7d102ca2477523e9ebf6852b8b838e32b178f225c96
 locations:
 - King County

@@ -6,7 +6,7 @@ feed_content: Seattle police officers arrested a 30-year-old violent felon armed
   a machete while doing proactive patrols in the Chinatown-International District
   yesterday morning. On Nov. 25 at 2:00 a.m., officers patrolling 12th Avenue South
   and South King Str...
-images: []
+image_ids: []
 locations:
 - King County
 published: false

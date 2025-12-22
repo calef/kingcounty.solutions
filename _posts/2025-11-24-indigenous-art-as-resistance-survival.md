@@ -182,7 +182,7 @@ feed_content: |-
   <p><script async src="//www.instagram.com/embed.js"></script></p>
   <p><span data-contrast="auto">Recognizing Indigenous art as resistance pushes us past tokenism. It reminds us Indigenous communities are not artifacts – they’re still here. They have always been here, and they will always continue to be here – adapting, creating, resisting, and leading. </span><span data-ccp-props="{}"> </span></p>
   <p><span data-contrast="auto">Art isn’t just what we hang on walls. It’s how communities remember. It’s how people stay alive. It’s how we imagine the world we’re trying to build. May we continue to learn from and support the Indigenous artists who show us how to do that work with courage, beauty, and love.</span><span data-ccp-props="{}"> </span></p>The post <a href="https://www.solid-ground.org/indigenous-art-as-resistance-survival/">Indigenous art as resistance, survival </a> appeared first on <a href="https://www.solid-ground.org">Solid Ground</a>.
-images: []
+image_ids: []
 locations: []
 published: false
 source: Solid Ground

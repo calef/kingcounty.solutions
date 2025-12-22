@@ -80,7 +80,7 @@ feed_content: "<div class=\"editor clearfix\">\n\n    \n    <figure id=\"attachm
   and negotiating those 13 pesky stairs is a thing of the past, all thanks to DAV.</p>\n\n</div><p>The
   post <a href=\"https://www.dav.org/learn-more/news/2025/veteran-wins-fight-for-safer-home-after-va-denials/\">Veteran
   wins fight for safer home after VA denials</a> appeared first on <a href=\"https://www.dav.org\">DAV</a>.</p>"
-images:
+image_ids:
 - df0b7c9eaff2db9ab28cf72f8324841917027fd87e12c2960baf5ab82e47cece
 locations:
 - King County

@@ -76,7 +76,7 @@ feed_content: |-
 
   <p>“Some of my former students now work at Rainier Beach, and some of them are now parents themselves.” Mark says he remembers being in the classroom with them and catching their attention for four minutes here and there. “Now, my former students are teaching. But kids have always been the best teachers.”&nbsp;</p>
   <p>The post <a href="https://bikeworks.org/mark-and-the-purple-bike/">Mark and the purple bike</a> appeared first on <a href="https://bikeworks.org">Bike Works</a>.</p>
-images:
+image_ids:
 - ad87ac70308ef8061067946ed8c46011cfead35c5bc67485080c0f292691a7be
 locations:
 - King County

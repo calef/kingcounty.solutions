@@ -29,7 +29,7 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   field--name-field-article-date field--type-datetime field--label-hidden field__item\"><time
   datetime=\"2025-11-24T12:00:00Z\" class=\"datetime\">November 24 2025</time>\n</div>\n
   \     \n    </div>\n  </div>"
-images: []
+image_ids: []
 locations: []
 published: false
 source: City of Bellevue

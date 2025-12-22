@@ -12,7 +12,7 @@ feed_content: '<script> { "@context": "https://schema.org", "@type": "Event", "n
   "https://schema.org/OnlineEventAttendanceMode", "location": {"@type":"VirtualLocation","url":"https://events.uw.edu/event/42b08237-3c74-4264-a573-7a6f8b086836"}
   } </script>'
 feed_content_checksum: 3e942b4342a15a0c44b6a5c43e580b8eabd512f2
-images: []
+image_ids: []
 location: ''
 locations: []
 organization_title: University of Washington

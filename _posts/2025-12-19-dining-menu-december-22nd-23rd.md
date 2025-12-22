@@ -16,7 +16,7 @@ feed_content: |-
   <div></div>
   <p>The post <a>Dining Menu December 22nd &amp; 23rd</a> appeared first on <a>Ballard Senior Center</a>.</p>
 feed_content_checksum: ed77d98b483d8ed84dd974710c8dbf85b195ea43
-images: []
+image_ids: []
 locations: []
 original_source_html: |-
   <p><strong>Monday ~</strong> Chicken Philly Sandwich, Soup, Salad &amp; Fruit</p>

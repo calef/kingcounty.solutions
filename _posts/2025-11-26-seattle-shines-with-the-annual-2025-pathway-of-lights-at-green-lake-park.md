@@ -6,7 +6,7 @@ feed_content: This annual tradition returns to Green Lake on Saturday, December 
   2025  We’re getting into the spirit of the season as we prepare for the annual Pathway
   of Lights, a FREE winter event for the whole family! On Saturday, December 13, 2025,
   from 4:30-...
-images: []
+image_ids: []
 locations:
 - King County
 source: City of Seattle

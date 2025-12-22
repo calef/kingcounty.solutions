@@ -8,7 +8,7 @@ feed_content: 'Hello, This is King County Emergency Management. We are evaluatin
   individual impacts (including renters) go to: KCOEM Residential Impact Survey and
   for business impacts go to: KCOEM Business Impact Survey. […]'
 feed_content_checksum: 42f3ceccd712047dc144aaa48711b1bd42dbfd8e
-images: []
+image_ids: []
 locations:
 - King County
 rss_guid: https://kcemergency.com/2025/12/12/december-damage-assessment/

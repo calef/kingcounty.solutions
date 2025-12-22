@@ -2,7 +2,7 @@
 feed_content: A celebration event for families.
 feed_content_checksum: fa243e5637fef490f832e329f5088c807d889aa4
 generated_from_post: true
-images: []
+image_ids: []
 location: Southwest Branch
 locations:
 - King County

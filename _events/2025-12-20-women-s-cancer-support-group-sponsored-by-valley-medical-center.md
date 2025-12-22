@@ -37,7 +37,7 @@ feed_content: "<header> <div> <div><div> <div><div> <a>Lifeline</a> | 206.297.25
   to Give</a></li> <li><a>Volunteer with Us</a></li> <li><a>Donate Now</a></li> <li><a>Planned
   Giving</a></li> </ul> </div> </aside> </div> </div> </div> </div>"
 feed_content_checksum: 53fdaf7a6b774c049dc29dd2d18a10f9e44718c5
-images: []
+image_ids: []
 location: "[ONLINE] Valley Medical Center"
 locations:
 - King County

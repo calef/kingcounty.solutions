@@ -4,7 +4,7 @@ feed_content: Check out King County’s article about how the Environmental Heal
   Division’s permitting services will be temporarily closed from Wednesday, November
   26 at 4 PM through Tuesday, December 9 as we prepare to launch the Public Health
   Permit Cente...
-images: []
+image_ids: []
 locations: []
 published: false
 source: City of Seattle

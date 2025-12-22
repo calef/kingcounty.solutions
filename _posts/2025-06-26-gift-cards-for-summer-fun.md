@@ -4,7 +4,7 @@ events: []
 events_extracted: true
 feed_content: 'Want to help create joyful memories? We’re collecting gift cards for:
   Movie theaters Local food spots Uber rides Haircuts (Visa or...'
-images: []
+image_ids: []
 locations:
 - King County
 source: Friends of Youth

@@ -63,7 +63,7 @@ feed_content: |-
   The Irwin Right Bank Revetment Repair is a reminder of how proactive flood risk reduction measures can prevent future crises, reduce risks, and sustain communities for generations to come.
 
   The post [Reducing Flood Risk: A Look Back at Completed Flood Risk Reduction Projects](https://kingcountyfloodcontrol.org/reducing-flood-risk-a-look-back-at-completed-flood-risk-reduction-projects-6/) appeared first on [King County Flood Control District](https://kingcountyfloodcontrol.org).
-images: []
+image_ids: []
 locations: []
 published: false
 source: King County Flood Control District

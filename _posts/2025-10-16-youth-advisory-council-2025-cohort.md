@@ -4,7 +4,7 @@ events: []
 events_extracted: true
 feed_content: <p>The post <a href="https://www.kcsarc.org/en/youth-advisory-council-2025-cohort/">Youth
   Advisory Council 2025 Cohort</a> appeared first on <a href="https://www.kcsarc.org/en/">KCSARC</a>.</p>
-images: []
+image_ids: []
 locations:
 - King County
 source: King County Sexual Assault Resource Center

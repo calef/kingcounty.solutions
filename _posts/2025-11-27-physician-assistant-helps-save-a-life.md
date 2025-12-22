@@ -55,7 +55,7 @@ feed_content: |-
 
 
   <p>To learn more about the physician assistant profession at VA, visit the <a href="https://www.patientcare.va.gov/PA/index.asp" rel="noopener">physician assistants home page</a>.</p>
-images: []
+image_ids: []
 locations: []
 published: false
 source: Veterans Affairs Pension Program

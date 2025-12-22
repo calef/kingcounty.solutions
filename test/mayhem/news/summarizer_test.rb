@@ -139,11 +139,11 @@ class PostSummarizerTest < Minitest::Test
                  'summarized' => true,
                  'published' => false,
                  'topics' => [],
-                 'images' => ['https://example.com/image.jpg']
+                 'image_ids' => ['https://example.com/image.jpg']
                }, 'Summarized post without locations')
 
     # For unpublished posts, we should not call the classifier
-    # It should just set locations to [] and clear images
+    # It should just set locations to [] and clear image_ids
     location_classifier = Object.new
     def location_classifier.classify(*)
       raise 'Should not be called for unpublished posts'
@@ -164,7 +164,7 @@ class PostSummarizerTest < Minitest::Test
     document = Mayhem::FrontMatter::Document.load(File.join(@tmp_posts, '2025-01-04-test.md'), logger: @logger)
 
     assert_empty document.front_matter['locations']
-    assert_empty document.front_matter['images']
+    assert_empty document.front_matter['image_ids']
   end
 
   def test_run_skips_classification_when_topics_and_locations_explicitly_empty

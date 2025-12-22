@@ -2,7 +2,7 @@
 feed_content: A magic show performance by Louie Foxx.
 feed_content_checksum: e15b38ef6984c7904b0827f93ef88bcd381af7c9
 generated_from_post: true
-images: []
+image_ids: []
 location: South Park Branch
 locations:
 - King County

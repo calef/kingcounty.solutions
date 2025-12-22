@@ -8,7 +8,7 @@ feed_content: Disaster Cash Assistance is available Dec. 17, 2025, to Jan. 15, 2
   Skagit, Snohomish, Thurston, Yakima and Whatcom. Read more in the full news release.
   To apply, call the Washington Department Social and Health […]
 feed_content_checksum: d820f35467a5024c05e55db258e522846fb50fa7
-images: []
+image_ids: []
 locations:
 - King County
 original_source_html: Disaster Cash Assistance is available Dec. 17, 2025, to Jan.

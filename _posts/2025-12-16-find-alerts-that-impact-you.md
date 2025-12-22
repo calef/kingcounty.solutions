@@ -6,7 +6,7 @@ feed_content: Due to a high volume of requests for information about the specifi
   however it is being updated with accurate information. Addresses can be put into
   the search bar at the […]
 feed_content_checksum: 72a3ccbaab3054251664edc3b19c03adacc72eef
-images: []
+image_ids: []
 locations:
 - King County
 original_source_html: Due to a high volume of requests for information about the specific

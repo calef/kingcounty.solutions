@@ -31,7 +31,7 @@ feed_content: |-
   </div>
   </div>
   <p>The post <a href="https://kcdrc.org/family-mediation/">A Window into Family Mediation</a> appeared first on <a href="https://kcdrc.org">Dispute Resolution Center of King County</a>.</p>
-images: []
+image_ids: []
 locations:
 - King County
 source: Dispute Resolution Center of King County

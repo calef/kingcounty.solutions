@@ -6,7 +6,7 @@ feed_content: Community Corner highlights the work of Seattle Human Services’ 
   partners in their own words. Our goal is to gather stories and photos that illustrate
   their amazing work on behalf of the people of Seattle. This post was provided by
   Kathleen Wi...
-images: []
+image_ids: []
 locations:
 - King County
 source: City of Seattle

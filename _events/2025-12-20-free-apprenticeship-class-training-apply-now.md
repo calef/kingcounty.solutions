@@ -35,7 +35,7 @@ feed_content: "<section> <div> <div> <div> <section> <div> <div> <span> Event Se
   <span>January 3, 2026 @ 8:00 am</span> - <span>11:30 pm</span> </div> </li> </ul>
   </div> <p> <a> Back to events</a> </p> </div> </section> </div> </div> </div> </section>"
 feed_content_checksum: 1483f4dd311e040986cfd120a5e46e439be3fc7e
-images: []
+image_ids: []
 location: Virtual/Online, United States
 locations:
 - King County

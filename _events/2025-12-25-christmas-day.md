@@ -269,7 +269,7 @@ feed_content: '<div id="uw-container"> <div id="uw-container-inner"> <header cla
   <a href="https://www.washington.edu" class="footer-wordmark">University of Washington</a>
   <a href="https://www.washington.edu/boundless/"><h3 class="be-boundless">Be boundless</h3></a>
   <h4>Connect with us:</h4> </div> </div> </div>'
-images: []
+image_ids: []
 location: ''
 locations:
 - King County

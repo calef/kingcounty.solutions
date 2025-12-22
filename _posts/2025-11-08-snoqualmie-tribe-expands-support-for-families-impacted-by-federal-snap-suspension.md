@@ -34,7 +34,7 @@ feed_content: |-
   For all 501c3 organizations both awarded, and not awarded this year, the 2026 application cycle will open on January 1st, 2026, and close March 31st, 2022. To learn more, visit&nbsp;[www.snoqualmietribedonations.us](https://snoqualmietribedonations.us/).
 
   _The Snoqualmie Indian Tribe is a federally recognized tribe in the Puget Sound region of Washington State. Known as the People of the Moon, Snoqualmie were signatories to the Treaty of Point Elliott in 1855. For more information visit_ [_www.snoqualmietribe.us_](http://www.snoqualmietribe.us)
-images: []
+image_ids: []
 locations:
 - Snoqualmie Valley
 source: Snoqualmie Indian Tribe

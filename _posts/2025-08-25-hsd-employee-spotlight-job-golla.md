@@ -7,7 +7,7 @@ feed_content: Job Golla (he/him/his) is an intern in the Human Services Departme
   Job recently graduated from the University of Washington Bothell with a degree in
   media and communication studies. What made you decide to join HSD as an intern this
   summer? One of [&#8230;]
-images: []
+image_ids: []
 locations:
 - King County
 source: Seattle Human Services Department

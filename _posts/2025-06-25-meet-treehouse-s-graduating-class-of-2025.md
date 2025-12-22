@@ -51,7 +51,7 @@ feed_content: |-
   <p><span data-contrast="none">Did you know Treehouse spends about $381 per graduate for expenses like senior pictures, yearbooks, cap and gown, and other school-related fees?</span> <span data-contrast="none">We do it because this milestone is a huge accomplishment for youth experiencing foster care, and they deserve to commemorate and participate in the graduation traditions along with their peers. </span><span data-ccp-props="{&quot;134233117&quot;:false,&quot;134233118&quot;:false,&quot;201341983&quot;:0,&quot;335559738&quot;:240,&quot;335559739&quot;:240,&quot;335559740&quot;:315}"> </span></p>
   <h5><b><i><span data-contrast="none">Celebrate students in foster care and tomorrow’s rising seniors by <a href="https://engage.treehouseforkids.org/campaign/fy26-treehouse-back-to-school-donation-drives/c684311" target="_blank" rel="noopener">hosting or donating to a fundraiser drive today</a>!</span></i></b><span data-ccp-props="{}"> </span></h5>
   <p>The post <a href="https://www.treehouseforkids.org/meet-treehouses-graduating-class-of-2025/">Meet Treehouse’s Graduating Class of 2025!</a> appeared first on <a href="https://www.treehouseforkids.org">Treehouse</a>.</p>
-images:
+image_ids:
 - da3a351d4c2931c2ec04c64d011af5bdf399c4daf51dccad1ea7b043a8f45700
 - d294a35b9001b274ddaa2334903d4092f6d86ab24c8b8308cbfc7787d8edc0e5
 - 0b8a11479f6e6495112602cfe1adfb935516dcb4c53d79492cc1a8e5008dc791

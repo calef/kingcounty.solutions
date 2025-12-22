@@ -9,7 +9,7 @@ feed_content: |-
   <p>Participants will receive a waffle breakfast at the conclusion of the course, brunchy beverages, a beanie hat and prizes for race winners. <a href="https://www.bridgetobrunch.org/" target="_blank" rel="noopener external noreferrer" data-wpel-link="external" class="wpel-icon-right">Register for the race here.<span class="wpel-icon wpel-image wpel-icon-6"></span></a></p>
   <p>Participants are encouraged to take pictures and share them on social media platforms using the hashtag #BridgeToBrunch25 — or email them to <a href="mailto:bridgetobrunch@gmail.com">bridgetobrunch@gmail.com</a>.</p>
   <p>The post <a href="https://www.multicare.org/newsroom/2025/09/multicare-hosts-bridge-to-brunch-5k-2025/" data-wpel-link="internal">MultiCare hosts Bridge to Brunch 5K</a> appeared first on <a href="https://www.multicare.org" data-wpel-link="internal">MultiCare</a>.</p>
-images: []
+image_ids: []
 locations: []
 published: false
 source: MultiCare

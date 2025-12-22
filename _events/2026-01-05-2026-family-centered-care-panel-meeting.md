@@ -1,7 +1,7 @@
 ---
 end_date: '2026-01-05T14:20:00-08:00'
 generated_from_post: true
-images: []
+image_ids: []
 location: Zoom
 locations:
 - King County

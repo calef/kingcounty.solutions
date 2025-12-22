@@ -505,7 +505,7 @@ feed_content: "<div data-elementor-type=\"wp-post\" data-elementor-id=\"47784\" 
   post <a href=\"https://opalfoodandbody.com/the-appetite-139-meal-support/\">The
   Appetite 139: From Rules to Trust: Opal&#8217;s Meal Support Approach</a> appeared
   first on <a href=\"https://opalfoodandbody.com\">Opal: Food + Body Wisdom</a>.</p>"
-images: []
+image_ids: []
 locations:
 - King County
 source: 'Opal: Food + Body Wisdom'

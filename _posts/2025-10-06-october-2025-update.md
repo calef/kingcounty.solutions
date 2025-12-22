@@ -91,7 +91,7 @@ feed_content: |-
   <li>On <strong>Monday, October 27<sup>th</sup></strong>, the Mobile Community Service Office from the Department of Social and Health Services will be visiting to provide one-on-one help from <strong>10:00am-2:00pm</strong>. At this event you can apply for <strong>Cash Assistance, Basic food assistance, medical assistance, and the Medicare savings program</strong>. You can also drop off paperwork, complete an eligibility review, mid-certification review or make changes to an existing case.</li>
   </ul>
   <p>The post <a href="https://lakecityseniors.org/october-2025-update/">October 2025 Update</a> appeared first on <a href="https://lakecityseniors.org">Lake City Seniors</a>.</p>
-images: []
+image_ids: []
 locations:
 - King County
 source: Lake City Seniors

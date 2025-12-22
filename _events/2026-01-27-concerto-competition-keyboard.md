@@ -3,7 +3,7 @@ end_date: '2026-01-27T17:30:00-08:00'
 feed_content: <div class="field-items"> <div class="field-item"> <p> </p> <p>Students
   from the UW keyboard program compete for outside judges for a chance to perform
   with the UW Symphony.</p> <h3> </h3> </div> </div>
-images: []
+image_ids: []
 location: Music Building (MUS)
 locations:
 - King County

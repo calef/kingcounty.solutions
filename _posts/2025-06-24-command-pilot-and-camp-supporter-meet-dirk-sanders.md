@@ -52,7 +52,7 @@ feed_content: |-
 
 
   <p>Make your camp gift today at <a href="http://angelflightwest.org/camp" title="">angelflightwest.org/camp</a>.</p><p>The post <a href="https://angelflightwest.org/news/command-pilot-and-camp-supporter-meet-dirk-sanders/">Command Pilot and Camp Supporter: Meet Dirk Sanders</a> first appeared on <a href="https://angelflightwest.org">Angel Flight West</a>.</p>
-images:
+image_ids:
 - 62fe216e55718d31057a0428b464f202b3ae0cc3a06f2ab261621588b8a0732e
 - 60edd00aad4fddb09880b2882b79932630b35ce7bed44eedcdc304c42e041c56
 - ef38588c48a88372388f69caf4c75725abf173bc7c43dd2ee3c9e6ce565856ca

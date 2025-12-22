@@ -4,7 +4,7 @@ feed_content: Today, we take time to honor the brave men and women who have serv
   our country in uniform. To those of you who are veterans — and who continue to serve
   our community with the same integrity, dedication, honor, and courage — thank you.
   Your service to...
-images: []
+image_ids: []
 locations: []
 published: false
 source: City of Seattle

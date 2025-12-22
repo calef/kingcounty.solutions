@@ -10,7 +10,7 @@ feed_content: The DBT team at Friends of Youth is excited to share that our next
   intense mood changes. DBT skills are taught in a strengths-based, trauma-informed
   way that helps build resilience, improve communication, and support healthier...
 feed_content_checksum: 39f2eddd3e27c546a441d94de2ca1150871b6fc9
-images: []
+image_ids: []
 locations:
 - King County
 original_source_html: The DBT team at Friends of Youth is excited to share that our

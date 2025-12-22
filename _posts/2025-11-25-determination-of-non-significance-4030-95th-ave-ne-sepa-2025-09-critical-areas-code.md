@@ -9,7 +9,7 @@ feed_content: '<p><img decoding="async" class="alignnone size-full wp-image-8126
   768w, https://yarrowpointwa.gov/wp-content/uploads/2025/11/CAO-SEPA-2025-09-DNS-Posting-Notice-1187x1536.jpg
   1187w, https://yarrowpointwa.gov/wp-content/uploads/2025/11/CAO-SEPA-2025-09-DNS-Posting-Notice-1583x2048.jpg
   1583w" sizes="(max-width: 1700px) 100vw, 1700px" /></p>'
-images: []
+image_ids: []
 locations: []
 published: false
 source: Town of Yarrow Point

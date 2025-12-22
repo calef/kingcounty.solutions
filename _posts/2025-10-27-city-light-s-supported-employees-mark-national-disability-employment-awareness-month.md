@@ -13,7 +13,7 @@ feed_content: '<img width="150" height="150" src="https://powerlines.seattle.gov
   and contributions that employees with disabilities bring to our workforce. This
   year’s theme, “Celebrating Value and Talent,” underscores that inclusive access
   to meaningful work strengthens the entire [&#8230;]'
-images: []
+image_ids: []
 locations:
 - King County
 source: City Light Bill Assistance Programs

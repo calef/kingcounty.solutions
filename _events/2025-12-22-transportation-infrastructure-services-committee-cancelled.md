@@ -40,7 +40,7 @@ feed_content: "<section> <div> <div> <div> <section> <div> <div> <span> Event Se
   </div> </li> </ul> </div> <p> <a> Back to events</a> </p> </div> </section> </div>
   </div> </div> </section>"
 feed_content_checksum: 8d841ccd6608a34af50833681828ba4390eff3a4
-images: []
+image_ids: []
 location: Hybrid – Virtual/Onsite, United States
 locations:
 - King County

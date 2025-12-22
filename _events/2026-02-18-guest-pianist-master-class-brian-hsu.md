@@ -50,7 +50,7 @@ feed_content: '<div class="field-items"> <div class="field-item"> <p>Guest piani
   Doctoral of Musical Arts degree from the University of Michigan. He is currently
   associate professor of piano at the University of Oregon. Prior to Oregon, he was
   the associate professor at Loyola University New Orleans.</p> </div> </div>'
-images: []
+image_ids: []
 location: Music Building (MUS)
 locations:
 - King County

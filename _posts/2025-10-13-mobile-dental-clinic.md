@@ -17,7 +17,7 @@ feed_content: |-
 
   <p>Day: Friday, 12/5<br>Time: 9:00 am–2:00 pm</p>
   <p>The post <a href="https://shorelinelfpseniorcenter.org/mobile-dental-clinic/">Mobile Dental Clinic</a> appeared first on <a href="https://shorelinelfpseniorcenter.org">Shoreline Lake Forest Park Senior Activity Center</a>.</p>
-images: []
+image_ids: []
 locations:
 - King County
 source: Shoreline Lake Forest Park Senior Activity Center

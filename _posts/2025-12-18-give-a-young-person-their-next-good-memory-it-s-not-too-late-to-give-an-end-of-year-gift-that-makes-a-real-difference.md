@@ -10,7 +10,7 @@ feed_content: Food is more than nourishment—it’s memory, dignity, and hope 
   with a disability made employment difficult, and navigating benefits felt overwhelming.
   But...
 feed_content_checksum: 5efb76c5f3b7612cfcd0460daff5b67e507eb87c
-images: []
+image_ids: []
 locations:
 - King County
 original_source_html: Food is more than nourishment—it’s memory, dignity, and hope

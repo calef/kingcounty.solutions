@@ -2,7 +2,7 @@
 date: '2025-10-25T00:11:00+00:00'
 feed_content: <img src="https://www.auburnwa.gov/UserFiles/Servers/Server_11470554/Image/City%20Hall/Legal/cc%20news%20icon.jpg"
   />
-images: []
+image_ids: []
 locations: []
 published: false
 source: City of Auburn

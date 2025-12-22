@@ -8,7 +8,7 @@ feed_content: |-
   <p><a href="https://seattle.bibliocommons.com/v2/record/S30C2649171"><strong>Black Swan</strong></a> by Mercedes Lackey switches the perspective of Swan Lake to that of Odile, the Black Swan, who finds her own path and confronts her father to save the women he has enchanted into swans.</p>
   <p>A peasant girl chases after her foretold destiny &#8211; to become Empress &#8211; in <a href="https://seattle.bibliocommons.com/v2/record/S30C3296387"><strong>Forest of a Thousand Lanterns</strong></a>, the first book of a YA duology by Julie C. Dao which tells a version of Snow White set in an East Asian fantasy world.</p>
   <p><em>~posted by Amy L.</em></p>
-images: []
+image_ids: []
 locations: []
 published: false
 source: The Seattle Public Library

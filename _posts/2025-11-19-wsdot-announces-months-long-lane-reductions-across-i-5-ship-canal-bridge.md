@@ -4,7 +4,7 @@ feed_content: SEATTLE – Work will return to the northbound lanes of Interstate
   the Ship Canal Bridge as early as Friday, Jan. 9, 2026, marking the start of months-long
   lane reductions. Crews will be working 24/7 to complete this work as quickly as
   possible.
-images: []
+image_ids: []
 locations: []
 published: false
 source: Washington State Department of Transportation

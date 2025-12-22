@@ -9,7 +9,7 @@ feed_content: Odessa Brown Children's Clinic offers behavioral health groups for
   stress, effective parenting strategies, and preventing anxiety, enhancing communication
   and organizational skills.
 feed_content_checksum: 1de8a70593c59e9226d59a59ab67541ca6948714
-images: []
+image_ids: []
 locations:
 - King County
 source: King County School Health

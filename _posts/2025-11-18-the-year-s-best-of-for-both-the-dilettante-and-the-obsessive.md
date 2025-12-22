@@ -13,7 +13,7 @@ feed_content: |-
 
 
   <p></p>
-images: []
+image_ids: []
 locations: []
 published: false
 source: Homework Help

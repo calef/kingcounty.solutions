@@ -120,7 +120,7 @@ feed_content: '<a href="#main-content" class="element-invisible element-focusabl
   Asherie Dance Facebook</a>| <a href="https://www.instagram.com/ephratasheriedance/">Ephrat
   Asherie Dance Instagram</a> </div> </div> </div> </div> </div> </div> </div> </div>
   </div> </div>'
-images: []
+image_ids: []
 location: Meany Hall (MNY)
 locations:
 - King County

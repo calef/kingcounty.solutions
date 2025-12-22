@@ -40,7 +40,7 @@ feed_content: "<p><strong>From a To-Do List to a Lifeline: Abby’s Journey with
   Would you like to share your Cancer Lifeline or Harmony Retreats story with us?
   <a href=\"mailto:victrinia@harmonyhill.org\" target=\"_blank\" rel=\"noreferrer
   noopener\">Contact Our Communications Team</a></p>"
-images: []
+image_ids: []
 locations:
 - King County
 source: Cancer Lifeline Financial Assistance for Cancer Patients

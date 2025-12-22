@@ -82,7 +82,7 @@ feed_content: |-
   <p>Media Inquiries: <br>Erin Burgy, Senior Director, Integrated Public Relations<br><a>Email Erin</a> or (469) 934-7131</p>
   <p>The post <a>Welcome Army Veteran to New Rent-Free Home </a> appeared first on <a>Operation Homefront</a>.</p>
 feed_content_checksum: bdb945657c8fb5ed24077a005826e87ebf9eec59
-images: []
+image_ids: []
 locations: []
 published: false
 source: Operation Homefront - Critical Financial Assistance Program

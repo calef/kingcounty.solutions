@@ -45,7 +45,7 @@ feed_content: |-
 
   <p>p.s. <em>You, too, can join Alysun and Mike on the Broadview meals team – or start your own “meals team” for another Compass Housing Alliance program. Contact Anne Jannetti at </em><a href="mailto:ajannetti@compasshousingalliance.org" target="_blank" rel="noreferrer noopener"><em>ajannetti@compasshousingalliance.org</em></a><em> or 206.485.3223.</em>&nbsp;</p>
   <p>The post <a href="https://www.compasshousingalliance.org/2025/11/mission-advancement-officer-anne-jannetti-expresses-her-thankfulness-to-two-of-our-long-time-supporters-alysun-deckert-and-mike-bailey/">Mission Advancement Officer Anne Jannetti expresses her thankfulness to two of our long-time supporters, Alysun Deckert and Mike Bailey  </a> appeared first on <a href="https://www.compasshousingalliance.org">Compass Housing Alliance</a>.</p>
-images:
+image_ids:
 - 728a3df36a3c6a91c1e001740b25d8dec75ad163d64ca990bd97fbb0d7c32777
 locations:
 - King County

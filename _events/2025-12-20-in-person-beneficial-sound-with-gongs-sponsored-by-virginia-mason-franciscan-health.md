@@ -38,7 +38,7 @@ feed_content: "<header> <div> <div><div> <div><div> <a>Lifeline</a> | 206.297.25
   Now</a></li> <li><a>Planned Giving</a></li> </ul> </div> </aside> </div> </div>
   </div> </div>"
 feed_content_checksum: 837c4e6ecdbfb4dbf486c3df4ec23ed5f49b1a18
-images: []
+image_ids: []
 location: "[IN-PERSON] Cancer Lifeline, 6522 Fremont Ave N, Seattle, 98103, United
   States"
 locations:

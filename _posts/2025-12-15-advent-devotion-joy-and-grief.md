@@ -21,7 +21,7 @@ feed_content: "<div>\n<div><div><div>\n<div><div><div>\n\t<div>\n\t\t<div>\n\t\t
   for Christmas day</em></p>\n<p> </p>\n<h5><span>Devotion by Mary Stanton-Nurse,
   MA, LMFT</span></h5>\n<h5><span>Samaritan Center Therapist</span></h5>\n\n\t\t</div>\n\t</div>\n</div></div></div>\n</div></div></div>\n</div>"
 feed_content_checksum: fce3a9684c18beb149cad02695c8119ac7e2daca
-images:
+image_ids:
 - e5374fed52c8053f49c75999104805856258b8e0b398ab5632e94f97b4412a77
 locations:
 - King County

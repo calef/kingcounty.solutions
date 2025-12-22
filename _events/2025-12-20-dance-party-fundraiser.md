@@ -21,7 +21,7 @@ feed_content: "<div> <div> <section> <div> <p> <a> « All Events</a> </p> <h1>Da
   Chickadee Thrift Shop</a></h3> <span>December 22 @ 10:00 am</span> - <span>2:00
   pm</span> </div> </li> </ul> </div> </div> </section> </div> </div>"
 feed_content_checksum: be9f6f8fd321746b1153a1e400b6aed3a796cc70
-images: []
+image_ids: []
 location: Chamberlain Room
 locations:
 - King County

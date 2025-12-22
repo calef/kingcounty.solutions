@@ -7,7 +7,7 @@ feed_content: Approximately 200 people gathered at Seattle City Hall on Oct. 28 
   violence, as well as service providers and advocates.   Titled “Giving Flowers,”
   the event focused on cultivating healing and lifting up stories of resilience. It
   was hosted by the Human Service Department (HSD)’s Mayor’s [&#8230;]
-images: []
+image_ids: []
 locations:
 - King County
 source: Seattle Human Services Department

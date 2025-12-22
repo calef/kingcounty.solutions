@@ -6,7 +6,7 @@ feed_content: 'UPDATED: December 17, 2025 – 5 p.m. Water levels have continued
   order and are not safe for re-entry. Now at Level 2: Copper Gate Apartments, 4750
   Auburn Way […]'
 feed_content_checksum: 66b195f6f533bbd028bd3f3cd32338d2a595a903
-images: []
+image_ids: []
 locations:
 - King County
 original_source_html: 'UPDATED: December 17, 2025 – 5 p.m. Water levels have continued

@@ -133,7 +133,7 @@ feed_content: |-
   <li><strong>Take advantage of NVRD events</strong> on <strong>September 16</strong>—great for outreach and support, especially if it’s your first time or you need to update.</li>
   </ol>
   <p>The post <a href="https://www.elcentrodelaraza.org/take-action-august-2025/">Take Action: August 2025</a> appeared first on <a href="https://www.elcentrodelaraza.org">El Centro de la Raza</a>.</p>
-images: []
+image_ids: []
 locations: []
 published: false
 source: El Centro de la Raza

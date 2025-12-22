@@ -86,7 +86,7 @@ feed_content: "<p>This year, the UW News social media team shared stories from t
   is offered by the @uwsom-wwami.bsky.social.</p>\n<p>— <a>UW Medicine (@uwmedicine.bsky.social)</a>
   <a>2025-12-01T22:13:12.11209095Z</a></p>\n</blockquote>\n<p><script></script></p>\n<p><a></a><a></a><a></a><a></a><a></a><a></a></p>"
 feed_content_checksum: 0757ed9a286befbd857be4a40b293c5cf417ec59
-images: []
+image_ids: []
 locations: []
 published: false
 source: University of Washington

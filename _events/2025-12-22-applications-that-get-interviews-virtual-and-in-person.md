@@ -48,7 +48,7 @@ feed_content: '<div> <div> <section> <title>WorkSource Seattle-King County</titl
   the workshop using the link below.  </div> </div> </div> </section> </div> </section>
   </div> </div>'
 feed_content_checksum: 217fad85eca8e10492b7ecff119caee712495e15
-images: []
+image_ids: []
 location: ''
 locations:
 - King County

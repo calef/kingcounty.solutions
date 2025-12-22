@@ -73,7 +73,7 @@ feed_content: '<article id="post-3847" class="post-3847 uw_oplevents type-uw_opl
   children.</span><span data-ccp-props=''{"134233117":false,"134233118":false,"335559738":240,"335559739":240}''> </span></p>
   </div> </div> <p class="sponsor-dept"><strong>Sponsoring Departments:</strong> The
   Graduate School</p> </div> </article>'
-images: []
+image_ids: []
 location: Town Hall Seattle
 locations:
 - King County

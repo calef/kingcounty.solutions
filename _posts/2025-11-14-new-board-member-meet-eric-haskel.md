@@ -22,7 +22,7 @@ feed_content: |-
 
 
   <p>Welcome to the board, Eric! </p><p>The post <a href="https://angelflightwest.org/news/new-board-member-meet-eric-haskel/">New Board Member: Meet Eric Haskel</a> first appeared on <a href="https://angelflightwest.org">Angel Flight West</a>.</p>
-images: []
+image_ids: []
 locations: []
 published: false
 source: Angel Flight West

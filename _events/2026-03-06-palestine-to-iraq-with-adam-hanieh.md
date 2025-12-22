@@ -64,7 +64,7 @@ feed_content: '<article id="post-3862" class="post-3862 uw_oplevents type-uw_opl
   of History, Henry M. Jackson School of International Studies, Department of Women,
   Gender &amp; Sexuality Studies, Department of American Ethnic Studies, The Graduate
   School</p> </div> </article>'
-images: []
+image_ids: []
 location: Livestreaming
 locations:
 - King County

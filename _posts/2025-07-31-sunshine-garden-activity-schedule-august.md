@@ -14,7 +14,7 @@ feed_content: |-
   &nbsp;
 
   The post [Sunshine Garden Activity Schedule – August](https://cisc-seattle.org/sunshine-garden-activity-schedule-august/) appeared first on [Chinese Information and Service Center](https://cisc-seattle.org).
-images: []
+image_ids: []
 locations:
 - King County
 source: Chinese Information & Service Center

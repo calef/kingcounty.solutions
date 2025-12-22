@@ -21,7 +21,7 @@ feed_content: |-
   <p><strong><em>“I&#8217;ve felt as though I&#8217;ve been treading water up to my chin for a few months now. Thank you doesn&#8217;t adequately cover how much mental tension this releases. Or how truly grateful I am for this kindness.” &#8211; ERA recipient</em></strong></p>
   <p>Both the HSP and ERA are made possible through philanthropic grants from a number of private family foundations and U.S. Bank, as well as from individual donors. Your support is crucial now more than ever to keep our residents stably housed. <a href="https://communityrootshousing.org/donate/" target="_blank" rel="noopener">Donate today</a> or stay on the lookout for more information about our rental assistance programs in the coming months!</p>
   <p>The post <a href="https://communityrootshousing.org/2025/10/rental-assistance-programs/">Why rental assistance is as important as ever in 2025</a> appeared first on <a href="https://communityrootshousing.org">Community Roots Housing</a>.</p>
-images: []
+image_ids: []
 locations:
 - King County
 source: Community Roots Housing

@@ -6,7 +6,7 @@ feed_content: <div class="field field-name-body field-type-text-with-summary fie
   storage and distribution system. This work, carried out through a series of coordinated
   projects, has greatly improved resilience and reliability, ensuring high quality
   water service for Island residents and businesses.</span></span></span></p></div></div></div>
-images: []
+image_ids: []
 locations: []
 published: false
 source: City of Mercer Island

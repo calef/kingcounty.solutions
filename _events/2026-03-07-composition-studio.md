@@ -4,7 +4,7 @@ feed_content: "<div> <div> <p>Emerging and established composers explore unconve
   sonic landscapes in this concert of music by students, faculty, alumni, and guests
   of the UW Composition program.</p> <h2>Director Biographies</h2> </div> </div>"
 feed_content_checksum: 8001302ffdfd1c213b854e99bd75217a581b24fd
-images: []
+image_ids: []
 location: Music Building (MUS)
 locations:
 - King County

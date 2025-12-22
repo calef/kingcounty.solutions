@@ -22,7 +22,7 @@ feed_content: "<div> <div> <section> <div> <p> <a> « All Events</a> </p> <div> 
   <span>December 19 @ 1:00 pm</span> - <span>2:00 pm</span> </div> </li> </ul> </div>
   </div> </section> </div> </div>"
 feed_content_checksum: 715e00339576eb5e2d382ecbf51f4117ab9b73e2
-images: []
+image_ids: []
 location: Chamberlain Room
 locations:
 - Seattle

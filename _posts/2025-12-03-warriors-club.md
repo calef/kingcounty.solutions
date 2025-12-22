@@ -35,7 +35,7 @@ feed_content: "<div class=\"editor clearfix\">\n\n    \n    <p>For more than a c
   email to <a href=\"mailto:warriorsclub@dav.org\">warriorsclub@dav.org</a></p>\n\n</div><p>The
   post <a href=\"https://www.dav.org/learn-more/news/2025/warriors-club/\">Warriors
   Club</a> appeared first on <a href=\"https://www.dav.org\">DAV</a>.</p>"
-images: []
+image_ids: []
 locations:
 - King County
 source: Disabled American Veterans

@@ -18,7 +18,7 @@ feed_content: |-
   <p>Thank you for being part of the movement for food justice!</p>
   <p>The post <a>Our 2026 Legislative Priorities: Building a More Just and Equitable Food System</a> appeared first on <a>Northwest Harvest</a>.</p>
 feed_content_checksum: 3db795c3760ba80f9360811e04263111b960043d
-images: []
+image_ids: []
 locations:
 - King County
 rss_guid: https://www.northwestharvest.org/?p=13275

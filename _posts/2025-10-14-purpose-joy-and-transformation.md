@@ -5,7 +5,7 @@ events_extracted: true
 feed_content: |-
   <p>If you are caring for someone living with a progressive condition or a change in health or cognition, you have likely heard the phrase person-centered care. Person-centered care is the foundation of our Creative Engagement program, which is built on the core values of purpose, respect, and exquisite listening. A person-centered approach focuses on an [&#8230;]</p>
   <p>The post <a href="https://agingwisdom.com/purpose-joy-and-transformation/">Purpose, Joy, and Transformation</a> appeared first on <a href="https://agingwisdom.com">Aging Wisdom</a>.</p>
-images: []
+image_ids: []
 locations:
 - King County
 source: Aging Wisdom

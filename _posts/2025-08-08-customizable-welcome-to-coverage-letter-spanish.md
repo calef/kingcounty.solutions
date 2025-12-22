@@ -3,7 +3,7 @@ date: '2025-08-08T08:36:06-04:00'
 feed_content: "<p>artifact_description: General Resources</p><p>date: Mon, 28 Jul
   2025 05:36:42 -0400</p><p>title: Customizable Welcome to Coverage Letter (Spanish)</p><p>topic:
   Coverage 2 Care</p>"
-images: []
+image_ids: []
 locations: []
 published: false
 source: Centers for Medicare & Medicaid Services

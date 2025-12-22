@@ -60,7 +60,7 @@ feed_content: '<div class="wp-site-blocks"> <div class="tribe-block tec-block__s
   </ul> </div> </div> </section> </div> </div> <script id="wp-emoji-settings" type="application/json">
   {"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://federalwayseniorcenter.org/wp-includes/js/wp-emoji-release.min.js?ver=6.9"}}
   </script>'
-images: []
+image_ids: []
 location: ''
 locations:
 - King County

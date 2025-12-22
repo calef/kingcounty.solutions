@@ -14,7 +14,7 @@ feed_content: |-
   <p><span data-contrast="auto">Treehouse is so grateful to supporters like Darian, whose forward-thinking <a href="https://www.treehouseforkids.org/take-action/give/#legacygiving" target="_blank" rel="noopener">legacy giving</a> contributions ensure our services can reach students in foster care whenever they need them. </span></p>
   <p><strong><i>To learn more about planned giving or legacy giving, contact <a href="mailto:plannedgiving@treehouseforkids.org">plannedgiving@treehouseforkids.org.</a></i></strong></p>
   <p>The post <a href="https://www.treehouseforkids.org/support-treehouse-during-make-a-will-month/">Support Treehouse during Make-a-Will Month</a> appeared first on <a href="https://www.treehouseforkids.org">Treehouse</a>.</p>
-images:
+image_ids:
 - d1e4e905960b1bf87b62d308bea7a0697ecd62c7cc0c7135fb0115f0c5daad92
 locations:
 - King County

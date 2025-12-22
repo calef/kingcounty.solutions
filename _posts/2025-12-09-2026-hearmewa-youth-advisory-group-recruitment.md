@@ -7,7 +7,7 @@ feed_content: The Attorney General’s Office is seeking members for the HearMeW
   Washington can apply by January 2, 2026, to contribute ideas and provide feedback.
   Selected members will participate in bi-monthly Zoom meetings and receive compensation.
 feed_content_checksum: cb948176a89c1aabcdcef89f8d8459e923b7613c
-images: []
+image_ids: []
 locations:
 - King County
 source: King County School Health

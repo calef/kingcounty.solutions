@@ -10,7 +10,7 @@ feed_content: '<img width="150" height="150" src="https://powerlines.seattle.gov
   us about your role: My role is to ensure City Light employees are supported through
   organizational change initiatives. As the Organizational Change Manager, I lead
   a team of four in developing and implementing strategies and [&#8230;]'
-images: []
+image_ids: []
 locations: []
 published: false
 source: City Light Bill Assistance Programs

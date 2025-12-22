@@ -48,7 +48,7 @@ feed_content: |-
 
 
   <p>This article was originally published on the <a href="https://www.va.gov/charleston-health-care/stories/mental-health-matters-a-real-conversation-on-suicide-prevention-with-community-connection/" target="_blank" rel="noreferrer noopener">Charleston Health care System site</a> and has been edited for style and clarity.  </p>
-images: []
+image_ids: []
 locations:
 - King County
 source: Veterans Affairs Pension Program

@@ -156,7 +156,7 @@ feed_content: |-
   </tr>
   </tbody>
   </table>
-images: []
+image_ids: []
 locations: []
 published: false
 source: Snoqualmie Indian Tribe

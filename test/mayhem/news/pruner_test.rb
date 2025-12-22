@@ -42,19 +42,19 @@ class NewsPrunerTest < Minitest::Test
 
     updated = Mayhem::FrontMatter::Document.load(post_path)
     refute updated.front_matter['published']
-    assert_empty updated.front_matter['images']
+    assert_empty updated.front_matter['image_ids']
     refute_path_exists File.join(@images_dir, "#{image_id}.md")
     assert_empty Dir.glob(File.join(@assets_dir, "#{image_id}.*"))
   end
 
   private
 
-  def write_post(filename, images)
+  def write_post(filename, image_ids)
     front_matter = {
       'title' => 'Test Post',
       'date' => Time.now.utc.iso8601,
       'source_url' => 'https://example.com',
-      'images' => images,
+      'image_ids' => image_ids,
       'published' => true
     }
     path = File.join(@posts_dir, filename)

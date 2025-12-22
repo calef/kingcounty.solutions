@@ -4,7 +4,7 @@ feed_content: |-
   <p>Christmas Eve Service with a Pop-Up Pageant for All Ages at 4 pm Christmas Eve Candlelight Service in the Chapel at 8 pm Christmas Day Service with Stories and Carols … <a>Read More</a></p>
   <p>The post <a>Celebrate Christmas at St Luke’s</a> appeared first on <a>St. Luke Episcopal Church</a>.</p>
 feed_content_checksum: 62d89fd304ffd438cb562ba35548ffc080cb3809
-images: []
+image_ids: []
 locations:
 - King County
 original_source_html: |-

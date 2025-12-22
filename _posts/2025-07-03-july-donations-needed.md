@@ -18,7 +18,7 @@ feed_content: |-
 
 
   <p></p>
-images:
+image_ids:
 - 35d260c9b6bdd225f07a2dd042f380ebc74fa7c3786a5297bbed66ae09260953
 locations:
 - South King County

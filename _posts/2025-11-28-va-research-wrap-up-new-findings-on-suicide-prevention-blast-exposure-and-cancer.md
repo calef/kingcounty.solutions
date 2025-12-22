@@ -50,7 +50,7 @@ feed_content: |-
 
 
   <p>For more Office of Research and Development updates, visit&nbsp;<a href="https://www.research.va.gov/" rel="noopener">ORD online</a>&nbsp;or go to https://www.research.va.gov/news_briefs/.</p>
-images: []
+image_ids: []
 locations: []
 published: false
 source: Veterans Affairs Pension Program

@@ -6,7 +6,7 @@ feed_content: Missed the Seattle Home Fair? No Problem! If you couldn’t attend
   Home Fair, you can still access the information! All Home Fair learning sessions
   are now available online, so you can watch at your convenience and get the same
   helpful insights from ...
-images: []
+image_ids: []
 locations:
 - King County
 source: City of Seattle

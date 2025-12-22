@@ -8,7 +8,7 @@ feed_content: The Washington Department of Health announces the launch of the fi
   and equips healthcare providers with strategies to enhance communication, manage
   resistance, and improve patient trust. Additional modules are forthcoming.
 feed_content_checksum: 9988b96174f4534f0cdd66ff102692efd01d078f
-images: []
+image_ids: []
 locations:
 - King County
 original_source_html: The Washington Department of Health announces the launch of

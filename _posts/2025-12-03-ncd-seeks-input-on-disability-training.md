@@ -127,7 +127,7 @@ feed_content: "<div class=\"wpb-content-wrapper\">\r\n<div  data-mk-stretch-cont
   post <a href=\"https://ihdd.org/2025/12/03/ncd-seeks-input-on-disability-training/\">NCD
   Seeks Input on Disability Training</a> appeared first on <a href=\"https://ihdd.org\">UW
   IHDD</a>.</p>"
-images:
+image_ids:
 - 259b40a85ab15d3a64376eb9a7e239b9523f694b537bd2533c49d8ae7231e578
 locations:
 - King County

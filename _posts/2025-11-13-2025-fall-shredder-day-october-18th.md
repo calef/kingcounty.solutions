@@ -4,7 +4,7 @@ feed_content: |-
   <div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even" property="content:encoded"><p>Medina Residents!<br />
   Make plans to attend this semi-annual community event sponsored by the Medina Police Department...</p>
   </div></div></div>
-images: []
+image_ids: []
 locations: []
 published: false
 source: City of Medina

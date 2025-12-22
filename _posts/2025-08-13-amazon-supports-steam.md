@@ -57,7 +57,7 @@ feed_content: |-
   </div>
   </div>
   <p>The post <a href="https://www.rewa.org/amazon-support-steam/">Amazon Supports STEAM</a> appeared first on <a href="https://www.rewa.org">Refugee Women&#039;s Alliance</a>.</p>
-images:
+image_ids:
 - 77d3b9655da06438e3592ef119b6baab332dd2636fd758579c857c9c5b1a408d
 - 13962a00b731a4247afe8a6c6149a0632d6dbb30d6b6dd6934175be97859050a
 - c1c7f193143a361a4fda79b7db3aefb4021cba3fa26cb1e0e4a2d835869e2c06

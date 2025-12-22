@@ -50,7 +50,7 @@ feed_content: '<div> <div> <section> <title>WorkSource Seattle-King County</titl
   an advantage over the competition with similar skills, knowledge, and experience. </p>
   </div> </div> </div> </section> </div> </section> </div> </div>'
 feed_content_checksum: 7ae3d0d931393c53be4c7bca899deb44c301ff52
-images: []
+image_ids: []
 location: ''
 locations:
 - King County

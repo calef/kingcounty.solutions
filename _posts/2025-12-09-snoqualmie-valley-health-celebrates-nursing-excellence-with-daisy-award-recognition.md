@@ -32,7 +32,7 @@ feed_content: "<div>\n\t\t\t\t<div>\n\t\t\t\t\t<div>\n\t\t\t\t<div>\n\t\t\t\t<di
   post <a>Snoqualmie Valley Health Celebrates Nursing Excellence with DAISY Award
   Recognition</a> appeared first on <a>Snoqualmie Valley Hospital</a>.</p>"
 feed_content_checksum: 27b7032df338b2e3ec6b04569727f06b8684b833
-images: []
+image_ids: []
 locations: []
 published: false
 source: Hospital District No. 4 (Snoqualmie Valley Hospital)

@@ -1093,7 +1093,7 @@ feed_content: |-
 
   <p></p>
 feed_content_checksum: 336b3a897116260715d2347030d5fca1f057bb31
-images: []
+image_ids: []
 locations:
 - King County
 original_source_html: |-

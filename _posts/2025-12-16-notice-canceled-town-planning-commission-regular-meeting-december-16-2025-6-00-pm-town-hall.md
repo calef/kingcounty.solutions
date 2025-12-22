@@ -6,7 +6,7 @@ feed_content: |-
   <p>Thank you.</p>
   <p> </p>
 feed_content_checksum: 5731169888cc89849716d21a2eece7d5b09e43a0
-images: []
+image_ids: []
 locations:
 - Yarrow Point
 original_source_html: |-

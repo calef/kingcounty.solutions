@@ -10,7 +10,7 @@ feed_content: |-
   <p>“MultiCare plays an important role in maintaining healthy communities in South King County,” said Mencini. “I’m looking forward to partnering with our staff and physicians to grow our services and enriching patient care to everyone we serve today and in the future in South King County.”</p>
   <p>Mencini’s first day at MultiCare was Monday, Nov. 3.</p>
   <p>The post <a href="https://www.multicare.org/newsroom/2025/11/brandon-mencini-named-president-of-multicare-auburn-and-covington-medical-centers/" data-wpel-link="internal">Brandon Mencini named president of MultiCare Auburn and Covington medical centers</a> appeared first on <a href="https://www.multicare.org" data-wpel-link="internal">MultiCare</a>.</p>
-images: []
+image_ids: []
 locations:
 - King County
 source: MultiCare

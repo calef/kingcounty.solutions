@@ -7,7 +7,7 @@ feed_content: |-
   <p>Looking for more horror books? Check out the Horror Collection shelved on the 3rd floor of the Central Library or browse the collection in the <a>online catalog</a>.</p>
   <p><em>~posted by Genesee. Descriptions provided by publishers.</em></p>
 feed_content_checksum: c652df3b80e2a81679f04abadd2ad50343848464
-images: []
+image_ids: []
 locations: []
 published: false
 source: The Seattle Public Library

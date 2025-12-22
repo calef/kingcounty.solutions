@@ -9,7 +9,7 @@ feed_content: Dear Friends,We are grateful for your ongoing partnership in break
   your church.Every year, more than 10 million children witness violence in their
   homes. Children who witness abuse are three times more likely to become perpetrators
   of violence
-images: []
+image_ids: []
 locations:
 - King County
 source: Lighthouse NW

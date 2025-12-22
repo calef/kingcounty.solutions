@@ -77,7 +77,7 @@ module News
         extractor.run
 
         document = Mayhem::FrontMatter::Document.load(post_path)
-        checksums = document.front_matter['images']
+        checksums = document.front_matter['image_ids']
 
         refute_nil checksums
         assert_equal 1, checksums.length
@@ -126,7 +126,7 @@ module News
         extractor.run
 
         document = Mayhem::FrontMatter::Document.load(event_path)
-        checksums = document.front_matter['images']
+        checksums = document.front_matter['image_ids']
 
         refute_nil checksums
         assert_equal 1, checksums.length
@@ -168,7 +168,7 @@ module News
         extractor.run
 
         document = Mayhem::FrontMatter::Document.load(post_path)
-        assert_nil document.front_matter['images']
+        assert_nil document.front_matter['image_ids']
       end
     end
   end

@@ -4,7 +4,7 @@ events: []
 events_extracted: true
 feed_content: Friends of Youth is proud to announce the launch of Bridge Pointe Housing,
   a 90-day transitional housing initiative created to support...
-images: []
+image_ids: []
 locations:
 - King County
 source: Friends of Youth

@@ -62,7 +62,7 @@ feed_content: "<p>With the federal government now in shutdown, thousands of work
   programs listed. For the most accurate and up-to-date information, please consult
   the official federal websites or contact your federal agency directly.</p>"
 feed_content_checksum: 5e0af8f23fd99deb58e09cf3f20b3f9f3a6e8c84
-images: []
+image_ids: []
 locations:
 - King County
 source: City of Des Moines

@@ -107,7 +107,7 @@ feed_content: |-
   <li><a href="https://www.providence.org/doctors/urology/wa/issaquah/john-mullen-1013982636">John Mullen, MD</a></li>
   </ul>
   <p>The post <a href="https://www.pacificmedicalcenters.org/news/pacmed-clinicians-honored-in-seattle-magazines-2025-top-doctors-list/">PacMed Clinicians Honored in Seattle Magazine&#8217;s 2025 Top Doctors List</a> appeared first on <a href="https://www.pacificmedicalcenters.org">Pacific Medical Centers</a>.</p>
-images: []
+image_ids: []
 locations:
 - King County
 source: Pacific Medical Centers

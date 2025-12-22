@@ -6,7 +6,7 @@ feed_content: The Center for Digital Government (CDG) awarded the City of Seattl
   4th-place honors in the 25th Annual Digital Cities Survey today. Seattle follows
   the cities of (#1) San Jose, CA; (#2) Los Angeles, CA; and (#3) San Diego, CA, and
   tying with Charlotte...
-images: []
+image_ids: []
 locations:
 - King County
 source: City of Seattle

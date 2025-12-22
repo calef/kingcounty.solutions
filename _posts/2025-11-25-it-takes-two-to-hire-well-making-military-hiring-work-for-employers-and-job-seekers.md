@@ -73,7 +73,7 @@ feed_content: "<p>The sharing of non-VA information does not constitute an endor
   class=\"wp-block-button__link wp-element-button\" href=\"http://www.bridgemyreturn.com/\"
   rel=\"noopener\">bridgemyreturn.com</a></div>\n</div>\n\n\n\n<p>If we can make the
   employer’s life easier, we will make the Veteran’s life better.</p>"
-images:
+image_ids:
 - 34263867dafbcdd68d71913952f47fe379ce7eb02c6e5d44309fef573ffa8585
 locations:
 - King County

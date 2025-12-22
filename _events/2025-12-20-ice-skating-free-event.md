@@ -95,7 +95,7 @@ feed_content: <div id="page-container"> <div id="et-boc" class="et-boc"> <div id
   title="Click to view a Google Map" target="_blank" rel="noreferrer noopener">+ Google
   Map</a> </address> </li> </ul> </div> </div> </div> </div> </section> </div> </div>
   </div> </div> </div> </div> </div> </div>
-images: []
+image_ids: []
 location: Sno King Ice Arenas – Snoqualmie, 35323 Southeast Douglas Street, Snoqualmie,
   WA, 98065
 locations:

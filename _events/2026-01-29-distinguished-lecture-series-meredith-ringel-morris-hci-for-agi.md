@@ -28,7 +28,7 @@ feed_content: <article id="post-61726" class="post-61726 page type-page status-p
   and her M.S. and Ph.D. in computer science from Stanford University. More details
   on her research and publications are available at <a href="http://merrie.info">http://merrie.info</a>.</p>
   <p>This lecture will NOT be streamed live.</p> </div> </article>
-images: []
+image_ids: []
 location: Gates Center (CSE2), G20 | Amazon Auditorium
 locations:
 - King County

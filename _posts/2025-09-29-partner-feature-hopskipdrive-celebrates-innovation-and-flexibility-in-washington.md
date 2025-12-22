@@ -4,7 +4,7 @@ events: []
 events_extracted: true
 feed_content: Washington state recently passed  SB 5009 , a new law that modernizes
   the state’s funding formulas for student transportation . As of...
-images: []
+image_ids: []
 locations:
 - King County
 source: Friends of Youth

@@ -4,7 +4,7 @@ feed_content: 'Note: Links below will open new windows. Seattle Center celebrate
   the season with free and affordable events Nov. 20–Dec. 31 SEATTLE – Seattle Center
   is the place to be this holiday season as Holidays at the Center fills the campus
   with lights, music,...'
-images: []
+image_ids: []
 locations: []
 published: false
 source: City of Seattle

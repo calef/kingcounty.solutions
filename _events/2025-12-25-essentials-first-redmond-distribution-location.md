@@ -34,7 +34,7 @@ feed_content: "<div> <section> <div> <p> <a> « All Events</a> </p> <div> <span>
   Location</a></h3> <span>December 22 @ 10:00 am</span> - <span>2:00 pm</span> </div>
   </li> </ul> </div> </div> </section> </div>"
 feed_content_checksum: b1c8805469fea8c369df8e0b21b3dbbceb69f715
-images: []
+image_ids: []
 location: WA
 locations:
 - King County

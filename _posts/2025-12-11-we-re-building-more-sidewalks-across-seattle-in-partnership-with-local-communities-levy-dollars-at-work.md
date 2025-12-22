@@ -5,7 +5,7 @@ feed_content: 'Blog stats: 700 words | 4-minute read This year, we’ve been wal
   and walkway plans across Seattle. Together with community members, we’ve been listening,
   learning...'
 feed_content_checksum: 83a9d698d12d73463e90cd1dd35711d66976f1c3
-images: []
+image_ids: []
 locations:
 - King County
 published: false

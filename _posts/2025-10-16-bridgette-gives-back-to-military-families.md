@@ -95,7 +95,7 @@ feed_content: |-
   <li>That food from a Holiday Meals for Military® event could be the only reason a struggling military family celebrates Thanksgiving. In the holiday spirit, they likely will invite others to their dinner. Gifts from a Holiday Toy Drive could be the only ones under the tree when parents have to face the heart-wrenching choice of buying food or a small present for their child.&nbsp;&nbsp;</li>
   </ul>
   <p>The post <a href="https://operationhomefront.org/bridgette-gives-back-to-military-families/">Bridgette Gives Back to Military Families</a> appeared first on <a href="https://operationhomefront.org">Operation Homefront</a>.</p>
-images:
+image_ids:
 - e2e65d74c0ec332331aa5e7e6476954b4b4639340754f8b5f94b2c0b8f905793
 - 6d4952cd9cfe313e50c1e9e081baa9ac5b1936ef03c849fe2a2ebd49389849f3
 locations:

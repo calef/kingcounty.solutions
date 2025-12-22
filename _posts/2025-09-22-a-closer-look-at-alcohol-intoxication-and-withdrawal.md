@@ -143,7 +143,7 @@ feed_content: "<div class=\"wpb-content-wrapper\"><div class=\"vc_row wpb_row ro
   post <a href=\"https://lakesidemilam.com/blog/a-closer-look-at-alcohol-intoxication-and-withdrawal/\">A
   Closer Look at Alcohol Intoxication and Withdrawal</a> appeared first on <a href=\"https://lakesidemilam.com\">Lakeside-Milam
   Recovery Centers</a>.</p>"
-images: []
+image_ids: []
 locations:
 - King County
 source: Lakeside-Milam Recovery Centers

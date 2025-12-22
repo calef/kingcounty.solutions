@@ -4,7 +4,7 @@ feed_content: |-
   <p>Select Committee will take up Phase 2 of Comp Plan in 2026 The City Council today revisited amended legislation on Seattle’s Comprehensive Plan (CB 120985) and Permanent HB 1110 legislation (CB 120993), approving both pieces of legislation. Councilmember Joy Hollingsworth (District 3) chaired the Select Committee on the Comprehensive Plan. The delayed vote was due...</p>
   <p>The post <a>City Council passes final Comprehensive Plan legislation</a> appeared first on <a>Seattle City Council Blog</a>.</p>
 feed_content_checksum: a9b8728c8f7f96cf2a318339fbe5920b7bd4f0f7
-images: []
+image_ids: []
 locations:
 - King County
 original_source_html: |-

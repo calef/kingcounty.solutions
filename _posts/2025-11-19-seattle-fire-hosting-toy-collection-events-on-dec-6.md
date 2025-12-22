@@ -6,7 +6,7 @@ feed_content: 'Seattle Fire is excited to help support the U.S. Marine Corps’ 
   Toys for Tots drive in 2025! We will collect toys on Saturday, Dec. 6, 2025 at these
   four Seattle fire stations: Come by any of the stations between 2 and 4 p.m. (in
   Magnolia, we’ll ...'
-images: []
+image_ids: []
 locations:
 - King County
 source: City of Seattle

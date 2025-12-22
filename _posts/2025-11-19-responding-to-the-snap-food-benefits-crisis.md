@@ -51,7 +51,7 @@ feed_content: |-
   <p><span data-contrast="auto">We’re inspired by our community’s swift response to meet basic needs in the face of this challenge. Let’s keep it up and be the change we want to see!</span></p>
   <hr />
   <p class="tmc-caption">Image at top: Charles Kendrick, a Solid Ground Food System Support driver (Credit: Michael B. Maine)</p>The post <a href="https://www.solid-ground.org/responding-to-the-snap-food-benefits-crisis/">Responding to the SNAP food benefits crisis </a> appeared first on <a href="https://www.solid-ground.org">Solid Ground</a>.
-images:
+image_ids:
 - 38fede4aaf8df686a831932b028eca13dbf02cd66dfc37c2de038890cb9f677b
 locations:
 - King County

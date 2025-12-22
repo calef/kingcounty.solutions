@@ -49,7 +49,7 @@ feed_content: |-
   </ul>
   <h2 class="p4">The holidays are easier to handle when you have extra support from THIRA Health</h2>
   <p class="p1">Facing the contradictions and emotional intensity of the holiday season alone can feel overwhelming. Depression treatment with THIRA Health can help. Dialectical thinking, alongside mindfulness, emotional regulation, distress tolerance, and interpersonal effectiveness, offers healthy, effective ways to cope with difficult seasons in life. Our wide variety of programs provides holistic support that fits your individual needs, including residential, partial hospitalization (PHP) and intensive outpatient therapy (IOP). <a href="https://thirahealth.com/contact/"><span class="s1">Connect with us today</span></a> to see how our comprehensive, DBT-focused treatment for mental health can help teens and adults in Bellevue, Washington.</p>
-images: []
+image_ids: []
 locations:
 - King County
 source: THIRA Health

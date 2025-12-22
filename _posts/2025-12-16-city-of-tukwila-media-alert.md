@@ -39,7 +39,7 @@ feed_content: "<div> <div> <div><ul> <li><a>Alerts</a></li> <li><a>Current Infor
   </div> <p> <label> Email Address </label> </p> </form> </div> </div> <div> <h3>Search
   This Site</h3> <div> <form> <label>Search</label> </form> </div> </div> </div> </div>"
 feed_content_checksum: db2f6d0f8363fc143abd33155448493cada5d60d
-images: []
+image_ids: []
 locations:
 - King County
 original_source_html: "<div> <div> <div><ul> <li><a>Alerts</a></li> <li><a>Current

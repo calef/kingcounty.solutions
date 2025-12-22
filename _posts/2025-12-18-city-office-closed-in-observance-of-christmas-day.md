@@ -2,7 +2,7 @@
 date: '2025-12-18T18:56:55+00:00'
 feed_content: "<div>\n  \n      \n    <span>12/25/2025 (All day)</span>\n      </div>"
 feed_content_checksum: 4a89806ff6457f6d4bb4b2342f5938b15dbb5c78
-images: []
+image_ids: []
 locations:
 - King County
 original_source_html: "<div>\n  \n      \n    <span>12/25/2025 (All day)</span>\n

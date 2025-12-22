@@ -64,7 +64,7 @@ feed_content: |-
 
 
   <p><a href="https://www.prevention.va.gov/Healthy_Living/Get_Recommended_Screening_Tests_and_Immunizations_for_Women.asp" rel="noopener">Recommendations for women</a>.</p>
-images: []
+image_ids: []
 locations:
 - King County
 source: Veterans Affairs Pension Program

@@ -36,7 +36,7 @@ feed_content: |-
   ACRS Communications Manager<br />
   lizaj@acrs.org | 206-695-7600</p>
   <p>The post <a href="https://acrs.org/acrs-abaw-and-kcba-relaunch-rainier-valley-legal-clinic-to-expand-community-access-to-free-legal-support/">ACRS, ABAW, and KCBA Relaunch Rainier Valley Legal Clinic to Expand Community Access to Free Legal Support</a> appeared first on <a href="https://acrs.org">ACRS</a>.</p>
-images: []
+image_ids: []
 locations:
 - King County
 source: Asian Counseling and Referral Service

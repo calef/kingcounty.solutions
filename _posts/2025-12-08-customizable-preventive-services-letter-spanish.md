@@ -6,7 +6,7 @@ feed_content: "<p>artifact_description: General Resources</p><p>date: Wed, 26 No
   2025 15:12:03 -0500</p><p>title: Customizable Preventive Services Letter (Spanish)</p><p>topic:
   Coverage 2 Care</p>"
 feed_content_checksum: a139a38357e12fa57422e0f7ac8a4e6fe7e34e04
-images: []
+image_ids: []
 locations:
 - King County
 source: Centers for Medicare & Medicaid Services

@@ -34,7 +34,7 @@ feed_content: |-
   <h2>THIRA can help you decide if it’s time to enter inpatient depression treatment in Seattle</h2>
   <p>THIRA Health understands that the right level of care can make a huge difference in improving the life of someone suffering from depression. They offer <a><span>residential, PHP, and intensive outpatient programs</span></a> for adolescents and adults seeking intensive depression treatment, and their expert intake staff can help you choose the best treatment option for you. For more information about inpatient depression treatment in Seattle,<a><span> contact THIRA Health today.</span></a></p>
 feed_content_checksum: 813a8f6cfea86506cdfd4aec8e4ed16f44ab9507
-images: []
+image_ids: []
 locations:
 - King County
 rss_guid: https://thirahealth.com/?p=37485

@@ -1,6 +1,6 @@
 ---
 generated_from_post: true
-images: []
+image_ids: []
 location: Allegro Performing Arts Academy, Auburn Performing Arts Center
 locations:
 - King County

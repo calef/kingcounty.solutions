@@ -9,7 +9,7 @@ feed_content: As the days grow shorter and Seattle settles into its season of cl
   mood and mental health, sometimes showing up as fatigue, sadness, or a sense of
   isolation. We know how much light matters, and here in the Pacific Northwest, the
   lack of...
-images: []
+image_ids: []
 locations:
 - King County
 source: Eastside Friends of Seniors
