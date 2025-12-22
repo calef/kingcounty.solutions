@@ -46,7 +46,7 @@ feed_content: '<div> <div> <section> <title>WorkSource Seattle-King County</titl
   Visit our Website <a>scc.spokane.edu…</a>. </div> </div> </div> </section> </div>
   </section> </div> </div>'
 feed_content_checksum: ab45e337c7de4a4f9375c8a3dd17f8fb65292495
-images: []
+image_ids: []
 location: ''
 locations:
 - King County

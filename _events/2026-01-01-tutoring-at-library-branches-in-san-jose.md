@@ -1,6 +1,6 @@
 ---
 generated_from_post: true
-images: []
+image_ids: []
 location: San Jose, two library branches
 locations: []
 organization_title: Reading Partners Seattle

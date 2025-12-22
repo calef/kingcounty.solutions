@@ -27,7 +27,7 @@ feed_content: "<div class=\"et_pb_section et_pb_section_0 et_section_regular\" >
   post <a href=\"https://hungerintervention.org/2025/11/26/getting-to-know-dave/\">Getting
   to know Dave</a> appeared first on <a href=\"https://hungerintervention.org\">Hunger
   Intervention Program</a>.</p>"
-images: []
+image_ids: []
 locations:
 - King County
 source: Hunger Intervention Program

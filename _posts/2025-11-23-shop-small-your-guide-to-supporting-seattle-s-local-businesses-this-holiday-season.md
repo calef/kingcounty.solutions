@@ -4,7 +4,7 @@ feed_content: Support small businesses this Small Business Saturday Small busine
   are what makes Seattle’s economy great. They showcase the creative energy, diverse
   culture, and entrepreneurial drive that makes our city one of a kind. Small Business
   Saturday, and...
-images: []
+image_ids: []
 locations: []
 published: false
 source: City of Seattle

@@ -4,7 +4,7 @@ feed_content: Seattle’s Duwamish Valley Program is celebrating a big year of a
   engaging local kids and teens, building resilient infrastructure, and strengthening
   climate preparedness for South Park and Georgetown communities.   The Duwamish ...
 feed_content_checksum: 4e9e167280007b17f113714ef1d379edb91ecd44
-images: []
+image_ids: []
 locations: []
 published: false
 source: City of Seattle

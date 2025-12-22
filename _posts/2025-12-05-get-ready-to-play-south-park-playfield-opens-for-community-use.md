@@ -4,7 +4,7 @@ feed_content: 'Translated materails: Spanish; Amharic; Somali; Vietnamese Great 
   for the South Park community! Starting this January, the South Park Playfield will
   be available for sports teams and community groups to reserve. This pilot program
   offers free field...'
-images: []
+image_ids: []
 locations: []
 published: false
 source: City of Seattle

@@ -6,7 +6,7 @@ feed_content: SPOKANE – Public and active transportation users are invited to 
   with a focus on planning for community improvements in and around the Interstate
   90 corridor.
 feed_content_checksum: 9a2d33515efee2f09a10d7d50d4036621d186b38
-images: []
+image_ids: []
 locations: []
 original_source_html: "<!DOCTYPE html>\n<html  lang=\"en\" dir=\"ltr\" prefix=\"og:
   https://ogp.me/ns#\">\n  <head>\n    <meta charset=\"utf-8\" />\n<meta name=\"description\"

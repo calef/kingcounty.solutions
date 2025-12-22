@@ -31,7 +31,7 @@ feed_content: |-
   </div>
   <p>The post <a>Delivering More Than Meals This Holiday Season</a> appeared first on <a>Sound Generations</a>.</p>
 feed_content_checksum: a0012a1f0b0a8021d0ec8a040b2f89334acb5741
-images:
+image_ids:
 - a08a4987a2fd24e597e3ccc9e52b96ea3ac2af7bc309bf35ad1f0bf4af7979c7
 - c235df7dc31ba7917a2532ccfeb82eb6c87e18bd09097afb5052ffdfbb984422
 locations:

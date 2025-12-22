@@ -23,7 +23,7 @@ feed_content: "<figure class=\"\n              sqs-block-image-figure\n         
   to view our Event Calendar and find <strong>upcoming clinic dates</strong> and hours.
   </p><p class=\"\"><strong>Happy Holidays!</strong></p><p data-rte-preserve-empty=\"true\"
   class=\"\"></p>"
-images: []
+image_ids: []
 locations: []
 published: false
 source: CarePoint Clinic

@@ -35,7 +35,7 @@ feed_content: "The City of Tukwila is assisted in its operations by the voluntee
   206-433-1850 or visit **[TukwilaWA.gov/boards](https://www.tukwilawa.gov/departments/mayors-office/boards-and-commissions/)**.\n\nThe
   post [Currently Accepting Applications for Boards, Commissions and Committees](https://www.tukwilawa.gov/currently-accepting-applications-for-boards-commissions-and-committees-2/)
   appeared first on [City of Tukwila](https://www.tukwilawa.gov)."
-images: []
+image_ids: []
 locations: []
 published: false
 source: City of Tukwila

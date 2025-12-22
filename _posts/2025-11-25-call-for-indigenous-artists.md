@@ -4,7 +4,7 @@ feed_content: |-
   <p>Call to Indigenous Artists: Logo Design for the Snoqualmie Indian Tribe’s partnership programs with Reclaim and Trail Youth.</p>
   <p>Get more information here:  <a href="https://snoqualmietribe.us/call-for-artists/">https://snoqualmietribe.us/call-for-artists/</a></p>
   <p>&nbsp;</p>
-images: []
+image_ids: []
 locations: []
 published: false
 source: Snoqualmie Indian Tribe

@@ -60,7 +60,7 @@ feed_content: |-
   <p>Thank you!</p>
   <p>The post <a>Brr! We need cold-weather breakfast food!</a> appeared first on <a>Westside Neighbors Shelter</a>.</p>
 feed_content_checksum: b8a584700b90b941dfc6c5c4366b3f360f2ee701
-images: []
+image_ids: []
 locations:
 - King County
 original_source_html: |-

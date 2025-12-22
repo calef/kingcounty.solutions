@@ -8,7 +8,7 @@ feed_content: |-
 
 
   <figure class="wp-block-image size-large"><img loading="lazy" decoding="async" width="1200" height="1553" src="https://wa211.org/wp-content/uploads/2025/10/WA211-History-Timeline2-scaled-1-1200x1553.png" alt="" class="wp-image-9379" srcset="https://wa211.org/wp-content/uploads/2025/10/WA211-History-Timeline2-scaled-1-1200x1553.png 1200w, https://wa211.org/wp-content/uploads/2025/10/WA211-History-Timeline2-scaled-1-309x400.png 309w, https://wa211.org/wp-content/uploads/2025/10/WA211-History-Timeline2-scaled-1-768x994.png 768w, https://wa211.org/wp-content/uploads/2025/10/WA211-History-Timeline2-scaled-1-1187x1536.png 1187w, https://wa211.org/wp-content/uploads/2025/10/WA211-History-Timeline2-scaled-1-1582x2048.png 1582w, https://wa211.org/wp-content/uploads/2025/10/WA211-History-Timeline2-scaled-1.png 1978w" sizes="auto, (max-width: 1200px) 100vw, 1200px" /></figure>
-images:
+image_ids:
 - 88d157c90fec4762266d22ae8325a5bf491254cec3f3d16b60784dee447d2f12
 - f7783642a368850036bb493cc001bfd98ff56830d601beb33c5e3ab518648575
 locations:

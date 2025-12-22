@@ -117,7 +117,7 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   \     \n  <div class=\"field field--name-field-news-author field--type-string field--label-above\">\n
   \   <div class=\"field__label\">News Author</div>\n              <div class=\"field__item\">Washington
   State Department of Health</div>\n          </div>"
-images: []
+image_ids: []
 locations:
 - King County
 source: Department of Health

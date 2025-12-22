@@ -5,7 +5,7 @@ feed_content: The storms over the last two weeks have caused high turbidity (mud
   supply. The other third comes from the South Fork Tolt River, which is not experiencing
   turbidity issu...
 feed_content_checksum: 7decbfd3ef2f460e5353a801dec189e36262a058
-images: []
+image_ids: []
 locations:
 - King County
 original_source_html: The storms over the last two weeks have caused high turbidity

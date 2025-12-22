@@ -70,7 +70,7 @@ feed_content: |-
 
 
   <p>For a list of previous and future funding opportunities please refer to the <a href="https://deptofcommerce.app.box.com/s/vz1hswfpvgp814de8q85vs2jpaxk1kjg">EV Council Program Catalog.</a></p>
-images: []
+image_ids: []
 locations:
 - King County
 source: Department of Commerce

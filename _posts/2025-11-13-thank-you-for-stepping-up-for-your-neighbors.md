@@ -7,7 +7,7 @@ feed_content: November is often the time of year when we reflect on what we can 
   around access to SNAP food benefits, increasing healthcare premiums, furloughs,
   and other challenges. Recognizing multiple things can be true – we reflect on the
   hard  [...]
-images: []
+image_ids: []
 locations:
 - King County
 source: Multi-Service Center

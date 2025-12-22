@@ -5,7 +5,7 @@ feed_content: |-
   <p>This content is password protected. To view it please enter your password below:</p>
   <p><label for="pwbox-15588">Password: <input name="post_password" id="pwbox-15588" type="password" spellcheck="false" required size="20" /></label> <input class="fusion-button button-default fusion-button-default-size" type="submit" name="Submit" value="Enter" /></p>
   </form>
-images: []
+image_ids: []
 locations: []
 published: false
 source: NOSSCR Referral Service

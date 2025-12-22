@@ -6,7 +6,7 @@ feed_content: |-
   The Journey of a Mother After a harrowing year-long wait, Durga arrived in the US from India with a meagre 200 dollars. Her daughters needed their mother – the only [...]
 
   [Read More... from The Journey of a Mother](https://iacswa.org/journey-of-a-mother/)
-images: []
+image_ids: []
 locations:
 - King County
 source: Indian American Community Services

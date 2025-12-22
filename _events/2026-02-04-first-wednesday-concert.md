@@ -6,7 +6,7 @@ feed_content: 'Event interval: Single day event Campus location: Allen Library (
   Students of the UW School of Music perform in this lunchtime concert series co-hosted
   by UW Music and UW Libraries.'
 feed_content_checksum: 7fae06707cbf5773ccbf6b791ab6035015b8abd1
-images: []
+image_ids: []
 location: Allen Library (ALB)
 locations:
 - King County

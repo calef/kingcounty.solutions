@@ -45,8 +45,8 @@ module Mayhem
         self['feed_content_checksum']
       end
 
-      def images
-        self['images'] || []
+      def image_ids
+        self['image_ids'] || []
       end
 
       def locations

@@ -4,7 +4,7 @@ feed_content: |-
   <p>Renton Technical College student Abdullah Alizada grew up in Afghanistan, watching Hollywood movies and dreaming of coming to America. That dream got fast-tracked while enrolled as a college student and working as an activist in Afghanistan, he recalled, “It was hard for me to stay.” Ultimately, Alizada made it to Western Washington and, with the help of friends, enrolled at Renton Technical…</p>
   <p><a>Source</a></p>
 feed_content_checksum: b0e63b3a45ee2888861a1b02afea6bd1ac9703e0
-images: []
+image_ids: []
 locations: []
 published: false
 source: United Way of King County

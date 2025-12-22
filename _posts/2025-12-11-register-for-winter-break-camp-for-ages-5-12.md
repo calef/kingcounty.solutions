@@ -7,7 +7,7 @@ feed_content: Our licensed childcare programs are ready to provide fun, engaging
   daily to create a welcoming environment that honors diversity through offering fun
   and active experie...
 feed_content_checksum: eaffef01d6bf13107877d98423615ed11e3bbe4c
-images: []
+image_ids: []
 locations:
 - King County
 rss_guid: https://parkways.seattle.gov/?p=17036

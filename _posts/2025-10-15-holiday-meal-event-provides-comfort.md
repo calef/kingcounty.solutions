@@ -73,7 +73,7 @@ feed_content: |-
 
   <p><br>Brian and Jessica both are grateful that Operation Homefront and its donors are there for veterans and their families, especially during unsure times like medical retirement. Since 2010, Operation Homefront’s HMFM has provided more than 210,000 holiday meals to military and veteran families.</p>
   <p>The post <a href="https://operationhomefront.org/holiday-meal-event-provides-comfort/">Holiday Meal Event Provides Comfort</a> appeared first on <a href="https://operationhomefront.org">Operation Homefront</a>.</p>
-images: []
+image_ids: []
 locations: []
 published: false
 source: Operation Homefront - Critical Financial Assistance Program

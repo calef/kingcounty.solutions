@@ -26,7 +26,7 @@ feed_content: |-
   </ul>
   <p>Your health and time matter to us—thank you for your patience as we navigate this together.</p>
   <p>The post <a href="https://www.pacificmedicalcenters.org/news/major-i-5-construction/">Major I-5 Construction Impacting Patient Northbound Travel to Seattle</a> appeared first on <a href="https://www.pacificmedicalcenters.org">Pacific Medical Centers</a>.</p>
-images: []
+image_ids: []
 locations:
 - King County
 source: Pacific Medical Centers

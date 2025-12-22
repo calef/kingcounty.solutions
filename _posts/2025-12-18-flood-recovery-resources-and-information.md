@@ -8,7 +8,7 @@ feed_content: Recovering from this month’s flooding may be overwhelming and st
   that will be vital in the days and weeks ahead. Please visit kingcounty.gov/flood-recovery
   to learn more.
 feed_content_checksum: 2f51448ca90ab65a3f3bc6ce2ceac2e214316424
-images: []
+image_ids: []
 locations:
 - King County
 original_source_html: Recovering from this month’s flooding may be overwhelming and

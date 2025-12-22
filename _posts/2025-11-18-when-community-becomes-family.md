@@ -322,7 +322,7 @@ feed_content: "<p><img width=\"361\" height=\"255\" src=\"https://s14621.pcdn.co
   (All summer party photos by Rachael Green)</p>The post <a href=\"https://www.solid-ground.org/when-community-becomes-family/\">When
   community becomes family </a> appeared first on <a href=\"https://www.solid-ground.org\">Solid
   Ground</a>."
-images:
+image_ids:
 - 34243cf91224f44712c23e04adfd022dae440b522c6be4fb859d43622acbcb67
 - 238e9913b601dc760ffd6ec0a13232594f89883fed35d4d06607a60c2fee1adc
 - d79a752559ab1bbf80714bdd207947e797a142bc7a51f8b2d75202f50c0e7c2e

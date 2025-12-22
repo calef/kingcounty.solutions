@@ -10,7 +10,7 @@ feed_content: |-
   - The TC Garage will NOT be closed on Friday 9/19 and Saturday 9/20. The housing team had to shift the dates, the garage closure is now set for November 28 & 29. We will share more information as we get closer to the closure date.
 
   The post [Together Center](https://togethercenter.org/2025/09/20/together-center/) appeared first on [Together Center](https://togethercenter.org).
-images: []
+image_ids: []
 locations:
 - King County
 source: Together Center

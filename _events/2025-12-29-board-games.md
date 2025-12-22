@@ -2,7 +2,7 @@
 feed_content: Families can enjoy board games.
 feed_content_checksum: 0da595e27453378da6485c44f4ba869ede57d388
 generated_from_post: true
-images: []
+image_ids: []
 location: Broadview Branch
 locations:
 - King County

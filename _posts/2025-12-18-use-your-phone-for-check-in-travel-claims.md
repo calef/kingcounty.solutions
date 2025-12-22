@@ -212,7 +212,7 @@ feed_content: |-
 
   <p>This article was originally published on the <a>VA Sheridan Health care System site</a>and has been edited for style and clarity.  </p>
 feed_content_checksum: a24b8729e62a650eb15292bb10ce266cc3931153
-images: []
+image_ids: []
 locations:
 - King County
 original_source_html: |-

@@ -7,7 +7,7 @@ feed_content: "<div> <div> <p> </p> <p>David Alexander Rahbee leads  the UW Sy
   </strong>Violin Concerto in A major, op.8</p> <p><strong>Prokofiev: </strong>Symphony
   No.5 in B-flat major, op.100</p> <h2>Biographies</h2> </div> </div>"
 feed_content_checksum: 3323ec936c30675affd1945246eec85303873fbb
-images: []
+image_ids: []
 location: Meany Hall (MNY)
 locations:
 - King County

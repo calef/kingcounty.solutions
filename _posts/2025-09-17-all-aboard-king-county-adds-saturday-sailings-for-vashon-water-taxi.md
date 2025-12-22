@@ -7,7 +7,7 @@ feed_content: 'The turning of the fall leaves welcomes a new tradition for the r
   round-trips between Pier 50 in downtown Seattle and the Vashon Ferry Terminal beginning
   Oct. 11.    &#160;“Vashon Island was the first water taxi route for King County,
   and residents&#8230;'
-images: []
+image_ids: []
 locations:
 - King County
 source: King County Ferry District

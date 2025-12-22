@@ -45,7 +45,7 @@ feed_content: "<article><div><section> <div> <p> <a> « All Events </a></p> <h1>
   for Life</a></li> <li><a>Digital Skills for Life/ Herramientas Digitales <span>»</span></a></li>
   </ul> </div> </div> </section></div></article>"
 feed_content_checksum: 16a11159bac2d7b880c2dbc7d1f89afa760eca36
-images: []
+image_ids: []
 location: El Centro de la Raza, 2524 16th Ave S, Seattle, WA, 98144, United States
 locations:
 - King County

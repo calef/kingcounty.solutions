@@ -8,7 +8,7 @@ feed_content: |-
   <p>It also opened the door to new opportunities to create walkable, vibrant station areas with housing, services, and community amenities just steps from transit.</p>
   </div></div>
 feed_content_checksum: 5321dc880d8a9a8300b00b9b99b2e2e7a420e239
-images: []
+image_ids: []
 locations:
 - South King County
 original_source_html: |-

@@ -6,7 +6,7 @@ feed_content: Over 500 attendees flooded into McCaw Hall at Seattle Center on Tu
   October 14th for the 2025 Creative Economy Career Day, a free, annual, one-day educational
   program hosted by The Seattle Office of Arts &#038; Culture and the Office of Economic
   De...
-images: []
+image_ids: []
 locations:
 - King County
 source: City of Seattle

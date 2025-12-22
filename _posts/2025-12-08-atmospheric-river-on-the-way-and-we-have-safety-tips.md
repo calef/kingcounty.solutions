@@ -7,7 +7,7 @@ feed_content: By now, you have probably heard about the heavy winds and rain in 
   in. To help you best prepare for your afternoon and morning commutes during this
   major “atmospheri...
 feed_content_checksum: 5f1711c8a76a6e3b7a99459ba4fc0d1afef412bb
-images: []
+image_ids: []
 locations:
 - King County
 source: City of Seattle

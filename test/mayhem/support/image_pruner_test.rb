@@ -32,7 +32,7 @@ class ImagePrunerTest < Minitest::Test
   end
 
   def test_collect_image_ids_handles_missing_values
-    front_matter = { 'images' => ['foo', nil, '  bar '] }
+    front_matter = { 'image_ids' => ['foo', nil, '  bar '] }
 
     assert_equal %w[foo bar], @pruner.collect_image_ids(front_matter)
   end
@@ -61,11 +61,11 @@ class ImagePrunerTest < Minitest::Test
 
   private
 
-  def write_post(filename, images)
+  def write_post(filename, image_ids)
     front_matter = {
       'title' => 'Test Post',
       'date' => Time.now.utc.iso8601,
-      'images' => images,
+      'image_ids' => image_ids,
       'source_url' => 'https://example.com'
     }
     path = File.join(@posts_dir, filename)

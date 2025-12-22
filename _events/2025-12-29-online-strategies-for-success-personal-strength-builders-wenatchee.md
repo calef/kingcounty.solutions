@@ -70,7 +70,7 @@ feed_content: '<div> <div> <section> <title>WorkSource Seattle-King County</titl
   of bad behaviors and become financially literate</li> </ul> </div> </div> </div>
   </section> </div> </section> </div> </div>'
 feed_content_checksum: e7afd44c8171faaf2d05b6bd5e589f805ed32156
-images: []
+image_ids: []
 location: ''
 locations: []
 organization_title: WorkSource Seattle-King County

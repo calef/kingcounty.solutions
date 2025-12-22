@@ -5,7 +5,7 @@ events_extracted: true
 feed_content: They enjoy taking photos, playing soccer and practicing peaceful martial
   arts. They travel and garden. There are ukulele, piano and guitar players and happy
   grandparents.  Those who ride with them...
-images: []
+image_ids: []
 locations:
 - King County
 source: King County Metro Transit

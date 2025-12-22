@@ -6,7 +6,7 @@ feed_content: 'Call for Artists: Moving Stories As King County’s population gr
   Metro is expanding its RapidRide system to help meet rider needs. With this expansion
   comes an opportunity to highlight the...'
 feed_content_checksum: c77a5da8e9212299c51bf347d1e41027ea594adf
-images: []
+image_ids: []
 locations:
 - King County
 rss_guid: https://kingcountymetro.blog/?p=67665

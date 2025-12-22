@@ -45,7 +45,7 @@ feed_content: "<span>Council Roundup: Council honors longest-tenured councilmemb
   The council’s next meeting will be Tuesday, Jan. 6.</em></p>\n</div>\n      \n\n
   \           <div>\n<time>December 12 2025</time>\n</div>\n      \n    </div>\n  </div>"
 feed_content_checksum: f15a6fac8eba63ed0eed49bdb4b1147c81ace03a
-images: []
+image_ids: []
 locations:
 - King County
 published: false

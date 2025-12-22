@@ -8,7 +8,7 @@ feed_content: <div><p paraid="896395732" paraeid="{6a4ef9ca-33ba-45e7-81b2-c3559
   tracks in Sumner, Auburn, and Kent.</p><p paraid="896395732" paraeid="{6a4ef9ca-33ba-45e7-81b2-c355978dc849}{87}">That’s
   because we’re making big investments to make it easier to take Sounder, Sound Transit’s
   popular regional train service that celebrated its 25th anniversary this fall.</p></div>
-images: []
+image_ids: []
 locations:
 - South King County
 source: Sound Transit

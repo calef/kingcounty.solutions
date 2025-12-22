@@ -41,7 +41,7 @@ feed_content: "<article> <div> <h1>The Body Project</h1> <div> <div> <h2>What is
   on what is on trend or considered pretty right now.”</p> <p><cite><strong>Sofia
   G.</strong></cite></p> </blockquote> </div> </article>"
 feed_content_checksum: 4adb69c072e9da744d9351b09f04408dba139c89
-images: []
+image_ids: []
 location: 1218 NE Campus Parkway (ELM-HALL)
 locations:
 - King County

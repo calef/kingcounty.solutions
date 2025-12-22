@@ -6,7 +6,7 @@ feed_content: Today at 1pm, staff from Seattle Public Utilities, King County Loc
   helicopter operated by the King County Air Support Unit. The helicopter landed at
   OEM to pick up the assessment […]
 feed_content_checksum: b9c10c58466f3056cf13bbe06e1845e6f382b3df
-images: []
+image_ids: []
 locations:
 - King County
 published: false

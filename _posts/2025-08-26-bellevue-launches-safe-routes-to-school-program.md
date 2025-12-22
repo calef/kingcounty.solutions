@@ -55,7 +55,7 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   Safety</a>.</p></div>\n      \n\n            <div class=\"field field--name-field-article-date
   field--type-datetime field--label-hidden field__item\"><time datetime=\"2025-08-26T12:00:00Z\"
   class=\"datetime\">August 26 2025</time>\n</div>\n      \n    </div>\n  </div>"
-images:
+image_ids:
 - 570f8162b84bd1d2828fefa1365a83adb0207b37aa42e98a513255bc235df11a
 locations:
 - Bellevue

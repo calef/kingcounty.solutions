@@ -61,7 +61,7 @@ feed_content: |-
 
   <p>This article was originally published on the <a>VA Richmond Health care System site </a>and has been edited for style and clarity.  </p>
 feed_content_checksum: 53b376b695b7d572f34d06e7875b544d85d303e6
-images: []
+image_ids: []
 locations:
 - King County
 rss_guid: https://news.va.gov/?p=143768

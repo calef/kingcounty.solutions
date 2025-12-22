@@ -3,7 +3,7 @@ date: '2025-12-13T09:42:34-08:00'
 feed_content: NACHES - Work to repair a section of US 12 in Naches damaged by the
   Naches River is underway.
 feed_content_checksum: 840ba3169cec84afa8ee5ea89014ab4d3f678bf9
-images: []
+image_ids: []
 locations: []
 published: false
 rss_guid: https://wsdot.wa.gov/about/news/2025/repairs-underway-repair-damaged-section-us-12-naches

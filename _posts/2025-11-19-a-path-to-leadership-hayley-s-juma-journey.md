@@ -5,7 +5,7 @@ events_extracted: true
 feed_content: |-
   <p>When Hayley first joined Juma, she was juggling more than most people her age. As a young mother navigating housing instability, every day brought a new challenge. She wanted something [&#8230;]</p>
   <p>The post <a href="https://www.juma.org/2025/11/19/a-path-to-leadership-hayleys-juma-journey/">A Path to Leadership: Hayley’s Juma Journey</a> appeared first on <a href="https://www.juma.org">Juma</a>.</p>
-images: []
+image_ids: []
 locations:
 - King County
 source: Juma Ventures

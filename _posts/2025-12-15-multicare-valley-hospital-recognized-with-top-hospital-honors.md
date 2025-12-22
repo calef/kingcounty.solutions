@@ -8,7 +8,7 @@ feed_content: |-
   <p>To qualify for the distinction as a Top Hospital, hospitals must rank top among peers on the Leapfrog Hospital Survey, which assesses hospital performance on the highest standards for quality and patient safety, and achieve top performance in their category. Visit the Leapfrog Group to see the full list of institutions honored as <a>2025 Top Hospitals.<span></span></a></p>
   <p>The post <a>MultiCare Valley Hospital recognized with Top Hospital honors</a> appeared first on <a>MultiCare</a>.</p>
 feed_content_checksum: b3e9bcba7ce3cf5f2d915984840df0ee1d28b6b0
-images: []
+image_ids: []
 locations: []
 original_source_html: |-
   <p>SPOKANE, Wash. — <a>MultiCare Valley Hospital</a> has been recognized as a Top Hospital and given an “A” grade. Both awards were given by <a>The Leapfrog Group<span></span></a> in fall 2025, recognizing the highest commitment to patient safety and quality of care.</p>

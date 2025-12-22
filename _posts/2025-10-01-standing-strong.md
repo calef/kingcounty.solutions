@@ -26,7 +26,7 @@ feed_content: |-
 
   <p></p>
   <p>The post <a href="https://www.rewa.org/standing-strong/">Standing Strong</a> appeared first on <a href="https://www.rewa.org">Refugee Women&#039;s Alliance</a>.</p>
-images:
+image_ids:
 - 938c390db8974ab1918e231beee88f0ad14149398b20896bfbf236d4def0e076
 locations:
 - King County

@@ -65,7 +65,7 @@ feed_content: "<p>Greetings AFW Angels,<br><br>When our newsletter editor Jess a
   post <a href=\"https://angelflightwest.org/news/cheris-reflections-on-28-years-at-angel-flight-west/\">Cheri’s
   Reflections on 28 Years at Angel Flight West</a> first appeared on <a href=\"https://angelflightwest.org\">Angel
   Flight West</a>.</p>"
-images: []
+image_ids: []
 locations:
 - King County
 source: Angel Flight West

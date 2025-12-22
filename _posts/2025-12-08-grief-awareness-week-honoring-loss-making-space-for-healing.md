@@ -82,7 +82,7 @@ feed_content: |-
   <p><span>Grief is not a problem to solve; it is a part of life to be honored. This Grief Awareness Week, we remember those we’ve lost, support those still mourning, and hold space for healing, however long it takes.</span></p>
   <p>The post <a>Grief Awareness Week: Honoring Loss, Making Space for Healing</a> appeared first on <a>Vibrant Emotional Health</a>.</p>
 feed_content_checksum: 75b703b21ef3a1661d6b325c03c4197a6df5040b
-images: []
+image_ids: []
 locations:
 - King County
 source: Vibrant Emotional Health

@@ -88,7 +88,7 @@ feed_content: |-
 
 
   <p>It is so important to recognize how people’s mental health is impacted, every one and individual has different experiences, it’s important to get the help we need.&nbsp;</p>
-images: []
+image_ids: []
 locations:
 - King County
 source: The Deaf Hotline

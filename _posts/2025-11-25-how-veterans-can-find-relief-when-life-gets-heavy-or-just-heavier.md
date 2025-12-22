@@ -100,7 +100,7 @@ feed_content: |-
 
 
   <p>You’ve carried a lot. Let us carry some of it, too. Asking for help isn’t a weakness, and it doesn’t have to be a last resort. It’s wise to stay connected with what’s really going on inside. And it’s crucial to reach out for help when you need it. We’ll be here for you when you do.</p>
-images: []
+image_ids: []
 locations:
 - King County
 source: Veterans Affairs Pension Program

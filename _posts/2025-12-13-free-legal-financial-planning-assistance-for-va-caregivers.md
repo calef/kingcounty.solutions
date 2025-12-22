@@ -87,7 +87,7 @@ feed_content: |-
 
   <p>No matter where you are in your caregiving journey, you don’t have to face legal and financial planning questions alone. We’re here to help you feel confident, supported and prepared so you can focus on what matters most—caring for your Veteran. Visit <a>Legal and Financial Planning Page</a> to get started, <a>Find Your CSP Team online</a> or call the 24/7 Support Line at 1-833-422-7382 anytime.</p>
 feed_content_checksum: bfbbed734419f6ba4e70ea08337d61136f220925
-images: []
+image_ids: []
 locations:
 - King County
 rss_guid: https://news.va.gov/?p=143881

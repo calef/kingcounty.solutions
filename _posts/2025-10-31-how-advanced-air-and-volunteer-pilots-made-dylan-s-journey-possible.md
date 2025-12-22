@@ -54,7 +54,7 @@ feed_content: |-
 
 
   <p></p><p>The post <a href="https://angelflightwest.org/news/how-advanced-air-and-volunteer-pilots-made-dylans-journey-possible/">How Advanced Air and Volunteer Pilots Made Dylan’s Journey Possible</a> first appeared on <a href="https://angelflightwest.org">Angel Flight West</a>.</p>
-images:
+image_ids:
 - 3f3f4dd66b28212838949ab0a46d14f4e19a89e08008f3d395d42e9db6d54930
 - b5d464b5a3c52df770f987144e1d4c93aa8d139f591dc2fdda128d3a1d6902e8
 - a3e132c3386e660d6c59274cddd0481c91a5136c511dd680644e852cde270c3d

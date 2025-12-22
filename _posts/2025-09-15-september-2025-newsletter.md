@@ -22,7 +22,7 @@ feed_content: "<figure class=\"\n              sqs-block-image-figure\n         
   \     \n\n    \n  \n\n\n  \n\n\n\n\n\n  <p class=\"\">Read our September 2025 newsletter
   is  <a href=\"https://carepointclinic.dm.networkforgood.com/emails/4190700?recipient_id=gKmitG8yqD88wZ7BRslDrA||ZGVzaXJlZXN3YW5zb25AZ21haWwuY29t\"
   target=\"_blank\">HERE!</a></p>"
-images: []
+image_ids: []
 locations: []
 published: false
 source: CarePoint Clinic

@@ -7,7 +7,7 @@ feed_content: |-
   <object></object><a>Q4 2025-1</a><a>Download</a>
   </div>
 feed_content_checksum: 1746e0c26f43724b304ecea28ed0135e9f7e69be
-images: []
+image_ids: []
 locations:
 - South King County
 rss_guid: https://hospitalityhousesouthking.org/?p=3951

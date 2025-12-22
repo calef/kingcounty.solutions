@@ -6,7 +6,7 @@ feed_content: The 2026 budget passed by the Seattle City Council highlights our 
   focus on supporting a thriving, inclusive business ecosystem – one that attracts
   new industry and helps local businesses grow, innovate, and create opportunity across
   the city....
-images: []
+image_ids: []
 locations:
 - King County
 source: City of Seattle

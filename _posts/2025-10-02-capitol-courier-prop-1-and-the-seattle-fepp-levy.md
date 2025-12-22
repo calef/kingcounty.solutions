@@ -105,7 +105,7 @@ feed_content: |-
 
   <p></p>
   <p>The post <a href="https://www.brightspark.org/2025/10/capitol-courier-prop-1-and-the-seattle-fepp-levy/">Capitol Courier: Prop 1 and the Seattle FEPP Levy</a> appeared first on <a href="https://www.brightspark.org">BrightSpark</a>.</p>
-images: []
+image_ids: []
 locations:
 - King County
 source: BrightSpark

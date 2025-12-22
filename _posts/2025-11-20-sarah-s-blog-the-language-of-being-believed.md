@@ -4,7 +4,7 @@ events: []
 events_extracted: true
 feed_content: '<p>The post <a href="https://www.kcsarc.org/en/sarahs-blog-the-language-of-being-believed/">Sarah&#8217;s
   Blog: The Language of Being Believed</a> appeared first on <a href="https://www.kcsarc.org/en/">KCSARC</a>.</p>'
-images: []
+image_ids: []
 locations:
 - King County
 source: King County Sexual Assault Resource Center

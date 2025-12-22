@@ -68,7 +68,7 @@ feed_content: |-
 
   <p>Learn more about DAV Patriot Boot Camp at patriotbootcamp.org.</p>
 feed_content_checksum: 28f692c71a16e5ebffd07678d75ce2ece4c5aafd
-images: []
+image_ids: []
 locations:
 - King County
 original_source_html: |-

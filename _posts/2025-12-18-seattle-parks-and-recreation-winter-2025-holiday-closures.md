@@ -5,7 +5,7 @@ feed_content: Many Seattle Parks and Recreation facilities will be closed, or on
   below for details.  These facilities and programs will be CLOSED on Thursday, December
   25 ...
 feed_content_checksum: 834986d6208ba7bcca486edc021d8111cfbae5d6
-images: []
+image_ids: []
 locations:
 - King County
 original_source_html: Many Seattle Parks and Recreation facilities will be closed,

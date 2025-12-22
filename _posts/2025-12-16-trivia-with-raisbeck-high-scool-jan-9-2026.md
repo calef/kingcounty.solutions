@@ -7,7 +7,7 @@ feed_content: |-
 
   <p>Come in and test your knowledge with trivia hosted by students from Raisbeck High School! You never know what odd facts and figures may come in handy for different questions and categories, so try your luck! RSVPs appreciated. </p>
 feed_content_checksum: 3aa049ce1b6be3bdddc2af150b4768d59e428e60
-images: []
+image_ids: []
 locations: []
 original_source_html: |-
   <figure><img src="https://wallingfordseniors.org/wp-content/uploads/2025/12/Trivia-jan-26-783x1024.png"></figure>

@@ -111,7 +111,7 @@ feed_content: "<div class=\"wpb-content-wrapper\"><div class=\"\"><div class=\"c
   class=\"wpb_column vc_column_container vc_col-sm-12\"><div class=\"vc_column-inner\"><div
   class=\"wpb_wrapper\"><div class=\"vc_empty_space\"   style=\"height: 55px\"><span
   class=\"vc_empty_space_inner\"></span></div></div></div></div></div></div></div>\n</div>"
-images:
+image_ids:
 - 929fcf43b4f7030575df87192a4f085af2dc33ac308626b53cfac33425c6b178
 locations:
 - King County

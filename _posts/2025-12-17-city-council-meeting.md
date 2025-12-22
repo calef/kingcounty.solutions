@@ -4,7 +4,7 @@ feed_content: "<div>\n  \n      \n    <span>02/05/2026 - 7:00pm</span>\n      </
   \ \n      \n    <p>For City Council Meeting Agendas <a>PLEASE CLICK HERE</a></p>\n
   \     </div>"
 feed_content_checksum: 664b0a50b220322423da0a307f318640fc8c70d3
-images: []
+image_ids: []
 locations:
 - Black Diamond
 original_source_html: "<div>\n  \n      \n    <span>02/05/2026 - 7:00pm</span>\n      </div>\n\n<div>\n

@@ -6,7 +6,7 @@ feed_content: The Puget Sound region is bracing for intense rain this week, form
   again send some of them over their banks. With the rain expected to persist, the
   National […]
 feed_content_checksum: 86353944758004daa67dfe4b89a643f918db8b73
-images: []
+image_ids: []
 locations:
 - King County
 published: false

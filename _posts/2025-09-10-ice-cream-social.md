@@ -7,7 +7,7 @@ feed_content: |-
   <h4 style="text-align: center;">What a sweet start to the year! It was wonderful to see so many familiar faces and to welcome new ones at our Ice Cream Social.</h4>
   <p style="text-align: center;">Thank you to everyone who joined us for an evening of connection, conversation, and (of course) delicious treats!</p>
   </div>
-images: []
+image_ids: []
 locations: []
 published: false
 source: Washington Center for Deaf and Hard of Hearing Youth

@@ -2,7 +2,7 @@
 date: '2025-11-21T01:24:09-08:00'
 feed_content: SEATTLE – Work includes Revive I-5 lane reductions, an eastbound SR
   520 closure to Montlake and I-405/SR 522 ramp closures
-images: []
+image_ids: []
 locations: []
 published: false
 source: Washington State Department of Transportation

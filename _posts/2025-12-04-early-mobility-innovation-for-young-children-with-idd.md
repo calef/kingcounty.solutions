@@ -142,7 +142,7 @@ feed_content: "<div class=\"wpb-content-wrapper\">\r\n<div  data-mk-stretch-cont
   post <a href=\"https://ihdd.org/2025/12/04/early-mobility-innovation-for-young-children-with-idd/\">Early
   Mobility Innovation for Young Children with IDD</a> appeared first on <a href=\"https://ihdd.org\">UW
   IHDD</a>.</p>"
-images:
+image_ids:
 - ba0e3c7e53985f41e6c45aa0ae98430365d9e7d95c68105f7037a11c27a54d94
 locations:
 - King County

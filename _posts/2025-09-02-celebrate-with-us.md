@@ -6,7 +6,7 @@ feed_content: 'Registration is now open for Lighthouse''s 9th Annual Celebrate 
   and community impact as we raise vital funds to support survivors of abuse. Enjoy powerful
   stories of life change, live music, drinks, and a delicious Italian dinner. Celebrate
   with us and learn how Lighthouse is breaking the cycle of abuse in our'
-images: []
+image_ids: []
 locations: []
 published: false
 source: Lighthouse NW

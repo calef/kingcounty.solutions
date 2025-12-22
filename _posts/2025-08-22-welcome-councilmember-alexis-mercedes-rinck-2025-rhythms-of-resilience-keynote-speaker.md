@@ -5,7 +5,7 @@ events_extracted: true
 feed_content: <p>The post <a href="https://casa-latina.org/welcome-alexis-rinck-keynote/">Welcome
   Councilmember Alexis Mercedes Rinck, 2025 Rhythms of Resilience Keynote Speaker!</a>
   appeared first on <a href="https://casa-latina.org">Casa Latina</a>.</p>
-images: []
+image_ids: []
 locations:
 - King County
 source: Casa Latina

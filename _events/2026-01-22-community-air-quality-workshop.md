@@ -89,7 +89,7 @@ feed_content: "<article id=\"post-0\" class=\"post-0 page type-page status-publi
   Herramientas Digitales/ Digital Skills for Life</a></li> <li class=\"tribe-events-nav-next\"><a
   href=\"https://www.elcentrodelaraza.org/event/community-pet-vaccine-clinic/2026-01-23/\">Community
   Pet Vaccine Clinic <span>»</span></a></li> </ul> </div> </div> </section></div></article>"
-images: []
+image_ids: []
 location: Centilia Cultural Center, 1660 S Plaza Roberto Maestas Festival Street,
   Seattle, WA, 98144, United States
 locations:

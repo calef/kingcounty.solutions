@@ -6,7 +6,7 @@ feed_content: OLYMPIA – An annual compilation of prioritized transportation im
   projects is now ready for public review and comment through Friday, Dec. 19. The
   statewide list of projects is a required step to authorize federal funds for the
   work.
-images: []
+image_ids: []
 locations:
 - King County
 source: Washington State Department of Transportation

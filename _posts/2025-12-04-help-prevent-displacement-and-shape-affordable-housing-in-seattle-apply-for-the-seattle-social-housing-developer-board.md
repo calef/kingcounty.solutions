@@ -6,7 +6,7 @@ feed_content: Can you devote your time to helping your community? The Seattle 
   Commission seeks community members to fill two vacant seats on the Seattle Social
   Housing Developer Board, a Public Development Authority (PDA) responsible for developing,
   owning,...
-images: []
+image_ids: []
 locations:
 - King County
 source: City of Seattle

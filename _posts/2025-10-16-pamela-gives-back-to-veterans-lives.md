@@ -77,7 +77,7 @@ feed_content: |-
 
   <p>Thank you to our Veterans Day campaign partners: CarMax, Hilton Grand Vacation, The Home Depot Foundation, Impossible Foods, Love’s, Meritage Homes, Northrop Grumman, PulteGroup Inc., Walmart, Bob&#8217;s Discount Furniture, and Homefront Brands.&nbsp;</p>
   <p>The post <a href="https://operationhomefront.org/pamela-gives-back-to-veterans-lives/">Pamela Gives Back to Veterans’ Lives</a> appeared first on <a href="https://operationhomefront.org">Operation Homefront</a>.</p>
-images:
+image_ids:
 - 535bbe53ed15a2bde96361a1153c8db599dd68fe0b042b9fb4aac2592cf2dd8b
 - a24e8c0b4775c492b00e222b07f97abfaf73d90c36be58585dc4491fbcd53500
 locations:

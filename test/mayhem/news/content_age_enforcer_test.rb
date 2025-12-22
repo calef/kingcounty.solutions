@@ -146,11 +146,11 @@ class ContentAgeEnforcerTest < Minitest::Test
     File.write(@config_path, config.to_yaml)
   end
 
-  def write_post(filename, days_ago, images)
+  def write_post(filename, days_ago, image_ids)
     date = @reference_time - (days_ago * 24 * 60 * 60)
     front_matter = {
       'date' => date.iso8601,
-      'images' => images
+      'image_ids' => image_ids
     }
     path = File.join(@posts_dir, filename)
     File.write(path, Mayhem::FrontMatter::Document.build_markdown(front_matter, ''))

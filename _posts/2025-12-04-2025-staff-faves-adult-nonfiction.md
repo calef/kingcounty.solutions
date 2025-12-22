@@ -15,7 +15,7 @@ feed_content: |-
   <p><a href="https://seattle.bibliocommons.com/v2/record/S30C4066948"><strong>Why I Love Horror: Essays on Horror Literature</strong></a> edited by Becky Siegel Spratford<br />
   Librarian and horror afficionado Spratford assembles an anthology of essays from popular contemporary horror writers, a love letter to the genre and an examination of horror’s appeal to diverse audiences. In their starred review, booklist said “the results are illuminating, moving, and inspiring.”</p>
   <p><em>~ posted by Andrea G.</em></p>
-images: []
+image_ids: []
 locations: []
 published: false
 source: The Seattle Public Library

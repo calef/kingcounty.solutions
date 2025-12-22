@@ -31,7 +31,7 @@ feed_content: "[U.S. DOE – Advanced Technology Vehicles Manufacturing Loan Pro
   reduce toxic diesel emissions from diesel vehicles, engines, and equipment in Washington.\n-
   **Total funding amount:** Approximately $25 million.\n- **Application due date:**
   January 8, 2026"
-images: []
+image_ids: []
 locations: []
 published: false
 source: Department of Commerce

@@ -138,7 +138,7 @@ feed_content: "<div class=\"wpb-content-wrapper\"><div class=\"vc_row wpb_row ro
   post <a href=\"https://lakesidemilam.com/blog/polysubstance-use-in-young-adults-a-growing-concern/\">Polysubstance
   Use in Young Adults: A Growing Concern</a> appeared first on <a href=\"https://lakesidemilam.com\">Lakeside-Milam
   Recovery Centers</a>.</p>"
-images: []
+image_ids: []
 locations:
 - King County
 source: Lakeside-Milam Recovery Centers

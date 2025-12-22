@@ -697,7 +697,7 @@ feed_content: '<div> <a>Skip to main content</a> <a>Skip to footer unit links</a
   </aside> </article> </div> </div> <script> {"baseUrl":"https://s.w.org/images/core/emoji/17.0.2/72x72/","ext":".png","svgUrl":"https://s.w.org/images/core/emoji/17.0.2/svg/","svgExt":".svg","source":{"concatemoji":"https://botanicgardens.uw.edu/wp-includes/js/wp-emoji-release.min.js?ver=6.9"}}
   </script> </div> </div>'
 feed_content_checksum: 68cfb347c023f9a26e70330bcd023d8506fde322
-images: []
+image_ids: []
 location: Northwest Horticultural Society Hall (NHS)
 locations:
 - King County

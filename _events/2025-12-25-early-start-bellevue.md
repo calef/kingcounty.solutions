@@ -54,7 +54,7 @@ feed_content: <div class="site" id="page"> <div id="wrapper-topbar" class="bg-tr
   class="tribe-delimiter">,</span> <abbr class="tribe-region tribe-events-abbr" title="Washington">WA</abbr>
   <span class="tribe-country-name">United States</span> </span> </address> </li> </ul>
   </div> </div> </div> </div> </section> </div>
-images: []
+image_ids: []
 location: North Bellevue Community Center, 4063 148th Ave NE, Bellevue, WA, United
   States
 locations:

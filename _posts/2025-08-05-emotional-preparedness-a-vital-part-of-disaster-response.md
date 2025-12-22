@@ -12,7 +12,7 @@ feed_content: |-
   <p><span style="font-weight: 400;">Emotional care looks like trained responders offering calm in the chaos. It looks like a survivor finding hope after loss. It looks like real-time support from a team that knows what to do and does it. Vibrant’s <a href="https://www.vibrant.org/what-we-do/advocacy-policy-education/crisis-emotional-care/">Crisis Emotional Care Team</a> has supported countless communities with a steady hand and a compassionate heart. When communities are shaken, Vibrant is a steady hand offering healing, guidance, and hope. </span></p>
   <p><span style="font-weight: 400;">When the unexpected strikes, emotional readiness can make all the difference. Let’s build a future where no one faces disaster alone. Prepare emotionally, just as you would physically, and help shape a more resilient, compassionate world.</span></p>
   <p>The post <a href="https://www.vibrant.org/emotional-preparedness-a-vital-part-of-disaster-response/">Emotional Preparedness: A Vital Part of Disaster Response</a> appeared first on <a href="https://www.vibrant.org">Vibrant Emotional Health</a>.</p>
-images: []
+image_ids: []
 locations:
 - King County
 source: Vibrant Emotional Health

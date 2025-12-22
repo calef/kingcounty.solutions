@@ -5,7 +5,7 @@ events_extracted: true
 feed_content: "![](https://www.burienwa.gov/UserFiles/Servers/Server_11045935/Image/Featured_Events/2025/ADA%20Transition%20Plan%20Update%20-%20FE.png)Join
   the City of Burien's Public Works team to discuss pedestrian mobility and share
   what is most important to you."
-images: []
+image_ids: []
 locations: []
 published: false
 source: City of Burien

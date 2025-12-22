@@ -4,7 +4,7 @@ feed_content: Seattle police officers arrested a 30-year-old man, and &#8220;Hig
   Utilizer Initiative” offender, for openly using Fentanyl in the Chinatown-International
   District. On Nov. 20 at about 8:50 p.m., officers on foot, patrolling the area of
   12th Avenue So...
-images: []
+image_ids: []
 locations: []
 published: false
 source: City of Seattle

@@ -63,7 +63,7 @@ feed_content: '<div> <div> <section> <title>WorkSource Seattle-King County</titl
   the digital skills you need to succeed!</strong> </div> </div> </div> </section>
   </div> </section> </div> </div>'
 feed_content_checksum: f9384f5f2138e51e4289c3304b87448546af29c9
-images: []
+image_ids: []
 location: ''
 locations:
 - King County

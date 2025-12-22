@@ -11,7 +11,7 @@ feed_content: '<figure class="wp-block-image size-large"><img fetchpriority="hig
   50w, https://wallingfordseniors.org/wp-content/uploads/2025/11/2025.12-Lunch-Menu-1187x1536.png
   1187w, https://wallingfordseniors.org/wp-content/uploads/2025/11/2025.12-Lunch-Menu.png
   1275w" sizes="(max-width: 791px) 100vw, 791px" /></figure>'
-images: []
+image_ids: []
 locations: []
 published: false
 source: Wallingford Community Senior Center

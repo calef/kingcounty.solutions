@@ -9,7 +9,7 @@ feed_content: |-
   Fish and wildlife habitat conservation areas<br />
   Geologically hazardous areas</p>
   </div></div></div>
-images: []
+image_ids: []
 locations: []
 published: false
 source: City of Medina

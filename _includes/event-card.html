@@ -2,8 +2,8 @@
 {%- assign show_event_date = include.show_event_date | default: false -%}
 {%- if event -%}
   {%- assign primary_image_id = include.image_id -%}
-  {%- if (primary_image_id == nil or primary_image_id == '') and event.images -%}
-    {%- assign primary_image_id = event.images | first -%}
+  {%- if (primary_image_id == nil or primary_image_id == '') and event.image_ids -%}
+    {%- assign primary_image_id = event.image_ids | first -%}
   {%- endif -%}
   {%- assign primary_image = nil -%}
   {%- if primary_image_id -%}

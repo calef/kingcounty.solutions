@@ -1,6 +1,6 @@
 ---
 generated_from_post: true
-images: []
+image_ids: []
 locations: []
 locked: true
 organization_title: Department of Health

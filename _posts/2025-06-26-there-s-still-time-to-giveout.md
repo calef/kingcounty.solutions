@@ -4,7 +4,7 @@ events: []
 events_extracted: true
 feed_content: We were proud to attend Bothell Pride at Moonlight on Main as well as
   Pride Celebration at Kirkland Urban as part of our ongoing...
-images: []
+image_ids: []
 locations:
 - King County
 source: Friends of Youth

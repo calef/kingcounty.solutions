@@ -8,7 +8,7 @@ feed_content: LIHI staff and volunteers are busily at work setting up two new vi
   houses. LIHI will operate the village with the New Hope Missionary Baptist Church
   serving as the religious sponsor. The village will open before Christmas. Funding
   is provided by the City of Seattle and KCRHA. The CBSR Village is located at 4820...
-images: []
+image_ids: []
 locations:
 - King County
 source: Low Income Housing Institute

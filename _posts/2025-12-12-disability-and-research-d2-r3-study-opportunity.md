@@ -40,7 +40,7 @@ feed_content: "<div>\n<div>\n\t\t\t\t\n<div>\n\t\n<h2>\n\t<span>\n\t\t\t\t<span>
   post <a>Disability and Research (D2/R3) Study Opportunity</a> appeared first on
   <a>UW IHDD</a>.</p>"
 feed_content_checksum: 971ec6c36237edb392cbc658fd99ffdd6548e054
-images:
+image_ids:
 - 947e79c0d682c0668f2668125c99a0c216ae89bafaa38ab02e207bd35e0ba30a
 locations:
 - King County

@@ -39,7 +39,7 @@ feed_content: |-
   <p>###</p>
   </div>
 feed_content_checksum: bb3e45ea5023e9784cccd72333440947e7e2c833
-images: []
+image_ids: []
 locations: []
 published: false
 source: Department of Health

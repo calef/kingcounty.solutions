@@ -42,7 +42,7 @@ feed_content: |-
 
 
   <p><a href="https://runsignup.com/Race/IN/VirtualEvent/GWOT100?rsus=500-400-fb9ee638-7e4e-4598-bfe4-f0353f9c835e" rel="noopener">View online</a> to learn more and register.</p>
-images: []
+image_ids: []
 locations: []
 published: false
 source: Veterans Affairs Pension Program

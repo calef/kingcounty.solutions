@@ -4,7 +4,7 @@ feed_content: Installation of third 150-ton transformer marks the completion of 
   reliability project. Over the last few years, crews have been hard at work installing
   new transformers at our East Pine Substation. And this weekend, they will switch
   on the newe...
-images: []
+image_ids: []
 locations: []
 published: false
 source: City of Seattle

@@ -5,7 +5,7 @@ events_extracted: true
 feed_content: |-
   <p>The DJC reported last spring that St. Andrew&#8217;s Lutheran Church in Bellevue was exploring the possibility of co-developing a large affordable housing<span class="excerpt-hellip"> […]</span></p>
   <p>The post <a href="https://imaginehousing.org/bellevue-church-moving-forward-with-affordable-housing/">Bellevue Church Moving Forward with Affordable Housing</a> appeared first on <a href="https://imaginehousing.org">Imagine Housing</a>.</p>
-images: []
+image_ids: []
 locations:
 - King County
 source: Imagine Housing

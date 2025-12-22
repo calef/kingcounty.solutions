@@ -3,7 +3,7 @@ date: '2025-12-04T09:21:17-08:00'
 feed_content: TACOMA - From 8 a.m. to 7 p.m. Saturday, Dec. 13, Washington State Department
   of Transportation maintenance crews will close the two left westbound lanes across
   the bridge for pothole repiars.
-images: []
+image_ids: []
 locations: []
 published: false
 source: Washington State Department of Transportation

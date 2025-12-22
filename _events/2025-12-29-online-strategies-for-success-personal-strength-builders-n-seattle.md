@@ -75,7 +75,7 @@ feed_content: '<div> <div> <section> <title>WorkSource Seattle-King County</titl
   and become financially literate.</li> </ul> </div> </div> </div> </section> </div>
   </section> </div> </div>'
 feed_content_checksum: d161f91763ef7c8bd1708d238548c3f044cf2eb2
-images: []
+image_ids: []
 location: ''
 locations:
 - King County

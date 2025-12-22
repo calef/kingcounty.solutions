@@ -49,7 +49,7 @@ feed_content: "<span class=\"field field--name-title field--type-string field--l
   or 425-229-6511.</p></div>\n      \n\n            <div class=\"field field--name-field-article-date
   field--type-datetime field--label-hidden field__item\"><time datetime=\"2025-07-11T12:00:00Z\"
   class=\"datetime\">July 11 2025</time>\n</div>\n      \n    </div>\n  </div>"
-images: []
+image_ids: []
 locations:
 - King County
 source: City of Bellevue

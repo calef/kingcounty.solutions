@@ -4,7 +4,7 @@ feed_content: Seattle police officers arrested a 33-year-old man, armed with a k
   and a hatchet, in possession of Meth and Cocaine in Downtown Seattle last night.
   On Dec. 2, at about 6:20 p.m., officers proactively patrolling an alleyway behind
   the Smith Tower ne...
-images: []
+image_ids: []
 locations: []
 published: false
 source: City of Seattle

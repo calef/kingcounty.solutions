@@ -19,7 +19,7 @@ feed_content: "<p>The first Essentials First’s annual Day of Action is happeni
   \               \n                <img src=\"https://images.squarespace-cdn.com/content/v1/6244ce6a3e335a451b9540a9/293e4d5e-cb2f-4cf6-b059-73c39a8da7f6/DAY+OF+ACTION+%282%29.png?format=1000w\">\n\n
   \           \n          \n        \n          \n        \n\n        \n      \n        </figure>"
 feed_content_checksum: 91a7dc69ddca03a64612e84a53949e0ad131edac
-images:
+image_ids:
 - 901e7bf5bfc4f2dfd4432c84dc07ff01edf3ddf62f470c694fda91cffc2e2636
 locations:
 - King County

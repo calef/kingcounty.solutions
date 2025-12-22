@@ -57,7 +57,7 @@ feed_content: "<div class=\"et_pb_section et_pb_section_1 et_section_regular\" >
   vibrant traditional Mexican celebrations. Most of all, we have the most authentic
   Mexican food in the state. You cannot find lengua, tripa, and cabeza tacos and menudo
   in just any city in Washington.</p></div>\n\t\t\t</div>\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>\n\t\t\t\t\n\t\t\t\t\n\t\t\t</div>"
-images: []
+image_ids: []
 locations: []
 published: false
 source: Inatai Foundation

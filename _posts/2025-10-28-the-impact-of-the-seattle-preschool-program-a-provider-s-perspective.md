@@ -77,7 +77,7 @@ feed_content: |-
 
   <p></p>
   <p>The post <a href="https://www.brightspark.org/2025/10/the-impact-of-the-seattle-preschool-program-a-providers-perspective/">The Impact of the Seattle Preschool Program: A Provider’s Perspective</a> appeared first on <a href="https://www.brightspark.org">BrightSpark</a>.</p>
-images:
+image_ids:
 - 73520e997ab6792a12cca20582b7d604b2734e0c28a9275feaf07de86f84d31e
 locations:
 - King County

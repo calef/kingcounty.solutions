@@ -4,7 +4,7 @@ feed_content: 'The Basics Division: Office of the General Manager How long have 
   been at City Light? Since August 2024 Tell us about your role. I do any and all
   things for the office of our General Manager &#038; CEO Dawn Lindell! This includes
   the basics like sche...'
-images: []
+image_ids: []
 locations: []
 published: false
 source: City of Seattle

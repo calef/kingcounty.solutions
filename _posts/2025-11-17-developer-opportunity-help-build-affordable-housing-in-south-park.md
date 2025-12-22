@@ -6,7 +6,7 @@ feed_content: We are excited to announce a new opportunity for development partn
   to help create affordable rental housing in the South Park neighborhood. We are
   seeking qualified affordable housing developers to partner with us on the Henderson
   Street development...
-images: []
+image_ids: []
 locations:
 - King County
 source: City of Seattle

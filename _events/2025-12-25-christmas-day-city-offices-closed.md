@@ -16,7 +16,7 @@ feed_content: "<section> <div> <div> <div> <section> <div> <h1>Christmas Day –
   pm</span> </div> </li> </ul> </div> <p> <a> Back to events</a> </p> </div> </section>
   </div> </div> </div> </section>"
 feed_content_checksum: c580a48ce97b40dfb50494afa3cd839e1cb1fedb
-images: []
+image_ids: []
 location: WA
 locations:
 - King County

@@ -15,7 +15,7 @@ feed_content: |-
   <p><span class="cf1">Chad is grateful for the opportunity to share his story and hopes that people will learn from his past mistakes, preventing future tragedy from occurring. </span></p>
   <p><!--EndFragment --></p>
   <p>The post <a href="https://www.mercyhousing.org/2025/11/chads-second-chance/">Chad&#8217;s second chance</a> appeared first on <a href="https://www.mercyhousing.org">Mercy Housing</a>.</p>
-images: []
+image_ids: []
 locations:
 - King County
 source: Mercy Housing

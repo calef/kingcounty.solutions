@@ -8,7 +8,7 @@ feed_content: This is King County Emergency Management on Tuesday, December 16. 
   this area is under a GO NOW evacuation notice. Leave immediately if you are in this
   area. […]
 feed_content_checksum: daa19eb447b8aa53960c0b47a61498052af99d52
-images: []
+image_ids: []
 locations:
 - King County
 original_source_html: This is King County Emergency Management on Tuesday, December

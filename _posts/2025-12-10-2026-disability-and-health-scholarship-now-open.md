@@ -54,7 +54,7 @@ feed_content: "<div>\n<div>\n\t\t\t\t\n<div>\n\t\n<h2>\n\t<span>\n\t\t\t\t<span>
   post <a>2026 Disability and Health Scholarship Now Open</a> appeared first on <a>UW
   IHDD</a>.</p>"
 feed_content_checksum: '09ddd6134a80fcbc24b6c494c539725ca7557b80'
-images:
+image_ids:
 - 84895ecebf99b7daeb291779a10c3c261887ec60451366018df82c835eea2236
 locations:
 - King County

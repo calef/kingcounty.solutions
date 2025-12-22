@@ -69,7 +69,7 @@ feed_content: |-
 
   <p><a>VA Health Connect</a> provides pharmacy services (hours vary based on location), appointment scheduling, clinical triage (to speak to a registered nurse) and more.</p>
 feed_content_checksum: 7065a468eb9a8ffbfcc1b6f40ab1214fff8d99b2
-images: []
+image_ids: []
 locations:
 - King County
 published: false

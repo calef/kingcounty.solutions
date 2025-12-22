@@ -5,7 +5,7 @@ events_extracted: true
 feed_content: The King County Council adopted Metro’s 2026-2027 budget in November
   2025. The budget adds more than 400,000 hours of Metro bus service and totals $4
   billion across Metro’s operating and...
-images: []
+image_ids: []
 locations:
 - King County
 source: King County Metro Transit

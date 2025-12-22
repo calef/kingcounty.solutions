@@ -22,7 +22,7 @@ feed_content: |-
   Read the full press release [here](https://snoqualmievalleyhealth.org/wp-content/uploads/2025/09/9.30.2025-Snoqualmie-Valley-Health-Expands-Access-to-Care-with-New-North-Bend-Clinic-003-1.pdf).&nbsp;
 
   The post [Snoqualmie Valley Health Expands Access to Care with New North Bend Clinic](https://snoqualmievalleyhealth.org/svh-expands-access-to-care-with-new-north-bend-clinic/) appeared first on [Snoqualmie Valley Hospital](https://snoqualmievalleyhealth.org).
-images: []
+image_ids: []
 locations:
 - Snoqualmie Valley
 source: Hospital District No. 4 (Snoqualmie Valley Hospital)

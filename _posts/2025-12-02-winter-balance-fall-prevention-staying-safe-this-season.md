@@ -56,7 +56,7 @@ feed_content: "<div data-elementor-type=\"wp-post\" data-elementor-id=\"18976\" 
   post <a href=\"https://snoqualmievalleyhealth.org/winter-balance-and-fall-prevention-staying-safe-this-season/\">Winter
   Balance &amp; Fall Prevention: Staying Safe This Season</a> appeared first on <a
   href=\"https://snoqualmievalleyhealth.org\">Snoqualmie Valley Hospital</a>.</p>"
-images: []
+image_ids: []
 locations:
 - South King County
 - Snoqualmie Valley

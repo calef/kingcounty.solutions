@@ -6,7 +6,7 @@ feed_content: 'For Immediate Release Contact: Cynthia Santana/Communications Man
   (OLS) announces the conclusion of an investigation involving an in-home childcare
   employer and alleged violations of the Wage Theft Ordinance. OLS investigated […]'
 feed_content_checksum: 30099dfc00b2c0a93ec3db7b13cf67c314708dea
-images: []
+image_ids: []
 locations: []
 published: false
 source: City of Seattle

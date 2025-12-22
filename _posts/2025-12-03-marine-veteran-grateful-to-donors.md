@@ -67,7 +67,7 @@ feed_content: |-
 
   <p>“I think I speak for a lot of veterans when I say to the donors to Operation Homefront that we are very grateful,” he said.&nbsp;&nbsp;</p>
   <p>The post <a href="https://operationhomefront.org/marine-veteran-grateful-to-donors/">Marine Veteran Grateful to Donors </a> appeared first on <a href="https://operationhomefront.org">Operation Homefront</a>.</p>
-images:
+image_ids:
 - 1256c3561529e03fcecf0cb3046e1753072f31a5f2e50516008e97d81855e153
 locations:
 - King County

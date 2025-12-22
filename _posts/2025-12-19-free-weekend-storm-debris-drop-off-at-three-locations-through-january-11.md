@@ -8,7 +8,7 @@ feed_content: 'The King County Solid Waste Division will accept flood debris, in
   by recent flooding, King County Solid Waste will open two additional temporary storm
   debris collection sites to provide expanded […]'
 feed_content_checksum: '094ffd6d645399b6a774006456d82e573f2e6122'
-images: []
+image_ids: []
 locations:
 - King County
 original_source_html: 'The King County Solid Waste Division will accept flood debris,

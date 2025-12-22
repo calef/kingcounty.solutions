@@ -5,7 +5,7 @@ feed_content: The City of Seattle has awarded $935,448 to support 23 community-i
   Fund Community Partnership Fund. These community groups received awards averaging
   $40,672 and hav...
 feed_content_checksum: 4849b50e02904910ede30d865af107761223f219
-images: []
+image_ids: []
 locations: []
 published: false
 source: City of Seattle

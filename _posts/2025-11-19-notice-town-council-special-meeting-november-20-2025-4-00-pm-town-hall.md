@@ -16,7 +16,7 @@ feed_content: |-
   <p>Your attendance is always encouraged.</p>
   <p>Thank you.</p>
   <p>&nbsp;</p>
-images: []
+image_ids: []
 locations: []
 published: false
 source: Town of Yarrow Point

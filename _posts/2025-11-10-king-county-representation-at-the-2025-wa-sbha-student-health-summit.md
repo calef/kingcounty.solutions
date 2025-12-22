@@ -7,7 +7,7 @@ feed_content: On November 7, the Washington School Based Health Alliance hosted 
   100 attendees. Representatives from King County's health organizations presented
   their initiatives, including student health councils and local health jurisdiction
   support, fostering networking and collaboration among peers across the state.
-images: []
+image_ids: []
 locations:
 - King County
 source: King County School Health

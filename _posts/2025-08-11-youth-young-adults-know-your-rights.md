@@ -19,7 +19,7 @@ feed_content: |-
   ELAP is a King County-based nonprofit that provides free legal help and resources to people who can’t afford a lawyer. Find out if you qualify for legal help at **[elap.org/get-help](http://elap.org/get-help)**.
 
   The post [Youth & young adults: Know your rights](https://elap.org/youth-young-adults-know-your-rights/) appeared first on [Eastside Legal Assistance Program](https://elap.org).
-images: []
+image_ids: []
 locations:
 - King County
 source: Eastside Legal Assistance Program

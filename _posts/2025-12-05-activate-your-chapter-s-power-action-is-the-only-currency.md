@@ -35,7 +35,7 @@ feed_content: "<div class=\"editor clearfix\">\n\n    \n    <p>As a DAV leader, 
   into active, powerful advocates, ensuring that DAV remains the strongest voice for
   our nation’s disabled veterans.</p>\n\n</div><p>The post <a href=\"https://www.dav.org/learn-more/news/2025/activate-your-chapters-power-action-is-the-only-currency/\">Activate
   your chapter’s power – action is the only currency</a> appeared first on <a href=\"https://www.dav.org\">DAV</a>.</p>"
-images: []
+image_ids: []
 locations: []
 published: false
 source: Disabled American Veterans

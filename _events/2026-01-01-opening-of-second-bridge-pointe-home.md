@@ -3,7 +3,7 @@ feed_content: Anticipated opening of the second Bridge Pointe house for young ad
   transitioning from inpatient behavioral health treatment.
 feed_content_checksum: 1549d7838a30169bb9329ed2075f959e23c1ee53
 generated_from_post: true
-images: []
+image_ids: []
 location: ''
 locations:
 - King County

@@ -5,7 +5,7 @@ events_extracted: true
 feed_content: Every day, hundreds of thousands of riders step onto King County Metro
   buses and count on a smooth, safe and welcoming ride. For many lucky passengers,
   that ride has been...
-images: []
+image_ids: []
 locations:
 - King County
 source: King County Metro Transit

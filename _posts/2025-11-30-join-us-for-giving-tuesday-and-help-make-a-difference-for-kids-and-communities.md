@@ -105,7 +105,7 @@ feed_content: |-
 
   <p></p>
   <p>The post <a href="https://www.brightspark.org/2025/11/join-us-for-giving-tuesday-and-help-make-a-difference-for-kids-and-communities/">Join us for Giving Tuesday and help make a difference for kids and communities!</a> appeared first on <a href="https://www.brightspark.org">BrightSpark</a>.</p>
-images:
+image_ids:
 - 129373fcebfe8f05e4765f9f8a7364540d702739cda35cb5be81b380f3e87c7c
 - b7da5b7b1e746b71fc95c4fa06b91cc0f4e7fa94b6a71fd1286b3989152b2839
 locations:

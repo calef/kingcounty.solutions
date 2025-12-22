@@ -64,7 +64,7 @@ feed_content: '<article id="post-3858" class="post-3858 uw_oplevents type-uw_opl
   </div> </div> <p class="sponsor-dept"><strong>Sponsoring Departments:</strong> School
   of Nursing, School of Public Health, Department of Anthropology, Center for Anti-Racism
   and Community Health (ARCH), The Graduate School</p> </div> </article>'
-images: []
+image_ids: []
 location: Town Hall Seattle
 locations:
 - King County

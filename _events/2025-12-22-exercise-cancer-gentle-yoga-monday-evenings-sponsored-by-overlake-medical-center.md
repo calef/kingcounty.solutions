@@ -34,7 +34,7 @@ feed_content: "<header> <div> <div><div> <div><div> <a>Lifeline</a> | 206.297.25
   to Give</a></li> <li><a>Volunteer with Us</a></li> <li><a>Donate Now</a></li> <li><a>Planned
   Giving</a></li> </ul> </div> </aside> </div> </div> </div> </div>"
 feed_content_checksum: 0ba627d894e5de15159bbedee04a431228f2d7f2
-images: []
+image_ids: []
 location: "[ONLINE] Overlake Medical Center"
 locations:
 - King County

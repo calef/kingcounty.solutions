@@ -7,7 +7,7 @@ feed_content: This year, we’re celebrating 30 years of our Support, Advocacy, 
   you must view them holistically. From therapy to medication management to peer counseling,
   SAGE considers every client’s physical, emotional, medical, social, and spiritual
   needs. Over the past three decades, [&#8230;]
-images: []
+image_ids: []
 locations:
 - King County
 source: DESC

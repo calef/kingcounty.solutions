@@ -69,7 +69,7 @@ feed_content: |-
 
 
   <p>RSVP today at 425.690.3150, option 2, or email <a href="mailto:pgunther@psbenefits.net" data-type="mailto" data-id="mailto:pgunther@psbenefits.net">pgunther@psbenefits.net</a> to reserve your spot and make the most of this enrollment season!</p>
-images: []
+image_ids: []
 locations:
 - King County
 source: Hospital District No. 1 (Valley Medical Center)

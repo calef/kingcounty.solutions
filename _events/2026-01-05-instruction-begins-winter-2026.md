@@ -212,7 +212,7 @@ feed_content: "<div> <div> <header> <div> <a>Home</a> <a>Home</a> </div> </heade
   </div> </div> </div> <div> <a>University of Washington</a> <a><h3>Be boundless</h3></a>
   <h4>Connect with us:</h4> </div> </div> </div>"
 feed_content_checksum: 61d66633f7a5d50432d0980f8f10db1c128aaaf0
-images: []
+image_ids: []
 location: ''
 locations:
 - King County

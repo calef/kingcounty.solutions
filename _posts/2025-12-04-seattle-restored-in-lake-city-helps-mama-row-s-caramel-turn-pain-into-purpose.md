@@ -4,7 +4,7 @@ feed_content: When the call came that Seattle Restored had an opening in its new
   kitchen space in Lake City, Jonathan Hudson said it was “a no brainer.” “It was
   the perfect timing,” said Hudson, owner of Mama Row’s Caramel. “It opened up a lot
   of possibil...
-images: []
+image_ids: []
 locations: []
 published: false
 source: City of Seattle

@@ -5,7 +5,7 @@ feed_content: Due to severe weather conditions and flooding, on Tuesday, Dec. 9t
   Avenue Southeast. It is unknown when it will re-open. Your safety is our top priority.
   Do not attempt to drive or walk on this road. You will be notified when it […]
 feed_content_checksum: 46d0fe6a32b1ae2671d1c91bf4f52cc4ceda40ba
-images: []
+image_ids: []
 locations:
 - King County
 published: false

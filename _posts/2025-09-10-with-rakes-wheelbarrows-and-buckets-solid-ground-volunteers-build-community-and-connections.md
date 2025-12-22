@@ -1009,7 +1009,7 @@ feed_content: "<p><img width=\"361\" height=\"255\" src=\"https://s14621.pcdn.co
   post <a href=\"https://www.solid-ground.org/with-rakes-wheelbarrows-and-buckets-solid-ground-volunteers-build-community-and-connections/\">With
   rakes, wheelbarrows, and buckets, Solid Ground volunteers build community and connections </a>
   appeared first on <a href=\"https://www.solid-ground.org\">Solid Ground</a>."
-images:
+image_ids:
 - dd1b549d9af30a92afc88e1cb40e6977a941247ce9196ee59b9e3ecee0470a36
 - b151f03772c180d3108b8826440771c0372f52d7f253f1ad11ea348dfe8e9c21
 - d26a8a7ff69a2b0a25dfb857a7aea4b42b928f7dbc9410d1329e613a95dc95be

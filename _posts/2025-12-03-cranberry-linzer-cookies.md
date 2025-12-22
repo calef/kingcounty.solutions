@@ -29,7 +29,7 @@ feed_content: '<p class="">Recipe shared in partnership with <a href="https://th
   allow it to cool.</p><p class="">- <strong>To assemble:</strong> Spread a small
   amount of the cranberry filling onto one side of the bottom half of a cookie. Place
   the top half of the cookie on top of the cranberry filled side. </p>'
-images: []
+image_ids: []
 locations: []
 published: false
 source: Rainier Valley Food Bank

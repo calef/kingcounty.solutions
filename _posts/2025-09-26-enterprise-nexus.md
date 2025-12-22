@@ -5,7 +5,7 @@ events_extracted: true
 feed_content: <p>The post <a href="https://worksourceskc.org/enterprise-nexus/">Enterprise
   Nexus</a> appeared first on <a href="https://worksourceskc.org">WorkSource Seattle-King
   County</a>.</p>
-images: []
+image_ids: []
 locations:
 - King County
 source: WorkSource Seattle-King County

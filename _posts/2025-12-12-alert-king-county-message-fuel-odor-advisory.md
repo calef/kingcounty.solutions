@@ -6,7 +6,7 @@ feed_content: Hello, This message is for residents and businesses near S. 277th 
   conducting mitigation and cleanup. During this work, fuel odors may be released
   into […]
 feed_content_checksum: 64b59834896993cd96559f50b613fa229c18ece5
-images: []
+image_ids: []
 locations:
 - King County
 published: false

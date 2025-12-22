@@ -130,7 +130,7 @@ feed_content: |-
   <!--/$-->
   </div>
   </div></div></div>
-images: []
+image_ids: []
 locations:
 - Vashon
 source: The Vashon DOVE Project

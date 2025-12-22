@@ -3,7 +3,7 @@ date: '2025-12-11T05:53:51-08:00'
 feed_content: NACHES – A section of US 12 at the east entrance of Naches is closed
   due to a washout. A detour is available via local roads.
 feed_content_checksum: a940d7241ab85651af9804d34010b1d95761534a
-images: []
+image_ids: []
 locations: []
 published: false
 rss_guid: https://wsdot.wa.gov/about/news/2025/us-12-closed-naches-due-washout-repair-plan-underway

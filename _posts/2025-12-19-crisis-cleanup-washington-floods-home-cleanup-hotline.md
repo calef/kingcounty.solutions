@@ -8,7 +8,7 @@ feed_content: "(844) 965-1386 If you need assistance with damage from the Washin
   who may be able to assist with: All services are free, but service is not guaranteed
   due to the […]"
 feed_content_checksum: 2a0b2fa9f5a2c71cca7a2471a8e35d9f30581513
-images: []
+image_ids: []
 locations:
 - King County
 original_source_html: "(844) 965-1386 If you need assistance with damage from the

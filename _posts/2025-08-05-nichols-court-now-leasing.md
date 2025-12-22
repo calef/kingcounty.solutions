@@ -4,7 +4,7 @@ events: []
 events_extracted: true
 feed_content: We are pleased to announce that Nichols Court is ready for lease up
   and has received its Temporary Certificate of Occupancy. Please see...
-images: []
+image_ids: []
 locations:
 - King County
 source: Low Income Housing Institute

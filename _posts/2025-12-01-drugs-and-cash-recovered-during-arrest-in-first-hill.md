@@ -4,7 +4,7 @@ feed_content: Seattle police officers recovered drugs and cash during an arrest 
   the First Hill neighborhood on Nov. 28. At about 6:20 p.m., officers doing proactive
   patrols near Harvard Avenue and Spring Street found two people inside of a vehicle
   with expired ca...
-images: []
+image_ids: []
 locations: []
 published: false
 source: City of Seattle

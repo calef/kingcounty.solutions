@@ -7,7 +7,7 @@ feed_content: In October 2025, Neighborcare introduced the Public Health School-
   After two years in temporary portables, the school has been rebuilt. Appreciation
   is extended to Mercer Middle School's staff for their hospitality. Congratulations
   on the new clinic!
-images: []
+image_ids: []
 locations:
 - King County
 source: King County School Health

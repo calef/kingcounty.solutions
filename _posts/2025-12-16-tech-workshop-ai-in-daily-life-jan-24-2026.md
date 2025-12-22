@@ -7,7 +7,7 @@ feed_content: |-
 
   <p>Join Rajat to learn about practical uses of artificial intelligence in daily life. RSVPs appreciated, FREE.</p>
 feed_content_checksum: 3c6d0b7275d59590159d005109fc43d9f8e29368
-images: []
+image_ids: []
 locations:
 - King County
 original_source_html: |-

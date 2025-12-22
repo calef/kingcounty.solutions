@@ -36,7 +36,7 @@ feed_content: <section id="tribe-events-pg-template" class="tribe-events-pg-temp
   class="tribe-events-meta-value"> <abbr class="tribe-events-abbr tribe-events-end-date
   dtend" title="2026-01-01"> January 1, 2026 </abbr> </span> </li> </ul> </div> </div>
   </div> </div> </section>
-images: []
+image_ids: []
 location: WA
 locations:
 - King County

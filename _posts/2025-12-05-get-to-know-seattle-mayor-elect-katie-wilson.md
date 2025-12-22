@@ -6,7 +6,7 @@ feed_content: On January 1, 2026, Mayor-elect Katie Wilson will be sworn into of
   to assume the duty of leading our city and serving the people of Seattle. As we
   prepare for this shift in leadership, we want to give the community an opportunity
   to learn more abou...
-images: []
+image_ids: []
 locations:
 - King County
 source: City of Seattle

@@ -74,7 +74,7 @@ feed_content: |-
 
 
   <p>Because caregiving begins with connection—and community makes us stronger.</p>
-images: []
+image_ids: []
 locations:
 - King County
 source: Veterans Affairs Pension Program

@@ -4,7 +4,7 @@ events: []
 events_extracted: true
 feed_content: My name is Hormedys, and I'm from Venezuela. Venezuela is a great country,
   located in South America, with many riches of all kinds. I was...
-images: []
+image_ids: []
 locations:
 - King County
 source: Diocese of Olympia Refugee Resettlement Office

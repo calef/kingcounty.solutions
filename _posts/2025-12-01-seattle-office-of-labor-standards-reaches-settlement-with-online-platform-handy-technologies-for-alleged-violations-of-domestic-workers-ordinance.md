@@ -8,7 +8,7 @@ feed_content: 'Nearly $136,000 in Remedies to 705 Workers For Immediate Release 
   for Alleged Violations of Domestic Workers Ordinance Nearly $136,000 in Remedies
   to 705 Workers Seattle, WA – (December 1, 2025) – The Office of Labor Standards
   (OLS) investigated Handy [&#8230;]'
-images: []
+image_ids: []
 locations:
 - King County
 published: false

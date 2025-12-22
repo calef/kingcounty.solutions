@@ -4,7 +4,7 @@ feed_content: It’s that time of year again! The much-anticipated Salmon &#8220
   is officially underway in Seattle. Every fall, our local waterways come alive with
   the incredible journey of salmon returning to their home streams to spawn. You have
   a fron...
-images: []
+image_ids: []
 locations: []
 published: false
 source: City of Seattle

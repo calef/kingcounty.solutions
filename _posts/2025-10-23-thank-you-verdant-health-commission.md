@@ -7,7 +7,7 @@ feed_content: |-
   <p>The Lynnwood location was home to our Community-Based Intensive Services Department, where families and youth receive essential mental health services. Thanks to the support of our community partners and resiliency of our staff, we have been able to continue services without delay and ensure continuity of care for our clients.</p>
   <p>Verdant’s generous contribution does more than help us rebuild—it demonstrates a shared priority of healing, connection, and hope in our community. This commitment to behavioral healthcare demonstrates the profound impact of collaboration and shared purpose in community wellbeing.</p>
   <p>On behalf of our staff, clients, and board of directors, we extend our heartfelt thanks to Verdant Health Commission for standing with us in this rebuilding journey. Your support ensures that the families we serve continue to have access to the compassionate care they deserve.</p>
-images: []
+image_ids: []
 locations: []
 published: false
 source: Center for Human Services

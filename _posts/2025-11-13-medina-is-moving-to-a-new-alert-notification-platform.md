@@ -5,7 +5,7 @@ feed_content: '<div class="field field-name-body field-type-text-with-summary fi
   City of Medina is transitioning to a new alert and notification platform: <a href="https://www.civicplus.com/mass-notification-system/">CivicPlus
   </a>Mass Notification System.</strong> This change means we will no longer use our
   current system to send emergency alerts or routine city updates.</p></div></div></div>'
-images: []
+image_ids: []
 locations: []
 published: false
 source: City of Medina

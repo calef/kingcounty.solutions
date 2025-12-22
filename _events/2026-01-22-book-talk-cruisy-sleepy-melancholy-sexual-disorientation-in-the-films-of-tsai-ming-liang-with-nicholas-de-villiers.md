@@ -3,7 +3,7 @@ end_date: '2026-01-22T17:00:00-08:00'
 feed_content: '<div id="error-message" style="display: none"> <div class="message
   message__page-banner message--error"> <div class="message-text"> Something went
   wrong. Please click "Refresh" to try again. </div> </div> </div>'
-images: []
+image_ids: []
 location: Thomson Hall (THO)
 locations:
 - King County

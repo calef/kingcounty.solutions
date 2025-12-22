@@ -33,7 +33,7 @@ feed_content: "<header> <div> <div><div> <div><div> <a>Lifeline</a> | 206.297.25
   to Give</a></li> <li><a>Volunteer with Us</a></li> <li><a>Donate Now</a></li> <li><a>Planned
   Giving</a></li> </ul> </div> </aside> </div> </div> </div> </div>"
 feed_content_checksum: 2a19b5143e0f455157210a32a4c3f2fa0cd12132
-images: []
+image_ids: []
 location: "[ONLINE] EvergreenHealth"
 locations:
 - King County

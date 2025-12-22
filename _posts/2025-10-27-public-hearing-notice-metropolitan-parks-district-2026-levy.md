@@ -51,7 +51,7 @@ feed_content: <div id="page-container"> <div id="et-boc" class="et-boc"> <header
   news and updates from our team.</p> </div> </div> </div> <div class="et_bloom_form_content
   et_bloom_1_field et_bloom_bottom_stacked"> <h2 class="et_bloom_success_message">You
   have Successfully Subscribed!</h2> </div> </div> </div> </div>
-images: []
+image_ids: []
 locations: []
 published: false
 source: City of Normandy Park

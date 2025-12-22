@@ -49,7 +49,7 @@ feed_content: |-
 
   <p></p>
   <p>The post <a href="https://transformingage.org/blog/mission-matters-thanksgiving-2025/">Mission Matters: Thanksgiving 2025</a> appeared first on <a href="https://transformingage.org">Transforming Age | Senior Housing, Community Services, Philanthropy, Technology &amp; Partnerships</a>.</p>
-images: []
+image_ids: []
 locations:
 - King County
 source: Transforming Age

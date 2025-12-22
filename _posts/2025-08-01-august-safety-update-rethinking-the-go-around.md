@@ -126,7 +126,7 @@ feed_content: |-
 
 
   <p>Alexi Stavropoulos<br>AFW Safety Officer <br><a href="mailto:AlexiosS@angelflightwest.org" target="_blank" rel="noreferrer noopener">AlexiosS@angelflightwest.org</a> </p><p>The post <a href="https://angelflightwest.org/news/august-safety-update-rethinking-the-go-around/">August Safety Update: Rethinking the Go-Around</a> first appeared on <a href="https://angelflightwest.org">Angel Flight West</a>.</p>
-images: []
+image_ids: []
 locations: []
 published: false
 source: Angel Flight West

@@ -27,7 +27,7 @@ feed_content: "<section> <div> <div> <div> <section> <div> <h1>Electric Cello Co
   <span>5:00 pm</span> </div> </li> </ul> </div> <p> <a> Back to events</a> </p> </div>
   </section> </div> </div> </div> </section>"
 feed_content_checksum: 4fd7727e8d74943d43d24083c2b48799d310934b
-images: []
+image_ids: []
 location: Tukwila Library, 14380 Tukwila International Boulevard, Tukwila, WA, United
   States
 locations:

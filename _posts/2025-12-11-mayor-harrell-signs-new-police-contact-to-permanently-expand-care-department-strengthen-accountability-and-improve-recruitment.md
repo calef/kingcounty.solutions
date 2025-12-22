@@ -5,7 +5,7 @@ feed_content: Approval reflects monumental, nation-leading step forward in diver
   with rank-and-file Seattle police officers that will allow for the permanent expansion
   and direct...
 feed_content_checksum: 22622a56817d1e0e29efb1ff628a7732507737f1
-images: []
+image_ids: []
 locations:
 - King County
 published: false

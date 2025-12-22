@@ -4,7 +4,7 @@ events: []
 events_extracted: true
 feed_content: We’re thrilled to share that the results are in from our recent  Community
   Feedback Survey!   At Friends of Youth, we believe that the...
-images: []
+image_ids: []
 locations:
 - King County
 source: Friends of Youth

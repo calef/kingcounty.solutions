@@ -30,7 +30,7 @@ feed_content: "<section> <div> <div> <div> <section> <div> <div> <span> Event Se
   pm</span> </div> </li> </ul> </div> <p> <a> Back to events</a> </p> </div> </section>
   </div> </div> </div> </section>"
 feed_content_checksum: 7fd150dc4fe50eb3cefed9c2c8b919df43c8de02
-images: []
+image_ids: []
 location: 'Bloodworks Donation Center, 660 SW 39TH ST #100, Renton'
 locations:
 - King County

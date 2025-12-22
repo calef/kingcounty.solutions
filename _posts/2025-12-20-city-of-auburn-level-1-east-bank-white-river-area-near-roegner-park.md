@@ -5,7 +5,7 @@ feed_content: POSTED December 19, 2025 – 6 p.m. A Level 1 (GET READY) evacuati
   the White River may potentially rise toward approximately 10,000 cubic feet per
   second (cfs), the City of Auburn has identified areas along HESCO and sandbag […]
 feed_content_checksum: c4b0808ad926080edf96181734d39b4e34d70c64
-images: []
+image_ids: []
 locations:
 - King County
 original_source_html: POSTED December 19, 2025 – 6 p.m. A Level 1 (GET READY) evacuation

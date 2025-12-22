@@ -18,7 +18,7 @@ feed_content: '<p class="">Recipe adapted from Nadia Tommalieh</p><p class="">Yi
   Add the sumac and salt and whisk again.</p><p data-rte-preserve-empty="true" class=""></p><h4>Prepare
   the salad:</h4><p class="">- Add the dressing to the chopped vegetables just before
   serving.</p>'
-images: []
+image_ids: []
 locations: []
 published: false
 source: Rainier Valley Food Bank

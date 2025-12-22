@@ -5,7 +5,7 @@ events_extracted: true
 feed_content: |-
   <p class="">The sewer line at the American Legion Hall has been repaired, and the shelter will open for breakfast tomorrow as usual, from 7 to 11 am.</p>
   <p>The post <a href="https://westsideneighborsshelter.org/latest-news-sewer-line-has-been-fixed/">LATEST NEWS: Sewer line has been fixed</a> appeared first on <a href="https://westsideneighborsshelter.org">Westside Neighbors Shelter</a>.</p>
-images: []
+image_ids: []
 locations:
 - King County
 source: Westside Neighbors Shelter

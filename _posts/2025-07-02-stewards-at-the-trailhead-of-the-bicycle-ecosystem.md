@@ -92,7 +92,7 @@ feed_content: "<figure class=\"wp-block-image size-large\"><img data-recalc-dims
   /><br /></p>\r\n<p>The post <a href=\"https://bikeworks.org/steves-manifesto/\">stewards
   at the trailhead of the bicycle ecosystem</a> appeared first on <a href=\"https://bikeworks.org\">Bike
   Works</a>.</p>"
-images: []
+image_ids: []
 locations: []
 published: false
 source: Bike Works

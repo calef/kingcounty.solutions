@@ -5,7 +5,7 @@ feed_content: MUKILTEO – Washington State Ferries will begin in-water work at 
   structure. The work requires shutting down ferry service during midday for four
   hours over nine days. It will also affect overnight schedules in January and February.
 feed_content_checksum: 6c430e3e9b9d318b1acf9823e0cd162ffb8a6b2f
-images: []
+image_ids: []
 locations: []
 published: false
 rss_guid: https://wsdot.wa.gov/about/news/2025/mukilteo-clinton-ferry-service-be-suspended-midday-nine-days-construction-early-2026

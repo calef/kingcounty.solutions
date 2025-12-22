@@ -68,7 +68,7 @@ feed_content: |-
   <p>For Maiy and her network of peers, it all comes down to providing the best possible experience for the children she cares for and the families she serves. “We want to learn and grow because we are all with kids. And we want to best care for the kids.”</p>
   <p>The post <a>Professional Learning Communities: Connecting Providers through Collaborative Conversations</a> appeared first on <a>BrightSpark</a>.</p>
 feed_content_checksum: 75a681422c332603b3eed2e91dc747ef4d5cb053
-images:
+image_ids:
 - 9c5915193a25b015fd82635824a5189a2f8fa0e7b4e35e044590ab2167215a6c
 locations:
 - King County

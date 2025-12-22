@@ -7,7 +7,7 @@ feed_content: 'International Community Health Services (ICHS) is hiring for thre
   and Community Services Manager. The roles focus on connecting youth and families
   to healthcare, coordinating mobile health services, and overseeing school-based
   health initiatives to improve community health access and equity.'
-images: []
+image_ids: []
 locations:
 - King County
 source: King County School Health

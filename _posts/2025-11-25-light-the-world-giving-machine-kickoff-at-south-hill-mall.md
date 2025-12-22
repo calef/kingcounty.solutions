@@ -15,7 +15,7 @@ feed_content: "<p>What a beautiful morning celebrating the installation of this 
   \               \n                <img src=\"https://images.squarespace-cdn.com/content/v1/6244ce6a3e335a451b9540a9/b3420073-24b3-4b59-b5c6-4edaddb220d5/590483571_1158938019684961_3429609192210798363_n.jpg?format=1000w\">\n\n
   \           \n          \n        \n          \n        \n\n        \n      \n        </figure>"
 feed_content_checksum: f80d835b330edea52975acdc861c9967edfeeb61
-images: []
+image_ids: []
 locations: []
 original_source_html: "<p>What a beautiful morning celebrating the installation of
   this year’s <a><strong>Light The World Giving Machines</strong></a> at South Hill

@@ -8,7 +8,7 @@ feed_content: |-
 
 
   <p>Originally from &hellip;</p></a>
-images: []
+image_ids: []
 locations: []
 published: false
 source: The Center for Active Living

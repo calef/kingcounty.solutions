@@ -999,7 +999,7 @@ feed_content: "<div data-elementor-type=\"wp-post\" data-elementor-id=\"6743\" c
   post <a href=\"https://pmi.edu/on-campus-programs/certificate/advanced-emergency-medical-technician/\">Advanced
   Emergency Medical Technician</a> appeared first on <a href=\"https://pmi.edu\">Pima
   Medical Institute</a>.</p>"
-images:
+image_ids:
 - 5688a25b1766e8f34eefaab58ecf7bbad87d1067699f95a581f0fc7e4bf56c67
 - b28cc66d6760bdbd188b3ee4632460587af97e0706e6e3f00b3cbafffdddf474
 - 5e246658ac9c899914fbb0383e58c48416002473e047c8b8d2104be142a1e94a

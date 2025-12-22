@@ -135,7 +135,7 @@ feed_content: "<span>State disciplines health care providers (12-15-2025)</span>
   \   <div>News Author</div>\n              <div>Washington State Department of Health</div>\n
   \         </div>"
 feed_content_checksum: 787c154918991b734f4f061c3682545fe5088bde
-images: []
+image_ids: []
 locations:
 - King County
 original_source_html: "<span>State disciplines health care providers (12-15-2025)</span>\n\n

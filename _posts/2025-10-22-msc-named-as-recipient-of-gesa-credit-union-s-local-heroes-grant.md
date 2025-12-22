@@ -7,7 +7,7 @@ feed_content: Multi-Service Center has been chosen by the Gesa Community Foundat
   in funding. With the award money, MSC plans to do upgrade technology and replace
   some furniture in community common areas.   “At Gesa, we are honored to support
   the Local Heroes  [...]
-images: []
+image_ids: []
 locations:
 - South King County
 source: Multi-Service Center

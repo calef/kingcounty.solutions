@@ -50,7 +50,7 @@ feed_content: "<div>\n<div>\n\t\t\t\t\n<div>\n\t\n<h2>\n\t<span>\n\t\t\t\t<span>
   a:hover .mk-svg-icon { fill: #ffffff !important;}</style>\n</div></section>\t</div>\n</aside>\n\n</div>\n\t</div>\n\n</div><p>The
   post <a>IDDRC Special Issue Highlights UW Research</a> appeared first on <a>UW IHDD</a>.</p>"
 feed_content_checksum: 74081842341958c82d37cae1921edffc95a28338
-images: []
+image_ids: []
 locations:
 - King County
 original_source_html: "<div>\n<div>\n\t\t\t\t\n<div>\n\t\n<h2>\n\t<span>\n\t\t\t\t<span><span><a>Home</a></span></span>\n\t\t\t</span>\n</h2>\n<div></div>\n\n\n\n\t<div>\n\n<div>\n\n\t\n\t<h2>IDDRC

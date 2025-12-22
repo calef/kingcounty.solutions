@@ -33,8 +33,8 @@ module Mayhem
         self['generated_from_post'] == true
       end
 
-      def images
-        self['images']
+      def image_ids
+        self['image_ids']
       end
 
       def location

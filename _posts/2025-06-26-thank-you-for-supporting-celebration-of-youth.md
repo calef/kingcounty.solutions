@@ -4,7 +4,7 @@ events: []
 events_extracted: true
 feed_content: Celebration of Youth has come to an end, and we are excited to announce
   that we raised a total of $574,603! We are so thankful to...
-images: []
+image_ids: []
 locations:
 - King County
 source: Friends of Youth

@@ -6,7 +6,7 @@ feed_content: Cedar River Water and Sewer District (CRWSD) is lifting the Precau
   been completed, and results confirm that your drinking water is safe. Please flush
   lines for […]
 feed_content_checksum: '00281e6b47fa3233c076347cc2a42df10c252840'
-images: []
+image_ids: []
 locations:
 - King County
 published: false

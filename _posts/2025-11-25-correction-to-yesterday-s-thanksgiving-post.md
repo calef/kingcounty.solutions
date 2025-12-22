@@ -5,7 +5,7 @@ events_extracted: true
 feed_content: |-
   <p class="">If you&#8217;d like to help the shelter for Thanksgiving, the contact person is Cinda Stenger, cstenger49@gmail.com.</p>
   <p>The post <a href="https://westsideneighborsshelter.org/correction-to-yesterdays-thanksgiving-post/">Correction to yesterday&#8217;s Thanksgiving post</a> appeared first on <a href="https://westsideneighborsshelter.org">Westside Neighbors Shelter</a>.</p>
-images: []
+image_ids: []
 locations:
 - King County
 source: Westside Neighbors Shelter

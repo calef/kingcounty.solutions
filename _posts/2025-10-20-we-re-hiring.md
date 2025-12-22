@@ -12,7 +12,7 @@ feed_content: |-
 
 
   <p></p>
-images: []
+image_ids: []
 locations:
 - South King County
 source: Hospitality House

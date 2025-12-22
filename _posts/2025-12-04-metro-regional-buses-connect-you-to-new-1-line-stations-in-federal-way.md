@@ -5,7 +5,7 @@ events_extracted: true
 feed_content: Link light rail has arrived in Federal Way! On Dec. 6, you can join
   Sound Transit’s Link 1 Line ribbon-cutting celebration at Federal Way Downtown Station
   to mark the opening...
-images: []
+image_ids: []
 locations:
 - King County
 source: King County Metro Transit
