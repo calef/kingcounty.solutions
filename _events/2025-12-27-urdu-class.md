@@ -22,6 +22,7 @@ image_ids: []
 location: ''
 location_titles:
 - King County
+locked: true
 organization_title: Muslim Association of Puget Sound
 original_source_html: "<!DOCTYPE html>\n<html class=\"html\" lang=\"en-US\">\n<head>\n\t<meta
   charset=\"UTF-8\">\n\t<link rel=\"profile\" href=\"https://gmpg.org/xfn/11\">\n\n\t<title>Urdu
